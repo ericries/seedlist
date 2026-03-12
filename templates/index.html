@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>Find the right investor for your startup</h1>
+  <p class="hero-sub">Browse <strong>{{ investor_count }}</strong> investors and <strong>{{ firm_count }}</strong> firms. LLM-researched and regularly updated.</p>
+
+  <div class="search-wrap">
+    <input
+      type="text"
+      id="search-input"
+      class="search-input"
+      placeholder="Search investors, firms, sectors&hellip;"
+      autocomplete="off"
+    >
+    <div id="search-results" class="search-results" hidden></div>
+  </div>
+</section>
+
+<section class="home-links">
+  <a href="/investors/" class="home-card">
+    <h2>Investors</h2>
+    <p>{{ investor_count }} investor profiles</p>
+  </a>
+  <a href="/firms/" class="home-card">
+    <h2>Firms</h2>
+    <p>{{ firm_count }} firm profiles</p>
+  </a>
+</section>
+{% endblock %}
+
+{% block head %}
+<script defer>
+document.addEventListener("DOMContentLoaded", function () {
+  const input = document.getElementById("search-input");
+  const resultsEl = document.getElementById("search-results");
+  let index = null;
+
+  fetch("/search-index.json")
+    .then(r => r.json())
+    .then(data => { index = data; })
+    .catch(() => { /* index unavailable */ });
+
+  input.addEventListener("input", function () {
+    const q = this.value.trim().toLowerCase();
+    if (!q || !index) {
+      resultsEl.hidden = true;
+      resultsEl.innerHTML = "";
+      return;
+    }
+
+    const terms = q.split(/\s+/);
+    const matches = index.filter(function (entry) {
+      const hay = (entry.text || "").toLowerCase();
+      return terms.every(function (t) { return hay.indexOf(t) !== -1; });
+    }).slice(0, 20);
+
+    if (matches.length === 0) {
+      resultsEl.innerHTML = '<div class="search-empty">No results found</div>';
+      resultsEl.hidden = false;
+      return;
+    }
+
+    resultsEl.innerHTML = matches.map(function (m) {
+      const typeBadge = m.type === "investor"
+        ? '<span class="badge badge-investor">Investor</span>'
+        : '<span class="badge badge-firm">Firm</span>';
+      const sub = [m.firm, m.location].filter(Boolean).join(" &middot; ");
+      return '<a class="search-item" href="' + m.url + '">'
+        + '<div class="search-item-main">'
+        + '<span class="search-item-name">' + m.name + '</span>'
+        + typeBadge
+        + '</div>'
+        + (sub ? '<div class="search-item-sub">' + sub + '</div>' : '')
+        + '</a>';
+    }).join("");
+    resultsEl.hidden = false;
+  });
+
+  document.addEventListener("click", function (e) {
+    if (!resultsEl.contains(e.target) && e.target !== input) {
+      resultsEl.hidden = true;
+    }
+  });
+
+  input.addEventListener("focus", function () {
+    if (resultsEl.innerHTML && this.value.trim()) {
+      resultsEl.hidden = false;
+    }
+  });
+});
+</script>
+{% endblock %}

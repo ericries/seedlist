@@ -1,0 +1,40 @@
+queue:
+  - name: "Derek Howell"
+    firm: "Acme Ventures"
+    source: "co-founder listed on firm page, not yet profiled"
+    discovered_from: acme-ventures
+    priority: high
+    status: pending
+    added: 2026-03-10
+
+  - name: "Samuel Park"
+    firm: "Beta Capital"
+    source: "co-founder listed on firm page, not yet profiled"
+    discovered_from: beta-capital
+    priority: high
+    status: pending
+    added: 2026-03-10
+
+  - name: "Tanya Reeves"
+    firm: "Horizon Seed Fund"
+    source: "co-invested with Acme Ventures in PipeRoute seed round"
+    discovered_from: jane-smith
+    priority: normal
+    status: pending
+    added: 2026-03-11
+
+  - name: "Andre Liu"
+    firm: "Nimbus Partners"
+    source: "mentioned as fellow board observer in Cardiax Series A announcement"
+    discovered_from: maria-chen
+    priority: normal
+    status: pending
+    added: 2026-03-11
+
+  - name: "Rachel Kim"
+    firm: "Frontline Ventures"
+    source: "quoted alongside Jane Smith in Forbes seed investor roundup"
+    discovered_from: jane-smith
+    priority: low
+    status: pending
+    added: 2026-03-12

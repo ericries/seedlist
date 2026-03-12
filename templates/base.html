@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Seedlist{% endblock %} — Seedlist.com</title>
+  <link rel="stylesheet" href="/static/style.css">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="container nav-inner">
+      <a href="/" class="nav-brand">Seedlist</a>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/investors/">Investors</a></li>
+        <li><a href="/firms/">Firms</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Seedlist.com &mdash; LLM-researched investor directory</p>
+    </div>
+  </footer>
+</body>
+</html>

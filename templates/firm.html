@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+
+{% block title %}{{ profile.name }}{% endblock %}
+
+{% block content %}
+<article class="profile">
+  <header class="profile-header">
+    <h1>{{ profile.name }}</h1>
+
+    {% if profile.status %}
+      <span class="badge badge-status badge-{{ profile.status | lower }}">{{ profile.status }}</span>
+    {% endif %}
+  </header>
+
+  <div class="profile-meta">
+    {% if profile.location %}
+    <div class="meta-item">
+      <span class="meta-label">Location</span>
+      <span class="meta-value">{{ profile.location }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.founded %}
+    <div class="meta-item">
+      <span class="meta-label">Founded</span>
+      <span class="meta-value">{{ profile.founded }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.fund_size %}
+    <div class="meta-item">
+      <span class="meta-label">Fund Size</span>
+      <span class="meta-value">{{ profile.fund_size }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.website %}
+    <div class="meta-item">
+      <span class="meta-label">Website</span>
+      <span class="meta-value"><a href="{{ profile.website }}" target="_blank" rel="noopener">{{ profile.website }}</a></span>
+    </div>
+    {% endif %}
+  </div>
+
+  {% if profile.stage_focus %}
+  <div class="tags-section">
+    <span class="meta-label">Stage Focus</span>
+    <div class="tags">
+      {% for stage in profile.stage_focus %}
+        <span class="tag tag-stage">{{ stage }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if profile.sector_focus %}
+  <div class="tags-section">
+    <span class="meta-label">Sector Focus</span>
+    <div class="tags">
+      {% for sector in profile.sector_focus %}
+        <span class="tag tag-sector">{{ sector }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if profile.team %}
+  <div class="team-section">
+    <h2>Team</h2>
+    <div class="team-grid">
+      {% for member in profile.team %}
+      <div class="team-card">
+        <a href="/investors/{{ member.slug }}/" class="team-name">{{ member.name }}</a>
+        {% if member.role %}
+          <span class="team-role">{{ member.role }}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if profile.content %}
+  <div class="profile-body">
+    {{ profile.content | safe }}
+  </div>
+  {% endif %}
+</article>
+{% endblock %}

@@ -1,0 +1,191 @@
+#!/usr/bin/env python3
+"""Static site generator for seedlist.com.
+
+Reads markdown profiles from data/, renders HTML with Jinja2 templates,
+and outputs a complete static site to _site/.
+"""
+
+import json
+import os
+import shutil
+from pathlib import Path
+
+import frontmatter
+import markdown
+from jinja2 import Environment, FileSystemLoader
+
+ROOT = Path(__file__).parent
+DATA_DIR = ROOT / "data"
+TEMPLATES_DIR = ROOT / "templates"
+STATIC_DIR = ROOT / "static"
+OUTPUT_DIR = ROOT / "_site"
+
+
+def load_profiles(subdir):
+    """Load all markdown profiles from a data subdirectory."""
+    profiles = []
+    data_path = DATA_DIR / subdir
+    if not data_path.exists():
+        return profiles
+    for md_file in sorted(data_path.glob("*.md")):
+        post = frontmatter.load(md_file)
+        profile = dict(post.metadata)
+        profile["content"] = markdown.markdown(
+            post.content,
+            extensions=["tables", "footnotes", "smarty"],
+        )
+        profiles.append(profile)
+    return profiles
+
+
+def filter_published(profiles):
+    """Return only profiles with status: published."""
+    return [p for p in profiles if p.get("status") == "published"]
+
+
+def collect_values(profiles, key):
+    """Collect all unique values for a list-type field across profiles."""
+    values = set()
+    for p in profiles:
+        for v in p.get(key, []):
+            values.add(v)
+    return sorted(values)
+
+
+def build_search_index(investors, firms):
+    """Build a JSON search index for client-side search."""
+    entries = []
+    for p in investors:
+        text_parts = [p.get("name", ""), p.get("firm", ""), p.get("role", ""),
+                      p.get("location", "")] + p.get("stage_focus", []) + p.get("sector_focus", [])
+        entries.append({
+            "name": p.get("name", ""),
+            "type": "investor",
+            "slug": p.get("slug", ""),
+            "firm": p.get("firm", ""),
+            "role": p.get("role", ""),
+            "location": p.get("location", ""),
+            "stages": p.get("stage_focus", []),
+            "sectors": p.get("sector_focus", []),
+            "text": " ".join(text_parts),
+            "url": f"/investors/{p.get('slug', '')}.html",
+        })
+    for p in firms:
+        text_parts = [p.get("name", ""), p.get("location", "")] + p.get("stage_focus", []) + p.get("sector_focus", [])
+        entries.append({
+            "name": p.get("name", ""),
+            "type": "firm",
+            "slug": p.get("slug", ""),
+            "location": p.get("location", ""),
+            "stages": p.get("stage_focus", []),
+            "sectors": p.get("sector_focus", []),
+            "text": " ".join(text_parts),
+            "url": f"/firms/{p.get('slug', '')}.html",
+        })
+    return entries
+
+
+def build():
+    """Build the static site."""
+    # Clean output
+    if OUTPUT_DIR.exists():
+        shutil.rmtree(OUTPUT_DIR)
+    OUTPUT_DIR.mkdir(parents=True)
+
+    # Set up Jinja2
+    env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
+
+    # Load all profiles
+    all_investors = load_profiles("investors")
+    all_firms = load_profiles("firms")
+
+    # Filter to published
+    investors = filter_published(all_investors)
+    firms = filter_published(all_firms)
+
+    # Build firm lookup for investor pages
+    firm_lookup = {f["slug"]: f for f in firms}
+
+    # Render investor pages
+    investor_template = env.get_template("investor.html")
+    (OUTPUT_DIR / "investors").mkdir(parents=True, exist_ok=True)
+    for profile in investors:
+        profile["firm_data"] = firm_lookup.get(profile.get("firm", ""))
+        html = investor_template.render(profile=profile)
+        out_path = OUTPUT_DIR / "investors" / f"{profile['slug']}.html"
+        out_path.write_text(html)
+
+    # Render firm pages
+    firm_template = env.get_template("firm.html")
+    (OUTPUT_DIR / "firms").mkdir(parents=True, exist_ok=True)
+    for profile in firms:
+        # Attach investor data for team members
+        profile["team_profiles"] = []
+        for member in profile.get("team", []):
+            for inv in investors:
+                if inv["slug"] == member["slug"]:
+                    profile["team_profiles"].append(inv)
+                    break
+        html = firm_template.render(profile=profile)
+        out_path = OUTPUT_DIR / "firms" / f"{profile['slug']}.html"
+        out_path.write_text(html)
+
+    # Generate listing pages
+    listing_template = env.get_template("listing.html")
+
+    # All investors
+    html = listing_template.render(title="All Investors", profiles=investors, list_type="investor")
+    (OUTPUT_DIR / "investors" / "index.html").write_text(html)
+
+    # All firms
+    html = listing_template.render(title="All Firms", profiles=firms, list_type="firm")
+    (OUTPUT_DIR / "firms" / "index.html").write_text(html)
+
+    # By stage
+    stages = collect_values(investors + firms, "stage_focus")
+    (OUTPUT_DIR / "stage").mkdir(parents=True, exist_ok=True)
+    for stage in stages:
+        matched = [p for p in investors + firms if stage in p.get("stage_focus", [])]
+        html = listing_template.render(title=f"Stage: {stage}", profiles=matched, list_type="mixed")
+        (OUTPUT_DIR / "stage" / f"{stage}.html").write_text(html)
+
+    # By sector
+    sectors = collect_values(investors + firms, "sector_focus")
+    (OUTPUT_DIR / "sector").mkdir(parents=True, exist_ok=True)
+    for sector in sectors:
+        matched = [p for p in investors + firms if sector in p.get("sector_focus", [])]
+        html = listing_template.render(title=f"Sector: {sector}", profiles=matched, list_type="mixed")
+        (OUTPUT_DIR / "sector" / f"{sector}.html").write_text(html)
+
+    # Generate search index
+    search_index = build_search_index(investors, firms)
+    (OUTPUT_DIR / "search-index.json").write_text(json.dumps(search_index, indent=2))
+
+    # Render homepage
+    index_template = env.get_template("index.html")
+    html = index_template.render(
+        investor_count=len(investors),
+        firm_count=len(firms),
+        stages=stages,
+        sectors=sectors,
+    )
+    (OUTPUT_DIR / "index.html").write_text(html)
+
+    # Copy static assets
+    if STATIC_DIR.exists():
+        static_out = OUTPUT_DIR / "static"
+        shutil.copytree(STATIC_DIR, static_out)
+
+    # Copy CNAME for custom domain
+    cname_path = ROOT / "CNAME"
+    if cname_path.exists():
+        shutil.copy2(cname_path, OUTPUT_DIR / "CNAME")
+
+    print(f"Built {len(investors)} investor pages, {len(firms)} firm pages")
+    print(f"Generated {len(stages)} stage listings, {len(sectors)} sector listings")
+    print(f"Search index: {len(search_index)} entries")
+    print(f"Output: {OUTPUT_DIR}")
+
+
+if __name__ == "__main__":
+    build()
