@@ -5,7 +5,7 @@
 {% block content %}
 <section class="hero">
   <h1>Find the right investor for your startup</h1>
-  <p class="hero-sub">Browse <strong>{{ investor_count }}</strong> investors and <strong>{{ firm_count }}</strong> firms. LLM-researched and regularly updated.</p>
+  <p class="hero-sub">Browse <strong>{{ investor_count }}</strong> investors, <strong>{{ firm_count }}</strong> firms, and <strong>{{ startup_count }}</strong> startups. LLM-researched and regularly updated.</p>
 
   <div class="search-wrap">
     <input
@@ -27,6 +27,10 @@
   <a href="/firms/" class="home-card">
     <h2>Firms</h2>
     <p>{{ firm_count }} firm profiles</p>
+  </a>
+  <a href="/startups/" class="home-card">
+    <h2>Startups</h2>
+    <p>{{ startup_count }} startup profiles</p>
   </a>
 </section>
 {% endblock %}
@@ -66,7 +70,9 @@ document.addEventListener("DOMContentLoaded", function () {
     resultsEl.innerHTML = matches.map(function (m) {
       const typeBadge = m.type === "investor"
         ? '<span class="badge badge-investor">Investor</span>'
-        : '<span class="badge badge-firm">Firm</span>';
+        : m.type === "firm"
+        ? '<span class="badge badge-firm">Firm</span>'
+        : '<span class="badge badge-startup">Startup</span>';
       const sub = [m.firm, m.location].filter(Boolean).join(" &middot; ");
       return '<a class="search-item" href="' + m.url + '">'
         + '<div class="search-item-main">'

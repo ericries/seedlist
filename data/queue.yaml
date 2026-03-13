@@ -1,40 +1,1133 @@
 queue:
-  - name: "Derek Howell"
-    firm: "Acme Ventures"
-    source: "co-founder listed on firm page, not yet profiled"
-    discovered_from: acme-ventures
-    priority: high
-    status: pending
-    added: 2026-03-10
-
-  - name: "Samuel Park"
-    firm: "Beta Capital"
-    source: "co-founder listed on firm page, not yet profiled"
-    discovered_from: beta-capital
-    priority: high
-    status: pending
-    added: 2026-03-10
-
-  - name: "Tanya Reeves"
-    firm: "Horizon Seed Fund"
-    source: "co-invested with Acme Ventures in PipeRoute seed round"
-    discovered_from: jane-smith
-    priority: normal
-    status: pending
-    added: 2026-03-11
-
-  - name: "Andre Liu"
-    firm: "Nimbus Partners"
-    source: "mentioned as fellow board observer in Cardiax Series A announcement"
-    discovered_from: maria-chen
-    priority: normal
-    status: pending
-    added: 2026-03-11
-
-  - name: "Rachel Kim"
-    firm: "Frontline Ventures"
-    source: "quoted alongside Jane Smith in Forbes seed investor roundup"
-    discovered_from: jane-smith
-    priority: low
-    status: pending
-    added: 2026-03-12
+- name: SV Angel
+  type: firm
+  source: firm of ron-conway
+  discovered_from: ron-conway
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Floodgate
+  type: firm
+  source: firm of mike-maples
+  discovered_from: mike-maples
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Unshackled Ventures
+  type: firm
+  source: firm of shaherose-charania
+  discovered_from: shaherose-charania
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Twitter
+  type: startup
+  source: portfolio company of ron-conway, mike-maples
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Okta
+  type: startup
+  source: portfolio company of ron-conway, mike-maples
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Twitch
+  type: startup
+  source: portfolio company of ron-conway (as Twitch), mike-maples (as Justin.tv)
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Google
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: PayPal
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Facebook
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Airbnb
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Stripe
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: OpenAI
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Coinbase
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: DoorDash
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Snapchat
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Databricks
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Anthropic
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Instacart
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Square
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Pinterest
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Slack
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Figma
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Rippling
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Lyft
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: high
+  status: completed
+  added: 2026-03-13
+- name: Chegg
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Applied Intuition
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Napster
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Reddit
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Yelp
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Eventbrite
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Dropbox
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: GitHub
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Asana
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Notion
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Affirm
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Benchling
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Warby Parker
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Credit Karma
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Patreon
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Flexport
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Brex
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Gusto
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Retool
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Faire
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Vercel
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: ElevenLabs
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Harvey
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Sierra
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Hugging Face
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Character.AI
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Mistral AI
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Anduril
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Hims
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Flipboard
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Cruise
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Mammoth Biosciences
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Flatiron Health
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Boom Supersonic
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: StockX
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Armorblox
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Kumo.AI
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Ning
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Yammer
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Zappos
+  type: startup
+  source: portfolio company of ron-conway
+  discovered_from: ron-conway
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Bazaarvoice
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: SnapLogic
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Demandforce
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Digg
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Egnyte
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Weebly
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: ngmoco
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Spiceworks
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Smule
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: BigCommerce
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: TaskRabbit
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Clever
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Outreach
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Clover Health
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Rappi
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Hadrian
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Hebbia
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: SmarterDx
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Xamarin
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Mighty Networks
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Messari
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: The Zebra
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Gowalla
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: SpareFoot
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Sharethrough
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: BranchOut
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Milk Inc.
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Blueseed
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: IFTTT
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Pantheon
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Refinery29
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Lob
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: OhmConnect
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: LTSE
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: MissionU
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: TextIQ
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Thinkful
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: LabDoor
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Living Carbon
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Terradot
+  type: startup
+  source: portfolio company of mike-maples
+  discovered_from: mike-maples
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Zum
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Recall.ai
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Republic
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Forethought
+  type: startup
+  source: portfolio company of shaherose-charania (acquired by Zendesk)
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Authy
+  type: startup
+  source: portfolio company of shaherose-charania (acquired by Twilio)
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: OpenSponsorship
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Milo
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Scout
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Haus
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Dandelion Chocolate
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Mayvenn
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Zero Grocery
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+- name: Serif Health
+  type: startup
+  source: portfolio company of shaherose-charania
+  discovered_from: shaherose-charania
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: 2026-03-13
+# --- Wave 2: Co-investors discovered from 20 startup profiles ---
+# Firms ranked by frequency across profiled startups
+- name: Andreessen Horowitz
+  type: firm
+  source: "co-investor in 12 startups: Okta, Airbnb, Stripe, Slack, Pinterest, Coinbase, Lyft, Instacart, Figma, Databricks, OpenAI, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Sequoia Capital
+  type: firm
+  source: "co-investor in 11 startups: Okta, Google, Airbnb, Stripe, DoorDash, Instacart, Square, Figma, Snapchat, Databricks, OpenAI"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Kleiner Perkins
+  type: firm
+  source: "co-investor in 8 startups: Twitter, Airbnb, DoorDash, Instacart, Square, Figma, Snapchat, Slack"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Coatue Management
+  type: firm
+  source: "co-investor in 8 startups: DoorDash, Instacart, Figma, Snapchat, Databricks, OpenAI, Anthropic, Stripe"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Thrive Capital
+  type: firm
+  source: "co-investor in 7 startups: Twitch, Instacart, Stripe, Figma, Slack, OpenAI, Databricks"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Khosla Ventures
+  type: firm
+  source: "co-investor in 6 startups: Okta, Stripe, DoorDash, Instacart, Square, OpenAI"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Founders Fund
+  type: firm
+  source: "co-investor in 6 startups: Airbnb, Stripe, Lyft, Figma, OpenAI, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: DST Global
+  type: firm
+  source: "co-investor in 6 startups: Twitter, Airbnb, Facebook, DoorDash, Instacart, Databricks"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Tiger Global Management
+  type: firm
+  source: "co-investor in 6 startups: Airbnb, Square, Coinbase, Instacart, Databricks, OpenAI"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: General Catalyst
+  type: firm
+  source: "co-investor in 6 startups: Airbnb, Stripe, Snapchat, Instacart, Figma, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Dragoneer Investment Group
+  type: firm
+  source: "co-investor in 6 startups: Airbnb, DoorDash, Slack, Databricks, OpenAI, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Greylock Partners
+  type: firm
+  source: "co-investor in 5 startups: Okta, Airbnb, Facebook, Coinbase, Figma"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Y Combinator
+  type: firm
+  source: "co-investor in 5 startups: Twitch, Airbnb, DoorDash, Instacart, Coinbase"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Benchmark
+  type: firm
+  source: "co-investor in 2 startups: Twitter, Snapchat"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Accel Partners
+  type: firm
+  source: "co-investor in 2 startups: Facebook, Slack"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Index Ventures
+  type: firm
+  source: "co-investor in 2 startups: Figma, Slack"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Union Square Ventures
+  type: firm
+  source: "co-investor in 2 startups: Twitter, Coinbase"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Spark Capital
+  type: firm
+  source: "co-investor in 3 startups: Twitter, Coinbase, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Bessemer Venture Partners
+  type: firm
+  source: "co-investor in 3 startups: Twitch, Pinterest, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Lightspeed Venture Partners
+  type: firm
+  source: "co-investor in 2 startups: Snapchat, Anthropic"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: SoftBank Vision Fund
+  type: firm
+  source: "co-investor in 3 startups: DoorDash, Slack, OpenAI"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+# Wave 2: Key individual investors
+- name: Peter Thiel
+  source: "co-investor in 4 startups: PayPal, Facebook, Stripe, OpenAI. Founder of Founders Fund."
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-13
+- name: Jeff Bezos
+  source: "angel investor in 3 startups: Google, Twitter, Airbnb"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Reid Hoffman
+  source: "co-investor in 2 startups: Facebook, OpenAI. LinkedIn co-founder, Greylock partner."
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13
+- name: Yuri Milner
+  source: "co-investor in 2 startups via DST Global: Twitter, Facebook"
+  discovered_from: wave-1-startups
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-13

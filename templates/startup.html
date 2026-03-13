@@ -1,0 +1,128 @@
+{% extends "base.html" %}
+
+{% block title %}{{ profile.name }}{% endblock %}
+
+{% block content %}
+<article class="profile">
+  <header class="profile-header">
+    <h1>{{ profile.name }}</h1>
+
+    {% if profile.status %}
+      <span class="badge badge-status badge-{{ profile.status | lower }}">{{ profile.status }}</span>
+    {% endif %}
+
+    {% if profile.status_company %}
+      <span class="badge badge-company-status badge-{{ profile.status_company | lower }}">{{ profile.status_company }}</span>
+    {% endif %}
+  </header>
+
+  <div class="profile-meta">
+    {% if profile.location %}
+    <div class="meta-item">
+      <span class="meta-label">Location</span>
+      <span class="meta-value">{{ profile.location }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.founded %}
+    <div class="meta-item">
+      <span class="meta-label">Founded</span>
+      <span class="meta-value">{{ profile.founded }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.stage_latest %}
+    <div class="meta-item">
+      <span class="meta-label">Latest Stage</span>
+      <span class="meta-value">{{ profile.stage_latest }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.total_raised %}
+    <div class="meta-item">
+      <span class="meta-label">Total Raised</span>
+      <span class="meta-value">{{ profile.total_raised }}</span>
+    </div>
+    {% endif %}
+
+    {% if profile.website %}
+    <div class="meta-item">
+      <span class="meta-label">Website</span>
+      <span class="meta-value"><a href="{{ profile.website }}" target="_blank" rel="noopener">{{ profile.website }}</a></span>
+    </div>
+    {% endif %}
+
+    {% if profile.acquired_by %}
+    <div class="meta-item">
+      <span class="meta-label">Acquired By</span>
+      <span class="meta-value">{{ profile.acquired_by }}</span>
+    </div>
+    {% endif %}
+  </div>
+
+  {% if profile.sector %}
+  <div class="tags-section">
+    <span class="meta-label">Sector</span>
+    <div class="tags">
+      {% for s in profile.sector %}
+        <span class="tag tag-sector">{{ s }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if profile.investors or profile.firms %}
+  <div class="team-section">
+    <h2>Investors</h2>
+    <div class="team-grid">
+      {% for inv in profile.investors or [] %}
+      <div class="team-card">
+        {% if investor_lookup and inv.slug in investor_lookup %}
+          <a href="/investors/{{ inv.slug }}.html" class="team-name">{{ investor_lookup[inv.slug].name }}</a>
+        {% else %}
+          <span class="team-name">{{ inv.slug }}</span>
+        {% endif %}
+        {% if inv.round %}
+          <span class="team-role">{{ inv.round }}{% if inv.year %} ({{ inv.year }}){% endif %}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+      {% for f in profile.firms or [] %}
+      <div class="team-card">
+        {% if firm_lookup and f.slug in firm_lookup %}
+          <a href="/firms/{{ f.slug }}.html" class="team-name">{{ firm_lookup[f.slug].name }}</a>
+        {% else %}
+          <span class="team-name">{{ f.slug }}</span>
+        {% endif %}
+        {% if f.round %}
+          <span class="team-role">{{ f.round }}{% if f.year %} ({{ f.year }}){% endif %}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if profile.founders %}
+  <div class="team-section">
+    <h2>Founders</h2>
+    <div class="team-grid">
+      {% for founder in profile.founders %}
+      <div class="team-card">
+        <span class="team-name">{{ founder.name }}</span>
+        {% if founder.role %}
+          <span class="team-role">{{ founder.role }}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if profile.content %}
+  <div class="profile-body">
+    {{ profile.content | safe }}
+  </div>
+  {% endif %}
+</article>
+{% endblock %}

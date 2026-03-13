@@ -202,6 +202,7 @@ main { flex: 1; padding: 2.5rem 0; }
 .badge-status.badge-inactive { background: #fee2e2; color: #991b1b; }
 .badge-investor { background: var(--color-accent-light); color: var(--color-accent); }
 .badge-firm { background: #fef3c7; color: #92400e; }
+.badge-startup { background: #dcfce7; color: #166534; }
 
 /* ===== Profile Page ===== */
 .profile { max-width: 720px; }

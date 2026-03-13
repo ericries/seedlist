@@ -58,7 +58,7 @@ def collect_values(profiles, key):
     return sorted(values)
 
 
-def build_search_index(investors, firms):
+def build_search_index(investors, firms, startups):
     """Build a JSON search index for client-side search."""
     entries = []
     for p in investors:
@@ -88,6 +88,18 @@ def build_search_index(investors, firms):
             "text": " ".join(text_parts),
             "url": f"/firms/{p.get('slug', '')}.html",
         })
+    for p in startups:
+        text_parts = [p.get("name", ""), p.get("location", "")] + p.get("sector", [])
+        entries.append({
+            "name": p.get("name", ""),
+            "type": "startup",
+            "slug": p.get("slug", ""),
+            "location": p.get("location", ""),
+            "sectors": p.get("sector", []),
+            "stage_latest": p.get("stage_latest", ""),
+            "text": " ".join(text_parts),
+            "url": f"/startups/{p.get('slug', '')}.html",
+        })
     return entries
 
 
@@ -104,13 +116,17 @@ def build():
     # Load all profiles
     all_investors = load_profiles("investors")
     all_firms = load_profiles("firms")
+    all_startups = load_profiles("startups")
 
     # Filter to published
     investors = filter_published(all_investors)
     firms = filter_published(all_firms)
+    startups = filter_published(all_startups)
 
-    # Build firm lookup for investor pages
+    # Build lookups for cross-linking
     firm_lookup = {f["slug"]: f for f in firms}
+    investor_lookup = {i["slug"]: i for i in investors}
+    startup_lookup = {s["slug"]: s for s in startups}
 
     # Render investor pages
     investor_template = env.get_template("investor.html")
@@ -136,6 +152,18 @@ def build():
         out_path = OUTPUT_DIR / "firms" / f"{profile['slug']}.html"
         out_path.write_text(html)
 
+    # Render startup pages
+    startup_template = env.get_template("startup.html")
+    (OUTPUT_DIR / "startups").mkdir(parents=True, exist_ok=True)
+    for profile in startups:
+        html = startup_template.render(
+            profile=profile,
+            investor_lookup=investor_lookup,
+            firm_lookup=firm_lookup,
+        )
+        out_path = OUTPUT_DIR / "startups" / f"{profile['slug']}.html"
+        out_path.write_text(html)
+
     # Generate listing pages
     listing_template = env.get_template("listing.html")
 
@@ -147,7 +175,11 @@ def build():
     html = listing_template.render(title="All Firms", profiles=firms, list_type="firm")
     (OUTPUT_DIR / "firms" / "index.html").write_text(html)
 
-    # By stage
+    # All startups
+    html = listing_template.render(title="All Startups", profiles=startups, list_type="startup")
+    (OUTPUT_DIR / "startups" / "index.html").write_text(html)
+
+    # By stage — include investors, firms, and startups (startups use stage_latest)
     stages = collect_values(investors + firms, "stage_focus")
     (OUTPUT_DIR / "stage").mkdir(parents=True, exist_ok=True)
     for stage in stages:
@@ -155,16 +187,24 @@ def build():
         html = listing_template.render(title=f"Stage: {stage}", profiles=matched, list_type="mixed")
         (OUTPUT_DIR / "stage" / f"{slugify(stage)}.html").write_text(html)
 
-    # By sector
-    sectors = collect_values(investors + firms, "sector_focus")
+    # By sector — include startups (they use "sector" field) alongside investors/firms ("sector_focus")
+    all_for_sector = investors + firms + startups
+    sector_set = set()
+    for p in all_for_sector:
+        for v in p.get("sector_focus", []):
+            sector_set.add(v)
+        for v in p.get("sector", []):
+            sector_set.add(v)
+    sectors = sorted(sector_set)
     (OUTPUT_DIR / "sector").mkdir(parents=True, exist_ok=True)
     for sector in sectors:
-        matched = [p for p in investors + firms if sector in p.get("sector_focus", [])]
+        matched = [p for p in all_for_sector
+                    if sector in p.get("sector_focus", []) or sector in p.get("sector", [])]
         html = listing_template.render(title=f"Sector: {sector}", profiles=matched, list_type="mixed")
         (OUTPUT_DIR / "sector" / f"{slugify(sector)}.html").write_text(html)
 
     # Generate search index
-    search_index = build_search_index(investors, firms)
+    search_index = build_search_index(investors, firms, startups)
     (OUTPUT_DIR / "search-index.json").write_text(json.dumps(search_index, indent=2))
 
     # Render homepage
@@ -172,6 +212,7 @@ def build():
     html = index_template.render(
         investor_count=len(investors),
         firm_count=len(firms),
+        startup_count=len(startups),
         stages=stages,
         sectors=sectors,
     )
@@ -187,7 +228,7 @@ def build():
     if cname_path.exists():
         shutil.copy2(cname_path, OUTPUT_DIR / "CNAME")
 
-    print(f"Built {len(investors)} investor pages, {len(firms)} firm pages")
+    print(f"Built {len(investors)} investor pages, {len(firms)} firm pages, {len(startups)} startup pages")
     print(f"Generated {len(stages)} stage listings, {len(sectors)} sector listings")
     print(f"Search index: {len(search_index)} entries")
     print(f"Output: {OUTPUT_DIR}")

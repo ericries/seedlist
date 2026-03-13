@@ -4,7 +4,7 @@
 
 Seedlist.com is an LLM-researched directory of active startup investors. The core insight: don't trust what investors say about their thesis — infer it from their actual portfolio and behavior. Combine that with comprehensively cited first-person statements from both investors and their portfolio founders to give the fullest possible picture.
 
-- **Data format:** Markdown files with YAML frontmatter in `data/firms/` and `data/investors/`
+- **Data format:** Markdown files with YAML frontmatter in `data/firms/`, `data/investors/`, and `data/startups/`
 - **Database:** Git. Every change is a commit with full history.
 - **Site generation:** `python build.py` reads markdown files, filters to `status: published`, and renders static HTML to `_site/`
 - **Deployment:** GitHub Pages via GitHub Action on push to `main`
@@ -111,15 +111,80 @@ Required markdown sections, in order:
 6. **## What Founders Say** — Quotes from founders about working with this investor. Full attribution. See "Founder Quotes" section below — this is the hardest section and requires dedicated search effort.
 7. **## Sources** — All footnote references.
 
+### Startup Profile (`data/startups/{slug}.md`)
+
+```yaml
+---
+name: "Company Name"
+slug: company-name
+type: startup
+website: "https://company.com"
+location: "City, State"
+founded: 2020
+status_company: active  # active | acquired | shut-down | ipo
+acquired_by: "Acquirer"  # if applicable
+sector: [fintech, developer-tools]
+stage_latest: "Series B"
+total_raised: "$50M"
+investors:
+  - slug: investor-slug
+    round: seed
+    year: 2020
+  - slug: another-investor
+    round: series-a
+    year: 2021
+firms:
+  - slug: firm-slug
+    round: seed
+    year: 2020
+founders:
+  - name: "Jane Doe"
+    role: "CEO & Co-Founder"
+status: draft
+last_researched: 2026-03-13
+---
+```
+
+Required markdown sections, in order:
+
+1. **## About** — Company description, founding story, product, market. Every claim cited.
+2. **## Funding History** — Table: Date, Round, Amount, Lead, Co-investors. Each row cited.
+3. **## What Investors Say** — Quotes from investors about why they invested. Full attribution.
+4. **## What Founders Say** — Quotes from founders about building the company. Full attribution.
+5. **## Sources** — All footnote references with title, URL, access date.
+
+### Startup Research Workflow
+
+When researching a startup:
+
+1. Search Crunchbase, PitchBook, company website for funding rounds
+2. For each round: identify date, amount, stage, lead investor, all participants
+3. For each investor found: check if profile exists in `data/investors/` or `data/firms/`
+4. Add undiscovered investors/firms to `queue.yaml` with `discovered_from` set to the startup slug
+5. Search for investor quotes about why they invested
+6. Search for founder quotes about building the company
+7. Create `data/startups/{slug}.md`
+8. Follow the same two-pass review workflow as investor/firm profiles
+
+### Co-investor Extraction Rules
+
+When extracting co-investors from startup funding rounds:
+
+- **Add to queue if:** they appear in 2+ startup profiles already, OR they led a round, OR they're from a well-known firm
+- Always set `discovered_from` to the startup slug and `discovery_depth` to the appropriate level
+- Individual investors AND their firms get separate queue entries
+- Check existing profiles before adding — don't add duplicates
+
 ### Research Queue (`data/queue.yaml`)
 
 ```yaml
 queue:
   - name: "Investor or Firm Name"
-    type: firm  # firm | individual (omit for individual)
+    type: firm  # firm | individual | startup
     firm: "Firm Name"  # for individuals, the firm they belong to
     source: "description of how this lead was found"
     discovered_from: slug-of-profile  # which profile research led to this discovery
+    discovery_depth: 1  # how many hops from original seed profiles
     priority: normal  # high | normal | low
     status: pending  # pending | in_progress | completed | skipped
     added: 2026-03-12
@@ -300,6 +365,31 @@ For firms, also add:
 ```yaml
     type: firm
 ```
+
+For startups, also add:
+
+```yaml
+    type: startup
+```
+
+### Recursive Discovery Loop
+
+The directory grows through breadth-first expansion:
+
+- **Wave 0:** Firm profiles for existing investors
+- **Wave 1:** High-priority startups from existing portfolios (shared portfolio companies and major unicorns)
+- **Wave 2:** Co-investors discovered from Wave 1 startups (frequency >= 2 or led a round)
+- **Wave 3:** Portfolio companies of Wave 2 investors
+- **Default max_depth:** 3 (configurable)
+
+Within each wave, process in this order:
+1. `priority: high` before `normal` before `low`
+2. Within each priority: firms before startups before investors
+
+**Stopping conditions:**
+- `discovery_depth > 3` — don't go deeper unless explicitly requested
+- Queue exhaustion — all pending items processed
+- Quality degradation — if profiles at depth 3+ are too thin to be useful, stop expanding
 
 ## Two-Pass Review Workflow
 

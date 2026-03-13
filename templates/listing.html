@@ -9,7 +9,7 @@
   {% if profiles %}
   <div class="listing-grid">
     {% for p in profiles %}
-    <a href="/{{ 'investors' if p.type == 'individual' else 'firms' }}/{{ p.slug }}.html" class="listing-card">
+    <a href="/{% if p.type == 'individual' %}investors{% elif p.type == 'firm' %}firms{% else %}startups{% endif %}/{{ p.slug }}.html" class="listing-card">
       <div class="listing-card-header">
         <span class="listing-card-name">{{ p.name }}</span>
         {% if p.type == "investor" and p.firm %}
