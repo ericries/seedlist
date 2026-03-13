@@ -53,18 +53,25 @@ Mike Maples has been one of the most publicly articulate seed investors about hi
 
 ## Inferred Thesis
 
-Based on analysis of Floodgate's 247+ portfolio companies [^20]:
+Based on analysis of 46 verified investments in the table below and Floodgate's 247+ total portfolio companies [^20]:
 
 **Stage focus:**
 - Predominantly seed-stage investments, consistent with the firm's stated focus [^1]
 - Occasional Series A/B follow-on or co-investment [^6]
 
-**Sector concentration:**
-- Enterprise Applications represent the largest sector (including Okta, Outreach, Spiceworks) [^15]
-- Consumer (including Chegg, Weebly, Refinery29) [^15]
-- AI / machine learning (growing focus area including Hebbia, SmarterDx) [^15]
-- Marketplaces and commerce (Lyft, Rappi, TaskRabbit) [^1]
-- Other sectors include healthcare, edtech, gaming, climate/energy (Terradot, Living Carbon), and manufacturing (Hadrian) [^15]
+**Sector concentration (of 46 verified investments):**
+- Enterprise SaaS & infrastructure: 13 companies (30%) -- including Okta, Outreach, Spiceworks, SnapLogic, Egnyte, Pantheon, Xamarin, Demandforce, Bazaarvoice, TextIQ, Lob, Sharethrough, LTSE [^1][^14]
+- Consumer & social: 10 companies (23%) -- including Twitter, Chegg, Digg, Weebly, Refinery29, Mighty Networks, Smule, IFTTT, BranchOut, Milk Inc. [^1][^14]
+- AI & machine learning: 3 companies (7%) -- Hebbia, Applied Intuition, SmarterDx [^14]
+- Marketplaces & commerce: 5 companies (11%) -- Lyft, Rappi, TaskRabbit, BigCommerce, The Zebra [^1][^14]
+- Healthcare: 2 companies (5%) -- Clover Health, SmarterDx [^1][^14]
+- Climate & energy: 3 companies (7%) -- Terradot, Living Carbon, OhmConnect [^14]
+- Manufacturing & defense: 1 company (2%) -- Hadrian [^14]
+- Education: 4 companies (9%) -- Clever, Thinkful, MissionU, LabDoor [^14]
+- Gaming: 2 companies (5%) -- ngmoco, Gowalla [^1][^2]
+- Other (storage, seasteading): 2 companies (5%) -- SpareFoot, Blueseed [^2]
+
+Note: Some companies span multiple categories (e.g., SmarterDx is both AI and healthcare; Applied Intuition is both AI and autonomous vehicles). Totals may exceed 44 due to overlap.
 
 **Geography:**
 - Heavily concentrated in the San Francisco Bay Area / Silicon Valley [^1]
@@ -87,42 +94,69 @@ Based on analysis of Floodgate's 247+ portfolio companies [^20]:
 
 **Co-investor patterns:**
 - Frequent co-investor: Ann Miura-Ko (Floodgate co-founder) [^1]
-- Strong syndicate relationships with later-stage firms including Andreessen Horowitz (co-invested in Okta), Benchmark, and Sequoia, who often lead follow-on rounds [^9][^16]
+- Strong syndicate relationships with later-stage firms including Andreessen Horowitz (co-invested in Okta), Benchmark, and Sequoia, who often lead follow-on rounds [^9][^15]
 - Generally invests alongside other angels or venture capital firms [^2]
 - Current Floodgate team includes Arjun Chopra (General Partner), Iris Choi (Partner), Jay Kennedy, and Leeor Mushin [^6]
+
+Rather than participating in formal fundraising processes, Floodgate invests time upfront to get to know potential founders, ideating with them and sharing mental models. When a founder decides to launch their company, Floodgate offers terms early before they launch a process [^14].
 
 **Notable patterns:**
 - Strong affinity for companies initially dismissed or misunderstood (Twitter was seen as trivial; Lyft faced regulatory skepticism) [^9]
 - Long hold periods -- patience for "thunder lizard" outcomes rather than early liquidity [^1]
-- The firm positions itself as "Your First True Believers" and invests time upfront ideating with founders before they launch a formal fundraising process [^15]
+- The firm positions itself as "Your First True Believers" and invests time upfront ideating with founders before they launch a formal fundraising process [^14]
 
 ## Portfolio
 
 | Company | Year (approx.) | Stage | Source |
 |---|---|---|---|
-| Twitter (via Odeo) | 2006-2007 | Seed | [^17] |
-| Bazaarvoice | ~2006 | Seed | [^1] |
+| Twitter (via Odeo) | 2006 | Seed | [^16] |
+| Bazaarvoice | ~2005 (founded) | Seed | [^1] |
+| SnapLogic | ~2006 (founded) | Seed | [^14] |
 | Chegg | ~2007 | Seed | [^1] |
 | Demandforce | ~2007 | Seed | [^1] |
 | Twitch (via Justin.tv) | ~2007 | Seed | [^1] |
-| Weebly | ~2008 | Seed | [^1] |
 | Digg | ~2007 | Seed | [^2] |
+| Gowalla | ~2007 (founded) | Seed | [^2] |
+| Egnyte | ~2007 (founded) | Seed/Series A | [^14] |
+| Weebly | ~2008 | Seed | [^1] |
 | ngmoco | ~2008 | Seed | [^1] |
 | Spiceworks | ~2008 | Seed | [^1] |
+| Smule | ~2008 (founded) | Series A | [^14] |
+| SpareFoot | ~2008 (founded) | Seed | [^2] |
+| Sharethrough | ~2008 (founded) | Seed | [^6] |
+| BigCommerce | ~2009 (founded) | Seed/Series A | [^14] |
 | TaskRabbit | ~2009 | Seed | [^2] |
-| Lyft | ~2012 | Seed | [^1] |
-| Okta | ~2010 | Seed/Early | [^1][^16] |
+| Okta | ~2009 | Seed/Early | [^1][^9] |
+| IFTTT | ~2010 (founded) | Seed | [^14] |
+| BranchOut | ~2010 (founded) | Seed | [^2] |
+| Pantheon | ~2010 (founded) | Seed/Series A | [^14] |
 | Refinery29 | ~2011 | Seed | [^2] |
+| Xamarin | ~2011 (founded) | Series A | [^14] |
+| Milk Inc. | ~2011 (founded) | Seed | [^2] |
+| Blueseed | ~2011 (founded) | Seed | [^2] |
+| Mighty Networks | ~2011 (founded) | Seed | [^14] |
+| Clever | ~2012 | Seed | [^14] |
+| Lyft | ~2012 | Seed | [^1] |
+| LabDoor | ~2012 (founded) | Seed/Series A | [^14] |
+| The Zebra | ~2012 (founded) | Seed | [^14] |
+| Thinkful | ~2012 (founded) | Seed | [^14] |
+| Lob | ~2013 (founded) | Seed/Series A | [^14] |
+| OhmConnect | ~2014 (founded) | Seed | [^14] |
+| Clover Health | ~2014 (founded) | Seed | [^1] |
 | Outreach | ~2014 | Seed | [^1] |
+| TextIQ | ~2014 (founded) | Seed/Series A | [^14] |
+| LTSE | ~2015 (founded) | Seed | [^14] |
+| MissionU | ~2016 (founded) | Seed | [^14] |
 | Rappi | ~2016 | Seed | [^1] |
-| Applied Intuition | ~2017 | Seed | [^1] |
-| Clover Health | -- | Seed | [^1] |
-| Hebbia | -- | Seed | [^15] |
-| SmarterDx | -- | Seed | [^15] |
-| Hadrian | -- | Seed | [^15] |
-| Terradot | -- | Seed | [^15] |
+| Applied Intuition | ~2017 (founded) | Seed | [^1] |
+| Messari | ~2018 (founded) | Seed | [^14] |
+| Living Carbon | ~2019 (founded) | Seed | [^14] |
+| Hebbia | ~2020 (founded) | Seed | [^14] |
+| Hadrian | ~2020 (founded) | Seed | [^14] |
+| SmarterDx | ~2020 (founded) | Seed | [^14] |
+| Terradot | ~2022 (founded) | Seed | [^14] |
 
-> *This is a partial list. Floodgate has invested in 247+ companies, with 7 unicorns in the portfolio [^20]. Years are approximate based on company founding dates and public records. Entries marked "--" indicate year not confirmed through available sources.*
+> *This is a partial list. Floodgate has invested in 247+ companies, with 7 unicorns in the portfolio [^20]. Years are approximate based on company founding dates and public records.*
 
 ## In Their Own Words
 
@@ -130,10 +164,10 @@ Based on analysis of Floodgate's 247+ portfolio companies [^20]:
 > -- Mike Maples Jr., Venture Almanac [^13]
 
 > "The seed investors that are rewarded most are not the futurists who can predict. They're the ones who notice."
-> -- Mike Maples Jr., The Generalist [^18]
+> -- Mike Maples Jr., The Generalist [^17]
 
 > "Don't label startups. The moment you call something 'Uber for X,' you lose too much resolution to see what's truly different."
-> -- Mike Maples Jr., The Generalist [^18]
+> -- Mike Maples Jr., The Generalist [^17]
 
 > "A startup is a provocative act. By definition, a breakthrough startup says, 'the present isn't as good as it could be.'"
 > -- Mike Maples Jr., Outlander VC interview [^11]
@@ -142,16 +176,16 @@ Based on analysis of Floodgate's 247+ portfolio companies [^20]:
 > -- Mike Maples Jr., Outlander VC interview [^11]
 
 > "80% of our profits had come from what's called pivots."
-> -- Mike Maples Jr., Thought Economics interview, referencing Twitch, Twitter, and Chegg all having started as different businesses [^19]
+> -- Mike Maples Jr., Thought Economics interview, referencing Twitch, Twitter, and Chegg all having started as different businesses [^18]
 
 > "Timing may be the single most important factor, at least as it relates to the uncertainty of it all."
-> -- Mike Maples Jr., Thought Economics interview [^19]
+> -- Mike Maples Jr., Thought Economics interview [^18]
 
 > "Early customers are animated by belief, not utility. They buy for aesthetic reasons, not practical ones."
-> -- Mike Maples Jr., Thought Economics interview [^19]
+> -- Mike Maples Jr., Thought Economics interview [^18]
 
 > "You want to make everyone you persuade a hero in their own hero's journey. The founder isn't the hero; the founder is the mentor."
-> -- Mike Maples Jr., Thought Economics interview [^19]
+> -- Mike Maples Jr., Thought Economics interview [^18]
 
 > "Seed stage startup teams should look like a collaborative, improv jazz band, not a structured orchestra with sheet music."
 > -- Mike Maples Jr., Venture Almanac [^13]
@@ -168,21 +202,26 @@ Based on analysis of Floodgate's 247+ portfolio companies [^20]:
 > "Great companies happen because of great founders, not because of where they are or who the VCs are or any of that nonsense."
 > -- Mike Maples Jr., Tren Griffin interview [^9]
 
+> Regarding the Twitter investment: When Evan Williams first described Twitter to Maples, he said users would write what they're doing in 140 characters or less with "nothing" happening after. When asked about the roadmap and revenue model, Williams replied there was none, but explained that since a million people wrote blogs after he created Blogger, he figured he could get 10 million people to write micro-blogs. Maples invested. [^16]
+
+> Maples describes how Evan Williams and Kevin Rose gave him his first chance as an investor, taking a leap of faith and putting him in business. Maples notes that he tries to treat entrepreneurs with the same grace that Evan Williams offered him. [^16]
+
+> "I will always be grateful that some of the very best founders gave me the chance to be an investor and co-conspirator."
+> -- Mike Maples Jr. [^19]
+
 ## What Founders Say
 
 > "Mike Maples is an amazing VC and partner to Sharethrough. I wouldn't be where I am now without Mike's support and mentorship. If you ever have the opportunity to meet him, take it. I guarantee you will learn something profound."
 > -- Dan Greenberg, CEO of Sharethrough [^6]
 
-> Regarding the Twitter investment: When Evan Williams first described Twitter to Maples, he said users would write what they're doing in 140 characters or less with "nothing" happening after. When asked about the roadmap and revenue model, Williams replied there was none, but explained that since a million people wrote blogs after he created Blogger, he figured he could get 10 million people to write micro-blogs. Maples invested. [^17]
+> Tim Ferriss has called Maples "the man who taught me how to invest" and described him as "one of my favorite people and a personal mentor," dedicating an entire episode of The Tim Ferriss Show (Episode #286) to Maples' investing approach and worldview. [^21]
 
-> Rather than participating in formal fundraising processes, Floodgate invests time upfront to get to know potential founders, ideating with them and sharing mental models. When a founder decides to launch their company, Floodgate offers terms early before they launch a process. [^15]
-
-> Maples describes how Evan Williams and Kevin Rose gave him his first chance as an investor, taking a leap of faith and putting him in business. Maples notes that he tries to treat entrepreneurs with the same grace that Evan Williams offered him. [^17]
+> *Note: Relatively few direct founder-about-investor quotes are publicly available for Maples. This section will be updated as additional testimonials are identified. Maples has described Applied Intuition co-founders Qasar Younis and Peter Ludwig as "among the best founders I had ever encountered," but that is his characterization of them rather than a founder quote about him [^1].*
 
 ## Sources
 
 [^1]: "Mike Maples, Jr." Floodgate, https://www.floodgate.com/team/mike-maples-jr, accessed 2026-03-13.
-[^2]: "Floodgate Fund." Grokipedia, https://grokipedia.com/page/floodgate_fund, accessed 2026-03-13; see also Wikipedia, https://en.wikipedia.org/wiki/Floodgate_Fund (returned 403).
+[^2]: "Floodgate Fund." Grokipedia, https://grokipedia.com/page/floodgate_fund, accessed 2026-03-13.
 [^3]: "Mike Maples Jr., MBA 1994." Harvard Business School Entrepreneurship, https://www.hbs.edu/entrepreneurship/founders-investors/mike-maples, accessed 2026-03-13.
 [^4]: "Floodgate Fund size AUM." CB Insights, https://www.cbinsights.com/investor/floodgate-aum-fund-size, accessed 2026-03-13.
 [^5]: "Mike Maples Sr." Wikipedia, https://en.wikipedia.org/wiki/Mike_Maples_Sr., accessed 2026-03-13.
@@ -194,9 +233,11 @@ Based on analysis of Floodgate's 247+ portfolio companies [^20]:
 [^11]: "Insights from Venture Visionary Mike Maples, Jr. of Floodgate Fund." Outlander VC, https://outlander.vc/fieldguide/mikemaplesjr/, accessed 2026-03-13.
 [^12]: "Mike Maples Jr (Floodgate) / VC Breakdown & Contact." VC Sheet, https://www.vcsheet.com/who/mike-maples-jr, accessed 2026-03-13.
 [^13]: "Mike Maples, Jr." Venture Almanac, https://venturealmanac.com/p/mike-maples-jr, accessed 2026-03-13.
-[^15]: "Companies." Floodgate, https://www.floodgate.com/companies, accessed 2026-03-13.
-[^16]: "Okta: Thank you -- Todd, Freddy, and A16Z." Mike Maples Jr., Medium, https://medium.com/@m2jr/okta-thank-you-todd-freddy-and-a16z-69b9158062c1, accessed 2026-03-13 (page returned 403; Okta investment also confirmed by [^1] and [^9]).
-[^17]: "The Improbable Story of Twitter's First Investor." Inc., https://www.inc.com/quora/the-improbable-story-of-twitters-first-investor.html, accessed 2026-03-13.
-[^18]: "Letters to a Young Investor: Mike Maples, Jr." The Generalist, https://www.generalist.com/p/mike-maples-jr-1, accessed 2026-03-13.
-[^19]: "The Secrets Behind the World's Most Successful Startups -- A Conversation with Mike Maples Jr." Thought Economics, https://thoughteconomics.com/mike-maples/, accessed 2026-03-13.
+[^14]: "Companies." Floodgate, https://www.floodgate.com/companies, accessed 2026-03-13.
+[^15]: "Okta: Thank you -- Todd, Freddy, and A16Z." Mike Maples Jr., Medium, https://medium.com/@m2jr/okta-thank-you-todd-freddy-and-a16z-69b9158062c1, accessed 2026-03-13.
+[^16]: "The Improbable Story of Twitter's First Investor." Inc., https://www.inc.com/quora/the-improbable-story-of-twitters-first-investor.html, accessed 2026-03-13.
+[^17]: "Letters to a Young Investor: Mike Maples, Jr." The Generalist, https://www.generalist.com/p/mike-maples-jr-1, accessed 2026-03-13.
+[^18]: "The Secrets Behind the World's Most Successful Startups -- A Conversation with Mike Maples Jr." Thought Economics, https://thoughteconomics.com/mike-maples/, accessed 2026-03-13.
+[^19]: "Go Time." Mike Maples Jr., Medium (Starting Greatness), https://medium.com/starting-greatness/go-time-5afb24cd4bd8, accessed 2026-03-13.
 [^20]: "Floodgate - 2026 Investor Profile, Portfolio, Team & Investment Trends." Tracxn, https://tracxn.com/d/venture-capital/floodgate/__c1QT0c8-jvwLiRbLBiw2CNKw7mL8_yW047ff0TBxqTU, accessed 2026-03-13.
+[^21]: "The Man Who Taught Me How to Invest -- Mike Maples (#286)." The Tim Ferriss Show, https://tim.blog/2017/12/16/the-man-who-taught-me-how-to-invest/, accessed 2026-03-13.
