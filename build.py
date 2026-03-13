@@ -7,6 +7,7 @@ and outputs a complete static site to _site/.
 
 import json
 import os
+import re
 import shutil
 from pathlib import Path
 
@@ -41,6 +42,11 @@ def load_profiles(subdir):
 def filter_published(profiles):
     """Return only profiles with status: published."""
     return [p for p in profiles if p.get("status") == "published"]
+
+
+def slugify(text):
+    """Convert text to a URL-safe slug."""
+    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
 
 def collect_values(profiles, key):
@@ -147,7 +153,7 @@ def build():
     for stage in stages:
         matched = [p for p in investors + firms if stage in p.get("stage_focus", [])]
         html = listing_template.render(title=f"Stage: {stage}", profiles=matched, list_type="mixed")
-        (OUTPUT_DIR / "stage" / f"{stage}.html").write_text(html)
+        (OUTPUT_DIR / "stage" / f"{slugify(stage)}.html").write_text(html)
 
     # By sector
     sectors = collect_values(investors + firms, "sector_focus")
@@ -155,7 +161,7 @@ def build():
     for sector in sectors:
         matched = [p for p in investors + firms if sector in p.get("sector_focus", [])]
         html = listing_template.render(title=f"Sector: {sector}", profiles=matched, list_type="mixed")
-        (OUTPUT_DIR / "sector" / f"{sector}.html").write_text(html)
+        (OUTPUT_DIR / "sector" / f"{slugify(sector)}.html").write_text(html)
 
     # Generate search index
     search_index = build_search_index(investors, firms)
