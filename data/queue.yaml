@@ -956,7 +956,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Coatue Management
   type: firm
@@ -980,7 +980,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Founders Fund
   type: firm
