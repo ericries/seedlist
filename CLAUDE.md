@@ -33,7 +33,7 @@ Seedlist.com is an LLM-researched directory of active startup investors. The cor
 
 ### Firm Profile (`data/firms/{slug}.md`)
 
-Use `data/firms/acme-ventures.md` as the canonical example. The structure is:
+Reference existing published profiles in `data/firms/` and `data/investors/` as examples. The structure is:
 
 ```yaml
 ---
@@ -106,9 +106,9 @@ Required markdown sections, in order:
    - Typical check size
    - Decision speed (if known from founder reports)
    - Co-investor patterns
-4. **## Portfolio** — Table of known investments with columns: Company, Year, Stage, Source.
+4. **## Portfolio** — Table of known investments with columns: Company, Year, Stage, Source. See "Portfolio Completeness" section below for requirements.
 5. **## In Their Own Words** — Direct quotes from the investor. Sources: Twitter/X, blog posts, podcast transcripts, conference talks, newsletters, interviews. Full attribution.
-6. **## What Founders Say** — Quotes from founders about working with this investor. Full attribution.
+6. **## What Founders Say** — Quotes from founders about working with this investor. Full attribution. See "Founder Quotes" section below — this is the hardest section and requires dedicated search effort.
 7. **## Sources** — All footnote references.
 
 ### Research Queue (`data/queue.yaml`)
@@ -182,6 +182,8 @@ Cite every claim. This section tells founders what the investor *wants* to be kn
 
 This is the most important section of every profile. It is your analysis of what the investor *actually does*, based on their portfolio data. It tells founders what the investor truly invests in, regardless of their marketing.
 
+**This section must be independent analysis, not a restatement of the stated thesis.** If the inferred thesis reads like a paraphrase of what the investor says publicly, you have failed. The value is in the delta — where behavior diverges from messaging.
+
 Include:
 - **Sector percentages** — e.g., "48% fintech, 30% developer tools, 13% data infrastructure"
 - **Stage distribution** — e.g., "70% seed, 30% pre-seed"
@@ -193,7 +195,29 @@ Include:
 - **Pricing model preferences** — any patterns in business model of portfolio companies
 - **Notable gaps** — things they claim to invest in but don't, or invest in but don't claim
 
-Ground every inference in data. State how many verified investments the analysis is based on. When sample size is small, say so.
+**Grounding rules for percentages and statistics:**
+- Every percentage must be computed from actual counted portfolio data. State the math: "Based on 45 verified investments: 20 fintech (44%), 12 developer tools (27%), ..."
+- If you cannot count enough portfolio companies to compute meaningful percentages, use qualitative descriptions instead: "Primarily fintech and developer tools based on 12 verified investments; sample too small for reliable percentages."
+- Never present estimated/guessed percentages as data. "~30%" without a denominator is not analysis — it's a guess dressed as a number.
+- State how many verified investments the analysis is based on. When sample size is small, say so explicitly.
+
+## Portfolio Completeness
+
+The portfolio table is the foundation for the inferred thesis. Thin portfolio data means weak inferred analysis.
+
+### Minimum Standards
+
+- **Aim for at least 50% of known investments.** If Crunchbase/Tracxn says an investor has 200 investments, the portfolio table should have 100+. If you can only find 20, note the gap explicitly: "This table represents ~10% of N known investments."
+- **Every entry needs a year.** If you cannot find the exact investment year, use the company's founding year as a proxy and mark it: "~2019 (founding year)". Never use "--" or "Early stage" as a date.
+- **Cite every entry.** Each portfolio row needs a source footnote proving the investor actually invested.
+- **Use aggregator sites systematically.** Check Crunchbase, Tracxn, Signal by NFX, PitchBook, and the firm's own portfolio page. Cross-reference across multiple sources.
+
+### When Data Is Limited
+
+Some investors (especially angels) have sparse public records. In this case:
+- State clearly how many investments are publicly confirmed vs. claimed
+- Use the investor's own claims about their portfolio size (cited) as context
+- Note: "Only N of claimed M investments could be independently verified"
 
 ## First-Person Quotes
 
@@ -222,6 +246,20 @@ Actively hunt for direct quotes. They make profiles dramatically more useful for
 - What the investor did that was helpful (or not)
 - How the investor behaved during fundraising
 - Post-investment support quality
+
+### Founder Quotes Require Dedicated Search
+
+**This is the hardest section and the most valuable.** Do not skip it or pad it with the investor's own words or firm marketing copy. Founder testimonials are what make Seedlist uniquely useful.
+
+Dedicated searches to run:
+- `"@investorname" from:founders` on Twitter/X
+- `"[investor name]" "best investor"` or `"[investor name]" "helpful"` or `"[investor name]" "cap table"`
+- `"[firm name]" investor review` or `"[firm name]" founder experience`
+- Search podcast transcripts where portfolio founders were guests — they often mention their investors
+- Check the firm's own website for testimonials (these are biased but citable)
+- Search Product Hunt launch posts — founders sometimes thank their investors
+
+If you genuinely cannot find any founder quotes after dedicated searching, write: "No independently sourced founder testimonials found. [Firm website testimonials / no testimonials available.]" Do NOT fill this section with the investor's own anecdotes or the firm's marketing copy.
 
 ### Attribution
 
@@ -297,16 +335,28 @@ review_notes: |
 
 Commit the flagged profile so the issues are tracked. These can be resolved in a subsequent research pass.
 
+## Citation Hygiene
+
+Sloppy citations undermine the entire project. The fix pass must enforce these rules:
+
+1. **No duplicate sources.** Each URL appears exactly once in the Sources section. If two footnotes point to the same URL, merge them into one.
+2. **Sequential numbering.** Footnotes must be numbered [^1], [^2], [^3], etc. with no gaps. If you remove a footnote during editing, renumber all subsequent footnotes.
+3. **No 403/dead URLs in final output.** If a source returns 403 or is otherwise inaccessible, find an alternative source for the same claims or remove the claims. Never leave "returned 403" notes in a published profile.
+4. **Every footnote must be referenced.** No orphan entries in Sources that aren't cited in the body. No inline citations that lack a matching Sources entry.
+5. **Verify LinkedIn URLs.** LinkedIn URLs are frequently wrong (pointing to different people with similar names). Verify by checking that the profile matches the investor's actual name, role, and firm before including.
+
 ## Quality Standards
 
 In priority order:
 
 1. **Accuracy** — Every claim is true and supported by its cited source.
-2. **Citations** — Every factual claim has a footnote. Every source has a title, URL, and access date.
-3. **Inferred thesis grounded in data** — Percentage breakdowns and patterns are derived from the portfolio table, not invented.
-4. **Quotes accurately attributed** — Every quote matches its source. No paraphrasing presented as direct quotes.
-5. **New leads discovered and queued** — Every profile research session should add new items to `queue.yaml`.
-6. **Completeness** — All seven markdown sections are present and substantive. But never sacrifice accuracy for completeness.
+2. **Citations** — Every factual claim has a footnote. Every source has a title, URL, and access date. Citation numbering is sequential with no gaps.
+3. **Inferred thesis grounded in data** — Percentages are computed from counted portfolio data with the math shown. If sample size is too small, use qualitative descriptions instead.
+4. **Quotes accurately attributed** — Every quote matches its source verbatim. No paraphrasing presented as direct quotes.
+5. **Founder quotes are independently sourced** — "What Founders Say" contains actual founder statements, not investor anecdotes or firm marketing copy.
+6. **Portfolio completeness** — Aim for 50%+ of known investments. Every entry has a year (or founding year proxy) and a citation.
+7. **New leads discovered and queued** — Every profile research session should add new items to `queue.yaml`.
+8. **Completeness** — All seven markdown sections are present and substantive. But never sacrifice accuracy for completeness.
 
 ## Building the Site
 
