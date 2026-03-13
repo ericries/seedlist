@@ -370,6 +370,45 @@ This regenerates the static site in `_site/`. Only profiles with `status: publis
 
 The GitHub Action in `.github/workflows/build.yml` automatically runs `build.py` and deploys to GitHub Pages on every push to `main`.
 
+## Self-Improvement Loop
+
+**Self-improvement is the #1 goal.** After every batch of profiles or any feedback, stop and reflect.
+
+### After Every Batch or Feedback
+
+1. **Read `_lessons/`** — Before starting any new work, read all lesson files in `_lessons/` to avoid repeating past mistakes.
+2. **Write a new lesson** — After completing a batch or receiving feedback, create `_lessons/YYYY-MM-DD-description.md` documenting:
+   - What went wrong (specific examples)
+   - What went right
+   - New rules going forward
+3. **Update CLAUDE.md** — If a lesson reveals a gap in these instructions, update the relevant section immediately. Don't just document the lesson — encode it into the process.
+4. **Check previous lessons apply** — When reviewing or fixing a profile, explicitly verify that none of the mistakes from `_lessons/` are present.
+
+### Lesson File Format
+
+```markdown
+# Lessons from [description]
+
+Date: YYYY-MM-DD
+
+## What went wrong
+[Numbered list with specific examples]
+
+## What went right
+[What to keep doing]
+
+## Rules going forward
+[Concrete rules that can be checked mechanically]
+```
+
+### Currently Known Lessons
+
+Read `_lessons/2026-03-13-first-batch-review.md` for lessons from the first batch (Ron Conway, Mike Maples, Shaherose Charania). Key rules:
+- Never present percentages without showing the math
+- Every portfolio entry needs a year
+- "What Founders Say" must be actual founder quotes only
+- Run citation hygiene check on every profile before publishing
+
 ## Tools Available
 
 - **WebSearch** — Search the web for information about investors, firms, portfolio companies, and quotes.
