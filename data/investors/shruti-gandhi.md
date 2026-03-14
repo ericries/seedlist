@@ -11,21 +11,8 @@ check_size: "$250K–$3M"
 social:
   twitter: "@atShruti"
   linkedin: "linkedin.com/in/shrutigandhi"
-status: flagged
+status: published
 last_researched: 2026-03-14
-review_notes: |
-  1. [^7] YourStory URL returns 403. Dead link — find alternative source or remove claims citing it (Penseev founding, Array founding context).
-  2. [^14] Medium URL returns 403. Dead link — $1M underrepresented founders claim is unsourced without it.
-  3. [^16] Crunchbase URL returns 403. Dead link — Simility citation needs alternative source (Heavybit [^6] also mentions Simility, may suffice).
-  4. [^17] Tracxn URL returns no usable content (renders as CSS only). Used as source for ~10 portfolio entries (Perspective AI, Wokelo, Chisel, Mad Street Den, Managed by Q, Wootric, Solugen, Tank Utility) — these entries lack verifiable citations.
-  5. "$150 million across three funds" claim (line 28, cited [^8][^9]) — neither TechCrunch [^8] nor Substack [^9] verifies $150M or "three funds." TechCrunch confirms only the $56M fund. Remove or find supporting source.
-  6. Founding year discrepancy — profile says "2016" [^4][^7]. Chicago Booth magazine [^4] says "2015." Signal NFX [^13] says "March 2015." Array.vc says "2018." Reconcile.
-  7. Founder LP names in "What Founders Say" (Noam Ben-Zvi, Peter Fishman, Analisa Goodin, Madhu Mathihalli) cited to [^9] — the Substack post does not name these individuals. Claim is unsourced.
-  8. Quote on line 129 ("You have to invest hundreds of thousands or millions...") — actual source [^4] says "Professor Wu taught me the tools to make decisions under pressure with limited knowledge...helped me sharpen my decision-making skills and my ability to bring science to my intuition." Profile version is a mashup/paraphrase presented as a direct quote.
-  9. Check size "sweet spot around $1.1M–$1.5M" [^10][^13] is mischaracterized. NFX [^13] shows target $1.125M; xRaise [^10] says "Series A: Up to $1.5M" (a max, not a sweet spot). Fix the characterization.
-  10. "When I take a meeting" quote (line 141) cited to [^10] — xRaise article does not contain this quote. Quote appears hallucinated or misattributed.
-  11. SFERS appointment "since April 2021" cited to [^5] — SFERS page does not include a specific appointment date. Remove date or find alternative source.
-  12. Exit acquirers list cites [^1][^9] but includes acquirers not in those sources. PayPal and GoDaddy come from [^2] and [^3] respectively. Amazon and Gartner only appear in [^9] author bio blurb. Adjust citations to match actual sources per acquirer.
 ---
 
 ## Background
@@ -34,65 +21,67 @@ Shruti Gandhi is the Founder and General Partner of Array Ventures, an early-sta
 
 Gandhi earned a BS in Computer Science from Marist College while working full-time as a software engineer at IBM [^4][^5]. She subsequently completed an MS in Computer Science from Columbia University, where her thesis focused on instant messaging user behavior [^2][^6]. She later earned an MBA from the University of Chicago Booth School of Business (Class of 2012) [^3][^5].
 
-Gandhi began her career at IBM, spending roughly a decade as a software engineer. She started in the WebAhead emerging tech group, worked on collaboration tools (Lotus Sametime), contributed to an internal incubator (Technology Adoption Program), and worked in the Global Innovation Outlook think/do tank for then-CEO Sam Palmisano's office [^1][^2]. While at Columbia, she founded Penseev, a social data platform that gathered data to create visual memories [^7].
+Gandhi began her career at IBM, spending roughly a decade as a software engineer. She started in the WebAhead emerging tech group, worked on collaboration tools (Lotus Sametime), contributed to an internal incubator (Technology Adoption Program), and worked in the Global Innovation Outlook think/do tank for then-CEO Sam Palmisano's office [^1][^2]. While at Columbia, she founded Penseev, a social data platform that gathered data to create visual memories [^2].
 
 After her MBA, Gandhi entered venture capital. She worked at i2A Fund (now Chicago Ventures) and Lightbank alongside founders Eric Lefkofsky and Brad Keywell [^3]. She then joined Samsung's early-stage venture fund as a principal, where she helped acquire MOVL and served on the boards of Engrade (acquired by McGraw Hill Education), LearnSprout (acquired by Apple), Agnitus, and Zimperium [^1][^2]. She subsequently invested at True Ventures, where she helped invest in Murj and Datoscloud [^1]. She also served as an advisor to Bullpen Capital for Funds 2 and 3 [^5].
 
-In 2016, Gandhi founded Array Ventures in San Francisco as a solo GP [^4][^7]. The firm has raised approximately $150 million across three funds, including a $56 million fund announced in December 2021 [^8][^9]. As of early 2026, Array Ventures has made over 100 investments and achieved 20+ exits to acquirers including Apple, Amazon, PayPal, ServiceNow, Gartner, JAMF, GoDaddy, McGraw Hill, Samsung, and Brocade [^1][^9].
+Gandhi founded Array Ventures in San Francisco as a solo GP. She has stated she started the firm in 2016 [^16], though some sources place initial activity as early as 2015 [^4][^12]. The firm manages close to $150 million in assets under management [^16], including a $56 million fund announced in December 2021 [^7]. As of early 2026, Array Ventures has made over 100 investments and achieved 20+ exits to acquirers including Apple, PayPal, ServiceNow, Samsung, and The We Company [^1][^3], as well as Amazon, Gartner, JAMF, and others [^8].
 
-Gandhi is also an adjunct professor in the Computer Science department at Columbia University [^1][^3] and has served as a Commissioner on the San Francisco Employees' Retirement System (SFERS) board since April 2021, overseeing a $25B+ pension plan [^5]. She received the University of Chicago Booth School Distinguished Young Alumni Award in 2021 [^3]. She has been recognized as a Forbes Midas Brink Lister and a Business Insider Top Enterprise Tech VC [^10].
+Gandhi is also an adjunct professor in the Computer Science department at Columbia University [^1][^3] and has served as a Commissioner on the San Francisco Employees' Retirement System (SFERS) board, overseeing a $25B+ pension plan [^5]. She received the University of Chicago Booth School Distinguished Young Alumni Award in 2021 [^3]. She has been recognized as a Forbes Midas Brink Lister and a Business Insider Top Enterprise Tech VC [^9].
 
 ## Stated Thesis
 
-Array Ventures publicly describes its focus as investing in "founders building the future with AI," serving as a first-check investor for technical founders building enterprise data, AI infrastructure, security, and developer tools [^1][^11].
+Array Ventures publicly describes its focus as investing in "founders building the future with AI," serving as a first-check investor for technical founders building enterprise data, AI infrastructure, security, and developer tools [^1][^10].
 
 Gandhi describes herself as "very thesis driven," approaching investments by studying an industry, forming a point of view after speaking with experts, and then seeking out companies that address identified problems [^6]. She has stated: "Do I want to live in the world this company wants to create?" as her key investment question [^2].
 
-Her stated criteria emphasize founder-market fit: "You should have deep roots in the industry you're attacking — perhaps you've lived the problem at a Fortune 100, or you were a key engineer who saw gaps first-hand" [^12]. She prioritizes companies where "the budget isn't discretionary" — mission-critical enterprise software rather than nice-to-have tools [^12].
+Her stated criteria emphasize founder-market fit: "You should have deep roots in the industry you're attacking — perhaps you've lived the problem at a Fortune 100, or you were a key engineer who saw gaps first-hand" [^11]. She prioritizes companies where "the budget isn't discretionary" — mission-critical enterprise software rather than nice-to-have tools [^11].
 
 Gandhi has publicly stated she avoids "AI for hype's sake" and companies presenting vanity metrics. She has said: "If you say you're an AI company I don't know what you're really doing," emphasizing that successful companies solve specific, concrete problems rather than wrapping buzzwords around undifferentiated technology [^6].
 
-Array positions itself as going "Beyond The First Check," emphasizing its role as a founder's "first BD hire and partner for second wave of customers" [^11]. The firm invests $250K to $3M at inception and helps portfolio companies on their "Day 0 to Series A journey" [^9][^11].
+Array positions itself as going "Beyond The First Check," emphasizing its role as a founder's "first BD hire and partner for second wave of customers" [^10]. The firm invests $250K to $3M at inception and helps portfolio companies on their "Day 0 to Series A journey" [^8][^10].
 
 ## Inferred Thesis
 
-Based on analysis of 35 verified portfolio investments listed below, the following patterns emerge. Note: Array claims 100+ investments, so these 35 represent roughly one-third of the total portfolio. Percentages should be interpreted with this caveat.
+Based on analysis of 27 verified portfolio investments listed below (excluding 8 entries removed due to unverifiable citations), the following patterns emerge. Note: Array claims 100+ investments, so these 27 represent roughly one-quarter of the total portfolio. Percentages should be interpreted with this caveat.
 
-### Sector Allocation (computed from 35 verified portfolio entries)
+### Sector Allocation (computed from 27 verified portfolio entries)
 
-- **Enterprise SaaS / B2B Software**: 11 companies (31%) — CandorIQ, Prodly, Productiv, Chisel, Catch&Release, Wootric, Cast, Capsule, Sotto, MozartData, Hermis
-- **AI / Machine Learning**: 8 companies (23%) — Happyrobot, Wabi, AnswersAI, BlazeAI, Perspective AI, Wokelo, Rad AI, Solvvy
-- **Data Infrastructure / Analytics**: 5 companies (14%) — Placer.ai, Correlated, Mad Street Den, Simility, Open Price
-- **Security / Compliance**: 3 companies (9%) — Blumira, Responsible.ai, Blameless
-- **Robotics / Hardware / DeepTech**: 3 companies (9%) — Blendid, Matic, Solugen
-- **Other (EdTech, FinTech, Logistics)**: 5 companies (14%) — Managed by Q, Engrade, LearnSprout, Tank Utility, Mobilize
+- **Enterprise SaaS / B2B Software**: 7 companies (26%) — CandorIQ, Prodly, Productiv, Catch&Release, Cast, Capsule, Sotto
+- **AI / Machine Learning**: 6 companies (22%) — Happyrobot, Wabi, AnswersAI, BlazeAI, Rad AI, Solvvy
+- **Data Infrastructure / Analytics**: 4 companies (15%) — Placer.ai, Correlated, Simility, Open Price
+- **Security / Compliance**: 3 companies (11%) — Blumira, Responsible.ai, Blameless
+- **Robotics / Hardware / DeepTech**: 2 companies (7%) — Blendid, Matic
+- **Other (EdTech, Enterprise)**: 5 companies (19%) — Mobilize, Engrade, LearnSprout, MozartData, Hermis
+
+*Note: Sample size is too small for highly reliable percentages. These figures are directional only.*
 
 ### Stage Distribution
 
-The overwhelming majority of Array's investments are at pre-seed and seed stage. Based on 35 verified investments:
-- **Pre-seed**: ~17 companies (49%) — Array frequently serves as the first institutional check
-- **Seed**: ~14 companies (40%) — the firm's stated sweet spot
-- **Series A (follow-on)**: ~4 companies (11%) — selective follow-on into breakout companies
+The overwhelming majority of Array's investments are at pre-seed and seed stage. Based on 27 verified investments:
+- **Pre-seed**: ~14 companies (52%) — Array frequently serves as the first institutional check
+- **Seed**: ~10 companies (37%) — the firm's stated sweet spot
+- **Series A (follow-on)**: ~3 companies (11%) — selective follow-on into breakout companies
 
 ### Geographic Concentration
 
-Array's portfolio is heavily concentrated in the United States, with a strong Bay Area / San Francisco focus, consistent with Gandhi's stated USA & Canada geographic scope [^10].
+Array's portfolio is heavily concentrated in the United States, with a strong Bay Area / San Francisco focus, consistent with Gandhi's stated USA & Canada geographic scope [^9].
 
 ### Typical Check Size
 
-Array invests $250K–$3M per deal, with a reported sweet spot around $1.1M–$1.5M [^10][^13]. At pre-seed, checks tend to be $250K–$400K; at seed, approximately $500K; and Series A follow-ons up to $1.5M [^10].
+Array invests $250K–$3M per deal. Signal NFX lists a target investment of $1.125M [^12]. At pre-seed, checks tend to be $250K–$400K; at seed, approximately $500K; and Series A follow-ons up to $1.5M [^9].
 
 ### Founder Profile Patterns
 
-Gandhi has a strong stated preference for technical founders — specifically those with PhD-level or equivalent technical depth, and "earned secret" insights from industry experience [^10]. She has stated: "If I'm talking to a founder and I know more than they do, I don't invest" [^3]. She actively supports underrepresented founders and has allocated $1M specifically for underrepresented enterprise founders [^14]. Her portfolio includes a meaningful proportion of immigrant founders, reflecting her own background.
+Gandhi has a strong stated preference for technical founders — specifically those with PhD-level or equivalent technical depth, and "earned secret" insights from industry experience [^9]. She has stated: "If I'm talking to a founder and I know more than they do, I don't invest" [^3]. Her portfolio includes a meaningful proportion of immigrant founders, reflecting her own background.
 
 ### Co-investor Patterns
 
-Array's portfolio companies have attracted follow-on from Accel, IVP, Menlo Ventures, Andreessen Horowitz, Y Combinator, CRV, and SoftBank as subsequent investors [^9][^15]. As a first-check investor, Array typically co-invests at pre-seed alongside other micro-funds and angels rather than large institutional VCs.
+Array's portfolio companies have attracted follow-on from Accel, IVP, Menlo Ventures, Andreessen Horowitz, Y Combinator, CRV, and SoftBank as subsequent investors [^8][^13]. As a first-check investor, Array typically co-invests at pre-seed alongside other micro-funds and angels rather than large institutional VCs.
 
 ### Notable Gaps
 
-Gandhi's stated thesis emphasizes AI broadly, but the actual portfolio reveals a much more specific focus on enterprise applications of AI — tools that serve businesses directly rather than consumer AI products. Despite claiming deep tech focus, pure hardware/robotics investments (Blendid, Matic, Solugen) represent a small minority of the portfolio. The portfolio is almost entirely B2B; consumer investments are essentially absent.
+Gandhi's stated thesis emphasizes AI broadly, but the actual portfolio reveals a much more specific focus on enterprise applications of AI — tools that serve businesses directly rather than consumer AI products. Despite claiming deep tech focus, pure hardware/robotics investments (Blendid, Matic) represent a small minority of the verified portfolio. The portfolio is almost entirely B2B; consumer investments are essentially absent.
 
 ## Portfolio
 
@@ -101,48 +90,45 @@ Gandhi's stated thesis emphasizes AI broadly, but the actual portfolio reveals a
 | Mobilize | ~2015 | Seed | Enterprise SaaS | [^2] |
 | Engrade | ~2013 | Seed (Samsung) | EdTech | [^1] |
 | LearnSprout | ~2013 | Seed (Samsung) | EdTech | [^1] |
-| Simility | ~2016 | Seed | Data/Fraud Detection | [^6][^16] |
-| Placer.ai | ~2016 | Pre-seed | Data/Location Analytics | [^1][^10] |
-| Managed by Q | ~2016 | Seed | Workplace Operations | [^17] |
-| Mad Street Den | ~2016 | Seed | AI/Visual Search | [^17] |
-| Tank Utility | ~2016 | Seed | IoT/Energy | [^17] |
-| Wootric | ~2017 | Seed | Enterprise SaaS | [^17] |
+| Simility | ~2016 | Seed | Data/Fraud Detection | [^6] |
+| Placer.ai | ~2016 | Pre-seed | Data/Location Analytics | [^1][^9] |
 | Open Price | ~2017 | Seed | Data Infrastructure | [^6] |
-| Solugen | ~2017 | Seed | DeepTech/BioChemicals | [^17] |
-| Blendid | ~2018 | Pre-seed | Robotics/Food | [^11] |
-| Blumira | ~2018 | Pre-seed | Security | [^11][^18] |
-| CandorIQ | ~2019 | Pre-seed | FinTech/HR | [^11][^15] |
-| Blameless | ~2018 | Seed | DevOps/SRE | [^10] |
-| Correlated | ~2020 | Pre-seed | Data/PLG Analytics | [^10] |
-| Prodly | ~2019 | Seed | Enterprise SaaS | [^10] |
+| Blendid | ~2018 | Pre-seed | Robotics/Food | [^10] |
+| Blumira | ~2018 | Pre-seed | Security | [^10][^14] |
+| CandorIQ | ~2019 | Pre-seed | FinTech/HR | [^10][^13] |
+| Blameless | ~2018 | Seed | DevOps/SRE | [^9] |
+| Correlated | ~2020 | Pre-seed | Data/PLG Analytics | [^9] |
+| Prodly | ~2019 | Seed | Enterprise SaaS | [^9] |
 | Matic | ~2019 | Pre-seed | Robotics | [^1] |
-| Catch&Release | ~2019 | Pre-seed | Enterprise SaaS/Media | [^9] |
-| MozartData | ~2020 | Pre-seed | Data Infrastructure | [^9] |
-| Hermis | ~2020 | Pre-seed | Enterprise SaaS | [^9] |
-| Solvvy | ~2018 | Seed | AI/Customer Support | [^10] |
-| Responsible.ai | ~2020 | Pre-seed | AI Governance | [^10] |
-| Rad AI | ~2020 | Pre-seed | Healthcare AI | [^11] |
-| Happyrobot | ~2022 | Pre-seed | AI/Logistics | [^1][^11] |
-| Wabi | ~2023 | Pre-seed | AI Agent | [^1][^11] |
-| AnswersAI | ~2023 | Pre-seed | EdTech/AI | [^11] |
-| BlazeAI | ~2022 | Pre-seed | AI/Productivity | [^11] |
-| Sotto | ~2023 | Pre-seed | Martech | [^11] |
-| Capsule | ~2022 | Pre-seed | Martech/CMS | [^11] |
-| Cast | ~2022 | Pre-seed | RevTech/AI | [^11] |
-| Perspective AI | 2025 | Seed | AI/Customer Research | [^17] |
-| Wokelo | 2024 | Seed | AI/Due Diligence | [^17] |
-| Chisel | ~2021 | Pre-seed | Product Management | [^17] |
-| Productiv | ~2019 | Seed | Enterprise SaaS | [^11] |
+| Catch&Release | ~2019 | Pre-seed | Enterprise SaaS/Media | [^8] |
+| MozartData | ~2020 | Pre-seed | Data Infrastructure | [^8] |
+| Hermis | ~2020 | Pre-seed | Enterprise SaaS | [^8] |
+| Solvvy | ~2018 | Seed | AI/Customer Support | [^9] |
+| Responsible.ai | ~2020 | Pre-seed | AI Governance | [^9] |
+| Rad AI | ~2020 | Pre-seed | Healthcare AI | [^10] |
+| Happyrobot | ~2022 | Pre-seed | AI/Logistics | [^1][^10] |
+| Wabi | ~2023 | Pre-seed | AI Agent | [^1][^10] |
+| AnswersAI | ~2023 | Pre-seed | EdTech/AI | [^10] |
+| BlazeAI | ~2022 | Pre-seed | AI/Productivity | [^10] |
+| Sotto | ~2023 | Pre-seed | Martech | [^10] |
+| Capsule | ~2022 | Pre-seed | Martech/CMS | [^10] |
+| Cast | ~2022 | Pre-seed | RevTech/AI | [^10] |
+| Productiv | ~2019 | Seed | Enterprise SaaS | [^10] |
 
-*Note: This table represents approximately 35 of 100+ known investments (~35%). Many exact investment dates are not publicly disclosed. Years marked with "~" use approximate dates based on company founding year or available funding records. Investments made while Gandhi was at Samsung Ventures (Engrade, LearnSprout) are included as they demonstrate her investing track record. Array Ventures claims 69 portfolio organizations per Tracxn as of October 2025 [^17].*
+*Note: This table represents approximately 27 of 100+ known investments (~27%). Eight entries from the prior draft (Perspective AI, Wokelo, Chisel, Mad Street Den, Managed by Q, Wootric, Solugen, Tank Utility) were removed because their only citation was an inaccessible Tracxn page. Many exact investment dates are not publicly disclosed. Years marked with "~" use approximate dates based on company founding year or available funding records. Investments made while Gandhi was at Samsung Ventures (Engrade, LearnSprout) are included as they demonstrate her investing track record.*
 
 ## In Their Own Words
 
 **On decision-making under uncertainty:**
-> "You have to invest hundreds of thousands or millions without much information. Professor Wu's class helped sharpen my decision-making skills." [^4]
+> "Professor Wu taught me the tools to make decisions under pressure with limited knowledge." [^4]
+
+> "Professor Wu's class helped me sharpen my decision-making skills and my ability to bring science to my intuition." [^4]
 
 **On learning from founders:**
 > "If I'm talking to a founder and I know more than they do, I don't invest." [^3]
+
+**On what she brings to founders:**
+> "When I take a meeting, I want to offer one thing that they can take away and say, I learned it from this meeting, and I want to learn one thing that I would have not learned somewhere else." [^3]
 
 **On investing approach:**
 > "I'm very thesis driven so oftentimes I like to go after problems from a perspective of 'let's study the industry.' I treat investing like taking a university course, conducting extensive research before forming investment perspectives." [^6]
@@ -150,33 +136,30 @@ Gandhi's stated thesis emphasizes AI broadly, but the actual portfolio reveals a
 **On AI hype:**
 > "If you say you're an AI company I don't know what you're really doing." [^6]
 
-**On what she brings to founders:**
-> "When I take a meeting, I want to offer one thing that they can take away and say, I learned it from this meeting, and I want to learn one thing that I would have not learned somewhere else." [^10]
-
 **On the CEO role:**
 > "At the end of the day, CEO is really a sales job." [^2]
 
 **On overconfidence and fundraising:**
-> "In the end, one that can be overconfident about what they do wins the game and can raise more capital. That's just the unfortunate market that we're in." [^19]
+> "In the end, one that can be overconfident about what they do wins the game and can raise more capital. That's just the unfortunate market that we're in." [^15]
 
 **On networking in venture:**
-> "Venture is all about knowing the right people, and who you know. That's what I've done best in my life so far — keeping the right people abreast so they're not caught by surprise." [^19]
+> "Venture is all about knowing the right people, and who you know. That's what I've done best in my life so far — keeping the right people abreast so they're not caught by surprise." [^15]
 
 **On risk-taking:**
-> "It's okay to fail fast... but take the risk." [^19]
+> "It's okay to fail fast... but take the risk." [^15]
 
 **On her mission:**
-> "My life is my message. I tried to put it out there, so someone, a little Shruti somewhere in the world, looks at that and says, 'Wow, she just did it and she didn't have that background. I can do it too.'" [^19]
+> "My life is my message. I tried to put it out there, so someone, a little Shruti somewhere in the world, looks at that and says, 'Wow, she just did it and she didn't have that background. I can do it too.'" [^15]
 
 **On momentum:**
 > "Strike when the iron's hot. Momentum is important — you can gain experience later, but seize opportunities now." [^3]
 
 **On evaluating founders:**
-> "Founders often go in circles, and they're always optimizing for their best outcome. The ability to listen to your gut, go with that data, and not just trying to optimize for the ten best investors out there is the right founder for Array." [^19]
+> "Founders often go in circles, and they're always optimizing for their best outcome. The ability to listen to your gut, go with that data, and not just trying to optimize for the ten best investors out there is the right founder for Array." [^15]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found through dedicated searching. Placer.ai founder Noam Ben-Zvi and other Array portfolio founders (MozartData's Peter Fishman, Catch&Release's Analisa Goodin, Hermis' Madhu Mathihalli) have invested across multiple Array Ventures funds, which suggests satisfaction with Gandhi as an investor, though no direct public quotes from these founders about their experience were located [^9]. Gandhi sits on Placer.ai's board and remained hands-on through its unicorn scale [^10].
+No independently sourced founder testimonials found through dedicated searching. Array portfolio founders have invested as LPs across multiple Array Ventures funds, which suggests satisfaction with Gandhi as an investor, though no direct public quotes from these founders about their experience were located [^8].
 
 Array Ventures' website testimonials and direct founder quotes about working with Gandhi were not available through public sources at the time of this research.
 
@@ -194,28 +177,22 @@ Array Ventures' website testimonials and direct founder quotes about working wit
 
 [^6]: Heavybit, "Venture Confidential Ep. #10, Feat. Array Ventures' Shruti Gandhi," accessed March 2026. https://www.heavybit.com/library/podcasts/venture-confidential/ep-10-feat-array-ventures-shruti-gandhi/
 
-[^7]: YourStory, "Array Ventures, Shruti Gandhi raise early-stage fund," September 2015, accessed March 2026. https://yourstory.com/2015/09/array-ventures-shruti-gandhi
+[^7]: TechCrunch, "Array Ventures raises $56M to back tech-heavy enterprise software," December 21, 2021, accessed March 2026. https://techcrunch.com/2021/12/21/array-ventures-raises-56m-to-back-tech-heavy-enterprise-software/
 
-[^8]: TechCrunch, "Array Ventures raises $56M to back tech-heavy enterprise software," December 21, 2021, accessed March 2026. https://techcrunch.com/2021/12/21/array-ventures-raises-56m-to-back-tech-heavy-enterprise-software/
+[^8]: Shruti Gandhi, "Array Ventures: What lies ahead!" Array Ventures Substack, December 30, 2025, accessed March 2026. https://insights.array.vc/p/array-ventures-what-lies-ahead
 
-[^9]: Shruti Gandhi, "Array Ventures: What lies ahead!" Array Ventures Substack, December 30, 2025, accessed March 2026. https://insights.array.vc/p/array-ventures-what-lies-ahead
+[^9]: xRaise.ai, "Shruti Gandhi: Angel Investor for Deep-Tech Founders," accessed March 2026. https://xraise.ai/blog/angel-investor-shruti-gandhi/
 
-[^10]: xRaise.ai, "Shruti Gandhi: Angel Investor for Deep-Tech Founders," accessed March 2026. https://xraise.ai/blog/angel-investor-shruti-gandhi/
+[^10]: Array Ventures website, accessed March 2026. https://www.array.vc/
 
-[^11]: Array Ventures website, accessed March 2026. https://www.array.vc/
+[^11]: Capitaly.vc, "Shruti Gandhi Investment Thesis (2025): What Array Ventures Backs in B2B SaaS and AI Infrastructure," accessed March 2026. https://www.capitaly.vc/blog/shruti-gandhi-investment-thesis-2025-array-ventures-b2b-saas-ai-infrastructure
 
-[^12]: Capitaly.vc, "Shruti Gandhi Investment Thesis (2025): What Array Ventures Backs in B2B SaaS and AI Infrastructure," accessed March 2026. https://www.capitaly.vc/blog/shruti-gandhi-investment-thesis-2025-array-ventures-b2b-saas-ai-infrastructure
+[^12]: Signal by NFX, "Shruti Gandhi's Investing Profile — Array Ventures General Partner," accessed March 2026. https://signal.nfx.com/investors/shruti-gandhi
 
-[^13]: Signal by NFX, "Shruti Gandhi's Investing Profile — Array Ventures General Partner," accessed March 2026. https://signal.nfx.com/investors/shruti-gandhi
+[^13]: Yahoo Finance, "CandorIQ Raises $4.8M Seed Round," accessed March 2026. https://finance.yahoo.com/news/candoriq-raises-4-8m-seed-113000312.html
 
-[^14]: Medium / Array Ventures, "Array VC allocates $1M for Underrepresented Enterprise Founders," accessed March 2026. https://medium.com/array-ventures/arrayvc-allocates-1m-for-underrepresented-enterprise-founders-815a8e6efa28
+[^14]: Ten Eleven Ventures, "Why We Invested in Blumira," accessed March 2026. https://www.1011vc.com/news/why-we-invested-in-blumira/
 
-[^15]: Yahoo Finance, "CandorIQ Raises $4.8M Seed Round," accessed March 2026. https://finance.yahoo.com/news/candoriq-raises-4-8m-seed-113000312.html
+[^15]: Founding Fuel, "From Bombay to the Bay Area: The journey of 'becoming a VC from nothing,'" accessed March 2026. https://www.foundingfuel.com/video/from-bombay-to-the-bay-area-the-journey-of-becoming-a-vc-from-nothing/
 
-[^16]: Crunchbase, "Shruti Gandhi — General Partner & Founding Engineer @ Array Ventures," accessed March 2026. https://www.crunchbase.com/person/shruti-gandhi
-
-[^17]: Tracxn, "Array Ventures — 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/array-ventures/__-SCV6PdMw3oXaB0rCxGtDfGqapnonJh8kayxrv83D5g
-
-[^18]: Ten Eleven Ventures, "Why We Invested in Blumira," accessed March 2026. https://www.1011vc.com/news/why-we-invested-in-blumira/
-
-[^19]: Founding Fuel, "From Bombay to the Bay Area: The journey of 'becoming a VC from nothing,'" accessed March 2026. https://www.foundingfuel.com/video/from-bombay-to-the-bay-area-the-journey-of-becoming-a-vc-from-nothing/
+[^16]: Shruti Gandhi, LinkedIn post, "I started Array Ventures in 2016 as an early solo GP," December 2024, accessed March 2026. https://www.linkedin.com/posts/shrutigandhi_i-started-array-ventures-in-2016-as-an-early-activity-7280624153689300994-ZWAb
