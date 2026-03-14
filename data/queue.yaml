@@ -948,7 +948,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: in_progress
   added: 2026-03-13
 - name: Kleiner Perkins
   type: firm
@@ -964,7 +964,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: in_progress
   added: 2026-03-13
 - name: Thrive Capital
   type: firm
@@ -972,7 +972,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Khosla Ventures
   type: firm
@@ -996,7 +996,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: in_progress
   added: 2026-03-13
 - name: Tiger Global Management
   type: firm
@@ -1004,7 +1004,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: pending
+  status: in_progress
   added: 2026-03-13
 - name: General Catalyst
   type: firm
@@ -1044,8 +1044,163 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-13
+# Benchmark partners - current GPs
+- name: Peter Fenton
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Eric Vishria
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Chetan Puttagunta
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Everett Randle
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Jack Altman
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+# Benchmark partners - former/emeritus GPs
+- name: Bill Gurley
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (former GP, stepped back 2020)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Bob Kagle
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (co-founder, retired)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Bruce Dunlevie
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (co-founder, retired)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Andy Rachleff
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (co-founder, retired)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Kevin Harvey
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (co-founder, retired)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Matt Cohler
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (former GP, stepped back 2018)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Mitch Lasky
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (former GP, stepped back 2018)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Sarah Tavel
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (transitioned to venture partner April 2025)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Victor Lazarte
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (departed July 2025 to start own firm)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Miles Grimshaw
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (departed 2024, returned to Thrive Capital)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: David Beirne
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (joined 1997, former GP)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Val Vaden
+  type: individual
+  firm: benchmark
+  source: "Benchmark partner roster (co-founder, retired)"
+  discovered_from: benchmark
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-14
 - name: Accel Partners
   type: firm
   source: "co-investor in 2 startups: Facebook, Slack"
@@ -1131,3 +1286,342 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-13
+# Tiger Global Management team/leadership
+- name: Chase Coleman III
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Founder & Partner"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Eric Lane
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - President & COO"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Scott Shleifer
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner (former Head of Private Investments, now advisory)"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Evan Feinberg
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner, Investment Committee"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Griffin Schroeder
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner, Investment Committee"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Sean Carey
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Zaahid Khan
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Pengfei Wang
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner (APAC)"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Amita Singh
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner (APAC)"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Ray Brilus
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner (Europe)"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Jeffrey Maganis
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Evan Stanleigh
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Jay Chen
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management team/leadership - Partner"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+# Tiger Global Management - notable former partners
+- name: John Curtius
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management - former Partner (departed 2022, started own fund)"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Lee Fixel
+  type: individual
+  firm: tiger-global
+  source: "Tiger Global Management - former Partner, Head of Private Equity (departed 2019, founded Addition)"
+  discovered_from: tiger-global
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+# Coatue Management team/leadership
+- name: Philippe Laffont
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Founder & Portfolio Manager"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Thomas Laffont
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Co-Founder & Senior Managing Director"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Dan Rose
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Chairman"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Lucas Swisher
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - General Partner, Co-Lead Growth Investing"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: David Schneider
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - General Partner"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Caryn Marooney
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - General Partner"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Andy Chen
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - General Partner"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Luca Schmid
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - General Partner"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Sri Viswanath
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - General Partner (former CTO of Atlassian)"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Jade Lai
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Partner"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Rohan Bharvani
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Partner"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Michael Barton Jr.
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Sector Head"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Brendan O'Boyle
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Sector Head, Financials/Fintech"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Nathan Urquhart
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - President & Head of Strategy"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Jaimin Rangwalla
+  type: individual
+  firm: coatue-management
+  source: "Coatue Management team/leadership - Senior Managing Director, CIO of Publics"
+  discovered_from: coatue-management
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+# --- Discovered from Brianne Kimmel research ---
+- name: Worklife Ventures
+  type: firm
+  source: "firm of brianne-kimmel"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Deel
+  type: startup
+  source: "portfolio company of brianne-kimmel (unicorn, seed 2019)"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Supabase
+  type: startup
+  source: "portfolio company of brianne-kimmel (developer tools)"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Hightouch
+  type: startup
+  source: "portfolio company of brianne-kimmel (data infrastructure)"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Hex
+  type: startup
+  source: "portfolio company of brianne-kimmel (data analytics)"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Pipe
+  type: startup
+  source: "portfolio company of brianne-kimmel (unicorn, fintech)"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: WorkOS
+  type: startup
+  source: "portfolio company of brianne-kimmel (developer infrastructure)"
+  discovered_from: brianne-kimmel
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Charles Hudson
+  type: individual
+  firm: precursor-ventures
+  source: "frequent co-investor with brianne-kimmel"
+  discovered_from: brianne-kimmel
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
