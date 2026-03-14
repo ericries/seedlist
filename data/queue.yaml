@@ -1699,3 +1699,103 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-14
+# --- Discovered from shruti-gandhi profile ---
+- name: Array Ventures
+  type: firm
+  source: "firm of shruti-gandhi"
+  discovered_from: shruti-gandhi
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Elias Torres
+  type: individual
+  firm: array-ventures
+  source: "Venture Partner at Array Ventures; founded Drift (acquired for $1.2B)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Placer.ai
+  type: startup
+  source: "portfolio company of shruti-gandhi (unicorn, location analytics)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Solugen
+  type: startup
+  source: "portfolio company of shruti-gandhi (unicorn, bio-based chemicals)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Happyrobot
+  type: startup
+  source: "portfolio company of shruti-gandhi (AI voice agents for logistics)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Simility
+  type: startup
+  source: "portfolio company of shruti-gandhi (acquired by PayPal)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: CandorIQ
+  type: startup
+  source: "portfolio company of shruti-gandhi (Array led seed round)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Blumira
+  type: startup
+  source: "portfolio company of shruti-gandhi (cloud security)"
+  discovered_from: shruti-gandhi
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+# --- Discovered from itamar-novick profile ---
+- name: Recursive Ventures
+  type: firm
+  source: "firm of itamar-novick"
+  discovered_from: itamar-novick
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Konstantin Othmer
+  type: individual
+  firm: recursive-ventures
+  source: "Ventures Partner at Recursive Ventures, angel investor in Tesla/Ring/Life360/Canva"
+  discovered_from: itamar-novick
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Chris Hulls
+  type: individual
+  firm: recursive-ventures
+  source: "Ventures Partner at Recursive Ventures, CEO/Co-Founder of Life360"
+  discovered_from: itamar-novick
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Gil Ben-Artzy
+  type: individual
+  firm: upwest
+  source: "co-investor with itamar-novick in HoneyBook seed round, UpWest partner"
+  discovered_from: itamar-novick
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
