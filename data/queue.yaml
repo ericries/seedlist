@@ -1801,7 +1801,7 @@ queue:
   discovered_from: itamar-novick
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Tom Stafford
   type: individual
@@ -1862,7 +1862,7 @@ queue:
   discovered_from: josh-kopelman
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Rob Hayes
   type: individual
@@ -2042,6 +2042,64 @@ queue:
   type: firm
   source: early-stage fund where Elias Torres is a Partner; $5M fund investing in community-driven companies
   discovered_from: elias-torres
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: UpWest
+  type: firm
+  source: firm co-founded by Gil Ben-Artzy and Shuly Galili, Israel-US cross-border seed fund
+  discovered_from: gil-ben-artzy
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Shuly Galili
+  type: individual
+  firm: upwest
+  source: Founding Partner of UpWest, co-founder with Gil Ben-Artzy
+  discovered_from: gil-ben-artzy
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Lia Cromwell
+  type: individual
+  firm: upwest
+  source: Partner at UpWest (promoted 2024), first permanent Israel-based team member
+  discovered_from: gil-ben-artzy
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: SentinelOne
+  type: startup
+  source: UpWest first check (2013), IPO 2021 on NYSE, $10B+ valuation at IPO, cybersecurity
+  discovered_from: gil-ben-artzy
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Stampli
+  type: startup
+  source: UpWest portfolio company (first check 2016), AP automation fintech, raised $50M+
+  discovered_from: gil-ben-artzy
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: CyCognito
+  type: startup
+  source: UpWest portfolio company (first check 2017), attack surface management cybersecurity
+  discovered_from: gil-ben-artzy
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Zenity
+  type: startup
+  source: UpWest portfolio company (first check 2021), AI agent security platform
+  discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: normal
   status: pending
