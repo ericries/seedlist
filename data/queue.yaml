@@ -1625,3 +1625,20 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-14
+# --- Discovered from mar-hershenson profile ---
+- name: Pear VC
+  type: firm
+  source: "firm of mar-hershenson"
+  discovered_from: mar-hershenson
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Pejman Nozad
+  type: individual
+  firm: pear-vc
+  source: "co-founder and Founding Managing Partner of Pear VC"
+  discovered_from: mar-hershenson
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
