@@ -2104,3 +2104,46 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-14
+- name: B Capital Group
+  type: firm
+  source: firm co-founded by Eduardo Saverin, where Howard Morgan serves as Chairman & GP
+  discovered_from: howard-morgan
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Eduardo Saverin
+  type: individual
+  firm: B Capital Group
+  source: co-founder of B Capital Group with Raj Ganguly, Facebook co-founder turned VC
+  discovered_from: howard-morgan
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Raj Ganguly
+  type: individual
+  firm: B Capital Group
+  source: co-founder and Managing Partner of B Capital Group
+  discovered_from: howard-morgan
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Bill Gross
+  type: individual
+  firm: Idealab
+  source: founder of Idealab, Howard Morgan was first outside investor in 1996
+  discovered_from: howard-morgan
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Idealab
+  type: firm
+  source: longest-running tech incubator, co-founded by Bill Gross with Howard Morgan as first outside investor
+  discovered_from: howard-morgan
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
