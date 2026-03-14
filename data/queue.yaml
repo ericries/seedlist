@@ -1838,3 +1838,71 @@ queue:
   priority: low
   status: pending
   added: 2026-03-14
+- name: Josh Kopelman
+  type: individual
+  firm: First Round Capital
+  source: "seed investor in Uber, Square, Notion, Flatiron Health; Forbes Midas List; co-founder First Round Capital"
+  priority: high
+  status: completed
+  added: 2026-03-14
+- name: First Round Capital
+  type: firm
+  source: "firm of josh-kopelman, 500+ investments, 19 unicorns, seed-stage pioneer"
+  discovered_from: josh-kopelman
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Howard Morgan
+  type: individual
+  firm: First Round Capital
+  source: "co-founder of First Round Capital with Josh Kopelman, also co-founded B Capital"
+  discovered_from: josh-kopelman
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Rob Hayes
+  type: individual
+  firm: First Round Capital
+  source: "Partner at First Round Capital"
+  discovered_from: josh-kopelman
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Chris Fralic
+  type: individual
+  firm: First Round Capital
+  source: "Partner at First Round Capital, led Roblox investment"
+  discovered_from: josh-kopelman
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Bill Trenchard
+  type: individual
+  firm: First Round Capital
+  source: "Partner at First Round Capital"
+  discovered_from: josh-kopelman
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Hayley Barna
+  type: individual
+  firm: First Round Capital
+  source: "Partner at First Round Capital"
+  discovered_from: josh-kopelman
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Phin Barnes
+  type: individual
+  firm: First Round Capital
+  source: "Partner at First Round Capital"
+  discovered_from: josh-kopelman
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
