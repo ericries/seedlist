@@ -11,8 +11,21 @@ check_size: "$500K-$4M"
 social:
   twitter: "@joshk"
   linkedin: "linkedin.com/in/jkopelman"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  1. CITATION HYGIENE: [^1] and [^2] are duplicate sources (both point to firstround.com/team/investing/josh-kopelman). Must merge into one footnote and renumber all subsequent references.
+  2. MISATTRIBUTED QUOTE: "Valuation is both art and science. The science is picking a price, and the art is knowing which 5% of the deals to invest in at any price." — per the 20VC transcript [^11], Kopelman attributes this quote to Jim Breyer, not himself. Profile presents it as Kopelman's own words. Must fix attribution or remove.
+  3. WRONG SOURCE for cartographers/navigators quote: Profile cites [^7] (Bowery Capital) and [^8] (Technical.ly) for "cartographers who create their own map versus navigators of existing maps." Neither source contains this quote. Actual source is "Invest Like the Best" podcast with Patrick O'Shaughnessy (EP.170, April 2020). Must add correct source and update citation.
+  4. WRONG SOURCE for "Almost all of the focus goes towards the entrepreneur" quote: Cited to [^7] (Bowery Capital) but the article paraphrases rather than quoting verbatim. The exact quote cannot be verified from that source.
+  5. WRONG SOURCE for Notion pitch quote: [^15] (Pulse 2.0) does not contain Kopelman's quote about "walking out and thinking, 'This is different from any founder pitch I've ever taken.'" The actual source is Forbes (Kenric Cai, April 2024), found via LinkedIn. Must replace citation.
+  6. DEAD URL: [^14] (redeye.firstround.com) returns expired SSL certificate. Find alternative source for Flatiron Health investment announcement or remove claims dependent on it.
+  7. ROUND TYPE ERROR: Profile says "First Round co-led the $8M seed round" for Flatiron Health, but source [^16] (Flatiron press release) calls it "Series A venture capital financing," not a seed round.
+  8. UNSUPPORTED CLAIM: "$7 million" original fund size cited to [^4] (Something Ventured podcast), but the source does not mention this figure. Need alternative source or remove.
+  9. MISATTRIBUTED FOUNDER QUOTE: "Unnamed founder (via Technical.ly)" [^8] — the Technical.ly article does not contain this founder quote. The actual source for founder testimonials (Roger Matus) is LinkedIn [^18]. The quote "more than the lead investor and Board Member" also appears on LinkedIn, not Technical.ly.
+  10. FRONTMATTER: check_size says "$500K-$4M" but source [^12] (VC Sheet) says "$750K-$4M". Profile body also says "$750K to $4M". Frontmatter is inconsistent with body and source.
+  11. FRONTMATTER: role says "Founder & Partner" but First Round website [^1] lists him as "Partner" only.
+  12. [^6] (Tracxn) returned no readable content — cannot verify claims about 19 unicorns, 13 IPOs, 206 acquisitions.
 ---
 
 ## Background
