@@ -1642,3 +1642,60 @@ queue:
   priority: high
   status: pending
   added: 2026-03-14
+# --- Discovered from steve-anderson profile research ---
+- name: Baseline Ventures
+  type: firm
+  source: "firm of steve-anderson"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Instagram
+  type: startup
+  source: "portfolio company of steve-anderson (first seed investor, acquired by Facebook for $1B)"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: Stitch Fix
+  type: startup
+  source: "portfolio company of steve-anderson (led seed, board member, IPO 2017)"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: PagerDuty
+  type: startup
+  source: "portfolio company of steve-anderson (seed investor, IPO 2019)"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: SoFi
+  type: startup
+  source: "portfolio company of steve-anderson (seed investor, IPO 2021)"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Heroku
+  type: startup
+  source: "portfolio company of steve-anderson (seed investor, acquired by Salesforce 2011)"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: CircleCI
+  type: startup
+  source: "portfolio company of steve-anderson (seed investor, unicorn 2021)"
+  discovered_from: steve-anderson
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: 2026-03-14
