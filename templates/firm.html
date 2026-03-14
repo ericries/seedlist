@@ -70,7 +70,11 @@
     <div class="team-grid">
       {% for member in profile.team %}
       <div class="team-card">
-        <a href="/investors/{{ member.slug }}/" class="team-name">{{ member.name }}</a>
+        {% if member.slug in investor_lookup %}
+          <a href="/investors/{{ member.slug }}.html" class="team-name">{{ member.name }}</a>
+        {% else %}
+          <span class="team-name">{{ member.name }}</span>
+        {% endif %}
         {% if member.role %}
           <span class="team-role">{{ member.role }}</span>
         {% endif %}

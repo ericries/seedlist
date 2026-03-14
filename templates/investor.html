@@ -8,13 +8,21 @@
     <h1>{{ profile.name }}</h1>
     {% if profile.role and profile.firm %}
       <p class="profile-subtitle">{{ profile.role }} at
-        <a href="/firms/{{ profile.firm }}.html">{{ profile.firm_data.name if profile.firm_data else profile.firm }}</a>
+        {% if profile.firm_data %}
+          <a href="/firms/{{ profile.firm }}.html">{{ profile.firm_data.name }}</a>
+        {% else %}
+          {{ profile.firm }}
+        {% endif %}
       </p>
     {% elif profile.role %}
       <p class="profile-subtitle">{{ profile.role }}</p>
     {% elif profile.firm %}
       <p class="profile-subtitle">
-        <a href="/firms/{{ profile.firm }}.html">{{ profile.firm_data.name if profile.firm_data else profile.firm }}</a>
+        {% if profile.firm_data %}
+          <a href="/firms/{{ profile.firm }}.html">{{ profile.firm_data.name }}</a>
+        {% else %}
+          {{ profile.firm }}
+        {% endif %}
       </p>
     {% endif %}
 

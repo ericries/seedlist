@@ -148,7 +148,7 @@ def build():
                 if inv["slug"] == member["slug"]:
                     profile["team_profiles"].append(inv)
                     break
-        html = firm_template.render(profile=profile)
+        html = firm_template.render(profile=profile, investor_lookup=investor_lookup)
         out_path = OUTPUT_DIR / "firms" / f"{profile['slug']}.html"
         out_path.write_text(html)
 
