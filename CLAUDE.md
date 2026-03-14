@@ -516,6 +516,17 @@ Read `_lessons/2026-03-13-first-batch-review.md` for lessons from the first batc
 
 When running research batches, follow this loop **without waiting for user input** between batches.
 
+### Pipeline Priority Order
+
+**Always work on the highest-priority stage first.** The pipeline has four stages, in strict priority order:
+
+1. **PUBLISH** — Reviewed drafts ready to go live. Set `status: published`, rebuild site, commit, push. This is the fastest path to value on seedlist.com. If there are reviewed profiles waiting to be published, do that BEFORE anything else.
+2. **REVIEW** — Draft investor profiles that need verification. Run the Two-Pass Review (re-read sources, verify claims, check citations, validate inferred thesis). If the profile passes, publish it immediately. If it fails, flag it with specific issues. **Only publish profiles that are 10/10 — every claim sourced, every quote verified, every number grounded.**
+3. **RESEARCH INVESTORS** — Pending investors in `queue.yaml`. Research and write draft profiles. Prefer `priority: high` (angels, solo GPs, un-profiled firms) over `priority: normal` over `priority: low`.
+4. **RESEARCH FIRMS/STARTUPS** — Only when investor research and review queues are manageable. These exist to feed investor discovery.
+
+**Concretely:** If there are 5 draft investor profiles awaiting review, run 5 review agents — don't start new research until the review backlog is cleared and those profiles are live on the site. The goal is a steady flow of published profiles appearing on seedlist.com, not a growing pile of unreviewed drafts.
+
 ### Investor-First Pipeline
 
 **Investors are the #1 deliverable. Everything else feeds investor discovery.**
@@ -561,7 +572,8 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 
 ### Key Principles
 
-- **SHIP CONSTANTLY.** Commit and push after EVERY profile, not just every batch. The live website should update in near-real-time as profiles are written. Don't accumulate work — `git add`, `git commit`, `git push` as soon as each profile is created or updated. Eric watches the live site and wants to see progress appear continuously. A profile sitting uncommitted on disk is invisible and worthless.
+- **SHIP CONSTANTLY.** The live website should update in near-real-time. As soon as a profile passes review, publish it, rebuild, commit, and push. Don't accumulate reviewed profiles — get them live immediately. Eric watches seedlist.com and wants to see progress appear continuously.
+- **Only publish 10/10 profiles.** Every claim sourced, every quote verified, every number grounded in counted data. A draft sitting on disk is better than an inaccurate profile on the live site. Quality > speed, but reviewed profiles should be published immediately.
 - **No manual approval needed** for git, python, file read/write, or web research. Permissions are pre-configured in `.claude/settings.local.json`.
 - **If an agent fails**, log the error, mark the queue item as `flagged`, and continue with the rest of the batch. Don't block the entire batch on one failure.
 - **Investor queue is a hot queue.** Treat it like a priority lane — as soon as names appear, they get researched.
