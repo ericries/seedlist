@@ -964,7 +964,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: in_progress
+  status: completed
   added: 2026-03-13
 - name: Thrive Capital
   type: firm
