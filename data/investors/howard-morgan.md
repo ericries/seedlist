@@ -11,8 +11,18 @@ check_size: "$100K-$500K (personal angel); $250K-$500K (First Round seed)"
 social:
   twitter: "@HLMorgan"
   linkedin: "linkedin.com/in/hlmorgan"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  1. Portfolio count mismatch: Inferred thesis claims "29 verified personal investments" but portfolio table only lists 21 companies. The note says "approximately 26%" of 80+ which is 21, not 29. Fix the inferred thesis count or add 8 missing companies.
+  2. "$20 million across 14 deals in first year" claim (Background section) appears unsupported. Full Ratchet podcast [^5] says $250K checks x 14 deals = $3.5M. The $20M figure has no verified source.
+  3. Double-counting in inferred thesis sector categories: Hum Capital appears in both AI and Fintech; MyndYou in both AI and Digital Health; Pepo in both Fintech and Consumer; Moxie in both AI and Consumer. Profile note says "each is counted once" but they appear twice. Either fix the counts or fix the note.
+  4. Six sources return 403 or fail to render: [^1] Wikipedia, [^6] Medium/Kerner, [^7] Wikipedia FRC, [^8] PitchBook, [^14] Tracxn (JS-rendered), [^17] Mucker (JS-rendered). Claims solely dependent on these need alternative sources.
+  5. "First institutional investor in Uber" (Background) cannot be verified from any accessible source. Consider softening to "early investor in Uber."
+  6. "Ranked No. 12 among Top 30 Most Respected VCs in 2011" cited only to [^1] (Wikipedia, 403). Needs alternative source or removal.
+  7. Lou Kerner "What Founders Say" entry: [^6] (Medium) returns 403. Cannot verify Kerner is "founder of .tv" or that .tv was an Idealab company, or the year 2000 claim.
+  8. Market-size quote [^13] (TIGER 21 podcast): page loads but contains no transcript. Quote is likely in audio only. Consider finding a text-based source or noting it's from audio.
+  9. 21 portfolio companies cited to [^11] (Signal NFX) but the fetched page doesn't enumerate individual companies — only shows category filters. Tracxn [^14] also fails to render. Portfolio entries need verifiable sources.
 ---
 
 ## Background
