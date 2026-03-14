@@ -11,8 +11,21 @@ check_size: "$250K–$3M"
 social:
   twitter: "@atShruti"
   linkedin: "linkedin.com/in/shrutigandhi"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  1. [^7] YourStory URL returns 403. Dead link — find alternative source or remove claims citing it (Penseev founding, Array founding context).
+  2. [^14] Medium URL returns 403. Dead link — $1M underrepresented founders claim is unsourced without it.
+  3. [^16] Crunchbase URL returns 403. Dead link — Simility citation needs alternative source (Heavybit [^6] also mentions Simility, may suffice).
+  4. [^17] Tracxn URL returns no usable content (renders as CSS only). Used as source for ~10 portfolio entries (Perspective AI, Wokelo, Chisel, Mad Street Den, Managed by Q, Wootric, Solugen, Tank Utility) — these entries lack verifiable citations.
+  5. "$150 million across three funds" claim (line 28, cited [^8][^9]) — neither TechCrunch [^8] nor Substack [^9] verifies $150M or "three funds." TechCrunch confirms only the $56M fund. Remove or find supporting source.
+  6. Founding year discrepancy — profile says "2016" [^4][^7]. Chicago Booth magazine [^4] says "2015." Signal NFX [^13] says "March 2015." Array.vc says "2018." Reconcile.
+  7. Founder LP names in "What Founders Say" (Noam Ben-Zvi, Peter Fishman, Analisa Goodin, Madhu Mathihalli) cited to [^9] — the Substack post does not name these individuals. Claim is unsourced.
+  8. Quote on line 129 ("You have to invest hundreds of thousands or millions...") — actual source [^4] says "Professor Wu taught me the tools to make decisions under pressure with limited knowledge...helped me sharpen my decision-making skills and my ability to bring science to my intuition." Profile version is a mashup/paraphrase presented as a direct quote.
+  9. Check size "sweet spot around $1.1M–$1.5M" [^10][^13] is mischaracterized. NFX [^13] shows target $1.125M; xRaise [^10] says "Series A: Up to $1.5M" (a max, not a sweet spot). Fix the characterization.
+  10. "When I take a meeting" quote (line 141) cited to [^10] — xRaise article does not contain this quote. Quote appears hallucinated or misattributed.
+  11. SFERS appointment "since April 2021" cited to [^5] — SFERS page does not include a specific appointment date. Remove date or find alternative source.
+  12. Exit acquirers list cites [^1][^9] but includes acquirers not in those sources. PayPal and GoDaddy come from [^2] and [^3] respectively. Amazon and Gartner only appear in [^9] author bio blurb. Adjust citations to match actual sources per acquirer.
 ---
 
 ## Background
