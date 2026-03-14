@@ -340,6 +340,7 @@ Research is self-reinforcing. Every profile you research should yield new leads.
 
 ### What to Extract
 
+- **Individual investors (HIGHEST PRIORITY):** When researching a firm, extract every named partner, principal, and active angel. Add each as `type: individual` to the queue. When researching a startup, extract the specific people (not just firm names) who led or participated in rounds. **Investor profiles are the primary deliverable** — firms and startups exist mainly to support investor discovery and thesis inference.
 - **Co-investors:** When reviewing portfolio companies, note who else invested. Each co-investor is a potential new queue item.
 - **Portfolio company mentions:** Track portfolio companies for cross-referencing across profiles.
 - **Referenced investors/firms:** If an investor mentions other investors in interviews or on social media, add them to the queue.
@@ -384,7 +385,7 @@ The directory grows through breadth-first expansion:
 
 Within each wave, process in this order:
 1. `priority: high` before `normal` before `low`
-2. Within each priority: firms before startups before investors
+2. Within each priority: **investors before firms before startups** (investors are the primary deliverable)
 
 **Stopping conditions:**
 - `discovery_depth > 3` — don't go deeper unless explicitly requested
@@ -516,7 +517,7 @@ When running research batches, follow this loop **without waiting for user input
 
 ### Batch Loop
 
-1. **Select batch:** Pick next 5 `status: pending` items from `queue.yaml` (prefer `priority: high`, then firms before startups before investors).
+1. **Select batch:** Pick next 5 `status: pending` items from `queue.yaml`. **Investors are the primary goal.** Prioritize in this order: `priority: high` first, then **individuals before firms before startups**. When researching firms or startups, always extract individual investor names (partners, principals, associates) and add them to the queue as `type: individual`. Every batch should aim to include at least 2-3 investor profiles if any are available in the queue.
 2. **Launch parallel agents:** Spin up research agents for all 5 items concurrently.
 3. **Progress updates:** As each agent completes, print a 1-line status update.
 4. **When all agents in batch complete:**
