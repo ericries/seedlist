@@ -1906,3 +1906,120 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-14
+- name: Alfred Lin
+  type: individual
+  firm: Sequoia Capital
+  source: "Co-Steward of Sequoia Capital, led investments in Airbnb, DoorDash, Kalshi"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Pat Grady
+  type: individual
+  firm: Sequoia Capital
+  source: "Co-Steward of Sequoia Capital, led investments in Snowflake, Zoom, Okta, OpenAI"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Roelof Botha
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, former steward (2017-2025), backed YouTube, Instagram, Block"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Jim Goetz
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, led WhatsApp investment"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Doug Leone
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, former co-steward with Michael Moritz"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Andrew Reed
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner on Sequoia growth team"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Sonya Huang
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, growth team"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Shaun Maguire
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, seed/early team"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Jess Lee
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, first female investing partner in firm history (2016)"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Luciana Lixandru
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, leads European investing"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Stephanie Zhan
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, seed/early team"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Bogomil Balkansky
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, seed/early team, security focus"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Josephine Chen
+  type: individual
+  firm: Sequoia Capital
+  source: "Partner at Sequoia Capital, seed/early team, consumer focus"
+  discovered_from: sequoia-capital
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
