@@ -11,7 +11,20 @@ check_size: "$50K-$2M"
 social:
   twitter: "@briannekimmel"
   linkedin: "linkedin.com/in/briannekimmel"
-status: draft
+status: flagged
+review_notes: |
+  1. DUPLICATE SOURCE: [^9] and [^19] are the same URL (dot.la/brianne-kimmel-worklife-ventures-2654777414.html). Must merge into one footnote and renumber.
+  2. QUOTE MISATTRIBUTION - "What Founders Say": Web search results indicate the quotes are swapped. Ronak Trivedi (Pietra) appears to have said "We met through a friend and investor..." and Eric Winters (Heylo) appears to have said "Brianne's network is phenomenal..." but the profile has them reversed. Must re-verify against dot.LA source and correct.
+  3. QUOTE NOT FOUND AT CITED SOURCE [^13]: "The best VCs are deeply paranoid, and always looking out for what's next or what we missed" is NOT on the Podcast Notes page for Below The Line. Web search suggests this quote is from CNBC [^4]. Citation must be corrected.
+  4. PARAPHRASE PRESENTED AS NEAR-QUOTE [^13]: Profile says founders with "deep end-user understanding" citing [^13], but the source says "Someone who understands the end-user." The wording is different; should use actual source language.
+  5. INFERRED THESIS REFERENCES COMPANIES NOT IN PORTFOLIO TABLE: Flamingo Estate, Tanner Fletcher Studios, Julie Care, Bravado, and Overdrive are mentioned in sector allocation but are NOT in the 34-entry portfolio table. Sector percentages are computed from a phantom 36+ company set, not the actual 34 in the table. Must either add these companies to the table or recompute percentages from only tabled entries.
+  6. INFERRED THESIS SECTOR COUNTS DON'T MATCH TABLE: "Creator Economy / Consumer: 6 companies" lists Flamingo Estate and Tanner Fletcher Studios (not in table). "Fitness/Health/Wellness: 3 companies" lists Julie Care (not in table). "E-commerce/D2C: 2 companies" lists Bravado (not in table). "Other: 3 companies" lists Overdrive (not in table). Recounting from actual table entries gives different numbers.
+  7. CITATION MISMATCH for "all but one" female founder claim: Profile cites [^4] (CNBC) but the claim actually comes from TechCrunch Fund II article [^10]. Must correct citation.
+  8. UNVERIFIABLE SOURCE [^4] (CNBC): Page renders only CSS, not article content. Multiple claims cite [^4] as sole source (Mux, Stytch investments). Need alternative verification or note limitation.
+  9. UNVERIFIABLE SOURCE [^17] (Tracxn): Page didn't render content. Shimmer investment cites only [^17]. Need alternative source.
+  10. UNVERIFIABLE SOURCE [^12] (Twitter/X): Tweet content did not render. Four consumerization trends cited to [^12] cannot be verified from the source URL.
+  11. FUND I SIZE CHARACTERIZATION: Profile says "$10 million debut fund (initially reported as $5 million at first close)" but TechCrunch [^1] headline says "$5M" and Grokipedia [^3] says "closed at $10 million (initial target: $3 million)." The parenthetical characterization may be inaccurate -- $5M may have been first close, not "initially reported as."
+  12. FUND II CHECK SIZE CLAIM: "$2 million at ~$20 million post-money valuations [^10]" could not be verified from TechCrunch Fund II article fetch. Needs re-verification.
 last_researched: 2026-03-14
 ---
 
