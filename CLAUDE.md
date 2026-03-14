@@ -509,3 +509,39 @@ Read `_lessons/2026-03-13-first-batch-review.md` for lessons from the first batc
 - **Bash** — Run commands (git commit, python build.py, etc.).
 - **Grep** — Search across files in the repository.
 - **Glob** — Find files by name pattern.
+
+## Autonomous Batch Execution
+
+When running research batches, follow this loop **without waiting for user input** between batches:
+
+### Batch Loop
+
+1. **Select batch:** Pick next 5 `status: pending` items from `queue.yaml` (prefer `priority: high`, then firms before startups before investors).
+2. **Launch parallel agents:** Spin up research agents for all 5 items concurrently.
+3. **Progress updates:** As each agent completes, print a 1-line status update.
+4. **When all agents in batch complete:**
+   a. Run review/verification agents in parallel for all new profiles.
+   b. Fix any flagged issues.
+   c. Mark queue items as `completed` in `queue.yaml`.
+   d. Run `python3 build.py` to regenerate the site.
+   e. `git add` + `git commit` + `git push` to deploy.
+   f. Print batch summary.
+5. **Start next batch immediately** — do NOT wait for user confirmation.
+6. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
+
+### Key Principles
+
+- **Commit and push after every batch** so the live site stays current. Don't accumulate 20 profiles then push once — push every 5.
+- **No manual approval needed** for git, python, file read/write, or web research. Permissions are pre-configured in `.claude/settings.local.json`.
+- **If an agent fails**, log the error, mark the queue item as `flagged`, and continue with the rest of the batch. Don't block the entire batch on one failure.
+
+### Progress Update Format
+
+After each batch, output a brief status:
+
+```
+Batch 3/6 complete: +5 firm profiles (Sequoia, a16z, Kleiner, Khosla, Greylock)
+Site: 3 investors, 8 firms, 20 startups | Queue: 85 pending
+Deployed: https://seedlist.com
+Starting Batch 4: Founders Fund, General Catalyst, Thrive Capital, Y Combinator, Tiger Global...
+```

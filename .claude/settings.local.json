@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Grep",
+      "Glob",
+      "WebSearch",
+      "WebFetch",
+      "Bash(git *)",
+      "Bash(python3 *)",
+      "Bash(python *)",
+      "Bash(ls *)",
+      "Bash(rm *)",
+      "Bash(tail *)",
+      "Bash(grep *)",
+      "Bash(cat *)",
+      "Bash(wc *)",
+      "Bash(gh *)",
+      "Bash(git -C /Users/EricRies2/Projects/seedlist log --oneline -10)"
+    ]
+  }
+}
