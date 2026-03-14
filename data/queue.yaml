@@ -932,11 +932,10 @@ queue:
   priority: low
   status: pending
   added: 2026-03-13
-# --- Wave 2: Co-investors discovered from 20 startup profiles ---
-# Firms ranked by frequency across profiled startups
 - name: Andreessen Horowitz
   type: firm
-  source: "co-investor in 12 startups: Okta, Airbnb, Stripe, Slack, Pinterest, Coinbase, Lyft, Instacart, Figma, Databricks, OpenAI, Anthropic"
+  source: 'co-investor in 12 startups: Okta, Airbnb, Stripe, Slack, Pinterest, Coinbase,
+    Lyft, Instacart, Figma, Databricks, OpenAI, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -944,7 +943,8 @@ queue:
   added: 2026-03-13
 - name: Sequoia Capital
   type: firm
-  source: "co-investor in 11 startups: Okta, Google, Airbnb, Stripe, DoorDash, Instacart, Square, Figma, Snapchat, Databricks, OpenAI"
+  source: 'co-investor in 11 startups: Okta, Google, Airbnb, Stripe, DoorDash, Instacart,
+    Square, Figma, Snapchat, Databricks, OpenAI'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -952,7 +952,8 @@ queue:
   added: 2026-03-13
 - name: Kleiner Perkins
   type: firm
-  source: "co-investor in 8 startups: Twitter, Airbnb, DoorDash, Instacart, Square, Figma, Snapchat, Slack"
+  source: 'co-investor in 8 startups: Twitter, Airbnb, DoorDash, Instacart, Square,
+    Figma, Snapchat, Slack'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -960,7 +961,8 @@ queue:
   added: 2026-03-13
 - name: Coatue Management
   type: firm
-  source: "co-investor in 8 startups: DoorDash, Instacart, Figma, Snapchat, Databricks, OpenAI, Anthropic, Stripe"
+  source: 'co-investor in 8 startups: DoorDash, Instacart, Figma, Snapchat, Databricks,
+    OpenAI, Anthropic, Stripe'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -968,7 +970,8 @@ queue:
   added: 2026-03-13
 - name: Thrive Capital
   type: firm
-  source: "co-investor in 7 startups: Twitch, Instacart, Stripe, Figma, Slack, OpenAI, Databricks"
+  source: 'co-investor in 7 startups: Twitch, Instacart, Stripe, Figma, Slack, OpenAI,
+    Databricks'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -976,7 +979,7 @@ queue:
   added: 2026-03-13
 - name: Khosla Ventures
   type: firm
-  source: "co-investor in 6 startups: Okta, Stripe, DoorDash, Instacart, Square, OpenAI"
+  source: 'co-investor in 6 startups: Okta, Stripe, DoorDash, Instacart, Square, OpenAI'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -984,7 +987,7 @@ queue:
   added: 2026-03-13
 - name: Founders Fund
   type: firm
-  source: "co-investor in 6 startups: Airbnb, Stripe, Lyft, Figma, OpenAI, Anthropic"
+  source: 'co-investor in 6 startups: Airbnb, Stripe, Lyft, Figma, OpenAI, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -992,7 +995,8 @@ queue:
   added: 2026-03-13
 - name: DST Global
   type: firm
-  source: "co-investor in 6 startups: Twitter, Airbnb, Facebook, DoorDash, Instacart, Databricks"
+  source: 'co-investor in 6 startups: Twitter, Airbnb, Facebook, DoorDash, Instacart,
+    Databricks'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1000,7 +1004,8 @@ queue:
   added: 2026-03-13
 - name: Tiger Global Management
   type: firm
-  source: "co-investor in 6 startups: Airbnb, Square, Coinbase, Instacart, Databricks, OpenAI"
+  source: 'co-investor in 6 startups: Airbnb, Square, Coinbase, Instacart, Databricks,
+    OpenAI'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1008,7 +1013,8 @@ queue:
   added: 2026-03-13
 - name: General Catalyst
   type: firm
-  source: "co-investor in 6 startups: Airbnb, Stripe, Snapchat, Instacart, Figma, Anthropic"
+  source: 'co-investor in 6 startups: Airbnb, Stripe, Snapchat, Instacart, Figma,
+    Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1016,7 +1022,8 @@ queue:
   added: 2026-03-13
 - name: Dragoneer Investment Group
   type: firm
-  source: "co-investor in 6 startups: Airbnb, DoorDash, Slack, Databricks, OpenAI, Anthropic"
+  source: 'co-investor in 6 startups: Airbnb, DoorDash, Slack, Databricks, OpenAI,
+    Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1024,7 +1031,7 @@ queue:
   added: 2026-03-13
 - name: Greylock Partners
   type: firm
-  source: "co-investor in 5 startups: Okta, Airbnb, Facebook, Coinbase, Figma"
+  source: 'co-investor in 5 startups: Okta, Airbnb, Facebook, Coinbase, Figma'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1032,7 +1039,7 @@ queue:
   added: 2026-03-13
 - name: Y Combinator
   type: firm
-  source: "co-investor in 5 startups: Twitch, Airbnb, DoorDash, Instacart, Coinbase"
+  source: 'co-investor in 5 startups: Twitch, Airbnb, DoorDash, Instacart, Coinbase'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1040,72 +1047,70 @@ queue:
   added: 2026-03-13
 - name: Benchmark
   type: firm
-  source: "co-investor in 2 startups: Twitter, Snapchat"
+  source: 'co-investor in 2 startups: Twitter, Snapchat'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
   status: completed
   added: 2026-03-13
-# Benchmark partners - current GPs
 - name: Peter Fenton
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster"
+  source: Benchmark partner roster
   discovered_from: benchmark
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Eric Vishria
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster"
+  source: Benchmark partner roster
   discovered_from: benchmark
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Chetan Puttagunta
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster"
+  source: Benchmark partner roster
   discovered_from: benchmark
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Everett Randle
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster"
+  source: Benchmark partner roster
   discovered_from: benchmark
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Jack Altman
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster"
+  source: Benchmark partner roster
   discovered_from: benchmark
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
-# Benchmark partners - former/emeritus GPs
 - name: Bill Gurley
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (former GP, stepped back 2020)"
+  source: Benchmark partner roster (former GP, stepped back 2020)
   discovered_from: benchmark
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Bob Kagle
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (co-founder, retired)"
+  source: Benchmark partner roster (co-founder, retired)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1114,7 +1119,7 @@ queue:
 - name: Bruce Dunlevie
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (co-founder, retired)"
+  source: Benchmark partner roster (co-founder, retired)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1123,7 +1128,7 @@ queue:
 - name: Andy Rachleff
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (co-founder, retired)"
+  source: Benchmark partner roster (co-founder, retired)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1132,7 +1137,7 @@ queue:
 - name: Kevin Harvey
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (co-founder, retired)"
+  source: Benchmark partner roster (co-founder, retired)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1141,7 +1146,7 @@ queue:
 - name: Matt Cohler
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (former GP, stepped back 2018)"
+  source: Benchmark partner roster (former GP, stepped back 2018)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1150,7 +1155,7 @@ queue:
 - name: Mitch Lasky
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (former GP, stepped back 2018)"
+  source: Benchmark partner roster (former GP, stepped back 2018)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1159,7 +1164,7 @@ queue:
 - name: Sarah Tavel
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (transitioned to venture partner April 2025)"
+  source: Benchmark partner roster (transitioned to venture partner April 2025)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1168,7 +1173,7 @@ queue:
 - name: Victor Lazarte
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (departed July 2025 to start own firm)"
+  source: Benchmark partner roster (departed July 2025 to start own firm)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1177,7 +1182,7 @@ queue:
 - name: Miles Grimshaw
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (departed 2024, returned to Thrive Capital)"
+  source: Benchmark partner roster (departed 2024, returned to Thrive Capital)
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
@@ -1186,7 +1191,7 @@ queue:
 - name: David Beirne
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (joined 1997, former GP)"
+  source: Benchmark partner roster (joined 1997, former GP)
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
@@ -1195,7 +1200,7 @@ queue:
 - name: Val Vaden
   type: individual
   firm: benchmark
-  source: "Benchmark partner roster (co-founder, retired)"
+  source: Benchmark partner roster (co-founder, retired)
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
@@ -1203,7 +1208,7 @@ queue:
   added: 2026-03-14
 - name: Accel Partners
   type: firm
-  source: "co-investor in 2 startups: Facebook, Slack"
+  source: 'co-investor in 2 startups: Facebook, Slack'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1211,7 +1216,7 @@ queue:
   added: 2026-03-13
 - name: Index Ventures
   type: firm
-  source: "co-investor in 2 startups: Figma, Slack"
+  source: 'co-investor in 2 startups: Figma, Slack'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1219,7 +1224,7 @@ queue:
   added: 2026-03-13
 - name: Union Square Ventures
   type: firm
-  source: "co-investor in 2 startups: Twitter, Coinbase"
+  source: 'co-investor in 2 startups: Twitter, Coinbase'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1227,7 +1232,7 @@ queue:
   added: 2026-03-13
 - name: Spark Capital
   type: firm
-  source: "co-investor in 3 startups: Twitter, Coinbase, Anthropic"
+  source: 'co-investor in 3 startups: Twitter, Coinbase, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1235,7 +1240,7 @@ queue:
   added: 2026-03-13
 - name: Bessemer Venture Partners
   type: firm
-  source: "co-investor in 3 startups: Twitch, Pinterest, Anthropic"
+  source: 'co-investor in 3 startups: Twitch, Pinterest, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1243,7 +1248,7 @@ queue:
   added: 2026-03-13
 - name: Lightspeed Venture Partners
   type: firm
-  source: "co-investor in 2 startups: Snapchat, Anthropic"
+  source: 'co-investor in 2 startups: Snapchat, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1251,29 +1256,30 @@ queue:
   added: 2026-03-13
 - name: SoftBank Vision Fund
   type: firm
-  source: "co-investor in 3 startups: DoorDash, Slack, OpenAI"
+  source: 'co-investor in 3 startups: DoorDash, Slack, OpenAI'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
   status: pending
   added: 2026-03-13
-# Wave 2: Key individual investors
 - name: Peter Thiel
-  source: "co-investor in 4 startups: PayPal, Facebook, Stripe, OpenAI. Founder of Founders Fund."
+  source: 'co-investor in 4 startups: PayPal, Facebook, Stripe, OpenAI. Founder of
+    Founders Fund.'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
   status: pending
   added: 2026-03-13
 - name: Jeff Bezos
-  source: "angel investor in 3 startups: Google, Twitter, Airbnb"
+  source: 'angel investor in 3 startups: Google, Twitter, Airbnb'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
   status: pending
   added: 2026-03-13
 - name: Reid Hoffman
-  source: "co-investor in 2 startups: Facebook, OpenAI. LinkedIn co-founder, Greylock partner."
+  source: 'co-investor in 2 startups: Facebook, OpenAI. LinkedIn co-founder, Greylock
+    partner.'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1282,135 +1288,134 @@ queue:
 - name: Yuri Milner
   type: individual
   firm: dst-global
-  source: "co-investor in 2 startups via DST Global: Twitter, Facebook"
+  source: 'co-investor in 2 startups via DST Global: Twitter, Facebook'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: low
   status: pending
   added: 2026-03-13
-# Tiger Global Management team/leadership
 - name: Chase Coleman III
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Founder & Partner"
+  source: Tiger Global Management team/leadership - Founder & Partner
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Eric Lane
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - President & COO"
+  source: Tiger Global Management team/leadership - President & COO
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Scott Shleifer
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner (former Head of Private Investments, now advisory)"
+  source: Tiger Global Management team/leadership - Partner (former Head of Private
+    Investments, now advisory)
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Evan Feinberg
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner, Investment Committee"
+  source: Tiger Global Management team/leadership - Partner, Investment Committee
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Griffin Schroeder
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner, Investment Committee"
+  source: Tiger Global Management team/leadership - Partner, Investment Committee
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Sean Carey
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner"
+  source: Tiger Global Management team/leadership - Partner
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Zaahid Khan
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner"
+  source: Tiger Global Management team/leadership - Partner
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Pengfei Wang
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner (APAC)"
+  source: Tiger Global Management team/leadership - Partner (APAC)
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Amita Singh
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner (APAC)"
+  source: Tiger Global Management team/leadership - Partner (APAC)
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Ray Brilus
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner (Europe)"
+  source: Tiger Global Management team/leadership - Partner (Europe)
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Jeffrey Maganis
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner"
+  source: Tiger Global Management team/leadership - Partner
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Evan Stanleigh
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner"
+  source: Tiger Global Management team/leadership - Partner
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Jay Chen
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management team/leadership - Partner"
+  source: Tiger Global Management team/leadership - Partner
   discovered_from: tiger-global
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
-# Tiger Global Management - notable former partners
 - name: John Curtius
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management - former Partner (departed 2022, started own fund)"
+  source: Tiger Global Management - former Partner (departed 2022, started own fund)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: normal
@@ -1419,134 +1424,134 @@ queue:
 - name: Lee Fixel
   type: individual
   firm: tiger-global
-  source: "Tiger Global Management - former Partner, Head of Private Equity (departed 2019, founded Addition)"
+  source: Tiger Global Management - former Partner, Head of Private Equity (departed
+    2019, founded Addition)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: normal
   status: pending
   added: 2026-03-14
-# Coatue Management team/leadership
 - name: Philippe Laffont
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Founder & Portfolio Manager"
+  source: Coatue Management team/leadership - Founder & Portfolio Manager
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Thomas Laffont
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Co-Founder & Senior Managing Director"
+  source: Coatue Management team/leadership - Co-Founder & Senior Managing Director
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Dan Rose
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Chairman"
+  source: Coatue Management team/leadership - Chairman
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Lucas Swisher
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - General Partner, Co-Lead Growth Investing"
+  source: Coatue Management team/leadership - General Partner, Co-Lead Growth Investing
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: David Schneider
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - General Partner"
+  source: Coatue Management team/leadership - General Partner
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Caryn Marooney
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - General Partner"
+  source: Coatue Management team/leadership - General Partner
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Andy Chen
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - General Partner"
+  source: Coatue Management team/leadership - General Partner
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Luca Schmid
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - General Partner"
+  source: Coatue Management team/leadership - General Partner
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Sri Viswanath
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - General Partner (former CTO of Atlassian)"
+  source: Coatue Management team/leadership - General Partner (former CTO of Atlassian)
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Jade Lai
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Partner"
+  source: Coatue Management team/leadership - Partner
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Rohan Bharvani
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Partner"
+  source: Coatue Management team/leadership - Partner
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Michael Barton Jr.
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Sector Head"
+  source: Coatue Management team/leadership - Sector Head
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Brendan O'Boyle
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Sector Head, Financials/Fintech"
+  source: Coatue Management team/leadership - Sector Head, Financials/Fintech
   discovered_from: coatue-management
   discovery_depth: 2
-  priority: high
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Nathan Urquhart
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - President & Head of Strategy"
+  source: Coatue Management team/leadership - President & Head of Strategy
   discovered_from: coatue-management
   discovery_depth: 2
   priority: normal
@@ -1555,16 +1560,15 @@ queue:
 - name: Jaimin Rangwalla
   type: individual
   firm: coatue-management
-  source: "Coatue Management team/leadership - Senior Managing Director, CIO of Publics"
+  source: Coatue Management team/leadership - Senior Managing Director, CIO of Publics
   discovered_from: coatue-management
   discovery_depth: 2
   priority: normal
   status: pending
   added: 2026-03-14
-# --- Discovered from Brianne Kimmel research ---
 - name: Worklife Ventures
   type: firm
-  source: "firm of brianne-kimmel"
+  source: firm of brianne-kimmel
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: high
@@ -1572,7 +1576,7 @@ queue:
   added: 2026-03-14
 - name: Deel
   type: startup
-  source: "portfolio company of brianne-kimmel (unicorn, seed 2019)"
+  source: portfolio company of brianne-kimmel (unicorn, seed 2019)
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: high
@@ -1580,7 +1584,7 @@ queue:
   added: 2026-03-14
 - name: Supabase
   type: startup
-  source: "portfolio company of brianne-kimmel (developer tools)"
+  source: portfolio company of brianne-kimmel (developer tools)
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: normal
@@ -1588,7 +1592,7 @@ queue:
   added: 2026-03-14
 - name: Hightouch
   type: startup
-  source: "portfolio company of brianne-kimmel (data infrastructure)"
+  source: portfolio company of brianne-kimmel (data infrastructure)
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: normal
@@ -1596,7 +1600,7 @@ queue:
   added: 2026-03-14
 - name: Hex
   type: startup
-  source: "portfolio company of brianne-kimmel (data analytics)"
+  source: portfolio company of brianne-kimmel (data analytics)
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: normal
@@ -1604,7 +1608,7 @@ queue:
   added: 2026-03-14
 - name: Pipe
   type: startup
-  source: "portfolio company of brianne-kimmel (unicorn, fintech)"
+  source: portfolio company of brianne-kimmel (unicorn, fintech)
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: normal
@@ -1612,7 +1616,7 @@ queue:
   added: 2026-03-14
 - name: WorkOS
   type: startup
-  source: "portfolio company of brianne-kimmel (developer infrastructure)"
+  source: portfolio company of brianne-kimmel (developer infrastructure)
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: normal
@@ -1621,16 +1625,15 @@ queue:
 - name: Charles Hudson
   type: individual
   firm: precursor-ventures
-  source: "frequent co-investor with brianne-kimmel"
+  source: frequent co-investor with brianne-kimmel
   discovered_from: brianne-kimmel
   discovery_depth: 2
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
-# --- Discovered from mar-hershenson profile ---
 - name: Pear VC
   type: firm
-  source: "firm of mar-hershenson"
+  source: firm of mar-hershenson
   discovered_from: mar-hershenson
   priority: high
   status: pending
@@ -1638,16 +1641,15 @@ queue:
 - name: Pejman Nozad
   type: individual
   firm: pear-vc
-  source: "co-founder and Founding Managing Partner of Pear VC"
+  source: co-founder and Founding Managing Partner of Pear VC
   discovered_from: mar-hershenson
   discovery_depth: 1
   priority: high
   status: pending
   added: 2026-03-14
-# --- Discovered from steve-anderson profile research ---
 - name: Baseline Ventures
   type: firm
-  source: "firm of steve-anderson"
+  source: firm of steve-anderson
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
@@ -1655,7 +1657,8 @@ queue:
   added: 2026-03-14
 - name: Instagram
   type: startup
-  source: "portfolio company of steve-anderson (first seed investor, acquired by Facebook for $1B)"
+  source: portfolio company of steve-anderson (first seed investor, acquired by Facebook
+    for $1B)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
@@ -1663,7 +1666,7 @@ queue:
   added: 2026-03-14
 - name: Stitch Fix
   type: startup
-  source: "portfolio company of steve-anderson (led seed, board member, IPO 2017)"
+  source: portfolio company of steve-anderson (led seed, board member, IPO 2017)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
@@ -1671,7 +1674,7 @@ queue:
   added: 2026-03-14
 - name: PagerDuty
   type: startup
-  source: "portfolio company of steve-anderson (seed investor, IPO 2019)"
+  source: portfolio company of steve-anderson (seed investor, IPO 2019)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
@@ -1679,7 +1682,7 @@ queue:
   added: 2026-03-14
 - name: SoFi
   type: startup
-  source: "portfolio company of steve-anderson (seed investor, IPO 2021)"
+  source: portfolio company of steve-anderson (seed investor, IPO 2021)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: normal
@@ -1687,7 +1690,8 @@ queue:
   added: 2026-03-14
 - name: Heroku
   type: startup
-  source: "portfolio company of steve-anderson (seed investor, acquired by Salesforce 2011)"
+  source: portfolio company of steve-anderson (seed investor, acquired by Salesforce
+    2011)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: normal
@@ -1695,16 +1699,15 @@ queue:
   added: 2026-03-14
 - name: CircleCI
   type: startup
-  source: "portfolio company of steve-anderson (seed investor, unicorn 2021)"
+  source: portfolio company of steve-anderson (seed investor, unicorn 2021)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: normal
   status: pending
   added: 2026-03-14
-# --- Discovered from shruti-gandhi profile ---
 - name: Array Ventures
   type: firm
-  source: "firm of shruti-gandhi"
+  source: firm of shruti-gandhi
   discovered_from: shruti-gandhi
   priority: high
   status: pending
@@ -1712,15 +1715,15 @@ queue:
 - name: Elias Torres
   type: individual
   firm: array-ventures
-  source: "Venture Partner at Array Ventures; founded Drift (acquired for $1.2B)"
+  source: Venture Partner at Array Ventures; founded Drift (acquired for $1.2B)
   discovered_from: shruti-gandhi
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Placer.ai
   type: startup
-  source: "portfolio company of shruti-gandhi (unicorn, location analytics)"
+  source: portfolio company of shruti-gandhi (unicorn, location analytics)
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: high
@@ -1728,7 +1731,7 @@ queue:
   added: 2026-03-14
 - name: Solugen
   type: startup
-  source: "portfolio company of shruti-gandhi (unicorn, bio-based chemicals)"
+  source: portfolio company of shruti-gandhi (unicorn, bio-based chemicals)
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: high
@@ -1736,7 +1739,7 @@ queue:
   added: 2026-03-14
 - name: Happyrobot
   type: startup
-  source: "portfolio company of shruti-gandhi (AI voice agents for logistics)"
+  source: portfolio company of shruti-gandhi (AI voice agents for logistics)
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: normal
@@ -1744,7 +1747,7 @@ queue:
   added: 2026-03-14
 - name: Simility
   type: startup
-  source: "portfolio company of shruti-gandhi (acquired by PayPal)"
+  source: portfolio company of shruti-gandhi (acquired by PayPal)
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: normal
@@ -1752,7 +1755,7 @@ queue:
   added: 2026-03-14
 - name: CandorIQ
   type: startup
-  source: "portfolio company of shruti-gandhi (Array led seed round)"
+  source: portfolio company of shruti-gandhi (Array led seed round)
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: normal
@@ -1760,16 +1763,15 @@ queue:
   added: 2026-03-14
 - name: Blumira
   type: startup
-  source: "portfolio company of shruti-gandhi (cloud security)"
+  source: portfolio company of shruti-gandhi (cloud security)
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: normal
   status: pending
   added: 2026-03-14
-# --- Discovered from itamar-novick profile ---
 - name: Recursive Ventures
   type: firm
-  source: "firm of itamar-novick"
+  source: firm of itamar-novick
   discovered_from: itamar-novick
   priority: high
   status: pending
@@ -1777,35 +1779,34 @@ queue:
 - name: Konstantin Othmer
   type: individual
   firm: recursive-ventures
-  source: "Ventures Partner at Recursive Ventures, angel investor in Tesla/Ring/Life360/Canva"
+  source: Ventures Partner at Recursive Ventures, angel investor in Tesla/Ring/Life360/Canva
   discovered_from: itamar-novick
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Chris Hulls
   type: individual
   firm: recursive-ventures
-  source: "Ventures Partner at Recursive Ventures, CEO/Co-Founder of Life360"
+  source: Ventures Partner at Recursive Ventures, CEO/Co-Founder of Life360
   discovered_from: itamar-novick
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Gil Ben-Artzy
   type: individual
   firm: upwest
-  source: "co-investor with itamar-novick in HoneyBook seed round, UpWest partner"
+  source: co-investor with itamar-novick in HoneyBook seed round, UpWest partner
   discovered_from: itamar-novick
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
-# DST Global team/leadership
 - name: Tom Stafford
   type: individual
   firm: dst-global
-  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  source: DST Global team/leadership - Co-Founder & Managing Partner
   discovered_from: dst-global
   discovery_depth: 2
   priority: low
@@ -1814,7 +1815,7 @@ queue:
 - name: John Lindfors
   type: individual
   firm: dst-global
-  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  source: DST Global team/leadership - Co-Founder & Managing Partner
   discovered_from: dst-global
   discovery_depth: 2
   priority: low
@@ -1823,7 +1824,7 @@ queue:
 - name: Rahul Mehta
   type: individual
   firm: dst-global
-  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  source: DST Global team/leadership - Co-Founder & Managing Partner
   discovered_from: dst-global
   discovery_depth: 2
   priority: low
@@ -1832,7 +1833,7 @@ queue:
 - name: Saurabh Gupta
   type: individual
   firm: dst-global
-  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  source: DST Global team/leadership - Co-Founder & Managing Partner
   discovered_from: dst-global
   discovery_depth: 2
   priority: low
@@ -1841,13 +1842,14 @@ queue:
 - name: Josh Kopelman
   type: individual
   firm: First Round Capital
-  source: "seed investor in Uber, Square, Notion, Flatiron Health; Forbes Midas List; co-founder First Round Capital"
+  source: seed investor in Uber, Square, Notion, Flatiron Health; Forbes Midas List;
+    co-founder First Round Capital
   priority: high
   status: completed
   added: 2026-03-14
 - name: First Round Capital
   type: firm
-  source: "firm of josh-kopelman, 500+ investments, 19 unicorns, seed-stage pioneer"
+  source: firm of josh-kopelman, 500+ investments, 19 unicorns, seed-stage pioneer
   discovered_from: josh-kopelman
   priority: high
   status: pending
@@ -1855,61 +1857,62 @@ queue:
 - name: Howard Morgan
   type: individual
   firm: First Round Capital
-  source: "co-founder of First Round Capital with Josh Kopelman, also co-founded B Capital"
+  source: co-founder of First Round Capital with Josh Kopelman, also co-founded B
+    Capital
   discovered_from: josh-kopelman
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Rob Hayes
   type: individual
   firm: First Round Capital
-  source: "Partner at First Round Capital"
+  source: Partner at First Round Capital
   discovered_from: josh-kopelman
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Chris Fralic
   type: individual
   firm: First Round Capital
-  source: "Partner at First Round Capital, led Roblox investment"
+  source: Partner at First Round Capital, led Roblox investment
   discovered_from: josh-kopelman
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Bill Trenchard
   type: individual
   firm: First Round Capital
-  source: "Partner at First Round Capital"
+  source: Partner at First Round Capital
   discovered_from: josh-kopelman
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Hayley Barna
   type: individual
   firm: First Round Capital
-  source: "Partner at First Round Capital"
+  source: Partner at First Round Capital
   discovered_from: josh-kopelman
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Phin Barnes
   type: individual
   firm: First Round Capital
-  source: "Partner at First Round Capital"
+  source: Partner at First Round Capital
   discovered_from: josh-kopelman
   discovery_depth: 1
-  priority: normal
+  priority: high
   status: pending
   added: 2026-03-14
 - name: Alfred Lin
   type: individual
   firm: Sequoia Capital
-  source: "Co-Steward of Sequoia Capital, led investments in Airbnb, DoorDash, Kalshi"
+  source: Co-Steward of Sequoia Capital, led investments in Airbnb, DoorDash, Kalshi
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
@@ -1918,7 +1921,8 @@ queue:
 - name: Pat Grady
   type: individual
   firm: Sequoia Capital
-  source: "Co-Steward of Sequoia Capital, led investments in Snowflake, Zoom, Okta, OpenAI"
+  source: Co-Steward of Sequoia Capital, led investments in Snowflake, Zoom, Okta,
+    OpenAI
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
@@ -1927,7 +1931,8 @@ queue:
 - name: Roelof Botha
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, former steward (2017-2025), backed YouTube, Instagram, Block"
+  source: Partner at Sequoia Capital, former steward (2017-2025), backed YouTube,
+    Instagram, Block
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
@@ -1936,90 +1941,91 @@ queue:
 - name: Jim Goetz
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, led WhatsApp investment"
+  source: Partner at Sequoia Capital, led WhatsApp investment
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Doug Leone
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, former co-steward with Michael Moritz"
+  source: Partner at Sequoia Capital, former co-steward with Michael Moritz
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Andrew Reed
   type: individual
   firm: Sequoia Capital
-  source: "Partner on Sequoia growth team"
+  source: Partner on Sequoia growth team
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Sonya Huang
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, growth team"
+  source: Partner at Sequoia Capital, growth team
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Shaun Maguire
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, seed/early team"
+  source: Partner at Sequoia Capital, seed/early team
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Jess Lee
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, first female investing partner in firm history (2016)"
+  source: Partner at Sequoia Capital, first female investing partner in firm history
+    (2016)
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Luciana Lixandru
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, leads European investing"
+  source: Partner at Sequoia Capital, leads European investing
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Stephanie Zhan
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, seed/early team"
+  source: Partner at Sequoia Capital, seed/early team
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Bogomil Balkansky
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, seed/early team, security focus"
+  source: Partner at Sequoia Capital, seed/early team, security focus
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
 - name: Josephine Chen
   type: individual
   firm: Sequoia Capital
-  source: "Partner at Sequoia Capital, seed/early team, consumer focus"
+  source: Partner at Sequoia Capital, seed/early team, consumer focus
   discovered_from: sequoia-capital
   discovery_depth: 3
-  priority: low
+  priority: normal
   status: pending
   added: 2026-03-14
