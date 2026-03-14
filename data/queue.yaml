@@ -948,7 +948,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: in_progress
+  status: completed
   added: 2026-03-13
 - name: Kleiner Perkins
   type: firm
@@ -996,7 +996,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
-  status: in_progress
+  status: completed
   added: 2026-03-13
 - name: Tiger Global Management
   type: firm
@@ -1280,10 +1280,12 @@ queue:
   status: pending
   added: 2026-03-13
 - name: Yuri Milner
+  type: individual
+  firm: dst-global
   source: "co-investor in 2 startups via DST Global: Twitter, Facebook"
   discovered_from: wave-1-startups
   discovery_depth: 2
-  priority: normal
+  priority: low
   status: pending
   added: 2026-03-13
 # Tiger Global Management team/leadership
@@ -1797,5 +1799,42 @@ queue:
   discovered_from: itamar-novick
   discovery_depth: 1
   priority: normal
+  status: pending
+  added: 2026-03-14
+# DST Global team/leadership
+- name: Tom Stafford
+  type: individual
+  firm: dst-global
+  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  discovered_from: dst-global
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: John Lindfors
+  type: individual
+  firm: dst-global
+  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  discovered_from: dst-global
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Rahul Mehta
+  type: individual
+  firm: dst-global
+  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  discovered_from: dst-global
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Saurabh Gupta
+  type: individual
+  firm: dst-global
+  source: "DST Global team/leadership - Co-Founder & Managing Partner"
+  discovered_from: dst-global
+  discovery_depth: 2
+  priority: low
   status: pending
   added: 2026-03-14
