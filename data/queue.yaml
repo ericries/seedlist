@@ -1719,7 +1719,7 @@ queue:
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Placer.ai
   type: startup
@@ -2026,6 +2026,23 @@ queue:
   source: Partner at Sequoia Capital, seed/early team, consumer focus
   discovered_from: sequoia-capital
   discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: David Cancel
+  type: individual
+  firm: drift
+  source: co-founder of Drift with Elias Torres; prolific angel investor in Boston SaaS ecosystem
+  discovered_from: elias-torres
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-14
+- name: The Community Fund
+  type: firm
+  source: early-stage fund where Elias Torres is a Partner; $5M fund investing in community-driven companies
+  discovered_from: elias-torres
+  discovery_depth: 2
   priority: normal
   status: pending
   added: 2026-03-14
