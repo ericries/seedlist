@@ -11,8 +11,20 @@ check_size: "$75K-$150K (initial); $500K-$1M (institutional seed); up to $3M (fo
 social:
   twitter: "@Itamar_Novick"
   linkedin: "linkedin.com/in/itamarnovick"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  1. DEAD URLs — [^7] (Comparably) returns 403, [^8] (Bloomberg) returns 403, [^13] (Understanding VC) returns 404, [^18] (Crunchbase/DataJoy) returns 403. Claims citing these must be re-sourced or removed.
+  2. UNVERIFIABLE URLs — [^17] (Tracxn/Watchful) and [^20] (Tracxn/Recursive Ventures) render as CSS/JS only, no content extractable. Watchful can be re-cited to [^1] (firm website lists it as exit). tryharmony.ai, IntuigenceAI, BuildPass citations need an alternative source.
+  3. TWITTER QUOTES UNVERIFIABLE — [^11] (Twitter profile), [^21], [^22], [^23] (individual tweets) cannot be fetched due to X blocking. The "blown away by the people" quote [^11] and three tweet quotes cannot be independently confirmed via web fetch.
+  4. QUOTE MISATTRIBUTION — "What Founders Say" attributes "product contributions helped us grow 5x" quote to "Chris Hulls, CEO & Co-Founder of Life360" but LinkedIn shows this recommendation was written by Lisa Kovacevich, not Chris Hulls. The "former direct report (name not disclosed)" quote is from Maoz Friedman — name should be disclosed.
+  5. REVENUE CLAIM UNSUPPORTED — Profile says "over $250 million in revenue" [^3][^5][^6] but source [^2] says "$250m+ business" (not specifically revenue). No source confirms the revenue figure. Must change to match source language or remove.
+  6. UNICORN COUNT CONFLATION — Profile says "two decacorns, seven unicorns" combining highest numbers from different sources. [^3] says "2 decacorns and 5 unicorns"; [^2] says "seven unicorns" (possibly including decacorns). These may conflict rather than stack. Should note discrepancy.
+  7. PORTFOLIO COUNT MISMATCH — Inferred thesis says "25 verified portfolio investments" but table contains only 22 entries. "Other" category says "Airdog, plus 2 others" without naming them.
+  8. AIRDOG MISSING YEAR — Airdog row has "--" for year, violating the rule that every portfolio entry needs a year (use founding year proxy if needed).
+  9. LOCATION DISCREPANCY — Frontmatter says "San Francisco, CA" but LinkedIn shows "Berkeley, California." Minor but should be consistent with sources.
+  10. EDUCATION SOURCE — Profile cites [^3] (CappedUp) and [^4] (Unicorn Nest) for education at Academic College of Tel-Aviv-Jaffa, but [^3] fetched content did not mention education details. LinkedIn confirms UC Berkeley Haas and Tel-Aviv education. Should cite LinkedIn [^9] for education instead.
+  11. MORGENTHALER DATES — Profile says "2010 to 2012" at Morgenthaler citing [^6]. LinkedIn shows UC Berkeley 2010-2012, meaning overlap. [^6] confirms the role but verify exact dates.
 ---
 
 ## Background
