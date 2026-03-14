@@ -51,7 +51,7 @@ team:
   - slug: larry-bohn
     role: "Managing Director"
     name: "Larry Bohn"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

@@ -51,7 +51,7 @@ team:
   - slug: erik-torenberg
     role: "General Partner"
     name: "Erik Torenberg"
-status: published
+status: draft
 last_researched: 2026-03-13
 ---
 

@@ -11,7 +11,7 @@ check_size: "$100K–$1M"
 social:
   twitter: "@standers"
   linkedin: "linkedin.com/in/steveatbaseline"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

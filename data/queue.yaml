@@ -2182,3 +2182,93 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-14
+- name: Ajay Kamat
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Arash Afrakhteh
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Kathleen Estreich
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Khalil Fuller
+  type: individual
+  firm: pear-vc
+  source: Partner & Head of Dorm at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Eddie Eltoukhy
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Harris Stolzenberg
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Pepe Agell
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Ryan Sells
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Shravan Reddy
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Warren Shaeffer
+  type: individual
+  firm: pear-vc
+  source: Partner at Pear VC
+  discovered_from: pejman-nozad
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-14

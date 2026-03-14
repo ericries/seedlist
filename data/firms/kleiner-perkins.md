@@ -30,7 +30,7 @@ team:
   - slug: john-doerr
     role: "Chairman & Advisor"
     name: "John Doerr"
-status: published
+status: draft
 last_researched: 2026-03-13
 ---
 

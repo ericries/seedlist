@@ -24,7 +24,7 @@ team:
   - slug: saurabh-gupta
     role: "Co-Founder & Managing Partner"
     name: "Saurabh Gupta"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

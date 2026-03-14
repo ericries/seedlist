@@ -11,7 +11,7 @@ check_size: "$100K-$500K (personal angel); $250K-$500K (First Round seed)"
 social:
   twitter: "@HLMorgan"
   linkedin: "linkedin.com/in/hlmorgan"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

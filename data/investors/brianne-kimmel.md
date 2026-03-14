@@ -11,7 +11,7 @@ check_size: "$50K-$2M"
 social:
   twitter: "@briannekimmel"
   linkedin: "linkedin.com/in/briannekimmel"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

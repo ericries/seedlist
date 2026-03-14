@@ -27,7 +27,7 @@ team:
   - slug: nitin-nohria
     role: "Executive Chairman"
     name: "Nitin Nohria"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

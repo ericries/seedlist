@@ -66,7 +66,7 @@ team:
   - slug: matthew-miller
     role: "Venture Partner"
     name: "Matthew Miller"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

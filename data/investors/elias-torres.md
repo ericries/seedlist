@@ -11,7 +11,7 @@ check_size: "$25K-$50K"
 social:
   twitter: "@eliast"
   linkedin: "linkedin.com/in/eliast"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

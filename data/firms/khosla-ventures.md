@@ -24,7 +24,7 @@ team:
   - slug: keith-rabois
     role: "Managing Director"
     name: "Keith Rabois"
-status: published
+status: draft
 last_researched: 2026-03-13
 ---
 

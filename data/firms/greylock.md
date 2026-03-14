@@ -48,7 +48,7 @@ team:
   - slug: jason-risch
     role: "Partner"
     name: "Jason Risch"
-status: published
+status: draft
 last_researched: 2026-03-13
 ---
 

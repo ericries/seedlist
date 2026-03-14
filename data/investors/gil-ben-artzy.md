@@ -11,7 +11,7 @@ check_size: "$250K-$4M"
 social:
   twitter: "@gilbenartzy"
   linkedin: "linkedin.com/in/gilbenartzy"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

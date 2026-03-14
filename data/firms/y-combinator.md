@@ -66,7 +66,7 @@ founders:
     role: "Co-Founder"
   - name: "Trevor Blackwell"
     role: "Co-Founder"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 

@@ -11,7 +11,7 @@ check_size: "$250K-$5M"
 social:
   twitter: "@pejmannozad"
   linkedin: "linkedin.com/in/pejman"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 
