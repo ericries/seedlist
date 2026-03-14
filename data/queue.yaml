@@ -1044,7 +1044,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
-  status: in_progress
+  status: completed
   added: 2026-03-13
 # Benchmark partners - current GPs
 - name: Peter Fenton
