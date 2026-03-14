@@ -11,8 +11,44 @@ check_size: "$100K–$1M"
 social:
   twitter: "@standers"
   linkedin: "linkedin.com/in/steveatbaseline"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  ## Dead/Inaccessible URLs (6 of 16 sources)
+  - [^2] Wikipedia (403) — cited for career history, check sizes, portfolio companies
+  - [^3] Medium/Instagram story (403) — cited for Systrom quote, $250K investment, 12% ownership, Stanford MBA, Krieger recruitment
+  - [^8] Stitch Fix IR (403) — cited for board membership (but [^11] also supports this)
+  - [^9] Tracxn (paywall/JS-rendered, no content) — cited for Machine Zone, Good Eggs, CybeReady, Rekord, Jackson WY location, geographic concentration
+  - [^10] TechCrunch signaling article — no article body rendered; two quotes unverifiable
+  - [^13] TechCrunch Heroku/Weebly article — no article body rendered; Weebly quote unverifiable
+
+  ## Factual Errors
+  - Midas List years: Profile says "2012 to 2020" but [^1] (Baseline website) says "2015 to 2020". Must correct.
+  - Fortune "50 Businesspeople of the Year" 2012: attributed to [^1] but not found in [^1] content. Needs alternative source or removal.
+  - "one of Silicon Valley's most successful — and smallest — investment firms" Forbes quote: attributed to [^1] but not found there. Needs Forbes source.
+
+  ## Citation Misattributions
+  - "bachelor's degrees in physics and business" cited to [^1][^3] but [^1] doesn't mention specific degrees and [^3] is 403. Supported by [^7] (Inc42) instead.
+  - "Stanford MBA" cited to [^1][^3] but [^1] doesn't mention Stanford MBA explicitly. Supported by [^4] and [^7].
+
+  ## Unverifiable Quotes (source 403/unrendered)
+  - Kevin Systrom quote ("I meet too many people...") — [^3] is 403
+  - Signaling quote ("My advice always is...") — [^10] body not rendered
+  - Seed rounds quote ("Seed rounds are about product market fit...") — [^10] body not rendered
+  - Weebly founders quote — [^13] body not rendered
+
+  ## Inferred Thesis Issues
+  - 4 portfolio companies (GoInstant, ScanScout, Thinkful, Rekord) are in the table but missing from sector allocation
+  - 4 companies are double-counted across sectors (Expensify, Machine Zone, OMGPOP, SoFi) making it appear to sum to 48 when it shouldn't
+  - Machine Zone categorized as "E-commerce / Marketplaces" but it's a mobile gaming company
+  - WeWork categorized as "Other" with year 2017 and stage "Seed" — WeWork's seed was ~2010; a 2017 investment would be late-stage
+
+  ## Founder Quotes Section
+  - "Aggregated from multiple sources" testimonials ([^4]) are not actual founder quotes — they are third-party biographical descriptions of Anderson's character. Violates "founder quotes only" rule.
+
+  ## Frontmatter Issues
+  - role: "Founder & Managing Partner" — sources say "Founder" or "Founder & General Partner"; "Managing Partner" not verified
+  - location: "Jackson, WY" — only source is [^9] (Tracxn) which didn't render content
 ---
 
 ## Background
