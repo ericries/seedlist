@@ -54,7 +54,7 @@ team:
   - slug: nathan-urquhart
     role: "President & Head of Strategy"
     name: "Nathan Urquhart"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

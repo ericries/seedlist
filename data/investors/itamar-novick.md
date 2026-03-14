@@ -11,7 +11,7 @@ check_size: "$75K-$150K (initial); $500K-$1M (institutional seed); up to $3M (fo
 social:
   twitter: "@Itamar_Novick"
   linkedin: "linkedin.com/in/itamarnovick"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

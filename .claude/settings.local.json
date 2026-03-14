@@ -18,7 +18,8 @@
       "Bash(cat *)",
       "Bash(wc *)",
       "Bash(gh *)",
-      "Bash(git -C /Users/EricRies2/Projects/seedlist log --oneline -10)"
+      "Bash(git -C /Users/EricRies2/Projects/seedlist log --oneline -10)",
+      "Bash(git -C /Users/EricRies2/Projects/seedlist push 2>&1)"
     ]
   }
 }

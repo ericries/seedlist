@@ -11,7 +11,7 @@ check_size: "$250K–$3M"
 social:
   twitter: "@atShruti"
   linkedin: "linkedin.com/in/shrutigandhi"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

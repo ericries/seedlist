@@ -11,7 +11,7 @@ check_size: "$500K-$4M"
 social:
   twitter: "@joshk"
   linkedin: "linkedin.com/in/jkopelman"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

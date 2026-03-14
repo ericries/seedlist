@@ -11,7 +11,7 @@ check_size: "$1M–$6M"
 social:
   twitter: "@MarHershenson"
   linkedin: "linkedin.com/in/mar-hershenson-b21395"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

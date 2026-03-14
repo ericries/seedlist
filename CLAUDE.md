@@ -341,6 +341,7 @@ Research is self-reinforcing. Every profile you research should yield new leads.
 ### What to Extract
 
 - **Individual investors (HIGHEST PRIORITY):** When researching a firm, extract every named partner, principal, and active angel. Add each as `type: individual` to the queue. When researching a startup, extract the specific people (not just firm names) who led or participated in rounds. **Investor profiles are the primary deliverable** — firms and startups exist mainly to support investor discovery and thesis inference.
+  - **Before adding an investor to the queue:** Check if their firm already has a profile in `data/firms/`. If NO firm profile exists → `priority: high`. If firm IS already profiled → `priority: normal` for senior partners (GP, Managing Partner, Founder), `priority: low` for junior/former partners. Angels and solo GPs without a firm are always `priority: high`.
 - **Co-investors:** When reviewing portfolio companies, note who else invested. Each co-investor is a potential new queue item.
 - **Portfolio company mentions:** Track portfolio companies for cross-referencing across profiles.
 - **Referenced investors/firms:** If an investor mentions other investors in interviews or on social media, add them to the queue.
@@ -523,6 +524,14 @@ When running research batches, follow this loop **without waiting for user input
 
 Whenever you encounter a new investor name during ANY research (firm profiles, startup profiles, queue processing, web searches) — **immediately add them to `queue.yaml` as `type: individual`**. Do not wait until the end of the research pass. Do not batch them up. The moment you see a name + firm affiliation, add it.
 
+**Priority tiers for investor queue entries:**
+
+- **`priority: high`** — Independent angels, solo GPs, or investors at firms we have NOT yet profiled (no file in `data/firms/`). These are the most valuable because they represent net-new coverage.
+- **`priority: normal`** — Key partners (Managing Partner, Founder, General Partner) at firms we HAVE already profiled. Worth having but lower urgency since the firm profile exists.
+- **`priority: low`** — Junior partners, principals, associates, or former/retired partners at already-profiled firms. Only research these when the high/normal queue is empty.
+
+Before adding any investor to the queue, **check if their firm already has a profile** in `data/firms/`. If no firm profile exists, that investor gets `priority: high`. If the firm is already profiled, use `normal` for senior partners and `low` for junior/former.
+
 #### Investor queue threshold rule
 
 **If the investor queue (`type: individual`, `status: pending`) has 3+ entries, at least one research agent MUST be working on investor profiles at all times.** This takes priority over firm and startup research. Concretely:
@@ -530,6 +539,8 @@ Whenever you encounter a new investor name during ANY research (firm profiles, s
 - If you have 5 agent slots and 5+ pending investors: run all 5 on investors.
 - If you have 5 agent slots and 3-4 pending investors: run 3-4 on investors, remainder on firms/startups.
 - If you have 5 agent slots and 0-2 pending investors: fill with firms/startups, but those agents must extract investor names aggressively to refill the investor queue.
+
+**When selecting which pending investors to research, always prefer `priority: high` (angels, solo GPs, investors at un-profiled firms) over `priority: normal` (senior partners at already-profiled firms), even if the normal-priority items were added first.** Only work on `priority: low` investors when the high and normal queues are empty.
 
 It is OK to **pause or deprioritize firm and startup research** whenever investor queue depth demands it. Firms and startups exist to feed the investor pipeline.
 
@@ -539,20 +550,18 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 2. **Select batch:** Pick up to 5 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
 3. **Launch parallel agents** for all items concurrently.
 4. **Mid-batch extraction:** As firm/startup agents discover investor names, add them to `queue.yaml` immediately (agents should do this themselves; the orchestrator should also scan agent results for missed names).
-5. **When all agents in batch complete:**
-   a. Run review/verification agents in parallel for all new profiles.
-   b. Fix any flagged issues.
-   c. Mark queue items as `completed` in `queue.yaml`.
-   d. Re-check investor queue depth — if it crossed the 3+ threshold, adjust next batch composition.
-   e. Run `python3 build.py` to regenerate the site.
-   f. `git add` + `git commit` + `git push` to deploy.
-   g. Print batch summary.
+5. **As each agent completes** (don't wait for the whole batch):
+   a. Write the profile to disk immediately.
+   b. `git add` + `git commit` + `git push` so it appears on the live site NOW.
+   c. Mark queue item as `completed` in `queue.yaml`.
+   d. Continue with review/verification in parallel with pushing.
+   e. When all agents in the batch are done: run `python3 build.py`, push again, re-check investor queue depth, print batch summary.
 6. **Start next batch immediately** — do NOT wait for user confirmation.
 7. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
 
 ### Key Principles
 
-- **Commit and push after every batch** so the live site stays current. Don't accumulate 20 profiles then push once — push every 5.
+- **SHIP CONSTANTLY.** Commit and push after EVERY profile, not just every batch. The live website should update in near-real-time as profiles are written. Don't accumulate work — `git add`, `git commit`, `git push` as soon as each profile is created or updated. Eric watches the live site and wants to see progress appear continuously. A profile sitting uncommitted on disk is invisible and worthless.
 - **No manual approval needed** for git, python, file read/write, or web research. Permissions are pre-configured in `.claude/settings.local.json`.
 - **If an agent fails**, log the error, mark the queue item as `flagged`, and continue with the rest of the batch. Don't block the entire batch on one failure.
 - **Investor queue is a hot queue.** Treat it like a priority lane — as soon as names appear, they get researched.
