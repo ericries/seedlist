@@ -1629,6 +1629,41 @@ queue:
   discovered_from: brianne-kimmel
   discovery_depth: 2
   priority: high
+  status: completed
+  added: 2026-03-14
+- name: Precursor Ventures
+  type: firm
+  source: firm of charles-hudson
+  discovered_from: charles-hudson
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-14
+- name: Sydney Thomas
+  type: individual
+  firm: precursor-ventures
+  source: former associate at Precursor Ventures, discovered from charles-hudson profile research
+  discovered_from: charles-hudson
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Ashtan Jordan
+  type: individual
+  firm: precursor-ventures
+  source: principal at Precursor Ventures, discovered from charles-hudson profile research
+  discovered_from: charles-hudson
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-14
+- name: Marina Girgis
+  type: individual
+  firm: precursor-ventures
+  source: principal at Precursor Ventures, discovered from charles-hudson profile research
+  discovered_from: charles-hudson
+  discovery_depth: 3
+  priority: low
   status: pending
   added: 2026-03-14
 - name: Pear VC
@@ -1645,7 +1680,7 @@ queue:
   discovered_from: mar-hershenson
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Baseline Ventures
   type: firm

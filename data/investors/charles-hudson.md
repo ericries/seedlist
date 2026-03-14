@@ -11,7 +11,7 @@ check_size: "$250K-$500K"
 social:
   twitter: "@chudson"
   linkedin: "linkedin.com/in/chudson"
-status: published
+status: draft
 last_researched: 2026-03-14
 ---
 
