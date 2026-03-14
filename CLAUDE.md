@@ -513,36 +513,58 @@ Read `_lessons/2026-03-13-first-batch-review.md` for lessons from the first batc
 
 ## Autonomous Batch Execution
 
-When running research batches, follow this loop **without waiting for user input** between batches:
+When running research batches, follow this loop **without waiting for user input** between batches.
+
+### Investor-First Pipeline
+
+**Investors are the #1 deliverable. Everything else feeds investor discovery.**
+
+#### Immediate investor extraction rule
+
+Whenever you encounter a new investor name during ANY research (firm profiles, startup profiles, queue processing, web searches) — **immediately add them to `queue.yaml` as `type: individual`**. Do not wait until the end of the research pass. Do not batch them up. The moment you see a name + firm affiliation, add it.
+
+#### Investor queue threshold rule
+
+**If the investor queue (`type: individual`, `status: pending`) has 3+ entries, at least one research agent MUST be working on investor profiles at all times.** This takes priority over firm and startup research. Concretely:
+
+- If you have 5 agent slots and 5+ pending investors: run all 5 on investors.
+- If you have 5 agent slots and 3-4 pending investors: run 3-4 on investors, remainder on firms/startups.
+- If you have 5 agent slots and 0-2 pending investors: fill with firms/startups, but those agents must extract investor names aggressively to refill the investor queue.
+
+It is OK to **pause or deprioritize firm and startup research** whenever investor queue depth demands it. Firms and startups exist to feed the investor pipeline.
 
 ### Batch Loop
 
-1. **Select batch:** Pick next 5 `status: pending` items from `queue.yaml`. **Investors are the primary goal.** Prioritize in this order: `priority: high` first, then **individuals before firms before startups**. When researching firms or startups, always extract individual investor names (partners, principals, associates) and add them to the queue as `type: individual`. Every batch should aim to include at least 2-3 investor profiles if any are available in the queue.
-2. **Launch parallel agents:** Spin up research agents for all 5 items concurrently.
-3. **Progress updates:** As each agent completes, print a 1-line status update.
-4. **When all agents in batch complete:**
+1. **Check investor queue depth.** Count `type: individual, status: pending` items. This determines batch composition per the threshold rule above.
+2. **Select batch:** Pick up to 5 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
+3. **Launch parallel agents** for all items concurrently.
+4. **Mid-batch extraction:** As firm/startup agents discover investor names, add them to `queue.yaml` immediately (agents should do this themselves; the orchestrator should also scan agent results for missed names).
+5. **When all agents in batch complete:**
    a. Run review/verification agents in parallel for all new profiles.
    b. Fix any flagged issues.
    c. Mark queue items as `completed` in `queue.yaml`.
-   d. Run `python3 build.py` to regenerate the site.
-   e. `git add` + `git commit` + `git push` to deploy.
-   f. Print batch summary.
-5. **Start next batch immediately** — do NOT wait for user confirmation.
-6. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
+   d. Re-check investor queue depth — if it crossed the 3+ threshold, adjust next batch composition.
+   e. Run `python3 build.py` to regenerate the site.
+   f. `git add` + `git commit` + `git push` to deploy.
+   g. Print batch summary.
+6. **Start next batch immediately** — do NOT wait for user confirmation.
+7. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
 
 ### Key Principles
 
 - **Commit and push after every batch** so the live site stays current. Don't accumulate 20 profiles then push once — push every 5.
 - **No manual approval needed** for git, python, file read/write, or web research. Permissions are pre-configured in `.claude/settings.local.json`.
 - **If an agent fails**, log the error, mark the queue item as `flagged`, and continue with the rest of the batch. Don't block the entire batch on one failure.
+- **Investor queue is a hot queue.** Treat it like a priority lane — as soon as names appear, they get researched.
 
 ### Progress Update Format
 
 After each batch, output a brief status:
 
 ```
-Batch 3/6 complete: +5 firm profiles (Sequoia, a16z, Kleiner, Khosla, Greylock)
-Site: 3 investors, 8 firms, 20 startups | Queue: 85 pending
+Batch 3/6 complete: +3 investor profiles, +2 firm profiles
+Investors: 12 published, 5 pending | Firms: 8 | Startups: 20
+Queue: 45 investors, 20 firms, 80 startups pending
 Deployed: https://seedlist.com
-Starting Batch 4: Founders Fund, General Catalyst, Thrive Capital, Y Combinator, Tiger Global...
+Starting Batch 4: [names]...
 ```
