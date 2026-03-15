@@ -110,7 +110,7 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 | NeuroVigil | ~2010 | Seed | Neuroscience/Wearables | [^11] |
 | Cambrian Asset Management | ~2015 | Seed | Quantitative Finance | [^11] |
 | Boundless Mind | ~2017 | Seed | AI/Behavioral Science | [^11] |
-| EeroQ | ~2023 | Seed | Quantum Computing | [^16] |
+| EeroQ | ~2023 | Seed | Quantum Computing | [^15] |
 | ViziApps | ~2012 | Seed | Mobile/Enterprise | [^11] |
 
 *Note: Most investment dates are approximate, using best available estimates from public reporting. Years marked "~YYYY" use the company's founding year or earliest known funding as a proxy. Morgan has reportedly made 80+ personal investments; this table represents approximately 26% of known investments.*
@@ -119,9 +119,10 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Uber | 2010 | Seed | Transportation | [^14] |
-| Roblox | 2009 | Seed | Gaming/Metaverse | [^14] |
+| Uber | 2010 | Seed | Transportation | [^14][^16] |
+| Roblox | 2009 | Seed | Gaming/Metaverse | [^14][^16] |
 | Square | ~2009 | Seed | Fintech/Payments | [^5][^14] |
+| Notion | ~2016 | Seed | Productivity/SaaS | [^16] |
 | Mint | ~2007 | Seed | Fintech/PFM | [^5] |
 | Augury | ~2014 | Seed | IoT/Industrial | [^3] |
 
@@ -174,36 +175,30 @@ No independently sourced founder testimonials found. Morgan's long career and bo
 
 ## Sources
 
-[^1]: "Howard L. Morgan," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Howard_L._Morgan
+[^1]: "Howard Morgan," Math for America Board of Directors, accessed March 2026. https://www.mathforamerica.org/about/our-team/board-directors/howard-morgan
 
-[^2]: "Howard Morgan," Math for America Board of Directors, accessed March 2026. https://www.mathforamerica.org/about/our-team/board-directors/howard-morgan
+[^2]: "Howard Morgan," SALT Conference speaker profile, accessed March 2026. https://www.salt.org/speakers/howard-morgan
 
-[^3]: "Howard Morgan," SALT Conference speaker profile, accessed March 2026. https://www.salt.org/speakers/howard-morgan
+[^3]: "Howard Morgan," B Capital team page, accessed March 2026. https://b.capital/team/howard-morgan/
 
-[^4]: "Howard Morgan," B Capital team page, accessed March 2026. https://b.capital/team/howard-morgan/
+[^4]: "339. Founding Renaissance Technologies & First Round Capital, The Origins of Idealab, Reasons Not to Grow your Fund, and How Sourcing from YC Has Changed (Howard Morgan)," The Full Ratchet podcast, accessed March 2026. https://fullratchet.net/339-founding-renaissance-technologies-first-round-capital-the-origins-of-idealab-reasons-not-to-grow-your-fund-and-how-sourcing-from-yc-has-changed-howard-morgan/
 
-[^5]: "339. Founding Renaissance Technologies & First Round Capital, The Origins of Idealab, Reasons Not to Grow your Fund, and How Sourcing from YC Has Changed (Howard Morgan)," The Full Ratchet podcast, accessed March 2026. https://fullratchet.net/339-founding-renaissance-technologies-first-round-capital-the-origins-of-idealab-reasons-not-to-grow-your-fund-and-how-sourcing-from-yc-has-changed-howard-morgan/
+[^5]: "LA Venture: Howard Morgan — B Capital," TenOneTen Ventures podcast (Episode 179), accessed March 2026. https://www.tenoneten.com/podcast/howard-morgan-b-capital
 
-[^6]: "10 Things I Learned At My Dinner With Howard Morgan," Lou Kerner, Medium, November 2016. https://loukerner.medium.com/10-things-i-learned-at-my-dinner-with-howard-morgan-11b406a51a8f
+[^6]: "NVCA Announces 2025 Venture Vanguard Class," NVCA press release, February 2025. https://nvca.org/press_releases/nvca-announces-2025-venture-vanguard-class/
 
-[^7]: "First Round Capital," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/First_Round_Capital
+[^7]: "Howard Morgan's Investing Profile," Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/howard-morgan
 
-[^8]: "Investor Spotlight: First Round Capital, an early Uber backer that lives up to its name," PitchBook, accessed March 2026. https://pitchbook.com/news/articles/investor-spotlight-first-round-capital-an-early-uber-backer-that-lives-up-to-its-name
+[^8]: "Cornell Tech Council Names New Chairman and Council Member," Cornell Chronicle, August 2024. https://news.cornell.edu/stories/2024/08/cornell-tech-council-names-new-chairman-and-council-member
 
-[^9]: "LA Venture: Howard Morgan — B Capital," TenOneTen Ventures podcast (Episode 179), accessed March 2026. https://www.tenoneten.com/podcast/howard-morgan-b-capital
+[^9]: "Howard Morgan: Insights from an Uber Successful Tech and VC Legend," TIGER 21 podcast (NEXT series; audio only, no transcript), accessed March 2026. https://tiger21.com/podcast/howard-morgan-insights-from-an-uber-successful-tech-and-vc-legend/
 
-[^10]: "NVCA Announces 2025 Venture Vanguard Class," NVCA press release, February 2025. https://nvca.org/press_releases/nvca-announces-2025-venture-vanguard-class/
+[^10]: "EeroQ Raises $7.25M in Funding Led by B Capital's Ascent Fund," Quantaneo, accessed March 2026. https://www.quantaneo.com/%E2%80%8BEeroQ-Raises-7-25M-in-Funding-Led-by-B-Capital-s-Ascent-Fund-to-Build-Scalable-Quantum-Computer-With-Ethical-Focus_a683.html
 
-[^11]: "Howard Morgan's Investing Profile," Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/howard-morgan
+[^11]: "Howard Morgan: From Renaissance Technologies to First Round Capital, and Beyond," Something Ventured podcast, April 15, 2022. https://somethingventured.us/howard-morgan-from-renaissance-technologies-to-first-round-capital-and-beyond/
 
-[^12]: "Cornell Tech Council Names New Chairman and Council Member," Cornell Chronicle, August 2024. https://news.cornell.edu/stories/2024/08/cornell-tech-council-names-new-chairman-and-council-member
+[^12]: "Howard Morgan, Tech & VC Pioneer — 50 Years of Shaping the Future, From ARPANET to Building RenTech, First Round, and B Capital," Fintech Leaders, accessed March 2026. https://fintechleaders.substack.com/p/howard-morgan-tech-and-vc-pioneer
 
-[^13]: "Howard Morgan: Insights from an Uber Successful Tech and VC Legend," TIGER 21 podcast (NEXT series), accessed March 2026. https://tiger21.com/podcast/howard-morgan-insights-from-an-uber-successful-tech-and-vc-legend/
+[^13]: "MyndYou Receives Funding From U.S. Investors," PR Newswire, September 12, 2017. https://www.prnewswire.com/news-releases/myndyou-receives-funding-from-us-investors-300517751.html
 
-[^14]: "Howard Morgan — 2025 Portfolio & Founded Companies," Tracxn, accessed March 2026. https://tracxn.com/d/people/howard-morgan/__dAO8JAunLe8xqI2cyanGUiVO-VQqmdCmDHHQTooP42Y
-
-[^15]: "EeroQ Raises $7.25M in Funding Led by B Capital's Ascent Fund," Quantaneo, accessed March 2026. https://www.quantaneo.com/%E2%80%8BEeroQ-Raises-7-25M-in-Funding-Led-by-B-Capital-s-Ascent-Fund-to-Build-Scalable-Quantum-Computer-With-Ethical-Focus_a683.html
-
-[^16]: "Howard Morgan: From Renaissance Technologies to First Round Capital, and Beyond," Something Ventured podcast, April 15, 2022. https://somethingventured.us/howard-morgan-from-renaissance-technologies-to-first-round-capital-and-beyond/
-
-[^17]: "Howard Morgan," Mucker Capital mentor profile, accessed March 2026. https://mucker.com/mentor/howard-morgan/
+[^14]: "Nanotronics Secures $30 Million led by Investment Corporation of Dubai (ICD)," PR Newswire, October 2017. https://www.prnewswire.com/news-releases/nanotronics-secures-30-million-led-by-investment-corporation-of-dubai-icd-to-accelerate-industrial-ai-and-international-market-expansion-300529811.html
