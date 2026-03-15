@@ -11,7 +11,14 @@ check_size: "$250K-$500K"
 social:
   twitter: "@chudson"
   linkedin: "linkedin.com/in/chudson"
-status: draft
+status: flagged
+review_notes: |
+  1. Source [^18] (Carta innovator-stories/charles-hudson) returns 403. Quote about patience on line 161 cannot be verified. Dead URL must be replaced or claim removed.
+  2. Source [^11] (Tracxn) is paywalled and didn't render. Claims about 121 seed / 22 Series A investments and average round sizes (line 57) cannot be independently verified. Portfolio entries Sora [^11], Kraftful [^11], Hype [^11] also unverifiable from this source alone.
+  3. Quote misquoted on line 152: profile says "I can predict the check size and involvement level" but source [^17] actually says "I can probably predict the size check that you like to write." "Involvement level" was added and "probably" was dropped.
+  4. Women's health quote on line 167 attributed to [^5] (First Funders podcast) could not be found in the transcript. Needs correct source attribution or removal.
+  5. In-Q-Tel introduction story (line 20) says "a connection from Excite...who knew Gilman Louie, In-Q-Tel's leader." Source [^5] actually describes Amy Chan at Excite telling Hudson about her husband starting a CIA-funded VC fund. The Gilman Louie attribution may be inaccurate.
+  6. Line 161 "patience" quote uses third-person ("he must keep") in what should be a first-person direct quote section. This is a paraphrase presented as a quote.
 last_researched: 2026-03-14
 ---
 
