@@ -50,7 +50,7 @@ Based on 30 verified investments in the portfolio table below (out of 400+ total
 - **Media / Entertainment**: 2 companies (7%) -- Vungle, mmhmm
 - **Other**: 1 company (3%) -- Range
 
-*With only 30 of 400+ investments verified, the actual distribution may differ substantially. The health/wellness concentration is notable and confirmed by Hudson's own comments about being one of the largest early-stage investors in women's health [^5].*
+*With only 30 of 400+ investments verified, the actual distribution may differ substantially. The health/wellness concentration is notable and confirmed by Hudson's own comments about being one of the largest early-stage investors in women's health [^19].*
 
 ### Stage Distribution
 
@@ -194,8 +194,6 @@ No independently sourced founder testimonials found after dedicated searching. W
 [^9]: "VC Spotlight: Precursor Ventures," Dev Curation (Substack), accessed March 2026. https://devcuration.substack.com/p/vc-spotlight-precursor-ventures
 
 [^10]: "Charles Hudson is optimistic about outliers," Mercury Blog, accessed March 2026. https://mercury.com/blog/charles-hudson
-
-[^11]: "Precursor Ventures -- 2026 Investor Profile, Portfolio, Team & Investment Trends," Tracxn, accessed March 2026. https://tracxn.com/d/venture-capital/precursor-ventures/__Vknk80xpoqiEfIvYCsqOsjnH6qOYzIs0G-ky9qlRf0c
 
 [^11]: "Charles Hudson, Investor Database," Mercury, accessed March 2026. https://mercury.com/investor-database/charles-hudson
 
