@@ -27,7 +27,7 @@ The experience at Kleiner Perkins was formative. When Anderson later wanted to p
 
 In 2012, Anderson ranked #49 on Fortune's list of the 50 Most Powerful Businesspeople [^2]. He was included on the Forbes Midas List from 2015 to 2020, peaking at #2 in 2016 and #4 in 2017 [^1][^5][^6].
 
-Anderson served as a board member at Stitch Fix from 2011 to 2024 [^7][^10]. Baseline Ventures operates from the San Francisco Bay Area [^8].
+Anderson served as a board member at Stitch Fix [^10]. Baseline Ventures operates from the San Francisco Bay Area [^8].
 
 ## Stated Thesis
 
@@ -69,7 +69,7 @@ Baseline primarily invests in US-based companies, with a heavy concentration in 
 
 ### Check Size and Ownership
 
-Typical check sizes range from $100K to $1M, with a sweet spot around $400K [^4][^8]. Anderson committed $250,000 to Instagram's seed round in 2010, resulting in approximately 12% ownership when Instagram was acquired by Facebook [^12].
+Typical check sizes range from $100K to $1M, with a sweet spot around $400K [^4][^8]. Anderson committed $250,000 to Instagram's seed round in 2010 [^12]. He invested $750,000 in Stitch Fix's seed round, leading the round [^10].
 
 ### Founder Profile Patterns
 
@@ -151,20 +151,21 @@ Anderson does not appear to invest in biotech, healthcare, or deep tech despite 
 **On keeping options open:**
 > "My advice to everyone, myself included, is to always keep your options open. When I founded Baseline Ventures, I believed strongly in its potential for success, despite receiving negative feedback from mentors, investors, and other peers in the venture community. Nevertheless, I remained steadfast in my belief while also preparing a backup plan." [^3]
 
-**On sole founders:**
-> "The biggest risk for you is you're a sole founder. I usually don't invest in sole founders." [^12]
-
 ## What Founders Say
 
 **Katrina Lake, Founder of Stitch Fix:**
 
-Lake has described Anderson's seed investment and his willingness to back her despite limited entrepreneurial experience. On Anderson's early belief in her:
+Lake has described Anderson's seed investment and his willingness to back her when other investors passed. Anderson gave a term sheet for $750,000, initially planning to invest $500,000 and asking her to find other investors for the remaining $250,000. When she returned unable to find additional investors, Anderson told her: "I'm glad that nobody else did. I'm happy to put in the other quarter million" [^7].
 
-> "For whatever reason he felt like I was going to be the one to be able to do it." [^7]
+On Anderson's belief in her as a founder:
 
-Lake noted that Anderson gave Stitch Fix "what would now be considered a very small seed check of a half million dollars" and that his conviction when others passed mattered: "I'm glad that nobody else did" [^7].
+> "I think with Steve it was really about am I going to be the right person to do it." [^7]
 
-*Note: Anderson led Stitch Fix's $750K seed round in April 2011 and served on the board from 2011 to 2024 [^10].*
+On the value of having an early committed investor:
+
+> "I think it's also important to have somebody who believes in you invested in the business. There's a lot of confidence and credibility that comes from the fact that an investor who's met a lot of entrepreneurs and seen a lot of companies, believes in the business." [^7]
+
+*Note: Anderson led Stitch Fix's $750K seed round in April 2011 [^10].*
 
 *No additional independently sourced founder testimonials were found despite dedicated searching across Twitter/X, podcast transcripts, and press coverage. Anderson operates with an unusually low public profile for an investor of his stature.*
 

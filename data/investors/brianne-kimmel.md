@@ -35,12 +35,7 @@ Worklife Ventures publicly describes itself as "the first creator-friendly ventu
 
 The firm's website frames its thesis around the belief that "anyone can start a business, creative project, or other endeavor" and that the firm invests alongside "thoughtful founders, building new opportunities for every creator, designer, developer and individual who uses the tech we've backed" [^2].
 
-Kimmel has articulated four key trends she sees fueling the consumerization of enterprise software [^3][^11]:
-
-1. Rising popularity of freelance and remote work
-2. Consumer fluency with SaaS and self-onboarding
-3. Democratizing purchasers and decision makers
-4. Rising developer salaries inviting low-code/no-code tools
+Kimmel has described several trends fueling the consumerization of enterprise software, including the rise of freelance and remote work, consumer familiarity with SaaS products, and the growth of low-code/no-code tools for developers [^3].
 
 When asked whether Worklife is "consumer or enterprise," Kimmel has responded: "No, no. It's actually neither. The lines will be incredibly blurred" [^1].
 
@@ -117,8 +112,8 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 | Bubbles | ~2021 | Seed | Collaboration | [^10] |
 | Primer | ~2020 | Seed | Education | [^10] |
 | Italic | ~2020 | Seed | E-commerce/D2C | [^10] |
-| Shimmer | 2024 | Seed | Health/ADHD | [^16] |
-| Rowy | ~2022 | Seed | Low-code/No-code | [^17] |
+| Shimmer | 2024 | Seed | Health/ADHD | [^15] |
+| Rowy | ~2022 | Seed | Low-code/No-code | [^15] |
 | Tome | ~2022 | Seed | AI/Presentations | [^14] |
 | GC.AI | ~2023 | Seed | AI | [^2][^14] |
 | Flamingo Estate | ~2023 | Seed | Consumer/Lifestyle | [^10] |
@@ -146,9 +141,6 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 **On blurring lines between consumer and enterprise:**
 > "Are you consumer or are you enterprise? No, no. It's actually neither. The lines will be incredibly blurred." [^1]
 
-**On what makes great VCs:**
-> "The best VCs are deeply paranoid, and always looking out for what's next or what we missed." [^3]
-
 **On founder-investor fit:**
 > "Founders should really find founder-partner fit. I think there are just different styles of relationships, there are different styles of company building." [^12]
 
@@ -169,11 +161,11 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 
 ## What Founders Say
 
-**Eric Winters, CEO of Heylo:**
-> "We met through a friend and investor, and it was like we could finish each other's sentences. Brianne lives and breathes what this space is all about. We have a shared vision of what the future will look like." [^8]
+**Eric Winters, Co-Founder of Heylo:**
+> "We met through a friend and investor, and it was like we could finish each other's sentences. Brianne lives and breathes what this space is all about. We have a shared vision of what the future will look like." [^2]
 
 **Ronak Trivedi, CEO of Pietra:**
-> "Being in Brianne's network has helped to grow our business. It's hard for investors to build value in companies they invest in, but she embodies the thing that she wants to help with. She works hard to get in on the best deals and she has this thesis on remote work, and side hustles." [^8]
+> "It's hard for investors to build value in companies they invest in, but Brianne embodies the thing that she wants to help with. She works hard to get in on the best deals and she has this thesis on remote work, and side hustles. This is the next generation of younger entrepreneurs, and they have the tools to have multiple revenue streams." [^2]
 
 **Unnamed portfolio founder (via dot.LA):**
 > "Brianne is very involved with helping us recruit people and building connections with other companies. She reached out to us when we were early stage. She is super pro about the future of work and remote work." [^8]
@@ -205,16 +197,14 @@ No additional independently sourced founder testimonials found beyond the above.
 
 [^10]: "Worklife Portfolio," Worklife Ventures, accessed March 2026. https://www.worklife.vc/companies
 
-[^11]: Brianne Kimmel (@briannekimmel), Twitter/X post on consumerization trends, August 27, 2019. https://x.com/briannekimmel/status/1166381280520310784
+[^11]: "How To Become A Startup 'Angel' Investor: Brianne Kimmel on Below The Line with James Beshara," Podcast Notes, accessed March 2026. https://podcastnotes.org/below-the-line/brianne-kimmel/
 
-[^12]: "How To Become A Startup 'Angel' Investor: Brianne Kimmel on Below The Line with James Beshara," Podcast Notes, accessed March 2026. https://podcastnotes.org/below-the-line/brianne-kimmel/
+[^12]: "Why They Invested: Deel," Signature Block, accessed March 2026. https://www.signatureblock.co/articles/why-they-invested-deel
 
-[^13]: "Why They Invested: Deel," Signature Block, accessed March 2026. https://www.signatureblock.co/articles/why-they-invested-deel
+[^13]: "Supporting Founders, Shaping Industries: Worklife Ventures' Strategic Investments," GoingVC, accessed March 2026. https://www.goingvc.com/post/supporting-founders-shaping-industries-worklife-ventures-strategic-investments
 
-[^14]: "Supporting Founders, Shaping Industries: Worklife Ventures' Strategic Investments," GoingVC, accessed March 2026. https://www.goingvc.com/post/supporting-founders-shaping-industries-worklife-ventures-strategic-investments
+[^14]: "Worklife," VC Sheet, accessed March 2026. https://www.vcsheet.com/fund/worklife
 
-[^15]: "Worklife," VC Sheet, accessed March 2026. https://www.vcsheet.com/fund/worklife
+[^15]: "Shimmer Secures $2.2 Million Seed to Transform Adult ADHD Management," Pulse 2.0, January 2024. https://pulse2.com/shimmer-2-2-million-funding/
 
-[^16]: "Shimmer Secures $2.2 Million Seed to Transform Adult ADHD Management," press release, January 2024. https://pulse2.com/shimmer-2-2-million-funding/
-
-[^17]: "Rowy raises $3M in seed funding from Worklife VC and more," Rowy blog, accessed March 2026. https://www.rowy.io/blog/rowy-seed-funding
+[^15]: "Rowy raises $3M in seed funding from Worklife VC and more," Rowy blog, accessed March 2026. https://www.rowy.io/blog/rowy-seed-funding
