@@ -46,6 +46,17 @@
     </div>
     {% endif %}
 
+    {% if profile.last_verified_investment %}
+    <div class="meta-item">
+      <span class="meta-label">Last Verified Investment</span>
+      <span class="meta-value">
+        {{ profile.last_verified_investment.company }}
+        {% if profile.last_verified_investment.round %}({{ profile.last_verified_investment.round }}){% endif %}
+        — {{ profile.last_verified_investment.date }}
+      </span>
+    </div>
+    {% endif %}
+
     {% if profile.social %}
     <div class="meta-item">
       <span class="meta-label">Social</span>

@@ -13,6 +13,7 @@ Usage:
   sl claim SLUG          Set queue item to in_progress
   sl complete SLUG       Set queue item to completed
   sl check               Verify repo state: uncommitted changes, unpushed commits, build status
+  sl recent              Show investor profiles sorted by most recent verified investment
 """
 
 import sys
@@ -21,6 +22,8 @@ import subprocess
 import yaml
 import re
 from pathlib import Path
+
+import frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -295,6 +298,51 @@ def cmd_check():
         print("\nAll clean — repo is up to date")
 
 
+def cmd_recent():
+    """Show investor profiles sorted by most recent verified investment."""
+    investors_dir = DATA / "investors"
+    if not investors_dir.exists():
+        print("No investors directory found")
+        return
+
+    entries = []
+    missing = []
+    for md_file in sorted(investors_dir.glob("*.md")):
+        post = frontmatter.load(md_file)
+        status = post.metadata.get("status", "unknown")
+        name = post.metadata.get("name", md_file.stem)
+        slug = md_file.stem
+        lvi = post.metadata.get("last_verified_investment")
+        if lvi and lvi.get("date"):
+            entries.append({
+                "slug": slug,
+                "name": name,
+                "status": status,
+                "date": str(lvi["date"]),
+                "company": lvi.get("company", ""),
+                "round": lvi.get("round", ""),
+            })
+        else:
+            missing.append({"slug": slug, "name": name, "status": status})
+
+    # Sort by date descending
+    entries.sort(key=lambda e: e["date"], reverse=True)
+
+    print("=== Investors by Most Recent Verified Investment ===\n")
+    for e in entries:
+        round_str = f" ({e['round']})" if e["round"] else ""
+        status_badge = f" [{e['status']}]" if e["status"] != "published" else ""
+        print(f"  {e['date']}  {e['name']}{status_badge} — {e['company']}{round_str}")
+
+    if missing:
+        print(f"\n=== Missing last_verified_investment ({len(missing)}) ===\n")
+        for m in missing:
+            status_badge = f" [{m['status']}]" if m["status"] != "published" else ""
+            print(f"  ⚠  {m['name']}{status_badge}")
+
+    print(f"\n  Total: {len(entries)} with dates, {len(missing)} missing")
+
+
 # ── Main ──────────────────────────────────────────────────────
 
 def main():
@@ -339,6 +387,8 @@ def main():
         cmd_complete(sys.argv[2])
     elif cmd == "check":
         cmd_check()
+    elif cmd == "recent":
+        cmd_recent()
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)

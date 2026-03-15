@@ -164,11 +164,25 @@ def build():
         out_path = OUTPUT_DIR / "startups" / f"{profile['slug']}.html"
         out_path.write_text(html)
 
+    # Sort investors: most recent verified investment first, profiles without dates last
+    def investor_recency_key(p):
+        date = str((p.get("last_verified_investment") or {}).get("date", ""))
+        if date:
+            return (0, date)  # has date — sort ascending by group, descending by date
+        return (1, "")
+
+    investors_sorted = sorted(investors, key=investor_recency_key)
+    # Two-pass: first separate dated/undated, then reverse dated group
+    dated = [p for p in investors if (p.get("last_verified_investment") or {}).get("date")]
+    undated = [p for p in investors if not (p.get("last_verified_investment") or {}).get("date")]
+    dated.sort(key=lambda p: str((p.get("last_verified_investment") or {}).get("date", "")), reverse=True)
+    investors_sorted = dated + undated
+
     # Generate listing pages
     listing_template = env.get_template("listing.html")
 
-    # All investors
-    html = listing_template.render(title="All Investors", profiles=investors, list_type="investor")
+    # All investors (sorted by most recent investment)
+    html = listing_template.render(title="All Investors", profiles=investors_sorted, list_type="investor")
     (OUTPUT_DIR / "investors" / "index.html").write_text(html)
 
     # All firms

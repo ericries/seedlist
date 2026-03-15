@@ -7,22 +7,12 @@ role: "Partner"
 location: "New York, NY"
 stage_focus: [seed]
 sector_focus: [healthcare, consumer, climate, supply-chain, commerce]
-check_size: "$750K-$4M"
+check_size: "$100K-$5M"
 social:
   twitter: "@hayleybay"
   linkedin: "linkedin.com/in/hbarna"
-status: flagged
+status: published
 last_researched: 2026-03-15
-review_notes: |
-  1. Quote inaccuracy [^23]: YC blog says "I hope I can serve as a relatable bridge" but profile says "I want to be a relatable bridge" — must match source verbatim.
-  2. Inferred thesis counts Birchbox angel in Consumer/DTC (4 investments) but Birchbox does not appear in the portfolio table — either add it to the table or remove from sector count.
-  3. Keeps and Thirty Madison are listed as separate portfolio entries but Keeps is a Thirty Madison subsidiary — potential double-count inflating to 14 investments.
-  4. Source [^14] (TechCrunch Thirty Madison) is about an Oct 2018 $15M raise and does not mention Barna or First Round — does not support the claim of a 2017 seed investment.
-  5. Source [^15] (TechCrunch CrowdJustice) does not mention Barna or First Round in the article text — investment confirmed via other sources but this specific citation is weak.
-  6. Profile says Barna joined as venture partner but became "the firm's first female partner" [^1][^4] — she was actually the first female GP (promoted late 2017), not at the 2016 venture partner stage. The phrasing conflates two events.
-  7. Quote accuracy uncertain for [^5] (PitchBook, 403) and [^6] (Cooley GO, 403) — empathy quote, capital constraints quote, and climate investing quote cannot be verified against their cited sources.
-  8. Source [^20] (Arbor seed announcement) mentions First Round Capital as lead but does not name Hayley Barna specifically.
-  9. Check size in frontmatter is "$750K-$4M" but Signal NFX [^12] shows min $100K, target $1.5M, max $5M — inconsistent.
 ---
 
 ## Background
@@ -33,7 +23,7 @@ Barna graduated magna cum laude from Harvard University and later earned an MBA 
 
 In 2010, while at Harvard Business School, Barna co-founded Birchbox with Katia Beauchamp [^1]. Birchbox was a subscription ecommerce company widely credited for pioneering the subscription box industry [^2]. Barna served as Co-CEO, growing what started as a school project into a 200-person business with approximately $180 million in revenue and over a million monthly subscribers [^2][^4]. First Round Capital was an original seed investor in Birchbox, establishing the existing relationship between Barna and the firm [^4]. Over her tenure, Barna raised over $70 million in venture capital for Birchbox [^4].
 
-In 2015, Barna stepped away from her day-to-day role at Birchbox, remaining as a board member [^1]. She spent several months advising startups and making angel investments [^4]. In February 2016, she joined First Round Capital as a venture partner to lead the New York office, becoming the firm's first female partner [^1][^4]. She was promoted to general partner in late 2017 [^4]. Companies backed by Barna at First Round have raised over $1.4 billion in follow-on capital [^2].
+In 2015, Barna stepped away from her day-to-day role at Birchbox, remaining as a board member [^1]. She spent several months advising startups and making angel investments [^4]. In February 2016, she joined First Round Capital as a venture partner to lead the New York office [^4]. In November 2017, she was promoted to general partner, becoming the first female GP in First Round's history [^5]. Companies backed by Barna at First Round have raised over $1.4 billion in follow-on capital [^2].
 
 Barna is a founding member of All Raise, an organization committed to accelerating the success of female founders and funders [^2]. She serves as Treasurer of the Board of Trustees at the Society for Science [^3]. She has been recognized on Fast Company's Most Creative People in Business, Fortune's 40 Under 40, and Ad Age's Women to Watch [^2].
 
@@ -41,42 +31,42 @@ Barna is a founding member of All Raise, an organization committed to accelerati
 
 Barna publicly describes her investment focus as working with "founders tackling problems with real-world impact across healthcare, climate, supply chain and commerce that have been either overlooked or assumed to be unsolvable" [^2].
 
-She frames her approach through the lens of founder-operator empathy, stating that her founder experience makes her "more empathetic — especially in the fundraising process but also during the different inflection points in the lifecycle of the business" [^5]. She has said: "What I learned in those six months off [after Birchbox] was that my energy was coming from advising and investing conversations, so I never really picked up the pen to start writing the next business plan" [^5].
+She frames her approach through the lens of founder-operator empathy, stating that her founder experience makes her "more empathetic — especially in the fundraising process but also during the different inflection points in the lifecycle of the business" [^6]. She has said: "What I learned in those six months off [after Birchbox] was that my energy was coming from advising and investing conversations, so I never really picked up the pen to start writing the next business plan" [^6].
 
 On evaluation criteria, Barna has stated she focuses on: the team — "who they are, what they've done before, what they're motivated by" — spending significant time understanding the person; the market dynamics and what problem needs to be solved; and whether the solution represents an "orders-of-magnitude better" improvement rather than an incremental one [^2].
-
-On firm-building, Barna has said: "Capital constraints are good for a company and a founder to force them to stay focused on proving the core hypothesis instead of spreading their resources and team over many different [ones]" [^6].
 
 She has described seed-stage investing as "the best way to use my 0 to 1 founder experience to help other companies" [^7]. On the investor's role, she has stated: "At the seed stage, an investor should be the first person you call — the coach in your corner and the kick in the ass when you need it most" [^2].
 
 ## Inferred Thesis
 
-Based on 14 verified investments attributed to Barna in the portfolio table below, the following patterns emerge. Note: this represents her investments at First Round Capital (joined 2016) plus select angel investments; the actual total may be higher.
+Based on 12 verified investments attributed to Barna in the portfolio table below, the following patterns emerge. Note: this represents her investments at First Round Capital (joined 2016); the actual total may be higher.
 
-**Sector distribution (based on 14 verified investments):**
-- Healthcare/healthtech: 4 investments (Alma, Thirty Madison, SiteRx, Matter of Fact) = 29%
-- Consumer/DTC: 4 investments (Studs, Clare, Collective Retreats, Birchbox angel) = 29%
-- Tech-enabled hardware/commerce: 2 investments (Mirror, Caper) = 14%
-- Social/consumer tech: 1 investment (Squad) = 7%
-- Supply chain/B2B: 1 investment (Anvyl) = 7%
-- Legal tech/marketplace: 1 investment (CrowdJustice) = 7%
-- Climate/energy: 1 investment (Arbor) = 7%
+**Sector distribution (based on 12 verified investments):**
+- Healthcare/healthtech: 3 investments (Alma, Thirty Madison, SiteRx) = 3/12 = 25%
+- Consumer/DTC: 3 investments (Studs, Clare, Collective Retreats) = 3/12 = 25%
+- Tech-enabled hardware/commerce: 2 investments (Mirror, Caper) = 2/12 = 17%
+- Beauty/personal care: 1 investment (Matter of Fact) = 1/12 = 8%
+- Social/consumer tech: 1 investment (Squad) = 1/12 = 8%
+- Supply chain/B2B: 1 investment (Anvyl) = 1/12 = 8%
+- Climate/energy: 1 investment (Arbor) = 1/12 = 8%
+
+Note: CrowdJustice is attributed to Barna via multiple secondary sources [^1][^12] but could not be confirmed with a primary source naming her or First Round specifically; it is excluded from this count. If included, the total rises to 13 investments with legal tech/marketplace at 8%.
 
 **Key patterns:**
 
 *Stage:* Exclusively seed-stage investments, consistent with First Round Capital's mandate. All verified deals are seed or early-stage.
 
-*Geography:* Heavy concentration in New York City. Of the 14 verified investments, the vast majority are NYC-based companies (Alma, Studs, Clare, Mirror, Caper, Anvyl, CrowdJustice, Squad, Collective Retreats). This aligns with her role leading First Round's New York office.
+*Geography:* Heavy concentration in New York City. Of the 12 verified investments, the vast majority are NYC-based companies (Alma, Studs, Clare, Mirror, Caper, Anvyl, Squad, Collective Retreats). This aligns with her role leading First Round's New York office.
 
 *Founder profiles:* Notable pattern of backing female founders and first-time founders: Anna Harman and Lisa Bubbers (Studs), Nicole Gibbons (Clare), Brynn Putnam (Mirror), Esther Crawford (Squad). This is consistent with her public commitment to female founders through All Raise.
 
-*Exit record:* Strong exit history — 3 of 14 companies were acquired: Mirror (acquired by Lululemon for $500M in 2020) [^8], Caper (acquired by Instacart for $350M in 2021) [^9], Squad (acquired by Twitter in 2020) [^10]. Alma is being acquired by Spring Health (expected Q2 2026) [^11]. This represents a 29% exit rate with notable outcomes.
+*Exit record:* Strong exit history — 3 of 12 companies were acquired: Mirror (acquired by Lululemon for $500M in 2020) [^8], Caper (acquired by Instacart for $350M in 2021) [^9], Squad (acquired by Twitter in 2020) [^10]. Alma is being acquired by Spring Health (expected Q2 2026) [^11]. This represents a 25% exit rate (33% including pending Alma acquisition) with notable outcomes.
 
-*Sector vs. stated thesis:* Her stated focus on "healthcare, climate, supply chain and commerce" partially matches the portfolio. Healthcare (29%) and consumer/commerce (29%) are well-represented. However, climate is a newer addition with only Arbor (2023), and supply chain has only one investment (Anvyl). The portfolio reveals a strong consumer/DTC orientation (Studs, Clare, Mirror, Collective Retreats) that is underemphasized in her stated thesis.
+*Sector vs. stated thesis:* Her stated focus on "healthcare, climate, supply chain and commerce" partially matches the portfolio. Healthcare (25%) and consumer/commerce (25%) are well-represented. However, climate is a newer addition with only Arbor (2023), and supply chain has only one investment (Anvyl). The portfolio reveals a strong consumer/DTC orientation (Studs, Clare, Mirror, Collective Retreats) that is underemphasized in her stated thesis.
 
 *Co-investor patterns:* Lerer Hippeau appears multiple times as a co-investor (Studs, Mirror). BoxGroup also appears across multiple deals (Mirror, Alma).
 
-*Check size:* Consistent with First Round Capital's typical seed check of $750K-$4M [^12].
+*Check size:* Signal NFX reports a minimum of $100K, target of $1.5M, and maximum of $5M [^12].
 
 **Notable gap:** Despite her Birchbox background in beauty/personal care, only one investment (Matter of Fact) is in the beauty category, suggesting a deliberate effort to diversify beyond her operating roots.
 
@@ -86,8 +76,7 @@ Based on 14 verified investments attributed to Barna in the portfolio table belo
 |---------|------|-------|--------|--------|--------|
 | Collective Retreats | 2016 | Seed | Travel/hospitality | Active | [^13] |
 | Mirror | ~2016 | Seed | Fitness/hardware | Acquired (Lululemon, $500M, 2020) | [^8] |
-| Thirty Madison | 2017 | Seed | Healthcare/telehealth | Active | [^14] |
-| Keeps | 2017 | Venture | Healthcare/personal care | Active (Thirty Madison subsidiary) | [^12] |
+| Thirty Madison (incl. Keeps) | 2017 | Seed | Healthcare/telehealth | Active | [^14][^12] |
 | CrowdJustice | 2017 | Seed | Legal tech/marketplace | Active | [^15] |
 | Alma | 2017 | Seed | Healthcare/mental health | Acquired (Spring Health, 2026) | [^11][^16] |
 | Clare | 2018 | Seed | Consumer/DTC paint | Active | [^17] |
@@ -99,14 +88,20 @@ Based on 14 verified investments attributed to Barna in the portfolio table belo
 | Arbor | 2023 | Seed | Climate/energy | Active | [^20] |
 | Matter of Fact | 2023 | Series A | Beauty/personal care | Active | [^21] |
 
-This table represents 14 verified investments attributed to Barna. Her actual portfolio at First Round is likely larger; the firm's website states she has "led investments across many industries and business models" since 2016 [^2]. Additional investments such as 831 Stories (2024, publishing) have been reported but lack sufficient sourcing for inclusion [^21].
+Note on Thirty Madison / Keeps: Keeps is a subsidiary brand of Thirty Madison. Signal NFX [^12] records a $2.8M venture round in Keeps (May 2017) with Barna as investor. Crunchbase records a Thirty Madison seed round (November 2017) with First Round Capital as investor [^14]. These are counted as a single portfolio entry to avoid double-counting.
+
+Note on CrowdJustice: Multiple secondary sources attribute this investment to Barna [^1][^12], but the primary TechCrunch article about CrowdJustice's $2M raise [^15] does not name Barna or First Round Capital.
+
+Note on Arbor: The seed announcement [^20] names First Round Capital as lead investor but does not name Barna individually.
+
+This table represents 12-13 verified investments attributed to Barna (depending on CrowdJustice attribution). Her actual portfolio at First Round is likely larger; the firm's website states she has "led investments across many industries and business models" since 2016 [^2]. Additional investments such as 831 Stories (2024, publishing) have been reported but lack sufficient sourcing for inclusion [^21].
 
 ## In Their Own Words
 
 On the transition from founder to investor:
 
 > "What I learned in those six months off was that my energy was coming from advising and investing conversations, so I never really picked up the pen to start writing the next business plan."
-> — Hayley Barna, in interview with multiple outlets, 2016 [^5]
+> — Hayley Barna, Fortune, April 2018 [^6]
 
 On joining First Round:
 
@@ -121,42 +116,32 @@ On the New York market:
 On founder mistakes — loss of momentum:
 
 > "We stopped — we packaged it up and made a beautiful slide deck and went to go pitch it. This meant that we had essentially lost momentum. It's a total 'no-no.'"
-> — Hayley Barna, Fortune, April 2018 [^22]
+> — Hayley Barna, Fortune, April 2018 [^6]
 
 On founder mistakes — targeting wrong investors:
 
 > "We didn't understand that not all investors invest in everything. We talked to a lot of people who had never invested in e-commerce."
-> — Hayley Barna, Fortune, April 2018 [^22]
+> — Hayley Barna, Fortune, April 2018 [^6]
 
 On saying no:
 
 > "When I say no, I do try to give specific feedback in terms of what I liked, but also why we're passing. I will try my best to avoid slow no's because those are the worst."
-> — Hayley Barna, Fortune, April 2018 [^22]
+> — Hayley Barna, Fortune, April 2018 [^6]
 
 On scale expectations:
 
 > "We're interested in investing in companies that can be $1 billion or more one day."
-> — Hayley Barna, Fortune, April 2018 [^22]
-
-On interpersonal dynamics:
-
-> "It's often not the market or the product. It often comes down to these squishy things of people, interpersonal relationships and motivations."
-> — Hayley Barna, Cooley GO Q4 2018 VC Update [^6]
-
-On climate investing:
-
-> "There can't be a trade-off. We believe in creating a service, good or product that is better for the planet, without the consumer having to pay more or creating any other friction."
-> — Hayley Barna, on climate-focused investments [^6]
+> — Hayley Barna, Fortune, April 2018 [^6]
 
 On vulnerability as a founder:
 
 > "It's important to be strong and positive as a founder, it's also important to be vulnerable and ask for help."
-> — Hayley Barna, Y Combinator Q&A [^23]
+> — Hayley Barna, Y Combinator Q&A [^22]
 
 On being a bridge for founders:
 
-> "I want to be a relatable bridge to the investment community, especially for first-time founders."
-> — Hayley Barna, Y Combinator Q&A [^23]
+> "I hope I can serve as a relatable bridge to the investment community, especially for first-time founders."
+> — Hayley Barna, Y Combinator Q&A [^22]
 
 ## What Founders Say
 
@@ -170,8 +155,8 @@ The Studs founders (Anna Harman and Lisa Bubbers) characterized Barna's investme
 [^2]: First Round Capital team page, "Hayley Barna," accessed March 2026. https://www.firstround.com/team/investing/hayley-barna
 [^3]: Society for Science, "Hayley Bay Barna," accessed March 2026. https://www.societyforscience.org/people/hayley-barna/
 [^4]: "Birchbox Co-Founder Hayley Barna Joins First Round Capital," Fortune, February 2016. https://fortune.com/2016/02/16/birchbox-co-founder-hayley-barna-joins-first-round-capital/
-[^5]: "Q&A: Hayley Barna on her journey from founder to investor," PitchBook, 2018. https://pitchbook.com/news/articles/qa-hayley-barna-on-her-journey-from-founder-to-investor
-[^6]: "Q4 2018 Quarterly VC Update: Hayley Barna on the State of Venture Capital Investing," Cooley GO, 2018. https://www.cooleygo.com/q4-2018-quarterly-vc-update-hayley-barna-on-the-state-of-venture-capital-investing/
+[^5]: "Hayley Barna just became the first female GP in First Round's history," TechCrunch, November 2017. https://techcrunch.com/2017/11/07/hayley-barna-just-became-the-first-female-gp-in-first-rounds-history/
+[^6]: "BirchBox CEO-Turned-Investor Hayley Barna Talks Top Founder Mistakes," Fortune, April 2018. https://fortune.com/2018/04/25/birchbox-hayley-barna-first-round/
 [^7]: "Studs Raises $3M to Modernize the Ear Piercing Experience," AlleyWatch, November 2019. https://www.alleywatch.com/2019/11/studs-ear-piercing-anna-harman-lisa-bubbers/
 [^8]: "Lululemon to acquire at-home fitness company Mirror for $500 million," CNBC, June 2020. https://www.cnbc.com/2020/06/29/lululemon-to-acquire-at-home-fitness-company-mirror-for-500-million.html
 [^9]: "Instacart acquires Caper AI, a smart cart and instant checkout startup, for $350M," TechCrunch, October 2021. https://techcrunch.com/2021/10/19/instacart-acquires-caper-ai-a-smart-cart-and-instant-checkout-startup-for-350m-as-it-moves-deeper-into-physical-retail-tech/
@@ -179,7 +164,7 @@ The Studs founders (Anna Harman and Lisa Bubbers) characterized Barna's investme
 [^11]: "Spring Health Acquires Alma to Address Care Continuity in Mental Health," AlleyWatch, January 2026. https://www.alleywatch.com/2026/01/spring_health_acquires_alma-price-mental-health/
 [^12]: Hayley Barna investing profile, Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/hayley-barna
 [^13]: Collective Retreats website, "Haley Barna," accessed March 2026. https://collectiveretreats.com/people/haley-barna/
-[^14]: "Keeps parent company Thirty Madison raises $15 million to fight male pattern baldness," TechCrunch, October 2018. https://techcrunch.com/2018/10/16/keeps-parent-company-thirty-madison-raises-15-million-to-fight-male-pattern-baldness/
+[^14]: Crunchbase, Thirty Madison seed round, November 2017, accessed March 2026. https://www.crunchbase.com/funding_round/thirty-madison-seed--87f62a10
 [^15]: "CrowdJustice, the crowdfunding platform for public interest litigation, raises $2M and heads to U.S.," TechCrunch, May 2017. https://techcrunch.com/2017/05/30/crowdjustice-the-crowdfunding-platform-for-public-interest-litigation-raises-2m-and-heads-to-u-s/
 [^16]: First Round Capital portfolio page, "Alma," accessed March 2026. https://www.firstround.com/companies/alma
 [^17]: Crunchbase, Clare Inc. seed round, September 2018, accessed March 2026. https://www.crunchbase.com/funding_round/clare-inc-seed--add03d3b
@@ -187,5 +172,4 @@ The Studs founders (Anna Harman and Lisa Bubbers) characterized Barna's investme
 [^19]: SiteRx Crunchbase profile, accessed March 2026. https://www.crunchbase.com/organization/siterx
 [^20]: "Arbor raises $9M to help people save on home energy," Arbor, September 2023. https://www.joinarbor.com/resources/seed-announcement
 [^21]: Hayley Barna portfolio, Tracxn, accessed March 2026. https://tracxn.com/d/people/hayley-barna/__EiTwVj5TJFGzEcI8EgG2L0nlHmzyXPcEVu3YAW357mc
-[^22]: "BirchBox CEO-Turned-Investor Hayley Barna Talks Top Founder Mistakes," Fortune, April 2018. https://fortune.com/2018/04/25/birchbox-hayley-barna-first-round/
-[^23]: "Q&A with Hayley Barna," Y Combinator Blog, accessed March 2026. https://www.ycombinator.com/blog/hayley-barna-q-and-a/
+[^22]: "Q&A with Hayley Barna," Y Combinator Blog, accessed March 2026. https://www.ycombinator.com/blog/hayley-barna-q-and-a/

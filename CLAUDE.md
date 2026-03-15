@@ -86,6 +86,10 @@ location: "City, State"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, developer-tools, AI]
 check_size: "$250K-$1M"
+last_verified_investment:
+  date: 2025-11-15      # Date of most recent verified investment (YYYY-MM-DD or YYYY)
+  company: "Acme Corp"  # Company name
+  round: "Series A"     # Round type
 social:
   twitter: "@handle"
   linkedin: "linkedin.com/in/handle"
@@ -276,6 +280,7 @@ The portfolio table is the foundation for the inferred thesis. Thin portfolio da
 - **Every entry needs a year.** If you cannot find the exact investment year, use the company's founding year as a proxy and mark it: "~2019 (founding year)". Never use "--" or "Early stage" as a date.
 - **Cite every entry.** Each portfolio row needs a source footnote proving the investor actually invested.
 - **Use aggregator sites systematically.** Check Crunchbase, Tracxn, Signal by NFX, PitchBook, and the firm's own portfolio page. Cross-reference across multiple sources.
+- **Track the most recent verified investment.** When building the portfolio table, identify the most recent entry with a confirmed date. Set `last_verified_investment` in the frontmatter to that entry's company, round, and date. This is the primary "active investor" signal — do not rely on the investor's claims about being active.
 
 ### When Data Is Limited
 
@@ -411,6 +416,7 @@ After writing a profile, perform a verification review:
 4. **Validate the inferred thesis.** Does the portfolio table actually support the percentage breakdowns and patterns described? Recalculate if needed.
 5. **Check quote accuracy.** Verify that every quote in "In Their Own Words" and "What Founders Say" matches the cited source exactly.
 6. **Cross-reference the frontmatter.** Ensure `stage_focus`, `sector_focus`, `check_size`, and other frontmatter fields are consistent with the profile body.
+7. **Verify `last_verified_investment`.** Confirm it matches the most recent entry in the portfolio table. If entries were added or removed during review, update this field.
 
 ### After Review
 
