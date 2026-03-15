@@ -2553,3 +2553,52 @@ queue:
   priority: low
   status: pending
   added: 2026-03-15
+- name: Chainalysis
+  type: startup
+  source: Crypto compliance platform; Benchmark led Series A ($16M, 2018); Sarah Tavel board seat
+  discovered_from: sarah-tavel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Hipcamp
+  type: startup
+  source: Camping marketplace; Benchmark led seed (2018), a16z led follow-on; Sarah Tavel board seat
+  discovered_from: sarah-tavel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Cambly
+  type: startup
+  source: English language tutoring marketplace; Benchmark Series A; Sarah Tavel board seat
+  discovered_from: sarah-tavel
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: 11x
+  type: startup
+  source: AI digital workers for sales; Benchmark led Series A ($24M, 2024); Sarah Tavel board seat
+  discovered_from: sarah-tavel
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Agentio
+  type: startup
+  source: YouTube creator ad marketplace; Benchmark led Series A ($12M, 2024); Sarah Tavel board seat
+  discovered_from: sarah-tavel
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Katie Haun
+  type: individual
+  firm: haun-ventures
+  source: Former federal prosecutor turned VC; introduced Sarah Tavel to Chainalysis; founded Haun Ventures
+  discovered_from: sarah-tavel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
