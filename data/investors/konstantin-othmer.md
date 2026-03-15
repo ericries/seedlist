@@ -11,8 +11,18 @@ check_size: "$10K-$50K"
 social:
   twitter: "@konikaze"
   linkedin: "linkedin.com/in/konstantinothmer"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  - [^4] (preserve.mactech.com) has expired SSL certificate — inaccessible. Claim supported by other sources [^2][^3] but dead URL violates citation hygiene. Find alternative or remove citation.
+  - [^10] (crunchbase.com/organization/cloudcar) returns 403. Only used alongside [^9] which alone supports the CloudCar claim. Remove [^10] reference.
+  - [^12] (crunchbase.com/person/konstantin-othmer) returns 403. This is the sole source for Shift Technologies and Blockfolio portfolio entries. Also sole source for geographic focus claim. Must find alternative sources or remove unsupported entries.
+  - [^11] (x.com/konikaze) cannot be fetched (JS-only page). Bio claims cannot be verified by automated tools. Acceptable as source type but noted.
+  - Quotient Technology listed as "~2010s Angel" in portfolio table, but Arete Index [^2] says "Series B entry at $800M valuation." Stage should be corrected to Series B.
+  - Profile says "co-authored two technical books" but Goodreads [^6] lists Othmer as sole author on Debugging Macintosh Software With MacsBug. Only Programming QuickDraw was co-authored. Fix wording.
+  - AirDog [^12] and Web3 Pro [^12] portfolio entries can be re-sourced to [^2] (Arete Index) which lists both. Update citations.
+  - Arete Index [^2] lists 46 total investments, not "40+". Consider updating to "46" with citation.
+  - Inferred thesis sector percentages sum to 103% due to rounding (each 3/18=16.67% rounded to 17%). Acceptable but could note rounding.
 ---
 
 ## Background
