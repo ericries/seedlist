@@ -12,8 +12,22 @@ social:
   twitter: "@sarahtavel"
   linkedin: "linkedin.com/in/sarahtavel"
   newsletter: "sarahtavel.com"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. [^2] cited for "consumerization of IT" focus area, but Fortune article does not mention this term. Claim unsourced.
+  2. [^2] cited in Inferred Thesis for 11x founder culture quote ("people are driving hard..."), but Fortune 2018 article predates 11x and contains no such quote. Wrong citation — quote not found in [^24] either.
+  3. [^16] Hasan Sukkar quote ("We leaned into partnering with the team at Benchmark...") not found in TechCrunch article or GlobeNewsWire [^24]. Quote unverified.
+  4. [^30] Michael Gronager quote about "Sarah Tavel at Benchmark" not found in cited Chainalysis podcast blog page. Quote unverified.
+  5. [^26] Hipcamp claims unsupported: (a) Tavel met Ravasio "in late 2015" not in article, (b) "People want to connect with nature" quote not in article, (c) "Benchmark first invested in Hipcamp in 2018" not confirmed — article only shows 2019 Series B participation.
+  6. [^3][^4] "cum laude" not confirmed by either source — both say "degree in Philosophy" without honors mention.
+  7. [^3][^4] "first product manager" not confirmed — sources say "product lead" not "first product manager."
+  8. [^15] Chainalysis: $16M amount and Sarah Tavel's personal involvement not confirmed by TechCrunch article.
+  9. DeepL portfolio entry (~2023): no citation for year or Tavel's personal involvement (only confirmed as "Benchmark company" in [^28]).
+  10. [^29] Bowery Capital quotes don't exactly match — profile has "Focus on a really constrained problem" but source has slightly different framing.
+  11. [^8] All Raise: profile says "co-founded with Stacey Bishop" but tweet text couldn't be rendered; "co-founded" and Stacey Bishop detail not verified by this source.
+  12. [^10] Medium URL returns 403 (non-blocking, covered by [^11]).
+  13. [^6] Fast Company URL returns 403 (non-blocking, "first 35 employees" claim supported by other sources).
 ---
 
 ## Background
