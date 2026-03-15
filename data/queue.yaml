@@ -1168,7 +1168,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Victor Lazarte
   type: individual
@@ -2170,7 +2170,7 @@ queue:
   discovered_from: howard-morgan
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Raj Ganguly
   type: individual
@@ -2188,7 +2188,7 @@ queue:
   discovered_from: howard-morgan
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Idealab
   type: firm
@@ -2498,6 +2498,58 @@ queue:
   source: Founder/CEO of Ring; Chris Fralic invested via First Round; Ring acquired by Amazon for ~$1B
   discovered_from: chris-fralic
   discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Gabe Greenbaum
+  type: individual
+  firm: B Capital Group
+  source: General Partner at B Capital Group, leads Ascent early-stage fund
+  discovered_from: eduardo-saverin
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Karen Page
+  type: individual
+  firm: B Capital Group
+  source: General Partner at B Capital Group, Ascent Fund team
+  discovered_from: eduardo-saverin
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Karan Mohla
+  type: individual
+  firm: B Capital Group
+  source: Partner at B Capital Group, focuses on India investments
+  discovered_from: eduardo-saverin
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Chang Wen Lai
+  type: individual
+  firm: Ninja Van
+  source: CEO and Co-Founder of Ninja Van; B Capital portfolio company; board member Eduardo Saverin
+  discovered_from: eduardo-saverin
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Ninja Van
+  type: startup
+  source: B Capital early portfolio company; SE Asia logistics unicorn; investors include B Capital, Eduardo Saverin (board)
+  discovered_from: eduardo-saverin
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Icertis
+  type: startup
+  source: B Capital portfolio since 2017; contract intelligence platform; investors include B Capital
+  discovered_from: eduardo-saverin
+  discovery_depth: 3
   priority: low
   status: pending
   added: 2026-03-15
