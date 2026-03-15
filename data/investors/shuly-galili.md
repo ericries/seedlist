@@ -11,32 +11,21 @@ check_size: "$250K-$4M"
 social:
   twitter: "@shulygalili"
   linkedin: "linkedin.com/in/shulygalili"
-status: flagged
+status: published
 last_researched: 2026-03-15
-review_notes: |
-  1. Role title: UpWest website [^2] says "Founding Partner" not "Co-Founding Partner" — fixed in frontmatter but body line 20 still says "Co-Founding Partner"
-  2. $120M claim (line 26) cites [^11] but source says $100M not $120M — must correct to $100M
-  3. "more than 100 Israeli startups" cites [^1][^12] but [^1] (portfolio page) says "90+ COMPANIES" — remove [^1] cite or reconcile
-  4. [^7] Crunchbase 403: "accelerated over 500 Israeli startups" claim (line 24) partially relies on dead source
-  5. [^15] DeepCast URL is dead (ECONNREFUSED): "market first thinkers" quote cannot be verified from accessible sources
-  6. "critical phase of pre-product/market fit" (line 70) cites [^4][^15] — not found in either accessible source
-  7. Follow-on investor names (line 74): Tiger Global, Insight Partners, Ribbit Capital not supported by cited sources [^3][^9] — only SignalFire/Stampli confirmed in [^3]
-  8. [^12] cited for $20B market cap but source doesn't mention it — only [^1] supports this claim
-  9. [^13] description is vague ("various sources") — needs specific source for Geektime claim
-  10. LinkedIn recommendation quotes (line 154) citing [^20] could not be verified verbatim in LinkedIn fetch
 ---
 
 ## Background
 
-Shuly Galili is a Co-Founding Partner of UpWest, a Silicon Valley-based seed fund focused on Israeli founders entering the U.S. market [^1][^2]. She co-founded UpWest in 2012 with Gil Ben-Artzy [^3][^4].
+Shuly Galili is a Founding Partner of UpWest, a Silicon Valley-based seed fund focused on Israeli founders entering the U.S. market [^1][^2]. She co-founded UpWest in 2012 with Gil Ben-Artzy [^3][^4].
 
 Galili earned a B.A. in International Relations from San Francisco State University and studied French at Grenoble University in France [^5]. Before founding UpWest, she held positions at international nonprofit organizations focused on economic development and education [^5].
 
-In 2000, Galili founded and became Executive Director of the California Israel Chamber of Commerce (CICC), a role she held for over a decade [^3][^6]. Under her leadership, CICC grew into a platform serving over 10,000 companies and became the largest gateway for technology and business collaboration between Israel and California [^6][^7]. She created and implemented programs that accelerated over 500 Israeli startups across multiple sectors [^7]. The experience gave her deep insight into the gap facing Israeli entrepreneurs: as she put it, "Israel as an ecosystem is cash rich, market access poor" [^3].
+In 2000, Galili founded and became Executive Director of the California Israel Chamber of Commerce (CICC), a role she held for over a decade [^3][^6]. Under her leadership, CICC grew into a platform serving over 10,000 companies and became the largest gateway for technology and business collaboration between Israel and California [^6]. She created and implemented programs that accelerated hundreds of Israeli startups across multiple sectors [^6]. The experience gave her deep insight into the gap facing Israeli entrepreneurs: as she put it, "Israel as an ecosystem is cash rich, market access poor" [^3].
 
-In 2012, Galili and Ben-Artzy launched UpWest Labs (later shortened to UpWest), initially as an accelerator program in Palo Alto specifically serving Israeli startups [^4][^8]. UpWest has raised four funds: Fund I (~$2M, bootstrapped from friends and colleagues), Fund II, Fund III ($18.5M, closed 2018), and Fund IV ($70M, closed 2021) [^3][^4][^9][^10]. As of 2025, the firm manages approximately $120M in total assets [^11] and has invested in more than 100 Israeli startups with a collective portfolio market cap exceeding $20 billion [^1][^12].
+In 2012, Galili and Ben-Artzy launched UpWest Labs (later shortened to UpWest), initially as an accelerator program in Palo Alto specifically serving Israeli startups [^4][^8]. UpWest has raised four funds: Fund I (~$2M, bootstrapped from friends and colleagues), Fund II, Fund III ($18.5M, closed 2018), and Fund IV ($70M, closed 2021) [^3][^4][^9][^10]. As of 2025, the firm manages approximately $100M in total assets [^11] and has invested in more than 100 Israeli startups [^12] with a collective aggregate portfolio value exceeding $20 billion [^1].
 
-Beyond UpWest, Galili serves as an advisor to the C100 (a Canadian entrepreneurs network) and previously advised Cracking the Glass Ceiling, a STEM education program for girls in Israel [^5]. She was named among the 100 Most Influential People in Israeli Hi-Tech by Geektime in 2015 [^13]. She contributes articles to publications including VentureBeat, Women 2.0, and Forbes [^5].
+Beyond UpWest, Galili serves as an advisor to the C100 (a Canadian entrepreneurs network) and previously advised Cracking the Glass Ceiling, a STEM education program for girls in Israel [^5]. She was named among the 100 Most Influential People in Israeli Hi-Tech in 2015 [^13]. She contributes articles to publications including VentureBeat, Women 2.0, and Forbes [^5].
 
 ## Stated Thesis
 
@@ -44,7 +33,7 @@ UpWest publicly describes its mission as funding, fast-tracking, and frontlining
 
 Galili has described UpWest's investment focus as distributed across three broad clusters: approximately 60% in cybersecurity, analytics, marketing tech, SaaS, B2B, and enterprise cloud; approximately 20% in IoT, healthcare IT, agriculture, drones, and robotics; and approximately 20% in innovative business models including future of work [^3].
 
-On what UpWest looks for, Galili has said: "The most important thing for us is to really understand with these founders not only the level of commitment, of being market first thinkers, which is very hard for a lot of technical founders, but also their actions in terms of going to market and whether or not they are building the kind of infrastructure in order for them to be a global company" [^15].
+On what UpWest looks for, Galili has said that they invest in "primarily Israeli founders at the pre-seed, and seed stage, very early, pre-product market fit, who are anxiously looking to meet new customers, to validate their technology" [^3].
 
 The firm positions itself as a first-check investor: "In 90% of the cases, we are the first check. When we find entrepreneurs, a lot of times the company consists of just the two founders or three founders. They have literally a demo or a prototype of a product" [^14].
 
@@ -52,7 +41,7 @@ The firm positions itself as a first-check investor: "In 90% of the cases, we ar
 
 *Note: Shuly Galili invests through UpWest alongside co-founder Gil Ben-Artzy. The portfolio analysis below is based on the same UpWest portfolio used in Gil Ben-Artzy's profile, as the two share investment decisions. See the Gil Ben-Artzy profile for the full portfolio breakdown.*
 
-Based on 61 verified UpWest portfolio investments (approximately 61% of the firm's 100+ total investments), the following patterns emerge [^1]:
+Based on 61 verified UpWest portfolio investments (approximately 61% of the firm's 100+ total investments [^12]), the following patterns emerge:
 
 ### Sector Allocation (computed from 61 verified portfolio entries)
 
@@ -78,11 +67,11 @@ Virtually all investments are at pre-seed or seed stage. Check sizes have scaled
 
 ### Founder Profile Patterns
 
-The portfolio strongly favors Israeli technical founders building enterprise-grade technology. Cybersecurity and enterprise SaaS dominate, reflecting Israel's deep cybersecurity talent pool (many founders with intelligence/military backgrounds). Galili explicitly seeks founders who are "market first thinkers" at the "critical phase of pre-product/market fit" [^4][^15].
+The portfolio strongly favors Israeli technical founders building enterprise-grade technology. Cybersecurity and enterprise SaaS dominate, reflecting Israel's deep cybersecurity talent pool (many founders with intelligence/military backgrounds). Galili explicitly seeks founders at the pre-product/market fit stage who are "anxiously looking to meet new customers, to validate their technology" [^3].
 
 ### Co-investor Patterns
 
-As a first-check investor, UpWest frequently precedes larger institutional rounds. Notable follow-on investors include Tiger Global (HoneyBook), Insight Partners (SentinelOne, Stampli), SignalFire (Stampli), and Ribbit Capital (Balance) [^3][^9].
+As a first-check investor, UpWest frequently precedes larger institutional rounds. Notable confirmed follow-on investors include SignalFire (Stampli Series B) [^3]. The firm reports over $3 billion in total follow-on funding raised by portfolio companies [^1].
 
 ### Notable Gaps
 
@@ -109,7 +98,7 @@ Despite Galili's stated 20% allocation to "IoT, healthcare IT, agriculture, dron
 | Livble | 2022 | Seed | Embedded Fintech | [^1] |
 | Darwin | 2024 | Seed | AI/Govtech | [^1] |
 
-*This table shows a representative subset. UpWest has invested in 100+ companies total [^12]; 61 verified investments are documented in the Gil Ben-Artzy profile.*
+*This table shows a representative subset. UpWest has invested in more than 100 companies total [^12] (the firm's portfolio page lists 90+ [^1]); 61 verified investments are documented in the Gil Ben-Artzy profile.*
 
 **Notable Exits:** SlickLogin (acquired by Google, 2014), CyberX (acquired by Microsoft, 2020), Senexx (acquired by Gartner, 2014), Flowmill (acquired by Splunk, 2020), SecuredTouch (acquired by Ping Identity, 2021), ONDiGO (acquired by Gong, 2018), SentinelOne (IPO on NYSE, 2021) [^1].
 
@@ -122,7 +111,7 @@ Despite Galili's stated 20% allocation to "IoT, healthcare IT, agriculture, dron
 > "In 90% of the cases, we are the first check. When we find entrepreneurs, a lot of times the company consists of just the two founders or three founders. They have literally a demo or a prototype of a product." [^14]
 
 **On what she looks for in founders:**
-> "The most important thing for us is to really understand with these founders not only the level of commitment, of being market first thinkers, which is very hard for a lot of technical founders, but also their actions in terms of going to market and whether or not they are building the kind of infrastructure in order for them to be a global company." [^15]
+> "We do invest in primarily Israeli founders at the pre-seed, and seed stage, very early, pre-product market fit, who are anxiously looking to meet new customers, to validate their technology." [^3]
 
 **On getting personal with founders:**
 > "It gets personal — fast." Being an early-stage investor requires understanding "the founder's motivations, values, and beliefs." [^18]
@@ -162,7 +151,7 @@ Despite Galili's stated 20% allocation to "IoT, healthcare IT, agriculture, dron
 **Shely Aronov, CEO (via UpWest website):**
 > "Being in Silicon Valley makes a huge difference... this is a place where people don't judge you for having massive dreams." [^19]
 
-*Note: All founder quotes above are sourced from the UpWest website and are firm-curated testimonials. No independently sourced founder testimonials specifically about Shuly Galili were found after dedicated searching across Twitter/X, podcast transcripts, and press coverage. A LinkedIn recommendation states: "I tell my clients not to walk rather run to UpWest if they get the chance — because spending 3 months under Shuly's tutelage — not to mention her embrace — is worth a lifetime of experience!" [^20]. An additional recommendation notes: "Shuly has been an amazing adviser to C100. We could not have built the organization without her guidance, passion, and mentorship. She is direct, honest, and outcome driven." [^20]*
+*Note: All founder quotes above are sourced from the UpWest website and are firm-curated testimonials. No independently sourced founder testimonials specifically about Shuly Galili were found after dedicated searching across Twitter/X, podcast transcripts, and press coverage. LinkedIn recommendations exist but could not be verified verbatim from the public profile view [^20].*
 
 ## Sources
 
@@ -190,7 +179,7 @@ Despite Galili's stated 20% allocation to "IoT, healthcare IT, agriculture, dron
 
 [^12]: "UpWest promotes Aya Neeman to Principal," Calcalist (CTech), January 2026. https://www.calcalistech.com/ctechnews/article/bkznm7ibzx
 
-[^13]: Shuly Galili investor profile, various sources referencing Geektime 100 Most Influential in Israeli Hi-Tech (2015) and LinkedIn profile, accessed March 2026. https://www.linkedin.com/in/shulygalili
+[^13]: Shuly Galili LinkedIn profile, Honors & Awards section listing "100 Most Influential People in Israeli hi-tech in 2015," accessed March 2026. https://www.linkedin.com/in/shulygalili
 
 [^14]: "1Mby1M Virtual Accelerator Investor Forum: With Shuly Galili of UpWest Labs (Part 1)," Sramana Mitra, December 1, 2018. https://www.sramanamitra.com/2018/12/01/1mby1m-virtual-accelerator-investor-forum-with-shuly-galili-of-upwest-labs-part-1/
 
