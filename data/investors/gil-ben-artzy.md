@@ -11,8 +11,22 @@ check_size: "$250K-$4M"
 social:
   twitter: "@gilbenartzy"
   linkedin: "linkedin.com/in/gilbenartzy"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  1. Sources [^15] and [^16] (Medium blog posts) return 403. Claims and quotes citing these cannot be verified:
+     - [^15]: "You need to be doing something that has a chance of being HUGE..." quote
+     - [^15]: "give value from day one" quote
+     - [^16]: Dan Scheinman, Matt Ocko, Sameet Metha co-investor claim
+     Must find alternative sources or remove these claims.
+  2. Source [^19] quotes are unverifiable. Two "unnamed former accelerator participant" quotes ("Gil is a machine..." and "Gil knows everything and everybody...") attributed to upwest.vc/ do not appear on that page. Likely hallucinated — remove.
+  3. Three founder quotes from upwest.vc are paraphrased, not verbatim:
+     - Oz Alon quote is shortened/reworded vs actual text on upwest.vc
+     - Tomer Weingarten quote is paraphrased ("functions like family" vs actual "it is like a family")
+     - "Unnamed founder" quote is actually from Eyal Feldman, CEO of Stampli — must attribute correctly and use exact wording
+  4. Portfolio page [^1] says "90+ companies" but profile says "100+ Israeli startups" citing [^1]. The 100+ figure comes from [^14], not [^1]. Fix citation.
+  5. PR Newswire [^10] says "3-month program" but profile says "four-month intensive" — verify which is correct.
+  6. Venture Unlocked [^13] says portfolio crossed "$2 billion in VC funding" but profile says "$3 billion" — the $3B figure is on portfolio page [^1], so citation is acceptable, but [^13] should not be used to support the $3B claim.
 ---
 
 ## Background
