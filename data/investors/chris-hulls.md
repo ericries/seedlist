@@ -11,8 +11,17 @@ check_size: "$25K-$100K"
 social:
   twitter: "@ChrisHulls"
   linkedin: "linkedin.com/in/chrishulls"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. Google Android Developer Challenge prize amount: profile says $275,000 [^4] but Grokipedia source says $300,000. Needs correction.
+  2. "70 million users in 140+ countries" [^5][^6]: The Peel [^5] says "nearly 100 million," Grokipedia [^4] says "over 60 million by 2023." The 70M/140+ countries claim is unsupported. CEO.com [^6] was inaccessible (JS-only page).
+  3. Quote splicing at line 98: "The honest truth is that my brute-force style..." combines two separate statements from Fortune [^14] into one continuous quote. Should be presented as separate quotes.
+  4. BVP Atlas quote truncated: "Build a product you want..." adds a preamble and cuts "but started thinking about building products for moms." Original should be preserved accurately.
+  5. Novick "CBO for 12 years (2012-2023)" claim [^12]: PR.com source says he "played a pivotal role at Life360" but does not mention CBO title or 12-year tenure. Claim not supported by cited source.
+  6. EasyVC [^10] quotes could not be verified: "We did the opposite of prevailing startup advice..." and "If you are going the venture-backed route..." were not found in fetched page content. May need alternative source or removal.
+  7. Robert Kennedy mentor name cited to [^4][^5] but The Peel [^5] does not name him — only [^4] does. Citation should be [^4] only for the name.
+  8. [^6] CEO.com inaccessible — cannot verify claims sourced solely to it. Cross-reference or replace.
 ---
 
 ## Background
