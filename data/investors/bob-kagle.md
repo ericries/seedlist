@@ -15,14 +15,8 @@ last_verified_investment:
 social:
   twitter: ""
   linkedin: ""
-status: flagged
+status: published
 last_researched: 2026-03-15
-review_notes: |
-  - "Lemons ripen early" quote (line ~131) misattributed to Kagle; source [^3] attributes it to Burt McMurtry (Kagle's mentor)
-  - Confluence.VC [^10] timed out — "Elite recruiting is the ultimate multiplier..." quote unverifiable
-  - CB Insights [^15] returned 403 — Everfest 2017 investment cannot be verified
-  - Mint listed as "Series B" but TechCrunch [^14] says "third round" without specifying Series B
-  - Jamba Juice era classification uncertain — may predate Benchmark's founding per FundingUniverse [^12]
 ---
 
 ## Background
@@ -57,16 +51,15 @@ On venture capital risk, Kagle has stated: "You lose all of your money over half
 
 His overall investment approach centered on marketplace businesses and companies with strong community dynamics. He publicly described the power of network effects and community trust, citing his experience with eBay where Pierre Omidyar's philosophy -- "People are basically good. If you trust them, they will be trustworthy" -- deeply resonated with Kagle's own values [^3][^7].
 
-On team-building, Kagle has said: "Elite recruiting is the ultimate multiplier. Find great people, bring them together, and stay out of their way" [^10].
+On team-building, Kagle emphasized the importance of recruiting the best people and giving them autonomy, a philosophy reflected in Benchmark's equal partnership model [^5][^6].
 
 ## Inferred Thesis
 
-Based on 23 verified Benchmark-era investments in the portfolio table below (Kagle's pre-Benchmark TVI investments are excluded from this analysis as they represent a different fund and era):
+Based on 22 verified Benchmark-era investments in the portfolio table below (Kagle's pre-Benchmark TVI investments are excluded from this analysis as they represent a different fund and era):
 
-**Sector distribution (23 investments):**
-- Consumer internet / e-commerce / marketplaces: 12 investments (52%) -- eBay, uShip, AllPosters.com, Art.com, eBags, Zipcar, zipRealty, WorldWinner.com, Friendster, Gaia Interactive, Everfest, Potbelly
-- Financial services / fintech: 4 investments (17%) -- E-Loan, Mint, Prosper, Ariba
-- Consumer food/beverage: 1 investment (4%) -- Jamba Juice
+**Sector distribution (22 investments):**
+- Consumer internet / e-commerce / marketplaces: 12 investments (55%) -- eBay, uShip, AllPosters.com, Art.com, eBags, Zipcar, zipRealty, WorldWinner.com, Friendster, Gaia Interactive, Everfest, Potbelly
+- Financial services / fintech: 4 investments (18%) -- E-Loan, Mint, Prosper, Ariba
 - Enterprise / technology: 2 investments (9%) -- Logoworks, Get2Chip
 - Media / entertainment: 2 investments (9%) -- Stitcher, PeopleSupport
 - Other: 2 investments (9%) -- Arteis, Axiom Global
@@ -77,17 +70,17 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 
 - **Stage focus**: Kagle invested primarily at the early stage (Series A) through Benchmark, consistent with the firm's model of leading first institutional rounds and taking board seats [^5].
 
-- **Geographic distribution**: Portfolio companies span California (eBay, Jamba Juice, Mint, Zipcar HQ moved to Cambridge), Texas (uShip), and various other US locations, with no strong geographic concentration beyond a Silicon Valley tilt.
+- **Geographic distribution**: Portfolio companies span California (eBay, Mint, Zipcar HQ moved to Cambridge), Texas (uShip), and various other US locations, with no strong geographic concentration beyond a Silicon Valley tilt.
 
-- **Consumer over enterprise**: At least 13 of 23 verified investments (57%) were consumer-facing businesses, contrasting with some Benchmark partners who focused on enterprise software. Kagle's portfolio is heavily weighted toward companies where end-user adoption and community dynamics drive growth.
+- **Consumer over enterprise**: At least 12 of 22 verified investments (55%) were consumer-facing businesses, contrasting with some Benchmark partners who focused on enterprise software. Kagle's portfolio is heavily weighted toward companies where end-user adoption and community dynamics drive growth.
 
 - **Community and network effects**: A striking pattern across Kagle's top investments -- eBay, Friendster, uShip, Prosper, Gaia Interactive -- is the presence of strong community or network-effect dynamics. This is consistent with his stated emphasis on trust and community but goes beyond what he says publicly; nearly every major investment has a social or community component.
 
 - **Notable gaps**: Despite Benchmark's later reputation for enterprise software (driven by other partners), Kagle's personal portfolio has minimal enterprise software representation. He also appears to have had limited exposure to social media despite investing in Friendster, an early social network that ultimately failed.
 
-- **Check size**: Signal by NFX lists Kagle's investment range as $1M-$15M with a sweet spot around $8M [^11]. Benchmark's fund sizes during his tenure ranged from $85M (Fund I, 1995) to approximately $425M [^5], constraining individual check sizes.
+- **Check size**: Signal by NFX lists Kagle's investment range as $1M-$15M with a sweet spot around $8M [^10]. Benchmark's fund sizes during his tenure ranged from $85M (Fund I, 1995) to approximately $425M [^5], constraining individual check sizes.
 
-*Note: This analysis is based on 23 verified investments. Kagle's complete investment history likely includes additional deals not publicly attributed to him individually versus Benchmark generally. The sample is sufficient to identify major themes but may underrepresent certain sectors.*
+*Note: This analysis is based on 22 verified investments. Kagle's complete investment history likely includes additional deals not publicly attributed to him individually versus Benchmark generally. The sample is sufficient to identify major themes but may underrepresent certain sectors.*
 
 ## Portfolio
 
@@ -96,7 +89,6 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 | Ariba | 1996 | Early Stage | [^2] |
 | eBay | 1997 | Series A | [^3][^7] |
 | E-Loan | ~1997 | Early Stage | [^1][^4] |
-| Jamba Juice | ~1997 | Early Stage | [^12] |
 | AllPosters.com | ~1998 | Early Stage | [^4] |
 | Art.com | ~1999 | Early Stage | [^4] |
 | Friendster | ~2002 | Early Stage | [^2][^4] |
@@ -105,19 +97,19 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 | Get2Chip | ~2001 | Early Stage | [^4] |
 | Gaia Interactive | ~2003 | Early Stage | [^4] |
 | PeopleSupport | ~2001 | Early Stage | [^4] |
-| uShip | 2005 | Series A | [^13] |
+| uShip | 2005 | Series A | [^12] |
 | Logoworks | ~2003 | Early Stage | [^4] |
 | zipRealty | ~2001 | Early Stage | [^4] |
 | Zipcar | ~2003 | Early Stage | [^4] |
 | Potbelly | ~2005 | Early Stage | [^4] |
 | Prosper | ~2006 | Early Stage | [^4] |
-| Mint | 2008 | Series B | [^14] |
+| Mint | 2008 | Third round | [^13] |
 | Stitcher | ~2008 | Early Stage | [^4] |
 | Arteis | ~2005 | Early Stage | [^4] |
 | Axiom Global | ~2004 | Early Stage | [^4] |
-| Everfest | 2017 | Series A | [^15] |
+| Everfest | 2017 | Series A | [^14] |
 
-*Note: Years marked with "~" indicate approximate dates based on company founding year or estimated investment timing. This table represents Kagle's Benchmark-era investments only. His earlier TVI investments (Synopsys, Viasoft, Avant!) are documented in the Background section. Only 23 of an unknown total number of Kagle-attributed investments could be independently verified with public sources.*
+*Note: Years marked with "~" indicate approximate dates based on company founding year or estimated investment timing. This table represents Kagle's Benchmark-era investments only. His earlier TVI investments (Synopsys, Viasoft, Avant!, Jamba Juice) are documented below. Only 22 of an unknown total number of Kagle-attributed Benchmark investments could be independently verified with public sources.*
 
 **Pre-Benchmark (TVI) investments:**
 
@@ -126,6 +118,7 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 | Synopsys | ~1988 | Early Stage | [^2][^3] |
 | Viasoft | ~1990 | Early Stage | [^2] |
 | Avant! Corporation | ~1992 | Early Stage | [^2] |
+| Jamba Juice (as Juice Club) | 1994 | Early Stage | [^11] |
 
 ## In Their Own Words
 
@@ -137,9 +130,9 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 
 -- Bob Kagle, Kettering University commencement speech, June 9, 2012 [^3][^9]
 
-> "In venture capital as in life, mostly, the lemons ripen early, but the pearls take a while to cultivate."
+> "Burt told me to relax. He said, 'In venture capital as in life, mostly, the lemons ripen early, but the pearls take a while to cultivate.'"
 
--- Bob Kagle, Kettering University commencement speech, June 9, 2012 [^3]
+-- Bob Kagle, quoting his mentor Burt McMurtry, Kettering University commencement speech, June 9, 2012 [^3]
 
 > "10% of your investments actually return 90% of your returns."
 
@@ -151,7 +144,7 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 
 > "uShip is a classic example of an Internet marketplace that is revolutionizing an industry. By giving more information and choice to consumers and carriers, uShip brings down prices for consumers, increases business for carriers, and creates a more efficient marketplace."
 
--- Bob Kagle, uShip Series A press release, June 2005 [^13]
+-- Bob Kagle, uShip Series A press release, June 2005 [^12]
 
 > "One monkey don't make no show."
 
@@ -165,7 +158,7 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 
 > "The entire uShip team is thrilled to have a firm with the experience and reputation of Benchmark Capital behind it. Together, I am confident that we can use this investment to build a company that our employees, investors, and online community members can be proud of."
 
--- Matt Chasen, CEO and co-founder of uShip, on the Benchmark/Kagle investment, uShip press release, June 2005 [^13]
+-- Matt Chasen, CEO and co-founder of uShip, on the Benchmark/Kagle investment, uShip press release, June 2005 [^12]
 
 *No additional independently sourced founder testimonials about Bob Kagle were found after dedicated searching. Kagle's semi-retirement since 2011 and relatively low public profile compared to other Benchmark partners (Bill Gurley, Peter Fenton) may account for the scarcity of publicly available founder quotes. The book* eBoys *by Randall E. Stross (2000) contains extensive accounts of Kagle's interactions with eBay founder Pierre Omidyar but these are author narration rather than direct founder quotes [^7].*
 
@@ -180,9 +173,8 @@ Based on 23 verified Benchmark-era investments in the portfolio table below (Kag
 [^7]: Randall E. Stross, *eBoys: The True Story of the Six Tall Men Who Backed eBay, Webvan, and Other Billion-Dollar Start-Ups* (book summary), accessed March 2026. https://blas.com/eboys/
 [^8]: Venture Capital Journal, "Where are they now: Bob Kagle," by Lawrence Aragon, July 6, 2020. https://www.venturecapitaljournal.com/where-are-they-now-bob-kagle/
 [^9]: WEYI Mid-Michigan Now, "Robert Kagle tells Kettering grads failure is a part of success," June 9, 2012. https://midmichigannow.com/news/local/robert-kagle-tells-kettering-grads-failure-is-a-part-of-success
-[^10]: Confluence.VC, "14 Lessons From Bob Kagle (General Partner @ Benchmark)," accessed March 2026. https://confluence.vc/bob-kagle-benchmark/
-[^11]: Signal by NFX, "Bob Kagle's Investing Profile - Benchmark General Partner," accessed March 2026. https://signal.nfx.com/investors/bob-kagle
-[^12]: Jamba Juice Company History, FundingUniverse, accessed March 2026. https://www.fundinguniverse.com/company-histories/jamba-juice-company-history/
-[^13]: uShip press release, "uShip Secures Series A Funding from Benchmark Capital," June 2005. https://about.uship.com/press-release/uship-secures-series-a-funding-from-benchmark-capital/
-[^14]: TechCrunch, "Mint Gets A Mint," March 5, 2008. https://techcrunch.com/2008/03/05/mint-gets-a-mint/
-[^15]: CB Insights, "Bob Kagle Portfolio Investments, Bob Kagle Funds, Bob Kagle Exits," accessed March 2026. https://www.cbinsights.com/investor/bob-kagle
+[^10]: Signal by NFX, "Bob Kagle's Investing Profile - Benchmark General Partner," accessed March 2026. https://signal.nfx.com/investors/bob-kagle
+[^11]: Jamba Juice Company History, FundingUniverse, accessed March 2026. https://www.fundinguniverse.com/company-histories/jamba-juice-company-history/
+[^12]: uShip press release, "uShip Secures Series A Funding from Benchmark Capital," June 2005. https://about.uship.com/press-release/uship-secures-series-a-funding-from-benchmark-capital/
+[^13]: TechCrunch, "Mint Gets A Mint," March 5, 2008. https://techcrunch.com/2008/03/05/mint-gets-a-mint/
+[^14]: VC News Daily, "Everfest Scores $3.6M Series A Round," June 2017. https://www.vcnewsdaily.com/everfest/venture-capital-funding/fgpcjwpznk
