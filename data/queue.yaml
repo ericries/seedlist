@@ -2336,3 +2336,53 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-15
+- name: Bowery Farming
+  type: startup
+  source: portfolio company of rob-hayes (led seed round, board member), First Round Capital led $7.5M seed
+  discovered_from: rob-hayes
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: eero
+  type: startup
+  source: portfolio company of rob-hayes (led seed, board member), acquired by Amazon 2019
+  discovered_from: rob-hayes
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Planet Labs
+  type: startup
+  source: portfolio company of rob-hayes (led seed round), satellite imaging, IPO via SPAC 2021
+  discovered_from: rob-hayes
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Gnip
+  type: startup
+  source: portfolio company of rob-hayes, acquired by Twitter for $134M in 2014
+  discovered_from: rob-hayes
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Irving Fain
+  type: individual
+  firm: Bowery Farming
+  source: founder and CEO of Bowery Farming, Rob Hayes portfolio company
+  discovered_from: rob-hayes
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Nick Weaver
+  type: individual
+  firm: eero
+  source: co-founder and CEO of eero, Rob Hayes portfolio company, acquired by Amazon
+  discovered_from: rob-hayes
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
