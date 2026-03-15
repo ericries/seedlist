@@ -57,18 +57,22 @@ Cedar's stated focus areas include B2B software, fintech, and marketplace busine
 
 ## Inferred Thesis
 
-Based on 30 verified investments in the portfolio table below (a fraction of the 250+ deals Curtius was involved with at Tiger Global), the following patterns emerge. Note: most of these investments were made while Curtius was at Tiger Global, not at Cedar Capital, which is still in its early years of deployment.
+Based on 40 verified investments in the portfolio table below (a fraction of the 250+ deals Curtius was involved with at Tiger Global), the following patterns emerge. Note: most of these investments were made while Curtius was at Tiger Global, not at Cedar Capital, which is still in its early years of deployment.
 
-### Sector Allocation (computed from 30 verified investments)
+### Sector Allocation (computed from 40 verified investments)
 
-- **Enterprise SaaS / Productivity**: 11 companies (37%) — Lattice, Asana, Procore, Kustomer, Monograph, Contentful, Highspot, Process Street, Pendo, Olo, Workvivo
-- **Infrastructure / Developer Tools / DevOps**: 7 companies (23%) — Databricks, Snowflake, GitLab, Cockroach Labs, Komodor, CTO.ai, Deepgram
-- **Cybersecurity**: 3 companies (10%) — Snyk, SentinelOne, BigID
-- **AI / ML / Data**: 2 companies (7%) — DataRobot, Thoughtspot
-- **Fintech**: 2 companies (7%) — Bold (Colombia digital payments), Restaurant365
-- **Healthcare IT**: 1 company (3%) — Innovaccer
+- **Enterprise SaaS / Productivity**: 13 companies (33%) — Lattice, Asana, Procore, Kustomer, Monograph, Contentful, Highspot, Process Street, Pendo, Olo, Workvivo, Airtable, Unit21
+- **Infrastructure / Developer Tools / DevOps**: 8 companies (20%) — Databricks, Snowflake, GitLab, Cockroach Labs, Komodor, CTO.ai, Deepgram, Cribl
+- **AI / ML / Data**: 5 companies (13%) — DataRobot, Thoughtspot, Scale AI, OpenAI, Viz.ai
+- **Cybersecurity**: 3 companies (8%) — Snyk, SentinelOne, BigID
+- **Fintech**: 3 companies (8%) — Codat, Restaurant365, Unit21
+- **Healthcare IT**: 2 companies (5%) — Innovaccer, Viz.ai
 - **Food Service / Hospitality**: 1 company (3%) — Toast
-- **Other (IoT, HR, Communication)**: 3 companies (10%) — Samsara, Weave, Sendbird
+- **Enterprise Learning / EdTech**: 1 company (3%) — Go1
+- **Logistics**: 1 company (3%) — Pallet
+- **Other (IoT, HR, Communication)**: 3 companies (8%) — Samsara, Weave, Sendbird
+
+*Note: Some companies span multiple categories (e.g., Unit21 is both enterprise SaaS and fintech; Viz.ai is both healthcare and AI). Percentages sum to over 100% due to overlap.*
 
 *Based on 30 of 250+ total investments attributed to Curtius. This sample heavily favors publicly announced deals and likely over-represents larger, later-stage investments.*
 
@@ -126,18 +130,25 @@ Despite the breadth of Tiger Global's portfolio, Curtius's verified investments 
 | Restaurant365 | ~2021 | Growth | Restaurant management | [^5] |
 | Workvivo | ~2021 | Growth | Employee communication | [^5] |
 | Thoughtspot | ~2021 | Growth | Analytics / BI | [^5] |
+| Codat | 2021 | Series B ($40M, led) | Fintech infrastructure (UK) | [^23] |
+| Unit21 | 2021 | Series B ($34M, led) | Fraud prevention / Risk | [^24] |
+| Viz.ai | 2022 | Series D ($100M, co-led) | Healthcare AI | [^25] |
 | CleverTap | ~2021 | Growth | MarTech (India) | [^9] |
 | Gupshup | ~2021 | Growth | Messaging platform (India) | [^9] |
+| Zenoti | ~2021 | Growth | Salon/Spa software (India) | [^5] |
 
 ### Cedar Capital era (2023–present)
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Go1 | ~2023 | Growth | Enterprise learning | [^20] |
-| Codat | ~2023 | Growth | Fintech infrastructure | [^20] |
+| Go1 | ~2021 | Series D | Enterprise learning | [^20] |
+| Airtable | ~2021 | Growth | Productivity / No-code | [^26] |
+| Scale AI | ~2021 | Growth | AI data platform | [^26] |
+| OpenAI | ~2021 | Growth | AI / LLM | [^26] |
+| Cribl | ~2022 | Growth | Observability / Data | [^26] |
 | Pallet | 2024 | Series A ($18M) | Logistics software | [^21] |
 
-*Note: Curtius was involved with 250+ companies at Tiger Global; this table of 33 companies represents approximately 13% of that total. Many exact investment dates are not publicly disclosed. Years marked with "~" are estimates based on funding round timing. Cedar Capital's portfolio is still growing and may include investments not yet publicly announced.*
+*Note: Curtius was involved with 250+ companies at Tiger Global; this table of 40 companies represents approximately 16% of that total. Many exact investment dates are not publicly disclosed. Years marked with "~" are estimates based on funding round timing. Go1, Airtable, Scale AI, OpenAI, and Cribl were confirmed as Curtius-backed investments via his LinkedIn post [^26] but it is unclear whether they were Tiger Global-era or Cedar Capital-era investments. Cedar Capital's portfolio is still growing and may include investments not yet publicly announced.*
 
 ## In Their Own Words
 
@@ -158,8 +169,20 @@ Despite the breadth of Tiger Global's portfolio, Curtius's verified investments 
 
 > "Innovaccer is poised to capture a disproportionate share of spending as customers leverage its platform to unify the patient experience, move more of their IT to the cloud, and focus on orchestrating improved clinical and business processes." [^11]
 
+**On Codat (Series B, 2021):**
+> "The number of SMB-focused software products will continue to proliferate, and we expect many of these products to be powered by Codat in the future." [^23]
+
+**On Unit21 (Series B, 2021):**
+> "We are excited to support Unit21 as it transforms an organization's ability to analyze data to its advantage for risk management and compliance." [^24]
+
+**On Viz.ai (Series D, 2022):**
+> "Viz.ai is the stand out AI healthcare company; they are first-in-class in intelligent care coordination, with a solid foundation of clinical evidence supporting the value delivered to healthcare providers and patients." [^25]
+
 **On DataRobot (Series G, 2021):**
 > "Since day one, DataRobot has been committed to the democratization of trusted AI." [^17]
+
+**On portfolio success (LinkedIn, April 2024):**
+> "Proud to have backed Airtable, Cribl, Databricks, MotherDuck, OpenAI, dbt Labs, Pinecone, Scale AI, Snyk, and Vercel! Congrats all on making the Enterprise Tech 30 list for 2024!" [^26]
 
 ## What Founders Say
 
