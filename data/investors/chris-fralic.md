@@ -11,7 +11,18 @@ check_size: "$500K-$3M"
 social:
   twitter: "@chrisfralic"
   linkedin: "linkedin.com/in/chrisfralic"
-status: draft
+status: flagged
+review_notes: |
+  1. Portfolio count mismatch: Inferred thesis says 28 verified investments but portfolio table has only 26 rows.
+  2. Orphan footnotes: [^15], [^16], [^17], [^18] cited in body but missing from Sources section.
+  3. [^5] Topio Networks URL returns 404. eBay $1B transaction volume claim relies partly on dead source.
+  4. [^6] Twitter/X misattribution: Two Stated Thesis quotes cite [^6] but unverifiable. VC math quote likely from AdExchanger. Talk about your team quote not found in any source.
+  5. [^8] WhoGotFunded unreachable. Five portfolio entries rely solely on [^8] with no backup: Percolate, LiveIntent, Solve Media, AppFirst, Packlate.
+  6. Misquote line 125: Profile says people say about you when not in the room but source [^13] says people think or say about you when not around. Second sentence also differs substantially.
+  7. Inferred thesis sector math: Other category claims 3 companies but names only 1 (Boomi). Named companies total 26 not 28.
+  8. AppFirst miscategorized as Gaming/Connected Devices in inferred thesis but portfolio table says IT Monitoring.
+  9. Frontmatter role Partner Emeritus contradicts body text Board Partner per [^1].
+  10. HotelTonight listed as Series A in portfolio but inferred thesis claims all investments exclusively seed-stage.
 last_researched: 2026-03-15
 ---
 
@@ -153,16 +164,10 @@ Despite a stated focus on "social and mobile," only 3 of 28 verified investments
 **David Baszucki, Founder and CEO of Roblox:**
 > "Chris is a trusted advisor... His unique insights aligned closely with our vision for Roblox at a time when most investors saw the Metaverse as science fiction. Chris is a true connector whose extensive network has been extremely valuable to Roblox." [^2]
 
-**Josh Kopelman, co-founder of First Round Capital and Half.com:**
-> "I first met Chris in 1996 at a conference — and I remember being super impressed with him and the strength of his network. Chris seemed to know everyone." [^2]
+**Geoff Cook, CEO of MeetMe (formerly myYearbook):**
+> "Chris is a well known technology veteran who brings substantial experience to MeetMe, including a strong network and deep industry expertise. He was also an investor in our predecessor company myYearbook and served as a board observer until the merger with Quepasa in 2011. We are very excited to have him join our board and look forward to his contribution." [^26]
 
-**Dan Porter, Professor at NYU and 3-time startup CEO:**
-> "Chris gets incredible feedback from my students for taking them out of their textbooks and case studies and clearly explaining the real mechanics of human interaction and how the business world works." [^2]
-
-**Martin R. Lautman, Ph.D., Wharton Adjunct Professor:**
-> "Chris has enthusiastically shared the insights from his many years of experience as a leading venture capitalist... he has been one of the highest rated class speakers." [^2]
-
-*Note: The Baszucki and Kopelman quotes above appear on Fralic's Maven course page, which is a promotional context. No independently sourced founder testimonials from portfolio founders (other than Baszucki) were found despite dedicated searching. The Porter and Lautman quotes relate to Fralic's teaching rather than his investing.*
+*Note: The Baszucki quote appears on Fralic's Maven course page, which is a promotional context. The Cook quote is from a Business Wire press release announcing Fralic's board appointment. No additional independently sourced founder testimonials from portfolio founders were found despite dedicated searching across Twitter/X, podcast transcripts, and press coverage.*
 
 ## Sources
 
