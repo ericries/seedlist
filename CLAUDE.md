@@ -512,6 +512,25 @@ Read `_lessons/2026-03-13-first-batch-review.md` for lessons from the first batc
 - **Grep** — Search across files in the repository.
 - **Glob** — Find files by name pattern.
 
+### Seedlist CLI (`scripts/sl`)
+
+**Always use `scripts/sl` for common operations instead of ad-hoc shell commands.** This keeps operations consistent, idempotent, and easy to permission.
+
+```bash
+python3 scripts/sl status              # Pipeline overview: profiles by status, queue depth, git state
+python3 scripts/sl queue [TYPE]        # Show pending queue items (individual/firm/startup)
+python3 scripts/sl publish SLUG        # Set published, rebuild site, commit, push — all in one
+python3 scripts/sl flag SLUG NOTES     # Set flagged with review notes, commit, push
+python3 scripts/sl draft SLUG          # Unpublish back to draft, commit, push
+python3 scripts/sl build               # Rebuild site from published profiles
+python3 scripts/sl ship [MSG]          # git add + commit + push with optional message
+python3 scripts/sl claim SLUG          # Set queue item to in_progress
+python3 scripts/sl complete SLUG       # Set queue item to completed
+python3 scripts/sl check               # Verify repo health: uncommitted, unpushed, build status
+```
+
+**Agent prompts should reference these commands.** For example, after fixing a profile, agents should run `python3 scripts/sl publish {slug}` instead of manual git/build/push sequences. When a new repeated operation pattern emerges, add it to `scripts/sl`.
+
 ## Autonomous Batch Execution
 
 When running research batches, follow this loop **without waiting for user input** between batches.

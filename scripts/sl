@@ -1,0 +1,349 @@
+#!/usr/bin/env python3
+"""
+sl — Seedlist CLI toolkit
+
+Usage:
+  sl status              Show pipeline overview (profiles by status, queue depth)
+  sl queue [TYPE]        Show pending queue items (optionally filter: individual/firm/startup)
+  sl publish SLUG        Set profile to published, rebuild, commit, push
+  sl flag SLUG NOTES     Set profile to flagged with review notes
+  sl draft SLUG          Set profile back to draft (unpublish)
+  sl build               Rebuild site from published profiles
+  sl ship [MSG]          git add + commit + push (with optional message)
+  sl claim SLUG          Set queue item to in_progress
+  sl complete SLUG       Set queue item to completed
+  sl check               Verify repo state: uncommitted changes, unpushed commits, build status
+"""
+
+import sys
+import os
+import subprocess
+import yaml
+import re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+QUEUE_PATH = DATA / "queue.yaml"
+
+
+def run(cmd, check=True, capture=True):
+    """Run a shell command from the repo root."""
+    r = subprocess.run(cmd, shell=True, cwd=ROOT, capture_output=capture, text=True)
+    if check and r.returncode != 0:
+        print(f"Error: {r.stderr.strip()}" if r.stderr else f"Command failed: {cmd}")
+        sys.exit(1)
+    return r
+
+
+def load_queue():
+    with open(QUEUE_PATH) as f:
+        return yaml.safe_load(f)
+
+
+def save_queue(data):
+    with open(QUEUE_PATH, "w") as f:
+        yaml.dump(data, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+
+
+def find_profile(slug):
+    """Find a profile file by slug across all data directories."""
+    for subdir in ["investors", "firms", "startups"]:
+        path = DATA / subdir / f"{slug}.md"
+        if path.exists():
+            return path
+    return None
+
+
+def get_frontmatter_status(path):
+    """Read the status field from a profile's frontmatter."""
+    with open(path) as f:
+        content = f.read()
+    m = re.search(r'^status:\s*(\S+)', content, re.MULTILINE)
+    return m.group(1) if m else "unknown"
+
+
+def set_profile_status(path, new_status, review_notes=None):
+    """Change the status field in a profile's frontmatter."""
+    with open(path) as f:
+        content = f.read()
+
+    # Update status
+    content = re.sub(r'^status:\s*\S+', f'status: {new_status}', content, count=1, flags=re.MULTILINE)
+
+    # Handle review_notes
+    if review_notes:
+        # Remove existing review_notes if present
+        content = re.sub(r'^review_notes:.*?(?=^[a-z_]+:|\n---)', '', content, flags=re.MULTILINE | re.DOTALL)
+        # Add new review_notes before the closing ---
+        content = content.replace('\n---\n', f'\nreview_notes: |\n  {review_notes}\n---\n', 1)
+    elif new_status == "published":
+        # Remove review_notes when publishing
+        content = re.sub(r'^review_notes:.*?(?=^[a-z_]+:|\n---)', '', content, flags=re.MULTILINE | re.DOTALL)
+
+    with open(path, "w") as f:
+        f.write(content)
+
+
+# ── Commands ──────────────────────────────────────────────────
+
+def cmd_status():
+    """Show pipeline overview."""
+    profiles = {"investors": {}, "firms": {}, "startups": {}}
+    for subdir in profiles:
+        for f in (DATA / subdir).glob("*.md"):
+            status = get_frontmatter_status(f)
+            profiles[subdir].setdefault(status, []).append(f.stem)
+
+    print("=== Profile Status ===")
+    for subdir in profiles:
+        total = sum(len(v) for v in profiles[subdir].values())
+        parts = []
+        for s in ["published", "draft", "flagged"]:
+            count = len(profiles[subdir].get(s, []))
+            if count:
+                parts.append(f"{count} {s}")
+        print(f"  {subdir}: {total} total ({', '.join(parts)})")
+
+    # Queue stats
+    data = load_queue()
+    items = data.get("queue", [])
+    pending = [x for x in items if x.get("status") == "pending"]
+
+    print("\n=== Queue ===")
+    for t in ["individual", "firm", "startup"]:
+        by_type = [x for x in pending if x.get("type") == t]
+        high = sum(1 for x in by_type if x.get("priority") == "high")
+        normal = sum(1 for x in by_type if x.get("priority") == "normal")
+        low = sum(1 for x in by_type if x.get("priority") == "low")
+        print(f"  {t}: {len(by_type)} pending ({high} high, {normal} normal, {low} low)")
+
+    # Git state
+    r = run("git status --porcelain", capture=True, check=False)
+    changes = len(r.stdout.strip().split("\n")) if r.stdout.strip() else 0
+    r2 = run("git log @{u}..HEAD --oneline 2>/dev/null", capture=True, check=False)
+    unpushed = len(r2.stdout.strip().split("\n")) if r2.stdout.strip() else 0
+    print(f"\n=== Git ===")
+    print(f"  Uncommitted changes: {changes}")
+    print(f"  Unpushed commits: {unpushed}")
+
+
+def cmd_queue(type_filter=None):
+    """Show pending queue items."""
+    data = load_queue()
+    pending = [x for x in data.get("queue", []) if x.get("status") == "pending"]
+    if type_filter:
+        pending = [x for x in pending if x.get("type") == type_filter]
+
+    # Sort by priority
+    order = {"high": 0, "normal": 1, "low": 2}
+    pending.sort(key=lambda x: order.get(x.get("priority", "normal"), 1))
+
+    for item in pending:
+        pri = item.get("priority", "normal")
+        name = item.get("name", "?")
+        t = item.get("type", "?")
+        firm = item.get("firm", "")
+        marker = {"high": "!!!", "normal": " . ", "low": "   "}.get(pri, " . ")
+        extra = f" ({firm})" if firm else ""
+        print(f"  {marker} [{t}] {name}{extra}")
+
+    print(f"\n  Total: {len(pending)} pending")
+
+
+def cmd_publish(slug):
+    """Publish a profile: set status, rebuild, commit, push."""
+    path = find_profile(slug)
+    if not path:
+        print(f"Profile not found: {slug}")
+        sys.exit(1)
+
+    current = get_frontmatter_status(path)
+    if current == "published":
+        print(f"Already published: {slug}")
+        return
+
+    set_profile_status(path, "published")
+    print(f"Set {slug} -> published")
+
+    run("python3 build.py")
+    print("Site rebuilt")
+
+    run(f"git add -A")
+    run(f'git commit -m "Publish: {slug}"')
+    run("git push")
+    print(f"Pushed to live site")
+
+
+def cmd_flag(slug, notes):
+    """Flag a profile with review notes."""
+    path = find_profile(slug)
+    if not path:
+        print(f"Profile not found: {slug}")
+        sys.exit(1)
+
+    set_profile_status(path, "flagged", review_notes=notes)
+    print(f"Flagged {slug}")
+
+    run(f"git add {path}")
+    run(f'git commit -m "Flag: {slug} — {notes[:60]}"')
+    run("git push")
+
+
+def cmd_draft(slug):
+    """Set a profile back to draft."""
+    path = find_profile(slug)
+    if not path:
+        print(f"Profile not found: {slug}")
+        sys.exit(1)
+
+    set_profile_status(path, "draft")
+    print(f"Set {slug} -> draft")
+
+    run(f"git add {path}")
+    run(f'git commit -m "Unpublish: {slug} -> draft"')
+    run("git push")
+
+
+def cmd_build():
+    """Rebuild the static site."""
+    r = run("python3 build.py", capture=True)
+    print(r.stdout)
+    if r.stderr:
+        print(r.stderr)
+
+
+def cmd_ship(msg=None):
+    """Stage all changes, commit, push."""
+    r = run("git status --porcelain", capture=True)
+    if not r.stdout.strip():
+        print("Nothing to ship — working tree clean")
+        return
+
+    if not msg:
+        # Auto-generate message from changed files
+        files = [line[3:] for line in r.stdout.strip().split("\n") if line.strip()]
+        msg = f"Update {len(files)} files"
+
+    run("git add -A")
+    run(f'git commit -m "{msg}"')
+    run("git push")
+    print(f"Shipped: {msg}")
+
+
+def cmd_claim(slug):
+    """Set a queue item to in_progress."""
+    data = load_queue()
+    found = False
+    for item in data.get("queue", []):
+        item_slug = item.get("name", "").lower().replace(" ", "-")
+        if slug in (item_slug, item.get("name", "").lower()):
+            item["status"] = "in_progress"
+            found = True
+            print(f"Claimed: {item['name']}")
+            break
+
+    if not found:
+        print(f"Queue item not found: {slug}")
+        sys.exit(1)
+
+    save_queue(data)
+
+
+def cmd_complete(slug):
+    """Set a queue item to completed."""
+    data = load_queue()
+    found = False
+    for item in data.get("queue", []):
+        item_slug = item.get("name", "").lower().replace(" ", "-")
+        if slug in (item_slug, item.get("name", "").lower()):
+            item["status"] = "completed"
+            found = True
+            print(f"Completed: {item['name']}")
+            break
+
+    if not found:
+        print(f"Queue item not found: {slug}")
+        sys.exit(1)
+
+    save_queue(data)
+
+
+def cmd_check():
+    """Verify repo health."""
+    issues = []
+
+    # Uncommitted changes
+    r = run("git status --porcelain", capture=True, check=False)
+    if r.stdout.strip():
+        issues.append(f"Uncommitted changes:\n{r.stdout.strip()}")
+
+    # Unpushed commits
+    r = run("git log @{u}..HEAD --oneline 2>/dev/null", capture=True, check=False)
+    if r.stdout.strip():
+        issues.append(f"Unpushed commits:\n{r.stdout.strip()}")
+
+    # Published profiles that aren't in the build
+    r = run("python3 build.py 2>&1", capture=True, check=False)
+    print(f"Build: {r.stdout.strip()}")
+
+    if issues:
+        print("\nIssues found:")
+        for i in issues:
+            print(f"  {i}")
+    else:
+        print("\nAll clean — repo is up to date")
+
+
+# ── Main ──────────────────────────────────────────────────────
+
+def main():
+    if len(sys.argv) < 2:
+        print(__doc__)
+        sys.exit(0)
+
+    cmd = sys.argv[1]
+
+    if cmd == "status":
+        cmd_status()
+    elif cmd == "queue":
+        cmd_queue(sys.argv[2] if len(sys.argv) > 2 else None)
+    elif cmd == "publish":
+        if len(sys.argv) < 3:
+            print("Usage: sl publish SLUG")
+            sys.exit(1)
+        cmd_publish(sys.argv[2])
+    elif cmd == "flag":
+        if len(sys.argv) < 4:
+            print("Usage: sl flag SLUG NOTES")
+            sys.exit(1)
+        cmd_flag(sys.argv[2], " ".join(sys.argv[3:]))
+    elif cmd == "draft":
+        if len(sys.argv) < 3:
+            print("Usage: sl draft SLUG")
+            sys.exit(1)
+        cmd_draft(sys.argv[2])
+    elif cmd == "build":
+        cmd_build()
+    elif cmd == "ship":
+        cmd_ship(" ".join(sys.argv[2:]) if len(sys.argv) > 2 else None)
+    elif cmd == "claim":
+        if len(sys.argv) < 3:
+            print("Usage: sl claim SLUG")
+            sys.exit(1)
+        cmd_claim(sys.argv[2])
+    elif cmd == "complete":
+        if len(sys.argv) < 3:
+            print("Usage: sl complete SLUG")
+            sys.exit(1)
+        cmd_complete(sys.argv[2])
+    elif cmd == "check":
+        cmd_check()
+    else:
+        print(f"Unknown command: {cmd}")
+        print(__doc__)
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
