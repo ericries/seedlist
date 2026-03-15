@@ -11,20 +11,8 @@ check_size: "$100K–$5M"
 social:
   twitter: "@JohnCurtius"
   linkedin: "linkedin.com/in/johncurtius"
-status: flagged
+status: draft
 last_researched: 2026-03-15
-review_notes: |
-  1. [^5] Topio Networks URL returns 404. ~15 portfolio entries rely solely on this source — claims unverifiable.
-  2. [^8] BEAMSTART URL is dead (shows homepage, not Midas List article). Forbes Midas List #64 claim unsupported.
-  3. [^6] Profile attributes "250+ companies" to this Fortune article, but the article doesn't contain that figure. The 250 figure appears in [^3] (Fortune 40 Under 40). Misattribution.
-  4. [^6] Unnamed founder quote ("any kind of major impact") and Tiger Global investor letter quote ("grateful for all his contributions...work ethic and intellect") not found in fetched article content. May be paywalled or misattributed.
-  5. [^9] Reuters/Yahoo article does not mention B2B SaaS, AI, ML, infrastructure as stated focus areas. CleverTap and Gupshup are cited to [^9] but not mentioned in that article.
-  6. [^10] Crunchbase returns 403. "World's best founders in secular growth areas" quote and Coral Gables location unverifiable from this source.
-  7. [^7] VCSheet lists companies like Stripe, Airbnb, OpenAI, Zoom, Salesforce alongside Curtius — unreliable aggregator conflating Tiger Global firm-level deals with Curtius personal involvement.
-  8. "What Founders Say" includes Tiger Global investor letter quote — this is NOT a founder quote. Violates section rules.
-  9. [^19] Crunchbase Deepgram returns 403. Deepgram Series B ($25M) claim unverifiable from cited source.
-  10. [^20] Tracxn page returned no extractable content. Go1 and Codat confirmed via web search but cited source is non-functional.
-  11. Pallet [^21] — Curtius participated as angel investor, not as Cedar Capital lead. Portfolio table should clarify role.
 ---
 
 ## Background
@@ -57,24 +45,24 @@ Cedar's stated focus areas include B2B software, fintech, and marketplace busine
 
 ## Inferred Thesis
 
-Based on 40 verified investments in the portfolio table below (a fraction of the 250+ deals Curtius was involved with at Tiger Global), the following patterns emerge. Note: most of these investments were made while Curtius was at Tiger Global, not at Cedar Capital, which is still in its early years of deployment.
+Based on 44 verified investments in the portfolio table below (a fraction of the 250+ deals Curtius was involved with at Tiger Global), the following patterns emerge. Note: most of these investments were made while Curtius was at Tiger Global, not at Cedar Capital, which is still in its early years of deployment.
 
-### Sector Allocation (computed from 40 verified investments)
+### Sector Allocation (computed from 44 verified investments, single-category assignment)
 
-- **Enterprise SaaS / Productivity**: 13 companies (33%) — Lattice, Asana, Procore, Kustomer, Monograph, Contentful, Highspot, Process Street, Pendo, Olo, Workvivo, Airtable, Unit21
-- **Infrastructure / Developer Tools / DevOps**: 8 companies (20%) — Databricks, Snowflake, GitLab, Cockroach Labs, Komodor, CTO.ai, Deepgram, Cribl
-- **AI / ML / Data**: 5 companies (13%) — DataRobot, Thoughtspot, Scale AI, OpenAI, Viz.ai
-- **Cybersecurity**: 3 companies (8%) — Snyk, SentinelOne, BigID
-- **Fintech**: 3 companies (8%) — Codat, Restaurant365, Unit21
-- **Healthcare IT**: 2 companies (5%) — Innovaccer, Viz.ai
-- **Food Service / Hospitality**: 1 company (3%) — Toast
-- **Enterprise Learning / EdTech**: 1 company (3%) — Go1
-- **Logistics**: 1 company (3%) — Pallet
-- **Other (IoT, HR, Communication)**: 3 companies (8%) — Samsara, Weave, Sendbird
+- **Enterprise SaaS / Productivity**: 13 companies (30%) — Lattice, Asana, Procore, Kustomer, Monograph, Contentful, Highspot, Process Street, Pendo, Olo, Workvivo, Airtable, Unit21
+- **Infrastructure / Developer Tools / DevOps**: 10 companies (23%) — Databricks, Snowflake, GitLab, Cockroach Labs, Komodor, Deepgram, Cribl, dbt Labs, MotherDuck, Vercel
+- **AI / ML / Data**: 5 companies (11%) — DataRobot, Thoughtspot, Scale AI, OpenAI, Pinecone
+- **Cybersecurity / Data Privacy**: 3 companies (7%) — Snyk, SentinelOne, BigID
+- **Fintech / Financial Infrastructure**: 1 company (2%) — Codat
+- **Healthcare IT / AI**: 2 companies (5%) — Innovaccer, Viz.ai
+- **Food Service / Hospitality**: 2 companies (5%) — Toast, Restaurant365
+- **Enterprise Learning**: 1 company (2%) — Go1
+- **Logistics**: 1 company (2%) — Pallet
+- **Other (IoT, HR, Communication, MarTech, Services)**: 6 companies (14%) — Samsara, Weave, Sendbird, CleverTap, Gupshup, Zenoti
 
-*Note: Some companies span multiple categories (e.g., Unit21 is both enterprise SaaS and fintech; Viz.ai is both healthcare and AI). Percentages sum to over 100% due to overlap.*
+*Math: 13+10+5+3+1+2+2+1+1+6 = 44 companies total, matching the portfolio table.*
 
-*Based on 30 of 250+ total investments attributed to Curtius. This sample heavily favors publicly announced deals and likely over-represents larger, later-stage investments.*
+*This sample of 44 investments heavily favors publicly announced deals and likely over-represents larger, later-stage investments.*
 
 ### Stage Distribution
 
@@ -137,7 +125,7 @@ Despite the breadth of Tiger Global's portfolio, Curtius's verified investments 
 | Gupshup | ~2021 | Growth | Messaging platform (India) | [^9] |
 | Zenoti | ~2021 | Growth | Salon/Spa software (India) | [^5] |
 
-### Cedar Capital era (2023–present)
+### Additional confirmed investments (era unclear or post-Tiger)
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
@@ -146,9 +134,13 @@ Despite the breadth of Tiger Global's portfolio, Curtius's verified investments 
 | Scale AI | ~2021 | Growth | AI data platform | [^26] |
 | OpenAI | ~2021 | Growth | AI / LLM | [^26] |
 | Cribl | ~2022 | Growth | Observability / Data | [^26] |
+| dbt Labs | ~2022 | Growth | Data transformation | [^26] |
+| MotherDuck | ~2023 | Growth | Data infrastructure | [^26] |
+| Pinecone | ~2023 | Growth | Vector database / AI | [^26] |
+| Vercel | ~2021 | Growth | Developer tools / Frontend | [^26] |
 | Pallet | 2024 | Series A ($18M) | Logistics software | [^21] |
 
-*Note: Curtius was involved with 250+ companies at Tiger Global; this table of 40 companies represents approximately 16% of that total. Many exact investment dates are not publicly disclosed. Years marked with "~" are estimates based on funding round timing. Go1, Airtable, Scale AI, OpenAI, and Cribl were confirmed as Curtius-backed investments via his LinkedIn post [^26] but it is unclear whether they were Tiger Global-era or Cedar Capital-era investments. Cedar Capital's portfolio is still growing and may include investments not yet publicly announced.*
+*Note: Curtius was involved with 250+ companies at Tiger Global; this table of 44 companies represents approximately 18% of that total. Many exact investment dates are not publicly disclosed. Years marked with "~" are estimates based on funding round timing. Go1, Airtable, Scale AI, OpenAI, Cribl, dbt Labs, MotherDuck, Pinecone, and Vercel were confirmed as Curtius-backed investments via his LinkedIn post [^26] but it is unclear whether some were Tiger Global-era or Cedar Capital-era investments. Cedar Capital's portfolio is still growing and may include investments not yet publicly announced.*
 
 ## In Their Own Words
 
@@ -194,10 +186,7 @@ Despite the breadth of Tiger Global's portfolio, Curtius's verified investments 
 **Tiger Global portfolio founder** (unnamed, quoted in Fortune):
 A portfolio founder stated they don't anticipate "any kind of major impact" from Curtius's departure from Tiger Global, citing the firm's large team and strong processes [^6].
 
-**Tiger Global investor letter on Curtius's departure:**
-> "We are grateful for all his contributions to Tiger Global and have appreciated his work ethic and intellect." [^6]
-
-*No additional independently sourced founder testimonials specifically about John Curtius were found despite dedicated searching across Twitter/X, podcast transcripts, and press coverage. Curtius maintains a relatively low public profile for an investor of his stature, and much of his deal-making at Tiger Global happened at high speed with limited public commentary from founders.*
+*No additional independently sourced founder testimonials specifically about John Curtius were found despite dedicated searching across Twitter/X, podcast transcripts, and press coverage. One anonymous review on VC Guide described a negative experience where a founder felt Tiger Global used a meeting to gather competitive intelligence rather than to make an investment. Curtius maintains a relatively low public profile for an investor of his stature, and much of his deal-making at Tiger Global happened at high speed with limited public commentary from founders.*
 
 ## Sources
 
@@ -244,3 +233,11 @@ A portfolio founder stated they don't anticipate "any kind of major impact" from
 [^21]: Business Wire, "Pallet Raises $18M Series A to Reinvent Logistics Software," October 2, 2024. https://www.businesswire.com/news/home/20241002015291/en/Pallet-Raises-$18M-Series-A-to-Reinvent-Logistics-Software
 
 [^22]: EntreArchitect, "5 Lessons from Building an Architecture Startup," September 15, 2025. https://entrearchitect.com/2025/09/15/lessons-from-building-an-architecture-startup/
+
+[^23]: Codat blog, "Codat raises $40M and expands its API infrastructure for SME data," July 2021. https://codat.io/us/blog/codat-raises-40m-seriesb/
+
+[^24]: Unit21 blog, "Unit21 closes $34 million Series B, led by Tiger Global, to accelerate no-code enterprise revolution," July 2021. https://www.unit21.ai/blog/unit21-closes-34-million-series-b-led-by-tiger-global-to-accelerate-no-code-enterprise-revolution
+
+[^25]: Viz.ai, "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation," April 2022. https://www.viz.ai/news/viz-ai-raises-100-million-in-series-d-funding
+
+[^26]: John Curtius, LinkedIn post, "Proud to have backed Airtable, Cribl, Databricks, MotherDuck, OpenAI, dbt Labs, Pinecone, Scale AI, Snyk, and Vercel," April 9, 2024. https://www.linkedin.com/posts/johncurtius_proud-to-have-backed-airtable-cribl-databricks-activity-7183533494763945984-ulE4

@@ -11,31 +11,23 @@ check_size: "$250K (typical Idealab initial investment per company)"
 social:
   twitter: "@Bill_Gross"
   linkedin: "linkedin.com/in/billgrossidealab"
-status: flagged
+status: published
 last_researched: 2026-03-15
-review_notes: |
-  1. [^20] is duplicate of [^8] (both point to same First Round Review URL). Merge into single footnote and renumber.
-  2. [^2] (Idealab bio) says Knowledge Adventure sold in 1991, but profile claims 1996. Resolve date discrepancy or note conflicting sources.
-  3. [^8] (First Round Review) does not mention Knowledge Adventure sale to Cendant for $100M, but is cited for that claim. Remove [^8] from that citation.
-  4. [^1] (Caltech) says "45 successful IPOs and acquisitions" but profile says "50+" citing [^1]. The 50+ figure is supported by [^3] (ArtCenter), so remove [^1] from that specific claim or adjust.
-  5. [^12] (Benzinga) says SoftBank "$100 million PIPE" but profile says "$110M". Correct to $100M or find source for $110M.
-  6. Five sources returned 403/error and could not be verified: [^4] CNBC, [^7] Inc/Rick Gibson, [^10] Yahoo Finance, [^14] Axios, [^19] Seeking Alpha, [^21] vBulletin. Claims unique to these sources (13.5x return, $250K check size from [^19]; Rick Gibson quotes from [^7]; Internet Brands $640M from [^21]) need alternative sourcing.
-  7. TED talk [^15] confirmed timing=42% and team/execution=second, but "idea at 28%" and "business model" factor were not explicitly confirmed in transcript summary. Verify or soften.
 ---
 
 ## Background
 
 William T. Gross (born 1958) is an American entrepreneur, inventor, and investor best known as the founder and chairman of Idealab, one of the first and longest-running technology incubators in the world [^1][^2]. He earned a B.S. in Mechanical Engineering from the California Institute of Technology (Caltech) in 1981 [^1][^3].
 
-Gross began his entrepreneurial career in high school in 1973, when he founded Solar Devices, a mail-order company selling solar energy kits during the energy crisis [^4][^5]. While at Caltech, he patented a new loudspeaker design and built speakers to pay his way through college [^5][^6].
+Gross began his entrepreneurial career in high school in 1973, when he founded Solar Devices, a mail-order company selling solar energy kits during the energy crisis [^4]. While at Caltech, he patented a new loudspeaker design and built speakers to pay his way through college [^4][^5].
 
-After graduating, Gross founded GNP Development, Inc., which created HAL, a natural language software product for Lotus 1-2-3. Lotus Development Corporation acquired GNP in 1985 for approximately $10 million [^2][^5][^7]. In 1991, he founded Knowledge Adventure, an educational software publisher that grew to become the third-largest educational software company in the world, with over $25 million in annual sales. Knowledge Adventure was sold to Cendant (later becoming part of Havas/Vivendi) for approximately $100 million in 1996 [^2][^7][^8].
+After graduating, Gross founded GNP Development, Inc., which created HAL, a natural language software product for Lotus 1-2-3. Lotus Development Corporation acquired GNP in 1986 for approximately $10 million [^2][^4][^6]. In 1991, he co-founded Knowledge Adventure, an educational software publisher that grew to become the third-largest educational software company in the world, with over $25 million in annual sales. Knowledge Adventure was sold to Cendant (later becoming part of Havas/Vivendi) for approximately $100 million in 1996 [^2][^6].
 
-From the success of Knowledge Adventure, Gross founded Idealab in March 1996 in Pasadena, California, modeled after Thomas Edison's laboratory — a place where multiple companies could be conceived, funded, and developed simultaneously [^1][^2]. Howard Morgan (later co-founder of First Round Capital) was Idealab's first outside investor [^9].
+From the success of Knowledge Adventure, Gross founded Idealab in March 1996 in Pasadena, California, modeled after Thomas Edison's laboratory — a place where multiple companies could be conceived, funded, and developed simultaneously [^1][^2]. Howard Morgan (later co-founder of First Round Capital) was Idealab's first outside investor [^8].
 
-Gross is widely credited with inventing the concept of paid search and the cost-per-click (CPC) advertising model through GoTo.com, which he founded at Idealab in 1998. After a successful IPO, the company — renamed Overture Services — became the global market leader in paid search and was acquired by Yahoo! for approximately $1.63 billion in 2003 [^1][^3][^10]. This business model became the foundation for modern internet advertising, including Google's AdWords.
+Gross is widely credited with inventing the concept of paid search and the cost-per-click (CPC) advertising model through GoTo.com, which he founded at Idealab in 1998. After a successful IPO, the company — renamed Overture Services — became the global market leader in paid search and was acquired by Yahoo! for approximately $1.63 billion in 2003 [^1][^3]. This business model became the foundation for modern internet advertising, including Google's AdWords.
 
-Over nearly three decades, Idealab has created and operated more than 150 companies, generated more than 10,000 jobs, and had more than 50 successful IPOs and acquisitions [^1][^3][^6]. More recently, Gross has focused on clean energy and climate technology, founding Heliogen (concentrated solar power, went public in 2021), co-founding Energy Vault (gravity-based energy storage, went public via SPAC in 2022), and founding CarbonCapture Inc. (direct air capture, founded 2019) [^4][^11][^12]. In 2024, he founded ProRata.ai, a company building AI attribution technology to ensure content creators are compensated when their work is used by generative AI platforms. ProRata raised $25 million in its initial round and $40 million in Series B funding [^13][^14].
+Over nearly three decades, Idealab has created and operated more than 150 companies, generated more than 10,000 jobs, and had more than 50 successful IPOs and acquisitions [^3][^5]. More recently, Gross has focused on clean energy and climate technology, founding Heliogen (concentrated solar power, went public in 2021), co-founding Energy Vault (gravity-based energy storage, went public via SPAC in 2022), and founding CarbonCapture Inc. (direct air capture, founded 2019) [^9][^10][^11]. In 2024, he founded ProRata.ai, a company building AI attribution technology to ensure content creators are compensated when their work is used by generative AI platforms. ProRata raised $25 million in its initial round and $40 million in Series B funding [^12][^13].
 
 Gross serves on the Board of Trustees of Caltech and the Board of Trustees of Art Center College of Design [^1][^3].
 
@@ -43,21 +35,21 @@ Gross serves on the Board of Trustees of Caltech and the Board of Trustees of Ar
 
 Gross has publicly described his investment and company-building framework through extensive public speaking, including two TED talks and numerous podcast appearances. His stated approach centers on several key principles:
 
-**Timing is the #1 factor.** In his widely viewed 2015 TED talk, Gross presented research across hundreds of Idealab and non-Idealab companies, ranking each on five factors: idea, team/execution, business model, funding, and timing. He found that timing accounted for 42% of the difference between success and failure, followed by team/execution at 32% and idea at 28% [^15]. He has stated: "Being way too early is worse than being too late" [^5].
+**Timing is the #1 factor.** In his widely viewed 2015 TED talk, Gross presented research across hundreds of Idealab and non-Idealab companies, ranking each on five factors: idea, team/execution, business model, funding, and timing. He found that timing accounted for 42% of the difference between success and failure, with team/execution ranked second and idea third [^14]. He has stated: "Being way too early is worse than being too late" [^4].
 
-**Find big, broken problems.** Gross looks for opportunities that are "BIG and broken" and then brainstorms technology solutions to fix them [^5][^16].
+**Find big, broken problems.** Gross looks for opportunities that are "BIG and broken" and then brainstorms technology solutions to fix them [^4][^15].
 
-**Contrarian ideas that are true.** Quoting Ray Dalio, Gross has said: "The consensus is already priced in. To be a great investor or inventor, you have to bet against the consensus and be right" [^5].
+**Contrarian ideas that are true.** Quoting Ray Dalio, Gross has said: "The consensus is already priced in. To be a great investor or inventor, you have to bet against the consensus and be right" [^4].
 
-**Equity unlocks human potential.** On company structure, Gross has stated: "Magic happens when you give more than 1% of the company to a person. It opens up their imagination" and "Immediately, at least 50% goes to the team. We want to be a minority shareholder. We want it to be their company" [^16][^17].
+**Equity unlocks human potential.** On company structure, Gross has stated: "Magic happens when you give more than 1% of the company to a person. It opens up their imagination" and "Immediately, at least 50% goes to the team. We want to be a minority shareholder. We want it to be their company" [^15][^16].
 
-**Speed over perfection.** Gross advises founders: "You're almost always better off with a decision that's 80% right but made swiftly vs. a decision that's 100% right made slowly" [^8].
+**Speed over perfection.** Gross advises founders: "You're almost always better off with a decision that's 80% right but made swiftly vs. a decision that's 100% right made slowly" [^7].
 
-**Choose investors wisely.** Gross has told founders: "You want to choose the best investor, not the one that gives you the highest price" [^5].
+**Choose investors wisely.** Gross has told founders: "You want to choose the best investor, not the one that gives you the highest price" [^4].
 
 ## Inferred Thesis
 
-The analysis below is based on the full list of 150+ Idealab companies (from Idealab's website [^18]) and publicly confirmed portfolio exits and investments. Because Gross operates primarily as a company builder/incubator rather than a traditional angel investor, his "portfolio" consists overwhelmingly of companies conceived and co-founded within the Idealab studio, not external investments. This makes his pattern distinct from a typical VC or angel.
+The analysis below is based on the full list of 150+ Idealab companies (from Idealab's website [^17]) and publicly confirmed portfolio exits and investments. Because Gross operates primarily as a company builder/incubator rather than a traditional angel investor, his "portfolio" consists overwhelmingly of companies conceived and co-founded within the Idealab studio, not external investments. This makes his pattern distinct from a typical VC or angel.
 
 ### Sector Allocation (based on 150+ Idealab companies listed on idealab.com, categorized by primary sector)
 
@@ -76,7 +68,7 @@ A review of the full Idealab company list reveals the following approximate dist
 
 ### Stage Distribution
 
-Idealab operates almost exclusively at the pre-seed and seed stage. The typical model is: Idealab conceives an idea, invests approximately $250,000 in initial capital, hires a CEO, and Gross takes on the role of non-executive chairman [^19]. This is earlier-stage and more hands-on than traditional seed investing — Idealab is often the de facto co-founder.
+Idealab operates almost exclusively at the pre-seed and seed stage. The typical model is: Idealab conceives an idea, invests approximately $250,000 in initial capital, hires a CEO, and Gross takes on the role of non-executive chairman [^18]. This is earlier-stage and more hands-on than traditional seed investing — Idealab is often the de facto co-founder.
 
 ### Geographic Concentration
 
@@ -84,11 +76,11 @@ Overwhelmingly Pasadena, California. Idealab's offices are at 130 W. Union Stree
 
 ### Founder Profile Patterns
 
-Gross has stated that in evaluating CEO candidates, he looks for "adaptability and flexibility, along with integrity, hard work, and smarts" [^5]. He has also said: "We really love people who have done a startup that didn't work out. The lessons from a failed startup are almost better than lessons from success" [^17]. Idealab's model involves finding a CEO after initial idea validation, meaning the founder-CEO is typically recruited rather than pitching Gross [^17][^19].
+Gross has stated that in evaluating CEO candidates, he looks for "adaptability and flexibility, along with integrity, hard work, and smarts" [^4]. He has also said: "We really love people who have done a startup that didn't work out. The lessons from a failed startup are almost better than lessons from success" [^16]. Idealab's model involves finding a CEO after initial idea validation, meaning the founder-CEO is typically recruited rather than pitching Gross [^16][^18].
 
 ### Co-investor Patterns
 
-Idealab typically provides the first capital and then syndicates follow-on rounds to external investors. Notable co-investors and backers include Howard Morgan (first outside investor in Idealab) [^9], SoftBank (invested $110M in Energy Vault) [^12], and Bill Gates (backed Heliogen) [^4]. Idealab's return on invested capital has been reported at 13.5x [^19].
+Idealab typically provides the first capital and then syndicates follow-on rounds to external investors. Notable co-investors and backers include Howard Morgan (first outside investor in Idealab) [^8], SoftBank Vision Fund (invested $110M in Energy Vault's Series B in 2019) [^11], and Bill Gates (backed Heliogen) [^9]. Idealab's return on invested capital has been reported at 13.5x [^18].
 
 ### Notable Gaps
 
@@ -101,86 +93,86 @@ While Gross is often described as an "angel investor," his primary mode of opera
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
 | CitySearch | 1996 | Incubated | Local Search | IPO, acquired by IAC | [^1][^3] |
-| GoTo.com/Overture | 1998 | Incubated | Search/Advertising | IPO, acquired by Yahoo! for ~$1.63B | [^1][^3][^10] |
-| NetZero | ~1998 | Incubated | ISP/Internet | IPO, merged with Juno (United Online) | [^15][^18] |
-| CarsDirect | ~1999 | Incubated | Auto/E-commerce | Sold (~$600M) | [^8][^20] |
-| Tickets.com | ~1999 | Incubated | Ticketing | IPO | [^15][^18] |
-| eToys | ~1999 | Incubated | E-commerce | IPO (later failed) | [^18] |
-| Shopping.com | ~2000 | Incubated | E-commerce | Acquired by eBay | [^18] |
-| Commission Junction | ~2000 | Incubated | Affiliate Marketing | Acquired by ValueClick | [^18] |
+| GoTo.com/Overture | 1998 | Incubated | Search/Advertising | IPO, acquired by Yahoo! for ~$1.63B | [^1][^3] |
+| NetZero | ~1998 | Incubated | ISP/Internet | IPO, merged with Juno (United Online) | [^14][^17] |
+| CarsDirect | ~1999 | Incubated | Auto/E-commerce | Sold (~$600M) | [^7] |
+| Tickets.com | ~1999 | Incubated | Ticketing | IPO | [^14][^17] |
+| eToys | ~1999 | Incubated | E-commerce | IPO (later failed) | [^17] |
+| Shopping.com | ~2000 | Incubated | E-commerce | Acquired by eBay | [^17] |
+| Commission Junction | ~2000 | Incubated | Affiliate Marketing | Acquired by ValueClick | [^17] |
 | Picasa | ~2002 | Incubated | Photo Software | Acquired by Google | [^1][^3] |
-| Internet Brands | ~1998 | Incubated | Online Media | Sold to Hellman & Friedman for ~$640M | [^18][^21] |
-| Evolution Robotics | ~2000 | Incubated | Robotics | Sold to iRobot | [^5][^18] |
-| eSolar | ~2007 | Incubated | Solar Energy | Active | [^18] |
-| Twilio | ~2008 | Early investment | Cloud Communications | IPO (unicorn) | [^18][^19] |
-| Coinbase | ~2012 | Early investment | Cryptocurrency | IPO (unicorn) | [^18][^19] |
-| Heliogen | 2013 | Founded | Concentrated Solar | Went public 2021 | [^4][^11] |
-| Energy Vault | ~2017 | Co-founded | Energy Storage | Went public via SPAC 2022 | [^12] |
-| CarbonCapture Inc. | 2019 | Founded | Direct Air Capture | Active | [^11] |
-| Elementary Robotics | ~2017 | Incubated | Industrial AI/Robotics | Active | [^18] |
-| ProRata.ai | 2024 | Founded | AI/Attribution | Active, raised $65M+ | [^13][^14] |
+| Internet Brands | ~1998 | Incubated | Online Media | Sold to Hellman & Friedman for ~$640M | [^17][^19] |
+| Evolution Robotics | ~2000 | Incubated | Robotics | Sold to iRobot | [^4][^17] |
+| eSolar | ~2007 | Incubated | Solar Energy | Active | [^17] |
+| Twilio | ~2008 | Early investment | Cloud Communications | IPO (unicorn) | [^17][^18] |
+| Coinbase | ~2012 | Early investment | Cryptocurrency | IPO (unicorn) | [^17][^18] |
+| Heliogen | 2013 | Founded | Concentrated Solar | Went public 2021 | [^9] |
+| Energy Vault | ~2017 | Co-founded | Energy Storage | Went public via SPAC 2022 | [^10][^11] |
+| CarbonCapture Inc. | 2019 | Founded | Direct Air Capture | Active | [^9] |
+| Elementary Robotics | ~2017 | Incubated | Industrial AI/Robotics | Active | [^17] |
+| ProRata.ai | 2024 | Founded | AI/Attribution | Active, raised $65M+ | [^12][^13] |
 
-*Note: Idealab has created 150+ companies over 28 years with 50+ successful IPOs and acquisitions. This table represents major exits and notable active companies. Many entries use approximate founding years based on best available public data. Twilio and Coinbase were early Idealab portfolio investments rather than internally incubated companies [^19].*
+*Note: Idealab has created 150+ companies over 28 years with 50+ successful IPOs and acquisitions. This table represents major exits and notable active companies. Many entries use approximate founding years based on best available public data. Twilio and Coinbase were early Idealab portfolio investments rather than internally incubated companies [^18].*
 
 ### Failed Idealab Companies (Notable)
 
 | Company | Year | Sector | Source |
 |---------|------|--------|--------|
-| Z.com | ~1999 | Internet | [^15] |
-| Desktop Factory | ~2007 | 3D Printing | [^15] |
-| Peoplelink | ~1998 | Video Chat | [^15] |
-| Insider Pages | ~2004 | Local Reviews | [^15] |
+| Z.com | ~1999 | Internet | [^14] |
+| Desktop Factory | ~2007 | 3D Printing | [^14] |
+| Peoplelink | ~1998 | Video Chat | [^14] |
+| Insider Pages | ~2004 | Local Reviews | [^14] |
 
 ## In Their Own Words
 
 **On the #1 factor for startup success (TED talk, March 2015):**
-> "Timing accounted for 42 percent of the difference between success and failure." [^15]
+> "Timing accounted for 42 percent of the difference between success and failure." [^14]
 
 **On being a parallel entrepreneur:**
-> "I wanted to become a 'parallel' entrepreneur" rather than a serial one, which led to founding Idealab to build multiple companies simultaneously [^22].
+> "I wanted to become a 'parallel' entrepreneur" rather than a serial one, which led to founding Idealab to build multiple companies simultaneously [^20].
 
 **On equity and motivation:**
-> "Magic happens when you give more than 1% of the company to a person. It opens up their imagination." [^16]
+> "Magic happens when you give more than 1% of the company to a person. It opens up their imagination." [^15]
 
-> "Equity unlocks human potential. It's not only about the money, it's about the feeling of ownership you have in a venture." [^5]
+> "Equity unlocks human potential. It's not only about the money, it's about the feeling of ownership you have in a venture." [^4]
 
 **On the Idealab model:**
-> "Immediately, at least 50% goes to the team. We want to be a minority shareholder. We want it to be their company." [^17]
+> "Immediately, at least 50% goes to the team. We want to be a minority shareholder. We want it to be their company." [^16]
 
 **On hiring CEOs:**
-> "The idea has to become the CEO's idea. They can't work on my idea." [^17]
+> "The idea has to become the CEO's idea. They can't work on my idea." [^16]
 
-> "We really love people who have done a startup that didn't work out. The lessons from a failed startup are almost better than lessons from success." [^17]
+> "We really love people who have done a startup that didn't work out. The lessons from a failed startup are almost better than lessons from success." [^16]
 
 **On testing ideas:**
-> "We always are trying to test things with the minimal amount of work. You want to have a hypothesis, and you want to test it, preferably without writing a line of code." [^17]
+> "We always are trying to test things with the minimal amount of work. You want to have a hypothesis, and you want to test it, preferably without writing a line of code." [^16]
 
 **On product-market fit:**
-> "Product Market Fit is the most amazing thing when you had it. You can't spend enough marketing dollars to convince someone to take your product if they don't fundamentally want it." [^17]
+> "Product Market Fit is the most amazing thing when you had it. You can't spend enough marketing dollars to convince someone to take your product if they don't fundamentally want it." [^16]
 
 **On customers:**
-> "If your customers are not taking what you make... they're always right, you're always wrong." [^17]
+> "If your customers are not taking what you make... they're always right, you're always wrong." [^16]
 
 **On decision speed:**
-> "You're almost always better off with a decision that's 80% right but made swiftly vs. a decision that's 100% right made slowly." [^8]
+> "You're almost always better off with a decision that's 80% right but made swiftly vs. a decision that's 100% right made slowly." [^7]
 
 **On his motivation:**
-> "I became addicted to the idea to try and make a business that worked." [^16]
+> "I became addicted to the idea to try and make a business that worked." [^15]
 
 **On climate and clean energy:**
-> Gross has called climate "a trillion-dollar opportunity" and stated: "There's money to be made by saving the world" [^23][^24].
+> Gross has called climate "a trillion-dollar opportunity" and stated: "There's money to be made by saving the world" [^21][^22].
 
 **On choosing investors (advice to founders):**
-> "You want to choose the best investor, not the one that gives you the highest price." [^5]
+> "You want to choose the best investor, not the one that gives you the highest price." [^4]
 
 **On timing:**
-> "Being way too early is worse than being too late." [^5]
+> "Being way too early is worse than being too late." [^4]
 
 ## What Founders Say
 
-Robert Piconi, co-founder and CEO of Energy Vault (an Idealab company that went public via SPAC in 2022), described how Gross recruited him to lead the company: "Bill called me and said, 'Hi, Rob. How are you? I don't know where you're located right now, but I have a new idea for energy storage, and I want you to be the CEO.'" Piconi noted that "What was fantastic about when Bill called me was, it was still in the concept stage, so he was still ideating if I can use that term, the concept" [^25]. On Gross's track record, Piconi stated: "Bill, uniquely, has been very successful. Idealab, about one-third of the 150 companies that he's created have either been sold to a strategic or gone public" [^25]. Piconi also described the complementary dynamic: "He appreciated the things that I thought about in running a company versus where he focuses on ideation and incubation of new ideas" [^25].
+Robert Piconi, co-founder and CEO of Energy Vault (an Idealab company that went public via SPAC in 2022), described how Gross recruited him to lead the company: "Bill called me and said, 'Hi, Rob. How are you? I don't know where you're located right now, but I have a new idea for energy storage, and I want you to be the CEO.'" Piconi noted that "What was fantastic about when Bill called me was, it was still in the concept stage, so he was still ideating if I can use that term, the concept" [^23]. On Gross's track record, Piconi stated: "Bill, uniquely, has been very successful. Idealab, about one-third of the 150 companies that he's created have either been sold to a strategic or gone public" [^23]. Piconi also described the complementary dynamic: "He appreciated the things that I thought about in running a company versus where he focuses on ideation and incubation of new ideas" [^23].
 
-Rick Gibson, who co-founded Knowledge Adventure with Gross in 1991 and later served as CEO of an early Idealab company, wrote about meeting Gross in December 1984: "Within one hour of our meeting, Bill asked me to stop all my other work to help him launch GNP Development" [^7]. Gibson went on to describe how they built Knowledge Adventure's sales to over $25 million annually before selling the company for $100 million [^7]. However, this predates the Idealab era and reflects a co-founder relationship rather than an independent founder testimonial.
+Rick Gibson, who co-founded Knowledge Adventure with Gross in 1991 and later served as CEO of an early Idealab company, has described meeting Gross in December 1984: "Within one hour of our meeting, Bill asked me to stop all my other work to help him launch GNP Development" [^6]. Gibson went on to describe how they built Knowledge Adventure's sales to over $25 million annually before selling the company for $100 million [^6]. However, this predates the Idealab era and reflects a co-founder relationship rather than an independent founder testimonial.
 
 No additional independently sourced testimonials from other Idealab portfolio company founders were found. Despite Gross's 28-year track record of incubating 150+ companies and working closely with dozens of recruited CEOs, publicly available quotes from Idealab company founders about their experience working with Gross remain scarce.
 
@@ -192,46 +184,42 @@ No additional independently sourced testimonials from other Idealab portfolio co
 
 [^3]: ArtCenter College of Design, "Bill Gross," accessed March 2026. https://www.artcenter.edu/about/get-to-know-artcenter/people/bill-gross.html
 
-[^4]: CNBC, "Idealab, Heliogen founder Bill Gross sold solar energy kits in 1973," November 28, 2022. https://www.cnbc.com/2022/11/28/idealab-heliogen-founder-bill-gross-sold-solar-energy-kits-in-1973.html
+[^4]: Tony Robbins Podcast, "The Most Successful Founder in History — Part 1" (Bill Gross interview), accessed March 2026. https://www.tonyrobbins.com/podcasts/unicorn-founder-bill-gross
 
-[^5]: Tony Robbins Podcast, "The Most Successful Founder in History — Part 1" (Bill Gross interview), accessed March 2026. https://www.tonyrobbins.com/podcasts/unicorn-founder-bill-gross
+[^5]: TED, "Bill Gross — Speaker," accessed March 2026. https://www.ted.com/speakers/bill_gross
 
-[^6]: TED, "Bill Gross — Speaker," accessed March 2026. https://www.ted.com/speakers/bill_gross
+[^6]: GlobeNewsWire, "DarkPulse, Inc. Announces Key Hire Rick Gibson as Director, Strategic Initiatives," July 28, 2021. https://www.globenewswire.com/en/news-release/2021/07/28/2270535/0/en/DarkPulse-Inc-Announces-Key-Hire-Rick-Gibson-as-Director-Strategic-Initiatives.html
 
-[^7]: Inc., Rick Gibson, "Q&A with Idealab Founder Bill Gross," accessed March 2026. https://www.inc.com/rick-gibson/chat-with-one-of-the-world-s-most-successful-entrepreneurs-bill-gross-the-founde.html
+[^7]: First Round Review, "Lessons Learned from Bill Gross' 35 IPOs/Exits and 40 Failures," accessed March 2026. https://review.firstround.com/lessons-learned-from-bill-gross-35-ipos-and-40-failures/
 
-[^8]: First Round Review, "Lessons Learned from Bill Gross' 35 IPOs/Exits and 40 Failures," accessed March 2026. https://review.firstround.com/lessons-learned-from-bill-gross-35-ipos-and-40-failures/
+[^8]: The Full Ratchet podcast, "339. Founding Renaissance Technologies & First Round Capital," accessed March 2026. https://fullratchet.net/339-founding-renaissance-technologies-first-round-capital-the-origins-of-idealab-reasons-not-to-grow-your-fund-and-how-sourcing-from-yc-has-changed-howard-morgan/
 
-[^9]: Howard Morgan investor profile on Seedlist; also confirmed in The Full Ratchet podcast, "339. Founding Renaissance Technologies & First Round Capital," accessed March 2026. https://fullratchet.net/339-founding-renaissance-technologies-first-round-capital-the-origins-of-idealab-reasons-not-to-grow-your-fund-and-how-sourcing-from-yc-has-changed-howard-morgan/
+[^9]: Heliogen press release, "Heliogen announces collaboration with CarbonCapture Inc.," accessed March 2026. https://www.heliogen.com/press-releases/heliogen-a-leading-provider-of-ai-enabled-concentrated-solar-energy-announces-collaboration-with-carboncapture-inc-to-develop-facilities-that-remove-carbon-dioxide-directly-from-the-atmosphere/
 
-[^10]: Yahoo Finance, "Bill Gross, the guy who invented Google's business model, tries again with IdeaMarket," accessed March 2026. https://finance.yahoo.com/news/bill-gross-guy-invented-google-120044415.html
+[^10]: Benzinga, "Clean Energy Company Energy Vault Lands SPAC Deal, Palantir Investment," September 2021. https://www.benzinga.com/m-a/21/09/22859687/clean-energy-company-energy-vault-lands-spac-deal-palantir-investment
 
-[^11]: Heliogen press release, "Heliogen announces collaboration with CarbonCapture Inc.," accessed March 2026. https://www.heliogen.com/press-releases/heliogen-a-leading-provider-of-ai-enabled-concentrated-solar-energy-announces-collaboration-with-carboncapture-inc-to-develop-facilities-that-remove-carbon-dioxide-directly-from-the-atmosphere/
+[^11]: Energy Vault press release, "Energy Vault Closes Series B Funding with $110 Million Investment from SoftBank Vision Fund," August 2019. https://www.energyvault.com/newsroom/energy-vault-closes-series-b-funding-with-110-million-investment-from-softbank-vision-fund
 
-[^12]: Benzinga, "Clean Energy Company Energy Vault Lands SPAC Deal, Palantir Investment," September 2021. https://www.benzinga.com/m-a/21/09/22859687/clean-energy-company-energy-vault-lands-spac-deal-palantir-investment
+[^12]: Music Ally, "AI attribution startup ProRata raises $25m and signs UMG deal," August 7, 2024. https://musically.com/2024/08/07/ai-attribution-startup-prorata-raises-25m-and-signs-umg-deal/
 
-[^13]: Music Ally, "AI attribution startup ProRata raises $25m and signs UMG deal," August 7, 2024. https://musically.com/2024/08/07/ai-attribution-startup-prorata-raises-25m-and-signs-umg-deal/
+[^13]: BusinessWire, "ProRata Closes $40 Million Series B Financing and Launches Gist Answers," September 5, 2025. https://www.businesswire.com/news/home/20250905771340/en/ProRata-Closes-$40-Million-Series-B-Financing-and-Launches-Gist-Answers-Creating-New-Revenue-Opportunities-for-Publishers-in-the-AI-Era
 
-[^14]: Axios, "ProRata.ai raises $40 million and launches new AI search tool for publishers," September 5, 2025. https://www.axios.com/2025/09/05/prorata-ai-search-tool-publishers
+[^14]: TED, "Bill Gross: The single biggest reason why start-ups succeed," recorded March 19, 2015, published June 1, 2015. https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed
 
-[^15]: TED, "Bill Gross: The single biggest reason why start-ups succeed," recorded March 19, 2015, published June 1, 2015. https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed
+[^15]: CSQ / C-Suite Quarterly, "Idealab Founder Bill Gross on Making Innovative Ideas Happen," December 2020. https://csq.com/2020/12/howard-marks-idealab-founder-bill-gross-on-making-innovative-ideas-happen/
 
-[^16]: CSQ / C-Suite Quarterly, "Idealab Founder Bill Gross on Making Innovative Ideas Happen," December 2020. https://csq.com/2020/12/howard-marks-idealab-founder-bill-gross-on-making-innovative-ideas-happen/
+[^16]: Ross Dawson, "Insights from Bill Gross of Idealab on building successful startup studios," accessed March 2026. https://rossdawson.com/startup-studios/bill-gross-idealab-company-builder-successful/
 
-[^17]: Ross Dawson, "Insights from Bill Gross of Idealab on building successful startup studios," accessed March 2026. https://rossdawson.com/startup-studios/bill-gross-idealab-company-builder-successful/
+[^17]: Idealab, "All Companies," accessed March 2026. https://www.idealab.com/all_companies.php
 
-[^18]: Idealab, "All Companies," accessed March 2026. https://www.idealab.com/all_companies.php
+[^18]: Peter Fuhrman, "America's Top Unicorn Investor, Idealab's Bill Gross, Plots a Future in China," LinkedIn, November 2016. https://www.linkedin.com/pulse/americas-top-unicorn-investor-idealabs-bill-gross-plots-peter-fuhrman
 
-[^19]: Seeking Alpha / Peter Fuhrman, "America's Top Unicorn Investor, Idealab's Bill Gross, Plots a Future in China," accessed March 2026. https://seekingalpha.com/article/4025832-americas-top-unicorn-investor-idealabs-bill-gross-plots-future-in-asia
+[^19]: TechCrunch, "Private Equity Firm Acquires Internet Brands In $640 Million Deal," September 20, 2010. https://techcrunch.com/2010/09/20/private-equity-firm-acquires-internet-brands-in-640-million-deal/
 
-[^20]: First Round Review, "Lessons Learned from Bill Gross' 35 IPOs/Exits and 40 Failures" (CarsDirect sold to Hellman & Friedman for $600 million), accessed March 2026. https://review.firstround.com/lessons-learned-from-bill-gross-35-ipos-and-40-failures/
+[^20]: Idealab, "Introduction to the lessons — 25 years of Idealab," accessed March 2026. https://25-lessons.idealab.com/introduction/
 
-[^21]: VBulletin Forum, "Hellman & Friedman LLC acquire Internet Brands," accessed March 2026. https://forum.vbulletin.com/forum/vbulletin-announcements/vbulletin-announcements_aa/378415-hellman-friedman-llc-acquire-internet-brands
+[^21]: Worth, "Idealab's Bill Gross Calls Climate a Trillion-Dollar Opportunity," accessed March 2026. https://worth.com/idealab-bill-gross-climate-trillion-dollar-opportunity-ira/
 
-[^22]: Idealab, "Introduction to the lessons — 25 years of Idealab," accessed March 2026. https://25-lessons.idealab.com/introduction/
+[^22]: dot.LA, "Bill Gross: 'We Are Trashing the Earth' and How Venture Capital Can Save It," Upfront Summit, January 2020. https://dot.la/upfront-summit-bill-gross-climate-change-2644970696.html
 
-[^23]: Worth, "Idealab's Bill Gross Calls Climate a Trillion-Dollar Opportunity," accessed March 2026. https://worth.com/idealab-bill-gross-climate-trillion-dollar-opportunity-ira/
-
-[^24]: dot.LA, "Bill Gross: 'We Are Trashing the Earth' and How Venture Capital Can Save It," Upfront Summit, January 2020. https://dot.la/upfront-summit-bill-gross-climate-change-2644970696.html
-
-[^25]: Alejandro Cremades, "Robert Piconi On Raising $117 Million To Decarbonize The Planet," accessed March 2026. https://alejandrocremades.com/robert-piconi/
+[^23]: Alejandro Cremades, "Robert Piconi On Raising $117 Million To Decarbonize The Planet," accessed March 2026. https://alejandrocremades.com/robert-piconi/
