@@ -10,8 +10,52 @@ sector_focus: [enterprise-saas, fintech, AI, developer-tools, cybersecurity, con
 check_size: "$1M–$200M"
 social:
   linkedin: "linkedin.com/in/leefixel"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  Review conducted 2026-03-15. Multiple issues found:
+
+  DEAD/INACCESSIBLE URLS (10 of 33 sources):
+  - [^4] CNBC: paywall/auth wall, content not extractable
+  - [^5] Business Insider India: ECONNREFUSED, site unreachable
+  - [^7] YourStory: 403 Forbidden
+  - [^12] Tracxn: content behind JS paywall, not extractable
+  - [^15] ChannelE2E: 403 Forbidden
+  - [^20] Palo Alto Networks press release: JS-rendered, content not extractable
+  - [^21] Fintech Global: 403 Forbidden
+  - [^22] SaaSBoomi: JS-rendered, content not extractable
+  - [^26] Primer.ai: 403 Forbidden
+  - [^29] CityBiz: 403 Forbidden
+
+  DUPLICATE SOURCES (violates citation hygiene):
+  - [^2] and [^3] are the same URL (endowment.wustl.edu)
+  - [^9] and [^24] are the same URL (TechCrunch Oct 2020)
+  - [^12] and [^32] are the same URL (Tracxn)
+
+  FACTUAL ERRORS:
+  - Delhivery investment listed as "$125M+" citing [^13], but TechCrunch source says $76.4M ("over $75 million")
+  - Lyra Health 2020 entry says "Series D ($110M, led)" but [^23] only covers Series E ($187M); Series D amount unsupported
+  - Founder quote in "What Founders Say" fabricated/paraphrased: "Girish, the numbers don't make any sense..." is NOT in the Inc42 source. Actual quote is "If you look at the business numbers, there is nothing much to bet on, I am just betting on you, since you have been there, done that."
+  - Profile truncates Fixel quote, omitting "since you have been there, done that"
+
+  INFERRED THESIS MATH ERRORS:
+  - Claims "35 verified Addition investments" but portfolio has only 28 unique Addition companies (some rows are follow-on rounds in same company)
+  - Sector breakdown totals 35 items but denominator should be 28 unique companies
+  - Percentages need recalculation against correct denominator
+
+  UNVERIFIABLE CLAIMS:
+  - "Greylock (Chronosphere)" co-investor claim — source [^20] unreadable
+  - Flipkart "$1.4 billion from remaining stake sold in 2023" — Grokipedia says "$3.8 billion" for 2023 sale; discrepancy unresolved
+  - Addition Fund Three ($1.4B, 2021) and Fund Four ($1.5B, 2022) sizes not independently verified by cited sources
+
+  REQUIRED FIXES:
+  1. Merge duplicate footnotes [^2]/[^3], [^9]/[^24], [^12]/[^32] and renumber
+  2. Replace all 403/dead URLs with working alternative sources or remove unsupported claims
+  3. Fix Delhivery amount to $76.4M per TechCrunch source
+  4. Fix or remove Lyra Health Series D $110M claim (find supporting source)
+  5. Fix fabricated Mathrubootham quote to match Inc42 source verbatim
+  6. Recalculate inferred thesis using 28 unique companies as denominator
+  7. Resolve Flipkart 2023 stake sale amount discrepancy
 ---
 
 ## Background
