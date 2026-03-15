@@ -11,8 +11,17 @@ check_size: "$250K-$5M"
 social:
   twitter: "@pejmannozad"
   linkedin: "linkedin.com/in/pejman"
-status: draft
-last_researched: 2026-03-14
+status: flagged
+last_researched: 2026-03-15
+review_notes: |
+  1. [^12] Crunchbase Pear VC portfolio page returns 403. Claims citing it (260 portfolio companies, 173 Enterprise B2B at 67%, several portfolio entries like Viz.ai, Vanta, Nova Credit, One Concern, Addepar) cannot be verified. Need alternative source or remove claims.
+  2. [^15] Crunchbase person profile returns 403. Lending Club, Zoosk, Path portfolio entries cite this as a source but it is inaccessible.
+  3. Founder quotes in "What Founders Say" (GraphDive quote and "down to earth cheerleader" quote) are cited to [^7] (Affinity blog) but are NOT present on that page. They appear to come from LinkedIn recommendations on Pejman's profile. Citation is wrong — must fix source or remove quotes.
+  4. Soccer/fundraising quote ("In soccer, you can score minute one, or you can score at minute 90...") is cited to [^5] (Deciphr/20VC summary) but is NOT found there. The quote comes from a dot.la interview. Citation must be corrected.
+  5. DoorDash portfolio entry says "Seed ($250K)" but no cited source confirms the $250K amount. Remove the dollar amount or find a source.
+  6. Baseten appears in the Inferred Thesis (Developer Tools/Infrastructure) but is NOT in the portfolio table and has no citation. Remove from inferred thesis or add to portfolio with source.
+  7. Frontmatter check_size "$250K-$5M" does not match sources: xRaise [^14] says $250K-$6M, VCSheet [^10] says $250K-$3M. Reconcile.
+  8. [^13] Stanford GSB case study page renders no usable content (paywall/abstract only). The "soil"/pre-seed terminology is confirmed via search results but not directly verifiable from the URL. Consider citing Wikipedia or Pear VC website instead.
 ---
 
 ## Background
