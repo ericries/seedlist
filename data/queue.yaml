@@ -2087,7 +2087,7 @@ queue:
   discovered_from: elias-torres
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: The Community Fund
   type: firm
@@ -2112,7 +2112,7 @@ queue:
   discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Lia Cromwell
   type: individual
