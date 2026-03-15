@@ -11,8 +11,18 @@ check_size: "$750K-$4M"
 social:
   twitter: "@hayleybay"
   linkedin: "linkedin.com/in/hbarna"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. Quote inaccuracy [^23]: YC blog says "I hope I can serve as a relatable bridge" but profile says "I want to be a relatable bridge" — must match source verbatim.
+  2. Inferred thesis counts Birchbox angel in Consumer/DTC (4 investments) but Birchbox does not appear in the portfolio table — either add it to the table or remove from sector count.
+  3. Keeps and Thirty Madison are listed as separate portfolio entries but Keeps is a Thirty Madison subsidiary — potential double-count inflating to 14 investments.
+  4. Source [^14] (TechCrunch Thirty Madison) is about an Oct 2018 $15M raise and does not mention Barna or First Round — does not support the claim of a 2017 seed investment.
+  5. Source [^15] (TechCrunch CrowdJustice) does not mention Barna or First Round in the article text — investment confirmed via other sources but this specific citation is weak.
+  6. Profile says Barna joined as venture partner but became "the firm's first female partner" [^1][^4] — she was actually the first female GP (promoted late 2017), not at the 2016 venture partner stage. The phrasing conflates two events.
+  7. Quote accuracy uncertain for [^5] (PitchBook, 403) and [^6] (Cooley GO, 403) — empathy quote, capital constraints quote, and climate investing quote cannot be verified against their cited sources.
+  8. Source [^20] (Arbor seed announcement) mentions First Round Capital as lead but does not name Hayley Barna specifically.
+  9. Check size in frontmatter is "$750K-$4M" but Signal NFX [^12] shows min $100K, target $1.5M, max $5M — inconsistent.
 ---
 
 ## Background
