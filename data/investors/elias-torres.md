@@ -11,8 +11,19 @@ check_size: "$25K-$50K"
 social:
   twitter: "@eliast"
   linkedin: "linkedin.com/in/eliast"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  1. Source [^3] (Aspen Institute profile) returns 301 redirect to generic page — dead URL. Claims corroborated by [^2] and [^10] but citation must be replaced.
+  2. Source [^4] (Topio Networks) returns 404. CTO/co-founder claim at Performable relies on this dead source. Corroborated by [^2] but [^1] says "VP of Engineering at Performable" — title discrepancy needs resolution.
+  3. Source [^7] (Florida Funders podcast page) does not contain the quoted text about "one of the only Latino-founded companies to ever achieve over $1 billion valuation." Quote actually appears in [^10] (Boston Globe 2022). Attribution must be corrected.
+  4. Source [^14] (Wellfound/Klaviyo) returns 403. Klaviyo investment confirmed by [^5] and Crunchbase but this URL is dead — replace or remove.
+  5. Source [^17] (TechCrunch/Metaplane) does not mention Elias Torres as investor. Need alternative source for Metaplane investment.
+  6. Source [^18] (Tracxn/Cymbal) returned only CSS/JS, not readable content. Cymbal investment not verifiable from this URL.
+  7. Inferred thesis says "8 verified angel investments" but portfolio table lists only 7 companies. Text and table are inconsistent. The note correctly says ~41% (7/17).
+  8. Quote in "In Their Own Words" hiring section drops "what you said you did" from original [^20] source. Should read: "I don't hire for credentials. I don't hire for where you came from, what you said you did."
+  9. Profile states Torres "left Drift in 2021" but [^10] (Boston Globe 2022) still lists him as "Cofounder and CTO of Drift" — timeline of departure may be inaccurate.
+  10. Latino entrepreneurship quote attributed to [^7] (Florida Funders) but verifiable text is in [^10] (Boston Globe 2022) — re-attribute.
 ---
 
 ## Background
