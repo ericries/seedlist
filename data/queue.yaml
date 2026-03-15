@@ -1922,7 +1922,7 @@ queue:
   discovered_from: josh-kopelman
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Chris Fralic
   type: individual
@@ -2288,3 +2288,51 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-14
+- name: Klaviyo
+  type: startup
+  source: portfolio company of David Cancel (early angel investment); IPO'd 2023
+  discovered_from: david-cancel
+  discovery_depth: 3
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: WHOOP
+  type: startup
+  source: portfolio company of David Cancel (angel investment); fitness wearable unicorn
+  discovered_from: david-cancel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Attentive
+  type: startup
+  source: portfolio company of David Cancel (angel investment); SMS marketing platform
+  discovered_from: david-cancel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Devoted Health
+  type: startup
+  source: portfolio company of David Cancel (angel investment); Medicare Advantage
+  discovered_from: david-cancel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Digits
+  type: startup
+  source: portfolio company of David Cancel (Series A); AI accounting automation
+  discovered_from: david-cancel
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Barndoor AI
+  type: startup
+  source: portfolio company of David Cancel (seed 2025); agentic AI control plane
+  discovered_from: david-cancel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
