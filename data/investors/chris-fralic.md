@@ -3,8 +3,8 @@ name: "Chris Fralic"
 slug: chris-fralic
 type: individual
 firm: first-round-capital
-role: "Board Partner"
-location: "New York, NY"
+role: "Partner Emeritus"
+location: "Philadelphia, PA"
 stage_focus: [seed]
 sector_focus: [ad-tech, gaming, ecommerce, connected-devices, social, consumer]
 check_size: "$500K-$3M"
@@ -25,7 +25,7 @@ His pre-venture career included stints as an Account Manager at Oracle, Director
 
 After eBay, Fralic served as VP of Business Development at the social bookmarking service del.icio.us through its acquisition by Yahoo in December 2005 [^1]. He joined First Round Capital as a Partner in 2006 [^1].
 
-Outside of investing, Fralic has attended the TED Conference since 1994 and worked with TED in 2006 to help launch TEDTalks, which have now been viewed over 10 billion times [^1]. He is a co-inventor of two U.S. patents for listing goods for sale [^3]. He also serves on the board of the Frances Hesselbein Leadership Institute [^3] and teaches a Maven course on professional relationship-building [^2].
+Outside of investing, Fralic has attended the TED Conference since 1994 and worked with TED in 2006 to help launch TEDTalks, which have now been viewed over 10 billion times [^1]. He is a co-inventor of two U.S. patents for listing goods for sale [^3]. He serves on the board of the Frances Hesselbein Leadership Institute [^3], the Franklin Institute in Philadelphia [^15], and joined the Cooper Hewitt Smithsonian Design Museum's Board of Trustees in 2024 [^15]. He is also a trustee of the Rock & Roll Hall of Fame [^16]. Fralic is an avid vintage technology collector and executive producer of documentaries including "Uncropped" and "Recollections" [^15]. He teaches a Maven course on professional relationship-building [^2] and regularly guest lectures at universities including Yale, Wharton, and Villanova [^15].
 
 ## Stated Thesis
 
@@ -78,29 +78,29 @@ Despite a stated focus on "social and mobile," only 3 of 28 verified investments
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| Roblox | ~2008 | Seed | Gaming/Metaverse | IPO (NYSE: RBLX) | [^1][^7] |
+| Roblox | 2009 | Seed | Gaming/Metaverse | IPO (NYSE: RBLX) | [^1][^7][^17] |
 | Warby Parker | ~2011 | Seed | Consumer/E-commerce | IPO (NYSE: WRBY) | [^1][^11] |
 | DoubleVerify | ~2009 | Seed | Ad Tech/Verification | IPO (NYSE: DV) | [^1][^4] |
-| Ring | ~2013 | Seed | Connected Devices/IoT | Acquired by Amazon | [^1][^12] |
-| HotelTonight | ~2010 | Seed | Travel/Consumer | Acquired by Airbnb | [^1] |
+| Ring | 2013 | Seed | Connected Devices/IoT | Acquired by Amazon (~$1B) | [^1][^12][^19] |
+| HotelTonight | 2011 | Series A | Travel/Consumer | Acquired by Airbnb | [^1][^18] |
 | Flurry | ~2008 | Seed | Mobile Analytics/Ad Tech | Acquired by Yahoo | [^1][^8] |
-| Invite Media | ~2007 | Seed | Ad Tech/Programmatic | Acquired by Google | [^1] |
-| Demdex | ~2008 | Seed | Ad Tech/Data Management | Acquired by Adobe | [^1][^8] |
+| Invite Media | ~2007 | Seed | Ad Tech/Programmatic | Acquired by Google (~$81M) | [^1][^20] |
+| Demdex | 2008 | Seed | Ad Tech/Data Management | Acquired by Adobe (~$109M) | [^1][^8][^21] |
 | Adaptly | ~2010 | Seed | Social Media Marketing | Acquired by Accenture | [^1][^8] |
 | Yapta | ~2007 | Seed | Travel/Price Tracking | Acquired by Coupa | [^1] |
-| CoTweet | ~2009 | Seed | Social Media Management | Acquired by Salesforce (via ExactTarget) | [^1] |
+| CoTweet | ~2009 | Seed | Social Media Management | Acquired by ExactTarget (2010), then Salesforce | [^1][^22] |
 | Troops | ~2015 | Seed | Sales Automation/CRM | Acquired by Salesforce | [^1][^8] |
 | Clipboard | ~2012 | Seed | Field Service Software | Acquired by Salesforce | [^1] |
-| Arbor.io | ~2012 | Seed | Data Analytics | Acquired by Acxiom | [^1] |
-| Circulate | ~2009 | Seed | Data Platform | Acquired by Acxiom | [^1][^8] |
-| ScanScout | ~2007 | Seed | Video Ad Tech | Acquired by Tremor (IPO as NYSE: TLRA) | [^4][^9] |
+| Arbor.io | ~2014 | Seed | Data Analytics | Acquired by Acxiom/LiveRamp (~$190M combined w/ Circulate) | [^1][^25] |
+| Circulate | ~2009 | Seed | Data Platform | Acquired by Acxiom/LiveRamp (~$190M combined w/ Arbor) | [^1][^8][^25] |
+| ScanScout | ~2007 | Seed | Video Ad Tech | Acquired by Tremor (~$65M, later IPO as NYSE: TLRA) | [^4][^9][^23] |
 | myYearbook / The Meet Group | ~2007 | Seed | Social/Dating | IPO (NYSE: MEET) | [^3][^4] |
 | Rec Room | ~2016 | Seed | Gaming/Social VR | Active | [^1] |
 | Percolate | ~2011 | Seed | Marketing/Content Platform | Active | [^8] |
 | LiveIntent | ~2010 | Seed | Ad Tech/Email | Active | [^8] |
 | Solve Media | ~2009 | Seed | Ad Tech/Security | Active | [^8] |
 | FanBridge | ~2007 | Seed | Music/Fan Marketing | Active | [^3] |
-| Yummly | ~2010 | Seed | Food/Consumer | Active | [^3] |
+| Yummly | ~2010 | Seed | Food/Consumer | Acquired by Whirlpool (2017) | [^3][^24] |
 | AppFirst | ~2008 | Seed | IT Monitoring | Active | [^8] |
 | Packlate | ~2010 | Seed | E-commerce | Active | [^8] |
 | Boomi | ~2007 | Seed | Cloud Integration/SaaS | Active | [^9] |
