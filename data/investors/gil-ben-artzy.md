@@ -11,22 +11,8 @@ check_size: "$250K-$4M"
 social:
   twitter: "@gilbenartzy"
   linkedin: "linkedin.com/in/gilbenartzy"
-status: flagged
-last_researched: 2026-03-14
-review_notes: |
-  1. Sources [^15] and [^16] (Medium blog posts) return 403. Claims and quotes citing these cannot be verified:
-     - [^15]: "You need to be doing something that has a chance of being HUGE..." quote
-     - [^15]: "give value from day one" quote
-     - [^16]: Dan Scheinman, Matt Ocko, Sameet Metha co-investor claim
-     Must find alternative sources or remove these claims.
-  2. Source [^19] quotes are unverifiable. Two "unnamed former accelerator participant" quotes ("Gil is a machine..." and "Gil knows everything and everybody...") attributed to upwest.vc/ do not appear on that page. Likely hallucinated — remove.
-  3. Three founder quotes from upwest.vc are paraphrased, not verbatim:
-     - Oz Alon quote is shortened/reworded vs actual text on upwest.vc
-     - Tomer Weingarten quote is paraphrased ("functions like family" vs actual "it is like a family")
-     - "Unnamed founder" quote is actually from Eyal Feldman, CEO of Stampli — must attribute correctly and use exact wording
-  4. Portfolio page [^1] says "90+ companies" but profile says "100+ Israeli startups" citing [^1]. The 100+ figure comes from [^14], not [^1]. Fix citation.
-  5. PR Newswire [^10] says "3-month program" but profile says "four-month intensive" — verify which is correct.
-  6. Venture Unlocked [^13] says portfolio crossed "$2 billion in VC funding" but profile says "$3 billion" — the $3B figure is on portfolio page [^1], so citation is acceptable, but [^13] should not be used to support the $3B claim.
+status: published
+last_researched: 2026-03-15
 ---
 
 ## Background
@@ -37,9 +23,9 @@ Ben-Artzy was born and raised in Kfar Saba, Israel [^5]. He earned a BA in Econo
 
 After Wharton, Ben-Artzy joined The Boston Consulting Group in New York, where he advised Fortune 500 companies [^6][^7]. In 2005, he moved to Silicon Valley to join Yahoo!'s Corporate Development group, where he worked on strategy and acquisitions and managed relationships with the Israeli tech ecosystem [^6][^7]. During his time at Yahoo!, he led the acquisition of FoxyTunes, Yahoo!'s first Israel-based startup acquisition, and helped establish the company's first R&D center in Haifa [^6][^7]. He later served as VP of Operations Management at Yahoo! for two years, driving business for the tech infrastructure organization [^7]. He left Yahoo! in the summer of 2011 to launch UpWest Labs [^6][^8].
 
-UpWest began in 2012 as an accelerator program — the only one in the U.S. specifically serving Israeli startups — offering a four-month intensive in Palo Alto with seed investments of $25,000 to $300,000, mentorship from executives at companies like PayPal, Facebook, and Dropbox, and group housing in Palo Alto [^9][^10]. The firm has since evolved into a dedicated pre-seed and seed-stage venture fund.
+UpWest began in 2012 as an accelerator program — the only one in the U.S. specifically serving Israeli startups — offering a 3-month program in Palo Alto with seed investments of $25,000 to $300,000, mentorship from executives at companies like PayPal, Facebook, and Dropbox, and group housing in Palo Alto [^9][^10]. The firm has since evolved into a dedicated pre-seed and seed-stage venture fund.
 
-UpWest has raised four funds: Fund I (~$2M, bootstrapped from friends and colleagues), Fund II, Fund III ($18.5M, closed 2018), and Fund IV ($70M, closed 2021) [^3][^4][^11][^12]. As of 2026, the firm has invested in 100+ Israeli startups, with a collective portfolio market cap exceeding $20 billion and over $3 billion in follow-on funding raised by portfolio companies [^1][^13][^14]. In January 2026, Ben-Artzy stated: "This is the most active investment period we've had in recent years" [^14].
+UpWest has raised four funds: Fund I (~$2M, bootstrapped from friends and colleagues), Fund II, Fund III ($18.5M, closed 2018), and Fund IV ($70M, closed 2021) [^3][^4][^11][^12]. As of 2026, the firm has invested in more than 100 Israeli startups [^14], with a collective portfolio market cap exceeding $20 billion and over $3 billion in follow-on funding raised by portfolio companies [^1]. In January 2026, Ben-Artzy stated: "This is the most active investment period we've had in recent years" [^14].
 
 ## Stated Thesis
 
@@ -47,7 +33,7 @@ UpWest publicly describes its mission as funding, fast-tracking, and frontlining
 
 Ben-Artzy has stated: "Raising this fund is a testament to the strategy we've had since day one — to help entrepreneurs break into the U.S. market" [^12]. He has also said: "With this new fund, our intention is not only to bring new startups to market and fund them at the critical phase of pre-product/market fit, but also to be there in their next stages of growth" [^4].
 
-On what Israeli startups need to succeed in the U.S., Ben-Artzy has stated: "You need to be doing something that has a chance of being HUGE. VC economics mandate that any startup investment must have the potential to return the fund" [^15]. He has also emphasized that "Being in market increases your likelihood to build amazing businesses, amazing companies" [^5].
+Ben-Artzy has emphasized that "Being in market increases your likelihood to build amazing businesses, amazing companies" [^5].
 
 The firm's stated approach emphasizes helping founders validate technology with U.S. customers and scale operations stateside while maintaining engineering in Israel, creating distributed teams from inception [^3].
 
@@ -85,7 +71,7 @@ The portfolio strongly favors Israeli technical founders building enterprise-gra
 
 ### Co-investor Patterns
 
-As a first-check investor, UpWest frequently precedes larger institutional rounds. Notable follow-on investors in the portfolio include Tiger Global (HoneyBook), Insight Partners (SentinelOne), and SignalFire (Stampli) [^3][^11]. Dan Scheinman, Matt Ocko, and Sameet Metha were introduced to SentinelOne through UpWest [^16].
+As a first-check investor, UpWest frequently precedes larger institutional rounds. Notable follow-on investors in the portfolio include Tiger Global (HoneyBook), Insight Partners (SentinelOne), and SignalFire (Stampli) [^3][^11]. UpWest introduced SentinelOne founder Tomer Weingarten to early investors including Dan Scheinman, who also seed-invested in Zoom and remains on SentinelOne's board [^17].
 
 ### Notable Gaps
 
@@ -95,7 +81,7 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| HoneyBook | 2012 | Pre-seed | Business Management | [^1][^17] |
+| HoneyBook | 2012 | Pre-seed | Business Management | [^1][^15] |
 | SentinelOne | 2013 | Pre-seed | Cybersecurity | [^1][^5] |
 | Anyword | 2013 | Pre-seed | AI/NLP | [^1] |
 | CodeFresh | 2014 | Pre-seed | DevOps | [^1] |
@@ -107,16 +93,16 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 | SwiftShift | 2015 | Pre-seed | Healthcare | [^1] |
 | Stampli | 2016 | Seed | Fintech/AP Automation | [^1] |
 | Jolt | 2016 | Seed | Education/Workspace | [^1] |
-| CyCognito | 2017 | Pre-seed | Cybersecurity | [^1][^18] |
+| CyCognito | 2017 | Pre-seed | Cybersecurity | [^1][^16] |
 | Loadmill | 2017 | Seed | DevOps/Testing | [^1] |
 | Levl | 2017 | Seed | IoT Cybersecurity | [^1] |
-| BeeHero | 2018 | Pre-seed | Agritech | [^1][^18] |
+| BeeHero | 2018 | Pre-seed | Agritech | [^1][^16] |
 | InnerPlant | 2018 | Pre-seed | Agritech | [^1] |
 | Canopy | 2018 | Pre-seed | Healthcare/Oncology | [^1] |
-| Zone7 | 2018 | Pre-seed | Sports Analytics | [^1][^18] |
+| Zone7 | 2018 | Pre-seed | Sports Analytics | [^1][^16] |
 | Simpo | 2018 | Pre-seed | SaaS/Onboarding | [^1] |
 | Latica | 2019 | Pre-seed | Healthcare/Data | [^1] |
-| Balance | 2020 | Seed | B2B Payments | [^1][^18] |
+| Balance | 2020 | Seed | B2B Payments | [^1][^16] |
 | Unity SCM | 2020 | Seed | Supply Chain | [^1] |
 | Zenity | 2021 | Seed | AI Security | [^1] |
 | Metis | 2021 | Seed | Database Infrastructure | [^1] |
@@ -162,7 +148,7 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 | Peer5 | ~2015 | Seed | Acquired | [^1] |
 | Javelin Networks | ~2016 | Seed | Acquired | [^1] |
 
-*Note: Exit-year estimates for early companies use the best available data. UpWest has invested in 100+ companies; this table represents approximately 61 verified investments (~61% of the total). Of 85 investments tracked as of 2021, UpWest reported 25 exits and 22 company closures [^11].*
+*Note: Exit-year estimates for early companies use the best available data. UpWest has invested in 100+ companies [^14]; this table represents approximately 61 verified investments (~61% of the total). Of 85 investments tracked as of 2021, UpWest reported 25 exits and 22 company closures [^11].*
 
 ## In Their Own Words
 
@@ -174,9 +160,6 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 
 **On long-term commitment:**
 > "We want to be there for the long term... being there for the founders in those early years and supporting them throughout." [^5]
-
-**On what Israeli startups need to raise in the U.S.:**
-> "You need to be doing something that has a chance of being HUGE. VC economics mandate that any startup investment must have the potential to return the fund — and fund sizes are typically quite large in the US." [^15]
 
 **On Fund IV:**
 > "Raising this fund is a testament to the strategy we've had since day one — to help entrepreneurs break into the U.S. market." [^12]
@@ -190,33 +173,24 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 **On building startup momentum (from his blog):**
 > "Momentum is really more about the process of getting there." [^8]
 
-**On adding value from day one:**
-> "Small company or large, thousands of users or zero, the point is to give value from day one." [^15]
-
 **On due diligence advice for founders:**
 > "Just do your homework. Spend time with the investors, do your due diligence on companies they invested in." [^5]
 
 ## What Founders Say
 
 **Oz Alon, Co-Founder and CEO of HoneyBook:**
-> "The first guy that gave us the $25,000 was Gil Ben Artzi." Alon described how this initial investment from Ben-Artzy convinced the HoneyBook co-founders to relocate from Israel to Palo Alto, with Ben-Artzy offering: "I'm going to seed you. Once you start the company, I'm going to seed it." [^17]
+> "The first guy that gave us the $25,000 was Gil Ben Artzi." Alon described how this initial investment from Ben-Artzy convinced the HoneyBook co-founders to relocate from Israel to Palo Alto: "He said, 'I'm going to seed you. Once you start the company, I'm going to seed it.' It was $25,000 if we made the move to Palo Alto. It seemed like a no-brainer." [^15]
 
 **Oz Alon, Co-Founder and CEO of HoneyBook (via UpWest website):**
-> "The UpWest team excels at helping founders immerse in the US market to meet real customers and establish footing." [^1]
+> "The UpWest team is exceptional at helping you immerse yourself in the US market so you can meet your real customers and ultimately get a foothold where it matters the most." [^18]
 
 **Tomer Weingarten, Co-Founder and CEO of SentinelOne (via UpWest website):**
-> "UpWest helped create momentum... the community functions like family, becoming part of company culture." [^1]
+> "UpWest helped us create momentum — the entrepreneur's ultimate weapon." [^18]
 
-**Unnamed founder (via UpWest website):**
-> Operating early in Silicon Valley alongside the UpWest team "opened a whole new world of possibilities" and founders successfully "onboarded new customers that supercharged their entire business." [^1]
+**Eyal Feldman, CEO and Co-Founder of Stampli (via UpWest website):**
+> "Operating early in Silicon Valley alongside the UpWest team opened a whole new world of possibilities for Stampli." [^18]
 
-**Unnamed former accelerator participant (via search results):**
-> "Gil is a machine. The amount of work he does and his dedication are just incredible. During the UpWest Labs program he spent more time at the office than anyone else." [^19]
-
-**Unnamed former accelerator participant (via search results):**
-> "Gil knows everything and everybody. He was an absolute pleasure to work with, and his knowledge of Israel's tech industry and the Silicon Valley tech scene is unparalleled." [^19]
-
-*Note: The Tomer Weingarten and Oz Alon quotes sourced from the UpWest website are firm-curated testimonials. The Oz Alon quote from the Alejandro Cremades interview is independently sourced. The unnamed participant quotes appeared in search results referencing UpWest-related content.*
+*Note: The Oz Alon, Tomer Weingarten, and Eyal Feldman quotes sourced from the UpWest website are firm-curated testimonials. The Oz Alon quote from the Alejandro Cremades interview is independently sourced.*
 
 ## Sources
 
@@ -248,12 +222,10 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 
 [^14]: "UpWest promotes Aya Neeman to Principal," Calcalist (CTech), January 2026. https://www.calcalistech.com/ctechnews/article/bkznm7ibzx
 
-[^15]: "Ask Me Anything: Gil Ben-Artzy," UpWest Medium blog, accessed March 2026. https://medium.com/upwest-labs/ask-me-anything-gil-ben-artzy-7d8267d6b021
+[^15]: "Oz Alon On Building A $1 Billion Company By Reinventing Business Management For SMBs," Alejandro Cremades, accessed March 2026. https://alejandrocremades.com/oz-alon/
 
-[^16]: "From Our First Check to IPO — SentinelOne is Now Public on the NYSE," UpWest Medium blog, accessed March 2026. https://medium.com/upwest-labs/from-our-first-check-to-ipo-sentinelone-is-now-public-on-the-nyse-e8c0b2143b59
+[^16]: Gil Ben-Artzy's Investing Profile, Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/gil-ben-artzy
 
-[^17]: "Oz Alon On Building A $1 Billion Company By Reinventing Business Management For SMBs," Alejandro Cremades, accessed March 2026. https://alejandrocremades.com/oz-alon/
+[^17]: "The key lessons I learned from SentinelOne's journey from our first check to a Wall Street IPO," Calcalist (CTech), accessed March 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3912434,00.html
 
-[^18]: Gil Ben-Artzy's Investing Profile, Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/gil-ben-artzy
-
-[^19]: UpWest founder/participant testimonials, referenced in web search results, accessed March 2026. https://upwest.vc/
+[^18]: UpWest, homepage founder testimonials, accessed March 2026. https://upwest.vc/
