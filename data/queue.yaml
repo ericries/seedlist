@@ -1414,12 +1414,12 @@ queue:
   added: 2026-03-14
 - name: John Curtius
   type: individual
-  firm: tiger-global
-  source: Tiger Global Management - former Partner (departed 2022, started own fund)
+  firm: cedar-capital-group
+  source: Tiger Global Management - former Partner (departed 2022, founded Cedar Capital Group)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Lee Fixel
   type: individual
@@ -2632,5 +2632,38 @@ queue:
   discovered_from: bill-gross
   discovery_depth: 3
   priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Cedar Capital Group
+  type: firm
+  source: firm founded by John Curtius (ex-Tiger Global), targeting $1B fund for Series A-C enterprise software
+  discovered_from: john-curtius
+  discovery_depth: 3
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: Komodor
+  type: startup
+  source: portfolio company of John Curtius at Tiger Global, $42M Series B led by Tiger Global (2022)
+  discovered_from: john-curtius
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Monograph
+  type: startup
+  source: portfolio company of John Curtius at Tiger Global, $20M Series B led by Tiger Global (2021)
+  discovered_from: john-curtius
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Ben Ofiri
+  type: individual
+  firm: komodor
+  source: CEO & Co-Founder of Komodor, backed by John Curtius at Tiger Global
+  discovered_from: john-curtius
+  discovery_depth: 3
+  priority: low
   status: pending
   added: 2026-03-15
