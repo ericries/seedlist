@@ -1931,7 +1931,7 @@ queue:
   discovered_from: josh-kopelman
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Bill Trenchard
   type: individual
@@ -2450,5 +2450,54 @@ queue:
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Roblox
+  type: startup
+  source: Chris Fralic led First Round's seed investment; IPO March 2021 at $41B market cap; First Round owned 6.8%
+  discovered_from: chris-fralic
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: Ring
+  type: startup
+  source: Chris Fralic led First Round's seed investment; acquired by Amazon for ~$1B in 2018
+  discovered_from: chris-fralic
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: HotelTonight
+  type: startup
+  source: Chris Fralic led First Round investment; acquired by Airbnb
+  discovered_from: chris-fralic
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Rec Room
+  type: startup
+  source: Chris Fralic led First Round investment; social VR gaming platform
+  discovered_from: chris-fralic
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: DoubleVerify
+  type: startup
+  source: Chris Fralic board observer at First Round; IPO NYSE:DV
+  discovered_from: chris-fralic
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Jamie Siminoff
+  type: individual
+  firm: Ring
+  source: Founder/CEO of Ring; Chris Fralic invested via First Round; Ring acquired by Amazon for ~$1B
+  discovered_from: chris-fralic
+  discovery_depth: 2
+  priority: low
   status: pending
   added: 2026-03-15
