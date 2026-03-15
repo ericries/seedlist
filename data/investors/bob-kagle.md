@@ -11,8 +11,14 @@ check_size: "$1M-$15M"
 social:
   twitter: ""
   linkedin: ""
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  - "Lemons ripen early" quote (line ~131) misattributed to Kagle; source [^3] attributes it to Burt McMurtry (Kagle's mentor)
+  - Confluence.VC [^10] timed out — "Elite recruiting is the ultimate multiplier..." quote unverifiable
+  - CB Insights [^15] returned 403 — Everfest 2017 investment cannot be verified
+  - Mint listed as "Series B" but TechCrunch [^14] says "third round" without specifying Series B
+  - Jamba Juice era classification uncertain — may predate Benchmark's founding per FundingUniverse [^12]
 ---
 
 ## Background
