@@ -8,6 +8,10 @@ location: "Atherton, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai-ml, enterprise-saas, fintech, healthcare, consumer, deep-tech, climate-tech]
 check_size: "$250K-$6M"
+last_verified_investment:
+  date: "~2023"
+  company: "Piston"
+  round: "Seed"
 social:
   twitter: "@pejmannozad"
   linkedin: "linkedin.com/in/pejman"

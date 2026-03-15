@@ -175,7 +175,7 @@ def build():
     # Two-pass: first separate dated/undated, then reverse dated group
     dated = [p for p in investors if (p.get("last_verified_investment") or {}).get("date")]
     undated = [p for p in investors if not (p.get("last_verified_investment") or {}).get("date")]
-    dated.sort(key=lambda p: str((p.get("last_verified_investment") or {}).get("date", "")), reverse=True)
+    dated.sort(key=lambda p: str((p.get("last_verified_investment") or {}).get("date", "")).lstrip("~"), reverse=True)
     investors_sorted = dated + undated
 
     # Generate listing pages

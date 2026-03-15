@@ -8,6 +8,10 @@ location: "Los Angeles, CA"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [future-of-work, saas, developer-tools, ai, creator-economy, hr-tech]
 check_size: "$50K-$2M"
+last_verified_investment:
+  date: 2024
+  company: "Shimmer"
+  round: "Seed"
 social:
   twitter: "@briannekimmel"
   linkedin: "linkedin.com/in/briannekimmel"

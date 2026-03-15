@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [enterprise-saas, ai-ml, data-infrastructure, developer-tools, security, deeptech]
 check_size: "$250K–$3M"
+last_verified_investment:
+  date: "~2023"
+  company: "Wabi"
+  round: "Pre-seed"
 social:
   twitter: "@atShruti"
   linkedin: "linkedin.com/in/shrutigandhi"

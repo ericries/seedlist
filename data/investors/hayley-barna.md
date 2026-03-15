@@ -8,6 +8,10 @@ location: "New York, NY"
 stage_focus: [seed]
 sector_focus: [healthcare, consumer, climate, supply-chain, commerce]
 check_size: "$100K-$5M"
+last_verified_investment:
+  date: 2023
+  company: "Arbor"
+  round: "Seed"
 social:
   twitter: "@hayleybay"
   linkedin: "linkedin.com/in/hbarna"

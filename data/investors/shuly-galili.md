@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [cybersecurity, enterprise-saas, ai, devops, digital-health, agritech, fintech]
 check_size: "$250K-$4M"
+last_verified_investment:
+  date: 2024
+  company: "Darwin"
+  round: "Seed"
 social:
   twitter: "@shulygalili"
   linkedin: "linkedin.com/in/shulygalili"

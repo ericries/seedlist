@@ -8,6 +8,10 @@ location: "Redwood City, CA"
 stage_focus: [early-stage, series-a]
 sector_focus: [marketplaces, consumer-internet, e-commerce, fintech, consumer-services]
 check_size: "$1M-$15M"
+last_verified_investment:
+  date: 2017
+  company: "Everfest"
+  round: "Series A"
 social:
   twitter: ""
   linkedin: ""

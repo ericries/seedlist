@@ -8,6 +8,10 @@ location: "Boston, MA"
 stage_focus: [pre-seed, seed]
 sector_focus: [saas, martech, ai, enterprise-applications, developer-tools]
 check_size: "$25K-$50K"
+last_verified_investment:
+  date: 2025
+  company: "Redcar"
+  round: "Seed"
 social:
   twitter: "@eliast"
   linkedin: "linkedin.com/in/eliast"

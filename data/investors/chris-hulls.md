@@ -8,6 +8,10 @@ location: "Point Reyes Station, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [consumer-mobile, IoT-hardware, safety-security, fintech, automotive-data]
 check_size: "$25K-$100K"
+last_verified_investment:
+  date: "~2015"
+  company: "AirDog"
+  round: "Angel/Seed"
 social:
   twitter: "@ChrisHulls"
   linkedin: "linkedin.com/in/chrishulls"

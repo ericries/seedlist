@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [seed]
 sector_focus: [fintech, marketplaces, consumer-hardware, agriculture, social-data]
 check_size: "$100K-$5M"
+last_verified_investment:
+  date: 2025
+  company: "Barndoor AI"
+  round: "Seed"
 social:
   twitter: "@robhayes"
   linkedin: "linkedin.com/in/robhayes"

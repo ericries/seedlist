@@ -8,6 +8,10 @@ location: "Cambridge, MA"
 stage_focus: [seed]
 sector_focus: [saas, ai-infrastructure, developer-tools, sales-tech, marketing-platforms]
 check_size: "$25K-$100K"
+last_verified_investment:
+  date: 2025
+  company: "Agency AI"
+  round: "Advisor"
 social:
   twitter: "@dcancel"
   linkedin: "linkedin.com/in/dcancel"

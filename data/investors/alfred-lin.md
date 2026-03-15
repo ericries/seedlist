@@ -8,6 +8,10 @@ location: "Menlo Park, CA"
 stage_focus: [seed, series-a, growth]
 sector_focus: [consumer, marketplaces, logistics, fintech, ai, robotics, healthcare]
 check_size: "$1M-$10M"
+last_verified_investment:
+  date: "~2024"
+  company: "Physical Intelligence"
+  round: "Early"
 social:
   twitter: "@Alfred_Lin"
   linkedin: "linkedin.com/in/linalfred"

@@ -8,6 +8,10 @@ location: "Los Altos, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai-ml, enterprise-saas, biotech, fintech, climate-tech, consumer, deep-tech, healthcare]
 check_size: "$1M–$6M"
+last_verified_investment:
+  date: 2025
+  company: "Piston"
+  round: "Seed"
 social:
   twitter: "@MarHershenson"
   linkedin: "linkedin.com/in/mar-hershenson-b21395"

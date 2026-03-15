@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [generalist, fintech, health-and-wellness, saas, consumer, developer-tools, marketplace]
 check_size: "$250K-$500K"
+last_verified_investment:
+  date: "~2023"
+  company: "Kudos"
+  round: "Pre-seed"
 social:
   twitter: "@chudson"
   linkedin: "linkedin.com/in/chudson"

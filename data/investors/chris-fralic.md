@@ -8,6 +8,10 @@ location: "Philadelphia, PA"
 stage_focus: [seed]
 sector_focus: [ad-tech, gaming, ecommerce, connected-devices, social, consumer]
 check_size: "$500K-$3M"
+last_verified_investment:
+  date: "~2016"
+  company: "Rec Room"
+  round: "Seed"
 social:
   twitter: "@chrisfralic"
   linkedin: "linkedin.com/in/chrisfralic"

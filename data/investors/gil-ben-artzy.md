@@ -8,6 +8,10 @@ location: "Palo Alto, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [cybersecurity, saas, ai, fintech, digital-health, agritech, devops, enterprise-infrastructure]
 check_size: "$250K-$4M"
+last_verified_investment:
+  date: 2024
+  company: "Darwin"
+  round: "Seed"
 social:
   twitter: "@gilbenartzy"
   linkedin: "linkedin.com/in/gilbenartzy"

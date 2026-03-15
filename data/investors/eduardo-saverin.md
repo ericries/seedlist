@@ -8,6 +8,10 @@ location: "Singapore"
 stage_focus: [seed, series-a, growth]
 sector_focus: [enterprise, healthcare, fintech, logistics, climate-tech, ai]
 check_size: "$5M-$60M (B Capital); personal angel checks vary"
+last_verified_investment:
+  date: 2025
+  company: "Fervo Energy"
+  round: "Series E"
 social:
   twitter: "@esaverin"
   linkedin: "linkedin.com/in/saverin"

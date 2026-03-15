@@ -8,6 +8,10 @@ location: "Palo Alto, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, consumer, enterprise-saas, fintech, health, marketplaces, developer-tools, social, edtech]
 check_size: "$500K-$5M"
+last_verified_investment:
+  date: "~2022"
+  company: "Terradot"
+  round: "Seed"
 social:
   twitter: "@m2jr"
   linkedin: "linkedin.com/in/maples"

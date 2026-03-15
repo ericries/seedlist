@@ -8,6 +8,10 @@ location: "Coral Gables, Florida"
 stage_focus: [series-a, series-b, series-c]
 sector_focus: [enterprise-software, saas, fintech, ai, infrastructure, developer-tools]
 check_size: "$100K–$5M"
+last_verified_investment:
+  date: 2024
+  company: "Pallet"
+  round: "Series A"
 social:
   twitter: "@JohnCurtius"
   linkedin: "linkedin.com/in/johncurtius"

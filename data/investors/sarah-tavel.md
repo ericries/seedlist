@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [consumer-marketplaces, crypto, ai, saas, social]
 check_size: "$1M-$15M"
+last_verified_investment:
+  date: 2024
+  company: "11x"
+  round: "Series A"
 social:
   twitter: "@sarahtavel"
   linkedin: "linkedin.com/in/sarahtavel"

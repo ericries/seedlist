@@ -8,6 +8,10 @@ location: "New York, NY"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [enterprise, ai, fintech, deep-tech, saas, quantum-computing, digital-health]
 check_size: "$100K-$500K (personal angel); $250K-$500K (First Round seed)"
+last_verified_investment:
+  date: 2024
+  company: "Lidwave"
+  round: "Seed"
 social:
   twitter: "@HLMorgan"
   linkedin: "linkedin.com/in/hlmorgan"

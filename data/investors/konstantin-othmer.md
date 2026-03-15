@@ -8,6 +8,10 @@ location: "Las Vegas, NV"
 stage_focus: [pre-seed, seed]
 sector_focus: [consumer-hardware, mobile, enterprise-software, dev-tools, healthtech, automotive]
 check_size: "$10K-$50K"
+last_verified_investment:
+  date: "~2024"
+  company: "Cloud DX"
+  round: "Board Advisor"
 social:
   twitter: "@konikaze"
   linkedin: "linkedin.com/in/konstantinothmer"

@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, digital health, consumer health, marketplaces, enterprise, HR/talent]
 check_size: "$10K-$50K (angel); $300K-$500K (Unshackled Ventures)"
+last_verified_investment:
+  date: 2021
+  company: "Zum"
+  round: "Angel"
 social:
   twitter: "@shaherose"
   linkedin: "linkedin.com/in/shaherose"

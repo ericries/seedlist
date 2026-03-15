@@ -8,6 +8,10 @@ location: "San Francisco, CA"
 stage_focus: [seed, growth]
 sector_focus: [consumer-internet, enterprise-saas, ai-ml, fintech, marketplaces, social, e-commerce]
 check_size: "$25K–$100K (angel/seed); $5M–$20M (growth fund, Series B/C)"
+last_verified_investment:
+  date: "~2023"
+  company: "Sierra"
+  round: "Seed"
 social:
   twitter: "@RonConway"
 status: published

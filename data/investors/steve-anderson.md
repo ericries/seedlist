@@ -8,6 +8,10 @@ location: "San Francisco Bay Area"
 stage_focus: [seed]
 sector_focus: [consumer-internet, enterprise-saas, fintech, developer-tools, e-commerce, social, gaming]
 check_size: "$100K–$1M"
+last_verified_investment:
+  date: "~2025"
+  company: "Rekord"
+  round: "Seed"
 social:
   twitter: "@standers"
   linkedin: "linkedin.com/in/steveatbaseline"

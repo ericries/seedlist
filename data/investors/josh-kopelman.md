@@ -8,6 +8,10 @@ location: "Philadelphia, PA"
 stage_focus: [pre-seed, seed]
 sector_focus: [enterprise, saas, fintech, consumer, ai, health, data]
 check_size: "$750K-$4M"
+last_verified_investment:
+  date: "~2023"
+  company: "Pomelo Care"
+  round: "Seed"
 social:
   twitter: "@joshk"
   linkedin: "linkedin.com/in/jkopelman"

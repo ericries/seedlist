@@ -8,6 +8,10 @@ location: "Pasadena, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [clean-energy, internet, software, robotics, ai, advertising-technology]
 check_size: "$250K (typical Idealab initial investment per company)"
+last_verified_investment:
+  date: 2024
+  company: "ProRata.ai"
+  round: "Founded"
 social:
   twitter: "@Bill_Gross"
   linkedin: "linkedin.com/in/billgrossidealab"

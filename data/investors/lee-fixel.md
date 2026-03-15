@@ -8,6 +8,10 @@ location: "New York, NY"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [enterprise-saas, fintech, AI, developer-tools, cybersecurity, consumer-internet, logistics]
 check_size: "$1M–$200M"
+last_verified_investment:
+  date: 2026
+  company: "Render"
+  round: "Series C Extension"
 social:
   linkedin: "linkedin.com/in/leefixel"
 status: published

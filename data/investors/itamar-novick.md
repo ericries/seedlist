@@ -8,6 +8,10 @@ location: "Berkeley, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, data, saas, fintech, proptech]
 check_size: "$75K-$150K (initial); $500K-$1M (institutional seed); up to $3M (follow-on)"
+last_verified_investment:
+  date: 2025
+  company: "tryharmony.ai"
+  round: "Pre-seed"
 social:
   twitter: "@Itamar_Novick"
   linkedin: "linkedin.com/in/itamarnovick"

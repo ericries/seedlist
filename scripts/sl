@@ -325,8 +325,8 @@ def cmd_recent():
         else:
             missing.append({"slug": slug, "name": name, "status": status})
 
-    # Sort by date descending
-    entries.sort(key=lambda e: e["date"], reverse=True)
+    # Sort by date descending (strip ~ for approximate dates)
+    entries.sort(key=lambda e: e["date"].lstrip("~"), reverse=True)
 
     print("=== Investors by Most Recent Verified Investment ===\n")
     for e in entries:
