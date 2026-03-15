@@ -116,25 +116,19 @@ Hayes' stated interest in robotics does not appear prominently in the verified p
 **On hiring as a CEO's top priority:**
 > "If you're not spending at least 50% of your time hiring — and that's the minimum — you're already on the road to failure." [^14]
 
-**On the VC product:**
-> "Our money is just as green as everyone else's, but we can build a better VC product." [^7]
+**On VC as a competitive product:**
+> "I think our money is just as green as everybody else's." [^7]
 
 **On trust and leadership:**
-> "You can't be a leader without people you trust to do the right thing, even if they don't do it your way." [^6]
+> "You can't be a leader without having people around you who you trust to do the right thing. And that means they're not always going to do it the same way you would. It's not your job to micromanage them." [^6]
 
 **On Uber's initial scope:**
 > "I saw it as bigger than the black car market, but I absolutely did not see it as the amazingly global and massive company that it is today." [^7]
-
-**On the speed of the Mint.com deal:**
-> "It has been a short 3 years since we met Aaron Patzer at a STIRR dinner in the Valley. Seven days after we met, he had a term sheet for his seed round and off he went." [^12]
 
 ## What Founders Say
 
 **Irving Fain, founder and CEO of Bowery Farming:**
 > "Rob from First Round, who sits on our board, has been invaluably influential and an extraordinary partner from the very early days." [^15]
-
-**Aaron Patzer, founder and CEO of Mint.com:**
-Patzer met Rob Hayes and Josh Kopelman at a STIRR dinner in Silicon Valley in the fall of 2006. Seven days after that meeting, he had a term sheet for Mint.com's seed round [^12]. Mint.com went on to be acquired by Intuit for $170 million in 2009 [^12].
 
 No independently sourced founder testimonials were found beyond the above. First Round Capital's website does not feature individual testimonials attributed to Hayes specifically. Further founder quotes may emerge from additional podcast transcript research.
 
