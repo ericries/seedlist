@@ -1958,7 +1958,7 @@ queue:
   discovered_from: josh-kopelman
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Alfred Lin
   type: individual
@@ -2664,6 +2664,40 @@ queue:
   source: CEO & Co-Founder of Komodor, backed by John Curtius at Tiger Global
   discovered_from: john-curtius
   discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Dan Portillo
+  type: individual
+  firm: The General Partnership
+  source: Co-Founder of The General Partnership with Phin Barnes, formerly Talent Partner at Greylock
+  discovered_from: phin-barnes
+  discovery_depth: 2
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: The General Partnership
+  type: firm
+  source: Phin Barnes' firm, $240M Fund I + $300M Fund II, services-first VC
+  discovered_from: phin-barnes
+  discovery_depth: 2
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: First Round Capital
+  type: firm
+  source: Firm of Josh Kopelman, Phin Barnes, Rob Hayes, Chris Fralic, Howard Morgan, Sarah Tavel
+  discovered_from: phin-barnes
+  discovery_depth: 1
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: Richie Serna
+  type: individual
+  firm: Finix
+  source: CEO & Co-Founder of Finix, General Partnership portfolio company, founder testimonial about Barnes
+  discovered_from: phin-barnes
+  discovery_depth: 2
   priority: low
   status: pending
   added: 2026-03-15
