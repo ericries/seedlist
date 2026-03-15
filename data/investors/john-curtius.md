@@ -11,8 +11,20 @@ check_size: "$100K–$5M"
 social:
   twitter: "@JohnCurtius"
   linkedin: "linkedin.com/in/johncurtius"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. [^5] Topio Networks URL returns 404. ~15 portfolio entries rely solely on this source — claims unverifiable.
+  2. [^8] BEAMSTART URL is dead (shows homepage, not Midas List article). Forbes Midas List #64 claim unsupported.
+  3. [^6] Profile attributes "250+ companies" to this Fortune article, but the article doesn't contain that figure. The 250 figure appears in [^3] (Fortune 40 Under 40). Misattribution.
+  4. [^6] Unnamed founder quote ("any kind of major impact") and Tiger Global investor letter quote ("grateful for all his contributions...work ethic and intellect") not found in fetched article content. May be paywalled or misattributed.
+  5. [^9] Reuters/Yahoo article does not mention B2B SaaS, AI, ML, infrastructure as stated focus areas. CleverTap and Gupshup are cited to [^9] but not mentioned in that article.
+  6. [^10] Crunchbase returns 403. "World's best founders in secular growth areas" quote and Coral Gables location unverifiable from this source.
+  7. [^7] VCSheet lists companies like Stripe, Airbnb, OpenAI, Zoom, Salesforce alongside Curtius — unreliable aggregator conflating Tiger Global firm-level deals with Curtius personal involvement.
+  8. "What Founders Say" includes Tiger Global investor letter quote — this is NOT a founder quote. Violates section rules.
+  9. [^19] Crunchbase Deepgram returns 403. Deepgram Series B ($25M) claim unverifiable from cited source.
+  10. [^20] Tracxn page returned no extractable content. Go1 and Codat confirmed via web search but cited source is non-functional.
+  11. Pallet [^21] — Curtius participated as angel investor, not as Cedar Capital lead. Portfolio table should clarify role.
 ---
 
 ## Background
