@@ -11,8 +11,16 @@ check_size: "$250K (typical Idealab initial investment per company)"
 social:
   twitter: "@Bill_Gross"
   linkedin: "linkedin.com/in/billgrossidealab"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. [^20] is duplicate of [^8] (both point to same First Round Review URL). Merge into single footnote and renumber.
+  2. [^2] (Idealab bio) says Knowledge Adventure sold in 1991, but profile claims 1996. Resolve date discrepancy or note conflicting sources.
+  3. [^8] (First Round Review) does not mention Knowledge Adventure sale to Cendant for $100M, but is cited for that claim. Remove [^8] from that citation.
+  4. [^1] (Caltech) says "45 successful IPOs and acquisitions" but profile says "50+" citing [^1]. The 50+ figure is supported by [^3] (ArtCenter), so remove [^1] from that specific claim or adjust.
+  5. [^12] (Benzinga) says SoftBank "$100 million PIPE" but profile says "$110M". Correct to $100M or find source for $110M.
+  6. Five sources returned 403/error and could not be verified: [^4] CNBC, [^7] Inc/Rick Gibson, [^10] Yahoo Finance, [^14] Axios, [^19] Seeking Alpha, [^21] vBulletin. Claims unique to these sources (13.5x return, $250K check size from [^19]; Rick Gibson quotes from [^7]; Internet Brands $640M from [^21]) need alternative sourcing.
+  7. TED talk [^15] confirmed timing=42% and team/execution=second, but "idea at 28%" and "business model" factor were not explicitly confirmed in transcript summary. Verify or soften.
 ---
 
 ## Background
