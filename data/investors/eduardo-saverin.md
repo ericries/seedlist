@@ -11,7 +11,17 @@ check_size: "$5M-$60M (B Capital); personal angel checks vary"
 social:
   twitter: "@esaverin"
   linkedin: "linkedin.com/in/saverin"
-status: draft
+status: flagged
+review_notes: |
+  1. Birth date discrepancy: Profile says "March 19, 1982" but EBSCO source [^1] says "March 13, 1982". Needs resolution.
+  2. Source [^2] (Milestone Magazine) overcited: Many claims dual-cited to [^2] (specific schools, club names, magna cum laude, $300K oil futures via meteorology, Facebook co-founding details, lawsuit settlement details, IPO share %) are not present in that source. Remove [^2] citations for unsupported claims or find alternate sources.
+  3. Misquote in Stated Thesis from [^7]: Profile paraphrases B Capital page as direct quote. Actual wording is "an array of companies of all sizes and stages that share a common thread: a passion for people-centric innovation with pan-global ambitions that leverage technology" — profile version differs materially.
+  4. Co-investor pattern claim unsourced: "frequently co-invests with Tiger Global, General Catalyst, Accel, GGV Capital, and C5 Capital" cited to [^6][^16] but neither source mentions these specific firms. Need alternate source or remove claim.
+  5. Chang Wen Lai quote [^20] inaccurate: Missing "and supporter" — actual quote is "valuable mentor and supporter during fundraising."
+  6. Source [^19] (Tracxn) unverifiable — did not render. Fervo Energy Series E 2025 claim needs alternate source.
+  7. Sources [^9] and [^10] (CNBC videos) are behind paywall — quotes cannot be directly verified from page content, though page titles match. Low severity but should note.
+  8. Source [^3] (CBInsights) returns 403 — multiple claims depend on it (healthcare quote, Lyft investment, board seats, ~30 personal investments). Find alternate sources for key claims.
+  9. "Nine offices worldwide" cited to [^7][^8] but only [^7] supports it — [^8] doesn't mention office count.
 last_researched: 2026-03-15
 ---
 
