@@ -11,8 +11,23 @@ check_size: "$1M–$6M"
 social:
   twitter: "@MarHershenson"
   linkedin: "linkedin.com/in/mar-hershenson-b21395"
-status: draft
+status: flagged
 last_researched: 2026-03-14
+review_notes: |
+  - Source [^12] (Tracxn Pear VC) returns 404. Claims about 260 total investments and stage breakdown (91 seed, 52 Series A, 9 Series B) are unverifiable. Find alternative source or remove.
+  - Source [^24] (Tracxn Viz.ai) returns 404. Viz.ai investment citation needs replacement.
+  - Source [^25] (Crunchbase Vanta seed round) returns 403. "Co-Lead" claim for Vanta seed is unverifiable.
+  - Source [^11] (Affinity podcast landing page) contains no transcript or quotes. Two quotes attributed to it ("pretty generalist", "Each founder needs a different thing") cannot be verified from the URL. Need podcast transcript or alternative source.
+  - Source [^17] (Maginative Cognition article) does NOT mention Pear VC. Cannot use this to cite Cognition as a Pear portfolio company. Remove [^17] from Cognition row; [^9] alone supports it.
+  - Source [^18] is about BioAge Labs but is cited for Guardant Health in the portfolio table (line 91). Misattribution — need a Guardant Health-specific source.
+  - Tony Xu quote is modified: actual quote says "Pejman and Mar and the rest of the Pear team's philosophy" but profile truncates to "Pear's philosophy." Must use exact quote or mark as paraphrased.
+  - Bobyard "I learned what good looks like" quote is attributed to unnamed "PearX S23 founder" but should be attributed to Bobyard founder per source [^28]. Also quote is truncated.
+  - Aurora Solar listed as "2014 Seed" but source [^20] says Pear met founders in 2013 and describes investment as Pre-Seed, not Seed.
+  - "Playing up" quote in "In Their Own Words" merges/paraphrases two separate quotes from [^6] — the "play up" line is from her husband, not Mar directly.
+  - Source [^19] (Gusto PearX speakers) does not confirm Pear invested in Gusto. Need [^1] or [^9] as citation instead.
+  - Forbes Midas List claim "the second woman on the list that year" is misleading. Source [^8] shows 13 women on the list; Mar is #31, Luciana Lixandru is #18. She is not described as "the second woman."
+  - Kindroid AI cited to [^9] — but [^26] (companies page) does not list it. Verify portfolio membership.
+  - Inferred thesis sector math: Cognition is double-counted (Enterprise SaaS and AI/Deep Tech). Total adds to 25 but percentages sum to 100% only if Cognition counted once. Clarify or adjust.
 ---
 
 ## Background
