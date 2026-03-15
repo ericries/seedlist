@@ -68,7 +68,7 @@ Investments are heavily concentrated in San Francisco, with secondary concentrat
 
 ### Founder Profile Patterns
 
-Kimmel has stated that "all but one of her investments have had a female founder" and there is a "large focus on backing immigrants" [^9]. She seeks founders who are "someone who understands the end-user" [^12]. The portfolio reflects a strong preference for operator-founders coming from companies like Zendesk, Airbnb, Coinbase, and Uber [^1].
+Kimmel has stated that "all but one of her investments have had a female founder" and there is a "big emphasis on helping immigrants," which she says has stayed consistent since the firm's inception [^9]. She seeks founders who are "someone who understands the end-user" [^11]. The portfolio reflects a strong preference for operator-founders coming from companies like Zendesk, Airbnb, Coinbase, and Uber [^1].
 
 ### Co-investor Patterns
 
@@ -82,13 +82,13 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Deel | 2019 | Seed | HR/Payroll | [^13][^3] |
+| Deel | 2019 | Seed | HR/Payroll | [^12][^3] |
 | Webflow | ~2019 | Seed/Angel | No-code/Design | [^2][^3] |
 | Hopin | ~2019 | Seed | Events/Video | [^2][^3] |
-| Settle | ~2019 | Seed | Fintech | [^10][^14] |
-| Hightouch | ~2020 | Seed | Data Infrastructure | [^10][^14] |
-| Hex | ~2020 | Seed | Data Analytics | [^10][^14] |
-| Equals | ~2020 | Seed | Data/Spreadsheets | [^14] |
+| Settle | ~2019 | Seed | Fintech | [^10][^13] |
+| Hightouch | ~2020 | Seed | Data Infrastructure | [^10][^13] |
+| Hex | ~2020 | Seed | Data Analytics | [^10][^13] |
+| Equals | ~2020 | Seed | Data/Spreadsheets | [^13] |
 | Clubhouse | ~2020 | Seed/Angel | Social/Audio | [^2][^3] |
 | Public | ~2020 | Seed | Fintech/Investing | [^2][^3] |
 | Tonal | ~2020 | Seed/Angel | Fitness Tech | [^2][^3] |
@@ -101,21 +101,21 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 | Dev.to | ~2019 | Seed | Developer Community | [^10] |
 | WorkOS | ~2020 | Seed | Developer Infrastructure | [^10] |
 | Daily | ~2020 | Seed | Communication APIs | [^10] |
-| Vantage | ~2021 | Seed | Cloud Cost Management | [^10][^14] |
+| Vantage | ~2021 | Seed | Cloud Cost Management | [^10][^13] |
 | Knock | ~2021 | Seed | Notification Infra | [^10] |
 | BaseDash | ~2020 | Seed | Database Management | [^10] |
 | BuildShip | ~2022 | Seed | Workflow Automation | [^10] |
 | ChartHop | ~2020 | Seed | People Operations | [^10] |
 | Forethought | ~2020 | Seed | AI/Customer Service | [^10] |
-| mmhmm | ~2020 | Seed | Video/Presentations | [^10][^15] |
+| mmhmm | ~2020 | Seed | Video/Presentations | [^10][^14] |
 | Candor | ~2020 | Seed | Team Communication | [^10] |
 | Bubbles | ~2021 | Seed | Collaboration | [^10] |
 | Primer | ~2020 | Seed | Education | [^10] |
 | Italic | ~2020 | Seed | E-commerce/D2C | [^10] |
 | Shimmer | 2024 | Seed | Health/ADHD | [^15] |
-| Rowy | ~2022 | Seed | Low-code/No-code | [^15] |
-| Tome | ~2022 | Seed | AI/Presentations | [^14] |
-| GC.AI | ~2023 | Seed | AI | [^2][^14] |
+| Rowy | ~2022 | Seed | Low-code/No-code | [^16] |
+| Tome | ~2022 | Seed | AI/Presentations | [^13] |
+| GC.AI | ~2023 | Seed | AI | [^2][^13] |
 | Flamingo Estate | ~2023 | Seed | Consumer/Lifestyle | [^10] |
 | Tanner Fletcher Studios | ~2023 | Seed | Fashion/Creative | [^10] |
 | Julie Care | ~2023 | Seed | Health/Wellness | [^10] |
@@ -142,16 +142,16 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 > "Are you consumer or are you enterprise? No, no. It's actually neither. The lines will be incredibly blurred." [^1]
 
 **On founder-investor fit:**
-> "Founders should really find founder-partner fit. I think there are just different styles of relationships, there are different styles of company building." [^12]
+> "Founders should really find founder-partner fit. I think there are just different styles of relationships, there are different styles of company building." [^11]
 
 **On building a track record:**
-> "I often encourage people who are thinking of building a track record as an angel to not be concerned with check size and just like prove your worth and get in." [^12]
+> "I often encourage people who are thinking of building a track record as an angel to not be concerned with check size and just like prove your worth and get in." [^11]
 
 **On equity:**
-> "Equity is ownership and ownership is responsibility." [^12]
+> "Equity is ownership and ownership is responsibility." [^11]
 
 **On Deel as an investment:**
-> "One of the first tangible examples of a company that could fundamentally make remote possible." [^13]
+> "One of the first tangible examples of a company that could fundamentally make remote possible." [^12]
 
 **On remote work and community:**
 > She hypothesized that remote work would "bring back neighborhoods," enabling neighbors to start businesses together and restore community activities [^2].
@@ -207,4 +207,4 @@ No additional independently sourced founder testimonials found beyond the above.
 
 [^15]: "Shimmer Secures $2.2 Million Seed to Transform Adult ADHD Management," Pulse 2.0, January 2024. https://pulse2.com/shimmer-2-2-million-funding/
 
-[^15]: "Rowy raises $3M in seed funding from Worklife VC and more," Rowy blog, accessed March 2026. https://www.rowy.io/blog/rowy-seed-funding
+[^16]: "Rowy raises $3M in seed funding from Worklife VC and more," Rowy blog, accessed March 2026. https://www.rowy.io/blog/rowy-seed-funding
