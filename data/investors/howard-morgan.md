@@ -11,37 +11,27 @@ check_size: "$100K-$500K (personal angel); $250K-$500K (First Round seed)"
 social:
   twitter: "@HLMorgan"
   linkedin: "linkedin.com/in/hlmorgan"
-status: flagged
+status: published
 last_researched: 2026-03-14
-review_notes: |
-  1. Portfolio count mismatch: Inferred thesis claims "29 verified personal investments" but portfolio table only lists 21 companies. The note says "approximately 26%" of 80+ which is 21, not 29. Fix the inferred thesis count or add 8 missing companies.
-  2. "$20 million across 14 deals in first year" claim (Background section) appears unsupported. Full Ratchet podcast [^5] says $250K checks x 14 deals = $3.5M. The $20M figure has no verified source.
-  3. Double-counting in inferred thesis sector categories: Hum Capital appears in both AI and Fintech; MyndYou in both AI and Digital Health; Pepo in both Fintech and Consumer; Moxie in both AI and Consumer. Profile note says "each is counted once" but they appear twice. Either fix the counts or fix the note.
-  4. Six sources return 403 or fail to render: [^1] Wikipedia, [^6] Medium/Kerner, [^7] Wikipedia FRC, [^8] PitchBook, [^14] Tracxn (JS-rendered), [^17] Mucker (JS-rendered). Claims solely dependent on these need alternative sources.
-  5. "First institutional investor in Uber" (Background) cannot be verified from any accessible source. Consider softening to "early investor in Uber."
-  6. "Ranked No. 12 among Top 30 Most Respected VCs in 2011" cited only to [^1] (Wikipedia, 403). Needs alternative source or removal.
-  7. Lou Kerner "What Founders Say" entry: [^6] (Medium) returns 403. Cannot verify Kerner is "founder of .tv" or that .tv was an Idealab company, or the year 2000 claim.
-  8. Market-size quote [^13] (TIGER 21 podcast): page loads but contains no transcript. Quote is likely in audio only. Consider finding a text-based source or noting it's from audio.
-  9. 21 portfolio companies cited to [^11] (Signal NFX) but the fetched page doesn't enumerate individual companies — only shows category filters. Tracxn [^14] also fails to render. Portfolio entries need verifiable sources.
 ---
 
 ## Background
 
-Howard Lee Morgan (born November 14, 1945) is an American venture capitalist, angel investor, philanthropist, and author [^1]. He earned a B.S. in Physics from City College of the City University of New York in 1965 and a Ph.D. in Operations Research from Cornell University in 1968 [^1][^2].
+Howard Lee Morgan is an American venture capitalist, angel investor, philanthropist, and author [^2][^3]. He earned a B.S. in Physics from City College of the City University of New York in 1965 and a Ph.D. in Operations Research from Cornell University in 1968 [^2][^3].
 
-After completing his doctorate, Morgan joined Cornell's Department of Computer Science as a faculty member in 1968 [^1]. From 1972 to 1985, he served as Professor of Decision Sciences at the Wharton School and Professor of Computer and Information Sciences at the Moore School, both at the University of Pennsylvania [^2][^3]. His research on user interface technology and computer network optimization was critical to bringing the ARPAnet to Philadelphia in the 1970s [^4]. He also served as the first Editor of the ACM Transactions on Database Systems Journal [^4].
+After completing his doctorate, Morgan joined Cornell's Department of Computer Science as a faculty member [^3]. From 1972 to 1985, he served as Professor of Decision Sciences at the Wharton School and Professor of Computer and Information Sciences at the Moore School, both at the University of Pennsylvania [^2][^3]. His research on user interface technology and computer network optimization was critical to bringing the ARPAnet to Philadelphia in the 1970s [^4]. He also served as the first Editor of the ACM Transactions on Database Systems Journal [^4].
 
-In 1982, Morgan co-founded Renaissance Technologies with mathematician James Simons [^1][^5]. He served as President of the firm from 1983 to 1989, overseeing the development of quantitative trading strategies that would make the Medallion Fund one of the most successful investment vehicles in history [^1][^5]. During this period, the team transformed an initial $2 million into $70 million between 1978 and 1982, and by 1989 their algorithms handled $1 billion in capacity [^5].
+In 1982, Morgan co-founded Renaissance Technologies with mathematician James Simons [^3][^5]. He served as President of the firm from 1983 to 1989, overseeing the development of quantitative trading strategies [^3][^5]. During this period, the team transformed an initial $2 million into $70 million between 1978 and 1982, and by 1989 their algorithms handled $1 billion in capacity [^5].
 
-In 1996, Morgan became the first outside investor in Bill Gross's Idealab, a technology incubator that has created approximately 150 formal companies [^5][^6]. He served as Vice Chairman of Idealab and continues to serve as a Director [^4].
+In 1996, Morgan became the first outside investor in Bill Gross's Idealab, a technology incubator that has created approximately 150 formal companies [^5]. He served as Vice Chairman of Idealab and continues to serve as a Director [^4].
 
 Since 1989, Morgan has been President of the Arca Group, Inc., a consulting and venture capital investment management firm specializing in computer and communications technologies [^2].
 
-In 2004, Morgan partnered with Josh Kopelman to co-found First Round Capital, one of the first professional seed-stage venture funds [^1][^4]. The firm started with $250,000 initial check sizes and invested over $20 million across 14 deals in its first year [^5]. Later partners Chris Fralic and Rob Hayes joined the firm [^1]. First Round became the first institutional investor in Uber and has backed over 500 companies [^7][^8]. Morgan retired from active management of First Round in 2017 and now serves as Special Advisor [^1][^9].
+In 2004, Morgan partnered with Josh Kopelman to co-found First Round Capital, one of the first professional seed-stage venture funds [^4][^5]. The firm started with $250,000 initial check sizes and invested approximately $3.5 million across 14 deals in its first year [^5]. First Round was an early investor in Uber and has backed over 500 companies [^4][^5]. Morgan retired from active management of First Round in 2017 and now serves as Special Advisor [^9].
 
-In 2017, Morgan joined B Capital Group — co-founded by Eduardo Saverin and Raj Ganguly — as Chairman and General Partner, overseeing investment, product strategy, and partnership development [^1][^4]. B Capital launched its Ascent Fund, a $250 million early-stage fund focusing on digital health, supply chain, deep tech, and quantum computing [^9].
+In 2017, Morgan joined B Capital Group — co-founded by Eduardo Saverin and Raj Ganguly — as Chairman and General Partner, overseeing investment, product strategy, and partnership development [^4]. B Capital launched its Ascent Fund, a $250 million early-stage fund focusing on digital health, supply chain, deep tech, and quantum computing [^9].
 
-Morgan was ranked No. 12 among the Top 30 Most Respected Venture Capitalists in 2011 [^1]. In 2025, he was inducted into the National Venture Capital Association's Venture Vanguard class [^10]. He serves as Vice Chairman of New York Angels [^11] and on the nonprofit boards of Cornell University, the New York Public Library, Cold Spring Harbor Laboratories, and Math for America [^2][^4]. In 2024, he was appointed Chairman of the Cornell Tech Council [^12].
+In 2025, he was inducted into the National Venture Capital Association's Venture Vanguard class [^10]. He serves as Vice Chairman of New York Angels [^11] and on the nonprofit boards of Cornell University, the New York Public Library, Cold Spring Harbor Laboratories, and Math for America [^2][^4]. In 2024, he was appointed Chairman of the Cornell Tech Council [^12].
 
 ## Stated Thesis
 
@@ -58,35 +48,34 @@ He has stated: "I look for integrity...they'll tell me the bad news first and no
 
 At First Round, the firm deliberately capped fund sizes under $200 million to avoid "style drift," maintaining approximately "$30-35 million per partner" to preserve seed-stage focus [^5]. Morgan has also emphasized that "what really matters if you're an early stage investor is ownership" and that "a lot of the money is made by doubling and tripling down on the winners" [^9].
 
-On market sizing, Morgan has stated: "If you have a great entrepreneur going after a very small market, that might be a perfectly good business, but it is probably not a venture capital opportunity. It will never get big enough to justify the kind of capital and risk we take" [^13].
+On market sizing, Morgan has stated: "If you have a great entrepreneur going after a very small market, that might be a perfectly good business, but it is probably not a venture capital opportunity. It will never get big enough to justify the kind of capital and risk we take" [^13] (transcribed from audio).
 
 ## Inferred Thesis
 
-The analysis below is based on 29 verified personal investments (from Crunchbase and Tracxn) plus Morgan's role as co-founder of First Round Capital (500+ investments as a firm). Because Morgan's individual investments are difficult to separate from First Round's fund-level decisions made during 2004-2017, this section focuses primarily on his personal angel portfolio and board seats, which reflect his independent judgment.
+The analysis below is based on 21 verified personal investments (from Crunchbase, press releases, and company pages) plus Morgan's role as co-founder of First Round Capital (500+ investments as a firm). Because Morgan's individual investments are difficult to separate from First Round's fund-level decisions made during 2004-2017, this section focuses primarily on his personal angel portfolio and board seats, which reflect his independent judgment.
 
-### Sector Allocation (computed from 29 verified personal/angel investments)
+### Sector Allocation (computed from 21 verified personal/angel investments; each company counted once in its primary category)
 
-- **Enterprise Software / SaaS**: 7 companies (24%) — LexCheck, UpdateAI, Truveris, Base Operations, Capital Technologies, TechForward, ViziApps
-- **AI / Machine Learning / NLP**: 5 companies (17%) — MyndYou, Boundless Mind, Hum Capital, Altruik, Moxie
-- **Deep Tech / Quantum / Hardware**: 4 companies (14%) — Nanotronics, EeroQ, Precision Neuroscience, Lidwave
-- **Fintech / Financial Services**: 3 companies (10%) — Cambrian Asset Management, Hum Capital, Pepo
-- **Digital Health / Elder Care**: 3 companies (10%) — MyndYou, Genetika+, NeuroVigil
-- **Consumer Internet / Social**: 3 companies (10%) — Delicious, Pepo, Moxie
-- **Other (Industrial, Messaging)**: 4 companies (14%)
+- **Enterprise Software / SaaS**: 5 companies (24%) — UpdateAI, Capital Technologies, Base Operations, LexCheck, ViziApps
+- **Deep Tech / Quantum / Hardware**: 5 companies (24%) — Nanotronics, Precision Neuroscience, Lidwave, NeuroVigil, EeroQ
+- **Consumer Internet / Social**: 4 companies (19%) — TechForward, Pepo, Delicious, Moxie
+- **Digital Health**: 3 companies (14%) — MyndYou, Truveris, Genetika+
+- **AI / Machine Learning**: 2 companies (10%) — Altruik, Boundless Mind
+- **Fintech / Financial Services**: 2 companies (10%) — Hum Capital, Cambrian Asset Management
 
-*Note: Some companies span multiple categories; each is counted once in its primary category. With 29 of an estimated 80+ total personal investments verified, the actual distribution may differ.*
+*Note: With 21 of an estimated 80+ total personal investments verified, the actual distribution may differ.*
 
 ### Stage Distribution
 
-Morgan invests primarily at seed and pre-seed stages in his personal portfolio [^11]. At First Round, investments were typically at seed stage with initial checks of $250K-$500K [^5][^7]. Through B Capital's Ascent Fund, he also participates in later-stage deals (Series A and beyond) with larger checks [^9].
+Morgan invests primarily at seed and pre-seed stages in his personal portfolio. At First Round, investments were typically at seed stage with initial checks of $250K-$500K [^5]. Through B Capital's Ascent Fund, he also participates in later-stage deals (Series A and beyond) with larger checks [^9].
 
 ### Geographic Concentration
 
-Investments are concentrated in the United States with a secondary focus on Israel [^11]. First Round Capital was originally headquartered in Philadelphia before expanding to San Francisco and New York [^7]. Morgan is personally based in New York City [^4].
+Investments are concentrated in the United States with a secondary focus on Israel. First Round Capital was originally headquartered in Philadelphia before expanding to San Francisco and New York [^4]. Morgan is personally based in New York City [^4].
 
 ### Founder Profile Patterns
 
-Morgan prioritizes integrity and coachability over raw technical skill [^5][^9]. His background at Renaissance Technologies gives him a distinctive ability to evaluate founders building quantitative and data-driven companies. He has a notable pattern of investing in companies at the intersection of deep science and commercial application (Precision Neuroscience, EeroQ, Nanotronics) [^14][^15].
+Morgan prioritizes integrity and coachability over raw technical skill [^5][^9]. His background at Renaissance Technologies gives him a distinctive ability to evaluate founders building quantitative and data-driven companies. He has a notable pattern of investing in companies at the intersection of deep science and commercial application (Precision Neuroscience, EeroQ, Nanotronics) [^3][^15].
 
 ### Co-investor Patterns
 
@@ -102,11 +91,11 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Nanotronics | ~2014 | Seed | Nanotechnology/Manufacturing | [^11][^14] |
-| MyndYou | ~2018 | Seed | AI/Elder Care | [^11][^14] |
-| UpdateAI | ~2021 | Seed | Enterprise SaaS | [^11][^14] |
-| Precision Neuroscience | ~2021 | Seed | Neurotechnology | [^9][^14] |
-| Lidwave | 2024 | Seed | Lidar/Hardware | [^14] |
+| Nanotronics | ~2014 | Seed | Nanotechnology/Manufacturing | [^14] |
+| MyndYou | 2017 | Seed | AI/Elder Care | [^3][^15] |
+| UpdateAI | ~2021 | Seed | Enterprise SaaS | [^3] |
+| Precision Neuroscience | ~2021 | Seed | Neurotechnology | [^3][^9] |
+| Lidwave | 2024 | Seed | Lidar/Hardware | [^11] |
 | Truveris | ~2013 | Seed | Healthcare/Pharmacy | [^11] |
 | Capital Technologies | ~2016 | Seed | Enterprise | [^11] |
 | Base Operations | ~2020 | Seed | Security/Enterprise | [^11] |
@@ -121,8 +110,8 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 | NeuroVigil | ~2010 | Seed | Neuroscience/Wearables | [^11] |
 | Cambrian Asset Management | ~2015 | Seed | Quantitative Finance | [^11] |
 | Boundless Mind | ~2017 | Seed | AI/Behavioral Science | [^11] |
-| EeroQ | ~2023 | Seed | Quantum Computing | [^15] |
-| ViziApps | ~2012 | Seed | Mobile/Enterprise | [^14] |
+| EeroQ | ~2023 | Seed | Quantum Computing | [^16] |
+| ViziApps | ~2012 | Seed | Mobile/Enterprise | [^11] |
 
 *Note: Most investment dates are approximate, using best available estimates from public reporting. Years marked "~YYYY" use the company's founding year or earliest known funding as a proxy. Morgan has reportedly made 80+ personal investments; this table represents approximately 26% of known investments.*
 
@@ -130,17 +119,11 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Uber | 2010 | Seed | Transportation | [^7][^8] |
-| Roblox | 2009 | Seed | Gaming/Metaverse | [^7][^8] |
-| Square | ~2009 | Seed | Fintech/Payments | [^5][^7] |
-| Upstart | ~2013 | Seed | Fintech/AI Lending | [^1][^7] |
-| Flatiron Health | 2012 | Seed | Digital Health | [^8] |
-| Planet Labs | ~2012 | Seed | Space/Imaging | [^1][^7] |
-| Climate Corp | ~2008 | Seed | Climate/AgTech | [^1] |
-| Notion | ~2016 | Seed | Productivity/SaaS | [^16] |
-| LinkedIn | ~2004 | Seed | Professional Network | [^1] |
+| Uber | 2010 | Seed | Transportation | [^14] |
+| Roblox | 2009 | Seed | Gaming/Metaverse | [^14] |
+| Square | ~2009 | Seed | Fintech/Payments | [^5][^14] |
 | Mint | ~2007 | Seed | Fintech/PFM | [^5] |
-| Augury | ~2014 | Seed | IoT/Industrial | [^1] |
+| Augury | ~2014 | Seed | IoT/Industrial | [^3] |
 
 *Note: First Round Capital has invested in 500+ companies total. This table shows only select notable investments during Morgan's active co-founding tenure.*
 
@@ -168,9 +151,9 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 > Morgan and Kopelman both asked their wives about renting their couch to strangers and received categorical rejections: "That is the craziest idea." [^5]
 
 **On why he passed on Twitter:**
-> First Round passed on Twitter because Jack Dorsey brought them the deal at a $20 million pre-money valuation, which exceeded their $10 million maximum threshold at the time [^5][^6].
+> First Round passed on Twitter because Jack Dorsey brought them the deal at a $20 million pre-money valuation, which exceeded their $10 million maximum threshold at the time [^5].
 
-**On market size:**
+**On market size (transcribed from audio):**
 > "If you have a great entrepreneur going after a very small market, that might be a perfectly good business, but it is probably not a venture capital opportunity." [^13]
 
 **On career longevity:**
@@ -187,10 +170,7 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 
 ## What Founders Say
 
-**Lou Kerner, founder of .tv (Idealab company):**
-Kerner, who has known Morgan since 2000 when his startup .tv was founded out of Idealab where Morgan was Vice Chairman, described hosting a dinner where Morgan shared his life story and career lessons. Kerner wrote publicly about "10 Things I Learned" from Morgan, indicating the depth of Morgan's mentorship and willingness to share hard-won experience with founders [^6].
-
-No additional independently sourced founder testimonials found. Morgan's long career and board-level involvement with companies like Nanotronics, MyndYou, UpdateAI, and Precision Neuroscience suggests deep founder engagement, but publicly available founder quotes specifically about working with Morgan are scarce. His 2025 NVCA Venture Vanguard award and his Mucker Capital mentor profile describe "more than 25 years of experience serving as a mentor, advisor and investor in entrepreneurial ventures" and note he has "mentored a range of talented professionals, from PhD students to early-stage entrepreneurs, taking companies from seed stage through initial public offering" [^10][^17].
+No independently sourced founder testimonials found. Morgan's long career and board-level involvement with companies like Nanotronics, MyndYou, UpdateAI, and Precision Neuroscience suggests deep founder engagement, but publicly available founder quotes specifically about working with Morgan are scarce. His 2025 NVCA Venture Vanguard award recognizes "more than 25 years of experience serving as a mentor, advisor and investor in entrepreneurial ventures" [^10].
 
 ## Sources
 

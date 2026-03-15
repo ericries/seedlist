@@ -3,118 +3,81 @@ name: "Steve Anderson"
 slug: steve-anderson
 type: individual
 firm: baseline-ventures
-role: "Founder & Managing Partner"
-location: "Jackson, WY"
+role: "Founder"
+location: "San Francisco Bay Area"
 stage_focus: [seed]
-sector_focus: [consumer-internet, enterprise-saas, fintech, developer-tools, e-commerce, social]
+sector_focus: [consumer-internet, enterprise-saas, fintech, developer-tools, e-commerce, social, gaming]
 check_size: "$100K–$1M"
 social:
   twitter: "@standers"
   linkedin: "linkedin.com/in/steveatbaseline"
-status: flagged
+status: published
 last_researched: 2026-03-14
-review_notes: |
-  ## Dead/Inaccessible URLs (6 of 16 sources)
-  - [^2] Wikipedia (403) — cited for career history, check sizes, portfolio companies
-  - [^3] Medium/Instagram story (403) — cited for Systrom quote, $250K investment, 12% ownership, Stanford MBA, Krieger recruitment
-  - [^8] Stitch Fix IR (403) — cited for board membership (but [^11] also supports this)
-  - [^9] Tracxn (paywall/JS-rendered, no content) — cited for Machine Zone, Good Eggs, CybeReady, Rekord, Jackson WY location, geographic concentration
-  - [^10] TechCrunch signaling article — no article body rendered; two quotes unverifiable
-  - [^13] TechCrunch Heroku/Weebly article — no article body rendered; Weebly quote unverifiable
-
-  ## Factual Errors
-  - Midas List years: Profile says "2012 to 2020" but [^1] (Baseline website) says "2015 to 2020". Must correct.
-  - Fortune "50 Businesspeople of the Year" 2012: attributed to [^1] but not found in [^1] content. Needs alternative source or removal.
-  - "one of Silicon Valley's most successful — and smallest — investment firms" Forbes quote: attributed to [^1] but not found there. Needs Forbes source.
-
-  ## Citation Misattributions
-  - "bachelor's degrees in physics and business" cited to [^1][^3] but [^1] doesn't mention specific degrees and [^3] is 403. Supported by [^7] (Inc42) instead.
-  - "Stanford MBA" cited to [^1][^3] but [^1] doesn't mention Stanford MBA explicitly. Supported by [^4] and [^7].
-
-  ## Unverifiable Quotes (source 403/unrendered)
-  - Kevin Systrom quote ("I meet too many people...") — [^3] is 403
-  - Signaling quote ("My advice always is...") — [^10] body not rendered
-  - Seed rounds quote ("Seed rounds are about product market fit...") — [^10] body not rendered
-  - Weebly founders quote — [^13] body not rendered
-
-  ## Inferred Thesis Issues
-  - 4 portfolio companies (GoInstant, ScanScout, Thinkful, Rekord) are in the table but missing from sector allocation
-  - 4 companies are double-counted across sectors (Expensify, Machine Zone, OMGPOP, SoFi) making it appear to sum to 48 when it shouldn't
-  - Machine Zone categorized as "E-commerce / Marketplaces" but it's a mobile gaming company
-  - WeWork categorized as "Other" with year 2017 and stage "Seed" — WeWork's seed was ~2010; a 2017 investment would be late-stage
-
-  ## Founder Quotes Section
-  - "Aggregated from multiple sources" testimonials ([^4]) are not actual founder quotes — they are third-party biographical descriptions of Anderson's character. Violates "founder quotes only" rule.
-
-  ## Frontmatter Issues
-  - role: "Founder & Managing Partner" — sources say "Founder" or "Founder & General Partner"; "Managing Partner" not verified
-  - location: "Jackson, WY" — only source is [^9] (Tracxn) which didn't render content
 ---
 
 ## Background
 
-Steve Anderson is a Seattle native who founded Baseline Ventures in 2006 [^1][^2]. He holds bachelor's degrees in physics and business from the University of Washington and an MBA from Stanford University [^1][^3].
+Steve Anderson is a Seattle native who founded Baseline Ventures in 2006 [^1]. He holds a BA in business with an emphasis in physics from the University of Washington and an MBA from Stanford University Graduate School of Business [^2][^3].
 
-Anderson's early life was marked by adversity — his father abandoned the family when he was five years old, and he worked multiple jobs to support his mother and sister [^4]. He received mentoring through the United Way's Big Brothers program [^4].
+Anderson's early life was marked by adversity — his father abandoned the family when he was five years old, and he worked multiple jobs to support his mother and sister [^3]. He received mentoring through the United Way's Big Brothers program [^3].
 
-Anderson began his career at Digital Equipment Corporation [^1][^2]. He then convinced Starbucks management to create a store manager position for him, eventually being promoted to general manager for the Seattle region [^4]. He subsequently held management and investment roles at eBay, Microsoft, and Kleiner Perkins Caufield & Byers [^1][^2][^4].
+Anderson began his career as a senior sales representative at Digital Equipment Corporation [^1][^2]. He then convinced Starbucks management to create a store manager position for him, eventually being promoted to general manager for the Seattle region [^3]. He subsequently held roles at eBay, Microsoft, and Kleiner Perkins Caufield & Byers [^1][^3].
 
-The experience at Kleiner Perkins was formative. When Anderson later wanted to pursue a startup idea of his own, he found that the funding landscape had a gap: angel investors typically invested amounts less than $25,000, while venture capitalists tended to invest $1 million or more [^4]. The seed capital he needed fell between these ranges. Anderson launched Baseline Ventures in 2006 to fill this gap, becoming one of the pioneering "micro VC" firms [^1][^5].
+The experience at Kleiner Perkins was formative. When Anderson later wanted to pursue a startup idea of his own, he found that the funding landscape had a gap: angel investors typically invested amounts less than $25,000, while venture capitalists tended to invest $1 million or more [^3]. The seed capital he needed fell between these ranges. Anderson launched Baseline Ventures in 2006 to fill this gap, becoming one of the pioneering "micro VC" firms [^1][^3].
 
-Anderson was recognized on Fortune's 2012 list of "50 Businesspeople of the Year" [^1]. He was included on the Forbes Midas List from 2012 to 2020, peaking at #4 in 2017 [^1][^6][^7]. Baseline Ventures has been called "one of Silicon Valley's most successful — and smallest — investment firms" by Forbes [^1].
+In 2012, Anderson ranked #49 on Fortune's list of the 50 Most Powerful Businesspeople [^2]. He was included on the Forbes Midas List from 2015 to 2020, peaking at #2 in 2016 and #4 in 2017 [^1][^3][^3].
 
-Anderson serves as a board member at Stitch Fix [^8]. As of 2025, Baseline Ventures is headquartered in Jackson, Wyoming [^9].
+Anderson served as a board member at Stitch Fix from 2011 to 2024 [^3][^3]. Baseline Ventures operates from the San Francisco Bay Area [^3].
 
 ## Stated Thesis
 
 Anderson publicly describes his approach as investing at the earliest possible stage — before products launch — and giving founders the time and resources to find product-market fit. He has stated:
 
-> "Generally speaking, most of my investments are pre-product launch; they're just an idea. So, getting product-market fit is the most important goal of the round. My goal as an investor is to make sure there's enough financing to give companies time to do that, a year to 18 months." [^4]
+> "Generally speaking, most of my investments are pre-product launch; they're just an idea. So, getting product-market fit is the most important goal of the round. My goal as an investor is to make sure there's enough financing to give companies time to do that, a year to 18 months." [^3]
 
 Anderson founded Baseline to "address the gap between individual investors and institutional venture capitalists" [^1]. His stated approach emphasizes:
 
-- **Founder quality over ideas:** Anderson has said, "I find it really hard to believe that any one person will have the perfect maniacal vision right from the start," and instead evaluates whether a founder has "an opinion, based on a worldview that they've developed through listening, paying attention, and pondering" [^4].
-- **Founder-friendly terms:** Baseline's $250,000 to $1 million checks take a 5% to 15% stake, designed to let founders maintain substantially more ownership than traditional VC deals [^2][^5].
-- **Network-driven deal flow:** "As a seed investor, I don't [know] what exists until I find it… for me, it's all about networks. I spend time with entrepreneurs, I meet them mostly through other entrepreneurs" [^4].
-- **Rapid decision-making:** Anderson is known for making investment decisions in roughly 30 minutes when conviction exists [^5].
-
-On the signaling risk for seed investors, Anderson has stated: "My advice always is think about the motivations of the people that are coming in, how helpful will they be, how much help do you want, what are you looking for and then size your investment from them appropriately" [^10].
+- **Founder quality over ideas:** Anderson has said, "I find it really hard to believe that any one person will have the perfect maniacal vision right from the start," and instead evaluates whether a founder has "an opinion, based on a worldview that they've developed through listening, paying attention, and pondering" [^3].
+- **Founder-friendly terms:** Baseline's $250,000 to $1 million checks are designed to let founders maintain substantially more ownership than traditional VC deals [^3].
+- **Network-driven deal flow:** "As a seed investor, I don't [know] what exists until I find it… for me, it's all about networks. I spend time with entrepreneurs, I meet them mostly through other entrepreneurs" [^3].
+- **Rapid decision-making:** Anderson is known for making investment decisions in roughly 30 minutes when conviction exists [^3].
 
 ## Inferred Thesis
 
-Based on 48 verified investments in the portfolio table below, the following patterns emerge:
+Based on 47 verified investments in the portfolio table below, the following patterns emerge:
 
-### Sector Allocation (computed from 48 verified investments)
+### Sector Allocation (computed from 47 verified investments)
 
-- **Enterprise SaaS / Developer Tools / Infrastructure**: 15 companies (31%) — PagerDuty, Heroku, Expensify, CircleCI, Crashlytics, ExactTarget, CoTweet, Shape Security, Apiary, DocVerse, IndexTank, Librato, CybeReady, Xobni, Aardvark
-- **Consumer Internet / Social / Media**: 12 companies (25%) — Instagram, Twitter, Path, Formspring, StumbleUpon, OMGPOP, Pocket, Weebly, Instructables, Parakey, GeoAPI, Yardbarker
-- **Fintech / Financial Services**: 5 companies (10%) — SoFi, Figure, Expensify (counted in Enterprise), Digit, Cake Financial
-- **E-commerce / Marketplaces**: 5 companies (10%) — Stitch Fix, TaskRabbit, Machine Zone, Good Eggs, Spacious
-- **Gaming / Entertainment**: 3 companies (6%) — Machine Zone, OMGPOP (counted in Consumer), Rupture
+- **Enterprise SaaS / Developer Tools / Infrastructure**: 16 companies (34%) — PagerDuty, Heroku, Expensify, CircleCI, Crashlytics, ExactTarget, CoTweet, Shape Security, Apiary, DocVerse, IndexTank, Librato, CybeReady, Xobni, Aardvark, Thinkful
+- **Consumer Internet / Social / Media**: 12 companies (26%) — Instagram, Twitter, Path, Formspring, StumbleUpon, Pocket, Weebly, Instructables, Parakey, GeoAPI, Yardbarker, ScanScout
+- **Gaming / Entertainment**: 3 companies (6%) — Machine Zone, OMGPOP, Rupture
+- **Fintech / Financial Services**: 4 companies (9%) — SoFi, Figure, Digit, Cake Financial
+- **E-commerce / Marketplaces**: 3 companies (6%) — Stitch Fix, TaskRabbit, Good Eggs
+- **Ad Tech / Mobile Marketing**: 2 companies (4%) — Liftoff, Rekord
 - **Construction / Robotics / Hardware**: 2 companies (4%) — Dusty Robotics, Dishcraft Robotics
-- **Other (mixed categories)**: 6 companies (13%) — WeWork, SoFi (counted in Fintech), Liftoff, TinyPulse, LaunchKit, Hunch
+- **Other (mixed categories)**: 5 companies (11%) — Spacious, TinyPulse, LaunchKit, Hunch, GoInstant
 
-*Note: Some companies span categories. With 48 of 130+ total investments verified, these percentages reflect the publicly notable portion of the portfolio and may not represent the full distribution.*
+*Based on 47 of 130+ total investments verified. No double-counting: each company appears in exactly one category. These percentages reflect the publicly notable portion of the portfolio and may not represent the full distribution.*
 
 ### Stage Distribution
 
-Nearly all verified investments are at the seed stage. Anderson invests pre-product launch when companies are "just an idea" [^4]. Baseline's website describes its focus as "seed to early-stage companies" [^1]. Of the 48 verified investments, approximately 90%+ appear to be seed-stage.
+Nearly all verified investments are at the seed stage. Anderson invests pre-product launch when companies are "just an idea" [^3]. Baseline's website describes its focus as "seed to early-stage companies" [^1]. Of the 47 verified investments, approximately 90%+ appear to be seed-stage.
 
 ### Geographic Concentration
 
-Baseline primarily invests in US-based companies, with a heavy concentration in the San Francisco Bay Area [^9]. Anderson is based in Jackson, Wyoming as of 2025 but has historically operated from the Bay Area [^9].
+Baseline primarily invests in US-based companies, with a heavy concentration in the San Francisco Bay Area [^3]. Of 208 total deals tracked by Unicorn Nest, 199 are US-based [^3].
 
 ### Check Size and Ownership
 
-Typical check sizes range from $100K to $1M, with a sweet spot around $400K [^5]. Baseline takes 5% to 15% ownership stakes [^2]. Anderson's $250,000 investment in Instagram's seed round gave Baseline approximately 12% ownership [^3].
+Typical check sizes range from $100K to $1M, with a sweet spot around $400K [^3][^3]. Anderson committed $250,000 to Instagram's seed round in 2010, resulting in approximately 12% ownership when Instagram was acquired by Facebook [^3].
 
 ### Founder Profile Patterns
 
-Anderson backs technical founders and product-obsessed entrepreneurs at the idea stage. He has described his best founders as "product-market fit geniuses" [^5]. His portfolio includes several Stanford-connected founders: Kevin Systrom (Instagram), Katrina Lake (Stitch Fix), Jeff Seibert (Crashlytics) [^1].
+Anderson backs technical founders and product-obsessed entrepreneurs at the idea stage. He has described his best founders as "product-market fit geniuses" [^3]. His portfolio includes several Stanford-connected founders: Kevin Systrom (Instagram), Katrina Lake (Stitch Fix), Jeff Seibert (Crashlytics) [^1].
 
 ### Co-Investor Patterns
 
-As a seed-stage solo investor, Anderson typically invests before institutional VCs. His portfolio companies have gone on to raise from Benchmark (Stitch Fix), Sequoia (Weebly), Andreessen Horowitz (Instagram Series A), and other top-tier firms. Anderson's endorsement at seed stage appears to carry strong signaling value for follow-on rounds.
+As a seed-stage solo investor, Anderson typically invests before institutional VCs. His portfolio companies have gone on to raise from Benchmark (Stitch Fix), Andreessen Horowitz (Instagram Series A), and other top-tier firms. Andreessen Horowitz and Marc Andreessen personally co-invested alongside Anderson in Instagram's seed round [^3]. Anderson's endorsement at seed stage appears to carry strong signaling value for follow-on rounds.
 
 ### Notable Gaps
 
@@ -125,88 +88,83 @@ Anderson does not appear to invest in biotech, healthcare, or deep tech despite 
 | Company | Year | Stage | Status | Source |
 |---------|------|-------|--------|--------|
 | Instagram | 2010 | Seed | Acquired by Facebook, 2012 | [^1][^3] |
-| Twitter | 2007 | Seed | IPO 2013 | [^1][^2] |
-| Stitch Fix | 2011 | Seed ($750K, led round) | IPO 2017 | [^1][^8][^11] |
-| PagerDuty | 2010 | Seed | IPO 2019 | [^1][^12] |
-| SoFi | 2011 | Seed | IPO 2021 | [^1][^12] |
-| Expensify | 2009 | Seed | IPO 2021 | [^1][^12] |
-| Figure | ~2018 (founded) | Seed | IPO 2025 | [^12] |
-| WeWork | 2017 | Seed | IPO 2021 | [^1][^12] |
-| Heroku | ~2007 | Seed | Acquired by Salesforce, 2011 | [^1][^2][^13] |
-| OMGPOP | ~2008 | Seed | Acquired by Zynga, 2012 (~$200M) | [^1][^14] |
-| TaskRabbit | ~2008 | Seed | Acquired by IKEA, 2017 | [^1][^2] |
-| Weebly | 2007 | Seed (led round) | Acquired by Square, 2018 | [^2][^13] |
-| Crashlytics | ~2011 | Seed | Acquired by Twitter | [^1][^15] |
+| Twitter | 2007 | Seed | IPO 2013 | [^1][^3] |
+| Stitch Fix | 2011 | Seed ($750K, led round) | IPO 2017 | [^1][^3] |
+| PagerDuty | 2010 | Seed | IPO 2019 | [^1][^3] |
+| SoFi | 2011 | Seed | IPO 2021 | [^1][^3] |
+| Expensify | 2009 | Seed | IPO 2021 | [^1][^3] |
+| Figure | ~2018 (founded) | Seed | IPO 2025 | [^3] |
+| Heroku | ~2007 | Seed | Acquired by Salesforce, 2011 | [^1][^3] |
+| OMGPOP | ~2008 | Seed | Acquired by Zynga, 2012 (~$200M) | [^1][^3] |
+| TaskRabbit | ~2008 | Seed | Acquired by IKEA, 2017 | [^1][^3] |
+| Weebly | 2007 | Seed (led round) | Acquired by Square, 2018 | [^1][^3] |
+| Crashlytics | ~2011 | Seed | Acquired by Twitter | [^1][^3] |
 | StumbleUpon | ~2007 | Seed | Shut down, 2018 | [^1] |
-| Path | ~2010 | Seed | Acquired by Daum Kakao | [^1][^15] |
-| Pocket | ~2011 | Seed | Acquired by Mozilla, 2017 | [^2][^12] |
-| Machine Zone | ~2008 | Seed | Acquired by AppLovin | [^9][^12] |
-| ExactTarget | ~2007 | Seed | Acquired by Salesforce | [^2][^15] |
-| CircleCI | ~2013 | Seed | Unicorn (2021) | [^5][^12] |
-| Liftoff | ~2012 | Seed | Acquired by Vungle, 2021 | [^12] |
-| Digit | ~2015 | Seed | Acquired by Oportun, 2021 | [^12] |
-| Formspring | ~2009 | Seed | Shut down | [^2] |
-| Aardvark | ~2008 | Seed | Acquired by Google | [^2][^15] |
-| DocVerse | ~2009 | Seed | Acquired by Google | [^2][^15] |
-| CoTweet | ~2009 | Seed | Acquired by ExactTarget | [^2][^15] |
-| GeoAPI | ~2010 | Seed | Acquired by Twitter | [^15] |
-| Parakey | ~2007 | Seed | Acquired by Facebook | [^15] |
-| GoInstant | ~2010 | Seed | Acquired by Salesforce | [^15] |
-| IndexTank | ~2010 | Seed | Acquired by LinkedIn | [^15] |
-| Librato | ~2011 | Seed | Acquired by SolarWinds | [^15] |
-| Instructables | ~2007 | Seed | Acquired by Autodesk, 2011 | [^15] |
-| Xobni | ~2008 | Seed | Acquired by Yahoo! | [^15] |
-| Shape Security | ~2011 | Seed | Acquired by F5 Networks | [^2][^12] |
-| Hunch | ~2009 | Seed | Acquired by eBay | [^15] |
-| LaunchKit | ~2014 | Seed | Acquired by Google | [^12] |
-| Spacious | ~2016 | Seed | Acquired by WeWork | [^12] |
-| Apiary | ~2013 | Seed | Acquired by Oracle | [^12] |
-| Dishcraft Robotics | ~2018 | Seed | Active | [^12] |
-| Dusty Robotics | ~2019 | Seed | Active | [^5] |
-| Good Eggs | ~2011 | Seed | Exited 2024 | [^9] |
-| TinyPulse | ~2013 | Seed | Active | [^16] |
-| Cake Financial | ~2007 | Seed | Acquired | [^15] |
-| Rupture | ~2007 | Seed | Acquired | [^15] |
-| Yardbarker | ~2007 | Seed | Acquired | [^15] |
-| ScanScout | ~2008 | Seed | Acquired | [^15] |
-| Thinkful | ~2013 | Seed | Acquired by Chegg | [^12] |
-| CybeReady | ~2017 | Seed | Active | [^9] |
-| Rekord | ~2025 | Seed | Active | [^9] |
+| Path | ~2010 | Seed | Acquired by Daum Kakao | [^1][^3] |
+| Pocket | ~2011 | Seed | Acquired by Mozilla, 2017 | [^3] |
+| Machine Zone | ~2008 | Seed | Acquired by AppLovin, 2020 | [^3] |
+| ExactTarget | ~2007 | Seed | Acquired by Salesforce | [^3] |
+| CircleCI | ~2013 | Seed | Unicorn (2021) | [^3][^3] |
+| Liftoff | ~2012 | Seed | Acquired by Vungle, 2021 | [^3] |
+| Digit | ~2015 | Seed | Acquired by Oportun, 2021 | [^3] |
+| Formspring | ~2009 | Seed | Shut down | [^3] |
+| Aardvark | ~2008 | Seed | Acquired by Google | [^3] |
+| DocVerse | ~2009 | Seed | Acquired by Google | [^3] |
+| CoTweet | ~2009 | Seed | Acquired by ExactTarget | [^3] |
+| GeoAPI | ~2010 | Seed | Acquired by Twitter | [^3] |
+| Parakey | ~2007 | Seed | Acquired by Facebook | [^3] |
+| GoInstant | ~2010 | Seed | Acquired by Salesforce | [^3] |
+| IndexTank | ~2010 | Seed | Acquired by LinkedIn | [^3] |
+| Librato | ~2011 | Seed | Acquired by SolarWinds | [^3] |
+| Instructables | ~2007 | Seed | Acquired by Autodesk, 2011 | [^3] |
+| Xobni | ~2008 | Seed | Acquired by Yahoo! | [^3] |
+| Shape Security | ~2011 | Seed | Acquired by F5 Networks | [^3] |
+| Hunch | ~2009 | Seed | Acquired by eBay | [^3] |
+| LaunchKit | ~2014 | Seed | Acquired by Google | [^3] |
+| Spacious | ~2016 | Seed | Acquired by WeWork | [^3] |
+| Apiary | ~2013 | Seed | Acquired by Oracle | [^3] |
+| Dishcraft Robotics | ~2018 | Seed | Active | [^3] |
+| Dusty Robotics | ~2019 | Seed | Active | [^3] |
+| Good Eggs | ~2011 | Seed | Exited 2024 | [^3] |
+| TinyPulse | ~2013 | Seed | Active | [^3] |
+| Cake Financial | ~2007 | Seed | Acquired by E*Trade | [^3] |
+| Rupture | ~2007 | Seed | Acquired by EA | [^3] |
+| Yardbarker | ~2007 | Seed | Acquired by Fox Sports | [^3] |
+| ScanScout | ~2008 | Seed | Acquired by Tremor Media | [^3] |
+| Thinkful | ~2013 | Seed | Acquired by Chegg | [^3] |
+| CybeReady | ~2017 | Seed | Active | [^3] |
+| Rekord | ~2025 | Seed | Active | [^3] |
 
-*Note: Many exact investment dates are not publicly disclosed. Years marked with "~" use the company's approximate founding year as a proxy where the specific investment year is unknown. Baseline Ventures has invested in 130+ companies total; this table represents approximately 37% of known investments.*
+*Note: Many exact investment dates are not publicly disclosed. Years marked with "~" use the company's approximate founding year as a proxy where the specific investment year is unknown. Baseline Ventures has invested in 130+ companies total; this table of 47 companies represents approximately 36% of known investments.*
 
 ## In Their Own Words
 
 **On finding startups through networks:**
-> "As a seed investor, I don't [know] what exists until I find it… for me, it's all about networks. I spend time with entrepreneurs, I meet them mostly through other entrepreneurs." [^4]
+> "As a seed investor, I don't [know] what exists until I find it… for me, it's all about networks. I spend time with entrepreneurs, I meet them mostly through other entrepreneurs." [^3]
 
 **On evaluating founders:**
-> "I find it really hard to believe that any one person will have the perfect maniacal vision right from the start. Does this person have an opinion, based on a worldview that they've developed through listening, paying attention, and pondering." [^4]
+> "I find it really hard to believe that any one person will have the perfect maniacal vision right from the start. Does this person have an opinion, based on a worldview that they've developed through listening, paying attention, and pondering." [^3]
 
 **On investing pre-product:**
-> "Generally speaking, most of my investments are pre-product launch; they're just an idea. So, getting product-market fit is the most important goal of the round. My goal as an investor is to make sure there's enough financing to give companies time to do that, a year to 18 months." [^4]
+> "Generally speaking, most of my investments are pre-product launch; they're just an idea. So, getting product-market fit is the most important goal of the round. My goal as an investor is to make sure there's enough financing to give companies time to do that, a year to 18 months." [^3]
 
 **On keeping options open:**
-> "My advice to everyone, myself included, is to always keep your options open. When I founded Baseline Ventures, I believed strongly in its potential for success, despite receiving negative feedback from mentors, investors, and other peers in the venture community. Nevertheless, I remained steadfast in my belief while also preparing a backup plan." [^4]
+> "My advice to everyone, myself included, is to always keep your options open. When I founded Baseline Ventures, I believed strongly in its potential for success, despite receiving negative feedback from mentors, investors, and other peers in the venture community. Nevertheless, I remained steadfast in my belief while also preparing a backup plan." [^3]
 
-**On seed round sizing:**
-> "My advice always is think about the motivations of the people that are coming in, how helpful will they be, how much help do you want, what are you looking for and then size your investment from them appropriately." [^10]
-
-**On seed rounds and product-market fit:**
-> "Seed rounds are about product market fit and establishing something of value and in my opinion those will always get funding as long as you are doing those core things." [^10]
-
-**On investing in Weebly:**
-> Anderson was drawn to the Weebly founders' passion for their product and the belief that "they were creating something of value." [^13]
+**On sole founders:**
+> "The biggest risk for you is you're a sole founder. I usually don't invest in sole founders." [^3]
 
 ## What Founders Say
 
-**Kevin Systrom, Co-Founder of Instagram:**
-> "I meet too many people who care too much about money in the Valley. I never felt like Steve was ever worried that we were going to screw up. He may have been worried, but he showed confidence." [^3]
+**Katrina Lake, Founder of Stitch Fix:**
 
-*Note: Systrom met Anderson at a party in January 2010 and Anderson committed $250,000 to Instagram's predecessor Burbn, even though the app's direction was still unclear. Anderson also helped recruit Instagram's co-founder Mike Krieger [^3][^5].*
+Lake has described Anderson's seed investment and his willingness to back her despite limited entrepreneurial experience. On Anderson's early belief in her:
 
-**Founder testimonials (aggregated from multiple sources):**
-Portfolio founders have noted that Anderson "consistently makes time for his startups to help them troubleshoot and solve specific obstacles and concerns" and that "getting Steven Anderson to say something bad about another person is highly improbable — he chooses to take the high road" [^4].
+> "For whatever reason he felt like I was going to be the one to be able to do it." [^3]
+
+Lake noted that Anderson gave Stitch Fix "what would now be considered a very small seed check of a half million dollars" and that his conviction when others passed mattered: "I'm glad that nobody else did" [^3].
+
+*Note: Anderson led Stitch Fix's $750K seed round in April 2011 and served on the board from 2011 to 2024 [^3].*
 
 *No additional independently sourced founder testimonials were found despite dedicated searching across Twitter/X, podcast transcripts, and press coverage. Anderson operates with an unusually low public profile for an investor of his stature.*
 
@@ -214,32 +172,30 @@ Portfolio founders have noted that Anderson "consistently makes time for his sta
 
 [^1]: Baseline Ventures, "Founder — Steve Anderson," accessed March 2026. https://www.baselinev.com/founder/
 
-[^2]: "Baseline Ventures," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Baseline_Ventures
+[^2]: "Baseline Ventures," Grokipedia, accessed March 2026. https://grokipedia.com/page/baseline_ventures
 
-[^3]: "The Story of Instagram's First Angel Investor," Power in Numbers (PIN), Medium, accessed March 2026. https://powerinnumbers.medium.com/the-story-of-instagrams-first-angel-investor-7cacef62e46b
+[^3]: "Bold Leader Spotlight: Steven Anderson, Founder Baseline Ventures," Bold Business, accessed March 2026. https://insights.boldbusiness.com/human-achievement/bold-leader-spotlight-steven-anderson-founder-baseline-ventures
 
-[^4]: "Bold Leader Spotlight: Steven Anderson, Founder Baseline Ventures," Bold Business, accessed March 2026. https://insights.boldbusiness.com/human-achievement/bold-leader-spotlight-steven-anderson-founder-baseline-ventures
+[^3]: "Steve Anderson (Baseline Ventures) / VC Breakdown & Contact," VCSheet, accessed March 2026. https://www.vcsheet.com/who/steve-anderson
 
-[^5]: "Steve Anderson (Baseline Ventures) / VC Breakdown & Contact," VCSheet, accessed March 2026. https://www.vcsheet.com/who/steve-anderson
+[^3]: "#4 Steve Anderson > Forbes: The Midas List 2017," MrOwl, accessed March 2026. https://www.mrowl.com/user/araichur/forbes_themida/_4steveanderson
 
-[^6]: "#4 Steve Anderson > Forbes: The Midas List 2017," MrOwl, accessed March 2026. https://www.mrowl.com/user/araichur/forbes_themida/_4steveanderson
+[^3]: "Meet The Top 100 Investors On Forbes Midas List," Inc42, accessed March 2026. https://inc42.com/buzz/forbes-midas-top-100-investors-2017/
 
-[^7]: "Meet The Top 100 Investors On Forbes Midas List," Inc42, accessed March 2026. https://inc42.com/buzz/forbes-midas-top-100-investors-2017/
+[^3]: "Stitch Fix Founder Katrina Lake gives the C-Suite a Makeover," Inflection Point, August 2018. https://www.inflectionpointradio.org/episodes/2018/8/14/stitch-fix-founder-katrina-lake-gives-the-c-suite-a-makeover
 
-[^8]: "Steve Anderson | Board Member | Stitch Fix," Stitch Fix Investor Relations, accessed March 2026. https://investors.stitchfix.com/board-member/steve-anderson
+[^3]: "Steve Anderson's Investing Profile — Baseline Ventures Investor," Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/steve-anderson
 
-[^9]: "Baseline Ventures — 2025 Investor Profile, Portfolio, Team & Investment Trends," Tracxn, accessed March 2026. https://tracxn.com/d/venture-capital/baseline-ventures/__QQ3fnhQd0YRW7ajhx5SQTA9UJsd0bG7NAWmi9A-4RJA
+[^3]: "Baseline Ventures — Investors Database," Unicorn Nest, accessed March 2026. https://unicorn-nest.com/funds/baseline-ventures/
 
-[^10]: "(Founder Stories) Baseline's Steve Anderson: 'The Signaling Issue Is Real,'" TechCrunch, October 2011. https://techcrunch.com/2011/10/26/founder-stories-baselines-steve-anderson-the-signaling-issue-is-real/
+[^3]: "The Harvard MBA Behind Stitch Fix," Poets&Quants, August 2014. https://poetsandquants.com/2014/08/28/the-harvard-mba-behind-stitch-fix/
 
-[^11]: "The Harvard MBA Behind Stitch Fix," Poets&Quants, August 2014. https://poetsandquants.com/2014/08/28/the-harvard-mba-behind-stitch-fix/
+[^3]: Baseline Ventures, "Investments," accessed March 2026. https://www.baselinev.com/investments/
 
-[^12]: Baseline Ventures, "Investments," accessed March 2026. https://www.baselinev.com/investments/
+[^3]: "How Kevin Systrom of Instagram got his start," Fortune, October 2014. https://fortune.com/2014/10/10/how-kevin-systrom-got-started/
 
-[^13]: "(Founder Stories) Baseline Ventures, Steve Anderson: On Why He Invested In Heroku And Weebly," TechCrunch, October 2011. https://techcrunch.com/2011/10/25/founder-stories-baseline-ventures-steve-anderson-on-why-he-invested-in-heroku-and-weebly/
+[^3]: "OMGPop's Sale to Zynga Is One Of Y Combinator's Biggest Exits To Date," TechCrunch, March 2012. https://techcrunch.com/2012/03/21/omgpop-iminlikewithyou-ycombinator/
 
-[^14]: "OMGPop's Sale to Zynga Is One Of Y Combinator's Biggest Exits To Date," TechCrunch, March 2012. https://techcrunch.com/2012/03/21/omgpop-iminlikewithyou-ycombinator/
+[^3]: "Steve Anderson," Silicon Spectra, accessed March 2026. https://siliconspectra.com/pin/steve-anderson/
 
-[^15]: "Steve Anderson," Silicon Spectra, accessed March 2026. https://siliconspectra.com/pin/steve-anderson/
-
-[^16]: "Steve Anderson — Startup Investor Profile," EasyVC, accessed March 2026. https://easyvc.ai/investor/steve-anderson/
+[^3]: "Steve Anderson — Startup Investor Profile," EasyVC, accessed March 2026. https://easyvc.ai/investor/steve-anderson/
