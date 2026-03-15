@@ -3,7 +3,7 @@ name: "Shuly Galili"
 slug: shuly-galili
 type: individual
 firm: upwest
-role: "Co-Founding Partner"
+role: "Founding Partner"
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [cybersecurity, enterprise-saas, ai, devops, digital-health, agritech, fintech]
@@ -11,8 +11,19 @@ check_size: "$250K-$4M"
 social:
   twitter: "@shulygalili"
   linkedin: "linkedin.com/in/shulygalili"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. Role title: UpWest website [^2] says "Founding Partner" not "Co-Founding Partner" — fixed in frontmatter but body line 20 still says "Co-Founding Partner"
+  2. $120M claim (line 26) cites [^11] but source says $100M not $120M — must correct to $100M
+  3. "more than 100 Israeli startups" cites [^1][^12] but [^1] (portfolio page) says "90+ COMPANIES" — remove [^1] cite or reconcile
+  4. [^7] Crunchbase 403: "accelerated over 500 Israeli startups" claim (line 24) partially relies on dead source
+  5. [^15] DeepCast URL is dead (ECONNREFUSED): "market first thinkers" quote cannot be verified from accessible sources
+  6. "critical phase of pre-product/market fit" (line 70) cites [^4][^15] — not found in either accessible source
+  7. Follow-on investor names (line 74): Tiger Global, Insight Partners, Ribbit Capital not supported by cited sources [^3][^9] — only SignalFire/Stampli confirmed in [^3]
+  8. [^12] cited for $20B market cap but source doesn't mention it — only [^1] supports this claim
+  9. [^13] description is vague ("various sources") — needs specific source for Geektime claim
+  10. LinkedIn recommendation quotes (line 154) citing [^20] could not be verified verbatim in LinkedIn fetch
 ---
 
 ## Background
