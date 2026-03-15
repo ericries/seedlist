@@ -2602,3 +2602,35 @@ queue:
   priority: normal
   status: pending
   added: 2026-03-15
+- name: Overture/GoTo.com
+  type: startup
+  source: founded by Bill Gross at Idealab 1998, invented paid search/CPC model, acquired by Yahoo for ~$1.63B in 2003
+  discovered_from: bill-gross
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Heliogen
+  type: startup
+  source: concentrated solar power company founded by Bill Gross at Idealab in 2013, went public 2021, backed by Bill Gates
+  discovered_from: bill-gross
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Energy Vault
+  type: startup
+  source: gravity-based energy storage co-founded by Bill Gross, went public via SPAC 2022, backed by SoftBank
+  discovered_from: bill-gross
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: ProRata.ai
+  type: startup
+  source: AI attribution company founded by Bill Gross in 2024, raised $65M+, backed by Revolution Ventures
+  discovered_from: bill-gross
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
