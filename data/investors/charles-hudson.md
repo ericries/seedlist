@@ -11,20 +11,13 @@ check_size: "$250K-$500K"
 social:
   twitter: "@chudson"
   linkedin: "linkedin.com/in/chudson"
-status: flagged
-review_notes: |
-  1. Source [^18] (Carta innovator-stories/charles-hudson) returns 403. Quote about patience on line 161 cannot be verified. Dead URL must be replaced or claim removed.
-  2. Source [^11] (Tracxn) is paywalled and didn't render. Claims about 121 seed / 22 Series A investments and average round sizes (line 57) cannot be independently verified. Portfolio entries Sora [^11], Kraftful [^11], Hype [^11] also unverifiable from this source alone.
-  3. Quote misquoted on line 152: profile says "I can predict the check size and involvement level" but source [^17] actually says "I can probably predict the size check that you like to write." "Involvement level" was added and "probably" was dropped.
-  4. Women's health quote on line 167 attributed to [^5] (First Funders podcast) could not be found in the transcript. Needs correct source attribution or removal.
-  5. In-Q-Tel introduction story (line 20) says "a connection from Excite...who knew Gilman Louie, In-Q-Tel's leader." Source [^5] actually describes Amy Chan at Excite telling Hudson about her husband starting a CIA-funded VC fund. The Gilman Louie attribution may be inaccurate.
-  6. Line 161 "patience" quote uses third-person ("he must keep") in what should be a first-person direct quote section. This is a paraphrase presented as a quote.
+status: published
 last_researched: 2026-03-14
 ---
 
 ## Background
 
-Charles Edward Hudson III grew up near Detroit, Michigan [^1][^2]. He moved to California in the late 1990s to attend Stanford University, where he earned a BA in Economics and Spanish [^2][^3]. After graduating in 2000, he joined In-Q-Tel, the CIA's strategic venture capital arm, where he spent approximately 3.5 years investing in areas including drones, big data, IoT, autonomous vehicles, and sensor networks [^2][^4][^5]. He was introduced to In-Q-Tel through a connection from Excite, one of the early search engine companies, who knew Gilman Louie, In-Q-Tel's leader at the time [^5].
+Charles Edward Hudson III grew up near Detroit, Michigan [^1][^2]. He moved to California in the late 1990s to attend Stanford University, where he earned a BA in Economics and Spanish [^2][^3]. After graduating in 2000, he joined In-Q-Tel, the CIA's strategic venture capital arm, where he spent approximately 3.5 years investing in areas including drones, big data, IoT, autonomous vehicles, and sensor networks [^2][^4][^5]. He was introduced to In-Q-Tel through Amy Chan, whom he had met while interning at Excite during his senior year at Stanford. Chan told him that her husband was starting a venture capital fund backed by the CIA, and arranged a breakfast meeting in San Francisco where Hudson was offered the job [^5].
 
 After In-Q-Tel, Hudson attended Stanford Graduate School of Business for his MBA [^2][^3]. In 2005, he became a Product Manager at IronPort Systems, an email security company [^2]. In 2006, he joined Google as a Business Development Manager, where he witnessed the company grow from approximately 5,000 to 25,000 employees [^2]. He subsequently worked at Gaia Online, a gaming company [^2].
 
@@ -61,15 +54,15 @@ Based on 30 verified investments in the portfolio table below (out of 400+ total
 
 ### Stage Distribution
 
-Based on Tracxn data, Precursor has made 121 seed-stage investments (with average round size of $3.12M) and 22 Series A investments (average $9.71M), plus 1 angel-stage investment [^11]. The firm invests overwhelmingly at pre-seed and seed, typically as the first institutional check [^4][^8].
+The firm invests overwhelmingly at pre-seed and seed, typically as the first institutional check [^4][^8]. Hudson has described Precursor as having made over 400 investments across five funds [^5], with the vast majority at the pre-seed stage.
 
 ### Geographic Concentration
 
-Investments are primarily in US and Canada, with San Francisco as the primary hub [^9][^12]. Mercury's investor database also lists Africa, Latin America, and Middle East/North Africa as geographic areas of interest [^12].
+Investments are primarily in US and Canada, with San Francisco as the primary hub [^9][^11]. Mercury's investor database also lists Africa, Latin America, and Middle East/North Africa as geographic areas of interest [^11].
 
 ### Check Size
 
-Typical checks are $250K-$500K, with the firm deliberately capping fund size to maintain this range [^8][^9]. Earlier funds wrote checks of $100K-$250K [^4][^13]. The firm targets round sizes under $4M [^9].
+Typical checks are $250K-$500K, with the firm deliberately capping fund size to maintain this range [^8][^9]. Earlier funds wrote checks of $100K-$250K [^4][^12]. The firm targets round sizes under $4M [^9].
 
 ### Founder Profile Patterns
 
@@ -77,41 +70,41 @@ Hudson's portfolio skews heavily toward first-time founders without traditional 
 
 ### Co-investor Patterns
 
-As a pre-seed investor, Precursor typically invests before larger firms. Notable portfolio companies have gone on to raise from Andreessen Horowitz (Incredible Health), Kleiner Perkins (Modern Health), and other top-tier firms [^14][^15]. The firm positions itself as a bridge to larger institutional rounds.
+As a pre-seed investor, Precursor typically invests before larger firms. Notable portfolio companies have gone on to raise from Andreessen Horowitz (Incredible Health), Kleiner Perkins (Modern Health), and other top-tier firms [^13][^14]. The firm positions itself as a bridge to larger institutional rounds.
 
 ### Notable Gaps
 
-Despite being a self-described generalist, Hudson explicitly excludes advertising technology (adtech), marketing technology (martech), sales enablement [^3], and deep tech/biotech [^12]. The women's health concentration is a pattern Hudson himself notes as surprising for a male-led fund [^5].
+Despite being a self-described generalist, Hudson explicitly excludes advertising technology (adtech), marketing technology (martech), sales enablement [^3], and deep tech/biotech [^11]. The women's health concentration is a pattern Hudson himself notes as surprising for a male-led fund [^19].
 
 ## Portfolio
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | The Athletic | ~2016 | Pre-seed | Sports Media | [^1][^4] |
-| Juniper Square | ~2016 | Pre-seed | Real Estate Tech | [^4][^16] |
+| Juniper Square | ~2016 | Pre-seed | Real Estate Tech | [^4][^15] |
 | Vungle | ~2012 | Seed | Mobile Advertising | [^7] |
 | TopHat | ~2015 | Seed | Education | [^4] |
 | DroneDeploy | ~2015 | Seed | Drones/IoT | [^4] |
-| Modern Health | 2018 | Seed | Mental Health | [^4][^15] |
-| Incredible Health | ~2018 | Seed | Healthcare/Hiring | [^4][^14] |
+| Modern Health | 2018 | Seed | Mental Health | [^4][^14] |
+| Incredible Health | ~2018 | Seed | Healthcare/Hiring | [^4][^13] |
 | Carrot Fertility | ~2018 | Pre-seed | Fertility Tech | [^1][^4] |
-| Bobbie | ~2018 | Pre-seed | Consumer/Baby Formula | [^1][^16] |
+| Bobbie | ~2018 | Pre-seed | Consumer/Baby Formula | [^1][^15] |
 | Clearco | ~2018 | Seed | Fintech | [^4][^10] |
 | Shippo | ~2016 | Seed | Shipping/Logistics | [^4] |
 | Noyo | ~2018 | Seed | Health Insurance API | [^4] |
-| Superhuman | ~2017 | Seed | Email/Productivity | [^9][^12] |
+| Superhuman | ~2017 | Seed | Email/Productivity | [^9][^11] |
 | Pair Eyewear | ~2019 | Pre-seed | E-commerce/Eyewear | [^1][^9] |
 | Rad AI | ~2019 | Pre-seed | Healthcare AI | [^1][^9] |
-| Finix | ~2019 | Seed | Fintech/Payments | [^12] |
+| Finix | ~2019 | Seed | Fintech/Payments | [^11] |
 | Betty Labs | ~2019 | Pre-seed | Sports/Social | [^10] |
 | Clipboard Health | ~2019 | Pre-seed | Healthcare/Staffing | [^9] |
-| mmhmm | ~2020 | Seed | Video/Presentations | [^9][^12] |
+| mmhmm | ~2020 | Seed | Video/Presentations | [^9][^11] |
 | Shimmer | ~2021 | Pre-seed | Health/ADHD | [^9] |
 | Kinside | ~2020 | Seed | Childcare Benefits | [^7] |
 | Range | ~2020 | Seed | Team Management | [^7] |
-| Sora | ~2021 | Seed | Workflow Automation | [^11] |
-| Kraftful | ~2022 | Pre-seed | AI/Product Feedback | [^11] |
-| Hype | ~2022 | Pre-seed | Fintech/Creator | [^11] |
+| Sora | ~2020 | Seed | HR Automation | [^20] |
+| Kraftful | ~2022 | Pre-seed | AI/Product Feedback | [^21] |
+| Hype | ~2022 | Pre-seed | Creator CRM | [^22] |
 | Kudos | ~2023 | Pre-seed | Consumer/Diapers | [^10] |
 | why?! | ~2023 | Pre-seed | Social Networking | [^10] |
 | Diem | ~2023 | Pre-seed | Social Networking | [^10] |
@@ -156,29 +149,29 @@ Despite being a self-described generalist, Hudson explicitly excludes advertisin
 > "I try to be an honest broker for all of our portfolio companies. If I think that they're off track and they don't see it, hopefully, we've built enough trust and respect that I have the space to tell them." [^10]
 
 **On fund size:**
-> "Fund size is destiny. If you tell me how large your fund is, I can predict the check size and involvement level." [^17]
+> "I've always believed that fund size is destiny. If you tell me how large your fund is, I can probably predict the size check that you like to write and where you like to get involved." [^16]
 
 **On founder ownership:**
-> "I want them to own as much of that business as they possibly can. I want this to be a life changing wealth event for them." [^17]
+> "I want them to own as much of that business as they possibly can. I want this to be a life changing wealth event for them." [^16]
 
 **On the VC industry's impact:**
 > "Something I think about a lot is that the venture capital industry has a disproportionate impact on the future." [^10]
 
 **On patience in venture:**
-> "It takes a very long time to figure out if you're right, and as a fund manager, he must keep founders and limited partners believing in the outcome for probably nine to 12 years before financial returns materialize." [^18]
+> "Part of my job as a fund manager is to keep everybody—the founders that we've backed, the limited partners that have supported us—believing in the outcome, and believing that we're on the right trail, for probably nine to 12 years before the financial returns really start to come back in a material way." [^17]
 
 **On risk:**
 > "I don't think of myself as a risk taker." [^5]
 
 **On women's health investing:**
-> "What on earth is a firm run by a man doing being the largest or, uh, second largest investor in early stage women's health? It's because I kept meeting all these really talented founders who were like, there are all these problems in women's health that are simply not getting addressed." [^5]
+> "What on earth is a firm run by a man doing being the largest or, uh, second largest investor in early stage women's health? It's because I kept meeting all these really talented founders who were like, there are all these problems in women's health that are simply not getting addressed." [^19]
 
 **On testing investors:**
-> "This whole ecosystem would work better if people just told the truth." [^19]
+> "This whole ecosystem would work better if people just told the truth." [^18]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found after dedicated searching. While Hudson's portfolio includes 400+ companies and 340+ founders, specific public testimonials from founders about their experience working with Hudson are not readily available in public sources. The Precursor Ventures website features founder spotlights (including Iman Abuzeid of Incredible Health and Laura Modi of Bobbie), but these are firm-curated content [^14][^16]. One brief characterization from a secondary source describes Hudson as "never hard to work with" [^8].
+No independently sourced founder testimonials found after dedicated searching. While Hudson's portfolio includes 400+ companies and 340+ founders, specific public testimonials from founders about their experience working with Hudson are not readily available in public sources. The Precursor Ventures website features founder spotlights (including Iman Abuzeid of Incredible Health and Laura Modi of Bobbie), but these are firm-curated content [^13][^15]. One brief characterization from a secondary source describes Hudson as "never hard to work with" [^8].
 
 ## Sources
 
@@ -204,18 +197,26 @@ No independently sourced founder testimonials found after dedicated searching. W
 
 [^11]: "Precursor Ventures -- 2026 Investor Profile, Portfolio, Team & Investment Trends," Tracxn, accessed March 2026. https://tracxn.com/d/venture-capital/precursor-ventures/__Vknk80xpoqiEfIvYCsqOsjnH6qOYzIs0G-ky9qlRf0c
 
-[^12]: "Charles Hudson, Investor Database," Mercury, accessed March 2026. https://mercury.com/investor-database/charles-hudson
+[^11]: "Charles Hudson, Investor Database," Mercury, accessed March 2026. https://mercury.com/investor-database/charles-hudson
 
-[^13]: "Charles Hudson's Investing Profile," Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/charles-hudson
+[^12]: "Charles Hudson's Investing Profile," Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/charles-hudson
 
-[^14]: "Founder Spotlight: Iman Abuzeid's Frameworks for Using Diversity to Win," Precursor Ventures, accessed March 2026. https://precursorvc.com/founder-spotlight-iman-abuzeids-frameworks-for-using-diversity-to-win/
+[^13]: "Founder Spotlight: Iman Abuzeid's Frameworks for Using Diversity to Win," Precursor Ventures, accessed March 2026. https://precursorvc.com/founder-spotlight-iman-abuzeids-frameworks-for-using-diversity-to-win/
 
-[^15]: "Modern Health Raises a $9M Series A Round Led by Kleiner Perkins," PR Newswire, May 2019. https://www.prnewswire.com/news-releases/modern-health-raises-a-9m-series-a-round-led-by-kleiner-perkins-300855797.html
+[^14]: "Modern Health Raises a $9M Series A Round Led by Kleiner Perkins," PR Newswire, May 2019. https://www.prnewswire.com/news-releases/modern-health-raises-a-9m-series-a-round-led-by-kleiner-perkins-300855797.html
 
-[^16]: "Laura Modi, Founder," Precursor Ventures, accessed March 2026. https://precursorvc.com/founder/laura-modi/
+[^15]: "Laura Modi, Founder," Precursor Ventures, accessed March 2026. https://precursorvc.com/founder/laura-modi/
 
-[^17]: "Venture Confidential, Ep. #19, Feat. Charles Hudson of Precursor Ventures," Heavybit, accessed March 2026. https://www.heavybit.com/library/podcasts/venture-confidential/ep-19-feat-charles-hudson-of-precursor-ventures
+[^16]: "Venture Confidential, Ep. #19, Feat. Charles Hudson of Precursor Ventures," Heavybit, accessed March 2026. https://www.heavybit.com/library/podcasts/venture-confidential/ep-19-feat-charles-hudson-of-precursor-ventures
 
-[^18]: "Charles Hudson, Innovator Stories," Carta, accessed March 2026. https://carta.com/innovator-stories/charles-hudson/
+[^17]: "Everything you need to know about Pre-Seed (with Charles Hudson of Precursor Ventures)," Acquired.fm, accessed March 2026. https://www.acquired.fm/episodes/everything-you-need-to-know-about-pre-seed-with-charles-hudson-of-precursor-ventures
 
-[^19]: "Precursor's Charles Hudson believes founders should test their investors," TechCrunch, November 17, 2024. https://techcrunch.com/2024/11/17/2916508/
+[^18]: "Precursor's Charles Hudson believes founders should test their investors," TechCrunch, November 17, 2024. https://techcrunch.com/2024/11/17/2916508/
+
+[^19]: "051: Charles Hudson -- Funding the Forgotten Founder," Mindful Money podcast, November 28, 2024. https://mindful.money/podcast/051-charles-hudson-funding-the-forgotten-founder/
+
+[^20]: "Sora," Precursor Ventures portfolio page, accessed March 2026. https://precursorvc.com/company/sora/
+
+[^21]: "Kraftful," Precursor Ventures portfolio page, accessed March 2026. https://precursorvc.com/company/kraftful/
+
+[^22]: "Creator CRM company Pico rebrands to Hype, raises $10 million," Precursor Ventures news, accessed March 2026. https://precursorvc.com/creator-crm-company-pico-rebrands-to-hype-raises-10-million/

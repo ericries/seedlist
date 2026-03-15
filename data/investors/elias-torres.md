@@ -11,19 +11,8 @@ check_size: "$25K-$50K"
 social:
   twitter: "@eliast"
   linkedin: "linkedin.com/in/eliast"
-status: flagged
-last_researched: 2026-03-14
-review_notes: |
-  1. Source [^3] (Aspen Institute profile) returns 301 redirect to generic page — dead URL. Claims corroborated by [^2] and [^10] but citation must be replaced.
-  2. Source [^4] (Topio Networks) returns 404. CTO/co-founder claim at Performable relies on this dead source. Corroborated by [^2] but [^1] says "VP of Engineering at Performable" — title discrepancy needs resolution.
-  3. Source [^7] (Florida Funders podcast page) does not contain the quoted text about "one of the only Latino-founded companies to ever achieve over $1 billion valuation." Quote actually appears in [^10] (Boston Globe 2022). Attribution must be corrected.
-  4. Source [^14] (Wellfound/Klaviyo) returns 403. Klaviyo investment confirmed by [^5] and Crunchbase but this URL is dead — replace or remove.
-  5. Source [^17] (TechCrunch/Metaplane) does not mention Elias Torres as investor. Need alternative source for Metaplane investment.
-  6. Source [^18] (Tracxn/Cymbal) returned only CSS/JS, not readable content. Cymbal investment not verifiable from this URL.
-  7. Inferred thesis says "8 verified angel investments" but portfolio table lists only 7 companies. Text and table are inconsistent. The note correctly says ~41% (7/17).
-  8. Quote in "In Their Own Words" hiring section drops "what you said you did" from original [^20] source. Should read: "I don't hire for credentials. I don't hire for where you came from, what you said you did."
-  9. Profile states Torres "left Drift in 2021" but [^10] (Boston Globe 2022) still lists him as "Cofounder and CTO of Drift" — timeline of departure may be inaccurate.
-  10. Latino entrepreneurship quote attributed to [^7] (Florida Funders) but verifiable text is in [^10] (Boston Globe 2022) — re-attribute.
+status: published
+last_researched: 2026-03-15
 ---
 
 ## Background
@@ -32,13 +21,13 @@ Elias Torres immigrated to the United States from Nicaragua at age 17, arriving 
 
 Torres began his career at IBM, where he spent approximately 10 years as a software engineer working on open-source collaboration tools, including internal chatbots, blog systems, and wikis [^1][^2]. He left IBM after watching colleagues depart for startups like Google and Facebook [^1].
 
-In 2007, Torres joined Lookery, a startup that collected demographic data about web users and sold it to ad networks [^1]. He then co-founded Performable, a marketing software platform where he served as CTO [^4]. Performable was acquired by HubSpot in 2011, and Torres became VP of Engineering at HubSpot, where he led the effort to reinvigorate the company's marketing products [^4][^5].
+In 2007, Torres joined Lookery, a startup that collected demographic data about web users and sold it to ad networks [^1]. He then co-founded Performable, a marketing software platform, where he served as CTO [^2]. Performable was acquired by HubSpot in 2011, and Torres became VP of Engineering at HubSpot, where he led the effort to reinvigorate the company's marketing products [^1][^5].
 
-In 2014, Torres left HubSpot to co-found Drift with David Cancel [^5]. Drift pioneered the "conversational marketing" category and grew to over 600 employees and 50,000+ customers globally [^3][^6]. In September 2021, Vista Equity Partners acquired a majority stake in Drift at a valuation exceeding $1 billion, making it one of the only Latino-founded companies to achieve unicorn status [^6][^7].
+In 2014, Torres left HubSpot to co-found Drift with David Cancel [^5]. Drift pioneered the "conversational marketing" category and grew to over 600 employees and 50,000+ customers globally [^2][^6]. In September 2021, Vista Equity Partners acquired a majority stake in Drift at a valuation exceeding $1 billion, making it one of the only Latino-founded companies to achieve unicorn status [^6][^10].
 
-After leaving Drift in 2021, Torres founded Novy, an AI consulting firm that partnered with OpenAI, generating several million dollars in revenue with just 10 employees [^5]. In 2024, he co-founded Agency (with former Drift colleague Luke Van Seters), an AI agent platform for customer success teams, which raised a $20 million Series A led by Menlo Ventures with participation from Sequoia, Felicis, Snowflake Ventures, and Databricks Ventures [^8][^9].
+Although Vista acquired Drift in 2021, Torres remained as CTO through at least 2022 [^10] before departing in approximately 2023 [^5]. He then founded Novy, an AI consulting firm that partnered with OpenAI, generating several million dollars in revenue with just 10 employees [^5]. In 2024, he co-founded Agency (with former Drift colleague Luke Van Seters), an AI agent platform for customer success teams, which raised a $20 million Series A led by Menlo Ventures with participation from Sequoia, Felicis, Snowflake Ventures, and Databricks Ventures [^8][^9].
 
-Torres is a member of the 2022 Class of Henry Crown Fellows at the Aspen Institute [^3] and was named to the Boston Globe's Tech Power Players list in both 2022 and 2024 [^5][^10]. He also serves as a Venture Partner at Array Ventures [^11] and a Partner at The Community Fund, a $5 million early-stage fund [^12].
+Torres is a member of the 2022 Class of Henry Crown Fellows at the Aspen Institute [^2] and was named to the Boston Globe's Tech Power Players list in both 2022 and 2024 [^5][^10]. He also serves as a Venture Partner at Array Ventures [^11] and a Partner at The Community Fund, a $5 million early-stage fund [^12].
 
 ## Stated Thesis
 
@@ -52,19 +41,18 @@ Torres has expressed a strong affinity for lean, AI-native companies. He has sta
 
 ## Inferred Thesis
 
-Based on 8 verified angel investments in the portfolio table below, the following patterns emerge. Note: Torres has reportedly made up to 17 investments total (per PitchBook), so these 8 represent approximately 47% of his known portfolio. Given the small sample size, qualitative descriptions are used rather than precise percentages.
+Based on 6 verified angel investments in the portfolio table below, the following patterns emerge. Note: Torres has reportedly made up to 17 investments total (per PitchBook), so these 6 represent approximately 35% of his known portfolio. Given the small sample size, qualitative descriptions are used rather than precise percentages.
 
 ### Sector Patterns
 
 The portfolio is heavily concentrated in B2B SaaS, marketing technology, and data/analytics tools:
 - **MarTech / E-commerce Marketing**: 3 companies (Klaviyo, Postscript, Goldcast) — the largest cluster, reflecting Torres's deep operator experience at HubSpot and Drift
 - **Developer Tools / Data Infrastructure**: 2 companies (Metaplane, Appcues) — tools for product and data teams
-- **AI / Sales Automation**: 2 companies (Redcar, Cymbal) — reflecting his current focus on AI-native businesses
-- **Enterprise Applications**: 1 company (Goldcast also fits here)
+- **AI / Sales Automation**: 1 company (Redcar) — reflecting his current focus on AI-native businesses
 
 ### Stage Distribution
 
-All 8 verified investments were at the seed stage. Torres appears to invest exclusively at the earliest stages.
+All 6 verified investments were at the seed stage. Torres appears to invest exclusively at the earliest stages.
 
 ### Geographic Concentration
 
@@ -87,14 +75,13 @@ Despite his role at Array Ventures (which focuses on AI infrastructure and enter
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Appcues | 2014 | Seed | Product Onboarding / SaaS | [^13] |
-| Klaviyo | 2015 | Seed | E-commerce Marketing / MarTech | [^5][^14] |
+| Klaviyo | 2015 | Seed | E-commerce Marketing / MarTech | [^5] |
 | Postscript | 2019 | Seed | SMS Marketing / E-commerce | [^15] |
 | Goldcast | 2022 | Seed | B2B Events / MarTech | [^16] |
-| Metaplane | ~2022 | Seed | Data Observability | [^17] |
-| Cymbal | ~2023 | Seed | AI / Media | [^18] |
+| Metaplane | ~2022 | Seed | Data Observability | [^14] |
 | Redcar | 2025 | Seed | AI Sales Agent | [^19] |
 
-*Note: Torres has reportedly made up to 17 investments total (per PitchBook). This table represents approximately 41% of that claimed total. Only independently verified investments with source citations are included. Dates marked "~YYYY" use best available estimates.*
+*Note: Torres has reportedly made up to 17 investments total (per PitchBook). This table represents approximately 35% of that claimed total. Only independently verified investments with source citations are included. Dates marked "~YYYY" use best available estimates.*
 
 ## In Their Own Words
 
@@ -114,7 +101,7 @@ Despite his role at Array Ventures (which focuses on AI infrastructure and enter
 > "I don't want my company to be more than 100 people, ever. I want to be generating $1 billion in revenue with 100 people." [^8]
 
 **On hiring:**
-> "I don't hire for credentials. I don't hire for where you came from. If you have all that stuff, I kind of rule you out immediately." [^20]
+> "I don't hire for credentials. I don't hire for where you came from, what you said you did. Actually, like, if you have all that stuff, I kind of like, rule you out immediately." [^20]
 
 **On giving people a chance:**
 > "I give people a shot... test their intelligence from the conversation, see if they have hunger, they have grit." [^20]
@@ -129,7 +116,7 @@ Despite his role at Array Ventures (which focuses on AI infrastructure and enter
 > "If it's doing 10 percent more than I wasn't doing before, if it's doing 20 percent, 30 percent, I'm extremely happy." [^20]
 
 **On Latino entrepreneurship:**
-> Torres expressed pride in being "one of the only Latino-founded companies to ever achieve over $1 billion valuation" and said "We want to see more of us do the same and we will pave the way for other Latino founders and leaders to achieve success." [^7]
+> Torres expressed pride in Drift being "one of the only Latinx-founded companies to ever achieve over $1 billion valuation" [^10].
 
 ## What Founders Say
 
