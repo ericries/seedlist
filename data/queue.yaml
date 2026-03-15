@@ -1818,8 +1818,24 @@ queue:
   discovered_from: itamar-novick
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
+- name: Dokkio
+  type: startup
+  source: portfolio company of konstantin-othmer, board member
+  discovered_from: konstantin-othmer
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Signos
+  type: startup
+  source: portfolio company of konstantin-othmer
+  discovered_from: konstantin-othmer
+  discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
 - name: Chris Hulls
   type: individual
   firm: recursive-ventures
