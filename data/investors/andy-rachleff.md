@@ -11,8 +11,18 @@ check_size: "$25K-$100K (angel); institutional at Benchmark"
 social:
   twitter: "@arachleff"
   linkedin: "linkedin.com/in/rachleff"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  1. [^11] Ben Horowitz "gentleman" quote NOT found in cited Acquired podcast transcript. Quote may be fabricated or misattributed.
+  2. [^16] "Tell people to tell you what they think is fair" quote NOT found in cited Lean Startup article. Unverifiable.
+  3. [^9] "Almost no one's initial value hypothesis is correct...You have to change the audience" quote NOT in cited Startup Archive page. Co-cited [^10] returns 403.
+  4. [^8] Don Valentine quote is edited/compressed — omits "Not that they're not very good, it's just that they're under-resourced. So," from middle of direct quote.
+  5. [^5] does not support claim that Rachleff was "the numbers guy" at Benchmark. Source does not contain this characterization.
+  6. Portfolio: Onfleet and Frond have "—" instead of years. Every entry needs a year per project rules.
+  7. [^10] Medium/Vertex Ventures source returns 403 — claims citing only this source are unverifiable.
+  8. "What Founders Say" Vrionis quotes: Vrionis is a VC mentee, not a portfolio founder. Quotes don't belong in this section per strict project rules.
+  9. [^16] "unemployed" quote is truncated — source adds "because I don't want them as my partner" which is omitted.
 ---
 
 ## Background
