@@ -1423,13 +1423,13 @@ queue:
   added: 2026-03-14
 - name: Lee Fixel
   type: individual
-  firm: tiger-global
+  firm: addition
   source: Tiger Global Management - former Partner, Head of Private Equity (departed
     2019, founded Addition)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Philippe Laffont
   type: individual
@@ -2384,5 +2384,71 @@ queue:
   discovered_from: rob-hayes
   discovery_depth: 2
   priority: low
+  status: pending
+  added: 2026-03-15
+- name: Addition
+  type: firm
+  source: firm founded by Lee Fixel (2020), solo GP, $7B+ AUM across 5 funds
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: Andrew Miskiewicz
+  type: individual
+  firm: addition
+  source: Addition team member, key team under Lee Fixel
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Girish Mathrubootham
+  type: individual
+  firm: together-fund
+  source: Freshworks founder/CEO, now investor at Together Fund; Lee Fixel portfolio founder
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Flipkart
+  type: startup
+  source: Tiger Global/Lee Fixel flagship investment; $16B Walmart acquisition 2018; co-investors include Accel, SoftBank, Naspers
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: high
+  status: pending
+  added: 2026-03-15
+- name: Snyk
+  type: startup
+  source: Addition led $200M Series D (2020); cybersecurity developer tools; co-investors Accel, Tiger Global, Coatue, GV
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Base Power
+  type: startup
+  source: Addition co-led $200M Series B and $1B Series C (2025); energy/battery; co-investors a16z, Lightspeed, Valor
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Chronosphere
+  type: startup
+  source: Addition portfolio; acquired by Palo Alto Networks for $3.35B (2025); co-investors Greylock, General Atlantic
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: dLocal
+  type: startup
+  source: Addition portfolio; IPO at $6B (2021); Uruguay fintech; co-investors General Atlantic
+  discovered_from: lee-fixel
+  discovery_depth: 3
+  priority: normal
   status: pending
   added: 2026-03-15
