@@ -11,7 +11,19 @@ check_size: "$1M-$10M"
 social:
   twitter: "@Alfred_Lin"
   linkedin: "linkedin.com/in/linalfred"
-status: draft
+status: flagged
+review_notes: |
+  1. [^11] Two quotes not found in Thought Economics source: "(1) outlier founders, (2) a delightful product..." and "Would I love to work for the founders..." — may be hallucinated or from a different source. Must verify or remove.
+  2. [^5] Zappos start date: profile says "2005" but TechCrunch 2009 source says Lin joined in 2006.
+  3. [^5] Amazon acquisition: profile says "$1.2 billion" but [^5] says "close to $1 billion." Need alternate citation for $1.2B figure.
+  4. [^7] Claim "co-led Sequoia's early-stage investing business starting in 2017" not supported by cited source [^7] or [^8].
+  5. [^23] FTX quote attributed to "November 2023" but source [^23] is from January 2023. Date mismatch.
+  6. [^10] Profile claims Midas List #1 "in 2024 and 2025" but source only confirms 2025. 2024 claim unsupported.
+  7. [^9] Source (finsmes.com) returned 403 — Midas List 2021 #1 ranking unverifiable from this source.
+  8. [^16] Instacart Fortune article confirms Sequoia led Series A but does not mention Alfred Lin by name.
+  9. Inferred thesis lists "Faire" in Marketplaces sector breakdown but Faire is NOT in the portfolio table. Sector count is inconsistent with actual portfolio.
+  10. [^6] Founder quotes (Chesky, Tatarko) are slightly paraphrased vs. source — not verbatim. Should be corrected to exact wording.
+  11. [^2] Culture quote truncated — missing "you do moving forward" from end of actual quote.
 last_researched: 2026-03-15
 ---
 
