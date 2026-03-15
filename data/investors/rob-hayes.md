@@ -11,8 +11,23 @@ check_size: "$100K-$5M"
 social:
   twitter: "@robhayes"
   linkedin: "linkedin.com/in/robhayes"
-status: draft
+status: flagged
 last_researched: 2026-03-15
+review_notes: |
+  - Source [^3] (Columbia Business School) returns 403. Education claims (BA UC Berkeley, MBA Columbia '95, Board of Overseers) unverifiable from this URL. Signal NFX [^8] corroborates MBA/BA but not Board of Overseers or class year.
+  - Source [^4] (Crunchbase) returns 403. EAT Club and Barndoor AI portfolio entries unsupported by any accessible source.
+  - Source [^12] (Wikipedia Aaron Patzer) returns 403. Mint.com quote "It has been a short 3 years since we met Aaron Patzer at a STIRR dinner..." unverifiable. Also unclear if Wikipedia would contain this Hayes quote.
+  - Source [^5] discrepancy: Profile says "four words" in the email, but [^5] calls it a "six-word message." The [^7] transcript says "four words." Contradicting sources need to be noted.
+  - Source [^6] quote inaccuracy: "founders have 20 slides on product but don't address distribution, team or other business aspects" is paraphrased, not verbatim. Actual: "It is a red flag for me if the founders have 20 slides in their deck on their product and are not getting into issues like distribution, team or other parts of the business."
+  - Source [^6] quote inaccuracy: "You can't be a leader without people you trust to do the right thing, even if they don't do it your way" is a truncated paraphrase. Actual includes "having people around you who" and "And that means they're not always going to do it the same way you would. It's not your job to micromanage them."
+  - Source [^7] quote inaccuracy: "Our money is just as green as everyone else's, but we can build a better VC product" splices together non-contiguous text. Source says "everybody else's" not "everyone else's" and the second clause is not a direct continuation.
+  - Source [^8] (Signal NFX) claims "49 investments on record" but the page actually shows record_count: 0. The 49 figure cannot be verified; inferred thesis denominator is unreliable.
+  - Source [^9] (eero): Profile claims Garry Tan as co-investor but source does not mention Garry Tan. Only Alexis Ohanian named among individuals.
+  - Source [^1] does NOT list Bowery Farming or TaskRabbit among Hayes' led investments. Background section incorrectly cites [^1] for these two companies.
+  - Source [^13] (TechCrunch/Gnip): No mention of First Round Capital or Rob Hayes. Does not confirm Hayes invested in Gnip.
+  - Inferred thesis miscategorizes Gnip as "Marketplaces / Sharing Economy." Gnip is a social data/API company.
+  - "What Founders Say" Aaron Patzer entry is a narrative description of events, not an actual founder quote. Violates founder-quotes-only rule.
+  - Three 403 URLs ([^3], [^4], [^12]) must be replaced with accessible alternatives or claims removed before publishing.
 ---
 
 ## Background
