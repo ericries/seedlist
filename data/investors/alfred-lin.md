@@ -11,19 +11,7 @@ check_size: "$1M-$10M"
 social:
   twitter: "@Alfred_Lin"
   linkedin: "linkedin.com/in/linalfred"
-status: flagged
-review_notes: |
-  1. [^11] Two quotes not found in Thought Economics source: "(1) outlier founders, (2) a delightful product..." and "Would I love to work for the founders..." — may be hallucinated or from a different source. Must verify or remove.
-  2. [^5] Zappos start date: profile says "2005" but TechCrunch 2009 source says Lin joined in 2006.
-  3. [^5] Amazon acquisition: profile says "$1.2 billion" but [^5] says "close to $1 billion." Need alternate citation for $1.2B figure.
-  4. [^7] Claim "co-led Sequoia's early-stage investing business starting in 2017" not supported by cited source [^7] or [^8].
-  5. [^23] FTX quote attributed to "November 2023" but source [^23] is from January 2023. Date mismatch.
-  6. [^10] Profile claims Midas List #1 "in 2024 and 2025" but source only confirms 2025. 2024 claim unsupported.
-  7. [^9] Source (finsmes.com) returned 403 — Midas List 2021 #1 ranking unverifiable from this source.
-  8. [^16] Instacart Fortune article confirms Sequoia led Series A but does not mention Alfred Lin by name.
-  9. Inferred thesis lists "Faire" in Marketplaces sector breakdown but Faire is NOT in the portfolio table. Sector count is inconsistent with actual portfolio.
-  10. [^6] Founder quotes (Chesky, Tatarko) are slightly paraphrased vs. source — not verbatim. Should be corrected to exact wording.
-  11. [^2] Culture quote truncated — missing "you do moving forward" from end of actual quote.
+status: published
 last_researched: 2026-03-15
 ---
 
@@ -37,49 +25,49 @@ In 1996, Lin left Stanford to join his Harvard classmate Tony Hsieh at LinkExcha
 
 In 2001, Lin joined Tellme Networks as VP of Finance and Business Development [^3]. Microsoft later acquired Tellme in 2007 for approximately $800 million [^3][^4].
 
-From 2005 to 2010, Lin served as Chairman, COO, and CFO of Zappos, the online shoe and apparel retailer [^3][^5]. At Zappos, he was responsible for all financial, administrative, and warehouse operations, growing the company from $300 million to $1.6 billion in gross sales [^1][^5]. He helped guide the company to its first profitable year in 2006 and shepherded its acquisition by Amazon in 2009 for $1.2 billion [^3][^5]. TechCrunch noted that Lin had "a nearly flawless resume as an entrepreneur — every company he's worked for has been acquired, and the smallest deal was $265 million" [^4].
+From 2006 to 2010, Lin served as Chairman, COO, and CFO of Zappos, the online shoe and apparel retailer [^3][^5]. At Zappos, he was responsible for all financial, administrative, and warehouse operations, growing the company from $300 million to $1.6 billion in gross sales [^1][^5]. He helped guide the company to its first profitable year in 2006 and shepherded its acquisition by Amazon in 2009 for $1.2 billion [^3][^6]. TechCrunch noted that Lin had "a nearly flawless resume as an entrepreneur — every company he's worked for has been acquired, and the smallest deal was $265 million" [^4].
 
-Lin joined Sequoia Capital as a partner in October 2010 [^5][^6]. He co-led Sequoia's early-stage investing business starting in 2017 [^7]. In November 2025, Lin was appointed Co-Steward of Sequoia Capital alongside Pat Grady, succeeding Roelof Botha [^7][^8].
+Lin joined Sequoia Capital as a partner in October 2010 [^5][^7]. In November 2025, Lin was appointed Co-Steward of Sequoia Capital alongside Pat Grady, succeeding Roelof Botha [^8][^9].
 
-Lin has been ranked #1 on the Forbes Midas List multiple times, including in 2021 (driven by the Airbnb and DoorDash IPOs) and in 2024 and 2025 [^9][^10].
+Lin has been ranked #1 on the Forbes Midas List multiple times, including in 2024 and 2025 [^10][^11].
 
 ## Stated Thesis
 
 *(Self-reported: These represent what Lin says publicly about his approach. See Inferred Thesis for analysis of actual investment behavior.)*
 
-Lin has articulated a consistent set of criteria he looks for in investments. He says all investors essentially look for the same things: "(1) outlier founders, (2) a delightful product or service, (3) a path to a massive market, and (4) a disruptive business model" [^11]. However, he has stated that his ultimate criterion is singular: "Would I love to work for the founders and help them reach their and their company's full potential?" [^11].
+Lin has articulated a consistent set of criteria he looks for in investments. He says all investors essentially look for the same things: "(1) outlier founders, (2) a delightful product or service, (3) a path to a massive market, and (4) a disruptive business model" [^1]. However, he has stated that his ultimate criterion is singular: "would I love to work for the founders and help them reach their and their company's full potential? It is our job as partners, not just investors—to work for the founders" [^1].
 
 For seed-stage investing specifically, Lin says he looks for three things: "an outlier team, authentic and compelling insights, and positive market dynamics" [^12]. He describes looking for what he calls a founder's "spike" — a rare capability, experience, or perspective that differentiates the founder. "The person has to have a spike, and that spike has to be in the direction that makes sense for the market that they want to go after" [^12].
 
-Lin is a strong proponent of "founder-market fit" — alignment between the founder and the market opportunity they are pursuing [^11]. He gravitates toward founders who are "outsiders to the industry they disrupt," who are "incredibly hard working, brutally intellectually honest, and insanely curious" [^11]. He describes great founders as those who are "on a mission to build a product or service that corrects something that they believe the world got wrong" [^11].
+Lin gravitates toward founders who are "outsiders to the industry they disrupt," who are "incredibly hard working, brutally intellectually honest, and insanely curious" [^13]. He describes great founders as those who are "on a mission to build a product or service that corrects something that they believe the world got wrong" [^13].
 
-On Sequoia's approach, Lin has stated: "We help the daring build legendary companies. Our style is not for everyone. We push when we see potential" [^11]. He has also emphasized long-term alignment: "We are not interested in creating a nice lifestyle business. We are looking to build an independent enduring franchise... If we are not aligned on that point, you should not take our money" [^11].
+On Sequoia's approach, Lin has stated: "We help the daring build legendary companies. Our style is not for everyone. We push when we see potential" [^13]. He has also emphasized long-term alignment: "We are not interested in creating a nice lifestyle business. We are looking to build an independent enduring franchise... If we are not aligned on that point, you should not take our money" [^13].
 
 Lin has publicly articulated three fundamental questions he asks founders: (1) Are you passionate enough to work on this for a decade or more? (2) Why are you uniquely qualified to solve this problem? (3) Can your venture drive a sustainable financial engine? [^2].
 
 ## Inferred Thesis
 
-Based on 28 verified investments in the portfolio table below:
+Based on 27 verified investments in the portfolio table below:
 
 **Stage distribution:**
-Lin invests across multiple stages but has a clear orientation toward seed and Series A. Of 28 verified investments: approximately 10 were at seed stage (36%), 12 at Series A or B (43%), and 6 at growth stage or later (21%). This is broader than the typical seed-focused investor — Lin leverages Sequoia's multi-stage platform to invest from seed through growth.
+Lin invests across multiple stages but has a clear orientation toward seed and Series A. Of 27 verified investments: approximately 10 were at seed stage (37%), 11 at Series A or B (41%), and 6 at growth stage or later (22%). This is broader than the typical seed-focused investor — Lin leverages Sequoia's multi-stage platform to invest from seed through growth.
 
-**Sector concentration (of 28 verified investments):**
-- Marketplaces & commerce: 8 companies (29%) — Airbnb, DoorDash, Houzz, Instacart, Whatnot, Dia & Co, Faire, Dolls Kill
-- Consumer services & logistics: 5 companies (18%) — Zappos (pre-Sequoia), Uber (personal), Zipline, Cobalt Robotics, Moovit
-- Fintech & financial infrastructure: 4 companies (14%) — Kalshi, Citadel Securities, FTX (written off), Cardpool
-- AI & deep tech: 4 companies (14%) — OpenAI, Physical Intelligence, Fireworks AI, Commure
+**Sector concentration (of 27 verified investments):**
+- Marketplaces & commerce: 7 companies (26%) — Airbnb, DoorDash, Houzz, Instacart, Whatnot, Dia & Co, Dolls Kill
+- Consumer services & logistics: 5 companies (19%) — Zappos (pre-Sequoia), Uber (personal), Zipline, Cobalt Robotics, Moovit
+- Fintech & financial infrastructure: 4 companies (15%) — Kalshi, Citadel Securities, FTX (written off), Cardpool
+- AI & deep tech: 4 companies (15%) — OpenAI, Physical Intelligence, Fireworks AI, Commure
 - Social & content: 2 companies (7%) — Reddit, Humble Bundle
 - Healthcare: 2 companies (7%) — Summer Health, Formation Bio
 - Enterprise & other: 3 companies (11%) — Achievers, Stella & Dot, StyleSeat
 
 **Key patterns:**
 
-*Marketplace dominance:* Lin's biggest wins (Airbnb, DoorDash, Instacart, Houzz) are all marketplaces — representing nearly a third of his verified portfolio and an overwhelming majority of his returns. This is the single strongest signal in his investment behavior, and it exceeds what his stated thesis (which emphasizes "founder-market fit" generically) would predict.
+*Marketplace dominance:* Lin's biggest wins (Airbnb, DoorDash, Instacart, Houzz) are all marketplaces — representing roughly a quarter of his verified portfolio and an overwhelming majority of his returns. This is the single strongest signal in his investment behavior, and it exceeds what his stated thesis (which emphasizes "founder-market fit" generically) would predict.
 
 *Operator's lens:* Lin's background as COO/CFO of Zappos is evident in his portfolio. He gravitates toward companies with complex operations — delivery logistics (DoorDash, Zipline, Instacart), physical infrastructure (Cobalt Robotics), and marketplace operations (Airbnb, Houzz, Whatnot). This operational orientation is a distinctive feature not commonly found among pure venture investors.
 
-*Geographic concentration:* Overwhelmingly San Francisco Bay Area and Silicon Valley-based companies. Lin has stated: "Venture capital remains a local business... we can help startups the most when they are within driving distance of our offices" [^11].
+*Geographic concentration:* Overwhelmingly San Francisco Bay Area and Silicon Valley-based companies. Lin has stated: "Today, you can start a great business anywhere in the world. However, we have an internal motto: think globally and act locally... we can help startups the most when they are within driving distance of our offices" [^13].
 
 *Co-investor patterns:* As a Sequoia partner, Lin frequently co-invests with the firm's growth fund. Notable co-investors across his deals include Andreessen Horowitz, Y Combinator (several portfolio companies are YC alumni, including Airbnb and DoorDash), and Khosla Ventures.
 
@@ -87,42 +75,41 @@ Lin invests across multiple stages but has a clear orientation toward seed and S
 
 *Notable gap:* Despite Sequoia's significant presence in enterprise SaaS, Lin's personal portfolio is relatively light on pure enterprise software. His focus skews heavily consumer and marketplace. His stated thesis mentions no sector preference, but his behavior reveals a clear consumer/marketplace bias.
 
-*Check size:* Signal by NFX reports a typical investment range of $1M-$10M with a $5M target, though growth-stage investments through Sequoia's growth fund are substantially larger [^13].
+*Check size:* Signal by NFX reports a typical investment range of $1M-$10M with a $5M target, though growth-stage investments through Sequoia's growth fund are substantially larger [^14].
 
-**Note on sample size:** This analysis is based on 28 verified investments. Alfred Lin has likely made additional investments not publicly attributed to him specifically (as opposed to Sequoia generally). The percentages above should be treated as indicative rather than precise.
+**Note on sample size:** This analysis is based on 27 verified investments. Alfred Lin has likely made additional investments not publicly attributed to him specifically (as opposed to Sequoia generally). The percentages above should be treated as indicative rather than precise.
 
 ## Portfolio
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Airbnb | 2012 (board) | Growth | [^6] |
-| DoorDash | 2014 | Series A | [^14] |
-| Houzz | 2011 | Series B | [^15] |
-| Instacart | ~2013 | Series A | [^16] |
-| Reddit | 2014 | Venture | [^17] |
-| Zipline | 2015 | Series A | [^18] |
-| Uber | ~2010 | Personal ($30K) | [^19] |
-| Cobalt Robotics | 2018 | Series A | [^20] |
-| Dia & Co | 2016 | Venture | [^13] |
+| Airbnb | 2012 (board) | Growth | [^7] |
+| DoorDash | 2014 | Series A | [^15] |
+| Houzz | 2011 | Series B | [^16] |
+| Instacart | ~2013 | Series A (Sequoia-led; Lin not individually confirmed) | [^17] |
+| Reddit | 2014 | Venture | [^18] |
+| Zipline | 2015 | Series A | [^19] |
+| Uber | ~2010 | Personal ($30K) | [^20] |
+| Cobalt Robotics | 2018 | Series A | [^21] |
+| Dia & Co | 2016 | Venture | [^14] |
 | Humble Bundle | ~2012 | Early | [^3] |
 | Achievers | ~2011 | Early | [^3] |
 | Stella & Dot | ~2011 | Early | [^3] |
 | Moovit | ~2013 | Early | [^3] |
 | StyleSeat | ~2012 | Early | [^3] |
 | Cardpool | ~2011 | Early | [^3] |
-| Kalshi | 2020 | Series A | [^21] |
-| Summer Health | 2022 | Seed | [^22] |
-| FTX | 2021 | Growth | [^23] |
-| OpenAI | 2021 | Growth | [^10] |
-| Citadel Securities | ~2022 | Growth | [^24] |
-| Whatnot | ~2022 | Growth | [^24] |
-| Physical Intelligence | ~2024 | Early | [^24] |
-| Fireworks AI | ~2023 | Early | [^24] |
-| Commure | ~2023 | Early | [^24] |
-| Formation Bio | ~2023 | Growth | [^24] |
-| Dolls Kill | ~2016 | Early | [^17] |
-| Clay | ~2024 | Early | [^24] |
-| Nominal | ~2024 | Early | [^24] |
+| Kalshi | 2020 | Series A | [^22] |
+| Summer Health | 2022 | Seed | [^23] |
+| FTX | 2021 | Growth | [^24] |
+| OpenAI | 2021 | Growth | [^11] |
+| Citadel Securities | ~2022 | Growth | [^25] |
+| Whatnot | ~2022 | Growth | [^25] |
+| Physical Intelligence | ~2024 | Early | [^25] |
+| Fireworks AI | ~2023 | Early | [^25] |
+| Commure | ~2023 | Early | [^25] |
+| Formation Bio | ~2023 | Growth | [^25] |
+| Dolls Kill | ~2016 | Early | [^18] |
+| Clay | ~2024 | Early | [^25] |
 
 This table represents a partial view of Lin's portfolio. Years marked with "~" indicate approximate dates based on company founding year or contextual evidence; exact investment dates could not be independently verified for those entries.
 
@@ -131,12 +118,12 @@ This table represents a partial view of Lin's portfolio. Years marked with "~" i
 On what makes great founders:
 
 > "Great founders... are on a mission to build a product or service that corrects something that they believe the world got wrong. They are incredibly hard working, brutally intellectually honest, and insanely curious. They are outsiders to the industry they disrupt."
-> — Alfred Lin, interview with Thought Economics [^11]
+> — Alfred Lin, interview with Thought Economics [^13]
 
 On Sequoia's mission:
 
 > "We help the daring build legendary companies. Our style is not for everyone. We push when we see potential."
-> — Alfred Lin, interview with Thought Economics [^11]
+> — Alfred Lin, interview with Thought Economics [^13]
 
 On identifying outliers:
 
@@ -160,13 +147,13 @@ On mathematics and pattern recognition:
 
 On culture and company building:
 
-> "Building culture can feel like it's just fluff at the start, until you start to raise capital or hire teams, and then you see how it shapes everything."
+> "Building culture can feel like it's just fluff at the start, until you start to raise capital or hire teams, and then you see how it shapes everything you do moving forward."
 > — Alfred Lin, Harvard Innovation Labs profile [^2]
 
 On founder alignment:
 
 > "We are not interested in creating a nice lifestyle business. We are looking to build an independent enduring franchise... If we are not aligned on that point, you should not take our money."
-> — Alfred Lin, interview with Thought Economics [^11]
+> — Alfred Lin, interview with Thought Economics [^13]
 
 On thinking big:
 
@@ -175,31 +162,28 @@ On thinking big:
 
 On the FTX collapse:
 
-> "SBF misled and deceived so many, from customers and employees to business partners and investors, including myself and Sequoia."
-> — Alfred Lin, statement following SBF's fraud conviction, November 2023 [^23]
+> "Today's swift and unanimous verdict confirms what we already knew: that SBF misled and deceived so many, from customers and employees to business partners and investors, including myself and Sequoia."
+> — Alfred Lin, post on X/Twitter following SBF's fraud conviction, November 2, 2023 [^26]
 
 ## What Founders Say
 
 Brian Chesky, CEO and Co-Founder of Airbnb, on working with Lin as a board member:
 
-> "Alfred had operational discipline; he is highly analytical. We are a bit of yin and yang, a symbiotic relationship."
-> — Brian Chesky, Fortune, May 2021 [^6]
+> "I went to art school and had no operations experience. [Alfred] had operational discipline; he is highly analytical. We are a bit of yin and yang, a symbiotic relationship."
+> — Brian Chesky, Fortune, May 2021 [^7]
 
 > "He has a poker-faced countenance. His voice doesn't inflect very much when he talks. You don't know how much he likes you when you first meet him. But he's extremely passionate, and he's actually emotional."
-> — Brian Chesky, Fortune, May 2021 [^6]
+> — Brian Chesky, Fortune, May 2021 [^7]
 
 Tony Xu, CEO and Co-Founder of DoorDash, on Lin's character:
 
-> "Alfred is someone who works a lot, and he gets into the numbers and the details and he asks tough questions. If you don't know him that well, maybe that's the first impression. But behind the scenes, he is a person who, first and foremost, genuinely cares about the entrepreneur."
-> — Tony Xu, Fortune, May 2021 [^6]
+> "You know, behind the scenes, Alfred is a person who I think first and foremost genuinely cares about the entrepreneur. I think he kind of has to, by the way, because there's going to be too many tough moments if you're just looking at the numbers when the numbers don't exist, and when you have to believe in something with some level of conviction."
+> — Tony Xu, Fortune, May 2021 [^7]
 
 Adi Tatarko, Co-Founder and CEO of Houzz, on Lin's dual nature:
 
-> "From the outside he's tough, very analytical and supersmart. Inside he's soft in a good way."
-> — Adi Tatarko, Fortune, May 2021 [^6]
-
-> "People think it's scary to talk to Alfred because he seems very reserved and smart and analytical and critical. But he's not just super analytical and smart."
-> — Adi Tatarko, Fortune, May 2021 [^6]
+> "From the outside he's a tough person, he's very analytical and supersmart. But I believe inside he's a soft person in a good way. He's in it with you. He goes a very long way to support his founders and to support us the way we want him to support us."
+> — Adi Tatarko, Fortune, May 2021 [^7]
 
 ## Sources
 
@@ -208,22 +192,24 @@ Adi Tatarko, Co-Founder and CEO of Houzz, on Lin's dual nature:
 [^3]: Wikipedia, "Alfred Lin," accessed March 2026. https://en.wikipedia.org/wiki/Alfred_Lin
 [^4]: TechCrunch, "Alfred Lin To Leave Zappos, Join Sequoia Capital," April 9, 2010. https://techcrunch.com/2010/04/09/alfred-lin-leaves-zappos-joins-sequoia-capital/
 [^5]: TechCrunch, "Alfred Lin Has The Midas Touch: The Man With $2 Billion In Acquisitions Under His Belt," July 28, 2009. https://techcrunch.com/2009/07/28/alfred-lin-has-the-midas-touch-the-man-with-2-billion-in-acquisitions-under-his-belt/
-[^6]: Fortune, "How Sequoia's Alfred Lin scored one of the biggest IPO years in history," May 18, 2021. https://fortune.com/2021/05/18/alfred-lin-sequoia-partner-ipo-airbnb-doordash/
-[^7]: TechCrunch, "Sequoia names Alfred Lin and Pat Grady as new co-stewards as Roelof Botha steps down," November 4, 2025. https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/
-[^8]: Fortune, "Roelof Botha steps aside as Sequoia's steward, passing the role to Alfred Lin and Pat Grady," November 4, 2025. https://fortune.com/2025/11/04/roelof-botha-steps-aside-as-sequoias-steward-passing-the-role-to-alfred-lin-and-pat-grady/
-[^9]: Forbes, "The Midas List 2021," April 2021. https://www.finsmes.com/2021/04/forbes-the-midas-list-2021.html
-[^10]: Fortune Herald, "Forbes Releases 2025 Midas List of Leading Global VCs," 2025. https://fortuneherald.com/breaking/forbes-2025-midas-vc-rankings/
-[^11]: Thought Economics, "A Conversation with Alfred Lin, Partner, Sequoia Capital," accessed March 2026. https://thoughteconomics.com/sequoia-alfred-lin/
+[^6]: TechCrunch, "Amazon Closes Zappos Deal, Ends Up Paying $1.2 Billion," November 2, 2009. https://techcrunch.com/2009/11/02/amazon-closes-zappos-deal-ends-up-paying-1-2-billion/
+[^7]: Fortune, "How Sequoia's Alfred Lin scored one of the biggest IPO years in history," May 18, 2021. https://fortune.com/2021/05/18/alfred-lin-sequoia-partner-ipo-airbnb-doordash/
+[^8]: TechCrunch, "Sequoia names Alfred Lin and Pat Grady as new co-stewards as Roelof Botha steps down," November 4, 2025. https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/
+[^9]: Fortune, "Roelof Botha steps aside as Sequoia's steward, passing the role to Alfred Lin and Pat Grady," November 4, 2025. https://fortune.com/2025/11/04/roelof-botha-steps-aside-as-sequoias-steward-passing-the-role-to-alfred-lin-and-pat-grady/
+[^10]: VCWire, "Forbes Releases 2024 Midas List," June 7, 2024. https://vcwire.tech/2024/06/07/forbes-releases-2024-midas-list/
+[^11]: Fortune Herald, "Forbes Releases 2025 Midas List of Leading Global VCs," 2025. https://fortuneherald.com/breaking/forbes-2025-midas-vc-rankings/
 [^12]: Fortune, "Sequoia's Alfred Lin on the art and math of spotting outliers," October 8, 2024. https://fortune.com/2024/10/08/sequoias-alfred-lin-on-the-art-and-math-of-spotting-outliers/
-[^13]: Signal by NFX, "Alfred Lin's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/alfred-lin
-[^14]: DoorDash Investor Relations, "Alfred Lin - Board of Directors," accessed March 2026. https://ir.doordash.com/governance/board-of-directors/person-details/default.aspx?ItemId=9a8c41be-8251-4404-b06c-1655d8b89229
-[^15]: AllThingsD, "Exclusive: Houzz Brings Home $11.6 Million in Series B Funding," December 19, 2011. https://allthingsd.com/20111219/exclusive-houzz-brings-home-11-6-million-in-series-b-funding/
-[^16]: Fortune, "Instacart IPO: The winners and losers," September 19, 2023. https://fortune.com/2023/09/19/instacart-ipo-winners-losers/
-[^17]: Crunchbase, "Alfred Lin - Partner @ Sequoia Capital," accessed March 2026. https://www.crunchbase.com/person/alfred-lin
-[^18]: Sequoia Capital, "Zipline," accessed March 2026. https://sequoiacap.com/companies/zipline/
-[^19]: TechCrunch, "Sequoia Capital's Alfred Lin On Why Uber's Valuation Is Twice That Of Airbnb's," December 1, 2015. https://techcrunch.com/2015/12/01/sequoia-capitals-alfred-lin-on-why-ubers-valuation-is-twice-that-of-airbnb/
-[^20]: Cobalt AI, "Cobalt Partners with Sequoia and Secures $13M in Series A Funding," March 2018. https://www.cobaltai.com/cobalt-partners-with-sequoia-and-secures-13m-in-series-a-funding/
-[^21]: Kalshi, "Kalshi Raises $30 Million in Series A Funding Led by Sequoia," 2021. https://news.kalshi.com/p/kalshi-raises-30-million-in-series-a-funding-led-by-sequoia
-[^22]: Fortune, "Chelsea Clinton and Sequoia's Alfred Lin back $7.5 million seed for Summer Health," July 25, 2022. https://fortune.com/2022/07/25/exclusive-chelsea-clinton-and-sequoias-alfred-lin-back-7-5-million-seed-round-for-pediatric-telehealth-startup-summer-health/
-[^23]: TechCrunch, "Sequoia Capital's Alfred Lin in his first public interview since the implosion of FTX," January 13, 2023. https://techcrunch.com/2023/01/13/sequoia-capitals-alfred-lin-in-his-first-public-interview-since-the-implosion-of-ftx-video/
-[^24]: Sourcery, "BREAKING: Alfred Lin | The Future According to Sequoia," accessed March 2026. https://www.sourcery.vc/p/breaking-alfred-lin-the-future-according
+[^13]: Thought Economics, "A Conversation with Alfred Lin, Partner, Sequoia Capital," accessed March 2026. https://thoughteconomics.com/sequoia-alfred-lin/
+[^14]: Signal by NFX, "Alfred Lin's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/alfred-lin
+[^15]: DoorDash Investor Relations, "Alfred Lin - Board of Directors," accessed March 2026. https://ir.doordash.com/governance/board-of-directors/person-details/default.aspx?ItemId=9a8c41be-8251-4404-b06c-1655d8b89229
+[^16]: AllThingsD, "Exclusive: Houzz Brings Home $11.6 Million in Series B Funding," December 19, 2011. https://allthingsd.com/20111219/exclusive-houzz-brings-home-11-6-million-in-series-b-funding/
+[^17]: Fortune, "Instacart IPO: The winners and losers," September 19, 2023. https://fortune.com/2023/09/19/instacart-ipo-winners-losers/
+[^18]: Crunchbase, "Alfred Lin - Partner @ Sequoia Capital," accessed March 2026. https://www.crunchbase.com/person/alfred-lin
+[^19]: Sequoia Capital, "Zipline," accessed March 2026. https://sequoiacap.com/companies/zipline/
+[^20]: TechCrunch, "Sequoia Capital's Alfred Lin On Why Uber's Valuation Is Twice That Of Airbnb's," December 1, 2015. https://techcrunch.com/2015/12/01/sequoia-capitals-alfred-lin-on-why-ubers-valuation-is-twice-that-of-airbnb/
+[^21]: Cobalt AI, "Cobalt Partners with Sequoia and Secures $13M in Series A Funding," March 2018. https://www.cobaltai.com/cobalt-partners-with-sequoia-and-secures-13m-in-series-a-funding/
+[^22]: Kalshi, "Kalshi Raises $30 Million in Series A Funding Led by Sequoia," 2021. https://news.kalshi.com/p/kalshi-raises-30-million-in-series-a-funding-led-by-sequoia
+[^23]: Fortune, "Chelsea Clinton and Sequoia's Alfred Lin back $7.5 million seed for Summer Health," July 25, 2022. https://fortune.com/2022/07/25/exclusive-chelsea-clinton-and-sequoias-alfred-lin-back-7-5-million-seed-round-for-pediatric-telehealth-startup-summer-health/
+[^24]: TechCrunch, "Sequoia Capital's Alfred Lin in his first public interview since the implosion of FTX," January 13, 2023. https://techcrunch.com/2023/01/13/sequoia-capitals-alfred-lin-in-his-first-public-interview-since-the-implosion-of-ftx-video/
+[^25]: Sourcery, "BREAKING: Alfred Lin | The Future According to Sequoia," accessed March 2026. https://www.sourcery.vc/p/breaking-alfred-lin-the-future-according
+[^26]: Alfred Lin (@Alfred_Lin), post on X/Twitter, November 2, 2023. https://x.com/Alfred_Lin/status/1720240390010442093
