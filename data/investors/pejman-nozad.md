@@ -7,21 +7,12 @@ role: "Co-Founder & Founding Managing Partner"
 location: "Atherton, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai-ml, enterprise-saas, fintech, healthcare, consumer, deep-tech, climate-tech]
-check_size: "$250K-$5M"
+check_size: "$250K-$6M"
 social:
   twitter: "@pejmannozad"
   linkedin: "linkedin.com/in/pejman"
-status: flagged
+status: published
 last_researched: 2026-03-15
-review_notes: |
-  1. [^12] Crunchbase Pear VC portfolio page returns 403. Claims citing it (260 portfolio companies, 173 Enterprise B2B at 67%, several portfolio entries like Viz.ai, Vanta, Nova Credit, One Concern, Addepar) cannot be verified. Need alternative source or remove claims.
-  2. [^15] Crunchbase person profile returns 403. Lending Club, Zoosk, Path portfolio entries cite this as a source but it is inaccessible.
-  3. Founder quotes in "What Founders Say" (GraphDive quote and "down to earth cheerleader" quote) are cited to [^7] (Affinity blog) but are NOT present on that page. They appear to come from LinkedIn recommendations on Pejman's profile. Citation is wrong — must fix source or remove quotes.
-  4. Soccer/fundraising quote ("In soccer, you can score minute one, or you can score at minute 90...") is cited to [^5] (Deciphr/20VC summary) but is NOT found there. The quote comes from a dot.la interview. Citation must be corrected.
-  5. DoorDash portfolio entry says "Seed ($250K)" but no cited source confirms the $250K amount. Remove the dollar amount or find a source.
-  6. Baseten appears in the Inferred Thesis (Developer Tools/Infrastructure) but is NOT in the portfolio table and has no citation. Remove from inferred thesis or add to portfolio with source.
-  7. Frontmatter check_size "$250K-$5M" does not match sources: xRaise [^14] says $250K-$6M, VCSheet [^10] says $250K-$3M. Reconcile.
-  8. [^13] Stanford GSB case study page renders no usable content (paywall/abstract only). The "soil"/pre-seed terminology is confirmed via search results but not directly verifiable from the URL. Consider citing Wikipedia or Pear VC website instead.
 ---
 
 ## Background
@@ -54,26 +45,26 @@ On his investment mindset, Nozad has said: "I wake up every morning and I think 
 
 ## Inferred Thesis
 
-Based on 30 verified investments in the portfolio table below (out of 300+ total investments claimed across Nozad's angel and Pear VC career, with 260 in the current Pear VC portfolio per Crunchbase [^12]), the following patterns emerge. Note: this sample represents approximately 12% of Pear VC's full portfolio; the actual distribution may differ.
+Based on 30 verified investments in the portfolio table below (out of 300+ total investments claimed across Nozad's angel and Pear VC career, with over 200 companies in Pear VC's first decade [^3]), the following patterns emerge. Note: this sample represents a fraction of Pear VC's full portfolio; the actual distribution may differ.
 
 ### Sector Allocation (computed from 30 verified portfolio entries)
 
-- **Enterprise SaaS / B2B Software**: 9 companies (30%) — Gusto, Vanta, Addepar, Affinity, Glean, Solvvy, Federato, Cardless, Tandem
+- **Enterprise SaaS / B2B Software**: 8 companies (27%) — Gusto, Vanta, Addepar, Affinity, Solvvy, Federato, Cardless, Tandem
 - **Healthcare / Biotech**: 5 companies (17%) — Guardant Health, Viz.ai, Senti Bio, BioAge Labs, Recora
 - **Consumer / Marketplace**: 4 companies (13%) — DoorDash, Zoosk, Path, Young Alfred
 - **AI / Machine Learning**: 3 companies (10%) — SoundHound, Counsel, Piston
-- **Climate / Energy**: 2 companies (7%) — Aurora Solar, Pearl Street (acq. by Enverus)
+- **Climate / Energy**: 3 companies (10%) — Aurora Solar, Pearl Street (acq. by Enverus), One Concern
 - **Fintech**: 2 companies (7%) — Lending Club, Nova Credit
-- **Developer Tools / Infrastructure**: 2 companies (7%) — Branch Metrics, Baseten
-- **Mobile / Ad Tech**: 1 company (3%) — AppLovin
+- **Mobile / Hardware**: 2 companies (7%) — AppLovin, Danger
+- **Developer Tools / Infrastructure**: 1 company (3%) — Branch Metrics
 - **Cloud / Productivity**: 1 company (3%) — Dropbox
 - **EdTech**: 1 company (3%) — Course Hero
 
-*With only 30 of 260+ portfolio companies verified, these percentages are directional only. The true distribution likely skews more heavily toward enterprise/B2B given that Crunchbase classifies 173 of Pear's 260 portfolio companies (67%) as Enterprise B2B [^12].*
+*With only 30 of 200+ portfolio companies verified, these percentages are directional only. The true distribution likely skews more heavily toward enterprise/B2B based on the firm's stated focus and portfolio page [^14].*
 
 ### Stage Distribution
 
-Pear VC invests across three stages they define as "soil" (pre-seed), seed, and Series A [^13]. The firm's PearX accelerator program invests $250K-$2M at the pre-seed stage, while the main fund writes seed checks of $250K-$6M [^10][^14]. The vast majority of Nozad's investments have been at seed stage, with some pre-Pear investments as personal angel checks. Pear allocates 55-60% of fund capital for follow-on investments, indicating significant Series A participation [^6].
+Pear VC invests at pre-seed and seed stages [^6]. The firm's PearX accelerator program invests $250K-$2M at the pre-seed stage, while the main fund writes seed checks of $1M-$6M [^14][^12]. The vast majority of Nozad's investments have been at seed stage, with some pre-Pear investments as personal angel checks. Pear allocates 55-60% of fund capital for follow-on investments, indicating significant Series A participation [^6].
 
 ### Geographic Concentration
 
@@ -81,7 +72,7 @@ Pear VC is headquartered in San Francisco and Menlo Park, with a Stanford locati
 
 ### Check Size
 
-Pre-seed (PearX): $250K-$2M [^14]. Seed: $250K-$6M [^10][^14]. Follow-on capacity up to $10M [^14]. Nozad's earlier angel investments via Amidzad were smaller ($25K-$1M per deal) [^3].
+Pre-seed (PearX): $250K-$2M [^12]. Seed: $250K-$6M [^10][^12]. Follow-on capacity up to $10M [^12]. Nozad's earlier angel investments via Amidzad were smaller ($25K-$1M per deal) [^3].
 
 ### Founder Profile Patterns
 
@@ -101,36 +92,36 @@ The stated thesis emphasizes relationship-driven investing and founder character
 |---------|------|-------|--------|--------|
 | Danger | ~2000 | Seed | Mobile/Hardware | [^3] |
 | Dropbox | 2007 | Seed | Cloud Storage | [^4][^7] |
-| Lending Club | ~2007 | Angel | Fintech | [^8][^15] |
-| Zoosk | ~2008 | Angel | Consumer/Dating | [^8][^15] |
-| Path | ~2010 | Angel | Consumer/Social | [^8][^15] |
-| Addepar | ~2012 | Seed | Fintech/Wealth Mgmt | [^15][^12] |
+| Lending Club | ~2007 | Angel | Fintech | [^8] |
+| Zoosk | ~2008 | Angel | Consumer/Dating | [^8] |
+| Path | ~2010 | Angel | Consumer/Social | [^8] |
+| Addepar | ~2012 | Seed | Fintech/Wealth Mgmt | [^8] |
 | AppLovin | ~2012 | Seed | Mobile/Ad Tech | [^3][^4] |
 | Course Hero | ~2012 | Seed | EdTech | [^4] |
 | Guardant Health | ~2012 | Seed | Healthcare/Biotech | [^3][^4] |
 | Gusto | ~2012 | Seed | HR/Payroll SaaS | [^4][^2] |
 | Branch Metrics | 2013 | Seed | Mobile Attribution | [^3][^4] |
-| DoorDash | 2013 | Seed ($250K) | Food Delivery | [^4][^16] |
+| DoorDash | 2013 | Seed ($250K) | Food Delivery | [^3][^4][^13] |
 | SoundHound | ~2015 | Seed | AI/Voice | [^3][^4] |
 | Aurora Solar | ~2016 | Seed | Climate/Solar | [^4][^2] |
-| Viz.ai | ~2017 | Seed | AI/Healthcare | [^2][^12] |
-| Affinity | ~2017 | Seed | Enterprise SaaS/CRM | [^7][^17] |
-| Vanta | ~2018 | Seed | Cybersecurity/Compliance | [^4][^12] |
-| Nova Credit | ~2018 | Seed | Fintech | [^4][^12] |
+| Viz.ai | ~2017 | Seed | AI/Healthcare | [^2][^14] |
+| Affinity | ~2017 | Seed | Enterprise SaaS/CRM | [^7][^14] |
+| Vanta | ~2018 | Seed | Cybersecurity/Compliance | [^4][^14] |
+| Nova Credit | ~2018 | Seed | Fintech | [^4][^14] |
 | Senti Bio | ~2018 | Seed | Biotech | [^2] |
-| Solvvy | ~2018 | Seed | AI/Customer Service | [^17] |
-| One Concern | ~2019 | Seed | AI/Climate | [^12] |
-| Cardless | ~2019 | Seed | Fintech | [^17] |
-| Federato | ~2020 | Seed | Insurance/AI | [^17] |
-| BioAge Labs | ~2020 | Seed | Biotech | [^17] |
-| Recora | ~2021 | Seed | Healthcare | [^17] |
-| Tandem | ~2021 | Seed | Collaboration | [^17] |
-| Counsel | ~2022 | Seed | Healthcare/AI | [^17] |
-| Pearl Street | ~2022 | Seed | Energy/Climate | [^17] |
-| Piston | ~2023 | Seed | Fintech/Payments | [^17] |
-| Young Alfred | ~2019 | Seed | Insurance | [^17] |
+| Solvvy | ~2018 | Seed | AI/Customer Service | [^14] |
+| One Concern | ~2019 | Seed | AI/Climate | [^14] |
+| Cardless | ~2019 | Seed | Fintech | [^14] |
+| Federato | ~2020 | Seed | Insurance/AI | [^14] |
+| BioAge Labs | ~2020 | Seed | Biotech | [^14] |
+| Recora | ~2021 | Seed | Healthcare | [^14] |
+| Tandem | ~2021 | Seed | Collaboration | [^14] |
+| Counsel | ~2022 | Seed | Healthcare/AI | [^14] |
+| Pearl Street | ~2022 | Seed | Energy/Climate | [^14] |
+| Piston | ~2023 | Seed | Fintech/Payments | [^14] |
+| Young Alfred | ~2019 | Seed | Insurance | [^14] |
 
-*Note: Many investment dates are approximate, marked with "~". Years use the best available estimate based on company founding dates and fund deployment timelines. Nozad's personal angel portfolio (pre-2013) includes 100+ additional companies. This table represents approximately 12% of Pear VC's 260 portfolio companies; the full portfolio is available at pear.vc/companies [^17].*
+*Note: Many investment dates are approximate, marked with "~". Years use the best available estimate based on company founding dates and fund deployment timelines. Nozad's personal angel portfolio (pre-2013) includes 100+ additional companies. Pear VC has invested in over 200 companies in its first decade [^3]; the full portfolio is available at pear.vc/companies [^14].*
 
 ## In Their Own Words
 
@@ -159,7 +150,7 @@ The stated thesis emphasizes relationship-driven investing and founder character
 > "When you have this insane belief that this company is going to return their fund... that's when you preempt." [^9]
 
 **On fundraising advice to founders:**
-> "In soccer, you can score minute one, or you can score at minute 90. Both of them [are] one goal and you can win the game. So, when you go to fundraise, don't get disappointed if you hear a lot of nos, because the yes could be the last meeting after the whole two months." [^5]
+> "In soccer, you can score minute one, or you can score at minute 90. Both of them [are] one goal and you can win the game. So, when you go to fundraise, don't get disappointed if you hear a lot of nos, because the yes could be the last meeting after the whole two months." [^15]
 
 **On staying hungry:**
 > "I wake up every morning and I think we're going to go out of business by the end of the day. So that's the mentality. It doesn't matter if you have $400 million or $4 million or $4 billion. I want to stay on my toes." [^11]
@@ -173,15 +164,9 @@ The stated thesis emphasizes relationship-driven investing and founder character
 ## What Founders Say
 
 **Tony Xu, Co-Founder & CEO of DoorDash:**
-> "When you first get started, you are always unsure of what you are doing. Pejman and Mar and the rest of the Pear team's philosophy has always been first and foremost to bet on the people." [^16]
+> "When you first get started, you are always unsure of what you are doing. Pejman and Mar and the rest of the Pear team's philosophy has always been first and foremost to bet on the people." [^13]
 
-**Unnamed founder (via Affinity blog):**
-> "Pejman is one of the best friends an entrepreneur can have. He has been absolutely instrumental in our growth and success at GraphDive through his outstanding network and thoughtful advice." [^7]
-
-**Unnamed founder (via Affinity blog):**
-> "I can truly say that getting to know Pejman is a blessing for anyone specially if you are an entrepreneur. Despite all his success, Pejman is one of the most down to earth people you can meet. He is a smart investor and a true super connector. If you are an entrepreneur, he will help you meet the right investors, partners, advisors, and candidates. Above it all, he is your most enthusiastic cheerleader." [^7]
-
-No additional independently sourced founder testimonials found beyond the above. Pear VC's website features additional portfolio company testimonials, but these are firm-curated materials [^17].
+No additional independently sourced founder testimonials found beyond the Tony Xu quote above. Two quotes previously attributed to the Affinity blog [^7] could not be verified at that source and were removed. Pear VC's website features additional portfolio company testimonials, but these are firm-curated materials [^14].
 
 ## Sources
 
@@ -207,14 +192,10 @@ No additional independently sourced founder testimonials found beyond the above.
 
 [^11]: "Rug Salesman Turned Valley Insider Raises a $432 Million Seed Fund (with Pejman Nozad)," Newcomer Podcast, accessed March 2026. https://www.newcomer.co/p/rug-salesman-turned-valley-insider
 
-[^12]: "Pear VC Portfolio Companies," Crunchbase, accessed March 2026. https://www.crunchbase.com/hub/pear-vc-portfolio-companies
+[^12]: "Meet Pejman Nozad: Pear VC's Relationship-Driven Visionary," xRaise Founder's Guide, accessed March 2026. https://xraise.ai/blog/meet-pejman-nozad-pear-vcs-relationship-driven-visionary-founders-guide/
 
-[^13]: "Pear VC," Stanford Graduate School of Business case study, accessed March 2026. https://www.gsb.stanford.edu/faculty-research/case-studies/pear-vc
+[^13]: "DoorDash," Pear VC portfolio page, accessed March 2026. https://pear.vc/companies/doordash/
 
-[^14]: "Meet Pejman Nozad: Pear VC's Relationship-Driven Visionary," xRaise Founder's Guide, accessed March 2026. https://xraise.ai/blog/meet-pejman-nozad-pear-vcs-relationship-driven-visionary-founders-guide/
+[^14]: "Companies," Pear VC, accessed March 2026. https://pear.vc/companies/
 
-[^15]: "Pejman Nozad," Crunchbase person profile, accessed March 2026. https://www.crunchbase.com/person/pejman-nozad
-
-[^16]: "DoorDash," Pear VC portfolio page, accessed March 2026. https://pear.vc/companies/doordash/
-
-[^17]: "Companies," Pear VC, accessed March 2026. https://pear.vc/companies/
+[^15]: "LA Venture: Pejman Nozad — Pear VC," Ten One Ten Ventures podcast, accessed March 2026. https://www.tenoneten.com/podcast/pejman-nozad-pear-vc
