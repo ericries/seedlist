@@ -1186,7 +1186,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: David Beirne
   type: individual
@@ -1556,7 +1556,7 @@ queue:
   discovered_from: coatue-management
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Jaimin Rangwalla
   type: individual
@@ -1565,7 +1565,7 @@ queue:
   discovered_from: coatue-management
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Worklife Ventures
   type: firm
@@ -1971,7 +1971,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Pat Grady
   type: individual
