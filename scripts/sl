@@ -438,11 +438,12 @@ def cmd_lint(slug, no_fetch=False):
         if in_portfolio:
             portfolio_section += line + "\n"
 
-    # Check table rows (skip header and separator)
+    # Check table rows (skip headers and separators)
     table_rows = [l for l in portfolio_section.split("\n")
                   if l.startswith("|") and not re.match(r'^\|[-\s|]+\|$', l)]
-    # Skip the header row (first table row)
-    data_rows = table_rows[1:] if len(table_rows) > 1 else []
+    # Skip header rows (contain "Company" or "Year" or "Stage" as column names)
+    data_rows = [r for r in table_rows
+                 if not re.match(r'^\|\s*(Company|Date|Year|Round)\s*\|', r, re.IGNORECASE)]
     for row in data_rows:
         if not re.search(r'~?\d{4}', row):
             errors.append(f"Portfolio row missing year: {row.strip()[:80]}")
