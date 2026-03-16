@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+# Pre-commit hook: lint staged profile files, reject on errors.
+# Warnings (exit 2) are allowed through. Only errors (exit 1) block.
+# Uses --no-fetch to stay fast (no network calls).
+
+ROOT="$(git rev-parse --show-toplevel)"
+FAILED=0
+
+# Find staged .md files under data/investors/, data/firms/, data/startups/
+for file in $(git diff --cached --name-only --diff-filter=ACM | grep -E '^data/(investors|firms|startups)/.*\.md$'); do
+    slug="$(basename "$file" .md)"
+    output=$(python3 "$ROOT/scripts/sl" lint "$slug" --no-fetch 2>&1)
+    exit_code=$?
+
+    if [ $exit_code -eq 1 ]; then
+        echo "LINT FAILED: $slug"
+        echo "$output"
+        echo ""
+        FAILED=1
+    elif [ $exit_code -eq 2 ]; then
+        echo "LINT WARNINGS: $slug"
+        echo "$output"
+        echo ""
+    fi
+done
+
+if [ $FAILED -ne 0 ]; then
+    echo "Commit blocked — fix lint errors above before committing."
+    exit 1
+fi
+
+exit 0

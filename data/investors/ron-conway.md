@@ -226,3 +226,4 @@ Conway is known for making decisions extremely quickly -- by the time he meets f
 [^18]: "Sam Altman says Airbnb's Brian Chesky and SV Angel's Ron Conway saved OpenAI." Fortune. https://fortune.com/2025/01/06/sam-altman-airbnb-ceo-brian-chesky-sv-angel-ron-conway-saved-openai/. Accessed 2026-03-13.
 
 [^19]: "Ron Conway Explained." Andreessen Horowitz (a16z). https://a16z.com/ron-conway-explained/. Accessed 2026-03-13.
+test

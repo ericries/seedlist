@@ -1,0 +1,57 @@
+name: Lint Profiles
+
+on:
+  pull_request:
+    paths:
+      - "data/investors/*.md"
+      - "data/firms/*.md"
+      - "data/startups/*.md"
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Find changed profiles
+        id: changed
+        run: |
+          FILES=$(git diff --name-only --diff-filter=ACM origin/${{ github.base_ref }}...HEAD | grep -E '^data/(investors|firms|startups)/.*\.md$' || true)
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Lint changed profiles
+        run: |
+          FAILED=0
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            slug=$(basename "$file" .md)
+            echo "::group::Linting $slug"
+            if python3 scripts/sl lint "$slug" --no-fetch; then
+              echo "::endgroup::"
+            else
+              EXIT_CODE=$?
+              echo "::endgroup::"
+              if [ $EXIT_CODE -eq 1 ]; then
+                echo "::error file=$file::Lint errors in $slug"
+                FAILED=1
+              fi
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ $FAILED -ne 0 ]; then
+            echo ""
+            echo "❌ Lint errors found — fix before merging."
+            exit 1
+          fi
+          echo "✅ All profiles passed lint."
