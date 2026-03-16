@@ -27,7 +27,11 @@
       "Bash(python3 scripts/sl gen-startups --dry-run 2>&1; echo \"EXIT: $?\")",
       "Bash(python3 scripts/sl lint ron-conway --no-fetch 2>&1; echo \"EXIT: $?\")",
       "Bash(python3 scripts/sl prune 2>&1; echo \"EXIT: $?\")",
-      "Bash(python3 scripts/sl gen-firms --dry-run 2>&1; echo \"EXIT: $?\")"
+      "Bash(python3 scripts/sl gen-firms --dry-run 2>&1; echo \"EXIT: $?\")",
+      "Bash(git worktree:*)",
+      "Read(//Users/EricRies2/Projects/seedlist-csv/**)",
+      "Bash(.venv/bin/python3 build.py)",
+      "Bash(cd:*)"
     ]
   }
 }
