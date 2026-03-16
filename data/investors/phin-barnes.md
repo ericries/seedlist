@@ -2,8 +2,8 @@
 name: "Phin Barnes"
 slug: phin-barnes
 type: individual
-firm: first-round-capital
-role: "Board Partner (formerly Partner)"
+firm: the-general-partnership
+role: "Co-Founder & Managing Partner (Board Partner at First Round Capital)"
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, developer-tools, saas, consumer, healthcare, education, web3]
@@ -16,7 +16,7 @@ social:
   twitter: "@phineasb"
   linkedin: "linkedin.com/in/phineasbarnes"
   blog: "sneakerheadvc.com"
-status: draft
+status: published
 last_researched: 2026-03-15
 ---
 
@@ -28,7 +28,7 @@ Barnes earned his MBA from the Wharton School at the University of Pennsylvania 
 
 Before venture capital, Barnes had an unconventional career in consumer products and startups. His first job out of college was at AND 1 Basketball, where he spent six years as Creative Director for Footwear, helping scale the company from $15 million to over $225 million in revenue [^1][^2]. At AND 1, he led product direction, managed national retail accounts, and created the initial concept for the AND 1 Mix Tape, a marketing property that became a cultural phenomenon [^1]. He worked with NBA players including Vince Carter and Kevin Garnett on signature shoes [^1].
 
-After AND 1, Barnes trained for an Ironman triathlon in 2002, which inspired him to build fitness technology [^7]. He co-founded responDESIGN in Portland, Oregon in 2003 with Ted Spooner and Daryn Chapman, where as Founder and Chief Marketing Officer he developed and published Yourself!Fitness, the first fitness game for Xbox and PlayStation 2 [^7][^8]. He secured retail partnerships with Nordstrom and Best Buy and promotional partnerships with Procter & Gamble and McDonald's [^7].
+After AND 1, Barnes co-founded responDESIGN in Portland, Oregon in 2003 with Ted Spooner and Daryn Chapman, developing and publishing Yourself!Fitness, a fitness game for Xbox and PlayStation 2 [^7][^8].
 
 During his decade-plus at First Round Capital, Barnes was responsible for over 60 investments, including notable companies such as Blue Apron, Notion, Clover Health, Gauntlet, Persona, Clearbit, Modern Fertility, and Ubiquity6 [^2][^3]. He is credited with helping establish First Round's community programs, including Dorm Room Fund (a student-run venture fund launched in 2012) and Angel Track (a workshop series training new angel investors) [^1][^9].
 
@@ -44,24 +44,26 @@ On founder evaluation, Barnes has stated he looks for the founder's unique insig
 
 He has publicly criticized pattern recognition in investing: "I think pattern recognition is another name for intellectual laziness" [^14]. He advocates for capital efficiency, advising founders to "optimize learning per dollar spent" rather than deploying capital broadly [^14].
 
-Barnes is a vocal advocate for diversity in venture-backed startups. He coined the concept of "diversity debt," comparing it to technical debt, arguing that failing to prioritize diverse hiring early creates compounding cultural problems [^14][^15]. He has predicted that "4-7 of the next decade's five largest companies will have underrepresented minority or female founders" [^14].
+Barnes is a vocal advocate for diversity in venture-backed startups. He coined the concept of "diversity debt," comparing it to technical debt, arguing that failing to prioritize diverse hiring early creates compounding cultural problems [^14][^15]. He has predicted that of the next decade's five to seven largest companies, "somewhere between four and seven of them are likely to be founded by someone who is underrepresented minority, a woman, or both" [^14].
 
 ## Inferred Thesis
 
-Based on 22 verified investments personally attributed to Barnes in the portfolio table below (spanning both his First Round Capital tenure and The General Partnership), the following patterns emerge. Barnes claims over 60 investments at First Round alone plus 45+ at TheGP, so this sample represents a fraction of his total activity.
+Based on 21 unique verified investments personally attributed to Barnes in the portfolio table below (spanning both his First Round Capital tenure and The General Partnership), the following patterns emerge. Barnes claims over 60 investments at First Round alone plus 45+ at TheGP, so this sample represents a small fraction of his total activity.
 
-### Sector Allocation (computed from 22 verified Barnes-attributed investments)
+### Sector Allocation (computed from 21 unique verified Barnes-attributed investments, each company counted once in its primary category)
 
-- **Fintech / Payments**: 5 companies (23%) -- Clover Health, Clearbit, Gauntlet, Finix, Stepchange
-- **Developer Tools / Infrastructure**: 4 companies (18%) -- Persona, Instrumental, Stainless, Anomalo
-- **Consumer / Food / Education**: 4 companies (18%) -- Blue Apron, Verto Education, SendOwl, Modern Fertility
-- **SaaS / Productivity**: 3 companies (14%) -- Notion, Coda, ModernTax
-- **AR / Frontier Tech**: 2 companies (9%) -- Ubiquity6, TurbineOne
-- **Healthcare / Wellness**: 2 companies (9%) -- Clover Health (also counted in fintech), Thatch
-- **Web3 / Crypto**: 1 company (5%) -- Gauntlet (also counted in fintech)
-- **Other**: 2 companies (9%) -- SPIRL, Promise
+- **Developer Tools / Infrastructure**: 5 companies (24%) -- Clearbit, Persona, Instrumental, Stainless, Anomalo
+- **Fintech / Payments**: 3 companies (14%) -- Finix, Stepchange, ModernTax
+- **Healthcare / Wellness**: 3 companies (14%) -- Clover Health, Modern Fertility, Thatch
+- **Consumer / Food**: 2 companies (10%) -- Blue Apron, SendOwl
+- **SaaS / Productivity**: 2 companies (10%) -- Notion, Coda
+- **AR / Defense / Frontier Tech**: 2 companies (10%) -- Ubiquity6, TurbineOne
+- **Education**: 1 company (5%) -- Verto Education
+- **Web3 / DeFi**: 1 company (5%) -- Gauntlet
+- **Gov-tech / Payments**: 1 company (5%) -- Promise
+- **Infrastructure**: 1 company (5%) -- SPIRL
 
-*Note: Some companies span multiple categories. With only 22 verified investments out of 100+, reliable percentage breakdowns are not possible. The above should be treated as directional only.*
+*Note: With only 21 verified investments out of 100+ total, these percentages are directional only and should not be treated as a comprehensive view of Barnes' investment thesis.*
 
 ### Stage Distribution
 
@@ -98,32 +100,32 @@ Despite claiming a generalist approach, the verified portfolio shows limited con
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Blue Apron | 2012 | Seed | Food/Consumer | [^3][^17] |
-| Notion | 2013 | Seed | Productivity/SaaS | [^3][^18] |
-| Clearbit | 2015 | Seed | Developer Tools/Data | [^3][^19] |
-| Clover Health | 2015 | Series A | Healthcare/Insurance | [^3][^20] |
+| Notion | 2013 | Seed | Productivity/SaaS | [^2][^3] |
+| Clearbit | 2015 | Seed | Developer Tools/Data | [^3][^18] |
+| Clover Health | 2015 | Series A | Healthcare/Insurance | [^3][^19] |
 | Instrumental | 2015 | Seed (Lead) | Manufacturing/Hardware | [^16] |
-| Modern Fertility | 2017 | Seed | Healthcare/Femtech | [^3][^21] |
-| Ubiquity6 | 2018 | Series A | AR/VR | [^3][^22] |
-| Gauntlet | 2018 | Seed | Web3/DeFi | [^3][^23] |
-| Verto Education | 2019 | Seed | Education | [^24] |
-| Persona | 2020 | Series A | Identity/Fintech | [^3][^25] |
+| Modern Fertility | 2017 | Seed | Healthcare/Femtech | [^3][^20] |
+| Ubiquity6 | 2018 | Series A | AR/VR | [^3][^21] |
+| Gauntlet | 2018 | Seed | Web3/DeFi | [^3][^22] |
+| Verto Education | 2019 | Seed | Education | [^23] |
+| Persona | 2020 | Series A | Identity/Fintech | [^3][^24] |
 
 ### The General Partnership (2022-Present)
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Anomalo | 2020 | Seed | Data Infrastructure | [^23] |
-| Gauntlet | 2020 | Seed (continued) | Web3/DeFi | [^23] |
-| ModernTax | 2021 | Seed | Fintech/Tax | [^23] |
-| SendOwl | 2023 | Seed | E-commerce | [^23] |
-| Thatch | 2024 | Series A | Healthcare/Benefits | [^23] |
-| Stepchange | 2025 | Seed | Fintech | [^23] |
+| Anomalo | 2020 | Seed | Data Infrastructure | [^22] |
+| Gauntlet | 2020 | Seed (continued) | Web3/DeFi | [^22] |
+| ModernTax | 2021 | Seed | Fintech/Tax | [^22] |
+| SendOwl | 2023 | Seed | E-commerce | [^22] |
+| Thatch | 2024 | Series A | Healthcare/Benefits | [^22] |
+| Stepchange | 2025 | Seed | Fintech | [^22] |
 | TurbineOne | ~2023 | Pre-seed through Series A | Defense/AI | [^10] |
 | SPIRL | ~2023 | Seed (Lead) | Infrastructure | [^10] |
 | Promise | ~2023 | Series B | Gov-tech/Payments | [^10] |
 | Stainless | ~2023 | Seed | Developer Tools | [^10] |
-| Finix | ~2022 | Growth | Payments/Fintech | [^26] |
-| Coda | ~2022 | Growth | Productivity/SaaS | [^26] |
+| Finix | ~2022 | Growth | Payments/Fintech | [^25] |
+| Coda | ~2022 | Growth | Productivity/SaaS | [^25] |
 
 *Note: This table represents a small fraction of Barnes' total investments. He claims 60+ at First Round and TheGP has 45+ portfolio companies. Many investments at First Round were made at the firm level and are not individually attributed to Barnes in public records. Years marked "~YYYY" are estimates based on fund timing and public reporting.*
 
@@ -157,10 +159,10 @@ Despite claiming a generalist approach, the verified portfolio shows limited con
 > "To be successful and to have the insights that you need in order to generate the returns that VCs are pursuing, all of us need to wake up to this idea that the very largest companies over the next decade are likely to be founded and led by people who don't look like the people of the last decade." [^15]
 
 **On Verto Education:**
-> "We have been blown away by the Verto team's passion and commitment to revolutionizing how higher education can be experienced." [^24]
+> "We have been blown away by the Verto team's passion and commitment to revolutionizing how higher education can be experienced." [^23]
 
 **On Ubiquity6 and AR:**
-> "We believe that augmented reality holds the key to unlocking a new atomic unit of communication — a creative medium that can bring people together in and around the physical spaces they care about." [^22]
+> "We believe that augmented reality holds the key to unlocking a new atomic unit of communication — a creative medium that can bring people together in and around the physical spaces they care about." [^21]
 
 **On building at The General Partnership:**
 > "The three things you need to build a great company are great people, great products, and then access to customers." [^12]
@@ -168,7 +170,7 @@ Despite claiming a generalist approach, the verified portfolio shows limited con
 ## What Founders Say
 
 **Richie Serna, CEO and Co-Founder of Finix:**
-> "There's no VC that can make your company...TheGP is actually side by side with each portfolio company, doing the dirty work." [^26]
+> "There's no VC that can make your company...TheGP is actually side by side with each portfolio company, doing the dirty work." [^25]
 
 No other independently sourced founder testimonials were found despite dedicated searching across Twitter/X, podcast transcripts, Product Hunt, and press coverage. The General Partnership's website and Barnes' own social media reference founder gratitude in general terms but do not feature specific named testimonials. First Round Capital's website does not feature individual testimonials attributed to Barnes specifically. Further founder quotes may emerge from additional research of podcast transcripts and social media.
 
@@ -186,7 +188,7 @@ No other independently sourced founder testimonials were found despite dedicated
 
 [^6]: "About," Sneakerhead VC, accessed March 2026. https://www.sneakerheadvc.com/about
 
-[^7]: "Phin Barnes," The Network, accessed March 2026. https://www.thenetwork.com/profile/phin-barnes-a174c883
+[^7]: "Respondesign," Encyclopedia (en-academic.com mirror of Wikipedia), accessed March 2026. https://en-academic.com/dic.nsf/enwiki/5381438
 
 [^8]: "Respondesign," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Respondesign
 
@@ -208,20 +210,18 @@ No other independently sourced founder testimonials were found despite dedicated
 
 [^17]: "Seed Round - Blue Apron - 2012-08-01," Crunchbase, accessed March 2026. https://www.crunchbase.com/funding_round/blue-apron-seed--8c8d7877
 
-[^18]: "Notion," First Round Capital portfolio page, accessed March 2026. https://www.firstround.com/companies/notion
+[^18]: "Clearbit Raises $2M in Seed Funding," FinSMEs, March 2015. https://www.finsmes.com/2015/03/clearbit-raises-2m-in-seed-funding.html
 
-[^19]: "Clearbit Raises $2M in Seed Funding," FinSMEs, March 2015. https://www.finsmes.com/2015/03/clearbit-raises-2m-in-seed-funding.html
+[^19]: "First Round Capital makes its biggest investment to date," Technical.ly, September 2015. https://technical.ly/startups/first-round-capital-clover-health/
 
-[^20]: "First Round Capital makes its biggest investment to date," Technical.ly, September 2015. https://technical.ly/startups/first-round-capital-clover-health/
+[^20]: "Seed Round - Modern Fertility - 2017-08-09," Crunchbase, accessed March 2026. https://www.crunchbase.com/funding_round/modern-fertility-seed--5c3968ad
 
-[^21]: "Seed Round - Modern Fertility - 2017-08-09," Crunchbase, accessed March 2026. https://www.crunchbase.com/funding_round/modern-fertility-seed--5c3968ad
+[^21]: "Ubiquity6 nabs $10.5 million from top investors to build a deeper augmented reality," TechCrunch, March 28, 2018. https://techcrunch.com/2018/03/28/ubiquity6-nabs-10-5-million-from-top-investors-to-build-a-deeper-augmented-reality/
 
-[^22]: "Ubiquity6 nabs $10.5 million from top investors to build a deeper augmented reality," TechCrunch, March 28, 2018. https://techcrunch.com/2018/03/28/ubiquity6-nabs-10-5-million-from-top-investors-to-build-a-deeper-augmented-reality/
+[^22]: "Phin Barnes Investor Profile," Evalyze.ai, accessed March 2026. https://www.evalyze.ai/investors/phin-barnes
 
-[^23]: "Phin Barnes Investor Profile," Evalyze.ai, accessed March 2026. https://www.evalyze.ai/investors/phin-barnes
+[^23]: "Verto Education, a Freshman Year Abroad College Program, Raises $6.3 Million in Seed Funding," Verto Education blog, November 2019. https://vertoeducation.org/blog/verto-education-a-freshman-year-abroad-college-program-raises-6-3-million-in-seed-funding-to-revolutionize-the-college-experience/
 
-[^24]: "Verto Education, a Freshman Year Abroad College Program, Raises $6.3 Million in Seed Funding," Verto Education blog, November 2019. https://vertoeducation.org/blog/verto-education-a-freshman-year-abroad-college-program-raises-6-3-million-in-seed-funding-to-revolutionize-the-college-experience/
+[^24]: "Series A - Persona," Crunchbase, accessed March 2026. https://www.crunchbase.com/funding_round/persona-188f-series-a--7d93e096
 
-[^25]: "Series A - Persona," Crunchbase, accessed March 2026. https://www.crunchbase.com/funding_round/persona-188f-series-a--7d93e096
-
-[^26]: "Renegade Spotlight: The General Partnership," Investing 101 Substack, accessed March 2026. https://investing101.substack.com/p/thegp
+[^25]: "Renegade Spotlight: The General Partnership," Investing 101 Substack, accessed March 2026. https://investing101.substack.com/p/thegp
