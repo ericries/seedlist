@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ericries/seedlist#readme",
   "dependencies": {
-    "jsdom": "^29.0.0",
+    "jsdom": "^24.1.3",
     "papaparse": "^5.5.3"
   }
 }
