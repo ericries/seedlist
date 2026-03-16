@@ -1123,7 +1123,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Andy Rachleff
   type: individual
@@ -1141,7 +1141,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Matt Cohler
   type: individual
@@ -1847,7 +1847,7 @@ queue:
   discovered_from: itamar-novick
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Gil Ben-Artzy
   type: individual

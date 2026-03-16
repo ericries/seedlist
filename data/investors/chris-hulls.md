@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@ChrisHulls"
   linkedin: "linkedin.com/in/chrishulls"
-status: published
+status: draft
 last_researched: 2026-03-15
 ---
 
@@ -121,6 +121,16 @@ Multiple portfolio companies have had significant exits: Ring was acquired by Am
 
 > "I was a seed investor there. I always would joke with the first founder and CEO, like, 'Who's going to buy who?'" — Chris Hulls, The Peel podcast, referring to his early investment in Tile before Life360 acquired it for $205 million [^5].
 
+**On product philosophy and customer value:**
+
+> "The core has to give real value to our customers, not kind of fake value. Like real, real value forever for free, period." — Chris Hulls, Sub Club podcast [^15].
+
+> "Think critically, think first principles. Don't just follow a playbook." — Chris Hulls, Sub Club podcast [^15].
+
+**On luck and giving back:**
+
+> "I got lucky — I didn't do anything to deserve it — but I hope to create a halo effect where that luck is shared." — Chris Hulls, Point Reyes Light, on establishing the $15 million Point Reyes Good Luck Fund [^16].
+
 ## What Founders Say
 
 No independently sourced founder testimonials about Chris Hulls as an investor or advisor were found after dedicated searching across Twitter/X, podcast transcripts, blog posts, and review platforms. One board member testimonial was found on LinkedIn — "He is no-nonsense in his approach and consistently over delivers on everything that the board has ever thrown at him" — but this refers to his performance as CEO rather than as an investor [^14].
@@ -143,3 +153,5 @@ Clarity.fm user reviews describe him as providing "a great understanding of the 
 [^12]: Fortune, "'I disdain corporate speak': Tech founder disregards comms and legal in tell-all sign-off post about the heavy weight of being CEO," August 12, 2025. https://fortune.com/2025/08/12/life360-ceo-resigns-burnout/
 [^13]: Bessemer Venture Partners Atlas, "Founder lessons (and silver linings) from Life360's Chris Hulls," accessed March 2026. https://www.bvp.com/atlas/founder-lessons-silver-linings-life360-chris-hulls
 [^14]: LinkedIn, testimonial on Chris Hulls' profile from a board member, accessed March 2026. https://www.linkedin.com/in/chrishulls
+[^15]: Sub Club podcast, "Freemium Done Right: Lessons From a Multi-Billion-Dollar App — Chris Hulls, Life360," accessed March 2026. https://subclub.com/episode/freemium-done-right-lessons-from-a-multi-billion-dollar-app-chris-hulls-life360
+[^16]: Point Reyes Light, "Preserving what matters in Point Reyes," accessed March 2026. https://www.ptreyeslight.com/opinion/preserving-what-matters-in-point-reyes/
