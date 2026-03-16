@@ -175,7 +175,7 @@ def cmd_publish(slug):
     set_profile_status(path, "published")
     print(f"Set {slug} -> published")
 
-    run("python3 build.py")
+    run(f"{sys.executable} build.py")
     print("Site rebuilt")
 
     run(f"git add -A")
@@ -216,7 +216,7 @@ def cmd_draft(slug):
 
 def cmd_build():
     """Rebuild the static site."""
-    r = run("python3 build.py", capture=True)
+    r = run(f"{sys.executable} build.py", capture=True)
     print(r.stdout)
     if r.stderr:
         print(r.stderr)
@@ -293,7 +293,7 @@ def cmd_check():
         issues.append(f"Unpushed commits:\n{r.stdout.strip()}")
 
     # Published profiles that aren't in the build
-    r = run("python3 build.py 2>&1", capture=True, check=False)
+    r = run(f"{sys.executable} build.py 2>&1", capture=True, check=False)
     print(f"Build: {r.stdout.strip()}")
 
     if issues:
@@ -966,7 +966,7 @@ def cmd_publish_clean():
         return
 
     # Rebuild and push
-    run("python3 build.py")
+    run(f"{sys.executable} build.py")
     print(f"\nSite rebuilt with {len(published)} new profiles")
     run("git add -A")
     slugs_str = ", ".join(published[:5])

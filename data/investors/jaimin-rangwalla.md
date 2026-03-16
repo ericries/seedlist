@@ -9,12 +9,12 @@ stage_focus: [growth, late-stage, seed]
 sector_focus: [ai, clean-energy, autonomous-systems, enterprise, semiconductors, fintech]
 check_size: "$5M–$500M+ (as Coatue principal)"
 last_verified_investment:
-  date: 2026-02
-  company: "Anthropic"
-  round: "Series G"
+  date: 2023
+  company: "Verse"
+  round: "Seed"
 social:
   linkedin: "linkedin.com/in/jaimin-rangwalla-402a21"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 

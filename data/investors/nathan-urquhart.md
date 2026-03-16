@@ -20,11 +20,11 @@ last_researched: 2026-03-16
 
 ## Background
 
-Nathan Urquhart is the first President and Head of Strategy at Coatue Management, a role he assumed in November 2022 [^1][^2]. In this position, he is responsible for firm-wide strategic initiatives, operational leadership, investor relations, fundraising efforts, and contributing to Coatue's strategic growth [^1].
+Nathan Urquhart is the first President and Head of Strategy at Coatue Management, a role he assumed in November 2022 [^1][^2][^7]. In this position, he is responsible for operational leadership, investor relations, fundraising efforts, and contributing to Coatue's strategic growth [^1].
 
 Urquhart graduated summa cum laude from Washington and Lee University in 2001 with a Bachelor of Science in Accounting and Finance [^3][^4]. While at W&L, he was a founding member of the Student Consulting Group and served as chair of the Student Recruitment Committee [^4].
 
-He began his career in 2001 as a corporate finance analyst at J.P. Morgan [^3][^4]. He then spent four years at UBS in the Private Equity Funds Group, raising capital for buyouts, credit, and infrastructure funds [^1][^3]. From approximately 2008 to 2019, Urquhart spent eleven years at Och-Ziff Capital Management (now Sculptor Capital Management), rising to Executive Managing Director and Co-Head of Global Investor Relations [^1][^3][^4].
+He began his career in 2001 as a corporate finance analyst at J.P. Morgan [^4]. He then spent four years at UBS in the Private Equity Funds Group, raising capital for buyouts, credit, and infrastructure funds [^1]. From approximately 2008 to 2019, Urquhart spent eleven years at Oz Management (formerly Och-Ziff Capital Management, now Sculptor Capital Management), rising to Executive Managing Director and Co-Head of Global Investor Relations [^1][^4].
 
 In 2019, Urquhart joined The Carlyle Group as Partner and Global Head of Investor Relations, also serving on Carlyle's Leadership Committee, Operating Committee, and Diversity, Equity and Inclusion Committee [^1][^3][^4]. He departed Carlyle in late 2022 to join Coatue [^2][^5].
 
@@ -67,7 +67,7 @@ For Coatue Management's portfolio, see the [firm profile](/firms/coatue-manageme
 > "The combination of a traditional business program within a broader liberal arts education is powerful." [^3]
 
 **On institutional evolution:**
-> "I am impressed with the university's ability to maintain traditions and values while evolving to meet new priorities." [^3]
+> "I am impressed with the university's ability to maintain traditions and values while evolving to meet new priorities and provide modern technologies and approaches." [^3]
 
 **On diversity in finance (while at Carlyle):**
 Urquhart has shared that identifying as a member of the LGBTQ community while working on Wall Street "pushed him to bring diverse opinions into every decision he makes" [^10].
