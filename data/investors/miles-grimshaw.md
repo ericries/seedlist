@@ -16,13 +16,9 @@ social:
   twitter: "@milesgrimshaw"
   linkedin: "linkedin.com/in/milesgrimshaw"
 status: flagged
-review_notes: |
-  - Frontmatter firm field says 'benchmark' but Grimshaw is currently GP at Thrive Capital (rejoined March 2024). Should be 'thrive-capital'.
-  - Quote from [^17] is fabricated: profile says 'has not kept pace with scientific advancement' but source says 'has not kept pace' (no 'with scientific advancement').
-  - Wickramasekara quote from [^17] is paraphrased, not verbatim — actual source text differs in structure and wording.
-  - Stytch miscategorized as 'Consumer / social' in inferred thesis — it is a developer authentication/identity platform (devtools). This changes sector percentages.
-  - First What Founders Say quote (Wickramasekara [^17]) is about Benchling's problem, not about Grimshaw as an investor — does not meet founder testimonial standard.
 last_researched: 2026-03-16
+review_notes: |
+  Wrong firm field (should be thrive-capital not benchmark); fabricated quote text in [^17]; paraphrased founder quote presented as verbatim; Stytch miscategorized as consumer (should be dev tools); weak founder testimonial
 ---
 
 ## Background
