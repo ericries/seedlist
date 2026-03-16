@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@gradypb"
   linkedin: "linkedin.com/in/gradypb"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
@@ -185,7 +185,7 @@ Pat Grady described the impact of this moment: "We already loved Amplitude's co-
 
 Brian Halligan, Co-Founder and CEO of HubSpot, on Sequoia's involvement (Grady led the Series D):
 
-Halligan has described Sequoia's investment as providing HubSpot with credibility, an extensive network, and strategic guidance on scaling the business model [^17]. Halligan later joined Sequoia as a senior advisor, coaching startup founders on their journeys from startup to scaleup CEO [^33].
+Halligan has described Sequoia's investment as providing HubSpot with credibility, an extensive network, and strategic guidance on scaling the business model [^17]. Halligan later joined Sequoia as a senior advisor, coaching startup founders on their journeys from startup to scaleup CEO [^34].
 
 No independently sourced founder testimonials with direct quotes specifically about Pat Grady were found from founders outside of Sequoia's own publications. The quotes above from Spenser Skates are sourced from a Sequoia-published article. Dedicated searches for founder quotes on Twitter/X, podcasts, and press coverage yielded endorsements of Sequoia generally but not specific testimonials about Grady's individual contributions as a board member or investor.
 
@@ -199,29 +199,29 @@ No independently sourced founder testimonials with direct quotes specifically ab
 [^6]: A Letter a Day, "Letter #207: Pat Grady (2023)," 2023. https://aletteraday.substack.com/p/letter-207-pat-grady-2023
 [^7]: VCWire, "Forbes Releases 2024 Midas List," June 7, 2024. https://vcwire.tech/2024/06/07/forbes-releases-2024-midas-list/
 [^8]: Sequoia Capital, "Seven Questions with Pat Grady," April 2019. https://sequoiacap.com/article/seven-questions-with-pat-grady/
-[^8]: Invest Like the Best with Patrick O'Shaughnessy, "Pat Grady - Relentless Application of Force," Episode 378, June 18, 2024. https://open.spotify.com/episode/6Y8phjq7qLjCL7TGJPDkro
-[^9]: AOL/Business Insider, "Sequoia Capital partner Pat Grady is redefining AI investments," 2024. https://www.aol.com/sequoia-capital-partner-pat-grady-090003502.html
-[^10]: Sequoia Capital, "Frank Slootman Is No Snowflake," accessed March 2026. https://sequoiacap.com/article/frank-slootman-spotlight/
-[^11]: Sequoia Capital, "Amplitude: Raising the Bar," September 2021. https://sequoiacap.com/article/amplitude-raising-the-bar/
-[^12]: TechCrunch, "Service-now.com Gets $41M Infusion," December 8, 2009. https://techcrunch.com/2009/12/08/service-now-com-41m-funding-37m-off-table/
-[^13]: Pat Grady (@gradypb), post on X/Twitter about ServiceNow CRM record, August 2024. https://x.com/gradypb/status/1829192729563410845
-[^14]: Crunchbase, "Patrick Grady - Partner @ Sequoia Capital," accessed March 2026. https://www.crunchbase.com/person/patrick-grady
-[^15]: TechCrunch, "Peer-To-Peer Lending Marketplace Prosper Raises $20M From Sequoia," January 22, 2013. https://techcrunch.com/2013/01/22/peer-to-peer-lending-marketplace-prosper-raises-20m-from-sequoia-eric-schmidt-and-others-brings-on-new-ceo/
-[^16]: TechCrunch, "HubSpot Takes $32 Million Investment From Sequoia, Google Ventures And Salesforce," March 8, 2011. https://techcrunch.com/2011/03/08/hubspot-takes-32-million-investment-from-sequoia-google-ventures-and-salesforce/
-[^17]: Sequoia Capital, "Medallia," accessed March 2026. https://sequoiacap.com/companies/medallia/
-[^18]: TechCrunch, "Qualtrics Founder Ryan Smith Talks Bootstrapping His Company And Then Raising A Boatload Of Cash," September 23, 2015. https://techcrunch.com/2015/09/23/qualtrics-founder-ryan-smith-talks-bootstrapping-his-company-and-then-raising-a-boatload-of-cash/
-[^19]: TechCrunch, "Okta Scores $75M In Final Round Of Funding," June 9, 2014. https://techcrunch.com/2014/06/09/okta-scores-75m-in-final-round-of-funding-hopes-to-go-public-in-a-couple-of-years/
-[^20]: The Software Report, "Sequoia's Investment In Snowflake Gives It A $3.5B Valuation," October 2018. https://www.thesoftwarereport.com/sequoias-investment-in-snowflake-gives-it-a-3-5b-valuation/
-[^21]: Snowflake, "Snowflake Closes $450M in Growth Funding," October 2018. https://www.snowflake.com/news/snowflake-closes-450m-growth-funding/
-[^22]: Sequoia Capital, "Zoom IPO: How Eric Yuan Delivers Happiness," April 2019. https://www.sequoiacap.com/article/zoom-ipo-how-eric-yuan-delivers-happiness/
-[^23]: Sequoia Capital, "How Zoom's Eric Yuan Connected the World," accessed March 2026. https://sequoiacap.com/article/eric-yuan-zoom-spotlight/
-[^24]: Attentive, "Attentive Raises $40 Million Series B Investment, Led by Sequoia," August 2019. https://www.attentive.com/blog/series-b
-[^25]: Cribl, "Sequoia Validates Cribl's Customer Driven Vision with $35 Million Series B Funding," October 2020. https://cribl.io/blog/sequoia-validates-cribls-customer-driven-vision-with-35-million-series-b-funding/
-[^26]: Sequoia Capital, "Watershed," accessed March 2026. https://sequoiacap.com/companies/watershed/
-[^27]: SaaStr, "Notion at $11 Billion," accessed March 2026. https://www.saastr.com/notion-and-growing-into-your-10b-valuation-a-masterclass-in-patience/
-[^28]: Sequoia Capital, "OpenAI," accessed March 2026. https://sequoiacap.com/companies/openai/
-[^29]: Sequoia Capital, "Partnering with Hugging Face: A Machine Learning Transformation," May 2022. https://sequoiacap.com/article/partnering-with-hugging-face-a-machine-learning-transformation/
-[^30]: SiliconANGLE, "Legal AI-focused firm Harvey raises $21M led by Sequoia," April 27, 2023. https://siliconangle.com/2023/04/27/legal-ai-focused-firm-harvey-raises-21m-led-sequoia/
-[^31]: PR Newswire, "Grow Therapy Raises $88M Sequoia Capital-Led Series C," April 2024. https://www.prnewswire.com/news-releases/grow-therapy-raises-88m-sequoia-capital-led-series-c-to-advance-effective-mental-healthcare-302110579.html
-[^32]: The Twenty Minute VC, "20VC: Sequoia's Pat Grady on What Sequoia Is Focused On Today," accessed March 2026. https://www.thetwentyminutevc.com/patgrady2
-[^33]: Sequoia Capital, "Brian Halligan," accessed March 2026. https://sequoiacap.com/people/brian-halligan/
+[^9]: Invest Like the Best with Patrick O'Shaughnessy, "Pat Grady - Relentless Application of Force," Episode 378, June 18, 2024. https://open.spotify.com/episode/6Y8phjq7qLjCL7TGJPDkro
+[^10]: AOL/Business Insider, "Sequoia Capital partner Pat Grady is redefining AI investments," 2024. https://www.aol.com/sequoia-capital-partner-pat-grady-090003502.html
+[^11]: Sequoia Capital, "Frank Slootman Is No Snowflake," accessed March 2026. https://sequoiacap.com/article/frank-slootman-spotlight/
+[^12]: Sequoia Capital, "Amplitude: Raising the Bar," September 2021. https://sequoiacap.com/article/amplitude-raising-the-bar/
+[^13]: TechCrunch, "Service-now.com Gets $41M Infusion," December 8, 2009. https://techcrunch.com/2009/12/08/service-now-com-41m-funding-37m-off-table/
+[^14]: Pat Grady (@gradypb), post on X/Twitter about ServiceNow CRM record, August 2024. https://x.com/gradypb/status/1829192729563410845
+[^15]: Crunchbase, "Patrick Grady - Partner @ Sequoia Capital," accessed March 2026. https://www.crunchbase.com/person/patrick-grady
+[^16]: TechCrunch, "Peer-To-Peer Lending Marketplace Prosper Raises $20M From Sequoia," January 22, 2013. https://techcrunch.com/2013/01/22/peer-to-peer-lending-marketplace-prosper-raises-20m-from-sequoia-eric-schmidt-and-others-brings-on-new-ceo/
+[^17]: TechCrunch, "HubSpot Takes $32 Million Investment From Sequoia, Google Ventures And Salesforce," March 8, 2011. https://techcrunch.com/2011/03/08/hubspot-takes-32-million-investment-from-sequoia-google-ventures-and-salesforce/
+[^18]: Sequoia Capital, "Medallia," accessed March 2026. https://sequoiacap.com/companies/medallia/
+[^19]: TechCrunch, "Qualtrics Founder Ryan Smith Talks Bootstrapping His Company And Then Raising A Boatload Of Cash," September 23, 2015. https://techcrunch.com/2015/09/23/qualtrics-founder-ryan-smith-talks-bootstrapping-his-company-and-then-raising-a-boatload-of-cash/
+[^20]: TechCrunch, "Okta Scores $75M In Final Round Of Funding," June 9, 2014. https://techcrunch.com/2014/06/09/okta-scores-75m-in-final-round-of-funding-hopes-to-go-public-in-a-couple-of-years/
+[^21]: The Software Report, "Sequoia's Investment In Snowflake Gives It A $3.5B Valuation," October 2018. https://www.thesoftwarereport.com/sequoias-investment-in-snowflake-gives-it-a-3-5b-valuation/
+[^22]: Snowflake, "Snowflake Closes $450M in Growth Funding," October 2018. https://www.snowflake.com/news/snowflake-closes-450m-growth-funding/
+[^23]: Sequoia Capital, "Zoom IPO: How Eric Yuan Delivers Happiness," April 2019. https://www.sequoiacap.com/article/zoom-ipo-how-eric-yuan-delivers-happiness/
+[^24]: Sequoia Capital, "How Zoom's Eric Yuan Connected the World," accessed March 2026. https://sequoiacap.com/article/eric-yuan-zoom-spotlight/
+[^25]: Attentive, "Attentive Raises $40 Million Series B Investment, Led by Sequoia," August 2019. https://www.attentive.com/blog/series-b
+[^26]: Cribl, "Sequoia Validates Cribl's Customer Driven Vision with $35 Million Series B Funding," October 2020. https://cribl.io/blog/sequoia-validates-cribls-customer-driven-vision-with-35-million-series-b-funding/
+[^27]: Sequoia Capital, "Watershed," accessed March 2026. https://sequoiacap.com/companies/watershed/
+[^28]: SaaStr, "Notion at $11 Billion," accessed March 2026. https://www.saastr.com/notion-and-growing-into-your-10b-valuation-a-masterclass-in-patience/
+[^29]: Sequoia Capital, "OpenAI," accessed March 2026. https://sequoiacap.com/companies/openai/
+[^30]: Sequoia Capital, "Partnering with Hugging Face: A Machine Learning Transformation," May 2022. https://sequoiacap.com/article/partnering-with-hugging-face-a-machine-learning-transformation/
+[^31]: SiliconANGLE, "Legal AI-focused firm Harvey raises $21M led by Sequoia," April 27, 2023. https://siliconangle.com/2023/04/27/legal-ai-focused-firm-harvey-raises-21m-led-sequoia/
+[^32]: PR Newswire, "Grow Therapy Raises $88M Sequoia Capital-Led Series C," April 2024. https://www.prnewswire.com/news-releases/grow-therapy-raises-88m-sequoia-capital-led-series-c-to-advance-effective-mental-healthcare-302110579.html
+[^33]: The Twenty Minute VC, "20VC: Sequoia's Pat Grady on What Sequoia Is Focused On Today," accessed March 2026. https://www.thetwentyminutevc.com/patgrady2
+[^34]: Sequoia Capital, "Brian Halligan," accessed March 2026. https://sequoiacap.com/people/brian-halligan/

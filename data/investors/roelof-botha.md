@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@roelofbotha"
   linkedin: "linkedin.com/in/roelofbotha"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
@@ -35,17 +35,17 @@ Botha has ranked consistently on the Forbes Midas List of top venture capitalist
 
 *(Self-reported: These represent what Botha says publicly about his approach. See Inferred Thesis for analysis of actual investment behavior.)*
 
-Botha's stated investment philosophy centers on contrarian thinking and founder-market fit. He has described his core principle as: "If you're going to be really successful in this business, you have to be contrarian — and right" [^3][^9].
+Botha's stated investment philosophy centers on contrarian thinking and founder-market fit. In an interview titled "To be successful in business, you have to be contrarian — and right," Botha emphasized that the best investments come from non-consensus ideas that turn out to be correct [^3][^9].
 
 Botha says he evaluates founders through the lens of a "two by two matrix of people: exceptional, not exceptional, easy to get along with, not always easy to get along with" [^9]. He prioritizes founders who are original thinkers and potential outsiders, seeking depth of vision over polish: "Founders are exceptional people, but they don't take the world as it is" [^9].
 
 He has articulated a preference for "slope over intercept" — prioritizing a founder's growth rate and learning ability over their accumulated experience [^9]. On evaluating companies, he has stated: "My worst mistake as an investor is the failure of imagination" [^9].
 
-Botha has been vocal about his skepticism of the venture capital industry's capital inflation. He has called investing in the average venture fund "a return-free risk — you are actually better off just buying treasuries or buying an index fund than investing in the average venture firm" [^10][^11]. He has noted: "In the last 20-25 years, 50% of the time we've made a seed or venture investment, we fail to fully recover capital, which is humbling" [^12].
+Botha has been vocal about his skepticism of the venture capital industry's capital inflation. He has quoted a Sequoia partner's phrase, describing investing in the average venture fund as "a return-free risk" [^10][^11]. He has noted: "In the last 20-25 years, 50% of the time we've made a seed or venture investment, we fail to fully recover capital, which is humbling" [^12].
 
-On the scale of ambition, Botha has stated: "What is the scale of your ambition? Do you dare to dream?" and "There is no summit. There's only the climb" [^9][^5].
+On the scale of ambition, Botha has stated: "What is the scale of your ambition? Do you dare to dream?" [^9].
 
-On Sequoia's identity, he has said: "We're not a collection of individuals. We're a team. We make investments together" [^10].
+On Sequoia's identity, he has said: "We're not a collection of individuals with our own P&L, doing our own thing. We're a team. We make investments together" [^10].
 
 ## Inferred Thesis
 
@@ -55,11 +55,11 @@ Based on 28 verified investments in the portfolio table below:
 Botha invests across all stages, from seed through growth. Of 28 verified investments: approximately 9 were at seed stage (32%), 10 at Series A or B (36%), and 9 at growth stage or later (32%). This is a notably balanced distribution compared to typical VCs who specialize in a single stage, reflecting Sequoia's multi-stage platform. His personal involvement tilts slightly toward Series A/B — where the company has enough signal to evaluate but is still early enough for Sequoia to win a board seat.
 
 **Sector concentration (of 28 verified investments):**
-- Consumer/social: 8 companies (29%) — YouTube, Instagram, Tumblr, Whisper, Bird, mmhmm, Meebo, Inside.com
+- Consumer/social: 9 companies (32%) — YouTube, Instagram, Tumblr, Whisper, Bird, mmhmm, Meebo, Inside.com, Jawbone
 - Enterprise/SaaS: 6 companies (21%) — MongoDB, Eventbrite, Evernote, Temporal Technologies, The Org, Xoom
 - Fintech/payments: 3 companies (11%) — Block (Square), Tokbox, Skiff
 - Healthcare/biotech: 5 companies (18%) — Natera, 23andMe, BridgeBio, Pendulum Therapeutics, GenEdit
-- Other (gaming, AI, mobility): 6 companies (21%) — Unity, Bird, Landis, Mixpanel, Mu Sigma, Ethos
+- Other (gaming, AI, mobility): 5 companies (18%) — Unity, Landis, Mixpanel, Mu Sigma, Ethos
 
 **Key patterns:**
 
@@ -116,11 +116,6 @@ This table represents a partial view of Botha's portfolio. Years marked with "~"
 
 ## In Their Own Words
 
-On contrarian investing:
-
-> "If you're going to be really successful in this business, you have to be contrarian — and right."
-> — Roelof Botha, LDV Capital interview, December 2024 [^9]
-
 On his biggest mistake:
 
 > "My worst mistake as an investor is the failure of imagination."
@@ -128,33 +123,18 @@ On his biggest mistake:
 
 On prioritizing growth potential over experience:
 
-> "Slope over intercept — I'd rather trade slope for intercept."
-> — Roelof Botha, LDV Capital interview, December 2024 [^9]
+> "If I had to trade them off, I'd rather trade slope for intercept."
+> — Roelof Botha, on favoring growth rate over current position, LDV Capital interview, December 2024 [^9]
 
 On the venture capital industry:
 
-> "I think there's a huge problem with the venture industry. There's too much money. In my opinion, investing in venture is a return-free risk."
-> — Roelof Botha, All-In podcast, October 2025 [^11]
+> "I think there's a huge problem with the venture industry. There's too much money. One of my partners has this phrase, that it's 'a return-free risk.'"
+> — Roelof Botha, quoting a Sequoia partner, All-In podcast, October 2025 [^11]
 
 On failure rates:
 
 > "In the last 20-25 years, 50% of the time we've made a seed or venture investment, we fail to fully recover capital, which is humbling."
 > — Roelof Botha, TechCrunch Disrupt, November 2025 [^12]
-
-On Sequoia's discipline:
-
-> "There's too much money and too many people who want to be investors. You need 40 Figmas a year for the industry to make the returns work, which means that they don't."
-> — Roelof Botha, Fortune, November 2025 [^5]
-
-On long-term thinking:
-
-> "There is no summit. There's only the climb."
-> — Roelof Botha, Fortune, November 2025 [^5]
-
-On the stewardship model:
-
-> "He handed the partnership over to a next generation. We didn't have to pay to get the partnership from the previous generation and nor will we charge the next generation."
-> — Roelof Botha, Fortune, November 2025 [^5]
 
 On Sequoia's returns:
 
@@ -192,12 +172,7 @@ Dev Ittycheria, CEO of MongoDB, on Botha's role as a board member:
 
 Botha himself described Ittycheria: "Having somebody like Dev, who is demanding and supportive of his team and would hold himself and his team accountable, those are just wonderful attributes around which to build" [^23].
 
-Evan Nisselson, Managing Partner of LDV Capital, on Botha:
-
-> "I was always impressed with how succinct and valuable your input was. You had a vision for the future. Your insights about visual imagery's impact were completely spot on."
-> — Evan Nisselson, LDV Capital interview, December 2024 [^9]
-
-No critical or negative founder testimonials about Botha were found in this research pass. Additional dedicated searching for founder quotes from Eventbrite, Tumblr, Evernote, and Xoom founders would strengthen this section.
+No critical or negative founder testimonials about Botha were found in this research pass beyond the Unity and MongoDB quotes above. Additional dedicated searching for founder quotes from Eventbrite, Tumblr, Evernote, and Xoom founders would strengthen this section.
 
 ## Sources
 

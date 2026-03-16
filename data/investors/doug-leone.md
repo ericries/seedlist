@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@dougleone"
   linkedin: "linkedin.com/in/douglas-leone-a2714"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
@@ -37,9 +37,7 @@ As of December 2025, Forbes estimated Leone's net worth at $10.8 billion [^2].
 
 Leone has described his path to venture capital as rooted in "fear, hunger and empathy" [^1]. He has articulated a preference for founders who have been tested by adversity, using what he calls a "trauma, hardship, purpose" framework to evaluate entrepreneurs [^7].
 
-Leone has stated: "I love founders who are spiky, in any dimension" [^7]. He values what he calls "crystal-clear thinking" in founders: "not a fancy slide pitch, but crystal-clear thinking" [^7]. His investment memo philosophy requires brevity and honesty: "One to two compelling reasons to invest — not seventeen. Two to three pages maximum. Present opposing data alongside supporting evidence" [^8].
-
-On risk-taking, Leone has said: "I prefer you take a shot. I'd rather have someone who gets A, F, F, A than someone that gets B+, B+, B+, B+. I prefer people who ask for forgiveness rather than for permission" [^5].
+Leone has stated: "I love founders who are spiky, in any dimension" [^7]. He values what he calls "crystal-clear thinking" in founders: "not a fancy slide pitch, but crystal-clear thinking" [^7]. His investment memo philosophy requires brevity and honesty — he favors one or two strong reasons to invest rather than a long list, prefers memos of two to three pages, and insists on presenting opposing data alongside supporting evidence [^8].
 
 Leone has described Sequoia's approach to founder support: "If it's creation time, the founders create. The thing I tell founders, 'You should do product/market fit, we can't help you there'" [^5]. He has also emphasized: "It's never about money but about doing something meaningful" [^7].
 
@@ -47,19 +45,19 @@ On the role of venture capital, Leone has stated: "What we do is company buildin
 
 ## Inferred Thesis
 
-Based on 30 verified investments in the portfolio table below:
+Based on 29 verified investments in the portfolio table below:
 
 **Stage distribution:**
-Leone invests across all stages, from seed through growth. Of 30 verified investments: approximately 6 were at seed stage (20%), 13 at Series A or B (43%), and 11 at growth stage or later (37%). Compared to the typical seed-focused investor, Leone operates primarily at Series A/B and growth, leveraging Sequoia's multi-stage platform to make large bets on proven companies.
+Leone invests across all stages, from seed through growth. Of 29 verified investments: approximately 6 were at seed stage (21%), 12 at Series A or B (41%), and 11 at growth stage or later (38%). Compared to the typical seed-focused investor, Leone operates primarily at Series A/B and growth, leveraging Sequoia's multi-stage platform to make large bets on proven companies.
 
-**Sector concentration (of 30 verified investments):**
-- Enterprise software & SaaS: 8 companies (27%) — ServiceNow, RingCentral, Medallia, ActionIQ, Cresta, strongDM, Birst, Aster Data
-- Cybersecurity: 7 companies (23%) — Wiz, Adallom, Cyera, Island, Oasis Security, Zafran, SecurityScorecard
-- Fintech: 3 companies (10%) — Nubank, Trade Republic, Netezza
-- Cloud infrastructure & networking: 4 companies (13%) — Meraki, Aruba Networks, Rackspace, International Network Services
-- Healthcare: 1 company (3%) — MedExpress
-- Consumer/commerce: 3 companies (10%) — CafePress, Hayneedle, PlanGrid
-- Other/data/analytics: 4 companies (13%) — Physna, Arbor Software/Hyperion, remaining portfolio companies
+**Sector concentration (of 29 verified investments):**
+- Enterprise software & SaaS: 9 companies (31%) — ServiceNow, RingCentral, Medallia, ActionIQ, Cresta, strongDM, Birst, Aster Data, PlanGrid
+- Cybersecurity: 7 companies (24%) — Wiz, Adallom, Cyera, Island, Oasis Security, Zafran, SecurityScorecard
+- Fintech: 2 companies (7%) — Nubank, Trade Republic
+- Cloud infrastructure & networking: 4 companies (14%) — Meraki, Aruba Networks, Rackspace, International Network Services
+- Data/analytics: 3 companies (10%) — Netezza, Physna, Arbor Software/Hyperion
+- Healthcare: 2 companies (7%) — MedExpress, Zirmed
+- Consumer/commerce: 2 companies (7%) — CafePress, Hayneedle
 
 **Key patterns:**
 
@@ -81,7 +79,7 @@ Leone invests across all stages, from seed through growth. Of 30 verified invest
 
 *Check size:* Ranges from seed investments of a few million dollars (Nubank seed, Zafran seed) to growth-stage investments of $100M+ (Trade Republic, Wiz later rounds) [^15][^16].
 
-**Note on sample size:** This analysis is based on 30 verified investments. Leone has been at Sequoia for 35+ years and has likely been involved in additional investments not publicly attributed to him individually. The percentages above should be treated as indicative rather than precise.
+**Note on sample size:** This analysis is based on 29 verified investments. Leone has been at Sequoia for 35+ years and has likely been involved in additional investments not publicly attributed to him individually. The percentages above should be treated as indicative rather than precise.
 
 ## Portfolio
 
@@ -95,7 +93,7 @@ Leone invests across all stages, from seed through growth. Of 30 verified invest
 | Medallia | 2011 | Growth ($35M) | [^19] |
 | Adallom | 2013 | Series A | [^10] |
 | Nubank | 2013 | Seed | [^20] |
-| ActionIQ | 2014 | Series A | [^12] |
+| ActionIQ | 2014 | Series A, Series B (2017) | [^12] |
 | PlanGrid | 2015 | Series A ($18M) | [^13] |
 | Aster Data | ~2008 | Early | [^12] |
 | Aruba Networks | ~2004 | Early | [^2] |
@@ -108,7 +106,7 @@ Leone invests across all stages, from seed through growth. Of 30 verified invest
 | Zirmed | ~2010s | Early | [^22] |
 | Wiz | 2020 | Series A ($100M) | [^11] |
 | strongDM | 2020 | Series A ($17M) | [^23] |
-| Island | 2020 | Series A | [^24] |
+| Island | 2020 | Series B ($115M) | [^24] |
 | Trade Republic | 2021 | Series C ($900M) | [^16] |
 | Cyera | 2022 | Series A ($60M) | [^25] |
 | Cresta | ~2022 | Growth | [^1] |
@@ -116,7 +114,6 @@ Leone invests across all stages, from seed through growth. Of 30 verified invest
 | Physna | ~2022 | Growth | [^1] |
 | Oasis Security | 2024 | Series A ($40M) | [^26] |
 | Zafran | ~2023 | Seed ($30.5M) | [^27] |
-| ActionIQ | 2017 | Series B ($30M) | [^12] |
 
 This table represents a partial view of Leone's portfolio over his 35+ year career at Sequoia. Years marked with "~" indicate approximate dates based on company founding year or contextual evidence. Leone has been involved in many additional Sequoia investments not individually attributed to him in public records.
 
@@ -126,11 +123,6 @@ On his identity as an immigrant and investor:
 
 > "I would like to be known as a person who cared deeply. My epitaph should say 'he died a young man,' as I am still a kid at heart."
 > — Doug Leone, Sequoia Capital website [^1]
-
-On risk-taking:
-
-> "I prefer you take a shot. I'd rather have someone who gets A, F, F, A than someone that gets B+, B+, B+, B+. I prefer people who ask for forgiveness rather than for permission."
-> — Doug Leone, Acquired podcast [^5]
 
 On patience in investing:
 
