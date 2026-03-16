@@ -6,6 +6,7 @@
   var index = null;
   var enrichedRows = null;
   var enrichedFields = null;
+  var recommendedRows = [];
 
   // ── Levenshtein / fuzzy matching ──
 
@@ -256,6 +257,145 @@
     return { rows: result, fields: headers.concat(addedFields), stats: stats, nameCol: nameCol };
   }
 
+  // ── Similarity scoring ──
+
+  function buildTargetProfile(enrichedRows) {
+    // Aggregate stage/sector frequencies from matched investors
+    var stageCounts = {};
+    var sectorCounts = {};
+    var matchedSlugs = {};
+    var matchedCount = 0;
+
+    enrichedRows.forEach(function (row) {
+      if (row.seedlist_match === "none" || row.seedlist_match === "queued") return;
+      matchedCount++;
+      // Track slugs to exclude from recommendations
+      if (row.seedlist_url) {
+        var slug = row.seedlist_url.replace(/.*\//, "").replace(".html", "");
+        matchedSlugs[slug] = true;
+      }
+      (row.investor_stage_focus || "").split(", ").forEach(function (s) {
+        s = s.trim();
+        if (s) stageCounts[s] = (stageCounts[s] || 0) + 1;
+      });
+      (row.investor_sector_focus || "").split(", ").forEach(function (s) {
+        s = s.trim();
+        if (s) sectorCounts[s] = (sectorCounts[s] || 0) + 1;
+      });
+    });
+
+    if (matchedCount === 0) return null;
+
+    // Normalize to weights (0-1)
+    var stageWeights = {};
+    var sectorWeights = {};
+    Object.keys(stageCounts).forEach(function (k) {
+      stageWeights[k] = stageCounts[k] / matchedCount;
+    });
+    Object.keys(sectorCounts).forEach(function (k) {
+      sectorWeights[k] = sectorCounts[k] / matchedCount;
+    });
+
+    return {
+      stageWeights: stageWeights,
+      sectorWeights: sectorWeights,
+      matchedSlugs: matchedSlugs,
+      matchedCount: matchedCount
+    };
+  }
+
+  function scoreInvestor(inv, profile) {
+    // Weighted Jaccard: how well does this investor's focus overlap
+    // with the frequency-weighted target profile?
+
+    // Stage score: sum of target weights for stages the investor covers
+    var stageScore = 0;
+    var stageTotalWeight = 0;
+    Object.keys(profile.stageWeights).forEach(function (s) {
+      stageTotalWeight += profile.stageWeights[s];
+      if ((inv.stage_focus || []).indexOf(s) !== -1) {
+        stageScore += profile.stageWeights[s];
+      }
+    });
+    if (stageTotalWeight > 0) stageScore /= stageTotalWeight;
+
+    // Sector score: same approach
+    var sectorScore = 0;
+    var sectorTotalWeight = 0;
+    Object.keys(profile.sectorWeights).forEach(function (s) {
+      sectorTotalWeight += profile.sectorWeights[s];
+      if ((inv.sector_focus || []).indexOf(s) !== -1) {
+        sectorScore += profile.sectorWeights[s];
+      }
+    });
+    if (sectorTotalWeight > 0) sectorScore /= sectorTotalWeight;
+
+    // Combined: sector matters more than stage (more differentiating)
+    return 0.35 * stageScore + 0.65 * sectorScore;
+  }
+
+  function findSimilarInvestors(enrichedRows) {
+    if (!index || !index.investors) return [];
+
+    var profile = buildTargetProfile(enrichedRows);
+    if (!profile || profile.matchedCount < 2) return [];
+
+    // Also exclude investors matched by name (even if different slug format)
+    var matchedNames = {};
+    enrichedRows.forEach(function (row) {
+      if (row.seedlist_match !== "none" && row.seedlist_match !== "queued") {
+        // Track firm_name too for firm_only matches
+        if (row.firm_name) matchedNames[normalize(row.firm_name)] = true;
+      }
+    });
+
+    var scored = [];
+    index.investors.forEach(function (inv) {
+      // Skip already-on-list investors
+      if (profile.matchedSlugs[inv.slug]) return;
+      if (matchedNames[normalize(inv.name)]) return;
+
+      var score = scoreInvestor(inv, profile);
+      if (score >= 0.4) {
+        scored.push({ investor: inv, score: score });
+      }
+    });
+
+    // Sort by score descending, take only strong matches
+    scored.sort(function (a, b) { return b.score - a.score; });
+
+    // Dynamic cutoff: take investors until score drops below 60% of the top score
+    if (scored.length === 0) return [];
+    var topScore = scored[0].score;
+    var cutoff = topScore * 0.6;
+    var results = [];
+    for (var i = 0; i < scored.length && i < 20; i++) {
+      if (scored[i].score < cutoff) break;
+      results.push(scored[i]);
+    }
+
+    return results;
+  }
+
+  function recommendationToRow(rec, nameCol, fields) {
+    var inv = rec.investor;
+    var row = {};
+    fields.forEach(function (f) { row[f] = ""; });
+    row[nameCol] = inv.name;
+    row.seedlist_match = "recommended";
+    row.seedlist_confidence = Math.round(rec.score * 100) / 100;
+    row.seedlist_url = "https://seedlist.com/investors/" + inv.slug + ".html";
+    row.seedlist_status = inv.status || "";
+    row.investor_stage_focus = (inv.stage_focus || []).join(", ");
+    row.investor_sector_focus = (inv.sector_focus || []).join(", ");
+    row.investor_check_size = inv.check_size || "";
+    row.investor_location = inv.location || "";
+    row.firm_name = inv.firm_name || "";
+    row.last_active = inv.last_active || "";
+    row.inferred_thesis_summary = inv.thesis_summary || "";
+    return row;
+  }
+
   // ── Render preview ──
 
   function renderPreview(data) {
@@ -296,6 +436,42 @@
       tbody.innerHTML += '<tr><td colspan="' + previewCols.length + '" style="text-align:center;color:var(--color-muted);">...and ' + (data.rows.length - 50) + ' more rows (all included in download)</td></tr>';
     }
 
+    // Compute and render recommendations
+    var recs = findSimilarInvestors(data.rows);
+    recommendedRows = [];
+    var recToggle = document.getElementById("rec-toggle");
+    var recSection = document.getElementById("rec-section");
+    var recCount = document.getElementById("rec-count");
+    var recBody = document.getElementById("rec-tbody");
+
+    if (recs.length > 0) {
+      recommendedRows = recs.map(function (r) {
+        return recommendationToRow(r, data.nameCol, data.fields);
+      });
+
+      recCount.textContent = recs.length;
+      recToggle.style.display = "inline-block";
+
+      var recHead = document.getElementById("rec-thead");
+      recHead.innerHTML = "<tr>" + previewCols.map(function (c) { return "<th>" + escHtml(c) + "</th>"; }).join("") + "</tr>";
+
+      recBody.innerHTML = recs.map(function (rec) {
+        var row = recommendationToRow(rec, data.nameCol, data.fields);
+        return '<tr class="rec-row">' + previewCols.map(function (c) {
+          var val = row[c] != null ? String(row[c]) : "";
+          var cls = "";
+          if (c === "seedlist_match") cls = ' class="match-recommended"';
+          if (c === "seedlist_url" && val) {
+            return '<td><a href="' + escHtml(val) + '" target="_blank">view</a></td>';
+          }
+          return "<td" + cls + ">" + escHtml(val) + "</td>";
+        }).join("") + "</tr>";
+      }).join("");
+    } else {
+      recToggle.style.display = "none";
+      recSection.style.display = "none";
+    }
+
     document.getElementById("upload-section").style.display = "none";
     document.getElementById("enrich-preview").style.display = "block";
   }
@@ -310,7 +486,8 @@
 
   function downloadCSV() {
     if (!enrichedRows || !enrichedFields) return;
-    var csv = Papa.unparse({ fields: enrichedFields, data: enrichedRows });
+    var allRows = enrichedRows.concat(recommendedRows);
+    var csv = Papa.unparse({ fields: enrichedFields, data: allRows });
     var blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
     var url = URL.createObjectURL(blob);
     var a = document.createElement("a");
@@ -383,11 +560,24 @@
     });
 
     document.getElementById("download-btn").addEventListener("click", downloadCSV);
+
+    document.getElementById("rec-toggle").addEventListener("click", function () {
+      var sec = document.getElementById("rec-section");
+      var showing = sec.style.display !== "none";
+      sec.style.display = showing ? "none" : "block";
+      this.textContent = showing
+        ? "Show " + document.getElementById("rec-count").textContent + " similar investors"
+        : "Hide recommendations";
+    });
+
     document.getElementById("reset-btn").addEventListener("click", function () {
       document.getElementById("upload-section").style.display = "block";
       document.getElementById("enrich-preview").style.display = "none";
+      document.getElementById("rec-section").style.display = "none";
+      document.getElementById("rec-toggle").style.display = "none";
       enrichedRows = null;
       enrichedFields = null;
+      recommendedRows = [];
       fileInput.value = "";
     });
   });

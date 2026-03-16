@@ -32,7 +32,8 @@
       "Read(//Users/EricRies2/Projects/seedlist-csv/**)",
       "Bash(.venv/bin/python3 build.py)",
       "Bash(cd:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(ls /Users/EricRies2/Projects/seedlist/data/investors/ | while read f; do grep -l \"status: flagged\" \"/Users/EricRies2/Projects/seedlist/data/investors/$f\" 2>/dev/null; done)"
     ]
   }
 }

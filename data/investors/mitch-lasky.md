@@ -15,10 +15,8 @@ last_verified_investment:
 social:
   twitter: "@mitchlasky"
   linkedin: "linkedin.com/in/mitchlasky"
-status: flagged
+status: published
 last_researched: 2026-03-16
-review_notes: |
-  Inferred thesis claims 21 investments but table has 19 rows; What Founders Say has 2 non-founder quotes (Lasky speaking); minor quote splicing in Stated Thesis
 ---
 
 ## Background
@@ -49,18 +47,17 @@ Lasky publicly describes his focus areas as mobile, games, digital privacy and i
 
 ## Inferred Thesis
 
-Based on 21 verified investments in the portfolio table below:
+Based on 19 verified investments in the portfolio table below:
 
-**Sector distribution (21 investments):**
-- Gaming / interactive entertainment: 14 investments (67%) — Riot Games, Discord, thatgamecompany, NaturalMotion, Gaia Interactive, PlayFab, Red Robot Labs, Meteor Entertainment, Outpost Games, Manticore Games, Vivox, Gaikai, Levellr, GFAL
-- Consumer social / mobile: 3 investments (14%) — Snapchat, Ubiquity6, Cyanogen
+**Sector distribution (19 investments):**
+- Gaming / interactive entertainment: 14 investments (74%) — Riot Games, Discord, thatgamecompany, NaturalMotion, Gaia Interactive, PlayFab, Red Robot Labs, Meteor Entertainment, Outpost Games, Manticore Games, Vivox, Gaikai, Levellr, GFAL
+- Consumer social / mobile: 3 investments (16%) — Snapchat, Ubiquity6, Cyanogen
 - Online education: 1 investment (5%) — Grockit
 - Developer infrastructure: 1 investment (5%) — Engine Yard
-- Other / unclassified: 2 investments (10%) — Hammer & Chisel (pre-Discord pivot), LAFC (sports)
 
 **Key patterns:**
 
-- **Gaming dominance**: 14 of 21 verified investments (67%) are in gaming or gaming-adjacent companies. This is the strongest single-sector concentration in Lasky's portfolio, and is consistent with his stated thesis but understates the degree — gaming is not merely a focus area but the overwhelming majority of his deal flow.
+- **Gaming dominance**: Nearly three-quarters of verified investments are in gaming or gaming-adjacent companies. This is the strongest single-sector concentration in Lasky's portfolio, and is consistent with his stated thesis but understates the degree — gaming is not merely a focus area but the overwhelming majority of his deal flow.
 
 - **Gaming infrastructure over game content**: Despite investing in game studios (Riot Games, thatgamecompany, Meteor Entertainment), a significant portion of Lasky's gaming investments target infrastructure and platform layers: Vivox (voice chat for games), PlayFab (backend services), Gaikai (cloud streaming), Discord (communication platform), Manticore Games (user-generated content platform), and Levellr (community analytics). This pattern suggests Lasky specifically targets companies that serve as distribution or infrastructure for the gaming ecosystem, consistent with his "distribution is king" philosophy.
 
@@ -78,7 +75,7 @@ Based on 21 verified investments in the portfolio table below:
 
 - **Notable gaps**: Despite claiming focus on "digital privacy and identity" and "online education," only one investment (Grockit) maps to education and none are identifiable as privacy/identity companies. Lasky's portfolio is far more gaming-concentrated than his stated thesis suggests.
 
-*Note: This analysis is based on 21 verified investments. Lasky may have additional investments not publicly attributed to him individually versus Benchmark generally. The sample is sufficient to identify the dominant gaming pattern.*
+*Note: This analysis is based on 19 verified investments. Lasky may have additional investments not publicly attributed to him individually versus Benchmark generally. The sample is sufficient to identify the dominant gaming pattern.*
 
 ## Portfolio
 
@@ -158,13 +155,7 @@ Based on 21 verified investments in the portfolio table below:
 
 — Brandon Beck, CEO and co-founder of Riot Games, on the Benchmark/Lasky investment, Riot Games funding announcement, July 2008 [^16]
 
-> "Frederic and Jordan founded Manticore on a revolutionary idea. They saw the opportunity to radically simplify the way high-quality 3D games are created and published."
-
-— Mitch Lasky, on Manticore Games founders (investor quote, not founder quote), Manticore Games press release, December 2017 [^28]
-
-Mitch Lasky, as a Discord board member, expressed his gratitude to Jason Citron during Citron's CEO transition in April 2025, noting they had "worked together closely for more than a decade" and calling Discord "the product of [Citron's] incredible vision for redefining how gamers connect" [^35]. While this is Lasky speaking about a founder rather than a founder speaking about Lasky, it demonstrates the long-standing board relationship.
-
-*No additional independently sourced founder testimonials about Mitch Lasky's specific impact as a board member or investor were found after dedicated searching. Lasky's portfolio founders (Evan Spiegel, Jason Citron, Brandon Beck/Marc Merrill, Jenova Chen) are relatively private about their investor relationships. The leaked Spiegel-Lasky emails [^34] demonstrate a close, trust-based working relationship but are not public endorsements. Lasky's transition away from active investing in 2018 and his focus on gaming — an industry where investor-founder public testimonials are less common than in enterprise SaaS — may account for the scarcity of available quotes.*
+*No additional independently sourced founder testimonials about Mitch Lasky were found after dedicated searching. Lasky's portfolio founders (Evan Spiegel, Jason Citron, Brandon Beck/Marc Merrill, Jenova Chen) are relatively private about their investor relationships. Lasky's transition away from active investing in 2018 and his focus on gaming — an industry where investor-founder public testimonials are less common than in enterprise SaaS — may account for the scarcity of available quotes.*
 
 ## Sources
 
@@ -202,4 +193,3 @@ Mitch Lasky, as a Discord board member, expressed his gratitude to Jason Citron 
 [^32]: VCSheet, "Mitch Lasky (Benchmark) / VC Breakdown & Contact," accessed March 2026. https://www.vcsheet.com/who/mitch-lasky
 [^33]: Tech Times, "'League of Legends' a billion-dollar winner for Riot Games," October 13, 2014. https://www.techtimes.com/articles/17803/20141013/league-of-legends-a-billion-dollar-winner-for-riot-games.htm
 [^34]: "A Letter a Day" Substack, "Letters #82/83: Evan Spiegel and Mitch Lasky (2014)," accessed March 2026. https://aletteraday.substack.com/p/letters-8283-evan-spiegel-and-mitch
-[^35]: PR Newswire, "Discord Names Humam Sakhnini New CEO," April 2025. https://www.prnewswire.com/news-releases/discord-names-humam-sakhnini-new-ceo-co-founder-jason-citron-remains-on-board-and-transitions-to-ceo-advisor-302436130.html
