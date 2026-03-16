@@ -1241,6 +1241,75 @@ def _enrich_row(row, name_col, firm_col, investors, firms, queued):
     return enrichment
 
 
+def _find_similar_investors(enriched_rows, investors):
+    """Find investors similar to the matched set but not on the user's list."""
+    # Build target profile from matched investors
+    stage_counts = {}
+    sector_counts = {}
+    matched_slugs = set()
+    matched_count = 0
+
+    for row in enriched_rows:
+        if row.get("seedlist_match") in ("none", "queued"):
+            continue
+        matched_count += 1
+        url = row.get("seedlist_url", "")
+        if url:
+            slug = url.rstrip("/").split("/")[-1].replace(".html", "")
+            matched_slugs.add(slug)
+        for s in row.get("investor_stage_focus", "").split(", "):
+            s = s.strip()
+            if s:
+                stage_counts[s] = stage_counts.get(s, 0) + 1
+        for s in row.get("investor_sector_focus", "").split(", "):
+            s = s.strip()
+            if s:
+                sector_counts[s] = sector_counts.get(s, 0) + 1
+
+    if matched_count < 2:
+        return []
+
+    # Normalize to weights
+    stage_weights = {k: v / matched_count for k, v in stage_counts.items()}
+    sector_weights = {k: v / matched_count for k, v in sector_counts.items()}
+
+    stage_total = sum(stage_weights.values()) or 1
+    sector_total = sum(sector_weights.values()) or 1
+
+    scored = []
+    for norm_name, profile in investors.items():
+        slug = profile.get("slug", "")
+        if slug in matched_slugs:
+            continue
+
+        # Stage score
+        stage_score = sum(stage_weights.get(s, 0) for s in profile.get("stage_focus", []))
+        stage_score /= stage_total
+
+        # Sector score
+        sector_score = sum(sector_weights.get(s, 0) for s in profile.get("sector_focus", []))
+        sector_score /= sector_total
+
+        combined = 0.35 * stage_score + 0.65 * sector_score
+        if combined >= 0.4:
+            scored.append((combined, profile))
+
+    scored.sort(key=lambda x: x[0], reverse=True)
+
+    # Dynamic cutoff: take until score drops below 60% of top
+    if not scored:
+        return []
+    top_score = scored[0][0]
+    cutoff = top_score * 0.6
+    results = []
+    for score, profile in scored[:20]:
+        if score < cutoff:
+            break
+        results.append((round(score, 2), profile))
+
+    return results
+
+
 def cmd_enrich(input_path, output_path=None):
     """Enrich a CSV with Seedlist investor/firm data."""
     input_path = Path(input_path)
@@ -1296,12 +1365,34 @@ def cmd_enrich(input_path, output_path=None):
         combined.update(enrichment)
         enriched_rows.append(combined)
 
+    # Find similar investors
+    similar = _find_similar_investors(enriched_rows, investors)
+    rec_rows = []
+    for score, profile in similar:
+        rec = {col: "" for col in original_fields}
+        rec[name_col] = profile.get("name", "")
+        rec.update({
+            "seedlist_match": "recommended",
+            "seedlist_confidence": score,
+            "seedlist_url": f"https://seedlist.com/investors/{profile.get('slug', '')}.html",
+            "seedlist_status": profile.get("status", ""),
+            "investor_stage_focus": ", ".join(profile.get("stage_focus", [])),
+            "investor_sector_focus": ", ".join(profile.get("sector_focus", [])),
+            "investor_check_size": profile.get("check_size", ""),
+            "investor_location": profile.get("location", ""),
+            "firm_name": profile.get("firm", ""),
+            "last_active": str((profile.get("last_verified_investment") or {}).get("date", "")),
+            "inferred_thesis_summary": profile.get("thesis_summary", ""),
+        })
+        rec_rows.append(rec)
+
     # Write output CSV
     out_fields = list(original_fields) + enrichment_fields
+    all_rows = enriched_rows + rec_rows
     with open(output_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=out_fields, extrasaction="ignore")
         writer.writeheader()
-        writer.writerows(enriched_rows)
+        writer.writerows(all_rows)
 
     total = len(rows)
     matched = stats["exact"] + stats["fuzzy"] + stats["firm_only"]
@@ -1312,6 +1403,8 @@ def cmd_enrich(input_path, output_path=None):
     print(f"  Queued:         {stats['queued']}")
     print(f"  No match:       {stats['none']}")
     print(f"  Match rate:     {matched}/{total} ({100*matched//total if total else 0}%)")
+    if rec_rows:
+        print(f"  Recommended:    {len(rec_rows)} similar investors added")
     print(f"\nOutput: {output_path}")
 
 

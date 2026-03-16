@@ -269,6 +269,130 @@ class TestEnrichCLI:
         # Second row should not match
 
 
+# ── Tests for similarity scoring ──
+
+class TestFindSimilarInvestors:
+    @pytest.fixture
+    def investor_pool(self):
+        """Pool of investors to recommend from."""
+        return {
+            "alice investor": {
+                "name": "Alice Investor", "slug": "alice-investor", "type": "individual",
+                "stage_focus": ["seed", "series-a"], "sector_focus": ["fintech", "enterprise"],
+                "check_size": "$500K", "location": "SF", "status": "published",
+                "thesis_summary": "Fintech and enterprise at seed.",
+            },
+            "bob venture": {
+                "name": "Bob Venture", "slug": "bob-venture", "type": "individual",
+                "stage_focus": ["seed"], "sector_focus": ["fintech", "developer-tools"],
+                "check_size": "$250K", "location": "NYC", "status": "published",
+                "thesis_summary": "Seed fintech and dev tools.",
+            },
+            "carol growth": {
+                "name": "Carol Growth", "slug": "carol-growth", "type": "individual",
+                "stage_focus": ["growth", "late-stage"], "sector_focus": ["biotech", "pharma"],
+                "check_size": "$10M", "location": "Boston", "status": "published",
+                "thesis_summary": "Late stage biotech.",
+            },
+            "dave seed": {
+                "name": "Dave Seed", "slug": "dave-seed", "type": "individual",
+                "stage_focus": ["seed"], "sector_focus": ["fintech", "consumer"],
+                "check_size": "$100K", "location": "SF", "status": "published",
+                "thesis_summary": "Seed fintech consumer.",
+            },
+        }
+
+    def test_finds_similar_investors(self, investor_pool):
+        # Enriched rows that look like seed/fintech investors
+        enriched_rows = [
+            {
+                "seedlist_match": "exact", "seedlist_url": "https://seedlist.com/investors/matched-one.html",
+                "investor_stage_focus": "seed", "investor_sector_focus": "fintech, enterprise",
+            },
+            {
+                "seedlist_match": "exact", "seedlist_url": "https://seedlist.com/investors/matched-two.html",
+                "investor_stage_focus": "seed, series-a", "investor_sector_focus": "fintech, developer-tools",
+            },
+        ]
+        results = sl._find_similar_investors(enriched_rows, investor_pool)
+        # Alice, Bob, Dave should score well (fintech/seed overlap)
+        # Carol should NOT appear (biotech/growth is completely different)
+        names = [p.get("name") for _, p in results]
+        assert "Carol Growth" not in names
+        assert len(results) > 0
+        # All results should have score >= 0.4
+        for score, _ in results:
+            assert score >= 0.4
+
+    def test_excludes_already_matched(self, investor_pool):
+        enriched_rows = [
+            {
+                "seedlist_match": "exact",
+                "seedlist_url": "https://seedlist.com/investors/alice-investor.html",
+                "investor_stage_focus": "seed, series-a",
+                "investor_sector_focus": "fintech, enterprise",
+            },
+            {
+                "seedlist_match": "exact",
+                "seedlist_url": "https://seedlist.com/investors/bob-venture.html",
+                "investor_stage_focus": "seed",
+                "investor_sector_focus": "fintech, developer-tools",
+            },
+        ]
+        results = sl._find_similar_investors(enriched_rows, investor_pool)
+        slugs = [p.get("slug") for _, p in results]
+        assert "alice-investor" not in slugs
+        assert "bob-venture" not in slugs
+
+    def test_needs_minimum_matches(self, investor_pool):
+        # Only 1 matched row — should return empty (need >= 2)
+        enriched_rows = [
+            {
+                "seedlist_match": "exact",
+                "seedlist_url": "https://seedlist.com/investors/someone.html",
+                "investor_stage_focus": "seed",
+                "investor_sector_focus": "fintech",
+            },
+        ]
+        results = sl._find_similar_investors(enriched_rows, investor_pool)
+        assert results == []
+
+    def test_skips_unmatched_rows(self, investor_pool):
+        enriched_rows = [
+            {"seedlist_match": "none", "investor_stage_focus": "", "investor_sector_focus": ""},
+            {"seedlist_match": "queued", "investor_stage_focus": "", "investor_sector_focus": ""},
+            {
+                "seedlist_match": "exact",
+                "seedlist_url": "https://seedlist.com/investors/x.html",
+                "investor_stage_focus": "seed",
+                "investor_sector_focus": "fintech",
+            },
+        ]
+        # Only 1 real match, so should return empty
+        results = sl._find_similar_investors(enriched_rows, investor_pool)
+        assert results == []
+
+    def test_results_sorted_by_score(self, investor_pool):
+        enriched_rows = [
+            {
+                "seedlist_match": "exact",
+                "seedlist_url": "https://seedlist.com/investors/x.html",
+                "investor_stage_focus": "seed",
+                "investor_sector_focus": "fintech, enterprise",
+            },
+            {
+                "seedlist_match": "exact",
+                "seedlist_url": "https://seedlist.com/investors/y.html",
+                "investor_stage_focus": "seed, series-a",
+                "investor_sector_focus": "fintech, developer-tools, enterprise",
+            },
+        ]
+        results = sl._find_similar_investors(enriched_rows, investor_pool)
+        if len(results) >= 2:
+            scores = [s for s, _ in results]
+            assert scores == sorted(scores, reverse=True)
+
+
 # ── Tests for build.py enrichment index ──
 
 class TestEnrichmentIndex:

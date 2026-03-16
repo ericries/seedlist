@@ -61,6 +61,53 @@ const MOCK_INDEX = {
   ]
 };
 
+// Extended index for recommendation tests — adds investors that should be recommended
+const MOCK_INDEX_WITH_RECS = JSON.parse(JSON.stringify(MOCK_INDEX));
+MOCK_INDEX_WITH_RECS.investors.push(
+  {
+    name: "Alice Seedster",
+    slug: "alice-seedster",
+    firm: "acme-vc",
+    firm_name: "Acme VC",
+    role: "Partner",
+    location: "San Francisco, CA",
+    stage_focus: ["seed"],
+    sector_focus: ["fintech", "consumer-internet"],
+    check_size: "$100K-$500K",
+    last_active: "2025-06-01",
+    status: "published",
+    thesis_summary: "Seed stage fintech and consumer."
+  },
+  {
+    name: "Bob Enterprise",
+    slug: "bob-enterprise",
+    firm: "growth-co",
+    firm_name: "Growth Co",
+    role: "Partner",
+    location: "New York, NY",
+    stage_focus: ["seed", "series-a"],
+    sector_focus: ["fintech", "enterprise"],
+    check_size: "$1M-$5M",
+    last_active: "2025-08-01",
+    status: "published",
+    thesis_summary: "Enterprise fintech at seed and series A."
+  },
+  {
+    name: "Carol Biotech",
+    slug: "carol-biotech",
+    firm: "bio-fund",
+    firm_name: "Bio Fund",
+    role: "Partner",
+    location: "Boston, MA",
+    stage_focus: ["growth", "late-stage"],
+    sector_focus: ["biotech", "pharma"],
+    check_size: "$10M+",
+    last_active: "2025-03-01",
+    status: "published",
+    thesis_summary: "Late stage biotech and pharma."
+  }
+);
+
 // ── Minimal HTML that mirrors the template's DOM IDs ──
 
 const HTML_SHELL = `<!DOCTYPE html>
@@ -75,11 +122,18 @@ const HTML_SHELL = `<!DOCTYPE html>
   <div id="enrich-preview" style="display:none">
     <div id="enrich-stats"></div>
     <button id="download-btn">Download</button>
+    <button id="rec-toggle" style="display:none">Show <span id="rec-count">0</span> similar investors</button>
     <button id="reset-btn">Reset</button>
     <table>
       <thead id="enrich-thead"></thead>
       <tbody id="enrich-tbody"></tbody>
     </table>
+    <div id="rec-section" style="display:none">
+      <table>
+        <thead id="rec-thead"></thead>
+        <tbody id="rec-tbody"></tbody>
+      </table>
+    </div>
   </div>
 </body>
 </html>`;
@@ -90,7 +144,8 @@ const HTML_SHELL = `<!DOCTYPE html>
  * Create a jsdom window, wire up PapaParse + fetch mock, load enrich.js,
  * and return the window after DOMContentLoaded fires and the index is loaded.
  */
-async function createEnv() {
+async function createEnv(customIndex) {
+  const indexToUse = customIndex || MOCK_INDEX;
   const dom = new JSDOM(HTML_SHELL, {
     url: "https://seedlist.com/enrich.html",
     runScripts: "dangerously",
@@ -110,7 +165,7 @@ async function createEnv() {
   window.fetch = function (_url) {
     return Promise.resolve({
       json: function () {
-        return Promise.resolve(JSON.parse(JSON.stringify(MOCK_INDEX)));
+        return Promise.resolve(JSON.parse(JSON.stringify(indexToUse)));
       }
     });
   };
@@ -501,6 +556,117 @@ async function runTests() {
     assert.strictEqual(ronRow.investor_sector_focus, "fintech, consumer-internet");
 
     assert.ok(downloadTriggered, "Download link click should have been triggered");
+    window.close();
+  });
+
+  // ── 13. Recommendations: similar investors are shown ──
+  await test("Recommendations: similar seed/fintech investors recommended, biotech excluded", async function () {
+    const { window } = await createEnv(MOCK_INDEX_WITH_RECS);
+    // Upload CSV with Ron Conway and Mike Maples (both seed/fintech)
+    const csv = "Name\nRon Conway\nMike Maples\n";
+    await processCSVString(window, csv);
+
+    const doc = window.document;
+    const recToggle = doc.getElementById("rec-toggle");
+    const recSection = doc.getElementById("rec-section");
+
+    // Rec toggle should be visible (we have candidates)
+    assert.notStrictEqual(recToggle.style.display, "none", "Rec toggle should be visible");
+
+    // Rec section should be hidden until toggled
+    assert.strictEqual(recSection.style.display, "none", "Rec section hidden by default");
+
+    // Read recommendation rows
+    const recBody = doc.getElementById("rec-tbody");
+    const recRows = recBody.querySelectorAll("tr");
+    const recNames = [];
+    recRows.forEach(function (tr) {
+      const cells = tr.querySelectorAll("td");
+      if (cells.length > 0) recNames.push(cells[0].textContent.trim());
+    });
+
+    // Alice (seed/fintech) and Bob (seed+series-a/fintech+enterprise) should be recommended
+    // Carol (growth/biotech) should NOT be recommended
+    assert.ok(recNames.includes("Alice Seedster"), "Alice Seedster should be recommended (seed/fintech overlap)");
+    assert.ok(!recNames.includes("Carol Biotech"), "Carol Biotech should NOT be recommended (biotech/growth mismatch)");
+
+    // Rec rows should have match type "recommended"
+    const firstRecRow = recBody.querySelector("tr");
+    const matchCell = firstRecRow.querySelectorAll("td")[1]; // seedlist_match column
+    assert.strictEqual(matchCell.textContent.trim(), "recommended");
+    window.close();
+  });
+
+  // ── 14. Recommendations toggle show/hide ──
+  await test("Recommendations: toggle button shows and hides section", async function () {
+    const { window } = await createEnv(MOCK_INDEX_WITH_RECS);
+    const csv = "Name\nRon Conway\nMike Maples\n";
+    await processCSVString(window, csv);
+
+    const doc = window.document;
+    const recToggle = doc.getElementById("rec-toggle");
+    const recSection = doc.getElementById("rec-section");
+
+    // Click toggle to show
+    recToggle.click();
+    assert.strictEqual(recSection.style.display, "block", "Rec section should be visible after toggle");
+    assert.ok(recToggle.textContent.includes("Hide"), "Button should say Hide after showing");
+
+    // Click toggle to hide
+    recToggle.click();
+    assert.strictEqual(recSection.style.display, "none", "Rec section should be hidden after second toggle");
+    window.close();
+  });
+
+  // ── 15. Recommendations included in CSV download ──
+  await test("Recommendations: included in downloaded CSV", async function () {
+    const { window } = await createEnv(MOCK_INDEX_WITH_RECS);
+    const csv = "Name\nRon Conway\nMike Maples\n";
+    await processCSVString(window, csv);
+
+    // Intercept Papa.unparse
+    let unparsedData = null;
+    const origUnparse = window.Papa.unparse;
+    window.Papa.unparse = function (input) {
+      unparsedData = input;
+      return origUnparse.call(window.Papa, input);
+    };
+
+    const origCreateElement = window.document.createElement.bind(window.document);
+    window.document.createElement = function (tag) {
+      const el = origCreateElement(tag);
+      if (tag === "a") { el.click = function () {}; }
+      return el;
+    };
+
+    window.document.getElementById("download-btn").click();
+
+    assert.ok(unparsedData, "Papa.unparse should have been called");
+    // Should have original rows + recommendation rows
+    assert.ok(unparsedData.data.length > 2, "Download should include more than 2 rows (originals + recommendations)");
+
+    const recRows = unparsedData.data.filter(function (r) { return r.seedlist_match === "recommended"; });
+    assert.ok(recRows.length > 0, "Download should include recommended rows");
+
+    // Verify rec rows have proper enrichment data
+    const aliceRow = recRows.find(function (r) { return r.Name === "Alice Seedster"; });
+    if (aliceRow) {
+      assert.ok(aliceRow.seedlist_url.includes("alice-seedster"), "Rec row should have correct URL");
+      assert.ok(aliceRow.investor_stage_focus.includes("seed"), "Rec row should have stage focus");
+    }
+    window.close();
+  });
+
+  // ── 16. No recommendations with insufficient matches ──
+  await test("Recommendations: not shown with only 1 matched investor", async function () {
+    const { window } = await createEnv(MOCK_INDEX_WITH_RECS);
+    // Only 1 match — not enough to build a target profile
+    const csv = "Name\nRon Conway\nUnknown Person\nAnother Nobody\n";
+    await processCSVString(window, csv);
+
+    const doc = window.document;
+    const recToggle = doc.getElementById("rec-toggle");
+    assert.strictEqual(recToggle.style.display, "none", "Rec toggle should be hidden with < 2 matches");
     window.close();
   });
 

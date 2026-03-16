@@ -114,6 +114,11 @@
 .match-firm_only { color: var(--color-accent); font-weight: 600; }
 .match-queued { color: var(--color-stage); font-weight: 600; }
 .match-none { color: #dc2626; }
+.match-recommended { color: #0d9488; font-weight: 600; }
+
+/* Recommendation rows */
+.rec-row { background: #f0fdfa; }
+.rec-row:hover { background: #ccfbf1; }
 
 /* Actions */
 .enrich-actions {
@@ -183,6 +188,7 @@
 
   <div class="enrich-actions">
     <button class="btn btn-primary" id="download-btn">Download enriched CSV</button>
+    <button class="btn btn-secondary" id="rec-toggle" style="display:none">Show <span id="rec-count">0</span> similar investors</button>
     <button class="btn btn-secondary" id="reset-btn">Upload another</button>
   </div>
 
@@ -191,6 +197,17 @@
       <thead id="enrich-thead"></thead>
       <tbody id="enrich-tbody"></tbody>
     </table>
+  </div>
+
+  <div id="rec-section" style="display:none">
+    <h3 style="margin:1.5rem 0 0.5rem; font-size:1rem; font-weight:600; color:#0d9488;">Similar investors not on your list</h3>
+    <p style="font-size:0.8rem; color:var(--color-muted); margin-bottom:0.75rem;">Based on stage and sector overlap with your matched investors. Included in CSV download.</p>
+    <div class="enrich-results">
+      <table class="enrich-table">
+        <thead id="rec-thead"></thead>
+        <tbody id="rec-tbody"></tbody>
+      </table>
+    </div>
   </div>
 </div>
 

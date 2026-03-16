@@ -7,6 +7,7 @@
   var enrichedRows = null;
   var enrichedFields = null;
   var recommendedRows = [];
+  var savedRecCount = "0";
 
   // ── Levenshtein / fuzzy matching ──
 
@@ -449,7 +450,8 @@
         return recommendationToRow(r, data.nameCol, data.fields);
       });
 
-      recCount.textContent = recs.length;
+      savedRecCount = String(recs.length);
+      recCount.textContent = savedRecCount;
       recToggle.style.display = "inline-block";
 
       var recHead = document.getElementById("rec-thead");
@@ -525,7 +527,10 @@
 
   // ── Init ──
 
+  var _initDone = false;
   document.addEventListener("DOMContentLoaded", function () {
+    if (_initDone) return;
+    _initDone = true;
     // Load enrichment index
     fetch("/enrichment-index.json")
       .then(function (r) { return r.json(); })
@@ -561,14 +566,20 @@
 
     document.getElementById("download-btn").addEventListener("click", downloadCSV);
 
-    document.getElementById("rec-toggle").addEventListener("click", function () {
-      var sec = document.getElementById("rec-section");
-      var showing = sec.style.display !== "none";
-      sec.style.display = showing ? "none" : "block";
-      this.textContent = showing
-        ? "Show " + document.getElementById("rec-count").textContent + " similar investors"
-        : "Hide recommendations";
-    });
+    var recToggleBtn = document.getElementById("rec-toggle");
+    if (recToggleBtn) {
+      recToggleBtn.addEventListener("click", function () {
+        var sec = document.getElementById("rec-section");
+        if (!sec) return;
+        var showing = sec.style.display !== "none";
+        sec.style.display = showing ? "none" : "block";
+        if (showing) {
+          this.innerHTML = "Show " + savedRecCount + " similar investors";
+        } else {
+          this.innerHTML = "Hide recommendations";
+        }
+      });
+    }
 
     document.getElementById("reset-btn").addEventListener("click", function () {
       document.getElementById("upload-section").style.display = "block";
