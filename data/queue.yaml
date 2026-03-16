@@ -2082,7 +2082,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: David Cancel
   type: individual
@@ -2128,7 +2128,7 @@ queue:
   discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: SentinelOne
   type: startup
@@ -2189,7 +2189,7 @@ queue:
   discovered_from: howard-morgan
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Bill Gross
   type: individual
@@ -2216,7 +2216,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Arash Afrakhteh
   type: individual
@@ -2234,7 +2234,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Khalil Fuller
   type: individual
@@ -2252,7 +2252,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Harris Stolzenberg
   type: individual
@@ -2531,7 +2531,7 @@ queue:
   discovered_from: eduardo-saverin
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Karen Page
   type: individual
@@ -2549,7 +2549,7 @@ queue:
   discovered_from: eduardo-saverin
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Chang Wen Lai
   type: individual

@@ -31,7 +31,8 @@
       "Bash(git worktree:*)",
       "Read(//Users/EricRies2/Projects/seedlist-csv/**)",
       "Bash(.venv/bin/python3 build.py)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "Bash(node:*)"
     ]
   }
 }
