@@ -14,7 +14,7 @@ last_verified_investment:
   round: "Seed"
 social:
   linkedin: "linkedin.com/in/kevinharvey2"
-status: draft
+status: published
 last_researched: 2026-03-15
 ---
 
