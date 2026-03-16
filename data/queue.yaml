@@ -1150,7 +1150,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Mitch Lasky
   type: individual
@@ -1159,7 +1159,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Sarah Tavel
   type: individual
@@ -1177,7 +1177,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Miles Grimshaw
   type: individual
@@ -1944,7 +1944,7 @@ queue:
   discovered_from: josh-kopelman
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Hayley Barna
   type: individual
@@ -2771,7 +2771,8 @@ queue:
   added: 2026-03-15
 - name: Stainless
   type: startup
-  source: Developer tools company (API/SDK), seed investor TheGP, Series A led by a16z
+  source: Developer tools company (API/SDK), seed investor TheGP, Series A led by
+    a16z
   discovered_from: dan-portillo
   discovery_depth: 3
   priority: normal
