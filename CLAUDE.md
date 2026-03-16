@@ -398,6 +398,8 @@ Within each wave, process in this order:
 - Queue exhaustion — all pending items processed
 - Quality degradation — if profiles at depth 3+ are too thin to be useful, stop expanding
 
+**Queue pruning rule:** Do NOT add `priority: low` items at `discovery_depth >= 3`. These are too far removed to be useful. Use `python3 scripts/sl prune` periodically to clean existing low-value items.
+
 ## Two-Pass Review Workflow
 
 Every profile goes through two passes before publication.
@@ -408,8 +410,9 @@ Follow the standard research workflow above. Set `status: draft` in the frontmat
 
 ### Second Pass: Verification Review
 
-After writing a profile, perform a verification review:
+After writing a profile, perform a verification review. **Start with automated lint:**
 
+0. **Run `python3 scripts/sl lint {slug}`.** Fix all errors before proceeding. If lint is clean (0 errors, 0 warnings), focus the semantic review only on: (a) spot-check 3 quotes against sources, (b) verify inferred thesis is supported by portfolio, (c) confirm "What Founders Say" has actual founder quotes. Skip full source re-reading when lint is clean.
 1. **Re-read every cited source.** Use WebFetch to load each URL in the Sources section.
 2. **Verify each claim.** For every factual claim with a footnote, confirm that the cited source actually supports the claim. Check names, numbers, dates, and roles.
 3. **Check for unsourced claims.** Read through the entire profile looking for any factual statement without a citation. Either add a citation or remove the claim.
@@ -533,6 +536,10 @@ python3 scripts/sl ship [MSG]          # git add + commit + push with optional m
 python3 scripts/sl claim SLUG          # Set queue item to in_progress
 python3 scripts/sl complete SLUG       # Set queue item to completed
 python3 scripts/sl check               # Verify repo health: uncommitted, unpushed, build status
+python3 scripts/sl lint SLUG [--no-fetch]  # Automated citation/structure checker (exit 0=clean, 1=errors, 2=warnings)
+python3 scripts/sl prune [--execute]   # Remove low-value queue items (dry-run by default)
+python3 scripts/sl gen-firms [--dry-run]   # Auto-generate firm profiles from investor data
+python3 scripts/sl gen-startups [--threshold N] [--dry-run]  # Auto-generate startup profiles from portfolio cross-refs
 ```
 
 **Agent prompts should reference these commands.** For example, after fixing a profile, agents should run `python3 scripts/sl publish {slug}` instead of manual git/build/push sequences. When a new repeated operation pattern emerges, add it to `scripts/sl`.
@@ -572,9 +579,9 @@ Before adding any investor to the queue, **check if their firm already has a pro
 
 **If the investor queue (`type: individual`, `status: pending`) has 3+ entries, at least one research agent MUST be working on investor profiles at all times.** This takes priority over firm and startup research. Concretely:
 
-- If you have 5 agent slots and 5+ pending investors: run all 5 on investors.
-- If you have 5 agent slots and 3-4 pending investors: run 3-4 on investors, remainder on firms/startups.
-- If you have 5 agent slots and 0-2 pending investors: fill with firms/startups, but those agents must extract investor names aggressively to refill the investor queue.
+- If you have 8 agent slots and 5+ pending investors: run all slots on investors.
+- If you have 8 agent slots and 3-4 pending investors: run 3-4 on investors, remainder on firms/startups.
+- If you have 8 agent slots and 0-2 pending investors: fill with firms/startups, but those agents must extract investor names aggressively to refill the investor queue.
 
 **When selecting which pending investors to research, always prefer `priority: high` (angels, solo GPs, investors at un-profiled firms) over `priority: normal` (senior partners at already-profiled firms), even if the normal-priority items were added first.** Only work on `priority: low` investors when the high and normal queues are empty.
 
@@ -583,17 +590,18 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 ### Batch Loop
 
 1. **Check investor queue depth.** Count `type: individual, status: pending` items. This determines batch composition per the threshold rule above.
-2. **Select batch:** Pick up to 5 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
+2. **Select batch:** Pick up to 8 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
 3. **Launch parallel agents** for all items concurrently.
-4. **Mid-batch extraction:** As firm/startup agents discover investor names, add them to `queue.yaml` immediately (agents should do this themselves; the orchestrator should also scan agent results for missed names).
-5. **As each agent completes** (don't wait for the whole batch):
+4. **Mid-batch extraction:** As firm/startup agents discover investor names, report them in output as `QUEUE_ADD: name=..., type=..., firm=..., priority=..., discovered_from=...`. The orchestrator applies additions between batches. Research agents MUST NOT modify `queue.yaml` directly.
+5. **As each research agent completes**, immediately launch a review agent for that profile. Don't wait for the full batch.
+6. **As each agent completes** (don't wait for the whole batch):
    a. Write the profile to disk immediately.
    b. `git add` + `git commit` + `git push` so it appears on the live site NOW.
    c. Mark queue item as `completed` in `queue.yaml`.
    d. Continue with review/verification in parallel with pushing.
    e. When all agents in the batch are done: run `python3 build.py`, push again, re-check investor queue depth, print batch summary.
-6. **Start next batch immediately** — do NOT wait for user confirmation.
-7. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
+7. **Start next batch immediately** — do NOT wait for user confirmation.
+8. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
 
 ### Key Principles
 
