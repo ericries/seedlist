@@ -15,8 +15,10 @@ last_verified_investment:
 social:
   twitter: "@mitchlasky"
   linkedin: "linkedin.com/in/mitchlasky"
-status: draft
+status: flagged
 last_researched: 2026-03-16
+review_notes: |
+  Inferred thesis claims 21 investments but table has 19 rows; What Founders Say has 2 non-founder quotes (Lasky speaking); minor quote splicing in Stated Thesis
 ---
 
 ## Background
