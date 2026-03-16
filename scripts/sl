@@ -15,6 +15,8 @@ Usage:
   sl check               Verify repo state: uncommitted changes, unpushed commits, build status
   sl recent              Show investor profiles sorted by most recent verified investment
   sl lint SLUG [--no-fetch]  Automated citation and structure checker
+  sl lint-drafts [--no-fetch]  Lint all draft profiles
+  sl publish-clean         Publish all drafts that pass lint with 0 errors
   sl prune [--execute]   Remove low-value queue items (dry-run by default)
   sl gen-firms [--dry-run]   Auto-generate firm profiles from investor data
   sl gen-startups [--threshold N] [--dry-run]  Auto-generate startup profiles from portfolio cross-refs
@@ -880,6 +882,100 @@ No sources yet.
         print(f"\n{action} {len(generated)} startup profiles")
 
 
+def cmd_lint_drafts(no_fetch=False):
+    """Lint all draft profiles across all directories."""
+    results = {"clean": [], "warnings": [], "errors": []}
+    for subdir in ["investors", "firms", "startups"]:
+        for md_file in sorted((DATA / subdir).glob("*.md")):
+            status = get_frontmatter_status(md_file)
+            if status != "draft":
+                continue
+            slug = md_file.stem
+            # Capture lint output
+            import io
+            from contextlib import redirect_stdout
+            buf = io.StringIO()
+            try:
+                old_argv = sys.argv
+                sys.argv = ["sl", "lint", slug] + (["--no-fetch"] if no_fetch else [])
+                with redirect_stdout(buf):
+                    cmd_lint(slug, no_fetch=no_fetch)
+            except SystemExit as e:
+                code = e.code if e.code is not None else 0
+                output = buf.getvalue().strip()
+                if code == 0:
+                    results["clean"].append(slug)
+                    print(f"  ✓ {slug}")
+                elif code == 1:
+                    results["errors"].append(slug)
+                    print(f"  ✗ {slug}")
+                    for line in output.split("\n"):
+                        if line.strip():
+                            print(f"    {line.strip()}")
+                else:
+                    results["warnings"].append(slug)
+                    print(f"  ⚠ {slug}")
+                    for line in output.split("\n"):
+                        if line.strip():
+                            print(f"    {line.strip()}")
+            finally:
+                sys.argv = old_argv
+
+    total = sum(len(v) for v in results.values())
+    print(f"\nLinted {total} drafts: "
+          f"{len(results['clean'])} clean, "
+          f"{len(results['warnings'])} warnings, "
+          f"{len(results['errors'])} errors")
+
+
+def cmd_publish_clean():
+    """Publish all draft profiles that pass lint (0 errors)."""
+    published = []
+    for subdir in ["investors", "firms", "startups"]:
+        for md_file in sorted((DATA / subdir).glob("*.md")):
+            status = get_frontmatter_status(md_file)
+            if status != "draft":
+                continue
+            slug = md_file.stem
+            # Run lint silently
+            import io
+            from contextlib import redirect_stdout
+            buf = io.StringIO()
+            try:
+                with redirect_stdout(buf):
+                    cmd_lint(slug, no_fetch=True)
+            except SystemExit as e:
+                code = e.code if e.code is not None else 0
+                if code <= 1:
+                    # 0 = clean, skip errors (1)
+                    if code == 0:
+                        set_profile_status(md_file, "published")
+                        published.append(slug)
+                        print(f"  Published: {slug}")
+                    else:
+                        print(f"  Skipped (lint errors): {slug}")
+                else:
+                    # warnings only — publish
+                    set_profile_status(md_file, "published")
+                    published.append(slug)
+                    print(f"  Published (with warnings): {slug}")
+
+    if not published:
+        print("No draft profiles ready to publish.")
+        return
+
+    # Rebuild and push
+    run("python3 build.py")
+    print(f"\nSite rebuilt with {len(published)} new profiles")
+    run("git add -A")
+    slugs_str = ", ".join(published[:5])
+    if len(published) > 5:
+        slugs_str += f" +{len(published) - 5} more"
+    run(f'git commit -m "Publish {len(published)} profiles: {slugs_str}"')
+    run("git push")
+    print("Pushed to live site")
+
+
 def _normalize_company(name):
     """Normalize company name to a slug."""
     name = name.strip()
@@ -946,6 +1042,11 @@ def main():
             sys.exit(1)
         no_fetch = "--no-fetch" in sys.argv
         cmd_lint(sys.argv[2], no_fetch=no_fetch)
+    elif cmd == "lint-drafts":
+        no_fetch = "--no-fetch" in sys.argv
+        cmd_lint_drafts(no_fetch=no_fetch)
+    elif cmd == "publish-clean":
+        cmd_publish_clean()
     elif cmd == "prune":
         execute = "--execute" in sys.argv
         cmd_prune(execute=execute)
