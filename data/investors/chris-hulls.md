@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@ChrisHulls"
   linkedin: "linkedin.com/in/chrishulls"
-status: draft
+status: published
 last_researched: 2026-03-15
 ---
 
