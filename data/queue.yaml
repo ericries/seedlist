@@ -2714,7 +2714,7 @@ queue:
   discovered_from: phin-barnes
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: The General Partnership
   type: firm
@@ -2740,6 +2740,48 @@ queue:
     testimonial about Barnes
   discovered_from: phin-barnes
   discovery_depth: 2
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Anthony Kline
+  type: individual
+  firm: The General Partnership
+  source: Partner at The General Partnership, co-investor with Dan Portillo
+  discovered_from: dan-portillo
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: Danny Oliveri
+  type: individual
+  firm: The General Partnership
+  source: Partner at The General Partnership
+  discovered_from: dan-portillo
+  discovery_depth: 3
+  priority: low
+  status: pending
+  added: 2026-03-15
+- name: TurbineOne
+  type: startup
+  source: TheGP-incubated defense AI company, Series B led by TheGP ($36M, 2025)
+  discovered_from: dan-portillo
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Stainless
+  type: startup
+  source: Developer tools company (API/SDK), seed investor TheGP, Series A led by a16z
+  discovered_from: dan-portillo
+  discovery_depth: 3
+  priority: normal
+  status: pending
+  added: 2026-03-15
+- name: Dandy
+  type: startup
+  source: Dental tech company, TheGP portfolio, grew from 10 to 800 employees
+  discovered_from: dan-portillo
+  discovery_depth: 3
   priority: low
   status: pending
   added: 2026-03-15
