@@ -23,7 +23,11 @@
       "Bash(python3 scripts/sl *)",
       "Bash(chmod *)",
       "Bash(python3 scripts/sl queue individual | head -12)",
-      "Bash(python3 /Users/EricRies2/Projects/seedlist/scripts/sl status)"
+      "Bash(python3 /Users/EricRies2/Projects/seedlist/scripts/sl status)",
+      "Bash(python3 scripts/sl gen-startups --dry-run 2>&1; echo \"EXIT: $?\")",
+      "Bash(python3 scripts/sl lint ron-conway --no-fetch 2>&1; echo \"EXIT: $?\")",
+      "Bash(python3 scripts/sl prune 2>&1; echo \"EXIT: $?\")",
+      "Bash(python3 scripts/sl gen-firms --dry-run 2>&1; echo \"EXIT: $?\")"
     ]
   }
 }

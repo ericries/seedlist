@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@dan_portillo"
   linkedin: "linkedin.com/in/danielportillo"
-status: draft
+status: published
 last_researched: 2026-03-15
 ---
 
@@ -82,7 +82,7 @@ The services-for-equity model is Portillo's most distinctive contribution to the
 
 ### Notable Gaps
 
-Despite the firm's stated generalist approach, there is limited consumer-focused investment in the verified portfolio. The portfolio skews heavily toward B2B enterprise and infrastructure. Healthcare and biotech are largely absent despite PHC Global being a portfolio company [^15].
+Despite the firm's stated generalist approach, there is limited consumer-focused investment in the verified portfolio. The portfolio skews heavily toward B2B enterprise and infrastructure. Healthcare and biotech are largely absent despite PHC Global being a portfolio company [^7].
 
 ## Portfolio
 
@@ -90,16 +90,16 @@ Despite the firm's stated generalist approach, there is limited consumer-focused
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Aven | 2024 | Series D | Fintech (home equity credit) | [^16] |
-| TurbineOne | 2025 | Series B (led) | Defense AI | [^17] |
-| Graphite | 2025 | Series B | Developer Tools (code review) | [^18] |
+| Aven | 2024 | Series D | Fintech (home equity credit) | [^15] |
+| TurbineOne | 2025 | Series B (led) | Defense AI | [^16] |
+| Graphite | 2025 | Series B | Developer Tools (code review) | [^17] |
 | Cassidy | 2025 | Series A | AI Automation | [^14] |
-| Runloop | 2025 | Seed (led) | AI Infrastructure | [^19] |
-| SchoolAI | ~2024 | Seed | AI / EdTech | [^20] |
-| Stainless | ~2023 | Seed | Developer Tools (API/SDK) | [^21] |
-| Dandy | ~2022 | Series A | Dental Technology | [^22] |
-| Promise | 2022 | Series B (led) | Govtech (payments) | [^23] |
-| Sardine | ~2022 | Series B | Fintech (fraud prevention) | [^24] |
+| Runloop | 2025 | Seed (led) | AI Infrastructure | [^18] |
+| SchoolAI | ~2024 | Seed | AI / EdTech | [^19] |
+| Stainless | ~2023 | Seed | Developer Tools (API/SDK) | [^20] |
+| Dandy | ~2022 | Series A | Dental Technology | [^21] |
+| Promise | 2022 | Series B (led) | Govtech (payments) | [^22] |
+| Sardine | ~2022 | Series B | Fintech (fraud prevention) | [^23] |
 | Defakto | ~2022 | Seed | Security (non-human identity) | [^14] |
 | Finix | ~2019 | Sweat Equity | Fintech (payments infra) | [^9] |
 | Coda | ~2019 | Sweat Equity | Productivity | [^9] |
@@ -118,7 +118,7 @@ Despite the firm's stated generalist approach, there is limited consumer-focused
 
 *Note: This table represents approximately 56% of TheGP's reported 45 portfolio companies. Many investment dates are approximate, based on available reporting. Years marked "~YYYY" use best available estimates. Investments marked "Sweat Equity" originated during the Sweat Equity Ventures era (2018-2021) before the firm's formal fund launch. Individual deal attribution between Portillo and co-founder Phin Barnes is generally not public.*
 
-**Portfolio Exits:** Coda (acquired by Grammarly, December 2024), Nuro ($6B valuation as of 2025), Aven (unicorn status at $1B valuation, 2024) [^14][^16].
+**Portfolio Exits:** Coda (acquired by Grammarly, December 2024), Nuro ($6B valuation as of 2025), Aven (unicorn status at $1B valuation, 2024) [^14][^15].
 
 ## In Their Own Words
 
@@ -132,21 +132,21 @@ Despite the firm's stated generalist approach, there is limited consumer-focused
 > "There's no fund that will write a statement of work committing to: We ship this product, we hire these people, secure funding." [^9]
 
 **On relationship-building:**
-> "I always ask, how can I help? How can I help with whatever it is that you're doing right now?" [^25]
+> "I always ask, how can I help? How can I help with whatever it is that you're doing right now?" [^24]
 
 **On networking philosophy:**
-> "I don't really consider myself a networker. I know I am a bit of an introvert. I don't like going to conferences and walking around and talking to big groups of people. A lot of the focus has always been on individual relationships." [^26]
+> "I don't really consider myself a networker. I know I am a bit of an introvert. I don't like going to conferences and walking around and talking to big groups of people. A lot of the focus has always been on individual relationships." [^25]
 
 **On building relationships (recommending Adam Grant's work):**
-> "Go buy Adam Grant's book, 'Give And Take,' because it really is a foundational book on realizing how do you build and maintain relationships over time." [^26]
+> "Go buy Adam Grant's book, 'Give And Take,' because it really is a foundational book on realizing how do you build and maintain relationships over time." [^25]
 
 ## What Founders Say
 
 **Dan Hanover, Co-Founder of Dandy:**
-> "The number of engineers on our team has grown thanks to TheGP. The capacity we have as a technology team is now a different order of magnitude." [^22]
+> "The number of engineers on our team has grown thanks to TheGP. The capacity we have as a technology team is now a different order of magnitude." [^21]
 
 **Dan Hanover, Co-Founder of Dandy:**
-> "Within two weeks of partnering with TheGP, we were connected with senior AI folks that jumpstarted our ability to explore and build out that space." [^22]
+> "Within two weeks of partnering with TheGP, we were connected with senior AI folks that jumpstarted our ability to explore and build out that space." [^21]
 
 **Richie Serna, CEO & Co-Founder of Finix:**
 > "One of the things that founders say is that there's no VC that can make your company, there are only VCs that can break your company. I think that TheGP is definitely challenging that adage, because they are actually side by side with each of their portfolio companies, doing the actual dirty work that it takes to build the business." [^9]
@@ -183,26 +183,24 @@ No additional independently sourced founder testimonials were found beyond the a
 
 [^14]: "The General Partnership - Portfolio, Partners, Reviews, News," parsers.vc, accessed March 2026. https://parsers.vc/fund/thegp.com/
 
-[^15]: "Dan Portillo," PHC Global team page, accessed March 2026. https://phcglobal.com/team/dan-portillo/
+[^15]: "Aven Reaches Unicorn Status with $142 Million Series D Investment," BusinessWire, July 17, 2024. https://www.businesswire.com/news/home/20240717039124/en/Aven-Reaches-Unicorn-Status-with-%24142-Million-Series-D-Investment-to-Bring-the-Worlds-First-Home-Equity-backed-Credit-Card-to-Homeowners-in-All-50-States
 
-[^16]: "Aven Reaches Unicorn Status with $142 Million Series D Investment," BusinessWire, July 17, 2024. https://www.businesswire.com/news/home/20240717039124/en/Aven-Reaches-Unicorn-Status-with-%24142-Million-Series-D-Investment-to-Bring-the-Worlds-First-Home-Equity-backed-Credit-Card-to-Homeowners-in-All-50-States
+[^16]: "TurbineOne Raises $36M Series B to Deploy AI at the Tactical Edge," BusinessWire, May 14, 2025. https://www.businesswire.com/news/home/20250514400385/en/CORRECTING-and-REPLACING-TurbineOne-Raises-$36M-Series-B-to-Deploy-AI-at-the-Tactical-Edge
 
-[^17]: "TurbineOne Raises $36M Series B to Deploy AI at the Tactical Edge," BusinessWire, May 14, 2025. https://www.businesswire.com/news/home/20250514400385/en/CORRECTING-and-REPLACING-TurbineOne-Raises-$36M-Series-B-to-Deploy-AI-at-the-Tactical-Edge
+[^17]: "Anthropic-backed AI-powered code review platform Graphite raises cash," TechCrunch, March 18, 2025. https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/
 
-[^18]: "Anthropic-backed AI-powered code review platform Graphite raises cash," TechCrunch, March 18, 2025. https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/
+[^18]: "Runloop Raises $7M Seed Round to Bring Enterprise-Grade Infrastructure to AI Coding Agents," PR Newswire, July 2025. https://www.prnewswire.com/news-releases/runloop-raises-7m-seed-round-to-bring-enterprise-grade-infrastructure-to-ai-coding-agents-302516898.html
 
-[^19]: "Runloop Raises $7M Seed Round to Bring Enterprise-Grade Infrastructure to AI Coding Agents," PR Newswire, July 2025. https://www.prnewswire.com/news-releases/runloop-raises-7m-seed-round-to-bring-enterprise-grade-infrastructure-to-ai-coding-agents-302516898.html
+[^19]: "SchoolAI Secures $25 Million to Help Teachers and Schools Reach Every Student," GlobeNewsWire, April 2, 2025. https://www.globenewswire.com/news-release/2025/04/02/3054126/0/en/SchoolAI-Secures-25-Million-to-Help-Teachers-and-Schools-Reach-Every-Student.html
 
-[^20]: "SchoolAI Secures $25 Million to Help Teachers and Schools Reach Every Student," GlobeNewsWire, April 2, 2025. https://www.globenewswire.com/news-release/2025/04/02/3054126/0/en/SchoolAI-Secures-25-Million-to-Help-Teachers-and-Schools-Reach-Every-Student.html
+[^20]: "Stainless is helping OpenAI, Anthropic and others build SDKs for their APIs," TechCrunch, April 24, 2024. https://techcrunch.com/2024/04/24/stainless-is-helping-openai-anthropic-and-others-build-sdks-for-their-apis/
 
-[^21]: "Stainless is helping OpenAI, Anthropic and others build SDKs for their APIs," TechCrunch, April 24, 2024. https://techcrunch.com/2024/04/24/stainless-is-helping-openai-anthropic-and-others-build-sdks-for-their-apis/
+[^21]: "Meet Dandy," The General Partnership portfolio page, accessed March 2026. https://www.thegp.com/portfolio/dandy
 
-[^22]: "Meet Dandy," The General Partnership portfolio page, accessed March 2026. https://www.thegp.com/portfolio/dandy
+[^22]: "Promise's flexible payment platform for government debts grows fast, raises $25M to keep growing," TechCrunch, February 24, 2022. https://techcrunch.com/2022/02/24/promise-government-installment-plans-raises-25m/
 
-[^23]: "Promise's flexible payment platform for government debts grows fast, raises $25M to keep growing," TechCrunch, February 24, 2022. https://techcrunch.com/2022/02/24/promise-government-installment-plans-raises-25m/
+[^23]: "Sardine raises $51.5M led by a16z to sniff out fishy fintech transactions," TechCrunch, September 20, 2022. https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/
 
-[^24]: "Sardine raises $51.5M led by a16z to sniff out fishy fintech transactions," TechCrunch, September 20, 2022. https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/
+[^24]: "ELC Podcast - Strategies to Tend, Feed & Grow your Professional Network," Engineering Leadership Community, accessed March 2026. https://sfelc.com/podcasts/strategies-to-tend-feed-and-grow-your-professional-network-dan-portillo-jim-cook
 
-[^25]: "ELC Podcast - Strategies to Tend, Feed & Grow your Professional Network," Engineering Leadership Community, accessed March 2026. https://sfelc.com/podcasts/strategies-to-tend-feed-and-grow-your-professional-network-dan-portillo-jim-cook
-
-[^26]: "ELC - Developing Long Term Relationships by Daniel Portillo, John Lilly," Engineering Leadership Community, accessed March 2026. https://sfelc.com/videos/developing-long-term-relationships-by-daniel-portillo-john-lilly
+[^25]: "ELC - Developing Long Term Relationships by Daniel Portillo, John Lilly," Engineering Leadership Community, accessed March 2026. https://sfelc.com/videos/developing-long-term-relationships-by-daniel-portillo-john-lilly
