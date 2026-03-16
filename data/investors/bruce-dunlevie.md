@@ -15,13 +15,9 @@ last_verified_investment:
 social:
   linkedin: "linkedin.com/in/bruce-dunlevie-4285603"
 status: flagged
-review_notes: |
-  - Inferred thesis double-counts Rambus in both Consumer Hardware/Mobile and Semiconductors/Chips categories
-  - Everex listed as investment in sector breakdown but was an operating role (GM), not an investment — inflates count and distorts percentages
-  - Quote "Is sitting on your desk on Friday at 6:15pm..." [^24] not found at cited Acquired podcast transcript (deciphr.ai) — may be fabricated or from wrong source
-  - Tom Lee quote in What Founders Say is presented with quotation marks but source says "Tom shared that..." (indirect speech/paraphrase, not direct quote)
-  - Harold Hughes quote [^8] could not be verified — Rambus press release URL did not render
 last_researched: 2026-03-15
+review_notes: |
+  Sector double-counting (Rambus in 2 categories); Everex is operating role not investment; unverifiable quote [^24] Friday 6:15pm; Tom Lee quote is paraphrase not direct; Harold Hughes quote [^8] source unreadable
 ---
 
 ## Background
