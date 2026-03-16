@@ -20,6 +20,7 @@ Usage:
   sl prune [--execute]   Remove low-value queue items (dry-run by default)
   sl gen-firms [--dry-run]   Auto-generate firm profiles from investor data
   sl gen-startups [--threshold N] [--dry-run]  Auto-generate startup profiles from portfolio cross-refs
+  sl enrich INPUT.csv [OUTPUT.csv]  Enrich a CSV with Seedlist investor/firm data
 """
 
 import sys
@@ -27,6 +28,8 @@ import os
 import subprocess
 import yaml
 import re
+import csv
+import difflib
 from pathlib import Path
 
 import frontmatter
@@ -991,6 +994,327 @@ def _normalize_company(name):
     return re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
 
 
+# ── Enrich ───────────────────────────────────────────────────
+
+def _normalize_name(name):
+    """Normalize a name for matching: lowercase, strip whitespace, remove titles."""
+    if not name:
+        return ""
+    name = name.strip().lower()
+    # Remove common titles/suffixes
+    for prefix in ["dr. ", "dr ", "mr. ", "mr ", "ms. ", "ms ", "mrs. ", "mrs "]:
+        if name.startswith(prefix):
+            name = name[len(prefix):]
+    for suffix in [" jr.", " jr", " sr.", " sr", " iii", " ii", " iv", " phd", " md"]:
+        if name.endswith(suffix):
+            name = name[:-len(suffix)]
+    return name.strip()
+
+
+def _load_enrichment_data():
+    """Load all investor/firm profiles and queue items for matching."""
+    investors = {}
+    firms = {}
+    queued = []
+
+    # Load investor profiles
+    inv_dir = DATA / "investors"
+    if inv_dir.exists():
+        for md_file in inv_dir.glob("*.md"):
+            post = frontmatter.load(md_file)
+            meta = dict(post.metadata)
+            norm = _normalize_name(meta.get("name", ""))
+            if norm:
+                # Extract inferred thesis summary from body
+                thesis_summary = ""
+                in_inferred = False
+                for line in post.content.split("\n"):
+                    if line.startswith("## Inferred Thesis"):
+                        in_inferred = True
+                        continue
+                    if in_inferred and line.startswith("## "):
+                        break
+                    if in_inferred and line.strip():
+                        thesis_summary += line.strip() + " "
+                meta["thesis_summary"] = thesis_summary[:200].strip()
+                investors[norm] = meta
+
+    # Load firm profiles
+    firm_dir = DATA / "firms"
+    if firm_dir.exists():
+        for md_file in firm_dir.glob("*.md"):
+            post = frontmatter.load(md_file)
+            meta = dict(post.metadata)
+            norm = _normalize_name(meta.get("name", ""))
+            if norm:
+                firms[norm] = meta
+
+    # Load queue items
+    if QUEUE_PATH.exists():
+        q = load_queue()
+        for item in q.get("queue", []):
+            if item.get("status") in ("pending", "in_progress"):
+                queued.append(item)
+
+    return investors, firms, queued
+
+
+def _match_value(value, investors, firms, queued):
+    """Try to match a single value against investor/firm/queue data.
+
+    Returns (match_type, confidence, profile_or_none, match_name).
+    """
+    if not value or not value.strip():
+        return ("none", 0.0, None, "")
+
+    norm = _normalize_name(value)
+    if not norm:
+        return ("none", 0.0, None, "")
+
+    # Exact investor match
+    if norm in investors:
+        return ("exact", 1.0, investors[norm], investors[norm].get("name", value))
+
+    # Exact firm match
+    if norm in firms:
+        return ("firm_only", 1.0, firms[norm], firms[norm].get("name", value))
+
+    # Fuzzy investor match
+    best_score = 0.0
+    best_key = None
+    best_type = "none"
+    best_pool = None
+
+    for pool_name, pool in [("investor", investors), ("firm", firms)]:
+        for key in pool:
+            score = difflib.SequenceMatcher(None, norm, key).ratio()
+            if score > best_score:
+                best_score = score
+                best_key = key
+                best_type = pool_name
+                best_pool = pool
+
+    if best_score >= 0.75 and best_pool:
+        match_type = "fuzzy" if best_type == "investor" else "firm_only"
+        return (match_type, round(best_score, 2), best_pool[best_key], best_pool[best_key].get("name", value))
+
+    # Check queue
+    for item in queued:
+        qnorm = _normalize_name(item.get("name", ""))
+        if not qnorm:
+            continue
+        score = difflib.SequenceMatcher(None, norm, qnorm).ratio()
+        if score >= 0.80:
+            return ("queued", round(score, 2), None, item.get("name", value))
+
+    return ("none", 0.0, None, "")
+
+
+def _detect_name_column(rows, investors, firms):
+    """Auto-detect which column contains investor/firm names."""
+    if not rows:
+        return None, None
+
+    headers = list(rows[0].keys())
+    # Score each column by match rate against known names
+    col_scores = {}
+    sample = rows[:min(20, len(rows))]
+
+    for col in headers:
+        matches = 0
+        for row in sample:
+            val = _normalize_name(row.get(col, ""))
+            if not val:
+                continue
+            if val in investors or val in firms:
+                matches += 1
+            else:
+                # Quick fuzzy check
+                for pool in (investors, firms):
+                    for key in pool:
+                        if difflib.SequenceMatcher(None, val, key).ratio() >= 0.80:
+                            matches += 1
+                            break
+                    else:
+                        continue
+                    break
+        col_scores[col] = matches
+
+    if not col_scores:
+        return headers[0] if headers else None, None
+
+    # Best column is the one with highest match rate
+    sorted_cols = sorted(col_scores.items(), key=lambda x: x[1], reverse=True)
+    name_col = sorted_cols[0][0] if sorted_cols[0][1] > 0 else None
+
+    # If name_col found, check for a second column that matches firms
+    firm_col = None
+    if name_col and len(sorted_cols) > 1 and sorted_cols[1][1] > 0:
+        # Only count as firm column if it matches firms specifically
+        candidate = sorted_cols[1][0]
+        firm_matches = 0
+        for row in sample:
+            val = _normalize_name(row.get(candidate, ""))
+            if val and val in firms:
+                firm_matches += 1
+        if firm_matches > 0:
+            firm_col = candidate
+
+    # Fallback: use heuristic column name matching
+    if name_col is None:
+        name_keywords = ["investor", "name", "contact", "person", "who"]
+        for col in headers:
+            if any(kw in col.lower() for kw in name_keywords):
+                name_col = col
+                break
+        if name_col is None and headers:
+            name_col = headers[0]
+
+    if firm_col is None:
+        firm_keywords = ["firm", "fund", "company", "organization", "org", "vc"]
+        for col in headers:
+            if col == name_col:
+                continue
+            if any(kw in col.lower() for kw in firm_keywords):
+                firm_col = col
+                break
+
+    return name_col, firm_col
+
+
+def _enrich_row(row, name_col, firm_col, investors, firms, queued):
+    """Enrich a single row with Seedlist data. Returns dict of new columns."""
+    name_val = row.get(name_col, "")
+    match_type, confidence, profile, match_name = _match_value(name_val, investors, firms, queued)
+
+    # If no match on name, try firm column
+    if match_type == "none" and firm_col:
+        firm_val = row.get(firm_col, "")
+        mt, conf, prof, mn = _match_value(firm_val, investors, firms, queued)
+        if mt != "none":
+            match_type = "firm_only"
+            confidence = conf
+            profile = prof
+            match_name = mn
+
+    enrichment = {
+        "seedlist_match": match_type,
+        "seedlist_confidence": confidence,
+        "seedlist_url": "",
+        "seedlist_status": "",
+        "investor_stage_focus": "",
+        "investor_sector_focus": "",
+        "investor_check_size": "",
+        "investor_location": "",
+        "firm_name": "",
+        "last_active": "",
+        "inferred_thesis_summary": "",
+    }
+
+    if profile:
+        slug = profile.get("slug", "")
+        ptype = profile.get("type", "")
+        if ptype == "individual":
+            enrichment["seedlist_url"] = f"https://seedlist.com/investors/{slug}.html"
+        elif ptype == "firm":
+            enrichment["seedlist_url"] = f"https://seedlist.com/firms/{slug}.html"
+
+        enrichment["seedlist_status"] = profile.get("status", "")
+        enrichment["investor_stage_focus"] = ", ".join(profile.get("stage_focus", []))
+        enrichment["investor_sector_focus"] = ", ".join(profile.get("sector_focus", []))
+        enrichment["investor_check_size"] = profile.get("check_size", "")
+        enrichment["investor_location"] = profile.get("location", "")
+
+        if ptype == "individual":
+            enrichment["firm_name"] = profile.get("firm", "")
+        else:
+            enrichment["firm_name"] = profile.get("name", "")
+
+        lvi = profile.get("last_verified_investment")
+        if isinstance(lvi, dict):
+            enrichment["last_active"] = str(lvi.get("date", ""))
+        enrichment["inferred_thesis_summary"] = profile.get("thesis_summary", "")
+
+    elif match_type == "queued":
+        enrichment["seedlist_status"] = "queued"
+
+    return enrichment
+
+
+def cmd_enrich(input_path, output_path=None):
+    """Enrich a CSV with Seedlist investor/firm data."""
+    input_path = Path(input_path)
+    if not input_path.exists():
+        print(f"Error: {input_path} not found")
+        sys.exit(1)
+
+    if output_path is None:
+        output_path = input_path.with_name(input_path.stem + "_enriched.csv")
+    else:
+        output_path = Path(output_path)
+
+    print(f"Loading Seedlist data...")
+    investors, firms, queued = _load_enrichment_data()
+    print(f"  {len(investors)} investors, {len(firms)} firms, {len(queued)} queued items")
+
+    # Read input CSV
+    with open(input_path, newline="", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+        rows = list(reader)
+        original_fields = reader.fieldnames or []
+
+    if not rows:
+        print("Error: CSV is empty")
+        sys.exit(1)
+
+    print(f"  {len(rows)} rows in input CSV")
+
+    # Detect name/firm columns
+    name_col, firm_col = _detect_name_column(rows, investors, firms)
+    print(f"  Name column: {name_col}")
+    if firm_col:
+        print(f"  Firm column: {firm_col}")
+
+    if name_col is None:
+        print("Error: Could not detect a name column")
+        sys.exit(1)
+
+    # Enrich each row
+    enrichment_fields = [
+        "seedlist_match", "seedlist_confidence", "seedlist_url", "seedlist_status",
+        "investor_stage_focus", "investor_sector_focus", "investor_check_size",
+        "investor_location", "firm_name", "last_active", "inferred_thesis_summary",
+    ]
+
+    enriched_rows = []
+    stats = {"exact": 0, "fuzzy": 0, "firm_only": 0, "queued": 0, "none": 0}
+
+    for row in rows:
+        enrichment = _enrich_row(row, name_col, firm_col, investors, firms, queued)
+        stats[enrichment["seedlist_match"]] += 1
+        combined = dict(row)
+        combined.update(enrichment)
+        enriched_rows.append(combined)
+
+    # Write output CSV
+    out_fields = list(original_fields) + enrichment_fields
+    with open(output_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=out_fields, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(enriched_rows)
+
+    total = len(rows)
+    matched = stats["exact"] + stats["fuzzy"] + stats["firm_only"]
+    print(f"\nResults:")
+    print(f"  Exact matches:  {stats['exact']}")
+    print(f"  Fuzzy matches:  {stats['fuzzy']}")
+    print(f"  Firm-only:      {stats['firm_only']}")
+    print(f"  Queued:         {stats['queued']}")
+    print(f"  No match:       {stats['none']}")
+    print(f"  Match rate:     {matched}/{total} ({100*matched//total if total else 0}%)")
+    print(f"\nOutput: {output_path}")
+
+
 # ── Main ──────────────────────────────────────────────────────
 
 def main():
@@ -1061,6 +1385,12 @@ def main():
             if arg == "--threshold" and i + 1 < len(sys.argv):
                 threshold = int(sys.argv[i + 1])
         cmd_gen_startups(threshold=threshold, dry_run=dry_run)
+    elif cmd == "enrich":
+        if len(sys.argv) < 3:
+            print("Usage: sl enrich INPUT.csv [OUTPUT.csv]")
+            sys.exit(1)
+        output = sys.argv[3] if len(sys.argv) > 3 else None
+        cmd_enrich(sys.argv[2], output)
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)

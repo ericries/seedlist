@@ -103,6 +103,75 @@ def build_search_index(investors, firms, startups):
     return entries
 
 
+def build_enrichment_index(investors, firms, queue_path):
+    """Build a JSON enrichment index for the client-side /enrich page."""
+    index = {"investors": [], "firms": [], "queued": []}
+
+    for p in investors:
+        # Extract inferred thesis summary from rendered HTML (strip tags)
+        thesis_summary = ""
+        content = p.get("content", "")
+        # Find the Inferred Thesis section in the HTML
+        m = re.search(r'<h2[^>]*>Inferred Thesis</h2>(.*?)(?=<h2|$)', content, re.DOTALL)
+        if m:
+            # Strip HTML tags and get first 200 chars
+            text = re.sub(r'<[^>]+>', ' ', m.group(1))
+            text = re.sub(r'\s+', ' ', text).strip()
+            thesis_summary = text[:200]
+
+        lvi = p.get("last_verified_investment")
+        last_active = ""
+        if isinstance(lvi, dict):
+            last_active = str(lvi.get("date", ""))
+
+        index["investors"].append({
+            "name": p.get("name", ""),
+            "slug": p.get("slug", ""),
+            "firm": p.get("firm", ""),
+            "firm_name": "",  # will be filled in below
+            "role": p.get("role", ""),
+            "location": p.get("location", ""),
+            "stage_focus": p.get("stage_focus", []),
+            "sector_focus": p.get("sector_focus", []),
+            "check_size": p.get("check_size", ""),
+            "last_active": last_active,
+            "status": p.get("status", ""),
+            "thesis_summary": thesis_summary,
+        })
+
+    firm_name_lookup = {}
+    for p in firms:
+        firm_name_lookup[p.get("slug", "")] = p.get("name", "")
+        index["firms"].append({
+            "name": p.get("name", ""),
+            "slug": p.get("slug", ""),
+            "location": p.get("location", ""),
+            "stage_focus": p.get("stage_focus", []),
+            "sector_focus": p.get("sector_focus", []),
+            "fund_size": p.get("fund_size", ""),
+            "status": p.get("status", ""),
+        })
+
+    # Fill in firm_name for investors
+    for inv in index["investors"]:
+        inv["firm_name"] = firm_name_lookup.get(inv["firm"], "")
+
+    # Load queued items
+    if queue_path.exists():
+        import yaml
+        with open(queue_path) as f:
+            q = yaml.safe_load(f)
+        for item in q.get("queue", []):
+            if item.get("status") in ("pending", "in_progress"):
+                index["queued"].append({
+                    "name": item.get("name", ""),
+                    "type": item.get("type", ""),
+                    "firm": item.get("firm", ""),
+                })
+
+    return index
+
+
 def build():
     """Build the static site."""
     # Clean output
@@ -220,6 +289,20 @@ def build():
     # Generate search index
     search_index = build_search_index(investors, firms, startups)
     (OUTPUT_DIR / "search-index.json").write_text(json.dumps(search_index, indent=2))
+
+    # Generate enrichment index for /enrich page
+    enrichment_index = build_enrichment_index(investors, firms, DATA_DIR / "queue.yaml")
+    (OUTPUT_DIR / "enrichment-index.json").write_text(json.dumps(enrichment_index))
+
+    # Render enrich page
+    enrich_tmpl_path = TEMPLATES_DIR / "enrich.html"
+    if enrich_tmpl_path.exists():
+        enrich_template = env.get_template("enrich.html")
+        html = enrich_template.render(
+            investor_count=len(investors),
+            firm_count=len(firms),
+        )
+        (OUTPUT_DIR / "enrich.html").write_text(html)
 
     # Render homepage
     index_template = env.get_template("index.html")
