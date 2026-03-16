@@ -1981,7 +1981,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Roelof Botha
   type: individual
@@ -1991,7 +1991,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Jim Goetz
   type: individual
@@ -2000,7 +2000,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Doug Leone
   type: individual
@@ -2009,7 +2009,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Andrew Reed
   type: individual
@@ -2018,7 +2018,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Sonya Huang
   type: individual
