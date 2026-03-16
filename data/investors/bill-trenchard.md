@@ -15,7 +15,14 @@ last_verified_investment:
 social:
   twitter: "@btrenchard"
   linkedin: "linkedin.com/in/billtrenchard"
-status: draft
+status: flagged
+review_notes: |
+  - Stage distribution in Inferred Thesis is wrong: claims 24 seed/5 Series A/1 Series B but portfolio table shows 16 seed, 11 angel, 3 Series A, 0 Series B
+  - Sector breakdown references 7 companies (Newfront Insurance, Everlane, Step, Pine Park Health, Maven, Last Energy, Remora) not in the portfolio table, making percentages unreliable
+  - Quote 3 "Choose a partner, not a firm" is fabricated — source [^22] says "I really do believe it's partner over firm"
+  - Quotes 4-5 from [^22] could not be verified as Trenchard attributions
+  - Quote 6 has wording change ("every founder" vs source's "each founder")
+  - Quote 1 from [^13] uses ellipsis to join sentences while dropping meaningful middle context
 last_researched: 2026-03-16
 ---
 

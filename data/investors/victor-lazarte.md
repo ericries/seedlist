@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@victoralazarte"
   linkedin: "linkedin.com/in/victorlazarte"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
@@ -55,7 +55,7 @@ Based on 5 verified investments (3 at Benchmark, 1 angel investment, 1 personal 
 
 **Stage focus:** All three Benchmark investments were Series A rounds, consistent with Benchmark's model of leading first institutional rounds [^12][^13][^14]. Check sizes were large: $55 million into HeyGen and $25 million into Mercor [^9][^15], reflecting Benchmark's concentrated approach.
 
-**Founder profile patterns:** Lazarte's portfolio founders skew young and technical. The Mercor founders (Brendan Foody, Adarsh Hiremath, Surya Midha) were 21-year-old Thiel Fellows who dropped out of Georgetown and Harvard [^15]. The Brex founders were teenagers when Lazarte first met them [^9]. HeyGen founders Joshua Xu and Wayne Liang were former colleagues at Carnegie Mellon [^16]. Lazarte appears drawn to technically exceptional young founders building at the frontier.
+**Founder profile patterns:** Lazarte's portfolio founders skew young and technical. The Mercor founders (Brendan Foody, Adarsh Hiremath, Surya Midha) were 21-year-old Thiel Fellows who dropped out of Georgetown and Harvard [^9][^15]. The Brex founders were teenagers when Lazarte first met them [^9]. HeyGen founders Joshua Xu and Wayne Liang were former colleagues at Carnegie Mellon [^16]. Lazarte appears drawn to technically exceptional young founders building at the frontier.
 
 **Revenue velocity:** A striking pattern across Lazarte's Benchmark investments is extreme revenue growth at the time of investment. HeyGen went from $1 million to $35 million+ ARR in just over a year and was already profitable [^12]. Mercor grew from $1 million to $100 million+ revenue run rate in 11 months [^9]. Despite his stated rejection of SaaS metrics, Lazarte clearly invests in companies with demonstrated explosive revenue traction.
 

@@ -15,7 +15,12 @@ last_verified_investment:
 social:
   twitter: "@mattcohler"
   linkedin: ""
-status: draft
+status: flagged
+review_notes: |
+  - Duo Security discovery claim (line 44, Stated Thesis) cites [^9] and [^12] but neither source contains the claim about word-of-mouth from Benchmark entrepreneurs or Facebook colleagues. Claim is unsourced.
+  - Sierra investment attribution questionable: Fortune [^31] identifies Peter Fenton (not Cohler) as Benchmark partner on Sierra board. Cohler left Benchmark in 2018; Sierra was founded 2023. Only source attributing Sierra to Cohler is Grokipedia [^2], an AI-generated wiki. This affects last_verified_investment in frontmatter.
+  - Grokipedia [^2] is AI-generated content, not a reliable primary source per source quality hierarchy. Multiple Background claims rely on it.
+  - Empty linkedin field in frontmatter should be populated or removed.
 last_researched: 2026-03-16
 ---
 
