@@ -14,7 +14,7 @@ last_verified_investment:
   round: ""
 social:
   linkedin: "linkedin.com/in/nathan-urquhart-1a1285"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
