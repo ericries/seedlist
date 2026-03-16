@@ -2225,7 +2225,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Kathleen Estreich
   type: individual
@@ -2243,7 +2243,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Eddie Eltoukhy
   type: individual
@@ -2261,7 +2261,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Pepe Agell
   type: individual
@@ -2270,7 +2270,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Ryan Sells
   type: individual
@@ -2279,7 +2279,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Shravan Reddy
   type: individual
@@ -2288,7 +2288,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Warren Shaeffer
   type: individual
@@ -2297,7 +2297,7 @@ queue:
   discovered_from: pejman-nozad
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-14
 - name: Klaviyo
   type: startup
@@ -2540,7 +2540,7 @@ queue:
   discovered_from: eduardo-saverin
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: in_progress
   added: 2026-03-15
 - name: Karan Mohla
   type: individual
