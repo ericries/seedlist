@@ -2027,7 +2027,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Shaun Maguire
   type: individual
@@ -2036,7 +2036,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Jess Lee
   type: individual
@@ -2046,7 +2046,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Luciana Lixandru
   type: individual
@@ -2055,7 +2055,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Stephanie Zhan
   type: individual
@@ -2064,7 +2064,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Bogomil Balkansky
   type: individual
@@ -2073,7 +2073,7 @@ queue:
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Josephine Chen
   type: individual
@@ -2425,7 +2425,7 @@ queue:
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Flipkart
   type: startup
@@ -2632,7 +2632,7 @@ queue:
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Overture/GoTo.com
   type: startup
