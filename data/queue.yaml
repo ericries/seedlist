@@ -2791,7 +2791,7 @@ queue:
   source: led/co-led Applied Intuition Series D+E; angel in Rippling
   discovered_from: applied-intuition
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Mary Meeker
   type: individual
@@ -2799,7 +2799,7 @@ queue:
   source: investor in Applied Intuition Series D+
   discovered_from: applied-intuition
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Chris Sacca
   type: individual
@@ -2822,7 +2822,7 @@ queue:
   source: investor in Rippling
   discovered_from: rippling
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Neil Mehta
   type: individual
@@ -2830,14 +2830,14 @@ queue:
   source: investor in Rippling
   discovered_from: rippling
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Lachy Groom
   type: individual
   source: solo investor in Deel pre-seed
   discovered_from: deel
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Micky Malka
   type: individual
@@ -2845,7 +2845,7 @@ queue:
   source: co-led Deel Series E
   discovered_from: deel
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Yasmin Razavi
   type: individual
@@ -2853,7 +2853,7 @@ queue:
   source: led Deel Series B
   discovered_from: deel
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Teddie Wardi
   type: individual
