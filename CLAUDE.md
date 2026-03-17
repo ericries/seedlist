@@ -23,11 +23,12 @@ Seedlist.com is an LLM-researched directory of active startup investors. The cor
    - Twitter/X posts, blog posts, podcast appearances, conference talks, newsletters
    - Founder testimonials and reviews
 4. **Extract facts:** For each source, extract relevant facts, record the URL/title/access date, and look for first-person quotes from both the investor and portfolio founders.
-5. **Build the profile:** Create or update the markdown file with all required sections (see Data Format below).
-6. **Discover new leads:** Extract co-investors from portfolio companies, note mentioned investors and firms, and add them to `queue.yaml` with the `discovered_from` field set to the current profile's slug.
-7. **Commit:** Commit the new or updated profile with a descriptive message (e.g., "Add profile: Jane Smith, Partner at Acme Ventures").
-8. **Mark complete:** Set the queue item's status to `completed` in `queue.yaml` and commit.
-9. **Repeat:** Move to the next pending item.
+5. **Build the source list FIRST.** Before writing any profile text, compile the complete Sources section: every URL you actually visited, with title and access date. This is your ground truth. Every claim in the profile must trace back to one of these sources. Do not add sources you didn't visit.
+6. **Build the profile from sources.** Write each section by looking at your source list and extracting relevant facts. If a fact isn't supported by a source in your list, don't include it. This "sources-first" approach prevents the most common failure: writing plausible text and then trying to find citations to back it up (which leads to fabricated URLs).
+7. **Discover new leads:** Extract co-investors from portfolio companies, note mentioned investors and firms, and add them to `queue.yaml` with the `discovered_from` field set to the current profile's slug.
+8. **Commit:** Commit the new or updated profile with a descriptive message (e.g., "Add profile: Jane Smith, Partner at Acme Ventures").
+9. **Mark complete:** Set the queue item's status to `completed` in `queue.yaml` and commit.
+10. **Repeat:** Move to the next pending item.
 
 ## Data Format
 
@@ -234,6 +235,24 @@ Prefer sources in this order:
 A shorter, accurate profile is always better than a longer, inaccurate one. If you cannot find a verifiable source for a claim, do not include it. When sources conflict, note the discrepancy rather than picking one.
 
 **No unsourced claims allowed.** If a section would be empty because no sourced information is available, write "No verified information available at this time" rather than speculating.
+
+### Anti-Hallucination Rules for Research Agents
+
+These rules exist because past research agents produced plausible-looking but subtly wrong output. Every rule below is a response to a real failure.
+
+1. **NEVER fabricate URLs.** Every URL in a Sources section must come from a WebSearch result or a WebFetch response. If you cannot find a source URL, do not invent one. A missing citation is infinitely better than a fake one. Common failure: agents "remember" a URL pattern (e.g., `techcrunch.com/2024/01/company-raises-series-a`) and construct it from memory. These URLs are almost always wrong.
+
+2. **NEVER present paraphrases as direct quotes.** If you cannot find the exact wording, write a factual statement instead. Wrong: `"We love technical founders" — Jane Smith, TechCrunch interview, 2024`. Right: `Jane Smith has stated that the firm prioritizes technical founding teams [^3].` Only use quotation marks around text you copied verbatim from a source.
+
+3. **NEVER guess portfolio data.** Every entry in the Portfolio table must come from a specific source (Crunchbase, press article, firm website, etc.). If you "know" an investor backed a company but cannot find a source, do not include it. The inferred thesis is only as good as the portfolio data it's computed from — garbage in, garbage out.
+
+4. **NEVER pad "What Founders Say" with non-founder quotes.** This section must contain ONLY quotes from founders of portfolio companies. Not: investor anecdotes about founders. Not: firm marketing testimonials rewritten in third person. Not: the investor's own description of how they help founders. If you cannot find genuine founder quotes after dedicated searching, write: "No independently sourced founder testimonials found."
+
+5. **NEVER invent percentages.** Every percentage in the Inferred Thesis must be computed from counted portfolio data with the math shown inline: "12 of 28 investments (43%)." If you write "~30% fintech" without a denominator, you are guessing. Guesses dressed as data are worse than no data.
+
+6. **Verify before citing.** After writing a profile, re-read each source URL with WebFetch and confirm: (a) the URL loads, (b) the page contains the information you cited, (c) any quotes match verbatim. If a URL returns an error or the content doesn't match, remove the citation and the claim.
+
+7. **When in doubt, leave it out.** A shorter, fully accurate profile is dramatically more valuable than a longer profile with even one fabricated claim. The review pass will catch errors, but the goal is zero errors in the first pass.
 
 ## Inferred vs Stated Thesis
 
