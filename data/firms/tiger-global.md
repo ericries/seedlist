@@ -48,7 +48,7 @@ team:
   - slug: jay-chen
     role: "Partner"
     name: "Jay Chen"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

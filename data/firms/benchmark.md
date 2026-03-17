@@ -24,7 +24,7 @@ team:
   - slug: jack-altman
     role: "General Partner"
     name: "Jack Altman"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

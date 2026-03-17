@@ -42,7 +42,7 @@ team:
   - slug: lauren-gross
     role: "Partner & COO"
     name: "Lauren Gross"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 

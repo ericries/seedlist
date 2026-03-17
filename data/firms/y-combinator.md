@@ -66,7 +66,7 @@ founders:
     role: "Co-Founder"
   - name: "Trevor Blackwell"
     role: "Co-Founder"
-status: draft
+status: published
 last_researched: 2026-03-14
 ---
 
@@ -251,7 +251,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Supabase | S20 | 2020 | Backend-as-a-Service | Private ($2B) [^19] |
 | Cal.com | W21 | 2021 | Scheduling | Private [^19] |
 | PostHog | W20 | 2020 | Product Analytics | Private [^19] |
-| Vercel | — | — | Frontend Platform | Private ($3.5B) [^19] |
+| Vercel | W16 | 2016 | Frontend Platform | Private ($3.5B) [^19] |
 | Mux | S16 | 2016 | Video Infrastructure | Private [^19] |
 | Lambda | S17 | 2017 | AI / GPU Cloud | Private ($1.5B) [^19] |
 | Checkr | S14 | 2014 | Background Checks | Private ($5B) [^19] |
@@ -265,7 +265,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Zipline | S14 | 2014 | Drone Delivery | Private ($4.2B) [^19] |
 | 80,000 Hours | S15 | 2015 | Career Guidance | Nonprofit [^19] |
 | Airtable | W12 | 2012 | Database / No-Code | Private ($11B) [^19] |
-| Plaid | — | — | Fintech Infrastructure | Private ($13.4B) [^19] |
+| Plaid | W13 | 2013 | Fintech Infrastructure | Private ($13.4B) [^19] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). Some companies (OpenAI, Duolingo, Plaid) have batch information not publicly confirmed and are listed without batch designation.*
 

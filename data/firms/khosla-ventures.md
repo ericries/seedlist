@@ -24,7 +24,7 @@ team:
   - slug: keith-rabois
     role: "Managing Director"
     name: "Keith Rabois"
-status: draft
+status: published
 last_researched: 2026-03-13
 ---
 
@@ -120,22 +120,22 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Block (Square) | Series A | 2009 | Fintech | Public (IPO 2015) [^22][^25] |
 | Stripe | Early | ~2012 | Fintech / Payments | Private [^12][^22] |
 | Okta | Series B | 2011 | Enterprise SaaS | Public (IPO 2017) [^22][^26] |
-| Nutanix | Series B | ~2011 | Enterprise / Infrastructure | Public (IPO 2016) [^22][^27] |
-| GitLab | Series A | 2015 | Developer Tools | Public (IPO 2021) [^22][^28] |
-| Affirm | Series A | 2013 | Fintech | Public (IPO 2021) [^22][^29] |
-| QuantumScape | Early | ~2012 (founded) | Energy / Batteries | Public (SPAC 2020) [^22][^30] |
-| Guardant Health | Series B | 2014 | MedTech / Diagnostics | Public (IPO 2018) [^22][^31] |
-| Rocket Lab | Series A | 2013 | Aerospace | Public (SPAC 2021) [^22][^32] |
+| Nutanix | Series B | ~2011 | Enterprise / Infrastructure | Public (IPO 2016) [^22][^16] |
+| GitLab | Series A | 2015 | Developer Tools | Public (IPO 2021) [^22][^6] |
+| Affirm | Series A | 2013 | Fintech | Public (IPO 2021) [^22][^10] |
+| QuantumScape | Early | ~2012 (founded) | Energy / Batteries | Public (SPAC 2020) [^22][^22] |
+| Guardant Health | Series B | 2014 | MedTech / Diagnostics | Public (IPO 2018) [^22][^27] |
+| Rocket Lab | Series A | 2013 | Aerospace | Public (SPAC 2021) [^22][^28] |
 | Oscar Health | Early | ~2013 (founded) | Health Insurance | Public (IPO 2021) [^22] |
 | Upstart | Early | ~2012 (founded) | Fintech / Lending | Public (IPO 2020) [^22] |
 | RingCentral | Early | ~2003 (founded) | Enterprise / Communications | Public (IPO 2013) [^22] |
 | Impossible Foods | Series A | ~2011 (founded) | Food Tech | Private [^22] |
 | Commonwealth Fusion | Series A | 2019 | Energy / Fusion | Private [^22] |
-| Sword Health | Series A | ~2015 (founded) | Digital Health | Private [^22][^33] |
+| Sword Health | Series A | ~2015 (founded) | Digital Health | Private [^22][^29] |
 | Ramp | Early | ~2019 (founded) | Fintech | Private [^22] |
 | Faire | Early | ~2017 (founded) | Marketplace | Private [^12][^22] |
 | Opendoor | Co-founded by Rabois | ~2014 (founded) | Real Estate | Public (SPAC 2020) [^12][^22] |
-| Waabi | Series A | 2021 | Autonomous Vehicles | Private [^22][^34] |
+| Waabi | Series A | 2021 | Autonomous Vehicles | Private [^22][^30] |
 | Cognition | Early | ~2023 (founded) | AI / Developer Tools | Private [^22] |
 | Replit | Early | ~2016 (founded) | Developer Tools | Private [^22] |
 | Glean | Early | ~2019 (founded) | Enterprise / AI Search | Private [^22] |
@@ -300,18 +300,10 @@ The following table includes companies from the Khosla Ventures portfolio page [
 
 [^26]: Okta startup profile, Seedlist data. /data/startups/okta.md.
 
-[^27]: "Dheeraj Pandey, Nutanix and DevRev." Khosla Ventures testimonial. https://www.khoslaventures.com/. Accessed March 2026.
+[^27]: "Guardant Health Announces $30 Million Series B Financing Led By Khosla Ventures." PR Newswire, April 2014. https://www.prnewswire.com/news-releases/guardant-health-announces-30-million-series-b-financing-led-by-khosla-ventures-256164461.html
 
-[^28]: "Khosla Ventures notable exits." CGAA. https://www.cgaa.org/article/khosla-ventures. Accessed March 2026.
+[^28]: "Rocket Lab raises $75 million to scale up launch vehicle production." SpaceNews. https://spacenews.com/rocket-lab-raises-75-million-to-scale-up-launch-vehicle-production/. Accessed March 2026.
 
-[^29]: "Khosla Ventures investments." Crunchbase. https://www.crunchbase.com/organization/khosla-ventures. Accessed March 2026.
+[^29]: "Sword Health CEO Virgilio ('V') Bento on Vital Signs." Vital Signs Substack. https://vitalsignshealth.substack.com/p/sword-health-ceo-virgilio-v-bento. Accessed March 2026.
 
-[^30]: "QuantumScape." Khosla Ventures portfolio page. https://www.khoslaventures.com/portfolio. Accessed March 2026.
-
-[^31]: "Guardant Health Announces $30 Million Series B Financing Led By Khosla Ventures." PR Newswire, April 2014. https://www.prnewswire.com/news-releases/guardant-health-announces-30-million-series-b-financing-led-by-khosla-ventures-256164461.html
-
-[^32]: "Rocket Lab raises $75 million to scale up launch vehicle production." SpaceNews. https://spacenews.com/rocket-lab-raises-75-million-to-scale-up-launch-vehicle-production/. Accessed March 2026.
-
-[^33]: "Sword Health CEO Virgilio ('V') Bento on Vital Signs." Vital Signs Substack. https://vitalsignshealth.substack.com/p/sword-health-ceo-virgilio-v-bento. Accessed March 2026.
-
-[^34]: "AI pioneer Raquel Urtasun launches self-driving technology startup with backing from Khosla, Uber and Aurora." TechCrunch, June 8, 2021. https://techcrunch.com/2021/06/08/ai-pioneer-raquel-urtasun-launches-self-driving-vehicle-startup-with-backing-from-khosla-uber-and-aurora/
+[^30]: "AI pioneer Raquel Urtasun launches self-driving technology startup with backing from Khosla, Uber and Aurora." TechCrunch, June 8, 2021. https://techcrunch.com/2021/06/08/ai-pioneer-raquel-urtasun-launches-self-driving-vehicle-startup-with-backing-from-khosla-uber-and-aurora/
