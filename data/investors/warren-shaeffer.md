@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@wwshaef"
   linkedin: "linkedin.com/in/warrenshaeffer"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
@@ -137,7 +137,6 @@ No additional independently sourced founder testimonials naming Warren Shaeffer 
 [^7]: PR Newswire, "Knowable Launches Audio Learning Platform and Library of Original Expert-Led Courses; Raises $4M from Andreessen Horowitz and Others," October 2019 — confirms $4M seed round and investors. https://www.prnewswire.com/news-releases/knowable-launches-audio-learning-platform-and-library-of-original-expert-led-courses-raises-4m-from-andreessen-horowitz-and-others-300929001.html
 
 [^8]: TechCrunch, "Medium acquires Knowable to bring audio to the platform," November 16, 2021. https://techcrunch.com/2021/11/16/medium-acquires-knowable-to-bring-audio/
-
 
 [^9]: Silicon Hills News, "SweatPals Raises $3M Led by a16z SPEEDRUN and Pear VC to Connect the World Through Fitness," October 27, 2024 — includes founder quote about Shaeffer. https://www.siliconhillsnews.com/2024/10/27/sweatpals-raises-3m-led-by-a16z-speedrun-and-pear-vc-to-connect-the-world-through-fitness/
 

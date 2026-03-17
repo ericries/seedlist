@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@ShravanGReddy"
   linkedin: "linkedin.com/in/shrredd"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 

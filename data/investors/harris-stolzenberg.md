@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@stolzy4"
   linkedin: "linkedin.com/in/harris-stolzenberg-44468b78"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 

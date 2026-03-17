@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@khalil_fuller"
   linkedin: "linkedin.com/in/khalilfuller/"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 

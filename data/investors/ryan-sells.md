@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@ryanbsells"
   linkedin: "linkedin.com/in/ryansells"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 

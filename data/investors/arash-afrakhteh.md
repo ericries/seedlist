@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@arasha"
   linkedin: "linkedin.com/in/arasha/"
-status: draft
+status: published
 last_researched: 2026-03-16
 ---
 
