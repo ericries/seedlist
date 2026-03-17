@@ -178,7 +178,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Lyft
   type: startup
@@ -202,7 +202,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Napster
   type: startup
@@ -1581,7 +1581,7 @@ queue:
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Supabase
   type: startup
@@ -1701,7 +1701,7 @@ queue:
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Stitch Fix
   type: startup
@@ -2136,7 +2136,7 @@ queue:
   discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Stampli
   type: startup
@@ -2305,7 +2305,7 @@ queue:
   discovered_from: david-cancel
   discovery_depth: 3
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: WHOOP
   type: startup
@@ -2786,3 +2786,189 @@ queue:
   priority: low
   status: pending
   added: 2026-03-15
+- name: Elad Gil
+  type: individual
+  source: led/co-led Applied Intuition Series D+E; angel in Rippling
+  discovered_from: applied-intuition
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Mary Meeker
+  type: individual
+  firm: BOND
+  source: investor in Applied Intuition Series D+
+  discovered_from: applied-intuition
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Chris Sacca
+  type: individual
+  firm: Lowercase Capital
+  source: angel investor in Instagram Series A
+  discovered_from: instagram
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Jack Dorsey
+  type: individual
+  source: angel investor in Instagram Series A
+  discovered_from: instagram
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Garry Tan
+  type: individual
+  firm: Initialized Capital / Y Combinator
+  source: investor in Rippling
+  discovered_from: rippling
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Neil Mehta
+  type: individual
+  firm: Greenoaks Capital
+  source: investor in Rippling
+  discovered_from: rippling
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Lachy Groom
+  type: individual
+  source: solo investor in Deel pre-seed
+  discovered_from: deel
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Micky Malka
+  type: individual
+  firm: Ribbit Capital
+  source: co-led Deel Series E
+  discovered_from: deel
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Yasmin Razavi
+  type: individual
+  firm: Spark Capital
+  source: led Deel Series B
+  discovered_from: deel
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Teddie Wardi
+  type: individual
+  firm: Insight Partners
+  source: led SentinelOne Series D+E
+  discovered_from: sentinelone
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Tom Dyal
+  type: individual
+  firm: Redpoint Ventures
+  source: led SentinelOne Series C
+  discovered_from: sentinelone
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Matthew Ocko
+  type: individual
+  firm: DCVC
+  source: seed investor in SentinelOne
+  discovered_from: sentinelone
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Bilal Zuberi
+  type: individual
+  firm: Lux Capital
+  source: investor in Applied Intuition Seed through Series F
+  discovered_from: applied-intuition
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Ping Li
+  type: individual
+  firm: Accel
+  source: investor in Klaviyo
+  discovered_from: klaviyo
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Lux Capital
+  type: firm
+  source: seed-to-Series F investor in Applied Intuition
+  discovered_from: applied-intuition
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: BOND
+  type: firm
+  source: Mary Meeker's fund, investor in Applied Intuition
+  discovered_from: applied-intuition
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Greenoaks Capital
+  type: firm
+  source: investor in Rippling
+  discovered_from: rippling
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Ribbit Capital
+  type: firm
+  source: co-led Deel Series E
+  discovered_from: deel
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Insight Partners
+  type: firm
+  source: led SentinelOne Series D+E
+  discovered_from: sentinelone
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Redpoint Ventures
+  type: firm
+  source: led SentinelOne Series C
+  discovered_from: sentinelone
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: DCVC
+  type: firm
+  source: seed investor in SentinelOne
+  discovered_from: sentinelone
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Initialized Capital
+  type: firm
+  source: early investor in Rippling
+  discovered_from: rippling
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Lowercase Capital
+  type: firm
+  source: Chris Sacca's fund, Instagram Series A
+  discovered_from: instagram
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Summit Partners
+  type: firm
+  source: growth investor in Klaviyo
+  discovered_from: klaviyo
+  priority: high
+  status: pending
+  added: 2026-03-17
+- name: Altimeter Capital
+  type: firm
+  source: investor in Deel
+  discovered_from: deel
+  priority: high
+  status: pending
+  added: 2026-03-17
