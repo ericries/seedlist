@@ -31,8 +31,8 @@
     {% endif %}
   </header>
 
-  <div class="feedback-trigger" id="feedback-trigger">
-    <button onclick="SeedlistFeedback.showUrlForm('{{ profile.slug }}', 'investor')">Submit a source</button>
+  <div class="llm-notice" id="feedback-trigger">
+    <p>This profile is AI-generated. If you spot an error, please help us fix it by <a href="#" onclick="event.preventDefault(); SeedlistFeedback.showUrlForm('{{ profile.slug }}', 'investor')">sharing a URL</a> to the correct information.</p>
   </div>
   <div id="feedback-form-container"></div>
 
