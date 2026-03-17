@@ -512,10 +512,11 @@
       });
 
       if (unmatched.length >= 2) {
-        unmatchedBody.innerHTML = unmatched.map(function (u, i) {
-          return '<tr><td><input type="checkbox" class="unmatched-check" data-idx="' + i + '" checked></td>' +
-            '<td>' + escHtml(u.name) + '</td><td>' + escHtml(u.firm || '—') + '</td></tr>';
+        unmatchedBody.innerHTML = unmatched.map(function (u) {
+          return '<tr><td>' + escHtml(u.name) + '</td><td>' + escHtml(u.firm || '—') + '</td></tr>';
         }).join("");
+        var countEl = document.getElementById("unmatched-count");
+        if (countEl) countEl.textContent = String(unmatched.length);
         unmatchedSection.style.display = "block";
         unmatchedSection._candidates = unmatched;
       } else {
@@ -646,35 +647,14 @@
       }
     });
 
-    // Unmatched candidates handlers
-    var selectAll = document.getElementById("unmatched-select-all");
-    if (selectAll) {
-      selectAll.addEventListener("change", function () {
-        var checks = document.querySelectorAll(".unmatched-check");
-        for (var i = 0; i < checks.length; i++) {
-          checks[i].checked = selectAll.checked;
-        }
-      });
-    }
-
+    // Unmatched candidates submit handler
     var submitCandidatesBtn = document.getElementById("submit-candidates-btn");
     if (submitCandidatesBtn) {
       submitCandidatesBtn.addEventListener("click", function () {
         var section = document.getElementById("unmatched-section");
-        if (!section || !section._candidates) return;
-        var checks = document.querySelectorAll(".unmatched-check");
-        var selected = [];
-        for (var i = 0; i < checks.length; i++) {
-          if (checks[i].checked) {
-            selected.push(section._candidates[parseInt(checks[i].getAttribute("data-idx"))]);
-          }
-        }
-        if (selected.length === 0) {
-          alert("Select at least one candidate to submit.");
-          return;
-        }
+        if (!section || !section._candidates || !section._candidates.length) return;
         if (typeof window.SeedlistFeedback !== "undefined" && window.SeedlistFeedback.submitCandidates) {
-          window.SeedlistFeedback.submitCandidates(selected);
+          window.SeedlistFeedback.submitCandidates(section._candidates);
         } else {
           alert("Feedback module not loaded.");
         }

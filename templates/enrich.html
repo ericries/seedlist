@@ -211,12 +211,11 @@
   </div>
 
   <div id="unmatched-section" class="unmatched-section" style="display:none">
-    <h3>Unknown investors not in Seedlist</h3>
-    <p>These names from your CSV didn't match any profile or queued item. Submit them as research candidates.</p>
+    <h3>Help improve Seedlist</h3>
+    <p>We don't have profiles for these <span id="unmatched-count">0</span> investors yet. Suggest them as additions and we'll research them.</p>
     <table class="unmatched-table">
       <thead>
         <tr>
-          <th><input type="checkbox" id="unmatched-select-all" checked></th>
           <th>Name</th>
           <th>Firm</th>
         </tr>
@@ -224,8 +223,8 @@
       <tbody id="unmatched-tbody"></tbody>
     </table>
     <div class="unmatched-actions">
-      <button class="btn btn-secondary" id="submit-candidates-btn">Submit as research candidates</button>
-      <span class="unmatched-note">Opens a GitHub issue for review (requires GitHub account)</span>
+      <button class="btn btn-primary" id="submit-candidates-btn">Suggest these investors</button>
+      <span class="unmatched-note">Opens a GitHub issue (requires GitHub account). Thank you!</span>
     </div>
   </div>
 </div>
