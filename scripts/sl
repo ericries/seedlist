@@ -483,18 +483,45 @@ def cmd_lint(slug, no_fetch=False):
         if in_inferred:
             inferred_section += line + "\n"
 
-    # Look for sector allocation percentages
-    pct_matches = re.findall(r'(\d+(?:\.\d+)?)%', inferred_section)
-    if pct_matches:
-        # Heuristic: find lines that look like sector breakdowns (multiple % on nearby lines)
-        # Sum the largest cluster of percentages
-        pcts = [float(p) for p in pct_matches]
-        total = sum(pcts)
-        # Only warn if there are 3+ percentages and they look like a breakdown
-        if len(pcts) >= 3 and (total < 95 or total > 105):
-            warnings.append(
-                f"Inferred thesis percentages sum to {total:.0f}% "
-                f"(expected 95-105%): {pcts}")
+    # Look for percentage breakdowns in bullet lists (lines starting with -)
+    # Collect consecutive bullet-list runs with percentages
+    lines = inferred_section.split("\n")
+    bullet_run = []
+    bullet_runs = []
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith("-") and re.search(r'\d+(?:\.\d+)?%', stripped):
+            bullet_run.append(stripped)
+        else:
+            if len(bullet_run) >= 3:
+                bullet_runs.append(bullet_run[:])
+            bullet_run = []
+    if len(bullet_run) >= 3:
+        bullet_runs.append(bullet_run[:])
+
+    for run_lines in bullet_runs:
+        # Only check lists that look like categorical breakdowns:
+        # each bullet names a category and ends with "N of M (X%)" or "X%"
+        # Heuristic: most bullets have exactly one % and it's in a "N of M (X%)" pattern
+        breakdown_pattern = 0
+        for bl in run_lines:
+            if re.search(r'\d+\s+of\s+\d+.*\d+%', bl) or re.search(r':\s*\d+.*\(\d+%\)', bl):
+                breakdown_pattern += 1
+        if breakdown_pattern < len(run_lines) * 0.5:
+            continue  # Not a categorical breakdown, skip
+
+        pcts = []
+        for bl in run_lines:
+            matches = re.findall(r'(\d+(?:\.\d+)?)%', bl)
+            if matches:
+                pcts.append(float(matches[-1]))
+        if len(pcts) >= 3:
+            total = sum(pcts)
+            if total < 90 or total > 110:
+                label = run_lines[0][:50].lstrip("- ")
+                warnings.append(
+                    f"Bullet-list breakdown starting '{label}' sums to {total:.0f}% "
+                    f"(expected ~100%): {pcts}")
 
     # ── URL liveness ──
     if not no_fetch and source_urls:
