@@ -14,10 +14,8 @@ last_verified_investment:
   round: "Series B"
 social:
   linkedin: "linkedin.com/in/bruce-dunlevie-4285603"
-status: flagged
+status: published
 last_researched: 2026-03-15
-review_notes: |
-  Sector double-counting (Rambus in 2 categories); Everex is operating role not investment; unverifiable quote [^24] Friday 6:15pm; Tom Lee quote is paraphrase not direct; Harold Hughes quote [^8] source unreadable
 ---
 
 ## Background
@@ -46,19 +44,19 @@ His co-founder Andy Rachleff has attributed to Dunlevie the principle: "Put the 
 
 ## Inferred Thesis
 
-The following analysis is based on 18 verified investments personally attributed to Dunlevie in the portfolio table below. Dunlevie has likely made many more investments through Benchmark's partnership model over 30+ years, but individual partner attribution is not publicly available for most Benchmark deals. This sample is small and should be treated as directional only.
+The following analysis is based on 18 verified investments personally attributed to Dunlevie in the portfolio table below. Everex Systems, where Dunlevie served as an operating executive (not an investor), is excluded. Dunlevie has likely made many more investments through Benchmark's partnership model over 30+ years, but individual partner attribution is not publicly available for most Benchmark deals. This sample is small and should be treated as directional only.
 
 ### Sector Allocation (computed from 18 verified Dunlevie-attributed investments)
 
 - **Enterprise Software / SaaS**: 4 companies (22%) — Marin Software, Coverity, Mon Ami, Orchestria
+- **Consumer Hardware / Mobile**: 2 companies (11%) — Handspring, Palm
 - **Healthcare / Health Tech**: 2 companies (11%) — One Medical, Twin Health
-- **Consumer Hardware / Mobile**: 3 companies (17%) — Rambus, Palm/Handspring, Everex (pre-Benchmark)
-- **Real Estate / Physical Spaces**: 1 company (6%) — WeWork
-- **Fintech**: 1 company (6%) — Wealthfront
-- **Computer Vision / AI**: 1 company (6%) — Aquifi
 - **Semiconductors / Chips**: 2 companies (11%) — Rambus, Tabula
-- **Marketplace / Local Services**: 1 company (6%) — Accept.com
-- **Other (Social, Enterprise)**: 3 companies (17%) — Euclid, Jasper Technologies, Klip
+- **Fintech**: 1 company (6%) — Wealthfront
+- **Real Estate / Physical Spaces**: 1 company (6%) — WeWork
+- **Computer Vision / AI**: 1 company (6%) — Aquifi
+- **Marketplace / E-commerce**: 1 company (6%) — Accept.com
+- **Other (Mobile/IoT/Analytics)**: 4 companies (22%) — Good Technology, Klip, Jasper Technologies, Euclid
 
 *Note: With only 18 verified investments personally attributed to Dunlevie, the actual portfolio distribution likely differs. As a Benchmark co-founder, he participated in the firm's collective decisions on investments like eBay, OpenTable, and Nextdoor, but individual deal attribution for those is not confirmed.*
 
@@ -72,7 +70,7 @@ Dunlevie is based in Atherton, California [^16]. His portfolio shows heavy Bay A
 
 ### Founder Profile Patterns
 
-Dunlevie shows a pattern of backing founders in categories that venture capital had not yet validated. His investment in One Medical in 2007 was described as helping "spawn the whole generation of venture capital funded healthcare" at a time when VCs were not investing in healthcare services [^17]. His WeWork investment in 2012 similarly entered real estate/co-working before it was a recognized VC category. This suggests Dunlevie is drawn to category-creating founders rather than those operating in established markets.
+Dunlevie shows a pattern of backing founders in categories that venture capital had not yet validated. His investment in One Medical in 2007 predated broader VC interest in healthcare services [^17]. His WeWork investment in 2012 similarly entered real estate/co-working before it was a recognized VC category. This suggests Dunlevie is drawn to category-creating founders rather than those operating in established markets.
 
 ### Board Governance as a Key Value-Add
 
@@ -138,20 +136,13 @@ The following table includes investments where Bruce Dunlevie has been individua
 **On One Medical and Carlyle's investment:**
 > "We are excited to have Carlyle join the 1Life Healthcare Board and investor group to help advance One Medical's mission to transform health care." [^10]
 
-**On the venture capital profession (from the Acquired podcast):**
-> "Is sitting on your desk on Friday at 6:15pm, packing up to go home and the phone rings. The CEO of a portfolio company says: 'do you have a minute?' ... And you as the VC you say 'do you want me to come down now or get together for breakfast in the morning?'" [^24]
-
-*Context: Dunlevie describing the personal commitment required in venture capital — that the work is fundamentally about being available to founders when they need help, not about financial returns.*
-
 ## What Founders Say
 
 **Tom Lee, founder of One Medical, on Dunlevie's early bet on healthcare:**
-> "Bruce Dunlevie at Benchmark took a bet on Tom and the company and vision and really spawned the whole generation of venture capital funded healthcare." [^17]
-
-*Note: This quote is attributed to Tom Lee in a third-party source (Pear Healthcare Playbook) describing how Dunlevie's willingness to invest in One Medical in 2007 helped catalyze broader VC interest in the healthcare sector.*
+According to the Pear Healthcare Playbook, Tom Lee shared that Bruce Dunlevie at Benchmark took an early bet on him and One Medical's vision at a time when no one in venture capital was investing in healthcare services, helping to catalyze a new generation of venture capital-funded healthcare [^17].
 
 **Harold Hughes, President and CEO of Rambus:**
-> "Bruce is a recognized leader with years of experience working closely with the Rambus team." [^8]
+> "Bruce is a recognized leader with years of experience working closely with the Rambus team. With his guidance, we'll continue building our world-class portfolio of products and patented innovations that drive great value for our customers and stockholders." [^8]
 
 *Context: Hughes praised Dunlevie upon his appointment as Chairman of the Rambus board in 2008.*
 
@@ -173,7 +164,7 @@ No additional independently sourced founder testimonials were found beyond the a
 
 [^7]: "Bruce Dunlevie Steps Down from Rambus Board of Directors," Rambus press release, June 2011. https://www.rambus.com/bruce-dunlevie-steps-down-from-rambus-board-of-directors/
 
-[^8]: "Bruce Dunlevie Appointed Chairman of Rambus Board of Directors," Rambus press release, May 9, 2008. https://www.rambus.com/bruce-dunlevie-appointed-chairman-of-rambus-board-of-directors/
+[^8]: "Rambus appoints Bruce Dunlevie Chairman of board," RTTNews, May 9, 2008. https://www.rttnews.com/601746/rambus-appoints-bruce-dunlevie-chairman-of-board-update.aspx
 
 [^9]: "Handspring and Palm, Inc. A Corporate Drama in Five Acts," Stanford Graduate School of Business case study, accessed March 2026. https://www.gsb.stanford.edu/faculty-research/case-studies/handspring-palm-inc-corporate-drama-five-acts
 
@@ -205,4 +196,4 @@ No additional independently sourced founder testimonials were found beyond the a
 
 [^23]: "Bruce Dunlevie - Board Member at Twin Health," The Org, accessed March 2026. https://theorg.com/org/twin/org-chart/bruce-dunlevie
 
-[^24]: "Benchmark Part I," Acquired podcast (via Deciphr transcript), accessed March 2026. https://www.deciphr.ai/podcast/benchmark-part-i
+[^24]: "Benchmark Part I," Acquired podcast, accessed March 2026. https://www.acquired.fm/episodes/benchmark-capital

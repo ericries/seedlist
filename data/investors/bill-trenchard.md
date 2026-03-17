@@ -15,10 +15,8 @@ last_verified_investment:
 social:
   twitter: "@btrenchard"
   linkedin: "linkedin.com/in/billtrenchard"
-status: flagged
+status: published
 last_researched: 2026-03-16
-review_notes: |
-  Stage distribution wrong (claims 24 seed but table has 16 seed + 11 angel); 7 companies in sector breakdown not in portfolio table; 3 quote accuracy issues (Choose a partner misquoted, quotes 4-5 unverifiable, quote 6 wording changed)
 ---
 
 ## Background
@@ -49,19 +47,18 @@ Based on 30 verified investments in the portfolio table below, the following pat
 
 ### Stage Distribution
 
-Of the 30 verified investments: 24 are seed-stage (~80%), 5 are Series A (~17%), and 1 is Series B (~3%). Trenchard invests almost exclusively at the earliest stage, consistent with First Round Capital's seed mandate [^1][^2].
+Of the 30 verified investments: 10 are angel-stage (33%), 17 are seed-stage (57%), and 3 are Series A (10%). Angel investments are concentrated in the pre-2012 Founder Collective / personal investing era, while seed investments dominate his First Round Capital period, consistent with First Round's seed mandate [^1][^2].
 
 ### Sector Breakdown (30 verified investments)
 
-- **Enterprise SaaS / B2B Software**: 10 companies (33%) — Looker, Sift, Legion, Airbase, Crossbeam, Labelbox, Superhuman, Kentik, Engagio, Rillet
-- **AI / Machine Learning**: 4 companies (13%) — EvolutionIQ, Together AI, Serval, FleetWorks
-- **Fintech**: 4 companies (13%) — LendingClub, Cache, Gyft, Newfront Insurance
+- **Enterprise SaaS / B2B Software**: 11 companies (37%) — Looker, Sift, Legion, Airbase, Crossbeam, Labelbox, Superhuman, Kentik, Engagio, Rillet, Aviso
+- **AI / Machine Learning**: 3 companies (10%) — EvolutionIQ, Together AI, Serval
+- **Fintech**: 3 companies (10%) — LendingClub, Cache, Gyft
 - **Physical Security / Hardware**: 2 companies (7%) — Verkada, IronPort
+- **Adtech / Analytics**: 3 companies (10%) — AdRoll, Moat, Topsy
+- **Consumer / Marketplaces**: 2 companies (7%) — Uber, Chegg
 - **Logistics / Supply Chain**: 1 company (3%) — Flexport
-- **Consumer / Marketplaces**: 4 companies (13%) — Uber, Chegg, Everlane, Step
-- **Healthcare**: 2 companies (7%) — Pine Park Health, Maven
-- **Climate / Energy**: 2 companies (7%) — Last Energy, Remora
-- **Other (Data, Analytics)**: 1 company (3%) — Moat
+- **Other (early-stage acquisitions)**: 5 companies (17%) — PowerSet (search), Xoopit (email), Slide (social), Tapulous (gaming), MileIQ (productivity)
 
 ### Geographic Focus
 
@@ -81,7 +78,7 @@ As a First Round Capital partner, Trenchard frequently co-invests with other Fir
 
 ### Notable Gaps
 
-Trenchard's stated interest in "Climate Moonshots" is underrepresented in the verified portfolio, with only Last Energy and Remora clearly fitting this category. His actual portfolio skews heavily toward enterprise SaaS and B2B software, which accounts for a third of verified investments but is not specifically highlighted in his stated thesis.
+Trenchard's stated interest in "Climate Moonshots" has zero representation in the 30 verified portfolio investments. His actual portfolio skews heavily toward enterprise SaaS and B2B software, which accounts for 37% of verified investments but is not specifically highlighted in his stated thesis. Healthcare and real estate, also mentioned in his stated focus areas, have no verified investments in this sample.
 
 ## Portfolio
 
@@ -130,15 +127,16 @@ Trenchard's stated interest in "Climate Moonshots" is underrepresented in the ve
 
 > "As a founder, you should either be fundraising or not — and if you are, it should be done with great intention." [^22]
 
-> "Choose a partner, not a firm... let your primary hunt be for the right partner." [^22]
+**On choosing investors:**
+> "Yes, there are great firms out there, but they're led by people. So, who at those firms makes it the right name for you? I really do believe it's partner over firm." [^22]
 
 **On investor pitching:**
 > "Start with the basics like you're speaking to kindergartners, but advance your arguments quickly as if they're graduate students." [^22]
 
-> "Don't trigger the bullshit meter. If the investor feels spun, you're done." [^22]
-
 **On founder honesty:**
-> "Admit you haven't figured out a channel or CAC... every founder that admits it earns major credibility points." [^22]
+> "Overselling or hiding issues in the business always bites you in the ass. If the investor feels spun, you're done." [^22]
+
+> "One of the biggest ways to build credibility, particularly with early-stage fundraising, is to be very open about what you haven't figured out yet — and to get ahead of it. Admit you haven't figured out a channel or CAC." [^22]
 
 **On Looker's customer focus:**
 > "If I had to pick one thing that Looker did uniquely well, this would be it... Looker never lost sight of the customer." [^13]
