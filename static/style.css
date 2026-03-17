@@ -383,6 +383,153 @@ main { flex: 1; padding: 2.5rem 0; }
   color: var(--color-muted);
 }
 
+/* ===== Feedback / Source Submission ===== */
+.feedback-trigger {
+  margin-top: 0.75rem;
+}
+
+.feedback-trigger button {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.4rem 0.8rem;
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.feedback-trigger button:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.feedback-form {
+  margin-top: 0.75rem;
+  padding: 1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+}
+
+.feedback-form .feedback-input-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+}
+
+.feedback-form input[type="url"] {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  outline: none;
+  background: var(--color-bg);
+}
+
+.feedback-form input[type="url"]:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.feedback-form .btn-submit {
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: var(--color-accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.feedback-form .btn-submit:hover {
+  background: #1d4ed8;
+}
+
+.feedback-form .btn-cancel {
+  background: none;
+  border: none;
+  color: var(--color-muted);
+  cursor: pointer;
+  font-size: 0.8rem;
+  padding: 0.5rem 0;
+}
+
+.feedback-form .btn-cancel:hover {
+  color: var(--color-text);
+}
+
+.feedback-form .feedback-error {
+  color: #dc2626;
+  font-size: 0.8rem;
+  margin-top: 0.35rem;
+}
+
+.feedback-form .feedback-hint {
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  margin-top: 0.35rem;
+}
+
+/* ===== Unmatched Candidates (Enrich page) ===== */
+.unmatched-section {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.unmatched-section h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.unmatched-section p {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-bottom: 0.75rem;
+}
+
+.unmatched-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+.unmatched-table th,
+.unmatched-table td {
+  text-align: left;
+  padding: 0.4rem 0.65rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.unmatched-table th {
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--color-muted);
+}
+
+.unmatched-table input[type="checkbox"] {
+  margin: 0;
+}
+
+.unmatched-actions {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.unmatched-note {
+  font-size: 0.75rem;
+  color: var(--color-muted);
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.5rem; }

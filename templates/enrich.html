@@ -209,8 +209,28 @@
       </table>
     </div>
   </div>
+
+  <div id="unmatched-section" class="unmatched-section" style="display:none">
+    <h3>Unknown investors not in Seedlist</h3>
+    <p>These names from your CSV didn't match any profile or queued item. Submit them as research candidates.</p>
+    <table class="unmatched-table">
+      <thead>
+        <tr>
+          <th><input type="checkbox" id="unmatched-select-all" checked></th>
+          <th>Name</th>
+          <th>Firm</th>
+        </tr>
+      </thead>
+      <tbody id="unmatched-tbody"></tbody>
+    </table>
+    <div class="unmatched-actions">
+      <button class="btn btn-secondary" id="submit-candidates-btn">Submit as research candidates</button>
+      <span class="unmatched-note">Opens a GitHub issue for review (requires GitHub account)</span>
+    </div>
+  </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="/static/feedback.js"></script>
 <script src="/static/enrich.js"></script>
 {% endblock %}

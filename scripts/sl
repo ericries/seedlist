@@ -20,7 +20,11 @@ Usage:
   sl prune [--execute]   Remove low-value queue items (dry-run by default)
   sl gen-firms [--dry-run]   Auto-generate firm profiles from investor data
   sl gen-startups [--threshold N] [--dry-run]  Auto-generate startup profiles from portfolio cross-refs
+  sl fix-citations SLUG    Auto-fix duplicate URLs, orphan defs, renumber footnotes
+  sl batch-publish SLUG... Lint+fix+publish multiple profiles in one commit
   sl enrich INPUT.csv [OUTPUT.csv]  Enrich a CSV with Seedlist investor/firm data
+  sl review-sources     Review and process source URL submissions from GitHub Issues
+  sl review-candidates  Review and process CSV candidate submissions from GitHub Issues
 """
 
 import sys
@@ -546,6 +550,189 @@ def cmd_lint(slug, no_fetch=False):
         sys.exit(2)
     else:
         sys.exit(0)
+
+
+def cmd_fix_citations(slug):
+    """Auto-fix common citation errors in a profile:
+    - Merge duplicate source URLs (keep first footnote, remap body refs)
+    - Remove orphan source definitions (defined but never referenced)
+    - Remove duplicate [^N]: definition lines (keep first)
+    - Renumber footnotes sequentially using temp placeholders
+    """
+    path = find_profile(slug)
+    if not path:
+        print(f"Profile not found: {slug}")
+        sys.exit(1)
+
+    with open(path) as f:
+        content = f.read()
+
+    # Split frontmatter and body
+    parts = content.split("---", 2)
+    if len(parts) < 3:
+        print(f"Cannot parse frontmatter in {slug}")
+        sys.exit(1)
+    front = parts[1]
+    body = parts[2]
+
+    # Step 1: Find all source definitions and their URLs
+    def_pattern = re.compile(r'^\[\^(\d+)\]:\s*(.*)', re.MULTILINE)
+    defs = {}  # num -> full line text
+    def_urls = {}  # num -> cleaned URL
+    for m in def_pattern.finditer(body):
+        num = int(m.group(1))
+        line_text = m.group(2)
+        url_match = re.search(r'(https?://\S+)', line_text)
+        url = url_match.group(1).rstrip('.') if url_match else None
+        if num not in defs:  # keep first definition, skip duplicate [^N]: lines
+            defs[num] = m.group(0)
+            def_urls[num] = url
+
+    # Step 2: Find all body references (not definitions)
+    ref_nums = set(int(n) for n in re.findall(r'\[\^(\d+)\](?!:)', body))
+
+    # Step 3: Build URL -> first footnote number mapping (for dedup)
+    url_to_first = {}
+    remap = {}  # old_num -> new_num (for duplicates)
+    for num in sorted(defs.keys()):
+        url = def_urls[num]
+        if url and url in url_to_first:
+            remap[num] = url_to_first[url]
+        elif url:
+            url_to_first[url] = num
+
+    # Step 4: Apply duplicate URL remapping in body refs
+    for old_num, new_num in remap.items():
+        body = re.sub(rf'\[\^{old_num}\](?!:)', f'[^{new_num}]', body)
+
+    # Remove duplicate source defs
+    for old_num in remap:
+        body = re.sub(rf'^\[\^{old_num}\]:.*\n?', '', body, flags=re.MULTILINE)
+
+    # Step 5: Remove orphan source defs (defined but not referenced after remapping)
+    ref_nums_after = set(int(n) for n in re.findall(r'\[\^(\d+)\](?!:)', body))
+    def_nums_after = set(int(n) for n in re.findall(r'^\[\^(\d+)\]:', body, re.MULTILINE))
+    orphans = def_nums_after - ref_nums_after
+    for orphan in orphans:
+        body = re.sub(rf'^\[\^{orphan}\]:.*\n?', '', body, flags=re.MULTILINE)
+
+    # Step 6: Renumber sequentially using temp placeholders
+    remaining_nums = sorted(set(int(n) for n in re.findall(r'\[\^(\d+)\]', body)))
+    if remaining_nums and remaining_nums != list(range(1, len(remaining_nums) + 1)):
+        # First pass: replace all with temp placeholders
+        for i, old_num in enumerate(remaining_nums):
+            placeholder = f'[^__TEMP_{i+1}__]'
+            body = body.replace(f'[^{old_num}]', placeholder)
+
+        # Second pass: replace placeholders with sequential numbers
+        for i in range(len(remaining_nums)):
+            body = body.replace(f'[^__TEMP_{i+1}__]', f'[^{i+1}]')
+
+    # Clean up any double blank lines left by removals
+    body = re.sub(r'\n{3,}', '\n\n', body)
+
+    # Write back
+    result = f"---{front}---{body}"
+    with open(path, "w") as f:
+        f.write(result)
+
+    # Report
+    fixes = []
+    if remap:
+        fixes.append(f"merged {len(remap)} duplicate URL(s)")
+    if orphans:
+        fixes.append(f"removed {len(orphans)} orphan def(s)")
+    if remaining_nums and remaining_nums != list(range(1, len(remaining_nums) + 1)):
+        fixes.append("renumbered footnotes sequentially")
+    if fixes:
+        print(f"Fixed {slug}: {', '.join(fixes)}")
+    else:
+        print(f"No fixes needed for {slug}")
+
+
+def cmd_batch_publish(*slugs):
+    """Lint, auto-fix, and publish multiple profiles in a single commit."""
+    if not slugs:
+        print("Usage: sl batch-publish SLUG1 SLUG2 ...")
+        sys.exit(1)
+
+    passed = []
+    failed = []
+
+    for slug in slugs:
+        path = find_profile(slug)
+        if not path:
+            failed.append((slug, "profile not found"))
+            continue
+
+        # Run fix-citations first
+        cmd_fix_citations(slug)
+
+        # Lint (capture output, don't exit on error)
+        post = frontmatter.load(path)
+        meta = post.metadata
+        body = post.content
+        profile_type = meta.get("type", "unknown")
+
+        lint_errors = []
+
+        # Quick lint checks (subset of cmd_lint)
+        common_fields = ["name", "slug", "type", "status", "last_researched"]
+        for field in common_fields:
+            if field not in meta:
+                lint_errors.append(f"Missing frontmatter: {field}")
+
+        # Check footnote numbering
+        all_nums = sorted(set(int(n) for n in re.findall(r'\[\^(\d+)\]', body)))
+        if all_nums:
+            expected = list(range(1, max(all_nums) + 1))
+            missing = set(expected) - set(all_nums)
+            if missing:
+                lint_errors.append(f"Footnote gaps: {sorted(missing)}")
+
+        ref_nums = set(int(n) for n in re.findall(r'\[\^(\d+)\](?!:)', body))
+        def_nums = set(int(n) for n in re.findall(r'^\[\^(\d+)\]:', body, re.MULTILINE))
+        if ref_nums - def_nums:
+            lint_errors.append(f"Refs without defs: {sorted(ref_nums - def_nums)}")
+
+        # Check duplicate URLs
+        source_urls = re.findall(r'^\[\^\d+\]:.*?(https?://\S+)', body, re.MULTILINE)
+        seen = {}
+        for url in source_urls:
+            u = url.rstrip('.')
+            if u in seen:
+                lint_errors.append(f"Duplicate URL: {u}")
+            seen[u] = True
+
+        if lint_errors:
+            failed.append((slug, "; ".join(lint_errors)))
+            print(f"  ✗ {slug}: {len(lint_errors)} error(s) — skipping")
+            for e in lint_errors:
+                print(f"    {e}")
+        else:
+            set_profile_status(path, "published")
+            passed.append(slug)
+            print(f"  ✓ {slug}: published")
+
+    if not passed:
+        print(f"\nNo profiles passed lint. {len(failed)} failed.")
+        sys.exit(1)
+
+    # Rebuild site once
+    run(f"{sys.executable} build.py")
+    print("Site rebuilt")
+
+    # Single commit
+    run("git add -A")
+    slug_list = ", ".join(passed)
+    run(f'git commit -m "Publish batch: {slug_list}"')
+    run("git push")
+
+    print(f"\nPublished {len(passed)}/{len(passed) + len(failed)} profiles.")
+    if failed:
+        print(f"Failed ({len(failed)}):")
+        for slug, reason in failed:
+            print(f"  {slug}: {reason}")
 
 
 def cmd_prune(execute=False):
@@ -1408,6 +1595,207 @@ def cmd_enrich(input_path, output_path=None):
     print(f"\nOutput: {output_path}")
 
 
+def cmd_review_sources():
+    """Review source-submission GitHub Issues and add approved URLs to profiles."""
+    import json
+
+    # List open issues with source-submission label
+    r = run('gh issue list --label source-submission --state open --json number,title,body --limit 50',
+            check=False)
+    if r.returncode != 0:
+        print("Error: Could not fetch GitHub issues. Is `gh` authenticated?")
+        print(r.stderr.strip() if r.stderr else "")
+        sys.exit(1)
+
+    issues = json.loads(r.stdout) if r.stdout.strip() else []
+    if not issues:
+        print("No pending source submissions.")
+        return
+
+    print(f"Found {len(issues)} source submission(s):\n")
+
+    for issue in issues:
+        body = issue.get("body", "")
+        # Parse structured body
+        slug_match = re.search(r'^slug:\s*(.+)$', body, re.MULTILINE)
+        type_match = re.search(r'^type:\s*(.+)$', body, re.MULTILINE)
+        url_match = re.search(r'^url:\s*(.+)$', body, re.MULTILINE)
+
+        if not slug_match or not url_match:
+            print(f"  #{issue['number']} — Could not parse issue body, skipping")
+            continue
+
+        slug = slug_match.group(1).strip()
+        profile_type = type_match.group(1).strip() if type_match else "unknown"
+        url = url_match.group(1).strip()
+
+        # Validate URL
+        if len(url) > 2048 or not (url.startswith("http://") or url.startswith("https://")):
+            print(f"  #{issue['number']} — Invalid URL: {url[:80]}...")
+            choice = input("  Reject and close? [Y/n]: ").strip().lower()
+            if choice != "n":
+                run(f'gh issue close {issue["number"]} --comment "Rejected: invalid URL"')
+                print(f"  Closed #{issue['number']}")
+            continue
+
+        # Find profile
+        profile_path = find_profile(slug)
+        if not profile_path:
+            print(f"  #{issue['number']} — Profile not found: {slug}")
+            choice = input("  Reject and close? [Y/n]: ").strip().lower()
+            if choice != "n":
+                run(f'gh issue close {issue["number"]} --comment "Rejected: profile not found"')
+                print(f"  Closed #{issue['number']}")
+            continue
+
+        print(f"  #{issue['number']}: {slug} ({profile_type})")
+        print(f"    URL: {url}")
+        choice = input("  [A]pprove / [R]eject / [S]kip: ").strip().lower()
+
+        if choice == "a":
+            # Add URL to profile frontmatter as pending_sources
+            post = frontmatter.load(str(profile_path))
+            if "pending_sources" not in post.metadata:
+                post.metadata["pending_sources"] = []
+            # Check for duplicate
+            existing_urls = [s.get("url", "") for s in post.metadata["pending_sources"]]
+            if url in existing_urls:
+                print(f"    URL already in pending_sources, skipping addition")
+            else:
+                post.metadata["pending_sources"].append({
+                    "url": url,
+                    "added": "2026-03-16"
+                })
+                with open(profile_path, "w") as f:
+                    f.write(frontmatter.dumps(post))
+                print(f"    Added to {profile_path}")
+            run(f'gh issue close {issue["number"]} --comment "Approved: added to pending sources"')
+            print(f"    Closed #{issue['number']}")
+
+        elif choice == "r":
+            run(f'gh issue close {issue["number"]} --comment "Rejected by reviewer"')
+            print(f"    Closed #{issue['number']}")
+
+        else:
+            print(f"    Skipped #{issue['number']}")
+
+    print("\nDone. Run `sl ship` to commit and push any changes.")
+
+
+def cmd_review_candidates():
+    """Review csv-unmatched GitHub Issues and add approved candidates to queue."""
+    import json
+
+    r = run('gh issue list --label csv-unmatched --state open --json number,title,body --limit 50',
+            check=False)
+    if r.returncode != 0:
+        print("Error: Could not fetch GitHub issues. Is `gh` authenticated?")
+        print(r.stderr.strip() if r.stderr else "")
+        sys.exit(1)
+
+    issues = json.loads(r.stdout) if r.stdout.strip() else []
+    if not issues:
+        print("No pending candidate submissions.")
+        return
+
+    # Load existing queue and profiles for dedup
+    queue_data = load_queue()
+    queue_names = set()
+    for item in queue_data.get("queue", []):
+        queue_names.add(item.get("name", "").lower().strip())
+
+    existing_slugs = set()
+    for subdir in ["investors", "firms", "startups"]:
+        d = DATA / subdir
+        if d.exists():
+            for f in d.glob("*.md"):
+                existing_slugs.add(f.stem)
+
+    print(f"Found {len(issues)} candidate submission(s):\n")
+
+    added_count = 0
+    for issue in issues:
+        body = issue.get("body", "")
+
+        # Parse candidates from structured body
+        candidates = []
+        in_candidates = False
+        for line in body.split("\n"):
+            line = line.strip()
+            if line == "candidates:":
+                in_candidates = True
+                continue
+            if in_candidates:
+                name_match = re.match(r'-\s*name:\s*"?(.+?)"?\s*$', line)
+                if name_match:
+                    candidates.append({"name": name_match.group(1).strip(), "firm": ""})
+                    continue
+                firm_match = re.match(r'firm:\s*"?(.+?)"?\s*$', line)
+                if firm_match and candidates:
+                    candidates[-1]["firm"] = firm_match.group(1).strip()
+                    continue
+                if line and not line.startswith("-") and not line.startswith("firm:"):
+                    in_candidates = False
+
+        if not candidates:
+            print(f"  #{issue['number']} — Could not parse candidates, skipping")
+            continue
+
+        print(f"  #{issue['number']}: {len(candidates)} candidate(s)")
+
+        approved = []
+        for c in candidates:
+            name = c["name"]
+            firm = c.get("firm", "")
+
+            # Sanitize name
+            clean_name = re.sub(r"[^\w\s\-\.']", "", name)[:100].strip()
+            if not clean_name:
+                continue
+
+            # Check for duplicates
+            slug_candidate = re.sub(r'[^a-z0-9]+', '-', clean_name.lower()).strip('-')
+            if clean_name.lower() in queue_names:
+                print(f"    {clean_name} — already in queue, skipping")
+                continue
+            if slug_candidate in existing_slugs:
+                print(f"    {clean_name} — profile already exists, skipping")
+                continue
+
+            display = f"{clean_name}"
+            if firm:
+                display += f" ({firm})"
+            choice = input(f"    {display} — [A]pprove / [R]eject / [S]kip: ").strip().lower()
+
+            if choice == "a":
+                approved.append({"name": clean_name, "firm": firm})
+
+        if approved:
+            for c in approved:
+                entry = {
+                    "name": c["name"],
+                    "type": "individual",
+                    "source": "user-submitted via CSV upload",
+                    "priority": "low",
+                    "status": "pending",
+                    "added": "2026-03-16"
+                }
+                if c["firm"]:
+                    entry["firm"] = re.sub(r"[^\w\s\-\.']", "", c["firm"])[:100].strip()
+                queue_data.setdefault("queue", []).append(entry)
+                added_count += 1
+                print(f"    Added: {c['name']}")
+
+            save_queue(queue_data)
+
+        run(f'gh issue close {issue["number"]} --comment "Reviewed: {len(approved)} of {len(candidates)} candidates approved"')
+        print(f"  Closed #{issue['number']}")
+
+    print(f"\nDone. Added {added_count} candidates to queue.")
+    if added_count > 0:
+        print("Run `sl ship` to commit and push changes.")
+
+
 # ── Main ──────────────────────────────────────────────────────
 
 def main():
@@ -1478,12 +1866,26 @@ def main():
             if arg == "--threshold" and i + 1 < len(sys.argv):
                 threshold = int(sys.argv[i + 1])
         cmd_gen_startups(threshold=threshold, dry_run=dry_run)
+    elif cmd == "fix-citations":
+        if len(sys.argv) < 3:
+            print("Usage: sl fix-citations SLUG")
+            sys.exit(1)
+        cmd_fix_citations(sys.argv[2])
+    elif cmd == "batch-publish":
+        if len(sys.argv) < 3:
+            print("Usage: sl batch-publish SLUG1 SLUG2 ...")
+            sys.exit(1)
+        cmd_batch_publish(*sys.argv[2:])
     elif cmd == "enrich":
         if len(sys.argv) < 3:
             print("Usage: sl enrich INPUT.csv [OUTPUT.csv]")
             sys.exit(1)
         output = sys.argv[3] if len(sys.argv) > 3 else None
         cmd_enrich(sys.argv[2], output)
+    elif cmd == "review-sources":
+        cmd_review_sources()
+    elif cmd == "review-candidates":
+        cmd_review_candidates()
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)

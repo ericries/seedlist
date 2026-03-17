@@ -2,8 +2,8 @@
 name: "Miles Grimshaw"
 slug: miles-grimshaw
 type: individual
-firm: benchmark
-role: "General Partner (Former)"
+firm: thrive-capital
+role: "General Partner"
 location: "San Francisco, CA"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [developer-tools, enterprise-software, ai, life-sciences, fintech, consumer]
@@ -15,10 +15,8 @@ last_verified_investment:
 social:
   twitter: "@milesgrimshaw"
   linkedin: "linkedin.com/in/milesgrimshaw"
-status: flagged
+status: published
 last_researched: 2026-03-16
-review_notes: |
-  Wrong firm field (should be thrive-capital not benchmark); fabricated quote text in [^17]; paraphrased founder quote presented as verbatim; Stytch miscategorized as consumer (should be dev tools); weak founder testimonial
 ---
 
 ## Background
@@ -52,13 +50,13 @@ On Benchmark's model, Grimshaw has said: "It's just the five of us... A huge par
 Based on 16 verified investments personally attributed to Grimshaw across both his Thrive Capital and Benchmark tenures (see portfolio table below):
 
 **Sector distribution (16 investments):**
-- Developer tools / infrastructure: 5 investments (31%) — Segment, LangChain, Glide, Mapbox, Anysphere (Cursor)
+- Developer tools / infrastructure: 6 investments (38%) — Segment, LangChain, Glide, Mapbox, Anysphere (Cursor), Stytch
 - Enterprise software / SaaS: 4 investments (25%) — Airtable, Lattice, Benchling, Gong
 - Fintech / financial services: 2 investments (13%) — Monzo, Modern Treasury
-- Consumer / social: 3 investments (19%) — Supergreat, Vimeo, Stytch
+- Consumer / social: 2 investments (13%) — Supergreat, Vimeo
 - AI (application layer): 2 investments (13%) — LangChain (also counted in devtools), Chai Discovery
 
-*Note: LangChain spans both developer tools and AI categories; it is counted once in the total of 16. Percentages sum to over 100% due to this overlap.*
+*Note: LangChain spans both developer tools and AI categories; it is counted once in the total of 16. Percentages sum to over one hundred due to this overlap.*
 
 **Key patterns:**
 
@@ -68,7 +66,7 @@ Based on 16 verified investments personally attributed to Grimshaw across both h
 
 - **Pre-market-clarity investing**: Several of Grimshaw's most notable investments were made when the target market appeared small or unclear to other investors. Benchling targeted life sciences R&D software (niche at the time), LangChain was an open-source framework with no revenue, and Cursor was an AI code editor when the category barely existed. This pattern of investing before markets "look obviously large" is the most distinctive feature of his approach.
 
-- **Developer-centric products**: At least 5 of 16 investments (31%) are products primarily adopted by developers (Segment, LangChain, Glide, Mapbox, Cursor). This suggests a strong affinity for developer-adoption-driven businesses.
+- **Developer-centric products**: Six of 16 investments are products primarily adopted by developers (Segment, LangChain, Glide, Mapbox, Cursor, Stytch). This suggests a strong affinity for developer-adoption-driven businesses.
 
 - **Geographic distribution**: Portfolio companies span San Francisco (Benchling, Airtable, Lattice, Stytch), New York (Vimeo, Supergreat), and London (Monzo), with a strong US/SF tilt.
 
@@ -127,10 +125,6 @@ Based on 16 verified investments personally attributed to Grimshaw across both h
 
 — Miles Grimshaw, TechCrunch Live with Benchling CEO Sajith Wickramasekara, 2023 [^15]
 
-> "The software for collaboration and data management has not kept pace with scientific advancement."
-
-— Miles Grimshaw, Benchling Series A press release, October 2016 [^17]
-
 > "We have not found the conviction of imagining the enduring outsize market share that one of them may have... you've even seen the rate of depreciation in some of the folks like OpenAI's models."
 
 — Miles Grimshaw on foundation models, TechCrunch interview, June 2023 [^14]
@@ -153,15 +147,11 @@ Based on 16 verified investments personally attributed to Grimshaw across both h
 
 ## What Founders Say
 
-> "Scientists spend upwards of 30% of their time managing notes and searching records instead of conducting research."
+**Sajith Wickramasekara, CEO and co-founder of Benchling**, speaking alongside Grimshaw at TechCrunch Live about the early fundraising challenges (2023):
 
-— Sajith Wickramasekara, CEO and co-founder of Benchling, on the problem Grimshaw backed with Thrive's Series A investment, October 2016 [^17]
+> "Every software investor thought what we were doing was small and unimportant... and then we went to science investors, and every science investor understood the challenges of R&D, but they didn't understand software; they invested in drugs." [^15]
 
-> "Every software investor thought what we were doing was small and unimportant... and then we went to science investors, and every science investor understood the challenges of R&D, but they didn't understand software; they invested in drugs."
-
-— Sajith Wickramasekara, Benchling CEO, speaking alongside Grimshaw at TechCrunch Live about the early fundraising challenges that Grimshaw helped them overcome, 2023 [^15]
-
-*No additional independently sourced founder testimonials about Miles Grimshaw's specific contributions as an investor or board member were found after dedicated searching across Twitter/X, podcast transcripts, blog posts, and press coverage. Grimshaw is described by peers as "an actually helpful VC," "one of the most thoughtful investors," and "lowest-key but highest-impact," but these characterizations come from an industry newsletter rather than named founders [^7]. Jack Altman, CEO of Lattice, appeared jointly with Grimshaw on the Invest Like the Best podcast (September 2023) and discussed their founder-investor relationship — including the concept of being "founder-respectful" rather than "founder-friendly" — but no direct founder quotes about Grimshaw's board contributions were available in publicly accessible transcripts [^22].*
+*No additional independently sourced founder testimonials about Miles Grimshaw's specific contributions as an investor or board member were found after dedicated searching across Twitter/X, podcast transcripts, blog posts, and press coverage. Jack Altman, CEO of Lattice, appeared jointly with Grimshaw on the Invest Like the Best podcast (September 2023) and discussed their founder-investor relationship, but no direct founder quotes about Grimshaw's board contributions were available in publicly accessible transcripts [^22].*
 
 ## Sources
 

@@ -540,6 +540,10 @@ python3 scripts/sl lint SLUG [--no-fetch]  # Automated citation/structure checke
 python3 scripts/sl prune [--execute]   # Remove low-value queue items (dry-run by default)
 python3 scripts/sl gen-firms [--dry-run]   # Auto-generate firm profiles from investor data
 python3 scripts/sl gen-startups [--threshold N] [--dry-run]  # Auto-generate startup profiles from portfolio cross-refs
+python3 scripts/sl fix-citations SLUG    # Auto-fix duplicate URLs, orphan defs, renumber footnotes
+python3 scripts/sl batch-publish SLUG... # Lint+fix+publish multiple profiles in one commit
+python3 scripts/sl review-sources        # Review user-submitted source URLs from GitHub Issues
+python3 scripts/sl review-candidates     # Review CSV-submitted investor candidates from GitHub Issues
 ```
 
 **Agent prompts should reference these commands.** For example, after fixing a profile, agents should run `python3 scripts/sl publish {slug}` instead of manual git/build/push sequences. When a new repeated operation pattern emerges, add it to `scripts/sl`.
@@ -593,15 +597,12 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 2. **Select batch:** Pick up to 8 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
 3. **Launch parallel agents** for all items concurrently.
 4. **Mid-batch extraction:** As firm/startup agents discover investor names, report them in output as `QUEUE_ADD: name=..., type=..., firm=..., priority=..., discovered_from=...`. The orchestrator applies additions between batches. Research agents MUST NOT modify `queue.yaml` directly.
-5. **As each research agent completes**, immediately launch a review agent for that profile. Don't wait for the full batch.
-6. **As each agent completes** (don't wait for the whole batch):
-   a. Write the profile to disk immediately.
-   b. `git add` + `git commit` + `git push` so it appears on the live site NOW.
-   c. Mark queue item as `completed` in `queue.yaml`.
-   d. Continue with review/verification in parallel with pushing.
-   e. When all agents in the batch are done: run `python3 build.py`, push again, re-check investor queue depth, print batch summary.
-7. **Start next batch immediately** — do NOT wait for user confirmation.
-8. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
+5. **Wait for ALL agents in the batch to complete.** Don't commit mid-batch — it causes pre-commit hook cascades when some files have lint errors.
+6. **Run `python3 scripts/sl fix-citations SLUG` on each new/updated profile.** This auto-fixes duplicate URLs, orphan defs, and renumbers footnotes.
+7. **Run `python3 scripts/sl batch-publish SLUG1 SLUG2 ...` with all profile slugs.** This lints, publishes passing profiles, rebuilds, and makes ONE commit+push. Profiles that fail lint are reported but don't block others.
+8. **Mark completed queue items** in `queue.yaml` and commit.
+9. **Start next batch immediately** — do NOT wait for user confirmation.
+10. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
 
 ### Key Principles
 
@@ -610,6 +611,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 - **No manual approval needed** for git, python, file read/write, or web research. Permissions are pre-configured in `.claude/settings.local.json`.
 - **If an agent fails**, log the error, mark the queue item as `flagged`, and continue with the rest of the batch. Don't block the entire batch on one failure.
 - **Investor queue is a hot queue.** Treat it like a priority lane — as soon as names appear, they get researched.
+- **NEVER ask for permission or confirmation during research batches.** Make reasonable decisions autonomously. If something is ambiguous, pick the simpler option. Only stop if an action would be truly destructive (e.g., deleting published profiles, force-pushing).
 
 ### Progress Update Format
 

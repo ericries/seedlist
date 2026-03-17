@@ -53,6 +53,22 @@
     return matrix[b.length][a.length];
   }
 
+  function looksLikeName(value) {
+    if (!value || typeof value !== 'string') return false;
+    var trimmed = value.trim();
+    if (trimmed.length < 3 || trimmed.length > 80) return false;
+    // Must have at least 2 words (first + last name)
+    var words = trimmed.split(/\s+/);
+    if (words.length < 2) return false;
+    // Reject if it looks like an email
+    if (trimmed.indexOf('@') !== -1) return false;
+    // Reject if it's mostly numbers
+    if (/^\d+$/.test(trimmed.replace(/\s/g, ''))) return false;
+    // Reject common injection patterns
+    if (/[<>;{}|\\]/.test(trimmed)) return false;
+    return true;
+  }
+
   // ── Build lookup tables from index ──
 
   var investorsByName = {};
@@ -474,6 +490,39 @@
       recSection.style.display = "none";
     }
 
+    // Render unmatched candidates
+    var unmatchedSection = document.getElementById("unmatched-section");
+    var unmatchedBody = document.getElementById("unmatched-tbody");
+    if (unmatchedSection && unmatchedBody) {
+      var unmatched = [];
+      data.rows.forEach(function (row) {
+        if (row.seedlist_match !== "none") return;
+        var name = row[data.nameCol] || "";
+        if (!looksLikeName(name)) return;
+        var firm = "";
+        // Try to find a firm column value
+        Object.keys(row).forEach(function (k) {
+          if (firm) return;
+          var kl = k.toLowerCase();
+          if (kl.indexOf("firm") !== -1 || kl.indexOf("fund") !== -1 || kl.indexOf("company") !== -1 || kl.indexOf("org") !== -1) {
+            if (row[k] && row[k] !== name) firm = row[k];
+          }
+        });
+        unmatched.push({ name: name.trim(), firm: firm.trim() });
+      });
+
+      if (unmatched.length >= 2) {
+        unmatchedBody.innerHTML = unmatched.map(function (u, i) {
+          return '<tr><td><input type="checkbox" class="unmatched-check" data-idx="' + i + '" checked></td>' +
+            '<td>' + escHtml(u.name) + '</td><td>' + escHtml(u.firm || '—') + '</td></tr>';
+        }).join("");
+        unmatchedSection.style.display = "block";
+        unmatchedSection._candidates = unmatched;
+      } else {
+        unmatchedSection.style.display = "none";
+      }
+    }
+
     document.getElementById("upload-section").style.display = "none";
     document.getElementById("enrich-preview").style.display = "block";
   }
@@ -590,6 +639,46 @@
       enrichedFields = null;
       recommendedRows = [];
       fileInput.value = "";
+      var unmatchedSection = document.getElementById("unmatched-section");
+      if (unmatchedSection) {
+        unmatchedSection.style.display = "none";
+        unmatchedSection._candidates = null;
+      }
     });
+
+    // Unmatched candidates handlers
+    var selectAll = document.getElementById("unmatched-select-all");
+    if (selectAll) {
+      selectAll.addEventListener("change", function () {
+        var checks = document.querySelectorAll(".unmatched-check");
+        for (var i = 0; i < checks.length; i++) {
+          checks[i].checked = selectAll.checked;
+        }
+      });
+    }
+
+    var submitCandidatesBtn = document.getElementById("submit-candidates-btn");
+    if (submitCandidatesBtn) {
+      submitCandidatesBtn.addEventListener("click", function () {
+        var section = document.getElementById("unmatched-section");
+        if (!section || !section._candidates) return;
+        var checks = document.querySelectorAll(".unmatched-check");
+        var selected = [];
+        for (var i = 0; i < checks.length; i++) {
+          if (checks[i].checked) {
+            selected.push(section._candidates[parseInt(checks[i].getAttribute("data-idx"))]);
+          }
+        }
+        if (selected.length === 0) {
+          alert("Select at least one candidate to submit.");
+          return;
+        }
+        if (typeof window.SeedlistFeedback !== "undefined" && window.SeedlistFeedback.submitCandidates) {
+          window.SeedlistFeedback.submitCandidates(selected);
+        } else {
+          alert("Feedback module not loaded.");
+        }
+      });
+    }
   });
 })();

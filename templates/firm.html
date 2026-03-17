@@ -12,6 +12,11 @@
     {% endif %}
   </header>
 
+  <div class="feedback-trigger" id="feedback-trigger">
+    <button onclick="SeedlistFeedback.showUrlForm('{{ profile.slug }}', 'firm')">Submit a source</button>
+  </div>
+  <div id="feedback-form-container"></div>
+
   <div class="profile-meta">
     {% if profile.location %}
     <div class="meta-item">
@@ -90,4 +95,5 @@
   </div>
   {% endif %}
 </article>
+<script src="/static/feedback.js"></script>
 {% endblock %}
