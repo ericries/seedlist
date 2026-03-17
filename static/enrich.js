@@ -490,17 +490,15 @@
       recSection.style.display = "none";
     }
 
-    // Render unmatched candidates
+    // Collect unmatched candidates for suggestion button
     var unmatchedSection = document.getElementById("unmatched-section");
-    var unmatchedBody = document.getElementById("unmatched-tbody");
-    if (unmatchedSection && unmatchedBody) {
+    if (unmatchedSection) {
       var unmatched = [];
       data.rows.forEach(function (row) {
         if (row.seedlist_match !== "none") return;
         var name = row[data.nameCol] || "";
         if (!looksLikeName(name)) return;
         var firm = "";
-        // Try to find a firm column value
         Object.keys(row).forEach(function (k) {
           if (firm) return;
           var kl = k.toLowerCase();
@@ -512,11 +510,6 @@
       });
 
       if (unmatched.length >= 2) {
-        unmatchedBody.innerHTML = unmatched.map(function (u) {
-          return '<tr><td>' + escHtml(u.name) + '</td><td>' + escHtml(u.firm || '—') + '</td></tr>';
-        }).join("");
-        var countEl = document.getElementById("unmatched-count");
-        if (countEl) countEl.textContent = String(unmatched.length);
         unmatchedSection.style.display = "block";
         unmatchedSection._candidates = unmatched;
       } else {
