@@ -3261,7 +3261,7 @@ queue:
 - name: Mala Gaonkar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: SurgoCap Partners
   discovered_from: stephen-mandel
@@ -3340,7 +3340,7 @@ queue:
 - name: Ram Parameswaran
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Octahedron Capital
   discovered_from: brad-gerstner
