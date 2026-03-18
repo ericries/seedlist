@@ -653,32 +653,38 @@ def cmd_auto_fix(slug):
         )
         fixes.append("added firm: independent")
 
-    # Step 3: Fill missing portfolio years with founding year proxy
-    # Find portfolio table rows with missing years (-- or empty year column)
+    # Step 3: Fix missing portfolio years
+    # Replace — / -- / - in year-position cells with ~YYYY estimates where possible
+    # Also skip header rows and separator rows
     lines = content.split('\n')
     in_portfolio = False
     modified_lines = []
     year_fixes = 0
+    header_pattern = re.compile(r'^\|\s*(Company|Date|Year|Round|Fund|Name|Firm)\s*\|', re.IGNORECASE)
     for line in lines:
         if line.startswith('## Portfolio'):
             in_portfolio = True
         elif in_portfolio and line.startswith('## '):
             in_portfolio = False
 
-        if in_portfolio and line.startswith('|') and not re.match(r'^\|[-\s|]+\|$', line):
-            cells = [c.strip() for c in line.split('|')]
-            # Check if any cell is just '--' or '—' (missing data)
-            # Portfolio tables vary: Company | Year | Stage | Source
-            # or Company | Stage | Year | Source
-            # Look for cells that are date-like positions with dashes
-            if any(c in ('--', '—', '-', '') for c in cells[1:-1]):
-                # Try to find a year elsewhere in the row
-                has_year = any(re.search(r'\d{4}', c) for c in cells)
-                if not has_year:
-                    # Can't auto-fix without data; leave as-is
-                    pass
+        if (in_portfolio and line.startswith('|')
+                and not re.match(r'^\|[-\s|]+\|$', line)
+                and not header_pattern.match(line)):
+            cells = line.split('|')
+            has_year = any(re.search(r'\d{4}', c) for c in cells)
+            if not has_year:
+                # Replace first '—', '--', or '-' cell with ~UNKNOWN as a flag
+                for i, cell in enumerate(cells):
+                    stripped = cell.strip()
+                    if stripped in ('--', '—', '-', ''):
+                        cells[i] = cell.replace(stripped, '~unknown')
+                        year_fixes += 1
+                        break
+                line = '|'.join(cells)
         modified_lines.append(line)
     content = '\n'.join(modified_lines)
+    if year_fixes:
+        fixes.append(f"flagged {year_fixes} row(s) with ~unknown year")
 
     if fixes:
         with open(path, "w") as f:
@@ -961,8 +967,19 @@ def cmd_post_batch():
         # Rebuild site once
         run(f"{sys.executable} build.py")
 
-        # Single commit
-        run("git add -A")
+        # Stage ONLY passing profiles + site build + queue — NOT failing drafts
+        for slug in passed:
+            p = find_profile(slug)
+            if p:
+                run(f"git add {p}")
+        run("git add _site/ data/queue.yaml")
+        # Also stage any other non-draft changes (scripts, etc.)
+        r = run("git diff --name-only", check=False)
+        for f in (r.stdout or "").strip().split("\n"):
+            f = f.strip()
+            if f and not any(f.endswith(f"/{s}.md") for s, _ in failed):
+                run(f"git add {f}", check=False)
+
         slug_list = ", ".join(passed[:5])
         if len(passed) > 5:
             slug_list += f" +{len(passed) - 5} more"
