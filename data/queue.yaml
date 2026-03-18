@@ -3188,7 +3188,7 @@ queue:
 - name: Michael Moritz
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sequoia Capital
   discovered_from: ravi-gupta
@@ -3248,7 +3248,7 @@ queue:
 - name: Danny Rimer
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Index Ventures
   discovered_from: mike-volpi
@@ -3374,7 +3374,7 @@ queue:
 - name: Anu Hariharan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Avra
   discovered_from: ram-parameswaran
@@ -3394,14 +3394,14 @@ queue:
 - name: Pete Briger
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Fortress Investment Group
   discovered_from: dan-morehead
 - name: Mike Novogratz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Galaxy Digital
   discovered_from: dan-morehead
@@ -3415,7 +3415,7 @@ queue:
 - name: Fabrice Grinda
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: FJ Labs
   discovered_from: angela-tran
@@ -3499,14 +3499,14 @@ queue:
 - name: Romit Shah
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tensor Edge Capital
   discovered_from: david-goel
 - name: Pete Flint
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NFX
   discovered_from: erik-blachford
@@ -3537,3 +3537,127 @@ queue:
   added: '2026-03-17'
   firm: Forerunner Ventures
   discovered_from: lauren-kolodny
+- name: Drew McKnight
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fortress Investment Group
+  discovered_from: pete-briger
+- name: Wes Edens
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fortress Investment Group
+  discovered_from: pete-briger
+- name: Fortress Investment Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fortress Investment Group
+  discovered_from: pete-briger
+- name: Tensor Edge Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tensor Edge Capital
+  discovered_from: romit-shah
+- name: Neil Rimer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Index Ventures
+  discovered_from: danny-rimer
+- name: James Currier
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NFX
+  discovered_from: pete-flint
+- name: Gigi Levy-Weiss
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NFX
+  discovered_from: pete-flint
+- name: Morgan Beller
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NFX
+  discovered_from: pete-flint
+- name: NFX
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NFX
+  discovered_from: pete-flint
+- name: Sami Inkinen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pete-flint
+- name: Kevin Hartz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pete-flint
+- name: John Doerr
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kleiner Perkins
+  discovered_from: michael-moritz
+- name: Patrick Collison
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Stripe
+  discovered_from: michael-moritz
+- name: Ali Rowghani
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: YC Continuity
+  discovered_from: anu-hariharan
+- name: Avra
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Avra
+  discovered_from: anu-hariharan
+- name: Galaxy Digital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Galaxy Digital
+  discovered_from: mike-novogratz
+- name: José Marín
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: FJ Labs
+  discovered_from: fabrice-grinda
+- name: FJ Labs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: FJ Labs
+  discovered_from: fabrice-grinda
