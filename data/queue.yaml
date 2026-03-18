@@ -1060,7 +1060,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Eric Vishria
   type: individual
@@ -1069,7 +1069,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Chetan Puttagunta
   type: individual
@@ -1078,7 +1078,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Everett Randle
   type: individual
@@ -1105,7 +1105,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Bob Kagle
   type: individual
@@ -1292,7 +1292,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Chase Coleman III
   type: individual
@@ -1301,7 +1301,7 @@ queue:
   discovered_from: tiger-global
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Eric Lane
   type: individual
@@ -1439,7 +1439,7 @@ queue:
   discovered_from: coatue-management
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Thomas Laffont
   type: individual
@@ -1457,7 +1457,7 @@ queue:
   discovered_from: coatue-management
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Lucas Swisher
   type: individual
