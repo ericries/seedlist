@@ -3108,7 +3108,7 @@ queue:
 - name: Vishal Lugani
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Acrew Capital
   discovered_from: theresia-gouw
@@ -3294,7 +3294,7 @@ queue:
 - name: David Singer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maverick Capital
   discovered_from: lee-ainslie
@@ -3307,7 +3307,7 @@ queue:
 - name: Sonja Hoel Perkins
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Broadway Angels
   discovered_from: jennifer-fonstad
@@ -3603,19 +3603,19 @@ queue:
 - name: Sami Inkinen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: pete-flint
 - name: Kevin Hartz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: pete-flint
 - name: John Doerr
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kleiner Perkins
   discovered_from: michael-moritz
@@ -3629,7 +3629,7 @@ queue:
 - name: Ali Rowghani
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: YC Continuity
   discovered_from: anu-hariharan
@@ -3661,3 +3661,80 @@ queue:
   added: '2026-03-17'
   firm: FJ Labs
   discovered_from: fabrice-grinda
+- name: Obvious Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Obvious Ventures
+  discovered_from: sami-inkinen
+- name: First Harmonic
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: First Harmonic
+  discovered_from: ali-rowghani
+- name: Maverick Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Maverick Ventures
+  discovered_from: david-singer
+- name: Ambar Bhattacharyya
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maverick Ventures
+  discovered_from: david-singer
+- name: Magdalena Yesil
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Broadway Angels
+  discovered_from: sonja-hoel-perkins
+- name: Broadway Angels
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Broadway Angels
+  discovered_from: sonja-hoel-perkins
+- name: The Perkins Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: The Perkins Fund
+  discovered_from: sonja-hoel-perkins
+- name: A* Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: A* Capital
+  discovered_from: kevin-hartz
+- name: Bennett Siegel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: A* Capital
+  discovered_from: kevin-hartz
+- name: Gautam Gupta
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: A* Capital
+  discovered_from: kevin-hartz
+- name: Jack Abraham
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Atomic
+  discovered_from: kevin-hartz
