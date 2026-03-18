@@ -982,6 +982,10 @@ def cmd_post_batch():
         for slug, reason in failed:
             print(f"  FAIL {slug}: {reason}")
 
+    # Exit 0 if anything published; exit 1 only if ALL drafts failed
+    if not passed and failed:
+        sys.exit(1)
+
 
 def cmd_batch_publish(*slugs):
     """Lint, auto-fix, and publish multiple profiles in a single commit."""
