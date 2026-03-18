@@ -586,7 +586,7 @@ python3 scripts/sl gen-startups [--threshold N] [--dry-run]  # Auto-generate sta
 python3 scripts/sl fix-citations SLUG    # Auto-fix duplicate URLs, orphan defs, renumber footnotes
 python3 scripts/sl auto-fix SLUG         # Fix citations + missing firm field + other mechanical issues
 python3 scripts/sl queue-add NAME [--type T] [--firm F] [--priority P] [--from SLUG]  # Dedup-safe queue append
-python3 scripts/sl post-batch            # THE post-agent command: auto-fix all drafts → lint → publish → rebuild → commit → push
+python3 scripts/sl post-batch            # THE post-agent command: process queue files → auto-fix → lint → publish → rebuild → commit → push
 python3 scripts/sl batch-publish SLUG... # Lint+fix+publish specific profiles in one commit
 python3 scripts/sl review-sources        # Review user-submitted source URLs from GitHub Issues
 python3 scripts/sl review-candidates     # Review CSV-submitted investor candidates from GitHub Issues
@@ -642,12 +642,16 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 1. **Check investor queue depth.** Count `type: individual, status: pending` items. This determines batch composition per the threshold rule above.
 2. **Select batch:** Pick up to 8 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
 3. **Launch parallel agents** for all items concurrently. Agents do research+write ONLY — no Bash commands, no lint, no git. This avoids permission prompts in subagents.
-4. **Mid-batch extraction:** Agents output `QUEUE_ADD: name=..., type=..., firm=..., priority=..., discovered_from=...` lines. After agents complete, process these with `python3 scripts/sl queue-add NAME --type T --firm F --priority P --from SLUG` for each line.
+4. **As agents complete**, collect `QUEUE_ADD:` lines from their output. Write all discoveries to `data/.pending-queue-adds.yaml` (list of `{name, type, firm, priority, discovered_from}` dicts). Write completed slugs to `data/.pending-completions.yaml` (list of slug strings).
 5. **Wait for ALL agents in the batch to complete.**
-6. **Run `python3 scripts/sl post-batch`.** This single command auto-fixes all drafts, lints them, publishes everything that passes, rebuilds the site, and commits+pushes. One command replaces steps that previously required per-slug orchestration.
-7. **Mark completed queue items** in `queue.yaml` and commit.
-8. **One-line status, then immediately start next batch.**
-9. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
+6. **Run `python3 scripts/sl post-batch`.** This ONE command does everything:
+   - Reads `data/.pending-queue-adds.yaml` → adds to queue (dedup-safe) → deletes file
+   - Reads `data/.pending-completions.yaml` → marks completed → deletes file
+   - Finds all draft profiles → auto-fix (citations, missing fields) → lint → publish passing
+   - Rebuilds site → single git commit+push
+   - The invocation is always identical — no arguments, no per-slug calls
+7. **One-line status, then immediately start next batch.**
+8. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
 
 ### Key Principles
 

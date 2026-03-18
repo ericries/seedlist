@@ -23,7 +23,7 @@ Usage:
   sl fix-citations SLUG    Auto-fix duplicate URLs, orphan defs, renumber footnotes
   sl auto-fix SLUG         Fix citations + missing firm field + other mechanical fixes
   sl queue-add NAME [--type T] [--firm F] [--priority P] [--from SLUG]  Add to queue (dedup-safe)
-  sl post-batch            ONE COMMAND: auto-fix all drafts → lint → publish passing → rebuild → commit → push
+  sl post-batch            ONE COMMAND: process queue files → auto-fix all drafts → lint → publish → rebuild → commit → push
   sl batch-publish SLUG... Lint+fix+publish multiple profiles in one commit
   sl enrich INPUT.csv [OUTPUT.csv]  Enrich a CSV with Seedlist investor/firm data
   sl review-sources     Review and process source URL submissions from GitHub Issues
@@ -786,17 +786,105 @@ def cmd_fix_citations(slug):
         print(f"No fixes needed for {slug}")
 
 
+def _process_pending_files():
+    """Process pending action files written by the orchestrator.
+
+    Reads:
+      data/.pending-queue-adds.yaml — list of {name, type, firm, priority, discovered_from}
+      data/.pending-completions.yaml — list of slugs to mark completed
+
+    Each file is deleted after processing.
+    """
+    adds_path = DATA / ".pending-queue-adds.yaml"
+    completions_path = DATA / ".pending-completions.yaml"
+
+    # Process queue additions
+    if adds_path.exists():
+        with open(adds_path) as f:
+            adds = yaml.safe_load(f) or []
+        if adds:
+            data = load_queue()
+            items = data.get("queue", [])
+            existing = {item.get("name", "").strip().lower() for item in items}
+
+            # Also check existing profiles
+            existing_profiles = set()
+            for subdir in ["investors", "firms", "startups"]:
+                for md_file in (DATA / subdir).glob("*.md"):
+                    existing_profiles.add(md_file.stem)
+
+            added = 0
+            for entry in adds:
+                name = entry.get("name", "").strip()
+                if not name:
+                    continue
+                if name.lower() in existing:
+                    continue
+                slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+                if slug in existing_profiles:
+                    continue
+
+                item = {
+                    "name": name,
+                    "type": entry.get("type", "individual"),
+                    "priority": entry.get("priority", "normal"),
+                    "status": "pending",
+                    "added": "2026-03-17",
+                }
+                if entry.get("firm"):
+                    item["firm"] = entry["firm"]
+                if entry.get("discovered_from"):
+                    item["discovered_from"] = entry["discovered_from"]
+                if entry.get("source"):
+                    item["source"] = entry["source"]
+
+                items.append(item)
+                existing.add(name.lower())
+                added += 1
+
+            data["queue"] = items
+            save_queue(data)
+            print(f"Queue: added {added} new items ({len(adds) - added} skipped as duplicates)")
+        adds_path.unlink()
+
+    # Process completions
+    if completions_path.exists():
+        with open(completions_path) as f:
+            completions = yaml.safe_load(f) or []
+        if completions:
+            data = load_queue()
+            items = data.get("queue", [])
+            completed = 0
+            for slug in completions:
+                slug = slug.strip()
+                for item in items:
+                    item_slug = re.sub(r'[^a-z0-9]+', '-', item.get("name", "").lower()).strip('-')
+                    if item_slug == slug and item.get("status") != "completed":
+                        item["status"] = "completed"
+                        completed += 1
+                        break
+            save_queue(data)
+            print(f"Queue: marked {completed} items completed")
+        completions_path.unlink()
+
+
 def cmd_post_batch():
     """Complete post-agent workflow in one shot:
-    1. Find all draft profiles
-    2. Auto-fix each (citations, missing firm field, etc.)
-    3. Lint each — publish those that pass, report those that fail
-    4. Rebuild site once
-    5. Single git add + commit + push
+    1. Process pending queue additions from data/.pending-queue-adds.yaml
+    2. Process pending completions from data/.pending-completions.yaml
+    3. Find all draft profiles
+    4. Auto-fix each (citations, missing firm field, etc.)
+    5. Lint each — publish those that pass, report those that fail
+    6. Rebuild site once
+    7. Single git add + commit + push
 
     This is the ONE command the orchestrator runs after agents finish writing profiles.
+    The invocation is always: python3 scripts/sl post-batch
     """
-    # Find all drafts
+    # Step 1-2: Process pending action files
+    _process_pending_files()
+
+    # Step 3: Find all drafts
     drafts = []
     for subdir in ["investors", "firms", "startups"]:
         for md_file in sorted((DATA / subdir).glob("*.md")):
