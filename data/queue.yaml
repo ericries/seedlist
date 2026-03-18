@@ -3066,7 +3066,7 @@ queue:
 - name: John Griffin
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Blue Ridge Capital
   discovered_from: julian-robertson
@@ -3087,21 +3087,21 @@ queue:
 - name: Dan Morehead
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pantera Capital
   discovered_from: julian-robertson
 - name: David Goel
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Matrix Capital Management
   discovered_from: julian-robertson
 - name: Lauren Kolodny
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Acrew Capital
   discovered_from: theresia-gouw
@@ -3128,7 +3128,7 @@ queue:
 - name: John Doran
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: TCV
   discovered_from: jay-hoag
@@ -3162,7 +3162,7 @@ queue:
 - name: Erik Blachford
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: rich-barton
 - name: Brad Gerstner
@@ -3274,7 +3274,7 @@ queue:
 - name: Dan Sundheim
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: D1 Capital Partners
   discovered_from: andreas-halvorsen
@@ -3347,7 +3347,7 @@ queue:
 - name: Angela Tran
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Version One Ventures
   discovered_from: boris-wertz
@@ -3357,3 +3357,183 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: boris-wertz
+- name: Albert Chiang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Octahedron Capital
+  discovered_from: ram-parameswaran
+- name: Octahedron Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Octahedron Capital
+  discovered_from: ram-parameswaran
+- name: Anu Hariharan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Avra
+  discovered_from: ram-parameswaran
+- name: Oliver Haarmann
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mala-gaonkar
+- name: Paul Veradittakit
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pantera Capital
+  discovered_from: dan-morehead
+- name: Pete Briger
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Fortress Investment Group
+  discovered_from: dan-morehead
+- name: Mike Novogratz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Galaxy Digital
+  discovered_from: dan-morehead
+- name: Pantera Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pantera Capital
+  discovered_from: dan-morehead
+- name: Fabrice Grinda
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: FJ Labs
+  discovered_from: angela-tran
+- name: Garage Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Garage Capital
+  discovered_from: angela-tran
+- name: gradCapital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: gradCapital
+  discovered_from: angela-tran
+- name: Third Kind Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Third Kind Venture Capital
+  discovered_from: angela-tran
+- name: Trucks Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Trucks Venture Capital
+  discovered_from: angela-tran
+- name: Refactor Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Refactor Capital
+  discovered_from: angela-tran
+- name: Larry Robbins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Glenview Capital Management
+  discovered_from: john-griffin
+- name: Blue Ridge Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blue Ridge Capital
+  discovered_from: john-griffin
+- name: Nikolay Storonsky
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Revolut
+  discovered_from: john-doran
+- name: Nat Turner
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Collectors Holdings
+  discovered_from: dan-sundheim
+- name: Matrix Capital Management
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Matrix Capital Management
+  discovered_from: david-goel
+- name: Paul J. Ferri
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Matrix Capital Management
+  discovered_from: david-goel
+- name: Romit Shah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tensor Edge Capital
+  discovered_from: david-goel
+- name: Pete Flint
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NFX
+  discovered_from: erik-blachford
+- name: Sam Shank
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: HotelTonight
+  discovered_from: erik-blachford
+- name: Hugh Crean
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: erik-blachford
+- name: Satya Patel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Homebrew
+  discovered_from: lauren-kolodny
+- name: Kirsten Green
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Forerunner Ventures
+  discovered_from: lauren-kolodny
