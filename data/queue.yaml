@@ -2869,7 +2869,7 @@ queue:
   source: led SentinelOne Series C
   discovered_from: sentinelone
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Matthew Ocko
   type: individual
