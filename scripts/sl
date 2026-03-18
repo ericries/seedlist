@@ -972,7 +972,8 @@ def cmd_post_batch():
             p = find_profile(slug)
             if p:
                 run(f"git add {p}")
-        run("git add _site/ data/queue.yaml")
+        run("git add data/queue.yaml")
+        run("git add _site/", check=False)  # may be gitignored
         # Also stage any other non-draft changes (scripts, etc.)
         r = run("git diff --name-only", check=False)
         for f in (r.stdout or "").strip().split("\n"):

@@ -3045,21 +3045,21 @@ queue:
 - name: Lee Ainslie
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maverick Capital
   discovered_from: julian-robertson
 - name: Andreas Halvorsen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Viking Global Investors
   discovered_from: julian-robertson
 - name: Stephen Mandel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lone Pine Capital
   discovered_from: julian-robertson
@@ -3115,7 +3115,7 @@ queue:
 - name: Jennifer Fonstad
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Owl Capital
   discovered_from: theresia-gouw
@@ -3168,20 +3168,20 @@ queue:
 - name: Brad Gerstner
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Altimeter Capital
   discovered_from: rich-barton
 - name: Nick Hanauer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: rich-barton
 - name: Boris Wertz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Version One Ventures
   discovered_from: rich-barton
@@ -3220,7 +3220,7 @@ queue:
 - name: Clay Bavor
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sierra AI
   discovered_from: bret-taylor
@@ -3258,3 +3258,102 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: mike-volpi
+- name: Mala Gaonkar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SurgoCap Partners
+  discovered_from: stephen-mandel
+- name: SurgoCap Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stephen-mandel
+- name: Dan Sundheim
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: D1 Capital Partners
+  discovered_from: andreas-halvorsen
+- name: Tom Purcell
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Alua Capital Management
+  discovered_from: andreas-halvorsen
+- name: D1 Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andreas-halvorsen
+- name: David Singer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Maverick Capital
+  discovered_from: lee-ainslie
+- name: Maverick Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lee-ainslie
+- name: Sonja Hoel Perkins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Broadway Angels
+  discovered_from: jennifer-fonstad
+- name: Owl Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jennifer-fonstad
+- name: Pete Higgins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Second Avenue Partners
+  discovered_from: nick-hanauer
+- name: Mike Slade
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Second Avenue Partners
+  discovered_from: nick-hanauer
+- name: Second Avenue Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nick-hanauer
+- name: Ram Parameswaran
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Octahedron Capital
+  discovered_from: brad-gerstner
+- name: Angela Tran
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Version One Ventures
+  discovered_from: boris-wertz
+- name: Version One Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: boris-wertz
