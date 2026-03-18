@@ -584,7 +584,10 @@ python3 scripts/sl prune [--execute]   # Remove low-value queue items (dry-run b
 python3 scripts/sl gen-firms [--dry-run]   # Auto-generate firm profiles from investor data
 python3 scripts/sl gen-startups [--threshold N] [--dry-run]  # Auto-generate startup profiles from portfolio cross-refs
 python3 scripts/sl fix-citations SLUG    # Auto-fix duplicate URLs, orphan defs, renumber footnotes
-python3 scripts/sl batch-publish SLUG... # Lint+fix+publish multiple profiles in one commit
+python3 scripts/sl auto-fix SLUG         # Fix citations + missing firm field + other mechanical issues
+python3 scripts/sl queue-add NAME [--type T] [--firm F] [--priority P] [--from SLUG]  # Dedup-safe queue append
+python3 scripts/sl post-batch            # THE post-agent command: auto-fix all drafts → lint → publish → rebuild → commit → push
+python3 scripts/sl batch-publish SLUG... # Lint+fix+publish specific profiles in one commit
 python3 scripts/sl review-sources        # Review user-submitted source URLs from GitHub Issues
 python3 scripts/sl review-candidates     # Review CSV-submitted investor candidates from GitHub Issues
 ```
@@ -638,14 +641,13 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 
 1. **Check investor queue depth.** Count `type: individual, status: pending` items. This determines batch composition per the threshold rule above.
 2. **Select batch:** Pick up to 8 items. Investors first, then firms, then startups. Within each type, `priority: high` first.
-3. **Launch parallel agents** for all items concurrently.
-4. **Mid-batch extraction:** As firm/startup agents discover investor names, report them in output as `QUEUE_ADD: name=..., type=..., firm=..., priority=..., discovered_from=...`. The orchestrator applies additions between batches. Research agents MUST NOT modify `queue.yaml` directly.
-5. **Wait for ALL agents in the batch to complete.** Don't commit mid-batch — it causes pre-commit hook cascades when some files have lint errors.
-6. **Run `python3 scripts/sl fix-citations SLUG` on each new/updated profile.** This auto-fixes duplicate URLs, orphan defs, and renumbers footnotes.
-7. **Run `python3 scripts/sl batch-publish SLUG1 SLUG2 ...` with all profile slugs.** This lints, publishes passing profiles, rebuilds, and makes ONE commit+push. Profiles that fail lint are reported but don't block others.
-8. **Mark completed queue items** in `queue.yaml` and commit.
-9. **Start next batch immediately** — do NOT wait for user confirmation.
-10. **Stop when:** queue exhausted, OR 3 consecutive batches complete, whichever comes first.
+3. **Launch parallel agents** for all items concurrently. Agents do research+write ONLY — no Bash commands, no lint, no git. This avoids permission prompts in subagents.
+4. **Mid-batch extraction:** Agents output `QUEUE_ADD: name=..., type=..., firm=..., priority=..., discovered_from=...` lines. After agents complete, process these with `python3 scripts/sl queue-add NAME --type T --firm F --priority P --from SLUG` for each line.
+5. **Wait for ALL agents in the batch to complete.**
+6. **Run `python3 scripts/sl post-batch`.** This single command auto-fixes all drafts, lints them, publishes everything that passes, rebuilds the site, and commits+pushes. One command replaces steps that previously required per-slug orchestration.
+7. **Mark completed queue items** in `queue.yaml` and commit.
+8. **One-line status, then immediately start next batch.**
+9. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
 
 ### Key Principles
 
@@ -658,12 +660,10 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 
 ### Progress Update Format
 
-After each batch, output a brief status:
+After each batch, output a **single line** and immediately continue:
 
 ```
-Batch 3/6 complete: +3 investor profiles, +2 firm profiles
-Investors: 12 published, 5 pending | Firms: 8 | Startups: 20
-Queue: 45 investors, 20 firms, 80 startups pending
-Deployed: https://seedlist.com
-Starting Batch 4: [names]...
+Batch 3: +5 published, 1 failed (smith-jones: missing years) | Queue: 40 pending
 ```
+
+Do NOT output multi-line status blocks, pipeline summaries, or wait for acknowledgment. The status line is for Eric's terminal — he'll glance at it, not respond to it.

@@ -23,7 +23,10 @@
       "Bash(node *)",
       "Bash(.venv/bin/python3 *)",
       "Bash(python3:*)",
-      "Bash(source:*)"
+      "Bash(source:*)",
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl post-batch 2>&1)",
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl status 2>&1)",
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl queue individual 2>&1)"
     ]
   }
 }

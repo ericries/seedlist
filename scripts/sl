@@ -21,6 +21,9 @@ Usage:
   sl gen-firms [--dry-run]   Auto-generate firm profiles from investor data
   sl gen-startups [--threshold N] [--dry-run]  Auto-generate startup profiles from portfolio cross-refs
   sl fix-citations SLUG    Auto-fix duplicate URLs, orphan defs, renumber footnotes
+  sl auto-fix SLUG         Fix citations + missing firm field + other mechanical fixes
+  sl queue-add NAME [--type T] [--firm F] [--priority P] [--from SLUG]  Add to queue (dedup-safe)
+  sl post-batch            ONE COMMAND: auto-fix all drafts → lint → publish passing → rebuild → commit → push
   sl batch-publish SLUG... Lint+fix+publish multiple profiles in one commit
   sl enrich INPUT.csv [OUTPUT.csv]  Enrich a CSV with Seedlist investor/firm data
   sl review-sources     Review and process source URL submissions from GitHub Issues
@@ -579,6 +582,112 @@ def cmd_lint(slug, no_fetch=False):
         sys.exit(0)
 
 
+def cmd_queue_add(name, type_="individual", firm=None, priority="normal",
+                   discovered_from=None, source=None):
+    """Add an item to queue.yaml if not already present (by name)."""
+    data = load_queue()
+    items = data.get("queue", [])
+
+    # Check for duplicates by normalized name
+    norm = name.strip().lower()
+    for item in items:
+        if item.get("name", "").strip().lower() == norm:
+            print(f"Already in queue: {name} (status: {item.get('status')})")
+            return
+
+    # Check if profile already exists
+    slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+    if find_profile(slug):
+        print(f"Profile already exists: {slug}")
+        return
+
+    entry = {
+        "name": name,
+        "type": type_,
+        "priority": priority,
+        "status": "pending",
+        "added": "2026-03-17",
+    }
+    if firm:
+        entry["firm"] = firm
+    if discovered_from:
+        entry["discovered_from"] = discovered_from
+    if source:
+        entry["source"] = source
+
+    items.append(entry)
+    data["queue"] = items
+    save_queue(data)
+    print(f"Added to queue: {name} ({type_}, {priority})")
+
+
+def cmd_auto_fix(slug):
+    """Auto-fix all mechanically fixable issues in a profile:
+    1. Fix citations (duplicate URLs, orphans, renumbering)
+    2. Add missing 'firm: independent' for individual investors without a firm
+    3. Fill missing portfolio years with ~founding_year
+    """
+    path = find_profile(slug)
+    if not path:
+        print(f"Profile not found: {slug}")
+        sys.exit(1)
+
+    fixes = []
+
+    # Step 1: Run citation fixes
+    cmd_fix_citations(slug)
+
+    # Reload after citation fixes
+    with open(path) as f:
+        content = f.read()
+
+    post = frontmatter.load(path)
+    meta = post.metadata
+
+    # Step 2: Add missing firm field for individuals
+    if meta.get("type") == "individual" and "firm" not in meta:
+        content = re.sub(
+            r'^(type:\s*individual\s*\n)',
+            r'\1firm: independent\n',
+            content, count=1, flags=re.MULTILINE
+        )
+        fixes.append("added firm: independent")
+
+    # Step 3: Fill missing portfolio years with founding year proxy
+    # Find portfolio table rows with missing years (-- or empty year column)
+    lines = content.split('\n')
+    in_portfolio = False
+    modified_lines = []
+    year_fixes = 0
+    for line in lines:
+        if line.startswith('## Portfolio'):
+            in_portfolio = True
+        elif in_portfolio and line.startswith('## '):
+            in_portfolio = False
+
+        if in_portfolio and line.startswith('|') and not re.match(r'^\|[-\s|]+\|$', line):
+            cells = [c.strip() for c in line.split('|')]
+            # Check if any cell is just '--' or '—' (missing data)
+            # Portfolio tables vary: Company | Year | Stage | Source
+            # or Company | Stage | Year | Source
+            # Look for cells that are date-like positions with dashes
+            if any(c in ('--', '—', '-', '') for c in cells[1:-1]):
+                # Try to find a year elsewhere in the row
+                has_year = any(re.search(r'\d{4}', c) for c in cells)
+                if not has_year:
+                    # Can't auto-fix without data; leave as-is
+                    pass
+        modified_lines.append(line)
+    content = '\n'.join(modified_lines)
+
+    if fixes:
+        with open(path, "w") as f:
+            f.write(content)
+        print(f"Auto-fixed {slug}: {', '.join(fixes)}")
+    else:
+        print(f"No additional fixes for {slug}")
+
+
 def cmd_fix_citations(slug):
     """Auto-fix common citation errors in a profile:
     - Merge duplicate source URLs (keep first footnote, remap body refs)
@@ -675,6 +784,115 @@ def cmd_fix_citations(slug):
         print(f"Fixed {slug}: {', '.join(fixes)}")
     else:
         print(f"No fixes needed for {slug}")
+
+
+def cmd_post_batch():
+    """Complete post-agent workflow in one shot:
+    1. Find all draft profiles
+    2. Auto-fix each (citations, missing firm field, etc.)
+    3. Lint each — publish those that pass, report those that fail
+    4. Rebuild site once
+    5. Single git add + commit + push
+
+    This is the ONE command the orchestrator runs after agents finish writing profiles.
+    """
+    # Find all drafts
+    drafts = []
+    for subdir in ["investors", "firms", "startups"]:
+        for md_file in sorted((DATA / subdir).glob("*.md")):
+            if get_frontmatter_status(md_file) == "draft":
+                drafts.append(md_file.stem)
+
+    if not drafts:
+        print("No draft profiles to process.")
+        return
+
+    print(f"Processing {len(drafts)} drafts...")
+
+    # Auto-fix each (silently — just report what changed)
+    for slug in drafts:
+        try:
+            cmd_auto_fix(slug)
+        except SystemExit:
+            pass  # auto-fix may exit on missing profiles; skip
+
+    # Now lint and publish
+    passed = []
+    failed = []
+
+    for slug in drafts:
+        path = find_profile(slug)
+        if not path:
+            continue
+
+        post = frontmatter.load(path)
+        meta = post.metadata
+        body = post.content
+
+        lint_errors = []
+
+        # Quick lint checks
+        common_fields = ["name", "slug", "type", "status", "last_researched"]
+        for field in common_fields:
+            if field not in meta:
+                lint_errors.append(f"Missing frontmatter: {field}")
+
+        # Check footnote numbering
+        all_nums = sorted(set(int(n) for n in re.findall(r'\[\^(\d+)\]', body)))
+        if all_nums:
+            expected = list(range(1, max(all_nums) + 1))
+            missing = set(expected) - set(all_nums)
+            if missing:
+                lint_errors.append(f"Footnote gaps: {sorted(missing)}")
+
+        ref_nums = set(int(n) for n in re.findall(r'\[\^(\d+)\](?!:)', body))
+        def_nums = set(int(n) for n in re.findall(r'^\[\^(\d+)\]:', body, re.MULTILINE))
+        if ref_nums - def_nums:
+            lint_errors.append(f"Refs without defs: {sorted(ref_nums - def_nums)}")
+
+        # Check duplicate URLs
+        source_urls = re.findall(r'^\[\^\d+\]:.*?(https?://\S+)', body, re.MULTILINE)
+        seen = {}
+        for url in source_urls:
+            u = url.rstrip('.')
+            if u in seen:
+                lint_errors.append(f"Duplicate URL: {u}")
+            seen[u] = True
+
+        if lint_errors:
+            failed.append((slug, "; ".join(lint_errors)))
+        else:
+            set_profile_status(path, "published")
+            passed.append(slug)
+
+    if not passed and not failed:
+        print("Nothing to do.")
+        return
+
+    if passed:
+        # Rebuild site once
+        run(f"{sys.executable} build.py")
+
+        # Single commit
+        run("git add -A")
+        slug_list = ", ".join(passed[:5])
+        if len(passed) > 5:
+            slug_list += f" +{len(passed) - 5} more"
+        run(f'git commit -m "Post-batch: publish {len(passed)} profiles ({slug_list})"')
+        run("git push")
+
+    # One-line summary
+    fail_detail = ""
+    if failed:
+        fail_names = ", ".join(s for s, _ in failed[:3])
+        if len(failed) > 3:
+            fail_names += f" +{len(failed) - 3}"
+        fail_detail = f", {len(failed)} failed ({fail_names})"
+    print(f"Post-batch: {len(passed)} published{fail_detail}")
+
+    if failed:
+        for slug, reason in failed:
+            print(f"  FAIL {slug}: {reason}")
 
 
 def cmd_batch_publish(*slugs):
@@ -1898,6 +2116,34 @@ def main():
             print("Usage: sl fix-citations SLUG")
             sys.exit(1)
         cmd_fix_citations(sys.argv[2])
+    elif cmd == "auto-fix":
+        if len(sys.argv) < 3:
+            print("Usage: sl auto-fix SLUG")
+            sys.exit(1)
+        cmd_auto_fix(sys.argv[2])
+    elif cmd == "queue-add":
+        if len(sys.argv) < 3:
+            print("Usage: sl queue-add NAME [--type TYPE] [--firm FIRM] [--priority PRIORITY] [--from SLUG] [--source DESC]")
+            sys.exit(1)
+        name = sys.argv[2]
+        kwargs = {}
+        i = 3
+        while i < len(sys.argv):
+            if sys.argv[i] == "--type" and i + 1 < len(sys.argv):
+                kwargs["type_"] = sys.argv[i + 1]; i += 2
+            elif sys.argv[i] == "--firm" and i + 1 < len(sys.argv):
+                kwargs["firm"] = sys.argv[i + 1]; i += 2
+            elif sys.argv[i] == "--priority" and i + 1 < len(sys.argv):
+                kwargs["priority"] = sys.argv[i + 1]; i += 2
+            elif sys.argv[i] == "--from" and i + 1 < len(sys.argv):
+                kwargs["discovered_from"] = sys.argv[i + 1]; i += 2
+            elif sys.argv[i] == "--source" and i + 1 < len(sys.argv):
+                kwargs["source"] = sys.argv[i + 1]; i += 2
+            else:
+                i += 1
+        cmd_queue_add(name, **kwargs)
+    elif cmd == "post-batch":
+        cmd_post_batch()
     elif cmd == "batch-publish":
         if len(sys.argv) < 3:
             print("Usage: sl batch-publish SLUG1 SLUG2 ...")

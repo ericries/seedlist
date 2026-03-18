@@ -2972,3 +2972,31 @@ queue:
   priority: high
   status: pending
   added: 2026-03-17
+- name: Julian Robertson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tiger Management
+  discovered_from: chase-coleman
+- name: Matt Mazzeo
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Coatue Management
+  discovered_from: philippe-laffont
+- name: Michael Gilroy
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Coatue Management
+  discovered_from: dan-rose
+- name: Andrew Feldman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cerebras Systems
+  discovered_from: eric-vishria
