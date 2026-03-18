@@ -3000,3 +3000,45 @@ queue:
   added: '2026-03-17'
   firm: Cerebras Systems
   discovered_from: eric-vishria
+- name: Jay Hoag
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: TCV
+  discovered_from: bill-gurley
+- name: Theresia Gouw
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aspect Ventures
+  discovered_from: bill-gurley
+- name: Rich Barton
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Zillow
+  discovered_from: bill-gurley
+- name: Bret Taylor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sierra
+  discovered_from: peter-fenton
+- name: Mike Volpi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Index Ventures
+  discovered_from: peter-fenton
+- name: Ravi Gupta
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sequoia Capital
+  discovered_from: peter-fenton
