@@ -14,7 +14,7 @@ last_verified_investment:
   round: "Series C"
 social:
   linkedin: "linkedin.com/in/tomdyal"
-status: draft
+status: published
 last_researched: 2026-03-17
 ---
 
