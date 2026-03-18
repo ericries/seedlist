@@ -1,0 +1,45 @@
+name: Process Issue Submissions
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  process:
+    # Only run for our specific labels
+    if: >-
+      contains(github.event.issue.labels.*.name, 'source-submission') ||
+      contains(github.event.issue.labels.*.name, 'csv-unmatched')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install python-frontmatter pyyaml
+
+      - name: Process issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/process_issues.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Process user-submitted issues [automated]"
+            git push
+          fi

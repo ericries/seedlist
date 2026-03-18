@@ -1,21 +1,30 @@
 ---
-name: "Ron Conway"
-slug: ron-conway
-type: individual
+check_size: $25K–$100K (angel/seed); $5M–$20M (growth fund, Series B/C)
 firm: sv-angel
-role: "Founder & Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, growth]
-sector_focus: [consumer-internet, enterprise-saas, ai-ml, fintech, marketplaces, social, e-commerce]
-check_size: "$25K–$100K (angel/seed); $5M–$20M (growth fund, Series B/C)"
-last_verified_investment:
-  date: "~2023"
-  company: "Sierra"
-  round: "Seed"
-social:
-  twitter: "@RonConway"
-status: published
 last_researched: 2026-03-13
+last_verified_investment:
+  company: Sierra
+  date: ~2023
+  round: Seed
+location: San Francisco, CA
+name: Ron Conway
+role: Founder & Managing Partner
+sector_focus:
+- consumer-internet
+- enterprise-saas
+- ai-ml
+- fintech
+- marketplaces
+- social
+- e-commerce
+slug: ron-conway
+social:
+  twitter: '@RonConway'
+stage_focus:
+- seed
+- growth
+status: published
+type: individual
 ---
 
 ## Background
