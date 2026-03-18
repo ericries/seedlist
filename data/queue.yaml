@@ -2807,14 +2807,14 @@ queue:
   source: angel investor in Instagram Series A
   discovered_from: instagram
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Jack Dorsey
   type: individual
   source: angel investor in Instagram Series A
   discovered_from: instagram
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Garry Tan
   type: individual
@@ -2861,7 +2861,7 @@ queue:
   source: led SentinelOne Series D+E
   discovered_from: sentinelone
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Tom Dyal
   type: individual
@@ -2877,7 +2877,7 @@ queue:
   source: seed investor in SentinelOne
   discovered_from: sentinelone
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Bilal Zuberi
   type: individual
@@ -2885,7 +2885,7 @@ queue:
   source: investor in Applied Intuition Seed through Series F
   discovered_from: applied-intuition
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Ping Li
   type: individual
@@ -2893,7 +2893,7 @@ queue:
   source: investor in Klaviyo
   discovered_from: klaviyo
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Lux Capital
   type: firm
