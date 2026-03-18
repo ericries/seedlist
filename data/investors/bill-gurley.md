@@ -6,7 +6,7 @@ firm: benchmark
 role: "General Partner (Emeritus)"
 location: "Austin, TX"
 stage_focus: [seed, series-a, series-b]
-sector_focus: [marketplaces, consumer-internet, gig-economy, healthcare, e-commerce]
+sector_focus: [marketplaces, consumer-internet, gig-economy, healthcare, e-commerce, smb-saas]
 check_size: "$1M-$15M"
 last_verified_investment:
   date: 2019-02-27
@@ -49,21 +49,25 @@ Gurley's publicly stated investment philosophy centers on several core principle
 
 - **Modest rake with high volume**: For marketplace businesses specifically, Gurley argues: "High volume combined with a modest rake is the perfect formula for a true organic marketplace and a sustainable competitive advantage" [^10].
 
+- **TAM skepticism**: Gurley has cautioned against over-reliance on total addressable market analysis, stating: "I've found that TAM conservatism hurts you more than it helps you as an investor" [^31]. He argues that disruptive companies can expand markets far beyond initial estimates — citing Uber's market cap of $92 billion versus an initial TAM-based valuation of $5.9 billion [^31].
+
+- **Capital discipline**: Gurley is an outspoken critic of excessive venture capital funding. He has written: "The healthiest thing that could possibly happen is a dramatic increase in the real cost of capital and a return to an appreciation for sound business execution" [^30].
+
 - **Early-stage focus**: Gurley has stated: "Benchmark is exclusively focused on rolling up our sleeves, and helping early stage companies" [^13]. Around 85-90% of Benchmark's funds are deployed on first-money and early-stage investments [^14].
 
 - **Founder-led outcomes**: Gurley has expressed that founder-led companies produce the best outcomes in venture capital [^15].
 
 ## Inferred Thesis
 
-The analysis below is based on 25 investments that can be specifically attributed to Gurley (led, board seat, or publicly confirmed) across his Benchmark tenure (1999-2020). This represents a partial view — Gurley likely made additional investments not publicly documented with his individual attribution.
+The analysis below is based on 26 investments that can be specifically attributed to Gurley (led, board seat, or publicly confirmed) across his Benchmark tenure (1999-2020). This represents a partial view — Gurley likely made additional investments not publicly documented with his individual attribution.
 
-**Sector concentration (based on 25 verified investments):**
-- Online marketplaces/platforms: 10 of 25 (40%) — OpenTable, GrubHub, Uber, Zillow, Nextdoor, DogVacay, Shopping.com, Instawork, Good Eggs, Business.com
-- Consumer internet/media: 5 of 25 (20%) — Linden Lab, Clicker.com, Vessel, Vudu, Nordstrom.com
-- Enterprise/infrastructure: 4 of 25 (16%) — Avamar Technologies, Employease, LiveOps, Scale Computing
-- E-commerce/retail: 3 of 25 (12%) — Stitch Fix, The Knot, Sailthru
-- Healthcare: 2 of 25 (8%) — Solv, Brighter (acquired by Cigna)
-- Cybersecurity: 1 of 25 (4%) — HackerOne
+**Sector concentration (based on 26 verified investments):**
+- Online marketplaces/platforms: 10 of 26 (38%) — OpenTable, GrubHub, Uber, Zillow, Nextdoor, DogVacay, Shopping.com, Instawork, Good Eggs, Business.com
+- Consumer internet/media: 5 of 26 (19%) — Linden Lab, Clicker.com, Vessel, Vudu, Nordstrom.com
+- Enterprise/infrastructure: 4 of 26 (15%) — Avamar Technologies, Employease, LiveOps, Scale Computing
+- E-commerce/retail: 3 of 26 (12%) — Stitch Fix, The Knot, Sailthru
+- SMB SaaS: 2 of 26 (8%) — Demandforce, HackerOne
+- Healthcare: 2 of 26 (8%) — Solv, Brighter (acquired by Cigna)
 
 **Key patterns:**
 
@@ -77,11 +81,11 @@ The analysis below is based on 25 investments that can be specifically attribute
 
 - **Geographic concentration**: Portfolio companies are primarily based in San Francisco, New York, and Seattle, with some Texas-based companies (Solv launched in Dallas-Fort Worth) [^17].
 
-- **Notable gap — enterprise SaaS**: Despite Benchmark's broader portfolio including enterprise SaaS companies, Gurley's personal deal attribution skews heavily toward consumer marketplaces and platforms. His stated thesis about competitive moats and network effects aligns more naturally with marketplace businesses than with SaaS.
+- **Notable gap — enterprise SaaS**: Despite Benchmark's broader portfolio including enterprise SaaS companies, Gurley's personal deal attribution skews heavily toward consumer marketplaces and platforms. His stated thesis about competitive moats and network effects aligns more naturally with marketplace businesses than with SaaS. His SMB SaaS investments (Demandforce, HackerOne) both serve small business customers, consistent with his marketplace orientation.
 
-- **Co-investor patterns**: Many of Gurley's portfolio companies involve co-investment with firms such as Index Ventures, Greylock Partners, and DAG Ventures (in the case of Nextdoor) [^18].
+- **Co-investor patterns**: Many of Gurley's portfolio companies involve co-investment with firms such as Index Ventures, Greylock Partners, DAG Ventures (in the case of Nextdoor), and Floodgate (in the case of Demandforce) [^18][^29].
 
-**Caveat**: With only 25 verified investments individually attributed to Gurley, these percentages are approximate. Benchmark's equal-partnership model makes individual deal attribution less clear-cut than at hierarchical firms.
+**Caveat**: With only 26 verified investments individually attributed to Gurley, these percentages are approximate. Benchmark's equal-partnership model makes individual deal attribution less clear-cut than at hierarchical firms.
 
 ## Portfolio
 
@@ -102,6 +106,7 @@ The analysis below is based on 25 investments that can be specifically attribute
 | Scale Computing | Late 2000s | Early | Infrastructure | Active | [^1] |
 | GrubHub | 2010 | Series C | Marketplace/Food delivery | IPO 2014 (GRUB) | [^21] |
 | Uber | 2011 | Series A | Marketplace/Ridesharing | IPO 2019 | [^1][^4] |
+| Demandforce | ~2010 | Early | SMB SaaS/Marketing | Acquired by Intuit for $424M, 2012 | [^29] |
 | Nextdoor | 2011 | Seed | Social/Neighborhood network | IPO 2021 (via SPAC) | [^18] |
 | DogVacay | 2012 | Series A | Marketplace/Pet care | Merged with Rover | [^1] |
 | The Knot | Early 2010s | Growth | E-commerce/Weddings | Public (KNOT) | [^1] |
@@ -114,7 +119,7 @@ The analysis below is based on 25 investments that can be specifically attribute
 | Good Eggs | 2018 | Growth | Marketplace/Grocery delivery | Active | [^25] |
 | Instawork | 2019 | Series A | Marketplace/Gig economy | Active | [^26] |
 
-This table represents approximately 26 investments publicly attributed to Gurley. Benchmark's website and Crunchbase suggest additional investments not individually linked to Gurley in public records. Note: many early investments use approximate dates based on board tenure or founding year proxies, as exact investment dates are not publicly documented for all deals.
+This table represents approximately 27 investments publicly attributed to Gurley. Benchmark's website and Crunchbase suggest additional investments not individually linked to Gurley in public records. Note: many early investments use approximate dates based on board tenure or founding year proxies, as exact investment dates are not publicly documented for all deals.
 
 ## In Their Own Words
 
@@ -150,9 +155,21 @@ On GrubHub:
 
 > "I am excited to work with two remarkable founders in Matt Maloney and Mike Evans." [^21]
 
+On Demandforce's approach (announcing the $424M Intuit acquisition):
+
+> "Benchmark believes this 'Local Internet' wave is many times larger than the 'social' and 'mobile' themes." [^29]
+
 On Instawork:
 
 > "Instawork is best positioned to build the most effective labor network for gig workers and local businesses." [^26]
+
+On excess capital and its consequences (2016):
+
+> "The reason we are all in this mess is because of the excessive amounts of capital that have poured into the VC-backed startup market." He added: "The healthiest thing that could possibly happen is a dramatic increase in the real cost of capital and a return to an appreciation for sound business execution." And on the power of profitability: "Achieving profitability is the most liberating action a startup can accomplish. Now you make your own decisions." [^30]
+
+On TAM and market sizing:
+
+> "I've found that TAM conservatism hurts you more than it helps you as an investor. If you feel like something is super disruptive and it's unlocking things, your optionality to build on top of that is going to be pretty spectacular." [^31]
 
 On the valuation reset in 2022:
 
@@ -160,9 +177,9 @@ On the valuation reset in 2022:
 
 ## What Founders Say
 
-**Nirav Tolia, co-founder and CEO of Nextdoor**, on Gurley's mentorship over more than 25 years:
+**Nirav Tolia, co-founder and CEO of Nextdoor**, on Gurley's role in the company's origins and his mentorship over more than 25 years:
 
-> "I don't know that there's been anyone who's been more influential in my professional career than Bill." Tolia has worked with Gurley since 1999, when Gurley funded his first company. He added: "I used to tell him, and I still believe this, anything good I've accomplished in my career as a CEO, he would get full credit for. Anything that I have done wrong, I have to take responsibility for, because none of that came from him." [^27]
+> "Bill is a founding board member. In many ways, he's one of the founders of the company, because he was there at the beginning." When Tolia's previous startup Fanbase failed in 2010, Gurley told him: "I believe in the team. I think you should take one summer and come up with a new idea and pursue it." That next idea became Nextdoor. Tolia also said: "I met Bill Gurley in 1997 and have worked with him ever since." [^27]
 
 **Rich Barton, co-founder and CEO of Zillow**, on Gurley's impact on the company:
 
@@ -228,6 +245,12 @@ Barton also credited Gurley with pushing Zillow's marketing creativity. Early in
 
 [^26]: Instawork, "Press Release: Instawork Funding Announcement," February 27, 2019. https://app.instawork.com/press-releases/2019-02-27/
 
-[^27]: TechCrunch, "Nextdoor's Nirav Tolia thinks he can turn things around with AI — he has a lot riding on it," Connie Loizos, February 17, 2025. https://techcrunch.com/2025/02/17/nextdoors-nirav-tolia-thinks-he-can-turn-things-around-with-ai-he-has-a-lot-riding-on-it/
+[^27]: The Split, "How Nextdoor Grew to 100M Neighbors + Why Founding CEO Nirav Tolia Came Back Six Years Later," November 21, 2024. https://www.thespl.it/p/how-nextdoor-grew-to-100m-neighbors
 
 [^28]: Zillow co-founder Rich Barton on marketing, as cited in multiple sources including Tim Ferriss podcast (#806) and real estate industry coverage, 2025. https://tim.blog/2025/04/17/rich-barton/
+
+[^29]: Above the Crowd, "Intuit to Acquire Demandforce for $424MM," Bill Gurley, April 27, 2012. https://abovethecrowd.com/2012/04/27/intuit-to-acquire-demandforce-for-424mm/
+
+[^30]: Above the Crowd, "On the Road to Recap," Bill Gurley, April 21, 2016. https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/
+
+[^31]: Startup Archive, "Bill Gurley on why founders and investors shouldn't pay too much attention to TAM," accessed March 2026. https://www.startuparchive.org/p/bill-gurley-on-why-founders-and-investors-shouldn-t-pay-too-much-attention-to-tam

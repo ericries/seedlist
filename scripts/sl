@@ -453,7 +453,7 @@ def cmd_lint(slug, no_fetch=False):
                   if l.startswith("|") and not re.match(r'^\|[-\s|]+\|$', l)]
     # Skip header rows (contain "Company" or "Year" or "Stage" as column names)
     data_rows = [r for r in table_rows
-                 if not re.match(r'^\|\s*(Company|Date|Year|Round)\s*\|', r, re.IGNORECASE)]
+                 if not re.match(r'^\|\s*(Company|Date|Year|Round|Fund|Name|Firm)\s*\|', r, re.IGNORECASE)]
     for row in data_rows:
         if not re.search(r'~?\d{4}', row):
             errors.append(f"Portfolio row missing year: {row.strip()[:80]}")
