@@ -3738,3 +3738,171 @@ queue:
   added: '2026-03-17'
   firm: Atomic
   discovered_from: kevin-hartz
+- name: Matt Robinson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: TCV
+  discovered_from: tim-mcadam
+- name: Meka Asonye
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: first-round-capital
+  discovered_from: first-round-capital
+- name: Todd Jackson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: first-round-capital
+  discovered_from: first-round-capital
+- name: Brett Berson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: first-round-capital
+  discovered_from: first-round-capital
+- name: Liz Wessel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: first-round-capital
+  discovered_from: first-round-capital
+- name: Katrina Lake
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stitch-fix
+- name: Andrew Braccia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Accel
+  discovered_from: pagerduty
+- name: Ethan Kurzweil
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bessemer Venture Partners
+  discovered_from: pagerduty
+- name: Trevor Oelschig
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bessemer Venture Partners
+  discovered_from: pagerduty
+- name: Jesse Robbins
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pagerduty
+- name: Josh Buckley
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: placer-ai
+- name: Todd Goldberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: placer-ai
+- name: Rahul Vohra
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: placer-ai
+- name: John O'Farrell
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: pagerduty
+- name: Accel
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pagerduty
+- name: Foundation Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chegg
+- name: Harrison Metal
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pagerduty
+- name: Fifth Wall
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: placer-ai
+- name: WndrCo
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: placer-ai
+- name: Sam Altman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenAI
+  discovered_from: reddit
+- name: Josh Kushner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Thrive Capital
+  discovered_from: reddit
+- name: Alexis Ohanian
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Seven Seven Six
+  discovered_from: reddit
+- name: Seven Seven Six
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: reddit
+- name: Lowercarbon Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: solugen
+- name: Altos Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: roblox
+- name: Social Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: solugen

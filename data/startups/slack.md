@@ -13,6 +13,12 @@ firms:
 - round: Series E
   slug: dst-global
   year: 2015
+- round: Series C
+  slug: stripe
+  year: 2014
+- round: '2013'
+  slug: accel
+  year: 2013
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -36,6 +42,12 @@ investors:
 - round: Series E
   slug: yuri-milner
   year: 2015
+- round: Series C
+  slug: patrick-collison
+  year: 2014
+- round: '2013'
+  slug: andrew-braccia
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

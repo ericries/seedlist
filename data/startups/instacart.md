@@ -30,6 +30,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2013
+- round: ~2013
+  slug: heavybit
+  year: 2013
 founded: 2012
 founders:
 - name: Apoorva Mehta
@@ -74,6 +77,9 @@ investors:
   year: 2013
 - round: Series B
   slug: michael-moritz
+  year: 2013
+- round: ~2013
+  slug: jesse-robbins
   year: 2013
 last_researched: 2026-03-13
 location: San Francisco, California

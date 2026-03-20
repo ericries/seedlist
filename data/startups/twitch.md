@@ -24,6 +24,9 @@ investors:
 - round: seed
   slug: mike-maples
   year: 2007
+- round: ~2012
+  slug: ethan-kurzweil
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitch

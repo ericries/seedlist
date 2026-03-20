@@ -60,6 +60,9 @@ investors:
 - round: Series A
   slug: elad-gil
   year: 2010
+- round: Growth
+  slug: woody-marshall
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

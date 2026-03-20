@@ -15,6 +15,9 @@ firms:
 - round: Seed
   slug: independent
   year: 2011
+- round: Angel
+  slug: atomic
+  year: 2010
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -39,6 +42,9 @@ investors:
 - round: Seed
   slug: elad-gil
   year: 2011
+- round: Angel
+  slug: jack-abraham
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

@@ -67,10 +67,10 @@
       <span class="meta-label">Social</span>
       <span class="meta-value">
         {% if profile.social.twitter %}
-          <a href="https://twitter.com/{{ profile.social.twitter }}" target="_blank" rel="noopener">@{{ profile.social.twitter }}</a>
+          <a href="https://twitter.com/{{ profile.social.twitter | replace('@', '') }}" target="_blank" rel="noopener">@{{ profile.social.twitter | replace('@', '') }}</a>
         {% endif %}
         {% if profile.social.linkedin %}
-          <a href="{{ profile.social.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+          {% if 'http' in profile.social.linkedin %}<a href="{{ profile.social.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% else %}<a href="https://{{ profile.social.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
         {% endif %}
       </span>
     </div>
