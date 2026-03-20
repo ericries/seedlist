@@ -3965,3 +3965,16 @@ queue:
   added: '2026-03-17'
   firm: Heavybit
   discovered_from: jesse-robbins
+- name: QuantumLight
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikolay-storonsky
+- name: Ilya Kondrashov
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: quantumlight
+  discovered_from: nikolay-storonsky

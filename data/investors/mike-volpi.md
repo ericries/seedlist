@@ -1,22 +1,31 @@
 ---
-name: "Mike Volpi"
-slug: mike-volpi
-type: individual
-firm: index-ventures
-role: "Retired Partner (Index Ventures); General Partner (Hanabi Capital)"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [infrastructure, open-source, artificial-intelligence, data-infrastructure, robotics, enterprise-software]
-check_size: "$100K-$2M (Hanabi Capital); institutional at Index Ventures"
-last_verified_investment:
-  date: 2025
-  company: "Cursor"
-  round: ""
-social:
-  twitter: "@mavolpi"
-  linkedin: "linkedin.com/in/mavolpi"
-status: published
+check_size: $100K-$2M (Hanabi Capital); institutional at Index Ventures
+firm: hanabi-capital
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Cursor
+  date: 2025
+  round: ''
+location: Palo Alto, CA
+name: Mike Volpi
+role: Retired Partner (Index Ventures); General Partner (Hanabi Capital)
+sector_focus:
+- infrastructure
+- open-source
+- artificial-intelligence
+- data-infrastructure
+- robotics
+- enterprise-software
+slug: mike-volpi
+social:
+  linkedin: linkedin.com/in/mavolpi
+  twitter: '@mavolpi'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+type: individual
 ---
 
 ## Background
