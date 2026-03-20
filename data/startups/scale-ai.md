@@ -33,6 +33,9 @@ firms:
 - round: Growth
   slug: nfdg
   year: 2021
+- round: Early
+  slug: index-ventures
+  year: 2018
 founded: 2016
 founders:
 - name: Alexandr Wang

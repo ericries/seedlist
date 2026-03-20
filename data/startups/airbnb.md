@@ -27,6 +27,9 @@ firms:
 - round: Angel
   slug: sherpa-capital
   year: 2012
+- round: ~2009
+  slug: craft-ventures
+  year: 2009
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -72,6 +75,9 @@ investors:
 - round: Angel
   slug: shervin-pishevar
   year: 2012
+- round: ~2009
+  slug: david-sacks
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

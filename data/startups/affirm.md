@@ -21,6 +21,9 @@ firms:
 - round: Series E
   slug: ribbit-capital
   year: 2017
+- round: ~2012
+  slug: craft-ventures
+  year: 2012
 founded: 2012
 founders:
 - name: Max Levchin
@@ -44,6 +47,9 @@ investors:
 - round: Series E
   slug: micky-malka
   year: 2017
+- round: ~2012
+  slug: david-sacks
+  year: 2012
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

@@ -12,6 +12,9 @@ firms:
 - round: Co-founded
   slug: 8vc
   year: 2003
+- round: ~2004
+  slug: craft-ventures
+  year: 2004
 founded: 2003
 founders:
 - name: Peter Thiel
@@ -37,6 +40,9 @@ investors:
 - round: Co-founded
   slug: joe-lonsdale
   year: 2003
+- round: ~2004
+  slug: david-sacks
+  year: 2004
 last_researched: 2026-03-20
 location: Denver, CO
 name: Palantir Technologies

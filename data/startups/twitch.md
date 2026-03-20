@@ -16,6 +16,9 @@ firms:
 - round: ~2008
   slug: draper-associates
   year: 2008
+- round: Early
+  slug: bessemer-venture-partners
+  year: 2012
 founded: 2007
 founders:
 - name: Justin Kan
@@ -42,6 +45,9 @@ investors:
 - round: ~2008
   slug: tim-draper
   year: 2008
+- round: Early
+  slug: david-cowan
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitch

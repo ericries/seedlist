@@ -1,22 +1,30 @@
 ---
-name: "Chris Sacca"
-slug: chris-sacca
-type: individual
-firm: lowercase-capital
-role: "Founder & Chairman"
-location: "Jackson, Wyoming"
-stage_focus: [seed, early-stage]
-sector_focus: [consumer-internet, mobile, social-media, marketplaces, developer-tools, climate-tech]
-check_size: "$25K-$100K"
-last_verified_investment:
-  date: 2017
-  company: "Toymail"
-  round: "Shark Tank deal"
-social:
-  twitter: "@sacca"
-  linkedin: "linkedin.com/in/chrissacca"
-status: published
+check_size: $25K-$100K
+firm: lowercarbon-capital
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Toymail
+  date: 2017
+  round: Shark Tank deal
+location: Jackson, Wyoming
+name: Chris Sacca
+role: Founder & Chairman
+sector_focus:
+- consumer-internet
+- mobile
+- social-media
+- marketplaces
+- developer-tools
+- climate-tech
+slug: chris-sacca
+social:
+  linkedin: linkedin.com/in/chrissacca
+  twitter: '@sacca'
+stage_focus:
+- seed
+- early-stage
+status: published
+type: individual
 ---
 
 ## Background

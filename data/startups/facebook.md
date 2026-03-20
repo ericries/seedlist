@@ -24,6 +24,9 @@ firms:
 - round: '2012'
   slug: altimeter-capital
   year: 2012
+- round: ~2005
+  slug: craft-ventures
+  year: 2005
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -61,6 +64,9 @@ investors:
 - round: '2012'
   slug: brad-gerstner
   year: 2012
+- round: ~2005
+  slug: david-sacks
+  year: 2005
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

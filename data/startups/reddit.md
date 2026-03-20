@@ -54,6 +54,9 @@ firms:
 - round: Early
   slug: a-star-capital
   year: 2014
+- round: ~2009
+  slug: craft-ventures
+  year: 2009
 founded: 2005
 founders:
 - name: Steve Huffman
@@ -105,6 +108,9 @@ investors:
 - round: Early
   slug: kevin-hartz
   year: 2014
+- round: ~2009
+  slug: david-sacks
+  year: 2009
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

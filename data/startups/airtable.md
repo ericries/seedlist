@@ -24,6 +24,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2017
+- round: ~2014
+  slug: marathon-management-partners
+  year: 2014
 founded: 2012
 founders:
 - name: Howie Liu
@@ -63,6 +66,9 @@ investors:
 - round: Angel
   slug: daniel-gross
   year: 2016
+- round: ~2014
+  slug: gokul-rajaram
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

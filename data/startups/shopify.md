@@ -15,6 +15,9 @@ firms:
 - round: '2025'
   slug: octahedron-capital
   year: 2025
+- round: Early
+  slug: bessemer-venture-partners
+  year: 2013
 founded: 2006
 founders:
 - name: Tobias Lutke
@@ -36,6 +39,9 @@ investors:
 - round: '2025'
   slug: ram-parameswaran
   year: 2025
+- round: Early
+  slug: jeremy-levine
+  year: 2013
 last_researched: 2026-03-19
 location: Ottawa, Ontario, Canada
 name: Shopify

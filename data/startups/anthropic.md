@@ -18,6 +18,12 @@ firms:
 - round: Series C
   slug: spark-capital
   year: 2023
+- round: Series D/E (Board Observer)
+  slug: menlo-ventures
+  year: 2023
+- round: Growth
+  slug: bessemer-venture-partners
+  year: 2022
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -55,6 +61,12 @@ investors:
 - round: Series C
   slug: yasmin-razavi
   year: 2023
+- round: Series D/E (Board Observer)
+  slug: matt-murphy
+  year: 2023
+- round: Growth
+  slug: byron-deeter
+  year: 2022
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

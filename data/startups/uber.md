@@ -90,6 +90,12 @@ firms:
 - round: Series B (led)
   slug: sherpa-capital
   year: 2011
+- round: Growth ($258-335M)
+  slug: gv
+  year: 2013
+- round: ~2011
+  slug: craft-ventures
+  year: 2011
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -147,6 +153,15 @@ investors:
   year: 2013
 - round: Series B (led)
   slug: shervin-pishevar
+  year: 2011
+- round: Seed
+  slug: scott-belsky
+  year: 2010
+- round: Growth ($258-335M)
+  slug: david-krane
+  year: 2013
+- round: ~2011
+  slug: david-sacks
   year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA

@@ -4476,3 +4476,22 @@ queue:
   added: '2026-03-17'
   firm: spark-capital
   discovered_from: spark-capital
+- name: Palmer Luckey
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: anduril
+  discovered_from: joe-lonsdale
+- name: Mike Krieger
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-systrom
+- name: Adam D'Angelo
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-brockman

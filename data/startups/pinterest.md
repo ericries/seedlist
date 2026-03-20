@@ -21,6 +21,9 @@ firms:
 - round: Angel
   slug: scifi-vc
   year: 2011
+- round: Early
+  slug: bessemer-venture-partners
+  year: 2011
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -53,6 +56,12 @@ investors:
   year: 2012
 - round: Angel
   slug: max-levchin
+  year: 2011
+- round: Seed
+  slug: scott-belsky
+  year: 2010
+- round: Early
+  slug: jeremy-levine
   year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA

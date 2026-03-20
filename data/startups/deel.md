@@ -33,6 +33,9 @@ firms:
 - round: Seed
   slug: worklife-ventures
   year: 2019
+- round: ~2019
+  slug: marathon-management-partners
+  year: 2019
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -64,6 +67,9 @@ investors:
 - round: Series E
   slug: micky-malka
   year: 2025
+- round: ~2019
+  slug: gokul-rajaram
+  year: 2019
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

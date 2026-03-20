@@ -6,6 +6,9 @@ firms:
 - round: ~2018
   slug: coatue-management
   year: 2018
+- round: ~2012
+  slug: craft-ventures
+  year: 2012
 founded: 2012
 founders:
 - name: Logan Green
@@ -19,6 +22,9 @@ investors:
 - round: ~2018
   slug: philippe-laffont
   year: 2018
+- round: ~2012
+  slug: david-sacks
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft

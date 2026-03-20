@@ -24,6 +24,9 @@ firms:
 - round: Angel
   slug: nfdg
   year: 2014
+- round: ~2013
+  slug: marathon-management-partners
+  year: 2013
 founded: 2012
 founders:
 - name: Dylan Field
@@ -61,6 +64,9 @@ investors:
 - round: Angel
   slug: daniel-gross
   year: 2014
+- round: ~2013
+  slug: gokul-rajaram
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

@@ -34,6 +34,9 @@ investors:
 - round: Series B ($5M)
   slug: peter-fenton
   year: 2006
+- round: Series A
+  slug: jeremy-levine
+  year: 2005
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Yelp

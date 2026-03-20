@@ -39,6 +39,9 @@ firms:
 - round: Seed ($8M round)
   slug: pear-vc
   year: 2023
+- round: —
+  slug: index-ventures
+  year: 2025
 founded: 2022
 founders:
 - name: Michael Truell

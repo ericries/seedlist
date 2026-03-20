@@ -25,6 +25,9 @@ firms:
 - round: Growth
   slug: kleiner-perkins
   year: 2012
+- round: ~2009
+  slug: craft-ventures
+  year: 2009
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -60,6 +63,9 @@ investors:
 - round: Growth
   slug: john-doerr
   year: 2012
+- round: ~2009
+  slug: david-sacks
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter
