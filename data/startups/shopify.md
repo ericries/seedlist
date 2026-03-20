@@ -18,6 +18,9 @@ firms:
 - round: Early
   slug: bessemer-venture-partners
   year: 2013
+- round: '2013'
+  slug: felicis
+  year: 2013
 founded: 2006
 founders:
 - name: Tobias Lutke
@@ -41,6 +44,12 @@ investors:
   year: 2025
 - round: Early
   slug: jeremy-levine
+  year: 2013
+- round: Series A
+  slug: alex-ferrara
+  year: 2010
+- round: '2013'
+  slug: aydin-senkut
   year: 2013
 last_researched: 2026-03-19
 location: Ottawa, Ontario, Canada

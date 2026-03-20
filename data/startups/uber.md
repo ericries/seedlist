@@ -96,6 +96,9 @@ firms:
 - round: ~2011
   slug: craft-ventures
   year: 2011
+- round: Seed
+  slug: lowercarbon-capital
+  year: 2009
 founded: 2009
 founders:
 - name: Travis Kalanick

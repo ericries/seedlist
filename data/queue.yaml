@@ -5205,3 +5205,127 @@ queue:
   priority: low
   status: pending
   added: '2026-03-20'
+- name: Mohamad Makhzoumi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NEA
+  discovered_from: scott-sandell
+- name: Rick Yang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NEA
+  discovered_from: scott-sandell
+- name: Sundeep Peechu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Felicis
+  discovered_from: aydin-senkut
+- name: Social Leverage
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: howard-lindzon
+- name: Prima Materia
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shakil-khan
+- name: Daniel Ek
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Prima Materia
+  discovered_from: shakil-khan
+- name: Olivier Pomel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Datadog
+  discovered_from: shardul-shah
+- name: Assaf Rappaport
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Wiz
+  discovered_from: shardul-shah
+- name: Tobi Lutke
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shopify
+  discovered_from: alex-ferrara
+- name: Dana Oshiro
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Heavybit
+  discovered_from: joseph-ruscio
+- name: Peter Hebert
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lux Capital
+  discovered_from: lux-capital
+- name: Satish Dharmaraj
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Redpoint Ventures
+  discovered_from: redpoint-ventures
+- name: Logan Bartlett
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Redpoint Ventures
+  discovered_from: redpoint-ventures
+- name: Erica Brescia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Redpoint Ventures
+  discovered_from: redpoint-ventures
+- name: Brett Gibson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Initialized Capital
+  discovered_from: initialized-capital
+- name: Zachary Bogue
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: DCVC
+  discovered_from: dcvc
+- name: Deena Shakir
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lux Capital
+  discovered_from: lux-capital
+- name: Ali Tamaseb
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: DCVC
+  discovered_from: dcvc

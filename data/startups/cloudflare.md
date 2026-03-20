@@ -1,28 +1,38 @@
 ---
-name: "Cloudflare"
-slug: cloudflare
-type: startup
-website: "https://cloudflare.com"
-location: "San Francisco, CA"
-founded: 2009
-status_company: ipo
-sector: [cybersecurity, infrastructure, CDN, cloud]
-stage_latest: "IPO"
-total_raised: "$332M"
-investors: []
 firms:
-  - slug: y-combinator
-    round: seed
-    year: 2009
+- round: seed
+  slug: y-combinator
+  year: 2009
+- round: ~2010
+  slug: nea
+  year: 2010
+founded: 2009
 founders:
-  - name: "Matthew Prince"
-    role: "CEO & Co-Founder"
-  - name: "Michelle Zatlyn"
-    role: "President & Co-Founder"
-  - name: "Lee Holloway"
-    role: "Co-Founder"
-status: published
+- name: Matthew Prince
+  role: CEO & Co-Founder
+- name: Michelle Zatlyn
+  role: President & Co-Founder
+- name: Lee Holloway
+  role: Co-Founder
+investors:
+- round: ~2010
+  slug: scott-sandell
+  year: 2010
 last_researched: 2026-03-20
+location: San Francisco, CA
+name: Cloudflare
+sector:
+- cybersecurity
+- infrastructure
+- CDN
+- cloud
+slug: cloudflare
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $332M
+type: startup
+website: https://cloudflare.com
 ---
 
 ## About

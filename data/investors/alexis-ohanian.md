@@ -1,22 +1,31 @@
 ---
-name: "Alexis Ohanian"
-slug: alexis-ohanian
-type: individual
+check_size: $500K-$5M
 firm: seven-seven-six
-role: "Founder"
-location: "San Francisco, California"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [crypto, web3, consumer, fintech, women-sports, enterprise]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2025-11-05
-  company: "LambdaVision"
-  round: "Series B"
-social:
-  twitter: "@alexisohanian"
-  linkedin: "linkedin.com/in/alexisohanian"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: LambdaVision
+  date: 2025-11-05
+  round: Series B
+location: San Francisco, California
+name: Alexis Ohanian
+role: Founder
+sector_focus:
+- crypto
+- web3
+- consumer
+- fintech
+- women-sports
+- enterprise
+slug: alexis-ohanian
+social:
+  linkedin: linkedin.com/in/alexisohanian
+  twitter: '@alexisohanian'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+type: individual
 ---
 
 ## Background

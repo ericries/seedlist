@@ -36,6 +36,9 @@ firms:
 - round: Growth
   slug: nfdg
   year: 2020
+- round: Early stage
+  slug: lowercarbon-capital
+  year: 2011
 founded: 2010
 founders:
 - name: Patrick Collison

@@ -24,6 +24,9 @@ firms:
 - round: Angel
   slug: recursive-ventures
   year: 2013
+- round: ~2013
+  slug: felicis
+  year: 2013
 founded: 2013
 founders:
 - name: Melanie Perkins
@@ -44,6 +47,9 @@ investors:
   year: 2021
 - round: Angel
   slug: konstantin-othmer
+  year: 2013
+- round: ~2013
+  slug: aydin-senkut
   year: 2013
 last_researched: 2026-03-20
 location: Sydney, Australia

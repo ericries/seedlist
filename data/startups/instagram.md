@@ -25,6 +25,9 @@ firms:
 - round: Series A
   slug: independent
   year: 2011
+- round: Series A
+  slug: lowercarbon-capital
+  year: 2011
 founded: 2010
 founders:
 - name: Kevin Systrom

@@ -125,6 +125,9 @@ investors:
 - round: Multiple rounds ($1B+)
   slug: lee-fixel
   year: 2009
+- round: ~2009
+  slug: sameer-gandhi
+  year: 2009
 last_researched: 2026-03-19
 location: Bengaluru, India
 name: Flipkart
@@ -134,7 +137,7 @@ sector:
 slug: flipkart
 stage_latest: Series J
 status: published
-status_company: active
+status_company: acquired
 total_raised: $12.1B
 type: startup
 website: https://www.flipkart.com

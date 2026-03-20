@@ -1,58 +1,67 @@
 ---
-name: "Hims & Hers Health"
-slug: hims-and-hers
-type: startup
-website: "https://www.forhims.com"
-location: "San Francisco, California"
-founded: 2017
-status_company: ipo
-sector: [telehealth, direct-to-consumer, healthcare]
-stage_latest: "SPAC / IPO"
-total_raised: "$197M"
-investors:
-  - slug: jack-abraham
-    round: seed
-    year: 2017
 firms:
-  - slug: thrive-capital
-    round: seed
-    year: 2017
-  - slug: forerunner-ventures
-    round: seed
-    year: 2017
-  - slug: sv-angel
-    round: seed
-    year: 2017
-  - slug: ivp
-    round: series-b
-    year: 2018
-  - slug: thrive-capital
-    round: series-b
-    year: 2018
-  - slug: forerunner-ventures
-    round: series-b
-    year: 2018
-  - slug: maverick-capital
-    round: series-b
-    year: 2018
-  - slug: redpoint-ventures
-    round: series-b
-    year: 2018
-  - slug: founders-fund
-    round: series-c
-    year: 2019
-  - slug: 8vc
-    round: series-c
-    year: 2019
+- round: seed
+  slug: thrive-capital
+  year: 2017
+- round: seed
+  slug: forerunner-ventures
+  year: 2017
+- round: seed
+  slug: sv-angel
+  year: 2017
+- round: series-b
+  slug: ivp
+  year: 2018
+- round: series-b
+  slug: thrive-capital
+  year: 2018
+- round: series-b
+  slug: forerunner-ventures
+  year: 2018
+- round: series-b
+  slug: maverick-capital
+  year: 2018
+- round: series-b
+  slug: redpoint-ventures
+  year: 2018
+- round: series-c
+  slug: founders-fund
+  year: 2019
+- round: series-c
+  slug: 8vc
+  year: 2019
+- round: '2016'
+  slug: atomic
+  year: 2016
+founded: 2017
 founders:
-  - name: "Andrew Dudum"
-    role: "CEO & Co-Founder"
-  - name: "Jack Abraham"
-    role: "Co-Founder"
-  - name: "Hilary Coles"
-    role: "Co-Founder"
-status: published
+- name: Andrew Dudum
+  role: CEO & Co-Founder
+- name: Jack Abraham
+  role: Co-Founder
+- name: Hilary Coles
+  role: Co-Founder
+investors:
+- round: seed
+  slug: jack-abraham
+  year: 2017
+- round: '2016'
+  slug: andrew-dudum
+  year: 2016
 last_researched: 2026-03-19
+location: San Francisco, California
+name: Hims & Hers Health
+sector:
+- telehealth
+- direct-to-consumer
+- healthcare
+slug: hims-and-hers
+stage_latest: SPAC / IPO
+status: published
+status_company: ipo
+total_raised: $197M
+type: startup
+website: https://www.forhims.com
 ---
 
 ## About

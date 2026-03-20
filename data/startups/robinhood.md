@@ -30,6 +30,12 @@ firms:
 - round: '2013'
   slug: draper-associates
   year: 2013
+- round: ~2018
+  slug: nea
+  year: 2018
+- round: ~2013
+  slug: social-leverage
+  year: 2013
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -60,6 +66,12 @@ investors:
   year: 2014
 - round: '2013'
   slug: tim-draper
+  year: 2013
+- round: ~2018
+  slug: scott-sandell
+  year: 2018
+- round: ~2013
+  slug: howard-lindzon
   year: 2013
 last_researched: 2026-03-19
 location: Menlo Park, CA

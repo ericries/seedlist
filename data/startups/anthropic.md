@@ -24,6 +24,9 @@ firms:
 - round: Growth
   slug: bessemer-venture-partners
   year: 2022
+- round: '2025'
+  slug: accel
+  year: 2025
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -67,6 +70,9 @@ investors:
 - round: Growth
   slug: byron-deeter
   year: 2022
+- round: '2025'
+  slug: sameer-gandhi
+  year: 2025
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

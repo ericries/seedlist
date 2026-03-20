@@ -1,26 +1,36 @@
 ---
-name: "Datadog"
-slug: datadog
-type: startup
-website: "https://datadoghq.com"
-location: "New York, NY"
-founded: 2010
-status_company: ipo
-sector: [cloud-monitoring, observability, developer-tools, SaaS]
-stage_latest: "IPO"
-total_raised: "$147M"
-investors: []
 firms:
-  - slug: ivp
-    round: series-d
-    year: 2016
+- round: series-d
+  slug: ivp
+  year: 2016
+- round: Series A
+  slug: index-ventures
+  year: 2012
+founded: 2010
 founders:
-  - name: "Olivier Pomel"
-    role: "CEO & Co-Founder"
-  - name: "Alexis Le-Quoc"
-    role: "CTO & Co-Founder"
-status: published
+- name: Olivier Pomel
+  role: CEO & Co-Founder
+- name: Alexis Le-Quoc
+  role: CTO & Co-Founder
+investors:
+- round: Series A
+  slug: shardul-shah
+  year: 2012
 last_researched: 2026-03-20
+location: New York, NY
+name: Datadog
+sector:
+- cloud-monitoring
+- observability
+- developer-tools
+- SaaS
+slug: datadog
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $147M
+type: startup
+website: https://datadoghq.com
 ---
 
 ## About

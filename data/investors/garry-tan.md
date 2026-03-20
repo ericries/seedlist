@@ -1,22 +1,31 @@
 ---
-name: "Garry Tan"
-slug: garry-tan
-type: individual
+check_size: $125K-$500K
 firm: y-combinator
-role: "President & CEO"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [fintech, developer-tools, ai, enterprise, consumer, crypto, infrastructure]
-check_size: "$125K-$500K"
-last_verified_investment:
-  date: 2026-02-10
-  company: "Entire"
-  round: "Seed"
-social:
-  twitter: "@garrytan"
-  linkedin: "linkedin.com/in/garrytan"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Entire
+  date: 2026-02-10
+  round: Seed
+location: San Francisco, CA
+name: Garry Tan
+role: President & CEO
+sector_focus:
+- fintech
+- developer-tools
+- ai
+- enterprise
+- consumer
+- crypto
+- infrastructure
+slug: garry-tan
+social:
+  linkedin: linkedin.com/in/garrytan
+  twitter: '@garrytan'
+stage_focus:
+- pre-seed
+- seed
+status: published
+type: individual
 ---
 
 ## Background

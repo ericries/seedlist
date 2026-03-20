@@ -28,6 +28,9 @@ firms:
 - round: ~2009
   slug: craft-ventures
   year: 2009
+- round: Angel ($25K)
+  slug: lowercarbon-capital
+  year: 2006
 founded: 2006
 founders:
 - name: Jack Dorsey

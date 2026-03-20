@@ -28,13 +28,18 @@ team:
     role: "Immigration Partner"
     name: "Rita Georges"
   - slug: eric-ries
-    role: "Partner"
+    role: "Incorruptible Partner"
     name: "Eric Ries"
   - slug: fernanda-sesto
     role: "Investment Analyst"
     name: "Fernanda Sesto"
+pending_sources:
+  - url: "https://unshackledvc.substack.com/p/eric-ries-joins-unshackled-as-an"
+    added: 2026-03-20
+    status: processed
+    processed: 2026-03-20
 status: published
-last_researched: 2026-03-13
+last_researched: 2026-03-20
 ---
 
 ## About
@@ -47,7 +52,7 @@ A key structural differentiator is that Unshackled employs immigration attorneys
 
 As of 2025, Unshackled has invested in over 100 companies and 250+ entrepreneurs from 35 countries, creating over 1,100 jobs [^8][^10]. Portfolio companies have collectively raised over $730M in follow-on capital from firms including First Round, a16z, Y Combinator, General Catalyst, Canaan, Khosla Ventures, and Social Capital [^8]. The firm reports a 72% graduation rate from pre-seed to seed [^10]. In 75% of its investments, Unshackled was the first and only check [^11]. No Unshackled-backed founder has been forced to return to their home country due to immigration issues since the firm's inception [^8].
 
-The current team includes Manan Mehta (Founding Partner), Shaherose Charania (Partner, joined June 2025), Eric Ries (Partner), Alexis Zamira Maciel (Principal), Fernanda Sesto (Investment Analyst), Michael Serotte (Immigration Partner), and Rita Georges (Immigration Partner) [^1]. Nitin Pachisia now serves as Partner Emeritus [^1]. The firm operates from Silicon Valley, New York, and Florida, with portfolio companies nationwide [^12].
+The current team includes Manan Mehta (Founding Partner), Shaherose Charania (Partner, joined June 2025), Eric Ries ("Incorruptible" Partner), Alexis Zamira Maciel (Principal), Fernanda Sesto (Investment Analyst), Michael Serotte (Immigration Partner), and Rita Georges (Immigration Partner) [^1]. Nitin Pachisia now serves as Partner Emeritus [^1]. In November 2025, the firm announced that Eric Ries, creator of *The Lean Startup*, joined as an "Incorruptible" Partner in their next fund, bringing Lean Startup methodology to Unshackled's Day Zero founder support and helping founders define missions aligned with long-term outcomes [^23]. The firm operates from Silicon Valley, New York, and Florida, with portfolio companies nationwide [^12].
 
 ## Stated Thesis
 
@@ -56,6 +61,8 @@ Unshackled Ventures publicly describes itself as investing in "visionary immigra
 The firm's self-reported investment criteria require at least one immigrant founder, preferably already located in the United States, building a company selling to North American customers [^13]. They state they invest at "founder-problem fit, not problem-product fit," and that 60% of commitments happen before the company is even incorporated [^11]. Typical first checks are $300K-$500K at the pre-seed stage for pre-seed rounds under $1M, seeking 8-12% ownership [^11][^12].
 
 Manan Mehta has described the firm's pricing philosophy: "This may sit below the Carta averages for pre-seed valuations, but it's what lets us say yes now — as your friends-and-family check — rather than after you've de-risked the business. It creates psychological freedom to lean into possibility" [^10]. The firm invests in 15-18 new companies per year [^12].
+
+The addition of Eric Ries as "Incorruptible" Partner signals the firm's growing emphasis on mission-driven company building. Ries's research suggests that companies grounded in deep missions are "6x more likely to survive" and consistently outperform peers in long-term value creation, citing examples like Cloudflare, Devoted Health, Costco, Patagonia, and GitLab [^23].
 
 The firm's stated mission extends beyond returns to a broader narrative about immigration and economic contribution. Mehta has said the firm aims to rewrite the narrative "that immigrants don't take jobs — they create them" [^8]. The firm highlights statistics that immigrants comprise 15% of the U.S. population yet founded nearly half of current unicorns, and that 60% of leading private AI companies in the U.S. were founded by immigrants [^14].
 
@@ -166,6 +173,9 @@ The portfolio leans more heavily toward enterprise/B2B (approximately 60%+ based
 > "If immigrant founders had the freedom to build from day zero, they would create a different kind of company and a different kind of economy. Eleven years in, that's no longer just a belief; it's actual proof."
 > — Unshackled Ventures, 2025 year-end review [^10]
 
+> "If you look at most industries, there is usually at least one company that chose a different path."
+> — Eric Ries, Incorruptible Partner, Unshackled Ventures Substack, November 2025 [^23]
+
 ## What Founders Say
 
 No independently sourced founder testimonials about working with Unshackled Ventures were found despite dedicated searching across social media, podcast transcripts, and press coverage.
@@ -200,3 +210,4 @@ Prateek Joshi (Plutoshift) is a documented case where Unshackled sponsored his v
 [^20]: "4 Unshackled-backed founders raised rounds from Seed to Series B since the start of 2025," Unshackled Ventures Substack, May 2025, accessed March 2026. https://unshackledvc.substack.com/p/4-unshackled-backed-founders-raised
 [^21]: "Manan Mehta, CoFounder of Unshackled Ventures on Empowering New Immigrants to the United States," Unconventional Genius podcast, accessed March 2026. https://unconventionalgenius.libsyn.com/manan-mehta-founding-partner-of-unshackled-ventures
 [^22]: "Unshackled Founder Stories featuring Purva Gupta," Unshackled Ventures Medium, accessed March 2026. https://unshackledvc.medium.com/stunshackled-founder-stories-featuring-purva-gupta-616011424fd6
+[^23]: "Eric Ries Joins Unshackled as an 'Incorruptible' Partner," Unshackled Ventures Substack, November 20, 2025, accessed March 2026. https://unshackledvc.substack.com/p/eric-ries-joins-unshackled-as-an

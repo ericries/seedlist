@@ -1,49 +1,52 @@
 ---
-name: Atomic
-slug: atomic
-type: firm
-website: "https://www.atomic.vc"
-location: "Miami, FL"
 founded: 2012
-fund_size: "$750M+ total AUM"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-sector_focus:
-  - healthcare
-  - ai
-  - real-estate
-  - e-commerce
-  - fintech
-  - energy
-team:
-  - name: Jack Abraham
-    role: Founder, Managing Partner & CEO
-    slug: jack-abraham
-  - name: Chester Ng
-    role: General Partner
-    slug: chester-ng
-  - name: Kristin Schaefer
-    role: General Partner (Board Partner)
-    slug: kristin-schaefer
-  - name: Nat Disston
-    role: Partner
-    slug: nat-disston
-  - name: Phillip Liu
-    role: Principal, Head of Healthcare
-    slug: phillip-liu
-  - name: Sharon Winter
-    role: Principal
-    slug: sharon-winter
-  - name: Luke Sophinos
-    role: Operating Partner
-    slug: luke-sophinos
-  - name: Justin Rubbo
-    role: CFO, Operating Partner
-    slug: justin-rubbo
-status: published
+fund_size: $750M+ total AUM
 last_researched: 2026-03-19
+location: Miami, FL
+name: Atomic
+sector_focus:
+- healthcare
+- ai
+- real-estate
+- e-commerce
+- fintech
+- energy
+slug: atomic
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Jack Abraham
+  role: Founder, Managing Partner & CEO
+  slug: jack-abraham
+- name: Chester Ng
+  role: General Partner
+  slug: chester-ng
+- name: Kristin Schaefer
+  role: General Partner (Board Partner)
+  slug: kristin-schaefer
+- name: Nat Disston
+  role: Partner
+  slug: nat-disston
+- name: Phillip Liu
+  role: Principal, Head of Healthcare
+  slug: phillip-liu
+- name: Sharon Winter
+  role: Principal
+  slug: sharon-winter
+- name: Luke Sophinos
+  role: Operating Partner
+  slug: luke-sophinos
+- name: Justin Rubbo
+  role: CFO, Operating Partner
+  slug: justin-rubbo
+- name: Andrew Dudum
+  role: Co-Founder & General Partner (Atomic); Founder & CEO (Hims & Hers)
+  slug: andrew-dudum
+type: firm
+website: https://www.atomic.vc
 ---
 
 ## About
