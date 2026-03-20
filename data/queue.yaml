@@ -3906,3 +3906,62 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: solugen
+- name: John Collison
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: stripe
+  discovered_from: patrick-collison
+- name: Atomic
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jack-abraham
+- name: Nat Friedman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: patrick-collison
+- name: Marc Benioff
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Salesforce Ventures
+  discovered_from: magdalena-yesil
+- name: Chemistry VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ethan-kurzweil
+- name: Heavybit
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jesse-robbins
+- name: Mark Goldberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Chemistry VC
+  discovered_from: ethan-kurzweil
+- name: Christina Shen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Chemistry VC
+  discovered_from: ethan-kurzweil
+- name: Tom Drummond
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Heavybit
+  discovered_from: jesse-robbins
