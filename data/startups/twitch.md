@@ -13,6 +13,9 @@ firms:
 - round: ~2012
   slug: chemistry-vc
   year: 2012
+- round: ~2008
+  slug: draper-associates
+  year: 2008
 founded: 2007
 founders:
 - name: Justin Kan
@@ -36,6 +39,9 @@ investors:
 - round: Early stage
   slug: josh-kushner
   year: 2013
+- round: ~2008
+  slug: tim-draper
+  year: 2008
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitch

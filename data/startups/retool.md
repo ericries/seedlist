@@ -21,6 +21,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2018
+- round: Seed/Series A
+  slug: nfdg
+  year: 2019
 founded: 2017
 founders:
 - name: David Hsu
@@ -44,6 +47,9 @@ investors:
 - round: Seed/Series A
   slug: nat-friedman
   year: 2019
+- round: Seed
+  slug: greg-brockman
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Retool

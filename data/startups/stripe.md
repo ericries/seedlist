@@ -33,6 +33,9 @@ firms:
 - round: Angel
   slug: scifi-vc
   year: 2014
+- round: Growth
+  slug: nfdg
+  year: 2020
 founded: 2010
 founders:
 - name: Patrick Collison

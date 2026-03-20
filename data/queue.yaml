@@ -4361,3 +4361,118 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: robinhood
+- name: David Sacks
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Craft Ventures
+  discovered_from: mixpanel
+- name: Shardul Shah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Index Ventures
+  discovered_from: datadog
+- name: Scott Sandell
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NEA
+  discovered_from: cloudflare
+- name: Venrock
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cloudflare
+- name: Craft Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mixpanel
+- name: RTP Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: datadog
+- name: OpenView Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: datadog
+- name: David Cowan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: bessemer-venture-partners
+  discovered_from: bessemer-venture-partners
+- name: Byron Deeter
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: bessemer-venture-partners
+  discovered_from: bessemer-venture-partners
+- name: Jeremy Levine
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: bessemer-venture-partners
+  discovered_from: bessemer-venture-partners
+- name: Talia Goldberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: bessemer-venture-partners
+  discovered_from: bessemer-venture-partners
+- name: Rich Wong
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: accel
+  discovered_from: accel
+- name: Sonali De Rycker
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: accel
+  discovered_from: accel
+- name: Martin Mignot
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: index-ventures
+  discovered_from: index-ventures
+- name: Jan Hammer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: index-ventures
+  discovered_from: index-ventures
+- name: Nabeel Hyatt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: spark-capital
+  discovered_from: spark-capital
+- name: Bijan Sabet
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: spark-capital
+  discovered_from: spark-capital

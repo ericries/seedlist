@@ -1,6 +1,6 @@
 ---
 check_size: $100K-$2M (Hanabi Capital); institutional at Index Ventures
-firm: hanabi-capital
+firm: index-ventures
 last_researched: 2026-03-17
 last_verified_investment:
   company: Cursor

@@ -27,6 +27,12 @@ firms:
 - round: Growth round
   slug: greenoaks-capital
   year: 2021
+- round: Series C
+  slug: independent
+  year: 2019
+- round: Growth
+  slug: nfdg
+  year: 2021
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -55,6 +61,12 @@ investors:
 - round: Growth round
   slug: neil-mehta
   year: 2021
+- round: Series C
+  slug: kevin-systrom
+  year: 2019
+- round: Seed
+  slug: greg-brockman
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

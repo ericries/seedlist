@@ -33,6 +33,9 @@ firms:
 - round: Angel
   slug: nfdg
   year: 2012
+- round: ~2015
+  slug: draper-associates
+  year: 2015
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -76,6 +79,9 @@ investors:
 - round: Angel
   slug: daniel-gross
   year: 2012
+- round: ~2015
+  slug: tim-draper
+  year: 2015
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

@@ -27,6 +27,9 @@ firms:
 - round: Series A
   slug: ribbit-capital
   year: 2014
+- round: '2013'
+  slug: draper-associates
+  year: 2013
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -55,6 +58,9 @@ investors:
 - round: Early
   slug: shervin-pishevar
   year: 2014
+- round: '2013'
+  slug: tim-draper
+  year: 2013
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood
