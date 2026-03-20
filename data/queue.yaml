@@ -194,7 +194,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Applied Intuition
   type: startup
@@ -218,7 +218,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Yelp
   type: startup
@@ -226,7 +226,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Eventbrite
   type: startup
@@ -242,7 +242,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: GitHub
   type: startup
@@ -250,7 +250,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Asana
   type: startup
@@ -258,7 +258,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Notion
   type: startup
@@ -266,7 +266,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Affirm
   type: startup
@@ -274,7 +274,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Benchling
   type: startup
@@ -338,7 +338,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Faire
   type: startup
@@ -1220,7 +1220,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Union Square Ventures
   type: firm
@@ -1236,7 +1236,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Bessemer Venture Partners
   type: firm
@@ -1244,7 +1244,7 @@ queue:
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Lightspeed Venture Partners
   type: firm
@@ -1573,7 +1573,7 @@ queue:
   discovered_from: brianne-kimmel
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Deel
   type: startup
@@ -1675,7 +1675,7 @@ queue:
   source: firm of mar-hershenson
   discovered_from: mar-hershenson
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Pejman Nozad
   type: individual
@@ -1692,7 +1692,7 @@ queue:
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Instagram
   type: startup
@@ -1709,7 +1709,7 @@ queue:
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: PagerDuty
   type: startup
@@ -1717,7 +1717,7 @@ queue:
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: SoFi
   type: startup
@@ -1749,7 +1749,7 @@ queue:
   source: firm of shruti-gandhi
   discovered_from: shruti-gandhi
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Elias Torres
   type: individual
@@ -1774,7 +1774,7 @@ queue:
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Happyrobot
   type: startup
@@ -1907,7 +1907,7 @@ queue:
   source: firm of josh-kopelman, 500+ investments, 19 unicorns, seed-stage pioneer
   discovered_from: josh-kopelman
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Howard Morgan
   type: individual
@@ -2110,7 +2110,7 @@ queue:
   discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Shuly Galili
   type: individual
@@ -2434,7 +2434,7 @@ queue:
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Snyk
   type: startup
@@ -2479,7 +2479,7 @@ queue:
   discovered_from: chris-fralic
   discovery_depth: 2
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Ring
   type: startup
@@ -2731,7 +2731,7 @@ queue:
   discovered_from: phin-barnes
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Richie Serna
   type: individual
@@ -3073,7 +3073,7 @@ queue:
 - name: Chris Shumway
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shumway Capital Partners
   discovered_from: julian-robertson
@@ -3135,28 +3135,28 @@ queue:
 - name: Rick Kimball
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: TCV
   discovered_from: jay-hoag
 - name: Woody Marshall
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: TCV
   discovered_from: jay-hoag
 - name: Tim McAdam
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: TCV
   discovered_from: jay-hoag
 - name: TCV
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jay-hoag
 - name: Erik Blachford
@@ -3234,14 +3234,14 @@ queue:
 - name: Bryan Offutt
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hanabi Capital
   discovered_from: mike-volpi
 - name: Ishani Thakur
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hanabi Capital
   discovered_from: mike-volpi
@@ -3255,7 +3255,7 @@ queue:
 - name: Hanabi Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: mike-volpi
 - name: Mala Gaonkar
@@ -3281,7 +3281,7 @@ queue:
 - name: Tom Purcell
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Alua Capital Management
   discovered_from: andreas-halvorsen
@@ -3360,7 +3360,7 @@ queue:
 - name: Albert Chiang
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Octahedron Capital
   discovered_from: ram-parameswaran
@@ -3471,7 +3471,7 @@ queue:
 - name: Nikolay Storonsky
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Revolut
   discovered_from: john-doran
@@ -3513,14 +3513,14 @@ queue:
 - name: Sam Shank
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: HotelTonight
   discovered_from: erik-blachford
 - name: Hugh Crean
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: erik-blachford
 - name: Satya Patel
@@ -3622,7 +3622,7 @@ queue:
 - name: Patrick Collison
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Stripe
   discovered_from: michael-moritz
@@ -3692,7 +3692,7 @@ queue:
 - name: Magdalena Yesil
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Broadway Angels
   discovered_from: sonja-hoel-perkins
@@ -3734,7 +3734,7 @@ queue:
 - name: Jack Abraham
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Atomic
   discovered_from: kevin-hartz
@@ -3776,52 +3776,52 @@ queue:
 - name: Katrina Lake
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: stitch-fix
 - name: Andrew Braccia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Accel
   discovered_from: pagerduty
 - name: Ethan Kurzweil
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bessemer Venture Partners
   discovered_from: pagerduty
 - name: Trevor Oelschig
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bessemer Venture Partners
   discovered_from: pagerduty
 - name: Jesse Robbins
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: pagerduty
 - name: Josh Buckley
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: placer-ai
 - name: Todd Goldberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: placer-ai
 - name: Rahul Vohra
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: placer-ai
 - name: John O'Farrell
@@ -3834,7 +3834,7 @@ queue:
 - name: Accel
   type: firm
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: pagerduty
 - name: Foundation Capital
@@ -3864,34 +3864,34 @@ queue:
 - name: Sam Altman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenAI
   discovered_from: reddit
 - name: Josh Kushner
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Thrive Capital
   discovered_from: reddit
 - name: Alexis Ohanian
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Seven Seven Six
   discovered_from: reddit
 - name: Seven Seven Six
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: reddit
 - name: Lowercarbon Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: solugen
 - name: Altos Ventures
@@ -3903,45 +3903,45 @@ queue:
 - name: Social Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: solugen
 - name: John Collison
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: stripe
   discovered_from: patrick-collison
 - name: Atomic
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jack-abraham
 - name: Nat Friedman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: patrick-collison
 - name: Marc Benioff
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Salesforce Ventures
   discovered_from: magdalena-yesil
 - name: Chemistry VC
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ethan-kurzweil
 - name: Heavybit
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jesse-robbins
 - name: Mark Goldberg
@@ -3968,7 +3968,7 @@ queue:
 - name: QuantumLight
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: nikolay-storonsky
 - name: Ilya Kondrashov
@@ -3981,38 +3981,38 @@ queue:
 - name: Max Levchin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: yelp
 - name: Travis Kalanick
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: uber
 - name: Garrett Camp
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: uber
 - name: Shervin Pishevar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Menlo Ventures
   discovered_from: uber
 - name: Dan Scheinman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: zoom-video-communications
 - name: Jerry Yang
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: AME Cloud Ventures
   discovered_from: zoom-video-communications
@@ -4039,7 +4039,7 @@ queue:
 - name: Menlo Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: uber
 - name: Google Ventures
@@ -4051,7 +4051,7 @@ queue:
 - name: Emergence Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: zoom-video-communications
 - name: Northzone
@@ -4069,7 +4069,7 @@ queue:
 - name: Daniel Gross
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: nat-friedman
 - name: Kareem Zaki
@@ -4082,7 +4082,7 @@ queue:
 - name: NFDG
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: nat-friedman
 - name: Buckley Ventures
@@ -4121,7 +4121,7 @@ queue:
 - name: Arash Ferdowsi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: cursor
 - name: Aydin Senkut
@@ -4133,19 +4133,19 @@ queue:
 - name: Forerunner Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: hims-and-hers
 - name: IVP
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: hims-and-hers
 - name: 8VC
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: hims-and-hers
 - name: Chester Ng
@@ -4231,7 +4231,7 @@ queue:
 - name: NEA
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: perplexity-ai
 - name: Felicis Ventures
@@ -4255,7 +4255,7 @@ queue:
 - name: Ilya Sutskever
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: daniel-gross
 - name: Expa
@@ -4279,47 +4279,47 @@ queue:
 - name: Scott Belsky
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: garrett-camp
 - name: Gokul Rajaram
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: garrett-camp
 - name: Joe Lonsdale
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 8vc
   discovered_from: 8vc
 - name: Drew Oetting
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 8vc
   discovered_from: 8vc
 - name: David Krane
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: gv
   discovered_from: gv
 - name: Matt Murphy
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: menlo-ventures
   discovered_from: menlo-ventures
 - name: Deedy Das
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: menlo-ventures
   discovered_from: menlo-ventures
@@ -4340,19 +4340,19 @@ queue:
 - name: Tim Draper
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: robinhood
 - name: Greg Brockman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: scale-ai
 - name: Kevin Systrom
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: scale-ai
 - name: Howard Lindzon
@@ -4364,7 +4364,7 @@ queue:
 - name: David Sacks
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Craft Ventures
   discovered_from: mixpanel
@@ -4391,7 +4391,7 @@ queue:
 - name: Craft Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: mixpanel
 - name: RTP Ventures
@@ -4409,21 +4409,21 @@ queue:
 - name: David Cowan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: bessemer-venture-partners
   discovered_from: bessemer-venture-partners
 - name: Byron Deeter
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: bessemer-venture-partners
   discovered_from: bessemer-venture-partners
 - name: Jeremy Levine
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: bessemer-venture-partners
   discovered_from: bessemer-venture-partners
@@ -4465,7 +4465,7 @@ queue:
 - name: Nabeel Hyatt
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: spark-capital
   discovered_from: spark-capital
@@ -4495,3 +4495,713 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: greg-brockman
+- name: Marc Lore
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Wonder
+  discovered_from: sameer-gandhi
+- name: Tony Florence
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NEA
+  discovered_from: scott-sandell
+- name: Josh Wolfe
+  type: individual
+  firm: Lux Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Chris Dixon
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Keith Rabois
+  type: individual
+  firm: Khosla Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Martin Casado
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Katherine Boyle
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Sarah Guo
+  type: individual
+  firm: Conviction
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Neeraj Agrawal
+  type: individual
+  firm: Battery Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Rebecca Kaden
+  type: individual
+  firm: Union Square Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Mamoon Hamid
+  type: individual
+  firm: Kleiner Perkins
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Jerry Chen
+  type: individual
+  firm: Greylock
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: David Sze
+  type: individual
+  firm: Greylock
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Connie Chan
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Aileen Lee
+  type: individual
+  firm: Cowboy Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Heidi Roizen
+  type: individual
+  firm: Threshold Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Dalton Caldwell
+  type: individual
+  firm: Y Combinator
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Paul Graham
+  type: individual
+  firm: Y Combinator
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Jessica Livingston
+  type: individual
+  firm: Y Combinator
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Lo Toney
+  type: individual
+  firm: Plexo Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Marlon Nichols
+  type: individual
+  firm: MaC Venture Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Brendan Wallace
+  type: individual
+  firm: Fifth Wall
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Vijay Pande
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Evan Williams
+  type: individual
+  firm: Obvious Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Deven Parekh
+  type: individual
+  firm: Insight Partners
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Navin Chaddha
+  type: individual
+  firm: Mayfield
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Jeff Richards
+  type: individual
+  firm: GGV Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Sheel Mohnot
+  type: individual
+  firm: Better Tomorrow Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Sriram Krishnan
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Scott Kupor
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Turner Novak
+  type: individual
+  firm: Banana Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: high
+  status: pending
+  added: '2026-03-20'
+- name: Hampus Jakobsson
+  type: individual
+  firm: Pale Blue Dot
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Emily Kirsch
+  type: individual
+  firm: Powerhouse Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Cody Simms
+  type: individual
+  firm: MCJ Collective
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Nancy Pfund
+  type: individual
+  firm: DBL Partners
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Bryce Roberts
+  type: individual
+  firm: Indie.vc
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Kanyi Maqubela
+  type: individual
+  firm: Kindred Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Craig Shapiro
+  type: individual
+  firm: Collaborative Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Mac Conwell
+  type: individual
+  firm: RareBreed Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Lolita Taub
+  type: individual
+  firm: Ganas Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Sarah Kunst
+  type: individual
+  firm: Cleo Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Anu Duggal
+  type: individual
+  firm: Female Founders Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Delian Asparouhov
+  type: individual
+  firm: Founders Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Nathan Benaich
+  type: individual
+  firm: Air Street Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Niko Bonatsos
+  type: individual
+  firm: General Catalyst
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Matt Bornstein
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Astasia Myers
+  type: individual
+  firm: Felicis Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Matt Ocko
+  type: individual
+  firm: DCVC
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Arianna Simpson
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Adam Draper
+  type: individual
+  firm: Boost VC
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Nichole Wischoff
+  type: individual
+  firm: Wischoff Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Steve Jurvetson
+  type: individual
+  firm: Future Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Tess Hatch
+  type: individual
+  firm: Bessemer Venture Partners
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Shahin Farshchi
+  type: individual
+  firm: Lux Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Brian Singerman
+  type: individual
+  firm: Founders Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Anish Acharya
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Angela Strange
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Kevin Rose
+  type: individual
+  firm: True Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Justin Kan
+  type: individual
+  firm: Goat Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Ryan Hoover
+  type: individual
+  firm: Weekend Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Jeff Morris Jr
+  type: individual
+  firm: Chapter One
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Nikhil Basu Trivedi
+  type: individual
+  firm: Footwork
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Rex Woodbury
+  type: individual
+  firm: Daybreak Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Spencer Rascoff
+  type: individual
+  firm: 75 & Sunny
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Ben Lerer
+  type: individual
+  firm: Lerer Hippeau
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Kara Nortman
+  type: individual
+  firm: Upfront Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Leo Polovets
+  type: individual
+  firm: Susa Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Christoph Janz
+  type: individual
+  firm: Point Nine Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Salil Deshpande
+  type: individual
+  firm: Uncorrelated Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Saam Motamedi
+  type: individual
+  firm: Greylock
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Cyan Banister
+  type: individual
+  firm: Long Journey Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Masha Bucher
+  type: individual
+  firm: Day One Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Monique Woodard
+  type: individual
+  firm: Cake Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Paige Craig
+  type: individual
+  firm: Outlander VC
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Danielle Strachman
+  type: individual
+  firm: 1517 Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Renata Quintini
+  type: individual
+  firm: Renegade Partners
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Dave McClure
+  type: individual
+  firm: 500 Global
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Jenny Fielding
+  type: individual
+  firm: Everywhere Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: David Frankel
+  type: individual
+  firm: Founder Collective
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Eric Bahn
+  type: individual
+  firm: Hustle Fund
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Kim-Mai Cutler
+  type: individual
+  firm: Initialized Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Kyle Harrison
+  type: individual
+  firm: Contrary Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Jules Maltz
+  type: individual
+  firm: IVP
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Jeff Clavier
+  type: individual
+  firm: Uncork Capital
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Jeff Jordan
+  type: individual
+  firm: Andreessen Horowitz
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Saul Klein
+  type: individual
+  firm: LocalGlobe
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Carlos Espinal
+  type: individual
+  firm: Seedcamp
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Fred Destin
+  type: individual
+  firm: Stride.VC
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
+- name: Oren Zeev
+  type: individual
+  firm: Zeev Ventures
+  source: VC Media Influencers FINAL MASTER spreadsheet
+  discovered_from: influencer-outreach
+  priority: low
+  status: pending
+  added: '2026-03-20'
