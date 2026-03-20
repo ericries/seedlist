@@ -21,6 +21,9 @@ firms:
 - round: '2019'
   slug: insight-partners
   year: 2019
+- round: Seed (first check)
+  slug: independent
+  year: 2013
 founded: 2013
 founders:
 - name: Tomer Weingarten
@@ -48,6 +51,9 @@ investors:
 - round: '2019'
   slug: teddie-wardi
   year: 2019
+- round: Seed (first check)
+  slug: dan-scheinman
+  year: 2013
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: SentinelOne

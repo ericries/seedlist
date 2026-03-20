@@ -24,6 +24,9 @@ firms:
 - round: Series A
   slug: independent
   year: 2010
+- round: Angel
+  slug: sherpa-capital
+  year: 2012
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -66,6 +69,9 @@ investors:
 - round: Angel ($100K)
   slug: sam-altman
   year: 2008
+- round: Angel
+  slug: shervin-pishevar
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

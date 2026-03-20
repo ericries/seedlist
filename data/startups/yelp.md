@@ -15,6 +15,9 @@ firms:
 - round: Seed
   slug: sv-angel
   year: 2005
+- round: Angel/Chairman
+  slug: scifi-vc
+  year: 2004
 founded: 2004
 founders:
 - name: Jeremy Stoppelman

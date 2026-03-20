@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@mlevchin"
   linkedin: "linkedin.com/in/maxlevchin"
-status: draft
+status: published
 last_researched: 2026-03-19
 ---
 

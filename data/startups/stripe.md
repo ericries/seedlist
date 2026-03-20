@@ -30,6 +30,9 @@ firms:
 - round: Multiple rounds ($1B in Series I, 2024)
   slug: thrive-capital
   year: 2016
+- round: Angel
+  slug: scifi-vc
+  year: 2014
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -82,6 +85,9 @@ investors:
 - round: Growth
   slug: nat-friedman
   year: 2020
+- round: Angel
+  slug: max-levchin
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

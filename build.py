@@ -64,7 +64,7 @@ def build_search_index(investors, firms, startups):
     for p in investors:
         text_parts = [p.get("name", ""), p.get("firm", ""), p.get("role", ""),
                       p.get("location", "")] + (p.get("stage_focus") or []) + (p.get("sector_focus") or [])
-        text_parts = [t for t in text_parts if t]  # filter None values
+        text_parts = [str(t) for t in text_parts if t]  # filter None, coerce to str
         entries.append({
             "name": p.get("name", ""),
             "type": "investor",

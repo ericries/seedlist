@@ -25,6 +25,12 @@ firms:
 - round: Growth
   slug: thrive-capital
   year: 2015
+- round: Early
+  slug: ame-cloud-ventures
+  year: 2013
+- round: Early
+  slug: sherpa-capital
+  year: 2013
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -57,6 +63,12 @@ investors:
 - round: Growth
   slug: josh-kushner
   year: 2015
+- round: Early
+  slug: jerry-yang
+  year: 2013
+- round: Early
+  slug: shervin-pishevar
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

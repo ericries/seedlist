@@ -1,52 +1,67 @@
 ---
-name: "Pear VC"
-slug: pear-vc
-type: firm
-website: "https://pear.vc"
-location: "San Francisco, CA"
 founded: 2013
-fund_size: "$432M (Fund IV, 2023)"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai, enterprise, saas, healthcare, fintech, biotech, climate-tech, consumer, deep-tech, developer-tools]
-team:
-  - slug: pejman-nozad
-    role: "Founding Managing Partner"
-    name: "Pejman Nozad"
-  - slug: mar-hershenson
-    role: "Founding Managing Partner"
-    name: "Mar Hershenson"
-  - slug: ajay-kamat
-    role: "Partner"
-    name: "Ajay Kamat"
-  - slug: arash-afrakhteh
-    role: "Partner"
-    name: "Arash Afrakhteh"
-  - slug: eddie-eltoukhy
-    role: "Partner"
-    name: "Eddie Eltoukhy"
-  - slug: harris-stolzenberg
-    role: "Partner"
-    name: "Harris Stolzenberg"
-  - slug: kathleen-estreich
-    role: "Partner"
-    name: "Kathleen Estreich"
-  - slug: khalil-fuller
-    role: "Partner & Head of Dorm"
-    name: "Khalil Fuller"
-  - slug: pepe-agell
-    role: "Partner"
-    name: "Pepe Agell"
-  - slug: ryan-sells
-    role: "Partner"
-    name: "Ryan Sells"
-  - slug: shravan-reddy
-    role: "Partner"
-    name: "Shravan Reddy"
-  - slug: warren-shaeffer
-    role: "Partner"
-    name: "Warren Shaeffer"
-status: published
+fund_size: $432M (Fund IV, 2023)
 last_researched: 2026-03-19
+location: San Francisco, CA
+name: Pear VC
+sector_focus:
+- ai
+- enterprise
+- saas
+- healthcare
+- fintech
+- biotech
+- climate-tech
+- consumer
+- deep-tech
+- developer-tools
+slug: pear-vc
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Pejman Nozad
+  role: Founding Managing Partner
+  slug: pejman-nozad
+- name: Mar Hershenson
+  role: Founding Managing Partner
+  slug: mar-hershenson
+- name: Ajay Kamat
+  role: Partner
+  slug: ajay-kamat
+- name: Arash Afrakhteh
+  role: Partner
+  slug: arash-afrakhteh
+- name: Eddie Eltoukhy
+  role: Partner
+  slug: eddie-eltoukhy
+- name: Harris Stolzenberg
+  role: Partner
+  slug: harris-stolzenberg
+- name: Kathleen Estreich
+  role: Partner
+  slug: kathleen-estreich
+- name: Khalil Fuller
+  role: Partner & Head of Dorm
+  slug: khalil-fuller
+- name: Pepe Agell
+  role: Partner
+  slug: pepe-agell
+- name: Ryan Sells
+  role: Partner
+  slug: ryan-sells
+- name: Shravan Reddy
+  role: Partner
+  slug: shravan-reddy
+- name: Warren Shaeffer
+  role: Partner
+  slug: warren-shaeffer
+- name: Arash Ferdowsi
+  role: Visiting Partner
+  slug: arash-ferdowsi
+type: firm
+website: https://pear.vc
 ---
 
 ## About

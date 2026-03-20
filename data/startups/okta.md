@@ -12,6 +12,9 @@ firms:
 - round: ~2017
   slug: altimeter-capital
   year: 2017
+- round: Early
+  slug: ame-cloud-ventures
+  year: 2014
 founded: 2009
 founders:
 - name: Todd McKinnon
@@ -31,6 +34,9 @@ investors:
 - round: ~2017
   slug: brad-gerstner
   year: 2017
+- round: Early
+  slug: jerry-yang
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Okta

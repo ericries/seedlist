@@ -69,6 +69,9 @@ firms:
 - round: Series B
   slug: general-catalyst
   year: 2014
+- round: ~2013
+  slug: chemistry-vc
+  year: 2013
 founded: 2009
 founders:
 - name: Alex Solomon

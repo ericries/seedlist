@@ -1,22 +1,31 @@
 ---
-name: "Nat Friedman"
-slug: nat-friedman
-type: individual
-firm: null
-role: "Angel Investor; VP of Product, Meta Superintelligence Labs; Former CEO, GitHub"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, developer-tools, infrastructure, saas, cloud]
-check_size: "$1M-$100M"
-last_verified_investment:
-  date: 2025-02
-  company: "Pulse"
-  round: "Early stage ($3.9M)"
-social:
-  twitter: "@natfriedman"
-  linkedin: null
-status: published
+check_size: $1M-$100M
+firm: nfdg
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Pulse
+  date: 2025-02
+  round: Early stage ($3.9M)
+location: San Francisco, CA
+name: Nat Friedman
+role: Angel Investor; VP of Product, Meta Superintelligence Labs; Former CEO, GitHub
+sector_focus:
+- ai
+- developer-tools
+- infrastructure
+- saas
+- cloud
+slug: nat-friedman
+social:
+  linkedin: null
+  twitter: '@natfriedman'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+type: individual
 ---
 
 ## Background

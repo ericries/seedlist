@@ -18,6 +18,9 @@ firms:
 - round: Angel
   slug: atomic
   year: 2010
+- round: Angel
+  slug: scifi-vc
+  year: 2011
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -48,6 +51,9 @@ investors:
 - round: Early stage
   slug: sam-altman
   year: 2012
+- round: Angel
+  slug: max-levchin
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

@@ -21,6 +21,9 @@ firms:
 - round: Growth
   slug: thrive-capital
   year: 2022
+- round: Series G
+  slug: octahedron-capital
+  year: 2021
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -59,6 +62,9 @@ investors:
 - round: Growth
   slug: josh-kushner
   year: 2022
+- round: Series G
+  slug: albert-chiang
+  year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

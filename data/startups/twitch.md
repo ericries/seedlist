@@ -10,6 +10,9 @@ firms:
 - round: Early stage
   slug: thrive-capital
   year: 2013
+- round: ~2012
+  slug: chemistry-vc
+  year: 2012
 founded: 2007
 founders:
 - name: Justin Kan

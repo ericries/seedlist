@@ -36,6 +36,9 @@ firms:
 - round: Series B
   slug: benchmark
   year: 2024
+- round: Seed ($8M round)
+  slug: pear-vc
+  year: 2023
 founded: 2022
 founders:
 - name: Michael Truell
@@ -71,6 +74,9 @@ investors:
 - round: Series B
   slug: sarah-tavel
   year: 2024
+- round: Seed ($8M round)
+  slug: arash-ferdowsi
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

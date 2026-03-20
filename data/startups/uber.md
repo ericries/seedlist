@@ -84,6 +84,12 @@ firms:
 - round: Angel
   slug: nfdg
   year: 2011
+- round: Angel (SciFi VC)
+  slug: scifi-vc
+  year: 2013
+- round: Series B (led)
+  slug: sherpa-capital
+  year: 2011
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -135,6 +141,12 @@ investors:
   year: 2015
 - round: Angel
   slug: daniel-gross
+  year: 2011
+- round: Angel (SciFi VC)
+  slug: max-levchin
+  year: 2013
+- round: Series B (led)
+  slug: shervin-pishevar
   year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA

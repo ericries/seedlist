@@ -4183,3 +4183,60 @@ queue:
   added: '2026-03-17'
   firm: quantumlight
   discovered_from: quantumlight
+- name: Stan Druckenmiller
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: perplexity-ai
+- name: Dylan Field
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: perplexity-ai
+- name: Sameer Gandhi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Accel
+  discovered_from: dropbox
+- name: Alex Ferrara
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bessemer Venture Partners
+  discovered_from: shopify
+- name: Katelin Holloway
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Seven Seven Six
+  discovered_from: alexis-ohanian
+- name: Shumway Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chris-shumway
+- name: TIME Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-benioff
+- name: NEA
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: perplexity-ai
+- name: Felicis Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shopify
