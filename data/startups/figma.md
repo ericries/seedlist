@@ -1,26 +1,71 @@
 ---
-name: "Figma"
-slug: figma
-type: startup
-website: "https://www.figma.com"
-location: "San Francisco, CA"
-founded: 2012
-status_company: ipo
-sector: [design-tools, collaboration, saas]
-stage_latest: "IPO"
-total_raised: "$749M"
-investors: []
 firms:
-  - slug: sv-angel
-    round: growth
-    year: ~2021
+- round: growth
+  slug: sv-angel
+  year: ~2021
+- round: Seed
+  slug: independent
+  year: 2018
+- round: Angel
+  slug: coatue-management
+  year: 2019
+- round: Series C ($40M, led)
+  slug: sequoia-capital
+  year: 2019
+- round: Seed
+  slug: index-ventures
+  year: 2013
+- round: Growth
+  slug: greenoaks-capital
+  year: 2020
+- round: Technology/Design
+  slug: surgocap-partners
+  year: 2025
+founded: 2012
 founders:
-  - name: "Dylan Field"
-    role: "Co-Founder & CEO"
-  - name: "Evan Wallace"
-    role: "Co-Founder & CTO"
-status: published
+- name: Dylan Field
+  role: Co-Founder & CEO
+- name: Evan Wallace
+  role: Co-Founder & CTO
+investors:
+- round: Seed
+  slug: lachy-groom
+  year: 2018
+- round: Seed
+  slug: ron-conway
+  year: 2013
+- round: Angel
+  slug: dan-rose
+  year: 2019
+- round: Series C ($40M, led)
+  slug: andrew-reed
+  year: 2019
+- round: Seed
+  slug: danny-rimer
+  year: 2013
+- round: Growth
+  slug: neil-mehta
+  year: 2020
+- round: Early stage
+  slug: elad-gil
+  year: 2016
+- round: Technology/Design
+  slug: mala-gaonkar
+  year: 2025
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Figma
+sector:
+- design-tools
+- collaboration
+- saas
+slug: figma
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $749M
+type: startup
+website: https://www.figma.com
 ---
 
 ## About

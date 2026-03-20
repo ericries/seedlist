@@ -1,34 +1,67 @@
 ---
-name: "SentinelOne"
-slug: sentinelone
-type: startup
-website: "https://www.sentinelone.com"
-location: "Mountain View, CA"
-founded: 2013
-status_company: ipo
-sector: [cybersecurity, ai, enterprise-software]
-stage_latest: "IPO"
-total_raised: "$697M"
-investors:
-  - slug: john-curtius
-    round: Series A
-    year: 2014
 firms:
-  - slug: tiger-global
-    round: Series A
-    year: 2014
-  - slug: sequoia-capital
-    round: Series F
-    year: 2020
+- round: Series A
+  slug: tiger-global
+  year: 2014
+- round: Series F
+  slug: sequoia-capital
+  year: 2020
+- round: Seed (led)
+  slug: dcvc
+  year: 2013
+- round: Pre-seed
+  slug: upwest
+  year: 2013
+- round: Series F ($267M, led)
+  slug: cedar-capital-group
+  year: 2020
+- round: Series C (led)
+  slug: redpoint-ventures
+  year: 2017
+- round: '2019'
+  slug: insight-partners
+  year: 2019
+founded: 2013
 founders:
-  - name: "Tomer Weingarten"
-    role: "CEO & Co-Founder"
-  - name: "Almog Cohen"
-    role: "Co-Founder"
-  - name: "Ehud (Udi) Shamir"
-    role: "Co-Founder"
-status: published
+- name: Tomer Weingarten
+  role: CEO & Co-Founder
+- name: Almog Cohen
+  role: Co-Founder
+- name: Ehud (Udi) Shamir
+  role: Co-Founder
+investors:
+- round: Series A
+  slug: john-curtius
+  year: 2014
+- round: Seed (led)
+  slug: matthew-ocko
+  year: 2013
+- round: Pre-seed
+  slug: gil-ben-artzy
+  year: 2013
+- round: Pre-seed
+  slug: shuly-galili
+  year: 2013
+- round: Series C (led)
+  slug: tom-dyal
+  year: 2017
+- round: '2019'
+  slug: teddie-wardi
+  year: 2019
 last_researched: 2026-03-17
+location: Mountain View, CA
+name: SentinelOne
+sector:
+- cybersecurity
+- ai
+- enterprise-software
+slug: sentinelone
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $697M
+type: startup
+website: https://www.sentinelone.com
 ---
 
 ## About

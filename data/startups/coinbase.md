@@ -1,29 +1,90 @@
 ---
-name: "Coinbase"
-slug: coinbase
-type: startup
-website: "https://www.coinbase.com"
-location: "San Francisco, CA"
-founded: 2012
-status_company: ipo
-sector: [cryptocurrency, fintech, blockchain, financial-services]
-stage_latest: "IPO"
-total_raised: "$547M (pre-IPO)"
-investors:
-  - slug: ron-conway
-    round: seed
-    year: 2012
 firms:
-  - slug: sv-angel
-    round: seed
-    year: 2012
+- round: seed
+  slug: sv-angel
+  year: 2012
+- round: Early investment
+  slug: idealab
+  year: 2012
+- round: Growth
+  slug: acrew-capital
+  year: 2020
+- round: Seed
+  slug: y-combinator
+  year: 2012
+- round: Growth
+  slug: version-one-ventures
+  year: 2017
+- round: Growth
+  slug: first-harmonic
+  year: 2018
+- round: Early stage
+  slug: independent
+  year: 2012
+- round: Pre-IPO
+  slug: pantera-capital
+  year: 2013
+- round: Series A
+  slug: ribbit-capital
+  year: 2013
+- round: Growth
+  slug: addition
+  year: 2013
+founded: 2012
 founders:
-  - name: "Brian Armstrong"
-    role: "CEO"
-  - name: "Fred Ehrsam"
-    role: "Co-founder (departed)"
-status: published
+- name: Brian Armstrong
+  role: CEO
+- name: Fred Ehrsam
+  role: Co-founder (departed)
+investors:
+- round: seed
+  slug: ron-conway
+  year: 2012
+- round: Early investment
+  slug: bill-gross
+  year: 2012
+- round: Growth
+  slug: lauren-kolodny
+  year: 2020
+- round: Early
+  slug: theresia-gouw
+  year: 2019
+- round: Seed
+  slug: garry-tan
+  year: 2012
+- round: Growth
+  slug: boris-wertz
+  year: 2017
+- round: Growth
+  slug: ali-rowghani
+  year: 2018
+- round: Early stage
+  slug: elad-gil
+  year: 2012
+- round: Pre-IPO
+  slug: dan-morehead
+  year: 2013
+- round: Series A
+  slug: micky-malka
+  year: 2013
+- round: Growth
+  slug: lee-fixel
+  year: 2013
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Coinbase
+sector:
+- cryptocurrency
+- fintech
+- blockchain
+- financial-services
+slug: coinbase
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $547M (pre-IPO)
+type: startup
+website: https://www.coinbase.com
 ---
 
 ## About

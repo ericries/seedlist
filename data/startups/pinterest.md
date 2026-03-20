@@ -1,31 +1,59 @@
 ---
-name: "Pinterest"
-slug: pinterest
-type: startup
-website: "https://www.pinterest.com"
-location: "San Francisco, CA"
-founded: 2009
-status_company: ipo
-sector: [consumer-internet, social-media, visual-discovery, e-commerce]
-stage_latest: "IPO"
-total_raised: "$1.47B"
-investors:
-  - slug: ron-conway
-    round: series-f
-    year: 2014
 firms:
-  - slug: sv-angel
-    round: series-f
-    year: 2014
+- round: series-f
+  slug: sv-angel
+  year: 2014
+- round: Growth
+  slug: bond
+  year: 2013
+- round: Seed
+  slug: a-star-capital
+  year: 2010
+- round: Series A
+  slug: benchmark
+  year: 2011
+- round: Seed
+  slug: independent
+  year: 2011
+founded: 2009
 founders:
-  - name: "Ben Silbermann"
-    role: "Co-Founder & CEO"
-  - name: "Evan Sharp"
-    role: "Co-Founder & Chief Design Officer"
-  - name: "Paul Sciarra"
-    role: "Co-Founder"
-status: published
+- name: Ben Silbermann
+  role: Co-Founder & CEO
+- name: Evan Sharp
+  role: Co-Founder & Chief Design Officer
+- name: Paul Sciarra
+  role: Co-Founder
+investors:
+- round: series-f
+  slug: ron-conway
+  year: 2014
+- round: Growth
+  slug: mary-meeker
+  year: 2013
+- round: Seed
+  slug: kevin-hartz
+  year: 2010
+- round: Series A
+  slug: sarah-tavel
+  year: 2011
+- round: Seed
+  slug: elad-gil
+  year: 2011
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Pinterest
+sector:
+- consumer-internet
+- social-media
+- visual-discovery
+- e-commerce
+slug: pinterest
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $1.47B
+type: startup
+website: https://www.pinterest.com
 ---
 
 ## About

@@ -1,29 +1,49 @@
 ---
-name: "Snapchat"
-slug: snapchat
-type: startup
-website: "https://www.snap.com"
-location: "Santa Monica, CA"
-founded: 2011
-status_company: ipo
-sector: [consumer-internet, social-media, messaging, camera, augmented-reality]
-stage_latest: "IPO"
-total_raised: "$2.62B"
-investors:
-  - slug: ron-conway
-    round: early
-    year: ~2013
 firms:
-  - slug: sv-angel
-    round: early
-    year: ~2013
+- round: early
+  slug: sv-angel
+  year: ~2013
+- round: Growth
+  slug: dst-global
+  year: 2013
+- round: Series A
+  slug: benchmark
+  year: 2013
+founded: 2011
 founders:
-  - name: "Evan Spiegel"
-    role: "Co-Founder & CEO"
-  - name: "Bobby Murphy"
-    role: "Co-Founder & CTO"
-status: published
+- name: Evan Spiegel
+  role: Co-Founder & CEO
+- name: Bobby Murphy
+  role: Co-Founder & CTO
+investors:
+- round: early
+  slug: ron-conway
+  year: ~2013
+- round: Growth
+  slug: yuri-milner
+  year: 2013
+- round: Series A
+  slug: mitch-lasky
+  year: 2013
+- round: Series A (identified)
+  slug: matt-cohler
+  year: 2013
 last_researched: 2026-03-13
+location: Santa Monica, CA
+name: Snapchat
+sector:
+- consumer-internet
+- social-media
+- messaging
+- camera
+- augmented-reality
+slug: snapchat
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $2.62B
+type: startup
+website: https://www.snap.com
 ---
 
 ## About

@@ -1,73 +1,93 @@
 ---
-name: "Sequoia Capital"
-slug: sequoia-capital
-type: firm
-website: "https://sequoiacap.com"
-location: "Menlo Park, CA"
 founded: 1972
-fund_size: "$56B AUM (January 2025); $19.6B evergreen fund (February 2025); $950M seed/venture funds (October 2025)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, enterprise, consumer, fintech, healthcare, infrastructure, crypto, climate, defense]
-team:
-  - slug: alfred-lin
-    role: "Partner & Co-Steward"
-    name: "Alfred Lin"
-  - slug: pat-grady
-    role: "Partner & Co-Steward"
-    name: "Pat Grady"
-  - slug: roelof-botha
-    role: "Partner"
-    name: "Roelof Botha"
-  - slug: jim-goetz
-    role: "Partner"
-    name: "Jim Goetz"
-  - slug: doug-leone
-    role: "Partner"
-    name: "Doug Leone"
-  - slug: andrew-reed
-    role: "Partner"
-    name: "Andrew Reed"
-  - slug: sonya-huang
-    role: "Partner"
-    name: "Sonya Huang"
-  - slug: shaun-maguire
-    role: "Partner"
-    name: "Shaun Maguire"
-  - slug: jess-lee
-    role: "Partner"
-    name: "Jess Lee"
-  - slug: luciana-lixandru
-    role: "Partner"
-    name: "Luciana Lixandru"
-  - slug: bogomil-balkansky
-    role: "Partner"
-    name: "Bogomil Balkansky"
-  - slug: josephine-chen
-    role: "Partner"
-    name: "Josephine Chen"
-  - slug: stephanie-zhan
-    role: "Partner"
-    name: "Stephanie Zhan"
-  - slug: michael-dixon
-    role: "Partner"
-    name: "Michael Dixon"
-  - slug: lauren-reeder
-    role: "Partner"
-    name: "Lauren Reeder"
-  - slug: bill-coughran
-    role: "Partner"
-    name: "Bill Coughran"
-  - slug: bryan-schreier
-    role: "Venture Partner"
-    name: "Bryan Schreier"
-  - slug: carl-eschenbach
-    role: "Venture Partner"
-    name: "Carl Eschenbach"
-  - slug: matthew-miller
-    role: "Venture Partner"
-    name: "Matthew Miller"
-status: published
+fund_size: $56B AUM (January 2025); $19.6B evergreen fund (February 2025); $950M seed/venture
+  funds (October 2025)
 last_researched: 2026-03-14
+location: Menlo Park, CA
+name: Sequoia Capital
+sector_focus:
+- ai
+- enterprise
+- consumer
+- fintech
+- healthcare
+- infrastructure
+- crypto
+- climate
+- defense
+slug: sequoia-capital
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Alfred Lin
+  role: Partner & Co-Steward
+  slug: alfred-lin
+- name: Pat Grady
+  role: Partner & Co-Steward
+  slug: pat-grady
+- name: Roelof Botha
+  role: Partner
+  slug: roelof-botha
+- name: Jim Goetz
+  role: Partner
+  slug: jim-goetz
+- name: Doug Leone
+  role: Partner
+  slug: doug-leone
+- name: Andrew Reed
+  role: Partner
+  slug: andrew-reed
+- name: Sonya Huang
+  role: Partner
+  slug: sonya-huang
+- name: Shaun Maguire
+  role: Partner
+  slug: shaun-maguire
+- name: Jess Lee
+  role: Partner
+  slug: jess-lee
+- name: Luciana Lixandru
+  role: Partner
+  slug: luciana-lixandru
+- name: Bogomil Balkansky
+  role: Partner
+  slug: bogomil-balkansky
+- name: Josephine Chen
+  role: Partner
+  slug: josephine-chen
+- name: Stephanie Zhan
+  role: Partner
+  slug: stephanie-zhan
+- name: Michael Dixon
+  role: Partner
+  slug: michael-dixon
+- name: Lauren Reeder
+  role: Partner
+  slug: lauren-reeder
+- name: Bill Coughran
+  role: Partner
+  slug: bill-coughran
+- name: Bryan Schreier
+  role: Venture Partner
+  slug: bryan-schreier
+- name: Carl Eschenbach
+  role: Venture Partner
+  slug: carl-eschenbach
+- name: Matthew Miller
+  role: Venture Partner
+  slug: matthew-miller
+- name: Ravi Gupta
+  role: Partner
+  slug: ravi-gupta
+- name: Michael Moritz
+  role: Former Partner / Chairman, Sequoia Heritage
+  slug: michael-moritz
+type: firm
+website: https://sequoiacap.com
 ---
 
 ## About

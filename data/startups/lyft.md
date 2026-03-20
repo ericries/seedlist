@@ -1,29 +1,38 @@
 ---
-name: "Lyft"
-slug: lyft
-type: startup
-website: "https://www.lyft.com"
-location: "San Francisco, California"
-founded: 2012
-status_company: ipo
-sector: [ridesharing, transportation, marketplace]
-stage_latest: "IPO"
-total_raised: "$5.0B"
-investors:
-  - slug: mike-maples
-    round: seed
-    year: 2010
 firms:
-  - slug: floodgate
-    round: seed
-    year: 2010
+- round: seed
+  slug: floodgate
+  year: 2010
+- round: ~2018
+  slug: coatue-management
+  year: 2018
+founded: 2012
 founders:
-  - name: "Logan Green"
-    role: "Co-Founder & CEO"
-  - name: "John Zimmer"
-    role: "Co-Founder & President"
-status: published
+- name: Logan Green
+  role: Co-Founder & CEO
+- name: John Zimmer
+  role: Co-Founder & President
+investors:
+- round: seed
+  slug: mike-maples
+  year: 2010
+- round: ~2018
+  slug: philippe-laffont
+  year: 2018
 last_researched: 2026-03-13
+location: San Francisco, California
+name: Lyft
+sector:
+- ridesharing
+- transportation
+- marketplace
+slug: lyft
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $5.0B
+type: startup
+website: https://www.lyft.com
 ---
 
 ## About

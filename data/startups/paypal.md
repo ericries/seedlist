@@ -1,34 +1,46 @@
 ---
-name: "PayPal"
-slug: paypal
-type: startup
-website: "https://www.paypal.com"
-location: "Palo Alto, CA"
+acquired_by: eBay (2002, $1.5B); spun off as independent public company (2015)
+firms:
+- round: Angel (via Angel Investors LP)
+  slug: sv-angel
+  year: 2000
+- round: Seed
+  slug: a-star-capital
+  year: 1999
 founded: 1998
-status_company: ipo
-acquired_by: "eBay (2002, $1.5B); spun off as independent public company (2015)"
-sector: [fintech, payments]
-stage_latest: "IPO"
-total_raised: "$216M"
-investors:
-  - slug: ron-conway
-    round: Seed
-    year: 1999
 founders:
-  - name: "Peter Thiel"
-    role: "Co-Founder & CEO"
-  - name: "Max Levchin"
-    role: "Co-Founder & CTO"
-  - name: "Luke Nosek"
-    role: "Co-Founder"
-  - name: "Ken Howery"
-    role: "Co-Founder & CFO"
-  - name: "Yu Pan"
-    role: "Co-Founder & Engineer"
-  - name: "Elon Musk"
-    role: "Co-Founder of X.com (merged with Confinity)"
-status: published
+- name: Peter Thiel
+  role: Co-Founder & CEO
+- name: Max Levchin
+  role: Co-Founder & CTO
+- name: Luke Nosek
+  role: Co-Founder
+- name: Ken Howery
+  role: Co-Founder & CFO
+- name: Yu Pan
+  role: Co-Founder & Engineer
+- name: Elon Musk
+  role: Co-Founder of X.com (merged with Confinity)
+investors:
+- round: Seed
+  slug: ron-conway
+  year: 1999
+- round: Seed
+  slug: kevin-hartz
+  year: 1999
 last_researched: 2026-03-13
+location: Palo Alto, CA
+name: PayPal
+sector:
+- fintech
+- payments
+slug: paypal
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $216M
+type: startup
+website: https://www.paypal.com
 ---
 
 ## About

@@ -1,55 +1,68 @@
 ---
-name: "Tiger Global Management"
-slug: tiger-global
-type: firm
-website: "https://www.tigerglobal.com"
-location: "New York, NY"
 founded: 2001
-fund_size: "$2.2B (PIP 17, 2026); $12.7B (PIP 15, 2021); ~$46B total AUM (2025)"
-stage_focus: [series-a, series-b, growth, late-stage]
-sector_focus: [enterprise-software, consumer-internet, fintech, ai, e-commerce, edtech]
-team:
-  - slug: chase-coleman-iii
-    role: "Founder & Partner"
-    name: "Chase Coleman III"
-  - slug: eric-lane
-    role: "President & COO"
-    name: "Eric Lane"
-  - slug: scott-shleifer
-    role: "Senior Advisor (former Partner, Head of Private Investments)"
-    name: "Scott Shleifer"
-  - slug: evan-feinberg
-    role: "Partner, Investment Committee"
-    name: "Evan Feinberg"
-  - slug: griffin-schroeder
-    role: "Partner, Investment Committee"
-    name: "Griffin Schroeder"
-  - slug: sean-carey
-    role: "Partner"
-    name: "Sean Carey"
-  - slug: zaahid-khan
-    role: "Partner"
-    name: "Zaahid Khan"
-  - slug: pengfei-wang
-    role: "Partner (APAC)"
-    name: "Pengfei Wang"
-  - slug: amita-singh
-    role: "Partner (APAC)"
-    name: "Amita Singh"
-  - slug: ray-brilus
-    role: "Partner (Europe)"
-    name: "Ray Brilus"
-  - slug: jeffrey-maganis
-    role: "Partner"
-    name: "Jeffrey Maganis"
-  - slug: evan-stanleigh
-    role: "Partner"
-    name: "Evan Stanleigh"
-  - slug: jay-chen
-    role: "Partner"
-    name: "Jay Chen"
-status: published
+fund_size: $2.2B (PIP 17, 2026); $12.7B (PIP 15, 2021); ~$46B total AUM (2025)
 last_researched: 2026-03-14
+location: New York, NY
+name: Tiger Global Management
+sector_focus:
+- enterprise-software
+- consumer-internet
+- fintech
+- ai
+- e-commerce
+- edtech
+slug: tiger-global
+stage_focus:
+- series-a
+- series-b
+- growth
+- late-stage
+status: published
+team:
+- name: Chase Coleman III
+  role: Founder & Partner
+  slug: chase-coleman-iii
+- name: Eric Lane
+  role: President & COO
+  slug: eric-lane
+- name: Scott Shleifer
+  role: Senior Advisor (former Partner, Head of Private Investments)
+  slug: scott-shleifer
+- name: Evan Feinberg
+  role: Partner, Investment Committee
+  slug: evan-feinberg
+- name: Griffin Schroeder
+  role: Partner, Investment Committee
+  slug: griffin-schroeder
+- name: Sean Carey
+  role: Partner
+  slug: sean-carey
+- name: Zaahid Khan
+  role: Partner
+  slug: zaahid-khan
+- name: Pengfei Wang
+  role: Partner (APAC)
+  slug: pengfei-wang
+- name: Amita Singh
+  role: Partner (APAC)
+  slug: amita-singh
+- name: Ray Brilus
+  role: Partner (Europe)
+  slug: ray-brilus
+- name: Jeffrey Maganis
+  role: Partner
+  slug: jeffrey-maganis
+- name: Evan Stanleigh
+  role: Partner
+  slug: evan-stanleigh
+- name: Jay Chen
+  role: Partner
+  slug: jay-chen
+- name: Chase Coleman III
+  role: Founder & CEO
+  slug: chase-coleman
+type: firm
+website: https://www.tigerglobal.com
 ---
 
 ## About

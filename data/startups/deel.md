@@ -1,44 +1,84 @@
 ---
-name: "Deel"
-slug: deel
-type: startup
-website: "https://www.deel.com"
-location: "San Francisco, CA"
-founded: 2019
-status_company: active
-sector: [fintech, hr-tech, payroll, compliance]
-stage_latest: "Series E"
-total_raised: "$1.3B"
-investors:
-  - slug: anish-acharya
-    round: Series A
-    year: 2020
-  - slug: brianne-kimmel
-    round: angel
-    year: 2021
 firms:
-  - slug: y-combinator
-    round: Pre-Seed
-    year: 2019
-  - slug: andreessen-horowitz
-    round: Series A
-    year: 2020
-  - slug: coatue-management
-    round: Series D
-    year: 2021
-  - slug: general-catalyst
-    round: Series E
-    year: 2025
-  - slug: sv-angel
-    round: angel
-    year: 2020
+- round: Pre-Seed
+  slug: y-combinator
+  year: 2019
+- round: Series A
+  slug: andreessen-horowitz
+  year: 2020
+- round: Series D
+  slug: coatue-management
+  year: 2021
+- round: Series E
+  slug: general-catalyst
+  year: 2025
+- round: angel
+  slug: sv-angel
+  year: 2020
+- round: Seed
+  slug: recursive-ventures
+  year: 2019
+- round: Seed
+  slug: independent
+  year: 2019
+- round: Series B
+  slug: spark-capital
+  year: 2020
+- round: Growth
+  slug: first-harmonic
+  year: 2020
+- round: Series E
+  slug: ribbit-capital
+  year: 2025
+- round: Seed
+  slug: worklife-ventures
+  year: 2019
+founded: 2019
 founders:
-  - name: "Alex Bouaziz"
-    role: "CEO & Co-Founder"
-  - name: "Shuo Wang"
-    role: "CRO & Co-Founder"
-status: published
+- name: Alex Bouaziz
+  role: CEO & Co-Founder
+- name: Shuo Wang
+  role: CRO & Co-Founder
+investors:
+- round: Series A
+  slug: anish-acharya
+  year: 2020
+- round: angel
+  slug: brianne-kimmel
+  year: 2021
+- round: Seed
+  slug: itamar-novick
+  year: 2019
+- round: Seed
+  slug: lachy-groom
+  year: 2019
+- round: Series B
+  slug: yasmin-razavi
+  year: 2020
+- round: Growth
+  slug: ali-rowghani
+  year: 2020
+- round: Early stage
+  slug: elad-gil
+  year: 2018
+- round: Series E
+  slug: micky-malka
+  year: 2025
 last_researched: 2026-03-17
+location: San Francisco, CA
+name: Deel
+sector:
+- fintech
+- hr-tech
+- payroll
+- compliance
+slug: deel
+stage_latest: Series E
+status: published
+status_company: active
+total_raised: $1.3B
+type: startup
+website: https://www.deel.com
 ---
 
 ## About

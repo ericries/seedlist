@@ -1,71 +1,83 @@
 ---
-name: "Klaviyo"
-slug: klaviyo
-type: startup
-website: "https://www.klaviyo.com"
-location: "Boston, MA"
-founded: 2012
-status_company: ipo
-sector: [marketing-automation, e-commerce, saas]
-stage_latest: "IPO"
-total_raised: "$778M"
-investors:
-  - slug: keith-block
-    round: series-d
-    year: 2021
 firms:
-  - slug: astral-capital
-    round: seed
-    year: 2015
-  - slug: astral-capital
-    round: series-a
-    year: 2017
-  - slug: summit-partners
-    round: series-b
-    year: 2019
-  - slug: accel
-    round: series-c
-    year: 2020
-  - slug: summit-partners
-    round: series-c
-    year: 2020
-  - slug: sands-capital
-    round: series-d
-    year: 2021
-  - slug: accel
-    round: series-d
-    year: 2021
-  - slug: summit-partners
-    round: series-d
-    year: 2021
-  - slug: glynn-capital
-    round: series-d
-    year: 2021
-  - slug: lone-pine-capital
-    round: series-d
-    year: 2021
-  - slug: whale-rock-capital
-    round: series-d
-    year: 2021
-  - slug: clearbridge-investments
-    round: series-d
-    year: 2021
-  - slug: counterpoint-global
-    round: series-d
-    year: 2021
-  - slug: owl-rock-capital
-    round: series-d
-    year: 2021
-  - slug: shopify
-    round: strategic
-    year: 2022
+- round: seed
+  slug: astral-capital
+  year: 2015
+- round: series-a
+  slug: astral-capital
+  year: 2017
+- round: series-b
+  slug: summit-partners
+  year: 2019
+- round: series-c
+  slug: accel
+  year: 2020
+- round: series-c
+  slug: summit-partners
+  year: 2020
+- round: series-d
+  slug: sands-capital
+  year: 2021
+- round: series-d
+  slug: accel
+  year: 2021
+- round: series-d
+  slug: summit-partners
+  year: 2021
+- round: series-d
+  slug: glynn-capital
+  year: 2021
+- round: series-d
+  slug: lone-pine-capital
+  year: 2021
+- round: series-d
+  slug: whale-rock-capital
+  year: 2021
+- round: series-d
+  slug: clearbridge-investments
+  year: 2021
+- round: series-d
+  slug: counterpoint-global
+  year: 2021
+- round: series-d
+  slug: owl-rock-capital
+  year: 2021
+- round: strategic
+  slug: shopify
+  year: 2022
+- round: Seed
+  slug: array-ventures
+  year: 2015
+founded: 2012
 founders:
-  - name: "Andrew Bialecki"
-    role: "CEO & Co-Founder"
-  - name: "Ed Hallen"
-    role: "Co-Founder & CPO"
-status: published
+- name: Andrew Bialecki
+  role: CEO & Co-Founder
+- name: Ed Hallen
+  role: Co-Founder & CPO
+investors:
+- round: series-d
+  slug: keith-block
+  year: 2021
+- round: Series C
+  slug: ping-li
+  year: 2020
+- round: Seed
+  slug: elias-torres
+  year: 2015
 last_researched: 2026-03-17
+location: Boston, MA
+name: Klaviyo
+sector:
+- marketing-automation
+- e-commerce
+- saas
+slug: klaviyo
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $778M
+type: startup
+website: https://www.klaviyo.com
 ---
 
 ## About

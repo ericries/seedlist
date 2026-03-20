@@ -1,48 +1,67 @@
 ---
-name: "Instagram"
-slug: instagram
-type: startup
-website: "https://instagram.com"
-location: "San Francisco, CA"
-founded: 2010
-status_company: acquired
-acquired_by: "Meta (Facebook)"
-sector: [social, consumer-internet, mobile, photo-sharing]
-stage_latest: "Series B"
-total_raised: "$57.5M"
-investors:
-  - slug: steve-anderson
-    round: seed
-    year: 2010
-  - slug: matt-cohler
-    round: series-a
-    year: 2011
+acquired_by: Meta (Facebook)
 firms:
-  - slug: baseline-ventures
-    round: seed
-    year: 2010
-  - slug: andreessen-horowitz
-    round: seed
-    year: 2010
-  - slug: benchmark
-    round: series-a
-    year: 2011
-  - slug: sequoia-capital
-    round: series-b
-    year: 2012
-  - slug: thrive-capital
-    round: series-b
-    year: 2012
-  - slug: greylock
-    round: series-b
-    year: 2012
+- round: seed
+  slug: baseline-ventures
+  year: 2010
+- round: seed
+  slug: andreessen-horowitz
+  year: 2010
+- round: series-a
+  slug: benchmark
+  year: 2011
+- round: series-b
+  slug: sequoia-capital
+  year: 2012
+- round: series-b
+  slug: thrive-capital
+  year: 2012
+- round: series-b
+  slug: greylock
+  year: 2012
+- round: Series A
+  slug: lowercase-capital
+  year: 2011
+- round: Series A
+  slug: independent
+  year: 2011
+founded: 2010
 founders:
-  - name: "Kevin Systrom"
-    role: "CEO & Co-Founder"
-  - name: "Mike Krieger"
-    role: "CTO & Co-Founder"
-status: published
+- name: Kevin Systrom
+  role: CEO & Co-Founder
+- name: Mike Krieger
+  role: CTO & Co-Founder
+investors:
+- round: seed
+  slug: steve-anderson
+  year: 2010
+- round: series-a
+  slug: matt-cohler
+  year: 2011
+- round: Seed (led)
+  slug: roelof-botha
+  year: 2010
+- round: Series A
+  slug: chris-sacca
+  year: 2011
+- round: Series A
+  slug: jack-dorsey
+  year: 2011
 last_researched: 2026-03-17
+location: San Francisco, CA
+name: Instagram
+sector:
+- social
+- consumer-internet
+- mobile
+- photo-sharing
+slug: instagram
+stage_latest: Series B
+status: published
+status_company: acquired
+total_raised: $57.5M
+type: startup
+website: https://instagram.com
 ---
 
 ## About

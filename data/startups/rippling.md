@@ -1,41 +1,62 @@
 ---
-name: "Rippling"
-slug: rippling
-type: startup
-website: "https://rippling.com"
-location: "San Francisco, CA"
-founded: 2016
-status_company: active
-sector: [hr-tech, enterprise-saas, workforce-management]
-stage_latest: "Series G"
-total_raised: "$1.85B"
-investors:
-  - slug: elad-gil
-    round: series-g
-    year: 2025
 firms:
-  - slug: kleiner-perkins
-    round: series-a
-    year: 2019
-  - slug: y-combinator
-    round: seed
-    year: 2017
-  - slug: founders-fund
-    round: series-b
-    year: 2020
-  - slug: coatue-management
-    round: series-b
-    year: 2020
-  - slug: sequoia-capital
-    round: series-c
-    year: 2021
+- round: series-a
+  slug: kleiner-perkins
+  year: 2019
+- round: seed
+  slug: y-combinator
+  year: 2017
+- round: series-b
+  slug: founders-fund
+  year: 2020
+- round: series-b
+  slug: coatue-management
+  year: 2020
+- round: series-c
+  slug: sequoia-capital
+  year: 2021
+- round: Seed
+  slug: sv-angel
+  year: 2017
+- round: Series B
+  slug: greenoaks-capital
+  year: 2020
+- round: Early stage (later Series G)
+  slug: independent
+  year: 2019
+founded: 2016
 founders:
-  - name: "Parker Conrad"
-    role: "CEO & Co-Founder"
-  - name: "Prasanna Sankar"
-    role: "CTO & Co-Founder"
-status: published
+- name: Parker Conrad
+  role: CEO & Co-Founder
+- name: Prasanna Sankar
+  role: CTO & Co-Founder
+investors:
+- round: series-g
+  slug: elad-gil
+  year: 2025
+- round: Seed
+  slug: ron-conway
+  year: 2017
+- round: Seed
+  slug: garry-tan
+  year: 2017
+- round: Series B
+  slug: neil-mehta
+  year: 2020
 last_researched: 2026-03-17
+location: San Francisco, CA
+name: Rippling
+sector:
+- hr-tech
+- enterprise-saas
+- workforce-management
+slug: rippling
+stage_latest: Series G
+status: published
+status_company: active
+total_raised: $1.85B
+type: startup
+website: https://rippling.com
 ---
 
 ## About

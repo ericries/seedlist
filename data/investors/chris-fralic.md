@@ -1,22 +1,29 @@
 ---
-name: "Chris Fralic"
-slug: chris-fralic
-type: individual
+check_size: $500K-$3M
 firm: first-round-capital
-role: "Board Partner"
-location: "Philadelphia, PA"
-stage_focus: [seed]
-sector_focus: [ad-tech, gaming, ecommerce, connected-devices, social, consumer]
-check_size: "$500K-$3M"
-last_verified_investment:
-  date: "~2016"
-  company: "Rec Room"
-  round: "Seed"
-social:
-  twitter: "@chrisfralic"
-  linkedin: "linkedin.com/in/chrisfralic"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Percolate
+  date: ~2019
+  round: Seed
+location: Philadelphia, PA
+name: Chris Fralic
+role: Board Partner
+sector_focus:
+- ad-tech
+- gaming
+- ecommerce
+- connected-devices
+- social
+- consumer
+slug: chris-fralic
+social:
+  linkedin: linkedin.com/in/chrisfralic
+  twitter: '@chrisfralic'
+stage_focus:
+- seed
+status: published
+type: individual
 ---
 
 ## Background

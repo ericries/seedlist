@@ -1,31 +1,79 @@
 ---
-name: "Airbnb"
-slug: airbnb
-type: startup
-website: "https://www.airbnb.com"
-location: "San Francisco, CA"
-founded: 2008
-status_company: ipo
-sector: [marketplaces, travel, hospitality]
-stage_latest: "IPO"
-total_raised: "$6.4B"
-investors:
-  - slug: ron-conway
-    round: Series A
-    year: 2010
 firms:
-  - slug: sv-angel
-    round: Series A
-    year: 2010
+- round: Series A
+  slug: sv-angel
+  year: 2010
+- round: Growth
+  slug: sequoia-capital
+  year: 2012
+- round: Growth
+  slug: bond
+  year: 2014
+- round: Series C+
+  slug: fj-labs
+  year: 2014
+- round: Growth/IPO
+  slug: tcv
+  year: 2015
+- round: Series B
+  slug: dst-global
+  year: 2011
+- round: Seed/Series A
+  slug: a-star-capital
+  year: 2009
+- round: Series A
+  slug: independent
+  year: 2010
+founded: 2008
 founders:
-  - name: "Brian Chesky"
-    role: "CEO & Co-Founder"
-  - name: "Joe Gebbia"
-    role: "Co-Founder"
-  - name: "Nathan Blecharczyk"
-    role: "CTO & Co-Founder"
-status: published
+- name: Brian Chesky
+  role: CEO & Co-Founder
+- name: Joe Gebbia
+  role: Co-Founder
+- name: Nathan Blecharczyk
+  role: CTO & Co-Founder
+investors:
+- round: Series A
+  slug: ron-conway
+  year: 2010
+- round: Growth
+  slug: alfred-lin
+  year: 2012
+- round: Growth
+  slug: mary-meeker
+  year: 2014
+- round: Series C+
+  slug: jose-marin
+  year: 2014
+- round: Growth/IPO
+  slug: jay-hoag
+  year: 2015
+- round: Series B
+  slug: yuri-milner
+  year: 2011
+- round: Series C
+  slug: fabrice-grinda
+  year: 2012
+- round: Seed/Series A
+  slug: kevin-hartz
+  year: 2009
+- round: Series A
+  slug: elad-gil
+  year: 2010
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Airbnb
+sector:
+- marketplaces
+- travel
+- hospitality
+slug: airbnb
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $6.4B
+type: startup
+website: https://www.airbnb.com
 ---
 
 ## About

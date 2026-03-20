@@ -1,39 +1,73 @@
 ---
-name: "Databricks"
-slug: databricks
-type: startup
-website: "https://www.databricks.com"
-location: "San Francisco, CA"
-founded: 2013
-status_company: active
-sector: [data-analytics, artificial-intelligence, cloud-infrastructure, big-data]
-stage_latest: "Series L"
-total_raised: "$20.2B"
-investors:
-  - slug: ron-conway
-    round: early backer
-    year: 2014
 firms:
-  - slug: sv-angel
-    round: growth
-    year: 2019
+- round: growth
+  slug: sv-angel
+  year: 2019
+- round: Early
+  slug: dcvc
+  year: 2014
+- round: Growth
+  slug: cedar-capital-group
+  year: 2019
+- round: ~2021
+  slug: coatue-management
+  year: 2021
+- round: Private
+  slug: tiger-global
+  year: 2020
+- round: Series G ($1B)
+  slug: greenoaks-capital
+  year: 2021
+founded: 2013
 founders:
-  - name: "Ali Ghodsi"
-    role: "CEO"
-  - name: "Ion Stoica"
-    role: "Co-founder, Executive Chairman"
-  - name: "Matei Zaharia"
-    role: "Co-founder, CTO (former)"
-  - name: "Patrick Wendell"
-    role: "Co-founder"
-  - name: "Reynold Xin"
-    role: "Co-founder"
-  - name: "Andy Konwinski"
-    role: "Co-founder"
-  - name: "Arsalan Tavakoli-Shiraji"
-    role: "Co-founder"
-status: published
+- name: Ali Ghodsi
+  role: CEO
+- name: Ion Stoica
+  role: Co-founder, Executive Chairman
+- name: Matei Zaharia
+  role: Co-founder, CTO (former)
+- name: Patrick Wendell
+  role: Co-founder
+- name: Reynold Xin
+  role: Co-founder
+- name: Andy Konwinski
+  role: Co-founder
+- name: Arsalan Tavakoli-Shiraji
+  role: Co-founder
+investors:
+- round: early backer
+  slug: ron-conway
+  year: 2014
+- round: Early
+  slug: matthew-ocko
+  year: 2014
+- round: Growth
+  slug: john-curtius
+  year: 2019
+- round: ~2021
+  slug: philippe-laffont
+  year: 2021
+- round: Private
+  slug: chase-coleman
+  year: 2020
+- round: Series G ($1B)
+  slug: neil-mehta
+  year: 2021
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Databricks
+sector:
+- data-analytics
+- artificial-intelligence
+- cloud-infrastructure
+- big-data
+slug: databricks
+stage_latest: Series L
+status: published
+status_company: active
+total_raised: $20.2B
+type: startup
+website: https://www.databricks.com
 ---
 
 ## About

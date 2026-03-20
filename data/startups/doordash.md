@@ -1,33 +1,99 @@
 ---
-name: "DoorDash"
-slug: doordash
-type: startup
-website: "https://www.doordash.com"
-location: "San Francisco, California"
-founded: 2013
-status_company: ipo
-sector: [food-delivery, logistics, marketplace]
-stage_latest: "IPO"
-total_raised: "$2.5B"
-investors:
-  - slug: ron-conway
-    round: seed
-    year: 2013
 firms:
-  - slug: sv-angel
-    round: seed
-    year: 2013
+- round: seed
+  slug: sv-angel
+  year: 2013
+- round: Series A
+  slug: sequoia-capital
+  year: 2014
+- round: Seed ($250K)
+  slug: pear-vc
+  year: 2013
+- round: Series E
+  slug: dst-global
+  year: 2018
+- round: '2018'
+  slug: coatue-management
+  year: 2018
+- round: Seed
+  slug: y-combinator
+  year: 2013
+- round: Growth
+  slug: first-harmonic
+  year: 2017
+- round: Seed
+  slug: benchmark
+  year: 2013
+- round: Consumer
+  slug: lone-pine-capital
+  year: 2025
+- round: Series B
+  slug: kleiner-perkins
+  year: 2015
+- round: '2025'
+  slug: octahedron-capital
+  year: 2025
+founded: 2013
 founders:
-  - name: "Tony Xu"
-    role: "CEO"
-  - name: "Stanley Tang"
-    role: "Co-Founder"
-  - name: "Andy Fang"
-    role: "Co-Founder"
-  - name: "Evan Moore"
-    role: "Co-Founder"
-status: published
+- name: Tony Xu
+  role: CEO
+- name: Stanley Tang
+  role: Co-Founder
+- name: Andy Fang
+  role: Co-Founder
+- name: Evan Moore
+  role: Co-Founder
+investors:
+- round: seed
+  slug: ron-conway
+  year: 2013
+- round: Series A
+  slug: alfred-lin
+  year: 2014
+- round: Seed ($250K)
+  slug: pejman-nozad
+  year: 2013
+- round: Series E
+  slug: yuri-milner
+  year: 2018
+- round: '2018'
+  slug: philippe-laffont
+  year: 2018
+- round: Seed
+  slug: garry-tan
+  year: 2013
+- round: Growth
+  slug: ali-rowghani
+  year: 2017
+- round: Seed
+  slug: mar-hershenson
+  year: 2013
+- round: Seed
+  slug: andy-rachleff
+  year: 2013
+- round: Consumer
+  slug: stephen-mandel
+  year: 2025
+- round: Series B
+  slug: john-doerr
+  year: 2015
+- round: '2025'
+  slug: ram-parameswaran
+  year: 2025
 last_researched: 2026-03-13
+location: San Francisco, California
+name: DoorDash
+sector:
+- food-delivery
+- logistics
+- marketplace
+slug: doordash
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $2.5B
+type: startup
+website: https://www.doordash.com
 ---
 
 ## About

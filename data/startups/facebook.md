@@ -1,35 +1,80 @@
 ---
-name: "Facebook"
-slug: facebook
-type: startup
-website: "https://about.meta.com"
-location: "Menlo Park, CA"
-founded: 2004
-status_company: ipo
-sector: [social, consumer-internet, advertising]
-stage_latest: "IPO"
-total_raised: "$2.3B"
-investors:
-  - slug: ron-conway
-    round: Angel
-    year: 2005
 firms:
-  - slug: sv-angel
-    round: Angel
-    year: 2005
+- round: Angel
+  slug: sv-angel
+  year: 2005
+- round: Early
+  slug: dcvc
+  year: 2008
+- round: Pre-IPO
+  slug: tcv
+  year: 2010
+- round: '2017'
+  slug: blue-ridge-capital
+  year: 2017
+- round: Growth (pre-IPO)
+  slug: dst-global
+  year: 2009
+- round: Early
+  slug: acrew-capital
+  year: 2005
+- round: Private (early)
+  slug: tiger-global
+  year: 2005
+- round: '2012'
+  slug: altimeter-capital
+  year: 2012
+founded: 2004
 founders:
-  - name: "Mark Zuckerberg"
-    role: "CEO & Co-Founder"
-  - name: "Eduardo Saverin"
-    role: "Co-Founder"
-  - name: "Dustin Moskovitz"
-    role: "Co-Founder"
-  - name: "Chris Hughes"
-    role: "Co-Founder"
-  - name: "Andrew McCollum"
-    role: "Co-Founder"
-status: published
+- name: Mark Zuckerberg
+  role: CEO & Co-Founder
+- name: Eduardo Saverin
+  role: Co-Founder
+- name: Dustin Moskovitz
+  role: Co-Founder
+- name: Chris Hughes
+  role: Co-Founder
+- name: Andrew McCollum
+  role: Co-Founder
+investors:
+- round: Angel
+  slug: ron-conway
+  year: 2005
+- round: Early
+  slug: matthew-ocko
+  year: 2008
+- round: Pre-IPO
+  slug: jay-hoag
+  year: 2010
+- round: '2017'
+  slug: john-griffin
+  year: 2017
+- round: Growth (pre-IPO)
+  slug: yuri-milner
+  year: 2009
+- round: Early
+  slug: theresia-gouw
+  year: 2005
+- round: Private (early)
+  slug: chase-coleman
+  year: 2005
+- round: '2012'
+  slug: brad-gerstner
+  year: 2012
 last_researched: 2026-03-13
+location: Menlo Park, CA
+name: Facebook
+sector:
+- social
+- consumer-internet
+- advertising
+slug: facebook
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $2.3B
+type: startup
+website: https://about.meta.com
 ---
 
 ## About

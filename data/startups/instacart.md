@@ -1,31 +1,95 @@
 ---
-name: "Instacart"
-slug: instacart
-type: startup
-website: "https://www.instacart.com"
-location: "San Francisco, California"
-founded: 2012
-status_company: ipo
-sector: [grocery-delivery, logistics, marketplace, e-commerce]
-stage_latest: "IPO"
-total_raised: "$2.9B"
-investors:
-  - slug: ron-conway
-    round: Series A
-    year: 2013
 firms:
-  - slug: sv-angel
-    round: Series A
-    year: 2013
+- round: Series A
+  slug: sv-angel
+  year: 2013
+- round: Series A (Sequoia-led; Lin not individually confirmed)
+  slug: sequoia-capital
+  year: 2013
+- round: Growth
+  slug: bond
+  year: 2015
+- round: Growth
+  slug: dst-global
+  year: 2020
+- round: ~2020
+  slug: coatue-management
+  year: 2020
+- round: Seed
+  slug: y-combinator
+  year: 2012
+- round: '2020'
+  slug: d1-capital-partners
+  year: 2020
+- round: Early
+  slug: fj-labs
+  year: 2014
+- round: Late growth
+  slug: avra
+  year: 2018
+- round: Early stage
+  slug: independent
+  year: 2013
+founded: 2012
 founders:
-  - name: "Apoorva Mehta"
-    role: "CEO & Founder"
-  - name: "Max Mullen"
-    role: "Co-Founder"
-  - name: "Brandon Leonardo"
-    role: "Co-Founder"
-status: published
+- name: Apoorva Mehta
+  role: CEO & Founder
+- name: Max Mullen
+  role: Co-Founder
+- name: Brandon Leonardo
+  role: Co-Founder
+investors:
+- round: Series A
+  slug: ron-conway
+  year: 2013
+- round: Series A (Sequoia-led; Lin not individually confirmed)
+  slug: alfred-lin
+  year: 2013
+- round: Growth
+  slug: mary-meeker
+  year: 2015
+- round: Board seat (public)
+  slug: ravi-gupta
+  year: 2023
+- round: Growth
+  slug: yuri-milner
+  year: 2020
+- round: ~2020
+  slug: philippe-laffont
+  year: 2020
+- round: Seed
+  slug: garry-tan
+  year: 2012
+- round: '2020'
+  slug: dan-sundheim
+  year: 2020
+- round: Early
+  slug: fabrice-grinda
+  year: 2014
+- round: Late growth
+  slug: anu-hariharan
+  year: 2018
+- round: Early stage
+  slug: elad-gil
+  year: 2013
+- round: Series B
+  slug: michael-moritz
+  year: 2013
 last_researched: 2026-03-13
+location: San Francisco, California
+name: Instacart
+sector:
+- grocery-delivery
+- logistics
+- marketplace
+- e-commerce
+slug: instacart
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $2.9B
+type: startup
+website: https://www.instacart.com
 ---
 
 ## About

@@ -1,35 +1,51 @@
 ---
-name: "Okta"
-slug: okta
-type: startup
-website: "https://www.okta.com"
-location: "San Francisco, CA"
-founded: 2009
-status_company: ipo
-sector: [identity-management, enterprise-saas, cloud-security, cybersecurity]
-stage_latest: "IPO"
-total_raised: "$228M (pre-IPO venture rounds)"
-investors:
-  - slug: ron-conway
-    round: Series F
-    year: 2015
-  - slug: mike-maples
-    round: Series B
-    year: 2011
 firms:
-  - slug: sv-angel
-    round: Series F
-    year: 2015
-  - slug: floodgate
-    round: Series B
-    year: 2011
+- round: Series F
+  slug: sv-angel
+  year: 2015
+- round: Series B
+  slug: floodgate
+  year: 2011
+- round: Series E (Growth)
+  slug: sequoia-capital
+  year: 2014
+- round: ~2017
+  slug: altimeter-capital
+  year: 2017
+founded: 2009
 founders:
-  - name: "Todd McKinnon"
-    role: "Co-Founder & CEO"
-  - name: "Frederic Kerrest"
-    role: "Co-Founder & COO"
-status: published
+- name: Todd McKinnon
+  role: Co-Founder & CEO
+- name: Frederic Kerrest
+  role: Co-Founder & COO
+investors:
+- round: Series F
+  slug: ron-conway
+  year: 2015
+- round: Series B
+  slug: mike-maples
+  year: 2011
+- round: Series E (Growth)
+  slug: pat-grady
+  year: 2014
+- round: ~2017
+  slug: brad-gerstner
+  year: 2017
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Okta
+sector:
+- identity-management
+- enterprise-saas
+- cloud-security
+- cybersecurity
+slug: okta
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $228M (pre-IPO venture rounds)
+type: startup
+website: https://www.okta.com
 ---
 
 ## About

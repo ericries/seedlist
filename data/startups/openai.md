@@ -1,39 +1,87 @@
 ---
-name: "OpenAI"
-slug: openai
-type: startup
-website: "https://openai.com"
-location: "San Francisco, CA"
-founded: 2015
-status_company: active
-sector: [artificial-intelligence, AGI, machine-learning]
-stage_latest: "Series F"
-total_raised: "$168B+"
-investors:
-  - slug: ron-conway
-    round: early backer
-    year: 2015
 firms:
-  - slug: sv-angel
-    round: early backer
-    year: 2015
+- round: early backer
+  slug: sv-angel
+  year: 2015
+- round: Growth
+  slug: sequoia-capital
+  year: 2021
+- round: Growth
+  slug: cedar-capital-group
+  year: 2021
+- round: Late stage
+  slug: independent
+  year: 2023
+- round: ~2023
+  slug: coatue-management
+  year: 2023
+- round: ~2024
+  slug: d1-capital-partners
+  year: 2024
+- round: Private (<$16B valuation)
+  slug: tiger-global
+  year: 2021
+founded: 2015
 founders:
-  - name: "Sam Altman"
-    role: "CEO"
-  - name: "Greg Brockman"
-    role: "President (former CTO)"
-  - name: "Ilya Sutskever"
-    role: "Co-founder (former Chief Scientist)"
-  - name: "Elon Musk"
-    role: "Co-founder (departed 2018)"
-  - name: "Wojciech Zaremba"
-    role: "Co-founder"
-  - name: "John Schulman"
-    role: "Co-founder"
-  - name: "Andrej Karpathy"
-    role: "Co-founder (departed)"
-status: published
+- name: Sam Altman
+  role: CEO
+- name: Greg Brockman
+  role: President (former CTO)
+- name: Ilya Sutskever
+  role: Co-founder (former Chief Scientist)
+- name: Elon Musk
+  role: Co-founder (departed 2018)
+- name: Wojciech Zaremba
+  role: Co-founder
+- name: John Schulman
+  role: Co-founder
+- name: Andrej Karpathy
+  role: Co-founder (departed)
+investors:
+- round: early backer
+  slug: ron-conway
+  year: 2015
+- round: Growth
+  slug: alfred-lin
+  year: 2021
+- round: Growth
+  slug: sonya-huang
+  year: 2021
+- round: Growth
+  slug: john-curtius
+  year: 2021
+- round: Late stage
+  slug: lachy-groom
+  year: 2023
+- round: ~2023
+  slug: philippe-laffont
+  year: 2023
+- round: ~2024
+  slug: dan-sundheim
+  year: 2024
+- round: Private (<$16B valuation)
+  slug: chase-coleman
+  year: 2021
+- round: Growth
+  slug: elad-gil
+  year: 2023
+- round: Growth
+  slug: pat-grady
+  year: 2021
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: OpenAI
+sector:
+- artificial-intelligence
+- AGI
+- machine-learning
+slug: openai
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $168B+
+type: startup
+website: https://openai.com
 ---
 
 ## About

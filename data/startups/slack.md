@@ -1,34 +1,56 @@
 ---
-name: "Slack"
-slug: slack
-type: startup
-website: "https://slack.com"
-location: "San Francisco, CA"
-founded: 2009
-status_company: acquired
-acquired_by: "Salesforce"
-sector: [enterprise-saas, collaboration, messaging, productivity]
-stage_latest: "Series H"
-total_raised: "$1.4B"
-investors:
-  - slug: ron-conway
-    round: seed
-    year: 2009
+acquired_by: Salesforce
 firms:
-  - slug: sv-angel
-    round: seed
-    year: 2009
+- round: seed
+  slug: sv-angel
+  year: 2009
+- round: Growth
+  slug: bond
+  year: 2014
+- round: Growth
+  slug: index-ventures
+  year: 2015
+- round: Series E
+  slug: dst-global
+  year: 2015
+founded: 2009
 founders:
-  - name: "Stewart Butterfield"
-    role: "Co-Founder & CEO"
-  - name: "Cal Henderson"
-    role: "Co-Founder & CTO"
-  - name: "Eric Costello"
-    role: "Co-Founder"
-  - name: "Serguei Mourachov"
-    role: "Co-Founder"
-status: published
+- name: Stewart Butterfield
+  role: Co-Founder & CEO
+- name: Cal Henderson
+  role: Co-Founder & CTO
+- name: Eric Costello
+  role: Co-Founder
+- name: Serguei Mourachov
+  role: Co-Founder
+investors:
+- round: seed
+  slug: ron-conway
+  year: 2009
+- round: Growth
+  slug: mary-meeker
+  year: 2014
+- round: Growth
+  slug: mike-volpi
+  year: 2015
+- round: Series E
+  slug: yuri-milner
+  year: 2015
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Slack
+sector:
+- enterprise-saas
+- collaboration
+- messaging
+- productivity
+slug: slack
+stage_latest: Series H
+status: published
+status_company: acquired
+total_raised: $1.4B
+type: startup
+website: https://slack.com
 ---
 
 ## About

@@ -1,21 +1,29 @@
 ---
-name: "Kevin Harvey"
-slug: kevin-harvey
-type: individual
+check_size: $1M-$15M
 firm: benchmark
-role: "Founder & General Partner"
-location: "Menlo Park, CA"
-stage_focus: [series-a, series-b]
-sector_focus: [enterprise-software, open-source, cloud-infrastructure, developer-tools, marketplaces, education]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2012
-  company: "Minerva Project"
-  round: "Seed"
-social:
-  linkedin: "linkedin.com/in/kevinharvey2"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: CollabNet
+  date: ~2019
+  round: Early
+location: Menlo Park, CA
+name: Kevin Harvey
+role: Founder & General Partner
+sector_focus:
+- enterprise-software
+- open-source
+- cloud-infrastructure
+- developer-tools
+- marketplaces
+- education
+slug: kevin-harvey
+social:
+  linkedin: linkedin.com/in/kevinharvey2
+stage_focus:
+- series-a
+- series-b
+status: published
+type: individual
 ---
 
 ## Background

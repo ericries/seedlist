@@ -1,29 +1,58 @@
 ---
-name: "Google"
-slug: google
-type: startup
-website: "https://www.google.com"
-location: "Mountain View, CA"
-founded: 1998
-status_company: ipo
-sector: [search, advertising, cloud, ai, consumer-internet]
-stage_latest: "IPO"
-total_raised: "$26M (pre-IPO venture rounds)"
-investors:
-  - slug: ron-conway
-    round: angel
-    year: 1999
 firms:
-  - slug: sv-angel
-    round: angel
-    year: 1999
+- round: angel
+  slug: sv-angel
+  year: 1999
+- round: '2008'
+  slug: blue-ridge-capital
+  year: 2008
+- round: Technology
+  slug: tiger-management
+  year: 2004
+- round: Series A
+  slug: sequoia-capital
+  year: 1999
+- round: Series A
+  slug: kleiner-perkins
+  year: 1999
+founded: 1998
 founders:
-  - name: "Larry Page"
-    role: "Co-Founder & CEO"
-  - name: "Sergey Brin"
-    role: "Co-Founder & President"
-status: published
+- name: Larry Page
+  role: Co-Founder & CEO
+- name: Sergey Brin
+  role: Co-Founder & President
+investors:
+- round: angel
+  slug: ron-conway
+  year: 1999
+- round: '2008'
+  slug: john-griffin
+  year: 2008
+- round: Technology
+  slug: julian-robertson
+  year: 2004
+- round: Series A
+  slug: michael-moritz
+  year: 1999
+- round: Series A
+  slug: john-doerr
+  year: 1999
 last_researched: 2026-03-13
+location: Mountain View, CA
+name: Google
+sector:
+- search
+- advertising
+- cloud
+- ai
+- consumer-internet
+slug: google
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $26M (pre-IPO venture rounds)
+type: startup
+website: https://www.google.com
 ---
 
 ## About

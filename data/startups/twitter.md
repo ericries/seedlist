@@ -1,40 +1,79 @@
 ---
-name: "Twitter"
-slug: twitter
-type: startup
-website: "https://x.com"
-location: "San Francisco, CA"
-founded: 2006
-status_company: acquired
-acquired_by: "Elon Musk (X Corp)"
-sector: [social-media, consumer-internet, messaging]
-stage_latest: "IPO"
-total_raised: "$1.8B+ (venture rounds pre-IPO)"
-investors:
-  - slug: ron-conway
-    round: angel
-    year: 2007
-  - slug: mike-maples
-    round: angel
-    year: 2007
+acquired_by: Elon Musk (X Corp)
 firms:
-  - slug: sv-angel
-    round: angel
-    year: 2007
-  - slug: floodgate
-    round: angel
-    year: 2007
+- round: angel
+  slug: sv-angel
+  year: 2007
+- round: angel
+  slug: floodgate
+  year: 2007
+- round: Series C ($35M)
+  slug: benchmark
+  year: 2009
+- round: Growth (pre-IPO)
+  slug: dst-global
+  year: 2011
+- round: Take-Private
+  slug: sequoia-capital
+  year: 2022
+- round: Angel ($25K)
+  slug: lowercase-capital
+  year: 2006
+- round: Seed
+  slug: baseline-ventures
+  year: 2007
+- round: Growth
+  slug: kleiner-perkins
+  year: 2012
+founded: 2006
 founders:
-  - name: "Jack Dorsey"
-    role: "Co-Founder & CEO"
-  - name: "Evan Williams"
-    role: "Co-Founder & CEO (2008-2010)"
-  - name: "Biz Stone"
-    role: "Co-Founder"
-  - name: "Noah Glass"
-    role: "Co-Founder"
-status: published
+- name: Jack Dorsey
+  role: Co-Founder & CEO
+- name: Evan Williams
+  role: Co-Founder & CEO (2008-2010)
+- name: Biz Stone
+  role: Co-Founder
+- name: Noah Glass
+  role: Co-Founder
+investors:
+- round: angel
+  slug: ron-conway
+  year: 2007
+- round: angel
+  slug: mike-maples
+  year: 2007
+- round: Series C ($35M)
+  slug: peter-fenton
+  year: 2009
+- round: Growth (pre-IPO)
+  slug: yuri-milner
+  year: 2011
+- round: Take-Private
+  slug: shaun-maguire
+  year: 2022
+- round: Angel ($25K)
+  slug: chris-sacca
+  year: 2006
+- round: Seed
+  slug: steve-anderson
+  year: 2007
+- round: Growth
+  slug: john-doerr
+  year: 2012
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Twitter
+sector:
+- social-media
+- consumer-internet
+- messaging
+slug: twitter
+stage_latest: IPO
+status: published
+status_company: acquired
+total_raised: $1.8B+ (venture rounds pre-IPO)
+type: startup
+website: https://x.com
 ---
 
 ## About

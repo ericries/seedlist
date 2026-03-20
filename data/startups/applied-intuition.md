@@ -1,47 +1,78 @@
 ---
-name: "Applied Intuition"
-slug: applied-intuition
-type: startup
-website: "https://www.appliedintuition.com"
-location: "Mountain View, CA"
-founded: 2017
-status_company: active
-sector: [autonomous-vehicles, simulation, defense, AI]
-stage_latest: "Series F"
-total_raised: "$1.2B"
-investors:
-  - slug: elad-gil
-    round: series-d
-    year: 2021
-  - slug: elad-gil
-    round: series-e
-    year: 2024
 firms:
-  - slug: floodgate
-    round: series-a
-    year: 2018
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2018
-  - slug: general-catalyst
-    round: series-b
-    year: 2019
-  - slug: kleiner-perkins
-    round: series-b
-    year: 2019
-  - slug: coatue-management
-    round: series-d
-    year: 2021
-  - slug: kleiner-perkins
-    round: series-f
-    year: 2025
+- round: series-a
+  slug: floodgate
+  year: 2018
+- round: series-a
+  slug: andreessen-horowitz
+  year: 2018
+- round: series-b
+  slug: general-catalyst
+  year: 2019
+- round: series-b
+  slug: kleiner-perkins
+  year: 2019
+- round: series-d
+  slug: coatue-management
+  year: 2021
+- round: series-f
+  slug: kleiner-perkins
+  year: 2025
+- round: Series E
+  slug: bond
+  year: 2024
+- round: Seed
+  slug: lux-capital
+  year: 2017
+- round: Series D (co-led)
+  slug: independent
+  year: 2021
+- round: Series D ($175M, co-led)
+  slug: addition
+  year: 2021
+founded: 2017
 founders:
-  - name: "Qasar Younis"
-    role: "CEO & Co-Founder"
-  - name: "Peter Ludwig"
-    role: "CTO & Co-Founder"
-status: published
+- name: Qasar Younis
+  role: CEO & Co-Founder
+- name: Peter Ludwig
+  role: CTO & Co-Founder
+investors:
+- round: series-d
+  slug: elad-gil
+  year: 2021
+- round: series-e
+  slug: elad-gil
+  year: 2024
+- round: Series E
+  slug: mary-meeker
+  year: 2024
+- round: Seed
+  slug: bilal-zuberi
+  year: 2017
+- round: ~2021
+  slug: philippe-laffont
+  year: 2021
+- round: Seed
+  slug: mike-maples
+  year: 2017
+- round: Series D ($175M, co-led)
+  slug: lee-fixel
+  year: 2021
 last_researched: 2026-03-17
+location: Mountain View, CA
+name: Applied Intuition
+sector:
+- autonomous-vehicles
+- simulation
+- defense
+- AI
+slug: applied-intuition
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $1.2B
+type: startup
+website: https://www.appliedintuition.com
 ---
 
 ## About

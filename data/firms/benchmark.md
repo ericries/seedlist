@@ -1,31 +1,68 @@
 ---
-name: "Benchmark"
-slug: benchmark
-type: firm
-website: "https://benchmark.com"
-location: "San Francisco, CA"
 founded: 1995
-fund_size: "$425M per fund (Fund XI, 2024); ~$4.8B total AUM across 28 funds"
-stage_focus: [series-a, series-b]
-sector_focus: [enterprise-software, marketplaces, consumer-internet, infrastructure, ai]
-team:
-  - slug: peter-fenton
-    role: "General Partner"
-    name: "Peter Fenton"
-  - slug: eric-vishria
-    role: "General Partner"
-    name: "Eric Vishria"
-  - slug: chetan-puttagunta
-    role: "General Partner"
-    name: "Chetan Puttagunta"
-  - slug: everett-randle
-    role: "General Partner"
-    name: "Everett Randle"
-  - slug: jack-altman
-    role: "General Partner"
-    name: "Jack Altman"
-status: published
+fund_size: $425M per fund (Fund XI, 2024); ~$4.8B total AUM across 28 funds
 last_researched: 2026-03-14
+location: San Francisco, CA
+name: Benchmark
+sector_focus:
+- enterprise-software
+- marketplaces
+- consumer-internet
+- infrastructure
+- ai
+slug: benchmark
+stage_focus:
+- series-a
+- series-b
+status: published
+team:
+- name: Peter Fenton
+  role: General Partner
+  slug: peter-fenton
+- name: Eric Vishria
+  role: General Partner
+  slug: eric-vishria
+- name: Chetan Puttagunta
+  role: General Partner
+  slug: chetan-puttagunta
+- name: Everett Randle
+  role: General Partner
+  slug: everett-randle
+- name: Jack Altman
+  role: General Partner
+  slug: jack-altman
+- name: Bruce Dunlevie
+  role: Founding General Partner
+  slug: bruce-dunlevie
+- name: Kevin Harvey
+  role: Founder & General Partner
+  slug: kevin-harvey
+- name: Victor Lazarte
+  role: General Partner (Former)
+  slug: victor-lazarte
+- name: Bob Kagle
+  role: General Partner (Emeritus)
+  slug: bob-kagle
+- name: Mitch Lasky
+  role: General Partner
+  slug: mitch-lasky
+- name: Sarah Tavel
+  role: Venture Partner (formerly General Partner)
+  slug: sarah-tavel
+- name: Matt Cohler
+  role: General Partner (former)
+  slug: matt-cohler
+- name: Andy Rachleff
+  role: Co-Founder (Emeritus)
+  slug: andy-rachleff
+- name: Bill Gurley
+  role: General Partner (Emeritus)
+  slug: bill-gurley
+- name: Rich Barton
+  role: Venture Partner (2005-2018)
+  slug: rich-barton
+type: firm
+website: https://benchmark.com
 ---
 
 ## About

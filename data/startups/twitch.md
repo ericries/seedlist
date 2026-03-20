@@ -1,37 +1,44 @@
 ---
-name: "Twitch"
-slug: twitch
-type: startup
-website: "https://www.twitch.tv"
-location: "San Francisco, CA"
-founded: 2007
-status_company: acquired
-acquired_by: "Amazon"
-sector: [live-streaming, gaming, video, consumer-internet]
-stage_latest: "Acquired"
-total_raised: "$35M+ (venture rounds pre-acquisition)"
-investors:
-  - slug: ron-conway
-    round: seed
-    year: 2007
-  - slug: mike-maples
-    round: seed
-    year: 2007
+acquired_by: Amazon
 firms:
-  - slug: floodgate
-    round: seed
-    year: 2007
+- round: seed
+  slug: floodgate
+  year: 2007
+- round: Seed
+  slug: sv-angel
+  year: 2011
+founded: 2007
 founders:
-  - name: "Justin Kan"
-    role: "Co-Founder"
-  - name: "Emmett Shear"
-    role: "Co-Founder & CEO"
-  - name: "Michael Seibel"
-    role: "Co-Founder & CEO (Justin.tv)"
-  - name: "Kyle Vogt"
-    role: "Co-Founder"
-status: published
+- name: Justin Kan
+  role: Co-Founder
+- name: Emmett Shear
+  role: Co-Founder & CEO
+- name: Michael Seibel
+  role: Co-Founder & CEO (Justin.tv)
+- name: Kyle Vogt
+  role: Co-Founder
+investors:
+- round: seed
+  slug: ron-conway
+  year: 2007
+- round: seed
+  slug: mike-maples
+  year: 2007
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Twitch
+sector:
+- live-streaming
+- gaming
+- video
+- consumer-internet
+slug: twitch
+stage_latest: Acquired
+status: published
+status_company: acquired
+total_raised: $35M+ (venture rounds pre-acquisition)
+type: startup
+website: https://www.twitch.tv
 ---
 
 ## About

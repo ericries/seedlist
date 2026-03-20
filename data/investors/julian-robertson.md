@@ -1,22 +1,22 @@
 ---
-name: "Julian Robertson"
-slug: julian-robertson
-type: individual
+check_size: ''
 firm: tiger-management
-role: "Founder (deceased 2022)"
-location: "New York, NY"
-stage_focus: []
-sector_focus: []
-check_size: ""
-last_verified_investment:
-  date:
-  company: ""
-  round: ""
-social:
-  twitter: ""
-  linkedin: ""
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Ratan Capital Management
+  date: ~2009
+  round: '2009'
+location: New York, NY
+name: Julian Robertson
+role: Founder (deceased 2022)
+sector_focus: []
+slug: julian-robertson
+social:
+  linkedin: ''
+  twitter: ''
+stage_focus: []
+status: published
+type: individual
 ---
 
 ## Background

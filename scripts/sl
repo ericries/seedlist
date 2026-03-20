@@ -28,6 +28,11 @@ Usage:
   sl enrich INPUT.csv [OUTPUT.csv]  Enrich a CSV with Seedlist investor/firm data
   sl review-sources     Review and process source URL submissions from GitHub Issues
   sl review-candidates  Review and process CSV candidate submissions from GitHub Issues
+  sl xref-backfill-startup SLUG|--all  Backfill startup frontmatter from investor portfolio tables
+  sl xref-reconcile-firm SLUG|--all    Bidirectional firm/investor consistency check
+  sl xref-compute-lvi SLUG|--all       Compute last_verified_investment from portfolio tables
+  sl xref-all [--dry-run]              Run all xref operations across the entire repo
+  sl xref-report SLUG                  Analysis report for an investor (co-investors, focus validation)
 """
 
 import sys
@@ -910,6 +915,12 @@ def cmd_post_batch():
         except SystemExit:
             pass  # auto-fix may exit on missing profiles; skip
 
+    # Cross-reference reconciliation (backfill startups, reconcile firms, compute LVI)
+    print("Running cross-reference backfill...")
+    cmd_xref_backfill_startup("--all")
+    cmd_xref_reconcile_firm("--all")
+    cmd_xref_compute_lvi("--all")
+
     # Now lint and publish
     passed = []
     failed = []
@@ -974,6 +985,9 @@ def cmd_post_batch():
                 run(f"git add {p}")
         run("git add data/queue.yaml")
         run("git add _site/", check=False)  # may be gitignored
+        # Stage xref-modified files (startups/firms/investors updated by cross-ref)
+        for subdir in ["startups", "firms", "investors"]:
+            run(f"git add data/{subdir}/", check=False)
         # Also stage any other non-draft changes (scripts, etc.)
         r = run("git diff --name-only", check=False)
         for f in (r.stdout or "").strip().split("\n"):
@@ -1525,15 +1539,504 @@ def cmd_publish_clean():
 def _normalize_company(name):
     """Normalize company name to a slug."""
     name = name.strip()
+    # Remove citation markers like [^1]
+    name = re.sub(r'\[\^\d+\]', '', name).strip()
     # Remove common suffixes
     for suffix in [", Inc.", ", Inc", " Inc.", " Inc", ", Corp.", " Corp.", " Corp",
-                   ", LLC", " LLC", ", Ltd.", " Ltd.", " Ltd"]:
+                   ", LLC", " LLC", ", Ltd.", " Ltd.", " Ltd", ", Co.", " Co.",
+                   ", LP", " LP", ", L.P.", " L.P."]:
         if name.endswith(suffix):
             name = name[:-len(suffix)]
     # Special case: "Facebook / Meta" -> "facebook"
     if "/" in name:
         name = name.split("/")[0].strip()
     return re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+
+
+def _normalize_company_variants(name):
+    """Return a set of normalized slug variants for a company name.
+    Handles parenthetical aliases like 'Block (Square)' -> {'block', 'square'}.
+    """
+    name = name.strip()
+    name = re.sub(r'\[\^\d+\]', '', name).strip()
+    variants = set()
+    # Handle parenthetical aliases: "Block (Square)" -> both "block" and "square"
+    paren_match = re.match(r'^(.+?)\s*\((.+?)\)\s*$', name)
+    if paren_match:
+        variants.add(_normalize_company(paren_match.group(1)))
+        variants.add(_normalize_company(paren_match.group(2)))
+    variants.add(_normalize_company(name))
+    return variants
+
+
+# ── Cross-Reference (xref) ───────────────────────────────────
+
+
+def _scan_investor_portfolios():
+    """Scan all investor profiles and extract portfolio entries.
+    Returns dict: normalized_company_name -> list of {investor_slug, firm_slug, year, stage, raw_name}
+    """
+    investors_dir = DATA / "investors"
+    if not investors_dir.exists():
+        return {}
+
+    portfolio_index = {}  # norm_name -> [entries]
+
+    for md_file in investors_dir.glob("*.md"):
+        post = frontmatter.load(md_file)
+        meta = post.metadata
+        investor_slug = meta.get("slug", md_file.stem)
+        firm_slug = meta.get("firm", "")
+        body = post.content
+
+        in_portfolio = False
+        for line in body.split("\n"):
+            if line.startswith("## Portfolio"):
+                in_portfolio = True
+                continue
+            if in_portfolio and line.startswith("## "):
+                break
+            if in_portfolio and line.startswith("|") and not re.match(r'^\|[-\s|]+\|$', line):
+                cells = [c.strip() for c in line.split("|")[1:-1]]
+                if not cells or cells[0].lower() == "company":
+                    continue
+                company_name = re.sub(r'\[\^\d+\]', '', cells[0]).strip()
+                if not company_name or company_name.lower() == "company":
+                    continue
+
+                year_match = re.search(r'~?(\d{4})', line)
+                year = int(year_match.group(1)) if year_match else None
+                stage = ""
+                if len(cells) > 2:
+                    stage = re.sub(r'\[\^\d+\]', '', cells[2]).strip()
+                if not stage and len(cells) > 1:
+                    stage = re.sub(r'\[\^\d+\]', '', cells[1]).strip()
+
+                for norm in _normalize_company_variants(company_name):
+                    if norm not in portfolio_index:
+                        portfolio_index[norm] = []
+                    portfolio_index[norm].append({
+                        "investor_slug": investor_slug,
+                        "firm_slug": firm_slug,
+                        "year": year,
+                        "stage": stage,
+                        "raw_name": company_name,
+                    })
+
+    return portfolio_index
+
+
+def cmd_xref_backfill_startup(slug_or_all, dry_run=False):
+    """Backfill startup frontmatter with investors/firms found in investor portfolio tables."""
+    startups_dir = DATA / "startups"
+    if not startups_dir.exists():
+        print("No startups directory found")
+        return
+
+    # Determine which startups to process
+    if slug_or_all == "--all":
+        targets = sorted(startups_dir.glob("*.md"))
+    else:
+        target = startups_dir / f"{slug_or_all}.md"
+        if not target.exists():
+            print(f"Startup profile not found: {slug_or_all}")
+            return
+        targets = [target]
+
+    # Build portfolio index from all investor profiles
+    portfolio_index = _scan_investor_portfolios()
+
+    updated_count = 0
+    added_refs = 0
+
+    for startup_path in targets:
+        post = frontmatter.load(startup_path)
+        meta = post.metadata
+        startup_name = meta.get("name", startup_path.stem)
+        startup_slug = meta.get("slug", startup_path.stem)
+
+        # Build set of normalized names for this startup
+        match_names = _normalize_company_variants(startup_name)
+        match_names.add(_normalize_company(startup_slug))
+
+        # Find matching entries in portfolio index
+        matches = []
+        for norm in match_names:
+            if norm in portfolio_index:
+                matches.extend(portfolio_index[norm])
+
+        if not matches:
+            continue
+
+        # Get existing investors and firms from frontmatter
+        existing_investors = set()
+        for inv in (meta.get("investors") or []):
+            if isinstance(inv, dict):
+                existing_investors.add(inv.get("slug", ""))
+            elif isinstance(inv, str):
+                existing_investors.add(inv)
+
+        existing_firms = set()
+        for firm in (meta.get("firms") or []):
+            if isinstance(firm, dict):
+                existing_firms.add(firm.get("slug", ""))
+            elif isinstance(firm, str):
+                existing_firms.add(firm)
+
+        # Find new entries to add
+        new_investors = []
+        new_firms = []
+        seen_new_investors = set()
+        seen_new_firms = set()
+
+        for entry in matches:
+            inv_slug = entry["investor_slug"]
+            if inv_slug not in existing_investors and inv_slug not in seen_new_investors:
+                inv_entry = {"slug": inv_slug}
+                if entry.get("stage"):
+                    inv_entry["round"] = entry["stage"]
+                if entry.get("year"):
+                    inv_entry["year"] = entry["year"]
+                new_investors.append(inv_entry)
+                seen_new_investors.add(inv_slug)
+
+            firm_slug = entry.get("firm_slug")
+            if firm_slug and firm_slug not in existing_firms and firm_slug not in seen_new_firms:
+                firm_entry = {"slug": firm_slug}
+                if entry.get("stage"):
+                    firm_entry["round"] = entry["stage"]
+                if entry.get("year"):
+                    firm_entry["year"] = entry["year"]
+                new_firms.append(firm_entry)
+                seen_new_firms.add(firm_slug)
+
+        if not new_investors and not new_firms:
+            continue
+
+        if dry_run:
+            inv_names = ", ".join(e["slug"] for e in new_investors)
+            firm_names = ", ".join(e["slug"] for e in new_firms)
+            parts = []
+            if new_investors:
+                parts.append(f"+{len(new_investors)} investors ({inv_names})")
+            if new_firms:
+                parts.append(f"+{len(new_firms)} firms ({firm_names})")
+            print(f"  {startup_slug}: {', '.join(parts)}")
+        else:
+            # Add new entries to frontmatter
+            if new_investors:
+                if not meta.get("investors"):
+                    meta["investors"] = []
+                meta["investors"].extend(new_investors)
+            if new_firms:
+                if not meta.get("firms"):
+                    meta["firms"] = []
+                meta["firms"].extend(new_firms)
+
+            # Write back — frontmatter only, preserve body
+            post.metadata = meta
+            startup_path.write_text(frontmatter.dumps(post))
+
+        updated_count += 1
+        added_refs += len(new_investors) + len(new_firms)
+
+    action = "Would update" if dry_run else "Updated"
+    print(f"xref-backfill-startup: {action} {updated_count} startups, added {added_refs} references")
+
+
+def cmd_xref_reconcile_firm(slug_or_all, dry_run=False):
+    """Bidirectional consistency between firm team: arrays and investor firm: fields."""
+    firms_dir = DATA / "firms"
+    investors_dir = DATA / "investors"
+    if not firms_dir.exists() or not investors_dir.exists():
+        print("No firms or investors directory found")
+        return
+
+    if slug_or_all == "--all":
+        targets = sorted(firms_dir.glob("*.md"))
+    else:
+        target = firms_dir / f"{slug_or_all}.md"
+        if not target.exists():
+            print(f"Firm profile not found: {slug_or_all}")
+            return
+        targets = [target]
+
+    fixes = 0
+
+    for firm_path in targets:
+        firm_post = frontmatter.load(firm_path)
+        firm_meta = firm_post.metadata
+        firm_slug = firm_meta.get("slug", firm_path.stem)
+        team = firm_meta.get("team") or []
+        team_slugs = set()
+        for member in team:
+            if isinstance(member, dict):
+                team_slugs.add(member.get("slug", ""))
+
+        firm_modified = False
+
+        # Direction 1: For each team member, check investor profile has correct firm: field
+        for member in team:
+            if not isinstance(member, dict):
+                continue
+            inv_slug = member.get("slug", "")
+            if not inv_slug:
+                continue
+            inv_path = investors_dir / f"{inv_slug}.md"
+            if not inv_path.exists():
+                continue
+
+            inv_post = frontmatter.load(inv_path)
+            inv_meta = inv_post.metadata
+            inv_firm = inv_meta.get("firm", "")
+
+            if inv_firm != firm_slug:
+                if dry_run:
+                    print(f"  {inv_slug}: firm field '{inv_firm}' -> '{firm_slug}'")
+                else:
+                    inv_meta["firm"] = firm_slug
+                    inv_post.metadata = inv_meta
+                    inv_path.write_text(frontmatter.dumps(inv_post))
+                fixes += 1
+
+        # Direction 2: Find investors with firm: field matching this firm, not in team
+        for inv_file in investors_dir.glob("*.md"):
+            inv_post = frontmatter.load(inv_file)
+            inv_meta = inv_post.metadata
+            inv_slug = inv_meta.get("slug", inv_file.stem)
+            inv_firm = inv_meta.get("firm", "")
+
+            if inv_firm == firm_slug and inv_slug not in team_slugs:
+                inv_name = inv_meta.get("name", inv_slug)
+                inv_role = inv_meta.get("role", "Unknown")
+                if dry_run:
+                    print(f"  {firm_slug}: missing team member {inv_slug} ({inv_name}, {inv_role})")
+                else:
+                    new_member = {"slug": inv_slug, "role": inv_role, "name": inv_name}
+                    if not firm_meta.get("team"):
+                        firm_meta["team"] = []
+                    firm_meta["team"].append(new_member)
+                    team_slugs.add(inv_slug)
+                    firm_modified = True
+                fixes += 1
+
+        # Write firm if modified (only in non-dry-run)
+        if not dry_run and firm_modified:
+            firm_post.metadata = firm_meta
+            firm_path.write_text(frontmatter.dumps(firm_post))
+
+    action = "Would fix" if dry_run else "Fixed"
+    print(f"xref-reconcile-firm: {action} {fixes} mismatches")
+
+
+def cmd_xref_compute_lvi(slug_or_all, dry_run=False):
+    """Compute last_verified_investment from portfolio table data."""
+    investors_dir = DATA / "investors"
+    if not investors_dir.exists():
+        print("No investors directory found")
+        return
+
+    if slug_or_all == "--all":
+        targets = sorted(investors_dir.glob("*.md"))
+    else:
+        target = investors_dir / f"{slug_or_all}.md"
+        if not target.exists():
+            print(f"Investor profile not found: {slug_or_all}")
+            return
+        targets = [target]
+
+    updated = 0
+
+    for inv_path in targets:
+        post = frontmatter.load(inv_path)
+        meta = post.metadata
+        body = post.content
+
+        # Parse portfolio table
+        best_year = None
+        best_company = None
+        best_round = None
+
+        in_portfolio = False
+        for line in body.split("\n"):
+            if line.startswith("## Portfolio"):
+                in_portfolio = True
+                continue
+            if in_portfolio and line.startswith("## "):
+                break
+            if in_portfolio and line.startswith("|") and not re.match(r'^\|[-\s|]+\|$', line):
+                cells = [c.strip() for c in line.split("|")[1:-1]]
+                if not cells or cells[0].lower() == "company":
+                    continue
+                company = re.sub(r'\[\^\d+\]', '', cells[0]).strip()
+
+                # Find year in the row
+                year_match = re.search(r'(?<!~)(\d{4})', line)
+                if not year_match:
+                    # Try approximate year
+                    year_match = re.search(r'~(\d{4})', line)
+                if year_match:
+                    year = int(year_match.group(1))
+                    if best_year is None or year > best_year:
+                        best_year = year
+                        best_company = company
+                        # Extract stage/round
+                        stage = ""
+                        if len(cells) > 2:
+                            stage = re.sub(r'\[\^\d+\]', '', cells[2]).strip()
+                        if not stage and len(cells) > 1:
+                            stage = re.sub(r'\[\^\d+\]', '', cells[1]).strip()
+                        best_round = stage
+
+        if best_year is None or best_company is None:
+            continue
+
+        # Compare with existing LVI
+        existing_lvi = meta.get("last_verified_investment")
+        if existing_lvi and isinstance(existing_lvi, dict):
+            existing_date = str(existing_lvi.get("date", ""))
+            # Extract year from existing date
+            existing_year_match = re.search(r'(\d{4})', existing_date)
+            existing_year = int(existing_year_match.group(1)) if existing_year_match else 0
+            if existing_year >= best_year:
+                continue  # existing is same or newer
+
+        new_lvi = {"date": f"~{best_year}", "company": best_company}
+        if best_round:
+            new_lvi["round"] = best_round
+
+        if dry_run:
+            slug = meta.get("slug", inv_path.stem)
+            old_desc = ""
+            if existing_lvi and isinstance(existing_lvi, dict):
+                old_desc = f" (was: {existing_lvi.get('company', '?')} {existing_lvi.get('date', '?')})"
+            print(f"  {slug}: {best_company} ~{best_year}{old_desc}")
+        else:
+            meta["last_verified_investment"] = new_lvi
+            post.metadata = meta
+            inv_path.write_text(frontmatter.dumps(post))
+
+        updated += 1
+
+    action = "Would update" if dry_run else "Updated"
+    print(f"xref-compute-lvi: {action} {updated} investor profiles")
+
+
+def cmd_xref_all(dry_run=False):
+    """Run all cross-reference operations across the entire repo."""
+    print("Running cross-reference reconciliation...")
+    cmd_xref_backfill_startup("--all", dry_run=dry_run)
+    cmd_xref_reconcile_firm("--all", dry_run=dry_run)
+    cmd_xref_compute_lvi("--all", dry_run=dry_run)
+
+
+def cmd_xref_report(slug):
+    """Analysis report for an investor: focus validation, co-investor patterns."""
+    inv_path = DATA / "investors" / f"{slug}.md"
+    if not inv_path.exists():
+        print(f"Investor profile not found: {slug}")
+        return
+
+    post = frontmatter.load(inv_path)
+    meta = post.metadata
+    body = post.content
+    name = meta.get("name", slug)
+
+    print(f"=== Cross-Reference Report: {name} ({slug}) ===\n")
+
+    # 1. Parse portfolio
+    portfolio = []
+    in_portfolio = False
+    for line in body.split("\n"):
+        if line.startswith("## Portfolio"):
+            in_portfolio = True
+            continue
+        if in_portfolio and line.startswith("## "):
+            break
+        if in_portfolio and line.startswith("|") and not re.match(r'^\|[-\s|]+\|$', line):
+            cells = [c.strip() for c in line.split("|")[1:-1]]
+            if not cells or cells[0].lower() == "company":
+                continue
+            company = re.sub(r'\[\^\d+\]', '', cells[0]).strip()
+            year_match = re.search(r'~?(\d{4})', line)
+            year = int(year_match.group(1)) if year_match else None
+            stage = ""
+            if len(cells) > 2:
+                stage = re.sub(r'\[\^\d+\]', '', cells[2]).strip()
+            portfolio.append({"company": company, "year": year, "stage": stage,
+                              "norm": _normalize_company(company)})
+
+    print(f"Portfolio size: {len(portfolio)} entries\n")
+
+    # 2. Stage focus validation
+    fm_stages = set(meta.get("stage_focus") or [])
+    portfolio_stages = {}
+    for entry in portfolio:
+        s = (entry.get("stage") or "unknown").lower().strip()
+        # Normalize stage names
+        if "seed" in s:
+            s = "seed"
+        elif "series a" in s or "a" == s:
+            s = "series-a"
+        elif "series b" in s or "b" == s:
+            s = "series-b"
+        elif "series c" in s:
+            s = "series-c"
+        elif "growth" in s:
+            s = "growth"
+        elif "pre-seed" in s or "pre seed" in s:
+            s = "pre-seed"
+        portfolio_stages[s] = portfolio_stages.get(s, 0) + 1
+
+    print("Stage Distribution (from portfolio):")
+    for stage, count in sorted(portfolio_stages.items(), key=lambda x: -x[1]):
+        in_fm = "✓" if stage in fm_stages else "✗"
+        print(f"  {in_fm} {stage}: {count} ({count * 100 // max(len(portfolio), 1)}%)")
+
+    fm_only = fm_stages - set(portfolio_stages.keys())
+    if fm_only:
+        print(f"  In frontmatter but not portfolio: {', '.join(fm_only)}")
+    print()
+
+    # 3. Co-investor frequency (from shared startup profiles)
+    startups_dir = DATA / "startups"
+    co_investors = {}  # slug -> count
+
+    if startups_dir.exists():
+        for entry in portfolio:
+            norm = entry["norm"]
+            # Check if startup profile exists
+            startup_path = startups_dir / f"{norm}.md"
+            if not startup_path.exists():
+                continue
+            sp = frontmatter.load(startup_path)
+            sp_investors = sp.metadata.get("investors") or []
+            for inv in sp_investors:
+                if isinstance(inv, dict):
+                    co_slug = inv.get("slug", "")
+                else:
+                    co_slug = str(inv)
+                if co_slug and co_slug != slug:
+                    co_investors[co_slug] = co_investors.get(co_slug, 0) + 1
+
+    if co_investors:
+        print("Co-investor Frequency (from shared startup profiles):")
+        for co_slug, count in sorted(co_investors.items(), key=lambda x: -x[1])[:15]:
+            # Check if profile exists
+            exists = "✓" if (DATA / "investors" / f"{co_slug}.md").exists() else "✗"
+            print(f"  {exists} {co_slug}: {count} shared companies")
+
+        # Suggest queue adds for high-frequency co-investors without profiles
+        missing = [(s, c) for s, c in co_investors.items()
+                   if c >= 2 and not (DATA / "investors" / f"{s}.md").exists()]
+        if missing:
+            print(f"\nSuggested queue adds ({len(missing)} co-investors with 2+ shared companies, no profile):")
+            for s, c in sorted(missing, key=lambda x: -x[1])[:10]:
+                print(f"  QUEUE_ADD: {s} (shared: {c})")
+    else:
+        print("Co-investor analysis: No shared startup profiles found")
+
+    print()
 
 
 # ── Enrich ───────────────────────────────────────────────────
@@ -2269,6 +2772,32 @@ def main():
         cmd_review_sources()
     elif cmd == "review-candidates":
         cmd_review_candidates()
+    elif cmd == "xref-backfill-startup":
+        if len(sys.argv) < 3:
+            print("Usage: sl xref-backfill-startup SLUG|--all [--dry-run]")
+            sys.exit(1)
+        dry_run = "--dry-run" in sys.argv
+        cmd_xref_backfill_startup(sys.argv[2], dry_run=dry_run)
+    elif cmd == "xref-reconcile-firm":
+        if len(sys.argv) < 3:
+            print("Usage: sl xref-reconcile-firm SLUG|--all [--dry-run]")
+            sys.exit(1)
+        dry_run = "--dry-run" in sys.argv
+        cmd_xref_reconcile_firm(sys.argv[2], dry_run=dry_run)
+    elif cmd == "xref-compute-lvi":
+        if len(sys.argv) < 3:
+            print("Usage: sl xref-compute-lvi SLUG|--all [--dry-run]")
+            sys.exit(1)
+        dry_run = "--dry-run" in sys.argv
+        cmd_xref_compute_lvi(sys.argv[2], dry_run=dry_run)
+    elif cmd == "xref-all":
+        dry_run = "--dry-run" in sys.argv
+        cmd_xref_all(dry_run=dry_run)
+    elif cmd == "xref-report":
+        if len(sys.argv) < 3:
+            print("Usage: sl xref-report SLUG")
+            sys.exit(1)
+        cmd_xref_report(sys.argv[2])
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)

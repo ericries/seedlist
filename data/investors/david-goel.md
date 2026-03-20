@@ -1,22 +1,31 @@
 ---
-name: "David Goel"
-slug: david-goel
-type: individual
+check_size: $50M-$500M+
 firm: matrix-capital-management
-role: "Co-Founder & Managing General Partner"
-location: "Waltham, Massachusetts"
-stage_focus: [growth, late-stage, public]
-sector_focus: [technology, life-sciences, semiconductors, software, AI, biotech]
-check_size: "$50M-$500M+"
-last_verified_investment:
-  date: 2024-12-03
-  company: "Maze Therapeutics"
-  round: "Series D"
-social:
-  twitter: ""
-  linkedin: "linkedin.com/in/david-goel-66098453"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Aura Biosciences (AURA)
+  date: ~2025
+  round: Public equity (13F Q4 2025)
+location: Waltham, Massachusetts
+name: David Goel
+role: Co-Founder & Managing General Partner
+sector_focus:
+- technology
+- life-sciences
+- semiconductors
+- software
+- AI
+- biotech
+slug: david-goel
+social:
+  linkedin: linkedin.com/in/david-goel-66098453
+  twitter: ''
+stage_focus:
+- growth
+- late-stage
+- public
+status: published
+type: individual
 ---
 
 ## Background

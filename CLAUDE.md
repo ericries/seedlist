@@ -586,10 +586,15 @@ python3 scripts/sl gen-startups [--threshold N] [--dry-run]  # Auto-generate sta
 python3 scripts/sl fix-citations SLUG    # Auto-fix duplicate URLs, orphan defs, renumber footnotes
 python3 scripts/sl auto-fix SLUG         # Fix citations + missing firm field + other mechanical issues
 python3 scripts/sl queue-add NAME [--type T] [--firm F] [--priority P] [--from SLUG]  # Dedup-safe queue append
-python3 scripts/sl post-batch            # THE post-agent command: process queue files → auto-fix → lint → publish → rebuild → commit → push
+python3 scripts/sl post-batch            # THE post-agent command: process queue files → auto-fix → xref → lint → publish → rebuild → commit → push
 python3 scripts/sl batch-publish SLUG... # Lint+fix+publish specific profiles in one commit
 python3 scripts/sl review-sources        # Review user-submitted source URLs from GitHub Issues
 python3 scripts/sl review-candidates     # Review CSV-submitted investor candidates from GitHub Issues
+python3 scripts/sl xref-backfill-startup SLUG|--all  # Backfill startup frontmatter from investor portfolio tables
+python3 scripts/sl xref-reconcile-firm SLUG|--all    # Bidirectional firm/investor consistency check
+python3 scripts/sl xref-compute-lvi SLUG|--all       # Compute last_verified_investment from portfolio tables
+python3 scripts/sl xref-all [--dry-run]              # Run all xref operations across the entire repo
+python3 scripts/sl xref-report SLUG                  # Analysis report: co-investors, focus validation
 ```
 
 **Agent prompts should reference these commands.** For example, after fixing a profile, agents should run `python3 scripts/sl publish {slug}` instead of manual git/build/push sequences. When a new repeated operation pattern emerges, add it to `scripts/sl`.
@@ -647,7 +652,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
 6. **Run `python3 scripts/sl post-batch`.** This ONE command does everything:
    - Reads `data/.pending-queue-adds.yaml` → adds to queue (dedup-safe) → deletes file
    - Reads `data/.pending-completions.yaml` → marks completed → deletes file
-   - Finds all draft profiles → auto-fix (citations, missing fields) → lint → publish passing
+   - Finds all draft profiles → auto-fix (citations, missing fields) → xref (backfill startups, reconcile firms, compute LVI) → lint → publish passing
    - Rebuilds site → single git commit+push
    - The invocation is always identical — no arguments, no per-slug calls
 7. **One-line status, then immediately start next batch.**

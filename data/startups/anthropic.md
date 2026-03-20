@@ -1,41 +1,74 @@
 ---
-name: "Anthropic"
-slug: anthropic
-type: startup
-website: "https://www.anthropic.com"
-location: "San Francisco, CA"
-founded: 2021
-status_company: active
-sector: [artificial-intelligence, AI-safety, machine-learning]
-stage_latest: "Series G"
-total_raised: "$67.3B"
-investors:
-  - slug: ron-conway
-    round: early backer
-    year: 2021
 firms:
-  - slug: sv-angel
-    round: early backer
-    year: 2021
+- round: early backer
+  slug: sv-angel
+  year: 2021
+- round: Growth
+  slug: sequoia-capital
+  year: 2023
+- round: '2026'
+  slug: coatue-management
+  year: 2026
+- round: '2025'
+  slug: d1-capital-partners
+  year: 2025
+- round: Series G ($30B)
+  slug: greenoaks-capital
+  year: 2026
+- round: Series C
+  slug: spark-capital
+  year: 2023
+founded: 2021
 founders:
-  - name: "Dario Amodei"
-    role: "CEO"
-  - name: "Daniela Amodei"
-    role: "President"
-  - name: "Tom Brown"
-    role: "Co-founder"
-  - name: "Jack Clark"
-    role: "Co-founder"
-  - name: "Sam McCandlish"
-    role: "Co-founder"
-  - name: "Jared Kaplan"
-    role: "Co-founder"
-  - name: "Christopher Olah"
-    role: "Co-founder"
-  - name: "Benjamin Mann"
-    role: "Co-founder"
-status: published
+- name: Dario Amodei
+  role: CEO
+- name: Daniela Amodei
+  role: President
+- name: Tom Brown
+  role: Co-founder
+- name: Jack Clark
+  role: Co-founder
+- name: Sam McCandlish
+  role: Co-founder
+- name: Jared Kaplan
+  role: Co-founder
+- name: Christopher Olah
+  role: Co-founder
+- name: Benjamin Mann
+  role: Co-founder
+investors:
+- round: early backer
+  slug: ron-conway
+  year: 2021
+- round: Growth
+  slug: sonya-huang
+  year: 2023
+- round: '2026'
+  slug: philippe-laffont
+  year: 2026
+- round: '2025'
+  slug: dan-sundheim
+  year: 2025
+- round: Series G ($30B)
+  slug: neil-mehta
+  year: 2026
+- round: Series C
+  slug: yasmin-razavi
+  year: 2023
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Anthropic
+sector:
+- artificial-intelligence
+- AI-safety
+- machine-learning
+slug: anthropic
+stage_latest: Series G
+status: published
+status_company: active
+total_raised: $67.3B
+type: startup
+website: https://www.anthropic.com
 ---
 
 ## About

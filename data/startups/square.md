@@ -1,29 +1,68 @@
 ---
-name: "Square"
-slug: square
-type: startup
-website: "https://squareup.com"
-location: "San Francisco, California"
-founded: 2009
-status_company: ipo
-sector: [fintech, payments, financial-services]
-stage_latest: "IPO"
-total_raised: "$520M"
-investors:
-  - slug: ron-conway
-    round: Series A
-    year: 2009
 firms:
-  - slug: sv-angel
-    round: Series A
-    year: 2009
+- round: Series A
+  slug: sv-angel
+  year: 2009
+- round: Series A (led, board)
+  slug: sequoia-capital
+  year: 2010
+- round: Seed
+  slug: first-round-capital
+  year: 2009
+- round: Seed
+  slug: a-star-capital
+  year: 2010
+- round: Early stage
+  slug: independent
+  year: 2011
+- round: ~2016
+  slug: octahedron-capital
+  year: 2016
+founded: 2009
 founders:
-  - name: "Jack Dorsey"
-    role: "CEO & Co-Founder"
-  - name: "Jim McKelvey"
-    role: "Co-Founder"
-status: published
+- name: Jack Dorsey
+  role: CEO & Co-Founder
+- name: Jim McKelvey
+  role: Co-Founder
+investors:
+- round: Series A
+  slug: ron-conway
+  year: 2009
+- round: Series A (led, board)
+  slug: roelof-botha
+  year: 2010
+- round: Seed
+  slug: josh-kopelman
+  year: 2009
+- round: Seed
+  slug: kevin-hartz
+  year: 2010
+- round: Early stage
+  slug: elad-gil
+  year: 2011
+- round: Seed
+  slug: howard-morgan
+  year: 2009
+- round: Seed
+  slug: rob-hayes
+  year: 2009
+- round: ~2016
+  slug: ram-parameswaran
+  year: 2016
 last_researched: 2026-03-13
+location: San Francisco, California
+name: Square
+sector:
+- fintech
+- payments
+- financial-services
+slug: square
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $520M
+type: startup
+website: https://squareup.com
 ---
 
 ## About

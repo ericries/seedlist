@@ -1,29 +1,87 @@
 ---
-name: "Stripe"
-slug: stripe
-type: startup
-website: "https://stripe.com"
-location: "San Francisco, CA"
-founded: 2010
-status_company: active
-sector: [fintech, payments, developer-tools, infrastructure]
-stage_latest: "Series I"
-total_raised: "$9.8B"
-investors:
-  - slug: ron-conway
-    round: Seed
-    year: 2011
 firms:
-  - slug: sv-angel
-    round: Seed
-    year: 2011
+- round: Seed
+  slug: sv-angel
+  year: 2011
+- round: Growth
+  slug: sequoia-capital
+  year: 2023
+- round: Series E
+  slug: dst-global
+  year: 2018
+- round: Early stage
+  slug: lowercase-capital
+  year: 2011
+- round: ~2021
+  slug: d1-capital-partners
+  year: 2021
+- round: Growth
+  slug: greenoaks-capital
+  year: 2019
+- round: Growth
+  slug: first-harmonic
+  year: 2016
+- round: Series A
+  slug: independent
+  year: 2011
+- round: Growth
+  slug: addition
+  year: 2014
+founded: 2010
 founders:
-  - name: "Patrick Collison"
-    role: "CEO & Co-Founder"
-  - name: "John Collison"
-    role: "President & Co-Founder"
-status: published
+- name: Patrick Collison
+  role: CEO & Co-Founder
+- name: John Collison
+  role: President & Co-Founder
+investors:
+- round: Seed
+  slug: ron-conway
+  year: 2011
+- round: Growth
+  slug: luciana-lixandru
+  year: 2023
+- round: Series E
+  slug: yuri-milner
+  year: 2018
+- round: Growth
+  slug: shaun-maguire
+  year: 2016
+- round: Early stage
+  slug: chris-sacca
+  year: 2011
+- round: ~2021
+  slug: dan-sundheim
+  year: 2021
+- round: Growth
+  slug: neil-mehta
+  year: 2019
+- round: Growth
+  slug: ali-rowghani
+  year: 2016
+- round: Series A
+  slug: elad-gil
+  year: 2011
+- round: Seed
+  slug: michael-moritz
+  year: 2010
+- round: Growth
+  slug: lee-fixel
+  year: 2014
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: Stripe
+sector:
+- fintech
+- payments
+- developer-tools
+- infrastructure
+slug: stripe
+stage_latest: Series I
+status: published
+status_company: active
+total_raised: $9.8B
+type: startup
+website: https://stripe.com
 ---
 
 ## About
