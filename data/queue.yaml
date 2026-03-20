@@ -4240,3 +4240,124 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: shopify
+- name: SciFi VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-levchin
+- name: '10100'
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: travis-kalanick
+- name: Ilya Sutskever
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-gross
+- name: Expa
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: garrett-camp
+- name: Sherpa Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shervin-pishevar
+- name: AME Cloud Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jerry-yang
+- name: Scott Belsky
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: garrett-camp
+- name: Gokul Rajaram
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: garrett-camp
+- name: Joe Lonsdale
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 8vc
+  discovered_from: 8vc
+- name: Drew Oetting
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 8vc
+  discovered_from: 8vc
+- name: David Krane
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: gv
+  discovered_from: gv
+- name: Matt Murphy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: menlo-ventures
+  discovered_from: menlo-ventures
+- name: Deedy Das
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: menlo-ventures
+  discovered_from: menlo-ventures
+- name: Tom Loverro
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: ivp
+  discovered_from: ivp
+- name: Gordon Ritter
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: emergence-capital
+  discovered_from: emergence-capital
+- name: Tim Draper
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: robinhood
+- name: Greg Brockman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: scale-ai
+- name: Kevin Systrom
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: scale-ai
+- name: Howard Lindzon
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: robinhood
