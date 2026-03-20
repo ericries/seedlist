@@ -18,6 +18,9 @@ firms:
 - round: Series G ($1B)
   slug: greenoaks-capital
   year: 2021
+- round: Growth
+  slug: thrive-capital
+  year: 2022
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -53,6 +56,9 @@ investors:
 - round: Series G ($1B)
   slug: neil-mehta
   year: 2021
+- round: Growth
+  slug: josh-kushner
+  year: 2022
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

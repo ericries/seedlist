@@ -47,6 +47,9 @@ investors:
 - round: Series A
   slug: jack-dorsey
   year: 2011
+- round: Seed ($3.5M + $8M SPV)
+  slug: josh-kushner
+  year: 2011
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Instagram

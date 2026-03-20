@@ -3978,3 +3978,173 @@ queue:
   added: '2026-03-17'
   firm: quantumlight
   discovered_from: nikolay-storonsky
+- name: Max Levchin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yelp
+- name: Travis Kalanick
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uber
+- name: Garrett Camp
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uber
+- name: Shervin Pishevar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Menlo Ventures
+  discovered_from: uber
+- name: Dan Scheinman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zoom-video-communications
+- name: Jerry Yang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: AME Cloud Ventures
+  discovered_from: zoom-video-communications
+- name: Shakil Khan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spotify
+- name: Sean Parker
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Founders Fund
+  discovered_from: spotify
+- name: Carl Eschenbach
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sequoia Capital
+  discovered_from: zoom-video-communications
+- name: Menlo Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uber
+- name: Google Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uber
+- name: Emergence Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zoom-video-communications
+- name: Northzone
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spotify
+- name: Creandum
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spotify
+- name: Daniel Gross
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nat-friedman
+- name: Kareem Zaki
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: thrive-capital
+  discovered_from: josh-kushner
+- name: NFDG
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nat-friedman
+- name: Buckley Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-buckley
+- name: Todd and Rahul Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rahul-vohra
+- name: Kent Bennett
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bessemer Venture Partners
+  discovered_from: trevor-oelschig
+- name: Brian Feinstein
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bessemer Venture Partners
+  discovered_from: trevor-oelschig
+- name: Andrew Dudum
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Atomic Labs
+  discovered_from: hims-and-hers
+- name: Arash Ferdowsi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cursor
+- name: Aydin Senkut
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: notion
+- name: Forerunner Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hims-and-hers
+- name: IVP
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hims-and-hers
+- name: 8VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hims-and-hers

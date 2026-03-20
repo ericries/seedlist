@@ -48,6 +48,9 @@ firms:
 - round: Growth
   slug: addition
   year: 2011
+- round: Growth
+  slug: thrive-capital
+  year: 2013
 founded: 2006
 founders:
 - name: Daniel Ek
@@ -82,6 +85,9 @@ investors:
 - round: Growth
   slug: lee-fixel
   year: 2011
+- round: Growth
+  slug: josh-kushner
+  year: 2013
 last_researched: 2026-03-19
 location: Stockholm, Sweden
 name: Spotify

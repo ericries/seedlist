@@ -63,6 +63,9 @@ investors:
 - round: Growth
   slug: woody-marshall
   year: 2012
+- round: Angel ($100K)
+  slug: sam-altman
+  year: 2008
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

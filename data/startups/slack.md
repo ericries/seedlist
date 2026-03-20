@@ -19,6 +19,12 @@ firms:
 - round: '2013'
   slug: accel
   year: 2013
+- round: Growth
+  slug: hanabi-capital
+  year: 2015
+- round: Growth
+  slug: thrive-capital
+  year: 2015
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -48,6 +54,9 @@ investors:
 - round: '2013'
   slug: andrew-braccia
   year: 2013
+- round: Growth
+  slug: josh-kushner
+  year: 2015
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

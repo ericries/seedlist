@@ -21,6 +21,9 @@ firms:
 - round: Private (<$16B valuation)
   slug: tiger-global
   year: 2021
+- round: Series C ($130M at $29B); tender at $86B (2023); $1B at $285B (2026)
+  slug: thrive-capital
+  year: 2022
 founded: 2015
 founders:
 - name: Sam Altman
@@ -68,6 +71,9 @@ investors:
 - round: Growth
   slug: pat-grady
   year: 2021
+- round: Series C ($130M at $29B); tender at $86B (2023); $1B at $285B (2026)
+  slug: josh-kushner
+  year: 2022
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: OpenAI

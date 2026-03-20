@@ -52,6 +52,9 @@ investors:
 - round: Technology/Design
   slug: mala-gaonkar
   year: 2025
+- round: Growth
+  slug: nat-friedman
+  year: 2020
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

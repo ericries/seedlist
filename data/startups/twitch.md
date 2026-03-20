@@ -7,6 +7,9 @@ firms:
 - round: Seed
   slug: sv-angel
   year: 2011
+- round: Early stage
+  slug: thrive-capital
+  year: 2013
 founded: 2007
 founders:
 - name: Justin Kan
@@ -27,6 +30,9 @@ investors:
 - round: ~2012
   slug: ethan-kurzweil
   year: 2012
+- round: Early stage
+  slug: josh-kushner
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitch

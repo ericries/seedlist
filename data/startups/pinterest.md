@@ -45,6 +45,9 @@ investors:
 - round: Angel
   slug: jack-abraham
   year: 2010
+- round: Early stage
+  slug: sam-altman
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

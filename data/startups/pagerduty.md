@@ -66,6 +66,9 @@ firms:
 - round: ~2013
   slug: heavybit
   year: 2013
+- round: Series B
+  slug: general-catalyst
+  year: 2014
 founded: 2009
 founders:
 - name: Alex Solomon
@@ -93,6 +96,9 @@ investors:
 - round: Early stage
   slug: elad-gil
   year: 2016
+- round: Series B
+  slug: trevor-oelschig
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: PagerDuty

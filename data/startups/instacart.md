@@ -81,6 +81,9 @@ investors:
 - round: ~2013
   slug: jesse-robbins
   year: 2013
+- round: Early stage
+  slug: sam-altman
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart
