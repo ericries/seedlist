@@ -63,40 +63,43 @@ def build_search_index(investors, firms, startups):
     entries = []
     for p in investors:
         text_parts = [p.get("name", ""), p.get("firm", ""), p.get("role", ""),
-                      p.get("location", "")] + p.get("stage_focus", []) + p.get("sector_focus", [])
+                      p.get("location", "")] + (p.get("stage_focus") or []) + (p.get("sector_focus") or [])
+        text_parts = [t for t in text_parts if t]  # filter None values
         entries.append({
             "name": p.get("name", ""),
             "type": "investor",
             "slug": p.get("slug", ""),
-            "firm": p.get("firm", ""),
-            "role": p.get("role", ""),
-            "location": p.get("location", ""),
-            "stages": p.get("stage_focus", []),
-            "sectors": p.get("sector_focus", []),
+            "firm": p.get("firm") or "",
+            "role": p.get("role") or "",
+            "location": p.get("location") or "",
+            "stages": p.get("stage_focus") or [],
+            "sectors": p.get("sector_focus") or [],
             "text": " ".join(text_parts),
             "url": f"/investors/{p.get('slug', '')}.html",
         })
     for p in firms:
-        text_parts = [p.get("name", ""), p.get("location", "")] + p.get("stage_focus", []) + p.get("sector_focus", [])
+        text_parts = [p.get("name", ""), p.get("location", "")] + (p.get("stage_focus") or []) + (p.get("sector_focus") or [])
+        text_parts = [t for t in text_parts if t]
         entries.append({
             "name": p.get("name", ""),
             "type": "firm",
             "slug": p.get("slug", ""),
-            "location": p.get("location", ""),
-            "stages": p.get("stage_focus", []),
-            "sectors": p.get("sector_focus", []),
+            "location": p.get("location") or "",
+            "stages": p.get("stage_focus") or [],
+            "sectors": p.get("sector_focus") or [],
             "text": " ".join(text_parts),
             "url": f"/firms/{p.get('slug', '')}.html",
         })
     for p in startups:
-        text_parts = [p.get("name", ""), p.get("location", "")] + p.get("sector", [])
+        text_parts = [p.get("name", ""), p.get("location", "")] + (p.get("sector") or [])
+        text_parts = [t for t in text_parts if t]
         entries.append({
             "name": p.get("name", ""),
             "type": "startup",
             "slug": p.get("slug", ""),
-            "location": p.get("location", ""),
-            "sectors": p.get("sector", []),
-            "stage_latest": p.get("stage_latest", ""),
+            "location": p.get("location") or "",
+            "sectors": p.get("sector") or [],
+            "stage_latest": p.get("stage_latest") or "",
             "text": " ".join(text_parts),
             "url": f"/startups/{p.get('slug', '')}.html",
         })
