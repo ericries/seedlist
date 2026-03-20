@@ -24,6 +24,9 @@ firms:
 - round: Seed
   slug: the-general-partnership
   year: 2013
+- round: Angel
+  slug: nfdg
+  year: 2015
 founded: 2013
 founders:
 - name: Ivan Zhao

@@ -1,22 +1,31 @@
 ---
-name: "Ethan Kurzweil"
-slug: ethan-kurzweil
-type: individual
-firm: null
-role: "Founder & Managing Partner, Chemistry VC"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [developer-tools, saas, consumer, data-infrastructure, gaming, fintech]
-check_size: "$3M-$30M"
-last_verified_investment:
-  date: 2024-10-23
-  company: "Chemistry VC Fund I"
-  round: "Fund Launch"
-social:
-  twitter: "@ethankurz"
-  linkedin: "linkedin.com/in/ethankurz"
-status: published
+check_size: $3M-$30M
+firm: chemistry-vc
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Chemistry VC Fund I
+  date: 2024-10-23
+  round: Fund Launch
+location: San Francisco, CA
+name: Ethan Kurzweil
+role: Founder & Managing Partner, Chemistry VC
+sector_focus:
+- developer-tools
+- saas
+- consumer
+- data-infrastructure
+- gaming
+- fintech
+slug: ethan-kurzweil
+social:
+  linkedin: linkedin.com/in/ethankurz
+  twitter: '@ethankurz'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+type: individual
 ---
 
 ## Background

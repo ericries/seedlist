@@ -33,6 +33,9 @@ firms:
 - round: ~2013
   slug: heavybit
   year: 2013
+- round: Angel
+  slug: nfdg
+  year: 2012
 founded: 2012
 founders:
 - name: Apoorva Mehta
@@ -84,6 +87,9 @@ investors:
 - round: Early stage
   slug: sam-altman
   year: 2013
+- round: Angel
+  slug: daniel-gross
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

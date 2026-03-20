@@ -24,6 +24,9 @@ firms:
 - round: Early stage (later Series G)
   slug: independent
   year: 2019
+- round: Angel
+  slug: nfdg
+  year: 2017
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -43,6 +46,9 @@ investors:
 - round: Series B
   slug: neil-mehta
   year: 2020
+- round: Angel
+  slug: daniel-gross
+  year: 2017
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

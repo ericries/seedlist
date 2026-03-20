@@ -21,6 +21,9 @@ firms:
 - round: Technology/Design
   slug: surgocap-partners
   year: 2025
+- round: Angel
+  slug: nfdg
+  year: 2014
 founded: 2012
 founders:
 - name: Dylan Field
@@ -55,6 +58,9 @@ investors:
 - round: Growth
   slug: nat-friedman
   year: 2020
+- round: Angel
+  slug: daniel-gross
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

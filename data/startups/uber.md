@@ -78,6 +78,12 @@ firms:
 - round: ~2017
   slug: octahedron-capital
   year: 2017
+- round: ~2015
+  slug: shumway-capital
+  year: 2015
+- round: Angel
+  slug: nfdg
+  year: 2011
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -124,6 +130,12 @@ investors:
 - round: ~2017
   slug: ram-parameswaran
   year: 2017
+- round: ~2015
+  slug: chris-shumway
+  year: 2015
+- round: Angel
+  slug: daniel-gross
+  year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

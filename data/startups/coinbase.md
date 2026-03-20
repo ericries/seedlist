@@ -30,6 +30,9 @@ firms:
 - round: Growth
   slug: addition
   year: 2013
+- round: Angel
+  slug: nfdg
+  year: 2012
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -70,6 +73,9 @@ investors:
 - round: Growth
   slug: lee-fixel
   year: 2013
+- round: Angel
+  slug: daniel-gross
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

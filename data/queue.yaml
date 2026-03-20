@@ -4148,3 +4148,38 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: hims-and-hers
+- name: Chester Ng
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: atomic
+  discovered_from: atomic
+- name: Kristina Shen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: chemistry-vc
+  discovered_from: chemistry-vc
+- name: Joseph Ruscio
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: heavybit
+  discovered_from: heavybit
+- name: James Lindenbaum
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: heavybit
+  discovered_from: heavybit
+- name: Tommaso Conca
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: quantumlight
+  discovered_from: quantumlight
