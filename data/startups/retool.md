@@ -50,6 +50,12 @@ investors:
 - round: Seed
   slug: greg-brockman
   year: 2018
+- round: ~2017
+  slug: paul-graham
+  year: 2017
+- round: ~2017
+  slug: dalton-caldwell
+  year: 2017
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Retool

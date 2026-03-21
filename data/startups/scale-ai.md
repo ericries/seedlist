@@ -45,6 +45,9 @@ firms:
 - round: Growth round
   slug: greenoaks
   year: 2021
+- round: ~2018
+  slug: andreessen-horowitz
+  year: 2018
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -84,6 +87,9 @@ investors:
   year: 2019
 - round: ~2018
   slug: adam-dangelo
+  year: 2018
+- round: ~2018
+  slug: sriram-krishnan
   year: 2018
 last_researched: 2026-03-19
 location: San Francisco, CA

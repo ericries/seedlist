@@ -370,7 +370,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Sierra
   type: startup
@@ -402,7 +402,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Anduril
   type: startup
@@ -2956,7 +2956,7 @@ queue:
   source: Chris Sacca's fund, Instagram Series A
   discovered_from: instagram
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Summit Partners
   type: firm
@@ -4430,7 +4430,7 @@ queue:
 - name: Talia Goldberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: bessemer-venture-partners
   discovered_from: bessemer-venture-partners
@@ -4492,7 +4492,7 @@ queue:
 - name: Adam D'Angelo
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: greg-brockman
 - name: Marc Lore
@@ -4563,7 +4563,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Rebecca Kaden
   type: individual
@@ -4571,7 +4571,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Mamoon Hamid
   type: individual
@@ -4579,7 +4579,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Jerry Chen
   type: individual
@@ -4587,7 +4587,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: David Sze
   type: individual
@@ -4595,7 +4595,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Connie Chan
   type: individual
@@ -4603,7 +4603,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Aileen Lee
   type: individual
@@ -4611,7 +4611,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Heidi Roizen
   type: individual
@@ -5332,13 +5332,13 @@ queue:
 - name: Conviction
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: sarah-guo
 - name: Haun Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: chris-dixon
 - name: Trae Stephens
@@ -5461,3 +5461,108 @@ queue:
   added: '2026-03-17'
   firm: Rippling
   discovered_from: mamoon-hamid
+- name: Plexo Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lo-toney
+- name: MaC Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marlon-nichols
+- name: VZVC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-pande
+- name: Threshold Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: heidi-roizen
+- name: Standard Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dalton-caldwell
+- name: QED Investors
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: credit-karma
+- name: CapitalG
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: credit-karma
+- name: Fred Wilson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Union Square Ventures
+  discovered_from: union-square-ventures
+- name: Brad Burnham
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Union Square Ventures
+  discovered_from: union-square-ventures
+- name: Peter Chung
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Summit Partners
+  discovered_from: summit-partners
+- name: Paul Buchheit
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Standard Capital
+  discovered_from: dalton-caldwell
+- name: Mustafa Suleyman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Microsoft AI
+  discovered_from: reid-hoffman
+- name: Albert Wenger
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Union Square Ventures
+  discovered_from: union-square-ventures
+- name: Brad Greiwe
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fifth Wall
+  discovered_from: brendan-wallace
+- name: James Joaquin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Obvious Ventures
+  discovered_from: evan-williams
+- name: Adrian Fenty
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: MaC Venture Capital
+  discovered_from: marlon-nichols

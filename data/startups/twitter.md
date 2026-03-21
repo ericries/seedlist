@@ -34,6 +34,9 @@ firms:
 - round: '2008'
   slug: spark-capital
   year: 2008
+- round: '2009'
+  slug: insight-partners
+  year: 2009
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -75,6 +78,9 @@ investors:
 - round: '2008'
   slug: bijan-sabet
   year: 2008
+- round: '2009'
+  slug: deven-parekh
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter

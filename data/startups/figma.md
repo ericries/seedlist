@@ -36,6 +36,9 @@ firms:
 - round: ~2016
   slug: kleiner-perkins
   year: 2016
+- round: ~2017
+  slug: andreessen-horowitz
+  year: 2017
 founded: 2012
 founders:
 - name: Dylan Field
@@ -82,6 +85,9 @@ investors:
 - round: ~2016
   slug: mamoon-hamid
   year: 2016
+- round: ~2017
+  slug: sriram-krishnan
+  year: 2017
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

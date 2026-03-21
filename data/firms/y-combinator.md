@@ -1,73 +1,91 @@
 ---
-name: "Y Combinator"
-slug: y-combinator
-type: firm
-website: "https://www.ycombinator.com"
-location: "San Francisco, CA"
 founded: 2005
-fund_size: "$500K per company (standard deal); previously $700M Continuity Fund (wound down 2023)"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai-ml, b2b-saas, fintech, developer-tools, consumer-internet, healthcare, biotech, marketplaces, crypto]
-team:
-  - slug: garry-tan
-    role: "President & CEO"
-    name: "Garry Tan"
-  - slug: jared-friedman
-    role: "Managing Partner"
-    name: "Jared Friedman"
-  - slug: harj-taggar
-    role: "Managing Partner"
-    name: "Harj Taggar"
-  - slug: michael-seibel
-    role: "Partner Emeritus"
-    name: "Michael Seibel"
-  - slug: gustaf-alstromer
-    role: "General Partner"
-    name: "Gustaf Alströmer"
-  - slug: tom-blomfield
-    role: "General Partner"
-    name: "Tom Blomfield"
-  - slug: tyler-bosmeny
-    role: "General Partner"
-    name: "Tyler Bosmeny"
-  - slug: nicolas-dessaigne
-    role: "General Partner"
-    name: "Nicolas Dessaigne"
-  - slug: aaron-epstein
-    role: "General Partner"
-    name: "Aaron Epstein"
-  - slug: brad-flora
-    role: "General Partner"
-    name: "Brad Flora"
-  - slug: diana-hu
-    role: "General Partner"
-    name: "Diana Hu"
-  - slug: pete-koomen
-    role: "General Partner"
-    name: "Pete Koomen"
-  - slug: david-lieb
-    role: "General Partner"
-    name: "David Lieb"
-  - slug: andrew-miklas
-    role: "General Partner"
-    name: "Andrew Miklas"
-  - slug: jon-xu
-    role: "General Partner"
-    name: "Jon Xu"
-  - slug: ankit-gupta
-    role: "General Partner"
-    name: "Ankit Gupta"
 founders:
-  - name: "Paul Graham"
-    role: "Co-Founder"
-  - name: "Jessica Livingston"
-    role: "Co-Founder"
-  - name: "Robert Tappan Morris"
-    role: "Co-Founder"
-  - name: "Trevor Blackwell"
-    role: "Co-Founder"
-status: published
+- name: Paul Graham
+  role: Co-Founder
+- name: Jessica Livingston
+  role: Co-Founder
+- name: Robert Tappan Morris
+  role: Co-Founder
+- name: Trevor Blackwell
+  role: Co-Founder
+fund_size: $500K per company (standard deal); previously $700M Continuity Fund (wound
+  down 2023)
 last_researched: 2026-03-14
+location: San Francisco, CA
+name: Y Combinator
+sector_focus:
+- ai-ml
+- b2b-saas
+- fintech
+- developer-tools
+- consumer-internet
+- healthcare
+- biotech
+- marketplaces
+- crypto
+slug: y-combinator
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Garry Tan
+  role: President & CEO
+  slug: garry-tan
+- name: Jared Friedman
+  role: Managing Partner
+  slug: jared-friedman
+- name: Harj Taggar
+  role: Managing Partner
+  slug: harj-taggar
+- name: Michael Seibel
+  role: Partner Emeritus
+  slug: michael-seibel
+- name: Gustaf Alströmer
+  role: General Partner
+  slug: gustaf-alstromer
+- name: Tom Blomfield
+  role: General Partner
+  slug: tom-blomfield
+- name: Tyler Bosmeny
+  role: General Partner
+  slug: tyler-bosmeny
+- name: Nicolas Dessaigne
+  role: General Partner
+  slug: nicolas-dessaigne
+- name: Aaron Epstein
+  role: General Partner
+  slug: aaron-epstein
+- name: Brad Flora
+  role: General Partner
+  slug: brad-flora
+- name: Diana Hu
+  role: General Partner
+  slug: diana-hu
+- name: Pete Koomen
+  role: General Partner
+  slug: pete-koomen
+- name: David Lieb
+  role: General Partner
+  slug: david-lieb
+- name: Andrew Miklas
+  role: General Partner
+  slug: andrew-miklas
+- name: Jon Xu
+  role: General Partner
+  slug: jon-xu
+- name: Ankit Gupta
+  role: General Partner
+  slug: ankit-gupta
+- name: Paul Graham
+  role: Co-Founder
+  slug: paul-graham
+- name: Dalton Caldwell
+  role: Partner Emeritus (former Managing Director & Group Partner)
+  slug: dalton-caldwell
+type: firm
+website: https://www.ycombinator.com
 ---
 
 ## About

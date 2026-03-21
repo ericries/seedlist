@@ -73,6 +73,9 @@ investors:
 - round: '2006'
   slug: david-sze
   year: 2006
+- round: ~2004
+  slug: reid-hoffman
+  year: 2004
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

@@ -68,6 +68,13 @@ team:
 - name: Katherine Boyle
   role: General Partner
   slug: katherine-boyle
+- name: Vijay Pande
+  role: Former General Partner (Bio + Health); now Co-Founder & Managing Partner,
+    VZVC
+  slug: vijay-pande
+- name: Sriram Krishnan
+  role: Former General Partner (now Senior White House Policy Advisor for AI)
+  slug: sriram-krishnan
 type: firm
 website: https://a16z.com
 ---

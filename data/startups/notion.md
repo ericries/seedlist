@@ -30,6 +30,9 @@ firms:
 - round: ~2019
   slug: felicis
   year: 2019
+- round: ~2018
+  slug: andreessen-horowitz
+  year: 2018
 founded: 2013
 founders:
 - name: Ivan Zhao
@@ -70,6 +73,9 @@ investors:
 - round: ~2019
   slug: aydin-senkut
   year: 2019
+- round: ~2018
+  slug: sriram-krishnan
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Notion

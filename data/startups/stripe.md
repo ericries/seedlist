@@ -48,6 +48,9 @@ firms:
 - round: Growth
   slug: greenoaks
   year: 2019
+- round: ~2010
+  slug: y-combinator
+  year: 2010
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -109,6 +112,9 @@ investors:
 - round: ~2011
   slug: chris-dixon
   year: 2011
+- round: ~2010
+  slug: paul-graham
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

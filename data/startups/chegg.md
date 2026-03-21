@@ -60,6 +60,9 @@ investors:
 - round: Series A
   slug: bill-trenchard
   year: 2010
+- round: ~2010
+  slug: deven-parekh
+  year: 2010
 last_researched: 2026-03-19
 location: Santa Clara, CA
 name: Chegg
