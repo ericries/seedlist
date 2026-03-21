@@ -66,6 +66,9 @@ investors:
 - round: '2023'
   slug: sarah-guo
   year: 2023
+- round: '2023'
+  slug: jan-hammer
+  year: 2023
 last_researched: 2026-03-20
 location: Paris, France
 name: Mistral AI

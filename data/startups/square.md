@@ -18,6 +18,9 @@ firms:
 - round: ~2016
   slug: octahedron-capital
   year: 2016
+- round: ~2009
+  slug: dcvc
+  year: 2009
 founded: 2009
 founders:
 - name: Jack Dorsey
@@ -49,6 +52,9 @@ investors:
 - round: ~2016
   slug: ram-parameswaran
   year: 2016
+- round: ~2009
+  slug: zachary-bogue
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Square

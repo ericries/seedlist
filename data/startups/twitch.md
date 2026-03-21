@@ -19,6 +19,9 @@ firms:
 - round: Early
   slug: bessemer-venture-partners
   year: 2012
+- round: ~2011
+  slug: standard-capital
+  year: 2011
 founded: 2007
 founders:
 - name: Justin Kan
@@ -48,6 +51,9 @@ investors:
 - round: Early
   slug: david-cowan
   year: 2012
+- round: ~2011
+  slug: paul-buchheit
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitch

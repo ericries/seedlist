@@ -36,6 +36,9 @@ firms:
 - round: ~2010
   slug: greylock
   year: 2010
+- round: ~2009
+  slug: standard-capital
+  year: 2009
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -90,6 +93,9 @@ investors:
 - round: ~2010
   slug: reid-hoffman
   year: 2010
+- round: ~2009
+  slug: paul-buchheit
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

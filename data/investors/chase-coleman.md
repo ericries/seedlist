@@ -1,22 +1,31 @@
 ---
-name: "Chase Coleman III"
-slug: chase-coleman
-type: individual
+check_size: $2M–$100M+ (private); multi-billion in public equities
 firm: tiger-global
-role: "Founder & CEO"
-location: "New York, NY"
-stage_focus: [late-stage, growth, crossover]
-sector_focus: [internet, software, consumer-technology, fintech, AI, e-commerce]
-check_size: "$2M–$100M+ (private); multi-billion in public equities"
-last_verified_investment:
-  date: 2026-02-02
-  company: "Waymo"
-  round: "Series D"
-social:
-  twitter: ""
-  linkedin: "linkedin.com/in/chase-coleman"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Waymo
+  date: 2026-02-02
+  round: Series D
+location: New York, NY
+name: Chase Coleman III
+role: Founder & CEO
+sector_focus:
+- internet
+- software
+- consumer-technology
+- fintech
+- AI
+- e-commerce
+slug: chase-coleman
+social:
+  linkedin: linkedin.com/in/chase-coleman
+  twitter: ''
+stage_focus:
+- late-stage
+- growth
+- crossover
+status: published
+type: individual
 ---
 
 ## Background

@@ -49,6 +49,9 @@ investors:
 - round: ~2005
   slug: keith-rabois
   year: 2005
+- round: '2008'
+  slug: trae-stephens
+  year: 2008
 last_researched: 2026-03-20
 location: Denver, CO
 name: Palantir Technologies

@@ -234,7 +234,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Dropbox
   type: startup
@@ -306,7 +306,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Flexport
   type: startup
@@ -4444,14 +4444,14 @@ queue:
 - name: Sonali De Rycker
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: accel
   discovered_from: accel
 - name: Martin Mignot
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: index-ventures
   discovered_from: index-ventures
@@ -4643,7 +4643,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Lo Toney
   type: individual
@@ -4699,7 +4699,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Jeff Richards
   type: individual
@@ -4715,7 +4715,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Sriram Krishnan
   type: individual
@@ -4731,7 +4731,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Turner Novak
   type: individual
@@ -4739,7 +4739,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Hampus Jakobsson
   type: individual
@@ -5241,28 +5241,28 @@ queue:
 - name: Daniel Ek
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Prima Materia
   discovered_from: shakil-khan
 - name: Olivier Pomel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Datadog
   discovered_from: shardul-shah
 - name: Assaf Rappaport
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Wiz
   discovered_from: shardul-shah
 - name: Tobi Lutke
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shopify
   discovered_from: alex-ferrara
@@ -5464,7 +5464,7 @@ queue:
 - name: Plexo Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: lo-toney
 - name: MaC Venture Capital
@@ -5506,7 +5506,7 @@ queue:
 - name: Fred Wilson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Union Square Ventures
   discovered_from: union-square-ventures
@@ -5630,3 +5630,55 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: martin-mignot
+- name: Paradigm
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-huang
+- name: Balderton Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: revolut
+- name: BoxGroup
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramp
+- name: Fred Ehrsam
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Paradigm
+  discovered_from: matt-huang
+- name: Hans Tung
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Notable Capital
+  discovered_from: notable-capital
+- name: Glenn Solomon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Notable Capital
+  discovered_from: notable-capital
+- name: Solomon Hykes
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dagger
+  discovered_from: erica-brescia
+- name: Wiz
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeff-horing

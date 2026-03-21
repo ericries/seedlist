@@ -166,6 +166,9 @@ investors:
 - round: ~2011
   slug: david-sacks
   year: 2011
+- round: ~2010
+  slug: zachary-bogue
+  year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

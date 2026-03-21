@@ -60,6 +60,9 @@ firms:
 - round: '2012'
   slug: khosla-ventures
   year: 2012
+- round: ~2007
+  slug: standard-capital
+  year: 2007
 founded: 2005
 founders:
 - name: Steve Huffman
@@ -117,6 +120,9 @@ investors:
 - round: '2012'
   slug: keith-rabois
   year: 2012
+- round: ~2007
+  slug: paul-buchheit
+  year: 2007
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

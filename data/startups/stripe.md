@@ -54,6 +54,9 @@ firms:
 - round: '2012'
   slug: union-square-ventures
   year: 2012
+- round: ~2010
+  slug: standard-capital
+  year: 2010
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -121,6 +124,9 @@ investors:
 - round: '2012'
   slug: fred-wilson
   year: 2012
+- round: ~2010
+  slug: paul-buchheit
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

@@ -30,6 +30,9 @@ firms:
 - round: Series B
   slug: greenoaks
   year: 2020
+- round: ~2017
+  slug: standard-capital
+  year: 2017
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -55,6 +58,9 @@ investors:
 - round: '2019'
   slug: mamoon-hamid
   year: 2019
+- round: ~2017
+  slug: paul-buchheit
+  year: 2017
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

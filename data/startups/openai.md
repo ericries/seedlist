@@ -27,6 +27,9 @@ firms:
 - round: ~2015
   slug: y-combinator
   year: 2015
+- round: ~2015
+  slug: standard-capital
+  year: 2015
 founded: 2015
 founders:
 - name: Sam Altman
@@ -79,6 +82,9 @@ investors:
   year: 2022
 - round: ~2015
   slug: jessica-livingston
+  year: 2015
+- round: ~2015
+  slug: paul-buchheit
   year: 2015
 last_researched: 2026-03-13
 location: San Francisco, CA

@@ -39,6 +39,9 @@ firms:
 - round: Growth
   slug: greenoaks
   year: 2020
+- round: '2013'
+  slug: index-ventures
+  year: 2013
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -75,6 +78,9 @@ investors:
   year: 2018
 - round: ~2013
   slug: howard-lindzon
+  year: 2013
+- round: '2013'
+  slug: jan-hammer
   year: 2013
 last_researched: 2026-03-19
 location: Menlo Park, CA

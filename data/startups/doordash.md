@@ -36,6 +36,9 @@ firms:
 - round: ~2014
   slug: khosla-ventures
   year: 2014
+- round: ~2013
+  slug: standard-capital
+  year: 2013
 founded: 2013
 founders:
 - name: Tony Xu
@@ -86,6 +89,9 @@ investors:
 - round: ~2014
   slug: keith-rabois
   year: 2014
+- round: ~2013
+  slug: paul-buchheit
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, California
 name: DoorDash
