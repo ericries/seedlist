@@ -75,6 +75,9 @@ team:
 - name: Sriram Krishnan
   role: Former General Partner (now Senior White House Policy Advisor for AI)
   slug: sriram-krishnan
+- name: Scott Kupor
+  role: Managing Partner (on leave; serving as OPM Director)
+  slug: scott-kupor
 type: firm
 website: https://a16z.com
 ---

@@ -39,6 +39,9 @@ firms:
 - round: '2013'
   slug: andreessen-horowitz
   year: 2013
+- round: '2013'
+  slug: union-square-ventures
+  year: 2013
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -87,6 +90,9 @@ investors:
   year: 2015
 - round: '2013'
   slug: chris-dixon
+  year: 2013
+- round: '2013'
+  slug: fred-wilson
   year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA

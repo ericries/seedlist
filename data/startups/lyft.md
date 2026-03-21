@@ -12,6 +12,9 @@ firms:
 - round: ~2012
   slug: khosla-ventures
   year: 2012
+- round: ~2013
+  slug: mayfield-fund
+  year: 2013
 founded: 2012
 founders:
 - name: Logan Green
@@ -31,6 +34,9 @@ investors:
 - round: ~2012
   slug: keith-rabois
   year: 2012
+- round: ~2013
+  slug: navin-chaddha
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft

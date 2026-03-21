@@ -6,6 +6,9 @@ firms:
 - round: ~2010
   slug: nea
   year: 2010
+- round: '2011'
+  slug: union-square-ventures
+  year: 2011
 founded: 2009
 founders:
 - name: Matthew Prince
@@ -18,6 +21,9 @@ investors:
 - round: ~2010
   slug: scott-sandell
   year: 2010
+- round: '2011'
+  slug: fred-wilson
+  year: 2011
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Cloudflare

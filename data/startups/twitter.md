@@ -37,6 +37,9 @@ firms:
 - round: '2009'
   slug: insight-partners
   year: 2009
+- round: '2007'
+  slug: union-square-ventures
+  year: 2007
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -81,6 +84,9 @@ investors:
 - round: '2009'
   slug: deven-parekh
   year: 2009
+- round: '2007'
+  slug: fred-wilson
+  year: 2007
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter

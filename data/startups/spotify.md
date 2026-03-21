@@ -94,6 +94,9 @@ investors:
 - round: ~2012
   slug: sameer-gandhi
   year: 2012
+- round: '2011'
+  slug: sonali-de-rycker
+  year: 2011
 last_researched: 2026-03-19
 location: Stockholm, Sweden
 name: Spotify

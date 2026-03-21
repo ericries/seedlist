@@ -84,6 +84,9 @@ team:
 - name: Dalton Caldwell
   role: Partner Emeritus (former Managing Director & Group Partner)
   slug: dalton-caldwell
+- name: Jessica Livingston
+  role: Co-Founder
+  slug: jessica-livingston
 type: firm
 website: https://www.ycombinator.com
 ---

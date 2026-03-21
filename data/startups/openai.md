@@ -24,6 +24,9 @@ firms:
 - round: Series C ($130M at $29B); tender at $86B (2023); $1B at $285B (2026)
   slug: thrive-capital
   year: 2022
+- round: ~2015
+  slug: y-combinator
+  year: 2015
 founded: 2015
 founders:
 - name: Sam Altman
@@ -74,6 +77,9 @@ investors:
 - round: Series C ($130M at $29B); tender at $86B (2023); $1B at $285B (2026)
   slug: josh-kushner
   year: 2022
+- round: ~2015
+  slug: jessica-livingston
+  year: 2015
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: OpenAI
