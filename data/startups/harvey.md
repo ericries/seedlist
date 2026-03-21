@@ -115,6 +115,9 @@ investors:
 - round: Series A
   slug: pat-grady
   year: 2023
+- round: ~2024
+  slug: mike-vernal
+  year: 2024
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Harvey

@@ -99,6 +99,9 @@ investors:
 - round: ~2019
   slug: sheel-mohnot
   year: 2019
+- round: ~2019
+  slug: jake-gibson
+  year: 2019
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

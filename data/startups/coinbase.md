@@ -106,6 +106,9 @@ investors:
 - round: ~2013
   slug: jeff-richards
   year: 2013
+- round: '2012'
+  slug: fred-ehrsam
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

@@ -91,6 +91,9 @@ investors:
 - round: '2018'
   slug: david-sze
   year: 2018
+- round: '2017'
+  slug: neil-rimer
+  year: 2017
 last_researched: 2026-03-19
 location: San Mateo, CA
 name: Roblox

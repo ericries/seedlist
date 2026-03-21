@@ -30,6 +30,9 @@ firms:
 - round: '2021'
   slug: altimeter-capital
   year: 2021
+- round: ~2014
+  slug: homebrew
+  year: 2014
 founded: 2013
 founders:
 - name: Zach Perret
@@ -49,6 +52,9 @@ investors:
 - round: '2021'
   slug: brad-gerstner
   year: 2021
+- round: ~2014
+  slug: satya-patel
+  year: 2014
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

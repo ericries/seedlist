@@ -39,6 +39,9 @@ firms:
 - round: ~2013
   slug: standard-capital
   year: 2013
+- round: ~2013
+  slug: nfx
+  year: 2013
 founded: 2013
 founders:
 - name: Tony Xu
@@ -91,6 +94,9 @@ investors:
   year: 2014
 - round: ~2013
   slug: paul-buchheit
+  year: 2013
+- round: ~2013
+  slug: james-currier
   year: 2013
 last_researched: 2026-03-13
 location: San Francisco, California

@@ -70,6 +70,9 @@ investors:
 - round: Series A
   slug: micky-malka
   year: 2016
+- round: ~2016
+  slug: neil-rimer
+  year: 2016
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Revolut

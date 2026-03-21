@@ -3664,7 +3664,7 @@ queue:
 - name: Obvious Ventures
   type: firm
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Obvious Ventures
   discovered_from: sami-inkinen
@@ -4458,7 +4458,7 @@ queue:
 - name: Jan Hammer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: index-ventures
   discovered_from: index-ventures
@@ -4707,7 +4707,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Sheel Mohnot
   type: individual
@@ -5276,7 +5276,7 @@ queue:
 - name: Peter Hebert
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lux Capital
   discovered_from: lux-capital
@@ -5290,28 +5290,28 @@ queue:
 - name: Logan Bartlett
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Redpoint Ventures
   discovered_from: redpoint-ventures
 - name: Erica Brescia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Redpoint Ventures
   discovered_from: redpoint-ventures
 - name: Brett Gibson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Initialized Capital
   discovered_from: initialized-capital
 - name: Zachary Bogue
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: DCVC
   discovered_from: dcvc
@@ -5344,21 +5344,21 @@ queue:
 - name: Trae Stephens
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Founders Fund
   discovered_from: palmer-luckey
 - name: Jeff Horing
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Insight Partners
   discovered_from: insight-partners
 - name: Matt Huang
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: benchling
 - name: Mike Vernal
@@ -5470,7 +5470,7 @@ queue:
 - name: MaC Venture Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: marlon-nichols
 - name: VZVC
@@ -5513,7 +5513,7 @@ queue:
 - name: Brad Burnham
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Union Square Ventures
   discovered_from: union-square-ventures
@@ -5527,7 +5527,7 @@ queue:
 - name: Paul Buchheit
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Standard Capital
   discovered_from: dalton-caldwell
@@ -5615,19 +5615,19 @@ queue:
 - name: Ramp
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: sheel-mohnot
 - name: Deliveroo
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: martin-mignot
 - name: Revolut
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: martin-mignot
 - name: Paradigm
@@ -5682,3 +5682,24 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: jeff-horing
+- name: Gili Raanan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cyberstarts
+  discovered_from: wiz
+- name: Hunter Walk
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Homebrew
+  discovered_from: satya-patel
+- name: Eurie Kim
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Forerunner Ventures
+  discovered_from: kirsten-green

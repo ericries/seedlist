@@ -33,6 +33,9 @@ firms:
 - round: ~2018
   slug: andreessen-horowitz
   year: 2018
+- round: ~2018
+  slug: conviction
+  year: 2018
 founded: 2013
 founders:
 - name: Ivan Zhao
@@ -75,6 +78,9 @@ investors:
   year: 2019
 - round: ~2018
   slug: sriram-krishnan
+  year: 2018
+- round: ~2018
+  slug: mike-vernal
   year: 2018
 last_researched: 2026-03-19
 location: San Francisco, California

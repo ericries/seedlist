@@ -84,6 +84,9 @@ firms:
 - round: Seed
   slug: y-combinator
   year: 2013
+- round: ~2014
+  slug: nfx
+  year: 2014
 founded: 2013
 founders:
 - name: Jack Conte
@@ -118,6 +121,9 @@ investors:
 - round: Seed
   slug: ron-conway
   year: 2013
+- round: ~2014
+  slug: james-currier
+  year: 2014
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Patreon

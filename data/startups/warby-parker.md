@@ -42,6 +42,9 @@ firms:
 - round: Growth
   slug: addition
   year: 2020
+- round: ~2010
+  slug: forerunner-ventures
+  year: 2010
 founded: 2010
 founders:
 - name: Neil Blumenthal
@@ -83,6 +86,9 @@ investors:
 - round: Seed
   slug: chris-fralic
   year: 2011
+- round: ~2010
+  slug: kirsten-green
+  year: 2010
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker

@@ -33,6 +33,9 @@ firms:
 - round: ~2017
   slug: standard-capital
   year: 2017
+- round: ~2019
+  slug: conviction
+  year: 2019
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -61,6 +64,9 @@ investors:
 - round: ~2017
   slug: paul-buchheit
   year: 2017
+- round: ~2019
+  slug: mike-vernal
+  year: 2019
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling
