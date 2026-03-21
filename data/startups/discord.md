@@ -30,6 +30,9 @@ firms:
 - round: Early
   slug: bessemer-venture-partners
   year: 2016
+- round: Growth
+  slug: greenoaks
+  year: 2020
 founded: 2015
 founders:
 - name: Jason Citron
@@ -60,6 +63,9 @@ investors:
   year: 2016
 - round: '2016'
   slug: bijan-sabet
+  year: 2016
+- round: '2016'
+  slug: david-sze
   year: 2016
 last_researched: 2026-03-20
 location: San Francisco, CA

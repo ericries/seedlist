@@ -42,6 +42,9 @@ firms:
 - round: ~2018
   slug: quora
   year: 2018
+- round: Growth round
+  slug: greenoaks
+  year: 2021
 founded: 2016
 founders:
 - name: Alexandr Wang

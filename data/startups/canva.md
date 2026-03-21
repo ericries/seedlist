@@ -27,6 +27,9 @@ firms:
 - round: ~2013
   slug: felicis
   year: 2013
+- round: Growth ($200M round)
+  slug: greenoaks
+  year: 2021
 founded: 2013
 founders:
 - name: Melanie Perkins

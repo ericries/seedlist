@@ -282,7 +282,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Warby Parker
   type: startup
@@ -1766,7 +1766,7 @@ queue:
   discovered_from: shruti-gandhi
   discovery_depth: 1
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Solugen
   type: startup
@@ -2907,7 +2907,7 @@ queue:
   source: Mary Meeker's fund, investor in Applied Intuition
   discovered_from: applied-intuition
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Greenoaks Capital
   type: firm
@@ -2921,14 +2921,14 @@ queue:
   source: co-led Deel Series E
   discovered_from: deel
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Insight Partners
   type: firm
   source: led SentinelOne Series D+E
   discovered_from: sentinelone
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Redpoint Ventures
   type: firm
@@ -3650,7 +3650,7 @@ queue:
 - name: José Marín
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: FJ Labs
   discovered_from: fabrice-grinda
@@ -4472,21 +4472,21 @@ queue:
 - name: Bijan Sabet
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: spark-capital
   discovered_from: spark-capital
 - name: Palmer Luckey
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: anduril
   discovered_from: joe-lonsdale
 - name: Mike Krieger
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: kevin-systrom
 - name: Adam D'Angelo
@@ -4498,7 +4498,7 @@ queue:
 - name: Marc Lore
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Wonder
   discovered_from: sameer-gandhi
@@ -4515,7 +4515,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Chris Dixon
   type: individual
@@ -4523,7 +4523,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Keith Rabois
   type: individual
@@ -4531,7 +4531,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Martin Casado
   type: individual
@@ -4539,7 +4539,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Katherine Boyle
   type: individual
@@ -4547,7 +4547,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Sarah Guo
   type: individual
@@ -4555,7 +4555,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Neeraj Agrawal
   type: individual
@@ -5409,3 +5409,55 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: marc-lore
+- name: Battery Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neeraj-agrawal
+- name: OpenAI Startup Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harvey
+- name: Ilya Fushman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kleiner Perkins
+  discovered_from: mamoon-hamid
+- name: Asheem Chandna
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Greylock
+  discovered_from: jerry-chen
+- name: Diogo Monica
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Haun Ventures
+  discovered_from: haun-ventures
+- name: Eric Schmidt
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mistral-ai
+- name: Xavier Niel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mistral-ai
+- name: Parker Conrad
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Rippling
+  discovered_from: mamoon-hamid

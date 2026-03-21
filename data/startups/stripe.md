@@ -45,6 +45,9 @@ firms:
 - round: ~2011
   slug: andreessen-horowitz
   year: 2011
+- round: Growth
+  slug: greenoaks
+  year: 2019
 founded: 2010
 founders:
 - name: Patrick Collison

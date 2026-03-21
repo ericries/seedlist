@@ -27,6 +27,9 @@ firms:
 - round: '2025'
   slug: accel
   year: 2025
+- round: Series G ($30B)
+  slug: greenoaks
+  year: 2026
 founded: 2021
 founders:
 - name: Dario Amodei

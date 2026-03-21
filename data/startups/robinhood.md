@@ -36,6 +36,9 @@ firms:
 - round: ~2013
   slug: social-leverage
   year: 2013
+- round: Growth
+  slug: greenoaks
+  year: 2020
 founded: 2013
 founders:
 - name: Vlad Tenev

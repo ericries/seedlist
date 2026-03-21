@@ -27,6 +27,9 @@ firms:
 - round: Angel
   slug: nfdg
   year: 2017
+- round: Series B
+  slug: greenoaks
+  year: 2020
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -49,6 +52,9 @@ investors:
 - round: Angel
   slug: daniel-gross
   year: 2017
+- round: '2019'
+  slug: mamoon-hamid
+  year: 2019
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

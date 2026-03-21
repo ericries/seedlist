@@ -88,6 +88,9 @@ investors:
 - round: Seed
   slug: chris-fralic
   year: 2009
+- round: '2018'
+  slug: david-sze
+  year: 2018
 last_researched: 2026-03-19
 location: San Mateo, CA
 name: Roblox

@@ -1,6 +1,6 @@
 ---
 check_size: $25K-$100K
-firm: lowercarbon-capital
+firm: lowercase-capital
 last_researched: 2026-03-17
 last_verified_investment:
   company: Toymail

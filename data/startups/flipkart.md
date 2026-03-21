@@ -100,6 +100,9 @@ firms:
 - round: Multiple rounds ($1B+)
   slug: addition
   year: 2009
+- round: Series E
+  slug: greenoaks
+  year: 2014
 founded: 2007
 founders:
 - name: Sachin Bansal

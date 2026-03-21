@@ -69,6 +69,9 @@ investors:
 - round: '2011'
   slug: chris-dixon
   year: 2011
+- round: ~2012
+  slug: connie-chan
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

@@ -27,6 +27,9 @@ firms:
 - round: '2023'
   slug: lux-capital
   year: 2023
+- round: Series G ($1B)
+  slug: greenoaks
+  year: 2021
 founded: 2013
 founders:
 - name: Ali Ghodsi

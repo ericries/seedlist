@@ -30,6 +30,12 @@ firms:
 - round: ~2018
   slug: anthropic
   year: 2018
+- round: Growth
+  slug: greenoaks
+  year: 2020
+- round: ~2016
+  slug: kleiner-perkins
+  year: 2016
 founded: 2012
 founders:
 - name: Dylan Field
@@ -73,6 +79,9 @@ investors:
 - round: ~2018
   slug: mike-krieger
   year: 2018
+- round: ~2016
+  slug: mamoon-hamid
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

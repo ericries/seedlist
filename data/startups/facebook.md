@@ -27,6 +27,9 @@ firms:
 - round: ~2005
   slug: craft-ventures
   year: 2005
+- round: '2006'
+  slug: greylock
+  year: 2006
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -67,6 +70,9 @@ investors:
 - round: ~2005
   slug: david-sacks
   year: 2005
+- round: '2006'
+  slug: david-sze
+  year: 2006
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

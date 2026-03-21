@@ -27,6 +27,9 @@ firms:
 - round: ~2014
   slug: marathon-management-partners
   year: 2014
+- round: Growth
+  slug: greenoaks
+  year: 2018
 founded: 2012
 founders:
 - name: Howie Liu
