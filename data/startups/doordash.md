@@ -33,6 +33,9 @@ firms:
 - round: '2025'
   slug: octahedron-capital
   year: 2025
+- round: ~2014
+  slug: khosla-ventures
+  year: 2014
 founded: 2013
 founders:
 - name: Tony Xu
@@ -80,6 +83,9 @@ investors:
 - round: '2025'
   slug: ram-parameswaran
   year: 2025
+- round: ~2014
+  slug: keith-rabois
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, California
 name: DoorDash

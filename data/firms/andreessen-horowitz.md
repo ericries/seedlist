@@ -1,58 +1,75 @@
 ---
-name: "Andreessen Horowitz"
-slug: andreessen-horowitz
-type: firm
-website: "https://a16z.com"
-location: "Menlo Park, CA"
 founded: 2009
-fund_size: "$7.2B (2024 across five funds); $15B (2026 across five funds); $90B+ total AUM"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, enterprise, consumer, crypto, fintech, bio-health, games, infrastructure, american-dynamism]
-team:
-  - slug: marc-andreessen
-    role: "Co-Founder & General Partner"
-    name: "Marc Andreessen"
-  - slug: ben-horowitz
-    role: "Co-Founder & General Partner"
-    name: "Ben Horowitz"
-  - slug: chris-dixon
-    role: "General Partner (Crypto)"
-    name: "Chris Dixon"
-  - slug: jeff-jordan
-    role: "General Partner"
-    name: "Jeff Jordan"
-  - slug: martin-casado
-    role: "General Partner"
-    name: "Martin Casado"
-  - slug: andrew-chen
-    role: "General Partner"
-    name: "Andrew Chen"
-  - slug: connie-chan
-    role: "General Partner (Consumer)"
-    name: "Connie Chan"
-  - slug: david-george
-    role: "General Partner (Growth)"
-    name: "David George"
-  - slug: julie-yoo
-    role: "General Partner (Bio + Health)"
-    name: "Julie Yoo"
-  - slug: alex-rampell
-    role: "General Partner (Fintech)"
-    name: "Alex Rampell"
-  - slug: angela-strange
-    role: "General Partner (Fintech)"
-    name: "Angela Strange"
-  - slug: anish-acharya
-    role: "General Partner"
-    name: "Anish Acharya"
-  - slug: raghu-raghuram
-    role: "General Partner"
-    name: "Raghu Raghuram"
-  - slug: erik-torenberg
-    role: "General Partner"
-    name: "Erik Torenberg"
-status: published
+fund_size: $7.2B (2024 across five funds); $15B (2026 across five funds); $90B+ total
+  AUM
 last_researched: 2026-03-13
+location: Menlo Park, CA
+name: Andreessen Horowitz
+sector_focus:
+- ai
+- enterprise
+- consumer
+- crypto
+- fintech
+- bio-health
+- games
+- infrastructure
+- american-dynamism
+slug: andreessen-horowitz
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Marc Andreessen
+  role: Co-Founder & General Partner
+  slug: marc-andreessen
+- name: Ben Horowitz
+  role: Co-Founder & General Partner
+  slug: ben-horowitz
+- name: Chris Dixon
+  role: General Partner (Crypto)
+  slug: chris-dixon
+- name: Jeff Jordan
+  role: General Partner
+  slug: jeff-jordan
+- name: Martin Casado
+  role: General Partner
+  slug: martin-casado
+- name: Andrew Chen
+  role: General Partner
+  slug: andrew-chen
+- name: Connie Chan
+  role: General Partner (Consumer)
+  slug: connie-chan
+- name: David George
+  role: General Partner (Growth)
+  slug: david-george
+- name: Julie Yoo
+  role: General Partner (Bio + Health)
+  slug: julie-yoo
+- name: Alex Rampell
+  role: General Partner (Fintech)
+  slug: alex-rampell
+- name: Angela Strange
+  role: General Partner (Fintech)
+  slug: angela-strange
+- name: Anish Acharya
+  role: General Partner
+  slug: anish-acharya
+- name: Raghu Raghuram
+  role: General Partner
+  slug: raghu-raghuram
+- name: Erik Torenberg
+  role: General Partner
+  slug: erik-torenberg
+- name: Katherine Boyle
+  role: General Partner
+  slug: katherine-boyle
+type: firm
+website: https://a16z.com
 ---
 
 ## About

@@ -58,6 +58,9 @@ investors:
 - round: Early
   slug: jeremy-levine
   year: 2016
+- round: '2016'
+  slug: bijan-sabet
+  year: 2016
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Discord

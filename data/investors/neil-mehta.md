@@ -1,21 +1,30 @@
 ---
-name: "Neil Mehta"
-slug: neil-mehta
-type: individual
-firm: greenoaks-capital
-role: "Founder & Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [series-a, series-b, growth]
-sector_focus: [enterprise-saas, fintech, e-commerce, developer-tools, AI, cybersecurity]
-check_size: "$25M–$75M"
-last_verified_investment:
-  date: 2026-02
-  company: "Anthropic"
-  round: "Series G"
-social:
-  linkedin: "linkedin.com/in/neil-mehta-47623079"
-status: published
+check_size: $25M–$75M
+firm: greenoaks
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Anthropic
+  date: 2026-02
+  round: Series G
+location: San Francisco, CA
+name: Neil Mehta
+role: Founder & Managing Partner
+sector_focus:
+- enterprise-saas
+- fintech
+- e-commerce
+- developer-tools
+- AI
+- cybersecurity
+slug: neil-mehta
+social:
+  linkedin: linkedin.com/in/neil-mehta-47623079
+stage_focus:
+- series-a
+- series-b
+- growth
+status: published
+type: individual
 ---
 
 ## Background

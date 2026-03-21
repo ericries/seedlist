@@ -57,6 +57,9 @@ firms:
 - round: ~2009
   slug: craft-ventures
   year: 2009
+- round: '2012'
+  slug: khosla-ventures
+  year: 2012
 founded: 2005
 founders:
 - name: Steve Huffman
@@ -111,6 +114,9 @@ investors:
 - round: ~2009
   slug: david-sacks
   year: 2009
+- round: '2012'
+  slug: keith-rabois
+  year: 2012
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

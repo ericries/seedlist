@@ -36,6 +36,12 @@ firms:
 - round: Early
   slug: index-ventures
   year: 2018
+- round: ~2019
+  slug: anthropic
+  year: 2019
+- round: ~2018
+  slug: quora
+  year: 2018
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -70,6 +76,12 @@ investors:
 - round: Seed
   slug: greg-brockman
   year: 2016
+- round: ~2019
+  slug: mike-krieger
+  year: 2019
+- round: ~2018
+  slug: adam-dangelo
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

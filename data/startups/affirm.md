@@ -50,6 +50,9 @@ investors:
 - round: ~2012
   slug: david-sacks
   year: 2012
+- round: ~2014
+  slug: keith-rabois
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

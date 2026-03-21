@@ -2900,7 +2900,7 @@ queue:
   source: seed-to-Series F investor in Applied Intuition
   discovered_from: applied-intuition
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: BOND
   type: firm
@@ -2935,21 +2935,21 @@ queue:
   source: led SentinelOne Series C
   discovered_from: sentinelone
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: DCVC
   type: firm
   source: seed investor in SentinelOne
   discovered_from: sentinelone
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Initialized Capital
   type: firm
   source: early investor in Rippling
   discovered_from: rippling
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Lowercase Capital
   type: firm
@@ -4019,7 +4019,7 @@ queue:
 - name: Shakil Khan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: spotify
 - name: Sean Parker
@@ -4114,7 +4114,7 @@ queue:
 - name: Andrew Dudum
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Atomic Labs
   discovered_from: hims-and-hers
@@ -4127,7 +4127,7 @@ queue:
 - name: Aydin Senkut
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: notion
 - name: Forerunner Ventures
@@ -4158,14 +4158,14 @@ queue:
 - name: Kristina Shen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: chemistry-vc
   discovered_from: chemistry-vc
 - name: Joseph Ruscio
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: heavybit
   discovered_from: heavybit
@@ -4186,26 +4186,26 @@ queue:
 - name: Stan Druckenmiller
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: perplexity-ai
 - name: Dylan Field
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: perplexity-ai
 - name: Sameer Gandhi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Accel
   discovered_from: dropbox
 - name: Alex Ferrara
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bessemer Venture Partners
   discovered_from: shopify
@@ -4358,7 +4358,7 @@ queue:
 - name: Howard Lindzon
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: robinhood
 - name: David Sacks
@@ -4371,14 +4371,14 @@ queue:
 - name: Shardul Shah
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Index Ventures
   discovered_from: datadog
 - name: Scott Sandell
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NEA
   discovered_from: cloudflare
@@ -5329,3 +5329,83 @@ queue:
   added: '2026-03-17'
   firm: DCVC
   discovered_from: dcvc
+- name: Conviction
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-guo
+- name: Haun Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chris-dixon
+- name: Trae Stephens
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Founders Fund
+  discovered_from: palmer-luckey
+- name: Jeff Horing
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Insight Partners
+  discovered_from: insight-partners
+- name: Matt Huang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: benchling
+- name: Mike Vernal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Conviction
+  discovered_from: sarah-guo
+- name: Mood Rowghani
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BOND
+  discovered_from: bond
+- name: Nick Shalek
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ribbit Capital
+  discovered_from: ribbit-capital
+- name: David Ulevitch
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: andreessen-horowitz
+  discovered_from: katherine-boyle
+- name: Vinod Khosla
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Khosla Ventures
+  discovered_from: keith-rabois
+- name: Alex Rodriguez
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: VCP Ventures
+  discovered_from: marc-lore
+- name: VCP Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-lore

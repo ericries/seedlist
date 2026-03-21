@@ -37,6 +37,9 @@ firms:
 - round: ~2013
   slug: craft-ventures
   year: 2013
+- round: ~2014
+  slug: spark-capital
+  year: 2014
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -81,6 +84,9 @@ investors:
 - round: ~2013
   slug: david-sacks
   year: 2013
+- round: ~2014
+  slug: bijan-sabet
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

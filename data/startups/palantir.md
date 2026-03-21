@@ -15,6 +15,9 @@ firms:
 - round: ~2004
   slug: craft-ventures
   year: 2004
+- round: ~2005
+  slug: khosla-ventures
+  year: 2005
 founded: 2003
 founders:
 - name: Peter Thiel
@@ -43,6 +46,9 @@ investors:
 - round: ~2004
   slug: david-sacks
   year: 2004
+- round: ~2005
+  slug: keith-rabois
+  year: 2005
 last_researched: 2026-03-20
 location: Denver, CO
 name: Palantir Technologies

@@ -27,6 +27,9 @@ firms:
 - round: ~2013
   slug: marathon-management-partners
   year: 2013
+- round: ~2018
+  slug: anthropic
+  year: 2018
 founded: 2012
 founders:
 - name: Dylan Field
@@ -67,6 +70,9 @@ investors:
 - round: ~2013
   slug: gokul-rajaram
   year: 2013
+- round: ~2018
+  slug: mike-krieger
+  year: 2018
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

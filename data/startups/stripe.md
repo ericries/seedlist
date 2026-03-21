@@ -39,6 +39,12 @@ firms:
 - round: Early stage
   slug: lowercarbon-capital
   year: 2011
+- round: ~2014
+  slug: khosla-ventures
+  year: 2014
+- round: ~2011
+  slug: andreessen-horowitz
+  year: 2011
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -94,6 +100,12 @@ investors:
 - round: Angel
   slug: max-levchin
   year: 2014
+- round: ~2014
+  slug: keith-rabois
+  year: 2014
+- round: ~2011
+  slug: chris-dixon
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

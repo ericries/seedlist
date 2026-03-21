@@ -80,6 +80,9 @@ investors:
 - round: Seed ($8M round)
   slug: arash-ferdowsi
   year: 2023
+- round: ~2023
+  slug: martin-casado
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

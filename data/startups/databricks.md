@@ -24,6 +24,9 @@ firms:
 - round: Series G
   slug: octahedron-capital
   year: 2021
+- round: '2023'
+  slug: lux-capital
+  year: 2023
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -65,6 +68,9 @@ investors:
 - round: Series G
   slug: albert-chiang
   year: 2021
+- round: '2023'
+  slug: josh-wolfe
+  year: 2023
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

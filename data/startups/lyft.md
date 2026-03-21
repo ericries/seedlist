@@ -9,6 +9,9 @@ firms:
 - round: ~2012
   slug: craft-ventures
   year: 2012
+- round: ~2012
+  slug: khosla-ventures
+  year: 2012
 founded: 2012
 founders:
 - name: Logan Green
@@ -24,6 +27,9 @@ investors:
   year: 2018
 - round: ~2012
   slug: david-sacks
+  year: 2012
+- round: ~2012
+  slug: keith-rabois
   year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California

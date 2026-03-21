@@ -36,6 +36,9 @@ firms:
 - round: ~2015
   slug: draper-associates
   year: 2015
+- round: '2013'
+  slug: andreessen-horowitz
+  year: 2013
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -82,6 +85,9 @@ investors:
 - round: ~2015
   slug: tim-draper
   year: 2015
+- round: '2013'
+  slug: chris-dixon
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

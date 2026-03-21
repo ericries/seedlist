@@ -58,6 +58,9 @@ investors:
 - round: Series D ($175M, co-led)
   slug: lee-fixel
   year: 2021
+- round: '2017'
+  slug: josh-wolfe
+  year: 2017
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition

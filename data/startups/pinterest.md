@@ -24,6 +24,9 @@ firms:
 - round: Early
   slug: bessemer-venture-partners
   year: 2011
+- round: '2011'
+  slug: andreessen-horowitz
+  year: 2011
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -62,6 +65,9 @@ investors:
   year: 2010
 - round: Early
   slug: jeremy-levine
+  year: 2011
+- round: '2011'
+  slug: chris-dixon
   year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA

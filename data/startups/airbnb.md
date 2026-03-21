@@ -30,6 +30,9 @@ firms:
 - round: ~2009
   slug: craft-ventures
   year: 2009
+- round: ~2009
+  slug: khosla-ventures
+  year: 2009
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -77,6 +80,9 @@ investors:
   year: 2012
 - round: ~2009
   slug: david-sacks
+  year: 2009
+- round: ~2009
+  slug: keith-rabois
   year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
