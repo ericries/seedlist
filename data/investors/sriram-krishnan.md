@@ -5,7 +5,7 @@ last_researched: 2026-03-20
 last_verified_investment:
   company: Farcaster
   date: ~2022
-  round: ~2022
+  round: "Investment"
 location: Washington, D.C. (previously San Francisco, CA)
 name: Sriram Krishnan
 role: Former General Partner (now Senior White House Policy Advisor for AI)

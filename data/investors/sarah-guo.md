@@ -9,9 +9,9 @@ stage_focus: [seed, series-a]
 sector_focus: [ai, enterprise-software, infrastructure, security, robotics]
 check_size: "$1M-$25M"
 last_verified_investment:
-  date: 2025-01
-  company: "Conviction Fund II"
-  round: "Fund II close ($230M)"
+  date: ~2023
+  company: "Cognition"
+  round: "Early"
 social:
   twitter: "@saranormous"
   linkedin: "linkedin.com/in/sarahxguo"

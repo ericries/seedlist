@@ -5,7 +5,7 @@ last_researched: 2026-03-20
 last_verified_investment:
   company: Function Health
   date: ~2022
-  round: ~2022
+  round: "Board"
 location: San Francisco, CA
 name: Vijay Pande
 role: Former General Partner (Bio + Health); now Co-Founder & Managing Partner, VZVC

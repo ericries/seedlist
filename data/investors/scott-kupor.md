@@ -101,11 +101,9 @@ Based on 13 verified board-level investments below, Kupor's personal portfolio a
 
 ## What Founders Say
 
-Ben Horowitz, a16z co-founder, said of Kupor: "He was our very first hire at a16z, because he is the best executive that we've worked with. He's super smart, detail-oriented, great culturally, and the hardest working man in the business" [^2].
+No independently sourced founder testimonials found from portfolio company founders about Kupor specifically.
 
-Colleagues who worked with Kupor for over 17 years have described him as "a salt of the earth guy" [^2].
-
-*Note: These quotes are from a16z co-founders and colleagues rather than portfolio company founders. No independently sourced testimonials from portfolio company founders about Kupor specifically were found.*
+*Note: Ben Horowitz (a16z co-founder/colleague) has praised Kupor as "the best executive that we've worked with" [^2], and colleagues have described him as "a salt of the earth guy" [^2] — but these are from co-founders and colleagues, not portfolio founders.*
 
 ## Sources
 

@@ -101,11 +101,9 @@ On foreign policy: "Because we have this political system that shifts very rapid
 
 ## What Founders Say
 
-A Defense Department official, speaking on background to Breaking Defense in 2025, called Anduril and Palantir the "success stories of the defense-tech movement" [^2].
-
-According to Newcomer, Stephens "has done as much as anyone to bring military technology into the venture capital mainstream" [^12].
-
 No independently sourced founder testimonials from portfolio company founders (other than Anduril, which Stephens co-founded) were found through dedicated searching.
+
+*Note: A Defense Department official called Anduril and Palantir "success stories of the defense-tech movement" [^2], and Newcomer reported Stephens "has done as much as anyone to bring military technology into the venture capital mainstream" [^12] — but these are from government officials and journalists, not portfolio founders.*
 
 ## Sources
 

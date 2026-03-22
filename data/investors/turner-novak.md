@@ -9,9 +9,9 @@ stage_focus: [pre-seed, seed, series-a]
 sector_focus: [consumer, fintech, gaming, media, developer-tools, SaaS, health]
 check_size: "$25K-$300K"
 last_verified_investment:
-  date: ~2025
-  company: "Fund 3 deployment"
-  round: "Pre-Seed/Seed"
+  date: ~2022
+  company: "Chainguard"
+  round: "Seed"
 social:
   twitter: "@TurnerNovak"
   linkedin: "linkedin.com/in/turnernovak"

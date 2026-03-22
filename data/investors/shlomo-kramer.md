@@ -2,7 +2,7 @@
 name: "Shlomo Kramer"
 slug: shlomo-kramer
 type: individual
-firm: null
+firm: cato-networks
 role: "Angel Investor & CEO, Cato Networks"
 location: "Tel Aviv, Israel"
 stage_focus: [seed, series-a, series-b]
@@ -113,9 +113,9 @@ The analysis below is based on 21 verified investments by Shlomo Kramer [^5][^6]
 
 ## What Founders Say
 
-Jerry Chen, Partner at Greylock (investor in Cato Networks), has stated: "Shlomo has built a painkiller for IT security teams, and their growth speaks to how crucial their product has become" [^1].
+No independently sourced founder testimonials found from founders of companies Kramer has invested in as an angel investor.
 
-*Note: This quote is from an investor (Greylock partner), not a portfolio company founder. No independently sourced testimonials from founders of companies Kramer has invested in (as an angel) were found.*
+*Note: Jerry Chen, Partner at Greylock (investor in Cato Networks), has stated: "Shlomo has built a painkiller for IT security teams, and their growth speaks to how crucial their product has become" [^1]. This is from a co-investor, not a portfolio founder.*
 
 ## Sources
 
