@@ -5,7 +5,7 @@ last_researched: 2026-03-20
 last_verified_investment:
   company: Spirit
   date: ~2026
-  round: '2026'
+  round: Seed
 location: Tel Aviv, Israel / New York, NY
 name: Assaf Rappaport
 role: Co-Founder & CEO
