@@ -2,7 +2,7 @@
 name: "Scott Belsky"
 slug: scott-belsky
 type: individual
-firm: ~
+firm: a24
 role: "Angel Investor; Partner at A24"
 location: "New York, NY"
 stage_focus: [pre-seed, seed]
@@ -10,7 +10,7 @@ sector_focus: [consumer, marketplaces, fintech, design, developer-tools, climate
 check_size: "$50K-$100K"
 last_verified_investment:
   date: 2025
-  company: "Multiple (active angel)"
+  company: "Ramp"
   round: "Seed"
 social:
   twitter: "@scottbelsky"

@@ -9,7 +9,9 @@ stage_focus: [public-equities]
 sector_focus: [financial-services, consumer, technology, industrials, media-telecom]
 social:
   linkedin: "linkedin.com/in/tompurcell3"
-status: published
+status: flagged
+review_notes: |
+  Public equities hedge fund manager with no startup investments. Profile states "does not invest in startups." Should not be in startup investor directory.
 last_researched: 2026-03-19
 
 ---

@@ -21,8 +21,8 @@ last_verified_investment:
   company: "Commonwealth Fusion Systems"
   round: "Series B2"
 social:
-  twitter: ""
-  linkedin: ""
+  twitter: ~
+  linkedin: ~
 status: published
 last_researched: 2026-03-20
 ---

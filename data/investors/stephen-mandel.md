@@ -9,12 +9,12 @@ stage_focus: [growth-equity, public-equity]
 sector_focus: [technology, consumer, healthcare, financials]
 check_size: "$400M-$900M (public equity positions)"
 last_verified_investment:
-  date: 2025
-  company: "ASML Holding NV"
-  round: "New public equity position (Q4 2025 13F)"
+  date: ~2024
+  company: "Canva"
+  round: "Private investment"
 social:
-  twitter: ""
-  linkedin: ""
+  twitter: ~
+  linkedin: ~
 status: published
 last_researched: 2026-03-18
 ---
