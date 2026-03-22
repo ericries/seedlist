@@ -3526,14 +3526,14 @@ queue:
 - name: Satya Patel
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Homebrew
   discovered_from: lauren-kolodny
 - name: Kirsten Green
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Forerunner Ventures
   discovered_from: lauren-kolodny
@@ -3568,14 +3568,14 @@ queue:
 - name: Neil Rimer
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Index Ventures
   discovered_from: danny-rimer
 - name: James Currier
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NFX
   discovered_from: pete-flint
@@ -3596,7 +3596,7 @@ queue:
 - name: NFX
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NFX
   discovered_from: pete-flint
@@ -4151,7 +4151,7 @@ queue:
 - name: Chester Ng
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: atomic
   discovered_from: atomic
@@ -5283,7 +5283,7 @@ queue:
 - name: Satish Dharmaraj
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Redpoint Ventures
   discovered_from: redpoint-ventures
@@ -5364,7 +5364,7 @@ queue:
 - name: Mike Vernal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Conviction
   discovered_from: sarah-guo
@@ -5520,7 +5520,7 @@ queue:
 - name: Peter Chung
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Summit Partners
   discovered_from: summit-partners
@@ -5575,7 +5575,7 @@ queue:
 - name: Shlomo Kramer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cato Networks
   discovered_from: assaf-rappaport
@@ -5608,7 +5608,7 @@ queue:
 - name: Jake Gibson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Better Tomorrow Ventures
   discovered_from: sheel-mohnot
@@ -5633,7 +5633,7 @@ queue:
 - name: Paradigm
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: matt-huang
 - name: Balderton Capital
@@ -5651,7 +5651,7 @@ queue:
 - name: Fred Ehrsam
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Paradigm
   discovered_from: matt-huang
@@ -5679,7 +5679,7 @@ queue:
 - name: Wiz
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jeff-horing
 - name: Gili Raanan
