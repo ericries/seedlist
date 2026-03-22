@@ -27,6 +27,9 @@ firms:
 - round: '2011'
   slug: andreessen-horowitz
   year: 2011
+- round: Seed
+  slug: a24
+  year: 2010
 founded: 2009
 founders:
 - name: Ben Silbermann

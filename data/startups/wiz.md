@@ -34,6 +34,9 @@ firms:
 - round: Series E
   slug: greylock
   year: 2024
+- round: '2020'
+  slug: cyberstarts
+  year: 2020
 founded: 2020
 founders:
 - name: Assaf Rappaport
@@ -65,6 +68,9 @@ investors:
   year: 2020
 - round: '2020'
   slug: teddie-wardi
+  year: 2020
+- round: '2020'
+  slug: gili-raanan
   year: 2020
 last_researched: 2026-03-20
 location: New York, NY

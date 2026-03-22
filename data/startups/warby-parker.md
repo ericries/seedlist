@@ -45,6 +45,9 @@ firms:
 - round: ~2010
   slug: forerunner-ventures
   year: 2010
+- round: Seed
+  slug: a24
+  year: 2010
 founded: 2010
 founders:
 - name: Neil Blumenthal

@@ -28,7 +28,9 @@
       "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl status 2>&1)",
       "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl queue individual 2>&1)",
       "Bash(gh issue:*)",
-      "Bash(ls data/firms/unshackled-ventures.md data/investors/unshackled-ventures.md 2>/dev/null; echo \"---\"; grep -l \"unshackled\" data/firms/*.md data/investors/*.md data/queue.yaml 2>/dev/null | head -5)"
+      "Bash(ls data/firms/unshackled-ventures.md data/investors/unshackled-ventures.md 2>/dev/null; echo \"---\"; grep -l \"unshackled\" data/firms/*.md data/investors/*.md data/queue.yaml 2>/dev/null | head -5)",
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl xref-all 2>&1)",
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl queue individual 2>/dev/null | head -20)"
     ]
   }
 }

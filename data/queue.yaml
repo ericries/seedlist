@@ -3080,7 +3080,7 @@ queue:
 - name: Rob Citrone
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Discovery Capital Management
   discovered_from: julian-robertson
@@ -3195,7 +3195,7 @@ queue:
 - name: Eric Glyman
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ramp
   discovered_from: ravi-gupta
@@ -3227,7 +3227,7 @@ queue:
 - name: Ramtin Naimi
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Abstract Ventures
   discovered_from: bret-taylor
@@ -3320,14 +3320,14 @@ queue:
 - name: Pete Higgins
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Second Avenue Partners
   discovered_from: nick-hanauer
 - name: Mike Slade
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Second Avenue Partners
   discovered_from: nick-hanauer
@@ -3387,7 +3387,7 @@ queue:
 - name: Paul Veradittakit
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pantera Capital
   discovered_from: dan-morehead
@@ -3457,7 +3457,7 @@ queue:
 - name: Larry Robbins
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Glenview Capital Management
   discovered_from: john-griffin
@@ -5685,7 +5685,7 @@ queue:
 - name: Gili Raanan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cyberstarts
   discovered_from: wiz
@@ -5703,3 +5703,127 @@ queue:
   added: '2026-03-17'
   firm: Forerunner Ventures
   discovered_from: kirsten-green
+- name: Lior Simon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cyberstarts
+  discovered_from: gili-raanan
+- name: Hila Zigman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cyberstarts
+  discovered_from: gili-raanan
+- name: Emily Heath
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cyberstarts
+  discovered_from: gili-raanan
+- name: Yevgeny Dibrov
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Armis
+  discovered_from: gili-raanan
+- name: Michael Shaulov
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Fireblocks
+  discovered_from: gili-raanan
+- name: Mike Fey
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Island
+  discovered_from: gili-raanan
+- name: Yotam Segev
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cyera
+  discovered_from: gili-raanan
+- name: Mickey Boodaei
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Transmit Security
+  discovered_from: gili-raanan
+- name: Nir Zuk
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Palo Alto Networks
+  discovered_from: gili-raanan
+- name: Merav Bahat
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dazz
+  discovered_from: gili-raanan
+- name: Sanaz Yashar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Zafran
+  discovered_from: gili-raanan
+- name: Amiram Shachar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Upwind
+  discovered_from: gili-raanan
+- name: Abstract Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramtin-naimi
+- name: Alex Davidov
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Abstract Ventures
+  discovered_from: ramtin-naimi
+- name: Fritz Lanman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pete-higgins
+- name: Karim Atiyeh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ramp
+  discovered_from: eric-glyman
+- name: Zach Perrett
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Plaid
+  discovered_from: eric-glyman
+- name: Rob Glaser
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: RealNetworks
+  discovered_from: mike-slade

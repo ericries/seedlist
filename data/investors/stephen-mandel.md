@@ -1,22 +1,28 @@
 ---
-name: "Stephen Mandel"
-slug: stephen-mandel
-type: individual
+check_size: $400M-$900M (public equity positions)
 firm: lone-pine-capital
-role: "Founder & Chairman"
-location: "Greenwich, Connecticut"
-stage_focus: [growth-equity, public-equity]
-sector_focus: [technology, consumer, healthcare, financials]
-check_size: "$400M-$900M (public equity positions)"
-last_verified_investment:
-  date: ~2024
-  company: "Canva"
-  round: "Private investment"
-social:
-  twitter: ~
-  linkedin: ~
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Taiwan Semiconductor
+  date: ~2025
+  round: Semiconductors
+location: Greenwich, Connecticut
+name: Stephen Mandel
+role: Founder & Chairman
+sector_focus:
+- technology
+- consumer
+- healthcare
+- financials
+slug: stephen-mandel
+social:
+  linkedin: null
+  twitter: null
+stage_focus:
+- growth-equity
+- public-equity
+status: published
+type: individual
 ---
 
 ## Background

@@ -99,6 +99,9 @@ firms:
 - round: Seed
   slug: lowercarbon-capital
   year: 2009
+- round: Seed
+  slug: a24
+  year: 2010
 founded: 2009
 founders:
 - name: Travis Kalanick
