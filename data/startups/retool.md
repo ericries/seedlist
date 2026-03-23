@@ -24,6 +24,9 @@ firms:
 - round: Seed/Series A
   slug: nfdg
   year: 2019
+- round: ~2022
+  slug: maverick-ventures
+  year: 2022
 founded: 2017
 founders:
 - name: David Hsu
@@ -56,6 +59,9 @@ investors:
 - round: ~2017
   slug: dalton-caldwell
   year: 2017
+- round: ~2022
+  slug: ambar-bhattacharyya
+  year: 2022
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Retool

@@ -1,55 +1,65 @@
 ---
-name: "TCV"
-slug: tcv
-type: firm
-website: "https://www.tcv.com"
-location: "Menlo Park, CA"
 founded: 1995
-fund_size: "$3B (Fund XII, 2024); ~$24B total capital raised across 12+ funds"
-stage_focus: [growth, late-stage, crossover]
-sector_focus: [infrastructure-software, fintech, consumer, application-software]
-team:
-  - name: Jay Hoag
-    role: Founding General Partner, Executive Committee
-    slug: jay-hoag
-  - name: Rick Kimball
-    role: Founding General Partner, Senior Advisor
-    slug: rick-kimball
-  - name: John Doran
-    role: General Partner, Executive Committee
-    slug: john-doran
-  - name: Woody Marshall
-    role: General Partner
-    slug: woody-marshall
-  - name: Tim McAdam
-    role: General Partner, Senior Advisor
-    slug: tim-mcadam
-  - name: Ric Fenton
-    role: General Partner
-    slug: ric-fenton
-  - name: Neil Tolaney
-    role: General Partner
-    slug: neil-tolaney
-  - name: Muz Ashraf
-    role: General Partner
-    slug: muz-ashraf
-  - name: Amol Helekar
-    role: General Partner
-    slug: amol-helekar
-  - name: Michael Kalfayan
-    role: General Partner
-    slug: michael-kalfayan
-  - name: Nari Ansari
-    role: General Partner
-    slug: nari-ansari
-  - name: Marta Suarez Estebanez
-    role: Partner
-    slug: marta-suarez-estebanez
-  - name: Alexander Wortmann
-    role: Partner
-    slug: alexander-wortmann
-status: published
+fund_size: $3B (Fund XII, 2024); ~$24B total capital raised across 12+ funds
 last_researched: 2026-03-19
+location: Menlo Park, CA
+name: TCV
+sector_focus:
+- infrastructure-software
+- fintech
+- consumer
+- application-software
+slug: tcv
+stage_focus:
+- growth
+- late-stage
+- crossover
+status: published
+team:
+- name: Jay Hoag
+  role: Founding General Partner, Executive Committee
+  slug: jay-hoag
+- name: Rick Kimball
+  role: Founding General Partner, Senior Advisor
+  slug: rick-kimball
+- name: John Doran
+  role: General Partner, Executive Committee
+  slug: john-doran
+- name: Woody Marshall
+  role: General Partner
+  slug: woody-marshall
+- name: Tim McAdam
+  role: General Partner, Senior Advisor
+  slug: tim-mcadam
+- name: Ric Fenton
+  role: General Partner
+  slug: ric-fenton
+- name: Neil Tolaney
+  role: General Partner
+  slug: neil-tolaney
+- name: Muz Ashraf
+  role: General Partner
+  slug: muz-ashraf
+- name: Amol Helekar
+  role: General Partner
+  slug: amol-helekar
+- name: Michael Kalfayan
+  role: General Partner
+  slug: michael-kalfayan
+- name: Nari Ansari
+  role: General Partner
+  slug: nari-ansari
+- name: Marta Suarez Estebanez
+  role: Partner
+  slug: marta-suarez-estebanez
+- name: Alexander Wortmann
+  role: Partner
+  slug: alexander-wortmann
+- name: Matt Robinson
+  role: Partner
+  slug: matt-robinson
+type: firm
+website: https://www.tcv.com
 ---
 
 ## About

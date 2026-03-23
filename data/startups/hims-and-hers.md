@@ -33,6 +33,9 @@ firms:
 - round: '2016'
   slug: atomic
   year: 2016
+- round: '2017'
+  slug: maverick-ventures
+  year: 2017
 founded: 2017
 founders:
 - name: Andrew Dudum
@@ -48,6 +51,9 @@ investors:
 - round: '2016'
   slug: andrew-dudum
   year: 2016
+- round: '2017'
+  slug: ambar-bhattacharyya
+  year: 2017
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Hims & Hers Health
