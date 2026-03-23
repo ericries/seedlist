@@ -63,6 +63,9 @@ firms:
 - round: ~2019
   slug: better-tomorrow-ventures
   year: 2019
+- round: ~2019
+  slug: operator-partners
+  year: 2019
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -102,6 +105,12 @@ investors:
 - round: ~2019
   slug: jake-gibson
   year: 2019
+- round: ~2019
+  slug: nat-turner
+  year: 2019
+- round: ~2020
+  slug: bennett-siegel
+  year: 2020
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

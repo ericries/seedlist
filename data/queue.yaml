@@ -3478,7 +3478,7 @@ queue:
 - name: Nat Turner
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Collectors Holdings
   discovered_from: dan-sundheim
@@ -3540,14 +3540,14 @@ queue:
 - name: Drew McKnight
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Fortress Investment Group
   discovered_from: pete-briger
 - name: Wes Edens
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Fortress Investment Group
   discovered_from: pete-briger
@@ -3582,14 +3582,14 @@ queue:
 - name: Gigi Levy-Weiss
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NFX
   discovered_from: pete-flint
 - name: Morgan Beller
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NFX
   discovered_from: pete-flint
@@ -3720,14 +3720,14 @@ queue:
 - name: Bennett Siegel
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: A* Capital
   discovered_from: kevin-hartz
 - name: Gautam Gupta
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: A* Capital
   discovered_from: kevin-hartz
@@ -5727,42 +5727,42 @@ queue:
 - name: Yevgeny Dibrov
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Armis
   discovered_from: gili-raanan
 - name: Michael Shaulov
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Fireblocks
   discovered_from: gili-raanan
 - name: Mike Fey
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Island
   discovered_from: gili-raanan
 - name: Yotam Segev
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cyera
   discovered_from: gili-raanan
 - name: Mickey Boodaei
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Transmit Security
   discovered_from: gili-raanan
 - name: Nir Zuk
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Palo Alto Networks
   discovered_from: gili-raanan
@@ -5809,7 +5809,7 @@ queue:
 - name: Karim Atiyeh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ramp
   discovered_from: eric-glyman
@@ -5827,3 +5827,90 @@ queue:
   added: '2026-03-17'
   firm: RealNetworks
   discovered_from: mike-slade
+- name: Nadir Izrael
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Armis
+  discovered_from: yevgeny-dibrov
+- name: Rakesh Loonkar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Transmit Security
+  discovered_from: mickey-boodaei
+- name: Marius Nacht
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Check Point
+  discovered_from: nir-zuk
+- name: Zach Weinberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Partners
+  discovered_from: nat-turner
+- name: Amit Avner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Partners
+  discovered_from: nat-turner
+- name: Gil Shklarski
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Partners
+  discovered_from: nat-turner
+- name: Operator Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nat-turner
+- name: Jamin Ball
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Altimeter Capital
+  discovered_from: altimeter-capital
+- name: Benny Peretz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Greenoaks Capital
+  discovered_from: greenoaks-capital
+- name: Guillermo Rauch
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elevenlabs
+- name: Meyer Malka
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ribbit Capital
+  discovered_from: brex
+- name: Valor Equity Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anduril
+- name: ICONIQ Growth
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elevenlabs

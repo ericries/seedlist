@@ -33,6 +33,9 @@ firms:
 - round: ~2014
   slug: homebrew
   year: 2014
+- round: ~2013
+  slug: operator-partners
+  year: 2013
 founded: 2013
 founders:
 - name: Zach Perret
@@ -55,6 +58,9 @@ investors:
 - round: ~2014
   slug: satya-patel
   year: 2014
+- round: ~2013
+  slug: nat-turner
+  year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

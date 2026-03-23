@@ -123,6 +123,9 @@ investors:
 - round: ~2007
   slug: paul-buchheit
   year: 2007
+- round: ~2023
+  slug: bennett-siegel
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

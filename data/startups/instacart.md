@@ -39,6 +39,9 @@ firms:
 - round: ~2012
   slug: standard-capital
   year: 2012
+- round: ~2019
+  slug: a-star-capital
+  year: 2019
 founded: 2012
 founders:
 - name: Apoorva Mehta
@@ -96,6 +99,9 @@ investors:
 - round: ~2012
   slug: paul-buchheit
   year: 2012
+- round: ~2019
+  slug: bennett-siegel
+  year: 2019
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

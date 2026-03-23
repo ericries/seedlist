@@ -42,6 +42,9 @@ firms:
 - round: ~2013
   slug: nfx
   year: 2013
+- round: ~2019
+  slug: a-star-capital
+  year: 2019
 founded: 2013
 founders:
 - name: Tony Xu
@@ -98,6 +101,9 @@ investors:
 - round: ~2013
   slug: james-currier
   year: 2013
+- round: ~2019
+  slug: bennett-siegel
+  year: 2019
 last_researched: 2026-03-13
 location: San Francisco, California
 name: DoorDash

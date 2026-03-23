@@ -36,6 +36,9 @@ firms:
 - round: ~2018
   slug: conviction
   year: 2018
+- round: ~2023
+  slug: a-star-capital
+  year: 2023
 founded: 2013
 founders:
 - name: Ivan Zhao
@@ -82,6 +85,9 @@ investors:
 - round: ~2018
   slug: mike-vernal
   year: 2018
+- round: ~2023
+  slug: bennett-siegel
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Notion
