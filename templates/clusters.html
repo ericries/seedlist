@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Investor Groups{% endblock %}
+
+{% block content %}
+<section class="listing">
+  <h1>Investor Groups</h1>
+  <p class="hero-sub">{{ total_investors }} investors organized into {{ clusters|length }} groups based on shared portfolios, sectors, stages, and geography.</p>
+
+  <div class="clusters-grid">
+    {% for cluster in clusters %}
+    <div class="cluster-card" id="cluster-{{ cluster.id }}">
+      <h2 class="cluster-name">{{ cluster.name }}</h2>
+      <p class="cluster-tagline">{{ cluster.tagline }}</p>
+      <div class="cluster-meta">
+        <span class="cluster-size">{{ cluster.size }} investors</span>
+        <div class="tags">
+          {% for sector in cluster.top_sectors[:3] %}
+            <span class="tag tag-sector tag-sm">{{ sector }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% if cluster.shared_portfolio %}
+      <div class="cluster-shared">
+        <span class="meta-label">Shared investments</span>
+        <span>{{ cluster.shared_portfolio[:4]|join(', ') }}</span>
+      </div>
+      {% endif %}
+      <div class="cluster-members">
+        {% for member in cluster.members %}
+          <a href="/investors/{{ member.slug }}.html" class="cluster-member-link">{{ member.name }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

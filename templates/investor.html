@@ -104,6 +104,30 @@
     {{ profile.content | safe }}
   </div>
   {% endif %}
+
+  {% if similar_investors %}
+  <div class="similar-investors">
+    <h2>Similar Investors</h2>
+    {% if investor_cluster %}
+    <p class="similar-cluster-link">Part of <a href="/investors/groups.html#cluster-{{ investor_cluster.id }}">{{ investor_cluster.name }}</a></p>
+    {% endif %}
+    <div class="similar-grid">
+      {% for inv in similar_investors %}
+      <a href="/investors/{{ inv.slug }}.html" class="listing-card">
+        <div class="listing-card-header">
+          <span class="listing-card-name">{{ inv.name }}</span>
+          {% if inv.firm_name %}
+            <span class="listing-card-firm">{{ inv.firm_name }}</span>
+          {% endif %}
+        </div>
+        {% if inv.location %}
+          <div class="listing-card-location">{{ inv.location }}</div>
+        {% endif %}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
 </article>
 <script src="/static/feedback.js"></script>
 {% endblock %}

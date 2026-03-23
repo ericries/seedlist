@@ -195,17 +195,49 @@ def build():
     firms = filter_published(all_firms)
     startups = filter_published(all_startups)
 
+    # Load cluster data
+    clusters_data = {}
+    clusters_path = DATA_DIR / "clusters.json"
+    if clusters_path.exists():
+        with open(clusters_path) as f:
+            clusters_data = json.load(f)
+
     # Build lookups for cross-linking
     firm_lookup = {f["slug"]: f for f in firms}
     investor_lookup = {i["slug"]: i for i in investors}
     startup_lookup = {s["slug"]: s for s in startups}
+
+    # Build cluster lookup for investor pages
+    similar_investors_map = clusters_data.get("similar_investors", {})
+    investor_clusters_map = clusters_data.get("investor_clusters", {})
+    clusters_list = clusters_data.get("clusters", [])
+    cluster_by_id = {c["id"]: c for c in clusters_list}
 
     # Render investor pages
     investor_template = env.get_template("investor.html")
     (OUTPUT_DIR / "investors").mkdir(parents=True, exist_ok=True)
     for profile in investors:
         profile["firm_data"] = firm_lookup.get(profile.get("firm", ""))
-        html = investor_template.render(profile=profile)
+
+        # Resolve similar investors
+        slug = profile.get("slug", "")
+        similar_slugs = similar_investors_map.get(slug, [])
+        similar = []
+        for s in similar_slugs:
+            inv = investor_lookup.get(s)
+            if inv:
+                inv_copy = dict(inv)
+                inv_copy["firm_name"] = firm_lookup.get(inv.get("firm", ""), {}).get("name", "")
+                similar.append(inv_copy)
+        # Resolve investor cluster
+        cluster_id = investor_clusters_map.get(slug)
+        inv_cluster = cluster_by_id.get(cluster_id) if cluster_id is not None else None
+
+        html = investor_template.render(
+            profile=profile,
+            similar_investors=similar,
+            investor_cluster=inv_cluster,
+        )
         out_path = OUTPUT_DIR / "investors" / f"{profile['slug']}.html"
         out_path.write_text(html)
 
@@ -250,12 +282,56 @@ def build():
     dated.sort(key=lambda p: str((p.get("last_verified_investment") or {}).get("date", "")).lstrip("~"), reverse=True)
     investors_sorted = dated + undated
 
+    # Location normalization for investor filtering
+    def normalize_location(loc):
+        if not loc:
+            return ""
+        loc_lower = loc.lower()
+        sf_keywords = ["san francisco", "menlo park", "palo alto", "mountain view",
+                        "woodside", "redwood city", "atherton", "bay area",
+                        "saratoga", "cupertino", "sunnyvale", "san mateo",
+                        "portola valley", "los altos", "burlingame", "hillsborough"]
+        for kw in sf_keywords:
+            if kw in loc_lower:
+                return "sf-bay-area"
+        if "new york" in loc_lower:
+            return "nyc"
+        if "los angeles" in loc_lower:
+            return "la"
+        if "boston" in loc_lower or "cambridge" in loc_lower:
+            return "boston"
+        return ""
+
+    # Prepare investor data for filtered listing
+    for p in investors_sorted:
+        p["location_region"] = normalize_location(p.get("location", ""))
+        lvi = p.get("last_verified_investment") or {}
+        p["last_active"] = str(lvi.get("date", "")).lstrip("~") if lvi.get("date") else ""
+
+    # Compute top sectors for filter dropdown
+    sector_counts = {}
+    for p in investors:
+        for s in (p.get("sector_focus") or []):
+            sl = s.lower()
+            sector_counts[sl] = sector_counts.get(sl, 0) + 1
+    top_sectors = [s for s, _ in sorted(sector_counts.items(), key=lambda x: -x[1])[:15]]
+
     # Generate listing pages
     listing_template = env.get_template("listing.html")
+    investors_listing_template = env.get_template("investors_listing.html")
 
-    # All investors (sorted by most recent investment)
-    html = listing_template.render(title="All Investors", profiles=investors_sorted, list_type="investor")
+    # All investors (sorted by most recent investment) — uses dedicated filtered template
+    html = investors_listing_template.render(profiles=investors_sorted, top_sectors=top_sectors)
     (OUTPUT_DIR / "investors" / "index.html").write_text(html)
+
+    # Investor clusters / groups page
+    if clusters_list:
+        clusters_template = env.get_template("clusters.html")
+        html = clusters_template.render(
+            clusters=clusters_list,
+            total_investors=len(investors),
+        )
+        (OUTPUT_DIR / "investors" / "groups.html").write_text(html)
 
     # All firms
     html = listing_template.render(title="All Firms", profiles=firms, list_type="firm")

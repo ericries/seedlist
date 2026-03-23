@@ -1,0 +1,4009 @@
+{
+  "clusters": [
+    {
+      "id": 0,
+      "name": "The East Coast Generalists",
+      "tagline": "NYC-rooted investors backing fintech, consumer, and marketplace companies from seed through Series B",
+      "size": 25,
+      "top_sectors": [
+        "fintech",
+        "consumer-internet",
+        "ai",
+        "saas",
+        "marketplaces"
+      ],
+      "top_stages": [
+        "seed",
+        "series-a",
+        "series-b"
+      ],
+      "top_locations": [
+        "NYC",
+        "Other",
+        "Sf Bay Area"
+      ],
+      "shared_portfolio": [
+        "Warby Parker",
+        "Stripe",
+        "Anysphere (Cursor)",
+        "Stack Overflow",
+        "Pinterest",
+        "Coinbase",
+        "Dapper Labs",
+        "Alchemy",
+        "Flexport",
+        "Airtable",
+        "Anduril",
+        "Spotify",
+        "Sentinelone"
+      ],
+      "members": [
+        {
+          "slug": "arash-ferdowsi",
+          "name": "Arash Ferdowsi",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "assaf-rappaport",
+          "name": "Assaf Rappaport",
+          "firm": "wiz"
+        },
+        {
+          "slug": "brad-burnham",
+          "name": "Brad Burnham",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "chris-dixon",
+          "name": "Chris Dixon",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "dan-rose",
+          "name": "Dan Rose",
+          "firm": "coatue-management"
+        },
+        {
+          "slug": "eric-glyman",
+          "name": "Eric Glyman",
+          "firm": "ramp"
+        },
+        {
+          "slug": "fabrice-grinda",
+          "name": "Fabrice Grinda",
+          "firm": "fj-labs"
+        },
+        {
+          "slug": "fred-wilson",
+          "name": "Fred Wilson",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "hayley-barna",
+          "name": "Hayley Barna",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "howard-morgan",
+          "name": "Howard Morgan",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "jaimin-rangwalla",
+          "name": "Jaimin Rangwalla",
+          "firm": "coatue-management"
+        },
+        {
+          "slug": "jeremy-levine",
+          "name": "Jeremy Levine",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "josh-kushner",
+          "name": "Joshua Kushner",
+          "firm": "thrive-capital"
+        },
+        {
+          "slug": "jose-marin",
+          "name": "Jos\u00e9 Mar\u00edn",
+          "firm": "fj-labs"
+        },
+        {
+          "slug": "lee-fixel",
+          "name": "Lee Fixel",
+          "firm": "addition"
+        },
+        {
+          "slug": "marc-lore",
+          "name": "Marc Lore",
+          "firm": "vcp-ventures"
+        },
+        {
+          "slug": "martin-mignot",
+          "name": "Martin Mignot",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "mike-novogratz",
+          "name": "Mike Novogratz",
+          "firm": "galaxy-digital"
+        },
+        {
+          "slug": "nathan-urquhart",
+          "name": "Nathan Urquhart",
+          "firm": "coatue-management"
+        },
+        {
+          "slug": "olivier-pomel",
+          "name": "Olivier Pomel",
+          "firm": "datadog"
+        },
+        {
+          "slug": "philippe-laffont",
+          "name": "Philippe Laffont",
+          "firm": "coatue-management"
+        },
+        {
+          "slug": "rebecca-kaden",
+          "name": "Rebecca Kaden",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "scott-belsky",
+          "name": "Scott Belsky",
+          "firm": "a24"
+        },
+        {
+          "slug": "sriram-krishnan",
+          "name": "Sriram Krishnan",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "teddie-wardi",
+          "name": "Teddie Wardi",
+          "firm": "insight-partners"
+        }
+      ],
+      "summary": "Seed, Series A-focused fintech, consumer-internet, ai investors primarily based in NYC, with shared investments in Warby Parker, Stripe, Anysphere (Cursor)"
+    },
+    {
+      "id": 1,
+      "name": "The Public Market Crossovers",
+      "tagline": "Hedge fund legends making growth and late-stage bets across tech, healthcare, and industrials",
+      "size": 6,
+      "top_sectors": [
+        "technology",
+        "healthcare",
+        "financials",
+        "consumer-internet",
+        "industrials"
+      ],
+      "top_stages": [
+        "growth",
+        "late-stage",
+        "seed"
+      ],
+      "top_locations": [
+        "Other US",
+        "NYC"
+      ],
+      "shared_portfolio": [
+        "Finch Therapeutics",
+        "Covanta (Cva)",
+        "Millipore (Mil)",
+        "Apple (Aapl)",
+        "Visa (V)",
+        "Compass (Real Estate)"
+      ],
+      "members": [
+        {
+          "slug": "andreas-halvorsen",
+          "name": "Andreas Halvorsen",
+          "firm": "viking-global-investors"
+        },
+        {
+          "slug": "chris-shumway",
+          "name": "Chris Shumway",
+          "firm": "shumway-capital"
+        },
+        {
+          "slug": "john-griffin",
+          "name": "John Griffin",
+          "firm": "blue-ridge-capital"
+        },
+        {
+          "slug": "lee-ainslie",
+          "name": "Lee Ainslie",
+          "firm": "maverick-capital"
+        },
+        {
+          "slug": "rob-citrone",
+          "name": "Rob Citrone",
+          "firm": "discovery-capital-management"
+        },
+        {
+          "slug": "stephen-mandel",
+          "name": "Stephen Mandel",
+          "firm": "lone-pine-capital"
+        }
+      ],
+      "summary": "Growth, Late Stage-focused technology, healthcare, financials investors primarily based in Other US, with shared investments in Finch Therapeutics, Covanta (Cva), Millipore (Mil)"
+    },
+    {
+      "id": 2,
+      "name": "The Tiger Cubs",
+      "tagline": "NYC growth investors writing big checks into fintech, AI, and e-commerce leaders",
+      "size": 7,
+      "top_sectors": [
+        "fintech",
+        "ai",
+        "e-commerce",
+        "healthcare",
+        "technology"
+      ],
+      "top_stages": [
+        "growth",
+        "late-stage",
+        "buyout"
+      ],
+      "top_locations": [
+        "NYC"
+      ],
+      "shared_portfolio": [
+        "Ramp",
+        "Jd.Com",
+        "Openai",
+        "Waymo",
+        "Alphabet (Googl)",
+        "Amazon (Amzn)",
+        "Sea Ltd (Se)",
+        "Anthropic"
+      ],
+      "members": [
+        {
+          "slug": "chase-coleman",
+          "name": "Chase Coleman III",
+          "firm": "tiger-global"
+        },
+        {
+          "slug": "dan-sundheim",
+          "name": "Dan Sundheim",
+          "firm": "d1-capital-partners"
+        },
+        {
+          "slug": "deven-parekh",
+          "name": "Deven Parekh",
+          "firm": "insight-partners"
+        },
+        {
+          "slug": "jeff-horing",
+          "name": "Jeff Horing",
+          "firm": "insight-partners"
+        },
+        {
+          "slug": "julian-robertson",
+          "name": "Julian Robertson",
+          "firm": "tiger-management"
+        },
+        {
+          "slug": "mala-gaonkar",
+          "name": "Mala Gaonkar",
+          "firm": "surgocap-partners"
+        },
+        {
+          "slug": "stan-druckenmiller",
+          "name": "Stanley Druckenmiller",
+          "firm": "duquesne-family-office"
+        }
+      ],
+      "summary": "Growth, Late Stage-focused fintech, ai, e-commerce investors primarily based in NYC, with shared investments in Ramp, Jd.Com, Openai"
+    },
+    {
+      "id": 3,
+      "name": "The Operator-Investors",
+      "tagline": "Founders-turned-investors backing consumer, fintech, and healthcare startups outside the usual hubs",
+      "size": 22,
+      "top_sectors": [
+        "consumer-internet",
+        "fintech",
+        "healthcare",
+        "saas",
+        "e-commerce"
+      ],
+      "top_stages": [
+        "seed",
+        "series-a",
+        "series-b"
+      ],
+      "top_locations": [
+        "Other US"
+      ],
+      "shared_portfolio": [
+        "Newsvine",
+        "Azaleos",
+        "Seeq",
+        "Modumetal"
+      ],
+      "members": [
+        {
+          "slug": "ajay-kamat",
+          "name": "Ajay Kamat",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "bill-gurley",
+          "name": "Bill Gurley",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "chester-ng",
+          "name": "Chester Ng",
+          "firm": "atomic"
+        },
+        {
+          "slug": "chris-fralic",
+          "name": "Chris Fralic",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "chris-hulls",
+          "name": "Chris Hulls",
+          "firm": "recursive-ventures"
+        },
+        {
+          "slug": "dan-portillo",
+          "name": "Dan Portillo",
+          "firm": "the-general-partnership"
+        },
+        {
+          "slug": "drew-oetting",
+          "name": "Drew Oetting",
+          "firm": "8vc"
+        },
+        {
+          "slug": "howard-lindzon",
+          "name": "Howard Lindzon",
+          "firm": "social-leverage"
+        },
+        {
+          "slug": "jack-abraham",
+          "name": "Jack Abraham",
+          "firm": "atomic"
+        },
+        {
+          "slug": "joe-lonsdale",
+          "name": "Joe Lonsdale",
+          "firm": "8vc"
+        },
+        {
+          "slug": "kathleen-estreich",
+          "name": "Kathleen Estreich",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "keith-rabois",
+          "name": "Keith Rabois",
+          "firm": "khosla-ventures"
+        },
+        {
+          "slug": "mike-slade",
+          "name": "Mike Slade",
+          "firm": "second-avenue-partners"
+        },
+        {
+          "slug": "nick-hanauer",
+          "name": "Nick Hanauer",
+          "firm": "second-avenue-partners"
+        },
+        {
+          "slug": "palmer-luckey",
+          "name": "Palmer Luckey",
+          "firm": "anduril-industries"
+        },
+        {
+          "slug": "pete-higgins",
+          "name": "Pete Higgins",
+          "firm": "second-avenue-partners"
+        },
+        {
+          "slug": "rich-barton",
+          "name": "Rich Barton",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "sameer-gandhi",
+          "name": "Sameer Gandhi",
+          "firm": "accel"
+        },
+        {
+          "slug": "sami-inkinen",
+          "name": "Sami Inkinen",
+          "firm": "obvious-ventures"
+        },
+        {
+          "slug": "scott-kupor",
+          "name": "Scott Kupor",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "tobi-lutke",
+          "name": "Tobi Lutke",
+          "firm": "independent"
+        },
+        {
+          "slug": "turner-novak",
+          "name": "Turner Novak",
+          "firm": "banana-capital"
+        }
+      ],
+      "summary": "Seed, Series A-focused consumer-internet, fintech, healthcare investors primarily based in Other US, with shared investments in Newsvine, Azaleos, Seeq"
+    },
+    {
+      "id": 4,
+      "name": "The Atlantic Bridge",
+      "tagline": "European and global investors backing fintech, enterprise, and consumer internet from Series A to growth",
+      "size": 12,
+      "top_sectors": [
+        "fintech",
+        "consumer-internet",
+        "saas",
+        "enterprise-software",
+        "cybersecurity"
+      ],
+      "top_stages": [
+        "series-b",
+        "series-a",
+        "seed"
+      ],
+      "top_locations": [
+        "Europe"
+      ],
+      "shared_portfolio": [
+        "Aspora",
+        "Last.Fm",
+        "Betfair",
+        "Linktree",
+        "Blockaid",
+        "Revolut",
+        "Flixmobility",
+        "Miro",
+        "Uipath",
+        "Hopin"
+      ],
+      "members": [
+        {
+          "slug": "alex-ferrara",
+          "name": "Alex Ferrara",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "daniel-ek",
+          "name": "Daniel Ek",
+          "firm": "prima-materia"
+        },
+        {
+          "slug": "danny-rimer",
+          "name": "Danny Rimer",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "gili-raanan",
+          "name": "Gili Raanan",
+          "firm": "cyberstarts"
+        },
+        {
+          "slug": "jan-hammer",
+          "name": "Jan Hammer",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "john-doran",
+          "name": "John Doran",
+          "firm": "tcv"
+        },
+        {
+          "slug": "luciana-lixandru",
+          "name": "Luciana Lixandru",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "neil-rimer",
+          "name": "Neil Rimer",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "nikolay-storonsky",
+          "name": "Nikolay Storonsky",
+          "firm": "quantumlight"
+        },
+        {
+          "slug": "shakil-khan",
+          "name": "Shakil Khan",
+          "firm": "prima-materia"
+        },
+        {
+          "slug": "shlomo-kramer",
+          "name": "Shlomo Kramer",
+          "firm": "cato-networks"
+        },
+        {
+          "slug": "sonali-de-rycker",
+          "name": "Sonali De Rycker",
+          "firm": "accel"
+        }
+      ],
+      "summary": "Series B, Series A-focused fintech, consumer-internet, saas investors primarily based in Europe, with shared investments in Aspora, Last.Fm, Betfair"
+    },
+    {
+      "id": 5,
+      "name": "The Frontier Explorers",
+      "tagline": "LA and Asia-based investors finding opportunities in AI, logistics, and healthcare at the earliest stages",
+      "size": 9,
+      "top_sectors": [
+        "ai",
+        "saas",
+        "logistics",
+        "healthcare",
+        "fintech"
+      ],
+      "top_stages": [
+        "seed",
+        "series-a",
+        "series-b"
+      ],
+      "top_locations": [
+        "LA",
+        "Asia"
+      ],
+      "shared_portfolio": [
+        "Ninja Van",
+        "Icertis",
+        "Evidation Health"
+      ],
+      "members": [
+        {
+          "slug": "bill-gross",
+          "name": "Bill Gross",
+          "firm": "idealab"
+        },
+        {
+          "slug": "brendan-wallace",
+          "name": "Brendan Wallace",
+          "firm": "fifth-wall"
+        },
+        {
+          "slug": "brianne-kimmel",
+          "name": "Brianne Kimmel",
+          "firm": "worklife-ventures"
+        },
+        {
+          "slug": "eduardo-saverin",
+          "name": "Eduardo Saverin",
+          "firm": "b-capital-group"
+        },
+        {
+          "slug": "gabe-greenbaum",
+          "name": "Gabe Greenbaum",
+          "firm": "b-capital-group"
+        },
+        {
+          "slug": "karan-mohla",
+          "name": "Karan Mohla",
+          "firm": "b-capital-group"
+        },
+        {
+          "slug": "marlon-nichols",
+          "name": "Marlon Nichols",
+          "firm": "mac-venture-capital"
+        },
+        {
+          "slug": "raj-ganguly",
+          "name": "Raj Ganguly",
+          "firm": "b-capital-group"
+        },
+        {
+          "slug": "travis-kalanick",
+          "name": "Travis Kalanick",
+          "firm": 10100
+        }
+      ],
+      "summary": "Seed, Series A-focused ai, saas, logistics investors primarily based in LA, with shared investments in Ninja Van, Icertis, Evidation Health"
+    },
+    {
+      "id": 6,
+      "name": "The Platform Builders",
+      "tagline": "Seed-stage investors in SaaS and developer tools who bet early on category-defining platforms",
+      "size": 13,
+      "top_sectors": [
+        "saas",
+        "developer-tools",
+        "fintech",
+        "consumer-internet",
+        "ai"
+      ],
+      "top_stages": [
+        "seed",
+        "pre-seed",
+        "series-a"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "Other",
+        "Boston"
+      ],
+      "shared_portfolio": [
+        "Uber",
+        "Twitter",
+        "Stripe"
+      ],
+      "members": [
+        {
+          "slug": "bill-trenchard",
+          "name": "Bill Trenchard",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "bret-taylor",
+          "name": "Bret Taylor",
+          "firm": "sierra-ai"
+        },
+        {
+          "slug": "brett-gibson",
+          "name": "Brett Gibson",
+          "firm": "initialized-capital"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "david-cancel",
+          "name": "David Cancel",
+          "firm": ""
+        },
+        {
+          "slug": "elias-torres",
+          "name": "Elias Torres",
+          "firm": "array-ventures"
+        },
+        {
+          "slug": "konstantin-othmer",
+          "name": "Konstantin Othmer",
+          "firm": "recursive-ventures"
+        },
+        {
+          "slug": "lo-toney",
+          "name": "Lo Toney",
+          "firm": "plexo-capital"
+        },
+        {
+          "slug": "magdalena-yesil",
+          "name": "Magdalena Yesil",
+          "firm": "broadway-angels"
+        },
+        {
+          "slug": "michael-moritz",
+          "name": "Michael Moritz",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "rob-hayes",
+          "name": "Rob Hayes",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "ron-conway",
+          "name": "Ron Conway",
+          "firm": "sv-angel"
+        },
+        {
+          "slug": "steve-anderson",
+          "name": "Steve Anderson",
+          "firm": "baseline-ventures"
+        }
+      ],
+      "summary": "Seed, Pre Seed-focused saas, developer-tools, fintech investors primarily based in Sf Bay Area, with shared investments in Uber, Twitter, Stripe"
+    },
+    {
+      "id": 7,
+      "name": "The Pre-Seed Scouts",
+      "tagline": "Day-one investors in fintech and SaaS, often the first check in companies like DoorDash and Gusto",
+      "size": 29,
+      "top_sectors": [
+        "fintech",
+        "saas",
+        "consumer-internet",
+        "ai",
+        "developer-tools"
+      ],
+      "top_stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "Other US",
+        "Boston"
+      ],
+      "shared_portfolio": [
+        "Doordash",
+        "Gusto",
+        "Flexport",
+        "Coinbase",
+        "Mercury",
+        "Clover Health",
+        "Piston"
+      ],
+      "members": [
+        {
+          "slug": "aileen-lee",
+          "name": "Aileen Lee",
+          "firm": "cowboy-ventures"
+        },
+        {
+          "slug": "ali-rowghani",
+          "name": "Ali Rowghani",
+          "firm": "first-harmonic"
+        },
+        {
+          "slug": "andrew-dudum",
+          "name": "Andrew Dudum",
+          "firm": "atomic"
+        },
+        {
+          "slug": "angela-tran",
+          "name": "Angela Tran",
+          "firm": "version-one-ventures"
+        },
+        {
+          "slug": "boris-wertz",
+          "name": "Boris Wertz",
+          "firm": "version-one-ventures"
+        },
+        {
+          "slug": "charles-hudson",
+          "name": "Charles Hudson",
+          "firm": "precursor-ventures"
+        },
+        {
+          "slug": "eddie-eltoukhy",
+          "name": "Eddie Eltoukhy",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "garry-tan",
+          "name": "Garry Tan",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "harris-stolzenberg",
+          "name": "Harris Stolzenberg",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "itamar-novick",
+          "name": "Itamar Novick",
+          "firm": "recursive-ventures"
+        },
+        {
+          "slug": "jake-gibson",
+          "name": "Jake Gibson",
+          "firm": "better-tomorrow-ventures"
+        },
+        {
+          "slug": "james-currier",
+          "name": "James Currier",
+          "firm": "nfx"
+        },
+        {
+          "slug": "jessica-livingston",
+          "name": "Jessica Livingston",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "josh-kopelman",
+          "name": "Josh Kopelman",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "khalil-fuller",
+          "name": "Khalil Fuller",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "mar-hershenson",
+          "name": "Mar Hershenson",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "mike-maples",
+          "name": "Mike Maples Jr.",
+          "firm": "floodgate"
+        },
+        {
+          "slug": "paul-graham",
+          "name": "Paul Graham",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "pejman-nozad",
+          "name": "Pejman Nozad",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "pete-flint",
+          "name": "Pete Flint",
+          "firm": "nfx"
+        },
+        {
+          "slug": "phin-barnes",
+          "name": "Phin Barnes",
+          "firm": "the-general-partnership"
+        },
+        {
+          "slug": "rahul-vohra",
+          "name": "Rahul Vohra",
+          "firm": "todd-and-rahul-capital"
+        },
+        {
+          "slug": "ryan-sells",
+          "name": "Ryan Sells",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "satya-patel",
+          "name": "Satya Patel",
+          "firm": "homebrew"
+        },
+        {
+          "slug": "shaherose-charania",
+          "name": "Shaherose Charania",
+          "firm": "unshackled-ventures"
+        },
+        {
+          "slug": "sheel-mohnot",
+          "name": "Sheel Mohnot",
+          "firm": "better-tomorrow-ventures"
+        },
+        {
+          "slug": "shravan-reddy",
+          "name": "Shravan Reddy",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "todd-goldberg",
+          "name": "Todd Goldberg",
+          "firm": "todd-and-rahul-capital"
+        },
+        {
+          "slug": "warren-shaeffer",
+          "name": "Warren Shaeffer",
+          "firm": "pear-vc"
+        }
+      ],
+      "summary": "Pre Seed, Seed-focused fintech, saas, consumer-internet investors primarily based in Sf Bay Area, with shared investments in Doordash, Gusto, Flexport"
+    },
+    {
+      "id": 8,
+      "name": "The Angel Syndicate",
+      "tagline": "Prolific angel investors and solo GPs in fintech, AI, and dev tools with overlapping deal flow",
+      "size": 22,
+      "top_sectors": [
+        "fintech",
+        "ai",
+        "developer-tools",
+        "saas",
+        "infrastructure"
+      ],
+      "top_stages": [
+        "seed",
+        "pre-seed",
+        "series-a"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "Europe"
+      ],
+      "shared_portfolio": [
+        "Gusto",
+        "Cycognito",
+        "Coinbase",
+        "Rippling",
+        "Spacex",
+        "Braintrust",
+        "Retool",
+        "Oklo",
+        "Sentinelone",
+        "Imubit",
+        "Instacart",
+        "Figma",
+        "Airtable",
+        "Airbnb",
+        "Beehero"
+      ],
+      "members": [
+        {
+          "slug": "adam-dangelo",
+          "name": "Adam D'Angelo",
+          "firm": "quora"
+        },
+        {
+          "slug": "alexis-ohanian",
+          "name": "Alexis Ohanian",
+          "firm": "seven-seven-six"
+        },
+        {
+          "slug": "arash-afrakhteh",
+          "name": "Arash Afrakhteh",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "dalton-caldwell",
+          "name": "Dalton Caldwell",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "dan-scheinman",
+          "name": "Dan Scheinman",
+          "firm": "independent"
+        },
+        {
+          "slug": "daniel-gross",
+          "name": "Daniel Gross",
+          "firm": "nfdg"
+        },
+        {
+          "slug": "dylan-field",
+          "name": "Dylan Field",
+          "firm": "figma"
+        },
+        {
+          "slug": "elad-gil",
+          "name": "Elad Gil",
+          "firm": "independent"
+        },
+        {
+          "slug": "garrett-camp",
+          "name": "Garrett Camp",
+          "firm": "expa"
+        },
+        {
+          "slug": "gil-ben-artzy",
+          "name": "Gil Ben-Artzy",
+          "firm": "upwest"
+        },
+        {
+          "slug": "gokul-rajaram",
+          "name": "Gokul Rajaram",
+          "firm": "marathon-management-partners"
+        },
+        {
+          "slug": "greg-brockman",
+          "name": "Greg Brockman",
+          "firm": "independent"
+        },
+        {
+          "slug": "jennifer-fonstad",
+          "name": "Jennifer Fonstad",
+          "firm": "owl-capital"
+        },
+        {
+          "slug": "kevin-hartz",
+          "name": "Kevin Hartz",
+          "firm": "a-star-capital"
+        },
+        {
+          "slug": "lia-cromwell",
+          "name": "Lia Cromwell",
+          "firm": "upwest"
+        },
+        {
+          "slug": "paul-buchheit",
+          "name": "Paul Buchheit",
+          "firm": "standard-capital"
+        },
+        {
+          "slug": "ramtin-naimi",
+          "name": "Ramtin Naimi",
+          "firm": "abstract-ventures"
+        },
+        {
+          "slug": "shruti-gandhi",
+          "name": "Shruti Gandhi",
+          "firm": "array-ventures"
+        },
+        {
+          "slug": "shuly-galili",
+          "name": "Shuly Galili",
+          "firm": "upwest"
+        },
+        {
+          "slug": "stephanie-zhan",
+          "name": "Stephanie Zhan",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "theresia-gouw",
+          "name": "Theresia Gouw",
+          "firm": "acrew-capital"
+        },
+        {
+          "slug": "tim-draper",
+          "name": "Tim Draper",
+          "firm": "draper-associates"
+        }
+      ],
+      "summary": "Seed, Pre Seed-focused fintech, ai, developer-tools investors primarily based in Sf Bay Area, with shared investments in Gusto, Cycognito, Coinbase"
+    },
+    {
+      "id": 9,
+      "name": "The Growth Machines",
+      "tagline": "Late-stage and public market investors backing proven winners like Spotify, Airbnb, and Snowflake",
+      "size": 15,
+      "top_sectors": [
+        "fintech",
+        "semiconductors",
+        "ai",
+        "consumer-internet",
+        "e-commerce"
+      ],
+      "top_stages": [
+        "growth",
+        "late-stage",
+        "public"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "Other US"
+      ],
+      "shared_portfolio": [
+        "Spotify",
+        "Airbnb",
+        "Snowflake",
+        "Bytedance",
+        "Xero",
+        "Peloton",
+        "Doordash",
+        "Robinhood"
+      ],
+      "members": [
+        {
+          "slug": "albert-chiang",
+          "name": "Albert Chiang",
+          "firm": "octahedron-capital"
+        },
+        {
+          "slug": "andrew-feldman",
+          "name": "Andrew Feldman",
+          "firm": "cerebras-systems"
+        },
+        {
+          "slug": "brad-gerstner",
+          "name": "Brad Gerstner",
+          "firm": "altimeter-capital"
+        },
+        {
+          "slug": "clay-bavor",
+          "name": "Clay Bavor",
+          "firm": "sierra-ai"
+        },
+        {
+          "slug": "david-goel",
+          "name": "David Goel",
+          "firm": "matrix-capital-management"
+        },
+        {
+          "slug": "ilya-sutskever",
+          "name": "Ilya Sutskever",
+          "firm": "safe-superintelligence"
+        },
+        {
+          "slug": "jay-hoag",
+          "name": "Jay Hoag",
+          "firm": "tcv"
+        },
+        {
+          "slug": "mary-meeker",
+          "name": "Mary Meeker",
+          "firm": "bond"
+        },
+        {
+          "slug": "pete-briger",
+          "name": "Pete Briger",
+          "firm": "fortress-investment-group"
+        },
+        {
+          "slug": "peter-chung",
+          "name": "Peter Chung",
+          "firm": "summit-partners"
+        },
+        {
+          "slug": "ram-parameswaran",
+          "name": "Ram Parameswaran",
+          "firm": "octahedron-capital"
+        },
+        {
+          "slug": "romit-shah",
+          "name": "Romit Shah",
+          "firm": "tensor-edge-capital"
+        },
+        {
+          "slug": "tom-dyal",
+          "name": "Tom Dyal",
+          "firm": "redpoint-ventures"
+        },
+        {
+          "slug": "woody-marshall",
+          "name": "Woody Marshall",
+          "firm": "tcv"
+        },
+        {
+          "slug": "yuri-milner",
+          "name": "Yuri Milner",
+          "firm": "dst-global"
+        }
+      ],
+      "summary": "Growth, Late Stage-focused fintech, semiconductors, ai investors primarily based in Sf Bay Area, with shared investments in Spotify, Airbnb, Snowflake"
+    },
+    {
+      "id": 10,
+      "name": "The Sequoia Circle",
+      "tagline": "Top-tier growth investors in AI and fintech, co-investing in Anthropic, Robinhood, and Rippling",
+      "size": 11,
+      "top_sectors": [
+        "ai",
+        "fintech",
+        "saas",
+        "consumer-internet",
+        "developer-tools"
+      ],
+      "top_stages": [
+        "series-b",
+        "growth",
+        "series-a"
+      ],
+      "top_locations": [
+        "Sf Bay Area"
+      ],
+      "shared_portfolio": [
+        "Anthropic",
+        "Robinhood",
+        "Rippling",
+        "Harvey"
+      ],
+      "members": [
+        {
+          "slug": "andrew-braccia",
+          "name": "Andrew Braccia",
+          "firm": "accel"
+        },
+        {
+          "slug": "andrew-reed",
+          "name": "Andrew Reed",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "anu-hariharan",
+          "name": "Anu Hariharan",
+          "firm": "avra"
+        },
+        {
+          "slug": "david-sze",
+          "name": "David Sze",
+          "firm": "greylock"
+        },
+        {
+          "slug": "matt-murphy",
+          "name": "Matt Murphy",
+          "firm": "menlo-ventures"
+        },
+        {
+          "slug": "neil-mehta",
+          "name": "Neil Mehta",
+          "firm": "greenoaks"
+        },
+        {
+          "slug": "pat-grady",
+          "name": "Pat Grady",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "ravi-gupta",
+          "name": "Ravi Gupta",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "rich-wong",
+          "name": "Rich Wong",
+          "firm": "accel"
+        },
+        {
+          "slug": "sonya-huang",
+          "name": "Sonya Huang",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "yasmin-razavi",
+          "name": "Yasmin Razavi",
+          "firm": "spark-capital"
+        }
+      ],
+      "summary": "Series B, Growth-focused ai, fintech, saas investors primarily based in Sf Bay Area, with shared investments in Anthropic, Robinhood, Rippling"
+    },
+    {
+      "id": 11,
+      "name": "The Enterprise Hunters",
+      "tagline": "Growth-stage specialists in enterprise software, infrastructure, and cybersecurity",
+      "size": 7,
+      "top_sectors": [
+        "enterprise-software",
+        "infrastructure",
+        "ai",
+        "fintech",
+        "saas"
+      ],
+      "top_stages": [
+        "growth",
+        "series-b",
+        "series-a"
+      ],
+      "top_locations": [
+        "NYC",
+        "Sf Bay Area",
+        "Other US"
+      ],
+      "shared_portfolio": [
+        "Pendo",
+        "Gitlab",
+        "Kustomer",
+        "Cribl",
+        "Workato",
+        "Logrocket"
+      ],
+      "members": [
+        {
+          "slug": "john-curtius",
+          "name": "John Curtius",
+          "firm": "cedar-capital-group"
+        },
+        {
+          "slug": "logan-bartlett",
+          "name": "Logan Bartlett",
+          "firm": "redpoint-ventures"
+        },
+        {
+          "slug": "neeraj-agrawal",
+          "name": "Neeraj Agrawal",
+          "firm": "battery-ventures"
+        },
+        {
+          "slug": "rick-kimball",
+          "name": "Rick Kimball",
+          "firm": "tcv"
+        },
+        {
+          "slug": "scott-sandell",
+          "name": "Scott Sandell",
+          "firm": "nea"
+        },
+        {
+          "slug": "shardul-shah",
+          "name": "Shardul Shah",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "tim-mcadam",
+          "name": "Tim McAdam",
+          "firm": "tcv"
+        }
+      ],
+      "summary": "Growth, Series B-focused enterprise-software, infrastructure, ai investors primarily based in NYC, with shared investments in Pendo, Gitlab, Kustomer"
+    },
+    {
+      "id": 12,
+      "name": "The Infrastructure Engineers",
+      "tagline": "Series A investors obsessed with developer tools, data infrastructure, and cloud-native platforms",
+      "size": 28,
+      "top_sectors": [
+        "infrastructure",
+        "ai",
+        "developer-tools",
+        "saas",
+        "enterprise-software"
+      ],
+      "top_stages": [
+        "series-a",
+        "seed",
+        "series-b"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "Other US"
+      ],
+      "shared_portfolio": [
+        "Clickhouse",
+        "Cortex",
+        "Launchdarkly",
+        "Livekit",
+        "Instructure",
+        "Perplexity",
+        "Elastic",
+        "Cartesia",
+        "Pagerduty",
+        "Tailscale",
+        "Retool",
+        "Cockroach Labs",
+        "Cognition",
+        "Jellyfish"
+      ],
+      "members": [
+        {
+          "slug": "bogomil-balkansky",
+          "name": "Bogomil Balkansky",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "bryan-offutt",
+          "name": "Bryan Offutt",
+          "firm": "hanabi-capital"
+        },
+        {
+          "slug": "byron-deeter",
+          "name": "Byron Deeter",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "chetan-puttagunta",
+          "name": "Chetan Puttagunta",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "david-singer",
+          "name": "David Singer",
+          "firm": "maverick-ventures"
+        },
+        {
+          "slug": "deedy-das",
+          "name": "Deedy Das",
+          "firm": "menlo-ventures"
+        },
+        {
+          "slug": "doug-leone",
+          "name": "Doug Leone",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "erica-brescia",
+          "name": "Erica Brescia",
+          "firm": "redpoint-ventures"
+        },
+        {
+          "slug": "ethan-kurzweil",
+          "name": "Ethan Kurzweil",
+          "firm": "chemistry-vc"
+        },
+        {
+          "slug": "girish-mathrubootham",
+          "name": "Girish Mathrubootham",
+          "firm": "together-fund"
+        },
+        {
+          "slug": "heidi-roizen",
+          "name": "Heidi Roizen",
+          "firm": "threshold-ventures"
+        },
+        {
+          "slug": "ishani-thakur",
+          "name": "Ishani Thakur",
+          "firm": "hanabi-capital"
+        },
+        {
+          "slug": "jerry-chen",
+          "name": "Jerry Chen",
+          "firm": "greylock"
+        },
+        {
+          "slug": "jesse-robbins",
+          "name": "Jesse Robbins",
+          "firm": "heavybit"
+        },
+        {
+          "slug": "john-collison",
+          "name": "John Collison",
+          "firm": ""
+        },
+        {
+          "slug": "joseph-ruscio",
+          "name": "Joseph Ruscio",
+          "firm": "heavybit"
+        },
+        {
+          "slug": "kristina-shen",
+          "name": "Kristina Shen",
+          "firm": "chemistry-vc"
+        },
+        {
+          "slug": "martin-casado",
+          "name": "Martin Casado",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "mike-vernal",
+          "name": "Mike Vernal",
+          "firm": "conviction"
+        },
+        {
+          "slug": "mike-volpi",
+          "name": "Mike Volpi",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "nat-friedman",
+          "name": "Nat Friedman",
+          "firm": "nfdg"
+        },
+        {
+          "slug": "navin-chaddha",
+          "name": "Navin Chaddha",
+          "firm": "mayfield-fund"
+        },
+        {
+          "slug": "patrick-collison",
+          "name": "Patrick Collison",
+          "firm": "stripe"
+        },
+        {
+          "slug": "peter-fenton",
+          "name": "Peter Fenton",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "ping-li",
+          "name": "Ping Li",
+          "firm": "accel"
+        },
+        {
+          "slug": "sarah-guo",
+          "name": "Sarah Guo",
+          "firm": "conviction"
+        },
+        {
+          "slug": "satish-dharmaraj",
+          "name": "Satish Dharmaraj",
+          "firm": "redpoint-ventures"
+        },
+        {
+          "slug": "trevor-oelschig",
+          "name": "Trevor Oelschig",
+          "firm": "general-catalyst"
+        }
+      ],
+      "summary": "Series A, Seed-focused infrastructure, ai, developer-tools investors primarily based in Sf Bay Area, with shared investments in Clickhouse, Cortex, Launchdarkly"
+    },
+    {
+      "id": 13,
+      "name": "The Marketplace Mavens",
+      "tagline": "Consumer and marketplace veterans who backed the early days of DoorDash, Uber, and eBay",
+      "size": 22,
+      "top_sectors": [
+        "consumer-internet",
+        "marketplaces",
+        "fintech",
+        "ai",
+        "enterprise-software"
+      ],
+      "top_stages": [
+        "series-a",
+        "seed",
+        "series-b"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "Boston"
+      ],
+      "shared_portfolio": [
+        "Hoteltonight",
+        "Hipcamp",
+        "Doordash",
+        "Uber",
+        "Fireworks Ai",
+        "Ebay",
+        "Handspring",
+        "Red Hat",
+        "Foursquare",
+        "Discord"
+      ],
+      "members": [
+        {
+          "slug": "alfred-lin",
+          "name": "Alfred Lin",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "andy-rachleff",
+          "name": "Andy Rachleff",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "bijan-sabet",
+          "name": "Bijan Sabet",
+          "firm": "spark-capital"
+        },
+        {
+          "slug": "bob-kagle",
+          "name": "Bob Kagle",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "bruce-dunlevie",
+          "name": "Bruce Dunlevie",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "eric-vishria",
+          "name": "Eric Vishria",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "erik-blachford",
+          "name": "Erik Blachford",
+          "firm": "independent"
+        },
+        {
+          "slug": "hugh-crean",
+          "name": "Hugh Crean",
+          "firm": ""
+        },
+        {
+          "slug": "jack-dorsey",
+          "name": "Jack Dorsey",
+          "firm": "independent"
+        },
+        {
+          "slug": "jess-lee",
+          "name": "Jess Lee",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "josephine-chen",
+          "name": "Josephine Chen",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "katrina-lake",
+          "name": "Katrina Lake",
+          "firm": ""
+        },
+        {
+          "slug": "kevin-harvey",
+          "name": "Kevin Harvey",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "kirsten-green",
+          "name": "Kirsten Green",
+          "firm": "forerunner-ventures"
+        },
+        {
+          "slug": "matt-cohler",
+          "name": "Matt Cohler",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "mitch-lasky",
+          "name": "Mitch Lasky",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "nabeel-hyatt",
+          "name": "Nabeel Hyatt",
+          "firm": "spark-capital"
+        },
+        {
+          "slug": "sam-shank",
+          "name": "Sam Shank",
+          "firm": "independent"
+        },
+        {
+          "slug": "sarah-tavel",
+          "name": "Sarah Tavel",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "shaun-maguire",
+          "name": "Shaun Maguire",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "sonja-hoel-perkins",
+          "name": "Sonja Hoel Perkins",
+          "firm": "broadway-angels"
+        },
+        {
+          "slug": "victor-lazarte",
+          "name": "Victor Lazarte",
+          "firm": "benchmark"
+        }
+      ],
+      "summary": "Series A, Seed-focused consumer-internet, marketplaces, fintech investors primarily based in Sf Bay Area, with shared investments in Hoteltonight, Hipcamp, Doordash"
+    },
+    {
+      "id": 14,
+      "name": "The Silicon Valley Mainstage",
+      "tagline": "The largest cluster of SF-based Series A investors spanning AI, fintech, and consumer",
+      "size": 39,
+      "top_sectors": [
+        "ai",
+        "fintech",
+        "consumer-internet",
+        "saas",
+        "healthcare"
+      ],
+      "top_stages": [
+        "series-a",
+        "seed",
+        "series-b"
+      ],
+      "top_locations": [
+        "Sf Bay Area",
+        "NYC"
+      ],
+      "shared_portfolio": [
+        "Coinbase",
+        "Uber",
+        "Applied Intuition",
+        "Airbnb",
+        "Slack",
+        "Gusto",
+        "Pinterest",
+        "Kobold Metals",
+        "Lido",
+        "Optimism",
+        "Uniswap",
+        "Dydx",
+        "Affirm",
+        "Spacex",
+        "Opendoor"
+      ],
+      "members": [
+        {
+          "slug": "aydin-senkut",
+          "name": "Aydin Senkut",
+          "firm": "felicis"
+        },
+        {
+          "slug": "bilal-zuberi",
+          "name": "Bilal Zuberi",
+          "firm": "lux-capital"
+        },
+        {
+          "slug": "connie-chan",
+          "name": "Connie Chan",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "dan-morehead",
+          "name": "Dan Morehead",
+          "firm": "pantera-capital"
+        },
+        {
+          "slug": "david-cowan",
+          "name": "David Cowan",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "david-krane",
+          "name": "David Krane",
+          "firm": "gv"
+        },
+        {
+          "slug": "david-sacks",
+          "name": "David Sacks",
+          "firm": "craft-ventures"
+        },
+        {
+          "slug": "evan-williams",
+          "name": "Evan Williams",
+          "firm": "obvious-ventures"
+        },
+        {
+          "slug": "fred-ehrsam",
+          "name": "Fred Ehrsam",
+          "firm": "paradigm"
+        },
+        {
+          "slug": "jeff-richards",
+          "name": "Jeff Richards",
+          "firm": "notable-capital"
+        },
+        {
+          "slug": "jerry-yang",
+          "name": "Jerry Yang",
+          "firm": "ame-cloud-ventures"
+        },
+        {
+          "slug": "john-doerr",
+          "name": "John Doerr",
+          "firm": "kleiner-perkins"
+        },
+        {
+          "slug": "josh-buckley",
+          "name": "Josh Buckley",
+          "firm": "buckley-ventures"
+        },
+        {
+          "slug": "josh-wolfe",
+          "name": "Josh Wolfe",
+          "firm": "lux-capital"
+        },
+        {
+          "slug": "karen-page",
+          "name": "Karen Page",
+          "firm": "b-capital-group"
+        },
+        {
+          "slug": "katherine-boyle",
+          "name": "Katherine Boyle",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "katie-haun",
+          "name": "Katie Haun",
+          "firm": "haun-ventures"
+        },
+        {
+          "slug": "kevin-systrom",
+          "name": "Kevin Systrom",
+          "firm": "independent"
+        },
+        {
+          "slug": "lachy-groom",
+          "name": "Lachy Groom",
+          "firm": "independent"
+        },
+        {
+          "slug": "lauren-kolodny",
+          "name": "Lauren Kolodny",
+          "firm": "acrew-capital"
+        },
+        {
+          "slug": "mamoon-hamid",
+          "name": "Mamoon Hamid",
+          "firm": "kleiner-perkins"
+        },
+        {
+          "slug": "marc-benioff",
+          "name": "Marc Benioff",
+          "firm": "time-ventures"
+        },
+        {
+          "slug": "matt-huang",
+          "name": "Matt Huang",
+          "firm": "paradigm"
+        },
+        {
+          "slug": "matthew-ocko",
+          "name": "Matthew Ocko",
+          "firm": "dcvc"
+        },
+        {
+          "slug": "max-levchin",
+          "name": "Max Levchin",
+          "firm": "scifi-vc"
+        },
+        {
+          "slug": "micky-malka",
+          "name": "Micky Malka",
+          "firm": "ribbit-capital"
+        },
+        {
+          "slug": "mike-krieger",
+          "name": "Mike Krieger",
+          "firm": "anthropic"
+        },
+        {
+          "slug": "miles-grimshaw",
+          "name": "Miles Grimshaw",
+          "firm": "thrive-capital"
+        },
+        {
+          "slug": "paul-veradittakit",
+          "name": "Paul Veradittakit",
+          "firm": "pantera-capital"
+        },
+        {
+          "slug": "peter-hebert",
+          "name": "Peter H\u00e9bert",
+          "firm": "lux-capital"
+        },
+        {
+          "slug": "reid-hoffman",
+          "name": "Reid Hoffman",
+          "firm": "greylock"
+        },
+        {
+          "slug": "roelof-botha",
+          "name": "Roelof Botha",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "sam-altman",
+          "name": "Sam Altman",
+          "firm": ""
+        },
+        {
+          "slug": "shervin-pishevar",
+          "name": "Shervin Pishevar",
+          "firm": "sherpa-capital"
+        },
+        {
+          "slug": "talia-goldberg",
+          "name": "Talia Goldberg",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "trae-stephens",
+          "name": "Trae Stephens",
+          "firm": "founders-fund"
+        },
+        {
+          "slug": "vijay-pande",
+          "name": "Vijay Pande",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "vishal-lugani",
+          "name": "Vishal Lugani",
+          "firm": "acrew-capital"
+        },
+        {
+          "slug": "zachary-bogue",
+          "name": "Zachary Bogue",
+          "firm": "dcvc"
+        }
+      ],
+      "summary": "Series A, Seed-focused ai, fintech, consumer-internet investors primarily based in Sf Bay Area, with shared investments in Coinbase, Uber, Applied Intuition"
+    }
+  ],
+  "investor_clusters": {
+    "arash-ferdowsi": 0,
+    "assaf-rappaport": 0,
+    "brad-burnham": 0,
+    "chris-dixon": 0,
+    "dan-rose": 0,
+    "eric-glyman": 0,
+    "fabrice-grinda": 0,
+    "fred-wilson": 0,
+    "hayley-barna": 0,
+    "howard-morgan": 0,
+    "jaimin-rangwalla": 0,
+    "jeremy-levine": 0,
+    "jose-marin": 0,
+    "josh-kushner": 0,
+    "lee-fixel": 0,
+    "marc-lore": 0,
+    "martin-mignot": 0,
+    "mike-novogratz": 0,
+    "nathan-urquhart": 0,
+    "olivier-pomel": 0,
+    "philippe-laffont": 0,
+    "rebecca-kaden": 0,
+    "scott-belsky": 0,
+    "sriram-krishnan": 0,
+    "teddie-wardi": 0,
+    "andreas-halvorsen": 1,
+    "chris-shumway": 1,
+    "john-griffin": 1,
+    "lee-ainslie": 1,
+    "rob-citrone": 1,
+    "stephen-mandel": 1,
+    "chase-coleman": 2,
+    "dan-sundheim": 2,
+    "deven-parekh": 2,
+    "jeff-horing": 2,
+    "julian-robertson": 2,
+    "mala-gaonkar": 2,
+    "stan-druckenmiller": 2,
+    "ajay-kamat": 3,
+    "bill-gurley": 3,
+    "chester-ng": 3,
+    "chris-fralic": 3,
+    "chris-hulls": 3,
+    "dan-portillo": 3,
+    "drew-oetting": 3,
+    "howard-lindzon": 3,
+    "jack-abraham": 3,
+    "joe-lonsdale": 3,
+    "kathleen-estreich": 3,
+    "keith-rabois": 3,
+    "mike-slade": 3,
+    "nick-hanauer": 3,
+    "palmer-luckey": 3,
+    "pete-higgins": 3,
+    "rich-barton": 3,
+    "sameer-gandhi": 3,
+    "sami-inkinen": 3,
+    "scott-kupor": 3,
+    "tobi-lutke": 3,
+    "turner-novak": 3,
+    "alex-ferrara": 4,
+    "daniel-ek": 4,
+    "danny-rimer": 4,
+    "gili-raanan": 4,
+    "jan-hammer": 4,
+    "john-doran": 4,
+    "luciana-lixandru": 4,
+    "neil-rimer": 4,
+    "nikolay-storonsky": 4,
+    "shakil-khan": 4,
+    "shlomo-kramer": 4,
+    "sonali-de-rycker": 4,
+    "bill-gross": 5,
+    "brendan-wallace": 5,
+    "brianne-kimmel": 5,
+    "eduardo-saverin": 5,
+    "gabe-greenbaum": 5,
+    "karan-mohla": 5,
+    "marlon-nichols": 5,
+    "raj-ganguly": 5,
+    "travis-kalanick": 5,
+    "bill-trenchard": 6,
+    "bret-taylor": 6,
+    "brett-gibson": 6,
+    "chris-sacca": 6,
+    "david-cancel": 6,
+    "elias-torres": 6,
+    "konstantin-othmer": 6,
+    "lo-toney": 6,
+    "magdalena-yesil": 6,
+    "michael-moritz": 6,
+    "rob-hayes": 6,
+    "ron-conway": 6,
+    "steve-anderson": 6,
+    "aileen-lee": 7,
+    "ali-rowghani": 7,
+    "andrew-dudum": 7,
+    "angela-tran": 7,
+    "boris-wertz": 7,
+    "charles-hudson": 7,
+    "eddie-eltoukhy": 7,
+    "garry-tan": 7,
+    "harris-stolzenberg": 7,
+    "itamar-novick": 7,
+    "jake-gibson": 7,
+    "james-currier": 7,
+    "jessica-livingston": 7,
+    "josh-kopelman": 7,
+    "khalil-fuller": 7,
+    "mar-hershenson": 7,
+    "mike-maples": 7,
+    "paul-graham": 7,
+    "pejman-nozad": 7,
+    "pete-flint": 7,
+    "phin-barnes": 7,
+    "rahul-vohra": 7,
+    "ryan-sells": 7,
+    "satya-patel": 7,
+    "shaherose-charania": 7,
+    "sheel-mohnot": 7,
+    "shravan-reddy": 7,
+    "todd-goldberg": 7,
+    "warren-shaeffer": 7,
+    "adam-dangelo": 8,
+    "alexis-ohanian": 8,
+    "arash-afrakhteh": 8,
+    "dalton-caldwell": 8,
+    "dan-scheinman": 8,
+    "daniel-gross": 8,
+    "dylan-field": 8,
+    "elad-gil": 8,
+    "garrett-camp": 8,
+    "gil-ben-artzy": 8,
+    "gokul-rajaram": 8,
+    "greg-brockman": 8,
+    "jennifer-fonstad": 8,
+    "kevin-hartz": 8,
+    "lia-cromwell": 8,
+    "paul-buchheit": 8,
+    "ramtin-naimi": 8,
+    "shruti-gandhi": 8,
+    "shuly-galili": 8,
+    "stephanie-zhan": 8,
+    "theresia-gouw": 8,
+    "tim-draper": 8,
+    "albert-chiang": 9,
+    "andrew-feldman": 9,
+    "brad-gerstner": 9,
+    "clay-bavor": 9,
+    "david-goel": 9,
+    "ilya-sutskever": 9,
+    "jay-hoag": 9,
+    "mary-meeker": 9,
+    "pete-briger": 9,
+    "peter-chung": 9,
+    "ram-parameswaran": 9,
+    "romit-shah": 9,
+    "tom-dyal": 9,
+    "woody-marshall": 9,
+    "yuri-milner": 9,
+    "andrew-braccia": 10,
+    "andrew-reed": 10,
+    "anu-hariharan": 10,
+    "david-sze": 10,
+    "matt-murphy": 10,
+    "neil-mehta": 10,
+    "pat-grady": 10,
+    "ravi-gupta": 10,
+    "rich-wong": 10,
+    "sonya-huang": 10,
+    "yasmin-razavi": 10,
+    "john-curtius": 11,
+    "logan-bartlett": 11,
+    "neeraj-agrawal": 11,
+    "rick-kimball": 11,
+    "scott-sandell": 11,
+    "shardul-shah": 11,
+    "tim-mcadam": 11,
+    "bogomil-balkansky": 12,
+    "bryan-offutt": 12,
+    "byron-deeter": 12,
+    "chetan-puttagunta": 12,
+    "david-singer": 12,
+    "deedy-das": 12,
+    "doug-leone": 12,
+    "erica-brescia": 12,
+    "ethan-kurzweil": 12,
+    "girish-mathrubootham": 12,
+    "heidi-roizen": 12,
+    "ishani-thakur": 12,
+    "jerry-chen": 12,
+    "jesse-robbins": 12,
+    "john-collison": 12,
+    "joseph-ruscio": 12,
+    "kristina-shen": 12,
+    "martin-casado": 12,
+    "mike-vernal": 12,
+    "mike-volpi": 12,
+    "nat-friedman": 12,
+    "navin-chaddha": 12,
+    "patrick-collison": 12,
+    "peter-fenton": 12,
+    "ping-li": 12,
+    "sarah-guo": 12,
+    "satish-dharmaraj": 12,
+    "trevor-oelschig": 12,
+    "alfred-lin": 13,
+    "andy-rachleff": 13,
+    "bijan-sabet": 13,
+    "bob-kagle": 13,
+    "bruce-dunlevie": 13,
+    "eric-vishria": 13,
+    "erik-blachford": 13,
+    "hugh-crean": 13,
+    "jack-dorsey": 13,
+    "jess-lee": 13,
+    "josephine-chen": 13,
+    "katrina-lake": 13,
+    "kevin-harvey": 13,
+    "kirsten-green": 13,
+    "matt-cohler": 13,
+    "mitch-lasky": 13,
+    "nabeel-hyatt": 13,
+    "sam-shank": 13,
+    "sarah-tavel": 13,
+    "shaun-maguire": 13,
+    "sonja-hoel-perkins": 13,
+    "victor-lazarte": 13,
+    "aydin-senkut": 14,
+    "bilal-zuberi": 14,
+    "connie-chan": 14,
+    "dan-morehead": 14,
+    "david-cowan": 14,
+    "david-krane": 14,
+    "david-sacks": 14,
+    "evan-williams": 14,
+    "fred-ehrsam": 14,
+    "jeff-richards": 14,
+    "jerry-yang": 14,
+    "john-doerr": 14,
+    "josh-buckley": 14,
+    "josh-wolfe": 14,
+    "karen-page": 14,
+    "katherine-boyle": 14,
+    "katie-haun": 14,
+    "kevin-systrom": 14,
+    "lachy-groom": 14,
+    "lauren-kolodny": 14,
+    "mamoon-hamid": 14,
+    "marc-benioff": 14,
+    "matt-huang": 14,
+    "matthew-ocko": 14,
+    "max-levchin": 14,
+    "micky-malka": 14,
+    "mike-krieger": 14,
+    "miles-grimshaw": 14,
+    "paul-veradittakit": 14,
+    "peter-hebert": 14,
+    "reid-hoffman": 14,
+    "roelof-botha": 14,
+    "sam-altman": 14,
+    "shervin-pishevar": 14,
+    "talia-goldberg": 14,
+    "trae-stephens": 14,
+    "vijay-pande": 14,
+    "vishal-lugani": 14,
+    "zachary-bogue": 14
+  },
+  "similar_investors": {
+    "adam-dangelo": [
+      "paul-buchheit",
+      "dalton-caldwell",
+      "jessica-livingston",
+      "gokul-rajaram",
+      "kevin-hartz"
+    ],
+    "aileen-lee": [
+      "phin-barnes",
+      "satya-patel",
+      "jessica-livingston",
+      "pejman-nozad",
+      "andrew-dudum"
+    ],
+    "ajay-kamat": [
+      "howard-lindzon",
+      "josh-kopelman",
+      "andrew-dudum",
+      "kathleen-estreich",
+      "chris-hulls"
+    ],
+    "albert-chiang": [
+      "ram-parameswaran",
+      "yuri-milner",
+      "brad-gerstner",
+      "jay-hoag",
+      "mary-meeker"
+    ],
+    "alex-ferrara": [
+      "jan-hammer",
+      "shlomo-kramer",
+      "doug-leone",
+      "luciana-lixandru",
+      "neil-rimer"
+    ],
+    "alexis-ohanian": [
+      "adam-dangelo",
+      "paul-buchheit",
+      "ramtin-naimi",
+      "stephanie-zhan",
+      "garry-tan"
+    ],
+    "alfred-lin": [
+      "roelof-botha",
+      "ron-conway",
+      "jess-lee",
+      "paul-buchheit",
+      "ravi-gupta"
+    ],
+    "ali-rowghani": [
+      "ryan-sells",
+      "chetan-puttagunta",
+      "shravan-reddy",
+      "bret-taylor",
+      "garry-tan"
+    ],
+    "andreas-halvorsen": [
+      "stephen-mandel",
+      "john-griffin",
+      "lee-ainslie",
+      "chris-shumway",
+      "chester-ng"
+    ],
+    "andrew-braccia": [
+      "rich-wong",
+      "mamoon-hamid",
+      "david-krane",
+      "roelof-botha",
+      "david-sze"
+    ],
+    "andrew-dudum": [
+      "aileen-lee",
+      "jessica-livingston",
+      "james-currier",
+      "pejman-nozad",
+      "phin-barnes"
+    ],
+    "andrew-feldman": [
+      "navin-chaddha",
+      "brad-gerstner",
+      "ilya-sutskever",
+      "arash-afrakhteh",
+      "bryan-offutt"
+    ],
+    "andrew-reed": [
+      "pat-grady",
+      "yasmin-razavi",
+      "roelof-botha",
+      "ravi-gupta",
+      "kevin-systrom"
+    ],
+    "andy-rachleff": [
+      "chetan-puttagunta",
+      "kirsten-green",
+      "victor-lazarte",
+      "matt-cohler",
+      "bob-kagle"
+    ],
+    "angela-tran": [
+      "boris-wertz",
+      "jessica-livingston",
+      "shruti-gandhi",
+      "garry-tan",
+      "pejman-nozad"
+    ],
+    "anu-hariharan": [
+      "andrew-reed",
+      "michael-moritz",
+      "ravi-gupta",
+      "mike-krieger",
+      "neil-mehta"
+    ],
+    "arash-afrakhteh": [
+      "greg-brockman",
+      "dalton-caldwell",
+      "jerry-chen",
+      "arash-ferdowsi",
+      "nat-friedman"
+    ],
+    "arash-ferdowsi": [
+      "olivier-pomel",
+      "dalton-caldwell",
+      "greg-brockman",
+      "howard-morgan",
+      "arash-afrakhteh"
+    ],
+    "assaf-rappaport": [
+      "olivier-pomel",
+      "teddie-wardi",
+      "shardul-shah",
+      "brad-burnham",
+      "arash-ferdowsi"
+    ],
+    "aydin-senkut": [
+      "roelof-botha",
+      "mamoon-hamid",
+      "marc-benioff",
+      "doug-leone",
+      "scott-sandell"
+    ],
+    "bijan-sabet": [
+      "nabeel-hyatt",
+      "neeraj-agrawal",
+      "neil-rimer",
+      "hugh-crean",
+      "matt-cohler"
+    ],
+    "bilal-zuberi": [
+      "peter-hebert",
+      "aydin-senkut",
+      "matthew-ocko",
+      "roelof-botha",
+      "scott-sandell"
+    ],
+    "bill-gross": [
+      "brianne-kimmel",
+      "angela-tran",
+      "marlon-nichols",
+      "ali-rowghani",
+      "gabe-greenbaum"
+    ],
+    "bill-gurley": [
+      "keith-rabois",
+      "chester-ng",
+      "rich-barton",
+      "matt-cohler",
+      "drew-oetting"
+    ],
+    "bill-trenchard": [
+      "rob-hayes",
+      "bret-taylor",
+      "lo-toney",
+      "pejman-nozad",
+      "steve-anderson"
+    ],
+    "bob-kagle": [
+      "yuri-milner",
+      "victor-lazarte",
+      "lo-toney",
+      "andy-rachleff",
+      "magdalena-yesil"
+    ],
+    "bogomil-balkansky": [
+      "ping-li",
+      "doug-leone",
+      "peter-fenton",
+      "bryan-offutt",
+      "jerry-chen"
+    ],
+    "boris-wertz": [
+      "angela-tran",
+      "howard-lindzon",
+      "josh-kopelman",
+      "ajay-kamat",
+      "chris-hulls"
+    ],
+    "brad-burnham": [
+      "fred-wilson",
+      "rebecca-kaden",
+      "assaf-rappaport",
+      "olivier-pomel",
+      "martin-mignot"
+    ],
+    "brad-gerstner": [
+      "ram-parameswaran",
+      "albert-chiang",
+      "daniel-gross",
+      "mary-meeker",
+      "pat-grady"
+    ],
+    "brendan-wallace": [
+      "gabe-greenbaum",
+      "raj-ganguly",
+      "john-doerr",
+      "marc-benioff",
+      "talia-goldberg"
+    ],
+    "bret-taylor": [
+      "ali-rowghani",
+      "chetan-puttagunta",
+      "bill-trenchard",
+      "brett-gibson",
+      "ryan-sells"
+    ],
+    "brett-gibson": [
+      "garry-tan",
+      "bret-taylor",
+      "jesse-robbins",
+      "john-collison",
+      "bryan-offutt"
+    ],
+    "brianne-kimmel": [
+      "greg-brockman",
+      "adam-dangelo",
+      "dalton-caldwell",
+      "ramtin-naimi",
+      "arash-ferdowsi"
+    ],
+    "bruce-dunlevie": [
+      "kevin-harvey",
+      "matt-cohler",
+      "jess-lee",
+      "eric-vishria",
+      "david-singer"
+    ],
+    "bryan-offutt": [
+      "ishani-thakur",
+      "erica-brescia",
+      "peter-fenton",
+      "jerry-chen",
+      "mike-vernal"
+    ],
+    "byron-deeter": [
+      "nat-friedman",
+      "talia-goldberg",
+      "kristina-shen",
+      "peter-fenton",
+      "david-krane"
+    ],
+    "charles-hudson": [
+      "mike-maples",
+      "rahul-vohra",
+      "todd-goldberg",
+      "paul-buchheit",
+      "jessica-livingston"
+    ],
+    "chase-coleman": [
+      "stan-druckenmiller",
+      "jay-hoag",
+      "ram-parameswaran",
+      "josh-kushner",
+      "deven-parekh"
+    ],
+    "chester-ng": [
+      "jack-abraham",
+      "joe-lonsdale",
+      "bill-gurley",
+      "drew-oetting",
+      "keith-rabois"
+    ],
+    "chetan-puttagunta": [
+      "peter-fenton",
+      "ali-rowghani",
+      "bryan-offutt",
+      "mike-vernal",
+      "miles-grimshaw"
+    ],
+    "chris-dixon": [
+      "sriram-krishnan",
+      "fred-ehrsam",
+      "josh-kushner",
+      "lee-fixel",
+      "philippe-laffont"
+    ],
+    "chris-fralic": [
+      "josh-kopelman",
+      "steve-anderson",
+      "sami-inkinen",
+      "hayley-barna",
+      "lo-toney"
+    ],
+    "chris-hulls": [
+      "itamar-novick",
+      "josh-kopelman",
+      "ajay-kamat",
+      "howard-lindzon",
+      "boris-wertz"
+    ],
+    "chris-sacca": [
+      "konstantin-othmer",
+      "scott-belsky",
+      "fred-wilson",
+      "kevin-hartz",
+      "dan-rose"
+    ],
+    "chris-shumway": [
+      "stephen-mandel",
+      "andreas-halvorsen",
+      "josh-kopelman",
+      "chester-ng",
+      "scott-kupor"
+    ],
+    "clay-bavor": [
+      "bret-taylor",
+      "deedy-das",
+      "mike-vernal",
+      "ryan-sells",
+      "sarah-guo"
+    ],
+    "connie-chan": [
+      "sriram-krishnan",
+      "evan-williams",
+      "michael-moritz",
+      "katherine-boyle",
+      "martin-casado"
+    ],
+    "dalton-caldwell": [
+      "greg-brockman",
+      "garry-tan",
+      "daniel-gross",
+      "adam-dangelo",
+      "paul-buchheit"
+    ],
+    "dan-morehead": [
+      "paul-veradittakit",
+      "fred-ehrsam",
+      "matt-huang",
+      "nat-friedman",
+      "scott-sandell"
+    ],
+    "dan-portillo": [
+      "tobi-lutke",
+      "elad-gil",
+      "joe-lonsdale",
+      "arash-ferdowsi",
+      "drew-oetting"
+    ],
+    "dan-rose": [
+      "philippe-laffont",
+      "sarah-tavel",
+      "sriram-krishnan",
+      "kevin-systrom",
+      "mamoon-hamid"
+    ],
+    "dan-scheinman": [
+      "shuly-galili",
+      "greg-brockman",
+      "ryan-sells",
+      "gil-ben-artzy",
+      "ali-rowghani"
+    ],
+    "dan-sundheim": [
+      "stan-druckenmiller",
+      "josh-kushner",
+      "mala-gaonkar",
+      "philippe-laffont",
+      "john-griffin"
+    ],
+    "daniel-ek": [
+      "stan-druckenmiller",
+      "bilal-zuberi",
+      "nikolay-storonsky",
+      "neil-rimer",
+      "shakil-khan"
+    ],
+    "daniel-gross": [
+      "dalton-caldwell",
+      "nat-friedman",
+      "elad-gil",
+      "garry-tan",
+      "greg-brockman"
+    ],
+    "danny-rimer": [
+      "neil-rimer",
+      "luciana-lixandru",
+      "jan-hammer",
+      "shlomo-kramer",
+      "john-doran"
+    ],
+    "david-cancel": [
+      "elias-torres",
+      "steve-anderson",
+      "harris-stolzenberg",
+      "bill-trenchard",
+      "bret-taylor"
+    ],
+    "david-cowan": [
+      "ethan-kurzweil",
+      "matthew-ocko",
+      "matt-cohler",
+      "bogomil-balkansky",
+      "mitch-lasky"
+    ],
+    "david-goel": [
+      "romit-shah",
+      "brad-gerstner",
+      "chris-shumway",
+      "dan-sundheim",
+      "rob-citrone"
+    ],
+    "david-krane": [
+      "roelof-botha",
+      "byron-deeter",
+      "mamoon-hamid",
+      "marc-benioff",
+      "sam-altman"
+    ],
+    "david-sacks": [
+      "reid-hoffman",
+      "elad-gil",
+      "matt-huang",
+      "roelof-botha",
+      "mamoon-hamid"
+    ],
+    "david-singer": [
+      "deedy-das",
+      "heidi-roizen",
+      "mike-vernal",
+      "girish-mathrubootham",
+      "john-doerr"
+    ],
+    "david-sze": [
+      "andrew-braccia",
+      "mitch-lasky",
+      "neil-mehta",
+      "david-krane",
+      "ethan-kurzweil"
+    ],
+    "deedy-das": [
+      "mike-vernal",
+      "martin-casado",
+      "miles-grimshaw",
+      "matt-murphy",
+      "bryan-offutt"
+    ],
+    "deven-parekh": [
+      "jeff-horing",
+      "jose-marin",
+      "jeremy-levine",
+      "yuri-milner",
+      "stan-druckenmiller"
+    ],
+    "doug-leone": [
+      "bogomil-balkansky",
+      "aydin-senkut",
+      "scott-sandell",
+      "roelof-botha",
+      "pat-grady"
+    ],
+    "drew-oetting": [
+      "joe-lonsdale",
+      "chester-ng",
+      "dan-portillo",
+      "keith-rabois",
+      "tobi-lutke"
+    ],
+    "dylan-field": [
+      "garry-tan",
+      "stephanie-zhan",
+      "jessica-livingston",
+      "phin-barnes",
+      "ryan-sells"
+    ],
+    "eddie-eltoukhy": [
+      "mar-hershenson",
+      "khalil-fuller",
+      "pejman-nozad",
+      "ryan-sells",
+      "shravan-reddy"
+    ],
+    "eduardo-saverin": [
+      "raj-ganguly",
+      "karan-mohla",
+      "marc-benioff",
+      "karen-page",
+      "roelof-botha"
+    ],
+    "elad-gil": [
+      "daniel-gross",
+      "sam-altman",
+      "paul-buchheit",
+      "dalton-caldwell",
+      "david-sacks"
+    ],
+    "elias-torres": [
+      "harris-stolzenberg",
+      "shruti-gandhi",
+      "jessica-livingston",
+      "angela-tran",
+      "david-cancel"
+    ],
+    "eric-glyman": [
+      "martin-mignot",
+      "josh-kushner",
+      "lee-fixel",
+      "rebecca-kaden",
+      "roelof-botha"
+    ],
+    "eric-vishria": [
+      "peter-fenton",
+      "kevin-harvey",
+      "miles-grimshaw",
+      "neil-mehta",
+      "bruce-dunlevie"
+    ],
+    "erica-brescia": [
+      "bryan-offutt",
+      "martin-casado",
+      "peter-fenton",
+      "ishani-thakur",
+      "jerry-chen"
+    ],
+    "erik-blachford": [
+      "lachy-groom",
+      "kevin-systrom",
+      "sarah-tavel",
+      "jeff-richards",
+      "theresia-gouw"
+    ],
+    "ethan-kurzweil": [
+      "kristina-shen",
+      "michael-moritz",
+      "steve-anderson",
+      "bogomil-balkansky",
+      "navin-chaddha"
+    ],
+    "evan-williams": [
+      "vishal-lugani",
+      "marc-benioff",
+      "roelof-botha",
+      "connie-chan",
+      "john-doerr"
+    ],
+    "fabrice-grinda": [
+      "jose-marin",
+      "arash-ferdowsi",
+      "howard-morgan",
+      "mike-novogratz",
+      "rebecca-kaden"
+    ],
+    "fred-ehrsam": [
+      "matt-huang",
+      "dan-morehead",
+      "sriram-krishnan",
+      "chris-dixon",
+      "paul-veradittakit"
+    ],
+    "fred-wilson": [
+      "brad-burnham",
+      "rebecca-kaden",
+      "chris-dixon",
+      "martin-mignot",
+      "jose-marin"
+    ],
+    "gabe-greenbaum": [
+      "raj-ganguly",
+      "brendan-wallace",
+      "mike-volpi",
+      "nabeel-hyatt",
+      "travis-kalanick"
+    ],
+    "garrett-camp": [
+      "dalton-caldwell",
+      "jennifer-fonstad",
+      "satya-patel",
+      "aydin-senkut",
+      "theresia-gouw"
+    ],
+    "garry-tan": [
+      "jessica-livingston",
+      "dalton-caldwell",
+      "paul-buchheit",
+      "dylan-field",
+      "phin-barnes"
+    ],
+    "gil-ben-artzy": [
+      "shuly-galili",
+      "lia-cromwell",
+      "itamar-novick",
+      "jessica-livingston",
+      "satya-patel"
+    ],
+    "gili-raanan": [
+      "shlomo-kramer",
+      "lia-cromwell",
+      "alex-ferrara",
+      "assaf-rappaport",
+      "paul-graham"
+    ],
+    "girish-mathrubootham": [
+      "chetan-puttagunta",
+      "josephine-chen",
+      "deedy-das",
+      "greg-brockman",
+      "heidi-roizen"
+    ],
+    "gokul-rajaram": [
+      "paul-buchheit",
+      "adam-dangelo",
+      "kevin-hartz",
+      "mike-maples",
+      "elad-gil"
+    ],
+    "greg-brockman": [
+      "dalton-caldwell",
+      "nat-friedman",
+      "arash-afrakhteh",
+      "adam-dangelo",
+      "shruti-gandhi"
+    ],
+    "harris-stolzenberg": [
+      "pejman-nozad",
+      "mar-hershenson",
+      "jessica-livingston",
+      "josh-kopelman",
+      "elias-torres"
+    ],
+    "hayley-barna": [
+      "rebecca-kaden",
+      "fred-wilson",
+      "scott-belsky",
+      "chris-fralic",
+      "eric-glyman"
+    ],
+    "heidi-roizen": [
+      "mamoon-hamid",
+      "roelof-botha",
+      "girish-mathrubootham",
+      "jerry-chen",
+      "marc-benioff"
+    ],
+    "howard-lindzon": [
+      "ajay-kamat",
+      "josh-kopelman",
+      "boris-wertz",
+      "alexis-ohanian",
+      "garry-tan"
+    ],
+    "howard-morgan": [
+      "arash-ferdowsi",
+      "jose-marin",
+      "josh-kopelman",
+      "fabrice-grinda",
+      "olivier-pomel"
+    ],
+    "hugh-crean": [
+      "rich-barton",
+      "bijan-sabet",
+      "magdalena-yesil",
+      "katrina-lake",
+      "kirsten-green"
+    ],
+    "ilya-sutskever": [
+      "navin-chaddha",
+      "sriram-krishnan",
+      "andrew-feldman",
+      "bryan-offutt",
+      "deedy-das"
+    ],
+    "ishani-thakur": [
+      "bryan-offutt",
+      "mike-vernal",
+      "erica-brescia",
+      "martin-casado",
+      "satish-dharmaraj"
+    ],
+    "itamar-novick": [
+      "pete-flint",
+      "sheel-mohnot",
+      "jessica-livingston",
+      "satya-patel",
+      "shuly-galili"
+    ],
+    "jack-abraham": [
+      "chester-ng",
+      "josh-kopelman",
+      "turner-novak",
+      "andrew-dudum",
+      "keith-rabois"
+    ],
+    "jack-dorsey": [
+      "magdalena-yesil",
+      "kirsten-green",
+      "kevin-systrom",
+      "adam-dangelo",
+      "vishal-lugani"
+    ],
+    "jaimin-rangwalla": [
+      "philippe-laffont",
+      "nathan-urquhart",
+      "stan-druckenmiller",
+      "lee-fixel",
+      "logan-bartlett"
+    ],
+    "jake-gibson": [
+      "sheel-mohnot",
+      "satya-patel",
+      "garry-tan",
+      "dylan-field",
+      "andrew-dudum"
+    ],
+    "james-currier": [
+      "pete-flint",
+      "mar-hershenson",
+      "mike-maples",
+      "andrew-dudum",
+      "itamar-novick"
+    ],
+    "jan-hammer": [
+      "alex-ferrara",
+      "shlomo-kramer",
+      "neil-rimer",
+      "kristina-shen",
+      "nikolay-storonsky"
+    ],
+    "jay-hoag": [
+      "yuri-milner",
+      "woody-marshall",
+      "magdalena-yesil",
+      "mary-meeker",
+      "chase-coleman"
+    ],
+    "jeff-horing": [
+      "deven-parekh",
+      "teddie-wardi",
+      "shardul-shah",
+      "assaf-rappaport",
+      "logan-bartlett"
+    ],
+    "jeff-richards": [
+      "jerry-chen",
+      "heidi-roizen",
+      "matt-cohler",
+      "navin-chaddha",
+      "sarah-tavel"
+    ],
+    "jennifer-fonstad": [
+      "theresia-gouw",
+      "garrett-camp",
+      "shuly-galili",
+      "gil-ben-artzy",
+      "scott-sandell"
+    ],
+    "jeremy-levine": [
+      "jose-marin",
+      "lee-fixel",
+      "chris-dixon",
+      "eric-glyman",
+      "martin-mignot"
+    ],
+    "jerry-chen": [
+      "peter-fenton",
+      "bryan-offutt",
+      "bogomil-balkansky",
+      "erica-brescia",
+      "mike-volpi"
+    ],
+    "jerry-yang": [
+      "matthew-ocko",
+      "patrick-collison",
+      "mike-volpi",
+      "dan-morehead",
+      "nat-friedman"
+    ],
+    "jess-lee": [
+      "josephine-chen",
+      "stephanie-zhan",
+      "alfred-lin",
+      "kevin-hartz",
+      "paul-buchheit"
+    ],
+    "jesse-robbins": [
+      "john-collison",
+      "bryan-offutt",
+      "greg-brockman",
+      "ishani-thakur",
+      "mike-vernal"
+    ],
+    "jessica-livingston": [
+      "garry-tan",
+      "mike-maples",
+      "adam-dangelo",
+      "paul-buchheit",
+      "pejman-nozad"
+    ],
+    "joe-lonsdale": [
+      "drew-oetting",
+      "chester-ng",
+      "dan-portillo",
+      "tobi-lutke",
+      "keith-rabois"
+    ],
+    "john-collison": [
+      "patrick-collison",
+      "jesse-robbins",
+      "greg-brockman",
+      "chetan-puttagunta",
+      "bryan-offutt"
+    ],
+    "john-curtius": [
+      "logan-bartlett",
+      "tobi-lutke",
+      "dan-portillo",
+      "joseph-ruscio",
+      "sonya-huang"
+    ],
+    "john-doerr": [
+      "mamoon-hamid",
+      "marc-benioff",
+      "roelof-botha",
+      "talia-goldberg",
+      "aydin-senkut"
+    ],
+    "john-doran": [
+      "luciana-lixandru",
+      "danny-rimer",
+      "woody-marshall",
+      "neil-rimer",
+      "jay-hoag"
+    ],
+    "john-griffin": [
+      "lee-ainslie",
+      "andreas-halvorsen",
+      "dan-sundheim",
+      "mala-gaonkar",
+      "stephen-mandel"
+    ],
+    "jose-marin": [
+      "fabrice-grinda",
+      "jeremy-levine",
+      "paul-buchheit",
+      "arash-ferdowsi",
+      "howard-morgan"
+    ],
+    "joseph-ruscio": [
+      "jesse-robbins",
+      "chetan-puttagunta",
+      "bryan-offutt",
+      "mike-vernal",
+      "john-curtius"
+    ],
+    "josephine-chen": [
+      "shaun-maguire",
+      "jess-lee",
+      "girish-mathrubootham",
+      "chetan-puttagunta",
+      "stephanie-zhan"
+    ],
+    "josh-buckley": [
+      "adam-dangelo",
+      "dalton-caldwell",
+      "michael-moritz",
+      "girish-mathrubootham",
+      "magdalena-yesil"
+    ],
+    "josh-kopelman": [
+      "harris-stolzenberg",
+      "jessica-livingston",
+      "howard-lindzon",
+      "jack-abraham",
+      "pejman-nozad"
+    ],
+    "josh-kushner": [
+      "lee-fixel",
+      "martin-mignot",
+      "chris-dixon",
+      "philippe-laffont",
+      "miles-grimshaw"
+    ],
+    "josh-wolfe": [
+      "peter-hebert",
+      "jerry-yang",
+      "zachary-bogue",
+      "martin-mignot",
+      "josh-kushner"
+    ],
+    "julian-robertson": [
+      "arash-ferdowsi",
+      "assaf-rappaport",
+      "brad-burnham",
+      "chase-coleman",
+      "chris-dixon"
+    ],
+    "karan-mohla": [
+      "eduardo-saverin",
+      "karen-page",
+      "eric-glyman",
+      "evan-williams",
+      "marc-benioff"
+    ],
+    "karen-page": [
+      "marc-benioff",
+      "roelof-botha",
+      "eduardo-saverin",
+      "mamoon-hamid",
+      "evan-williams"
+    ],
+    "katherine-boyle": [
+      "martin-casado",
+      "connie-chan",
+      "trae-stephens",
+      "sriram-krishnan",
+      "vijay-pande"
+    ],
+    "kathleen-estreich": [
+      "turner-novak",
+      "ajay-kamat",
+      "dan-portillo",
+      "howard-lindzon",
+      "jack-abraham"
+    ],
+    "katie-haun": [
+      "matt-huang",
+      "fred-ehrsam",
+      "daniel-gross",
+      "alexis-ohanian",
+      "ramtin-naimi"
+    ],
+    "katrina-lake": [
+      "magdalena-yesil",
+      "jack-dorsey",
+      "kirsten-green",
+      "connie-chan",
+      "michael-moritz"
+    ],
+    "keith-rabois": [
+      "bill-gurley",
+      "martin-mignot",
+      "chester-ng",
+      "drew-oetting",
+      "tobi-lutke"
+    ],
+    "kevin-hartz": [
+      "paul-buchheit",
+      "adam-dangelo",
+      "gokul-rajaram",
+      "stephanie-zhan",
+      "mike-maples"
+    ],
+    "kevin-harvey": [
+      "bruce-dunlevie",
+      "peter-fenton",
+      "chetan-puttagunta",
+      "eric-vishria",
+      "bryan-offutt"
+    ],
+    "kevin-systrom": [
+      "mike-krieger",
+      "roelof-botha",
+      "adam-dangelo",
+      "marc-benioff",
+      "mamoon-hamid"
+    ],
+    "khalil-fuller": [
+      "warren-shaeffer",
+      "pejman-nozad",
+      "mar-hershenson",
+      "charles-hudson",
+      "mike-maples"
+    ],
+    "kirsten-green": [
+      "andy-rachleff",
+      "jack-dorsey",
+      "magdalena-yesil",
+      "kevin-hartz",
+      "paul-buchheit"
+    ],
+    "konstantin-othmer": [
+      "itamar-novick",
+      "chris-hulls",
+      "ryan-sells",
+      "ali-rowghani",
+      "chris-sacca"
+    ],
+    "kristina-shen": [
+      "ethan-kurzweil",
+      "dalton-caldwell",
+      "nat-friedman",
+      "peter-fenton",
+      "byron-deeter"
+    ],
+    "lachy-groom": [
+      "mike-krieger",
+      "elad-gil",
+      "miles-grimshaw",
+      "kristina-shen",
+      "kevin-systrom"
+    ],
+    "lauren-kolodny": [
+      "theresia-gouw",
+      "vishal-lugani",
+      "micky-malka",
+      "evan-williams",
+      "michael-moritz"
+    ],
+    "lee-ainslie": [
+      "john-griffin",
+      "andreas-halvorsen",
+      "dan-sundheim",
+      "mala-gaonkar",
+      "stephen-mandel"
+    ],
+    "lee-fixel": [
+      "josh-kushner",
+      "chris-dixon",
+      "philippe-laffont",
+      "teddie-wardi",
+      "aydin-senkut"
+    ],
+    "lia-cromwell": [
+      "shuly-galili",
+      "gil-ben-artzy",
+      "paul-graham",
+      "elad-gil",
+      "jessica-livingston"
+    ],
+    "lo-toney": [
+      "ron-conway",
+      "steve-anderson",
+      "magdalena-yesil",
+      "michael-moritz",
+      "yuri-milner"
+    ],
+    "logan-bartlett": [
+      "pat-grady",
+      "john-curtius",
+      "teddie-wardi",
+      "nathan-urquhart",
+      "sonya-huang"
+    ],
+    "luciana-lixandru": [
+      "neil-rimer",
+      "danny-rimer",
+      "sonali-de-rycker",
+      "john-doran",
+      "alfred-lin"
+    ],
+    "magdalena-yesil": [
+      "michael-moritz",
+      "lo-toney",
+      "sonja-hoel-perkins",
+      "mamoon-hamid",
+      "steve-anderson"
+    ],
+    "mala-gaonkar": [
+      "dan-sundheim",
+      "stan-druckenmiller",
+      "john-griffin",
+      "lee-ainslie",
+      "rick-kimball"
+    ],
+    "mamoon-hamid": [
+      "roelof-botha",
+      "marc-benioff",
+      "john-doerr",
+      "aydin-senkut",
+      "talia-goldberg"
+    ],
+    "mar-hershenson": [
+      "pejman-nozad",
+      "jessica-livingston",
+      "mike-maples",
+      "aileen-lee",
+      "satya-patel"
+    ],
+    "marc-benioff": [
+      "roelof-botha",
+      "mamoon-hamid",
+      "aydin-senkut",
+      "john-doerr",
+      "kevin-systrom"
+    ],
+    "marc-lore": [
+      "jeremy-levine",
+      "chris-dixon",
+      "josh-kushner",
+      "lee-fixel",
+      "jose-marin"
+    ],
+    "marlon-nichols": [
+      "lo-toney",
+      "bill-trenchard",
+      "steve-anderson",
+      "raj-ganguly",
+      "aileen-lee"
+    ],
+    "martin-casado": [
+      "mike-vernal",
+      "erica-brescia",
+      "bryan-offutt",
+      "deedy-das",
+      "ishani-thakur"
+    ],
+    "martin-mignot": [
+      "josh-kushner",
+      "eric-glyman",
+      "rebecca-kaden",
+      "neil-rimer",
+      "keith-rabois"
+    ],
+    "mary-meeker": [
+      "yuri-milner",
+      "ron-conway",
+      "jay-hoag",
+      "roelof-botha",
+      "alfred-lin"
+    ],
+    "matt-cohler": [
+      "sarah-tavel",
+      "michael-moritz",
+      "peter-fenton",
+      "mitch-lasky",
+      "bogomil-balkansky"
+    ],
+    "matt-huang": [
+      "fred-ehrsam",
+      "dan-morehead",
+      "katie-haun",
+      "david-sacks",
+      "sriram-krishnan"
+    ],
+    "matt-murphy": [
+      "neil-mehta",
+      "deedy-das",
+      "aydin-senkut",
+      "yasmin-razavi",
+      "nat-friedman"
+    ],
+    "matthew-ocko": [
+      "zachary-bogue",
+      "david-cowan",
+      "jerry-yang",
+      "peter-hebert",
+      "bilal-zuberi"
+    ],
+    "max-levchin": [
+      "miles-grimshaw",
+      "sam-altman",
+      "david-sacks",
+      "elad-gil",
+      "zachary-bogue"
+    ],
+    "michael-moritz": [
+      "ethan-kurzweil",
+      "magdalena-yesil",
+      "steve-anderson",
+      "roelof-botha",
+      "ping-li"
+    ],
+    "micky-malka": [
+      "matt-huang",
+      "david-sacks",
+      "lauren-kolodny",
+      "fred-ehrsam",
+      "dan-morehead"
+    ],
+    "mike-krieger": [
+      "kevin-systrom",
+      "lachy-groom",
+      "miles-grimshaw",
+      "adam-dangelo",
+      "andrew-reed"
+    ],
+    "mike-maples": [
+      "jessica-livingston",
+      "paul-buchheit",
+      "phin-barnes",
+      "charles-hudson",
+      "garry-tan"
+    ],
+    "mike-novogratz": [
+      "arash-ferdowsi",
+      "fabrice-grinda",
+      "howard-morgan",
+      "jose-marin",
+      "brad-burnham"
+    ],
+    "mike-slade": [
+      "pete-higgins",
+      "nick-hanauer",
+      "rich-barton",
+      "chester-ng",
+      "bill-gurley"
+    ],
+    "mike-vernal": [
+      "martin-casado",
+      "bryan-offutt",
+      "deedy-das",
+      "ishani-thakur",
+      "sarah-guo"
+    ],
+    "mike-volpi": [
+      "bryan-offutt",
+      "sarah-guo",
+      "satish-dharmaraj",
+      "jerry-chen",
+      "mike-vernal"
+    ],
+    "miles-grimshaw": [
+      "sam-altman",
+      "mike-krieger",
+      "talia-goldberg",
+      "chetan-puttagunta",
+      "deedy-das"
+    ],
+    "mitch-lasky": [
+      "matt-cohler",
+      "sarah-tavel",
+      "ethan-kurzweil",
+      "david-cowan",
+      "peter-fenton"
+    ],
+    "nabeel-hyatt": [
+      "bijan-sabet",
+      "sriram-krishnan",
+      "matt-cohler",
+      "mike-volpi",
+      "navin-chaddha"
+    ],
+    "nat-friedman": [
+      "greg-brockman",
+      "byron-deeter",
+      "daniel-gross",
+      "kristina-shen",
+      "peter-fenton"
+    ],
+    "nathan-urquhart": [
+      "logan-bartlett",
+      "philippe-laffont",
+      "arash-ferdowsi",
+      "jaimin-rangwalla",
+      "olivier-pomel"
+    ],
+    "navin-chaddha": [
+      "jerry-chen",
+      "satish-dharmaraj",
+      "sarah-tavel",
+      "aydin-senkut",
+      "ethan-kurzweil"
+    ],
+    "neeraj-agrawal": [
+      "satish-dharmaraj",
+      "logan-bartlett",
+      "bijan-sabet",
+      "nat-friedman",
+      "shardul-shah"
+    ],
+    "neil-mehta": [
+      "yasmin-razavi",
+      "matt-murphy",
+      "tobi-lutke",
+      "nat-friedman",
+      "elad-gil"
+    ],
+    "neil-rimer": [
+      "danny-rimer",
+      "luciana-lixandru",
+      "martin-mignot",
+      "jan-hammer",
+      "nikolay-storonsky"
+    ],
+    "nick-hanauer": [
+      "pete-higgins",
+      "mike-slade",
+      "rich-barton",
+      "bill-gurley",
+      "keith-rabois"
+    ],
+    "nikolay-storonsky": [
+      "neil-rimer",
+      "roelof-botha",
+      "jan-hammer",
+      "mamoon-hamid",
+      "marc-benioff"
+    ],
+    "olivier-pomel": [
+      "arash-ferdowsi",
+      "assaf-rappaport",
+      "greg-brockman",
+      "teddie-wardi",
+      "nat-friedman"
+    ],
+    "palmer-luckey": [
+      "jack-abraham",
+      "joseph-ruscio",
+      "kathleen-estreich",
+      "turner-novak",
+      "dan-portillo"
+    ],
+    "pat-grady": [
+      "sonya-huang",
+      "andrew-reed",
+      "roelof-botha",
+      "aydin-senkut",
+      "ravi-gupta"
+    ],
+    "patrick-collison": [
+      "john-collison",
+      "jesse-robbins",
+      "sarah-guo",
+      "chetan-puttagunta",
+      "greg-brockman"
+    ],
+    "paul-buchheit": [
+      "adam-dangelo",
+      "kevin-hartz",
+      "gokul-rajaram",
+      "garry-tan",
+      "jessica-livingston"
+    ],
+    "paul-graham": [
+      "jessica-livingston",
+      "garry-tan",
+      "rahul-vohra",
+      "todd-goldberg",
+      "lia-cromwell"
+    ],
+    "paul-veradittakit": [
+      "dan-morehead",
+      "fred-ehrsam",
+      "matt-huang",
+      "sriram-krishnan",
+      "sarah-tavel"
+    ],
+    "pejman-nozad": [
+      "mar-hershenson",
+      "jessica-livingston",
+      "mike-maples",
+      "satya-patel",
+      "harris-stolzenberg"
+    ],
+    "pete-briger": [
+      "woody-marshall",
+      "yuri-milner",
+      "ravi-gupta",
+      "ron-conway",
+      "mary-meeker"
+    ],
+    "pete-flint": [
+      "james-currier",
+      "itamar-novick",
+      "mike-maples",
+      "andrew-dudum",
+      "ryan-sells"
+    ],
+    "pete-higgins": [
+      "nick-hanauer",
+      "mike-slade",
+      "rich-barton",
+      "keith-rabois",
+      "travis-kalanick"
+    ],
+    "peter-chung": [
+      "tom-dyal",
+      "albert-chiang",
+      "ram-parameswaran",
+      "brad-gerstner",
+      "mary-meeker"
+    ],
+    "peter-fenton": [
+      "jerry-chen",
+      "bryan-offutt",
+      "bogomil-balkansky",
+      "erica-brescia",
+      "nat-friedman"
+    ],
+    "peter-hebert": [
+      "josh-wolfe",
+      "bilal-zuberi",
+      "zachary-bogue",
+      "heidi-roizen",
+      "matthew-ocko"
+    ],
+    "philippe-laffont": [
+      "josh-kushner",
+      "lee-fixel",
+      "chris-dixon",
+      "jaimin-rangwalla",
+      "dan-rose"
+    ],
+    "phin-barnes": [
+      "aileen-lee",
+      "jessica-livingston",
+      "garry-tan",
+      "mike-maples",
+      "rahul-vohra"
+    ],
+    "ping-li": [
+      "bogomil-balkansky",
+      "michael-moritz",
+      "peter-fenton",
+      "ethan-kurzweil",
+      "kristina-shen"
+    ],
+    "rahul-vohra": [
+      "todd-goldberg",
+      "jessica-livingston",
+      "adam-dangelo",
+      "charles-hudson",
+      "garry-tan"
+    ],
+    "raj-ganguly": [
+      "eduardo-saverin",
+      "roelof-botha",
+      "karen-page",
+      "gabe-greenbaum",
+      "mamoon-hamid"
+    ],
+    "ram-parameswaran": [
+      "albert-chiang",
+      "brad-gerstner",
+      "yuri-milner",
+      "chase-coleman",
+      "jay-hoag"
+    ],
+    "ramtin-naimi": [
+      "adam-dangelo",
+      "dalton-caldwell",
+      "paul-buchheit",
+      "stephanie-zhan",
+      "garry-tan"
+    ],
+    "ravi-gupta": [
+      "pat-grady",
+      "andrew-reed",
+      "roelof-botha",
+      "sonya-huang",
+      "alfred-lin"
+    ],
+    "rebecca-kaden": [
+      "fred-wilson",
+      "martin-mignot",
+      "brad-burnham",
+      "eric-glyman",
+      "jose-marin"
+    ],
+    "reid-hoffman": [
+      "david-sacks",
+      "alfred-lin",
+      "ron-conway",
+      "matt-huang",
+      "paul-buchheit"
+    ],
+    "rich-barton": [
+      "bill-gurley",
+      "mike-slade",
+      "pete-higgins",
+      "keith-rabois",
+      "nick-hanauer"
+    ],
+    "rich-wong": [
+      "andrew-braccia",
+      "nat-friedman",
+      "byron-deeter",
+      "neil-mehta",
+      "jerry-chen"
+    ],
+    "rick-kimball": [
+      "tim-mcadam",
+      "shardul-shah",
+      "jeff-horing",
+      "logan-bartlett",
+      "stan-druckenmiller"
+    ],
+    "rob-citrone": [
+      "chris-shumway",
+      "david-goel",
+      "stephen-mandel",
+      "andreas-halvorsen",
+      "stan-druckenmiller"
+    ],
+    "rob-hayes": [
+      "bill-trenchard",
+      "lo-toney",
+      "steve-anderson",
+      "sam-shank",
+      "andy-rachleff"
+    ],
+    "roelof-botha": [
+      "marc-benioff",
+      "mamoon-hamid",
+      "aydin-senkut",
+      "kevin-systrom",
+      "alfred-lin"
+    ],
+    "romit-shah": [
+      "david-goel",
+      "ram-parameswaran",
+      "andrew-feldman",
+      "ilya-sutskever",
+      "stephen-mandel"
+    ],
+    "ron-conway": [
+      "lo-toney",
+      "paul-buchheit",
+      "yuri-milner",
+      "alfred-lin",
+      "elad-gil"
+    ],
+    "ryan-sells": [
+      "ali-rowghani",
+      "shravan-reddy",
+      "dylan-field",
+      "jessica-livingston",
+      "pejman-nozad"
+    ],
+    "sam-altman": [
+      "miles-grimshaw",
+      "elad-gil",
+      "david-krane",
+      "roelof-botha",
+      "talia-goldberg"
+    ],
+    "sam-shank": [
+      "lo-toney",
+      "rob-hayes",
+      "steve-anderson",
+      "jack-dorsey",
+      "erik-blachford"
+    ],
+    "sameer-gandhi": [
+      "scott-kupor",
+      "tobi-lutke",
+      "keith-rabois",
+      "andrew-braccia",
+      "neil-mehta"
+    ],
+    "sami-inkinen": [
+      "chris-fralic",
+      "ajay-kamat",
+      "josh-kopelman",
+      "chris-shumway",
+      "chester-ng"
+    ],
+    "sarah-guo": [
+      "mike-volpi",
+      "mike-vernal",
+      "martin-casado",
+      "patrick-collison",
+      "chetan-puttagunta"
+    ],
+    "sarah-tavel": [
+      "sriram-krishnan",
+      "matt-cohler",
+      "navin-chaddha",
+      "peter-fenton",
+      "kevin-systrom"
+    ],
+    "satish-dharmaraj": [
+      "mike-volpi",
+      "ishani-thakur",
+      "jerry-chen",
+      "mike-vernal",
+      "navin-chaddha"
+    ],
+    "satya-patel": [
+      "aileen-lee",
+      "jessica-livingston",
+      "garry-tan",
+      "pejman-nozad",
+      "mar-hershenson"
+    ],
+    "scott-belsky": [
+      "mike-maples",
+      "jose-marin",
+      "martin-mignot",
+      "dylan-field",
+      "jessica-livingston"
+    ],
+    "scott-kupor": [
+      "sameer-gandhi",
+      "roelof-botha",
+      "joe-lonsdale",
+      "chester-ng",
+      "drew-oetting"
+    ],
+    "scott-sandell": [
+      "theresia-gouw",
+      "aydin-senkut",
+      "shardul-shah",
+      "sonya-huang",
+      "doug-leone"
+    ],
+    "shaherose-charania": [
+      "charles-hudson",
+      "mike-maples",
+      "itamar-novick",
+      "pete-flint",
+      "rahul-vohra"
+    ],
+    "shakil-khan": [
+      "danny-rimer",
+      "paul-graham",
+      "lo-toney",
+      "luciana-lixandru",
+      "neil-rimer"
+    ],
+    "shardul-shah": [
+      "scott-sandell",
+      "teddie-wardi",
+      "mike-volpi",
+      "lee-fixel",
+      "logan-bartlett"
+    ],
+    "shaun-maguire": [
+      "josephine-chen",
+      "stephanie-zhan",
+      "alfred-lin",
+      "sarah-guo",
+      "chetan-puttagunta"
+    ],
+    "sheel-mohnot": [
+      "jake-gibson",
+      "itamar-novick",
+      "andrew-dudum",
+      "satya-patel",
+      "pete-flint"
+    ],
+    "shervin-pishevar": [
+      "sam-altman",
+      "roelof-botha",
+      "mamoon-hamid",
+      "talia-goldberg",
+      "david-sacks"
+    ],
+    "shlomo-kramer": [
+      "scott-sandell",
+      "jan-hammer",
+      "alex-ferrara",
+      "theresia-gouw",
+      "shardul-shah"
+    ],
+    "shravan-reddy": [
+      "ryan-sells",
+      "ali-rowghani",
+      "dylan-field",
+      "jessica-livingston",
+      "pejman-nozad"
+    ],
+    "shruti-gandhi": [
+      "greg-brockman",
+      "garry-tan",
+      "dalton-caldwell",
+      "jessica-livingston",
+      "ramtin-naimi"
+    ],
+    "shuly-galili": [
+      "gil-ben-artzy",
+      "lia-cromwell",
+      "itamar-novick",
+      "jessica-livingston",
+      "satya-patel"
+    ],
+    "sonali-de-rycker": [
+      "luciana-lixandru",
+      "neil-rimer",
+      "martin-mignot",
+      "shlomo-kramer",
+      "danny-rimer"
+    ],
+    "sonja-hoel-perkins": [
+      "magdalena-yesil",
+      "mamoon-hamid",
+      "alfred-lin",
+      "roelof-botha",
+      "talia-goldberg"
+    ],
+    "sonya-huang": [
+      "pat-grady",
+      "scott-sandell",
+      "ravi-gupta",
+      "andrew-reed",
+      "mike-vernal"
+    ],
+    "sriram-krishnan": [
+      "chris-dixon",
+      "sarah-tavel",
+      "fred-ehrsam",
+      "kevin-systrom",
+      "navin-chaddha"
+    ],
+    "stan-druckenmiller": [
+      "dan-sundheim",
+      "chase-coleman",
+      "mala-gaonkar",
+      "deven-parekh",
+      "jaimin-rangwalla"
+    ],
+    "stephanie-zhan": [
+      "dylan-field",
+      "adam-dangelo",
+      "kevin-hartz",
+      "paul-buchheit",
+      "ramtin-naimi"
+    ],
+    "stephen-mandel": [
+      "andreas-halvorsen",
+      "chris-shumway",
+      "john-griffin",
+      "lee-ainslie",
+      "chester-ng"
+    ],
+    "steve-anderson": [
+      "lo-toney",
+      "michael-moritz",
+      "ethan-kurzweil",
+      "magdalena-yesil",
+      "rahul-vohra"
+    ],
+    "talia-goldberg": [
+      "mamoon-hamid",
+      "byron-deeter",
+      "miles-grimshaw",
+      "roelof-botha",
+      "scott-sandell"
+    ],
+    "teddie-wardi": [
+      "shardul-shah",
+      "logan-bartlett",
+      "lee-fixel",
+      "nat-friedman",
+      "olivier-pomel"
+    ],
+    "theresia-gouw": [
+      "jennifer-fonstad",
+      "scott-sandell",
+      "lauren-kolodny",
+      "vishal-lugani",
+      "doug-leone"
+    ],
+    "tim-draper": [
+      "ramtin-naimi",
+      "stephanie-zhan",
+      "paul-buchheit",
+      "dalton-caldwell",
+      "kevin-hartz"
+    ],
+    "tim-mcadam": [
+      "woody-marshall",
+      "rick-kimball",
+      "jay-hoag",
+      "scott-sandell",
+      "dan-scheinman"
+    ],
+    "tobi-lutke": [
+      "neil-mehta",
+      "dan-portillo",
+      "joe-lonsdale",
+      "john-curtius",
+      "michael-moritz"
+    ],
+    "todd-goldberg": [
+      "rahul-vohra",
+      "jessica-livingston",
+      "adam-dangelo",
+      "charles-hudson",
+      "garry-tan"
+    ],
+    "tom-dyal": [
+      "yuri-milner",
+      "mary-meeker",
+      "jay-hoag",
+      "ram-parameswaran",
+      "brad-gerstner"
+    ],
+    "trae-stephens": [
+      "katherine-boyle",
+      "nat-friedman",
+      "david-sacks",
+      "fred-ehrsam",
+      "dan-morehead"
+    ],
+    "travis-kalanick": [
+      "pete-higgins",
+      "gabe-greenbaum",
+      "marlon-nichols",
+      "brianne-kimmel",
+      "raj-ganguly"
+    ],
+    "trevor-oelschig": [
+      "nat-friedman",
+      "bogomil-balkansky",
+      "ping-li",
+      "ethan-kurzweil",
+      "kristina-shen"
+    ],
+    "turner-novak": [
+      "josh-kopelman",
+      "jack-abraham",
+      "kathleen-estreich",
+      "dan-portillo",
+      "adam-dangelo"
+    ],
+    "victor-lazarte": [
+      "andy-rachleff",
+      "bob-kagle",
+      "chetan-puttagunta",
+      "max-levchin",
+      "kevin-hartz"
+    ],
+    "vijay-pande": [
+      "connie-chan",
+      "katherine-boyle",
+      "martin-casado",
+      "sriram-krishnan",
+      "david-singer"
+    ],
+    "vishal-lugani": [
+      "evan-williams",
+      "roelof-botha",
+      "theresia-gouw",
+      "lauren-kolodny",
+      "mamoon-hamid"
+    ],
+    "warren-shaeffer": [
+      "khalil-fuller",
+      "pejman-nozad",
+      "mar-hershenson",
+      "mike-maples",
+      "eddie-eltoukhy"
+    ],
+    "woody-marshall": [
+      "jay-hoag",
+      "tim-mcadam",
+      "yuri-milner",
+      "john-doran",
+      "mary-meeker"
+    ],
+    "yasmin-razavi": [
+      "neil-mehta",
+      "andrew-reed",
+      "elad-gil",
+      "matt-murphy",
+      "nat-friedman"
+    ],
+    "yuri-milner": [
+      "ron-conway",
+      "jay-hoag",
+      "mary-meeker",
+      "bob-kagle",
+      "lo-toney"
+    ],
+    "zachary-bogue": [
+      "matthew-ocko",
+      "peter-hebert",
+      "jerry-yang",
+      "max-levchin",
+      "sam-altman"
+    ]
+  }
+}

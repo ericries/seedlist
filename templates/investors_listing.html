@@ -1,0 +1,137 @@
+{% extends "base.html" %}
+
+{% block title %}All Investors{% endblock %}
+
+{% block content %}
+<section class="listing">
+  <h1>All Investors</h1>
+
+  <div class="filter-bar">
+    <select id="filter-stage">
+      <option value="">All Stages</option>
+      <option value="pre-seed">Pre-Seed</option>
+      <option value="seed">Seed</option>
+      <option value="series-a">Series A</option>
+      <option value="series-b">Series B</option>
+      <option value="growth">Growth</option>
+    </select>
+
+    <select id="filter-sector">
+      <option value="">All Sectors</option>
+      {% for sector in top_sectors %}
+      <option value="{{ sector }}">{{ sector }}</option>
+      {% endfor %}
+    </select>
+
+    <select id="filter-location">
+      <option value="">All Locations</option>
+      <option value="sf-bay-area">SF Bay Area</option>
+      <option value="nyc">New York</option>
+      <option value="la">Los Angeles</option>
+      <option value="boston">Boston</option>
+    </select>
+
+    <select id="filter-sort">
+      <option value="recent">Recently Active</option>
+      <option value="name-asc">Name (A-Z)</option>
+      <option value="name-desc">Name (Z-A)</option>
+    </select>
+  </div>
+
+  <div class="filter-count">Showing <span id="visible-count">{{ profiles|length }}</span> of {{ profiles|length }} investors</div>
+
+  {% if profiles %}
+  <div class="listing-grid" id="investor-grid">
+    {% for p in profiles %}
+    <a href="/investors/{{ p.slug }}.html" class="listing-card"
+       data-stages="{{ p.stage_focus|join(',') if p.stage_focus else '' }}"
+       data-sectors="{{ p.sector_focus|join(',') if p.sector_focus else '' }}"
+       data-location="{{ p.location_region }}"
+       data-last-active="{{ p.last_active }}"
+       data-name="{{ p.name }}">
+      <div class="listing-card-header">
+        <span class="listing-card-name">{{ p.name }}</span>
+        {% if p.firm %}
+          <span class="listing-card-firm">{{ p.firm }}</span>
+        {% endif %}
+      </div>
+
+      {% if p.location %}
+        <div class="listing-card-location">{{ p.location }}</div>
+      {% endif %}
+
+      {% if p.stage_focus %}
+      <div class="tags">
+        {% for stage in p.stage_focus %}
+          <span class="tag tag-stage tag-sm">{{ stage }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="empty-state">No profiles found.</p>
+  {% endif %}
+</section>
+
+<script>
+(function() {
+  var stageEl = document.getElementById('filter-stage');
+  var sectorEl = document.getElementById('filter-sector');
+  var locationEl = document.getElementById('filter-location');
+  var sortEl = document.getElementById('filter-sort');
+  var grid = document.getElementById('investor-grid');
+  var countEl = document.getElementById('visible-count');
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.listing-card'));
+
+  function applyFilters() {
+    var stage = stageEl.value;
+    var sector = sectorEl.value;
+    var location = locationEl.value;
+    var visible = 0;
+
+    cards.forEach(function(card) {
+      var stages = card.getAttribute('data-stages');
+      var sectors = card.getAttribute('data-sectors');
+      var loc = card.getAttribute('data-location');
+
+      var show = true;
+      if (stage && stages.indexOf(stage) === -1) show = false;
+      if (sector && sectors.indexOf(sector) === -1) show = false;
+      if (location && loc !== location) show = false;
+
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    countEl.textContent = visible;
+  }
+
+  function applySort() {
+    var mode = sortEl.value;
+    cards.sort(function(a, b) {
+      if (mode === 'name-asc') {
+        return a.getAttribute('data-name').localeCompare(b.getAttribute('data-name'));
+      } else if (mode === 'name-desc') {
+        return b.getAttribute('data-name').localeCompare(a.getAttribute('data-name'));
+      } else {
+        // recently active: sort by data-last-active descending, blanks last
+        var da = a.getAttribute('data-last-active') || '';
+        var db = b.getAttribute('data-last-active') || '';
+        if (!da && !db) return a.getAttribute('data-name').localeCompare(b.getAttribute('data-name'));
+        if (!da) return 1;
+        if (!db) return -1;
+        return db.localeCompare(da);
+      }
+    });
+    cards.forEach(function(card) { grid.appendChild(card); });
+  }
+
+  stageEl.addEventListener('change', applyFilters);
+  sectorEl.addEventListener('change', applyFilters);
+  locationEl.addEventListener('change', applyFilters);
+  sortEl.addEventListener('change', function() { applySort(); applyFilters(); });
+})();
+</script>
+{% endblock %}

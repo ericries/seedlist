@@ -531,6 +531,120 @@ main { flex: 1; padding: 2.5rem 0; }
   color: var(--color-muted);
 }
 
+/* ===== Investor Filters ===== */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.filter-bar select {
+  padding: 0.45rem 0.75rem;
+  font-size: 0.85rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: var(--color-bg);
+  color: var(--color-text);
+  outline: none;
+  cursor: pointer;
+  min-width: 140px;
+}
+
+.filter-bar select:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.filter-count {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 1rem;
+}
+
+/* ===== Clusters Page ===== */
+.clusters-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.cluster-card {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+}
+
+.cluster-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.cluster-tagline {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.cluster-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.cluster-size {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-accent);
+}
+
+.cluster-shared {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-bottom: 0.5rem;
+}
+
+.cluster-shared .meta-label {
+  margin-right: 0.35rem;
+}
+
+.cluster-members {
+  font-size: 0.85rem;
+  line-height: 1.8;
+}
+
+.cluster-member-link {
+  white-space: nowrap;
+}
+
+/* ===== Similar Investors (Profile Page) ===== */
+.similar-investors {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.similar-investors h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.similar-cluster-link {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 0.75rem;
+}
+
+.similar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.5rem; }
@@ -539,4 +653,6 @@ main { flex: 1; padding: 2.5rem 0; }
   .profile-meta { grid-template-columns: 1fr; }
   .listing-grid { grid-template-columns: 1fr; }
   .nav-links { gap: 1rem; }
+  .filter-bar { flex-direction: column; }
+  .filter-bar select { width: 100%; }
 }
