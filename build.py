@@ -175,6 +175,47 @@ def build_enrichment_index(investors, firms, queue_path):
     return index
 
 
+def linkify_profile_content(html, startup_lookup, investor_lookup, firm_lookup):
+    """Auto-link known entity names in table cells to their profile pages."""
+    if not html:
+        return html
+
+    # Build name->url maps for all three entity types
+    name_map = {}
+    for s in startup_lookup.values():
+        name = s.get("name", "")
+        if name and len(name) > 2:
+            name_map[name] = f"/startups/{s['slug']}.html"
+    for i in investor_lookup.values():
+        name = i.get("name", "")
+        if name and len(name) > 2:
+            name_map[name] = f"/investors/{i['slug']}.html"
+    for f in firm_lookup.values():
+        name = f.get("name", "")
+        if name and len(name) > 2:
+            name_map[name] = f"/firms/{f['slug']}.html"
+
+    # Sort by length descending to match longer names first
+    sorted_names = sorted(name_map.keys(), key=len, reverse=True)
+
+    def replace_in_td(match):
+        td_content = match.group(1)
+        # Don't double-link: skip if already contains <a
+        if '<a ' in td_content:
+            return match.group(0)
+        for name in sorted_names:
+            if name in td_content:
+                td_content = td_content.replace(
+                    name,
+                    f'<a href="{name_map[name]}">{name}</a>',
+                    1  # only first occurrence
+                )
+                break  # one link per cell
+        return f'<td>{td_content}</td>'
+
+    return re.sub(r'<td>(.*?)</td>', replace_in_td, html)
+
+
 def build():
     """Build the static site."""
     # Clean output
@@ -184,6 +225,7 @@ def build():
 
     # Set up Jinja2
     env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
+    env.filters["slugify"] = slugify
 
     # Load all profiles
     all_investors = load_profiles("investors")
@@ -206,6 +248,12 @@ def build():
     firm_lookup = {f["slug"]: f for f in firms}
     investor_lookup = {i["slug"]: i for i in investors}
     startup_lookup = {s["slug"]: s for s in startups}
+
+    # Auto-link entity names in profile body content
+    for p in investors + firms + startups:
+        p["content"] = linkify_profile_content(
+            p.get("content", ""), startup_lookup, investor_lookup, firm_lookup
+        )
 
     # Build cluster lookup for investor pages
     similar_investors_map = clusters_data.get("similar_investors", {})
@@ -333,11 +381,11 @@ def build():
     (OUTPUT_DIR / "investors" / "index.html").write_text(html)
 
     # Investor clusters / groups page
-    if clusters_list or curated_collections:
+    all_groups = curated_collections  # single unified list
+    if all_groups:
         clusters_template = env.get_template("clusters.html")
         html = clusters_template.render(
-            curated=curated_collections,
-            algo=clusters_list,
+            groups=all_groups,
             total_investors=len(investors),
         )
         (OUTPUT_DIR / "investors" / "groups.html").write_text(html)
