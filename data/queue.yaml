@@ -5830,14 +5830,14 @@ queue:
 - name: Nadir Izrael
   type: individual
   priority: high
-  status: pending
+  status: skipped
   added: '2026-03-17'
   firm: Armis
   discovered_from: yevgeny-dibrov
 - name: Rakesh Loonkar
   type: individual
   priority: high
-  status: pending
+  status: skipped
   added: '2026-03-17'
   firm: Transmit Security
   discovered_from: mickey-boodaei
@@ -5914,3 +5914,465 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: elevenlabs
+- name: Jim Breyer
+  type: individual
+  firm: Breyer Capital
+  source: 'Collection gap analysis: OGs — led Accel''s Facebook investment, managing
+    partner since 1995'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Naval Ravikant
+  type: individual
+  firm: AngelList
+  source: 'Collection gap analysis: Original Super Angels — co-founded AngelList,
+    early Uber/Twitter angel'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Ann Miura-Ko
+  type: individual
+  firm: Floodgate
+  source: 'Collection gap analysis: Original Super Angels — Floodgate co-founder,
+    early Lyft/TaskRabbit'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: David Lee
+  type: individual
+  firm: Refactor Capital
+  source: 'Collection gap analysis: Original Super Angels — co-ran SV Angel with Ron
+    Conway'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Michael Dearing
+  type: individual
+  firm: Harrison Metal
+  source: 'Collection gap analysis: Original Super Angels — former eBay SVP, backed
+    AdMob'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Marc Andreessen
+  type: individual
+  firm: Andreessen Horowitz
+  source: 'Collection gap analysis: OGs/Super Angels — co-founded Netscape, co-founded
+    a16z'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Ben Horowitz
+  type: individual
+  firm: Andreessen Horowitz
+  source: 'Collection gap analysis: Super Angels — co-founded Opsware, co-founded
+    a16z'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Ram Shriram
+  type: individual
+  firm: Sherpalo Ventures
+  source: 'Collection gap analysis: OGs — early Netscape exec, Google founding investor
+    ($250K in 1998)'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Ann Winblad
+  type: individual
+  firm: Hummer Winblad
+  source: 'Collection gap analysis: OGs — first enterprise-software-focused VC (1989)'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Mitch Kapor
+  type: individual
+  firm: Kapor Capital
+  source: 'Collection gap analysis: OGs — founded Lotus, angel since 1986, early UUNET
+    investor'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Roger McNamee
+  type: individual
+  firm: Elevation Partners
+  source: 'Collection gap analysis: OGs — Integral Capital Partners 1991, Silver Lake
+    1999'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Esther Dyson
+  type: individual
+  firm: EDventure Holdings
+  source: 'Collection gap analysis: OGs — angel since 1980s, Flickr/Del.icio.us, ICANN
+    chair'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Thomas Tull
+  type: individual
+  firm: US Innovative Technology Fund
+  source: 'Collection gap analysis: Hard Tech — $5B defense-tech fund, Shield AI investor'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Nigel Morris
+  type: individual
+  firm: QED Investors
+  source: 'Collection gap analysis: Regulators — co-founded Capital One then QED,
+    31 fintech unicorns'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Julie Yoo
+  type: individual
+  firm: Andreessen Horowitz
+  source: 'Collection gap analysis: Regulators — a16z healthcare GP, fintech-healthcare
+    intersection'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Bob Kocher
+  type: individual
+  firm: Venrock
+  source: 'Collection gap analysis: Regulators/Biotech — MD turned VC, helped write
+    the ACA'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Carmichael Roberts
+  type: individual
+  firm: Breakthrough Energy Ventures
+  source: 'Collection gap analysis: Climate — co-leads Bill Gates''s $2B+ BEV'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Matt Rogers
+  type: individual
+  firm: Incite Ventures
+  source: 'Collection gap analysis: Climate — Nest co-founder, now climate-focused
+    investor'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Shayle Kann
+  type: individual
+  firm: Energy Impact Partners
+  source: 'Collection gap analysis: Climate — deep decarbonization investor, Catalyst
+    podcast host'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Mike Schroepfer
+  type: individual
+  firm: Gigascale Capital
+  source: 'Collection gap analysis: Climate/Hard Tech — former Facebook CTO, climate
+    hard-tech'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Jaan Tallinn
+  type: individual
+  firm: Independent
+  source: 'Collection gap analysis: AI — Skype co-founder, led Anthropic Series A,
+    early DeepMind investor'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Balaji Srinivasan
+  type: individual
+  firm: Independent
+  source: 'Collection gap analysis: Crypto — former Coinbase CTO, former a16z GP,
+    42 web3 investments'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Olaf Carlson-Wee
+  type: individual
+  firm: Polychain Capital
+  source: 'Collection gap analysis: Crypto — first Coinbase employee, $4B+ crypto
+    fund'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Kyle Samani
+  type: individual
+  firm: Multicoin Capital
+  source: 'Collection gap analysis: Crypto — early Solana backer, ultra-high-conviction
+    crypto'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Wences Casares
+  type: individual
+  firm: Xapo
+  source: 'Collection gap analysis: Crypto — patient zero of Bitcoin in Silicon Valley'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Bob Nelsen
+  type: individual
+  firm: ARCH Venture Partners
+  source: 'Collection gap analysis: Biotech — created 150+ biotech cos, 38 unicorns,
+    Illumina/GRAIL'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Noubar Afeyan
+  type: individual
+  firm: Flagship Pioneering
+  source: 'Collection gap analysis: Biotech — co-founded Moderna, launched 118 companies'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Jorge Conde
+  type: individual
+  firm: Andreessen Horowitz
+  source: 'Collection gap analysis: Biotech — a16z Bio GP, $750M Bio Fund III'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Alexis Borisy
+  type: individual
+  firm: Curie.Bio
+  source: 'Collection gap analysis: Biotech — co-founded Foundation Medicine, 15+
+    biotechs'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Krishna Yeshwant
+  type: individual
+  firm: GV
+  source: 'Collection gap analysis: Biotech — GV life sciences head, Editas/23andMe/GRAIL'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Bruce Booth
+  type: individual
+  firm: Atlas Venture
+  source: 'Collection gap analysis: Biotech — seed-stage biotech specialist, LifeSciVC
+    blog'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Simon Rothman
+  type: individual
+  firm: Greylock
+  source: 'Collection gap analysis: Marketplace Playbook — built eBay Motors, marketplace
+    specialist'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Andrew Chen
+  type: individual
+  firm: Andreessen Horowitz
+  source: 'Collection gap analysis: Consumer/Marketplace — Uber growth lead, wrote
+    The Cold Start Problem'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Marc Stad
+  type: individual
+  firm: Dragoneer
+  source: 'Collection gap analysis: Hedge Fund Crossovers — $23B fund, Airbnb/Uber/Slack/Spotify/DoorDash'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Henry Ellenbogen
+  type: individual
+  firm: Durable Capital Partners
+  source: 'Collection gap analysis: Hedge Fund Crossovers — $13B, Shopify/DoorDash/Duolingo'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Jeremy Liew
+  type: individual
+  firm: Lightspeed
+  source: 'Collection gap analysis: Consumer Whisperers — first Snapchat investor
+    (250x), Affirm'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Frank Rotman
+  type: individual
+  firm: QED Investors
+  source: 'Collection gap analysis: Fintech Mafia — Credit Karma ($7.1B exit), SoFi,
+    GreenSky'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Chamath Palihapitiya
+  type: individual
+  firm: Social Capital
+  source: 'Collection gap analysis: Consumer — Slack/Box/SurveyMonkey, former Facebook
+    VP Growth'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Erel Margalit
+  type: individual
+  firm: Jerusalem Venture Partners
+  source: 'Collection gap analysis: Israel Connection — founded JVP in 1993, 120+
+    companies'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Eden Shochat
+  type: individual
+  firm: Aleph
+  source: 'Collection gap analysis: Israel Connection — co-founded Aleph, Monday.com/Lemonade'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Michael Eisenberg
+  type: individual
+  firm: Aleph
+  source: 'Collection gap analysis: Israel Connection — co-founded Aleph, former Benchmark
+    Israel'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Dov Moran
+  type: individual
+  firm: Grove Ventures
+  source: 'Collection gap analysis: Israel Connection — invented USB flash drive,
+    deep-tech VC'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Yossi Vardi
+  type: individual
+  firm: Independent
+  source: 'Collection gap analysis: Israel Connection — dean of Israeli tech, launched
+    ICQ'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Niklas Zennstrom
+  type: individual
+  firm: Atomico
+  source: 'Collection gap analysis: European Vanguard — co-founded Skype, $1.2B+ Atomico
+    funds'
+  discovered_from: cluster-gap-analysis
+  priority: high
+  status: pending
+  added: '2026-03-23'
+- name: Sophia Bendz
+  type: individual
+  firm: Cherry Ventures
+  source: 'Collection gap analysis: European Vanguard — former Spotify marketing,
+    top EU seed investor'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Taavet Hinrikus
+  type: individual
+  firm: Independent
+  source: 'Collection gap analysis: European Vanguard — Wise co-founder, prolific
+    EU angel'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Ken Howery
+  type: individual
+  firm: Founders Fund
+  source: 'Collection gap analysis: PayPal Mafia — PayPal CFO, Founders Fund co-founder'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Luke Nosek
+  type: individual
+  firm: Gigafund
+  source: 'Collection gap analysis: PayPal Mafia — PayPal co-founder, Founders Fund
+    partner'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Michael Seibel
+  type: individual
+  firm: Y Combinator
+  source: 'Collection gap analysis: YC Network — led YC 2016-2024, co-founded Twitch'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Jared Friedman
+  type: individual
+  firm: Y Combinator
+  source: 'Collection gap analysis: YC Network — current YC managing partner'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
+- name: Geoff Ralston
+  type: individual
+  firm: Y Combinator
+  source: 'Collection gap analysis: YC Network — former YC president, founded LaunchPad'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Aaron Harris
+  type: individual
+  firm: Y Combinator
+  source: 'Collection gap analysis: YC Network — YC partner, co-founded Tutorspree'
+  discovered_from: cluster-gap-analysis
+  priority: low
+  status: pending
+  added: '2026-03-23'
+- name: Tony Fadell
+  type: individual
+  firm: Future Shape
+  source: 'Collection gap analysis: Founders-turned-VCs — invented iPod, co-founded
+    Nest, now investor'
+  discovered_from: cluster-gap-analysis
+  priority: normal
+  status: pending
+  added: '2026-03-23'
