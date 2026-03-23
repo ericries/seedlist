@@ -253,6 +253,8 @@ main { flex: 1; padding: 2.5rem 0; }
 
 .tag-stage { background: var(--color-stage-bg); color: var(--color-stage); }
 .tag-sector { background: var(--color-sector-bg); color: var(--color-sector); }
+a.tag { text-decoration: none; }
+a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
 
 /* ===== Profile Body (rendered markdown) ===== */
 .profile-body {
