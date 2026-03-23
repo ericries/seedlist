@@ -111,6 +111,13 @@
     {% if investor_cluster %}
     <p class="similar-cluster-link">Part of <a href="/investors/groups.html#cluster-{{ investor_cluster.id }}">{{ investor_cluster.name }}</a></p>
     {% endif %}
+    {% if investor_collections %}
+    <div class="investor-collections">
+      {% for col in investor_collections %}
+        <a href="/investors/groups.html#{{ col.id }}" class="collection-badge">{{ col.name }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
     <div class="similar-grid">
       {% for inv in similar_investors %}
       <a href="/investors/{{ inv.slug }}.html" class="listing-card">

@@ -1871,7 +1871,6 @@
       "id": "curated-0",
       "name": "The OGs",
       "tagline": "Investing since before the dot-com bubble burst. They've seen every cycle and are still writing checks.",
-      "icon": "crown",
       "type": "curated",
       "size": 22,
       "members": [
@@ -1991,7 +1990,6 @@
       "id": "curated-1",
       "name": "The Original Super Angels",
       "tagline": "The 2005-2012 wave that proved individual investors could compete with big firms. They invented the angel-at-scale model.",
-      "icon": "sparkles",
       "type": "curated",
       "size": 18,
       "members": [
@@ -2091,7 +2089,6 @@
       "id": "curated-2",
       "name": "The New Generation",
       "tagline": "Started investing in 2018 or later. The next wave of venture, shaped by crypto winters, AI summers, and a pandemic.",
-      "icon": "rocket",
       "type": "curated",
       "size": 26,
       "members": [
@@ -2231,9 +2228,8 @@
       "id": "curated-3",
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
-      "icon": "gear",
       "type": "curated",
-      "size": 16,
+      "size": 17,
       "members": [
         {
           "slug": "angela-tran",
@@ -2306,6 +2302,11 @@
           "firm": "lux-capital"
         },
         {
+          "slug": "philippe-laffont",
+          "name": "Philippe Laffont",
+          "firm": "coatue-management"
+        },
+        {
           "slug": "shaun-maguire",
           "name": "Shaun Maguire",
           "firm": "sequoia-capital"
@@ -2320,10 +2321,9 @@
     {
       "id": "curated-4",
       "name": "Not Afraid of Regulators",
-      "tagline": "They invest where others fear to tread: fintech, healthcare, crypto, insurance, and real estate. Regulatory complexity is a moat, not a bug.",
-      "icon": "shield",
+      "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 9,
+      "size": 8,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -2334,11 +2334,6 @@
           "slug": "gigi-levy-weiss",
           "name": "Gigi Levy-Weiss",
           "firm": "nfx"
-        },
-        {
-          "slug": "jack-abraham",
-          "name": "Jack Abraham",
-          "firm": "atomic"
         },
         {
           "slug": "josephine-chen",
@@ -2375,19 +2370,28 @@
     {
       "id": "curated-5",
       "name": "The AI True Believers",
-      "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Portfolio includes the companies building the foundation models and the apps on top.",
-      "icon": "brain",
+      "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 33,
+      "size": 16,
       "members": [
         {
-          "slug": "lee-fixel",
-          "name": "Lee Fixel",
-          "firm": "addition"
+          "slug": "byron-deeter",
+          "name": "Byron Deeter",
+          "firm": "bessemer-venture-partners"
         },
         {
-          "slug": "tobi-lutke",
-          "name": "Tobi Lutke",
+          "slug": "chase-coleman",
+          "name": "Chase Coleman III",
+          "firm": "tiger-global"
+        },
+        {
+          "slug": "dan-sundheim",
+          "name": "Dan Sundheim",
+          "firm": "d1-capital-partners"
+        },
+        {
+          "slug": "elad-gil",
+          "name": "Elad Gil",
           "firm": "independent"
         },
         {
@@ -2396,39 +2400,9 @@
           "firm": "cedar-capital-group"
         },
         {
-          "slug": "elad-gil",
-          "name": "Elad Gil",
-          "firm": "independent"
-        },
-        {
-          "slug": "mike-volpi",
-          "name": "Mike Volpi",
-          "firm": "index-ventures"
-        },
-        {
-          "slug": "sameer-gandhi",
-          "name": "Sameer Gandhi",
-          "firm": "accel"
-        },
-        {
-          "slug": "matthew-ocko",
-          "name": "Matthew Ocko",
-          "firm": "dcvc"
-        },
-        {
-          "slug": "ron-conway",
-          "name": "Ron Conway",
-          "firm": "sv-angel"
-        },
-        {
-          "slug": "sonya-huang",
-          "name": "Sonya Huang",
-          "firm": "sequoia-capital"
-        },
-        {
-          "slug": "dan-sundheim",
-          "name": "Dan Sundheim",
-          "firm": "d1-capital-partners"
+          "slug": "josh-kushner",
+          "name": "Joshua Kushner",
+          "firm": "thrive-capital"
         },
         {
           "slug": "josh-wolfe",
@@ -2436,84 +2410,9 @@
           "firm": "lux-capital"
         },
         {
-          "slug": "patrick-collison",
-          "name": "Patrick Collison",
-          "firm": "stripe"
-        },
-        {
-          "slug": "neil-mehta",
-          "name": "Neil Mehta",
-          "firm": "greenoaks"
-        },
-        {
-          "slug": "yasmin-razavi",
-          "name": "Yasmin Razavi",
-          "firm": "spark-capital"
-        },
-        {
-          "slug": "daniel-gross",
-          "name": "Daniel Gross",
-          "firm": "nfdg"
-        },
-        {
-          "slug": "paul-buchheit",
-          "name": "Paul Buchheit",
-          "firm": "standard-capital"
-        },
-        {
-          "slug": "jessica-livingston",
-          "name": "Jessica Livingston",
-          "firm": "y-combinator"
-        },
-        {
-          "slug": "talia-goldberg",
-          "name": "Talia Goldberg",
-          "firm": "bessemer-venture-partners"
-        },
-        {
-          "slug": "josh-kushner",
-          "name": "Joshua Kushner",
-          "firm": "thrive-capital"
-        },
-        {
-          "slug": "greg-brockman",
-          "name": "Greg Brockman",
-          "firm": "independent"
-        },
-        {
-          "slug": "alfred-lin",
-          "name": "Alfred Lin",
-          "firm": "sequoia-capital"
-        },
-        {
-          "slug": "matt-murphy",
-          "name": "Matt Murphy",
-          "firm": "menlo-ventures"
-        },
-        {
-          "slug": "deedy-das",
-          "name": "Deedy Das",
-          "firm": "menlo-ventures"
-        },
-        {
-          "slug": "pat-grady",
-          "name": "Pat Grady",
-          "firm": "sequoia-capital"
-        },
-        {
-          "slug": "miles-grimshaw",
-          "name": "Miles Grimshaw",
-          "firm": "thrive-capital"
-        },
-        {
-          "slug": "arash-ferdowsi",
-          "name": "Arash Ferdowsi",
-          "firm": "pear-vc"
-        },
-        {
-          "slug": "philippe-laffont",
-          "name": "Philippe Laffont",
-          "firm": "coatue-management"
+          "slug": "lee-fixel",
+          "name": "Lee Fixel",
+          "firm": "addition"
         },
         {
           "slug": "nat-friedman",
@@ -2521,37 +2420,46 @@
           "firm": "nfdg"
         },
         {
-          "slug": "byron-deeter",
-          "name": "Byron Deeter",
-          "firm": "bessemer-venture-partners"
+          "slug": "neil-mehta",
+          "name": "Neil Mehta",
+          "firm": "greenoaks"
         },
         {
-          "slug": "olivier-pomel",
-          "name": "Olivier Pomel",
-          "firm": "datadog"
+          "slug": "pat-grady",
+          "name": "Pat Grady",
+          "firm": "sequoia-capital"
         },
         {
-          "slug": "garry-tan",
-          "name": "Garry Tan",
-          "firm": "y-combinator"
+          "slug": "paul-buchheit",
+          "name": "Paul Buchheit",
+          "firm": "standard-capital"
         },
         {
-          "slug": "chase-coleman",
-          "name": "Chase Coleman III",
-          "firm": "tiger-global"
+          "slug": "philippe-laffont",
+          "name": "Philippe Laffont",
+          "firm": "coatue-management"
         },
         {
-          "slug": "lachy-groom",
-          "name": "Lachy Groom",
-          "firm": "independent"
+          "slug": "ron-conway",
+          "name": "Ron Conway",
+          "firm": "sv-angel"
+        },
+        {
+          "slug": "sameer-gandhi",
+          "name": "Sameer Gandhi",
+          "firm": "accel"
+        },
+        {
+          "slug": "sonya-huang",
+          "name": "Sonya Huang",
+          "firm": "sequoia-capital"
         }
       ]
     },
     {
       "id": "curated-6",
       "name": "Crypto Conviction",
-      "tagline": "HODLing through every winter. These investors kept backing blockchain, DeFi, and crypto infrastructure when everyone else ran.",
-      "icon": "chain",
+      "tagline": "HODLing through every winter. They kept backing blockchain and crypto infrastructure when everyone else ran.",
       "type": "curated",
       "size": 14,
       "members": [
@@ -2629,161 +2537,15 @@
     },
     {
       "id": "curated-7",
-      "name": "The Operator-Angels",
-      "tagline": "Still running companies (or recently did) while writing angel checks. They bring operator empathy no full-time VC can match.",
-      "icon": "tools",
+      "name": "The Solo GPs",
+      "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
       "type": "curated",
-      "size": 148,
+      "size": 13,
       "members": [
-        {
-          "slug": "adam-dangelo",
-          "name": "Adam D'Angelo",
-          "firm": "quora"
-        },
-        {
-          "slug": "aileen-lee",
-          "name": "Aileen Lee",
-          "firm": "cowboy-ventures"
-        },
-        {
-          "slug": "alexis-ohanian",
-          "name": "Alexis Ohanian",
-          "firm": "seven-seven-six"
-        },
-        {
-          "slug": "ali-rowghani",
-          "name": "Ali Rowghani",
-          "firm": "first-harmonic"
-        },
-        {
-          "slug": "andreas-halvorsen",
-          "name": "Andreas Halvorsen",
-          "firm": "viking-global-investors"
-        },
-        {
-          "slug": "andrew-dudum",
-          "name": "Andrew Dudum",
-          "firm": "atomic"
-        },
-        {
-          "slug": "andy-rachleff",
-          "name": "Andy Rachleff",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "anu-hariharan",
-          "name": "Anu Hariharan",
-          "firm": "avra"
-        },
-        {
-          "slug": "assaf-rappaport",
-          "name": "Assaf Rappaport",
-          "firm": "wiz"
-        },
-        {
-          "slug": "aydin-senkut",
-          "name": "Aydin Senkut",
-          "firm": "felicis"
-        },
-        {
-          "slug": "bennett-siegel",
-          "name": "Bennett Siegel",
-          "firm": "a-star-capital"
-        },
-        {
-          "slug": "bijan-sabet",
-          "name": "Bijan Sabet",
-          "firm": "spark-capital"
-        },
-        {
-          "slug": "bill-gross",
-          "name": "Bill Gross",
-          "firm": "idealab"
-        },
-        {
-          "slug": "boris-wertz",
-          "name": "Boris Wertz",
-          "firm": "version-one-ventures"
-        },
-        {
-          "slug": "brad-burnham",
-          "name": "Brad Burnham",
-          "firm": "union-square-ventures"
-        },
-        {
-          "slug": "brad-gerstner",
-          "name": "Brad Gerstner",
-          "firm": "altimeter-capital"
-        },
-        {
-          "slug": "brendan-wallace",
-          "name": "Brendan Wallace",
-          "firm": "fifth-wall"
-        },
-        {
-          "slug": "bret-taylor",
-          "name": "Bret Taylor",
-          "firm": "sierra-ai"
-        },
-        {
-          "slug": "brianne-kimmel",
-          "name": "Brianne Kimmel",
-          "firm": "worklife-ventures"
-        },
-        {
-          "slug": "charles-hudson",
-          "name": "Charles Hudson",
-          "firm": "precursor-ventures"
-        },
-        {
-          "slug": "chase-coleman",
-          "name": "Chase Coleman III",
-          "firm": "tiger-global"
-        },
-        {
-          "slug": "chris-dixon",
-          "name": "Chris Dixon",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "chris-sacca",
-          "name": "Chris Sacca",
-          "firm": "lowercase-capital"
-        },
-        {
-          "slug": "chris-shumway",
-          "name": "Chris Shumway",
-          "firm": "shumway-capital"
-        },
-        {
-          "slug": "dan-morehead",
-          "name": "Dan Morehead",
-          "firm": "pantera-capital"
-        },
-        {
-          "slug": "dan-portillo",
-          "name": "Dan Portillo",
-          "firm": "the-general-partnership"
-        },
         {
           "slug": "dan-scheinman",
           "name": "Dan Scheinman",
           "firm": "independent"
-        },
-        {
-          "slug": "dan-sundheim",
-          "name": "Dan Sundheim",
-          "firm": "d1-capital-partners"
-        },
-        {
-          "slug": "daniel-ek",
-          "name": "Daniel Ek",
-          "firm": "prima-materia"
-        },
-        {
-          "slug": "daniel-gross",
-          "name": "Daniel Gross",
-          "firm": "nfdg"
         },
         {
           "slug": "david-cancel",
@@ -2791,44 +2553,9 @@
           "firm": ""
         },
         {
-          "slug": "david-goel",
-          "name": "David Goel",
-          "firm": "matrix-capital-management"
-        },
-        {
-          "slug": "david-krane",
-          "name": "David Krane",
-          "firm": "gv"
-        },
-        {
-          "slug": "david-sacks",
-          "name": "David Sacks",
-          "firm": "craft-ventures"
-        },
-        {
-          "slug": "drew-oetting",
-          "name": "Drew Oetting",
-          "firm": "8vc"
-        },
-        {
-          "slug": "dylan-field",
-          "name": "Dylan Field",
-          "firm": "figma"
-        },
-        {
-          "slug": "eduardo-saverin",
-          "name": "Eduardo Saverin",
-          "firm": "b-capital-group"
-        },
-        {
           "slug": "elad-gil",
           "name": "Elad Gil",
           "firm": "independent"
-        },
-        {
-          "slug": "eric-glyman",
-          "name": "Eric Glyman",
-          "firm": "ramp"
         },
         {
           "slug": "erik-blachford",
@@ -2836,69 +2563,9 @@
           "firm": "independent"
         },
         {
-          "slug": "ethan-kurzweil",
-          "name": "Ethan Kurzweil",
-          "firm": "chemistry-vc"
-        },
-        {
-          "slug": "evan-williams",
-          "name": "Evan Williams",
-          "firm": "obvious-ventures"
-        },
-        {
-          "slug": "fabrice-grinda",
-          "name": "Fabrice Grinda",
-          "firm": "fj-labs"
-        },
-        {
-          "slug": "fred-ehrsam",
-          "name": "Fred Ehrsam",
-          "firm": "paradigm"
-        },
-        {
-          "slug": "garrett-camp",
-          "name": "Garrett Camp",
-          "firm": "expa"
-        },
-        {
-          "slug": "garry-tan",
-          "name": "Garry Tan",
-          "firm": "y-combinator"
-        },
-        {
-          "slug": "gautam-gupta",
-          "name": "Gautam Gupta",
-          "firm": "a-star-capital"
-        },
-        {
-          "slug": "gigi-levy-weiss",
-          "name": "Gigi Levy-Weiss",
-          "firm": "nfx"
-        },
-        {
-          "slug": "gili-raanan",
-          "name": "Gili Raanan",
-          "firm": "cyberstarts"
-        },
-        {
-          "slug": "girish-mathrubootham",
-          "name": "Girish Mathrubootham",
-          "firm": "together-fund"
-        },
-        {
           "slug": "greg-brockman",
           "name": "Greg Brockman",
           "firm": "independent"
-        },
-        {
-          "slug": "howard-lindzon",
-          "name": "Howard Lindzon",
-          "firm": "social-leverage"
-        },
-        {
-          "slug": "howard-morgan",
-          "name": "Howard Morgan",
-          "firm": "first-round-capital"
         },
         {
           "slug": "hugh-crean",
@@ -2906,49 +2573,9 @@
           "firm": null
         },
         {
-          "slug": "itamar-novick",
-          "name": "Itamar Novick",
-          "firm": "recursive-ventures"
-        },
-        {
-          "slug": "jack-abraham",
-          "name": "Jack Abraham",
-          "firm": "atomic"
-        },
-        {
           "slug": "jack-dorsey",
           "name": "Jack Dorsey",
           "firm": "independent"
-        },
-        {
-          "slug": "james-currier",
-          "name": "James Currier",
-          "firm": "nfx"
-        },
-        {
-          "slug": "jay-hoag",
-          "name": "Jay Hoag",
-          "firm": "tcv"
-        },
-        {
-          "slug": "jeff-horing",
-          "name": "Jeff Horing",
-          "firm": "insight-partners"
-        },
-        {
-          "slug": "jennifer-fonstad",
-          "name": "Jennifer Fonstad",
-          "firm": "owl-capital"
-        },
-        {
-          "slug": "jessica-livingston",
-          "name": "Jessica Livingston",
-          "firm": "y-combinator"
-        },
-        {
-          "slug": "joe-lonsdale",
-          "name": "Joe Lonsdale",
-          "firm": "8vc"
         },
         {
           "slug": "john-collison",
@@ -2956,64 +2583,9 @@
           "firm": null
         },
         {
-          "slug": "john-curtius",
-          "name": "John Curtius",
-          "firm": "cedar-capital-group"
-        },
-        {
-          "slug": "john-griffin",
-          "name": "John Griffin",
-          "firm": "blue-ridge-capital"
-        },
-        {
-          "slug": "jose-marin",
-          "name": "Jos\u00e9 Mar\u00edn",
-          "firm": "fj-labs"
-        },
-        {
-          "slug": "josh-buckley",
-          "name": "Josh Buckley",
-          "firm": "buckley-ventures"
-        },
-        {
-          "slug": "josh-kushner",
-          "name": "Joshua Kushner",
-          "firm": "thrive-capital"
-        },
-        {
-          "slug": "josh-wolfe",
-          "name": "Josh Wolfe",
-          "firm": "lux-capital"
-        },
-        {
-          "slug": "julian-robertson",
-          "name": "Julian Robertson",
-          "firm": "tiger-management"
-        },
-        {
-          "slug": "karim-atiyeh",
-          "name": "Karim Atiyeh",
-          "firm": "ramp"
-        },
-        {
-          "slug": "katie-haun",
-          "name": "Katie Haun",
-          "firm": "haun-ventures"
-        },
-        {
           "slug": "katrina-lake",
           "name": "Katrina Lake",
           "firm": null
-        },
-        {
-          "slug": "kevin-hartz",
-          "name": "Kevin Hartz",
-          "firm": "a-star-capital"
-        },
-        {
-          "slug": "kevin-harvey",
-          "name": "Kevin Harvey",
-          "firm": "benchmark"
         },
         {
           "slug": "kevin-systrom",
@@ -3021,229 +2593,9 @@
           "firm": "independent"
         },
         {
-          "slug": "kirsten-green",
-          "name": "Kirsten Green",
-          "firm": "forerunner-ventures"
-        },
-        {
-          "slug": "kristina-shen",
-          "name": "Kristina Shen",
-          "firm": "chemistry-vc"
-        },
-        {
           "slug": "lachy-groom",
           "name": "Lachy Groom",
           "firm": "independent"
-        },
-        {
-          "slug": "lauren-kolodny",
-          "name": "Lauren Kolodny",
-          "firm": "acrew-capital"
-        },
-        {
-          "slug": "lee-ainslie",
-          "name": "Lee Ainslie",
-          "firm": "maverick-capital"
-        },
-        {
-          "slug": "lee-fixel",
-          "name": "Lee Fixel",
-          "firm": "addition"
-        },
-        {
-          "slug": "magdalena-yesil",
-          "name": "Magdalena Yesil",
-          "firm": "broadway-angels"
-        },
-        {
-          "slug": "mala-gaonkar",
-          "name": "Mala Gaonkar",
-          "firm": "surgocap-partners"
-        },
-        {
-          "slug": "marc-benioff",
-          "name": "Marc Benioff",
-          "firm": "time-ventures"
-        },
-        {
-          "slug": "marc-lore",
-          "name": "Marc Lore",
-          "firm": "vcp-ventures"
-        },
-        {
-          "slug": "marlon-nichols",
-          "name": "Marlon Nichols",
-          "firm": "mac-venture-capital"
-        },
-        {
-          "slug": "mary-meeker",
-          "name": "Mary Meeker",
-          "firm": "bond"
-        },
-        {
-          "slug": "matt-huang",
-          "name": "Matt Huang",
-          "firm": "paradigm"
-        },
-        {
-          "slug": "matthew-ocko",
-          "name": "Matthew Ocko",
-          "firm": "dcvc"
-        },
-        {
-          "slug": "max-levchin",
-          "name": "Max Levchin",
-          "firm": "scifi-vc"
-        },
-        {
-          "slug": "michael-shaulov",
-          "name": "Michael Shaulov",
-          "firm": "cyberstarts"
-        },
-        {
-          "slug": "mickey-boodaei",
-          "name": "Mickey Boodaei",
-          "firm": "transmit-security"
-        },
-        {
-          "slug": "micky-malka",
-          "name": "Micky Malka",
-          "firm": "ribbit-capital"
-        },
-        {
-          "slug": "mike-fey",
-          "name": "Mike Fey",
-          "firm": "island"
-        },
-        {
-          "slug": "mike-maples",
-          "name": "Mike Maples Jr.",
-          "firm": "floodgate"
-        },
-        {
-          "slug": "mike-novogratz",
-          "name": "Mike Novogratz",
-          "firm": "galaxy-digital"
-        },
-        {
-          "slug": "mike-slade",
-          "name": "Mike Slade",
-          "firm": "second-avenue-partners"
-        },
-        {
-          "slug": "nat-friedman",
-          "name": "Nat Friedman",
-          "firm": "nfdg"
-        },
-        {
-          "slug": "neil-mehta",
-          "name": "Neil Mehta",
-          "firm": "greenoaks"
-        },
-        {
-          "slug": "neil-rimer",
-          "name": "Neil Rimer",
-          "firm": "index-ventures"
-        },
-        {
-          "slug": "nick-hanauer",
-          "name": "Nick Hanauer",
-          "firm": "second-avenue-partners"
-        },
-        {
-          "slug": "nikolay-storonsky",
-          "name": "Nikolay Storonsky",
-          "firm": "quantumlight"
-        },
-        {
-          "slug": "nir-zuk",
-          "name": "Nir Zuk",
-          "firm": "palo-alto-networks"
-        },
-        {
-          "slug": "olivier-pomel",
-          "name": "Olivier Pomel",
-          "firm": "datadog"
-        },
-        {
-          "slug": "palmer-luckey",
-          "name": "Palmer Luckey",
-          "firm": "anduril-industries"
-        },
-        {
-          "slug": "patrick-collison",
-          "name": "Patrick Collison",
-          "firm": "stripe"
-        },
-        {
-          "slug": "paul-buchheit",
-          "name": "Paul Buchheit",
-          "firm": "standard-capital"
-        },
-        {
-          "slug": "paul-graham",
-          "name": "Paul Graham",
-          "firm": "y-combinator"
-        },
-        {
-          "slug": "pejman-nozad",
-          "name": "Pejman Nozad",
-          "firm": "pear-vc"
-        },
-        {
-          "slug": "pete-flint",
-          "name": "Pete Flint",
-          "firm": "nfx"
-        },
-        {
-          "slug": "peter-chung",
-          "name": "Peter Chung",
-          "firm": "summit-partners"
-        },
-        {
-          "slug": "peter-hebert",
-          "name": "Peter H\u00e9bert",
-          "firm": "lux-capital"
-        },
-        {
-          "slug": "philippe-laffont",
-          "name": "Philippe Laffont",
-          "firm": "coatue-management"
-        },
-        {
-          "slug": "phin-barnes",
-          "name": "Phin Barnes",
-          "firm": "the-general-partnership"
-        },
-        {
-          "slug": "rahul-vohra",
-          "name": "Rahul Vohra",
-          "firm": "todd-and-rahul-capital"
-        },
-        {
-          "slug": "raj-ganguly",
-          "name": "Raj Ganguly",
-          "firm": "b-capital-group"
-        },
-        {
-          "slug": "ram-parameswaran",
-          "name": "Ram Parameswaran",
-          "firm": "octahedron-capital"
-        },
-        {
-          "slug": "ramtin-naimi",
-          "name": "Ramtin Naimi",
-          "firm": "abstract-ventures"
-        },
-        {
-          "slug": "rob-citrone",
-          "name": "Rob Citrone",
-          "firm": "discovery-capital-management"
-        },
-        {
-          "slug": "ron-conway",
-          "name": "Ron Conway",
-          "firm": "sv-angel"
         },
         {
           "slug": "sam-altman",
@@ -3254,261 +2606,15 @@
           "slug": "sam-shank",
           "name": "Sam Shank",
           "firm": "independent"
-        },
-        {
-          "slug": "sami-inkinen",
-          "name": "Sami Inkinen",
-          "firm": "obvious-ventures"
-        },
-        {
-          "slug": "sarah-guo",
-          "name": "Sarah Guo",
-          "firm": "conviction"
-        },
-        {
-          "slug": "satya-patel",
-          "name": "Satya Patel",
-          "firm": "homebrew"
-        },
-        {
-          "slug": "scott-belsky",
-          "name": "Scott Belsky",
-          "firm": "a24"
-        },
-        {
-          "slug": "shakil-khan",
-          "name": "Shakil Khan",
-          "firm": "prima-materia"
-        },
-        {
-          "slug": "sheel-mohnot",
-          "name": "Sheel Mohnot",
-          "firm": "better-tomorrow-ventures"
-        },
-        {
-          "slug": "shervin-pishevar",
-          "name": "Shervin Pishevar",
-          "firm": "sherpa-capital"
-        },
-        {
-          "slug": "shlomo-kramer",
-          "name": "Shlomo Kramer",
-          "firm": "cato-networks"
-        },
-        {
-          "slug": "shruti-gandhi",
-          "name": "Shruti Gandhi",
-          "firm": "array-ventures"
-        },
-        {
-          "slug": "sonja-hoel-perkins",
-          "name": "Sonja Hoel Perkins",
-          "firm": "broadway-angels"
-        },
-        {
-          "slug": "stan-druckenmiller",
-          "name": "Stanley Druckenmiller",
-          "firm": "duquesne-family-office"
-        },
-        {
-          "slug": "stephen-mandel",
-          "name": "Stephen Mandel",
-          "firm": "lone-pine-capital"
-        },
-        {
-          "slug": "steve-anderson",
-          "name": "Steve Anderson",
-          "firm": "baseline-ventures"
-        },
-        {
-          "slug": "theresia-gouw",
-          "name": "Theresia Gouw",
-          "firm": "acrew-capital"
-        },
-        {
-          "slug": "tim-draper",
-          "name": "Tim Draper",
-          "firm": "draper-associates"
-        },
-        {
-          "slug": "tobi-lutke",
-          "name": "Tobi Lutke",
-          "firm": "independent"
-        },
-        {
-          "slug": "todd-goldberg",
-          "name": "Todd Goldberg",
-          "firm": "todd-and-rahul-capital"
-        },
-        {
-          "slug": "travis-kalanick",
-          "name": "Travis Kalanick",
-          "firm": 10100
-        },
-        {
-          "slug": "turner-novak",
-          "name": "Turner Novak",
-          "firm": "banana-capital"
-        },
-        {
-          "slug": "vijay-pande",
-          "name": "Vijay Pande",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "vishal-lugani",
-          "name": "Vishal Lugani",
-          "firm": "acrew-capital"
-        },
-        {
-          "slug": "yevgeny-dibrov",
-          "name": "Yevgeny Dibrov",
-          "firm": "armis"
-        },
-        {
-          "slug": "yuri-milner",
-          "name": "Yuri Milner",
-          "firm": "dst-global"
-        },
-        {
-          "slug": "zachary-bogue",
-          "name": "Zachary Bogue",
-          "firm": "dcvc"
         }
       ]
     },
     {
       "id": "curated-8",
-      "name": "The Solo GPs",
-      "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
-      "icon": "user",
-      "type": "curated",
-      "size": 23,
-      "members": [
-        {
-          "slug": "dan-scheinman",
-          "name": "Dan Scheinman",
-          "firm": "independent"
-        },
-        {
-          "slug": "david-cancel",
-          "name": "David Cancel",
-          "firm": ""
-        },
-        {
-          "slug": "dylan-field",
-          "name": "Dylan Field",
-          "firm": "figma"
-        },
-        {
-          "slug": "elad-gil",
-          "name": "Elad Gil",
-          "firm": "independent"
-        },
-        {
-          "slug": "erik-blachford",
-          "name": "Erik Blachford",
-          "firm": "independent"
-        },
-        {
-          "slug": "greg-brockman",
-          "name": "Greg Brockman",
-          "firm": "independent"
-        },
-        {
-          "slug": "hugh-crean",
-          "name": "Hugh Crean",
-          "firm": null
-        },
-        {
-          "slug": "jack-dorsey",
-          "name": "Jack Dorsey",
-          "firm": "independent"
-        },
-        {
-          "slug": "john-collison",
-          "name": "John Collison",
-          "firm": null
-        },
-        {
-          "slug": "katrina-lake",
-          "name": "Katrina Lake",
-          "firm": null
-        },
-        {
-          "slug": "kevin-systrom",
-          "name": "Kevin Systrom",
-          "firm": "independent"
-        },
-        {
-          "slug": "lachy-groom",
-          "name": "Lachy Groom",
-          "firm": "independent"
-        },
-        {
-          "slug": "michael-shaulov",
-          "name": "Michael Shaulov",
-          "firm": "cyberstarts"
-        },
-        {
-          "slug": "nat-friedman",
-          "name": "Nat Friedman",
-          "firm": "nfdg"
-        },
-        {
-          "slug": "patrick-collison",
-          "name": "Patrick Collison",
-          "firm": "stripe"
-        },
-        {
-          "slug": "rahul-vohra",
-          "name": "Rahul Vohra",
-          "firm": "todd-and-rahul-capital"
-        },
-        {
-          "slug": "sam-altman",
-          "name": "Sam Altman",
-          "firm": null
-        },
-        {
-          "slug": "sam-shank",
-          "name": "Sam Shank",
-          "firm": "independent"
-        },
-        {
-          "slug": "scott-belsky",
-          "name": "Scott Belsky",
-          "firm": "a24"
-        },
-        {
-          "slug": "shakil-khan",
-          "name": "Shakil Khan",
-          "firm": "prima-materia"
-        },
-        {
-          "slug": "shlomo-kramer",
-          "name": "Shlomo Kramer",
-          "firm": "cato-networks"
-        },
-        {
-          "slug": "tobi-lutke",
-          "name": "Tobi Lutke",
-          "firm": "independent"
-        },
-        {
-          "slug": "todd-goldberg",
-          "name": "Todd Goldberg",
-          "firm": "todd-and-rahul-capital"
-        }
-      ]
-    },
-    {
-      "id": "curated-9",
       "name": "The Fintech Mafia",
-      "tagline": "Deep in the financial plumbing. These investors backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
-      "icon": "banknotes",
+      "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 30,
+      "size": 15,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -3516,59 +2622,14 @@
           "firm": "first-harmonic"
         },
         {
-          "slug": "anu-hariharan",
-          "name": "Anu Hariharan",
-          "firm": "avra"
-        },
-        {
-          "slug": "brad-gerstner",
-          "name": "Brad Gerstner",
-          "firm": "altimeter-capital"
-        },
-        {
-          "slug": "dan-rose",
-          "name": "Dan Rose",
-          "firm": "coatue-management"
-        },
-        {
-          "slug": "dan-sundheim",
-          "name": "Dan Sundheim",
-          "firm": "d1-capital-partners"
-        },
-        {
           "slug": "daniel-gross",
           "name": "Daniel Gross",
           "firm": "nfdg"
         },
         {
-          "slug": "david-sacks",
-          "name": "David Sacks",
-          "firm": "craft-ventures"
-        },
-        {
           "slug": "elad-gil",
           "name": "Elad Gil",
           "firm": "independent"
-        },
-        {
-          "slug": "fred-wilson",
-          "name": "Fred Wilson",
-          "firm": "union-square-ventures"
-        },
-        {
-          "slug": "garry-tan",
-          "name": "Garry Tan",
-          "firm": "y-combinator"
-        },
-        {
-          "slug": "jake-gibson",
-          "name": "Jake Gibson",
-          "firm": "better-tomorrow-ventures"
-        },
-        {
-          "slug": "jennifer-fonstad",
-          "name": "Jennifer Fonstad",
-          "firm": "owl-capital"
         },
         {
           "slug": "josh-kushner",
@@ -3591,11 +2652,6 @@
           "firm": "acrew-capital"
         },
         {
-          "slug": "lee-fixel",
-          "name": "Lee Fixel",
-          "firm": "addition"
-        },
-        {
           "slug": "max-levchin",
           "name": "Max Levchin",
           "firm": "scifi-vc"
@@ -3604,11 +2660,6 @@
           "slug": "micky-malka",
           "name": "Micky Malka",
           "firm": "ribbit-capital"
-        },
-        {
-          "slug": "nat-turner",
-          "name": "Nat Turner",
-          "firm": "operator-partners"
         },
         {
           "slug": "neil-mehta",
@@ -3626,24 +2677,9 @@
           "firm": "sv-angel"
         },
         {
-          "slug": "sam-altman",
-          "name": "Sam Altman",
-          "firm": null
-        },
-        {
           "slug": "satya-patel",
           "name": "Satya Patel",
           "firm": "homebrew"
-        },
-        {
-          "slug": "sheel-mohnot",
-          "name": "Sheel Mohnot",
-          "firm": "better-tomorrow-ventures"
-        },
-        {
-          "slug": "sonya-huang",
-          "name": "Sonya Huang",
-          "firm": "sequoia-capital"
         },
         {
           "slug": "theresia-gouw",
@@ -3651,9 +2687,58 @@
           "firm": "acrew-capital"
         },
         {
-          "slug": "tim-draper",
-          "name": "Tim Draper",
-          "firm": "draper-associates"
+          "slug": "yuri-milner",
+          "name": "Yuri Milner",
+          "firm": "dst-global"
+        }
+      ]
+    },
+    {
+      "id": "curated-9",
+      "name": "The Consumer Whisperers",
+      "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
+      "type": "curated",
+      "size": 9,
+      "members": [
+        {
+          "slug": "alfred-lin",
+          "name": "Alfred Lin",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "bennett-siegel",
+          "name": "Bennett Siegel",
+          "firm": "a-star-capital"
+        },
+        {
+          "slug": "jay-hoag",
+          "name": "Jay Hoag",
+          "firm": "tcv"
+        },
+        {
+          "slug": "keith-rabois",
+          "name": "Keith Rabois",
+          "firm": "khosla-ventures"
+        },
+        {
+          "slug": "kevin-hartz",
+          "name": "Kevin Hartz",
+          "firm": "a-star-capital"
+        },
+        {
+          "slug": "paul-buchheit",
+          "name": "Paul Buchheit",
+          "firm": "standard-capital"
+        },
+        {
+          "slug": "ron-conway",
+          "name": "Ron Conway",
+          "firm": "sv-angel"
+        },
+        {
+          "slug": "scott-belsky",
+          "name": "Scott Belsky",
+          "firm": "a24"
         },
         {
           "slug": "yuri-milner",
@@ -3665,10 +2750,9 @@
     {
       "id": "curated-10",
       "name": "The Global Scouts",
-      "tagline": "Investing from London, Singapore, Tel Aviv, S\u00e3o Paulo, and beyond. They see deals the Valley misses.",
-      "icon": "globe",
+      "tagline": "Investing from London, Singapore, Tel Aviv, and beyond. They see deals the Valley misses.",
       "type": "curated",
-      "size": 66,
+      "size": 65,
       "members": [
         {
           "slug": "albert-chiang",
@@ -3819,11 +2903,6 @@
           "slug": "jennifer-fonstad",
           "name": "Jennifer Fonstad",
           "firm": "owl-capital"
-        },
-        {
-          "slug": "john-curtius",
-          "name": "John Curtius",
-          "firm": "cedar-capital-group"
         },
         {
           "slug": "john-doran",
@@ -4006,7 +3085,6 @@
       "id": "curated-11",
       "name": "Pure Seed",
       "tagline": "Exclusively early stage. No Series B creep, no growth fund. These investors live and breathe the first check.",
-      "icon": "seedling",
       "type": "curated",
       "size": 61,
       "members": [
@@ -4321,7 +3399,6 @@
       "id": "curated-12",
       "name": "The Growth Capital",
       "tagline": "They show up when product-market fit is proven and the question is how fast to scale. Late-stage, growth, and crossover specialists.",
-      "icon": "chart",
       "type": "curated",
       "size": 39,
       "members": [
@@ -4524,86 +3601,10 @@
     },
     {
       "id": "curated-13",
-      "name": "Team Benchmark",
-      "tagline": "The partners and investing team at Benchmark.",
-      "icon": "building",
+      "name": "The Unicorn Collectors",
+      "tagline": "Five or more unicorns in a single portfolio. These investors have an uncanny ability to pick winners \u2014 or the dealflow to never miss.",
       "type": "curated",
-      "size": 13,
-      "members": [
-        {
-          "slug": "andy-rachleff",
-          "name": "Andy Rachleff",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "bill-gurley",
-          "name": "Bill Gurley",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "bob-kagle",
-          "name": "Bob Kagle",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "bruce-dunlevie",
-          "name": "Bruce Dunlevie",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "chetan-puttagunta",
-          "name": "Chetan Puttagunta",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "eric-vishria",
-          "name": "Eric Vishria",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "kevin-harvey",
-          "name": "Kevin Harvey",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "matt-cohler",
-          "name": "Matt Cohler",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "mitch-lasky",
-          "name": "Mitch Lasky",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "peter-fenton",
-          "name": "Peter Fenton",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "rich-barton",
-          "name": "Rich Barton",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "sarah-tavel",
-          "name": "Sarah Tavel",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "victor-lazarte",
-          "name": "Victor Lazarte",
-          "firm": "benchmark"
-        }
-      ]
-    },
-    {
-      "id": "curated-14",
-      "name": "Team Sequoia Capital",
-      "tagline": "The partners and investing team at Sequoia Capital.",
-      "icon": "building",
-      "type": "curated",
-      "size": 14,
+      "size": 15,
       "members": [
         {
           "slug": "alfred-lin",
@@ -4611,179 +3612,74 @@
           "firm": "sequoia-capital"
         },
         {
-          "slug": "andrew-reed",
-          "name": "Andrew Reed",
-          "firm": "sequoia-capital"
+          "slug": "daniel-gross",
+          "name": "Daniel Gross",
+          "firm": "nfdg"
         },
         {
-          "slug": "bogomil-balkansky",
-          "name": "Bogomil Balkansky",
-          "firm": "sequoia-capital"
+          "slug": "david-sacks",
+          "name": "David Sacks",
+          "firm": "craft-ventures"
         },
         {
-          "slug": "doug-leone",
-          "name": "Doug Leone",
-          "firm": "sequoia-capital"
+          "slug": "elad-gil",
+          "name": "Elad Gil",
+          "firm": "independent"
         },
         {
-          "slug": "jess-lee",
-          "name": "Jess Lee",
-          "firm": "sequoia-capital"
+          "slug": "garry-tan",
+          "name": "Garry Tan",
+          "firm": "y-combinator"
         },
         {
-          "slug": "josephine-chen",
-          "name": "Josephine Chen",
-          "firm": "sequoia-capital"
+          "slug": "josh-kushner",
+          "name": "Joshua Kushner",
+          "firm": "thrive-capital"
         },
         {
-          "slug": "luciana-lixandru",
-          "name": "Luciana Lixandru",
-          "firm": "sequoia-capital"
+          "slug": "kevin-hartz",
+          "name": "Kevin Hartz",
+          "firm": "a-star-capital"
         },
         {
-          "slug": "michael-moritz",
-          "name": "Michael Moritz",
-          "firm": "sequoia-capital"
+          "slug": "mary-meeker",
+          "name": "Mary Meeker",
+          "firm": "bond"
         },
         {
-          "slug": "pat-grady",
-          "name": "Pat Grady",
-          "firm": "sequoia-capital"
+          "slug": "max-levchin",
+          "name": "Max Levchin",
+          "firm": "scifi-vc"
         },
         {
-          "slug": "ravi-gupta",
-          "name": "Ravi Gupta",
-          "firm": "sequoia-capital"
+          "slug": "neil-mehta",
+          "name": "Neil Mehta",
+          "firm": "greenoaks"
         },
         {
-          "slug": "roelof-botha",
-          "name": "Roelof Botha",
-          "firm": "sequoia-capital"
+          "slug": "paul-buchheit",
+          "name": "Paul Buchheit",
+          "firm": "standard-capital"
         },
         {
-          "slug": "shaun-maguire",
-          "name": "Shaun Maguire",
-          "firm": "sequoia-capital"
+          "slug": "philippe-laffont",
+          "name": "Philippe Laffont",
+          "firm": "coatue-management"
         },
         {
-          "slug": "sonya-huang",
-          "name": "Sonya Huang",
-          "firm": "sequoia-capital"
+          "slug": "ron-conway",
+          "name": "Ron Conway",
+          "firm": "sv-angel"
         },
         {
-          "slug": "stephanie-zhan",
-          "name": "Stephanie Zhan",
-          "firm": "sequoia-capital"
-        }
-      ]
-    },
-    {
-      "id": "curated-15",
-      "name": "Team Andreessen Horowitz",
-      "tagline": "The partners and investing team at Andreessen Horowitz.",
-      "icon": "building",
-      "type": "curated",
-      "size": 7,
-      "members": [
-        {
-          "slug": "chris-dixon",
-          "name": "Chris Dixon",
-          "firm": "andreessen-horowitz"
+          "slug": "sam-altman",
+          "name": "Sam Altman",
+          "firm": null
         },
         {
-          "slug": "connie-chan",
-          "name": "Connie Chan",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "katherine-boyle",
-          "name": "Katherine Boyle",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "martin-casado",
-          "name": "Martin Casado",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "scott-kupor",
-          "name": "Scott Kupor",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "sriram-krishnan",
-          "name": "Sriram Krishnan",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "vijay-pande",
-          "name": "Vijay Pande",
-          "firm": "andreessen-horowitz"
-        }
-      ]
-    },
-    {
-      "id": "curated-16",
-      "name": "Team First Round Capital",
-      "tagline": "The partners and investing team at First Round Capital.",
-      "icon": "building",
-      "type": "curated",
-      "size": 6,
-      "members": [
-        {
-          "slug": "bill-trenchard",
-          "name": "Bill Trenchard",
-          "firm": "first-round-capital"
-        },
-        {
-          "slug": "chris-fralic",
-          "name": "Chris Fralic",
-          "firm": "first-round-capital"
-        },
-        {
-          "slug": "hayley-barna",
-          "name": "Hayley Barna",
-          "firm": "first-round-capital"
-        },
-        {
-          "slug": "howard-morgan",
-          "name": "Howard Morgan",
-          "firm": "first-round-capital"
-        },
-        {
-          "slug": "josh-kopelman",
-          "name": "Josh Kopelman",
-          "firm": "first-round-capital"
-        },
-        {
-          "slug": "rob-hayes",
-          "name": "Rob Hayes",
-          "firm": "first-round-capital"
-        }
-      ]
-    },
-    {
-      "id": "curated-17",
-      "name": "Team Greylock",
-      "tagline": "The partners and investing team at Greylock.",
-      "icon": "building",
-      "type": "curated",
-      "size": 3,
-      "members": [
-        {
-          "slug": "david-sze",
-          "name": "David Sze",
-          "firm": "greylock"
-        },
-        {
-          "slug": "jerry-chen",
-          "name": "Jerry Chen",
-          "firm": "greylock"
-        },
-        {
-          "slug": "reid-hoffman",
-          "name": "Reid Hoffman",
-          "firm": "greylock"
+          "slug": "yuri-milner",
+          "name": "Yuri Milner",
+          "firm": "dst-global"
         }
       ]
     }

@@ -210,8 +210,9 @@ def build():
     # Build cluster lookup for investor pages
     similar_investors_map = clusters_data.get("similar_investors", {})
     investor_clusters_map = clusters_data.get("investor_clusters", {})
-    clusters_list = clusters_data.get("clusters", [])
+    clusters_list = clusters_data.get("algo_clusters", clusters_data.get("clusters", []))
     cluster_by_id = {c["id"]: c for c in clusters_list}
+    curated_collections = clusters_data.get("curated_collections", [])
 
     # Render investor pages
     investor_template = env.get_template("investor.html")
@@ -233,10 +234,17 @@ def build():
         cluster_id = investor_clusters_map.get(slug)
         inv_cluster = cluster_by_id.get(cluster_id) if cluster_id is not None else None
 
+        # Find curated collections this investor belongs to
+        inv_collections = [
+            col for col in curated_collections
+            if any(m.get("slug") == slug for m in col.get("members", []))
+        ]
+
         html = investor_template.render(
             profile=profile,
             similar_investors=similar,
             investor_cluster=inv_cluster,
+            investor_collections=inv_collections,
         )
         out_path = OUTPUT_DIR / "investors" / f"{profile['slug']}.html"
         out_path.write_text(html)
@@ -325,10 +333,11 @@ def build():
     (OUTPUT_DIR / "investors" / "index.html").write_text(html)
 
     # Investor clusters / groups page
-    if clusters_list:
+    if clusters_list or curated_collections:
         clusters_template = env.get_template("clusters.html")
         html = clusters_template.render(
-            clusters=clusters_list,
+            curated=curated_collections,
+            algo=clusters_list,
             total_investors=len(investors),
         )
         (OUTPUT_DIR / "investors" / "groups.html").write_text(html)
