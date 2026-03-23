@@ -95,6 +95,9 @@ investors:
 - round: Series A
   slug: micky-malka
   year: 2017
+- round: Series D-2 (co-led)
+  slug: benny-peretz
+  year: 2022
 last_researched: 2026-03-22
 location: San Francisco, CA
 name: Brex

@@ -131,6 +131,9 @@ investors:
 - round: ~2009
   slug: sameer-gandhi
   year: 2009
+- round: Series E
+  slug: benny-peretz
+  year: 2014
 last_researched: 2026-03-19
 location: Bengaluru, India
 name: Flipkart

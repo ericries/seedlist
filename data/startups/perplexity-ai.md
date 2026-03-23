@@ -12,6 +12,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2022
+- round: Series B
+  slug: vercel
+  year: 2024
 founded: 2022
 founders:
 - name: Aravind Srinivas
@@ -37,6 +40,9 @@ investors:
   year: 2023
 - round: Growth (via NFDG)
   slug: daniel-gross
+  year: 2024
+- round: Series B
+  slug: guillermo-rauch
   year: 2024
 last_researched: 2026-03-19
 location: San Francisco, CA

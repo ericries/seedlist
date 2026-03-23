@@ -40,6 +40,9 @@ firms:
 - round: ~2020
   slug: armis
   year: 2020
+- round: Series B
+  slug: greenoaks-capital
+  year: 2021
 founded: 2020
 founders:
 - name: Assaf Rappaport
@@ -78,6 +81,9 @@ investors:
 - round: ~2020
   slug: yevgeny-dibrov
   year: 2020
+- round: Series B
+  slug: benny-peretz
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Wiz

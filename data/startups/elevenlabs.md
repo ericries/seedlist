@@ -99,6 +99,9 @@ firms:
 - round: Growth (via NFDG)
   slug: nfdg
   year: 2023
+- round: Series A
+  slug: vercel
+  year: 2023
 founded: 2022
 founders:
 - name: Mati Staniszewski
@@ -130,6 +133,9 @@ investors:
 - round: Seed
   slug: ron-conway
   year: 2022
+- round: Series A
+  slug: guillermo-rauch
+  year: 2023
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

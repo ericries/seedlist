@@ -73,6 +73,9 @@ investors:
 - round: '2017'
   slug: ramtin-naimi
   year: 2017
+- round: Series E (led)
+  slug: benny-peretz
+  year: 2023
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

@@ -48,6 +48,9 @@ firms:
 - round: ~2018
   slug: andreessen-horowitz
   year: 2018
+- round: Seed
+  slug: vercel
+  year: 2017
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -94,6 +97,9 @@ investors:
 - round: ~2020
   slug: trae-stephens
   year: 2020
+- round: Seed
+  slug: guillermo-rauch
+  year: 2017
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

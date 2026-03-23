@@ -68,6 +68,9 @@ investors:
 - round: Series C
   slug: neil-mehta
   year: 2016
+- round: Series C (co-led)
+  slug: benny-peretz
+  year: 2015
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Deliveroo

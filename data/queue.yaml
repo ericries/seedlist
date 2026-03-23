@@ -322,7 +322,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Gusto
   type: startup
@@ -354,7 +354,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: ElevenLabs
   type: startup
@@ -362,7 +362,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Harvey
   type: startup
@@ -378,7 +378,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Hugging Face
   type: startup
@@ -410,7 +410,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Hims
   type: startup
@@ -1813,7 +1813,7 @@ queue:
   source: firm of itamar-novick
   discovered_from: itamar-novick
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Konstantin Othmer
   type: individual
@@ -2406,7 +2406,7 @@ queue:
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Andrew Miskiewicz
   type: individual
@@ -2914,7 +2914,7 @@ queue:
   source: investor in Rippling
   discovered_from: rippling
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Ribbit Capital
   type: firm
@@ -2970,7 +2970,7 @@ queue:
   source: investor in Deel
   discovered_from: deel
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-17
 - name: Julian Robertson
   type: individual
@@ -3122,7 +3122,7 @@ queue:
 - name: Acrew Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: theresia-gouw
 - name: John Doran
@@ -3214,7 +3214,7 @@ queue:
 - name: Tiger Management
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: julian-robertson
 - name: Clay Bavor
@@ -3288,7 +3288,7 @@ queue:
 - name: D1 Capital Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: andreas-halvorsen
 - name: David Singer
@@ -5851,7 +5851,7 @@ queue:
 - name: Zach Weinberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Operator Partners
   discovered_from: nat-turner
@@ -5885,14 +5885,14 @@ queue:
 - name: Benny Peretz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Greenoaks Capital
   discovered_from: greenoaks-capital
 - name: Guillermo Rauch
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: elevenlabs
 - name: Meyer Malka

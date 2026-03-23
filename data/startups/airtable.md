@@ -72,6 +72,9 @@ investors:
 - round: ~2014
   slug: gokul-rajaram
   year: 2014
+- round: Series E (led)
+  slug: benny-peretz
+  year: 2021
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable
