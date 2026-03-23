@@ -3294,13 +3294,8 @@
       "name": "The Quiet Giants",
       "tagline": "They don't tweet, they don't podcast, they just write very large checks. The growth and late-stage investors who let returns do the talking.",
       "type": "curated",
-      "size": 31,
+      "size": 17,
       "members": [
-        {
-          "slug": "albert-chiang",
-          "name": "Albert Chiang",
-          "firm": "octahedron-capital"
-        },
         {
           "slug": "andrew-braccia",
           "name": "Andrew Braccia",
@@ -3310,11 +3305,6 @@
           "slug": "andrew-reed",
           "name": "Andrew Reed",
           "firm": "sequoia-capital"
-        },
-        {
-          "slug": "anu-hariharan",
-          "name": "Anu Hariharan",
-          "firm": "avra"
         },
         {
           "slug": "brad-gerstner",
@@ -3337,29 +3327,9 @@
           "firm": "matrix-capital-management"
         },
         {
-          "slug": "david-sze",
-          "name": "David Sze",
-          "firm": "greylock"
-        },
-        {
-          "slug": "deven-parekh",
-          "name": "Deven Parekh",
-          "firm": "insight-partners"
-        },
-        {
           "slug": "john-doran",
           "name": "John Doran",
           "firm": "tcv"
-        },
-        {
-          "slug": "logan-bartlett",
-          "name": "Logan Bartlett",
-          "firm": "redpoint-ventures"
-        },
-        {
-          "slug": "mala-gaonkar",
-          "name": "Mala Gaonkar",
-          "firm": "surgocap-partners"
         },
         {
           "slug": "mary-meeker",
@@ -3382,19 +3352,9 @@
           "firm": "sequoia-capital"
         },
         {
-          "slug": "peter-chung",
-          "name": "Peter Chung",
-          "firm": "summit-partners"
-        },
-        {
           "slug": "ram-parameswaran",
           "name": "Ram Parameswaran",
           "firm": "octahedron-capital"
-        },
-        {
-          "slug": "rich-wong",
-          "name": "Rich Wong",
-          "firm": "accel"
         },
         {
           "slug": "rick-kimball",
@@ -3402,24 +3362,9 @@
           "firm": "tcv"
         },
         {
-          "slug": "rob-citrone",
-          "name": "Rob Citrone",
-          "firm": "discovery-capital-management"
-        },
-        {
           "slug": "sameer-gandhi",
           "name": "Sameer Gandhi",
           "firm": "accel"
-        },
-        {
-          "slug": "sonya-huang",
-          "name": "Sonya Huang",
-          "firm": "sequoia-capital"
-        },
-        {
-          "slug": "stan-druckenmiller",
-          "name": "Stanley Druckenmiller",
-          "firm": "duquesne-family-office"
         },
         {
           "slug": "stephen-mandel",
@@ -3430,21 +3375,6 @@
           "slug": "teddie-wardi",
           "name": "Teddie Wardi",
           "firm": "insight-partners"
-        },
-        {
-          "slug": "tim-mcadam",
-          "name": "Tim McAdam",
-          "firm": "tcv"
-        },
-        {
-          "slug": "tom-dyal",
-          "name": "Tom Dyal",
-          "firm": "redpoint-ventures"
-        },
-        {
-          "slug": "woody-marshall",
-          "name": "Woody Marshall",
-          "firm": "tcv"
         },
         {
           "slug": "yuri-milner",
