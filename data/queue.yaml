@@ -3202,13 +3202,13 @@ queue:
 - name: Viking Global Investors
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: julian-robertson
 - name: Lone Pine Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: julian-robertson
 - name: Tiger Management
@@ -3769,7 +3769,7 @@ queue:
 - name: Liz Wessel
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: first-round-capital
   discovered_from: first-round-capital
@@ -4057,13 +4057,13 @@ queue:
 - name: Northzone
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: spotify
 - name: Creandum
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: spotify
 - name: Daniel Gross
@@ -6062,7 +6062,7 @@ queue:
   source: 'Collection gap analysis: Climate — co-leads Bill Gates''s $2B+ BEV'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Matt Rogers
   type: individual
@@ -6379,14 +6379,14 @@ queue:
 - name: Amjad Masad
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Replit
   discovered_from: guillermo-rauch
 - name: Paul Copplestone
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Supabase
   discovered_from: guillermo-rauch
