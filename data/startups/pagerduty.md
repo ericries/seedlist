@@ -105,6 +105,9 @@ investors:
 - round: Series B
   slug: trevor-oelschig
   year: 2014
+- round: Seed
+  slug: tom-drummond
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: PagerDuty

@@ -36,6 +36,9 @@ firms:
 - round: ~2013
   slug: operator-partners
   year: 2013
+- round: Series C
+  slug: chemistry
+  year: 2018
 founded: 2013
 founders:
 - name: Zach Perret
@@ -67,6 +70,9 @@ investors:
 - round: Seed
   slug: amit-avner
   year: 2013
+- round: Series C
+  slug: mark-goldberg
+  year: 2018
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

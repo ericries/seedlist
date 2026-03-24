@@ -3301,7 +3301,7 @@ queue:
 - name: Maverick Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: lee-ainslie
 - name: Sonja Hoel Perkins
@@ -3485,7 +3485,7 @@ queue:
 - name: Matrix Capital Management
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Matrix Capital Management
   discovered_from: david-goel
@@ -3947,7 +3947,7 @@ queue:
 - name: Mark Goldberg
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Chemistry VC
   discovered_from: ethan-kurzweil
@@ -3961,7 +3961,7 @@ queue:
 - name: Tom Drummond
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Heavybit
   discovered_from: jesse-robbins
@@ -6429,7 +6429,7 @@ queue:
 - name: Adam Sharkawy
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Material Impact
   discovered_from: carmichael-roberts
@@ -6450,6 +6450,6 @@ queue:
 - name: Breakthrough Energy Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: carmichael-roberts

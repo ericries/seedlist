@@ -521,6 +521,22 @@ def build():
         )
         (OUTPUT_DIR / "find.html").write_text(html)
 
+    # Render discover (founder tools routing) page
+    discover_tmpl_path = TEMPLATES_DIR / "discover.html"
+    if discover_tmpl_path.exists():
+        discover_template = env.get_template("discover.html")
+        html = discover_template.render(
+            investor_count=len(investors),
+        )
+        (OUTPUT_DIR / "discover.html").write_text(html)
+
+    # Render comparables page
+    comparables_tmpl_path = TEMPLATES_DIR / "comparables.html"
+    if comparables_tmpl_path.exists():
+        comparables_template = env.get_template("comparables.html")
+        html = comparables_template.render()
+        (OUTPUT_DIR / "comparables.html").write_text(html)
+
     # Render homepage
     index_template = env.get_template("index.html")
     html = index_template.render(

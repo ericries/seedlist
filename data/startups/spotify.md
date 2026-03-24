@@ -106,6 +106,9 @@ investors:
 - round: Pre-IPO debt
   slug: marc-stad
   year: 2016
+- round: Series A (led, first VC)
+  slug: par-jorgen-parson
+  year: 2008
 last_researched: 2026-03-19
 location: Stockholm, Sweden
 name: Spotify
