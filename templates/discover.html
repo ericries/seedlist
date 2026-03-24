@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Founder Tools{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>Fundraising tools for founders</h1>
+  <p class="hero-sub">Three ways to build the right investor list for your startup. All free, all private — your data never leaves your browser.</p>
+</section>
+
+<div class="home-links">
+  <a href="/enrich.html" class="home-card">
+    <h2>Enrich my list</h2>
+    <p>Already have a CSV of investor names? Upload it and we'll add Seedlist intelligence — stage focus, sector focus, check sizes, and recommendations.</p>
+  </a>
+
+  <a href="/find.html" class="home-card">
+    <h2>Build a target list</h2>
+    <p>Don't have a list yet? Tell us your stage, sector, and check size and we'll find the best-fit investors from {{ investor_count }} profiles.</p>
+  </a>
+
+  <a href="/comparables.html" class="home-card">
+    <h2>Find by comparable companies</h2>
+    <p>Know startups similar to yours? Pick them and we'll show you every investor who backed them — plus others whose thesis matches.</p>
+  </a>
+</div>
+{% endblock %}

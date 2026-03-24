@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}Find Investors by Comparable Companies{% endblock %}
+
+{% block head %}
+<style>
+.comp-hero {
+  text-align: center;
+  padding: 2.5rem 0 1.5rem;
+}
+.comp-hero h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+.comp-hero p {
+  color: var(--color-muted);
+  font-size: 1rem;
+  max-width: 560px;
+  margin: 0 auto;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="comp-hero">
+  <h1>Find investors by comparable companies</h1>
+  <p>Pick startups similar to yours &mdash; we'll show you who invested in them, plus investors whose thesis matches but didn't invest.</p>
+</section>
+
+<div id="comp-section">
+  <div class="comp-form">
+    <div class="comp-search-wrap">
+      <input type="text" id="comp-search" class="comp-search-input" placeholder="Search for a company (e.g., Stripe, Airbnb)..." autocomplete="off">
+      <div id="comp-dropdown" class="comp-dropdown" style="display:none"></div>
+    </div>
+    <div id="comp-selected" class="comp-selected"></div>
+    <div class="form-actions" style="text-align:center;">
+      <button class="btn btn-primary" id="comp-find-btn" disabled>Find investors</button>
+    </div>
+  </div>
+  <p style="text-align:center; font-size:0.8rem; color:var(--color-muted); margin-top:0.5rem;">Your data never leaves your browser.</p>
+</div>
+
+<div id="comp-results" style="display:none">
+  <div class="find-summary" id="comp-summary"></div>
+  <div class="find-actions" style="display:flex; gap:1rem; justify-content:center; margin:1.5rem 0;">
+    <button class="btn btn-primary" id="comp-download-btn">Download as CSV</button>
+    <button class="btn btn-secondary" id="comp-reset-btn">Start over</button>
+  </div>
+  <div id="comp-tiers"></div>
+</div>
+
+<p style="text-align:center; font-size:0.85rem; color:var(--color-muted); margin-top:2rem;">
+  Try other tools: <a href="/find.html" style="font-weight:600;">Build a target list</a> | <a href="/enrich.html" style="font-weight:600;">Enrich your list</a>
+</p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="/static/comparables.js"></script>
+{% endblock %}

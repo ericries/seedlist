@@ -270,6 +270,13 @@
       html += '</div></div>';
     });
 
+    // Dynamic cross-links
+    html += '<div style="text-align:center; margin-top:1.5rem; padding-top:1rem; border-top:1px solid var(--color-border);">';
+    html += '<p style="font-size:0.9rem; color:var(--color-muted);">Know companies similar to yours? ';
+    html += '<a href="/comparables.html" style="font-weight:600;">Find their investors</a>';
+    html += ' | <a href="/enrich.html" style="font-weight:600;">Enrich an existing list</a></p>';
+    html += '</div>';
+
     tiersEl.innerHTML = html;
     document.getElementById("find-download-btn").style.display = "inline-block";
     document.getElementById("find-form-section").style.display = "none";
@@ -348,6 +355,26 @@
     sectorBoxes.forEach(function (box) {
       box.addEventListener("change", enforceSectorLimit);
     });
+
+    // Pre-fill from URL params (e.g., from comparables cross-link)
+    var params = new URLSearchParams(window.location.search);
+    if (params.get("stage")) {
+      var stageEl = document.getElementById("find-stage");
+      if (stageEl) stageEl.value = params.get("stage");
+    }
+    if (params.get("sector")) {
+      var prefilledSectors = params.get("sector").split(",");
+      sectorBoxes.forEach(function (box) {
+        if (prefilledSectors.indexOf(box.value) !== -1 || prefilledSectors.indexOf(box.value.toLowerCase()) !== -1) {
+          box.checked = true;
+        }
+      });
+      enforceSectorLimit();
+    }
+    if (params.get("check")) {
+      var checkEl = document.getElementById("find-check-size");
+      if (checkEl) checkEl.value = params.get("check");
+    }
 
     // Form submit
     document.getElementById("find-form").addEventListener("submit", function (e) {
