@@ -42,6 +42,9 @@ investors:
 - round: Series A (a16z, $100M)
   slug: marc-andreessen
   year: 2012
+- round: Tender Offer
+  slug: kareem-zaki
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: GitHub

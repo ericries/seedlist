@@ -45,6 +45,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2013
+- round: Growth
+  slug: thrive-capital
+  year: 2018
 founded: 2012
 founders:
 - name: Apoorva Mehta
@@ -105,6 +108,9 @@ investors:
 - round: ~2019
   slug: bennett-siegel
   year: 2019
+- round: Growth
+  slug: kareem-zaki
+  year: 2018
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

@@ -39,6 +39,9 @@ firms:
 - round: Series C
   slug: chemistry
   year: 2018
+- round: Series C
+  slug: chemistry-vc
+  year: 2018
 founded: 2013
 founders:
 - name: Zach Perret

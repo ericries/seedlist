@@ -554,7 +554,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: ngmoco
   type: startup
@@ -562,7 +562,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Spiceworks
   type: startup
@@ -4075,7 +4075,7 @@ queue:
 - name: Kareem Zaki
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: thrive-capital
   discovered_from: josh-kushner
@@ -4088,7 +4088,7 @@ queue:
 - name: Buckley Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: josh-buckley
 - name: Todd and Rahul Capital
@@ -4100,14 +4100,14 @@ queue:
 - name: Kent Bennett
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bessemer Venture Partners
   discovered_from: trevor-oelschig
 - name: Brian Feinstein
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bessemer Venture Partners
   discovered_from: trevor-oelschig
@@ -4243,7 +4243,7 @@ queue:
 - name: SciFi VC
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: max-levchin
 - name: '10100'

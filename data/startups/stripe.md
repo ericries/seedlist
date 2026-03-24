@@ -133,6 +133,9 @@ investors:
 - round: Unknown
   slug: benny-peretz
   year: 2019
+- round: Growth
+  slug: kareem-zaki
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

@@ -85,6 +85,9 @@ investors:
 - round: Unknown
   slug: benny-peretz
   year: 2020
+- round: Series C
+  slug: kareem-zaki
+  year: 2017
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

@@ -22,6 +22,9 @@ Seedlist.com is an LLM-researched directory of active startup investors. The cor
    - LinkedIn profiles
    - Twitter/X posts, blog posts, podcast appearances, conference talks, newsletters
    - Founder testimonials and reviews
+   - Board seats and advisory roles (SEC filings, company About pages, press releases)
+   - Conference appearances and community involvement (event speaker lists, podcast guest lists)
+   - Prior employment and notable colleagues (LinkedIn, company team pages)
 4. **Extract facts:** For each source, extract relevant facts, record the URL/title/access date, and look for first-person quotes from both the investor and portfolio founders.
 5. **Build the source list FIRST.** Before writing any profile text, compile the complete Sources section: every URL you actually visited, with title and access date. This is your ground truth. Every claim in the profile must trace back to one of these sources. Do not add sources you didn't visit.
 6. **Build the profile from sources.** Write each section by looking at your source list and extracting relevant facts. If a fact isn't supported by a source in your list, don't include it. This "sources-first" approach prevents the most common failure: writing plausible text and then trying to find citations to back it up (which leads to fabricated URLs).
@@ -114,7 +117,22 @@ Required markdown sections, in order:
 4. **## Portfolio** — Table of known investments with columns: Company, Year, Stage, Source. See "Portfolio Completeness" section below for requirements.
 5. **## In Their Own Words** — Direct quotes from the investor. Sources: Twitter/X, blog posts, podcast transcripts, conference talks, newsletters, interviews. Full attribution.
 6. **## What Founders Say** — Quotes from founders about working with this investor. Full attribution. See "Founder Quotes" section below — this is the hardest section and requires dedicated search effort.
-7. **## Sources** — All footnote references.
+7. **## Connections** *(optional but encouraged)* — Verified professional connections that could serve as introduction paths. Every connection must be cited. Include:
+   - **Board seats**: Companies where this investor serves on the board, and who else sits on those boards
+   - **Advisory roles**: Companies they advise and notable co-advisors
+   - **Prior employers**: Companies they worked at before investing, and notable colleagues
+   - **Co-investors**: Investors they have co-invested with most frequently (top 5-10 by count)
+   - **LP relationships**: If known, who their LPs are (relevant for fund-of-fund connections)
+   - **Conference/community**: Regular appearances (e.g., "frequent speaker at SaaStr," "YC mentor")
+
+   Each connection must have a citation. Format:
+   ```
+   - **Board member, Stripe** — alongside Patrick Collison (CEO), Diane Greene [^15]
+   - **Former COO, Square** (2010-2013) — worked with Jack Dorsey [^16]
+   - **YC Visiting Partner** (2015-2018) [^17]
+   ```
+   Profiles without this section are still valid — agents should add it when sufficient connection data is available.
+8. **## Sources** — All footnote references.
 
 ### Startup Profile (`data/startups/{slug}.md`)
 
@@ -500,7 +518,8 @@ In priority order:
 5. **Founder quotes are independently sourced** — "What Founders Say" contains actual founder statements, not investor anecdotes or firm marketing copy.
 6. **Portfolio completeness** — Aim for 50%+ of known investments. Every entry has a year (or founding year proxy) and a citation.
 7. **New leads discovered and queued** — Every profile research session should add new items to `queue.yaml`.
-8. **Completeness** — All seven markdown sections are present and substantive. But never sacrifice accuracy for completeness.
+8. **Completeness** — All required markdown sections are present and substantive. But never sacrifice accuracy for completeness.
+9. **Connection data is independently verified** — Every board seat, advisory role, and professional connection in the Connections section must have a citation. Do not infer connections from portfolio overlap alone (that's computed automatically) — the Connections section is for verified relationships beyond co-investment.
 
 ## Building the Site
 
@@ -659,6 +678,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
    - `python3 scripts/generate_tldrs.py --limit 20` — generate TLDR summaries for profiles that don't have one yet. Requires `ANTHROPIC_API_KEY` in env. Skip if key is not set.
    - `python3 scripts/cluster_investors.py` — recompute investor similarity clusters with any new profiles. Updates `data/clusters.json`.
    - `python3 scripts/process_issues.py` — process any pending GitHub Issues (source submissions, CSV candidates).
+   - **Pathway enrichment**: For published profiles that lack a `## Connections` section, dispatch a research agent to find and add connection data. Target 5-10 profiles per maintenance cycle. Prioritize profiles with the most page views or that appear in the most co-investment edges.
    - Commit and push if any of these produced changes.
 8. **One-line status, then immediately start next batch.**
 9. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.

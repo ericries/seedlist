@@ -89,6 +89,9 @@ investors:
 - round: ~2015
   slug: paul-buchheit
   year: 2015
+- round: Growth
+  slug: kareem-zaki
+  year: 2023
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: OpenAI

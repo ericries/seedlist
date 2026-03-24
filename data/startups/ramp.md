@@ -69,6 +69,9 @@ firms:
 - round: Seed
   slug: first-round-capital
   year: 2019
+- round: Series E
+  slug: bessemer-venture-partners
+  year: 2025
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -120,6 +123,12 @@ investors:
 - round: Seed
   slug: liz-wessel
   year: 2019
+- round: Series B
+  slug: kareem-zaki
+  year: 2021
+- round: Series E
+  slug: brian-feinstein
+  year: 2025
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

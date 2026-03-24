@@ -59,6 +59,9 @@ investors:
 - round: ~2011
   slug: adam-dangelo
   year: 2011
+- round: Growth
+  slug: kareem-zaki
+  year: 2012
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Instagram

@@ -59,6 +59,9 @@ investors:
 - round: Series G
   slug: henry-ellenbogen
   year: 2020
+- round: Growth
+  slug: kareem-zaki
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm
