@@ -94,6 +94,9 @@ investors:
 - round: Angel ($500K personal)
   slug: marc-andreessen
   year: 2005
+- round: Secondary
+  slug: john-ofarrell
+  year: 2010
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

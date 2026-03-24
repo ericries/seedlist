@@ -1,22 +1,27 @@
 ---
-name: "Lee Ainslie"
-slug: lee-ainslie
-type: individual
-firm: maverick-capital
-role: "Founder & Managing Partner"
-location: "Dallas, TX / New York, NY"
-stage_focus: []
-sector_focus: [technology, healthcare, consumer, financials, industrials]
-check_size: ""
-last_verified_investment:
-  date: 2025-12-31
-  company: "Alphabet Inc. (GOOG)"
-  round: "Public equity (13F)"
-social:
-  twitter: ""
-  linkedin: ""
-status: published
+check_size: ''
+firm: maverick-ventures
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Alphabet Inc. (GOOG)
+  date: 2025-12-31
+  round: Public equity (13F)
+location: Dallas, TX / New York, NY
+name: Lee Ainslie
+role: Founder & Managing Partner
+sector_focus:
+- technology
+- healthcare
+- consumer
+- financials
+- industrials
+slug: lee-ainslie
+social:
+  linkedin: ''
+  twitter: ''
+stage_focus: []
+status: published
+type: individual
 ---
 
 ## Background

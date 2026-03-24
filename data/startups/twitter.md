@@ -99,6 +99,9 @@ investors:
 - round: Angel
   slug: marc-andreessen
   year: 2007
+- round: Secondary
+  slug: john-ofarrell
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter

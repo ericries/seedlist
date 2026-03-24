@@ -530,7 +530,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Digg
   type: startup
@@ -546,7 +546,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Weebly
   type: startup
@@ -2329,7 +2329,7 @@ queue:
   discovered_from: david-cancel
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Digits
   type: startup
@@ -3436,7 +3436,7 @@ queue:
 - name: Third Kind Venture Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Third Kind Venture Capital
   discovered_from: angela-tran
@@ -3678,7 +3678,7 @@ queue:
 - name: Maverick Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maverick Ventures
   discovered_from: david-singer
@@ -6098,7 +6098,7 @@ queue:
     early DeepMind investor'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Balaji Srinivasan
   type: individual

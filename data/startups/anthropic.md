@@ -33,6 +33,9 @@ firms:
 - round: Series G (co-lead)
   slug: dragoneer
   year: 2026
+- round: Series A (led)
+  slug: metaplanet
+  year: 2021
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -82,6 +85,9 @@ investors:
 - round: Series G (co-lead)
   slug: marc-stad
   year: 2026
+- round: Series A (led)
+  slug: jaan-tallinn
+  year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

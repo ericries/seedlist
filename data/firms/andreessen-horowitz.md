@@ -78,6 +78,9 @@ team:
 - name: Scott Kupor
   role: Managing Partner (on leave; serving as OPM Director)
   slug: scott-kupor
+- name: John O'Farrell
+  role: Advisory Partner (formerly General Partner)
+  slug: john-ofarrell
 type: firm
 website: https://a16z.com
 ---
