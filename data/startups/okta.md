@@ -37,6 +37,9 @@ investors:
 - round: Early
   slug: jerry-yang
   year: 2014
+- round: Seed
+  slug: ann-miura-ko
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Okta

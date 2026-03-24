@@ -54,6 +54,9 @@ firms:
 - round: ~2008
   slug: prima-materia
   year: 2008
+- round: Growth (direct listing NYSE 2018)
+  slug: breyer-capital
+  year: 2011
 founded: 2006
 founders:
 - name: Daniel Ek
@@ -96,6 +99,9 @@ investors:
   year: 2012
 - round: '2011'
   slug: sonali-de-rycker
+  year: 2011
+- round: Growth (direct listing NYSE 2018)
+  slug: jim-breyer
   year: 2011
 last_researched: 2026-03-19
 location: Stockholm, Sweden

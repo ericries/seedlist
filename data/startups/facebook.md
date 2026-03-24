@@ -33,6 +33,9 @@ firms:
 - round: Founding President (operational)
   slug: founders-fund
   year: 2004
+- round: Series A ($12.7M at $98M valuation)
+  slug: breyer-capital
+  year: 2005
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -82,6 +85,9 @@ investors:
 - round: Founding President (operational)
   slug: sean-parker
   year: 2004
+- round: Series A ($12.7M at $98M valuation)
+  slug: jim-breyer
+  year: 2005
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

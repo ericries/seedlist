@@ -40,6 +40,9 @@ firms:
 - round: '2007'
   slug: union-square-ventures
   year: 2007
+- round: Seed (Hit Forge)
+  slug: angellist
+  year: 2007
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -86,6 +89,9 @@ investors:
   year: 2009
 - round: '2007'
   slug: fred-wilson
+  year: 2007
+- round: Seed (Hit Forge)
+  slug: naval-ravikant
   year: 2007
 last_researched: 2026-03-13
 location: San Francisco, CA

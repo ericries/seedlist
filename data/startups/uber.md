@@ -102,6 +102,9 @@ firms:
 - round: Seed
   slug: a24
   year: 2010
+- round: Angel
+  slug: angellist
+  year: 2010
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -171,6 +174,9 @@ investors:
   year: 2011
 - round: ~2010
   slug: zachary-bogue
+  year: 2010
+- round: Angel
+  slug: naval-ravikant
   year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA

@@ -394,7 +394,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Mistral AI
   type: startup
@@ -418,7 +418,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Flipboard
   type: startup
@@ -434,7 +434,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Mammoth Biosciences
   type: startup
@@ -3314,7 +3314,7 @@ queue:
 - name: Owl Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jennifer-fonstad
 - name: Pete Higgins
@@ -3334,7 +3334,7 @@ queue:
 - name: Second Avenue Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: nick-hanauer
 - name: Ram Parameswaran
@@ -5921,7 +5921,7 @@ queue:
     partner since 1995'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Naval Ravikant
   type: individual
@@ -5930,7 +5930,7 @@ queue:
     early Uber/Twitter angel'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Ann Miura-Ko
   type: individual
@@ -5939,7 +5939,7 @@ queue:
     early Lyft/TaskRabbit'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: David Lee
   type: individual

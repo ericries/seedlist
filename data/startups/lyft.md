@@ -43,6 +43,9 @@ investors:
 - round: ~2013
   slug: james-currier
   year: 2013
+- round: Seed
+  slug: ann-miura-ko
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft
