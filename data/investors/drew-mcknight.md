@@ -28,7 +28,6 @@ last_verified_investment:
   round: "$500M Senior Secured Credit Facility"
 social:
   linkedin: "linkedin.com/in/drew-mcknight-ba076053"
-status: draft
 last_researched: 2026-03-22
 ---
 
