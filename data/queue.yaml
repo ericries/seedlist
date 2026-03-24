@@ -3492,7 +3492,7 @@ queue:
 - name: Paul J. Ferri
   type: individual
   priority: normal
-  status: pending
+  status: skipped
   added: '2026-03-17'
   firm: Matrix Capital Management
   discovered_from: david-goel
@@ -3713,7 +3713,7 @@ queue:
 - name: A* Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: A* Capital
   discovered_from: kevin-hartz
@@ -6436,14 +6436,14 @@ queue:
 - name: Pär-Jörgen Pärson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Northzone
   discovered_from: northzone
 - name: Staffan Helgesson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Creandum
   discovered_from: creandum
