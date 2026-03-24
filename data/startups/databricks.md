@@ -74,6 +74,9 @@ investors:
 - round: '2023'
   slug: josh-wolfe
   year: 2023
+- round: Unknown
+  slug: benny-peretz
+  year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

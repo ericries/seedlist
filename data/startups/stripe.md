@@ -127,6 +127,9 @@ investors:
 - round: ~2010
   slug: paul-buchheit
   year: 2010
+- round: Unknown
+  slug: benny-peretz
+  year: 2019
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

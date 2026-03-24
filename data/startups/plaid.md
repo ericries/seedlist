@@ -64,6 +64,9 @@ investors:
 - round: Angel/Seed
   slug: zach-weinberg
   year: 2013
+- round: Seed
+  slug: amit-avner
+  year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

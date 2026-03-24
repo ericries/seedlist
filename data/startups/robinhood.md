@@ -82,6 +82,9 @@ investors:
 - round: '2013'
   slug: jan-hammer
   year: 2013
+- round: Unknown
+  slug: benny-peretz
+  year: 2020
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

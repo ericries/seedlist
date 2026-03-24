@@ -30,6 +30,9 @@ firms:
 - round: '2006'
   slug: greylock
   year: 2006
+- round: Founding President (operational)
+  slug: founders-fund
+  year: 2004
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -75,6 +78,9 @@ investors:
   year: 2006
 - round: ~2004
   slug: reid-hoffman
+  year: 2004
+- round: Founding President (operational)
+  slug: sean-parker
   year: 2004
 last_researched: 2026-03-13
 location: Menlo Park, CA

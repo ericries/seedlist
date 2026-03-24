@@ -36,6 +36,9 @@ firms:
 - round: ~2019
   slug: marathon-management-partners
   year: 2019
+- round: Seed
+  slug: operator-partners
+  year: 2020
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -70,6 +73,9 @@ investors:
 - round: ~2019
   slug: gokul-rajaram
   year: 2019
+- round: Seed
+  slug: amit-avner
+  year: 2020
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

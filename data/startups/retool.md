@@ -62,6 +62,9 @@ investors:
 - round: ~2022
   slug: ambar-bhattacharyya
   year: 2022
+- round: Growth
+  slug: carl-eschenbach
+  year: 2020
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Retool

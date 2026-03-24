@@ -45,6 +45,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2019
+- round: Seed
+  slug: operator-partners
+  year: 2020
 founded: 2012
 founders:
 - name: Sajith Wickramasekara
@@ -81,6 +84,9 @@ investors:
 - round: Series A
   slug: miles-grimshaw
   year: 2016
+- round: Seed
+  slug: amit-avner
+  year: 2020
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Benchling

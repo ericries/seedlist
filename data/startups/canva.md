@@ -54,6 +54,9 @@ investors:
 - round: ~2013
   slug: aydin-senkut
   year: 2013
+- round: Unknown
+  slug: benny-peretz
+  year: 2021
 last_researched: 2026-03-20
 location: Sydney, Australia
 name: Canva

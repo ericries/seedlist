@@ -88,6 +88,9 @@ investors:
 - round: ~2017
   slug: sriram-krishnan
   year: 2017
+- round: Unknown
+  slug: benny-peretz
+  year: 2020
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

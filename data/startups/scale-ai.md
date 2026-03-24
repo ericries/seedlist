@@ -100,6 +100,9 @@ investors:
 - round: Seed
   slug: guillermo-rauch
   year: 2017
+- round: Unknown
+  slug: benny-peretz
+  year: 2021
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

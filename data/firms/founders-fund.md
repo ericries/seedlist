@@ -1,49 +1,68 @@
 ---
-name: "Founders Fund"
-slug: founders-fund
-type: firm
-website: "https://foundersfund.com"
-location: "San Francisco, CA"
 founded: 2005
-fund_size: "$50M (Fund I, 2005); $220M (Fund II, 2007); $250M (Fund III, 2010); $625M (Fund IV, 2011); $1B (Fund V, 2014); $1.3B (Fund VI, 2016); $1.5B (Fund VII, 2020); $900M (Fund VIII, 2022); $1.5B (Growth I, 2020); $3.4B (Growth II, 2022); $4.6B (Growth III, 2025); ~$6B (Growth IV, 2026)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, defense-tech, aerospace, fintech, enterprise-saas, biotech, crypto, consumer-internet, hard-tech]
-team:
-  - slug: peter-thiel
-    role: "Founder & Partner"
-    name: "Peter Thiel"
-  - slug: napoleon-ta
-    role: "Partner"
-    name: "Napoleon Ta"
-  - slug: trae-stephens
-    role: "Partner"
-    name: "Trae Stephens"
-  - slug: scott-nolan
-    role: "Partner"
-    name: "Scott Nolan"
-  - slug: john-luttig
-    role: "Partner"
-    name: "John Luttig"
-  - slug: delian-asparouhov
-    role: "Partner"
-    name: "Delian Asparouhov"
-  - slug: matias-van-thienen
-    role: "Partner"
-    name: "Matias Van Thienen"
-  - slug: amin-mirzadegan
-    role: "Partner"
-    name: "Amin Mirzadegan"
-  - slug: joey-krug
-    role: "Partner"
-    name: "Joey Krug"
-  - slug: sean-liu
-    role: "Partner"
-    name: "Sean Liu"
-  - slug: lauren-gross
-    role: "Partner & COO"
-    name: "Lauren Gross"
-status: published
+fund_size: $50M (Fund I, 2005); $220M (Fund II, 2007); $250M (Fund III, 2010); $625M
+  (Fund IV, 2011); $1B (Fund V, 2014); $1.3B (Fund VI, 2016); $1.5B (Fund VII, 2020);
+  $900M (Fund VIII, 2022); $1.5B (Growth I, 2020); $3.4B (Growth II, 2022); $4.6B
+  (Growth III, 2025); ~$6B (Growth IV, 2026)
 last_researched: 2026-03-14
+location: San Francisco, CA
+name: Founders Fund
+sector_focus:
+- ai
+- defense-tech
+- aerospace
+- fintech
+- enterprise-saas
+- biotech
+- crypto
+- consumer-internet
+- hard-tech
+slug: founders-fund
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Peter Thiel
+  role: Founder & Partner
+  slug: peter-thiel
+- name: Napoleon Ta
+  role: Partner
+  slug: napoleon-ta
+- name: Trae Stephens
+  role: Partner
+  slug: trae-stephens
+- name: Scott Nolan
+  role: Partner
+  slug: scott-nolan
+- name: John Luttig
+  role: Partner
+  slug: john-luttig
+- name: Delian Asparouhov
+  role: Partner
+  slug: delian-asparouhov
+- name: Matias Van Thienen
+  role: Partner
+  slug: matias-van-thienen
+- name: Amin Mirzadegan
+  role: Partner
+  slug: amin-mirzadegan
+- name: Joey Krug
+  role: Partner
+  slug: joey-krug
+- name: Sean Liu
+  role: Partner
+  slug: sean-liu
+- name: Lauren Gross
+  role: Partner & COO
+  slug: lauren-gross
+- name: Sean Parker
+  role: Former Managing Partner
+  slug: sean-parker
+type: firm
+website: https://foundersfund.com
 ---
 
 ## About

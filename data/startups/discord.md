@@ -67,6 +67,9 @@ investors:
 - round: '2016'
   slug: david-sze
   year: 2016
+- round: Unknown
+  slug: benny-peretz
+  year: 2020
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Discord

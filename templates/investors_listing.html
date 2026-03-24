@@ -128,12 +128,29 @@
     cards.forEach(function(card) { grid.appendChild(card); });
   }
 
+  // Ensure a select has the given value as an option, adding it if needed
+  function ensureOption(selectEl, value) {
+    if (!value) return;
+    for (var i = 0; i < selectEl.options.length; i++) {
+      if (selectEl.options[i].value === value) {
+        selectEl.value = value;
+        return;
+      }
+    }
+    // Not found — add it
+    var opt = document.createElement('option');
+    opt.value = value;
+    opt.textContent = value;
+    selectEl.appendChild(opt);
+    selectEl.value = value;
+  }
+
   // Read URL query params and set filters on load
   var params = new URLSearchParams(window.location.search);
-  if (params.get('stage')) stageEl.value = params.get('stage');
-  if (params.get('sector')) sectorEl.value = params.get('sector');
-  if (params.get('location')) locationEl.value = params.get('location');
-  if (params.get('sort')) sortEl.value = params.get('sort');
+  if (params.get('stage')) ensureOption(stageEl, params.get('stage'));
+  if (params.get('sector')) ensureOption(sectorEl, params.get('sector'));
+  if (params.get('location')) ensureOption(locationEl, params.get('location'));
+  if (params.get('sort')) ensureOption(sortEl, params.get('sort'));
 
   // Update URL when filters change (without reloading)
   function updateUrl() {

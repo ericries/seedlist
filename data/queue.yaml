@@ -386,7 +386,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Character.AI
   type: startup
@@ -3354,7 +3354,7 @@ queue:
 - name: Version One Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: boris-wertz
 - name: Albert Chiang
@@ -3408,7 +3408,7 @@ queue:
 - name: Pantera Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pantera Capital
   discovered_from: dan-morehead
@@ -3762,7 +3762,7 @@ queue:
 - name: Brett Berson
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: first-round-capital
   discovered_from: first-round-capital
@@ -4025,14 +4025,14 @@ queue:
 - name: Sean Parker
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Founders Fund
   discovered_from: spotify
 - name: Carl Eschenbach
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sequoia Capital
   discovered_from: zoom-video-communications
@@ -5858,7 +5858,7 @@ queue:
 - name: Amit Avner
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Operator Partners
   discovered_from: nat-turner

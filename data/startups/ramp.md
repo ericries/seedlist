@@ -111,6 +111,9 @@ investors:
 - round: ~2020
   slug: bennett-siegel
   year: 2020
+- round: Seed
+  slug: amit-avner
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp
