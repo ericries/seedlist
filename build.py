@@ -175,6 +175,66 @@ def build_enrichment_index(investors, firms, queue_path):
     return index
 
 
+def build_startup_investor_map(startups, investor_lookup, firm_lookup):
+    """Build a JSON map of startups to their investors for the comparable companies finder."""
+    startup_list = []
+    startup_investors = {}
+
+    for s in startups:
+        slug = s.get("slug", "")
+        if not slug:
+            continue
+        startup_list.append({
+            "slug": slug,
+            "name": s.get("name", ""),
+            "sector": s.get("sector", []),
+            "stage": s.get("stage_latest", ""),
+        })
+
+        investors_for_startup = []
+
+        # Add individual investors
+        for inv_entry in (s.get("investors") or []):
+            inv_slug = inv_entry.get("slug", "")
+            inv_data = investor_lookup.get(inv_slug, {})
+            inv_name = inv_data.get("name", inv_slug)
+            inv_firm = inv_data.get("firm", "")
+            firm_name = firm_lookup.get(inv_firm, {}).get("name", "") if inv_firm else ""
+            has_profile = inv_slug in investor_lookup
+            investors_for_startup.append({
+                "slug": inv_slug,
+                "name": inv_name,
+                "type": "individual",
+                "firm": firm_name or inv_firm,
+                "round": inv_entry.get("round", ""),
+                "year": inv_entry.get("year", ""),
+                "has_profile": has_profile,
+            })
+
+        # Add firms
+        for firm_entry in (s.get("firms") or []):
+            firm_slug = firm_entry.get("slug", "")
+            firm_data = firm_lookup.get(firm_slug, {})
+            firm_name = firm_data.get("name", firm_slug)
+            has_profile = firm_slug in firm_lookup
+            investors_for_startup.append({
+                "slug": firm_slug,
+                "name": firm_name,
+                "type": "firm",
+                "firm": "",
+                "round": firm_entry.get("round", ""),
+                "year": firm_entry.get("year", ""),
+                "has_profile": has_profile,
+            })
+
+        startup_investors[slug] = investors_for_startup
+
+    return {
+        "startups": startup_list,
+        "startup_investors": startup_investors,
+    }
+
+
 def linkify_profile_content(html, startup_lookup, investor_lookup, firm_lookup):
     """Auto-link known entity names in table cells to their profile pages."""
     if not html:
@@ -429,6 +489,10 @@ def build():
     # Generate enrichment index for /enrich page
     enrichment_index = build_enrichment_index(investors, firms, DATA_DIR / "queue.yaml")
     (OUTPUT_DIR / "enrichment-index.json").write_text(json.dumps(enrichment_index))
+
+    # Generate startup-investor map for comparable companies finder
+    startup_investor_map = build_startup_investor_map(startups, investor_lookup, firm_lookup)
+    (OUTPUT_DIR / "startup-investor-map.json").write_text(json.dumps(startup_investor_map))
 
     # Render enrich page
     enrich_tmpl_path = TEMPLATES_DIR / "enrich.html"

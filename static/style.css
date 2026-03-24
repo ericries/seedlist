@@ -749,6 +749,150 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   line-height: 1.5;
 }
 
+/* ===== Comparable Companies Finder ===== */
+.find-divider {
+  text-align: center;
+  margin: 2rem 0;
+  position: relative;
+}
+.find-divider::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 1px;
+  background: var(--color-border);
+}
+.find-divider span {
+  position: relative;
+  background: var(--color-bg);
+  padding: 0 1rem;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.comp-form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.comp-search-wrap {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+
+.comp-search-input {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  font-size: 0.95rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  outline: none;
+}
+.comp-search-input:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.comp-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 50;
+}
+
+.comp-dropdown-item {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.comp-dropdown-item:hover,
+.comp-dropdown-item.active {
+  background: var(--color-surface);
+}
+.comp-dropdown-item .comp-item-sector {
+  font-size: 0.75rem;
+  color: var(--color-muted);
+}
+
+.comp-selected {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 1rem;
+  min-height: 2rem;
+}
+
+.comp-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.6rem;
+  background: var(--color-accent-light);
+  color: var(--color-accent);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.comp-chip-remove {
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  opacity: 0.6;
+}
+.comp-chip-remove:hover {
+  opacity: 1;
+}
+
+.comp-results {
+  margin-top: 1.5rem;
+}
+
+.comp-group-header {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.comp-investor-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.4rem 0;
+  font-size: 0.9rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.comp-investor-name {
+  font-weight: 600;
+}
+
+.comp-investor-firm {
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+}
+
+.comp-investor-companies {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  text-align: right;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.5rem; }
