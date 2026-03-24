@@ -122,18 +122,46 @@
   function submitCandidates(candidates) {
     if (!candidates || !candidates.length) return;
 
-    var title = "CSV candidates: " + candidates.length + " investors";
+    // GitHub GET URLs have a practical limit (~8192 chars).
+    // Batch candidates into chunks that fit within the limit.
+    var URL_LIMIT = 7500; // conservative limit for encoded URL
+    var batches = [];
+    var current = [];
+
+    candidates.forEach(function (c) {
+      current.push(c);
+      // Test if current batch would exceed URL limit
+      var testBody = buildCandidateBody(current, candidates.length, batches.length + 1);
+      var testTitle = "CSV candidates: " + candidates.length + " investors (part " + (batches.length + 1) + ")";
+      var testUrl = buildGitHubIssueUrl(testTitle, testBody, "csv-unmatched");
+      if (testUrl.length > URL_LIMIT && current.length > 1) {
+        // Remove last item, finalize this batch
+        current.pop();
+        batches.push(current);
+        current = [c];
+      }
+    });
+    if (current.length) batches.push(current);
+
+    batches.forEach(function (batch, i) {
+      var part = batches.length > 1 ? " (part " + (i + 1) + "/" + batches.length + ")" : "";
+      var title = "CSV candidates: " + candidates.length + " investors" + part;
+      var body = buildCandidateBody(batch, candidates.length, i + 1);
+      var issueUrl = buildGitHubIssueUrl(title, body, "csv-unmatched");
+      window.open(issueUrl, "_blank");
+    });
+  }
+
+  function buildCandidateBody(batch, totalCount, partNum) {
     var lines = ["<!-- csv-unmatched -->"];
     lines.push("submitted: " + new Date().toISOString());
+    lines.push("total_candidates: " + totalCount);
     lines.push("candidates:");
-    candidates.forEach(function (c) {
+    batch.forEach(function (c) {
       lines.push('  - name: "' + (c.name || "").replace(/"/g, '\\"') + '"');
       lines.push('    firm: "' + (c.firm || "").replace(/"/g, '\\"') + '"');
     });
-
-    var body = lines.join("\n");
-    var issueUrl = buildGitHubIssueUrl(title, body, "csv-unmatched");
-    window.open(issueUrl, "_blank");
+    return lines.join("\n");
   }
 
   // ── Public API ──

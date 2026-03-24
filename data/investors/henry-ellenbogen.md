@@ -52,28 +52,28 @@ On capital deployment, Ellenbogen has stated: "If capital isn't going to be free
 
 ## Inferred Thesis
 
-The analysis below is based on 20 verified private investments by Durable Capital Partners, identified from press releases, Crunchbase, Tracxn, and news coverage. Durable has made approximately 52 total investments (public and private combined) since founding in 2019 [^13]. The private investment analysis below focuses on the venture/growth equity side.
+The analysis below is based on 17 verified private investment rounds across 14 unique companies by Durable Capital Partners, identified from press releases, Crunchbase, Tracxn, and news coverage. Durable has made approximately 52 total investments (public and private combined) since founding in 2019 [^13]. The private investment analysis below focuses on the venture/growth equity side.
 
-**Stage distribution (based on 20 verified private investments):**
-- Late-stage/pre-IPO (Series D+): 14 of 20 (70%) — Figma (Series D and E), Affirm (Series G), DoorDash (Series H), Deliveroo (Series H), Celonis (Series D), ServiceTitan (Series F), Brex (Series D), Clearwater Analytics, Parloa (Series C and D)
-- Growth stage (Series B-C): 5 of 20 (25%) — Rapyd, Facet Wealth (Series C), Honest Health, Evolve, VieCure
-- Early stage: 1 of 20 (5%) — Duolingo (Series H, but at relatively early growth phase)
+**Stage distribution (based on 17 verified private investment rounds):**
+- Late-stage/pre-IPO (Series D+): 12 of 17 (71%) — Figma (Series D and E), Affirm (Series G), DoorDash (Series H), Deliveroo (Series H), Celonis (Series D), ServiceTitan (Series F), Brex (Series D), Parloa (Series C and D), Duolingo (Series H)
+- Growth stage: 5 of 17 (29%) — Rapyd, Clearwater Analytics, Facet Wealth (Series C), Honest Health, Evolve, VieCure
 
 Durable is overwhelmingly a late-stage crossover investor in private markets, participating in Series D and later rounds. This is consistent with Ellenbogen's public-market roots and the firm's unified public/private approach.
 
-**Sector breakdown (based on 20 verified private investments):**
-- Technology / enterprise software: 7 of 20 (35%) — Figma, Celonis, ServiceTitan, Parloa, Clearwater Analytics, Brex, Eventbrite
-- Fintech: 5 of 20 (25%) — Affirm, Rapyd, Facet Wealth, SoFi, Brex
-- Consumer / delivery: 3 of 20 (15%) — DoorDash, Deliveroo, Coupang
-- Healthcare: 2 of 20 (10%) — Honest Health, VieCure
-- Travel / hospitality: 1 of 20 (5%) — Evolve
-- Education: 1 of 20 (5%) — Duolingo
+**Sector breakdown (based on 14 unique private portfolio companies):**
+- Technology / enterprise software: 5 of 14 (36%) — Figma, Celonis, ServiceTitan, Parloa, Clearwater Analytics
+- Fintech: 3 of 14 (21%) — Affirm, Rapyd, Facet Wealth
+- Consumer / delivery: 2 of 14 (14%) — DoorDash, Deliveroo
+- Healthcare: 2 of 14 (14%) — Honest Health, VieCure
+- Fintech / enterprise: 1 of 14 (7%) — Brex
+- Travel / hospitality: 1 of 14 (7%) — Evolve
+- Education: 1 of 14 (7%) — Duolingo
 
-Note: Some companies span multiple sectors (e.g., Brex is both fintech and enterprise software); each is counted once in its primary category.
+Note: Some companies (e.g., Coupang, SoFi, Eventbrite) are known Durable holdings but their specific private investment rounds could not be independently verified, so they are excluded from this analysis.
 
-**Geographic concentration (based on 20 verified private investments):**
-- United States: 15 of 20 (75%)
-- International: 5 of 20 (25%) — Deliveroo (UK), Coupang (South Korea), Rapyd (UK/Israel), Celonis (Germany), Parloa (Germany)
+**Geographic concentration (based on 14 unique private portfolio companies):**
+- United States: 10 of 14 (71%)
+- International: 4 of 14 (29%) — Deliveroo (UK), Rapyd (UK/Israel), Celonis (Germany), Parloa (Germany)
 
 **Check size patterns:**
 Durable invests at significant scale in private rounds. Known examples include co-leading Affirm's $500M Series G [^14], leading Deliveroo's $180M Series H [^15], leading Duolingo's $35M Series H [^16], leading Facet Wealth's $100M Series C [^17], and leading Evolve's $100M round [^18]. Typical check sizes appear to be $20M–$200M+ in late-stage private rounds.
@@ -86,7 +86,7 @@ Ellenbogen's "Act II" framework suggests a preference for experienced, repeat fo
 
 **Notable patterns not in stated thesis:**
 - Durable functions more as a crossover hedge fund than a traditional venture firm — it holds concentrated public equity positions and makes selective late-stage private investments, typically 5–10 new investments per year [^9].
-- The firm has shown willingness to invest internationally (25% of verified private portfolio), particularly in European and Asian growth companies, despite being U.S.-headquartered.
+- The firm has shown willingness to invest internationally (4 of 14 verified private companies, 29%), particularly in European growth companies, despite being U.S.-headquartered.
 - Several portfolio companies (Affirm, DoorDash, Duolingo, Deliveroo, ServiceTitan, Figma) went on to IPO after Durable's investment, consistent with a pre-IPO crossover strategy.
 
 ## Portfolio
