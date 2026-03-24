@@ -6376,3 +6376,53 @@ queue:
   priority: normal
   status: pending
   added: '2026-03-23'
+- name: Amjad Masad
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Replit
+  discovered_from: guillermo-rauch
+- name: Paul Copplestone
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Supabase
+  discovered_from: guillermo-rauch
+- name: Mischief
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zach-perrett
+- name: CRV
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vercel
+- name: Bedrock Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vercel
+- name: Breyer Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jim-breyer
+- name: Cityblock Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ambar-bhattacharyya
+- name: Garner Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ambar-bhattacharyya
