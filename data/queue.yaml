@@ -474,7 +474,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Kumo.AI
   type: startup
@@ -514,7 +514,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: SnapLogic
   type: startup
@@ -3657,7 +3657,7 @@ queue:
 - name: FJ Labs
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: FJ Labs
   discovered_from: fabrice-grinda
@@ -5865,7 +5865,7 @@ queue:
 - name: Gil Shklarski
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Operator Partners
   discovered_from: nat-turner
@@ -6107,7 +6107,7 @@ queue:
     42 web3 investments'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Olaf Carlson-Wee
   type: individual
@@ -6142,7 +6142,7 @@ queue:
     Illumina/GRAIL'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Noubar Afeyan
   type: individual
@@ -6298,7 +6298,7 @@ queue:
     funds'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Sophia Bendz
   type: individual

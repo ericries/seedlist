@@ -87,6 +87,9 @@ investors:
 - round: Seed
   slug: amit-avner
   year: 2020
+- round: Seed
+  slug: balaji-srinivasan
+  year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Benchling
