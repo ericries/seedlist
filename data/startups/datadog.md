@@ -6,6 +6,9 @@ firms:
 - round: Series A
   slug: index-ventures
   year: 2012
+- round: Growth / public
+  slug: dragoneer
+  year: 2019
 founded: 2010
 founders:
 - name: Olivier Pomel
@@ -16,6 +19,9 @@ investors:
 - round: Series A
   slug: shardul-shah
   year: 2012
+- round: Growth / public
+  slug: marc-stad
+  year: 2019
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

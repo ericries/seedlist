@@ -105,6 +105,9 @@ firms:
 - round: Angel
   slug: angellist
   year: 2010
+- round: Late-stage
+  slug: dragoneer
+  year: 2018
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -178,6 +181,9 @@ investors:
 - round: Angel
   slug: naval-ravikant
   year: 2010
+- round: Late-stage
+  slug: marc-stad
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

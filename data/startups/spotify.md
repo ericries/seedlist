@@ -103,6 +103,9 @@ investors:
 - round: Growth (direct listing NYSE 2018)
   slug: jim-breyer
   year: 2011
+- round: Pre-IPO debt
+  slug: marc-stad
+  year: 2016
 last_researched: 2026-03-19
 location: Stockholm, Sweden
 name: Spotify

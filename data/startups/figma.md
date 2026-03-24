@@ -39,6 +39,9 @@ firms:
 - round: ~2017
   slug: andreessen-horowitz
   year: 2017
+- round: Series D
+  slug: durable-capital-partners
+  year: 2020
 founded: 2012
 founders:
 - name: Dylan Field
@@ -90,6 +93,9 @@ investors:
   year: 2017
 - round: Unknown
   slug: benny-peretz
+  year: 2020
+- round: Series D
+  slug: henry-ellenbogen
   year: 2020
 last_researched: 2026-03-13
 location: San Francisco, CA

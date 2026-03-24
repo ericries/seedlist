@@ -24,6 +24,9 @@ firms:
 - round: ~2012
   slug: craft-ventures
   year: 2012
+- round: Series G
+  slug: durable-capital-partners
+  year: 2020
 founded: 2012
 founders:
 - name: Max Levchin
@@ -53,6 +56,9 @@ investors:
 - round: ~2014
   slug: keith-rabois
   year: 2014
+- round: Series G
+  slug: henry-ellenbogen
+  year: 2020
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

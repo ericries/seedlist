@@ -133,7 +133,7 @@ Ho Nam on his initial reaction to Roblox: He initially thought the idea was "the
 
 Seunggun Lee, founder of Toss (Viva Republica), on Han Kim's early belief in him as a founder: "I don't know how, but he had that belief... I guess he was invested in my integrity and spirit." [^26]
 
-Kim Bong-jin, founder of Woowa Brothers (Baemin), initially had his investment pitch rejected by Altos twice, but persistently returned. The Altos team ultimately invested after observing the company's surprisingly growing monthly revenue data, recognizing what they described as "entrepreneurs with drive, substantial growth, and perseverance" [^26].
+Kim Bong-jin, founder of Woowa Brothers (Baemin), initially had his investment pitch rejected by Altos twice, but persistently returned. The Altos team ultimately invested after observing the company's surprisingly growing monthly revenue data, recognizing what they described as "entrepreneurs with drive, substantial growth, and perseverance" [^27].
 
 No additional independently sourced founder testimonials were found through dedicated searching. The firm's long-tenured relationships with founders like David Baszucki (Roblox, 17+ year relationship) and Bom Suk Kim (Coupang) are well-documented in investor interviews but verbatim founder-side quotes about the experience of working with Altos are scarce in public sources.
 
@@ -146,22 +146,23 @@ No additional independently sourced founder testimonials were found through dedi
 [^5]: Harvard Business School, "Altos Ventures (A)," Case No. 823035, 2022, accessed March 2026. https://www.hbs.edu/faculty/Pages/item.aspx?num=62780
 [^6]: Acquired podcast, "Special: Ho Nam from Altos Ventures — A Different Approach to VC: The Complete History and Strategy," 2021, accessed March 2026. https://www.acquired.fm/episodes/special-ho-nam-from-altos-ventures-a-different-approach-to-vc
 [^7]: Jermaine Brown, "Struggle Led Ho Nam and Altos Ventures to Billions," accessed March 2026. https://www.jermainebrown.org/posts/struggle-led-ho-nam-and-altos-ventures-to-billions
-[^8]: Altos Ventures website, accessed March 2026. https://altos.vc/
-[^9]: TechCrunch, "Altos Ventures, an early backer of Coupang and Roblox, raises $500M fund," November 12, 2024, accessed March 2026. https://techcrunch.com/2024/11/12/altos-ventures-an-early-backer-of-coupang-and-roblox-raises-500m-fund/
-[^10]: Mario Gabriele, The Generalist, "Letters to a Young Investor: Ho Nam," accessed March 2026. https://www.generalist.com/p/ho-nam-1
-[^11]: Mario Gabriele, The Generalist, "Ho Nam on an Investor's Legacy," accessed March 2026. https://www.generalist.com/p/ho-nam-3
-[^12]: Tracxn, "Altos Ventures Management — 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/altosventuresmanagement/__UP29_XdU2O1-uHVPLItJ88qDLha-JVpIPGrVnhJK8Xk
-[^13]: Fortune, "It's a pretty good week for Altos Ventures," March 11, 2021, accessed March 2026. https://fortune.com/2021/03/11/its-a-pretty-good-week-for-altos-ventures/
-[^14]: Demandbase press release, "Demandbase Secures $10 Million in Venture Funding," May 2011, accessed March 2026. https://www.demandbase.com/press-release/demandbase-secures-10m-in-funding-may-2011/
-[^15]: KED Global, "Korea VC firms reap big rewards for investing in early-stage startups," September 5, 2021, accessed March 2026. https://www.kedglobal.com/venture-capital/newsView/ked202109050001
-[^16]: KED Global, "Match Group buys Korean video chat startup for $1.73 bn," February 10, 2021, accessed March 2026. https://www.kedglobal.com/startup-m-as/newsView/ked202102100013
-[^17]: Tracxn, "Quizlet — 2025 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/quizlet/__To5CMZ4qvuGCqrqDQ0nw7Pzsk0JvCMTchX4O-wRmMzE/funding-and-investors
-[^18]: TechCrunch, "PandaDoc, the e-document startup, now valued at $1B as it closes a big Series C," September 22, 2021, accessed March 2026. https://techcrunch.com/2021/09/22/pandadoc-the-e-document-startup-now-valued-at-1b-as-it-closes-a-big-series-c/
-[^19]: TechCrunch, "Viva Republica, developer of Korean financial super app Toss, raises $410M at a $7.4B valuation," June 22, 2021, accessed March 2026. https://techcrunch.com/2021/06/22/viva-republica-developer-of-korean-financial-super-app-toss-raises-410m-at-a-7-4b-valuation/
-[^20]: PR Newswire, "Sharing Economy Pioneer 'Outdoorsy' Raises $25M in Series B Funding," 2018, accessed March 2026. https://www.prnewswire.com/news-releases/sharing-economy-pioneer-outdoorsy-raises-25m-in-series-b-funding-300597095.html
-[^21]: KoreaTechDesk, "Top Korean Venture Capital Firms Backing Startup Success," accessed March 2026. https://koreatechdesk.com/top-korean-venture-capital-firms-backing-startup-success
-[^22]: BetaKit, "Neo Financial secures $64 million CAD led by Peter Thiel-backed Valar Ventures," accessed March 2026. https://betakit.com/neo-financial-secures-64-million-cad-led-by-peter-thiel-backed-valar-ventures/
-[^23]: AlleyWatch, "PermitFlow Raises $54M to Cut Permit Approval Times from Months to Days," December 2025, accessed March 2026. https://www.alleywatch.com/2025/12/permitflow-permit-automation-software-construction-ai-platform-francis-thumpasery/
-[^24]: Liberty RPF, "Interview with Ho Nam of Altos Ventures," accessed March 2026. https://www.libertyrpf.com/p/interview-with-ho-nam-of-altos-ventures
-[^25]: CNBC, "Why investor Altos Ventures backed Toss' failed entrepreneur founder," September 26, 2019, accessed March 2026. https://www.cnbc.com/2019/09/26/why-investor-altos-ventures-backed-toss-failed-entrepreneur-founder.html
-[^26]: InvestKOREA, "When Opportunity Knocks: Interview with Altos Ventures," accessed March 2026. https://www.investkorea.org/ik-en/bbs/i-5004/detail.do?ntt_sn=490802
+[^8]: Harvey Mudd College Magazine, "Building Success with Heart," Spring 2024, accessed March 2026. https://magazine.hmc.edu/spring-2024/building-success-with-heart/
+[^9]: Altos Ventures website, accessed March 2026. https://altos.vc/
+[^10]: TechCrunch, "Altos Ventures, an early backer of Coupang and Roblox, raises $500M fund," November 12, 2024, accessed March 2026. https://techcrunch.com/2024/11/12/altos-ventures-an-early-backer-of-coupang-and-roblox-raises-500m-fund/
+[^11]: Mario Gabriele, The Generalist, "Letters to a Young Investor: Ho Nam," accessed March 2026. https://www.generalist.com/p/ho-nam-1
+[^12]: Mario Gabriele, The Generalist, "Ho Nam on an Investor's Legacy," accessed March 2026. https://www.generalist.com/p/ho-nam-3
+[^13]: Tracxn, "Altos Ventures Management — 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/altosventuresmanagement/__UP29_XdU2O1-uHVPLItJ88qDLha-JVpIPGrVnhJK8Xk
+[^14]: Fortune, "It's a pretty good week for Altos Ventures," March 11, 2021, accessed March 2026. https://fortune.com/2021/03/11/its-a-pretty-good-week-for-altos-ventures/
+[^15]: Demandbase press release, "Demandbase Secures $10 Million in Venture Funding," May 2011, accessed March 2026. https://www.demandbase.com/press-release/demandbase-secures-10m-in-funding-may-2011/
+[^16]: KED Global, "Korea VC firms reap big rewards for investing in early-stage startups," September 5, 2021, accessed March 2026. https://www.kedglobal.com/venture-capital/newsView/ked202109050001
+[^17]: KED Global, "Match Group buys Korean video chat startup for $1.73 bn," February 10, 2021, accessed March 2026. https://www.kedglobal.com/startup-m-as/newsView/ked202102100013
+[^18]: Tracxn, "Quizlet — 2025 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/quizlet/__To5CMZ4qvuGCqrqDQ0nw7Pzsk0JvCMTchX4O-wRmMzE/funding-and-investors
+[^19]: TechCrunch, "PandaDoc, the e-document startup, now valued at $1B as it closes a big Series C," September 22, 2021, accessed March 2026. https://techcrunch.com/2021/09/22/pandadoc-the-e-document-startup-now-valued-at-1b-as-it-closes-a-big-series-c/
+[^20]: TechCrunch, "Viva Republica, developer of Korean financial super app Toss, raises $410M at a $7.4B valuation," June 22, 2021, accessed March 2026. https://techcrunch.com/2021/06/22/viva-republica-developer-of-korean-financial-super-app-toss-raises-410m-at-a-7-4b-valuation/
+[^21]: PR Newswire, "Sharing Economy Pioneer 'Outdoorsy' Raises $25M in Series B Funding," 2018, accessed March 2026. https://www.prnewswire.com/news-releases/sharing-economy-pioneer-outdoorsy-raises-25m-in-series-b-funding-300597095.html
+[^22]: KoreaTechDesk, "Top Korean Venture Capital Firms Backing Startup Success," accessed March 2026. https://koreatechdesk.com/top-korean-venture-capital-firms-backing-startup-success
+[^23]: BetaKit, "Neo Financial secures $64 million CAD led by Peter Thiel-backed Valar Ventures," accessed March 2026. https://betakit.com/neo-financial-secures-64-million-cad-led-by-peter-thiel-backed-valar-ventures/
+[^24]: AlleyWatch, "PermitFlow Raises $54M to Cut Permit Approval Times from Months to Days," December 2025, accessed March 2026. https://www.alleywatch.com/2025/12/permitflow-permit-automation-software-construction-ai-platform-francis-thumpasery/
+[^25]: Liberty RPF, "Interview with Ho Nam of Altos Ventures," accessed March 2026. https://www.libertyrpf.com/p/interview-with-ho-nam-of-altos-ventures
+[^26]: CNBC, "Why investor Altos Ventures backed Toss' failed entrepreneur founder," September 26, 2019, accessed March 2026. https://www.cnbc.com/2019/09/26/why-investor-altos-ventures-backed-toss-failed-entrepreneur-founder.html
+[^27]: InvestKOREA, "When Opportunity Knocks: Interview with Altos Ventures," accessed March 2026. https://www.investkorea.org/ik-en/bbs/i-5004/detail.do?ntt_sn=490802

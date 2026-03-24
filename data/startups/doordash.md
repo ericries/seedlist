@@ -45,6 +45,12 @@ firms:
 - round: ~2019
   slug: a-star-capital
   year: 2019
+- round: Growth
+  slug: dragoneer
+  year: 2018
+- round: Series H
+  slug: durable-capital-partners
+  year: 2020
 founded: 2013
 founders:
 - name: Tony Xu
@@ -104,6 +110,12 @@ investors:
 - round: ~2019
   slug: bennett-siegel
   year: 2019
+- round: Growth
+  slug: marc-stad
+  year: 2018
+- round: Series H
+  slug: henry-ellenbogen
+  year: 2020
 last_researched: 2026-03-13
 location: San Francisco, California
 name: DoorDash

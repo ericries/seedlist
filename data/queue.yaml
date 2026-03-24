@@ -3429,7 +3429,7 @@ queue:
 - name: gradCapital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: gradCapital
   discovered_from: angela-tran
@@ -6210,7 +6210,7 @@ queue:
   source: 'Collection gap analysis: Hedge Fund Crossovers — $23B fund, Airbnb/Uber/Slack/Spotify/DoorDash'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Henry Ellenbogen
   type: individual

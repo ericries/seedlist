@@ -94,6 +94,9 @@ investors:
 - round: '2017'
   slug: neil-rimer
   year: 2017
+- round: Series H (co-lead, $520M)
+  slug: marc-stad
+  year: 2021
 last_researched: 2026-03-19
 location: San Mateo, CA
 name: Roblox

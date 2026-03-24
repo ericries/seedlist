@@ -103,6 +103,9 @@ firms:
 - round: Series E
   slug: greenoaks
   year: 2014
+- round: Series D ($160M round)
+  slug: dragoneer
+  year: 2013
 founded: 2007
 founders:
 - name: Sachin Bansal
@@ -134,6 +137,9 @@ investors:
 - round: Series E
   slug: benny-peretz
   year: 2014
+- round: Series D ($160M round)
+  slug: marc-stad
+  year: 2013
 last_researched: 2026-03-19
 location: Bengaluru, India
 name: Flipkart

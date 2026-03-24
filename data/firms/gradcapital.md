@@ -24,7 +24,7 @@ team:
   - slug: sambhav-jain-gradcapital
     role: "Partner"
     name: "Sambhav Jain"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 
@@ -50,11 +50,11 @@ As of 2025, the firm has expanded its investment tiers: $200,000 for 10% for stu
 
 ## Inferred Thesis
 
-Based on 17 verified investments (approximately 50% of the firm's claimed 34 portfolio companies), the following patterns emerge. Sample size is moderate; percentages should be treated as directional.
+Based on 12 verified investments (approximately 35% of the firm's claimed 34 portfolio companies), the following patterns emerge. Sample size is small; percentages should be treated as directional.
 
 **Stage distribution:** All verified investments are at pre-seed stage, consistent with the firm's stated focus. gradCapital invests at the earliest stages — often when founders are still in college with little more than a prototype or project.
 
-**Sector breakdown:** The portfolio is genuinely sector-agnostic, spanning consumer tech (Zepto, Ripen, Nudgenow), deeptech/hardware (Airbound drones, MEINE Electric energy storage, Valerio Electric), edtech/AI (Stimuler, Codedamn), enterprise applications, and mobility (Pluto Mobility). Based on 17 verified companies: 4 consumer/commerce (24%), 4 deeptech/hardware (24%), 3 mobility/EV (18%), 2 edtech (12%), 2 enterprise/SaaS (12%), 2 other (12%). The sector-agnostic claim is supported by actual portfolio diversity.
+**Sector breakdown:** The portfolio is genuinely sector-agnostic, spanning consumer tech (Zepto, Ripen, Nudgenow), deeptech/hardware (Airbound drones, MEINE Electric energy storage, Valerio Electric), edtech/AI (Stimuler, Codedamn), enterprise applications, and mobility (Pluto Mobility). Based on 12 verified companies: 3 consumer/commerce (25%), 3 deeptech/hardware (25%), 2 mobility/EV (17%), 2 edtech (17%), 1 AI/ML (8%), 1 unknown (8%). The sector-agnostic claim is supported by actual portfolio diversity.
 
 **Geographic focus:** Predominantly India-based startups, with 2 investments in the United States out of approximately 34 total [^7]. Pan-India coverage with decentralized operations and campus partnerships [^4].
 
@@ -77,10 +77,10 @@ Based on 17 verified investments (approximately 50% of the firm's claimed 34 por
 | Codedamn | Pre-seed (pilot) | ~2021 | Edtech | Unknown [^4] |
 | Valerio Electric | Pre-seed (pilot) | ~2021 | EV charging | Unknown [^4] |
 | Neuralastic | Pre-seed (pilot) | ~2021 | AI/ML | Unknown [^4] |
-| Stimuler | Pre-seed | ~2022 | AI/speech tech | Active [^1][^13] |
+| Stimuler | Pre-seed | ~2022 | AI/speech tech | Active [^1][^5] |
 | Nudgenow | Pre-seed | ~2022 | Consumer/SaaS | Active [^1] |
-| Airbound | Pre-seed | ~2022 | Drone delivery | Active [^14] |
-| Ripen | Pre-seed | ~2023 | Consumer/fintech | Active [^13] |
+| Airbound | Pre-seed | ~2022 | Drone delivery | Active [^13] |
+| Ripen | Pre-seed | ~2023 | Consumer/fintech | Active [^5] |
 | Fragmynt (fka Hazlo) | Pre-seed | ~2022 | Unknown | Unknown [^3] |
 | MEINE Electric | Pre-seed | 2026 | Energy storage | Active [^11] |
 | Pluto Mobility | Seed | 2026 | EV/delivery vehicles | Active [^8] |
@@ -125,5 +125,4 @@ No additional independently sourced founder testimonials found beyond the BioCom
 [^10]: Anagha (BioCompute), "BioCompute X gradCapital," BioCompute blog, 2024. https://blog.biocomputeinc.com/p/biocompute-x-gradcapital
 [^11]: Energetica India, "Meine Electric Raises USD 750,000 Pre-Seed Funding to Scale Iron Air Long Duration Energy Storage Technology," January 2026. https://www.energetica-india.net/news/meine-electric-raises-usd-750000-pre-seed-funding-to-scale-iron-air-long-duration-energy-storage-technology
 [^12]: Startup Story Media, "gradCapital Launches $6 Million Fund for Indian Student Startups," September 2023. https://startupstorymedia.com/insights-gradcapital-launches-6-million-fund-for-indian-student-startups/
-[^13]: The News Minute, "Bengaluru-based gradCapital launches fund to support student startups," May 2021. https://www.thenewsminute.com/article/bengaluru-based-gradcapital-launches-fund-support-student-startups-149617
-[^14]: GlobeNewsWire, "Airbound Secures $1.7M to Make Drone Delivery Economically Viable Everywhere," November 2024. https://www.globenewswire.com/news-release/2024/11/14/2981152/0/en/Airbound-Secures-1-7M-to-Make-Drone-Delivery-Economically-Viable-Everywhere.html
+[^13]: GlobeNewsWire, "Airbound Secures $1.7M to Make Drone Delivery Economically Viable Everywhere," November 2024. https://www.globenewswire.com/news-release/2024/11/14/2981152/0/en/Airbound-Secures-1-7M-to-Make-Drone-Delivery-Economically-Viable-Everywhere.html

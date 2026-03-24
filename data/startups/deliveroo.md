@@ -52,6 +52,9 @@ firms:
 - round: Series C
   slug: greenoaks
   year: 2016
+- round: Series H
+  slug: durable-capital-partners
+  year: 2021
 founded: 2013
 founders:
 - name: Will Shu
@@ -71,6 +74,9 @@ investors:
 - round: Series C (co-led)
   slug: benny-peretz
   year: 2015
+- round: Series H
+  slug: henry-ellenbogen
+  year: 2021
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Deliveroo

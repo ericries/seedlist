@@ -61,6 +61,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2017
+- round: Series D
+  slug: durable-capital-partners
+  year: 2021
 founded: 2017
 founders:
 - name: Henrique Dubugras
@@ -98,6 +101,9 @@ investors:
 - round: Series D-2 (co-led)
   slug: benny-peretz
   year: 2022
+- round: Series D
+  slug: henry-ellenbogen
+  year: 2021
 last_researched: 2026-03-22
 location: San Francisco, CA
 name: Brex

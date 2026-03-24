@@ -42,6 +42,9 @@ firms:
 - round: Angel ($600K personal)
   slug: andreessen-horowitz
   year: 2009
+- round: Series D ($75M)
+  slug: dragoneer
+  year: 2014
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -102,6 +105,9 @@ investors:
 - round: Angel ($600K personal)
   slug: marc-andreessen
   year: 2009
+- round: Series D ($75M)
+  slug: marc-stad
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

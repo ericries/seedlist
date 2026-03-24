@@ -30,6 +30,9 @@ firms:
 - round: Series G ($30B)
   slug: greenoaks
   year: 2026
+- round: Series G (co-lead)
+  slug: dragoneer
+  year: 2026
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -76,6 +79,9 @@ investors:
 - round: '2025'
   slug: sameer-gandhi
   year: 2025
+- round: Series G (co-lead)
+  slug: marc-stad
+  year: 2026
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

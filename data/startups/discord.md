@@ -33,6 +33,9 @@ firms:
 - round: Growth
   slug: greenoaks
   year: 2020
+- round: Series I (lead, $500M)
+  slug: dragoneer
+  year: 2021
 founded: 2015
 founders:
 - name: Jason Citron
@@ -70,6 +73,9 @@ investors:
 - round: Unknown
   slug: benny-peretz
   year: 2020
+- round: Series I (lead, $500M)
+  slug: marc-stad
+  year: 2021
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Discord

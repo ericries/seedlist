@@ -33,6 +33,9 @@ firms:
 - round: Series A
   slug: andreessen-horowitz
   year: 2013
+- round: Series F
+  slug: dragoneer
+  year: 2019
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -83,6 +86,9 @@ investors:
 - round: Series A
   slug: ben-horowitz
   year: 2013
+- round: Series F
+  slug: marc-stad
+  year: 2019
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks
