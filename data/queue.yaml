@@ -3561,7 +3561,7 @@ queue:
 - name: Tensor Edge Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tensor Edge Capital
   discovered_from: romit-shah
@@ -6417,12 +6417,12 @@ queue:
 - name: Cityblock Health
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ambar-bhattacharyya
 - name: Garner Health
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ambar-bhattacharyya

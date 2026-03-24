@@ -15,6 +15,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2022
+- round: Early stage
+  slug: gil-capital
+  year: 2022
 founded: 2021
 founders:
 - name: Noam Shazeer

@@ -9,14 +9,14 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [b2b-saas, developer-tools, fintech, hr-tech, ai, productivity]
 check_size: "$100K-$10M"
 last_verified_investment:
-  date: 2026-01-07
-  company: "Luminate Medical"
+  date: 2026-03-18
+  company: "Meadow Memorials"
   round: "Series A"
 social:
   twitter: "@lachygroom"
   linkedin: "linkedin.com/in/lachy-groom-b218895"
 status: published
-last_researched: 2026-03-17
+last_researched: 2026-03-24
 ---
 
 ## Background
@@ -45,13 +45,13 @@ He has also been characterized as investing based on product-market pull — loo
 
 ## Inferred Thesis
 
-Based on analysis of 25 verified investments in the portfolio table below:
+Based on analysis of 35 verified investments (across ~30 unique companies, some with follow-on rounds) in the portfolio table below:
 
-**Stage distribution:** Groom invests across a wide range, but tilts toward early-to-growth stages. Of 25 verified investments: 5 seed (20%), 8 Series A (32%), 5 Series B (20%), 4 Series C (16%), 3 later-stage rounds (12%). Despite his stated focus on early-stage, a significant portion of his capital is deployed at Series A and beyond, consistent with his fund growing from ~$49M to $250M. He frequently leads rounds at seed through Series B.
+**Stage distribution:** Groom invests across a wide range, but tilts toward early-to-growth stages. Of 35 verified investment rounds: 10 seed/pre-seed (29%), 9 Series A (26%), 5 Series B (14%), 5 Series C (14%), 3 Series D+ or late-stage (9%), 3 unknown stage (9%). Despite his stated focus on early-stage, a significant portion of his capital is deployed at Series A and beyond, consistent with his fund growing from ~$49M to $250M. He frequently leads rounds at seed through Series B.
 
-**Sector breakdown:** The portfolio skews heavily toward B2B SaaS and workflow tools: 7 HR/workplace tools (28%) including Ashby, Humaans, Lattice, Ethena, Nooks, Deel, Vise; 5 fintech/payments (20%) including Ramp, Deel, Pipe, Metronome, Convictional; 4 AI/ML infrastructure (16%) including Roboflow, Replicate, turbopuffer, Speak; 3 developer tools (12%) including Deepnote, turbopuffer, Superhuman; 3 healthcare/biotech (12%) including Luminate Medical, Vital Biosciences, SWORD Health; 2 climate/other (8%) including Alt Carbon, Zepto. (Some companies span categories.)
+**Sector breakdown (35 unique companies):** The portfolio skews heavily toward B2B SaaS and workflow tools: 8 of 35 HR/workplace/productivity tools (23%) including Ashby, Humaans, Lattice, Ethena, Nooks, Deel, Rise, Vise; 6 of 35 fintech/payments (17%) including Ramp, Pipe, Metronome, Convictional, Imprint, Meter; 5 of 35 AI/ML infrastructure (14%) including Roboflow, Replicate, turbopuffer, Speak, Baseten; 5 of 35 healthcare/biotech (14%) including Luminate Medical, Vital Biosciences, SWORD Health, Even Healthcare, Modern Health; 3 of 35 developer tools/productivity (9%) including Deepnote, Superhuman, Notion; 3 of 35 climate/deep tech/defense (9%) including Alt Carbon, Hadrian, Anduril; 5 of 35 other (14%) including Zepto, Figma, Meadow Memorials, Airbound, OpenAI. (Some companies span categories.)
 
-**Geographic focus:** Predominantly US-based companies, especially San Francisco Bay Area. Notable exceptions include Humaans (UK-based), Luminate Medical (Ireland), Alt Carbon (India), Zepto (India), and turbopuffer (Denmark/US).
+**Geographic focus:** Predominantly US-based companies, especially San Francisco Bay Area. Notable international investments include Humaans (UK), Luminate Medical (Ireland), Alt Carbon (India), Zepto (India), Even Healthcare (India), Airbound (India), and turbopuffer (Denmark/US). India is emerging as a secondary market, with at least 4 investments there.
 
 **Check size and role:** Groom frequently leads rounds as sole or co-lead investor. He writes checks ranging from co-leading $2.1M seed rounds (Roboflow) to participating in $200M later-stage rounds (Zepto Series D). His sweet spot appears to be leading $15M-$30M Series A/B rounds. Signal by NFX reports his investment range as $100K-$10M with a $1M sweet spot [^7].
 
@@ -92,8 +92,15 @@ Based on analysis of 25 verified investments in the portfolio table below:
 | Alt Carbon | 2025 | Seed (lead) | Climate tech/Carbon removal | [^13] |
 | turbopuffer | 2025 | Pre-seed | AI/Search infrastructure | [^26] |
 | Luminate Medical | 2026 | Series A (co-lead) | Healthcare/Cancer treatment | [^25] |
+| Meadow Memorials | 2026 | Series A (co-led, $9M) | Services/End-of-life | [^29] |
+| Ashby | 2025 | Series D (co-led, $50M) | HR/Recruiting | [^30] |
+| Airbound | 2025 | Seed ($8.65M) | Drones/Logistics | [^31] |
+| Even Healthcare | 2026 | Series B (co-led, $20M) | Healthcare/Hospitals | [^32] |
+| Meter | 2021 | Series A (co-led, $35M) | Infrastructure/Networking | [^33] |
+| Rise | ~2022 | Seed (led, $3M) | Productivity/Calendaring | [^34] |
+| Imprint | ~2023 | Unknown | Fintech/Co-branded cards | [^35] |
 
-This table represents approximately 27 of Groom's 200+ claimed investments (roughly 13%). Different sources report varying portfolio sizes: PitchBook cites 204 investments across 122 companies; other aggregators report 146-209 investments [^1][^15]. The discrepancy likely reflects differences in counting methodology across personal angel investments, LGF fund investments, and SPV co-investments.
+This table represents approximately 35 unique companies of Groom's 200+ claimed investments (roughly 17%). Different sources report varying portfolio sizes: PitchBook cites 204 investments across 122 companies; other aggregators report 146-209 investments [^1][^15]. The discrepancy likely reflects differences in counting methodology across personal angel investments, LGF fund investments, and SPV co-investments.
 
 ## In Their Own Words
 
@@ -102,6 +109,10 @@ On investing in Nooks: "With their 4x year-over-year growth, Nooks is one of the
 On investing in Speak: "Education will continue to be a sector most profoundly transformed by AI. The most effective approach to learning is through one-on-one human tutoring." — Lachy Groom, Speak Series B-2 announcement, August 2023 [^12].
 
 On investing in Alt Carbon: "Alt Carbon is tackling a once-in-a-generation challenge... This is a category-defining deep-tech company that will reshape how the world thinks about climate action." — Lachy Groom, Alt Carbon seed round announcement, May 2025 [^13].
+
+On Ashby's Series C: "Despite a tricky market, Ashby has 6x'd the business since the Series B and has garnered a lot of love from customers in a space that historically had really low NPS." — Lachy Groom, Ashby Series C press release, June 2024 [^24].
+
+On Physical Intelligence's commercialization approach: "I don't give investors answers on commercialization." — Lachy Groom, TechCrunch, January 2026 [^2].
 
 On Physical Intelligence: Groom has said he is "working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he needs to know." — as reported by TechCrunch, January 2026 [^2].
 
@@ -149,3 +160,10 @@ Sam Altman, CEO of OpenAI, posted on X: "lachy is one of four people i ask for c
 [^26]: Nordic 9, "turbopuffer raises pre-seed funding with Lachy Groom, Thrive and angel investors," October 24, 2025. https://nordic9.com/news/turbopuffer-raises-pre-seed-funding-with-lachy-groom-thrive-and-angel-investors/
 [^27]: The Business of Business, "Can VCs actually 'add value?' Founders say these 10 investors are the real deal," September 2020. https://www.businessofbusiness.com/articles/vc-guide-best-vcs-top-rated-vcs/
 [^28]: Sam Altman, X post, May 2019. https://x.com/sama/status/1123800945815633920
+[^29]: Crunchbase News, "Exclusive: Stripe Alum Raises $9M For Meadow To Help People Plan Funerals Online," March 2026. https://news.crunchbase.com/venture/stripe-alum-raises-online-funeral-planning-startup-meadow/
+[^30]: Ashby blog, "Announcing Ashby's $50 Million Series D," July 22, 2025. https://www.ashbyhq.com/blog/culture/series-d
+[^31]: TechCrunch, "India's Airbound bags $8.65M to build rocket-like drones for one-cent deliveries," October 14, 2025. https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/
+[^32]: Entrepreneur India, "Even Healthcare Raises USD 20 Mn Led by Lachy Groom, Alpha Wave," January 6, 2026. https://india.entrepreneur.com/news-and-trends/even-healthcare-raises-usd-20-mn-led-by-lachy-groom-alpha/501600
+[^33]: TradedVC, "Meter Raises $35 Million Investment Led By Sam Altman And Lachy Groom," accessed March 2026. https://traded.co/vc/deal/meter-raises-35-million-investment-led-by-sam-altman-and-lachy-groom/
+[^34]: Prime Gazette, "Lachy Groom is an AI pioneer, investor and Head at Stripe," accessed March 2026. https://primegazette.org/lachy-groom/
+[^35]: Premier Alternatives, "Lachy Groom Portfolio Companies," accessed March 2026. https://www.premieralts.com/investors/lachy-groom/portfolio

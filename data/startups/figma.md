@@ -42,6 +42,9 @@ firms:
 - round: Series D
   slug: durable-capital-partners
   year: 2020
+- round: Early stage
+  slug: gil-capital
+  year: 2016
 founded: 2012
 founders:
 - name: Dylan Field

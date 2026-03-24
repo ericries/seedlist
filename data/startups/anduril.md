@@ -135,6 +135,9 @@ firms:
 - round: '2017'
   slug: anduril-industries
   year: 2017
+- round: Early stage; led Series D (2021)
+  slug: gil-capital
+  year: 2018
 founded: 2017
 founders:
 - name: Palmer Luckey

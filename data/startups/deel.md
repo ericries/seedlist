@@ -39,6 +39,9 @@ firms:
 - round: Seed
   slug: operator-partners
   year: 2020
+- round: Early stage
+  slug: gil-capital
+  year: 2018
 founded: 2019
 founders:
 - name: Alex Bouaziz

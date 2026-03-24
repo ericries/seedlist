@@ -78,6 +78,9 @@ firms:
 - round: '2022'
   slug: conviction
   year: 2022
+- round: Early stage
+  slug: gil-capital
+  year: 2022
 founded: 2022
 founders:
 - name: Winston Weinberg

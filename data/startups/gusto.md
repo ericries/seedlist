@@ -96,6 +96,9 @@ firms:
 - round: ~2013
   slug: craft-ventures
   year: 2013
+- round: Early stage
+  slug: gil-capital
+  year: 2014
 founded: 2012
 founders:
 - name: Josh Reeves

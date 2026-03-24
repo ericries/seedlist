@@ -42,6 +42,9 @@ firms:
 - round: Seed
   slug: angellist
   year: 2013
+- round: Early stage
+  slug: gil-capital
+  year: 2018
 founded: 2013
 founders:
 - name: Ivan Zhao

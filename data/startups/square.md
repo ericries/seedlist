@@ -21,6 +21,9 @@ firms:
 - round: ~2009
   slug: dcvc
   year: 2009
+- round: Early stage
+  slug: gil-capital
+  year: 2011
 founded: 2009
 founders:
 - name: Jack Dorsey

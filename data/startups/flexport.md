@@ -81,6 +81,9 @@ firms:
 - round: Early stage
   slug: independent
   year: 2016
+- round: Early stage
+  slug: gil-capital
+  year: 2016
 founded: 2013
 founders:
 - name: Ryan Petersen

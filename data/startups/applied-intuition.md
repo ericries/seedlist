@@ -30,6 +30,9 @@ firms:
 - round: Series D ($175M, co-led)
   slug: addition
   year: 2021
+- round: Series D (co-led)
+  slug: gil-capital
+  year: 2021
 founded: 2017
 founders:
 - name: Qasar Younis

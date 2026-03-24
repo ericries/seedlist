@@ -48,6 +48,9 @@ firms:
 - round: ~2013
   slug: notable-capital
   year: 2013
+- round: Early stage
+  slug: gil-capital
+  year: 2012
 founded: 2012
 founders:
 - name: Brian Armstrong

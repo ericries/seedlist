@@ -45,6 +45,9 @@ firms:
 - round: '2023'
   slug: conviction
   year: 2023
+- round: Early stage
+  slug: gil-capital
+  year: 2023
 founded: 2023
 founders:
 - name: Arthur Mensch

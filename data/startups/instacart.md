@@ -42,6 +42,9 @@ firms:
 - round: ~2019
   slug: a-star-capital
   year: 2019
+- round: Early stage
+  slug: gil-capital
+  year: 2013
 founded: 2012
 founders:
 - name: Apoorva Mehta

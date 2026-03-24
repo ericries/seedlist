@@ -45,6 +45,9 @@ firms:
 - round: Series D ($75M)
   slug: dragoneer
   year: 2014
+- round: Series A
+  slug: gil-capital
+  year: 2010
 founded: 2008
 founders:
 - name: Brian Chesky

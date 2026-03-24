@@ -39,6 +39,9 @@ firms:
 - round: '2017'
   slug: abstract-ventures
   year: 2017
+- round: Early stage (later Series G)
+  slug: gil-capital
+  year: 2019
 founded: 2016
 founders:
 - name: Parker Conrad

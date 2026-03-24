@@ -72,6 +72,9 @@ firms:
 - round: ~2013
   slug: chemistry-vc
   year: 2013
+- round: Early stage
+  slug: gil-capital
+  year: 2016
 founded: 2009
 founders:
 - name: Alex Solomon

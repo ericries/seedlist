@@ -30,6 +30,9 @@ firms:
 - round: ~2015
   slug: standard-capital
   year: 2015
+- round: Growth
+  slug: gil-capital
+  year: 2023
 founded: 2015
 founders:
 - name: Sam Altman

@@ -6,17 +6,17 @@ role: "Solo GP / Angel Investor"
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed, series-a, series-b, growth]
 sector_focus: [ai-ml, enterprise-saas, fintech, developer-tools, biotech, defense]
-firm: independent
+firm: gil-capital
 check_size: "$250K–$20M"
 last_verified_investment:
-  date: 2026-02-17
-  company: "Braintrust"
-  round: "Investment"
+  date: 2026-03-18
+  company: "RunSybil"
+  round: "Series A"
 social:
   twitter: "@eladgil"
   linkedin: "linkedin.com/in/eladgil"
 status: published
-last_researched: 2026-03-17
+last_researched: 2026-03-24
 ---
 
 ## Background
@@ -30,6 +30,8 @@ In November 2007, Gil co-founded Mixer Labs, a developer-focused geolocation pla
 In 2013, Gil co-founded Color Genomics (later Color Health), a genomics and cancer screening company, serving as CEO until late 2016 [^1][^3][^4]. Color Health has raised over $484 million in funding [^6].
 
 Gil is also the author of *High Growth Handbook: Scaling Startups From 10 to 10,000 People*, published in 2018 by Stripe Press, which became a bestselling guide for scaling companies [^7][^8]. He co-hosts the *No Priors* podcast on AI with Sarah Guo [^1][^9]. He currently holds board seats at Navan, Anduril Industries, and BioAge Labs [^2]. He was ranked #87 on the Forbes Midas List in 2025 [^10].
+
+Gil operates Gil Capital, one of the largest solo-GP venture funds. His third fund, Cosmic — Aleph 3, closed in November 2023 with approximately $1.1 billion in commitments from 54 investors, after initially targeting $820 million — 77% larger than his second fund, which closed at $620 million in 2021 [^5][^23]. As of mid-2025, reports indicated Gil was raising a new fund targeting $1.5 billion, potentially up to $2 billion [^24].
 
 Beyond investing, Gil has co-founded Monumental (public art and monuments) and is developing K-12 schools [^1]. He co-founded NewLimit, an anti-aging biotech company, and previously identified a gene involved in lifespan during his academic research [^1]. In 2025, he co-founded Brain Co with Jared Kushner, an AI startup that raised a $30 million Series A [^11].
 
@@ -45,12 +47,12 @@ His investment thesis, as described by multiple sources, centers on backing comp
 
 ## Inferred Thesis
 
-The following analysis is based on 40 verified investments from the portfolio table below. Given that Gil has reportedly made 190–314 investments (sources vary) [^2][^16], these 40 represent roughly 13–21% of his total portfolio. Percentages should be interpreted as reflecting the publicly notable portion of his investments, not the full distribution.
+The following analysis is based on 41 verified investments from the portfolio table below. Given that Gil has reportedly made 190–314 investments (sources vary) [^2][^16], these 41 represent roughly 13–22% of his total portfolio. Percentages should be interpreted as reflecting the publicly notable portion of his investments, not the full distribution.
 
 ### Sector Distribution (40 verified investments)
 
 - **Enterprise SaaS / Productivity**: 10 of 40 (25%) — Figma, Airtable, Notion, Retool, Rippling, Samsara, PagerDuty, GitLab, dbt Labs, Front
-- **AI / ML**: 8 of 40 (20%) — Perplexity AI, Harvey, Character.AI, Mistral AI, Pika, Braintrust, Abridge, OpenAI
+- **AI / ML**: 9 of 41 (22%) — Perplexity AI, Harvey, Character.AI, Mistral AI, Pika, Braintrust, Abridge, OpenAI, RunSybil
 - **Fintech / Payments**: 6 of 40 (15%) — Stripe, Coinbase, Brex, Square, Deel, Opendoor
 - **Marketplaces / Consumer**: 5 of 40 (12.5%) — Airbnb, Instacart, Pinterest, Wish, Flexport
 - **HR / Workforce**: 3 of 40 (7.5%) — Gusto, Checkr, Deel (also counted under fintech)
@@ -61,7 +63,7 @@ The following analysis is based on 40 verified investments from the portfolio ta
 
 ### Stage Distribution
 
-Gil's blog bio states he has backed approximately 40 unicorns, with roughly 30 of those at pre-seed, seed, or Series A [^3]. This suggests approximately 75% of his most successful investments were made at the earliest stages. However, he has increasingly participated in later-stage rounds, including co-leading Applied Intuition's $175M Series D in 2021 [^17] and investing in Rippling's Series G [^18]. His check sizes range from $250K at pre-seed to $20M at Series B and beyond [^14].
+Gil's blog bio states he has backed approximately 40 unicorns, with roughly 30 of those at pre-seed, seed, or Series A [^3]. This suggests approximately 75% of his most successful investments were made at the earliest stages. However, he has increasingly participated in later-stage rounds, including leading Anduril's $450M Series D in June 2021 (valuing the company at $4.6 billion) [^27], co-leading Applied Intuition's $175M Series D in 2021 [^17], and investing in Rippling's Series G [^18]. His check sizes range from $250K at pre-seed to $20M at Series B and beyond [^14].
 
 ### Geographic Concentration
 
@@ -103,7 +105,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Notion | ~2018 | Early stage | [^1][^3] |
 | Deel | ~2018 | Early stage | [^1][^3] |
 | Retool | ~2018 | Early stage | [^3][^21] |
-| Anduril | ~2018 | Early stage | [^1][^3] |
+| Anduril | ~2018 | Early stage; led Series D (2021) | [^1][^3][^27] |
 | Benchling | ~2019 | Early stage | [^21] |
 | Digits | 2019 | Series A | [^16] |
 | dbt Labs | ~2019 | Early stage | [^3] |
@@ -123,6 +125,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | NewLimit | ~2023 | Co-founder | [^1] |
 | Braintrust | ~2024 | Early stage (incubated) | [^1][^2] |
 | Decagon | ~2024 | Early stage | [^14] |
+| RunSybil | 2026 | Series A | [^23] |
 
 *Note: Many investment years are approximate, based on company founding dates or general reporting. Gil's blog states he has invested in over 200 companies with approximately 40 valued at $1B+ each [^1][^3]. This table represents approximately 20% of his reported total investments. Specific round details are unavailable for many early angel investments. Years marked with "~" indicate estimates based on company founding year or earliest known funding round.*
 
@@ -163,6 +166,26 @@ On his Applied Intuition investment:
 On AI markets (2025):
 
 > "AI was the one market where the more I learn, the less I know... There's just too much uncertainty. And I think there's still markets like that in AI." [^12]
+
+On AI technology trajectory:
+
+> "Software is AI. It's gonna put the power of building things in the hands of millions of people who can't do it before." [^25]
+
+On technology adoption cycles:
+
+> "Technology waves, they are non-obvious until they're obvious. And then everybody starts looking for the non-obvious thing again." [^25]
+
+On non-obvious startups:
+
+> "The best companies are always non-obvious at the time." [^26]
+
+On speed as a startup advantage:
+
+> "If it took as long to debate something as to build it and try it, you should just build it and try it." — The Split podcast, May 2024 [^26]
+
+On his investment style:
+
+> "Most of the investing I do by number is early stage. And most of what I do by dollar is late stage. From an early stage perspective, at this point, my preference is to lead or co-lead rounds whenever possible." — The Split podcast, May 2024 [^26]
 
 ## What Founders Say
 
@@ -210,3 +233,8 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^20]: Applied Intuition Series E press release, March 2024, accessed March 2026. https://www.appliedintuition.com/news/series-e
 [^21]: VCSheet, "Elad Gil (Elad Gil) / VC Breakdown & Contact," accessed March 2026. https://www.vcsheet.com/who/elad-gil
 [^22]: First Round Review podcast, "Inside the ex-YC partner's $15B self driving car company | Qasar Younis," accessed March 2026. https://review.firstround.com/podcast/inside-the-ex-yc-partners-15b-self-driving-car-company-qasar-younis/
+[^23]: "Exclusive: RunSybil raises $40M in VC funding in round led by Khosla Ventures," Fortune, March 18, 2026. https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/
+[^24]: "Elad Gil's $1.5 Billion Fund: A Solo VC Revolutionizing the Future of Tech," Tech Startups, July 24, 2025. https://techstartups.com/2025/07/24/elad-gils-1-5-billion-fund-a-solo-vc-revolutionizing-the-future-of-tech/
+[^25]: "Elad Gil backed 40 unicorns. This is next," Mixergy interview, 2025. https://mixergy.com/interviews/elad-gil-backed-40-unicorns-this-is-next/
+[^26]: "Elad Gil | Acting on Conviction, Future of AI, Biotech, Ambition, Speed, and Non-Obvious Startup Advice," The Split podcast, May 2024. https://www.thespl.it/p/elad-gil-acting-on-conviction-future
+[^27]: "Anduril raises $450M as the defense tech company's valuation soars to $4.6B," TechCrunch, June 17, 2021. https://techcrunch.com/2021/06/17/anduril-funding-series-d-valuation/

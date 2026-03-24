@@ -15,6 +15,9 @@ firms:
 - round: Series B
   slug: vercel
   year: 2024
+- round: Early stage
+  slug: gil-capital
+  year: 2022
 founded: 2022
 founders:
 - name: Aravind Srinivas

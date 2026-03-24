@@ -64,6 +64,9 @@ firms:
 - round: Series D
   slug: durable-capital-partners
   year: 2021
+- round: Early stage
+  slug: gil-capital
+  year: 2017
 founded: 2017
 founders:
 - name: Henrique Dubugras

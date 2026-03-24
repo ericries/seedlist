@@ -30,6 +30,9 @@ firms:
 - round: Growth
   slug: greenoaks
   year: 2018
+- round: Early stage
+  slug: gil-capital
+  year: 2017
 founded: 2012
 founders:
 - name: Howie Liu

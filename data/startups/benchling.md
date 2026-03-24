@@ -48,6 +48,9 @@ firms:
 - round: Seed
   slug: operator-partners
   year: 2020
+- round: Early stage
+  slug: gil-capital
+  year: 2019
 founded: 2012
 founders:
 - name: Sajith Wickramasekara

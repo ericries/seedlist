@@ -57,6 +57,9 @@ firms:
 - round: ~2010
   slug: standard-capital
   year: 2010
+- round: Series A
+  slug: gil-capital
+  year: 2011
 founded: 2010
 founders:
 - name: Patrick Collison

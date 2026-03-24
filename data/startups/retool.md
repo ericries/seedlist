@@ -27,6 +27,9 @@ firms:
 - round: ~2022
   slug: maverick-ventures
   year: 2022
+- round: Early stage
+  slug: gil-capital
+  year: 2018
 founded: 2017
 founders:
 - name: David Hsu

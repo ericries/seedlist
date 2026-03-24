@@ -30,6 +30,9 @@ firms:
 - round: Seed
   slug: a24
   year: 2010
+- round: Seed
+  slug: gil-capital
+  year: 2011
 founded: 2009
 founders:
 - name: Ben Silbermann
