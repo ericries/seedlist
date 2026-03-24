@@ -39,6 +39,9 @@ firms:
 - round: Angel ($500K personal)
   slug: andreessen-horowitz
   year: 2005
+- round: Late-stage
+  slug: addition
+  year: 2010
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -96,6 +99,9 @@ investors:
   year: 2005
 - round: Secondary
   slug: john-ofarrell
+  year: 2010
+- round: Late-stage
+  slug: lee-fixel
   year: 2010
 last_researched: 2026-03-13
 location: Menlo Park, CA

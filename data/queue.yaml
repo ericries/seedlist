@@ -522,7 +522,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Demandforce
   type: startup
@@ -538,7 +538,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Egnyte
   type: startup
@@ -2677,7 +2677,7 @@ queue:
   discovered_from: john-curtius
   discovery_depth: 3
   priority: high
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Komodor
   type: startup
@@ -3827,7 +3827,7 @@ queue:
 - name: John O'Farrell
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: pagerduty
@@ -4045,7 +4045,7 @@ queue:
 - name: Google Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: uber
 - name: Emergence Capital
@@ -6218,7 +6218,7 @@ queue:
   source: 'Collection gap analysis: Hedge Fund Crossovers — $13B, Shopify/DoorDash/Duolingo'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Jeremy Liew
   type: individual
@@ -6411,7 +6411,7 @@ queue:
 - name: Breyer Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jim-breyer
 - name: Cityblock Health

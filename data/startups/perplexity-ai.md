@@ -47,6 +47,9 @@ investors:
 - round: Series B
   slug: guillermo-rauch
   year: 2024
+- round: Series B1
+  slug: dylan-field
+  year: 2024
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Perplexity AI

@@ -51,6 +51,9 @@ firms:
 - round: Seed
   slug: vercel
   year: 2017
+- round: Seed
+  slug: first-round-capital
+  year: 2016
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -103,6 +106,9 @@ investors:
 - round: Unknown
   slug: benny-peretz
   year: 2021
+- round: Seed
+  slug: liz-wessel
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

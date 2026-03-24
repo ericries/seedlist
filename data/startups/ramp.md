@@ -66,6 +66,9 @@ firms:
 - round: ~2019
   slug: operator-partners
   year: 2019
+- round: Seed
+  slug: first-round-capital
+  year: 2019
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -114,6 +117,9 @@ investors:
 - round: Seed
   slug: amit-avner
   year: 2021
+- round: Seed
+  slug: liz-wessel
+  year: 2019
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp
