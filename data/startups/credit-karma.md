@@ -58,6 +58,9 @@ investors:
 - round: Series B
   slug: micky-malka
   year: 2013
+- round: Seed
+  slug: nigel-morris
+  year: 2009
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Credit Karma

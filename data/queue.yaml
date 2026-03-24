@@ -210,7 +210,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Reddit
   type: startup
@@ -458,7 +458,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: StockX
   type: startup
@@ -466,7 +466,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Armorblox
   type: startup
@@ -3443,14 +3443,14 @@ queue:
 - name: Trucks Venture Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Trucks Venture Capital
   discovered_from: angela-tran
 - name: Refactor Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Refactor Capital
   discovered_from: angela-tran
@@ -6036,7 +6036,7 @@ queue:
     31 fintech unicorns'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Julie Yoo
   type: individual
@@ -6116,7 +6116,7 @@ queue:
     fund'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Kyle Samani
   type: individual
@@ -6150,7 +6150,7 @@ queue:
   source: 'Collection gap analysis: Biotech — co-founded Moderna, launched 118 companies'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Jorge Conde
   type: individual

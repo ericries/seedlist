@@ -48,7 +48,8 @@
       "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl xref-all --dry-run 2>&1 | tail -20)",
       "Bash(for f:*)",
       "Read(//Users/EricRies2/Projects/seedlist/**)",
-      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl queue startup 2>&1 | head -10)"
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl queue startup 2>&1 | head -10)",
+      "Bash(curl:*)"
     ]
   }
 }
