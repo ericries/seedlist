@@ -482,7 +482,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Ning
   type: startup
@@ -3897,7 +3897,7 @@ queue:
 - name: Altos Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: roblox
 - name: Social Capital
