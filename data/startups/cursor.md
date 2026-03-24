@@ -42,6 +42,9 @@ firms:
 - round: —
   slug: index-ventures
   year: 2025
+- round: Seed ($8M)
+  slug: nfdg
+  year: 2023
 founded: 2022
 founders:
 - name: Michael Truell
@@ -82,6 +85,9 @@ investors:
   year: 2023
 - round: ~2023
   slug: martin-casado
+  year: 2023
+- round: Seed ($8M)
+  slug: nat-friedman
   year: 2023
 last_researched: 2026-03-19
 location: San Francisco, California
