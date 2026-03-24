@@ -655,8 +655,13 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
    - Finds all draft profiles → auto-fix (citations, missing fields) → xref (backfill startups, reconcile firms, compute LVI) → lint → publish passing
    - Rebuilds site → single git commit+push
    - The invocation is always identical — no arguments, no per-slug calls
-7. **One-line status, then immediately start next batch.**
-8. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
+7. **Run maintenance tasks** (after every 3rd batch, not every batch):
+   - `python3 scripts/generate_tldrs.py --limit 20` — generate TLDR summaries for profiles that don't have one yet. Requires `ANTHROPIC_API_KEY` in env. Skip if key is not set.
+   - `python3 scripts/cluster_investors.py` — recompute investor similarity clusters with any new profiles. Updates `data/clusters.json`.
+   - `python3 scripts/process_issues.py` — process any pending GitHub Issues (source submissions, CSV candidates).
+   - Commit and push if any of these produced changes.
+8. **One-line status, then immediately start next batch.**
+9. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
 
 ### Key Principles
 
