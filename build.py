@@ -440,6 +440,23 @@ def build():
         )
         (OUTPUT_DIR / "enrich.html").write_text(html)
 
+    # Render find investors page
+    find_tmpl_path = TEMPLATES_DIR / "find.html"
+    if find_tmpl_path.exists():
+        from collections import Counter
+        find_sector_counts = Counter()
+        for inv in investors:
+            for s in (inv.get("sector_focus") or []):
+                find_sector_counts[s] += 1
+        top_sectors_find = [s for s, _ in find_sector_counts.most_common(25)]
+
+        find_template = env.get_template("find.html")
+        html = find_template.render(
+            investor_count=len(investors),
+            top_sectors=top_sectors_find,
+        )
+        (OUTPUT_DIR / "find.html").write_text(html)
+
     # Render homepage
     index_template = env.get_template("index.html")
     html = index_template.render(

@@ -30,6 +30,9 @@ firms:
 - round: Series G ($1B)
   slug: greenoaks
   year: 2021
+- round: Series A
+  slug: andreessen-horowitz
+  year: 2013
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -77,6 +80,9 @@ investors:
 - round: Unknown
   slug: benny-peretz
   year: 2021
+- round: Series A
+  slug: ben-horowitz
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

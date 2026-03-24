@@ -64,6 +64,9 @@ investors:
 - round: Seed
   slug: ann-miura-ko
   year: 2017
+- round: Series A (a16z, board seat)
+  slug: marc-andreessen
+  year: 2017
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition

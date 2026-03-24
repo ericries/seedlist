@@ -39,6 +39,9 @@ firms:
 - round: ~2009
   slug: standard-capital
   year: 2009
+- round: Angel ($600K personal)
+  slug: andreessen-horowitz
+  year: 2009
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -95,6 +98,9 @@ investors:
   year: 2010
 - round: ~2009
   slug: paul-buchheit
+  year: 2009
+- round: Angel ($600K personal)
+  slug: marc-andreessen
   year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA

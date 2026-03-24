@@ -43,6 +43,9 @@ firms:
 - round: Seed (Hit Forge)
   slug: angellist
   year: 2007
+- round: Angel
+  slug: andreessen-horowitz
+  year: 2007
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -92,6 +95,9 @@ investors:
   year: 2007
 - round: Seed (Hit Forge)
   slug: naval-ravikant
+  year: 2007
+- round: Angel
+  slug: marc-andreessen
   year: 2007
 last_researched: 2026-03-13
 location: San Francisco, CA

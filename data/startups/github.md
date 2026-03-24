@@ -39,6 +39,9 @@ investors:
 - round: Angel
   slug: daniel-gross
   year: 2013
+- round: Series A (a16z, $100M)
+  slug: marc-andreessen
+  year: 2012
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: GitHub

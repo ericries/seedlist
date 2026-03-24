@@ -18,6 +18,9 @@ firms:
 - round: ~2013
   slug: nfx
   year: 2013
+- round: Growth (board joined)
+  slug: andreessen-horowitz
+  year: 2016
 founded: 2012
 founders:
 - name: Logan Green
@@ -46,6 +49,9 @@ investors:
 - round: Seed
   slug: ann-miura-ko
   year: 2010
+- round: Growth (board joined)
+  slug: ben-horowitz
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft

@@ -426,7 +426,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Cruise
   type: startup
@@ -442,7 +442,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Flatiron Health
   type: startup
@@ -450,7 +450,7 @@ queue:
   discovered_from: ron-conway
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Boom Supersonic
   type: startup
@@ -3367,7 +3367,7 @@ queue:
 - name: Octahedron Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Octahedron Capital
   discovered_from: ram-parameswaran
@@ -3422,7 +3422,7 @@ queue:
 - name: Garage Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Garage Capital
   discovered_from: angela-tran
@@ -5966,7 +5966,7 @@ queue:
     a16z'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Ben Horowitz
   type: individual
@@ -5975,7 +5975,7 @@ queue:
     a16z'
   discovered_from: cluster-gap-analysis
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Ram Shriram
   type: individual

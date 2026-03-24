@@ -15,6 +15,9 @@ firms:
 - round: Early
   slug: ame-cloud-ventures
   year: 2014
+- round: Seed/Series A
+  slug: andreessen-horowitz
+  year: 2010
 founded: 2009
 founders:
 - name: Todd McKinnon
@@ -40,6 +43,9 @@ investors:
 - round: Seed
   slug: ann-miura-ko
   year: 2009
+- round: Seed/Series A
+  slug: ben-horowitz
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Okta

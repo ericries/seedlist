@@ -36,6 +36,9 @@ firms:
 - round: Series A ($12.7M at $98M valuation)
   slug: breyer-capital
   year: 2005
+- round: Angel ($500K personal)
+  slug: andreessen-horowitz
+  year: 2005
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -87,6 +90,9 @@ investors:
   year: 2004
 - round: Series A ($12.7M at $98M valuation)
   slug: jim-breyer
+  year: 2005
+- round: Angel ($500K personal)
+  slug: marc-andreessen
   year: 2005
 last_researched: 2026-03-13
 location: Menlo Park, CA

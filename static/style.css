@@ -674,6 +674,81 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   text-decoration: none;
 }
 
+/* ===== Find Investors Page ===== */
+.find-form {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  padding: 1.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+}
+
+.find-form label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.sector-checkboxes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.35rem;
+}
+
+.tier-section {
+  margin-bottom: 2rem;
+}
+
+.tier-header {
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius);
+  margin-bottom: 0.75rem;
+}
+
+.tier-1 .tier-header { background: #d1fae5; color: #065f46; }
+.tier-2 .tier-header { background: #fef3c7; color: #92400e; }
+.tier-3 .tier-header { background: #f3f4f6; color: #6b7280; }
+
+.tier-investors {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 0.75rem;
+}
+
+.investor-result {
+  padding: 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.investor-result:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.08);
+}
+
+.investor-result-name {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--color-accent);
+}
+
+.investor-result-firm {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 0.4rem;
+}
+
+.fit-reason {
+  font-size: 0.82rem;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.5rem; }
@@ -684,4 +759,6 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   .nav-links { gap: 1rem; }
   .filter-bar { flex-direction: column; }
   .filter-bar select { width: 100%; }
+  .sector-checkboxes { grid-template-columns: 1fr; }
+  .tier-investors { grid-template-columns: 1fr; }
 }
