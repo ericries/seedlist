@@ -893,6 +893,22 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   margin-left: 1rem;
 }
 
+/* ===== Profile TLDR ===== */
+.profile-tldr {
+  margin: 0.75rem 0 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-accent-light);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--color-text);
+}
+
+.profile-tldr p {
+  margin: 0;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.5rem; }
