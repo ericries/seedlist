@@ -6426,3 +6426,30 @@ queue:
   status: completed
   added: '2026-03-17'
   discovered_from: ambar-bhattacharyya
+- name: Adam Sharkawy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Material Impact
+  discovered_from: carmichael-roberts
+- name: Pär-Jörgen Pärson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Northzone
+  discovered_from: northzone
+- name: Staffan Helgesson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Creandum
+  discovered_from: creandum
+- name: Breakthrough Energy Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carmichael-roberts
