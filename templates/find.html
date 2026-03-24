@@ -1,0 +1,293 @@
+{% extends "base.html" %}
+
+{% block title %}Find Investors{% endblock %}
+
+{% block head %}
+<style>
+.find-hero {
+  text-align: center;
+  padding: 2.5rem 0 1.5rem;
+}
+.find-hero h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+.find-hero p {
+  color: var(--color-muted);
+  font-size: 1rem;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+/* Form */
+.find-form {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  padding: 1.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+}
+
+.find-form .form-group {
+  margin-bottom: 1.25rem;
+}
+
+.find-form label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--color-text);
+}
+
+.find-form label .required {
+  color: #dc2626;
+  margin-left: 0.15rem;
+}
+
+.find-form select {
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  font-size: 0.9rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: var(--color-bg);
+  color: var(--color-text);
+  outline: none;
+  cursor: pointer;
+}
+
+.find-form select:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.sector-checkboxes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.35rem;
+}
+
+.sector-checkboxes label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+  cursor: pointer;
+  padding: 0.25rem 0;
+  margin-bottom: 0;
+}
+
+.sector-checkboxes label.disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.sector-checkboxes input[type="checkbox"] {
+  margin: 0;
+  cursor: pointer;
+}
+
+.sector-hint {
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  margin-top: 0.35rem;
+}
+
+.find-form .form-actions {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.find-note {
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-top: 0.5rem;
+}
+
+/* Results */
+#find-results { display: none; }
+
+.find-summary {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.find-summary h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.find-summary p {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+.find-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+/* Tier sections */
+.tier-section {
+  margin-bottom: 2rem;
+}
+
+.tier-header {
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius);
+  margin-bottom: 0.75rem;
+}
+
+.tier-1 .tier-header {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.tier-2 .tier-header {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.tier-3 .tier-header {
+  background: #f3f4f6;
+  color: #6b7280;
+}
+
+.tier-investors {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 0.75rem;
+}
+
+.investor-result {
+  display: block;
+  padding: 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.investor-result:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.08);
+}
+
+.investor-result-name {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--color-accent);
+}
+
+.investor-result-name:hover {
+  text-decoration: underline;
+}
+
+.investor-result-firm {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 0.4rem;
+}
+
+.fit-reason {
+  font-size: 0.82rem;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.fit-reason span {
+  display: inline-block;
+  margin-right: 0.25rem;
+}
+
+.find-empty {
+  text-align: center;
+  color: var(--color-muted);
+  padding: 3rem 0;
+  font-size: 1rem;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="find-hero">
+  <h1>Build your investor target list</h1>
+  <p>Answer a few questions and we'll find the best-fit investors from our database of {{ investor_count }} profiles.</p>
+</section>
+
+<div id="find-form-section">
+  <form class="find-form" id="find-form">
+    <div class="form-group">
+      <label>Stage <span class="required">*</span></label>
+      <select id="find-stage" required>
+        <option value="">Select stage...</option>
+        <option value="pre-seed">Pre-seed</option>
+        <option value="seed">Seed</option>
+        <option value="Series A">Series A</option>
+        <option value="Series B">Series B+</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label>Sectors <span class="required">*</span></label>
+      <div class="sector-checkboxes" id="sector-checkboxes">
+        {% for sector in top_sectors %}
+        <label><input type="checkbox" name="sector" value="{{ sector }}"> {{ sector }}</label>
+        {% endfor %}
+      </div>
+      <p class="sector-hint">Pick 1 to 3 sectors. <span id="sector-count">0</span>/3 selected.</p>
+    </div>
+
+    <div class="form-group">
+      <label>Check size needed</label>
+      <select id="find-check-size">
+        <option value="">No preference</option>
+        <option value="lt500k">&lt; $500K</option>
+        <option value="500k-2m">$500K &ndash; $2M</option>
+        <option value="2m-5m">$2M &ndash; $5M</option>
+        <option value="5m+">$5M+</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label>Location preference</label>
+      <select id="find-location">
+        <option value="">No preference</option>
+        <option value="sf">SF Bay Area</option>
+        <option value="nyc">NYC</option>
+        <option value="other-us">Other US</option>
+        <option value="international">International</option>
+      </select>
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" class="btn btn-primary">Find investors</button>
+    </div>
+  </form>
+  <p class="find-note">Your data never leaves your browser.</p>
+</div>
+
+<div id="find-results">
+  <div class="find-summary" id="find-summary"></div>
+
+  <div class="find-actions">
+    <button class="btn btn-primary" id="find-download-btn">Download as CSV</button>
+    <button class="btn btn-secondary" id="find-reset-btn">Start over</button>
+  </div>
+
+  <div id="find-tiers"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="/static/find.js"></script>
+{% endblock %}
