@@ -82,7 +82,7 @@
     <span class="meta-label">Stage Focus</span>
     <div class="tags">
       {% for stage in profile.stage_focus %}
-        <a href="/stage/{{ stage | slugify }}.html" class="tag tag-stage">{{ stage }}</a>
+        <a href="/investors/?stage={{ stage }}" class="tag tag-stage">{{ stage }}</a>
       {% endfor %}
     </div>
   </div>
@@ -93,7 +93,7 @@
     <span class="meta-label">Sector Focus</span>
     <div class="tags">
       {% for sector in profile.sector_focus %}
-        <a href="/sector/{{ sector | slugify }}.html" class="tag tag-sector">{{ sector }}</a>
+        <a href="/investors/?sector={{ sector }}" class="tag tag-sector">{{ sector }}</a>
       {% endfor %}
     </div>
   </div>

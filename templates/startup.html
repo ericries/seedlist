@@ -70,7 +70,7 @@
     <span class="meta-label">Sector</span>
     <div class="tags">
       {% for s in profile.sector %}
-        <a href="/sector/{{ s | slugify }}.html" class="tag tag-sector">{{ s }}</a>
+        <a href="/investors/?sector={{ s }}" class="tag tag-sector">{{ s }}</a>
       {% endfor %}
     </div>
   </div>

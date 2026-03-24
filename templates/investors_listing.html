@@ -128,10 +128,34 @@
     cards.forEach(function(card) { grid.appendChild(card); });
   }
 
-  stageEl.addEventListener('change', applyFilters);
-  sectorEl.addEventListener('change', applyFilters);
-  locationEl.addEventListener('change', applyFilters);
-  sortEl.addEventListener('change', function() { applySort(); applyFilters(); });
+  // Read URL query params and set filters on load
+  var params = new URLSearchParams(window.location.search);
+  if (params.get('stage')) stageEl.value = params.get('stage');
+  if (params.get('sector')) sectorEl.value = params.get('sector');
+  if (params.get('location')) locationEl.value = params.get('location');
+  if (params.get('sort')) sortEl.value = params.get('sort');
+
+  // Update URL when filters change (without reloading)
+  function updateUrl() {
+    var p = new URLSearchParams();
+    if (stageEl.value) p.set('stage', stageEl.value);
+    if (sectorEl.value) p.set('sector', sectorEl.value);
+    if (locationEl.value) p.set('location', locationEl.value);
+    if (sortEl.value && sortEl.value !== 'recent') p.set('sort', sortEl.value);
+    var qs = p.toString();
+    history.replaceState(null, '', qs ? '?' + qs : window.location.pathname);
+  }
+
+  stageEl.addEventListener('change', function() { applyFilters(); updateUrl(); });
+  sectorEl.addEventListener('change', function() { applyFilters(); updateUrl(); });
+  locationEl.addEventListener('change', function() { applyFilters(); updateUrl(); });
+  sortEl.addEventListener('change', function() { applySort(); applyFilters(); updateUrl(); });
+
+  // Apply on load if params present
+  if (params.get('stage') || params.get('sector') || params.get('location') || params.get('sort')) {
+    applySort();
+    applyFilters();
+  }
 })();
 </script>
 {% endblock %}

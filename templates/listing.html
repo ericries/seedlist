@@ -24,7 +24,7 @@
       {% if p.stage_focus %}
       <div class="tags">
         {% for stage in p.stage_focus %}
-          <a href="/stage/{{ stage | slugify }}.html" class="tag tag-stage tag-sm" onclick="event.stopPropagation()">{{ stage }}</a>
+          <a href="/investors/?stage={{ stage }}" class="tag tag-stage tag-sm" onclick="event.stopPropagation()">{{ stage }}</a>
         {% endfor %}
       </div>
       {% endif %}
