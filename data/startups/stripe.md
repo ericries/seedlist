@@ -142,6 +142,9 @@ investors:
 - round: Growth
   slug: mood-rowghani
   year: 2014
+- round: Early
+  slug: vinod-khosla
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

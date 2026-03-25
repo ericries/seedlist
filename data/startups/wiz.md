@@ -84,6 +84,9 @@ investors:
 - round: Series B
   slug: benny-peretz
   year: 2021
+- round: Series E
+  slug: asheem-chandna
+  year: 2024
 last_researched: 2026-03-20
 location: New York, NY
 name: Wiz

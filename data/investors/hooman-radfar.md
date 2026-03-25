@@ -23,7 +23,7 @@ last_verified_investment:
 social:
   twitter: "@hoomanradfar"
   linkedin: "linkedin.com/in/hooman/"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

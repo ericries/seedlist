@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@Bob_Muglia"
   linkedin: "linkedin.com/in/bob-muglia-714ba592"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

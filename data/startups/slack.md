@@ -105,6 +105,9 @@ investors:
 - round: Seed
   slug: roy-bahat
   year: 2013
+- round: Growth (board at Index)
+  slug: ilya-fushman
+  year: 2015
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

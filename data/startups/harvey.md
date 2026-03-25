@@ -121,6 +121,9 @@ investors:
 - round: ~2024
   slug: mike-vernal
   year: 2024
+- round: Series B
+  slug: ilya-fushman
+  year: 2023
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Harvey

@@ -4268,7 +4268,7 @@ queue:
 - name: Sherpa Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: shervin-pishevar
 - name: AME Cloud Ventures
@@ -5393,7 +5393,7 @@ queue:
 - name: Vinod Khosla
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Khosla Ventures
   discovered_from: keith-rabois
@@ -5425,14 +5425,14 @@ queue:
 - name: Ilya Fushman
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kleiner Perkins
   discovered_from: mamoon-hamid
 - name: Asheem Chandna
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Greylock
   discovered_from: jerry-chen
@@ -6496,7 +6496,7 @@ queue:
 - name: Bob Muglia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: dana-oshiro
 - name: Anarghya Vardhana
@@ -6540,14 +6540,14 @@ queue:
 - name: Naveen Selvadurai
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Expa
   discovered_from: expa
 - name: Hooman Radfar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Expa
   discovered_from: expa
@@ -6587,3 +6587,68 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: david-ulevitch
+- name: Madrona Venture Group
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bob-muglia
+- name: Matt Mullenweg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Audrey Capital
+  discovered_from: naveen-selvadurai
+- name: Audrey Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-selvadurai
+- name: Dennis Crowley
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-selvadurai
+- name: ACME Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sherpa-capital
+- name: Scott Stanford
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sherpa Capital
+  discovered_from: sherpa-capital
+- name: David Weiden
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Khosla Ventures
+  discovered_from: vinod-khosla
+- name: Samir Kaul
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Khosla Ventures
+  discovered_from: vinod-khosla
+- name: Hany Nada
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: ACME Capital
+  discovered_from: sherpa-capital
+- name: Motive
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ilya-fushman

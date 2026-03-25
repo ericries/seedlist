@@ -22,7 +22,7 @@ last_verified_investment:
 social:
   twitter: "@chandna"
   linkedin: "linkedin.com/in/chandna"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

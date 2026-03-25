@@ -18,6 +18,9 @@ firms:
 - round: Seed/Series A
   slug: andreessen-horowitz
   year: 2010
+- round: Series B
+  slug: khosla-ventures
+  year: 2011
 founded: 2009
 founders:
 - name: Todd McKinnon
@@ -46,6 +49,9 @@ investors:
 - round: Seed/Series A
   slug: ben-horowitz
   year: 2010
+- round: Series B
+  slug: vinod-khosla
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Okta

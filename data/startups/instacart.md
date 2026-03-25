@@ -48,6 +48,9 @@ firms:
 - round: Growth
   slug: thrive-capital
   year: 2018
+- round: Seed
+  slug: khosla-ventures
+  year: 2012
 founded: 2012
 founders:
 - name: Apoorva Mehta
@@ -111,6 +114,9 @@ investors:
 - round: Growth
   slug: kareem-zaki
   year: 2018
+- round: Seed
+  slug: vinod-khosla
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

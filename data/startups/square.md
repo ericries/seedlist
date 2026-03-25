@@ -24,6 +24,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2011
+- round: Series A
+  slug: khosla-ventures
+  year: 2009
 founded: 2009
 founders:
 - name: Jack Dorsey
@@ -57,6 +60,9 @@ investors:
   year: 2016
 - round: ~2009
   slug: zachary-bogue
+  year: 2009
+- round: Series A
+  slug: vinod-khosla
   year: 2009
 last_researched: 2026-03-13
 location: San Francisco, California

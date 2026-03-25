@@ -62,6 +62,9 @@ investors:
 - round: Growth
   slug: kareem-zaki
   year: 2016
+- round: Series A
+  slug: vinod-khosla
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

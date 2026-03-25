@@ -132,6 +132,9 @@ investors:
 - round: Series C+
   slug: deena-shakir
   year: 2021
+- round: Early
+  slug: vinod-khosla
+  year: 2019
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

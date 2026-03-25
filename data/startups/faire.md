@@ -106,6 +106,9 @@ investors:
 - round: ~2017
   slug: gokul-rajaram
   year: 2017
+- round: Early
+  slug: vinod-khosla
+  year: 2017
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Faire

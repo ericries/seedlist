@@ -116,6 +116,9 @@ investors:
 - round: Series H
   slug: henry-ellenbogen
   year: 2020
+- round: Seed
+  slug: vinod-khosla
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, California
 name: DoorDash

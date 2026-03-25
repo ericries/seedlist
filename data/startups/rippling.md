@@ -79,6 +79,9 @@ investors:
 - round: Series E (led)
   slug: benny-peretz
   year: 2023
+- round: Series A
+  slug: ilya-fushman
+  year: 2019
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

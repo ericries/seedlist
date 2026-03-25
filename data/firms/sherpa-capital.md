@@ -13,7 +13,7 @@ team:
     role: "Co-Founder & Managing Director (departed December 2017)"
   - slug: scott-stanford
     role: "Co-Founder & Managing Director (transitioned to ACME Capital 2018)"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

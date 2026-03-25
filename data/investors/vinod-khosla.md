@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@vkhosla"
   linkedin: "linkedin.com/in/vinod-khosla-65387416"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

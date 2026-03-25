@@ -33,6 +33,9 @@ firms:
 - round: Growth
   slug: gil-capital
   year: 2023
+- round: Growth
+  slug: khosla-ventures
+  year: 2019
 founded: 2015
 founders:
 - name: Sam Altman
@@ -92,6 +95,9 @@ investors:
 - round: Growth
   slug: kareem-zaki
   year: 2023
+- round: Growth
+  slug: vinod-khosla
+  year: 2019
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: OpenAI
