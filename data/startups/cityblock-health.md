@@ -21,6 +21,9 @@ firms:
 - round: Series D
   slug: softbank
   year: 2021
+- round: —
+  slug: altimeter-capital
+  year: 2019
 founded: 2017
 founders:
 - name: Iyah Romm
@@ -42,6 +45,9 @@ investors:
 - round: '2018'
   slug: ambar-bhattacharyya
   year: 2018
+- round: —
+  slug: jamin-ball
+  year: 2019
 last_researched: 2026-03-24
 location: Brooklyn, New York
 name: Cityblock Health

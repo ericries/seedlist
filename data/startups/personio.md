@@ -59,6 +59,9 @@ investors:
 - round: Series C
   slug: harry-nelis
   year: 2020
+- round: Series E
+  slug: jamin-ball
+  year: 2021
 last_researched: 2026-03-24
 location: Munich, Germany
 name: Personio

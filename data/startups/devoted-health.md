@@ -43,6 +43,9 @@ investors:
 - round: Seed (co-founded)
   slug: bryan-roberts
   year: 2017
+- round: Seed
+  slug: bob-kocher
+  year: 2017
 last_researched: 2026-03-24
 location: Waltham, Massachusetts
 name: Devoted Health

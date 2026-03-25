@@ -42,6 +42,9 @@ firms:
 - round: Series A
   slug: the-general-partnership
   year: 2015
+- round: Series C
+  slug: refactor-capital
+  year: 2016
 founded: 2014
 founders:
 - name: Vivek Garipalli
@@ -67,6 +70,9 @@ investors:
 - round: Series A
   slug: phin-barnes
   year: 2015
+- round: Series C
+  slug: david-lee
+  year: 2016
 last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health

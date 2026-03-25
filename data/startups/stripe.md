@@ -66,6 +66,9 @@ firms:
 - round: ~2011
   slug: preston-werner-ventures
   year: 2011
+- round: Seed
+  slug: refactor-capital
+  year: 2010
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -151,6 +154,9 @@ investors:
 - round: ~2011
   slug: tom-preston-werner
   year: 2011
+- round: Seed
+  slug: david-lee
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

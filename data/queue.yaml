@@ -5879,7 +5879,7 @@ queue:
 - name: Jamin Ball
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Altimeter Capital
   discovered_from: altimeter-capital
@@ -5949,7 +5949,7 @@ queue:
     Conway'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Michael Dearing
   type: individual
@@ -6028,7 +6028,7 @@ queue:
   source: 'Collection gap analysis: Hard Tech — $5B defense-tech fund, Shield AI investor'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Nigel Morris
   type: individual
@@ -6055,7 +6055,7 @@ queue:
     the ACA'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Carmichael Roberts
   type: individual
@@ -6072,7 +6072,7 @@ queue:
     investor'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Shayle Kann
   type: individual
@@ -6126,7 +6126,7 @@ queue:
     crypto'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Wences Casares
   type: individual
@@ -6134,7 +6134,7 @@ queue:
   source: 'Collection gap analysis: Crypto — patient zero of Bitcoin in Silicon Valley'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Bob Nelsen
   type: individual
@@ -6159,7 +6159,7 @@ queue:
   source: 'Collection gap analysis: Biotech — a16z Bio GP, $750M Bio Fund III'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Alexis Borisy
   type: individual
@@ -6827,3 +6827,75 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: fritz-lanman
+- name: Tushar Jain
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Multicoin Capital
+  discovered_from: kyle-samani
+- name: Multicoin Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kyle-samani
+- name: Farzad Mostashari
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aledade
+  discovered_from: bob-kocher
+- name: Todd Park
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Devoted Health
+  discovered_from: bob-kocher
+- name: David Ebersman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lyra Health
+  discovered_from: bob-kocher
+- name: US Innovative Technology Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-tull
+- name: Swati Mylavarapu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Incite Ventures
+  discovered_from: matt-rogers
+- name: Incite Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-rogers
+- name: Kaszek Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-velez
+- name: Zal Bilimoria
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Refactor Capital
+  discovered_from: david-lee
+- name: Samsung Next
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-lee

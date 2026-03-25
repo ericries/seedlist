@@ -54,6 +54,9 @@ firms:
 - round: Growth
   slug: notable-capital
   year: 2015
+- round: Seed
+  slug: refactor-capital
+  year: 2009
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -126,6 +129,9 @@ investors:
 - round: Growth
   slug: glenn-solomon
   year: 2013
+- round: Seed
+  slug: david-lee
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

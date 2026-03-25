@@ -36,6 +36,12 @@ firms:
 - round: Seed
   slug: acequia-capital
   year: 2010
+- round: Early
+  slug: us-innovative-technology-fund
+  year: 2019
+- round: Seed
+  slug: refactor-capital
+  year: 2009
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -87,6 +93,12 @@ investors:
 - round: Seed
   slug: hank-vigil
   year: 2011
+- round: Early
+  slug: thomas-tull
+  year: 2019
+- round: Seed
+  slug: david-lee
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

@@ -45,6 +45,9 @@ firms:
 - round: Seed
   slug: kima-ventures
   year: 2019
+- round: Series D
+  slug: altimeter-capital
+  year: 2021
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -87,6 +90,9 @@ investors:
   year: 2019
 - round: Series E
   slug: meyer-malka
+  year: 2021
+- round: Series D
+  slug: jamin-ball
   year: 2021
 last_researched: 2026-03-17
 location: San Francisco, CA

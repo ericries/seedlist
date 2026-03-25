@@ -54,6 +54,9 @@ firms:
 - round: Series D (Lead)
   slug: ivp
   year: 2017
+- round: Seed
+  slug: refactor-capital
+  year: 2012
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -130,6 +133,9 @@ investors:
 - round: Series A
   slug: meyer-malka
   year: 2013
+- round: Seed
+  slug: david-lee
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

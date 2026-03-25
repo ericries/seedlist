@@ -12,6 +12,9 @@ firms:
 - round: Pre-IPO (private)
   slug: a-rod-corp
   year: 2016
+- round: Seed
+  slug: refactor-capital
+  year: 2012
 founded: 2011
 founders:
 - name: Evan Spiegel
@@ -34,6 +37,9 @@ investors:
 - round: Pre-IPO (private)
   slug: alex-rodriguez
   year: 2016
+- round: Seed
+  slug: david-lee
+  year: 2012
 last_researched: 2026-03-13
 location: Santa Monica, CA
 name: Snapchat

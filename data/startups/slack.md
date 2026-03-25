@@ -52,6 +52,9 @@ firms:
 - round: Series F
   slug: notable-capital
   year: 2016
+- round: Seed
+  slug: refactor-capital
+  year: 2013
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -117,6 +120,9 @@ investors:
 - round: Series F (GGV participating)
   slug: glenn-solomon
   year: 2016
+- round: Seed
+  slug: david-lee
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

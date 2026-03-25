@@ -138,6 +138,9 @@ firms:
 - round: Early stage; led Series D (2021)
   slug: gil-capital
   year: 2018
+- round: Series E
+  slug: us-innovative-technology-fund
+  year: 2022
 founded: 2017
 founders:
 - name: Palmer Luckey
@@ -202,6 +205,9 @@ investors:
 - round: Series B
   slug: david-ulevitch
   year: 2019
+- round: Series E
+  slug: thomas-tull
+  year: 2022
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

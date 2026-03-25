@@ -46,6 +46,9 @@ firms:
 - round: Angel
   slug: andreessen-horowitz
   year: 2007
+- round: Seed
+  slug: refactor-capital
+  year: 2007
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -102,6 +105,9 @@ investors:
 - round: Secondary
   slug: john-ofarrell
   year: 2011
+- round: Seed
+  slug: david-lee
+  year: 2007
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter

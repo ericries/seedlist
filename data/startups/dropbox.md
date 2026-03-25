@@ -24,6 +24,9 @@ firms:
 - round: ~2007
   slug: standard-capital
   year: 2007
+- round: Seed
+  slug: refactor-capital
+  year: 2007
 founded: 2007
 founders:
 - name: Drew Houston
@@ -54,6 +57,9 @@ investors:
   year: 2007
 - round: ~2007
   slug: paul-buchheit
+  year: 2007
+- round: Seed
+  slug: david-lee
   year: 2007
 last_researched: 2026-03-19
 location: San Francisco, CA

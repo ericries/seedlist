@@ -20,6 +20,9 @@ team:
 - name: Zal Bilimoria
   role: Founding Partner (Solo GP)
   slug: zal-bilimoria
+- name: David Lee
+  role: Co-Founder & Chairman
+  slug: david-lee
 type: firm
 website: https://refactor.com
 ---

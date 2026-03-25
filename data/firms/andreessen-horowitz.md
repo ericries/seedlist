@@ -84,6 +84,9 @@ team:
 - name: David Ulevitch
   role: General Partner
   slug: david-ulevitch
+- name: Jorge Conde
+  role: General Partner
+  slug: jorge-conde
 type: firm
 website: https://a16z.com
 ---

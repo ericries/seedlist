@@ -85,6 +85,9 @@ investors:
 - round: founder
   slug: sean-hunt
   year: 2016
+- round: Seed
+  slug: david-lee
+  year: 2017
 last_researched: 2026-03-19
 location: Houston, TX
 name: Solugen
