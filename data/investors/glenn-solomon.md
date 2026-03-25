@@ -80,7 +80,7 @@ Based on 34 verified investments in the portfolio table below:
 
 *Founder profile:* Solomon gravitates toward technical co-founders building infrastructure companies, often with an open source go-to-market component. Many portfolio founders are repeat entrepreneurs or have deep engineering backgrounds (Mitchell Hashimoto and Armon Dadgar of HashiCorp; Guillermo Rauch of Vercel; Paul Klein IV of Browserbase).
 
-**Note:** This analysis covers 28 independently verified investments. Solomon has led many more investments over his 20-year GGV/Notable Capital career that could not be individually verified with sourced dates. Percentages should be treated as indicative based on the verified sample.
+**Note:** This analysis covers 34 independently verified investments. Solomon has led many more investments over his 20-year GGV/Notable Capital career that could not be individually verified with sourced dates. Percentages should be treated as indicative based on the verified sample.
 
 ## Portfolio
 

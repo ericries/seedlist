@@ -15,6 +15,9 @@ firms:
 - round: Series A
   slug: kleiner-perkins
   year: 1999
+- round: Seed
+  slug: sherpalo-ventures
+  year: 1998
 founded: 1998
 founders:
 - name: Larry Page
@@ -37,6 +40,9 @@ investors:
 - round: Series A
   slug: john-doerr
   year: 1999
+- round: Seed
+  slug: ram-shriram
+  year: 1998
 last_researched: 2026-03-13
 location: Mountain View, CA
 name: Google

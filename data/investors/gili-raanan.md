@@ -9,14 +9,14 @@ stage_focus: [seed]
 sector_focus: [cybersecurity]
 check_size: "$2M-$10M"
 last_verified_investment:
-  date: 2026-02-25
-  company: "Gambit Security"
-  round: "Seed"
+  date: 2026-03-19
+  company: "Oasis Security"
+  round: "Series B"
 social:
   twitter: "@giliraanan"
   linkedin: "linkedin.com/in/giliraanan"
 status: published
-last_researched: 2026-03-21
+last_researched: 2026-03-25
 tldr: "Cyberstarts founder and seed-stage cyberecurity GP ($1.4B+ AUM) investing $2M-$10M exclusively in cybersecurity. Validates ideas with Fortune 500 CISOs pre-launch; 92% Israeli portfolio (Unit 8200 alumni); achieved unicorn exit (Wiz to Google for $32B)."
 ---
 

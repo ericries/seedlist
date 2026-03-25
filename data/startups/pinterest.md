@@ -84,6 +84,9 @@ investors:
 - round: Seed
   slug: fritz-lanman
   year: 2010
+- round: Seed
+  slug: hank-vigil
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

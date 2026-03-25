@@ -5985,7 +5985,7 @@ queue:
     ($250K in 1998)'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Ann Winblad
   type: individual
@@ -6046,7 +6046,7 @@ queue:
     intersection'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Bob Kocher
   type: individual
@@ -6790,21 +6790,21 @@ queue:
 - name: Renaud Laplanche
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Upgrade
   discovered_from: meyer-malka
 - name: David Velez
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Nubank
   discovered_from: meyer-malka
 - name: Erik Rannala
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mucker Capital
   discovered_from: michael-dearing
@@ -6817,7 +6817,7 @@ queue:
 - name: Hank Vigil
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Acequia Capital
   discovered_from: fritz-lanman

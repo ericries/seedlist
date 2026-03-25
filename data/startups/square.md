@@ -76,6 +76,9 @@ investors:
 - round: Series C (extended)
   slug: glenn-solomon
   year: 2011
+- round: Seed
+  slug: hank-vigil
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Square
