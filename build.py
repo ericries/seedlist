@@ -237,6 +237,7 @@ def build_investor_graph(investors, firms, startups, clusters_data):
     # 3. Also extract from startup profiles (investors/firms listed in frontmatter)
     startup_backers = {}
     startup_names = {}
+    startup_founders = {}  # slug -> [{name, role}]
     # Track which startups each investor backed (from startup frontmatter)
     investor_startups_from_fm = defaultdict(set)
     for s in startups:
@@ -244,6 +245,15 @@ def build_investor_graph(investors, firms, startups, clusters_data):
         if not s_slug:
             continue
         startup_names[s_slug] = s.get("name", s_slug)
+        # Extract founders
+        founders = []
+        for f in (s.get("founders") or []):
+            fname = f.get("name", "")
+            frole = f.get("role", "")
+            if fname:
+                founders.append({"name": fname, "role": frole})
+        if founders:
+            startup_founders[s_slug] = founders
         backers = []
         for inv_entry in (s.get("investors") or []):
             inv_slug = inv_entry.get("slug", "")
@@ -318,6 +328,7 @@ def build_investor_graph(investors, firms, startups, clusters_data):
         "co_investments": filtered_co,
         "startup_backers": startup_backers,
         "startup_names": startup_names,
+        "startup_founders": startup_founders,
         "investor_names": investor_names,
         "investor_firms": investor_firms_map,
         "collections": collections_map,

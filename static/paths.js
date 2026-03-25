@@ -96,50 +96,38 @@
       }
     }
 
-    // C. Shared portfolio companies
-    // Find companies this investor backed (from co_investments data + startup_backers)
-    var companyBackers = {};
-    // From startup_backers: find startups where this investor appears
+    // C. Through portfolio company founders
+    // Find startups this investor backed that have founder data
+    var companiesWithFounders = [];
     for (var startup in graph.startup_backers) {
       if (graph.startup_backers.hasOwnProperty(startup)) {
         var backers = graph.startup_backers[startup];
         if (backers.indexOf(slug) !== -1) {
-          // Collect other backers
-          var others = backers.filter(function (b) { return b !== slug; });
-          if (others.length > 0) {
-            companyBackers[startup] = others;
+          var founders = (graph.startup_founders && graph.startup_founders[startup]) || [];
+          if (founders.length > 0) {
+            companiesWithFounders.push({ slug: startup, founders: founders });
           }
         }
       }
     }
-    // Sort by number of co-backers descending
-    var companyList = [];
-    for (var company in companyBackers) {
-      if (companyBackers.hasOwnProperty(company)) {
-        companyList.push({ slug: company, backers: companyBackers[company] });
-      }
-    }
-    companyList.sort(function (a, b) { return b.backers.length - a.backers.length; });
-    companyList = companyList.slice(0, MAX_PORTFOLIO_COMPANIES);
+    companiesWithFounders.sort(function (a, b) { return b.founders.length - a.founders.length; });
+    companiesWithFounders = companiesWithFounders.slice(0, MAX_PORTFOLIO_COMPANIES);
 
-    if (companyList.length > 0) {
+    if (companiesWithFounders.length > 0) {
       html += '<div class="paths-category">';
-      html += '<h3>Through shared portfolio companies</h3>';
+      html += '<h3>Through portfolio company founders</h3>';
+      html += '<p class="paths-detail">Founders of companies this investor backed &mdash; they can make a warm intro.</p>';
       html += '<ul class="paths-list">';
-      for (var k = 0; k < companyList.length; k++) {
-        var co = companyList[k];
-        var displayBackers = co.backers.slice(0, MAX_BACKERS_PER_COMPANY);
-        var backerLinks = displayBackers.map(function (b) {
-          return investorLink(b, null, graph);
-        }).join(", ");
-        var more = co.backers.length > MAX_BACKERS_PER_COMPANY
-          ? " + " + (co.backers.length - MAX_BACKERS_PER_COMPANY) + " more"
-          : "";
-        html += '<li>';
+      for (var k = 0; k < companiesWithFounders.length; k++) {
+        var co = companiesWithFounders[k];
         var companyName = (graph.startup_names && graph.startup_names[co.slug]) || co.slug;
-        html += '<span class="paths-name">' + escHtml(companyName) + '</span>';
-        html += ' <span class="paths-detail">(' + co.backers.length + ' shared investor' + (co.backers.length !== 1 ? 's' : '') + ')</span>';
-        html += '<div class="paths-companies">' + backerLinks + more + '</div>';
+        var founderNames = co.founders.map(function (f) {
+          var role = f.role ? ' <span class="paths-detail">(' + escHtml(f.role) + ')</span>' : '';
+          return '<span class="paths-name">' + escHtml(f.name) + '</span>' + role;
+        }).join(", ");
+        html += '<li>';
+        html += '<a href="/startups/' + escHtml(co.slug) + '.html" class="paths-name">' + escHtml(companyName) + '</a>';
+        html += '<div class="paths-companies">' + founderNames + '</div>';
         html += '</li>';
       }
       html += '</ul></div>';

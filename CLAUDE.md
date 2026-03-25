@@ -739,7 +739,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
    - `python3 scripts/generate_tldrs.py --limit 20` — generate TLDR summaries for profiles that don't have one yet. Requires `ANTHROPIC_API_KEY` in env. Skip if key is not set.
    - `python3 scripts/cluster_investors.py` — recompute investor similarity clusters with any new profiles. Updates `data/clusters.json`.
    - `python3 scripts/process_issues.py` — process any pending GitHub Issues (source submissions, CSV candidates).
-   - **Pathway enrichment**: For published profiles that lack a `## Connections` section, dispatch a research agent to find and add connection data. Target 5-10 profiles per maintenance cycle. Prioritize profiles with the most co-investment edges.
+   - **Pathway enrichment**: For published profiles that lack a `## Connections` section, dispatch a research agent to find and add connection data. Target 5-10 profiles per maintenance cycle. Prioritize profiles with the most co-investment edges. **Board seats are the highest-priority connection type** — they enable cross-board matching (e.g., "Investor X sits on the board of Company Y alongside Person Z"). Search SEC DEF 14A filings, company websites, and press releases for current and former board memberships.
    - **Round monitoring**: Dispatch a research agent to search for recent startup funding round announcements. See "Round Feed Research" section below.
    - Commit and push if any of these produced changes.
 8. **One-line status, then immediately start next batch.**
