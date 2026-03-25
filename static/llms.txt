@@ -1,57 +1,146 @@
 # Seedlist.com
 
-> LLM-researched directory of startup investors. 335+ investor profiles with inferred theses, portfolio data, and fundraising intelligence.
+> LLM-researched directory of 340+ startup investors with inferred theses, portfolio data, and fundraising intelligence. Designed for AI agents helping founders raise money.
 
-## API Endpoints (JSON, no auth required)
+Detailed documentation: https://seedlist.com/agents.html
+Claude Skill: https://github.com/ericries/seedlist/blob/main/docs/seedlist-skill.md
 
-All data is static JSON, updated on every site build. Fetch with any HTTP client.
+## Endpoints (JSON, no auth, no rate limits)
 
-- [Investor Index](https://seedlist.com/enrichment-index.json): All investors and firms with structured metadata (stage_focus, sector_focus, check_size, location, last_active, thesis_summary)
-- [Investor Graph](https://seedlist.com/investor-graph.json): Co-investment relationships, firm memberships, startup founders, curated collection memberships
-- [Startup-Investor Map](https://seedlist.com/startup-investor-map.json): Which investors backed which startups, with round and year data
-- [Rounds Feed](https://seedlist.com/rounds-feed.json): 500 most recent funding rounds (company, date, amount, lead, round type)
-- [Search Index](https://seedlist.com/search-index.json): Searchable index of all investors, firms, and startups
-- [Cluster Data](https://seedlist.com/cluster-data.json): 40 curated investor collections plus algorithmic clusters
+All data is static JSON, rebuilt daily. Fetch with any HTTP client.
 
-## Schemas
+| Endpoint | URL | Size |
+|----------|-----|------|
+| Investor Index | https://seedlist.com/enrichment-index.json | ~260KB |
+| Investor Graph | https://seedlist.com/investor-graph.json | ~300KB |
+| Startup-Investor Map | https://seedlist.com/startup-investor-map.json | ~340KB |
+| Rounds Feed | https://seedlist.com/rounds-feed.json | ~190KB |
+| Cluster Data | https://seedlist.com/cluster-data.json | ~200KB |
+| Search Index | https://seedlist.com/search-index.json | ~290KB |
 
-### Investor (enrichment-index.json → investors[])
-- name: string
-- slug: string (URL path: /investors/{slug}.html)
-- firm: string (firm slug)
-- firm_name: string
-- role: string
-- location: string
-- stage_focus: string[] (e.g., ["seed", "series-a"])
-- sector_focus: string[] (e.g., ["fintech", "ai", "consumer"])
-- check_size: string (e.g., "$250K-$2M")
-- last_active: string (YYYY-MM-DD, most recent verified investment date)
-- status: string ("published")
-- thesis_summary: string (inferred thesis from portfolio analysis)
+## Critical: Data Gotchas
 
-### Funding Round (rounds-feed.json[])
-- company: string
-- company_slug: string
-- date: string (YYYY-MM or YYYY)
-- round: string (e.g., "Series A")
-- amount: string (e.g., "$30M")
-- lead: string (lead investor names)
-- sector: string[]
+1. **All string comparisons must be case-insensitive.** sector_focus contains mixed case: "fintech", "AI", "consumer-internet". Always .lower() before comparing.
+2. **firm is a slug, firm_name is display name.** firm_name may be empty — fall back to firm slug.
+3. **thesis_summary may contain HTML entities** like &rsquo; — decode before displaying to users.
+4. **last_active format varies**: "2025-11-15", "2025-03", "~2022", or empty. Parse defensively.
+5. **check_size is a human-readable string** like "$250K-$2M" or "$5M+". Parse the numbers for range comparison.
 
-## Use Cases
+## Quick Start: Build a Fundraising Target List
 
-1. **Build a fundraising target list**: Filter enrichment-index.json by stage_focus, sector_focus, check_size. Score by sector overlap and recency (last_active).
-2. **Find who invested in comparable companies**: Use startup-investor-map.json to look up investors by startup slug.
-3. **Find warm intro paths**: Use investor-graph.json co_investments and startup_founders to trace connection paths.
-4. **Enrich an investor list**: Match names against enrichment-index.json to add Seedlist metadata.
-5. **Track recent rounds**: Use rounds-feed.json sorted by date descending.
+This is the most common use case. Here's the recommended algorithm:
 
-## Profile Pages
+```python
+import json, urllib.request
 
-Full investor profiles at: https://seedlist.com/investors/{slug}.html
-Full firm profiles at: https://seedlist.com/firms/{slug}.html
-Full startup profiles at: https://seedlist.com/startups/{slug}.html
+data = json.loads(urllib.request.urlopen("https://seedlist.com/enrichment-index.json").read())
 
-## Contact
+# Founder inputs
+target_stage = "seed"
+target_sectors = ["fintech", "ai"]
 
-Maintained by Eric Ries. Source: https://github.com/ericries/seedlist
+results = []
+for inv in data["investors"]:
+    score = 0
+    reasons = []
+
+    # Stage match (0-30 points)
+    if target_stage in [s.lower() for s in (inv.get("stage_focus") or [])]:
+        score += 30
+        reasons.append(f"Invests at {target_stage}")
+
+    # Sector match (0-40 points, most important)
+    inv_sectors = [s.lower() for s in (inv.get("sector_focus") or [])]
+    overlap = [s for s in target_sectors if s in inv_sectors]
+    if overlap:
+        score += min(40, len(overlap) * 15)
+        reasons.append(f"Focus: {', '.join(overlap)}")
+
+    # Recency (0-15 points)
+    last = inv.get("last_active", "")
+    if last and last >= "2025":
+        score += 15
+        reasons.append("Active in last year")
+    elif last and last >= "2024":
+        score += 8
+
+    # Check size (0-15 points) — parse "$250K-$2M" ranges
+    # ... (see full scoring at https://seedlist.com/agents.html)
+
+    if score >= 30:
+        results.append({"investor": inv, "score": score, "reasons": reasons})
+
+results.sort(key=lambda x: -x["score"])
+
+# Tier 1: score >= 60 (strong fit)
+# Tier 2: score >= 40 (worth pursuing)
+# Tier 3: score >= 30 (stretch)
+```
+
+## Expected Output Format
+
+When presenting results to a founder, include for each investor:
+- Name and firm
+- Why they're a fit (from the reasons list)
+- Check size and last active date
+- Link to full profile: https://seedlist.com/investors/{slug}.html
+- Thesis summary (first 1-2 sentences)
+
+Aim for 15-30 investors across 3 tiers. Too few = founder has no options. Too many = noise.
+
+## Investor Schema (enrichment-index.json)
+
+```
+investors[]: {
+  name: string,           # "Keith Rabois"
+  slug: string,           # "keith-rabois" → /investors/keith-rabois.html
+  firm: string,           # "khosla-ventures" (slug, may differ from display name)
+  firm_name: string,      # "Khosla Ventures" (display name, may be empty)
+  role: string,           # "Managing Director"
+  location: string,       # "Miami Beach, FL"
+  stage_focus: string[],  # ["seed", "series-a", "series-b"]
+  sector_focus: string[], # ["fintech", "marketplaces", "consumer"] ⚠️ mixed case
+  check_size: string,     # "$500K-$150M" (human-readable range)
+  last_active: string,    # "2024-12" (YYYY-MM-DD or YYYY-MM or YYYY or ~YYYY)
+  status: string,         # "published"
+  thesis_summary: string  # 1-3 sentence inferred thesis ⚠️ may have HTML entities
+}
+firms[]: { name, slug, location, stage_focus, sector_focus, fund_size, website }
+queued[]: { name, type, firm } # investors/firms in research queue (not yet profiled)
+```
+
+## Other Endpoints
+
+### Comparable Companies (startup-investor-map.json)
+Find investors by comparable startups:
+```
+startups[]: { slug, name, sector[], stage }
+startup_investors: { "stripe": [{ slug, name, firm, round, year, has_profile }] }
+```
+
+### Warm Intro Paths (investor-graph.json)
+Trace connection paths between investors:
+```
+co_investments: { "keith-rabois": { "david-sacks": { count: 8, companies: [...] } } }
+firms: { "khosla-ventures": { name, members: ["keith-rabois", ...] } }
+startup_founders: { "stripe": [{ name: "Patrick Collison", role: "CEO" }] }
+startup_backers: { "stripe": ["keith-rabois", "sequoia-capital", ...] }
+```
+
+### Funding Rounds (rounds-feed.json)
+500 most recent rounds, sorted by date descending:
+```
+[{ company, company_slug, date, round, amount, lead, sector[], sort_key }]
+```
+
+### Investor Collections (cluster-data.json)
+40 curated thematic groups:
+```
+curated_collections[]: { id, name, tagline, size, members: [{ slug, name, firm }] }
+```
+
+## Attribution
+
+Free to use. Link back to seedlist.com when showing results to users.
+Source: https://github.com/ericries/seedlist
+Contact: Eric Ries

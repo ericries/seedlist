@@ -117,9 +117,11 @@ def build_enrichment_index(investors, firms, queue_path):
         # Find the Inferred Thesis section in the HTML
         m = re.search(r'<h2[^>]*>Inferred Thesis</h2>(.*?)(?=<h2|$)', content, re.DOTALL)
         if m:
-            # Strip HTML tags and get first 200 chars
+            # Strip HTML tags, decode entities, get first 200 chars
+            import html as html_mod
             text = re.sub(r'<[^>]+>', ' ', m.group(1))
             text = re.sub(r'\s+', ' ', text).strip()
+            text = html_mod.unescape(text)
             thesis_summary = text[:200]
 
         lvi = p.get("last_verified_investment")
@@ -983,6 +985,8 @@ def build():
 
     # Generate enrichment index for /enrich page
     enrichment_index = build_enrichment_index(investors, firms, DATA_DIR / "queue.yaml")
+    from datetime import datetime
+    enrichment_index["last_updated"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
     (OUTPUT_DIR / "enrichment-index.json").write_text(json.dumps(enrichment_index))
 
     # Generate startup-investor map for comparable companies finder
