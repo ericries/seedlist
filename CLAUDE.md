@@ -95,7 +95,8 @@ last_verified_investment:
   company: "Acme Corp"  # Company name
   round: "Series A"     # Round type
 social:
-  twitter: "@handle"
+  bluesky: "@handle.bsky.social"  # PREFERRED over Twitter/X when available
+  twitter: "@handle"               # Only if no Bluesky found
   linkedin: "linkedin.com/in/handle"
 status: draft  # draft | published | flagged
 last_researched: 2026-03-12
@@ -332,7 +333,8 @@ Actively hunt for direct quotes. They make profiles dramatically more useful for
 
 ### Where to Search
 
-- **Twitter/X** — search for the investor's handle and name
+- **Bluesky** — check if the investor has a Bluesky profile first (search `bsky.app`). **Prefer Bluesky over Twitter/X** for the social field. Only fall back to Twitter if no Bluesky account exists.
+- **Twitter/X** — search for the investor's handle and name (secondary to Bluesky)
 - **Blog posts** — personal blog, firm blog, guest posts on other sites
 - **Podcast appearances** — Twenty Minute VC, Venture Voices, etc. Search for transcripts.
 - **Conference talks** — SaaStr, TechCrunch Disrupt, SeedConf, etc.

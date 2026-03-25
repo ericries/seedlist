@@ -78,7 +78,9 @@
     <div class="meta-item">
       <span class="meta-label">Social</span>
       <span class="meta-value">
-        {% if profile.social.twitter %}
+        {% if profile.social.bluesky %}
+          <a href="https://bsky.app/profile/{{ profile.social.bluesky | replace('@', '') }}" target="_blank" rel="noopener">{{ profile.social.bluesky }}</a>
+        {% elif profile.social.twitter %}
           <a href="https://twitter.com/{{ profile.social.twitter | replace('@', '') }}" target="_blank" rel="noopener">@{{ profile.social.twitter | replace('@', '') }}</a>
         {% endif %}
         {% if profile.social.linkedin %}
