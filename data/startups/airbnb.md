@@ -48,6 +48,9 @@ firms:
 - round: Series A
   slug: gil-capital
   year: 2010
+- round: Growth
+  slug: acme-capital
+  year: 2013
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -111,6 +114,9 @@ investors:
 - round: Series D ($75M)
   slug: marc-stad
   year: 2014
+- round: Growth
+  slug: scott-stanford
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

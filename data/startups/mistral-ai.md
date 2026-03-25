@@ -48,6 +48,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2023
+- round: Seed
+  slug: kima-ventures
+  year: 2023
 founded: 2023
 founders:
 - name: Arthur Mensch
@@ -71,6 +74,9 @@ investors:
   year: 2023
 - round: '2023'
   slug: jan-hammer
+  year: 2023
+- round: Seed
+  slug: xavier-niel
   year: 2023
 last_researched: 2026-03-20
 location: Paris, France

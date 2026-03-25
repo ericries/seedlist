@@ -39,6 +39,9 @@ firms:
 - round: Early
   slug: greylock
   year: 2021
+- round: Series A
+  slug: innovation-endeavors
+  year: 2021
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -93,6 +96,9 @@ investors:
   year: 2021
 - round: Early
   slug: asheem-chandna
+  year: 2021
+- round: Series A
+  slug: eric-schmidt
   year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA

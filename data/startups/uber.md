@@ -111,6 +111,9 @@ firms:
 - round: Growth (advisor/angel)
   slug: expa
   year: 2015
+- round: Growth
+  slug: acme-capital
+  year: 2013
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -193,6 +196,9 @@ investors:
 - round: Growth (advisor/angel)
   slug: hooman-radfar
   year: 2015
+- round: Growth
+  slug: scott-stanford
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

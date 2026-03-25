@@ -9,6 +9,9 @@ firms:
 - round: Series A
   slug: benchmark
   year: 2013
+- round: Pre-IPO (private)
+  slug: a-rod-corp
+  year: 2016
 founded: 2011
 founders:
 - name: Evan Spiegel
@@ -28,6 +31,9 @@ investors:
 - round: Series A (identified)
   slug: matt-cohler
   year: 2013
+- round: Pre-IPO (private)
+  slug: alex-rodriguez
+  year: 2016
 last_researched: 2026-03-13
 location: Santa Monica, CA
 name: Snapchat

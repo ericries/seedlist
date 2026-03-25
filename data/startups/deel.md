@@ -42,6 +42,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2018
+- round: Seed
+  slug: kima-ventures
+  year: 2019
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -79,6 +82,9 @@ investors:
 - round: Seed
   slug: amit-avner
   year: 2020
+- round: Seed
+  slug: xavier-niel
+  year: 2019
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

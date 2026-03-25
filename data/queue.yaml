@@ -4274,7 +4274,7 @@ queue:
 - name: AME Cloud Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jerry-yang
 - name: Scott Belsky
@@ -5400,7 +5400,7 @@ queue:
 - name: Alex Rodriguez
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: VCP Ventures
   discovered_from: marc-lore
@@ -5439,20 +5439,20 @@ queue:
 - name: Diogo Monica
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Haun Ventures
   discovered_from: haun-ventures
 - name: Eric Schmidt
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: mistral-ai
 - name: Xavier Niel
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: mistral-ai
 - name: Parker Conrad
@@ -6596,7 +6596,7 @@ queue:
 - name: Matt Mullenweg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Audrey Capital
   discovered_from: naveen-selvadurai
@@ -6609,7 +6609,7 @@ queue:
 - name: Dennis Crowley
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: naveen-selvadurai
 - name: ACME Capital
@@ -6621,7 +6621,7 @@ queue:
 - name: Scott Stanford
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sherpa Capital
   discovered_from: sherpa-capital
@@ -6652,3 +6652,53 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: ilya-fushman
+- name: Dror Berman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Innovation Endeavors
+  discovered_from: eric-schmidt
+- name: Tom Preston-Werner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-mullenweg
+- name: Kima Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: xavier-niel
+- name: True Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-mullenweg
+- name: OSS Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-mullenweg
+- name: Jeremie Berrebi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kima Ventures
+  discovered_from: xavier-niel
+- name: SandboxAQ
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eric-schmidt
+- name: Mozi
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dennis-crowley

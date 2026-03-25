@@ -42,6 +42,9 @@ firms:
 - round: '2013'
   slug: index-ventures
   year: 2013
+- round: Growth
+  slug: acme-capital
+  year: 2015
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -91,6 +94,9 @@ investors:
 - round: Series A
   slug: rick-yang
   year: 2014
+- round: Growth
+  slug: scott-stanford
+  year: 2015
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood
