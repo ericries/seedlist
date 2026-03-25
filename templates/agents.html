@@ -129,26 +129,43 @@
 
 <section class="agents-section">
   <h2>Quick Start</h2>
-  <p>All endpoints return static JSON. No API key needed. Fetch with curl, Python, or any HTTP client.</p>
+  <p>All endpoints return static JSON. No API key needed. Fetch with curl, Python, or any HTTP client. Data is rebuilt daily; check <code>last_updated</code> field on the root object for freshness.</p>
 
   <h3>curl</h3>
 <pre><code>curl -s https://seedlist.com/enrichment-index.json | python3 -m json.tool | head -50</code></pre>
 
   <h3>Python</h3>
-<pre><code><span class="keyword">import</span> requests
+<pre><code><span class="keyword">import</span> json, urllib.request
 
 <span class="comment"># Load the full investor index</span>
-data = requests.get(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).json()
+data = json.loads(urllib.request.urlopen(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).read())
 
 <span class="comment"># Find seed-stage fintech investors</span>
+<span class="comment"># ⚠️ Always lowercase sector values before comparing</span>
 matches = [
     inv <span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"investors"</span>]
     <span class="keyword">if</span> <span class="string">"seed"</span> <span class="keyword">in</span> inv[<span class="string">"stage_focus"</span>]
-    <span class="keyword">and</span> <span class="string">"fintech"</span> <span class="keyword">in</span> inv[<span class="string">"sector_focus"</span>]
+    <span class="keyword">and</span> <span class="string">"fintech"</span> <span class="keyword">in</span> [s.lower() <span class="keyword">for</span> s <span class="keyword">in</span> inv[<span class="string">"sector_focus"</span>]]
 ]
 
 <span class="keyword">for</span> inv <span class="keyword">in</span> matches[:<span class="number">5</span>]:
-    print(f<span class="string">"{inv['name']} ({inv['firm_name']}) — {inv['thesis_summary'][:80]}"</span>)</code></pre>
+    <span class="comment"># Use tldr for summaries; fall back to thesis_summary</span>
+    summary = inv.get(<span class="string">"tldr"</span>) <span class="keyword">or</span> inv[<span class="string">"thesis_summary"</span>][:<span class="number">80</span>]
+    <span class="comment"># firm_name may be empty — fall back to firm slug</span>
+    firm = inv[<span class="string">"firm_name"</span>] <span class="keyword">or</span> inv[<span class="string">"firm"</span>]
+    print(f<span class="string">"{inv['name']} ({firm}) — {summary}"</span>)</code></pre>
+
+  <h3>Data Gotchas</h3>
+  <p>Read these before writing code against Seedlist endpoints:</p>
+  <ul>
+    <li><strong>Sectors are lowercase</strong> — <code>sector_focus</code> values are lowercase strings like <code>"fintech"</code>, <code>"ai"</code>. Always <code>.lower()</code> user input before comparing.</li>
+    <li><strong><code>firm</code> is a slug, <code>firm_name</code> is display</strong> — <code>firm_name</code> may be empty. Fall back: <code>inv["firm_name"] or inv["firm"]</code></li>
+    <li><strong>Use <code>tldr</code> for summaries</strong> — 95% of investors have a <code>tldr</code> field (2-4 sentences). Better than <code>thesis_summary</code> (first 200 chars of inferred thesis, may be truncated mid-sentence).</li>
+    <li><strong><code>last_active</code> format varies</strong> — "2025-11-15", "2025-03", "~2022", or empty. Parse defensively. For recency filtering, string comparison works: <code>inv["last_active"] >= "2024"</code></li>
+    <li><strong><code>check_size</code> is human-readable</strong> — e.g., "$250K-$2M" or "$5M+". Parse with regex to extract numbers for range comparison.</li>
+    <li><strong>Startup-investor map has duplicates</strong> — an investor appears once per round in a startup. Deduplicate by slug when counting across comparables. Filter out slug <code>"independent"</code>.</li>
+    <li><strong><code>queued</code> array</strong> — investors/firms in the research pipeline but not yet profiled. Useful for telling founders "we know about this investor but don't have a profile yet."</li>
+  </ul>
 </section>
 
 <section class="agents-section">
@@ -208,58 +225,80 @@ matches = [
 
   <div class="task-block">
     <h3>1. Build a fundraising target list</h3>
-    <p>Filter by stage, sector, and check size. Score by sector overlap and recency.</p>
-<pre><code><span class="keyword">import</span> requests
-<span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timedelta
+    <p>Score investors by stage match (30pts), sector overlap (40pts), recency (15pts), check size fit (15pts). Group into 3 tiers. Aim for 15-30 results.</p>
+<pre><code><span class="keyword">import</span> json, urllib.request
 
-data = requests.get(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).json()
+data = json.loads(urllib.request.urlopen(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).read())
 
-<span class="comment"># Define what you're looking for</span>
 my_stage = <span class="string">"seed"</span>
-my_sectors = {<span class="string">"fintech"</span>, <span class="string">"developer-tools"</span>}
-cutoff = (datetime.now() - timedelta(days=<span class="number">365</span>)).strftime(<span class="string">"%Y-%m-%d"</span>)
+my_sectors = [<span class="string">"fintech"</span>, <span class="string">"developer-tools"</span>]
 
 results = []
 <span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"investors"</span>]:
-    <span class="keyword">if</span> my_stage <span class="keyword">not in</span> inv[<span class="string">"stage_focus"</span>]:
-        <span class="keyword">continue</span>
-    overlap = len(my_sectors & set(inv[<span class="string">"sector_focus"</span>]))
-    <span class="keyword">if</span> overlap == <span class="number">0</span>:
-        <span class="keyword">continue</span>
-    active = inv[<span class="string">"last_active"</span>] >= cutoff <span class="keyword">if</span> inv[<span class="string">"last_active"</span>] <span class="keyword">else</span> <span class="keyword">False</span>
-    results.append({
-        <span class="string">"name"</span>: inv[<span class="string">"name"</span>],
-        <span class="string">"firm"</span>: inv[<span class="string">"firm_name"</span>],
-        <span class="string">"overlap"</span>: overlap,
-        <span class="string">"active"</span>: active,
-        <span class="string">"thesis"</span>: inv[<span class="string">"thesis_summary"</span>],
-        <span class="string">"profile"</span>: f<span class="string">"https://seedlist.com/investors/{inv['slug']}.html"</span>,
-    })
+    score, reasons = <span class="number">0</span>, []
 
-<span class="comment"># Sort: active investors first, then by sector overlap</span>
-results.sort(key=<span class="keyword">lambda</span> x: (-x[<span class="string">"active"</span>], -x[<span class="string">"overlap"</span>]))
-<span class="keyword">for</span> r <span class="keyword">in</span> results[:<span class="number">20</span>]:
-    print(f<span class="string">"{'*' if r['active'] else ' '} {r['name']} ({r['firm']}) — {r['thesis'][:60]}"</span>)</code></pre>
+    <span class="comment"># Stage match (30 pts)</span>
+    <span class="keyword">if</span> my_stage <span class="keyword">in</span> inv[<span class="string">"stage_focus"</span>]:
+        score += <span class="number">30</span>
+        reasons.append(f<span class="string">"Invests at {my_stage}"</span>)
+
+    <span class="comment"># Sector overlap (up to 40 pts) — lowercase compare</span>
+    inv_sectors = [s.lower() <span class="keyword">for</span> s <span class="keyword">in</span> inv[<span class="string">"sector_focus"</span>]]
+    overlap = [s <span class="keyword">for</span> s <span class="keyword">in</span> my_sectors <span class="keyword">if</span> s <span class="keyword">in</span> inv_sectors]
+    <span class="keyword">if</span> overlap:
+        score += min(<span class="number">40</span>, len(overlap) * <span class="number">15</span>)
+        reasons.append(f<span class="string">"Sectors: {', '.join(overlap)}"</span>)
+
+    <span class="comment"># Recency (15 pts)</span>
+    last = inv.get(<span class="string">"last_active"</span>, <span class="string">""</span>)
+    <span class="keyword">if</span> last >= <span class="string">"2025"</span>: score += <span class="number">15</span>
+    <span class="keyword">elif</span> last >= <span class="string">"2024"</span>: score += <span class="number">8</span>
+
+    <span class="keyword">if</span> score >= <span class="number">30</span>:
+        tier = <span class="number">1</span> <span class="keyword">if</span> score >= <span class="number">60</span> <span class="keyword">else</span> <span class="number">2</span> <span class="keyword">if</span> score >= <span class="number">40</span> <span class="keyword">else</span> <span class="number">3</span>
+        results.append({
+            <span class="string">"name"</span>: inv[<span class="string">"name"</span>],
+            <span class="string">"firm"</span>: inv[<span class="string">"firm_name"</span>] <span class="keyword">or</span> inv[<span class="string">"firm"</span>],
+            <span class="string">"tier"</span>: tier,
+            <span class="string">"why"</span>: <span class="string">"; "</span>.join(reasons),
+            <span class="string">"tldr"</span>: inv.get(<span class="string">"tldr"</span>, <span class="string">""</span>),
+            <span class="string">"url"</span>: f<span class="string">"https://seedlist.com/investors/{inv['slug']}.html"</span>,
+        })
+
+results.sort(key=<span class="keyword">lambda</span> x: x[<span class="string">"tier"</span>])
+<span class="keyword">for</span> r <span class="keyword">in</span> results:
+    label = [<span class="string">"Strong fit"</span>, <span class="string">"Worth pursuing"</span>, <span class="string">"Stretch"</span>][r[<span class="string">"tier"</span>] - <span class="number">1</span>]
+    print(f<span class="string">"[{label}] {r['name']} ({r['firm']}) — {r['why']}"</span>)</code></pre>
   </div>
 
   <div class="task-block">
     <h3>2. Find investors by comparable companies</h3>
-    <p>Look up which investors backed similar startups.</p>
-<pre><code><span class="keyword">from</span> collections <span class="keyword">import</span> Counter
+    <p>Look up which investors backed similar startups. <strong>Important:</strong> deduplicate by slug per startup (investors appear once per round).</p>
+<pre><code><span class="keyword">import</span> json, urllib.request
+<span class="keyword">from</span> collections <span class="keyword">import</span> defaultdict
 
-data = requests.get(<span class="string">"https://seedlist.com/startup-investor-map.json"</span>).json()
+data = json.loads(urllib.request.urlopen(<span class="string">"https://seedlist.com/startup-investor-map.json"</span>).read())
 
-<span class="comment"># Startups similar to ours</span>
 comparables = [<span class="string">"stripe"</span>, <span class="string">"plaid"</span>, <span class="string">"brex"</span>]
 
-investor_counts = Counter()
+<span class="comment"># Count unique startups per investor (not rounds!)</span>
+investor_companies = defaultdict(<span class="keyword">lambda</span>: {<span class="string">"name"</span>: <span class="string">""</span>, <span class="string">"companies"</span>: set(), <span class="string">"has_profile"</span>: <span class="keyword">False</span>})
 <span class="keyword">for</span> slug <span class="keyword">in</span> comparables:
+    <span class="comment"># Deduplicate: one entry per investor per startup</span>
+    seen = set()
     <span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"startup_investors"</span>].get(slug, []):
-        investor_counts[inv[<span class="string">"name"</span>]] += <span class="number">1</span>
+        <span class="keyword">if</span> inv[<span class="string">"slug"</span>] <span class="keyword">in</span> seen <span class="keyword">or</span> inv[<span class="string">"slug"</span>] == <span class="string">"independent"</span>:
+            <span class="keyword">continue</span>
+        seen.add(inv[<span class="string">"slug"</span>])
+        entry = investor_companies[inv[<span class="string">"slug"</span>]]
+        entry[<span class="string">"name"</span>] = inv[<span class="string">"name"</span>]
+        entry[<span class="string">"companies"</span>].add(slug)
+        entry[<span class="string">"has_profile"</span>] = inv.get(<span class="string">"has_profile"</span>, <span class="keyword">False</span>)
 
-<span class="comment"># Investors who backed multiple comparables are strongest signal</span>
-<span class="keyword">for</span> name, count <span class="keyword">in</span> investor_counts.most_common(<span class="number">15</span>):
-    print(f<span class="string">"{name}: backed {count}/{len(comparables)} comparables"</span>)</code></pre>
+results = sorted(investor_companies.values(), key=<span class="keyword">lambda</span> x: -len(x[<span class="string">"companies"</span>]))
+<span class="keyword">for</span> r <span class="keyword">in</span> results[:<span class="number">15</span>]:
+    cos = <span class="string">", "</span>.join(r[<span class="string">"companies"</span>])
+    print(f<span class="string">"{r['name']}: backed {len(r['companies'])}/{len(comparables)} ({cos})"</span>)</code></pre>
   </div>
 
   <div class="task-block">
@@ -340,20 +379,27 @@ cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
 <section class="agents-section">
   <h2>Schema Reference</h2>
 
-  <h3>Investor (enrichment-index.json)</h3>
-  <p>The <code>investors</code> array contains one entry per published investor profile.</p>
+  <h3>Root Object (enrichment-index.json)</h3>
+  <div class="schema-field"><code>investors</code> <span class="type">array</span> &mdash; All published investor profiles (see below)</div>
+  <div class="schema-field"><code>firms</code> <span class="type">array</span> &mdash; All published firm profiles</div>
+  <div class="schema-field"><code>queued</code> <span class="type">array</span> &mdash; Investors/firms in the research pipeline (not yet profiled). Useful for "we know about X but don't have a profile yet."</div>
+  <div class="schema-field"><code>last_updated</code> <span class="type">string</span> &mdash; ISO timestamp of last build (e.g., "2026-03-25T09:00:00Z")</div>
+
+  <h3>Investor (enrichment-index.json &rarr; investors[])</h3>
+  <p>One entry per published investor profile.</p>
   <div class="schema-field"><code>name</code> <span class="type">string</span> &mdash; Full name (e.g., "Ron Conway")</div>
   <div class="schema-field"><code>slug</code> <span class="type">string</span> &mdash; URL identifier. Profile at <code>/investors/{slug}.html</code></div>
-  <div class="schema-field"><code>firm</code> <span class="type">string</span> &mdash; Firm slug (e.g., "sv-angel")</div>
-  <div class="schema-field"><code>firm_name</code> <span class="type">string</span> &mdash; Firm display name (e.g., "SV Angel")</div>
+  <div class="schema-field"><code>firm</code> <span class="type">string</span> &mdash; Firm slug (e.g., "sv-angel"). &#x26A0; This is a slug, not a display name.</div>
+  <div class="schema-field"><code>firm_name</code> <span class="type">string</span> &mdash; Firm display name (e.g., "SV Angel"). &#x26A0; May be empty &mdash; fall back to <code>firm</code>.</div>
   <div class="schema-field"><code>role</code> <span class="type">string</span> &mdash; Role at firm (e.g., "Partner", "Founder")</div>
   <div class="schema-field"><code>location</code> <span class="type">string</span> &mdash; Location (e.g., "San Francisco, CA")</div>
-  <div class="schema-field"><code>stage_focus</code> <span class="type">string[]</span> &mdash; Investment stages (e.g., ["pre-seed", "seed"])</div>
-  <div class="schema-field"><code>sector_focus</code> <span class="type">string[]</span> &mdash; Investment sectors (e.g., ["fintech", "ai", "consumer"])</div>
-  <div class="schema-field"><code>check_size</code> <span class="type">string</span> &mdash; Typical check size range (e.g., "$250K-$2M")</div>
-  <div class="schema-field"><code>last_active</code> <span class="type">string</span> &mdash; Most recent verified investment date (YYYY-MM-DD). Empty if unknown.</div>
+  <div class="schema-field"><code>stage_focus</code> <span class="type">string[]</span> &mdash; Investment stages (e.g., ["pre-seed", "seed"]). Values are lowercase.</div>
+  <div class="schema-field"><code>sector_focus</code> <span class="type">string[]</span> &mdash; Investment sectors (e.g., ["fintech", "ai", "consumer"]). Values are lowercase.</div>
+  <div class="schema-field"><code>check_size</code> <span class="type">string</span> &mdash; Human-readable range (e.g., "$250K-$2M", "$5M+"). Parse with regex for numeric comparison.</div>
+  <div class="schema-field"><code>last_active</code> <span class="type">string</span> &mdash; Most recent verified investment date. &#x26A0; Format varies: "2025-11-15", "2025-03", "~2022", or empty.</div>
   <div class="schema-field"><code>status</code> <span class="type">string</span> &mdash; Always "published" in this endpoint</div>
-  <div class="schema-field"><code>thesis_summary</code> <span class="type">string</span> &mdash; LLM-inferred thesis from actual portfolio analysis (first 200 chars)</div>
+  <div class="schema-field"><code>tldr</code> <span class="type">string</span> &mdash; 2-4 sentence summary of who they are and what they invest in. <strong>Best field for presenting to founders.</strong> 95% populated.</div>
+  <div class="schema-field"><code>thesis_summary</code> <span class="type">string</span> &mdash; First 200 chars of LLM-inferred thesis from portfolio analysis. May be truncated mid-sentence &mdash; prefer <code>tldr</code>.</div>
 
   <h3>Firm (enrichment-index.json)</h3>
   <p>The <code>firms</code> array contains one entry per published firm profile.</p>
@@ -392,7 +438,8 @@ cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
 </section>
 
 <div class="footer-links">
-  <a href="/static/llms.txt">View llms.txt</a>
+  <a href="/llms.txt">llms.txt (machine-readable summary)</a>
+  <a href="https://github.com/ericries/seedlist/blob/main/docs/seedlist-skill.md">Claude Skill file</a>
   <a href="https://github.com/ericries/seedlist">GitHub source</a>
 </div>
 {% endblock %}
