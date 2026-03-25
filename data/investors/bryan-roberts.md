@@ -16,6 +16,7 @@ sector_focus:
 - biotech
 - health-it
 slug: bryan-roberts
+tldr: "General Partner at Venrock since 1997, exclusively focused on healthcare, life sciences, and biotech. Co-founded Castlight Health ($3B IPO) and Devoted Health, with nine portfolio companies reaching $1B+ valuations. Known for contrarian bets on approaches others dismiss, with checks from $2M-$40M at seed through Series B."
 social:
   linkedin: linkedin.com/in/bryanrobertsvc
   twitter: '@BRobertsVC'

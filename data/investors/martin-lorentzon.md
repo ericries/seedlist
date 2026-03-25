@@ -15,6 +15,7 @@ sector_focus:
 - lifestyle
 - nordic-smid-cap
 slug: martin-lorentzon
+tldr: "Spotify co-founder who provided the original seed capital to Daniel Ek. Now invests through two vehicles: personal angel bets on Swedish consumer and lifestyle startups, and Cervantes Capital (~$200M AUM) targeting overlooked Nordic public small-caps. Stockholm-based, relationship-driven, no formal VC thesis."
 social:
   twitter: '@MartinLorentzon'
 stage_focus:

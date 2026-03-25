@@ -738,7 +738,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
    - Rebuilds site → single git commit+push
    - The invocation is always identical — no arguments, no per-slug calls
 7. **Run maintenance tasks** (after every 3rd batch, not every batch):
-   - `python3 scripts/generate_tldrs.py --limit 20` — generate TLDR summaries for profiles that don't have one yet. Requires `ANTHROPIC_API_KEY` in env. Skip if key is not set.
+   - **TLDR generation**: For published profiles missing a `tldr` frontmatter field, generate a 2-4 sentence summary. Read the full profile, write a TLDR covering: who they are, what they actually invest in (inferred thesis), what's distinctive, and notable investments. Write in third person, present tense. Add `tldr: "..."` to frontmatter (replace inner double quotes with single quotes for YAML safety). Target 10-20 profiles per maintenance cycle.
    - `python3 scripts/cluster_investors.py` — recompute investor similarity clusters with any new profiles. Updates `data/clusters.json`.
    - `python3 scripts/process_issues.py` — process any pending GitHub Issues (source submissions, CSV candidates).
    - **Pathway enrichment**: For published profiles that lack a `## Connections` section, dispatch a research agent to find and add connection data. Target 5-10 profiles per maintenance cycle. Prioritize profiles with the most co-investment edges. **Board seats are the highest-priority connection type** — they enable cross-board matching (e.g., "Investor X sits on the board of Company Y alongside Person Z"). Search SEC DEF 14A filings, company websites, and press releases for current and former board memberships.
