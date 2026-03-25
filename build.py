@@ -175,6 +175,155 @@ def build_enrichment_index(investors, firms, queue_path):
     return index
 
 
+def build_investor_graph(investors, firms, startups, clusters_data):
+    """Build an investor connection graph JSON for the 'Paths to' feature.
+
+    Returns a dict with:
+      - firms: firm slug -> {name, members[]}
+      - co_investments: investor slug -> {other slug -> {count, companies[]}}
+      - startup_backers: startup slug -> [investor/firm slugs]
+      - investor_names: slug -> display name
+      - investor_firms: slug -> firm name (display)
+      - collections: slug -> [collection names]
+    """
+    from collections import defaultdict
+
+    firm_lookup = {f["slug"]: f for f in firms}
+    investor_lookup = {i["slug"]: i for i in investors}
+
+    # 1. Build firms -> members map
+    graph_firms = {}
+    for inv in investors:
+        firm_slug = inv.get("firm", "")
+        if not firm_slug:
+            continue
+        if firm_slug not in graph_firms:
+            firm_data = firm_lookup.get(firm_slug)
+            firm_name = firm_data["name"] if firm_data else firm_slug
+            graph_firms[firm_slug] = {"name": firm_name, "members": []}
+        if inv["slug"] not in graph_firms[firm_slug]["members"]:
+            graph_firms[firm_slug]["members"].append(inv["slug"])
+
+    # 2. Build investor -> set of portfolio company slugs from investor markdown
+    investor_companies = defaultdict(set)
+    inv_data_path = DATA_DIR / "investors"
+    if inv_data_path.exists():
+        for md_file in sorted(inv_data_path.glob("*.md")):
+            post = frontmatter.load(md_file)
+            meta = dict(post.metadata)
+            if meta.get("status") != "published":
+                continue
+            slug = meta.get("slug", "")
+            if not slug:
+                continue
+            # Parse portfolio table from raw markdown
+            raw = post.content
+            in_portfolio = False
+            for line in raw.split("\n"):
+                stripped = line.strip()
+                if stripped.startswith("## Portfolio"):
+                    in_portfolio = True
+                    continue
+                if in_portfolio and stripped.startswith("## "):
+                    break
+                if in_portfolio and stripped.startswith("|") and not stripped.startswith("|--") and not stripped.startswith("| Company"):
+                    parts = [p.strip() for p in stripped.split("|")]
+                    if len(parts) >= 2:
+                        company_name = parts[1]
+                        if company_name and company_name != "Company":
+                            company_slug = re.sub(r'[^a-z0-9]+', '-', company_name.lower()).strip('-')
+                            investor_companies[slug].add(company_slug)
+
+    # 3. Also extract from startup profiles (investors/firms listed in frontmatter)
+    startup_backers = {}
+    startup_names = {}
+    # Track which startups each investor backed (from startup frontmatter)
+    investor_startups_from_fm = defaultdict(set)
+    for s in startups:
+        s_slug = s.get("slug", "")
+        if not s_slug:
+            continue
+        startup_names[s_slug] = s.get("name", s_slug)
+        backers = []
+        for inv_entry in (s.get("investors") or []):
+            inv_slug = inv_entry.get("slug", "")
+            if inv_slug:
+                backers.append(inv_slug)
+                investor_startups_from_fm[inv_slug].add(s_slug)
+        for firm_entry in (s.get("firms") or []):
+            firm_slug = firm_entry.get("slug", "")
+            if firm_slug:
+                backers.append(firm_slug)
+        if backers:
+            startup_backers[s_slug] = backers
+
+    # Merge startup frontmatter data into investor_companies
+    for inv_slug, startup_slugs in investor_startups_from_fm.items():
+        investor_companies[inv_slug].update(startup_slugs)
+
+    # 4. Compute co-investment counts between all investor pairs
+    # Build company -> set of investors
+    company_investors = defaultdict(set)
+    for inv_slug, companies in investor_companies.items():
+        for co in companies:
+            company_investors[co].add(inv_slug)
+
+    # Now compute pairwise co-investments
+    co_investments = defaultdict(lambda: defaultdict(lambda: {"count": 0, "companies": []}))
+    for company, inv_set in company_investors.items():
+        inv_list = sorted(inv_set)
+        for i in range(len(inv_list)):
+            for j in range(i + 1, len(inv_list)):
+                a, b = inv_list[i], inv_list[j]
+                co_investments[a][b]["count"] += 1
+                co_investments[a][b]["companies"].append(company)
+                co_investments[b][a]["count"] += 1
+                co_investments[b][a]["companies"].append(company)
+
+    # Filter to count >= 2, cap companies at 8 per pair
+    filtered_co = {}
+    for inv_slug, peers in co_investments.items():
+        inv_peers = {}
+        for peer_slug, data in peers.items():
+            if data["count"] >= 2:
+                companies = sorted(data["companies"])[:8]
+                inv_peers[peer_slug] = {"count": data["count"], "companies": companies}
+        if inv_peers:
+            filtered_co[inv_slug] = inv_peers
+
+    # 5. Build investor names and firms maps
+    investor_names = {}
+    investor_firms_map = {}
+    for inv in investors:
+        slug = inv.get("slug", "")
+        investor_names[slug] = inv.get("name", slug)
+        firm_slug = inv.get("firm", "")
+        firm_data = firm_lookup.get(firm_slug)
+        investor_firms_map[slug] = firm_data["name"] if firm_data else ""
+
+    # 6. Build collections map from curated_collections
+    collections_map = {}
+    curated = clusters_data.get("curated_collections", [])
+    for col in curated:
+        col_name = col.get("name", "")
+        for member in col.get("members", []):
+            m_slug = member.get("slug", "")
+            if m_slug:
+                if m_slug not in collections_map:
+                    collections_map[m_slug] = []
+                collections_map[m_slug].append(col_name)
+
+    return {
+        "firms": graph_firms,
+        "co_investments": filtered_co,
+        "startup_backers": startup_backers,
+        "startup_names": startup_names,
+        "investor_names": investor_names,
+        "investor_firms": investor_firms_map,
+        "collections": collections_map,
+    }
+
+
 def build_startup_investor_map(startups, investor_lookup, firm_lookup):
     """Build a JSON map of startups to their investors for the comparable companies finder."""
     startup_list = []
@@ -493,6 +642,10 @@ def build():
     # Generate startup-investor map for comparable companies finder
     startup_investor_map = build_startup_investor_map(startups, investor_lookup, firm_lookup)
     (OUTPUT_DIR / "startup-investor-map.json").write_text(json.dumps(startup_investor_map))
+
+    # Generate investor graph for "Paths to" feature
+    investor_graph = build_investor_graph(investors, firms, startups, clusters_data)
+    (OUTPUT_DIR / "investor-graph.json").write_text(json.dumps(investor_graph))
 
     # Render enrich page
     enrich_tmpl_path = TEMPLATES_DIR / "enrich.html"

@@ -909,6 +909,66 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   margin: 0;
 }
 
+/* ===== Paths Section ===== */
+.paths-section {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.paths-section h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.paths-intro {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 1rem;
+}
+
+.paths-category {
+  margin-bottom: 1.25rem;
+}
+
+.paths-category h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--color-text);
+}
+
+.paths-list {
+  list-style: none;
+  padding: 0;
+}
+
+.paths-list li {
+  padding: 0.35rem 0;
+  font-size: 0.85rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.paths-list li:last-child {
+  border-bottom: none;
+}
+
+.paths-name {
+  font-weight: 600;
+}
+
+.paths-detail {
+  color: var(--color-muted);
+  font-size: 0.8rem;
+}
+
+.paths-companies {
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  margin-top: 0.15rem;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.5rem; }

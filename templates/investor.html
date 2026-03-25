@@ -141,6 +141,13 @@
     </div>
   </div>
   {% endif %}
+
+  <div class="paths-section" id="paths-section" style="display:none" data-slug="{{ profile.slug }}">
+    <h2>Paths to {{ profile.name }}</h2>
+    <p class="paths-intro">Ways to get a warm introduction, based on shared investments and professional connections.</p>
+    <div id="paths-content"></div>
+  </div>
 </article>
+<script src="/static/paths.js"></script>
 <script src="/static/feedback.js"></script>
 {% endblock %}
