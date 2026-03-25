@@ -61,9 +61,15 @@
     <div class="meta-item">
       <span class="meta-label">Last Verified Investment</span>
       <span class="meta-value">
-        {{ profile.last_verified_investment.company }}
+        {% set lvi_company = profile.last_verified_investment.company %}
+        {% set lvi_slug = lvi_company | lower | replace(' ', '-') | replace('.', '') | replace("'", '') %}
+        {% if startup_lookup and lvi_slug in startup_lookup %}
+          <a href="/startups/{{ lvi_slug }}.html">{{ lvi_company }}</a>
+        {% else %}
+          {{ lvi_company }}
+        {% endif %}
         {% if profile.last_verified_investment.round %}({{ profile.last_verified_investment.round }}){% endif %}
-        — {{ profile.last_verified_investment.date }}
+        — {{ profile.last_verified_investment.date | format_date }}
       </span>
     </div>
     {% endif %}

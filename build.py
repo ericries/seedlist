@@ -754,6 +754,27 @@ def build():
     env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
     env.filters["slugify"] = slugify
 
+    def format_date(date_str):
+        """Format YYYY-MM-DD or YYYY-MM or YYYY to human-readable."""
+        if not date_str:
+            return ""
+        s = str(date_str).strip()
+        months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+        parts = s.split("-")
+        if len(parts) == 3:  # YYYY-MM-DD
+            try:
+                return f"{months[int(parts[1])-1]} {int(parts[2])}, {parts[0]}"
+            except (ValueError, IndexError):
+                return s
+        if len(parts) == 2:  # YYYY-MM
+            try:
+                return f"{months[int(parts[1])-1]} {parts[0]}"
+            except (ValueError, IndexError):
+                return s
+        return s  # YYYY or other
+    env.filters["format_date"] = format_date
+
     # Load all profiles
     all_investors = load_profiles("investors")
     all_firms = load_profiles("firms")
@@ -820,6 +841,7 @@ def build():
             similar_investors=similar,
             investor_cluster=inv_cluster,
             investor_collections=inv_collections,
+            startup_lookup=startup_lookup,
         )
         out_path = OUTPUT_DIR / "investors" / f"{profile['slug']}.html"
         out_path.write_text(html)
