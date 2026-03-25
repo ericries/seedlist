@@ -22,15 +22,30 @@
 <section class="home-links">
   <a href="/investors/" class="home-card">
     <h2>Investors</h2>
-    <p>{{ investor_count }} investor profiles</p>
+    <p>{{ investor_count }} profiles with inferred theses</p>
   </a>
   <a href="/firms/" class="home-card">
     <h2>Firms</h2>
-    <p>{{ firm_count }} firm profiles</p>
+    <p>{{ firm_count }} VC firm profiles</p>
+  </a>
+  <a href="/investors/groups.html" class="home-card">
+    <h2>Groups</h2>
+    <p>Investors clustered by era, thesis, and network</p>
+  </a>
+</section>
+
+<section class="home-links" style="margin-top: 0;">
+  <a href="/discover.html" class="home-card">
+    <h2>Fundraising Tools</h2>
+    <p>Build a target list, enrich your CSV, or find investors by comparable companies</p>
+  </a>
+  <a href="/rounds.html" class="home-card">
+    <h2>Round Feed</h2>
+    <p>Latest startup funding rounds, updated regularly</p>
   </a>
   <a href="/startups/" class="home-card">
     <h2>Startups</h2>
-    <p>{{ startup_count }} startup profiles</p>
+    <p>{{ startup_count }} portfolio companies tracked</p>
   </a>
 </section>
 {% endblock %}
