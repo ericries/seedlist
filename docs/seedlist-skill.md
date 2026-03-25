@@ -43,7 +43,7 @@ All endpoints are public JSON, no auth required. Fetch with WebFetch or curl.
    - `stage_focus` contains their stage
    - `sector_focus` overlaps with their sectors
    - `check_size` range overlaps with their need
-4. Score by: sector overlap count (most important), recency of `last_active`, check size fit
+4. Score each investor: stage match (30pts), sector overlap weighted by specificity (up to 40pts — an investor with 3 sectors who matches is stronger than one with 15), recency of `last_active` (15pts if active in last year), check size fit (15pts). **Specificity matters**: `specificity = min(1.0, 5 / len(sector_focus))` — generalists with many sectors score lower than specialists.
 5. Present top 20-30 investors in tiers:
    - **Tier 1 (Strong fit)**: Stage + sector + check size all match, active in last 12 months
    - **Tier 2 (Worth pursuing)**: 2 of 3 match

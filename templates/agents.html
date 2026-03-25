@@ -225,7 +225,7 @@ matches = [
 
   <div class="task-block">
     <h3>1. Build a fundraising target list</h3>
-    <p>Score investors by stage match (30pts), sector overlap (40pts), recency (15pts), check size fit (15pts). Group into 3 tiers. Aim for 15-30 results.</p>
+    <p>Score investors by stage match (30pts), sector overlap weighted by specificity (40pts), recency (15pts), check size fit (15pts). Group into 3 tiers. Target: 10-20 in Tier 1, 15-30 in Tier 2.</p>
 <pre><code><span class="keyword">import</span> json, urllib.request
 
 data = json.loads(urllib.request.urlopen(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).read())
@@ -242,11 +242,14 @@ results = []
         score += <span class="number">30</span>
         reasons.append(f<span class="string">"Invests at {my_stage}"</span>)
 
-    <span class="comment"># Sector overlap (up to 40 pts) — lowercase compare</span>
+    <span class="comment"># Sector overlap (up to 40 pts) — weighted by specificity</span>
+    <span class="comment"># An investor with 3 sectors who matches > one with 15 sectors</span>
     inv_sectors = [s.lower() <span class="keyword">for</span> s <span class="keyword">in</span> inv[<span class="string">"sector_focus"</span>]]
     overlap = [s <span class="keyword">for</span> s <span class="keyword">in</span> my_sectors <span class="keyword">if</span> s <span class="keyword">in</span> inv_sectors]
     <span class="keyword">if</span> overlap:
-        score += min(<span class="number">40</span>, len(overlap) * <span class="number">15</span>)
+        specificity = min(<span class="number">1.0</span>, <span class="number">5</span> / max(len(inv_sectors), <span class="number">1</span>))
+        sector_pts = int(min(<span class="number">40</span>, len(overlap) * <span class="number">15</span>) * (<span class="number">0.5</span> + <span class="number">0.5</span> * specificity))
+        score += sector_pts
         reasons.append(f<span class="string">"Sectors: {', '.join(overlap)}"</span>)
 
     <span class="comment"># Recency (15 pts)</span>
@@ -255,7 +258,7 @@ results = []
     <span class="keyword">elif</span> last >= <span class="string">"2024"</span>: score += <span class="number">8</span>
 
     <span class="keyword">if</span> score >= <span class="number">30</span>:
-        tier = <span class="number">1</span> <span class="keyword">if</span> score >= <span class="number">60</span> <span class="keyword">else</span> <span class="number">2</span> <span class="keyword">if</span> score >= <span class="number">40</span> <span class="keyword">else</span> <span class="number">3</span>
+        tier = <span class="number">1</span> <span class="keyword">if</span> score >= <span class="number">70</span> <span class="keyword">else</span> <span class="number">2</span> <span class="keyword">if</span> score >= <span class="number">45</span> <span class="keyword">else</span> <span class="number">3</span>
         results.append({
             <span class="string">"name"</span>: inv[<span class="string">"name"</span>],
             <span class="string">"firm"</span>: inv[<span class="string">"firm_name"</span>] <span class="keyword">or</span> inv[<span class="string">"firm"</span>],

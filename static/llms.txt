@@ -50,10 +50,14 @@ for inv in data["investors"]:
         reasons.append(f"Invests at {target_stage}")
 
     # Sector match (0-40 points, most important)
+    # Weight by specificity: an investor with 3 sectors who matches is better
+    # than one with 15 sectors who matches (generalist vs specialist)
     inv_sectors = [s.lower() for s in (inv.get("sector_focus") or [])]
     overlap = [s for s in target_sectors if s in inv_sectors]
     if overlap:
-        score += min(40, len(overlap) * 15)
+        specificity = min(1.0, 5 / max(len(inv_sectors), 1))  # fewer sectors = more specific
+        sector_pts = min(40, len(overlap) * 15) * (0.5 + 0.5 * specificity)
+        score += int(sector_pts)
         reasons.append(f"Focus: {', '.join(overlap)}")
 
     # Recency (0-15 points)
@@ -72,9 +76,13 @@ for inv in data["investors"]:
 
 results.sort(key=lambda x: -x["score"])
 
-# Tier 1: score >= 60 (strong fit)
-# Tier 2: score >= 40 (worth pursuing)
+# Assign tiers, then cap each tier for useful output
+# Tier 1: score >= 70 (strong fit — specialist match + recent)
+# Tier 2: score >= 45 (worth pursuing)
 # Tier 3: score >= 30 (stretch)
+# Cap: show top 15 per tier, sorted by score descending within each tier
+# If Tier 1 is still too large, raise threshold dynamically:
+#   while len(tier1) > 20: threshold += 5
 ```
 
 ## Expected Output Format
