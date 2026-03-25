@@ -9,7 +9,7 @@ You have access to Seedlist.com, an LLM-researched directory of 350+ startup inv
 
 ## Important data notes
 
-- **All sector values are lowercase** (e.g., "fintech", "ai", "consumer"). Always lowercase user input before comparing.
+- **All sector values are lowercase** but have near-duplicates. When a founder says "healthcare", search for: `"healthcare", "health-tech", "healthtech", "health", "digital-health"`. Same for: `"saas"/"enterprise-saas"`, `"enterprise"/"enterprise-software"`, `"climate"/"climate-tech"/"clean-energy"`, `"defense"/"defense-tech"`, `"security"/"cybersecurity"`.
 - **`firm` is a slug** (e.g., "khosla-ventures"). Use `firm_name` for display (may be empty — fall back to firm slug).
 - **`tldr` field** contains a 2-4 sentence summary — use this when presenting investors to founders instead of the longer thesis_summary.
 - **`last_updated` field** on the root object shows when data was last rebuilt.

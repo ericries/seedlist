@@ -20,7 +20,13 @@ All data is static JSON, rebuilt daily. Fetch with any HTTP client.
 
 ## Critical: Data Gotchas
 
-1. **All string comparisons must be case-insensitive.** sector_focus contains mixed case: "fintech", "AI", "consumer-internet". Always .lower() before comparing.
+1. **All sector values are lowercase** but there are near-duplicates. When matching a sector, search for ALL variants:
+   - "saas" → also check "enterprise-saas"
+   - "healthcare" → also check "health-tech", "healthtech", "health", "digital-health"
+   - "enterprise" → also check "enterprise-software", "enterprise-saas", "enterprise-infrastructure"
+   - "climate" → also check "climate-tech", "clean-energy", "cleantech"
+   - "defense" → also check "defense-tech"
+   - "security" → also check "cybersecurity", "enterprise-security"
 2. **firm is a slug, firm_name is display name.** firm_name may be empty — fall back to firm slug.
 3. **thesis_summary may contain HTML entities** like &rsquo; — decode before displaying to users.
 4. **last_active format varies**: "2025-11-15", "2025-03", "~2022", or empty. Parse defensively.

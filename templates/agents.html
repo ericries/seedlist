@@ -158,7 +158,7 @@ matches = [
   <h3>Data Gotchas</h3>
   <p>Read these before writing code against Seedlist endpoints:</p>
   <ul>
-    <li><strong>Sectors are lowercase</strong> — <code>sector_focus</code> values are lowercase strings like <code>"fintech"</code>, <code>"ai"</code>. Always <code>.lower()</code> user input before comparing.</li>
+    <li><strong>Sectors are lowercase but have near-duplicates.</strong> When matching, search for all variants: <code>"saas"</code> + <code>"enterprise-saas"</code>; <code>"healthcare"</code> + <code>"health-tech"</code> + <code>"healthtech"</code> + <code>"digital-health"</code>; <code>"enterprise"</code> + <code>"enterprise-software"</code> + <code>"enterprise-saas"</code>; <code>"climate"</code> + <code>"climate-tech"</code> + <code>"clean-energy"</code>; <code>"defense"</code> + <code>"defense-tech"</code>; <code>"security"</code> + <code>"cybersecurity"</code>.</li>
     <li><strong><code>firm</code> is a slug, <code>firm_name</code> is display</strong> — <code>firm_name</code> may be empty. Fall back: <code>inv["firm_name"] or inv["firm"]</code></li>
     <li><strong>Use <code>tldr</code> for summaries</strong> — 95% of investors have a <code>tldr</code> field (2-4 sentences). Better than <code>thesis_summary</code> (first 200 chars of inferred thesis, may be truncated mid-sentence).</li>
     <li><strong><code>last_active</code> format varies</strong> — "2025-11-15", "2025-03", "~2022", or empty. Parse defensively. For recency filtering, string comparison works: <code>inv["last_active"] >= "2024"</code></li>
