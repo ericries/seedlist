@@ -142,3 +142,7 @@ No independently sourced founder testimonials found. Naval Ravikant (founder of 
 [^9]: Confluence.VC, "25 Lessons From David Sacks (Founding Partner @ Craft Ventures)," accessed March 2026. https://confluence.vc/david-sacks-craft-ventures/
 [^10]: Craft Ventures website, "Portfolio," accessed March 2026. https://www.craftventures.com/portfolio
 [^11]: Signal by NFX, "David Sacks' Investing Profile," accessed March 2026. https://signal.nfx.com/investors/david-sacks
+[^12]: COSSA, "Trump Names David Sacks as AI Czar/PCAST Head," accessed March 2026. https://cossa.org/trump-names-david-sacks-as-ai-czar-pcast-head/
+[^13]: The American Presidency Project, "Statement by President-elect Donald J. Trump Announcing Science and Technology Team," accessed March 2026. https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-announcing-science-and-technology-team
+[^14]: TechCrunch, "CEO David Sacks on moving on from Zenefits' troubled past," September 13, 2016. https://techcrunch.com/2016/09/13/ceo-david-sacks-on-moving-on-from-zenefits-troubled-past/
+[^15]: VentureBeat, "Zenefits CEO Parker Conrad resigns, COO David Sacks takes over," February 2016. https://venturebeat.com/business/zenefits-ceo-parker-conrad-resigns-coo-david-sacks-takes-over

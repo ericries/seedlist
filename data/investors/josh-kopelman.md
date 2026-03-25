@@ -177,6 +177,19 @@ Zhao's pitch to Kopelman was unlike any other — instead of discussing competit
 **Roger Matus, founder of InBoxer (via LinkedIn):**
 "Josh was more than the lead investor and Board Member for my company InBoxer. Josh was a true partner and an inspiration for myself and the entire team." Matus added that Kopelman "had the ability to help you to see the opportunities and to help you to lead" [^16].
 
+## Connections
+
+- **Former Chairman of the Board, The Philadelphia Inquirer** (2016–2024) — oversaw the newspaper's transition to nonprofit ownership under the Lenfest Institute; now Chair Emeritus [^2][^19]
+- **Board of Directors, Innovation Philadelphia** — public/private partnership focused on enhancing Philadelphia's global innovation economy through technological leadership [^20]
+- **Former board member, Flatiron Health** — co-led the $8M Series A alongside Google Ventures; board observer through Roche acquisition ($1.9B, 2018) [^12][^13]
+- **Former board member / advisor, Upstart Holdings (UPST)** — investor and director from seed stage through IPO [^15][^20]
+- **Advisory board member, University of Pennsylvania Center for Community Partnerships** [^20]
+- **Advisory board member, Weiss Tech House at the University of Pennsylvania** [^20]
+- **Board advisor, Wharton Entrepreneurial Programs** — Entrepreneur in Residence; mentors ~12 Wharton students annually [^8][^21]
+- **Co-founder, Kopelman Foundation** (2001) — non-profit focused on "angel philanthropy" providing startup grants to social entrepreneurs; co-founded with wife [^20]
+- **Wharton School, University of Pennsylvania** — B.S. 1993; deep alumni network includes Nat Turner (Flatiron Health), co-founders from entrepreneurship programs [^2][^12]
+- **Stanford CS183B / How to Start a Startup** — guest lecturer on fundraising alongside Marc Andreessen and Ron Conway [^22]
+
 ## Sources
 
 [^1]: "Josh Kopelman," First Round Capital team page, accessed March 2026. https://www.firstround.com/team/investing/josh-kopelman
@@ -214,3 +227,11 @@ Zhao's pitch to Kopelman was unlike any other — instead of discussing competit
 [^17]: "Josh Kopelman - The Past, Present, And Future Of Seed Investing," Invest Like the Best with Patrick O'Shaughnessy, EP.170, April 2020. https://podcasts.apple.com/us/podcast/josh-kopelman-past-present-future-seed-investing-invest/id1154105909?i=1000472889707
 
 [^18]: Josh Kopelman LinkedIn post, "When we started First Round Capital in 2004," accessed March 2026. https://www.linkedin.com/posts/jkopelman_when-we-started-first-round-capital-in-2004-activity-7239379933758705665-fHKa
+
+[^19]: "The Inquirer's board named attorney Lisa Kabnick as its new chair as Josh Kopelman finished term." The Philadelphia Inquirer, June 5, 2024. https://www.inquirer.com/business/philadelphia-inquirer-board-lisa-kabnick-josh-kopelman-20240605.html
+
+[^20]: "Joshua Kopelman." Temple University Institute for Business and Information Technology. https://ibit.temple.edu/joshua-kopelman/. Accessed 2026-03-24.
+
+[^21]: "Venture capitalists contribute to entrepreneurship at Penn." The Daily Pennsylvanian. https://www.thedp.com/article/2012/05/venture_capitalists_contribute_to_entrepreneurship_at_penn. Accessed 2026-03-24.
+
+[^22]: "How to Raise Money (Lecture 9)." Stanford CS183B / How to Start a Startup (Sam Altman, Ron Conway, Marc Andreessen, Parker Conrad). https://medium.com/how-to-start-a-startup/17-quotes-from-marc-andreessen-ron-conway-on-how-to-raise-money-d0b710f115f1. Accessed 2026-03-24.
