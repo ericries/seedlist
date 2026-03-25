@@ -117,6 +117,7 @@ Find investors by comparable startups:
 startups[]: { slug, name, sector[], stage }
 startup_investors: { "stripe": [{ slug, name, firm, round, year, has_profile }] }
 ```
+⚠️ **An investor may appear multiple times per startup** (one entry per round they participated in). When counting "how many comparables did this investor back", **deduplicate by slug per startup first**, then count unique startups. Also filter out slug "independent" which is not a real entity.
 
 ### Warm Intro Paths (investor-graph.json)
 Trace connection paths between investors:

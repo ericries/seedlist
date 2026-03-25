@@ -55,9 +55,9 @@ All endpoints are public JSON, no auth required. Fetch with WebFetch or curl.
 1. Ask the founder for 2-5 startups similar to theirs
 2. Fetch `https://seedlist.com/startup-investor-map.json`
 3. For each comparable, look up `startup_investors[slug]` to get investor list
-4. Count how many comparables each investor backed
+4. **Deduplicate**: an investor may appear multiple times per startup (one entry per round). Use a set of slugs per startup, then count unique startups per investor. Filter out slug "independent".
 5. Sort by count descending — investors who backed multiple comparables are the strongest signal
-6. Also check the investor index for thesis-matched investors who DIDN'T invest but should have
+6. Also fetch `enrichment-index.json` and find thesis-matched investors who DIDN'T invest in the comparables but whose `sector_focus` and `stage_focus` match. Present these as "thesis match — worth a pitch".
 
 ## How to find warm intro paths
 
