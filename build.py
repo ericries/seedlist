@@ -990,6 +990,25 @@ def build():
     enrichment_index["last_updated"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
     (OUTPUT_DIR / "enrichment-index.json").write_text(json.dumps(enrichment_index))
 
+    # Lightweight lookup endpoint for quick agent queries
+    investor_lookup_data = {
+        "last_updated": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "count": len(enrichment_index["investors"]),
+        "investors": {}
+    }
+    for inv in enrichment_index["investors"]:
+        investor_lookup_data["investors"][inv["slug"]] = {
+            "name": inv["name"],
+            "firm": inv["firm_name"] or inv["firm"],
+            "tldr": inv.get("tldr", ""),
+            "check_size": inv.get("check_size", ""),
+            "stages": inv.get("stage_focus", []),
+            "sectors": inv.get("sector_focus", []),
+            "last_active": inv.get("last_active", ""),
+            "url": f"/investors/{inv['slug']}.html",
+        }
+    (OUTPUT_DIR / "investor-lookup.json").write_text(json.dumps(investor_lookup_data))
+
     # Generate startup-investor map for comparable companies finder
     startup_investor_map = build_startup_investor_map(startups, investor_lookup, firm_lookup)
     (OUTPUT_DIR / "startup-investor-map.json").write_text(json.dumps(startup_investor_map))

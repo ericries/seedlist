@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@drorberman"
   linkedin: "linkedin.com/in/drorberman"
+tldr: "Dror Berman is the Founding Partner of Innovation Endeavors, co-founded with Eric Schmidt in 2010. His personal investments lean heavily toward capital-intensive deep tech -- robotics (25%), biotech (20%), and AI (20%) -- rather than pure software. He has a notable Israeli co-founder pattern and a high-conviction follow-on style, tripling down on breakouts like Eikon Therapeutics."
 status: published
 last_researched: 2026-03-25
 ---

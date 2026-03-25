@@ -16,6 +16,7 @@ social:
   bluesky: "@albertwenger.bsky.social"
   twitter: "@albertwenger"
   linkedin: "linkedin.com/in/albertwenger"
+tldr: "Albert Wenger is a Managing Partner at Union Square Ventures, investing at seed and Series A with $1-6M checks. His portfolio concentrates in developer tools/infrastructure (30%) and education (25%), with a strong preference for API-first companies (Twilio, Firebase, Shippo) and technical repeat founders (MongoDB to Viam). He is the author of The World After Capital."
 status: published
 last_researched: 2026-03-25
 ---

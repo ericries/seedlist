@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@NickBeim"
   linkedin: "linkedin.com/in/nickbeim/"
+tldr: "Nick Beim is a General Partner at Venrock who invests almost exclusively in fintech/wealthtech (45%) and defense/national security AI (27%), typically leading Series A rounds with $5-12M checks. His portfolio favors domain-expert founders over generalist technologists, with notable investments in Dataminr, Altruist, and Rebellion Defense."
 status: published
 last_researched: 2026-03-25
 ---

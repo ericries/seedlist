@@ -27,6 +27,7 @@ last_verified_investment:
 social:
   twitter: "@VCsurferDAD"
   linkedin: "linkedin.com/in/brianascher"
+tldr: "Brian Ascher is a Partner at Venrock with 27 years at the firm, focused on enterprise SaaS (44%) and B2B fintech (22%) at seed through Series B. His strongest through-line is applying AI/ML to enterprise workflows, from DATAllegro (2003) to 6sense to Nightfall. Ten of 18 verified investments were acquired by large enterprises including Microsoft, VMware, and LinkedIn."
 status: published
 last_researched: 2026-03-25
 ---

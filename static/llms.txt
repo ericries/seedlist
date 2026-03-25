@@ -12,6 +12,7 @@ All data is static JSON, rebuilt daily. Fetch with any HTTP client.
 | Endpoint | URL | Size |
 |----------|-----|------|
 | Investor Index | https://seedlist.com/enrichment-index.json | ~260KB |
+| Investor Lookup | https://seedlist.com/investor-lookup.json | ~20KB |
 | Investor Graph | https://seedlist.com/investor-graph.json | ~300KB |
 | Startup-Investor Map | https://seedlist.com/startup-investor-map.json | ~340KB |
 | Rounds Feed | https://seedlist.com/rounds-feed.json | ~190KB |
@@ -121,6 +122,15 @@ investors[]: {
 }
 firms[]: { name, slug, location, stage_focus, sector_focus, fund_size, website }
 queued[]: { name, type, firm } # investors/firms in research queue (not yet profiled)
+```
+
+## Quick Lookup (investor-lookup.json)
+
+Lightweight slug-keyed dictionary for O(1) investor lookups (~20KB vs 260KB full index).
+For quick lookups by slug, use `/investor-lookup.json`. For full search/filter, use `/enrichment-index.json`.
+
+```
+investors: { "slug": { name, firm, tldr, check_size, stages[], sectors[], last_active, url } }
 ```
 
 ## Other Endpoints

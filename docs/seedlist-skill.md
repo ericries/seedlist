@@ -29,7 +29,8 @@ All endpoints are public JSON, no auth required. Fetch with WebFetch or curl.
 
 | Endpoint | URL | What it contains |
 |----------|-----|-----------------|
-| Investor Index | `https://seedlist.com/enrichment-index.json` | All investors: name, firm, stage, sector, check size, location, thesis |
+| Investor Index | `https://seedlist.com/enrichment-index.json` | All investors: name, firm, stage, sector, check size, location, thesis (~260KB) |
+| Investor Lookup | `https://seedlist.com/investor-lookup.json` | Lightweight slug-keyed dictionary for O(1) investor lookups (~20KB) |
 | Investor Graph | `https://seedlist.com/investor-graph.json` | Co-investment relationships, firm colleagues, startup founders |
 | Startup Map | `https://seedlist.com/startup-investor-map.json` | Which investors backed which startups |
 | Rounds Feed | `https://seedlist.com/rounds-feed.json` | 500 most recent funding rounds |

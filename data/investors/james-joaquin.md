@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@jamesjoaquin"
   linkedin: "linkedin.com/in/jamesjoaquin"
+tldr: "James Joaquin is Co-Founder and Managing Director of Obvious Ventures, a mission-driven VC with $1.3B AUM across five funds. His portfolio skews toward human health (40%) and climate/planetary health (37%), investing at seed and Series A with $5-12M checks. Notable investments include Beyond Meat, Diamond Foundry, Recursion Pharmaceuticals, and Incredible Health."
 status: published
 last_researched: 2026-03-25
 ---

@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@ethanjb"
   linkedin: "linkedin.com/in/ethanjb"
+tldr: "Ethan Batraski is a Partner at Venrock who backs capital-intensive deep tech at seed and Series A, with board seats in space (ABL Space, Astranis), autonomous aviation (Skyryse), and quantum computing (Atom Computing). A secondary cluster targets commercial open-source infrastructure (Astronomer, Decodable, Meltano). Three of his five board-seat companies have significant US defense contracts."
 status: published
 last_researched: 2026-03-25
 ---

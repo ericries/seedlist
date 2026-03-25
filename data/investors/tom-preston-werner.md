@@ -23,6 +23,7 @@ stage_focus:
 - pre-seed
 - seed
 status: published
+tldr: "Tom Preston-Werner is the co-founder of GitHub turned prolific angel investor with 175+ investments, now formalized as Preston-Werner Ventures targeting $100M for pre-seed and seed. His portfolio heavily favors developer tools (41%) and AI (32%), with a strong open-source affinity. Notable bets include Stripe, Netlify, Cursor, Snyk, and Supabase."
 type: individual
 ---
 

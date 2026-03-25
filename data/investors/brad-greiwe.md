@@ -14,6 +14,7 @@ last_verified_investment:
   round: "Series D"
 social:
   linkedin: "linkedin.com/in/brad-greiwe-96022a38"
+tldr: "Brad Greiwe is Co-Founder and Chairman of Fifth Wall, the largest proptech-focused VC globally with $3.2B in commitments. His portfolio spans residential proptech (28%), climate/energy (20%), and commercial RE software (12%), differentiated by 110+ strategic real estate LP partners who double as distribution channels for portfolio companies. Notable investments include Opendoor, Procore, and Aurora Solar."
 status: published
 last_researched: 2026-03-25
 ---

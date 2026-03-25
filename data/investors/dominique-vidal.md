@@ -14,6 +14,7 @@ last_verified_investment:
   round: "Series C"
 social:
   linkedin: "linkedin.com/in/dominique-vidal-7790856"
+tldr: "Dominique Vidal is a Venture Partner at Index Ventures in London, investing primarily in European companies with a strong French-founder concentration. His portfolio reveals a stealth specialization in performance advertising (Criteo, Outbrain, Teads, teemo) alongside e-commerce and mobility marketplaces (BlaBlaCar, ASOS, Squarespace). He was formerly CEO of Kelkoo, acquired by Yahoo."
 status: published
 last_researched: 2026-03-25
 ---

@@ -401,6 +401,20 @@ cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
   <div class="schema-field"><code>tldr</code> <span class="type">string</span> &mdash; 2-4 sentence summary of who they are and what they invest in. <strong>Best field for presenting to founders.</strong> 95% populated.</div>
   <div class="schema-field"><code>thesis_summary</code> <span class="type">string</span> &mdash; First 200 chars of LLM-inferred thesis from portfolio analysis. May be truncated mid-sentence &mdash; prefer <code>tldr</code>.</div>
 
+  <h3>Quick Lookup (investor-lookup.json)</h3>
+  <p>Lightweight slug-keyed dictionary for O(1) investor lookups. ~20KB vs ~260KB for the full index. Use when you know the investor slug and just need basic info.</p>
+  <div class="schema-field"><code>last_updated</code> <span class="type">string</span> &mdash; ISO 8601 timestamp of last build</div>
+  <div class="schema-field"><code>count</code> <span class="type">number</span> &mdash; Total number of investors in the lookup</div>
+  <div class="schema-field"><code>investors</code> <span class="type">object</span> &mdash; Slug-keyed dictionary. Each value:</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>name</code> <span class="type">string</span> &mdash; Full name</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>firm</code> <span class="type">string</span> &mdash; Firm display name (or slug as fallback)</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>tldr</code> <span class="type">string</span> &mdash; 2-4 sentence summary</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>check_size</code> <span class="type">string</span> &mdash; Human-readable range</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>stages</code> <span class="type">string[]</span> &mdash; Investment stages</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>sectors</code> <span class="type">string[]</span> &mdash; Investment sectors</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>last_active</code> <span class="type">string</span> &mdash; Most recent verified investment date</div>
+  <div class="schema-field" style="margin-left: 1.5em;"><code>url</code> <span class="type">string</span> &mdash; Path to full profile page</div>
+
   <h3>Firm (enrichment-index.json)</h3>
   <p>The <code>firms</code> array contains one entry per published firm profile.</p>
   <div class="schema-field"><code>name</code> <span class="type">string</span> &mdash; Firm name</div>

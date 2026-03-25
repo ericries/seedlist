@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@hanstung"
   linkedin: "linkedin.com/in/hans-tung"
+tldr: "Hans Tung is a Managing Partner at Notable Capital (formerly GGV) and a 13-time Forbes Midas Lister who invests heavily in consumer commerce/marketplaces (45%) and fintech (25%). His distinctive edge is cross-border experience from eight years investing in China, backing immigrant and globally-minded founders. Notable investments include Airbnb, Xiaomi, Slack, and Affirm."
 status: published
 last_researched: 2026-03-25
 ---

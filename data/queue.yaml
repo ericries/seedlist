@@ -4398,7 +4398,7 @@ queue:
 - name: RTP Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: datadog
 - name: OpenView Venture Partners
@@ -5583,7 +5583,7 @@ queue:
 - name: Martin Lorentzon
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: daniel-ek
 - name: Stewart Butterfield
@@ -6705,7 +6705,7 @@ queue:
 - name: Bryan Roberts
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Venrock
   discovered_from: venrock

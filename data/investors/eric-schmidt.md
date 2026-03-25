@@ -25,6 +25,7 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: "Eric Schmidt is the former Google CEO turned prolific deep-tech investor through Innovation Endeavors and his family office Hillspire. IE focuses on robotics, biotech, and AI infrastructure at seed/Series A, while Hillspire concentrates on frontier AI labs (Anthropic, Inflection AI, Goodfire). In 2025 he acquired Relativity Space and became its CEO."
 type: individual
 ---
 

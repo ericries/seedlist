@@ -23,6 +23,7 @@ last_verified_investment:
 social:
   twitter: "@hnelis"
   linkedin: "linkedin.com/in/harry-nelis-429801"
+tldr: "Harry Nelis is a Partner at Accel in London, investing in European enterprise software (39%) and fintech (33%) since 2004. He has a strong repeat-founder pattern, backing Samir Desai twice (Funding Circle, Super Payments) and Mirko Novakovic twice (Instana, Dash0). Notable investments include Celonis, Miro, and Personio."
 status: published
 last_researched: 2026-03-25
 ---
