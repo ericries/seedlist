@@ -84,14 +84,18 @@ def main():
             full_content = build_full_content(post)
             tldr = generate_tldr(full_content, client)
 
-            # Clean up: remove any surrounding quotes the model might add
+            # Clean up for YAML safety:
+            # 1. Strip surrounding quotes the model might add
             tldr = tldr.strip('"').strip("'")
+            # 2. Replace inner double quotes with single quotes (prevents YAML breakage)
+            tldr = tldr.replace('"', "'")
+            # 3. Remove any backslashes (YAML interprets them as escape sequences)
+            tldr = tldr.replace("\\", "")
 
             if args.dry_run:
                 print(f"PREVIEW ({len(tldr)} chars)")
                 print(f"    tldr: \"{tldr}\"")
             else:
-                # Escape inner double quotes for YAML safety
                 post.metadata["tldr"] = tldr
                 with open(path, "w") as f:
                     f.write(frontmatter.dumps(post))
