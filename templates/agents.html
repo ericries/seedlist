@@ -130,6 +130,7 @@
 <section class="agents-section">
   <h2>Quick Start</h2>
   <p>All endpoints return static JSON. No API key needed. Fetch with curl, Python, or any HTTP client. Data is rebuilt daily; check <code>last_updated</code> field on the root object for freshness.</p>
+  <p><strong>Tip:</strong> For quick lookups by slug, use the lightweight <code>/investor-lookup.json</code> (~20KB). For full search/filter across all investors, use <code>/enrichment-index.json</code> (~260KB).</p>
 
   <h3>curl</h3>
 <pre><code>curl -s https://seedlist.com/enrichment-index.json | python3 -m json.tool | head -50</code></pre>
@@ -155,17 +156,7 @@ matches = [
     firm = inv[<span class="string">"firm_name"</span>] <span class="keyword">or</span> inv[<span class="string">"firm"</span>]
     print(f<span class="string">"{inv['name']} ({firm}) — {summary}"</span>)</code></pre>
 
-  <h3>Data Gotchas</h3>
-  <p>Read these before writing code against Seedlist endpoints:</p>
-  <ul>
-    <li><strong>Sectors are lowercase but have near-duplicates.</strong> When matching, search for all variants: <code>"saas"</code> + <code>"enterprise-saas"</code>; <code>"healthcare"</code> + <code>"health-tech"</code> + <code>"healthtech"</code> + <code>"digital-health"</code>; <code>"enterprise"</code> + <code>"enterprise-software"</code> + <code>"enterprise-saas"</code>; <code>"climate"</code> + <code>"climate-tech"</code> + <code>"clean-energy"</code>; <code>"defense"</code> + <code>"defense-tech"</code>; <code>"security"</code> + <code>"cybersecurity"</code>.</li>
-    <li><strong><code>firm</code> is a slug, <code>firm_name</code> is display</strong> — <code>firm_name</code> may be empty. Fall back: <code>inv["firm_name"] or inv["firm"]</code></li>
-    <li><strong>Use <code>tldr</code> for summaries</strong> — 95% of investors have a <code>tldr</code> field (2-4 sentences). Better than <code>thesis_summary</code> (first 200 chars of inferred thesis, may be truncated mid-sentence).</li>
-    <li><strong><code>last_active</code> format varies</strong> — "2025-11-15", "2025-03", "~2022", or empty. Parse defensively. For recency filtering, string comparison works: <code>inv["last_active"] >= "2024"</code></li>
-    <li><strong><code>check_size</code> is human-readable</strong> — e.g., "$250K-$2M" or "$5M+". Parse with regex to extract numbers for range comparison.</li>
-    <li><strong>Startup-investor map has duplicates</strong> — an investor appears once per round in a startup. Deduplicate by slug when counting across comparables. Filter out slug <code>"independent"</code>.</li>
-    <li><strong><code>queued</code> array</strong> — investors/firms in the research pipeline but not yet profiled. Useful for telling founders "we know about this investor but don't have a profile yet."</li>
-  </ul>
+  <p style="margin-top: 0.75rem; font-size: 0.85rem; color: #888;">See <a href="#data-notes">Data Notes</a> at the bottom for field-level details and edge cases. Or read <a href="/llms.txt">llms.txt</a> for a machine-readable summary.</p>
 </section>
 
 <section class="agents-section">
@@ -183,7 +174,13 @@ matches = [
       <tr>
         <td>Investor Index</td>
         <td><code>/enrichment-index.json</code></td>
-        <td>All investors and firms with stage, sector, check size, location, thesis summary</td>
+        <td>All investors and firms with stage, sector, check size, location, thesis summary (~260KB)</td>
+        <td>Every build</td>
+      </tr>
+      <tr>
+        <td>Investor Lookup</td>
+        <td><code>/investor-lookup.json</code></td>
+        <td>Lightweight slug-keyed dictionary for O(1) investor lookups (~20KB)</td>
         <td>Every build</td>
       </tr>
       <tr>
@@ -438,6 +435,19 @@ cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
   <div class="schema-field"><code>investor_names</code> <span class="type">object</span> &mdash; Investor slug to display name</div>
   <div class="schema-field"><code>investor_firms</code> <span class="type">object</span> &mdash; Investor slug to firm display name</div>
   <div class="schema-field"><code>collections</code> <span class="type">object</span> &mdash; Investor slug to [collection names]</div>
+</section>
+
+<section class="agents-section" id="data-notes">
+  <h2>Data Notes</h2>
+  <p>Edge cases and field-level details for robust integrations.</p>
+  <ul>
+    <li><strong>Sectors are normalized lowercase strings.</strong> Use <code>tldr</code> for investor summaries (2-4 sentences, 95% populated) — prefer over <code>thesis_summary</code> which may truncate mid-sentence.</li>
+    <li><strong><code>firm</code> is a slug, <code>firm_name</code> is display.</strong> <code>firm_name</code> may be empty — fall back: <code>inv["firm_name"] or inv["firm"]</code></li>
+    <li><strong><code>last_active</code> format varies</strong> — "2025-11-15", "2025-03", "~2022", or empty. String comparison works for recency: <code>inv["last_active"] >= "2024"</code></li>
+    <li><strong><code>check_size</code> is human-readable</strong> — e.g., "$250K-$2M". Parse with regex for range comparison.</li>
+    <li><strong>Startup-investor map has duplicates</strong> — an investor appears once per round. Deduplicate by slug when counting comparables. Filter out <code>"independent"</code>.</li>
+    <li><strong><code>queued</code> array</strong> — investors in the research pipeline, not yet profiled. Tell founders: "we know about this investor but don't have a profile yet."</li>
+  </ul>
 </section>
 
 <div class="footer-links">
