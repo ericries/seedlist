@@ -16,6 +16,9 @@ firms:
 - round: Angel
   slug: nfdg
   year: 2013
+- round: Series B
+  slug: ivp
+  year: 2015
 founded: 2008
 founders:
 - name: Chris Wanstrath
@@ -45,6 +48,9 @@ investors:
 - round: Tender Offer
   slug: kareem-zaki
   year: 2014
+- round: Series B
+  slug: tom-loverro
+  year: 2015
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: GitHub

@@ -108,6 +108,9 @@ investors:
 - round: Seed
   slug: tom-drummond
   year: 2013
+- round: Seed
+  slug: james-lindenbaum
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: PagerDuty

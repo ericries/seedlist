@@ -51,6 +51,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2012
+- round: Series D (Lead)
+  slug: ivp
+  year: 2017
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -115,6 +118,9 @@ investors:
 - round: Series B (a16z led $25M)
   slug: marc-andreessen
   year: 2013
+- round: Series D (Lead)
+  slug: tom-loverro
+  year: 2017
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

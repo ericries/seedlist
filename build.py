@@ -384,6 +384,312 @@ def build_startup_investor_map(startups, investor_lookup, firm_lookup):
     }
 
 
+MONTH_MAP = {
+    'jan': '01', 'feb': '02', 'mar': '03', 'apr': '04',
+    'may': '05', 'jun': '06', 'jul': '07', 'aug': '08',
+    'sep': '09', 'oct': '10', 'nov': '11', 'dec': '12',
+    'january': '01', 'february': '02', 'march': '03', 'april': '04',
+    'june': '06', 'july': '07', 'august': '08', 'september': '09',
+    'october': '10', 'november': '11', 'december': '12',
+}
+
+ROUND_KEYWORDS = {'seed', 'series', 'angel', 'pre-seed', 'growth',
+                  'convertible', 'bridge', 'extension', 'tender', 'secondary', 'debt'}
+
+SKIP_ROUND_KEYWORDS = {'ipo', 'spac', 'acquisition', 'acquired', 'public markets', 'public'}
+
+
+def parse_date(text):
+    """Try to extract a sortable date string from various formats."""
+    text = text.strip()
+    # YYYY-MM-DD
+    m = re.match(r'^(\d{4})-(\d{2})-(\d{2})$', text)
+    if m:
+        return f"{m.group(1)}-{m.group(2)}"
+    # YYYY-MM
+    m = re.match(r'^(\d{4})-(\d{2})$', text)
+    if m:
+        return text
+    # Month YYYY or Mon YYYY
+    m = re.match(r'^(\w+)\s+(\d{4})$', text)
+    if m:
+        month = MONTH_MAP.get(m.group(1).lower())
+        if month:
+            return f"{m.group(2)}-{month}"
+    # Just YYYY
+    m = re.match(r'^~?(\d{4})$', text)
+    if m:
+        return m.group(1)
+    return None
+
+
+def is_round_type(text):
+    """Check if text looks like a funding round type."""
+    lower = text.lower().strip()
+    return any(kw in lower for kw in ROUND_KEYWORDS)
+
+
+def is_skip_round(text):
+    """Check if this round type should be excluded from the feed."""
+    lower = text.lower().strip()
+    return any(kw in lower for kw in SKIP_ROUND_KEYWORDS)
+
+
+def is_amount(text):
+    """Check if text looks like a dollar amount."""
+    return '$' in text or text.strip().lower() in ('undisclosed', '')
+
+
+def parse_funding_table(raw_content):
+    """Parse a Funding History markdown table into a list of round dicts.
+
+    Returns list of dicts with keys: date, round, amount, lead.
+    Handles varying column orders by detecting column types from content.
+    """
+    rounds = []
+    in_funding = False
+    header_cols = []
+
+    for line in raw_content.split("\n"):
+        stripped = line.strip()
+        if stripped.startswith("## Funding History"):
+            in_funding = True
+            continue
+        if in_funding and stripped.startswith("## "):
+            break
+        if not in_funding or not stripped.startswith("|"):
+            continue
+
+        cells = [c.strip() for c in stripped.split("|")]
+        # Remove empty first/last from leading/trailing |
+        cells = [c for c in cells if c or c == ""]
+        if not cells:
+            continue
+
+        # Detect header row
+        if not header_cols:
+            # Check if this is a header (contains words like Date, Round, Amount)
+            header_text = " ".join(cells).lower()
+            if any(kw in header_text for kw in ['date', 'round', 'amount', 'lead', 'investor', 'valuation']):
+                header_cols = [c.lower().strip() for c in cells]
+                continue
+            else:
+                continue
+
+        # Skip separator rows
+        if all(set(c.strip()) <= {'-', ':', ' '} for c in cells):
+            continue
+
+        # Map cells to fields using header
+        row = {}
+        for i, col_name in enumerate(header_cols):
+            if i < len(cells):
+                val = cells[i].strip()
+                # Strip footnote refs like [^1]
+                val = re.sub(r'\[\^\d+\]', '', val).strip()
+                if not val or val == '':
+                    continue
+
+                if 'date' in col_name:
+                    row['date'] = val
+                elif 'round' in col_name:
+                    row['round'] = val
+                elif 'amount' in col_name:
+                    row['amount'] = val
+                elif 'lead' in col_name or 'investor' in col_name:
+                    if 'lead' not in row:
+                        row['lead'] = val
+                    # If there's a separate co-investors column, append
+                    elif 'co' in col_name:
+                        if row['lead'] and val:
+                            row['lead'] = row['lead'] + ", " + val
+
+        # If no header-based mapping, try auto-detect from cell content
+        if not row.get('round') and not row.get('date'):
+            for cell in cells:
+                cell_clean = re.sub(r'\[\^\d+\]', '', cell).strip()
+                if not cell_clean:
+                    continue
+                if parse_date(cell_clean) and 'date' not in row:
+                    row['date'] = cell_clean
+                elif is_round_type(cell_clean) and 'round' not in row:
+                    row['round'] = cell_clean
+                elif is_amount(cell_clean) and 'amount' not in row:
+                    row['amount'] = cell_clean
+                elif 'lead' not in row:
+                    row['lead'] = cell_clean
+
+        if row.get('round') or row.get('date'):
+            rounds.append(row)
+
+    return rounds
+
+
+def build_rounds_feed(startups):
+    """Build a reverse-chronological feed of startup funding rounds.
+
+    Extracts rounds from two sources per startup:
+    1. Frontmatter investors/firms arrays (reliable: has year, round, slug)
+    2. Funding History table (has amounts, dates, leads)
+
+    Returns a sorted list of round dicts ready for JSON output.
+    """
+    all_rounds = []
+    startup_data_path = DATA_DIR / "startups"
+
+    for startup in startups:
+        slug = startup.get("slug", "")
+        name = startup.get("name", "")
+        sector = startup.get("sector", [])
+        if not slug or not name:
+            continue
+
+        # Source 1: frontmatter investors + firms arrays
+        fm_rounds = {}  # key: (round_type_lower, year) -> dict
+        for entry in (startup.get("investors") or []) + (startup.get("firms") or []):
+            round_type = str(entry.get("round", "")).strip()
+            year = entry.get("year")
+            if not year:
+                continue
+            year_str = str(year).lstrip("~")
+            # Skip non-fundraising rounds
+            if is_skip_round(round_type):
+                continue
+            # Normalize round key — strip year-like prefixes and amounts
+            round_clean = re.sub(r'^\~?\d{4}$', '', round_type).strip()
+            if not round_clean:
+                round_clean = "Unknown"
+            key = (round_clean.lower(), year_str)
+            if key not in fm_rounds:
+                fm_rounds[key] = {
+                    "company": name,
+                    "company_slug": slug,
+                    "date": year_str,
+                    "round": round_clean,
+                    "amount": "",
+                    "lead": "",
+                    "investors": [],
+                    "sector": sector,
+                }
+            inv_slug = entry.get("slug", "")
+            if inv_slug and inv_slug not in fm_rounds[key]["investors"]:
+                fm_rounds[key]["investors"].append(inv_slug)
+
+        # Source 2: Funding History table from raw markdown
+        md_path = startup_data_path / f"{slug}.md"
+        table_rounds = {}  # key: (round_type_lower, year) -> dict
+        if md_path.exists():
+            post = frontmatter.load(md_path)
+            parsed = parse_funding_table(post.content)
+            for row in parsed:
+                round_type = row.get("round", "").strip()
+                if is_skip_round(round_type):
+                    continue
+                date_str = parse_date(row.get("date", ""))
+                if not date_str and not round_type:
+                    continue
+                # Extract year for matching
+                year_for_key = ""
+                if date_str:
+                    year_for_key = date_str[:4]
+                round_key = round_type.lower() if round_type else "unknown"
+                key = (round_key, year_for_key)
+                table_rounds[key] = {
+                    "date": date_str or "",
+                    "round": round_type,
+                    "amount": row.get("amount", ""),
+                    "lead": row.get("lead", ""),
+                }
+
+        # Merge: start with frontmatter rounds, enrich from table
+        merged = {}
+        for key, fm_data in fm_rounds.items():
+            merged[key] = dict(fm_data)
+            # Try to find matching table row
+            tbl = table_rounds.get(key)
+            if tbl:
+                # Prefer table date (more precise, e.g. YYYY-MM vs YYYY)
+                if tbl["date"] and len(tbl["date"]) > len(merged[key]["date"]):
+                    merged[key]["date"] = tbl["date"]
+                if tbl["amount"]:
+                    merged[key]["amount"] = tbl["amount"]
+                if tbl["lead"]:
+                    merged[key]["lead"] = tbl["lead"]
+                if tbl["round"]:
+                    merged[key]["round"] = tbl["round"]
+
+        # Add table-only rounds not in frontmatter
+        for key, tbl_data in table_rounds.items():
+            if key not in merged:
+                if is_skip_round(tbl_data.get("round", "")):
+                    continue
+                merged[key] = {
+                    "company": name,
+                    "company_slug": slug,
+                    "date": tbl_data["date"],
+                    "round": tbl_data["round"],
+                    "amount": tbl_data["amount"],
+                    "lead": tbl_data["lead"],
+                    "investors": [],
+                    "sector": sector,
+                }
+
+        for r in merged.values():
+            # Must have at least a company and a year
+            if not r.get("date"):
+                continue
+            all_rounds.append(r)
+
+    # Build sort key: pad YYYY to YYYY-00-00, YYYY-MM to YYYY-MM-00
+    def sort_key(r):
+        d = r.get("date", "")
+        if len(d) == 4:  # YYYY
+            return d + "-00-00"
+        elif len(d) == 7:  # YYYY-MM
+            return d + "-00"
+        return d
+
+    all_rounds.sort(key=sort_key, reverse=True)
+
+    # Cap at 500
+    all_rounds = all_rounds[:500]
+
+    # Build final output (drop investors list of slugs for cleaner JSON,
+    # or keep them for potential linking)
+    def prettify_round(name):
+        """Clean up round names: 'series-a' -> 'Series A'."""
+        if not name:
+            return name
+        # If it looks like a slug (has dashes, no spaces), convert
+        if '-' in name and ' ' not in name:
+            name = name.replace('-', ' ')
+        # Title-case, but keep single letters uppercase
+        parts = name.split()
+        result = []
+        for p in parts:
+            if len(p) <= 2:
+                result.append(p.upper())
+            else:
+                result.append(p.capitalize())
+        return ' '.join(result)
+
+    output = []
+    for r in all_rounds:
+        output.append({
+            "company": r["company"],
+            "company_slug": r["company_slug"],
+            "date": r["date"],
+            "round": prettify_round(r["round"]),
+            "amount": r.get("amount", ""),
+            "lead": r.get("lead", ""),
+            "investors": r.get("investors", []),
+            "sector": r.get("sector", []),
+            "sort_key": sort_key(r),
+        })
+
+    return output
+
+
 def linkify_profile_content(html, startup_lookup, investor_lookup, firm_lookup):
     """Auto-link known entity names in table cells to their profile pages."""
     if not html:
@@ -647,6 +953,15 @@ def build():
     investor_graph = build_investor_graph(investors, firms, startups, clusters_data)
     (OUTPUT_DIR / "investor-graph.json").write_text(json.dumps(investor_graph))
 
+    # Generate rounds feed JSON and render rounds page
+    rounds_feed = build_rounds_feed(startups)
+    (OUTPUT_DIR / "rounds-feed.json").write_text(json.dumps(rounds_feed, indent=2))
+    rounds_tmpl_path = TEMPLATES_DIR / "rounds.html"
+    if rounds_tmpl_path.exists():
+        rounds_template = env.get_template("rounds.html")
+        html = rounds_template.render()
+        (OUTPUT_DIR / "rounds.html").write_text(html)
+
     # Render enrich page
     enrich_tmpl_path = TEMPLATES_DIR / "enrich.html"
     if enrich_tmpl_path.exists():
@@ -714,6 +1029,7 @@ def build():
     print(f"Built {len(investors)} investor pages, {len(firms)} firm pages, {len(startups)} startup pages")
     print(f"Generated {len(stages)} stage listings, {len(sectors)} sector listings")
     print(f"Search index: {len(search_index)} entries")
+    print(f"Rounds feed: {len(rounds_feed)} rounds")
     print(f"Output: {OUTPUT_DIR}")
 
 

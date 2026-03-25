@@ -36,6 +36,9 @@ firms:
 - round: Series F
   slug: dragoneer
   year: 2019
+- round: Angel
+  slug: seven-seven-six
+  year: 2019
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -88,6 +91,9 @@ investors:
   year: 2013
 - round: Series F
   slug: marc-stad
+  year: 2019
+- round: Angel
+  slug: katelin-holloway
   year: 2019
 last_researched: 2026-03-13
 location: San Francisco, CA

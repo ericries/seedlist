@@ -570,7 +570,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Smule
   type: startup
@@ -3643,7 +3643,7 @@ queue:
 - name: Galaxy Digital
   type: firm
   priority: high
-  status: pending
+  status: skipped
   added: '2026-03-17'
   firm: Galaxy Digital
   discovered_from: mike-novogratz
@@ -3954,7 +3954,7 @@ queue:
 - name: Christina Shen
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Chemistry VC
   discovered_from: ethan-kurzweil
@@ -3974,7 +3974,7 @@ queue:
 - name: Ilya Kondrashov
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: quantumlight
   discovered_from: nikolay-storonsky
@@ -4094,7 +4094,7 @@ queue:
 - name: Todd and Rahul Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: rahul-vohra
 - name: Kent Bennett
@@ -4172,14 +4172,14 @@ queue:
 - name: James Lindenbaum
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: heavybit
   discovered_from: heavybit
 - name: Tommaso Conca
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: quantumlight
   discovered_from: quantumlight
@@ -4212,7 +4212,7 @@ queue:
 - name: Katelin Holloway
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Seven Seven Six
   discovered_from: alexis-ohanian
@@ -4225,7 +4225,7 @@ queue:
 - name: TIME Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: marc-benioff
 - name: NEA
@@ -4326,7 +4326,7 @@ queue:
 - name: Tom Loverro
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: ivp
   discovered_from: ivp

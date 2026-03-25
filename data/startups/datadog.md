@@ -22,6 +22,9 @@ investors:
 - round: Growth / public
   slug: marc-stad
   year: 2019
+- round: Series D
+  slug: tom-loverro
+  year: 2018
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

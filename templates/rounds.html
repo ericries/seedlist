@@ -1,0 +1,146 @@
+{% extends "base.html" %}
+{% block title %}Round Feed{% endblock %}
+{% block head %}
+<style>
+.rounds-hero { text-align: center; padding: 2rem 0 1rem; }
+.rounds-hero h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.5rem; }
+.rounds-hero p { color: var(--color-muted); font-size: 1rem; max-width: 560px; margin: 0 auto; }
+
+.round-card {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.round-date {
+  flex-shrink: 0;
+  width: 80px;
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  text-align: right;
+}
+.round-main { flex: 1; }
+.round-company {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.round-detail {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-top: 0.15rem;
+}
+.round-investors {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-top: 0.15rem;
+}
+.round-amount {
+  flex-shrink: 0;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--color-accent);
+}
+.rounds-loading {
+  text-align: center;
+  padding: 2rem;
+  color: var(--color-muted);
+}
+#rounds-feed { max-width: 720px; margin: 0 auto; }
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="rounds-hero">
+  <h1>Round Feed</h1>
+  <p>Recent startup funding rounds from our database. Updated as new rounds are researched.</p>
+</section>
+
+<div id="rounds-feed">
+  <div class="rounds-loading" id="rounds-loading">Loading rounds...</div>
+</div>
+
+<script>
+(function() {
+  var PAGE_SIZE = 30;
+  var allRounds = [];
+  var shown = 0;
+
+  function escHtml(s) {
+    var d = document.createElement("div");
+    d.appendChild(document.createTextNode(s));
+    return d.innerHTML;
+  }
+
+  function formatDate(d) {
+    if (!d) return "\u2014";
+    // "2023-03" -> "Mar 2023", "2024" -> "2024"
+    var parts = d.split("-");
+    if (parts.length >= 2) {
+      var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+      var m = parseInt(parts[1]) - 1;
+      if (m >= 0 && m < 12) return months[m] + " " + parts[0];
+    }
+    return d;
+  }
+
+  function renderBatch() {
+    var feed = document.getElementById("rounds-feed");
+    var batch = allRounds.slice(shown, shown + PAGE_SIZE);
+    if (batch.length === 0) return;
+
+    batch.forEach(function(r) {
+      var card = document.createElement("div");
+      card.className = "round-card";
+
+      var dateHtml = '<div class="round-date">' + escHtml(formatDate(r.date)) + '</div>';
+
+      var companyLink = r.company_slug
+        ? '<a href="/startups/' + escHtml(r.company_slug) + '.html" class="round-company">' + escHtml(r.company) + '</a>'
+        : '<span class="round-company">' + escHtml(r.company) + '</span>';
+
+      var detailParts = [];
+      if (r.round) detailParts.push(r.round);
+      if (r.sector && r.sector.length) detailParts.push(r.sector.slice(0,2).join(", "));
+      var detailHtml = detailParts.length ? '<div class="round-detail">' + escHtml(detailParts.join(" \u00b7 ")) + '</div>' : '';
+
+      var investorHtml = '';
+      if (r.lead) {
+        investorHtml = '<div class="round-investors">' + escHtml(r.lead) + '</div>';
+      }
+
+      var amountHtml = r.amount ? '<div class="round-amount">' + escHtml(r.amount) + '</div>' : '';
+
+      card.innerHTML = dateHtml +
+        '<div class="round-main">' + companyLink + detailHtml + investorHtml + '</div>' +
+        amountHtml;
+
+      feed.appendChild(card);
+    });
+
+    shown += batch.length;
+  }
+
+  // Infinite scroll
+  function onScroll() {
+    if (shown >= allRounds.length) return;
+    var scrollBottom = window.innerHeight + window.scrollY;
+    if (scrollBottom >= document.body.offsetHeight - 300) {
+      renderBatch();
+    }
+  }
+
+  fetch("/rounds-feed.json")
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      allRounds = data;
+      document.getElementById("rounds-loading").style.display = "none";
+      renderBatch();
+      window.addEventListener("scroll", onScroll);
+    })
+    .catch(function() {
+      document.getElementById("rounds-loading").textContent = "Failed to load round data.";
+    });
+})();
+</script>
+{% endblock %}
