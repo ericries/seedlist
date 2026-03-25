@@ -660,18 +660,19 @@ def build_rounds_feed(startups):
         """Clean up round names: 'series-a' -> 'Series A'."""
         if not name:
             return name
-        # If it looks like a slug (has dashes, no spaces), convert
-        if '-' in name and ' ' not in name:
+        # If it looks like a slug (has dashes, no spaces, all lowercase), convert
+        if '-' in name and ' ' not in name and name == name.lower():
             name = name.replace('-', ' ')
-        # Title-case, but keep single letters uppercase
-        parts = name.split()
-        result = []
-        for p in parts:
-            if len(p) <= 2:
-                result.append(p.upper())
-            else:
-                result.append(p.capitalize())
-        return ' '.join(result)
+            # Title-case, but keep single letters uppercase
+            parts = name.split()
+            result = []
+            for p in parts:
+                if len(p) <= 2:
+                    result.append(p.upper())
+                else:
+                    result.append(p.capitalize())
+            return ' '.join(result)
+        return name
 
     output = []
     for r in all_rounds:
