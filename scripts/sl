@@ -867,7 +867,7 @@ def _process_pending_files():
             items = data.get("queue", [])
             completed = 0
             for slug in completions:
-                slug = slug.strip()
+                slug = str(slug).strip()
                 for item in items:
                     item_slug = re.sub(r'[^a-z0-9]+', '-', item.get("name", "").lower()).strip('-')
                     if item_slug == slug and item.get("status") != "completed":

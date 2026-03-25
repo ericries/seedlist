@@ -189,6 +189,9 @@ investors:
 - round: ~2019
   slug: brad-gerstner
   year: 2019
+- round: Early stage
+  slug: gordon-ritter
+  year: 2016
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

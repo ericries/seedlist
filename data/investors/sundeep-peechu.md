@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@speechu"
   linkedin: "linkedin.com/in/speechu"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 
@@ -112,7 +112,7 @@ Based on 22 verified investments attributed to Peechu, his actual investment beh
 
 ## What Founders Say
 
-Alex Robinson, CEO of Juniper Square, acknowledged Peechu as an investor who "backed us at each subsequent stage of the journey" [^25].
+Alex Robinson, CEO of Juniper Square, acknowledged Peechu as an investor who "backed us at each subsequent stage of the journey" [^21].
 
 No additional independently sourced founder testimonials found. Peechu's portfolio founders have not been widely quoted in public sources discussing their experience working with him specifically, as distinct from Felicis as a firm.
 
@@ -142,4 +142,3 @@ No additional independently sourced founder testimonials found. Peechu's portfol
 [^22]: Komodo Health press release, "Komodo Health Secures $50 Million in Series C Funding," January 2020. https://www.komodohealth.com/press/2020-01-komodo-health-secures-50-million-in-series-c-funding-led-by-andreessen-horowitz/
 [^23]: PermitFlow press release, "PermitFlow Raises $31 Million Series A," February 2024. https://www.permitflow.com/blog/permitflow-series-b
 [^24]: Crunchbase, "Slingshot AI Company Profile," accessed March 2026. https://www.crunchbase.com/organization/slingshot-ai
-[^25]: Juniper Square press release, "Juniper Square Announces $8M in Funding Led by Felicis Ventures," January 2018. https://www.junipersquare.com/news/juniper-square-announces-8-million-funding

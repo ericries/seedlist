@@ -88,6 +88,9 @@ investors:
 - round: Series C
   slug: kareem-zaki
   year: 2017
+- round: Series A
+  slug: rick-yang
+  year: 2014
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

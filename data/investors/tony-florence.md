@@ -1,6 +1,7 @@
 ---
 name: "Tony Florence"
 slug: tony-florence
+tldr: "Co-CEO of NEA, growth/late-stage investor ($2M-$50M) in SaaS, e-commerce, consumer internet, marketplaces, edtech, AI. Recent investment in Clio Series G. New York based. Major venture partner with broad platform mandate across consumer and enterprise categories."
 type: individual
 firm: nea
 role: "Co-CEO"
@@ -15,7 +16,7 @@ last_verified_investment:
 social:
   twitter: "@TFlorence_NEA"
   linkedin: "linkedin.com/in/toflorence"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

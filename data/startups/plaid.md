@@ -42,6 +42,12 @@ firms:
 - round: Series C
   slug: chemistry-vc
   year: 2018
+- round: Seed
+  slug: nea
+  year: 2013
+- round: Seed
+  slug: felicis
+  year: 2013
 founded: 2013
 founders:
 - name: Zach Perret
@@ -76,6 +82,12 @@ investors:
 - round: Series C
   slug: mark-goldberg
   year: 2018
+- round: Seed
+  slug: rick-yang
+  year: 2013
+- round: Seed
+  slug: sundeep-peechu
+  year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

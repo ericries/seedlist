@@ -8,7 +8,6 @@ last_verified_investment:
   round: Series D
 location: New York, NY
 name: Chase Coleman III
-tldr: "Founder & CEO of Tiger Global Management ($58.5B AUM), hedge fund tiger cub mentored by Julian Robertson. Crossover investor backing 90+ IPOs across 30+ countries. Checks $2M-$100M+ in private; multi-billion public. Portfolio emphasis on internet/software, fintech, AI, e-commerce. Notable: early Facebook/LinkedIn investor. Intensely private, net worth $6B. Tiger Foundation founder."
 role: Founder & CEO
 sector_focus:
 - internet
@@ -26,6 +25,11 @@ stage_focus:
 - growth
 - crossover
 status: published
+tldr: 'Founder & CEO of Tiger Global Management ($58.5B AUM), hedge fund tiger cub
+  mentored by Julian Robertson. Crossover investor backing 90+ IPOs across 30+ countries.
+  Checks $2M-$100M+ in private; multi-billion public. Portfolio emphasis on internet/software,
+  fintech, AI, e-commerce. Notable: early Facebook/LinkedIn investor. Intensely private,
+  net worth $6B. Tiger Foundation founder.'
 type: individual
 ---
 

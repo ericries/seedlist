@@ -8,7 +8,6 @@ last_verified_investment:
   round: Series B
 location: San Francisco, California
 name: Alexis Ohanian
-tldr: "Co-founder of Reddit and founder of Seven Seven Six (776), a $1B AUM early-stage fund focusing on ~40% crypto/web3 (Yuga Labs, Axie Infinity) and women's sports investments (Angel City FC, LOVB). Checks $500K-$5M at pre-seed through Series A. Built proprietary platform (Cerebro) for founder access and LP transparency; LPs 51% female."
 role: Founder
 sector_focus:
 - crypto
@@ -26,6 +25,11 @@ stage_focus:
 - seed
 - series-a
 status: published
+tldr: Co-founder of Reddit and founder of Seven Seven Six (776), a $1B AUM early-stage
+  fund focusing on ~40% crypto/web3 (Yuga Labs, Axie Infinity) and women's sports
+  investments (Angel City FC, LOVB). Checks $500K-$5M at pre-seed through Series A.
+  Built proprietary platform (Cerebro) for founder access and LP transparency; LPs
+  51% female.
 type: individual
 ---
 

@@ -578,7 +578,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: BigCommerce
   type: startup
@@ -4249,7 +4249,7 @@ queue:
 - name: '10100'
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: travis-kalanick
 - name: Ilya Sutskever
@@ -4333,7 +4333,7 @@ queue:
 - name: Gordon Ritter
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: emergence-capital
   discovered_from: emergence-capital
@@ -4505,7 +4505,7 @@ queue:
 - name: Tony Florence
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NEA
   discovered_from: scott-sandell
@@ -5208,21 +5208,21 @@ queue:
 - name: Mohamad Makhzoumi
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NEA
   discovered_from: scott-sandell
 - name: Rick Yang
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NEA
   discovered_from: scott-sandell
 - name: Sundeep Peechu
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Felicis
   discovered_from: aydin-senkut

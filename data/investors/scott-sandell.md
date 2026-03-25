@@ -1,6 +1,7 @@
 ---
 name: "Scott Sandell"
 slug: scott-sandell
+tldr: "Executive Chairman & CIO of NEA, seed to growth-stage investor ($5M-$100M) in enterprise software, cloud, AI, fintech, cybersecurity, infrastructure. Recent Robinhood growth investment. Menlo Park based. Senior leadership at major enterprise-focused mega-fund with broad platform mandate. Leading NEA's AI and infrastructure investment thesis."
 type: individual
 firm: nea
 role: "Executive Chairman & Chief Investment Officer"

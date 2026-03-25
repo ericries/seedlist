@@ -17,7 +17,6 @@ sector_focus:
 - AI
 - cybersecurity
 slug: neil-mehta
-tldr: "Greenoaks Capital founder ($15B platform AUM); ultra-concentrated investor (55 core companies). Global mandate (excludes China). Focus: 'great business models + great founders.' Leads Coupang's funding (5 of 8 rounds). Known for disciplined timing and 'jaw-dropping customer experiences.' Series A+ investor; $25M-$75M checks."
 social:
   linkedin: linkedin.com/in/neil-mehta-47623079
 stage_focus:
@@ -25,6 +24,11 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: 'Greenoaks Capital founder ($15B platform AUM); ultra-concentrated investor
+  (55 core companies). Global mandate (excludes China). Focus: ''great business models
+  + great founders.'' Leads Coupang''s funding (5 of 8 rounds). Known for disciplined
+  timing and ''jaw-dropping customer experiences.'' Series A+ investor; $25M-$75M
+  checks.'
 type: individual
 ---
 

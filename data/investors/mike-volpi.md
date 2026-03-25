@@ -17,7 +17,6 @@ sector_focus:
 - robotics
 - enterprise-software
 slug: mike-volpi
-tldr: "Index Ventures Partner (15 years, retired 2024); Hanabi Capital founder. Cisco CSO/SVP (13 years, $10B+ business). 9 IPOs from portfolio: Confluent, Elastic, Slack, Pure Storage, Zuora, Arista, Aurora. Focus: infrastructure, open-source, AI. Forbes #48 Midas List 2025. $100K-$2M checks (personal); institutional at Index."
 social:
   linkedin: linkedin.com/in/mavolpi
   twitter: '@mavolpi'
@@ -26,6 +25,10 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: 'Index Ventures Partner (15 years, retired 2024); Hanabi Capital founder. Cisco
+  CSO/SVP (13 years, $10B+ business). 9 IPOs from portfolio: Confluent, Elastic, Slack,
+  Pure Storage, Zuora, Arista, Aurora. Focus: infrastructure, open-source, AI. Forbes
+  #48 Midas List 2025. $100K-$2M checks (personal); institutional at Index.'
 type: individual
 ---
 

@@ -46,6 +46,9 @@ firms:
 - round: Growth
   slug: dragoneer
   year: 2018
+- round: Seed
+  slug: bloomberg-beta
+  year: 2013
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -99,6 +102,9 @@ investors:
 - round: Growth
   slug: marc-stad
   year: 2018
+- round: Seed
+  slug: roy-bahat
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

@@ -8,8 +8,6 @@ last_verified_investment:
   round: Public equity (13F)
 location: Dallas, TX / New York, NY
 name: Lee Ainslie
-slug: lee-ainslie
-tldr: "Founder and Managing Partner of Maverick Capital, a $10B+ public-and-private multistrategy hedge fund. Tech-focused investor with broad sector coverage: technology, healthcare, consumer, financials, industrials. Active public equities and direct private investments; brings hedge fund discipline to venture activity."
 role: Founder & Managing Partner
 sector_focus:
 - technology
@@ -17,11 +15,16 @@ sector_focus:
 - consumer
 - financials
 - industrials
+slug: lee-ainslie
 social:
   linkedin: ''
   twitter: ''
 stage_focus: []
 status: published
+tldr: 'Founder and Managing Partner of Maverick Capital, a $10B+ public-and-private
+  multistrategy hedge fund. Tech-focused investor with broad sector coverage: technology,
+  healthcare, consumer, financials, industrials. Active public equities and direct
+  private investments; brings hedge fund discipline to venture activity.'
 type: individual
 ---
 

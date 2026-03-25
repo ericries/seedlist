@@ -1,6 +1,7 @@
 ---
 name: "Tom Purcell"
 slug: tom-purcell
+tldr: "Co-founder & MP of Alua Capital, public equities hedge fund (financial services, consumer, tech, industrials, media-telecom). NOTE: Does not invest in startups. Public markets only. Should not be in startup investor directory but profile documents public market expertise."
 type: individual
 firm: alua-capital
 role: "Co-Founder & Managing Partner"

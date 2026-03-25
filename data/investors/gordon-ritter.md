@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@gordonritter"
   linkedin: "linkedin.com/in/gordonpritter"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 
@@ -84,26 +84,26 @@ This table represents approximately 9% of Emergence Capital's ~326 known investm
 | SalesLoft | ~2015 | Series A | [^21] |
 | Doximity | ~2015 | Growth | [^9] |
 | Gusto | ~2016 | Early stage | [^9] |
-| Textio | ~2017 | Early stage | [^22] |
-| TopHat | ~2017 | Early stage | [^22] |
+| Textio | ~2017 | Early stage | [^9] |
+| TopHat | ~2017 | Early stage | [^9] |
 | Crunchbase | ~2017 | Early stage | [^15] |
 | Hi Marley | ~2020 | Early stage | [^12] |
-| Ironclad | ~2020 | Series A | [^22] |
-| Chainalysis | ~2020 | Growth | [^22] |
-| G2 | ~2020 | Growth | [^22] |
-| Project44 | ~2021 | Growth | [^22] |
-| Assembled | ~2021 | Early stage | [^22] |
-| Sendbird | ~2021 | Growth | [^22] |
-| Oyster | ~2021 | Early stage | [^22] |
+| Ironclad | ~2020 | Series A | [^9] |
+| Chainalysis | ~2020 | Growth | [^9] |
+| G2 | ~2020 | Growth | [^9] |
+| Project44 | ~2021 | Growth | [^9] |
+| Assembled | ~2021 | Early stage | [^9] |
+| Sendbird | ~2021 | Growth | [^9] |
+| Oyster | ~2021 | Early stage | [^9] |
 | Regal | 2022 | Series A ($38.5M) | [^15] |
-| Together AI | 2023 | Series A | [^23] |
-| Bland | 2025 | Series B ($40M, led) | [^24] |
-| Bolt.new (StackBlitz) | 2025 | Series B ($105.5M, co-led) | [^25] |
-| Arcee AI | ~2024 | Early stage | [^22] |
-| Cline | ~2025 | Early stage | [^22] |
-| Mercor | ~2024 | Early stage | [^22] |
-| Physical Intelligence | ~2024 | Early stage | [^22] |
-| GenSpark | ~2024 | Early stage | [^22] |
+| Together AI | 2023 | Series A | [^22] |
+| Bland | 2025 | Series B ($40M, led) | [^23] |
+| Bolt.new (StackBlitz) | 2025 | Series B ($105.5M, co-led) | [^24] |
+| Arcee AI | ~2024 | Early stage | [^9] |
+| Cline | ~2025 | Early stage | [^9] |
+| Mercor | ~2024 | Early stage | [^9] |
+| Physical Intelligence | ~2024 | Early stage | [^9] |
+| GenSpark | ~2024 | Early stage | [^9] |
 
 *Note: Years marked with ~ are approximate, based on company founding dates or press coverage timing. Many entries reflect firm-level investments; specific Ritter involvement on individual deals is not always publicly documented.*
 
@@ -133,7 +133,7 @@ Eric Simons, CEO of StackBlitz (Bolt.new), said of Emergence: "They're actually 
 
 Kyle Porter, Founder and CEO of SalesLoft, stated: "Emergence is one of the only firms I've worked with that is 100% focused on the long game" [^2].
 
-Peter Gassner, Founder and CEO of Veeva Systems, explained why he chose Ritter as an investor: "He will be the one I'll reach out to" because "Gordon thinks far ahead." Gassner also noted that Ritter "built a firm around cloud software investing in 2000 when everybody thought that was crazy. In 2008, he was starting to think, 'I got to invest in industry-specific things'" [^26].
+Peter Gassner, Founder and CEO of Veeva Systems, explained why he chose Ritter as an investor: "He will be the one I'll reach out to" because "Gordon thinks far ahead." Gassner also noted that Ritter "built a firm around cloud software investing in 2000 when everybody thought that was crazy. In 2008, he was starting to think, 'I got to invest in industry-specific things'" [^25].
 
 Kyle Porter also emphasized the importance of aligning with investors on values: "Be transparent, be vulnerable and open about who you are, what you want to achieve with your business. And align with those investors on that long journey and outcome, because it's a journey" [^21].
 
@@ -160,8 +160,7 @@ Kyle Porter also emphasized the importance of aligning with investors on values:
 [^19]: GlobeNewsWire, "Emergence Capital Announces New $435m Fund," May 2018, accessed March 2026. https://www.globenewswire.com/news-release/2018/05/21/1509306/0/en/Emergence-Capital-Announces-New-435m-Fund-Dedicated-to-Early-Investments-in-Companies-That-Change-the-Way-the-World-Works.html
 [^20]: GlobeNewsWire, "Zoom Raises $30M in Series C Funding Led by Emergence Capital," February 2015, accessed March 2026. https://www.globenewswire.com/news-release/2015/02/04/1130354/0/en/Zoom-Raises-30M-in-Series-C-Funding-Led-by-Emergence-Capital.html
 [^21]: Emergence Capital, "Congratulations Salesloft!" accessed March 2026. https://www.emcap.com/thoughts/congratulations-salesloft
-[^22]: Emergence Capital, "Portfolio" page (company listings), accessed March 2026. https://www.emcap.com/portfolio
-[^23]: Emergence Capital Substack, "Our investment in Together AI & the *new* AI infra," accessed March 2026. https://emcap.substack.com/p/our-investment-in-together-ai-and
-[^24]: WashU Skandalaris Center, "WashU AI Startup Bland.com announces $40M Series B," January 2025, accessed March 2026. https://skandalaris.wustl.edu/blog/2025/01/30/washu-ai-startup-bland-com-announces-40m-series-b-funding-round-to-change-outdated-enterprise-call-practices/
-[^25]: Bolt.new on X/Twitter, Series B announcement, January 2025, accessed March 2026. https://x.com/boltdotnew/status/1882106655258894390
-[^26]: SaaStr, "The Early Days: How Veeva Hit $100m ARR With Just $3m Raised — And a Deep Vertical Focus," accessed March 2026. https://www.saastr.com/the-early-days-veeva-hitting-100m-arr-with-just-3m-raised-and-a-deep-vertical-focus/
+[^22]: Emergence Capital Substack, "Our investment in Together AI & the *new* AI infra," accessed March 2026. https://emcap.substack.com/p/our-investment-in-together-ai-and
+[^23]: WashU Skandalaris Center, "WashU AI Startup Bland.com announces $40M Series B," January 2025, accessed March 2026. https://skandalaris.wustl.edu/blog/2025/01/30/washu-ai-startup-bland-com-announces-40m-series-b-funding-round-to-change-outdated-enterprise-call-practices/
+[^24]: Bolt.new on X/Twitter, Series B announcement, January 2025, accessed March 2026. https://x.com/boltdotnew/status/1882106655258894390
+[^25]: SaaStr, "The Early Days: How Veeva Hit $100m ARR With Just $3m Raised — And a Deep Vertical Focus," accessed March 2026. https://www.saastr.com/the-early-days-veeva-hitting-100m-arr-with-just-3m-raised-and-a-deep-vertical-focus/

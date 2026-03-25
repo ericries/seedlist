@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@rickyang"
   linkedin: "linkedin.com/in/rickcyang"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

@@ -14,7 +14,7 @@ last_verified_investment:
   round: "Series D"
 social:
   linkedin: "linkedin.com/in/mohamad-makhzoumi-37368334"
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

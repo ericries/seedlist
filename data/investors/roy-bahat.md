@@ -24,7 +24,7 @@ last_verified_investment:
 social:
   twitter: '@roybahat'
   linkedin: linkedin.com/in/roybahat
-status: draft
+status: published
 last_researched: 2026-03-24
 ---
 

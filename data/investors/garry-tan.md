@@ -8,7 +8,6 @@ last_verified_investment:
   round: Seed
 location: San Francisco, CA
 name: Garry Tan
-tldr: "President & CEO of Y Combinator since January 2023. Co-Founder of Initialized Capital ($530M fund). Portfolio of 25 verified investments (of 60+ personal, 262 via Initialized) skews 20% fintech/crypto, 20% enterprise SaaS, 20% consumer. Seed-stage focus (84% of portfolio). Famous for Coinbase seed investment and 'earnestness' founder thesis. 35+ unicorns advised; 150K+ YouTube subscribers."
 role: President & CEO
 sector_focus:
 - fintech
@@ -26,6 +25,11 @@ stage_focus:
 - pre-seed
 - seed
 status: published
+tldr: President & CEO of Y Combinator since January 2023. Co-Founder of Initialized
+  Capital ($530M fund). Portfolio of 25 verified investments (of 60+ personal, 262
+  via Initialized) skews 20% fintech/crypto, 20% enterprise SaaS, 20% consumer. Seed-stage
+  focus (84% of portfolio). Famous for Coinbase seed investment and 'earnestness'
+  founder thesis. 35+ unicorns advised; 150K+ YouTube subscribers.
 type: individual
 ---
 

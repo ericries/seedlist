@@ -1,6 +1,7 @@
 ---
 name: Tommaso Conca
 slug: tommaso-conca
+tldr: "Partner at QuantumLight (London-based), growth-stage investor (~$5M typical allocation) in AI, fintech, SaaS, healthtech, web3. Recent investment in Fuse Energy Series B. European deep tech and growth focus. Growth-stage specialist with conviction in AI and web3 applications."
 type: individual
 firm: quantumlight
 role: Partner

@@ -140,6 +140,9 @@ investors:
 - round: '2014'
   slug: sheel-mohnot
   year: 2014
+- round: Seed
+  slug: roy-bahat
+  year: 2015
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Flexport
