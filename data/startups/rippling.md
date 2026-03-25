@@ -87,7 +87,7 @@ location: San Francisco, CA
 name: Rippling
 sector:
 - hr-tech
-- enterprise-saas
+- saas
 - workforce-management
 slug: rippling
 stage_latest: Series G

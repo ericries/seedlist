@@ -1,23 +1,40 @@
 ---
-name: "Fabrice Grinda"
-slug: fabrice-grinda
-type: individual
+check_size: $220K–$1.3M
 firm: fj-labs
-role: "Co-Founder & Managing Partner"
-location: "New York, New York"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [marketplaces, ecommerce, fintech, b2b-software, proptech, labor-marketplaces, recommerce, logistics]
-check_size: "$220K–$1.3M"
-last_verified_investment:
-  date: 2025-01-01
-  company: "180 Seguros"
-  round: "Series B"
-social:
-  twitter: "@fabricegrinda"
-  linkedin: "linkedin.com/in/fabricegrinda"
-status: published
 last_researched: 2026-03-18
-tldr: "Fabrice Grinda is co-founder of FJ Labs ($175M active fund capital, 2013), which Forbes ranks #1 angel investor globally by volume and exits. Founded Aucland (1998, European eBay), Zingy (acquired for $80M in 2004), OLX (acquired by Naspers, 300M monthly users). FJ Labs is most active early-stage investor (PitchBook 2023), focuses on marketplaces (~70% of portfolio), with additional theses in B2B digitization, AI-enhanced marketplaces, and inequality/climate. Checks $220K-$1.3M; 1,100+ total investments."
+last_verified_investment:
+  company: 180 Seguros
+  date: 2025-01-01
+  round: Series B
+location: New York, New York
+name: Fabrice Grinda
+role: Co-Founder & Managing Partner
+sector_focus:
+- marketplaces
+- e-commerce
+- fintech
+- b2b-software
+- proptech
+- labor-marketplaces
+- recommerce
+- logistics
+slug: fabrice-grinda
+social:
+  linkedin: linkedin.com/in/fabricegrinda
+  twitter: '@fabricegrinda'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Fabrice Grinda is co-founder of FJ Labs ($175M active fund capital, 2013),
+  which Forbes ranks #1 angel investor globally by volume and exits. Founded Aucland
+  (1998, European eBay), Zingy (acquired for $80M in 2004), OLX (acquired by Naspers,
+  300M monthly users). FJ Labs is most active early-stage investor (PitchBook 2023),
+  focuses on marketplaces (~70% of portfolio), with additional theses in B2B digitization,
+  AI-enhanced marketplaces, and inequality/climate. Checks $220K-$1.3M; 1,100+ total
+  investments.'
+type: individual
 ---
 
 ## Background

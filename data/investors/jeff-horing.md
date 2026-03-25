@@ -10,7 +10,7 @@ location: New York, NY
 name: Jeff Horing
 role: Co-Founder & Managing Director
 sector_focus:
-- enterprise-software
+- enterprise
 - saas
 - data-analytics
 - cybersecurity

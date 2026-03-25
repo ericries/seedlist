@@ -1,31 +1,43 @@
 ---
-name: "FJ Labs"
-slug: fj-labs
-type: firm
-website: "https://www.fjlabs.com"
-location: "New York, NY"
 founded: 2013
-fund_size: "$50M (Fund I, 2016); $175M (Fund II, 2018); $260M across two vehicles (2023); ~$692M total deployed over 25 years"
-stage_focus: [pre-seed, seed, series-a, series-b]
-sector_focus: [marketplaces, ecommerce, fintech, proptech, mobility, b2b-marketplaces, consumer]
-team:
-  - slug: fabrice-grinda
-    role: "Founding Partner"
-    name: "Fabrice Grinda"
-  - slug: jose-marin
-    role: "Founding Partner"
-    name: "Jose Marin"
-  - slug: arne-halleraker
-    role: "Partner"
-    name: "Arne Halleraker"
-  - slug: jeff-weinstein
-    role: "Partner"
-    name: "Jeff Weinstein"
-  - slug: matias-barbero
-    role: "Partner"
-    name: "Matias Barbero"
-status: published
+fund_size: $50M (Fund I, 2016); $175M (Fund II, 2018); $260M across two vehicles (2023);
+  ~$692M total deployed over 25 years
 last_researched: 2026-03-24
+location: New York, NY
+name: FJ Labs
+sector_focus:
+- marketplaces
+- e-commerce
+- fintech
+- proptech
+- mobility
+- b2b-marketplaces
+- consumer
+slug: fj-labs
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+status: published
+team:
+- name: Fabrice Grinda
+  role: Founding Partner
+  slug: fabrice-grinda
+- name: Jose Marin
+  role: Founding Partner
+  slug: jose-marin
+- name: Arne Halleraker
+  role: Partner
+  slug: arne-halleraker
+- name: Jeff Weinstein
+  role: Partner
+  slug: jeff-weinstein
+- name: Matias Barbero
+  role: Partner
+  slug: matias-barbero
+type: firm
+website: https://www.fjlabs.com
 ---
 
 ## About

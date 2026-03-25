@@ -1,23 +1,32 @@
 ---
-name: "Ryan Sells"
-slug: ryan-sells
-type: individual
+check_size: $250K-$6M
 firm: pear-vc
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [fintech, ai, enterprise-software, developer-tools]
-check_size: "$250K-$6M"
-last_verified_investment:
-  date: 2025-10-28
-  company: "Socratix AI"
-  round: "Seed"
-social:
-  twitter: "@ryanbsells"
-  linkedin: "linkedin.com/in/ryansells"
-status: published
 last_researched: 2026-03-16
-tldr: "Pear VC partner and ex-Dash Fund GP backing agentic AI infrastructure and fintech with deep domain expertise required. Serial go-to-market founder from Second Measure, Pipe, and Turnstile; raised $25M across two Dash Fund vehicles with 57 portfolio companies; thesis centers on financial-grade AI agents with real signing authority."
+last_verified_investment:
+  company: Socratix AI
+  date: 2025-10-28
+  round: Seed
+location: San Francisco, CA
+name: Ryan Sells
+role: Partner
+sector_focus:
+- fintech
+- ai
+- enterprise
+- developer-tools
+slug: ryan-sells
+social:
+  linkedin: linkedin.com/in/ryansells
+  twitter: '@ryanbsells'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Pear VC partner and ex-Dash Fund GP backing agentic AI infrastructure and fintech
+  with deep domain expertise required. Serial go-to-market founder from Second Measure,
+  Pipe, and Turnstile; raised $25M across two Dash Fund vehicles with 57 portfolio
+  companies; thesis centers on financial-grade AI agents with real signing authority.
+type: individual
 ---
 
 ## Background

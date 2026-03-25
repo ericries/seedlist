@@ -1,30 +1,34 @@
 ---
-name: "Howard Lindzon"
-slug: howard-lindzon
-tldr: "Founder of Social Leverage investing exclusively in seed stage with 51% fintech focus, emphasizing financial services ecosystem plays. $85M Fund V targeting ~$600K average checks. Portfolio includes Robinhood (138% IRR), Kustomer (Meta), DataFox (Oracle), ChartIQ (S&P Global). Created StockTwits and advocates for founder-first venture model with recruitment and fundraising support."
-type: individual
+check_size: $100K-$1M
 firm: social-leverage
-role: "Founder & Managing Partner"
-location: "Scottsdale, AZ / Coronado, CA"
-stage_focus:
-  - seed
-  - pre-seed
-sector_focus:
-  - fintech
-  - wealthtech
-  - consumer-internet
-  - enterprise-saas
-  - crypto
-check_size: "$100K-$1M"
-last_verified_investment:
-  date: ~2024
-  company: "Whoosh"
-  round: "Series A"
-social:
-  twitter: "@howardlindzon"
-  linkedin: "linkedin.com/in/howardlindzon"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Whoosh
+  date: ~2024
+  round: Series A
+location: Scottsdale, AZ / Coronado, CA
+name: Howard Lindzon
+role: Founder & Managing Partner
+sector_focus:
+- fintech
+- wealthtech
+- consumer-internet
+- saas
+- crypto
+slug: howard-lindzon
+social:
+  linkedin: linkedin.com/in/howardlindzon
+  twitter: '@howardlindzon'
+stage_focus:
+- seed
+- pre-seed
+status: published
+tldr: Founder of Social Leverage investing exclusively in seed stage with 51% fintech
+  focus, emphasizing financial services ecosystem plays. $85M Fund V targeting ~$600K
+  average checks. Portfolio includes Robinhood (138% IRR), Kustomer (Meta), DataFox
+  (Oracle), ChartIQ (S&P Global). Created StockTwits and advocates for founder-first
+  venture model with recruitment and fundraising support.
+type: individual
 ---
 
 ## Background

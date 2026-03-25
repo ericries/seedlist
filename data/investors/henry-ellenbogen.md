@@ -1,22 +1,35 @@
 ---
-name: "Henry Ellenbogen"
-slug: henry-ellenbogen
-tldr: "Founder of Durable Capital Partners ($18.2B AUM) who invests as a crossover hedge fund in late-stage private companies. Portfolio is 71% Series D+ with focus on software (36%), fintech (21%), and consumer (14%). Seeks '1% compounder' companies with 20%+ annual returns; invests $20M-$200M+ per deal with notable bets in Duolingo, DoorDash, Figma, Deliveroo."
-type: individual
+check_size: $20M-$200M+
 firm: durable-capital-partners
-role: "Founder, Managing Partner & Chief Investment Officer"
-location: "Bethesda, MD"
-stage_focus: [late-stage, growth, pre-IPO]
-sector_focus: [technology, fintech, consumer, healthcare, industrials, enterprise-software]
-check_size: "$20M-$200M+"
-last_verified_investment:
-  date: 2026-01-01
-  company: "Parloa Technologies"
-  round: "Series D"
-social:
-  linkedin: "linkedin.com/in/henry-ellenbogen-b480a036"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Parloa Technologies
+  date: 2026-01-01
+  round: Series D
+location: Bethesda, MD
+name: Henry Ellenbogen
+role: Founder, Managing Partner & Chief Investment Officer
+sector_focus:
+- technology
+- fintech
+- consumer
+- healthcare
+- industrials
+- enterprise
+slug: henry-ellenbogen
+social:
+  linkedin: linkedin.com/in/henry-ellenbogen-b480a036
+stage_focus:
+- late-stage
+- growth
+- pre-IPO
+status: published
+tldr: Founder of Durable Capital Partners ($18.2B AUM) who invests as a crossover
+  hedge fund in late-stage private companies. Portfolio is 71% Series D+ with focus
+  on software (36%), fintech (21%), and consumer (14%). Seeks '1% compounder' companies
+  with 20%+ annual returns; invests $20M-$200M+ per deal with notable bets in Duolingo,
+  DoorDash, Figma, Deliveroo.
+type: individual
 ---
 
 ## Background

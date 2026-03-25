@@ -1,22 +1,35 @@
 ---
-name: "Niklas Zennström"
-slug: niklas-zennstrom
-type: individual
+check_size: $8M-$130M (via Atomico funds)
 firm: atomico
-role: "CEO & Founding Partner"
-location: "London, England"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, fintech, healthtech, climate-tech, gaming, deep-tech, developer-tools]
-check_size: "$8M-$130M (via Atomico funds)"
-social:
-  linkedin: "linkedin.com/in/niklaszennstrom"
-last_verified_investment:
-  date: 2026-01-30
-  company: "Tem"
-  round: "Series B"
-status: published
 last_researched: 2026-03-24
-tldr: "Skype founder and Atomico CEO backing European tech companies to prove Europe can build billion-dollar winners globally. Founder-first investor managing $6B+ across 24 unicorns; recent pivot toward sustainability and climate-tech investments."
+last_verified_investment:
+  company: Tem
+  date: 2026-01-30
+  round: Series B
+location: London, England
+name: Niklas Zennström
+role: CEO & Founding Partner
+sector_focus:
+- enterprise
+- fintech
+- healthcare
+- climate
+- gaming
+- deep-tech
+- developer-tools
+slug: niklas-zennstrom
+social:
+  linkedin: linkedin.com/in/niklaszennstrom
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Skype founder and Atomico CEO backing European tech companies to prove Europe
+  can build billion-dollar winners globally. Founder-first investor managing $6B+
+  across 24 unicorns; recent pivot toward sustainability and climate-tech investments.
+type: individual
 ---
 
 ## Background

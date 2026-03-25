@@ -10,7 +10,7 @@ location: Costa Mesa, CA
 name: Palmer Luckey
 role: Founder & CTO
 sector_focus:
-- defense-tech
+- defense
 - vr-ar
 - robotics
 - energy

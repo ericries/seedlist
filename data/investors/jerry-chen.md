@@ -10,7 +10,7 @@ location: Menlo Park, CA
 name: Jerry Chen
 role: Partner
 sector_focus:
-- enterprise-saas
+- saas
 - cloud-infrastructure
 - ai
 - open-source

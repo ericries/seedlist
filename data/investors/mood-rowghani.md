@@ -1,23 +1,33 @@
 ---
-name: "Mood Rowghani"
-slug: mood-rowghani
-type: individual
+check_size: $100K-$25M
 firm: bond
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [growth, late-stage]
-sector_focus: [consumer, fintech, enterprise-saas, developer-tools, ai, marketplace]
-check_size: "$100K-$25M"
-last_verified_investment:
-  date: 2024
-  company: "Kalshi"
-  round: "Series C"
-social:
-  twitter: "@moodrowghani"
-  linkedin: "linkedin.com/in/mood-rowghani"
-status: published
 last_researched: 2026-03-24
-tldr: "BOND partner and ex-Kleiner Perkins Digital Growth veteran backing global growth-stage companies in consumer and fintech. Distinctive transatlantic thesis with 30%+ portfolio in Europe and emerging markets; led Stripe, Uber, Revolut."
+last_verified_investment:
+  company: Kalshi
+  date: 2024
+  round: Series C
+location: San Francisco, CA
+name: Mood Rowghani
+role: General Partner
+sector_focus:
+- consumer
+- fintech
+- saas
+- developer-tools
+- ai
+- marketplace
+slug: mood-rowghani
+social:
+  linkedin: linkedin.com/in/mood-rowghani
+  twitter: '@moodrowghani'
+stage_focus:
+- growth
+- late-stage
+status: published
+tldr: BOND partner and ex-Kleiner Perkins Digital Growth veteran backing global growth-stage
+  companies in consumer and fintech. Distinctive transatlantic thesis with 30%+ portfolio
+  in Europe and emerging markets; led Stripe, Uber, Revolut.
+type: individual
 ---
 
 ## Background

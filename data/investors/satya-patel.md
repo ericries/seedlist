@@ -1,31 +1,36 @@
 ---
-name: "Satya Patel"
-slug: satya-patel
-tldr: "Co-founder of Homebrew seed fund (now Homebrew Forever, personal capital only) with ex-Google and ex-Twitter product expertise. Portfolio is 30% fintech with unicorn bets in Chime ($25B), Plaid ($6.1B), and Gusto ($9.6B). Invests $500K-$2M at seed stage in 'sexy software for unsexy industries'—focusing on democratizing tech for underserved constituencies. Recently founded Screendoor, a $50M+ fund-of-funds backing underrepresented first-time VCs."
-type: individual
+check_size: $500K-$2M
 firm: homebrew
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus:
-  - pre-seed
-  - seed
-sector_focus:
-  - fintech
-  - enterprise-saas
-  - future-of-work
-  - healthcare
-  - ai
-  - infrastructure
-check_size: "$500K-$2M"
-last_verified_investment:
-  date: 2025
-  company: "Pika"
-  round: "Seed"
-social:
-  twitter: "@satyap"
-  linkedin: "linkedin.com/in/satyapatel"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Pika
+  date: 2025
+  round: Seed
+location: San Francisco, CA
+name: Satya Patel
+role: Co-Founder & General Partner
+sector_focus:
+- fintech
+- saas
+- future-of-work
+- healthcare
+- ai
+- infrastructure
+slug: satya-patel
+social:
+  linkedin: linkedin.com/in/satyapatel
+  twitter: '@satyap'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Co-founder of Homebrew seed fund (now Homebrew Forever, personal capital only)
+  with ex-Google and ex-Twitter product expertise. Portfolio is 30% fintech with unicorn
+  bets in Chime ($25B), Plaid ($6.1B), and Gusto ($9.6B). Invests $500K-$2M at seed
+  stage in 'sexy software for unsexy industries'—focusing on democratizing tech for
+  underserved constituencies. Recently founded Screendoor, a $50M+ fund-of-funds backing
+  underrepresented first-time VCs.
+type: individual
 ---
 
 ## Background

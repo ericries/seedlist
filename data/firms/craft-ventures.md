@@ -1,80 +1,80 @@
 ---
+founded: 2017
+fund_size: $3.3B total AUM (as of 2023)
+last_researched: 2026-03-20
+location: San Francisco, CA
 name: Craft Ventures
+sector_focus:
+- enterprise
+- saas
+- fintech
+- ai
+- infrastructure
+- cybersecurity
 slug: craft-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: David Sacks
+  role: Co-Founder & Partner
+  slug: david-sacks
+- name: Bill Lee
+  role: Co-Founder & Venture Partner
+  slug: bill-lee-craft
+- name: Mark Woolway
+  role: President
+  slug: mark-woolway
+- name: Brian Murray
+  role: Partner & COO
+  slug: brian-murray-craft
+- name: Michael Robinson
+  role: Partner, Head of Investment Team
+  slug: michael-robinson-craft
+- name: Mike Marg
+  role: Partner
+  slug: mike-marg
+- name: Lainy Painter Singh
+  role: Partner
+  slug: lainy-painter-singh
+- name: Zao Chen
+  role: Principal
+  slug: zao-chen
+- name: Kevin Gabura
+  role: Principal
+  slug: kevin-gabura
+- name: Dan Moor
+  role: Principal
+  slug: dan-moor
+- name: Kindle Van Linge
+  role: Principal
+  slug: kindle-van-linge
+- name: Sean Whitney
+  role: Principal
+  slug: sean-whitney
+- name: Taylor Durand
+  role: Investor
+  slug: taylor-durand
+- name: Sky Dayton
+  role: Venture Partner
+  slug: sky-dayton
+- name: Jeff Fluhr
+  role: Venture Partner
+  slug: jeff-fluhr
+- name: Bryan Rosenblatt
+  role: Venture Partner
+  slug: bryan-rosenblatt
+- name: J Zac Stein
+  role: Venture Partner
+  slug: j-zac-stein
+- name: Jessica Hoffman
+  role: Partner, Head of Platform Team
+  slug: jessica-hoffman-craft
 type: firm
 website: https://www.craftventures.com
-location: San Francisco, CA
-founded: 2017
-fund_size: "$3.3B total AUM (as of 2023)"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-  - growth
-sector_focus:
-  - enterprise-software
-  - saas
-  - fintech
-  - ai
-  - infrastructure
-  - security
-team:
-  - name: David Sacks
-    role: Co-Founder & Partner
-    slug: david-sacks
-  - name: Bill Lee
-    role: Co-Founder & Venture Partner
-    slug: bill-lee-craft
-  - name: Mark Woolway
-    role: President
-    slug: mark-woolway
-  - name: Brian Murray
-    role: Partner & COO
-    slug: brian-murray-craft
-  - name: Michael Robinson
-    role: Partner, Head of Investment Team
-    slug: michael-robinson-craft
-  - name: Mike Marg
-    role: Partner
-    slug: mike-marg
-  - name: Lainy Painter Singh
-    role: Partner
-    slug: lainy-painter-singh
-  - name: Zao Chen
-    role: Principal
-    slug: zao-chen
-  - name: Kevin Gabura
-    role: Principal
-    slug: kevin-gabura
-  - name: Dan Moor
-    role: Principal
-    slug: dan-moor
-  - name: Kindle Van Linge
-    role: Principal
-    slug: kindle-van-linge
-  - name: Sean Whitney
-    role: Principal
-    slug: sean-whitney
-  - name: Taylor Durand
-    role: Investor
-    slug: taylor-durand
-  - name: Sky Dayton
-    role: Venture Partner
-    slug: sky-dayton
-  - name: Jeff Fluhr
-    role: Venture Partner
-    slug: jeff-fluhr
-  - name: Bryan Rosenblatt
-    role: Venture Partner
-    slug: bryan-rosenblatt
-  - name: J Zac Stein
-    role: Venture Partner
-    slug: j-zac-stein
-  - name: Jessica Hoffman
-    role: Partner, Head of Platform Team
-    slug: jessica-hoffman-craft
-status: published
-last_researched: 2026-03-20
 ---
 
 ## About

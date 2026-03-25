@@ -1,23 +1,37 @@
 ---
-name: "Gabe Greenbaum"
-slug: gabe-greenbaum
-type: individual
+check_size: $25M-$60M
 firm: b-capital-group
-role: "General Partner"
-location: "Los Angeles, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [enterprise-software, ai, proptech, construction-tech, logistics, robotics, insurtech, health-it, marketplaces]
-check_size: "$25M-$60M"
-last_verified_investment:
-  date: 2026-03-12
-  company: "ORO Labs"
-  round: "Series C"
-social:
-  twitter: "@gabegreenbaum"
-  linkedin: "linkedin.com/in/gabe-greenbaum-008167"
-status: published
 last_researched: 2026-03-16
-tldr: "B Capital GP leading early-stage enterprise tech from Los Angeles office. Focuses on vertical SaaS and AI applied to industrials, construction, and logistics; serial founder (StudentSpace, SwiftIQ) with strong proptech and supply-chain domain expertise."
+last_verified_investment:
+  company: ORO Labs
+  date: 2026-03-12
+  round: Series C
+location: Los Angeles, CA
+name: Gabe Greenbaum
+role: General Partner
+sector_focus:
+- enterprise
+- ai
+- proptech
+- construction-tech
+- logistics
+- robotics
+- insurtech
+- health-it
+- marketplaces
+slug: gabe-greenbaum
+social:
+  linkedin: linkedin.com/in/gabe-greenbaum-008167
+  twitter: '@gabegreenbaum'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: B Capital GP leading early-stage enterprise tech from Los Angeles office. Focuses
+  on vertical SaaS and AI applied to industrials, construction, and logistics; serial
+  founder (StudentSpace, SwiftIQ) with strong proptech and supply-chain domain expertise.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,36 @@
 ---
-name: "Sarah Guo"
-slug: sarah-guo
-tldr: "Founder of Conviction, an AI-native venture fund, previously a youngest-ever partner at Greylock. Invests at seed and Series A stages ($1M-$25M checks) with extreme sector focus on AI-driven infrastructure and applications—45% of verified portfolio are AI/ML companies. Portfolio includes breakout valuations in Harvey ($3B), Mistral AI ($6B), and Sierra ($4.5B), demonstrating conviction that technical founders building AI-native products (not feature applications) represent the next wave."
-type: individual
+check_size: $1M-$25M
 firm: conviction
-role: "Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [ai, enterprise-software, infrastructure, security, robotics]
-check_size: "$1M-$25M"
-last_verified_investment:
-  date: ~2023
-  company: "Cognition"
-  round: "Early"
-social:
-  twitter: "@saranormous"
-  linkedin: "linkedin.com/in/sarahxguo"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Cognition
+  date: ~2023
+  round: Early
+location: San Francisco, CA
+name: Sarah Guo
+role: Founder & General Partner
+sector_focus:
+- ai
+- enterprise
+- infrastructure
+- cybersecurity
+- robotics
+slug: sarah-guo
+social:
+  linkedin: linkedin.com/in/sarahxguo
+  twitter: '@saranormous'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Founder of Conviction, an AI-native venture fund, previously a youngest-ever
+  partner at Greylock. Invests at seed and Series A stages ($1M-$25M checks) with
+  extreme sector focus on AI-driven infrastructure and applications—45% of verified
+  portfolio are AI/ML companies. Portfolio includes breakout valuations in Harvey
+  ($3B), Mistral AI ($6B), and Sierra ($4.5B), demonstrating conviction that technical
+  founders building AI-native products (not feature applications) represent the next
+  wave.
+type: individual
 ---
 
 ## Background

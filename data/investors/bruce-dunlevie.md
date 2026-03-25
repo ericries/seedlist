@@ -1,22 +1,34 @@
 ---
-name: "Bruce Dunlevie"
-slug: bruce-dunlevie
-type: individual
+check_size: $1M-$15M
 firm: benchmark
-role: "Founding General Partner"
-location: "Atherton, CA"
-stage_focus: [series-a, series-b]
-sector_focus: [enterprise-software, marketplaces, consumer-internet, healthcare, infrastructure]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2021
-  company: "Twin Health"
-  round: "Series B"
-social:
-  linkedin: "linkedin.com/in/bruce-dunlevie-4285603"
-status: published
 last_researched: 2026-03-15
-tldr: "Bruce Dunlevie is a Founding General Partner of Benchmark Capital (1995), serving on boards of One Medical, WeWork (Lead Independent Director), Rambus (Chairman), and Palm. His 18 verified investments span enterprise SaaS, marketplaces, and healthcare. Known for 'What could go right?' investing philosophy and for teaching entrepreneurs strategic board governance. Co-architected Benchmark's pioneering equal-partnership model; donated $80M to Stanford Medicine in 2021."
+last_verified_investment:
+  company: Twin Health
+  date: 2021
+  round: Series B
+location: Atherton, CA
+name: Bruce Dunlevie
+role: Founding General Partner
+sector_focus:
+- enterprise
+- marketplaces
+- consumer-internet
+- healthcare
+- infrastructure
+slug: bruce-dunlevie
+social:
+  linkedin: linkedin.com/in/bruce-dunlevie-4285603
+stage_focus:
+- series-a
+- series-b
+status: published
+tldr: Bruce Dunlevie is a Founding General Partner of Benchmark Capital (1995), serving
+  on boards of One Medical, WeWork (Lead Independent Director), Rambus (Chairman),
+  and Palm. His 18 verified investments span enterprise SaaS, marketplaces, and healthcare.
+  Known for 'What could go right?' investing philosophy and for teaching entrepreneurs
+  strategic board governance. Co-architected Benchmark's pioneering equal-partnership
+  model; donated $80M to Stanford Medicine in 2021.
+type: individual
 ---
 
 ## Background

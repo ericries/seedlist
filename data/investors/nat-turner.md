@@ -1,23 +1,33 @@
 ---
-name: "Nat Turner"
-slug: nat-turner
-type: individual
+check_size: $250K-$1M
 firm: operator-partners
-role: "General Partner"
-location: "New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [healthtech, fintech, enterprise, developer-tools, consumer]
-check_size: "$250K-$1M"
-last_verified_investment:
-  date: 2023-02
-  company: "CollX"
-  round: "Seed"
-social:
-  twitter: "@natsturner"
-  linkedin: "linkedin.com/in/natsturner"
-status: published
 last_researched: 2026-03-22
-tldr: "Flatiron and Operator Partners founder with 225+ angel investments heavily skewed toward healthcare/healthtech. Backs execution-oriented first-time founders at pre-seed/seed; known for bias-for-action mentorship and deep healthcare domain expertise."
+last_verified_investment:
+  company: CollX
+  date: 2023-02
+  round: Seed
+location: New York, NY
+name: Nat Turner
+role: General Partner
+sector_focus:
+- healthcare
+- fintech
+- enterprise
+- developer-tools
+- consumer
+slug: nat-turner
+social:
+  linkedin: linkedin.com/in/natsturner
+  twitter: '@natsturner'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Flatiron and Operator Partners founder with 225+ angel investments heavily skewed
+  toward healthcare/healthtech. Backs execution-oriented first-time founders at pre-seed/seed;
+  known for bias-for-action mentorship and deep healthcare domain expertise.
+type: individual
 ---
 
 ## Background

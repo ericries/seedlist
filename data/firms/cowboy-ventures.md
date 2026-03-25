@@ -1,25 +1,36 @@
 ---
-name: "Cowboy Ventures"
-slug: cowboy-ventures
-type: firm
-website: "https://www.cowboy.vc"
-location: "Palo Alto, CA"
 founded: 2012
-fund_size: "$590M+ total across 5 funds plus Mustang opportunity fund"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai, fintech, saas, security, vertical-saas, healthcare, future-of-work, consumer, developer-tools]
-team:
-  - slug: aileen-lee
-    role: "Founder & Managing Partner"
-    name: "Aileen Lee"
-  - slug: caroline-duffy
-    role: "Partner"
-    name: "Caroline Duffy"
-  - slug: ted-wang
-    role: "Board Partner"
-    name: "Ted Wang"
-status: published
+fund_size: $590M+ total across 5 funds plus Mustang opportunity fund
 last_researched: 2026-03-20
+location: Palo Alto, CA
+name: Cowboy Ventures
+sector_focus:
+- ai
+- fintech
+- saas
+- cybersecurity
+- vertical-saas
+- healthcare
+- future-of-work
+- consumer
+- developer-tools
+slug: cowboy-ventures
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Aileen Lee
+  role: Founder & Managing Partner
+  slug: aileen-lee
+- name: Caroline Duffy
+  role: Partner
+  slug: caroline-duffy
+- name: Ted Wang
+  role: Board Partner
+  slug: ted-wang
+type: firm
+website: https://www.cowboy.vc
 ---
 
 ## About

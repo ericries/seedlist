@@ -1,25 +1,36 @@
 ---
-name: "D1 Capital Partners"
-slug: d1-capital-partners
-type: firm
-website: "https://www.d1capital.com"
-location: "New York, NY"
 founded: 2018
-fund_size: "$24.5B AUM (October 2025); ~60% private, ~40% public"
-stage_focus: [growth, late-stage, crossover]
-sector_focus: [enterprise-software, ai, fintech, consumer, industrials, healthcare, logistics, defense-tech]
-team:
-  - slug: dan-sundheim
-    role: "Founder & CIO"
-    name: "Daniel Sundheim"
-  - slug: nick-parrish
-    role: "Managing Director"
-    name: "Nick Parrish"
-  - slug: steven-freed
-    role: "Managing Director"
-    name: "Steven Freed"
-status: published
+fund_size: $24.5B AUM (October 2025); ~60% private, ~40% public
 last_researched: 2026-03-22
+location: New York, NY
+name: D1 Capital Partners
+sector_focus:
+- enterprise
+- ai
+- fintech
+- consumer
+- industrials
+- healthcare
+- logistics
+- defense
+slug: d1-capital-partners
+stage_focus:
+- growth
+- late-stage
+- crossover
+status: published
+team:
+- name: Daniel Sundheim
+  role: Founder & CIO
+  slug: dan-sundheim
+- name: Nick Parrish
+  role: Managing Director
+  slug: nick-parrish
+- name: Steven Freed
+  role: Managing Director
+  slug: steven-freed
+type: firm
+website: https://www.d1capital.com
 ---
 
 ## About

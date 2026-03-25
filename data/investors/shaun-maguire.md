@@ -1,23 +1,37 @@
 ---
-name: "Shaun Maguire"
-slug: shaun-maguire
-tldr: "Physics PhD (Caltech) and Sequoia Partner on Seed/Early team; co-founder of Escape Dynamics (space propulsion) and Expanse ($1B+ Palo Alto Networks acquisition). DARPA civilian contractor. Self-taught (GED → community college path); invests in defense tech (17%), crypto (22%), and hardware/space (13%) with $1M-$10M checks. Seeks 'high-IQ founders irrationally motivated' by mission. Controversial figure; advocate for hardware-first future and Israeli AI sector."
-type: individual
+check_size: $1M-$10M
 firm: sequoia-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [defense-tech, ai, crypto, space, hardware, cybersecurity, fintech]
-check_size: "$1M-$10M"
-last_verified_investment:
-  date: 2025-11-10
-  company: "Neros"
-  round: "Series B"
-social:
-  twitter: "@shaunmmaguire"
-  linkedin: "linkedin.com/in/shaun-maguire-9881302b"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Neros
+  date: 2025-11-10
+  round: Series B
+location: San Francisco, CA
+name: Shaun Maguire
+role: Partner
+sector_focus:
+- defense
+- ai
+- crypto
+- space
+- hardware
+- cybersecurity
+- fintech
+slug: shaun-maguire
+social:
+  linkedin: linkedin.com/in/shaun-maguire-9881302b
+  twitter: '@shaunmmaguire'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Physics PhD (Caltech) and Sequoia Partner on Seed/Early team; co-founder of
+  Escape Dynamics (space propulsion) and Expanse ($1B+ Palo Alto Networks acquisition).
+  DARPA civilian contractor. Self-taught (GED → community college path); invests in
+  defense tech (17%), crypto (22%), and hardware/space (13%) with $1M-$10M checks.
+  Seeks 'high-IQ founders irrationally motivated' by mission. Controversial figure;
+  advocate for hardware-first future and Israeli AI sector.
+type: individual
 ---
 
 ## Background

@@ -11,7 +11,7 @@ name: Chase Coleman III
 role: Founder & CEO
 sector_focus:
 - internet
-- software
+- enterprise
 - consumer-technology
 - fintech
 - ai

@@ -24,6 +24,7 @@ last_verified_investment:
 social:
   twitter: "@Xavier75"
   linkedin: "linkedin.com/in/xavier-niel-3a12571"
+tldr: "Xavier Niel is the billionaire founder of French telecom Iliad/Free who co-founded Kima Ventures, one of the worlds most active angel funds, deploying ~100 standardized EUR150K tickets per year at seed stage. His personal AI conviction runs far beyond Kima: he seeded Mistral AI, led Poolside AIs $126M round, and co-founded the EUR330M Kyutai AI Lab. He also founded Station F, the worlds largest startup campus."
 status: published
 last_researched: 2026-03-25
 ---

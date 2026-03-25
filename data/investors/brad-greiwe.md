@@ -1,22 +1,35 @@
 ---
-name: "Brad Greiwe"
-slug: brad-greiwe
-type: individual
+check_size: $10M-$25M
 firm: fifth-wall
-role: "Co-Founder & Chairman"
-location: "Incline Valley, NV"
-stage_focus: [seed, series-a, series-b, series-c]
-sector_focus: [proptech, real-estate-technology, climate-tech, fintech, construction-tech]
-check_size: "$10M-$25M"
-last_verified_investment:
-  date: 2025
-  company: "Juniper Square"
-  round: "Series D"
-social:
-  linkedin: "linkedin.com/in/brad-greiwe-96022a38"
-tldr: "Brad Greiwe is Co-Founder and Chairman of Fifth Wall, the largest proptech-focused VC globally with $3.2B in commitments. His portfolio spans residential proptech (28%), climate/energy (20%), and commercial RE software (12%), differentiated by 110+ strategic real estate LP partners who double as distribution channels for portfolio companies. Notable investments include Opendoor, Procore, and Aurora Solar."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Juniper Square
+  date: 2025
+  round: Series D
+location: Incline Valley, NV
+name: Brad Greiwe
+role: Co-Founder & Chairman
+sector_focus:
+- proptech
+- real-estate-technology
+- climate
+- fintech
+- construction-tech
+slug: brad-greiwe
+social:
+  linkedin: linkedin.com/in/brad-greiwe-96022a38
+stage_focus:
+- seed
+- series-a
+- series-b
+- series-c
+status: published
+tldr: Brad Greiwe is Co-Founder and Chairman of Fifth Wall, the largest proptech-focused
+  VC globally with $3.2B in commitments. His portfolio spans residential proptech
+  (28%), climate/energy (20%), and commercial RE software (12%), differentiated by
+  110+ strategic real estate LP partners who double as distribution channels for portfolio
+  companies. Notable investments include Opendoor, Procore, and Aurora Solar.
+type: individual
 ---
 
 ## Background

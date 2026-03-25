@@ -1,23 +1,33 @@
 ---
-name: "Meka Asonye"
-slug: meka-asonye
-type: individual
+check_size: $100K-$12M
 firm: first-round-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [enterprise, saas, fintech, developer-tools, govtech, defense-tech]
-check_size: "$100K-$12M"
-last_verified_investment:
-  date: 2025-08-27
-  company: "Central"
-  round: "Seed"
-social:
-  twitter: "@BigMekaStyle"
-  linkedin: "linkedin.com/in/mekaasonye"
-status: published
 last_researched: 2026-03-23
-tldr: "First Round partner and ex-Stripe go-to-market guru backing technical founders who need commercial scaling help. Strength in seed-stage SaaS and defense tech; pattern of identifying asymmetric opportunities."
+last_verified_investment:
+  company: Central
+  date: 2025-08-27
+  round: Seed
+location: San Francisco, CA
+name: Meka Asonye
+role: Partner
+sector_focus:
+- enterprise
+- saas
+- fintech
+- developer-tools
+- govtech
+- defense
+slug: meka-asonye
+social:
+  linkedin: linkedin.com/in/mekaasonye
+  twitter: '@BigMekaStyle'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: First Round partner and ex-Stripe go-to-market guru backing technical founders
+  who need commercial scaling help. Strength in seed-stage SaaS and defense tech;
+  pattern of identifying asymmetric opportunities.
+type: individual
 ---
 
 ## Background

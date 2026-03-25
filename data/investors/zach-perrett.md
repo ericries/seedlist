@@ -12,12 +12,11 @@ role: Co-Founder & Managing Director
 sector_focus:
 - fintech
 - healthcare
-- enterprise-software
+- enterprise
 - climate
 - developer-tools
 - crypto
 slug: zach-perrett
-tldr: "Co-founder & MD of Mischief Ventures, pre-seed/seed specialist ($100K-$5M checks). Invests in fintech, healthcare, enterprise software, climate, developer tools, crypto. San Francisco based. Portfolio focused on early-stage founders with mission-driven conviction. Operates high-velocity pre-seed program."
 social:
   linkedin: linkedin.com/in/zperret
   twitter: '@zachperret'
@@ -26,6 +25,10 @@ stage_focus:
 - seed
 - series-a
 status: published
+tldr: Co-founder & MD of Mischief Ventures, pre-seed/seed specialist ($100K-$5M checks).
+  Invests in fintech, healthcare, enterprise software, climate, developer tools, crypto.
+  San Francisco based. Portfolio focused on early-stage founders with mission-driven
+  conviction. Operates high-velocity pre-seed program.
 type: individual
 ---
 

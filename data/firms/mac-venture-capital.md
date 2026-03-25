@@ -1,28 +1,38 @@
 ---
-name: "MaC Venture Capital"
-slug: mac-venture-capital
-type: firm
-website: "https://macventurecapital.com"
-location: "Los Angeles, CA"
 founded: 2019
-fund_size: "$600M+ AUM across three funds (Fund I: $103M, Fund II: $203M, Fund III: $150M)"
-stage_focus: [seed]
-sector_focus: [fintech, consumer, enterprise, logistics, media, aerospace, healthtech, edtech]
-team:
-  - slug: marlon-nichols
-    role: "Co-Founder & Managing General Partner"
-    name: "Marlon Nichols"
-  - slug: adrian-fenty
-    role: "Co-Founder & Managing General Partner"
-    name: "Adrian Fenty"
-  - slug: michael-palank
-    role: "General Partner"
-    name: "Michael Palank"
-  - slug: charles-d-king
-    role: "General Partner"
-    name: "Charles D. King"
-status: published
+fund_size: '$600M+ AUM across three funds (Fund I: $103M, Fund II: $203M, Fund III:
+  $150M)'
 last_researched: 2026-03-20
+location: Los Angeles, CA
+name: MaC Venture Capital
+sector_focus:
+- fintech
+- consumer
+- enterprise
+- logistics
+- media
+- aerospace
+- healthcare
+- edtech
+slug: mac-venture-capital
+stage_focus:
+- seed
+status: published
+team:
+- name: Marlon Nichols
+  role: Co-Founder & Managing General Partner
+  slug: marlon-nichols
+- name: Adrian Fenty
+  role: Co-Founder & Managing General Partner
+  slug: adrian-fenty
+- name: Michael Palank
+  role: General Partner
+  slug: michael-palank
+- name: Charles D. King
+  role: General Partner
+  slug: charles-d-king
+type: firm
+website: https://macventurecapital.com
 ---
 
 ## About

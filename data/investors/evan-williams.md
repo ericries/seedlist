@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Evan Williams
 role: Co-Founder
 sector_focus:
-- climate-tech
+- climate
 - healthcare
 - fintech
 - food-agriculture
@@ -24,8 +24,14 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: 'Evan Williams is Twitter/Odeo co-founder, Blogger creator (Google), Medium
+  founder/Chairman, and co-founder of Obvious Ventures. His firm ($1B+ AUM across
+  4 funds) invests in ''world-positive'' companies across Planetary Health, Human
+  Health, Economic Health. Not social impact investing but a filter: profitable companies
+  solving real problems with positive impact at scale. Recently co-founded Mozi, a
+  private social network. Portfolio focuses on climate-tech, healthcare, fintech,
+  food/agriculture, and consumer.'
 type: individual
-tldr: "Evan Williams is Twitter/Odeo co-founder, Blogger creator (Google), Medium founder/Chairman, and co-founder of Obvious Ventures. His firm ($1B+ AUM across 4 funds) invests in 'world-positive' companies across Planetary Health, Human Health, Economic Health. Not social impact investing but a filter: profitable companies solving real problems with positive impact at scale. Recently co-founded Mozi, a private social network. Portfolio focuses on climate-tech, healthcare, fintech, food/agriculture, and consumer."
 ---
 
 ## Background

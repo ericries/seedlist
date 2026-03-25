@@ -1,37 +1,46 @@
 ---
-name: "Creandum"
-slug: creandum
-type: firm
-website: "https://creandum.com"
-location: "Stockholm, Sweden"
 founded: 2003
-fund_size: "€500M (Fund VII, 2024); ~€1.6B total raised across seven funds"
-stage_focus: [seed, series-a]
-sector_focus: [saas, fintech, ai, consumer, health, climate-tech, developer-tools]
-team:
-  - slug: staffan-helgesson
-    role: "Founder & General Partner"
-    name: "Staffan Helgesson"
-  - slug: johan-brenner
-    role: "General Partner"
-    name: "Johan Brenner"
-  - slug: fredrik-cassel
-    role: "General Partner"
-    name: "Fredrik Cassel"
-  - slug: simon-schmincke
-    role: "General Partner"
-    name: "Simon Schmincke"
-  - slug: carl-fritjofsson
-    role: "General Partner"
-    name: "Carl Fritjofsson"
-  - slug: peter-specht
-    role: "General Partner"
-    name: "Peter Specht"
-  - slug: sabina-wizander
-    role: "Partner"
-    name: "Sabina Wizander"
-status: published
+fund_size: €500M (Fund VII, 2024); ~€1.6B total raised across seven funds
 last_researched: 2026-03-24
+location: Stockholm, Sweden
+name: Creandum
+sector_focus:
+- saas
+- fintech
+- ai
+- consumer
+- healthcare
+- climate
+- developer-tools
+slug: creandum
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- name: Staffan Helgesson
+  role: Founder & General Partner
+  slug: staffan-helgesson
+- name: Johan Brenner
+  role: General Partner
+  slug: johan-brenner
+- name: Fredrik Cassel
+  role: General Partner
+  slug: fredrik-cassel
+- name: Simon Schmincke
+  role: General Partner
+  slug: simon-schmincke
+- name: Carl Fritjofsson
+  role: General Partner
+  slug: carl-fritjofsson
+- name: Peter Specht
+  role: General Partner
+  slug: peter-specht
+- name: Sabina Wizander
+  role: Partner
+  slug: sabina-wizander
+type: firm
+website: https://creandum.com
 ---
 
 ## About

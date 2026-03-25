@@ -1,32 +1,36 @@
 ---
-name: "Peter Fenton"
-slug: peter-fenton
-tldr: "Benchmark GP; open-source infrastructure expert with 51% portfolio in enterprise infrastructure/developer tools (Docker, Elastic, JBoss, Kubernetes). 7 IPOs including Yelp, Twitter, Elasticsearch. Non-thesis-driven; founder-centric focusing on authenticity. Known for saying 'never turn down on valuation' and recognizing when 'lightning strikes.'"
-type: individual
+check_size: $1M–$15M
 firm: benchmark
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus:
-- seed
-- series-a
-- series-b
+last_researched: 2026-03-17
+last_verified_investment:
+  company: Katana
+  date: 2025-10
+  round: Series B
+location: San Francisco, CA
+name: Peter Fenton
+role: General Partner
 sector_focus:
 - open-source
-- enterprise-infrastructure
+- infrastructure
 - developer-tools
 - ai
 - data-infrastructure
 - saas
-check_size: "$1M–$15M"
-last_verified_investment:
-  date: 2025-10
-  company: "Katana"
-  round: "Series B"
+slug: peter-fenton
 social:
-  twitter: "@peterfenton"
-  linkedin: "linkedin.com/in/peter-fenton-0b117"
+  linkedin: linkedin.com/in/peter-fenton-0b117
+  twitter: '@peterfenton'
+stage_focus:
+- seed
+- series-a
+- series-b
 status: published
-last_researched: 2026-03-17
+tldr: Benchmark GP; open-source infrastructure expert with 51% portfolio in enterprise
+  infrastructure/developer tools (Docker, Elastic, JBoss, Kubernetes). 7 IPOs including
+  Yelp, Twitter, Elasticsearch. Non-thesis-driven; founder-centric focusing on authenticity.
+  Known for saying 'never turn down on valuation' and recognizing when 'lightning
+  strikes.'
+type: individual
 ---
 
 ## Background

@@ -51,7 +51,7 @@ last_researched: 2026-03-23
 location: New York, NY
 name: Flatiron Health
 sector:
-- healthtech
+- healthcare
 - oncology
 - data-analytics
 slug: flatiron-health

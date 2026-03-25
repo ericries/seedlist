@@ -41,7 +41,7 @@ last_researched: 2026-03-24
 location: Buffalo, NY
 name: Centivo
 sector:
-- healthtech
+- healthcare
 - insurance
 - employer-benefits
 slug: centivo

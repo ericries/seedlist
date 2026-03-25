@@ -1,23 +1,38 @@
 ---
-name: "Aydin Senkut"
-slug: aydin-senkut
-tldr: "Founder & Managing Partner of Felicis Ventures, first product manager at Google. Multi-stage generalist backing 50+ unicorns with checks $500K-$15M. Portfolio (19 verified of 436+ total) is 26% enterprise SaaS (Shopify, Notion), 21% AI (Runway, Poolside), 16% consumer (Canva). Known for '1% Founder Development Pledge' and pro-founder board voting. Forbes Midas 12x."
-type: individual
+check_size: $500K-$15M
 firm: felicis
-role: "Founder & Managing Partner"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, cybersecurity, fintech, health, consumer, enterprise, infrastructure]
-check_size: "$500K-$15M"
-last_verified_investment:
-  date: 2025
-  company: "n8n"
-  round: "Series B"
-social:
-  twitter: "@asenkut"
-  linkedin: "linkedin.com/in/aydins"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: n8n
+  date: 2025
+  round: Series B
+location: Menlo Park, CA
+name: Aydin Senkut
+role: Founder & Managing Partner
+sector_focus:
+- ai
+- cybersecurity
+- fintech
+- healthcare
+- consumer
+- enterprise
+- infrastructure
+slug: aydin-senkut
+social:
+  linkedin: linkedin.com/in/aydins
+  twitter: '@asenkut'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Founder & Managing Partner of Felicis Ventures, first product manager at Google.
+  Multi-stage generalist backing 50+ unicorns with checks $500K-$15M. Portfolio (19
+  verified of 436+ total) is 26% enterprise SaaS (Shopify, Notion), 21% AI (Runway,
+  Poolside), 16% consumer (Canva). Known for '1% Founder Development Pledge' and pro-founder
+  board voting. Forbes Midas 12x.
+type: individual
 ---
 
 ## Background

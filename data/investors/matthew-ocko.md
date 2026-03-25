@@ -1,23 +1,38 @@
 ---
-name: "Matthew Ocko"
-slug: matthew-ocko
-tldr: "DCVC co-founder, deep-tech specialist focused on compute/algorithms as competitive moat. Portfolio: 20% defense/national security, 12% space/aerospace, 12% climate, 16% AI. Known for 'must-have life-or-death technologies' thesis; skeptical of fluffy SaaS; emphasizes actual Fortune 1000 revenue over NPS. $100K-$25M checks."
-type: individual
+check_size: $100K–$25M
 firm: dcvc
-role: "Co-Founder & Co-Managing Partner"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [deep-tech, ai-ml, cybersecurity, space, robotics, synthetic-biology, defense, climate-tech, quantum-computing]
-check_size: "$100K–$25M"
-last_verified_investment:
-  date: 2024-10
-  company: "Impulse Space"
-  round: "Series B"
-social:
-  twitter: "@mattocko"
-  linkedin: "linkedin.com/in/mattocko"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Impulse Space
+  date: 2024-10
+  round: Series B
+location: Palo Alto, CA
+name: Matthew Ocko
+role: Co-Founder & Co-Managing Partner
+sector_focus:
+- deep-tech
+- ai-ml
+- cybersecurity
+- space
+- robotics
+- synthetic-biology
+- defense
+- climate
+- quantum-computing
+slug: matthew-ocko
+social:
+  linkedin: linkedin.com/in/mattocko
+  twitter: '@mattocko'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'DCVC co-founder, deep-tech specialist focused on compute/algorithms as competitive
+  moat. Portfolio: 20% defense/national security, 12% space/aerospace, 12% climate,
+  16% AI. Known for ''must-have life-or-death technologies'' thesis; skeptical of
+  fluffy SaaS; emphasizes actual Fortune 1000 revenue over NPS. $100K-$25M checks.'
+type: individual
 ---
 
 ## Background

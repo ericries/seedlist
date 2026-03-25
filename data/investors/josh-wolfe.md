@@ -11,7 +11,7 @@ name: Josh Wolfe
 role: Co-Founder & Managing Partner
 sector_focus:
 - deep-tech
-- defense-tech
+- defense
 - biotech
 - ai
 - robotics

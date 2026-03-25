@@ -1,23 +1,37 @@
 ---
-name: "Scott Belsky"
-slug: scott-belsky
-tldr: "Co-founder of Behance (acquired by Adobe), prolific seed-stage angel with 242+ portfolio companies across $50K-$100K checks. Invests heavily in design-forward software and 'transformation by interface' products (Airtable, Notion, Figma, Replit). Notable early exits include Pinterest, Uber, Warby Parker, and Sweetgreen. Recently joined A24 to lead technology and innovation; distinctive for backing tools that empower creators and builders over traditional B2B enterprise."
-type: individual
+check_size: $50K-$100K
 firm: a24
-role: "Angel Investor; Partner at A24"
-location: "New York, NY"
-stage_focus: [pre-seed, seed]
-sector_focus: [consumer, marketplaces, fintech, design, developer-tools, climate-tech, health-tech]
-check_size: "$50K-$100K"
-last_verified_investment:
-  date: 2025
-  company: "Ramp"
-  round: "Seed"
-social:
-  twitter: "@scottbelsky"
-  linkedin: "linkedin.com/in/scottbelsky"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Ramp
+  date: 2025
+  round: Seed
+location: New York, NY
+name: Scott Belsky
+role: Angel Investor; Partner at A24
+sector_focus:
+- consumer
+- marketplaces
+- fintech
+- design
+- developer-tools
+- climate
+- healthcare
+slug: scott-belsky
+social:
+  linkedin: linkedin.com/in/scottbelsky
+  twitter: '@scottbelsky'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Co-founder of Behance (acquired by Adobe), prolific seed-stage angel with 242+
+  portfolio companies across $50K-$100K checks. Invests heavily in design-forward
+  software and 'transformation by interface' products (Airtable, Notion, Figma, Replit).
+  Notable early exits include Pinterest, Uber, Warby Parker, and Sweetgreen. Recently
+  joined A24 to lead technology and innovation; distinctive for backing tools that
+  empower creators and builders over traditional B2B enterprise.
+type: individual
 ---
 
 ## Background

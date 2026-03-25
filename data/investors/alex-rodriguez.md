@@ -14,6 +14,7 @@ last_verified_investment:
   round: "Seed Extension"
 social:
   linkedin: "linkedin.com/in/alex-rodriguez-b4161815a"
+tldr: "Alex Rodriguez is the former MLB star who runs A-Rod Corp and co-founded VCP Ventures with Marc Lore. His venture portfolio concentrates in health/wellness/fitness (30%), sports/entertainment (20%), and fintech (20%), with a distinctive celebrity-amplification model where he personally endorses portfolio companies. Notable investments include Snap (pre-IPO), Eight Sleep, and Hims and Hers."
 status: published
 last_researched: 2026-03-25
 ---

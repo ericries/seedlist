@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Mary Meeker
 role: Founder & General Partner
 sector_focus:
-- enterprise-saas
+- saas
 - ai
 - edtech
 - fintech

@@ -1,29 +1,34 @@
 ---
-name: "Asheem Chandna"
-slug: asheem-chandna
-type: individual
+check_size: $500K–$25M (lead check)
 firm: greylock
-role: "General Partner"
-location: "Menlo Park, CA"
+last_researched: 2026-03-24
+last_verified_investment:
+  company: Cylake
+  date: 2026-03
+  round: Seed
+location: Menlo Park, CA
+name: Asheem Chandna
+role: General Partner
+sector_focus:
+- cybersecurity
+- enterprise
+- infrastructure
+- ai-ml
+slug: asheem-chandna
+social:
+  linkedin: linkedin.com/in/chandna
+  twitter: '@chandna'
 stage_focus:
 - pre-seed
 - seed
 - series-a
-sector_focus:
-- cybersecurity
-- enterprise-software
-- infrastructure
-- ai-ml
-check_size: "$500K–$25M (lead check)"
-last_verified_investment:
-  date: 2026-03
-  company: Cylake
-  round: Seed
-social:
-  twitter: "@chandna"
-  linkedin: "linkedin.com/in/chandna"
 status: published
-last_researched: 2026-03-24
+tldr: Asheem Chandna is a General Partner at Greylock who has never lost capital on
+  a led investment since joining in 2003. His portfolio is overwhelmingly cybersecurity
+  (58%), built from his operating years at Check Point Software. He backs repeat founders
+  (Rajiv Gupta 3x, Nir Zuk 2x) and incubates companies at Greylock (Awake Security,
+  Abnormal Security). His biggest hit is Palo Alto Networks.
+type: individual
 ---
 
 ## Background
@@ -223,4 +228,3 @@ Reiser also described a specific exchange over gross margins in Abnormal's early
 [^30]: Greylock, "How Rubrik CEO Bipul Sinha Built a Cybersecurity Leader," accessed March 2026. https://greylock.com/greymatter/building-a-cybersecurity-juggernaut/
 
 [^31]: Cleverism, "Skyhigh Networks — Interview with its Co-Founder & CEO Rajiv Gupta," accessed March 2026. https://www.cleverism.com/skyhigh-networks-interview-co-founder-ceo-rajiv-gupta/
-

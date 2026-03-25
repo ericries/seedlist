@@ -8,11 +8,10 @@ last_verified_investment:
   round: Series E
 location: San Francisco, CA
 name: Brian Feinstein
-tldr: "Partner at Bessemer Venture Partners since 2008 (with 2010-2011 break), vertical SaaS specialist backing scrappy, industry-expert founders. Portfolio includes 5 IPOs: Procore, nCino, Bumble, Weave. Known for non-stereotypical founder backing and first-call CEO thought partnership. Checks $1M-$250M across seed through growth. Founded Bessemer's LatAm efforts."
 role: Partner
 sector_focus:
 - vertical-saas
-- enterprise-software
+- enterprise
 - construction-tech
 - legal-tech
 - fintech
@@ -27,6 +26,11 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: 'Partner at Bessemer Venture Partners since 2008 (with 2010-2011 break), vertical
+  SaaS specialist backing scrappy, industry-expert founders. Portfolio includes 5
+  IPOs: Procore, nCino, Bumble, Weave. Known for non-stereotypical founder backing
+  and first-call CEO thought partnership. Checks $1M-$250M across seed through growth.
+  Founded Bessemer''s LatAm efforts.'
 type: individual
 ---
 

@@ -1,38 +1,38 @@
 ---
-name: Chemistry
-slug: chemistry-vc
-type: firm
-website: "https://www.chemistry.vc"
-location: "San Francisco, CA"
 founded: 2024
-fund_size: "$350M"
-stage_focus:
-  - seed
-  - series-a
-sector_focus:
-  - fintech
-  - infrastructure
-  - developer-tools
-  - enterprise-software
-  - ai
-team:
-  - name: Ethan Kurzweil
-    role: Managing Partner & Co-Founder
-    slug: ethan-kurzweil
-  - name: Kristina Shen
-    role: Managing Partner & Co-Founder
-    slug: kristina-shen
-  - name: Mark Goldberg
-    role: Managing Partner & Co-Founder
-    slug: mark-goldberg
-  - name: Bohan Lou
-    role: Principal
-    slug: bohan-lou
-  - name: Jamie Viggiano
-    role: Team Member
-    slug: jamie-viggiano
-status: published
+fund_size: $350M
 last_researched: 2026-03-19
+location: San Francisco, CA
+name: Chemistry
+sector_focus:
+- fintech
+- infrastructure
+- developer-tools
+- enterprise
+- ai
+slug: chemistry-vc
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- name: Ethan Kurzweil
+  role: Managing Partner & Co-Founder
+  slug: ethan-kurzweil
+- name: Kristina Shen
+  role: Managing Partner & Co-Founder
+  slug: kristina-shen
+- name: Mark Goldberg
+  role: Managing Partner & Co-Founder
+  slug: mark-goldberg
+- name: Bohan Lou
+  role: Principal
+  slug: bohan-lou
+- name: Jamie Viggiano
+  role: Team Member
+  slug: jamie-viggiano
+type: firm
+website: https://www.chemistry.vc
 ---
 
 ## About

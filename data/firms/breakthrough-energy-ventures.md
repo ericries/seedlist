@@ -1,49 +1,60 @@
 ---
-name: "Breakthrough Energy Ventures"
-slug: breakthrough-energy-ventures
-type: firm
-website: "https://www.breakthroughenergy.org"
-location: "Kirkland, WA"
 founded: 2016
-fund_size: "$3.5B+ total committed capital; BEV I $1B (2016); BEV II ~$1B (2021); BEV III $839M (2023); Select Fund $555M"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [climate-tech, clean-energy, electricity, transportation, manufacturing, agriculture, buildings]
-team:
-  - slug: rodi-guidero
-    role: "Executive Director & Managing Partner"
-    name: "Rodi Guidero"
-  - slug: eric-toone
-    role: "Executive Managing Director & CTO"
-    name: "Eric Toone"
-  - slug: carmichael-roberts
-    role: "Managing Partner"
-    name: "Carmichael Roberts"
-  - slug: david-danielson
-    role: "Managing Director"
-    name: "David T. Danielson"
-  - slug: jim-cabot
-    role: "Managing Director"
-    name: "Jim Cabot"
-  - slug: allegra-kowalewski-ferreira
-    role: "Partner"
-    name: "Allegra Kowalewski-Ferreira"
-  - slug: cooper-rinzler
-    role: "Partner"
-    name: "Cooper Rinzler"
-  - slug: mary-k-haas
-    role: "Partner"
-    name: "Mary K Haas"
-  - slug: stefan-zlatev
-    role: "Partner"
-    name: "Stefan Zlatev"
-  - slug: jim-matheson
-    role: "Venture Partner"
-    name: "Jim Matheson"
-  - slug: eric-stern
-    role: "Venture Partner"
-    name: "Eric Stern"
-status: published
+fund_size: $3.5B+ total committed capital; BEV I $1B (2016); BEV II ~$1B (2021); BEV
+  III $839M (2023); Select Fund $555M
 last_researched: 2026-03-24
+location: Kirkland, WA
+name: Breakthrough Energy Ventures
+sector_focus:
+- climate
+- electricity
+- transportation
+- manufacturing
+- agriculture
+- buildings
+slug: breakthrough-energy-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Rodi Guidero
+  role: Executive Director & Managing Partner
+  slug: rodi-guidero
+- name: Eric Toone
+  role: Executive Managing Director & CTO
+  slug: eric-toone
+- name: Carmichael Roberts
+  role: Managing Partner
+  slug: carmichael-roberts
+- name: David T. Danielson
+  role: Managing Director
+  slug: david-danielson
+- name: Jim Cabot
+  role: Managing Director
+  slug: jim-cabot
+- name: Allegra Kowalewski-Ferreira
+  role: Partner
+  slug: allegra-kowalewski-ferreira
+- name: Cooper Rinzler
+  role: Partner
+  slug: cooper-rinzler
+- name: Mary K Haas
+  role: Partner
+  slug: mary-k-haas
+- name: Stefan Zlatev
+  role: Partner
+  slug: stefan-zlatev
+- name: Jim Matheson
+  role: Venture Partner
+  slug: jim-matheson
+- name: Eric Stern
+  role: Venture Partner
+  slug: eric-stern
+type: firm
+website: https://www.breakthroughenergy.org
 ---
 
 ## About

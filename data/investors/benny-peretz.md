@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Benny Peretz
 role: Managing Partner & Co-Founder
 sector_focus:
-- enterprise-saas
+- saas
 - fintech
 - e-commerce
 - cybersecurity

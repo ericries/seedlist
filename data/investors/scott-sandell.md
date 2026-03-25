@@ -1,23 +1,37 @@
 ---
-name: "Scott Sandell"
-slug: scott-sandell
-tldr: "Executive Chairman & CIO of NEA, seed to growth-stage investor ($5M-$100M) in enterprise software, cloud, AI, fintech, cybersecurity, infrastructure. Recent Robinhood growth investment. Menlo Park based. Senior leadership at major enterprise-focused mega-fund with broad platform mandate. Leading NEA's AI and infrastructure investment thesis."
-type: individual
+check_size: $5M-$100M
 firm: nea
-role: "Executive Chairman & Chief Investment Officer"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, cloud, ai, fintech, cybersecurity, infrastructure]
-check_size: "$5M-$100M"
-last_verified_investment:
-  date: 2025
-  company: "Robinhood"
-  round: "Growth"
-social:
-  twitter: ""
-  linkedin: "linkedin.com/in/scottsandell"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Robinhood
+  date: 2025
+  round: Growth
+location: Menlo Park, CA
+name: Scott Sandell
+role: Executive Chairman & Chief Investment Officer
+sector_focus:
+- enterprise
+- cloud
+- ai
+- fintech
+- cybersecurity
+- infrastructure
+slug: scott-sandell
+social:
+  linkedin: linkedin.com/in/scottsandell
+  twitter: ''
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Executive Chairman & CIO of NEA, seed to growth-stage investor ($5M-$100M) in
+  enterprise software, cloud, AI, fintech, cybersecurity, infrastructure. Recent Robinhood
+  growth investment. Menlo Park based. Senior leadership at major enterprise-focused
+  mega-fund with broad platform mandate. Leading NEA's AI and infrastructure investment
+  thesis.
+type: individual
 ---
 
 ## Background

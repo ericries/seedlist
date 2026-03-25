@@ -1,23 +1,36 @@
 ---
-name: "Bijan Sabet"
-slug: bijan-sabet
-tldr: "Co-Founder of Spark Capital ($4B AUM), Boston-based early consumer internet investor with exits at WebTV (Microsoft $425M), Grand Central (Citrix). Portfolio emphasizes product-first founders and extraordinary founders. U.S. Ambassador to Czech Republic (2022-2025). Spark led deals across marketplaces, social, enterprise. Checks $1M-$15M at seed/Series A. Forbes Midas 2011-2017."
-type: individual
+check_size: $1M-$15M
 firm: spark-capital
-role: "Co-Founder & Partner Emeritus"
-location: "Boston, MA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [consumer, social, marketplaces, enterprise-software, autonomous-vehicles, gaming]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: ~2021
-  company: "Adept"
-  round: "Early"
-social:
-  twitter: "@bfrmorrison"
-  linkedin: "linkedin.com/in/bijansabet"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Adept
+  date: ~2021
+  round: Early
+location: Boston, MA
+name: Bijan Sabet
+role: Co-Founder & Partner Emeritus
+sector_focus:
+- consumer
+- social
+- marketplaces
+- enterprise
+- autonomous-vehicles
+- gaming
+slug: bijan-sabet
+social:
+  linkedin: linkedin.com/in/bijansabet
+  twitter: '@bfrmorrison'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-Founder of Spark Capital ($4B AUM), Boston-based early consumer internet
+  investor with exits at WebTV (Microsoft $425M), Grand Central (Citrix). Portfolio
+  emphasizes product-first founders and extraordinary founders. U.S. Ambassador to
+  Czech Republic (2022-2025). Spark led deals across marketplaces, social, enterprise.
+  Checks $1M-$15M at seed/Series A. Forbes Midas 2011-2017.
+type: individual
 ---
 
 ## Background

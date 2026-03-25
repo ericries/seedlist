@@ -1,23 +1,37 @@
 ---
-name: "Gokul Rajaram"
-slug: gokul-rajaram
-type: individual
+check_size: $25K-$1M (angel); fund investments larger via Marathon
 firm: marathon-management-partners
-role: "Founding Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a, series-b]
-sector_focus: [ai, fintech, enterprise-saas, developer-tools, consumer-internet, climatetech, marketplaces]
-check_size: "$25K-$1M (angel); fund investments larger via Marathon"
-last_verified_investment:
-  date: 2026-02-19
-  company: "Mirai"
-  round: "Seed"
-social:
-  twitter: "@gokulr"
-  linkedin: "linkedin.com/in/gokulrajaram1"
-status: published
 last_researched: 2026-03-20
-tldr: "Marathon co-founder and prolific angel ($25K-$1M per check, 300+ investments) focusing on founders with product execution and go-to-market savvy. Former Google AdSense director and exec at Block, Meta, Pinterest, DoorDash; backs developer tools, SaaS, and fintech."
+last_verified_investment:
+  company: Mirai
+  date: 2026-02-19
+  round: Seed
+location: San Francisco, CA
+name: Gokul Rajaram
+role: Founding Partner
+sector_focus:
+- ai
+- fintech
+- saas
+- developer-tools
+- consumer-internet
+- climatetech
+- marketplaces
+slug: gokul-rajaram
+social:
+  linkedin: linkedin.com/in/gokulrajaram1
+  twitter: '@gokulr'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+status: published
+tldr: Marathon co-founder and prolific angel ($25K-$1M per check, 300+ investments)
+  focusing on founders with product execution and go-to-market savvy. Former Google
+  AdSense director and exec at Block, Meta, Pinterest, DoorDash; backs developer tools,
+  SaaS, and fintech.
+type: individual
 ---
 
 ## Background

@@ -1,22 +1,32 @@
 ---
-name: "Joseph Ruscio"
-slug: joseph-ruscio
-type: individual
+check_size: $100K-$5M
 firm: heavybit
-role: "General Partner"
-location: "Portland, OR"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [developer-tools, cloud-infrastructure, enterprise-software, open-source, ai]
-check_size: "$100K-$5M"
-last_verified_investment:
-  date: 2025-10
-  company: "Reo.Dev"
-  round: "Seed"
-social:
-  linkedin: "linkedin.com/in/josephruscio"
-status: published
 last_researched: 2026-03-20
-tldr: "Heavybit partner investing $100K-$5M in pre-seed/seed developer-tools and infrastructure. Librato founder/CTO (acquired by SolarWinds for $40M); brings 20+ years of distributed systems and API-first go-to-market expertise."
+last_verified_investment:
+  company: Reo.Dev
+  date: 2025-10
+  round: Seed
+location: Portland, OR
+name: Joseph Ruscio
+role: General Partner
+sector_focus:
+- developer-tools
+- cloud-infrastructure
+- enterprise
+- open-source
+- ai
+slug: joseph-ruscio
+social:
+  linkedin: linkedin.com/in/josephruscio
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Heavybit partner investing $100K-$5M in pre-seed/seed developer-tools and infrastructure.
+  Librato founder/CTO (acquired by SolarWinds for $40M); brings 20+ years of distributed
+  systems and API-first go-to-market expertise.
+type: individual
 ---
 
 ## Background

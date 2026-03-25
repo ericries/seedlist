@@ -1,28 +1,41 @@
 ---
-name: "Breyer Capital"
-slug: breyer-capital
-type: firm
-website: "https://breyercapital.com"
-location: "Austin, TX"
 founded: 2006
-fund_size: "Not publicly disclosed"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, healthcare, fintech, consumer, enterprise, media, gaming, climate, defense-tech]
-team:
-  - slug: jim-breyer
-    role: "Founder & CEO"
-    name: "Jim Breyer"
-  - slug: daniel-breyer
-    role: "Partner"
-    name: "Daniel Breyer"
-  - slug: ted-breyer
-    role: "Partner"
-    name: "Ted Breyer"
-  - slug: morgan-cheatham
-    role: "Partner, Head of Healthcare & Life Sciences"
-    name: "Morgan Cheatham"
-status: published
+fund_size: Not publicly disclosed
 last_researched: 2026-03-24
+location: Austin, TX
+name: Breyer Capital
+sector_focus:
+- ai
+- healthcare
+- fintech
+- consumer
+- enterprise
+- media
+- gaming
+- climate
+- defense
+slug: breyer-capital
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Jim Breyer
+  role: Founder & CEO
+  slug: jim-breyer
+- name: Daniel Breyer
+  role: Partner
+  slug: daniel-breyer
+- name: Ted Breyer
+  role: Partner
+  slug: ted-breyer
+- name: Morgan Cheatham
+  role: Partner, Head of Healthcare & Life Sciences
+  slug: morgan-cheatham
+type: firm
+website: https://breyercapital.com
 ---
 
 ## About

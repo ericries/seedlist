@@ -1,19 +1,28 @@
 ---
-name: "Banana Capital"
-slug: banana-capital
-type: firm
-website: "https://www.bananacapital.vc"
-location: "Ann Arbor, MI"
 founded: 2021
-fund_size: "$10M (Fund I, 2021); $20M (Fund II, 2022); Fund III (2024, size undisclosed)"
-stage_focus: [pre-seed, seed]
-sector_focus: [consumer, developer-tools, fintech, gaming, media, health, b2b-software]
-team:
-  - slug: turner-novak
-    role: "Founder & Managing Partner"
-    name: "Turner Novak"
-status: published
+fund_size: $10M (Fund I, 2021); $20M (Fund II, 2022); Fund III (2024, size undisclosed)
 last_researched: 2026-03-20
+location: Ann Arbor, MI
+name: Banana Capital
+sector_focus:
+- consumer
+- developer-tools
+- fintech
+- gaming
+- media
+- healthcare
+- b2b-software
+slug: banana-capital
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Turner Novak
+  role: Founder & Managing Partner
+  slug: turner-novak
+type: firm
+website: https://www.bananacapital.vc
 ---
 
 ## About

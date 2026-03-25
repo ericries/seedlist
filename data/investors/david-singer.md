@@ -11,9 +11,7 @@ name: David Singer
 role: Managing Partner
 sector_focus:
 - healthcare
-- health-tech
-- digital-health
-- enterprise-software
+- enterprise
 - ai
 - e-commerce
 slug: david-singer

@@ -16,7 +16,7 @@ sector_focus:
 - media
 - developer-tools
 - saas
-- health
+- healthcare
 slug: turner-novak
 social:
   linkedin: linkedin.com/in/turnernovak

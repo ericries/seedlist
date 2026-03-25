@@ -71,7 +71,7 @@ last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health
 sector:
-- healthtech
+- healthcare
 - insurance
 - data-science
 slug: clover-health

@@ -1,22 +1,37 @@
 ---
-name: "Sonja Hoel Perkins"
-slug: sonja-hoel-perkins
-tldr: "35+ year venture veteran; founder of The Perkins Fund (2016) and co-founder of Broadway Angels (2010). Former Menlo Ventures GP (22 years, youngest at 29, 6x Investor of Year). Early identifier of McAfee ($20M→IPO), generating substantial returns. Invests $250K-$2M at seed/Series A. Portfolio focuses on security, consumer, fintech across 60+ career investments. Distinctive for backing women founders and overlooked markets (women's fashion); founder of Project Glimmer nonprofit (700K+ girls reached)."
-type: individual
+check_size: $250K-$2M
 firm: broadway-angels
-role: "Founder & Managing Director"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, growth]
-sector_focus: [enterprise-software, consumer, security, fintech, health, sustainability]
-check_size: "$250K-$2M"
-last_verified_investment:
-  date: 2021
-  company: "Interos"
-  round: "Post-Series C"
-social:
-  linkedin: "linkedin.com/in/sonjahoelperkins"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Interos
+  date: 2021
+  round: Post-Series C
+location: San Francisco, CA
+name: Sonja Hoel Perkins
+role: Founder & Managing Director
+sector_focus:
+- enterprise
+- consumer
+- cybersecurity
+- fintech
+- healthcare
+- sustainability
+slug: sonja-hoel-perkins
+social:
+  linkedin: linkedin.com/in/sonjahoelperkins
+stage_focus:
+- seed
+- series-a
+- growth
+status: published
+tldr: 35+ year venture veteran; founder of The Perkins Fund (2016) and co-founder
+  of Broadway Angels (2010). Former Menlo Ventures GP (22 years, youngest at 29, 6x
+  Investor of Year). Early identifier of McAfee ($20M→IPO), generating substantial
+  returns. Invests $250K-$2M at seed/Series A. Portfolio focuses on security, consumer,
+  fintech across 60+ career investments. Distinctive for backing women founders and
+  overlooked markets (women's fashion); founder of Project Glimmer nonprofit (700K+
+  girls reached).
+type: individual
 ---
 
 ## Background

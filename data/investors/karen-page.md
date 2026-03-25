@@ -1,23 +1,36 @@
 ---
-name: "Karen Page"
-slug: karen-page
-type: individual
+check_size: $25M-$60M
 firm: b-capital-group
-role: "General Partner and Board Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a, series-b, series-c, growth]
-sector_focus: [enterprise-saas, healthtech, fintech, climate-tech, supply-chain]
-check_size: "$25M-$60M"
-last_verified_investment:
-  date: 2024-01-29
-  company: "Isaac Health"
-  round: "Seed"
-social:
-  twitter: "@karenappleton"
-  linkedin: "linkedin.com/in/karenappletonpage"
-status: published
 last_researched: 2026-03-16
-tldr: "B Capital GP and board partner investing $25M-$60M in enterprise SaaS, healthtech, fintech, and climate tech. Box founding executive (7th employee) with go-to-market expertise; led enterprise GTM at Apple."
+last_verified_investment:
+  company: Isaac Health
+  date: 2024-01-29
+  round: Seed
+location: San Francisco, CA
+name: Karen Page
+role: General Partner and Board Partner
+sector_focus:
+- saas
+- healthcare
+- fintech
+- climate
+- supply-chain
+slug: karen-page
+social:
+  linkedin: linkedin.com/in/karenappletonpage
+  twitter: '@karenappleton'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+- series-c
+- growth
+status: published
+tldr: B Capital GP and board partner investing $25M-$60M in enterprise SaaS, healthtech,
+  fintech, and climate tech. Box founding executive (7th employee) with go-to-market
+  expertise; led enterprise GTM at Apple.
+type: individual
 ---
 
 ## Background

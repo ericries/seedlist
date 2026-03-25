@@ -1,22 +1,28 @@
 ---
-name: "Mike Fey"
-slug: mike-fey
-type: individual
+check_size: $5K-$50K
 firm: island
-role: "Co-Founder & CEO"
-location: "Southlake, TX"
-stage_focus: [seed, series-a]
-sector_focus: [cybersecurity, enterprise-security, data-security]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2024-01-31
-  company: "Oasis Security"
-  round: "Series A"
-social:
-  linkedin: "linkedin.com/in/michaelfey"
-status: published
 last_researched: 2026-03-22
-tldr: "Island CEO and ex-McAfee/Symantec operator backing Israeli cybersecurity startups as angel. Focuses exclusively on enterprise security with 100% Israeli founder concentration; three major exits (Demisto, Axis, Bionic) acquired at $350M+."
+last_verified_investment:
+  company: Oasis Security
+  date: 2024-01-31
+  round: Series A
+location: Southlake, TX
+name: Mike Fey
+role: Co-Founder & CEO
+sector_focus:
+- cybersecurity
+- data-security
+slug: mike-fey
+social:
+  linkedin: linkedin.com/in/michaelfey
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Island CEO and ex-McAfee/Symantec operator backing Israeli cybersecurity startups
+  as angel. Focuses exclusively on enterprise security with 100% Israeli founder concentration;
+  three major exits (Demisto, Axis, Bionic) acquired at $350M+.
+type: individual
 ---
 
 ## Background

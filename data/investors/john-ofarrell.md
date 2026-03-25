@@ -1,23 +1,33 @@
 ---
-name: "John O'Farrell"
-slug: john-ofarrell
-type: individual
+check_size: $1M-$100M
 firm: andreessen-horowitz
-role: "Advisory Partner (formerly General Partner)"
-location: "Sunnyvale, California"
-stage_focus: [seed, series-a, growth]
-sector_focus: [enterprise, developer-tools, cloud-infrastructure, security, agtech]
-check_size: "$1M-$100M"
-last_verified_investment:
-  date: 2013-01
-  company: "PagerDuty"
-  round: "Series A"
-social:
-  twitter: "@JOHNOFA"
-  linkedin: "linkedin.com/in/john-o-farrell-b7252"
-status: published
 last_researched: 2026-03-24
-tldr: "a16z advisory partner who joined in 2010, investing $1M-$100M in enterprise, developer tools, and cloud infrastructure. Former EVP at Opsware and @Home; negotiated Opsware's $1.65B sale to HP and Silver Spring's $90M Series D."
+last_verified_investment:
+  company: PagerDuty
+  date: 2013-01
+  round: Series A
+location: Sunnyvale, California
+name: John O'Farrell
+role: Advisory Partner (formerly General Partner)
+sector_focus:
+- enterprise
+- developer-tools
+- cloud-infrastructure
+- cybersecurity
+- ag-tech
+slug: john-ofarrell
+social:
+  linkedin: linkedin.com/in/john-o-farrell-b7252
+  twitter: '@JOHNOFA'
+stage_focus:
+- seed
+- series-a
+- growth
+status: published
+tldr: a16z advisory partner who joined in 2010, investing $1M-$100M in enterprise,
+  developer tools, and cloud infrastructure. Former EVP at Opsware and @Home; negotiated
+  Opsware's $1.65B sale to HP and Silver Spring's $90M Series D.
+type: individual
 ---
 
 ## Background

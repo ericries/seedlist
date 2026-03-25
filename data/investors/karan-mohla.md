@@ -1,23 +1,36 @@
 ---
-name: "Karan Mohla"
-slug: karan-mohla
-tldr: "General Partner at B Capital Group leading South/Southeast Asia investments in healthtech, enterprise SaaS, and AI. Checks $5M-$14M for early-stage companies. Decade at Chiratae Ventures backing 30+ companies including FirstCry, HealthifyMe. Brings India + Asia operator context and conviction around emerging market SaaS."
-type: individual
+check_size: $5M–$14M (early-stage lead)
 firm: b-capital-group
-role: "General Partner"
-location: "Singapore / New Delhi, India"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [healthtech, enterprise-saas, edtech, climate-tech, ai-robotics, fintech, ev-mobility]
-check_size: "$5M–$14M (early-stage lead)"
-last_verified_investment:
-  date: 2024-12-13
-  company: "Eureka Robotics"
-  round: "Series A"
-social:
-  twitter: "@KaranMohla"
-  linkedin: "linkedin.com/in/karan-mohla-153998"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Eureka Robotics
+  date: 2024-12-13
+  round: Series A
+location: Singapore / New Delhi, India
+name: Karan Mohla
+role: General Partner
+sector_focus:
+- healthcare
+- saas
+- edtech
+- climate
+- ai-robotics
+- fintech
+- ev-mobility
+slug: karan-mohla
+social:
+  linkedin: linkedin.com/in/karan-mohla-153998
+  twitter: '@KaranMohla'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: General Partner at B Capital Group leading South/Southeast Asia investments
+  in healthtech, enterprise SaaS, and AI. Checks $5M-$14M for early-stage companies.
+  Decade at Chiratae Ventures backing 30+ companies including FirstCry, HealthifyMe.
+  Brings India + Asia operator context and conviction around emerging market SaaS.
+type: individual
 ---
 
 ## Background

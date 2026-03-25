@@ -1,23 +1,35 @@
 ---
-name: "Katelin Holloway"
-slug: katelin-holloway
-type: individual
+check_size: $750K-$4M
 firm: seven-seven-six
-role: "Founding Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [spacetech, climatetech, healthtech, hrtech, consumer, edtech, media-entertainment]
-check_size: "$750K-$4M"
-last_verified_investment:
-  date: 2025-11-05
-  company: "LambdaVision"
-  round: "Seed"
-social:
-  twitter: "@katelin_cramer"
-  linkedin: "linkedin.com/in/katelinholloway"
-status: published
 last_researched: 2026-03-24
-tldr: "776 co-founder and founding partner investing $750K-$4M pre-seed/seed in spacetech, climatetech, and health/HR tech. Reddit SVP of People & Culture; Pixar/Klout veteran; strong focus on operational support and founder culture."
+last_verified_investment:
+  company: LambdaVision
+  date: 2025-11-05
+  round: Seed
+location: San Francisco, CA
+name: Katelin Holloway
+role: Founding Partner
+sector_focus:
+- spacetech
+- climatetech
+- healthcare
+- hr-tech
+- consumer
+- edtech
+- media-entertainment
+slug: katelin-holloway
+social:
+  linkedin: linkedin.com/in/katelinholloway
+  twitter: '@katelin_cramer'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 776 co-founder and founding partner investing $750K-$4M pre-seed/seed in spacetech,
+  climatetech, and health/HR tech. Reddit SVP of People & Culture; Pixar/Klout veteran;
+  strong focus on operational support and founder culture.
+type: individual
 ---
 
 ## Background

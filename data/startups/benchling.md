@@ -99,7 +99,7 @@ name: Benchling
 sector:
 - life-sciences
 - biotech
-- enterprise-saas
+- saas
 slug: benchling
 stage_latest: Series F
 status: published

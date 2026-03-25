@@ -1,37 +1,44 @@
 ---
-name: "BOND"
-slug: bond
-type: firm
-website: "https://www.bondcap.com"
-location: "San Francisco, CA"
 founded: 2019
-fund_size: "$5.75B total across three funds"
-stage_focus: [growth, late-stage]
-sector_focus: [enterprise-saas, consumer, fintech, ai, developer-tools]
-team:
-  - slug: mary-meeker
-    role: "General Partner"
-    name: "Mary Meeker"
-  - slug: mood-rowghani
-    role: "General Partner"
-    name: "Mood Rowghani"
-  - slug: noah-knauf
-    role: "General Partner"
-    name: "Noah Knauf"
-  - slug: juliet-de-baubigny
-    role: "General Partner"
-    name: "Juliet de Baubigny"
-  - slug: daegwon-chae
-    role: "General Partner"
-    name: "Daegwon Chae"
-  - slug: jay-simons
-    role: "General Partner"
-    name: "Jay Simons"
-  - slug: paul-vronsky
-    role: "General Partner"
-    name: "Paul Vronsky"
-status: published
+fund_size: $5.75B total across three funds
 last_researched: 2026-03-20
+location: San Francisco, CA
+name: BOND
+sector_focus:
+- saas
+- consumer
+- fintech
+- ai
+- developer-tools
+slug: bond
+stage_focus:
+- growth
+- late-stage
+status: published
+team:
+- name: Mary Meeker
+  role: General Partner
+  slug: mary-meeker
+- name: Mood Rowghani
+  role: General Partner
+  slug: mood-rowghani
+- name: Noah Knauf
+  role: General Partner
+  slug: noah-knauf
+- name: Juliet de Baubigny
+  role: General Partner
+  slug: juliet-de-baubigny
+- name: Daegwon Chae
+  role: General Partner
+  slug: daegwon-chae
+- name: Jay Simons
+  role: General Partner
+  slug: jay-simons
+- name: Paul Vronsky
+  role: General Partner
+  slug: paul-vronsky
+type: firm
+website: https://www.bondcap.com
 ---
 
 ## About

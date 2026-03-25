@@ -1,23 +1,34 @@
 ---
-name: "Sonali De Rycker"
-slug: sonali-de-rycker
-tldr: "Partner at Accel (London) since 2008, #2 on Forbes Midas List Europe (2019). Invests at Series A/B with $15M-$70M checks across primarily European companies. Portfolio 32% consumer/marketplaces (Avito $2.7B acquisition, Spotify IPO 2018, Letgo, Wallapop, Catawiki), 23% fintech (Monzo, Soldo, Omnea). Pan-European concentration across 8 countries reflects conviction that 'we have all the pieces' in European tech ecosystem. Forbes Midas newcomer 2018; board member Match Group."
-type: individual
+check_size: $15M-$70M
 firm: accel
-role: "Partner"
-location: "London, UK"
-stage_focus: [series-a, series-b]
-sector_focus: [consumer, fintech, software, marketplaces]
-check_size: "$15M-$70M"
-last_verified_investment:
-  date: 2024-10
-  company: "Omnea"
-  round: "Series A"
-social:
-  twitter: "@sonalidr"
-  linkedin: "linkedin.com/in/sonaliderycker"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Omnea
+  date: 2024-10
+  round: Series A
+location: London, UK
+name: Sonali De Rycker
+role: Partner
+sector_focus:
+- consumer
+- fintech
+- enterprise
+- marketplaces
+slug: sonali-de-rycker
+social:
+  linkedin: linkedin.com/in/sonaliderycker
+  twitter: '@sonalidr'
+stage_focus:
+- series-a
+- series-b
+status: published
+tldr: 'Partner at Accel (London) since 2008, #2 on Forbes Midas List Europe (2019).
+  Invests at Series A/B with $15M-$70M checks across primarily European companies.
+  Portfolio 32% consumer/marketplaces (Avito $2.7B acquisition, Spotify IPO 2018,
+  Letgo, Wallapop, Catawiki), 23% fintech (Monzo, Soldo, Omnea). Pan-European concentration
+  across 8 countries reflects conviction that ''we have all the pieces'' in European
+  tech ecosystem. Forbes Midas newcomer 2018; board member Match Group.'
+type: individual
 ---
 
 ## Background

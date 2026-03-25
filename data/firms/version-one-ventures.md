@@ -1,25 +1,36 @@
 ---
-name: "Version One Ventures"
-slug: version-one-ventures
-type: firm
-website: "https://versionone.vc"
-location: "Vancouver, BC, Canada"
 founded: 2012
-fund_size: "$250M+ AUM across six funds; Fund IV ($70M, 2021); Opportunities Fund II ($30M, 2021); Fund III ($45M); Opportunities Fund I (~$20M, 2020); Fund II ($35M, 2014); Fund I ($15M, 2012)"
-stage_focus: [pre-seed, seed]
-sector_focus: [saas, crypto, climate-tech, robotics, fintech, healthcare, deep-tech]
-team:
-  - slug: boris-wertz
-    role: "Founder & General Partner"
-    name: "Boris Wertz"
-  - slug: angela-tran
-    role: "General Partner"
-    name: "Angela Tran"
-  - slug: josh-nussbaum
-    role: "Venture Partner"
-    name: "Josh Nussbaum"
-status: published
+fund_size: $250M+ AUM across six funds; Fund IV ($70M, 2021); Opportunities Fund II
+  ($30M, 2021); Fund III ($45M); Opportunities Fund I (~$20M, 2020); Fund II ($35M,
+  2014); Fund I ($15M, 2012)
 last_researched: 2026-03-23
+location: Vancouver, BC, Canada
+name: Version One Ventures
+sector_focus:
+- saas
+- crypto
+- climate
+- robotics
+- fintech
+- healthcare
+- deep-tech
+slug: version-one-ventures
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Boris Wertz
+  role: Founder & General Partner
+  slug: boris-wertz
+- name: Angela Tran
+  role: General Partner
+  slug: angela-tran
+- name: Josh Nussbaum
+  role: Venture Partner
+  slug: josh-nussbaum
+type: firm
+website: https://versionone.vc
 ---
 
 ## About

@@ -14,7 +14,7 @@ sector_focus:
 - saas
 - ai
 - fintech
-- health
+- healthcare
 - developer-tools
 slug: brett-berson
 social:

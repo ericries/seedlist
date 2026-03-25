@@ -1,34 +1,43 @@
 ---
-name: "Maverick Ventures"
-slug: maverick-ventures
-type: firm
-website: "https://www.maverickventures.com"
-location: "San Francisco, CA"
 founded: 2015
-fund_size: "$855M total raised; $1.4B AUM; fourth vintage of $240M (2025)"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [healthcare, digital-health, ai, enterprise, consumer, fintech, quantum]
-team:
-  - slug: lee-ainslie
-    role: "Founder"
-    name: "Lee Ainslie"
-  - slug: david-singer
-    role: "Managing Partner"
-    name: "David Singer"
-  - slug: ambar-bhattacharyya
-    role: "Managing Partner"
-    name: "Ambar Bhattacharyya"
-  - slug: prateesh-maheshwari
-    role: "Managing Partner"
-    name: "Prateesh Maheshwari"
-  - slug: lexi-henkel
-    role: "Managing Director"
-    name: "Lexi Henkel"
-  - slug: ryan-isono
-    role: "Managing Director"
-    name: "Ryan Isono"
-status: published
+fund_size: $855M total raised; $1.4B AUM; fourth vintage of $240M (2025)
 last_researched: 2026-03-24
+location: San Francisco, CA
+name: Maverick Ventures
+sector_focus:
+- healthcare
+- ai
+- enterprise
+- consumer
+- fintech
+- quantum
+slug: maverick-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+team:
+- name: Lee Ainslie
+  role: Founder
+  slug: lee-ainslie
+- name: David Singer
+  role: Managing Partner
+  slug: david-singer
+- name: Ambar Bhattacharyya
+  role: Managing Partner
+  slug: ambar-bhattacharyya
+- name: Prateesh Maheshwari
+  role: Managing Partner
+  slug: prateesh-maheshwari
+- name: Lexi Henkel
+  role: Managing Director
+  slug: lexi-henkel
+- name: Ryan Isono
+  role: Managing Director
+  slug: ryan-isono
+type: firm
+website: https://www.maverickventures.com
 ---
 
 ## About

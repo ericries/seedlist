@@ -34,7 +34,7 @@ location: San Jose, CA
 name: Zoom Video Communications
 sector:
 - video-communications
-- enterprise-software
+- enterprise
 - saas
 slug: zoom-video-communications
 stage_latest: IPO

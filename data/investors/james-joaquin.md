@@ -1,23 +1,36 @@
 ---
-name: "James Joaquin"
-slug: james-joaquin
-type: individual
+check_size: $5M–$12M
 firm: obvious-ventures
-role: "Co-Founder & Managing Director"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [climate, healthtech, fintech, ai, food, consumer, sustainability]
-check_size: "$5M–$12M"
-last_verified_investment:
-  date: 2025-11-13
-  company: "Obello"
-  round: "Seed/Series A"
-social:
-  twitter: "@jamesjoaquin"
-  linkedin: "linkedin.com/in/jamesjoaquin"
-tldr: "James Joaquin is Co-Founder and Managing Director of Obvious Ventures, a mission-driven VC with $1.3B AUM across five funds. His portfolio skews toward human health (40%) and climate/planetary health (37%), investing at seed and Series A with $5-12M checks. Notable investments include Beyond Meat, Diamond Foundry, Recursion Pharmaceuticals, and Incredible Health."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Obello
+  date: 2025-11-13
+  round: Seed/Series A
+location: San Francisco, CA
+name: James Joaquin
+role: Co-Founder & Managing Director
+sector_focus:
+- climate
+- healthcare
+- fintech
+- ai
+- food
+- consumer
+- sustainability
+slug: james-joaquin
+social:
+  linkedin: linkedin.com/in/jamesjoaquin
+  twitter: '@jamesjoaquin'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: James Joaquin is Co-Founder and Managing Director of Obvious Ventures, a mission-driven
+  VC with $1.3B AUM across five funds. His portfolio skews toward human health (40%)
+  and climate/planetary health (37%), investing at seed and Series A with $5-12M checks.
+  Notable investments include Beyond Meat, Diamond Foundry, Recursion Pharmaceuticals,
+  and Incredible Health.
+type: individual
 ---
 
 ## Background

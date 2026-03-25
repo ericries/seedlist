@@ -13,7 +13,7 @@ sector_focus:
 - consumer
 - media
 - fintech
-- health
+- healthcare
 - energy-transition
 - ai
 - gaming

@@ -11,7 +11,7 @@ name: Karim Atiyeh
 role: Co-Founder & CTO
 sector_focus:
 - fintech
-- enterprise-software
+- enterprise
 - ai
 - data-infrastructure
 - logistics

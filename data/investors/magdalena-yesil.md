@@ -1,23 +1,33 @@
 ---
-name: "Magdalena Yesil"
-slug: magdalena-yesil
-tldr: "Angel investor and Broadway Angels founder with deep SaaS expertise, pioneering investor in Salesforce. Portfolio spans SaaS (31%), fintech/payments (19%), and consumer internet (19%), with notable exits including Zuora, Smartsheet, and multiple acquisitions. Known for active board participation and women-focused venture investing."
-type: individual
+check_size: Angel
 firm: broadway-angels
-role: "Founder"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [saas, fintech, e-commerce, enterprise-software, consumer-internet]
-check_size: "Angel"
-last_verified_investment:
-  date: 2021-06-24
-  company: "PicsArt"
-  round: "Board appointment"
-social:
-  twitter: "@magdalenayesil"
-  linkedin: "linkedin.com/in/magdalena-yesil"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: PicsArt
+  date: 2021-06-24
+  round: Board appointment
+location: San Francisco, CA
+name: Magdalena Yesil
+role: Founder
+sector_focus:
+- saas
+- fintech
+- e-commerce
+- enterprise
+- consumer-internet
+slug: magdalena-yesil
+social:
+  linkedin: linkedin.com/in/magdalena-yesil
+  twitter: '@magdalenayesil'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Angel investor and Broadway Angels founder with deep SaaS expertise, pioneering
+  investor in Salesforce. Portfolio spans SaaS (31%), fintech/payments (19%), and
+  consumer internet (19%), with notable exits including Zuora, Smartsheet, and multiple
+  acquisitions. Known for active board participation and women-focused venture investing.
+type: individual
 ---
 
 ## Background

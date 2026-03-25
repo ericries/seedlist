@@ -1,23 +1,31 @@
 ---
-name: "Sami Inkinen"
-slug: sami-inkinen
-tldr: "Co-founder of Trulia (acquired by Zillow for $2.5B) and CEO of Virta Health ($2B valuation), now angel investor focused exclusively on health and wellness startups. Invests at seed stage with personal conviction in mission-driven founders who 'unquestionably fall in love' with tackling major health problems—100% of verified 9 investments are in healthtech despite reporting activity level that suggests broader portfolio."
-type: individual
+check_size: Undisclosed
 firm: obvious-ventures
-role: "Venture Partner; Angel Investor"
-location: "Denver, CO"
-stage_focus: [seed]
-sector_focus: [digital-health, healthtech, wellness, metabolic-health]
-check_size: "Undisclosed"
-last_verified_investment:
-  date: 2020-05-21
-  company: "Bicycle Health"
-  round: "Seed"
-social:
-  twitter: "@samiinkinen"
-  linkedin: "linkedin.com/in/samiinkinen"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Bicycle Health
+  date: 2020-05-21
+  round: Seed
+location: Denver, CO
+name: Sami Inkinen
+role: Venture Partner; Angel Investor
+sector_focus:
+- healthcare
+- wellness
+- metabolic-health
+slug: sami-inkinen
+social:
+  linkedin: linkedin.com/in/samiinkinen
+  twitter: '@samiinkinen'
+stage_focus:
+- seed
+status: published
+tldr: Co-founder of Trulia (acquired by Zillow for $2.5B) and CEO of Virta Health
+  ($2B valuation), now angel investor focused exclusively on health and wellness startups.
+  Invests at seed stage with personal conviction in mission-driven founders who 'unquestionably
+  fall in love' with tackling major health problems—100% of verified 9 investments
+  are in healthtech despite reporting activity level that suggests broader portfolio.
+type: individual
 ---
 
 ## Background

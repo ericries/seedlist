@@ -3,9 +3,9 @@ check_size: $50K-$250M+
 firm: arch-venture-partners
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Hua Medicine (2552:HK)
-  date: ~2552
-  round: Early stage
+  company: Xaira Therapeutics
+  date: 2024
+  round: Co-founder / Series A
 location: Seattle, WA / Rocky Mountains
 name: Robert "Bob" Nelsen
 role: Co-Founder & Managing Director
@@ -120,7 +120,7 @@ Note: Some companies span multiple categories. Percentages based on primary clas
 | Altos Labs | 2022 | Co-founder | [^1][^27] |
 | Insitro | ~2018 | Early stage | [^1][^19] |
 | Prime Medicine (PRME) | ~2021 | Early stage | [^1] |
-| Hua Medicine (2552:HK) | ~2017 | Early stage | [^1][^5] |
+| Hua Medicine | ~2017 | Early stage | [^1][^5] |
 | Maze Therapeutics | ~2019 | Early stage | [^1][^19] |
 | Seaport Therapeutics | 2024 | Series A | [^1][^28] |
 | Xaira Therapeutics | 2024 | Co-founder / Series A | [^1][^12] |

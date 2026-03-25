@@ -1,23 +1,34 @@
 ---
-name: "Ram Parameswaran"
-slug: ram-parameswaran
-type: individual
+check_size: Institutional (hedge fund)
 firm: octahedron-capital
-role: "Founder & Managing Partner"
-location: "Burlingame, CA"
-stage_focus: [growth, late-stage, public-equity]
-sector_focus: [internet, fintech, e-commerce, software, semiconductors]
-check_size: "Institutional (hedge fund)"
-social:
-  twitter: "@_ram_"
-  linkedin: "linkedin.com/in/octahedroncap"
-last_verified_investment:
-  date: 2025-12-31
-  company: "Nu Holdings (NU)"
-  round: "Public equity (Q4 2025 13F)"
-status: published
 last_researched: 2026-03-18
-tldr: "Octahedron Capital founder and crossover investor backing global internet-economy platforms via public and private markets. Deep emerging-market expertise with focus on Latin America, Asia, and China; portfolio skews toward e-commerce, fintech, and semiconductors; targets 30% IRR with high hit rate over home runs."
+last_verified_investment:
+  company: Nu Holdings (NU)
+  date: 2025-12-31
+  round: Public equity (Q4 2025 13F)
+location: Burlingame, CA
+name: Ram Parameswaran
+role: Founder & Managing Partner
+sector_focus:
+- internet
+- fintech
+- e-commerce
+- enterprise
+- semiconductors
+slug: ram-parameswaran
+social:
+  linkedin: linkedin.com/in/octahedroncap
+  twitter: '@_ram_'
+stage_focus:
+- growth
+- late-stage
+- public-equity
+status: published
+tldr: Octahedron Capital founder and crossover investor backing global internet-economy
+  platforms via public and private markets. Deep emerging-market expertise with focus
+  on Latin America, Asia, and China; portfolio skews toward e-commerce, fintech, and
+  semiconductors; targets 30% IRR with high hit rate over home runs.
+type: individual
 ---
 
 ## Background

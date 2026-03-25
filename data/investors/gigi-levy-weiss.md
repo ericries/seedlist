@@ -1,23 +1,34 @@
 ---
-name: "Gigi Levy-Weiss"
-slug: gigi-levy-weiss
-type: individual
+check_size: $500K-$5M
 firm: nfx
-role: "Co-Founder & General Partner"
-location: "Rishpon, Israel"
-stage_focus: [pre-seed, seed]
-sector_focus: [gaming, marketplaces, ai, fintech, biotech, defense-tech, crypto]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2025
-  company: "Line 5"
-  round: "Seed"
-social:
-  twitter: "@GigiLevy"
-  linkedin: "linkedin.com/in/gigilevy"
-status: published
 last_researched: 2026-03-22
-tldr: "NFX co-founder and GP investing $500K-$5M seed in gaming, marketplaces, and AI from Israel HQ. Former Playtika co-founder and 888 Holdings CEO; 64% of portfolio Israeli-founded; emphasizes founder speed, data obsession, and network-effects thesis."
+last_verified_investment:
+  company: Line 5
+  date: 2025
+  round: Seed
+location: Rishpon, Israel
+name: Gigi Levy-Weiss
+role: Co-Founder & General Partner
+sector_focus:
+- gaming
+- marketplaces
+- ai
+- fintech
+- biotech
+- defense
+- crypto
+slug: gigi-levy-weiss
+social:
+  linkedin: linkedin.com/in/gigilevy
+  twitter: '@GigiLevy'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: NFX co-founder and GP investing $500K-$5M seed in gaming, marketplaces, and
+  AI from Israel HQ. Former Playtika co-founder and 888 Holdings CEO; 64% of portfolio
+  Israeli-founded; emphasizes founder speed, data obsession, and network-effects thesis.
+type: individual
 ---
 
 ## Background

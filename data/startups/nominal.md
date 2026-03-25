@@ -28,7 +28,7 @@ last_researched: 2026-03-24
 location: Austin, Texas
 name: Nominal
 sector:
-- defense-tech
+- defense
 - hardware
 - data-infrastructure
 - ai

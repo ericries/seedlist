@@ -1,23 +1,34 @@
 ---
-name: "Jennifer Fonstad"
-slug: jennifer-fonstad
-type: individual
+check_size: $50K-$200K
 firm: owl-capital
-role: "Co-Founder & Managing Partner"
-location: "Menlo Park, California"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [enterprise-software, digital-health, fintech, cleantech, cybersecurity]
-check_size: "$50K-$200K"
-last_verified_investment:
-  date: 2023-09-18
-  company: "Preczn"
-  round: "Seed"
-social:
-  twitter: "@jfonstad"
-  linkedin: "linkedin.com/in/jennifer-scott-fonstad-61550850"
-status: published
 last_researched: 2026-03-18
-tldr: "Owl Capital co-founder ($500M+ lifetime AUM) investing $50K-$200K pre-seed/seed in diverse founding teams. 30+ year VC veteran; former DFJ Managing Director and Aspect Ventures co-founder; emphasizes long-term company building and founder diversity over markets."
+last_verified_investment:
+  company: Preczn
+  date: 2023-09-18
+  round: Seed
+location: Menlo Park, California
+name: Jennifer Fonstad
+role: Co-Founder & Managing Partner
+sector_focus:
+- enterprise
+- healthcare
+- fintech
+- climate
+- cybersecurity
+slug: jennifer-fonstad
+social:
+  linkedin: linkedin.com/in/jennifer-scott-fonstad-61550850
+  twitter: '@jfonstad'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Owl Capital co-founder ($500M+ lifetime AUM) investing $50K-$200K pre-seed/seed
+  in diverse founding teams. 30+ year VC veteran; former DFJ Managing Director and
+  Aspect Ventures co-founder; emphasizes long-term company building and founder diversity
+  over markets.
+type: individual
 ---
 
 ## Background

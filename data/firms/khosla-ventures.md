@@ -1,31 +1,44 @@
 ---
-name: "Khosla Ventures"
-slug: khosla-ventures
-type: firm
-website: "https://www.khoslaventures.com"
-location: "Menlo Park, CA"
 founded: 2004
-fund_size: "$1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund, 2023); seeking $3.5B across three funds (2025)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai-ml, sustainability, enterprise, digital-health, biotech, fintech, frontier-tech, cleantech]
-team:
-  - slug: vinod-khosla
-    role: "Founder & Managing Director"
-    name: "Vinod Khosla"
-  - slug: david-weiden
-    role: "Founding Partner & Managing Director"
-    name: "David Weiden"
-  - slug: samir-kaul
-    role: "Founding Partner & Managing Director"
-    name: "Samir Kaul"
-  - slug: sven-strohband
-    role: "Managing Director & CTO"
-    name: "Sven Strohband"
-  - slug: keith-rabois
-    role: "Managing Director"
-    name: "Keith Rabois"
-status: published
+fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund, 2023);
+  seeking $3.5B across three funds (2025)
 last_researched: 2026-03-13
+location: Menlo Park, CA
+name: Khosla Ventures
+sector_focus:
+- ai-ml
+- sustainability
+- enterprise
+- healthcare
+- biotech
+- fintech
+- frontier-tech
+- climate
+slug: khosla-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Vinod Khosla
+  role: Founder & Managing Director
+  slug: vinod-khosla
+- name: David Weiden
+  role: Founding Partner & Managing Director
+  slug: david-weiden
+- name: Samir Kaul
+  role: Founding Partner & Managing Director
+  slug: samir-kaul
+- name: Sven Strohband
+  role: Managing Director & CTO
+  slug: sven-strohband
+- name: Keith Rabois
+  role: Managing Director
+  slug: keith-rabois
+type: firm
+website: https://www.khoslaventures.com
 ---
 
 ## About

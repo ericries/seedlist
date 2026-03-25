@@ -11,7 +11,7 @@ pending_sources:
   url: https://unshackledvc.substack.com/p/eric-ries-joins-unshackled-as-an
 sector_focus:
 - ai
-- enterprise-saas
+- saas
 - healthcare
 - space
 - fintech

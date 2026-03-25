@@ -6,7 +6,7 @@ last_researched: 2026-03-22
 location: San Francisco, CA
 name: Greenoaks Capital
 sector_focus:
-- enterprise-software
+- enterprise
 - fintech
 - e-commerce
 - cybersecurity

@@ -1,23 +1,34 @@
 ---
-name: "Katherine Boyle"
-slug: katherine-boyle
-type: individual
+check_size: $1M-$50M
 firm: andreessen-horowitz
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [defense-tech, aerospace, manufacturing, public-safety, energy, infrastructure]
-check_size: "$1M-$50M"
-last_verified_investment:
-  date: 2024-07
-  company: "Saronic"
-  round: "Series B"
-social:
-  twitter: "@KTmBoyle"
-  linkedin: "linkedin.com/in/katherine-boyle-4531a67"
-status: published
 last_researched: 2026-03-20
-tldr: "a16z American Dynamism co-founder investing $1M-$50M in seed/Series B defense tech, aerospace, manufacturing, and energy. Former Washington Post reporter and General Catalyst partner; deep government market expertise."
+last_verified_investment:
+  company: Saronic
+  date: 2024-07
+  round: Series B
+location: San Francisco, CA
+name: Katherine Boyle
+role: General Partner
+sector_focus:
+- defense
+- aerospace
+- manufacturing
+- public-safety
+- energy
+- infrastructure
+slug: katherine-boyle
+social:
+  linkedin: linkedin.com/in/katherine-boyle-4531a67
+  twitter: '@KTmBoyle'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: a16z American Dynamism co-founder investing $1M-$50M in seed/Series B defense
+  tech, aerospace, manufacturing, and energy. Former Washington Post reporter and
+  General Catalyst partner; deep government market expertise.
+type: individual
 ---
 
 ## Background

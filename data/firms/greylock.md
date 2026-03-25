@@ -1,55 +1,66 @@
 ---
-name: "Greylock Partners"
-slug: greylock
-type: firm
-website: "https://greylock.com"
-location: "Menlo Park, CA"
 founded: 1965
-fund_size: "$1B (Fund XVII, 2023); $500M (Seed Extension, 2021); $1B (Fund XVI, 2020); $1B (Fund XV, 2016)"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [ai, cybersecurity, enterprise-saas, infrastructure, consumer-internet, fintech, developer-tools]
-team:
-  - slug: asheem-chandna
-    role: "Partner"
-    name: "Asheem Chandna"
-  - slug: david-sze
-    role: "Advisory Partner"
-    name: "David Sze"
-  - slug: reid-hoffman
-    role: "Partner"
-    name: "Reid Hoffman"
-  - slug: saam-motamedi
-    role: "Partner"
-    name: "Saam Motamedi"
-  - slug: jerry-chen
-    role: "Partner"
-    name: "Jerry Chen"
-  - slug: seth-rosenberg
-    role: "Partner"
-    name: "Seth Rosenberg"
-  - slug: mike-duboe
-    role: "Partner"
-    name: "Mike Duboe"
-  - slug: corinne-riley
-    role: "Partner"
-    name: "Corinne Riley"
-  - slug: mor-chen
-    role: "Partner"
-    name: "Mor Chen"
-  - slug: shreya-shekhar
-    role: "Partner"
-    name: "Shreya Shekhar"
-  - slug: christine-kim
-    role: "Partner"
-    name: "Christine Kim"
-  - slug: sophia-luo
-    role: "Partner"
-    name: "Sophia Luo"
-  - slug: jason-risch
-    role: "Partner"
-    name: "Jason Risch"
-status: published
+fund_size: $1B (Fund XVII, 2023); $500M (Seed Extension, 2021); $1B (Fund XVI, 2020);
+  $1B (Fund XV, 2016)
 last_researched: 2026-03-13
+location: Menlo Park, CA
+name: Greylock Partners
+sector_focus:
+- ai
+- cybersecurity
+- saas
+- infrastructure
+- consumer-internet
+- fintech
+- developer-tools
+slug: greylock
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Asheem Chandna
+  role: Partner
+  slug: asheem-chandna
+- name: David Sze
+  role: Advisory Partner
+  slug: david-sze
+- name: Reid Hoffman
+  role: Partner
+  slug: reid-hoffman
+- name: Saam Motamedi
+  role: Partner
+  slug: saam-motamedi
+- name: Jerry Chen
+  role: Partner
+  slug: jerry-chen
+- name: Seth Rosenberg
+  role: Partner
+  slug: seth-rosenberg
+- name: Mike Duboe
+  role: Partner
+  slug: mike-duboe
+- name: Corinne Riley
+  role: Partner
+  slug: corinne-riley
+- name: Mor Chen
+  role: Partner
+  slug: mor-chen
+- name: Shreya Shekhar
+  role: Partner
+  slug: shreya-shekhar
+- name: Christine Kim
+  role: Partner
+  slug: christine-kim
+- name: Sophia Luo
+  role: Partner
+  slug: sophia-luo
+- name: Jason Risch
+  role: Partner
+  slug: jason-risch
+type: firm
+website: https://greylock.com
 ---
 
 ## About

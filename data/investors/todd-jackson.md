@@ -14,7 +14,7 @@ sector_focus:
 - developer-tools
 - saas
 - enterprise
-- health-tech
+- healthcare
 - edtech
 slug: todd-jackson
 social:

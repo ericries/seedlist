@@ -1,23 +1,37 @@
 ---
-name: "Dror Berman"
-slug: dror-berman
-type: individual
+check_size: $1M-$15M
 firm: innovation-endeavors
-role: "Founding Partner"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a]
-sector_focus: [deep-tech, ai, robotics, biotech, climate, computing-infrastructure, supply-chain, agtech]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: "2023"
-  company: "Machina Labs"
-  round: "Series B"
-social:
-  twitter: "@drorberman"
-  linkedin: "linkedin.com/in/drorberman"
-tldr: "Dror Berman is the Founding Partner of Innovation Endeavors, co-founded with Eric Schmidt in 2010. His personal investments lean heavily toward capital-intensive deep tech -- robotics (25%), biotech (20%), and AI (20%) -- rather than pure software. He has a notable Israeli co-founder pattern and a high-conviction follow-on style, tripling down on breakouts like Eikon Therapeutics."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Machina Labs
+  date: '2023'
+  round: Series B
+location: Palo Alto, CA
+name: Dror Berman
+role: Founding Partner
+sector_focus:
+- deep-tech
+- ai
+- robotics
+- biotech
+- climate
+- computing-infrastructure
+- supply-chain
+- ag-tech
+slug: dror-berman
+social:
+  linkedin: linkedin.com/in/drorberman
+  twitter: '@drorberman'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Dror Berman is the Founding Partner of Innovation Endeavors, co-founded with
+  Eric Schmidt in 2010. His personal investments lean heavily toward capital-intensive
+  deep tech -- robotics (25%), biotech (20%), and AI (20%) -- rather than pure software.
+  He has a notable Israeli co-founder pattern and a high-conviction follow-on style,
+  tripling down on breakouts like Eikon Therapeutics.
+type: individual
 ---
 
 ## Background

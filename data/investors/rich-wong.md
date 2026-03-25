@@ -10,14 +10,13 @@ location: San Francisco Bay Area, CA
 name: Rich Wong
 role: Partner
 sector_focus:
-- enterprise-saas
+- saas
 - ai
 - mobile
 - cloud
 - automation
 - consumer-media
 slug: rich-wong
-tldr: "Accel Partner since 2006; SaaS/AI/enterprise investor (Series A-growth). Board: Atlassian, UiPath, Checkr. Ex-Openwave, Covad CMO, P&G/McKinsey. Proponent of 'Prepared Minds' thesis: founders with authentic category understanding. Values team competence in finding non-consensus opportunities. $5M-$100M checks."
 social:
   linkedin: linkedin.com/in/richpwong
   twitter: '@RWong'
@@ -26,6 +25,10 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: 'Accel Partner since 2006; SaaS/AI/enterprise investor (Series A-growth). Board:
+  Atlassian, UiPath, Checkr. Ex-Openwave, Covad CMO, P&G/McKinsey. Proponent of ''Prepared
+  Minds'' thesis: founders with authentic category understanding. Values team competence
+  in finding non-consensus opportunities. $5M-$100M checks.'
 type: individual
 ---
 

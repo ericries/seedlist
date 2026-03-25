@@ -10,10 +10,10 @@ location: Los Angeles, CA
 name: Adrian Fenty
 role: Managing General Partner
 sector_focus:
-- enterprise-saas
+- saas
 - aerospace
 - fintech
-- climate-tech
+- climate
 - healthcare
 - consumer
 slug: adrian-fenty
@@ -24,6 +24,11 @@ stage_focus:
 - pre-seed
 - seed
 status: published
+tldr: Adrian Fenty is a Founding Managing General Partner at MaC Venture Capital,
+  the former Mayor of Washington D.C. turned seed-stage investor. His 48 attributed
+  investments span enterprise SaaS (38%), aerospace/deep tech (17%), and consumer
+  (15%), with $1-3M checks. MaC emphasizes diverse founder backing and has a notable
+  aerospace cluster including Stoke Space and Starfish Space.
 type: individual
 ---
 

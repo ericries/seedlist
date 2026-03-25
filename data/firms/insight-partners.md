@@ -5,10 +5,10 @@ last_researched: 2026-03-20
 location: New York, NY
 name: Insight Partners
 sector_focus:
-- enterprise-saas
+- saas
 - cybersecurity
 - fintech
-- healthtech
+- healthcare
 - infrastructure
 - data-analytics
 slug: insight-partners

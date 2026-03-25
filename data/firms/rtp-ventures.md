@@ -1,43 +1,56 @@
 ---
-name: "RTP Global"
-slug: rtp-ventures
-type: firm
-website: "https://rtp.vc"
-location: "New York, NY"
 founded: 2000
-fund_size: "$1B (Fund IV, 2023); $650M (Fund III, 2020); $200M (Fund II, 2018)"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [ai, saas, fintech, e-commerce, data-analytics, cybersecurity, edtech, climate, healthtech, developer-tools]
-team:
-  - slug: leonid-boguslavsky
-    role: "Partner & Founder"
-    name: "Leonid Boguslavsky"
-  - slug: galina-chifina
-    role: "CEO & Partner"
-    name: "Galina Chifina"
-  - slug: nishit-garg
-    role: "Partner, Asia"
-    name: "Nishit Garg"
-  - slug: thomas-cuvelier
-    role: "Partner, US & Europe"
-    name: "Thomas Cuvelier"
-  - slug: jelmer-de-jong
-    role: "Partner, Europe & CTO"
-    name: "Jelmer De Jong"
-  - slug: julius-schwerin
-    role: "Partner, US"
-    name: "Julius Schwerin"
-  - slug: maria-krajukhina
-    role: "Partner & COO"
-    name: "Maria Krajukhina"
-  - slug: duncan-easterbrook
-    role: "Partner & CFO"
-    name: "Duncan Easterbrook"
-  - slug: yulia-zhukova
-    role: "Partner & General Counsel"
-    name: "Yulia Zhukova"
-status: published
+fund_size: $1B (Fund IV, 2023); $650M (Fund III, 2020); $200M (Fund II, 2018)
 last_researched: 2026-03-25
+location: New York, NY
+name: RTP Global
+sector_focus:
+- ai
+- saas
+- fintech
+- e-commerce
+- data-analytics
+- cybersecurity
+- edtech
+- climate
+- healthcare
+- developer-tools
+slug: rtp-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+team:
+- name: Leonid Boguslavsky
+  role: Partner & Founder
+  slug: leonid-boguslavsky
+- name: Galina Chifina
+  role: CEO & Partner
+  slug: galina-chifina
+- name: Nishit Garg
+  role: Partner, Asia
+  slug: nishit-garg
+- name: Thomas Cuvelier
+  role: Partner, US & Europe
+  slug: thomas-cuvelier
+- name: Jelmer De Jong
+  role: Partner, Europe & CTO
+  slug: jelmer-de-jong
+- name: Julius Schwerin
+  role: Partner, US
+  slug: julius-schwerin
+- name: Maria Krajukhina
+  role: Partner & COO
+  slug: maria-krajukhina
+- name: Duncan Easterbrook
+  role: Partner & CFO
+  slug: duncan-easterbrook
+- name: Yulia Zhukova
+  role: Partner & General Counsel
+  slug: yulia-zhukova
+type: firm
+website: https://rtp.vc
 ---
 
 ## About

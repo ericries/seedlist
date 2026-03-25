@@ -1,25 +1,32 @@
 ---
-name: "Conviction"
-slug: conviction
-type: firm
-website: "https://www.conviction.com"
-location: "San Francisco, CA"
 founded: 2022
-fund_size: "$331M total across 2 funds"
-stage_focus: [seed, series-a]
-sector_focus: [ai, machine-learning, developer-tools, enterprise-software, robotics]
-team:
-  - slug: sarah-guo
-    role: "Founder & General Partner"
-    name: "Sarah Guo"
-  - slug: mike-vernal
-    role: "General Partner"
-    name: "Mike Vernal"
-  - slug: pranav-reddy
-    role: "Team Member"
-    name: "Pranav Reddy"
-status: published
+fund_size: $331M total across 2 funds
 last_researched: 2026-03-20
+location: San Francisco, CA
+name: Conviction
+sector_focus:
+- ai
+- machine-learning
+- developer-tools
+- enterprise
+- robotics
+slug: conviction
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- name: Sarah Guo
+  role: Founder & General Partner
+  slug: sarah-guo
+- name: Mike Vernal
+  role: General Partner
+  slug: mike-vernal
+- name: Pranav Reddy
+  role: Team Member
+  slug: pranav-reddy
+type: firm
+website: https://www.conviction.com
 ---
 
 ## About

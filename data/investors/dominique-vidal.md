@@ -1,22 +1,37 @@
 ---
-name: "Dominique Vidal"
-slug: dominique-vidal
-type: individual
+check_size: $100K-$50M
 firm: index-ventures
-role: "Venture Partner"
-location: "London, United Kingdom"
-stage_focus: [series-a, series-b, series-c, growth]
-sector_focus: [e-commerce, marketplaces, mobility, adtech, fintech, enterprise-software, data]
-check_size: "$100K-$50M"
-last_verified_investment:
-  date: 2020
-  company: "Swile"
-  round: "Series C"
-social:
-  linkedin: "linkedin.com/in/dominique-vidal-7790856"
-tldr: "Dominique Vidal is a Venture Partner at Index Ventures in London, investing primarily in European companies with a strong French-founder concentration. His portfolio reveals a stealth specialization in performance advertising (Criteo, Outbrain, Teads, teemo) alongside e-commerce and mobility marketplaces (BlaBlaCar, ASOS, Squarespace). He was formerly CEO of Kelkoo, acquired by Yahoo."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Swile
+  date: 2020
+  round: Series C
+location: London, United Kingdom
+name: Dominique Vidal
+role: Venture Partner
+sector_focus:
+- e-commerce
+- marketplaces
+- mobility
+- ad-tech
+- fintech
+- enterprise
+- data
+slug: dominique-vidal
+social:
+  linkedin: linkedin.com/in/dominique-vidal-7790856
+stage_focus:
+- series-a
+- series-b
+- series-c
+- growth
+status: published
+tldr: Dominique Vidal is a Venture Partner at Index Ventures in London, investing
+  primarily in European companies with a strong French-founder concentration. His
+  portfolio reveals a stealth specialization in performance advertising (Criteo, Outbrain,
+  Teads, teemo) alongside e-commerce and mobility marketplaces (BlaBlaCar, ASOS, Squarespace).
+  He was formerly CEO of Kelkoo, acquired by Yahoo.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,35 @@
 ---
-name: "Ramtin Naimi"
-slug: ramtin-naimi
-type: individual
+check_size: $100K-$1M
 firm: abstract-ventures
-role: "Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [ai, developer-tools, fintech, crypto-web3, enterprise, deeptech]
-check_size: "$100K-$1M"
-last_verified_investment:
-  date: 2025-11
-  company: "Truffle Security"
-  round: "Series B"
-social:
-  twitter: "@ramtinnaimi"
-  linkedin: "linkedin.com/in/ramtin-n-7b2b5149"
-status: published
 last_researched: 2026-03-21
-tldr: "Abstract Ventures founder and seed-stage specialist backing 500+ companies. Bankrupt-to-billionaire origin story; core skill is helping founders raise Series A; portfolio concentrated in AI (27%) and crypto (20%) despite claimed sector-agnosticism; known for founder-first approach and unparalleled Series A graduation rates."
+last_verified_investment:
+  company: Truffle Security
+  date: 2025-11
+  round: Series B
+location: San Francisco, CA
+name: Ramtin Naimi
+role: Founder & General Partner
+sector_focus:
+- ai
+- developer-tools
+- fintech
+- crypto-web3
+- enterprise
+- deep-tech
+slug: ramtin-naimi
+social:
+  linkedin: linkedin.com/in/ramtin-n-7b2b5149
+  twitter: '@ramtinnaimi'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Abstract Ventures founder and seed-stage specialist backing 500+ companies.
+  Bankrupt-to-billionaire origin story; core skill is helping founders raise Series
+  A; portfolio concentrated in AI (27%) and crypto (20%) despite claimed sector-agnosticism;
+  known for founder-first approach and unparalleled Series A graduation rates.
+type: individual
 ---
 
 ## Background

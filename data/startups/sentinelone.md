@@ -60,7 +60,7 @@ name: SentinelOne
 sector:
 - cybersecurity
 - ai
-- enterprise-software
+- enterprise
 slug: sentinelone
 stage_latest: IPO
 status: published

@@ -1,22 +1,33 @@
 ---
-name: "Matt Cohler"
-slug: matt-cohler
-tldr: "Former Benchmark GP; Facebook VP Product and LinkedIn founder. Seed-Series B investor with 45% consumer/social focus (Instagram, Uber, Tinder, Quora) and 25% enterprise SaaS (Asana, Zendesk, Dropbox). Known for backing network-effect businesses; values clarity of purpose and customer love as investment signal. $2M-$20M checks."
-type: individual
+check_size: $2M-$20M
 firm: benchmark
-role: "General Partner (former)"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [consumer-internet, social, enterprise-saas, marketplaces, cybersecurity]
-check_size: "$2M-$20M"
-last_verified_investment:
-  date: 2017
-  company: "DeepL"
-  round: "Early Stage"
-social:
-  twitter: "@mattcohler"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: DeepL
+  date: 2017
+  round: Early Stage
+location: San Francisco, CA
+name: Matt Cohler
+role: General Partner (former)
+sector_focus:
+- consumer-internet
+- social
+- saas
+- marketplaces
+- cybersecurity
+slug: matt-cohler
+social:
+  twitter: '@mattcohler'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Former Benchmark GP; Facebook VP Product and LinkedIn founder. Seed-Series B
+  investor with 45% consumer/social focus (Instagram, Uber, Tinder, Quora) and 25%
+  enterprise SaaS (Asana, Zendesk, Dropbox). Known for backing network-effect businesses;
+  values clarity of purpose and customer love as investment signal. $2M-$20M checks.
+type: individual
 ---
 
 ## Background

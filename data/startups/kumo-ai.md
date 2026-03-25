@@ -1,17 +1,27 @@
 ---
-name: Kumo.AI
-slug: kumo-ai
-type: startup
-website: https://kumo.ai
-location: Mountain View, CA
+firms:
+- round: Series A
+  slug: sequoia-capital
+  year: 2022
+- round: Series B
+  slug: sequoia-capital
+  year: 2022
+- round: Series A
+  slug: sv-angel
+  year: 2022
+- round: Series B
+  slug: sv-angel
+  year: 2022
+- round: Series A
+  slug: a-capital
+  year: 2022
+- round: Series B
+  slug: a-capital
+  year: 2022
+- round: Series A
+  slug: samsung-next
+  year: 2022
 founded: 2021
-status_company: active
-sector:
-- artificial-intelligence
-- machine-learning
-- enterprise-software
-stage_latest: Series B
-total_raised: $36.5M
 founders:
 - name: Vanja Josifovski
   role: CEO & Co-Founder
@@ -19,34 +29,24 @@ founders:
   role: Co-Founder & Chief Scientist
 - name: Hema Raghavan
   role: Co-Founder & Head of Engineering
-firms:
-- slug: sequoia-capital
-  round: Series A
-  year: 2022
-- slug: sequoia-capital
-  round: Series B
-  year: 2022
-- slug: sv-angel
-  round: Series A
-  year: 2022
-- slug: sv-angel
-  round: Series B
-  year: 2022
-- slug: a-capital
-  round: Series A
-  year: 2022
-- slug: a-capital
-  round: Series B
-  year: 2022
-- slug: samsung-next
-  round: Series A
-  year: 2022
 investors:
-- slug: ron-conway
-  round: Series B
+- round: Series B
+  slug: ron-conway
   year: 2022
-status: published
 last_researched: 2026-03-24
+location: Mountain View, CA
+name: Kumo.AI
+sector:
+- artificial-intelligence
+- machine-learning
+- enterprise
+slug: kumo-ai
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $36.5M
+type: startup
+website: https://kumo.ai
 ---
 
 ## About

@@ -1,19 +1,31 @@
 ---
-name: "TIME Ventures"
-slug: time-ventures
-type: firm
-website: "https://www.crunchbase.com/organization/time-ventures"
-location: "San Francisco, CA"
 founded: 2019
-fund_size: "$200M+ committed to climate alone; total undisclosed"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [climate-tech, energy, ai, enterprise-software, space, quantum-computing, health-tech, sustainability]
-team:
-  - slug: marc-benioff
-    role: "Founder & Owner"
-    name: "Marc Benioff"
-status: published
+fund_size: $200M+ committed to climate alone; total undisclosed
 last_researched: 2026-03-24
+location: San Francisco, CA
+name: TIME Ventures
+sector_focus:
+- climate
+- energy
+- ai
+- enterprise
+- space
+- quantum-computing
+- healthcare
+- sustainability
+slug: time-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Marc Benioff
+  role: Founder & Owner
+  slug: marc-benioff
+type: firm
+website: https://www.crunchbase.com/organization/time-ventures
 ---
 
 ## About

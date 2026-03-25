@@ -11,7 +11,7 @@ name: Yevgeny Dibrov
 role: Co-Founder & CEO
 sector_focus:
 - cybersecurity
-- enterprise-infrastructure
+- infrastructure
 - ai
 - developer-tools
 slug: yevgeny-dibrov

@@ -1,22 +1,30 @@
 ---
-name: "Rick Kimball"
-slug: rick-kimball
-type: individual
+check_size: $10M-$300M
 firm: tcv
-role: "Founding General Partner & Senior Advisor"
-location: "New York, NY"
-stage_focus: [growth]
-sector_focus: [technology, telecommunications, data-infrastructure, enterprise-software]
-check_size: "$10M-$300M"
-last_verified_investment:
-  date: 2014
-  company: "Rent the Runway"
-  round: "Series D"
-social:
-  linkedin: "linkedin.com/in/rick-kimball-9a49629"
-status: published
 last_researched: 2026-03-19
-tldr: "TCV co-founder and 40-year growth-stage investor backing telecom, networking, and enterprise software. Portfolio shifted from 1990s networking infrastructure to 2010s SaaS; leads growth rounds at $3M-$300M scale; views tech markets as 'winners and losers' game demanding disruptive winds."
+last_verified_investment:
+  company: Rent the Runway
+  date: 2014
+  round: Series D
+location: New York, NY
+name: Rick Kimball
+role: Founding General Partner & Senior Advisor
+sector_focus:
+- technology
+- telecommunications
+- data-infrastructure
+- enterprise
+slug: rick-kimball
+social:
+  linkedin: linkedin.com/in/rick-kimball-9a49629
+stage_focus:
+- growth
+status: published
+tldr: TCV co-founder and 40-year growth-stage investor backing telecom, networking,
+  and enterprise software. Portfolio shifted from 1990s networking infrastructure
+  to 2010s SaaS; leads growth rounds at $3M-$300M scale; views tech markets as 'winners
+  and losers' game demanding disruptive winds.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,37 @@
 ---
-name: "Howard Morgan"
-slug: howard-morgan
-tldr: "Co-founder of First Round Capital and Renaissance Technologies pioneer who invests via his 6 P's framework: People, Product/Market, Plans, Profits, Passion, Persistence. Personal angel portfolio spans enterprise SaaS (24%), deep tech/quantum (24%), and consumer internet (19%). Notable co-founder exit: Uber (First Round seed investor). Emphasizes integrity and coachability over technical pedigree."
-type: individual
+check_size: $100K-$500K (personal angel); $250K-$500K (First Round seed)
 firm: first-round-capital
-role: "Co-Founder & Special Advisor"
-location: "New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [enterprise, ai, fintech, deep-tech, saas, quantum-computing, digital-health]
-check_size: "$100K-$500K (personal angel); $250K-$500K (First Round seed)"
-last_verified_investment:
-  date: 2024
-  company: "Lidwave"
-  round: "Seed"
-social:
-  twitter: "@HLMorgan"
-  linkedin: "linkedin.com/in/hlmorgan"
-status: published
 last_researched: 2026-03-14
+last_verified_investment:
+  company: Lidwave
+  date: 2024
+  round: Seed
+location: New York, NY
+name: Howard Morgan
+role: Co-Founder & Special Advisor
+sector_focus:
+- enterprise
+- ai
+- fintech
+- deep-tech
+- saas
+- quantum-computing
+- healthcare
+slug: howard-morgan
+social:
+  linkedin: linkedin.com/in/hlmorgan
+  twitter: '@HLMorgan'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Co-founder of First Round Capital and Renaissance Technologies pioneer who
+  invests via his 6 P''s framework: People, Product/Market, Plans, Profits, Passion,
+  Persistence. Personal angel portfolio spans enterprise SaaS (24%), deep tech/quantum
+  (24%), and consumer internet (19%). Notable co-founder exit: Uber (First Round seed
+  investor). Emphasizes integrity and coachability over technical pedigree.'
+type: individual
 ---
 
 ## Background

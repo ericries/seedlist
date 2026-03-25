@@ -1,22 +1,34 @@
 ---
-name: "Todd Goldberg"
-slug: todd-goldberg
-tldr: "Co-founder of Eventjoy (acquired Ticketmaster), Y Combinator W14 alum. Co-invests with Rahul Vohra through Todd & Rahul Capital (120+ companies, $50M+ deployed). $300K-$500K checks at pre-seed/seed. Portfolio 32% enterprise SaaS (Mercury, Clearbit, WorkOS, Ashby, Coda), 12% each developer tools, consumer (Clubhouse, Descript), fintech, health. LP base 150+ founders. Philosophy: 'Founders want to raise from their peers.' 'Fund size is your strategy."
+check_size: $300K–$500K
 firm: todd-and-rahul-capital
-role: "Co-GP / Angel Investor"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [enterprise-saas, developer-tools, consumer, health-wellness, fintech]
-check_size: "$300K–$500K"
-last_verified_investment:
-  date: 2021
-  company: "Clubhouse"
-  round: "Early"
-social:
-  twitter: "@toddg777"
-  linkedin: "linkedin.com/in/toddgoldberg1"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Clubhouse
+  date: 2021
+  round: Early
+location: San Francisco, CA
+name: Todd Goldberg
+role: Co-GP / Angel Investor
+sector_focus:
+- saas
+- developer-tools
+- consumer
+- health-wellness
+- fintech
+slug: todd-goldberg
+social:
+  linkedin: linkedin.com/in/toddgoldberg1
+  twitter: '@toddg777'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Co-founder of Eventjoy (acquired Ticketmaster), Y Combinator W14 alum. Co-invests
+  with Rahul Vohra through Todd & Rahul Capital (120+ companies, $50M+ deployed).
+  $300K-$500K checks at pre-seed/seed. Portfolio 32% enterprise SaaS (Mercury, Clearbit,
+  WorkOS, Ashby, Coda), 12% each developer tools, consumer (Clubhouse, Descript),
+  fintech, health. LP base 150+ founders. Philosophy: ''Founders want to raise from
+  their peers.'' ''Fund size is your strategy.'
 ---
 
 ## Background

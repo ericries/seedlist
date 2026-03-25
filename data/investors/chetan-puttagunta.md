@@ -10,7 +10,7 @@ location: San Francisco Bay Area, CA
 name: Chetan Puttagunta
 role: General Partner
 sector_focus:
-- enterprise-software
+- enterprise
 - developer-tools
 - open-source
 - ai

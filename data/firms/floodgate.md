@@ -1,28 +1,40 @@
 ---
-name: "Floodgate"
-slug: floodgate
-type: firm
-website: "https://www.floodgate.com"
-location: "Menlo Park, CA"
 founded: 2006
-fund_size: "$500M+ total AUM across 8 funds"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai, enterprise-saas, consumer, marketplaces, fintech, healthcare, edtech, developer-tools, climate, crypto]
-team:
-  - slug: mike-maples
-    role: "Co-Founder & Partner"
-    name: "Mike Maples Jr."
-  - slug: ann-miura-ko
-    role: "Co-Founder & Partner"
-    name: "Ann Miura-Ko"
-  - slug: iris-choi
-    role: "Partner"
-    name: "Iris Choi"
-  - slug: mike-heller
-    role: "Partner"
-    name: "Mike Heller"
-status: published
+fund_size: $500M+ total AUM across 8 funds
 last_researched: 2026-03-13
+location: Menlo Park, CA
+name: Floodgate
+sector_focus:
+- ai
+- saas
+- consumer
+- marketplaces
+- fintech
+- healthcare
+- edtech
+- developer-tools
+- climate
+- crypto
+slug: floodgate
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Mike Maples Jr.
+  role: Co-Founder & Partner
+  slug: mike-maples
+- name: Ann Miura-Ko
+  role: Co-Founder & Partner
+  slug: ann-miura-ko
+- name: Iris Choi
+  role: Partner
+  slug: iris-choi
+- name: Mike Heller
+  role: Partner
+  slug: mike-heller
+type: firm
+website: https://www.floodgate.com
 ---
 
 ## About

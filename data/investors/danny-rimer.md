@@ -1,23 +1,38 @@
 ---
-name: "Danny Rimer"
-slug: danny-rimer
-tldr: "Partner at Index Ventures since 2002, ranked #1 on Forbes Midas List Europe (2025). Portfolio of 24 verified investments skews 33% consumer e-commerce, 21% creator economy, 13% design tools, with seed-stage wins in Figma, Dropbox (IPO), and Etsy (IPO). Known for backing design-obsessed founders and cultural 'phenomena' over market size analysis."
-type: individual
+check_size: $1M-$50M
 firm: index-ventures
-role: "Partner"
-location: "London, United Kingdom"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [consumer, design-tools, e-commerce, creator-economy, fintech, gaming, enterprise-software]
-check_size: "$1M-$50M"
-last_verified_investment:
-  date: 2022-03-01
-  company: "Linktree"
-  round: "Series C"
-social:
-  twitter: "@dannyrimer"
-  linkedin: "https://www.linkedin.com/in/dannyrimer/"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Linktree
+  date: 2022-03-01
+  round: Series C
+location: London, United Kingdom
+name: Danny Rimer
+role: Partner
+sector_focus:
+- consumer
+- design-tools
+- e-commerce
+- creator-economy
+- fintech
+- gaming
+- enterprise
+slug: danny-rimer
+social:
+  linkedin: https://www.linkedin.com/in/dannyrimer/
+  twitter: '@dannyrimer'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Partner at Index Ventures since 2002, ranked #1 on Forbes Midas List Europe
+  (2025). Portfolio of 24 verified investments skews 33% consumer e-commerce, 21%
+  creator economy, 13% design tools, with seed-stage wins in Figma, Dropbox (IPO),
+  and Etsy (IPO). Known for backing design-obsessed founders and cultural ''phenomena''
+  over market size analysis.'
+type: individual
 ---
 
 ## Background

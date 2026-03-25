@@ -1,23 +1,35 @@
 ---
-name: "Bill Gross"
-slug: bill-gross
-tldr: "Founder of Idealab (1996), incubator of 150+ companies with 50+ IPOs. Invented paid-search CPC model (GoTo.com → Overture, Yahoo $1.63B). Now focused on clean energy: Heliogen, Energy Vault, CarbonCapture. Recent: ProRata.ai for AI attribution. Core thesis: timing (42% of success) beats idea. Caltech trustee; passionate about solving 'big, broken' problems. Checks ~$250K per company."
-type: individual
+check_size: $250K (typical Idealab initial investment per company)
 firm: idealab
-role: "Founder & Chairman"
-location: "Pasadena, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [clean-energy, internet, software, robotics, ai, advertising-technology]
-check_size: "$250K (typical Idealab initial investment per company)"
-last_verified_investment:
-  date: 2024
-  company: "ProRata.ai"
-  round: "Founded"
-social:
-  twitter: "@Bill_Gross"
-  linkedin: "linkedin.com/in/billgrossidealab"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: ProRata.ai
+  date: 2024
+  round: Founded
+location: Pasadena, CA
+name: Bill Gross
+role: Founder & Chairman
+sector_focus:
+- climate
+- internet
+- enterprise
+- robotics
+- ai
+- advertising-technology
+slug: bill-gross
+social:
+  linkedin: linkedin.com/in/billgrossidealab
+  twitter: '@Bill_Gross'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Founder of Idealab (1996), incubator of 150+ companies with 50+ IPOs. Invented
+  paid-search CPC model (GoTo.com → Overture, Yahoo $1.63B). Now focused on clean
+  energy: Heliogen, Energy Vault, CarbonCapture. Recent: ProRata.ai for AI attribution.
+  Core thesis: timing (42% of success) beats idea. Caltech trustee; passionate about
+  solving ''big, broken'' problems. Checks ~$250K per company.'
+type: individual
 ---
 
 ## Background

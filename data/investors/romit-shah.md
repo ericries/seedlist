@@ -11,7 +11,7 @@ name: Romit Shah
 role: Founder & Managing General Partner
 sector_focus:
 - semiconductors
-- software
+- enterprise
 - ai
 slug: romit-shah
 social:

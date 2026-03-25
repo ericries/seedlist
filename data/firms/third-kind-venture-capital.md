@@ -1,22 +1,33 @@
 ---
-name: "Third Kind Venture Capital"
-slug: third-kind-venture-capital
-type: firm
-website: "https://3kvc.com"
-location: "New York, NY"
 founded: 2010
-fund_size: "$44.3M (Fund I, 2017); Fund II target $65M (2019)"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [enterprise-software, fintech, consumer, ai, developer-tools, digital-media, biotech, edtech]
-team:
-  - slug: shana-fisher
-    role: "Founder & Managing Partner"
-    name: "Shana Fisher"
-  - slug: alex-binkley
-    role: "Partner & COO"
-    name: "Alex Binkley"
-status: published
+fund_size: $44.3M (Fund I, 2017); Fund II target $65M (2019)
 last_researched: 2026-03-24
+location: New York, NY
+name: Third Kind Venture Capital
+sector_focus:
+- enterprise
+- fintech
+- consumer
+- ai
+- developer-tools
+- digital-media
+- biotech
+- edtech
+slug: third-kind-venture-capital
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Shana Fisher
+  role: Founder & Managing Partner
+  slug: shana-fisher
+- name: Alex Binkley
+  role: Partner & COO
+  slug: alex-binkley
+type: firm
+website: https://3kvc.com
 ---
 
 ## About

@@ -1,23 +1,34 @@
 ---
-name: "John Curtius"
-slug: john-curtius
-tldr: "Founder of Cedar Capital Group focused on Series A/B/C enterprise software and SaaS. Checks $100K-$5M across developer tools, infrastructure, fintech, AI. Miami-based investor; representative of emerging regional VC networks."
-type: individual
+check_size: $100K–$5M
 firm: cedar-capital-group
-role: "Founder & Managing Partner"
-location: "Coral Gables, Florida"
-stage_focus: [series-a, series-b, series-c]
-sector_focus: [enterprise-software, saas, fintech, ai, infrastructure, developer-tools]
-check_size: "$100K–$5M"
-last_verified_investment:
-  date: 2024
-  company: "Pallet"
-  round: "Series A"
-social:
-  twitter: "@JohnCurtius"
-  linkedin: "linkedin.com/in/johncurtius"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Pallet
+  date: 2024
+  round: Series A
+location: Coral Gables, Florida
+name: John Curtius
+role: Founder & Managing Partner
+sector_focus:
+- enterprise
+- saas
+- fintech
+- ai
+- infrastructure
+- developer-tools
+slug: john-curtius
+social:
+  linkedin: linkedin.com/in/johncurtius
+  twitter: '@JohnCurtius'
+stage_focus:
+- series-a
+- series-b
+- series-c
+status: published
+tldr: Founder of Cedar Capital Group focused on Series A/B/C enterprise software and
+  SaaS. Checks $100K-$5M across developer tools, infrastructure, fintech, AI. Miami-based
+  investor; representative of emerging regional VC networks.
+type: individual
 ---
 
 ## Background

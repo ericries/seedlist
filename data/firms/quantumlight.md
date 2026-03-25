@@ -9,7 +9,7 @@ sector_focus:
 - fintech
 - web3
 - saas
-- healthtech
+- healthcare
 slug: quantumlight
 stage_focus:
 - growth

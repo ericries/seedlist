@@ -1,23 +1,33 @@
 ---
-name: "Jessica Livingston"
-slug: jessica-livingston
-type: individual
+check_size: $500K (standard YC deal)
 firm: y-combinator
-role: "Co-Founder"
-location: "Mountain View, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [consumer, enterprise, ai, fintech, developer-tools, health]
-check_size: "$500K (standard YC deal)"
-last_verified_investment:
-  date: 2025-05-06
-  company: "Tesseral"
-  round: "Seed"
-social:
-  twitter: "@jesslivingston"
-  linkedin: "linkedin.com/in/jessicalivingston1"
-status: published
 last_researched: 2026-03-20
-tldr: "Y Combinator co-founder investing $500K per standard YC deal in pre-seed/seed startups. Known as 'the Social Radar' for exceptional founder evaluation; backed 5000+ startups including Airbnb, Stripe, Dropbox, Coinbase."
+last_verified_investment:
+  company: Tesseral
+  date: 2025-05-06
+  round: Seed
+location: Mountain View, CA
+name: Jessica Livingston
+role: Co-Founder
+sector_focus:
+- consumer
+- enterprise
+- ai
+- fintech
+- developer-tools
+- healthcare
+slug: jessica-livingston
+social:
+  linkedin: linkedin.com/in/jessicalivingston1
+  twitter: '@jesslivingston'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Y Combinator co-founder investing $500K per standard YC deal in pre-seed/seed
+  startups. Known as 'the Social Radar' for exceptional founder evaluation; backed
+  5000+ startups including Airbnb, Stripe, Dropbox, Coinbase.
+type: individual
 ---
 
 ## Background

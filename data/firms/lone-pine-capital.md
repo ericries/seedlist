@@ -1,29 +1,49 @@
 ---
-name: "Lone Pine Capital"
-slug: lone-pine-capital
-type: firm
-website: "https://www.lonepinecapital.com"
-location: "Greenwich, Connecticut"
 founded: 1997
-fund_size: "$19B+ AUM (across all strategies); $3.5B dedicated private fund (Lone Redwood)"
-stage_focus: [late-stage, growth, pre-ipo]
-sector_focus: [technology, fintech, consumer, enterprise-software, payments]
-team:
-  - slug: stephen-mandel
-    role: Founder & Managing Director
-  - slug: david-craver
-    role: Co-Chief Investment Officer
-  - slug: kelly-granat
-    role: Co-Chief Investment Officer & Managing Director
-status: published
+fund_size: $19B+ AUM (across all strategies); $3.5B dedicated private fund (Lone Redwood)
 last_researched: 2026-03-24
-research_notes: |
-  Lone Pine Capital is primarily a public equity hedge fund (long/short and long-only strategies)
-  with a meaningful but secondary private/growth equity investing practice. Unlike pure VCs, the
-  firm's ~47-50 private investments represent a small fraction of its overall $19B+ AUM. The firm
-  formalized its private investment approach in 2016 and raised a $3.5B dedicated fund (Lone Redwood)
-  in 2018. Private investments are exclusively late-stage/pre-IPO growth rounds, typically $100M+
-  checks into unicorn-stage companies. This is a crossover hedge fund, not a venture capital firm.
+location: Greenwich, Connecticut
+name: Lone Pine Capital
+research_notes: 'Lone Pine Capital is primarily a public equity hedge fund (long/short
+  and long-only strategies)
+
+  with a meaningful but secondary private/growth equity investing practice. Unlike
+  pure VCs, the
+
+  firm''s ~47-50 private investments represent a small fraction of its overall $19B+
+  AUM. The firm
+
+  formalized its private investment approach in 2016 and raised a $3.5B dedicated
+  fund (Lone Redwood)
+
+  in 2018. Private investments are exclusively late-stage/pre-IPO growth rounds, typically
+  $100M+
+
+  checks into unicorn-stage companies. This is a crossover hedge fund, not a venture
+  capital firm.
+
+  '
+sector_focus:
+- technology
+- fintech
+- consumer
+- enterprise
+- payments
+slug: lone-pine-capital
+stage_focus:
+- late-stage
+- growth
+- pre-ipo
+status: published
+team:
+- role: Founder & Managing Director
+  slug: stephen-mandel
+- role: Co-Chief Investment Officer
+  slug: david-craver
+- role: Co-Chief Investment Officer & Managing Director
+  slug: kelly-granat
+type: firm
+website: https://www.lonepinecapital.com
 ---
 
 ## About

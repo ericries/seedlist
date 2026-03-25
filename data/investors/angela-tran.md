@@ -16,7 +16,7 @@ sector_focus:
 - bio-health
 - ai-ml
 - developer-tools
-- enterprise-saas
+- saas
 slug: angela-tran
 social:
   linkedin: linkedin.com/in/angela-tran-38262131

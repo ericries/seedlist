@@ -14,6 +14,7 @@ last_verified_investment:
   round: ""
 social:
   linkedin: "linkedin.com/in/nathan-urquhart-1a1285"
+tldr: "Nathan Urquhart is the President and Head of Strategy at Coatue Management, responsible for operations, investor relations, and fundraising rather than deal-making. He does not lead individual investments. His career spans 25 years in institutional finance IR at J.P. Morgan, UBS, Och-Ziff, and Carlyle before joining Coatue in 2022."
 status: published
 last_researched: 2026-03-16
 ---

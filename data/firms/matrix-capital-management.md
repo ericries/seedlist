@@ -1,28 +1,46 @@
 ---
-name: "Matrix Capital Management"
-slug: matrix-capital-management
-type: firm
-website: "https://www.linkedin.com/company/matrix-capital-management-llc"
-location: "Waltham, MA"
 founded: 1999
-fund_size: "$11B peak AUM (2024); $57.6M 13F portfolio (Q4 2025, wind-down)"
-stage_focus: []
-sector_focus: [semiconductors, software, ai, life-sciences]
-team:
-  - slug: david-goel
-    role: "Founder & Managing General Partner"
-    name: "David Goel"
-status: flagged
+fund_size: $11B peak AUM (2024); $57.6M 13F portfolio (Q4 2025, wind-down)
 last_researched: 2026-03-24
-review_notes: |
-  Matrix Capital Management is a hedge fund, NOT a venture capital firm. Its primary activities are:
-  (1) long/short public equity investing through the Matrix Capital Management Fund (1999-2024),
-  (2) private equity investing in life sciences through the AyurMaya Capital Management Fund ($655M).
-  The firm managed ~$11 billion at peak, overwhelmingly in public equities (NVIDIA, Netflix, Qualcomm, etc.).
-  AyurMaya made a small number of private biotech/life-sciences investments, but these are late-stage private
-  equity, not early-stage venture capital. The firm announced closure in August 2024 due to David Goel's
+location: Waltham, MA
+name: Matrix Capital Management
+review_notes: 'Matrix Capital Management is a hedge fund, NOT a venture capital firm.
+  Its primary activities are:
+
+  (1) long/short public equity investing through the Matrix Capital Management Fund
+  (1999-2024),
+
+  (2) private equity investing in life sciences through the AyurMaya Capital Management
+  Fund ($655M).
+
+  The firm managed ~$11 billion at peak, overwhelmingly in public equities (NVIDIA,
+  Netflix, Qualcomm, etc.).
+
+  AyurMaya made a small number of private biotech/life-sciences investments, but these
+  are late-stage private
+
+  equity, not early-stage venture capital. The firm announced closure in August 2024
+  due to David Goel''s
+
   health issues. This profile may not belong in a startup investor directory.
+
   NOTE: Do NOT confuse with Matrix Partners (the VC firm also co-founded by Paul Ferri).
+
+  '
+sector_focus:
+- semiconductors
+- enterprise
+- ai
+- life-sciences
+slug: matrix-capital-management
+stage_focus: []
+status: flagged
+team:
+- name: David Goel
+  role: Founder & Managing General Partner
+  slug: david-goel
+type: firm
+website: https://www.linkedin.com/company/matrix-capital-management-llc
 ---
 
 ## About

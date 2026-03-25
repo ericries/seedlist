@@ -1,23 +1,32 @@
 ---
-name: "Josh Buckley"
-slug: josh-buckley
-tldr: "Founder of Buckley Ventures investing seed and Series A. Average check size $300K across enterprise SaaS, developer tools, frontier tech, climate tech. Bootstrapped model with founder-first approach."
-type: individual
+check_size: $300K
 firm: buckley-ventures
-role: "Founder & GP"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [enterprise-saas, developer-tools, frontier-tech, fintech, climate-tech]
-check_size: "$300K"
-last_verified_investment:
-  date: 2024
-  company: "Buckley Ventures Fund IV"
-  round: "Fund Raise"
-social:
-  twitter: "@joshbuckley"
-  linkedin: "linkedin.com/in/josh-buckley-7612284"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Buckley Ventures Fund IV
+  date: 2024
+  round: Fund Raise
+location: San Francisco, CA
+name: Josh Buckley
+role: Founder & GP
+sector_focus:
+- saas
+- developer-tools
+- frontier-tech
+- fintech
+- climate
+slug: josh-buckley
+social:
+  linkedin: linkedin.com/in/josh-buckley-7612284
+  twitter: '@joshbuckley'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Founder of Buckley Ventures investing seed and Series A. Average check size
+  $300K across enterprise SaaS, developer tools, frontier tech, climate tech. Bootstrapped
+  model with founder-first approach.
+type: individual
 ---
 
 ## Background

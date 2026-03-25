@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Zachary Bogue
 role: Co-Founder & Managing Partner
 sector_focus:
-- climate-tech
+- climate
 - deep-tech
 - ai
 - life-sciences

@@ -117,7 +117,7 @@ name: PagerDuty
 sector:
 - devops
 - saas
-- enterprise-software
+- enterprise
 slug: pagerduty
 stage_latest: IPO
 status: published

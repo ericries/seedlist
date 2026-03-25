@@ -1,22 +1,32 @@
 ---
-name: "Tiger Global Management"
-slug: tiger-global-management
-type: firm
-website: "https://www.tigerglobal.com"
-location: "New York, NY"
 founded: 2001
-fund_size: "$46B AUM (2025); PIP 17 fund targeting $2.2B"
-stage_focus: [seed, series-a, series-b, growth, public]
-sector_focus: [software, internet, consumer, fintech, ai, enterprise]
-team:
-  - slug: chase-coleman
-    role: "Founder & Partner"
-    name: "Chase Coleman III"
-  - slug: scott-shleifer
-    role: "Partner (former Head of Private Investments)"
-    name: "Scott Shleifer"
-status: published
+fund_size: $46B AUM (2025); PIP 17 fund targeting $2.2B
 last_researched: 2026-03-20
+location: New York, NY
+name: Tiger Global Management
+sector_focus:
+- enterprise
+- internet
+- consumer
+- fintech
+- ai
+slug: tiger-global-management
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+- public
+status: published
+team:
+- name: Chase Coleman III
+  role: Founder & Partner
+  slug: chase-coleman
+- name: Scott Shleifer
+  role: Partner (former Head of Private Investments)
+  slug: scott-shleifer
+type: firm
+website: https://www.tigerglobal.com
 ---
 
 ## About

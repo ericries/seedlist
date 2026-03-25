@@ -1,23 +1,35 @@
 ---
-name: "Nick Beim"
-slug: nick-beim
-type: individual
+check_size: $500K-$15M
 firm: venrock
-role: "General Partner"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [AI, fintech, wealthtech, defense, enterprise-software]
-check_size: "$500K-$15M"
-last_verified_investment:
-  date: 2025-12
-  company: "FINNY"
-  round: "Series A"
-social:
-  twitter: "@NickBeim"
-  linkedin: "linkedin.com/in/nickbeim/"
-tldr: "Nick Beim is a General Partner at Venrock who invests almost exclusively in fintech/wealthtech (45%) and defense/national security AI (27%), typically leading Series A rounds with $5-12M checks. His portfolio favors domain-expert founders over generalist technologists, with notable investments in Dataminr, Altruist, and Rebellion Defense."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: FINNY
+  date: 2025-12
+  round: Series A
+location: New York, NY
+name: Nick Beim
+role: General Partner
+sector_focus:
+- ai
+- fintech
+- wealthtech
+- defense
+- enterprise
+slug: nick-beim
+social:
+  linkedin: linkedin.com/in/nickbeim/
+  twitter: '@NickBeim'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Nick Beim is a General Partner at Venrock who invests almost exclusively in
+  fintech/wealthtech (45%) and defense/national security AI (27%), typically leading
+  Series A rounds with $5-12M checks. His portfolio favors domain-expert founders
+  over generalist technologists, with notable investments in Dataminr, Altruist, and
+  Rebellion Defense.
+type: individual
 ---
 
 ## Background

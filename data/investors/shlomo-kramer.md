@@ -11,7 +11,7 @@ name: Shlomo Kramer
 role: Angel Investor & CEO, Cato Networks
 sector_focus:
 - cybersecurity
-- enterprise-software
+- enterprise
 - fintech
 - ai
 slug: shlomo-kramer

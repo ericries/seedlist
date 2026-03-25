@@ -1,35 +1,39 @@
 ---
-name: "Brian Ascher"
-slug: brian-ascher
-type: individual
+check_size: $1M–$30M
 firm: venrock
-role: "Partner"
-location: "Menlo Park, CA"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-  - series-b
-sector_focus:
-  - enterprise-software
-  - saas
-  - fintech
-  - ai
-  - analytics
-  - cloud-infrastructure
-  - cybersecurity
-  - developer-tools
-check_size: "$1M–$30M"
-last_verified_investment:
-  date: 2022-02-22
-  company: "Zero Networks"
-  round: "Series A"
-social:
-  twitter: "@VCsurferDAD"
-  linkedin: "linkedin.com/in/brianascher"
-tldr: "Brian Ascher is a Partner at Venrock with 27 years at the firm, focused on enterprise SaaS (44%) and B2B fintech (22%) at seed through Series B. His strongest through-line is applying AI/ML to enterprise workflows, from DATAllegro (2003) to 6sense to Nightfall. Ten of 18 verified investments were acquired by large enterprises including Microsoft, VMware, and LinkedIn."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Zero Networks
+  date: 2022-02-22
+  round: Series A
+location: Menlo Park, CA
+name: Brian Ascher
+role: Partner
+sector_focus:
+- enterprise
+- saas
+- fintech
+- ai
+- analytics
+- cloud-infrastructure
+- cybersecurity
+- developer-tools
+slug: brian-ascher
+social:
+  linkedin: linkedin.com/in/brianascher
+  twitter: '@VCsurferDAD'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+status: published
+tldr: Brian Ascher is a Partner at Venrock with 27 years at the firm, focused on enterprise
+  SaaS (44%) and B2B fintech (22%) at seed through Series B. His strongest through-line
+  is applying AI/ML to enterprise workflows, from DATAllegro (2003) to 6sense to Nightfall.
+  Ten of 18 verified investments were acquired by large enterprises including Microsoft,
+  VMware, and LinkedIn.
+type: individual
 ---
 
 ## Background

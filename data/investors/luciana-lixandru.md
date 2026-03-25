@@ -1,23 +1,35 @@
 ---
-name: "Luciana Lixandru"
-slug: luciana-lixandru
-type: individual
+check_size: $1M-$200M
 firm: sequoia-capital
-role: "Partner"
-location: "London, UK"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, fintech, developer-tools, marketplaces, consumer, robotics]
-check_size: "$1M-$200M"
-last_verified_investment:
-  date: 2025-06
-  company: "Aspora"
-  round: "Series B"
-social:
-  twitter: "@LucianaLix"
-  linkedin: "linkedin.com/in/luciana-lixandru-11042875"
-status: published
 last_researched: 2026-03-16
-tldr: "Sequoia's first European partner backing outlier founders and technically intense platforms across enterprise and deep tech. Led iconic rounds in UiPath, Rippling, and Aspora; excels at spotting generational ambition early."
+last_verified_investment:
+  company: Aspora
+  date: 2025-06
+  round: Series B
+location: London, UK
+name: Luciana Lixandru
+role: Partner
+sector_focus:
+- enterprise
+- fintech
+- developer-tools
+- marketplaces
+- consumer
+- robotics
+slug: luciana-lixandru
+social:
+  linkedin: linkedin.com/in/luciana-lixandru-11042875
+  twitter: '@LucianaLix'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Sequoia's first European partner backing outlier founders and technically intense
+  platforms across enterprise and deep tech. Led iconic rounds in UiPath, Rippling,
+  and Aspora; excels at spotting generational ambition early.
+type: individual
 ---
 
 ## Background

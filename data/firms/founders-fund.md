@@ -9,10 +9,10 @@ location: San Francisco, CA
 name: Founders Fund
 sector_focus:
 - ai
-- defense-tech
+- defense
 - aerospace
 - fintech
-- enterprise-saas
+- saas
 - biotech
 - crypto
 - consumer-internet

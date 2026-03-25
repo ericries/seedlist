@@ -1,120 +1,119 @@
 ---
+founded: 1977
+fund_size: $28B+ total AUM (as of June 2025)
+last_researched: 2026-03-20
+location: Menlo Park, CA
 name: New Enterprise Associates (NEA)
+sector_focus:
+- technology
+- healthcare
+- enterprise
+- ai
+- life-sciences
+- fintech
 slug: nea
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Scott Sandell
+  role: Executive Chairman & Chief Investment Officer
+  slug: scott-sandell
+- name: Tony Florence
+  role: Co-CEO
+  slug: tony-florence
+- name: Mohamad Makhzoumi
+  role: Co-CEO
+  slug: mohamad-makhzoumi
+- name: Ali Behbahani
+  role: Partner, Co-Head of Healthcare
+  slug: ali-behbahani
+- name: Paul Walker
+  role: Partner, Co-Head of Healthcare
+  slug: paul-walker-nea
+- name: Rick Yang
+  role: Partner, Head of Technology
+  slug: rick-yang
+- name: Carmen Chang
+  role: Partner, Head of Asia
+  slug: carmen-chang
+- name: Philip Chopin
+  role: Managing Director, NEA UK
+  slug: philip-chopin
+- name: Madison Faulkner
+  role: Partner
+  slug: madison-faulkner
+- name: Scott Gottlieb
+  role: Partner
+  slug: scott-gottlieb
+- name: Aaron Jacobson
+  role: Partner
+  slug: aaron-jacobson
+- name: Arjun Jain
+  role: Partner
+  slug: arjun-jain-nea
+- name: Danielle Lay
+  role: Partner
+  slug: danielle-lay
+- name: Tiffany Luck
+  role: Partner
+  slug: tiffany-luck
+- name: Edward Mathers
+  role: Partner
+  slug: edward-mathers
+- name: Matt McAviney
+  role: Partner
+  slug: matt-mcaviney
+- name: Mustafa Neemuchwala
+  role: Partner
+  slug: mustafa-neemuchwala
+- name: Luke Pappas
+  role: Partner
+  slug: luke-pappas
+- name: Michele Park
+  role: Partner
+  slug: michele-park
+- name: Andrew Schoen
+  role: Partner
+  slug: andrew-schoen
+- name: Alex Sharata
+  role: Partner
+  slug: alex-sharata
+- name: Lila Tretikov
+  role: Partner, Head of AI Strategy
+  slug: lila-tretikov
+- name: Blake Wu
+  role: Partner
+  slug: blake-wu
+- name: Mark Hawkins
+  role: Venture Partner
+  slug: mark-hawkins-nea
+- name: Jeff Immelt
+  role: Venture Partner
+  slug: jeff-immelt
+- name: Hilarie Koplow-McAdams
+  role: Venture Partner
+  slug: hilarie-koplow-mcadams
+- name: Greg Papadopoulos
+  role: Venture Partner
+  slug: greg-papadopoulos
+- name: Kavita Patel
+  role: Venture Partner
+  slug: kavita-patel
+- name: Brooke Seawell
+  role: Venture Partner
+  slug: brooke-seawell
+- name: Forest Baskett
+  role: Special Partner
+  slug: forest-baskett
+- name: Patrick Kerins
+  role: Special Partner
+  slug: patrick-kerins
 type: firm
 website: https://www.nea.com
-location: Menlo Park, CA
-founded: 1977
-fund_size: "$28B+ total AUM (as of June 2025)"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-  - growth
-sector_focus:
-  - technology
-  - healthcare
-  - enterprise-software
-  - ai
-  - life-sciences
-  - fintech
-  - digital-health
-team:
-  - name: Scott Sandell
-    role: Executive Chairman & Chief Investment Officer
-    slug: scott-sandell
-  - name: Tony Florence
-    role: Co-CEO
-    slug: tony-florence
-  - name: Mohamad Makhzoumi
-    role: Co-CEO
-    slug: mohamad-makhzoumi
-  - name: Ali Behbahani
-    role: Partner, Co-Head of Healthcare
-    slug: ali-behbahani
-  - name: Paul Walker
-    role: Partner, Co-Head of Healthcare
-    slug: paul-walker-nea
-  - name: Rick Yang
-    role: Partner, Head of Technology
-    slug: rick-yang
-  - name: Carmen Chang
-    role: Partner, Head of Asia
-    slug: carmen-chang
-  - name: Philip Chopin
-    role: Managing Director, NEA UK
-    slug: philip-chopin
-  - name: Madison Faulkner
-    role: Partner
-    slug: madison-faulkner
-  - name: Scott Gottlieb
-    role: Partner
-    slug: scott-gottlieb
-  - name: Aaron Jacobson
-    role: Partner
-    slug: aaron-jacobson
-  - name: Arjun Jain
-    role: Partner
-    slug: arjun-jain-nea
-  - name: Danielle Lay
-    role: Partner
-    slug: danielle-lay
-  - name: Tiffany Luck
-    role: Partner
-    slug: tiffany-luck
-  - name: Edward Mathers
-    role: Partner
-    slug: edward-mathers
-  - name: Matt McAviney
-    role: Partner
-    slug: matt-mcaviney
-  - name: Mustafa Neemuchwala
-    role: Partner
-    slug: mustafa-neemuchwala
-  - name: Luke Pappas
-    role: Partner
-    slug: luke-pappas
-  - name: Michele Park
-    role: Partner
-    slug: michele-park
-  - name: Andrew Schoen
-    role: Partner
-    slug: andrew-schoen
-  - name: Alex Sharata
-    role: Partner
-    slug: alex-sharata
-  - name: Lila Tretikov
-    role: Partner, Head of AI Strategy
-    slug: lila-tretikov
-  - name: Blake Wu
-    role: Partner
-    slug: blake-wu
-  - name: Mark Hawkins
-    role: Venture Partner
-    slug: mark-hawkins-nea
-  - name: Jeff Immelt
-    role: Venture Partner
-    slug: jeff-immelt
-  - name: Hilarie Koplow-McAdams
-    role: Venture Partner
-    slug: hilarie-koplow-mcadams
-  - name: Greg Papadopoulos
-    role: Venture Partner
-    slug: greg-papadopoulos
-  - name: Kavita Patel
-    role: Venture Partner
-    slug: kavita-patel
-  - name: Brooke Seawell
-    role: Venture Partner
-    slug: brooke-seawell
-  - name: Forest Baskett
-    role: Special Partner
-    slug: forest-baskett
-  - name: Patrick Kerins
-    role: Special Partner
-    slug: patrick-kerins
-status: published
-last_researched: 2026-03-20
 ---
 
 ## About

@@ -1,22 +1,37 @@
 ---
-name: "Ilya Fushman"
-slug: ilya-fushman
-type: individual
+check_size: $2M-$50M
 firm: kleiner-perkins
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, ai-ml, fintech, healthcare, developer-tools, logistics]
-check_size: "$2M-$50M"
-last_verified_investment:
-  date: 2025-07-10
-  company: "Harmonic"
-  round: "Series B"
-social:
-  twitter: "@ilyaf"
-  linkedin: "linkedin.com/in/ilyafushman"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Harmonic
+  date: 2025-07-10
+  round: Series B
+location: San Francisco, CA
+name: Ilya Fushman
+role: General Partner
+sector_focus:
+- enterprise
+- ai-ml
+- fintech
+- healthcare
+- developer-tools
+- logistics
+slug: ilya-fushman
+social:
+  linkedin: linkedin.com/in/ilyafushman
+  twitter: '@ilyaf'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Ilya Fushman is a General Partner at Kleiner Perkins with a physics PhD from
+  Stanford who invests primarily in enterprise SaaS (45%) and logistics/physical economy
+  (15%). He has a strong product-led growth orientation from his Dropbox operating
+  days and leads Series A rounds in companies like Rippling, Loom, and Harvey. He
+  quadrupled down on Harvey across its Series B and E.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,37 @@
 ---
-name: "Bennett Siegel"
-slug: bennett-siegel
-type: individual
+check_size: $100K-$10M
 firm: a-star-capital
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [ai, fintech, marketplaces, enterprise-saas, consumer, developer-tools, proptech]
-check_size: "$100K-$10M"
-last_verified_investment:
-  date: 2025-06-06
-  company: "Extra"
-  round: "Seed"
-social:
-  twitter: "@BennettSiegel"
-  linkedin: "linkedin.com/in/bennett-siegel-077a5743"
-status: published
 last_researched: 2026-03-22
-tldr: "Bennett Siegel is co-founder and GP of A* Capital (raised $300M Fund I and $315M Fund II with backing from Max Levchin and Peter Thiel). His 22 verified investments skew AI/ML (32%)—Decagon, Extra, Paraform—with distinctive focus on backing very young founders (20% of Fund II are teenagers). Leads seed and Series A rounds with conviction, positioning A* as backing 'outliers from idea to IPO.'"
+last_verified_investment:
+  company: Extra
+  date: 2025-06-06
+  round: Seed
+location: San Francisco, CA
+name: Bennett Siegel
+role: Co-Founder & General Partner
+sector_focus:
+- ai
+- fintech
+- marketplaces
+- saas
+- consumer
+- developer-tools
+- proptech
+slug: bennett-siegel
+social:
+  linkedin: linkedin.com/in/bennett-siegel-077a5743
+  twitter: '@BennettSiegel'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Bennett Siegel is co-founder and GP of A* Capital (raised $300M Fund I and $315M
+  Fund II with backing from Max Levchin and Peter Thiel). His 22 verified investments
+  skew AI/ML (32%)—Decagon, Extra, Paraform—with distinctive focus on backing very
+  young founders (20% of Fund II are teenagers). Leads seed and Series A rounds with
+  conviction, positioning A* as backing 'outliers from idea to IPO.'
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,34 @@
 ---
-name: "Ajay Kamat"
-slug: ajay-kamat
-tldr: "Partner at Pear VC backing consumer, fintech, and digital health companies at pre-seed and seed with $250K-$6M checks. Former Wedding Party founder (acquired by Instacart). Portfolio covers digital health, fintech, and proptech with strong pattern of backing experienced operators with domain expertise. Notable: Recora, Aaptiv, Burst."
-type: individual
+check_size: $250K-$6M
 firm: pear-vc
-role: "Partner"
-location: "East Bay, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [consumer, fintech, digital-health, web3, proptech]
-check_size: "$250K-$6M"
-last_verified_investment:
-  date: 2026-02-25
-  company: "Burst"
-  round: "Seed"
-social:
-  twitter: "@ajaykam"
-  linkedin: "linkedin.com/in/ajaykam"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Burst
+  date: 2026-02-25
+  round: Seed
+location: East Bay, CA
+name: Ajay Kamat
+role: Partner
+sector_focus:
+- consumer
+- fintech
+- healthcare
+- web3
+- proptech
+slug: ajay-kamat
+social:
+  linkedin: linkedin.com/in/ajaykam
+  twitter: '@ajaykam'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Partner at Pear VC backing consumer, fintech, and digital health companies
+  at pre-seed and seed with $250K-$6M checks. Former Wedding Party founder (acquired
+  by Instacart). Portfolio covers digital health, fintech, and proptech with strong
+  pattern of backing experienced operators with domain expertise. Notable: Recora,
+  Aaptiv, Burst.'
+type: individual
 ---
 
 ## Background

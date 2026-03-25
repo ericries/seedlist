@@ -1,71 +1,71 @@
 ---
-name: "IVP"
-slug: ivp
-type: firm
-website: "https://www.ivp.com"
-location: "Menlo Park, CA"
 founded: 1980
-fund_size: "$1.6B (Fund XVIII, 2024); 18 funds total since 1980"
-stage_focus:
-  - series-b
-  - growth
-sector_focus:
-  - enterprise-software
-  - consumer
-  - fintech
-  - gaming
-  - digital-health
-  - cybersecurity
-  - ai
-  - infrastructure
-team:
-  - name: Steve Harrick
-    role: General Partner
-    slug: steve-harrick
-  - name: Eric Liaw
-    role: General Partner
-    slug: eric-liaw
-  - name: Tom Loverro
-    role: General Partner
-    slug: tom-loverro
-  - name: Jules Maltz
-    role: General Partner
-    slug: jules-maltz
-  - name: Somesh Dash
-    role: General Partner
-    slug: somesh-dash
-  - name: Todd Chaffee
-    role: General Partner
-    slug: todd-chaffee
-  - name: Sandy Miller
-    role: General Partner
-    slug: sandy-miller
-  - name: Dennis Phelps
-    role: General Partner
-    slug: dennis-phelps
-  - name: Norm Fogelsong
-    role: General Partner
-    slug: norm-fogelsong
-  - name: Cack Wilhelm
-    role: General Partner
-    slug: cack-wilhelm
-  - name: Tamar Yehoshua
-    role: General Partner
-    slug: tamar-yehoshua
-  - name: Ajay Vashee
-    role: Partner
-    slug: ajay-vashee
-  - name: Kevin Egan
-    role: Partner
-    slug: kevin-egan
-  - name: Jimena Nowack
-    role: Partner
-    slug: jimena-nowack
-  - name: Cynthia Lai
-    role: Partner
-    slug: cynthia-lai
-status: published
+fund_size: $1.6B (Fund XVIII, 2024); 18 funds total since 1980
 last_researched: 2026-03-19
+location: Menlo Park, CA
+name: IVP
+sector_focus:
+- enterprise
+- consumer
+- fintech
+- gaming
+- healthcare
+- cybersecurity
+- ai
+- infrastructure
+slug: ivp
+stage_focus:
+- series-b
+- growth
+status: published
+team:
+- name: Steve Harrick
+  role: General Partner
+  slug: steve-harrick
+- name: Eric Liaw
+  role: General Partner
+  slug: eric-liaw
+- name: Tom Loverro
+  role: General Partner
+  slug: tom-loverro
+- name: Jules Maltz
+  role: General Partner
+  slug: jules-maltz
+- name: Somesh Dash
+  role: General Partner
+  slug: somesh-dash
+- name: Todd Chaffee
+  role: General Partner
+  slug: todd-chaffee
+- name: Sandy Miller
+  role: General Partner
+  slug: sandy-miller
+- name: Dennis Phelps
+  role: General Partner
+  slug: dennis-phelps
+- name: Norm Fogelsong
+  role: General Partner
+  slug: norm-fogelsong
+- name: Cack Wilhelm
+  role: General Partner
+  slug: cack-wilhelm
+- name: Tamar Yehoshua
+  role: General Partner
+  slug: tamar-yehoshua
+- name: Ajay Vashee
+  role: Partner
+  slug: ajay-vashee
+- name: Kevin Egan
+  role: Partner
+  slug: kevin-egan
+- name: Jimena Nowack
+  role: Partner
+  slug: jimena-nowack
+- name: Cynthia Lai
+  role: Partner
+  slug: cynthia-lai
+type: firm
+website: https://www.ivp.com
 ---
 
 ## About

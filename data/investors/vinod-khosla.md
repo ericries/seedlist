@@ -1,22 +1,39 @@
 ---
-name: "Vinod Khosla"
-slug: vinod-khosla
-type: individual
+check_size: $500K-$50M
 firm: khosla-ventures
-role: "Founder & Managing Director"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai-ml, sustainability, digital-health, enterprise, biotech, fintech, frontier-tech, cleantech]
-check_size: "$500K-$50M"
-last_verified_investment:
-  date: 2025-10-08
-  company: "HiO AI"
-  round: "Seed"
-social:
-  twitter: "@vkhosla"
-  linkedin: "linkedin.com/in/vinod-khosla-65387416"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: HiO AI
+  date: 2025-10-08
+  round: Seed
+location: Menlo Park, CA
+name: Vinod Khosla
+role: Founder & Managing Director
+sector_focus:
+- ai-ml
+- sustainability
+- healthcare
+- enterprise
+- biotech
+- fintech
+- frontier-tech
+- climate
+slug: vinod-khosla
+social:
+  linkedin: linkedin.com/in/vinod-khosla-65387416
+  twitter: '@vkhosla'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Vinod Khosla is the founder of Khosla Ventures and co-founder of Sun Microsystems,
+  managing a portfolio of 700+ investments across AI/enterprise (21%), sustainability/climate
+  (13%), digital health (11%), and frontier tech (9%). He practices 'option-value
+  investing' -- high failure tolerance with transformative upside -- with checks from
+  $500K to $50M. His OpenAI stake helped drive his net worth to $13.4B.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,37 @@
 ---
-name: "Ann Miura-Ko"
-slug: ann-miura-ko
-tldr: "Co-Founder of Floodgate, PhD in computer security from Stanford. Pioneering pre-seed investor backing 'Thunder Lizards' — world-changing founders. Portfolio (26 verified) is 35% consumer/marketplaces (Lyft, TaskRabbit, Refinery29), 19% enterprise SaaS (Okta, Xamarin). Checks $500K-$5M at pre-seed/seed. Forbes 'most powerful woman in startups'; Midas List repeat."
-type: individual
+check_size: $500K-$5M
 firm: floodgate
-role: "Co-Founder & Partner"
-location: "Palo Alto, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai, consumer, enterprise-saas, fintech, health, marketplaces, climate, edtech]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2025
-  company: "SmarterDx"
-  round: "Seed"
-social:
-  twitter: "@annimaniac"
-  linkedin: "linkedin.com/in/amiura"
-status: published
 last_researched: 2026-03-23
+last_verified_investment:
+  company: SmarterDx
+  date: 2025
+  round: Seed
+location: Palo Alto, CA
+name: Ann Miura-Ko
+role: Co-Founder & Partner
+sector_focus:
+- ai
+- consumer
+- saas
+- fintech
+- healthcare
+- marketplaces
+- climate
+- edtech
+slug: ann-miura-ko
+social:
+  linkedin: linkedin.com/in/amiura
+  twitter: '@annimaniac'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Co-Founder of Floodgate, PhD in computer security from Stanford. Pioneering
+  pre-seed investor backing 'Thunder Lizards' — world-changing founders. Portfolio
+  (26 verified) is 35% consumer/marketplaces (Lyft, TaskRabbit, Refinery29), 19% enterprise
+  SaaS (Okta, Xamarin). Checks $500K-$5M at pre-seed/seed. Forbes 'most powerful woman
+  in startups'; Midas List repeat.
+type: individual
 ---
 
 ## Background

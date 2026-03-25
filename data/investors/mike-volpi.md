@@ -15,7 +15,7 @@ sector_focus:
 - artificial-intelligence
 - data-infrastructure
 - robotics
-- enterprise-software
+- enterprise
 slug: mike-volpi
 social:
   linkedin: linkedin.com/in/mavolpi

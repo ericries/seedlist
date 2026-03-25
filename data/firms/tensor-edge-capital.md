@@ -1,26 +1,29 @@
 ---
-name: "Tensor Edge Capital"
-slug: tensor-edge-capital
-type: firm
-website: "https://www.linkedin.com/company/tensoredgecap"
-location: "Boston, MA"
 founded: 2025
-fund_size: "Not publicly disclosed"
-stage_focus: [growth]
-sector_focus: [semiconductors, software, ai]
-team:
-  - slug: romit-shah
-    role: "Founder & Managing General Partner"
-    name: "Romit Shah"
-  - slug: gal-munda
-    role: "Team Member"
-    name: "Gal Munda"
-  - slug: katie-carroll
-    role: "Team Member"
-    name: "Katie Carroll"
-status: published
+fund_size: Not publicly disclosed
 last_researched: 2026-03-24
-
+location: Boston, MA
+name: Tensor Edge Capital
+sector_focus:
+- semiconductors
+- enterprise
+- ai
+slug: tensor-edge-capital
+stage_focus:
+- growth
+status: published
+team:
+- name: Romit Shah
+  role: Founder & Managing General Partner
+  slug: romit-shah
+- name: Gal Munda
+  role: Team Member
+  slug: gal-munda
+- name: Katie Carroll
+  role: Team Member
+  slug: katie-carroll
+type: firm
+website: https://www.linkedin.com/company/tensoredgecap
 ---
 
 ## About

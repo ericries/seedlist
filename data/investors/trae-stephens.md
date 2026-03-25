@@ -1,23 +1,38 @@
 ---
-name: "Trae Stephens"
-slug: trae-stephens
-tldr: "Partner at Founders Fund (2014+). Co-founder/Executive Chairman of Anduril Industries (defense autonomy, $30.5B valuation, Series G $2.5B round 2025). Also co-founded Varda Space (in-space manufacturing) and Valinor (company incubator). Portfolio focuses on defense-tech, AI, aerospace, government tech. Ex-Palantir growth lead in intel/defense; U.S. Intelligence Community computational linguist. Philosophy: concentrated portfolios, 'good quests,' seeks disagreeable founders. Now billionaire post-Anduril Series G."
-type: individual
+check_size: $500K-$150M
 firm: founders-fund
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [defense-tech, ai, aerospace, government-tech, autonomy]
-check_size: "$500K-$150M"
-last_verified_investment:
-  date: 2026-01
-  company: "Outtake"
-  round: "Series B"
-social:
-  twitter: "@traestephens"
-  linkedin: "linkedin.com/in/trae-stephens-485a811"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Outtake
+  date: 2026-01
+  round: Series B
+location: San Francisco, CA
+name: Trae Stephens
+role: Partner
+sector_focus:
+- defense
+- ai
+- aerospace
+- government-tech
+- autonomy
+slug: trae-stephens
+social:
+  linkedin: linkedin.com/in/trae-stephens-485a811
+  twitter: '@traestephens'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Partner at Founders Fund (2014+). Co-founder/Executive Chairman of Anduril
+  Industries (defense autonomy, $30.5B valuation, Series G $2.5B round 2025). Also
+  co-founded Varda Space (in-space manufacturing) and Valinor (company incubator).
+  Portfolio focuses on defense-tech, AI, aerospace, government tech. Ex-Palantir growth
+  lead in intel/defense; U.S. Intelligence Community computational linguist. Philosophy:
+  concentrated portfolios, ''good quests,'' seeks disagreeable founders. Now billionaire
+  post-Anduril Series G.'
+type: individual
 ---
 
 ## Background

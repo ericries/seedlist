@@ -1,104 +1,104 @@
 ---
-name: "Solugen"
-slug: solugen
-type: startup
-website: "https://solugen.com"
-location: "Houston, TX"
-founded: 2016
-status_company: active
-sector:
-  - biotech
-  - cleantech
-  - chemicals
-stage_latest: "Series D"
-total_raised: "$656M"
-investors:
-  - slug: gaurab-chakrabarti
-    round: founder
-    year: 2016
-  - slug: sean-hunt
-    round: founder
-    year: 2016
 firms:
-  - slug: y-combinator
-    round: seed
-    year: 2017
-  - slug: refactor-capital
-    round: seed
-    year: 2017
-  - slug: liquid-2-ventures
-    round: seed
-    year: 2017
-  - slug: social-capital
-    round: seed
-    year: 2017
-  - slug: fifty-years
-    round: Series A
-    year: 2018
-  - slug: founders-fund
-    round: Series A
-    year: 2018
-  - slug: y-combinator
-    round: Series A
-    year: 2018
-  - slug: founders-fund
-    round: Series B
-    year: 2019
-  - slug: refactor-capital
-    round: Series B
-    year: 2019
-  - slug: fifty-years
-    round: Series B
-    year: 2019
-  - slug: kdt-ventures
-    round: Series B
-    year: 2019
-  - slug: gic
-    round: Series C
-    year: 2021
-  - slug: baillie-gifford
-    round: Series C
-    year: 2021
-  - slug: temasek
-    round: Series C
-    year: 2021
-  - slug: blackrock
-    round: Series C
-    year: 2021
-  - slug: carbon-direct
-    round: Series C
-    year: 2021
-  - slug: refactor-capital
-    round: Series C
-    year: 2021
-  - slug: fifty-years
-    round: Series C
-    year: 2021
-  - slug: kinnevik
-    round: Series D
-    year: 2022
-  - slug: lowercarbon-capital
-    round: Series D
-    year: 2022
-  - slug: refactor-capital
-    round: Series D
-    year: 2022
-  - slug: temasek
-    round: Series D
-    year: 2022
-  - slug: baillie-gifford
-    round: Series D
-    year: 2022
-  - slug: fifty-years
-    round: Series D
-    year: 2022
+- round: seed
+  slug: y-combinator
+  year: 2017
+- round: seed
+  slug: refactor-capital
+  year: 2017
+- round: seed
+  slug: liquid-2-ventures
+  year: 2017
+- round: seed
+  slug: social-capital
+  year: 2017
+- round: Series A
+  slug: fifty-years
+  year: 2018
+- round: Series A
+  slug: founders-fund
+  year: 2018
+- round: Series A
+  slug: y-combinator
+  year: 2018
+- round: Series B
+  slug: founders-fund
+  year: 2019
+- round: Series B
+  slug: refactor-capital
+  year: 2019
+- round: Series B
+  slug: fifty-years
+  year: 2019
+- round: Series B
+  slug: kdt-ventures
+  year: 2019
+- round: Series C
+  slug: gic
+  year: 2021
+- round: Series C
+  slug: baillie-gifford
+  year: 2021
+- round: Series C
+  slug: temasek
+  year: 2021
+- round: Series C
+  slug: blackrock
+  year: 2021
+- round: Series C
+  slug: carbon-direct
+  year: 2021
+- round: Series C
+  slug: refactor-capital
+  year: 2021
+- round: Series C
+  slug: fifty-years
+  year: 2021
+- round: Series D
+  slug: kinnevik
+  year: 2022
+- round: Series D
+  slug: lowercarbon-capital
+  year: 2022
+- round: Series D
+  slug: refactor-capital
+  year: 2022
+- round: Series D
+  slug: temasek
+  year: 2022
+- round: Series D
+  slug: baillie-gifford
+  year: 2022
+- round: Series D
+  slug: fifty-years
+  year: 2022
+founded: 2016
 founders:
-  - name: "Gaurab Chakrabarti"
-    role: "CEO & Co-Founder"
-  - name: "Sean Hunt"
-    role: "CTO & Co-Founder"
-status: published
+- name: Gaurab Chakrabarti
+  role: CEO & Co-Founder
+- name: Sean Hunt
+  role: CTO & Co-Founder
+investors:
+- round: founder
+  slug: gaurab-chakrabarti
+  year: 2016
+- round: founder
+  slug: sean-hunt
+  year: 2016
 last_researched: 2026-03-19
+location: Houston, TX
+name: Solugen
+sector:
+- biotech
+- climate
+- chemicals
+slug: solugen
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $656M
+type: startup
+website: https://solugen.com
 ---
 
 ## About

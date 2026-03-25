@@ -13,7 +13,7 @@ sector_focus:
 - ai
 - developer-tools
 - cloud-infrastructure
-- security
+- cybersecurity
 - fintech
 - saas
 slug: arash-ferdowsi

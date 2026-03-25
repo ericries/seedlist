@@ -1,23 +1,32 @@
 ---
-name: "Girish Mathrubootham"
-slug: girish-mathrubootham
-type: individual
+check_size: $1M-$10M
 firm: together-fund
-role: "Co-founder & Managing Partner"
-location: "San Francisco Bay Area, CA"
-stage_focus: [seed, series-a]
-sector_focus: [saas, ai, developer-tools, healthcare, enterprise-software]
-check_size: "$1M-$10M"
-last_verified_investment:
-  date: 2026-03-10
-  company: "Coreworks AI"
-  round: "Seed"
-social:
-  twitter: "@mrgirish"
-  linkedin: "linkedin.com/in/girish1"
-status: published
 last_researched: 2026-03-16
-tldr: "Together Fund co-founder ($235M AUM) investing $1M-$10M seed/Series A in India-founded AI/SaaS for global markets. Freshworks founder and CEO; founder-first philosophy emphasizing operator guidance on unit economics and AI-native product development."
+last_verified_investment:
+  company: Coreworks AI
+  date: 2026-03-10
+  round: Seed
+location: San Francisco Bay Area, CA
+name: Girish Mathrubootham
+role: Co-founder & Managing Partner
+sector_focus:
+- saas
+- ai
+- developer-tools
+- healthcare
+- enterprise
+slug: girish-mathrubootham
+social:
+  linkedin: linkedin.com/in/girish1
+  twitter: '@mrgirish'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Together Fund co-founder ($235M AUM) investing $1M-$10M seed/Series A in India-founded
+  AI/SaaS for global markets. Freshworks founder and CEO; founder-first philosophy
+  emphasizing operator guidance on unit economics and AI-native product development.
+type: individual
 ---
 
 ## Background

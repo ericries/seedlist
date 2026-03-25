@@ -1,22 +1,34 @@
 ---
-name: "Jaimin Rangwalla"
-slug: jaimin-rangwalla
-tldr: "Senior Managing Director at Coatue Management with 20+ year track record in growth and late-stage investing. Invests across seed to $500M+ scale in AI, clean energy, semiconductors, and enterprise. Target check $5M-$500M as Coatue principal. Portfolio includes significant bets in autonomous systems and infrastructure technologies."
-type: individual
+check_size: $5M–$500M+ (as Coatue principal)
 firm: coatue-management
-role: "Senior Managing Director, CIO of Publics"
-location: "New York, NY"
-stage_focus: [growth, late-stage, seed]
-sector_focus: [ai, clean-energy, autonomous-systems, enterprise, semiconductors, fintech]
-check_size: "$5M–$500M+ (as Coatue principal)"
-last_verified_investment:
-  date: 2023
-  company: "Verse"
-  round: "Seed"
-social:
-  linkedin: "linkedin.com/in/jaimin-rangwalla-402a21"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Verse
+  date: 2023
+  round: Seed
+location: New York, NY
+name: Jaimin Rangwalla
+role: Senior Managing Director, CIO of Publics
+sector_focus:
+- ai
+- climate
+- autonomous-systems
+- enterprise
+- semiconductors
+- fintech
+slug: jaimin-rangwalla
+social:
+  linkedin: linkedin.com/in/jaimin-rangwalla-402a21
+stage_focus:
+- growth
+- late-stage
+- seed
+status: published
+tldr: Senior Managing Director at Coatue Management with 20+ year track record in
+  growth and late-stage investing. Invests across seed to $500M+ scale in AI, clean
+  energy, semiconductors, and enterprise. Target check $5M-$500M as Coatue principal.
+  Portfolio includes significant bets in autonomous systems and infrastructure technologies.
+type: individual
 ---
 
 ## Background

@@ -1,28 +1,31 @@
 ---
-name: Tommaso Conca
-slug: tommaso-conca
-tldr: "Partner at QuantumLight (London-based), growth-stage investor (~$5M typical allocation) in AI, fintech, SaaS, healthtech, web3. Recent investment in Fuse Energy Series B. European deep tech and growth focus. Growth-stage specialist with conviction in AI and web3 applications."
-type: individual
+check_size: ~$5M (typical QuantumLight allocation per deal)
 firm: quantumlight
-role: Partner
+last_researched: 2026-03-24
+last_verified_investment:
+  company: Fuse Energy
+  date: 2025-12-18
+  round: Series B
 location: London, United Kingdom
-stage_focus:
-- growth
+name: Tommaso Conca
+role: Partner
 sector_focus:
 - ai
 - fintech
 - saas
-- healthtech
+- healthcare
 - web3
-check_size: ~$5M (typical QuantumLight allocation per deal)
-last_verified_investment:
-  date: 2025-12-18
-  company: Fuse Energy
-  round: Series B
+slug: tommaso-conca
 social:
   linkedin: linkedin.com/in/tommasoconca
+stage_focus:
+- growth
 status: published
-last_researched: 2026-03-24
+tldr: Partner at QuantumLight (London-based), growth-stage investor (~$5M typical
+  allocation) in AI, fintech, SaaS, healthtech, web3. Recent investment in Fuse Energy
+  Series B. European deep tech and growth focus. Growth-stage specialist with conviction
+  in AI and web3 applications.
+type: individual
 ---
 
 ## Background

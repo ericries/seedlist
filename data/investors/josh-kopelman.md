@@ -1,23 +1,35 @@
 ---
-name: "Josh Kopelman"
-slug: josh-kopelman
-tldr: "Co-Founder of First Round Capital investing $750K-$4M in pre-seed and seed companies. Multiple exits as entrepreneur (Infonautics IPO, Half.com $313M eBay acquisition) inform conviction in seed-stage founders. Emphasizes integrity, market size, founder quality through rigorous diligence."
-type: individual
+check_size: $750K-$4M
 firm: first-round-capital
-role: "Partner"
-location: "Philadelphia, PA"
-stage_focus: [pre-seed, seed]
-sector_focus: [enterprise, saas, fintech, consumer, ai, health, data]
-check_size: "$750K-$4M"
-last_verified_investment:
-  date: "~2023"
-  company: "Pomelo Care"
-  round: "Seed"
-social:
-  twitter: "@joshk"
-  linkedin: "linkedin.com/in/jkopelman"
-status: published
 last_researched: 2026-03-14
+last_verified_investment:
+  company: Pomelo Care
+  date: ~2023
+  round: Seed
+location: Philadelphia, PA
+name: Josh Kopelman
+role: Partner
+sector_focus:
+- enterprise
+- saas
+- fintech
+- consumer
+- ai
+- healthcare
+- data
+slug: josh-kopelman
+social:
+  linkedin: linkedin.com/in/jkopelman
+  twitter: '@joshk'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Co-Founder of First Round Capital investing $750K-$4M in pre-seed and seed companies.
+  Multiple exits as entrepreneur (Infonautics IPO, Half.com $313M eBay acquisition)
+  inform conviction in seed-stage founders. Emphasizes integrity, market size, founder
+  quality through rigorous diligence.
+type: individual
 ---
 
 ## Background

@@ -1,46 +1,60 @@
 ---
-name: "Northzone"
-slug: northzone
-type: firm
-website: "https://northzone.com"
-location: "London, United Kingdom"
 founded: 1996
-fund_size: "€1B (Fund X, 2022); $500M (Fund IX, 2019); €300M (Fund VIII, 2016); total raised >€2.5B across 10 funds"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, fintech, consumer, enterprise, healthtech, gaming, marketplaces, climate-tech, developer-tools]
-team:
-  - slug: par-jorgen-parson
-    role: "General Partner"
-    name: "Pär-Jörgen Pärson"
-  - slug: jeppe-zink
-    role: "General Partner"
-    name: "Jeppe Zink"
-  - slug: jessica-schultz
-    role: "General Partner"
-    name: "Jessica Schultz"
-  - slug: michiel-kotting
-    role: "General Partner"
-    name: "Michiel Kotting"
-  - slug: paul-murphy
-    role: "General Partner"
-    name: "Paul Murphy"
-  - slug: wendy-xiao-schadeck
-    role: "Partner"
-    name: "Wendy Xiao Schadeck"
-  - slug: kilian-pender
-    role: "Partner"
-    name: "Kilian Pender"
-  - slug: sanjot-malhi
-    role: "Partner"
-    name: "Sanjot Malhi"
-  - slug: bjorn-stray
-    role: "Partner (Co-Founder)"
-    name: "Bjørn Stray"
-  - slug: elena-pantazi
-    role: "Partner, Talent & Portfolio Development"
-    name: "Elena Pantazi"
-status: published
+fund_size: €1B (Fund X, 2022); $500M (Fund IX, 2019); €300M (Fund VIII, 2016); total
+  raised >€2.5B across 10 funds
 last_researched: 2026-03-24
+location: London, United Kingdom
+name: Northzone
+sector_focus:
+- ai
+- fintech
+- consumer
+- enterprise
+- healthcare
+- gaming
+- marketplaces
+- climate
+- developer-tools
+slug: northzone
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Pär-Jörgen Pärson
+  role: General Partner
+  slug: par-jorgen-parson
+- name: Jeppe Zink
+  role: General Partner
+  slug: jeppe-zink
+- name: Jessica Schultz
+  role: General Partner
+  slug: jessica-schultz
+- name: Michiel Kotting
+  role: General Partner
+  slug: michiel-kotting
+- name: Paul Murphy
+  role: General Partner
+  slug: paul-murphy
+- name: Wendy Xiao Schadeck
+  role: Partner
+  slug: wendy-xiao-schadeck
+- name: Kilian Pender
+  role: Partner
+  slug: kilian-pender
+- name: Sanjot Malhi
+  role: Partner
+  slug: sanjot-malhi
+- name: Bjørn Stray
+  role: Partner (Co-Founder)
+  slug: bjorn-stray
+- name: Elena Pantazi
+  role: Partner, Talent & Portfolio Development
+  slug: elena-pantazi
+type: firm
+website: https://northzone.com
 ---
 
 ## About

@@ -1,23 +1,33 @@
 ---
-name: "Josephine Chen"
-slug: josephine-chen
-type: individual
+check_size: $1M-$10M
 firm: sequoia-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [healthcare, fintech, crypto, enterprise-software, ai, vertical-saas]
-check_size: "$1M-$10M"
-last_verified_investment:
-  date: 2025-06-17
-  company: "Crosby"
-  round: "Seed"
-social:
-  twitter: "@josephinekchen"
-  linkedin: "linkedin.com/in/josephine-k-chen"
-status: published
 last_researched: 2026-03-16
-tldr: "Sequoia partner investing $1M-$10M in seed/Series A healthcare, fintech, crypto, and vertical SaaS. Stanford undergrad and MBA; strong conviction in immigrant founders; formerly at Emergence Capital and McKinsey."
+last_verified_investment:
+  company: Crosby
+  date: 2025-06-17
+  round: Seed
+location: San Francisco, CA
+name: Josephine Chen
+role: Partner
+sector_focus:
+- healthcare
+- fintech
+- crypto
+- enterprise
+- ai
+- vertical-saas
+slug: josephine-chen
+social:
+  linkedin: linkedin.com/in/josephine-k-chen
+  twitter: '@josephinekchen'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Sequoia partner investing $1M-$10M in seed/Series A healthcare, fintech, crypto,
+  and vertical SaaS. Stanford undergrad and MBA; strong conviction in immigrant founders;
+  formerly at Emergence Capital and McKinsey.
+type: individual
 ---
 
 ## Background

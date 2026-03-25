@@ -10,7 +10,7 @@ location: Menlo Park, CA
 name: Kevin Harvey
 role: Founder & General Partner
 sector_focus:
-- enterprise-software
+- enterprise
 - open-source
 - cloud-infrastructure
 - developer-tools
@@ -23,8 +23,10 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: Benchmark founder and GP investing $1M-$15M in Series A/B enterprise software
+  and open-source infrastructure. Focuses on developer-tools and marketplaces with
+  strong operator network.
 type: individual
-tldr: "Benchmark founder and GP investing $1M-$15M in Series A/B enterprise software and open-source infrastructure. Focuses on developer-tools and marketplaces with strong operator network."
 ---
 
 ## Background

@@ -1,23 +1,36 @@
 ---
-name: "Erik Blachford"
-slug: erik-blachford
-type: individual
+check_size: Undisclosed; typical syndicate investment ~$197K
 firm: independent
-role: "Angel Investor / Independent Venture Investor"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [travel, consumer-technology, hospitality-tech, clean-energy, proptech]
-check_size: "Undisclosed; typical syndicate investment ~$197K"
-last_verified_investment:
-  date: 2025-03-13
-  company: "Hipcamp"
-  round: "Board appointment"
-social:
-  twitter: "@erikbl"
-  linkedin: "https://www.linkedin.com/in/eblach/"
-status: published
 last_researched: 2026-03-18
-tldr: "Erik Blachford is an independent angel investor and founder of Blachford Capital LLC. Founded Expedia brand (Microsoft), later CEO of Expedia and IAC Travel (Hotels.com, Hotwire). 19 verified investments cluster in travel/hospitality tech (Hipcamp, Zillow, TourRadar), clean energy (TerraPass), and proptech. Venture Partner at TCV 2011-2021. Emphasizes faith in founders over plans; part of informal 'fab five' travel angel investor network with Rich Barton, Brad Gerstner, Sam Shank."
+last_verified_investment:
+  company: Hipcamp
+  date: 2025-03-13
+  round: Board appointment
+location: San Francisco, CA
+name: Erik Blachford
+role: Angel Investor / Independent Venture Investor
+sector_focus:
+- travel
+- consumer-technology
+- hospitality-tech
+- climate
+- proptech
+slug: erik-blachford
+social:
+  linkedin: https://www.linkedin.com/in/eblach/
+  twitter: '@erikbl'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Erik Blachford is an independent angel investor and founder of Blachford Capital
+  LLC. Founded Expedia brand (Microsoft), later CEO of Expedia and IAC Travel (Hotels.com,
+  Hotwire). 19 verified investments cluster in travel/hospitality tech (Hipcamp, Zillow,
+  TourRadar), clean energy (TerraPass), and proptech. Venture Partner at TCV 2011-2021.
+  Emphasizes faith in founders over plans; part of informal 'fab five' travel angel
+  investor network with Rich Barton, Brad Gerstner, Sam Shank.
+type: individual
 ---
 
 ## Background

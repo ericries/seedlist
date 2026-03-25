@@ -1,23 +1,36 @@
 ---
-name: "Theresia Gouw"
-slug: theresia-gouw
-tldr: "Co-founder of Acrew Capital (2019, $1.7B AUM); first woman Managing GP at Accel (1999-2014). Accel's Facebook investment (2005) gave her ~8M shares at IPO 2012. Leads Data & Security and Community Activated theses. Portfolio 34% data/security (Cato Networks, Exabeam, Vanta), 33% fintech (Chime, Plaid, Gusto). Forbes billionaire female VC ($1.2B net worth); Midas List 9x; Time 40 Most Influential AI. Co-founder All Raise. Indonesian immigrant; Buffalo Bills minority stakeholder (2024)."
-type: individual
+check_size: $1M-$15M
 firm: acrew-capital
-role: "Co-Founder & Managing Partner"
-location: "Palo Alto, California"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [cybersecurity, fintech, enterprise-software, data-infrastructure, digital-health]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2024-01-23
-  company: "Silverfort"
-  round: "Series D"
-social:
-  twitter: "@tgr"
-  linkedin: "linkedin.com/in/theresiagouw"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Silverfort
+  date: 2024-01-23
+  round: Series D
+location: Palo Alto, California
+name: Theresia Gouw
+role: Co-Founder & Managing Partner
+sector_focus:
+- cybersecurity
+- fintech
+- enterprise
+- data-infrastructure
+- healthcare
+slug: theresia-gouw
+social:
+  linkedin: linkedin.com/in/theresiagouw
+  twitter: '@tgr'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-founder of Acrew Capital (2019, $1.7B AUM); first woman Managing GP at Accel
+  (1999-2014). Accel's Facebook investment (2005) gave her ~8M shares at IPO 2012.
+  Leads Data & Security and Community Activated theses. Portfolio 34% data/security
+  (Cato Networks, Exabeam, Vanta), 33% fintech (Chime, Plaid, Gusto). Forbes billionaire
+  female VC ($1.2B net worth); Midas List 9x; Time 40 Most Influential AI. Co-founder
+  All Raise. Indonesian immigrant; Buffalo Bills minority stakeholder (2024).
+type: individual
 ---
 
 ## Background

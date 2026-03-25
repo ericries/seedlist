@@ -1,34 +1,34 @@
 ---
-name: "Seven Seven Six"
-slug: seven-seven-six
-type: firm
-website: "https://sevensevensix.com"
-location: "Austin, TX"
 founded: 2020
-fund_size: "$900M+ AUM across 3 funds (Fund I: $150M, Fund II: $500M, Kryptos: $177.6M)"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-sector_focus:
-  - crypto
-  - web3
-  - consumer
-  - gaming
-  - fintech
-  - health-tech
-team:
-  - name: Alexis Ohanian
-    role: Founder & General Partner
-    slug: alexis-ohanian
-  - name: Katelin Holloway
-    role: Founding Partner
-    slug: katelin-holloway
-  - name: Lissie Garvin
-    role: Founding Chief of Staff
-    slug: lissie-garvin
-status: published
+fund_size: '$900M+ AUM across 3 funds (Fund I: $150M, Fund II: $500M, Kryptos: $177.6M)'
 last_researched: 2026-03-19
+location: Austin, TX
+name: Seven Seven Six
+sector_focus:
+- crypto
+- web3
+- consumer
+- gaming
+- fintech
+- healthcare
+slug: seven-seven-six
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Alexis Ohanian
+  role: Founder & General Partner
+  slug: alexis-ohanian
+- name: Katelin Holloway
+  role: Founding Partner
+  slug: katelin-holloway
+- name: Lissie Garvin
+  role: Founding Chief of Staff
+  slug: lissie-garvin
+type: firm
+website: https://sevensevensix.com
 ---
 
 ## About

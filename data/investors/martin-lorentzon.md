@@ -1,28 +1,28 @@
 ---
-name: "Martin Lorentzon"
+check_size: undisclosed
+firm: ''
+last_researched: 2026-03-25
+last_verified_investment:
+  company: Zëiyt
+  date: 2025-04-03
+  round: Angel
+location: Stockholm, Sweden
+name: Martin Lorentzon
+role: Angel Investor / Co-Founder
+sector_focus:
+- consumer
+- healthcare
+- lifestyle
+- nordic-smid-cap
 slug: martin-lorentzon
-type: individual
-firm: ""
-role: "Angel Investor / Co-Founder"
-location: "Stockholm, Sweden"
+social:
+  twitter: '@MartinLorentzon'
 stage_focus:
 - angel
 - seed
 - growth
-sector_focus:
-- consumer
-- healthtech
-- lifestyle
-- nordic-smid-cap
-check_size: "undisclosed"
-last_verified_investment:
-  date: 2025-04-03
-  company: "Zëiyt"
-  round: "Angel"
-social:
-  twitter: "@MartinLorentzon"
 status: published
-last_researched: 2026-03-25
+type: individual
 ---
 
 ## Background

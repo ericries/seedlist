@@ -12,7 +12,7 @@ role: Founder & Managing General Partner
 sector_focus:
 - ai
 - fintech
-- enterprise-software
+- enterprise
 - developer-tools
 - open-source
 slug: ali-rowghani

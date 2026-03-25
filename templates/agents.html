@@ -130,7 +130,7 @@
 <section class="agents-section">
   <h2>Quick Start</h2>
   <p>All endpoints return static JSON. No API key needed. Fetch with curl, Python, or any HTTP client. Data is rebuilt daily; check <code>last_updated</code> field on the root object for freshness.</p>
-  <p><strong>Tip:</strong> For quick lookups by slug, use the lightweight <code>/investor-lookup.json</code> (~20KB). For full search/filter across all investors, use <code>/enrichment-index.json</code> (~260KB).</p>
+  <p><strong>Tip:</strong> For quick lookups by slug, use the lightweight <code>/investor-lookup.json</code> (~150KB). For full search/filter across all investors, use <code>/enrichment-index.json</code> (~400KB).</p>
 
   <h3>curl</h3>
 <pre><code>curl -s https://seedlist.com/enrichment-index.json | python3 -m json.tool | head -50</code></pre>
@@ -174,13 +174,13 @@ matches = [
       <tr>
         <td>Investor Index</td>
         <td><code>/enrichment-index.json</code></td>
-        <td>All investors and firms with stage, sector, check size, location, thesis summary (~260KB)</td>
+        <td>All investors and firms with stage, sector, check size, location, thesis summary (~400KB)</td>
         <td>Every build</td>
       </tr>
       <tr>
         <td>Investor Lookup</td>
         <td><code>/investor-lookup.json</code></td>
-        <td>Lightweight slug-keyed dictionary for O(1) investor lookups (~20KB)</td>
+        <td>Lightweight slug-keyed dictionary for O(1) investor lookups (~150KB)</td>
         <td>Every build</td>
       </tr>
       <tr>
@@ -402,7 +402,7 @@ cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
   <div class="schema-field"><code>thesis_summary</code> <span class="type">string</span> &mdash; First 200 chars of LLM-inferred thesis from portfolio analysis. May be truncated mid-sentence &mdash; prefer <code>tldr</code>.</div>
 
   <h3>Quick Lookup (investor-lookup.json)</h3>
-  <p>Lightweight slug-keyed dictionary for O(1) investor lookups. ~20KB vs ~260KB for the full index. Use when you know the investor slug and just need basic info.</p>
+  <p>Lightweight slug-keyed dictionary for O(1) investor lookups. ~150KB vs ~400KB for the full index. Use when you know the investor slug and just need basic info.</p>
   <div class="schema-field"><code>last_updated</code> <span class="type">string</span> &mdash; ISO 8601 timestamp of last build</div>
   <div class="schema-field"><code>count</code> <span class="type">number</span> &mdash; Total number of investors in the lookup</div>
   <div class="schema-field"><code>investors</code> <span class="type">object</span> &mdash; Slug-keyed dictionary. Each value:</div>
@@ -455,7 +455,7 @@ cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
   <h2>Data Notes</h2>
   <p>Edge cases and field-level details for robust integrations.</p>
   <ul>
-    <li><strong>Sectors are normalized lowercase strings.</strong> Use <code>tldr</code> for investor summaries (2-4 sentences, 95% populated) — prefer over <code>thesis_summary</code> which may truncate mid-sentence.</li>
+    <li><strong>Sectors are normalized lowercase strings</strong> — no near-duplicates. Direct string matching is safe. Use <code>tldr</code> for investor summaries (2-4 sentences, 95% populated) — prefer over <code>thesis_summary</code>.</li>
     <li><strong><code>firm</code> is a slug, <code>firm_name</code> is display.</strong> <code>firm_name</code> may be empty — fall back: <code>inv["firm_name"] or inv["firm"]</code></li>
     <li><strong><code>last_active</code> format varies</strong> — "2025-11-15", "2025-03", "~2022", or empty. String comparison works for recency: <code>inv["last_active"] >= "2024"</code></li>
     <li><strong><code>check_size</code> is human-readable</strong> — e.g., "$250K-$2M". Parse with regex for range comparison.</li>

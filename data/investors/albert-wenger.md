@@ -1,24 +1,38 @@
 ---
-name: "Albert Wenger"
-slug: albert-wenger
-type: individual
+check_size: $1M–$6M
 firm: union-square-ventures
-role: "Managing Partner"
-location: "New York, NY"
-stage_focus: [seed, series-a]
-sector_focus: [networks, marketplaces, developer-tools, education, fintech, crypto, climate, health]
-check_size: "$1M–$6M"
-last_verified_investment:
-  date: 2025-03
-  company: "Viam"
-  round: "Series C"
-social:
-  bluesky: "@albertwenger.bsky.social"
-  twitter: "@albertwenger"
-  linkedin: "linkedin.com/in/albertwenger"
-tldr: "Albert Wenger is a Managing Partner at Union Square Ventures, investing at seed and Series A with $1-6M checks. His portfolio concentrates in developer tools/infrastructure (30%) and education (25%), with a strong preference for API-first companies (Twilio, Firebase, Shippo) and technical repeat founders (MongoDB to Viam). He is the author of The World After Capital."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Viam
+  date: 2025-03
+  round: Series C
+location: New York, NY
+name: Albert Wenger
+role: Managing Partner
+sector_focus:
+- networks
+- marketplaces
+- developer-tools
+- education
+- fintech
+- crypto
+- climate
+- healthcare
+slug: albert-wenger
+social:
+  bluesky: '@albertwenger.bsky.social'
+  linkedin: linkedin.com/in/albertwenger
+  twitter: '@albertwenger'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Albert Wenger is a Managing Partner at Union Square Ventures, investing at seed
+  and Series A with $1-6M checks. His portfolio concentrates in developer tools/infrastructure
+  (30%) and education (25%), with a strong preference for API-first companies (Twilio,
+  Firebase, Shippo) and technical repeat founders (MongoDB to Viam). He is the author
+  of The World After Capital.
+type: individual
 ---
 
 ## Background

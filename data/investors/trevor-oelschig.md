@@ -1,22 +1,35 @@
 ---
-name: "Trevor Oelschig"
-slug: trevor-oelschig
-tldr: "Managing Director at General Catalyst (2016+), partner Bessemer (2007-2016), promoted to partner 2013. Invests $1M-$10M at seed/Series A/B/C in enterprise SaaS and developer tools. Bessemer exits include Shopify IPO, PagerDuty IPO, Instructure IPO, 2U IPO. UC Berkeley IE/OR, Stanford MSES, Wharton MBA. Seeks founders with 'intrinsic understanding of their business' who bring operational improvements and developer-focused products."
-type: individual
+check_size: $1M–$10M
 firm: general-catalyst
-role: "Managing Director"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, series-c]
-sector_focus: [enterprise-saas, developer-tools, infrastructure, edtech]
-check_size: "$1M–$10M"
-last_verified_investment:
-  date: 2020
-  company: "Buildkite"
-  round: "Series A"
-social:
-  linkedin: "linkedin.com/in/oelschig"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Buildkite
+  date: 2020
+  round: Series A
+location: San Francisco, CA
+name: Trevor Oelschig
+role: Managing Director
+sector_focus:
+- saas
+- developer-tools
+- infrastructure
+- edtech
+slug: trevor-oelschig
+social:
+  linkedin: linkedin.com/in/oelschig
+stage_focus:
+- seed
+- series-a
+- series-b
+- series-c
+status: published
+tldr: Managing Director at General Catalyst (2016+), partner Bessemer (2007-2016),
+  promoted to partner 2013. Invests $1M-$10M at seed/Series A/B/C in enterprise SaaS
+  and developer tools. Bessemer exits include Shopify IPO, PagerDuty IPO, Instructure
+  IPO, 2U IPO. UC Berkeley IE/OR, Stanford MSES, Wharton MBA. Seeks founders with
+  'intrinsic understanding of their business' who bring operational improvements and
+  developer-focused products.
+type: individual
 ---
 
 ## Background

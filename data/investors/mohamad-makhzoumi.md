@@ -1,22 +1,34 @@
 ---
-name: "Mohamad Makhzoumi"
-slug: mohamad-makhzoumi
-type: individual
+check_size: $2M-$50M
 firm: nea
-role: "Co-CEO"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [healthcare-services, healthcare-it, digital-health, value-based-care]
-check_size: "$2M-$50M"
-last_verified_investment:
-  date: 2025-09-09
-  company: "Strive Health"
-  round: "Series D"
-social:
-  linkedin: "linkedin.com/in/mohamad-makhzoumi-37368334"
-status: published
 last_researched: 2026-03-24
-tldr: "Co-CEO of NEA (leading healthcare practice). Co-founder of Strive Health ($550M Series D), Radiology Partners, Curana Health—venture studio model. Portfolio 100% healthcare: 55% provider platforms, 18% kidney care specialization (DSI, Strive, DaVita NephroLife, US Renal). Multistage $2M-$50M checks. Healthcare infrastructure thesis: 'administrative waste and boring healthcare problems.'"
+last_verified_investment:
+  company: Strive Health
+  date: 2025-09-09
+  round: Series D
+location: Menlo Park, CA
+name: Mohamad Makhzoumi
+role: Co-CEO
+sector_focus:
+- healthcare-services
+- healthcare-it
+- healthcare
+- value-based-care
+slug: mohamad-makhzoumi
+social:
+  linkedin: linkedin.com/in/mohamad-makhzoumi-37368334
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Co-CEO of NEA (leading healthcare practice). Co-founder of Strive Health ($550M
+  Series D), Radiology Partners, Curana Health—venture studio model. Portfolio 100%
+  healthcare: 55% provider platforms, 18% kidney care specialization (DSI, Strive,
+  DaVita NephroLife, US Renal). Multistage $2M-$50M checks. Healthcare infrastructure
+  thesis: ''administrative waste and boring healthcare problems.'''
+type: individual
 ---
 
 ## Background

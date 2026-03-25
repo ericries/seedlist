@@ -1,23 +1,34 @@
 ---
-name: "Rahul Vohra"
-slug: rahul-vohra
-type: individual
+check_size: $300K–$500K
 firm: todd-and-rahul-capital
-role: "Co-GP / Angel Investor"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [enterprise-saas, developer-tools, fintech, consumer, health-wellness]
-check_size: "$300K–$500K"
-last_verified_investment:
-  date: 2021
-  company: "Clubhouse"
-  round: "Early"
-social:
-  twitter: "@rahulvohra"
-  linkedin: "linkedin.com/in/rahulvohra"
-status: published
 last_researched: 2026-03-19
-tldr: "Co-GP of Todd & Rahul Capital ($50M+ deployed, 120+ companies). Pre-seed/seed angel with $300K-$500K checks. Superhuman founder known for rigorous product-market fit methodology. Portfolio 32% enterprise SaaS (Mercury, Clearbit, WorkOS), 16% developer tools, includes 3 unicorns (ClassDojo, Placer.ai). Founder-operator partner philosophy: LPs are 150+ founders."
+last_verified_investment:
+  company: Clubhouse
+  date: 2021
+  round: Early
+location: San Francisco, CA
+name: Rahul Vohra
+role: Co-GP / Angel Investor
+sector_focus:
+- saas
+- developer-tools
+- fintech
+- consumer
+- health-wellness
+slug: rahul-vohra
+social:
+  linkedin: linkedin.com/in/rahulvohra
+  twitter: '@rahulvohra'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Co-GP of Todd & Rahul Capital ($50M+ deployed, 120+ companies). Pre-seed/seed
+  angel with $300K-$500K checks. Superhuman founder known for rigorous product-market
+  fit methodology. Portfolio 32% enterprise SaaS (Mercury, Clearbit, WorkOS), 16%
+  developer tools, includes 3 unicorns (ClassDojo, Placer.ai). Founder-operator partner
+  philosophy: LPs are 150+ founders.'
+type: individual
 ---
 
 ## Background

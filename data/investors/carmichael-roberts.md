@@ -1,23 +1,39 @@
 ---
-name: "Carmichael Roberts"
-slug: carmichael-roberts
-type: individual
+check_size: $500K-$50M
 firm: breakthrough-energy-ventures
-role: "Managing Partner & Co-Lead, Investment Committee"
-location: "Boston, MA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [climate-tech, materials-science, clean-energy, sustainable-manufacturing, food-and-water, robotics, healthcare]
-check_size: "$500K-$50M"
-last_verified_investment:
-  date: 2025-08-28
-  company: "Commonwealth Fusion Systems"
-  round: "Series B2"
-social:
-  twitter: "@carmichaelvc"
-  linkedin: "linkedin.com/in/carmichaelsroberts"
-status: published
 last_researched: 2026-03-24
-tldr: "Carmichael Roberts is Managing Partner of Breakthrough Energy Ventures (Bill Gates' $2B+ climate fund) and co-founder of Material Impact ($800M+ AUM, 3 funds). His 34 Material Impact companies span sustainable manufacturing (24%), biomanufacturing (21%), transportation/mobility (15%), robotics/AI (12%). PhD organic chemist; serial entrepreneur with exits at GelTex (acquired by Genzyme for $1.3B) and multiple material science ventures. BEV invests where traditional VCs won't due to deep in-house scientific expertise."
+last_verified_investment:
+  company: Commonwealth Fusion Systems
+  date: 2025-08-28
+  round: Series B2
+location: Boston, MA
+name: Carmichael Roberts
+role: Managing Partner & Co-Lead, Investment Committee
+sector_focus:
+- climate
+- materials-science
+- sustainable-manufacturing
+- food-and-water
+- robotics
+- healthcare
+slug: carmichael-roberts
+social:
+  linkedin: linkedin.com/in/carmichaelsroberts
+  twitter: '@carmichaelvc'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Carmichael Roberts is Managing Partner of Breakthrough Energy Ventures (Bill
+  Gates' $2B+ climate fund) and co-founder of Material Impact ($800M+ AUM, 3 funds).
+  His 34 Material Impact companies span sustainable manufacturing (24%), biomanufacturing
+  (21%), transportation/mobility (15%), robotics/AI (12%). PhD organic chemist; serial
+  entrepreneur with exits at GelTex (acquired by Genzyme for $1.3B) and multiple material
+  science ventures. BEV invests where traditional VCs won't due to deep in-house scientific
+  expertise.
+type: individual
 ---
 
 ## Background

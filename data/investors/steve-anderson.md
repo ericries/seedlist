@@ -1,23 +1,36 @@
 ---
-name: "Steve Anderson"
-slug: steve-anderson
-tldr: "Founder of Baseline Ventures (2006), pioneering micro-VC. Invests $100K-$1M at pre-product stage; portfolio 34% enterprise SaaS (PagerDuty, Heroku, Expensify), 26% consumer (Instagram, Twitter, Path, Pocket), 9% fintech (SoFi). Known for rapid 30-minute decisions and network-driven sourcing from founders. Forbes #49 Most Powerful Businesspeople (2012); Midas List #2 (2016). Stitch Fix board member. Seattle native; worked Starbucks → eBay → Microsoft → KPCB before starting Baseline."
-type: individual
+check_size: $100K–$1M
 firm: baseline-ventures
-role: "Founder"
-location: "San Francisco Bay Area"
-stage_focus: [seed]
-sector_focus: [consumer-internet, enterprise-saas, fintech, developer-tools, e-commerce, social, gaming]
-check_size: "$100K–$1M"
-last_verified_investment:
-  date: "~2025"
-  company: "Rekord"
-  round: "Seed"
-social:
-  twitter: "@standers"
-  linkedin: "linkedin.com/in/steveatbaseline"
-status: published
 last_researched: 2026-03-14
+last_verified_investment:
+  company: Rekord
+  date: ~2025
+  round: Seed
+location: San Francisco Bay Area
+name: Steve Anderson
+role: Founder
+sector_focus:
+- consumer-internet
+- saas
+- fintech
+- developer-tools
+- e-commerce
+- social
+- gaming
+slug: steve-anderson
+social:
+  linkedin: linkedin.com/in/steveatbaseline
+  twitter: '@standers'
+stage_focus:
+- seed
+status: published
+tldr: 'Founder of Baseline Ventures (2006), pioneering micro-VC. Invests $100K-$1M
+  at pre-product stage; portfolio 34% enterprise SaaS (PagerDuty, Heroku, Expensify),
+  26% consumer (Instagram, Twitter, Path, Pocket), 9% fintech (SoFi). Known for rapid
+  30-minute decisions and network-driven sourcing from founders. Forbes #49 Most Powerful
+  Businesspeople (2012); Midas List #2 (2016). Stitch Fix board member. Seattle native;
+  worked Starbucks → eBay → Microsoft → KPCB before starting Baseline.'
+type: individual
 ---
 
 ## Background

@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Neil Mehta
 role: Founder & Managing Partner
 sector_focus:
-- enterprise-saas
+- saas
 - fintech
 - e-commerce
 - developer-tools

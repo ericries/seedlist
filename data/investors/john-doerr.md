@@ -1,23 +1,36 @@
 ---
-name: "John Doerr"
-slug: john-doerr
-tldr: "Chairman of Kleiner Perkins after 36+ years as GP backing Compaq, Amazon, Google, NetScape. Invests $10M-$150M+ (KP scale) plus personal checks at $10M for category-defining companies. Heavy climate focus post-2020. Popularized OKRs; authored bestsellers. Legendary VC operator across infrastructure eras."
-type: individual
+check_size: $10M–$150M (via Kleiner Perkins); $10M individual (e.g., Complete Solaria)
 firm: kleiner-perkins
-role: "Chairman"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, climate-tech, healthcare, consumer, education, ai-ml]
-check_size: "$10M–$150M (via Kleiner Perkins); $10M individual (e.g., Complete Solaria)"
-last_verified_investment:
-  date: 2025-11-03
-  company: "Hippocratic AI"
-  round: "Series C"
-social:
-  twitter: "@johndoerr"
-  linkedin: "linkedin.com/in/john-doerr-03248211"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Hippocratic AI
+  date: 2025-11-03
+  round: Series C
+location: Menlo Park, CA
+name: John Doerr
+role: Chairman
+sector_focus:
+- enterprise
+- climate
+- healthcare
+- consumer
+- education
+- ai-ml
+slug: john-doerr
+social:
+  linkedin: linkedin.com/in/john-doerr-03248211
+  twitter: '@johndoerr'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Chairman of Kleiner Perkins after 36+ years as GP backing Compaq, Amazon, Google,
+  NetScape. Invests $10M-$150M+ (KP scale) plus personal checks at $10M for category-defining
+  companies. Heavy climate focus post-2020. Popularized OKRs; authored bestsellers.
+  Legendary VC operator across infrastructure eras.
+type: individual
 ---
 
 ## Background

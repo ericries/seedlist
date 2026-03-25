@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Gordon Ritter
 role: Founder & General Partner
 sector_focus:
-- enterprise-saas
+- saas
 - cloud-infrastructure
 - ai
 - vertical-saas

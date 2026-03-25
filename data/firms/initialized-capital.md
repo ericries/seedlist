@@ -1,22 +1,22 @@
 ---
-name: Initialized Capital
-slug: initialized-capital
-type: firm
-website: https://initialized.com
-location: San Francisco, CA
 founded: 2012
-fund_size: "$700M (Fund VI, 2021); $3.2B+ total AUM"
-stage_focus:
-- pre-seed
-- seed
+fund_size: $700M (Fund VI, 2021); $3.2B+ total AUM
+last_researched: 2026-03-20
+location: San Francisco, CA
+name: Initialized Capital
 sector_focus:
-- enterprise-saas
+- saas
 - fintech
 - ai
 - consumer
 - crypto
 - healthcare
 - logistics
+slug: initialized-capital
+stage_focus:
+- pre-seed
+- seed
+status: published
 team:
 - name: Brett Gibson
   role: Managing Partner
@@ -42,8 +42,8 @@ team:
 - name: Harj Taggar
   role: Co-Founder (Former)
   slug: harj-taggar
-status: published
-last_researched: 2026-03-20
+type: firm
+website: https://initialized.com
 ---
 
 ## About

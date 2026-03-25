@@ -1,23 +1,36 @@
 ---
-name: "Alex Ferrara"
-slug: alex-ferrara
-tldr: "Partner at Bessemer Venture Partners, leads European investing from London office opened 2022. Technical background informs focus on B2B SaaS (33% of portfolio), cybersecurity (23%), and growing defense tech focus. Notable early investments: Shopify Series A 2010 ($85B+ exit), Pipedrive, BigID. Checks $500K-$100M at Series A and later."
-type: individual
+check_size: $500K-$100M
 firm: bessemer-venture-partners
-role: "Partner"
-location: "London, UK"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [saas, fintech, cybersecurity, defense-tech, robotics, cloud]
-check_size: "$500K-$100M"
-last_verified_investment:
-  date: 2025-11
-  company: "Tectonic Defense"
-  round: "Early"
-social:
-  twitter: "@eth0s"
-  linkedin: "linkedin.com/in/alexferrara"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Tectonic Defense
+  date: 2025-11
+  round: Early
+location: London, UK
+name: Alex Ferrara
+role: Partner
+sector_focus:
+- saas
+- fintech
+- cybersecurity
+- defense
+- robotics
+- cloud
+slug: alex-ferrara
+social:
+  linkedin: linkedin.com/in/alexferrara
+  twitter: '@eth0s'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Partner at Bessemer Venture Partners, leads European investing from London
+  office opened 2022. Technical background informs focus on B2B SaaS (33% of portfolio),
+  cybersecurity (23%), and growing defense tech focus. Notable early investments:
+  Shopify Series A 2010 ($85B+ exit), Pipedrive, BigID. Checks $500K-$100M at Series
+  A and later.'
+type: individual
 ---
 
 ## Background

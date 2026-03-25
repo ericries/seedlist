@@ -44,7 +44,7 @@ last_researched: 2026-03-24
 location: Austin, TX
 name: BigCommerce
 sector:
-- ecommerce
+- e-commerce
 - saas
 slug: bigcommerce
 stage_latest: IPO

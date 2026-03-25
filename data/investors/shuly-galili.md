@@ -1,23 +1,37 @@
 ---
-name: "Shuly Galili"
-slug: shuly-galili
-tldr: "Founding Partner of UpWest (2012), first-check investor in Israeli entrepreneurs entering U.S. market. Fund IV raised $70M (2021); total AUM ~$100M. Portfolio ~100+ Israeli startups with $20B+ aggregate value. 20% cybersecurity, 18% enterprise SaaS, 10% AI. Distinctive for sourcing 90% of deals from Israel; positions as 'cash rich, market access poor' broker. Founded California Israel Chamber of Commerce (2000-2010+), 100 Most Influential Israeli Hi-Tech (2015)."
-type: individual
+check_size: $250K-$4M
 firm: upwest
-role: "Founding Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [cybersecurity, enterprise-saas, ai, devops, digital-health, agritech, fintech]
-check_size: "$250K-$4M"
-last_verified_investment:
-  date: 2024
-  company: "Darwin"
-  round: "Seed"
-social:
-  twitter: "@shulygalili"
-  linkedin: "linkedin.com/in/shulygalili"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Darwin
+  date: 2024
+  round: Seed
+location: San Francisco, CA
+name: Shuly Galili
+role: Founding Partner
+sector_focus:
+- cybersecurity
+- saas
+- ai
+- devops
+- healthcare
+- agritech
+- fintech
+slug: shuly-galili
+social:
+  linkedin: linkedin.com/in/shulygalili
+  twitter: '@shulygalili'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Founding Partner of UpWest (2012), first-check investor in Israeli entrepreneurs
+  entering U.S. market. Fund IV raised $70M (2021); total AUM ~$100M. Portfolio ~100+
+  Israeli startups with $20B+ aggregate value. 20% cybersecurity, 18% enterprise SaaS,
+  10% AI. Distinctive for sourcing 90% of deals from Israel; positions as 'cash rich,
+  market access poor' broker. Founded California Israel Chamber of Commerce (2000-2010+),
+  100 Most Influential Israeli Hi-Tech (2015).
+type: individual
 ---
 
 ## Background
@@ -156,7 +170,7 @@ Despite Galili's stated 20% allocation to "IoT, healthcare IT, agriculture, dron
 **Shely Aronov, CEO (via UpWest website):**
 > "Being in Silicon Valley makes a huge difference... this is a place where people don't judge you for having massive dreams." [^17]
 
-*Note: All founder quotes above are sourced from the UpWest website and are firm-curated testimonials. No independently sourced founder testimonials specifically about Shuly Galili were found after dedicated searching across Twitter/X, podcast transcripts, and press coverage. LinkedIn recommendations exist but could not be verified verbatim from the public profile view [^18].*
+*Note: All founder quotes above are sourced from the UpWest website and are firm-curated testimonials. No independently sourced founder testimonials specifically about Shuly Galili were found after dedicated searching across Twitter/X, podcast transcripts, and press coverage. LinkedIn recommendations exist but could not be verified verbatim from the public profile view [^12].*
 
 ## Sources
 
@@ -194,4 +208,3 @@ Despite Galili's stated 20% allocation to "IoT, healthcare IT, agriculture, dron
 
 [^17]: UpWest, homepage founder testimonials, accessed March 2026. https://upwest.vc/
 
-[^18]: Shuly Galili LinkedIn profile, recommendations section, accessed March 2026. https://www.linkedin.com/in/shulygalili

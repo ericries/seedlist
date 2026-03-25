@@ -1,31 +1,34 @@
 ---
-name: Jim Breyer
-slug: jim-breyer
-tldr: "Founder of Breyer Capital and 44-year VC veteran (Kleiner Perkins since 1980). Backed Amazon, Google, Intuit, Compaq, and NetScape; shifted focus to AI and healthcare. Checks $1M-$25M+ via personal fund. Author of bestsellers on OKRs and climate; major Stanford donor ($1.1B)."
-type: individual
+check_size: $1M-$25M+
 firm: breyer-capital
-role: Founder & CEO
+last_researched: 2026-03-23
+last_verified_investment:
+  company: Harbor Health
+  date: 2025
+  round: Growth
 location: Austin, TX
-stage_focus:
-- seed
-- series-a
-- growth
+name: Jim Breyer
+role: Founder & CEO
 sector_focus:
 - artificial-intelligence
 - healthcare
 - fintech
 - media-entertainment
-- enterprise-software
-check_size: "$1M-$25M+"
-last_verified_investment:
-  date: 2025
-  company: Harbor Health
-  round: Growth
+- enterprise
+slug: jim-breyer
 social:
-  twitter: "@JimBreyer"
   linkedin: linkedin.com/in/jim-breyer-361900b2
+  twitter: '@JimBreyer'
+stage_focus:
+- seed
+- series-a
+- growth
 status: published
-last_researched: 2026-03-23
+tldr: Founder of Breyer Capital and 44-year VC veteran (Kleiner Perkins since 1980).
+  Backed Amazon, Google, Intuit, Compaq, and NetScape; shifted focus to AI and healthcare.
+  Checks $1M-$25M+ via personal fund. Author of bestsellers on OKRs and climate; major
+  Stanford donor ($1.1B).
+type: individual
 ---
 
 ## Background

@@ -11,20 +11,24 @@ name: Ron Conway
 role: Founder & Managing Partner
 sector_focus:
 - consumer-internet
-- enterprise-saas
+- saas
 - ai-ml
 - fintech
 - marketplaces
 - social
 - e-commerce
 slug: ron-conway
-tldr: "Prolific angel and SV Angel founder; 'People first, idea second, market third' thesis. Early Google, PayPal investor; ~300-company portfolio with focus on consumer-internet and enterprise SaaS. Known for founder advocacy and 'adding value is byproduct of making money.' Forbes Midas List #6 (2008). Seed-growth check sizes $25K-$20M across eras."
 social:
   twitter: '@RonConway'
 stage_focus:
 - seed
 - growth
 status: published
+tldr: 'Prolific angel and SV Angel founder; ''People first, idea second, market third''
+  thesis. Early Google, PayPal investor; ~300-company portfolio with focus on consumer-internet
+  and enterprise SaaS. Known for founder advocacy and ''adding value is byproduct
+  of making money.'' Forbes Midas List #6 (2008). Seed-growth check sizes $25K-$20M
+  across eras.'
 type: individual
 ---
 

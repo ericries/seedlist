@@ -1,23 +1,33 @@
 ---
-name: "Kareem Zaki"
-slug: kareem-zaki
-type: individual
+check_size: $1M-$50M
 firm: thrive-capital
-role: "General Partner"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [health-tech, fintech, enterprise, ai-ml]
-check_size: "$1M-$50M"
-last_verified_investment:
-  date: 2025-03
-  company: "Ramp"
-  round: "Secondary ($13B valuation)"
-social:
-  twitter: "@kareemszaki"
-  linkedin: "linkedin.com/in/kareemzaki"
-status: published
 last_researched: 2026-03-24
-tldr: "Thrive Capital GP investing $1M-$50M seed through growth in health tech, fintech, and AI. Led Robinhood and Ramp investments; scaled multiple healthcare companies; Forbes 30 Under 30 2018 in VC."
+last_verified_investment:
+  company: Ramp
+  date: 2025-03
+  round: Secondary ($13B valuation)
+location: New York, NY
+name: Kareem Zaki
+role: General Partner
+sector_focus:
+- healthcare
+- fintech
+- enterprise
+- ai-ml
+slug: kareem-zaki
+social:
+  linkedin: linkedin.com/in/kareemzaki
+  twitter: '@kareemszaki'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Thrive Capital GP investing $1M-$50M seed through growth in health tech, fintech,
+  and AI. Led Robinhood and Ramp investments; scaled multiple healthcare companies;
+  Forbes 30 Under 30 2018 in VC.
+type: individual
 ---
 
 ## Background

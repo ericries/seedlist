@@ -1,23 +1,35 @@
 ---
-name: "Amit Avner"
-slug: amit-avner
-tldr: "General Partner at Operator Partners, founder of Taykey (acquired by Innovid) and early Plaid investor (2013 seed). Backs fintech (22% of verified portfolio: Plaid, Unit, Ramp, Deel), healthtech (17%), and security (17%) with non-dilutive $250K-$1M checks at seed/Series A. Israel-based operator-focused fund with self-funded, no outside LPs model."
-type: individual
+check_size: $250K-$1M
 firm: operator-partners
-role: "General Partner"
-location: "Tel Aviv, Israel / New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [fintech, healthtech, developer-tools, enterprise-saas, cybersecurity]
-check_size: "$250K-$1M"
-last_verified_investment:
-  date: 2026-01
-  company: "Apella"
-  round: "Series B"
-social:
-  twitter: "@AmitAvner"
-  linkedin: "linkedin.com/in/amitavner"
-status: published
 last_researched: 2026-03-23
+last_verified_investment:
+  company: Apella
+  date: 2026-01
+  round: Series B
+location: Tel Aviv, Israel / New York, NY
+name: Amit Avner
+role: General Partner
+sector_focus:
+- fintech
+- healthcare
+- developer-tools
+- saas
+- cybersecurity
+slug: amit-avner
+social:
+  linkedin: linkedin.com/in/amitavner
+  twitter: '@AmitAvner'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'General Partner at Operator Partners, founder of Taykey (acquired by Innovid)
+  and early Plaid investor (2013 seed). Backs fintech (22% of verified portfolio:
+  Plaid, Unit, Ramp, Deel), healthtech (17%), and security (17%) with non-dilutive
+  $250K-$1M checks at seed/Series A. Israel-based operator-focused fund with self-funded,
+  no outside LPs model.'
+type: individual
 ---
 
 ## Background

@@ -5,7 +5,7 @@ last_researched: 2026-03-14
 location: New York, NY
 name: Tiger Global Management
 sector_focus:
-- enterprise-software
+- enterprise
 - consumer-internet
 - fintech
 - ai

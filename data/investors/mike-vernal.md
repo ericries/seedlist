@@ -11,7 +11,7 @@ name: Mike Vernal
 role: General Partner
 sector_focus:
 - ai
-- enterprise-software
+- enterprise
 - developer-tools
 - data-infrastructure
 slug: mike-vernal

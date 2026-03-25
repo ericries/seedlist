@@ -10,11 +10,11 @@ location: San Francisco, CA
 name: Marc Stad
 role: Founder & Managing Partner
 sector_focus:
-- software
+- enterprise
 - fintech
 - consumer-internet
 - ai
-- healthcare-tech
+- healthcare
 slug: marc-stad
 social:
   linkedin: linkedin.com/in/marc-stad

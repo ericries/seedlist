@@ -1,21 +1,34 @@
 ---
-name: "Matt Mullenweg"
-slug: matt-mullenweg
-type: individual
+check_size: $25K-$75K
 firm: audrey-capital
-role: "Founder and Principal"
-location: "Houston, Texas"
-stage_focus: [pre-seed, seed]
-sector_focus: [developer-tools, open-source, web-infrastructure, consumer, fintech, healthtech]
-check_size: "$25K-$75K"
-last_verified_investment:
-  date: 2025-11-13
-  company: "Scorbit"
-  round: "Seed"
-social:
-  twitter: "@photomatt"
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Scorbit
+  date: 2025-11-13
+  round: Seed
+location: Houston, Texas
+name: Matt Mullenweg
+role: Founder and Principal
+sector_focus:
+- developer-tools
+- open-source
+- web-infrastructure
+- consumer
+- fintech
+- healthcare
+slug: matt-mullenweg
+social:
+  twitter: '@photomatt'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Matt Mullenweg is the co-founder of WordPress and CEO of Automattic who angel
+  invests through Audrey Capital with $25K-75K checks at seed stage. His portfolio
+  strongly favors developer tools and open-source companies (GitLab, AppFlowy, Typekit,
+  SigNoz) alongside a secondary thread of consumer wellness investments (Calm, DailyBurn).
+  He served on GitLab's board through its IPO.
+type: individual
 ---
 
 ## Background

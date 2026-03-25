@@ -10,11 +10,11 @@ location: San Francisco, CA
 name: Bret Taylor
 role: Co-Founder & CEO
 sector_focus:
-- enterprise-software
+- enterprise
 - developer-tools
 - ai
 - open-source
-- climate-tech
+- climate
 slug: bret-taylor
 social:
   linkedin: linkedin.com/in/brettaylor

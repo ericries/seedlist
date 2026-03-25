@@ -1,25 +1,38 @@
 ---
-name: "Buckley Ventures"
-slug: buckley-ventures
-type: firm
-website: "https://www.buckleyventures.com"
-location: "San Francisco, CA; New York, NY"
 founded: 2019
-fund_size: "$1B+ AUM across multiple funds; Fund III: $337M (2022); Fund IV: $250M target (2024)"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [enterprise-software, developer-tools, ai, robotics, aerospace, healthcare, edtech, fintech, frontier-tech]
-team:
-  - slug: josh-buckley
-    role: "Founder & Managing Partner"
-    name: "Josh Buckley"
-  - slug: jonathan-choi-buckley
-    role: "Partner"
-    name: "Jonathan Choi"
-  - slug: paul-barnes-buckley
-    role: "Team Member"
-    name: "Paul Barnes"
-status: published
+fund_size: '$1B+ AUM across multiple funds; Fund III: $337M (2022); Fund IV: $250M
+  target (2024)'
 last_researched: 2026-03-24
+location: San Francisco, CA; New York, NY
+name: Buckley Ventures
+sector_focus:
+- enterprise
+- developer-tools
+- ai
+- robotics
+- aerospace
+- healthcare
+- edtech
+- fintech
+- frontier-tech
+slug: buckley-ventures
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Josh Buckley
+  role: Founder & Managing Partner
+  slug: josh-buckley
+- name: Jonathan Choi
+  role: Partner
+  slug: jonathan-choi-buckley
+- name: Paul Barnes
+  role: Team Member
+  slug: paul-barnes-buckley
+type: firm
+website: https://www.buckleyventures.com
 ---
 
 ## About

@@ -1,23 +1,32 @@
 ---
-name: "Liz Wessel"
-slug: liz-wessel
-tldr: "Partner at First Round Capital and Pathwright co-founder focused on pre-seed and seed AI, enterprise SaaS, fintech, healthcare. Checks $100K-$12M with emphasis on founder-product fit and mission-driven companies addressing underserved markets."
-type: individual
+check_size: $100K-$12M (First Round); smaller angel checks historically
 firm: first-round-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai-ml, enterprise-saas, fintech, healthcare, consumer]
-check_size: "$100K-$12M (First Round); smaller angel checks historically"
-last_verified_investment:
-  date: 2024-10
-  company: "Reducto"
-  round: "Seed"
-social:
-  twitter: "@lizwessel"
-  linkedin: "linkedin.com/in/elizabethwessel"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Reducto
+  date: 2024-10
+  round: Seed
+location: San Francisco, CA
+name: Liz Wessel
+role: Partner
+sector_focus:
+- ai-ml
+- saas
+- fintech
+- healthcare
+- consumer
+slug: liz-wessel
+social:
+  linkedin: linkedin.com/in/elizabethwessel
+  twitter: '@lizwessel'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Partner at First Round Capital and Pathwright co-founder focused on pre-seed
+  and seed AI, enterprise SaaS, fintech, healthcare. Checks $100K-$12M with emphasis
+  on founder-product fit and mission-driven companies addressing underserved markets.
+type: individual
 ---
 
 ## Background

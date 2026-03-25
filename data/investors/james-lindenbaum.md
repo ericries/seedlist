@@ -1,22 +1,33 @@
 ---
-name: "James Lindenbaum"
-slug: james-lindenbaum
-tldr: "Founding Partner at Heavybit focused on developer tools, infrastructure, and devops at pre-seed through Series A. Checks $500K-$5M for founders building essential tooling for engineers. Brings technical founder credibility from early Gumroad days; community-first approach to operator support."
-type: individual
+check_size: $500K-$5M
 firm: heavybit
-role: "Founding Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [developer-tools, enterprise-infrastructure, devops, cybersecurity, ai]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2025-10-21
-  company: "Bronto"
-  round: "Seed"
-social:
-  linkedin: "linkedin.com/in/jameslindenbaum"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Bronto
+  date: 2025-10-21
+  round: Seed
+location: San Francisco, CA
+name: James Lindenbaum
+role: Founding Partner
+sector_focus:
+- developer-tools
+- infrastructure
+- devops
+- cybersecurity
+- ai
+slug: james-lindenbaum
+social:
+  linkedin: linkedin.com/in/jameslindenbaum
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Founding Partner at Heavybit focused on developer tools, infrastructure, and
+  devops at pre-seed through Series A. Checks $500K-$5M for founders building essential
+  tooling for engineers. Brings technical founder credibility from early Gumroad days;
+  community-first approach to operator support.
+type: individual
 ---
 
 ## Background

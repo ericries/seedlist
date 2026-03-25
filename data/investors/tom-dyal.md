@@ -1,22 +1,34 @@
 ---
-name: "Tom Dyal"
-slug: tom-dyal
-tldr: "Founding Partner & MD at Redpoint Ventures (1999), built growth investing practice (2007+). Growth-stage investor ($100K-$50M) with 44% of portfolio in networking/infrastructure (StratumOne, NextG Networks, Qwilt), 19% cybersecurity (SentinelOne, Caspida). Ex-Bell Labs engineer, ex-Bay Networks product manager. Georgia Tech EE; seeks 'consumer phenomena' with strong execution. SentinelOne Series C $1.1B valuation example."
-type: individual
+check_size: $100K-$50M
 firm: redpoint-ventures
-role: "Managing Director & Founding Partner"
-location: "Menlo Park, CA"
-stage_focus: [growth, late-stage]
-sector_focus: [cybersecurity, consumer-internet, networking, infrastructure, software, mobile-gaming]
-check_size: "$100K-$50M"
-last_verified_investment:
-  date: 2017-01-25
-  company: "SentinelOne"
-  round: "Series C"
-social:
-  linkedin: "linkedin.com/in/tomdyal"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: SentinelOne
+  date: 2017-01-25
+  round: Series C
+location: Menlo Park, CA
+name: Tom Dyal
+role: Managing Director & Founding Partner
+sector_focus:
+- cybersecurity
+- consumer-internet
+- networking
+- infrastructure
+- enterprise
+- mobile-gaming
+slug: tom-dyal
+social:
+  linkedin: linkedin.com/in/tomdyal
+stage_focus:
+- growth
+- late-stage
+status: published
+tldr: Founding Partner & MD at Redpoint Ventures (1999), built growth investing practice
+  (2007+). Growth-stage investor ($100K-$50M) with 44% of portfolio in networking/infrastructure
+  (StratumOne, NextG Networks, Qwilt), 19% cybersecurity (SentinelOne, Caspida). Ex-Bell
+  Labs engineer, ex-Bay Networks product manager. Georgia Tech EE; seeks 'consumer
+  phenomena' with strong execution. SentinelOne Series C $1.1B valuation example.
+type: individual
 ---
 
 ## Background

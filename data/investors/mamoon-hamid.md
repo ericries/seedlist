@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Mamoon Hamid
 role: Partner
 sector_focus:
-- enterprise-software
+- enterprise
 - saas
 - ai
 - consumer

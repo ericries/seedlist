@@ -1,23 +1,34 @@
 ---
-name: "Jay Hoag"
-slug: jay-hoag
-tldr: "Co-Founder & Managing General Partner of TCV (Technology Crossover Ventures), a $24B+ growth equity firm founded 1995. Invests $30M-$400M in growth and late-stage companies across 350+ exits including 150+ IPOs. Netflix board member since 1999; Peloton independent Chair. 40+ year investor with traditional growth equity playbook."
-type: individual
+check_size: $30M-$400M
 firm: tcv
-role: "Co-Founder & Managing General Partner"
-location: "Menlo Park, CA"
-stage_focus: [growth, late-stage, crossover]
-sector_focus: [consumer-internet, fintech, enterprise-software, e-commerce, digital-media]
-check_size: "$30M-$400M"
-last_verified_investment:
-  date: 2026-03-03
-  company: "Grow Therapy"
-  round: "Growth"
-social:
-  twitter: ""
-  linkedin: "https://www.linkedin.com/in/jay-hoag-2815337/"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Grow Therapy
+  date: 2026-03-03
+  round: Growth
+location: Menlo Park, CA
+name: Jay Hoag
+role: Co-Founder & Managing General Partner
+sector_focus:
+- consumer-internet
+- fintech
+- enterprise
+- e-commerce
+- digital-media
+slug: jay-hoag
+social:
+  linkedin: https://www.linkedin.com/in/jay-hoag-2815337/
+  twitter: ''
+stage_focus:
+- growth
+- late-stage
+- crossover
+status: published
+tldr: Co-Founder & Managing General Partner of TCV (Technology Crossover Ventures),
+  a $24B+ growth equity firm founded 1995. Invests $30M-$400M in growth and late-stage
+  companies across 350+ exits including 150+ IPOs. Netflix board member since 1999;
+  Peloton independent Chair. 40+ year investor with traditional growth equity playbook.
+type: individual
 ---
 
 ## Background

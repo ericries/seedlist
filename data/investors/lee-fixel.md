@@ -1,18 +1,16 @@
 ---
-name: "Lee Fixel"
-slug: lee-fixel
-tldr: "Founder of Addition (post-Tiger Global) investing seed through growth in enterprise SaaS, fintech, AI, developer tools, cybersecurity. Brings Tiger-style conviction in high-growth founders with track record of founder-led execution and operational impact."
-type: individual
+check_size: $5M-$20M (early-stage); $30M-$200M (growth-stage)
 firm: addition
-role: "Founder & Managing Partner"
-location: "New York, NY"
-stage_focus:
-- seed
-- series-a
-- series-b
-- growth
+last_researched: 2026-03-24
+last_verified_investment:
+  company: Base Power
+  date: 2025-04
+  round: Series B
+location: New York, NY
+name: Lee Fixel
+role: Founder & Managing Partner
 sector_focus:
-- enterprise-saas
+- saas
 - fintech
 - ai-ml
 - developer-tools
@@ -20,15 +18,20 @@ sector_focus:
 - consumer-internet
 - logistics
 - energy
-check_size: "$5M-$20M (early-stage); $30M-$200M (growth-stage)"
-last_verified_investment:
-  date: 2025-04
-  company: "Base Power"
-  round: "Series B"
+slug: lee-fixel
 social:
-  linkedin: "linkedin.com/in/leefixel"
+  linkedin: linkedin.com/in/leefixel
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
 status: published
-last_researched: 2026-03-24
+tldr: Founder of Addition (post-Tiger Global) investing seed through growth in enterprise
+  SaaS, fintech, AI, developer tools, cybersecurity. Brings Tiger-style conviction
+  in high-growth founders with track record of founder-led execution and operational
+  impact.
+type: individual
 ---
 
 ## Background

@@ -11,7 +11,7 @@ sector_focus:
 - healthcare
 - fintech
 - biotech
-- climate-tech
+- climate
 - consumer
 - deep-tech
 - developer-tools

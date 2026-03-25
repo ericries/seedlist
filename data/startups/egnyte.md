@@ -27,7 +27,7 @@ last_researched: 2026-03-24
 location: Mountain View, California
 name: Egnyte
 sector:
-- enterprise-software
+- enterprise
 - cloud-storage
 - content-governance
 - cybersecurity

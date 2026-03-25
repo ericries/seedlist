@@ -1,23 +1,34 @@
 ---
-name: "Nick Hanauer"
-slug: nick-hanauer
-tldr: "Second Avenue Partners co-founder; early Amazon investor ($45K → $100M+). Seattle-based seed-Series A investor with 30% software/SaaS focus. Portfolio: aQuantive ($6.4B to Microsoft), Insitu ($400M to Boeing), Juno Therapeutics ($9B to Celgene). Values deep domain expertise; hands-on partner meeting weekly with CEOs. $500K-$3M checks."
-type: individual
+check_size: $500K-$3M
 firm: second-avenue-partners
-role: "Co-Founder & Partner"
-location: "Seattle, WA"
-stage_focus: [seed, series-a]
-sector_focus: [software, e-commerce, digital-media, cleantech, biotech, aerospace]
-check_size: "$500K-$3M"
-last_verified_investment:
-  date: 2021-11-19
-  company: "Knack"
-  round: "Series A"
-social:
-  twitter: "@NickHanauer"
-  linkedin: "linkedin.com/in/nick-hanauer-092ab82"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Knack
+  date: 2021-11-19
+  round: Series A
+location: Seattle, WA
+name: Nick Hanauer
+role: Co-Founder & Partner
+sector_focus:
+- enterprise
+- e-commerce
+- digital-media
+- climate
+- biotech
+- aerospace
+slug: nick-hanauer
+social:
+  linkedin: linkedin.com/in/nick-hanauer-092ab82
+  twitter: '@NickHanauer'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: 'Second Avenue Partners co-founder; early Amazon investor ($45K → $100M+). Seattle-based
+  seed-Series A investor with 30% software/SaaS focus. Portfolio: aQuantive ($6.4B
+  to Microsoft), Insitu ($400M to Boeing), Juno Therapeutics ($9B to Celgene). Values
+  deep domain expertise; hands-on partner meeting weekly with CEOs. $500K-$3M checks.'
+type: individual
 ---
 
 ## Background

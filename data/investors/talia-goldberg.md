@@ -11,7 +11,7 @@ name: Talia Goldberg
 role: Partner
 sector_focus:
 - ai
-- enterprise-software
+- enterprise
 - consumer
 - fintech
 - vertical-software

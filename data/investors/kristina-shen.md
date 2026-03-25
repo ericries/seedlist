@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Kristina Shen
 role: Co-Founder & Managing Partner
 sector_focus:
-- enterprise-saas
+- saas
 - fintech
 - developer-tools
 - infrastructure

@@ -1,28 +1,37 @@
 ---
-name: "Trucks Venture Capital"
-slug: trucks-venture-capital
-type: firm
-website: "https://www.trucks.vc"
-location: "San Francisco, CA"
 founded: 2016
-fund_size: "$70M (Fund 3, 2025); $52.5M (Fund 2, 2021)"
-stage_focus: [pre-seed, seed]
-sector_focus: [transportation, autonomous-vehicles, electric-vehicles, aviation, logistics, mobility, clean-energy]
-team:
-  - slug: reilly-brennan
-    role: "Founding General Partner"
-    name: "Reilly Brennan"
-  - slug: jeffrey-schox
-    role: "Founding Partner"
-    name: "Jeffrey Schox"
-  - slug: kathryn-schox
-    role: "Founding Partner"
-    name: "Kathryn Schox"
-  - slug: puneeth-meruva
-    role: "Partner"
-    name: "Puneeth Meruva"
-status: published
+fund_size: $70M (Fund 3, 2025); $52.5M (Fund 2, 2021)
 last_researched: 2026-03-24
+location: San Francisco, CA
+name: Trucks Venture Capital
+sector_focus:
+- transportation
+- autonomous-vehicles
+- electric-vehicles
+- aviation
+- logistics
+- mobility
+- climate
+slug: trucks-venture-capital
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Reilly Brennan
+  role: Founding General Partner
+  slug: reilly-brennan
+- name: Jeffrey Schox
+  role: Founding Partner
+  slug: jeffrey-schox
+- name: Kathryn Schox
+  role: Founding Partner
+  slug: kathryn-schox
+- name: Puneeth Meruva
+  role: Partner
+  slug: puneeth-meruva
+type: firm
+website: https://www.trucks.vc
 ---
 
 ## About

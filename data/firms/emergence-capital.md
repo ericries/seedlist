@@ -1,56 +1,56 @@
 ---
-name: "Emergence Capital"
-slug: emergence-capital
-type: firm
-website: "https://www.emcap.com"
-location: "San Francisco, CA"
 founded: 2003
-fund_size: "$1B (Fund VII, 2025); ~$3.3B total across 7 funds + 1 opportunity fund"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-sector_focus:
-  - enterprise-saas
-  - cloud
-  - ai
-  - b2b
-team:
-  - name: Gordon Ritter
-    role: Founder & General Partner
-    slug: gordon-ritter
-  - name: Kevin Spain
-    role: General Partner
-    slug: kevin-spain
-  - name: Santi Subotovsky
-    role: General Partner
-    slug: santi-subotovsky
-  - name: Joe Floyd
-    role: General Partner
-    slug: joe-floyd
-  - name: Jake Saper
-    role: General Partner
-    slug: jake-saper
-  - name: Lotti Siniscalco
-    role: General Partner
-    slug: lotti-siniscalco
-  - name: Yaz El-Baba
-    role: Partner
-    slug: yaz-el-baba
-  - name: David Dworsky
-    role: Principal
-    slug: david-dworsky
-  - name: Kyle Murphy
-    role: Principal
-    slug: kyle-murphy
-  - name: Jason Green
-    role: Founder & General Partner (Emeritus)
-    slug: jason-green-emergence
-  - name: Brian Jacobs
-    role: Founder & General Partner (Emeritus)
-    slug: brian-jacobs
-status: published
+fund_size: $1B (Fund VII, 2025); ~$3.3B total across 7 funds + 1 opportunity fund
 last_researched: 2026-03-19
+location: San Francisco, CA
+name: Emergence Capital
+sector_focus:
+- saas
+- cloud
+- ai
+- b2b
+slug: emergence-capital
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+team:
+- name: Gordon Ritter
+  role: Founder & General Partner
+  slug: gordon-ritter
+- name: Kevin Spain
+  role: General Partner
+  slug: kevin-spain
+- name: Santi Subotovsky
+  role: General Partner
+  slug: santi-subotovsky
+- name: Joe Floyd
+  role: General Partner
+  slug: joe-floyd
+- name: Jake Saper
+  role: General Partner
+  slug: jake-saper
+- name: Lotti Siniscalco
+  role: General Partner
+  slug: lotti-siniscalco
+- name: Yaz El-Baba
+  role: Partner
+  slug: yaz-el-baba
+- name: David Dworsky
+  role: Principal
+  slug: david-dworsky
+- name: Kyle Murphy
+  role: Principal
+  slug: kyle-murphy
+- name: Jason Green
+  role: Founder & General Partner (Emeritus)
+  slug: jason-green-emergence
+- name: Brian Jacobs
+  role: Founder & General Partner (Emeritus)
+  slug: brian-jacobs
+type: firm
+website: https://www.emcap.com
 ---
 
 ## About

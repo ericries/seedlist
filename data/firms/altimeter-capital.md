@@ -1,37 +1,47 @@
 ---
-name: "Altimeter Capital"
-slug: altimeter-capital
-type: firm
-website: "https://www.altimeter.com"
-location: "Menlo Park, CA / Boston, MA"
 founded: 2008
-fund_size: "$10.7B AUM (Q4 2025 SEC filing); seventh private venture fund"
-stage_focus: [growth, late-stage, crossover]
-sector_focus: [enterprise-software, cloud, ai, fintech, defense-tech, data-infrastructure, consumer-internet]
-team:
-  - slug: brad-gerstner
-    role: "Founder & CEO"
-    name: "Brad Gerstner"
-  - slug: jamin-ball
-    role: "Partner"
-    name: "Jamin Ball"
-  - slug: ram-woo
-    role: "Partner"
-    name: "Ram Woo"
-  - slug: pauline-yang
-    role: "Partner"
-    name: "Pauline Yang"
-  - slug: thomas-reiner
-    role: "Partner"
-    name: "Thomas Reiner"
-  - slug: erik-kriessmann
-    role: "Partner"
-    name: "Erik Kriessmann"
-  - slug: john-kiernan
-    role: "CFO & Partner"
-    name: "John Kiernan"
-status: published
+fund_size: $10.7B AUM (Q4 2025 SEC filing); seventh private venture fund
 last_researched: 2026-03-22
+location: Menlo Park, CA / Boston, MA
+name: Altimeter Capital
+sector_focus:
+- enterprise
+- cloud
+- ai
+- fintech
+- defense
+- data-infrastructure
+- consumer-internet
+slug: altimeter-capital
+stage_focus:
+- growth
+- late-stage
+- crossover
+status: published
+team:
+- name: Brad Gerstner
+  role: Founder & CEO
+  slug: brad-gerstner
+- name: Jamin Ball
+  role: Partner
+  slug: jamin-ball
+- name: Ram Woo
+  role: Partner
+  slug: ram-woo
+- name: Pauline Yang
+  role: Partner
+  slug: pauline-yang
+- name: Thomas Reiner
+  role: Partner
+  slug: thomas-reiner
+- name: Erik Kriessmann
+  role: Partner
+  slug: erik-kriessmann
+- name: John Kiernan
+  role: CFO & Partner
+  slug: john-kiernan
+type: firm
+website: https://www.altimeter.com
 ---
 
 ## About

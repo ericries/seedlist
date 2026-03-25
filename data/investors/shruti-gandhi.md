@@ -1,23 +1,36 @@
 ---
-name: "Shruti Gandhi"
-slug: shruti-gandhi
-tldr: "Founder of Array Ventures, solo GP managing ~$150M with 100+ investments and 20+ exits to Apple, PayPal, ServiceNow. Invests $250K-$3M at pre-seed/seed in enterprise deep tech, AI infrastructure, and developer tools. Self-taught immigrant coder from IBM; distinctive for thesis-driven approach requiring 'earned secret' insights from industry experience. Avoids 'AI for hype's sake'; seeks technical founders solving mission-critical (not discretionary) problems."
-type: individual
+check_size: $250K–$3M
 firm: array-ventures
-role: "Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [enterprise-saas, ai-ml, data-infrastructure, developer-tools, security, deeptech]
-check_size: "$250K–$3M"
-last_verified_investment:
-  date: "~2023"
-  company: "Wabi"
-  round: "Pre-seed"
-social:
-  twitter: "@atShruti"
-  linkedin: "linkedin.com/in/shrutigandhi"
-status: published
 last_researched: 2026-03-14
+last_verified_investment:
+  company: Wabi
+  date: ~2023
+  round: Pre-seed
+location: San Francisco, CA
+name: Shruti Gandhi
+role: Founder & General Partner
+sector_focus:
+- saas
+- ai-ml
+- data-infrastructure
+- developer-tools
+- cybersecurity
+- deep-tech
+slug: shruti-gandhi
+social:
+  linkedin: linkedin.com/in/shrutigandhi
+  twitter: '@atShruti'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Founder of Array Ventures, solo GP managing ~$150M with 100+ investments and
+  20+ exits to Apple, PayPal, ServiceNow. Invests $250K-$3M at pre-seed/seed in enterprise
+  deep tech, AI infrastructure, and developer tools. Self-taught immigrant coder from
+  IBM; distinctive for thesis-driven approach requiring 'earned secret' insights from
+  industry experience. Avoids 'AI for hype's sake'; seeks technical founders solving
+  mission-critical (not discretionary) problems.
+type: individual
 ---
 
 ## Background

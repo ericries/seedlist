@@ -15,7 +15,7 @@ sector_focus:
 - social-media
 - marketplaces
 - developer-tools
-- climate-tech
+- climate
 slug: chris-sacca
 social:
   linkedin: linkedin.com/in/chrissacca

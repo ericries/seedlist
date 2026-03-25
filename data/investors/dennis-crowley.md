@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@dens"
   linkedin: "linkedin.com/in/dpstyles"
+tldr: "Dennis Crowley is the co-founder of Foursquare and Dodgeball (acquired by Google) who angel invests $5K-50K checks in consumer/social products that connect people through physical proximity. His small portfolio includes Timehop, Gowalla, and Mozi. He is currently building BeeBot at Hopscotch Labs, an AirPods app for contextual audio about nearby places."
 status: published
 last_researched: 2026-03-25
 ---

@@ -1,29 +1,29 @@
 ---
+founded: 2011
+fund_size: $2.15B total AUM (as of June 2025)
+last_researched: 2026-03-20
+location: Palo Alto, CA
 name: Social Capital
+sector_focus:
+- deep-tech
+- ai
+- life-sciences
+- energy
+- creator-economy
+- enterprise
+- fintech
 slug: social-capital
+stage_focus:
+- seed
+- series-a
+- growth
+status: published
+team:
+- name: Chamath Palihapitiya
+  role: Founder & CEO
+  slug: chamath-palihapitiya
 type: firm
 website: https://www.socialcapital.com
-location: Palo Alto, CA
-founded: 2011
-fund_size: "$2.15B total AUM (as of June 2025)"
-stage_focus:
-  - seed
-  - series-a
-  - growth
-sector_focus:
-  - deep-tech
-  - ai
-  - life-sciences
-  - energy
-  - creator-economy
-  - enterprise-software
-  - fintech
-team:
-  - name: Chamath Palihapitiya
-    role: Founder & CEO
-    slug: chamath-palihapitiya
-status: published
-last_researched: 2026-03-20
 ---
 
 ## About

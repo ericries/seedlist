@@ -1,23 +1,37 @@
 ---
-name: "Zach Weinberg"
-slug: zach-weinberg
-tldr: "Co-founder & GP of Operator Partners; also co-founder & CEO of Curie.Bio (computational biology platform). Wharton economics (partnered with Nat Turner). Invests $250K-$1M at pre-seed/seed/Series A in healthtech, enterprise, fintech, developer tools, cybersecurity, biotech. Recent investment in Apella. New York based. Operator-investor hybrid with deep domain experience."
-type: individual
+check_size: $250K-$1M
 firm: operator-partners
-role: "Co-Founder & General Partner"
-location: "New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [healthtech, enterprise, fintech, developer-tools, cybersecurity, consumer, biotech]
-check_size: "$250K-$1M"
-last_verified_investment:
-  date: 2026-01
-  company: "Apella"
-  round: "Series B"
-social:
-  twitter: "@zachweinberg"
-  linkedin: "linkedin.com/in/zachweinberg"
-status: published
 last_researched: 2026-03-23
+last_verified_investment:
+  company: Apella
+  date: 2026-01
+  round: Series B
+location: New York, NY
+name: Zach Weinberg
+role: Co-Founder & General Partner
+sector_focus:
+- healthcare
+- enterprise
+- fintech
+- developer-tools
+- cybersecurity
+- consumer
+- biotech
+slug: zach-weinberg
+social:
+  linkedin: linkedin.com/in/zachweinberg
+  twitter: '@zachweinberg'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Co-founder & GP of Operator Partners; also co-founder & CEO of Curie.Bio (computational
+  biology platform). Wharton economics (partnered with Nat Turner). Invests $250K-$1M
+  at pre-seed/seed/Series A in healthtech, enterprise, fintech, developer tools, cybersecurity,
+  biotech. Recent investment in Apella. New York based. Operator-investor hybrid with
+  deep domain experience.
+type: individual
 ---
 
 ## Background

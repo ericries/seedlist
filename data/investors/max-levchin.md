@@ -13,7 +13,7 @@ sector_focus:
 - fintech
 - ai
 - payments
-- security
+- cybersecurity
 - biotech
 - marketplaces
 slug: max-levchin

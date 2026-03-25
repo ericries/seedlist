@@ -1,23 +1,35 @@
 ---
-name: "Jess Lee"
-slug: jess-lee
-tldr: "Partner at Sequoia Capital's seed/early-stage team and Polyvore CEO. Invests $1M-$10M in consumer, marketplaces, and future-of-work companies. First female investing partner at Sequoia in US (2016). Brings deep product intuition and founder empathy from leading Polyvore through hyper-growth and eventual acquisition."
-type: individual
+check_size: $1M-$10M
 firm: sequoia-capital
-role: "Partner"
-location: "Menlo Park, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [consumer, marketplaces, future-of-work, healthtech, enterprise-software, ai]
-check_size: "$1M-$10M"
-last_verified_investment:
-  date: 2025-03-05
-  company: "Freed"
-  round: "Series A"
-social:
-  twitter: "@jesskah"
-  linkedin: "linkedin.com/in/jesskah"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Freed
+  date: 2025-03-05
+  round: Series A
+location: Menlo Park, CA
+name: Jess Lee
+role: Partner
+sector_focus:
+- consumer
+- marketplaces
+- future-of-work
+- healthcare
+- enterprise
+- ai
+slug: jess-lee
+social:
+  linkedin: linkedin.com/in/jesskah
+  twitter: '@jesskah'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Partner at Sequoia Capital's seed/early-stage team and Polyvore CEO. Invests
+  $1M-$10M in consumer, marketplaces, and future-of-work companies. First female investing
+  partner at Sequoia in US (2016). Brings deep product intuition and founder empathy
+  from leading Polyvore through hyper-growth and eventual acquisition.
+type: individual
 ---
 
 ## Background

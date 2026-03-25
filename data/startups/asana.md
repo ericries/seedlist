@@ -42,7 +42,7 @@ location: San Francisco, CA
 name: Asana
 sector:
 - productivity
-- enterprise-saas
+- saas
 - collaboration
 - project-management
 slug: asana

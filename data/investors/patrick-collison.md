@@ -13,7 +13,7 @@ sector_focus:
 - developer-tools
 - ai
 - infrastructure
-- climate-tech
+- climate
 - robotics
 - biotech
 slug: patrick-collison

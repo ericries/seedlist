@@ -1,24 +1,24 @@
 ---
-name: Redpoint Ventures
-slug: redpoint-ventures
-type: firm
-website: https://www.redpoint.com
-location: Menlo Park, CA
 founded: 1999
-fund_size: "$650M (Fund X, 2025); ~$4.5B total AUM"
-stage_focus:
-- seed
-- series-a
-- series-b
-- growth
+fund_size: $650M (Fund X, 2025); ~$4.5B total AUM
+last_researched: 2026-03-20
+location: Menlo Park, CA
+name: Redpoint Ventures
 sector_focus:
-- enterprise-software
+- enterprise
 - infrastructure
 - fintech
 - consumer-internet
 - ai
 - cloud
 - healthcare
+slug: redpoint-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
 team:
 - name: Satish Dharmaraj
   role: Managing Director
@@ -65,8 +65,8 @@ team:
 - name: Urvashi Barooah
   role: Partner
   slug: urvashi-barooah
-status: published
-last_researched: 2026-03-20
+type: firm
+website: https://www.redpoint.com
 ---
 
 ## About

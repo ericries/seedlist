@@ -10,7 +10,7 @@ location: Menlo Park, CA
 name: Satish Dharmaraj
 role: Managing Director
 sector_focus:
-- enterprise-software
+- enterprise
 - cloud-infrastructure
 - saas
 - data

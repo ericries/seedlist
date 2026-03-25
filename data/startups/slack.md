@@ -118,7 +118,7 @@ last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack
 sector:
-- enterprise-saas
+- saas
 - collaboration
 - messaging
 - productivity

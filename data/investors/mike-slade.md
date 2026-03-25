@@ -1,30 +1,32 @@
 ---
-name: "Mike Slade"
-slug: mike-slade
-type: individual
+check_size: Not publicly disclosed
 firm: second-avenue-partners
-role: "Co-Founder & Partner"
-location: "Seattle, WA"
-stage_focus:
-  - seed
-  - series-a
-sector_focus:
-  - internet
-  - consumer
-  - media-entertainment
-  - software
-  - clean-energy
-check_size: "Not publicly disclosed"
-last_verified_investment:
-  date: 2022-12-01
-  company: "Cervest"
-  round: "Unknown"
-social:
-  twitter: "@mikeyslade"
-  linkedin: "linkedin.com/in/mikeyslade"
-status: published
 last_researched: 2026-03-21
-tldr: "Microsoft and Starwave veteran co-founder of Second Avenue Partners in Seattle. Hands-on mentor to early-stage founders in software, consumer internet, and clean energy; known for supporting founders over decades through multiple rounds."
+last_verified_investment:
+  company: Cervest
+  date: 2022-12-01
+  round: Unknown
+location: Seattle, WA
+name: Mike Slade
+role: Co-Founder & Partner
+sector_focus:
+- internet
+- consumer
+- media-entertainment
+- enterprise
+- climate
+slug: mike-slade
+social:
+  linkedin: linkedin.com/in/mikeyslade
+  twitter: '@mikeyslade'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Microsoft and Starwave veteran co-founder of Second Avenue Partners in Seattle.
+  Hands-on mentor to early-stage founders in software, consumer internet, and clean
+  energy; known for supporting founders over decades through multiple rounds.
+type: individual
 ---
 
 ## Background

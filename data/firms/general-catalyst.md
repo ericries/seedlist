@@ -1,58 +1,70 @@
 ---
-name: "General Catalyst"
-slug: general-catalyst
-type: firm
-website: "https://www.generalcatalyst.com"
-location: "Cambridge, MA"
 founded: 2000
-fund_size: "$8B (Fund XII, 2024); $4.6B (Fund XI, 2022)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-saas, ai-ml, healthcare, fintech, defense-tech, consumer-internet, industrials, climate-energy]
-team:
-  - slug: hemant-taneja
-    role: "CEO & Managing Director"
-    name: "Hemant Taneja"
-  - slug: joel-cutler
-    role: "Co-Founder & Managing Director"
-    name: "Joel Cutler"
-  - slug: david-fialkow
-    role: "Co-Founder & Managing Director"
-    name: "David Fialkow"
-  - slug: ken-chenault
-    role: "Chairman & Managing Director"
-    name: "Kenneth Chenault"
-  - slug: jeannette-zu-fuerstenberg
-    role: "President & Managing Director"
-    name: "Jeannette zu Fürstenberg"
-  - slug: neeraj-arora
-    role: "CEO India, MENA & Managing Director"
-    name: "Neeraj Arora"
-  - slug: pranav-singhvi
-    role: "Managing Director"
-    name: "Pranav Singhvi"
-  - slug: holly-maloney
-    role: "Managing Director"
-    name: "Holly Maloney"
-  - slug: quentin-clark
-    role: "Managing Director"
-    name: "Quentin Clark"
-  - slug: john-kim
-    role: "Managing Director"
-    name: "John Kim"
-  - slug: paul-kwan
-    role: "Managing Director"
-    name: "Paul Kwan"
-  - slug: trevor-oelschig
-    role: "Managing Director"
-    name: "Trevor Oelschig"
-  - slug: alex-tran
-    role: "Managing Director"
-    name: "Alex Tran"
-  - slug: larry-bohn
-    role: "Managing Director"
-    name: "Larry Bohn"
-status: published
+fund_size: $8B (Fund XII, 2024); $4.6B (Fund XI, 2022)
 last_researched: 2026-03-14
+location: Cambridge, MA
+name: General Catalyst
+sector_focus:
+- saas
+- ai-ml
+- healthcare
+- fintech
+- defense
+- consumer-internet
+- industrials
+- climate-energy
+slug: general-catalyst
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Hemant Taneja
+  role: CEO & Managing Director
+  slug: hemant-taneja
+- name: Joel Cutler
+  role: Co-Founder & Managing Director
+  slug: joel-cutler
+- name: David Fialkow
+  role: Co-Founder & Managing Director
+  slug: david-fialkow
+- name: Kenneth Chenault
+  role: Chairman & Managing Director
+  slug: ken-chenault
+- name: Jeannette zu Fürstenberg
+  role: President & Managing Director
+  slug: jeannette-zu-fuerstenberg
+- name: Neeraj Arora
+  role: CEO India, MENA & Managing Director
+  slug: neeraj-arora
+- name: Pranav Singhvi
+  role: Managing Director
+  slug: pranav-singhvi
+- name: Holly Maloney
+  role: Managing Director
+  slug: holly-maloney
+- name: Quentin Clark
+  role: Managing Director
+  slug: quentin-clark
+- name: John Kim
+  role: Managing Director
+  slug: john-kim
+- name: Paul Kwan
+  role: Managing Director
+  slug: paul-kwan
+- name: Trevor Oelschig
+  role: Managing Director
+  slug: trevor-oelschig
+- name: Alex Tran
+  role: Managing Director
+  slug: alex-tran
+- name: Larry Bohn
+  role: Managing Director
+  slug: larry-bohn
+type: firm
+website: https://www.generalcatalyst.com
 ---
 
 ## About

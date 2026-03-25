@@ -1,49 +1,49 @@
 ---
-name: Altos Ventures
-slug: altos-ventures
-type: firm
-website: "https://altos.vc"
-location: "Menlo Park, CA"
 founded: 1996
-fund_size: "$500M (latest fund, 2024); $10B+ regulatory AUM"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-  - growth
-sector_focus:
-  - enterprise-saas
-  - consumer
-  - e-commerce
-  - fintech
-  - gaming
-team:
-  - name: Ho Nam
-    role: Managing Director & Co-Founder
-    slug: ho-nam
-  - name: Han Kim
-    role: Managing Director & Co-Founder
-    slug: han-kim
-  - name: Anthony Lee
-    role: Managing Director & Co-Founder
-    slug: anthony-lee
-  - name: Brittany Hargest
-    role: Partner
-    slug: brittany-hargest
-  - name: Hee-Eun Park
-    role: Partner
-    slug: hee-eun-park
-  - name: Jim Dai
-    role: Partner
-    slug: jim-dai
-  - name: Moon-Suk Oh
-    role: Partner
-    slug: moon-suk-oh
-  - name: Richard Song
-    role: Partner
-    slug: richard-song
-status: published
+fund_size: $500M (latest fund, 2024); $10B+ regulatory AUM
 last_researched: 2026-03-24
+location: Menlo Park, CA
+name: Altos Ventures
+sector_focus:
+- saas
+- consumer
+- e-commerce
+- fintech
+- gaming
+slug: altos-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Ho Nam
+  role: Managing Director & Co-Founder
+  slug: ho-nam
+- name: Han Kim
+  role: Managing Director & Co-Founder
+  slug: han-kim
+- name: Anthony Lee
+  role: Managing Director & Co-Founder
+  slug: anthony-lee
+- name: Brittany Hargest
+  role: Partner
+  slug: brittany-hargest
+- name: Hee-Eun Park
+  role: Partner
+  slug: hee-eun-park
+- name: Jim Dai
+  role: Partner
+  slug: jim-dai
+- name: Moon-Suk Oh
+  role: Partner
+  slug: moon-suk-oh
+- name: Richard Song
+  role: Partner
+  slug: richard-song
+type: firm
+website: https://altos.vc
 ---
 
 ## About

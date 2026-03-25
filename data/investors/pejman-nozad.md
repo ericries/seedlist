@@ -1,23 +1,36 @@
 ---
-name: "Pejman Nozad"
-slug: pejman-nozad
-tldr: "Pear VC co-founder; Iranian immigrant founder (arrived with $700). Hosted University Ave networking events at Medallion Rug Gallery attracting Dropbox, Android creators. Forbes #1 Midas Seed List 2023-2025. Values domain expertise, team-building ability, founder character. 'Months of multi-hour dinners' before investing. Pre-seed/seed specialist. $250K-$6M checks."
-type: individual
+check_size: $250K-$6M
 firm: pear-vc
-role: "Co-Founder & Founding Managing Partner"
-location: "Atherton, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai-ml, enterprise-saas, fintech, healthcare, consumer, deep-tech, climate-tech]
-check_size: "$250K-$6M"
-last_verified_investment:
-  date: "~2023"
-  company: "Piston"
-  round: "Seed"
-social:
-  twitter: "@pejmannozad"
-  linkedin: "linkedin.com/in/pejman"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Piston
+  date: ~2023
+  round: Seed
+location: Atherton, CA
+name: Pejman Nozad
+role: Co-Founder & Founding Managing Partner
+sector_focus:
+- ai-ml
+- saas
+- fintech
+- healthcare
+- consumer
+- deep-tech
+- climate
+slug: pejman-nozad
+social:
+  linkedin: linkedin.com/in/pejman
+  twitter: '@pejmannozad'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Pear VC co-founder; Iranian immigrant founder (arrived with $700). Hosted University
+  Ave networking events at Medallion Rug Gallery attracting Dropbox, Android creators.
+  Forbes #1 Midas Seed List 2023-2025. Values domain expertise, team-building ability,
+  founder character. ''Months of multi-hour dinners'' before investing. Pre-seed/seed
+  specialist. $250K-$6M checks.'
+type: individual
 ---
 
 ## Background

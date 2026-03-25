@@ -10,10 +10,10 @@ location: Menlo Park, CA
 name: Tom Loverro
 role: General Partner
 sector_focus:
-- enterprise-software
+- enterprise
 - fintech
 - developer-tools
-- security
+- cybersecurity
 - ai
 slug: tom-loverro
 social:

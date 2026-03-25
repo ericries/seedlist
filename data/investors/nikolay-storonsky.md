@@ -1,23 +1,33 @@
 ---
-name: "Nikolay Storonsky"
-slug: nikolay-storonsky
-type: individual
+check_size: $5M avg
 firm: quantumlight
-role: "Founder"
-location: "London, UK"
-stage_focus: [series-a, series-b, growth]
-sector_focus: [ai, fintech, saas, healthtech, web3]
-check_size: "$5M avg"
-last_verified_investment:
-  date: 2025-12
-  company: "Fuse Energy"
-  round: "Series B"
-social:
-  twitter: "@nikolaystoronsky"
-  linkedin: "linkedin.com/in/nikolaystoronsky"
-status: published
 last_researched: 2026-03-19
-tldr: "Revolut founder and QuantumLight CEO running AI-powered systematic VC using proprietary Aleph algorithm to find 10x companies. Backs growth-stage AI, fintech, and SaaS globally with ~$5M average check; no deal approved without AI recommendation."
+last_verified_investment:
+  company: Fuse Energy
+  date: 2025-12
+  round: Series B
+location: London, UK
+name: Nikolay Storonsky
+role: Founder
+sector_focus:
+- ai
+- fintech
+- saas
+- healthcare
+- web3
+slug: nikolay-storonsky
+social:
+  linkedin: linkedin.com/in/nikolaystoronsky
+  twitter: '@nikolaystoronsky'
+stage_focus:
+- series-a
+- series-b
+- growth
+status: published
+tldr: Revolut founder and QuantumLight CEO running AI-powered systematic VC using
+  proprietary Aleph algorithm to find 10x companies. Backs growth-stage AI, fintech,
+  and SaaS globally with ~$5M average check; no deal approved without AI recommendation.
+type: individual
 ---
 
 ## Background

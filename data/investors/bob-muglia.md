@@ -22,6 +22,7 @@ stage_focus:
 - seed
 - series-a
 status: published
+tldr: "Bob Muglia is the former CEO of Snowflake and 23-year Microsoft veteran who angel invests exclusively in data infrastructure and AI companies. His 10 verified investments are 100% enterprise, with 60% in databases/data infrastructure (Fauna, Fivetran, RelationalAI) and the rest in AI/vector search (Pinecone) and data governance. He writes $5K-50K checks but takes unusually active board seats."
 type: individual
 ---
 

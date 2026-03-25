@@ -1,62 +1,62 @@
 ---
+founded: 2018
+fund_size: $2B+ total AUM (as of 2023)
+last_researched: 2026-03-20
+location: Jackson, WY
 name: Lowercarbon Capital
+sector_focus:
+- climate
+- energy
+- carbon-removal
+- transportation
+- industrial-materials
+- agriculture
+- fusion
 slug: lowercarbon-capital
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Chris Sacca
+  role: Managing Partner & Co-Founder
+  slug: chris-sacca
+- name: Crystal Sacca
+  role: Founding Partner
+  slug: crystal-sacca
+- name: Clay Dumas
+  role: General Partner
+  slug: clay-dumas
+- name: Ryan Orbuch
+  role: Partner
+  slug: ryan-orbuch
+- name: Shuo Yang
+  role: Partner
+  slug: shuo-yang
+- name: Shawn Xu
+  role: Partner
+  slug: shawn-xu
+- name: Caie Kelley
+  role: Partner
+  slug: caie-kelley
+- name: Lauren Faber O'Connor
+  role: Partner
+  slug: lauren-faber-oconnor
+- name: Scott C. Hsu
+  role: Fusion Partner
+  slug: scott-hsu
+- name: Duncan Carlson
+  role: Principal
+  slug: duncan-carlson
+- name: Eric Helfgott
+  role: Principal
+  slug: eric-helfgott
+- name: Sidney Brown
+  role: Principal
+  slug: sidney-brown-lc
 type: firm
 website: https://lowercarbon.com
-location: Jackson, WY
-founded: 2018
-fund_size: "$2B+ total AUM (as of 2023)"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-sector_focus:
-  - climate-tech
-  - energy
-  - carbon-removal
-  - transportation
-  - industrial-materials
-  - agriculture
-  - fusion
-team:
-  - name: Chris Sacca
-    role: Managing Partner & Co-Founder
-    slug: chris-sacca
-  - name: Crystal Sacca
-    role: Founding Partner
-    slug: crystal-sacca
-  - name: Clay Dumas
-    role: General Partner
-    slug: clay-dumas
-  - name: Ryan Orbuch
-    role: Partner
-    slug: ryan-orbuch
-  - name: Shuo Yang
-    role: Partner
-    slug: shuo-yang
-  - name: Shawn Xu
-    role: Partner
-    slug: shawn-xu
-  - name: Caie Kelley
-    role: Partner
-    slug: caie-kelley
-  - name: Lauren Faber O'Connor
-    role: Partner
-    slug: lauren-faber-oconnor
-  - name: Scott C. Hsu
-    role: Fusion Partner
-    slug: scott-hsu
-  - name: Duncan Carlson
-    role: Principal
-    slug: duncan-carlson
-  - name: Eric Helfgott
-    role: Principal
-    slug: eric-helfgott
-  - name: Sidney Brown
-    role: Principal
-    slug: sidney-brown-lc
-status: published
-last_researched: 2026-03-20
 ---
 
 ## About

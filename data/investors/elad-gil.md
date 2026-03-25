@@ -1,23 +1,38 @@
 ---
-name: "Elad Gil"
-slug: elad-gil
-tldr: "Solo-GP investor (Cosmic Aleph 3, $1.1B fund), author of High Growth Handbook, co-host No Priors podcast on AI. Portfolio of 41 verified investments (of ~190-314 total) skews 25% enterprise SaaS, 22% AI/ML, with major early bets in Figma, Airbnb, Stripe, Coinbase, Mistral AI. Backed 40+ unicorns; board member at Anduril, Navan, BioAge. Forbes Midas List 2025 (#87)."
-type: individual
-role: "Solo GP / Angel Investor"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a, series-b, growth]
-sector_focus: [ai-ml, enterprise-saas, fintech, developer-tools, biotech, defense]
+check_size: $250K–$20M
 firm: gil-capital
-check_size: "$250K–$20M"
-last_verified_investment:
-  date: 2026-03-18
-  company: "RunSybil"
-  round: "Series A"
-social:
-  twitter: "@eladgil"
-  linkedin: "linkedin.com/in/eladgil"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: RunSybil
+  date: 2026-03-18
+  round: Series A
+location: San Francisco, CA
+name: Elad Gil
+role: Solo GP / Angel Investor
+sector_focus:
+- ai-ml
+- saas
+- fintech
+- developer-tools
+- biotech
+- defense
+slug: elad-gil
+social:
+  linkedin: linkedin.com/in/eladgil
+  twitter: '@eladgil'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Solo-GP investor (Cosmic Aleph 3, $1.1B fund), author of High Growth Handbook,
+  co-host No Priors podcast on AI. Portfolio of 41 verified investments (of ~190-314
+  total) skews 25% enterprise SaaS, 22% AI/ML, with major early bets in Figma, Airbnb,
+  Stripe, Coinbase, Mistral AI. Backed 40+ unicorns; board member at Anduril, Navan,
+  BioAge. Forbes Midas List 2025 (#87).
+type: individual
 ---
 
 ## Background

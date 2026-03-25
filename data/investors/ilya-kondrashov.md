@@ -12,7 +12,7 @@ role: CEO & Co-Founder
 sector_focus:
 - fintech
 - ai
-- healthtech
+- healthcare
 - web3
 - saas
 slug: ilya-kondrashov

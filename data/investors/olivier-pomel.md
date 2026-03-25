@@ -13,7 +13,7 @@ sector_focus:
 - developer-tools
 - infrastructure
 - ai
-- security
+- cybersecurity
 - enterprise
 slug: olivier-pomel
 social:

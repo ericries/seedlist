@@ -12,7 +12,7 @@ role: Co-Founder, CEO & CIO
 sector_focus:
 - proptech
 - construction-tech
-- climate-tech
+- climate
 - real-estate
 slug: brendan-wallace
 social:
@@ -24,8 +24,13 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: Brendan Wallace is co-founder, CEO, and CIO of Fifth Wall, the largest proptech
+  VC firm managing $3.2B+ with 170 companies and 8 IPOs. His model leverages real
+  estate incumbents as LPs and portfolio company customers, creating powerful network
+  effects. Wallace positions proptech as existential for real estate; his portfolio
+  heavily focuses on construction tech, climate/energy, and built environment. Co-founded
+  Identified (acquired by Workday) and Cabify (Latin America's largest rideshare).
 type: individual
-tldr: "Brendan Wallace is co-founder, CEO, and CIO of Fifth Wall, the largest proptech VC firm managing $3.2B+ with 170 companies and 8 IPOs. His model leverages real estate incumbents as LPs and portfolio company customers, creating powerful network effects. Wallace positions proptech as existential for real estate; his portfolio heavily focuses on construction tech, climate/energy, and built environment. Co-founded Identified (acquired by Workday) and Cabify (Latin America's largest rideshare)."
 ---
 
 ## Background

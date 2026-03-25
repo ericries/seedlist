@@ -1,40 +1,51 @@
 ---
-name: "SV Angel"
-slug: sv-angel
-type: firm
-website: "https://svangel.com"
-location: "San Francisco, CA"
 founded: 2009
-fund_size: "$53M (Seed Fund VI, 2016); $269M (Growth Fund I, 2022); $330M (Growth Fund II, 2025)"
-stage_focus: [seed, growth]
-sector_focus: [enterprise-saas, consumer-internet, ai-ml, fintech, developer-tools, marketplaces, biotech, defense-tech]
-team:
-  - slug: ron-conway
-    role: "Founder & Managing Partner"
-    name: "Ron Conway"
-  - slug: topher-conway
-    role: "Managing Partner"
-    name: "Topher Conway"
-  - slug: ronny-conway
-    role: "Managing Partner"
-    name: "Ronny Conway"
-  - slug: ashvin-bachireddy
-    role: "Managing Partner, Growth"
-    name: "Ashvin Bachireddy"
-  - slug: mike-sho-liu
-    role: "General Partner"
-    name: "Mike Sho Liu"
-  - slug: andrea-wang
-    role: "General Partner"
-    name: "Andrea Wang"
-  - slug: sourav-gupta
-    role: "Principal"
-    name: "Sourav Gupta"
-  - slug: zachary-miller
-    role: "COO"
-    name: "Zachary Miller"
-status: published
+fund_size: $53M (Seed Fund VI, 2016); $269M (Growth Fund I, 2022); $330M (Growth Fund
+  II, 2025)
 last_researched: 2026-03-13
+location: San Francisco, CA
+name: SV Angel
+sector_focus:
+- saas
+- consumer-internet
+- ai-ml
+- fintech
+- developer-tools
+- marketplaces
+- biotech
+- defense
+slug: sv-angel
+stage_focus:
+- seed
+- growth
+status: published
+team:
+- name: Ron Conway
+  role: Founder & Managing Partner
+  slug: ron-conway
+- name: Topher Conway
+  role: Managing Partner
+  slug: topher-conway
+- name: Ronny Conway
+  role: Managing Partner
+  slug: ronny-conway
+- name: Ashvin Bachireddy
+  role: Managing Partner, Growth
+  slug: ashvin-bachireddy
+- name: Mike Sho Liu
+  role: General Partner
+  slug: mike-sho-liu
+- name: Andrea Wang
+  role: General Partner
+  slug: andrea-wang
+- name: Sourav Gupta
+  role: Principal
+  slug: sourav-gupta
+- name: Zachary Miller
+  role: COO
+  slug: zachary-miller
+type: firm
+website: https://svangel.com
 ---
 
 ## About

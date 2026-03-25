@@ -27,6 +27,7 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: "Diogo Monica is a General Partner at Haun Ventures and co-founder of Anchorage Digital, the first federally chartered crypto bank. His investments concentrate almost entirely (89%) in crypto/fintech infrastructure -- stablecoins, DeFi risk management, and banking infrastructure -- rather than consumer crypto. He previously built infrastructure security at Square and Docker."
 type: individual
 ---
 

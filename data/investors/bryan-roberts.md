@@ -1,31 +1,30 @@
 ---
-name: "Bryan Roberts"
-slug: bryan-roberts
-type: individual
+check_size: $2M-$40M
 firm: venrock
-role: "General Partner"
-location: "Palo Alto, CA"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-sector_focus:
-  - healthcare
-  - life-sciences
-  - genomics
-  - biotech
-  - health-it
-  - digital-health
-check_size: "$2M-$40M"
-last_verified_investment:
-  date: 2024-10
-  company: "Suki"
-  round: "Series D"
-social:
-  twitter: "@BRobertsVC"
-  linkedin: "linkedin.com/in/bryanrobertsvc"
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Suki
+  date: 2024-10
+  round: Series D
+location: Palo Alto, CA
+name: Bryan Roberts
+role: General Partner
+sector_focus:
+- healthcare
+- life-sciences
+- genomics
+- biotech
+- health-it
+slug: bryan-roberts
+social:
+  linkedin: linkedin.com/in/bryanrobertsvc
+  twitter: '@BRobertsVC'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+type: individual
 ---
 
 ## Background

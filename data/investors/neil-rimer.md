@@ -26,6 +26,7 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: "Neil Rimer co-founded Index Ventures in 1996 and was ranked the #1 VC in Europe by Forbes in 2017. His portfolio favors consumer platforms with network effects (32%) and fintech (20%), with a distinctly transatlantic footprint backing European founders when few VCs would. Blockbuster exits include Roblox, Supercell, Revolut, and Betfair/Flutter. He retired from active investing in 2021."
 type: individual
 ---
 

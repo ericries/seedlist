@@ -1,23 +1,36 @@
 ---
-name: "Gil Ben-Artzy"
-slug: gil-ben-artzy
-type: individual
+check_size: $250K-$4M
 firm: upwest
-role: "Founding Partner"
-location: "Palo Alto, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [cybersecurity, saas, ai, fintech, digital-health, agritech, devops, enterprise-infrastructure]
-check_size: "$250K-$4M"
-last_verified_investment:
-  date: 2024
-  company: "Darwin"
-  round: "Seed"
-social:
-  twitter: "@gilbenartzy"
-  linkedin: "linkedin.com/in/gilbenartzy"
-status: published
 last_researched: 2026-03-15
-tldr: "UpWest founding partner (100+ Israeli startups, $1.4B+ raised) investing $250K-$4M pre-seed/seed in Israeli founders entering US market. Cybersecurity dominance (20% of portfolio); helps founders establish US go-to-market while maintaining Israel R&D."
+last_verified_investment:
+  company: Darwin
+  date: 2024
+  round: Seed
+location: Palo Alto, CA
+name: Gil Ben-Artzy
+role: Founding Partner
+sector_focus:
+- cybersecurity
+- saas
+- ai
+- fintech
+- healthcare
+- agritech
+- devops
+- infrastructure
+slug: gil-ben-artzy
+social:
+  linkedin: linkedin.com/in/gilbenartzy
+  twitter: '@gilbenartzy'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: UpWest founding partner (100+ Israeli startups, $1.4B+ raised) investing $250K-$4M
+  pre-seed/seed in Israeli founders entering US market. Cybersecurity dominance (20%
+  of portfolio); helps founders establish US go-to-market while maintaining Israel
+  R&D.
+type: individual
 ---
 
 ## Background

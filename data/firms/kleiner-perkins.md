@@ -1,37 +1,48 @@
 ---
-name: "Kleiner Perkins"
-slug: kleiner-perkins
-type: firm
-website: "https://www.kleinerperkins.com"
-location: "Menlo Park, CA"
 founded: 1972
-fund_size: "$825M (KP21, 2024); $1.2B (Select III, 2024); $1.8B (KP20 + Select II, 2022)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, consumer, ai-ml, healthcare, fintech, hardtech]
-team:
-  - slug: mamoon-hamid
-    role: "Partner"
-    name: "Mamoon Hamid"
-  - slug: ilya-fushman
-    role: "Partner"
-    name: "Ilya Fushman"
-  - slug: leigh-marie-braswell
-    role: "Partner"
-    name: "Leigh Marie Braswell"
-  - slug: annie-case
-    role: "Partner"
-    name: "Annie Case"
-  - slug: josh-coyne
-    role: "Partner"
-    name: "Josh Coyne"
-  - slug: aditya-naganath
-    role: "Partner"
-    name: "Aditya Naganath"
-  - slug: john-doerr
-    role: "Chairman & Advisor"
-    name: "John Doerr"
-status: published
+fund_size: $825M (KP21, 2024); $1.2B (Select III, 2024); $1.8B (KP20 + Select II,
+  2022)
 last_researched: 2026-03-13
+location: Menlo Park, CA
+name: Kleiner Perkins
+sector_focus:
+- enterprise
+- consumer
+- ai-ml
+- healthcare
+- fintech
+- hard-tech
+slug: kleiner-perkins
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Mamoon Hamid
+  role: Partner
+  slug: mamoon-hamid
+- name: Ilya Fushman
+  role: Partner
+  slug: ilya-fushman
+- name: Leigh Marie Braswell
+  role: Partner
+  slug: leigh-marie-braswell
+- name: Annie Case
+  role: Partner
+  slug: annie-case
+- name: Josh Coyne
+  role: Partner
+  slug: josh-coyne
+- name: Aditya Naganath
+  role: Partner
+  slug: aditya-naganath
+- name: John Doerr
+  role: Chairman & Advisor
+  slug: john-doerr
+type: firm
+website: https://www.kleinerperkins.com
 ---
 
 ## About

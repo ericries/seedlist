@@ -12,7 +12,7 @@ role: Partner
 sector_focus:
 - ai
 - generative-ai
-- enterprise-software
+- enterprise
 - data-infrastructure
 - fintech
 slug: sonya-huang

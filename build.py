@@ -997,10 +997,18 @@ def build():
         "investors": {}
     }
     for inv in enrichment_index["investors"]:
+        # Truncate tldr to first sentence or 120 chars to keep file small
+        tldr = inv.get("tldr", "")
+        if tldr:
+            first_period = tldr.find(". ")
+            if first_period > 0 and first_period < 150:
+                tldr = tldr[:first_period + 1]
+            elif len(tldr) > 120:
+                tldr = tldr[:120].rsplit(" ", 1)[0] + "..."
         investor_lookup_data["investors"][inv["slug"]] = {
             "name": inv["name"],
             "firm": inv["firm_name"] or inv["firm"],
-            "tldr": inv.get("tldr", ""),
+            "tldr": tldr,
             "check_size": inv.get("check_size", ""),
             "stages": inv.get("stage_focus", []),
             "sectors": inv.get("sector_focus", []),

@@ -11,7 +11,7 @@ name: Shaherose Charania
 role: Partner
 sector_focus:
 - fintech
-- digital health
+- healthcare
 - consumer health
 - marketplaces
 - enterprise

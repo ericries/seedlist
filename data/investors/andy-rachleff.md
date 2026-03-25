@@ -1,23 +1,34 @@
 ---
-name: "Andy Rachleff"
-slug: andy-rachleff
-tldr: "Co-Founder of Benchmark Capital, coined 'product-market fit' in 2007. Angel investor $25K-$100K at seed/Series A. Former GP at Benchmark (Equinix, Juniper Networks, Opsware); now Executive Chairman of Wealthfront ($88B AUM). Stanford lecturer on product-market fit. Key thesis: market demand trumps team quality; emphasizes exponential organic growth as the PMF signal."
-type: individual
+check_size: $25K-$100K (angel); institutional at Benchmark
 firm: benchmark
-role: "Co-Founder (Emeritus)"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a]
-sector_focus: [enterprise-infrastructure, networking, internet, fintech, marketplaces]
-check_size: "$25K-$100K (angel); institutional at Benchmark"
-last_verified_investment:
-  date: 2025
-  company: "Arcade"
-  round: "Seed"
-social:
-  twitter: "@arachleff"
-  linkedin: "linkedin.com/in/rachleff"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Arcade
+  date: 2025
+  round: Seed
+location: Palo Alto, CA
+name: Andy Rachleff
+role: Co-Founder (Emeritus)
+sector_focus:
+- infrastructure
+- networking
+- internet
+- fintech
+- marketplaces
+slug: andy-rachleff
+social:
+  linkedin: linkedin.com/in/rachleff
+  twitter: '@arachleff'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: 'Co-Founder of Benchmark Capital, coined ''product-market fit'' in 2007. Angel
+  investor $25K-$100K at seed/Series A. Former GP at Benchmark (Equinix, Juniper Networks,
+  Opsware); now Executive Chairman of Wealthfront ($88B AUM). Stanford lecturer on
+  product-market fit. Key thesis: market demand trumps team quality; emphasizes exponential
+  organic growth as the PMF signal.'
+type: individual
 ---
 
 ## Background

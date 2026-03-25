@@ -1,34 +1,42 @@
 ---
-name: "Array Ventures"
-slug: array-ventures
-type: firm
-website: "https://www.array.vc"
-location: "San Francisco, CA"
 founded: 2016
-fund_size: "$7M (Fund I); subsequent fund sizes undisclosed"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [enterprise-software, ai, developer-tools, data-infrastructure, security]
-team:
-  - name: Shruti Gandhi
-    role: Founder & General Partner
-    slug: shruti-gandhi
-  - name: Elias Torres
-    role: Venture Partner
-    slug: elias-torres
-  - name: Katie Jansen
-    role: Venture Partner
-    slug: katie-jansen
-  - name: Rajas Date
-    role: Investment Analyst
-    slug: rajas-date
-  - name: Roy Scheer
-    role: GTM Expert
-    slug: roy-scheer
-  - name: Derek Ward
-    role: CFO
-    slug: derek-ward
-status: published
+fund_size: $7M (Fund I); subsequent fund sizes undisclosed
 last_researched: 2026-03-19
+location: San Francisco, CA
+name: Array Ventures
+sector_focus:
+- enterprise
+- ai
+- developer-tools
+- data-infrastructure
+- cybersecurity
+slug: array-ventures
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Shruti Gandhi
+  role: Founder & General Partner
+  slug: shruti-gandhi
+- name: Elias Torres
+  role: Venture Partner
+  slug: elias-torres
+- name: Katie Jansen
+  role: Venture Partner
+  slug: katie-jansen
+- name: Rajas Date
+  role: Investment Analyst
+  slug: rajas-date
+- name: Roy Scheer
+  role: GTM Expert
+  slug: roy-scheer
+- name: Derek Ward
+  role: CFO
+  slug: derek-ward
+type: firm
+website: https://www.array.vc
 ---
 
 ## About

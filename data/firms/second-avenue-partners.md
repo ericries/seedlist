@@ -1,25 +1,33 @@
 ---
-name: "Second Avenue Partners"
-slug: second-avenue-partners
-type: firm
-website: "https://www.secondave.com"
-location: "Seattle, WA"
 founded: 2000
-fund_size: "Undisclosed"
-stage_focus: [seed, series-a]
-sector_focus: [software, internet, consumer-media, clean-energy, agtech, industrial-tech]
-team:
-  - slug: nick-hanauer
-    role: "Founding Partner"
-    name: "Nick Hanauer"
-  - slug: pete-higgins
-    role: "Founding Partner"
-    name: "Pete Higgins"
-  - slug: mike-slade
-    role: "Founding Partner"
-    name: "Mike Slade"
-status: published
+fund_size: Undisclosed
 last_researched: 2026-03-23
+location: Seattle, WA
+name: Second Avenue Partners
+sector_focus:
+- enterprise
+- internet
+- consumer-media
+- climate
+- ag-tech
+- industrial-tech
+slug: second-avenue-partners
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- name: Nick Hanauer
+  role: Founding Partner
+  slug: nick-hanauer
+- name: Pete Higgins
+  role: Founding Partner
+  slug: pete-higgins
+- name: Mike Slade
+  role: Founding Partner
+  slug: mike-slade
+type: firm
+website: https://www.secondave.com
 ---
 
 ## About

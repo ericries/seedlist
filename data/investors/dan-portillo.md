@@ -13,7 +13,7 @@ sector_focus:
 - fintech
 - developer-tools
 - ai
-- security
+- cybersecurity
 - govtech
 - enterprise
 slug: dan-portillo

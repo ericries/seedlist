@@ -1,23 +1,35 @@
 ---
-name: "Lia Cromwell"
-slug: lia-cromwell
-type: individual
+check_size: $200K–$3M
 firm: upwest
-role: "Partner"
-location: "Tel Aviv, Israel"
-stage_focus: [pre-seed, seed]
-sector_focus: [cybersecurity, ai, fintech, digital-health, biotech, govtech, saas, developer-tools]
-check_size: "$200K–$3M"
-last_verified_investment:
-  date: 2023
-  company: "Ecton"
-  round: "Seed"
-social:
-  twitter: "@lmcromwell"
-  linkedin: "linkedin.com/in/liacromwell"
-status: published
 last_researched: 2026-03-16
-tldr: "UpWest partner backing Israeli founders building for the US market at pre-seed and seed stages. Expert at connecting founders to US customers and overcoming international founder disadvantages."
+last_verified_investment:
+  company: Ecton
+  date: 2023
+  round: Seed
+location: Tel Aviv, Israel
+name: Lia Cromwell
+role: Partner
+sector_focus:
+- cybersecurity
+- ai
+- fintech
+- healthcare
+- biotech
+- govtech
+- saas
+- developer-tools
+slug: lia-cromwell
+social:
+  linkedin: linkedin.com/in/liacromwell
+  twitter: '@lmcromwell'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: UpWest partner backing Israeli founders building for the US market at pre-seed
+  and seed stages. Expert at connecting founders to US customers and overcoming international
+  founder disadvantages.
+type: individual
 ---
 
 ## Background

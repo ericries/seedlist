@@ -1,23 +1,33 @@
 ---
-name: "Konstantin Othmer"
-slug: konstantin-othmer
-type: individual
+check_size: $10K-$50K
 firm: recursive-ventures
-role: "Ventures Partner"
-location: "Las Vegas, NV"
-stage_focus: [pre-seed, seed]
-sector_focus: [consumer-hardware, mobile, enterprise-software, dev-tools, healthtech, automotive]
-check_size: "$10K-$50K"
-last_verified_investment:
-  date: "~2024"
-  company: "Cloud DX"
-  round: "Board Advisor"
-social:
-  twitter: "@konikaze"
-  linkedin: "linkedin.com/in/konstantinothmer"
-status: published
 last_researched: 2026-03-15
-tldr: "Recursive Ventures partner and serial founder investing $10K-$50K in pre-seed/seed hardware, mobile, and dev tools. Apple alumni (QuickDraw creator); invested in Tesla, Ring, Canva; 46+ startup bets."
+last_verified_investment:
+  company: Cloud DX
+  date: ~2024
+  round: Board Advisor
+location: Las Vegas, NV
+name: Konstantin Othmer
+role: Ventures Partner
+sector_focus:
+- consumer-hardware
+- mobile
+- enterprise
+- dev-tools
+- healthcare
+- automotive
+slug: konstantin-othmer
+social:
+  linkedin: linkedin.com/in/konstantinothmer
+  twitter: '@konikaze'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Recursive Ventures partner and serial founder investing $10K-$50K in pre-seed/seed
+  hardware, mobile, and dev tools. Apple alumni (QuickDraw creator); invested in Tesla,
+  Ring, Canva; 46+ startup bets.
+type: individual
 ---
 
 ## Background

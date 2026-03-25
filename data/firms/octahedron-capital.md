@@ -9,7 +9,7 @@ sector_focus:
 - internet
 - fintech
 - e-commerce
-- enterprise-software
+- enterprise
 - ai
 - payments
 slug: octahedron-capital

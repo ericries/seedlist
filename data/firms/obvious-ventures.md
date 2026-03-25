@@ -7,7 +7,7 @@ location: San Francisco, CA
 name: Obvious Ventures
 sector_focus:
 - climate
-- healthtech
+- healthcare
 - fintech
 - ai
 - energy

@@ -13,7 +13,7 @@ sector_focus:
 - developer-tools
 - infrastructure
 - open-source
-- security
+- cybersecurity
 - ai
 slug: erica-brescia
 social:

@@ -45,7 +45,7 @@ last_researched: 2026-03-24
 location: San Mateo, CA
 name: SnapLogic
 sector:
-- enterprise-software
+- enterprise
 - data-integration
 - ipaas
 slug: snaplogic

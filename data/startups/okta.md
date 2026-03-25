@@ -57,7 +57,7 @@ location: San Francisco, CA
 name: Okta
 sector:
 - identity-management
-- enterprise-saas
+- saas
 - cloud-security
 - cybersecurity
 slug: okta

@@ -1,22 +1,32 @@
 ---
-name: "Dan Scheinman"
-slug: dan-scheinman
-tldr: "Silicon Valley angel investor and former Cisco General Counsel. Portfolio of 20 verified investments (of ~87 claimed) is 35% enterprise software, 25% cybersecurity, with preference for experienced founders 35+. Most famous for Zoom's $250K seed investment (2,800x return), plus IPO-backed exits in SentinelOne, Arista Networks, and Rubrik. Known for 'boring is beautiful' enterprise infrastructure approach."
-type: individual
+check_size: $50K-$250K
 firm: independent
-role: "Founder, Scheinman Angel Fund"
-location: "San Francisco Bay Area, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [enterprise-software, cybersecurity, cloud-infrastructure, data-analytics]
-check_size: "$50K-$250K"
-last_verified_investment:
-  date: 2020-08
-  company: "Ariksa"
-  round: "Angel"
-social:
-  linkedin: "linkedin.com/in/danscheinman"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Ariksa
+  date: 2020-08
+  round: Angel
+location: San Francisco Bay Area, CA
+name: Dan Scheinman
+role: Founder, Scheinman Angel Fund
+sector_focus:
+- enterprise
+- cybersecurity
+- cloud-infrastructure
+- data-analytics
+slug: dan-scheinman
+social:
+  linkedin: linkedin.com/in/danscheinman
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Silicon Valley angel investor and former Cisco General Counsel. Portfolio of
+  20 verified investments (of ~87 claimed) is 35% enterprise software, 25% cybersecurity,
+  with preference for experienced founders 35+. Most famous for Zoom's $250K seed
+  investment (2,800x return), plus IPO-backed exits in SentinelOne, Arista Networks,
+  and Rubrik. Known for 'boring is beautiful' enterprise infrastructure approach.
+type: individual
 ---
 
 ## Background

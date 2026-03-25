@@ -1,28 +1,37 @@
 ---
-name: "SciFi VC"
-slug: scifi-vc
-type: firm
-website: "https://scifi.vc"
-location: "San Francisco, CA"
 founded: 2017
-fund_size: "Undisclosed"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [fintech, ai, deeptech, healthcare, marketplaces, science]
-team:
-  - slug: max-levchin
-    role: "Founder & General Partner"
-    name: "Max Levchin"
-  - slug: nellie-levchin
-    role: "Partner"
-    name: "Nellie Levchin"
-  - slug: brooks-hosfield
-    role: "Partner"
-    name: "Brooks Hosfield"
-  - slug: matt-therian
-    role: "Partner, Finance & Operations"
-    name: "Matt Therian"
-status: published
+fund_size: Undisclosed
 last_researched: 2026-03-24
+location: San Francisco, CA
+name: SciFi VC
+sector_focus:
+- fintech
+- ai
+- deep-tech
+- healthcare
+- marketplaces
+- science
+slug: scifi-vc
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Max Levchin
+  role: Founder & General Partner
+  slug: max-levchin
+- name: Nellie Levchin
+  role: Partner
+  slug: nellie-levchin
+- name: Brooks Hosfield
+  role: Partner
+  slug: brooks-hosfield
+- name: Matt Therian
+  role: Partner, Finance & Operations
+  slug: matt-therian
+type: firm
+website: https://scifi.vc
 ---
 
 ## About

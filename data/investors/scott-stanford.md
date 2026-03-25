@@ -13,7 +13,7 @@ sector_focus:
 - deep-tech
 - aerospace
 - quantum-computing
-- healthtech
+- healthcare
 - fintech
 - consumer
 - web3
@@ -25,6 +25,11 @@ stage_focus:
 - seed
 - series-a
 status: published
+tldr: Scott Stanford is Co-Founder and Partner of ACME Capital (formerly Sherpa Capital),
+  investing at late seed and Series A with $5-10M checks across a deliberately broad
+  'off-Broadway' sector mix. His portfolio clusters in healthtech/digital health (30%),
+  deep tech/aerospace/quantum (20%), and fintech (15%). Notable investments include
+  Robinhood, IonQ, Astra, and Cue Health.
 type: individual
 ---
 

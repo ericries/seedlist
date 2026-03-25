@@ -1,23 +1,37 @@
 ---
-name: "Shardul Shah"
-slug: shardul-shah
-tldr: "Partner at Index Ventures (since 2008), 50% of verified portfolio in cybersecurity including Wiz (Google acquisition $32B), Datadog (NASDAQ), Duo Security (Cisco acquisition). AI is 25% of portfolio (Augment, Cartesia, Parallel, Twelve Labs). Conviction-based repeat founder backer—followed Wiz founders across two companies (Adallom → Wiz). Invests across seed to growth ($100K-$50M). Forbes Midas List multiple years; distinctive for Israeli cybersecurity ecosystem focus."
-type: individual
+check_size: $100K-$50M
 firm: index-ventures
-role: "Partner"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [cybersecurity, ai, enterprise-software, infrastructure, cloud]
-check_size: "$100K-$50M"
-last_verified_investment:
-  date: 2025
-  company: "7AI"
-  round: "Series A"
-social:
-  twitter: "@shardulshah"
-  linkedin: "linkedin.com/in/shardul-shah-3589062"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: 7AI
+  date: 2025
+  round: Series A
+location: New York, NY
+name: Shardul Shah
+role: Partner
+sector_focus:
+- cybersecurity
+- ai
+- enterprise
+- infrastructure
+- cloud
+slug: shardul-shah
+social:
+  linkedin: linkedin.com/in/shardul-shah-3589062
+  twitter: '@shardulshah'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Partner at Index Ventures (since 2008), 50% of verified portfolio in cybersecurity
+  including Wiz (Google acquisition $32B), Datadog (NASDAQ), Duo Security (Cisco acquisition).
+  AI is 25% of portfolio (Augment, Cartesia, Parallel, Twelve Labs). Conviction-based
+  repeat founder backer—followed Wiz founders across two companies (Adallom → Wiz).
+  Invests across seed to growth ($100K-$50M). Forbes Midas List multiple years; distinctive
+  for Israeli cybersecurity ecosystem focus.
+type: individual
 ---
 
 ## Background

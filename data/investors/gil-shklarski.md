@@ -1,23 +1,33 @@
 ---
-name: "Gil Shklarski"
-slug: gil-shklarski
-type: individual
+check_size: $250K-$500K
 firm: operator-partners
-role: "General Partner"
-location: "New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [healthtech, cybersecurity, developer-tools, enterprise-saas, fintech]
-check_size: "$250K-$500K"
-last_verified_investment:
-  date: 2025-06
-  company: "Crosby"
-  round: "Seed"
-social:
-  twitter: "@shklarski"
-  linkedin: "linkedin.com/in/shklarski"
-status: published
 last_researched: 2026-03-24
-tldr: "Operator Partners co-founder investing $250K-$500K pre-seed/seed with zero outside LPs. Ex-Flatiron Health CTO; focuses on healthtech, cybersecurity, and developer tools with 55% Israeli-founded portfolio and minimal board involvement."
+last_verified_investment:
+  company: Crosby
+  date: 2025-06
+  round: Seed
+location: New York, NY
+name: Gil Shklarski
+role: General Partner
+sector_focus:
+- healthcare
+- cybersecurity
+- developer-tools
+- saas
+- fintech
+slug: gil-shklarski
+social:
+  linkedin: linkedin.com/in/shklarski
+  twitter: '@shklarski'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Operator Partners co-founder investing $250K-$500K pre-seed/seed with zero outside
+  LPs. Ex-Flatiron Health CTO; focuses on healthtech, cybersecurity, and developer
+  tools with 55% Israeli-founded portfolio and minimal board involvement.
+type: individual
 ---
 
 ## Background

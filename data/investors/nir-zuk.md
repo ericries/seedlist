@@ -1,23 +1,33 @@
 ---
-name: "Nir Zuk"
-slug: nir-zuk
-tldr: "Palo Alto Networks founder/CTO (retired Aug 2025, $120B+ market cap). Israeli entrepreneur investing ~$150M in local startups since 2020. Focus: fintech, healthtech, defense tech (avoids cybersecurity conflicts). Thesis: 'A-team with C-plan beats C-team with A-plan.' Founder of Cylake (AI data sovereignty, $45M seed). $5M-$50M checks."
-type: individual
+check_size: $5M-$50M
 firm: palo-alto-networks
-role: "Founder & CTO (retired August 2025)"
-location: "Tel Aviv, Israel"
-stage_focus: [seed]
-sector_focus: [fintech, healthtech, defense-tech, cybersecurity, transportation]
-check_size: "$5M-$50M"
-last_verified_investment:
-  date: 2026-03-05
-  company: "Cylake"
-  round: "Seed"
-social:
-  twitter: "@nirzuk"
-  linkedin: "linkedin.com/in/nir-zuk"
-status: published
 last_researched: 2026-03-22
+last_verified_investment:
+  company: Cylake
+  date: 2026-03-05
+  round: Seed
+location: Tel Aviv, Israel
+name: Nir Zuk
+role: Founder & CTO (retired August 2025)
+sector_focus:
+- fintech
+- healthcare
+- defense
+- cybersecurity
+- transportation
+slug: nir-zuk
+social:
+  linkedin: linkedin.com/in/nir-zuk
+  twitter: '@nirzuk'
+stage_focus:
+- seed
+status: published
+tldr: 'Palo Alto Networks founder/CTO (retired Aug 2025, $120B+ market cap). Israeli
+  entrepreneur investing ~$150M in local startups since 2020. Focus: fintech, healthtech,
+  defense tech (avoids cybersecurity conflicts). Thesis: ''A-team with C-plan beats
+  C-team with A-plan.'' Founder of Cylake (AI data sovereignty, $45M seed). $5M-$50M
+  checks.'
+type: individual
 ---
 
 ## Background

@@ -65,7 +65,7 @@ name: Personio
 sector:
 - hr-tech
 - saas
-- enterprise-software
+- enterprise
 slug: personio
 stage_latest: Series E
 status: published

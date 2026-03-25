@@ -12,7 +12,7 @@ role: Co-Founder
 sector_focus:
 - ai
 - conversational-ai
-- enterprise-software
+- enterprise
 slug: clay-bavor
 social:
   linkedin: linkedin.com/in/claybavor

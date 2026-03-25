@@ -1,23 +1,34 @@
 ---
-name: "Miles Grimshaw"
-slug: miles-grimshaw
-type: individual
+check_size: $1M-$15M
 firm: thrive-capital
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [developer-tools, enterprise-software, ai, life-sciences, fintech, consumer]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2025-01
-  company: "Anysphere (Cursor)"
-  round: "Series B"
-social:
-  twitter: "@milesgrimshaw"
-  linkedin: "linkedin.com/in/milesgrimshaw"
-status: published
 last_researched: 2026-03-16
-tldr: "Thrive/Benchmark GP backing platform companies solving hard technical problems before markets are obvious. Known for 'biological' approach to product DNA and investing in small, fast-growing markets; led LangChain, Glide, Cursor rounds."
+last_verified_investment:
+  company: Anysphere (Cursor)
+  date: 2025-01
+  round: Series B
+location: San Francisco, CA
+name: Miles Grimshaw
+role: General Partner
+sector_focus:
+- developer-tools
+- enterprise
+- ai
+- life-sciences
+- fintech
+- consumer
+slug: miles-grimshaw
+social:
+  linkedin: linkedin.com/in/milesgrimshaw
+  twitter: '@milesgrimshaw'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Thrive/Benchmark GP backing platform companies solving hard technical problems
+  before markets are obvious. Known for 'biological' approach to product DNA and investing
+  in small, fast-growing markets; led LangChain, Glide, Cursor rounds.
+type: individual
 ---
 
 ## Background

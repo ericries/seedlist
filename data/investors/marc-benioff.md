@@ -11,7 +11,7 @@ name: Marc Benioff
 role: Founder
 sector_focus:
 - enterprise
-- climate-tech
+- climate
 - healthcare
 - ai
 - fintech

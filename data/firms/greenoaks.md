@@ -1,34 +1,41 @@
 ---
-name: "Greenoaks Capital"
-slug: greenoaks
-type: firm
-website: "https://greenoaks.com"
-location: "San Francisco, CA"
 founded: 2012
-fund_size: "~$15B AUM across six funds"
-stage_focus: [growth, late-stage]
-sector_focus: [enterprise-saas, e-commerce, fintech, ai, infrastructure]
-team:
-  - slug: neil-mehta
-    role: "Founder & Managing Partner"
-    name: "Neil Mehta"
-  - slug: benny-peretz
-    role: "Managing Partner"
-    name: "Benny Peretz"
-  - slug: ben-solarz
-    role: "Partner"
-    name: "Ben Solarz"
-  - slug: patrick-backhouse
-    role: "Partner"
-    name: "Patrick Backhouse"
-  - slug: neil-shah
-    role: "Partner"
-    name: "Neil Shah"
-  - slug: sreyas-misra
-    role: "Investment Partner"
-    name: "Sreyas Misra"
-status: published
+fund_size: ~$15B AUM across six funds
 last_researched: 2026-03-20
+location: San Francisco, CA
+name: Greenoaks Capital
+sector_focus:
+- saas
+- e-commerce
+- fintech
+- ai
+- infrastructure
+slug: greenoaks
+stage_focus:
+- growth
+- late-stage
+status: published
+team:
+- name: Neil Mehta
+  role: Founder & Managing Partner
+  slug: neil-mehta
+- name: Benny Peretz
+  role: Managing Partner
+  slug: benny-peretz
+- name: Ben Solarz
+  role: Partner
+  slug: ben-solarz
+- name: Patrick Backhouse
+  role: Partner
+  slug: patrick-backhouse
+- name: Neil Shah
+  role: Partner
+  slug: neil-shah
+- name: Sreyas Misra
+  role: Investment Partner
+  slug: sreyas-misra
+type: firm
+website: https://greenoaks.com
 ---
 
 ## About

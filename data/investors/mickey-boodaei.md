@@ -1,23 +1,30 @@
 ---
-name: "Mickey Boodaei"
-slug: mickey-boodaei
-type: individual
+check_size: Angel (undisclosed)
 firm: transmit-security
-role: "Co-Founder & CEO"
-location: "Tel Aviv, Israel"
-stage_focus: [seed, series-a]
-sector_focus: [cybersecurity, identity, enterprise-infrastructure]
-check_size: "Angel (undisclosed)"
-last_verified_investment:
-  date: 2024-11-12
-  company: "PointFive"
-  round: "Series A"
-social:
-  twitter: "@mickeyboodaei"
-  linkedin: "linkedin.com/in/mickeyboodaei"
-status: published
 last_researched: 2026-03-22
-tldr: "Transmit Security founder and prolific Israeli cybersecurity angel. Exceptional exit track record (Aorato, Talon, Watchdox acquired for $1B+) backing early-stage Israeli security founders across IoT, deception, and identity."
+last_verified_investment:
+  company: PointFive
+  date: 2024-11-12
+  round: Series A
+location: Tel Aviv, Israel
+name: Mickey Boodaei
+role: Co-Founder & CEO
+sector_focus:
+- cybersecurity
+- identity
+- infrastructure
+slug: mickey-boodaei
+social:
+  linkedin: linkedin.com/in/mickeyboodaei
+  twitter: '@mickeyboodaei'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Transmit Security founder and prolific Israeli cybersecurity angel. Exceptional
+  exit track record (Aorato, Talon, Watchdox acquired for $1B+) backing early-stage
+  Israeli security founders across IoT, deception, and identity.
+type: individual
 ---
 
 ## Background

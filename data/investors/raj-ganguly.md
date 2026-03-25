@@ -12,7 +12,7 @@ role: Co-Founder and Co-CEO
 sector_focus:
 - enterprise
 - fintech
-- healthtech
+- healthcare
 - ai
 - logistics
 - climate

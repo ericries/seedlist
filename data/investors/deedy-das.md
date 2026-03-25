@@ -1,23 +1,34 @@
 ---
-name: "Deedy Das"
-slug: deedy-das
-tldr: "Partner at Menlo Ventures (promoted Sept 2025, previously principal). Portfolio of 10 verified investments is 100% AI/AI-infrastructure focus (OpenHands AI, Perplexity angel, Delphi). Former Glean engineer who helped grow company to $2.2B valuation. Co-founded Anthology Fund ($100M) with Anthropic to back 40+ AI startups at pre-seed to Series A. 200K+ X followers, prominent AI community voice."
-type: individual
+check_size: $1M-$15M (Menlo fund); angel investments separately
 firm: menlo-ventures
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [ai, ai-infrastructure, enterprise-software, developer-tools]
-check_size: "$1M-$15M (Menlo fund); angel investments separately"
-last_verified_investment:
-  date: 2025
-  company: "OpenRouter"
-  round: "SAFE"
-social:
-  twitter: "@deedydas"
-  linkedin: "linkedin.com/in/debarghyadas"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: OpenRouter
+  date: 2025
+  round: SAFE
+location: San Francisco, CA
+name: Deedy Das
+role: Partner
+sector_focus:
+- ai
+- ai-infrastructure
+- enterprise
+- developer-tools
+slug: deedy-das
+social:
+  linkedin: linkedin.com/in/debarghyadas
+  twitter: '@deedydas'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Partner at Menlo Ventures (promoted Sept 2025, previously principal). Portfolio
+  of 10 verified investments is 100% AI/AI-infrastructure focus (OpenHands AI, Perplexity
+  angel, Delphi). Former Glean engineer who helped grow company to $2.2B valuation.
+  Co-founded Anthology Fund ($100M) with Anthropic to back 40+ AI startups at pre-seed
+  to Series A. 200K+ X followers, prominent AI community voice.
+type: individual
 ---
 
 ## Background

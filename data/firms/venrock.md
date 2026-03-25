@@ -1,40 +1,40 @@
 ---
-name: "Venrock"
-slug: venrock
-type: firm
-website: "https://www.venrock.com"
-location: "Palo Alto, CA"
 founded: 1969
-fund_size: "$650M (Fund X, 2024)"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-sector_focus:
-  - healthcare
-  - life-sciences
-  - enterprise-software
-  - saas
-  - ai
-  - fintech
-  - defense
-  - space
-  - developer-tools
-team:
-  - slug: bryan-roberts
-    role: Partner
-  - slug: bob-kocher
-    role: Partner
-  - slug: brian-ascher
-    role: Partner
-  - slug: nick-beim
-    role: Partner
-  - slug: ethan-batraski
-    role: Partner
-  - slug: siobhan-nolan-mangini
-    role: Partner
-status: published
+fund_size: $650M (Fund X, 2024)
 last_researched: 2026-03-25
+location: Palo Alto, CA
+name: Venrock
+sector_focus:
+- healthcare
+- life-sciences
+- enterprise
+- saas
+- ai
+- fintech
+- defense
+- space
+- developer-tools
+slug: venrock
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+team:
+- role: Partner
+  slug: bryan-roberts
+- role: Partner
+  slug: bob-kocher
+- role: Partner
+  slug: brian-ascher
+- role: Partner
+  slug: nick-beim
+- role: Partner
+  slug: ethan-batraski
+- role: Partner
+  slug: siobhan-nolan-mangini
+type: firm
+website: https://www.venrock.com
 ---
 
 ## About

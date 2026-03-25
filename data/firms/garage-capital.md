@@ -1,38 +1,38 @@
 ---
+founded: 2012
+fund_size: Fund V (current); received $50M from federal VCCI program
+last_researched: 2026-03-23
+location: Kitchener-Waterloo, Ontario, Canada
 name: Garage Capital
+sector_focus:
+- enterprise
+- saas
+- robotics
+- ai
+- deep-tech
+- fintech
+- healthcare
+- aerospace
 slug: garage-capital
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Michael Litt
+  role: Co-Founder & General Partner
+  slug: michael-litt
+- name: Mike McCauley
+  role: Co-Founder & General Partner
+  slug: mike-mccauley
+- name: Devon Galloway
+  role: Co-Founder & General Partner
+  slug: devon-galloway
+- name: Donna Litt
+  role: Venture Partner
+  slug: donna-litt
 type: firm
 website: https://www.garage.vc
-location: Kitchener-Waterloo, Ontario, Canada
-founded: 2012
-fund_size: "Fund V (current); received $50M from federal VCCI program"
-stage_focus:
-  - pre-seed
-  - seed
-sector_focus:
-  - enterprise-software
-  - saas
-  - robotics
-  - ai
-  - deep-tech
-  - fintech
-  - health
-  - aerospace
-team:
-  - name: Michael Litt
-    role: Co-Founder & General Partner
-    slug: michael-litt
-  - name: Mike McCauley
-    role: Co-Founder & General Partner
-    slug: mike-mccauley
-  - name: Devon Galloway
-    role: Co-Founder & General Partner
-    slug: devon-galloway
-  - name: Donna Litt
-    role: Venture Partner
-    slug: donna-litt
-status: published
-last_researched: 2026-03-23
 ---
 
 ## About

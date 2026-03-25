@@ -1,23 +1,37 @@
 ---
-name: "Eduardo Saverin"
-slug: eduardo-saverin
-type: individual
+check_size: $5M-$60M (B Capital); personal angel checks vary
 firm: b-capital-group
-role: "Co-Founder & Co-CEO"
-location: "Singapore"
-stage_focus: [seed, series-a, growth]
-sector_focus: [enterprise, healthcare, fintech, logistics, climate-tech, ai]
-check_size: "$5M-$60M (B Capital); personal angel checks vary"
-last_verified_investment:
-  date: 2025
-  company: "Fervo Energy"
-  round: "Series E"
-social:
-  twitter: "@esaverin"
-  linkedin: "linkedin.com/in/saverin"
-status: published
 last_researched: 2026-03-15
-tldr: "Eduardo Saverin is Facebook co-founder (2%) and co-founder/co-CEO of B Capital Group ($9B+ AUM, 9 global offices). Co-founded with Raj Ganguly; leverages BCG strategic partnership. His 140+ B Capital portfolio spans enterprise, healthcare, fintech, logistics, climate, AI. Known for 'people first' investment philosophy. Renounced US citizenship in 2011 for Singapore. At personal angel stage, invested in Qwiki, Jumio, ShopSavvy; views healthcare as next trillion-dollar frontier."
+last_verified_investment:
+  company: Fervo Energy
+  date: 2025
+  round: Series E
+location: Singapore
+name: Eduardo Saverin
+role: Co-Founder & Co-CEO
+sector_focus:
+- enterprise
+- healthcare
+- fintech
+- logistics
+- climate
+- ai
+slug: eduardo-saverin
+social:
+  linkedin: linkedin.com/in/saverin
+  twitter: '@esaverin'
+stage_focus:
+- seed
+- series-a
+- growth
+status: published
+tldr: Eduardo Saverin is Facebook co-founder (2%) and co-founder/co-CEO of B Capital
+  Group ($9B+ AUM, 9 global offices). Co-founded with Raj Ganguly; leverages BCG strategic
+  partnership. His 140+ B Capital portfolio spans enterprise, healthcare, fintech,
+  logistics, climate, AI. Known for 'people first' investment philosophy. Renounced
+  US citizenship in 2011 for Singapore. At personal angel stage, invested in Qwiki,
+  Jumio, ShopSavvy; views healthcare as next trillion-dollar frontier.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,37 @@
 ---
-name: "Adam Sharkawy"
-slug: adam-sharkawy
-tldr: "Co-Founder & Managing Partner of Material Impact investing in deep tech, materials science, and climate with checks of $3M-$15M at seed through Series B. Portfolio is 24% sustainable manufacturing, 21% biomanufacturing, 15% mobility—strongly university spinout focused from MIT, Harvard, Duke. Notable investments: 6K Materials (exited 2025), Soft Robotics, Infinite Cooling, Orbion."
-type: individual
+check_size: $3M-$15M
 firm: material-impact
-role: "Co-Founder & Managing Partner"
-location: "Boston, MA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [climate-tech, deep-tech, materials-science, healthcare, robotics, sustainable-manufacturing, food-and-water]
-check_size: "$3M-$15M"
-last_verified_investment:
-  date: 2026-02-25
-  company: "Folio Photonics"
-  round: "VC"
-social:
-  twitter: "@AdamSharkawy"
-  linkedin: "linkedin.com/in/adamsharkawy"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Folio Photonics
+  date: 2026-02-25
+  round: VC
+location: Boston, MA
+name: Adam Sharkawy
+role: Co-Founder & Managing Partner
+sector_focus:
+- climate
+- deep-tech
+- materials-science
+- healthcare
+- robotics
+- sustainable-manufacturing
+- food-and-water
+slug: adam-sharkawy
+social:
+  linkedin: linkedin.com/in/adamsharkawy
+  twitter: '@AdamSharkawy'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Co-Founder & Managing Partner of Material Impact investing in deep tech, materials
+  science, and climate with checks of $3M-$15M at seed through Series B. Portfolio
+  is 24% sustainable manufacturing, 21% biomanufacturing, 15% mobility—strongly university
+  spinout focused from MIT, Harvard, Duke. Notable investments: 6K Materials (exited
+  2025), Soft Robotics, Infinite Cooling, Orbion.'
+type: individual
 ---
 
 ## Background

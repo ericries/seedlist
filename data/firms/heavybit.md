@@ -1,41 +1,41 @@
 ---
-name: Heavybit
-slug: heavybit
-type: firm
-website: "https://www.heavybit.com"
-location: "San Francisco, CA"
 founded: 2013
-fund_size: "$180M+ (Fund V + Opportunity Fund II, 2025)"
-stage_focus:
-  - pre-seed
-  - seed
-sector_focus:
-  - developer-tools
-  - infrastructure
-  - cybersecurity
-  - enterprise-software
-  - ai
-team:
-  - name: Tom Drummond
-    role: Founder & Managing Director
-    slug: tom-drummond
-  - name: Jesse Robbins
-    role: General Partner
-    slug: jesse-robbins
-  - name: Joseph Ruscio
-    role: General Partner
-    slug: joseph-ruscio
-  - name: James Lindenbaum
-    role: Founding Partner
-    slug: james-lindenbaum
-  - name: Dana Oshiro
-    role: Part-Time Partner
-    slug: dana-oshiro
-  - name: Amir Zohrenejad
-    role: Part-Time Partner
-    slug: amir-zohrenejad
-status: published
+fund_size: $180M+ (Fund V + Opportunity Fund II, 2025)
 last_researched: 2026-03-19
+location: San Francisco, CA
+name: Heavybit
+sector_focus:
+- developer-tools
+- infrastructure
+- cybersecurity
+- enterprise
+- ai
+slug: heavybit
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Tom Drummond
+  role: Founder & Managing Director
+  slug: tom-drummond
+- name: Jesse Robbins
+  role: General Partner
+  slug: jesse-robbins
+- name: Joseph Ruscio
+  role: General Partner
+  slug: joseph-ruscio
+- name: James Lindenbaum
+  role: Founding Partner
+  slug: james-lindenbaum
+- name: Dana Oshiro
+  role: Part-Time Partner
+  slug: dana-oshiro
+- name: Amir Zohrenejad
+  role: Part-Time Partner
+  slug: amir-zohrenejad
+type: firm
+website: https://www.heavybit.com
 ---
 
 ## About

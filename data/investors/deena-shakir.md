@@ -10,10 +10,10 @@ location: Palo Alto, CA
 name: Deena Shakir
 role: General Partner
 sector_focus:
-- digital-health
+- healthcare
 - women's-health
 - health-equity
-- foodtech
+- food-tech
 - fintech
 - ai
 slug: deena-shakir

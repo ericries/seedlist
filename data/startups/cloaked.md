@@ -21,7 +21,7 @@ location: Boston, Massachusetts
 name: Cloaked
 sector:
 - privacy
-- security
+- cybersecurity
 - consumer
 - enterprise
 slug: cloaked

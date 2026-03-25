@@ -1,23 +1,32 @@
 ---
-name: "John Doran"
-slug: john-doran
-tldr: "General Partner at TCV's London office investing $10M-$30M in Series B/C/growth stage fintech, payments, and enterprise software. Represents international expansion of TCV's growth equity thesis."
-type: individual
+check_size: $10M-$30M
 firm: tcv
-role: "General Partner"
-location: "London, UK"
-stage_focus: [growth, series-b, series-c]
-sector_focus: [fintech, enterprise-software, consumer, payments]
-check_size: "$10M-$30M"
-last_verified_investment:
-  date: 2024-10-03
-  company: "Zepz"
-  round: "Series F"
-social:
-  twitter: "@JohnDoranND"
-  linkedin: "linkedin.com/in/johnadoran"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Zepz
+  date: 2024-10-03
+  round: Series F
+location: London, UK
+name: John Doran
+role: General Partner
+sector_focus:
+- fintech
+- enterprise
+- consumer
+- payments
+slug: john-doran
+social:
+  linkedin: linkedin.com/in/johnadoran
+  twitter: '@JohnDoranND'
+stage_focus:
+- growth
+- series-b
+- series-c
+status: published
+tldr: General Partner at TCV's London office investing $10M-$30M in Series B/C/growth
+  stage fintech, payments, and enterprise software. Represents international expansion
+  of TCV's growth equity thesis.
+type: individual
 ---
 
 ## Background

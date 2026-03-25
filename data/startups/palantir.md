@@ -59,7 +59,7 @@ sector:
 - data-analytics
 - defense
 - government-technology
-- enterprise-software
+- enterprise
 slug: palantir
 stage_latest: IPO
 status: published

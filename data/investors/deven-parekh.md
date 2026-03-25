@@ -1,23 +1,35 @@
 ---
-name: "Deven Parekh"
-slug: deven-parekh
-tldr: "Managing Director at Insight Partners since 2000. Portfolio of 20 verified investments (of 140+ total) skews 40% enterprise SaaS, 30% consumer internet, with global reach including JD.com, Alibaba, Fanatics, Checkout.com. Known for growth-stage and late-stage investing. Forbes Midas List 2014-2018, board member at 11 companies including Alteryx and DistroKid."
-type: individual
+check_size: $10M-$500M+
 firm: insight-partners
-role: "Managing Director"
-location: "New York, NY"
-stage_focus: [growth, late-stage, buyout]
-sector_focus: [enterprise-saas, consumer-internet, fintech, data-analytics, e-commerce]
-check_size: "$10M-$500M+"
-last_verified_investment:
-  date: 2021-10
-  company: "DistroKid"
-  round: "Growth"
-social:
-  twitter: "@devenparekh"
-  linkedin: "linkedin.com/in/djparekh"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: DistroKid
+  date: 2021-10
+  round: Growth
+location: New York, NY
+name: Deven Parekh
+role: Managing Director
+sector_focus:
+- saas
+- consumer-internet
+- fintech
+- data-analytics
+- e-commerce
+slug: deven-parekh
+social:
+  linkedin: linkedin.com/in/djparekh
+  twitter: '@devenparekh'
+stage_focus:
+- growth
+- late-stage
+- buyout
+status: published
+tldr: Managing Director at Insight Partners since 2000. Portfolio of 20 verified investments
+  (of 140+ total) skews 40% enterprise SaaS, 30% consumer internet, with global reach
+  including JD.com, Alibaba, Fanatics, Checkout.com. Known for growth-stage and late-stage
+  investing. Forbes Midas List 2014-2018, board member at 11 companies including Alteryx
+  and DistroKid.
+type: individual
 ---
 
 ## Background

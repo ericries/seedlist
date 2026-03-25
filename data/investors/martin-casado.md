@@ -1,23 +1,36 @@
 ---
-name: "Martin Casado"
-slug: martin-casado
-tldr: "a16z General Partner leading infrastructure practice ($1.25B+); founder of Nicira Networks (sold to VMware $1.26B). PhD technologist with focus on market structure over companies. Invests in infrastructure, AI, security with emphasis on product experience over technical prowess. Known for 'this feels like 1996' AI thesis; skeptical of open-source AI."
-type: individual
+check_size: $500K-$40M
 firm: andreessen-horowitz
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [infrastructure, ai, enterprise-software, security, cloud, developer-tools]
-check_size: "$500K-$40M"
-last_verified_investment:
-  date: 2024
-  company: "Ideogram"
-  round: "Series A"
-social:
-  twitter: "@martin_casado"
-  linkedin: "linkedin.com/in/martincasado"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Ideogram
+  date: 2024
+  round: Series A
+location: San Francisco, CA
+name: Martin Casado
+role: General Partner
+sector_focus:
+- infrastructure
+- ai
+- enterprise
+- cybersecurity
+- cloud
+- developer-tools
+slug: martin-casado
+social:
+  linkedin: linkedin.com/in/martincasado
+  twitter: '@martin_casado'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: a16z General Partner leading infrastructure practice ($1.25B+); founder of Nicira
+  Networks (sold to VMware $1.26B). PhD technologist with focus on market structure
+  over companies. Invests in infrastructure, AI, security with emphasis on product
+  experience over technical prowess. Known for 'this feels like 1996' AI thesis; skeptical
+  of open-source AI.
+type: individual
 ---
 
 ## Background

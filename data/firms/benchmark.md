@@ -5,7 +5,7 @@ last_researched: 2026-03-14
 location: San Francisco, CA
 name: Benchmark
 sector_focus:
-- enterprise-software
+- enterprise
 - marketplaces
 - consumer-internet
 - infrastructure

@@ -1,22 +1,34 @@
 ---
-name: "Naveen Selvadurai"
-slug: naveen-selvadurai
-type: individual
+check_size: $10K-$250K
 firm: expa
-role: "Partner (former); Co-Founder"
-location: "New York, NY"
-stage_focus: [seed, series-a]
-sector_focus: [consumer-internet, mobile, health, developer-tools, e-commerce]
-check_size: "$10K-$250K"
-last_verified_investment:
-  date: 2022-08-12
-  company: "Positive Food"
-  round: "Venture Round"
-social:
-  twitter: "@naveen"
-  linkedin: "linkedin.com/in/naveen"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Positive Food
+  date: 2022-08-12
+  round: Venture Round
+location: New York, NY
+name: Naveen Selvadurai
+role: Partner (former); Co-Founder
+sector_focus:
+- consumer-internet
+- mobile
+- healthcare
+- developer-tools
+- e-commerce
+slug: naveen-selvadurai
+social:
+  linkedin: linkedin.com/in/naveen
+  twitter: '@naveen'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Naveen Selvadurai is the co-founder of Foursquare and a Partner at Audrey Capital
+  who makes small angel checks ($10K-$250K) in consumer internet and urban lifestyle
+  products. His portfolio reflects a design-forward, real-world-meets-digital sensibility
+  (Timehop, Citymapper, Managed by Q). He is also a co-founder of Input.com and previously
+  spent six years at Garrett Camp's Expa studio.
+type: individual
 ---
 
 ## Background

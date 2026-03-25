@@ -1,31 +1,39 @@
 ---
-name: "UpWest"
-slug: upwest
-type: firm
-website: "https://upwest.vc"
-location: "Palo Alto, CA"
 founded: 2012
-fund_size: "$70M (Fund IV, 2021); ~$100M+ total across 4+ funds"
-stage_focus: [pre-seed, seed]
-sector_focus: [cybersecurity, enterprise-software, ai, fintech, digital-health, devops]
-team:
-  - name: Shuly Galili
-    role: Founding Partner
-    slug: shuly-galili
-  - name: Gil Ben-Artzy
-    role: Founding Partner
-    slug: gil-ben-artzy
-  - name: Lia Cromwell
-    role: Partner
-    slug: lia-cromwell
-  - name: Aya Neeman
-    role: Associate
-    slug: aya-neeman
-  - name: Gil Birnboim
-    role: Head of Platform
-    slug: gil-birnboim
-status: published
+fund_size: $70M (Fund IV, 2021); ~$100M+ total across 4+ funds
 last_researched: 2026-03-19
+location: Palo Alto, CA
+name: UpWest
+sector_focus:
+- cybersecurity
+- enterprise
+- ai
+- fintech
+- healthcare
+- devops
+slug: upwest
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Shuly Galili
+  role: Founding Partner
+  slug: shuly-galili
+- name: Gil Ben-Artzy
+  role: Founding Partner
+  slug: gil-ben-artzy
+- name: Lia Cromwell
+  role: Partner
+  slug: lia-cromwell
+- name: Aya Neeman
+  role: Associate
+  slug: aya-neeman
+- name: Gil Birnboim
+  role: Head of Platform
+  slug: gil-birnboim
+type: firm
+website: https://upwest.vc
 ---
 
 ## About

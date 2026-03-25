@@ -1,23 +1,35 @@
 ---
-name: "Jeff Richards"
-slug: jeff-richards
-tldr: "Managing Partner at Notable Capital (formerly GGV's US arm, now $4B AUM). Seed to Series B investor focused on AI-driven vertical SaaS and enterprise applications. Checks $250K-$25M with operator background: founded two SaaS companies sold to Verizon and TPG. Former GGV partner with deep Asia operating experience."
-type: individual
+check_size: $250K-$25M
 firm: notable-capital
-role: "Managing Partner"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [enterprise-saas, vertical-saas, smb-tech, ai, marketplaces, edtech]
-check_size: "$250K-$25M"
-last_verified_investment:
-  date: ~2024
-  company: "Ateria.ai"
-  round: "Series A"
-social:
-  twitter: "@jrichlive"
-  linkedin: "linkedin.com/in/jeffrichards"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Ateria.ai
+  date: ~2024
+  round: Series A
+location: Menlo Park, CA
+name: Jeff Richards
+role: Managing Partner
+sector_focus:
+- saas
+- vertical-saas
+- smb-tech
+- ai
+- marketplaces
+- edtech
+slug: jeff-richards
+social:
+  linkedin: linkedin.com/in/jeffrichards
+  twitter: '@jrichlive'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Managing Partner at Notable Capital (formerly GGV''s US arm, now $4B AUM).
+  Seed to Series B investor focused on AI-driven vertical SaaS and enterprise applications.
+  Checks $250K-$25M with operator background: founded two SaaS companies sold to Verizon
+  and TPG. Former GGV partner with deep Asia operating experience.'
+type: individual
 ---
 
 ## Background

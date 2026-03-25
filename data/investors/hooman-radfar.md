@@ -23,6 +23,7 @@ last_verified_investment:
 social:
   twitter: "@hoomanradfar"
   linkedin: "linkedin.com/in/hooman/"
+tldr: "Hooman Radfar is the co-founder and CEO of Collective (financial back-office for freelancers, $82M raised) and a Venture Partner at Expa who angel invests through his personal vehicle 10e9 with $25K-50K checks. He previously co-founded AddThis (acquired by Oracle for ~$200M). His claimed portfolio of 40+ companies spans logistics, consumer, and future-of-work, though most are not publicly documented."
 status: published
 last_researched: 2026-03-24
 ---

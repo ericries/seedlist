@@ -1,23 +1,35 @@
 ---
-name: "Vishal Lugani"
-slug: vishal-lugani
-tldr: "Co-founder of Acrew Capital (2019, $1.7B AUM) alongside Theresia Gouw, Lauren Kolodny, Asad Khaliq, Mark Kraynak. Previously Aspect Ventures principal (2016+) with investments in Coinbase, PredictHQ, Pie Insurance, The RealReal, HotelTonight (Airbnb acquisition). Forbes 30 Under 30 VC 2016. Harvard grad; co-founder Unithrive (peer-to-peer lending); Kairos Society founder Harvard chapter. Invests $1M-$15M at seed/Series A/B in fintech, consumer, health, community."
-type: individual
+check_size: $1M-$15M
 firm: acrew-capital
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [fintech, consumer, health, community]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2025-08-18
-  company: "Medallion"
-  round: "Series B"
-social:
-  twitter: "@VishalLugani"
-  linkedin: "linkedin.com/in/vishal-lugani-79116220"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Medallion
+  date: 2025-08-18
+  round: Series B
+location: San Francisco, CA
+name: Vishal Lugani
+role: Co-Founder & General Partner
+sector_focus:
+- fintech
+- consumer
+- healthcare
+- community
+slug: vishal-lugani
+social:
+  linkedin: linkedin.com/in/vishal-lugani-79116220
+  twitter: '@VishalLugani'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-founder of Acrew Capital (2019, $1.7B AUM) alongside Theresia Gouw, Lauren
+  Kolodny, Asad Khaliq, Mark Kraynak. Previously Aspect Ventures principal (2016+)
+  with investments in Coinbase, PredictHQ, Pie Insurance, The RealReal, HotelTonight
+  (Airbnb acquisition). Forbes 30 Under 30 VC 2016. Harvard grad; co-founder Unithrive
+  (peer-to-peer lending); Kairos Society founder Harvard chapter. Invests $1M-$15M
+  at seed/Series A/B in fintech, consumer, health, community.
+type: individual
 ---
 
 ## Background

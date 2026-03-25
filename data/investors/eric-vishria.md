@@ -10,7 +10,7 @@ location: San Francisco, CA
 name: Eric Vishria
 role: General Partner
 sector_focus:
-- enterprise-infrastructure
+- infrastructure
 - ai
 - developer-tools
 - life-sciences

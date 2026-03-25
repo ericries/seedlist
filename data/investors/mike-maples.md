@@ -1,23 +1,38 @@
 ---
-name: "Mike Maples Jr."
-slug: mike-maples
-tldr: "Floodgate co-founder; pioneering seed investor known for 'Thunder Lizards' thesis and 'inflections + insights' framework. Invests in pattern breakers not pattern matchers. Portfolio across AI, consumer, enterprise SaaS with notable exits: Twitter, Twitch, Chegg. Emphasizes founder-future fit over founder-market fit. $500K-$5M checks."
-type: individual
+check_size: $500K-$5M
 firm: floodgate
-role: "Co-Founder & Partner"
-location: "Palo Alto, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai, consumer, enterprise-saas, fintech, health, marketplaces, developer-tools, social, edtech]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: "~2022"
-  company: "Terradot"
-  round: "Seed"
-social:
-  twitter: "@m2jr"
-  linkedin: "linkedin.com/in/maples"
-status: published
 last_researched: 2026-03-13
+last_verified_investment:
+  company: Terradot
+  date: ~2022
+  round: Seed
+location: Palo Alto, CA
+name: Mike Maples Jr.
+role: Co-Founder & Partner
+sector_focus:
+- ai
+- consumer
+- saas
+- fintech
+- healthcare
+- marketplaces
+- developer-tools
+- social
+- edtech
+slug: mike-maples
+social:
+  linkedin: linkedin.com/in/maples
+  twitter: '@m2jr'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Floodgate co-founder; pioneering seed investor known for ''Thunder Lizards''
+  thesis and ''inflections + insights'' framework. Invests in pattern breakers not
+  pattern matchers. Portfolio across AI, consumer, enterprise SaaS with notable exits:
+  Twitter, Twitch, Chegg. Emphasizes founder-future fit over founder-market fit. $500K-$5M
+  checks.'
+type: individual
 ---
 
 ## Background

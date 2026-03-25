@@ -1,23 +1,36 @@
 ---
-name: "Mar Hershenson"
-slug: mar-hershenson
-tldr: "Founding Managing Partner of Pear VC, seed-stage investor backing 0-to-1 founders. Portfolio: 25% enterprise SaaS, 21% healthcare/biotech, 17% consumer, all at pre-seed/seed. Known for developer mindset (electrical engineer, 14 patents), Stanford ecosystem access, and founder development over picking winners. Check size $1-6M."
-type: individual
+check_size: $1M–$6M
 firm: pear-vc
-role: "Founding Managing Partner"
-location: "Los Altos, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [ai-ml, enterprise-saas, biotech, fintech, climate-tech, consumer, deep-tech, healthcare]
-check_size: "$1M–$6M"
-last_verified_investment:
-  date: 2025
-  company: "Piston"
-  round: "Seed"
-social:
-  twitter: "@MarHershenson"
-  linkedin: "linkedin.com/in/mar-hershenson-b21395"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Piston
+  date: 2025
+  round: Seed
+location: Los Altos, CA
+name: Mar Hershenson
+role: Founding Managing Partner
+sector_focus:
+- ai-ml
+- saas
+- biotech
+- fintech
+- climate
+- consumer
+- deep-tech
+- healthcare
+slug: mar-hershenson
+social:
+  linkedin: linkedin.com/in/mar-hershenson-b21395
+  twitter: '@MarHershenson'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Founding Managing Partner of Pear VC, seed-stage investor backing 0-to-1 founders.
+  Portfolio: 25% enterprise SaaS, 21% healthcare/biotech, 17% consumer, all at pre-seed/seed.
+  Known for developer mindset (electrical engineer, 14 patents), Stanford ecosystem
+  access, and founder development over picking winners. Check size $1-6M.'
+type: individual
 ---
 
 ## Background

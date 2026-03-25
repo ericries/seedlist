@@ -1,23 +1,36 @@
 ---
-name: "Joshua Kushner"
-slug: josh-kushner
-tldr: "Founder of Thrive Capital ($25B+ AUM, Fund X $10B in 2026) operating seed through growth stages. Checks $1M-$1B with recent $1B OpenAI investment. Portfolio spans consumer, software, AI, fintech, health tech with strong NYC/NY-based focus. Demonstrates diversified thesis from single-founder seed in 2009."
-type: individual
+check_size: $1M-$1B
 firm: thrive-capital
-role: "Founder & Managing Partner"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [software, consumer-internet, ai-ml, fintech, health-tech, developer-tools]
-check_size: "$1M-$1B"
-last_verified_investment:
-  date: 2026-02-25
-  company: "OpenAI"
-  round: "Growth ($1B at $285B valuation)"
-social:
-  twitter: "@JoshuaKushner"
-  linkedin: "linkedin.com/in/joshua-kushner-711b45230"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: OpenAI
+  date: 2026-02-25
+  round: Growth ($1B at $285B valuation)
+location: New York, NY
+name: Joshua Kushner
+role: Founder & Managing Partner
+sector_focus:
+- enterprise
+- consumer-internet
+- ai-ml
+- fintech
+- healthcare
+- developer-tools
+slug: josh-kushner
+social:
+  linkedin: linkedin.com/in/joshua-kushner-711b45230
+  twitter: '@JoshuaKushner'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Founder of Thrive Capital ($25B+ AUM, Fund X $10B in 2026) operating seed through
+  growth stages. Checks $1M-$1B with recent $1B OpenAI investment. Portfolio spans
+  consumer, software, AI, fintech, health tech with strong NYC/NY-based focus. Demonstrates
+  diversified thesis from single-founder seed in 2009.
+type: individual
 ---
 
 ## Background

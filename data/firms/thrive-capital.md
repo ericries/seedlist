@@ -1,34 +1,47 @@
 ---
-name: "Thrive Capital"
-slug: thrive-capital
-type: firm
-website: "https://thrivecap.com"
-location: "New York, NY"
 founded: 2009
-fund_size: "$10B (Thrive X, 2026); $5B (Thrive IX, 2024); $3B (Thrive VIII, 2022); $2B (Thrive VII, 2021); $1B (Thrive VI, 2018); $700M (Thrive V, 2016); $400M (Thrive IV, 2014); $150M (Thrive III, 2012); $40M (Thrive I, 2011)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [software, internet, ai-ml, fintech, health-tech, developer-tools, consumer-internet]
-team:
-  - slug: josh-kushner
-    role: "Founder & Managing Partner"
-    name: "Joshua Kushner"
-  - slug: kareem-zaki
-    role: "General Partner"
-    name: "Kareem Zaki"
-  - slug: miles-grimshaw
-    role: "General Partner"
-    name: "Miles Grimshaw"
-  - slug: vince-hankes
-    role: "Partner"
-    name: "Vince Hankes"
-  - slug: katie-josephson
-    role: "Partner"
-    name: "Katie Josephson"
-  - slug: nitin-nohria
-    role: "Executive Chairman"
-    name: "Nitin Nohria"
-status: published
+fund_size: $10B (Thrive X, 2026); $5B (Thrive IX, 2024); $3B (Thrive VIII, 2022);
+  $2B (Thrive VII, 2021); $1B (Thrive VI, 2018); $700M (Thrive V, 2016); $400M (Thrive
+  IV, 2014); $150M (Thrive III, 2012); $40M (Thrive I, 2011)
 last_researched: 2026-03-14
+location: New York, NY
+name: Thrive Capital
+sector_focus:
+- enterprise
+- internet
+- ai-ml
+- fintech
+- healthcare
+- developer-tools
+- consumer-internet
+slug: thrive-capital
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Joshua Kushner
+  role: Founder & Managing Partner
+  slug: josh-kushner
+- name: Kareem Zaki
+  role: General Partner
+  slug: kareem-zaki
+- name: Miles Grimshaw
+  role: General Partner
+  slug: miles-grimshaw
+- name: Vince Hankes
+  role: Partner
+  slug: vince-hankes
+- name: Katie Josephson
+  role: Partner
+  slug: katie-josephson
+- name: Nitin Nohria
+  role: Executive Chairman
+  slug: nitin-nohria
+type: firm
+website: https://thrivecap.com
 ---
 
 ## About

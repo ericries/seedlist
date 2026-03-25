@@ -77,7 +77,7 @@ last_researched: 2026-03-20
 location: Costa Mesa, CA
 name: Anduril Industries
 sector:
-- defense-tech
+- defense
 - autonomous-systems
 - ai
 - hardware

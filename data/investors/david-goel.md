@@ -13,7 +13,7 @@ sector_focus:
 - technology
 - life-sciences
 - semiconductors
-- software
+- enterprise
 - ai
 - biotech
 slug: david-goel

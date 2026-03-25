@@ -13,7 +13,7 @@ sector_focus:
 - infrastructure
 - logistics
 - fintech
-- healthtech
+- healthcare
 - cybersecurity
 slug: garrett-camp
 social:
@@ -24,8 +24,10 @@ stage_focus:
 - seed
 - series-a
 status: published
+tldr: Expa founder/CEO running a startup studio investing $100K-$10M in 100+ pre-seed/seed
+  B2B infrastructure companies. Co-founder of Uber and StumbleUpon; builds picks-and-shovels
+  companies in fintech, logistics, and developer tools rather than consumer.
 type: individual
-tldr: "Expa founder/CEO running a startup studio investing $100K-$10M in 100+ pre-seed/seed B2B infrastructure companies. Co-founder of Uber and StumbleUpon; builds picks-and-shovels companies in fintech, logistics, and developer tools rather than consumer."
 ---
 
 ## Background

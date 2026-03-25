@@ -10,7 +10,7 @@ location: Boston, MA
 name: Neeraj Agrawal
 role: General Partner
 sector_focus:
-- enterprise-software
+- enterprise
 - saas
 - infrastructure
 - application-software

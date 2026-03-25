@@ -1,23 +1,33 @@
 ---
-name: "Dana Oshiro"
-slug: dana-oshiro
-type: individual
+check_size: $750K-$5M
 firm: heavybit
-role: "Part-Time Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [developer-tools, infrastructure, cybersecurity, enterprise-software, ai]
-check_size: "$750K-$5M"
-last_verified_investment:
-  date: 2024-03
-  company: "Figure"
-  round: "Seed"
-social:
-  twitter: "@danaoshiro"
-  linkedin: "linkedin.com/in/danaoshiro"
-status: published
 last_researched: 2026-03-24
-tldr: "Part-time Heavybit partner who invests $750K-$5M in pre-seed/seed developer-first startups. Built Heavybit's content and community playbook; leads GTM support for infrastructure and cybersecurity tools with bottom-up adoption."
+last_verified_investment:
+  company: Figure
+  date: 2024-03
+  round: Seed
+location: San Francisco, CA
+name: Dana Oshiro
+role: Part-Time Partner
+sector_focus:
+- developer-tools
+- infrastructure
+- cybersecurity
+- enterprise
+- ai
+slug: dana-oshiro
+social:
+  linkedin: linkedin.com/in/danaoshiro
+  twitter: '@danaoshiro'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Part-time Heavybit partner who invests $750K-$5M in pre-seed/seed developer-first
+  startups. Built Heavybit's content and community playbook; leads GTM support for
+  infrastructure and cybersecurity tools with bottom-up adoption.
+type: individual
 ---
 
 ## Background

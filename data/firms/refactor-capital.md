@@ -1,19 +1,27 @@
 ---
-name: "Refactor Capital"
-slug: refactor-capital
-type: firm
-website: "https://refactor.com"
-location: "Burlingame, CA"
 founded: 2016
-fund_size: "$50M (Fund IV, 2024); $225M total AUM across four funds and SPVs"
-stage_focus: [pre-seed, seed]
-sector_focus: [biotech, climate-tech, hard-tech, aerospace, energy, health]
-team:
-  - slug: zal-bilimoria
-    role: "Founding Partner (Solo GP)"
-    name: "Zal Bilimoria"
-status: published
+fund_size: $50M (Fund IV, 2024); $225M total AUM across four funds and SPVs
 last_researched: 2026-03-24
+location: Burlingame, CA
+name: Refactor Capital
+sector_focus:
+- biotech
+- climate
+- hard-tech
+- aerospace
+- energy
+- healthcare
+slug: refactor-capital
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Zal Bilimoria
+  role: Founding Partner (Solo GP)
+  slug: zal-bilimoria
+type: firm
+website: https://refactor.com
 ---
 
 ## About

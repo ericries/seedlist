@@ -11,9 +11,8 @@ name: Ambar Bhattacharyya
 role: Managing Director
 sector_focus:
 - healthcare
-- healthtech
 - ai
-- enterprise-software
+- enterprise
 - consumer-health
 slug: ambar-bhattacharyya
 social:

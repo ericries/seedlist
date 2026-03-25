@@ -1,23 +1,32 @@
 ---
-name: "Pete Higgins"
-slug: pete-higgins
-type: individual
+check_size: Unknown
 firm: second-avenue-partners
-role: "Founding Partner"
-location: "Seattle, WA"
-stage_focus: [seed, series-a]
-sector_focus: [software, industrial-tech, clean-energy, consumer-internet, real-estate-tech]
-check_size: "Unknown"
-last_verified_investment:
-  date: 2024-10-31
-  company: "IOTA Software"
-  round: "Series A2"
-social:
-  twitter: "@pete_higgins"
-  linkedin: "linkedin.com/in/pete-higgins-7688b14"
-status: published
 last_researched: 2026-03-21
-tldr: "Microsoft Excel veteran and Second Avenue Partners co-founder mentoring Seattle-area founders intensively through seed-to-Series A. Weekly CEO meetings and hands-on involvement in hiring/product; backs first-time technical founders over pedigree."
+last_verified_investment:
+  company: IOTA Software
+  date: 2024-10-31
+  round: Series A2
+location: Seattle, WA
+name: Pete Higgins
+role: Founding Partner
+sector_focus:
+- enterprise
+- industrial-tech
+- climate
+- consumer-internet
+- real-estate-tech
+slug: pete-higgins
+social:
+  linkedin: linkedin.com/in/pete-higgins-7688b14
+  twitter: '@pete_higgins'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Microsoft Excel veteran and Second Avenue Partners co-founder mentoring Seattle-area
+  founders intensively through seed-to-Series A. Weekly CEO meetings and hands-on
+  involvement in hiring/product; backs first-time technical founders over pedigree.
+type: individual
 ---
 
 ## Background

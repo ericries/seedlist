@@ -1,23 +1,38 @@
 ---
-name: "Ethan Batraski"
-slug: ethan-batraski
-type: individual
+check_size: $1M-$15M
 firm: venrock
-role: "Partner"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [aerospace-defense, developer-tools, data-infrastructure, open-source, quantum-computing, autonomy-robotics, clean-energy, ai]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2025-09-04
-  company: "Euclid Power"
-  round: "Series A"
-social:
-  twitter: "@ethanjb"
-  linkedin: "linkedin.com/in/ethanjb"
-tldr: "Ethan Batraski is a Partner at Venrock who backs capital-intensive deep tech at seed and Series A, with board seats in space (ABL Space, Astranis), autonomous aviation (Skyryse), and quantum computing (Atom Computing). A secondary cluster targets commercial open-source infrastructure (Astronomer, Decodable, Meltano). Three of his five board-seat companies have significant US defense contracts."
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Euclid Power
+  date: 2025-09-04
+  round: Series A
+location: Palo Alto, CA
+name: Ethan Batraski
+role: Partner
+sector_focus:
+- aerospace-defense
+- developer-tools
+- data-infrastructure
+- open-source
+- quantum-computing
+- autonomy-robotics
+- climate
+- ai
+slug: ethan-batraski
+social:
+  linkedin: linkedin.com/in/ethanjb
+  twitter: '@ethanjb'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Ethan Batraski is a Partner at Venrock who backs capital-intensive deep tech
+  at seed and Series A, with board seats in space (ABL Space, Astranis), autonomous
+  aviation (Skyryse), and quantum computing (Atom Computing). A secondary cluster
+  targets commercial open-source infrastructure (Astronomer, Decodable, Meltano).
+  Three of his five board-seat companies have significant US defense contracts.
+type: individual
 ---
 
 ## Background

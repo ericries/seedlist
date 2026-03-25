@@ -1,23 +1,34 @@
 ---
-name: "Logan Bartlett"
-slug: logan-bartlett
-tldr: "Managing Director at Redpoint Ventures leading growth investing through Redpoint Omega fund. Targets Series B/C enterprise software and infrastructure at $100K-$50M with $25M average. Six years at Battery Ventures post-banking; hosts The Logan Bartlett Show podcast. Forbes 30 Under 30."
-type: individual
+check_size: $100K-$50M (target $25M)
 firm: redpoint-ventures
-role: "Managing Director"
-location: "New York, NY"
-stage_focus: [series-b, series-c, growth]
-sector_focus: [enterprise-software, infrastructure, saas, ai, fintech]
-check_size: "$100K-$50M (target $25M)"
-last_verified_investment:
-  date: 2024-07
-  company: "Legora"
-  round: "Early"
-social:
-  twitter: "@loganbartlett"
-  linkedin: "linkedin.com/in/loganbartlett"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Legora
+  date: 2024-07
+  round: Early
+location: New York, NY
+name: Logan Bartlett
+role: Managing Director
+sector_focus:
+- enterprise
+- infrastructure
+- saas
+- ai
+- fintech
+slug: logan-bartlett
+social:
+  linkedin: linkedin.com/in/loganbartlett
+  twitter: '@loganbartlett'
+stage_focus:
+- series-b
+- series-c
+- growth
+status: published
+tldr: Managing Director at Redpoint Ventures leading growth investing through Redpoint
+  Omega fund. Targets Series B/C enterprise software and infrastructure at $100K-$50M
+  with $25M average. Six years at Battery Ventures post-banking; hosts The Logan Bartlett
+  Show podcast. Forbes 30 Under 30.
+type: individual
 ---
 
 ## Background

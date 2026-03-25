@@ -1,23 +1,36 @@
 ---
-name: "Ping Li"
-slug: ping-li
-tldr: "Accel Partner since 2004; data infrastructure and cybersecurity expert with Big Data Fund. Portfolio: 29% cybersecurity (Snyk, Tenable, Snyk), 18% data infrastructure (Cloudera, Sumo Logic), 18% enterprise SaaS (Klaviyo, Commercetools). Known for 'cloudframe' concept—recreating mainframe tools for each new computing platform. $15M-$70M checks."
-type: individual
+check_size: $15M-$70M
 firm: accel
-role: "Partner"
-location: "San Francisco Bay Area, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [cybersecurity, enterprise-saas, cloud-infrastructure, data-infrastructure, developer-tools, e-commerce]
-check_size: "$15M-$70M"
-last_verified_investment:
-  date: 2023
-  company: "Stacklok"
-  round: "Seed"
-social:
-  twitter: "@ping_accel"
-  linkedin: "linkedin.com/in/pingli8"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Stacklok
+  date: 2023
+  round: Seed
+location: San Francisco Bay Area, CA
+name: Ping Li
+role: Partner
+sector_focus:
+- cybersecurity
+- saas
+- cloud-infrastructure
+- data-infrastructure
+- developer-tools
+- e-commerce
+slug: ping-li
+social:
+  linkedin: linkedin.com/in/pingli8
+  twitter: '@ping_accel'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Accel Partner since 2004; data infrastructure and cybersecurity expert with
+  Big Data Fund. Portfolio: 29% cybersecurity (Snyk, Tenable, Snyk), 18% data infrastructure
+  (Cloudera, Sumo Logic), 18% enterprise SaaS (Klaviyo, Commercetools). Known for
+  ''cloudframe'' concept—recreating mainframe tools for each new computing platform.
+  $15M-$70M checks.'
+type: individual
 ---
 
 ## Background

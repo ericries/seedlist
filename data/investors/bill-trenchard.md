@@ -1,23 +1,35 @@
 ---
-name: "Bill Trenchard"
-slug: bill-trenchard
-type: individual
+check_size: $750K-$4M
 firm: first-round-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed]
-sector_focus: [enterprise, saas, fintech, ai, hardware, climate-tech]
-check_size: "$750K-$4M"
-last_verified_investment:
-  date: 2025-08-15
-  company: "Cache"
-  round: "Series A"
-social:
-  twitter: "@btrenchard"
-  linkedin: "linkedin.com/in/billtrenchard"
-status: published
 last_researched: 2026-03-16
-tldr: "Bill Trenchard is a Partner at First Round Capital since 2012 and a founding partner of Founder Collective. His 30 verified investments skew heavily toward enterprise SaaS (37%)—Looker, Sift, Superhuman, Labelbox—with notable early angel wins in Uber and LendingClub. He seeks founders who go 'unreasonably deep' on dusty, overlooked industries ripe for automation; his founders are frequently technical domain experts he has prior relationships with."
+last_verified_investment:
+  company: Cache
+  date: 2025-08-15
+  round: Series A
+location: San Francisco, CA
+name: Bill Trenchard
+role: Partner
+sector_focus:
+- enterprise
+- saas
+- fintech
+- ai
+- hardware
+- climate
+slug: bill-trenchard
+social:
+  linkedin: linkedin.com/in/billtrenchard
+  twitter: '@btrenchard'
+stage_focus:
+- seed
+status: published
+tldr: Bill Trenchard is a Partner at First Round Capital since 2012 and a founding
+  partner of Founder Collective. His 30 verified investments skew heavily toward enterprise
+  SaaS (37%)—Looker, Sift, Superhuman, Labelbox—with notable early angel wins in Uber
+  and LendingClub. He seeks founders who go 'unreasonably deep' on dusty, overlooked
+  industries ripe for automation; his founders are frequently technical domain experts
+  he has prior relationships with.
+type: individual
 ---
 
 ## Background

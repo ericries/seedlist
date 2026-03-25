@@ -51,7 +51,7 @@ last_researched: 2026-03-24
 location: New York, NY
 name: Garner Health
 sector:
-- healthtech
+- healthcare
 - data-analytics
 - healthcare-navigation
 slug: garner-health

@@ -1,23 +1,35 @@
 ---
-name: "Pat Grady"
-slug: pat-grady
-tldr: "Sequoia Co-Steward (appointed Nov 2025); growth-stage investor (Series B+) leading practice since 2015. Portfolio $250B+ market cap: 52% enterprise SaaS (ServiceNow, Zoom, Okta, Qualtrics), 15% AI (OpenAI, Harvey). Known for 'market determines size, founder determines execution' and 'relentless application of force' thesis. $10M-$200M checks."
-type: individual
+check_size: $10M-$200M
 firm: sequoia-capital
-role: "Partner & Co-Steward"
-location: "Menlo Park, CA"
-stage_focus: [growth, series-b, series-c]
-sector_focus: [enterprise-saas, ai, cloud-infrastructure, fintech, healthtech]
-check_size: "$10M-$200M"
-last_verified_investment:
-  date: 2025-02-12
-  company: "Harvey"
-  round: "Series D"
-social:
-  twitter: "@gradypb"
-  linkedin: "linkedin.com/in/gradypb"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Harvey
+  date: 2025-02-12
+  round: Series D
+location: Menlo Park, CA
+name: Pat Grady
+role: Partner & Co-Steward
+sector_focus:
+- saas
+- ai
+- cloud-infrastructure
+- fintech
+- healthcare
+slug: pat-grady
+social:
+  linkedin: linkedin.com/in/gradypb
+  twitter: '@gradypb'
+stage_focus:
+- growth
+- series-b
+- series-c
+status: published
+tldr: 'Sequoia Co-Steward (appointed Nov 2025); growth-stage investor (Series B+)
+  leading practice since 2015. Portfolio $250B+ market cap: 52% enterprise SaaS (ServiceNow,
+  Zoom, Okta, Qualtrics), 15% AI (OpenAI, Harvey). Known for ''market determines size,
+  founder determines execution'' and ''relentless application of force'' thesis. $10M-$200M
+  checks.'
+type: individual
 ---
 
 ## Background
