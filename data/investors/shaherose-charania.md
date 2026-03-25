@@ -45,7 +45,7 @@ From 2018 to 2023, Charania spent five years at Nike, where she designed and lau
 
 She is also the co-host of First Funders, a podcast spotlighting investors reshaping early-stage funding, alongside Aamir Virani [^10].
 
-## Stated Thesis (self-reported)
+## Stated Thesis
 
 Charania focuses on backing founders who are "customer-obsessed, mission-driven, resilient, resourceful, and skilled storytellers" [^2]. She believes that "exceptional founders often emerge from unexpected places" [^2] and champions diverse founders building impactful, people-first solutions in health, wellness, and technology [^11].
 
@@ -81,8 +81,8 @@ Based on 15 publicly confirmed investments (out of 40+ claimed), the sample is t
 | Forethought (acq. by Zendesk) | 2021 | Angel | [^14] |
 | Zero Grocery | 2021 | Angel | [^14] |
 | Serif Health | 2021 | Angel | [^14] |
-| Good World Solutions | -- | Board Member | [^4] |
-| Amber Video | -- | Advisor | [^3] |
+| Good World Solutions | ~2015 | Board Member | [^4] |
+| Amber Video | ~2014 | Advisor | [^3] |
 
 *Note: Charania reports 40+ angel investments total [^2]. The above are the publicly confirmed companies. The 2021 cohort was disclosed in her LinkedIn year-end reflection [^14]. Additional investments through DVC (100+ startups, $21M+ deployed in 2021) are not individually attributed to her [^14].*
 

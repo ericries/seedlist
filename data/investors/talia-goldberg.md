@@ -1,4 +1,5 @@
 ---
+type: individual
 check_size: $1M-$250M
 firm: bessemer-venture-partners
 last_researched: 2026-03-20

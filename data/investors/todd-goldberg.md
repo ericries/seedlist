@@ -1,4 +1,5 @@
 ---
+type: individual
 check_size: $300K–$500K
 firm: todd-and-rahul-capital
 last_researched: 2026-03-19
