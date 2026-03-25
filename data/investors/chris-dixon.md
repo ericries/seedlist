@@ -1,6 +1,7 @@
 ---
 name: "Chris Dixon"
 slug: chris-dixon
+tldr: "General Partner & Founder of a16z crypto ($7B AUM), former angel investor (Kickstarter, Pinterest, Stripe). Led Coinbase Series B 2013 (10B+ value at IPO). Portfolio (23 verified) is 48% crypto/web3 (Coinbase, Uniswap, OpenSea, Dapper Labs), 26% consumer. 'Read Write Own' framework investor backing blockchain internet openness. Checks $10M-$60M. Forbes Midas #1 2022."
 type: individual
 firm: andreessen-horowitz
 role: "General Partner / Founder & Managing Partner, a16z crypto"

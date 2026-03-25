@@ -15,6 +15,7 @@ sector_focus:
 - food-delivery
 - consumer
 slug: travis-kalanick
+tldr: "Uber co-founder/former CEO (2010-2017). Launched 10100 fund (2018) for real estate, e-commerce, emerging tech in China/India. CEO of Atoms (CloudKitchens ghost kitchens, $15B valuation, $300M personal capital). Forbes 400 #374, $3.6B net worth. Philosophy: focus on 'real world' businesses moving physical things, not just software. Infrastructure plays over consumer apps. Team quality as primary signal. Seeks founders with 'shared vision,' 'want to build but don't need to be famous.'"
 social:
   linkedin: linkedin.com/in/traviskalanick
   twitter: '@traviskal'

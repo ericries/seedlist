@@ -1,6 +1,7 @@
 ---
 name: "Pat Grady"
 slug: pat-grady
+tldr: "Sequoia Co-Steward (appointed Nov 2025); growth-stage investor (Series B+) leading practice since 2015. Portfolio $250B+ market cap: 52% enterprise SaaS (ServiceNow, Zoom, Okta, Qualtrics), 15% AI (OpenAI, Harvey). Known for 'market determines size, founder determines execution' and 'relentless application of force' thesis. $10M-$200M checks."
 type: individual
 firm: sequoia-capital
 role: "Partner & Co-Steward"

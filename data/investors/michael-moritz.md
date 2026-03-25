@@ -1,6 +1,7 @@
 ---
 name: "Michael Moritz"
 slug: michael-moritz
+tldr: "Former Sequoia partner (38 years) and journalist; legendary seed/Series A investor backing Yahoo, Google, PayPal, LinkedIn, YouTube, Dropbox, Stripe. Portfolio 35% consumer internet, 15% fintech. Known for journalistic diligence, obsession-seeking in founders, and backing 'underdogs proving conventional wisdom wrong.' Now focuses on Sequoia Heritage wealth management."
 type: individual
 firm: sequoia-capital
 role: "Former Partner / Chairman, Sequoia Heritage"

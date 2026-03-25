@@ -1,6 +1,7 @@
 ---
 name: "Sean Parker"
 slug: sean-parker
+tldr: "Founder of Napster and first president of Facebook (led Spotify investment in 2010 for $15M at 5%). Operates as investor-operator hybrid through Parker Group, writing $1M-$10M checks. Portfolio concentrates on media/entertainment infrastructure (25% including Spotify, Weta Digital, Stability AI as Executive Chairman) and paradigm-shifting platforms with network effects. Known for seeking founders with intuitive product sense and deep problem understanding, not just technical skill."
 type: individual
 firm: founders-fund
 role: "Former Managing Partner"

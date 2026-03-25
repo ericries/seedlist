@@ -1,6 +1,7 @@
 ---
 name: "Mala Gaonkar"
 slug: mala-gaonkar
+tldr: "Founder of SurgoCap Partners with $6 billion AUM; former Portfolio Manager at Lone Pine Capital managing $33B. Concentrated hedge fund strategy targeting technology infrastructure across traditional sectors: Alphabet, Taiwan Semiconductor, and financial services platforms. Focus on 'long duration moats' and invests up to 25% in private companies including Figma."
 type: individual
 firm: surgocap-partners
 role: "Co-Founder & Portfolio Manager"

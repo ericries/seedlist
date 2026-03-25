@@ -1,6 +1,7 @@
 ---
 name: "Adam D'Angelo"
 slug: adam-dangelo
+tldr: "CEO of Quora and former CTO of Facebook who angel invests exclusively in AI, with 50% of his 22 verified investments in AI/ML infrastructure and applications. Focuses on seed stage with $10K-$500K checks in San Francisco. Notable investments include Scale AI, Pika, Cerebras Systems, and Replit."
 type: individual
 firm: quora
 role: "Co-Founder & CEO"

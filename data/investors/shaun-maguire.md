@@ -1,6 +1,7 @@
 ---
 name: "Shaun Maguire"
 slug: shaun-maguire
+tldr: "Physics PhD (Caltech) and Sequoia Partner on Seed/Early team; co-founder of Escape Dynamics (space propulsion) and Expanse ($1B+ Palo Alto Networks acquisition). DARPA civilian contractor. Self-taught (GED → community college path); invests in defense tech (17%), crypto (22%), and hardware/space (13%) with $1M-$10M checks. Seeks 'high-IQ founders irrationally motivated' by mission. Controversial figure; advocate for hardware-first future and Israeli AI sector."
 type: individual
 firm: sequoia-capital
 role: "Partner"

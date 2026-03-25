@@ -1,6 +1,7 @@
 ---
 name: "Jake Gibson"
 slug: jake-gibson
+tldr: "Founding Partner at Better Tomorrow Ventures focused exclusively on fintech, payments, and lending at pre-seed/seed. Checks $500K-$3M in companies addressing financial services infrastructure. Representative of new breed of fintech-focused seed investors emphasizing category depth over breadth."
 type: individual
 firm: better-tomorrow-ventures
 role: "Founding Partner"

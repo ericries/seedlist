@@ -1,6 +1,7 @@
 ---
 name: "Scott Kupor"
 slug: scott-kupor
+tldr: "First employee and Managing Partner of Andreessen Horowitz (2009-2025), grew firm from $300M to $30B+ AUM. Invests at Series B+ with $10M-$60M checks focusing on growth-stage companies. Healthcare/biotech represents 46% of verified board investments (Formation Bio, Pearl Health, Talkiatry, Headway). Authored *Secrets of Sand Hill Road*; advocates 'aspirin over vitamins' thesis (urgent problems vs. nice-to-haves) and 'strong opinions weakly held' founder philosophy. Now OPM Director."
 type: individual
 firm: andreessen-horowitz
 role: "Managing Partner (on leave; serving as OPM Director)"

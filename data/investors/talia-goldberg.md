@@ -1,7 +1,7 @@
 ---
 name: "Talia Goldberg"
 slug: talia-goldberg
-type: individual
+tldr: "Bessemer Partner since 2019, youngest partner in firm's history at that time. Joined Bessemer 2013 (analyst), promoted VP 2017, Principal 2018. Forbes 30 Under 30 VC. Portfolio 25% AI (Perplexity, DeepL, Fal.ai), 20% each fintech and enterprise/developer tools, 20% consumer (Discord, StubHub IPO 2025, ServiceTitan IPO 2024). Early employee at Foursquare and Simple. Philosophy: 'Most things that seem insane are totally insane. But every year one becomes most valuable business."
 firm: bessemer-venture-partners
 role: "Partner"
 location: "San Francisco, CA"

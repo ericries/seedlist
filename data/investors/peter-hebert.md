@@ -1,6 +1,7 @@
 ---
 name: "Peter Hébert"
 slug: peter-hebert
+tldr: "Lux Capital co-founder (2000); deep-tech pioneer backing 'scientifically ambitious ventures.' Portfolio: 36% healthcare/biotech, 23% hardware/semiconductors. Philosophy: embrace multi-disciplinary tech (AI, robotics, vision). Early validation: Kurion nuclear waste exit. Contrarian on ignored deep science. $100K-$100M checks."
 type: individual
 firm: lux-capital
 role: "Partner & Co-Founder"

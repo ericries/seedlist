@@ -1,6 +1,7 @@
 ---
 name: "Alex Ferrara"
 slug: alex-ferrara
+tldr: "Partner at Bessemer Venture Partners, leads European investing from London office opened 2022. Technical background informs focus on B2B SaaS (33% of portfolio), cybersecurity (23%), and growing defense tech focus. Notable early investments: Shopify Series A 2010 ($85B+ exit), Pipedrive, BigID. Checks $500K-$100M at Series A and later."
 type: individual
 firm: bessemer-venture-partners
 role: "Partner"

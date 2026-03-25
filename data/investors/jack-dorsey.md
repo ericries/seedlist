@@ -1,6 +1,7 @@
 ---
 name: "Jack Dorsey"
 slug: jack-dorsey
+tldr: "Twitter and Square founder now focused on Bitcoin infrastructure and decentralization. Angel investor with 20+ verified deals showing stark pre/post-2018 split: early portfolio (Instagram, Flipboard, Kickstarter) vs. current focus (30% Bitcoin/crypto infrastructure). Checks $100K-$10M; recent bets: Azteco (fintech inclusion), OCEAN (mining decentralization), SimpleX Chat (privacy). Grants open-source projects via Start Small ($1.64B philanthropic vehicle)."
 type: individual
 firm: independent
 role: "Angel Investor / CEO, Block"

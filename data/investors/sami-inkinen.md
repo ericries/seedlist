@@ -1,6 +1,7 @@
 ---
 name: "Sami Inkinen"
 slug: sami-inkinen
+tldr: "Co-founder of Trulia (acquired by Zillow for $2.5B) and CEO of Virta Health ($2B valuation), now angel investor focused exclusively on health and wellness startups. Invests at seed stage with personal conviction in mission-driven founders who 'unquestionably fall in love' with tackling major health problems—100% of verified 9 investments are in healthtech despite reporting activity level that suggests broader portfolio."
 type: individual
 firm: obvious-ventures
 role: "Venture Partner; Angel Investor"

@@ -8,6 +8,7 @@ last_verified_investment:
   round: Public equity (13F Q4 2025)
 location: Waltham, Massachusetts
 name: David Goel
+tldr: "Co-Founder and Managing General Partner of Matrix Capital Management, a $11B hedge fund closing August 2024. Portfolio shifted from 50% technology/cloud (Netflix, Workday, NVIDIA) to 50% life sciences/biotech by final year. Known for concentrated long/short positions with double-digit annual returns since 1999. Also founded AyurMaya Capital for private life sciences investments ranging from $100M-$400M per round."
 role: Co-Founder & Managing General Partner
 sector_focus:
 - technology

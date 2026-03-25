@@ -1,6 +1,7 @@
 ---
 name: "Henry Ellenbogen"
 slug: henry-ellenbogen
+tldr: "Founder of Durable Capital Partners ($18.2B AUM) who invests as a crossover hedge fund in late-stage private companies. Portfolio is 71% Series D+ with focus on software (36%), fintech (21%), and consumer (14%). Seeks '1% compounder' companies with 20%+ annual returns; invests $20M-$200M+ per deal with notable bets in Duolingo, DoorDash, Figma, Deliveroo."
 type: individual
 firm: durable-capital-partners
 role: "Founder, Managing Partner & Chief Investment Officer"

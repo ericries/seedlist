@@ -1,6 +1,7 @@
 ---
 name: "Paul Veradittakit"
 slug: paul-veradittakit
+tldr: "Pantera Capital Managing Partner (2014+); 250+ investments, 25 unicorns. 'Crypto as a Service' thesis (hide blockchain, solve legacy problems). 27% blockchain infrastructure, 20% DeFi, 20% exchanges. Mission-driven founders surviving bear markets. Board: Alchemy, VALR, Blockfolio. $100K-$8M checks."
 type: individual
 firm: pantera-capital
 role: "Managing Partner"

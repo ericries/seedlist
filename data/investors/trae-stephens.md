@@ -1,6 +1,7 @@
 ---
 name: "Trae Stephens"
 slug: trae-stephens
+tldr: "Partner at Founders Fund (2014+). Co-founder/Executive Chairman of Anduril Industries (defense autonomy, $30.5B valuation, Series G $2.5B round 2025). Also co-founded Varda Space (in-space manufacturing) and Valinor (company incubator). Portfolio focuses on defense-tech, AI, aerospace, government tech. Ex-Palantir growth lead in intel/defense; U.S. Intelligence Community computational linguist. Philosophy: concentrated portfolios, 'good quests,' seeks disagreeable founders. Now billionaire post-Anduril Series G."
 type: individual
 firm: founders-fund
 role: "Partner"

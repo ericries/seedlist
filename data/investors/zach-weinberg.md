@@ -1,6 +1,7 @@
 ---
 name: "Zach Weinberg"
 slug: zach-weinberg
+tldr: "Co-founder & GP of Operator Partners; also co-founder & CEO of Curie.Bio (computational biology platform). Wharton economics (partnered with Nat Turner). Invests $250K-$1M at pre-seed/seed/Series A in healthtech, enterprise, fintech, developer tools, cybersecurity, biotech. Recent investment in Apella. New York based. Operator-investor hybrid with deep domain experience."
 type: individual
 firm: operator-partners
 role: "Co-Founder & General Partner"

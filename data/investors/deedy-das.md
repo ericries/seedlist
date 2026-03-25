@@ -1,6 +1,7 @@
 ---
 name: "Deedy Das"
 slug: deedy-das
+tldr: "Partner at Menlo Ventures (promoted Sept 2025, previously principal). Portfolio of 10 verified investments is 100% AI/AI-infrastructure focus (OpenHands AI, Perplexity angel, Delphi). Former Glean engineer who helped grow company to $2.2B valuation. Co-founded Anthology Fund ($100M) with Anthropic to back 40+ AI startups at pre-seed to Series A. 200K+ X followers, prominent AI community voice."
 type: individual
 firm: menlo-ventures
 role: "Partner"

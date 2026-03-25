@@ -1,6 +1,7 @@
 ---
 name: "Shlomo Kramer"
 slug: shlomo-kramer
+tldr: "Israeli cybersecurity godfather and co-founder of three unicorns: Check Point ($20B), Imperva, and Cato Networks ($3B+). Prolific angel investor with 61+ deals across $1M-$25M check sizes, 57% of portfolio in cybersecurity including early-stage bets in Palo Alto Networks ($100B+ valuation) and Trusteer (IBM acquisition $1B). Distinctive for board participation and leveraging Israeli ecosystem network; pattern of investing in companies that create new security categories."
 type: individual
 firm: cato-networks
 role: "Angel Investor & CEO, Cato Networks"

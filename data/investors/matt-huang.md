@@ -1,6 +1,7 @@
 ---
 name: "Matt Huang"
 slug: matt-huang
+tldr: "Paradigm co-founder with Coinbase's Fred Ehrsam; crypto-native investor. Former Sequoia partner with famous ByteDance 10,000x return. Portfolio: 31% DeFi/DEX, 20% blockchain infrastructure, 14% exchanges (Coinbase, OpenSea, Magic Eden). Frames crypto as multiplayer technology; recently expanded to AI and robotics. $1M-$100M+ checks."
 type: individual
 firm: paradigm
 role: "Co-Founder & Managing Partner"

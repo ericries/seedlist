@@ -16,6 +16,7 @@ sector_focus:
 - saas
 - cloud
 slug: nat-friedman
+tldr: "GitHub CEO (2018-2021); Xamarin founder (sold to Microsoft 2016). NFDG co-founder with Daniel Gross ($1.1B AI fund, ~4x returns). Now Meta VP of Product, Superintelligence Labs. Prolific angel investor in AI/developer tools/infrastructure. TIME100 AI 2024. Arc Institute board. $1M-$100M checks."
 social:
   linkedin: null
   twitter: '@natfriedman'

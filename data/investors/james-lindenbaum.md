@@ -1,6 +1,7 @@
 ---
 name: "James Lindenbaum"
 slug: james-lindenbaum
+tldr: "Founding Partner at Heavybit focused on developer tools, infrastructure, and devops at pre-seed through Series A. Checks $500K-$5M for founders building essential tooling for engineers. Brings technical founder credibility from early Gumroad days; community-first approach to operator support."
 type: individual
 firm: heavybit
 role: "Founding Partner"

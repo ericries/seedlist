@@ -1,6 +1,7 @@
 ---
 name: "Trevor Oelschig"
 slug: trevor-oelschig
+tldr: "Managing Director at General Catalyst (2016+), partner Bessemer (2007-2016), promoted to partner 2013. Invests $1M-$10M at seed/Series A/B/C in enterprise SaaS and developer tools. Bessemer exits include Shopify IPO, PagerDuty IPO, Instructure IPO, 2U IPO. UC Berkeley IE/OR, Stanford MSES, Wharton MBA. Seeks founders with 'intrinsic understanding of their business' who bring operational improvements and developer-focused products."
 type: individual
 firm: general-catalyst
 role: "Managing Director"

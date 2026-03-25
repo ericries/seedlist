@@ -1,6 +1,7 @@
 ---
 name: "Phin Barnes"
 slug: phin-barnes
+tldr: "First Round Capital Partner (60+ investments) and co-founder of The General Partnership ($300M Fund II). Values 'unique insight' in founders; critical of pattern recognition. Coined 'diversity debt' concept. Portfolio: Blue Apron, Notion, Clover Health. Advocates capital efficiency ('optimize learning per dollar'). Pre-seed to seed. $100K-$5M checks."
 type: individual
 firm: the-general-partnership
 role: "Co-Founder & Managing Partner (Board Partner at First Round Capital)"

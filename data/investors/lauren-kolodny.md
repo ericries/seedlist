@@ -1,6 +1,7 @@
 ---
 name: "Lauren Kolodny"
 slug: lauren-kolodny
+tldr: "Co-Founder of Acrew Capital ($1.7B AUM) focused on fintech and consumer fintech with LatAm angle. Checks $1M-$15M at seed through Series B. Led Chime investment at Aspect Ventures; brings product marketing (Google Drive) and clean tech (Tesla) experience. Thesis emphasizes financial inclusion and emerging market adoption."
 type: individual
 firm: acrew-capital
 role: "Co-Founder & Managing Partner"

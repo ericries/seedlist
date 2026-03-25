@@ -1,6 +1,7 @@
 ---
 name: "Kirsten Green"
 slug: kirsten-green
+tldr: "Founder of Forerunner Ventures investing $1M-$15M in seed and Series A consumer, DTC, marketplaces, and fintech. Pioneer of consumer internet thesis focused on platforms and repeat founders. Notable exits: Warby Parker, Glossier, Thrive Market reflect early conviction in DTC category transformation."
 type: individual
 firm: forerunner-ventures
 role: "Founder & Managing Partner"

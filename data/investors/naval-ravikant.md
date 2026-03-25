@@ -1,6 +1,7 @@
 ---
 name: "Naval Ravikant"
 slug: naval-ravikant
+tldr: "AngelList co-founder; 200+ investments with 37 exits and 16 unicorns. Pre-seed/seed investor ($50K-$5M). Emphasizes great team + huge market + two of three: difficult tech, proprietary distribution, direct monetization. Early backer: Twitter, Uber, Stack Overflow, Yammer. Founder/operator mindset; 'contrarian, patient, informed optimism' thesis."
 type: individual
 firm: angellist
 role: "Co-Founder & Chairman"

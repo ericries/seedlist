@@ -1,6 +1,7 @@
 ---
 name: "Matt Cohler"
 slug: matt-cohler
+tldr: "Former Benchmark GP; Facebook VP Product and LinkedIn founder. Seed-Series B investor with 45% consumer/social focus (Instagram, Uber, Tinder, Quora) and 25% enterprise SaaS (Asana, Zendesk, Dropbox). Known for backing network-effect businesses; values clarity of purpose and customer love as investment signal. $2M-$20M checks."
 type: individual
 firm: benchmark
 role: "General Partner (former)"

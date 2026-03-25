@@ -1,6 +1,7 @@
 ---
 name: "Jack Abraham"
 slug: jack-abraham
+tldr: "Founder of Atomic venture studio ($750M+ AUM across 4 funds) who builds companies from scratch rather than investing. Sold Milo.com to eBay for $75M at 24. Portfolio 22% healthcare (Hims & Hers NYSE-listed), 22% AI/software, 17% real estate. Co-founders every company with recruited CEOs; headquartered in Miami since 2020. Recent vintage skews AI; mixed exits (Hims success vs. OpenStore 95% down round)."
 type: individual
 firm: atomic
 role: "Founder & Managing Partner"

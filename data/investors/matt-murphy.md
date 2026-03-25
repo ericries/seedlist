@@ -18,6 +18,7 @@ sector_focus:
 - fintech
 - cybersecurity
 slug: matt-murphy
+tldr: "Menlo Ventures Partner; former Kleiner Perkins GP (15+ years). Co-led pioneering $200M iFund with Apple. Invests across seed to growth in AI infrastructure, AI SaaS, robotics. Known for identifying trends: 'enterprise IT reinvention' and 'mobile-first.' Sweet spot: inflection-stage companies. $250K-$40M checks."
 social:
   linkedin: linkedin.com/in/matt-murphy-0415543
   twitter: '@mmurph'

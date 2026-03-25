@@ -1,6 +1,7 @@
 ---
 name: "John Doerr"
 slug: john-doerr
+tldr: "Chairman of Kleiner Perkins after 36+ years as GP backing Compaq, Amazon, Google, NetScape. Invests $10M-$150M+ (KP scale) plus personal checks at $10M for category-defining companies. Heavy climate focus post-2020. Popularized OKRs; authored bestsellers. Legendary VC operator across infrastructure eras."
 type: individual
 firm: kleiner-perkins
 role: "Chairman"

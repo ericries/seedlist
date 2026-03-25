@@ -1,6 +1,7 @@
 ---
 name: "Anu Hariharan"
 slug: anu-hariharan
+tldr: "Co-Founder of Avra, former MD of YC Continuity where she led growth-stage bets in Brex, Faire, Gusto, Monzo, Whatnot. Now invests $10M-$50M at Series B/C/growth from a16z/BCG/YC background. Portfolio emphasizes organic growth metrics and founder grit; known for 6-7 week intensive CEO cohort program. Avis Budget Group board member."
 type: individual
 firm: avra
 role: "Co-Founder & Managing Partner"

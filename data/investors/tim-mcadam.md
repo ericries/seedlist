@@ -14,6 +14,7 @@ sector_focus:
 - cybersecurity
 - tech-enabled-services
 slug: tim-mcadam
+tldr: "GP and Senior Advisor at TCV (since 2010), 30+ years growth equity experience. Portfolio 67% enterprise SaaS (GitLab, Avalara IPO, Splunk acquired Cisco, Certinia), 28% cybersecurity (Vectra, Rapid7, Alarm.com). Growth-stage investor ($10M-$300M checks). Pure B2B focus; no consumer companies. Deep security domain expertise spanning network, analytics, compliance, privacy. Co-invest patterns: Warburg Pincus, Insight Partners."
 social:
   linkedin: linkedin.com/in/timmcadam
 stage_focus:

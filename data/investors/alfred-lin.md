@@ -1,6 +1,7 @@
 ---
 name: "Alfred Lin"
 slug: alfred-lin
+tldr: "Partner & Co-Steward at Sequoia Capital, Taiwanese-American operator-investor with COO/CFO background at Zappos and multiple exits. Portfolio (27 verified investments) dominated by marketplaces (26%: Airbnb, DoorDash, Instacart, Houzz) with strong operational infrastructure focus. Checks $1M-$10M from seed through growth. #1 Forbes Midas List investor multiple times."
 type: individual
 firm: sequoia-capital
 role: "Partner & Co-Steward"

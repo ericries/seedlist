@@ -1,6 +1,7 @@
 ---
 name: "Warren Shaeffer"
 slug: warren-shaeffer
+tldr: "Partner at Pear VC (joined July 2024 as Visiting Partner, full Partner Dec 2024). Three-time founder: SocialEngine (Room 214 acquisition 2013), Vidme (video platform acquired by Giphy 2017), Knowable (audio learning, Medium acquisition 2021). VP of Audio at Medium post-acquisition. Runs PearX accelerator. Pre-seed/seed investor ($250K-$2M) in consumer, social, edtech, creator economy. JPMorgan analyst, Golden Gate Capital PE investor."
 type: individual
 firm: pear-vc
 role: "Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Mary Meeker"
 slug: mary-meeker
+tldr: "Founder of BOND ($5.75B total AUM); 'Queen of the Internet' Morgan Stanley analyst turned VC. Growth-stage investor (Series C+) with 51 unicorns. Portfolio: 31% enterprise SaaS, 19% consumer, 19% education. Known for user-first thesis; invests $10M-$150M+. BOND portfolio spans Uber, Airbnb, Slack, Spotify, Canva, ElevenLabs."
 type: individual
 firm: bond
 role: "Founder & General Partner"

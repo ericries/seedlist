@@ -1,6 +1,7 @@
 ---
 name: "Steve Anderson"
 slug: steve-anderson
+tldr: "Founder of Baseline Ventures (2006), pioneering micro-VC. Invests $100K-$1M at pre-product stage; portfolio 34% enterprise SaaS (PagerDuty, Heroku, Expensify), 26% consumer (Instagram, Twitter, Path, Pocket), 9% fintech (SoFi). Known for rapid 30-minute decisions and network-driven sourcing from founders. Forbes #49 Most Powerful Businesspeople (2012); Midas List #2 (2016). Stitch Fix board member. Seattle native; worked Starbucks → eBay → Microsoft → KPCB before starting Baseline."
 type: individual
 firm: baseline-ventures
 role: "Founder"

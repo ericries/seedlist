@@ -1,6 +1,7 @@
 ---
 name: "Shervin Pishevar"
 slug: shervin-pishevar
+tldr: "Co-founder of Sherpa Capital (2013-2017, $650M across funds), former Managing Director at Menlo Ventures where he led Uber's $26M Series B. Iranian-American with patent background in malaria treatment; invests via 'regulatory arbitrage' thesis (companies that disrupt outdated regulations). Portfolio 33% on-demand/marketplace (Uber, Airbnb, TaskRabbit, Postmates). Also co-founded Virgin Hyperloop One and Do.com. Recent focus through Edison Fund and Sofreh Capital on deep tech including Helion Energy ($375M Series E check)."
 type: individual
 firm: sherpa-capital
 role: "Co-Founder & Managing Director (former)"

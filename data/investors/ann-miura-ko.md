@@ -1,6 +1,7 @@
 ---
 name: "Ann Miura-Ko"
 slug: ann-miura-ko
+tldr: "Co-Founder of Floodgate, PhD in computer security from Stanford. Pioneering pre-seed investor backing 'Thunder Lizards' — world-changing founders. Portfolio (26 verified) is 35% consumer/marketplaces (Lyft, TaskRabbit, Refinery29), 19% enterprise SaaS (Okta, Xamarin). Checks $500K-$5M at pre-seed/seed. Forbes 'most powerful woman in startups'; Midas List repeat."
 type: individual
 firm: floodgate
 role: "Co-Founder & Partner"

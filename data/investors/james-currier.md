@@ -1,6 +1,7 @@
 ---
 name: "James Currier"
 slug: james-currier
+tldr: "Co-Founder of NFX, a seed-stage firm investing $250K-$5M in marketplaces, fintech, consumer, and gaming. Known for deep network effects thesis and early thesis on token economics. Portfolio includes Shopify, Airbnb, Figma (pre-IPO stakes). Founder of product education platform and prolific writer on marketplace dynamics."
 type: individual
 firm: nfx
 role: "Co-Founder & General Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Marc Lore"
 slug: marc-lore
+tldr: "E-commerce expert (Jet.com, Diapers.com) and co-founder of VCP Ventures; concentrated operator-investor taking 40-80% stakes in early-stage companies. Focus on food-tech (Wonder Group acquiring Grubhub/Blue Apron), e-commerce, and mobility. Unlike traditional angels, provides substantial day-one capital and takes active operational roles."
 type: individual
 firm: vcp-ventures
 role: "Co-Founder"

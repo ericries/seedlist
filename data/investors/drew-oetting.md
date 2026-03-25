@@ -1,6 +1,7 @@
 ---
 name: "Drew Oetting"
 slug: drew-oetting
+tldr: "Partner at 8VC (relocated to Austin 2020). Portfolio of 360 verified companies with emphasis on Build program (30% of capital) co-founding hard-tech: National Resilience (biomanufacturing), Saronic (autonomous naval), Epirus (defense microwave). Known for 'junior co-founder' model and American renewal thesis. Seed/Series A focus; architect of Palantir's Forward Deployed Engineers model."
 type: individual
 firm: 8vc
 role: "Co-Founder & Partner"

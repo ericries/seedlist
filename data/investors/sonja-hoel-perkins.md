@@ -1,6 +1,7 @@
 ---
 name: "Sonja Hoel Perkins"
 slug: sonja-hoel-perkins
+tldr: "35+ year venture veteran; founder of The Perkins Fund (2016) and co-founder of Broadway Angels (2010). Former Menlo Ventures GP (22 years, youngest at 29, 6x Investor of Year). Early identifier of McAfee ($20M→IPO), generating substantial returns. Invests $250K-$2M at seed/Series A. Portfolio focuses on security, consumer, fintech across 60+ career investments. Distinctive for backing women founders and overlooked markets (women's fashion); founder of Project Glimmer nonprofit (700K+ girls reached)."
 type: individual
 firm: broadway-angels
 role: "Founder & Managing Director"

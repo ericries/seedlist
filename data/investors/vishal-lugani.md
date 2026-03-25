@@ -1,6 +1,7 @@
 ---
 name: "Vishal Lugani"
 slug: vishal-lugani
+tldr: "Co-founder of Acrew Capital (2019, $1.7B AUM) alongside Theresia Gouw, Lauren Kolodny, Asad Khaliq, Mark Kraynak. Previously Aspect Ventures principal (2016+) with investments in Coinbase, PredictHQ, Pie Insurance, The RealReal, HotelTonight (Airbnb acquisition). Forbes 30 Under 30 VC 2016. Harvard grad; co-founder Unithrive (peer-to-peer lending); Kairos Society founder Harvard chapter. Invests $1M-$15M at seed/Series A/B in fintech, consumer, health, community."
 type: individual
 firm: acrew-capital
 role: "Co-Founder & General Partner"

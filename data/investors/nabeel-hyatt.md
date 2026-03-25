@@ -1,6 +1,7 @@
 ---
 name: "Nabeel Hyatt"
 slug: nabeel-hyatt
+tldr: "Spark Capital GP; product-obsessed, low-volume investor (1-2 per year). Founder background (Ambient Devices, Conduit Labs/Zynga). Seeks 'Japanese toilet' innovation and magical product experiences. Notable: Postmates ($5B exit to Uber), Cruise ($1B+ to GM), Discord, Sonder ($2.2B IPO). $100K-$15M checks; focuses on consumer and AI/robotics."
 type: individual
 firm: spark-capital
 role: "General Partner"

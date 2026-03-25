@@ -1,6 +1,7 @@
 ---
 name: "Daniel Gross"
 slug: daniel-gross
+tldr: "Co-Founder of NFDG ($1.1B AI-focused fund), Pioneer accelerator, and Safe Superintelligence (departed June 2025). Portfolio of 18 verified investments is 50% AI/ML, 22% developer tools, with major bets in Perplexity, ElevenLabs, and CoreWeave. Known for deploying Andromeda Cluster (4,000+ GPUs) to portfolio companies and backing platform infrastructure like GitHub and Figma."
 type: individual
 firm: nfdg
 role: "Co-Founder"

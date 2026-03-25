@@ -1,6 +1,7 @@
 ---
 name: "Nir Zuk"
 slug: nir-zuk
+tldr: "Palo Alto Networks founder/CTO (retired Aug 2025, $120B+ market cap). Israeli entrepreneur investing ~$150M in local startups since 2020. Focus: fintech, healthtech, defense tech (avoids cybersecurity conflicts). Thesis: 'A-team with C-plan beats C-team with A-plan.' Founder of Cylake (AI data sovereignty, $45M seed). $5M-$50M checks."
 type: individual
 firm: palo-alto-networks
 role: "Founder & CTO (retired August 2025)"

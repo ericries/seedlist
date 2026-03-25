@@ -1,6 +1,7 @@
 ---
 name: "Mike Maples Jr."
 slug: mike-maples
+tldr: "Floodgate co-founder; pioneering seed investor known for 'Thunder Lizards' thesis and 'inflections + insights' framework. Invests in pattern breakers not pattern matchers. Portfolio across AI, consumer, enterprise SaaS with notable exits: Twitter, Twitch, Chegg. Emphasizes founder-future fit over founder-market fit. $500K-$5M checks."
 type: individual
 firm: floodgate
 role: "Co-Founder & Partner"

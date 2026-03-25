@@ -1,6 +1,7 @@
 ---
 name: "Sonali De Rycker"
 slug: sonali-de-rycker
+tldr: "Partner at Accel (London) since 2008, #2 on Forbes Midas List Europe (2019). Invests at Series A/B with $15M-$70M checks across primarily European companies. Portfolio 32% consumer/marketplaces (Avito $2.7B acquisition, Spotify IPO 2018, Letgo, Wallapop, Catawiki), 23% fintech (Monzo, Soldo, Omnea). Pan-European concentration across 8 countries reflects conviction that 'we have all the pieces' in European tech ecosystem. Forbes Midas newcomer 2018; board member Match Group."
 type: individual
 firm: accel
 role: "Partner"

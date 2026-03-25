@@ -1,6 +1,7 @@
 ---
 name: "Bill Gross"
 slug: bill-gross
+tldr: "Founder of Idealab (1996), incubator of 150+ companies with 50+ IPOs. Invented paid-search CPC model (GoTo.com → Overture, Yahoo $1.63B). Now focused on clean energy: Heliogen, Energy Vault, CarbonCapture. Recent: ProRata.ai for AI attribution. Core thesis: timing (42% of success) beats idea. Caltech trustee; passionate about solving 'big, broken' problems. Checks ~$250K per company."
 type: individual
 firm: idealab
 role: "Founder & Chairman"

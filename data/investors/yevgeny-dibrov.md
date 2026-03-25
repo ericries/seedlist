@@ -1,6 +1,7 @@
 ---
 name: "Yevgeny Dibrov"
 slug: yevgeny-dibrov
+tldr: "Co-founder & CEO of Armis ($9.1B valuation), Israeli cybersecurity company. Ukrainian-born, immigrated Israel age 3-4. Technion BS electrical engineering + computer science. Israeli Unit 81 intelligence corps (2007-2010). VP Business Development at Adallom (age 25) → Microsoft acquisition ($320M, 2015). Angel investor ($5K-$50K) in cybersecurity, enterprise infrastructure, AI, developer tools. Recent investment in Spirit. Palo Alto based."
 type: individual
 firm: armis
 role: "Co-Founder & CEO"

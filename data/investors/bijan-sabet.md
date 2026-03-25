@@ -1,6 +1,7 @@
 ---
 name: "Bijan Sabet"
 slug: bijan-sabet
+tldr: "Co-Founder of Spark Capital ($4B AUM), Boston-based early consumer internet investor with exits at WebTV (Microsoft $425M), Grand Central (Citrix). Portfolio emphasizes product-first founders and extraordinary founders. U.S. Ambassador to Czech Republic (2022-2025). Spark led deals across marketplaces, social, enterprise. Checks $1M-$15M at seed/Series A. Forbes Midas 2011-2017."
 type: individual
 firm: spark-capital
 role: "Co-Founder & Partner Emeritus"

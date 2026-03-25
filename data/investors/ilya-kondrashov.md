@@ -1,6 +1,7 @@
 ---
 name: "Ilya Kondrashov"
 slug: ilya-kondrashov
+tldr: "CEO of QuantumLight ($250M fund) co-founded with Revolut founder Nik Storonsky. Data-driven growth investor at Series A/B with AI-driven deal screening across 700K+ venture companies. Portfolio is 39% fintech, 22% AI infrastructure, globally distributed (US 33%, Europe 28%, emerging markets 17%). Fund II targeting $400M at 30% net IRR; invests ~$5M average with strong tier-1 co-investors."
 type: individual
 firm: quantumlight
 role: "CEO & Co-Founder"

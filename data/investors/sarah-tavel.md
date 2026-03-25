@@ -1,6 +1,7 @@
 ---
 name: "Sarah Tavel"
 slug: sarah-tavel
+tldr: "Benchmark's first woman GP (now venture partner), previously at Greylock and Pinterest. Invests at Series A with $4M-$30M checks across consumer marketplaces (43% of verified portfolio) and increasingly AI. Known for 'Hierarchy of Engagement' and 'Happy GMV' frameworks emphasizing founder obsession over metrics; recent pivot toward 'Sell Work, Not Software' reflects evolution from pure consumer social bets toward AI infrastructure and applications."
 type: individual
 firm: benchmark
 role: "Venture Partner (formerly General Partner)"

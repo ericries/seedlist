@@ -1,6 +1,7 @@
 ---
 name: "Ilya Sutskever"
 slug: ilya-sutskever
+tldr: "OpenAI Chief Scientist turned Co-founder of Safe Superintelligence Inc. ($32B valuation, 2025). Minimal angel portfolio (3 verified investments) focused on AI infrastructure: Graphcore, Cerebras Systems (AI chips), Rosebud AI. Primarily a researcher and company builder rather than professional investor; recent activity focused entirely on SSI and safe AI development."
 type: individual
 firm: safe-superintelligence
 role: "Co-Founder & Chief Scientist"

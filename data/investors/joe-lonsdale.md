@@ -1,6 +1,7 @@
 ---
 name: "Joe Lonsdale"
 slug: joe-lonsdale
+tldr: "Founder of 8VC focused on seed through Series B in defense, healthcare, logistics, enterprise, and AI. Checks $500K-$10M with emphasis on hard-problem solving and founder mission alignment. Austin-based; known for operational founder support and deep domain conviction."
 type: individual
 firm: 8vc
 role: "Founder & Managing Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Paul Graham"
 slug: paul-graham
+tldr: "Y Combinator co-founder and essayist; seed-stage angel investor (93% of portfolio at seed) with $5-50K checks. Focus on developer tools (29%), consumer (21%), with strong YC alumni bias. Known for founder determination thesis; portfolio includes ClassDojo, Replit, Stripe, Boom Supersonic. Small personal portfolio reflects focus on YC mentoring over angel investing."
 type: individual
 firm: y-combinator
 role: "Co-Founder"

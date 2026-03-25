@@ -1,6 +1,7 @@
 ---
 name: "Shardul Shah"
 slug: shardul-shah
+tldr: "Partner at Index Ventures (since 2008), 50% of verified portfolio in cybersecurity including Wiz (Google acquisition $32B), Datadog (NASDAQ), Duo Security (Cisco acquisition). AI is 25% of portfolio (Augment, Cartesia, Parallel, Twelve Labs). Conviction-based repeat founder backer—followed Wiz founders across two companies (Adallom → Wiz). Invests across seed to growth ($100K-$50M). Forbes Midas List multiple years; distinctive for Israeli cybersecurity ecosystem focus."
 type: individual
 firm: index-ventures
 role: "Partner"

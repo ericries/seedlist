@@ -1,6 +1,7 @@
 ---
 name: "Turner Novak"
 slug: turner-novak
+tldr: "Founder of Banana Capital (Ann Arbor, MI), early-stage VC (pre-seed/seed, $25K-$300K checks). Built 250K+ followers through Twitter investment memos and meme content. Philosophy: 'resilient, obsessed founders with chip on shoulder.' First/largest investor in 78% of Fund II. 55+ companies backed. Ex-Gelt VC ('Chief Meme Officer'). Sought venture capital path unconventionally via Twitter visibility. Invests across consumer, fintech, gaming, SaaS, healthtech."
 type: individual
 firm: banana-capital
 role: "Founder & General Partner"

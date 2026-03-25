@@ -1,6 +1,7 @@
 ---
 name: "David Sze"
 slug: david-sze
+tldr: "Advisory Partner at Greylock since 2000. Portfolio of 16 verified investments skews 44% social/network-effects (Facebook Series D, LinkedIn Series B, Discord, Nextdoor), 31% media/entertainment (Pandora, Roblox). Known for backing winner-takes-all consumer platforms; zero B2B investments. Board member at LinkedIn (12 years), Observer at Facebook (6 years). Consistently on Forbes Midas List."
 type: individual
 firm: greylock
 role: "Advisory Partner"

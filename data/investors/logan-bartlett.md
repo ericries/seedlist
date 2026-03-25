@@ -1,6 +1,7 @@
 ---
 name: "Logan Bartlett"
 slug: logan-bartlett
+tldr: "Managing Director at Redpoint Ventures leading growth investing through Redpoint Omega fund. Targets Series B/C enterprise software and infrastructure at $100K-$50M with $25M average. Six years at Battery Ventures post-banking; hosts The Logan Bartlett Show podcast. Forbes 30 Under 30."
 type: individual
 firm: redpoint-ventures
 role: "Managing Director"

@@ -1,6 +1,7 @@
 ---
 name: "David Sacks"
 slug: david-sacks
+tldr: "Co-Founder of Craft Ventures ($3.3B AUM) and PayPal Mafia member (COO at PayPal, founded Yammer). Portfolio of 70+ verified investments includes early-stage bets in Airbnb, Meta, Reddit, Slack, and Affirm, plus growth-stage in Anduril and Neuralink. Known for 'bottom-up SaaS' thesis and focus on product hooks. Appointed White House AI and Crypto Czar (December 2024); co-hosts #1 tech podcast *All In*."
 type: individual
 firm: craft-ventures
 role: "Co-Founder & Partner"
@@ -112,6 +113,21 @@ Based on Craft Ventures' verified portfolio of 70+ companies [^10]:
 ## What Founders Say
 
 No independently sourced founder testimonials found. Naval Ravikant (founder of AngelList) has called David Sacks "the world's best product strategist" [^1], though this is a peer reference rather than a portfolio founder testimonial.
+
+## Connections
+
+- **White House AI and Crypto Czar** (December 2024–present) — Special Advisor to President Trump on artificial intelligence and cryptocurrency policy [^7]
+- **Co-Chair, President's Council of Advisors on Science and Technology (PCAST)** — chairs alongside Michael Kratsios (APST); advises the President on science and technology matters [^12][^13]
+- **Board member, Roboflow** — joined board of directors September 2021; Craft Ventures portfolio company in AI/computer vision [^10][^11]
+- **Board member, Orum** — joined board of directors July 2021 [^11]
+- **Board member, ClickUp** — joined board June 2020; Craft Ventures portfolio company in productivity SaaS [^10][^11]
+- **Board member, Knock** — Craft Ventures portfolio company [^11]
+- **Board member, Scratchpad** — joined board 2021 [^11]
+- **Board member, BitGo** — Craft Ventures portfolio company in crypto infrastructure [^10][^11]
+- **Former CEO, Zenefits** (February–December 2016) — stepped in as interim CEO to stabilize the company amid regulatory issues; worked alongside Lars Dalgaard (Andreessen Horowitz) on the board [^14][^15]
+- **Co-host, *All In* podcast** — alongside Chamath Palihapitiya, Jason Calacanis, and David Friedberg; ranked #1 in tech podcasts [^1]
+- **PayPal Mafia network** — former COO at PayPal alongside Peter Thiel, Elon Musk, Reid Hoffman, Max Levchin, and Keith Rabois; co-authored *The Diversity Myth* with Thiel at Stanford [^3]
+- **Founder and former CEO, Yammer** (2008–2012) — acquired by Microsoft for $1.2B; pioneered bottom-up SaaS strategy [^1][^3]
 
 ## Sources
 

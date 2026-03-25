@@ -17,6 +17,7 @@ sector_focus:
 - automation
 - consumer-media
 slug: rich-wong
+tldr: "Accel Partner since 2006; SaaS/AI/enterprise investor (Series A-growth). Board: Atlassian, UiPath, Checkr. Ex-Openwave, Covad CMO, P&G/McKinsey. Proponent of 'Prepared Minds' thesis: founders with authentic category understanding. Values team competence in finding non-consensus opportunities. $5M-$100M checks."
 social:
   linkedin: linkedin.com/in/richpwong
   twitter: '@RWong'

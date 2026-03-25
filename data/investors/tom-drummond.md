@@ -17,6 +17,7 @@ sector_focus:
 - enterprise-software
 - ai-infrastructure
 slug: tom-drummond
+tldr: "Founder & MD of Heavybit (2013), $180M+ across 5 flagship funds. Pre-seed/seed specialist ($500K-$5M checks) in developer tools, DevOps, infrastructure, AI infrastructure. 80+ companies backed across 15 countries. Ex-Reed Elsevier VC (led $150M+ transactions). Cambridge engineer; philosophy: 'More technical the company, less useful generic advice becomes.' Emphasizes hands-on specialization and knowing when to help, not just how."
 social:
   linkedin: linkedin.com/in/tomdrummond
   twitter: '@tdbit'

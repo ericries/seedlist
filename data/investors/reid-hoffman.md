@@ -18,6 +18,7 @@ sector_focus:
 - fintech
 - crypto
 slug: reid-hoffman
+tldr: "LinkedIn founder and Greylock partner; network effects obsessive with investments spanning social/networks (20%), transportation/autonomous (20%), AI (15%), and marketplaces (15%). Notable: Aurora, Convoy, Airbnb, Zynga board seats. Blitzscaling pioneer; $500K-$20M checks; known for saying 'good product with great distribution beats great product with poor distribution.'"
 social:
   linkedin: linkedin.com/in/reidhoffman
   twitter: '@reidhoffman'

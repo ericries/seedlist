@@ -1,6 +1,7 @@
 ---
 name: "Howard Lindzon"
 slug: howard-lindzon
+tldr: "Founder of Social Leverage investing exclusively in seed stage with 51% fintech focus, emphasizing financial services ecosystem plays. $85M Fund V targeting ~$600K average checks. Portfolio includes Robinhood (138% IRR), Kustomer (Meta), DataFox (Oracle), ChartIQ (S&P Global). Created StockTwits and advocates for founder-first venture model with recruitment and fundraising support."
 type: individual
 firm: social-leverage
 role: "Founder & Managing Partner"

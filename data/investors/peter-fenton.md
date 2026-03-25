@@ -1,6 +1,7 @@
 ---
 name: "Peter Fenton"
 slug: peter-fenton
+tldr: "Benchmark GP; open-source infrastructure expert with 51% portfolio in enterprise infrastructure/developer tools (Docker, Elastic, JBoss, Kubernetes). 7 IPOs including Yelp, Twitter, Elasticsearch. Non-thesis-driven; founder-centric focusing on authenticity. Known for saying 'never turn down on valuation' and recognizing when 'lightning strikes.'"
 type: individual
 firm: benchmark
 role: "General Partner"

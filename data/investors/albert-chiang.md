@@ -1,6 +1,7 @@
 ---
 name: "Albert Chiang"
 slug: albert-chiang
+tldr: "Partner at Octahedron Capital, a growth-stage crossover fund investing across public and private. Focus on internet-scale platforms with 40% of portfolio in e-commerce/marketplaces (NU Holdings, Coupang, DoorDash). Notable for significant emerging market exposure in India, LatAm, and Southeast Asia. Recent private investments: Databricks, Monzo, Pine Labs."
 type: individual
 firm: octahedron-capital
 role: "Partner"

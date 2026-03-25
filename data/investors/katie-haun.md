@@ -1,6 +1,7 @@
 ---
 name: "Katie Haun"
 slug: katie-haun
+tldr: "Founder of Haun Ventures ($1.5B across two funds) focused exclusively on crypto and Web3 infrastructure. Former DOJ prosecutor who created first government crypto task force and prosecuted Mt. Gox case. Invests $500K-$50M in defi, stablecoins, blockchain infrastructure, NFTs, real-world assets. Brings unique legal/regulatory credibility."
 type: individual
 firm: haun-ventures
 role: "Founder & CEO"

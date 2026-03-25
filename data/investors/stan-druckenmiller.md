@@ -1,6 +1,7 @@
 ---
 name: "Stanley Druckenmiller"
 slug: stan-druckenmiller
+tldr: "Legendary hedge fund manager (Duquesne Capital $23B peak AUM, 30% annual returns) who bet $1B against British pound in Black Wednesday. Manages Duquesne Family Office ($7.5B-$11B net worth) with top-down macro approach and extreme concentration. Q4 2025 portfolio is 25% healthcare/biotech (Natera 13% alone), 20% tech/semiconductors, 20% e-commerce (Amazon, Coupang, MercadoLibre). Highly active venture investor; recent bets include Commonwealth Fusion Systems."
 type: individual
 firm: duquesne-family-office
 role: "Chairman & CEO"

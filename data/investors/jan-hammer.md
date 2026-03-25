@@ -1,6 +1,7 @@
 ---
 name: "Jan Hammer"
 slug: jan-hammer
+tldr: "Partner at Index Ventures based in London investing seed through Series B. Target check $15M with range $100K-$50M across fintech, data infrastructure, AI, and insurtech. European tech investor with focus on capital-efficient growth and company-building fundamentals."
 type: individual
 firm: index-ventures
 role: "Partner"

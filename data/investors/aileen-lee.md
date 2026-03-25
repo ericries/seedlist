@@ -8,6 +8,7 @@ last_verified_investment:
   round: ~2022
 location: Palo Alto, CA
 name: Aileen Lee
+tldr: "Founder of Cowboy Ventures, the top seed-stage investor with $500K-$4M checks. Portfolio across 30 verified companies is 30% enterprise SaaS, 27% consumer, balanced split with fintech and healthcare. Notable exits: Dollar Shave Club (Unilever $1B), Drata (unicorn), Chime, Guild. Known for accepting inbound pitches without warm intros and building unicorn track record."
 role: Founder & Managing Partner
 sector_focus:
 - fintech

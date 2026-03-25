@@ -1,6 +1,7 @@
 ---
 name: "Josh Wolfe"
 slug: josh-wolfe
+tldr: "Co-Founder of Lux Capital ($7B+ AUM) focused on counter-conventional deep tech, robotics, defense, biotech, space, and AI. Checks $1M-$50M with high thesis conviction. Co-founded Kurion (nuclear cleanup robotics, $365-400M Veolia exit). Noted for identifying hard-tech outsiders and building founder conviction around moonshot problems."
 type: individual
 firm: lux-capital
 role: "Co-Founder & Managing Partner"

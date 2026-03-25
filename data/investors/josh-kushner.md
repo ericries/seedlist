@@ -1,6 +1,7 @@
 ---
 name: "Joshua Kushner"
 slug: josh-kushner
+tldr: "Founder of Thrive Capital ($25B+ AUM, Fund X $10B in 2026) operating seed through growth stages. Checks $1M-$1B with recent $1B OpenAI investment. Portfolio spans consumer, software, AI, fintech, health tech with strong NYC/NY-based focus. Demonstrates diversified thesis from single-founder seed in 2009."
 type: individual
 firm: thrive-capital
 role: "Founder & Managing Partner"

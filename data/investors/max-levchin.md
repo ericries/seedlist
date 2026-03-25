@@ -1,6 +1,7 @@
 ---
 name: "Max Levchin"
 slug: max-levchin
+tldr: "PayPal co-founder and founder of SciFi VC; fintech expert (36% of portfolio) with pattern of investing in analog-to-digital transformation across regulated industries. Founder-engineer approach to diligence; strong co-investor with PayPal Mafia. Notable investments: Affirm (founder), Mixpanel, Brex, Stripe; $100K-$1M check size."
 type: individual
 firm: scifi-vc
 role: "Founder & General Partner"

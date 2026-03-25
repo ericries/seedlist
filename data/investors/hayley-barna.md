@@ -1,6 +1,7 @@
 ---
 name: "Hayley Barna"
 slug: hayley-barna
+tldr: "Partner at First Round Capital and Birchbox co-founder. Invests exclusively in seed-stage companies, with 25% healthcare and 25% consumer/DTC focus. Portfolio shows strong NYC concentration and female founder preference. Notable exits: Mirror (Lululemon $500M), Caper (Instacart $350M), Squad (Twitter), Alma (Spring Health pending 2026)."
 type: individual
 firm: first-round-capital
 role: "Partner"

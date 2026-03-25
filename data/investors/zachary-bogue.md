@@ -1,6 +1,7 @@
 ---
 name: "Zachary Bogue"
 slug: zachary-bogue
+tldr: "Co-founder & Managing Partner of DCVC (Deep Climate VC), climate tech and deep tech specialist. Invests $5M-$25M at seed/Series A/B in climate tech, deep tech, AI, life sciences, energy, synthetic biology. Notable investment in Fervo Energy (geothermal). San Francisco based. Focused on technologies that can scale to massive environmental/climate impact."
 type: individual
 firm: dcvc
 role: "Co-Founder & Managing Partner"

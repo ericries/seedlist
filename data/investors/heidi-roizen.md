@@ -1,6 +1,7 @@
 ---
 name: "Heidi Roizen"
 slug: heidi-roizen
+tldr: "Partner at Threshold Ventures focused on Series A/B enterprise SaaS. Invests $7M average checks seeking fund-returning 'home run' companies with 6-7 year horizons. Portfolio emphasizes enterprise software (30%), deep tech, and board-level engagement. Notable exits: Talkdesk (unicorn), Zoox (Amazon $1.2B), Planet Labs (public)."
 type: individual
 firm: threshold-ventures
 role: "Partner"

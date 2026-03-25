@@ -1,6 +1,7 @@
 ---
 name: "Ishani Thakur"
 slug: ishani-thakur
+tldr: "Partner at Hanabi Capital (launched 2025) with co-founders Mike Volpi and Bryan Offutt. MIT robotics/AI researcher with engineering background at Google, Lyft, Confluent. Portfolio equally split between AI/ML (43%) and infrastructure/developer tools (43%). Early-stage investor across seed to Series C; sources include Cognition AI, LiveKit, BRINC Drones with frequent Founders Fund and Sequoia co-investors."
 type: individual
 firm: hanabi-capital
 role: "Partner"

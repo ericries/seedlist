@@ -1,6 +1,7 @@
 ---
 name: "Jeff Horing"
 slug: jeff-horing
+tldr: "Co-Founder & Managing Director of Insight Partners ($200B+ AUM). Growth equity investor in enterprise software and SaaS at $10M-$350M scale. Portfolio emphasizes security, data analytics, infrastructure with strategy of organic growth plus selective add-on acquisitions. Recent Wiz investment reflects focus on high-growth cybersecurity category."
 type: individual
 firm: insight-partners
 role: "Co-Founder & Managing Director"

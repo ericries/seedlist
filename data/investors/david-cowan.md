@@ -1,6 +1,7 @@
 ---
 name: "David Cowan"
 slug: david-cowan
+tldr: "Partner at Bessemer Venture Partners since 1992, ranked 6th on Forbes Midas List. Portfolio of 35 verified investments skews 26% cybersecurity, 14% space/defense, 14% cloud/SaaS, with 30+ IPO exits including Twilio, Auth0, LinkedIn, and Rocket Lab. Known for moonshot early-stage bets in quantum computing, aerospace, and defense tech; originated Bessemer's 'Anti-Portfolio' concept."
 type: individual
 firm: bessemer-venture-partners
 role: "Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Itamar Novick"
 slug: itamar-novick
+tldr: "Founder of Recursive Ventures solo capitalist fund focused on pre-seed/seed AI and data companies. Built Life360 to $5B+ market cap and backed early: Deel (decacorn), HoneyBook, Placer.ai (unicorns). Portfolio 36% data/AI, 18% fintech, 18% consumer. Emphasizes one-day decision-making advantage; targets founders 'smarter than 99.9%' with bold $5-20B+ TAM ambitions. Fund III closed at $30M."
 type: individual
 firm: recursive-ventures
 role: "Founder & General Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Morgan Beller"
 slug: morgan-beller
+tldr: "NFX General Partner; Libra/Diem architect at Facebook. Focus: network effects + founders living in future. Values contrarian founders with 'a thing.' Portfolio: crypto, fintech, space, AI, marketplaces. Forbes 30 Under 30, MIT TR 35 Under 35. Thesis: 'defensibility through network effects.' $500K-$5M checks."
 type: individual
 firm: nfx
 role: "General Partner"

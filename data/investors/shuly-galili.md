@@ -1,6 +1,7 @@
 ---
 name: "Shuly Galili"
 slug: shuly-galili
+tldr: "Founding Partner of UpWest (2012), first-check investor in Israeli entrepreneurs entering U.S. market. Fund IV raised $70M (2021); total AUM ~$100M. Portfolio ~100+ Israeli startups with $20B+ aggregate value. 20% cybersecurity, 18% enterprise SaaS, 10% AI. Distinctive for sourcing 90% of deals from Israel; positions as 'cash rich, market access poor' broker. Founded California Israel Chamber of Commerce (2000-2010+), 100 Most Influential Israeli Hi-Tech (2015)."
 type: individual
 firm: upwest
 role: "Founding Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Ali Rowghani"
 slug: ali-rowghani
+tldr: "Former CFO/COO at Twitter and CEO of YC Continuity (led DoorDash, Stripe, Coinbase growth-stage bets). Founder of First Harmonic (launched June 2025) investing $150K-$2M at seed/pre-seed in AI, fintech, enterprise software. Distinctive operator approach with free GTM coaching program for portfolio founders. Early focus: AI applications (Mercor, Cursor, Decagon)."
 type: individual
 firm: first-harmonic
 role: "Founder & Managing General Partner"

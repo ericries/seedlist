@@ -1,6 +1,7 @@
 ---
 name: "Andy Rachleff"
 slug: andy-rachleff
+tldr: "Co-Founder of Benchmark Capital, coined 'product-market fit' in 2007. Angel investor $25K-$100K at seed/Series A. Former GP at Benchmark (Equinix, Juniper Networks, Opsware); now Executive Chairman of Wealthfront ($88B AUM). Stanford lecturer on product-market fit. Key thesis: market demand trumps team quality; emphasizes exponential organic growth as the PMF signal."
 type: individual
 firm: benchmark
 role: "Co-Founder (Emeritus)"

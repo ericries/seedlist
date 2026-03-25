@@ -1,6 +1,7 @@
 ---
 name: "Wesley (Wes) Edens"
 slug: wes-edens
+tldr: "Co-founder Fortress Investment Group (1998) with Rob Kauffman, Randal Nardone. First publicly traded buyout firm (IPO 2007, $53B AUM). SoftBank acquisition 2017 ($3.3B), management buyout 2024 (32% equity). Lehman Brothers partner/MD; BlackRock PE fund lead. Growth/buyout/infrastructure investor ($50M-$1B+ checks). Board member Milwaukee Bucks. Oregon State BS Finance. NOTE: Profile primarily documents PE/infrastructure activities; fits startup directory less than venture investors."
 type: individual
 firm: fortress-investment-group
 role: "Co-Founder & Co-Chairman"

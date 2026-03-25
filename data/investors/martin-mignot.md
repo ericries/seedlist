@@ -16,6 +16,7 @@ sector_focus:
 - healthcare
 - ai
 slug: martin-mignot
+tldr: "Index Ventures Partner since 2010; specializes in European founders going global. Central thesis: 'born global beats become global'—warns against 'midsize country trap.' Known for backing Deliveroo, Revolut, Wise. Focus on fintech, healthcare, AI at seed-Series B. Founder himself (Boudoir Privé); $100K-$50M check size."
 social:
   linkedin: linkedin.com/in/martinmignot
   twitter: '@martinmignot'

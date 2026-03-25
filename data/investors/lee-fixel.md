@@ -1,6 +1,7 @@
 ---
 name: "Lee Fixel"
 slug: lee-fixel
+tldr: "Founder of Addition (post-Tiger Global) investing seed through growth in enterprise SaaS, fintech, AI, developer tools, cybersecurity. Brings Tiger-style conviction in high-growth founders with track record of founder-led execution and operational impact."
 type: individual
 firm: addition
 role: "Founder & Managing Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Howard Morgan"
 slug: howard-morgan
+tldr: "Co-founder of First Round Capital and Renaissance Technologies pioneer who invests via his 6 P's framework: People, Product/Market, Plans, Profits, Passion, Persistence. Personal angel portfolio spans enterprise SaaS (24%), deep tech/quantum (24%), and consumer internet (19%). Notable co-founder exit: Uber (First Round seed investor). Emphasizes integrity and coachability over technical pedigree."
 type: individual
 firm: first-round-capital
 role: "Co-Founder & Special Advisor"

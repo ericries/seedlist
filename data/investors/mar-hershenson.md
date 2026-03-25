@@ -1,6 +1,7 @@
 ---
 name: "Mar Hershenson"
 slug: mar-hershenson
+tldr: "Founding Managing Partner of Pear VC, seed-stage investor backing 0-to-1 founders. Portfolio: 25% enterprise SaaS, 21% healthcare/biotech, 17% consumer, all at pre-seed/seed. Known for developer mindset (electrical engineer, 14 patents), Stanford ecosystem access, and founder development over picking winners. Check size $1-6M."
 type: individual
 firm: pear-vc
 role: "Founding Managing Partner"

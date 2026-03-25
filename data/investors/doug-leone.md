@@ -1,6 +1,7 @@
 ---
 name: "Doug Leone"
 slug: doug-leone
+tldr: "Partner at Sequoia Capital and former Global Managing Partner (2012-2022). Portfolio of 29 verified investments skews 31% enterprise SaaS, 24% cybersecurity, with deep Israeli cybersecurity thesis (Adallom, Wiz, Cyera, Island). Known for backing repeat founders like Assaf Rappaport twice (Adallom $320M acquisition, Wiz $32B Google acquisition). Emphasis on 'spiky' founders with adversity."
 type: individual
 firm: sequoia-capital
 role: "Partner (former Global Managing Partner)"

@@ -1,6 +1,7 @@
 ---
 name: "Roelof Botha"
 slug: roelof-botha
+tldr: "Sequoia Partner; former Senior Steward (July 2022-Nov 2025). PayPal CFO (IPO and $1.5B eBay exit). Invests across stages with 'contrarian & right' thesis. Values 'slope over intercept' (growth rate over experience). Forbes Midas List #9 (2021), #11 (2024). Known for humility and skepticism of capital inflation in VC. $1M-$200M checks."
 type: individual
 firm: sequoia-capital
 role: "Partner (former Senior Steward)"

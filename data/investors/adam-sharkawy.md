@@ -1,6 +1,7 @@
 ---
 name: "Adam Sharkawy"
 slug: adam-sharkawy
+tldr: "Co-Founder & Managing Partner of Material Impact investing in deep tech, materials science, and climate with checks of $3M-$15M at seed through Series B. Portfolio is 24% sustainable manufacturing, 21% biomanufacturing, 15% mobility—strongly university spinout focused from MIT, Harvard, Duke. Notable investments: 6K Materials (exited 2025), Soft Robotics, Infinite Cooling, Orbion."
 type: individual
 firm: material-impact
 role: "Co-Founder & Managing Partner"

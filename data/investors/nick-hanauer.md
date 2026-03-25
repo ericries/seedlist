@@ -1,6 +1,7 @@
 ---
 name: "Nick Hanauer"
 slug: nick-hanauer
+tldr: "Second Avenue Partners co-founder; early Amazon investor ($45K → $100M+). Seattle-based seed-Series A investor with 30% software/SaaS focus. Portfolio: aQuantive ($6.4B to Microsoft), Insitu ($400M to Boeing), Juno Therapeutics ($9B to Celgene). Values deep domain expertise; hands-on partner meeting weekly with CEOs. $500K-$3M checks."
 type: individual
 firm: second-avenue-partners
 role: "Co-Founder & Partner"

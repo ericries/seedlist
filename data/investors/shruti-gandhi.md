@@ -1,6 +1,7 @@
 ---
 name: "Shruti Gandhi"
 slug: shruti-gandhi
+tldr: "Founder of Array Ventures, solo GP managing ~$150M with 100+ investments and 20+ exits to Apple, PayPal, ServiceNow. Invests $250K-$3M at pre-seed/seed in enterprise deep tech, AI infrastructure, and developer tools. Self-taught immigrant coder from IBM; distinctive for thesis-driven approach requiring 'earned secret' insights from industry experience. Avoids 'AI for hype's sake'; seeks technical founders solving mission-critical (not discretionary) problems."
 type: individual
 firm: array-ventures
 role: "Founder & General Partner"

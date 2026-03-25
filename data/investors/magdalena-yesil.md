@@ -1,6 +1,7 @@
 ---
 name: "Magdalena Yesil"
 slug: magdalena-yesil
+tldr: "Angel investor and Broadway Angels founder with deep SaaS expertise, pioneering investor in Salesforce. Portfolio spans SaaS (31%), fintech/payments (19%), and consumer internet (19%), with notable exits including Zuora, Smartsheet, and multiple acquisitions. Known for active board participation and women-focused venture investing."
 type: individual
 firm: broadway-angels
 role: "Founder"

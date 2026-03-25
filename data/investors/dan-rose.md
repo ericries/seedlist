@@ -1,6 +1,7 @@
 ---
 name: "Dan Rose"
 slug: dan-rose
+tldr: "Chairman of Coatue Ventures and former VP of Partnerships at Facebook and Amazon Kindle lead. Portfolio spans 15+ verified investments including early angels in Figma, Airtable, Gusto, and Coatue-backed rounds in Linktree, Choco, and Mercury. Known for backing 'missionary' founder-led companies and employing data-driven investing with $30M annual spend on algorithms."
 type: individual
 firm: coatue-management
 role: "Chairman, Coatue Ventures"

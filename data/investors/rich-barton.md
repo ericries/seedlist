@@ -1,6 +1,7 @@
 ---
 name: "Rich Barton"
 slug: rich-barton
+tldr: "Expedia founder (IPO 1999), Zillow co-founder/co-CEO (2005-2010, 2019-2024), Glassdoor co-founder ($1.2B to Recruit 2018). Benchmark venture partner. 'Power to the People' thesis: back companies bringing transparency to opaque markets. Consumer-internet focus on information asymmetry. Angel investor. $10K-$50K checks."
 type: individual
 firm: benchmark
 role: "Venture Partner (2005-2018)"

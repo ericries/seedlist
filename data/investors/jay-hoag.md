@@ -1,6 +1,7 @@
 ---
 name: "Jay Hoag"
 slug: jay-hoag
+tldr: "Co-Founder & Managing General Partner of TCV (Technology Crossover Ventures), a $24B+ growth equity firm founded 1995. Invests $30M-$400M in growth and late-stage companies across 350+ exits including 150+ IPOs. Netflix board member since 1999; Peloton independent Chair. 40+ year investor with traditional growth equity playbook."
 type: individual
 firm: tcv
 role: "Co-Founder & Managing General Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Drew McKnight"
 slug: drew-mcknight
+tldr: "Co-CEO of Fortress Investment Group ($54B AUM) since April 2023. Portfolio of 14 verified deals skews 36% senior secured credit, 29% SPAC mergers, across consumer lending, aerospace/defense. Known for $6T private credit opportunity thesis. SPAC track record: MP Materials succeeded (+523%), ATI Physical Therapy underperformed, two liquidated. Not a venture investor; credit and alternative asset-focused."
 type: individual
 firm: fortress-investment-group
 role: "Co-Chief Executive Officer & Managing Partner"

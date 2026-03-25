@@ -1,6 +1,7 @@
 ---
 name: "Jaan Tallinn"
 slug: jaan-tallinn
+tldr: "Skype co-founder and existential risk philanthropist via Metaplanet. Invests $500K-$5M in deep tech with 37% AI focus including board seats at DeepMind and Anthropic (led $124M Series A). Portfolio spans robotics (16%), developer tools (16%) with strong Estonia/Europe concentration. Mission-driven: 'displace money that doesn't care.' 100+ total investments ($130M+) focused on reducing AI and synthetic biology risks."
 type: individual
 firm: metaplanet
 role: "Founder"

@@ -1,6 +1,7 @@
 ---
 name: "Marlon Nichols"
 slug: marlon-nichols
+tldr: "Co-founder of MaC Venture Capital ($600M+ AUM); seed-stage investor with cultural investing thesis. Portfolio 36% consumer/media/entertainment, 20% enterprise SaaS, with focus on founders solving problems at culture-technology intersection. From Intel Capital; $500K-$3M checks. Largest inaugural fund by majority Black-led VC firm."
 type: individual
 firm: mac-venture-capital
 role: "Co-Founder & Managing General Partner"

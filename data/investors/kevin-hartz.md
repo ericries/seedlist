@@ -1,6 +1,7 @@
 ---
 name: "Kevin Hartz"
 slug: kevin-hartz
+tldr: "Eventbrite founder and Co-Founder of A* Capital investing pre-seed through Series A. Checks $100K-$10M across fintech, AI, marketplaces, consumer internet. Combines founder operating credibility with conviction in community and network-driven businesses."
 type: individual
 firm: a-star-capital
 role: "Co-Founder & General Partner"

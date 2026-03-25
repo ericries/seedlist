@@ -1,6 +1,7 @@
 ---
 name: "Harris Stolzenberg"
 slug: harris-stolzenberg
+tldr: "Partner at Pear VC focused on founder quality and East Coast university ecosystems. Joined May 2025 with no individual deals publicly documented yet; portfolio thesis based on founder-first orientation toward founders with conviction and velocity. Potential geographic arbitrage play on underexploited Brown, MIT, Yale, and CMU networks."
 type: individual
 firm: pear-vc
 role: "Partner"

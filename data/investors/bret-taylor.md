@@ -1,6 +1,7 @@
 ---
 name: "Bret Taylor"
 slug: bret-taylor
+tldr: "Co-Founder & CEO of Sierra AI ($10B valuation, $150M ARR), Chairman of OpenAI. Creator of Google Maps (2005), founder of FriendFeed (Facebook 2009, $50M), Quip (Salesforce 2016, $750M). Led Twitter board through Musk acquisition. Operator-investor focused on 'AI agents as interface.' Believes every company needs an AI agent; customer focus over technology."
 type: individual
 firm: sierra-ai
 role: "Co-Founder & CEO"

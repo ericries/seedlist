@@ -1,6 +1,7 @@
 ---
 name: "Fred Wilson"
 slug: fred-wilson
+tldr: "Co-Founder of Union Square Ventures ($275M fund), NYC-based seed/Series A investor. Portfolio of 17 verified investments (of 130+ total) includes Twitter (IPO 2007), Etsy (IPO 2015), Coinbase (IPO 2021, $5M seed became $6B), Stripe, Twilio, Duolingo. Known for contrarian 'lunatic fringe' thesis, network-effect focus, and $4.25M target checks. Prolific blogger on AVC.com; climate investing expansion."
 type: individual
 firm: union-square-ventures
 role: "Partner"

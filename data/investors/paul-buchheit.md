@@ -1,6 +1,7 @@
 ---
 name: "Paul Buchheit"
 slug: paul-buchheit
+tldr: "Gmail creator at Google (#23 employee) and FriendFeed co-founder ($47.5M exit to Facebook). Y Combinator Partner; 200+ investments with 61 exits. Co-founded Standard Capital ($425M Fund I, 2025) emphasizing 'speed, clarity, control.' Seeks 'magical' products; values determination and iteration speed. $25K-$500K angel to $5M-$15M Series A."
 type: individual
 firm: standard-capital
 role: "Co-Founder & General Partner"

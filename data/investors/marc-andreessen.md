@@ -1,6 +1,7 @@
 ---
 name: Marc Andreessen
 slug: marc-andreessen
+tldr: "Co-founder of Andreessen Horowitz; pioneering investor across major platform shifts (web, social, mobile, crypto, AI). Personal portfolio includes Meta, Twitter, LinkedIn, Coinbase with pattern of finding nascent technologies at inflection points. Invests in strength not weakness; famous for 'Most big breakthroughs seem crazy at first' thesis."
 type: individual
 firm: andreessen-horowitz
 role: Co-Founder & General Partner

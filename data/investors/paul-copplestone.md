@@ -1,6 +1,7 @@
 ---
 name: "Paul Copplestone"
 slug: paul-copplestone
+tldr: "Supabase CEO/co-founder ($5B valuation, 4M developers); angel investor in ~50 companies. 58% portfolio in developer tools/infrastructure, 38% open-source. Values ecosystem-building and founder-operator co-investing. Thesis: AI expanding developer tools TAM. Focuses on product over investor appeal. Seed-stage angel checks."
 type: individual
 firm: null
 role: "Angel Investor / CEO & Co-Founder, Supabase"

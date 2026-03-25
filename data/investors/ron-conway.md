@@ -18,6 +18,7 @@ sector_focus:
 - social
 - e-commerce
 slug: ron-conway
+tldr: "Prolific angel and SV Angel founder; 'People first, idea second, market third' thesis. Early Google, PayPal investor; ~300-company portfolio with focus on consumer-internet and enterprise SaaS. Known for founder advocacy and 'adding value is byproduct of making money.' Forbes Midas List #6 (2008). Seed-growth check sizes $25K-$20M across eras."
 social:
   twitter: '@RonConway'
 stage_focus:
@@ -196,6 +197,19 @@ Conway is known for making decisions extremely quickly -- by the time he meets f
 **Guillermo Rauch, CEO of Vercel:**
 > "Since day one, SV Angel has rolled up their sleeves to support Vercel's growth... I can always rely on them for help when I am solving my toughest challenges." (Source: SV Angel website) [^13]
 
+## Connections
+
+- **Founder and Board Chair, sf.citi** (San Francisco Citizens Initiative for Technology and Innovation) — 501(c) organization advocating for the tech community and public-private partnerships in San Francisco, founded 2012 [^1][^20]
+- **Co-founder, FWD.us** — immigration reform advocacy group co-founded with Mark Zuckerberg and other tech CEOs in 2013; pushes for startup visas and paths to citizenship [^21][^22]
+- **Former board member, Salesforce.com Foundation** — resigned in October 2025 following disagreements with CEO Marc Benioff over civic policy comments [^23]
+- **Advisory board member, Sandy Hook Promise** — nonprofit founded by parents of Sandy Hook Elementary School shooting victims [^20][^24]
+- **Vice Chairman, UCSF Medical Foundation** — member of the UCSF Medical Center Chancellor's Advisory Board; active fundraiser for UCSF Benioff Children's Hospital [^20][^24]
+- **Co-founder, Economic Innovation Group** — bipartisan policy organization founded in 2013 with Sean Parker (Napster co-founder), Joe Sanberg, and Dana Settle (Greycroft) [^25]
+- **The Giving Pledge** — joined with wife Gayle Conway in 2020 alongside fellow tech philanthropists [^8]
+- **Supporter, College Track** — education nonprofit helping underserved students reach college [^20]
+- **Supporter, THORN Foundation** — Ashton Kutcher's anti-child-exploitation technology nonprofit [^20]
+- **Stanford CS183B / How to Start a Startup** — guest lecturer alongside Marc Andreessen and Parker Conrad on fundraising [^15]
+
 ## Sources
 
 [^1]: "Ron Conway." EBSCO Research Starters. https://www.ebsco.com/research-starters/biography/ron-conway. Accessed 2026-03-12.
@@ -235,4 +249,15 @@ Conway is known for making decisions extremely quickly -- by the time he meets f
 [^18]: "Sam Altman says Airbnb's Brian Chesky and SV Angel's Ron Conway saved OpenAI." Fortune. https://fortune.com/2025/01/06/sam-altman-airbnb-ceo-brian-chesky-sv-angel-ron-conway-saved-openai/. Accessed 2026-03-13.
 
 [^19]: "Ron Conway Explained." Andreessen Horowitz (a16z). https://a16z.com/ron-conway-explained/. Accessed 2026-03-13.
-test
+
+[^20]: "Ron Conway." Economic Innovation Group, executive team page. https://eig.org/about-us/executive-team-staff/ron-conway/. Accessed 2026-03-24.
+
+[^21]: "Why Mark Zuckerberg & Ron Conway are Attracting Immigrants to Silicon Valley." Startup Grind / Medium. https://medium.com/startup-grind/why-mark-zuckerberg-ron-conway-are-attracting-immigrants-to-silicon-valley-e5dcad8fea10. Accessed 2026-03-24.
+
+[^22]: "Ron Conway: I hope tech founders have political aspirations." CNN Money, February 25, 2016. https://money.cnn.com/2016/02/25/technology/ron-conway-immigration-reform-startup-grind. Accessed 2026-03-24.
+
+[^23]: "Marc Benioff's call for troops in SF leads tech investor Ron Conway to leave Salesforce Foundation board." CNBC, October 16, 2025. https://www.cnbc.com/2025/10/16/benioff-sf-troop-comment-lead-ron-conway-resign-salesforce-foundation.html. Accessed 2026-03-24.
+
+[^24]: "Ron Conway." All American Speakers biography. https://www.allamericanspeakers.com/celebritytalentbios/Ron+Conway/385694. Accessed 2026-03-24.
+
+[^25]: "The Economic Innovation Group Launches to Engage Entrepreneurs and Investors in Addressing America's Economic Challenges." Economic Innovation Group. https://eig.org/news/the-economic-innovation-group-launches-to-engage-entrepreneurs-and-investors-in-addressing-americas-economic-challenges-2. Accessed 2026-03-24.

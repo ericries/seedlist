@@ -1,6 +1,7 @@
 ---
 name: "Ben Horowitz"
 slug: ben-horowitz
+tldr: "Co-Founder of Andreessen Horowitz ($90B AUM), author of The Hard Thing About Hard Things. Invests $10M-$100M+ across all stages with founder-CEO conviction focus. Portfolio (18 verified) is 44% enterprise software (Okta, Databricks, Tanium, Skype), 22% culture/diversity (UnitedMasters, Mayvenn, Genius). Strong pattern of backing technical founder CEOs through personal relationships; concentrated, high-conviction bets."
 type: individual
 firm: andreessen-horowitz
 role: "Co-Founder & General Partner"

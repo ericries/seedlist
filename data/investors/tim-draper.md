@@ -1,6 +1,7 @@
 ---
 name: "Tim Draper"
 slug: tim-draper
+tldr: "Third-generation venture capitalist and founder of Draper Associates managing $2B. Pioneer of viral marketing and Bitcoin advocate who invests across pre-seed to Series A with $500K-$5M checks. Portfolio heavily tilted toward AI/robotics (40%+) and crypto/blockchain (distinctive among seed-stage investors), with iconic exits including Twitch, Robinhood, and Coinbase. Seeks non-consensus founders who embrace freedom and focus on customer obsession over early monetization."
 type: individual
 firm: draper-associates
 role: "Founder & Managing Partner"

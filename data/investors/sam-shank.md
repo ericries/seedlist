@@ -1,6 +1,7 @@
 ---
 name: "Sam Shank"
 slug: sam-shank
+tldr: "Founder of HotelTonight (acquired by Airbnb for $400M) turned angel investor focused on seed-stage consumer marketplaces and travel. Invests in check sizes of $10K-$50K despite reporting 139 total investments, suggesting high deal volume and pattern recognition in consumer distribution. Notable exits include 60x return on Getaround and 23x return on AngelList, reflecting deep conviction in marketplace founders."
 type: individual
 firm: independent
 role: "Angel Investor & Founder"

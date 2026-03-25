@@ -1,6 +1,7 @@
 ---
 name: "Romit Shah"
 slug: romit-shah
+tldr: "Tensor Edge Capital founder (2025); 25-year semiconductor investing expert. Former Nomura research MD with 66.67% accuracy rate. Long/short equity fund focused on semiconductors, software, AI. Deep domain expertise in chip supply chains and competitive dynamics. Matrix Capital founding investor in Rivos (acquired by Meta). ~$109.5M AUM."
 type: individual
 firm: tensor-edge-capital
 role: "Founder & Managing General Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Sameer Gandhi"
 slug: sameer-gandhi
+tldr: "Partner at Accel (previously at Sequoia for 10 years) investing at Series A-growth stages with check sizes of $15M-$70M. Portfolio is 36% consumer/e-commerce including iconic wins in Jet.com, Flipkart, and a repeated 3-company pattern with Marc Lore. Distinctive for leading every round from Series A through IPO in high-conviction companies like CrowdStrike, demonstrating deep founder partnership over transactional dealmaking."
 type: individual
 firm: accel
 role: "Partner"

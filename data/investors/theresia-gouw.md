@@ -1,6 +1,7 @@
 ---
 name: "Theresia Gouw"
 slug: theresia-gouw
+tldr: "Co-founder of Acrew Capital (2019, $1.7B AUM); first woman Managing GP at Accel (1999-2014). Accel's Facebook investment (2005) gave her ~8M shares at IPO 2012. Leads Data & Security and Community Activated theses. Portfolio 34% data/security (Cato Networks, Exabeam, Vanta), 33% fintech (Chime, Plaid, Gusto). Forbes billionaire female VC ($1.2B net worth); Midas List 9x; Time 40 Most Influential AI. Co-founder All Raise. Indonesian immigrant; Buffalo Bills minority stakeholder (2024)."
 type: individual
 firm: acrew-capital
 role: "Co-Founder & Managing Partner"

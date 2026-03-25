@@ -1,6 +1,7 @@
 ---
 name: "John Curtius"
 slug: john-curtius
+tldr: "Founder of Cedar Capital Group focused on Series A/B/C enterprise software and SaaS. Checks $100K-$5M across developer tools, infrastructure, fintech, AI. Miami-based investor; representative of emerging regional VC networks."
 type: individual
 firm: cedar-capital-group
 role: "Founder & Managing Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Clay Bavor"
 slug: clay-bavor
+tldr: "Co-Founder of Sierra AI, former VP Product at Google (18 years, 2005-2023). Led Gmail, Docs, Drive, and Google's AR/VR initiatives including Google Cardboard, Daydream, Project Starline. Co-founded Sierra with Bret Taylor 2023; now $10B+ valuation, $100M ARR. Primary operator/builder rather than investor. Fortune 40 Under 40 2016."
 type: individual
 firm: sierra-ai
 role: "Co-Founder"

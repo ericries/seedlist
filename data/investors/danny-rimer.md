@@ -1,6 +1,7 @@
 ---
 name: "Danny Rimer"
 slug: danny-rimer
+tldr: "Partner at Index Ventures since 2002, ranked #1 on Forbes Midas List Europe (2025). Portfolio of 24 verified investments skews 33% consumer e-commerce, 21% creator economy, 13% design tools, with seed-stage wins in Figma, Dropbox (IPO), and Etsy (IPO). Known for backing design-obsessed founders and cultural 'phenomena' over market size analysis."
 type: individual
 firm: index-ventures
 role: "Partner"

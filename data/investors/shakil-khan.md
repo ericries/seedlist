@@ -1,6 +1,7 @@
 ---
 name: "Shakil Khan"
 slug: shakil-khan
+tldr: "Co-founder of Prima Materia (with Spotify's Daniel Ek) and CoinDesk (founded 2013). Former Head of Special Projects at Spotify, pragmatic builder-investor focusing on fintech, consumer internet, and crypto. Portfolio 25% fintech (BitPay, Monese, SecondMarket), 25% consumer (Spotify network), UK/London-focused. Combines angel investing with operational roles rather than pure financial investing; recent exit with Monese (October 2024)."
 type: individual
 firm: prima-materia
 role: "Co-Founder & Angel Investor"

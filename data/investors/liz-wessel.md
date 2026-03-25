@@ -1,6 +1,7 @@
 ---
 name: "Liz Wessel"
 slug: liz-wessel
+tldr: "Partner at First Round Capital and Pathwright co-founder focused on pre-seed and seed AI, enterprise SaaS, fintech, healthcare. Checks $100K-$12M with emphasis on founder-product fit and mission-driven companies addressing underserved markets."
 type: individual
 firm: first-round-capital
 role: "Partner"

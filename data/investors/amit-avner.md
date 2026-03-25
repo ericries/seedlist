@@ -1,6 +1,7 @@
 ---
 name: "Amit Avner"
 slug: amit-avner
+tldr: "General Partner at Operator Partners, founder of Taykey (acquired by Innovid) and early Plaid investor (2013 seed). Backs fintech (22% of verified portfolio: Plaid, Unit, Ramp, Deel), healthtech (17%), and security (17%) with non-dilutive $250K-$1M checks at seed/Series A. Israel-based operator-focused fund with self-funded, no outside LPs model."
 type: individual
 firm: operator-partners
 role: "General Partner"

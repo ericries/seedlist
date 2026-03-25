@@ -1,6 +1,7 @@
 ---
 name: "Dan Sundheim"
 slug: dan-sundheim
+tldr: "Founder and CIO of D1 Capital Partners, a $26B global crossover hedge fund. Portfolio skews 24% technology, 21% industrials, with concentrated bets in SpaceX ($2.5B), Instacart ($1B public position), and major AI backing in OpenAI and Anthropic. Focuses on growth-stage and late-stage private companies and public equities; not a venture investor for early-stage founders."
 type: individual
 firm: d1-capital-partners
 role: "Founder & CIO"

@@ -1,6 +1,7 @@
 ---
 name: "Josh Kopelman"
 slug: josh-kopelman
+tldr: "Co-Founder of First Round Capital investing $750K-$4M in pre-seed and seed companies. Multiple exits as entrepreneur (Infonautics IPO, Half.com $313M eBay acquisition) inform conviction in seed-stage founders. Emphasizes integrity, market size, founder quality through rigorous diligence."
 type: individual
 firm: first-round-capital
 role: "Partner"

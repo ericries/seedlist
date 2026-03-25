@@ -1,6 +1,7 @@
 ---
 name: "Satya Patel"
 slug: satya-patel
+tldr: "Co-founder of Homebrew seed fund (now Homebrew Forever, personal capital only) with ex-Google and ex-Twitter product expertise. Portfolio is 30% fintech with unicorn bets in Chime ($25B), Plaid ($6.1B), and Gusto ($9.6B). Invests $500K-$2M at seed stage in 'sexy software for unsexy industries'—focusing on democratizing tech for underserved constituencies. Recently founded Screendoor, a $50M+ fund-of-funds backing underrepresented first-time VCs."
 type: individual
 firm: homebrew
 role: "Co-Founder & General Partner"

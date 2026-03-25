@@ -1,6 +1,7 @@
 ---
 name: "Teddie Wardi"
 slug: teddie-wardi
+tldr: "Managing Director at Insight Partners (since 2017, promoted 2019). Previously Partner at Atomico (2013-2017, led Series B/A in Pipedrive, Bitmovin, MessageBird) and VP at Dawn Capital. Co-founder/CTO of Nervogrid (acquired by ALSO Holding). Portfolio at Insight 31% cybersecurity (SentinelOne, Wiz, Armis, Island), 31% enterprise SaaS, 19% data infrastructure. Pronounced 50% Israel focus across growth-stage companies. GrowthCap Top 40 Under 40 (2018) and Top 25 Software Investors (2022)."
 type: individual
 firm: insight-partners
 role: "Managing Director"

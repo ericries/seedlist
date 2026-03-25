@@ -1,6 +1,7 @@
 ---
 name: "Shaherose Charania"
 slug: shaherose-charania
+tldr: "Partner at Unshackled Ventures backing immigrant founders at inception stage with $300K-$500K checks plus visa sponsorship. Operator-turned-investor with 40+ angel investments ($10K-$50K range) spanning fintech, healthtech, and marketplaces. Founded Women 2.0 and first Lean Startup Incubator (Founder Labs); distinctive for identifying exceptional founders from unexpected backgrounds and creating investor community SPVs to include diverse first-time investors alongside checks."
 type: individual
 firm: unshackled-ventures
 role: "Partner"

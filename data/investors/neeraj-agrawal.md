@@ -1,6 +1,7 @@
 ---
 name: "Neeraj Agrawal"
 slug: neeraj-agrawal
+tldr: "Battery Ventures GP since 2000; creator of 'T2D3' SaaS growth framework and 'F2C' founder-to-CEO transition framework. Portfolio 56% enterprise SaaS (Braze, Amplitude, Marketo, Pendo), 18% infrastructure. Forbes Midas List #9 (2019); known as 'busiest man in VC.' Guides founders from seed to IPO; emphasizes talent scarcity. $250K-$60M checks."
 type: individual
 firm: battery-ventures
 role: "General Partner"

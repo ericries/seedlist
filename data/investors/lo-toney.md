@@ -1,6 +1,7 @@
 ---
 name: "Lo Toney"
 slug: lo-toney
+tldr: "Founding Managing Partner of Plexo Capital, a unique venture model investing in emerging seed fund managers while also making direct seed investments. Checks $10K-$5M with focus on consumer, fintech, marketplaces, e-commerce. Incubated at GV (Google Ventures) with thesis around fund manager bottleneck in seed stage."
 type: individual
 firm: plexo-capital
 role: "Founding Managing Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Satish Dharmaraj"
 slug: satish-dharmaraj
+tldr: "Founder of Zimbra (acquired by Yahoo for $350M) turned Managing Director at Redpoint. Ranked #5 on Forbes Midas List, thesis-driven investor who writes detailed market analyses then backs matching teams. Portfolio is 35% cloud infrastructure (Snowflake $50B+ valuation, Cockroach Labs $5B). Notable for writing market thesis on mobile-first email in 2013, then backing Acompli (Microsoft acquisition in 20 months) for $200M."
 type: individual
 firm: redpoint-ventures
 role: "Managing Director"

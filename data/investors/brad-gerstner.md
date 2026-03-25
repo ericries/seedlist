@@ -1,6 +1,7 @@
 ---
 name: "Brad Gerstner"
 slug: brad-gerstner
+tldr: "Founder & CEO of Altimeter Capital, growth-stage crossover investor backing 'supercycles' (internet, mobile, cloud, AI). Public portfolio ($6.66B, 18 holdings) shows 39% cloud/AI concentration (Snowflake, CoreWeave, NVIDIA). Checks $50M-$500M at Series B/C into IPO. Famed for 'Time to Get Fit' Meta letter (2022). Rhodes Scholar; Forbes Midas 2022."
 type: individual
 firm: altimeter-capital
 role: "Founder & CEO"

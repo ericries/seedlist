@@ -1,6 +1,7 @@
 ---
 name: "Keith Rabois"
 slug: keith-rabois
+tldr: "Managing Director at Khosla Ventures (post-Founders Fund) with PayPal Mafia pedigree. Operating executive background: LinkedIn, Square, DoorDash investments. Checks $500K-$150M across fintech, marketplaces, real estate. Co-founder of Opendoor; known for hands-on operator support and unconventional founder conviction."
 type: individual
 firm: khosla-ventures
 role: "Managing Director"
@@ -129,6 +130,22 @@ The analysis below is based on 26 verified investments personally attributed to 
 
 No independently sourced founder testimonials found. Rabois is widely recognized by peers and industry observers for his operating expertise and high conviction investing style, but no direct quotes from portfolio company founders about their experience working with him were located during research.
 
+## Connections
+
+- **Chairman of the Board, Opendoor Technologies (OPEN)** — co-founded the company with Eric Wu; rejoined board as Chairman in September 2025 [^9]
+- **Board member, Affirm Holdings (AFRM)** (2013–2025) — served on the board since the company's founding alongside Max Levchin (CEO, fellow PayPal Mafia member); resigned effective June 2025 [^15][^16]
+- **Board member, Ramp** — led the Series A investment while at Founders Fund; continues to represent Founders Fund on the board after returning to Khosla Ventures [^3][^4]
+- **Board member, Faire** — led the seed investment at Khosla Ventures [^3][^4]
+- **Board member, Trade Republic** — represents Founders Fund on the board of the European neobroker [^4]
+- **Former board member, Reddit** (2012–2019) — early angel investor [^3]
+- **Former board member, Yelp** — served through the company's IPO [^3][^17]
+- **Former board member, Xoom** — served through the company's IPO (acquired by PayPal in 2015) [^3][^17]
+- **PayPal Mafia network** — former EVP at PayPal alongside Peter Thiel, Elon Musk, Reid Hoffman, and Max Levchin; this network is a primary co-investment and deal-flow channel [^1][^2]
+- **Former VP, LinkedIn** (2005–2007) — worked under Reid Hoffman during LinkedIn's early growth phase [^1][^3]
+- **Former COO, Square** (2010–2013) — worked alongside Jack Dorsey [^1][^3]
+- **Stanford University** — B.A. 1991; connected with Peter Thiel through *The Stanford Review* [^1][^2]
+- **SaaStr Annual** — recurring speaker on team-building and operational excellence [^18]
+
 ## Sources
 
 [^1]: Keith Rabois Wikipedia article (information confirmed via multiple sources), accessed March 2026. https://en.wikipedia.org/wiki/Keith_Rabois
@@ -145,3 +162,7 @@ No independently sourced founder testimonials found. Rabois is widely recognized
 [^12]: Signal by NFX, "Keith Rabois Investing Profile," accessed March 2026. https://signal.nfx.com/investors/keith-rabois
 [^13]: TechCrunch, "Keith Rabois says Miami is still a great place for startups, even as a16z leaves," September 12, 2024. https://techcrunch.com/2024/09/12/keith-rabois-says-miami-is-still-a-great-place-for-startups-even-as-a16z-leaves/
 [^14]: Fortune, "As crypto comes roaring back, Khosla Ventures' Keith Rabois is making a bet on Bitcoin lending," December 9, 2024. https://fortune.com/2024/12/09/bitcoin-lending-lava-khosla-keith-rabois-founders-fund-venture/
+[^15]: Affirm Holdings, Inc., "Keith Rabois — Board Member," investor relations page, accessed March 2026. https://investors.affirm.com/board-member/keith-rabois
+[^16]: MarketScreener, "Affirm Holdings, Inc. Announces Board Changes," June 2025. https://www.marketscreener.com/quote/stock/AFFIRM-HOLDINGS-INC-117540803/news/Affirm-Holdings-Inc-Announces-Board-Changes-50232906/
+[^17]: Keith Rabois, Speakerpedia profile, accessed March 2026. https://speakerpedia.com/speakers/keith-rabois
+[^18]: SaaStr, "Keith Rabois (Khosla Ventures): Building Amazing Teams (Video + Transcript)," accessed March 2026. https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/

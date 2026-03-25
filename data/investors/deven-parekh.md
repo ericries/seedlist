@@ -1,6 +1,7 @@
 ---
 name: "Deven Parekh"
 slug: deven-parekh
+tldr: "Managing Director at Insight Partners since 2000. Portfolio of 20 verified investments (of 140+ total) skews 40% enterprise SaaS, 30% consumer internet, with global reach including JD.com, Alibaba, Fanatics, Checkout.com. Known for growth-stage and late-stage investing. Forbes Midas List 2014-2018, board member at 11 companies including Alteryx and DistroKid."
 type: individual
 firm: insight-partners
 role: "Managing Director"

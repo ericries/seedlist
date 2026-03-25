@@ -1,6 +1,7 @@
 ---
 name: "Sheel Mohnot"
 slug: sheel-mohnot
+tldr: "Co-founder of Better Tomorrow Ventures, pure-play fintech seed fund managing $450M across three funds. Two-time fintech founder (FeeFighters acquired by Groupon, Innovative Auctions) with deep domain expertise. Invests $500K-$2M at pre-seed/seed with portfolio 31% in payments infrastructure (Ramp $22B, Mercury $3.5B). All-founder GP team philosophy: 'Everyone on our team is a founder or operator.' Co-founded The Pitch podcast acquired by Spotify."
 type: individual
 firm: better-tomorrow-ventures
 role: "Co-Founder & General Partner"

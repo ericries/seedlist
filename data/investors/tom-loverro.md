@@ -1,6 +1,7 @@
 ---
 name: "Tom Loverro"
 slug: tom-loverro
+tldr: "General Partner at Institutional Venture Partners (IVP, joined 2015, promoted to GP 2019, 7th GP). Growth/late-stage investor ($15M-$100M) in enterprise software, fintech, developer tools, security, AI. Recent investment in LangChain Series B. Focuses on high-growth consumer and enterprise companies. Menlo Park based. IVP founding partner."
 type: individual
 firm: ivp
 role: "General Partner"

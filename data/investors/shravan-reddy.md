@@ -1,6 +1,7 @@
 ---
 name: "Shravan Reddy"
 slug: shravan-reddy
+tldr: "Partner at Pear VC (joined August 2024), leads PearX pre-seed accelerator. Previously Dropbox (acquired Pixelapse where Reddy was co-founder) and Stripe (grew Treasury from inception to GA, led Issuing integrations). Invests $250K-$2M at pre-seed in AI, B2B SaaS, fintech with 50% of verified portfolio in developer tools/AI infrastructure. Seeks founders with lived problem experience and 'escape velocity' conviction. PearX cohort composition heavily skews toward ex-Stripe/Dropbox engineers."
 type: individual
 firm: pear-vc
 role: "Partner"

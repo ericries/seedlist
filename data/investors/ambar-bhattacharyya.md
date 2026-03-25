@@ -1,6 +1,7 @@
 ---
 name: "Ambar Bhattacharyya"
 slug: ambar-bhattacharyya
+tldr: "Managing Director at Maverick Ventures focused on healthcare + AI with checks $500K-$20M from seed through Series B. Portfolio (24 verified) is 75% healthcare: 7 delivery platforms (Cityblock, Centivo, Devoted Health), 4 telehealth/tech (Hims & Hers), 3 biotech (Caribou). Backs operator founders from healthcare industry. Led 16 IPOs; Forbes Midas Brink List 2025."
 type: individual
 firm: maverick-ventures
 role: "Managing Director"

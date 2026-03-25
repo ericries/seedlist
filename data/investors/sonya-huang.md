@@ -1,6 +1,7 @@
 ---
 name: "Sonya Huang"
 slug: sonya-huang
+tldr: "Partner on Sequoia's growth team since 2018, focuses on AI/generative AI and enterprise software with $25M-$200M check sizes. Co-hosts 'Training Data' podcast; argues vertical AI applications (not infrastructure) will capture disproportionate value. Portfolio is 36% enterprise AI applications (Gong, Glean, Harvey, LangChain). Avoids the 'OpenAI strike zone' (applications that only exist due to model deficiencies). Prefers technical founders with ML research or deep vertical expertise."
 type: individual
 firm: sequoia-capital
 role: "Partner"

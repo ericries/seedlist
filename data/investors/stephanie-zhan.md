@@ -1,6 +1,7 @@
 ---
 name: "Stephanie Zhan"
 slug: stephanie-zhan
+tldr: "Partner on Sequoia's seed/early team (since 2015), focuses on AI founders at company formation. Previously Product Manager at Nest (Google). Forbes Midas Brink List 2024; Business Insider best female early-stage investor. Portfolio 36% AI/ML infrastructure (Skild AI, Reflection AI, Ricursive Intelligence, Replicate), 21% consumer (Rec Room, Sunday, Brud), 14% developer tools (Linear, Middesk). Strong pattern of cold outreach and founder discovery via product signals. Thesis evolved from consumer (2016-2020) toward current AI focus."
 type: individual
 firm: sequoia-capital
 role: "Partner"

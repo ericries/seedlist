@@ -1,6 +1,7 @@
 ---
 name: "Karan Mohla"
 slug: karan-mohla
+tldr: "General Partner at B Capital Group leading South/Southeast Asia investments in healthtech, enterprise SaaS, and AI. Checks $5M-$14M for early-stage companies. Decade at Chiratae Ventures backing 30+ companies including FirstCry, HealthifyMe. Brings India + Asia operator context and conviction around emerging market SaaS."
 type: individual
 firm: b-capital-group
 role: "General Partner"

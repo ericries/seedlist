@@ -1,6 +1,7 @@
 ---
 name: "Eddie Eltoukhy"
 slug: eddie-eltoukhy
+tldr: "Partner at Pear VC since October 2022, leading biotech practice. Portfolio of 8 verified investments is 100% life sciences/biotech (drug discovery platforms, diagnostics, cell delivery). PhD in Biological Engineering from MIT, ex-Senti Biosciences Head of Corp Dev. Known for backing deep-science academic founders, pre-seed to seed focus, $250K-$10M checks. Board observer role emphasizes commercialization coaching."
 type: individual
 firm: pear-vc
 role: "Partner"

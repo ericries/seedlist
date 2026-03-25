@@ -1,6 +1,7 @@
 ---
 name: "Sam Altman"
 slug: sam-altman
+tldr: "CEO of OpenAI and former Y Combinator president investing across all stages in frontier technology, AI, energy, and biotech. Notable for extreme concentration bets including $375M in nuclear fusion (Helion Energy) and legendary early returns like his $15K Stripe investment that became worth over $1B. Seeks founders he'd work for who combine scrappiness with formidability and demonstrates conviction through multi-stage participation from angel to growth stage."
 type: individual
 firm: null
 role: "CEO, OpenAI; Former President, Y Combinator; Angel Investor"

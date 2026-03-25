@@ -1,6 +1,7 @@
 ---
 name: "Sarah Guo"
 slug: sarah-guo
+tldr: "Founder of Conviction, an AI-native venture fund, previously a youngest-ever partner at Greylock. Invests at seed and Series A stages ($1M-$25M checks) with extreme sector focus on AI-driven infrastructure and applications—45% of verified portfolio are AI/ML companies. Portfolio includes breakout valuations in Harvey ($3B), Mistral AI ($6B), and Sierra ($4.5B), demonstrating conviction that technical founders building AI-native products (not feature applications) represent the next wave."
 type: individual
 firm: conviction
 role: "Founder & General Partner"

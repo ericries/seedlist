@@ -1,6 +1,7 @@
 ---
 name: "Scott Belsky"
 slug: scott-belsky
+tldr: "Co-founder of Behance (acquired by Adobe), prolific seed-stage angel with 242+ portfolio companies across $50K-$100K checks. Invests heavily in design-forward software and 'transformation by interface' products (Airtable, Notion, Figma, Replit). Notable early exits include Pinterest, Uber, Warby Parker, and Sweetgreen. Recently joined A24 to lead technology and innovation; distinctive for backing tools that empower creators and builders over traditional B2B enterprise."
 type: individual
 firm: a24
 role: "Angel Investor; Partner at A24"

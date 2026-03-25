@@ -1,6 +1,7 @@
 ---
 name: "Mitch Lasky"
 slug: mitch-lasky
+tldr: "Benchmark GP; gaming/mobile expert. Activision EVP of Studios (Quake, Tony Hawk), JAMDAT founder/CEO (IPO 2004, $680M to EA 2006). Thesis: 'distribution is king' + organic growth. Forbes Midas List 5x. Portfolio: Riot Games (LoL), Instagram, Twitter (via Benchmark). LAFC co-owner. $1M-$15M checks."
 type: individual
 firm: benchmark
 role: "General Partner"

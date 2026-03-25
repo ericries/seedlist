@@ -1,6 +1,7 @@
 ---
 name: "Jess Lee"
 slug: jess-lee
+tldr: "Partner at Sequoia Capital's seed/early-stage team and Polyvore CEO. Invests $1M-$10M in consumer, marketplaces, and future-of-work companies. First female investing partner at Sequoia in US (2016). Brings deep product intuition and founder empathy from leading Polyvore through hyper-growth and eventual acquisition."
 type: individual
 firm: sequoia-capital
 role: "Partner"

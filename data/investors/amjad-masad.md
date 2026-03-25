@@ -1,6 +1,7 @@
 ---
 name: "Amjad Masad"
 slug: amjad-masad
+tldr: "Co-Founder & CEO of Replit ($9B valuation, $150M ARR), Jordanian-born engineer with Facebook background (Babel, Jest). Angel investor (60+ verified) focused on AI infrastructure (48% of 21 verified), developer tools (24%), media creation. Checks $5K-$50K at seed. Notable investments: Perplexity, RunPod, Synthesia, Runway."
 type: individual
 firm: replit
 role: "Co-Founder & CEO"

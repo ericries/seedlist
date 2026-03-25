@@ -1,6 +1,7 @@
 ---
 name: "Tobi Lutke"
 slug: tobi-lutke
+tldr: "Shopify co-founder & CEO ($12.3B net worth). Prolific angel investor with 40+ investments at $5K-$50K checks across seed/Series A. Portfolio 29% AI (Perplexity, Granola, Sundial, Manifold Labs), 14% fintech (Neo Financial), 14% security. German-born, moved to Canada 2002 for future wife. Public advocate for Canadian tech: 'Go for gold.' CEO of the Year 2014; Meritorious Service Cross 2018. Shopify public 2015 with 40% voting through dual-class shares."
 type: individual
 firm: independent
 role: "Co-Founder & CEO, Shopify"

@@ -1,6 +1,7 @@
 ---
 name: "Charles Hudson"
 slug: charles-hudson
+tldr: "Founder of Precursor Ventures (400+ investments, pre-seed specialist). Portfolio (30 verified) is 23% health/femtech, 20% enterprise SaaS, 13% fintech. Checks $250K-$500K. Deliberate talent-follow approach serving first-time founders 'one degree removed' from VC networks. Ex-In-Q-Tel, Google, Stanford MBA lecturer. Known for accessible pre-seed investing without pedigree requirements."
 type: individual
 firm: precursor-ventures
 role: "Founder & Managing Partner"

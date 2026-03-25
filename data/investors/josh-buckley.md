@@ -1,6 +1,7 @@
 ---
 name: "Josh Buckley"
 slug: josh-buckley
+tldr: "Founder of Buckley Ventures investing seed and Series A. Average check size $300K across enterprise SaaS, developer tools, frontier tech, climate tech. Bootstrapped model with founder-first approach."
 type: individual
 firm: buckley-ventures
 role: "Founder & GP"

@@ -8,9 +8,10 @@ last_verified_investment:
   round: '2009'
 location: New York, NY
 name: Julian Robertson
+slug: julian-robertson
+tldr: "Tiger Management founder (deceased 2022) and hedge fund legend who pioneered venture into late-stage/growth equity. Early backer of Stripe, Google, Facebook. Known for conviction in founder-led execution and large-scale checks in proven growers."
 role: Founder (deceased 2022)
 sector_focus: []
-slug: julian-robertson
 social:
   linkedin: ''
   twitter: ''

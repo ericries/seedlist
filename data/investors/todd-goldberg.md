@@ -1,7 +1,7 @@
 ---
 name: "Todd Goldberg"
 slug: todd-goldberg
-type: individual
+tldr: "Co-founder of Eventjoy (acquired Ticketmaster), Y Combinator W14 alum. Co-invests with Rahul Vohra through Todd & Rahul Capital (120+ companies, $50M+ deployed). $300K-$500K checks at pre-seed/seed. Portfolio 32% enterprise SaaS (Mercury, Clearbit, WorkOS, Ashby, Coda), 12% each developer tools, consumer (Clubhouse, Descript), fintech, health. LP base 150+ founders. Philosophy: 'Founders want to raise from their peers.' 'Fund size is your strategy."
 firm: todd-and-rahul-capital
 role: "Co-GP / Angel Investor"
 location: "San Francisco, CA"

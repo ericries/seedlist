@@ -1,6 +1,7 @@
 ---
 name: "Victor Lazarte"
 slug: victor-lazarte
+tldr: "Co-founder/CEO of Wildlife Studios (mobile games, $3B valuation, 4B+ downloads). Joined Benchmark as GP (Aug 2023-July 2025); led investments in HeyGen, Mercor, Decart. Left to launch VL Fund, closed ~$200M (debut fund) for AI-enabled healthcare/fintech. First investor in Brex (met founders at 16). Brazilian-American; JPMorgan credit trader. Series A investor ($25M-$55M). Portfolio focuses on AI, gaming, fintech, marketplaces."
 type: individual
 firm: benchmark
 role: "General Partner (Former)"

@@ -1,6 +1,7 @@
 ---
 name: "Patrick Collison"
 slug: patrick-collison
+tldr: "Stripe co-founder/CEO; Arc Institute co-founder. Angel investor (50+ deals, 30+ companies) focused on developer tools, AI, infrastructure, climate, robotics. Thesis: 'developer-first, global, long-term platforms that compound.' Values product over marketing and scientific progress. Early backer of foundational tech compounds value. Irish-born entrepreneur."
 type: individual
 firm: stripe
 role: "Co-Founder & CEO (angel investor)"

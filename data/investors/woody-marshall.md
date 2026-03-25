@@ -16,6 +16,7 @@ sector_focus:
 - consumer-internet
 - payments
 slug: woody-marshall
+tldr: "General Partner at TCV (since 2008), 28+ years VC experience. Growth-stage investor ($10M-$30M) in consumer-facing companies: fintech, digital media, entertainment, payments. Portfolio includes SeatGeek, Square, SiriusXM (satellite radio), Spotify, StubHub. Consumer focus distinguishes him from colleague Tim McAdam (enterprise SaaS). TCV typical check size $10M-$300M across growth companies; Woody specializes in consumer entertainment and fintech."
 social:
   linkedin: linkedin.com/in/woodymarshall
   twitter: '@woodymarshall'

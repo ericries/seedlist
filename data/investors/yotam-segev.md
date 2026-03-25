@@ -1,6 +1,7 @@
 ---
 name: "Yotam Segev"
 slug: yotam-segev
+tldr: "Co-founder & CEO of Cyera ($9B valuation, January 2026). Hebrew University BS computer science + physics. Israeli Defense Forces Talpiot Leadership Academy Senior Class Commander; Unit 8200 Cyber Team Lead (2015-2016), Head of Cyber Department (2018-2020). Co-founded Cyera with Tamar Bar-Ilan. Angel investor in cybersecurity/data security (Daylight Security). Based New York / Tel Aviv."
 type: individual
 firm: cyera
 role: "Co-Founder & CEO"

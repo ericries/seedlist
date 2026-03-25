@@ -1,6 +1,7 @@
 ---
 name: "Elad Gil"
 slug: elad-gil
+tldr: "Solo-GP investor (Cosmic Aleph 3, $1.1B fund), author of High Growth Handbook, co-host No Priors podcast on AI. Portfolio of 41 verified investments (of ~190-314 total) skews 25% enterprise SaaS, 22% AI/ML, with major early bets in Figma, Airbnb, Stripe, Coinbase, Mistral AI. Backed 40+ unicorns; board member at Anduril, Navan, BioAge. Forbes Midas List 2025 (#87)."
 type: individual
 role: "Solo GP / Angel Investor"
 location: "San Francisco, CA"
@@ -209,6 +210,20 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 
 *Note: The endorsement quotes above are from the Stripe Press edition of High Growth Handbook and from public profiles. While they speak to Gil's value as an advisor and operator, they are somewhat curated (book endorsements are solicited by the author). No independently sourced founder testimonials from Twitter, podcasts, or press interviews could be verified with exact quotes and URLs beyond those listed here.*
 
+## Connections
+
+- **Board member, Anduril Industries** — led the $450M Series D in June 2021; early investor from seed stage alongside Palmer Luckey (founder) and Peter Thiel [^2][^27]
+- **Board member, Navan** (formerly TripActions) — board seat as an early investor in the travel and expense management platform [^2]
+- **Board member, BioAge Labs** — public biotech company focused on aging; aligns with Gil's longevity research background (identified a gene involved in lifespan during PhD at MIT) [^1][^2]
+- **Board member, Color Health** — co-founder and former CEO of the genomics and cancer screening company [^1][^3]
+- **Co-host, *No Priors* podcast** — weekly AI-focused podcast co-hosted with Sarah Guo (GP at Conviction); guests include leading AI researchers and founders [^1][^9]
+- **Former VP of Corporate Strategy, Twitter** — joined via acquisition of Mixer Labs (co-founded 2007); ran product teams and M&A during growth from ~90 to 1,500+ employees; worked alongside Jack Dorsey and Dick Costolo [^3][^4][^6]
+- **Former product manager, Google** (2004–2007) — started the mobile team; original PM for Google Mobile Maps; involved in three acquisitions including the Android team [^3][^4]
+- **Advisor, Electric Capital** — crypto-focused venture fund [^28]
+- **TechCrunch Disrupt 2025** — featured fireside chat speaker on AI, crypto, health tech, and enterprise SaaS [^29]
+- **Milken Institute Global Conference 2024** — speaker [^28]
+- **Author, *High Growth Handbook*** (Stripe Press, 2018) — widely cited scaling guide endorsed by Brian Armstrong (Coinbase), Reid Hoffman (LinkedIn), and Max Levchin (Affirm/PayPal) [^7]
+
 ## Sources
 
 [^1]: Elad Gil personal website, eladgil.com, accessed March 2026. https://eladgil.com/
@@ -238,3 +253,5 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^25]: "Elad Gil backed 40 unicorns. This is next," Mixergy interview, 2025. https://mixergy.com/interviews/elad-gil-backed-40-unicorns-this-is-next/
 [^26]: "Elad Gil | Acting on Conviction, Future of AI, Biotech, Ambition, Speed, and Non-Obvious Startup Advice," The Split podcast, May 2024. https://www.thespl.it/p/elad-gil-acting-on-conviction-future
 [^27]: "Anduril raises $450M as the defense tech company's valuation soars to $4.6B," TechCrunch, June 17, 2021. https://techcrunch.com/2021/06/17/anduril-funding-series-d-valuation/
+[^28]: Milken Institute Global Conference 2024, "Elad Gil" speaker profile (lists advisor to Electric Capital and crypto companies), accessed March 2026. https://milkeninstitute.org/events/global-conference-2024/speakers/elad-gil
+[^29]: TechCrunch, "Elad Gil joins the stage at Disrupt 2025 in October," September 22, 2025. https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/

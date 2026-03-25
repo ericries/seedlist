@@ -1,6 +1,7 @@
 ---
 name: "Matthew Ocko"
 slug: matthew-ocko
+tldr: "DCVC co-founder, deep-tech specialist focused on compute/algorithms as competitive moat. Portfolio: 20% defense/national security, 12% space/aerospace, 12% climate, 16% AI. Known for 'must-have life-or-death technologies' thesis; skeptical of fluffy SaaS; emphasizes actual Fortune 1000 revenue over NPS. $100K-$25M checks."
 type: individual
 firm: dcvc
 role: "Co-Founder & Co-Managing Partner"

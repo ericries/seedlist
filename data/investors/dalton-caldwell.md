@@ -1,6 +1,7 @@
 ---
 name: "Dalton Caldwell"
 slug: dalton-caldwell
+tldr: "Partner Emeritus at Y Combinator and Co-Founder of Standard Capital, focused on Series A AI-native companies. Portfolio of 16 verified investments skews 25% developer tools, 19% fintech, with deep tech and frontier investments including nuclear energy and reusable rockets. Known for advising 1,000+ YC startups and mentoring 35+ unicorns with emphasis on perseverance and technical founders."
 type: individual
 firm: y-combinator
 role: "Partner Emeritus (former Managing Director & Group Partner)"

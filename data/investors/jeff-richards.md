@@ -1,6 +1,7 @@
 ---
 name: "Jeff Richards"
 slug: jeff-richards
+tldr: "Managing Partner at Notable Capital (formerly GGV's US arm, now $4B AUM). Seed to Series B investor focused on AI-driven vertical SaaS and enterprise applications. Checks $250K-$25M with operator background: founded two SaaS companies sold to Verizon and TPG. Former GGV partner with deep Asia operating experience."
 type: individual
 firm: notable-capital
 role: "Managing Partner"

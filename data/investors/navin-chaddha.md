@@ -1,6 +1,7 @@
 ---
 name: "Navin Chaddha"
 slug: navin-chaddha
+tldr: "Mayfield Fund Managing Partner (50+ years, $2.5B AUM); three-time founder (VXtreme acquired by Microsoft). Focus on inception/seed; 50% enterprise/infrastructure (HashiCorp, Marketo, Outreach). Known for 'people-first' thesis and 'painkillers sell, vitamins don't' product philosophy. 18 IPOs and 29 acquisitions from 60+ investments."
 type: individual
 firm: mayfield-fund
 role: "Managing Partner"

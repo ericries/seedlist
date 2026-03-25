@@ -16,6 +16,7 @@ sector_focus:
 - ai-drug-discovery
 - synthetic-biology
 slug: vijay-pande
+tldr: "Former a16z General Partner (2015-2024), founded Bio + Health Fund managing $3B+ across 4 funds. Stanford professor of chemistry/structural biology/computer science; created Folding@home (Guinness World Record distributed computing). Co-founded Globavir (Dengue/Ebola research). First employee at Naughty Dog. Physics PhD MIT, BA Princeton. Now co-founder VZVC with Zack Werner, raising $400M for AI-enabled healthcare."
 social:
   linkedin: linkedin.com/in/vijay-pande-phd-4b53342
   twitter: '@vijaborr'

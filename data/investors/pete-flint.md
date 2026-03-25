@@ -1,6 +1,7 @@
 ---
 name: "Pete Flint"
 slug: pete-flint
+tldr: "NFX co-founder; Trulia founder/CEO (IPO 2012, $3.5B to Zillow 2015), lastminute.com founding team. Focus: 44% PropTech (Ribbon, La Haus, Indigo), FinTech, LatAm, AI/network effects. Known for 'money is in the money' marketplace thesis. OBE for entrepreneurship. Pre-seed/seed investor. $500K-$5M checks."
 type: individual
 firm: nfx
 role: "Co-Founder & General Partner"

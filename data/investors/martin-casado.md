@@ -1,6 +1,7 @@
 ---
 name: "Martin Casado"
 slug: martin-casado
+tldr: "a16z General Partner leading infrastructure practice ($1.25B+); founder of Nicira Networks (sold to VMware $1.26B). PhD technologist with focus on market structure over companies. Invests in infrastructure, AI, security with emphasis on product experience over technical prowess. Known for 'this feels like 1996' AI thesis; skeptical of open-source AI."
 type: individual
 firm: andreessen-horowitz
 role: "General Partner"

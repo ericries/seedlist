@@ -1,6 +1,7 @@
 ---
 name: "Philippe Laffont"
 slug: philippe-laffont
+tldr: "Coatue Management founder (1999, $40-70B AUM); Tiger Cub investor. Thesis: long-term tech cycles (mainframes→PCs→mobile→cloud→AI). Data-driven: 50% engineers, $30M/year on data science. 3-5 year view on returns; 'stock double in 5, private triple in 5.' Crypto not bubble but 'early industrial revolution.' Forbes net worth $7.9B."
 type: individual
 firm: coatue-management
 role: "Founder & CIO"

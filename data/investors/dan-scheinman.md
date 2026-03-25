@@ -1,6 +1,7 @@
 ---
 name: "Dan Scheinman"
 slug: dan-scheinman
+tldr: "Silicon Valley angel investor and former Cisco General Counsel. Portfolio of 20 verified investments (of ~87 claimed) is 35% enterprise software, 25% cybersecurity, with preference for experienced founders 35+. Most famous for Zoom's $250K seed investment (2,800x return), plus IPO-backed exits in SentinelOne, Arista Networks, and Rubrik. Known for 'boring is beautiful' enterprise infrastructure approach."
 type: individual
 firm: independent
 role: "Founder, Scheinman Angel Fund"

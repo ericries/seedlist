@@ -1,6 +1,7 @@
 ---
 name: "Rebecca Kaden"
 slug: rebecca-kaden
+tldr: "Union Square Ventures Managing Partner (first female GP); thesis-driven investor focused on broadening access to knowledge, capital, well-being. Seed-Series A focus on consumer, marketplace, fintech, blockchain. Values team-building ability and founder-market fit. Former journalist and Maveron GP. $1M-$20M checks."
 type: individual
 firm: union-square-ventures
 role: "Managing Partner"

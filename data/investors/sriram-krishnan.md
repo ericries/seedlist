@@ -16,6 +16,7 @@ sector_focus:
 - ai
 - web3
 slug: sriram-krishnan
+tldr: "Former a16z General Partner (2021-2024), led consumer team and launched a16z London office. Previously head of product at Facebook (Audience Network), Snap, Twitter (home feed); early angel investor (~$20M by 2020 via AngelList syndicate). Opportunistic investor seeking founders with unique insights and domain expertise. Portfolio spans consumer, social, crypto, AI with seed to Series B focus. Now Senior White House Policy Advisor for AI (Trump 2025); Time Person of Year 'Architect of Artificial Intelligence.'"
 social:
   linkedin: linkedin.com/in/sriramkrishnan01
   twitter: '@saborr'

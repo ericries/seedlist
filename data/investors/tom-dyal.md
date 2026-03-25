@@ -1,6 +1,7 @@
 ---
 name: "Tom Dyal"
 slug: tom-dyal
+tldr: "Founding Partner & MD at Redpoint Ventures (1999), built growth investing practice (2007+). Growth-stage investor ($100K-$50M) with 44% of portfolio in networking/infrastructure (StratumOne, NextG Networks, Qwilt), 19% cybersecurity (SentinelOne, Caspida). Ex-Bell Labs engineer, ex-Bay Networks product manager. Georgia Tech EE; seeks 'consumer phenomena' with strong execution. SentinelOne Series C $1.1B valuation example."
 type: individual
 firm: redpoint-ventures
 role: "Managing Director & Founding Partner"

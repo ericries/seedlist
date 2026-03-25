@@ -1,6 +1,7 @@
 ---
 name: "Jaimin Rangwalla"
 slug: jaimin-rangwalla
+tldr: "Senior Managing Director at Coatue Management with 20+ year track record in growth and late-stage investing. Invests across seed to $500M+ scale in AI, clean energy, semiconductors, and enterprise. Target check $5M-$500M as Coatue principal. Portfolio includes significant bets in autonomous systems and infrastructure technologies."
 type: individual
 firm: coatue-management
 role: "Senior Managing Director, CIO of Publics"

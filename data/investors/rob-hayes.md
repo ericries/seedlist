@@ -1,6 +1,7 @@
 ---
 name: "Rob Hayes"
 slug: rob-hayes
+tldr: "First Round Capital Board Partner (12+ years); legendary seed investor. Uber early investor ($510K seed → ~$1.4B at IPO, ~5,000x return). Notable: Square, Mint.com, TaskRabbit, Bowery Farming. Values distribution expertise and 'running up and down the stack' versatility in founders. Fintech, marketplaces focus. $100K-$5M checks."
 type: individual
 firm: first-round-capital
 role: "Board Partner"

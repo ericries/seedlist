@@ -1,6 +1,7 @@
 ---
 name: "Yuri Milner"
 slug: yuri-milner
+tldr: "Founder of DST Global, growth-stage investor checking $15M-$200M. Moscow theoretical physicist (Moscow State University BS, incomplete PhD particle physics). Transitioned from Soviet academic family to venture investor. Portfolio includes consumer internet, fintech, e-commerce, social media, marketplaces. Recent investments in Reflection AI and other AI companies. Key investor in Facebook, Twitter, Alibaba, and many unicorns. Philanthropist supporting Breakthrough Prize foundation."
 type: individual
 firm: dst-global
 role: "Founder"

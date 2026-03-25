@@ -1,6 +1,7 @@
 ---
 name: "Dylan Field"
 slug: dylan-field
+tldr: "Co-Founder and CEO of Figma (IPO July 2025, $68B valuation). Angel investor with 22 verified investments (of ~64-118 total) skewing 32% developer tools (Warp, Zed, Replicate), 14% design/AI. Known for 'design is a differentiator' thesis and multiplayer/collaboration focus (Warp, Loom, Linear, OpenSea). Check size $10K-$500K. Portfolio exits include Atlassian's Loom acquisition."
 type: individual
 firm: independent
 role: "Co-Founder & CEO"

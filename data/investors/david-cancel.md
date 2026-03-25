@@ -1,6 +1,7 @@
 ---
 name: "David Cancel"
 slug: david-cancel
+tldr: "Serial entrepreneur and Sequoia Capital scout based in Cambridge. Portfolio of 9 verified investments (of ~50 claimed) includes consumer SaaS like thredUP, Bobbie, WHOOP, and enterprise MarTech like Attentive. Known for fast seed-stage investing (1-2 meetings), focus on 'Everyday Economy,' and motto 'Helping is the new selling.' Founder of Drift (unicorn, acquired by Salesloft for $500M)."
 type: individual
 firm: ""
 role: "Angel Investor & Sequoia Scout"

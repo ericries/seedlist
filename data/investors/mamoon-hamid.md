@@ -1,6 +1,7 @@
 ---
 name: "Mamoon Hamid"
 slug: mamoon-hamid
+tldr: "Partner at Kleiner Perkins who transformed the firm's trajectory; leading investor in Figma, Rippling, and Slack. Portfolio is 28% enterprise SaaS, 25% AI/ML, centered on workplace productivity tools. Known for finding blindspots in founders and for rapid conviction—led Figma Series B and Rippling's largest early-stage round at the time."
 type: individual
 firm: kleiner-perkins
 role: "Partner"

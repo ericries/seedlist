@@ -1,6 +1,7 @@
 ---
 name: "Arash Ferdowsi"
 slug: arash-ferdowsi
+tldr: "Former CTO of Dropbox (2007-2016, IPO 2018), Visiting Partner at Pear VC. Prolific angel investor (80+ portfolio companies) focused 33% AI/ML, 25% developer tools, 17% security with $50K-$200K checks at pre-seed/seed. Portfolio includes 3 unicorns: Anysphere/Cursor, Speak. Emphasizes 'conscious leadership' and complexity hidden behind simple UX."
 type: individual
 firm: pear-vc
 role: "Visiting Partner"

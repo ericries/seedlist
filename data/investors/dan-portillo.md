@@ -1,6 +1,7 @@
 ---
 name: "Dan Portillo"
 slug: dan-portillo
+tldr: "Co-Founder of The General Partnership, a $540M venture firm with a services-for-equity model. Portfolio of 25 verified investments skews 24% fintech, 20% developer tools, 16% AI, with early-stage focus. Deploys 25+ embedded operators (ex-Stripe, Google, Square engineers) into portfolio companies for average 9-month tenures. Has backed exits including Coda (Grammarly acquisition) and Nuro ($6B valuation)."
 type: individual
 firm: the-general-partnership
 role: "Co-Founder & General Partner"

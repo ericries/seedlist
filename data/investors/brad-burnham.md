@@ -1,6 +1,7 @@
 ---
 name: "Brad Burnham"
 slug: brad-burnham
+tldr: "Co-Founder of Union Square Ventures with Fred Wilson (2003), strategic mind behind 'large networks of engaged users' thesis. Portfolio (12 verified) led Tumblr, Meetup, Stack Overflow, Indeed, Duolingo. Checks $1M-$6M at seed/Series A. Currently Venture Partner. Known for thesis-driven investing; now championing Web3 data architectures. Fred Wilson credits him for USV's strategic foundation."
 type: individual
 firm: union-square-ventures
 role: "Co-Founder & Venture Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Aydin Senkut"
 slug: aydin-senkut
+tldr: "Founder & Managing Partner of Felicis Ventures, first product manager at Google. Multi-stage generalist backing 50+ unicorns with checks $500K-$15M. Portfolio (19 verified of 436+ total) is 26% enterprise SaaS (Shopify, Notion), 21% AI (Runway, Poolside), 16% consumer (Canva). Known for '1% Founder Development Pledge' and pro-founder board voting. Forbes Midas 12x."
 type: individual
 firm: felicis
 role: "Founder & Managing Partner"

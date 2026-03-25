@@ -1,6 +1,7 @@
 ---
 name: Jim Breyer
 slug: jim-breyer
+tldr: "Founder of Breyer Capital and 44-year VC veteran (Kleiner Perkins since 1980). Backed Amazon, Google, Intuit, Compaq, and NetScape; shifted focus to AI and healthcare. Checks $1M-$25M+ via personal fund. Author of bestsellers on OKRs and climate; major Stanford donor ($1.1B)."
 type: individual
 firm: breyer-capital
 role: Founder & CEO

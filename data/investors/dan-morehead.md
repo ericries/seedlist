@@ -1,6 +1,7 @@
 ---
 name: "Dan Morehead"
 slug: dan-morehead
+tldr: "Founder and CEO of Pantera Capital, a $5B blockchain-focused fund managing 265+ portfolio companies. 2025 deployment is 33.85% infrastructure, 17.82% consumer, 16.36% AI/robotics, with Series A-heavy investment (56.71% of 2025 deployment). Leads 85% of new investments, uses algorithmic analysis for decision-making, and has backed major exits including Coinbase, Circle (IPO 2025), and Bitstamp (Robinhood acquisition)."
 type: individual
 firm: pantera-capital
 role: "Founder & CEO"

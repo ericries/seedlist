@@ -16,6 +16,7 @@ sector_focus:
 - enterprise-software
 - real-estate-tech
 slug: mark-goldberg
+tldr: "Co-founder of Chemistry VC ($350M fund); fintech-focused investor with 65% of portfolio in financial services (Plaid, Bridge, Pilot, Anrok). Former Index Ventures partner; known for 'conviction not consensus' approach. Invests seed-Series A with pattern of backing software-first solutions to regulated industries."
 social:
   linkedin: linkedin.com/in/mark-goldberg-25458110
   twitter: '@Mark_Goldberg_'

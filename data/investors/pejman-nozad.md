@@ -1,6 +1,7 @@
 ---
 name: "Pejman Nozad"
 slug: pejman-nozad
+tldr: "Pear VC co-founder; Iranian immigrant founder (arrived with $700). Hosted University Ave networking events at Medallion Rug Gallery attracting Dropbox, Android creators. Forbes #1 Midas Seed List 2023-2025. Values domain expertise, team-building ability, founder character. 'Months of multi-hour dinners' before investing. Pre-seed/seed specialist. $250K-$6M checks."
 type: individual
 firm: pear-vc
 role: "Co-Founder & Founding Managing Partner"

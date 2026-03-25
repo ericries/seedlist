@@ -1,6 +1,7 @@
 ---
 name: "John Doran"
 slug: john-doran
+tldr: "General Partner at TCV's London office investing $10M-$30M in Series B/C/growth stage fintech, payments, and enterprise software. Represents international expansion of TCV's growth equity thesis."
 type: individual
 firm: tcv
 role: "General Partner"

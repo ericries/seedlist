@@ -1,6 +1,7 @@
 ---
 name: "Matt Robinson"
 slug: matt-robinson
+tldr: "TCV Partner, co-leading infrastructure software practice; deployed $700M+. Focus: cybersecurity (33%), cloud networking (22%), data governance. Growth-stage investor with $10M-$200M+ checks. GrowthCap Top 40 Under 40. Values enterprise infrastructure solving perennial computing problems across platforms."
 type: individual
 firm: tcv
 role: "Partner"

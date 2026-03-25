@@ -1,6 +1,7 @@
 ---
 name: "Yasmin Razavi"
 slug: yasmin-razavi
+tldr: "General Partner at Spark Capital (joined 2017 growth team, $4.2B AUM). Growth-stage investor ($5M-$15M checks) in fintech, enterprise, developer tools, AI. Recently invested in Adept (AI/LLMs). Part of Spark's growth team focused on Series B and later-stage companies."
 type: individual
 firm: spark-capital
 role: "General Partner"

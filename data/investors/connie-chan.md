@@ -8,6 +8,7 @@ last_verified_investment:
   round: ~2022
 location: San Francisco, CA
 name: Connie Chan
+tldr: "Former General Partner at a16z (2011-2024), first person promoted internally to GP after 9 years of only hiring founders/CEOs. Expert on Chinese consumer tech and its US implications. Portfolio (11 verified) focuses on consumer, e-commerce (Whatnot, Pinterest, Cider), and community platforms. Checks $1M-$50M at seed/Series A. Customer-first investing approach; recently stepped back to develop new theses."
 role: General Partner (former)
 sector_focus:
 - consumer

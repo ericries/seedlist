@@ -1,6 +1,7 @@
 ---
 name: "Bill Gurley"
 slug: bill-gurley
+tldr: "General Partner (Emeritus) at Benchmark, VC of the Year 2016. Marketplace specialist backing Uber, OpenTable, GrubHub, Zillow, Stitch Fix, Nextdoor. Portfolio (26 verified) is 38% marketplaces, 19% consumer. Checks $1M-$15M at seed/Series A. Prolific writer (Above the Crowd) on marketplace network effects and asymmetric returns orientation. Now in Austin, Texas."
 type: individual
 firm: benchmark
 role: "General Partner (Emeritus)"

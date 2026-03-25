@@ -1,6 +1,7 @@
 ---
 name: "David Krane"
 slug: david-krane
+tldr: "CEO and Managing Partner of GV (Google Ventures), a $10B+ fund deploying $1B annually. Portfolio of 18 personally attributed investments skews 56% consumer (Uber, ClassPass, Nothing), 22% enterprise (Gusto, Checkr, Flexport). Known for flagship $258M-$335M Uber investment (worth $2B+ at IPO) and long-term patient capital approach via Alphabet's unlimited LP backing."
 type: individual
 firm: gv
 role: "CEO & Managing Partner"

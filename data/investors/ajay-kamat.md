@@ -1,6 +1,7 @@
 ---
 name: "Ajay Kamat"
 slug: ajay-kamat
+tldr: "Partner at Pear VC backing consumer, fintech, and digital health companies at pre-seed and seed with $250K-$6M checks. Former Wedding Party founder (acquired by Instacart). Portfolio covers digital health, fintech, and proptech with strong pattern of backing experienced operators with domain expertise. Notable: Recora, Aaptiv, Burst."
 type: individual
 firm: pear-vc
 role: "Partner"

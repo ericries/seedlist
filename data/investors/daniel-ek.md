@@ -1,6 +1,7 @@
 ---
 name: "Daniel Ek"
 slug: daniel-ek
+tldr: "Founder of Spotify and Prima Materia, a personal investment vehicle with €1B focused on European deep tech. Portfolio of 7 verified investments is 29% healthcare/longevity, 29% climate/green infrastructure, with major bets in Helsing ($694M defense AI), Northvolt (exited), and Neko Health. Takes board seats as an active owner rather than passive angel."
 type: individual
 firm: prima-materia
 role: "Founder & CEO, Spotify; Founder, Prima Materia"

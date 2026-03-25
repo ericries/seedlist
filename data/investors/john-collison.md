@@ -1,6 +1,7 @@
 ---
 name: "John Collison"
 slug: john-collison
+tldr: "Stripe President and Co-Founder (with brother Patrick). Angel investor since early 2010s; checkbook size undisclosed but selective. Portfolio emphasizes developer tools, infrastructure, and AI. Brings deep payments/fintech domain expertise and network from scaling Stripe to $91.5B (2025) unicorn with $1T+ annual processing."
 type: individual
 firm: null
 role: "President & Co-Founder, Stripe; Angel Investor"

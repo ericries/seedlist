@@ -1,6 +1,7 @@
 ---
 name: "Hugh Crean"
 slug: hugh-crean
+tldr: "Boston-based angel investor and Farecast CEO (acquired by Microsoft $115M) focused on travel and hospitality. Portfolio is 71% travel tech (HotelTonight, Room77, Luxury Retreats acquired by Airbnb, Otto 2024). Co-invests with 'Fab Five' travel angels (Rich Barton, Erik Blachford, Brad Gerstner). Selective investor with only 7 verified investments and strong founder engagement."
 type: individual
 firm:
 role: "Angel Investor / CEO"

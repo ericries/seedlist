@@ -1,6 +1,7 @@
 ---
 name: "Ping Li"
 slug: ping-li
+tldr: "Accel Partner since 2004; data infrastructure and cybersecurity expert with Big Data Fund. Portfolio: 29% cybersecurity (Snyk, Tenable, Snyk), 18% data infrastructure (Cloudera, Sumo Logic), 18% enterprise SaaS (Klaviyo, Commercetools). Known for 'cloudframe' concept—recreating mainframe tools for each new computing platform. $15M-$70M checks."
 type: individual
 firm: accel
 role: "Partner"

@@ -8,6 +8,7 @@ last_verified_investment:
   round: Shark Tank deal
 location: Jackson, Wyoming
 name: Chris Sacca
+tldr: "Founder of Lowercase Capital (22 verified investments of ~80 total), early seed pioneer before seed was a category. Portfolio is 23% social media (Twitter, Instagram, Medium), 18% developer tools (Docker, Twilio, Stripe), 14% marketplaces (Uber, Kickstarter). Checks $25K-$100K. Former Google exec; Lowercarbon Capital co-founder focusing on climate. Forbes Midas #2 2017."
 role: Founder & Chairman
 sector_focus:
 - consumer-internet

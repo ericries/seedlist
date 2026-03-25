@@ -1,6 +1,7 @@
 ---
 name: "John Griffin"
 slug: john-griffin
+tldr: "Founder of Blue Ridge Capital hedge fund (fund closed 2017). Public market investor with diversified sector focus spanning technology, financials, healthcare, consumer. Represents transition from hedge fund to broader venture participation."
 type: individual
 firm: blue-ridge-capital
 role: "Founder (Fund Closed 2017)"

@@ -1,6 +1,7 @@
 ---
 name: "Marc Benioff"
 slug: marc-benioff
+tldr: "Salesforce co-founder and CEO of TIME Ventures with 200+ investments; prolific angel investor across seed to growth stages. Portfolio balanced across enterprise (25%), fintech (13%), healthcare (8%), with notable investments in Zuora, StockX, Upstart; recent focus on AI and climate tech with $300M+ committed to climate solutions."
 type: individual
 firm: time-ventures
 role: "Founder"

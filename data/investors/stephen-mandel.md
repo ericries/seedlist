@@ -15,6 +15,7 @@ sector_focus:
 - healthcare
 - financials
 slug: stephen-mandel
+tldr: "Founder of Lone Pine Capital (1997, $19B AUM across 10 funds). Former Tiger Management analyst (1990-1997); described by Seth Klarman as 'best industry analyst I've ever met.' Philosophy: 'invest behind change' (technological, managerial, regulatory). Q4 2025 portfolio $13.6B public equity: 24% tech/semiconductors (TSM, ASML, MSFT), 20% financials, 13% consumer. Long-term value compounder seeking good businesses at reasonable prices. Philanthropist; Dartmouth trustee; $3.9B net worth."
 social:
   linkedin: null
   twitter: null
