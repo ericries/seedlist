@@ -26,6 +26,7 @@ social:
   linkedin: "linkedin.com/in/deenashakir"
 status: published
 last_researched: 2026-03-24
+tldr: "Lux Capital GP investing $1M-$10M seed/Series A in deep tech applied to women's/reproductive health, health equity, and AI-native biotech. Personal experience with pregnancy complications drives focus on historically undercapitalized women's health category."
 ---
 
 ## Background

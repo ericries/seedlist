@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/davidu"
 status: published
 last_researched: 2026-03-24
+tldr: "a16z American Dynamism GP who co-leads defense/national-security investing ($2M-$100M+) alongside enterprise SaaS. Former OpenDNS founder and Cisco exec; backs mission-driven operators in defense tech, aerospace, energy, and critical infrastructure."
 ---
 
 ## Background

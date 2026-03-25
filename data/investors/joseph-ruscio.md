@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/josephruscio"
 status: published
 last_researched: 2026-03-20
+tldr: "Heavybit partner investing $100K-$5M in pre-seed/seed developer-tools and infrastructure. Librato founder/CTO (acquired by SolarWinds for $40M); brings 20+ years of distributed systems and API-first go-to-market expertise."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/jennifer-scott-fonstad-61550850"
 status: published
 last_researched: 2026-03-18
+tldr: "Owl Capital co-founder ($500M+ lifetime AUM) investing $50K-$200K pre-seed/seed in diverse founding teams. 30+ year VC veteran; former DFJ Managing Director and Aspect Ventures co-founder; emphasizes long-term company building and founder diversity over markets."
 ---
 
 ## Background

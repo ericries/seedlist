@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/mood-rowghani"
 status: published
 last_researched: 2026-03-24
+tldr: "BOND partner and ex-Kleiner Perkins Digital Growth veteran backing global growth-stage companies in consumer and fintech. Distinctive transatlantic thesis with 30%+ portfolio in Europe and emerging markets; led Stripe, Uber, Revolut."
 ---
 
 ## Background

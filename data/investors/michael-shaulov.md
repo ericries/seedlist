@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/michaelsh"
 status: published
 last_researched: 2026-03-22
+tldr: "Fireblocks CEO and angel backing Israeli cybersecurity and blockchain startups. Deep expertise in digital asset infrastructure; portfolio includes multiple successful exits to Microsoft, Palo Alto, and other acquirers."
 ---
 
 ## Background

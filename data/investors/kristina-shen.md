@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kristina-shen"
 status: published
 last_researched: 2026-03-24
+tldr: "Chemistry co-founder and managing partner ($350M debut fund) investing $500K-$20M seed/Series A in enterprise SaaS, fintech, and AI infrastructure. Former a16z GP (4 yrs) and Bessemer Partner (7 yrs); co-authored State of Cloud reports."
 ---
 
 ## Background

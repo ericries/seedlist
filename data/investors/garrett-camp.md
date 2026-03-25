@@ -25,6 +25,7 @@ stage_focus:
 - series-a
 status: published
 type: individual
+tldr: "Expa founder/CEO running a startup studio investing $100K-$10M in 100+ pre-seed/seed B2B infrastructure companies. Co-founder of Uber and StumbleUpon; builds picks-and-shovels companies in fintech, logistics, and developer tools rather than consumer."
 ---
 
 ## Background

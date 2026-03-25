@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/gabe-greenbaum-008167"
 status: published
 last_researched: 2026-03-16
+tldr: "B Capital GP leading early-stage enterprise tech from Los Angeles office. Focuses on vertical SaaS and AI applied to industrials, construction, and logistics; serial founder (StudentSpace, SwiftIQ) with strong proptech and supply-chain domain expertise."
 ---
 
 ## Background

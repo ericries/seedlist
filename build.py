@@ -416,11 +416,17 @@ def parse_date(text):
     # YYYY-MM-DD
     m = re.match(r'^(\d{4})-(\d{2})-(\d{2})$', text)
     if m:
-        return f"{m.group(1)}-{m.group(2)}"
+        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
     # YYYY-MM
     m = re.match(r'^(\d{4})-(\d{2})$', text)
     if m:
         return text
+    # Month Day, YYYY or Mon Day, YYYY (e.g., "March 15, 2026")
+    m = re.match(r'^(\w+)\s+(\d{1,2}),?\s+(\d{4})$', text)
+    if m:
+        month = MONTH_MAP.get(m.group(1).lower())
+        if month:
+            return f"{m.group(3)}-{month}-{int(m.group(2)):02d}"
     # Month YYYY or Mon YYYY
     m = re.match(r'^(\w+)\s+(\d{4})$', text)
     if m:
@@ -1039,6 +1045,17 @@ def build():
         html = comparables_template.render()
         (OUTPUT_DIR / "comparables.html").write_text(html)
 
+    # Render agents page
+    agents_tmpl_path = TEMPLATES_DIR / "agents.html"
+    if agents_tmpl_path.exists():
+        agents_template = env.get_template("agents.html")
+        html = agents_template.render(
+            investor_count=len(investors),
+            firm_count=len(firms),
+            startup_count=len(startups),
+        )
+        (OUTPUT_DIR / "agents.html").write_text(html)
+
     # Render homepage
     index_template = env.get_template("index.html")
     html = index_template.render(
@@ -1050,10 +1067,19 @@ def build():
     )
     (OUTPUT_DIR / "index.html").write_text(html)
 
+    # Generate cluster data JSON
+    if clusters_data:
+        (OUTPUT_DIR / "cluster-data.json").write_text(json.dumps(clusters_data))
+
     # Copy static assets
     if STATIC_DIR.exists():
         static_out = OUTPUT_DIR / "static"
         shutil.copytree(STATIC_DIR, static_out)
+
+    # Copy llms.txt to site root (convention for AI agents)
+    llms_path = STATIC_DIR / "llms.txt"
+    if llms_path.exists():
+        shutil.copy2(llms_path, OUTPUT_DIR / "llms.txt")
 
     # Copy CNAME for custom domain
     cname_path = ROOT / "CNAME"

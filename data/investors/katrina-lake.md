@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kmlake"
 status: published
 last_researched: 2026-03-19
+tldr: "Stitch Fix founder and angel investor backing consumer, retail, and femtech startups. IPO'd Stitch Fix at age 30 (youngest female founder-CEO at the time); boards at Glossier, Grubhub, Recruit Holdings."
 ---
 
 ## Background

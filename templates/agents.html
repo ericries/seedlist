@@ -1,0 +1,398 @@
+{% extends "base.html" %}
+
+{% block title %}For AI Agents{% endblock %}
+
+{% block head %}
+<style>
+  .agents-hero {
+    text-align: center;
+    padding: 3rem 0 2rem;
+  }
+  .agents-hero h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+  }
+  .agents-hero .subtitle {
+    font-size: 1.1rem;
+    color: #666;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  .agents-section {
+    margin: 2.5rem 0;
+  }
+  .agents-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 0.5rem;
+  }
+  .agents-section h3 {
+    font-size: 1.15rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  pre {
+    background: #1e1e2e;
+    color: #cdd6f4;
+    padding: 1rem 1.25rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    margin: 1rem 0;
+  }
+  pre code {
+    background: none;
+    padding: 0;
+    color: inherit;
+  }
+  code {
+    background: #f1f5f9;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+  .endpoint-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+  .endpoint-table th,
+  .endpoint-table td {
+    text-align: left;
+    padding: 0.6rem 0.8rem;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .endpoint-table th {
+    background: #f8fafc;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: #64748b;
+  }
+  .endpoint-table td code {
+    font-size: 0.82rem;
+  }
+  .task-block {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.25rem;
+    margin: 1.25rem 0;
+  }
+  .task-block h3 {
+    margin-top: 0;
+  }
+  .schema-field {
+    margin: 0.3rem 0;
+  }
+  .schema-field code {
+    font-weight: 600;
+  }
+  .schema-field .type {
+    color: #6366f1;
+    font-size: 0.85em;
+  }
+  .footer-links {
+    margin: 2.5rem 0;
+    padding: 1.5rem 0;
+    border-top: 2px solid #e5e7eb;
+    display: flex;
+    gap: 2rem;
+  }
+  .footer-links a {
+    color: #4f46e5;
+  }
+  .comment {
+    color: #6a9955;
+  }
+  .string {
+    color: #ce9178;
+  }
+  .keyword {
+    color: #569cd6;
+  }
+  .number {
+    color: #b5cea8;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="agents-hero">
+  <h1>Seedlist for AI Agents</h1>
+  <p class="subtitle">Structured investor data for AI agents helping founders raise money. No auth, no rate limits &mdash; just JSON.</p>
+  <p style="margin-top: 0.5rem; color: #888; font-size: 0.9rem;">{{ investor_count }} investors &middot; {{ firm_count }} firms &middot; {{ startup_count }} startups</p>
+</section>
+
+<section class="agents-section">
+  <h2>Quick Start</h2>
+  <p>All endpoints return static JSON. No API key needed. Fetch with curl, Python, or any HTTP client.</p>
+
+  <h3>curl</h3>
+<pre><code>curl -s https://seedlist.com/enrichment-index.json | python3 -m json.tool | head -50</code></pre>
+
+  <h3>Python</h3>
+<pre><code><span class="keyword">import</span> requests
+
+<span class="comment"># Load the full investor index</span>
+data = requests.get(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).json()
+
+<span class="comment"># Find seed-stage fintech investors</span>
+matches = [
+    inv <span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"investors"</span>]
+    <span class="keyword">if</span> <span class="string">"seed"</span> <span class="keyword">in</span> inv[<span class="string">"stage_focus"</span>]
+    <span class="keyword">and</span> <span class="string">"fintech"</span> <span class="keyword">in</span> inv[<span class="string">"sector_focus"</span>]
+]
+
+<span class="keyword">for</span> inv <span class="keyword">in</span> matches[:<span class="number">5</span>]:
+    print(f<span class="string">"{inv['name']} ({inv['firm_name']}) — {inv['thesis_summary'][:80]}"</span>)</code></pre>
+</section>
+
+<section class="agents-section">
+  <h2>Endpoints</h2>
+  <table class="endpoint-table">
+    <thead>
+      <tr>
+        <th>Endpoint</th>
+        <th>URL</th>
+        <th>Description</th>
+        <th>Updated</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Investor Index</td>
+        <td><code>/enrichment-index.json</code></td>
+        <td>All investors and firms with stage, sector, check size, location, thesis summary</td>
+        <td>Every build</td>
+      </tr>
+      <tr>
+        <td>Investor Graph</td>
+        <td><code>/investor-graph.json</code></td>
+        <td>Co-investment relationships, firm memberships, startup founders</td>
+        <td>Every build</td>
+      </tr>
+      <tr>
+        <td>Startup-Investor Map</td>
+        <td><code>/startup-investor-map.json</code></td>
+        <td>Which investors backed which startups, with round and year</td>
+        <td>Every build</td>
+      </tr>
+      <tr>
+        <td>Rounds Feed</td>
+        <td><code>/rounds-feed.json</code></td>
+        <td>500 most recent funding rounds with company, date, amount, lead</td>
+        <td>Every build</td>
+      </tr>
+      <tr>
+        <td>Search Index</td>
+        <td><code>/search-index.json</code></td>
+        <td>Searchable index of all investors, firms, and startups</td>
+        <td>Every build</td>
+      </tr>
+      <tr>
+        <td>Cluster Data</td>
+        <td><code>/cluster-data.json</code></td>
+        <td>40 curated investor collections plus algorithmic clusters</td>
+        <td>Every build</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section class="agents-section">
+  <h2>Common Tasks</h2>
+
+  <div class="task-block">
+    <h3>1. Build a fundraising target list</h3>
+    <p>Filter by stage, sector, and check size. Score by sector overlap and recency.</p>
+<pre><code><span class="keyword">import</span> requests
+<span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timedelta
+
+data = requests.get(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).json()
+
+<span class="comment"># Define what you're looking for</span>
+my_stage = <span class="string">"seed"</span>
+my_sectors = {<span class="string">"fintech"</span>, <span class="string">"developer-tools"</span>}
+cutoff = (datetime.now() - timedelta(days=<span class="number">365</span>)).strftime(<span class="string">"%Y-%m-%d"</span>)
+
+results = []
+<span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"investors"</span>]:
+    <span class="keyword">if</span> my_stage <span class="keyword">not in</span> inv[<span class="string">"stage_focus"</span>]:
+        <span class="keyword">continue</span>
+    overlap = len(my_sectors & set(inv[<span class="string">"sector_focus"</span>]))
+    <span class="keyword">if</span> overlap == <span class="number">0</span>:
+        <span class="keyword">continue</span>
+    active = inv[<span class="string">"last_active"</span>] >= cutoff <span class="keyword">if</span> inv[<span class="string">"last_active"</span>] <span class="keyword">else</span> <span class="keyword">False</span>
+    results.append({
+        <span class="string">"name"</span>: inv[<span class="string">"name"</span>],
+        <span class="string">"firm"</span>: inv[<span class="string">"firm_name"</span>],
+        <span class="string">"overlap"</span>: overlap,
+        <span class="string">"active"</span>: active,
+        <span class="string">"thesis"</span>: inv[<span class="string">"thesis_summary"</span>],
+        <span class="string">"profile"</span>: f<span class="string">"https://seedlist.com/investors/{inv['slug']}.html"</span>,
+    })
+
+<span class="comment"># Sort: active investors first, then by sector overlap</span>
+results.sort(key=<span class="keyword">lambda</span> x: (-x[<span class="string">"active"</span>], -x[<span class="string">"overlap"</span>]))
+<span class="keyword">for</span> r <span class="keyword">in</span> results[:<span class="number">20</span>]:
+    print(f<span class="string">"{'*' if r['active'] else ' '} {r['name']} ({r['firm']}) — {r['thesis'][:60]}"</span>)</code></pre>
+  </div>
+
+  <div class="task-block">
+    <h3>2. Find investors by comparable companies</h3>
+    <p>Look up which investors backed similar startups.</p>
+<pre><code><span class="keyword">from</span> collections <span class="keyword">import</span> Counter
+
+data = requests.get(<span class="string">"https://seedlist.com/startup-investor-map.json"</span>).json()
+
+<span class="comment"># Startups similar to ours</span>
+comparables = [<span class="string">"stripe"</span>, <span class="string">"plaid"</span>, <span class="string">"brex"</span>]
+
+investor_counts = Counter()
+<span class="keyword">for</span> slug <span class="keyword">in</span> comparables:
+    <span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"startup_investors"</span>].get(slug, []):
+        investor_counts[inv[<span class="string">"name"</span>]] += <span class="number">1</span>
+
+<span class="comment"># Investors who backed multiple comparables are strongest signal</span>
+<span class="keyword">for</span> name, count <span class="keyword">in</span> investor_counts.most_common(<span class="number">15</span>):
+    print(f<span class="string">"{name}: backed {count}/{len(comparables)} comparables"</span>)</code></pre>
+  </div>
+
+  <div class="task-block">
+    <h3>3. Find warm intro paths to an investor</h3>
+    <p>Trace co-investment and founder connections.</p>
+<pre><code>graph = requests.get(<span class="string">"https://seedlist.com/investor-graph.json"</span>).json()
+
+target = <span class="string">"ron-conway"</span>
+
+<span class="comment"># Co-investors (people who frequently invest alongside the target)</span>
+co = graph[<span class="string">"co_investments"</span>].get(target, {})
+<span class="keyword">for</span> slug, info <span class="keyword">in</span> sorted(co.items(), key=<span class="keyword">lambda</span> x: -x[<span class="number">1</span>][<span class="string">"count"</span>])[:<span class="number">10</span>]:
+    name = graph[<span class="string">"investor_names"</span>].get(slug, slug)
+    print(f<span class="string">"Co-investor: {name} ({info['count']} shared deals)"</span>)
+
+<span class="comment"># Firm colleagues</span>
+<span class="keyword">for</span> firm_slug, firm <span class="keyword">in</span> graph[<span class="string">"firms"</span>].items():
+    <span class="keyword">if</span> target <span class="keyword">in</span> firm[<span class="string">"members"</span>]:
+        print(f<span class="string">"Firm: {firm['name']} — colleagues: {firm['members']}"</span>)
+
+<span class="comment"># Portfolio founders who can intro</span>
+<span class="keyword">for</span> startup_slug, backers <span class="keyword">in</span> graph[<span class="string">"startup_backers"</span>].items():
+    <span class="keyword">if</span> target <span class="keyword">in</span> backers:
+        founders = graph[<span class="string">"startup_founders"</span>].get(startup_slug, [])
+        name = graph[<span class="string">"startup_names"</span>].get(startup_slug, startup_slug)
+        <span class="keyword">for</span> f <span class="keyword">in</span> founders:
+            print(f<span class="string">"Founder intro: {f['name']} ({f['role']} at {name})"</span>)</code></pre>
+  </div>
+
+  <div class="task-block">
+    <h3>4. Enrich an investor CSV</h3>
+    <p>Match names from a spreadsheet against Seedlist data.</p>
+<pre><code><span class="keyword">import</span> csv, io
+
+data = requests.get(<span class="string">"https://seedlist.com/enrichment-index.json"</span>).json()
+
+<span class="comment"># Build a name lookup (lowercase for fuzzy matching)</span>
+by_name = {}
+<span class="keyword">for</span> inv <span class="keyword">in</span> data[<span class="string">"investors"</span>]:
+    by_name[inv[<span class="string">"name"</span>].lower()] = inv
+
+<span class="comment"># Your investor list</span>
+my_investors = [<span class="string">"Ron Conway"</span>, <span class="string">"Mike Maples"</span>, <span class="string">"Unknown Person"</span>]
+
+<span class="keyword">for</span> name <span class="keyword">in</span> my_investors:
+    match = by_name.get(name.lower())
+    <span class="keyword">if</span> match:
+        print(f<span class="string">"MATCH: {match['name']} | {match['firm_name']} | "</span>
+              f<span class="string">"Stage: {match['stage_focus']} | Sectors: {match['sector_focus']}"</span>)
+    <span class="keyword">else</span>:
+        print(f<span class="string">"NO MATCH: {name}"</span>)</code></pre>
+  </div>
+
+  <div class="task-block">
+    <h3>5. Track recent funding rounds</h3>
+    <p>Get the latest rounds sorted by date.</p>
+<pre><code>rounds = requests.get(<span class="string">"https://seedlist.com/rounds-feed.json"</span>).json()
+
+<span class="comment"># Latest 10 rounds</span>
+<span class="keyword">for</span> r <span class="keyword">in</span> rounds[:<span class="number">10</span>]:
+    amt = r[<span class="string">"amount"</span>] <span class="keyword">or</span> <span class="string">"undisclosed"</span>
+    print(f<span class="string">"{r['date']} | {r['company']} | {r['round']} | {amt} | Lead: {r['lead']}"</span>)</code></pre>
+  </div>
+</section>
+
+<section class="agents-section">
+  <h2>Claude Skill</h2>
+  <p>If you use <a href="https://claude.com/claude-code">Claude Code</a>, you can install a Seedlist skill that teaches Claude how to query these endpoints for fundraising assistance.</p>
+  <h3>Install</h3>
+<pre><code><span class="comment"># Download the skill file</span>
+curl -o seedlist-skill.md https://raw.githubusercontent.com/ericries/seedlist/main/docs/seedlist-skill.md
+
+<span class="comment"># Add to your Claude Code project skills</span>
+cp seedlist-skill.md .claude/skills/seedlist-skill.md</code></pre>
+  <p>Or add the URL directly as a custom skill in Claude Code settings. The skill teaches Claude to fetch Seedlist JSON endpoints and build investor target lists, find warm intro paths, and enrich investor CSVs.</p>
+</section>
+
+<section class="agents-section">
+  <h2>Schema Reference</h2>
+
+  <h3>Investor (enrichment-index.json)</h3>
+  <p>The <code>investors</code> array contains one entry per published investor profile.</p>
+  <div class="schema-field"><code>name</code> <span class="type">string</span> &mdash; Full name (e.g., "Ron Conway")</div>
+  <div class="schema-field"><code>slug</code> <span class="type">string</span> &mdash; URL identifier. Profile at <code>/investors/{slug}.html</code></div>
+  <div class="schema-field"><code>firm</code> <span class="type">string</span> &mdash; Firm slug (e.g., "sv-angel")</div>
+  <div class="schema-field"><code>firm_name</code> <span class="type">string</span> &mdash; Firm display name (e.g., "SV Angel")</div>
+  <div class="schema-field"><code>role</code> <span class="type">string</span> &mdash; Role at firm (e.g., "Partner", "Founder")</div>
+  <div class="schema-field"><code>location</code> <span class="type">string</span> &mdash; Location (e.g., "San Francisco, CA")</div>
+  <div class="schema-field"><code>stage_focus</code> <span class="type">string[]</span> &mdash; Investment stages (e.g., ["pre-seed", "seed"])</div>
+  <div class="schema-field"><code>sector_focus</code> <span class="type">string[]</span> &mdash; Investment sectors (e.g., ["fintech", "ai", "consumer"])</div>
+  <div class="schema-field"><code>check_size</code> <span class="type">string</span> &mdash; Typical check size range (e.g., "$250K-$2M")</div>
+  <div class="schema-field"><code>last_active</code> <span class="type">string</span> &mdash; Most recent verified investment date (YYYY-MM-DD). Empty if unknown.</div>
+  <div class="schema-field"><code>status</code> <span class="type">string</span> &mdash; Always "published" in this endpoint</div>
+  <div class="schema-field"><code>thesis_summary</code> <span class="type">string</span> &mdash; LLM-inferred thesis from actual portfolio analysis (first 200 chars)</div>
+
+  <h3>Firm (enrichment-index.json)</h3>
+  <p>The <code>firms</code> array contains one entry per published firm profile.</p>
+  <div class="schema-field"><code>name</code> <span class="type">string</span> &mdash; Firm name</div>
+  <div class="schema-field"><code>slug</code> <span class="type">string</span> &mdash; URL identifier. Profile at <code>/firms/{slug}.html</code></div>
+  <div class="schema-field"><code>location</code> <span class="type">string</span> &mdash; Headquarters location</div>
+  <div class="schema-field"><code>stage_focus</code> <span class="type">string[]</span> &mdash; Investment stages</div>
+  <div class="schema-field"><code>sector_focus</code> <span class="type">string[]</span> &mdash; Investment sectors</div>
+  <div class="schema-field"><code>fund_size</code> <span class="type">string</span> &mdash; Fund size (e.g., "$100M")</div>
+  <div class="schema-field"><code>status</code> <span class="type">string</span> &mdash; Always "published"</div>
+
+  <h3>Funding Round (rounds-feed.json)</h3>
+  <p>Array of up to 500 funding rounds, sorted by date descending.</p>
+  <div class="schema-field"><code>company</code> <span class="type">string</span> &mdash; Company name</div>
+  <div class="schema-field"><code>company_slug</code> <span class="type">string</span> &mdash; Company URL slug. Profile at <code>/startups/{slug}.html</code></div>
+  <div class="schema-field"><code>date</code> <span class="type">string</span> &mdash; Round date (YYYY-MM-DD, YYYY-MM, or YYYY)</div>
+  <div class="schema-field"><code>round</code> <span class="type">string</span> &mdash; Round type (e.g., "Series A", "Seed")</div>
+  <div class="schema-field"><code>amount</code> <span class="type">string</span> &mdash; Amount raised (e.g., "$30M"). May be empty.</div>
+  <div class="schema-field"><code>lead</code> <span class="type">string</span> &mdash; Lead investor name(s). May be empty.</div>
+  <div class="schema-field"><code>investors</code> <span class="type">string[]</span> &mdash; Investor/firm slugs that participated</div>
+  <div class="schema-field"><code>sector</code> <span class="type">string[]</span> &mdash; Company sector tags</div>
+
+  <h3>Startup-Investor Map (startup-investor-map.json)</h3>
+  <div class="schema-field"><code>startups</code> <span class="type">array</span> &mdash; List of {slug, name, sector[], stage}</div>
+  <div class="schema-field"><code>startup_investors</code> <span class="type">object</span> &mdash; Map of startup slug to array of {slug, name, type, firm, round, year, has_profile}</div>
+
+  <h3>Investor Graph (investor-graph.json)</h3>
+  <div class="schema-field"><code>firms</code> <span class="type">object</span> &mdash; Firm slug to {name, members[]}</div>
+  <div class="schema-field"><code>co_investments</code> <span class="type">object</span> &mdash; Investor slug to {peer_slug: {count, companies[]}}</div>
+  <div class="schema-field"><code>startup_backers</code> <span class="type">object</span> &mdash; Startup slug to [investor/firm slugs]</div>
+  <div class="schema-field"><code>startup_names</code> <span class="type">object</span> &mdash; Startup slug to display name</div>
+  <div class="schema-field"><code>startup_founders</code> <span class="type">object</span> &mdash; Startup slug to [{name, role}]</div>
+  <div class="schema-field"><code>investor_names</code> <span class="type">object</span> &mdash; Investor slug to display name</div>
+  <div class="schema-field"><code>investor_firms</code> <span class="type">object</span> &mdash; Investor slug to firm display name</div>
+  <div class="schema-field"><code>collections</code> <span class="type">object</span> &mdash; Investor slug to [collection names]</div>
+</section>
+
+<div class="footer-links">
+  <a href="/static/llms.txt">View llms.txt</a>
+  <a href="https://github.com/ericries/seedlist">GitHub source</a>
+</div>
+{% endblock %}

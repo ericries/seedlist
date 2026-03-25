@@ -26,6 +26,7 @@ stage_focus:
 - growth
 status: published
 type: individual
+tldr: "Bessemer partner (since 2001) investing $500K-$100M+ in consumer and marketplace businesses with contrarian conviction. Backed LinkedIn, Pinterest, Yelp, Shopify, Fiverr; founder of analyst apprenticeship program; emphasizes independent thinking and valuation discipline."
 ---
 
 ## Background

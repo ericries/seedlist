@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kareemzaki"
 status: published
 last_researched: 2026-03-24
+tldr: "Thrive Capital GP investing $1M-$50M seed through growth in health tech, fintech, and AI. Led Robinhood and Ramp investments; scaled multiple healthcare companies; Forbes 30 Under 30 2018 in VC."
 ---
 
 ## Background

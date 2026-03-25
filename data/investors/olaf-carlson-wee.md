@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/olafcw"
 status: published
 last_researched: 2026-03-24
+tldr: "Polychain Capital founder betting exclusively on blockchain protocols and crypto infrastructure. 252 investments across DeFi, Layer 1s, and ZK with $5M-$100M+ checks; conviction that crypto is unstoppable and permissionless."
 ---
 
 ## Background

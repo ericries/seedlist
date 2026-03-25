@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/rauchg"
 status: published
 last_researched: 2026-03-23
+tldr: "Vercel founder/CEO making 30+ angel investments ($5K-$50K) in developer-facing AI/infrastructure companies. Original thesis: best companies start as APIs; now heavily AI-focused with preference for open-source distribution and founder-operator co-investors."
 ---
 
 ## Background

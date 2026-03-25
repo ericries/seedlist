@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/ryansells"
 status: published
 last_researched: 2026-03-16
+tldr: "Pear VC partner and ex-Dash Fund GP backing agentic AI infrastructure and fintech with deep domain expertise required. Serial go-to-market founder from Second Measure, Pipe, and Turnstile; raised $25M across two Dash Fund vehicles with 57 portfolio companies; thesis centers on financial-grade AI agents with real signing authority."
 ---
 
 ## Background

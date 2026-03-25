@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/mickeyboodaei"
 status: published
 last_researched: 2026-03-22
+tldr: "Transmit Security founder and prolific Israeli cybersecurity angel. Exceptional exit track record (Aorato, Talon, Watchdox acquired for $1B+) backing early-stage Israeli security founders across IoT, deception, and identity."
 ---
 
 ## Background

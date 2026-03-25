@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/katelinholloway"
 status: published
 last_researched: 2026-03-24
+tldr: "776 co-founder and founding partner investing $750K-$4M pre-seed/seed in spacetech, climatetech, and health/HR tech. Reddit SVP of People & Culture; Pixar/Klout veteran; strong focus on operational support and founder culture."
 ---
 
 ## Background

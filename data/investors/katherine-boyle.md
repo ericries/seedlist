@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/katherine-boyle-4531a67"
 status: published
 last_researched: 2026-03-20
+tldr: "a16z American Dynamism co-founder investing $1M-$50M in seed/Series B defense tech, aerospace, manufacturing, and energy. Former Washington Post reporter and General Catalyst partner; deep government market expertise."
 ---
 
 ## Background

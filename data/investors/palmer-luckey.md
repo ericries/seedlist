@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/palmer-luckey-21a16959"
 status: published
 last_researched: 2026-03-20
+tldr: "Oculus founder and Anduril CEO/CTO backing VR and deep-tech startups as secondary activity. Founder-first investor ($30B+ valued Anduril); angel checks $5K-$50K in robotics, defense tech, and energy; shaped modern defense-tech ecosystem."
 ---
 
 ## Background

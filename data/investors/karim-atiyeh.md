@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/karimatiyeh"
 status: published
 last_researched: 2026-03-22
+tldr: "Ramp co-founder and CTO making seed/Series A angel investments in fintech, enterprise software, and AI. Lebanon-born; prior founder of Paribus (acquired by Capital One); youngest Arab American billionaire ($1.3B net worth, 2025)."
 ---
 
 ## Background

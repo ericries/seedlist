@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/natsturner"
 status: published
 last_researched: 2026-03-22
+tldr: "Flatiron and Operator Partners founder with 225+ angel investments heavily skewed toward healthcare/healthtech. Backs execution-oriented first-time founders at pre-seed/seed; known for bias-for-action mentorship and deep healthcare domain expertise."
 ---
 
 ## Background

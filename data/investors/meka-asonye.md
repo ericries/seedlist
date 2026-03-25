@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/mekaasonye"
 status: published
 last_researched: 2026-03-23
+tldr: "First Round partner and ex-Stripe go-to-market guru backing technical founders who need commercial scaling help. Strength in seed-stage SaaS and defense tech; pattern of identifying asymmetric opportunities."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/girish1"
 status: published
 last_researched: 2026-03-16
+tldr: "Together Fund co-founder ($235M AUM) investing $1M-$10M seed/Series A in India-founded AI/SaaS for global markets. Freshworks founder and CEO; founder-first philosophy emphasizing operator guidance on unit economics and AI-native product development."
 ---
 
 ## Background

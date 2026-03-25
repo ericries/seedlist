@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/konstantinothmer"
 status: published
 last_researched: 2026-03-15
+tldr: "Recursive Ventures partner and serial founder investing $10K-$50K in pre-seed/seed hardware, mobile, and dev tools. Apple alumni (QuickDraw creator); invested in Tesla, Ring, Canva; 46+ startup bets."
 ---
 
 ## Background

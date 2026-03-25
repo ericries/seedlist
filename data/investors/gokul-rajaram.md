@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/gokulrajaram1"
 status: published
 last_researched: 2026-03-20
+tldr: "Marathon co-founder and prolific angel ($25K-$1M per check, 300+ investments) focusing on founders with product execution and go-to-market savvy. Former Google AdSense director and exec at Block, Meta, Pinterest, DoorDash; backs developer tools, SaaS, and fintech."
 ---
 
 ## Background

@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/petychung"
 status: published
 last_researched: 2026-03-20
+tldr: "Summit Partners CEO and growth equity veteran with 30-year focus on photonics, semiconductors, and networking companies. 18 portfolio companies went public; massive exits (E-TEK/JDS Uniphase $18B+, Finisar, Acacia to Cisco)."
 ---
 
 ## Background

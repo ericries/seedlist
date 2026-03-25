@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/danaoshiro"
 status: published
 last_researched: 2026-03-24
+tldr: "Part-time Heavybit partner who invests $750K-$5M in pre-seed/seed developer-first startups. Built Heavybit's content and community playbook; leads GTM support for infrastructure and cybersecurity tools with bottom-up adoption."
 ---
 
 ## Background

@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/jerryyang"
 status: published
 last_researched: 2026-03-19
+tldr: "Yahoo! co-founder running AME Cloud Ventures ($500M personal capital) investing $1M-$10M seed/Series B in data infrastructure, deep tech, biotech, and space. Follows 'anti-Yahoo playbook': avoids consumer; backs hard science over services."
 ---
 
 ## Background

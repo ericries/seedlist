@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/lachy-groom-b218895"
 status: published
 last_researched: 2026-03-24
+tldr: "Former Stripe executive turned solo GP backing B2B SaaS, fintech, and AI companies through relentless product-market fit validation. Known for deep operational expertise and ability to identify category-defining companies early."
 ---
 
 ## Background

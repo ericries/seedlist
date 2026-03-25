@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/nigelwmorris"
 status: published
 last_researched: 2026-03-24
+tldr: "QED Investors founder and ex-Capital One COO backing fintech globally with 31 unicorns. Deep operational chops in credit decisioning and unit economics; notable focus on Latin America (29% of personal portfolio) and emerging market financial inclusion."
 ---
 
 ## Background

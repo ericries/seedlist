@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/rajganguly/"
 status: published
 last_researched: 2026-03-16
+tldr: "B Capital co-founder/co-CEO backing Series B+ enterprise and healthtech globally with focus on digitizing large traditional industries. Strong in Asia-Pacific and Latin America; BCG partnership provides enterprise network advantage to portfolio."
 ---
 
 ## Background

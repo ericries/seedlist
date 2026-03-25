@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/ramtin-n-7b2b5149"
 status: published
 last_researched: 2026-03-21
+tldr: "Abstract Ventures founder and seed-stage specialist backing 500+ companies. Bankrupt-to-billionaire origin story; core skill is helping founders raise Series A; portfolio concentrated in AI (27%) and crypto (20%) despite claimed sector-agnosticism; known for founder-first approach and unparalleled Series A graduation rates."
 ---
 
 ## Background

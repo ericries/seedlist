@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/josephine-k-chen"
 status: published
 last_researched: 2026-03-16
+tldr: "Sequoia partner investing $1M-$10M in seed/Series A healthcare, fintech, crypto, and vertical SaaS. Stanford undergrad and MBA; strong conviction in immigrant founders; formerly at Emergence Capital and McKinsey."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/ravi-gupta-9ba27856"
 status: published
 last_researched: 2026-03-17
+tldr: "Sequoia growth partner and ex-Instacart CFO/COO backing consumer marketplaces and fintech at Series B+. Known for operational empathy and showing founders Instacart's tough board decks; recent pivot toward AI; founder preference for technical depth and slope over y-intercept."
 ---
 
 ## Background

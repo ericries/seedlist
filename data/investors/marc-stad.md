@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/marc-stad"
 status: published
 last_researched: 2026-03-24
+tldr: "Dragoneer founder managing $25B+ as a crossover investor in pre-IPO tech at massive scale. Known for creative deal structures and conviction on durable moats; led Anthropic's $30B Series G."
 ---
 
 ## Background

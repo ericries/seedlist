@@ -17,6 +17,7 @@ last_verified_investment:
   round: "Public equity (Q4 2025 13F)"
 status: published
 last_researched: 2026-03-18
+tldr: "Octahedron Capital founder and crossover investor backing global internet-economy platforms via public and private markets. Deep emerging-market expertise with focus on Latin America, Asia, and China; portfolio skews toward e-commerce, fintech, and semiconductors; targets 30% IRR with high hit rate over home runs."
 ---
 
 ## Background

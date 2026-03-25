@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/jerrychenprofile"
 status: published
 last_researched: 2026-03-20
+tldr: "Greylock partner investing $500K-$200M in cloud/data infrastructure and enterprise SaaS. Former VMware VP; focuses on open-source and API-led adoption; portfolio includes Docker, Rockset, and companies with strong strategic acquisition records."
 ---
 
 ## Background

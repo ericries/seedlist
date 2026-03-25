@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kevinsystrom"
 status: published
 last_researched: 2026-03-20
+tldr: "Instagram co-founder and angel investor backing consumer, fintech, and AI startups. Exited to Meta for $1B in 2012 with just 13 employees; founded Artifact AI (later acquired by Yahoo)."
 ---
 
 ## Background

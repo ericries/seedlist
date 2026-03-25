@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/pete-higgins-7688b14"
 status: published
 last_researched: 2026-03-21
+tldr: "Microsoft Excel veteran and Second Avenue Partners co-founder mentoring Seattle-area founders intensively through seed-to-Series A. Weekly CEO meetings and hands-on involvement in hiring/product; backs first-time technical founders over pedigree."
 ---
 
 ## Background

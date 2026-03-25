@@ -16,6 +16,7 @@ last_verified_investment:
   round: "Series B"
 status: published
 last_researched: 2026-03-24
+tldr: "Skype founder and Atomico CEO backing European tech companies to prove Europe can build billion-dollar winners globally. Founder-first investor managing $6B+ across 24 unicorns; recent pivot toward sustainability and climate-tech investments."
 ---
 
 ## Background

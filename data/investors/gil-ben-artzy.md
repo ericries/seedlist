@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/gilbenartzy"
 status: published
 last_researched: 2026-03-15
+tldr: "UpWest founding partner (100+ Israeli startups, $1.4B+ raised) investing $250K-$4M pre-seed/seed in Israeli founders entering US market. Cybersecurity dominance (20% of portfolio); helps founders establish US go-to-market while maintaining Israel R&D."
 ---
 
 ## Background

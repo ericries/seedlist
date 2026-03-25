@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/michaelfey"
 status: published
 last_researched: 2026-03-22
+tldr: "Island CEO and ex-McAfee/Symantec operator backing Israeli cybersecurity startups as angel. Focuses exclusively on enterprise security with 100% Israeli founder concentration; three major exits (Demisto, Axis, Bionic) acquired at $350M+."
 ---
 
 ## Background

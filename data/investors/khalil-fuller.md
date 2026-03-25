@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/khalilfuller/"
 status: published
 last_researched: 2026-03-16
+tldr: "Pear VC partner and Head of Dorm investing pre-seed in generalist and edtech startups. Learn Fresh founder (NBA Math Hoops); Boundless venture studio co-founder; Forbes 30 Under 30 social entrepreneur."
 ---
 
 ## Background

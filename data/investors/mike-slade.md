@@ -24,6 +24,7 @@ social:
   linkedin: "linkedin.com/in/mikeyslade"
 status: published
 last_researched: 2026-03-21
+tldr: "Microsoft and Starwave veteran co-founder of Second Avenue Partners in Seattle. Hands-on mentor to early-stage founders in software, consumer internet, and clean energy; known for supporting founders over decades through multiple rounds."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/nikolaystoronsky"
 status: published
 last_researched: 2026-03-19
+tldr: "Revolut founder and QuantumLight CEO running AI-powered systematic VC using proprietary Aleph algorithm to find 10x companies. Backs growth-stage AI, fintech, and SaaS globally with ~$5M average check; no deal approved without AI recommendation."
 ---
 
 ## Background

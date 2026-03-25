@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/speechu"
 status: published
 last_researched: 2026-03-24
+tldr: "Felicis founding partner backing health/bio (27%), enterprise (23%), and AI/data infrastructure companies (18%) across seed to Series C. Deep technical founder preference; strong track record with regulated industries; exits include Google (Appurify), Salesforce ($390M RelateIQ), and multiple unicorns (Ginkgo, Recursion, Plaid, Wish)."
 ---
 
 ## Background

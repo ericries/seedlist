@@ -1,0 +1,57 @@
+# Seedlist.com
+
+> LLM-researched directory of startup investors. 335+ investor profiles with inferred theses, portfolio data, and fundraising intelligence.
+
+## API Endpoints (JSON, no auth required)
+
+All data is static JSON, updated on every site build. Fetch with any HTTP client.
+
+- [Investor Index](https://seedlist.com/enrichment-index.json): All investors and firms with structured metadata (stage_focus, sector_focus, check_size, location, last_active, thesis_summary)
+- [Investor Graph](https://seedlist.com/investor-graph.json): Co-investment relationships, firm memberships, startup founders, curated collection memberships
+- [Startup-Investor Map](https://seedlist.com/startup-investor-map.json): Which investors backed which startups, with round and year data
+- [Rounds Feed](https://seedlist.com/rounds-feed.json): 500 most recent funding rounds (company, date, amount, lead, round type)
+- [Search Index](https://seedlist.com/search-index.json): Searchable index of all investors, firms, and startups
+- [Cluster Data](https://seedlist.com/cluster-data.json): 40 curated investor collections plus algorithmic clusters
+
+## Schemas
+
+### Investor (enrichment-index.json → investors[])
+- name: string
+- slug: string (URL path: /investors/{slug}.html)
+- firm: string (firm slug)
+- firm_name: string
+- role: string
+- location: string
+- stage_focus: string[] (e.g., ["seed", "series-a"])
+- sector_focus: string[] (e.g., ["fintech", "ai", "consumer"])
+- check_size: string (e.g., "$250K-$2M")
+- last_active: string (YYYY-MM-DD, most recent verified investment date)
+- status: string ("published")
+- thesis_summary: string (inferred thesis from portfolio analysis)
+
+### Funding Round (rounds-feed.json[])
+- company: string
+- company_slug: string
+- date: string (YYYY-MM or YYYY)
+- round: string (e.g., "Series A")
+- amount: string (e.g., "$30M")
+- lead: string (lead investor names)
+- sector: string[]
+
+## Use Cases
+
+1. **Build a fundraising target list**: Filter enrichment-index.json by stage_focus, sector_focus, check_size. Score by sector overlap and recency (last_active).
+2. **Find who invested in comparable companies**: Use startup-investor-map.json to look up investors by startup slug.
+3. **Find warm intro paths**: Use investor-graph.json co_investments and startup_founders to trace connection paths.
+4. **Enrich an investor list**: Match names against enrichment-index.json to add Seedlist metadata.
+5. **Track recent rounds**: Use rounds-feed.json sorted by date descending.
+
+## Profile Pages
+
+Full investor profiles at: https://seedlist.com/investors/{slug}.html
+Full firm profiles at: https://seedlist.com/firms/{slug}.html
+Full startup profiles at: https://seedlist.com/startups/{slug}.html
+
+## Contact
+
+Maintained by Eric Ries. Source: https://github.com/ericries/seedlist

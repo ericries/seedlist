@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/nickshalek"
 status: published
 last_researched: 2026-03-24
+tldr: "Ribbit founding partner and ex-Yale endowment backing fintech and insurtech with conviction on incentive alignment. Specializes in insure-tech at seed through Series B; early Bitcoin believer and long-term thinker on financial system evolution."
 ---
 
 ## Background

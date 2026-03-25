@@ -24,6 +24,7 @@ stage_focus:
 - series-b
 status: published
 type: individual
+tldr: "Benchmark founder and GP investing $1M-$15M in Series A/B enterprise software and open-source infrastructure. Focuses on developer-tools and marketplaces with strong operator network."
 ---
 
 ## Background

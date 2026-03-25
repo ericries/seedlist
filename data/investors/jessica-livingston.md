@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/jessicalivingston1"
 status: published
 last_researched: 2026-03-20
+tldr: "Y Combinator co-founder investing $500K per standard YC deal in pre-seed/seed startups. Known as 'the Social Radar' for exceptional founder evaluation; backed 5000+ startups including Airbnb, Stripe, Dropbox, Coinbase."
 ---
 
 ## Background

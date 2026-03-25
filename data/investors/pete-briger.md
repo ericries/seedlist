@@ -17,6 +17,7 @@ social:
   linkedin: "https://www.linkedin.com/in/peterbriger/"
 status: published
 last_researched: 2026-03-18
+tldr: "Fortress Executive Chairman managing $50B+ as 'financial services garbage collector' in distressed debt and private equity. Buys undervalued consumer/hospitality assets at deep discounts; known for credit cycle arbitrage and discipline."
 ---
 
 ## Background

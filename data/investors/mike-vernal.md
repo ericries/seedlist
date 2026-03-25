@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/vernal"
 status: published
 last_researched: 2026-03-20
+tldr: "Sequoia veteran and Conviction GP backing pre-market-clarity AI companies and technically intense platforms. Led iconic rounds in Notion, Rippling, and Statsig; believes in speed as moat and execution over credentials."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/john-o-farrell-b7252"
 status: published
 last_researched: 2026-03-24
+tldr: "a16z advisory partner who joined in 2010, investing $1M-$100M in enterprise, developer tools, and cloud infrastructure. Former EVP at Opsware and @Home; negotiated Opsware's $1.65B sale to HP and Silver Spring's $90M Series D."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/novogratz/"
 status: published
 last_researched: 2026-03-18
+tldr: "Galaxy Digital founder and crypto believer backing DeFi, blockchain infrastructure, and stablecoins. Large checks ($5M-$50M+) at pre-seed through Series B; thesis centers on crypto's institutional adoption and real-world asset tokenization."
 ---
 
 ## Background

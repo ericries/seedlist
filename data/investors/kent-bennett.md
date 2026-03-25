@@ -25,6 +25,7 @@ stage_focus:
 - series-b
 status: published
 type: individual
+tldr: "Bessemer partner investing $10M-$25M Series A/B in vertical SaaS, B2B marketplaces, and healthcare IT. Built BVP's vertical SaaS practice; strong operational support and scaling expertise."
 ---
 
 ## Background

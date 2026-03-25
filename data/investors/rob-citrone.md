@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/rob-citrone-60a3a8148"
 status: published
 last_researched: 2026-03-21
+tldr: "Discovery Capital founder managing $3.5B as macro hedge fund manager, not VC investor. Expert in emerging markets and currency arbitrage with proven 75%+ annual returns. Rarely invests in private companies; when he does, positions are late-stage and macro-driven (Compass, Liv Up)."
 ---
 
 ## Background

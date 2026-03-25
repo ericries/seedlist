@@ -23,6 +23,7 @@ stage_focus:
 - series-a
 status: published
 type: individual
+tldr: "Heavybit partner investing $500K-$5M in seed/Series A developer-first infrastructure and AI companies. Chef co-founder and chaos engineering pioneer at Amazon; combines operational expertise with community building."
 ---
 
 ## Background

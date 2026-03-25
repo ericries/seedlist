@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/giliraanan"
 status: published
 last_researched: 2026-03-21
+tldr: "Cyberstarts founder and seed-stage cyberecurity GP ($1.4B+ AUM) investing $2M-$10M exclusively in cybersecurity. Validates ideas with Fortune 500 CISOs pre-launch; 92% Israeli portfolio (Unit 8200 alumni); achieved unicorn exit (Wiz to Google for $32B)."
 ---
 
 ## Background

@@ -74,10 +74,13 @@
 
   function formatDate(d) {
     if (!d) return "\u2014";
-    // "2023-03" -> "Mar 2023", "2024" -> "2024"
     var parts = d.split("-");
+    var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    if (parts.length === 3 && parts[2] !== "00") {
+      var m = parseInt(parts[1]) - 1;
+      if (m >= 0 && m < 12) return months[m] + " " + parseInt(parts[2]) + ", " + parts[0];
+    }
     if (parts.length >= 2) {
-      var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
       var m = parseInt(parts[1]) - 1;
       if (m >= 0 && m < 12) return months[m] + " " + parts[0];
     }
@@ -105,7 +108,16 @@
       var detailHtml = detailParts.length ? '<div class="round-detail">' + escHtml(detailParts.join(" \u00b7 ")) + '</div>' : '';
 
       var investorHtml = '';
-      if (r.lead) {
+      if (r.investors && r.investors.length && window._investorNames) {
+        var graph = window._investorGraph || {};
+        var links = r.investors.map(function(slug) {
+          var name = window._investorNames[slug] || slug.replace(/-/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
+          var isFirm = graph.firms && graph.firms[slug];
+          var prefix = isFirm ? '/firms/' : '/investors/';
+          return '<a href="' + prefix + escHtml(slug) + '.html">' + escHtml(name) + '</a>';
+        });
+        investorHtml = '<div class="round-investors">' + links.join(', ') + '</div>';
+      } else if (r.lead) {
         investorHtml = '<div class="round-investors">' + escHtml(r.lead) + '</div>';
       }
 
@@ -130,17 +142,30 @@
     }
   }
 
-  fetch("/rounds-feed.json")
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      allRounds = data;
-      document.getElementById("rounds-loading").style.display = "none";
-      renderBatch();
-      window.addEventListener("scroll", onScroll);
-    })
-    .catch(function() {
-      document.getElementById("rounds-loading").textContent = "Failed to load round data.";
-    });
+  Promise.all([
+    fetch("/rounds-feed.json").then(function(r) { return r.json(); }),
+    fetch("/investor-graph.json").then(function(r) { return r.json(); }).catch(function() { return {}; })
+  ]).then(function(results) {
+    allRounds = results[0];
+    var graph = results[1];
+    window._investorNames = {};
+    window._investorGraph = graph;
+    if (graph.investor_names) {
+      for (var k in graph.investor_names) {
+        if (graph.investor_names.hasOwnProperty(k)) window._investorNames[k] = graph.investor_names[k];
+      }
+    }
+    if (graph.firms) {
+      for (var fk in graph.firms) {
+        if (graph.firms.hasOwnProperty(fk)) window._investorNames[fk] = graph.firms[fk].name;
+      }
+    }
+    document.getElementById("rounds-loading").style.display = "none";
+    renderBatch();
+    window.addEventListener("scroll", onScroll);
+  }).catch(function() {
+    document.getElementById("rounds-loading").textContent = "Failed to load round data.";
+  });
 })();
 </script>
 {% endblock %}

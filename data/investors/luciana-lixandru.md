@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/luciana-lixandru-11042875"
 status: published
 last_researched: 2026-03-16
+tldr: "Sequoia's first European partner backing outlier founders and technically intense platforms across enterprise and deep tech. Led iconic rounds in UiPath, Rippling, and Aspora; excels at spotting generational ambition early."
 ---
 
 ## Background

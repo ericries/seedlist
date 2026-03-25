@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/milesgrimshaw"
 status: published
 last_researched: 2026-03-16
+tldr: "Thrive/Benchmark GP backing platform companies solving hard technical problems before markets are obvious. Known for 'biological' approach to product DNA and investing in small, fast-growing markets; led LangChain, Glide, Cursor rounds."
 ---
 
 ## Background

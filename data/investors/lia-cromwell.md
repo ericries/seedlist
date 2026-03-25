@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/liacromwell"
 status: published
 last_researched: 2026-03-16
+tldr: "UpWest partner backing Israeli founders building for the US market at pre-seed and seed stages. Expert at connecting founders to US customers and overcoming international founder disadvantages."
 ---
 
 ## Background

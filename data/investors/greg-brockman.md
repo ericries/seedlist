@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/thegdb"
 status: published
 last_researched: 2026-03-20
+tldr: "OpenAI President and angel investor ($100K-$5M checks) backing 40+ AI infrastructure, developer tools, and enterprise SaaS startups. Ex-Stripe CTO; 18% unicorn hit rate with portfolio including Hugging Face, Scale AI, and Slack."
 ---
 
 ## Background

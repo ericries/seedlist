@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/noubarafeyan"
 status: published
 last_researched: 2026-03-24
+tldr: "Flagship Pioneering founder/CEO who creates companies from science fiction, not funding external startups. Systematic entrepreneurship in biotech and AI with 25 IPOs and $27B in follow-on capital attracted; believes in impossible problems."
 ---
 
 ## Background

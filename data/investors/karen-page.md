@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/karenappletonpage"
 status: published
 last_researched: 2026-03-16
+tldr: "B Capital GP and board partner investing $25M-$60M in enterprise SaaS, healthtech, fintech, and climate tech. Box founding executive (7th employee) with go-to-market expertise; led enterprise GTM at Apple."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/gigilevy"
 status: published
 last_researched: 2026-03-22
+tldr: "NFX co-founder and GP investing $500K-$5M seed in gaming, marketplaces, and AI from Israel HQ. Former Playtika co-founder and 888 Holdings CEO; 64% of portfolio Israeli-founded; emphasizes founder speed, data obsession, and network-effects thesis."
 ---
 
 ## Background

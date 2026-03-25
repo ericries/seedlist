@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/jose-marin-093121/"
 status: published
 last_researched: 2026-03-18
+tldr: "FJ Labs co-founder and managing partner investing $220K-$1.3M seed/Series A in Latin American marketplaces, fintech, and e-commerce. DeRemate.com founder; manages $260M+ in external capital; built venture builder model."
 ---
 
 ## Background

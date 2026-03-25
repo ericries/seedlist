@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/mikekrieger"
 status: published
 last_researched: 2026-03-20
+tldr: "Instagram co-founder and Anthropic Labs lead backing developer tools and AI-native products with deep product expertise. Angel check sizes $5K-$50K; portfolio includes Figma (50x return), Loom (acquired $975M), and Scale AI."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kestreich/"
 status: published
 last_researched: 2026-03-16
+tldr: "Pear VC partner and MKT1 Capital co-founder investing $100K-$300K pre-seed/seed in B2B SaaS and GTM tools. Former Box Head of Marketing and Intercom Chief of Staff; strong go-to-market and founder marketing expertise."
 ---
 
 ## Background

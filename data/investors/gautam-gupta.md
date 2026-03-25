@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/gautam-gupta-3518b21"
 status: published
 last_researched: 2026-03-22
+tldr: "A* Capital co-founder ($300M+ AUM) investing $100K-$10M seed/Series A in AI-native companies and consumer models from India-to-US corridor. Ex-Uber CFO and Opendoor COO; founder-led fund emphasizing young founders and subscription unit economics."
 ---
 
 ## Background

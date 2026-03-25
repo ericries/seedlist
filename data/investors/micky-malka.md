@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/meyermalka"
 status: published
 last_researched: 2026-03-17
+tldr: "Ribbit founder betting exclusively on fintech at all stages with deep operating experience from building Capital One. Backs both infrastructure (Coinbase, Stripe, Nubank) and emerging markets (India, Latin America)."
 ---
 
 ## Background

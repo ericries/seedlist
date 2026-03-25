@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/alitamaseb"
 status: published
 last_researched: 2026-03-24
+tldr: "Data-driven deep tech GP at DCVC who invests $5M-$25M in seed through Series B companies solving hard engineering problems in healthcare, energy, and mining. Applies AI/ML as acceleration layer to underserved industrial sectors."
 ---
 
 ## Background

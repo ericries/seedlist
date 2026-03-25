@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/fredehrsam"
 status: published
 last_researched: 2026-03-20
+tldr: "Paradigm co-founder and crypto GP investing $1M-$100M+ in DeFi protocols, blockchain infrastructure, and AI infrastructure. Research-driven fund with 80+ crypto portfolio companies managing $13B; also co-founder of Nudge, a neurotechnology startup."
 ---
 
 ## Background

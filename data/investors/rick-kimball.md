@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/rick-kimball-9a49629"
 status: published
 last_researched: 2026-03-19
+tldr: "TCV co-founder and 40-year growth-stage investor backing telecom, networking, and enterprise software. Portfolio shifted from 1990s networking infrastructure to 2010s SaaS; leads growth rounds at $3M-$300M scale; views tech markets as 'winners and losers' game demanding disruptive winds."
 ---
 
 ## Background

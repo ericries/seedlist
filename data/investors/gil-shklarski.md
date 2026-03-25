@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/shklarski"
 status: published
 last_researched: 2026-03-24
+tldr: "Operator Partners co-founder investing $250K-$500K pre-seed/seed with zero outside LPs. Ex-Flatiron Health CTO; focuses on healthtech, cybersecurity, and developer tools with 55% Israeli-founded portfolio and minimal board involvement."
 ---
 
 ## Background
