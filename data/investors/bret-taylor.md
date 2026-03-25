@@ -1,23 +1,33 @@
 ---
-name: "Bret Taylor"
-slug: bret-taylor
-tldr: "Co-Founder & CEO of Sierra AI ($10B valuation, $150M ARR), Chairman of OpenAI. Creator of Google Maps (2005), founder of FriendFeed (Facebook 2009, $50M), Quip (Salesforce 2016, $750M). Led Twitter board through Musk acquisition. Operator-investor focused on 'AI agents as interface.' Believes every company needs an AI agent; customer focus over technology."
-type: individual
+check_size: ''
 firm: sierra-ai
-role: "Co-Founder & CEO"
-location: "San Francisco, CA"
-stage_focus: [seed]
-sector_focus: [enterprise-software, developer-tools, AI, open-source, climate-tech]
-check_size: ""
-last_verified_investment:
-  date: 2025-08-28
-  company: "Terraton"
-  round: "Seed"
-social:
-  twitter: "@btaylor"
-  linkedin: "linkedin.com/in/brettaylor"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Terraton
+  date: 2025-08-28
+  round: Seed
+location: San Francisco, CA
+name: Bret Taylor
+role: Co-Founder & CEO
+sector_focus:
+- enterprise-software
+- developer-tools
+- ai
+- open-source
+- climate-tech
+slug: bret-taylor
+social:
+  linkedin: linkedin.com/in/brettaylor
+  twitter: '@btaylor'
+stage_focus:
+- seed
+status: published
+tldr: Co-Founder & CEO of Sierra AI ($10B valuation, $150M ARR), Chairman of OpenAI.
+  Creator of Google Maps (2005), founder of FriendFeed (Facebook 2009, $50M), Quip
+  (Salesforce 2016, $750M). Led Twitter board through Musk acquisition. Operator-investor
+  focused on 'AI agents as interface.' Believes every company needs an AI agent; customer
+  focus over technology.
+type: individual
 ---
 
 ## Background

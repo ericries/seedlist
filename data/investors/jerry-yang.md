@@ -1,22 +1,34 @@
 ---
-name: "Jerry Yang"
-slug: jerry-yang
-type: individual
+check_size: $1M-$10M
 firm: ame-cloud-ventures
-role: "Founding Partner"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [data-infrastructure, AI, deep-tech, biotech, space, robotics]
-check_size: "$1M-$10M"
-last_verified_investment:
-  date: 2025
-  company: "Unknown"
-  round: "Unknown"
-social:
-  linkedin: "linkedin.com/in/jerryyang"
-status: published
 last_researched: 2026-03-19
-tldr: "Yahoo! co-founder running AME Cloud Ventures ($500M personal capital) investing $1M-$10M seed/Series B in data infrastructure, deep tech, biotech, and space. Follows 'anti-Yahoo playbook': avoids consumer; backs hard science over services."
+last_verified_investment:
+  company: Unknown
+  date: 2025
+  round: Unknown
+location: Palo Alto, CA
+name: Jerry Yang
+role: Founding Partner
+sector_focus:
+- data-infrastructure
+- ai
+- deep-tech
+- biotech
+- space
+- robotics
+slug: jerry-yang
+social:
+  linkedin: linkedin.com/in/jerryyang
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Yahoo! co-founder running AME Cloud Ventures ($500M personal capital) investing
+  $1M-$10M seed/Series B in data infrastructure, deep tech, biotech, and space. Follows
+  ''anti-Yahoo playbook'': avoids consumer; backs hard science over services.'
+type: individual
 ---
 
 ## Background

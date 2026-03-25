@@ -1,24 +1,29 @@
 ---
-name: "Nexthop AI"
-slug: nexthop-ai
-type: startup
-website: "https://nexthop.ai"
-location: "Santa Clara, California"
-founded: 2023
-status_company: active
-sector: [AI, networking, infrastructure, data-centers, hardware]
-stage_latest: "Series B"
-total_raised: "$610M"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: series-b
-    year: 2026
+- round: series-b
+  slug: andreessen-horowitz
+  year: 2026
+founded: 2023
 founders:
-  - name: "Anshul Sadana"
-    role: "Founder & CEO"
-status: published
+- name: Anshul Sadana
+  role: Founder & CEO
+investors: []
 last_researched: 2026-03-24
+location: Santa Clara, California
+name: Nexthop AI
+sector:
+- ai
+- networking
+- infrastructure
+- data-centers
+- hardware
+slug: nexthop-ai
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $610M
+type: startup
+website: https://nexthop.ai
 ---
 
 ## About

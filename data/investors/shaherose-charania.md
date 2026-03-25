@@ -1,23 +1,36 @@
 ---
-name: "Shaherose Charania"
-slug: shaherose-charania
-tldr: "Partner at Unshackled Ventures backing immigrant founders at inception stage with $300K-$500K checks plus visa sponsorship. Operator-turned-investor with 40+ angel investments ($10K-$50K range) spanning fintech, healthtech, and marketplaces. Founded Women 2.0 and first Lean Startup Incubator (Founder Labs); distinctive for identifying exceptional founders from unexpected backgrounds and creating investor community SPVs to include diverse first-time investors alongside checks."
-type: individual
+check_size: $10K-$50K (angel); $300K-$500K (Unshackled Ventures)
 firm: unshackled-ventures
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [fintech, digital health, consumer health, marketplaces, enterprise, HR/talent]
-check_size: "$10K-$50K (angel); $300K-$500K (Unshackled Ventures)"
-last_verified_investment:
-  date: 2021
-  company: "Zum"
-  round: "Angel"
-social:
-  twitter: "@shaherose"
-  linkedin: "linkedin.com/in/shaherose"
-status: published
 last_researched: 2026-03-13
+last_verified_investment:
+  company: Zum
+  date: 2021
+  round: Angel
+location: San Francisco, CA
+name: Shaherose Charania
+role: Partner
+sector_focus:
+- fintech
+- digital health
+- consumer health
+- marketplaces
+- enterprise
+- hr/talent
+slug: shaherose-charania
+social:
+  linkedin: linkedin.com/in/shaherose
+  twitter: '@shaherose'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Partner at Unshackled Ventures backing immigrant founders at inception stage
+  with $300K-$500K checks plus visa sponsorship. Operator-turned-investor with 40+
+  angel investments ($10K-$50K range) spanning fintech, healthtech, and marketplaces.
+  Founded Women 2.0 and first Lean Startup Incubator (Founder Labs); distinctive for
+  identifying exceptional founders from unexpected backgrounds and creating investor
+  community SPVs to include diverse first-time investors alongside checks.
+type: individual
 ---
 
 ## Background

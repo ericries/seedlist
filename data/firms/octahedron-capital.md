@@ -1,22 +1,31 @@
 ---
-name: "Octahedron Capital"
-slug: octahedron-capital
-type: firm
-website: "https://octahedroncapital.com"
-location: "Burlingame, CA"
 founded: 2020
-fund_size: "$129M Onshore Fund; $36M Long Only Fund (per SEC Form D filings as of January 2026)"
-stage_focus: [late-stage, growth]
-sector_focus: [internet, fintech, e-commerce, enterprise-software, AI, payments]
-team:
-  - slug: ram-parameswaran
-    role: "Founder & Managing Partner"
-    name: "Ram Parameswaran"
-  - slug: albert-chiang
-    role: "Partner"
-    name: "Albert Chiang"
-status: published
+fund_size: $129M Onshore Fund; $36M Long Only Fund (per SEC Form D filings as of January
+  2026)
 last_researched: 2026-03-23
+location: Burlingame, CA
+name: Octahedron Capital
+sector_focus:
+- internet
+- fintech
+- e-commerce
+- enterprise-software
+- ai
+- payments
+slug: octahedron-capital
+stage_focus:
+- late-stage
+- growth
+status: published
+team:
+- name: Ram Parameswaran
+  role: Founder & Managing Partner
+  slug: ram-parameswaran
+- name: Albert Chiang
+  role: Partner
+  slug: albert-chiang
+type: firm
+website: https://octahedroncapital.com
 ---
 
 ## About

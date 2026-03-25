@@ -1,31 +1,35 @@
 ---
-name: "Jeff Horing"
-slug: jeff-horing
-tldr: "Co-Founder & Managing Director of Insight Partners ($200B+ AUM). Growth equity investor in enterprise software and SaaS at $10M-$350M scale. Portfolio emphasizes security, data analytics, infrastructure with strategy of organic growth plus selective add-on acquisitions. Recent Wiz investment reflects focus on high-growth cybersecurity category."
-type: individual
+check_size: $10M-$350M
 firm: insight-partners
-role: "Co-Founder & Managing Director"
-location: "New York, NY"
-stage_focus:
-  - growth
-  - late-stage
-  - buyout
-sector_focus:
-  - enterprise-software
-  - SaaS
-  - data-analytics
-  - cybersecurity
-  - infrastructure
-check_size: "$10M-$350M"
-last_verified_investment:
-  date: 2025
-  company: "Wiz"
-  round: "Growth"
-social:
-  twitter: "@jhoring"
-  linkedin: "linkedin.com/in/jeffhoring2009"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Wiz
+  date: 2025
+  round: Growth
+location: New York, NY
+name: Jeff Horing
+role: Co-Founder & Managing Director
+sector_focus:
+- enterprise-software
+- saas
+- data-analytics
+- cybersecurity
+- infrastructure
+slug: jeff-horing
+social:
+  linkedin: linkedin.com/in/jeffhoring2009
+  twitter: '@jhoring'
+stage_focus:
+- growth
+- late-stage
+- buyout
+status: published
+tldr: Co-Founder & Managing Director of Insight Partners ($200B+ AUM). Growth equity
+  investor in enterprise software and SaaS at $10M-$350M scale. Portfolio emphasizes
+  security, data analytics, infrastructure with strategy of organic growth plus selective
+  add-on acquisitions. Recent Wiz investment reflects focus on high-growth cybersecurity
+  category.
+type: individual
 ---
 
 ## Background

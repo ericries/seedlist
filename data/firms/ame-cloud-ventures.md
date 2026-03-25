@@ -1,21 +1,31 @@
 ---
-name: "AME Cloud Ventures"
-slug: ame-cloud-ventures
-type: firm
-website: "https://www.amecloudventures.com"
-location: "Palo Alto, CA"
+check_size: $1M-$10M
 founded: 2012
-fund_size: "Personal capital (undisclosed; reported ~$500M)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [data-infrastructure, AI, deep-tech, biotech, space, robotics]
-check_size: "$1M-$10M"
-team:
-  - slug: jerry-yang
-    role: Founding Partner
-  - slug: jeff-chung-ame
-    role: Managing Director
-status: published
+fund_size: Personal capital (undisclosed; reported ~$500M)
 last_researched: 2026-03-25
+location: Palo Alto, CA
+name: AME Cloud Ventures
+sector_focus:
+- data-infrastructure
+- ai
+- deep-tech
+- biotech
+- space
+- robotics
+slug: ame-cloud-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- role: Founding Partner
+  slug: jerry-yang
+- role: Managing Director
+  slug: jeff-chung-ame
+type: firm
+website: https://www.amecloudventures.com
 ---
 
 ## About

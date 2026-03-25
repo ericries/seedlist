@@ -1,23 +1,32 @@
 ---
-name: "Gautam Gupta"
-slug: gautam-gupta
-type: individual
+check_size: $100K-$10M
 firm: a-star-capital
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [AI, fintech, consumer, marketplaces, developer-tools]
-check_size: "$100K-$10M"
-last_verified_investment:
-  date: 2025-03
-  company: "Multiply Mortgage"
-  round: "Series A"
-social:
-  twitter: "@gRamblings"
-  linkedin: "linkedin.com/in/gautam-gupta-3518b21"
-status: published
 last_researched: 2026-03-22
-tldr: "A* Capital co-founder ($300M+ AUM) investing $100K-$10M seed/Series A in AI-native companies and consumer models from India-to-US corridor. Ex-Uber CFO and Opendoor COO; founder-led fund emphasizing young founders and subscription unit economics."
+last_verified_investment:
+  company: Multiply Mortgage
+  date: 2025-03
+  round: Series A
+location: San Francisco, CA
+name: Gautam Gupta
+role: Co-Founder & General Partner
+sector_focus:
+- ai
+- fintech
+- consumer
+- marketplaces
+- developer-tools
+slug: gautam-gupta
+social:
+  linkedin: linkedin.com/in/gautam-gupta-3518b21
+  twitter: '@gRamblings'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: A* Capital co-founder ($300M+ AUM) investing $100K-$10M seed/Series A in AI-native
+  companies and consumer models from India-to-US corridor. Ex-Uber CFO and Opendoor
+  COO; founder-led fund emphasizing young founders and subscription unit economics.
+type: individual
 ---
 
 ## Background

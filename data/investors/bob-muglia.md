@@ -1,22 +1,28 @@
 ---
-name: "Bob Muglia"
-slug: bob-muglia
-type: individual
-firm:
-role: "Angel Investor / Board Director"
-location: "Seattle, WA"
-stage_focus: [seed, series-a]
-sector_focus: [data-infrastructure, AI, developer-tools, enterprise]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2025-02-26
-  company: "Genesis Computing"
-  round: "Seed"
-social:
-  twitter: "@Bob_Muglia"
-  linkedin: "linkedin.com/in/bob-muglia-714ba592"
-status: published
+check_size: $5K-$50K
+firm: null
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Genesis Computing
+  date: 2025-02-26
+  round: Seed
+location: Seattle, WA
+name: Bob Muglia
+role: Angel Investor / Board Director
+sector_focus:
+- data-infrastructure
+- ai
+- developer-tools
+- enterprise
+slug: bob-muglia
+social:
+  linkedin: linkedin.com/in/bob-muglia-714ba592
+  twitter: '@Bob_Muglia'
+stage_focus:
+- seed
+- series-a
+status: published
+type: individual
 ---
 
 ## Background

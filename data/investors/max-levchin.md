@@ -1,23 +1,35 @@
 ---
-name: "Max Levchin"
-slug: max-levchin
-tldr: "PayPal co-founder and founder of SciFi VC; fintech expert (36% of portfolio) with pattern of investing in analog-to-digital transformation across regulated industries. Founder-engineer approach to diligence; strong co-investor with PayPal Mafia. Notable investments: Affirm (founder), Mixpanel, Brex, Stripe; $100K-$1M check size."
-type: individual
+check_size: $100K-$1M
 firm: scifi-vc
-role: "Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [fintech, AI, payments, security, biotech, marketplaces]
-check_size: "$100K-$1M"
-last_verified_investment:
-  date: 2025-01-03
-  company: "Bland AI"
-  round: "Seed"
-social:
-  twitter: "@mlevchin"
-  linkedin: "linkedin.com/in/maxlevchin"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Bland AI
+  date: 2025-01-03
+  round: Seed
+location: San Francisco, CA
+name: Max Levchin
+role: Founder & General Partner
+sector_focus:
+- fintech
+- ai
+- payments
+- security
+- biotech
+- marketplaces
+slug: max-levchin
+social:
+  linkedin: linkedin.com/in/maxlevchin
+  twitter: '@mlevchin'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'PayPal co-founder and founder of SciFi VC; fintech expert (36% of portfolio)
+  with pattern of investing in analog-to-digital transformation across regulated industries.
+  Founder-engineer approach to diligence; strong co-investor with PayPal Mafia. Notable
+  investments: Affirm (founder), Mixpanel, Brex, Stripe; $100K-$1M check size.'
+type: individual
 ---
 
 ## Background

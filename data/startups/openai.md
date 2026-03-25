@@ -103,7 +103,7 @@ location: San Francisco, CA
 name: OpenAI
 sector:
 - artificial-intelligence
-- AGI
+- agi
 - machine-learning
 slug: openai
 stage_latest: Series F

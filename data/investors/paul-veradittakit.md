@@ -1,24 +1,37 @@
 ---
-name: "Paul Veradittakit"
-slug: paul-veradittakit
-tldr: "Pantera Capital Managing Partner (2014+); 250+ investments, 25 unicorns. 'Crypto as a Service' thesis (hide blockchain, solve legacy problems). 27% blockchain infrastructure, 20% DeFi, 20% exchanges. Mission-driven founders surviving bear markets. Board: Alchemy, VALR, Blockfolio. $100K-$8M checks."
-type: individual
+check_size: $100K-$8M
 firm: pantera-capital
-role: "Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, token]
-sector_focus: [blockchain-infrastructure, defi, crypto-exchanges, stablecoins, gaming, AI]
-check_size: "$100K-$8M"
-last_verified_investment:
-  date: 2026-02
-  company: "Novig"
-  round: "Series B"
-social:
-  twitter: "@veradittakit"
-  linkedin: "linkedin.com/in/veradittakit"
-  substack: "veradiverdict.com"
-status: published
 last_researched: 2026-03-21
+last_verified_investment:
+  company: Novig
+  date: 2026-02
+  round: Series B
+location: San Francisco, CA
+name: Paul Veradittakit
+role: Managing Partner
+sector_focus:
+- blockchain-infrastructure
+- defi
+- crypto-exchanges
+- stablecoins
+- gaming
+- ai
+slug: paul-veradittakit
+social:
+  linkedin: linkedin.com/in/veradittakit
+  substack: veradiverdict.com
+  twitter: '@veradittakit'
+stage_focus:
+- seed
+- series-a
+- series-b
+- token
+status: published
+tldr: 'Pantera Capital Managing Partner (2014+); 250+ investments, 25 unicorns. ''Crypto
+  as a Service'' thesis (hide blockchain, solve legacy problems). 27% blockchain infrastructure,
+  20% DeFi, 20% exchanges. Mission-driven founders surviving bear markets. Board:
+  Alchemy, VALR, Blockfolio. $100K-$8M checks.'
+type: individual
 ---
 
 ## Background

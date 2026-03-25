@@ -1,23 +1,32 @@
 ---
-name: "Michael Shaulov"
-slug: michael-shaulov
-type: individual
+check_size: $100K-$5M
 firm: cyberstarts
-role: "Member (Angel Investor)"
-location: "New York, NY / Tel Aviv, Israel"
-stage_focus: [seed, pre-seed, series-a]
-sector_focus: [cybersecurity, blockchain-infrastructure, fintech, AI]
-check_size: "$100K-$5M"
-last_verified_investment:
-  date: 2024-10-23
-  company: "Borderless.xyz"
-  round: "Pre-Seed"
-social:
-  twitter: "@michael_shaulov"
-  linkedin: "linkedin.com/in/michaelsh"
-status: published
 last_researched: 2026-03-22
-tldr: "Fireblocks CEO and angel backing Israeli cybersecurity and blockchain startups. Deep expertise in digital asset infrastructure; portfolio includes multiple successful exits to Microsoft, Palo Alto, and other acquirers."
+last_verified_investment:
+  company: Borderless.xyz
+  date: 2024-10-23
+  round: Pre-Seed
+location: New York, NY / Tel Aviv, Israel
+name: Michael Shaulov
+role: Member (Angel Investor)
+sector_focus:
+- cybersecurity
+- blockchain-infrastructure
+- fintech
+- ai
+slug: michael-shaulov
+social:
+  linkedin: linkedin.com/in/michaelsh
+  twitter: '@michael_shaulov'
+stage_focus:
+- seed
+- pre-seed
+- series-a
+status: published
+tldr: Fireblocks CEO and angel backing Israeli cybersecurity and blockchain startups.
+  Deep expertise in digital asset infrastructure; portfolio includes multiple successful
+  exits to Microsoft, Palo Alto, and other acquirers.
+type: individual
 ---
 
 ## Background

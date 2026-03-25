@@ -1,23 +1,35 @@
 ---
-name: "Brett Berson"
-slug: brett-berson
-type: individual
+check_size: $750K-$4M
 firm: first-round-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed]
-sector_focus: [enterprise, SaaS, AI, fintech, health, developer-tools]
-check_size: "$750K-$4M"
-last_verified_investment:
-  date: 2025-04-30
-  company: "Persona"
-  round: "Series D"
-social:
-  twitter: "@brettberson"
-  linkedin: "linkedin.com/in/brett-berson-9986094"
-status: published
 last_researched: 2026-03-23
-tldr: "Brett Berson is a Partner at First Round Capital since 2016, leading the firm's Platform team (The Review publication, Angel Track, In Depth podcast). His 3 verified investments—Clay, Stedi, Persona—are enterprise infrastructure companies. He articulates a 'slow bake' vs. 'fast bake' framework for founders, showing patience with companies taking years to reach product-market fit. Grew up at First Round since 2008, progressing from intern to partner."
+last_verified_investment:
+  company: Persona
+  date: 2025-04-30
+  round: Series D
+location: San Francisco, CA
+name: Brett Berson
+role: Partner
+sector_focus:
+- enterprise
+- saas
+- ai
+- fintech
+- health
+- developer-tools
+slug: brett-berson
+social:
+  linkedin: linkedin.com/in/brett-berson-9986094
+  twitter: '@brettberson'
+stage_focus:
+- seed
+status: published
+tldr: Brett Berson is a Partner at First Round Capital since 2016, leading the firm's
+  Platform team (The Review publication, Angel Track, In Depth podcast). His 3 verified
+  investments—Clay, Stedi, Persona—are enterprise infrastructure companies. He articulates
+  a 'slow bake' vs. 'fast bake' framework for founders, showing patience with companies
+  taking years to reach product-market fit. Grew up at First Round since 2008, progressing
+  from intern to partner.
+type: individual
 ---
 
 ## Background

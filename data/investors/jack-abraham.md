@@ -1,23 +1,37 @@
 ---
-name: "Jack Abraham"
-slug: jack-abraham
-tldr: "Founder of Atomic venture studio ($750M+ AUM across 4 funds) who builds companies from scratch rather than investing. Sold Milo.com to eBay for $75M at 24. Portfolio 22% healthcare (Hims & Hers NYSE-listed), 22% AI/software, 17% real estate. Co-founders every company with recruited CEOs; headquartered in Miami since 2020. Recent vintage skews AI; mixed exits (Hims success vs. OpenStore 95% down round)."
-type: individual
+check_size: $500K-$5M (via Atomic studio model)
 firm: atomic
-role: "Founder & Managing Partner"
-location: "Miami, FL"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [healthcare, real-estate, AI, fintech, e-commerce, energy, consumer]
-check_size: "$500K-$5M (via Atomic studio model)"
-last_verified_investment:
-  date: 2025-06-12
-  company: "Arago Computing"
-  round: "Investment"
-social:
-  twitter: "@jackabraham"
-  linkedin: "linkedin.com/in/jackabraham"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Arago Computing
+  date: 2025-06-12
+  round: Investment
+location: Miami, FL
+name: Jack Abraham
+role: Founder & Managing Partner
+sector_focus:
+- healthcare
+- real-estate
+- ai
+- fintech
+- e-commerce
+- energy
+- consumer
+slug: jack-abraham
+social:
+  linkedin: linkedin.com/in/jackabraham
+  twitter: '@jackabraham'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Founder of Atomic venture studio ($750M+ AUM across 4 funds) who builds companies
+  from scratch rather than investing. Sold Milo.com to eBay for $75M at 24. Portfolio
+  22% healthcare (Hims & Hers NYSE-listed), 22% AI/software, 17% real estate. Co-founders
+  every company with recruited CEOs; headquartered in Miami since 2020. Recent vintage
+  skews AI; mixed exits (Hims success vs. OpenStore 95% down round).
+type: individual
 ---
 
 ## Background

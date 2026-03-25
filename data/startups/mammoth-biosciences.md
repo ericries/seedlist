@@ -118,7 +118,7 @@ location: Brisbane, CA
 name: Mammoth Biosciences
 sector:
 - biotech
-- CRISPR
+- crispr
 - gene-editing
 - diagnostics
 - therapeutics

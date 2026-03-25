@@ -1,23 +1,37 @@
 ---
-name: "Sonya Huang"
-slug: sonya-huang
-tldr: "Partner on Sequoia's growth team since 2018, focuses on AI/generative AI and enterprise software with $25M-$200M check sizes. Co-hosts 'Training Data' podcast; argues vertical AI applications (not infrastructure) will capture disproportionate value. Portfolio is 36% enterprise AI applications (Gong, Glean, Harvey, LangChain). Avoids the 'OpenAI strike zone' (applications that only exist due to model deficiencies). Prefers technical founders with ML research or deep vertical expertise."
-type: individual
+check_size: $25M-$200M
 firm: sequoia-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [series-a, series-b, series-c, growth]
-sector_focus: [AI, generative-AI, enterprise-software, data-infrastructure, fintech]
-check_size: "$25M-$200M"
-last_verified_investment:
-  date: 2026-01-27
-  company: "Glean"
-  round: "Series D"
-social:
-  twitter: "@sonyatweetybird"
-  linkedin: "linkedin.com/in/sonyaruihuang"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Glean
+  date: 2026-01-27
+  round: Series D
+location: San Francisco, CA
+name: Sonya Huang
+role: Partner
+sector_focus:
+- ai
+- generative-ai
+- enterprise-software
+- data-infrastructure
+- fintech
+slug: sonya-huang
+social:
+  linkedin: linkedin.com/in/sonyaruihuang
+  twitter: '@sonyatweetybird'
+stage_focus:
+- series-a
+- series-b
+- series-c
+- growth
+status: published
+tldr: Partner on Sequoia's growth team since 2018, focuses on AI/generative AI and
+  enterprise software with $25M-$200M check sizes. Co-hosts 'Training Data' podcast;
+  argues vertical AI applications (not infrastructure) will capture disproportionate
+  value. Portfolio is 36% enterprise AI applications (Gong, Glean, Harvey, LangChain).
+  Avoids the 'OpenAI strike zone' (applications that only exist due to model deficiencies).
+  Prefers technical founders with ML research or deep vertical expertise.
+type: individual
 ---
 
 ## Background

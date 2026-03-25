@@ -1,31 +1,35 @@
 ---
-name: "Naval Ravikant"
-slug: naval-ravikant
-tldr: "AngelList co-founder; 200+ investments with 37 exits and 16 unicorns. Pre-seed/seed investor ($50K-$5M). Emphasizes great team + huge market + two of three: difficult tech, proprietary distribution, direct monetization. Early backer: Twitter, Uber, Stack Overflow, Yammer. Founder/operator mindset; 'contrarian, patient, informed optimism' thesis."
-type: individual
+check_size: $50K-$5M
 firm: angellist
-role: "Co-Founder & Chairman"
-location: "San Francisco, CA"
-stage_focus:
-  - pre-seed
-  - seed
-sector_focus:
-  - developer-tools
-  - marketplaces
-  - consumer
-  - fintech
-  - crypto
-  - AI
-check_size: "$50K-$5M"
-last_verified_investment:
-  date: 2026-02-25
-  company: "Quill"
-  round: "Seed"
-social:
-  twitter: "@naval"
-  linkedin: "linkedin.com/in/navalr"
-status: published
 last_researched: 2026-03-23
+last_verified_investment:
+  company: Quill
+  date: 2026-02-25
+  round: Seed
+location: San Francisco, CA
+name: Naval Ravikant
+role: Co-Founder & Chairman
+sector_focus:
+- developer-tools
+- marketplaces
+- consumer
+- fintech
+- crypto
+- ai
+slug: naval-ravikant
+social:
+  linkedin: linkedin.com/in/navalr
+  twitter: '@naval'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'AngelList co-founder; 200+ investments with 37 exits and 16 unicorns. Pre-seed/seed
+  investor ($50K-$5M). Emphasizes great team + huge market + two of three: difficult
+  tech, proprietary distribution, direct monetization. Early backer: Twitter, Uber,
+  Stack Overflow, Yammer. Founder/operator mindset; ''contrarian, patient, informed
+  optimism'' thesis.'
+type: individual
 ---
 
 ## Background

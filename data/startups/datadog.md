@@ -32,7 +32,7 @@ sector:
 - cloud-monitoring
 - observability
 - developer-tools
-- SaaS
+- saas
 slug: datadog
 stage_latest: IPO
 status: published

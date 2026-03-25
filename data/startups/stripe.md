@@ -63,6 +63,9 @@ firms:
 - round: Growth
   slug: bond
   year: 2014
+- round: ~2011
+  slug: preston-werner-ventures
+  year: 2011
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -145,6 +148,9 @@ investors:
 - round: Early
   slug: vinod-khosla
   year: 2012
+- round: ~2011
+  slug: tom-preston-werner
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

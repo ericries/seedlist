@@ -1,22 +1,32 @@
 ---
-name: "Yevgeny Dibrov"
-slug: yevgeny-dibrov
-tldr: "Co-founder & CEO of Armis ($9.1B valuation), Israeli cybersecurity company. Ukrainian-born, immigrated Israel age 3-4. Technion BS electrical engineering + computer science. Israeli Unit 81 intelligence corps (2007-2010). VP Business Development at Adallom (age 25) → Microsoft acquisition ($320M, 2015). Angel investor ($5K-$50K) in cybersecurity, enterprise infrastructure, AI, developer tools. Recent investment in Spirit. Palo Alto based."
-type: individual
+check_size: $5K-$50K
 firm: armis
-role: "Co-Founder & CEO"
-location: "Palo Alto, CA"
-stage_focus: [seed]
-sector_focus: [cybersecurity, enterprise-infrastructure, AI, developer-tools]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2026-01
-  company: "Spirit"
-  round: "Seed"
-social:
-  linkedin: "linkedin.com/in/yevgenydibrov"
-status: published
 last_researched: 2026-03-22
+last_verified_investment:
+  company: Spirit
+  date: 2026-01
+  round: Seed
+location: Palo Alto, CA
+name: Yevgeny Dibrov
+role: Co-Founder & CEO
+sector_focus:
+- cybersecurity
+- enterprise-infrastructure
+- ai
+- developer-tools
+slug: yevgeny-dibrov
+social:
+  linkedin: linkedin.com/in/yevgenydibrov
+stage_focus:
+- seed
+status: published
+tldr: Co-founder & CEO of Armis ($9.1B valuation), Israeli cybersecurity company.
+  Ukrainian-born, immigrated Israel age 3-4. Technion BS electrical engineering +
+  computer science. Israeli Unit 81 intelligence corps (2007-2010). VP Business Development
+  at Adallom (age 25) → Microsoft acquisition ($320M, 2015). Angel investor ($5K-$50K)
+  in cybersecurity, enterprise infrastructure, AI, developer tools. Recent investment
+  in Spirit. Palo Alto based.
+type: individual
 ---
 
 ## Background

@@ -98,7 +98,7 @@ name: Placer.ai
 sector:
 - location-analytics
 - data
-- AI
+- ai
 - real-estate-tech
 slug: placer-ai
 stage_latest: Series D

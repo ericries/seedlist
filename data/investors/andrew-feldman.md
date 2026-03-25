@@ -1,23 +1,30 @@
 ---
-name: "Andrew Feldman"
-slug: andrew-feldman
-type: individual
+check_size: ''
 firm: cerebras-systems
-role: "CEO & Co-Founder"
-location: "Sunnyvale, CA"
-stage_focus: []
-sector_focus: [AI, semiconductors, infrastructure]
-check_size: ""
-last_verified_investment:
-  date:
-  company: ""
-  round: ""
-social:
-  twitter: "@andrewdfeldman"
-  linkedin: "linkedin.com/in/andrewdfeldman"
-status: published
 last_researched: 2026-03-17
-tldr: "Andrew Feldman is co-founder and CEO of Cerebras Systems, a $23B+ AI hardware startup pursuing an IPO in 2026. He is not meaningfully active as a startup investor; his value to founders lies in operator and domain expertise in AI/semiconductor infrastructure rather than capital allocation. Named to TIME's 100 Most Influential People in AI in 2024."
+last_verified_investment:
+  company: ''
+  date: null
+  round: ''
+location: Sunnyvale, CA
+name: Andrew Feldman
+role: CEO & Co-Founder
+sector_focus:
+- ai
+- semiconductors
+- infrastructure
+slug: andrew-feldman
+social:
+  linkedin: linkedin.com/in/andrewdfeldman
+  twitter: '@andrewdfeldman'
+stage_focus: []
+status: published
+tldr: Andrew Feldman is co-founder and CEO of Cerebras Systems, a $23B+ AI hardware
+  startup pursuing an IPO in 2026. He is not meaningfully active as a startup investor;
+  his value to founders lies in operator and domain expertise in AI/semiconductor
+  infrastructure rather than capital allocation. Named to TIME's 100 Most Influential
+  People in AI in 2024.
+type: individual
 ---
 
 ## Background

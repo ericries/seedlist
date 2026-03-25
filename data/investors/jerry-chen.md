@@ -1,23 +1,33 @@
 ---
-name: "Jerry Chen"
-slug: jerry-chen
-type: individual
+check_size: $500K-$200M
 firm: greylock
-role: "Partner"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [enterprise-saas, cloud-infrastructure, AI, open-source, data-infrastructure]
-check_size: "$500K-$200M"
-last_verified_investment:
-  date: 2023-05
-  company: "LlamaIndex"
-  round: "Seed"
-social:
-  twitter: "@jerrychen"
-  linkedin: "linkedin.com/in/jerrychenprofile"
-status: published
 last_researched: 2026-03-20
-tldr: "Greylock partner investing $500K-$200M in cloud/data infrastructure and enterprise SaaS. Former VMware VP; focuses on open-source and API-led adoption; portfolio includes Docker, Rockset, and companies with strong strategic acquisition records."
+last_verified_investment:
+  company: LlamaIndex
+  date: 2023-05
+  round: Seed
+location: Menlo Park, CA
+name: Jerry Chen
+role: Partner
+sector_focus:
+- enterprise-saas
+- cloud-infrastructure
+- ai
+- open-source
+- data-infrastructure
+slug: jerry-chen
+social:
+  linkedin: linkedin.com/in/jerrychenprofile
+  twitter: '@jerrychen'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Greylock partner investing $500K-$200M in cloud/data infrastructure and enterprise
+  SaaS. Former VMware VP; focuses on open-source and API-led adoption; portfolio includes
+  Docker, Rockset, and companies with strong strategic acquisition records.
+type: individual
 ---
 
 ## Background

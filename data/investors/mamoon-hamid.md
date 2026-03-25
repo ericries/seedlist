@@ -1,23 +1,37 @@
 ---
-name: "Mamoon Hamid"
-slug: mamoon-hamid
-tldr: "Partner at Kleiner Perkins who transformed the firm's trajectory; leading investor in Figma, Rippling, and Slack. Portfolio is 28% enterprise SaaS, 25% AI/ML, centered on workplace productivity tools. Known for finding blindspots in founders and for rapid conviction—led Figma Series B and Rippling's largest early-stage round at the time."
-type: individual
+check_size: $1M-$100M
 firm: kleiner-perkins
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, SaaS, AI, consumer, healthcare, fintech]
-check_size: "$1M-$100M"
-last_verified_investment:
-  date: 2025
-  company: "Figma"
-  round: "IPO"
-social:
-  twitter: "@mamaborsa"
-  linkedin: "linkedin.com/in/mamoonha"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Figma
+  date: 2025
+  round: IPO
+location: San Francisco, CA
+name: Mamoon Hamid
+role: Partner
+sector_focus:
+- enterprise-software
+- saas
+- ai
+- consumer
+- healthcare
+- fintech
+slug: mamoon-hamid
+social:
+  linkedin: linkedin.com/in/mamoonha
+  twitter: '@mamaborsa'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Partner at Kleiner Perkins who transformed the firm's trajectory; leading investor
+  in Figma, Rippling, and Slack. Portfolio is 28% enterprise SaaS, 25% AI/ML, centered
+  on workplace productivity tools. Known for finding blindspots in founders and for
+  rapid conviction—led Figma Series B and Rippling's largest early-stage round at
+  the time.
+type: individual
 ---
 
 ## Background

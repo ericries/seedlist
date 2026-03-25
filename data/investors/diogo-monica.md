@@ -1,22 +1,33 @@
 ---
-name: "Diogo Mónica"
-slug: diogo-monica
-type: individual
+check_size: $1M-$100M
 firm: haun-ventures
-role: "General Partner"
-location: "San Francisco, CA / Lisbon, Portugal"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [crypto, web3, blockchain, stablecoins, defi, fintech, cybersecurity, AI]
-check_size: "$1M-$100M"
-last_verified_investment:
-  date: 2026-02-08
-  company: "Erebor"
-  round: "Series B"
-social:
-  twitter: "@diogomonica"
-  linkedin: "linkedin.com/in/diogomonica"
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Erebor
+  date: 2026-02-08
+  round: Series B
+location: San Francisco, CA / Lisbon, Portugal
+name: Diogo Mónica
+role: General Partner
+sector_focus:
+- crypto
+- web3
+- blockchain
+- stablecoins
+- defi
+- fintech
+- cybersecurity
+- ai
+slug: diogo-monica
+social:
+  linkedin: linkedin.com/in/diogomonica
+  twitter: '@diogomonica'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+type: individual
 ---
 
 ## Background

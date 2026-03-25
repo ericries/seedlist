@@ -1,23 +1,33 @@
 ---
-name: "Gordon Ritter"
-slug: gordon-ritter
-type: individual
+check_size: $1M-$12M
 firm: emergence-capital
-role: "Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [enterprise-saas, cloud-infrastructure, AI, vertical-saas]
-check_size: "$1M-$12M"
-last_verified_investment:
-  date: 2025-01-09
-  company: "Bland"
-  round: "Series B"
-social:
-  twitter: "@gordonritter"
-  linkedin: "linkedin.com/in/gordonpritter"
-status: published
 last_researched: 2026-03-24
-tldr: "Founder of Emergence Capital (2003) investing seed-Series B in enterprise SaaS and AI. $8B+ in realized returns on <$2B invested (9 IPOs). Co-founder of Software as a Service with Marc Benioff (Salesforce founder). Known for 'coaching networks' thesis: ML-driven performance tools for specific industries."
+last_verified_investment:
+  company: Bland
+  date: 2025-01-09
+  round: Series B
+location: San Francisco, CA
+name: Gordon Ritter
+role: Founder & General Partner
+sector_focus:
+- enterprise-saas
+- cloud-infrastructure
+- ai
+- vertical-saas
+slug: gordon-ritter
+social:
+  linkedin: linkedin.com/in/gordonpritter
+  twitter: '@gordonritter'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Founder of Emergence Capital (2003) investing seed-Series B in enterprise SaaS
+  and AI. $8B+ in realized returns on <$2B invested (9 IPOs). Co-founder of Software
+  as a Service with Marc Benioff (Salesforce founder). Known for ''coaching networks''
+  thesis: ML-driven performance tools for specific industries.'
+type: individual
 ---
 
 ## Background

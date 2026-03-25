@@ -84,6 +84,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2016
+- round: Seed
+  slug: mac-venture-capital
+  year: 2021
 founded: 2013
 founders:
 - name: Ryan Petersen
@@ -143,6 +146,9 @@ investors:
 - round: Seed
   slug: roy-bahat
   year: 2015
+- round: Seed
+  slug: adrian-fenty
+  year: 2021
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Flexport

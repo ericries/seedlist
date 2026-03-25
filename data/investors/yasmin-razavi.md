@@ -1,23 +1,32 @@
 ---
-name: "Yasmin Razavi"
-slug: yasmin-razavi
-tldr: "General Partner at Spark Capital (joined 2017 growth team, $4.2B AUM). Growth-stage investor ($5M-$15M checks) in fintech, enterprise, developer tools, AI. Recently invested in Adept (AI/LLMs). Part of Spark's growth team focused on Series B and later-stage companies."
-type: individual
+check_size: $5M-$15M
 firm: spark-capital
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [growth, series-b]
-sector_focus: [fintech, enterprise, developer-tools, AI]
-check_size: "$5M-$15M"
-last_verified_investment:
-  date: 2024
-  company: "Adept"
-  round: "Unknown"
-social:
-  twitter: "@YasminRazavi"
-  linkedin: "linkedin.com/in/yasminrazavi"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: Adept
+  date: 2024
+  round: Unknown
+location: San Francisco, CA
+name: Yasmin Razavi
+role: General Partner
+sector_focus:
+- fintech
+- enterprise
+- developer-tools
+- ai
+slug: yasmin-razavi
+social:
+  linkedin: linkedin.com/in/yasminrazavi
+  twitter: '@YasminRazavi'
+stage_focus:
+- growth
+- series-b
+status: published
+tldr: General Partner at Spark Capital (joined 2017 growth team, $4.2B AUM). Growth-stage
+  investor ($5M-$15M checks) in fintech, enterprise, developer tools, AI. Recently
+  invested in Adept (AI/LLMs). Part of Spark's growth team focused on Series B and
+  later-stage companies.
+type: individual
 ---
 
 ## Background

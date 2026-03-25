@@ -103,7 +103,7 @@ name: Notion
 sector:
 - productivity
 - collaboration
-- AI
+- ai
 slug: notion
 stage_latest: Series C
 status: published

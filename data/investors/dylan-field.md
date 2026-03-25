@@ -1,23 +1,35 @@
 ---
-name: "Dylan Field"
-slug: dylan-field
-tldr: "Co-Founder and CEO of Figma (IPO July 2025, $68B valuation). Angel investor with 22 verified investments (of ~64-118 total) skewing 32% developer tools (Warp, Zed, Replicate), 14% design/AI. Known for 'design is a differentiator' thesis and multiplayer/collaboration focus (Warp, Loom, Linear, OpenSea). Check size $10K-$500K. Portfolio exits include Atlassian's Loom acquisition."
-type: individual
+check_size: $10K-$500K
 firm: independent
-role: "Co-Founder & CEO"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [developer-tools, design, AI, fintech, collaboration]
-check_size: "$10K-$500K"
-last_verified_investment:
-  date: 2025-04-08
-  company: "BRINC"
-  round: "Series C"
-social:
-  twitter: "@zoink"
-  linkedin: "linkedin.com/in/dylanfield"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: BRINC
+  date: 2025-04-08
+  round: Series C
+location: San Francisco, CA
+name: Dylan Field
+role: Co-Founder & CEO
+sector_focus:
+- developer-tools
+- design
+- ai
+- fintech
+- collaboration
+slug: dylan-field
+social:
+  linkedin: linkedin.com/in/dylanfield
+  twitter: '@zoink'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-Founder and CEO of Figma (IPO July 2025, $68B valuation). Angel investor
+  with 22 verified investments (of ~64-118 total) skewing 32% developer tools (Warp,
+  Zed, Replicate), 14% design/AI. Known for 'design is a differentiator' thesis and
+  multiplayer/collaboration focus (Warp, Loom, Linear, OpenSea). Check size $10K-$500K.
+  Portfolio exits include Atlassian's Loom acquisition.
+type: individual
 ---
 
 ## Background

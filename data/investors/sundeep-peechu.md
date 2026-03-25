@@ -1,23 +1,35 @@
 ---
-name: "Sundeep Peechu"
-slug: sundeep-peechu
-type: individual
+check_size: $500K-$15M
 firm: felicis
-role: "Managing Partner"
-location: "San Francisco Bay Area, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [AI, health-bio, cybersecurity, fintech, enterprise, developer-tools]
-check_size: "$500K-$15M"
-last_verified_investment:
-  date: 2025-10-27
-  company: "Mercor"
-  round: "Series C"
-social:
-  twitter: "@speechu"
-  linkedin: "linkedin.com/in/speechu"
-status: published
 last_researched: 2026-03-24
-tldr: "Felicis founding partner backing health/bio (27%), enterprise (23%), and AI/data infrastructure companies (18%) across seed to Series C. Deep technical founder preference; strong track record with regulated industries; exits include Google (Appurify), Salesforce ($390M RelateIQ), and multiple unicorns (Ginkgo, Recursion, Plaid, Wish)."
+last_verified_investment:
+  company: Mercor
+  date: 2025-10-27
+  round: Series C
+location: San Francisco Bay Area, CA
+name: Sundeep Peechu
+role: Managing Partner
+sector_focus:
+- ai
+- health-bio
+- cybersecurity
+- fintech
+- enterprise
+- developer-tools
+slug: sundeep-peechu
+social:
+  linkedin: linkedin.com/in/speechu
+  twitter: '@speechu'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Felicis founding partner backing health/bio (27%), enterprise (23%), and AI/data
+  infrastructure companies (18%) across seed to Series C. Deep technical founder preference;
+  strong track record with regulated industries; exits include Google (Appurify),
+  Salesforce ($390M RelateIQ), and multiple unicorns (Ginkgo, Recursion, Plaid, Wish).
+type: individual
 ---
 
 ## Background

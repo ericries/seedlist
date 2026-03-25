@@ -28,7 +28,7 @@ location: Austin, TX
 name: Bazaarvoice
 sector:
 - e-commerce
-- SaaS
+- saas
 - user-generated-content
 slug: bazaarvoice
 stage_latest: IPO

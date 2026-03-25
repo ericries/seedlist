@@ -1,23 +1,36 @@
 ---
-name: "Marc Benioff"
-slug: marc-benioff
-tldr: "Salesforce co-founder and CEO of TIME Ventures with 200+ investments; prolific angel investor across seed to growth stages. Portfolio balanced across enterprise (25%), fintech (13%), healthcare (8%), with notable investments in Zuora, StockX, Upstart; recent focus on AI and climate tech with $300M+ committed to climate solutions."
-type: individual
+check_size: $10K-$500K
 firm: time-ventures
-role: "Founder"
-location: "San Francisco, California"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise, climate-tech, healthcare, AI, fintech, consumer]
-check_size: "$10K-$500K"
-last_verified_investment:
-  date: 2025-10-22
-  company: "Sumble"
-  round: "Series A"
-social:
-  twitter: "@Benioff"
-  linkedin: "linkedin.com/in/marcbenioff"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Sumble
+  date: 2025-10-22
+  round: Series A
+location: San Francisco, California
+name: Marc Benioff
+role: Founder
+sector_focus:
+- enterprise
+- climate-tech
+- healthcare
+- ai
+- fintech
+- consumer
+slug: marc-benioff
+social:
+  linkedin: linkedin.com/in/marcbenioff
+  twitter: '@Benioff'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Salesforce co-founder and CEO of TIME Ventures with 200+ investments; prolific
+  angel investor across seed to growth stages. Portfolio balanced across enterprise
+  (25%), fintech (13%), healthcare (8%), with notable investments in Zuora, StockX,
+  Upstart; recent focus on AI and climate tech with $300M+ committed to climate solutions.
+type: individual
 ---
 
 ## Background

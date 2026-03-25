@@ -137,11 +137,12 @@ def build_enrichment_index(investors, firms, queue_path):
             "role": p.get("role", ""),
             "location": p.get("location", ""),
             "stage_focus": p.get("stage_focus", []),
-            "sector_focus": p.get("sector_focus", []),
+            "sector_focus": [s.lower() for s in (p.get("sector_focus") or [])],
             "check_size": p.get("check_size", ""),
             "last_active": last_active,
             "status": p.get("status", ""),
             "thesis_summary": thesis_summary,
+            "tldr": p.get("tldr", ""),
         })
 
     firm_name_lookup = {}

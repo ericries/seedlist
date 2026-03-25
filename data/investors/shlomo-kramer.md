@@ -1,22 +1,34 @@
 ---
-name: "Shlomo Kramer"
-slug: shlomo-kramer
-tldr: "Israeli cybersecurity godfather and co-founder of three unicorns: Check Point ($20B), Imperva, and Cato Networks ($3B+). Prolific angel investor with 61+ deals across $1M-$25M check sizes, 57% of portfolio in cybersecurity including early-stage bets in Palo Alto Networks ($100B+ valuation) and Trusteer (IBM acquisition $1B). Distinctive for board participation and leveraging Israeli ecosystem network; pattern of investing in companies that create new security categories."
-type: individual
+check_size: $1M-$25M
 firm: cato-networks
-role: "Angel Investor & CEO, Cato Networks"
-location: "Tel Aviv, Israel"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [cybersecurity, enterprise-software, fintech, AI]
-check_size: "$1M-$25M"
-last_verified_investment:
-  date: 2018
-  company: "Cynet"
-  round: "Series B"
-social:
-  linkedin: "linkedin.com/in/shlomokramer"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Cynet
+  date: 2018
+  round: Series B
+location: Tel Aviv, Israel
+name: Shlomo Kramer
+role: Angel Investor & CEO, Cato Networks
+sector_focus:
+- cybersecurity
+- enterprise-software
+- fintech
+- ai
+slug: shlomo-kramer
+social:
+  linkedin: linkedin.com/in/shlomokramer
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Israeli cybersecurity godfather and co-founder of three unicorns: Check Point
+  ($20B), Imperva, and Cato Networks ($3B+). Prolific angel investor with 61+ deals
+  across $1M-$25M check sizes, 57% of portfolio in cybersecurity including early-stage
+  bets in Palo Alto Networks ($100B+ valuation) and Trusteer (IBM acquisition $1B).
+  Distinctive for board participation and leveraging Israeli ecosystem network; pattern
+  of investing in companies that create new security categories.'
+type: individual
 ---
 
 ## Background

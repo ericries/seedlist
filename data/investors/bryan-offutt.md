@@ -1,23 +1,36 @@
 ---
-name: "Bryan Offutt"
-slug: bryan-offutt
-type: individual
+check_size: $100K-$50M
 firm: hanabi-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [AI, developer-tools, data-infrastructure, machine-learning, open-source]
-check_size: "$100K-$50M"
-last_verified_investment:
-  date: 2024
-  company: "Superlinked"
-  round: "Seed"
-social:
-  twitter: "@BryanOffutt"
-  linkedin: "linkedin.com/in/bryanoffutt"
-status: published
 last_researched: 2026-03-19
-tldr: "Bryan Offutt is a Partner at Hanabi Capital (founded 2025 with Mike Volpi and Ishani Thakur, all from Index Ventures). His 10 verified investments focus on AI/ML infrastructure (30%) and data infrastructure/developer tools (40%). Former Palantir infrastructure engineer and MemSQL product manager; at Index Ventures he tracked open-source adoption patterns. He prioritizes startups with 'big shifts in cost savings and revenue driving' over hype-driven GitHub stars."
+last_verified_investment:
+  company: Superlinked
+  date: 2024
+  round: Seed
+location: San Francisco, CA
+name: Bryan Offutt
+role: Partner
+sector_focus:
+- ai
+- developer-tools
+- data-infrastructure
+- machine-learning
+- open-source
+slug: bryan-offutt
+social:
+  linkedin: linkedin.com/in/bryanoffutt
+  twitter: '@BryanOffutt'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Bryan Offutt is a Partner at Hanabi Capital (founded 2025 with Mike Volpi and
+  Ishani Thakur, all from Index Ventures). His 10 verified investments focus on AI/ML
+  infrastructure (30%) and data infrastructure/developer tools (40%). Former Palantir
+  infrastructure engineer and MemSQL product manager; at Index Ventures he tracked
+  open-source adoption patterns. He prioritizes startups with 'big shifts in cost
+  savings and revenue driving' over hype-driven GitHub stars.
+type: individual
 ---
 
 ## Background

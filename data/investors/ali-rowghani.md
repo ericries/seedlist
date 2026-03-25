@@ -1,23 +1,34 @@
 ---
-name: "Ali Rowghani"
-slug: ali-rowghani
-tldr: "Former CFO/COO at Twitter and CEO of YC Continuity (led DoorDash, Stripe, Coinbase growth-stage bets). Founder of First Harmonic (launched June 2025) investing $150K-$2M at seed/pre-seed in AI, fintech, enterprise software. Distinctive operator approach with free GTM coaching program for portfolio founders. Early focus: AI applications (Mercor, Cursor, Decagon)."
-type: individual
+check_size: $150K–$2M
 firm: first-harmonic
-role: "Founder & Managing General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, pre-seed]
-sector_focus: [AI, fintech, enterprise-software, developer-tools, open-source]
-check_size: "$150K–$2M"
-last_verified_investment:
-  date: 2025-12
-  company: "Kobalt Labs"
-  round: "Series A"
-social:
-  twitter: "@ROWGHANI"
-  linkedin: "linkedin.com/in/ali-rowghani-26996a1b"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Kobalt Labs
+  date: 2025-12
+  round: Series A
+location: San Francisco, CA
+name: Ali Rowghani
+role: Founder & Managing General Partner
+sector_focus:
+- ai
+- fintech
+- enterprise-software
+- developer-tools
+- open-source
+slug: ali-rowghani
+social:
+  linkedin: linkedin.com/in/ali-rowghani-26996a1b
+  twitter: '@ROWGHANI'
+stage_focus:
+- seed
+- pre-seed
+status: published
+tldr: 'Former CFO/COO at Twitter and CEO of YC Continuity (led DoorDash, Stripe, Coinbase
+  growth-stage bets). Founder of First Harmonic (launched June 2025) investing $150K-$2M
+  at seed/pre-seed in AI, fintech, enterprise software. Distinctive operator approach
+  with free GTM coaching program for portfolio founders. Early focus: AI applications
+  (Mercor, Cursor, Decagon).'
+type: individual
 ---
 
 ## Background

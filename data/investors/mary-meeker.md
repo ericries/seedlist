@@ -1,22 +1,34 @@
 ---
-name: "Mary Meeker"
-slug: mary-meeker
-tldr: "Founder of BOND ($5.75B total AUM); 'Queen of the Internet' Morgan Stanley analyst turned VC. Growth-stage investor (Series C+) with 51 unicorns. Portfolio: 31% enterprise SaaS, 19% consumer, 19% education. Known for user-first thesis; invests $10M-$150M+. BOND portfolio spans Uber, Airbnb, Slack, Spotify, Canva, ElevenLabs."
-type: individual
+check_size: $10M–$150M+
 firm: bond
-role: "Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [late-stage, growth]
-sector_focus: [enterprise-saas, AI, edtech, fintech, consumer-internet, design-tools, logistics]
-check_size: "$10M–$150M+"
-last_verified_investment:
-  date: 2026-02-04
-  company: "ElevenLabs"
-  round: "Series D"
-social:
-  linkedin: "linkedin.com/in/mary-meeker-5823ba48"
-status: published
 last_researched: 2026-03-17
+last_verified_investment:
+  company: ElevenLabs
+  date: 2026-02-04
+  round: Series D
+location: San Francisco, CA
+name: Mary Meeker
+role: Founder & General Partner
+sector_focus:
+- enterprise-saas
+- ai
+- edtech
+- fintech
+- consumer-internet
+- design-tools
+- logistics
+slug: mary-meeker
+social:
+  linkedin: linkedin.com/in/mary-meeker-5823ba48
+stage_focus:
+- late-stage
+- growth
+status: published
+tldr: 'Founder of BOND ($5.75B total AUM); ''Queen of the Internet'' Morgan Stanley
+  analyst turned VC. Growth-stage investor (Series C+) with 51 unicorns. Portfolio:
+  31% enterprise SaaS, 19% consumer, 19% education. Known for user-first thesis; invests
+  $10M-$150M+. BOND portfolio spans Uber, Airbnb, Slack, Spotify, Canva, ElevenLabs.'
+type: individual
 ---
 
 ## Background

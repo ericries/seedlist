@@ -1,33 +1,42 @@
 ---
-name: "Greenoaks Capital"
-slug: greenoaks-capital
-type: firm
-website: "https://greenoaks.com"
-location: "San Francisco, CA"
+aum: $15B
 founded: 2012
-fund_size: "$2.5B (Fund VI, 2025)"
-aum: "$15B"
-stage_focus: [series-a, series-b, growth]
-sector_focus: [enterprise-software, fintech, e-commerce, cybersecurity, AI, developer-tools]
-team:
-  - slug: neil-mehta
-    role: Founder & Managing Partner
-  - slug: benny-peretz
-    role: Managing Partner
-  - slug: neil-shah
-    role: Partner
-  - slug: ben-solarz
-    role: Partner
-  - slug: patrick-backhouse
-    role: Partner
-  - slug: genevieve-kahr
-    role: Partner & Head of IR
-  - slug: mac-steele
-    role: Partner & Head of Research
-  - slug: sreyas-misra
-    role: Principal
-status: published
+fund_size: $2.5B (Fund VI, 2025)
 last_researched: 2026-03-22
+location: San Francisco, CA
+name: Greenoaks Capital
+sector_focus:
+- enterprise-software
+- fintech
+- e-commerce
+- cybersecurity
+- ai
+- developer-tools
+slug: greenoaks-capital
+stage_focus:
+- series-a
+- series-b
+- growth
+status: published
+team:
+- role: Founder & Managing Partner
+  slug: neil-mehta
+- role: Managing Partner
+  slug: benny-peretz
+- role: Partner
+  slug: neil-shah
+- role: Partner
+  slug: ben-solarz
+- role: Partner
+  slug: patrick-backhouse
+- role: Partner & Head of IR
+  slug: genevieve-kahr
+- role: Partner & Head of Research
+  slug: mac-steele
+- role: Principal
+  slug: sreyas-misra
+type: firm
+website: https://greenoaks.com
 ---
 
 ## About

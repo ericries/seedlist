@@ -1,23 +1,36 @@
 ---
-name: "Angela Tran"
-slug: angela-tran
-type: individual
+check_size: $500K-$750K
 firm: version-one-ventures
-role: "General Partner"
-location: "San Francisco Bay Area, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [deep-tech, robotics, climate-energy, bio-health, AI-ML, developer-tools, enterprise-SaaS]
-check_size: "$500K-$750K"
-last_verified_investment:
-  date: 2026-02-19
-  company: "Pluto Mobility"
-  round: "Seed"
-social:
-  twitter: "@angelatytran"
-  linkedin: "linkedin.com/in/angela-tran-38262131"
-status: published
 last_researched: 2026-03-18
-tldr: "Angela Tran is General Partner at Version One Ventures, a Vancouver-based early-stage fund. Her 16 confirmed investments cluster in deep tech: robotics/hardware (31%), climate/energy (25%), and biotech (19%), a notable hardware bias diverging from typical seed funds' software focus. Her engineering PhD and founder background attract technically deep teams; recent vintage shows growing India allocation."
+last_verified_investment:
+  company: Pluto Mobility
+  date: 2026-02-19
+  round: Seed
+location: San Francisco Bay Area, CA
+name: Angela Tran
+role: General Partner
+sector_focus:
+- deep-tech
+- robotics
+- climate-energy
+- bio-health
+- ai-ml
+- developer-tools
+- enterprise-saas
+slug: angela-tran
+social:
+  linkedin: linkedin.com/in/angela-tran-38262131
+  twitter: '@angelatytran'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Angela Tran is General Partner at Version One Ventures, a Vancouver-based early-stage
+  fund. Her 16 confirmed investments cluster in deep tech: robotics/hardware (31%),
+  climate/energy (25%), and biotech (19%), a notable hardware bias diverging from
+  typical seed funds'' software focus. Her engineering PhD and founder background
+  attract technically deep teams; recent vintage shows growing India allocation.'
+type: individual
 ---
 
 ## Background

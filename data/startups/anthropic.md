@@ -105,7 +105,7 @@ location: San Francisco, CA
 name: Anthropic
 sector:
 - artificial-intelligence
-- AI-safety
+- ai-safety
 - machine-learning
 slug: anthropic
 stage_latest: Series G

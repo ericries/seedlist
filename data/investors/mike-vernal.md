@@ -1,23 +1,32 @@
 ---
-name: "Mike Vernal"
-slug: mike-vernal
-type: individual
+check_size: $1M-$25M
 firm: conviction
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [AI, enterprise-software, developer-tools, data-infrastructure]
-check_size: "$1M-$25M"
-last_verified_investment:
-  date: 2025
-  company: "Conviction Fund II"
-  round: "Fund"
-social:
-  twitter: "@mvernal"
-  linkedin: "linkedin.com/in/vernal"
-status: published
 last_researched: 2026-03-20
-tldr: "Sequoia veteran and Conviction GP backing pre-market-clarity AI companies and technically intense platforms. Led iconic rounds in Notion, Rippling, and Statsig; believes in speed as moat and execution over credentials."
+last_verified_investment:
+  company: Conviction Fund II
+  date: 2025
+  round: Fund
+location: San Francisco, CA
+name: Mike Vernal
+role: General Partner
+sector_focus:
+- ai
+- enterprise-software
+- developer-tools
+- data-infrastructure
+slug: mike-vernal
+social:
+  linkedin: linkedin.com/in/vernal
+  twitter: '@mvernal'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Sequoia veteran and Conviction GP backing pre-market-clarity AI companies and
+  technically intense platforms. Led iconic rounds in Notion, Rippling, and Statsig;
+  believes in speed as moat and execution over credentials.
+type: individual
 ---
 
 ## Background

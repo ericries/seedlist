@@ -1,59 +1,59 @@
 ---
-name: "Weebly"
-slug: weebly
-type: startup
-website: "https://www.weebly.com"
-location: "San Francisco, CA"
-founded: 2006
-status_company: acquired
-acquired_by: "Square (Block, Inc.)"
-sector:
-  - website-builder
-  - e-commerce
-  - SMB-tools
-stage_latest: "Series C"
-total_raised: "$35.7M"
-investors:
-  - slug: ron-conway
-    round: Seed
-    year: 2007
-  - slug: mike-maples
-    round: Seed
-    year: 2007
-  - slug: steve-anderson
-    round: Seed
-    year: 2007
-  - slug: aydin-senkut
-    round: Seed
-    year: 2007
-  - slug: paul-buchheit
-    round: Seed
-    year: 2007
+acquired_by: Square (Block, Inc.)
 firms:
-  - slug: y-combinator
-    round: Seed
-    year: 2007
-  - slug: baseline-ventures
-    round: Seed
-    year: 2007
-  - slug: floodgate
-    round: Seed
-    year: 2007
-  - slug: sequoia-capital
-    round: Series B
-    year: 2011
-  - slug: sequoia-capital
-    round: Series C
-    year: 2014
+- round: Seed
+  slug: y-combinator
+  year: 2007
+- round: Seed
+  slug: baseline-ventures
+  year: 2007
+- round: Seed
+  slug: floodgate
+  year: 2007
+- round: Series B
+  slug: sequoia-capital
+  year: 2011
+- round: Series C
+  slug: sequoia-capital
+  year: 2014
+founded: 2006
 founders:
-  - name: "David Rusenko"
-    role: "CEO & Co-Founder"
-  - name: "Dan Veltri"
-    role: "CPO & Co-Founder"
-  - name: "Chris Fanini"
-    role: "CTO & Co-Founder"
-status: published
+- name: David Rusenko
+  role: CEO & Co-Founder
+- name: Dan Veltri
+  role: CPO & Co-Founder
+- name: Chris Fanini
+  role: CTO & Co-Founder
+investors:
+- round: Seed
+  slug: ron-conway
+  year: 2007
+- round: Seed
+  slug: mike-maples
+  year: 2007
+- round: Seed
+  slug: steve-anderson
+  year: 2007
+- round: Seed
+  slug: aydin-senkut
+  year: 2007
+- round: Seed
+  slug: paul-buchheit
+  year: 2007
 last_researched: 2026-03-24
+location: San Francisco, CA
+name: Weebly
+sector:
+- website-builder
+- e-commerce
+- smb-tools
+slug: weebly
+stage_latest: Series C
+status: published
+status_company: acquired
+total_raised: $35.7M
+type: startup
+website: https://www.weebly.com
 ---
 
 ## About

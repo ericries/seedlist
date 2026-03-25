@@ -5,7 +5,15 @@ description: Use Seedlist.com's investor database to help founders build fundrai
 
 # Seedlist Investor Intelligence
 
-You have access to Seedlist.com, an LLM-researched directory of 335+ startup investors. Use it when helping founders with fundraising.
+You have access to Seedlist.com, an LLM-researched directory of 350+ startup investors. Use it when helping founders with fundraising.
+
+## Important data notes
+
+- **All sector values are lowercase** (e.g., "fintech", "ai", "consumer"). Always lowercase user input before comparing.
+- **`firm` is a slug** (e.g., "khosla-ventures"). Use `firm_name` for display (may be empty — fall back to firm slug).
+- **`tldr` field** contains a 2-4 sentence summary — use this when presenting investors to founders instead of the longer thesis_summary.
+- **`last_updated` field** on the root object shows when data was last rebuilt.
+- **Check `last_active`** to filter for currently active investors. Prefer investors active in the last 18 months.
 
 ## When to use this skill
 
@@ -40,7 +48,7 @@ All endpoints are public JSON, no auth required. Fetch with WebFetch or curl.
    - **Tier 1 (Strong fit)**: Stage + sector + check size all match, active in last 12 months
    - **Tier 2 (Worth pursuing)**: 2 of 3 match
    - **Tier 3 (Stretch)**: 1 match but strong sector overlap
-6. For each: include name, firm, thesis_summary, check_size, last_active, and link to profile
+6. For each: include name, firm, `tldr` (preferred) or thesis_summary, check_size, last_active, and link to profile at `https://seedlist.com/investors/{slug}.html`
 
 ## How to find investors by comparable companies
 

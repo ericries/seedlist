@@ -1,23 +1,37 @@
 ---
-name: "Dan Portillo"
-slug: dan-portillo
-tldr: "Co-Founder of The General Partnership, a $540M venture firm with a services-for-equity model. Portfolio of 25 verified investments skews 24% fintech, 20% developer tools, 16% AI, with early-stage focus. Deploys 25+ embedded operators (ex-Stripe, Google, Square engineers) into portfolio companies for average 9-month tenures. Has backed exits including Coda (Grammarly acquisition) and Nuro ($6B valuation)."
-type: individual
+check_size: $1M-$15M
 firm: the-general-partnership
-role: "Co-Founder & General Partner"
-location: "Austin, TX"
-stage_focus: [pre-seed, seed, series-a, series-b]
-sector_focus: [fintech, developer-tools, AI, security, govtech, enterprise]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2025
-  company: "Cassidy"
-  round: "Series A"
-social:
-  twitter: "@dan_portillo"
-  linkedin: "linkedin.com/in/danielportillo"
-status: published
 last_researched: 2026-03-15
+last_verified_investment:
+  company: Cassidy
+  date: 2025
+  round: Series A
+location: Austin, TX
+name: Dan Portillo
+role: Co-Founder & General Partner
+sector_focus:
+- fintech
+- developer-tools
+- ai
+- security
+- govtech
+- enterprise
+slug: dan-portillo
+social:
+  linkedin: linkedin.com/in/danielportillo
+  twitter: '@dan_portillo'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-Founder of The General Partnership, a $540M venture firm with a services-for-equity
+  model. Portfolio of 25 verified investments skews 24% fintech, 20% developer tools,
+  16% AI, with early-stage focus. Deploys 25+ embedded operators (ex-Stripe, Google,
+  Square engineers) into portfolio companies for average 9-month tenures. Has backed
+  exits including Coda (Grammarly acquisition) and Nuro ($6B valuation).
+type: individual
 ---
 
 ## Background

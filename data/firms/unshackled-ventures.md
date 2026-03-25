@@ -1,45 +1,54 @@
 ---
-name: "Unshackled Ventures"
-slug: unshackled-ventures
-type: firm
-website: "https://www.unshackledvc.com"
-location: "San Francisco, CA; New York; Florida"
 founded: 2014
-fund_size: "$60M (across three funds: $5M Fund I, $20M Fund II, $35M Fund III)"
-stage_focus: [pre-seed, seed]
-sector_focus: [AI, enterprise-saas, healthcare, space, fintech, climate-energy, food-agriculture]
-team:
-  - slug: manan-mehta
-    role: "Founding Partner"
-    name: "Manan Mehta"
-  - slug: nitin-pachisia
-    role: "Partner Emeritus"
-    name: "Nitin Pachisia"
-  - slug: shaherose-charania
-    role: "Partner"
-    name: "Shaherose Charania"
-  - slug: alexis-zamira-maciel
-    role: "Principal"
-    name: "Alexis Zamira Maciel"
-  - slug: michael-serotte
-    role: "Immigration Partner"
-    name: "Michael Serotte"
-  - slug: rita-georges
-    role: "Immigration Partner"
-    name: "Rita Georges"
-  - slug: eric-ries
-    role: "Incorruptible Partner"
-    name: "Eric Ries"
-  - slug: fernanda-sesto
-    role: "Investment Analyst"
-    name: "Fernanda Sesto"
-pending_sources:
-  - url: "https://unshackledvc.substack.com/p/eric-ries-joins-unshackled-as-an"
-    added: 2026-03-20
-    status: processed
-    processed: 2026-03-20
-status: published
+fund_size: '$60M (across three funds: $5M Fund I, $20M Fund II, $35M Fund III)'
 last_researched: 2026-03-20
+location: San Francisco, CA; New York; Florida
+name: Unshackled Ventures
+pending_sources:
+- added: 2026-03-20
+  processed: 2026-03-20
+  status: processed
+  url: https://unshackledvc.substack.com/p/eric-ries-joins-unshackled-as-an
+sector_focus:
+- ai
+- enterprise-saas
+- healthcare
+- space
+- fintech
+- climate-energy
+- food-agriculture
+slug: unshackled-ventures
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- name: Manan Mehta
+  role: Founding Partner
+  slug: manan-mehta
+- name: Nitin Pachisia
+  role: Partner Emeritus
+  slug: nitin-pachisia
+- name: Shaherose Charania
+  role: Partner
+  slug: shaherose-charania
+- name: Alexis Zamira Maciel
+  role: Principal
+  slug: alexis-zamira-maciel
+- name: Michael Serotte
+  role: Immigration Partner
+  slug: michael-serotte
+- name: Rita Georges
+  role: Immigration Partner
+  slug: rita-georges
+- name: Eric Ries
+  role: Incorruptible Partner
+  slug: eric-ries
+- name: Fernanda Sesto
+  role: Investment Analyst
+  slug: fernanda-sesto
+type: firm
+website: https://www.unshackledvc.com
 ---
 
 ## About

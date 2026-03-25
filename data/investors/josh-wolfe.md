@@ -1,23 +1,36 @@
 ---
-name: "Josh Wolfe"
-slug: josh-wolfe
-tldr: "Co-Founder of Lux Capital ($7B+ AUM) focused on counter-conventional deep tech, robotics, defense, biotech, space, and AI. Checks $1M-$50M with high thesis conviction. Co-founded Kurion (nuclear cleanup robotics, $365-400M Veolia exit). Noted for identifying hard-tech outsiders and building founder conviction around moonshot problems."
-type: individual
+check_size: $1M-$50M
 firm: lux-capital
-role: "Co-Founder & Managing Partner"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [deep-tech, defense-tech, biotech, AI, robotics, energy, space]
-check_size: "$1M-$50M"
-last_verified_investment:
-  date: 2025
-  company: "Applied Compute"
-  round: "Series A"
-social:
-  twitter: "@wolfejosh"
-  linkedin: "linkedin.com/in/josh-wolfe-7883"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Applied Compute
+  date: 2025
+  round: Series A
+location: New York, NY
+name: Josh Wolfe
+role: Co-Founder & Managing Partner
+sector_focus:
+- deep-tech
+- defense-tech
+- biotech
+- ai
+- robotics
+- energy
+- space
+slug: josh-wolfe
+social:
+  linkedin: linkedin.com/in/josh-wolfe-7883
+  twitter: '@wolfejosh'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-Founder of Lux Capital ($7B+ AUM) focused on counter-conventional deep tech,
+  robotics, defense, biotech, space, and AI. Checks $1M-$50M with high thesis conviction.
+  Co-founded Kurion (nuclear cleanup robotics, $365-400M Veolia exit). Noted for identifying
+  hard-tech outsiders and building founder conviction around moonshot problems.
+type: individual
 ---
 
 ## Background

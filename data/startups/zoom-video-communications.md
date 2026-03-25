@@ -1,48 +1,48 @@
 ---
-name: Zoom Video Communications
-slug: zoom-video-communications
-type: startup
-website: https://zoom.us
-location: San Jose, CA
-founded: 2011
-status_company: ipo
-sector:
-- video-communications
-- enterprise-software
-- SaaS
-stage_latest: IPO
-total_raised: $160M
-investors:
-- slug: dan-scheinman
-  round: Seed
-  year: 2011
-- slug: matthew-ocko
-  round: Seed
-  year: 2011
-- slug: bill-tai
-  round: Seed
-  year: 2011
 firms:
-- slug: qualcomm-ventures
-  round: Series A
+- round: Series A
+  slug: qualcomm-ventures
   year: 2013
-- slug: ame-cloud-ventures
-  round: Series A
+- round: Series A
+  slug: ame-cloud-ventures
   year: 2013
-- slug: horizons-ventures
-  round: Series B
+- round: Series B
+  slug: horizons-ventures
   year: 2013
-- slug: emergence-capital
-  round: Series C
+- round: Series C
+  slug: emergence-capital
   year: 2015
-- slug: sequoia-capital
-  round: Series D
+- round: Series D
+  slug: sequoia-capital
   year: 2017
+founded: 2011
 founders:
 - name: Eric Yuan
   role: CEO & Founder
-status: published
+investors:
+- round: Seed
+  slug: dan-scheinman
+  year: 2011
+- round: Seed
+  slug: matthew-ocko
+  year: 2011
+- round: Seed
+  slug: bill-tai
+  year: 2011
 last_researched: 2026-03-19
+location: San Jose, CA
+name: Zoom Video Communications
+sector:
+- video-communications
+- enterprise-software
+- saas
+slug: zoom-video-communications
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $160M
+type: startup
+website: https://zoom.us
 ---
 
 ## About

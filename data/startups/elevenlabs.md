@@ -140,7 +140,7 @@ last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs
 sector:
-- AI
+- ai
 - audio
 - voice-synthesis
 - developer-tools

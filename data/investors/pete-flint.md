@@ -1,23 +1,33 @@
 ---
-name: "Pete Flint"
-slug: pete-flint
-tldr: "NFX co-founder; Trulia founder/CEO (IPO 2012, $3.5B to Zillow 2015), lastminute.com founding team. Focus: 44% PropTech (Ribbon, La Haus, Indigo), FinTech, LatAm, AI/network effects. Known for 'money is in the money' marketplace thesis. OBE for entrepreneurship. Pre-seed/seed investor. $500K-$5M checks."
-type: individual
+check_size: $500K-$5M
 firm: nfx
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [proptech, fintech, marketplaces, AI, latam]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2025-01-24
-  company: "Indigo"
-  round: "Seed"
-social:
-  twitter: "@peteflint"
-  linkedin: "https://www.linkedin.com/in/peteflint"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Indigo
+  date: 2025-01-24
+  round: Seed
+location: San Francisco, CA
+name: Pete Flint
+role: Co-Founder & General Partner
+sector_focus:
+- proptech
+- fintech
+- marketplaces
+- ai
+- latam
+slug: pete-flint
+social:
+  linkedin: https://www.linkedin.com/in/peteflint
+  twitter: '@peteflint'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'NFX co-founder; Trulia founder/CEO (IPO 2012, $3.5B to Zillow 2015), lastminute.com
+  founding team. Focus: 44% PropTech (Ribbon, La Haus, Indigo), FinTech, LatAm, AI/network
+  effects. Known for ''money is in the money'' marketplace thesis. OBE for entrepreneurship.
+  Pre-seed/seed investor. $500K-$5M checks.'
+type: individual
 ---
 
 ## Background

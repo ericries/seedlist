@@ -116,7 +116,7 @@ location: San Francisco, CA
 name: PagerDuty
 sector:
 - devops
-- SaaS
+- saas
 - enterprise-software
 slug: pagerduty
 stage_latest: IPO

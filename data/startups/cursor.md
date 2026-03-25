@@ -45,6 +45,9 @@ firms:
 - round: Seed ($8M)
   slug: nfdg
   year: 2023
+- round: ~2022–2023
+  slug: preston-werner-ventures
+  year: 2022
 founded: 2022
 founders:
 - name: Michael Truell
@@ -89,11 +92,14 @@ investors:
 - round: Seed ($8M)
   slug: nat-friedman
   year: 2023
+- round: ~2022–2023
+  slug: tom-preston-werner
+  year: 2022
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)
 sector:
-- AI
+- ai
 - developer-tools
 - code-editor
 slug: cursor

@@ -1,32 +1,36 @@
 ---
-name: Roy Bahat
-slug: roy-bahat
-type: individual
+check_size: $250K-$1M
 firm: bloomberg-beta
-role: Head
+last_researched: 2026-03-24
+last_verified_investment:
+  company: Humans&
+  date: 2026-01
+  round: Seed
 location: San Francisco, CA
-stage_focus:
-- pre-seed
-- seed
+name: Roy Bahat
+role: Head
 sector_focus:
-- AI
+- ai
 - developer-tools
 - enterprise
 - future-of-work
 - automation
 - data
 - education
-check_size: $250K-$1M
-last_verified_investment:
-  date: 2026-01
-  company: Humans&
-  round: Seed
+slug: roy-bahat
 social:
-  twitter: '@roybahat'
   linkedin: linkedin.com/in/roybahat
+  twitter: '@roybahat'
+stage_focus:
+- pre-seed
+- seed
 status: published
-last_researched: 2026-03-24
-tldr: "Head of Bloomberg Beta ($450M across 5 seed funds, open-source operations manual on GitHub). Pre-seed/seed investor ($250K-$1M, occasionally larger). Portfolio 40%+ AI/ML across all fund vintages. Recent wins: Slack, Kaggle, Weights & Biases. Known for founder-as-customer philosophy (NPS 82), unilateral partner investment approval. 93 founder millionaires."
+tldr: 'Head of Bloomberg Beta ($450M across 5 seed funds, open-source operations manual
+  on GitHub). Pre-seed/seed investor ($250K-$1M, occasionally larger). Portfolio 40%+
+  AI/ML across all fund vintages. Recent wins: Slack, Kaggle, Weights & Biases. Known
+  for founder-as-customer philosophy (NPS 82), unilateral partner investment approval.
+  93 founder millionaires.'
+type: individual
 ---
 
 ## Background

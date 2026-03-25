@@ -1,23 +1,32 @@
 ---
-name: "Romit Shah"
-slug: romit-shah
-tldr: "Tensor Edge Capital founder (2025); 25-year semiconductor investing expert. Former Nomura research MD with 66.67% accuracy rate. Long/short equity fund focused on semiconductors, software, AI. Deep domain expertise in chip supply chains and competitive dynamics. Matrix Capital founding investor in Rivos (acquired by Meta). ~$109.5M AUM."
-type: individual
+check_size: Undisclosed (long/short equity fund)
 firm: tensor-edge-capital
-role: "Founder & Managing General Partner"
-location: "Weston, MA"
-stage_focus: [growth, public-equity]
-sector_focus: [semiconductors, software, AI]
-check_size: "Undisclosed (long/short equity fund)"
-last_verified_investment:
-  date: 2025-10-02
-  company: "Rivos Inc."
-  round: "Board seat (acquired by Meta)"
-social:
-  twitter: "@romitshah75"
-  linkedin: "linkedin.com/in/romit-shah-63592bb7"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Rivos Inc.
+  date: 2025-10-02
+  round: Board seat (acquired by Meta)
+location: Weston, MA
+name: Romit Shah
+role: Founder & Managing General Partner
+sector_focus:
+- semiconductors
+- software
+- ai
+slug: romit-shah
+social:
+  linkedin: linkedin.com/in/romit-shah-63592bb7
+  twitter: '@romitshah75'
+stage_focus:
+- growth
+- public-equity
+status: published
+tldr: Tensor Edge Capital founder (2025); 25-year semiconductor investing expert.
+  Former Nomura research MD with 66.67% accuracy rate. Long/short equity fund focused
+  on semiconductors, software, AI. Deep domain expertise in chip supply chains and
+  competitive dynamics. Matrix Capital founding investor in Rivos (acquired by Meta).
+  ~$109.5M AUM.
+type: individual
 ---
 
 ## Background

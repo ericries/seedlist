@@ -1,23 +1,37 @@
 ---
-name: "Boris Wertz"
-slug: boris-wertz
-type: individual
+check_size: $250K-$1.3M
 firm: version-one-ventures
-role: "Founder & General Partner"
-location: "Vancouver, BC, Canada"
-stage_focus: [pre-seed, seed]
-sector_focus: [crypto, climate-energy, AI, marketplaces, SaaS, deep-tech, India]
-check_size: "$250K-$1.3M"
-last_verified_investment:
-  date: 2025-04-17
-  company: "NiaHealth"
-  round: "Pre-Seed"
-social:
-  twitter: "@bwertz"
-  linkedin: "linkedin.com/in/bwertz"
-status: published
 last_researched: 2026-03-18
-tldr: "Boris Wertz is founder and GP of Version One Ventures, managing $250M+ across five funds. His 65 verified investments (43 current + 22 exits) are diversified: crypto/web3 (18%), SaaS (17%), climate/energy (11%), marketplaces (9%), and biotech (8%). He famously invests at the 'edges, not mainstream' and backs founders 'without obvious pedigree.' His AbeBooks was acquired by Amazon for ~$100M; recent exit pattern shows strong crypto/climate tilt."
+last_verified_investment:
+  company: NiaHealth
+  date: 2025-04-17
+  round: Pre-Seed
+location: Vancouver, BC, Canada
+name: Boris Wertz
+role: Founder & General Partner
+sector_focus:
+- crypto
+- climate-energy
+- ai
+- marketplaces
+- saas
+- deep-tech
+- india
+slug: boris-wertz
+social:
+  linkedin: linkedin.com/in/bwertz
+  twitter: '@bwertz'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Boris Wertz is founder and GP of Version One Ventures, managing $250M+ across
+  five funds. His 65 verified investments (43 current + 22 exits) are diversified:
+  crypto/web3 (18%), SaaS (17%), climate/energy (11%), marketplaces (9%), and biotech
+  (8%). He famously invests at the ''edges, not mainstream'' and backs founders ''without
+  obvious pedigree.'' His AbeBooks was acquired by Amazon for ~$100M; recent exit
+  pattern shows strong crypto/climate tilt.'
+type: individual
 ---
 
 ## Background

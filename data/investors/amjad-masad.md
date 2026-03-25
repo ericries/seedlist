@@ -1,23 +1,35 @@
 ---
-name: "Amjad Masad"
-slug: amjad-masad
-tldr: "Co-Founder & CEO of Replit ($9B valuation, $150M ARR), Jordanian-born engineer with Facebook background (Babel, Jest). Angel investor (60+ verified) focused on AI infrastructure (48% of 21 verified), developer tools (24%), media creation. Checks $5K-$50K at seed. Notable investments: Perplexity, RunPod, Synthesia, Runway."
-type: individual
+check_size: $5K-$50K
 firm: replit
-role: "Co-Founder & CEO"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a, series-b]
-sector_focus: [AI, developer-tools, infrastructure, edtech, media-creation]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2025-12-01
-  company: "Raindrop"
-  round: "Seed"
-social:
-  twitter: "@amasad"
-  linkedin: "linkedin.com/in/amjadmasad"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Raindrop
+  date: 2025-12-01
+  round: Seed
+location: San Francisco, CA
+name: Amjad Masad
+role: Co-Founder & CEO
+sector_focus:
+- ai
+- developer-tools
+- infrastructure
+- edtech
+- media-creation
+slug: amjad-masad
+social:
+  linkedin: linkedin.com/in/amjadmasad
+  twitter: '@amasad'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Co-Founder & CEO of Replit ($9B valuation, $150M ARR), Jordanian-born engineer
+  with Facebook background (Babel, Jest). Angel investor (60+ verified) focused on
+  AI infrastructure (48% of 21 verified), developer tools (24%), media creation. Checks
+  $5K-$50K at seed. Notable investments: Perplexity, RunPod, Synthesia, Runway.'
+type: individual
 ---
 
 ## Background

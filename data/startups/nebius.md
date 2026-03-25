@@ -1,19 +1,23 @@
 ---
-name: "Nebius"
-slug: nebius
-type: startup
-website: "https://nebius.com"
-location: "Amsterdam, Netherlands"
-founded: 2022
-status_company: active
-sector: [AI, infrastructure, cloud, data-centers]
-stage_latest: "Strategic Investment"
-total_raised: "$7B+"
-investors: []
 firms: []
+founded: 2022
 founders: []
-status: published
+investors: []
 last_researched: 2026-03-24
+location: Amsterdam, Netherlands
+name: Nebius
+sector:
+- ai
+- infrastructure
+- cloud
+- data-centers
+slug: nebius
+stage_latest: Strategic Investment
+status: published
+status_company: active
+total_raised: $7B+
+type: startup
+website: https://nebius.com
 ---
 
 ## About

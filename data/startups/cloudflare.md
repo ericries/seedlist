@@ -30,7 +30,7 @@ name: Cloudflare
 sector:
 - cybersecurity
 - infrastructure
-- CDN
+- cdn
 - cloud
 slug: cloudflare
 stage_latest: IPO

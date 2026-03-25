@@ -1,23 +1,36 @@
 ---
-name: "Arash Ferdowsi"
-slug: arash-ferdowsi
-tldr: "Former CTO of Dropbox (2007-2016, IPO 2018), Visiting Partner at Pear VC. Prolific angel investor (80+ portfolio companies) focused 33% AI/ML, 25% developer tools, 17% security with $50K-$200K checks at pre-seed/seed. Portfolio includes 3 unicorns: Anysphere/Cursor, Speak. Emphasizes 'conscious leadership' and complexity hidden behind simple UX."
-type: individual
+check_size: $50K-$200K
 firm: pear-vc
-role: "Visiting Partner"
-location: "New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [AI, developer-tools, cloud-infrastructure, security, fintech, SaaS]
-check_size: "$50K-$200K"
-last_verified_investment:
-  date: 2023-10
-  company: "Anysphere"
-  round: "Seed"
-social:
-  twitter: "@arashf"
-  linkedin: "linkedin.com/in/arashferdowsi"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Anysphere
+  date: 2023-10
+  round: Seed
+location: New York, NY
+name: Arash Ferdowsi
+role: Visiting Partner
+sector_focus:
+- ai
+- developer-tools
+- cloud-infrastructure
+- security
+- fintech
+- saas
+slug: arash-ferdowsi
+social:
+  linkedin: linkedin.com/in/arashferdowsi
+  twitter: '@arashf'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Former CTO of Dropbox (2007-2016, IPO 2018), Visiting Partner at Pear VC. Prolific
+  angel investor (80+ portfolio companies) focused 33% AI/ML, 25% developer tools,
+  17% security with $50K-$200K checks at pre-seed/seed. Portfolio includes 3 unicorns:
+  Anysphere/Cursor, Speak. Emphasizes ''conscious leadership'' and complexity hidden
+  behind simple UX.'
+type: individual
 ---
 
 ## Background

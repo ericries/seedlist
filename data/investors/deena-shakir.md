@@ -1,32 +1,34 @@
 ---
-name: "Deena Shakir"
-slug: deena-shakir
-type: individual
+check_size: $1M-$10M
 firm: lux-capital
-role: "General Partner"
-location: "Palo Alto, CA"
-stage_focus:
-- seed
-- series-a
-- series-b
+last_researched: 2026-03-24
+last_verified_investment:
+  company: Bluenote
+  date: 2024-12-20
+  round: Seed
+location: Palo Alto, CA
+name: Deena Shakir
+role: General Partner
 sector_focus:
 - digital-health
 - women's-health
 - health-equity
 - foodtech
 - fintech
-- AI
-check_size: "$1M-$10M"
-last_verified_investment:
-  date: 2024-12-20
-  company: "Bluenote"
-  round: "Seed"
+- ai
+slug: deena-shakir
 social:
-  twitter: "@deenashakir"
-  linkedin: "linkedin.com/in/deenashakir"
+  linkedin: linkedin.com/in/deenashakir
+  twitter: '@deenashakir'
+stage_focus:
+- seed
+- series-a
+- series-b
 status: published
-last_researched: 2026-03-24
-tldr: "Lux Capital GP investing $1M-$10M seed/Series A in deep tech applied to women's/reproductive health, health equity, and AI-native biotech. Personal experience with pregnancy complications drives focus on historically undercapitalized women's health category."
+tldr: Lux Capital GP investing $1M-$10M seed/Series A in deep tech applied to women's/reproductive
+  health, health equity, and AI-native biotech. Personal experience with pregnancy
+  complications drives focus on historically undercapitalized women's health category.
+type: individual
 ---
 
 ## Background

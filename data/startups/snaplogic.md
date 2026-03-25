@@ -47,7 +47,7 @@ name: SnapLogic
 sector:
 - enterprise-software
 - data-integration
-- iPaaS
+- ipaas
 slug: snaplogic
 stage_latest: Series H
 status: published

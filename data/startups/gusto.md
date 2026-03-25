@@ -195,6 +195,9 @@ investors:
 - round: Series B
   slug: nick-shalek
   year: 2015
+- round: Series C
+  slug: james-joaquin
+  year: 2016
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

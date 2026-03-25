@@ -1,23 +1,35 @@
 ---
-name: "Patrick Collison"
-slug: patrick-collison
-tldr: "Stripe co-founder/CEO; Arc Institute co-founder. Angel investor (50+ deals, 30+ companies) focused on developer tools, AI, infrastructure, climate, robotics. Thesis: 'developer-first, global, long-term platforms that compound.' Values product over marketing and scientific progress. Early backer of foundational tech compounds value. Irish-born entrepreneur."
-type: individual
+check_size: Angel
 firm: stripe
-role: "Co-Founder & CEO (angel investor)"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [developer-tools, AI, infrastructure, climate-tech, robotics, biotech]
-check_size: "Angel"
-last_verified_investment:
-  date: 2026-02-24
-  company: "MatX"
-  round: "Series B"
-social:
-  twitter: "@patrickc"
-  linkedin: "linkedin.com/in/patrickcollison"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: MatX
+  date: 2026-02-24
+  round: Series B
+location: San Francisco, CA
+name: Patrick Collison
+role: Co-Founder & CEO (angel investor)
+sector_focus:
+- developer-tools
+- ai
+- infrastructure
+- climate-tech
+- robotics
+- biotech
+slug: patrick-collison
+social:
+  linkedin: linkedin.com/in/patrickcollison
+  twitter: '@patrickc'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: 'Stripe co-founder/CEO; Arc Institute co-founder. Angel investor (50+ deals,
+  30+ companies) focused on developer tools, AI, infrastructure, climate, robotics.
+  Thesis: ''developer-first, global, long-term platforms that compound.'' Values product
+  over marketing and scientific progress. Early backer of foundational tech compounds
+  value. Irish-born entrepreneur.'
+type: individual
 ---
 
 ## Background

@@ -1,31 +1,36 @@
 ---
-name: "Erica Brescia"
-slug: erica-brescia
-type: individual
+check_size: $1M-$20M
 firm: redpoint-ventures
-role: "Managing Director"
-location: "San Francisco, CA"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-sector_focus:
-  - developer-tools
-  - infrastructure
-  - open-source
-  - security
-  - AI
-check_size: "$1M-$20M"
-last_verified_investment:
-  date: 2025-07
-  company: "Fable Security"
-  round: "Series A"
-social:
-  twitter: "@ericabrescia"
-  linkedin: "linkedin.com/in/ebrescia"
-status: published
 last_researched: 2026-03-20
-tldr: "Erica Brescia is a Managing Director at Redpoint Ventures since 2021, bringing 20 years in open-source, infrastructure, and developer tools. Former COO of GitHub; co-founded Bitnami (YC 2013, acquired by VMware), a capital-efficient app-packaging startup. Her 10 verified investments focus on DevTools, Infrastructure, AI, Security, and open-source. Board member of Linux Foundation (200+ projects). Emphasizes community-driven adoption at infrastructure layer; Redpoint checks range $1-20M."
+last_verified_investment:
+  company: Fable Security
+  date: 2025-07
+  round: Series A
+location: San Francisco, CA
+name: Erica Brescia
+role: Managing Director
+sector_focus:
+- developer-tools
+- infrastructure
+- open-source
+- security
+- ai
+slug: erica-brescia
+social:
+  linkedin: linkedin.com/in/ebrescia
+  twitter: '@ericabrescia'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Erica Brescia is a Managing Director at Redpoint Ventures since 2021, bringing
+  20 years in open-source, infrastructure, and developer tools. Former COO of GitHub;
+  co-founded Bitnami (YC 2013, acquired by VMware), a capital-efficient app-packaging
+  startup. Her 10 verified investments focus on DevTools, Infrastructure, AI, Security,
+  and open-source. Board member of Linux Foundation (200+ projects). Emphasizes community-driven
+  adoption at infrastructure layer; Redpoint checks range $1-20M.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,33 @@
 ---
-name: "Palmer Luckey"
-slug: palmer-luckey
-type: individual
+check_size: Angel
 firm: anduril-industries
-role: "Founder & CTO"
-location: "Costa Mesa, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [defense-tech, VR-AR, robotics, energy, autonomy]
-check_size: "Angel"
-last_verified_investment:
-  date: 2026-03-10
-  company: "Packsmith"
-  round: "Seed"
-social:
-  twitter: "@PalmerLuckey"
-  linkedin: "linkedin.com/in/palmer-luckey-21a16959"
-status: published
 last_researched: 2026-03-20
-tldr: "Oculus founder and Anduril CEO/CTO backing VR and deep-tech startups as secondary activity. Founder-first investor ($30B+ valued Anduril); angel checks $5K-$50K in robotics, defense tech, and energy; shaped modern defense-tech ecosystem."
+last_verified_investment:
+  company: Packsmith
+  date: 2026-03-10
+  round: Seed
+location: Costa Mesa, CA
+name: Palmer Luckey
+role: Founder & CTO
+sector_focus:
+- defense-tech
+- vr-ar
+- robotics
+- energy
+- autonomy
+slug: palmer-luckey
+social:
+  linkedin: linkedin.com/in/palmer-luckey-21a16959
+  twitter: '@PalmerLuckey'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Oculus founder and Anduril CEO/CTO backing VR and deep-tech startups as secondary
+  activity. Founder-first investor ($30B+ valued Anduril); angel checks $5K-$50K in
+  robotics, defense tech, and energy; shaped modern defense-tech ecosystem.
+type: individual
 ---
 
 ## Background

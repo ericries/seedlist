@@ -1,23 +1,34 @@
 ---
-name: "Tom Loverro"
-slug: tom-loverro
-tldr: "General Partner at Institutional Venture Partners (IVP, joined 2015, promoted to GP 2019, 7th GP). Growth/late-stage investor ($15M-$100M) in enterprise software, fintech, developer tools, security, AI. Recent investment in LangChain Series B. Focuses on high-growth consumer and enterprise companies. Menlo Park based. IVP founding partner."
-type: individual
+check_size: $15M-$100M
 firm: ivp
-role: "General Partner"
-location: "Menlo Park, CA"
-stage_focus: [growth, late-stage]
-sector_focus: [enterprise-software, fintech, developer-tools, security, AI]
-check_size: "$15M-$100M"
-last_verified_investment:
-  date: 2025-10
-  company: "LangChain"
-  round: "Series B"
-social:
-  twitter: "@tomloverro"
-  linkedin: "linkedin.com/in/tomloverro"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: LangChain
+  date: 2025-10
+  round: Series B
+location: Menlo Park, CA
+name: Tom Loverro
+role: General Partner
+sector_focus:
+- enterprise-software
+- fintech
+- developer-tools
+- security
+- ai
+slug: tom-loverro
+social:
+  linkedin: linkedin.com/in/tomloverro
+  twitter: '@tomloverro'
+stage_focus:
+- growth
+- late-stage
+status: published
+tldr: General Partner at Institutional Venture Partners (IVP, joined 2015, promoted
+  to GP 2019, 7th GP). Growth/late-stage investor ($15M-$100M) in enterprise software,
+  fintech, developer tools, security, AI. Recent investment in LangChain Series B.
+  Focuses on high-growth consumer and enterprise companies. Menlo Park based. IVP
+  founding partner.
+type: individual
 ---
 
 ## Background

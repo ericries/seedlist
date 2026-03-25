@@ -1,21 +1,31 @@
 ---
-name: "Eric Schmidt"
-slug: eric-schmidt
-type: individual
+check_size: $1M-$15M (Innovation Endeavors); variable as angel/Hillspire
 firm: innovation-endeavors
-role: "Founding Partner"
-location: "Palo Alto, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [AI, quantum-computing, deep-tech, climate, defense-tech, enterprise-software, robotics]
-check_size: "$1M-$15M (Innovation Endeavors); variable as angel/Hillspire"
-last_verified_investment:
-  date: 2026-02-05
-  company: "Goodfire"
-  round: "Series B"
-social:
-  linkedin: "linkedin.com/in/eric-e-schmidt"
-status: published
 last_researched: 2026-03-25
+last_verified_investment:
+  company: Goodfire
+  date: 2026-02-05
+  round: Series B
+location: Palo Alto, CA
+name: Eric Schmidt
+role: Founding Partner
+sector_focus:
+- ai
+- quantum-computing
+- deep-tech
+- climate
+- defense-tech
+- enterprise-software
+- robotics
+slug: eric-schmidt
+social:
+  linkedin: linkedin.com/in/eric-e-schmidt
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+type: individual
 ---
 
 ## Background

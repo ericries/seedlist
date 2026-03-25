@@ -1,23 +1,35 @@
 ---
-name: "Navin Chaddha"
-slug: navin-chaddha
-tldr: "Mayfield Fund Managing Partner (50+ years, $2.5B AUM); three-time founder (VXtreme acquired by Microsoft). Focus on inception/seed; 50% enterprise/infrastructure (HashiCorp, Marketo, Outreach). Known for 'people-first' thesis and 'painkillers sell, vitamins don't' product philosophy. 18 IPOs and 29 acquisitions from 60+ investments."
-type: individual
+check_size: $500K-$15M
 firm: mayfield-fund
-role: "Managing Partner"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [AI, enterprise, semiconductors, cloud, SaaS, consumer]
-check_size: "$500K-$15M"
-last_verified_investment:
-  date: 2024-09
-  company: "AI Garage (Mayfield initiative)"
-  round: "Seed/Inception"
-social:
-  twitter: "@navinchaddha"
-  linkedin: "linkedin.com/in/navinchaddha"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: AI Garage (Mayfield initiative)
+  date: 2024-09
+  round: Seed/Inception
+location: Menlo Park, CA
+name: Navin Chaddha
+role: Managing Partner
+sector_focus:
+- ai
+- enterprise
+- semiconductors
+- cloud
+- saas
+- consumer
+slug: navin-chaddha
+social:
+  linkedin: linkedin.com/in/navinchaddha
+  twitter: '@navinchaddha'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Mayfield Fund Managing Partner (50+ years, $2.5B AUM); three-time founder (VXtreme
+  acquired by Microsoft). Focus on inception/seed; 50% enterprise/infrastructure (HashiCorp,
+  Marketo, Outreach). Known for 'people-first' thesis and 'painkillers sell, vitamins
+  don't' product philosophy. 18 IPOs and 29 acquisitions from 60+ investments.
+type: individual
 ---
 
 ## Background

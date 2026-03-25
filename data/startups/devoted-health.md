@@ -37,6 +37,9 @@ investors:
 - round: ~2017
   slug: evan-williams
   year: 2017
+- round: Seed/Series A
+  slug: james-joaquin
+  year: 2017
 last_researched: 2026-03-24
 location: Waltham, Massachusetts
 name: Devoted Health

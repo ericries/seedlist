@@ -1,23 +1,36 @@
 ---
-name: "Rick Yang"
-slug: rick-yang
-type: individual
+check_size: $2M-$50M
 firm: nea
-role: "General Partner, Head of Technology"
-location: "San Francisco Bay Area, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [fintech, consumer, gaming-esports, AI, digital-media]
-check_size: "$2M-$50M"
-last_verified_investment:
-  date: 2025-05
-  company: "Samaya AI"
-  round: "Series A"
-social:
-  twitter: "@rickyang"
-  linkedin: "linkedin.com/in/rickcyang"
-status: published
 last_researched: 2026-03-24
-tldr: "General Partner & Head of Technology at NEA; promoted Partner 2015 (Plaid investor). Invests seed-to-growth ($2M-$50M) with dual focus: fintech/infrastructure (32% of portfolio, including Plaid), gaming/esports (21%). Recent AI pivot with Samaya AI, Genmo, Kira. Multistage investor at mega-fund with $6.2B under management. Co-heads NEA's seed practice."
+last_verified_investment:
+  company: Samaya AI
+  date: 2025-05
+  round: Series A
+location: San Francisco Bay Area, CA
+name: Rick Yang
+role: General Partner, Head of Technology
+sector_focus:
+- fintech
+- consumer
+- gaming-esports
+- ai
+- digital-media
+slug: rick-yang
+social:
+  linkedin: linkedin.com/in/rickcyang
+  twitter: '@rickyang'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'General Partner & Head of Technology at NEA; promoted Partner 2015 (Plaid investor).
+  Invests seed-to-growth ($2M-$50M) with dual focus: fintech/infrastructure (32% of
+  portfolio, including Plaid), gaming/esports (21%). Recent AI pivot with Samaya AI,
+  Genmo, Kira. Multistage investor at mega-fund with $6.2B under management. Co-heads
+  NEA''s seed practice.'
+type: individual
 ---
 
 ## Background

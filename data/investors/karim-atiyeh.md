@@ -1,23 +1,33 @@
 ---
-name: "Karim Atiyeh"
-slug: karim-atiyeh
-type: individual
+check_size: Angel
 firm: ramp
-role: "Co-Founder & CTO"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [fintech, enterprise-software, AI, data-infrastructure, logistics]
-check_size: "Angel"
-last_verified_investment:
-  date: 2026-02-10
-  company: "Matia"
-  round: "Series A"
-social:
-  twitter: "@karimatiyeh"
-  linkedin: "linkedin.com/in/karimatiyeh"
-status: published
 last_researched: 2026-03-22
-tldr: "Ramp co-founder and CTO making seed/Series A angel investments in fintech, enterprise software, and AI. Lebanon-born; prior founder of Paribus (acquired by Capital One); youngest Arab American billionaire ($1.3B net worth, 2025)."
+last_verified_investment:
+  company: Matia
+  date: 2026-02-10
+  round: Series A
+location: New York, NY
+name: Karim Atiyeh
+role: Co-Founder & CTO
+sector_focus:
+- fintech
+- enterprise-software
+- ai
+- data-infrastructure
+- logistics
+slug: karim-atiyeh
+social:
+  linkedin: linkedin.com/in/karimatiyeh
+  twitter: '@karimatiyeh'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Ramp co-founder and CTO making seed/Series A angel investments in fintech, enterprise
+  software, and AI. Lebanon-born; prior founder of Paribus (acquired by Capital One);
+  youngest Arab American billionaire ($1.3B net worth, 2025).
+type: individual
 ---
 
 ## Background

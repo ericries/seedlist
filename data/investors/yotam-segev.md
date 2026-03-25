@@ -1,22 +1,30 @@
 ---
-name: "Yotam Segev"
-slug: yotam-segev
-tldr: "Co-founder & CEO of Cyera ($9B valuation, January 2026). Hebrew University BS computer science + physics. Israeli Defense Forces Talpiot Leadership Academy Senior Class Commander; Unit 8200 Cyber Team Lead (2015-2016), Head of Cyber Department (2018-2020). Co-founded Cyera with Tamar Bar-Ilan. Angel investor in cybersecurity/data security (Daylight Security). Based New York / Tel Aviv."
-type: individual
+check_size: Unknown (angel)
 firm: cyera
-role: "Co-Founder & CEO"
-location: "New York, NY / Tel Aviv, Israel"
-stage_focus: [seed]
-sector_focus: [cybersecurity, data-security, AI-security]
-check_size: "Unknown (angel)"
-last_verified_investment:
-  date: 2026-02-02
-  company: "Daylight Security"
-  round: "Seed"
-social:
-  linkedin: "linkedin.com/in/yotam-segev"
-status: published
 last_researched: 2026-03-22
+last_verified_investment:
+  company: Daylight Security
+  date: 2026-02-02
+  round: Seed
+location: New York, NY / Tel Aviv, Israel
+name: Yotam Segev
+role: Co-Founder & CEO
+sector_focus:
+- cybersecurity
+- data-security
+- ai-security
+slug: yotam-segev
+social:
+  linkedin: linkedin.com/in/yotam-segev
+stage_focus:
+- seed
+status: published
+tldr: Co-founder & CEO of Cyera ($9B valuation, January 2026). Hebrew University BS
+  computer science + physics. Israeli Defense Forces Talpiot Leadership Academy Senior
+  Class Commander; Unit 8200 Cyber Team Lead (2015-2016), Head of Cyber Department
+  (2018-2020). Co-founded Cyera with Tamar Bar-Ilan. Angel investor in cybersecurity/data
+  security (Daylight Security). Based New York / Tel Aviv.
+type: individual
 ---
 
 ## Background

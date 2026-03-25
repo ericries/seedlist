@@ -1,23 +1,35 @@
 ---
-name: "Neeraj Agrawal"
-slug: neeraj-agrawal
-tldr: "Battery Ventures GP since 2000; creator of 'T2D3' SaaS growth framework and 'F2C' founder-to-CEO transition framework. Portfolio 56% enterprise SaaS (Braze, Amplitude, Marketo, Pendo), 18% infrastructure. Forbes Midas List #9 (2019); known as 'busiest man in VC.' Guides founders from seed to IPO; emphasizes talent scarcity. $250K-$60M checks."
-type: individual
+check_size: $250K-$60M
 firm: battery-ventures
-role: "General Partner"
-location: "Boston, MA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise-software, SaaS, infrastructure, application-software]
-check_size: "$250K-$60M"
-last_verified_investment:
-  date: 2025
-  company: "Lindy"
-  round: "Growth"
-social:
-  twitter: "@NeerajVC"
-  linkedin: "linkedin.com/in/neerajagrawal2000"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Lindy
+  date: 2025
+  round: Growth
+location: Boston, MA
+name: Neeraj Agrawal
+role: General Partner
+sector_focus:
+- enterprise-software
+- saas
+- infrastructure
+- application-software
+slug: neeraj-agrawal
+social:
+  linkedin: linkedin.com/in/neerajagrawal2000
+  twitter: '@NeerajVC'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Battery Ventures GP since 2000; creator of ''T2D3'' SaaS growth framework and
+  ''F2C'' founder-to-CEO transition framework. Portfolio 56% enterprise SaaS (Braze,
+  Amplitude, Marketo, Pendo), 18% infrastructure. Forbes Midas List #9 (2019); known
+  as ''busiest man in VC.'' Guides founders from seed to IPO; emphasizes talent scarcity.
+  $250K-$60M checks.'
+type: individual
 ---
 
 ## Background

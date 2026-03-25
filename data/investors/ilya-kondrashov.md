@@ -1,23 +1,35 @@
 ---
-name: "Ilya Kondrashov"
-slug: ilya-kondrashov
-tldr: "CEO of QuantumLight ($250M fund) co-founded with Revolut founder Nik Storonsky. Data-driven growth investor at Series A/B with AI-driven deal screening across 700K+ venture companies. Portfolio is 39% fintech, 22% AI infrastructure, globally distributed (US 33%, Europe 28%, emerging markets 17%). Fund II targeting $400M at 30% net IRR; invests ~$5M average with strong tier-1 co-investors."
-type: individual
+check_size: $3M-$50M
 firm: quantumlight
-role: "CEO & Co-Founder"
-location: "London, United Kingdom"
-stage_focus: [series-a, series-b, growth]
-sector_focus: [fintech, AI, healthtech, web3, SaaS]
-check_size: "$3M-$50M"
-last_verified_investment:
-  date: 2025-12-18
-  company: "Fuse Energy"
-  round: "Series B"
-social:
-  twitter: "@iskondrash"
-  linkedin: "linkedin.com/in/iskondrash"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Fuse Energy
+  date: 2025-12-18
+  round: Series B
+location: London, United Kingdom
+name: Ilya Kondrashov
+role: CEO & Co-Founder
+sector_focus:
+- fintech
+- ai
+- healthtech
+- web3
+- saas
+slug: ilya-kondrashov
+social:
+  linkedin: linkedin.com/in/iskondrash
+  twitter: '@iskondrash'
+stage_focus:
+- series-a
+- series-b
+- growth
+status: published
+tldr: CEO of QuantumLight ($250M fund) co-founded with Revolut founder Nik Storonsky.
+  Data-driven growth investor at Series A/B with AI-driven deal screening across 700K+
+  venture companies. Portfolio is 39% fintech, 22% AI infrastructure, globally distributed
+  (US 33%, Europe 28%, emerging markets 17%). Fund II targeting $400M at 30% net IRR;
+  invests ~$5M average with strong tier-1 co-investors.
+type: individual
 ---
 
 ## Background

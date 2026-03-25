@@ -1,23 +1,33 @@
 ---
-name: "Paul Copplestone"
-slug: paul-copplestone
-tldr: "Supabase CEO/co-founder ($5B valuation, 4M developers); angel investor in ~50 companies. 58% portfolio in developer tools/infrastructure, 38% open-source. Values ecosystem-building and founder-operator co-investing. Thesis: AI expanding developer tools TAM. Focuses on product over investor appeal. Seed-stage angel checks."
-type: individual
+check_size: Angel (undisclosed)
 firm: null
-role: "Angel Investor / CEO & Co-Founder, Supabase"
-location: "Singapore"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [developer-tools, open-source, infrastructure, AI]
-check_size: "Angel (undisclosed)"
-last_verified_investment:
-  date: 2026-03-10
-  company: "AgentMail"
-  round: "Seed"
-social:
-  twitter: "@kiwicopple"
-  linkedin: "linkedin.com/in/paulcopplestone"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: AgentMail
+  date: 2026-03-10
+  round: Seed
+location: Singapore
+name: Paul Copplestone
+role: Angel Investor / CEO & Co-Founder, Supabase
+sector_focus:
+- developer-tools
+- open-source
+- infrastructure
+- ai
+slug: paul-copplestone
+social:
+  linkedin: linkedin.com/in/paulcopplestone
+  twitter: '@kiwicopple'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Supabase CEO/co-founder ($5B valuation, 4M developers); angel investor in ~50
+  companies. 58% portfolio in developer tools/infrastructure, 38% open-source. Values
+  ecosystem-building and founder-operator co-investing. Thesis: AI expanding developer
+  tools TAM. Focuses on product over investor appeal. Seed-stage angel checks.'
+type: individual
 ---
 
 ## Background

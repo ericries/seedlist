@@ -1,23 +1,36 @@
 ---
-name: "Raj Ganguly"
-slug: raj-ganguly
-type: individual
+check_size: $10M-$60M
 firm: b-capital-group
-role: "Co-Founder and Co-CEO"
-location: "Los Angeles, CA"
-stage_focus: [seed, series-a, series-b, series-c, growth]
-sector_focus: [enterprise, fintech, healthtech, AI, logistics, climate]
-check_size: "$10M-$60M"
-last_verified_investment:
-  date: 2025-02
-  company: "Apptronik"
-  round: "Series A (extended)"
-social:
-  twitter: "@rajganguly_"
-  linkedin: "linkedin.com/in/rajganguly/"
-status: published
 last_researched: 2026-03-16
-tldr: "B Capital co-founder/co-CEO backing Series B+ enterprise and healthtech globally with focus on digitizing large traditional industries. Strong in Asia-Pacific and Latin America; BCG partnership provides enterprise network advantage to portfolio."
+last_verified_investment:
+  company: Apptronik
+  date: 2025-02
+  round: Series A (extended)
+location: Los Angeles, CA
+name: Raj Ganguly
+role: Co-Founder and Co-CEO
+sector_focus:
+- enterprise
+- fintech
+- healthtech
+- ai
+- logistics
+- climate
+slug: raj-ganguly
+social:
+  linkedin: linkedin.com/in/rajganguly/
+  twitter: '@rajganguly_'
+stage_focus:
+- seed
+- series-a
+- series-b
+- series-c
+- growth
+status: published
+tldr: B Capital co-founder/co-CEO backing Series B+ enterprise and healthtech globally
+  with focus on digitizing large traditional industries. Strong in Asia-Pacific and
+  Latin America; BCG partnership provides enterprise network advantage to portfolio.
+type: individual
 ---
 
 ## Background

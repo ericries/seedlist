@@ -14,7 +14,7 @@ sector_focus:
 - fintech
 - e-commerce
 - developer-tools
-- AI
+- ai
 - cybersecurity
 slug: neil-mehta
 social:

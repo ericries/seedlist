@@ -40,7 +40,7 @@ name: Oasis Security
 sector:
 - cybersecurity
 - identity
-- AI
+- ai
 - enterprise
 slug: oasis-security
 stage_latest: Series B

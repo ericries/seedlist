@@ -1,23 +1,35 @@
 ---
-name: "Todd Jackson"
-slug: todd-jackson
-tldr: "Partner at First Round Capital; ex-Google (Gmail 200M users), ex-Facebook (News Feed), ex-Dropbox (VP Product & Design through IPO). Co-founded Cover (Twitter acquisition 2014). Seed-stage investor ($100K-$12M, $3.5M target) with 38% of verified portfolio in AI/ML (Fal, Parallel, Lamini). Created Product-Market Fit (PMF) Method training 75+ founders. Seeks technical founders from big tech; focuses on founders with 'earned scars' from prior startups."
-type: individual
+check_size: $100K–$12M (target $3.5M)
 firm: first-round-capital
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed]
-sector_focus: [AI, developer-tools, SaaS, enterprise, health-tech, edtech]
-check_size: "$100K–$12M (target $3.5M)"
-last_verified_investment:
-  date: 2026-02
-  company: "Turnstile"
-  round: "Series A"
-social:
-  twitter: "@tjack"
-  linkedin: "linkedin.com/in/toddj0"
-status: published
 last_researched: 2026-03-23
+last_verified_investment:
+  company: Turnstile
+  date: 2026-02
+  round: Series A
+location: San Francisco, CA
+name: Todd Jackson
+role: Partner
+sector_focus:
+- ai
+- developer-tools
+- saas
+- enterprise
+- health-tech
+- edtech
+slug: todd-jackson
+social:
+  linkedin: linkedin.com/in/toddj0
+  twitter: '@tjack'
+stage_focus:
+- seed
+status: published
+tldr: Partner at First Round Capital; ex-Google (Gmail 200M users), ex-Facebook (News
+  Feed), ex-Dropbox (VP Product & Design through IPO). Co-founded Cover (Twitter acquisition
+  2014). Seed-stage investor ($100K-$12M, $3.5M target) with 38% of verified portfolio
+  in AI/ML (Fal, Parallel, Lamini). Created Product-Market Fit (PMF) Method training
+  75+ founders. Seeks technical founders from big tech; focuses on founders with 'earned
+  scars' from prior startups.
+type: individual
 ---
 
 ## Background

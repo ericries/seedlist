@@ -1,53 +1,53 @@
 ---
+firms:
+- round: Seed
+  slug: baseline-ventures
+  year: 2011
+- round: Series A
+  slug: baseline-ventures
+  year: 2013
+- round: Series A
+  slug: lightspeed-venture-partners
+  year: 2013
+- round: Series A
+  slug: western-technology-investment
+  year: 2013
+- round: Series B
+  slug: benchmark
+  year: 2013
+- round: Series C
+  slug: benchmark
+  year: 2014
+- round: Series C
+  slug: baseline-ventures
+  year: 2014
+founded: 2011
+founders:
+- name: Katrina Lake
+  role: Founder & CEO
+- name: Erin Morrison Flynn
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: steve-anderson
+  year: 2011
+- round: Series B
+  slug: bill-gurley
+  year: 2013
+last_researched: 2026-03-19
+location: San Francisco, CA
 name: Stitch Fix
+sector:
+- e-commerce
+- fashion
+- ai
 slug: stitch-fix
+stage_latest: IPO
+status: published
+status_company: active
+total_raised: $42M
 type: startup
 website: https://www.stitchfix.com
-location: San Francisco, CA
-founded: 2011
-status_company: active
-sector:
-  - e-commerce
-  - fashion
-  - AI
-stage_latest: IPO
-total_raised: "$42M"
-investors:
-  - slug: steve-anderson
-    round: Seed
-    year: 2011
-  - slug: bill-gurley
-    round: Series B
-    year: 2013
-firms:
-  - slug: baseline-ventures
-    round: Seed
-    year: 2011
-  - slug: baseline-ventures
-    round: Series A
-    year: 2013
-  - slug: lightspeed-venture-partners
-    round: Series A
-    year: 2013
-  - slug: western-technology-investment
-    round: Series A
-    year: 2013
-  - slug: benchmark
-    round: Series B
-    year: 2013
-  - slug: benchmark
-    round: Series C
-    year: 2014
-  - slug: baseline-ventures
-    round: Series C
-    year: 2014
-founders:
-  - name: Katrina Lake
-    role: Founder & CEO
-  - name: Erin Morrison Flynn
-    role: Co-Founder
-status: published
-last_researched: 2026-03-19
 ---
 
 ## About

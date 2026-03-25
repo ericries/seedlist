@@ -1,23 +1,37 @@
 ---
-name: "Tobi Lutke"
-slug: tobi-lutke
-tldr: "Shopify co-founder & CEO ($12.3B net worth). Prolific angel investor with 40+ investments at $5K-$50K checks across seed/Series A. Portfolio 29% AI (Perplexity, Granola, Sundial, Manifold Labs), 14% fintech (Neo Financial), 14% security. German-born, moved to Canada 2002 for future wife. Public advocate for Canadian tech: 'Go for gold.' CEO of the Year 2014; Meritorious Service Cross 2018. Shopify public 2015 with 40% voting through dual-class shares."
-type: individual
+check_size: $5K-$50K
 firm: independent
-role: "Co-Founder & CEO, Shopify"
-location: "Ottawa, Ontario, Canada"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [SaaS, AI, fintech, e-commerce, cybersecurity, developer-tools]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2025-07-28
-  company: "Manifold Labs"
-  round: "Series A"
-social:
-  twitter: "@tobi"
-  linkedin: "linkedin.com/in/tobiaslutke"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Manifold Labs
+  date: 2025-07-28
+  round: Series A
+location: Ottawa, Ontario, Canada
+name: Tobi Lutke
+role: Co-Founder & CEO, Shopify
+sector_focus:
+- saas
+- ai
+- fintech
+- e-commerce
+- cybersecurity
+- developer-tools
+slug: tobi-lutke
+social:
+  linkedin: linkedin.com/in/tobiaslutke
+  twitter: '@tobi'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Shopify co-founder & CEO ($12.3B net worth). Prolific angel investor with 40+
+  investments at $5K-$50K checks across seed/Series A. Portfolio 29% AI (Perplexity,
+  Granola, Sundial, Manifold Labs), 14% fintech (Neo Financial), 14% security. German-born,
+  moved to Canada 2002 for future wife. Public advocate for Canadian tech: ''Go for
+  gold.'' CEO of the Year 2014; Meritorious Service Cross 2018. Shopify public 2015
+  with 40% voting through dual-class shares.'
+type: individual
 ---
 
 ## Background

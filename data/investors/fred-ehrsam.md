@@ -1,23 +1,34 @@
 ---
-name: "Fred Ehrsam"
-slug: fred-ehrsam
-type: individual
+check_size: $1M-$100M+
 firm: paradigm
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [crypto, web3, DeFi, blockchain-infrastructure, AI]
-check_size: "$1M-$100M+"
-last_verified_investment:
-  date: 2024
-  company: "Paradigm Fund III"
-  round: "Fund ($850M)"
-social:
-  twitter: "@FEhrsam"
-  linkedin: "linkedin.com/in/fredehrsam"
-status: published
 last_researched: 2026-03-20
-tldr: "Paradigm co-founder and crypto GP investing $1M-$100M+ in DeFi protocols, blockchain infrastructure, and AI infrastructure. Research-driven fund with 80+ crypto portfolio companies managing $13B; also co-founder of Nudge, a neurotechnology startup."
+last_verified_investment:
+  company: Paradigm Fund III
+  date: 2024
+  round: Fund ($850M)
+location: San Francisco, CA
+name: Fred Ehrsam
+role: Co-Founder & General Partner
+sector_focus:
+- crypto
+- web3
+- defi
+- blockchain-infrastructure
+- ai
+slug: fred-ehrsam
+social:
+  linkedin: linkedin.com/in/fredehrsam
+  twitter: '@FEhrsam'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Paradigm co-founder and crypto GP investing $1M-$100M+ in DeFi protocols, blockchain
+  infrastructure, and AI infrastructure. Research-driven fund with 80+ crypto portfolio
+  companies managing $13B; also co-founder of Nudge, a neurotechnology startup.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,38 @@
 ---
-name: "Dan Morehead"
-slug: dan-morehead
-tldr: "Founder and CEO of Pantera Capital, a $5B blockchain-focused fund managing 265+ portfolio companies. 2025 deployment is 33.85% infrastructure, 17.82% consumer, 16.36% AI/robotics, with Series A-heavy investment (56.71% of 2025 deployment). Leads 85% of new investments, uses algorithmic analysis for decision-making, and has backed major exits including Coinbase, Circle (IPO 2025), and Bitstamp (Robinhood acquisition)."
-type: individual
+check_size: $1M-$100M+
 firm: pantera-capital
-role: "Founder & CEO"
-location: "San Francisco, CA / Puerto Rico"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [blockchain, crypto, defi, infrastructure, stablecoins, AI]
-check_size: "$1M-$100M+"
-last_verified_investment:
-  date: 2025
-  company: "Sahara AI"
-  round: "Series A"
-social:
-  twitter: "@dan_pantera"
-  linkedin: "linkedin.com/in/dmorehead"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Sahara AI
+  date: 2025
+  round: Series A
+location: San Francisco, CA / Puerto Rico
+name: Dan Morehead
+role: Founder & CEO
+sector_focus:
+- blockchain
+- crypto
+- defi
+- infrastructure
+- stablecoins
+- ai
+slug: dan-morehead
+social:
+  linkedin: linkedin.com/in/dmorehead
+  twitter: '@dan_pantera'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: Founder and CEO of Pantera Capital, a $5B blockchain-focused fund managing 265+
+  portfolio companies. 2025 deployment is 33.85% infrastructure, 17.82% consumer,
+  16.36% AI/robotics, with Series A-heavy investment (56.71% of 2025 deployment).
+  Leads 85% of new investments, uses algorithmic analysis for decision-making, and
+  has backed major exits including Coinbase, Circle (IPO 2025), and Bitstamp (Robinhood
+  acquisition).
+type: individual
 ---
 
 ## Background

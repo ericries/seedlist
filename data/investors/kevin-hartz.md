@@ -1,23 +1,34 @@
 ---
-name: "Kevin Hartz"
-slug: kevin-hartz
-tldr: "Eventbrite founder and Co-Founder of A* Capital investing pre-seed through Series A. Checks $100K-$10M across fintech, AI, marketplaces, consumer internet. Combines founder operating credibility with conviction in community and network-driven businesses."
-type: individual
+check_size: $100K-$10M
 firm: a-star-capital
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [fintech, AI, marketplaces, consumer-internet, developer-tools, deep-tech]
-check_size: "$100K-$10M"
-last_verified_investment:
-  date: 2025-08-20
-  company: "Vigil Labs"
-  round: "Seed"
-social:
-  twitter: "@kevinhartz"
-  linkedin: "linkedin.com/in/hartz"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Vigil Labs
+  date: 2025-08-20
+  round: Seed
+location: San Francisco, CA
+name: Kevin Hartz
+role: Co-Founder & General Partner
+sector_focus:
+- fintech
+- ai
+- marketplaces
+- consumer-internet
+- developer-tools
+- deep-tech
+slug: kevin-hartz
+social:
+  linkedin: linkedin.com/in/hartz
+  twitter: '@kevinhartz'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Eventbrite founder and Co-Founder of A* Capital investing pre-seed through Series
+  A. Checks $100K-$10M across fintech, AI, marketplaces, consumer internet. Combines
+  founder operating credibility with conviction in community and network-driven businesses.
+type: individual
 ---
 
 ## Background

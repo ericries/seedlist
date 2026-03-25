@@ -1,22 +1,35 @@
 ---
-name: "David Singer"
-slug: david-singer
-tldr: "Managing Partner of Maverick Ventures and serial founder (Affymetrix, Corcept Therapeutics, Genesoft all IPOs). Portfolio of 15 verified investments (of 100+ total) skews 67% healthcare/health tech, 20% enterprise software. Known for 12-year board tenure at One Medical (Amazon acquisition, $3.9B), primary care focus, and hands-on partnership approach. Named to Forbes Midas List 2023-2025."
-type: individual
+check_size: $1M-$20M
 firm: maverick-ventures
-role: "Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [healthcare, health-tech, digital-health, enterprise-software, AI, e-commerce]
-check_size: "$1M-$20M"
-last_verified_investment:
-  date: 2025
-  company: "Nourish"
-  round: "Series B"
-social:
-  linkedin: "linkedin.com/in/david-singer-bbab52"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: Nourish
+  date: 2025
+  round: Series B
+location: San Francisco, CA
+name: David Singer
+role: Managing Partner
+sector_focus:
+- healthcare
+- health-tech
+- digital-health
+- enterprise-software
+- ai
+- e-commerce
+slug: david-singer
+social:
+  linkedin: linkedin.com/in/david-singer-bbab52
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Managing Partner of Maverick Ventures and serial founder (Affymetrix, Corcept
+  Therapeutics, Genesoft all IPOs). Portfolio of 15 verified investments (of 100+
+  total) skews 67% healthcare/health tech, 20% enterprise software. Known for 12-year
+  board tenure at One Medical (Amazon acquisition, $3.9B), primary care focus, and
+  hands-on partnership approach. Named to Forbes Midas List 2023-2025.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,34 @@
 ---
-name: "Olivier Pomel"
-slug: olivier-pomel
-tldr: "Datadog co-founder/CEO with 42-95 total angel investments. Focus: 38% developer tools, 24% AI/ML, 19% enterprise (Hugging Face, Replit, Dataiku). Seed-stage investor backing Datadog ecosystem companies. Notable: 8 unicorns including Miro ($17.5B), Hugging Face ($2B+), Aiven ($3.2B). Operator-investor backing founders building tools he'd use."
-type: individual
+check_size: Undisclosed
 firm: datadog
-role: "Co-Founder & CEO"
-location: "New York, NY"
-stage_focus: [seed, series-a]
-sector_focus: [developer-tools, infrastructure, AI, security, enterprise]
-check_size: "Undisclosed"
-last_verified_investment:
-  date: 2026-02-10
-  company: "Entire"
-  round: "Seed"
-social:
-  twitter: "@olivierpomel"
-  linkedin: "linkedin.com/in/olivierpomel"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Entire
+  date: 2026-02-10
+  round: Seed
+location: New York, NY
+name: Olivier Pomel
+role: Co-Founder & CEO
+sector_focus:
+- developer-tools
+- infrastructure
+- ai
+- security
+- enterprise
+slug: olivier-pomel
+social:
+  linkedin: linkedin.com/in/olivierpomel
+  twitter: '@olivierpomel'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: 'Datadog co-founder/CEO with 42-95 total angel investments. Focus: 38% developer
+  tools, 24% AI/ML, 19% enterprise (Hugging Face, Replit, Dataiku). Seed-stage investor
+  backing Datadog ecosystem companies. Notable: 8 unicorns including Miro ($17.5B),
+  Hugging Face ($2B+), Aiven ($3.2B). Operator-investor backing founders building
+  tools he''d use.'
+type: individual
 ---
 
 ## Background

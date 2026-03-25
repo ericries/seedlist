@@ -1,23 +1,34 @@
 ---
-name: "Adam D'Angelo"
-slug: adam-dangelo
-tldr: "CEO of Quora and former CTO of Facebook who angel invests exclusively in AI, with 50% of his 22 verified investments in AI/ML infrastructure and applications. Focuses on seed stage with $10K-$500K checks in San Francisco. Notable investments include Scale AI, Pika, Cerebras Systems, and Replit."
-type: individual
+check_size: $10K-$500K
 firm: quora
-role: "Co-Founder & CEO"
-location: "Palo Alto, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [AI, consumer-internet, developer-tools, fintech, enterprise]
-check_size: "$10K-$500K"
-last_verified_investment:
-  date: 2025-03-16
-  company: "Town"
-  round: "Seed"
-social:
-  twitter: "@adamdangelo"
-  linkedin: "linkedin.com/in/dangelo"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Town
+  date: 2025-03-16
+  round: Seed
+location: Palo Alto, CA
+name: Adam D'Angelo
+role: Co-Founder & CEO
+sector_focus:
+- ai
+- consumer-internet
+- developer-tools
+- fintech
+- enterprise
+slug: adam-dangelo
+social:
+  linkedin: linkedin.com/in/dangelo
+  twitter: '@adamdangelo'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: CEO of Quora and former CTO of Facebook who angel invests exclusively in AI,
+  with 50% of his 22 verified investments in AI/ML infrastructure and applications.
+  Focuses on seed stage with $10K-$500K checks in San Francisco. Notable investments
+  include Scale AI, Pika, Cerebras Systems, and Replit.
+type: individual
 ---
 
 ## Background

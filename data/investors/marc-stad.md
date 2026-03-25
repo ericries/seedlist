@@ -1,22 +1,31 @@
 ---
-name: "Marc Stad"
-slug: marc-stad
-type: individual
+check_size: $50M-$500M+
 firm: dragoneer
-role: "Founder & Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [growth, late-stage]
-sector_focus: [software, fintech, consumer-internet, AI, healthcare-tech]
-check_size: "$50M-$500M+"
-last_verified_investment:
-  date: 2026-02-12
-  company: "Anthropic"
-  round: "Series G"
-social:
-  linkedin: "linkedin.com/in/marc-stad"
-status: published
 last_researched: 2026-03-24
-tldr: "Dragoneer founder managing $25B+ as a crossover investor in pre-IPO tech at massive scale. Known for creative deal structures and conviction on durable moats; led Anthropic's $30B Series G."
+last_verified_investment:
+  company: Anthropic
+  date: 2026-02-12
+  round: Series G
+location: San Francisco, CA
+name: Marc Stad
+role: Founder & Managing Partner
+sector_focus:
+- software
+- fintech
+- consumer-internet
+- ai
+- healthcare-tech
+slug: marc-stad
+social:
+  linkedin: linkedin.com/in/marc-stad
+stage_focus:
+- growth
+- late-stage
+status: published
+tldr: Dragoneer founder managing $25B+ as a crossover investor in pre-IPO tech at
+  massive scale. Known for creative deal structures and conviction on durable moats;
+  led Anthropic's $30B Series G.
+type: individual
 ---
 
 ## Background

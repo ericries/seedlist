@@ -4386,7 +4386,7 @@ queue:
 - name: Venrock
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: cloudflare
 - name: Craft Ventures
@@ -5542,28 +5542,28 @@ queue:
 - name: Albert Wenger
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Union Square Ventures
   discovered_from: union-square-ventures
 - name: Brad Greiwe
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Fifth Wall
   discovered_from: brendan-wallace
 - name: James Joaquin
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Obvious Ventures
   discovered_from: evan-williams
 - name: Adrian Fenty
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: MaC Venture Capital
   discovered_from: marlon-nichols
@@ -5595,7 +5595,7 @@ queue:
 - name: Harry Nelis
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Accel
   discovered_from: sonali-de-rycker
@@ -6655,14 +6655,14 @@ queue:
 - name: Dror Berman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Innovation Endeavors
   discovered_from: eric-schmidt
 - name: Tom Preston-Werner
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: matt-mullenweg
 - name: Kima Ventures
@@ -6702,3 +6702,69 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: dennis-crowley
+- name: Bryan Roberts
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Venrock
+  discovered_from: venrock
+- name: Brian Ascher
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Venrock
+  discovered_from: venrock
+- name: Nick Beim
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Venrock
+  discovered_from: venrock
+- name: Ethan Batraski
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Venrock
+  discovered_from: venrock
+- name: Vishal Vasishth
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Obvious Ventures
+  discovered_from: james-joaquin
+- name: David Pakman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CoinFund
+  discovered_from: venrock
+- name: 83North
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-nelis
+- name: Prelude Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: james-joaquin
+- name: Stoke Space
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adrian-fenty
+- name: Celonis
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-nelis

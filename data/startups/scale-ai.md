@@ -113,7 +113,7 @@ last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI
 sector:
-- AI
+- ai
 - data-infrastructure
 - enterprise
 slug: scale-ai

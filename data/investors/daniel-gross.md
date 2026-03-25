@@ -1,23 +1,35 @@
 ---
-name: "Daniel Gross"
-slug: daniel-gross
-tldr: "Co-Founder of NFDG ($1.1B AI-focused fund), Pioneer accelerator, and Safe Superintelligence (departed June 2025). Portfolio of 18 verified investments is 50% AI/ML, 22% developer tools, with major bets in Perplexity, ElevenLabs, and CoreWeave. Known for deploying Andromeda Cluster (4,000+ GPUs) to portfolio companies and backing platform infrastructure like GitHub and Figma."
-type: individual
+check_size: $1M-$100M (via NFDG); angel checks vary
 firm: nfdg
-role: "Co-Founder"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a, growth]
-sector_focus: [AI, developer-tools, infrastructure, fintech]
-check_size: "$1M-$100M (via NFDG); angel checks vary"
-last_verified_investment:
-  date: 2025-02
-  company: "Pulse"
-  round: "Seed"
-social:
-  twitter: "@danielgross"
-  linkedin: "linkedin.com/in/danielgross"
-status: published
 last_researched: 2026-03-19
+last_verified_investment:
+  company: Pulse
+  date: 2025-02
+  round: Seed
+location: San Francisco, CA
+name: Daniel Gross
+role: Co-Founder
+sector_focus:
+- ai
+- developer-tools
+- infrastructure
+- fintech
+slug: daniel-gross
+social:
+  linkedin: linkedin.com/in/danielgross
+  twitter: '@danielgross'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- growth
+status: published
+tldr: Co-Founder of NFDG ($1.1B AI-focused fund), Pioneer accelerator, and Safe Superintelligence
+  (departed June 2025). Portfolio of 18 verified investments is 50% AI/ML, 22% developer
+  tools, with major bets in Perplexity, ElevenLabs, and CoreWeave. Known for deploying
+  Andromeda Cluster (4,000+ GPUs) to portfolio companies and backing platform infrastructure
+  like GitHub and Figma.
+type: individual
 ---
 
 ## Background

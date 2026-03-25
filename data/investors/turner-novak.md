@@ -1,24 +1,39 @@
 ---
-name: "Turner Novak"
-slug: turner-novak
-tldr: "Founder of Banana Capital (Ann Arbor, MI), early-stage VC (pre-seed/seed, $25K-$300K checks). Built 250K+ followers through Twitter investment memos and meme content. Philosophy: 'resilient, obsessed founders with chip on shoulder.' First/largest investor in 78% of Fund II. 55+ companies backed. Ex-Gelt VC ('Chief Meme Officer'). Sought venture capital path unconventionally via Twitter visibility. Invests across consumer, fintech, gaming, SaaS, healthtech."
-type: individual
+check_size: $25K-$300K
 firm: banana-capital
-role: "Founder & General Partner"
-location: "Ann Arbor, MI"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [consumer, fintech, gaming, media, developer-tools, SaaS, health]
-check_size: "$25K-$300K"
-last_verified_investment:
-  date: ~2022
-  company: "Chainguard"
-  round: "Seed"
-social:
-  twitter: "@TurnerNovak"
-  linkedin: "linkedin.com/in/turnernovak"
-  newsletter: "thespl.it"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Chainguard
+  date: ~2022
+  round: Seed
+location: Ann Arbor, MI
+name: Turner Novak
+role: Founder & General Partner
+sector_focus:
+- consumer
+- fintech
+- gaming
+- media
+- developer-tools
+- saas
+- health
+slug: turner-novak
+social:
+  linkedin: linkedin.com/in/turnernovak
+  newsletter: thespl.it
+  twitter: '@TurnerNovak'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Founder of Banana Capital (Ann Arbor, MI), early-stage VC (pre-seed/seed, $25K-$300K
+  checks). Built 250K+ followers through Twitter investment memos and meme content.
+  Philosophy: ''resilient, obsessed founders with chip on shoulder.'' First/largest
+  investor in 78% of Fund II. 55+ companies backed. Ex-Gelt VC (''Chief Meme Officer'').
+  Sought venture capital path unconventionally via Twitter visibility. Invests across
+  consumer, fintech, gaming, SaaS, healthtech.'
+type: individual
 ---
 
 ## Background

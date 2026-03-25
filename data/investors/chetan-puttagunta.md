@@ -1,23 +1,36 @@
 ---
-name: "Chetan Puttagunta"
-slug: chetan-puttagunta
-type: individual
+check_size: $1M-$15M
 firm: benchmark
-role: "General Partner"
-location: "San Francisco Bay Area, CA"
-stage_focus: [seed, series-a]
-sector_focus: [enterprise-software, developer-tools, open-source, AI, infrastructure, fintech]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2025-04-25
-  company: "Reducto"
-  round: "Series A"
-social:
-  twitter: "@chetanp"
-  linkedin: "linkedin.com/in/chetanputtagunta"
-status: published
 last_researched: 2026-03-17
-tldr: "Chetan Puttagunta is a General Partner at Benchmark since 2018, having led investments in MongoDB and MuleSoft (Salesforce acquisition for $6.5B) while at NEA. His focus: enabling infrastructure and developer tools. Vocal advocate for open-source business models and open-weights AI. Ranked #74 on 2024 Forbes Midas List. Chairs Elastic board. Prioritizes founder quality over valuation and push back against metrics-driven obsession in early-stage companies."
+last_verified_investment:
+  company: Reducto
+  date: 2025-04-25
+  round: Series A
+location: San Francisco Bay Area, CA
+name: Chetan Puttagunta
+role: General Partner
+sector_focus:
+- enterprise-software
+- developer-tools
+- open-source
+- ai
+- infrastructure
+- fintech
+slug: chetan-puttagunta
+social:
+  linkedin: linkedin.com/in/chetanputtagunta
+  twitter: '@chetanp'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: 'Chetan Puttagunta is a General Partner at Benchmark since 2018, having led
+  investments in MongoDB and MuleSoft (Salesforce acquisition for $6.5B) while at
+  NEA. His focus: enabling infrastructure and developer tools. Vocal advocate for
+  open-source business models and open-weights AI. Ranked #74 on 2024 Forbes Midas
+  List. Chairs Elastic board. Prioritizes founder quality over valuation and push
+  back against metrics-driven obsession in early-stage companies.'
+type: individual
 ---
 
 ## Background

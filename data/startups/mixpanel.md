@@ -43,7 +43,7 @@ name: Mixpanel
 sector:
 - analytics
 - developer-tools
-- SaaS
+- saas
 slug: mixpanel
 stage_latest: Series C
 status: published

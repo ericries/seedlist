@@ -1,26 +1,30 @@
 ---
-name: "Fundamental"
-slug: fundamental
-type: startup
-website: "https://fundamental.ai"
-location: "United States"
-founded: 2024
-status_company: active
-sector: [AI, data-infrastructure, enterprise, big-data]
-stage_latest: "Series A"
-total_raised: "$255M"
-investors: []
 firms:
-  - slug: battery-ventures
-    round: series-a
-    year: 2026
+- round: series-a
+  slug: battery-ventures
+  year: 2026
+founded: 2024
 founders:
-  - name: "Jeremy Fraenkel"
-    role: "CEO & Co-Founder"
-  - name: "Gabriel Suissa"
-    role: "Co-Founder"
-status: published
+- name: Jeremy Fraenkel
+  role: CEO & Co-Founder
+- name: Gabriel Suissa
+  role: Co-Founder
+investors: []
 last_researched: 2026-03-24
+location: United States
+name: Fundamental
+sector:
+- ai
+- data-infrastructure
+- enterprise
+- big-data
+slug: fundamental
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $255M
+type: startup
+website: https://fundamental.ai
 ---
 
 ## About

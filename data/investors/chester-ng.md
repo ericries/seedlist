@@ -1,23 +1,36 @@
 ---
-name: "Chester Ng"
-slug: chester-ng
-type: individual
+check_size: $200K-$2M
 firm: atomic
-role: "General Partner"
-location: "Miami, FL"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [consumer, enterprise, healthcare, energy, AI]
-check_size: "$200K-$2M"
-last_verified_investment:
-  date: 2024
-  company: "Exowatt"
-  round: "Series A"
-social:
-  twitter: "@chest"
-  linkedin: "linkedin.com/in/chest"
-status: published
 last_researched: 2026-03-20
-tldr: "Chester Ng is a General Partner at Atomic, a venture studio that founds and funds companies from scratch (co-founder model). His 18 verified Atomic portfolio companies span healthcare (22%), proptech (17%), AI/ML (17%), and e-commerce (11%). Serial entrepreneur who built SweetLabs (backed by Bessemer, GV, Hoffman) and worked at DivX (IPO→$1B peak market cap). Believes 'downturns are the best times to start companies,' reflecting Atomic's counter-cyclical studio approach."
+last_verified_investment:
+  company: Exowatt
+  date: 2024
+  round: Series A
+location: Miami, FL
+name: Chester Ng
+role: General Partner
+sector_focus:
+- consumer
+- enterprise
+- healthcare
+- energy
+- ai
+slug: chester-ng
+social:
+  linkedin: linkedin.com/in/chest
+  twitter: '@chest'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Chester Ng is a General Partner at Atomic, a venture studio that founds and
+  funds companies from scratch (co-founder model). His 18 verified Atomic portfolio
+  companies span healthcare (22%), proptech (17%), AI/ML (17%), and e-commerce (11%).
+  Serial entrepreneur who built SweetLabs (backed by Bessemer, GV, Hoffman) and worked
+  at DivX (IPO→$1B peak market cap). Believes 'downturns are the best times to start
+  companies,' reflecting Atomic's counter-cyclical studio approach.
+type: individual
 ---
 
 ## Background

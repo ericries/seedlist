@@ -1,46 +1,49 @@
 ---
-name: "Armorblox"
-slug: armorblox
-type: startup
-website: "https://www.armorblox.com"
-location: "Sunnyvale, California"
-founded: 2017
-status_company: acquired
-acquired_by: "Cisco"
-sector: [cybersecurity, AI, enterprise]
-stage_latest: "Series B"
-total_raised: "$46.5M"
-investors:
-  - slug: ron-conway
-    round: seed
-    year: 2019
+acquired_by: Cisco
 firms:
-  - slug: general-catalyst
-    round: series-a
-    year: 2019
-  - slug: sv-angel
-    round: series-a
-    year: 2019
-  - slug: next47
-    round: series-b
-    year: 2021
-  - slug: polaris-partners
-    round: series-b
-    year: 2021
-  - slug: unusual-ventures
-    round: series-b
-    year: 2021
+- round: series-a
+  slug: general-catalyst
+  year: 2019
+- round: series-a
+  slug: sv-angel
+  year: 2019
+- round: series-b
+  slug: next47
+  year: 2021
+- round: series-b
+  slug: polaris-partners
+  year: 2021
+- round: series-b
+  slug: unusual-ventures
+  year: 2021
+founded: 2017
 founders:
-  - name: "Dhananjay (DJ) Sampath"
-    role: "CEO & Co-Founder"
-  - name: "Anand Raghavan"
-    role: "CPO & Co-Founder"
-  - name: "Arjun Sambamoorthy"
-    role: "Head of Engineering & Co-Founder"
-  - name: "Chetan Anand"
-    role: "Co-Founder"
-status: published
+- name: Dhananjay (DJ) Sampath
+  role: CEO & Co-Founder
+- name: Anand Raghavan
+  role: CPO & Co-Founder
+- name: Arjun Sambamoorthy
+  role: Head of Engineering & Co-Founder
+- name: Chetan Anand
+  role: Co-Founder
+investors:
+- round: seed
+  slug: ron-conway
+  year: 2019
 last_researched: 2026-03-24
+location: Sunnyvale, California
+name: Armorblox
+sector:
+- cybersecurity
+- ai
+- enterprise
+slug: armorblox
+stage_latest: Series B
+status: published
+status_company: acquired
+total_raised: $46.5M
+type: startup
+website: https://www.armorblox.com
 ---
 
 ## About

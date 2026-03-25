@@ -77,7 +77,7 @@ sector:
 - autonomous-vehicles
 - simulation
 - defense
-- AI
+- ai
 slug: applied-intuition
 stage_latest: Series F
 status: published

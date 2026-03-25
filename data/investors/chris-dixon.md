@@ -1,23 +1,36 @@
 ---
-name: "Chris Dixon"
-slug: chris-dixon
-tldr: "General Partner & Founder of a16z crypto ($7B AUM), former angel investor (Kickstarter, Pinterest, Stripe). Led Coinbase Series B 2013 (10B+ value at IPO). Portfolio (23 verified) is 48% crypto/web3 (Coinbase, Uniswap, OpenSea, Dapper Labs), 26% consumer. 'Read Write Own' framework investor backing blockchain internet openness. Checks $10M-$60M. Forbes Midas #1 2022."
-type: individual
+check_size: $10M-$60M
 firm: andreessen-horowitz
-role: "General Partner / Founder & Managing Partner, a16z crypto"
-location: "New York, NY"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [crypto, web3, blockchain, AI, consumer-internet]
-check_size: "$10M-$60M"
-last_verified_investment:
-  date: 2024-01
-  company: "Read Write Own book launch / a16z crypto Fund 4"
-  round: "Fund"
-social:
-  twitter: "@cdixon"
-  linkedin: "linkedin.com/in/chris-dixon-9599b127b"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Read Write Own book launch / a16z crypto Fund 4
+  date: 2024-01
+  round: Fund
+location: New York, NY
+name: Chris Dixon
+role: General Partner / Founder & Managing Partner, a16z crypto
+sector_focus:
+- crypto
+- web3
+- blockchain
+- ai
+- consumer-internet
+slug: chris-dixon
+social:
+  linkedin: linkedin.com/in/chris-dixon-9599b127b
+  twitter: '@cdixon'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'General Partner & Founder of a16z crypto ($7B AUM), former angel investor (Kickstarter,
+  Pinterest, Stripe). Led Coinbase Series B 2013 (10B+ value at IPO). Portfolio (23
+  verified) is 48% crypto/web3 (Coinbase, Uniswap, OpenSea, Dapper Labs), 26% consumer.
+  ''Read Write Own'' framework investor backing blockchain internet openness. Checks
+  $10M-$60M. Forbes Midas #1 2022.'
+type: individual
 ---
 
 ## Background

@@ -31,7 +31,7 @@ sector:
 - defense-tech
 - hardware
 - data-infrastructure
-- AI
+- ai
 slug: nominal
 stage_latest: Series B Extension
 status: published

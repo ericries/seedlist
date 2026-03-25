@@ -14,7 +14,7 @@ sector_focus:
 - software
 - consumer-technology
 - fintech
-- AI
+- ai
 - e-commerce
 slug: chase-coleman
 social:

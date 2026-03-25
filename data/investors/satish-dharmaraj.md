@@ -1,23 +1,36 @@
 ---
-name: "Satish Dharmaraj"
-slug: satish-dharmaraj
-tldr: "Founder of Zimbra (acquired by Yahoo for $350M) turned Managing Director at Redpoint. Ranked #5 on Forbes Midas List, thesis-driven investor who writes detailed market analyses then backs matching teams. Portfolio is 35% cloud infrastructure (Snowflake $50B+ valuation, Cockroach Labs $5B). Notable for writing market thesis on mobile-first email in 2013, then backing Acompli (Microsoft acquisition in 20 months) for $200M."
-type: individual
+check_size: $5M-$20M
 firm: redpoint-ventures
-role: "Managing Director"
-location: "Menlo Park, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [enterprise-software, cloud-infrastructure, SaaS, data, AI]
-check_size: "$5M-$20M"
-last_verified_investment:
-  date: 2024
-  company: "Cockroach Labs"
-  round: "Series F"
-social:
-  twitter: "@satishd"
-  linkedin: "linkedin.com/in/satishdharmaraj"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Cockroach Labs
+  date: 2024
+  round: Series F
+location: Menlo Park, CA
+name: Satish Dharmaraj
+role: Managing Director
+sector_focus:
+- enterprise-software
+- cloud-infrastructure
+- saas
+- data
+- ai
+slug: satish-dharmaraj
+social:
+  linkedin: linkedin.com/in/satishdharmaraj
+  twitter: '@satishd'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Founder of Zimbra (acquired by Yahoo for $350M) turned Managing Director at
+  Redpoint. Ranked #5 on Forbes Midas List, thesis-driven investor who writes detailed
+  market analyses then backs matching teams. Portfolio is 35% cloud infrastructure
+  (Snowflake $50B+ valuation, Cockroach Labs $5B). Notable for writing market thesis
+  on mobile-first email in 2013, then backing Acompli (Microsoft acquisition in 20
+  months) for $200M.'
+type: individual
 ---
 
 ## Background

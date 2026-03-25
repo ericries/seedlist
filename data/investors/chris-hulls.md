@@ -1,23 +1,35 @@
 ---
-name: "Chris Hulls"
-slug: chris-hulls
-type: individual
+check_size: $25K-$100K
 firm: recursive-ventures
-role: "Ventures Partner"
-location: "Point Reyes Station, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [consumer-mobile, IoT-hardware, safety-security, fintech, automotive-data]
-check_size: "$25K-$100K"
-last_verified_investment:
-  date: "~2015"
-  company: "AirDog"
-  round: "Angel/Seed"
-social:
-  twitter: "@ChrisHulls"
-  linkedin: "linkedin.com/in/chrishulls"
-status: published
 last_researched: 2026-03-15
-tldr: "Chris Hulls is co-founder and former CEO of Life360, the family safety app serving 100M+ users (NASDAQ-listed, $330M+ annual revenue). Transitioned to Executive Chairman in Aug 2025. Ventures Partner at Recursive Ventures (Pre-seed/Seed data+AI startups). Angel investor in 26+ companies including Ring, Tile, Credible, Zendrive. Air Force veteran; bootstrapped Life360 with $30K borrowed from mother and college professor in 2007."
+last_verified_investment:
+  company: AirDog
+  date: ~2015
+  round: Angel/Seed
+location: Point Reyes Station, CA
+name: Chris Hulls
+role: Ventures Partner
+sector_focus:
+- consumer-mobile
+- iot-hardware
+- safety-security
+- fintech
+- automotive-data
+slug: chris-hulls
+social:
+  linkedin: linkedin.com/in/chrishulls
+  twitter: '@ChrisHulls'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Chris Hulls is co-founder and former CEO of Life360, the family safety app serving
+  100M+ users (NASDAQ-listed, $330M+ annual revenue). Transitioned to Executive Chairman
+  in Aug 2025. Ventures Partner at Recursive Ventures (Pre-seed/Seed data+AI startups).
+  Angel investor in 26+ companies including Ring, Tile, Credible, Zendrive. Air Force
+  veteran; bootstrapped Life360 with $30K borrowed from mother and college professor
+  in 2007.
+type: individual
 ---
 
 ## Background

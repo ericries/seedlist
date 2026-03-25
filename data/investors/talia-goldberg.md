@@ -1,22 +1,36 @@
 ---
-name: "Talia Goldberg"
-slug: talia-goldberg
-tldr: "Bessemer Partner since 2019, youngest partner in firm's history at that time. Joined Bessemer 2013 (analyst), promoted VP 2017, Principal 2018. Forbes 30 Under 30 VC. Portfolio 25% AI (Perplexity, DeepL, Fal.ai), 20% each fintech and enterprise/developer tools, 20% consumer (Discord, StubHub IPO 2025, ServiceTitan IPO 2024). Early employee at Foursquare and Simple. Philosophy: 'Most things that seem insane are totally insane. But every year one becomes most valuable business."
+check_size: $1M-$250M
 firm: bessemer-venture-partners
-role: "Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [AI, enterprise-software, consumer, fintech, vertical-software]
-check_size: "$1M-$250M"
-last_verified_investment:
-  date: 2025-09
-  company: "StubHub"
-  round: "IPO"
-social:
-  twitter: "@taborGoldberg"
-  linkedin: "linkedin.com/in/talia-goldberg"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: StubHub
+  date: 2025-09
+  round: IPO
+location: San Francisco, CA
+name: Talia Goldberg
+role: Partner
+sector_focus:
+- ai
+- enterprise-software
+- consumer
+- fintech
+- vertical-software
+slug: talia-goldberg
+social:
+  linkedin: linkedin.com/in/talia-goldberg
+  twitter: '@taborGoldberg'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Bessemer Partner since 2019, youngest partner in firm''s history at that time.
+  Joined Bessemer 2013 (analyst), promoted VP 2017, Principal 2018. Forbes 30 Under
+  30 VC. Portfolio 25% AI (Perplexity, DeepL, Fal.ai), 20% each fintech and enterprise/developer
+  tools, 20% consumer (Discord, StubHub IPO 2025, ServiceTitan IPO 2024). Early employee
+  at Foursquare and Simple. Philosophy: ''Most things that seem insane are totally
+  insane. But every year one becomes most valuable business.'
 ---
 
 ## Background

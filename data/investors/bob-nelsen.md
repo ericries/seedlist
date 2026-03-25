@@ -13,7 +13,7 @@ sector_focus:
 - biotech
 - therapeutics
 - genomics
-- AI-drug-discovery
+- ai-drug-discovery
 - cell-therapy
 - neuroscience
 - biomanufacturing
@@ -26,8 +26,13 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: Bob Nelsen is co-founder and Managing Director of ARCH Venture Partners, which
+  manages $12B+ AUM. His 30 verified investments are heavily concentrated in biotech
+  therapeutics (50%) and genomics (17%), with distinctive early-stage mega-round model
+  ($50K-$250M+ checks). ARCH co-founds or incubates ~30% of portfolio companies; Nelsen
+  backs world-class scientists and repeat biotech founders, generating 50+ $1B+ valuations
+  and 24+ IPOs.
 type: individual
-tldr: "Bob Nelsen is co-founder and Managing Director of ARCH Venture Partners, which manages $12B+ AUM. His 30 verified investments are heavily concentrated in biotech therapeutics (50%) and genomics (17%), with distinctive early-stage mega-round model ($50K-$250M+ checks). ARCH co-founds or incubates ~30% of portfolio companies; Nelsen backs world-class scientists and repeat biotech founders, generating 50+ $1B+ valuations and 24+ IPOs."
 ---
 
 ## Background

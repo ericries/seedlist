@@ -1,23 +1,36 @@
 ---
-name: "Eric Vishria"
-slug: eric-vishria
-type: individual
+check_size: $1M-$15M
 firm: benchmark
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [series-a, series-b]
-sector_focus: [enterprise-infrastructure, AI, developer-tools, life-sciences, cybersecurity]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2024-06-20
-  company: "Pomerium"
-  round: "Series A"
-social:
-  twitter: "@ericvishria"
-  linkedin: "linkedin.com/in/ericvishria"
-status: published
 last_researched: 2026-03-17
-tldr: "Eric Vishria is a General Partner at Benchmark since July 2014 (first partner addition in 6+ years). Co-founder/CEO of RockMelt (acquired by Yahoo for $60-70M in 2013). Joined early at Opsware/Loudcloud; served as VP Products at HP Software. His 9 verified investments brought Confluent (2021) and Amplitude (2021) to IPO. Invests via 'wind vs. boat' framework—prioritizing structural shifts over products. Views foundation models as 'fastest depreciating' asset; focuses on application and infrastructure layers."
+last_verified_investment:
+  company: Pomerium
+  date: 2024-06-20
+  round: Series A
+location: San Francisco, CA
+name: Eric Vishria
+role: General Partner
+sector_focus:
+- enterprise-infrastructure
+- ai
+- developer-tools
+- life-sciences
+- cybersecurity
+slug: eric-vishria
+social:
+  linkedin: linkedin.com/in/ericvishria
+  twitter: '@ericvishria'
+stage_focus:
+- series-a
+- series-b
+status: published
+tldr: Eric Vishria is a General Partner at Benchmark since July 2014 (first partner
+  addition in 6+ years). Co-founder/CEO of RockMelt (acquired by Yahoo for $60-70M
+  in 2013). Joined early at Opsware/Loudcloud; served as VP Products at HP Software.
+  His 9 verified investments brought Confluent (2021) and Amplitude (2021) to IPO.
+  Invests via 'wind vs. boat' framework—prioritizing structural shifts over products.
+  Views foundation models as 'fastest depreciating' asset; focuses on application
+  and infrastructure layers.
+type: individual
 ---
 
 ## Background

@@ -1,34 +1,38 @@
 ---
-name: "Pär-Jörgen Pärson"
-slug: par-jorgen-parson
-type: individual
+check_size: $400K-$24M
 firm: northzone
-role: "General Partner"
-location: "Stockholm, Sweden / New York, NY"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-  - growth
-sector_focus:
-  - consumer
-  - media
-  - fintech
-  - health
-  - energy-transition
-  - AI
-  - gaming
-check_size: "$400K-$24M"
-last_verified_investment:
-  date: 2024-10
-  company: "AirForestry"
-  round: "Seed"
-social:
-  twitter: "@pjparson"
-  linkedin: "linkedin.com/in/pär-jörgen-pärson-4946b"
-status: published
 last_researched: 2026-03-24
-tldr: "General Partner at Northzone; Stockholm/New York. Seed-to-growth investor ($400K-$24M) with value-chain disruption thesis. Portfolio 40% media/consumer (Spotify Series A lead, fuboTV). Real thesis: Nordic media/entertainment founder + value chain disruption, not stated 'energy transition/health.' 3 unicorn+ exits (Spotify IPO, iZettle $2.2B, Avito $2.7B). Heavy board participation."
+last_verified_investment:
+  company: AirForestry
+  date: 2024-10
+  round: Seed
+location: Stockholm, Sweden / New York, NY
+name: Pär-Jörgen Pärson
+role: General Partner
+sector_focus:
+- consumer
+- media
+- fintech
+- health
+- energy-transition
+- ai
+- gaming
+slug: par-jorgen-parson
+social:
+  linkedin: linkedin.com/in/pär-jörgen-pärson-4946b
+  twitter: '@pjparson'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'General Partner at Northzone; Stockholm/New York. Seed-to-growth investor ($400K-$24M)
+  with value-chain disruption thesis. Portfolio 40% media/consumer (Spotify Series
+  A lead, fuboTV). Real thesis: Nordic media/entertainment founder + value chain disruption,
+  not stated ''energy transition/health.'' 3 unicorn+ exits (Spotify IPO, iZettle
+  $2.2B, Avito $2.7B). Heavy board participation.'
+type: individual
 ---
 
 ## Background

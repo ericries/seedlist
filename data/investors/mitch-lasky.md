@@ -1,23 +1,34 @@
 ---
-name: "Mitch Lasky"
-slug: mitch-lasky
-tldr: "Benchmark GP; gaming/mobile expert. Activision EVP of Studios (Quake, Tony Hawk), JAMDAT founder/CEO (IPO 2004, $680M to EA 2006). Thesis: 'distribution is king' + organic growth. Forbes Midas List 5x. Portfolio: Riot Games (LoL), Instagram, Twitter (via Benchmark). LAFC co-owner. $1M-$15M checks."
-type: individual
+check_size: $1M-$15M
 firm: benchmark
-role: "General Partner"
-location: "Atherton, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [gaming, mobile, consumer-internet, AR, digital-media]
-check_size: "$1M-$15M"
-last_verified_investment:
-  date: 2024-11-01
-  company: "Levellr"
-  round: "Seed"
-social:
-  twitter: "@mitchlasky"
-  linkedin: "linkedin.com/in/mitchlasky"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Levellr
+  date: 2024-11-01
+  round: Seed
+location: Atherton, CA
+name: Mitch Lasky
+role: General Partner
+sector_focus:
+- gaming
+- mobile
+- consumer-internet
+- ar
+- digital-media
+slug: mitch-lasky
+social:
+  linkedin: linkedin.com/in/mitchlasky
+  twitter: '@mitchlasky'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Benchmark GP; gaming/mobile expert. Activision EVP of Studios (Quake, Tony
+  Hawk), JAMDAT founder/CEO (IPO 2004, $680M to EA 2006). Thesis: ''distribution is
+  king'' + organic growth. Forbes Midas List 5x. Portfolio: Riot Games (LoL), Instagram,
+  Twitter (via Benchmark). LAFC co-owner. $1M-$15M checks.'
+type: individual
 ---
 
 ## Background

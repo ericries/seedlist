@@ -17,13 +17,16 @@ investors:
 - round: Series A
   slug: guillermo-rauch
   year: 2025
+- round: Seed
+  slug: harry-nelis
+  year: 2024
 last_researched: 2026-03-24
 location: New York, New York
 name: Dash0
 sector:
 - observability
 - monitoring
-- AI
+- ai
 - infrastructure
 slug: dash0
 stage_latest: Series B

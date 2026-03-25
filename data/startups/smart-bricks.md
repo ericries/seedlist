@@ -1,24 +1,27 @@
 ---
-name: "Smart Bricks"
-slug: smart-bricks
-type: startup
-website: "https://smart-bricks.com"
-location: "San Francisco, California"
-founded: 2024
-status_company: active
-sector: [proptech, AI, real-estate]
-stage_latest: "Pre-Seed"
-total_raised: "$5M"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: pre-seed
-    year: 2026
+- round: pre-seed
+  slug: andreessen-horowitz
+  year: 2026
+founded: 2024
 founders:
-  - name: "Mohamed Mohamed"
-    role: "Founder & CEO"
-status: published
+- name: Mohamed Mohamed
+  role: Founder & CEO
+investors: []
 last_researched: 2026-03-24
+location: San Francisco, California
+name: Smart Bricks
+sector:
+- proptech
+- ai
+- real-estate
+slug: smart-bricks
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $5M
+type: startup
+website: https://smart-bricks.com
 ---
 
 ## About

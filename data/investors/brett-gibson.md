@@ -1,29 +1,34 @@
 ---
-name: "Brett Gibson"
-slug: brett-gibson
-type: individual
+check_size: $1M-$6M
 firm: initialized-capital
-role: "Managing Partner"
-location: "San Francisco, CA"
-stage_focus:
-  - seed
-sector_focus:
-  - crypto
-  - developer-tools
-  - AI
-  - cloud-infrastructure
-  - space
-check_size: "$1M-$6M"
-last_verified_investment:
-  date: ~2024
-  company: "AstroForge"
-  round: "Seed"
-social:
-  twitter: "@brettdg"
-  linkedin: "linkedin.com/in/brettdgibson"
-status: published
 last_researched: 2026-03-20
-tldr: "Brett Gibson is Managing Partner of Initialized Capital, a $3.2B+ early-stage VC firm. He co-founded Posterous (acquired by Twitter in 2012), spent years building YC's internal software systems, and built Folio (Initialized's investment software with blind voting to remove hierarchy bias). Gibson personally invests in crypto, developer tools, AI, and cloud infrastructure ($1-6M checks), positioning Initialized as open-minded about founders showing what the future will be."
+last_verified_investment:
+  company: AstroForge
+  date: ~2024
+  round: Seed
+location: San Francisco, CA
+name: Brett Gibson
+role: Managing Partner
+sector_focus:
+- crypto
+- developer-tools
+- ai
+- cloud-infrastructure
+- space
+slug: brett-gibson
+social:
+  linkedin: linkedin.com/in/brettdgibson
+  twitter: '@brettdg'
+stage_focus:
+- seed
+status: published
+tldr: Brett Gibson is Managing Partner of Initialized Capital, a $3.2B+ early-stage
+  VC firm. He co-founded Posterous (acquired by Twitter in 2012), spent years building
+  YC's internal software systems, and built Folio (Initialized's investment software
+  with blind voting to remove hierarchy bias). Gibson personally invests in crypto,
+  developer tools, AI, and cloud infrastructure ($1-6M checks), positioning Initialized
+  as open-minded about founders showing what the future will be.
+type: individual
 ---
 
 ## Background

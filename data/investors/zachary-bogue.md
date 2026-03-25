@@ -1,32 +1,36 @@
 ---
-name: "Zachary Bogue"
-slug: zachary-bogue
-tldr: "Co-founder & Managing Partner of DCVC (Deep Climate VC), climate tech and deep tech specialist. Invests $5M-$25M at seed/Series A/B in climate tech, deep tech, AI, life sciences, energy, synthetic biology. Notable investment in Fervo Energy (geothermal). San Francisco based. Focused on technologies that can scale to massive environmental/climate impact."
-type: individual
+check_size: $5M-$25M
 firm: dcvc
-role: "Co-Founder & Managing Partner"
-location: "San Francisco, CA"
-stage_focus:
-  - seed
-  - series-a
-  - series-b
-sector_focus:
-  - climate-tech
-  - deep-tech
-  - AI
-  - life-sciences
-  - energy
-  - synthetic-biology
-check_size: "$5M-$25M"
-last_verified_investment:
-  date: ~2024
-  company: "Fervo Energy"
-  round: "Growth"
-social:
-  twitter: "@zackbogue"
-  linkedin: "linkedin.com/in/zackbogue"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Fervo Energy
+  date: ~2024
+  round: Growth
+location: San Francisco, CA
+name: Zachary Bogue
+role: Co-Founder & Managing Partner
+sector_focus:
+- climate-tech
+- deep-tech
+- ai
+- life-sciences
+- energy
+- synthetic-biology
+slug: zachary-bogue
+social:
+  linkedin: linkedin.com/in/zackbogue
+  twitter: '@zackbogue'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: Co-founder & Managing Partner of DCVC (Deep Climate VC), climate tech and deep
+  tech specialist. Invests $5M-$25M at seed/Series A/B in climate tech, deep tech,
+  AI, life sciences, energy, synthetic biology. Notable investment in Fervo Energy
+  (geothermal). San Francisco based. Focused on technologies that can scale to massive
+  environmental/climate impact.
+type: individual
 ---
 
 ## Background

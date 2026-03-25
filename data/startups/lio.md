@@ -1,34 +1,37 @@
 ---
-name: "Lio"
-slug: lio
-type: startup
-website: "https://lio.ai"
-location: "Germany"
-founded: 2023
-status_company: active
-sector: [AI, enterprise, procurement]
-stage_latest: "Series A"
-total_raised: "$33M"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-  - slug: sv-angel
-    round: series-a
-    year: 2026
-  - slug: y-combinator
-    round: series-a
-    year: 2026
+- round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- round: series-a
+  slug: sv-angel
+  year: 2026
+- round: series-a
+  slug: y-combinator
+  year: 2026
+founded: 2023
 founders:
-  - name: "Vladimir Keil"
-    role: "Co-Founder"
-  - name: "Lukas Heinzmann"
-    role: "Co-Founder"
-  - name: "Till Wagner"
-    role: "Co-Founder"
-status: published
+- name: Vladimir Keil
+  role: Co-Founder
+- name: Lukas Heinzmann
+  role: Co-Founder
+- name: Till Wagner
+  role: Co-Founder
+investors: []
 last_researched: 2026-03-24
+location: Germany
+name: Lio
+sector:
+- ai
+- enterprise
+- procurement
+slug: lio
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $33M
+type: startup
+website: https://lio.ai
 ---
 
 ## About

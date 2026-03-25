@@ -1,23 +1,32 @@
 ---
-name: "Kristina Shen"
-slug: kristina-shen
-type: individual
+check_size: $500K-$20M
 firm: chemistry-vc
-role: "Co-Founder & Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a]
-sector_focus: [enterprise-saas, fintech, developer-tools, infrastructure, AI]
-check_size: "$500K-$20M"
-last_verified_investment:
-  date: 2026-03
-  company: "Didero"
-  round: "Series A"
-social:
-  twitter: "@kshenster"
-  linkedin: "linkedin.com/in/kristina-shen"
-status: published
 last_researched: 2026-03-24
-tldr: "Chemistry co-founder and managing partner ($350M debut fund) investing $500K-$20M seed/Series A in enterprise SaaS, fintech, and AI infrastructure. Former a16z GP (4 yrs) and Bessemer Partner (7 yrs); co-authored State of Cloud reports."
+last_verified_investment:
+  company: Didero
+  date: 2026-03
+  round: Series A
+location: San Francisco, CA
+name: Kristina Shen
+role: Co-Founder & Managing Partner
+sector_focus:
+- enterprise-saas
+- fintech
+- developer-tools
+- infrastructure
+- ai
+slug: kristina-shen
+social:
+  linkedin: linkedin.com/in/kristina-shen
+  twitter: '@kshenster'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Chemistry co-founder and managing partner ($350M debut fund) investing $500K-$20M
+  seed/Series A in enterprise SaaS, fintech, and AI infrastructure. Former a16z GP
+  (4 yrs) and Bessemer Partner (7 yrs); co-authored State of Cloud reports.
+type: individual
 ---
 
 ## Background

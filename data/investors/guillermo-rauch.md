@@ -1,23 +1,34 @@
 ---
-name: "Guillermo Rauch"
-slug: guillermo-rauch
-type: individual
+check_size: $5K-$50K
 firm: vercel
-role: "Founder & CEO"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [AI, developer-tools, infrastructure, open-source, SaaS]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2025-12-02
-  company: "Gradium"
-  round: "Seed"
-social:
-  twitter: "@rauchg"
-  linkedin: "linkedin.com/in/rauchg"
-status: published
 last_researched: 2026-03-23
-tldr: "Vercel founder/CEO making 30+ angel investments ($5K-$50K) in developer-facing AI/infrastructure companies. Original thesis: best companies start as APIs; now heavily AI-focused with preference for open-source distribution and founder-operator co-investors."
+last_verified_investment:
+  company: Gradium
+  date: 2025-12-02
+  round: Seed
+location: San Francisco, CA
+name: Guillermo Rauch
+role: Founder & CEO
+sector_focus:
+- ai
+- developer-tools
+- infrastructure
+- open-source
+- saas
+slug: guillermo-rauch
+social:
+  linkedin: linkedin.com/in/rauchg
+  twitter: '@rauchg'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Vercel founder/CEO making 30+ angel investments ($5K-$50K) in developer-facing
+  AI/infrastructure companies. Original thesis: best companies start as APIs; now
+  heavily AI-focused with preference for open-source distribution and founder-operator
+  co-investors.'
+type: individual
 ---
 
 ## Background

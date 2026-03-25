@@ -1,23 +1,36 @@
 ---
-name: "Brad Gerstner"
-slug: brad-gerstner
-tldr: "Founder & CEO of Altimeter Capital, growth-stage crossover investor backing 'supercycles' (internet, mobile, cloud, AI). Public portfolio ($6.66B, 18 holdings) shows 39% cloud/AI concentration (Snowflake, CoreWeave, NVIDIA). Checks $50M-$500M at Series B/C into IPO. Famed for 'Time to Get Fit' Meta letter (2022). Rhodes Scholar; Forbes Midas 2022."
-type: individual
+check_size: $50M-$500M+
 firm: altimeter-capital
-role: "Founder & CEO"
-location: "Menlo Park, California"
-stage_focus: [growth, late-stage, public]
-sector_focus: [cloud, AI, digital-marketplaces, fintech, travel-tech, semiconductors]
-check_size: "$50M-$500M+"
-last_verified_investment:
-  date: 2025-12-31
-  company: "CoreWeave"
-  round: "Public equity (13F)"
-social:
-  twitter: "@altcap"
-  linkedin: "linkedin.com/in/bradgerstner"
-status: published
 last_researched: 2026-03-18
+last_verified_investment:
+  company: CoreWeave
+  date: 2025-12-31
+  round: Public equity (13F)
+location: Menlo Park, California
+name: Brad Gerstner
+role: Founder & CEO
+sector_focus:
+- cloud
+- ai
+- digital-marketplaces
+- fintech
+- travel-tech
+- semiconductors
+slug: brad-gerstner
+social:
+  linkedin: linkedin.com/in/bradgerstner
+  twitter: '@altcap'
+stage_focus:
+- growth
+- late-stage
+- public
+status: published
+tldr: Founder & CEO of Altimeter Capital, growth-stage crossover investor backing
+  'supercycles' (internet, mobile, cloud, AI). Public portfolio ($6.66B, 18 holdings)
+  shows 39% cloud/AI concentration (Snowflake, CoreWeave, NVIDIA). Checks $50M-$500M
+  at Series B/C into IPO. Famed for 'Time to Get Fit' Meta letter (2022). Rhodes Scholar;
+  Forbes Midas 2022.
+type: individual
 ---
 
 ## Background

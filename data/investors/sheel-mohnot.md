@@ -1,23 +1,35 @@
 ---
-name: "Sheel Mohnot"
-slug: sheel-mohnot
-tldr: "Co-founder of Better Tomorrow Ventures, pure-play fintech seed fund managing $450M across three funds. Two-time fintech founder (FeeFighters acquired by Groupon, Innovative Auctions) with deep domain expertise. Invests $500K-$2M at pre-seed/seed with portfolio 31% in payments infrastructure (Ramp $22B, Mercury $3.5B). All-founder GP team philosophy: 'Everyone on our team is a founder or operator.' Co-founded The Pitch podcast acquired by Spotify."
-type: individual
+check_size: $500K-$2M
 firm: better-tomorrow-ventures
-role: "Co-Founder & General Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed]
-sector_focus: [fintech, payments, insurtech, proptech, SaaS]
-check_size: "$500K-$2M"
-last_verified_investment:
-  date: 2025-10
-  company: "BTV Fund III deployment"
-  round: "Pre-Seed/Seed"
-social:
-  twitter: "@pitdesi"
-  linkedin: "linkedin.com/in/smohnot"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: BTV Fund III deployment
+  date: 2025-10
+  round: Pre-Seed/Seed
+location: San Francisco, CA
+name: Sheel Mohnot
+role: Co-Founder & General Partner
+sector_focus:
+- fintech
+- payments
+- insurtech
+- proptech
+- saas
+slug: sheel-mohnot
+social:
+  linkedin: linkedin.com/in/smohnot
+  twitter: '@pitdesi'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: 'Co-founder of Better Tomorrow Ventures, pure-play fintech seed fund managing
+  $450M across three funds. Two-time fintech founder (FeeFighters acquired by Groupon,
+  Innovative Auctions) with deep domain expertise. Invests $500K-$2M at pre-seed/seed
+  with portfolio 31% in payments infrastructure (Ramp $22B, Mercury $3.5B). All-founder
+  GP team philosophy: ''Everyone on our team is a founder or operator.'' Co-founded
+  The Pitch podcast acquired by Spotify.'
+type: individual
 ---
 
 ## Background

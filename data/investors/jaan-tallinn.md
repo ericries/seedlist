@@ -1,30 +1,35 @@
 ---
-name: "Jaan Tallinn"
-slug: jaan-tallinn
-tldr: "Skype co-founder and existential risk philanthropist via Metaplanet. Invests $500K-$5M in deep tech with 37% AI focus including board seats at DeepMind and Anthropic (led $124M Series A). Portfolio spans robotics (16%), developer tools (16%) with strong Estonia/Europe concentration. Mission-driven: 'displace money that doesn't care.' 100+ total investments ($130M+) focused on reducing AI and synthetic biology risks."
-type: individual
+check_size: $500K-$5M
 firm: metaplanet
-role: "Founder"
-location: "Tallinn, Estonia"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-sector_focus:
-  - artificial-intelligence
-  - AI-safety
-  - deep-tech
-  - autonomous-vehicles
-  - developer-tools
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2025-06-03
-  company: "LawZero"
-  round: "Philanthropic funding"
-social:
-  linkedin: "linkedin.com/in/jaan-tallinn"
-status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: LawZero
+  date: 2025-06-03
+  round: Philanthropic funding
+location: Tallinn, Estonia
+name: Jaan Tallinn
+role: Founder
+sector_focus:
+- artificial-intelligence
+- ai-safety
+- deep-tech
+- autonomous-vehicles
+- developer-tools
+slug: jaan-tallinn
+social:
+  linkedin: linkedin.com/in/jaan-tallinn
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: 'Skype co-founder and existential risk philanthropist via Metaplanet. Invests
+  $500K-$5M in deep tech with 37% AI focus including board seats at DeepMind and Anthropic
+  (led $124M Series A). Portfolio spans robotics (16%), developer tools (16%) with
+  strong Estonia/Europe concentration. Mission-driven: ''displace money that doesn''t
+  care.'' 100+ total investments ($130M+) focused on reducing AI and synthetic biology
+  risks.'
+type: individual
 ---
 
 ## Background

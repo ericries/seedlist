@@ -1,22 +1,34 @@
 ---
-name: "Noubar Afeyan"
-slug: noubar-afeyan
-type: individual
+check_size: Flagship creates and fully funds companies internally; does not accept
+  outside pitches
 firm: flagship-pioneering
-role: "Founder & CEO"
-location: "Cambridge, MA"
-stage_focus: [inception, seed, early-stage]
-sector_focus: [biotech, life-sciences, mRNA, synthetic-biology, ag-tech, AI-drug-discovery]
-check_size: "Flagship creates and fully funds companies internally; does not accept outside pitches"
-last_verified_investment:
-  date: 2025
-  company: "Extuitive"
-  round: "Internal creation (Flagship Labs)"
-social:
-  linkedin: "linkedin.com/in/noubarafeyan"
-status: published
 last_researched: 2026-03-24
-tldr: "Flagship Pioneering founder/CEO who creates companies from science fiction, not funding external startups. Systematic entrepreneurship in biotech and AI with 25 IPOs and $27B in follow-on capital attracted; believes in impossible problems."
+last_verified_investment:
+  company: Extuitive
+  date: 2025
+  round: Internal creation (Flagship Labs)
+location: Cambridge, MA
+name: Noubar Afeyan
+role: Founder & CEO
+sector_focus:
+- biotech
+- life-sciences
+- mrna
+- synthetic-biology
+- ag-tech
+- ai-drug-discovery
+slug: noubar-afeyan
+social:
+  linkedin: linkedin.com/in/noubarafeyan
+stage_focus:
+- inception
+- seed
+- early-stage
+status: published
+tldr: Flagship Pioneering founder/CEO who creates companies from science fiction,
+  not funding external startups. Systematic entrepreneurship in biotech and AI with
+  25 IPOs and $27B in follow-on capital attracted; believes in impossible problems.
+type: individual
 ---
 
 ## Background

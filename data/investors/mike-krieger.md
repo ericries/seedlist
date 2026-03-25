@@ -1,23 +1,34 @@
 ---
-name: "Mike Krieger"
-slug: mike-krieger
-type: individual
+check_size: $5K-$50K
 firm: anthropic
-role: "Chief Product Officer (Labs)"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, series-c]
-sector_focus: [developer-tools, productivity, AI, consumer, fintech]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2025-02-26
-  company: "Portola"
-  round: "Seed"
-social:
-  twitter: "@mikeyk"
-  linkedin: "linkedin.com/in/mikekrieger"
-status: published
 last_researched: 2026-03-20
-tldr: "Instagram co-founder and Anthropic Labs lead backing developer tools and AI-native products with deep product expertise. Angel check sizes $5K-$50K; portfolio includes Figma (50x return), Loom (acquired $975M), and Scale AI."
+last_verified_investment:
+  company: Portola
+  date: 2025-02-26
+  round: Seed
+location: San Francisco, CA
+name: Mike Krieger
+role: Chief Product Officer (Labs)
+sector_focus:
+- developer-tools
+- productivity
+- ai
+- consumer
+- fintech
+slug: mike-krieger
+social:
+  linkedin: linkedin.com/in/mikekrieger
+  twitter: '@mikeyk'
+stage_focus:
+- seed
+- series-a
+- series-b
+- series-c
+status: published
+tldr: Instagram co-founder and Anthropic Labs lead backing developer tools and AI-native
+  products with deep product expertise. Angel check sizes $5K-$50K; portfolio includes
+  Figma (50x return), Loom (acquired $975M), and Scale AI.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,36 @@
 ---
-name: "Harris Stolzenberg"
-slug: harris-stolzenberg
-tldr: "Partner at Pear VC focused on founder quality and East Coast university ecosystems. Joined May 2025 with no individual deals publicly documented yet; portfolio thesis based on founder-first orientation toward founders with conviction and velocity. Potential geographic arbitrage play on underexploited Brown, MIT, Yale, and CMU networks."
-type: individual
+check_size: $250K-$6M
 firm: pear-vc
-role: "Partner"
-location: "Boston, MA"
-stage_focus: [pre-seed, seed]
-sector_focus: [generalist, enterprise, consumer, fintech, healthcare, AI, SaaS]
-check_size: "$250K-$6M"
-last_verified_investment:
-  date: 2025-05-20
-  company: "Pear VC Partner (no individual deals publicly documented yet)"
-  round: "N/A"
-social:
-  twitter: "@stolzy4"
-  linkedin: "linkedin.com/in/harris-stolzenberg-44468b78"
-status: published
 last_researched: 2026-03-16
+last_verified_investment:
+  company: Pear VC Partner (no individual deals publicly documented yet)
+  date: 2025-05-20
+  round: N/A
+location: Boston, MA
+name: Harris Stolzenberg
+role: Partner
+sector_focus:
+- generalist
+- enterprise
+- consumer
+- fintech
+- healthcare
+- ai
+- saas
+slug: harris-stolzenberg
+social:
+  linkedin: linkedin.com/in/harris-stolzenberg-44468b78
+  twitter: '@stolzy4'
+stage_focus:
+- pre-seed
+- seed
+status: published
+tldr: Partner at Pear VC focused on founder quality and East Coast university ecosystems.
+  Joined May 2025 with no individual deals publicly documented yet; portfolio thesis
+  based on founder-first orientation toward founders with conviction and velocity.
+  Potential geographic arbitrage play on underexploited Brown, MIT, Yale, and CMU
+  networks.
+type: individual
 ---
 
 ## Background

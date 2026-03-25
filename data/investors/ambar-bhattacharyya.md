@@ -1,24 +1,36 @@
 ---
-name: "Ambar Bhattacharyya"
-slug: ambar-bhattacharyya
-tldr: "Managing Director at Maverick Ventures focused on healthcare + AI with checks $500K-$20M from seed through Series B. Portfolio (24 verified) is 75% healthcare: 7 delivery platforms (Cityblock, Centivo, Devoted Health), 4 telehealth/tech (Hims & Hers), 3 biotech (Caribou). Backs operator founders from healthcare industry. Led 16 IPOs; Forbes Midas Brink List 2025."
-type: individual
+check_size: $500K-$20M
 firm: maverick-ventures
-role: "Managing Director"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b]
-sector_focus: [healthcare, healthtech, AI, enterprise-software, consumer-health]
-check_size: "$500K-$20M"
-last_verified_investment:
-  date: 2026-01-21
-  company: "Claim Health"
-  round: "Seed"
-social:
-  twitter: "@AmbarBh"
-  linkedin: "linkedin.com/in/ambarbhattacharyya"
-  substack: "ambarbhattacharyya.substack.com"
-status: published
 last_researched: 2026-03-23
+last_verified_investment:
+  company: Claim Health
+  date: 2026-01-21
+  round: Seed
+location: San Francisco, CA
+name: Ambar Bhattacharyya
+role: Managing Director
+sector_focus:
+- healthcare
+- healthtech
+- ai
+- enterprise-software
+- consumer-health
+slug: ambar-bhattacharyya
+social:
+  linkedin: linkedin.com/in/ambarbhattacharyya
+  substack: ambarbhattacharyya.substack.com
+  twitter: '@AmbarBh'
+stage_focus:
+- seed
+- series-a
+- series-b
+status: published
+tldr: 'Managing Director at Maverick Ventures focused on healthcare + AI with checks
+  $500K-$20M from seed through Series B. Portfolio (24 verified) is 75% healthcare:
+  7 delivery platforms (Cityblock, Centivo, Devoted Health), 4 telehealth/tech (Hims
+  & Hers), 3 biotech (Caribou). Backs operator founders from healthcare industry.
+  Led 16 IPOs; Forbes Midas Brink List 2025.'
+type: individual
 ---
 
 ## Background

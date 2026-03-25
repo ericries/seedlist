@@ -208,7 +208,7 @@ name: Anduril Industries
 sector:
 - defense-tech
 - autonomous-systems
-- AI
+- ai
 slug: anduril
 stage_latest: Series H
 status: published

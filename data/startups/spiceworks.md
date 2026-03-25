@@ -49,7 +49,7 @@ last_researched: 2026-03-24
 location: Austin, Texas
 name: Spiceworks
 sector:
-- IT-management
+- it-management
 - community
 - ad-supported-software
 slug: spiceworks
