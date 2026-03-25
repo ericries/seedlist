@@ -4249,9 +4249,9 @@
     {
       "id": "curated-31",
       "name": "The Future of Work Investors",
-      "tagline": "They backed the tools that replaced the office \u2014 Slack, Figma, Notion, Gusto, Rippling. Betting that how we work matters as much as what we build.",
+      "tagline": "The future of how we work, learn, and hire. These investors back the tools reshaping the workplace \u2014 from collaboration software to HR platforms to education and upskilling.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "benny-peretz",
@@ -4302,6 +4302,11 @@
           "slug": "ron-conway",
           "name": "Ron Conway",
           "firm": "sv-angel"
+        },
+        {
+          "slug": "roy-bahat",
+          "name": "Roy Bahat",
+          "firm": "bloomberg-beta"
         }
       ]
     },
@@ -4968,7 +4973,7 @@
       "name": "The Podcast VCs",
       "tagline": "They build in public \u2014 on microphones. Through All-In, Masters of Scale, No Priors, and more, they've made venture capital a spectator sport.",
       "type": "curated",
-      "size": 9,
+      "size": 10,
       "members": [
         {
           "slug": "bill-gurley",
@@ -4994,6 +4999,11 @@
           "slug": "garry-tan",
           "name": "Garry Tan",
           "firm": "y-combinator"
+        },
+        {
+          "slug": "harry-stebbings",
+          "name": "Harry Stebbings",
+          "firm": "20vc"
         },
         {
           "slug": "naval-ravikant",
