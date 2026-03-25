@@ -1,61 +1,77 @@
 ---
-name: "Index Ventures"
-slug: index-ventures
-type: firm
-website: "https://www.indexventures.com"
-location: "San Francisco, CA"
 founded: 1996
-fund_size: "$2.3B (2024: $800M venture + $1.5B growth); $15B total capital raised; $3.1B (2021)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, enterprise, consumer, fintech, cybersecurity, infrastructure, gaming, healthcare]
-team:
-  - slug: danny-rimer
-    role: "Partner"
-    name: "Danny Rimer"
-  - slug: neil-rimer
-    role: "Retired Partner & Co-Founder"
-    name: "Neil Rimer"
-  - slug: mike-volpi
-    role: "Retired Partner"
-    name: "Mike Volpi"
-  - slug: martin-mignot
-    role: "Partner"
-    name: "Martin Mignot"
-  - slug: shardul-shah
-    role: "Partner"
-    name: "Shardul Shah"
-  - slug: jan-hammer
-    role: "Partner"
-    name: "Jan Hammer"
-  - slug: nina-achadjian
-    role: "Partner"
-    name: "Nina Achadjian"
-  - slug: hannah-seal
-    role: "Partner"
-    name: "Hannah Seal"
-  - slug: mark-xu
-    role: "Partner"
-    name: "Mark Xu"
-  - slug: sofia-dolfe
-    role: "Partner"
-    name: "Sofia Dolfe"
-  - slug: carlos-gonzalez-cadenas
-    role: "Partner"
-    name: "Carlos Gonzalez-Cadenas"
-  - slug: sahir-azam
-    role: "Partner"
-    name: "Sahir Azam"
-  - slug: vlad-loktev
-    role: "Partner"
-    name: "Vlad Loktev"
-  - slug: jahanvi-sardana
-    role: "Partner"
-    name: "Jahanvi Sardana"
-  - slug: stephane-kurgan
-    role: "COO"
-    name: "Stephane Kurgan"
-status: published
+fund_size: '$2.3B (2024: $800M venture + $1.5B growth); $15B total capital raised;
+  $3.1B (2021)'
 last_researched: 2026-03-20
+location: San Francisco, CA
+name: Index Ventures
+sector_focus:
+- ai
+- enterprise
+- consumer
+- fintech
+- cybersecurity
+- infrastructure
+- gaming
+- healthcare
+slug: index-ventures
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Danny Rimer
+  role: Partner
+  slug: danny-rimer
+- name: Neil Rimer
+  role: Retired Partner & Co-Founder
+  slug: neil-rimer
+- name: Mike Volpi
+  role: Retired Partner
+  slug: mike-volpi
+- name: Martin Mignot
+  role: Partner
+  slug: martin-mignot
+- name: Shardul Shah
+  role: Partner
+  slug: shardul-shah
+- name: Jan Hammer
+  role: Partner
+  slug: jan-hammer
+- name: Nina Achadjian
+  role: Partner
+  slug: nina-achadjian
+- name: Hannah Seal
+  role: Partner
+  slug: hannah-seal
+- name: Mark Xu
+  role: Partner
+  slug: mark-xu
+- name: Sofia Dolfe
+  role: Partner
+  slug: sofia-dolfe
+- name: Carlos Gonzalez-Cadenas
+  role: Partner
+  slug: carlos-gonzalez-cadenas
+- name: Sahir Azam
+  role: Partner
+  slug: sahir-azam
+- name: Vlad Loktev
+  role: Partner
+  slug: vlad-loktev
+- name: Jahanvi Sardana
+  role: Partner
+  slug: jahanvi-sardana
+- name: Stephane Kurgan
+  role: COO
+  slug: stephane-kurgan
+- name: Dominique Vidal
+  role: Venture Partner
+  slug: dominique-vidal
+type: firm
+website: https://www.indexventures.com
 ---
 
 ## About

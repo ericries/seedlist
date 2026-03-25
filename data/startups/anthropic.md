@@ -42,6 +42,9 @@ firms:
 - round: Series A
   slug: innovation-endeavors
   year: 2021
+- round: Growth
+  slug: notable-capital
+  year: 2023
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -100,6 +103,9 @@ investors:
 - round: Series A
   slug: eric-schmidt
   year: 2021
+- round: Growth
+  slug: hans-tung
+  year: 2023
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

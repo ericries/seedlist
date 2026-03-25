@@ -21,6 +21,9 @@ firms:
 - round: Series B
   slug: time-ventures
   year: 2018
+- round: Series C
+  slug: notable-capital
+  year: 2019
 founded: 2015
 founders:
 - name: Josh Luber
@@ -41,6 +44,9 @@ investors:
 - round: Series B
   slug: marc-benioff
   year: 2018
+- round: Series C
+  slug: hans-tung
+  year: 2019
 last_researched: 2026-03-24
 location: Detroit, MI
 name: StockX

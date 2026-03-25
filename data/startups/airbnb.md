@@ -51,6 +51,9 @@ firms:
 - round: Growth
   slug: acme-capital
   year: 2013
+- round: Growth
+  slug: notable-capital
+  year: 2015
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -117,6 +120,9 @@ investors:
 - round: Growth
   slug: scott-stanford
   year: 2013
+- round: Growth
+  slug: hans-tung
+  year: 2015
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

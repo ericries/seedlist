@@ -124,6 +124,9 @@ investors:
 - round: Series A
   slug: nick-shalek
   year: 2013
+- round: Growth
+  slug: hans-tung
+  year: 2018
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

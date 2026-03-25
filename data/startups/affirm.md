@@ -27,6 +27,9 @@ firms:
 - round: Series G
   slug: durable-capital-partners
   year: 2020
+- round: Early
+  slug: notable-capital
+  year: 2014
 founded: 2012
 founders:
 - name: Max Levchin
@@ -65,6 +68,9 @@ investors:
 - round: Series A
   slug: vinod-khosla
   year: 2013
+- round: Early
+  slug: hans-tung
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

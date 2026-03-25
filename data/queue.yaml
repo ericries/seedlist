@@ -5602,7 +5602,7 @@ queue:
 - name: Dominique Vidal
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Index Ventures
   discovered_from: martin-mignot
@@ -5659,7 +5659,7 @@ queue:
 - name: Hans Tung
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Notable Capital
   discovered_from: notable-capital
@@ -6712,21 +6712,21 @@ queue:
 - name: Brian Ascher
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Venrock
   discovered_from: venrock
 - name: Nick Beim
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Venrock
   discovered_from: venrock
 - name: Ethan Batraski
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Venrock
   discovered_from: venrock

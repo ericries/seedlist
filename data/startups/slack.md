@@ -49,6 +49,9 @@ firms:
 - round: Seed
   slug: bloomberg-beta
   year: 2013
+- round: Series F
+  slug: notable-capital
+  year: 2016
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -108,6 +111,9 @@ investors:
 - round: Growth (board at Index)
   slug: ilya-fushman
   year: 2015
+- round: Series F
+  slug: hans-tung
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack
