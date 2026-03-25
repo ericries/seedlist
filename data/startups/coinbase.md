@@ -127,6 +127,9 @@ investors:
 - round: Growth
   slug: hans-tung
   year: 2018
+- round: Series A
+  slug: meyer-malka
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

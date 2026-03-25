@@ -85,6 +85,9 @@ investors:
 - round: Seed
   slug: xavier-niel
   year: 2019
+- round: Series E
+  slug: meyer-malka
+  year: 2021
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

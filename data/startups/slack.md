@@ -114,6 +114,9 @@ investors:
 - round: Series F
   slug: hans-tung
   year: 2016
+- round: Series F (GGV participating)
+  slug: glenn-solomon
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

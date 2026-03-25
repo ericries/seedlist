@@ -46,6 +46,9 @@ investors:
 - round: '2015'
   slug: bijan-sabet
   year: 2015
+- round: Seed
+  slug: hunter-walk
+  year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Cruise

@@ -59,6 +59,9 @@ investors:
 - round: Growth
   slug: david-cowan
   year: 2019
+- round: Seed
+  slug: hunter-walk
+  year: 2017
 last_researched: 2026-03-24
 location: Denver, CO
 name: Boom Supersonic

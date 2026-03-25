@@ -87,6 +87,9 @@ firms:
 - round: Seed
   slug: mac-venture-capital
   year: 2021
+- round: Seed
+  slug: acequia-capital
+  year: 2014
 founded: 2013
 founders:
 - name: Ryan Petersen
@@ -149,6 +152,9 @@ investors:
 - round: Seed
   slug: adrian-fenty
   year: 2021
+- round: Seed
+  slug: fritz-lanman
+  year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Flexport

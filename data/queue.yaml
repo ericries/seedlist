@@ -4404,7 +4404,7 @@ queue:
 - name: OpenView Venture Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: datadog
 - name: David Cowan
@@ -5589,7 +5589,7 @@ queue:
 - name: Stewart Butterfield
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: tobi-lutke
 - name: Harry Nelis
@@ -5666,14 +5666,14 @@ queue:
 - name: Glenn Solomon
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Notable Capital
   discovered_from: notable-capital
 - name: Solomon Hykes
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Dagger
   discovered_from: erica-brescia
@@ -5693,21 +5693,21 @@ queue:
 - name: Hunter Walk
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Homebrew
   discovered_from: satya-patel
 - name: Eurie Kim
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Forerunner Ventures
   discovered_from: kirsten-green
 - name: Lior Simon
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cyberstarts
   discovered_from: gili-raanan
@@ -5804,7 +5804,7 @@ queue:
 - name: Fritz Lanman
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: pete-higgins
 - name: Karim Atiyeh
@@ -5899,7 +5899,7 @@ queue:
 - name: Meyer Malka
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ribbit Capital
   discovered_from: brex
@@ -5958,7 +5958,7 @@ queue:
     AdMob'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Marc Andreessen
   type: individual
@@ -6768,3 +6768,62 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: harry-nelis
+- name: Dor Knafo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cyberstarts
+  discovered_from: lior-simon
+- name: Cyera
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lior-simon
+- name: Gambit Security
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lior-simon
+- name: Renaud Laplanche
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Upgrade
+  discovered_from: meyer-malka
+- name: David Velez
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Nubank
+  discovered_from: meyer-malka
+- name: Erik Rannala
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mucker Capital
+  discovered_from: michael-dearing
+- name: Mucker Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dearing
+- name: Hank Vigil
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Acequia Capital
+  discovered_from: fritz-lanman
+- name: Acequia Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fritz-lanman

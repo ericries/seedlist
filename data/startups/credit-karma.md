@@ -61,6 +61,9 @@ investors:
 - round: Seed
   slug: nigel-morris
   year: 2009
+- round: Early stage
+  slug: meyer-malka
+  year: 2014
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Credit Karma

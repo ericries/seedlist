@@ -123,6 +123,9 @@ investors:
 - round: Growth
   slug: hans-tung
   year: 2015
+- round: Growth
+  slug: glenn-solomon
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

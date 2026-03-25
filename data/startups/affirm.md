@@ -71,6 +71,9 @@ investors:
 - round: Early
   slug: hans-tung
   year: 2014
+- round: Series F
+  slug: meyer-malka
+  year: 2019
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

@@ -79,6 +79,9 @@ investors:
 - round: Series E
   slug: mood-rowghani
   year: 2021
+- round: Series A
+  slug: meyer-malka
+  year: 2016
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Revolut

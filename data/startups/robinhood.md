@@ -97,6 +97,9 @@ investors:
 - round: Growth
   slug: scott-stanford
   year: 2015
+- round: Series A
+  slug: meyer-malka
+  year: 2014
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

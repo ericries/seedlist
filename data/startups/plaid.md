@@ -88,6 +88,9 @@ investors:
 - round: Seed
   slug: sundeep-peechu
   year: 2013
+- round: Seed
+  slug: hunter-walk
+  year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

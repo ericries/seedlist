@@ -27,6 +27,12 @@ firms:
 - round: Series A
   slug: khosla-ventures
   year: 2009
+- round: Seed
+  slug: acequia-capital
+  year: 2010
+- round: Series C (extended)
+  slug: notable-capital
+  year: 2011
 founded: 2009
 founders:
 - name: Jack Dorsey
@@ -64,6 +70,12 @@ investors:
 - round: Series A
   slug: vinod-khosla
   year: 2009
+- round: Seed
+  slug: fritz-lanman
+  year: 2010
+- round: Series C (extended)
+  slug: glenn-solomon
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Square

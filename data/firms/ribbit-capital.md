@@ -1,34 +1,47 @@
 ---
-name: "Ribbit Capital"
-slug: ribbit-capital
-type: firm
-website: "https://www.ribbitcap.com"
-location: "Palo Alto, CA"
 founded: 2012
-fund_size: "~$12B AUM across 10+ funds"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [fintech, insurtech, crypto, payments, lending, banking]
-team:
-  - slug: micky-malka
-    role: "Founder & Managing Partner"
-    name: "Meyer 'Micky' Malka"
-  - slug: nick-shalek
-    role: "General Partner"
-    name: "Nick Shalek"
-  - slug: nikolay-kostov
-    role: "General Partner"
-    name: "Nikolay Kostov"
-  - slug: sigal-mandelker
-    role: "General Partner"
-    name: "Sigal Mandelker"
-  - slug: jordan-angelos
-    role: "General Partner"
-    name: "Jordan Angelos"
-  - slug: brian-mcgrath
-    role: "General Partner"
-    name: "Brian McGrath"
-status: published
+fund_size: ~$12B AUM across 10+ funds
 last_researched: 2026-03-20
+location: Palo Alto, CA
+name: Ribbit Capital
+sector_focus:
+- fintech
+- insurtech
+- crypto
+- payments
+- lending
+- banking
+slug: ribbit-capital
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Meyer 'Micky' Malka
+  role: Founder & Managing Partner
+  slug: meyer-malka
+- name: Nick Shalek
+  role: General Partner
+  slug: nick-shalek
+- name: Nikolay Kostov
+  role: General Partner
+  slug: nikolay-kostov
+- name: Sigal Mandelker
+  role: General Partner
+  slug: sigal-mandelker
+- name: Jordan Angelos
+  role: General Partner
+  slug: jordan-angelos
+- name: Brian McGrath
+  role: General Partner
+  slug: brian-mcgrath
+- name: Micky Malka
+  role: Founder & Managing Partner
+  slug: micky-malka
+type: firm
+website: https://www.ribbitcap.com
 ---
 
 ## About

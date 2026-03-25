@@ -107,6 +107,9 @@ investors:
 - round: Series D
   slug: henry-ellenbogen
   year: 2021
+- round: Series A (lead)
+  slug: meyer-malka
+  year: 2017
 last_researched: 2026-03-22
 location: San Francisco, CA
 name: Brex

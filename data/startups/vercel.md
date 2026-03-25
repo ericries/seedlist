@@ -87,6 +87,9 @@ investors:
 - round: ~2018
   slug: gokul-rajaram
   year: 2018
+- round: Series C (GGV, $102M)
+  slug: glenn-solomon
+  year: 2021
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Vercel

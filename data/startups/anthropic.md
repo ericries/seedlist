@@ -106,6 +106,9 @@ investors:
 - round: Growth
   slug: hans-tung
   year: 2023
+- round: Growth
+  slug: glenn-solomon
+  year: 2025
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

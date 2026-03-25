@@ -33,6 +33,9 @@ firms:
 - round: Seed
   slug: gil-capital
   year: 2011
+- round: Seed
+  slug: acequia-capital
+  year: 2010
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -78,6 +81,9 @@ investors:
 - round: ~2012
   slug: connie-chan
   year: 2012
+- round: Seed
+  slug: fritz-lanman
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

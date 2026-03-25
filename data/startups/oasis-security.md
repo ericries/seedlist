@@ -34,6 +34,9 @@ investors:
 - round: '2024'
   slug: gili-raanan
   year: 2024
+- round: Seed
+  slug: lior-simon
+  year: 2022
 last_researched: 2026-03-24
 location: New York, New York
 name: Oasis Security
