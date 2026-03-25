@@ -25,6 +25,12 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: Ethan Kurzweil is Founder and Managing Partner of Chemistry VC ($350M Fund I,
+  Oct 2024). Previously a Managing Partner at Bessemer Ventures for 16 years, where
+  he led investments in PagerDuty (IPO 2019), SendGrid (IPO 2017), Twitch (Amazon
+  $970M), and Intercom. Co-founded Chemistry with Mark Goldberg (Index) and Christina
+  Shen (Bessemer/a16z). Chemistry writes $3-30M checks (average $10-12M) exclusively
+  at seed and Series A. Son of inventor Ray Kurzweil.
 type: individual
 ---
 

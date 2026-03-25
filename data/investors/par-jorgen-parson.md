@@ -28,6 +28,7 @@ social:
   linkedin: "linkedin.com/in/pär-jörgen-pärson-4946b"
 status: published
 last_researched: 2026-03-24
+tldr: "General Partner at Northzone; Stockholm/New York. Seed-to-growth investor ($400K-$24M) with value-chain disruption thesis. Portfolio 40% media/consumer (Spotify Series A lead, fuboTV). Real thesis: Nordic media/entertainment founder + value chain disruption, not stated 'energy transition/health.' 3 unicorn+ exits (Spotify IPO, iZettle $2.2B, Avito $2.7B). Heavy board participation."
 ---
 
 ## Background

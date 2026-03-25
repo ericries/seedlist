@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/chest"
 status: published
 last_researched: 2026-03-20
+tldr: "Chester Ng is a General Partner at Atomic, a venture studio that founds and funds companies from scratch (co-founder model). His 18 verified Atomic portfolio companies span healthcare (22%), proptech (17%), AI/ML (17%), and e-commerce (11%). Serial entrepreneur who built SweetLabs (backed by Bessemer, GV, Hoffman) and worked at DivX (IPO→$1B peak market cap). Believes 'downturns are the best times to start companies,' reflecting Atomic's counter-cyclical studio approach."
 ---
 
 ## Background

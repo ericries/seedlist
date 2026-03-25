@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/carmichaelsroberts"
 status: published
 last_researched: 2026-03-24
+tldr: "Carmichael Roberts is Managing Partner of Breakthrough Energy Ventures (Bill Gates' $2B+ climate fund) and co-founder of Material Impact ($800M+ AUM, 3 funds). His 34 Material Impact companies span sustainable manufacturing (24%), biomanufacturing (21%), transportation/mobility (15%), robotics/AI (12%). PhD organic chemist; serial entrepreneur with exits at GelTex (acquired by Genzyme for $1.3B) and multiple material science ventures. BEV invests where traditional VCs won't due to deep in-house scientific expertise."
 ---
 
 ## Background

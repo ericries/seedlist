@@ -70,6 +70,9 @@ investors:
 - round: ~2017
   slug: katherine-boyle
   year: 2017
+- round: Series B
+  slug: david-ulevitch
+  year: 2019
 last_researched: 2026-03-20
 location: Costa Mesa, CA
 name: Anduril Industries

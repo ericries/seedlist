@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/chrishulls"
 status: published
 last_researched: 2026-03-15
+tldr: "Chris Hulls is co-founder and former CEO of Life360, the family safety app serving 100M+ users (NASDAQ-listed, $330M+ annual revenue). Transitioned to Executive Chairman in Aug 2025. Ventures Partner at Recursive Ventures (Pre-seed/Seed data+AI startups). Angel investor in 26+ companies including Ring, Tile, Credible, Zendrive. Air Force veteran; bootstrapped Life360 with $30K borrowed from mother and college professor in 2007."
 ---
 
 ## Background

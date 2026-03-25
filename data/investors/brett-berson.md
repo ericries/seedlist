@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/brett-berson-9986094"
 status: published
 last_researched: 2026-03-23
+tldr: "Brett Berson is a Partner at First Round Capital since 2016, leading the firm's Platform team (The Review publication, Angel Track, In Depth podcast). His 3 verified investments—Clay, Stedi, Persona—are enterprise infrastructure companies. He articulates a 'slow bake' vs. 'fast bake' framework for founders, showing patience with companies taking years to reach product-market fit. Grew up at First Round since 2008, progressing from intern to partner."
 ---
 
 ## Background

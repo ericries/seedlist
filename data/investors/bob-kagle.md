@@ -17,6 +17,7 @@ social:
   linkedin: ""
 status: published
 last_researched: 2026-03-15
+tldr: "Bob Kagle is co-founder of Benchmark Capital and best known for leading the $6.7M Series A into eBay in 1997, which returned $5B+ by spring 1999—'the best-performing Silicon Valley investment ever.' His 22 verified Benchmark-era investments cluster in online marketplaces (55%) and consumer internet, reflecting a pioneering thesis on network effects and community dynamics. He retired from active investing in 2011 at age 55."
 ---
 
 ## Background

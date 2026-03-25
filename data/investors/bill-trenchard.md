@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/billtrenchard"
 status: published
 last_researched: 2026-03-16
+tldr: "Bill Trenchard is a Partner at First Round Capital since 2012 and a founding partner of Founder Collective. His 30 verified investments skew heavily toward enterprise SaaS (37%)—Looker, Sift, Superhuman, Labelbox—with notable early angel wins in Uber and LendingClub. He seeks founders who go 'unreasonably deep' on dusty, overlooked industries ripe for automation; his founders are frequently technical domain experts he has prior relationships with."
 ---
 
 ## Background

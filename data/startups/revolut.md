@@ -54,6 +54,9 @@ firms:
 - round: Secondary
   slug: coatue-management
   year: 2025
+- round: Series E
+  slug: bond
+  year: 2021
 founded: 2015
 founders:
 - name: Nik Storonsky
@@ -73,6 +76,9 @@ investors:
 - round: ~2016
   slug: neil-rimer
   year: 2016
+- round: Series E
+  slug: mood-rowghani
+  year: 2021
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Revolut

@@ -586,7 +586,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: TaskRabbit
   type: startup
@@ -4219,9 +4219,10 @@ queue:
 - name: Shumway Capital
   type: firm
   priority: high
-  status: pending
+  status: skipped
   added: '2026-03-17'
   discovered_from: chris-shumway
+  skip_reason: Hedge fund, not VC
 - name: TIME Ventures
   type: firm
   priority: high
@@ -4261,7 +4262,7 @@ queue:
 - name: Expa
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: garrett-camp
 - name: Sherpa Capital
@@ -5269,7 +5270,7 @@ queue:
 - name: Dana Oshiro
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Heavybit
   discovered_from: joseph-ruscio
@@ -5318,14 +5319,14 @@ queue:
 - name: Deena Shakir
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lux Capital
   discovered_from: lux-capital
 - name: Ali Tamaseb
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: DCVC
   discovered_from: dcvc
@@ -5371,21 +5372,21 @@ queue:
 - name: Mood Rowghani
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: BOND
   discovered_from: bond
 - name: Nick Shalek
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ribbit Capital
   discovered_from: ribbit-capital
 - name: David Ulevitch
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: andreessen-horowitz
   discovered_from: katherine-boyle
@@ -6453,3 +6454,136 @@ queue:
   status: completed
   added: '2026-03-17'
   discovered_from: carmichael-roberts
+- name: Revolution Growth
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigcommerce
+- name: Steve Case
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Revolution Growth
+  discovered_from: bigcommerce
+- name: GGV Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigcommerce
+- name: Larry Bohn
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: bigcommerce
+- name: Martina Lauchengco
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Costanoa Ventures
+  discovered_from: dana-oshiro
+- name: Costanoa Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dana-oshiro
+- name: Bob Muglia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dana-oshiro
+- name: Anarghya Vardhana
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: deena-shakir
+- name: 7wire Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deena-shakir
+- name: Maveron
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deena-shakir
+- name: Wing Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ali-tamaseb
+- name: Innovation Endeavors
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ali-tamaseb
+- name: Nikolay Kostov
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ribbit Capital
+  discovered_from: nick-shalek
+- name: Naveen Selvadurai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Expa
+  discovered_from: expa
+- name: Hooman Radfar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Expa
+  discovered_from: expa
+- name: Whatnot
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mood-rowghani
+- name: Partiful
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mood-rowghani
+- name: Substack
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mood-rowghani
+- name: Kalshi
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mood-rowghani
+- name: Flock Safety
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-ulevitch
+- name: Skydio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-ulevitch

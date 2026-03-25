@@ -57,6 +57,9 @@ investors:
 - round: Unknown
   slug: benny-peretz
   year: 2021
+- round: Growth
+  slug: mood-rowghani
+  year: 2019
 last_researched: 2026-03-20
 location: Sydney, Australia
 name: Canva

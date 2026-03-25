@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/andrewdudum"
 status: published
 last_researched: 2026-03-20
+tldr: "Andrew Dudum is founder/CEO of Hims & Hers (NYSE: HIMS, public 2021, $4B+ market cap) and co-founder of Atomic, a startup studio. His 10 verified angel investments cluster in healthcare/telehealth (40%), proptech (20%), and enterprise (20%), reflecting overlap with Atomic's portfolio. Operates as an advisor-investor at seed stage with check sizes of $50K-$500K."
 ---
 
 ## Background

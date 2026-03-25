@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/balkansky"
 status: published
 last_researched: 2026-03-16
+tldr: "Bogomil Balkansky is a Partner at Sequoia Capital since 2020, bringing 20+ years of operating experience from McKinsey, Siebel, VMware, and Google. His 18 verified investments focus on enterprise cloud infrastructure, developer tools, and cybersecurity. He prioritizes 'iconoclastic thinking' and 'magnetism' in founders, and relies on intuition rather than analytical frameworks. Recently articulated particular interest in the intersection of AI and cybersecurity."
 ---
 
 ## Background

@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/ebrescia"
 status: published
 last_researched: 2026-03-20
+tldr: "Erica Brescia is a Managing Director at Redpoint Ventures since 2021, bringing 20 years in open-source, infrastructure, and developer tools. Former COO of GitHub; co-founded Bitnami (YC 2013, acquired by VMware), a capital-efficient app-packaging startup. Her 10 verified investments focus on DevTools, Infrastructure, AI, Security, and open-source. Board member of Linux Foundation (200+ projects). Emphasizes community-driven adoption at infrastructure layer; Redpoint checks range $1-20M."
 ---
 
 ## Background

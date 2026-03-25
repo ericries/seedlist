@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/eliast"
 status: published
 last_researched: 2026-03-15
+tldr: "Elias Torres is co-founder/CTO of Drift (acquired at $1B+ by Vista Equity in 2021), one of only a few Latino-founded unicorns. Immigrated from Nicaragua at 17. Prior: co-founded Performable (acquired by HubSpot), worked at IBM on open-source collab tools. Recently co-founded Agency ($20M Series A—AI agents for customer success). Venture Partner at Array Ventures; member of The Community Fund. Philosophy: 'If you've worked for me and start a company, I invest.'"
 ---
 
 ## Background

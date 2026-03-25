@@ -121,6 +121,9 @@ investors:
 - round: Series D (Lead)
   slug: tom-loverro
   year: 2017
+- round: Series A
+  slug: nick-shalek
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

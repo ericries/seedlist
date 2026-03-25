@@ -24,6 +24,12 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: Benny Peretz is co-founder and Managing Partner of Greenoaks Capital, which
+  manages $15B+ and has generated $13B+ gross profits over 13 years (33% net IRR).
+  His 25 verified investments focus on fintech (20%), e-commerce/marketplaces (16%),
+  enterprise SaaS (16%), with distinctive global reach (Coupang in Korea, Deliveroo
+  in UK, Personio in Germany). Greenoaks invests in concentrated, high-conviction
+  positions ($25-75M checks) and continues building companies through public markets.
 type: individual
 ---
 

@@ -22,6 +22,7 @@ stage_focus:
 - series-a
 status: published
 type: individual
+tldr: "Assaf Rappaport is co-founder and CEO of Wiz, acquired by Alphabet for $32B in March 2025—Google's largest acquisition. As an angel investor, he makes small checks ($5K-$50K) into the Israeli cybersecurity ecosystem where he is deeply networked through Unit 8200 and his position at Wiz; 55% of his 11 verified investments are cybersecurity companies."
 ---
 
 ## Background

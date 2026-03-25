@@ -184,6 +184,9 @@ investors:
 - round: Late-stage
   slug: marc-stad
   year: 2018
+- round: Growth
+  slug: mood-rowghani
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

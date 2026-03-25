@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/ericvishria"
 status: published
 last_researched: 2026-03-17
+tldr: "Eric Vishria is a General Partner at Benchmark since July 2014 (first partner addition in 6+ years). Co-founder/CEO of RockMelt (acquired by Yahoo for $60-70M in 2013). Joined early at Opsware/Loudcloud; served as VP Products at HP Software. His 9 verified investments brought Confluent (2021) and Amplitude (2021) to IPO. Invests via 'wind vs. boat' framework—prioritizing structural shifts over products. Views foundation models as 'fastest depreciating' asset; focuses on application and infrastructure layers."
 ---
 
 ## Background

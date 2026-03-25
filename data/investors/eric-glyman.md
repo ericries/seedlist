@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/eglyman"
 status: published
 last_researched: 2026-03-21
+tldr: "Eric Glyman is co-founder and CEO of Ramp ($32B valuation, $1B+ ARR), fastest NYC startup to unicorn status. Prior: co-founded Paribus (acquired by Capital One), which became Capital One Shopping. 17 verified angel investments focus on fintech (35%), enterprise/productivity (24%), healthtech (12%). Fluent in Mandarin, Portuguese, Spanish. Emphasizes founder resilience and conviction; advocates for attracting reputable angels for founder credibility with customers and LPs."
 ---
 
 ## Background

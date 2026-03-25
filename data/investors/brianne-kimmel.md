@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/briannekimmel"
 status: published
 last_researched: 2026-03-14
+tldr: "Brianne Kimmel founded Worklife Ventures in September 2019, raising $10M Fund I (backed by Andreessen, Dixon, Tan, Ohanian, Yuan) that returned 7x in <3 years, then $35M Fund II in 2022. Her 42 verified investments focus on 'future of work'—consumerization of enterprise, creator economy, HR tech, developer tools—with checks of $50K-$2M. Backed by Marc Andreessen at age 30 with personal savings as collateral; built SaaS School curriculum teaching 5,000+ founders."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/byrondeeter"
 status: published
 last_researched: 2026-03-20
+tldr: "Byron Deeter is a Partner at Bessemer Venture Partners since 2005, leading the global cloud practice. His 40 verified investments include 26 valued above $1B+ and 13 IPOs—Twilio, Box, DocuSign, ServiceTitan among them. Cloud/SaaS represents 38% of his portfolio, vertical SaaS 15%. He co-authored 'State of the Cloud' report and created the Cloud 100 list. Former CEO of Trigo Technologies (acquired by IBM); positions himself as investing 5-10 years ahead of public markets."
 ---
 
 ## Background

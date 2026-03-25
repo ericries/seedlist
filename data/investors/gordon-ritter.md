@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/gordonpritter"
 status: published
 last_researched: 2026-03-24
+tldr: "Founder of Emergence Capital (2003) investing seed-Series B in enterprise SaaS and AI. $8B+ in realized returns on <$2B invested (9 IPOs). Co-founder of Software as a Service with Marc Benioff (Salesforce founder). Known for 'coaching networks' thesis: ML-driven performance tools for specific industries."
 ---
 
 ## Background

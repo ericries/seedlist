@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/bwertz"
 status: published
 last_researched: 2026-03-18
+tldr: "Boris Wertz is founder and GP of Version One Ventures, managing $250M+ across five funds. His 65 verified investments (43 current + 22 exits) are diversified: crypto/web3 (18%), SaaS (17%), climate/energy (11%), marketplaces (9%), and biotech (8%). He famously invests at the 'edges, not mainstream' and backs founders 'without obvious pedigree.' His AbeBooks was acquired by Amazon for ~$100M; recent exit pattern shows strong crypto/climate tilt."
 ---
 
 ## Background

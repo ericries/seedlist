@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/bruce-dunlevie-4285603"
 status: published
 last_researched: 2026-03-15
+tldr: "Bruce Dunlevie is a Founding General Partner of Benchmark Capital (1995), serving on boards of One Medical, WeWork (Lead Independent Director), Rambus (Chairman), and Palm. His 18 verified investments span enterprise SaaS, marketplaces, and healthcare. Known for 'What could go right?' investing philosophy and for teaching entrepreneurs strategic board governance. Co-architected Benchmark's pioneering equal-partnership model; donated $80M to Stanford Medicine in 2021."
 ---
 
 ## Background

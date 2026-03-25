@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/rickcyang"
 status: published
 last_researched: 2026-03-24
+tldr: "General Partner & Head of Technology at NEA; promoted Partner 2015 (Plaid investor). Invests seed-to-growth ($2M-$50M) with dual focus: fintech/infrastructure (32% of portfolio, including Plaid), gaming/esports (21%). Recent AI pivot with Samaya AI, Genmo, Kira. Multistage investor at mega-fund with $6.2B under management. Co-heads NEA's seed practice."
 ---
 
 ## Background

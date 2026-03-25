@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/andrewdfeldman"
 status: published
 last_researched: 2026-03-17
+tldr: "Andrew Feldman is co-founder and CEO of Cerebras Systems, a $23B+ AI hardware startup pursuing an IPO in 2026. He is not meaningfully active as a startup investor; his value to founders lies in operator and domain expertise in AI/semiconductor infrastructure rather than capital allocation. Named to TIME's 100 Most Influential People in AI in 2024."
 ---
 
 ## Background

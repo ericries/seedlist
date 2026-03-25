@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/mohamad-makhzoumi-37368334"
 status: published
 last_researched: 2026-03-24
+tldr: "Co-CEO of NEA (leading healthcare practice). Co-founder of Strive Health ($550M Series D), Radiology Partners, Curana Health—venture studio model. Portfolio 100% healthcare: 55% provider platforms, 18% kidney care specialization (DSI, Strive, DaVita NephroLife, US Renal). Multistage $2M-$50M checks. Healthcare infrastructure thesis: 'administrative waste and boring healthcare problems.'"
 ---
 
 ## Background

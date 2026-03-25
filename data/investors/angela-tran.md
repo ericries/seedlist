@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/angela-tran-38262131"
 status: published
 last_researched: 2026-03-18
+tldr: "Angela Tran is General Partner at Version One Ventures, a Vancouver-based early-stage fund. Her 16 confirmed investments cluster in deep tech: robotics/hardware (31%), climate/energy (25%), and biotech (19%), a notable hardware bias diverging from typical seed funds' software focus. Her engineering PhD and founder background attract technically deep teams; recent vintage shows growing India allocation."
 ---
 
 ## Background

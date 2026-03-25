@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/andrewbraccia"
 status: published
 last_researched: 2026-03-19
+tldr: "Andrew Braccia is a Partner at Accel known for his $4.6B Slack investment from Series A through IPO. His 26-company portfolio skews heavily toward consumer-facing platforms (60%) at scale—Squarespace, Cursor, Lynda.com—with a notable early-stage network advantage from Yahoo and strong SaaS/marketplace exits. Maintains a notably low public profile and leads rounds with outsized conviction checks."
 ---
 
 ## Background

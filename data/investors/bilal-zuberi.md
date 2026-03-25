@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/bzuberi"
 status: published
 last_researched: 2026-03-17
+tldr: "Bilal Zuberi is Founder of Red Glass Ventures (AI x physical world) and former General Partner at Lux Capital. His 19 verified investments focus on autonomous systems/mobility (21%), industrial manufacturing (21%), and cybersecurity (16%), with conviction investing across seed through growth. PhD in Physical Chemistry from MIT and technical founder background; seeks founders who 'go unreasonably deep' on hard tech problems."
 ---
 
 ## Background

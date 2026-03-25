@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/fabricegrinda"
 status: published
 last_researched: 2026-03-18
+tldr: "Fabrice Grinda is co-founder of FJ Labs ($175M active fund capital, 2013), which Forbes ranks #1 angel investor globally by volume and exits. Founded Aucland (1998, European eBay), Zingy (acquired for $80M in 2004), OLX (acquired by Naspers, 300M monthly users). FJ Labs is most active early-stage investor (PitchBook 2023), focuses on marketplaces (~70% of portfolio), with additional theses in B2B digitization, AI-enhanced marketplaces, and inequality/climate. Checks $220K-$1.3M; 1,100+ total investments."
 ---
 
 ## Background

@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/chris-shumway-883a09103"
 status: published
 last_researched: 2026-03-19
+tldr: "Chris Shumway is Founder and Managing Partner of Shumway Capital, which grew from $70M (2001) to $9B+ in AUM. Former Tiger Management Senior Managing Director; converted hedge fund to family office in 2011. His 17 verified investments cluster in healthcare (41%—Finch Therapeutics, Genoa, MyEyeDr), technology/fintech (24%), and consumer (12%). Invests with permanent capital base enabling decade+ investment horizons. Donated $50M+ to education and science."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/bryanoffutt"
 status: published
 last_researched: 2026-03-19
+tldr: "Bryan Offutt is a Partner at Hanabi Capital (founded 2025 with Mike Volpi and Ishani Thakur, all from Index Ventures). His 10 verified investments focus on AI/ML infrastructure (30%) and data infrastructure/developer tools (40%). Former Palantir infrastructure engineer and MemSQL product manager; at Index Ventures he tracked open-source adoption patterns. He prioritizes startups with 'big shifts in cost savings and revenue driving' over hype-driven GitHub stars."
 ---
 
 ## Background

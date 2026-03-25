@@ -24,6 +24,7 @@ stage_focus:
 - seed
 status: published
 type: individual
+tldr: "Chris Fralic is a Board Partner at First Round Capital since 2006 (transitioned from full Partner in 2019). Named to 2021 Forbes Midas List; 35+ years of tech industry experience. Investments focus on ad-tech, gaming, e-commerce, social, consumer, and connected devices. Helped launch TEDTalks with TED in 2006 (10B+ views). Frames relationship-building as central to investing; teaches on Maven about professional networking."
 ---
 
 ## Background

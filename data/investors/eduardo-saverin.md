@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/saverin"
 status: published
 last_researched: 2026-03-15
+tldr: "Eduardo Saverin is Facebook co-founder (2%) and co-founder/co-CEO of B Capital Group ($9B+ AUM, 9 global offices). Co-founded with Raj Ganguly; leverages BCG strategic partnership. His 140+ B Capital portfolio spans enterprise, healthcare, fintech, logistics, climate, AI. Known for 'people first' investment philosophy. Renounced US citizenship in 2011 for Singapore. At personal angel stage, invested in Qwiki, Jumio, ShopSavvy; views healthcare as next trillion-dollar frontier."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "https://www.linkedin.com/in/eblach/"
 status: published
 last_researched: 2026-03-18
+tldr: "Erik Blachford is an independent angel investor and founder of Blachford Capital LLC. Founded Expedia brand (Microsoft), later CEO of Expedia and IAC Travel (Hotels.com, Hotwire). 19 verified investments cluster in travel/hospitality tech (Hipcamp, Zillow, TourRadar), clean energy (TerraPass), and proptech. Venture Partner at TCV 2011-2021. Emphasizes faith in founders over plans; part of informal 'fab five' travel angel investor network with Rich Barton, Brad Gerstner, Sam Shank."
 ---
 
 ## Background

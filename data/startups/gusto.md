@@ -192,6 +192,9 @@ investors:
 - round: Early stage
   slug: gordon-ritter
   year: 2016
+- round: Series B
+  slug: nick-shalek
+  year: 2015
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

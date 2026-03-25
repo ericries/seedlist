@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/arasha/"
 status: published
 last_researched: 2026-03-16
+tldr: "Arash Afrakhteh is a Partner at Pear VC who founded Cariden Technologies (acquired by Cisco for $141M in 2012). His 8-9 verified investments focus on AI/ML and enterprise automation (50%), with a technical founder preference and hands-on operator mindset. Strong founder testimonials highlight his deep domain expertise and willingness to get into the trenches."
 ---
 
 ## Background

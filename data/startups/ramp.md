@@ -129,6 +129,9 @@ investors:
 - round: Series E
   slug: brian-feinstein
   year: 2025
+- round: Series C+
+  slug: deena-shakir
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

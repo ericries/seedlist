@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/bennett-siegel-077a5743"
 status: published
 last_researched: 2026-03-22
+tldr: "Bennett Siegel is co-founder and GP of A* Capital (raised $300M Fund I and $315M Fund II with backing from Max Levchin and Peter Thiel). His 22 verified investments skew AI/ML (32%)—Decagon, Extra, Paraform—with distinctive focus on backing very young founders (20% of Fund II are teenagers). Leads seed and Series A rounds with conviction, positioning A* as backing 'outliers from idea to IPO.'"
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/chetanputtagunta"
 status: published
 last_researched: 2026-03-17
+tldr: "Chetan Puttagunta is a General Partner at Benchmark since 2018, having led investments in MongoDB and MuleSoft (Salesforce acquisition for $6.5B) while at NEA. His focus: enabling infrastructure and developer tools. Vocal advocate for open-source business models and open-weights AI. Ranked #74 on 2024 Forbes Midas List. Chairs Elastic board. Prioritizes founder quality over valuation and push back against metrics-driven obsession in early-stage companies."
 ---
 
 ## Background

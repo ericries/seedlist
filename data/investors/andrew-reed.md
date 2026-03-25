@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/andrew-reed-sequoia"
 status: published
 last_researched: 2026-03-16
+tldr: "Andrew Reed is a growth-stage partner at Sequoia Capital who prioritizes founder quality, craftsmanship, and product-led growth over financial models. His 25-company portfolio is dominated by SaaS and developer tools (36%) with distinctive global scope (Bolt in Estonia, Rappi in Colombia, ElevenLabs in Poland) and product excellence; recent mega-checks include $500M Series D into ElevenLabs and $190M into Peregrine."
 ---
 
 ## Background

@@ -27,6 +27,7 @@ stage_focus:
 - series-a
 status: published
 type: individual
+tldr: "Balaji Srinivasan is an engineer, founder (Counsyl acquired for $375M), former a16z partner, and prolific crypto angel with 133+ verified investments (40% blockchain infrastructure, 17% social, 12% DeFi). He launched the Network School and Balaji Fund (backed by Brian Armstrong, Naval Ravikant, Fred Wilson) focused on startup societies and network states. His broader thesis: the internet is replacing nation-state functions."
 ---
 
 ## Background

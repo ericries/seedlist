@@ -26,6 +26,7 @@ social:
   linkedin: linkedin.com/in/roybahat
 status: published
 last_researched: 2026-03-24
+tldr: "Head of Bloomberg Beta ($450M across 5 seed funds, open-source operations manual on GitHub). Pre-seed/seed investor ($250K-$1M, occasionally larger). Portfolio 40%+ AI/ML across all fund vintages. Recent wins: Slack, Kaggle, Weights & Biases. Known for founder-as-customer philosophy (NPS 82), unilateral partner investment approval. 93 founder millionaires."
 ---
 
 ## Background

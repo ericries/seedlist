@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/rahulvohra"
 status: published
 last_researched: 2026-03-19
+tldr: "Co-GP of Todd & Rahul Capital ($50M+ deployed, 120+ companies). Pre-seed/seed angel with $300K-$500K checks. Superhuman founder known for rigorous product-market fit methodology. Portfolio 32% enterprise SaaS (Mercury, Clearbit, WorkOS), 16% developer tools, includes 3 unicorns (ClassDojo, Placer.ai). Founder-operator partner philosophy: LPs are 150+ founders."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "https://www.linkedin.com/in/andreas-halvorsen-4a519b27a/"
 status: published
 last_researched: 2026-03-18
+tldr: "Ole Andreas Halvorsen is co-founder and CEO of Viking Global Investors, a $55B+ hedge fund managing long-short equity, long-only equity, and private equity. His public equity portfolio is heavily concentrated in large-cap industrials, financials, and consumer companies (70%+ large and mega-cap), driven by conviction in management quality and fundamental analysis. Recent quarters show aggressive sector rotation toward financials and insurance, away from big tech semiconductors."
 ---
 
 ## Background

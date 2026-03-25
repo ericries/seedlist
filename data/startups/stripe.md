@@ -60,6 +60,9 @@ firms:
 - round: Series A
   slug: gil-capital
   year: 2011
+- round: Growth
+  slug: bond
+  year: 2014
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -136,6 +139,9 @@ investors:
 - round: Growth
   slug: kareem-zaki
   year: 2016
+- round: Growth
+  slug: mood-rowghani
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

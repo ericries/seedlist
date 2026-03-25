@@ -81,6 +81,9 @@ team:
 - name: John O'Farrell
   role: Advisory Partner (formerly General Partner)
   slug: john-ofarrell
+- name: David Ulevitch
+  role: General Partner
+  slug: david-ulevitch
 type: firm
 website: https://a16z.com
 ---

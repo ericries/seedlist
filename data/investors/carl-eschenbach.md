@@ -25,6 +25,7 @@ stage_focus:
 - growth
 status: published
 type: individual
+tldr: "Carl Eschenbach is a Partner at Sequoia Capital's growth team since 2016, recently returning from co-CEO role at Workday (Dec 2022-Feb 2026). His 14-year VMware tenure grew the company from 200 employees/$30M to 20,000/$7B. He evaluates founders on 'SKQs' (skills, knowledge, qualities), prioritizing growth and founder self-awareness. Known for operational scaling expertise in enterprise infrastructure, cloud, SaaS, and cybersecurity; sits on boards of Palo Alto Networks, Zoom, Snowflake, UiPath."
 ---
 
 ## Background

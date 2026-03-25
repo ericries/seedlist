@@ -23,6 +23,7 @@ social:
   linkedin: "linkedin.com/in/brettdgibson"
 status: published
 last_researched: 2026-03-20
+tldr: "Brett Gibson is Managing Partner of Initialized Capital, a $3.2B+ early-stage VC firm. He co-founded Posterous (acquired by Twitter in 2012), spent years building YC's internal software systems, and built Folio (Initialized's investment software with blind voting to remove hierarchy bias). Gibson personally invests in crypto, developer tools, AI, and cloud infrastructure ($1-6M checks), positioning Initialized as open-minded about founders showing what the future will be."
 ---
 
 ## Background
