@@ -239,8 +239,11 @@ The following table includes a16z investments verified through the firm's own po
 | Aerodome | Series A | 2024 | Defense / Drones | Private [^10] |
 | Air Space Intelligence | Growth | 2024 | Defense / AI | Private [^10] |
 | 11x | Series A | 2024 | AI / Sales | Private [^10] |
+| Lio | Series A | 2026 | AI / Enterprise / Procurement | Private [^22] |
+| Smart Bricks | Pre-Seed | 2026 | Proptech / AI | Private [^23] |
+| Nexthop AI | Series B | 2026 | AI / Networking / Infrastructure | Private [^24] |
 
-*Note: This table includes 63 companies out of 1,076+ total portfolio companies (~6%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 66 companies out of 1,076+ total portfolio companies (~6%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -341,3 +344,9 @@ The following table includes a16z investments verified through the firm's own po
 [^20]: "Coinbase Raises $25M Led By Andreessen Horowitz To Build Its Bitcoin Wallet And Merchant Services." TechCrunch, December 12, 2013. https://techcrunch.com/2013/12/12/coinbase-raises-25m-from-andreessen-horowitz-to-build-its-bitcoin-wallet-and-merchant-services/
 
 [^21]: "Lessons From the VC Who's Seen It All Before." Fortune. https://fortune.com/longform/jeff-jordan-vc/. Accessed March 2026.
+
+[^22]: "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement." TechCrunch, March 5, 2026. https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/
+
+[^23]: "Smart Bricks Raises $5M Led by Andreessen Horowitz (a16z) to Build the AI Infrastructure Layer for Global Real Estate." PR Newswire, February 11, 2026. https://www.prnewswire.com/news-releases/smart-bricks-raises-5m-led-by-andreessen-horowitz-a16z-to-build-the-ai-infrastructure-layer-for-global-real-estate-302684737.html
+
+[^24]: "Nexthop AI Accelerates Into Hypergrowth With Oversubscribed $500M Series B Funding." BusinessWire, March 10, 2026. https://www.businesswire.com/news/home/20260310574112/en/Nexthop-AI-Accelerates-Into-Hypergrowth-With-Oversubscribed-$500M-Series-B-Funding-Catapulting-the-Companys-Valuation-to-$4.2-Billion

@@ -107,8 +107,10 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Optimizely | Growth | 2013 | Application Software | Acquired | [^7] |
 | Marketo | Growth | 2010 | Application Software | Acquired (2018) | [^7] |
 | Niantic | Growth | 2017 | Consumer | Active | [^7] |
+| Fundamental | Series A | 2026 | AI / Data Infrastructure | Active | [^11] |
+| Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |
 
-*This table represents approximately 25 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 27 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -138,3 +140,5 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^8]: GrowthCap, "Battery Ventures" firm profile, accessed March 2026. https://growthcapadvisory.com/firms/battery-ventures/
 [^9]: Battery Ventures website, "Neeraj Agrawal" profile, accessed March 2026. https://www.battery.com/people/neeraj-agrawal/
 [^10]: Battery Ventures website, "Marcus Ryu" profile, accessed March 2026. https://www.battery.com/people/marcus-ryu/
+[^11]: "Fundamental Announces $255M in Funding and Publicly Launches its Most Powerful Large Tabular Model." BusinessWire, February 5, 2026. https://www.businesswire.com/news/home/20260205966141/en/Fundamental-Announces-$255M-in-Funding-and-Publicly-Launches-its-Most-Powerful-Large-Tabular-Model-LTM
+[^12]: "Nexthop AI launches with $110m funding round." DataCenterDynamics, accessed March 2026. https://www.datacenterdynamics.com/en/news/nexthop-ai-launches-with-110m-funding-round/

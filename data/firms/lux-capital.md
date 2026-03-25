@@ -120,8 +120,10 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Aera Therapeutics | Early | 2021 | Biotech | Active | [^7] |
 | Applied Compute | Early | 2024 | AI infrastructure | Active | [^7] |
 | Erebor | Early | 2023 | Technology | Active | [^7] |
+| Nominal | Series B Extension | 2026 | Defense Tech / Hardware | Active | [^8] |
+| Cloaked | Series A | 2022 | Consumer / Privacy | Active | [^9] |
 
-*This table represents approximately 8% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
+*This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
 ## In Their Own Words
 
@@ -150,3 +152,5 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^5]: Tracxn, "Lux Capital - 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/lux-capital/__GYav2s0CpJYtKuH74TT9JyNQSZPYCXHgZgoi2ivawOM
 [^6]: 25iq, "Lessons from Josh Wolfe (Lux Capital)," July 2018. https://25iq.com/2018/07/07/lessons-from-josh-wolfe-lux-capital/
 [^7]: Lux Capital website, "Companies," accessed March 2026. https://www.luxcapital.com/companies
+[^8]: "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round." GlobeNewsWire, March 5, 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html
+[^9]: "Cloaked raises $25M Series A." TechCrunch, March 29, 2022. https://techcrunch.com/2022/03/29/cloaked-series-a/

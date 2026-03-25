@@ -216,8 +216,11 @@ The following table includes Sequoia Capital investments verified through the fi
 | Clay | Seed | ~2023 | AI / Sales | Private [^13] |
 | Sierra | Seed | ~2023 | AI / Customer Service | Private [^13] |
 | Anthropic | Growth | 2026 | AI | Private [^20] |
+| Nominal | Series B (led) | 2025 | Defense Tech / Hardware | Private [^25] |
+| Oasis Security | Series A | 2024 | Cybersecurity / Identity | Private [^26] |
+| Grow Therapy | Series C (led) | 2024 | Healthcare / Mental Health | Private [^27] |
 
-*Note: This table includes 36 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
+*Note: This table includes 39 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
 ## In Their Own Words
 
@@ -334,3 +337,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^23]: Ravishankar Iyer on X (Twitter), citing Jensen Huang's account of his pitch to Don Valentine. https://x.com/storyrulesindia/status/2023642864673276338. Accessed March 2026.
 
 [^24]: "The confidential YouTube Investment Memo by Sequoia." Alexander Jarvis. https://www.alexanderjarvis.com/the-confidential-youtube-investment-memo-by-sequoia-you-were-never-meant-to-see/. Accessed March 2026.
+
+[^25]: "Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months." TechCrunch, March 5, 2026. https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/
+
+[^26]: "Partnering with Oasis Security: The Stars Align." Sequoia Capital, accessed March 2026. https://sequoiacap.com/article/partnering-with-oasis-security-the-stars-align/
+
+[^27]: "Grow Therapy launches measurement-informed care, raises Series C." Grow Therapy blog, accessed March 2026. https://growtherapy.com/blog/grow-raises-series-c/

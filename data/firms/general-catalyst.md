@@ -183,7 +183,8 @@ The following table includes 65 verified investments sourced from General Cataly
 | Re:Build Manufacturing | Growth | ~2020 (founded) | Industrials | Private [^29] |
 | Tractian | Growth | ~2019 (founded) | Industrials / IoT | Private [^29] |
 | Collaborative Robotics | Growth | ~2022 (founded) | Robotics | Private [^29] |
-| Nominal | Growth | ~2023 (founded) | Industrials / Data | Private [^29] |
+| Nominal | Series B Extension | 2026 | Defense Tech / Hardware / Data | Private [^29][^36] |
+| Cloaked | Series B | 2026 | Consumer / Privacy | Private [^36] |
 | PhysicsX | Growth | ~2019 (founded) | AI / Simulation | Private [^29] |
 | Charm Industrial | Growth | ~2018 (founded) | Climate / Carbon Removal | Private [^29] |
 | Pacific Fusion | Growth | ~2024 (founded) | Energy / Fusion | Private [^29] |
@@ -316,3 +317,5 @@ No independently sourced founder testimonials were found in this research pass. 
 [^34]: "General Catalyst: Supporting Founders on their Journey." General Catalyst, Medium (General Catalyst Amplified), 2016. https://medium.com/general-catalyst-amplified/general-catalyst-supporting-founders-on-their-journey-7436edd882a6
 
 [^35]: "A Milestone for Samsara." General Catalyst Stories. https://www.generalcatalyst.com/stories/a-milestone-for-samsara. Accessed March 2026.
+
+[^36]: "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round." GlobeNewsWire, March 5, 2026 (General Catalyst participated). https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html; "Cloaked Raises $375 Million to Fight for Privacy in the Age of AI." BusinessWire, March 19, 2026 (General Catalyst led). https://www.businesswire.com/news/home/20260319361833/en/Cloaked-Raises-$375-Million-to-Fight-for-Privacy-in-the-Age-of-AI

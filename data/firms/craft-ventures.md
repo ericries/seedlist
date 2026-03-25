@@ -136,6 +136,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Noma Security | Series B | 2025 | Enterprise/Security | Active [^7] |
 | Upwind Security | Series B | 2024 | Enterprise/Security | Active [^7] |
 | Unframe AI | Series A | 2025 | Enterprise/AI | Active [^7] |
+| Oasis Security | Series B (led) | 2026 | Enterprise/Cybersecurity | Active [^10] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -172,3 +173,4 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^7]: Tracxn, "Craft Ventures — 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/craft-ventures/__zG-jTjgPJv__47yhWZzsDFo5-xt1T9jbrWaaAvKRAM4
 [^8]: Craft Ventures website, "Portfolio," accessed March 2026. https://www.craftventures.com/portfolio
 [^9]: Craft Ventures website, "Founder," accessed March 2026. https://www.craftventures.com/founder
+[^10]: "Oasis Security raises $120 million Series B to secure the rise of AI agents." Calcalist Tech, March 19, 2026. https://www.calcalistech.com/ctechnews/article/ske4mstcwl

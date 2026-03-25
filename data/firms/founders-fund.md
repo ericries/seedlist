@@ -229,8 +229,9 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Mnzil | Early | ~2023 (founded) | Enterprise (Middle East) | Private [^20] |
 | EnduroSat | Growth | ~2015 (founded) | Aerospace / Satellite | Private [^20] |
 | Anthropic | Series G | 2026 | AI | Private [^26] |
+| Nominal | Series B Extension | 2026 | Defense Tech / Hardware | Private [^35] |
 
-*Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft and Anthropic from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
+*Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
 ## In Their Own Words
 
@@ -337,3 +338,5 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^33]: "Brian Chesky, Airbnb co-founder: Peter Thiel's one piece of advice for entrepreneurs is about company culture." Slate, May 2014. https://slate.com/business/2014/05/brian-chesky-airbnb-co-founder-peter-thiels-one-piece-of-advice-for-entrepreneurs-is-about-company-culture.html
 
 [^34]: "Palmer Luckey, American Vulcan." Tablet Magazine. https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril. Accessed March 2026.
+
+[^35]: "Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months." TechCrunch, March 5, 2026. https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/

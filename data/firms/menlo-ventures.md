@@ -113,6 +113,7 @@ Based on Menlo Ventures' verified portfolio data:
 | PillPack | Early | ~2014 | Healthcare | Acquired by Amazon [^3] |
 | Siri | Early | ~2009 | AI/Voice | Acquired by Apple [^3] |
 | Typeface | Early | ~2023 | AI/Content | Private [^1] |
+| Grow Therapy | Series D | 2026 | Healthcare/Mental Health | Private [^9] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -134,3 +135,4 @@ No independently sourced founder testimonials found.
 [^6]: CNBC, "Anthropic, Menlo Ventures launch $100 million Anthology Fund for AI," July 17, 2024. https://www.cnbc.com/2024/07/17/anthropic-menlo-ventures-launch-100-million-anthology-fund-for-ai.html
 [^7]: TechCrunch, "Menlo Ventures and Anthropic have picked the first 18 startups for their $100M fund," December 18, 2024. https://techcrunch.com/2024/12/18/menlo-ventures-and-anthropic-have-picked-the-first-18-startups-for-their-100m-fund/
 [^8]: GlobeNewsWire, "Menlo Ventures' 2025 State of Generative AI Report," December 9, 2025. https://www.globenewswire.com/news-release/2025/12/09/3202258/0/en/Menlo-Ventures-2025-State-of-Generative-AI-Report-Enterprise-Investment-Hit-37B-in-2025-Tripling-in-One-Year.html
+[^9]: "Grow Therapy Raises $150 Million in Series D." PR Newswire, March 3, 2026. https://www.prnewswire.com/news-releases/grow-therapy-raises-150-million-in-series-d-as-it-solidifies-new-flagship-partnerships-302702388.html

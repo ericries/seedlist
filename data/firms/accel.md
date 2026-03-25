@@ -194,6 +194,9 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Vox Media | Early | 2011 | Media | [^6] |
 | MoPub | Early | 2010 | Advertising | [^6] |
 
+| Oasis Security | Series A | 2024 | Cybersecurity/Identity | [^14] |
+| Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
+
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
 ## In Their Own Words
@@ -227,3 +230,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^11]: Tech.eu, "Accel's 2025 Globalscape report: AI models and apps fuel record funding," accessed March 2026. https://tech.eu/2025/11/12/accels-2025-globalscape-report-ai-models-and-apps-fuel-record-funding/
 [^12]: Bloomberg, "Scale AI Backer Accel Set for $2.5 Billion Windfall on Meta Deal," accessed March 2026. https://www.bloomberg.com/news/articles/2025-06-13/scale-ai-backer-accel-set-for-2-5-billion-windfall-on-meta-deal
 [^13]: Medium, "Why Accel remains the best fund for founders in India," by Avinash Raghava, accessed March 2026. https://avinashraghava.medium.com/why-accel-remains-the-best-fund-for-founders-in-india-2b98d5bab9fa
+[^14]: "Partnering with Oasis Security: The Stars Align." Sequoia Capital, accessed March 2026. https://sequoiacap.com/article/partnering-with-oasis-security-the-stars-align/
+[^15]: "Dash0 Raises $110M Series B at $1B Valuation." Dash0 blog, March 23, 2026. https://www.dash0.com/blog/dash0-raises-usd110m-series-b

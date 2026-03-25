@@ -264,8 +264,9 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 | Traversal | Seed | ~2023 (founded) | Enterprise | Private [^22] |
 | Veriff | Seed | ~2015 (founded) | Identity Verification | Private [^22] |
 | World Labs | Seed | ~2024 (founded) | AI / 3D | Private [^22] |
+| Lio | Series A | 2026 | AI / Enterprise / Procurement | Private [^29] |
 
-*Note: This table includes all 155 companies listed on SV Angel's portfolio page. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". SV Angel has invested in 791 companies total per Tracxn [^14]; this table represents approximately 20% of the full portfolio, biased toward the firm's most notable investments.*
+*Note: This table includes all 155 companies listed on SV Angel's portfolio page plus Lio from cross-referenced startup profiles. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". SV Angel has invested in 791 companies total per Tracxn [^14]; this table represents approximately 20% of the full portfolio, biased toward the firm's most notable investments.*
 
 ## In Their Own Words
 
@@ -396,3 +397,5 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^27]: "Silicon Valley investing legend Ron Conway on the lessons learned from Napster." Fortune, December 2, 2020. https://fortune.com/2020/12/02/ron-conway-sv-angel-napster-google-facebook/
 
 [^28]: "Ron Conway Explained." Andreessen Horowitz (a16z). https://a16z.com/ron-conway-explained/. Accessed March 2026.
+
+[^29]: "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement." TechCrunch, March 5, 2026. https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/
