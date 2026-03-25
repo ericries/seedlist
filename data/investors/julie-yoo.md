@@ -1,6 +1,9 @@
 ---
 name: "Julie Yoo"
 slug: julie-yoo
+tldr: 'General Partner at a16z Bio + Health, $1-50M checks in AI-powered healthcare
+  tools and infrastructure. Former founder of Kyruus health-tech platform. Backs
+  clinician founders solving administrative bloat with AI.'
 type: individual
 firm: andreessen-horowitz
 role: "General Partner"

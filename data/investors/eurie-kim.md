@@ -1,6 +1,10 @@
 ---
 name: "Eurie Kim"
 slug: eurie-kim
+tldr: 'Managing Partner at Forerunner Ventures backing consumer health,
+  DTC, wellness, and supply chain companies at seed-Series A. $1M-$10M
+  checks. Chairperson of Ōura; board member at The Farmer''s Dog, Curology,
+  Stan.'
 type: individual
 firm: forerunner-ventures
 role: "Managing Partner"

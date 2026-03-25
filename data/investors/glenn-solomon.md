@@ -1,6 +1,10 @@
 ---
 name: "Glenn Solomon"
 slug: glenn-solomon
+tldr: 'Managing Partner at Notable Capital (formerly GGV) leading cloud
+  infrastructure and AI practice. $250K-$25M checks at seed through growth.
+  Sector concentration in security, developer tools, commercial open source.
+  30-year VC veteran.'
 type: individual
 firm: notable-capital
 role: "Managing Partner"

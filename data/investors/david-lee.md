@@ -1,6 +1,10 @@
 ---
 name: "David Lee"
 slug: david-lee
+tldr: 'Co-founder of Refactor Capital focusing on seed-stage healthcare,
+  biotech, and hard tech. Former SV Angel managing partner backed Stripe,
+  Airbnb, Twitter, Dropbox. Now EVP at Samsung Next leading 250+ AI and
+  frontier tech investments.'
 type: individual
 firm: refactor-capital
 role: "Co-Founder & Chairman"

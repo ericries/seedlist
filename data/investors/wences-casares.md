@@ -1,6 +1,9 @@
 ---
 name: Wences Casares
 slug: wences-casares
+tldr: 'Serial fintech founder and Bitcoin evangelist, angel investor with strong
+  Latin American founder network. Founded Xapo Bitcoin bank; portfolio weighted
+  toward emerging-market fintech and crypto infrastructure.'
 type: individual
 firm: independent
 role: Angel Investor & Founder/Chairman, Xapo Bank

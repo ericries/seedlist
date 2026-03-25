@@ -1,6 +1,9 @@
 ---
 name: "Solomon Hykes"
 slug: solomon-hykes
+tldr: 'CEO of Dagger and active angel investor, $25K-$250K checks in developer tools
+  and open-source infrastructure. Docker founder. Heavy French-founder affinity;
+  backs open-source-first goes-to-market.'
 type: individual
 firm: dagger
 role: "Co-Founder & CEO"

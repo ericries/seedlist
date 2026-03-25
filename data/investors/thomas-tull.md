@@ -1,6 +1,9 @@
 ---
 name: "Thomas Tull"
 slug: thomas-tull
+tldr: 'Founder of US Innovative Technology Fund (USIT), $50-200M checks in defense
+  tech and AI infrastructure. Legendary Pictures founder. Targets growth-stage
+  companies with dual-use tech relevant to national security.'
 type: individual
 firm: us-innovative-technology-fund
 role: "Founder & Chairman"

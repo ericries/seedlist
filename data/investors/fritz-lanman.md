@@ -1,6 +1,10 @@
 ---
 name: "Fritz Lanman"
 slug: fritz-lanman
+tldr: 'Co-founder of Acequia Capital backing seed-stage marketplace,
+  logistics, SaaS, and enterprise software. ~$1.5M sweet spot. CEO of
+  Playlist (ClassPass/Mindbody/Booker). Early investor in Square,
+  Pinterest, Wish.'
 type: individual
 firm: acequia-capital
 role: "Co-Founder & Venture Partner"

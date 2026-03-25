@@ -17,6 +17,9 @@ sector_focus:
 - synthetic-biology
 - ai-drug-discovery
 slug: jorge-conde
+tldr: 'General Partner at a16z Bio + Health investing $1-100M in therapeutics and
+  biotech tools. Co-founder of genome sequencing company Knome with George Church.
+  Backs academic-founded startups at seed and Series A.'
 social:
   twitter: "@JorgeCondeBio"
   linkedin: linkedin.com/in/jorge-conde-4099225

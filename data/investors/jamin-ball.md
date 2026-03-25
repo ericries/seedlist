@@ -1,6 +1,10 @@
 ---
 name: "Jamin Ball"
 slug: jamin-ball
+tldr: 'Partner at Altimeter Capital backing growth-stage data infrastructure,
+  enterprise software, and AI companies at Series B and later. $1M-$25M
+  checks. Author of widely followed Clouded Judgement SaaS metrics
+  newsletter.'
 type: individual
 firm: altimeter-capital
 role: "Partner"

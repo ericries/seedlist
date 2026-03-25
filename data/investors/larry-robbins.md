@@ -1,6 +1,9 @@
 ---
 name: "Larry Robbins"
 slug: larry-robbins
+tldr: 'Public equity hedge fund manager and activist investor, not a venture investor.
+  Manages $5.6B in healthcare and tech equities at Glenview Capital. Focus is
+  public markets and corporate activism.'
 type: individual
 firm: glenview-capital-management
 role: "Founder, CEO & Portfolio Manager"

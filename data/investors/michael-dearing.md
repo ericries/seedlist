@@ -1,6 +1,9 @@
 ---
 name: Michael Dearing
 slug: michael-dearing
+tldr: 'Founder of Harrison Metal seed fund, $200K-$2M checks emphasizing founder
+  exceptional management and product/market fit. Former eBay SVP. Backs founders
+  from large tech companies pivoting to startups.'
 type: individual
 firm: harrison-metal
 role: Founder & General Partner

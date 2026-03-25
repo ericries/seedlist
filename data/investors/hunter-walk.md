@@ -1,6 +1,10 @@
 ---
 name: "Hunter Walk"
 slug: hunter-walk
+tldr: 'Co-founder and partner at Homebrew backing seed-stage founders in
+  fintech, SaaS, healthcare, AI, and aerospace. $100K-$1.5M checks. Former
+  YouTube product manager (led AdSense at Google). Strong track record with
+  Plaid, Chime, Honor.'
 type: individual
 firm: homebrew
 role: "Co-Founder & Partner"

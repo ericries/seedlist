@@ -1,6 +1,9 @@
 ---
 name: "Kyle Samani"
 slug: kyle-samani
+tldr: 'Co-founder of Multicoin Capital (stepping down Feb 2026) managing ~$6B AUM.
+  Heavy Solana ecosystem concentration; invests $500K-$25M in Layer 1s, DeFi, and
+  DePIN. Deep conviction investor skeptical of broad crypto narratives.'
 type: individual
 firm: multicoin-capital
 role: "Co-Founder & Managing Partner (stepped down February 2026)"

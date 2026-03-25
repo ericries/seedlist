@@ -1,6 +1,9 @@
 ---
 name: "Renaud Laplanche"
 slug: renaud-laplanche
+tldr: 'Serial fintech founder and angel investor, $5K-$50K checks in emerging-market
+  lending and payments. LendingClub and Upgrade founder. Portfolio concentrated in
+  Latin America and Asia with fintech-only thesis.'
 type: individual
 firm: independent
 role: "Angel Investor / CEO, Upgrade"

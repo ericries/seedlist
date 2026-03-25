@@ -1,6 +1,9 @@
 ---
 name: "Stewart Butterfield"
 slug: stewart-butterfield
+tldr: 'Slack founder making selective angel investments; check size undisclosed.
+  Portfolio skews heavily (45%) toward productivity and collaboration software
+  from his Slack circle. Invests seed through Series B.'
 type: individual
 firm: independent
 role: "Angel Investor"

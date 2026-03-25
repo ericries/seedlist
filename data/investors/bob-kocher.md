@@ -1,6 +1,10 @@
 ---
 name: "Bob Kocher"
 slug: bob-kocher
+tldr: 'Partner at Venrock backing healthcare IT, digital health, and
+  value-based care at seed through Series B. Physician, former Obama
+  healthcare policy official. Co-founder of Lyra Health and Accompany
+  Health.'
 type: individual
 firm: venrock
 role: "Partner"

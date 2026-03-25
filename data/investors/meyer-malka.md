@@ -17,6 +17,9 @@ sector_focus:
 - crypto
 - lending
 slug: meyer-malka
+tldr: 'Founder of Ribbit Capital managing $14B AUM, $2-15M seed checks across fintech.
+  Repeat founder in Brazilian and Latin American fintech. Claimed 290+ investments
+  spanning neobanking, payments, and emerging-market financial services.'
 social:
   linkedin: linkedin.com/in/meyermalka
   twitter: '@mickymalka'

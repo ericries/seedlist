@@ -1,6 +1,9 @@
 ---
 name: "Matt Rogers"
 slug: matt-rogers
+tldr: 'Founder of Incite.org values-driven family office, $100K-$5M checks with 75%
+  climate-tech focus. Apple and Nest co-founder backing hardware-heavy sustainability
+  startups. Emphasizes carbon removal and energy infrastructure.'
 type: individual
 firm: incite-ventures
 role: "Founder"

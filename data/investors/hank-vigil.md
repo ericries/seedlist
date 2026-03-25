@@ -1,6 +1,10 @@
 ---
 name: "Hank Vigil"
 slug: hank-vigil
+tldr: 'Founder and managing partner of Acequia Capital backing seed-stage
+  enterprise software, AI, developer tools, and logistics. Former Microsoft
+  SVP Strategy and Partnerships. $100K-$5M checks focused outside Silicon
+  Valley.'
 type: individual
 firm: acequia-capital
 role: "Founder & Managing Partner"

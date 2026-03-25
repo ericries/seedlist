@@ -18,6 +18,10 @@ sector_focus:
 - data-services
 - logistics
 slug: erik-rannala
+tldr: 'Co-founder and managing partner of Mucker Capital backing B2B
+  SaaS, enterprise software, fintech, and marketplaces outside Silicon
+  Valley. $100K-$1.5M seed checks with strong LA/Southeast focus. Former
+  eBay and TripAdvisor executive.'
 social:
   linkedin: linkedin.com/in/erikr
   twitter: '@ersf'

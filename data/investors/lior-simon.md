@@ -1,6 +1,9 @@
 ---
 name: "Lior Simon"
 slug: lior-simon
+tldr: 'General Partner at Cyberstarts, $100K-$5M seed checks exclusively in Israeli
+  cybersecurity. Sequoia Capital alum. Backs founders with Unit 8200 military
+  intelligence backgrounds and strong intuitive energy.'
 type: individual
 firm: cyberstarts
 role: "General Partner"

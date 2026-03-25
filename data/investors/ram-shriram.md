@@ -1,6 +1,9 @@
 ---
 name: "Ram Shriram"
 slug: ram-shriram
+tldr: 'Founder of Sherpalo Ventures, $10K-$500K angel checks in AI, enterprise, and
+  biotech. Early Google investor and board member since 1998. Backs "hungry,
+  ambitious" founders often at pre-seed stage.'
 type: individual
 firm: sherpalo-ventures
 role: "Founder & Managing Partner"

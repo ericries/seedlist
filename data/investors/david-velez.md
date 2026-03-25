@@ -1,6 +1,10 @@
 ---
 name: "David Vélez"
 slug: david-velez
+tldr: 'Founder and CEO of Nubank, the world''s largest digital bank by
+  customers. Angel investor backing fintech, healthtech, and emerging
+  market solutions across Latin America, India, Southeast Asia. Checks
+  $5K-$50K. Giving Pledge signatory.'
 type: individual
 firm: nubank
 role: "Founder & CEO, Nubank (Angel Investor)"
