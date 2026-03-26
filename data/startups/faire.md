@@ -63,6 +63,9 @@ firms:
 - round: ~2017
   slug: marathon-management-partners
   year: 2017
+- round: ~2021
+  slug: benchmark
+  year: 2021
 founded: 2017
 founders:
 - name: Max Rhodes
@@ -109,6 +112,9 @@ investors:
 - round: Early
   slug: vinod-khosla
   year: 2017
+- round: ~2021
+  slug: everett-randle
+  year: 2021
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Faire

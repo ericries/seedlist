@@ -17,6 +17,7 @@ sector_focus:
 - aerospace
 - healthcare
 slug: zal-bilimoria
+tldr: 'Solo GP of Refactor Capital ($225M AUM) focused on hard tech, biotech, climate, and aerospace at pre-seed/seed stage. Portfolio reveals biology-heavy thesis (58% biotech, health, and materials) with conviction in scientist-founders commercializing academic research. Distinctive for solo GP structure, sub-3-week term sheets, and concentrated 20-25 company portfolios per fund.'
 social:
   twitter: "@zalzally"
   linkedin: linkedin.com/in/zalzally

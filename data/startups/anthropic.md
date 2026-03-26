@@ -45,6 +45,9 @@ firms:
 - round: Growth
   slug: notable-capital
   year: 2023
+- round: ~2023
+  slug: benchmark
+  year: 2023
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -109,6 +112,9 @@ investors:
 - round: Growth
   slug: glenn-solomon
   year: 2025
+- round: ~2023
+  slug: everett-randle
+  year: 2023
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

@@ -1,6 +1,7 @@
 ---
 name: "Jason Stoffer"
 slug: jason-stoffer
+tldr: 'Managing Partner and Chief Investment Officer at Maveron since 2012, leading the firm''s consumer brand investments at seed and Series A. Portfolio skews heavily toward e-commerce and education (65% combined) with founder-obsessed investment philosophy and operational background from Growth-stage work at Career Education Corporation. Strong track record with exits including Zulily IPO and General Assembly acquisition.'
 type: individual
 firm: maveron
 role: "Managing Partner & Chief Investment Officer"

@@ -1,6 +1,7 @@
 ---
 name: David Pakman
 slug: david-pakman
+tldr: 'Managing Partner and Head of Venture Investments at CoinFund, a cryptonative fund founded in 2015. After 13 years at Venrock backing consumer and enterprise companies (Dollar Shave Club, Crunchyroll), he shifted focus to Web3 and DeFi infrastructure. Portfolio shows actual concentration in DeFi and infrastructure (31%) over NFTs, despite public comments on collectibles; leads Series A investments in $6M-$10M range.'
 type: individual
 firm: coinfund
 role: Managing Partner & Head of Venture Investments

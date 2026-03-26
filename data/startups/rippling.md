@@ -42,6 +42,9 @@ firms:
 - round: Early stage (later Series G)
   slug: gil-capital
   year: 2019
+- round: ~2021
+  slug: benchmark
+  year: 2021
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -85,6 +88,9 @@ investors:
 - round: Angel
   slug: michael-seibel
   year: 2017
+- round: ~2021
+  slug: everett-randle
+  year: 2021
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

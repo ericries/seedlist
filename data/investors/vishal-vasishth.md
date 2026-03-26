@@ -1,6 +1,7 @@
 ---
 name: Vishal Vasishth
 slug: vishal-vasishth
+tldr: 'Managing Director at Obvious Ventures, a $1B+ impact-focused firm co-founded in 2014. Heavily invests in healthcare and biotech (44% of portfolio) alongside fintech and climate tech, backed by deep domain expertise from prior roles at Patagonia, B Lab, and as founder of SONG Investment Advisors. Combines purpose-driven thesis with rigorous founder evaluation, preferring scientist-founders who can articulate precise outcomes.'
 type: individual
 firm: obvious-ventures
 role: Co-Founder & Managing Director

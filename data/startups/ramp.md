@@ -72,6 +72,9 @@ firms:
 - round: Series E
   slug: bessemer-venture-partners
   year: 2025
+- round: ~2021
+  slug: benchmark
+  year: 2021
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -135,6 +138,9 @@ investors:
 - round: Early
   slug: vinod-khosla
   year: 2019
+- round: ~2021
+  slug: everett-randle
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

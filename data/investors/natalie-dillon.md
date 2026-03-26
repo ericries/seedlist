@@ -1,6 +1,7 @@
 ---
 name: "Natalie Dillon"
 slug: natalie-dillon
+tldr: 'Partner at Maveron since 2020, promoted from analyst to partner in 4 years. Focuses on culture-driven direct-to-consumer brands and healthcare innovation in the consumer space; smaller verified portfolio (8 investments) shows half in commerce/brand categories with exits via acquisition (Otis, Daring, Parade). Data-driven approach combining market analysis with thesis on generational consumer shifts.'
 type: individual
 firm: maveron
 role: "Partner"

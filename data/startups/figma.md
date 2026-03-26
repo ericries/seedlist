@@ -45,6 +45,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2016
+- round: ~2021
+  slug: benchmark
+  year: 2021
 founded: 2012
 founders:
 - name: Dylan Field
@@ -100,6 +103,9 @@ investors:
 - round: Series D
   slug: henry-ellenbogen
   year: 2020
+- round: ~2021
+  slug: everett-randle
+  year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

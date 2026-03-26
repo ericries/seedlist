@@ -1,6 +1,7 @@
 ---
 name: "David Wu"
 slug: david-wu
+tldr: 'Venture Partner at Maveron since 2012, self-described serial entrepreneur first, investor second. Built multiple companies before investing and leads deep board engagement across his 18+ verified portfolio companies spanning consumer hardware, health/wellness, and entertainment. Emphasizes founder passion over pedigree and the ''cauldron of consumer passion'' -- products that embed deeply in everyday consumer lives.'
 type: individual
 firm: maveron
 role: "Venture Partner"

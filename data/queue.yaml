@@ -1087,7 +1087,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Jack Altman
   type: individual
@@ -7032,7 +7032,7 @@ queue:
 - name: Cat Lee
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: anarghya-vardhana
@@ -7059,7 +7059,7 @@ queue:
 - name: Amy Cheetham
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Costanoa Ventures
   discovered_from: martina-lauchengco
@@ -7090,21 +7090,21 @@ queue:
 - name: Andrew Beebe
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Obvious Ventures
   discovered_from: vishal-vasishth
 - name: Jake Brukhman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: CoinFund
   discovered_from: david-pakman
 - name: Alex Felix
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: CoinFund
   discovered_from: david-pakman
@@ -7117,7 +7117,7 @@ queue:
 - name: Howard Schultz
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: dan-levitan
@@ -7136,7 +7136,7 @@ queue:
 - name: Alexa von Tobel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Inspired Capital
   discovered_from: penny-pritzker
@@ -7146,3 +7146,17 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: penny-pritzker
+- name: Lucy Deland
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Inspired Capital
+  discovered_from: alexa-von-tobel
+- name: Mark Batsiyan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Inspired Capital
+  discovered_from: alexa-von-tobel

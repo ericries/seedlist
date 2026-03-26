@@ -1,6 +1,7 @@
 ---
 name: "Dor Knafo"
 slug: dor-knafo
+tldr: 'General Partner at Cyberstarts since 2025, transitioning from founder to investor after building and exiting Axis Security for $500M to HPE. Laser-focused on cybersecurity seed-stage founders with deep technical expertise; barely one public investment (Spirit) so far, preferring Israeli military background and top-tier engineering talent. Data too limited for robust pattern inference.'
 type: individual
 firm: cyberstarts
 role: "General Partner"

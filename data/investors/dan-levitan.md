@@ -1,6 +1,7 @@
 ---
 name: "Dan Levitan"
 slug: dan-levitan
+tldr: 'Co-founder and General Partner of Maveron, a $1B+ consumer-only VC firm established in 1998 with former Starbucks CEO Howard Schultz. Invests in seed/Series A consumer brands and commerce across education, health, and commerce (43% commerce focus). Distinctive for long-term board service on portfolio companies and emphasis on founder teams with compelling social missions.'
 type: individual
 firm: maveron
 role: "Co-Founder and General Partner"

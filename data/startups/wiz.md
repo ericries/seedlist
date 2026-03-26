@@ -43,6 +43,9 @@ firms:
 - round: Series B
   slug: greenoaks-capital
   year: 2021
+- round: Series B ($130M round)
+  slug: maveron
+  year: 2021
 founded: 2020
 founders:
 - name: Assaf Rappaport
@@ -93,6 +96,9 @@ investors:
 - round: Seed
   slug: emily-heath
   year: 2019
+- round: Series B ($130M round)
+  slug: howard-schultz
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Wiz

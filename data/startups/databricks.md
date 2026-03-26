@@ -39,6 +39,9 @@ firms:
 - round: Angel
   slug: seven-seven-six
   year: 2019
+- round: ~2023
+  slug: benchmark
+  year: 2023
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -95,6 +98,9 @@ investors:
 - round: Angel
   slug: katelin-holloway
   year: 2019
+- round: ~2023
+  slug: everett-randle
+  year: 2023
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

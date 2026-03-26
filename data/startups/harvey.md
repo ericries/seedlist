@@ -81,6 +81,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2022
+- round: ~2023
+  slug: benchmark
+  year: 2023
 founded: 2022
 founders:
 - name: Winston Weinberg
@@ -123,6 +126,9 @@ investors:
   year: 2024
 - round: Series B
   slug: ilya-fushman
+  year: 2023
+- round: ~2023
+  slug: everett-randle
   year: 2023
 last_researched: 2026-03-20
 location: San Francisco, CA

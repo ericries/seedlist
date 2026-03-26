@@ -24,6 +24,9 @@ firms:
 - round: series-d
   slug: kaiser-permanente-ventures
   year: 2026
+- round: ~2023
+  slug: benchmark
+  year: 2023
 founded: 2019
 founders:
 - name: Nick Reber
@@ -47,6 +50,9 @@ investors:
 - round: '2021'
   slug: ambar-bhattacharyya
   year: 2021
+- round: ~2023
+  slug: everett-randle
+  year: 2023
 last_researched: 2026-03-24
 location: New York, NY
 name: Garner Health
