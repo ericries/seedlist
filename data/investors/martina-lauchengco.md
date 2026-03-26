@@ -1,6 +1,7 @@
 ---
 name: "Martina Lauchengco"
 slug: martina-lauchengco
+tldr: 'Operating Partner at Costanoa Ventures specializing in go-to-market strategy for B2B SaaS and AI startups with $2-5M checks. Former product/marketing leader at Microsoft, Netscape, and AOL with 25+ years in enterprise software. Works across Costanoa''s portfolio of 94+ companies including Alation, Cyberhaven, and Vannevar Labs.'
 type: individual
 firm: costanoa-ventures
 role: "Operating Partner"

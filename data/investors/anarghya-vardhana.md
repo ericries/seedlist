@@ -1,6 +1,7 @@
 ---
 name: "Anarghya Vardhana"
 slug: anarghya-vardhana
+tldr: 'Venture Partner at Maveron with 54% portfolio concentration in health and wellness (mental health, fertility, rare disease). Series A specialist writing checks of $8M+ with 18-month founder relationship development. Portfolio includes Two Chairs, Tempest, Alife, Caraway, and other health-focused startups.'
 type: individual
 firm: maveron
 role: "Venture Partner"

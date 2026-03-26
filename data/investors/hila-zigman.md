@@ -1,6 +1,7 @@
 ---
 name: "Hila Zigman"
 slug: hila-zigman
+tldr: 'General Partner at Cyberstarts investing exclusively in Israeli cybersecurity startups at seed stage, with emphasis on AI security and identity management. Former CPO of Noname Security (acquired by Akamai for $450M). Portfolio includes Wiz (acquired by Google for $32B), Upwind, Onyx Security, and other leading cybersecurity exits.'
 type: individual
 firm: cyberstarts
 role: "General Partner"

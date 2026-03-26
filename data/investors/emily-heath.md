@@ -1,6 +1,7 @@
 ---
 name: Emily Heath
 slug: emily-heath
+tldr: 'General Partner at Cyberstarts bringing Fortune 500 CISO experience to seed-stage cybersecurity investing. Evaluates companies through buyer lens, focusing on product utilization and enterprise adoption. Board member of Wiz (acquired by Google for $32B) and Gen Digital (NASDAQ: GEN).'
 type: individual
 firm: cyberstarts
 role: General Partner

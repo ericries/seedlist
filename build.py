@@ -579,7 +579,9 @@ def build_rounds_feed(startups):
             round_clean = re.sub(r'^\~?\d{4}$', '', round_type).strip()
             if not round_clean:
                 round_clean = "Unknown"
-            key = (round_clean.lower(), year_str)
+            # Normalize key: replace dashes with spaces for consistent matching
+            round_norm = round_clean.lower().replace('-', ' ')
+            key = (round_norm, year_str)
             if key not in fm_rounds:
                 fm_rounds[key] = {
                     "company": name,
@@ -612,7 +614,7 @@ def build_rounds_feed(startups):
                 year_for_key = ""
                 if date_str:
                     year_for_key = date_str[:4]
-                round_key = round_type.lower() if round_type else "unknown"
+                round_key = round_type.lower().replace('-', ' ') if round_type else "unknown"
                 key = (round_key, year_for_key)
                 table_rounds[key] = {
                     "date": date_str or "",
@@ -659,6 +661,31 @@ def build_rounds_feed(startups):
             if not r.get("date"):
                 continue
             all_rounds.append(r)
+
+    # Deduplicate rounds: same company + same normalized round with different
+    # date precision. Keep the entry with more precise date, merge investors.
+    dedup = {}
+    for r in all_rounds:
+        norm_round = re.sub(r'[^a-z0-9 ]', ' ', r.get("round", "").lower()).strip()
+        norm_round = re.sub(r'\s+', ' ', norm_round)
+        dedup_key = (r["company_slug"], norm_round)
+        if dedup_key in dedup:
+            existing = dedup[dedup_key]
+            # Keep the more precise date
+            if len(r.get("date", "")) > len(existing.get("date", "")):
+                existing["date"] = r["date"]
+            # Merge investors
+            for inv in r.get("investors", []):
+                if inv not in existing.get("investors", []):
+                    existing.setdefault("investors", []).append(inv)
+            # Fill missing amount/lead
+            if r.get("amount") and not existing.get("amount"):
+                existing["amount"] = r["amount"]
+            if r.get("lead") and not existing.get("lead"):
+                existing["lead"] = r["lead"]
+        else:
+            dedup[dedup_key] = r
+    all_rounds = list(dedup.values())
 
     # Build sort key: pad YYYY to YYYY-00-00, YYYY-MM to YYYY-MM-00
     def sort_key(r):

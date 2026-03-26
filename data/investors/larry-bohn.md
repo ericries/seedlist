@@ -1,6 +1,7 @@
 ---
 name: "Larry Bohn"
 slug: larry-bohn
+tldr: 'Managing Director at General Catalyst with 24-year track record investing $500K-$10M across enterprise SaaS, AI, and commerce (41% SaaS, 18% AI, 18% commerce). Brings deep operational expertise from leading three software IPOs. Portfolio includes HubSpot (IPO 2014), BigCommerce (NASDAQ: BIGC), and multiple $500M+ exits.'
 type: individual
 firm: general-catalyst
 role: "Managing Director"
