@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@eden"
   linkedin: "linkedin.com/in/edens"
+tldr: 'Co-founder of Aleph with Eisenberg managing $850M across four
+  funds. Early-stage Israeli investor in fintech, enterprise, logistics.
+  Programmer-operator-investor; founded pre-seed incubator Junction.
+  Strong portfolio of IPOs and unicorns.'
 status: published
 last_researched: 2026-03-25
 ---

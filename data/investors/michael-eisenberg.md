@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@mikeeisenberg"
   linkedin: "linkedin.com/in/mieisenberg"
+tldr: 'Aleph co-founder managing $830M, generalist investor in Israeli
+  founders. Seed/Series A focused. "Invest in humanity" thesis. 62+
+  portfolio companies with 3 IPOs (Wix, Lemonade, Freightos). Book
+  author.'
 status: published
 last_researched: 2026-03-25
 ---

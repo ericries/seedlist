@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@fintechjunkie"
   linkedin: "linkedin.com/in/frank-rotman"
+tldr: 'Co-founder of QED Investors (partner emeritus). Fintech specialist
+  with Credit Karma $7B exit. Data-driven investor focused on credit and
+  financial services. Now founding ventures via 37Maru. Forbes Midas
+  lister.'
 status: published
 last_researched: 2026-03-25
 ---

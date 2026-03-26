@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@mwseibel"
   linkedin: "linkedin.com/in/mwseibel"
+tldr: 'Y Combinator partner emeritus (managed 1,745+ companies). Former
+  Justin.tv/Twitch CEO. Invests pre-seed/seed in founders solving real
+  problems. Strong diversity focus with emerging markets expertise.
+  Reddit and Dropbox board.'
 status: published
 last_researched: 2026-03-25
 ---

@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@KenHowery"
   linkedin: "linkedin.com/in/kenhowery"
+tldr: 'PayPal co-founder and Founders Fund co-founder (2005-2019). Focus
+  on independent-thinking founders tackling healthcare and enterprise.
+  Now US Ambassador to Denmark. Advises angels on long-term founder
+  partnerships.'
 status: published
 last_researched: 2026-03-25
 ---

@@ -25,6 +25,10 @@ last_verified_investment:
 social:
   twitter: "@jeremysliew"
   linkedin: linkedin.com/in/jeremyliew
+tldr: 'Partner at Lightspeed, first institutional investor in Snapchat
+  ($2B return). "Follow the women" pop culture thesis. Strong in consumer
+  brands, DTC, gaming. 15+ IPO/acquisition exits. Now partner emeritus
+  focused on existing portfolio.'
 status: published
 last_researched: 2026-03-25
 ---

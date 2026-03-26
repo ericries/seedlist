@@ -16,6 +16,10 @@ social:
   twitter: "@shaylekann"
   bluesky: "@catalyst-pod.bsky.social"
   linkedin: "linkedin.com/in/shaylekann"
+tldr: 'Managing Partner of EIP Deep Decarbonization Frontier Fund ($485M).
+  Sector expert in hard-to-decarbonize industries (cement, steel,
+  hydrogen). Former GTM Research analyst. Board-active in deep-tech
+  hardware companies.'
 status: published
 last_researched: 2026-03-25
 ---

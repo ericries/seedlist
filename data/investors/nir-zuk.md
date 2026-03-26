@@ -1,7 +1,7 @@
 ---
 check_size: $5M-$50M
 firm: palo-alto-networks
-last_researched: 2026-03-22
+last_researched: 2026-03-25
 last_verified_investment:
   company: Cylake
   date: 2026-03-05
@@ -119,15 +119,32 @@ This table includes 7 verified investments and personal ventures. Zuk has stated
 
 "The cybersecurity industry will experience tectonic shifts in 2025. These historic transformations will see the convergence of AI, data and platform unification." — Nir Zuk, Cybersecurity Ventures interview, 2025 [^3]
 
+"We can't keep relying on cyber as the engine of Israeli high-tech — and therefore the economy." — Nir Zuk, Calcalist interview, 2025 [^19]
+
+"Embrace the disruption. If you don't embrace the disruption, you will end up like companies that didn't embrace the disruption." — Nir Zuk, Sequoia Capital podcast, 2024 [^4]
+
 ## What Founders Say
 
-No independently sourced founder testimonials found. Nir Zuk's angel portfolio is relatively small and concentrated in Israeli companies that have limited English-language coverage of founder testimonials. Dedicated searches for founder quotes about Zuk as an investor yielded no verifiable results.
+Eldad Tamir, founder and CEO of Finq, described Zuk's $6 million investment as "the beginning of a new financial world in Israel — smart, digital, and objective" [^13].
 
-The following investor-side quote provides context on how collaborators view him:
+No other independently sourced founder testimonials found. Zuk's angel portfolio is relatively small and concentrated in Israeli companies with limited English-language coverage of founder-investor relationships.
+
+The following investor-side quotes provide context on how collaborators view him:
 
 "Nir Zuk is a once-in-a-generation founder whose innovation has redefined cybersecurity and elevated the entire industry. His achievements will resonate for decades." — Richard Seewald, Founder & Managing Partner, Evolution Equity Partners, Cybersecurity Ventures, 2025 [^3]
 
 "The next generation of cybersecurity will be AI-native, agentic and built on holistic data and context. Cylake is focused on a segment of the market where security must operate under full control to meet regulatory and operational reality." — Asheem Chandna, Partner, Greylock Partners, on investing in Zuk's Cylake, March 2026 [^11]
+
+## Connections
+
+- **Board member, Bariks Health** — joined the board alongside his personal investment in July 2025 [^14]
+- **Co-founder and controlling shareholder (13%), Esh Bank** — alongside Yuval Aloni (co-founder/CEO, 18%), Alex Liverant (DoubleVerify founder), and Shmuel Hauser (former Israel Securities Authority chairman). Esh sold to Isracard at approximately $130 million valuation in March 2026 [^20] [^18]
+- **LP, Cyberstarts** — alongside Shlomo Kramer (Check Point co-founder), Marius Nacht (Check Point co-founder), and Mickey Boodaei (Trusteer founder) in Gili Raanan's cybersecurity seed fund [^16]
+- **Co-founder, Cylake** — alongside Wilson Xu (former Palo Alto Networks engineering leader) and Ehud "Udi" Shamir (SentinelOne co-founder), backed by Greylock (Asheem Chandna) [^10]
+- **Former CTO and board member, Palo Alto Networks** (2005-2025) — worked with CEO Nikesh Arora; backed by Sequoia Capital (Jim Goetz) and Greylock Partners (Asheem Chandna) [^7] [^4]
+- **Former principal engineer, Check Point Software Technologies** (1994-1999) — one of the first three employees [^1] [^21]
+- **Co-founder, OneSecure** — alongside Rakesh Loonkar; acquired by NetScreen Technologies in 2002 [^1] [^22]
+- **Founder, Relevant** — Israeli streaming media channel, with Modi Frydman (former Channel 10 CEO) and Lior Schleien (TV producer) [^23]
 
 ## Sources
 
@@ -166,3 +183,13 @@ The following investor-side quote provides context on how collaborators view him
 [^17]: StartupHub.ai, "Fireblocks Seed," accessed March 2026. https://www.startuphub.ai/investment_rounds/fireblocks-raises-4-million/
 
 [^18]: CTech (Calcalist), "Nir Zuk secures exit route from costly Esh bet as Isracard buys into digital bank," accessed March 2026. https://www.calcalistech.com/ctechnews/article/rkptixt5bx
+
+[^19]: CTech (Calcalist), "Palo Alto Networks founder Nir Zuk: 'We can't keep relying on cyber as the engine of Israeli high-tech,'" accessed March 2026. https://www.calcalistech.com/ctechnews/article/h1zjtu0wj
+
+[^20]: CTech (Calcalist), "Palo Alto founder Nir Zuk sells digital bank Esh to Isracard at $130 million valuation," March 2026, accessed March 2026. https://www.calcalistech.com/ctechnews/article/eey3gszt8
+
+[^21]: Globes, "Techie turned tycoon Nir Zuk still restless," accessed March 2026. https://en.globes.co.il/en/article-techie-turned-tycoon-nir-zuk-still-restless-1001434879
+
+[^22]: Richard Stiennon, "30 Top Angel Investors in Cyber," Substack, accessed March 2026. https://stiennon.substack.com/p/30-top-angel-investors-in-cyber
+
+[^23]: Globes, "Nir Zuk set to launch Israeli liberal TV channel Relevant," accessed March 2026. https://en.globes.co.il/en/article-nir-zuk-set-to-launch-israeli-liberal-tv-channel-relevant-1001459485

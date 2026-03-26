@@ -22,6 +22,10 @@ last_verified_investment:
   round: "Undisclosed"
 social:
   linkedin: "linkedin.com/in/marius-nacht"
+tldr: 'Check Point co-founder, billionaire investor focusing on
+  healthcare and biotech via aMoon ($1B+ AUM). Also invests in Israeli
+  cybersecurity from Check Point network. Board-active investor in
+  medical and deep tech.'
 status: published
 last_researched: 2026-03-25
 ---

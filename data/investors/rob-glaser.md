@@ -23,6 +23,10 @@ last_verified_investment:
 social:
   twitter: "@RobGlaser"
   linkedin: "linkedin.com/in/rob-glaser-431687"
+tldr: 'RealNetworks founder and CEO, Accel venture partner. Founder-investor
+  in digital media, entertainment, mobile. Takes board seats; half-time VC
+  with philanthropic commitments. Billionaire with 55% premium take-private
+  in 2022.'
 status: published
 last_researched: 2026-03-25
 ---

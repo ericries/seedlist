@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@swatipedia"
   linkedin: "linkedin.com/in/swatimylavarapu"
+tldr: 'Co-founder of Incite.org with Matt Rogers (Nest co-founder).
+  Impact-driven investor in climate, food, health. Patient capital with
+  76+ portfolio companies. Rhodes Scholar, Truman Scholar. Board member
+  Green Thumb Industries.'
 status: published
 last_researched: 2026-03-25
 ---

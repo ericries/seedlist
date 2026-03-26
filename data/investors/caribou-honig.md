@@ -21,6 +21,10 @@ last_verified_investment:
 social:
   twitter: "@caribou101"
   linkedin: linkedin.com/in/caribou
+tldr: '"Godfather of InsurTech" at QED (co-founded) and SemperVirens
+  partner. Invests seed-Series A in insurtech and future-of-work.
+  Distinctive API-first philosophy; active board member with global
+  emerging market reach.'
 status: published
 last_researched: 2026-03-25
 ---

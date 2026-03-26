@@ -24,6 +24,10 @@ last_verified_investment:
 social:
   twitter: "@tushar_jain"
   linkedin: "linkedin.com/in/tjain251"
+tldr: 'Co-founder of Multicoin Capital ($430M Fund III). Thesis-driven
+  crypto investor in DeFi, DePIN, Layer 1s. Heavy Solana ecosystem focus.
+  Hedge fund posted 20,287% returns since 2017. Early bitcoin/open
+  finance bull.'
 status: published
 last_researched: 2026-03-25
 ---

@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@kyeshwant"
   linkedin: "linkedin.com/in/kcyeshwant"
+tldr: 'Managing Partner of GV life sciences, physician-investor (Harvard
+  Med, MBA). Series A/B focus on therapeutics, gene editing, health IT.
+  Incubates companies (Verve, ROME). One-third of GV dedicated to life
+  sciences.'
 status: published
 last_researched: 2026-03-25
 ---

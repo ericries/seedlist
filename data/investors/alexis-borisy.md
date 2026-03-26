@@ -14,6 +14,10 @@ last_verified_investment:
   round: "Seed"
 social:
   linkedin: "linkedin.com/in/alexis-borisy-577a2ab6"
+tldr: 'Biotech founder-investor at Curie.Bio co-founded by Flatiron
+  founders. Focuses exclusively on therapeutics and oncology from
+  seed to Series A with $5-10M checks. Distinctive founder-friendly,
+  science-centric approach with operational involvement.'
 status: published
 last_researched: 2026-03-25
 ---

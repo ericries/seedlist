@@ -24,6 +24,10 @@ last_verified_investment:
 social:
   twitter: "@sashadavidov"
   linkedin: linkedin.com/in/alexdavidov
+tldr: 'General Partner at Abstract Ventures ($1.8B AUM). Seed/Series A
+  investor across fintech, AI, biotech. Mandates founder Impact Pact
+  for equity sharing and diversity. Portfolio 92% BIPOC founders with
+  above-median returns.'
 status: published
 last_researched: 2026-03-25
 ---

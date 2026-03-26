@@ -15,6 +15,9 @@ last_verified_investment:
 social:
   twitter: "@simonrothman"
   linkedin: "linkedin.com/in/simonrothman"
+tldr: 'Greylock venture partner leading marketplace investment practice.
+  Former eBay Motors founder. Focuses on transportation, food, consumer
+  marketplaces. Expert in network effects. Early Tesla board advisor.'
 status: published
 last_researched: 2026-03-25
 ---

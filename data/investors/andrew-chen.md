@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@andrewchen"
   linkedin: "linkedin.com/in/andrewchen"
+tldr: 'General Partner at a16z leading Speedrun (pre-seed). Former
+  Uber VP of Growth. Invests in consumer, gaming, and AI via
+  network effects lens. Known for "follow the women" thesis on
+  culture-driven consumer products.'
 status: published
 last_researched: 2026-03-25
 ---

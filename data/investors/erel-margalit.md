@@ -15,6 +15,10 @@ last_verified_investment:
 social:
   twitter: "@ErelMargalit"
   linkedin: "linkedin.com/in/erelmargalit"
+tldr: 'Founder of Jerusalem Venture Partners ($1.9B AUM, 165+ companies).
+  Aggressive conviction investor taking large stakes and riding to IPO.
+  Focus on cybersecurity, fintech, enterprise software. Former Israeli
+  Knesset member.'
 status: published
 last_researched: 2026-03-25
 ---

@@ -15,6 +15,9 @@ last_verified_investment:
 social:
   twitter: "@LukeNosek"
   linkedin: "linkedin.com/in/lukenosek"
+tldr: 'PayPal co-founder, Founders Fund co-founder managing Gigafund
+  ($6.9B). Deep-tech investor in space, nuclear, AI, biotech. Extremely
+  concentrated portfolio with 20-year founder commitment. $1B+ in SpaceX.'
 status: published
 last_researched: 2026-03-25
 ---
