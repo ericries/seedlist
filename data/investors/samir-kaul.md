@@ -1,6 +1,7 @@
 ---
 name: "Samir Kaul"
 slug: samir-kaul
+tldr: 'Founding Partner at Khosla Ventures (since 2005), deep-tech investor with genomics PhD and biotech/cleantech expertise. Portfolio spans healthcare (29%), deep tech/energy (21%), and AI/software (17%). Known for backing scientist-founders and taking large technical risks in established markets. Notable exits: Guardant Health (IPO), QuantumScape (IPO), Oscar Health (IPO).'
 type: individual
 firm: khosla-ventures
 role: "Founding Partner & Managing Director"

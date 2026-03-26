@@ -1,6 +1,7 @@
 ---
 name: "Greg Sands"
 slug: greg-sands
+tldr: 'Founder and Managing Partner of Costanoa Ventures, a $275M seed/Series A fund focused on enterprise software, cybersecurity, and fintech. Known for concentrated 10-15% stakes in ~35 companies per fund and hands-on support. Portfolio includes exits like Intacct ($850M to Sage) and Kenna Security (acquired by Cisco).'
 type: individual
 firm: costanoa-ventures
 role: "Founder & Managing Partner"

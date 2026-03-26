@@ -9,6 +9,7 @@ last_verified_investment:
 location: Bnei Brak, Israel
 name: Jérémie Berrebi
 role: Co-Founder (2010–2015)
+tldr: 'Co-founder of Kima Ventures (2010-2015), a prolific seed fund that deployed $150K checks across 300+ startups. Portfolio concentrated in fintech (29%), productivity/SaaS (21%), and consumer/gaming (21%). Notable exits: Wise ($1B valuation), Carta, Front, and Seene (to Snapchat). Currently inactive as investor.'
 sector_focus:
 - fintech
 - developer-tools

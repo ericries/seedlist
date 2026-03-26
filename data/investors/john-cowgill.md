@@ -1,6 +1,7 @@
 ---
 name: "John Cowgill"
 slug: john-cowgill
+tldr: 'General Partner at Costanoa Ventures, promoted to partnership in 2024. Specializes in cybersecurity (32% of portfolio), space/defense tech (18%), and vertical SaaS with AI components. Check size $2-5M. Portfolio includes AppOmni, Cyberhaven, Muon Space, and Kepler Communications.'
 type: individual
 firm: costanoa-ventures
 role: "General Partner"

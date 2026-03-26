@@ -6733,14 +6733,14 @@ queue:
 - name: Vishal Vasishth
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Obvious Ventures
   discovered_from: james-joaquin
 - name: David Pakman
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: CoinFund
   discovered_from: venrock
@@ -6771,7 +6771,7 @@ queue:
 - name: Dor Knafo
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cyberstarts
   discovered_from: lior-simon
@@ -6889,7 +6889,7 @@ queue:
 - name: Zal Bilimoria
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Refactor Capital
   discovered_from: david-lee
@@ -7004,28 +7004,28 @@ queue:
 - name: Dan Levitan
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: anarghya-vardhana
 - name: Jason Stoffer
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: anarghya-vardhana
 - name: Natalie Dillon
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: anarghya-vardhana
 - name: David Wu
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: anarghya-vardhana
@@ -7084,6 +7084,65 @@ queue:
 - name: Pritzker Group
   type: firm
   priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: penny-pritzker
+- name: Andrew Beebe
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Obvious Ventures
+  discovered_from: vishal-vasishth
+- name: Jake Brukhman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CoinFund
+  discovered_from: david-pakman
+- name: Alex Felix
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CoinFund
+  discovered_from: david-pakman
+- name: CoinFund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-pakman
+- name: Howard Schultz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: dan-levitan
+- name: Fifty Years
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zal-bilimoria
+- name: Kindred Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zal-bilimoria
+- name: Alexa von Tobel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Inspired Capital
+  discovered_from: penny-pritzker
+- name: Inspired Capital
+  type: firm
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: penny-pritzker

@@ -73,6 +73,9 @@ investors:
 - round: Series C
   slug: david-lee
   year: 2016
+- round: Series C
+  slug: zal-bilimoria
+  year: 2016
 last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health

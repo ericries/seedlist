@@ -136,6 +136,9 @@ investors:
 - round: Seed
   slug: david-lee
   year: 2012
+- round: —
+  slug: zal-bilimoria
+  year: 2017
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

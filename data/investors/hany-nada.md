@@ -1,6 +1,7 @@
 ---
 name: Hany Nada
 slug: hany-nada
+tldr: 'Co-founder of ACME Capital (2018) and former Managing Partner of GGV Capital (2000-2016). Invests in deep tech and contrarian sectors with focus on hardware/semiconductors, gaming/entertainment (28%), and defense tech. Check size $1-15M. Portfolio includes IonQ (quantum), Astra (aerospace), and DraftKings.'
 type: individual
 firm: acme-capital
 role: Co-Founder & Partner

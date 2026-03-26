@@ -1,6 +1,7 @@
 ---
 name: "David Weiden"
 slug: david-weiden
+tldr: 'Founding Partner at Khosla Ventures since 2006, ranked #95 on 2017 Forbes Midas List. Brings operational expertise (Netscape, AOL, Tellme) to seed/Series A investments. Portfolio 31% fintech (Upstart, Fundbox, OnDeck), 23% enterprise SaaS (Okta, RingCentral). Known for coaching on unit economics and cash payback metrics.'
 type: individual
 firm: khosla-ventures
 role: "Founding Partner & Managing Director"

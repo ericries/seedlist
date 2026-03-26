@@ -1,6 +1,7 @@
 ---
 name: "Penny Pritzker"
 slug: penny-pritzker
+tldr: 'Founder of PSP Partners and co-founder of Inspired Capital ($330M raised). Invests through multiple vehicles: PSP Growth ($1-25M checks, B2B SaaS focus) and Inspired Capital ($1-15M early-stage). Portfolio includes fintech (Finix, Rho), AI/ML, and healthtech. Former U.S. Secretary of Commerce.'
 type: individual
 firm: psp-partners
 role: "Founder & Chairman"

@@ -1,6 +1,7 @@
 ---
 name: "Nikolay Kostov"
 slug: nikolay-kostov
+tldr: 'General Partner at Ribbit Capital since 2013, focused exclusively on fintech. Specializes in emerging markets—particularly Brazil and India—backing neobanks (Toss, Cora, Fi Money), digital brokerages (Warren), and lending platforms. Check size $2-15M. Portfolio includes unicorns like Toss ($1.2B).'
 type: individual
 firm: ribbit-capital
 role: "General Partner"
