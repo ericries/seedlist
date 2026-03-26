@@ -1,6 +1,7 @@
 ---
 name: Howard Schultz
 slug: howard-schultz
+tldr: 'Co-founder of Maveron (1998) and longtime Starbucks CEO, now angel investing through personal investments and the Schultz Family Foundation in values-driven companies. His portfolio spans food & beverage (Oatly, Cumulus, Tony''s), mental health (Lyra), and notably enterprise cybersecurity (Wiz, his most active relationship across multiple rounds). He mentors founders from an operator''s lens, emphasizing leadership vision and execution discipline.'
 type: individual
 firm: maveron
 role: Co-Founder

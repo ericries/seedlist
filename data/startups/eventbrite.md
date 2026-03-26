@@ -46,6 +46,9 @@ firms:
 - round: ~2009
   slug: craft-ventures
   year: 2009
+- round: Seed
+  slug: uncork-capital
+  year: 2018
 founded: 2006
 founders:
 - name: Kevin Hartz

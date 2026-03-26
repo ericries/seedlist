@@ -1,6 +1,7 @@
 ---
 name: "Alex Felix"
 slug: alex-felix
+tldr: 'Co-founder and Managing Partner of CoinFund, with 10+ years of personal crypto investments predating the firm, including seed rounds in Ethereum and Blockdaemon. Felix''s portfolio demonstrates a clear thesis on the blockchain infrastructure stack, with increasing focus on AI-crypto convergence and stablecoin-based financial applications in emerging markets. He favors technical founders with deep domain expertise in financial services or infrastructure.'
 type: individual
 firm: coinfund
 role: "Managing Partner & Chief Investment Officer"

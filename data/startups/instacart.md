@@ -51,6 +51,9 @@ firms:
 - round: Seed
   slug: khosla-ventures
   year: 2012
+- round: Series B ($44M round)
+  slug: andreessen-horowitz
+  year: 2014
 founded: 2012
 founders:
 - name: Apoorva Mehta
@@ -120,6 +123,9 @@ investors:
 - round: Seed
   slug: jared-friedman
   year: 2012
+- round: Series B ($44M round)
+  slug: jeff-jordan
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

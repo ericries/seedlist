@@ -1,6 +1,7 @@
 ---
 name: "Amy Cheetham"
 slug: amy-cheetham
+tldr: 'Partner at Costanoa Ventures focused on seed and Series A B2B fintech with distinctive emerging markets specialization. Amy''s portfolio is 90% fintech with notable concentration in Latin American payment infrastructure (Brazil, Mexico). She emphasizes founder domain expertise, sits on six portfolio company boards, and believes ''the real alpha is going to be at the app layer'' in AI for financial services.'
 type: individual
 firm: costanoa-ventures
 role: "Partner"

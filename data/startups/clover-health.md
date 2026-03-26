@@ -76,6 +76,9 @@ investors:
 - round: Series C
   slug: zal-bilimoria
   year: 2016
+- round: SPAC
+  slug: chamath-palihapitiya
+  year: 2020
 last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health

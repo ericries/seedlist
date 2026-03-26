@@ -138,6 +138,9 @@ investors:
 - round: Early/Growth
   slug: luke-nosek
   year: 2010
+- round: Series B ($112M round)
+  slug: jeff-jordan
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

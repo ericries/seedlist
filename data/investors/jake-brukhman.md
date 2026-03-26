@@ -17,6 +17,7 @@ sector_focus:
 - NFTs
 - gaming
 slug: jake-brukhman
+tldr: 'Founder and CEO of CoinFund, one of the first crypto-native VC firms, managing $550M+ across six funds focused on blockchain infrastructure and digital assets. His portfolio skews heavily toward DeFi, L1 blockchains, and decentralized AI, with recent emphasis on Web3''s intersection with machine learning. CoinFund''s competitive advantage is protocol-level technical expertise and founder non-anonymity requirements.'
 social:
   linkedin: linkedin.com/in/jake-brukhman-6037867
   twitter: '@jbrukh'

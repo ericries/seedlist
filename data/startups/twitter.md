@@ -49,6 +49,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2007
+- round: Growth (sourcing)
+  slug: ivp
+  year: 2010
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -108,6 +111,9 @@ investors:
 - round: Seed
   slug: david-lee
   year: 2007
+- round: Growth (sourcing)
+  slug: jules-maltz
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter

@@ -91,6 +91,9 @@ investors:
 - round: ~2021
   slug: everett-randle
   year: 2021
+- round: Angel
+  slug: jack-altman
+  year: 2024
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

@@ -55,6 +55,12 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2013
+- round: Series E
+  slug: ivp
+  year: 2015
+- round: Series C (led, $42.75M)
+  slug: social-capital
+  year: 2014
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -123,6 +129,12 @@ investors:
 - round: Seed
   slug: david-lee
   year: 2013
+- round: Series E
+  slug: jules-maltz
+  year: 2015
+- round: Series C (led, $42.75M)
+  slug: chamath-palihapitiya
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

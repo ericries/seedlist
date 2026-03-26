@@ -27,6 +27,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2007
+- round: Series B
+  slug: ivp
+  year: 2011
 founded: 2007
 founders:
 - name: Drew Houston
@@ -61,6 +64,9 @@ investors:
 - round: Seed
   slug: david-lee
   year: 2007
+- round: Series B
+  slug: jules-maltz
+  year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Dropbox

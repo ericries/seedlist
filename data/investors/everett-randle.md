@@ -1,6 +1,7 @@
 ---
 name: "Everett Randle"
 slug: everett-randle
+tldr: 'New General Partner at Benchmark (October 2025) after three years as Partner at Kleiner Perkins leading growth-stage investments. Randle is known for ''Perpetual Growth Machine'' thesis (decade-plus growth runways) and ''Operating Yield'' metric for SaaS efficiency. His 23-company portfolio is 43% enterprise software, 35% AI/ML, with emphasis on workflow automation and unit economics; he prioritizes people first and skeptical of mega fund dynamics.'
 type: individual
 firm: benchmark
 role: "General Partner"

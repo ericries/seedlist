@@ -1,6 +1,7 @@
 ---
 name: "Alexa von Tobel"
 slug: alexa-von-tobel
+tldr: 'Founder of LearnVest (sold to Northwestern Mutual for ~$375M) and now Founder/Managing Partner of Inspired Capital, a $900M pre-seed to Series A fund. Her inferred thesis is 26% fintech, 23% AI/ML, with strong emphasis on convexity bets and founders whose businesses are a life''s work rather than incremental ideas. She targets 2x more women founders and 60% more non-white founders than industry averages.'
 type: individual
 firm: inspired-capital
 role: "Founder & Managing Partner"

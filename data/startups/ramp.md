@@ -75,6 +75,9 @@ firms:
 - round: ~2021
   slug: benchmark
   year: 2021
+- round: '2021'
+  slug: contrary-capital
+  year: 2021
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -140,6 +143,9 @@ investors:
   year: 2019
 - round: ~2021
   slug: everett-randle
+  year: 2021
+- round: '2021'
+  slug: kyle-harrison
   year: 2021
 last_researched: 2026-03-20
 location: New York, NY

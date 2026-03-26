@@ -1,6 +1,7 @@
 ---
 name: "Cat Lee"
 slug: cat-lee
+tldr: 'Former Pinterest operating executive (Head of Product Growth and Culture) and Partner at Maveron (2019-2020), now co-founder of Pace, a mental health support platform. Cat''s stated thesis is backing female-founded companies with check sizes of $10K-$25K as a micro-angel, prioritizing founder-mission fit over market size. She prioritizes people over market over product, asking herself if she''d drop everything to work for the founder full-time.'
 type: individual
 firm: maveron
 role: "Partner (2019–2020)"

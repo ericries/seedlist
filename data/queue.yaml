@@ -1096,7 +1096,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Bill Gurley
   type: individual
@@ -5148,7 +5148,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Jules Maltz
   type: individual
@@ -5156,7 +5156,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Jeff Clavier
   type: individual
@@ -5164,7 +5164,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Jeff Jordan
   type: individual
@@ -5172,7 +5172,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Saul Klein
   type: individual
@@ -6246,7 +6246,7 @@ queue:
     VP Growth'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Erel Margalit
   type: individual
@@ -7149,14 +7149,74 @@ queue:
 - name: Lucy Deland
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Inspired Capital
   discovered_from: alexa-von-tobel
 - name: Mark Batsiyan
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Inspired Capital
   discovered_from: alexa-von-tobel
+- name: Eric Tarczynski
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Contrary
+  discovered_from: kyle-harrison
+- name: Contrary
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kyle-harrison
+- name: Arjun Sethi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tribe Capital
+  discovered_from: chamath-palihapitiya
+- name: Jason Calacanis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Launch
+  discovered_from: chamath-palihapitiya
+- name: David Friedberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: The Production Board
+  discovered_from: chamath-palihapitiya
+- name: Tribe Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chamath-palihapitiya
+- name: Andy McLoughlin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Uncork Capital
+  discovered_from: jeff-clavier
+- name: Uncork Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeff-clavier
+- name: Steve Harrick
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: IVP
+  discovered_from: jules-maltz

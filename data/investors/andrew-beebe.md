@@ -1,6 +1,7 @@
 ---
 name: Andrew Beebe
 slug: andrew-beebe
+tldr: 'Managing Director at Obvious Ventures (launched 2014) and veteran clean energy operator who previously founded Energy Innovations and led distributed generation at NextEra Energy. His portfolio is split evenly between renewable energy tech (31%) and electrified transportation (31%), with emphasis on category-creating entrepreneurs solving decarbonization. He believes AI is accelerating deep-tech innovation and enabling founders to solve problems faster.'
 type: individual
 firm: obvious-ventures
 role: Managing Director
