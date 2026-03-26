@@ -103,6 +103,9 @@ investors:
 - round: Late-stage
   slug: lee-fixel
   year: 2010
+- round: Series A
+  slug: ken-howery
+  year: 2004
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

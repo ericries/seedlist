@@ -61,6 +61,9 @@ team:
 - name: Sean Parker
   role: Former Managing Partner
   slug: sean-parker
+- name: Ken Howery
+  role: Co-Founder & Partner (2005-2019)
+  slug: ken-howery
 type: firm
 website: https://foundersfund.com
 ---

@@ -5797,7 +5797,7 @@ queue:
 - name: Alex Davidov
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Abstract Ventures
   discovered_from: ramtin-naimi
@@ -6081,7 +6081,7 @@ queue:
     podcast host'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Mike Schroepfer
   type: individual
@@ -6176,7 +6176,7 @@ queue:
   source: 'Collection gap analysis: Biotech — GV life sciences head, Editas/23andMe/GRAIL'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Bruce Booth
   type: individual
@@ -6255,7 +6255,7 @@ queue:
     companies'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Eden Shochat
   type: individual
@@ -6263,7 +6263,7 @@ queue:
   source: 'Collection gap analysis: Israel Connection — co-founded Aleph, Monday.com/Lemonade'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Michael Eisenberg
   type: individual
@@ -6272,7 +6272,7 @@ queue:
     Israel'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Dov Moran
   type: individual
@@ -6325,7 +6325,7 @@ queue:
   source: 'Collection gap analysis: PayPal Mafia — PayPal CFO, Founders Fund co-founder'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Luke Nosek
   type: individual
@@ -6902,7 +6902,25 @@ queue:
 - name: Caribou Honig
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: QED Investors
   discovered_from: frank-rotman
+- name: Aleph
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eden-shochat
+- name: Jerusalem Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: erel-margalit
+- name: Energy Impact Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shayle-kann

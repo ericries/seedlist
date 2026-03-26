@@ -7,6 +7,9 @@ firms:
 - round: Seed
   slug: a-star-capital
   year: 1999
+- round: Co-Founder
+  slug: founders-fund
+  year: 1998
 founded: 1998
 founders:
 - name: Peter Thiel
@@ -28,6 +31,9 @@ investors:
 - round: Seed
   slug: kevin-hartz
   year: 1999
+- round: Co-Founder
+  slug: ken-howery
+  year: 1998
 last_researched: 2026-03-13
 location: Palo Alto, CA
 name: PayPal

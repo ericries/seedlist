@@ -92,6 +92,12 @@ investors:
 - round: Seed
   slug: itamar-novick
   year: 2018
+- round: Series A
+  slug: eden-shochat
+  year: 2020
+- round: Early
+  slug: michael-eisenberg
+  year: 2019
 last_researched: 2026-03-19
 location: Los Altos, CA
 name: Placer.ai
