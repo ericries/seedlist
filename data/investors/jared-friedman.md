@@ -1,6 +1,7 @@
 ---
 name: "Jared Friedman"
 slug: jared-friedman
+tldr: 'Managing Director, Software and Group Partner at Y Combinator since 2015, succeeding Michael Seibel in March 2024. Personal angel portfolio of 16 verified investments focuses on developer tools (31%) and consumer/marketplace companies (31%), with notable exits including Cruise (GM acquisition), Instacart (IPO), and Swiftype (Elastic acquisition). Advises 20+ YC unicorns spanning hard-tech, biotech, and fintech.'
 type: individual
 firm: y-combinator
 role: "Managing Director, Software & Group Partner"

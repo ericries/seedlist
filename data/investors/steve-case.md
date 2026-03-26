@@ -1,6 +1,7 @@
 ---
 name: Steve Case
 slug: steve-case
+tldr: 'Chairman and CEO of Revolution, a multi-stage investment firm deploying nearly $2B across 200+ companies, primarily outside Silicon Valley. Invests across seed (Rise of the Rest), early-stage (Revolution Ventures), and growth (Revolution Growth) with checks ranging $100K-$50M+, backing disruptive plays in food/consumer (29%), sports/entertainment (17%), and SaaS (17%). Notable public exits include DraftKings, Sweetgreen, CAVA, and Tempus.'
 type: individual
 firm: revolution
 role: Chairman & CEO

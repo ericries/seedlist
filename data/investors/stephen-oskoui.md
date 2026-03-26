@@ -1,6 +1,7 @@
 ---
 name: "Stephen Oskoui"
 slug: stephen-oskoui
+tldr: 'Co-founder and Managing Partner of Gigafund, a venture firm investing $1M-$5M in capital-intensive deep-tech companies across aerospace, biotech, AI, and clean energy. Portfolio is highly concentrated on moonshot ventures, with SpaceX as the flagship investment; leads large rounds in companies like Last Energy, Cover, and Othram, revealing preference for physical-world innovation over software.'
 type: individual
 firm: gigafund
 role: "Co-Founder & Managing Partner"

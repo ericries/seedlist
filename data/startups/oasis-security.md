@@ -37,6 +37,12 @@ investors:
 - round: Seed
   slug: lior-simon
   year: 2022
+- round: Seed
+  slug: hila-zigman
+  year: 2023
+- round: Seed
+  slug: emily-heath
+  year: 2022
 last_researched: 2026-03-24
 location: New York, New York
 name: Oasis Security

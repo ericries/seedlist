@@ -87,6 +87,12 @@ investors:
 - round: Series E
   slug: asheem-chandna
   year: 2024
+- round: Seed
+  slug: hila-zigman
+  year: 2020
+- round: Seed
+  slug: emily-heath
+  year: 2019
 last_researched: 2026-03-20
 location: New York, NY
 name: Wiz

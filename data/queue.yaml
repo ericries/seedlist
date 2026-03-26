@@ -5714,14 +5714,14 @@ queue:
 - name: Hila Zigman
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cyberstarts
   discovered_from: gili-raanan
 - name: Emily Heath
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cyberstarts
   discovered_from: gili-raanan
@@ -5770,21 +5770,21 @@ queue:
 - name: Merav Bahat
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Dazz
   discovered_from: gili-raanan
 - name: Sanaz Yashar
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Zafran
   discovered_from: gili-raanan
 - name: Amiram Shachar
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Upwind
   discovered_from: gili-raanan
@@ -6476,14 +6476,14 @@ queue:
 - name: Larry Bohn
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: General Catalyst
   discovered_from: bigcommerce
 - name: Martina Lauchengco
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Costanoa Ventures
   discovered_from: dana-oshiro
@@ -6502,7 +6502,7 @@ queue:
 - name: Anarghya Vardhana
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Maveron
   discovered_from: deena-shakir
@@ -6995,3 +6995,83 @@ queue:
   added: '2026-03-17'
   firm: Revolution
   discovered_from: steve-case
+- name: Conviction Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hila-zigman
+- name: Dan Levitan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: anarghya-vardhana
+- name: Jason Stoffer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: anarghya-vardhana
+- name: Natalie Dillon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: anarghya-vardhana
+- name: David Wu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: anarghya-vardhana
+- name: Cat Lee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Maveron
+  discovered_from: anarghya-vardhana
+- name: Female Founders Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anarghya-vardhana
+- name: Greg Sands
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Costanoa Ventures
+  discovered_from: martina-lauchengco
+- name: John Cowgill
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Costanoa Ventures
+  discovered_from: martina-lauchengco
+- name: Amy Cheetham
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Costanoa Ventures
+  discovered_from: martina-lauchengco
+- name: Penny Pritzker
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sanaz-yashar
+- name: Zafran Security
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sanaz-yashar

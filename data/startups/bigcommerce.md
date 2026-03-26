@@ -46,6 +46,9 @@ investors:
 - round: Growth
   slug: steve-case
   year: 2013
+- round: Series A
+  slug: larry-bohn
+  year: 2011
 last_researched: 2026-03-24
 location: Austin, TX
 name: BigCommerce

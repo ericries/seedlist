@@ -1,6 +1,7 @@
 ---
 name: Tony Fadell
 slug: tony-fadell
+tldr: 'Founder of Future Shape/Build Collective, operating as "mentors with money" investing $250K-$25M exclusively in climate-tech, hard-tech, and hardware companies based in Europe and globally. Invests across seed to Series B, with a distinctive focus on "atoms over bits" — battery tech, robotics, materials science — and a strong European portfolio (36% of verified investments). Portfolio includes Sweep, Smartex, Remedy Robotics, and Nothing.'
 type: individual
 firm: future-shape
 role: Founder & Principal

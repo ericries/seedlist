@@ -1,6 +1,7 @@
 ---
 name: "Yair Schindel"
 slug: yair-schindel
+tldr: 'Co-Founder and Managing Partner of aMoon, a global healthtech and life sciences fund investing $100K-$50M+ across early-stage and growth companies. Invests heavily in therapeutics (37%), diagnostics (20%), and digital health (20%), with a strong Israeli nexus (57% of portfolio). Has achieved multiple successful exits including Seer (15x return) and CartiHeal ($330M acquisition).'
 type: individual
 firm: amoon
 role: "Co-Founder & Managing Partner"
