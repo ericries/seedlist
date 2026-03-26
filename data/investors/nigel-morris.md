@@ -9,15 +9,15 @@ stage_focus: [seed, series-a, growth]
 sector_focus: [fintech, lending, payments, insurtech, consumer-finance, proptech]
 check_size: "$1M-$50M+"
 last_verified_investment:
-  date: 2021
-  company: "Jupiter"
-  round: "Series B"
+  date: 2024-10
+  company: "Moniepoint"
+  round: "Series C"
 social:
   twitter: "@nigelwmorris"
   linkedin: "linkedin.com/in/nigelwmorris"
 status: published
-last_researched: 2026-03-24
-tldr: "QED Investors founder and ex-Capital One COO backing fintech globally with 31 unicorns. Deep operational chops in credit decisioning and unit economics; notable focus on Latin America (29% of personal portfolio) and emerging market financial inclusion."
+last_researched: 2026-03-25
+tldr: "QED Investors co-founder and ex-Capital One COO backing fintech globally with 31 unicorns and ~$4B AUM. Deep operational chops in credit decisioning and unit economics; notable focus on Latin America (27% of personal portfolio) and expanding into Africa/India. Frank Rotman departing end of 2025, leaving Morris as sole active co-founder."
 ---
 
 ## Background
@@ -32,7 +32,9 @@ In 2007, Morris partnered with Frank Rotman — Capital One's first chief credit
 
 Morris has been named to the Forbes Midas List for five consecutive years (2021–2025), ranking No. 90 in 2025 [^6][^8]. He was named a CB Insights Top 100 Venture Capitalist in 2019 and a Virginia Business Living Legend in 2025 [^3][^5]. In 2023, he became a part owner of Swansea City football club in Wales, acquiring a 19.42% stake for a reported £10 million, reflecting his Welsh heritage [^5][^9].
 
-Morris serves as chairman of ClearScore and Mission Lane, board member of Remitly, Bitso, and Current, and board observer for QuintoAndar and Albert [^6]. He previously served on the boards of Capital One, The Economist, Brookings, National Geographic, Klarna, Braintree, TransUnion, London Business School, and AvidXchange [^3].
+In March 2025, QED announced that co-founder Frank Rotman would transition to Partner Emeritus at the end of 2025, leaving Morris as the firm's sole active co-founder and managing partner [^38]. Partner Amias Gerety was promoted to lead the U.S. investment team [^38].
+
+Morris serves as chairman of ClearScore and Mission Lane, board member of Remitly (since July 2021, on the Nominating and Corporate Governance Committee), Bitso, and Current, and board observer for QuintoAndar and Albert [^6][^39]. He previously served on the boards of Capital One, The Economist, Brookings, National Geographic, Klarna, Braintree, TransUnion, London Business School, and AvidXchange [^3].
 
 ## Stated Thesis
 
@@ -50,28 +52,29 @@ Morris has expressed a vision of global financial inclusion: the global financia
 
 ## Inferred Thesis
 
-The analysis below is based on 21 verified investments from QED's portfolio page where Morris is listed as QED Champion or board member [^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33].
+The analysis below is based on 22 verified investments from QED's portfolio page where Morris is listed as QED Champion or board member [^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^38].
 
-**Sector concentration (based on 21 verified investments where Morris is QED Champion or board member):**
-- Lending / credit: 6 of 21 (29%) — Credit Karma, Avant, GreenSky, Mission Lane, Creditas, Konfio
-- Consumer finance / neobanking: 3 of 21 (14%) — Nubank, ClearScore, Current
-- Payments / remittances: 4 of 21 (19%) — Klarna, Remitly, Flywire, AvidXchange
-- Proptech: 1 of 21 (5%) — QuintoAndar
-- Insurtech: 1 of 21 (5%) — Kin Insurance
-- Crypto / Web3: 1 of 21 (5%) — Bitso
-- E-commerce / marketplace: 2 of 21 (10%) — Kavak, Wayflyer
-- Infrastructure / data: 2 of 21 (10%) — Ocrolus, Jupiter
-- Growth-stage personal finance: 1 of 21 (5%) — SoFi
+**Sector concentration (based on 22 verified investments where Morris is QED Champion or board member):**
+- Lending / credit: 6 of 22 (27%) — Credit Karma, Avant, GreenSky, Mission Lane, Creditas, Konfio
+- Consumer finance / neobanking: 3 of 22 (14%) — Nubank, ClearScore, Current
+- Payments / remittances: 5 of 22 (23%) — Klarna, Remitly, Flywire, AvidXchange, Moniepoint
+- Proptech: 1 of 22 (5%) — QuintoAndar
+- Insurtech: 1 of 22 (5%) — Kin Insurance
+- Crypto / Web3: 1 of 22 (5%) — Bitso
+- E-commerce / marketplace: 2 of 22 (9%) — Kavak, Wayflyer
+- Infrastructure / data: 2 of 22 (9%) — Ocrolus, Jupiter
+- Growth-stage personal finance: 1 of 22 (5%) — SoFi
 
 **Stage distribution:** QED invests across stages, from seed through growth equity. Fund VIII ($650M) targets early-stage investments while Growth II ($275M) targets early growth-stage companies [^7]. The firm has stated that the majority of its 29 unicorns were backed at the pre-seed, seed, or Series A stage [^11]. Morris personally tends toward seed and Series A entry points based on the portfolio data above.
 
-**Geographic distribution (based on 21 verified investments):**
-- United States: 11 of 21 (52%) — Credit Karma, Avant, GreenSky, SoFi, AvidXchange, Mission Lane, Kin Insurance, Current, Remitly, Flywire, Ocrolus
-- Latin America (Brazil, Mexico): 6 of 21 (29%) — Nubank, Creditas, Konfio, QuintoAndar, Kavak, Bitso
-- United Kingdom / Europe: 3 of 21 (14%) — Klarna (Sweden), ClearScore (UK), Wayflyer (Ireland)
-- India: 1 of 21 (5%) — Jupiter
+**Geographic distribution (based on 22 verified investments):**
+- United States: 11 of 22 (50%) — Credit Karma, Avant, GreenSky, SoFi, AvidXchange, Mission Lane, Kin Insurance, Current, Remitly, Flywire, Ocrolus
+- Latin America (Brazil, Mexico): 6 of 22 (27%) — Nubank, Creditas, Konfio, QuintoAndar, Kavak, Bitso
+- United Kingdom / Europe: 3 of 22 (14%) — Klarna (Sweden), ClearScore (UK), Wayflyer (Ireland)
+- Africa: 1 of 22 (5%) — Moniepoint (Nigeria)
+- India: 1 of 22 (5%) — Jupiter
 
-This reveals a significant Latin American focus — QED has been investing in the region since 2014, with Morris personally championing Nubank, Bitso, and QuintoAndar [^6][^12].
+This reveals a significant emerging-market focus — QED has been investing in Latin America since 2014, with Morris personally championing Nubank, Bitso, and QuintoAndar, and more recently expanding into Africa via Moniepoint [^6][^12][^38].
 
 **Co-investor patterns:** Based on the portfolio companies examined, QED frequently co-invests with Tiger Global, Sequoia Capital, General Atlantic, and Ribbit Capital in fintech deals [^21][^33].
 
@@ -108,8 +111,9 @@ Companies where Nigel Morris is listed as QED Champion, board member, or chairma
 | Bitso | 2020 | Series B | QED portfolio page [^31] |
 | Wayflyer | 2020 | Seed | QED portfolio page [^32] |
 | Jupiter | 2021 | Series B | QED portfolio page [^33] |
+| Moniepoint | ~2022 | Pre-Series C (led) | BusinessWire [^38] |
 
-This table represents approximately 8% of QED's 250+ total investments, focusing on deals where Morris is personally involved. QED's full portfolio spans 250+ companies across 20 countries [^6][^7].
+This table represents approximately 9% of QED's 250+ total investments, focusing on deals where Morris is personally involved. QED's full portfolio spans 250+ companies across 20 countries [^6][^7].
 
 **Exits:** Credit Karma (acquired by Intuit, 2020), Klarna (IPO, 2025), Nubank (IPO, 2021), Flywire (IPO, 2021), AvidXchange (IPO, 2021), GreenSky (IPO 2018, acquired by Goldman Sachs 2022) [^6][^7][^8].
 
@@ -144,6 +148,15 @@ On his board-meeting framework:
 On advice for entrepreneurs:
 "Be sure about going out on your own. Know that it is incredibly hard but must also be exhilarating. Solve a problem. Get a partner. Choose your investors wisely." — Nigel Morris, QED Investors blog [^10]
 
+On the fintech IPO pipeline:
+"We now have a whole generation of fintechs preparing for IPOs." — Nigel Morris, CNBC Squawk Box, February 2025 [^40]
+
+On evaluating founders:
+"I'm looking for people that are not just brilliant, not just obsessed with making a difference, not just obsessed with the product, but have the ability when it fails, when it doesn't work, to think in terms of decision trees, to dust themselves off and go at it again." — Nigel Morris, Fintech Leaders podcast [^12]
+
+On managing a large portfolio:
+"If you've got 150 active companies, every day, one of them will have a crisis, and every day, one of them will have a huge opportunity, and being called into that really suits the sort of ADD that's in my nature." — Nigel Morris, Fintech Leaders podcast [^12]
+
 On Midas List recognition:
 "I am incredibly proud to be named to Forbes' Midas List for the fifth time in a row. While this seems like an individual award, it is very much the outcome of a unified team effort across many geographies." — Nigel Morris, QED blog, May 2025 [^6]
 
@@ -155,7 +168,34 @@ Justin Basini, CEO of ClearScore, on QED's involvement: Basini has stated that Q
 
 Ken Lin, Founder and CEO of Credit Karma, on QED's early investment: Lin received "100 'no's up and down Sandhill Road" from investors who didn't share his vision. He pitched QED in Alexandria after taking a red-eye from the West Coast, and by the time he landed back in California, a term sheet was on his desk [^13].
 
-QED was named to Inc. Magazine's 2023 list of Founder-Friendly Investors, a recognition based on portfolio company founder surveys [^11].
+Matt Oppenheimer, CEO and Co-Founder of Remitly, at the time of QED's 2014 Series A investment: "We're excited about QED's financial technology, operational, and marketing expertise. They share our vision to evolve the remittance industry by building the best mobile remittance platform, one that streamlines the process and makes it more affordable for people to send money" [^41]. Oppenheimer later stated: "As an early investor in Remitly, QED has been an invaluable partner through critical phases of our business growth. As Remitly has evolved on our journey to transform international payments for immigrants and their families, QED has been a steady force offering strategic guidance, inspiring long-term focus and encouraging a fail-fast and learn mentality" [^42].
+
+In founder surveys conducted for Inc. Magazine's Founder-Friendly Investors list (2022, 2023), portfolio founders rated the quality of QED's advice as "A+" and noted that QED team members "ask better questions than other VCs, have better insights and are more engaged in the details." Founders also highlighted that QED played "a major role in helping us build our sales pipeline through warm introductions" [^43].
+
+QED was named to Inc. Magazine's Founder-Friendly Investors list in both 2022 and 2023, based on portfolio company founder surveys [^11][^43].
+
+## Connections
+
+- **Board member, Remitly Global** (since July 2021) — member of Nominating and Corporate Governance Committee; Remitly IPO'd in September 2021 [^39]
+- **Board member, Current** — alongside Frank Rotman (QED co-founder) [^6]
+- **Board member, Bitso** — leading crypto exchange in Latin America [^6]
+- **Chairman, ClearScore** — UK-based credit score platform [^6]
+- **Chairman, Mission Lane** — credit card company spun off from LendUp in 2018 [^6]
+- **Board observer, QuintoAndar** — Brazilian proptech platform [^6]
+- **Board observer, Albert** — personal finance app [^6]
+- **Co-founded Capital One Financial** with Richard Fairbank (1994-2004) — served as President & COO [^3]
+- **Co-founded QED Investors** with Frank Rotman and Caribou Honig (2007) — Rotman transitioning to Partner Emeritus end of 2025 [^38]
+- **Former board member, Klarna** — Swedish BNPL company, IPO'd 2025 [^3]
+- **Former board member, AvidXchange** — B2B payments, IPO'd 2021 [^3]
+- **Former board member, The Economist** [^3]
+- **Former board member, Brookings Institution** [^3]
+- **Former board member, National Geographic** [^3]
+- **Former board member, TransUnion** [^3]
+- **Former board member, London Business School** [^3]
+- **Former board member, Braintree** (acquired by PayPal) [^3]
+- **Advisor, Oliver Wyman** [^35]
+- **Co-owner, Swansea City football club** (since 2023) [^5]
+- **Frequent speaker**: Money2020, Fintech Nexus, CNBC Squawk Box, Bernstein Annual Financials Summit [^3][^40]
 
 ## Sources
 
@@ -196,3 +236,9 @@ QED was named to Inc. Magazine's 2023 list of Founder-Friendly Investors, a reco
 [^35]: Affinity, "Spotlight interview with Nigel Morris part 1: A recipe for VC success, and the competitive advantage of being on the east coast," accessed March 2026. https://www.affinity.co/blog/spotlight-interview-with-nigel-morris-part-1
 [^36]: Wharton FinTech / Medium, "Building a Customer-Centric Culture with David Vélez, Founder and CEO of Nubank," accessed March 2026. https://medium.com/wharton-fintech/building-a-customer-centric-culture-with-david-v%C3%A9lez-founder-and-ceo-of-nubank-ead85c3cbec6
 [^37]: QED Investors, "Podcast: One on one with ClearScore CEO Justin Basini," accessed March 2026. https://www.qedinvestors.com/blog/podcast-one-on-one-with-clearscore-ceo-justin-basini
+[^38]: QED Investors Blog, "QED Investors Co-Founder Frank Rotman to transition to Partner Emeritus at the end of the year," March 2025, accessed March 2026. https://www.qedinvestors.com/blog/qed-investors-co-founder-frank-rotman-to-transition-to-partner-emeritus-at-the-end-of-the-year
+[^39]: Remitly Global, Inc., "Nigel Morris | Board Member," accessed March 2026. https://ir.remitly.com/board-member/nigel-morris
+[^40]: CNBC, "We now have 'a whole generation' of fintechs preparing for IPOs, says QED Investors' Nigel Morris," February 5, 2025. https://www.cnbc.com/video/2025/02/05/we-now-have-a-whole-generation-of-fintechs-preparing-for-ipos-says-qed-investors-nigel-morris.html
+[^41]: BusinessWire, "QED Investors Leads Series A Investment in Remitly," January 2014, accessed March 2026. https://www.businesswire.com/news/home/20140106006833/en/QED-Investors-Leads-Series-Investment-Remitly
+[^42]: GeekWire, "Fresh off $135M round, Remitly CEO and early investor dish on startup journey and offer advice," 2019, accessed March 2026. https://www.geekwire.com/2019/fresh-off-135m-round-remitly-ceo-early-investor-dish-startup-journey-offer-advice/
+[^43]: BusinessWire, "QED Investors Named to Inc.'s 2022 List of Founder-Friendly Investors," October 2022, accessed March 2026. https://www.businesswire.com/news/home/20221006005645/en/QED-Investors-Named-to-Inc.s-2022-List-of-Founder-Friendly-Investors

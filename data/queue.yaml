@@ -5824,7 +5824,7 @@ queue:
 - name: Rob Glaser
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: RealNetworks
   discovered_from: mike-slade
@@ -5845,7 +5845,7 @@ queue:
 - name: Marius Nacht
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Check Point
   discovered_from: nir-zuk
@@ -6168,7 +6168,7 @@ queue:
     biotechs'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Krishna Yeshwant
   type: individual
@@ -6334,7 +6334,7 @@ queue:
     partner'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Michael Seibel
   type: individual
@@ -6342,7 +6342,7 @@ queue:
   source: 'Collection gap analysis: YC Network — led YC 2016-2024, co-founded Twitch'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Jared Friedman
   type: individual
@@ -6924,3 +6924,41 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: shayle-kann
+- name: Gigafund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: luke-nosek
+- name: aMoon
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marius-nacht
+- name: Curie.Bio
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alexis-borisy
+- name: Third Rock Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alexis-borisy
+- name: Yair Schindel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: aMoon
+  discovered_from: marius-nacht
+- name: Stephen Oskoui
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gigafund
+  discovered_from: luke-nosek

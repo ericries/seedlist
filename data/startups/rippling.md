@@ -82,6 +82,9 @@ investors:
 - round: Series A
   slug: ilya-fushman
   year: 2019
+- round: Angel
+  slug: michael-seibel
+  year: 2017
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

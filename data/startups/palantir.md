@@ -18,6 +18,9 @@ firms:
 - round: ~2005
   slug: khosla-ventures
   year: 2005
+- round: Early/Growth
+  slug: gigafund
+  year: 2005
 founded: 2003
 founders:
 - name: Peter Thiel
@@ -52,6 +55,9 @@ investors:
 - round: '2008'
   slug: trae-stephens
   year: 2008
+- round: Early/Growth
+  slug: luke-nosek
+  year: 2005
 last_researched: 2026-03-20
 location: Denver, CO
 name: Palantir Technologies

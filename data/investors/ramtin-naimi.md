@@ -1,11 +1,11 @@
 ---
 check_size: $100K-$1M
 firm: abstract-ventures
-last_researched: 2026-03-21
+last_researched: 2026-03-25
 last_verified_investment:
-  company: Truffle Security
-  date: 2025-11
-  round: Series B
+  company: Coworker AI
+  date: 2025-05-20
+  round: Seed
 location: San Francisco, CA
 name: Ramtin Naimi
 role: Founder & General Partner
@@ -18,17 +18,18 @@ sector_focus:
 - deep-tech
 slug: ramtin-naimi
 social:
-  linkedin: linkedin.com/in/ramtin-n-7b2b5149
+  linkedin: linkedin.com/in/ramtin-naimi-5694493a3
   twitter: '@ramtinnaimi'
 stage_focus:
 - pre-seed
 - seed
 - series-a
 status: published
-tldr: Abstract Ventures founder and seed-stage specialist backing 500+ companies.
-  Bankrupt-to-billionaire origin story; core skill is helping founders raise Series
-  A; portfolio concentrated in AI (27%) and crypto (20%) despite claimed sector-agnosticism;
-  known for founder-first approach and unparalleled Series A graduation rates.
+tldr: Abstract Ventures founder and seed-stage specialist with $1.8B AUM across 500+
+  companies. Bankrupt-to-billionaire origin story; core skill is helping founders raise
+  Series A; portfolio concentrated in AI (27%) and crypto (20%) despite claimed sector-agnosticism;
+  5% of returns donated to founders' chosen charities; backed by Andreessen, Druckenmiller,
+  Ackman.
 type: individual
 ---
 
@@ -53,6 +54,8 @@ Naimi has been candid about the seed-stage landscape, stating: "Seed funds that 
 On starting a venture firm, Naimi has said: "I don't think there is any excuse saying that you can't start a venture capital firm with no money because I was literally flat broke when I started Abstract" [^8].
 
 The firm's website lists eight primary focus areas: E-Commerce & Marketplaces, Developer Tools & Infrastructure, Security & Cybersecurity, HR Tech & Future of Work, Fintech & Payments, Insurance, Healthcare & Digital Health, and Biotech & Life Sciences [^7].
+
+A distinctive element of Abstract's model is its philanthropic component: 5% of any return Naimi makes on an investment is reserved for donation to a charity of the portfolio company founders' choice [^22]. Naimi has stated: "I've always had a firm belief that if many people's interests are aligned with you, you'll do better" [^22].
 
 ## Inferred Thesis
 
@@ -81,6 +84,10 @@ Abstract is based in San Francisco and its portfolio is overwhelmingly concentra
 
 Naimi has cultivated deep relationships with tier-one multi-stage firms. David Sacks of Craft Ventures has stated that "Abstract is one of our first calls when we see deals that are too early for us" [^5]. Frequent co-investors across the portfolio include Andreessen Horowitz, Founders Fund, Floodgate, Benchmark, Lightspeed, and Y Combinator [^12][^13][^14][^15].
 
+### Portfolio Outcomes
+
+The portfolio has produced 5 unicorns, 2 IPOs (Wise listed on the London Stock Exchange in July 2021 at ~$11B market cap; Hippo listed on the NYSE), and 26 acquisitions including Newfront by WTW for up to $1.3B (announced December 2025, completed January 2026) [^11][^26].
+
 ### Notable Gaps Between Stated and Actual Thesis
 
 While Abstract claims to be "sector-agnostic," the portfolio shows a strong concentration in AI (27%) and crypto/Web3 (20%), with these two categories accounting for nearly half of verified investments. The firm's stated focus areas of Insurance and Healthcare/Digital Health appear underrepresented relative to the emphasis given on their website.
@@ -104,6 +111,8 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | Glue | Unknown | 2025 | Enterprise / Productivity | [^11] |
 | Telepatia | Unknown | 2025 | Healthcare / AI | [^11] |
 | Truffle Security | Series B | 2025 | Security / Cybersecurity | [^20] |
+| MagicPath | Seed | 2025 | AI / Design Tools | [^23] |
+| Coworker AI | Seed | 2025 | AI / Enterprise | [^24] |
 ~unknown| Material Security | Unknown | Unknown | Security / Cybersecurity | [^7][^10] |
 ~unknown| Polymarket | Unknown | Unknown | Crypto / Prediction Markets | [^10] |
 ~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
@@ -131,7 +140,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 ~unknown| Dover | Unknown | Unknown | HR Tech | [^7] |
 ~unknown| Render | Unknown | Unknown | Developer Infrastructure | [^7] |
 
-*This table represents approximately 41 of 500+ investments attributed to Abstract Ventures. Many entries lack specific round and year data due to limited public records. Abstract's full portfolio page lists over 200 named companies [^7].*
+*This table represents approximately 43 of 500+ investments attributed to Abstract Ventures. Many entries lack specific round and year data due to limited public records. Abstract's full portfolio page lists over 250 named companies [^7].*
 
 ## In Their Own Words
 
@@ -151,11 +160,22 @@ Naimi on seed fund economics and power-law returns: "If you eliminate Uber and R
 
 George Sivulka, founder of Hebbia (AI platform for knowledge work), has stated about Naimi: "This is the single most important person you'll meet, whether you succeed or fail. Ramtin is the key to the kingdom you want" [^5][^21]. Sivulka initially ignored Naimi's outreach — Naimi reportedly messaged him every day for a week — but Naimi has since been given a larger allocation in every subsequent Hebbia round and has become one of Sivulka's closest confidants [^5].
 
-David Sacks, co-founder of Craft Ventures, has stated: "Ramtin is uniquely effective at helping founders with their subsequent rounds. Abstract is one of our first calls when we see deals that are too early for us" [^5]. (Note: This is from an investor peer, not a portfolio founder.)
+Pietro Schirano, founder of MagicPath (AI design tool), stated on X: "Ramtin is amazing, and I'm really happy to have him as one of my seed investors" [^23]. In announcing MagicPath's $6.6M seed round led by Khosla Ventures and Abstract Ventures, Schirano gave "special thanks to @rabois and @ramtinnaimi for believing in us and our vision" [^25].
 
-Michael Ovitz, former president of Disney and founder of CAA, has referred to Naimi as his "non-biological son" [^5].
+David Sacks, co-founder of Craft Ventures, has stated: "Ramtin is uniquely effective at helping founders with their subsequent rounds. Abstract is one of our first calls when we see deals that are too early for us. He has built an elite early-stage firm" [^5]. (Note: This is from an investor peer, not a portfolio founder.)
 
-*Note: Limited independently sourced founder testimonials were found beyond the Sivulka quote. The Sacks and Ovitz quotes are from investor peers, not portfolio founders. Additional founder perspectives would strengthen this section.*
+Michael Ovitz, former president of Disney and founder of CAA, has referred to Naimi as his "non-biological son" and has noted that Naimi listens well and is building a serious art collection [^5]. (Note: This is from a mentor/backer, not a portfolio founder.)
+
+## Connections
+
+- **Mentor relationship with Michael Ovitz** (former president of Disney, founder of CAA) — introduced through Marc Andreessen; Ovitz calls Naimi his "non-biological son" [^5]
+- **LP/backer: Marc Andreessen** (Andreessen Horowitz) — purchased stake in Abstract's management company [^5]
+- **LP/backer: Stanley Druckenmiller** — purchased stake in Abstract's management company [^5]
+- **LP/backer: Bill Ackman** (Pershing Square) — purchased stake in Abstract's management company [^5]
+- **LP/backer: David Sacks** (Craft Ventures) — purchased stake in Abstract's management company; refers early-stage deals to Abstract [^5]
+- **LP/backer: Keith Rabois** (Khosla Ventures) — purchased stake in Abstract's management company; co-invested in MagicPath seed [^5][^25]
+- **Co-investor, Popshop Live seed (2020)** — alongside Ann Miura-Ko (Floodgate), Cyan Banister (Long Journey Ventures) [^13]
+- **Co-investor, Coworker AI seed (2025)** — alongside Jeff Huber [^24]
 
 ## Sources
 
@@ -180,3 +200,8 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^19]: Traded.co, "Cluely Secures $5.3 Million Seed Funding From Abstract Ventures And Susa Ventures," 2025, accessed March 2026. https://traded.co/vc/deal/cluely-secures-5-3-million-seed-funding-from-abstract-ventures-and-susa-ventures/
 [^20]: Fintech Global, "Truffle Security raises $25m to boost AI-driven protection," November 2025, accessed March 2026. https://fintech.global/2025/11/07/truffle-security-raises-25m-to-boost-ai-driven-protection/
 [^21]: X post by @JeremySternLA quoting George Sivulka about Ramtin Naimi, accessed March 2026. https://x.com/JeremySternLA/status/1948394073368429014
+[^22]: "At Ramtin Naimi's Abstract Ventures, investing and philanthropy go hand in hand," TechCrunch, April 5, 2017. https://techcrunch.com/2017/04/05/at-ramtin-naimis-abstract-ventures-early-stage-investing-and-philanthropy-go-hand-in-hand/
+[^23]: Pietro Schirano (@skirano) on X, "Ramtin is amazing," July 2025, accessed March 2026. https://x.com/skirano/status/1948392818788987260
+[^24]: "Coworker.ai Launches the First AI Agent with Deep Company Context, Backed by $13M Seed Round," PR Newswire, May 2025, accessed March 2026. https://www.prnewswire.com/news-releases/coworkerai-launches-the-first-ai-agent-with-deep-company-context-backed-by-13m-seed-round-302459262.html
+[^25]: Pietro Schirano (@skirano) on X, announcing MagicPath $6.6M seed round, 2025, accessed March 2026. https://x.com/skirano/status/1927806188923547925
+[^26]: "WTW Completes Acquisition of Newfront," Willis Towers Watson, January 27, 2026, accessed March 2026. https://investors.wtwco.com/news-releases/news-release-details/wtw-completes-acquisition-newfront

@@ -57,6 +57,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2009
+- round: Early/Growth
+  slug: gigafund
+  year: 2010
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -132,6 +135,9 @@ investors:
 - round: Seed
   slug: david-lee
   year: 2009
+- round: Early/Growth
+  slug: luke-nosek
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

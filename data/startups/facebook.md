@@ -42,6 +42,9 @@ firms:
 - round: Late-stage
   slug: addition
   year: 2010
+- round: Growth
+  slug: gigafund
+  year: 2005
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -106,6 +109,9 @@ investors:
 - round: Series A
   slug: ken-howery
   year: 2004
+- round: Growth
+  slug: luke-nosek
+  year: 2005
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

@@ -24,6 +24,9 @@ firms:
 - round: ~2013
   slug: homebrew
   year: 2013
+- round: Angel
+  slug: y-combinator
+  year: 2014
 founded: 2013
 founders:
 - name: Kyle Vogt
@@ -48,6 +51,9 @@ investors:
   year: 2015
 - round: Seed
   slug: hunter-walk
+  year: 2014
+- round: Angel
+  slug: michael-seibel
   year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA

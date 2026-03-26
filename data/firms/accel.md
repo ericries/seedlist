@@ -1,133 +1,148 @@
 ---
-name: "Accel"
-slug: accel
-type: firm
-website: "https://www.accel.com"
-location: "Palo Alto, CA"
 founded: 1983
-fund_size: "$9.6B current fund size; $19.56B total raised across all funds; $4B growth fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [ai, enterprise, consumer, fintech, cybersecurity, infrastructure, developer-tools]
-team:
-  - slug: andrew-braccia
-    role: "Partner (Early Stage/Late Stage)"
-    name: "Andrew Braccia"
-  - slug: sameer-gandhi
-    role: "Partner (Early Stage/Late Stage)"
-    name: "Sameer Gandhi"
-  - slug: ping-li
-    role: "Partner (Early Stage/Late Stage)"
-    name: "Ping Li"
-  - slug: rich-wong
-    role: "Partner (Early Stage/Late Stage)"
-    name: "Rich Wong"
-  - slug: ryan-sweeney
-    role: "Partner (Early Stage/Late Stage)"
-    name: "Ryan Sweeney"
-  - slug: steve-loughlin
-    role: "Partner (Early Stage)"
-    name: "Steve Loughlin"
-  - slug: amit-kumar-accel
-    role: "Partner (Early Stage)"
-    name: "Amit Kumar"
-  - slug: vas-natarajan
-    role: "Partner (Early Stage)"
-    name: "Vas Natarajan"
-  - slug: eric-wolford
-    role: "Partner (Early Stage)"
-    name: "Eric Wolford"
-  - slug: casey-aylward
-    role: "Partner (Early Stage)"
-    name: "Casey Aylward"
-  - slug: sara-ittelson
-    role: "Partner (Early Stage)"
-    name: "Sara Ittelson"
-  - slug: nafis-jamal
-    role: "Partner (Early Stage)"
-    name: "Nafis Jamal"
-  - slug: daniel-levine-accel
-    role: "Partner (Early Stage)"
-    name: "Daniel Levine"
-  - slug: kerry-wang
-    role: "Partner (Early Stage)"
-    name: "Kerry Wang"
-  - slug: ivan-zhou
-    role: "Partner (Early Stage)"
-    name: "Ivan Zhou"
-  - slug: gonzalo-mocorrea
-    role: "Partner (Early Stage/Late Stage)"
-    name: "Gonzalo Mocorrea"
-  - slug: miles-clements
-    role: "Partner (Late Stage)"
-    name: "Miles Clements"
-  - slug: christine-esserman
-    role: "Partner (Late Stage)"
-    name: "Christine Esserman"
-  - slug: myrel-iturrey
-    role: "Partner (Late Stage)"
-    name: "Myrel Iturrey"
-  - slug: arun-mathew
-    role: "Partner (Late Stage)"
-    name: "Arun Mathew"
-  - slug: nate-niparko
-    role: "Partner (Late Stage)"
-    name: "Nate Niparko"
-  - slug: ben-quazzo
-    role: "Partner (Late Stage)"
-    name: "Ben Quazzo"
-  - slug: jonathan-turner
-    role: "Partner (Late Stage)"
-    name: "Jonathan Turner"
-  - slug: matt-weigand
-    role: "Partner (Late Stage)"
-    name: "Matt Weigand"
-  - slug: john-locke-accel
-    role: "Partner (Late Stage)"
-    name: "John Locke"
-  - slug: sonali-de-rycker
-    role: "Partner (London)"
-    name: "Sonali De Rycker"
-  - slug: philippe-botteri
-    role: "Partner (London)"
-    name: "Philippe Botteri"
-  - slug: luca-bocchio
-    role: "Partner (London)"
-    name: "Luca Bocchio"
-  - slug: harry-nelis
-    role: "Partner (London)"
-    name: "Harry Nelis"
-  - slug: andrei-brasoveanu
-    role: "Partner (London)"
-    name: "Andrei Brasoveanu"
-  - slug: matt-robinson-accel
-    role: "Partner (London)"
-    name: "Matt Robinson"
-  - slug: shekhar-kirani
-    role: "Partner (Bangalore)"
-    name: "Shekhar Kirani"
-  - slug: subrata-mitra
-    role: "Partner (Bangalore)"
-    name: "Subrata Mitra"
-  - slug: prashanth-prakash
-    role: "Partner (Bangalore)"
-    name: "Prashanth Prakash"
-  - slug: anand-daniel
-    role: "Partner (Bangalore)"
-    name: "Anand Daniel"
-  - slug: prayank-swaroop
-    role: "Partner (Bangalore)"
-    name: "Prayank Swaroop"
-  - slug: barath-shankar-subramanian
-    role: "Partner (Bangalore)"
-    name: "Barath Shankar Subramanian"
-  - slug: arthur-patterson
-    role: "Co-Founder"
-    name: "Arthur Patterson"
-  - slug: jim-swartz
-    role: "Co-Founder"
-    name: "Jim Swartz"
-status: published
+fund_size: $9.6B current fund size; $19.56B total raised across all funds; $4B growth
+  fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)
 last_researched: 2026-03-20
+location: Palo Alto, CA
+name: Accel
+sector_focus:
+- ai
+- enterprise
+- consumer
+- fintech
+- cybersecurity
+- infrastructure
+- developer-tools
+slug: accel
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+team:
+- name: Andrew Braccia
+  role: Partner (Early Stage/Late Stage)
+  slug: andrew-braccia
+- name: Sameer Gandhi
+  role: Partner (Early Stage/Late Stage)
+  slug: sameer-gandhi
+- name: Ping Li
+  role: Partner (Early Stage/Late Stage)
+  slug: ping-li
+- name: Rich Wong
+  role: Partner (Early Stage/Late Stage)
+  slug: rich-wong
+- name: Ryan Sweeney
+  role: Partner (Early Stage/Late Stage)
+  slug: ryan-sweeney
+- name: Steve Loughlin
+  role: Partner (Early Stage)
+  slug: steve-loughlin
+- name: Amit Kumar
+  role: Partner (Early Stage)
+  slug: amit-kumar-accel
+- name: Vas Natarajan
+  role: Partner (Early Stage)
+  slug: vas-natarajan
+- name: Eric Wolford
+  role: Partner (Early Stage)
+  slug: eric-wolford
+- name: Casey Aylward
+  role: Partner (Early Stage)
+  slug: casey-aylward
+- name: Sara Ittelson
+  role: Partner (Early Stage)
+  slug: sara-ittelson
+- name: Nafis Jamal
+  role: Partner (Early Stage)
+  slug: nafis-jamal
+- name: Daniel Levine
+  role: Partner (Early Stage)
+  slug: daniel-levine-accel
+- name: Kerry Wang
+  role: Partner (Early Stage)
+  slug: kerry-wang
+- name: Ivan Zhou
+  role: Partner (Early Stage)
+  slug: ivan-zhou
+- name: Gonzalo Mocorrea
+  role: Partner (Early Stage/Late Stage)
+  slug: gonzalo-mocorrea
+- name: Miles Clements
+  role: Partner (Late Stage)
+  slug: miles-clements
+- name: Christine Esserman
+  role: Partner (Late Stage)
+  slug: christine-esserman
+- name: Myrel Iturrey
+  role: Partner (Late Stage)
+  slug: myrel-iturrey
+- name: Arun Mathew
+  role: Partner (Late Stage)
+  slug: arun-mathew
+- name: Nate Niparko
+  role: Partner (Late Stage)
+  slug: nate-niparko
+- name: Ben Quazzo
+  role: Partner (Late Stage)
+  slug: ben-quazzo
+- name: Jonathan Turner
+  role: Partner (Late Stage)
+  slug: jonathan-turner
+- name: Matt Weigand
+  role: Partner (Late Stage)
+  slug: matt-weigand
+- name: John Locke
+  role: Partner (Late Stage)
+  slug: john-locke-accel
+- name: Sonali De Rycker
+  role: Partner (London)
+  slug: sonali-de-rycker
+- name: Philippe Botteri
+  role: Partner (London)
+  slug: philippe-botteri
+- name: Luca Bocchio
+  role: Partner (London)
+  slug: luca-bocchio
+- name: Harry Nelis
+  role: Partner (London)
+  slug: harry-nelis
+- name: Andrei Brasoveanu
+  role: Partner (London)
+  slug: andrei-brasoveanu
+- name: Matt Robinson
+  role: Partner (London)
+  slug: matt-robinson-accel
+- name: Shekhar Kirani
+  role: Partner (Bangalore)
+  slug: shekhar-kirani
+- name: Subrata Mitra
+  role: Partner (Bangalore)
+  slug: subrata-mitra
+- name: Prashanth Prakash
+  role: Partner (Bangalore)
+  slug: prashanth-prakash
+- name: Anand Daniel
+  role: Partner (Bangalore)
+  slug: anand-daniel
+- name: Prayank Swaroop
+  role: Partner (Bangalore)
+  slug: prayank-swaroop
+- name: Barath Shankar Subramanian
+  role: Partner (Bangalore)
+  slug: barath-shankar-subramanian
+- name: Arthur Patterson
+  role: Co-Founder
+  slug: arthur-patterson
+- name: Jim Swartz
+  role: Co-Founder
+  slug: jim-swartz
+- name: Rob Glaser
+  role: Venture Partner
+  slug: rob-glaser
+type: firm
+website: https://www.accel.com
 ---
 
 ## About
