@@ -6533,7 +6533,7 @@ queue:
 - name: Nikolay Kostov
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ribbit Capital
   discovered_from: nick-shalek
@@ -6628,21 +6628,21 @@ queue:
 - name: David Weiden
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Khosla Ventures
   discovered_from: vinod-khosla
 - name: Samir Kaul
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Khosla Ventures
   discovered_from: vinod-khosla
 - name: Hany Nada
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: ACME Capital
   discovered_from: sherpa-capital
@@ -6686,7 +6686,7 @@ queue:
 - name: Jeremie Berrebi
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kima Ventures
   discovered_from: xavier-niel
@@ -7045,14 +7045,14 @@ queue:
 - name: Greg Sands
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Costanoa Ventures
   discovered_from: martina-lauchengco
 - name: John Cowgill
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Costanoa Ventures
   discovered_from: martina-lauchengco
@@ -7066,7 +7066,7 @@ queue:
 - name: Penny Pritzker
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: sanaz-yashar
 - name: Zafran Security
@@ -7075,3 +7075,15 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sanaz-yashar
+- name: PSP Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: penny-pritzker
+- name: Pritzker Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: penny-pritzker

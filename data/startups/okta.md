@@ -52,6 +52,9 @@ investors:
 - round: Series B
   slug: vinod-khosla
   year: 2011
+- round: Series B
+  slug: david-weiden
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Okta

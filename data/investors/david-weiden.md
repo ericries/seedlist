@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@d_weiden"
   linkedin: "linkedin.com/in/davidweiden"
-status: draft
+status: published
 last_researched: 2026-03-26
 ---
 

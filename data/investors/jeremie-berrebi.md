@@ -1,22 +1,29 @@
 ---
-name: "Jérémie Berrebi"
-slug: jeremie-berrebi
-type: individual
+check_size: $150K (via Kima Ventures)
 firm: kima-ventures
-role: "Co-Founder (2010–2015)"
-location: "Bnei Brak, Israel"
-stage_focus: [pre-seed, seed]
-sector_focus: [fintech, developer-tools, SaaS, consumer, gaming]
-check_size: "$150K (via Kima Ventures)"
-last_verified_investment:
-  date: 2013
-  company: "Carta"
-  round: "Seed"
-social:
-  twitter: "@jberrebi"
-  linkedin: "linkedin.com/in/berrebi"
-status: draft
 last_researched: 2026-03-26
+last_verified_investment:
+  company: Front
+  date: ~2014
+  round: Seed
+location: Bnei Brak, Israel
+name: Jérémie Berrebi
+role: Co-Founder (2010–2015)
+sector_focus:
+- fintech
+- developer-tools
+- SaaS
+- consumer
+- gaming
+slug: jeremie-berrebi
+social:
+  linkedin: linkedin.com/in/berrebi
+  twitter: '@jberrebi'
+stage_focus:
+- pre-seed
+- seed
+status: published
+type: individual
 ---
 
 ## Background

@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@PennyPritzker"
   linkedin: "linkedin.com/in/penny-pritzker"
-status: draft
+status: published
 last_researched: 2026-03-26
 ---
 
