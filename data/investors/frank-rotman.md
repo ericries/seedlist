@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@fintechjunkie"
   linkedin: "linkedin.com/in/frank-rotman"
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

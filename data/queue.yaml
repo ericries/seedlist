@@ -6194,7 +6194,7 @@ queue:
     specialist'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Andrew Chen
   type: individual
@@ -6203,7 +6203,7 @@ queue:
     The Cold Start Problem'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Marc Stad
   type: individual
@@ -6228,7 +6228,7 @@ queue:
     (250x), Affirm'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Frank Rotman
   type: individual
@@ -6237,7 +6237,7 @@ queue:
     GreenSky'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Chamath Palihapitiya
   type: individual
@@ -6830,7 +6830,7 @@ queue:
 - name: Tushar Jain
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Multicoin Capital
   discovered_from: kyle-samani
@@ -6870,7 +6870,7 @@ queue:
 - name: Swati Mylavarapu
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Incite Ventures
   discovered_from: matt-rogers
@@ -6899,3 +6899,10 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: david-lee
+- name: Caribou Honig
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: QED Investors
+  discovered_from: frank-rotman

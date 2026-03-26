@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@simonrothman"
   linkedin: "linkedin.com/in/simonrothman"
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

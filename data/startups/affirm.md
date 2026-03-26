@@ -30,6 +30,9 @@ firms:
 - round: Early
   slug: notable-capital
   year: 2014
+- round: Early
+  slug: lightspeed-venture-partners
+  year: 2013
 founded: 2012
 founders:
 - name: Max Levchin
@@ -74,6 +77,9 @@ investors:
 - round: Series F
   slug: meyer-malka
   year: 2019
+- round: Early
+  slug: jeremy-liew
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

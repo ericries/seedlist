@@ -64,6 +64,9 @@ investors:
 - round: Early stage
   slug: meyer-malka
   year: 2014
+- round: Series A
+  slug: frank-rotman
+  year: 2009
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Credit Karma

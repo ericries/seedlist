@@ -25,7 +25,7 @@ last_verified_investment:
 social:
   twitter: "@jeremysliew"
   linkedin: linkedin.com/in/jeremyliew
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

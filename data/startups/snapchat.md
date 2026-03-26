@@ -15,6 +15,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2012
+- round: Seed
+  slug: lightspeed-venture-partners
+  year: 2012
 founded: 2011
 founders:
 - name: Evan Spiegel
@@ -39,6 +42,9 @@ investors:
   year: 2016
 - round: Seed
   slug: david-lee
+  year: 2012
+- round: Seed
+  slug: jeremy-liew
   year: 2012
 last_researched: 2026-03-13
 location: Santa Monica, CA

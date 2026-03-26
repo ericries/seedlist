@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@swatipedia"
   linkedin: "linkedin.com/in/swatimylavarapu"
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

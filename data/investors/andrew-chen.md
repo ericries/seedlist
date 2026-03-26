@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@andrewchen"
   linkedin: "linkedin.com/in/andrewchen"
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

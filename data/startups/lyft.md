@@ -21,6 +21,9 @@ firms:
 - round: Growth (board joined)
   slug: andreessen-horowitz
   year: 2016
+- round: Advisor
+  slug: greylock-partners
+  year: 2011
 founded: 2012
 founders:
 - name: Logan Green
@@ -52,6 +55,9 @@ investors:
 - round: Growth (board joined)
   slug: ben-horowitz
   year: 2016
+- round: Advisor
+  slug: simon-rothman
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft
