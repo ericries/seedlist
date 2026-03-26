@@ -22,7 +22,7 @@ stage_focus:
 - seed
 - series-a
 - series-b
-status: draft
+status: published
 tldr: 'Israeli cybersecurity godfather and co-founder of three unicorns: Check Point
   ($19B), Imperva, and Cato Networks ($4.8B). Prolific angel investor with 67+ deals,
   65% in cybersecurity including early-stage bets in Palo Alto Networks ($100B+) and

@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@snowmaker"
   linkedin: "linkedin.com/in/jaredfriedman"
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

@@ -117,6 +117,9 @@ investors:
 - round: Seed
   slug: vinod-khosla
   year: 2012
+- round: Seed
+  slug: jared-friedman
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

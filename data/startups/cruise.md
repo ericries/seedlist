@@ -55,6 +55,9 @@ investors:
 - round: Angel
   slug: michael-seibel
   year: 2014
+- round: Seed
+  slug: jared-friedman
+  year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Cruise

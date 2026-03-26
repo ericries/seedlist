@@ -26,7 +26,7 @@ last_verified_investment:
 social:
   twitter: "@tfadell"
   linkedin: linkedin.com/in/tonyfadell
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

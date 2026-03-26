@@ -25,7 +25,7 @@ last_verified_investment:
 social:
   twitter: "@YSchindel"
   linkedin: "linkedin.com/in/yair-schindel-md-mba-62a15b1"
-status: draft
+status: published
 last_researched: 2026-03-25
 ---
 

@@ -141,6 +141,9 @@ firms:
 - round: Series E
   slug: us-innovative-technology-fund
   year: 2022
+- round: Seed (Rise of the Rest)
+  slug: revolution
+  year: 2017
 founded: 2017
 founders:
 - name: Palmer Luckey
@@ -208,6 +211,9 @@ investors:
 - round: Series E
   slug: thomas-tull
   year: 2022
+- round: Seed (Rise of the Rest)
+  slug: steve-case
+  year: 2017
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

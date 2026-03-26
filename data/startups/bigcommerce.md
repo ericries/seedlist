@@ -24,6 +24,9 @@ firms:
 - round: ~2011
   slug: notable-capital
   year: 2011
+- round: Growth
+  slug: revolution
+  year: 2013
 founded: 2009
 founders:
 - name: Eddie Machaalani
@@ -40,6 +43,9 @@ investors:
 - round: ~2011
   slug: jeff-richards
   year: 2011
+- round: Growth
+  slug: steve-case
+  year: 2013
 last_researched: 2026-03-24
 location: Austin, TX
 name: BigCommerce

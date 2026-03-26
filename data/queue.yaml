@@ -6350,7 +6350,7 @@ queue:
   source: 'Collection gap analysis: YC Network — current YC managing partner'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Geoff Ralston
   type: individual
@@ -6375,7 +6375,7 @@ queue:
     Nest, now investor'
   discovered_from: cluster-gap-analysis
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Amjad Masad
   type: individual
@@ -6463,7 +6463,7 @@ queue:
 - name: Steve Case
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Revolution Growth
   discovered_from: bigcommerce
@@ -6951,14 +6951,47 @@ queue:
 - name: Yair Schindel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: aMoon
   discovered_from: marius-nacht
 - name: Stephen Oskoui
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gigafund
   discovered_from: luke-nosek
+- name: Future Shape
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tony-fadell
+- name: Revolution
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-case
+- name: Gio Valiante
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Revolution
+  discovered_from: steve-case
+- name: Clara Sieg
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Revolution
+  discovered_from: steve-case
+- name: David Golden
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Revolution
+  discovered_from: steve-case
