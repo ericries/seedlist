@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/maidenberg"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Tribe Capital and former Social Capital partner. Despite the firm''s stated sector agnosticism, Maidenberg is consistently drawn to healthcare (35% of verified portfolio) and takes board seats in most investments. Distinctive for converting board relationships into deal flow and backing companies across 3-4 rounds, from Propeller Health to Saildrone."
 ---
 
 ## Background

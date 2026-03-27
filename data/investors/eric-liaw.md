@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/ericliaw"
 status: published
 last_researched: 2026-03-27
+tldr: "IVP General Partner and leader of the firm''s European expansion, relocated to London in 2023. Invests at Series B to growth stage in enterprise software, consumer brands, fintech, and increasingly AI. Distinctive for high board engagement (44% of portfolio) and unusual comfort with consumer brand investments like Glossier alongside enterprise SaaS, with recent acceleration into AI companies."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/jonathanphsu"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Tribe Capital, a data-driven venture firm that pioneered quantitative analysis of product-market fit. Invests primarily in fintech and crypto (30%), enterprise software, and deep tech with significant exposure to Series B+ companies like Carta and Relativity Space. Distinctive for treating data as ground truth while backing unusual patterns like crypto investments that contradict stated generalist thesis."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/ozeev"
 status: published
 last_researched: 2026-03-27
+tldr: "Solo venture capitalist (no partners, no employees) managing $2.5B in assets, the largest one-person VC firm. Israeli-focused investor (80% Israeli founders) backing fintech and enterprise SaaS with extreme concentration and board involvement in 80% of portfolio. Distinctive for 24-48 hour investment decisions without pitch decks, delivering 100x+ returns from companies like Navan and Audible."
 ---
 
 ## Background

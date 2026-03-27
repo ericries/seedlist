@@ -26,6 +26,7 @@ social:
   linkedin: "linkedin.com/in/davidafrankel1"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Founder Collective, a seed-stage firm invested in 350+ companies including Uber, Airtable, and Cruise. South African entrepreneur (built Internet Solutions, Africa''s largest ISP) who prioritizes founder quality over thesis and capital efficiency. Named to Forbes Midas List seven times; distinctive for backing founder convictions like requiring Noah Glass to drop out of Harvard."
 ---
 
 ## Background

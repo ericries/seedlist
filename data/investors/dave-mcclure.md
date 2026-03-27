@@ -26,6 +26,7 @@ social:
   linkedin: "linkedin.com/in/davemcclure"
 status: published
 last_researched: 2026-03-27
+tldr: "Pioneer of high-volume seed investing at 500 Startups (2010-2017), investing in 2,500+ companies across 75 countries, with legendary Founders Fund returns including Twilio, Lyft, and Credit Karma (400x return). Resigned from 500 Startups in 2017 following sexual harassment allegations. Now runs Practical Venture Capital focused on venture secondaries."
 ---
 
 ## Background

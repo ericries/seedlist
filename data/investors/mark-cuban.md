@@ -28,6 +28,7 @@ social:
   linkedin: "linkedin.com/in/mark-cuban-06a0755b"
 status: published
 last_researched: 2026-03-27
+tldr: "Billionaire investor famous for Shark Tank and founder of Cost Plus Drugs. Maintains a bifurcated portfolio: consumer products via Shark Tank and crypto/AI via direct deals, with 80% of non-Shark Tank investments in crypto. Distinctive for cold-email accessibility and preference for founders over polished decks, with check sizes ranging from $10K to $1M depending on opportunity."
 ---
 
 ## Background

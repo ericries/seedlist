@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/jyotibansal"
 status: published
 last_researched: 2026-03-27
+tldr: "Serial entrepreneur (AppDynamics founder, $3.7B Cisco acquisition) who co-founded Unusual Ventures to apply founder playbook to early-stage software investing. Invests heavily in AI infrastructure (53% of portfolio) with a ''Founder Services'' model embedding operators in portfolio companies. Most distinctive for his ability to find product-market fit, with portfolio companies including Qdrant, Neon, and Traceable."
 ---
 
 ## Background
