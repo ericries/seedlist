@@ -1,6 +1,7 @@
 ---
 name: "Eric Tarczynski"
 slug: eric-tarczynski
+tldr: 'Founder of Contrary Capital, a talent-first seed fund that invests in exceptional individuals before they start companies through a proprietary venture partner university network. Portfolio shows strong fintech and enterprise focus; actively participates in follow-on rounds at growth stages.'
 type: individual
 firm: contrary-capital
 role: "Founder & Managing Partner"

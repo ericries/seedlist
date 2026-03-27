@@ -1,6 +1,7 @@
 ---
 name: "Arjun Sethi"
 slug: arjun-sethi
+tldr: 'Co-founder of Tribe Capital, a data-driven venture firm that uses proprietary models to identify category-defining companies; claims sector agnosticism but portfolio is heavily weighted to fintech/crypto (37%). Currently serves as co-CEO of Kraken exchange alongside chairman role at Tribe.'
 type: individual
 firm: tribe-capital
 role: "Co-Founder & Chairman"

@@ -1,6 +1,7 @@
 ---
 name: Steve Harrick
 slug: steve-harrick
+tldr: 'General Partner at IVP investing at Series B and growth stages across enterprise software, cybersecurity, and infrastructure. Known for conviction in repeat founders; backed Jyoti Bansal across three companies (AppDynamics, Harness, Traceable). Track record includes multiple exits and one Midas List honoree.'
 type: individual
 firm: ivp
 role: General Partner

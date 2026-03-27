@@ -1,6 +1,7 @@
 ---
 name: "Jason Calacanis"
 slug: jason-calacanis
+tldr: 'Founder of LAUNCH, a high-volume angel investing platform with accelerator, syndicate, and media arms; invests $100K-$500K per deal with focus on founders with early traction. Portfolio is diversified across consumer, fintech, and enterprise; claims 300+ investments but documents show ~145 public ones.'
 type: individual
 firm: launch
 role: "Founder & CEO"

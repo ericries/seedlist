@@ -1,6 +1,7 @@
 ---
 name: David Friedberg
 slug: david-friedberg
+tldr: 'Founder and CEO of The Production Board, a venture foundry deploying capital across agriculture, food tech, and life sciences using a holding company model. Builds companies from scratch rather than backing external founders; personally serves as CEO of Ohalo Genetics and sits on boards of portfolio companies.'
 type: individual
 firm: the-production-board
 role: Founder & CEO

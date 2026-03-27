@@ -1,6 +1,7 @@
 ---
 name: "Andy McLoughlin"
 slug: andy-mcloughlin
+tldr: 'Managing Partner of Uncork Capital (formerly SoftTech VC), a dedicated seed fund investing $750K-$2M in developer tools and infrastructure businesses. Founder operator background; portfolio skews heavily toward unsexy enterprise problems with security recurring as an implicit theme alongside recent AI-native acceleration.'
 type: individual
 firm: uncork-capital
 role: "Managing Partner"

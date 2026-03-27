@@ -1,6 +1,7 @@
 ---
 name: "Val Vaden"
 slug: val-vaden
+tldr: 'Founding general partner of Benchmark Capital (1995-1996) with four decades of enterprise technology experience; departed early to pursue growth-stage and buyout opportunities through Vector Capital and Outfitter Ventures. Currently a venture partner at Cota Capital.'
 type: individual
 firm: benchmark
 role: "Founding General Partner (1995-1996)"

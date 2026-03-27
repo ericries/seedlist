@@ -1,6 +1,7 @@
 ---
 name: "David Beirne"
 slug: david-beirne
+tldr: 'Former General Partner at Benchmark Capital (1997-2007) who leveraged executive search background to add CEO recruitment value to portfolio companies. Later shifted focus to sports-focused private equity (X10 Capital); currently sits on boards of Divergent Technologies and webAI.'
 type: individual
 firm: benchmark
 role: "Former General Partner"
