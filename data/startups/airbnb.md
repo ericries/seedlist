@@ -60,6 +60,9 @@ firms:
 - round: Early/Growth
   slug: gigafund
   year: 2010
+- round: ~2013
+  slug: elevation-partners
+  year: 2013
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -141,6 +144,9 @@ investors:
 - round: Series B ($112M round)
   slug: jeff-jordan
   year: 2011
+- round: ~2013
+  slug: roger-mcnamee
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

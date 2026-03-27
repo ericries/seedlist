@@ -18,6 +18,9 @@ firms:
 - round: Seed
   slug: lightspeed-venture-partners
   year: 2012
+- round: Series C
+  slug: coatue-management
+  year: 2013
 founded: 2011
 founders:
 - name: Evan Spiegel
@@ -46,6 +49,9 @@ investors:
 - round: Seed
   slug: jeremy-liew
   year: 2012
+- round: Series C
+  slug: thomas-laffont
+  year: 2013
 last_researched: 2026-03-13
 location: Santa Monica, CA
 name: Snapchat

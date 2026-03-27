@@ -115,6 +115,9 @@ investors:
 - round: ~2023
   slug: everett-randle
   year: 2023
+- round: Series G ($30B, Co-Led)
+  slug: thomas-laffont
+  year: 2026
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

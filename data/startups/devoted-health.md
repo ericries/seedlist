@@ -15,6 +15,9 @@ firms:
 - round: ~2018
   slug: maverick-ventures
   year: 2018
+- round: Early
+  slug: edventure-holdings
+  year: 2017
 founded: 2017
 founders:
 - name: Todd Park
@@ -48,6 +51,9 @@ investors:
   year: 2017
 - round: Series A
   slug: vishal-vasishth
+  year: 2017
+- round: Early
+  slug: esther-dyson
   year: 2017
 last_researched: 2026-03-24
 location: Waltham, Massachusetts

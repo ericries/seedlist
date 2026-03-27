@@ -1448,7 +1448,7 @@ queue:
   discovered_from: coatue-management
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Dan Rose
   type: individual
@@ -4908,7 +4908,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Tess Hatch
   type: individual
@@ -4964,7 +4964,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Ryan Hoover
   type: individual
@@ -5060,7 +5060,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Masha Bucher
   type: individual
@@ -5995,7 +5995,7 @@ queue:
   source: 'Collection gap analysis: OGs — first enterprise-software-focused VC (1989)'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Mitch Kapor
   type: individual
@@ -6004,7 +6004,7 @@ queue:
     investor'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Roger McNamee
   type: individual
@@ -6013,7 +6013,7 @@ queue:
     1999'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Esther Dyson
   type: individual
@@ -6022,7 +6022,7 @@ queue:
     chair'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Thomas Tull
   type: individual
@@ -7295,3 +7295,166 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: oren-zeev
+- name: Future Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-jurvetson
+- name: Maryanna Saenko
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Future Ventures
+  discovered_from: steve-jurvetson
+- name: Long Journey Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cyan-banister
+- name: Lee Jacobs
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Long Journey Ventures
+  discovered_from: cyan-banister
+- name: Scott Banister
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cyan-banister
+- name: Goat Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: justin-kan
+- name: Robin Chan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Goat Capital
+  discovered_from: justin-kan
+- name: Emmett Shear
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: justin-kan
+- name: Kyle Vogt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: justin-kan
+- name: Kapor Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mitch-kapor
+- name: Freada Kapor Klein
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kapor Capital
+  discovered_from: mitch-kapor
+- name: Hummer Winblad Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ann-winblad
+- name: John Hummer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hummer Winblad Venture Partners
+  discovered_from: ann-winblad
+- name: Elevation Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: roger-mcnamee
+- name: EDventure Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: esther-dyson
+- name: Draper Fisher Jurvetson
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-jurvetson
+- name: Silver Lake Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: roger-mcnamee
+- name: Crusoe Energy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cyan-banister
+- name: Together AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cyan-banister
+- name: Commonwealth Fusion Systems
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-jurvetson
+- name: BlocPower
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mitch-kapor
+- name: MuleSoft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ann-winblad
+- name: Five9
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ann-winblad
+- name: Elizabeth Yin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hustle Fund
+  discovered_from: dave-mcclure
+- name: Christine Tsai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 500 Global
+  discovered_from: dave-mcclure
+- name: 500 Global
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dave-mcclure

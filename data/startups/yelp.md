@@ -37,6 +37,9 @@ investors:
 - round: Series A
   slug: jeremy-levine
   year: 2005
+- round: '2010'
+  slug: roger-mcnamee
+  year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Yelp

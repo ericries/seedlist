@@ -45,6 +45,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2018
+- round: Early Stage
+  slug: long-journey-ventures
+  year: 2020
 founded: 2013
 founders:
 - name: Ivan Zhao
@@ -97,6 +100,9 @@ investors:
 - round: Seed
   slug: naval-ravikant
   year: 2013
+- round: Early Stage
+  slug: cyan-banister
+  year: 2020
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Notion

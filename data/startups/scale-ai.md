@@ -54,6 +54,9 @@ firms:
 - round: Seed
   slug: first-round-capital
   year: 2016
+- round: Series B
+  slug: goat-capital
+  year: 2019
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -109,6 +112,9 @@ investors:
 - round: Seed
   slug: liz-wessel
   year: 2016
+- round: Series B
+  slug: justin-kan
+  year: 2019
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

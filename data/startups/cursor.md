@@ -95,6 +95,9 @@ investors:
 - round: ~2022–2023
   slug: tom-preston-werner
   year: 2022
+- round: Series D ($2.3B, Co-Led)
+  slug: thomas-laffont
+  year: 2025
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

@@ -144,6 +144,9 @@ firms:
 - round: Seed (Rise of the Rest)
   slug: revolution
   year: 2017
+- round: Early Stage
+  slug: long-journey-ventures
+  year: 2019
 founded: 2017
 founders:
 - name: Palmer Luckey
@@ -214,6 +217,9 @@ investors:
 - round: Seed (Rise of the Rest)
   slug: steve-case
   year: 2017
+- round: Early Stage
+  slug: cyan-banister
+  year: 2019
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

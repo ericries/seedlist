@@ -33,6 +33,9 @@ firms:
 - round: Series C (extended)
   slug: notable-capital
   year: 2011
+- round: Early
+  slug: edventure-holdings
+  year: 2009
 founded: 2009
 founders:
 - name: Jack Dorsey
@@ -79,6 +82,9 @@ investors:
 - round: Seed
   slug: hank-vigil
   year: 2010
+- round: Early
+  slug: esther-dyson
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Square

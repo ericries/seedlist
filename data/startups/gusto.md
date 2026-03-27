@@ -99,6 +99,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2014
+- round: Early
+  slug: goat-capital
+  year: 2017
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -201,6 +204,9 @@ investors:
 - round: Seed
   slug: hunter-walk
   year: 2016
+- round: Early
+  slug: justin-kan
+  year: 2017
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

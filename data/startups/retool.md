@@ -30,6 +30,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2018
+- round: Early
+  slug: goat-capital
+  year: 2018
 founded: 2017
 founders:
 - name: David Hsu
@@ -68,6 +71,9 @@ investors:
 - round: Growth
   slug: carl-eschenbach
   year: 2020
+- round: Early
+  slug: justin-kan
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Retool

@@ -120,6 +120,15 @@ firms:
 - round: Seed
   slug: founder-collective
   year: 2010
+- round: Angel
+  slug: long-journey-ventures
+  year: 2010
+- round: ~2013
+  slug: elevation-partners
+  year: 2013
+- round: Angel
+  slug: kapor-capital
+  year: 2010
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -210,6 +219,15 @@ investors:
   year: 2009
 - round: Seed
   slug: david-frankel
+  year: 2010
+- round: Angel
+  slug: cyan-banister
+  year: 2010
+- round: ~2013
+  slug: roger-mcnamee
+  year: 2013
+- round: Angel
+  slug: mitch-kapor
   year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA

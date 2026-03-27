@@ -18,6 +18,12 @@ firms:
 - round: Growth
   slug: cedar-capital-group
   year: 2020
+- round: Unknown
+  slug: elevation-partners
+  year: 2020
+- round: Angel
+  slug: kapor-capital
+  year: 2009
 founded: 2008
 founders:
 - name: Dustin Moskovitz
@@ -36,6 +42,12 @@ investors:
   year: 2016
 - round: Series A
   slug: matt-cohler
+  year: 2009
+- round: Unknown
+  slug: roger-mcnamee
+  year: 2020
+- round: Angel
+  slug: mitch-kapor
   year: 2009
 last_researched: 2026-03-20
 location: San Francisco, CA

@@ -45,6 +45,9 @@ firms:
 - round: Growth
   slug: gigafund
   year: 2005
+- round: '2009'
+  slug: elevation-partners
+  year: 2009
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -112,6 +115,9 @@ investors:
 - round: Growth
   slug: luke-nosek
   year: 2005
+- round: '2009'
+  slug: roger-mcnamee
+  year: 2009
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

@@ -7,6 +7,9 @@ firms:
 - round: Co-founder
   slug: founders-fund
   year: 1999
+- round: Early
+  slug: hummer-winblad-venture-partners
+  year: 1999
 founded: 1999
 founders:
 - name: Shawn Fanning
@@ -21,6 +24,9 @@ investors:
   year: 2000
 - round: Co-Founder
   slug: sean-parker
+  year: 1999
+- round: Early
+  slug: ann-winblad
   year: 1999
 last_researched: 2026-03-24
 location: San Mateo, CA

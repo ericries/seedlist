@@ -49,6 +49,9 @@ firms:
 - round: Seed
   slug: uncork-capital
   year: 2018
+- round: Early
+  slug: edventure-holdings
+  year: 2009
 founded: 2006
 founders:
 - name: Kevin Hartz
@@ -87,6 +90,9 @@ investors:
   year: 2006
 - round: ~2009
   slug: david-sacks
+  year: 2009
+- round: Early
+  slug: esther-dyson
   year: 2009
 last_researched: 2026-03-20
 location: San Francisco, CA

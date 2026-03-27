@@ -33,6 +33,9 @@ firms:
 - round: Early
   slug: lightspeed-venture-partners
   year: 2013
+- round: Angel
+  slug: long-journey-ventures
+  year: 2013
 founded: 2012
 founders:
 - name: Max Levchin
@@ -79,6 +82,9 @@ investors:
   year: 2019
 - round: Early
   slug: jeremy-liew
+  year: 2013
+- round: Angel
+  slug: cyan-banister
   year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA

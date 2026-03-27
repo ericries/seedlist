@@ -45,6 +45,9 @@ firms:
 - round: ~2021
   slug: benchmark
   year: 2021
+- round: Early
+  slug: goat-capital
+  year: 2018
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -94,6 +97,9 @@ investors:
 - round: Angel
   slug: jack-altman
   year: 2024
+- round: Early
+  slug: justin-kan
+  year: 2018
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

@@ -45,6 +45,9 @@ firms:
 - round: Series C
   slug: refactor-capital
   year: 2016
+- round: Early
+  slug: edventure-holdings
+  year: 2015
 founded: 2014
 founders:
 - name: Vivek Garipalli
@@ -79,6 +82,9 @@ investors:
 - round: SPAC
   slug: chamath-palihapitiya
   year: 2020
+- round: Early
+  slug: esther-dyson
+  year: 2015
 last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health
