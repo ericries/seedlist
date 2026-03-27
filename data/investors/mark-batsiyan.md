@@ -1,6 +1,7 @@
 ---
 name: "Mark Batsiyan"
 slug: mark-batsiyan
+tldr: 'Co-founder and former COO of Inspired Capital investing in regulated industries and legacy system modernization. Portfolio strongly concentrated in fintech and insurtech (45% combined), reflecting his background building LearnVest and managing Northwestern Mutual Future Ventures.'
 type: individual
 firm: inspired-capital
 role: "Co-Founder & General Partner"

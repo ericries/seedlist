@@ -1195,7 +1195,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Val Vaden
   type: individual
@@ -1204,7 +1204,7 @@ queue:
   discovered_from: benchmark
   discovery_depth: 2
   priority: low
-  status: pending
+  status: completed
   added: 2026-03-14
 - name: Accel Partners
   type: firm
@@ -7163,7 +7163,7 @@ queue:
 - name: Eric Tarczynski
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Contrary
   discovered_from: kyle-harrison
@@ -7176,21 +7176,21 @@ queue:
 - name: Arjun Sethi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tribe Capital
   discovered_from: chamath-palihapitiya
 - name: Jason Calacanis
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Launch
   discovered_from: chamath-palihapitiya
 - name: David Friedberg
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: The Production Board
   discovered_from: chamath-palihapitiya
@@ -7203,7 +7203,7 @@ queue:
 - name: Andy McLoughlin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Uncork Capital
   discovered_from: jeff-clavier
@@ -7216,7 +7216,53 @@ queue:
 - name: Steve Harrick
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: IVP
   discovered_from: jules-maltz
+- name: Jonathan Hsu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tribe Capital
+  discovered_from: arjun-sethi
+- name: Ted Maidenberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tribe Capital
+  discovered_from: arjun-sethi
+- name: LAUNCH
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jason-calacanis
+- name: The Production Board
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-friedberg
+- name: Mark Cuban
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jason-calacanis
+- name: Jyoti Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Unusual Ventures
+  discovered_from: steve-harrick
+- name: Eric Liaw
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: IVP
+  discovered_from: steve-harrick

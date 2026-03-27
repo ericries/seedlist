@@ -36,6 +36,9 @@ firms:
 - round: Growth
   slug: khosla-ventures
   year: 2019
+- round: ~2024
+  slug: tribe-capital
+  year: 2024
 founded: 2015
 founders:
 - name: Sam Altman
@@ -98,6 +101,9 @@ investors:
 - round: Growth
   slug: vinod-khosla
   year: 2019
+- round: ~2024
+  slug: arjun-sethi
+  year: 2024
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: OpenAI

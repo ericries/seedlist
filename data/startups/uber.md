@@ -114,6 +114,9 @@ firms:
 - round: Growth
   slug: acme-capital
   year: 2013
+- round: Angel
+  slug: launch
+  year: 2009
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -199,6 +202,9 @@ investors:
 - round: Growth
   slug: scott-stanford
   year: 2013
+- round: Angel
+  slug: jason-calacanis
+  year: 2009
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

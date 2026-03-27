@@ -61,6 +61,9 @@ firms:
 - round: Series C (led, $42.75M)
   slug: social-capital
   year: 2014
+- round: ~2016
+  slug: tribe-capital
+  year: 2016
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -135,6 +138,9 @@ investors:
 - round: Series C (led, $42.75M)
   slug: chamath-palihapitiya
   year: 2014
+- round: ~2016
+  slug: arjun-sethi
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

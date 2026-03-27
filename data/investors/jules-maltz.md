@@ -1,6 +1,7 @@
 ---
 name: Jules Maltz
 slug: jules-maltz
+tldr: 'General Partner at IVP investing in growth-stage companies ($30M-$50M checks) with passionate founders solving important problems. Portfolio skews enterprise SaaS (32%) and fintech (18%); recognizes founder authenticity and mission-driven focus as key predictors of long-term success.'
 type: individual
 firm: ivp
 role: Venture Partner

@@ -1,6 +1,7 @@
 ---
 name: "Kyle Harrison"
 slug: kyle-harrison
+tldr: 'General Partner at Contrary building later-stage investment practice after 7 years at Index, Coatue, and TCV. Emphasizes talent identification as core to investing; portfolio tilts enterprise software (33%) and defense/hard tech (22%), reflecting genuine interest in nuclear energy and infrastructure.'
 type: individual
 firm: contrary-capital
 role: "General Partner"

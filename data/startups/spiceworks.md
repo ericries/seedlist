@@ -22,6 +22,9 @@ firms:
 - round: Seed
   slug: floodgate
   year: 2008
+- round: Series E
+  slug: ivp
+  year: 2014
 founded: 2006
 founders:
 - name: Scott Abel

@@ -1,6 +1,7 @@
 ---
 name: Chamath Palihapitiya
 slug: chamath-palihapitiya
+tldr: 'Founder of Social Capital and operator at Facebook scaling users from 50M to 700M. Evolved from enterprise software focus (Slack, Box) through SPAC era (Virgin Galactic, SoFi) to deep tech and AI infrastructure (Groq, Palmetto); now operates with concentrated, high-conviction personal capital.'
 type: individual
 firm: social-capital
 role: Founder & CEO

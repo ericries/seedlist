@@ -1,6 +1,7 @@
 ---
 name: Jeff Jordan
 slug: jeff-jordan
+tldr: 'Operating veteran from eBay, PayPal, and OpenTable now at Andreessen Horowitz (stepped back May 2023). Focuses on consumer marketplaces (60% of portfolio) driven by network effects; backed Airbnb, Pinterest, and Instacart by recognizing founder-market fit and supplier fragmentation patterns.'
 type: individual
 firm: andreessen-horowitz
 role: General Partner (stepped back from active investing May 2023)

@@ -1,6 +1,7 @@
 ---
 name: "Jeff Clavier"
 slug: jeff-clavier
+tldr: 'Founder of Uncork Capital, pioneering seed-stage VC in Silicon Valley since 2004. Invests $1M-$3M in "smartass teams building kickass products in big ass markets"; portfolio emphasizes B2B SaaS (40%) and developer tools (17%), with $59B in exit enterprise value across 100+ outcomes.'
 type: individual
 firm: uncork-capital
 role: "Founding Partner"

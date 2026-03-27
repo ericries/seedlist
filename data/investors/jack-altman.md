@@ -1,6 +1,7 @@
 ---
 name: "Jack Altman"
 slug: jack-altman
+tldr: 'Founder of Lattice and Alt Capital; now General Partner at Benchmark. Invests in durable software products where founders solve important problems; portfolio tilts enterprise SaaS (38%) and AI applications (19%), avoiding trendy hype in favor of 10-year product durability.'
 type: individual
 firm: benchmark
 role: "General Partner"

@@ -1,6 +1,7 @@
 ---
 name: "Lucy Deland"
 slug: lucy-deland
+tldr: 'Co-founder of Inspired Capital investing $1M-$15M at pre-seed through Series A. Portfolio heavily skews fintech (35%) and consumer products; backs founders obsessed with product design and solving real-world problems.'
 type: individual
 firm: inspired-capital
 role: "Co-Founder & General Partner"

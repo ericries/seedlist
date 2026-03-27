@@ -147,6 +147,9 @@ investors:
 - round: '2021'
   slug: kyle-harrison
   year: 2021
+- round: Series B
+  slug: eric-tarczynski
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

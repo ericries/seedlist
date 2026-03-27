@@ -61,6 +61,12 @@ team:
 - name: Rich Barton
   role: Venture Partner (2005-2018)
   slug: rich-barton
+- name: David Beirne
+  role: Former General Partner
+  slug: david-beirne
+- name: Val Vaden
+  role: Founding General Partner (1995-1996)
+  slug: val-vaden
 type: firm
 website: https://benchmark.com
 ---
