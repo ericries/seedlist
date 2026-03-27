@@ -572,6 +572,8 @@ def build_rounds_feed(startups):
             if not year:
                 continue
             year_str = str(year).lstrip("~")
+            # Use precise date from frontmatter if available
+            entry_date = str(entry.get("date", "")).strip() if entry.get("date") else ""
             # Skip non-fundraising rounds
             if is_skip_round(round_type):
                 continue
@@ -586,7 +588,7 @@ def build_rounds_feed(startups):
                 fm_rounds[key] = {
                     "company": name,
                     "company_slug": slug,
-                    "date": year_str,
+                    "date": entry_date if entry_date else year_str,
                     "round": round_clean,
                     "amount": "",
                     "lead": "",

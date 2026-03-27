@@ -465,19 +465,20 @@ pending_sources:
 
 ## Round Feed Research
 
-The Round Feed (`/rounds.html`) shows a reverse-chronological feed of startup funding rounds. Keeping it fresh is a maintenance task that runs every 3rd batch.
+The Round Feed (`/rounds.html`) shows a reverse-chronological feed of startup funding rounds. **The feed should always have at least one round from the most recent weekday.** This requires daily monitoring, not just batch-cycle maintenance.
 
-### Round Monitoring Agent
+### Daily Round Monitoring Agent
 
-The agent searches for recent funding round announcements and updates existing startup profiles (or creates new ones). **The goal is to keep the feed as current as possible using publicly available data.**
+**This agent should run at least once per day**, not just during batch cycles. It can run as a maintenance task, a `/loop` command, or be triggered manually. The goal: the feed never feels stale.
 
-#### Search strategy
+#### Primary data sources (check daily)
 
-Run these web searches:
-- `"raises" OR "funding round" OR "series" site:techcrunch.com` (last 7 days)
-- `"raises" OR "series a" OR "seed round" site:crunchbase.com/funding-round` (last 7 days)
-- `startup funding round announcement this week`
-- `"led by" "million" startup 2026` (adjust year)
+1. **Term Sheet newsletter** (Fortune) — `site:fortune.com "term sheet"` — daily VC deal roundup
+2. **Pro Rata newsletter** (Axios) — `site:axios.com "pro rata"` — daily funding news
+3. **TechCrunch** — `site:techcrunch.com "raises" OR "funding"` (last 24 hours)
+4. **Crunchbase News** — `site:news.crunchbase.com "funding"` (last 24 hours)
+5. **The Information** — `site:theinformation.com "raises"` (last 24 hours)
+6. General: `startup funding round announcement today {current_date}`
 
 #### What to capture for each round
 
@@ -485,24 +486,42 @@ For each funding round found:
 1. **Company name** and website
 2. **Round type** (Seed, Series A, Series B, etc.)
 3. **Amount raised**
-4. **Date** (as precise as possible: YYYY-MM-DD preferred, YYYY-MM acceptable)
+4. **Date — MUST be YYYY-MM-DD format.** Extract the specific announcement date from the article. Do NOT use month-only (YYYY-MM) for new rounds — the feed sorts by exact date. If the article says "announced Tuesday" or "this week", calculate the specific date.
 5. **Lead investor(s)**
 6. **Other participants**
 7. **Source URL** with title and access date
 
+#### Date precision requirements
+
+**All new rounds added to the feed MUST have YYYY-MM-DD dates.** This is critical for the feed to show daily activity.
+
+In the `## Funding History` table, use the full date:
+```
+| 2026-03-25 | Series A | $30M | Andreessen Horowitz | SV Angel, Y Combinator [^1] |
+```
+
+In the `investors:` and `firms:` frontmatter arrays, the `year` field can remain an integer (it's used for other purposes), but add a `date` field to the round entry when available:
+```yaml
+firms:
+  - slug: andreessen-horowitz
+    round: series-a
+    year: 2026
+    date: 2026-03-25
+```
+
 #### How to record a round
 
 **If the startup already has a profile** (`data/startups/{slug}.md`):
-1. Add the round to the `## Funding History` table
-2. Add any new investors to the `investors:` and `firms:` frontmatter arrays with the round and year
+1. Add the round to the `## Funding History` table with YYYY-MM-DD date
+2. Add any new investors to the `investors:` and `firms:` frontmatter arrays
 3. Update `stage_latest` and `total_raised` if applicable
 4. Cite the source
 
 **If the startup is new:**
-1. Create a minimal `data/startups/{slug}.md` with frontmatter (name, slug, sector, stage, investors, firms)
-2. Add `## Funding History` table with the new round
+1. Create a minimal `data/startups/{slug}.md` with frontmatter
+2. Add `## Funding History` table with the new round (YYYY-MM-DD date)
 3. Add `## Sources` with the announcement source
-4. Set `status: published` — round announcements are straightforward factual data
+4. Set `status: published`
 5. Add any new investors/firms to `queue.yaml`
 
 **Also update investor/firm profiles:**
@@ -515,14 +534,15 @@ For each funding round found:
 - Every round must have a citation to a press source or official announcement
 - Do NOT record rumored/unconfirmed rounds — wait for official announcements
 - If sources conflict on the amount, note the discrepancy
-- Round dates should come from the announcement, not from when you found it
+- Round dates should come from the announcement date, not from when you found it
+- **Always use YYYY-MM-DD for new rounds.** Month-only dates make the feed feel stale.
 
-#### Volume target
+#### Volume and freshness targets
 
-Each maintenance cycle: search for and record **5-15 new rounds**. Prioritize:
-1. Rounds involving investors already in our database (highest value for the feed)
-2. Large rounds ($10M+) in sectors we cover
-3. Rounds at startups already in our database
+- **Daily target**: 3-5 new rounds per day. More is fine if the news warrants it.
+- **Freshness rule**: The most recent round in the feed should never be more than 1 weekday old. If it is, immediately run a search for today's announcements.
+- **Prioritize**: (1) Rounds involving investors already in our database, (2) Large rounds ($10M+), (3) AI, fintech, and other hot sectors.
+- After adding rounds: rebuild site (`python3 build.py`), commit, and push so the feed updates immediately.
 
 ## Two-Pass Review Workflow
 
@@ -742,7 +762,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
    - `python3 scripts/cluster_investors.py` — recompute investor similarity clusters with any new profiles. Updates `data/clusters.json`.
    - `python3 scripts/process_issues.py` — process any pending GitHub Issues (source submissions, CSV candidates).
    - **Pathway enrichment**: For published profiles that lack a `## Connections` section, dispatch a research agent to find and add connection data. Target 5-10 profiles per maintenance cycle. Prioritize profiles with the most co-investment edges. **Board seats are the highest-priority connection type** — they enable cross-board matching (e.g., "Investor X sits on the board of Company Y alongside Person Z"). Search SEC DEF 14A filings, company websites, and press releases for current and former board memberships.
-   - **Round monitoring**: Dispatch a research agent to search for recent startup funding round announcements. See "Round Feed Research" section below.
+   - **Round monitoring** *(should also run daily, not just every 3rd batch)*: Dispatch a research agent to search for today's startup funding round announcements. See "Round Feed Research" section below. The feed should always have at least one round from the most recent weekday.
    - Commit and push if any of these produced changes.
 8. **One-line status, then immediately start next batch.**
 9. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
