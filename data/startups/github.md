@@ -51,6 +51,9 @@ investors:
 - round: Series B
   slug: tom-loverro
   year: 2015
+- round: '2015'
+  slug: eric-liaw
+  year: 2015
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: GitHub

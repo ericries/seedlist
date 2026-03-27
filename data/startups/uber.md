@@ -117,6 +117,9 @@ firms:
 - round: Angel
   slug: launch
   year: 2009
+- round: Seed
+  slug: founder-collective
+  year: 2010
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -205,6 +208,9 @@ investors:
 - round: Angel
   slug: jason-calacanis
   year: 2009
+- round: Seed
+  slug: david-frankel
+  year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

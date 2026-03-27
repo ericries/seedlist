@@ -69,6 +69,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2010
+- round: Early
+  slug: 500-global
+  year: 2011
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -157,6 +160,9 @@ investors:
 - round: Seed
   slug: david-lee
   year: 2010
+- round: Early
+  slug: dave-mcclure
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

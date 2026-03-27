@@ -30,6 +30,9 @@ firms:
 - round: Growth ($200M round)
   slug: greenoaks
   year: 2021
+- round: Seed
+  slug: 500-global
+  year: 2013
 founded: 2013
 founders:
 - name: Melanie Perkins
@@ -60,6 +63,9 @@ investors:
 - round: Growth
   slug: mood-rowghani
   year: 2019
+- round: Seed
+  slug: dave-mcclure
+  year: 2013
 last_researched: 2026-03-20
 location: Sydney, Australia
 name: Canva

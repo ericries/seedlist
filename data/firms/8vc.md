@@ -107,6 +107,7 @@ Based on 8VC's verified portfolio and public data:
 | Platform Science | Growth | ~2020 | Logistics Tech | Private [^5] |
 | Orca Bio | Early | ~2016 | Life Sciences | Private [^3] |
 | Qualia | Early | ~2017 | Fintech/Real Estate | Private [^3] |
+| Glimpse | Seed / Series A | 2025–2026 | Fintech / Retail Tech | Private [^9] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -130,3 +131,5 @@ No independently sourced founder testimonials found.
 [^6]: TechCrunch, "Joe Lonsdale's 8VC seeking $1B for new fund," January 29, 2025. https://techcrunch.com/2025/01/29/joe-lonsdales-8vc-seeking-1b-for-new-fund/
 [^7]: Tracxn, "8VC — 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/8vc/__jX52XKrW6-fzUc1B1XJh_cgzYnlJX8VCmVebOQRky6E
 [^8]: 8VC website, "The 8VC Build Program," accessed March 2026. https://8vc.com/build
+
+[^9]: "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z." TechCrunch, March 25, 2026. https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/

@@ -27,6 +27,9 @@ firms:
 - round: Angel
   slug: y-combinator
   year: 2014
+- round: Seed
+  slug: founder-collective
+  year: 2014
 founded: 2013
 founders:
 - name: Kyle Vogt
@@ -57,6 +60,9 @@ investors:
   year: 2014
 - round: Seed
   slug: jared-friedman
+  year: 2014
+- round: Seed
+  slug: david-frankel
   year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA

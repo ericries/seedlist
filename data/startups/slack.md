@@ -141,6 +141,9 @@ investors:
 - round: ~2016
   slug: arjun-sethi
   year: 2016
+- round: Late (pre-IPO)
+  slug: jonathan-hsu
+  year: 2019
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

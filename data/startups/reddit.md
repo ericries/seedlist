@@ -63,6 +63,9 @@ firms:
 - round: ~2007
   slug: standard-capital
   year: 2007
+- round: Early
+  slug: 500-global
+  year: 2015
 founded: 2005
 founders:
 - name: Steve Huffman
@@ -126,6 +129,9 @@ investors:
 - round: ~2023
   slug: bennett-siegel
   year: 2023
+- round: Early
+  slug: dave-mcclure
+  year: 2015
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

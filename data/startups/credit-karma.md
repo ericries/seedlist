@@ -40,6 +40,9 @@ firms:
 - round: ~2012
   slug: felicis
   year: 2012
+- round: Seed (led)
+  slug: 500-global
+  year: 2009
 founded: 2007
 founders:
 - name: Kenneth Lin
@@ -66,6 +69,9 @@ investors:
   year: 2014
 - round: Series A
   slug: frank-rotman
+  year: 2009
+- round: Seed (led)
+  slug: dave-mcclure
   year: 2009
 last_researched: 2026-03-20
 location: San Francisco, CA

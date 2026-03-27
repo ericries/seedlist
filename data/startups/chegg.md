@@ -45,6 +45,9 @@ firms:
 - round: Series A
   slug: first-round-capital
   year: 2010
+- round: Early Stage
+  slug: zeev-ventures
+  year: 2008
 founded: 2005
 founders:
 - name: Osman Rashid
@@ -63,6 +66,9 @@ investors:
 - round: ~2010
   slug: deven-parekh
   year: 2010
+- round: Early Stage
+  slug: oren-zeev
+  year: 2008
 last_researched: 2026-03-19
 location: Santa Clara, CA
 name: Chegg

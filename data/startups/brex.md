@@ -113,6 +113,9 @@ investors:
 - round: Angel
   slug: michael-seibel
   year: 2017
+- round: '2018'
+  slug: eric-liaw
+  year: 2018
 last_researched: 2026-03-22
 location: San Francisco, CA
 name: Brex

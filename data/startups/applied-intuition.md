@@ -33,6 +33,9 @@ firms:
 - round: Series D (co-led)
   slug: gil-capital
   year: 2021
+- round: Series F
+  slug: tribe-capital
+  year: 2025
 founded: 2017
 founders:
 - name: Qasar Younis
@@ -70,6 +73,9 @@ investors:
 - round: Series A (a16z, board seat)
   slug: marc-andreessen
   year: 2017
+- round: Series F
+  slug: jonathan-hsu
+  year: 2025
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition

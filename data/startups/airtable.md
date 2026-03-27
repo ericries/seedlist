@@ -33,6 +33,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2017
+- round: Series A
+  slug: founder-collective
+  year: 2016
 founded: 2012
 founders:
 - name: Howie Liu
@@ -78,6 +81,9 @@ investors:
 - round: Series E (led)
   slug: benny-peretz
   year: 2021
+- round: Series A
+  slug: david-frankel
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

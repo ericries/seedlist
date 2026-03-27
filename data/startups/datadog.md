@@ -25,6 +25,9 @@ investors:
 - round: Series D
   slug: tom-loverro
   year: 2018
+- round: '2018'
+  slug: eric-liaw
+  year: 2018
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

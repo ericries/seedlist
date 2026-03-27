@@ -45,6 +45,9 @@ firms:
 - round: Growth
   slug: acme-capital
   year: 2015
+- round: '2020'
+  slug: ivp
+  year: 2020
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -100,6 +103,9 @@ investors:
 - round: Series A
   slug: meyer-malka
   year: 2014
+- round: '2020'
+  slug: eric-liaw
+  year: 2020
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

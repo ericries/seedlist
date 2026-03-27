@@ -24,6 +24,9 @@ firms:
 - round: Advisor
   slug: greylock-partners
   year: 2011
+- round: Seed
+  slug: 500-global
+  year: 2009
 founded: 2012
 founders:
 - name: Logan Green
@@ -58,6 +61,9 @@ investors:
 - round: Advisor
   slug: simon-rothman
   year: 2011
+- round: Seed
+  slug: dave-mcclure
+  year: 2009
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft

@@ -248,8 +248,11 @@ The following table includes a16z investments verified through the firm's own po
 | Lio | Series A | 2026 | AI / Enterprise / Procurement | Private [^22] |
 | Smart Bricks | Pre-Seed | 2026 | Proptech / AI | Private [^23] |
 | Nexthop AI | Series B | 2026 | AI / Networking / Infrastructure | Private [^24] |
+| Glimpse | Series A | 2026 | Fintech / Retail Tech | Private [^25] |
+| Spade | Series B | 2026 | Fintech / Data Infrastructure | Private [^26] |
+| Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
 
-*Note: This table includes 66 companies out of 1,076+ total portfolio companies (~6%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 69 companies out of 1,076+ total portfolio companies (~6%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -356,3 +359,9 @@ The following table includes a16z investments verified through the firm's own po
 [^23]: "Smart Bricks Raises $5M Led by Andreessen Horowitz (a16z) to Build the AI Infrastructure Layer for Global Real Estate." PR Newswire, February 11, 2026. https://www.prnewswire.com/news-releases/smart-bricks-raises-5m-led-by-andreessen-horowitz-a16z-to-build-the-ai-infrastructure-layer-for-global-real-estate-302684737.html
 
 [^24]: "Nexthop AI Accelerates Into Hypergrowth With Oversubscribed $500M Series B Funding." BusinessWire, March 10, 2026. https://www.businesswire.com/news/home/20260310574112/en/Nexthop-AI-Accelerates-Into-Hypergrowth-With-Oversubscribed-$500M-Series-B-Funding-Catapulting-the-Companys-Valuation-to-$4.2-Billion
+
+[^25]: "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z." TechCrunch, March 25, 2026. https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/
+
+[^26]: "Spade Announces $40m Series B Raise to Build The Data and AI Platform for Modern Finance." BusinessWire, March 24, 2026. https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-$40m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance
+
+[^27]: "Airbase Emerges From Stealth With $5M to Automate Spectrum Allocation." Payload Space, March 25, 2026. https://payloadspace.com/airbase-emerges-from-stealth-with-5m-to-automate-spectrum-allocation/
