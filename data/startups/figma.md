@@ -48,6 +48,9 @@ firms:
 - round: ~2021
   slug: benchmark
   year: 2021
+- round: Fellowship/Angel
+  slug: 1517-fund
+  year: 2013
 founded: 2012
 founders:
 - name: Dylan Field
@@ -109,6 +112,9 @@ investors:
 - round: Angel
   slug: jack-altman
   year: 2024
+- round: Fellowship/Angel
+  slug: danielle-strachman
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

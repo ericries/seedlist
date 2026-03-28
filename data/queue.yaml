@@ -5020,7 +5020,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Leo Polovets
   type: individual
@@ -5044,7 +5044,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Saam Motamedi
   type: individual
@@ -5052,7 +5052,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Cyan Banister
   type: individual
@@ -5076,7 +5076,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Paige Craig
   type: individual
@@ -5092,7 +5092,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Renata Quintini
   type: individual
@@ -7467,14 +7467,14 @@ queue:
 - name: Shiyan Koh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hustle Fund
   discovered_from: elizabeth-yin
 - name: Ellen Pao
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: freada-kapor-klein
 - name: Scott Weiss
@@ -7530,7 +7530,7 @@ queue:
 - name: Kenneth Lerer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lerer Hippeau
   discovered_from: ben-lerer
@@ -7541,3 +7541,59 @@ queue:
   added: '2026-03-17'
   firm: Lerer Hippeau
   discovered_from: ben-lerer
+- name: Uncorrelated Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: salil-deshpande
+- name: 1517 Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: danielle-strachman
+- name: Upfront Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kara-nortman
+- name: Cake Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: monique-woodard
+- name: Michael Gibson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 1517 Fund
+  discovered_from: danielle-strachman
+- name: Mark Suster
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Upfront Ventures
+  discovered_from: kara-nortman
+- name: Abnormal AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saam-motamedi
+- name: Snorkel AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saam-motamedi
+- name: Redis
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: salil-deshpande

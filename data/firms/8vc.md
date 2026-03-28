@@ -108,6 +108,7 @@ Based on 8VC's verified portfolio and public data:
 | Orca Bio | Early | ~2016 | Life Sciences | Private [^3] |
 | Qualia | Early | ~2017 | Fintech/Real Estate | Private [^3] |
 | Glimpse | Seed / Series A | 2025–2026 | Fintech / Retail Tech | Private [^9] |
+| eMed | Series A | 2026 | Healthcare/AI Telehealth | Private [^10] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -133,3 +134,4 @@ No independently sourced founder testimonials found.
 [^8]: 8VC website, "The 8VC Build Program," accessed March 2026. https://8vc.com/build
 
 [^9]: "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z." TechCrunch, March 25, 2026. https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/
+[^10]: "eMed Announces $200M Series A Funding Round," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-series-a-2026.html

@@ -10,9 +10,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [defense, healthcare, logistics, enterprise, ai, fintech, life-sciences, infrastructure]
 check_size: "$500K-$10M"
 last_verified_investment:
-  date: 2025
-  company: "Various via 8VC"
-  round: "Multiple"
+  date: 2026-03-26
+  company: "eMed"
+  round: "Series A"
 social:
   twitter: "@JTLonsdale"
   linkedin: "linkedin.com/in/jtlonsdale"
@@ -87,8 +87,9 @@ Based on 8VC's publicly identified portfolio companies and Lonsdale's personal i
 | Epirus | ~2020 | Co-founded | Defense Tech | Active | [^2] |
 | Yugabyte | ~2020 | Investment | Database/Infrastructure | Active | [^1] |
 | Resilience Bio | ~2020 | Co-founded | Biotech/Manufacturing | Active | [^2] |
+| eMed | 2026 | Series A | Healthcare/AI Telehealth | Active | [^11] |
 
-*This table represents approximately 21 of Lonsdale's estimated 80+ combined personal angel and 8VC investments. Many entries use approximate years based on company founding dates or earliest known 8VC involvement, marked with ~.*
+*This table represents approximately 22 of Lonsdale's estimated 80+ combined personal angel and 8VC investments. Many entries use approximate years based on company founding dates or earliest known 8VC involvement, marked with ~.*
 
 ## In Their Own Words
 
@@ -124,3 +125,4 @@ One testimonial from an associate states: "Joe is the most creative and among th
 [^8]: "How Joe Lonsdale Built 6 Billion-Dollar Companies," Hampton, accessed March 2026. https://joinhampton.com/blog/how-joe-lonsdale-built-6-billion-dollar-companies
 [^9]: Joe Lonsdale Crunchbase Person Profile, accessed March 2026. https://www.crunchbase.com/person/joe-lonsdale-fe3e
 [^10]: "Anduril Industries," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Anduril_Industries
+[^11]: "eMed Announces $200M Series A Funding Round," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-series-a-2026.html

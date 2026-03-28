@@ -18,6 +18,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2010
+- round: VC (Kleiner Perkins)
+  slug: kapor-capital
+  year: 2010
 founded: 2010
 founders:
 - name: Mike McCue
@@ -36,6 +39,9 @@ investors:
   year: 2010
 - round: Seed
   slug: david-lee
+  year: 2010
+- round: VC (Kleiner Perkins)
+  slug: ellen-pao
   year: 2010
 last_researched: 2026-03-23
 location: Palo Alto, CA

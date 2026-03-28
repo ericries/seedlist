@@ -124,6 +124,9 @@ investors:
 - round: Angel
   slug: kevin-rose
   year: 2022
+- round: Growth
+  slug: saam-motamedi
+  year: 2023
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic
