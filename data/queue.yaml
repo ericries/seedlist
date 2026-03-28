@@ -4932,7 +4932,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Anish Acharya
   type: individual
@@ -4956,7 +4956,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Justin Kan
   type: individual
@@ -5012,7 +5012,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Kara Nortman
   type: individual
@@ -5084,7 +5084,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Danielle Strachman
   type: individual
@@ -7317,7 +7317,7 @@ queue:
 - name: Lee Jacobs
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Long Journey Ventures
   discovered_from: cyan-banister
@@ -7336,7 +7336,7 @@ queue:
 - name: Robin Chan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Goat Capital
   discovered_from: justin-kan
@@ -7480,7 +7480,7 @@ queue:
 - name: Scott Weiss
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: scott-banister
@@ -7502,3 +7502,42 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: maryanna-saenko
+- name: Lerer Hippeau
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-lerer
+- name: Outlander VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: paige-craig
+- name: GPx
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-singerman
+- name: Lee Linden
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: GPx
+  discovered_from: brian-singerman
+- name: Kenneth Lerer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lerer Hippeau
+  discovered_from: ben-lerer
+- name: Eric Hippeau
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lerer Hippeau
+  discovered_from: ben-lerer

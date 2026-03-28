@@ -86,6 +86,9 @@ investors:
 - round: Angel
   slug: cyan-banister
   year: 2013
+- round: Early
+  slug: brian-singerman
+  year: 2015
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

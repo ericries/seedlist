@@ -79,6 +79,9 @@ investors:
 - round: Series E
   slug: thomas-tull
   year: 2022
+- round: Seed
+  slug: brian-singerman
+  year: 2017
 last_researched: 2026-03-20
 location: Costa Mesa, CA
 name: Anduril Industries

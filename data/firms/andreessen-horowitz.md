@@ -87,6 +87,9 @@ team:
 - name: Jorge Conde
   role: General Partner
   slug: jorge-conde
+- name: Scott Weiss
+  role: General Partner (2011–2016); currently board-only
+  slug: scott-weiss
 type: firm
 website: https://a16z.com
 ---

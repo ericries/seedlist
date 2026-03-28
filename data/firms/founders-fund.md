@@ -64,6 +64,9 @@ team:
 - name: Ken Howery
   role: Co-Founder & Partner (2005-2019)
   slug: ken-howery
+- name: Brian Singerman
+  role: Partner Emeritus
+  slug: brian-singerman
 type: firm
 website: https://foundersfund.com
 ---

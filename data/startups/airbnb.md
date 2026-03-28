@@ -63,6 +63,9 @@ firms:
 - round: ~2013
   slug: elevation-partners
   year: 2013
+- round: Growth
+  slug: founders-fund
+  year: 2013
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -146,6 +149,9 @@ investors:
   year: 2011
 - round: ~2013
   slug: roger-mcnamee
+  year: 2013
+- round: Growth
+  slug: brian-singerman
   year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA

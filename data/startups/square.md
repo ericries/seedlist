@@ -36,6 +36,12 @@ firms:
 - round: Early
   slug: edventure-holdings
   year: 2009
+- round: Seed
+  slug: true-ventures
+  year: 2009
+- round: Angel
+  slug: goat-capital
+  year: 2009
 founded: 2009
 founders:
 - name: Jack Dorsey
@@ -84,6 +90,12 @@ investors:
   year: 2010
 - round: Early
   slug: esther-dyson
+  year: 2009
+- round: Seed
+  slug: kevin-rose
+  year: 2009
+- round: Angel
+  slug: robin-chan
   year: 2009
 last_researched: 2026-03-13
 location: San Francisco, California

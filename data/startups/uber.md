@@ -129,6 +129,9 @@ firms:
 - round: Angel
   slug: kapor-capital
   year: 2010
+- round: Series (via GV)
+  slug: true-ventures
+  year: 2013
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -231,6 +234,12 @@ investors:
   year: 2010
 - round: Seed
   slug: scott-banister
+  year: 2010
+- round: Series (via GV)
+  slug: kevin-rose
+  year: 2013
+- round: Seed
+  slug: lee-jacobs
   year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA

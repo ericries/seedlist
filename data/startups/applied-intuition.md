@@ -36,6 +36,9 @@ firms:
 - round: Series F
   slug: tribe-capital
   year: 2025
+- round: Early
+  slug: founders-fund
+  year: 2018
 founded: 2017
 founders:
 - name: Qasar Younis
@@ -76,6 +79,9 @@ investors:
 - round: Series F
   slug: jonathan-hsu
   year: 2025
+- round: Early
+  slug: brian-singerman
+  year: 2018
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition

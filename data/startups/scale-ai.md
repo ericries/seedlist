@@ -57,6 +57,9 @@ firms:
 - round: Series B
   slug: goat-capital
   year: 2019
+- round: Pre-Seed
+  slug: outlander-vc
+  year: 2016
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -115,6 +118,12 @@ investors:
 - round: Series B
   slug: justin-kan
   year: 2019
+- round: Early
+  slug: brian-singerman
+  year: 2018
+- round: Pre-Seed
+  slug: paige-craig
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Scale AI

@@ -1,20 +1,30 @@
 ---
-name: "Xona Space Systems"
-slug: xona-space-systems
-type: startup
-website: "https://xonaspace.com"
-location: "San Mateo, CA"
+firms:
+- round: Series A (lead)
+  slug: future-ventures
+  year: 2024
 founded: 2019
-status_company: active
+founders: []
+investors:
+- round: Series A (lead)
+  slug: maryanna-saenko
+  year: 2024
+- round: Early
+  slug: steve-jurvetson
+  year: 2024
+last_researched: 2026-03-27
+location: San Mateo, CA
+name: Xona Space Systems
 sector:
 - space
 - defense
-stage_latest: "Growth"
-total_raised: "$170M"
-firms: []
-founders: []
+slug: xona-space-systems
+stage_latest: Growth
 status: published
-last_researched: 2026-03-27
+status_company: active
+total_raised: $170M
+type: startup
+website: https://xonaspace.com
 ---
 
 ## About

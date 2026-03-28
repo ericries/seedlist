@@ -48,6 +48,9 @@ firms:
 - round: ~2023
   slug: benchmark
   year: 2023
+- round: Angel
+  slug: true-ventures
+  year: 2022
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -118,6 +121,9 @@ investors:
 - round: Series G ($30B, Co-Led)
   slug: thomas-laffont
   year: 2026
+- round: Angel
+  slug: kevin-rose
+  year: 2022
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

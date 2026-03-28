@@ -91,6 +91,9 @@ investors:
 - round: Seed
   slug: zal-bilimoria
   year: 2017
+- round: Early
+  slug: brian-singerman
+  year: 2019
 last_researched: 2026-03-19
 location: Houston, TX
 name: Solugen

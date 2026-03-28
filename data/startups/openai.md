@@ -39,6 +39,12 @@ firms:
 - round: ~2024
   slug: tribe-capital
   year: 2024
+- round: Early
+  slug: founders-fund
+  year: 2016
+- round: Angel
+  slug: true-ventures
+  year: 2021
 founded: 2015
 founders:
 - name: Sam Altman
@@ -104,6 +110,12 @@ investors:
 - round: ~2024
   slug: arjun-sethi
   year: 2024
+- round: Early
+  slug: brian-singerman
+  year: 2016
+- round: Angel
+  slug: kevin-rose
+  year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: OpenAI

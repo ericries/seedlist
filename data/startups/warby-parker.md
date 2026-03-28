@@ -92,6 +92,9 @@ investors:
 - round: ~2010
   slug: kirsten-green
   year: 2010
+- round: Seed
+  slug: ben-lerer
+  year: 2011
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker

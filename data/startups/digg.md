@@ -34,6 +34,9 @@ firms:
 - round: Seed
   slug: floodgate
   year: 2007
+- round: Co-acquired / Chairman
+  slug: true-ventures
+  year: 2025
 founded: 2004
 founders:
 - name: Kevin Rose
@@ -57,6 +60,9 @@ investors:
 - round: Seed
   slug: mike-maples
   year: 2007
+- round: Co-acquired / Chairman
+  slug: kevin-rose
+  year: 2025
 last_researched: 2026-03-24
 location: San Francisco, CA
 name: Digg

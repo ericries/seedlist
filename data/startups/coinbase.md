@@ -57,6 +57,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2012
+- round: Angel
+  slug: true-ventures
+  year: 2018
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -139,6 +142,9 @@ investors:
 - round: —
   slug: zal-bilimoria
   year: 2017
+- round: Angel
+  slug: kevin-rose
+  year: 2018
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

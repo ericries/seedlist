@@ -1,18 +1,4 @@
 ---
-name: "Shield AI"
-slug: shield-ai
-type: startup
-website: "https://shield.ai"
-location: "San Diego, CA"
-founded: 2015
-status_company: active
-sector:
-- defense
-- ai
-- robotics
-- autonomous-systems
-stage_latest: "Series G"
-total_raised: "$2.4B+"
 firms:
 - round: series-c
   slug: andreessen-horowitz
@@ -23,15 +9,66 @@ firms:
 - round: series-g
   slug: andreessen-horowitz
   year: 2026
+- round: Series E
+  slug: us-innovative-technology-fund
+  year: 2022
+- round: ~2018
+  slug: heavybit
+  year: 2018
+- round: Growth
+  slug: breyer-capital
+  year: 2020
+- round: ~2016
+  slug: homebrew
+  year: 2016
+- round: Seed
+  slug: founder-collective
+  year: 2016
+founded: 2015
 founders:
 - name: Ryan Tseng
-  role: "CEO & Co-Founder"
+  role: CEO & Co-Founder
 - name: Brandon Tseng
-  role: "President & Co-Founder"
+  role: President & Co-Founder
 - name: Andrew Reiter
-  role: "Co-Founder"
-status: published
+  role: Co-Founder
+investors:
+- round: Series E
+  slug: thomas-tull
+  year: 2022
+- round: ~2018
+  slug: jesse-robbins
+  year: 2018
+- round: Growth
+  slug: jim-breyer
+  year: 2020
+- round: ~2016
+  slug: satya-patel
+  year: 2016
+- round: Seed
+  slug: david-frankel
+  year: 2016
+- round: Seed
+  slug: hunter-walk
+  year: 2017
+- round: ~2022
+  slug: katherine-boyle
+  year: 2022
 last_researched: 2026-03-27
+location: San Diego, CA
+name: Shield AI
+sector:
+- defense
+- ai
+- robotics
+- autonomous-systems
+slug: shield-ai
+stage_latest: Series G
+status: published
+status_company: active
+total_raised: $2.4B+
+type: startup
+website: https://shield.ai
 ---
 
 ## About

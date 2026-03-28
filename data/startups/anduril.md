@@ -220,6 +220,9 @@ investors:
 - round: Early Stage
   slug: cyan-banister
   year: 2019
+- round: Seed
+  slug: brian-singerman
+  year: 2017
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

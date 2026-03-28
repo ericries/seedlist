@@ -52,6 +52,15 @@ firms:
 - round: Growth (sourcing)
   slug: ivp
   year: 2010
+- round: Angel
+  slug: outlander-vc
+  year: 2010
+- round: Seed
+  slug: true-ventures
+  year: 2007
+- round: Angel
+  slug: goat-capital
+  year: 2007
 founded: 2006
 founders:
 - name: Jack Dorsey
@@ -114,6 +123,15 @@ investors:
 - round: Growth (sourcing)
   slug: jules-maltz
   year: 2010
+- round: Angel
+  slug: paige-craig
+  year: 2010
+- round: Seed
+  slug: kevin-rose
+  year: 2007
+- round: Angel
+  slug: robin-chan
+  year: 2007
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Twitter

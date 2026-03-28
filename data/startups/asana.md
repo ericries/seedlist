@@ -49,6 +49,9 @@ investors:
 - round: Angel
   slug: mitch-kapor
   year: 2009
+- round: Growth
+  slug: brian-singerman
+  year: 2015
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Asana

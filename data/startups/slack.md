@@ -64,6 +64,9 @@ firms:
 - round: ~2016
   slug: tribe-capital
   year: 2016
+- round: Series (via GV)
+  slug: true-ventures
+  year: 2013
 founded: 2009
 founders:
 - name: Stewart Butterfield
@@ -144,6 +147,9 @@ investors:
 - round: Late (pre-IPO)
   slug: jonathan-hsu
   year: 2019
+- round: Series (via GV)
+  slug: kevin-rose
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

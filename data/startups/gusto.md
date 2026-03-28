@@ -102,6 +102,9 @@ firms:
 - round: Early
   slug: goat-capital
   year: 2017
+- round: Angel
+  slug: outlander-vc
+  year: 2012
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -207,6 +210,9 @@ investors:
 - round: Early
   slug: justin-kan
   year: 2017
+- round: Angel
+  slug: paige-craig
+  year: 2012
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto
