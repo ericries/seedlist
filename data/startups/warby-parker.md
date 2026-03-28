@@ -98,6 +98,9 @@ investors:
 - round: Seed
   slug: kenneth-lerer
   year: 2010
+- round: Seed
+  slug: eric-hippeau
+  year: 2012
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker

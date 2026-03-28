@@ -668,7 +668,10 @@ def build_rounds_feed(startups):
     # date precision. Keep the entry with more precise date, merge investors.
     dedup = {}
     for r in all_rounds:
-        norm_round = re.sub(r'[^a-z0-9 ]', ' ', r.get("round", "").lower()).strip()
+        # Normalize: strip punctuation, replace "plus" with "+", collapse whitespace
+        norm_round = r.get("round", "").lower()
+        norm_round = norm_round.replace("-plus-", " ").replace("plus", " ").replace("+", " ")
+        norm_round = re.sub(r'[^a-z0-9 ]', ' ', norm_round).strip()
         norm_round = re.sub(r'\s+', ' ', norm_round)
         dedup_key = (r["company_slug"], norm_round)
         if dedup_key in dedup:
@@ -705,6 +708,15 @@ def build_rounds_feed(startups):
 
     # Build final output (drop investors list of slugs for cleaner JSON,
     # or keep them for potential linking)
+    def clean_dash(val):
+        """Strip placeholder dashes from amount/lead fields."""
+        if not val:
+            return ""
+        stripped = val.strip()
+        if stripped in ("—", "–", "-", "N/A", "n/a", "Unknown", "unknown", "Undisclosed", "undisclosed"):
+            return ""
+        return stripped
+
     def prettify_round(name):
         """Clean up round names: 'series-a' -> 'Series A'."""
         if not name:
@@ -730,8 +742,8 @@ def build_rounds_feed(startups):
             "company_slug": r["company_slug"],
             "date": r["date"],
             "round": prettify_round(r["round"]),
-            "amount": r.get("amount", ""),
-            "lead": r.get("lead", ""),
+            "amount": clean_dash(r.get("amount", "")),
+            "lead": clean_dash(r.get("lead", "")),
             "investors": r.get("investors", []),
             "sector": r.get("sector", []),
             "sort_key": sort_key(r),

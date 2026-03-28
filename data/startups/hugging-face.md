@@ -24,6 +24,9 @@ firms:
 - round: Series A
   slug: independent
   year: 2019
+- round: Seed
+  slug: y-combinator
+  year: 2017
 founded: 2016
 founders:
 - name: Clément Delangue
@@ -54,6 +57,9 @@ investors:
 - round: Series C ($100M)
   slug: lee-fixel
   year: 2022
+- round: Seed
+  slug: geoff-ralston
+  year: 2017
 last_researched: 2026-03-23
 location: New York, NY
 name: Hugging Face

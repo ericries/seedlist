@@ -48,6 +48,9 @@ firms:
 - round: Series D
   slug: altimeter-capital
   year: 2021
+- round: Seed
+  slug: weekend-fund
+  year: 2018
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -94,6 +97,9 @@ investors:
 - round: Series D
   slug: jamin-ball
   year: 2021
+- round: Seed
+  slug: ryan-hoover
+  year: 2018
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

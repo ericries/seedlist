@@ -51,6 +51,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2019
+- round: Seed
+  slug: y-combinator
+  year: 2014
 founded: 2012
 founders:
 - name: Sajith Wickramasekara
@@ -93,6 +96,9 @@ investors:
 - round: Seed
   slug: balaji-srinivasan
   year: 2013
+- round: Seed
+  slug: geoff-ralston
+  year: 2014
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Benchling

@@ -4972,7 +4972,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Jeff Morris Jr
   type: individual
@@ -5004,7 +5004,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Ben Lerer
   type: individual
@@ -6292,7 +6292,7 @@ queue:
     ICQ'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Niklas Zennstrom
   type: individual
@@ -6360,7 +6360,7 @@ queue:
   source: 'Collection gap analysis: YC Network — former YC president, founded LaunchPad'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Aaron Harris
   type: individual
@@ -7523,7 +7523,7 @@ queue:
 - name: Lee Linden
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: GPx
   discovered_from: brian-singerman
@@ -7537,7 +7537,7 @@ queue:
 - name: Eric Hippeau
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lerer Hippeau
   discovered_from: ben-lerer
@@ -7568,14 +7568,14 @@ queue:
 - name: Michael Gibson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 1517 Fund
   discovered_from: danielle-strachman
 - name: Mark Suster
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Upfront Ventures
   discovered_from: kara-nortman
@@ -7597,3 +7597,45 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: salil-deshpande
+- name: Quiet Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lee-linden
+- name: Weekend Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hoover
+- name: 75 & Sunny
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spencer-rascoff
+- name: Troy Carter
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hoover
+- name: Ali Partovi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: geoff-ralston
+- name: Pitango Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yossi-vardi
+- name: Pacaso
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spencer-rascoff

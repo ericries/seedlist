@@ -87,6 +87,9 @@ team:
 - name: Jessica Livingston
   role: Co-Founder
   slug: jessica-livingston
+- name: Geoff Ralston
+  role: Former President & Partner
+  slug: geoff-ralston
 type: firm
 website: https://www.ycombinator.com
 ---

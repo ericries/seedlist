@@ -3,6 +3,9 @@ firms:
 - round: Series A (lead)
   slug: future-ventures
   year: 2024
+- round: Seed
+  slug: 1517-fund
+  year: 2020
 founded: 2019
 founders: []
 investors:
@@ -12,6 +15,9 @@ investors:
 - round: Early
   slug: steve-jurvetson
   year: 2024
+- round: Seed
+  slug: michael-gibson
+  year: 2020
 last_researched: 2026-03-27
 location: San Mateo, CA
 name: Xona Space Systems
