@@ -24,6 +24,7 @@ social:
   linkedin: "linkedin.com/in/annwinblad"
 status: published
 last_researched: 2026-03-27
+tldr: "Founder of Hummer Winblad Venture Partners, the first VC firm focused exclusively on enterprise software, with over 160 companies backed and 35+ years of investing experience. Winblad requires at least one technical co-founder in every investment and backs companies at the earliest institutional stage (Series A and beyond), leading to exits including MuleSoft (Salesforce, $6.5B), Omniture (Adobe, $1.8B), and Five9. Her portfolio is overwhelmingly B2B enterprise software; consumer plays are conspicuously absent."
 ---
 
 ## Background

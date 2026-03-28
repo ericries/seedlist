@@ -18,6 +18,7 @@ social:
   linkedin: "linkedin.com/in/mitchkapor"
 status: published
 last_researched: 2026-03-27
+tldr: "Lotus founder and pioneer of gap-closing impact investing through Kapor Capital, which invests exclusively at pre-seed and seed stage in founders from underrepresented communities building tech solutions in education, health, finance, and justice. Fund III achieved 46% female founders, 53% Black founders, and 100% underrepresented founder representation while delivering top-quartile returns. His thesis explicitly rejects pedigree in favor of distance traveled and real-world problem exposure."
 ---
 
 ## Background

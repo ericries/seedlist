@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/cyanb"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-Founder of Long Journey Ventures and former first woman partner at Founders Fund, investing $100K-$1M in magically weird founders at pre-seed and seed stage. Banister gravitates toward regulated, hard, or contrarian bets (Uber, SpaceX, Affirm, Anduril) where most investors see too much risk or resistance. Her non-traditional background (self-taught, no college degree) informs her bias toward founder-first investing and outsiders over pedigree."
 ---
 
 ## Background

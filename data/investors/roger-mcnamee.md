@@ -25,6 +25,7 @@ social:
   linkedin: linkedin.com/in/rogermcnamee
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Elevation Partners and Silver Lake Partners with four decades of late-stage venture and growth equity experience. McNamee has backed mega-rounds at the media-technology intersection (Facebook, Yelp, Airbnb, Uber) with very large concentrated bets ($25M-$325M checks) from a $1.9B fund. Post-Elevation, he pivoted to being a technology critic, advocating for antitrust action and warning of AI hype, reflecting a fundamental reassessment of Silicon Valley's direction."
 ---
 
 ## Background

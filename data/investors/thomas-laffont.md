@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/thomas-laffont-02430914"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-Founder and CIO of Privates at Coatue Management, overseeing approximately $30 billion in private market assets. Laffont leads mega-growth investments in AI and enterprise software (Anthropic Series G at $30B, Cursor at $2.3B) and brings hedge fund analytical rigor to venture investing, leveraging Coatue's data science infrastructure. He advocates aggressively for IPO exits to solve the industry's liquidity crisis."
 ---
 
 ## Background

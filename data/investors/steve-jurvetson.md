@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/stevejurvetson"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-Founder of Future Ventures and legendary DFJ investor with a 30+ year track record in deep-tech. Jurvetson has a unique concentration in Elon Musk companies (SpaceX, Tesla, Neuralink, xAI) and invests heavily in hardware and atoms-over-bits technologies: space, quantum computing, cultivated meat, fusion energy, and biotech. His patient capital model (15-year funds, never selling) enables longer development cycles, and he deliberately keeps Future Ventures to just two partners for better decision-making."
 ---
 
 ## Background

@@ -26,6 +26,7 @@ social:
   linkedin: linkedin.com/in/estherdyson
 status: published
 last_researched: 2026-03-27
+tldr: "Legendary angel investor and journalist with 30+ years of deal-making experience spanning Web 1.0, healthcare, space, and emerging markets. Dyson invests her own money ($10K-$500K checks) without a fund structure and takes board seats far more frequently than typical angels. Her portfolio has dramatically shifted over her career from consumer internet to healthcare, which now dominates 52% of her investments; she also has unusual strength in Russia, Africa, and South Asia."
 ---
 
 ## Background

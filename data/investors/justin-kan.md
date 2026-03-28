@@ -26,6 +26,7 @@ social:
   linkedin: "linkedin.com/in/justinkan"
 status: published
 last_researched: 2026-03-27
+tldr: "Twitch co-founder and Y Combinator alum who launched Goat Capital to invest $500K-$3M in seed-stage founders with strong technical skills and grit. Kan's portfolio skews toward fintech and developer tools but also includes biotech and climate; he gravitates toward repeat founders and outsiders solving problems they have personally experienced. At least 7 of his portfolio companies have reached unicorn status."
 ---
 
 ## Background
