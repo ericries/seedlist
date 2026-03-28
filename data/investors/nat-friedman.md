@@ -126,6 +126,7 @@ Based on analysis of 26 unique companies with verified investments in the table 
 | Recraft | 2025 | Series B ($30M) | [^30] |
 | NewLimit | 2025 | Series B ($130M, NFDG participated) | [^24] |
 | Granola | 2025 | Series B ($43M, led by NFDG) | [^31] |
+| Granola | 2026 | Series C ($125M, NFDG participated) | [^34] |
 | Pulse | 2025 | Early stage ($3.9M) | [^6] |
 | Sumble | 2025 | Series A ($38.5M) | [^23] |
 | Retool | ~2021 | Series C2 (co-invested with Sequoia, Collisons, Daniel Gross) | [^32] |
@@ -199,3 +200,4 @@ No other independently sourced founder testimonials found. Friedman is widely re
 [^31]: "AI notetaking app Granola raises $43M at $250M valuation," TechCrunch, May 2025, accessed March 2026. https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/
 [^32]: "Retool Raised $45 Million in Series C2," The SaaS News, accessed March 2026. https://www.thesaasnews.com/news/retool-raised-45-million-in-series-c2
 [^33]: "XBOW: Taking the Top Hacker in the US to New Heights: XBOW Raises $75M Series B," XBOW blog, accessed March 2026. https://xbow.com/blog/series-b
+[^34]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c

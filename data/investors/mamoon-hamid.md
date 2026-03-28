@@ -3,9 +3,9 @@ check_size: $1M-$100M
 firm: kleiner-perkins
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Figma
-  date: 2025
-  round: IPO
+  company: Granola
+  date: 2026-03-25
+  round: Series C
 location: San Francisco, CA
 name: Mamoon Hamid
 role: Partner
@@ -150,6 +150,8 @@ This table includes 57 verified investments (41 active + 16 alumni) from Kleiner
 ~unknown| Castlight Health | — | — | Healthcare | Public (delisted) | [^1] |
 ~unknown| Loom | — | — | Productivity | Acquired (Atlassian) | [^1] |
 
+| Granola | Series C | 2026 | AI/Enterprise | Active | [^10] |
+
 *Note: Many investment dates could not be independently verified. Pre-Kleiner investments at Social Capital and USVP are noted.*
 
 ## In Their Own Words
@@ -177,3 +179,4 @@ Dylan Field, co-founder and CEO of Figma, has said of Hamid: "He understood our 
 [^7]: TechCrunch, "Mamoon Hamid and Ilya Fushman of Kleiner Perkins: 'More than 80%' of pitches now involve AI," February 3, 2024, accessed March 2026. https://techcrunch.com/2024/02/03/mamoon-hamid-and-ilya-fushman-of-kleiner-perkins-more-than-80-of-pitches-now-involve-ai/
 [^8]: Signal by NFX, "Mamoon Hamid's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/mamoon-hamid
 [^9]: PR Newswire, "Modern Health Raises a $9M Series A Round Led by Kleiner Perkins," May 23, 2019, accessed March 2026. https://www.prnewswire.com/news-releases/modern-health-raises-a-9m-series-a-round-led-by-kleiner-perkins-300855797.html
+[^10]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c

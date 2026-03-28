@@ -3,8 +3,8 @@ check_size: $1M-$50M
 firm: index-ventures
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Linktree
-  date: 2022-03-01
+  company: Granola
+  date: 2026-03-25
   round: Series C
 location: London, United Kingdom
 name: Danny Rimer
@@ -110,6 +110,7 @@ Sample note: 24 verified investments represents a partial view; Rimer has been i
 | Linktree | 2022 | Series C | [^23] |
 | Net-A-Porter | ~2004 | Growth | [^2] |
 | Notion | ~2019 | Series A | [^2] |
+| Granola | 2026 | Series C (led, $125M) | [^28] |
 
 ## In Their Own Words
 
@@ -220,3 +221,4 @@ No additional independently sourced founder testimonials beyond the Index Ventur
 [^26]: Index Ventures, "High fashion and tech turned Farfetch into a luxury powerhouse," accessed March 2026. https://www.indexventures.com/perspectives/high-fashion-and-tech-turned-farfetch-into-a-luxury-powerhouse/
 
 [^27]: Index Ventures, "Glossier" portfolio page, accessed March 2026. https://www.indexventures.com/companies/glossier/
+[^28]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c

@@ -140,6 +140,8 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Personio | Early | 2018 | HR/Enterprise | [^7] |
 | Trainline | Growth | 2014 | Travel | [^7] |
 
+| Granola | Series C (led) | 2026 | AI/Enterprise | [^14] |
+
 This table represents a subset of Index Ventures' portfolio.
 
 ## In Their Own Words
@@ -173,3 +175,4 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^11]: InforCapital, "Index Ventures' Remarkable Exit Streak – A Year of Big Wins," accessed March 2026. https://inforcapital.com/news/index-ventures-remarkable-exit-streak-a-year-of-big-wins/
 [^12]: Index Ventures, "Shardul Shah," accessed March 2026. https://www.indexventures.com/team/shardul-shah/
 [^13]: Index Ventures, "The Index Ventures experience," accessed March 2026. https://www.indexventures.com/rewarding-talent/the-index-ventures-experience
+[^14]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c

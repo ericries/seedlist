@@ -185,6 +185,7 @@ The following table includes Coatue investments verified through the firm's port
 | Commerce Layer | Series B (Led) | ~2022 | E-Commerce / API | Private [^37] |
 | Step | Series B (Led) | 2020 | Fintech / Teen Banking | Private [^38] |
 | Spotify | Growth (Public) | ~2018 | Consumer / Music | Public [^5] |
+| Silverflow | Series B | 2026 | Fintech / Payments | Private [^40] |
 
 *Note: This table includes 36 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
 
@@ -306,3 +307,4 @@ No independently sourced negative or critical founder testimonials were found in
 [^38]: "U.S. Financial Services Startup Step Secures $50 Million Through Series B Investment Round Led By Coatue." Crowdfund Insider, December 2020. https://www.crowdfundinsider.com/2020/12/169786-u-s-financial-services-startup-step-secures-50-million-through-series-b-investment-round-led-by-coatue/
 
 [^39]: "Philippe Laffont (@plaffont)." X/Twitter. https://x.com/plaffont. Accessed March 2026.
+[^40]: PYMNTS, "Silverflow Raises $40M Series B," March 2026, accessed March 2026. https://www.pymnts.com/news/investment-tracker/2026/silverflow-raises-40m-series-b/
