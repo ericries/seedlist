@@ -41,7 +41,7 @@ Xona Space Systems is building a next-generation satellite navigation system des
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2026-03-27 | Growth | $170M | — | — [^1] |
+| 2026-03-27 | Growth | $170M | | [^1] |
 
 Total raised: $170M [^1].
 

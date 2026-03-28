@@ -713,9 +713,13 @@ def build_rounds_feed(startups):
         if not val:
             return ""
         stripped = val.strip()
-        if stripped in ("—", "–", "-", "N/A", "n/a", "Unknown", "unknown", "Undisclosed", "undisclosed"):
+        # Remove em-dashes, en-dashes, hyphens used as placeholders
+        # Also handle "—, —" or "—" patterns
+        cleaned = re.sub(r'[—–\-]\s*,?\s*[—–\-]?', '', stripped).strip()
+        cleaned = cleaned.strip(', ')
+        if not cleaned or cleaned.lower() in ("n/a", "unknown", "undisclosed", "—", "–", "-"):
             return ""
-        return stripped
+        return cleaned
 
     def prettify_round(name):
         """Clean up round names: 'series-a' -> 'Series A'."""

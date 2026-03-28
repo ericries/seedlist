@@ -23,7 +23,7 @@ Normal Computing is an AI-driven chip design company [^1].
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-03-26 | Funding Round | $50M | — | — [^1] |
+| 2026-03-26 | Funding Round | $50M | | [^1] |
 
 ## What Investors Say
 
