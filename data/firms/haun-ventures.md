@@ -110,7 +110,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | The Clearing Company | Early | ~2024 | Compliance | Active | [^9] |
 | thirdweb | Early | ~2022 | Web3 dev tools | Active | [^3][^9] |
 | Witness | Early | ~2024 | Media/Web3 | Active | [^9] |
-| XFX | Early | ~2025 | Payments | Active | [^9] |
+| XFX | Series A | 2026 | Stablecoins/Payments | Active | [^9][^11] |
 | Zora | Early | ~2022 | NFT creation | Active | [^3][^9] |
 
 Note: Investment years are approximate. The firm notes that some investments are excluded from public disclosure per issuer requests [^9]. This table represents 34 publicly disclosed portfolio companies.
@@ -141,3 +141,4 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^8]: Lessons from Katie Haun, Antoine Buteau blog, accessed March 2026. https://www.antoinebuteau.com/lessons-from-katie-haun/
 [^9]: Haun Ventures website, "Portfolio," accessed March 2026. https://www.haun.co/portfolio
 [^10]: CoinDesk, "Katie Haun's VC Firm Leads $11M Round for Web 3 Community Platform Highlight," May 10, 2022. https://www.coindesk.com/business/2022/05/10/katie-hauns-firm-leads-11m-round-for-web-3-community-platform-highlight
+[^11]: Fortune, "XFX raises $17M Series A," March 26, 2026. https://fortune.com/

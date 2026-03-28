@@ -48,6 +48,9 @@ firms:
 - round: '2009'
   slug: elevation-partners
   year: 2009
+- round: Angel
+  slug: long-journey-ventures
+  year: 2008
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -118,6 +121,9 @@ investors:
 - round: '2009'
   slug: roger-mcnamee
   year: 2009
+- round: Angel
+  slug: scott-banister
+  year: 2008
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

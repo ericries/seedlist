@@ -66,6 +66,9 @@ investors:
 - round: Seed
   slug: dave-mcclure
   year: 2013
+- round: Seed
+  slug: christine-tsai
+  year: 2012
 last_researched: 2026-03-20
 location: Sydney, Australia
 name: Canva

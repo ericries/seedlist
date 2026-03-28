@@ -229,6 +229,9 @@ investors:
 - round: Angel
   slug: mitch-kapor
   year: 2010
+- round: Seed
+  slug: scott-banister
+  year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

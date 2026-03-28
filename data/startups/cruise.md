@@ -33,6 +33,9 @@ firms:
 - round: Seed
   slug: goat-capital
   year: 2014
+- round: Pre-seed
+  slug: independent
+  year: 2014
 founded: 2013
 founders:
 - name: Kyle Vogt
@@ -69,6 +72,9 @@ investors:
   year: 2014
 - round: Seed
   slug: justin-kan
+  year: 2014
+- round: Pre-seed
+  slug: emmett-shear
   year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA

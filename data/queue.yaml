@@ -7304,7 +7304,7 @@ queue:
 - name: Maryanna Saenko
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Future Ventures
   discovered_from: steve-jurvetson
@@ -7324,7 +7324,7 @@ queue:
 - name: Scott Banister
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: cyan-banister
 - name: Goat Capital
@@ -7343,13 +7343,13 @@ queue:
 - name: Emmett Shear
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: justin-kan
 - name: Kyle Vogt
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: justin-kan
 - name: Kapor Capital
@@ -7361,7 +7361,7 @@ queue:
 - name: Freada Kapor Klein
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kapor Capital
   discovered_from: mitch-kapor
@@ -7374,7 +7374,7 @@ queue:
 - name: John Hummer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hummer Winblad Venture Partners
   discovered_from: ann-winblad
@@ -7441,14 +7441,14 @@ queue:
 - name: Elizabeth Yin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hustle Fund
   discovered_from: dave-mcclure
 - name: Christine Tsai
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 500 Global
   discovered_from: dave-mcclure
@@ -7458,3 +7458,47 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: dave-mcclure
+- name: Hustle Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elizabeth-yin
+- name: Shiyan Koh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hustle Fund
+  discovered_from: elizabeth-yin
+- name: Ellen Pao
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freada-kapor-klein
+- name: Scott Weiss
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: scott-banister
+- name: Clipboard Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emmett-shear
+- name: Gameto
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: maryanna-saenko
+- name: Realta Fusion
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: maryanna-saenko

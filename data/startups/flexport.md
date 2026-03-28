@@ -161,6 +161,9 @@ investors:
 - round: Angel
   slug: cyan-banister
   year: 2014
+- round: Angel
+  slug: scott-banister
+  year: 2016
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Flexport

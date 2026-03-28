@@ -73,6 +73,9 @@ investors:
 - round: Seed (led)
   slug: dave-mcclure
   year: 2009
+- round: Seed
+  slug: christine-tsai
+  year: 2012
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Credit Karma

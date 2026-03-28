@@ -28,6 +28,9 @@ investors:
 - round: Early
   slug: ann-winblad
   year: 1999
+- round: Early
+  slug: john-hummer
+  year: 1999
 last_researched: 2026-03-24
 location: San Mateo, CA
 name: Napster
