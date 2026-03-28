@@ -75,10 +75,11 @@
     <div class="team-grid">
       {% for member in profile.team %}
       <div class="team-card">
+        {% set display_name = member.name or (investor_lookup[member.slug].name if member.slug in investor_lookup else member.slug | replace('-', ' ') | title) %}
         {% if member.slug in investor_lookup %}
-          <a href="/investors/{{ member.slug }}.html" class="team-name">{{ member.name }}</a>
+          <a href="/investors/{{ member.slug }}.html" class="team-name">{{ display_name }}</a>
         {% else %}
-          <span class="team-name">{{ member.name }}</span>
+          <span class="team-name">{{ display_name }}</span>
         {% endif %}
         {% if member.role %}
           <span class="team-role">{{ member.role }}</span>
