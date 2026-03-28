@@ -24,6 +24,7 @@ stage_focus:
 - series-c
 status: published
 type: individual
+tldr: "Former a16z General Partner (2011-2016) and co-founder of IronPort (acquired by Cisco for $830M). Specialized in enterprise series A and security investments; took board seats at nearly every company he backed. Pioneered 360-degree feedback at a16z and advocates for board members who respond within hours and contribute operationally beyond introductions."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/dr-freada-kapor-klein-487a719"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Kapor Capital, a $224M gap-closing impact fund that has generated top-quartile returns (29% IRR) while backing founders from underrepresented backgrounds. Her background in sexual harassment research and workplace equity directly shapes the firm's unique Founders' Commitment requirements and founder evaluation framework emphasizing 'distance traveled' over pedigree."
 ---
 
 ## Background

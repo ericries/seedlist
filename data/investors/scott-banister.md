@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/banister"
 status: published
 last_researched: 2026-03-27
+tldr: "PayPal founding board member and co-founder of IronPort (acquired by Cisco for $830M). One of the most prolific angel investors with 150+ portfolio companies. Invests predominantly in AI, fintech, and infrastructure; shows a pattern of backing technical founders and infrastructure plays despite his stated founder-first philosophy."
 ---
 
 ## Background

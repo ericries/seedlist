@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/lee-jacobs"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder and Managing Partner of Long Journey Ventures, backing 'magically weird' founders with independently derived insights at $100K-$1M checks. Portfolio shows surprising tilt toward hard tech (energy, aerospace, defense) beyond stated generalist positioning. His contrarian founder thesis and first-advisor relationships (Crusoe Energy from initial concept) align with the firm's 'second believer' positioning."
 ---
 
 ## Background

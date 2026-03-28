@@ -16,6 +16,7 @@ social:
   linkedin: "linkedin.com/in/john-hummer-4486a821"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Hummer Winblad Venture Partners, the first VC firm to invest exclusively in software (founded 1989). Transitioned to Founding Partner in 2015; his software-only discipline across seven funds generated major exits (Wind River acquired by Intel for $884M, Powersoft for $940M). Notable for maintaining technical focus despite consumer software exceptions."
 ---
 
 ## Background

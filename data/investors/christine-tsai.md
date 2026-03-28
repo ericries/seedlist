@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/christinesltsai"
 status: published
 last_researched: 2026-03-27
+tldr: "CEO of 500 Global (formerly 500 Startups), managing $2.3B across 2,900+ portfolio companies in 80+ countries. Pioneered the spray-and-pray seed model and expanded globally when Silicon Valley consensus said emerging markets were risky. Her portfolio includes 40+ unicorns spanning unrelated sectors (Canva, Grab, GitLab, Talkdesk), validating her diversified thesis over sector expertise."
 ---
 
 ## Background

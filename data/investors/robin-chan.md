@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/robinchan"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Goat Capital (with Justin Kan), a hands-on seed fund at $50K-$3M checks. His portfolio skews 32% toward gaming and marketplaces despite stated focus on robotics and climate. Acts as a bridge between US and China tech ecosystems; invests in founders with global ambition and supply-chain expertise, particularly for Asia market entry."
 ---
 
 ## Background

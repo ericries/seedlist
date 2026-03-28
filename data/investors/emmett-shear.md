@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/emmettshear"
 status: published
 last_researched: 2026-03-27
+tldr: "Twitch co-founder and Y Combinator Visiting Group Partner with 18 verified seed investments. Invests primarily in gaming, marketplaces, and consumer platforms with a strong bias toward YC-network deals and co-founder collaborations. His portfolio shows two unicorn exits (Cruise, Clipboard Health) despite the absence of independent founder testimonials."
 ---
 
 ## Background

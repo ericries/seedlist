@@ -22,6 +22,7 @@ social:
   linkedin: "linkedin.com/in/elizabethyin"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Hustle Fund, the most prolific pre-seed investor with 375+ portfolio companies at checks of $25K-$150K. Invests primarily in B2B software and SaaS (58% of portfolio). Her stated focus on speed and scrappiness is validated by the firm's 24-48 hour decision timeline and evaluation framework that deprioritizes product maturity in favor of founder execution."
 ---
 
 ## Background

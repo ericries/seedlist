@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kylevogt"
 status: published
 last_researched: 2026-03-27
+tldr: "Cruise founder (acquired by GM for $1B+) and CEO of The Bot Company ($2B valuation). Invests in robotics (35%), food tech, and AI infrastructure via angel checks of $10K-$500K. His portfolio reveals preference for technical founders from his operating network over pure hardware play, despite his vegan mafia board seats."
 ---
 
 ## Background

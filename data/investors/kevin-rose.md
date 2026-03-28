@@ -25,6 +25,7 @@ stage_focus:
 - series-a
 status: published
 type: individual
+tldr: "Digg founder, Google Ventures partner (2012-2015), and now Partner at True Ventures. Invests in 28+ verified companies at seed/angel stage, primarily consumer internet and health/wellness with 36% of portfolio in consumer-facing products. His product-obsessed philosophy centers on backing founders building products he personally uses and loves; validates theses through founder network and co-founder collaborations."
 ---
 
 ## Background

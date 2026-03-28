@@ -27,6 +27,7 @@ stage_focus:
 - growth
 status: published
 type: individual
+tldr: "Founders Fund Partner Emeritus (2008-2024) and co-founder of $500M fund GPx with Peter Thiel. Invests in frontier tech with concentration in biotech (27%) and defense (23%) — sectors most VCs avoid. His sector-agnostic claim understates revealed preference for regulated, capital-intensive domains requiring deep technical expertise; portfolio includes Anduril, Stemcentrx, and SpaceX."
 ---
 
 ## Background

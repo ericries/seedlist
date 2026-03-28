@@ -26,6 +26,7 @@ stage_focus:
 - seed
 status: published
 type: individual
+tldr: "Founder and Managing Partner of Outlander VC; grew up in poverty and served in US Marines before founding Lincoln Group (strategic communications, $300M revenue) and then becoming a prolific angel investor with 200+ deals. Uses proprietary 38-point Founder Framework emphasizing character and early agency. Portfolio dominated by marketplaces (32%) despite stated deep-tech focus; claims 10% unicorn hit rate."
 ---
 
 ## Background

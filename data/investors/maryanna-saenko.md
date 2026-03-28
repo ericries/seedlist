@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/maryannasaenko"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder of Future Ventures, a $925M frontier tech fund. Invests heavily in biotech (30%) and deep tech including fusion energy, robotics, and AI infrastructure. Her background in aerospace and materials science shapes her focus on technically credentialed founders building world-changing technology, with a distinctive portfolio tilted toward health applications affecting women."
 ---
 
 ## Background

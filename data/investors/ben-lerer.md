@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/benlerer"
 status: published
 last_researched: 2026-03-27
+tldr: "Co-founder and Managing Partner of Lerer Hippeau, managing $1.4B across 400+ portfolio companies. Built the firm while operating Thrillist (acquired as part of Group Nine); self-describes as 'operator who can invest.' Portfolio has shifted from consumer DTC (Warby Parker, Casper, Glossier) to enterprise and AI; produced 12 unicorns, 12 IPOs, and 159 exits."
 ---
 
 ## Background
