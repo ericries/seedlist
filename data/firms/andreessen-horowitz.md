@@ -218,7 +218,7 @@ The following table includes a16z investments verified through the firm's own po
 | ElevenLabs | Growth | 2024 | AI / Voice | Private [^10] |
 | Safe Superintelligence (SSI) | Seed | 2024 | AI | Private [^10] |
 | Substack | Growth | 2025 | Creator Economy | Private [^10] |
-| Shield AI | Growth | 2023 | Defense / Drones | Private [^10] |
+| Shield AI | Series G | 2026 | Defense / Drones | Private [^10] |
 | Hadrian | Growth | 2023 | Manufacturing | Private [^10] |
 | Flock Safety | Growth | 2022 | Public Safety | Private [^10] |
 | Abridge | Series B | 2023 | AI / Health | Private [^10] |
