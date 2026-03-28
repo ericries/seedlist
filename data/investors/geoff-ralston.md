@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/geoffralston"
 status: published
 last_researched: 2026-03-28
+tldr: 'Former President of Y Combinator (2019-2023), founder of Imagine K12 accelerator (merged with YC 2016), and architect of the Safe AI Fund (SAIF, 2025). Invested early in edtech (ClassDojo, Remind, Panorama), AI (Nervana, Hugging Face), and enterprise tools. Prioritizes founder quality over ideas; portfolio spans 100+ investments with Nervana (acquired by Intel) among early wins. Recent pivot to AI safety and responsible deployment.'
 ---
 
 ## Background

@@ -18,6 +18,7 @@ social:
   linkedin: "linkedin.com/in/ekpao"
 status: published
 last_researched: 2026-03-28
+tldr: 'Diversity advocate and co-founder of Project Include, formerly a Venture Partner at Kapor Capital. Angel investor in seed-stage companies, primarily focused on founders and companies addressing underserved populations. Known for publicly tracking diversity metrics in her portfolio with 23% women of color among founders invested.'
 ---
 
 ## Background

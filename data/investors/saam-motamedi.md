@@ -25,6 +25,7 @@ social:
   twitter: "@saammotamedi"
 status: published
 type: individual
+tldr: 'General Partner at Greylock Partners and Greylock''s youngest-ever GP at 26 (2019). Focuses on AI infrastructure, cybersecurity, and enterprise SaaS with deep technical founder preference. Portfolio includes Lambda, Snorkel AI, Abnormal AI, and Resolve AI; known for incubating companies within Greylock''s offices and writing outcome-based pricing check into portfolio DNA.'
 ---
 
 ## Background

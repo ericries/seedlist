@@ -18,6 +18,7 @@ social:
   linkedin: "linkedin.com/in/ryanrhoover"
 status: published
 last_researched: 2026-03-28
+tldr: 'Founder of Product Hunt (acquired by AngelList) and Managing Partner of Weekend Fund ($21M Fund III). Invests in pre-seed/seed founders building "on nights and weekends" with conviction. Non-lead check writer ($100K-$300K) with 350+ LP network of operators from Stripe, Figma, Airbnb. Portfolio includes 5 unicorns (Deel, Pipe, MoonPay, Intercom, HeadSpin) and 11+ acquisitions (Diagram to Figma, Alter to Google). Global but founder-friendly approach.'
 ---
 
 ## Background

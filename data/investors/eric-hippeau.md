@@ -27,6 +27,7 @@ social:
   linkedin: "linkedin.com/in/erichippeau"
 status: published
 last_researched: 2026-03-28
+tldr: 'Managing Partner and co-founder of Lerer Hippeau, NYC''s largest seed-stage venture firm ($1.4B+ AUM). Former CEO of The Huffington Post and Ziff-Davis; founded ZDTV. Invests 51% at seed stage with $1.5M sweet spot across consumer (56%), enterprise (45%), and software. Portfolio includes 12 unicorns and 159 acquisitions (Warby Parker, BuzzFeed, Giphy/Facebook, GoodRx, Glossier, Allbirds IPOs). Focus on finding founders before fame with grit for lasting businesses.'
 ---
 
 ## Background

@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/marksuster"
 status: published
 last_researched: 2026-03-28
+tldr: 'Managing Partner of Upfront Ventures in Los Angeles. Two-time founder (BuildOnline, Koral) and former VP of Product at Salesforce. Invests 70% on founder quality, 30% on market; philosophy is to back operators with grit and coachability. Portfolio spans consumer (Ring acquired by Amazon, Bird IPO), media (BuzzFeed, Maker Studios), and D2C brands (Warby Parker, Allbirds, Casper, Glossier). Strong LA ecosystem champion.'
 ---
 
 ## Background

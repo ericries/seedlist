@@ -18,6 +18,7 @@ social:
   linkedin: "linkedin.com/in/shiyankoh"
 status: published
 last_researched: 2026-03-28
+tldr: 'Singapore-based co-founder of Hustle Fund who invests in pre-seed software startups across Asia. Backs founders with high execution velocity and "hilariously early" conviction, with strong focus on Southeast Asia''s emerging fintech and B2B markets. Notable for her work building the region''s tech ecosystem and hosting a weekly podcast on SEA startups.'
 ---
 
 ## Background

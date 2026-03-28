@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/salil"
 status: published
 last_researched: 2026-03-28
+tldr: 'Solo GP founder of Uncorrelated Ventures ($750M AUM, second-largest solo GP in the world) operating with zero employees. Invests in infrastructure software, developer tools, and DeFi at seed and Series A. Known for high-volume, multi-round investing approach (4x more deals than traditional GPs) and advocacy against cloud providers exploiting open-source software. Portfolio includes Redis, PostHog, and Compound Finance.'
 ---
 
 ## Background

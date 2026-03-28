@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/yossivardi"
 status: published
 last_researched: 2026-03-28
+tldr: 'Called "godfather of Israeli high tech," Vardi has invested in 85+ startups over 47 years as founder, operator, and angel. Famous for $75K investment in Mirabilis/ICQ (sold to AOL for $407M in 1998). Backs people over ideas; prioritizes founder talent, niceness, and frugality. Portfolio spans internet (37%), software (22%), and cleantech (15%), overwhelmingly Israeli. Awarded Israeli Presidential Medal of Honour in 2025 for contributions to innovation ecosystem.'
 ---
 
 ## Background

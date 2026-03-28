@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/spencerrascoff"
 status: published
 last_researched: 2026-03-28
+tldr: 'Co-founder of 75 & Sunny and recent CEO of Match Group (Feb 2025). Former Zillow CEO who led IPO and $2.5B Trulia acquisition. Invests across proptech (36% of portfolio), consumer, SaaS, and deep tech; heavily LA-based. Co-founds incubated companies (Pacaso, Queue, Recon Food, heyLibby) with 10-20% ownership for $250K-$1M checks. Thesis: democratizing access to traditionally exclusive products (fractional homes, digital banking).'
 ---
 
 ## Background

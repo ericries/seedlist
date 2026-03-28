@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/moniquewoodard"
 status: published
 last_researched: 2026-03-28
+tldr: 'Founding Partner and Managing Director of Cake Ventures, investing in "demographic change" megatrends: aging/longevity (10K people turning 65/day in US), female wealth transfer ($30T over next decade), and majority-minority America. Portfolio heavily weighted toward digital health (40%) and consumer brands. First African-American venture partner at 500 Startups with commitment to diverse founder backing.'
 ---
 
 ## Background

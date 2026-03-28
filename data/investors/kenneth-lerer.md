@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kenlerer"
 status: published
 last_researched: 2026-03-28
+tldr: 'Co-founder and Managing Partner Emeritus of Lerer Hippeau, NYC''s largest seed-stage venture firm. Former CEO/chairman of The Huffington Post and BuzzFeed, Lerer backs media-tech and consumer internet companies with strong emphasis on storytelling and brand. His portfolio includes Warby Parker, Glossier, Casper, and Allbirds—companies that value consumer obsession and content sensibility.'
 ---
 
 ## Background

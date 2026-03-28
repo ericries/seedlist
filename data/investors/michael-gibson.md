@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/michael-patrick-gibson-56b6973"
 status: published
 last_researched: 2026-03-28
+tldr: 'Co-founder and General Partner of 1517 Fund alongside Danielle Strachman. Former Principal at Thiel Capital and Thiel Fellowship co-founder. Invests in pre-seed/seed stage deep-tech founders without traditional credentials—dropouts, scientists leaving academia, Thiel Fellows. Portfolio includes Luminar (IPO at $3.4B), Lambda (unicorn), Loom (acquired for ~$1B), Figma (IPO at $20B+). Fund I delivered 4.4x DPI with 38.9% IRR.'
 ---
 
 ## Background

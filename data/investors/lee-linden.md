@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/lclinden"
 status: published
 last_researched: 2026-03-28
+tldr: 'Serial founder (Tapjoy, Karma) and co-founder of Quiet Capital, a pre-seed/seed fund with $377M in Fund III (2024). Also co-founding GPx, a $500M+ fund with Brian Singerman targeting partnerships with emerging managers. Invests across AI, fintech, deep tech, and consumer; portfolio includes ElevenLabs, OpenAI, Mercury, and Cruise. Values DPI realization over paper returns.'
 ---
 
 ## Background

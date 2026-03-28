@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/daniellestrachman"
 status: published
 last_researched: 2026-03-28
+tldr: 'Co-founder and General Partner of 1517 Fund, which backs "dropouts, renegade students, and sci-fi scientists" at pre-seed and seed stage. Designed the Thiel Fellowship and invests in founders with deep technical obsession regardless of credentials, focusing on deep tech, hardware, and AI. Portfolio includes Luminar (IPO at $3.4B), Loom (acquired by Atlassian for ~$1B), and Figma (IPO at $20B+).'
 ---
 
 ## Background

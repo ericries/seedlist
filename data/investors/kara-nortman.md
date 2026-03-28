@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/karanortman"
 status: published
 last_researched: 2026-03-28
+tldr: 'Board Partner at Upfront Ventures and founder of Monarch Collective, a $250M women''s sports investment platform. At Upfront, focused on cybersecurity and enterprise security; portfolio includes Fleetsmith (acquired by Apple), Open Raven, and Britive. Co-founded All Raise and Angel City FC; known for championing women in VC and viewing women''s sports as "arbitrage on sexism."'
 ---
 
 ## Background
