@@ -200,9 +200,12 @@ main { flex: 1; padding: 2.5rem 0; }
 
 .badge-status { background: #d1fae5; color: #065f46; }
 .badge-status.badge-inactive { background: #fee2e2; color: #991b1b; }
+.badge-depth { cursor: help; transition: opacity 0.15s; }
+.badge-depth:hover { opacity: 0.8; }
 .badge-depth-reviewed { background: #d1fae5; color: #065f46; }
 .badge-depth-summary { background: #fef3c7; color: #92400e; }
 .badge-depth-stub { background: #fee2e2; color: #991b1b; }
+.profile-date { font-size: 0.8rem; color: var(--color-muted); margin-left: 0.5rem; cursor: help; }
 .badge-investor { background: var(--color-accent-light); color: var(--color-accent); }
 .badge-firm { background: #fef3c7; color: #92400e; }
 .badge-startup { background: #dcfce7; color: #166534; }

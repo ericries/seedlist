@@ -853,38 +853,42 @@ def build():
     startup_lookup = {s["slug"]: s for s in startups}
 
     # Compute profile depth labels (replaces raw "Published" badge)
+    import re as _re
     def compute_profile_depth(profile, profile_type):
         """Classify profile quality: Reviewed, Summary, or Stub."""
         content = profile.get("_raw_content", "")
         word_count = len(content.split())
-        # Count H2 sections
-        sections = [l for l in content.split("\n") if l.startswith("## ")]
-        section_count = len(sections)
-        has_sources = "## Sources" in content and "[^1]" in content
+        # Count unique source definitions (not inline refs)
+        source_defs = len(_re.findall(r'^\[\^\d+\]:', content, _re.MULTILINE))
+        has_sources = "## Sources" in content and source_defs >= 1
         has_portfolio = "## Portfolio" in content or "## Funding History" in content
+        # Check for substantive "What Investors Say" or "What Founders Say"
+        has_quotes = bool(_re.search(
+            r'## What (Investors|Founders) Say\n\n(?!No )', content
+        ))
 
         if profile_type == "startup":
-            # Startups: Reviewed if has About + Funding History + Sources with 2+ footnotes
-            footnote_count = content.count("[^")
-            if word_count >= 150 and has_sources and has_portfolio and footnote_count >= 4:
+            # Reviewed: substantial About, multiple sources, quotes or detailed content
+            if word_count >= 400 and source_defs >= 3 and has_portfolio and has_quotes:
                 return "Reviewed"
-            elif word_count >= 50 and has_portfolio:
+            # Summary: real content with multiple sources but not fully fleshed out
+            elif word_count >= 200 and source_defs >= 2 and has_portfolio:
                 return "Summary"
             else:
                 return "Stub"
         elif profile_type == "investor":
             has_inferred = "## Inferred Thesis" in content
-            if word_count >= 500 and has_sources and has_portfolio and has_inferred:
+            if word_count >= 500 and source_defs >= 5 and has_portfolio and has_inferred:
                 return "Reviewed"
-            elif word_count >= 200 and has_sources:
+            elif word_count >= 200 and source_defs >= 2:
                 return "Summary"
             else:
                 return "Stub"
         else:  # firm
             has_about = "## About" in content
-            if word_count >= 400 and has_sources and has_about:
+            if word_count >= 400 and source_defs >= 4 and has_about:
                 return "Reviewed"
-            elif word_count >= 150 and has_sources:
+            elif word_count >= 150 and source_defs >= 2:
                 return "Summary"
             else:
                 return "Stub"

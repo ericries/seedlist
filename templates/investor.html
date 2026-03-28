@@ -27,7 +27,11 @@
     {% endif %}
 
     {% if profile.profile_depth %}
-      <span class="badge badge-depth badge-depth-{{ profile.profile_depth | lower }}">{{ profile.profile_depth }}</span>
+      <span class="badge badge-depth badge-depth-{{ profile.profile_depth | lower }}" title="{% if profile.profile_depth == 'Reviewed' %}AI-researched profile verified against multiple independent sources{% elif profile.profile_depth == 'Summary' %}Partial profile with limited sources — more research needed{% else %}Minimal data only — not yet researched{% endif %}">{{ profile.profile_depth }}</span>
+    {% endif %}
+
+    {% if profile.last_researched %}
+      <span class="profile-date" title="Date this profile was last researched">Updated {{ profile.last_researched | format_date }}</span>
     {% endif %}
   </header>
 
