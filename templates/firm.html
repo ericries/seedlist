@@ -7,8 +7,8 @@
   <header class="profile-header">
     <h1>{{ profile.name }}</h1>
 
-    {% if profile.status %}
-      <span class="badge badge-status badge-{{ profile.status | lower }}">{{ profile.status }}</span>
+    {% if profile.profile_depth %}
+      <span class="badge badge-depth badge-depth-{{ profile.profile_depth | lower }}">{{ profile.profile_depth }}</span>
     {% endif %}
   </header>
 

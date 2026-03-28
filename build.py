@@ -35,6 +35,7 @@ def load_profiles(subdir):
             post.content,
             extensions=["tables", "footnotes", "smarty"],
         )
+        profile["_raw_content"] = post.content
         profiles.append(profile)
     return profiles
 
@@ -850,6 +851,50 @@ def build():
     firm_lookup = {f["slug"]: f for f in firms}
     investor_lookup = {i["slug"]: i for i in investors}
     startup_lookup = {s["slug"]: s for s in startups}
+
+    # Compute profile depth labels (replaces raw "Published" badge)
+    def compute_profile_depth(profile, profile_type):
+        """Classify profile quality: Reviewed, Summary, or Stub."""
+        content = profile.get("_raw_content", "")
+        word_count = len(content.split())
+        # Count H2 sections
+        sections = [l for l in content.split("\n") if l.startswith("## ")]
+        section_count = len(sections)
+        has_sources = "## Sources" in content and "[^1]" in content
+        has_portfolio = "## Portfolio" in content or "## Funding History" in content
+
+        if profile_type == "startup":
+            # Startups: Reviewed if has About + Funding History + Sources with 2+ footnotes
+            footnote_count = content.count("[^")
+            if word_count >= 150 and has_sources and has_portfolio and footnote_count >= 4:
+                return "Reviewed"
+            elif word_count >= 50 and has_portfolio:
+                return "Summary"
+            else:
+                return "Stub"
+        elif profile_type == "investor":
+            has_inferred = "## Inferred Thesis" in content
+            if word_count >= 500 and has_sources and has_portfolio and has_inferred:
+                return "Reviewed"
+            elif word_count >= 200 and has_sources:
+                return "Summary"
+            else:
+                return "Stub"
+        else:  # firm
+            has_about = "## About" in content
+            if word_count >= 400 and has_sources and has_about:
+                return "Reviewed"
+            elif word_count >= 150 and has_sources:
+                return "Summary"
+            else:
+                return "Stub"
+
+    for p in investors:
+        p["profile_depth"] = compute_profile_depth(p, "investor")
+    for p in firms:
+        p["profile_depth"] = compute_profile_depth(p, "firm")
+    for p in startups:
+        p["profile_depth"] = compute_profile_depth(p, "startup")
 
     # Auto-link entity names in profile body content
     for p in investors + firms + startups:
