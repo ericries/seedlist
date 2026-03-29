@@ -560,14 +560,15 @@ Run `python3 scripts/scan_vague_facts.py` to scan all profiles and generate `dat
 
 1. **Pick the next `status: pending` item** from `data/vague-facts-queue.yaml` (high priority first).
 2. **Set `status: investigating`** in the queue file.
-3. **Search for the primary source.** The goal is the ORIGINAL announcement, not a secondary summary. Search in this order:
-   a. Company press release or blog post ("Company X announces Series A")
-   b. Lead investor announcement ("We're proud to invest in Company X")
-   c. Wire service (PR Newswire, BusinessWire, GlobeNewsWire)
-   d. Major press (TechCrunch, Bloomberg, Fortune) — acceptable but note that these are reporting, not the original source
-   e. Crunchbase/PitchBook — use for cross-referencing, not as primary source
-   f. **DO NOT trust**: Wikipedia, aggregator sites, AI-generated summaries, or secondary databases without clicking through to their cited source
-4. **Click through to the original.** If TechCrunch says "Company X raised $30M," find the actual press release or company blog post they're referencing. The goal is the deepest primary source.
+3. **Check AT LEAST THREE independent sources.** This is mandatory, not optional:
+   a. **The investor's page** — the firm or investor's website, portfolio page, or blog post announcing the investment
+   b. **The startup's page** — the company's own press release, blog post, or newsroom
+   c. **Contemporaneous press** — a TechCrunch, Bloomberg, Fortune, or other tech press article published ON OR AROUND THE DATE of the round (not a later aggregator summary)
+
+   If any of these three disagree, note the discrepancy. If you can only find one or two, note what's missing.
+
+   **DO NOT trust**: Wikipedia, Crunchbase/PitchBook summaries (use only for cross-referencing leads — always click through to their cited source), AI-generated summaries, or any aggregator that doesn't cite its own sources.
+4. **Click through to the original.** If TechCrunch says "Company X raised $30M," find the actual press release or company blog post they're referencing. If Crunchbase cites a source, open that source. The goal is the deepest primary source, not the first Google result.
 5. **Extract the specific fact**: exact date (YYYY-MM-DD), exact amount, round type, lead investor, participants.
 6. **Update ALL affected profiles:**
    - The investor profile's Portfolio table (if the round type or date was vague)
