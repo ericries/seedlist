@@ -126,6 +126,8 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 ~unknown| Hinge Health | Growth | — | Digital Health | Active (Public) | [^5] |
 ~unknown| Checkout.com | Growth | — | Payments | Active | [^2] |
 ~unknown| Kaseya | Growth | — | IT Management | Active | [^2] |
+| Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Active | [^11] |
+| Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
 
 *This table represents approximately 2% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -163,3 +165,5 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^8]: Fortune, "How legendary venture firm Insight Partners hires," accessed March 2026. https://fortune.com/article/insight-partners-analysts-venture-capital-jeff-horing-software-investing/
 [^9]: Tracxn, "Insight Partners - 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/insightpartners/__vMkyI0dd9GF_tuKqUz00X4gV84On-vRd5koq9TV1wbg
 [^10]: Calcalist, "Insight Partners Backs SentinelOne in $200 Million Investment," February 2020. https://www.calcalistech.com/ctech/articles/0,7340,L-3794593,00.html
+[^11]: "Ayar Labs Raises $500M Series E," BusinessWire, March 3, 2026. https://www.businesswire.com/news/home/20260303005001/en/Ayar-Labs-Raises-500M-Series-E
+[^12]: Rocketlane $60M Series C backed by Insight Partners, March 2026.
