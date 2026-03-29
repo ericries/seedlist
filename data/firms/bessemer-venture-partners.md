@@ -151,6 +151,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | ClickHouse | Early | 2021 | Data | [^9] |
 | Twitch | Early | 2012 | Consumer | [^9] |
 | Blue Apron | Early | 2013 | Consumer | [^9] |
+| Legora | Series D | 2026 | AI/Legal Tech | [^15] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -196,3 +197,4 @@ However, founder experiences are not universally positive. One founder reported 
 [^12]: Bessemer Venture Partners, "Looking back on our $1 billion AI commitment," accessed March 2026. https://www.bvp.com/news/looking-back-on-our-1-billion-ai-commitment-it-turns-out-were-just-getting-started
 [^13]: VCSheet, "Bessemer Venture Partners - VC Fund Breakdown," accessed March 2026. https://www.vcsheet.com/fund/bessemer-venture-partners
 [^14]: SuperScout, "Bessemer Venture Partners: The Early Stage Founder's Guide," accessed March 2026. https://superscout.co/investor/bvp
+[^15]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d

@@ -211,6 +211,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 
 | Oasis Security | Series A | 2024 | Cybersecurity/Identity | [^14] |
 | Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
+| Legora | Series D (led) | 2026 | AI/Legal Tech | [^16] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -247,3 +248,4 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^13]: Medium, "Why Accel remains the best fund for founders in India," by Avinash Raghava, accessed March 2026. https://avinashraghava.medium.com/why-accel-remains-the-best-fund-for-founders-in-india-2b98d5bab9fa
 [^14]: "Partnering with Oasis Security: The Stars Align." Sequoia Capital, accessed March 2026. https://sequoiacap.com/article/partnering-with-oasis-security-the-stars-align/
 [^15]: "Dash0 Raises $110M Series B at $1B Valuation." Dash0 blog, March 23, 2026. https://www.dash0.com/blog/dash0-raises-usd110m-series-b
+[^16]: TechCrunch, "Legora raises $550M Series D led by Accel at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d

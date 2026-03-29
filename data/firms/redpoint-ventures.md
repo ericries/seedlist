@@ -122,6 +122,7 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | Hims & Hers | Growth | 2018 | Healthcare/DTC | Public | [^3] |
 | Next Insurance | Series A | 2016 | Insurtech | Acquired ($2.6B) | [^3] |
 | Poolside | Series A | 2024 | AI | Active | [^4] |
+| Legora | Series D | 2026 | AI/Legal Tech | Active | [^8] |
 
 *This table represents a small fraction of Redpoint's 615+ portfolio companies [^3]. Years are approximate based on publicly available data.*
 
@@ -144,3 +145,4 @@ No independently sourced founder testimonials found. The firm's content platform
 [^5]: Business Wire, "Redpoint Ventures Announces 2024 Recipients of InfraRed 100 List," June 2024. https://www.businesswire.com/news/home/20240618264764/en/Redpoint-Ventures-Announces-2024-Recipients-of-InfraRed-100-List
 [^6]: Business Wire, "Redpoint Ventures and Nasdaq Introduce New Thematic Index Focused on Cloud Infrastructure Software," July 2023. https://www.businesswire.com/news/home/20230717398339/en/Redpoint-Ventures-and-Nasdaq-Introduce-New-Thematic-Index-Focused-on-Cloud-Infrastructure-Software-and-Redpoint-Announces-InfraRed-100
 [^7]: Redpoint Ventures website, Satish Dharmaraj partner page, accessed March 2026. https://www.redpoint.com/our-people/satish-dharmaraj/
+[^8]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d

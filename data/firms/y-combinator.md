@@ -290,6 +290,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | 80,000 Hours | S15 | 2015 | Career Guidance | Nonprofit [^19] |
 | Airtable | W12 | 2012 | Database / No-Code | Private ($11B) [^19] |
 | Plaid | W13 | 2013 | Fintech Infrastructure | Private ($13.4B) [^19] |
+| Legora | — | ~2026 | AI / Legal Tech | Private ($5.55B) [^28] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). Some companies (OpenAI, Duolingo, Plaid) have batch information not publicly confirmed and are listed without batch designation.*
 
@@ -409,3 +410,4 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^26]: "The Value of the Y Combinator Experience," Sachin Rekhi. https://www.sachinrekhi.com/the-value-of-the-ycombinator-experience. Accessed March 2026.
 
 [^27]: "Is Y Combinator worth the money (equity)? Brutally honest review of W22 batch experience," Substack. https://acecreamu.substack.com/p/is-y-combinator-worth-the-money. Accessed March 2026.
+[^28]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d

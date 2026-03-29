@@ -208,8 +208,9 @@ The following table includes 45 Benchmark investments verified through press cov
 | Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |
 | Forge | Early | ~2025 | AI | Private [^1] |
 | FOMO | Early | 2026 | Financial Services | Private [^9] |
+| Legora | Series D | 2026 | AI / Legal Tech | Private [^33] |
 
-*Note: This table includes 45 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
+*Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
 ## In Their Own Words
 
@@ -333,3 +334,4 @@ The following table includes 45 Benchmark investments verified through press cov
 [^31]: "Snapchat Raises $13.5M Series A Led By Benchmark, Now Sees 60M Snaps Sent Per Day." TechCrunch, February 8, 2013. https://techcrunch.com/2013/02/08/snapchat-raises-13-5m-series-a-led-by-benchmark-now-sees-60m-snaps-sent-per-day/
 
 [^32]: "Facebook offered Snapchat founder Evan Spiegel much more than $3bn." IBTimes UK. https://www.ibtimes.co.uk/facebook-offered-snapchat-founder-evan-spiegel-much-more-3bn-sony-pictures-leaked-email-reveals-1479885. Also: "Snapchat CEO's Leaked Emails Tell The Truth About Tech Startups." Yahoo Finance. https://finance.yahoo.com/news/snapchat-ceos-leaked-emails-tell-172000674.html
+[^33]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
