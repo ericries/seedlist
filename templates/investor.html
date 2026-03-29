@@ -27,7 +27,7 @@
     {% endif %}
 
     {% if profile.profile_depth %}
-      <span class="badge badge-depth badge-depth-{{ profile.profile_depth | lower }}" title="{% if profile.profile_depth == 'Reviewed' %}Meets minimum quality standards: multiple independent sources, cited claims, and substantive analysis{% elif profile.profile_depth == 'Summary' %}Partial profile with limited sources — more research needed{% else %}Minimal data only — not yet researched{% endif %}">{{ profile.profile_depth }}</span>
+      <span class="badge badge-depth badge-depth-{{ profile.profile_depth | lower }}" title="{% if profile.profile_depth == 'Reviewed' %}Reviewed by an LLM to verify it meets minimum quality standards: multiple independent sources, cited claims, and substantive analysis{% elif profile.profile_depth == 'Summary' %}Partial profile with limited sources — more research needed{% else %}Minimal data only — not yet researched{% endif %}">{{ profile.profile_depth }}</span>
     {% endif %}
 
     {% if profile.last_researched %}
