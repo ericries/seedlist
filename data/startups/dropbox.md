@@ -18,9 +18,9 @@ firms:
 - round: Series B
   slug: benchmark
   year: 2011
-- round: ~2007
+- round: Series A
   slug: accel
-  year: 2007
+  year: 2008
 - round: ~2007
   slug: standard-capital
   year: 2007

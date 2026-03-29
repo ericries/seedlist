@@ -83,7 +83,7 @@ Based on 25 verified investments below (combining Sequoia and Accel portfolios):
 |---------|-------|------|--------|--------|--------|
 | CrowdStrike | Series A+ | 2013 | Cybersecurity | Public (NASDAQ: CRWD) | [^6] |
 | Spotify | Growth | ~2012 | Media/Streaming | Public (NYSE: SPOT) | [^1] |
-| Dropbox | Early (Sequoia) | ~2007 | Cloud/SaaS | Public (NASDAQ: DBX) | [^1][^4] |
+| Dropbox | Seed (Sequoia, 2007); Series A (Accel, Oct 2008) | 2007 | Cloud/SaaS | Public (NASDAQ: DBX) | [^1][^4][^10] |
 | Freshworks | Early | ~2014 | Enterprise SaaS | Public (NASDAQ: FRSH) | [^1] |
 | Anthropic | Growth | 2025 | AI | Private | [^1][^8] |
 | Perplexity | Growth | 2025 | AI/Search | Private | [^8] |
@@ -128,3 +128,4 @@ No independently sourced founder testimonials found. Gandhi's long-running relat
 [^7]: "20VC: The Crowdstrike Memo: Accel's Sameer Gandhi," Twenty Minute VC podcast, accessed March 2026. https://www.thetwentyminutevc.com/sameer-gandhi
 [^8]: "AI Startup Perplexity's Valuation Jumps to $14 Billion Following $500 Million Funding Round," FinTech Weekly, accessed March 2026. https://www.fintechweekly.com/magazine/articles/perplexity-ai-startup-valuation-14-billion-funding-round
 [^9]: "Wonder's Marc Lore on blending vision and execution," Accel podcast, accessed March 2026. https://www.accel.com/podcast-episodes/wonder-marc-lore
+[^10]: Y Combinator blog, "Dropbox (S07) Raised $6 Million Sequoia-Led Series A In October 2008." Accel portfolio page confirms "Initial Investment: Series A in 2008." https://www.ycombinator.com/blog/dropbox-s07-raised-6-million-sequoia-led-seri
