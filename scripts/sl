@@ -397,6 +397,15 @@ def cmd_lint(slug, no_fetch=False):
         if field not in meta:
             errors.append(f"Missing frontmatter field for {profile_type}: {field}")
 
+    # ── Frontmatter slug validation (startups: investors/firms slugs must exist) ──
+    if profile_type == "startup":
+        data_dir = Path(__file__).resolve().parent.parent / "data"
+        for field_name, profile_dir in [("investors", "investors"), ("firms", "firms")]:
+            for entry in meta.get(field_name) or []:
+                entry_slug = entry.get("slug", "")
+                if entry_slug and not (data_dir / profile_dir / f"{entry_slug}.md").exists():
+                    warnings.append(f"Frontmatter {field_name} slug has no profile (will not link on rounds page): {entry_slug}")
+
     # ── Required sections ──
     required_sections = {
         "individual": ["Background", "Stated Thesis", "Inferred Thesis", "Portfolio",
