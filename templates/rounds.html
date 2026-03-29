@@ -110,11 +110,20 @@
       var investorHtml = '';
       if (r.investors && r.investors.length && window._investorNames) {
         var graph = window._investorGraph || {};
+        var investorNames = graph.investor_names || {};
+        var firmSlugs = graph.firms || {};
         var links = r.investors.map(function(slug) {
           var name = window._investorNames[slug] || slug.replace(/-/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
-          var isFirm = graph.firms && graph.firms[slug];
-          var prefix = isFirm ? '/firms/' : '/investors/';
-          return '<a href="' + prefix + escHtml(slug) + '.html">' + escHtml(name) + '</a>';
+          var isFirm = firmSlugs[slug];
+          var isInvestor = investorNames[slug];
+          // Only link if the profile actually exists
+          if (isFirm) {
+            return '<a href="/firms/' + escHtml(slug) + '.html">' + escHtml(name) + '</a>';
+          } else if (isInvestor) {
+            return '<a href="/investors/' + escHtml(slug) + '.html">' + escHtml(name) + '</a>';
+          } else {
+            return escHtml(name);
+          }
         });
         investorHtml = '<div class="round-investors">' + links.join(', ') + '</div>';
       } else if (r.lead) {

@@ -536,6 +536,7 @@ firms:
 - If sources conflict on the amount, note the discrepancy
 - Round dates should come from the announcement date, not from when you found it
 - **Always use YYYY-MM-DD for new rounds.** Month-only dates make the feed feel stale.
+- **Only use validated slugs in frontmatter.** When adding investors/firms to startup frontmatter `investors:` and `firms:` arrays, only use slugs that correspond to existing profiles in `data/investors/` or `data/firms/`. The rounds page will only link to profiles that exist — unrecognized slugs render as plain text. If an investor or firm doesn't have a profile yet, add them to the queue but do NOT put a made-up slug in the startup's frontmatter. Use the lead's name in the Funding History table text instead.
 
 #### Volume and freshness targets
 
