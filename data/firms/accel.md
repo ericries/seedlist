@@ -183,11 +183,11 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Facebook (Meta) | Series A | 2005 | Consumer/Social | [^6] |
+| Facebook (Meta) | Series A | 2005 | Consumer/Social | [^6][^20] |
 | Slack | Seed | 2009 | Enterprise | [^6][^17] |
 | Dropbox | Series A | 2008 | Cloud/Consumer | [^6][^18][^19] |
-| Spotify | Early | 2011 | Consumer/Music | [^6] |
-| Atlassian | Growth | 2010 | Enterprise | [^6] |
+| Spotify | Series D | 2011 | Consumer/Music | [^6][^21][^22] |
+| Atlassian | Growth ($60M) | 2010 | Enterprise | [^6][^23][^24] |
 | Flipkart | Early | 2009 | E-commerce | [^6] |
 | CrowdStrike | Early | 2013 | Cybersecurity | [^6] |
 | Qualtrics | Growth | 2012 | Enterprise | [^6] |
@@ -252,3 +252,8 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^17]: Accel portfolio page for Slack, "Initial Investment: Seed in 2009," accessed March 2026. https://www.accel.com/relationships/slack
 [^18]: Accel portfolio page for Dropbox, "Initial Investment: Series A in 2008" (partner: Sameer Gandhi), accessed March 2026. https://www.accel.com/relationships/dropbox
 [^19]: Y Combinator blog, "Dropbox (S07) Raised $6 Million Sequoia-Led Series A In October 2008," accessed March 2026. https://www.ycombinator.com/blog/dropbox-s07-raised-6-million-sequoia-led-seri
+[^20]: TechCrunch, "Famed VC Jim Breyer on finding the next Mark Zuckerberg," November 8, 2017. Confirms Accel's $12.7M Series A in Facebook at $98M valuation in 2005, led by Jim Breyer. https://techcrunch.com/2017/11/08/famed-vc-jim-breyer-on-finding-the-next-mark-zuckerberg-and-much-more/
+[^21]: Accel portfolio page for Spotify, "Initial Investment in 2011" (partners: Sameer Gandhi, Sonali De Rycker), accessed March 2026. https://www.accel.com/relationships/spotify
+[^22]: AllThingsD, "Spotify Raises $100 Million from DST, Kleiner Perkins, Accel," June 17, 2011. Confirms ~$100M round at ~$1B valuation. https://allthingsd.com/20110617/spotify-gearing-up-for-u-s-launch-closes-its-1-billion-round/
+[^23]: Atlassian blog, "Atlassian Closes $60 Million Investment from Accel Partners," July 14, 2010. Rich Wong joined board. https://www.atlassian.com/blog/news/2010/07/atlassian_closes_60_million_investment_from_accel_partners
+[^24]: TechCrunch, "Product Management Software Company Atlassian Takes A Huge, $60 Million First Round Of Funding From Accel," July 14, 2010. https://techcrunch.com/2010/07/14/atlassian-accel-60-million/
