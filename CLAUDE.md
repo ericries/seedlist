@@ -544,6 +544,54 @@ firms:
 - **Prioritize**: (1) Rounds involving investors already in our database, (2) Large rounds ($10M+), (3) AI, fintech, and other hot sectors.
 - After adding rounds: rebuild site (`python3 build.py`), commit, and push so the feed updates immediately.
 
+## Fact Specificity Agent
+
+The Fact Specificity Agent resolves vague data in profiles — "Unknown" round types, year-only dates, approximate amounts, unverified claims. It works through a queue one fact at a time, finding primary sources and updating ALL affected profiles.
+
+### Queue
+
+Run `python3 scripts/scan_vague_facts.py` to scan all profiles and generate `data/vague-facts-queue.yaml`. The queue is prioritized:
+- **high**: explicit "Unknown", "N/A", "Undisclosed" values — these should never appear in published profiles
+- **normal**: year-only dates on 2023+ rounds — recent enough that exact dates are findable
+- **low**: year-only dates on older rounds — harder to find but still worth improving
+
+### Investigation Workflow (one fact at a time)
+
+1. **Pick the next `status: pending` item** from `data/vague-facts-queue.yaml` (high priority first).
+2. **Set `status: investigating`** in the queue file.
+3. **Search for the primary source.** The goal is the ORIGINAL announcement, not a secondary summary. Search in this order:
+   a. Company press release or blog post ("Company X announces Series A")
+   b. Lead investor announcement ("We're proud to invest in Company X")
+   c. Wire service (PR Newswire, BusinessWire, GlobeNewsWire)
+   d. Major press (TechCrunch, Bloomberg, Fortune) — acceptable but note that these are reporting, not the original source
+   e. Crunchbase/PitchBook — use for cross-referencing, not as primary source
+   f. **DO NOT trust**: Wikipedia, aggregator sites, AI-generated summaries, or secondary databases without clicking through to their cited source
+4. **Click through to the original.** If TechCrunch says "Company X raised $30M," find the actual press release or company blog post they're referencing. The goal is the deepest primary source.
+5. **Extract the specific fact**: exact date (YYYY-MM-DD), exact amount, round type, lead investor, participants.
+6. **Update ALL affected profiles:**
+   - The investor profile's Portfolio table (if the round type or date was vague)
+   - The startup profile's Funding History table
+   - The firm profile's Portfolio table
+   - Any frontmatter fields affected (last_verified_investment, stage_latest, total_raised)
+7. **Add ALL primary source citations found**, even if redundant with existing sources. Multiple independent citations increase reader confidence. Format: `[^N]: Company X press release, "Series A Announcement," March 15, 2026. https://companyx.com/blog/series-a`
+8. **Set `status: resolved`** in the queue file with a note of what was found.
+9. **If the fact cannot be resolved** after thorough searching, set `status: unresolvable` with a note explaining what was tried. Leave the profile as-is rather than guessing.
+
+### Key Principles
+
+- **One fact at a time.** Don't batch. Each investigation is thorough and focused.
+- **Primary sources only.** The press release > the TechCrunch article about the press release > the Crunchbase page summarizing the TechCrunch article.
+- **Update ALL profiles.** A single funding round may appear in the investor's portfolio, the startup's funding history, AND the firm's portfolio. Update all three.
+- **Redundant citations welcome.** If the company blog, the investor blog, and TechCrunch all confirm the same fact, cite all three. This is not waste — it's confidence.
+- **Never guess.** If you find "Q1 2024" but not the exact date, use "2024-03" (end of Q1), don't invent "2024-02-15."
+
+### Scheduling
+
+The agent should run continuously as a background task, picking up facts from the queue. It can also be queued up for specific investigations when a user has a factual question. Target: **10-20 facts resolved per session.** The queue will naturally shrink over time as profiles improve.
+
+Add to maintenance tasks:
+- `python3 scripts/scan_vague_facts.py` — refresh the queue periodically (weekly)
+
 ## Two-Pass Review Workflow
 
 Every profile goes through two passes before publication.
@@ -763,6 +811,7 @@ It is OK to **pause or deprioritize firm and startup research** whenever investo
    - `python3 scripts/process_issues.py` — process any pending GitHub Issues (source submissions, CSV candidates).
    - **Pathway enrichment**: For published profiles that lack a `## Connections` section, dispatch a research agent to find and add connection data. Target 5-10 profiles per maintenance cycle. Prioritize profiles with the most co-investment edges. **Board seats are the highest-priority connection type** — they enable cross-board matching (e.g., "Investor X sits on the board of Company Y alongside Person Z"). Search SEC DEF 14A filings, company websites, and press releases for current and former board memberships.
    - **Round monitoring** *(should also run daily, not just every 3rd batch)*: Dispatch a research agent to search for today's startup funding round announcements. See "Round Feed Research" section below. The feed should always have at least one round from the most recent weekday.
+   - **Fact specificity**: Pick 5-10 high-priority items from `data/vague-facts-queue.yaml` and investigate. See "Fact Specificity Agent" section. Refresh the queue weekly with `python3 scripts/scan_vague_facts.py`.
    - Commit and push if any of these produced changes.
 8. **One-line status, then immediately start next batch.**
 9. **Stop when:** queue exhausted. Do NOT impose an artificial batch limit.
