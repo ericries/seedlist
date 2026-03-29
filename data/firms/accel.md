@@ -184,7 +184,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Facebook (Meta) | Series A | 2005 | Consumer/Social | [^6] |
-| Slack | Early | 2014 | Enterprise | [^6] |
+| Slack | Seed | 2009 | Enterprise | [^6][^17] |
 | Dropbox | Series A | 2007 | Cloud/Consumer | [^6] |
 | Spotify | Early | 2011 | Consumer/Music | [^6] |
 | Atlassian | Growth | 2010 | Enterprise | [^6] |
@@ -249,3 +249,4 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^14]: "Partnering with Oasis Security: The Stars Align." Sequoia Capital, accessed March 2026. https://sequoiacap.com/article/partnering-with-oasis-security-the-stars-align/
 [^15]: "Dash0 Raises $110M Series B at $1B Valuation." Dash0 blog, March 23, 2026. https://www.dash0.com/blog/dash0-raises-usd110m-series-b
 [^16]: TechCrunch, "Legora raises $550M Series D led by Accel at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
+[^17]: Accel portfolio page for Slack, "Initial Investment: Seed in 2009," accessed March 2026. https://www.accel.com/relationships/slack
