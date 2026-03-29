@@ -114,10 +114,10 @@
         var firmSlugs = graph.firms || {};
         var links = r.investors.map(function(slug) {
           var name = window._investorNames[slug] || slug.replace(/-/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
-          var isFirm = firmSlugs[slug];
+          var firmEntry = firmSlugs[slug];
           var isInvestor = investorNames[slug];
-          // Only link if the profile actually exists
-          if (isFirm) {
+          // Only link if the profile actually exists (firm must have has_profile flag)
+          if (firmEntry && firmEntry.has_profile) {
             return '<a href="/firms/' + escHtml(slug) + '.html">' + escHtml(name) + '</a>';
           } else if (isInvestor) {
             return '<a href="/investors/' + escHtml(slug) + '.html">' + escHtml(name) + '</a>';

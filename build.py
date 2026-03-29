@@ -204,7 +204,11 @@ def build_investor_graph(investors, firms, startups, clusters_data):
         if firm_slug not in graph_firms:
             firm_data = firm_lookup.get(firm_slug)
             firm_name = firm_data["name"] if firm_data else firm_slug
-            graph_firms[firm_slug] = {"name": firm_name, "members": []}
+            graph_firms[firm_slug] = {
+                "name": firm_name,
+                "members": [],
+                "has_profile": firm_slug in firm_lookup,
+            }
         if inv["slug"] not in graph_firms[firm_slug]["members"]:
             graph_firms[firm_slug]["members"].append(inv["slug"])
 
