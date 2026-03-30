@@ -101,9 +101,9 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Snowflake | Series C (lead) | 2016 | Cloud / Data | Public (IPO 2020) | [^3][^8] |
-| AppDynamics | Growth | 2015 | Enterprise Software | Acquired by Cisco (2017) | [^18] |
-| Cockroach Labs | Series C (lead) | 2019 | Database / Infrastructure | Active | [^19] |
+| Snowflake | Series C (lead, $45M announced / $79M total) | 2015 | Cloud / Data | Public (IPO 2020) | [^3][^8][^26][^27] |
+| AppDynamics | Series F ($158M, co-led with General Atlantic) | 2015 | Enterprise Software | Acquired by Cisco (2017) | [^18][^28][^29] |
+| Cockroach Labs | Series C (co-led, $55M) | 2019 | Database / Infrastructure | Active | [^19][^30][^31] |
 | Cockroach Labs | Series D (lead) | 2020 | Database / Infrastructure | Active | [^19] |
 | Cockroach Labs | Series E (lead) | 2021 | Database / Infrastructure | Active | [^19] |
 | Roblox | Series H (co-lead) | 2021 | Gaming / Metaverse | Public (DPO 2021) | [^20] |
@@ -220,6 +220,12 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^23]: Crunchbase, "Altimeter Capital - Crunchbase Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/altimeter-capital
 [^24]: Tracxn, "Pine Labs - 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/pine-labs/__B_uT5mdkziCxRVGPrKBFMXE5NIJjBKHPWKDFLsjo4XQ/funding-and-investors
 [^25]: CoreWeave investor relations, "CoreWeave Secures $1.1 Billion in Series C Funding," May 2024. https://investors.coreweave.com/news/news-details/2024/CoreWeave-Secures-1-1-Billion-in-Series-C-Funding-to-Drive-the-Next-Generation-of-Cloud-Computing-for-the-Future-of-AI/default.aspx
+[^26]: TechCrunch, "Snowflake Raises $45M Series C Round For Its Data Warehousing Service, Comes Out Of Beta," June 23, 2015. Altimeter Capital led, Redpoint Ventures, Sutter Hill Ventures, Wing VC participated. https://techcrunch.com/2015/06/23/snowflake-raises-45m-series-c-round-for-its-data-warehousing-service-comes-out-of-beta/
+[^27]: Venture Capital Journal, "Altimeter Capital leads Series C round for Snowflake Computing," 2015. https://www.venturecapitaljournal.com/altimeter-capital-leads-series-c-round-for-snowflake-computing/
+[^28]: TechCrunch, "AppDynamics Raises $158M; Now Valued At $1.9 Billion," November 30, 2015. General Atlantic and Altimeter Capital led, with Goldman Sachs, IVP, Greylock, Lightspeed. https://techcrunch.com/2015/11/30/appdynamics-raises-158m-now-valued-at-1-9-billion/
+[^29]: TechCrunch, "AppDynamics, A 'Unicorn,' Raises Fresh $83.4 Million," October 31, 2015. Earlier tranche in same round. https://techcrunch.com/2015/10/31/appdynamics-a-unicorn-raises-fresh-83-4-million-and-its-targeting-more/
+[^30]: Cockroach Labs blog, "A $55M milestone in our mission to make data easy," August 6, 2019. Altimeter, Tiger Global, GV co-led. https://www.cockroachlabs.com/blog/series-c/
+[^31]: PR Newswire, "Cockroach Labs Raises $55 Million in Series C Financing," August 6, 2019. Confirms lead investors and amount. https://www.prnewswire.com/news-releases/cockroach-labs-raises-55-million-in-series-c-financing-to-enable-cloud-native-global-applications-and-services-for-modern-enterprises-300897143.html
 [^26]: TechCrunch, "CoreWeave's $1.1B raise shows the market for alternative clouds is booming," May 5, 2024. https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/
 [^27]: Hammerspace press release, "Strategic Investors Back Hammerspace as New Standard for AI Data Performance," April 2025. https://hammerspace.com/strategic-investors-back-hammerspace/
 [^28]: BusinessWire, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 2025. https://www.businesswire.com/news/home/20251119356889/en/Profluent-Raises-$106M-to-Scale-Frontier-AI-Models-for-Programmable-Biology
