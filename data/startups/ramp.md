@@ -162,6 +162,9 @@ investors:
 - round: Early Stage
   slug: david-tisch
   year: 2020
+- round: Growth
+  slug: brandon-reeves
+  year: 2021
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

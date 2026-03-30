@@ -5230,13 +5230,13 @@ queue:
 - name: Social Leverage
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: howard-lindzon
 - name: Prima Materia
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: shakil-khan
 - name: Daniel Ek
@@ -5419,7 +5419,7 @@ queue:
 - name: OpenAI Startup Fund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: harvey
 - name: Ilya Fushman
@@ -6402,13 +6402,13 @@ queue:
 - name: CRV
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: vercel
 - name: Bedrock Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: vercel
 - name: Breyer Capital
@@ -7700,7 +7700,7 @@ queue:
 - name: Steve Jang
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kindred Ventures
   discovered_from: kanyi-maqubela
@@ -7776,7 +7776,7 @@ queue:
 - name: Brandon Reeves
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lux Capital
   discovered_from: hadrian
@@ -7981,5 +7981,198 @@ queue:
   type: startup
   source: has user-submitted pending_sources to incorporate
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-30'
+- name: EQT Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Macquarie Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: 776 Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Fuse Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Adjacent
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Nebular
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Manhattan West
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Soma Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+- name: Tom Peterson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Social Leverage
+  discovered_from: social-leverage
+- name: Gary Benitt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Social Leverage
+  discovered_from: social-leverage
+- name: Matt Ober
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Social Leverage
+  discovered_from: social-leverage
+- name: Evan Rapoport
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Social Leverage
+  discovered_from: social-leverage
+- name: Boldstart Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: social-leverage
+- name: Theory Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: social-leverage
+- name: Geoff Lewis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bedrock
+  discovered_from: bedrock-capital
+- name: Ben Kany
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bedrock
+  discovered_from: bedrock-capital
+- name: Sid Vashist
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bedrock
+  discovered_from: bedrock-capital
+- name: Eric Stromberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Terrain
+  discovered_from: bedrock-capital
+- name: Saar Gur
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CRV
+  discovered_from: crv
+- name: Reid Christian
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CRV
+  discovered_from: crv
+- name: Murat Bicer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CRV
+  discovered_from: crv
+- name: Devdutt Yellurkar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CRV
+  discovered_from: crv
+- name: Anna Khan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CRV
+  discovered_from: crv
+- name: Anja Zehfuss
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CRV
+  discovered_from: crv
+- name: Pia Michel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Prima Materia
+  discovered_from: prima-materia
+- name: Harry Stebbings
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 20VC
+  discovered_from: prima-materia
+- name: Ian Hathaway
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenAI Startup Fund
+  discovered_from: openai-startup-fund
+- name: Brad Lightcap
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenAI Startup Fund
+  discovered_from: openai-startup-fund
+- name: Grace Isford
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lux Capital
+  discovered_from: brandon-reeves

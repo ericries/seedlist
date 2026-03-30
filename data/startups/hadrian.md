@@ -74,6 +74,9 @@ investors:
 - round: Seed
   slug: mike-maples
   year: 2020
+- round: Early
+  slug: brandon-reeves
+  year: 2021
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian

@@ -223,6 +223,9 @@ investors:
 - round: Seed
   slug: brian-singerman
   year: 2017
+- round: Early
+  slug: brandon-reeves
+  year: 2017
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

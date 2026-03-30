@@ -60,6 +60,9 @@ firms:
 - round: Angel
   slug: true-ventures
   year: 2018
+- round: Angel
+  slug: kindred-ventures
+  year: 2012
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -145,6 +148,9 @@ investors:
 - round: Angel
   slug: kevin-rose
   year: 2018
+- round: Angel
+  slug: steve-jang
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

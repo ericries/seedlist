@@ -18,6 +18,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2022
+- round: Seed
+  slug: kindred-ventures
+  year: 2023
 founded: 2022
 founders:
 - name: Aravind Srinivas
@@ -50,6 +53,9 @@ investors:
 - round: Series B1
   slug: dylan-field
   year: 2024
+- round: Seed
+  slug: steve-jang
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Perplexity AI

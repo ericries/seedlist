@@ -99,6 +99,9 @@ investors:
 - round: Seed
   slug: geoff-ralston
   year: 2014
+- round: Growth
+  slug: brandon-reeves
+  year: 2020
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Benchling

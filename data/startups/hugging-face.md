@@ -60,6 +60,9 @@ investors:
 - round: Seed
   slug: geoff-ralston
   year: 2017
+- round: Series A ($15M)
+  slug: brandon-reeves
+  year: 2019
 last_researched: 2026-03-23
 location: New York, NY
 name: Hugging Face

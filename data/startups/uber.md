@@ -138,6 +138,9 @@ firms:
 - round: Angel
   slug: af-square
   year: 2011
+- round: Angel
+  slug: kindred-ventures
+  year: 2009
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -253,6 +256,9 @@ investors:
 - round: Angel
   slug: troy-carter
   year: 2011
+- round: Angel
+  slug: steve-jang
+  year: 2009
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

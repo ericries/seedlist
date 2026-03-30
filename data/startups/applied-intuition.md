@@ -82,6 +82,9 @@ investors:
 - round: Early
   slug: brian-singerman
   year: 2018
+- round: Early
+  slug: brandon-reeves
+  year: 2017
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition
