@@ -147,7 +147,7 @@ The following table includes DST Global investments verified through press cover
 | Whatnot | Series D (co-led) | 2022 | Marketplace / Live Commerce | Private [^21] |
 | Rappi | Growth | ~2019 | Marketplace / Delivery | Private [^1] |
 | Gojek | Growth | ~2018 | Marketplace / Transportation | Merged with Tokopedia (GoTo, IPO 2022) [^1] |
-| Quince | Growth | 2026 | E-commerce / Clothing | Private [^6] |
+| Quince | Series E | 2026 | E-commerce / Consumer | Private [^6][^24] |
 
 *Note: This table includes 32 companies out of 214 total (~15%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
@@ -245,3 +245,5 @@ No independently sourced negative or critical founder testimonials were found in
 [^22]: "Exclusive Video: Mark Zuckerberg And Yuri Milner Talk About Facebook's New Investment." TechCrunch, May 26, 2009. https://techcrunch.com/2009/05/26/mark-zuckerberg-and-yuri-milner-talk-about-facebooks-new-investment-video/.
 
 [^23]: "Yuri Milner Says Twitter Is Relevant, Is a Global Project." Bloomberg, April 12, 2016. https://www.bloomberg.com/news/videos/2016-04-12/yuri-milner-says-twitter-is-relevant-is-a-global-project.
+
+[^24]: "Quince raises $500M Series E at $10.1B valuation," TechCrunch, March 11, 2026. https://techcrunch.com/2026/03/11/quince-series-e/
