@@ -168,6 +168,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | 3Com | Seed | 1981 | Networking | Acquired [^2] |
 | ElevenLabs | Series C | 2025 | AI/Voice | Active [^7] |
 | Synthesia | Series D | 2025 | AI/Video | Active [^7] |
+| Qualified Health | Series B | 2026 | Healthcare/AI | Active [^11] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -197,3 +198,4 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^8]: businessabc.net, "New Enterprise Associates (NEA) - Venture Capital." https://businessabc.net/wiki/new-enterprise-associates-nea
 [^9]: NEA website, "Portfolio: Cloudflare," accessed March 2026. https://www.nea.com/portfolio/cloudflare
 [^10]: NEA website, "Portfolio: Databricks," accessed March 2026. https://www.nea.com/portfolio/databricks
+[^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/

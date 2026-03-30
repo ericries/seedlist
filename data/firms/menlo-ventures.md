@@ -115,6 +115,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Typeface | Early | ~2023 | AI/Content | Private [^1] |
 | Grow Therapy | Series D | 2026 | Healthcare/Mental Health | Private [^9] |
 | Legora | Series D | 2026 | AI/Legal Tech | Private [^10] |
+| Qualified Health | Series B | 2026 | Healthcare/AI | Private [^11] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -138,3 +139,4 @@ No independently sourced founder testimonials found.
 [^8]: GlobeNewsWire, "Menlo Ventures' 2025 State of Generative AI Report," December 9, 2025. https://www.globenewswire.com/news-release/2025/12/09/3202258/0/en/Menlo-Ventures-2025-State-of-Generative-AI-Report-Enterprise-Investment-Hit-37B-in-2025-Tripling-in-One-Year.html
 [^9]: "Grow Therapy Raises $150 Million in Series D." PR Newswire, March 3, 2026. https://www.prnewswire.com/news-releases/grow-therapy-raises-150-million-in-series-d-as-it-solidifies-new-flagship-partnerships-302702388.html
 [^10]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
+[^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/

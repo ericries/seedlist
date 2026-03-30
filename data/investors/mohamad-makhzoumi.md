@@ -3,9 +3,9 @@ check_size: $2M-$50M
 firm: nea
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Strive Health
-  date: 2025-09-09
-  round: Series D
+  company: Qualified Health
+  date: 2026-03-25
+  round: Series B
 location: Menlo Park, CA
 name: Mohamad Makhzoumi
 role: Co-CEO
@@ -102,6 +102,7 @@ Based on 22 verified investments (current and past), Makhzoumi's actual investme
 | Vantage Oncology | ~2011 | Unknown (past) | [^4] |
 | Comprehensive Pharmacy Services | ~2021 | Unknown | [^5] |
 | Nova Medical Centers | ~2011 | Unknown | [^4] |
+| Qualified Health | 2026 | Series B (led) | [^25] |
 
 This table represents Makhzoumi's known direct investments and board positions. Years marked with "~" indicate estimates based on the earliest press release confirming the board seat or investment. Past investments (Bravo Health, CHG Healthcare, DSI Renal, Vantage Oncology) represent exits.
 
@@ -155,3 +156,4 @@ No independently sourced founder testimonials found. While Makhzoumi has long-st
 [^22]: CNBC, "Silicon Valley venture fund NEA scoops up primary care clinics from DaVita for around $100 million," June 6, 2018. https://www.cnbc.com/2018/06/06/nea-buys-davitas-paladina-health-for-around-100-million.html
 [^23]: PR Newswire, "Frazier Healthcare and NEA Announce Partnership to Acquire 30 Dialysis Clinics, Launch DSI," October 2011. https://www.prnewswire.com/news-releases/frazier-healthcare-and-nea-announce-partnership-to-acquire-30-dialysis-clinics-launch-dsi-130975528.html
 [^24]: Strive Health press release, "Strive Health Raises $166 Million in Series C Funding from NEA, CVS Health Ventures and Others," May 31, 2023. https://strivehealth.com/news/strive-health-raises-166-million-in-series-c-funding-from-nea-cvs-health-ventures-and-others/
+[^25]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/
