@@ -113,9 +113,9 @@ The following table includes investments made both through Acrew Capital funds (
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Aembit | Series A | 2024 | Data & Security | Active | [^15] |
-| Aira | Early | ~2020 | Data & Security | Active | [^12] |
-| Alix | Early | ~2020 | Fintech | Active | [^12] |
+| Aembit | Series A (led, $25M) | 2024 | Data & Security | Active | [^15] |
+| Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
+| Alix | Series A (led, $20M) | 2025 | Fintech / Estate Settlement | Active | [^23][^24] |
 | AltoIRA | Early | ~2020 | Fintech | Active | [^12] |
 | Amino | Early | ~2019 | Health | Active | [^12] |
 | Aqua Security | Growth | 2021 | Data & Security | Active | [^12] |
@@ -236,3 +236,7 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^18]: MedCity News, "Why we invested in Eden Health," August 2020. https://medcitynews.com/2020/08/why-we-invested-in-eden-health/
 [^19]: Acrew Capital, Theresia Gouw team member page, accessed March 2026. https://www.acrewcapital.com/team-members/theresia-gouw
 [^20]: Acrew Capital on LinkedIn, "Radiant Security Secures $15 Million," November 2023. https://www.linkedin.com/posts/acrew-capital_radiant-security-secures-15-million-to-meet-activity-7130223661076119552-vn7n
+[^21]: PR Newswire, "Aira Technologies Raises $13M in Equity Financing to Supercharge Wireless Using AI," September 16, 2021. https://www.prnewswire.com/news-releases/aira-technologies-raises-13m-in-equity-financing-to-supercharge-wireless-using-ai-301378312.html
+[^22]: Aira Technologies press release, "Aira Technologies Raises $14.5 Million Series B From AT&T Ventures, Intel Capital and In-Q-Tel (IQT)," November 20, 2024. https://aira-technology.com/aira-technologies-raises-14-5-million-series-b-from-att-ventures-intel-capital-and-in-q-tel-iqt-to-accelerate-ran-automation-using-genai/
+[^23]: Pulse2, "Alix: $20 Million Series A Closed For Transforming Estate Settlement," July 22, 2025. https://pulse2.com/alix-20-million-series-a-closed-for-transforming-estate-settlement/
+[^24]: TechCrunch, "Chime backer Lauren Kolodny bets on AI to revolutionize estate processing," July 24, 2025. https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/
