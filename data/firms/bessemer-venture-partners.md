@@ -123,7 +123,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Shopify | Early | 2010 | E-commerce/Cloud | [^9] |
+| Shopify | Series A ($7M, led) | 2010 | E-commerce/Cloud | [^9][^16][^17] |
 | LinkedIn | Early | 2006 | Consumer/Social | [^9][^1] |
 | Pinterest | Early | 2011 | Consumer | [^9] |
 | Twilio | Early | 2009 | Developer/Cloud | [^9] |
@@ -198,3 +198,5 @@ However, founder experiences are not universally positive. One founder reported 
 [^13]: VCSheet, "Bessemer Venture Partners - VC Fund Breakdown," accessed March 2026. https://www.vcsheet.com/fund/bessemer-venture-partners
 [^14]: SuperScout, "Bessemer Venture Partners: The Early Stage Founder's Guide," accessed March 2026. https://superscout.co/investor/bvp
 [^15]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
+[^16]: Shopify newsroom, "Shopify Announces $7 Million Series A Funding," December 13, 2010. Bessemer, FirstMark, Felicis. https://www.shopify.com/news/shopify-announces-7-million-series-a-funding
+[^17]: Bessemer Venture Partners, "Shopify Investment Memo," accessed March 2026. BVP invested $5M at $25M pre-money. https://www.bvp.com/memos/shopify

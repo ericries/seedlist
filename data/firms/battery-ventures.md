@@ -82,7 +82,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Coinbase | Growth | 2013 | Fintech | IPO (2021) | [^7][^4] |
+| Coinbase | Series D ($100M round, IVP led) | 2017 | Fintech | IPO (2021) | [^7][^4][^14][^15] |
 | Wayfair | Growth | 2011 | E-commerce | IPO (2014) | [^3] |
 | Affirm | Growth | 2019 | Fintech | IPO (2021) | [^4][^7] |
 | Groupon | Growth | 2010 | Consumer | IPO (2011) | [^3][^7] |
@@ -142,3 +142,5 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^10]: Battery Ventures website, "Marcus Ryu" profile, accessed March 2026. https://www.battery.com/people/marcus-ryu/
 [^11]: "Fundamental Announces $255M in Funding and Publicly Launches its Most Powerful Large Tabular Model." BusinessWire, February 5, 2026. https://www.businesswire.com/news/home/20260205966141/en/Fundamental-Announces-$255M-in-Funding-and-Publicly-Launches-its-Most-Powerful-Large-Tabular-Model-LTM
 [^12]: "Nexthop AI launches with $110m funding round." DataCenterDynamics, accessed March 2026. https://www.datacenterdynamics.com/en/news/nexthop-ai-launches-with-110m-funding-round/
+[^14]: Coinbase blog, "Coinbase raises $100M Series D led by IVP," January 2017. Battery Ventures participated alongside Spark Capital, Greylock. https://www.coinbase.com/blog/coinbase-raises-100m-series-d-led-by-ivp
+[^15]: Battery Ventures portfolio page for Coinbase, "Invested 2017, Growth stage, Roger Lee," accessed March 2026. https://www.battery.com/company/coinbase/

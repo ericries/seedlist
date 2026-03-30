@@ -65,7 +65,7 @@ Based on 16 verified portfolio investments, the following patterns emerge. Note:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Instagram | Seed | ~2010 | Photo sharing | Acquired (Facebook, $1B, 2012) | [^2] |
+| Instagram | Seed ($500K, co-invested with a16z) | 2010 | Photo sharing | Acquired (Facebook, $1B, 2012) | [^2][^6][^7] |
 | Twitter | Seed | ~2007 | Social media | IPO | [^2] |
 | Heroku | Seed | ~2008 | Developer tools | Acquired (Salesforce) | [^2] |
 | ExactTarget | Seed | ~2008 | Marketing SaaS | Acquired (Salesforce) | [^2][^5] |
@@ -105,3 +105,5 @@ No independently sourced founder testimonials found. Anderson's portfolio founde
 [^3]: VCSheet, "Baseline Ventures - VC Fund Breakdown," accessed March 2026. https://www.vcsheet.com/fund/baseline-ventures
 [^4]: VCSheet, "Steve Anderson (Baseline Ventures)," accessed March 2026. https://www.vcsheet.com/who/steve-anderson
 [^5]: Bold Business, "Bold Leader Spotlight: Steven Anderson, Founder Baseline Ventures," accessed March 2026. https://insights.boldbusiness.com/human-achievement/bold-leader-spotlight-steven-anderson-founder-baseline-ventures
+[^6]: TechCrunch, "Andreessen Horowitz Made $78M Off $250,000 Investment in Instagram," April 22, 2012. Confirms $500K seed round split between Baseline and a16z (March 2010). https://techcrunch.com/2012/04/22/andreessen-horowitz-made-78m-off-250000-investment-in-instagram/
+[^7]: Baseline Ventures founder page, confirms "seed investor in Instagram," accessed March 2026. https://www.baselinev.com/founder/
