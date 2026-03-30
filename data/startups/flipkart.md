@@ -1,9 +1,9 @@
 ---
 acquired_by: Walmart (77% stake, 2018)
 firms:
-- round: Series A
+- round: Seed
   slug: accel
-  year: 2009
+  year: 2008
 - round: Series B
   slug: tiger-global
   year: 2010

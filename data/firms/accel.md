@@ -188,9 +188,9 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Dropbox | Series A | 2008 | Cloud/Consumer | [^6][^18][^19] |
 | Spotify | Series D | 2011 | Consumer/Music | [^6][^21][^22] |
 | Atlassian | Growth ($60M) | 2010 | Enterprise | [^6][^23][^24] |
-| Flipkart | Early | 2009 | E-commerce | [^6] |
-| CrowdStrike | Early | 2013 | Cybersecurity | [^6] |
-| Qualtrics | Growth | 2012 | Enterprise | [^6] |
+| Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |
+| CrowdStrike | Series B ($30M, led) | 2013 | Cybersecurity | [^6][^27][^28] |
+| Qualtrics | Series A ($70M, co-led with Sequoia) | 2012 | Enterprise | [^6][^29][^30] |
 | Etsy | Early | 2008 | E-commerce | [^6] |
 | Braintree/Venmo | Early | 2011 | Fintech | [^6] |
 | Supercell | Early | 2011 | Gaming | [^6] |
@@ -257,3 +257,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^22]: AllThingsD, "Spotify Raises $100 Million from DST, Kleiner Perkins, Accel," June 17, 2011. Confirms ~$100M round at ~$1B valuation. https://allthingsd.com/20110617/spotify-gearing-up-for-u-s-launch-closes-its-1-billion-round/
 [^23]: Atlassian blog, "Atlassian Closes $60 Million Investment from Accel Partners," July 14, 2010. Rich Wong joined board. https://www.atlassian.com/blog/news/2010/07/atlassian_closes_60_million_investment_from_accel_partners
 [^24]: TechCrunch, "Product Management Software Company Atlassian Takes A Huge, $60 Million First Round Of Funding From Accel," July 14, 2010. https://techcrunch.com/2010/07/14/atlassian-accel-60-million/
+[^25]: Accel portfolio page for Flipkart, "Initial Investment: Seed in 2008" (partners: Subrata Mitra, Sameer Gandhi), accessed March 2026. https://www.accel.com/relationships/flipkart
+[^26]: Accel blog, "Flipkart: From an Accel-led $800K seed in 2008 to $4B+ in cash in 2017," accessed March 2026. https://www.accel.com/noteworthies/flipkart-from-an-accel-led-800k-seed-in-2008-to-4b-in-cash-in-2017
+[^27]: PR Newswire, "CrowdStrike Closes $30 Million In Series B Financing, Led By Accel Partners," September 9, 2013. Sameer Gandhi joined board. https://www.prnewswire.com/news-releases/crowdstrike-closes-30-million-in-series-b-financing-led-by-accel-partners-222947391.html
+[^28]: Accel portfolio page for CrowdStrike, "Initial Investment in 2013" (partner: Sameer Gandhi), accessed March 2026. https://www.accel.com/relationships/crowdstrike
+[^29]: TechCrunch, "Qualtrics Raises $70M From Accel And Sequoia," May 15, 2012. Largest joint investment by the two firms. https://techcrunch.com/2012/05/15/qualtrics-raises-70m-accel-sequoia/
+[^30]: Accel portfolio page for Qualtrics, "Initial Investment: Series A in 2012" (partner: Ryan Sweeney), accessed March 2026. https://www.accel.com/relationships/qualtrics
