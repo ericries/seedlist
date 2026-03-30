@@ -481,6 +481,8 @@ The Round Feed (`/rounds.html`) shows a reverse-chronological feed of startup fu
 6. **TechStartups daily roundup** — `site:techstartups.com "top tech news today"` — aggregates funding news
 7. General: `startup funding round announcement today {current_date}`
 
+**Accessing paywalled newsletters:** Some sources (Fortune Term Sheet, Axios Pro Rata, The Information) may be paywalled. Use `archive.is` or `archive.org` to access the content when direct fetch fails. **Always cite the original source URL** (e.g., `fortune.com/...`), not the archive URL — give proper credit to the publisher.
+
 #### What to capture for each round
 
 For each funding round found:
