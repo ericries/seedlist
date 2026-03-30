@@ -191,9 +191,9 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |
 | CrowdStrike | Series B ($30M, led) | 2013 | Cybersecurity | [^6][^27][^28] |
 | Qualtrics | Series A ($70M, co-led with Sequoia) | 2012 | Enterprise | [^6][^29][^30] |
-| Etsy | Early | 2008 | E-commerce | [^6] |
-| Braintree/Venmo | Early | 2011 | Fintech | [^6] |
-| Supercell | Early | 2011 | Gaming | [^6] |
+| Etsy | Series D ($27M, led) | 2008 | E-commerce | [^6][^31][^32] |
+| Braintree | Series A ($34M, led) | 2011 | Fintech | [^33][^34] |
+| Supercell | Series A ($12M, led) | 2011 | Gaming | [^35][^36] |
 | Scale AI | Early | 2017 | AI/Data | [^12] |
 | Perplexity | Growth | 2024 | AI | [^9] |
 | Anysphere (Cursor) | Early | 2024 | AI/Developer Tools | [^9] |
@@ -263,3 +263,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^28]: Accel portfolio page for CrowdStrike, "Initial Investment in 2013" (partner: Sameer Gandhi), accessed March 2026. https://www.accel.com/relationships/crowdstrike
 [^29]: TechCrunch, "Qualtrics Raises $70M From Accel And Sequoia," May 15, 2012. Largest joint investment by the two firms. https://techcrunch.com/2012/05/15/qualtrics-raises-70m-accel-sequoia/
 [^30]: Accel portfolio page for Qualtrics, "Initial Investment: Series A in 2012" (partner: Ryan Sweeney), accessed March 2026. https://www.accel.com/relationships/qualtrics
+[^31]: TechCrunch, "Etsy Raises $27 Million; Accel's Jim Breyer Joins Board," January 30, 2008. Confirms Series D round led by Accel; Jim Breyer joined board. https://techcrunch.com/2008/01/30/etsy-raises-27-million-accels-jim-breyer-joins-board/
+[^32]: Accel portfolio page for Etsy, "Initial Investment in 2008" (partners: Andrew Braccia, Kevin Comolli), accessed March 2026. https://www.accel.com/relationships/etsy
+[^33]: PR Newswire, "Braintree Raises $34MM Series A From Accel Partners," June 29, 2011. Ryan Sweeney joined Braintree's board. https://www.prnewswire.com/news-releases/braintree-raises-34mm-series-a-from-accel-partners-124718668.html
+[^34]: TechCrunch, "Accel Puts $34 Million In Online Payments Platform Braintree," June 29, 2011. https://techcrunch.com/2011/06/29/accel-puts-34-million-in-online-payments-platform-braintree/
+[^35]: TechCrunch, "Supercell Raises $12M From Accel Partners To Power Social Web Games," May 26, 2011. Kevin Comolli led; London Venture Partners also participated. https://techcrunch.com/2011/05/26/supercell-raises-12m-from-accel-partners-to-power-social-web-games/
+[^36]: Accel portfolio page for Supercell, "Initial Investment: Series A in 2011" (partner: Kevin Comolli), accessed March 2026. https://www.accel.com/relationships/supercell
