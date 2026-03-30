@@ -1,22 +1,26 @@
 ---
-name: Starcloud
-slug: starcloud
-type: startup
-website: null
-location: null
+firms: []
 founded: null
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-03-30
+location: null
+name: Starcloud
+pending_sources:
+- added: '2026-03-30'
+  status: queued
+  url: https://www.reuters.com/business/retail-consumer/starcloud-reaches-11-billion-valuation-ai-space-race-heats-up-2026-03-30/
 sector:
 - space
 - ai
 - infrastructure
+slug: starcloud
 stage_latest: Equity Funding
-total_raised: $170M
-investors: []
-firms: []
-founders: []
 status: published
-last_researched: 2026-03-30
+status_company: active
+total_raised: $170M
+type: startup
+website: null
 ---
 
 ## About
