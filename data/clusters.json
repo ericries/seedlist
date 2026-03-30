@@ -3072,17 +3072,12 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 17,
+      "size": 10,
       "members": [
         {
           "slug": "alex-ferrara",
           "name": "Alex Ferrara",
           "firm": "bessemer-venture-partners"
-        },
-        {
-          "slug": "andrew-braccia",
-          "name": "Andrew Braccia",
-          "firm": "accel"
         },
         {
           "slug": "daniel-ek",
@@ -3110,16 +3105,6 @@
           "firm": "sequoia-capital"
         },
         {
-          "slug": "martin-mignot",
-          "name": "Martin Mignot",
-          "firm": "index-ventures"
-        },
-        {
-          "slug": "mike-volpi",
-          "name": "Mike Volpi",
-          "firm": "index-ventures"
-        },
-        {
           "slug": "neil-rimer",
           "name": "Neil Rimer",
           "firm": "index-ventures"
@@ -3130,29 +3115,9 @@
           "firm": "quantumlight"
         },
         {
-          "slug": "ping-li",
-          "name": "Ping Li",
-          "firm": "accel"
-        },
-        {
-          "slug": "rich-wong",
-          "name": "Rich Wong",
-          "firm": "accel"
-        },
-        {
-          "slug": "sameer-gandhi",
-          "name": "Sameer Gandhi",
-          "firm": "accel"
-        },
-        {
           "slug": "shakil-khan",
           "name": "Shakil Khan",
           "firm": "prima-materia"
-        },
-        {
-          "slug": "shardul-shah",
-          "name": "Shardul Shah",
-          "firm": "index-ventures"
         },
         {
           "slug": "sonali-de-rycker",
