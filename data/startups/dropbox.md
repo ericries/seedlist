@@ -33,6 +33,9 @@ firms:
 - round: Angel/Advisor
   slug: neo
   year: 2007
+- round: Angel
+  slug: af-square
+  year: 2012
 founded: 2007
 founders:
 - name: Drew Houston
@@ -73,6 +76,9 @@ investors:
 - round: Angel/Advisor
   slug: ali-partovi
   year: 2007
+- round: Angel
+  slug: troy-carter
+  year: 2012
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Dropbox

@@ -135,6 +135,9 @@ firms:
 - round: Angel
   slug: neo
   year: 2010
+- round: Angel
+  slug: af-square
+  year: 2011
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -247,6 +250,9 @@ investors:
 - round: Angel
   slug: ali-partovi
   year: 2010
+- round: Angel
+  slug: troy-carter
+  year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

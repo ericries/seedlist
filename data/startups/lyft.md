@@ -33,6 +33,9 @@ firms:
 - round: Seed
   slug: collaborative-fund
   year: 2011
+- round: Angel
+  slug: af-square
+  year: 2012
 founded: 2012
 founders:
 - name: Logan Green
@@ -79,6 +82,9 @@ investors:
 - round: Seed
   slug: craig-shapiro
   year: 2011
+- round: Angel
+  slug: troy-carter
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft

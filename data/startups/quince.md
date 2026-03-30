@@ -1,17 +1,4 @@
 ---
-name: Quince
-slug: quince
-type: startup
-website: https://www.onquince.com
-location: San Francisco, CA
-founded: 2018
-status_company: active
-sector:
-- e-commerce
-- consumer
-stage_latest: Series E
-total_raised: $500M+
-investors: []
 firms:
 - round: series-e
   slug: iconiq
@@ -34,9 +21,37 @@ firms:
 - round: series-e
   slug: wndrco
   year: 2026
+- round: ~2021
+  slug: benchmark
+  year: 2021
+- round: Early
+  slug: fj-labs
+  year: 2022
+founded: 2018
 founders: []
+investors:
+- round: Growth
+  slug: hans-tung
+  year: 2020
+- round: ~2021
+  slug: everett-randle
+  year: 2021
+- round: Early
+  slug: fabrice-grinda
+  year: 2022
 last_researched: 2026-03-30
-status: draft
+location: San Francisco, CA
+name: Quince
+sector:
+- e-commerce
+- consumer
+slug: quince
+stage_latest: Series E
+status: published
+status_company: active
+total_raised: $500M+
+type: startup
+website: https://www.onquince.com
 ---
 
 ## About

@@ -634,7 +634,7 @@ queue:
   discovered_from: mike-maples
   discovery_depth: 1
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-13
 - name: Hebbia
   type: startup
@@ -4748,7 +4748,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Emily Kirsch
   type: individual
@@ -4812,7 +4812,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Sarah Kunst
   type: individual
@@ -5496,13 +5496,13 @@ queue:
 - name: QED Investors
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: credit-karma
 - name: CapitalG
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: credit-karma
 - name: Fred Wilson
@@ -5642,13 +5642,13 @@ queue:
 - name: Balderton Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: revolut
 - name: BoxGroup
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ramp
 - name: Fred Ehrsam
@@ -5914,7 +5914,7 @@ queue:
 - name: ICONIQ Growth
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: elevenlabs
 - name: Jim Breyer
@@ -7618,7 +7618,7 @@ queue:
 - name: Troy Carter
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ryan-hoover
 - name: Ali Partovi
@@ -7767,3 +7767,213 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: deccan-ai
+- name: Construct Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hadrian
+- name: Brandon Reeves
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lux Capital
+  discovered_from: hadrian
+- name: Bernard Liautaud
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balderton Capital
+  discovered_from: balderton-capital
+- name: Suranga Chandratillake
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balderton Capital
+  discovered_from: balderton-capital
+- name: Rob Moffat
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balderton Capital
+  discovered_from: balderton-capital
+- name: Daniel Waterhouse
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balderton Capital
+  discovered_from: balderton-capital
+- name: James Wise
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balderton Capital
+  discovered_from: balderton-capital
+- name: Rana Yared
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balderton Capital
+  discovered_from: balderton-capital
+- name: Pale Blue Dot
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hampus-jakobsson
+- name: Heidi Lindvall
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pale Blue Dot
+  discovered_from: hampus-jakobsson
+- name: Joel Larsson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pale Blue Dot
+  discovered_from: hampus-jakobsson
+- name: David Helgason
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hampus-jakobsson
+- name: Laela Sturdy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CapitalG
+  discovered_from: capitalg
+- name: Gene Frantz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CapitalG
+  discovered_from: capitalg
+- name: Derek Zanutto
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CapitalG
+  discovered_from: capitalg
+- name: Jesse Wedler
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CapitalG
+  discovered_from: capitalg
+- name: Jill Chase
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CapitalG
+  discovered_from: capitalg
+- name: James Luo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CapitalG
+  discovered_from: capitalg
+- name: Suzy Ryoo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Q&A
+  discovered_from: troy-carter
+- name: AF Square
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: troy-carter
+- name: Will Griffith
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: ICONIQ Growth
+  discovered_from: iconiq-growth
+- name: Matt Jacobson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: ICONIQ Growth
+  discovered_from: iconiq-growth
+- name: Divesh Makan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: ICONIQ Capital
+  discovered_from: iconiq-growth
+- name: Ganas Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lolita-taub
+- name: Arlan Hamilton
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Backstage Capital
+  discovered_from: lolita-taub
+- name: Backstage Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lolita-taub
+- name: Amias Gerety
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: QED Investors
+  discovered_from: qed-investors
+- name: David Tisch
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: BoxGroup
+  discovered_from: boxgroup
+- name: Adam Rothenberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: BoxGroup
+  discovered_from: boxgroup
+- name: Nimi Katragadda
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BoxGroup
+  discovered_from: boxgroup
+- name: Nubank
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qed-investors

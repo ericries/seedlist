@@ -14,7 +14,7 @@ investors: []
 firms: []
 founders: []
 last_researched: 2026-03-30
-status: draft
+status: published
 ---
 
 ## About

@@ -105,6 +105,9 @@ firms:
 - round: Angel
   slug: outlander-vc
   year: 2012
+- round: Early Stage
+  slug: af-square
+  year: 2015
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -213,6 +216,9 @@ investors:
 - round: Angel
   slug: paige-craig
   year: 2012
+- round: Early Stage
+  slug: troy-carter
+  year: 2015
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

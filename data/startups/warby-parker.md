@@ -48,6 +48,9 @@ firms:
 - round: Seed
   slug: a24
   year: 2010
+- round: Angel
+  slug: af-square
+  year: 2012
 founded: 2010
 founders:
 - name: Neil Blumenthal
@@ -100,6 +103,9 @@ investors:
   year: 2010
 - round: Seed
   slug: eric-hippeau
+  year: 2012
+- round: Angel
+  slug: troy-carter
   year: 2012
 last_researched: 2026-03-20
 location: New York, NY

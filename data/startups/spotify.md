@@ -57,6 +57,9 @@ firms:
 - round: Growth (direct listing NYSE 2018)
   slug: breyer-capital
   year: 2011
+- round: Angel
+  slug: af-square
+  year: 2012
 founded: 2006
 founders:
 - name: Daniel Ek
@@ -109,6 +112,9 @@ investors:
 - round: Series A (led, first VC)
   slug: par-jorgen-parson
   year: 2008
+- round: Angel
+  slug: troy-carter
+  year: 2012
 last_researched: 2026-03-19
 location: Stockholm, Sweden
 name: Spotify
