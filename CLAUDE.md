@@ -473,12 +473,13 @@ The Round Feed (`/rounds.html`) shows a reverse-chronological feed of startup fu
 
 #### Primary data sources (check daily)
 
-1. **Term Sheet newsletter** (Fortune) — `site:fortune.com "term sheet"` — daily VC deal roundup
-2. **Pro Rata newsletter** (Axios) — `site:axios.com "pro rata"` — daily funding news
+1. **Axios Pro Rata** (MUST CHECK EVERY RUN) — Search `site:axios.com "pro rata" venture capital deals` for the latest edition. The direct URL may be paywalled; search for Dan Primack's deal listings. Also check `site:axios.com/pro` for Pro Rata Premium scoops. This is the single best daily source for US VC deals.
+2. **Term Sheet newsletter** (Fortune) — `site:fortune.com "term sheet"` — daily VC deal roundup
 3. **TechCrunch** — `site:techcrunch.com "raises" OR "funding"` (last 24 hours)
 4. **Crunchbase News** — `site:news.crunchbase.com "funding"` (last 24 hours)
 5. **The Information** — `site:theinformation.com "raises"` (last 24 hours)
-6. General: `startup funding round announcement today {current_date}`
+6. **TechStartups daily roundup** — `site:techstartups.com "top tech news today"` — aggregates funding news
+7. General: `startup funding round announcement today {current_date}`
 
 #### What to capture for each round
 

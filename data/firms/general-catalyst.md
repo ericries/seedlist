@@ -214,8 +214,9 @@ The following table includes 65 verified investments sourced from General Cataly
 | Moda | Seed (led) | 2026 | AI / Design | Private [^37] |
 | Adonis | Series B | ~2025 | Healthcare / AI RCM | Private [^38] |
 | Legora | Series D | 2026 | AI / Legal Tech | Private [^39] |
+| Conntour | Seed | 2026 | AI / Security / Video Intelligence | Private [^40] |
 
-*Note: This table includes 68 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 7% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
+*Note: This table includes 69 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 7% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
 ## In Their Own Words
 
@@ -339,3 +340,5 @@ No independently sourced founder testimonials were found in this research pass. 
 
 [^38]: "Adonis Raises $40M Series C to Equip Healthcare Providers with AI-Driven Revenue Cycle Operations." PR Newswire, March 25, 2026. https://www.prnewswire.com/news-releases/adonis-raises-40m-series-c-to-equip-healthcare-providers-with-aidriven-revenue-cycle-operations-302722199.html
 [^39]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
+
+[^40]: TechCrunch, "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems," March 26, 2026. https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/
