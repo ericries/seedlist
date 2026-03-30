@@ -143,6 +143,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Headway | Early | 2019 | Healthcare | [^9] |
 | Handshake | Early | 2016 | Consumer/Jobs | [^9] |
 | Granola | Early | 2024 | AI/Productivity | [^9] |
+| Shepherd | Series B | 2026 | Insurtech/AI | [^12] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -173,3 +174,4 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^9]: Spark Capital, "Companies," accessed March 2026. https://www.sparkcapital.com/companies
 [^10]: The Twenty Minute VC, "Nabeel Hyatt, GP @ Spark Capital: To Win in AI, Investors Need to Change Their Approach," accessed March 2026. https://www.thetwentyminutevc.com/nabeel-hyatt
 [^11]: All Blue Labs, "Nabeel Hyatt from Spark Capital - VC Guide," accessed March 2026. https://www.allbluelabs.com/reviews/rec8z9n69Ot2r6ZFS?Item+ID=5f925e7358be220b450659a3&Item+Name=rec8z9n69Ot2r6ZFS
+[^12]: "Shepherd Raises $42M Series B to Power the Insurance Behind AI Infrastructure Boom," PR Newswire, March 24, 2026. https://www.prnewswire.com/news-releases/shepherd-raises-42m-series-b-to-power-the-insurance-behind-ai-infrastructure-boom-302723122.html
