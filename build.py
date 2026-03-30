@@ -802,6 +802,45 @@ def linkify_profile_content(html, startup_lookup, investor_lookup, firm_lookup):
     return re.sub(r'<td>(.*?)</td>', replace_in_td, html)
 
 
+def linkify_footnote_urls(html):
+    """Convert bare URLs in footnote sections to clickable links.
+
+    The markdown footnotes extension renders URLs as plain text.
+    This post-processor finds bare https:// URLs inside footnote <li> elements
+    and wraps them in <a> tags.
+    """
+    if not html or '<div class="footnote">' not in html:
+        return html
+
+    def replace_bare_url(match):
+        url = match.group(0)
+        # Don't double-link: check if already inside an <a> tag
+        # We check by looking at what precedes the URL in the original html
+        return f'<a href="{url}" target="_blank" rel="noopener">{url}</a>'
+
+    # Only process the footnote section
+    footnote_start = html.find('<div class="footnote">')
+    if footnote_start == -1:
+        return html
+
+    before = html[:footnote_start]
+    footnotes = html[footnote_start:]
+
+    # Match bare URLs not already inside href="..." or <a>...</a>
+    # Pattern: https://... that is NOT preceded by href=" or ">
+    def replace_bare_url_clean(match):
+        url = match.group(1).rstrip('&#160;').rstrip(';').rstrip('&')
+        return f'<a href="{url}" target="_blank" rel="noopener">{url}</a>'
+
+    footnotes = re.sub(
+        r'(?<!href=")(?<!">)(https?://[^\s<>"\')\]]+)',
+        replace_bare_url_clean,
+        footnotes
+    )
+
+    return before + footnotes
+
+
 def build():
     """Build the static site."""
     # Clean output
@@ -904,11 +943,12 @@ def build():
     for p in startups:
         p["profile_depth"] = compute_profile_depth(p, "startup")
 
-    # Auto-link entity names in profile body content
+    # Auto-link entity names in profile body content + footnote URLs
     for p in investors + firms + startups:
         p["content"] = linkify_profile_content(
             p.get("content", ""), startup_lookup, investor_lookup, firm_lookup
         )
+        p["content"] = linkify_footnote_urls(p.get("content", ""))
 
     # Build cluster lookup for investor pages
     similar_investors_map = clusters_data.get("similar_investors", {})
