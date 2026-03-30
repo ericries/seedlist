@@ -51,6 +51,9 @@ firms:
 - round: Angel
   slug: af-square
   year: 2012
+- round: Seed
+  slug: boxgroup
+  year: 2011
 founded: 2010
 founders:
 - name: Neil Blumenthal
@@ -107,6 +110,9 @@ investors:
 - round: Angel
   slug: troy-carter
   year: 2012
+- round: Seed
+  slug: david-tisch
+  year: 2011
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker

@@ -1,39 +1,42 @@
 ---
-name: "Mischief"
-slug: mischief
-type: firm
-website: "https://www.mischief.vc/"
-location: "San Francisco, CA"
 founded: 2021
-fund_size: "$110M+ total AUM; Fund I $30M (2021); Fund II $80M (2024)"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-sector_focus:
-  - fintech
-  - infrastructure
-  - developer-tools
-  - healthcare
-  - crypto
-  - climate
-  - consumer
-  - saas
-team:
-  - name: Zach Perret
-    role: Co-Founder & General Partner
-    slug: zach-perret
-  - name: Lauren Farleigh
-    role: Co-Founder & General Partner
-    slug: lauren-farleigh
-  - name: Dustin Moring
-    role: Co-Founder & General Partner
-    slug: dustin-moring
-  - name: Nate Abbott
-    role: General Partner
-    slug: nate-abbott
-status: draft
+fund_size: $110M+ total AUM; Fund I $30M (2021); Fund II $80M (2024)
 last_researched: 2026-03-30
+location: San Francisco, CA
+name: Mischief
+sector_focus:
+- fintech
+- infrastructure
+- developer-tools
+- healthcare
+- crypto
+- climate
+- consumer
+- saas
+slug: mischief
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Zach Perret
+  role: Co-Founder & General Partner
+  slug: zach-perret
+- name: Lauren Farleigh
+  role: Co-Founder & General Partner
+  slug: lauren-farleigh
+- name: Dustin Moring
+  role: Co-Founder & General Partner
+  slug: dustin-moring
+- name: Nate Abbott
+  role: General Partner
+  slug: nate-abbott
+- name: Zach Perret
+  role: Co-Founder & Managing Director
+  slug: zach-perrett
+type: firm
+website: https://www.mischief.vc/
 ---
 
 ## About

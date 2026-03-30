@@ -72,6 +72,12 @@ firms:
 - round: Early
   slug: 500-global
   year: 2011
+- round: Early Stage
+  slug: boxgroup
+  year: 2015
+- round: Series D
+  slug: capitalg
+  year: 2016
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -163,6 +169,12 @@ investors:
 - round: Early
   slug: dave-mcclure
   year: 2011
+- round: Early Stage
+  slug: david-tisch
+  year: 2015
+- round: Series D
+  slug: laela-sturdy
+  year: 2016
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

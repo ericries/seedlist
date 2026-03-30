@@ -888,6 +888,65 @@ def _process_pending_files():
         completions_path.unlink()
 
 
+def _ensure_pending_sources_queued():
+    """Check all profiles for pending_sources with status: queued.
+
+    If a profile has queued pending sources and is not already in the research queue,
+    add it so agents will pick it up and incorporate the user-submitted URLs.
+    This ensures no user-submitted source URL is ever lost or forgotten.
+    """
+    queue_data = load_queue()
+    queue_items = queue_data.get("queue", [])
+    existing_queue_slugs = set()
+    for item in queue_items:
+        s = re.sub(r'[^a-z0-9]+', '-', item.get("name", "").lower()).strip('-')
+        existing_queue_slugs.add(s)
+        # Also check if already completed or in_progress — skip those
+    pending_in_queue = {
+        re.sub(r'[^a-z0-9]+', '-', item.get("name", "").lower()).strip('-')
+        for item in queue_items
+        if item.get("status") in ("pending", "in_progress")
+    }
+
+    type_map = {"investors": "individual", "firms": "firm", "startups": "startup"}
+    added = 0
+
+    for subdir in ["investors", "firms", "startups"]:
+        for md_file in sorted((DATA / subdir).glob("*.md")):
+            try:
+                post = frontmatter.load(str(md_file))
+            except Exception:
+                continue
+            pending = post.metadata.get("pending_sources") or []
+            has_queued = any(
+                isinstance(s, dict) and s.get("status") == "queued"
+                for s in pending
+            )
+            if not has_queued:
+                continue
+
+            slug = md_file.stem
+            if slug in pending_in_queue:
+                continue  # Already queued for research
+
+            # Add to queue so agents will process the pending sources
+            name = post.metadata.get("name", slug.replace("-", " ").title())
+            queue_items.append({
+                "name": name,
+                "type": type_map.get(subdir, "individual"),
+                "source": "has user-submitted pending_sources to incorporate",
+                "priority": "high",
+                "status": "pending",
+                "added": "2026-03-30",
+            })
+            added += 1
+
+    if added:
+        queue_data["queue"] = queue_items
+        save_queue(queue_data)
+        print(f"Pending sources: queued {added} profiles for re-research")
+
+
 def cmd_post_batch():
     """Complete post-agent workflow in one shot:
     1. Process pending queue additions from data/.pending-queue-adds.yaml
@@ -903,6 +962,9 @@ def cmd_post_batch():
     """
     # Step 1-2: Process pending action files
     _process_pending_files()
+
+    # Step 2.5: Check for profiles with queued pending_sources and ensure they're in queue
+    _ensure_pending_sources_queued()
 
     # Step 3: Find all drafts
     drafts = []

@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@lsturdy1"
   linkedin: "linkedin.com/in/laela-sturdy-376543"
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 
@@ -90,7 +90,7 @@ Sturdy's portfolio is almost entirely growth-stage, consistent with CapitalG's m
 | Whatnot | 2021 | Series C | E-commerce / Live shopping | Operating | [^20] |
 | Whatnot | 2022 | Series D | E-commerce / Live shopping | Operating | [^20] |
 | Chief | 2022 | Series B | Professional network | Operating | [^21] |
-| Curated | — | Growth | E-commerce | Acquired | [^6] |
+~unknown| Curated | — | Growth | E-commerce | Acquired | [^6] |
 | Whatnot | 2025 | Series F | E-commerce / Live shopping | Operating | [^22] |
 | Lovable | 2025 | Series B | AI / No-code dev | Operating | [^23] |
 

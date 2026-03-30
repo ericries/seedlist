@@ -36,6 +36,9 @@ firms:
 - round: Series A
   slug: founder-collective
   year: 2016
+- round: Seed
+  slug: boxgroup
+  year: 2013
 founded: 2012
 founders:
 - name: Howie Liu
@@ -84,6 +87,9 @@ investors:
 - round: Series A
   slug: david-frankel
   year: 2016
+- round: Seed
+  slug: david-tisch
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

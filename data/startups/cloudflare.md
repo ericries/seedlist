@@ -9,6 +9,9 @@ firms:
 - round: '2011'
   slug: union-square-ventures
   year: 2011
+- round: Series D
+  slug: capitalg
+  year: 2014
 founded: 2009
 founders:
 - name: Matthew Prince
@@ -24,6 +27,9 @@ investors:
 - round: '2011'
   slug: fred-wilson
   year: 2011
+- round: Series D
+  slug: laela-sturdy
+  year: 2014
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Cloudflare

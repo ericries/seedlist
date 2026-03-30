@@ -108,6 +108,9 @@ firms:
 - round: Early Stage
   slug: af-square
   year: 2015
+- round: Series B
+  slug: capitalg
+  year: 2015
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -218,6 +221,9 @@ investors:
   year: 2012
 - round: Early Stage
   slug: troy-carter
+  year: 2015
+- round: Series B
+  slug: laela-sturdy
   year: 2015
 last_researched: 2026-03-23
 location: San Francisco, CA

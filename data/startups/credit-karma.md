@@ -76,6 +76,9 @@ investors:
 - round: Seed
   slug: christine-tsai
   year: 2012
+- round: Series C
+  slug: laela-sturdy
+  year: 2014
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Credit Karma

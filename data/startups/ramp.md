@@ -81,6 +81,9 @@ firms:
 - round: Late-stage
   slug: neo
   year: 2021
+- round: Early Stage
+  slug: boxgroup
+  year: 2020
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -156,6 +159,9 @@ investors:
 - round: Late-stage
   slug: ali-partovi
   year: 2021
+- round: Early Stage
+  slug: david-tisch
+  year: 2020
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

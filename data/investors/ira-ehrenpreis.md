@@ -27,7 +27,7 @@ last_verified_investment:
 social:
   twitter: "@IraEhrenpreis"
   linkedin: "linkedin.com/in/iraehrenpreis"
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

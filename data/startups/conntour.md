@@ -31,7 +31,7 @@ founders:
     role: CEO & Co-Founder
   - name: Tomer Kulla
     role: CTO & Co-Founder
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

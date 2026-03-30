@@ -1,8 +1,14 @@
 ---
-firms: []
+firms:
+- round: '2024'
+  slug: nfx
+  year: 2024
 founded: null
 founders: []
-investors: []
+investors:
+- round: '2024'
+  slug: morgan-beller
+  year: 2024
 last_researched: 2026-03-30
 location: null
 name: Starcloud

@@ -34,7 +34,7 @@ founders:
     role: Chief Business Officer & Co-Founder
   - name: Aayush Singhania
     role: Chief Product Officer & Co-Founder
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

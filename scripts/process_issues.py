@@ -237,10 +237,57 @@ def process_source_issues():
             ])
             continue
 
-        # --- Find profile ---
+        # --- Find or create profile ---
         profile_path = find_profile(slug)
         if profile_path is None:
-            close_issue(number, f"Profile not found: {slug}")
+            # Infer profile type from issue body, default to startup
+            inferred_type = profile_type if profile_type in ("investor", "firm", "startup") else "startup"
+            type_dir_map = {"investor": "investors", "firm": "firms", "startup": "startups"}
+            subdir = type_dir_map.get(inferred_type, "startups")
+            profile_path = DATA / subdir / f"{slug}.md"
+            profile_path.parent.mkdir(parents=True, exist_ok=True)
+
+            # Create minimal stub with pending_sources — never lose the URL
+            stub_meta = {
+                "name": slug.replace("-", " ").title(),
+                "slug": slug,
+                "type": inferred_type,
+                "status": "draft",
+                "last_researched": TODAY_STR,
+                "pending_sources": [{
+                    "url": url,
+                    "added": TODAY_STR,
+                    "status": "queued",
+                }],
+            }
+            if inferred_type == "startup":
+                stub_meta.update({"founders": [], "investors": [], "firms": [], "sector": []})
+            post_new = frontmatter.Post("", **stub_meta)
+            with open(profile_path, "w") as f:
+                f.write(frontmatter.dumps(post_new))
+
+            # Also add to research queue so agents pick it up
+            queue_data = load_queue()
+            queue_list = queue_data.get("queue", [])
+            # Dedup check
+            existing_slugs_q = {
+                re.sub(r"[^\w\-]", "-", item.get("name", "").lower()).strip("-")
+                for item in queue_list
+            }
+            if slug not in existing_slugs_q:
+                queue_list.append({
+                    "name": stub_meta["name"],
+                    "type": inferred_type,
+                    "source": f"user-submitted source URL (issue #{number})",
+                    "priority": "high",
+                    "status": "pending",
+                    "added": TODAY_STR,
+                })
+                queue_data["queue"] = queue_list
+                save_queue(queue_data)
+
+            close_issue(number, f"Created stub profile for {slug} with your source URL queued for research. Thank you for improving Seedlist!")
+            print(f"    Created stub {slug} with pending source")
             continue
 
         # --- Add to pending_sources ---

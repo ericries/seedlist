@@ -27,7 +27,7 @@ team:
     role: Partner
   - slug: andrei-kozyrev
     role: Partner
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

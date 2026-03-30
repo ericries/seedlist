@@ -51,6 +51,9 @@ firms:
 - round: Seed
   slug: neo
   year: 2022
+- round: Seed
+  slug: boxgroup
+  year: 2023
 founded: 2022
 founders:
 - name: Michael Truell
@@ -104,6 +107,9 @@ investors:
 - round: Seed
   slug: ali-partovi
   year: 2022
+- round: Seed
+  slug: david-tisch
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

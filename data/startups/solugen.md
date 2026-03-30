@@ -72,6 +72,9 @@ firms:
 - round: Series D
   slug: fifty-years
   year: 2022
+- round: Seed
+  slug: boxgroup
+  year: 2023
 founded: 2016
 founders:
 - name: Gaurab Chakrabarti
@@ -94,6 +97,9 @@ investors:
 - round: Early
   slug: brian-singerman
   year: 2019
+- round: Seed
+  slug: david-tisch
+  year: 2023
 last_researched: 2026-03-19
 location: Houston, TX
 name: Solugen

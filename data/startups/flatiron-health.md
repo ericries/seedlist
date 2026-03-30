@@ -22,6 +22,9 @@ firms:
 - round: Angel
   slug: atomic
   year: 2012
+- round: Seed
+  slug: boxgroup
+  year: 2013
 founded: 2012
 founders:
 - name: Nat Turner
@@ -47,6 +50,9 @@ investors:
 - round: Angel
   slug: jack-abraham
   year: 2012
+- round: Seed
+  slug: david-tisch
+  year: 2013
 last_researched: 2026-03-23
 location: New York, NY
 name: Flatiron Health

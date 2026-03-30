@@ -7977,3 +7977,9 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: qed-investors
+- name: Starcloud
+  type: startup
+  source: has user-submitted pending_sources to incorporate
+  priority: high
+  status: pending
+  added: '2026-03-30'

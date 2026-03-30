@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@sutiandong"
   linkedin: "linkedin.com/in/sutiandong"
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

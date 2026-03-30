@@ -48,6 +48,9 @@ firms:
 - round: Seed
   slug: felicis
   year: 2013
+- round: Seed
+  slug: boxgroup
+  year: 2013
 founded: 2013
 founders:
 - name: Zach Perret
@@ -90,6 +93,9 @@ investors:
   year: 2013
 - round: Seed
   slug: hunter-walk
+  year: 2013
+- round: Seed
+  slug: david-tisch
   year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
