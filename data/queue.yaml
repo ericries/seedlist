@@ -5793,7 +5793,7 @@ queue:
 - name: Abstract Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ramtin-naimi
 - name: Alex Davidov
@@ -5908,7 +5908,7 @@ queue:
 - name: Valor Equity Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: anduril
 - name: ICONIQ Growth
@@ -6396,7 +6396,7 @@ queue:
 - name: Mischief
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: zach-perrett
 - name: CRV
@@ -7687,7 +7687,7 @@ queue:
 - name: Ira Ehrenpreis
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: DBL Partners
   discovered_from: nancy-pfund
@@ -7726,7 +7726,7 @@ queue:
 - name: Sutian Dong
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Female Founders Fund
   discovered_from: anu-duggal
@@ -7851,7 +7851,7 @@ queue:
 - name: Laela Sturdy
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: CapitalG
   discovered_from: capitalg
@@ -7953,7 +7953,7 @@ queue:
 - name: David Tisch
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: BoxGroup
   discovered_from: boxgroup
