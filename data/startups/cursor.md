@@ -48,6 +48,9 @@ firms:
 - round: ~2022–2023
   slug: preston-werner-ventures
   year: 2022
+- round: Seed
+  slug: neo
+  year: 2022
 founded: 2022
 founders:
 - name: Michael Truell
@@ -98,6 +101,9 @@ investors:
 - round: Series D ($2.3B, Co-Led)
   slug: thomas-laffont
   year: 2025
+- round: Seed
+  slug: ali-partovi
+  year: 2022
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

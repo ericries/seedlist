@@ -1,43 +1,79 @@
 ---
-name: "Granola"
-slug: granola
-type: startup
-website: "https://granola.ai"
-location: "London, United Kingdom"
-founded: ~2023
-status_company: active
-sector: [ai, saas, enterprise]
-stage_latest: "Series C"
-total_raised: "$168M+"
-investors:
-  - slug: danny-rimer
-    round: series-c
-    year: 2026
-  - slug: mamoon-hamid
-    round: series-c
-    year: 2026
-  - slug: nat-friedman
-    round: series-b
-    year: 2025
 firms:
-  - slug: index-ventures
-    round: series-c
-    year: 2026
-  - slug: kleiner-perkins
-    round: series-c
-    year: 2026
-  - slug: nfdg
-    round: series-b
-    year: 2025
-  - slug: lightspeed-venture-partners
-    round: series-c
-    year: 2026
-  - slug: spark-capital
-    round: series-c
-    year: 2026
+- round: series-c
+  slug: index-ventures
+  year: 2026
+- round: series-c
+  slug: kleiner-perkins
+  year: 2026
+- round: series-b
+  slug: nfdg
+  year: 2025
+- round: series-c
+  slug: lightspeed-venture-partners
+  year: 2026
+- round: series-c
+  slug: spark-capital
+  year: 2026
+- round: ~2024
+  slug: anthropic
+  year: 2024
+- round: '2025'
+  slug: independent
+  year: 2025
+- round: '2025'
+  slug: ramp
+  year: 2025
+- round: Series B
+  slug: vercel
+  year: 2025
+- round: Series B
+  slug: replit
+  year: 2025
+founded: ~2023
 founders: []
-status: published
+investors:
+- round: series-c
+  slug: danny-rimer
+  year: 2026
+- round: series-c
+  slug: mamoon-hamid
+  year: 2026
+- round: series-b
+  slug: nat-friedman
+  year: 2025
+- round: ~2024
+  slug: mike-krieger
+  year: 2024
+- round: '2025'
+  slug: tobi-lutke
+  year: 2025
+- round: '2025'
+  slug: karim-atiyeh
+  year: 2025
+- round: Series B
+  slug: nabeel-hyatt
+  year: 2025
+- round: Series B
+  slug: guillermo-rauch
+  year: 2025
+- round: Series B
+  slug: amjad-masad
+  year: 2025
 last_researched: 2026-03-28
+location: London, United Kingdom
+name: Granola
+sector:
+- ai
+- saas
+- enterprise
+slug: granola
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $168M+
+type: startup
+website: https://granola.ai
 ---
 
 ## About

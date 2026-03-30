@@ -66,6 +66,12 @@ firms:
 - round: Early
   slug: 500-global
   year: 2015
+- round: Early
+  slug: kindred-ventures
+  year: 2014
+- round: Seed
+  slug: collaborative-fund
+  year: 2011
 founded: 2005
 founders:
 - name: Steve Huffman
@@ -132,6 +138,12 @@ investors:
 - round: Early
   slug: dave-mcclure
   year: 2015
+- round: Early
+  slug: kanyi-maqubela
+  year: 2014
+- round: Seed
+  slug: craig-shapiro
+  year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

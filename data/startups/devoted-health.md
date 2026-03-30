@@ -18,6 +18,9 @@ firms:
 - round: Early
   slug: edventure-holdings
   year: 2017
+- round: Seed
+  slug: indie-vc
+  year: 2017
 founded: 2017
 founders:
 - name: Todd Park
@@ -54,6 +57,9 @@ investors:
   year: 2017
 - round: Early
   slug: esther-dyson
+  year: 2017
+- round: Seed
+  slug: bryce-roberts
   year: 2017
 last_researched: 2026-03-24
 location: Waltham, Massachusetts

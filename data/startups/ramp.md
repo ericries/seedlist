@@ -78,6 +78,9 @@ firms:
 - round: '2021'
   slug: contrary-capital
   year: 2021
+- round: Late-stage
+  slug: neo
+  year: 2021
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -149,6 +152,9 @@ investors:
   year: 2021
 - round: Series B
   slug: eric-tarczynski
+  year: 2021
+- round: Late-stage
+  slug: ali-partovi
   year: 2021
 last_researched: 2026-03-20
 location: New York, NY

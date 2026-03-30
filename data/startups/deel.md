@@ -51,6 +51,9 @@ firms:
 - round: Seed
   slug: weekend-fund
   year: 2018
+- round: Growth
+  slug: neo
+  year: 2021
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -100,6 +103,9 @@ investors:
 - round: Seed
   slug: ryan-hoover
   year: 2018
+- round: Growth
+  slug: ali-partovi
+  year: 2021
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

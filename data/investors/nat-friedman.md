@@ -3,9 +3,9 @@ check_size: $1M-$100M
 firm: nfdg
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Sumble
-  date: 2025-10
-  round: Series A ($38.5M)
+  company: Granola
+  date: ~2026
+  round: Series C ($125M, NFDG participated)
 location: San Francisco, CA
 name: Nat Friedman
 role: Angel Investor; VP of Product, Meta Superintelligence Labs; Former CEO, GitHub
@@ -16,7 +16,6 @@ sector_focus:
 - saas
 - cloud
 slug: nat-friedman
-tldr: "GitHub CEO (2018-2021); Xamarin founder (sold to Microsoft 2016). NFDG co-founder with Daniel Gross ($1.1B AI fund, ~4x returns). Now Meta VP of Product, Superintelligence Labs. Prolific angel investor in AI/developer tools/infrastructure. TIME100 AI 2024. Arc Institute board. $1M-$100M checks."
 social:
   linkedin: null
   twitter: '@natfriedman'
@@ -26,6 +25,10 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: GitHub CEO (2018-2021); Xamarin founder (sold to Microsoft 2016). NFDG co-founder
+  with Daniel Gross ($1.1B AI fund, ~4x returns). Now Meta VP of Product, Superintelligence
+  Labs. Prolific angel investor in AI/developer tools/infrastructure. TIME100 AI 2024.
+  Arc Institute board. $1M-$100M checks.
 type: individual
 ---
 

@@ -51,6 +51,9 @@ firms:
 - round: Fellowship/Angel
   slug: 1517-fund
   year: 2013
+- round: Seed
+  slug: indie-vc
+  year: 2013
 founded: 2012
 founders:
 - name: Dylan Field
@@ -114,6 +117,9 @@ investors:
   year: 2024
 - round: Fellowship/Angel
   slug: danielle-strachman
+  year: 2013
+- round: Seed
+  slug: bryce-roberts
   year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA

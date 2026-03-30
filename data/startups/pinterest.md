@@ -42,6 +42,9 @@ firms:
 - round: Seed
   slug: refactor-capital
   year: 2009
+- round: Angel
+  slug: neo
+  year: 2010
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -102,6 +105,9 @@ investors:
 - round: Series B ($27M round)
   slug: jeff-jordan
   year: 2011
+- round: Angel
+  slug: ali-partovi
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

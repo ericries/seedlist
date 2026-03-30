@@ -1,42 +1,57 @@
 ---
-name: Legora
-slug: legora
-type: startup
-website: "https://www.legora.com"
-location: Stockholm, Sweden
-founded: ~2020
-status_company: active
-sector:
-  - ai
-  - legaltech
-  - enterprise
-stage_latest: Series D
-total_raised: "$550M+"
 firms:
-  - slug: accel
-    round: Series D (led)
-    year: 2026
-  - slug: benchmark
-    round: Series D
-    year: 2026
-  - slug: bessemer-venture-partners
-    round: Series D
-    year: 2026
-  - slug: general-catalyst
-    round: Series D
-    year: 2026
-  - slug: redpoint-ventures
-    round: Series D
-    year: 2026
-  - slug: y-combinator
-    round: Series D
-    year: 2026
-  - slug: menlo-ventures
-    round: Series D
-    year: 2026
-investors: []
-status: draft
+- round: Series D (led)
+  slug: accel
+  year: 2026
+- round: Series D
+  slug: benchmark
+  year: 2026
+- round: Series D
+  slug: bessemer-venture-partners
+  year: 2026
+- round: Series D
+  slug: general-catalyst
+  year: 2026
+- round: Series D
+  slug: redpoint-ventures
+  year: 2026
+- round: Series D
+  slug: y-combinator
+  year: 2026
+- round: Series D
+  slug: menlo-ventures
+  year: 2026
+- round: Seed
+  slug: abstract-ventures
+  year: 2026
+founded: ~2020
+investors:
+- round: '2024'
+  slug: logan-bartlett
+  year: 2024
+- round: Seed
+  slug: chetan-puttagunta
+  year: 2024
+- round: Seed
+  slug: alex-davidov
+  year: 2026
+- round: Seed (Alt Capital)
+  slug: jack-altman
+  year: 2024
 last_researched: 2026-03-29
+location: Stockholm, Sweden
+name: Legora
+sector:
+- ai
+- legaltech
+- enterprise
+slug: legora
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $550M+
+type: startup
+website: https://www.legora.com
 ---
 
 ## About

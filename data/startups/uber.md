@@ -132,6 +132,9 @@ firms:
 - round: Series (via GV)
   slug: true-ventures
   year: 2013
+- round: Angel
+  slug: neo
+  year: 2010
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -240,6 +243,9 @@ investors:
   year: 2013
 - round: Seed
   slug: lee-jacobs
+  year: 2010
+- round: Angel
+  slug: ali-partovi
   year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA

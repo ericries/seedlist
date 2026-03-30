@@ -4756,7 +4756,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Cody Simms
   type: individual
@@ -4772,7 +4772,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Bryce Roberts
   type: individual
@@ -4780,7 +4780,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Kanyi Maqubela
   type: individual
@@ -4788,7 +4788,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Craig Shapiro
   type: individual
@@ -4796,7 +4796,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Mac Conwell
   type: individual
@@ -4828,7 +4828,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Delian Asparouhov
   type: individual
@@ -7624,7 +7624,7 @@ queue:
 - name: Ali Partovi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: geoff-ralston
 - name: Pitango Venture Capital
@@ -7639,3 +7639,131 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: spencer-rascoff
+- name: Powerhouse Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emily-kirsch
+- name: Danny Kennedy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Powerhouse Ventures
+  discovered_from: emily-kirsch
+- name: Congruent Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emily-kirsch
+- name: Wireframe Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emily-kirsch
+- name: Collaborative Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: craig-shapiro
+- name: Sophie Bakalar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Collaborative Fund
+  discovered_from: craig-shapiro
+- name: Morgan Housel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Collaborative Fund
+  discovered_from: craig-shapiro
+- name: Ira Ehrenpreis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: DBL Partners
+  discovered_from: nancy-pfund
+- name: DBL Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nancy-pfund
+- name: Steve Jang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kindred Ventures
+  discovered_from: kanyi-maqubela
+- name: Indie.vc
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryce-roberts
+- name: OATV
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryce-roberts
+- name: Tim O'Reilly
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: OATV
+  discovered_from: bryce-roberts
+- name: Sutian Dong
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Female Founders Fund
+  discovered_from: anu-duggal
+- name: Neo
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ali-partovi
+- name: Suzanne Xie
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Neo
+  discovered_from: ali-partovi
+- name: Intact Private Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shepherd
+- name: Sumeru Equity Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cents
+- name: Silicon Badia
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: scalvy
+- name: A91 Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deccan-ai

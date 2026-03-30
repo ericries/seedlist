@@ -30,6 +30,9 @@ firms:
 - round: Series B
   slug: ivp
   year: 2011
+- round: Angel/Advisor
+  slug: neo
+  year: 2007
 founded: 2007
 founders:
 - name: Drew Houston
@@ -67,6 +70,9 @@ investors:
 - round: Series B
   slug: jules-maltz
   year: 2011
+- round: Angel/Advisor
+  slug: ali-partovi
+  year: 2007
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Dropbox

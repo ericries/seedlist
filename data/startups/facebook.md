@@ -54,6 +54,9 @@ firms:
 - round: Angel
   slug: true-ventures
   year: 2007
+- round: Angel
+  slug: neo
+  year: 2004
 founded: 2004
 founders:
 - name: Mark Zuckerberg
@@ -130,6 +133,9 @@ investors:
 - round: Angel
   slug: kevin-rose
   year: 2007
+- round: Angel
+  slug: ali-partovi
+  year: 2004
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook

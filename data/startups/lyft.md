@@ -30,6 +30,9 @@ firms:
 - round: Angel
   slug: outlander-vc
   year: 2012
+- round: Seed
+  slug: collaborative-fund
+  year: 2011
 founded: 2012
 founders:
 - name: Logan Green
@@ -73,6 +76,9 @@ investors:
 - round: Angel
   slug: paige-craig
   year: 2012
+- round: Seed
+  slug: craig-shapiro
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Lyft
