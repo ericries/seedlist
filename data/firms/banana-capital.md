@@ -69,7 +69,7 @@ Based on 21 verified portfolio companies from Banana Capital's website and press
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| BeReal | Seed | ~2020 | Consumer/Social | Acquired (Voodoo) | [^1] |
+| BeReal | Seed (Kima Ventures, New Wave co-led) | 2020 | Consumer/Social | Acquired (Voodoo, €500M, 2024) | [^1][^10] |
 | Bun | Seed | ~2021 | Developer Tools/Runtime | Acquired (Anthropic) | [^1] |
 | ScienceIO | Seed | ~2021 | Health/AI | Acquired (Veradigm) | [^1] |
 | Bee | Seed | ~2021 | Consumer/Productivity | Acquired (Amazon) | [^1] |
@@ -113,3 +113,4 @@ No independently sourced founder testimonials found. Banana Capital's website no
 [^4]: Bryce Roberts, "Going Bananas w/ Turner Novak, Founder of Banana Capital," Medium, accessed March 2026. https://bryce.medium.com/going-bananas-w-turner-novak-founder-of-banana-capital-171b4c9e5442
 [^5]: Turner Novak, "Banana Capital Fund 2," The Split (Substack), 2022. https://www.thespl.it/p/banana-fund-2
 [^6]: Tracxn, "Banana Capital — 2025 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/banana-capital/__1ojfLlQT_teUutWvXYmwbN3JxtDoeTsFRNnKRqWDs3E
+[^10]: Nordic 9, "BeReal closed a $30 million capital funding round backed by a16z, DST, Accel and Kima Ventures." Confirms seed round by Kima Ventures and New Wave in late 2020. https://nordic9.com/news/bereal-closed-a-30-million-capital-funding-round-backed-by-a16z-dst-accel-and-kima-ventures/

@@ -85,7 +85,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Canva | Growth | 2019 | Design/Consumer | Active | [^9] |
+| Canva | Growth ($70M round, BOND debut investment) | 2019 | Design/Consumer | Active | [^9][^14][^15] |
 ~unknown| Applied Intuition | Growth | — | Autonomous Vehicles | Active | [^3] |
 ~unknown| Block (Square) | Growth | — | Fintech | Active (Public) | [^3] |
 ~unknown| Checkr | Growth | — | HR Tech | Active | [^3][^6] |
@@ -129,3 +129,5 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^7]: VCSheet, "Daegwon Chae (Bond)," accessed March 2026. https://www.vcsheet.com/who/daegwon-chae
 [^8]: Tracxn, "Bond Capital - 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/bondcapital/__P9BMcH1fKN95ZHkjHMGJNhxm-PfyROcevL1hnBOqYns
 [^9]: Fortune, "Mary Meeker Makes First Investment Out of Bond Capital," May 21, 2019. https://fortune.com/2019/05/21/mary-meeker-canva-bond/
+[^14]: TechCrunch, "Graphic design platform Canva valued at $2.5B with new funds," May 20, 2019. $70M round with Bond, General Catalyst, Felicis, Blackbird. Total raised $166M. https://techcrunch.com/2019/05/20/graphic-design-platform-canva-valued-at-2-5b-with-new-funds/
+[^15]: Bloomberg, "Mary Meeker's New Fund Chooses Australian Startup for Debut Deal," May 20, 2019. https://www.bloomberg.com/news/articles/2019-05-20/mary-meeker-s-new-fund-chooses-australian-startup-for-debut-deal
