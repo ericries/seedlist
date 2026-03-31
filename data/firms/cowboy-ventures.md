@@ -99,7 +99,7 @@ Note: This represents only the current active portfolio. Historical investments 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Dollar Shave Club | Seed | 2012 | Consumer/D2C | Exited ($1B to Unilever) | [^2] |
+| Dollar Shave Club | Seed | 2012 | Consumer/D2C | Exited ($1B to Unilever, 2016) | [^13][^14] |
 | Product Hunt | Seed | ~2013 | Marketplace/Tech | Exited (acquired by AngelList) | [^2] |
 | Guild (Guild Education) | Seed | ~2015 | Education/Future of Work | Active (unicorn, $4.4B) | [^8] |
 | Drata | Seed | ~2020 | Security/Compliance | Active (unicorn, $2B) | [^8] |
@@ -158,3 +158,5 @@ Note: These testimonials are from the firm's website and were not independently 
 [^10]: Cowboy Ventures website, homepage, accessed March 2026. https://cowboy.vc/
 [^11]: Cowboy Ventures website, "Portfolio," accessed March 2026. https://www.cowboy.vc/portfolio
 [^12]: PitchBook, "Q&A: Aileen Lee on Cowboy Ventures' latest fund, getting women on her cap table and what keeps her motivated," accessed March 2026. https://pitchbook.com/news/articles/qa-aileen-lee-on-cowboy-ventures-latest-fund-getting-women-on-her-cap-table-and-what-keeps-her-motivated
+[^13]: Cowboy Ventures website, "Portfolio — Dollar Shave Club," accessed March 2026. https://www.cowboy.vc/portfolio/dollar-shave-club
+[^14]: Venture Capital Journal, "DollarShaveClub Puts together $1M Round," March 6, 2012. https://www.venturecapitaljournal.com/dollarshaveclub-puts-together-1m-round/

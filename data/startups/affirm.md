@@ -21,7 +21,7 @@ firms:
 - round: Series E
   slug: ribbit-capital
   year: 2017
-- round: ~2012
+- round: Angel-Seed
   slug: craft-ventures
   year: 2012
 - round: Series G
@@ -59,7 +59,7 @@ investors:
 - round: Series E
   slug: micky-malka
   year: 2017
-- round: ~2012
+- round: Angel-Seed
   slug: david-sacks
   year: 2012
 - round: ~2014

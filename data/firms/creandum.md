@@ -110,7 +110,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Spotify | Series A | 2008 | Music/Consumer | IPO (2018) | [^22] |
+| Spotify | Series A | 2008 | Music/Consumer | IPO (2018, $29.5B) | [^22][^31] |
 | iZettle | Series A | ~2011 | Fintech/Payments | Acquired by PayPal ($2.2B, 2018) | [^15] |
 | Kahoot! | Early stage | ~2013 | EdTech | IPO | [^13] |
 | Small Giant Games | Seed | 2014 | Gaming | Acquired by Zynga (~$700M) | [^23] |
@@ -216,3 +216,4 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^28]: TechCrunch, "Sweden's Lovable, an app-building AI platform, rakes in $15M after spectacular growth," February 2025, accessed March 2026. https://techcrunch.com/2025/02/25/swedens-lovable-an-app-building-ai-platform-rakes-in-16m-after-spectacular-growth/
 [^29]: Nordic 9 / nexos.ai, "nexos.ai Raises €30M Series," accessed March 2026. https://nexos.ai/blog/nexos-funding-announcement/
 [^30]: Nordic 9, "Superscale AI raised $5M in a pre-seed round led by Creandum," accessed March 2026. https://nordic9.com/news/superscale-ai-raised-5m-in-a-pre-seed-round-led-by-creandum-with-participation-from-interface-and-s16vc/
+[^31]: Nordic 9, "Spotify raises series A funding," October 2008, accessed March 2026. https://nordic9.com/news/new-news-news6154549926/

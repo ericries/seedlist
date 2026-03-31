@@ -113,25 +113,25 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-~unknown| Affirm | Growth | — | Fintech | IPO [^8] |
-~unknown| Airbnb | Growth | — | Consumer/Travel | IPO [^8] |
-~unknown| Anduril | Growth | — | Defense | Unicorn [^8] |
-~unknown| AgentSync | Venture | — | Enterprise/Insurance | Unicorn [^8] |
-~unknown| ClickUp | Venture/Growth | — | Enterprise/Productivity | Unicorn [^8] |
-~unknown| Eventbrite | — | — | Consumer/Events | IPO [^8] |
-~unknown| Glean | Growth | — | Enterprise/AI | Active [^8] |
-~unknown| Intercom | — | — | Enterprise/SaaS | Unicorn [^8] |
-~unknown| Lyft | — | — | Consumer/Transport | IPO [^8] |
-~unknown| Meta (Facebook) | — | — | Consumer/Social | IPO [^8] |
-~unknown| Neuralink | Growth | — | Enterprise/Neurotech | Unicorn [^8] |
-~unknown| Opendoor | — | — | Consumer/Real Estate | IPO [^8] |
-~unknown| Palantir | — | — | Enterprise/Data | IPO [^8] |
-~unknown| Pave | Growth | — | Enterprise/HR | Unicorn [^8] |
-~unknown| Pipe | — | — | Enterprise/Fintech | Unicorn [^8] |
-~unknown| Postmates | — | — | Consumer/Delivery | Acquired [^8] |
-~unknown| Reddit | Growth | — | Consumer/Social | IPO [^8] |
-~unknown| Replit | Growth | — | Developer Tools | Active [^8] |
-~unknown| Vanta | — | — | Enterprise/Security | Unicorn [^8] |
+| Affirm | Angel-Seed (Sacks personal) | 2012 | Fintech | IPO (NASDAQ, Jan 2021) | [^8][^11] |
+| Airbnb | Growth | — | Consumer/Travel | IPO [^8] |
+| Anduril | Growth | — | Defense | Unicorn [^8] |
+| AgentSync | Venture | — | Enterprise/Insurance | Unicorn [^8] |
+| ClickUp | Venture/Growth | — | Enterprise/Productivity | Unicorn [^8] |
+| Eventbrite | — | — | Consumer/Events | IPO [^8] |
+| Glean | Growth | — | Enterprise/AI | Active [^8] |
+| Intercom | — | — | Enterprise/SaaS | Unicorn [^8] |
+| Lyft | — | — | Consumer/Transport | IPO [^8] |
+| Meta (Facebook) | — | — | Consumer/Social | IPO [^8] |
+| Neuralink | Growth | — | Enterprise/Neurotech | Unicorn [^8] |
+| Opendoor | — | — | Consumer/Real Estate | IPO [^8] |
+| Palantir | — | — | Enterprise/Data | IPO [^8] |
+| Pave | Growth | — | Enterprise/HR | Unicorn [^8] |
+| Pipe | — | — | Enterprise/Fintech | Unicorn [^8] |
+| Postmates | — | — | Consumer/Delivery | Acquired [^8] |
+| Reddit | Growth | — | Consumer/Social | IPO [^8] |
+| Replit | Growth | — | Developer Tools | Active [^8] |
+| Vanta | — | — | Enterprise/Security | Unicorn [^8] |
 | Secoda | — | — | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
 | Noma Security | Series B | 2025 | Enterprise/Security | Active [^7] |
 | Upwind Security | Series B | 2024 | Enterprise/Security | Active [^7] |
@@ -174,3 +174,4 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^8]: Craft Ventures website, "Portfolio," accessed March 2026. https://www.craftventures.com/portfolio
 [^9]: Craft Ventures website, "Founder," accessed March 2026. https://www.craftventures.com/founder
 [^10]: "Oasis Security raises $120 million Series B to secure the rise of AI agents." Calcalist Tech, March 19, 2026. https://www.calcalistech.com/ctechnews/article/ske4mstcwl
+[^11]: Craft Ventures website, "Portfolio — Affirm," accessed March 2026. https://www.craftventures.com/portfolio/affirm
