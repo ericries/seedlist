@@ -26,6 +26,9 @@ investors:
 - round: Series B
   slug: bernard-liautaud
   year: 2026
+- round: Series B
+  slug: rana-yared
+  year: 2026
 last_researched: 2026-03-24
 location: New York, New York
 name: Dash0

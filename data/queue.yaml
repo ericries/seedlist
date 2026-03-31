@@ -6605,7 +6605,7 @@ queue:
 - name: Audrey Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: naveen-selvadurai
 - name: Dennis Crowley
@@ -6839,7 +6839,7 @@ queue:
 - name: Multicoin Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: kyle-samani
 - name: Farzad Mostashari
@@ -6869,7 +6869,7 @@ queue:
 - name: US Innovative Technology Fund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: thomas-tull
 - name: Swati Mylavarapu
@@ -6882,13 +6882,13 @@ queue:
 - name: Incite Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: matt-rogers
 - name: Kaszek Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: david-velez
 - name: Zal Bilimoria
@@ -7811,14 +7811,14 @@ queue:
 - name: James Wise
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Balderton Capital
   discovered_from: balderton-capital
 - name: Rana Yared
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Balderton Capital
   discovered_from: balderton-capital
@@ -8185,7 +8185,7 @@ queue:
 - name: Rune Labs
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: user-feedback
 - name: Arch Venture Partners
@@ -8377,3 +8377,148 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: daniel-waterhouse
+- name: Eclipse Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rune-labs
+- name: DigiTx Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rune-labs
+- name: Moment Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rune-labs
+- name: Samsung NEXT Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rune-labs
+- name: 468 Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rune-labs
+- name: Scalable Capital
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rana-yared
+- name: Coro
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rana-yared
+- name: Writer
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rana-yared
+- name: Peter Tague
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: US Innovative Technology Fund
+  discovered_from: us-innovative-technology-fund
+- name: Gaetano Crupi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: US Innovative Technology Fund
+  discovered_from: us-innovative-technology-fund
+- name: Altana
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: us-innovative-technology-fund
+- name: Celestial AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: us-innovative-technology-fund
+- name: Sava
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: james-wise
+- name: Prior Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: james-wise
+- name: Caroline Dillon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Incite Ventures
+  discovered_from: incite-ventures
+- name: Hernan Kazah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: kaszek-ventures
+- name: Nicolas Szekasy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: kaszek-ventures
+- name: Monashees
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kaszek-ventures
+- name: Kavak
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kaszek-ventures
+- name: Spencer Applebaum
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Multicoin Capital
+  discovered_from: multicoin-capital
+- name: Shayon Sengupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Multicoin Capital
+  discovered_from: multicoin-capital
+- name: Polychain Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multicoin-capital
+- name: Electric Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multicoin-capital
