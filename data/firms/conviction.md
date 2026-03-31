@@ -39,7 +39,7 @@ Mike Vernal, formerly a partner at Sequoia Capital, joined as general partner in
 
 Conviction invests with check sizes between $1 million and $25 million [^3]. The firm describes itself as often being the first institutional investor in its portfolio companies [^4].
 
-Notable portfolio companies include Harvey (legal AI, valued at $3 billion), Mistral (French open-source AI, valued at $6 billion), Baseten (inference platform, valued at $825 million), and Sierra (conversational AI, valued at $4.5 billion) [^2]. As of 2025, the portfolio includes over 30 companies with 5 unicorns [^5].
+Notable portfolio companies include Harvey (legal AI, valued at $11 billion), Mistral (French open-source AI, valued at $6 billion), Baseten (inference platform, valued at $825 million), and Sierra (conversational AI, valued at $4.5 billion) [^2][^8]. As of 2025, the portfolio includes over 30 companies with 5 unicorns [^5].
 
 ## Stated Thesis
 
@@ -73,7 +73,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Harvey | Early | ~2022 | Legal AI | Active (unicorn, $3B) | [^2] |
+| Harvey | Seed | 2022 | Legal AI | Active (unicorn, $11B) | [^2][^7][^8] |
 | Mistral | Early | ~2023 | AI Models | Active (unicorn, $6B) | [^2] |
 | Baseten | Early | ~2022 | AI Infrastructure | Active ($825M) | [^2] |
 | Sierra | Early | ~2023 | Conversational AI | Active (unicorn, $4.5B) | [^2] |
@@ -116,3 +116,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^4]: Everything Startups, "New VC Funds - Conviction Partners," accessed March 2026. https://www.everythingstartups.com/vc-funds/conviction-partners
 [^5]: Tracxn, "Conviction - 2025 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/conviction/__Yj63_1Y5YODkJut20TruT239_nKxIIxTo5gMLVuL3HE
 [^6]: Weekly Minds, "Sarah Guo: The AI Visionary Reshaping Venture Capital," accessed March 2026. https://weeklyminds.com/sarah-guo/
+[^7]: Harvey blog, "Sequoia and OpenAI Back Harvey to Redefine Professional Services, Starting with Legal," April 2023, accessed March 2026. https://www.harvey.ai/blog/sequoia-and-openai-back-harvey-to-redefine-professional-services-starting-with-le
+[^8]: CNBC, "Legal AI startup Harvey raises $200 million at $11 billion valuation," March 25, 2026, accessed March 2026. https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html

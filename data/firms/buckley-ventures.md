@@ -75,7 +75,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
-~unknown| Rippling | Early | — | Enterprise/HR | Active | [^7] |
+| Rippling | Early | ~2018 | Enterprise/HR | Active ($16.8B valuation) | [^7][^14] |
 ~unknown| Applied Intuition | Early | — | Autonomous Vehicles | Active | [^7] |
 ~unknown| Physical Intelligence | Early | — | Robotics/AI | Active | [^7] |
 ~unknown| Flock Safety | Early | — | Public Safety/Hardware | Active | [^7] |
@@ -138,3 +138,4 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^11]: Speak blog, "Speak Hits $500M Valuation, Expands Rapidly Across Markets," June 2024, accessed March 2026. https://www.speak.com/blog/series-b-3
 [^12]: Crunchbase, "Josh Buckley — Person Profile," accessed March 2026. https://www.crunchbase.com/person/josh-buckley
 [^13]: Deciphr AI transcript, "20VC: Why The Best Entrepreneurs Are Cockroaches with Josh Buckley," accessed March 2026. https://www.deciphr.ai/podcast/20vc-why-the-best-entrepreneurs-are-cockroaches-what-everyone-underestimates-about-customer-acquisition--what-you-dont-but-need-to-know-about-payback-periods-with-josh-buckley-founder--chairman--mino-games
+[^14]: Rippling blog, "Rippling Raises $45M Series A Led by Kleiner Perkins," April 2019, accessed March 2026. https://www.rippling.com/blog/rippling-45m-series-a-kleiner-perkins

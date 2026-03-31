@@ -59,7 +59,7 @@ Ethan Kurzweil has said that Chemistry writes $3-30M checks with an average of $
 
 Based on a limited sample of verified Chemistry investments (the firm launched in late 2024), analysis is preliminary:
 
-**Known Chemistry portfolio companies:** Decagon, Assort Health, Serval, Datacurve [^4][^9][^10]. With only 4 verified investments, the sample is too small for reliable sector percentages.
+**Known Chemistry portfolio companies:** Decagon (Series D participant), Assort Health, Serval, Datacurve [^4][^9][^10][^11]. With only 4 verified investments, the sample is too small for reliable sector percentages.
 
 **Qualitative patterns from verified investments:**
 - Enterprise software and AI applications appear dominant (Decagon in AI customer support, Assort Health in healthcare AI, Datacurve in AI training data) [^4][^9][^10]
@@ -74,7 +74,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Decagon | Series A | 2025 | AI/Enterprise Software | [^4] |
+| Decagon | Series D | 2026 | AI/Enterprise Software | [^4][^11] |
 | Assort Health | Follow-on | 2025 | Healthcare AI | [^4] |
 | Serval | Series A | 2025 | AI | [^4] |
 | Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
@@ -113,3 +113,4 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^8]: SaaStr, "The Series A Landscape in 2025: Insights from Chemistry VC's Ethan Kurzweil," 2025, accessed March 2026. https://www.saastr.com/the-series-a-landscape-in-2025-insights-from-chemistry-vcs-ethan-kurzweil/
 [^9]: Crunchbase News, "Alums From Bessemer, A16z And Index Launch New Firm With $350M For Seed And Series A Startups," accessed March 2026. https://news.crunchbase.com/venture/bessemer-a16z-index-alums-launch-early-stage-funding-firm-chemistry/
 [^10]: Chemistry blog, "Staying ahead of the curve: Our Series A in Datacurve," accessed March 2026. https://www.chemistry.vc/post/staying-ahead-of-the-curve
+[^11]: Decagon blog, "Decagon's $250 million commitment to the AI concierge future," January 28, 2026, accessed March 2026. https://decagon.ai/resources/series-d-announcement
