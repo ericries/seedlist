@@ -1039,6 +1039,8 @@ def build():
         if not loc:
             return ""
         loc_lower = loc.lower()
+
+        # US metro areas
         sf_keywords = ["san francisco", "menlo park", "palo alto", "mountain view",
                         "woodside", "redwood city", "atherton", "bay area",
                         "saratoga", "cupertino", "sunnyvale", "san mateo",
@@ -1046,12 +1048,100 @@ def build():
         for kw in sf_keywords:
             if kw in loc_lower:
                 return "sf-bay-area"
-        if "new york" in loc_lower:
+        if "new york" in loc_lower or "brooklyn" in loc_lower:
             return "nyc"
-        if "los angeles" in loc_lower:
+        if "los angeles" in loc_lower or "santa monica" in loc_lower or "venice" in loc_lower or "beverly hills" in loc_lower:
             return "la"
-        if "boston" in loc_lower or "cambridge" in loc_lower:
+        if "boston" in loc_lower or "cambridge, ma" in loc_lower or "somerville, ma" in loc_lower:
             return "boston"
+        if "seattle" in loc_lower or "bellevue" in loc_lower or "kirkland" in loc_lower or "redmond" in loc_lower:
+            return "seattle"
+        if "austin" in loc_lower:
+            return "austin"
+        if "chicago" in loc_lower:
+            return "chicago"
+        if "miami" in loc_lower or "fort lauderdale" in loc_lower:
+            return "miami"
+        if "washington" in loc_lower and ("dc" in loc_lower or "d.c." in loc_lower):
+            return "dc"
+        if "denver" in loc_lower or "boulder" in loc_lower:
+            return "denver"
+        if "dallas" in loc_lower or "fort worth" in loc_lower:
+            return "dallas"
+        if "san diego" in loc_lower:
+            return "san-diego"
+        if "philadelphia" in loc_lower:
+            return "philadelphia"
+        if "portland" in loc_lower and "oregon" in loc_lower:
+            return "portland"
+        if "salt lake" in loc_lower or "park city" in loc_lower or ", utah" in loc_lower or ", ut" in loc_lower:
+            return "salt-lake-city"
+        if "pittsburgh" in loc_lower:
+            return "pittsburgh"
+        if "atlanta" in loc_lower:
+            return "atlanta"
+        if "minneapolis" in loc_lower or "st. paul" in loc_lower:
+            return "minneapolis"
+
+        # International — Europe
+        if "london" in loc_lower or "england" in loc_lower:
+            return "london"
+        if "paris" in loc_lower:
+            return "paris"
+        if "berlin" in loc_lower:
+            return "berlin"
+        if "stockholm" in loc_lower or "malmö" in loc_lower or "malmo" in loc_lower or "sweden" in loc_lower:
+            return "sweden"
+        if "amsterdam" in loc_lower or "netherlands" in loc_lower:
+            return "amsterdam"
+        if "zurich" in loc_lower or "geneva" in loc_lower or "switzerland" in loc_lower:
+            return "switzerland"
+        if "munich" in loc_lower or "germany" in loc_lower:
+            return "germany"
+        if "tallinn" in loc_lower or "estonia" in loc_lower:
+            return "estonia"
+        if "ireland" in loc_lower or "dublin" in loc_lower:
+            return "ireland"
+
+        # International — Asia/Middle East
+        if "singapore" in loc_lower:
+            return "singapore"
+        if "tel aviv" in loc_lower or "israel" in loc_lower or "jerusalem" in loc_lower:
+            return "israel"
+        if "india" in loc_lower or "bangalore" in loc_lower or "bengaluru" in loc_lower or "mumbai" in loc_lower or "new delhi" in loc_lower:
+            return "india"
+        if "tokyo" in loc_lower or "japan" in loc_lower:
+            return "japan"
+        if "hong kong" in loc_lower:
+            return "hong-kong"
+        if "beijing" in loc_lower or "shanghai" in loc_lower or "china" in loc_lower:
+            return "china"
+        if "dubai" in loc_lower or "uae" in loc_lower or "abu dhabi" in loc_lower:
+            return "uae"
+
+        # International — Americas (non-US)
+        if "toronto" in loc_lower or "vancouver" in loc_lower or "montreal" in loc_lower or "ottawa" in loc_lower or "canada" in loc_lower:
+            return "canada"
+        if "são paulo" in loc_lower or "sao paulo" in loc_lower or "brazil" in loc_lower or "rio" in loc_lower:
+            return "brazil"
+
+        # International — Oceania
+        if "sydney" in loc_lower or "melbourne" in loc_lower or "australia" in loc_lower:
+            return "australia"
+
+        # Catch remaining US locations by state
+        us_state_indicators = [
+            "california", "texas", "florida", "georgia", "virginia",
+            "north carolina", "colorado", "ohio", "michigan", "arizona",
+            "tennessee", "maryland", "connecticut", "new jersey",
+            ", ca", ", tx", ", fl", ", ga", ", va", ", nc", ", co",
+            ", oh", ", mi", ", az", ", tn", ", md", ", ct", ", nj",
+            ", pa", ", il", ", wa", ", or", ", mn", ", mo",
+        ]
+        for indicator in us_state_indicators:
+            if indicator in loc_lower:
+                return "us-other"
+
         return ""
 
     # Prepare investor data for filtered listing
