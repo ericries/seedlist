@@ -34,6 +34,10 @@ ai:
     - vertical-ai
     - ml
     - machine-learning-infrastructure
+    - technology
+    - frontier-tech
+    - frontier
+    - science
 
 fintech:
   label: "Fintech"
@@ -64,6 +68,12 @@ fintech:
     - defi
     - stablecoins
     - digital-assets
+    - insurance
+    - financials
+    - private-credit
+    - distressed-debt
+    - global-macro
+    - public-equities
 
 healthcare:
   label: "Healthcare & Life Sciences"
@@ -158,6 +168,9 @@ enterprise:
     - remote-work
     - workforce
     - workforce-development
+    - business-services
+    - legal-tech
+    - software
 
 devtools:
   label: "Developer Tools & Infra"
@@ -181,6 +194,12 @@ devtools:
     - data-services
     - data-security
     - analytics
+    - internet
+    - mobile
+    - networking
+    - networks
+    - telecom
+    - telecommunications
 
 cybersecurity:
   label: "Cybersecurity"
@@ -242,6 +261,7 @@ climate:
     - electric-vehicles
     - grid-software
     - fusion
+    - cleantech
 
 defense:
   label: "Defense & Aerospace"
@@ -259,6 +279,9 @@ defense:
     - national-security
     - govtech
     - government-tech
+    - civic-tech
+    - justice
+    - information-transparency
 
 robotics:
   label: "Robotics & Hardware"
@@ -291,6 +314,7 @@ robotics:
     - industrial-systems
     - materials-science
     - mining
+    - location-tech
 
 consumer:
   label: "Consumer"
@@ -321,6 +345,10 @@ consumer:
     - beauty
     - beauty-personal-care
     - network-effects
+    - social-impact
+    - diversity-inclusion
+    - diverse-founders
+    - women-economy
 
 marketplaces:
   label: "Marketplaces & Commerce"
@@ -419,3 +447,4 @@ mobility:
     - supply-chain
     - travel
     - travel-tech
+    - aviation

@@ -95,7 +95,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Salesforce | Seed | 2003 | Enterprise/CRM | [^3] |
+| Salesforce | Venture | 2003 | Enterprise/CRM | [^1][^12][^13] |
 | SuccessFactors | Early | ~2005 | Enterprise/HR | [^3] |
 | Yammer | Series A | ~2009 | Enterprise/Collaboration | [^3] |
 | Box | Early | ~2009 | Enterprise/Storage | [^3] |
@@ -164,3 +164,5 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 [^9]: Emergence Capital, "Portfolio," accessed March 2026. https://www.emcap.com/portfolio
 [^10]: GlobeNewswire, "On the Heels of Unveiling $435M Fund, Emergence, the Enterprise VC Firm Behind Veeva, Box and Zoom, Announces 3 Promotions," November 14, 2018, accessed March 2026. https://www.globenewswire.com/news-release/2018/11/14/1651467/0/en/On-the-Heels-of-Unveiling-435M-Fund-Emergence-the-Enterprise-VC-Firm-Behind-Veeva-Box-and-Zoom-Announces-3-Promotions.html
 [^11]: Emergence Capital, "In the Corner of Founders Everywhere," accessed March 2026. https://www.emcap.com/thoughts/in-the-corner-of-founders-everywhere/
+[^12]: Emergence Capital, "Salesforce — Portfolio," accessed March 2026. https://www.emcap.com/portfolio/salesforce/
+[^13]: Clay, "How Much Did Salesforce Raise? Funding & Key Investors," accessed March 2026. https://www.clay.com/dossier/salesforce-funding

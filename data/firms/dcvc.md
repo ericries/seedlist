@@ -108,7 +108,7 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| SentinelOne | Seed | 2013 | Cybersecurity | Public (IPO 2021) | [^7] |
+| SentinelOne | Seed ($2.5M) | 2013 | Cybersecurity | Public (IPO 2021) | [^7][^14][^15] |
 | Planet | Early | 2012 | Space/Earth observation | Public (NYSE 2021) | [^11] |
 | Databricks | Early | 2013 | Data infrastructure | Active | [^8][^12] |
 | Elastic | Early | 2014 | Enterprise search | Public | [^8] |
@@ -164,3 +164,5 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 [^11]: DCVC website, "Planet," accessed March 2026. https://www.dcvc.com/companies/planet/
 [^12]: DCVC website, "Databricks," accessed March 2026. https://www.dcvc.com/companies/databricks/
 [^13]: Sparkco, "DCVC: A Comprehensive Investor Profile," accessed March 2026. https://sparkco.ai/blog/dcvc
+[^14]: Crunchbase, "Seed Round — SentinelOne — 2013-08-05," accessed March 2026. https://www.crunchbase.com/funding_round/sentinel-seed--061d73f3
+[^15]: Pestel-analysis.com, "What is Brief History of SentinelOne Company?" accessed March 2026. https://pestel-analysis.com/blogs/brief-history/sentinelone

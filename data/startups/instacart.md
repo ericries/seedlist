@@ -18,9 +18,9 @@ firms:
 - round: Seed
   slug: y-combinator
   year: 2012
-- round: '2020'
+- round: Series F (led)
   slug: d1-capital-partners
-  year: 2020
+  year: 2018
 - round: Early
   slug: fj-labs
   year: 2014
@@ -84,9 +84,9 @@ investors:
 - round: Seed
   slug: garry-tan
   year: 2012
-- round: '2020'
+- round: Series F (led)
   slug: dan-sundheim
-  year: 2020
+  year: 2018
 - round: Early
   slug: fabrice-grinda
   year: 2014

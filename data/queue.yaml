@@ -8176,3 +8176,45 @@ queue:
   added: '2026-03-17'
   firm: Lux Capital
   discovered_from: brandon-reeves
+- name: Florida Funders
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: user-request
+- name: Rune Labs
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: user-feedback
+- name: Arch Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healthcare-gap
+- name: Deerfield Management
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healthcare-gap
+- name: Section 32
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healthcare-gap
+- name: Polaris Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healthcare-gap
+- name: GV Life Sciences
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healthcare-gap

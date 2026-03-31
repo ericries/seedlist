@@ -95,7 +95,7 @@ The following table represents verified private market investments by D1 Capital
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Instacart (Maplebear) | Series F | 2018 | Consumer / Grocery delivery | IPO (2023) | [^11] |
+| Instacart (Maplebear) | Series F | 2018 | Consumer / Grocery delivery | IPO (2023) | [^11][^33][^34] |
 | JUUL Labs | Growth | 2018 | Consumer / E-cigarettes | Active | [^12] |
 | Lineage Logistics | Growth | 2018 | Logistics / Cold storage | IPO (2024) | [^13] |
 | Sweetgreen | Series I | 2019 | Consumer / Restaurant | IPO (2021) | [^14] |
@@ -176,3 +176,5 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 [^30]: The Robot Report, "Hadrian raises funding for automated manufacturing, bringing valuation to $1.6B," January 2026. https://www.therobotreport.com/hadrian-brings-in-additional-funding-bringing-its-valuation-to-1-6b/
 [^31]: Anthropic, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
 [^32]: Fintech Futures, "Ualá hits $3.2bn valuation following $195m investment," March 2026. https://www.fintechfutures.com/challenger-banks/uala-hits-3-2bn-valuation-following-195m-investment
+[^33]: TechCrunch, "Instacart raises another $600M at a $7.6B valuation," October 16, 2018. https://techcrunch.com/2018/10/16/instacart-raises-another-600m-at-a-7-6b-valuation/
+[^34]: Crunchbase, "Series F — Instacart — 2018-10-16," accessed March 2026. https://www.crunchbase.com/funding_round/instacart-series-f--494d246c
