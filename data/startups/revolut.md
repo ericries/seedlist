@@ -82,6 +82,9 @@ investors:
 - round: Series A
   slug: meyer-malka
   year: 2016
+- round: Follow-on
+  slug: daniel-waterhouse
+  year: 2020
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Revolut

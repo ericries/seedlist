@@ -5478,19 +5478,19 @@ queue:
 - name: VZVC
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: vijay-pande
 - name: Threshold Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: heidi-roizen
 - name: Standard Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: dalton-caldwell
 - name: QED Investors
@@ -5875,7 +5875,7 @@ queue:
 - name: Operator Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: nat-turner
 - name: Jamin Ball
@@ -6511,7 +6511,7 @@ queue:
 - name: 7wire Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: deena-shakir
 - name: Maveron
@@ -6592,7 +6592,7 @@ queue:
 - name: Madrona Venture Group
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: bob-muglia
 - name: Matt Mullenweg
@@ -6617,7 +6617,7 @@ queue:
 - name: ACME Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: sherpa-capital
 - name: Scott Stanford
@@ -6670,7 +6670,7 @@ queue:
 - name: Kima Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: xavier-niel
 - name: True Ventures
@@ -6813,7 +6813,7 @@ queue:
 - name: Mucker Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: michael-dearing
 - name: Hank Vigil
@@ -6826,7 +6826,7 @@ queue:
 - name: Acequia Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: fritz-lanman
 - name: Tushar Jain
@@ -7783,28 +7783,28 @@ queue:
 - name: Bernard Liautaud
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Balderton Capital
   discovered_from: balderton-capital
 - name: Suranga Chandratillake
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Balderton Capital
   discovered_from: balderton-capital
 - name: Rob Moffat
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Balderton Capital
   discovered_from: balderton-capital
 - name: Daniel Waterhouse
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Balderton Capital
   discovered_from: balderton-capital
@@ -7974,7 +7974,7 @@ queue:
 - name: Nubank
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: qed-investors
 - name: Starcloud
@@ -8218,3 +8218,162 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: healthcare-gap
+- name: Tencent
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nubank
+- name: David Vélez
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nubank
+- name: Bryan Berg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Standard Capital
+  discovered_from: standard-capital
+- name: Pathlight Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: standard-capital
+- name: Leif Danielsen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Acequia Capital
+  discovered_from: acequia-capital
+- name: Charlie Songhurst
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Acequia Capital
+  discovered_from: acequia-capital
+- name: Makers Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rob-moffat
+- name: William Hsu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mucker Capital
+  discovered_from: mucker-capital
+- name: Omar Hamoui
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mucker Capital
+  discovered_from: mucker-capital
+- name: Bam Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mucker-capital
+- name: Ludlow Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mucker-capital
+- name: ServiceTitan
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mucker-capital
+- name: Honey
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mucker-capital
+- name: Spring Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: operator-partners
+- name: Glen Tullman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 7wire Ventures
+  discovered_from: 7wire-ventures
+- name: Lee Shapiro
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 7wire Ventures
+  discovered_from: 7wire-ventures
+- name: Robert Garber
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 7wire Ventures
+  discovered_from: 7wire-ventures
+- name: Alyssa Jaffee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 7wire Ventures
+  discovered_from: 7wire-ventures
+- name: Transcarent
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 7wire-ventures
+- name: NOCD
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 7wire-ventures
+- name: Livongo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 7wire-ventures
+- name: Cherry Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-waterhouse
+- name: HV Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-waterhouse
+- name: Proxima Fusion
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-waterhouse
+- name: Attio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-waterhouse

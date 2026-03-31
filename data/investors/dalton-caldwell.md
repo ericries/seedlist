@@ -1,23 +1,35 @@
 ---
-name: "Dalton Caldwell"
-slug: dalton-caldwell
-tldr: "Partner Emeritus at Y Combinator and Co-Founder of Standard Capital, focused on Series A AI-native companies. Portfolio of 16 verified investments skews 25% developer tools, 19% fintech, with deep tech and frontier investments including nuclear energy and reusable rockets. Known for advising 1,000+ YC startups and mentoring 35+ unicorns with emphasis on perseverance and technical founders."
-type: individual
+check_size: $500K-$10M
 firm: y-combinator
-role: "Partner Emeritus (former Managing Director & Group Partner)"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [ai, developer-tools, fintech, enterprise, infrastructure]
-check_size: "$500K-$10M"
-last_verified_investment:
-  date: "~2025"
-  company: "Standard Capital Fund I"
-  round: "Fund Launch"
-social:
-  twitter: "@daltonc"
-  linkedin: "linkedin.com/in/daltoncaldwell"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: Standard Capital Fund I
+  date: ~2025
+  round: Fund Launch
+location: San Francisco, CA
+name: Dalton Caldwell
+role: Partner Emeritus (former Managing Director & Group Partner)
+sector_focus:
+- ai
+- developer-tools
+- fintech
+- enterprise
+- infrastructure
+slug: dalton-caldwell
+social:
+  linkedin: linkedin.com/in/daltoncaldwell
+  twitter: '@daltonc'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Partner Emeritus at Y Combinator and Co-Founder of Standard Capital, focused
+  on Series A AI-native companies. Portfolio of 16 verified investments skews 25%
+  developer tools, 19% fintech, with deep tech and frontier investments including
+  nuclear energy and reusable rockets. Known for advising 1,000+ YC startups and mentoring
+  35+ unicorns with emphasis on perseverance and technical founders.
+type: individual
 ---
 
 ## Background

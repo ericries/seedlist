@@ -21,6 +21,9 @@ firms:
 - round: Seed
   slug: indie-vc
   year: 2017
+- round: '2018'
+  slug: vzvc
+  year: 2018
 founded: 2017
 founders:
 - name: Todd Park
