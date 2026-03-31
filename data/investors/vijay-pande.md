@@ -1,6 +1,6 @@
 ---
 check_size: $1M-$50M
-firm: andreessen-horowitz
+firm: vzvc
 last_researched: 2026-03-20
 last_verified_investment:
   company: Function Health

@@ -15,7 +15,7 @@ team:
   - slug: zack-werner
     role: "Co-Founder & Managing Partner"
     name: "Zack Werner"
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

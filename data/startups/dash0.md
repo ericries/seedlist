@@ -9,6 +9,9 @@ firms:
 - round: Series A
   slug: vercel
   year: 2025
+- round: Series B
+  slug: balderton-capital
+  year: 2026
 founded: 2023
 founders:
 - name: Mirko Novakovic
@@ -20,6 +23,9 @@ investors:
 - round: Seed
   slug: harry-nelis
   year: 2024
+- round: Series B
+  slug: bernard-liautaud
+  year: 2026
 last_researched: 2026-03-24
 location: New York, New York
 name: Dash0

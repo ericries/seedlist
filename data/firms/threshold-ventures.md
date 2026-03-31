@@ -36,7 +36,7 @@ team:
   - name: Bill Bryant
     role: Partner
     slug: bill-bryant-threshold
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

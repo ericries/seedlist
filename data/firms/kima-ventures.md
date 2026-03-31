@@ -1,38 +1,41 @@
 ---
-name: "Kima Ventures"
-slug: kima-ventures
-type: firm
-website: "https://www.kimaventures.com/"
-location: "Paris, France"
 founded: 2010
-fund_size: "€110M total deployed; single-LP evergreen structure; ~€15M deployed annually"
-stage_focus:
-  - pre-seed
-  - seed
-  - series-a
-sector_focus:
-  - enterprise
-  - fintech
-  - consumer
-  - ai
-  - developer-tools
-  - healthtech
-  - saas
-team:
-  - name: Xavier Niel
-    role: Founder
-    slug: xavier-niel
-  - name: Jean de La Rochebrochard
-    role: Managing Partner
-    slug: jean-de-la-rochebrochard
-  - name: Alexis Robert
-    role: General Partner
-    slug: alexis-robert
-  - name: Chloe Timsit
-    role: Partner
-    slug: chloe-timsit
-status: draft
+fund_size: €110M total deployed; single-LP evergreen structure; ~€15M deployed annually
 last_researched: 2026-03-30
+location: Paris, France
+name: Kima Ventures
+sector_focus:
+- enterprise
+- fintech
+- consumer
+- ai
+- developer-tools
+- healthtech
+- saas
+slug: kima-ventures
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Xavier Niel
+  role: Founder
+  slug: xavier-niel
+- name: Jean de La Rochebrochard
+  role: Managing Partner
+  slug: jean-de-la-rochebrochard
+- name: Alexis Robert
+  role: General Partner
+  slug: alexis-robert
+- name: Chloe Timsit
+  role: Partner
+  slug: chloe-timsit
+- name: Jérémie Berrebi
+  role: Co-Founder (2010–2015)
+  slug: jeremie-berrebi
+type: firm
+website: https://www.kimaventures.com/
 ---
 
 ## About

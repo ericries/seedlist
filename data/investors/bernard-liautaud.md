@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@Bliautaud"
   linkedin: "linkedin.com/in/bernardliautaud"
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

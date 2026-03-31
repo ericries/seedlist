@@ -40,7 +40,7 @@ team:
   - name: Katera Mujadidi
     role: Partner, Head of Investor Relations and Fundraising
     slug: katera-mujadidi
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 

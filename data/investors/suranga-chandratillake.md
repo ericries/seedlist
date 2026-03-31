@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@surangac"
   linkedin: "linkedin.com/in/suranga-chandratillake-6a839363"
-status: draft
+status: published
 last_researched: 2026-03-30
 ---
 
