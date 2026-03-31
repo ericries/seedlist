@@ -1150,7 +1150,35 @@ def build():
         lvi = p.get("last_verified_investment") or {}
         p["last_active"] = str(lvi.get("date", "")).lstrip("~") if lvi.get("date") else ""
 
-    # Compute top sectors for filter dropdown
+    # Load sector taxonomy for hierarchical filtering
+    import yaml as _yaml
+    taxonomy_path = DATA_DIR / "sector-taxonomy.yaml"
+    tag_to_parents = {}  # specific tag -> list of parent slugs
+    taxonomy_categories = []  # ordered list of {slug, label}
+    if taxonomy_path.exists():
+        with open(taxonomy_path) as _tf:
+            taxonomy = _yaml.safe_load(_tf) or {}
+        for parent_slug, parent_data in taxonomy.items():
+            label = parent_data.get("label", parent_slug)
+            taxonomy_categories.append({"slug": parent_slug, "label": label})
+            for tag in parent_data.get("tags", []):
+                tag_lower = tag.lower()
+                if tag_lower not in tag_to_parents:
+                    tag_to_parents[tag_lower] = []
+                tag_to_parents[tag_lower].append(parent_slug)
+
+    # Compute parent sector categories for each investor
+    for p in investors_sorted:
+        parent_sectors = set()
+        for s in (p.get("sector_focus") or []):
+            parents = tag_to_parents.get(s.lower(), [])
+            if parents:
+                parent_sectors.update(parents)
+            else:
+                parent_sectors.add(s.lower())  # unmapped tags pass through
+        p["sector_parents"] = ",".join(sorted(parent_sectors))
+
+    # Also compute raw top sectors (for backward compat with sector listing pages)
     sector_counts = {}
     for p in investors:
         for s in (p.get("sector_focus") or []):
@@ -1158,12 +1186,34 @@ def build():
             sector_counts[sl] = sector_counts.get(sl, 0) + 1
     top_sectors = [s for s, _ in sorted(sector_counts.items(), key=lambda x: -x[1])[:15]]
 
+    # Filter taxonomy categories and location options to only those with profiles
+    parent_sector_counts = {}
+    location_counts = {}
+    for p in investors_sorted:
+        for parent in (p.get("sector_parents") or "").split(","):
+            if parent:
+                parent_sector_counts[parent] = parent_sector_counts.get(parent, 0) + 1
+        loc = p.get("location_region", "")
+        if loc:
+            location_counts[loc] = location_counts.get(loc, 0) + 1
+
+    # Only include taxonomy categories that have at least 1 investor
+    active_taxonomy = [c for c in taxonomy_categories if parent_sector_counts.get(c["slug"], 0) > 0]
+
+    # Only include location regions that have at least 1 investor
+    active_locations = {loc: count for loc, count in location_counts.items() if count > 0}
+
     # Generate listing pages
     listing_template = env.get_template("listing.html")
     investors_listing_template = env.get_template("investors_listing.html")
 
     # All investors (sorted by most recent investment) — uses dedicated filtered template
-    html = investors_listing_template.render(profiles=investors_sorted, top_sectors=top_sectors)
+    html = investors_listing_template.render(
+        profiles=investors_sorted,
+        top_sectors=top_sectors,
+        taxonomy_categories=active_taxonomy,
+        active_locations=active_locations,
+    )
     (OUTPUT_DIR / "investors" / "index.html").write_text(html)
 
     # Investor clusters / groups page

@@ -1,0 +1,421 @@
+# Sector Taxonomy for Seedlist
+#
+# Maps specific sector_focus tags (used in profile frontmatter) to parent
+# categories (used in browse page filtering). A tag can map to multiple parents.
+#
+# Format:
+#   parent-category:
+#     label: "Display Name"
+#     tags:
+#       - specific-tag-1
+#       - specific-tag-2
+#
+# Tags not listed here pass through unmapped (shown under "Other" in filters).
+# Agents should prefer specific tags from this file over generic ones.
+
+ai:
+  label: "AI & Machine Learning"
+  tags:
+    - ai
+    - ai-ml
+    - artificial-intelligence
+    - machine-learning
+    - deep-learning
+    - generative-ai
+    - ai-applications
+    - ai-infrastructure
+    - ai-safety
+    - ai-security
+    - ai-robotics
+    - ai-education
+    - ai-drug-discovery
+    - conversational-ai
+    - decentralized-ai
+    - vertical-ai
+    - ml
+    - machine-learning-infrastructure
+
+fintech:
+  label: "Fintech"
+  tags:
+    - fintech
+    - payments
+    - insurtech
+    - banking
+    - neobanking
+    - lending
+    - consumer-finance
+    - consumer-fintech
+    - consumer-lending
+    - credit
+    - wealthtech
+    - financial-services
+    - financial-infrastructure
+    - financial-literacy
+    - embedded-finance
+    - digital-banking
+    - asset-based-lending
+    - specialty-finance
+    - latam-fintech
+    - health-fintech
+    - investing-platforms
+    - mobile-payments
+    - mobile-money
+    - defi
+    - stablecoins
+    - digital-assets
+
+healthcare:
+  label: "Healthcare & Life Sciences"
+  tags:
+    - healthcare
+    - digital-health
+    - health
+    - healthtech
+    - health-tech
+    - health-wellness
+    - health-ai
+    - health-and-wellness
+    - health-bio
+    - health-equity
+    - health-fintech
+    - health-infrastructure
+    - health-it
+    - healthcare-it
+    - healthcare-services
+    - consumer-health
+    - consumer health
+    - mental-health
+    - metabolic-health
+    - women's-health
+    - womens-health
+    - biotech
+    - biopharma
+    - biotechnology
+    - biotech-life-sciences
+    - life-sciences
+    - life-science-tools
+    - bio
+    - bio-health
+    - biomanufacturing
+    - drug-discovery
+    - ai-drug-discovery
+    - diagnostics
+    - gene-therapy
+    - genomics
+    - immunology
+    - medtech
+    - medical-devices
+    - neuroscience
+    - neurotech
+    - oncology
+    - precision-medicine
+    - therapeutics
+    - cell-therapy
+    - mrna
+    - longevity
+    - human-health
+    - value-based-care
+    - synthetic-biology
+    - computational-biology
+    - aging
+    - wellness
+    - femtech
+
+enterprise:
+  label: "Enterprise Software"
+  tags:
+    - enterprise
+    - enterprise-software
+    - enterprise-saas
+    - enterprise-applications
+    - enterprise-infrastructure
+    - saas
+    - b2b-saas
+    - b2b-software
+    - b2b
+    - cloud-saas
+    - vertical-saas
+    - vertical-software
+    - smb-saas
+    - smb-software
+    - smb-tech
+    - application-software
+    - productivity
+    - productivity-software
+    - collaboration
+    - collaboration-tools
+    - hr-tech
+    - hr/talent
+    - sales-tech
+    - gtm-tools
+    - marketing-platforms
+    - martech
+    - tech-enabled-services
+    - no-code
+    - automation
+    - future-of-work
+    - remote-work
+    - workforce
+    - workforce-development
+
+devtools:
+  label: "Developer Tools & Infra"
+  tags:
+    - developer-tools
+    - dev-tools
+    - devops
+    - open-source
+    - commercial-open-source
+    - infrastructure
+    - infrastructure-software
+    - data-infrastructure
+    - cloud-infrastructure
+    - cloud
+    - cloud-networking
+    - computing-infrastructure
+    - internet-infrastructure
+    - web-infrastructure
+    - data
+    - data-analytics
+    - data-services
+    - data-security
+    - analytics
+
+cybersecurity:
+  label: "Cybersecurity"
+  tags:
+    - cybersecurity
+    - security
+    - identity
+    - identity-security
+    - privacy
+    - safety-security
+    - data-security
+    - cloud-security
+    - ai-security
+
+crypto:
+  label: "Crypto & Web3"
+  tags:
+    - crypto
+    - web3
+    - blockchain
+    - defi
+    - nfts
+    - bitcoin
+    - bitcoin-infrastructure
+    - blockchain-infrastructure
+    - blockchain-protocols
+    - crypto-exchanges
+    - crypto-infrastructure
+    - crypto-web3
+    - depin
+    - layer-1
+    - layer-1-blockchains
+    - real-world-assets
+    - stablecoins
+    - web3-infrastructure
+    - zero-knowledge
+    - decentralized-systems
+    - digital-assets
+
+climate:
+  label: "Climate & Energy"
+  tags:
+    - climate
+    - climate-tech
+    - climatech
+    - climatetech
+    - climate-energy
+    - clean-energy
+    - energy
+    - energy-transition
+    - sustainability
+    - sustainable-manufacturing
+    - carbon-removal
+    - decarbonization
+    - deep-decarbonization
+    - building-decarbonization
+    - electrification
+    - electricity
+    - electric-vehicles
+    - grid-software
+    - fusion
+
+defense:
+  label: "Defense & Aerospace"
+  tags:
+    - defense
+    - defense-tech
+    - defence-tech
+    - aerospace
+    - aerospace-defense
+    - space
+    - space-tech
+    - spacetech
+    - american-dynamism
+    - public-safety
+    - national-security
+    - govtech
+    - government-tech
+
+robotics:
+  label: "Robotics & Hardware"
+  tags:
+    - robotics
+    - ai-robotics
+    - autonomy-robotics
+    - autonomous-systems
+    - autonomous-vehicles
+    - autonomy
+    - hardware
+    - hardtech
+    - hard-tech
+    - deep-tech
+    - deeptech
+    - deeptech-hardware
+    - iot
+    - iot-hardware
+    - connected-devices
+    - semiconductors
+    - photonics
+    - quantum
+    - quantum-computing
+    - manufacturing
+    - industrial
+    - industrials
+    - industrial-tech
+    - industrial-technology
+    - industrial-materials
+    - industrial-systems
+    - materials-science
+    - mining
+
+consumer:
+  label: "Consumer"
+  tags:
+    - consumer
+    - consumer-internet
+    - consumer-tech
+    - consumer-technology
+    - consumer-brands
+    - consumer-media
+    - consumer-mobile
+    - consumer-services
+    - consumer-hardware
+    - social
+    - social-media
+    - social-data
+    - community
+    - community-platforms
+    - d2c
+    - direct-to-consumer
+    - dtc
+    - creator-economy
+    - creator-tools
+    - media-creation
+    - design
+    - design-tools
+    - lifestyle
+    - beauty
+    - beauty-personal-care
+    - network-effects
+
+marketplaces:
+  label: "Marketplaces & Commerce"
+  tags:
+    - marketplaces
+    - marketplace
+    - e-commerce
+    - ecommerce
+    - commerce
+    - b2b-marketplaces
+    - consumer-marketplaces
+    - digital-marketplaces
+    - labor-marketplaces
+    - livestream-commerce
+    - recommerce
+    - retail
+    - sharing-economy
+    - gig-economy
+    - on-demand-economy
+
+food:
+  label: "Food & Agriculture"
+  tags:
+    - food-tech
+    - food
+    - food-agriculture
+    - food-and-agriculture
+    - food-and-beverage
+    - food-and-water
+    - food-delivery
+    - food-supply-chain
+    - food-waste
+    - foodtech
+    - agriculture
+    - ag-tech
+    - agritech
+    - agtech
+    - ghost-kitchens
+
+proptech:
+  label: "Real Estate & Construction"
+  tags:
+    - proptech
+    - real-estate
+    - real-estate-tech
+    - real-estate-technology
+    - construction-tech
+    - buildings
+    - hospitality
+    - hospitality-tech
+
+education:
+  label: "Education"
+  tags:
+    - edtech
+    - education
+    - ai-education
+    - workforce-education
+
+media:
+  label: "Media & Entertainment"
+  tags:
+    - media
+    - media-entertainment
+    - digital-media
+    - media-telecom
+    - gaming
+    - gaming-esports
+    - mobile-gaming
+    - games
+    - esports
+    - sports
+    - sports-entertainment
+    - sports-and-media
+    - sports-tech
+    - entertainment
+    - music-tech
+    - ad-tech
+    - advertising-technology
+    - vr-ar
+    - ar
+    - culture-media
+    - women-in-sports
+    - women-sports
+
+mobility:
+  label: "Mobility & Logistics"
+  tags:
+    - mobility
+    - transportation
+    - autonomous-vehicles
+    - ev-mobility
+    - automotive
+    - automotive-data
+    - logistics
+    - supply-chain
+    - travel
+    - travel-tech

@@ -214,6 +214,20 @@ queue:
     added: 2026-03-12
 ```
 
+## Sector Tagging
+
+Use **specific** sector tags in `sector_focus` frontmatter arrays. The build system rolls these up into parent categories for browse filtering via `data/sector-taxonomy.yaml`.
+
+**Prefer specific tags over generic ones.** For example:
+- Use `neuroscience` or `neurotech` instead of just `healthcare`
+- Use `payments` or `insurtech` instead of just `fintech`
+- Use `autonomous-vehicles` instead of just `robotics`
+- Use `vertical-saas` instead of just `saas`
+
+It's fine to include both a specific and generic tag (e.g., `[healthcare, neuroscience, digital-health]`) — the taxonomy handles deduplication at the parent level.
+
+**Before inventing a new tag**, check `data/sector-taxonomy.yaml` for an existing tag that fits. New tags that don't map to any parent category will pass through as-is but won't appear in the browse page filter.
+
 ## Citation Requirements
 
 **Every factual claim MUST have a footnote citation.** No exceptions.

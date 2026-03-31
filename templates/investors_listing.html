@@ -18,51 +18,72 @@
 
     <select id="filter-sector">
       <option value="">All Sectors</option>
-      {% for sector in top_sectors %}
-      <option value="{{ sector }}">{{ sector }}</option>
-      {% endfor %}
+      {% if taxonomy_categories %}
+        {% for cat in taxonomy_categories %}
+        <option value="{{ cat.slug }}">{{ cat.label }}</option>
+        {% endfor %}
+      {% else %}
+        {% for sector in top_sectors %}
+        <option value="{{ sector }}">{{ sector }}</option>
+        {% endfor %}
+      {% endif %}
     </select>
 
     <select id="filter-location">
       <option value="">All Locations</option>
-      <optgroup label="US — Major Hubs">
-        <option value="sf-bay-area">SF Bay Area</option>
-        <option value="nyc">New York</option>
-        <option value="la">Los Angeles</option>
-        <option value="boston">Boston</option>
-        <option value="seattle">Seattle</option>
-        <option value="austin">Austin</option>
-        <option value="chicago">Chicago</option>
-        <option value="miami">Miami</option>
-        <option value="dc">Washington DC</option>
-        <option value="denver">Denver / Boulder</option>
+      {% set us_hubs = [
+        ("sf-bay-area", "SF Bay Area"), ("nyc", "New York"), ("la", "Los Angeles"),
+        ("boston", "Boston"), ("seattle", "Seattle"), ("austin", "Austin"),
+        ("chicago", "Chicago"), ("miami", "Miami"), ("dc", "Washington DC"),
+        ("denver", "Denver / Boulder"), ("dallas", "Dallas"), ("san-diego", "San Diego"),
+        ("philadelphia", "Philadelphia"), ("portland", "Portland"),
+        ("salt-lake-city", "Salt Lake City"), ("pittsburgh", "Pittsburgh"),
+        ("atlanta", "Atlanta"), ("minneapolis", "Minneapolis"), ("us-other", "US — Other")
+      ] %}
+      {% set europe = [
+        ("london", "London"), ("paris", "Paris"), ("berlin", "Berlin"),
+        ("sweden", "Sweden"), ("amsterdam", "Amsterdam"), ("switzerland", "Switzerland"),
+        ("germany", "Germany"), ("estonia", "Estonia"), ("ireland", "Ireland")
+      ] %}
+      {% set asia = [
+        ("singapore", "Singapore"), ("israel", "Israel"), ("india", "India"),
+        ("japan", "Japan"), ("hong-kong", "Hong Kong"), ("china", "China"), ("uae", "UAE")
+      ] %}
+      {% set other = [
+        ("canada", "Canada"), ("brazil", "Brazil"), ("australia", "Australia")
+      ] %}
+      {% set us_active = us_hubs | selectattr(0, "in", active_locations) | list %}
+      {% set eu_active = europe | selectattr(0, "in", active_locations) | list %}
+      {% set asia_active = asia | selectattr(0, "in", active_locations) | list %}
+      {% set other_active = other | selectattr(0, "in", active_locations) | list %}
+      {% if us_active %}
+      <optgroup label="US">
+        {% for slug, label in us_active %}
+        <option value="{{ slug }}">{{ label }}</option>
+        {% endfor %}
       </optgroup>
+      {% endif %}
+      {% if eu_active %}
       <optgroup label="Europe">
-        <option value="london">London</option>
-        <option value="paris">Paris</option>
-        <option value="berlin">Berlin</option>
-        <option value="sweden">Sweden</option>
-        <option value="amsterdam">Amsterdam</option>
-        <option value="switzerland">Switzerland</option>
-        <option value="germany">Germany</option>
-        <option value="estonia">Estonia</option>
-        <option value="ireland">Ireland</option>
+        {% for slug, label in eu_active %}
+        <option value="{{ slug }}">{{ label }}</option>
+        {% endfor %}
       </optgroup>
+      {% endif %}
+      {% if asia_active %}
       <optgroup label="Asia & Middle East">
-        <option value="singapore">Singapore</option>
-        <option value="israel">Israel</option>
-        <option value="india">India</option>
-        <option value="japan">Japan</option>
-        <option value="hong-kong">Hong Kong</option>
-        <option value="china">China</option>
-        <option value="uae">UAE</option>
+        {% for slug, label in asia_active %}
+        <option value="{{ slug }}">{{ label }}</option>
+        {% endfor %}
       </optgroup>
+      {% endif %}
+      {% if other_active %}
       <optgroup label="Other">
-        <option value="canada">Canada</option>
-        <option value="brazil">Brazil</option>
-        <option value="australia">Australia</option>
-        <option value="us-other">US — Other</option>
+        {% for slug, label in other_active %}
+        <option value="{{ slug }}">{{ label }}</option>
+        {% endfor %}
       </optgroup>
+      {% endif %}
     </select>
 
     <select id="filter-sort">
@@ -80,6 +101,7 @@
     <a href="/investors/{{ p.slug }}.html" class="listing-card"
        data-stages="{{ p.stage_focus|join(',') if p.stage_focus else '' }}"
        data-sectors="{{ p.sector_focus|join(',') if p.sector_focus else '' }}"
+       data-sector-parents="{{ p.sector_parents }}"
        data-location="{{ p.location_region }}"
        data-last-active="{{ p.last_active }}"
        data-name="{{ p.name }}">
@@ -127,12 +149,12 @@
 
     cards.forEach(function(card) {
       var stages = card.getAttribute('data-stages');
-      var sectors = card.getAttribute('data-sectors');
+      var sectorParents = card.getAttribute('data-sector-parents');
       var loc = card.getAttribute('data-location');
 
       var show = true;
       if (stage && stages.indexOf(stage) === -1) show = false;
-      if (sector && sectors.indexOf(sector) === -1) show = false;
+      if (sector && sectorParents.indexOf(sector) === -1) show = false;
       if (location && loc !== location) show = false;
 
       card.style.display = show ? '' : 'none';
