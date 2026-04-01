@@ -1,23 +1,35 @@
 ---
-name: "Eric Tarczynski"
-slug: eric-tarczynski
-tldr: 'Founder of Contrary Capital, a talent-first seed fund that invests in exceptional individuals before they start companies through a proprietary venture partner university network. Portfolio shows strong fintech and enterprise focus; actively participates in follow-on rounds at growth stages.'
-type: individual
-firm: contrary-capital
-role: "Founder & Managing Partner"
-location: "San Francisco, CA"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [fintech, enterprise, defense-tech, consumer, energy, AI]
-check_size: "$100K-$5M"
-last_verified_investment:
-  date: 2026-01-08
-  company: "Corgi"
-  round: "Seed/Series A"
-social:
-  twitter: "@etarczynski"
-  linkedin: "linkedin.com/in/erictarczynski"
-status: published
+check_size: $100K-$5M
+firm: contrary
 last_researched: 2026-03-26
+last_verified_investment:
+  company: Corgi
+  date: 2026-01-08
+  round: Seed/Series A
+location: San Francisco, CA
+name: Eric Tarczynski
+role: Founder & Managing Partner
+sector_focus:
+- fintech
+- enterprise
+- defense-tech
+- consumer
+- energy
+- AI
+slug: eric-tarczynski
+social:
+  linkedin: linkedin.com/in/erictarczynski
+  twitter: '@etarczynski'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Founder of Contrary Capital, a talent-first seed fund that invests in exceptional
+  individuals before they start companies through a proprietary venture partner university
+  network. Portfolio shows strong fintech and enterprise focus; actively participates
+  in follow-on rounds at growth stages.
+type: individual
 ---
 
 ## Background

@@ -1,23 +1,36 @@
 ---
-name: "Kyle Harrison"
-slug: kyle-harrison
-tldr: 'General Partner at Contrary building later-stage investment practice after 7 years at Index, Coatue, and TCV. Emphasizes talent identification as core to investing; portfolio tilts enterprise software (33%) and defense/hard tech (22%), reflecting genuine interest in nuclear energy and infrastructure.'
-type: individual
-firm: contrary-capital
-role: "General Partner"
-location: "San Francisco, CA"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [enterprise, AI, defense, infrastructure, fintech, developer-tools]
-check_size: "$100K-$2M"
-last_verified_investment:
-  date: 2025-10-02
-  company: "DualEntry"
-  round: "Series A"
-social:
-  twitter: "@kwharrison13"
-  linkedin: "linkedin.com/in/kyle-harrison-9274b278"
-status: published
+check_size: $100K-$2M
+firm: contrary
 last_researched: 2026-03-26
+last_verified_investment:
+  company: DualEntry
+  date: 2025-10-02
+  round: Series A
+location: San Francisco, CA
+name: Kyle Harrison
+role: General Partner
+sector_focus:
+- enterprise
+- AI
+- defense
+- infrastructure
+- fintech
+- developer-tools
+slug: kyle-harrison
+social:
+  linkedin: linkedin.com/in/kyle-harrison-9274b278
+  twitter: '@kwharrison13'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: General Partner at Contrary building later-stage investment practice after 7
+  years at Index, Coatue, and TCV. Emphasizes talent identification as core to investing;
+  portfolio tilts enterprise software (33%) and defense/hard tech (22%), reflecting
+  genuine interest in nuclear energy and infrastructure.
+type: individual
 ---
 
 ## Background

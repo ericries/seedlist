@@ -39,6 +39,9 @@ firms:
 - round: Seed
   slug: boxgroup
   year: 2013
+- round: Early
+  slug: crv
+  year: 2018
 founded: 2012
 founders:
 - name: Howie Liu
@@ -90,6 +93,9 @@ investors:
 - round: Seed
   slug: david-tisch
   year: 2013
+- round: Early
+  slug: saar-gur
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

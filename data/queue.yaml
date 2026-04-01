@@ -6950,7 +6950,7 @@ queue:
 - name: Third Rock Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: alexis-borisy
 - name: Yair Schindel
@@ -6970,13 +6970,13 @@ queue:
 - name: Future Shape
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: tony-fadell
 - name: Revolution
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: steve-case
 - name: Gio Valiante
@@ -7175,7 +7175,7 @@ queue:
 - name: Contrary
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: kyle-harrison
 - name: Arjun Sethi
@@ -7215,7 +7215,7 @@ queue:
 - name: Uncork Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: jeff-clavier
 - name: Steve Harrick
@@ -8102,7 +8102,7 @@ queue:
 - name: Saar Gur
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: CRV
   discovered_from: crv
@@ -8547,3 +8547,65 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: livongo
+- name: Lotus Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saar-gur
+- name: Jeeves
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saar-gur
+- name: Kapwing
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saar-gur
+- name: Human Interest
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncork-capital
+- name: LaunchDarkly
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncork-capital
+- name: Tailscale
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncork-capital
+- name: Zepto
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: contrary
+- name: Nabla
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: future-shape
+- name: Todd Klein
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Revolution
+  discovered_from: revolution
+- name: Donn Davis
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Revolution
+  discovered_from: revolution
