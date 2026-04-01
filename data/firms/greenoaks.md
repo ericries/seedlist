@@ -1,7 +1,7 @@
 ---
 founded: 2012
 fund_size: ~$15B AUM across six funds
-last_researched: 2026-03-20
+last_researched: 2026-04-01
 location: San Francisco, CA
 name: Greenoaks Capital
 sector_focus:
@@ -93,28 +93,28 @@ The firm describes its approach as seeking "generational founders" and building 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Coupang | Growth | 2012 | E-commerce | Active (Public) | [^1] |
-~unknown| Flipkart | Growth | — | E-commerce | Acquired (Walmart) | [^8] |
-~unknown| Robinhood | Growth | — | Fintech | Active (Public) | [^8] |
-~unknown| Toast | Growth | — | Fintech/Restaurant Tech | Active (Public) | [^4] |
-~unknown| Stripe | Growth | — | Payments/Fintech | Active | [^4] |
-~unknown| Figma | Growth | — | Design Software | Active (Public) | [^4][^8] |
-~unknown| Wiz | Growth | — | Cybersecurity | Active | [^4] |
-~unknown| Scale AI | Growth | — | AI Infrastructure | Active | [^10] |
-~unknown| Discord | Growth | — | Consumer/Social | Active | [^4] |
-~unknown| Rippling | Growth | — | HR/Enterprise SaaS | Active | [^4] |
-~unknown| Carvana | Growth | — | E-commerce/Auto | Active (Public) | [^4] |
-~unknown| Databricks | Growth | — | Data/AI Infrastructure | Active | [^10] |
-~unknown| Canva | Growth | — | Design Software | Active | [^10] |
-~unknown| Klaviyo | Growth | — | Marketing Tech | Active (Public) | [^10] |
-~unknown| Navan | Growth | — | Corporate Travel | Active (Public) | [^8] |
-~unknown| Kavak | Growth | — | Auto Marketplace | Active | [^2] |
-~unknown| Misfits Market | Growth | — | E-commerce/Food | Active | [^2] |
-~unknown| Personio | Growth | — | HR Software | Active | [^2] |
-~unknown| Motive | Growth | — | Fleet Management | Active | [^2] |
-~unknown| Sierra | Growth | — | AI | Active | [^10] |
+| Coupang | Series B | 2014 | E-commerce | Public (NYSE: CPNG) | [^11] |
+| Flipkart | Growth | 2014 | E-commerce | Acquired (Walmart) | [^12] |
+| Robinhood | Series C | 2017 | Fintech | Public (NASDAQ: HOOD) | [^13] |
+| Toast | Series F | 2020 | Fintech/Restaurant Tech | Public (NYSE: TOST) | [^14] |
+| Stripe | Growth | ~2019 | Payments/Fintech | Active | [^4] |
+| Figma | Series F | 2024 | Design Software | Public (NYSE) | [^8] |
+| Wiz | Series B | 2021 | Cybersecurity | Acquired (Google, $32B) | [^15] |
+| Scale AI | Series E | 2021 | AI Infrastructure | Active | [^16] |
+| Discord | Series H | 2020 | Consumer/Social | Active | [^17] |
+| Rippling | Growth | 2020 | HR/Enterprise SaaS | Active | [^4] |
+| Carvana | Public market | ~2022 | E-commerce/Auto | Public (NYSE: CVNA) | [^4] |
+| Databricks | Series G | 2021 | Data/AI Infrastructure | Active | [^10] |
+| Canva | Series F | 2021 | Design Software | Active | [^18] |
+| Klaviyo | Growth | ~2021 | Marketing Tech | Public (NYSE: KVYO) | [^10] |
+| Navan | Convertible | 2020 | Corporate Travel | Public (NASDAQ) | [^8] |
+| Kavak | Growth | 2020 | Auto Marketplace | Active | [^19] |
+| Misfits Market | Series C | 2021 | E-commerce/Food | Active | [^2] |
+| Personio | Series E | 2022 | HR Software | Active | [^20] |
+| Motive (KeepTruckin) | Series D | 2019 | Fleet Management | Active | [^21] |
+| Sierra | Growth | 2025 | AI | Active | [^22] |
 
-*This table represents approximately 18% of Greenoaks' 114 total investments [^8]. Many investment years could not be independently verified and are omitted rather than estimated.*
+*This table represents approximately 18% of Greenoaks' 114 total investments [^8]. Investment years are based on primary press sources where available.*
 
 ## In Their Own Words
 
@@ -142,3 +142,15 @@ No independently sourced founder testimonials found. Greenoaks maintains a minim
 [^8]: Tracxn, "Greenoaks - 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/greenoaks/__SZwxGt5lxLDws_T8i6x87G6mrNYtZO84bZ7OdSWDFjE
 [^9]: Apple Podcasts, "Neil Mehta - Finding Future S&P 500 Companies - Invest Like the Best, EP.419," accessed March 2026. https://podcasts.apple.com/us/podcast/neil-mehta-finding-future-s-p-500-companies/id1154105909?i=1000703568430
 [^10]: Leviathanencyclopedia.com, "Greenoaks Capital Partners — Encyclopedia," accessed March 2026. https://www.leviathanencyclopedia.com/article/greenoaks-capital-partners
+[^11]: TechCrunch, "Sequoia Backs Coupang, South Korea's Answer To Amazon, With $100 Million," May 28, 2014. https://techcrunch.com/2014/05/28/sequoia-backs-coupang-koreas-answer-to-amazon-with-100-million/
+[^12]: MediaNama, "Flipkart raises $700 million; $1.91 billion raised in 2014," December 2014. https://www.medianama.com/2014/12/223-flipkart-funding-2014/
+[^13]: Robinhood Wikipedia, "Robinhood Markets," accessed April 2026. https://en.wikipedia.org/wiki/Robinhood_Markets
+[^14]: Toast, "Toast Announces $400M in Series F Funding," February 2020. https://pos.toasttab.com/news/toast-announces-400m-in-series-f-funding
+[^15]: Wiz Blog, "Celebrating Our Series C: Zero to $6 Billion in 18 Months," October 2021. https://www.wiz.io/blog/celebrating-our-series-c-zero-to-6-billion-in-18-months
+[^16]: TechCrunch, "Data-labeling startup Scale AI raises $1B as valuation doubles to $13.8B," May 2024. https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/
+[^17]: Global Venturing, "Discord draws $100m in series H funding," December 21, 2020. https://globalventuring.com/blog/2020/12/21/discord-draws-100m-in-series-h-funding/
+[^18]: TechCrunch, "Canva raises $200 million at a $40 billion valuation," September 14, 2021. https://techcrunch.com/2021/09/14/canva-raises-200-million-at-a-40-billion-valuation/
+[^19]: LAVCA, "SoftBank, DST Global, and Greenoaks Lead Undisclosed Round in Car Resale Kavak," October 2020. https://www.lavca.org/softbank-dst-global-and-greenoaks-lead-undisclosed-round-in-car-resale-kavak/
+[^20]: Personio, "Personio raises $200M in second Series E to drive expansion," 2022. https://www.personio.com/about-personio/press/personio-raises-200m-second-series-e/
+[^21]: Transport Topics, "KeepTruckin Gets $149 Million Investment From Greenoaks Capital," 2019. https://www.ttnews.com/articles/keeptruckin-gets-149-million-investment-greenoaks-capital
+[^22]: TechCrunch, "Bret Taylor's Sierra raises $350M at a $10B valuation," September 4, 2025. https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/

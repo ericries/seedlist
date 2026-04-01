@@ -19,7 +19,7 @@ team:
     role: Partner
     slug: ishani-thakur
 status: published
-last_researched: 2026-03-19
+last_researched: 2026-04-01
 ---
 
 ## About
@@ -60,14 +60,14 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Applied Compute | Series A | 2025 | Infrastructure | [^4] |
+| Applied Compute | Seed | 2025 | AI/Infrastructure | [^13] |
 | Arcade | — | 2024-2025 | Developer Tools | [^9] |
 | ArchiBoost AI | — | 2024-2025 | AI | [^4][^9] |
-| Brinc Drones | Series B | 2025 | Robotics/Hardware | [^9] |
-| Cartesia | — | 2024-2025 | AI | [^9] |
+| Brinc Drones | Series C | 2025 | Robotics/Hardware | [^14] |
+| Cartesia | Series A | 2025 | AI | [^15] |
 | Cerebras | — | 2024-2025 | AI/Chips | [^9] |
-| ClickHouse | — | 2024-2025 | Data Infrastructure | [^9] |
-| Cognition | Growth | 2025 | AI | [^11] |
+| ClickHouse | Series C | 2025 | Data Infrastructure | [^16] |
+| Cognition | Growth | 2025 | AI | [^17] |
 | Cursor | — | 2024-2025 | Developer Tools | [^9] |
 | Flora | — | 2024-2025 | AI | [^9] |
 | LiveKit | Series B | 2025 | Infrastructure | [^10] |
@@ -79,7 +79,7 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 | Simile | — | 2024-2025 | AI | [^9] |
 | Traversal | — | 2025-2026 | Developer Tools | [^4][^9] |
 
-Note: Many investment dates are approximate (2024-2025) because Hanabi was founded in 2024 and specific round dates are not publicly disclosed for most investments. The firm's portfolio page lists 18 companies [^9].
+Note: Many investment dates are approximate (2024-2025) because Hanabi was founded in 2024 and specific round dates are not publicly disclosed for most investments. The firm's portfolio page lists 18 companies [^9]. Applied Compute's $20M seed round predated its later $80M round [^13][^18]. Brinc Drones' round was reported as Series C based on prior funding history [^14]. Mike Volpi invested personally in Brinc; Hanabi is listed as an investor via the firm's portfolio page [^9][^14].
 
 ## In Their Own Words
 
@@ -111,3 +111,9 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 [^10]: "LiveKit Raises $45M Series B," CityBiz, accessed March 2026. https://www.citybiz.co/article/681836/livekit-raises-45m-series-b/
 [^11]: Cognition, PitchBook company profile, accessed March 2026. https://pitchbook.com/profiles/company/590473-45
 [^12]: Mike Volpi, Signal by NFX investor profile, accessed March 2026. https://signal.nfx.com/investors/mike-volpi
+[^13]: Upstarts Media, "Scoop: Ex-OpenAI Staffers Raise $20M For New Startup Applied Compute," June 27, 2025. https://www.upstartsmedia.com/p/ex-openai-applied-compute-raises-20m
+[^14]: TechCrunch, "A 25-year-old police drone founder just raised $75M led by Index," April 8, 2025. https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/
+[^15]: Cartesia, Tracxn funding rounds, accessed April 2026. https://tracxn.com/d/companies/cartesia/__ViCPaxy5xjTcNRZb2Njd3bZbE5VNNFrxFvBA3r6pavM/funding-and-investors
+[^16]: ClickHouse Blog, "ClickHouse Extends Series C Financing and Expands Leadership Team to Fuel Growth," October 7, 2025. https://clickhouse.com/blog/clickhouse-extends-series-c-financing-expands-leadership-team
+[^17]: Cognition Blog, "Funding, growth, and the next frontier of AI coding agents," September 8, 2025. https://cognition.ai/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents
+[^18]: Pulse2, "Applied Compute Launches with $80 Million To Build Specific Intelligence For Enterprise AI Agents," November 4, 2025. https://pulse2.com/applied-compute-launches-with-80-million-to-build-specific-intelligence-for-enterprise-ai-agents/

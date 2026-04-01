@@ -2,7 +2,7 @@
 aum: $15B
 founded: 2012
 fund_size: $2.5B (Fund VI, 2025)
-last_researched: 2026-03-22
+last_researched: 2026-04-01
 location: San Francisco, CA
 name: Greenoaks Capital
 sector_focus:
@@ -84,10 +84,10 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Coupang | Growth | 2014 | E-commerce | Public (NYSE: CPNG) | [^11] |
-| Flipkart | Series E | 2014 | E-commerce | Acquired (Walmart) | [^16] |
+| Flipkart | Growth | 2014 | E-commerce | Acquired (Walmart) | [^37] |
 | OYO | Series A | 2014 | Hospitality | Active | [^16] |
 | Deliveroo | Series C | 2015 | Food delivery | Public (LSE) | [^16] |
-| Robinhood | Series C | 2017 | Fintech | Public (NASDAQ: HOOD) | [^16] |
+| Robinhood | Series C | 2017 | Fintech | Public (NASDAQ: HOOD) | [^38] |
 | Brex | Series C | 2018 | Fintech | Active | [^20] |
 | Discord | Series H | 2020 | Consumer/gaming | Active | [^21] |
 | Motive (KeepTruckin) | Series D | 2019 | Fleet management | Active | [^22] |
@@ -100,10 +100,10 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Airwallex | Series D | 2021 | Fintech/payments | Active | [^27] |
 | Canva | Series F | 2021 | Design software | Active | [^28] |
 | Cockroach Labs | Series F | 2021 | Database/infrastructure | Active | [^29] |
-| Databricks | Series G | 2021 | Data/AI infrastructure | Active | [^16] |
+| Databricks | Series G | 2021 | Data/AI infrastructure | Active | [^39] |
 | Navan (TripActions) | Series F | 2021 | Travel/expense | Public (NASDAQ) | [^24] |
 | Papaya Global | Series C | 2021 | HR/payroll | Active | [^30] |
-| Scale AI | Series E | 2021 | AI/data labeling | Active | [^15] |
+| Scale AI | Series E | 2021 | AI/data labeling | Active | [^40] |
 | Tipalti | Series E | 2021 | Fintech/payments | Active | [^31] |
 | Wiz | Series B | 2021 | Cybersecurity | Acquired (Google, $32B) | [^32] |
 | Checkout.com | Series C | 2021 | Fintech/payments | Active | [^16] |
@@ -113,7 +113,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Cyera | Series E | 2025 | Cybersecurity/AI | Active | [^34] |
 | Sierra | Growth | 2025 | AI/agents | Active | [^35] |
 | Tempo | Series A | 2025 | Blockchain/payments | Active | [^36] |
-| Cyera | Series F | 2025 | Cybersecurity/AI | Active | [^25] |
+| Cyera | Series F | 2025 | Cybersecurity/AI | Active | [^41] |
 
 This table represents approximately 30% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
 
@@ -172,9 +172,13 @@ No additional independently sourced founder testimonials from portfolio company 
 [^29]: "Cockroach Labs keeps rolling with $278M Series F on $5B valuation," TechCrunch, December 16, 2021. https://techcrunch.com/2021/12/16/cockroach-rolls-on-with-278m-series-f-on-5b-valuation/
 [^30]: "Papaya Global raises $100M more at a $1B+ valuation," TechCrunch, March 4, 2021. https://techcrunch.com/2021/03/04/papaya-global-raises-100m-more-at-a-1b-valuation-for-tools-to-hire-pay-and-manage-distributed-workforces/
 [^31]: "Tipalti Raises $150 Million in Series E Funding," CPA Practice Advisor, 2021. https://www.cpapracticeadvisor.com/accounting-audit/news/21157197/tipalti-raises-150-million-in-series-e-funding
-[^31]: "Confirmed: Google buys Wiz for $32B to beef up in cloud security," TechCrunch, March 18, 2025. https://techcrunch.com/2025/03/18/google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security/
-[^32]: Figma funding rounds, Tracxn, accessed March 2026. https://tracxn.com/d/companies/figma/__ax4OtPOcmyjsFUT81_oGsjztypgqH8K3cQ0_zcUnNBo/funding-and-investors
-[^33]: "Cyera secures $540m to fuel global AI security expansion," Fintech Global, June 12, 2025. https://fintech.global/2025/06/12/cyera-secures-540m-to-fuel-global-ai-security-expansion/
-[^34]: "Bret Taylor's Sierra raises $350M at a $10B valuation," TechCrunch, September 4, 2025. https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/
-[^35]: "Stripe-backed blockchain startup Tempo raises $500 million round led by Joshua Kushner's Thrive Capital and Greenoaks," Fortune, October 17, 2025. https://fortune.com/crypto/2025/10/17/stripe-paradigm-tempo-series-a-5-billion-thrive-capital-greenoaks-joshua-kushner/
-[^36]: "Cyera Raises $400M to Meet Rapidly Growing Demand for AI Security Among Enterprises," BusinessWire, January 8, 2026. https://www.businesswire.com/news/home/20260108628439/en/Cyera-Raises-$400M-to-Meet-Rapidly-Growing-Demand-for-AI-Security-Among-Enterprises
+[^32]: "Confirmed: Google buys Wiz for $32B to beef up in cloud security," TechCrunch, March 18, 2025. https://techcrunch.com/2025/03/18/google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security/
+[^33]: Figma funding rounds, Tracxn, accessed March 2026. https://tracxn.com/d/companies/figma/__ax4OtPOcmyjsFUT81_oGsjztypgqH8K3cQ0_zcUnNBo/funding-and-investors
+[^34]: "Cyera secures $540m to fuel global AI security expansion," Fintech Global, June 12, 2025. https://fintech.global/2025/06/12/cyera-secures-540m-to-fuel-global-ai-security-expansion/
+[^35]: "Bret Taylor's Sierra raises $350M at a $10B valuation," TechCrunch, September 4, 2025. https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/
+[^36]: "Stripe-backed blockchain startup Tempo raises $500 million round led by Joshua Kushner's Thrive Capital and Greenoaks," Fortune, October 17, 2025. https://fortune.com/crypto/2025/10/17/stripe-paradigm-tempo-series-a-5-billion-thrive-capital-greenoaks-joshua-kushner/
+[^37]: MediaNama, "Flipkart raises $700 million; $1.91 billion raised in 2014," December 2014. https://www.medianama.com/2014/12/223-flipkart-funding-2014/
+[^38]: Robinhood Markets, Wikipedia, accessed April 2026. https://en.wikipedia.org/wiki/Robinhood_Markets
+[^39]: Databricks, "Databricks Raises $1 Billion Series G Investment at $28 Billion Valuation," February 2021. https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation
+[^40]: Scale AI, Tracxn funding rounds, accessed April 2026. https://tracxn.com/d/companies/scaleai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI/funding-and-investors
+[^41]: "Cyera Raises $400M to Meet Rapidly Growing Demand for AI Security Among Enterprises," BusinessWire, January 8, 2026. https://www.businesswire.com/news/home/20260108628439/en/Cyera-Raises-400M-to-Meet-Rapidly-Growing-Demand-for-AI-Security-Among-Enterprises
