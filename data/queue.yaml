@@ -6944,7 +6944,7 @@ queue:
 - name: Curie.Bio
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: alexis-borisy
 - name: Third Rock Ventures
@@ -7248,7 +7248,7 @@ queue:
 - name: The Production Board
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: david-friedberg
 - name: Mark Cuban
@@ -7298,7 +7298,7 @@ queue:
 - name: Future Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: steve-jurvetson
 - name: Maryanna Saenko
@@ -7330,7 +7330,7 @@ queue:
 - name: Goat Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: justin-kan
 - name: Robin Chan
@@ -7355,7 +7355,7 @@ queue:
 - name: Kapor Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: mitch-kapor
 - name: Freada Kapor Klein
@@ -7960,7 +7960,7 @@ queue:
 - name: Adam Rothenberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: BoxGroup
   discovered_from: boxgroup
@@ -8158,7 +8158,7 @@ queue:
 - name: Ian Hathaway
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenAI Startup Fund
   discovered_from: openai-startup-fund
@@ -8659,3 +8659,41 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: amoon
+- name: Christoph Lengauer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Curie.Bio
+  discovered_from: curie-bio
+- name: Risa Stack
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: The Production Board
+  discovered_from: the-production-board
+- name: Haystack
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hathaway
+- name: Adaptive Security
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hathaway
+- name: Xendit
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: goat-capital
+- name: Bold Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: future-ventures

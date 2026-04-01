@@ -174,6 +174,9 @@ investors:
 - round: Growth
   slug: will-griffith
   year: 2025
+- round: Seed
+  slug: adam-rothenberg
+  year: 2019
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

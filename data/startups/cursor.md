@@ -54,6 +54,9 @@ firms:
 - round: Seed
   slug: boxgroup
   year: 2023
+- round: Seed ($8M, led)
+  slug: openai-startup-fund
+  year: 2023
 founded: 2022
 founders:
 - name: Michael Truell
@@ -110,6 +113,12 @@ investors:
 - round: Seed
   slug: david-tisch
   year: 2023
+- round: Seed ($8M, led)
+  slug: ian-hathaway
+  year: 2023
+- round: Seed
+  slug: adam-rothenberg
+  year: 2022
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

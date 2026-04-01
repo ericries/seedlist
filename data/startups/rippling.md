@@ -51,6 +51,9 @@ firms:
 - round: '2022'
   slug: bedrock
   year: 2022
+- round: '2022'
+  slug: bedrock-capital
+  year: 2022
 founded: 2016
 founders:
 - name: Parker Conrad

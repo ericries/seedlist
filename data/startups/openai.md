@@ -48,6 +48,9 @@ firms:
 - round: 2021-present
   slug: bedrock
   year: 2021
+- round: 2021-present
+  slug: bedrock-capital
+  year: 2021
 founded: 2015
 founders:
 - name: Sam Altman

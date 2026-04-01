@@ -175,6 +175,9 @@ investors:
 - round: Series D
   slug: laela-sturdy
   year: 2016
+- round: Seed
+  slug: adam-rothenberg
+  year: 2011
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

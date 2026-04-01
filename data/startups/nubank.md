@@ -90,6 +90,9 @@ firms:
 - round: ~2014
   slug: bedrock
   year: 2014
+- round: ~2014
+  slug: bedrock-capital
+  year: 2014
 founded: 2013
 founders:
 - name: David Vélez

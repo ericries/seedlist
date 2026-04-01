@@ -53,6 +53,9 @@ investors:
 - round: Seed
   slug: david-tisch
   year: 2013
+- round: Seed
+  slug: adam-rothenberg
+  year: 2012
 last_researched: 2026-03-23
 location: New York, NY
 name: Flatiron Health

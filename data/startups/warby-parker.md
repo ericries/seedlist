@@ -113,6 +113,9 @@ investors:
 - round: Seed
   slug: david-tisch
   year: 2011
+- round: Seed
+  slug: adam-rothenberg
+  year: 2010
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker
