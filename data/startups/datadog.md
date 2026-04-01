@@ -9,6 +9,9 @@ firms:
 - round: Growth / public
   slug: dragoneer
   year: 2019
+- round: Series D
+  slug: iconiq-growth
+  year: 2015
 founded: 2010
 founders:
 - name: Olivier Pomel
@@ -28,6 +31,9 @@ investors:
 - round: '2018'
   slug: eric-liaw
   year: 2018
+- round: Series D
+  slug: will-griffith
+  year: 2015
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

@@ -36,6 +36,9 @@ firms:
 - round: Angel
   slug: af-square
   year: 2012
+- round: '2012'
+  slug: bedrock
+  year: 2012
 founded: 2012
 founders:
 - name: Logan Green
@@ -84,6 +87,9 @@ investors:
   year: 2011
 - round: Angel
   slug: troy-carter
+  year: 2012
+- round: '2012'
+  slug: geoff-lewis
   year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California

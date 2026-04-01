@@ -51,6 +51,9 @@ firms:
 - round: Angel
   slug: true-ventures
   year: 2022
+- round: Series G (co-lead)
+  slug: iconiq-growth
+  year: 2025
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -127,6 +130,9 @@ investors:
 - round: Growth
   slug: saam-motamedi
   year: 2023
+- round: Series G (co-lead)
+  slug: will-griffith
+  year: 2025
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

@@ -54,6 +54,9 @@ firms:
 - round: Seed
   slug: y-combinator
   year: 2014
+- round: Growth
+  slug: iconiq-growth
+  year: 2021
 founded: 2012
 founders:
 - name: Sajith Wickramasekara
@@ -102,6 +105,9 @@ investors:
 - round: Growth
   slug: brandon-reeves
   year: 2020
+- round: Growth
+  slug: will-griffith
+  year: 2021
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Benchling

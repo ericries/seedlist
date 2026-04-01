@@ -136,6 +136,9 @@ investors:
 - round: Series A
   slug: guillermo-rauch
   year: 2023
+- round: Series C (lead)
+  slug: will-griffith
+  year: 2024
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

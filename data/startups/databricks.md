@@ -42,6 +42,9 @@ firms:
 - round: ~2023
   slug: benchmark
   year: 2023
+- round: Late-stage
+  slug: iconiq-growth
+  year: 2024
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -101,6 +104,9 @@ investors:
 - round: ~2023
   slug: everett-randle
   year: 2023
+- round: Late-stage
+  slug: will-griffith
+  year: 2024
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Databricks

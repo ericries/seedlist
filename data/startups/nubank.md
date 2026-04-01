@@ -87,6 +87,9 @@ firms:
 - round: series-g
   slug: ribbit-capital
   year: 2021
+- round: ~2014
+  slug: bedrock
+  year: 2014
 founded: 2013
 founders:
 - name: David Vélez
@@ -129,6 +132,9 @@ investors:
 - round: Series D
   slug: micky-malka
   year: 2016
+- round: ~2014
+  slug: geoff-lewis
+  year: 2014
 last_researched: 2026-03-31
 location: São Paulo, Brazil
 name: Nubank

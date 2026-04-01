@@ -69,6 +69,9 @@ firms:
 - round: Angel
   slug: neo
   year: 2009
+- round: Growth
+  slug: iconiq-growth
+  year: 2014
 founded: 2008
 founders:
 - name: Brian Chesky
@@ -159,6 +162,9 @@ investors:
 - round: Angel
   slug: ali-partovi
   year: 2009
+- round: Growth
+  slug: will-griffith
+  year: 2014
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

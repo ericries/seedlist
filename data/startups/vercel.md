@@ -57,6 +57,9 @@ firms:
 - round: ~2018
   slug: marathon-management-partners
   year: 2018
+- round: '2021'
+  slug: bedrock
+  year: 2021
 founded: 2015
 founders:
 - name: Guillermo Rauch
@@ -93,6 +96,9 @@ investors:
 - round: Series A
   slug: saar-gur
   year: 2020
+- round: '2021'
+  slug: geoff-lewis
+  year: 2021
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Vercel

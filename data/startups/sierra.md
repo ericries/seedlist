@@ -27,6 +27,9 @@ firms:
 - round: '2023'
   slug: conviction
   year: 2023
+- round: Series C
+  slug: iconiq-growth
+  year: 2024
 founded: 2023
 founders:
 - name: Bret Taylor
@@ -49,6 +52,9 @@ investors:
 - round: '2023'
   slug: sarah-guo
   year: 2023
+- round: Series C
+  slug: will-griffith
+  year: 2024
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Sierra

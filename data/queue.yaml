@@ -6938,7 +6938,7 @@ queue:
 - name: aMoon
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: marius-nacht
 - name: Curie.Bio
@@ -7083,7 +7083,7 @@ queue:
 - name: PSP Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: penny-pritzker
 - name: Pritzker Group
@@ -7116,7 +7116,7 @@ queue:
 - name: CoinFund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: david-pakman
 - name: Howard Schultz
@@ -7148,7 +7148,7 @@ queue:
 - name: Inspired Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: penny-pritzker
 - name: Lucy Deland
@@ -7906,7 +7906,7 @@ queue:
 - name: Will Griffith
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: ICONIQ Growth
   discovered_from: iconiq-growth
@@ -8074,7 +8074,7 @@ queue:
 - name: Geoff Lewis
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bedrock
   discovered_from: bedrock-capital
@@ -8609,3 +8609,53 @@ queue:
   added: '2026-03-17'
   firm: Revolution
   discovered_from: revolution
+- name: Bedrock
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: geoff-lewis
+- name: Teamshares
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inspired-capital
+- name: Rho
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inspired-capital
+- name: Momei Qu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: PSP Partners
+  discovered_from: psp-partners
+- name: OpenSpace
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: psp-partners
+- name: Synthesia
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: psp-partners
+- name: Tomer Berkovitz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: aMoon
+  discovered_from: amoon
+- name: Omada Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amoon

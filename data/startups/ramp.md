@@ -84,6 +84,12 @@ firms:
 - round: Early Stage
   slug: boxgroup
   year: 2020
+- round: Growth
+  slug: iconiq-growth
+  year: 2025
+- round: '2021'
+  slug: contrary
+  year: 2021
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -165,6 +171,9 @@ investors:
 - round: Growth
   slug: brandon-reeves
   year: 2021
+- round: Growth
+  slug: will-griffith
+  year: 2025
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

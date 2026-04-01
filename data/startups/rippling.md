@@ -48,6 +48,9 @@ firms:
 - round: Early
   slug: goat-capital
   year: 2018
+- round: '2022'
+  slug: bedrock
+  year: 2022
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -100,6 +103,9 @@ investors:
 - round: Early
   slug: justin-kan
   year: 2018
+- round: '2022'
+  slug: geoff-lewis
+  year: 2022
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

@@ -141,6 +141,9 @@ firms:
 - round: Angel
   slug: kindred-ventures
   year: 2009
+- round: Growth
+  slug: iconiq-growth
+  year: 2015
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -259,6 +262,9 @@ investors:
 - round: Angel
   slug: steve-jang
   year: 2009
+- round: Growth
+  slug: will-griffith
+  year: 2015
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

@@ -106,6 +106,9 @@ firms:
 - round: Series D ($160M round)
   slug: dragoneer
   year: 2013
+- round: Growth
+  slug: iconiq-growth
+  year: 2018
 founded: 2007
 founders:
 - name: Sachin Bansal
@@ -140,6 +143,9 @@ investors:
 - round: Series D ($160M round)
   slug: marc-stad
   year: 2013
+- round: Growth
+  slug: will-griffith
+  year: 2018
 last_researched: 2026-03-19
 location: Bengaluru, India
 name: Flipkart

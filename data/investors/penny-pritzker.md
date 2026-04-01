@@ -1,23 +1,36 @@
 ---
-name: "Penny Pritzker"
-slug: penny-pritzker
-tldr: 'Founder of PSP Partners and co-founder of Inspired Capital ($330M raised). Invests through multiple vehicles: PSP Growth ($1-25M checks, B2B SaaS focus) and Inspired Capital ($1-15M early-stage). Portfolio includes fintech (Finix, Rho), AI/ML, and healthtech. Former U.S. Secretary of Commerce.'
-type: individual
+check_size: $1M-$15M (via Inspired Capital); $1M-$25M (via PSP Growth)
 firm: psp-partners
-role: "Founder & Chairman"
-location: "Chicago, IL"
-stage_focus: [seed, series-a, series-b, growth]
-sector_focus: [fintech, B2B-software, proptech, healthcare, industrials, AI]
-check_size: "$1M-$15M (via Inspired Capital); $1M-$25M (via PSP Growth)"
-last_verified_investment:
-  date: 2025-12-02
-  company: "Zafran"
-  round: "Series C"
-social:
-  twitter: "@PennyPritzker"
-  linkedin: "linkedin.com/in/penny-pritzker"
-status: published
 last_researched: 2026-03-26
+last_verified_investment:
+  company: Zafran
+  date: 2025-12-02
+  round: Series C
+location: Chicago, IL
+name: Penny Pritzker
+role: Founder & Chairman
+sector_focus:
+- fintech
+- B2B-software
+- proptech
+- healthcare
+- industrials
+- AI
+slug: penny-pritzker
+social:
+  linkedin: linkedin.com/in/penny-pritzker
+  twitter: '@PennyPritzker'
+stage_focus:
+- seed
+- series-a
+- series-b
+- growth
+status: published
+tldr: 'Founder of PSP Partners and co-founder of Inspired Capital ($330M raised).
+  Invests through multiple vehicles: PSP Growth ($1-25M checks, B2B SaaS focus) and
+  Inspired Capital ($1-15M early-stage). Portfolio includes fintech (Finix, Rho),
+  AI/ML, and healthtech. Former U.S. Secretary of Commerce.'
+type: individual
 ---
 
 ## Background

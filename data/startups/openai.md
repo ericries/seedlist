@@ -45,6 +45,9 @@ firms:
 - round: Angel
   slug: true-ventures
   year: 2021
+- round: 2021-present
+  slug: bedrock
+  year: 2021
 founded: 2015
 founders:
 - name: Sam Altman
@@ -115,6 +118,9 @@ investors:
   year: 2016
 - round: Angel
   slug: kevin-rose
+  year: 2021
+- round: 2021-present
+  slug: geoff-lewis
   year: 2021
 last_researched: 2026-03-13
 location: San Francisco, CA

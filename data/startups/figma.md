@@ -54,6 +54,9 @@ firms:
 - round: Seed
   slug: indie-vc
   year: 2013
+- round: Seed
+  slug: iconiq-growth
+  year: 2013
 founded: 2012
 founders:
 - name: Dylan Field
@@ -120,6 +123,9 @@ investors:
   year: 2013
 - round: Seed
   slug: bryce-roberts
+  year: 2013
+- round: Seed
+  slug: will-griffith
   year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
