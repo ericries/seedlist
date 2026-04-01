@@ -91,47 +91,47 @@ Based on 75 verified portfolio companies from Heavybit's website [^5]:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Apollo GraphQL | — | ~2016 | Developer Tools | Active [^5] |
-| Aserto | — | ~2020 | Security | Active [^5] |
-| Avo | — | ~2019 | Data/Analytics | Active [^5] |
-| Blockdaemon | — | ~2017 | Blockchain Infrastructure | Active [^5] |
-| CircleCI | — | ~2013 | Developer Tools (CI/CD) | Active [^5] |
-| Citus Data | Acquired | ~2012 | Database | Acquired by Microsoft [^5] |
-| Contentful | — | ~2013 | CMS | Active [^5] |
-| Continue | — | ~2023 | AI Developer Tools | Active [^5] |
-| Crunchy Data | — | ~2017 | Database | Active [^5] |
-| Gradle | — | ~2015 | Build Automation | Active [^5] |
-| Groundcover | — | ~2021 | Observability | Active [^5] |
-| Jeli | Acquired | ~2019 | Incident Analysis | Acquired by PagerDuty [^5] |
-| Kosli | — | ~2020 | DevOps | Active [^5] |
-| Kubiya | — | ~2022 | AI DevOps | Active [^5] |
-| LaunchDarkly | — | ~2014 | Feature Management | Active [^5] |
-| Lightstep | Acquired | ~2015 | Observability | Acquired by ServiceNow [^5] |
-| LocalStack | — | ~2021 | Cloud Testing | Active [^5] |
-| Memgraph | — | ~2019 | Graph Database | Active [^5] |
-| MightyMeld | — | ~2022 | Frontend Dev Tools | Active [^5] |
-| Milestone | — | ~2023 | Enterprise AI | Active [^5] |
-| Mobot | — | ~2019 | Mobile QA | Active [^5] |
-| Mux | — | ~2015 | Video API | Active [^5] |
-| Netlify | — | ~2015 | Web Platform | Active [^5] |
-| PagerDuty | IPO | ~2013 | Incident Response | Public (NYSE: PD) [^5] |
-| Pantheon | — | ~2013 | Website Management | Active [^5] |
-| Particle | — | ~2013 | IoT | Active [^5] |
-| Radar | — | ~2016 | Geofencing | Active [^5] |
-| Readme | — | ~2015 | API Documentation | Active [^5] |
-| Replicate | — | ~2021 | AI Models | Active [^5] |
-| Replicated | — | ~2015 | Software Delivery | Active [^5] |
-| Sanity | — | ~2017 | Content Platform | Active [^5] |
-| Serverless | — | ~2015 | Serverless Tools | Active [^5] |
-| Shipyard | — | ~2019 | Ephemeral Environments | Active [^5] |
-| Snyk | — | ~2016 | Developer Security | Active [^5] |
-| Tailscale | — | ~2019 | VPN/Networking | Active [^5] |
-| Tonic | — | ~2018 | Synthetic Data | Active [^5] |
-| Treasure Data | Acquired | ~2013 | Customer Data | Acquired [^5] |
-| Unikraft | — | ~2022 | Cloud Scaling | Active [^5] |
-| Vibrant Labs | — | ~2024 | AI Agent Simulation | Active [^5] |
+| Apollo GraphQL | Seed | ~2016 | Developer Tools | Active [^5] |
+| Aserto | Seed | ~2020 | Security | Active [^5] |
+| Avo | Seed | ~2019 | Data/Analytics | Active [^5] |
+| Blockdaemon | Seed | ~2017 | Blockchain Infrastructure | Active [^5] |
+| CircleCI | Seed | ~2013 | Developer Tools (CI/CD) | Active [^5] |
+| Citus Data | Seed | ~2012 | Database | Acquired by Microsoft [^5] |
+| Contentful | Seed | ~2013 | CMS | Active [^5] |
+| Continue | Seed | ~2023 | AI Developer Tools | Active [^5] |
+| Crunchy Data | Seed | ~2017 | Database | Acquired [^5] |
+| Gradle | Seed | ~2015 | Build Automation | Active [^5] |
+| Groundcover | Seed | ~2021 | Observability | Active [^5] |
+| Jeli | Seed | ~2019 | Incident Analysis | Acquired by PagerDuty [^5] |
+| Kosli | Seed | ~2020 | DevOps | Active [^5][^8] |
+| Kubiya | Seed | ~2022 | AI DevOps | Active [^5] |
+| LaunchDarkly | Seed | ~2014 | Feature Management | Active [^5] |
+| Lightstep | Seed | ~2015 | Observability | Acquired by ServiceNow [^5] |
+| LocalStack | Seed | ~2021 | Cloud Testing | Active [^5] |
+| Memgraph | Seed | ~2019 | Graph Database | Active [^5] |
+| MightyMeld | Seed | ~2022 | Frontend Dev Tools | Active [^5] |
+| Milestone | Seed | ~2023 | Enterprise AI | Active [^5] |
+| Mobot | Seed | ~2019 | Mobile QA | Active [^5] |
+| Mux | Seed | ~2015 | Video API | Active [^5] |
+| Netlify | Seed | ~2015 | Web Platform | Active [^5] |
+| PagerDuty | Seed | ~2013 | Incident Response | Public (NYSE: PD) [^5] |
+| Pantheon | Seed | ~2013 | Website Management | Active [^5] |
+| Particle | Seed | ~2013 | IoT | Acquired [^5] |
+| Radar | Seed | ~2016 | Geofencing | Active [^5] |
+| Readme | Seed | ~2015 | API Documentation | Active [^5] |
+| Replicate | Seed | ~2021 | AI Models | Acquired [^5] |
+| Replicated | Seed | ~2015 | Software Delivery | Active [^5] |
+| Sanity | Seed | ~2017 | Content Platform | Active [^5] |
+| Serverless | Seed | ~2015 | Serverless Tools | Active [^5] |
+| Shipyard | Seed | ~2019 | Ephemeral Environments | Active [^5] |
+| Snyk | Seed | ~2016 | Developer Security | Active [^5] |
+| Tailscale | Seed | ~2019 | VPN/Networking | Active [^5][^8] |
+| Tonic | Seed | ~2018 | Synthetic Data | Active [^5] |
+| Treasure Data | Seed | ~2013 | Customer Data | Acquired [^5] |
+| Unikraft | Seed | ~2022 | Cloud Scaling | Active [^5] |
+| Vibrant Labs | Seed | ~2024 | AI Agent Simulation | Active [^5] |
 
-Note: This table represents approximately 39 of 80+ known Heavybit investments. Founding years are approximate based on available data. Many additional companies in the portfolio (including Stripe, which Heavybit lists as a portfolio company) are not included due to insufficient year/stage verification.
+Note: This table represents approximately 39 of 80+ known Heavybit investments. Founding years are approximate based on available data. Heavybit exclusively leads pre-seed and seed rounds with $500K–$5M checks [^3][^4], so all entries are listed as Seed stage. Many additional companies in the portfolio (including Stripe, which Heavybit lists as a portfolio company) are not included due to insufficient year/stage verification. Kosli and Tailscale seed rounds confirmed by press releases [^8].
 
 ## In Their Own Words
 
@@ -164,3 +164,4 @@ Note: This table represents approximately 39 of 80+ known Heavybit investments. 
 [^5]: Heavybit website, "Portfolio," accessed March 2026. https://www.heavybit.com/portfolio
 [^6]: ShiftMag, "What It Takes to Build a Dev Tool Startup in 2025 with Jesse Robbins, Heavybit," 2025, accessed March 2026. https://shiftmag.dev/how-to-build-dev-tool-startup-jesse-robbins-heavybit-5194/
 [^7]: Jesse Robbins personal website, "Investor in AI Developer Tools," accessed March 2026. https://jesserobbins.com/
+[^8]: PR Newswire, "Kosli raises $3.1m seed round led by Heavybit," November 2022. https://www.prnewswire.com/news-releases/kosli-raises-3-1m-seed-round-led-by-heavybit-301665833.html; Private Capital Journal, "Tailscale secures $3M seed financing led by Heavybit," 2020. https://privatecapitaljournal.com/tailscale-secures-3m-seed-financing-led-by-heavybit/

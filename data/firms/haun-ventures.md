@@ -78,42 +78,42 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Agora | Early | ~2023 | Stablecoins | Active | [^9] |
-| Aleo | Series B ext. | 2022 | Privacy blockchain | Active | [^3][^9] |
-| Aptos Labs | Early | ~2022 | L1 blockchain | Active | [^9] |
-| Argus | Early | ~2023 | Security | Active | [^9] |
-| Autograph | Early | ~2022 | NFT/collectibles | Active | [^9] |
-| Bitwise | Growth | ~2023 | Crypto asset mgmt | Active | [^9] |
-| Bridge | Early | ~2023 | Payments | Active | [^9] |
-| BVNK | Early | ~2023 | Stablecoin infra | Active | [^9] |
-| Chainalysis | Growth | ~2022 | Blockchain analytics | Active | [^9] |
-| Chaos Labs | Early | ~2023 | Risk management | Active | [^9] |
-| Commonware | Early | ~2024 | Infrastructure | Active | [^9] |
-| Conduit | Early | ~2023 | L2 rollups | Active | [^9] |
-| Ellipsis Labs | Early | ~2024 | DeFi | Active | [^9] |
-| Erebor | Early | ~2025 | DeFi/banking | Active | [^9] |
-| Euler Labs | Early | ~2023 | DeFi lending | Active | [^9] |
-| Farcaster | Early | ~2023 | Social/Web3 | Active | [^9] |
-| Fireblocks | Growth | ~2022 | Custody/infra | Active | [^9] |
+| Agora | Seed | 2024 | Governance/Stablecoins | Active | [^9][^12] |
+| Aleo | Series B ext. | 2022 | Privacy blockchain | Active | [^3][^13] |
+| Aptos Labs | Series A | 2022 | L1 blockchain | Active | [^9][^14] |
+| Argus | Seed | 2023 | Web3 gaming | Active | [^9][^15] |
+| Autograph | Series B | 2022 | NFT/collectibles | Active | [^9][^16] |
+| Bitwise | Growth | 2025 | Crypto asset mgmt | Active | [^9][^17] |
+| Bridge | Series A | 2024 | Payments | Acquired by Stripe | [^9][^18] |
+| BVNK | Series B (led) | 2024 | Stablecoin infra | Active | [^9][^19] |
+| Chainalysis | Secondary | 2024 | Blockchain analytics | Active | [^9][^20] |
+| Chaos Labs | Series A (led) | 2024 | Risk management | Active | [^9][^21] |
+| Commonware | Seed (co-led) | 2024 | Infrastructure | Active | [^9][^22] |
+| Conduit | Series A (co-led) | 2024 | L2 rollups | Active | [^9][^23] |
+| Ellipsis Labs | Series A (led) | 2024 | DeFi | Active | [^9][^24] |
+| Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |
+| Euler Labs | Series A (led) | 2022 | DeFi lending | Active | [^9][^26] |
+| Farcaster | Series A | 2024 | Social/Web3 | Acquired by Neynar | [^9][^27] |
+| Fireblocks | Secondary | 2024 | Custody/infra | Active | [^9][^20] |
 | Guardrail | Early | ~2024 | Compliance | Active | [^9] |
-| Helius | Early | ~2023 | Solana dev tools | Active | [^9] |
-| Highlight | Seed | 2022 | NFT platform | Active | [^10][^9] |
-| Lighter | Early | ~2024 | DeFi trading | Active | [^9] |
-| Meanwhile | Early | ~2023 | Insurance/DeFi | Active | [^9] |
-| Neynar | Early | ~2023 | Farcaster infra | Active | [^9] |
-| OpenSea | Growth | ~2022 | NFT marketplace | Active | [^9] |
-| Plume | Early | ~2024 | RWA blockchain | Active | [^9] |
-| Sovereign Labs | Early | ~2023 | ZK rollups | Active | [^9] |
-| Squads | Early | ~2024 | Solana tools | Active | [^9] |
-| Superstate | Early | ~2024 | Tokenized funds | Active | [^9] |
-| Taxbit | Growth | ~2022 | Crypto tax/compliance | Active | [^9] |
+| Helius | Series B (co-led) | 2024 | Solana dev tools | Active | [^9][^28] |
+| Highlight | Seed (led) | 2022 | NFT platform | Active | [^10][^9] |
+| Lighter | Series A (led) | 2024 | DeFi trading | Active | [^9][^29] |
+| Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30] |
+| Neynar | Series A | 2024 | Farcaster infra | Active | [^9][^31] |
+| OpenSea | Series C | 2022 | NFT marketplace | Active | [^9][^32] |
+| Plume | Seed (led) | 2024 | RWA blockchain | Active | [^9][^33] |
+| Sovereign Labs | Seed (led) | 2023 | ZK rollups | Active | [^9][^34] |
+| Squads | Strategic | 2025 | Solana tools | Active | [^9][^35] |
+| Superstate | Series B | 2026 | Tokenized funds | Active | [^9][^36] |
+| Taxbit | Strategic | 2022 | Crypto tax/compliance | Active | [^9][^37] |
 | The Clearing Company | Early | ~2024 | Compliance | Active | [^9] |
-| thirdweb | Early | ~2022 | Web3 dev tools | Active | [^3][^9] |
-| Witness | Early | ~2024 | Media/Web3 | Active | [^9] |
+| thirdweb | Series A (led) | 2022 | Web3 dev tools | Active | [^9][^38] |
+| Witness | Seed (led) | 2024 | Media/Web3 | Active | [^9][^39] |
 | XFX | Series A | 2026 | Stablecoins/Payments | Active | [^9][^11] |
-| Zora | Early | ~2022 | NFT creation | Active | [^3][^9] |
+| Zora | Series A (led) | 2022 | NFT creation | Active | [^9][^40] |
 
-Note: Investment years are approximate. The firm notes that some investments are excluded from public disclosure per issuer requests [^9]. This table represents 34 publicly disclosed portfolio companies.
+Note: The firm notes that some investments are excluded from public disclosure per issuer requests [^9]. This table represents 34 publicly disclosed portfolio companies. Investment years and stages sourced from individual funding announcements where available; two entries (Guardrail, The Clearing Company) still cite only the firm portfolio page.
 
 ## In Their Own Words
 
@@ -141,4 +141,33 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^8]: Lessons from Katie Haun, Antoine Buteau blog, accessed March 2026. https://www.antoinebuteau.com/lessons-from-katie-haun/
 [^9]: Haun Ventures website, "Portfolio," accessed March 2026. https://www.haun.co/portfolio
 [^10]: CoinDesk, "Katie Haun's VC Firm Leads $11M Round for Web 3 Community Platform Highlight," May 10, 2022. https://www.coindesk.com/business/2022/05/10/katie-hauns-firm-leads-11m-round-for-web-3-community-platform-highlight
-[^11]: Fortune, "XFX raises $17M Series A," March 26, 2026. https://fortune.com/
+[^11]: Fortune, "Foreign exchange startup XFX raises $17 million to help businesses go between cash and stablecoins," March 26, 2026. https://fortune.com/2026/03/26/xfx-17-million-series-a-stablecoins-fiat-castle-island-ventures/
+[^12]: The Block, "Haun Ventures leads $5 million seed round in cross-chain governance platform Agora," May 1, 2024. https://www.theblock.co/post/291952/haun-ventures-leads-5-million-seed-round-in-cross-chain-governance-platform-agora
+[^13]: FinSMEs, "Aleo Raises $200M in Series B Funding," February 2022. https://www.finsmes.com/2022/02/aleo-raises-200m-in-series-b-funding.html
+[^14]: TechCrunch, "Ex-Meta employees raise $200M from a16z, Tiger, Multicoin to realize Facebook's crypto dreams," March 15, 2022. https://techcrunch.com/2022/03/15/aptos-labs-a16z-multicoin-facebook-diem-blockchain/
+[^15]: Fortune, "Haun Ventures leads $10 million funding round for Web3 gaming startup Argus Labs," June 6, 2023. https://fortune.com/crypto/2023/06/06/haun-ventures-leads-10-million-funding-round-for-web3-gaming-startup-argus-labs/
+[^16]: TechCrunch, "Tom Brady's buzzy celebrity NFT startup Autograph banks $170M from Silicon Valley's top crypto investors," January 19, 2022. https://techcrunch.com/2022/01/19/tom-bradys-buzzy-celebrity-nft-startup-autograph-banks-170m-from-silicon-valleys-top-crypto-investors/
+[^17]: The Block, "Spot bitcoin ETF issuer Bitwise raises $70 million, backed by Electric Capital, MassMutual and Haun Ventures," February 2025. https://www.theblock.co/post/343279/spot-bitcoin-etf-issuer-bitwise-raises-70-million-backed-by-electric-capital-massmutual-and-haun-ventures
+[^18]: Fortune, "Exclusive: Coinbase and Square vets aim to level up stablecoins with Bridge and $58 million in funding," August 29, 2024. https://fortune.com/crypto/2024/08/29/bridge-stablecoins-sequoia-ribbit-index-haun-58-million/
+[^19]: Fortune, "Exclusive: Crypto startup BVNK raises $50 million at around $750 million valuation amid red-hot stablecoin interest," December 17, 2024. https://fortune.com/crypto/2024/12/17/exclusive-stablecoin-bvnk-750-million-series-b-bridge-stripe-haun/
+[^20]: Axios, "Haun Ventures invested in Fireblocks & Chainalysis," May 14, 2024. https://www.axios.com/2024/05/14/haun-ventures-vc-kathryn-haun
+[^21]: PR Newswire, "Chaos Labs Announces $55M Series A Funding Round Led by Haun Ventures To Scale Onchain Economic Security," August 15, 2024. https://www.prnewswire.com/news-releases/chaos-labs-announces-55m-series-a-funding-round-led-by-haun-ventures-to-scale-onchain-economic-security-302223616.html
+[^22]: The Block, "Former Ava Labs engineering lead raises $9 million to build 'anti-framework' blockchain developer tools," 2024. https://www.theblock.co/post/330443/former-ava-labs-engineering-lead-raises-9-million-to-build-anti-framework-blockchain-developer-tools
+[^23]: The Block, "Paradigm, Haun Ventures co-lead $37 million round in Conduit," June 2024. https://www.theblock.co/post/301878/paradigm-haun-ventures-co-lead-37-million-round-in-conduit
+[^24]: CoinDesk, "Ellipsis Labs Raises $21M to Launch 'Verifiable Finance Blockchain' Atlas," October 31, 2024. https://www.coindesk.com/tech/2024/10/31/ellipsis-labs-raises-20m-from-haun-ventures-to-launch-verifiable-finance-blockchain-atlas
+[^25]: Axios, "Scoop: Palmer Luckey's digital bank valued at over $4 billion," December 22, 2025. https://www.axios.com/2025/12/22/palmer-luckey-digital-bank
+[^26]: CoinDesk, "Katie Haun's New Fund Leads $32M Round in Lending Protocol Euler," June 7, 2022. https://www.coindesk.com/business/2022/06/07/katie-hauns-new-fund-leads-32m-round-in-lending-protocol-euler
+[^27]: Unchained Crypto, "Decentralized Social Network Farcaster Raises $150 Million in a Series A Round," May 2024. https://unchainedcrypto.com/decentralized-social-network-farcaster-raises-150-million-in-a-series-a-round/
+[^28]: Helius blog, "Funding Announcement," September 2024. https://www.helius.dev/blog/funding-announcement
+[^29]: Fortune, "DeFi founder who graduated Harvard at 18 raises $68 million for crypto trading protocol Lighter," November 11, 2025. https://fortune.com/2025/11/11/lighter-fundraise-founders-fund-ribbit-capital-haun-ventures-robinhood-vladimir-novakovski/
+[^30]: BusinessWire, "Meanwhile, the First Regulated Bitcoin Life Insurer, Raises $82M," October 7, 2025. https://www.businesswire.com/news/home/20251007203460/en/Meanwhile-the-First-Regulated-Bitcoin-Life-Insurer-Raises-$82M-to-Meet-Strong-Demand-for-Inflation-Proof-Savings-and-Retirement-Products
+[^31]: Fortune, "Coinbase and Haun Ventures invest $11 million in Neynar, a toolbox for Web3 social networks," May 30, 2024. https://fortune.com/crypto/2024/05/30/haun-ventures-coinbase-and-a16z-invest-11-million-in-neynar-a-toolbox-for-web3-social-networks/
+[^32]: CoinDesk, "NFT Marketplace OpenSea Valued at $13.3B in $300M Funding Round," January 5, 2022. https://www.coindesk.com/business/2022/01/05/nft-marketplace-opensea-valued-at-133b-in-300m-funding-round-report
+[^33]: CoinDesk, "Plume, Layer-2 Blockchain for Real-World Assets, Pulls $10M in Seed Funding from Haun, Galaxy," May 23, 2024. https://www.coindesk.com/tech/2024/05/23/plume-layer-2-blockchain-for-real-world-assets-pulls-10m-in-seed-funding-from-haun-galaxy
+[^34]: TechCrunch, "Haun Ventures leads Sovereign Labs' $7.4M seed round to help scale blockchains," January 30, 2023. https://techcrunch.com/2023/01/30/haun-ventures-leads-sovereign-labs-7-4m-seed-round-to-help-scale-blockchains/
+[^35]: Blockworks, "Exclusive: Squads unveils stablecoin account for businesses," May 2025. https://blockworks.co/news/squads-launches-altitude-stablecoins-funding-huan
+[^36]: FinSMEs, "Superstate Raises $82.5M in Series B Funding," January 2026. https://www.finsmes.com/2026/01/superstate-raises-82-5m-in-series-b-funding.html
+[^37]: PR Newswire, "Haun Ventures backs TaxBit, one of the new firm's first investments," May 2022. https://www.prnewswire.com/news-releases/haun-ventures-backs-taxbit-one-of-the-new-firms-first-investments-a-clear-signal-to-regulators-and-policymakers-that-crypto-is-here-to-stay-301548999.html
+[^38]: TechCrunch, "Thirdweb raises $24M for its web3 development kit," August 24, 2022. https://techcrunch.com/2022/08/24/thirdweb-raises-24m-at-a-160m-valuation-from-haun-ventures-shopify-and-coinbase-for-its-web3-development-kit/
+[^39]: Axios, "Witness raises $3.5M to renew the web's trustworthiness," February 15, 2024. https://www.axios.com/2024/02/15/witness-raises-35m-to-renew-the-webs-trustworthiness
+[^40]: TechCrunch, "NFT startup Zora Labs nabs $50M in round led by Haun Ventures," May 5, 2022. https://techcrunch.com/2022/05/05/haun-ventures-leads-50m-round-in-nft-startup-zora-labs/
