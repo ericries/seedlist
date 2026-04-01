@@ -112,7 +112,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Uber | Seed | 2010 | Ridesharing | IPO | [^1] |
+| Uber | Seed | 2010 | Ridesharing | IPO | [^1][^8] |
 | Square | Seed | ~2009 | Payments | IPO | [^1] |
 | Roblox | Seed | ~2013 | Gaming / Metaverse | IPO | [^1] |
 | Notion | Seed | ~2016 | Productivity | Active (unicorn) | [^1][^7] |
@@ -162,3 +162,4 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^5]: VCSheet, "Josh Kopelman (First Round Capital)," accessed March 2026. https://www.vcsheet.com/who/josh-kopelman
 [^6]: First Round Capital website, "Team," accessed March 2026. https://www.firstround.com/team
 [^7]: First Round Capital website, homepage, accessed March 2026. https://www.firstround.com/
+[^8]: TechCrunch, "UberCab Closes Uber Angel Round," October 15, 2010. https://techcrunch.com/2010/10/15/ubercab-closes-uber-angel-round/

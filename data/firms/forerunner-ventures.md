@@ -77,7 +77,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Dollar Shave Club | Seed | ~2012 | Consumer/Grooming | [^4] |
+| Dollar Shave Club | Seed | 2012 | Consumer/Grooming | Acquired (Unilever, $1B, 2016) [^4][^7] |
 | Warby Parker | Early | ~2013 | Consumer/Eyewear | [^4] |
 | Bonobos | Early | ~2013 | Consumer/Apparel | [^4] |
 | Glossier | Seed | ~2014 | Consumer/Beauty | [^4] |
@@ -127,3 +127,4 @@ No independently sourced founder testimonials found from third-party sources. Fo
 [^4]: Fortune, "Forerunner Ventures founder Kirsten Green expands the definition of consumer investing," September 8, 2022, accessed March 2026. https://fortune.com/2022/09/08/forerunner-ventures-founder-kirsten-greens-1-billion-fund-aims-to-expand-the-definition-of-consumer-investing/
 [^5]: TechCrunch, "Forerunner Ventures just closed a $360 million fund, tripling the size of its last effort," October 8, 2018, accessed March 2026. https://techcrunch.com/2018/10/08/forerunner-ventures-just-closed-a-360-million-fund-tripling-the-size-of-its-last-effort/
 [^6]: VCSheet, "Kirsten Green (Forerunner Ventures) / VC Breakdown & Contact," accessed March 2026. https://www.vcsheet.com/who/kirsten-green
+[^7]: Fortune, "Unilever Buys Dollar Shave Club for $1 Billion," July 19, 2016. https://fortune.com/2016/07/19/unilever-buys-dollar-shave-club-for-1-billion/

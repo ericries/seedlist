@@ -73,7 +73,7 @@ Based on 12 verified investments (approximately 35% of the firm's claimed 34 por
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Zepto (fka KiranaKart) | Pre-seed (equity-free cohort) | 2021 | Quick commerce | Active (unicorn) [^5] |
-| Humit | Pre-seed (pilot) | ~2021 | Consumer | Unknown [^4] |
+| Humit | Pre-seed (pilot) | ~2021 | Consumer/Music | Acquired (Mission Uncrossable, 2024) [^4][^14] |
 | Codedamn | Pre-seed (pilot) | ~2021 | Edtech | Unknown [^4] |
 | Valerio Electric | Pre-seed (pilot) | ~2021 | EV charging | Unknown [^4] |
 | Neuralastic | Pre-seed (pilot) | ~2021 | AI/ML | Unknown [^4] |
@@ -126,3 +126,4 @@ No additional independently sourced founder testimonials found beyond the BioCom
 [^11]: Energetica India, "Meine Electric Raises USD 750,000 Pre-Seed Funding to Scale Iron Air Long Duration Energy Storage Technology," January 2026. https://www.energetica-india.net/news/meine-electric-raises-usd-750000-pre-seed-funding-to-scale-iron-air-long-duration-energy-storage-technology
 [^12]: Startup Story Media, "gradCapital Launches $6 Million Fund for Indian Student Startups," September 2023. https://startupstorymedia.com/insights-gradcapital-launches-6-million-fund-for-indian-student-startups/
 [^13]: GlobeNewsWire, "Airbound Secures $1.7M to Make Drone Delivery Economically Viable Everywhere," November 2024. https://www.globenewswire.com/news-release/2024/11/14/2981152/0/en/Airbound-Secures-1-7M-to-Make-Drone-Delivery-Economically-Viable-Everywhere.html
+[^14]: Mission Uncrossable, "Mission Uncrossable Joins Forces with Humit," August 2024. https://missionuncrossabledemo.com/acquired-humit-app/
