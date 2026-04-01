@@ -6914,25 +6914,25 @@ queue:
 - name: Aleph
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: eden-shochat
 - name: Jerusalem Venture Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: erel-margalit
 - name: Energy Impact Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: shayle-kann
 - name: Gigafund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: luke-nosek
 - name: aMoon
@@ -7831,7 +7831,7 @@ queue:
 - name: Heidi Lindvall
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pale Blue Dot
   discovered_from: hampus-jakobsson
@@ -7845,7 +7845,7 @@ queue:
 - name: David Helgason
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: hampus-jakobsson
 - name: Laela Sturdy
@@ -8350,7 +8350,7 @@ queue:
 - name: Livongo
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: 7wire-ventures
 - name: Cherry Ventures
@@ -8522,3 +8522,28 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: multicoin-capital
+- name: Hemant Taneja
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: livongo
+- name: Kinnevik
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: livongo
+- name: DFJ
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: livongo
+- name: Sapphire Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: livongo
