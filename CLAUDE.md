@@ -529,6 +529,8 @@ In the `## Funding History` table, use the full date:
 | 2026-03-25 | Series A | $30M | Andreessen Horowitz | SV Angel, Y Combinator [^1] |
 ```
 
+**Table cells must contain only data — no editorial text.** The Lead and Co-investors columns should list investor/firm names only. Never put narrative phrases like "all seed investors participated above pro rata" or "undisclosed investors also joined" in table cells. If you don't know who participated, leave the cell empty. Descriptive context belongs in the body text below the table, not in the table itself.
+
 In the `investors:` and `firms:` frontmatter arrays, the `year` field can remain an integer (it's used for other purposes), but add a `date` field to the round entry when available:
 ```yaml
 firms:
