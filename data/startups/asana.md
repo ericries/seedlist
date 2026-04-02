@@ -24,6 +24,12 @@ firms:
 - round: Angel
   slug: kapor-capital
   year: 2009
+- round: Growth
+  slug: gpx
+  year: 2015
+- round: Angel
+  slug: iconiq-growth
+  year: 2016
 founded: 2008
 founders:
 - name: Dustin Moskovitz
@@ -52,6 +58,9 @@ investors:
 - round: Growth
   slug: brian-singerman
   year: 2015
+- round: Angel
+  slug: divesh-makan
+  year: 2016
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Asana

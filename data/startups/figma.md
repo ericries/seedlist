@@ -127,6 +127,9 @@ investors:
 - round: Seed
   slug: will-griffith
   year: 2013
+- round: Seed
+  slug: divesh-makan
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Figma

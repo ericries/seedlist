@@ -147,6 +147,9 @@ firms:
 - round: Early Stage
   slug: long-journey-ventures
   year: 2019
+- round: Seed
+  slug: gpx
+  year: 2017
 founded: 2017
 founders:
 - name: Palmer Luckey

@@ -48,6 +48,9 @@ firms:
 - round: Early
   slug: edventure-holdings
   year: 2015
+- round: Seed
+  slug: outlander-vc
+  year: 2019
 founded: 2014
 founders:
 - name: Vivek Garipalli
@@ -85,6 +88,9 @@ investors:
 - round: Early
   slug: esther-dyson
   year: 2015
+- round: Seed
+  slug: paige-craig
+  year: 2019
 last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health

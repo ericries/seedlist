@@ -130,6 +130,9 @@ investors:
 - round: ~2023
   slug: everett-randle
   year: 2023
+- round: Seed ($5M)
+  slug: brad-lightcap
+  year: 2022
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Harvey

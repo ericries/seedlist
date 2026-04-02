@@ -7544,25 +7544,25 @@ queue:
 - name: Uncorrelated Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: salil-deshpande
 - name: 1517 Fund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: danielle-strachman
 - name: Upfront Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: kara-nortman
 - name: Cake Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: monique-woodard
 - name: Michael Gibson
@@ -7600,7 +7600,7 @@ queue:
 - name: Quiet Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: lee-linden
 - name: Weekend Fund
@@ -7920,7 +7920,7 @@ queue:
 - name: Divesh Makan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: ICONIQ Capital
   discovered_from: iconiq-growth
@@ -8165,7 +8165,7 @@ queue:
 - name: Brad Lightcap
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenAI Startup Fund
   discovered_from: openai-startup-fund
@@ -8841,3 +8841,79 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: outlander-vc
+- name: Amit Agarwal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: ICONIQ Growth
+  discovered_from: divesh-makan
+- name: Zak Slayback
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 1517 Fund
+  discovered_from: 1517-fund
+- name: Nick Arnett
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 1517 Fund
+  discovered_from: 1517-fund
+- name: Muse Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cake-ventures
+- name: Ben Mahdavi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Quiet Capital
+  discovered_from: quiet-capital
+- name: Matt Humphrey
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Quiet Capital
+  discovered_from: quiet-capital
+- name: Michael Bloch
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Quiet Capital
+  discovered_from: quiet-capital
+- name: Yves Sisteron
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Upfront Ventures
+  discovered_from: upfront-ventures
+- name: Nick Kim
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Upfront Ventures
+  discovered_from: upfront-ventures
+- name: Stuart Lander
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Upfront Ventures
+  discovered_from: upfront-ventures
+- name: Aditi Maliwal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Upfront Ventures
+  discovered_from: upfront-ventures

@@ -36,6 +36,9 @@ firms:
 - round: Angel
   slug: long-journey-ventures
   year: 2013
+- round: Early
+  slug: gpx
+  year: 2015
 founded: 2012
 founders:
 - name: Max Levchin

@@ -39,6 +39,9 @@ firms:
 - round: Early
   slug: founders-fund
   year: 2018
+- round: Early
+  slug: gpx
+  year: 2018
 founded: 2017
 founders:
 - name: Qasar Younis

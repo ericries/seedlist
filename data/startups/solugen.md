@@ -75,6 +75,9 @@ firms:
 - round: Seed
   slug: boxgroup
   year: 2023
+- round: Early
+  slug: gpx
+  year: 2019
 founded: 2016
 founders:
 - name: Gaurab Chakrabarti

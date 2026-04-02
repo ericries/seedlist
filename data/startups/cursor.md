@@ -119,6 +119,9 @@ investors:
 - round: Seed
   slug: adam-rothenberg
   year: 2022
+- round: Seed ($8M, led)
+  slug: brad-lightcap
+  year: 2023
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

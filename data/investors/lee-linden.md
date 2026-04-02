@@ -1,6 +1,6 @@
 ---
 check_size: $100K-$25M
-firm: gpx
+firm: quiet-capital
 last_researched: 2026-03-28
 last_verified_investment:
   company: Mach9

@@ -72,6 +72,9 @@ firms:
 - round: Growth
   slug: iconiq-growth
   year: 2014
+- round: Growth
+  slug: gpx
+  year: 2013
 founded: 2008
 founders:
 - name: Brian Chesky

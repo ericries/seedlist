@@ -139,6 +139,9 @@ investors:
 - round: Series C (lead)
   slug: will-griffith
   year: 2024
+- round: Series C (lead)
+  slug: divesh-makan
+  year: 2024
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

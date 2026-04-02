@@ -27,6 +27,9 @@ firms:
 - round: Early
   slug: fj-labs
   year: 2022
+- round: Series E (lead)
+  slug: iconiq-growth
+  year: 2026
 founded: 2018
 founders: []
 investors:
@@ -39,6 +42,9 @@ investors:
 - round: Early
   slug: fabrice-grinda
   year: 2022
+- round: Series E (lead)
+  slug: divesh-makan
+  year: 2026
 last_researched: 2026-03-30
 location: San Francisco, CA
 name: Quince

@@ -81,6 +81,9 @@ firms:
 - round: Seed
   slug: general-catalyst
   year: 2010
+- round: Early
+  slug: outlander-vc
+  year: 2012
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -184,6 +187,9 @@ investors:
 - round: Seed
   slug: hemant-taneja
   year: 2010
+- round: Early
+  slug: paige-craig
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe

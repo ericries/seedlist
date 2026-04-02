@@ -142,6 +142,9 @@ investors:
 - round: Growth
   slug: hemant-taneja
   year: 2024
+- round: Series F (co-lead)
+  slug: divesh-makan
+  year: 2025
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

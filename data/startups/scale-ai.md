@@ -60,6 +60,9 @@ firms:
 - round: Pre-Seed
   slug: outlander-vc
   year: 2016
+- round: Early
+  slug: gpx
+  year: 2018
 founded: 2016
 founders:
 - name: Alexandr Wang

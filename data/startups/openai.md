@@ -51,10 +51,13 @@ firms:
 - round: 2021-present
   slug: bedrock-capital
   year: 2021
-- round: Pre-IPO
+- date: 2026-03-31
+  round: Pre-IPO
   slug: andreessen-horowitz
   year: 2026
-  date: 2026-03-31
+- round: Early
+  slug: gpx
+  year: 2016
 founded: 2015
 founders:
 - name: Sam Altman
@@ -140,7 +143,7 @@ slug: openai
 stage_latest: Pre-IPO
 status: published
 status_company: active
-total_raised: "$290B+"
+total_raised: $290B+
 type: startup
 website: https://openai.com
 ---

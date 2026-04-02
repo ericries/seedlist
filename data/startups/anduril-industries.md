@@ -45,6 +45,9 @@ firms:
 - round: Series E
   slug: us-innovative-technology-fund
   year: 2022
+- round: Seed
+  slug: gpx
+  year: 2017
 founded: 2017
 founders:
 - name: Palmer Luckey
