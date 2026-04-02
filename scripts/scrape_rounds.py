@@ -28,6 +28,34 @@ MAX_ENTRIES = 100  # keep last N entries, rotate old ones out
 
 # RSS feeds to scrape
 FEEDS = [
+    # Tier 1: Wire services (PRIMARY sources — company press releases)
+    {
+        "name": "prnewswire",
+        "url": "https://www.prnewswire.com/rss/financial-services-latest-news/venture-capital-list/rss-702702.xml",
+        "title_filters": ["raises", "funding", "secures", "closes", "series", "seed"],
+    },
+    {
+        "name": "businesswire",
+        "url": "https://feed.businesswire.com/rss/home/?rss=G1QFDERJhkQ%3D",
+        "title_filters": ["raises", "funding", "secures", "closes", "series", "seed"],
+    },
+    {
+        "name": "globenewswire",
+        "url": "https://www.globenewswire.com/RssFeed/subjectcode/58-Funding%20Activities/feedTitle/GlobeNewsWire%20-%20Funding%20Activities",
+        "title_filters": ["raises", "funding", "secures", "closes", "series", "seed"],
+    },
+    # Tier 2: Aggregators with structured titles
+    {
+        "name": "finsmes",
+        "url": "https://www.finsmes.com/feed",
+        "title_filters": ["raises", "funding", "series", "seed"],
+    },
+    {
+        "name": "vcnewsdaily",
+        "url": "https://vcnewsdaily.com/feed/",
+        "title_filters": ["raises", "funding", "venture", "series", "seed"],
+    },
+    # Tier 3: Tech press
     {
         "name": "techcrunch",
         "url": "https://techcrunch.com/feed/",
@@ -43,7 +71,16 @@ FEEDS = [
         "url": "https://alleywatch.com/feed/",
         "title_filters": ["funding report"],
     },
+    # Tier 4: Regional
+    {
+        "name": "eu-startups",
+        "url": "https://www.eu-startups.com/feed/",
+        "title_filters": ["raises", "funding", "secures", "series", "seed"],
+    },
 ]
+
+# Axios Pro Rata — not RSS, scraped as HTML (latest edition always free)
+AXIOS_PRO_RATA_URL = "https://www.axios.com/newsletters/axios-pro-rata"
 
 # Regex patterns to extract amount and round type from article titles
 AMOUNT_RE = re.compile(
@@ -222,6 +259,75 @@ def scrape_feed(feed_config):
     return items
 
 
+def scrape_axios_pro_rata():
+    """Scrape the latest Axios Pro Rata newsletter for VC deals.
+
+    The latest edition is always available without paywall at a fixed URL.
+    We fetch the HTML and extract deal mentions using regex patterns.
+    """
+    print(f"Fetching Axios Pro Rata: {AXIOS_PRO_RATA_URL}")
+    try:
+        req = urllib.request.Request(
+            AXIOS_PRO_RATA_URL,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+                "Accept": "text/html",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            html = resp.read().decode("utf-8", errors="replace")
+    except (urllib.error.URLError, urllib.error.HTTPError, OSError) as e:
+        print(f"  Warning: failed to fetch Axios Pro Rata: {e}", file=sys.stderr)
+        return []
+
+    items = []
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    # Look for deal patterns in the HTML text
+    # Strip HTML tags for text analysis
+    text = re.sub(r"<[^>]+>", " ", html)
+    text = re.sub(r"\s+", " ", text)
+
+    # Pattern: "Company raised $XM in Series Y funding" or "Company, a ..., raised $XM"
+    deal_pattern = re.compile(
+        r"([A-Z][A-Za-z0-9 &\-\.]+?)\s*(?:,\s*(?:a|an|the)\s+[^,]+?,\s+)?"
+        r"(?:raised|closed|secured|nabbed)\s+"
+        r"\$\s*(\d+(?:\.\d+)?)\s*(million|mil|m|billion|bil|b)\b"
+        r"(?:\s+in\s+(\w[\w\s]*?)(?:\s+funding|\s+round|\s+financing))?"
+        , re.IGNORECASE
+    )
+
+    for match in deal_pattern.finditer(text):
+        company = match.group(1).strip()
+        num = match.group(2)
+        unit = match.group(3).lower()
+        round_type = match.group(4)
+
+        # Skip common false positives
+        if company.lower() in ("the company", "it", "they", "which", "who", "that"):
+            continue
+        if len(company) < 2 or len(company) > 60:
+            continue
+
+        amount_suffix = "B" if unit in ("billion", "bil", "b") else "M"
+        amount = f"${num}{amount_suffix}"
+
+        entry = {
+            "title": f"{company} raised {amount}" + (f" {round_type}" if round_type else ""),
+            "url": AXIOS_PRO_RATA_URL,
+            "source": "axios-pro-rata",
+            "date_found": today,
+            "parsed_company": company,
+            "parsed_amount": amount,
+            "parsed_round": round_type.strip().title() if round_type else None,
+            "status": "pending",
+        }
+        items.append(entry)
+
+    print(f"  Found {len(items)} deal mentions from Axios Pro Rata")
+    return items
+
+
 def load_pending():
     """Load existing pending rounds file."""
     if not PENDING_PATH.exists():
@@ -249,7 +355,7 @@ def main():
     existing_urls = {entry["url"] for entry in data["pending_rounds"]}
     initial_count = len(data["pending_rounds"])
 
-    # Scrape all feeds
+    # Scrape all RSS feeds
     new_count = 0
     for feed_config in FEEDS:
         candidates = scrape_feed(feed_config)
@@ -258,6 +364,22 @@ def main():
                 continue
             data["pending_rounds"].append(candidate)
             existing_urls.add(candidate["url"])
+            new_count += 1
+
+    # Scrape Axios Pro Rata (HTML, not RSS)
+    axios_candidates = scrape_axios_pro_rata()
+    for candidate in axios_candidates:
+        # Dedup by company name (Axios URL is always the same)
+        company = (candidate.get("parsed_company") or "").lower()
+        existing_companies = {
+            (e.get("parsed_company") or "").lower()
+            for e in data["pending_rounds"]
+            if e.get("source") == "axios-pro-rata"
+        }
+        if company and company in existing_companies:
+            continue
+        if candidate["url"] not in existing_urls or candidate.get("source") == "axios-pro-rata":
+            data["pending_rounds"].append(candidate)
             new_count += 1
 
     # Sort by date (newest first)

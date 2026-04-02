@@ -26,6 +26,86 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Arch Biopartners Closes Non-Brokered Private Placement
+  url: https://www.globenewswire.com/news-release/2026/04/02/3267174/0/en/Arch-Biopartners-Closes-Non-Brokered-Private-Placement.html
+  source: globenewswire
+  date_found: '2026-04-02'
+  parsed_company: Arch Biopartners
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Cognichip raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: Cognichip
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
+- title: Monarch Quantum raised $55M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: Monarch Quantum
+  parsed_amount: $55M
+  parsed_round: null
+  status: pending
+- title: Linx Security raised $50M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: Linx Security
+  parsed_amount: $50M
+  parsed_round: Series B
+  status: pending
+- title: Manna Air Delivery raised $50M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: Manna Air Delivery
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
+- title: Soma Energy raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: Soma Energy
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: pending
+- title: TippingPoint Biosciences raised $4.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: TippingPoint Biosciences
+  parsed_amount: $4.5M
+  parsed_round: null
+  status: pending
+- title: Numos raised $4.25M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: Numos
+  parsed_amount: $4.25M
+  parsed_round: Seed
+  status: pending
+- title: New Vintage Partners raised $82M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: New Vintage Partners
+  parsed_amount: $82M
+  parsed_round: null
+  status: pending
+- title: u003e raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-02'
+  parsed_company: u003e
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
 - title: Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment
     To $300B
   url: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
