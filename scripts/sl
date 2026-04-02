@@ -33,6 +33,7 @@ Usage:
   sl xref-compute-lvi SLUG|--all       Compute last_verified_investment from portfolio tables
   sl xref-all [--dry-run]              Run all xref operations across the entire repo
   sl xref-report SLUG                  Analysis report for an investor (co-investors, focus validation)
+  sl pending-rounds                     Show unprocessed funding round candidates from RSS scraper
 """
 
 import sys
@@ -2725,6 +2726,38 @@ def cmd_review_candidates():
         print("Run `sl ship` to commit and push changes.")
 
 
+def cmd_pending_rounds():
+    """Show unprocessed funding round candidates from RSS scraper."""
+    pending_path = DATA / "pending-rounds.yaml"
+    if not pending_path.exists():
+        print("No pending-rounds.yaml found. Run scripts/scrape_rounds.py first.")
+        return
+
+    with open(pending_path) as f:
+        data = yaml.safe_load(f) or {}
+
+    rounds = data.get("pending_rounds", [])
+    pending = [r for r in rounds if r.get("status") == "pending"]
+
+    if not pending:
+        print("No pending rounds to review.")
+        print(f"Total entries in file: {len(rounds)}")
+        return
+
+    print(f"{'Date':<12} {'Company':<30} {'Amount':<10} {'Round':<15} {'Source'}")
+    print("-" * 90)
+    for r in pending:
+        date = r.get("date_found", "?")
+        company = r.get("parsed_company") or "(unparsed)"
+        amount = r.get("parsed_amount") or "?"
+        round_type = r.get("parsed_round") or "?"
+        url = r.get("url", "")
+        print(f"{date:<12} {company:<30} {amount:<10} {round_type:<15} {url}")
+
+    print()
+    print(f"{len(pending)} pending rounds to review (of {len(rounds)} total)")
+
+
 # ── Main ──────────────────────────────────────────────────────
 
 def main():
@@ -2869,6 +2902,8 @@ def main():
             print("Usage: sl xref-report SLUG")
             sys.exit(1)
         cmd_xref_report(sys.argv[2])
+    elif cmd == "pending-rounds":
+        cmd_pending_rounds()
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)

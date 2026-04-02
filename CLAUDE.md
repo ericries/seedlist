@@ -485,6 +485,18 @@ The Round Feed (`/rounds.html`) shows a reverse-chronological feed of startup fu
 
 **This agent should run at least once per day**, not just during batch cycles. It can run as a maintenance task, a `/loop` command, or be triggered manually. The goal: the feed never feels stale.
 
+#### Hybrid monitoring pipeline
+
+The round feed is maintained by two systems working together:
+
+1. **GitHub Action scraper** (durable, runs every 6h even when Claude is offline): Scrapes TechCrunch, Crunchbase News, and AlleyWatch RSS feeds for funding announcements. Writes candidates to `data/pending-rounds.yaml`. No LLM needed — just RSS parsing.
+
+2. **Claude Code agent** (session-based): Processes pending rounds from `data/pending-rounds.yaml` by verifying details, creating startup profiles, and updating firm portfolios. Run `python3 scripts/sl pending-rounds` to see what's queued.
+
+When starting a new session, always check `sl pending-rounds` first — the scraper may have found rounds while you were offline.
+
+The session-based cron jobs (round monitoring every 6h, fact specificity every 4h) provide ADDITIONAL coverage on top of the GitHub Action. They search more broadly (Axios Pro Rata, general web search) and can verify/create profiles immediately. The GitHub Action ensures the pipeline never goes completely cold.
+
 #### Primary data sources (check daily)
 
 1. **Axios Pro Rata** (MUST CHECK EVERY RUN) — Search `site:axios.com "pro rata" venture capital deals` for the latest edition. The direct URL may be paywalled; search for Dan Primack's deal listings. Also check `site:axios.com/pro` for Pro Rata Premium scoops. This is the single best daily source for US VC deals.

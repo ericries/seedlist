@@ -1,0 +1,112 @@
+pending_rounds:
+- title: 'Exclusive: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys,
+    Raises $6.3M'
+  url: https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/
+  source: crunchbase
+  date_found: '2026-04-02'
+  parsed_company: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys,
+  parsed_amount: $6.3M
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform
+    For Physical AI Teams'
+  url: https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/
+  source: crunchbase
+  date_found: '2026-04-02'
+  parsed_company: Anvil Robotics
+  parsed_amount: $5.5M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Venture Funding To Foundational AI Startups In Q1 Was Double
+    All Of 2025'
+  url: https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment
+    To $300B
+  url: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-01'
+  parsed_company: null
+  parsed_amount: $300B
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/1/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-1-2026/
+  source: alleywatch
+  date_found: '2026-04-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The Largest Recent Seed Rounds Are All For AI Companies
+  url: https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/
+  source: crunchbase
+  date_found: '2026-03-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 3/31/2026'
+  url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-31-2026/
+  source: alleywatch
+  date_found: '2026-03-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 3/30/2026'
+  url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-30-2026/
+  source: alleywatch
+  date_found: '2026-03-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 3/30/26'
+  url: https://alleywatch.com/2026/03/the-weekly-notable-startup-funding-report-3-30-26/
+  source: alleywatch
+  date_found: '2026-03-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By
+    AI And Defense'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/
+  source: crunchbase
+  date_found: '2026-03-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups
+    Hits All-Time High'
+  url: https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
+  source: crunchbase
+  date_found: '2026-03-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Seed Funding Hasn’t Stalled, But It’s Skewing Larger And Is More Competitive
+    Than Ever, Crunchbase Data Shows
+  url: https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/
+  source: crunchbase
+  date_found: '2026-03-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 3/26/2026'
+  url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-26-2026/
+  source: alleywatch
+  date_found: '2026-03-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
