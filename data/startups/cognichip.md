@@ -33,8 +33,8 @@ Cognichip is a San Francisco-based startup building AI-powered tools for semicon
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2024 | Seed | $33M | N/A | Mayfield, Lux Capital, FPV, Candou Ventures [^2] |
-| 2026-04-01 | Series A | $60M | Seligman Ventures | SBI Investment; all seed investors participated above pro rata [^1][^2] |
+| 2024 | Seed | $33M | | Mayfield, Lux Capital, FPV, Candou Ventures [^2] |
+| 2026-04-01 | Series A | $60M | Seligman Ventures | SBI Investment, Mayfield, Lux Capital, FPV, Candou Ventures [^1][^2] |
 
 Total raised: $93M [^2]. Intel CEO Lip-Bu Tan and Seligman Ventures Managing Partner Umesh Padval joined the board [^2]. Tan and Aalaei previously collaborated over three decades at Aquantia and Centillium Communications [^2].
 
