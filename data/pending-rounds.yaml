@@ -41,7 +41,7 @@ pending_rounds:
   parsed_company: Cognichip
   parsed_amount: $60M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Monarch Quantum raised $55M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
