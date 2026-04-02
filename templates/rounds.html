@@ -56,13 +56,15 @@
   <p>Recent startup funding rounds from our database. Updated as new rounds are researched.</p>
 </section>
 
-<div id="pending-box" style="display:none; max-width:720px; margin:0 auto 1rem;">
-  <button id="pending-toggle" style="background:none; border:1px solid var(--color-border); border-radius:var(--radius); padding:0.3rem 0.8rem; font-size:0.8rem; color:var(--color-muted); cursor:pointer; width:100%; text-align:left;">
-    <span id="pending-count">0</span> unverified rounds detected &mdash; click to preview
+<div id="pending-box" style="display:none; max-width:720px; margin:0 auto 1.5rem;">
+  <button id="pending-toggle" style="background:none; border:1px dashed var(--color-border); border-radius:var(--radius); padding:0.35rem 0.8rem; font-size:0.78rem; color:var(--color-muted); cursor:pointer; width:100%; text-align:left;">
+    <strong style="color:#b0b0b0;">Pending research</strong> &mdash; <span id="pending-count">0</span> rounds detected, coming soon
   </button>
-  <div id="pending-list" style="display:none; background:#f8f8f8; border:1px solid var(--color-border); border-top:none; border-radius:0 0 var(--radius) var(--radius); padding:0.5rem 0.75rem; font-size:0.75rem; color:#888; max-height:200px; overflow-y:auto;">
+  <div id="pending-list" style="display:none; background:#fafafa; border:1px dashed var(--color-border); border-top:none; border-radius:0 0 var(--radius) var(--radius); padding:0.5rem 0.75rem; font-size:0.72rem; color:#999; max-height:180px; overflow-y:auto;">
   </div>
 </div>
+
+<h2 style="max-width:720px; margin:0 auto 0.75rem; font-size:1.1rem; font-weight:600;">Verified rounds</h2>
 
 <div id="rounds-feed">
   <div class="rounds-loading" id="rounds-loading">Loading rounds...</div>
