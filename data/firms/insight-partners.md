@@ -128,6 +128,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 ~unknown| Kaseya | Growth | — | IT Management | Active | [^2] |
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Active | [^11] |
 | Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
+| Linx Security | Series B | 2026 | Cybersecurity / Identity | Active | [^13] |
 
 *This table represents approximately 2% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -167,3 +168,4 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^10]: Calcalist, "Insight Partners Backs SentinelOne in $200 Million Investment," February 2020. https://www.calcalistech.com/ctech/articles/0,7340,L-3794593,00.html
 [^11]: "Ayar Labs Raises $500M Series E," BusinessWire, March 3, 2026. https://www.businesswire.com/news/home/20260303005001/en/Ayar-Labs-Raises-500M-Series-E
 [^12]: Rocketlane $60M Series C backed by Insight Partners, March 2026.
+[^13]: Linx Security Blog, "Linx Security Raises $50M Series B," March 31, 2026. https://www.linx.security/blog/linx-security-raises-50m-series-b

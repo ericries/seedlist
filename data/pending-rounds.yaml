@@ -1,14 +1,14 @@
 pending_rounds:
-- title: 'Exclusive: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys,
+- title: 'Exclusive: Miravoice, Builder Of An AI ''Interviewer'' To Conduct Phone Surveys,
     Raises $6.3M'
   url: https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/
   source: crunchbase
   date_found: '2026-04-02'
-  parsed_company: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys,
+  parsed_company: Miravoice, Builder Of An AI 'Interviewer' To Conduct Phone Surveys,
   parsed_amount: $6.3M
   parsed_round: null
-  status: pending
-- title: 'Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform
+  status: processed
+- title: 'Exclusive: Anvil Robotics Raises $5.5M to Build ''Legos for Robots'' Platform
     For Physical AI Teams'
   url: https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/
   source: crunchbase
@@ -16,7 +16,7 @@ pending_rounds:
   parsed_company: Anvil Robotics
   parsed_amount: $5.5M
   parsed_round: null
-  status: pending
+  status: processed
 - title: 'Sector Snapshot: Venture Funding To Foundational AI Startups In Q1 Was Double
     All Of 2025'
   url: https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/
@@ -25,7 +25,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: Arch Biopartners Closes Non-Brokered Private Placement
   url: https://www.globenewswire.com/news-release/2026/04/02/3267174/0/en/Arch-Biopartners-Closes-Non-Brokered-Private-Placement.html
   source: globenewswire
@@ -33,7 +34,8 @@ pending_rounds:
   parsed_company: Arch Biopartners
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: public biotech private placement, not a startup round
 - title: Cognichip raised $60M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -57,7 +59,7 @@ pending_rounds:
   parsed_company: Linx Security
   parsed_amount: $50M
   parsed_round: Series B
-  status: pending
+  status: processed
 - title: Manna Air Delivery raised $50M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -65,7 +67,8 @@ pending_rounds:
   parsed_company: Manna Air Delivery
   parsed_amount: $50M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: startup profile already exists
 - title: Soma Energy raised $7M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -73,7 +76,7 @@ pending_rounds:
   parsed_company: Soma Energy
   parsed_amount: $7M
   parsed_round: Seed
-  status: pending
+  status: processed
 - title: TippingPoint Biosciences raised $4.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -81,7 +84,7 @@ pending_rounds:
   parsed_company: TippingPoint Biosciences
   parsed_amount: $4.5M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Numos raised $4.25M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -89,7 +92,7 @@ pending_rounds:
   parsed_company: Numos
   parsed_amount: $4.25M
   parsed_round: Seed
-  status: pending
+  status: processed
 - title: New Vintage Partners raised $82M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -97,7 +100,8 @@ pending_rounds:
   parsed_company: New Vintage Partners
   parsed_amount: $82M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund raise, not a startup round
 - title: u003e raised $60M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -105,7 +109,8 @@ pending_rounds:
   parsed_company: u003e
   parsed_amount: $60M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: unparseable company name (unicode escape artifact)
 - title: Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment
     To $300B
   url: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
@@ -114,7 +119,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $300B
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: 'The AlleyWatch Startup Daily Funding Report: 4/1/2026'
   url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-1-2026/
   source: alleywatch
@@ -122,7 +128,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: The Largest Recent Seed Rounds Are All For AI Companies
   url: https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/
   source: crunchbase
@@ -130,7 +137,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: 'The AlleyWatch Startup Daily Funding Report: 3/31/2026'
   url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-31-2026/
   source: alleywatch
@@ -138,7 +146,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: 'The AlleyWatch Startup Daily Funding Report: 3/30/2026'
   url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-30-2026/
   source: alleywatch
@@ -146,7 +155,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: 'The Weekly Notable Startup Funding Report: 3/30/26'
   url: https://alleywatch.com/2026/03/the-weekly-notable-startup-funding-report-3-30-26/
   source: alleywatch
@@ -154,26 +164,29 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By
-    AI And Defense'
+  status: skipped
+  skip_reason: roundup/summary article
+- title: "The Week\u2019s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By\
+    \ AI And Defense"
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/
   source: crunchbase
   date_found: '2026-03-27'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: 'Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups
-    Hits All-Time High'
+  status: skipped
+  skip_reason: roundup/summary article
+- title: "Austin\u2019s Star Is Still Shining Bright: Venture Funding To City\u2019s Startups\
+    \ Hits All-Time High"
   url: https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
   source: crunchbase
   date_found: '2026-03-27'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Seed Funding Hasn’t Stalled, But It’s Skewing Larger And Is More Competitive
+  status: skipped
+  skip_reason: roundup/summary article
+- title: Seed Funding Hasn't Stalled, But It's Skewing Larger And Is More Competitive
     Than Ever, Crunchbase Data Shows
   url: https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/
   source: crunchbase
@@ -181,7 +194,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: 'The AlleyWatch Startup Daily Funding Report: 3/26/2026'
   url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-26-2026/
   source: alleywatch
@@ -189,4 +203,5 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
