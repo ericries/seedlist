@@ -56,6 +56,14 @@
   <p>Recent startup funding rounds from our database. Updated as new rounds are researched.</p>
 </section>
 
+<div id="pending-box" style="display:none; max-width:720px; margin:0 auto 1rem;">
+  <button id="pending-toggle" style="background:none; border:1px solid var(--color-border); border-radius:var(--radius); padding:0.3rem 0.8rem; font-size:0.8rem; color:var(--color-muted); cursor:pointer; width:100%; text-align:left;">
+    <span id="pending-count">0</span> unverified rounds detected &mdash; click to preview
+  </button>
+  <div id="pending-list" style="display:none; background:#f8f8f8; border:1px solid var(--color-border); border-top:none; border-radius:0 0 var(--radius) var(--radius); padding:0.5rem 0.75rem; font-size:0.75rem; color:#888; max-height:200px; overflow-y:auto;">
+  </div>
+</div>
+
 <div id="rounds-feed">
   <div class="rounds-loading" id="rounds-loading">Loading rounds...</div>
 </div>
@@ -176,5 +184,39 @@
     document.getElementById("rounds-loading").textContent = "Failed to load round data.";
   });
 })();
+
+// Pending rounds visualization
+fetch("/pending-rounds.json")
+  .then(function(r) { return r.json(); })
+  .then(function(pending) {
+    if (!pending || !pending.length) return;
+    var box = document.getElementById("pending-box");
+    var countEl = document.getElementById("pending-count");
+    var listEl = document.getElementById("pending-list");
+    var toggleBtn = document.getElementById("pending-toggle");
+
+    countEl.textContent = pending.length;
+    box.style.display = "block";
+
+    var html = pending.map(function(r) {
+      var company = r.parsed_company || "(unknown)";
+      var amount = r.parsed_amount || "";
+      var round = r.parsed_round || "";
+      var detail = [amount, round].filter(Boolean).join(" ");
+      var source = r.source || "";
+      return '<div style="padding:2px 0; border-bottom:1px solid #eee; display:flex; justify-content:space-between;">'
+        + '<span>' + company + (detail ? ' <span style="color:#aaa;">' + detail + '</span>' : '') + '</span>'
+        + '<a href="' + (r.url || '#') + '" target="_blank" style="color:#999; font-size:0.7rem;">' + source + '</a>'
+        + '</div>';
+    }).join("");
+    listEl.innerHTML = html;
+
+    toggleBtn.addEventListener("click", function() {
+      var showing = listEl.style.display !== "none";
+      listEl.style.display = showing ? "none" : "block";
+      toggleBtn.style.borderRadius = showing ? "var(--radius)" : "var(--radius) var(--radius) 0 0";
+    });
+  })
+  .catch(function() { /* silently fail */ });
 </script>
 {% endblock %}

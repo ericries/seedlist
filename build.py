@@ -1306,6 +1306,18 @@ def build():
     # Generate rounds feed JSON and render rounds page
     rounds_feed = build_rounds_feed(startups)
     (OUTPUT_DIR / "rounds-feed.json").write_text(json.dumps(rounds_feed, indent=2))
+
+    # Copy pending-rounds as JSON for the rounds page visualization
+    pending_path = DATA_DIR / "pending-rounds.yaml"
+    if pending_path.exists():
+        import yaml as _yaml_pending
+        with open(pending_path) as f:
+            pending_data = _yaml_pending.safe_load(f) or {}
+        pending_list = [
+            r for r in pending_data.get("pending_rounds", [])
+            if r.get("status") == "pending" and r.get("parsed_company")
+        ]
+        (OUTPUT_DIR / "pending-rounds.json").write_text(json.dumps(pending_list))
     rounds_tmpl_path = TEMPLATES_DIR / "rounds.html"
     if rounds_tmpl_path.exists():
         rounds_template = env.get_template("rounds.html")
