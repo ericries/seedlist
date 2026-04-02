@@ -49,7 +49,7 @@ pending_rounds:
   parsed_company: Monarch Quantum
   parsed_amount: $55M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Linx Security raised $50M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
