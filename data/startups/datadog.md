@@ -34,6 +34,9 @@ investors:
 - round: Series D
   slug: will-griffith
   year: 2015
+- round: '2015'
+  slug: matt-jacobson
+  year: 2015
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

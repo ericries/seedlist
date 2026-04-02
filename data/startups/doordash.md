@@ -131,6 +131,9 @@ investors:
 - round: Seed
   slug: saar-gur
   year: 2013
+- round: Early stage
+  slug: reid-christian
+  year: 2017
 last_researched: 2026-03-13
 location: San Francisco, California
 name: DoorDash

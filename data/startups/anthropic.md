@@ -133,6 +133,9 @@ investors:
 - round: Series G (co-lead)
   slug: will-griffith
   year: 2025
+- round: '2025'
+  slug: matt-jacobson
+  year: 2025
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

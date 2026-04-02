@@ -99,6 +99,9 @@ investors:
 - round: '2021'
   slug: geoff-lewis
   year: 2021
+- round: Series A
+  slug: reid-christian
+  year: 2020
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Vercel

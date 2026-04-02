@@ -51,6 +51,10 @@ firms:
 - round: 2021-present
   slug: bedrock-capital
   year: 2021
+- round: Pre-IPO
+  slug: andreessen-horowitz
+  year: 2026
+  date: 2026-03-31
 founded: 2015
 founders:
 - name: Sam Altman
@@ -125,7 +129,7 @@ investors:
 - round: 2021-present
   slug: geoff-lewis
   year: 2021
-last_researched: 2026-03-13
+last_researched: 2026-04-02
 location: San Francisco, CA
 name: OpenAI
 sector:
@@ -133,10 +137,10 @@ sector:
 - agi
 - machine-learning
 slug: openai
-stage_latest: Series F
+stage_latest: Pre-IPO
 status: published
 status_company: active
-total_raised: $168B+
+total_raised: "$290B+"
 type: startup
 website: https://openai.com
 ---
@@ -158,6 +162,7 @@ OpenAI was founded on December 11, 2015, as a non-profit artificial intelligence
 | Series F (extension) | Aug 2025 | $8.3B | $300B | Dragoneer | Blackstone, TPG, T. Rowe Price, Andreessen Horowitz, Coatue, D1 Capital, Fidelity, Founders Fund, Sequoia Capital, Tiger Global [^8] |
 | Secondary/Tender | Oct 2025 | $6.6B | $500B | N/A | Various [^7] |
 | Mega-Round | Feb 2026 | $110B | $730B (pre-money) | SoftBank | Amazon ($50B), NVIDIA ($30B) [^9] |
+| Mega-Round (Pre-IPO) | 2026-03-31 | $122B | $852B | SoftBank, Andreessen Horowitz | Amazon, Microsoft, NVIDIA; ~$3B from retail investors via ARK Invest-managed funds [^12] |
 
 ## What Investors Say
 
@@ -190,3 +195,4 @@ Sam Altman has publicly credited Ron Conway and Brian Chesky (Airbnb CEO) with s
 [^9]: TechCrunch, "OpenAI raises $110B in one of the largest private funding rounds in history," February 2026. https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
 [^10]: Sam Altman blog, "Reflections," 2024. https://blog.samaltman.com/reflections
 [^11]: Fortune, "Sam Altman says Airbnb's Brian Chesky and SV Angel's Ron Conway saved OpenAI," January 2025. https://fortune.com/2025/01/06/sam-altman-airbnb-ceo-brian-chesky-sv-angel-ron-conway-saved-openai/
+[^12]: TechCrunch, "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise," March 31, 2026. https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/

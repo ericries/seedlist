@@ -8697,3 +8697,39 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: future-ventures
+- name: Seligman Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cognichip
+- name: TQ Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nomadic
+- name: ARK Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manna-air-delivery
+- name: Radical Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emerald-ai
+- name: Mayfield
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cognichip
+- name: Meritech Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: depthfirst

@@ -37,7 +37,7 @@ Rebellions is a South Korean fabless AI chip startup founded in September 2020 b
 |-------|------|--------|-----------|---------------|------------------|
 | Series B | Jan 2024 | $124M | N/A | KT | N/A [^4] |
 | Series C | Nov 2025 | $250M | $1.4B | Arm | Samsung Ventures, Pegatron VC [^5] |
-| Pre-IPO | Mar 2026 | $400M | $2.34B | Mirae Asset Financial Group, Korea National Growth Fund | Korea Development Bank, Korelya Capital, Lion X Ventures, Aramco [^1][^3] |
+| Pre-IPO | 2026-03-30 | $400M | $2.34B | Mirae Asset Financial Group, Korea National Growth Fund | Korea Development Bank, Korelya Capital, Lion X Ventures, Aramco [^1][^3] |
 
 Total raised: $850M, with $650M raised in the last six months [^1]. The Korea National Growth Fund contributed approximately 250 billion Korean won (~$165M), marking the first direct government investment under South Korea's "K-Nvidia" initiative [^1]. Mirae Asset has been an investor since the Series A [^3]. The company plans to IPO later in 2026 [^1].
 

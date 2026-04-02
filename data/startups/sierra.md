@@ -55,6 +55,9 @@ investors:
 - round: Series C
   slug: will-griffith
   year: 2024
+- round: '2024'
+  slug: matt-jacobson
+  year: 2024
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Sierra

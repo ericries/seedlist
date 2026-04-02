@@ -48,6 +48,9 @@ firms:
 - round: '2020'
   slug: ivp
   year: 2020
+- round: ~2019
+  slug: iconiq-growth
+  year: 2019
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -106,6 +109,9 @@ investors:
 - round: '2020'
   slug: eric-liaw
   year: 2020
+- round: ~2019
+  slug: matt-jacobson
+  year: 2019
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

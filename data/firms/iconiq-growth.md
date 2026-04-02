@@ -25,7 +25,7 @@ team:
     slug: will-griffith
   - name: Matt Jacobson
     role: General Partner
-    slug: matt-jacobson-iconiq
+    slug: matt-jacobson
   - name: Amit Agarwal
     role: General Partner
     slug: amit-agarwal-iconiq
