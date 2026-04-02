@@ -226,6 +226,9 @@ investors:
 - round: Early
   slug: brandon-reeves
   year: 2017
+- round: Seed
+  slug: hemant-taneja
+  year: 2019
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

@@ -1,23 +1,35 @@
 ---
-name: "Lee Linden"
-slug: lee-linden
-type: individual
-firm: quiet-capital
-role: "Co-Founder & Managing Partner"
-location: "New York, NY"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [ai, fintech, consumer, deeptech-hardware, health]
-check_size: "$100K-$25M"
-last_verified_investment:
-  date: 2024-11
-  company: "Mach9"
-  round: "Seed"
-social:
-  twitter: "@lclinden"
-  linkedin: "linkedin.com/in/lclinden"
-status: published
+check_size: $100K-$25M
+firm: gpx
 last_researched: 2026-03-28
-tldr: 'Serial founder (Tapjoy, Karma) and co-founder of Quiet Capital, a pre-seed/seed fund with $377M in Fund III (2024). Also co-founding GPx, a $500M+ fund with Brian Singerman targeting partnerships with emerging managers. Invests across AI, fintech, deep tech, and consumer; portfolio includes ElevenLabs, OpenAI, Mercury, and Cruise. Values DPI realization over paper returns.'
+last_verified_investment:
+  company: Mach9
+  date: 2024-11
+  round: Seed
+location: New York, NY
+name: Lee Linden
+role: Co-Founder & Managing Partner
+sector_focus:
+- ai
+- fintech
+- consumer
+- deeptech-hardware
+- health
+slug: lee-linden
+social:
+  linkedin: linkedin.com/in/lclinden
+  twitter: '@lclinden'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+tldr: Serial founder (Tapjoy, Karma) and co-founder of Quiet Capital, a pre-seed/seed
+  fund with $377M in Fund III (2024). Also co-founding GPx, a $500M+ fund with Brian
+  Singerman targeting partnerships with emerging managers. Invests across AI, fintech,
+  deep tech, and consumer; portfolio includes ElevenLabs, OpenAI, Mercury, and Cruise.
+  Values DPI realization over paper returns.
+type: individual
 ---
 
 ## Background

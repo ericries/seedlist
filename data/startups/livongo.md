@@ -1,40 +1,44 @@
 ---
-name: "Livongo Health"
-slug: livongo
-type: startup
-website: "https://www.livongo.com"
-location: "Mountain View, CA"
-founded: 2014
-status_company: acquired
-acquired_by: "Teladoc Health"
-sector:
-  - digital-health
-  - healthcare
-  - consumer-health
-  - chronic-disease-management
-stage_latest: IPO
-total_raised: "$235M"
+acquired_by: Teladoc Health
 firms:
-  - slug: general-catalyst
-    round: Series A
-    year: 2014
-  - slug: kleiner-perkins
-    round: Series B
-    year: 2015
-  - slug: general-catalyst
-    round: Series D
-    year: 2017
-  - slug: general-catalyst
-    round: Series E
-    year: 2018
-  - slug: 7wire-ventures
-    round: Series C
-    year: 2016
+- round: Series A
+  slug: general-catalyst
+  year: 2014
+- round: Series B
+  slug: kleiner-perkins
+  year: 2015
+- round: Series D
+  slug: general-catalyst
+  year: 2017
+- round: Series E
+  slug: general-catalyst
+  year: 2018
+- round: Series C
+  slug: 7wire-ventures
+  year: 2016
+founded: 2014
 founders:
-  - name: "Glen Tullman"
-    role: "Founder & Executive Chairman"
-status: published
+- name: Glen Tullman
+  role: Founder & Executive Chairman
+investors:
+- round: Series A (led)
+  slug: hemant-taneja
+  year: 2014
 last_researched: 2026-03-31
+location: Mountain View, CA
+name: Livongo Health
+sector:
+- digital-health
+- healthcare
+- consumer-health
+- chronic-disease-management
+slug: livongo
+stage_latest: IPO
+status: published
+status_company: acquired
+total_raised: $235M
+type: startup
+website: https://www.livongo.com
 ---
 
 ## About

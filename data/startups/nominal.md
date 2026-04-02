@@ -12,6 +12,9 @@ firms:
 - round: series-b-extension
   slug: lux-capital
   year: 2026
+- round: Undisclosed
+  slug: psp-partners
+  year: 2023
 founded: 2022
 founders:
 - name: Cameron McCord
@@ -23,6 +26,9 @@ founders:
 investors:
 - round: Founding investment
   slug: bilal-zuberi
+  year: 2023
+- round: Undisclosed
+  slug: momei-qu
   year: 2023
 last_researched: 2026-03-24
 location: Austin, Texas

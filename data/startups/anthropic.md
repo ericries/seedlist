@@ -54,6 +54,9 @@ firms:
 - round: Series G (co-lead)
   slug: iconiq-growth
   year: 2025
+- round: Growth
+  slug: general-catalyst
+  year: 2024
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -136,6 +139,9 @@ investors:
 - round: '2025'
   slug: matt-jacobson
   year: 2025
+- round: Growth
+  slug: hemant-taneja
+  year: 2024
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Anthropic

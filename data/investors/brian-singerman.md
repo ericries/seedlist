@@ -1,6 +1,6 @@
 ---
-check_size: "$1M-$300M"
-firm: founders-fund
+check_size: $1M-$300M
+firm: gpx
 last_researched: 2026-03-27
 last_verified_investment:
   company: Anduril Industries
@@ -18,16 +18,20 @@ sector_focus:
 - hard-tech
 slug: brian-singerman
 social:
-  twitter: "@briansin"
   linkedin: linkedin.com/in/brian-singerman-9333b52
+  twitter: '@briansin'
 stage_focus:
 - seed
 - series-a
 - series-b
 - growth
 status: published
+tldr: Founders Fund Partner Emeritus (2008-2024) and co-founder of $500M fund GPx
+  with Peter Thiel. Invests in frontier tech with concentration in biotech (27%) and
+  defense (23%) — sectors most VCs avoid. His sector-agnostic claim understates revealed
+  preference for regulated, capital-intensive domains requiring deep technical expertise;
+  portfolio includes Anduril, Stemcentrx, and SpaceX.
 type: individual
-tldr: "Founders Fund Partner Emeritus (2008-2024) and co-founder of $500M fund GPx with Peter Thiel. Invests in frontier tech with concentration in biotech (27%) and defense (23%) — sectors most VCs avoid. His sector-agnostic claim understates revealed preference for regulated, capital-intensive domains requiring deep technical expertise; portfolio includes Anduril, Stemcentrx, and SpaceX."
 ---
 
 ## Background

@@ -225,6 +225,9 @@ investors:
 - round: Series B
   slug: laela-sturdy
   year: 2015
+- round: Series C
+  slug: hemant-taneja
+  year: 2018
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

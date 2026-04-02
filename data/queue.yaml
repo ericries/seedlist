@@ -7311,7 +7311,7 @@ queue:
 - name: Long Journey Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: cyan-banister
 - name: Lee Jacobs
@@ -7368,7 +7368,7 @@ queue:
 - name: Hummer Winblad Venture Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ann-winblad
 - name: John Hummer
@@ -7381,7 +7381,7 @@ queue:
 - name: Elevation Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: roger-mcnamee
 - name: EDventure Holdings
@@ -7511,13 +7511,13 @@ queue:
 - name: Outlander VC
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: paige-craig
 - name: GPx
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: brian-singerman
 - name: Lee Linden
@@ -8525,7 +8525,7 @@ queue:
 - name: Hemant Taneja
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: General Catalyst
   discovered_from: livongo
@@ -8630,7 +8630,7 @@ queue:
 - name: Momei Qu
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: PSP Partners
   discovered_from: psp-partners
@@ -8669,7 +8669,7 @@ queue:
 - name: Risa Stack
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: The Production Board
   discovered_from: the-production-board
@@ -8733,3 +8733,111 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: depthfirst
+- name: Arielle Zuckerberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Long Journey Ventures
+  discovered_from: long-journey-ventures
+- name: Jonathan Bruck
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Long Journey Ventures
+  discovered_from: long-journey-ventures
+- name: Justin Mares
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Long Journey Ventures
+  discovered_from: long-journey-ventures
+- name: Pascal Levy-Garboua
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Long Journey Ventures
+  discovered_from: long-journey-ventures
+- name: Catalio Capital Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: risa-stack
+- name: Mountain Group Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: risa-stack
+- name: Lars Leckie
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hummer Winblad Venture Partners
+  discovered_from: hummer-winblad-venture-partners
+- name: Steve Kishi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hummer Winblad Venture Partners
+  discovered_from: hummer-winblad-venture-partners
+- name: Fred Anderson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Elevation Partners
+  discovered_from: elevation-partners
+- name: NextEquity Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elevation-partners
+- name: Kenneth Chenault
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: hemant-taneja
+- name: Qasar Younis
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Applied Intuition
+  discovered_from: hemant-taneja
+- name: Sanjit Biswas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Samsara
+  discovered_from: hemant-taneja
+- name: Leura Craig
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Outlander VC
+  discovered_from: outlander-vc
+- name: Jordan Kretchmer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Outlander VC
+  discovered_from: outlander-vc
+- name: Harpoon Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: outlander-vc

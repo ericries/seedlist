@@ -85,6 +85,9 @@ investors:
 - round: Early
   slug: brandon-reeves
   year: 2017
+- round: Series B (led)
+  slug: hemant-taneja
+  year: 2019
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition

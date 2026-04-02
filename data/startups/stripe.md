@@ -78,6 +78,9 @@ firms:
 - round: Series D
   slug: capitalg
   year: 2016
+- round: Seed
+  slug: general-catalyst
+  year: 2010
 founded: 2010
 founders:
 - name: Patrick Collison
@@ -178,6 +181,9 @@ investors:
 - round: Seed
   slug: adam-rothenberg
   year: 2011
+- round: Seed
+  slug: hemant-taneja
+  year: 2010
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Stripe
