@@ -114,32 +114,31 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 |---------|-------|------|--------|--------|
 | Figma | Seed | 2013 | Design/SaaS | [^9] |
 | Wiz | Seed | 2020 | Cybersecurity | [^10] |
-| Revolut | Early | 2016 | Fintech | [^11] |
-| Datadog | Early | 2014 | Cloud/Infrastructure | [^12] |
-| Roblox | Early | 2013 | Gaming | [^11] |
-| Adyen | Early | 2011 | Fintech/Payments | [^11] |
-| Discord | Early | 2015 | Consumer/Social | [^8] |
-| Robinhood | Early | 2013 | Fintech | [^8] |
-| Scale AI | Early | 2017 | AI/Data | [^8] |
+| Revolut | Seed | 2015 | Fintech | [^15] |
+| Datadog | Series A | 2012 | Cloud/Infrastructure | [^16] |
+| Roblox | Series C | 2017 | Gaming | [^17] |
+| Adyen | Series A | 2011 | Fintech/Payments | [^18] |
+| Discord | Series C | 2017 | Consumer/Social | [^19] |
+| Robinhood | Seed | 2013 | Fintech | [^20] |
+| Scale AI | Series B | 2018 | AI/Data | [^21] |
 | Anthropic | Growth | 2023 | AI | [^8] |
-| Dropbox | Early | 2007 | Cloud/Consumer | [^4] |
-| Etsy | Early | 2008 | E-commerce | [^4] |
-| Skype | Early | 2003 | Consumer/Communications | [^4] |
-| Notion | Growth | 2020 | Productivity | [^4] |
-| Deliveroo | Early | 2014 | Consumer/Delivery | [^7] |
-| Glossier | Early | 2014 | Consumer/DTC | [^4] |
-| Patreon | Early | 2014 | Creator Economy | [^4] |
-| Supercell | Early | 2011 | Gaming | [^3] |
-| Betfair (Flutter) | Early | 2001 | Gaming/Betting | [^3][^4] |
-| MySQL | Early | 2001 | Infrastructure/OSS | [^4] |
-| Farfetch | Early | 2012 | E-commerce/Luxury | [^4] |
-| Trello | Early | 2014 | Productivity | [^3] |
-| Funding Circle | Early | 2012 | Fintech | [^3] |
-| Stack Overflow | Early | 2015 | Developer | [^3] |
-| Remote | Growth | 2021 | HR/Enterprise | [^6] |
-| Personio | Early | 2018 | HR/Enterprise | [^7] |
-| Trainline | Growth | 2014 | Travel | [^7] |
-
+| Dropbox | Series B | 2011 | Cloud/Consumer | [^22] |
+| Etsy | Series E | 2010 | E-commerce | [^23] |
+| Skype | Series B | 2004 | Consumer/Communications | [^24] |
+| Notion | Series B | 2020 | Productivity | [^25] |
+| Deliveroo | Series A | 2014 | Consumer/Delivery | [^26] |
+| Glossier | Series B | 2016 | Consumer/DTC | [^27] |
+| Patreon | Series A | 2014 | Creator Economy | [^28] |
+| Supercell | Series A | 2011 | Gaming | [^29] |
+| Betfair (Flutter) | Series A | 2006 | Gaming/Betting | [^3][^4] |
+| MySQL | Series B | 2003 | Infrastructure/OSS | [^30] |
+| Farfetch | Series B | 2012 | E-commerce/Luxury | [^31] |
+| Trello | Series A | 2014 | Productivity | [^32] |
+| Funding Circle | Series A | 2011 | Fintech | [^33] |
+| Stack Overflow | Series B | 2011 | Developer | [^34] |
+| Remote | Series A | 2020 | HR/Enterprise | [^35] |
+| Personio | Series B | 2019 | HR/Enterprise | [^36] |
+| Trainline (Captain Train) | Seed | 2012 | Travel | [^37] |
 | Granola | Series C (led) | 2026 | AI/Enterprise | [^14] |
 
 This table represents a subset of Index Ventures' portfolio.
@@ -176,3 +175,26 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^12]: Index Ventures, "Shardul Shah," accessed March 2026. https://www.indexventures.com/team/shardul-shah/
 [^13]: Index Ventures, "The Index Ventures experience," accessed March 2026. https://www.indexventures.com/rewarding-talent/the-index-ventures-experience
 [^14]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c
+[^15]: Sifted, "Top investors including Index, Seedcamp and Balderton bought into Revolut in 2016," accessed April 2026. https://sifted.eu/articles/revolut-investor-early-index
+[^16]: Datadog, "Datadog Announces $6.2M Investment from Index Ventures and RTP Ventures," 2012. https://www.datadoghq.com/about/latest-news/press-releases/datadog-announces-6-2m-investment-from-index-ventures-and-rtp-ventures/
+[^17]: Index Ventures, "Roblox Secures $92 Million in Funding," March 2017. https://www.indexventures.com/perspectives/roblox-secures-92-million-in-funding/
+[^18]: CNBC, "Adyen IPO: Everything you need to know," June 2018. https://www.cnbc.com/2018/06/13/adyen-ipo-everything-you-need-to-know-about-the-8-billion-fintech-company.html
+[^19]: Tracxn, "Discord funding rounds," accessed April 2026. https://tracxn.com/d/companies/discord/__5rlLgsamoGCjo5gATenpy383J_jyBToAQkMl2B_f99w/funding-and-investors
+[^20]: TechCrunch, "Robinhood Raises $13M To Democratize Stock Market," September 2014. https://techcrunch.com/2014/09/23/robinhood-stock-app/
+[^21]: Index Ventures, "Scale Announces $18 Million in Series B Funding Led by Index Ventures," August 2018. https://www.indexventures.com/perspectives/scale-announces-18-million-in-series-b-funding-led-by-index-ventures/
+[^22]: TechCrunch, "Dropbox Raises $250M In Funding, Boasts 45 Million Users," October 2011. https://techcrunch.com/2011/10/18/dropbox-raises-250m-in-funding-boasts-45-million-users/
+[^23]: TechCrunch, "Index Ventures Buys Into Etsy, Triples Valuation To Nearly $300 Million," August 2010. https://techcrunch.com/2010/08/26/etsy-300-million-valuation/
+[^24]: Tracxn, "Skype funding rounds," accessed April 2026. https://tracxn.com/d/companies/skype/__nv0Iy0dXeMLu0QYciPo7PUAG-oWpumrC8feEBYwEK10/funding-and-investors
+[^25]: TechCrunch, "Notion hits $2 billion valuation in new raise," April 2020. https://techcrunch.com/2020/04/01/notion-hits-2-billion-valuation-in-new-raise/
+[^26]: Index Ventures, "Deliveroo raises $25m in Series B funding," January 2015. https://www.indexventures.com/perspectives/deliveroo-raises-25m-in-series-b-funding-to-transform-the-food-delivery-experience/
+[^27]: Index Ventures, "How Glossier Raised Their Latest Round Of Funding," November 2016. https://www.indexventures.com/perspectives/how-glossier-raised-their-latest-round-of-funding/
+[^28]: Index Ventures, "Patreon raises $15m Series A," June 2014. https://www.indexventures.com/news/patreon-raises-30-million-series-b
+[^29]: PitchBook, "Supercell Scores $130M from Index, Atomico and IVP," April 2013. https://pitchbook.com/newsletter/supercell-scores-130m-from-index-atomico-and-ivp
+[^30]: SlideShare, "MySQL fundraising pitch deck ($16 million Series B round - 2003)," accessed April 2026. https://www.slideshare.net/slideshow/mysql-fundraising-pitch-deck-16-million-series-b-round-2003/62304895
+[^31]: TechCrunch, "Online Marketplace For Designer Fashion Boutiques FarFetch Raises $18M From Index Ventures," January 2012. https://techcrunch.com/2012/01/15/online-marketplace-for-designer-fashion-boutiques-farfetch-raises-18m-from-index-ventures/
+[^32]: TechCrunch, "Disrupt Alum Trello Takes In $10.3M For Its Visual To-Do Lists," July 2014. https://techcrunch.com/2014/07/24/trello-series-a/
+[^33]: TechCrunch, "Funding Circle, a Kickstarter for SMBs, Picks Up $16M From Index, Union Square Ventures," April 2012. https://techcrunch.com/2012/04/01/p2p-small-business-lending-site-funding-circle-a-kickstarter-for-smbs-picks-up-16m-from-index-union-square-ventures/
+[^34]: Tracxn, "Stack Overflow funding rounds," accessed April 2026. https://tracxn.com/d/companies/stack-overflow/__K1cWbMvjGFOB1yGAGxlbAogfmzCfuGF6U_ZKnM9Beio/funding-and-investors
+[^35]: Remote, "Remote raises $35 million to help more companies access global talent," 2020. https://remote.com/news/company-news/208595-remote-raises-35-million-to-help-more-companies-access-global-talent
+[^36]: Personio, "Personio raised $40M in Series B investment led by Index Ventures," January 2019. https://www.personio.com/about-personio/press/series-b-announcement/
+[^37]: Tracxn, "Trainline Europe funding rounds," accessed April 2026. https://tracxn.com/d/companies/trainline-europe/__dHL2gEKGm3xfRN8WuvGdD5a4xOEV-Tkw9Ll3rshIbKM

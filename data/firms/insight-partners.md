@@ -90,7 +90,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 
 **Stage distribution:** Despite claiming to be "stage-agnostic," Insight is predominantly a growth and late-stage investor. The vast majority of capital is deployed in Series B through pre-IPO rounds, with buyout capabilities added via dedicated buyout co-invest vehicles ($2.8B in Fund XII) [^2]. Seed-stage activity appears minimal relative to total deployment.
 
-**Sector breakdown (based on 20 verified companies):** Enterprise SaaS/software (Qualtrics, Cvent, Udemy, nCino, JFrog, Alteryx, Shutterstock, Mimecast, SolarWinds, Optimizely — 10 of 20, 50%), cybersecurity (SentinelOne, Recorded Future, Wiz — 3 of 20, 15%), consumer internet (Alibaba, Twitter, HelloFresh — 3 of 20, 15%), fintech (Checkout.com, NMI — 2 of 20, 10%), healthcare (Hinge Health, Inovalon — 2 of 20, 10%) [^2][^5][^6].
+**Sector breakdown (based on 24 verified companies):** Enterprise SaaS/software (Qualtrics, Cvent, Udemy, nCino, JFrog, Alteryx, Shutterstock, Mimecast, SolarWinds, Optimizely, Shopify, Kaseya — 12 of 24, 50%), cybersecurity (SentinelOne, Recorded Future, Wiz, Linx Security — 4 of 24, 17%), consumer internet/social (Twitter, HelloFresh — 2 of 24, 8%), fintech/payments (Checkout.com, Wix — 2 of 24, 8%), healthcare (Hinge Health — 1 of 24, 4%), semiconductors/AI infrastructure (Ayar Labs — 1 of 24, 4%), SaaS/onboarding (Rocketlane — 1 of 24, 4%). Website builder Wix is categorized under fintech/payments given Insight's software lens [^2][^5][^6].
 
 **Geographic patterns:** While headquartered in New York, Insight has a strong international presence, particularly in Israel (Wix, SentinelOne, WalkMe, Wiz) and Europe (HelloFresh in Germany, Deliveroo in UK). The Tel Aviv office reflects deep Israeli tech investment activity [^1].
 
@@ -107,30 +107,30 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | SentinelOne | Series D | 2019 | Cybersecurity | Active (Public) | [^10] |
-~unknown| Wix | Growth | — | Website Builder | Active (Public) | [^2] |
-| Twitter | Growth | — | Social Media | Acquired (Musk, 2022) | [^2] |
-~unknown| Alibaba | Growth | — | E-commerce | Active (Public) | [^2] |
-~unknown| Shopify | Growth | — | E-commerce SaaS | Active (Public) | [^6] |
-~unknown| Qualtrics | Growth | — | Enterprise Software | Acquired (SAP/Silver Lake) | [^2] |
-~unknown| HelloFresh | Growth | — | Consumer/Food | Active (Public) | [^2] |
-~unknown| Alteryx | Growth | — | Data Analytics | Acquired (Clearlake) | [^2] |
-~unknown| JFrog | Growth | — | DevOps | Active (Public) | [^2] |
-~unknown| nCino | Growth | — | Fintech/Banking SaaS | Active (Public) | [^2] |
-~unknown| Cvent | Growth | — | Event Tech | Active (Public) | [^2] |
-~unknown| Mimecast | Growth | — | Cybersecurity | Acquired (Permira) | [^2] |
-~unknown| Shutterstock | Growth | — | Digital Media | Active (Public) | [^2] |
-~unknown| Udemy | Growth | — | EdTech | Active (Public) | [^2] |
-~unknown| SolarWinds | Growth | — | IT Management | Active (Public) | [^2] |
-| Recorded Future | Growth | — | Cybersecurity | Acquired (Mastercard, 2024) | [^5] |
-| Wiz | Growth | — | Cloud Security | Acquired (Alphabet, 2025) | [^5] |
-~unknown| Hinge Health | Growth | — | Digital Health | Active (Public) | [^5] |
-~unknown| Checkout.com | Growth | — | Payments | Active | [^2] |
-~unknown| Kaseya | Growth | — | IT Management | Active | [^2] |
+| Wix | Series D | 2011 | Website Builder | Active (Public) | [^14] |
+| Twitter | Series D | 2009 | Social Media | Acquired (Musk, 2022) | [^15] |
+| Shopify | Series A | 2010 | E-commerce SaaS | Active (Public) | [^16] |
+| Qualtrics | Series B | 2014 | Enterprise Software | Acquired (SAP/Silver Lake) | [^17] |
+| HelloFresh | Series D | 2014 | Consumer/Food | Active (Public) | [^18] |
+| Alteryx | Series B | 2014 | Data Analytics | Acquired (Clearlake) | [^19] |
+| JFrog | Series D | 2018 | DevOps | Active (Public) | [^20] |
+| nCino | Series B | 2015 | Fintech/Banking SaaS | Active (Public) | [^21] |
+| Cvent | Growth | 2011 | Event Tech | Active (Public) | [^22] |
+| Mimecast | Series C | 2012 | Cybersecurity | Acquired (Permira) | [^23] |
+| Shutterstock | Series A | 2007 | Digital Media | Active (Public) | [^24] |
+| Udemy | Series B | 2012 | EdTech | Active (Public) | [^25] |
+| SolarWinds | Growth | 2007 | IT Management | Active (Public) | [^26] |
+| Recorded Future | Growth | 2017 | Cybersecurity | Acquired (Mastercard, 2024) | [^27] |
+| Wiz | Series A | 2020 | Cloud Security | Acquired (Alphabet, 2025) | [^28] |
+| Hinge Health | Series B | 2018 | Digital Health | Active (Public) | [^29] |
+| Checkout.com | Series A | 2019 | Payments | Active | [^30] |
+| Kaseya | Growth | 2013 | IT Management | Active | [^31] |
+| Optimizely | Buyout | 2018 | Enterprise Software | Active | [^32] |
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Active | [^11] |
 | Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
 | Linx Security | Series B | 2026 | Cybersecurity / Identity | Active | [^13] |
 
-*This table represents approximately 2% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
+*This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
 ## In Their Own Words
 
@@ -169,3 +169,22 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^11]: "Ayar Labs Raises $500M Series E," BusinessWire, March 3, 2026. https://www.businesswire.com/news/home/20260303005001/en/Ayar-Labs-Raises-500M-Series-E
 [^12]: Rocketlane $60M Series C backed by Insight Partners, March 2026.
 [^13]: Linx Security Blog, "Linx Security Raises $50M Series B," March 31, 2026. https://www.linx.security/blog/linx-security-raises-50m-series-b
+[^14]: VC Cafe, "Israeli startup Wix Raises $40 Million," March 2011. https://www.vccafe.com/2011/03/28/israeli-startup-wix-raises-40-million-wants-to-become-a-large-company-in-israel/
+[^15]: Wellfound, "Twitter Funding Rounds, Valuation & Investors," accessed April 2026. https://wellfound.com/company/twitter/funding
+[^16]: Shopify HulkApps, "Shopify Venture Capital History," accessed April 2026. https://www.hulkapps.com/blogs/shopify-hub/shopify-venture-capital-history
+[^17]: Insight Partners, "Qualtrics Raises $150 Million," September 2014. https://www.insightpartners.com/ideas/qualtrics-raises-150-million-to-continue-aggressive-international-growth-and-new-product-innovation/
+[^18]: TechCrunch, "HelloFresh Cooks Up $50 Million Series D From Insight Venture Partners," June 18, 2014. https://techcrunch.com/2014/06/18/hellofresh-cooks-up-50-million-series-d-from-insight-venture-partners/
+[^19]: Crunchbase, "Alteryx Series B funding round," accessed April 2026. https://www.crunchbase.com/organization/alteryx/company_financials
+[^20]: BusinessWire, "JFrog Secures $165 Million Investment to Lead Universal DevOps in the Enterprise," October 2018. https://www.prnewswire.com/news-releases/jfrog-secures-165-million-investment-to-lead-universal-devops-in-the-enterprise-300724416.html
+[^21]: BusinessWire, "nCino Secures $29 Million in Series B Financing," February 24, 2015. https://www.businesswire.com/news/home/20150224005845/en/nCino-Secures-29-Million-Series-Financing
+[^22]: Cvent, "Cvent Receives $136 Million Investment Led by NEA and Insight Venture Partners," July 2011. https://www.cvent.com/en/press-release/cvent-receives-136-million-investment-led-new-enterprise-associates-and-insight
+[^23]: Shea & Company, "Mimecast | Insight Venture Partners," September 2012. https://sheaco.com/transaction/mimecast-insight-venture-partners/
+[^24]: Crunchbase, "Shutterstock funding history," accessed April 2026. https://www.crunchbase.com/organization/shutterstock/company_financials
+[^25]: BusinessWire, "Udemy Receives $12 Million in Series B Financing Led by Insight Venture Partners," December 7, 2012. https://www.businesswire.com/news/home/20121207005534/en/Udemy-Receives-12-Million-Series-Financing-Led
+[^26]: Insight Partners, "SolarWinds IPO Shines," May 2009. https://www.insightpartners.com/ideas/solarwinds-ipo-shines/
+[^27]: Recorded Future, "Recorded Future Raises $25M From Insight Venture Partners," 2017. https://www.recordedfuture.com/blog/series-e-funding
+[^28]: Insight Partners, "Wiz Emerges from Stealth with $100 Million Series A Financing," December 2020. https://www.insightpartners.com/ideas/wiz-emerges-from-stealth-with-100-million-series-a-financing-and-a-mission-to-reinvent-cloud-security/
+[^29]: Insight Partners, "Hinge Health Raises $26 Million from Insight Venture Partners and Atomico," August 2018. https://www.insightpartners.com/ideas/hinge-health-raises-26-million-from-insight-venture-partners-and-atomico-to-help-employers-tackle-chronic-conditions/
+[^30]: Insight Partners, "Checkout.com Raises $230m in Record European Series A," May 2019. https://www.insightpartners.com/ideas/checkout-com-raises-230m-in-record-european-series-a/
+[^31]: Insight Partners, "Insight Venture Partners Makes Investment in Kaseya," June 2013. https://www.insightpartners.com/ideas/insight-venture-partners-makes-investment-in-kaseya/
+[^32]: GrowthCap Advisory, "Insight Partners — Optimizely," October 2018. https://growthcapadvisory.com/firms/insight-partners/

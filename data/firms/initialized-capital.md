@@ -92,14 +92,14 @@ Based on the 27 confirmed unicorn investments and the broader portfolio of 470+ 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Coinbase | Seed | 2012 | Crypto/Fintech | Public (direct listing 2021) | [^2] |
-| Instacart | Seed | 2012 | Grocery delivery | Public (IPO 2023) | [^2] |
-| Reddit | Seed | 2012 | Social media | Public (IPO 2024) | [^1][^2] |
-| Cruise Automation | Seed | 2013 | Autonomous vehicles | Acquired (GM, $1.15B) | [^1][^2] |
-| Flexport | Seed | 2014 | Logistics | Active | [^2] |
-| Opendoor | Seed | 2014 | Real estate/Fintech | Public | [^2] |
-| Patreon | Seed | 2013 | Creator economy | Active | [^1][^2] |
-| Rippling | Seed | 2017 | HR SaaS/Fintech | Active | [^2] |
+| Coinbase | Seed | 2012 | Crypto/Fintech | Public (direct listing 2021) | [^1][^9] |
+| Instacart | Seed | 2012 | Grocery delivery | Public (IPO 2023) | [^1][^10] |
+| Reddit | Seed | 2012 | Social media | Public (IPO 2024) | [^1] |
+| Cruise Automation | Seed | 2014 | Autonomous vehicles | Acquired (GM, $1.15B) | [^1][^11] |
+| Flexport | Seed | 2014 | Logistics | Active | [^1][^12] |
+| Opendoor | Seed | 2014 | Real estate/Fintech | Public | [^1][^13] |
+| Patreon | Seed | 2013 | Creator economy | Active | [^1] |
+| Rippling | Seed | 2017 | HR SaaS/Fintech | Active | [^14] |
 | Ro | Seed | 2017 | Healthcare | Active | [^2] |
 | Algolia | Seed | 2013 | Search/Developer tools | Active | [^2] |
 | Color Health | Seed | 2015 | Healthcare | Active | [^2] |
@@ -134,3 +134,9 @@ Based on the 27 confirmed unicorn investments and the broader portfolio of 470+ 
 [^6]: TechCrunch, "Initialized Capital restructures, and lets multiple partners go," October 3, 2024. https://techcrunch.com/2024/10/03/initialized-capital-restructures-and-lets-multiple-partners-go/
 [^7]: Initialized Capital website, "Team," accessed March 2026. https://initialized.com/team
 [^8]: Deciphr.ai, "20VC: Initialized's Garry Tan on The Most Important Thing A Seed Investor Can Do For Founders," accessed March 2026. https://www.deciphr.ai/podcast/20vc-initializeds-garry-tan-on-the-most-important-thing-a-seed-investor-can-do-for-founders-how-ownership-requirements-change-with-evolution-of-funds--why-there-is-not-too-much-capital-chasing-too-few-deals
+[^9]: Crunchbase, "Coinbase Seed Round," September 2012. https://www.crunchbase.com/funding_round/coinbase-seed--59a33b3a
+[^10]: Crunchbase News, "Inside the Deal: Instacart's Biggest IPO Winners," September 2023. https://news.crunchbase.com/business/initialized-capital-garry-tan-seed-unicorn-investor-under-the-hood/
+[^11]: Crunchbase News, "A look at early-stage VC firm Initialized's unicorn startup investments," accessed April 2026. https://news.crunchbase.com/business/initialized-capital-garry-tan-seed-unicorn-investor-under-the-hood/
+[^12]: Crunchbase, "Flexport company profile," accessed April 2026. https://www.crunchbase.com/organization/flexport
+[^13]: TechCrunch, "Keith Rabois' Homebuying Startup OpenDoor Raises $9.95M From Everyone," July 2014. https://techcrunch.com/2014/07/07/opendoor/
+[^14]: Medium / Garry Tan, "Rippling raises $45M Series A from Kleiner Perkins, Initialized," 2018. https://medium.com/initialized-capital/rippling-raises-45m-series-a-from-kleiner-perkins-initialized-to-automate-all-employee-e9a17b77f9d9
