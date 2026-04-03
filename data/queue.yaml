@@ -7606,7 +7606,7 @@ queue:
 - name: Weekend Fund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ryan-hoover
 - name: 75 & Sunny
@@ -7630,7 +7630,7 @@ queue:
 - name: Pitango Venture Capital
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: yossi-vardi
 - name: Pacaso
@@ -7642,7 +7642,7 @@ queue:
 - name: Powerhouse Ventures
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: emily-kirsch
 - name: Danny Kennedy
@@ -7667,7 +7667,7 @@ queue:
 - name: Collaborative Fund
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: craig-shapiro
 - name: Sophie Bakalar
@@ -8917,3 +8917,51 @@ queue:
   added: '2026-03-17'
   firm: Upfront Ventures
   discovered_from: upfront-ventures
+- name: Jim Davidson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Silver Lake Partners
+  discovered_from: roger-mcnamee
+- name: Guy Vidra
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Collaborative Fund
+  discovered_from: collaborative-fund
+- name: Chemi Peres
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: pitango-venture-capital
+- name: Rami Kalish
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: pitango-venture-capital
+- name: Eyal Niv
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: pitango-venture-capital
+- name: Marie Thompson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Powerhouse Ventures
+  discovered_from: powerhouse-ventures
+- name: Buoyant Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: powerhouse-ventures

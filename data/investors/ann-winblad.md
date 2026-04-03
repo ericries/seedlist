@@ -3,7 +3,7 @@ name: "Ann Winblad"
 slug: ann-winblad
 type: individual
 firm: hummer-winblad-venture-partners
-role: "Co-Founder & Managing Director"
+role: "Founding Partner Emeritus"
 location: "San Francisco, CA"
 stage_focus:
   - seed
@@ -23,13 +23,13 @@ last_verified_investment:
 social:
   linkedin: "linkedin.com/in/annwinblad"
 status: published
-last_researched: 2026-03-27
+last_researched: 2026-04-02
 tldr: "Founder of Hummer Winblad Venture Partners, the first VC firm focused exclusively on enterprise software, with over 160 companies backed and 35+ years of investing experience. Winblad requires at least one technical co-founder in every investment and backs companies at the earliest institutional stage (Series A and beyond), leading to exits including MuleSoft (Salesforce, $6.5B), Omniture (Adobe, $1.8B), and Five9. Her portfolio is overwhelmingly B2B enterprise software; consumer plays are conspicuously absent."
 ---
 
 ## Background
 
-Ann Winblad is the Co-Founder and Managing Director of Hummer Winblad Venture Partners (HWVP), the first venture capital firm focused exclusively on software, which she co-founded in 1989 with former professional basketball player John Hummer [^1][^2]. Over a career spanning more than 35 years in venture capital, her firm has launched over 160 enterprise software companies [^1].
+Ann Winblad is the Co-Founder and Managing Director of Hummer Winblad Venture Partners (HWVP), the first venture capital firm focused exclusively on software, which she co-founded in 1989 with former professional basketball player John Hummer [^1][^2]. Over a career spanning more than 35 years in venture capital, her firm has launched over 200 enterprise software companies [^1][^15c].
 
 Winblad grew up in Farmington, Minnesota, the oldest of six children; her father Wilbur was a high school teacher and basketball coach, and her mother Elizabeth was a nurse [^3][^4]. She was valedictorian and cheerleader in high school [^3]. She earned a B.A. in Mathematics and Business Administration from St. Catherine University and an M.A. in Education with a focus on International Economics from the University of St. Thomas in 1975 [^1][^3]. She also holds an honorary Doctorate of Law from the University of St. Thomas (2001) [^3].
 
@@ -37,7 +37,9 @@ Before entering venture capital, Winblad worked as a systems analyst and program
 
 When raising the first HWVP fund, Winblad heard 133 rejections before receiving a yes on her 134th meeting with limited partners, with IBM and The St. Paul Companies becoming primary investors [^4][^5]. She has been named to Fortune's Small Business Hall of Fame (2000), awarded Financial Woman of the Year by the San Francisco Financial Women's Association (2007), inducted into the Bay Area Business Hall of Fame (2024), and named to the NVCA Venture Vanguard (2025) [^1][^3]. She has also been named to BusinessWeek's Elite 25 power brokers in Silicon Valley and Time Digital's Top 50 Cyber Elite [^3].
 
-Winblad is a longtime Berkshire Hathaway shareholder and regular attendee of the annual meeting, where she appears as a CNBC commentator [^6][^7]. She currently serves on the Board of Trustees of the University of St. Thomas, the Richard M. Schulze Family Foundation board, and is a member of the Investment Committee of London-based Seraphim Capital [^1]. She has transitioned to Partner Emeritus at HWVP, which has relaunched as Aspenwood Ventures under Managing Directors Lars Leckie and Steve Kishi [^8].
+Winblad dated Bill Gates in the 1980s; the two met at a Ben Rosen-Esther Dyson computer conference in 1984 and dated until 1987 [^15a]. They maintained a close friendship afterward, with Gates continuing annual weekend trips with Winblad at her beach cottage on the Outer Banks of North Carolina — an arrangement that had Melinda Gates's approval [^15a]. When Gates was considering proposing to Melinda French, he called Winblad to ask for her approval, which she gave [^15a]. In 1999, Gates invested in HWVP's venture fund [^5].
+
+Winblad is a longtime Berkshire Hathaway shareholder and regular attendee of the annual meeting, where she appears as a CNBC commentator [^6][^7]. She currently serves on the Board of Trustees of the University of St. Thomas, the Richard M. Schulze Family Foundation board, and is a member of the Investment Committee of Seraphim Space, a London-based space technology fund [^1][^15b]. She has transitioned to Partner Emeritus at HWVP, which has relaunched as Aspenwood Ventures under Managing Directors Lars Leckie and Steve Kishi [^8].
 
 ## Stated Thesis
 
@@ -53,15 +55,15 @@ On the relationship between VCs and founders, Winblad has stated that HWVP posit
 
 ## Inferred Thesis
 
-The analysis below is based on 22 verified investments from HWVP's portfolio page, Crunchbase, and press coverage [^2][^11][^11][^12].
+The analysis below is based on 31 verified investments from HWVP's portfolio page, Signal by NFX, Crunchbase, and press coverage [^2][^11][^12].
 
-**Sector concentration (based on 22 verified investments):**
-- Enterprise software / infrastructure: 10 of 22 (45%) — MuleSoft, Powersoft, NetDynamics, Sonatype, Wind River Systems, NeuVector, Extensity, StepFunction, Clarify, Amberdata
-- Analytics / business intelligence: 5 of 22 (23%) — Omniture, Arbor Software/Hyperion, Birst, Ace Metrix, OptiMine Software
-- Cloud / SaaS: 3 of 22 (14%) — Five9, Aria Systems, NuoDB
-- Consumer internet: 2 of 22 (9%) — The Knot, Napster
-- Security: 1 of 22 (5%) — Voltage Security
-- Social: 1 of 22 (5%) — Peerlyst
+**Sector concentration (based on 31 verified investments):**
+- Enterprise software / infrastructure: 13 of 31 (42%) — MuleSoft, Powersoft, NetDynamics, Sonatype, Wind River Systems, NeuVector, Extensity, StepFunction, Clarify, Amberdata, Intrinsa, Employease, Central Point Software
+- Analytics / business intelligence: 7 of 31 (23%) — Omniture, Arbor Software/Hyperion, Birst, Ace Metrix, OptiMine Software, Star Analytics, Karmasphere
+- Cloud / SaaS: 3 of 31 (10%) — Five9, Aria Systems, NuoDB
+- Security: 2 of 31 (6%) — Voltage Security, Peerlyst
+- Consumer internet / media: 3 of 31 (10%) — The Knot, Napster, Liquid Audio
+- Communications / other: 3 of 31 (10%) — Marketwire, Krillion, Net Perceptions
 
 **Key patterns:**
 
@@ -93,10 +95,14 @@ The analysis below is based on 22 verified investments from HWVP's portfolio pag
 | The Knot | 1999 | Early | Consumer Internet | — | [^1][^11] |
 | Napster | ~1999 | Early | Consumer Internet | — | [^2] |
 | Extensity | ~1999 | Early | Enterprise SaaS | IPO (2001) | [^2] |
+| Intrinsa | ~1999 | Early | Enterprise Software | — | [^11] |
+| Marketwire | ~2000 | Early | Communications | — | [^11] |
 | Employease | ~2000 | Early | Enterprise Software | — | [^12] |
 | Voltage Security | 2002 | Early | Security | Acquired by Micro Focus (2015) | [^11] |
 | Omniture | ~2004 | Early | Web Analytics | IPO (2006); acquired by Adobe for $1.8B | [^2] |
 | MuleSoft | 2006 | Series A | Integration/API | IPO (2017); acquired by Salesforce for $6.5B (2018) | [^1][^2] |
+| Krillion | ~2006 | Early | Local Search | — | [^11] |
+| Star Analytics | ~2007 | Early | Data Analytics | — | [^11] |
 | Ace Metrix | 2008 | Early | Analytics | — | [^1][^11] |
 | Sonatype | 2010 | Early | Developer Tools | — | [^1][^11] |
 | Karmasphere | 2010 | Early | Big Data | Shut down (2014) | [^11] |
@@ -111,7 +117,7 @@ The analysis below is based on 22 verified investments from HWVP's portfolio pag
 | Amberdata | ~2019 | Late Series A | Financial Data | — | [^11] |
 | StepFunction | 2022 | Early | Business Software | — | [^11] |
 
-*This table represents approximately 27 of over 160 claimed investments (~17%). The firm's earlier funds (1990s) have limited public records, making a comprehensive portfolio reconstruction difficult.*
+*This table represents approximately 31 of over 200 claimed investments (~16%). The firm's earlier funds (1990s) have limited public records, making a comprehensive portfolio reconstruction difficult.*
 
 ## In Their Own Words
 
@@ -127,6 +133,12 @@ The analysis below is based on 22 verified investments from HWVP's portfolio pag
 
 "I am even more proud that the firm has now successfully transitioned to a new generation of leadership." — Ann Winblad, on the Aspenwood Ventures launch [^8]
 
+"My job is to audition the future. Your job is to create the future. Are you fighting the trends or inventing the trends?" — Ann Winblad, Sonatype blog post [^15d]
+
+"Software development — for any company — must become a core strategic competency, not just a cost center, or they risk being Ubered or Amazoned." — Ann Winblad, Sonatype blog post [^15d]
+
+"Developers today are business strategists." — Ann Winblad, Sonatype blog post [^15d]
+
 ## What Founders Say
 
 "HWVP has been a trusted partner to Five9 as we've grown our business." — Mike Burkland, CEO of Five9, HWVP website [^2]
@@ -139,7 +151,13 @@ The analysis below is based on 22 verified investments from HWVP's portfolio pag
 
 "She worked the room, dragging me over to this person or that and extolling the virtues of our latest software release, riffing on whatever business development opportunity might be possible between us." — Heidi Roizen, Founder of T/Maker, LinkedIn, 2019 [^14]
 
-*Note: The Burkland, Schott, and James quotes are from the HWVP website and should be treated as firm-curated testimonials rather than independently sourced founder statements.*
+"She just wanted me to have all the information that might be relevant, what I did with it was up to me." — Heidi Roizen, on Winblad's advisory style, LinkedIn, 2019 [^14]
+
+"Ann approached our relationship with intense loyalty, intellectual honesty, and a big heart." — Heidi Roizen, LinkedIn, 2019 [^14]
+
+Roizen nicknamed Winblad "the Pixie Titan" — reflecting her small stature but formidable ability to identify critical business junctures before founders themselves recognized them [^14]. According to Roizen, Winblad's willingness to surface hard truths "literally saved the company more than once" [^14].
+
+*Note: The Burkland, Schott, and James quotes are from the HWVP website and should be treated as firm-curated testimonials rather than independently sourced founder statements. The Roizen quotes are independently published on LinkedIn.*
 
 ## Connections
 
@@ -152,10 +170,11 @@ The analysis below is based on 22 verified investments from HWVP's portfolio pag
 - **Board member, Ace Metrix** (since 2008) [^11]
 - **Board of Trustees, University of St. Thomas** [^1][^3]
 - **Board member, Richard M. Schulze Family Foundation** [^1]
-- **Investment Committee, Seraphim Capital** (London-based space tech fund) [^1]
+- **Investment Committee, Seraphim Space** (London-based space tech fund) [^1][^15b]
 - **CNBC Platinum Group member** — regular CNBC commentator on technology and markets [^1][^6]
 - **Partner Emeritus, Aspenwood Ventures** — advisory role to successor firm [^8]
 - **Former consultant to Microsoft, IBM, Apple Computer** — prior to founding HWVP [^1][^2]
+- **Longtime associate of Bill Gates** — dated in the 1980s; Gates sought her approval before proposing to Melinda French; Gates invested in HWVP's venture fund in 1999 [^5][^15a]
 - **Co-founder, Wilbur and Elizabeth Winblad Endowed Scholarship Fund** — over $3.6 million distributed to 706 students at University of St. Thomas [^3]
 
 ## Sources
@@ -187,3 +206,11 @@ The analysis below is based on 22 verified investments from HWVP's portfolio pag
 [^13]: YourStory, "Meet Seasoned Silicon Valley Investor, Ann Winblad," December 2014. https://yourstory.com/2014/12/ann-winblad
 
 [^14]: LinkedIn, Heidi Roizen, "What I Learned from Ann Winblad," November 10, 2019. https://www.linkedin.com/pulse/what-i-learned-from-ann-winblad-heidi-roizen
+
+[^15a]: Snopes, "Did Bill Gates Negotiate Vacations With Ex-Girlfriend Into Marriage Contract?" accessed April 2026. https://www.snopes.com/fact-check/bill-gates-vacation-ex-girlfriend/
+
+[^15b]: Seraphim Space, "Team" page, accessed April 2026. https://seraphim.vc/about/team/
+
+[^15c]: NVCA, "NVCA Announces 2025 Venture Vanguard Class," February 2025, accessed April 2026. https://nvca.org/press_releases/nvca-announces-2025-venture-vanguard-class/
+
+[^15d]: Sonatype Blog, "Ann Winblad Reflects: The Rise of Software," accessed April 2026. https://www.sonatype.com/blog/ann-winblad-reflects-the-rise-of-software

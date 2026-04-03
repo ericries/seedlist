@@ -3,10 +3,21 @@ name: "Monique Woodard"
 slug: monique-woodard
 type: individual
 firm: cake-ventures
-role: "Founding Partner & Managing Director"
+role: "Founder & General Partner"
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
-sector_focus: [digital-health, consumer, future-of-work, aging, women-economy]
+sector_focus:
+  - digital-health
+  - womens-health
+  - femtech
+  - aging
+  - longevity
+  - consumer
+  - e-commerce
+  - d2c
+  - insurtech
+  - future-of-work
+  - diversity-inclusion
 check_size: "$200K-$750K"
 last_verified_investment:
   date: 2026-03-04
@@ -16,7 +27,7 @@ social:
   twitter: "@MoniqueWoodard"
   linkedin: "linkedin.com/in/moniquewoodard"
 status: published
-last_researched: 2026-03-28
+last_researched: 2026-04-02
 tldr: 'Founding Partner and Managing Director of Cake Ventures, investing in "demographic change" megatrends: aging/longevity (10K people turning 65/day in US), female wealth transfer ($30T over next decade), and majority-minority America. Portfolio heavily weighted toward digital health (40%) and consumer brands. First African-American venture partner at 500 Startups with commitment to diverse founder backing.'
 ---
 
@@ -32,7 +43,7 @@ Prior to moving to the investor side, Woodard spent over 15 years in the tech in
 
 Woodard served as a San Francisco Mayor's Innovation Fellow in the Mayor's Office of Civic Innovation, where she worked on open data, municipal wi-fi, and digital divide initiatives [^3]. She authored a resolution on broadband and unlicensed spectrum that was adopted by the U.S. Conference of Mayors [^3].
 
-She holds a BA in Political Science from the University of Miami and is a Kauffman Fellow (Class 26) [^1][^9].
+She holds a BA in Political Science from the University of Miami and is a Kauffman Fellow (Class 26), mentored by Kate Mitchell [^1][^9]. She is also a member of Broadway Angels, an angel investment group of women investors and executives [^20].
 
 ## Stated Thesis
 
@@ -89,21 +100,21 @@ The analysis below is based on 20 verified investments from Cake Ventures' portf
 | Silvernest | ~2016 | Angel | [^4] |
 | Mented Cosmetics | ~2017 | Angel | [^4] |
 | Court Buddy | 2018 | Series A | [^16] |
-| Guaranteed | 2022 | Seed | [^13] |
+| Guaranteed | 2022 | Seed | [^13][^27] |
 | Gerald | ~2022 | Seed | [^12] |
 | Joshin | ~2022 | Seed | [^1] |
 | Bright | ~2022 | Seed | [^13] |
 | Pamper | ~2022 | Pre-seed | [^1] |
 | Rares | ~2022 | Pre-seed | [^1] |
-| Snack | ~2021 | Seed | [^1] |
+| Snack | 2021 | Seed | [^23] |
 | Serif | ~2023 | Pre-seed | [^1] |
 | Sol Health | ~2023 | Pre-seed | [^1] |
-| Culina Health | ~2023 | Pre-seed | [^1] |
+| Culina Health | 2022; 2024 | Seed; Series A | [^24][^25] |
 | Frame Fertility | ~2023 | Pre-seed | [^1] |
 | Death Clock | ~2023 | Pre-seed | [^1] |
 | Shop McMullen | ~2023 | Pre-seed | [^1] |
 | STAND+ | ~2024 | Pre-seed | [^1] |
-| Eli Health | ~2024 | Pre-seed | [^1] |
+| Eli Health | 2023 | Seed+ | [^26] |
 | Aster | 2024 | Pre-seed | [^13] |
 | TenYour | ~2024 | Pre-seed | [^1] |
 | Lotus Labs | ~2024 | Pre-seed | [^1] |
@@ -134,6 +145,10 @@ The analysis below is based on 20 verified investments from Cake Ventures' portf
 
 "My dad used to always say, pressure busts pipes." — Monique Woodard, Format One [^18]
 
+"I've said before that raising a fund is doing venture capital on hard mode. And raising a fund as a woman is like crawling through glass...as a Black woman is like crawling through glass with no clothes on, and then they pour fire ants all over you." — Monique Woodard, AfroTech, January 2023 [^12]
+
+"If you solve for the most marginalized groups, you can solve for everyone." — Monique Woodard, on leading Aster's pre-seed round, AfroTech, February 2024 [^21]
+
 ## What Founders Say
 
 "We were thrilled to be one of Cake's first investments. Monique is a one of a kind investor who understands the importance of the shifting needs of the aging demographic and we appreciate her guidance and support. She is playing a critical role as we scale and grow our business." — Jessica McGlory, Founder and CEO of Guaranteed, Black Enterprise, January 2023 [^2]
@@ -150,6 +165,9 @@ No additional independently sourced founder testimonials found. Dedicated search
 - **San Francisco Mayor's Innovation Fellow** — Mayor's Office of Civic Innovation [^3]
 - **Co-investor, Court Buddy Series A** — alongside Pete Flint and James Currier (NFX), Ivan Alo (New Age Capital) [^16]
 - **Co-investor, Koobz Seed** — alongside Uncork Capital, V1.VC, Karman Ventures, Antler, Pathbreaker Ventures, Anorak Ventures [^15]
+- **Member, Broadway Angels** — angel investment group of women investors and executives [^20]
+- **Panelist, Milken Institute** — "High-Tech and High-Touch: Solutions to Support Caregivers" [^22]
+- **Co-investor, Aster Pre-seed** — led round alongside Cornerstone VC [^21]
 
 ## Sources
 
@@ -172,3 +190,11 @@ No additional independently sourced founder testimonials found. Dedicated search
 [^17]: Tracxn, "Cake Ventures — 2025 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/cake-ventures/__laap5AYmbdYZwvU_1_O4xw1hiDSJQfVJaDQU06b6lLs
 [^18]: Format One, "All Eyes Ahead: Monique Woodard of Cake Ventures," accessed March 2026. https://www.formatone.io/blog/all-eyes-ahead-monique-woodard-of-cake-ventures
 [^19]: Monique Woodard (@MoniqueWoodard), Twitter/X post on debut fund fundraising, accessed March 2026. https://x.com/moniquewoodard
+[^20]: Broadway Angels, "Monique Woodard Bio," accessed April 2026. https://www.broadway-angels.com/-monique-woodard
+[^21]: AfroTech, "Sisters-Turned-Co-Founders Raise $2.4M For Their Health Tech Startup To Improve Pre- And Postnatal Care For Black Women," February 2024. https://afrotech.com/aster-funding-round
+[^22]: Milken Institute, "Monique Woodard — Speaker," accessed April 2026. https://milkeninstitute.org/speakers/monique-woodard
+[^23]: TechCrunch, "Snack, where TikTok meets dating, gets $3.5 million in funding," February 22, 2021. https://techcrunch.com/2021/02/22/snack-where-tiktok-meets-dating-gets-3-5-million-in-funding/
+[^24]: PR Newswire, "Culina Health Announces $4.75M in Funding to Democratize Access to Clinical Nutrition," 2022. https://www.prnewswire.com/news-releases/culina-health-announces-4-75m-in-funding-to-democratize-access-to-clinical-nutrition-301557903.html
+[^25]: BusinessWire, "Culina Health Raises $7.9M Series A to Fill the Gap in Payer-Sponsored Nutrition Services," December 2024. https://www.businesswire.com/news/home/20241219398386/en/Culina-Health-Raises-$7.9M-Series-A-to-Fill-the-Gap-in-Payer-Sponsored-Nutrition-Services
+[^26]: Femtech Insider, "Eli Health Raises $3.6M to Take Its At-Home Hormone Monitoring Solution Toward Commercial Launch," April 2023. https://femtechinsider.com/eli-health-seed-plus/
+[^27]: Hospice News, "'Doing Good by Doing Well': Founder Jessica McGlory Launches Guaranteed with $6.5M Seed Round," November 7, 2022. https://hospicenews.com/2022/11/07/doing-good-by-doing-well-hospice-entrepreneur-jessica-mcglory-launches-guaranteed-with-6-5-million-seed-round/

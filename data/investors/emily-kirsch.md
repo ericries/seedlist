@@ -9,8 +9,8 @@ stage_focus: [pre-seed, seed]
 sector_focus: [climate-tech, clean-energy, mobility, grid-software, building-decarbonization]
 check_size: "$200K-$2M"
 last_verified_investment:
-  date: 2025-01-23
-  company: "CapeZero"
+  date: 2026-01-26
+  company: "CVector"
   round: "Seed"
 social:
   twitter: "@emilykirsch"

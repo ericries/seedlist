@@ -1,34 +1,47 @@
 ---
-name: Linx Security
-slug: linx-security
-type: startup
-website: https://www.linx.security
-location: New York, NY
-founded: 2023
-status_company: active
-sector:
-- cybersecurity
-- identity-security
-- enterprise-software
-stage_latest: Series B
-total_raised: $83M
 firms:
-- slug: insight-partners
-  round: Series B
+- round: Series B
+  slug: insight-partners
   year: 2026
-- slug: cyberstarts
-  round: Series B
+- round: Series B
+  slug: cyberstarts
   year: 2026
-- slug: index-ventures
-  round: Series B
+- round: Series B
+  slug: index-ventures
   year: 2026
+founded: 2023
 founders:
 - name: Israel Duanis
   role: CEO & Co-Founder
 - name: Niv Goldenberg
   role: Co-Founder
-status: published
+investors:
+- round: Seed
+  slug: hila-zigman
+  year: 2024
+- round: Seed
+  slug: lior-simon
+  year: 2024
+- round: Early
+  slug: shardul-shah
+  year: 2022
+- round: '2024'
+  slug: gili-raanan
+  year: 2024
 last_researched: 2026-04-02
+location: New York, NY
+name: Linx Security
+sector:
+- cybersecurity
+- identity-security
+- enterprise-software
+slug: linx-security
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $83M
+type: startup
+website: https://www.linx.security
 ---
 
 ## About

@@ -22,9 +22,9 @@ last_verified_investment:
 social:
   bluesky: "@moonalice.com"
   twitter: "@Moonalice"
-  linkedin: linkedin.com/in/rogermcnamee
+  linkedin: "https://www.linkedin.com/in/roger-mcnamee-517407169/"
 status: published
-last_researched: 2026-03-27
+last_researched: 2026-04-02
 tldr: "Co-founder of Elevation Partners and Silver Lake Partners with four decades of late-stage venture and growth equity experience. McNamee has backed mega-rounds at the media-technology intersection (Facebook, Yelp, Airbnb, Uber) with very large concentrated bets ($25M-$325M checks) from a $1.9B fund. Post-Elevation, he pivoted to being a technology critic, advocating for antitrust action and warning of AI hype, reflecting a fundamental reassessment of Silicon Valley's direction."
 ---
 
@@ -40,7 +40,11 @@ In 1999, McNamee co-founded Silver Lake Partners alongside Jim Davidson, Glenn H
 
 In 2004, McNamee co-founded Elevation Partners with Fred Anderson (former Apple CFO), Bono (U2 frontman), Marc Bodnick, Bret Pearlman, John Riccitiello (former EA president), and Avie Tevanian [^5][^6]. The firm raised approximately $1.9 billion for its debut fund, focused on investments at the intersection of media and technology [^5][^6].
 
-McNamee is also a touring musician, performing as a guitarist with the band Moonalice [^1][^2]. He provided pro bono business consulting to the Grateful Dead organization following Jerry Garcia's death in 1995 [^3].
+From 2006 to 2009, McNamee served as a mentor and advisor to Facebook CEO Mark Zuckerberg. He played a key role in dissuading Zuckerberg from selling Facebook to Yahoo for $1 billion in 2006 [^13]. McNamee also recommended Sheryl Sandberg to Zuckerberg for the COO role, having known Sandberg through her connection to Bono and her work building Google's ad sales operation [^15]. Elevation Partners invested approximately $210 million in Facebook shares across two tranches in 2009 and 2010 [^11][^6].
+
+McNamee announced his retirement from investing at the end of 2015 [^8]. He subsequently became one of Silicon Valley's most prominent technology critics, publishing *Zucked: Waking Up to the Facebook Catastrophe* (Penguin Press, 2019) and co-founding the Center for Humane Technology with Tristan Harris [^14][^1]. He also authored *The New Normal: Great Opportunities in a Time of Great Risk* (Portfolio, 2004) [^3].
+
+McNamee is a touring musician who performs over 100 concerts annually with the band Moonalice and the Doobie Decibel System [^1]. He provided pro bono business consulting to the Grateful Dead organization following Jerry Garcia's death in 1995 [^3]. He holds four U.S. patents related to mobile video broadcasting technology [^1]. He served as a technical advisor for HBO's *Silicon Valley* (seasons 2-5) [^1].
 
 ## Stated Thesis
 
@@ -58,7 +62,7 @@ On AI investing, McNamee has warned of an unsustainable investment bubble, chara
 
 ## Inferred Thesis
 
-The analysis below is based on 16 verified investments across McNamee's career at Elevation Partners and as an angel investor, plus his earlier fund leadership at Integral Capital Partners and Silver Lake Partners [^3][^5][^6][^9].
+The analysis below is based on 18 verified investments across McNamee's career at Elevation Partners (13 investments across two vehicles), as an angel investor (5 verified), plus his earlier fund leadership at Integral Capital Partners and Silver Lake Partners [^3][^5][^6][^9][^16][^17][^18].
 
 **Investment stage distribution:**
 
@@ -76,8 +80,8 @@ McNamee's career has spanned multiple stages of investing. At T. Rowe Price, he 
 - **Large concentrated bets:** Elevation made only 8 core investments from a $1.9 billion fund, resulting in very large individual check sizes. The Palm investment alone was $460 million (initial $325M plus $110M follow-on), and the Facebook investment totaled approximately $210 million [^6][^10][^11].
 - **Media-technology convergence:** The portfolio consistently targeted companies at the intersection of media and technology, from gaming (BioWare/Pandemic) to publishing (Forbes) to social media (Facebook, Yelp) [^5][^6].
 - **Mixed returns profile:** Elevation's returns were uneven. BioWare/Pandemic returned approximately 2.8x ($300M invested, sold for up to $860M to EA). Facebook generated approximately 5.6x ($210M invested, valued at over $1 billion post-IPO). But Palm barely broke even (~$25M gain on $460M invested), and SDI Media Group was seized by creditors [^6][^10][^11].
-- **Transition to smaller angel bets:** Post-Elevation, McNamee shifted to small angel investments ($5K-$50K) in companies like Jumbo Privacy, Asana, and Reverb, reflecting a move away from large fund management [^9].
-- **Board-level engagement:** McNamee took board seats at portfolio companies including Palm, Forbes, and more recently Indiegraf, indicating a hands-on investor style [^10][^12].
+- **Transition to smaller angel bets:** Post-Elevation, McNamee shifted to small angel investments ($5K-$50K) in companies like Eyegroove, Adaptive Studios, Jumbo Privacy, Asana, and Reverb. Of 5 verified angel investments, themes include media/entertainment (Eyegroove, Adaptive Studios), privacy (Jumbo Privacy), and productivity tools (Asana) — maintaining his media-technology convergence focus at a smaller scale [^9][^16][^17][^18].
+- **Board-level engagement:** McNamee took board seats at portfolio companies including Palm, Forbes, National Geographic, and more recently Indiegraf, indicating a hands-on investor style with a preference for media companies. He served on the Forbes and National Geographic boards for approximately a decade each [^10][^12].
 - **Notable gap between stated and actual thesis:** While Elevation was pitched as a media-technology fund, its largest returns came from pure technology plays (Facebook, Yelp), not media assets. The media investments (Forbes, SDI Media, Palm) generally underperformed the technology ones [^6].
 
 ## Portfolio
@@ -117,11 +121,13 @@ McNamee's career has spanned multiple stages of investing. At T. Rowe Price, he 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Jumbo Privacy | Series A | 2020 | Privacy/security | Active | [^9] |
-| Asana | Unknown | Unknown | Productivity | IPO 2020 | [^9] |
-~unknown| Reverb | Unknown | Unknown | Media tech | Active | [^9] |
+| Eyegroove | Angel | 2014 | Music/video app | Acqui-hired by Facebook (2016) | [^16] |
+| Adaptive Studios | Series A | ~2013 | Entertainment/media | Active | [^17] |
+| Jumbo Privacy | Series A | 2020 | Privacy/security | Exited (2023) | [^18] |
+| Asana | Growth | ~2015 | Productivity | IPO 2020 | [^9] |
+| Reverb | Angel | ~2014 | Media tech | Exited | [^9] |
 
-*Note: CBInsights reports 16 total investments attributed to McNamee personally. The Integral Capital Partners portfolio is not fully catalogued in public sources. This table represents confirmed investments only.*
+*Note: Tracxn reports 7 personal angel investments and 5 portfolio exits attributed to McNamee. The Integral Capital Partners and T. Rowe Price portfolios are not fully catalogued in public sources. This table represents confirmed investments only across all vehicles.*
 
 ## In Their Own Words
 
@@ -157,15 +163,27 @@ On the importance of Tuck in his career:
 
 "Without Tuck, there is no chance that I would have gotten into investing, let alone be successful at it." — Roger McNamee, Tuck School of Business alumni profile [^2]
 
+On local news and democracy (December 2024):
+
+"At a time when democracy and local news are under attack globally, Indiegraf has created a compelling path forward. By offering a viable business model to publishers at any scale, Indiegraf makes local news possible in any community." — Roger McNamee, Indiegraf board announcement [^12]
+
+On Facebook's advertising model:
+
+"They created something that had efficacy to the advertiser unlike anything we've ever seen before." — Roger McNamee, PBS Frontline interview [^7]
+
+On polarization as a business model:
+
+"Polarization was the key to the model. People in the middle were not economically interesting." — Roger McNamee, PBS Frontline interview [^7]
+
 ## What Founders Say
 
 Erin Millar, CEO of Indiegraf, on McNamee joining the board in December 2024: "We are genuinely thrilled to welcome Roger to the Indiegraf board. His dedication to advancing local media and his insights into the changing media landscape will be instrumental as we work to empower thousands of independent publishers to build sustainable media businesses." [^12]
 
 Millar also stated: "Roger's decision to join us underscores the importance of what we're building. The need for reliable, community-focused journalism has never been greater, and Indiegraf is making it possible for local media to innovate and succeed in today's digital economy." [^12]
 
-Mark Zuckerberg, on McNamee's advice not to sell Facebook for $1 billion in 2006, said McNamee was "emphatic" that Facebook not be sold, and that McNamee "clearly cared about building something long-term and about the impact of the things we build as opposed to just making money in the short term" [^14].
+Robert Cantwell, who worked alongside McNamee at Elevation Partners before founding Upholdings, described McNamee as "one of my favorite investors of all time" and noted that McNamee's approach was deeply product-focused: "One of the things that was so great about Roger is, again, being just so focused on product and living with the product." Cantwell described how he and McNamee would personally experience products before investing — test-driving cars, buying insurance, installing solar panels [^19].
 
-*Note: Zuckerberg's quote predates McNamee's public criticism of Facebook beginning in 2017. No additional independently sourced founder testimonials were found from other portfolio company founders.*
+*Note: Cantwell was an investment colleague, not a portfolio company founder. No additional independently sourced testimonials from portfolio company founders were found beyond the Indiegraf CEO quotes above. The Zuckerberg mentorship relationship (2006-2009) predates McNamee's public criticism of Facebook beginning in 2017.*
 
 ## Connections
 
@@ -174,11 +192,17 @@ Mark Zuckerberg, on McNamee's advice not to sell Facebook for $1 billion in 2006
 - **Former board member, National Geographic** (media business) — approximately a decade of service [^12]
 - **Former board member, Palm, Inc.** — alongside co-founder Fred Anderson (2007-2010) [^10]
 - **Co-founder, Silver Lake Partners** (1999) — alongside Jim Davidson, Glenn Hutchins, David Roux [^4]
-- **Co-founder, Center for Humane Technology** (2018) — alongside Tristan Harris and Aza Raskin [^15]
+- **Co-founder, Center for Humane Technology** (2018) — alongside Tristan Harris and Aza Raskin [^14]
 - **Treasurer and board member, Electronic Privacy Information Center (EPIC)** [^3]
+- **Board member, Rock and Roll Hall of Fame Museum** [^1]
 - **Advisor, Wikimedia Foundation** — raised over $1.35 million for the foundation, personally donated over $300,000 [^3]
 - **Affiliate, Berkman Klein Center for Internet & Society, Harvard University** [^1]
+- **Former board member, Tuck School of Business, Dartmouth College** [^1]
+- **Former board member, The GRAMMY Foundation** [^1]
+- **Former board member, Bryn Mawr College** [^1]
+- **Technical advisor, HBO's *Silicon Valley*** (seasons 2-5) [^1]
 - **Co-founder, Glassmeyer/McNamee Center for Digital Strategies at Tuck** (2001) [^2]
+- **Co-founder, Haight Street Art Center** (2017) — board chairman [^3]
 
 ## Sources
 
@@ -195,5 +219,9 @@ Mark Zuckerberg, on McNamee's advice not to sell Facebook for $1 billion in 2006
 [^11]: Bloomberg, "Elevation Said to Buy Additional $120 Million Stake in Facebook," June 2010. https://www.bloomberg.com/news/articles/2010-06-28/elevation-partners-said-to-buy-additional-120-million-stake-in-facebook
 [^12]: T-Net News / BCTechnology, "Renowned Tech Investor Roger McNamee Joins Indiegraf Board to Champion Sustainable Local News Innovation," December 2024. https://www.bctechnology.com/news/2024/12/23/Renowned-Tech-Investor-Roger-McNamee-Joins-Indiegraf-Board-to-Champion-Sustainable-Local-News-Innovation.cfm
 [^13]: Fortune, "Mark Zuckerberg's Former Mentor Is Now Sounding the Alarm About Him and Facebook," February 2019. https://fortune.com/2019/02/04/qa-roger-mcnamee-mark-zuckerberg/
-[^14]: Quartz, "Maybe Mark Zuckerberg shouldn't have blown off his mentor," 2018. https://qz.com/work/1233606/maybe-facebook-ceo-mark-zuckerberg-shouldnt-have-blown-off-his-mentor-roger-mcnamee
-[^15]: Center for Humane Technology, "Impact and Story," accessed March 2026. https://www.humanetech.com/who-we-are
+[^14]: Center for Humane Technology, "Impact and Story," accessed March 2026. https://www.humanetech.com/who-we-are
+[^15]: Time, "Sheryl Sandberg Made Facebook Into a Giant—But At a Cost to the World," 2022. https://time.com/6183520/sheryl-sandberg-facebook-legacy/
+[^16]: PRWeb, "Eyegroove Raises $1.25M and Launches Instant Music Video App," May 2014. https://www.prweb.com/releases/eyegroove_raises_1_25m_and_launches_instant_music_video_app_riding_fan_video_phenomenon/prweb11817423.htm
+[^17]: Deadline, "Adaptive Studios Raises $16.5 Million From AMC Networks, Atwater Capital," February 2018. https://deadline.com/2018/02/adaptive-studios-raises-16-5-million-from-amc-networks-atwater-capital-1202290329/
+[^18]: Tracxn, "Roger McNamee — 2025 Portfolio & Founded Companies," accessed April 2026. https://tracxn.com/d/people/roger-b-mcnamee/__EscgIdfaOCWIcGbp3Rr3TZFUhdxDzdCgs7rE-N_SauM
+[^19]: Daniel Scrivner podcast, "#23 Upholdings: Robert Cantwell on lessons from Everlane and Elevation Partners," accessed April 2026. https://www.danielscrivner.com/23/
