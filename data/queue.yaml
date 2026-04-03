@@ -7694,7 +7694,7 @@ queue:
 - name: DBL Partners
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: nancy-pfund
 - name: Steve Jang
@@ -7707,13 +7707,13 @@ queue:
 - name: Indie.vc
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: bryce-roberts
 - name: OATV
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: bryce-roberts
 - name: Tim O'Reilly
@@ -7733,7 +7733,7 @@ queue:
 - name: Neo
   type: firm
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ali-partovi
 - name: Suzanne Xie
@@ -8736,7 +8736,7 @@ queue:
 - name: Arielle Zuckerberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Long Journey Ventures
   discovered_from: long-journey-ventures
@@ -8871,7 +8871,7 @@ queue:
 - name: Ben Mahdavi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Quiet Capital
   discovered_from: quiet-capital
@@ -8965,3 +8965,49 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: powerhouse-ventures
+- name: Mike Duboe
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Greylock Partners
+  discovered_from: arielle-zuckerberg
+- name: Emily Cohen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Neo
+  discovered_from: neo
+- name: Mark Perutz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: DBL Partners
+  discovered_from: dbl-partners
+- name: Mark Jacobsen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OATV
+  discovered_from: oatv
+- name: BlackPeak Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alcatraz
+- name: Alven
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: generare
+- name: Decheng Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: syneron-bio

@@ -1,22 +1,29 @@
 ---
-name: "Bryce Roberts"
-slug: bryce-roberts
-type: individual
-firm: indie-vc
-role: "Founder & Managing Director"
-location: "Salt Lake City, Utah"
-stage_focus: [pre-seed, seed]
-sector_focus: [saas, developer-tools, healthcare, AI, consumer]
-check_size: "$250K-$2M"
-last_verified_investment:
-  date: 2025-02-25
-  company: "Dreadnode"
-  round: "Series A"
-social:
-  twitter: "@bryce"
-  linkedin: "linkedin.com/in/atbryce"
-status: published
+check_size: $250K-$2M
+firm: oatv
 last_researched: 2026-03-28
+last_verified_investment:
+  company: Dreadnode
+  date: 2025-02-25
+  round: Series A
+location: Salt Lake City, Utah
+name: Bryce Roberts
+role: Founder & Managing Director
+sector_focus:
+- saas
+- developer-tools
+- healthcare
+- AI
+- consumer
+slug: bryce-roberts
+social:
+  linkedin: linkedin.com/in/atbryce
+  twitter: '@bryce'
+stage_focus:
+- pre-seed
+- seed
+status: published
+type: individual
 ---
 
 ## Background

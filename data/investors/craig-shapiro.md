@@ -6,17 +6,17 @@ firm: collaborative-fund
 role: "Founder & Managing Partner"
 location: "New York, NY"
 stage_focus: [seed, series-a]
-sector_focus: [consumer, climate, food, health, fintech, AI]
+sector_focus: [climate-tech, consumer-brands, health-wellness, food-tech, fintech, ai, sustainability]
 check_size: "$500K-$1M"
 last_verified_investment:
-  date: 2026-03-24
-  company: "Highlight"
-  round: "Seed"
+  date: 2026-03-31
+  company: "WHOOP"
+  round: "Series G"
 social:
   twitter: "@cshapiro"
   linkedin: "linkedin.com/in/craigjshapiro"
 status: published
-last_researched: 2026-03-28
+last_researched: 2026-04-03
 ---
 
 ## Background
@@ -53,9 +53,13 @@ Based on 42 verified investments across the portfolio page and public records, C
 
 **Geographic concentration:** Primary investment locations are San Francisco Bay Area, New York City, and Los Angeles/Southern California [^6]. The portfolio skews heavily toward U.S.-based companies.
 
-**Notable gaps between stated and actual thesis:** While the firm emphasizes "for-profit & for-good," the portfolio reveals a heavy and increasing concentration in climate/energy technology (29% of verified investments), which is not always highlighted as the primary focus in public messaging. The climate exposure deepened significantly with the launch of the Shared Future Fund in 2022 [^12] and the Phaidra Series B lead in October 2025 [^13]. Shapiro himself has acknowledged: "Food was kind of a gateway drug for us into climate" [^14].
+**Notable gaps between stated and actual thesis:** While the firm emphasizes "for-profit & for-good," the portfolio reveals a heavy and increasing concentration in climate/energy technology (29% of verified investments), which is not always highlighted as the primary focus in public messaging. The climate exposure deepened significantly with the launch of the Shared Future Fund in 2022 [^12] and the Phaidra Series B lead in October 2025 [^13]. Shapiro himself has acknowledged: "Food was kind of a gateway drug for us into climate" [^14]. The "kids" thematic area remains largely inactive — only Lovevery is visible in the current portfolio [^8].
 
-**Co-investor patterns:** Based on Fund I and subsequent investments, co-investors include Khosla Ventures, Index Ventures, First Round Capital, and NVIDIA (on climate/AI deals) [^11] [^13].
+**Willingness to lead growth rounds:** While Shapiro typically invests at seed/Series A, the March 2026 WHOOP Series G ($575M at $10.1B valuation) demonstrates willingness to lead outsized growth-stage rounds in highest-conviction portfolio companies [^22]. The WHOOP relationship began in April 2013 when founder Will Ahmed pitched at a meeting at Grey Dog Cafe [^22].
+
+**Co-investor patterns:** Based on Fund I and subsequent investments, co-investors include Khosla Ventures, Index Ventures, First Round Capital, and NVIDIA (on climate/AI deals) [^11] [^13]. On the WHOOP Series G, co-investors included Qatar Investment Authority, Mubadala Investment Company, Abbott Labs, and Mayo Clinic [^22].
+
+**New initiatives:** In 2025, Shapiro launched AIR (AI Residency), an accelerator for design-led AI products offering $50K-$500K investments on uncapped SAFEs [^23]. This signals an expansion into consumer AI beyond the firm's traditional sustainability and consumer brand focus.
 
 **Fund performance:** Fund I (2011 vintage, $8M) achieved 4.1x net DPI and 4.6x net TVPI with 22% net IRR — top-decile performance per PitchBook benchmarks [^11]. Returns were heavily concentrated: eight companies generated 95% of Fund I returns, and a single company represented 73% of all cash distributions [^11].
 
@@ -99,8 +103,15 @@ Based on 42 verified investments across the portfolio page and public records, C
 | Rythm Health | 2025 | Seed | [^17] |
 | MoldCo | 2025 | Seed | [^17] |
 | Highlight | 2026 | Seed | [^18] |
+| Good Girl Snacks | 2025 | Early Stage | [^17] |
+| Maggie's Refuel | 2025 | Early Stage | [^17] |
+| Nomio Nutrition | 2025 | Early Stage | [^17] |
+| Chirality Bioscience | 2025 | Early Stage | [^17] |
+| Sunday Light | 2025 | Early Stage | [^17] |
+| Networked Artifacts | 2025 | Early Stage | [^17] |
+| WHOOP | 2026 | Series G (Lead) | [^22] |
 
-*Note: This table represents a subset of 483 total investments across all Collaborative Fund vehicles [^5]. Years marked with ~ are approximate, based on founding year proxies or fund vintage when exact investment dates are not publicly available.*
+*Note: This table represents a subset of 483 total investments across all Collaborative Fund vehicles [^5]. Years marked with ~ are approximate, based on founding year proxies or fund vintage when exact investment dates are not publicly available. The WHOOP Series G ($575M at $10.1B valuation) in March 2026 was the firm's largest single investment [^22].*
 
 **Notable exits:**
 
@@ -137,21 +148,31 @@ Based on 42 verified investments across the portfolio page and public records, C
 
 "What I'm most proud of isn't dollars raised or headlines — it's the founders and teams we backed." — Craig Shapiro, Collaborative Fund 2025 Year in Review [^17]
 
+"We are in the early innings of a fundamental shift in how we understand the human body." — Craig Shapiro, Collaborative Fund blog on WHOOP investment, March 2026 [^22]
+
+"The opportunity ahead is bigger than wearables, and bigger even than wellness." — Craig Shapiro, Collaborative Fund blog on WHOOP investment, March 2026 [^22]
+
+"We've never tried to fit neatly into a category." — Craig Shapiro, Collaborative Fund 2025 Year in Review [^17]
+
 ## What Founders Say
 
 A former founder at Neverware, a Collaborative Fund portfolio company, stated: "I consider myself incredibly fortunate that I had Craig and the team at Collaborative as partners/investors during my time at Neverware." The founder praised how Shapiro "always found time for a quick coffee or a call to work through whatever challenge we were facing," noted that the team "truly listened" and "devoted the energy to understanding our particular challenges in the marketplace," and described their feedback as "thoughtful and impactful" with "a rare mix of optimism and pragmatism" [^20].
 
-No additional independently sourced founder testimonials found beyond the above. The firm's 2025 Year in Review references founder relationships but does not include direct third-party founder quotes [^17].
+A founder at Good Girl Snacks stated: "With the support of these partners, we're powering our next phase of growth, including new products, expansion of our retail footprint and doubling down on the GGS world" — referring to follow-on investment from Collaborative Fund [^5].
+
+No additional independently sourced founder testimonials found beyond the above. The Neverware testimonial appears on a LinkedIn profile associated with Collaborative Fund; while it is attributed to a portfolio founder, it should be treated as potentially curated. The firm's 2025 Year in Review references founder relationships but does not include direct third-party founder quotes [^17].
 
 ## Connections
 
 - **Advisory board, Smithsonian's National Zoo and Conservation Biology Institute** [^1]
 - **Advisory board, Circular Services** — largest privately held U.S. recycling company [^1]
 - **Investment Committee, Goldhirsh Foundation** — since July 2013 [^6]
+- **Notable LPs (Fund I):** Nicholas Negroponte, Chad Hurley (YouTube co-founder), Jessica Jackley (Kiva co-founder), Jason Krikorian (Sling Media co-founder), Ben Goldhirsh (GOOD Magazine founder) [^24]
 - **Notable LPs (Fund IV):** Adam D'Angelo (Quora founder), Chad Dickerson (former Etsy CEO), Gwyneth Paltrow (Goop founder) [^21]
 - **Former employer, GOOD Magazine** — worked with founder Ben Goldhirsh [^7]
 - **Former employer, Proteus Inc.** (2000-2006) [^3]
 - **Former employer, Virgin Mobile USA** (2006-2010) [^3]
+- **WHOOP Series G co-investors:** Qatar Investment Authority, Mubadala Investment Company, Abbott Labs, Mayo Clinic, Macquarie Capital [^22]
 
 ## Sources
 
@@ -176,3 +197,6 @@ No additional independently sourced founder testimonials found beyond the above.
 [^19]: The Full Ratchet, "465. The Villain Test, Lessons from an OG at Sequoia, Spotting Superstars at Seed, Mastering Follow-on, and the Future of Consumer Tech (Craig Shapiro)," accessed March 2026. https://fullratchet.net/465-the-villain-test-lessons-from-an-og-at-sequoia-spotting-superstars-at-seed-mastering-follow-on-and-the-future-of-consumer-tech-craig-shapiro/
 [^20]: Craig Shapiro LinkedIn profile, founder testimonial (recommendation), accessed March 2026. https://www.linkedin.com/in/craigjshapiro/
 [^21]: TechCrunch, "Collaborative Fund raises $100M for its fourth fund," May 29, 2018, accessed March 2026. https://techcrunch.com/2018/05/29/collaborative-fund-raises-100m-for-its-fourth-fund/
+[^22]: Collaborative Fund blog, "WHOOP," March 31, 2026. https://collabfund.com/blog/whoop/
+[^23]: Collaborative Fund blog, "Reproducing the conditions that made Sequoia's hallways electric," June 18, 2025. https://collabfund.com/blog/a-conversation-on-ai-with-early-nvidia-investor/
+[^24]: TechCrunch, "Collaborative Fund Aims To Seed Startups That Compete On Values And Crowdsourcing," January 20, 2011. https://techcrunch.com/2011/01/20/collaborative-fund-aims-to-seed-startups-that-compete-on-values-and-collaborative-consumption/
