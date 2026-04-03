@@ -1,6 +1,6 @@
 pending_rounds:
-- title: 'Exclusive: Miravoice, Builder Of An AI ''Interviewer'' To Conduct Phone Surveys,
-    Raises $6.3M'
+- title: 'Exclusive: Miravoice, Builder Of An AI ''Interviewer'' To Conduct Phone
+    Surveys, Raises $6.3M'
   url: https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/
   source: crunchbase
   date_found: '2026-04-02'
@@ -111,6 +111,14 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: unparseable company name (unicode escape artifact)
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/2/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-2-2026/
+  source: alleywatch
+  date_found: '2026-04-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment
     To $300B
   url: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
@@ -166,8 +174,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article
-- title: "The Week\u2019s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By\
-    \ AI And Defense"
+- title: 'The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By
+    AI And Defense'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/
   source: crunchbase
   date_found: '2026-03-27'
@@ -176,8 +184,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article
-- title: "Austin\u2019s Star Is Still Shining Bright: Venture Funding To City\u2019s Startups\
-    \ Hits All-Time High"
+- title: 'Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups
+    Hits All-Time High'
   url: https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
   source: crunchbase
   date_found: '2026-03-27'
