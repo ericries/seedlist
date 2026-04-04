@@ -25,6 +25,7 @@ social:
   linkedin: "linkedin.com/in/davetisch"
 status: published
 last_researched: 2026-03-30
+tldr: "Founder of BoxGroup, NYC seed investor with 600+ investments and 31 unicorns since 2007. Writes $250K-$1M non-lead checks as 'the Switzerland of VC,' co-investing alongside rather than competing with other funds. Portfolio concentrated in fintech (Plaid, Ramp, Stripe) and healthcare (Oscar, Flatiron Health, Ro) despite generalist label. Co-founded TechStars NYC; grandson of Loews Corporation co-owner Laurence Tisch."
 ---
 
 ## Background

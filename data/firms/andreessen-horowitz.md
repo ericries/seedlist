@@ -22,6 +22,7 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: "Global venture firm ($90B+ AUM) co-founded in 2009 by Marc Andreessen and Ben Horowitz. Invests across AI, enterprise, consumer, crypto ($7B dedicated fund), bio/health, games, and American Dynamism via specialized sector funds. Portfolio includes Facebook, Coinbase, GitHub, Slack, Databricks, and OpenAI. Known for platform services model providing portfolio companies operational support at scale."
 team:
 - name: Marc Andreessen
   role: Co-Founder & General Partner

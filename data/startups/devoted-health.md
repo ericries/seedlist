@@ -24,6 +24,9 @@ firms:
 - round: '2018'
   slug: vzvc
   year: 2018
+- round: Seed
+  slug: oatv
+  year: 2017
 founded: 2017
 founders:
 - name: Todd Park

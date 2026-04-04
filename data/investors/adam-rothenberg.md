@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/adamrothenberg"
 status: published
 last_researched: 2026-04-01
+tldr: "Co-Founder and Partner of BoxGroup, NYC-based seed investor writing $250K-$1M checks across 610+ companies since 2007. Portfolio skews fintech (Plaid, Ramp, Stripe) and enterprise (Airtable, Cursor, Warp) despite self-described generalist approach. Known as a 'first check' investor and former TechStars NYC Director; emphasizes storytelling ability and founder persistence over sector thesis."
 ---
 
 ## Background

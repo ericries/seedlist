@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/bernardliautaud"
 status: published
 last_researched: 2026-03-30
+tldr: "Managing Partner of Balderton Capital ($5.7B raised), Europe's largest independent VC. Founded Business Objects (acquired by SAP for $6.8B). His 18 attributed investments are 44% enterprise SaaS and 22% consumer platforms, with a distinctive 39% French concentration reflecting his role as Balderton's primary bridge to the French tech ecosystem. Co-founded Dashlane; takes operational board chairman roles at portfolio companies."
 ---
 
 ## Background

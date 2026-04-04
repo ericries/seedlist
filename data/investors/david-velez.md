@@ -10,7 +10,7 @@ firm: nubank
 role: "Founder & CEO, Nubank (Angel Investor)"
 location: "São Paulo, Brazil"
 stage_focus: [pre-seed, seed, series-a, series-b]
-sector_focus: [fintech, healthtech, proptech, insurtech, enterprise]
+sector_focus: [fintech, neobanking, healthtech, proptech, insurtech, edtech, social-commerce]
 check_size: "$5K-$50K"
 last_verified_investment:
   date: 2025-12-17
@@ -20,7 +20,7 @@ social:
   twitter: "@velez_david"
   linkedin: "linkedin.com/in/david-vélez-1004875"
 status: published
-last_researched: 2026-03-25
+last_researched: 2026-04-03
 ---
 
 ## Background
@@ -47,27 +47,29 @@ He has expressed optimism about the Latin American startup ecosystem but argues 
 
 ## Inferred Thesis
 
-Based on 14 verified investments, Vélez's angel portfolio reveals the following patterns:
+Based on 17 verified investments (including Clerkie, Beep Saúde, and Civic Marketplace discovered in April 2026 research), Vélez's angel portfolio reveals the following patterns:
 
-**Sector distribution (14 investments):**
-- Fintech: 8 of 14 (57%) — Jeeves, Ajaib, Belvo, Capital Float/axio, Justos, Jupiter, Latitud, Nubank itself
-- Healthtech: 2 of 14 (14%) — Pipo Saúde, Carecode, Leona Health
-- Proptech: 1 of 14 (7%) — La Haus
-- Insurtech: 1 of 14 (7%) — Justos (also counted in fintech above)
-- Social commerce: 1 of 14 (7%) — Favo
-- Education/workforce: 1 of 14 (7%) — Galena
+**Sector distribution (17 investments):**
+- Fintech / neobanking / payments: 8 of 17 (47%) — Jeeves, Ajaib, Belvo, Capital Float/axio, Justos, Jupiter, Clerkie, Latitud
+- Healthtech: 4 of 17 (24%) — Pipo Saúde, Carecode, Leona Health, Beep Saúde
+- Proptech: 1 of 17 (6%) — La Haus
+- Social commerce: 1 of 17 (6%) — Favo
+- Education/workforce: 1 of 17 (6%) — Galena
+- Civic tech: 1 of 17 (6%) — Civic Marketplace
+- Insurtech: 1 of 17 (6%) — Justos (also classified as fintech)
 
-Note: Some companies span multiple categories; percentages based on primary classification total 14.
+Note: Some companies span multiple categories; percentages based on primary classification.
 
-**Geographic distribution (14 investments):**
-- Brazil: 6 of 14 (43%) — Pipo Saúde, Galena, Favo, Carecode, Belvo (HQ Mexico/Barcelona, strong Brazil presence), Justos
-- India: 3 of 14 (21%) — Jupiter, Capital Float/axio, Ajaib (Indonesia, counted separately)
-- Latin America (non-Brazil): 3 of 14 (21%) — La Haus (Colombia), Latitud (pan-LatAm), Leona Health (Mexico/LatAm)
-- Southeast Asia: 1 of 14 (7%) — Ajaib (Indonesia)
-- Global: 1 of 14 (7%) — Jeeves
+**Geographic distribution (17 investments):**
+- Brazil: 8 of 17 (47%) — Pipo Saúde, Galena, Favo, Carecode, Justos, Beep Saúde, Belvo (Mexico/Barcelona, strong Brazil ops), Latitud
+- India: 3 of 17 (18%) — Jupiter, Capital Float/axio, Carecode
+- Latin America (non-Brazil): 3 of 17 (18%) — La Haus (Colombia), Leona Health (Mexico/LatAm), Civic Marketplace
+- Southeast Asia: 1 of 17 (6%) — Ajaib (Indonesia)
+- United States: 1 of 17 (6%) — Clerkie
+- Global: 1 of 17 (6%) — Jeeves
 
-**Stage distribution (14 investments):**
-Vélez invests across stages, from pre-seed (Carecode, Belvo) through Series B (Jupiter). He appears willing to enter at any early stage, with a slight concentration in seed and Series A rounds.
+**Stage distribution (17 investments):**
+Vélez invests across stages, from pre-seed (Carecode) through Series B (Jupiter) and growth (Capital Float, Beep Saúde). He appears willing to enter at any early stage, with a concentration in seed and Series A rounds (approximately 10 of 17, or 59%).
 
 **Check size:** Signal by NFX reports his typical check size at $5,000-$50,000 with a target of $25,000 [^10], consistent with pure angel investing alongside institutional leads.
 
@@ -77,7 +79,7 @@ Vélez invests across stages, from pre-seed (Carecode, Belvo) through Series B (
 
 **Notable patterns not in stated thesis:** Vélez's portfolio extends beyond Latin America into India and Southeast Asia, suggesting he views emerging-market fintech as a global opportunity, not just a regional one. His investment in Jupiter (Indian neobank) was explicitly framed as seeing similarities between Indian and Brazilian markets [^11].
 
-**Sample size caveat:** This analysis is based on 14 verified investments. Multiple aggregators report 19-23 total portfolio companies, meaning this represents approximately 60-74% of his known portfolio.
+**Sample size caveat:** This analysis is based on 17 verified investments. Multiple aggregators report 19-33 total portfolio companies [^24] [^10], meaning this represents approximately 52-89% of his known portfolio.
 
 ## Portfolio
 
@@ -93,11 +95,14 @@ Vélez invests across stages, from pre-seed (Carecode, Belvo) through Series B (
 | Favo | 2021 | Series A | Social commerce | [^18] |
 | Justos | 2021 | Series A | Insurtech | [^19] |
 | Galena | 2022 | Series A | Education / workforce | [^20] |
+| Clerkie | 2023 | Series A | Fintech / AI | [^27] |
+| Beep Saúde | 2024 | Growth | Healthtech | [^28] |
+| Civic Marketplace | 2024 | Unknown | Civic tech | [^24] |
 | Carecode | 2024 | Pre-Seed | Healthtech / AI | [^21] |
 | Leona Health | 2025 | Seed | Healthtech / AI | [^22] |
 ~unknown| Latitud | -- | -- | Startup ecosystem / fintech | [^23] |
 
-Note: This table represents approximately 13 of an estimated 19-23 total investments [^24]. Investment dates for Latitud could not be independently verified.
+Note: This table represents approximately 16 of an estimated 19-33 total investments [^24] [^10]. Investment dates for Latitud could not be independently verified.
 
 ## In Their Own Words
 
@@ -115,11 +120,17 @@ On urgency of deploying wealth: "There is extreme urgency to invest wealth now t
 
 On the transition from investor to founder: "I knew very clearly that I wanted to start a business at some point... I just didn't feel qualified to be giving advice." — David Vélez, 20VC podcast [^25]
 
+On customer obsession: "Behind the entire product and strategy that we've executed lies actually a very simple insight, which is people want to have business with companies that treat them well." — David Vélez, Sequoia Capital Crucible Moments podcast [^30]
+
+On excelling at regulation: "We wanted to be the kid in the front row of the class that has all the answers and that gets an A plus in every test...We're going to be regulated, but let's excel at being regulated. Let's see regulation as an area where we can develop comparative advantage." — David Vélez, Sequoia Capital Crucible Moments podcast [^30]
+
 On Jupiter and cross-market similarities: Vélez stated that "The Indian and Brazilian markets have many similarities and through this investment, we aim to support Jupiter in their growth path." — David Vélez, on Nubank's investment in Jupiter [^11]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found. Vélez's portfolio companies have not produced publicly available testimonials specifically about his role as an angel investor, as distinct from Nubank's corporate investments.
+Jitendra Gupta, founder of Jupiter (portfolio company), stated: "I'm excited to welcome Nubank as Jupiter's partner in the new banking revolution. They have scaled up so well in Brazil, and we have a lot to learn from them. We'll take best practices from them, and work together to build an even stronger focus on customer service and products. With this partnership, we will fast forward our execution journey." — Jitendra Gupta, quoted in IBS Intelligence, August 2021 [^29]
+
+No additional independently sourced founder testimonials found beyond the quote above. Vélez's portfolio companies have not produced widely available testimonials specifically about his role as an angel investor, as distinct from Nubank's corporate investments.
 
 ## Connections
 
@@ -158,3 +169,7 @@ No independently sourced founder testimonials found. Vélez's portfolio companie
 [^24]: Tracxn, "David Velez — 2025 Portfolio & Founded Companies," accessed March 2026. https://tracxn.com/d/people/david-velez/__gC7Q6EHVwlggek7vBPB6KwZjUJma3iZkHXsnvqmS47A
 [^25]: Deciphr, "20VC: Nubank CEO David Velez on Scaling Nubank to a $25BN Company," accessed March 2026. https://www.deciphr.ai/podcast/20vc-nubank-ceo-david-velez-on-scaling-nubank-to-a-25bn-company-why-what-makes-a-great-founder-does-not-make-a-great-ceo--the-responsibility-framework-and-how-leaders-can-use-it-to-drive-efficiency
 [^26]: TIME, "David Vélez: The 100 Most Influential People of 2022," 2022. https://time.com/collection/100-most-influential-people-2022/6177817/david-velez/
+[^27]: PR Newswire, "Clerkie raises $33M Series A funding from top investors to address the broken debt system," April 18, 2023. https://www.prnewswire.com/news-releases/clerkie-raises-33m-series-a-funding-from-top-investors-to-address-the-broken-debt-system-301799886.html
+[^28]: LatamList, "Beep Saúde raises $18M in a round led by Lightsmith," September 17, 2024. https://latamlist.com/beep-saude-raises-18m-in-a-round-led-by-lightsmith/
+[^29]: IBS Intelligence, "Indian Neobank Jupiter raises $44 million led by Brazil's Nubank," August 6, 2021. https://ibsintelligence.com/ibsi-news/indian-neobank-jupiter-raises-44-million-led-by-brazils-nubank/
+[^30]: Sequoia Capital, "Crucible Moments: Nubank," podcast, accessed April 2026. https://sequoiacap.com/podcast/crucible-moments-nubank/

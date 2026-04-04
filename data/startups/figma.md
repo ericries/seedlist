@@ -57,6 +57,9 @@ firms:
 - round: Seed
   slug: iconiq-growth
   year: 2013
+- round: Seed
+  slug: oatv
+  year: 2013
 founded: 2012
 founders:
 - name: Dylan Field

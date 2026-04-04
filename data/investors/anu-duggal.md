@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/anu-duggal-568222"
 status: published
 last_researched: 2026-03-28
+tldr: "Founding Partner of Female Founders Fund, one of the first VC funds investing exclusively in female-founded companies. Writes $750K-$1M seed checks; portfolio of 80+ companies is 48% consumer brands (Billie, Glossier, Eloquii) and 14% digital health (Maven Clinic). Three nine-figure exits including Billie ($310M to Edgewell). Fund III is 70% BIPOC founders. Former McKinsey consultant and founder of India's first wine bar."
 ---
 
 ## Background

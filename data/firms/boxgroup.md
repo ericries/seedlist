@@ -52,6 +52,7 @@ team:
     slug: ava-payman
 status: published
 last_researched: 2026-03-30
+tldr: "NYC-based seed investor founded in 2007 by David Tisch and Adam Rothenberg, with 600+ investments producing 31 unicorns (Plaid, Ramp, Warby Parker, Airtable, Cursor). Writes non-lead $250K-$1M checks as 'the Switzerland of VC,' co-investing collaboratively. Self-funded for first 12 years before raising external capital; now manages $1B+ across multiple fund vintages. Portfolio concentrated in fintech (25%), healthcare (18%), and consumer (18%)."
 ---
 
 ## About

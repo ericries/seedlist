@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/kanyi"
 status: published
 last_researched: 2026-03-28
+tldr: "Managing Partner and co-founder of Kindred Ventures ($600M AUM) investing $250K-$3M at seed. Born in Soweto during apartheid, emigrated to the US as a refugee. Portfolio of 27 verified investments is 30% fintech (Tala, Upstart, Earnest) and 19% digital health (Heartbeat Health, which he co-founded). Nine exits including Upstart IPO and Reddit IPO. Emphasizes diverse founders and 'formation investing' -- proactively assembling teams."
 ---
 
 ## Background

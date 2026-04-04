@@ -24,6 +24,9 @@ investors:
 - round: Series A (led)
   slug: hemant-taneja
   year: 2014
+- round: Founder/Seed
+  slug: glen-tullman
+  year: 2014
 last_researched: 2026-03-31
 location: Mountain View, CA
 name: Livongo Health

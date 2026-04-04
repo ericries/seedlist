@@ -7838,7 +7838,7 @@ queue:
 - name: Joel Larsson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pale Blue Dot
   discovered_from: hampus-jakobsson
@@ -7913,7 +7913,7 @@ queue:
 - name: Matt Jacobson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: ICONIQ Growth
   discovered_from: iconiq-growth
@@ -8266,7 +8266,7 @@ queue:
 - name: William Hsu
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mucker Capital
   discovered_from: mucker-capital
@@ -8310,7 +8310,7 @@ queue:
 - name: Glen Tullman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 7wire Ventures
   discovered_from: 7wire-ventures
@@ -8473,7 +8473,7 @@ queue:
 - name: Hernan Kazah
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kaszek
   discovered_from: kaszek-ventures
@@ -8824,7 +8824,7 @@ queue:
 - name: Leura Craig
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Outlander VC
   discovered_from: outlander-vc
@@ -8934,7 +8934,7 @@ queue:
 - name: Chemi Peres
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pitango Venture Capital
   discovered_from: pitango-venture-capital
@@ -9011,3 +9011,77 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: syneron-bio
+- name: Seedcamp
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joel-larsson
+- name: byFounders
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joel-larsson
+- name: Brian Requarth
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Latitud
+  discovered_from: david-velez
+- name: 62 Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glen-tullman
+- name: Kaszek
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hernan-kazah
+- name: Marcos Galperin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hernan-kazah
+- name: Aaron Mankovski
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: chemi-peres
+- name: StepStone
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sift-stack
+- name: New Stack Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: earlyasset
+- name: Cervin Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: earlyasset
+- name: N47
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sona
+- name: Felicis
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sona

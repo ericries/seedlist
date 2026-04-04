@@ -18,6 +18,7 @@ social:
   linkedin: "linkedin.com/in/apartovi"
 status: published
 last_researched: 2026-03-28
+tldr: "Founder of Neo ($600M+ AUM), a mentorship community and venture fund that identifies exceptional engineering talent in college. Co-founded LinkExchange (sold to Microsoft for $265M) and Code.org. Neo portfolio includes 9 unicorns led by Anysphere/Cursor ($29B) and Cognition ($4B), with heavy AI/developer tools concentration despite people-first stated thesis. Pre-Neo angel portfolio (80 investments, 11x cumulative ROI) included Facebook, Airbnb, Uber, and Dropbox."
 ---
 
 ## Background

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/brandonreeves1"
 status: published
 last_researched: 2026-03-30
+tldr: "General Partner at Lux Capital investing $1M-$50M in AI/ML infrastructure, defense, and open source. Former Texas Instruments engineer who worked on Tesla autopilot. Portfolio of 20 verified investments is 45% AI/ML infrastructure (Hugging Face, Together AI, Sakana AI, Cognition) with strong open source affinity. Board member at Hugging Face, Hadrian, and Primer."
 ---
 
 ## Background

@@ -93,6 +93,9 @@ firms:
 - round: ~2014
   slug: bedrock-capital
   year: 2014
+- round: Seed
+  slug: kaszek
+  year: 2013
 founded: 2013
 founders:
 - name: David Vélez
@@ -138,6 +141,9 @@ investors:
 - round: ~2014
   slug: geoff-lewis
   year: 2014
+- round: Seed
+  slug: hernan-kazah
+  year: 2013
 last_researched: 2026-03-31
 location: São Paulo, Brazil
 name: Nubank

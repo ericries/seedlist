@@ -22,6 +22,7 @@ stage_focus:
 - series-b
 - growth
 status: published
+tldr: "Silicon Valley's most storied VC firm ($56B AUM) founded in 1972 by Don Valentine. Portfolio spans Apple, Google, YouTube, Airbnb, Stripe, WhatsApp, and OpenAI across seed to growth stages. Transitioned to evergreen fund structure ($19.6B) in 2022 before partially unwinding in 2023. Operates globally with dedicated seed/venture ($950M) and growth vehicles. Led by Co-Stewards Alfred Lin and Pat Grady."
 team:
 - name: Alfred Lin
   role: Partner & Co-Steward

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/ariellezuckerberg"
 status: published
 last_researched: 2026-04-03
+tldr: "General Partner at Long Journey Ventures investing $100K-$1M at pre-seed and seed. Product manager background (Google, Kleiner Perkins, Coatue); uses 'Rizz and Tiz' framework seeking neurodivergent, non-conformist founders. Portfolio leans consumer health/longevity (Superpower, Levels, Mindbloom) and deeptech/space (Dark, Northwood Space). Forbes 30 Under 30 in VC (2019)."
 ---
 
 ## Background

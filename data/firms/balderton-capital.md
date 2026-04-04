@@ -43,6 +43,7 @@ team:
     slug: rana-yared
 status: published
 last_researched: 2026-03-30
+tldr: "Europe's leading independent VC ($5.7B raised) focused exclusively on European-founded companies. Originally Benchmark Capital Europe (2000), became independent in 2007. Portfolio of 275+ companies with 20+ unicorns includes Depop ($1.6B Etsy acquisition), Darktrace (IPO), and Revolut. Equal partnership model; led by Managing Partner Bernard Liautaud (founded Business Objects, acquired by SAP for $6.8B)."
 ---
 
 ## About

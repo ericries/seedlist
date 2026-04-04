@@ -51,6 +51,7 @@ team:
     slug: will-mckelvey
 status: published
 last_researched: 2026-04-01
+tldr: "NYC's largest seed-stage venture firm ($1.4B AUM) founded in 2010 by Ben Lerer, Kenneth Lerer (Huffington Post co-founder), and Eric Hippeau. Portfolio of 400+ companies has produced 12 unicorns, 12 IPOs, and 159 exits including Warby Parker, BuzzFeed, Glossier, and Allbirds. Invests $100K-$3M at pre-seed/seed across consumer, enterprise, fintech, and media with strong NYC ecosystem roots."
 ---
 
 ## About

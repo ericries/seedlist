@@ -65,6 +65,7 @@ team:
     name: "Todd Dagres"
 status: published
 last_researched: 2026-03-20
+tldr: "Multi-stage venture firm ($12B+ AUM) founded in Boston in 2005, now operating across SF, NYC, and Boston. Invests from pre-seed through growth via separate early-stage ($700M Fund VIII) and growth ($1.4B Growth V) vehicles. Portfolio includes landmark consumer internet investments (Twitter, Slack, Discord, Tumblr) with expanding AI and enterprise focus. Co-founded by Bijan Sabet."
 ---
 
 ## About

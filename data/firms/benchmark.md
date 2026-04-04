@@ -15,6 +15,7 @@ stage_focus:
 - series-a
 - series-b
 status: published
+tldr: "Pioneering equal-partnership VC firm ($4.8B total AUM across 28 funds) founded in 1995 in San Francisco. Known for $425M fund-size discipline and Series A focus. Portfolio includes category-defining marketplace investments (eBay, Uber, Zillow, OpenTable, Stitch Fix) plus enterprise infrastructure (Docker, Elastic, Confluent). Equal carry model among all GPs; no separate growth fund."
 team:
 - name: Peter Fenton
   role: General Partner

@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/stevejang1"
 status: published
 last_researched: 2026-03-30
+tldr: "Founder of Kindred Ventures ($600M AUM) and serial entrepreneur (imeem, SoundTracking, Bitski). Wrote the first check into Uber in 2009 and backed Coinbase, Perplexity AI, and Poshmark. Portfolio of 40 verified investments is 25% AI, 20% crypto/Web3, 18% consumer. Forbes Midas List 2023/2024; 10 unicorns and 3 public companies. Concentrated, high-touch model with ~25 companies per fund."
 ---
 
 ## Background

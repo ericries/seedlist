@@ -17,6 +17,7 @@ social:
   linkedin: "linkedin.com/in/mahdavi"
 status: published
 last_researched: 2026-04-03
+tldr: "Co-Founder of Quiet Capital investing $100K-$10M at seed through Series B. Former UW linebacker and NFL player turned Lehman Brothers/Barclays banker. Portfolio of 28 attributed investments is 29% enterprise/productivity (Gusto, Talkdesk) and 18% consumer (Reddit, Instacart, MasterClass), with recent pivot toward AI (Magic, Cognition, OpenAI). Simultaneously builds operating businesses including the largest independently owned salon chain in the US."
 ---
 
 ## Background
