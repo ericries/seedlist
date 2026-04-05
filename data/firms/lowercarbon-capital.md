@@ -95,23 +95,23 @@ Based on approximately 93-233 investments (sources vary; Tracxn reports 93 as of
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Status |
-|---------|-------|------|--------|--------|
-~unknown| Antora | — | — | Thermal batteries/Energy | Active [^1] |
-~unknown| Commonwealth Fusion Systems | — | — | Fusion energy | Active [^1] |
-~unknown| Crux | — | — | Clean energy financing | Active [^1] |
-~unknown| Crusoe | — | — | Emissions-reduced computing | Acquired [^3] |
-~unknown| Heart | — | — | Electric aircraft | Active [^1] |
-~unknown| Heirloom | — | — | Carbon removal | Active [^3] |
-~unknown| Mill | — | — | Food waste/Climate | Active [^3] |
-| Pachama | — | — | Carbon offsets/Forestry | Acquired (Nov 2025) [^3] |
-~unknown| Panthalassa | — | — | Ocean energy | Active [^1] |
-~unknown| Solar Square | — | — | Rooftop solar (India) | Active [^1] |
-~unknown| Solugen | — | — | Enzyme-based chemicals | Active [^1] |
-~unknown| Sublime Systems | — | — | Low-carbon cement | Active [^3] |
-~unknown| Watershed | — | — | Carbon accounting | Unicorn [^3] |
-~unknown| Carbon Engineering | — | — | Direct air capture | Acquired [^3] |
-| Vaulted Deep | Seed | ~2023 | Carbon sequestration | Active [^6] |
+| Company | Stage | Year | Sector | Status | Source |
+|---------|-------|------|--------|--------|--------|
+| Antora Energy | Series A (Co-Led) | 2022 | Thermal batteries/Energy | Active | [^1][^12] |
+| Commonwealth Fusion Systems | Series B | 2021 | Fusion energy | Active | [^1][^13] |
+| Crux | Series B (Led) | 2025 | Clean energy financing | Active | [^1][^14] |
+| Crusoe | Series B | 2021 | Emissions-reduced computing | Active | [^3][^15] |
+| Heart Aerospace | Seed (Led) | 2019 | Electric aircraft | Active | [^1][^16] |
+| Heirloom Carbon | Seed | 2021 | Carbon removal (DAC) | Active | [^3][^17] |
+| Mill | Series C | 2023 | Food waste/Climate | Active | [^3][^18] |
+| Pachama | Series B Extension (Led) | 2023 | Carbon offsets/Forestry | Acquired by Carbon Direct (Nov 2025) | [^3][^19] |
+| Panthalassa | Series A (Co-Led) | ~2024 | Ocean energy | Active | [^1][^20] |
+| SolarSquare | Seed | 2022 | Rooftop solar (India) | Active | [^1][^21] |
+| Solugen | Series C | 2021 | Enzyme-based chemicals | Active | [^1][^22] |
+| Sublime Systems | Series A (Led) | 2023 | Low-carbon cement | Active | [^3][^23] |
+| Watershed | Series B | 2022 | Carbon accounting | Active (Unicorn) | [^3][^24] |
+| Carbon Engineering | Growth | ~2021 | Direct air capture | Acquired by Occidental ($1.1B, 2023) | [^3][^25] |
+| Vaulted Deep | Seed (Led) | 2023 | Carbon sequestration | Active | [^6][^26] |
 
 *This table represents a partial sample. Lowercarbon has invested in 93-233 companies total (depending on source) [^3][^10].*
 
@@ -142,3 +142,18 @@ No independently sourced founder testimonials found. The firm's website describe
 [^9]: Inc., "How VC Chris Sacca Plans to Make Trillions on Climate Change." https://www.inc.com/tim-crino/how-chris-sacca-plans-to-make-trillions-on-climate-change.html
 [^10]: PitchBook, "Lowercarbon Capital investment portfolio," accessed March 2026. https://pitchbook.com/profiles/investor/277115-14
 [^11]: Lowercarbon Capital website, "Team," accessed March 2026. https://lowercarbon.com/team/
+[^12]: Activate.org, "Antora Energy Raises $50M from Lowercarbon and Bill Gates' Breakthrough Energy Ventures," 2022, accessed April 2026. https://activate.org/news/antora-energy-storage-industry-breakthrough-lowercarbon
+[^13]: Commonwealth Fusion Systems, "Commonwealth Fusion Systems Raises $1.8 Billion in Funding to Commercialize Fusion Energy," December 2021, accessed April 2026. https://www.cfs.energy/news-and-media/commonwealth-fusion-systems-closes-1-8-billion-series-b-round/
+[^14]: Crux Climate, "Crux Announces $50 Million Series B Funding Round," 2025, accessed April 2026. https://www.cruxclimate.com/insights/crux-announces-50m-series-b-funding-round
+[^15]: Crusoe, "Crusoe achieves operational milestones and closes $128 million Series B financing," April 2021, accessed April 2026. https://www.crusoe.ai/resources/newsroom/crusoe-series-b
+[^16]: Heart Aerospace, "Heart Aerospace raises $107 million in Series B funding," February 2024, accessed April 2026. https://heartaerospace.com/newsroom/heart-aerospace-raises-107-million-in-series-b-funding/
+[^17]: MIT Technology Review, "A startup using minerals to draw down CO2 has scored funding — and its first buyer," May 2021, accessed April 2026. https://www.technologyreview.com/2021/05/26/1025402/heirloom-stripe-breakthrough-energy-lowercarbon-carbon-removal/
+[^18]: TechCrunch, "Nest co-founder Matt Rogers' new startup is trash," January 2023, accessed April 2026. https://techcrunch.com/2023/01/17/nest-co-founder-matt-rogers-new-startup-is-trash/
+[^19]: Business Wire, "Pachama Increases Series B to $64 Million with $9 Million Extension Led by Lowercarbon Capital," December 2023, accessed April 2026. https://www.businesswire.com/news/home/20231204653935/en/Pachama-Increases-Series-B-to-$64-Million-with-$9-Million-Extension-Led-by-Lowercarbon-Capital-T.Capital-and-Positive-Ventures
+[^20]: Panthalassa website, accessed April 2026. https://panthalassa.com/
+[^21]: TechCrunch, "SolarSquare wants to bring rooftop solar system to every Indian home," June 2022, accessed April 2026. https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/
+[^22]: Tracxn, "Solugen — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/solugen/__SzdOA4a72qUVyvjw96cyxOyOdH6zz7lkfWNK2rB7zMc/funding-and-investors
+[^23]: Sublime Systems, "Sublime Systems Secures $40 Million Series A to Electrify and Scale Decarbonized Cement Production," January 2023, accessed April 2026. https://sublime-systems.com/sublime-systems-secures-40-million-series-a-to-electrify-and-scale-decarbonized-cement-production/
+[^24]: Watershed blog, "Expanding our partnership with Lowercarbon Capital," June 2023, accessed April 2026. https://watershed.com/blog/watershed-lowercarbon-partnership
+[^25]: BLG, "Occidental Petroleum completes US$1.1 billion acquisition of Carbon Engineering Ltd.," November 2023, accessed April 2026. https://www.blg.com/en/about-us/deals-and-suits/2023/11/occidental-petroleum-completes-us1-1-billion-acquisition-of-carbon-engineering-ltd
+[^26]: PR Newswire, "Advantek spins off Vaulted Deep with $8M seed investment led by Lowercarbon Capital," September 2023, accessed April 2026. https://www.prnewswire.com/news-releases/advantek-geologic-sequestration-pioneer-spins-off-new-carbon-removal-company-vaulted-deep-with-8m-seed-investment-led-by-lowercarbon-capital-301920114.html

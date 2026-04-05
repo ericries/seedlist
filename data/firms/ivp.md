@@ -108,44 +108,44 @@ Based on 120+ verified investments from the firm's portfolio page, the following
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
-|---------|-------|------|--------|--------|
-| Netflix | Growth | ~2002 | Consumer/Media | [^1] |
-| Twitter | Series B | ~2009 | Consumer/Social | [^9] |
-| Zynga | Growth | ~2009 | Gaming | [^9] |
-| Dropbox | Series B | ~2011 | Enterprise/Productivity | [^9] |
-| Supercell | Growth | ~2013 | Gaming | [^6] |
-| Snap | Series B | ~2013 | Consumer/Social | [^6] |
-| Slack | Series B | ~2014 | Enterprise/Collaboration | [^6] |
-| GitHub | Growth | ~2015 | Developer Tools | [^9] |
-| Marketo | Growth | ~2009 | Enterprise/Marketing | [^9] |
-| AppDynamics | Growth | ~2013 | Enterprise/APM | [^9] |
-| CrowdStrike | Series B | ~2015 | Cybersecurity | [^6] |
-| Coinbase | Growth | ~2017 | Fintech/Crypto | [^6] |
-| MuleSoft | Growth | ~2015 | Enterprise/Integration | [^9] |
-| Robinhood | Series B | ~2017 | Fintech | [^9] |
-| Discord | Growth | ~2018 | Consumer/Gaming | [^6] |
-| Datadog | Series B | ~2016 | Infrastructure | [^9] |
-| UiPath | Growth | ~2018 | Enterprise/RPA | [^6] |
-| Klarna | Growth | ~2019 | Fintech | [^6] |
-| Brex | Series B | ~2019 | Fintech | [^9] |
-| HashiCorp | Growth | ~2018 | Infrastructure | [^9] |
-| Wise | Growth | ~2019 | Fintech | [^6] |
-| Hims & Hers | Growth | ~2019 | Health & Wellness | [^9] |
-| Rubrik | Growth | ~2019 | Enterprise/Data | [^9] |
-| NerdWallet | Growth | ~2015 | Fintech | [^9] |
-| Figma | Growth | ~2020 | Design/SaaS | [^9] |
-| Attentive | Series B | ~2020 | Enterprise/Marketing | [^9] |
-| MasterClass | Growth | ~2018 | Consumer/Education | [^9] |
-| Niantic | Growth | ~2018 | Gaming/AR | [^9] |
-| DeepL | Growth | ~2022 | AI/Translation | [^6] |
-| Perplexity | Series B | ~2024 | AI/Search | [^9] |
-| Anthropic | Growth | ~2024 | AI/Foundation Models | [^9] |
-| Glean | Growth | ~2024 | AI/Enterprise Search | [^9] |
-| Abridge | Series B | ~2024 | AI/Health Tech | [^9] |
-| Chainguard | Series B | ~2024 | Cybersecurity | [^9] |
-| LangChain | Series A | ~2024 | AI/Developer Tools | [^9] |
-| Vercel | Growth | ~2023 | Developer Tools | [^9] |
+| Company | Stage | Year | Sector | Status | Source |
+|---------|-------|------|--------|--------|--------|
+| Netflix | Growth | ~2002 | Consumer/Media | IPO (2002, NASDAQ: NFLX) | [^1] |
+| Twitter | Series B | ~2009 | Consumer/Social | Acquired by X Corp (2022) | [^9] |
+| Zynga | Growth | ~2009 | Gaming | Acquired by Take-Two (2022) | [^9] |
+| Dropbox | Series B | ~2011 | Enterprise/Productivity | IPO (2018, NASDAQ: DBX) | [^9] |
+| Supercell | Growth | ~2013 | Gaming | Acquired by Tencent (2016) | [^6] |
+| Snap | Series B | ~2013 | Consumer/Social | IPO (2017, NYSE: SNAP) | [^6] |
+| Slack | Series B | ~2014 | Enterprise/Collaboration | Acquired by Salesforce (2021) | [^6] |
+| GitHub | Growth | ~2015 | Developer Tools | Acquired by Microsoft (2018) | [^9] |
+| Marketo | Growth | ~2009 | Enterprise/Marketing | Acquired by Adobe (2018) | [^9] |
+| AppDynamics | Growth | ~2013 | Enterprise/APM | Acquired by Cisco (2017) | [^9] |
+| CrowdStrike | Series B | ~2015 | Cybersecurity | IPO (2019, NASDAQ: CRWD) | [^6] |
+| Coinbase | Growth | ~2017 | Fintech/Crypto | IPO (2021, NASDAQ: COIN) | [^6] |
+| MuleSoft | Growth | ~2015 | Enterprise/Integration | Acquired by Salesforce (2018) | [^9] |
+| Robinhood | Series B | ~2017 | Fintech | IPO (2021, NASDAQ: HOOD) | [^9] |
+| Discord | Growth | ~2018 | Consumer/Gaming | Active | [^6] |
+| Datadog | Series B | ~2016 | Infrastructure | IPO (2019, NASDAQ: DDOG) | [^9] |
+| UiPath | Growth | ~2018 | Enterprise/RPA | IPO (2021, NYSE: PATH) | [^6] |
+| Klarna | Growth | ~2019 | Fintech | IPO (2025, NYSE: KLAR) | [^6] |
+| Brex | Series B | ~2019 | Fintech | Active | [^9] |
+| HashiCorp | Growth | ~2018 | Infrastructure | Acquired by IBM (2024) | [^9] |
+| Wise | Growth | ~2019 | Fintech | IPO (2021, LSE: WISE) | [^6] |
+| Hims & Hers | Growth | ~2019 | Health & Wellness | Public (2021, NYSE: HIMS) | [^9] |
+| Rubrik | Growth | ~2019 | Enterprise/Data | IPO (2024, NYSE: RBRK) | [^9] |
+| NerdWallet | Growth | ~2015 | Fintech | IPO (2021, NASDAQ: NRDS) | [^9] |
+| Figma | Growth | ~2020 | Design/SaaS | IPO (2025, NYSE: FIGM) | [^9] |
+| Attentive | Series B | ~2020 | Enterprise/Marketing | Active | [^9] |
+| MasterClass | Growth | ~2018 | Consumer/Education | Active | [^9] |
+| Niantic | Growth | ~2018 | Gaming/AR | Active | [^9] |
+| DeepL | Growth | ~2022 | AI/Translation | Active | [^6] |
+| Perplexity | Series B | ~2024 | AI/Search | Active | [^9] |
+| Anthropic | Growth | ~2024 | AI/Foundation Models | Active | [^9] |
+| Glean | Growth | ~2024 | AI/Enterprise Search | Active | [^9] |
+| Abridge | Series B | ~2024 | AI/Health Tech | Active | [^9] |
+| Chainguard | Series B | ~2024 | Cybersecurity | Active | [^9] |
+| LangChain | Series A | ~2024 | AI/Developer Tools | Active | [^9] |
+| Vercel | Growth | ~2023 | Developer Tools | Active | [^9] |
 
 *This table represents approximately 30% of 400+ total investments over 44 years. Earlier vintage investments (pre-2000) are less well documented in current sources.*
 
