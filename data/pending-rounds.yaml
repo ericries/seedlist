@@ -41,15 +41,16 @@ pending_rounds:
   parsed_amount: $4.1M
   parsed_round: Pre-Seed
   status: processed
-- title: 'The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense,
-    Wearables, Energy And Security'
+- title: "The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense,\
+    \ Wearables, Energy And Security"
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/
   source: crunchbase
-  date_found: '2026-04-03'
+  date_found: ‘2026-04-03’
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also, scaleops, ambrosia-biosciences, openfx); saronic already existed
 - title: 'Exclusive: Miravoice, Builder Of An AI ''Interviewer'' To Conduct Phone
     Surveys, Raises $6.3M'
   url: https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/
@@ -226,8 +227,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article
-- title: 'The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By
-    AI And Defense'
+- title: "The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By\
+    \ AI And Defense"
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/
   source: crunchbase
   date_found: '2026-03-27'
@@ -236,8 +237,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article
-- title: 'Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups
-    Hits All-Time High'
+- title: "Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups\
+    \ Hits All-Time High"
   url: https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
   source: crunchbase
   date_found: '2026-03-27'
