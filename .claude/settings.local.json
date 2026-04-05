@@ -51,7 +51,8 @@
       "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl queue startup 2>&1 | head -10)",
       "Bash(curl:*)",
       "Bash(grep -rL \"^tldr:\" data/investors/*.md | head -40 | xargs -I{} basename {} .md)",
-      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl status 2>/dev/null | head -15)"
+      "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl status 2>/dev/null | head -15)",
+      "Bash(python3 scripts/sl post-batch 2>&1)"
     ]
   }
 }
