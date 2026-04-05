@@ -52,7 +52,11 @@
       "Bash(curl:*)",
       "Bash(grep -rL \"^tldr:\" data/investors/*.md | head -40 | xargs -I{} basename {} .md)",
       "Bash(/usr/local/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/bin/python3 scripts/sl status 2>/dev/null | head -15)",
-      "Bash(python3 scripts/sl post-batch 2>&1)"
+      "Bash(python3 scripts/sl post-batch 2>&1)",
+      "Bash(cat:*)",
+      "Bash(/tmp/sl-venv3/bin/python3 build.py 2>&1 | tail -20)",
+      "Bash(/tmp/sl-venv3/bin/python3 build.py 2>&1 | tail -5)",
+      "Bash(python3 scripts/sl build 2>&1 | tail -3)"
     ]
   }
 }

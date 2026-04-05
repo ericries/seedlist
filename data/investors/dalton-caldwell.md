@@ -1,11 +1,11 @@
 ---
 check_size: $500K-$10M
-firm: y-combinator
-last_researched: 2026-03-20
+firm: standard-capital
+last_researched: 2026-04-05
 last_verified_investment:
-  company: Standard Capital Fund I
-  date: ~2025
-  round: Fund Launch
+  company: Avoca
+  date: ~2022
+  round: Seed
 location: San Francisco, CA
 name: Dalton Caldwell
 role: Partner Emeritus (former Managing Director & Group Partner)
