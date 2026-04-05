@@ -61,6 +61,18 @@ def run(cmd, check=True, capture=True):
     return r
 
 
+def _git_push_with_retry():
+    """Push to remote, auto-retrying with pull --rebase on rejection."""
+    r = run("git push", check=False)
+    if r.returncode != 0 and "fetch first" in (r.stderr or ""):
+        print("Push rejected — pulling with rebase and retrying...")
+        run("git pull --rebase")
+        run("git push")
+    elif r.returncode != 0:
+        print(f"Error: {r.stderr.strip()}" if r.stderr else "Push failed")
+        sys.exit(1)
+
+
 def load_queue():
     with open(QUEUE_PATH) as f:
         return yaml.safe_load(f)
@@ -196,7 +208,7 @@ def cmd_publish(slug):
 
     run(f"git add -A")
     run(f'git commit -m "Publish: {slug}"')
-    run("git push")
+    _git_push_with_retry()
     print(f"Pushed to live site")
 
 
@@ -212,7 +224,7 @@ def cmd_flag(slug, notes):
 
     run(f"git add {path}")
     run(f'git commit -m "Flag: {slug} — {notes[:60]}"')
-    run("git push")
+    _git_push_with_retry()
 
 
 def cmd_draft(slug):
@@ -227,7 +239,7 @@ def cmd_draft(slug):
 
     run(f"git add {path}")
     run(f'git commit -m "Unpublish: {slug} -> draft"')
-    run("git push")
+    _git_push_with_retry()
 
 
 def cmd_build():
@@ -252,7 +264,7 @@ def cmd_ship(msg=None):
 
     run("git add -A")
     run(f'git commit -m "{msg}"')
-    run("git push")
+    _git_push_with_retry()
     print(f"Shipped: {msg}")
 
 
@@ -701,6 +713,31 @@ def cmd_auto_fix(slug):
     if year_fixes:
         fixes.append(f"flagged {year_fixes} row(s) with ~unknown year")
 
+    # Step 4: Add missing required sections
+    required_sections = {
+        "individual": ["Background", "Stated Thesis", "Inferred Thesis", "Portfolio",
+                        "In Their Own Words", "What Founders Say", "Sources"],
+        "firm": ["About", "Stated Thesis", "Inferred Thesis", "Portfolio",
+                 "In Their Own Words", "What Founders Say", "Sources"],
+        "startup": ["About", "Funding History", "What Investors Say",
+                     "What Founders Say", "Sources"],
+    }
+    profile_type = meta.get("type", "")
+    required = required_sections.get(profile_type, [])
+    existing_sections = re.findall(r'^## (.+)$', content, re.MULTILINE)
+    missing = [s for s in required if s not in existing_sections]
+    if missing:
+        # Insert missing sections before ## Sources (or at end if no Sources)
+        for section_name in missing:
+            if section_name == "Sources":
+                continue  # Don't auto-add Sources — it needs content
+            placeholder = f"\n\n## {section_name}\n\nNo verified information available at this time.\n"
+            if "## Sources" in content:
+                content = content.replace("## Sources", f"{placeholder.rstrip()}\n\n## Sources", 1)
+            else:
+                content = content.rstrip() + placeholder
+        fixes.append(f"added missing sections: {', '.join(s for s in missing if s != 'Sources')}")
+
     if fixes:
         with open(path, "w") as f:
             f.write(content)
@@ -805,6 +842,42 @@ def cmd_fix_citations(slug):
         print(f"Fixed {slug}: {', '.join(fixes)}")
     else:
         print(f"No fixes needed for {slug}")
+
+
+def cmd_write_pending(adds=None, completions=None):
+    """Write .pending-queue-adds.yaml and/or .pending-completions.yaml.
+
+    Args:
+        adds: JSON string of queue-add entries [{name, type, firm, priority, discovered_from}, ...]
+        completions: JSON string of slug strings ["slug-a", "slug-b", ...]
+
+    Appends to existing files if they exist.
+    """
+    import json as _json
+
+    if adds:
+        adds_path = DATA / ".pending-queue-adds.yaml"
+        new_adds = _json.loads(adds)
+        existing = []
+        if adds_path.exists():
+            with open(adds_path) as f:
+                existing = yaml.safe_load(f) or []
+        existing.extend(new_adds)
+        with open(adds_path, "w") as f:
+            yaml.dump(existing, f, default_flow_style=False)
+        print(f"Wrote {len(new_adds)} queue-adds ({len(existing)} total)")
+
+    if completions:
+        completions_path = DATA / ".pending-completions.yaml"
+        new_completions = _json.loads(completions)
+        existing = []
+        if completions_path.exists():
+            with open(completions_path) as f:
+                existing = yaml.safe_load(f) or []
+        existing.extend(new_completions)
+        with open(completions_path, "w") as f:
+            yaml.dump(existing, f, default_flow_style=False)
+        print(f"Wrote {len(new_completions)} completions ({len(existing)} total)")
 
 
 def _process_pending_files():
@@ -1071,7 +1144,7 @@ def cmd_post_batch():
         if len(passed) > 5:
             slug_list += f" +{len(passed) - 5} more"
         run(f'git commit -m "Post-batch: publish {len(passed)} profiles ({slug_list})"')
-        run("git push")
+        _git_push_with_retry()
 
     # One-line summary
     fail_detail = ""
@@ -1167,7 +1240,7 @@ def cmd_batch_publish(*slugs):
     run("git add -A")
     slug_list = ", ".join(passed)
     run(f'git commit -m "Publish batch: {slug_list}"')
-    run("git push")
+    _git_push_with_retry()
 
     print(f"\nPublished {len(passed)}/{len(passed) + len(failed)} profiles.")
     if failed:
@@ -1604,7 +1677,7 @@ def cmd_publish_clean():
     if len(published) > 5:
         slugs_str += f" +{len(published) - 5} more"
     run(f'git commit -m "Publish {len(published)} profiles: {slugs_str}"')
-    run("git push")
+    _git_push_with_retry()
     print("Pushed to live site")
 
 
@@ -2859,6 +2932,18 @@ def main():
             else:
                 i += 1
         cmd_queue_add(name, **kwargs)
+    elif cmd == "write-pending":
+        adds = None
+        completions = None
+        i = 2
+        while i < len(sys.argv):
+            if sys.argv[i] == "--adds" and i + 1 < len(sys.argv):
+                adds = sys.argv[i + 1]; i += 2
+            elif sys.argv[i] == "--completions" and i + 1 < len(sys.argv):
+                completions = sys.argv[i + 1]; i += 2
+            else:
+                i += 1
+        cmd_write_pending(adds=adds, completions=completions)
     elif cmd == "post-batch":
         cmd_post_batch()
     elif cmd == "batch-publish":

@@ -1,24 +1,30 @@
 ---
-name: Avo
-slug: avo
-type: startup
-website: https://avomd.com
-location: New York, NY
+firms:
+- round: Seed
+  slug: heavybit
+  year: 2019
 founded: 2020
-status_company: active
+founders:
+- name: Dr. Yair Saperstein
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: tom-drummond
+  year: 2019
+last_researched: 2026-04-05
+location: New York, NY
+name: Avo
 sector:
 - AI
 - healthcare
 - digital-health
+slug: avo
 stage_latest: Series A
-total_raised: $10M
-firms: []
-investors: []
-founders:
-- name: Dr. Yair Saperstein
-  role: CEO & Co-Founder
 status: published
-last_researched: 2026-04-05
+status_company: active
+total_raised: $10M
+type: startup
+website: https://avomd.com
 ---
 
 ## About
@@ -44,4 +50,3 @@ No verified investor quotes available at this time.
 ## What Founders Say
 
 No verified founder quotes available at this time.
-

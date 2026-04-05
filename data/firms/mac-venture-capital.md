@@ -75,28 +75,28 @@ Based on MaC Venture Capital's verified portfolio, the firm operates as a genera
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Pipe | Seed | 2019 | Fintech | Active | [^3][^7] |
-| Stoke Space | Seed | 2020 | Aerospace | Active | [^3] |
-| Chef Robotics | Seed | 2020 | Food/Robotics | Active | [^3][^7] |
-| Wonder Dynamics | Seed | 2019 | Media/AI | Acquired (Autodesk) | [^3] |
-| Blavity | Seed | 2019 | Media | Active | [^7][^10] |
-| PlayVS | Seed | 2019 | Esports/EdTech | Active | [^10] |
-| FINESSE | Seed | 2020 | Fashion/AI | Active | [^7] |
-| Gimlet Media | Seed | ~2017 | Media/Podcasting | Acquired (Spotify) | [^11] |
-| MongoDB | Seed | ~2013 | Enterprise/Database | IPO | [^11] |
-| Thrive Market | Seed | ~2015 | Consumer/E-commerce | Active | [^11] |
-| FaZe Clan | Seed | ~2019 | Media/Esports | IPO (then delisted) | [^11] |
-| Xona | Seed | 2020 | Aerospace/GPS | Active | [^7] |
+| Pipe | Seed | 2020 | Fintech | Active | [^3][^12] |
+| Stoke Space | Seed | 2021 | Aerospace | Active | [^3][^13] |
+| Chef Robotics | Seed | 2021 | Food/Robotics | Active | [^3][^14] |
+| Wonder Dynamics | Seed | 2021 | Media/AI | Acquired (Autodesk) | [^3][^15] |
+| Blavity | Seed | 2016 | Media | Active | [^16][^10] |
+| PlayVS | Series A | 2018 | Esports/EdTech | Active | [^10][^17] |
+| FINESSE | Seed | 2021 | Fashion/AI | Active | [^18] |
+| Gimlet Media | Series B | 2017 | Media/Podcasting | Acquired (Spotify) | [^19] |
+| MongoDB | Early | 2008 | Enterprise/Database | IPO | [^11][^20] |
+| Thrive Market | Seed | 2014 | Consumer/E-commerce | Active | [^11][^21] |
+| FaZe Clan | Seed | 2018 | Media/Esports | IPO (then delisted) | [^11][^22] |
+| Xona | Pre-Seed | 2020 | Aerospace/GPS | Active | [^7][^23] |
 | Shekel Mobility | Seed | 2021 | Mobility/Africa | Active | [^7] |
 | Purestream | Seed | 2020 | Water/CleanTech | Active | [^7] |
 | Solo Funds | Seed | 2020 | Fintech | Active | [^11] |
-| Spill | Seed | 2022 | Social Media | Active | [^11] |
+| Spill | Pre-Seed | 2023 | Social Media | Active | [^24] |
 | NUVIEW | Seed | 2021 | Geospatial/Data | Active | [^7] |
 | Aeon | Seed | 2021 | AI | Active | [^7] |
-| Flexport | Seed | ~2016 | Logistics | Active | [^11] |
-| Caffeine | Seed | ~2018 | Media/Streaming | Active | [^11] |
+| Flexport | Seed | 2014 | Logistics | Active | [^11][^25] |
+| Caffeine | Venture | 2018 | Media/Streaming | Shut down (2024) | [^11][^26] |
 
-*This table represents approximately 20 of MaC's 100+ investments. Years are approximate where exact dates are unavailable [^7][^11].*
+*This table represents approximately 20 of MaC's 100+ investments. Note: Some investments (MongoDB, Thrive Market, Flexport, Caffeine) may have been made via predecessor funds Cross Culture Ventures or M Ventures prior to MaC's 2019 formation [^7][^11].*
 
 ## In Their Own Words
 
@@ -131,3 +131,18 @@ Armando Diaz of Purestream said: "After one of my first conversations with Marlo
 [^9]: Venture Unlocked podcast, "Marlon Nichols from MaC Ventures on unique vantage points + mergers in ventures," accessed March 2026. https://ventureunlocked.substack.com/p/marlonnichols015
 [^10]: MaC Venture Capital portfolio pages, accessed March 2026. https://macventurecapital.com/portfolio/
 [^11]: Crunchbase, "MaC Venture Capital" profile and Marlon Nichols profile, accessed March 2026. https://www.crunchbase.com/person/marlon-c-nichols
+[^12]: Crunchbase News, "Pipe, A Financing Platform For SaaS Companies, Raises $6M Seed Led by Craft Ventures," February 2020. https://news.crunchbase.com/venture/pipe-a-financing-platform-for-saas-companies-raises-6m-seed-led-by-craft-ventures/
+[^13]: Crunchbase, "Seed Round — Stoke Space," February 25, 2021. https://www.crunchbase.com/funding_round/stoke-space-technologies-seed--47b6aede
+[^14]: TechCrunch, "Chef Robotics eyes commercial kitchens with $14.75M raise," January 26, 2024. https://techcrunch.com/2024/01/26/chef-robotics-eyes-commercial-kitchens-with-a-14-75m-raise/
+[^15]: Deadline, "VFX & AI Startup Wonder Dynamics Completes Seed Funding Round," April 2021. https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/
+[^16]: TechCrunch, "Blavity raises $6.5 million Series A round led by GV," July 20, 2018. https://techcrunch.com/2018/07/20/blavity-raises-6-5-million-series-a-round-led-by-gv/
+[^17]: Crunchbase, "Series A — PlayVS," May 25, 2018. https://www.crunchbase.com/funding_round/playvs-series-a--0554f58f
+[^18]: TechCrunch, "Finesse raises $4.5M to predict fashion trends with AI," January 27, 2021. https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/
+[^19]: Gimlet Media Wikipedia, "Gimlet Media — Series B round led by Stripes Group, August 2017," accessed April 2026. https://en.wikipedia.org/wiki/Gimlet_Media
+[^20]: Crunchbase, "Series A — MongoDB," July 21, 2008. https://www.crunchbase.com/funding_round/mongodb-inc-series-a--ae4687a7
+[^21]: Contrary Research, "Thrive Market Business Breakdown & Founding Story," accessed April 2026. https://research.contrary.com/company/thrive-market
+[^22]: Crunchbase, "Seed Round — FaZe Clan," December 2018. https://www.crunchbase.com/funding_round/faze-clan-seed--0544a04f
+[^23]: Xona Space Systems, "Xona Space Systems Raises $1M Pre-Seed," May 14, 2020. https://www.xonaspace.com/pr20200514
+[^24]: AfroTech, "Former Twitter Employees Raise $2.75M In A Pre-Seed Round For Spill," January 2023. https://afrotech.com/former-twitter-employees-spill-social-media-app
+[^25]: Crunchbase, "Seed Round — Flexport," February 2014. https://www.crunchbase.com/funding_round/flexport-seed--8e048eff
+[^26]: Variety, "Ex-Apple TV Execs Have Raised $46 Million for Live-Broadcasting Startup Caffeine," January 2018. https://variety.com/2018/digital/news/caffeine-apple-tv-execs-funding-live-broadcasting-1202682809/

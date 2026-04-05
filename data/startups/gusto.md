@@ -111,6 +111,9 @@ firms:
 - round: Series B
   slug: capitalg
   year: 2015
+- round: Seed
+  slug: social-leverage
+  year: 2014
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -228,6 +231,9 @@ investors:
 - round: Series C
   slug: hemant-taneja
   year: 2018
+- round: Seed
+  slug: gary-benitt
+  year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

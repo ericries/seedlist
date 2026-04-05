@@ -115,6 +115,9 @@ investors:
 - round: Seed
   slug: tom-peterson
   year: 2013
+- round: Seed
+  slug: gary-benitt
+  year: 2013
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

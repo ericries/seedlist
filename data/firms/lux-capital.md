@@ -96,17 +96,17 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Anduril | Seed | 2017 | Defense | Active (valued at $30.5B) | [^4] |
-| Applied Intuition | Early | 2017 | Autonomous vehicles/Defense | Active (valued at $15B) | [^4] |
-| Hugging Face | Series A | 2019 | AI/ML | Active | [^7] |
-| Runway | Seed | 2018 | AI/Creative tools | Active | [^4][^7] |
+| Anduril | Seed | 2017 | Defense | Active (valued at $30.5B) | [^4][^11] |
+| Applied Intuition | Seed | 2017 | Autonomous vehicles/Defense | Active (valued at $15B) | [^4][^12] |
+| Hugging Face | Series A | 2019 | AI/ML | Active | [^7][^13] |
+| Runway | Seed | 2018 | AI/Creative tools | Active | [^4][^14] |
 | Databricks | Growth | 2021 | Data infrastructure | Active | [^7] |
 | Cognition | Early | 2024 | AI/Developer tools | Active | [^7] |
 | Physical Intelligence | Early | 2024 | Robotics/AI | Active | [^7] |
 | Eikon Therapeutics | Early | 2019 | Biotech | Active | [^7] |
 | Recursion Pharma | Early | 2016 | Biotech | Public (RXRX) | [^1][^7] |
 | Benchling | Series A | 2015 | Life sciences software | Active | [^7] |
-| Ramp | Early | 2019 | Fintech | Active | [^7] |
+| Ramp | Seed | 2019 | Fintech | Active | [^7][^15] |
 | Hadrian | Early | 2021 | Defense manufacturing | Active | [^7] |
 | Matterport | Early | 2012 | 3D mapping | Public (via SPAC) | [^1][^7] |
 | Chronosphere | Series A | 2019 | Cloud monitoring | Acquired (Palo Alto Networks, $3.35B) | [^5] |
@@ -156,3 +156,8 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^10]: BusinessWire, "Seligman Ventures Leads Cognichip's $60M Series A," April 1, 2026. Lux participated in seed and Series A. https://www.businesswire.com/news/home/20260401581076/en/
 [^8]: "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round." GlobeNewsWire, March 5, 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html
 [^9]: "Cloaked raises $25M Series A." TechCrunch, March 29, 2022. https://techcrunch.com/2022/03/29/cloaked-series-a/
+[^11]: Crunchbase, "Defense Tech Startup Anduril Raises Massive $1.5B Round At $8.5B Valuation," accessed April 2026. https://news.crunchbase.com/ai-robotics/defense-tech-startup-venture-capital-anduril/
+[^12]: Crunchbase, "Autonomous Vehicle Startup Applied Intuition Hits $6B Valuation After $250M Series E," accessed April 2026. https://news.crunchbase.com/transportation/applied-intuition-valuation-autonomous-vehicle-startup-funding/
+[^13]: TechCrunch, "Hugging Face raises $15 million to build the definitive natural language processing library," December 17, 2019. https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
+[^14]: Tracxn, "Runway — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/runway/__YJRXAM3_qhw8sHb_MGKQpeME5TjwsPw8p7TiYBSHHgM/funding-and-investors
+[^15]: Tracxn, "Ramp — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/ramp/__mMFluFx9yKyt9DXRq5KzSGK2frbsYq5y9jc9XK9-g9E

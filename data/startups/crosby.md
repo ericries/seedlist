@@ -1,40 +1,49 @@
 ---
-name: Crosby
-slug: crosby
-type: startup
-website: https://crosby.ai
-location: New York, NY
-founded: 2024
-status_company: active
-sector:
-- AI
-- legal-tech
-stage_latest: Series B
-total_raised: $85.8M
 firms:
-- slug: lux-capital
+- date: 2026-03-31
   round: series-b
+  slug: lux-capital
   year: 2026
-  date: 2026-03-31
-- slug: index-ventures
+- date: 2026-03-31
   round: series-b
+  slug: index-ventures
   year: 2026
-  date: 2026-03-31
-- slug: sequoia-capital
+- date: 2026-03-31
   round: series-b
+  slug: sequoia-capital
   year: 2026
-  date: 2026-03-31
-investors:
-- slug: elad-gil
-  round: series-b
-  year: 2026
+- round: Seed
+  slug: operator-partners
+  year: 2025
+founded: 2024
 founders:
 - name: Ryan Daniels
   role: Co-Founder
 - name: John Sarihan
   role: Co-Founder
-status: published
+investors:
+- round: series-b
+  slug: elad-gil
+  year: 2026
+- round: Seed
+  slug: gil-shklarski
+  year: 2025
+- round: '2025'
+  slug: josephine-chen
+  year: 2025
 last_researched: 2026-04-05
+location: New York, NY
+name: Crosby
+sector:
+- AI
+- legal-tech
+slug: crosby
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $85.8M
+type: startup
+website: https://crosby.ai
 ---
 
 ## About
@@ -62,4 +71,3 @@ No verified investor quotes available at this time.
 ## What Founders Say
 
 No verified founder quotes available at this time.
-

@@ -54,11 +54,11 @@ Sacca also emphasized the importance of storytelling, advising founders to becom
 
 ## Inferred Thesis
 
-Based on 14 verified portfolio companies (a subset of ~70 total investments):
+Based on 13 verified portfolio companies (a subset of ~70 total investments):
 
-**Sector breakdown:** Consumer internet and social platforms (Twitter, Instagram, Medium, Kickstarter — 4 of 14, 29%), marketplaces and on-demand services (Uber — 1 of 14, 7%), enterprise/developer infrastructure (Stripe, Twilio, Docker, Heroku — 4 of 14, 29%), consumer brands (Blue Bottle Coffee, Veggie Grill — 2 of 14, 14%), other tech (Optimizely, Lookout, Slack — 3 of 14, 21%) [^1][^2][^3].
+**Sector breakdown:** Consumer internet and social platforms (Twitter, Instagram, Medium, Kickstarter — 4 of 13, 31%), marketplaces and on-demand services (Uber — 1 of 13, 8%), enterprise/developer infrastructure (Stripe, Twilio, Docker — 3 of 13, 23%), consumer brands (Blue Bottle Coffee — 1 of 13, 8%), other tech (Optimizely, Lookout, Slack, StyleSeat — 4 of 13, 31%) [^1][^2][^3].
 
-Note: This analysis is based on only ~20% of Lowercase's claimed ~70 portfolio companies. The verified sample is too small for reliable percentages; the above should be read as directional.
+Note: This analysis is based on only ~19% of Lowercase's claimed ~70 portfolio companies. The verified sample is too small for reliable percentages; the above should be read as directional.
 
 **Stage distribution:** Predominantly seed-stage with very small initial checks ($25K–$100K in early funds) [^3]. Later funds made larger follow-on investments.
 
@@ -76,22 +76,21 @@ Note: This analysis is based on only ~20% of Lowercase's claimed ~70 portfolio c
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Twitter | Seed/Secondary | 2006–2011 | Social media | Exited (IPO 2013, later taken private) | [^1][^2] |
+| Twitter | Seed/Secondary | 2007–2011 | Social media | Exited (IPO 2013, later taken private) | [^1][^2][^7] |
 | Uber | Seed | 2010 | Transportation | Exited (IPO 2019) | [^2][^3] |
-| Instagram | Seed | ~2010 | Social/Photo | Exited (acquired by Facebook 2012) | [^1][^3] |
-| Stripe | Seed | ~2011 | Payments | Active | [^1][^2] |
-| Twilio | Seed | ~2009 | Communications API | Exited (IPO 2016) | [^1][^2] |
-| Kickstarter | Seed | ~2009 | Crowdfunding | Active | [^1][^2] |
-| Docker | Seed | 2010 | Developer tools | Active | [^3] |
-| Optimizely | Seed | 2010 | A/B testing | Exited (acquired by Episerver) | [^3] |
-| Slack | Early | ~2013 | Enterprise messaging | Exited (acquired by Salesforce 2020) | [^3] |
-| Heroku | Early | ~2009 | Cloud platform | Exited (acquired by Salesforce 2010) | [^3] |
-| Blue Bottle Coffee | Early | ~2012 | Consumer/Coffee | Exited (acquired by Nestlé 2017) | [^2][^3] |
-| Lookout | Seed | ~2009 | Mobile security | Active | [^2] |
-| Medium | Early | ~2012 | Publishing | Active | [^2] |
-| StyleSeat | Seed | 2010 | Beauty/Marketplace | Active | [^3] |
+| Instagram | Series A | 2011 | Social/Photo | Exited (acquired by Facebook 2012) | [^1][^8] |
+| Stripe | Seed | 2011 | Payments | Active | [^1][^9] |
+| Twilio | Seed | 2009 | Communications API | Exited (IPO 2016) | [^1][^2] |
+| Kickstarter | Seed | 2009 | Crowdfunding | Active | [^1][^2] |
+| Docker | Seed | 2011 | Developer tools | Active | [^10] |
+| Optimizely | Angel | 2010 | A/B testing | Exited (acquired by Episerver) | [^3] |
+| Slack | Early | 2013 | Enterprise messaging | Exited (acquired by Salesforce 2020) | [^3] |
+| Blue Bottle Coffee | Early | 2012 | Consumer/Coffee | Exited (acquired by Nestlé 2017) | [^2][^11] |
+| Lookout | Early | 2008 | Mobile security | Active | [^2][^12] |
+| Medium | Early | 2012 | Publishing | Active | [^2] |
+| StyleSeat | Seed | 2012 | Beauty/Marketplace | Active | [^13] |
 
-Note: This table represents approximately 14 of ~70 total investments (~20%). Lowercase Capital did not maintain a public portfolio page, and many investments were not publicly disclosed. Investment years are approximate.
+*This table represents approximately 13 of ~70 total investments (~19%). Lowercase Capital did not maintain a public portfolio page, and many investments were not publicly disclosed.*
 
 ## In Their Own Words
 
@@ -115,3 +114,10 @@ No independently sourced founder testimonials found. Lowercase Capital has been 
 [^4]: TechCrunch, "Lowercase Capital Is Raising A New $25M Fund, Led By Matt Mazzeo," June 10, 2014. https://techcrunch.com/2014/06/10/lowercase-capital-is-raising-a-new-25m-fund/
 [^5]: Chris Sacca personal website, "About," accessed March 2026. https://chrissacca.com/about/
 [^6]: Succeed Feed, "33 Chris Sacca Quotes On Investing, Startups & Success," accessed March 2026. https://succeedfeed.com/chris-sacca-quotes/
+[^7]: Grokipedia, "Chris Sacca," accessed April 2026. https://grokipedia.com/page/Chris_Sacca
+[^8]: ArtNova, "How Instagram went From a $1B Joke to $200B Empire in 13 Years," accessed April 2026. https://arthnova.com/instagram-sold-facebook-1-billion-acquisition/
+[^9]: Crunchbase, "Seed Round — Stripe," accessed April 2026. https://www.crunchbase.com/funding_round/stripe-seed--c9ad7c9e
+[^10]: Docker, Inc. Wikipedia, accessed April 2026. https://en.wikipedia.org/wiki/Docker,_Inc.
+[^11]: TechCrunch, "Tech Investors Buy Themselves Some Blue Bottle Coffee," January 29, 2014. https://techcrunch.com/2014/01/29/coffee/
+[^12]: Crunchbase, "Lookout — Company Profile," accessed April 2026. https://www.crunchbase.com/organization/lookout
+[^13]: Crunchbase, "Seed Round — StyleSeat," March 2012. https://www.crunchbase.com/funding_round/styleseat-seed--d2428b5a

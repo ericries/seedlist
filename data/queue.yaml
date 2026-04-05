@@ -8041,14 +8041,14 @@ queue:
 - name: Gary Benitt
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Social Leverage
   discovered_from: social-leverage
 - name: Matt Ober
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Social Leverage
   discovered_from: social-leverage
@@ -9085,3 +9085,38 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sona
+- name: 11thEstate
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-ober
+  source: Social Leverage $2M seed investment May 2024
+- name: WorldQuant Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-ober
+  source: Matt Ober was founding team member
+- name: Brad Birnbaum
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kustomer
+  discovered_from: gary-benitt
+- name: Jeremy Suriel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kustomer
+  discovered_from: gary-benitt
+- name: Alex Bard
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Assistly
+  discovered_from: gary-benitt
