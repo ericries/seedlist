@@ -14,7 +14,7 @@ last_verified_investment:
   date: 2026-04-03
   company: "Insight Health"
   round: "Series A"
-status: draft
+status: published
 last_researched: 2026-04-05
 ---
 

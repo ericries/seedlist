@@ -8116,7 +8116,7 @@ queue:
 - name: Murat Bicer
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: CRV
   discovered_from: crv
@@ -8233,7 +8233,7 @@ queue:
 - name: Bryan Berg
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Standard Capital
   discovered_from: standard-capital
@@ -9145,3 +9145,94 @@ queue:
   priority: low
   status: pending
   added: '2026-04-05'
+- name: Doppler
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: portfolio company of Murat Bicer at CRV
+- name: Voyage AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: CRV-led Series A 2024, acquired by MongoDB for $220M
+- name: LanceDB
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: CRV-led seed 2024
+- name: Impart Security
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: CRV-led seed
+- name: Emotive
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: CRV-led Series B 2021
+- name: Loop Returns
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: CRV-led Series B 2021
+- name: Encord
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: murat-bicer
+  source: AI data labeling, CRV portfolio
+- name: Trigger.dev
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-berg
+  source: Standard Capital $16M Series A Dec 2025
+- name: Artie
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-berg
+  source: Standard Capital $12M Series A Jan 2026
+- name: Concourse
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-berg
+  source: Standard Capital $12M Series A Jan 2026
+- name: Momentic
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-berg
+  source: Standard Capital $15M Series A Nov 2025
+- name: Magic Patterns
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-berg
+  source: Standard Capital $6M Series A Nov 2025
+- name: Sim.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-berg
+  source: Standard Capital $7M Series A Nov 2025

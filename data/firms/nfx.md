@@ -75,31 +75,31 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| DoorDash | Angel/Seed | ~2013 | Marketplace/Delivery | [^2] |
-| Lyft | Angel | ~2013 | Marketplace/Rideshare | [^2] |
-| Patreon | Angel/Seed | ~2014 | Marketplace/Creator | [^2] |
-| Poshmark | Seed | ~2015 | Marketplace/Fashion | [^1] |
-| Trulia | Pre-founding | ~2005 | Marketplace/Real Estate | [^7] |
-| Global-e | Seed | ~2016 | SaaS/E-commerce | [^1] |
-| Similarweb | Seed | ~2016 | SaaS/Analytics | [^1] |
-| Playtika | Founded by GP | ~2010 | Gaming | [^8] |
-| Moon Active | Seed | ~2017 | Gaming | [^1] |
-| Mammoth Biosciences | Seed | ~2018 | Bio/CRISPR | [^1] |
-| HoneyBook | Seed | ~2016 | Fintech/Marketplace | [^1] |
-| Honor | Seed | ~2017 | Marketplace/Healthcare | [^1] |
-| Incredible Health | Seed | ~2018 | Marketplace/Healthcare | [^1] |
-| Hippo | Seed | ~2017 | Insurance | [^1] |
-| Hightouch | Seed | ~2020 | AI/Data | [^1] |
-| Anchorage Digital | Seed | ~2018 | Crypto/Custody | [^1] |
-| Triple Whale | Seed | ~2021 | SaaS/Analytics | [^1] |
-| EvenUp | Seed | ~2021 | AI/Legal | [^1] |
-| NuvoCargo | Seed | ~2019 | Marketplace/Logistics | [^1] |
-| Stoke Space | Seed | ~2020 | Aerospace | [^1] |
-| A.Team | Seed | ~2021 | Marketplace/Talent | [^1] |
-| MyHeritage | Early | ~2016 | Consumer/Genealogy | [^1] |
-| Seso Labor | Seed | ~2021 | Marketplace/Agriculture | [^1] |
+| DoorDash | Seed | 2013 | Marketplace/Delivery | [^2][^10] |
+| Lyft | Angel | 2012 | Marketplace/Rideshare | [^2][^11] |
+| Patreon | Angel | 2013 | Marketplace/Creator | [^2][^12] |
+| Poshmark | Later stage | 2015 | Marketplace/Fashion | [^1][^13] |
+| Trulia | Co-founded by GP | 2005 | Marketplace/Real Estate | [^7][^14] |
+| Global-e | Series A | 2016 | SaaS/E-commerce | [^1][^15] |
+| Similarweb | Early | 2009 | SaaS/Analytics | [^1][^16] |
+| Playtika | Co-founded by GP | 2010 | Gaming | [^8][^17] |
+| Moon Active | Seed | 2016 | Gaming | [^1][^18] |
+| Mammoth Biosciences | Pre-seed | 2017 | Bio/CRISPR | [^1][^19] |
+| HoneyBook | Pre-seed | 2013 | Fintech/Marketplace | [^1][^20] |
+| Honor | Seed | 2015 | Marketplace/Healthcare | [^1][^21] |
+| Incredible Health | Seed | 2017 | Marketplace/Healthcare | [^1][^22] |
+| Hippo | Seed | 2016 | Insurance | [^1][^23] |
+| Hightouch | Seed | 2020 | AI/Data | [^1][^24] |
+| Anchorage Digital | Seed | 2017 | Crypto/Custody | [^1][^25] |
+| Triple Whale | Seed | 2021 | SaaS/Analytics | [^1][^26] |
+| EvenUp | Seed | 2020 | AI/Legal | [^1][^27] |
+| NuvoCargo | Seed | 2020 | Marketplace/Logistics | [^1][^28] |
+| Stoke Space | Seed | 2021 | Aerospace | [^1][^29] |
+| A.Team | Seed | 2020 | Marketplace/Talent | [^1][^30] |
+| MyHeritage | Early | 2007 | Consumer/Genealogy | [^1][^31] |
+| Seso Labor | Seed | 2020 | Marketplace/Agriculture | [^1][^32] |
 
-*This table represents approximately 8% of 300 known investments. NFX invests across both US and Israeli ecosystems, and many early investments are not individually documented in press sources [^9].*
+*This table represents approximately 8% of 300 known investments. NFX was founded in 2015; investments dated before 2015 (DoorDash, Lyft, Patreon, HoneyBook, Similarweb, Trulia, Playtika) are personal angel investments by the GPs, later attributed to NFX's portfolio. NFX invests across both US and Israeli ecosystems [^9].*
 
 ## In Their Own Words
 
@@ -126,3 +126,26 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^7]: TechCrunch, "Trulia founder Pete Flint is now a VC with NFX Guild," December 12, 2016, accessed March 2026. https://techcrunch.com/2016/12/12/trulia-founder-pete-flint-is-now-a-vc-with-nfx-guild/
 [^8]: NFX, "Gigi Levy-Weiss" (team page), accessed March 2026. https://www.nfx.com/team/gigi-levy-weiss
 [^9]: Tracxn, "NFX - 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/nfx/__6V6UcYGwqq_nXCSVDCyXyDyfG46UkAhf0eaaGAdG4MI
+[^10]: Crunchbase, "Seed Round — DoorDash — 2013-09-30," accessed April 2026. https://www.crunchbase.com/funding_round/doordash-seed--3a655490
+[^11]: KoreaTechDesk, "James Currier, NFX: The Angel Investor behind 'Lyft' can be relied on for grand business success," accessed April 2026. https://www.koreatechdesk.com/james-currier-nfx-the-investor-you-can-rely-on-for-grand-business-success/
+[^12]: Crunchbase, "Seed Round — Patreon — 2013-08-02," accessed April 2026. https://www.crunchbase.com/funding_round/patreon-seed--207af653
+[^13]: Crunchbase, "Series A — Poshmark — 2011-12-07," accessed April 2026. https://www.crunchbase.com/funding_round/poshmark-series-a--e2b3b9a7
+[^14]: Wikipedia, "Pete Flint," accessed April 2026. https://en.wikipedia.org/wiki/Pete_Flint
+[^15]: Crunchbase, "Global-e — Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/global-e
+[^16]: Crunchbase, "Series A — Similarweb — 2010-05-31," accessed April 2026. https://www.crunchbase.com/funding_round/similarweb-series-a--e6edaec0
+[^17]: Wikipedia, "Gigi Levy-Weiss," accessed April 2026. https://en.wikipedia.org/wiki/Gigi_Levy-Weiss
+[^18]: Tracxn, "Moon Active — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/moon-active/__KIO9y7xOlwgNSumsbkV6JoomG_8e92poWEmL2wMnrt4/funding-and-investors
+[^19]: Crunchbase, "Seed Round — Mammoth Biosciences — 2017-11-22," accessed April 2026. https://www.crunchbase.com/funding_round/mammoth-biosciences-seed--1fe40055
+[^20]: Crunchbase, "Series A — HoneyBook — 2014-09-22," accessed April 2026. https://www.crunchbase.com/funding_round/honeybook-series-a--c8aa6442
+[^21]: TechCrunch, "An ex-Googler is launching an in-home care startup called Honor and raised $20 million," April 2, 2015. https://techcrunch.com/2015/04/02/an-ex-googler-is-launching-an-in-home-care-startup-called-honor-and-raised-20-million/
+[^22]: Tracxn, "Incredible Health — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/incredible-health/__eh8XbWUsCxyF_o2HLTf6Kgv0vsRFPxZrEMlVt_Iwb1A/funding-and-investors
+[^23]: Crunchbase, "Seed Round — Hippo Insurance — 2016-05-15," accessed April 2026. https://www.crunchbase.com/funding_round/hippo-insurance-seed--53ba01dc
+[^24]: Crunchbase, "Seed Round — Hightouch — 2020-12-16," accessed April 2026. https://www.crunchbase.com/funding_round/hightouch-0e87-seed--183ec001
+[^25]: Crunchbase, "Seed Round — Anchorage Digital — 2017-11-03," accessed April 2026. https://www.crunchbase.com/funding_round/anchorage-seed--3d709324
+[^26]: PR Newswire, "Triple Whale Raises $27.7M to Develop Default Ecommerce Operating System for Shopify Brands," March 2022. https://www.prnewswire.com/news-releases/triple-whale-raises-27-7m-to-develop-default-ecommerce-operating-system-for-shopify-brands-301510122.html
+[^27]: Crunchbase, "Seed Round — EvenUp — 2020-08-05," accessed April 2026. https://www.crunchbase.com/funding_round/evenup-seed--fcf356b4
+[^28]: Tracxn, "Nuvocargo — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/nuvocargo/__g1Q_xkmc0WMc9lhSlBQXsCP2VZmFdM0HU3xZxGPlAy0/funding-and-investors
+[^29]: Tracxn, "Stoke Space — 2026 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/stoke/__GMnPa3DmdjPhwvYK33SSICICt8Hw44qBx-Hb9UPxtA4
+[^30]: Crunchbase, "A.Team — Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/a-team-acf0
+[^31]: Crunchbase, "MyHeritage — Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/myheritage
+[^32]: Tracxn, "SESO Labor — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/seso-labor/___mlC1ZCJu6o5l_6p3FYvICiE4C9gmYlWUjBZTnHb30Q/funding-and-investors

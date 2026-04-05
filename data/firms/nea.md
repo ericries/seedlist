@@ -160,11 +160,11 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Salesforce | Early | ~1999 | Enterprise/CRM | IPO [^8] |
-~unknown| Workday | — | — | Enterprise/HR | IPO [^8] |
-~unknown| Cloudflare | — | — | Infrastructure/Security | IPO [^8][^9] |
-| Databricks | Series A+ | 2014 | Data/AI | Unicorn [^8][^10] |
-~unknown| Robinhood | — | — | Fintech | IPO [^8] |
+| Salesforce | Series A | 1999 | Enterprise/CRM | IPO [^8][^12] |
+| Workday | Series E | 2009 | Enterprise/HR | IPO [^13][^14] |
+| Cloudflare | Series B | 2011 | Infrastructure/Security | IPO [^9][^15] |
+| Databricks | Series B | 2014 | Data/AI | Unicorn [^10][^16] |
+| Robinhood | Series B | 2015 | Fintech | IPO [^17] |
 | 3Com | Seed | 1981 | Networking | Acquired [^2] |
 | ElevenLabs | Series C | 2025 | AI/Voice | Active [^7] |
 | Synthesia | Series D | 2025 | AI/Video | Active [^7] |
@@ -199,3 +199,9 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^9]: NEA website, "Portfolio: Cloudflare," accessed March 2026. https://www.nea.com/portfolio/cloudflare
 [^10]: NEA website, "Portfolio: Databricks," accessed March 2026. https://www.nea.com/portfolio/databricks
 [^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/
+[^12]: Tracxn, "Salesforce — 2026 Company Profile, Team, Funding, Competitors & Financials," accessed April 2026. https://tracxn.com/d/companies/salesforce/__meXShWFhj6RRXVaUgSdybLdExpZGUx224nYjFl0eCjo
+[^13]: NEA website, "Portfolio: Workday," accessed April 2026. https://www.nea.com/portfolio/workday
+[^14]: PE Hub, "Workday Raises $75 Million Round Led by NEA: Total Funding Now Exceeds Whopping $150 Million," April 2009. https://www.pehub.com/2009/04/workday-raises-75-million-round-led-by-nea-total-funding-now-exceeds-whopping-150-million/
+[^15]: GlobeNewsWire, "CloudFlare Raises $20 Million to Bring Performance and Security to Every Website," July 12, 2011. https://www.globenewswire.com/en/news-release/2011/07/12/923521/0/en/CloudFlare-Raises-20-Million-to-Bring-Performance-and-Security-to-Every-Website.html
+[^16]: Tracxn, "Databricks — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors
+[^17]: Bloomberg, "Robinhood Venture Backer NEA Reaps More Than $3 Billion Post-IPO," August 30, 2021. https://www.bloomberg.com/news/articles/2021-08-30/robinhood-venture-backer-nea-reaps-more-than-3-billion-post-ipo

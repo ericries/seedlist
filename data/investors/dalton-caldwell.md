@@ -1,6 +1,6 @@
 ---
 check_size: $500K-$10M
-firm: standard-capital
+firm: y-combinator
 last_researched: 2026-04-05
 last_verified_investment:
   company: Avoca

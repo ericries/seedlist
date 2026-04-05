@@ -67,6 +67,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2017
+- round: ~2017
+  slug: standard-capital
+  year: 2017
 founded: 2017
 founders:
 - name: Henrique Dubugras

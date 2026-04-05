@@ -1,30 +1,14 @@
 ---
-name: Insight Health
-slug: insight-health
-type: startup
-website: https://insighthealth.ai
-location: Portland, OR
-founded: 2023
-status_company: active
-sector:
-- AI
-- healthcare
-- digital-health
-stage_latest: Series A
-total_raised: $11M
 firms:
-- slug: standard-capital
+- date: 2026-04-03
   round: series-a
+  slug: standard-capital
   year: 2026
-  date: 2026-04-03
-- slug: pear-vc
+- date: 2026-04-03
   round: series-a
+  slug: pear-vc
   year: 2026
-  date: 2026-04-03
-investors:
-- slug: dalton-caldwell
-  round: series-a
-  year: 2026
+founded: 2023
 founders:
 - name: Jaimal Soni
   role: CEO & Co-Founder
@@ -34,8 +18,27 @@ founders:
   role: Co-Founder
 - name: Saran Siva
   role: Co-Founder
-status: published
+investors:
+- round: series-a
+  slug: dalton-caldwell
+  year: 2026
+- round: Series A
+  slug: bryan-berg
+  year: 2026
 last_researched: 2026-04-05
+location: Portland, OR
+name: Insight Health
+sector:
+- AI
+- healthcare
+- digital-health
+slug: insight-health
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $11M
+type: startup
+website: https://insighthealth.ai
 ---
 
 ## About
@@ -63,4 +66,3 @@ No verified investor quotes available at this time.
 ## What Founders Say
 
 No verified founder quotes available at this time.
-

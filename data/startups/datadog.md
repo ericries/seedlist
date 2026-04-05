@@ -12,6 +12,9 @@ firms:
 - round: Series D
   slug: iconiq-growth
   year: 2015
+- round: Seed, Series A co-lead
+  slug: crv
+  year: 2011
 founded: 2010
 founders:
 - name: Olivier Pomel
@@ -40,6 +43,9 @@ investors:
 - round: Series D
   slug: divesh-makan
   year: 2015
+- round: Seed, Series A co-lead
+  slug: murat-bicer
+  year: 2011
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

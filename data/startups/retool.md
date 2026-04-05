@@ -33,6 +33,9 @@ firms:
 - round: Early
   slug: goat-capital
   year: 2018
+- round: ~2017
+  slug: standard-capital
+  year: 2017
 founded: 2017
 founders:
 - name: David Hsu

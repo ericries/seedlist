@@ -83,12 +83,12 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | DevRev | Seed | 2022 | AI/Enterprise | Active (Unicorn) | [^4] |
-| Securiti | Seed | 2018 | AI/Security | Acquired ($1.725B) | [^2] |
-| HashiCorp | Series A | 2014 | Enterprise Infrastructure | IPO | [^7] |
+| Securiti | Seed | 2018 | AI/Security | Acquired ($1.725B) | [^2][^12] |
+| HashiCorp | Series A | 2014 | Enterprise Infrastructure | IPO | [^7][^10] |
 | Lyft | Series A | 2013 | Consumer/Transportation | IPO | [^7] |
-| Poshmark | Series A | 2013 | Consumer/Marketplace | IPO | [^7] |
+| Poshmark | Series A | 2011 | Consumer/Marketplace | IPO | [^7][^11] |
 | SolarCity | Early | 2008 | Clean Energy | Acquired (Tesla) | [^7] |
-| Mammoth Biosciences | Seed | 2018 | Biotech/CRISPR | Active | [^7] |
+| Mammoth Biosciences | Series A | 2018 | Biotech/CRISPR | Active | [^7][^13] |
 | Outreach | Series A | 2016 | Enterprise/Sales | Active | [^7] |
 | Crunchbase | Series A | 2015 | Enterprise/Data | Active | [^7] |
 | InfluxData | Series A | 2013 | Enterprise/Data | Active | [^7] |
@@ -142,3 +142,7 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^7]: Mayfield website, "Meet Our Founders" (portfolio page), accessed March 2026. https://www.mayfield.com/meet-our-founders/
 [^8]: TechCrunch, "A 'people-first' view of the AI economy," August 30, 2023. https://techcrunch.com/2023/08/30/a-people-first-view-of-the-ai-economy/
 [^9]: LinkedIn, Sri Pangulur founder testimonial, accessed March 2026. https://www.linkedin.com/in/sripangulur
+[^10]: TechCrunch, "HashiCorp Announces New DevOps Management Tool And $10M In Funding," December 9, 2014. https://techcrunch.com/2014/12/09/hashicorp-announces-new-devops-management-tool-and-10m-in-funding/
+[^11]: Crunchbase, "Series A — Poshmark — 2011-12-07," accessed April 2026. https://www.crunchbase.com/funding_round/poshmark-series-a--e2b3b9a7
+[^12]: Securiti.ai, "Securiti Raises $50M Series B to Scale Privacy Operations," accessed April 2026. https://securiti.ai/press-release/securiti-ai-raises-50m-series-b-from-general-catalyst-and-mayfield-to-scale-its-automated-privacy-operations-platform/
+[^13]: Mayfield website, "Mammoth Biosciences Achieves Unicorn Status with $195M Funding," accessed April 2026. https://www.mayfield.com/news/mammoth-biosciences-achieves-unicorn-status-with-195m-funding/

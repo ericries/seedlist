@@ -24,7 +24,7 @@ last_verified_investment:
 social:
   twitter: "@itsbeecher"
   linkedin: "linkedin.com/in/mbicer"
-status: draft
+status: published
 last_researched: 2026-04-05
 ---
 
