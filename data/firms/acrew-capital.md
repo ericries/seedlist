@@ -17,6 +17,7 @@ stage_focus:
 - series-a
 - series-b
 - growth
+tldr: "Multi-generational venture firm ($1.7B AUM) founded in 2019 by five partners from Aspect Ventures, led by Theresia Gouw. Operates as 'VC as a team sport' with equal partner say. Portfolio (65 verified) is concentrated 92% in three sectors: data/security (42%, anchored by Gouw and Kraynak's security backgrounds), fintech (34%, led Chime's IPO at $8.97B), and health (17%). 16 unicorns produced. Added OpenAI's first commercial hire as GP in 2026 to expand into AI."
 status: published
 team:
 - name: Theresia Gouw

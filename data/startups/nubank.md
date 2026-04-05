@@ -96,6 +96,9 @@ firms:
 - round: Seed
   slug: kaszek
   year: 2013
+- round: Seed
+  slug: kaszek-ventures
+  year: 2013
 founded: 2013
 founders:
 - name: David Vélez

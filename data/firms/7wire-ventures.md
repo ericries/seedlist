@@ -39,6 +39,7 @@ team:
   - name: Tiffany Yu
     role: Principal
     slug: tiffany-yu-7wire
+tldr: "Chicago-based pure-play digital health investor ($500M+ AUM) founded by former Allscripts CEO Glen Tullman and President Lee Shapiro. Operates a 'Hatch' incubation program that created Livongo ($18.5B Teladoc acquisition) and Transcarent ($2.2B unicorn). Portfolio (28 verified) is 100% healthcare: 29% chronic disease management, 14% mental/behavioral health, 14% care navigation. Strategic LP coalition includes Cigna, Memorial Hermann, and Boeing, providing portfolio companies with distribution advantages."
 status: published
 last_researched: 2026-03-31
 ---

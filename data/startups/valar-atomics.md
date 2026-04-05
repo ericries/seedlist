@@ -1,27 +1,34 @@
 ---
-name: Valar Atomics
-slug: valar-atomics
-type: startup
-website: https://www.valaratomics.com
-location: El Segundo, California
+firms:
+- round: series-a
+  slug: snowpoint-ventures
+  year: 2025
+- round: series-a
+  slug: day-one-ventures
+  year: 2025
+- round: '2025'
+  slug: anduril-industries
+  year: 2025
 founded: 2023
-status_company: active
+founders: []
+investors:
+- round: '2025'
+  slug: palmer-luckey
+  year: 2025
+last_researched: 2026-04-03
+location: El Segundo, California
+name: Valar Atomics
 sector:
 - nuclear-energy
 - AI-infrastructure
 - deep-tech
+slug: valar-atomics
 stage_latest: Growth
-total_raised: $580M+
-firms:
-- slug: snowpoint-ventures
-  round: series-a
-  year: 2025
-- slug: day-one-ventures
-  round: series-a
-  year: 2025
-founders: []
 status: published
-last_researched: 2026-04-03
+status_company: active
+total_raised: $580M+
+type: startup
+website: https://www.valaratomics.com
 ---
 
 ## About

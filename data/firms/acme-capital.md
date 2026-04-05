@@ -40,6 +40,7 @@ team:
   - name: Katera Mujadidi
     role: Partner, Head of Investor Relations and Fundraising
     slug: katera-mujadidi
+tldr: "Frontier tech venture firm ($1.5B aggregate commitments) co-founded by Hany Nada (ex-GGV Capital) and Scott Stanford (ex-Goldman Sachs Internet banking head). Invests $5-10M at seed through Series B in technologies 'before they are mainstream.' Portfolio (31 verified) is 29% enterprise/AI, 23% digital health, 13% aerospace/defense, 13% quantum/semiconductors. Notable exits: IonQ (IPO), Astra (IPO via SPAC). Leads 80% of investments. Over 60% of recent investments in diverse-founder companies."
 status: published
 last_researched: 2026-03-30
 ---

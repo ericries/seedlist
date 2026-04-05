@@ -112,6 +112,9 @@ investors:
 - round: ~2019
   slug: matt-jacobson
   year: 2019
+- round: Seed
+  slug: tom-peterson
+  year: 2013
 last_researched: 2026-03-19
 location: Menlo Park, CA
 name: Robinhood

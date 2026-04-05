@@ -17,6 +17,7 @@ team:
     role: Partner
   - slug: yael-elad
     role: Operating Partner
+tldr: "Tel Aviv-based seed/Series A firm ($850M AUM) co-founded in 2013 by former Benchmark partner Michael Eisenberg and Face.com co-founder Eden Shochat. Portfolio of 61 companies is 26% fintech, 16% logistics, and 15% data infrastructure, focused on Israeli founders building global businesses. Biggest exits: Melio (acquired by Xero for $2.5B), Lemonade (IPO), Freightos (IPO). Eisenberg's 'Long Humanity' thesis favors mission-oriented B2B companies over attention-economy plays."
 status: published
 last_researched: 2026-03-31
 ---

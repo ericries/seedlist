@@ -1,29 +1,51 @@
 ---
-name: WHOOP
-slug: whoop
-type: startup
-website: https://www.whoop.com
-location: Boston, Massachusetts
+firms:
+- round: series-g
+  slug: collaborative-fund
+  year: 2026
+- round: series-g
+  slug: ivp
+  year: 2026
+- round: Seed
+  slug: founder-collective
+  year: 2016
+- round: Series C
+  slug: independent
+  year: 2018
 founded: 2012
-status_company: active
+founders:
+- name: Will Ahmed
+  role: CEO & Founder
+investors:
+- round: '2020'
+  slug: eric-liaw
+  year: 2020
+- round: Angel
+  slug: david-cancel
+  year: 2016
+- round: Seed
+  slug: david-frankel
+  year: 2016
+- round: Series C
+  slug: jack-dorsey
+  year: 2018
+- round: Seed
+  slug: craig-shapiro
+  year: 2013
+last_researched: 2026-04-03
+location: Boston, Massachusetts
+name: WHOOP
 sector:
 - health-tech
 - wearables
 - fitness
+slug: whoop
 stage_latest: Series G
-total_raised: $575M+
-firms:
-- slug: collaborative-fund
-  round: series-g
-  year: 2026
-- slug: ivp
-  round: series-g
-  year: 2026
-founders:
-- name: Will Ahmed
-  role: CEO & Founder
 status: published
-last_researched: 2026-04-03
+status_company: active
+total_raised: $575M+
+type: startup
+website: https://www.whoop.com
 ---
 
 ## About

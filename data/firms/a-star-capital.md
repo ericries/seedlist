@@ -24,6 +24,7 @@ team:
   - slug: jordan-windmueller
     role: "Partner"
     name: "Jordan Windmueller"
+tldr: "Early-stage firm founded in 2020 by Kevin Hartz (Eventbrite, Xoom co-founder), Bennett Siegel (ex-Coatue), and Gautam Gupta (ex-Uber, Opendoor). Fund II at $315M (2024). Portfolio (22 verified) is 36% AI (Decagon at $4.5B, Mercor, Sesame) with growing emphasis on teenage founders -- over 20% of Fund II invested in teens. Hartz calls AI 'the mother of all bubbles' while simultaneously saying 'we are in the very early stages.' Backed by Thiel, Levchin, Sacks, Tony Xu."
 status: published
 last_researched: 2026-03-24
 ---

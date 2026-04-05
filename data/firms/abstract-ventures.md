@@ -27,6 +27,7 @@ team:
     role: Partner
   - slug: andrei-kozyrev
     role: Partner
+tldr: "High-volume seed fund ($1.8B AUM) founded by Ramtin Naimi at age 25 after bootstrapping into VC via AngelList syndications following personal bankruptcy at 24. Claims highest seed-to-Series A graduation rate among dedicated seed funds. Portfolio of 500+ companies skews enterprise software and AI (~54% per Tracxn), despite claiming sector agnosticism. Notable investments: Wise (IPO, $11B), Rippling, Solana, Cognition, Hebbia. Co-invests alongside Sequoia, Benchmark, and a16z rather than competing."
 status: published
 last_researched: 2026-03-30
 ---

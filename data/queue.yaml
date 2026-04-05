@@ -8034,21 +8034,21 @@ queue:
 - name: Tom Peterson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Social Leverage
   discovered_from: social-leverage
 - name: Gary Benitt
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Social Leverage
   discovered_from: social-leverage
 - name: Matt Ober
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Social Leverage
   discovered_from: social-leverage

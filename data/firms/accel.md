@@ -19,6 +19,7 @@ stage_focus:
 - series-a
 - series-b
 - growth
+tldr: "Global venture firm founded in 1983, managing $9.6B with $19.5B total raised. Pioneer of 'prepared mind' investing -- deep category expertise before deploying capital. Portfolio of 1,190+ companies has produced 104 unicorns and 47 IPOs, most famously the $12.7M Facebook Series A (worth $6.6B at IPO). Recent activity heavily weighted toward AI: Perplexity ($500M round), Cursor/Anysphere, Scale AI ($2.5B expected windfall). Offices in Palo Alto, London, and Bangalore with dedicated early-stage and growth teams."
 status: published
 team:
 - name: Andrew Braccia

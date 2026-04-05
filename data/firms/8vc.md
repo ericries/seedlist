@@ -36,6 +36,7 @@ team:
   - slug: zach-white
     role: "Partner"
     name: "Zach White"
+tldr: "Joe Lonsdale's venture firm ($6B+ committed capital) focused on fixing broken industries through defense, logistics, healthcare, and enterprise tech. Distinctive 'Build' program dedicates 25-30% of capital to co-founding startups from scratch. Portfolio of 360 companies has produced 35 unicorns and 16 IPOs including Anduril, Palantir (co-founded), Flexport, and Joby Aviation. Relocated HQ from SF to Austin in 2020. Fund VI closed at $998M in 2025."
 status: published
 last_researched: 2026-03-19
 ---

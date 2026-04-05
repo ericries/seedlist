@@ -52,6 +52,7 @@ team:
   - name: Dr. David Kilcullen
     role: Venture Partner
     slug: david-kilcullen
+tldr: "Seattle-based seed fund ($56M AUM) founded by former Microsoft SVP Hank Vigil, with deep Microsoft corporate strategy DNA across the partnership (Charlie Songhurst led 80+ acquisitions there). Portfolio of 350+ companies spans gaming (20%), AI (17%), deep tech/hardware (17%), and life sciences (13%), with a recent pivot toward 'New Industrials' -- companies at the intersection of software, hardware, biology, and physical infrastructure. Unusually strong European presence via Paris-based partner Marc Jalabert."
 status: published
 last_researched: 2026-03-31
 ---

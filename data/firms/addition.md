@@ -24,6 +24,7 @@ team:
   - slug: jennifer-lambert
     role: "Investor Relations"
     name: "Jennifer Lambert"
+tldr: "Solo-GP firm ($7.1B across five funds) founded in 2020 by Lee Fixel, former Tiger Global private equity head. Fixel makes all investment decisions personally, enabling hour-not-week deal velocity. Portfolio (73+ companies, 17 unicorns) skews growth-stage despite claiming one-third early-stage: 61% of verified first investments are Series C or later. Focus on AI (Hugging Face, Snorkel AI), fintech (dLocal IPO, Airwallex), and developer tools (Snyk, Alchemy). Strong India connection from Tiger Global years."
 status: published
 last_researched: 2026-03-23
 ---

@@ -21,6 +21,7 @@ stage_focus:
 - series-a
 - series-b
 - growth
+tldr: "Global seed accelerator and venture firm ($2.3B AUM) founded in 2010, investing in 2,900+ companies across 80+ countries. High-volume 'spray and pray' seed strategy with 1,665 tracked seed investments. Nearly 50% of portfolio is outside the US, with deep presence in Southeast Asia, Latin America, and MENA. Produced 35+ unicorns including Canva ($40B), Credit Karma ($7.1B acquisition), Grab (IPO), and Twilio (IPO). Co-founder Dave McClure resigned in 2017; Christine Tsai leads as CEO."
 status: published
 team:
 - role: CEO & Founding Partner
