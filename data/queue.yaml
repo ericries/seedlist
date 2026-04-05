@@ -8116,7 +8116,7 @@ queue:
 - name: Murat Bicer
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: CRV
   discovered_from: crv
@@ -8233,7 +8233,7 @@ queue:
 - name: Bryan Berg
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Standard Capital
   discovered_from: standard-capital
@@ -9120,3 +9120,28 @@ queue:
   added: '2026-03-17'
   firm: Assistly
   discovered_from: gary-benitt
+- name: Amplify Partners
+  type: firm
+  source: lead investor in Moonbounce Series A
+  discovered_from: moonbounce
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: '2026-04-05'
+- name: StepStone Group
+  type: firm
+  source: co-lead investor in Moonbounce Series A
+  discovered_from: moonbounce
+  discovery_depth: 1
+  priority: normal
+  status: pending
+  added: '2026-04-05'
+- name: Brett Levenson
+  type: individual
+  firm: Moonbounce
+  source: co-founder and CEO of Moonbounce, former Meta Integrity head
+  discovered_from: moonbounce
+  discovery_depth: 1
+  priority: low
+  status: pending
+  added: '2026-04-05'
