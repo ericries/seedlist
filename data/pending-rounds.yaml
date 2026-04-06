@@ -19,6 +19,78 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Spain’s Xoople raises $130 million Series B to map the Earth for AI
+  url: https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/
+  source: techcrunch
+  date_found: '2026-04-06'
+  parsed_company: Spain’s Xoople
+  parsed_amount: $130M
+  parsed_round: Series B
+  status: pending
+- title: North America Q1 Funding Surges Across Stages To Record Level
+  url: https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 4/5/26'
+  url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-5-26/
+  source: alleywatch
+  date_found: '2026-04-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Syneron Bio raised $150M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-06'
+  parsed_company: Syneron Bio
+  parsed_amount: $150M
+  parsed_round: Series B
+  status: pending
+- title: Xoople raised $130M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-06'
+  parsed_company: Xoople
+  parsed_amount: $130M
+  parsed_round: Series B
+  status: pending
+- title: SpectronRx raised $85M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-06'
+  parsed_company: SpectronRx
+  parsed_amount: $85M
+  parsed_round: null
+  status: pending
+- title: Noon raised $44M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-06'
+  parsed_company: Noon
+  parsed_amount: $44M
+  parsed_round: null
+  status: pending
+- title: Yuzu Health raised $35M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-06'
+  parsed_company: Yuzu Health
+  parsed_amount: $35M
+  parsed_round: Series A
+  status: pending
+- title: HexemBio raised $10.4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-06'
+  parsed_company: HexemBio
+  parsed_amount: $10.4M
+  parsed_round: Seed
+  status: pending
 - title: StairMed raised $69M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
