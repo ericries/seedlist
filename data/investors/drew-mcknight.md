@@ -19,7 +19,7 @@ sector_focus:
 - energy
 - consumer-lending
 check_size: "$50M-$500M+"
-status: flagged
+status: skipped
 review_notes: |
   Private credit/SPAC investor, not a startup/venture investor.
   Focus is asset-based lending, specialty finance, and SPACs at Fortress Investment Group.

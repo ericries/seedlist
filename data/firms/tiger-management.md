@@ -15,7 +15,7 @@ team:
   - slug: alex-robertson
     role: "President & COO"
     name: "Alexander Robertson"
-status: flagged
+status: skipped
 last_researched: 2026-03-23
 review_notes: |
   Tiger Management is a hedge fund / family office, NOT a venture capital firm. Its primary activities are:

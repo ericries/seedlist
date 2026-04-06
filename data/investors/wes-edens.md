@@ -15,7 +15,7 @@ last_verified_investment:
   round: "$100M convertible financing"
 social:
   linkedin: "linkedin.com/in/wesley-edens-a6b19b3a"
-status: flagged
+status: skipped
 review_notes: |
   PE/infrastructure/buyout investor, not a startup/venture investor.
   Fortress Investment Group operates at institutional scale ($53B AUM).

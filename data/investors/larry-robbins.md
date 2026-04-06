@@ -18,7 +18,7 @@ last_verified_investment:
 social:
   twitter: "@lrobbins77"
   linkedin: "linkedin.com/in/larry-robbins-85929187"
-status: flagged
+status: skipped
 review_notes: |
   Public equity hedge fund manager and activist investor. No verified startup/venture investments.
   Portfolio consists entirely of public equities. Should not be in startup investor directory.

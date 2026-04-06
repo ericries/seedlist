@@ -34,7 +34,7 @@ sector_focus:
 - life-sciences
 slug: matrix-capital-management
 stage_focus: []
-status: flagged
+status: skipped
 team:
 - name: David Goel
   role: Founder & Managing General Partner

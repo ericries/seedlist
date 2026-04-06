@@ -12,7 +12,7 @@ team:
   - slug: lee-ainslie
     role: "Founder & Managing Partner"
     name: "Lee Ainslie"
-status: flagged
+status: skipped
 review_notes: |
   Maverick Capital is primarily a long/short public equity hedge fund, NOT a venture capital firm.
   All startup/venture investing activity is conducted through Maverick Ventures, a separate entity
