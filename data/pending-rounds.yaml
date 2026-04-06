@@ -26,7 +26,8 @@ pending_rounds:
   parsed_company: Spain’s Xoople
   parsed_amount: $130M
   parsed_round: Series B
-  status: pending
+  status: processed
+  notes: created startup profile xoople.md
 - title: North America Q1 Funding Surges Across Stages To Record Level
   url: https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/
   source: crunchbase
@@ -34,7 +35,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: 'The Weekly Notable Startup Funding Report: 4/5/26'
   url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-5-26/
   source: alleywatch
@@ -42,7 +44,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted deals; created coder, antaris, censys, via-separations, ambient-clinical-analytics
+    profiles; alcatraz and others already existed
 - title: Syneron Bio raised $150M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -50,7 +54,8 @@ pending_rounds:
   parsed_company: Syneron Bio
   parsed_amount: $150M
   parsed_round: Series B
-  status: pending
+  status: skipped
+  skip_reason: startup profile syneron-bio.md already exists and is current
 - title: Xoople raised $130M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -58,7 +63,8 @@ pending_rounds:
   parsed_company: Xoople
   parsed_amount: $130M
   parsed_round: Series B
-  status: pending
+  status: processed
+  notes: duplicate of techcrunch entry; xoople.md created
 - title: SpectronRx raised $85M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -66,7 +72,8 @@ pending_rounds:
   parsed_company: SpectronRx
   parsed_amount: $85M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile spectronrx.md
 - title: Noon raised $44M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -74,7 +81,8 @@ pending_rounds:
   parsed_company: Noon
   parsed_amount: $44M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile noon.md
 - title: Yuzu Health raised $35M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -82,7 +90,8 @@ pending_rounds:
   parsed_company: Yuzu Health
   parsed_amount: $35M
   parsed_round: Series A
-  status: pending
+  status: processed
+  notes: created startup profile yuzu-health.md
 - title: HexemBio raised $10.4M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -90,7 +99,8 @@ pending_rounds:
   parsed_company: HexemBio
   parsed_amount: $10.4M
   parsed_round: Seed
-  status: pending
+  status: processed
+  notes: created startup profile hexembio.md
 - title: StairMed raised $69M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
