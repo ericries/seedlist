@@ -96,18 +96,18 @@ Notable portfolio companies with verified investment data:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Twilio | Seed | 2010 | Communications | IPO (2016, NYSE) | [^12][^16] |
-| Wildfire | Seed | ~2011 | Marketing | Acquired by Google ($350M) | [^16] |
-| MakerBot | Seed | ~2011 | Hardware | Acquired by Stratasys ($403M) | [^16] |
-| Udemy | Seed | ~2011 | EdTech | IPO (2021, NASDAQ) | [^16] |
-| Credit Karma | Seed | ~2012 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12] |
-| Viki | Seed | ~2012 | Media | Acquired by Rakuten ($200M) | [^16] |
+| Twilio | Seed | 2010 | Communications | IPO (2016, NYSE) | [^12][^16][^23] |
+| Wildfire | Seed | 2011 | Marketing | Acquired by Google ($350M) | [^16][^24] |
+| MakerBot | Seed | 2011 | Hardware | Acquired by Stratasys ($403M) | [^16][^24] |
+| Udemy | Seed | 2011 | EdTech | IPO (2021, NASDAQ) | [^16][^24] |
+| Credit Karma | Series B | 2013 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12][^25] |
+| Viki | Series A | 2010 | Media | Acquired by Rakuten ($200M) | [^16][^26] |
 | Simple | Seed | ~2012 | Fintech | Acquired by BBVA ($117M) | [^16] |
-| Canva | Seed | 2012 | Design/SaaS | Active ($40B valuation) | [^12][^17] |
-| Talkdesk | Seed | 2011 | Enterprise SaaS | Active ($10B valuation) | [^12][^17] |
-| GitLab | Seed | ~2013 | Developer Tools | IPO (2021, $11B valuation) | [^12][^17] |
-| Grab | Seed | ~2013 | Ride-hailing/Fintech | IPO via SPAC (NASDAQ) | [^6][^15] |
-| Intercom | Seed | ~2012 | Enterprise SaaS | Active | [^7] |
+| Canva | Seed | 2013 | Design/SaaS | Active ($40B valuation) | [^12][^17][^27] |
+| Talkdesk | Seed | 2012 | Enterprise SaaS | Active ($10B valuation) | [^12][^17][^28] |
+| GitLab | Seed | 2015 | Developer Tools | IPO (2021, $11B valuation) | [^12][^17][^29] |
+| Grab | Seed | 2013 | Ride-hailing/Fintech | IPO via SPAC (NASDAQ) | [^6][^15][^30] |
+| Intercom | Seed | 2012 | Enterprise SaaS | Active | [^7][^31] |
 | SendGrid | Seed | ~2011 | Communications | IPO (NASDAQ), acquired by Twilio | [^7][^17] |
 | Bukalapak | Seed | ~2014 | E-commerce | IPO (Indonesia's largest) | [^12][^15] |
 | Carousell | Seed | ~2014 | Marketplace | Active (unicorn) | [^15] |
@@ -175,3 +175,12 @@ Notable portfolio companies with verified investment data:
 [^20]: Bitpowr, "Bitpowr's 500 Global Accelerator Experience," accessed April 2026. https://bitpowr.com/blog/bitpowr-s-500-global-accelerator-experience
 [^21]: GrowthMentor, "500 Global: Stories from Founders who Received Funding," accessed April 2026. https://www.growthmentor.com/startup-accelerators/500-global/
 [^22]: Sendspark, "Reflection: Our Experience in 500 Startups' Virtual Accelerator," accessed April 2026. https://blog.sendspark.com/500-startups-virtual-accelerator
+[^23]: getPIN.xyz, "Inside the Deal: Twilio's Early Investors," accessed April 2026. https://www.getpin.xyz/post/inside-the-deal-twilios-early-investors
+[^24]: 500 Global Wikipedia article, "History," accessed April 2026. https://en.wikipedia.org/wiki/500_Global
+[^25]: Crunchbase News, "As Intuit Buys Credit Karma For $7.1B, A Quick Look Back At Its Funding History," accessed April 2026. https://news.crunchbase.com/venture/as-intuit-eyes-credit-karma-for-7b-a-quick-look-back-at-its-funding-history/
+[^26]: TechCrunch, "Japanese E-Commerce Giant Rakuten Confirms Acquisition Of Video Site Viki," September 1, 2013. https://techcrunch.com/2013/09/01/rakuten-viki/
+[^27]: Canva Newsroom, "Aussie startup Canva announces $3 million seed round from world class investors," March 20, 2013. https://www.canva.com/newsroom/news/aussie-startup-canva-announces-3-million-seed-round-world-class-investors/
+[^28]: 500 Global, "From a Hackathon Win to a Hyper-Growth Company" (Talkdesk), accessed April 2026. https://500.co/blog/from-a-hackathon-win-to-a-hyper-growth-company/
+[^29]: GitLab Blog, "$1.5M raised in seed funding for GitLab to accelerate growth," July 9, 2015. https://about.gitlab.com/blog/2015/07/09/1-5m-raised-in-seed-funding-for-gitlab-to-accelerate-growth-and-expand-operations
+[^30]: Crunchbase, "Seed Round — Grab — 2013-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/grabtaxi-seed--a4d12fac
+[^31]: TechCrunch, "Biz Stone, 500 Startups And Others Put $1M In CRM For Web Businesses Intercom," January 25, 2012. https://techcrunch.com/2012/01/25/biz-stone-500-startups-and-others-put-1m-in-social-crm-for-web-businesses-intercom/

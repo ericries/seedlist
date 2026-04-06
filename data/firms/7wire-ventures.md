@@ -97,32 +97,32 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 |---------|-------|------|--------|--------|--------|
 | Livongo | Seed | 2014 | Chronic disease management | Acquired (Teladoc, $18.5B) | [^11][^1] |
 | Transcarent | Seed | 2021 | Health experience platform | Active (unicorn) | [^12][^13] |
-| NOCD | Seed | 2018 | OCD therapy | Active | [^17] |
-| Brightline | Series B | 2021 | Pediatric behavioral health | Active | [^23] |
-| Jasper Health | Seed | 2021 | Oncology care navigation | Active | [^25] |
-| Zerigo Health | Early | ~2020 | Dermatology / phototherapy | Active | [^20] |
-| FOLX Health | Series B | ~2021 | LGBTQIA+ virtual care | Active | [^21] |
-| Parsley Health | Early | ~2020 | Chronic disease virtual clinic | Active | [^26] |
-| PayZen | Series A | ~2022 | Healthcare affordability | Active | [^18] |
-| Homethrive | Series A | 2020 | Caregiving / aging in place | Active | [^19] |
-| MedArrive | Series A | ~2022 | At-home care delivery | Active | [^22] |
-| GroundGame.Health | Series A | ~2023 | Population health / SDOH | Active | [^27] |
-| WellTheory | Early | ~2023 | Autoimmune care | Active | [^28] |
-| Override | Seed | ~2022 | Chronic pain management | Active | [^29] |
-| When Insurance | Series A | 2026 | Severance insurance | Active | [^11] |
+| NOCD | Seed | 2018 | OCD therapy | Active | [^17][^36] |
+| Brightline | Series B | 2021 | Pediatric behavioral health | Active | [^23][^37] |
+| Jasper Health | Seed | 2021 | Oncology care navigation | Active | [^25][^38] |
+| Zerigo Health | Early | 2014 | Dermatology / phototherapy | Active | [^20][^39] |
+| FOLX Health | Series B | 2022 | LGBTQIA+ virtual care | Active | [^21][^40] |
+| Parsley Health | Growth | 2023 | Chronic disease virtual clinic | Active | [^26][^41] |
+| PayZen | Series A | 2021 | Healthcare affordability | Active | [^18][^42] |
+| Homethrive | Series A | 2020 | Caregiving / aging in place | Active | [^19][^43] |
+| MedArrive | Series A | 2021 | At-home care delivery | Active | [^22][^44] |
+| GroundGame.Health | Series A | 2024 | Population health / SDOH | Active | [^27][^45] |
+| WellTheory | Early | 2022 | Autoimmune care | Active | [^28][^46] |
+| Override | Seed | 2022 | Chronic pain management | Active | [^29][^47] |
+| When Insurance | Series A | 2026 | Severance insurance | Active | [^11][^48] |
 | ConsejoSano | Series A | ~2018 | Hispanic telehealth | Active | [^6] |
 | CareDox | Series B | ~2018 | School health IT | Active | [^6] |
 | Medisafe | Early | ~2018 | Medication management | Active | [^30] |
 | Higi | Early | ~2015 | Biometric screening | Acquired | [^11] |
 | Lightbeam Health Solutions | Early | ~2016 | Population health analytics | Acquired | [^11] |
 | Yaro | Early | ~2017 | Care navigation | Acquired | [^11] |
-| Caraway | Seed | ~2021 | College women's health | Acquired | [^9][^11] |
+| Caraway | Seed | 2022 | College women's health | Acquired | [^9][^11][^49] |
 | Ayogo | Early | ~2016 | Patient engagement | Active | [^30] |
 | EosHealth | Early | 2013 | Disease management | Active | [^2] |
 | ZestHealth | Early | 2013 | Healthcare navigation | Active | [^2] |
 | WiserTogether | Early | 2013 | Patient decision support | Active | [^2] |
-| Truvian Sciences | Early | ~2024 | Blood testing diagnostics | Active | [^11] |
-| RecoveryOne | Early | ~2020 | Physical therapy | Acquired (TailorCare, 2024) | [^11] |
+| Truvian Sciences | Early | 2024 | Blood testing diagnostics | Active | [^11][^50] |
+| RecoveryOne | Early | ~2020 | Physical therapy | Acquired (TailorCare, 2024) | [^11][^51] |
 
 This table represents 28 of approximately 44 known investments (~64% coverage) [^11]. Investment years marked with "~" are approximate based on available funding announcements.
 
@@ -187,3 +187,19 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^33]: 7wire Ventures, "Top of the Ladder Featuring When Insurance CEO Andy Hamilton," accessed March 2026. https://www.7wireventures.com/perspectives/7wire-ventures-presents-top-of-the-ladder-featuring-when-insurance-ceo-andy-hamilton/
 [^34]: 7wire Ventures, "Top of the Ladder Featuring GroundGame.Health Co-Founder and CEO Susan Rawlings Molina," accessed March 2026. https://www.7wireventures.com/perspectives/7wireventures-presents-top-of-the-ladder-featuring-groundgame-health-co-founder-and-ceo-susan-rawlings-molina/
 [^35]: 7wire Ventures, "Top of the Ladder Featuring 7wire Entrepreneur in Residence & InCommon CEO, Dan Michelson," accessed March 2026. https://www.7wireventures.com/perspectives/7wireventures-presents-top-of-the-ladder-featuring-7wire-entrepreneur-in-residence-incommon-ceo-dan-michelson/
+[^36]: TechCrunch, "nOCD gets $1M seed round to help people with obsessive-compulsive disorder," February 12, 2018. https://techcrunch.com/2018/02/12/nocd-gets-1m-seed-round-to-help-people-with-obsessive-compulsive-disorder/
+[^37]: PR Newswire, "Brightline Announces National Expansion of Industry-Leading Pediatric Behavioral Health Offering and $72M Series B Funding Led by GV," June 16, 2021. https://www.prnewswire.com/news-releases/brightline-announces-national-expansion-of-industry-leading-pediatric-behavioral-health-offering-and-72m-series-b-funding-led-by-gv-301313856.html
+[^38]: Crunchbase, "Seed Round — Jasper Health — 2021-03-12," accessed April 2026. https://www.crunchbase.com/funding_round/jasper-health-seed--cd77a683
+[^39]: Tracxn, "Zerigo Health — 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/zerigo-health/__13-ANj_sFUUwSN6lenO-Sz6CBDkpl2sXAmmNC4uZsYw
+[^40]: PR Newswire, "FOLX Health Raises $30M in Series B Funding Led by 7wireVentures," October 12, 2022. https://www.prnewswire.com/news-releases/folx-health-raises-30m-in-series-b-funding-led-by-7wireventures-launches-expert-led-support-groups-for-lgbtqia-community-301647390.html
+[^41]: Slice of Healthcare, "7wireVentures Secures $217M Growth & Opportunity Fund," accessed April 2026. https://www.sliceofhealthcare.com/7wireventures-secures-217m-growth-amp-opportunity-fund-elevating-aum-to-over-500m
+[^42]: 7wire Ventures, "Our Investment in PayZen," accessed April 2026. https://www.7wireventures.com/perspectives/our-investment-in-payzen/
+[^43]: PR Newswire, "Homethrive Announces $18 Million Series A Funding Led by 7wireVentures and Pitango HealthTech," October 28, 2020. https://www.prweb.com/releases/homethrive_announces_18_million_series_a_funding_led_by_7wireventures_and_pitango_healthtech/prweb17499834.htm
+[^44]: GlobeNewsWire, "MedArrive Announces $25 Million in Series A Funding to Bridge the Virtual Care Gap," November 17, 2021. https://www.globenewswire.com/news-release/2021/11/17/2336294/0/en/MedArrive-Announces-25-Million-in-Series-A-Funding-to-Bridge-the-Virtual-Care-Gap.html
+[^45]: Axios Pro, "GroundGame, SameSky Health merge with $17M for underserved populations," April 30, 2024. https://www.axios.com/pro/health-tech-deals/2024/04/30/groundgame-health-raises-17m-merges-samesky-underserved-populations-sdoh
+[^46]: BusinessWire, "WellTheory Raises $14M to Build the Category Leader in Autoimmune Care," October 14, 2025. https://www.businesswire.com/news/home/20251014695952/en/WellTheory-Raises-$14M-to-Build-the-Category-Leader-in-Autoimmune-Care
+[^47]: BusinessWire, "Former US Sec. of Veterans Affairs & Daughter Launch Chronic Pain Care Startup, Override, Raise $3.5M," December 15, 2022. https://www.businesswire.com/news/home/20221215005235/en/Former-US-Sec.-of-Veterans-Affairs-Daughter-Launch-Chronic-Pain-Care-Startup-Override-Raise-$3.5M-Acquire-Leading-Pain-Coaching-Company
+[^48]: FinSMEs, "When Raises $10.2M in Series A Funding," February 2026. https://www.finsmes.com/2026/02/when-raises-10-2m-in-series-a-funding.html
+[^49]: Femtech Insider, "Caraway, A Digital Health Startup Targeting College Women, Comes Out of Stealth with $10.5M in Funding," July 2022. https://femtechinsider.com/caraway-launch-seed-round/
+[^50]: BusinessWire, "Truvian Health Raises $74M to Bring Blood Testing to Anyone, Anywhere," July 17, 2024. https://www.businesswire.com/news/home/20240717480701/en/Truvian-Health-Raises-$74M-to-Bring-Blood-Testing-to-Anyone-Anywhere
+[^51]: TailorCare, "TailorCare Acquires RecoveryOne to Revolutionize Musculoskeletal Care," December 10, 2024. https://www.tailorcare.com/press-release/tailorcare-recoveryone-acquisition/
