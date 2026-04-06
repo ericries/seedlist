@@ -108,6 +108,9 @@ investors:
 - round: Angel
   slug: ali-partovi
   year: 2010
+- round: Seed
+  slug: leif-danielsen
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

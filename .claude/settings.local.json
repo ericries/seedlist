@@ -58,7 +58,8 @@
       "Bash(/tmp/sl-venv3/bin/python3 build.py 2>&1 | tail -5)",
       "Bash(python3 scripts/sl build 2>&1 | tail -3)",
       "Bash(python3 scripts/sl fix-citations nea 2>&1)",
-      "Bash(python3 scripts/sl lint nea --no-fetch 2>&1)"
+      "Bash(python3 scripts/sl lint nea --no-fetch 2>&1)",
+      "Bash(python3 scripts/sl queue individual | head -5)"
     ]
   }
 }

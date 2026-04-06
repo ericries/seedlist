@@ -8246,14 +8246,14 @@ queue:
 - name: Leif Danielsen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Acequia Capital
   discovered_from: acequia-capital
 - name: Charlie Songhurst
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Acequia Capital
   discovered_from: acequia-capital
@@ -9236,3 +9236,24 @@ queue:
   added: '2026-03-17'
   discovered_from: bryan-berg
   source: Standard Capital $7M Series A Nov 2025
+- name: Tracelight
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: leif-danielsen
+  source: Acequia Capital portfolio seed 2025
+- name: Uthana
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: leif-danielsen
+  source: Acequia Capital portfolio seed 2025
+- name: Griptape
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: leif-danielsen
+  source: Acequia Capital portfolio Series A 2023
