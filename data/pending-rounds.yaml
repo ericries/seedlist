@@ -1,4 +1,31 @@
 pending_rounds:
+- title: Kestra raised $25M Series A
+  url: https://www.prnewswire.com/news-releases/kestra-raises-25-million-series-a-to-become-the-orchestration-standard-for-enterprises-302729018.html
+  source: prnewswire
+  date_found: '2026-04-06'
+  parsed_company: Kestra
+  parsed_amount: $25M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile kestra.md
+- title: Standing Ovation raised $34.2M Series B
+  url: https://www.globenewswire.com/news-release/2026/03/31/3265178/0/en/Standing-Ovation-raises-34-2-million-to-scale-up-its-breakthrough-technology-for-producing-dairy-proteins-through-precision-fermentation-offering-a-sovereign-and-sustainable-respon.html
+  source: globenewswire
+  date_found: '2026-04-06'
+  parsed_company: Standing Ovation
+  parsed_amount: $34.2M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile standing-ovation.md
+- title: Zalos raised $3.6M Seed
+  url: https://www.globenewswire.com/news-release/2026/03/24/3261268/0/en/Zalos-raises-3-6M-to-build-Computer-Agents-that-operate-finance-systems-the-way-humans-do.html
+  source: globenewswire
+  date_found: '2026-04-06'
+  parsed_company: Zalos
+  parsed_amount: $3.6M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile zalos.md
 - title: Moonbounce raised $12M Series A
   url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
   source: techcrunch
@@ -109,7 +136,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: only deal was Yuzu Health $35M Series A, already processed from axios-pro-rata entry
+  notes: only deal was Yuzu Health $35M Series A, already processed from axios-pro-rata
+    entry
 - title: StairMed raised $69M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
