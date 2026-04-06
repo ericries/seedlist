@@ -16,6 +16,7 @@ social:
   twitter: "@lsturdy1"
   linkedin: "linkedin.com/in/laela-sturdy-376543"
 status: published
+tldr: "Managing Partner & CEO of CapitalG, Alphabet's $7B independent growth fund. All 10 of her lead investments reached $1B+ valuations, collectively worth ~$200B. Portfolio of 18 verified investments skews 39% enterprise SaaS (UiPath, Webflow, Gusto) with strong product-led growth bias. Known for hands-on monetization coaching -- famously convinced Duolingo CEO Luis von Ahn to prioritize revenue over a bar conversation."
 last_researched: 2026-03-30
 ---
 

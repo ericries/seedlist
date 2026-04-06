@@ -16,6 +16,7 @@ social:
   twitter: "@griffith_will"
   linkedin: "linkedin.com/in/will-griffith"
 status: published
+tldr: "Founding Partner of ICONIQ Growth, Alphabet's $21B+ growth equity platform. Portfolio of 38 verified investments is 63% enterprise SaaS including Snowflake, Datadog, ServiceTitan, and GitLab. Known for high-conviction, long-hold investing -- backed Figma from seed through IPO without selling a share. All 10 lead investments reached $1B+ valuations."
 last_researched: 2026-04-01
 ---
 

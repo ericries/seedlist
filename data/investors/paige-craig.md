@@ -16,6 +16,7 @@ social:
   twitter: "@paigecraig"
   linkedin: "linkedin.com/in/paigecraig"
 status: published
+tldr: "Founder & Managing Partner of Outlander VC, a pre-seed/seed fund with a 10% unicorn hit rate across 140+ investments. Former Marine intelligence officer and private military contractor turned prolific angel investor. Portfolio has shifted from consumer marketplaces (Lyft, Wish, Postmates) to robotics, defense tech, and autonomous systems (21% of recent portfolio). Uses a proprietary 'Founder Framework' scoring system requiring 90%+ to invest, with 62% diverse founders."
 last_researched: 2026-04-02
 ---
 

@@ -16,6 +16,7 @@ social:
   twitter: "@wanderingvc"
   linkedin: "linkedin.com/in/danielwaterhouse"
 status: published
+tldr: "General Partner at Balderton Capital investing in European-founded tech companies, with a distinctive concentration in climate and deep-tech (21% of portfolio). Portfolio of 27 unique companies skews 46% Series A with strong UK (42%) and Germany (29%) presence. Balderton's most science-oriented partner, backing fusion energy (Proxima Fusion, Fuse Energy), cultivated meat (Uncommon Bio), and carbon markets (Sylvera), shaped by his PhD in Applied Mathematics from Oxford."
 last_researched: 2026-03-31
 ---
 

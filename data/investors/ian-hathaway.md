@@ -16,6 +16,7 @@ social:
   twitter: "@ianhathaway_"
   linkedin: "linkedin.com/in/ianhathaway"
 status: published
+tldr: "Partner and Fund Lead at the OpenAI Startup Fund ($175M), a 100% AI-focused fund investing seed through Series B. Portfolio of 20 verified investments concentrates in healthcare/biotech (20%), education (15%), and robotics (15%), with at least 5 unicorns including Cursor ($29.3B), Harvey AI ($8B), and Figure AI. Also oversees OpenAI's Converge accelerator, which serves as a proprietary deal sourcing pipeline."
 last_researched: 2026-04-01
 ---
 

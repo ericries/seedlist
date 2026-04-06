@@ -16,6 +16,7 @@ social:
   twitter: "@troycarter"
   linkedin: "linkedin.com/in/troy-carter-20928774"
 status: published
+tldr: "Founder & CEO of AF Square, investing at seed/Series A from Los Angeles. Former music industry mogul who managed Lady Gaga and co-founded Cross Culture Ventures (72% diverse founders). Portfolio of 30 verified investments is 37% consumer/marketplace and 23% media/entertainment, with angel-stage bets in Uber, Lyft, Spotify, Dropbox, and Warby Parker. Over 31 exits including Uber IPO, Spotify direct listing, and TrueBill ($1.275B acquisition)."
 last_researched: 2026-03-30
 ---
 

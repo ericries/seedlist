@@ -16,6 +16,7 @@ social:
   twitter: "@surangac"
   linkedin: "linkedin.com/in/suranga-chandratillake-6a839363"
 status: published
+tldr: "General Partner at Balderton Capital, a self-described 'low frequency, high conviction' investor in European tech. Portfolio of 20 verified investments is 70% Series A, with concentrations in enterprise/B2B SaaS (25%) and cybersecurity/developer tools (20%). Former founder of blinkx (IPO, $1B+ peak) and early Autonomy engineer. OBE recipient and Fellow of the Royal Academy of Engineering. Backed Wayve (autonomous driving, $1.5B Series D) from Series A."
 last_researched: 2026-03-30
 ---
 

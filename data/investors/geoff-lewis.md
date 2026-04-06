@@ -27,6 +27,7 @@ stage_focus:
 - series-b
 - series-c
 status: published
+tldr: "Founder & Managing Partner of Bedrock Capital, investing in 'narrative violations' -- companies underestimated because they defy prevailing market wisdom. Portfolio of 22 verified investments clusters in fintech (23%) and defense tech (14%), with a highly concentrated approach (only 75 investments across 7+ years). Notable bets include Rippling ($200M co-lead), OpenAI (largest position), Flock Safety, and Lyft at $90M valuation while at Founders Fund."
 type: individual
 ---
 

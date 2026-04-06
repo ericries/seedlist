@@ -12,15 +12,7 @@ sector:
 - trust-and-safety
 stage_latest: Series A
 total_raised: $12M
-firms:
-- slug: amplify-partners
-  round: series-a
-  year: 2026
-  date: 2026-04-03
-- slug: stepstone-group
-  round: series-a
-  year: 2026
-  date: 2026-04-03
+firms: []
 founders:
 - name: Brett Levenson
   role: Co-Founder & CEO

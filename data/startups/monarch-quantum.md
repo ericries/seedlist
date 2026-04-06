@@ -30,6 +30,14 @@ Monarch Quantum builds Quantum Light Engines, integrated photonic control system
 |------|-------|--------|------|--------------|
 | 2026-03-31 | Growth | $55M | Serendipity Capital | 55 North, Global Innovation Labs [^1][^2] |
 
+## What Investors Say
+
+No investor quotes available at this time.
+
+## What Founders Say
+
+No founder quotes available at this time.
+
 ## Sources
 
 [^1]: PR Newswire, "Monarch Quantum Surpasses $100M in Capital and Contracts with $55M Growth Round," March 31, 2026. https://www.prnewswire.com/news-releases/monarch-quantum-surpasses-100m-in-capital-and-contracts-with-55m-growth-round-to-scale-quantum-photonics-infrastructure-302729264.html

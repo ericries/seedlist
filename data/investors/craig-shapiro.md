@@ -16,6 +16,7 @@ social:
   twitter: "@cshapiro"
   linkedin: "linkedin.com/in/craigjshapiro"
 status: published
+tldr: "Founder & Managing Partner of Collaborative Fund, a $1B+ AUM firm investing at the 'intersection of for-profit & for-good.' Portfolio of 42 verified investments splits between energy/climate (29%) and consumer/food (29%), with notable bets including Beyond Meat, Sweetgreen, Reddit, and WHOOP (led $575M Series G at $10.1B). Fund I achieved 4.1x DPI -- top-decile performance. Uses a 'Villain Test' to evaluate whether successful companies will improve people's lives."
 last_researched: 2026-04-03
 ---
 

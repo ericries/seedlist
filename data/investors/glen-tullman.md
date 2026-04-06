@@ -28,6 +28,7 @@ social:
   twitter: "@GlenTullman"
   linkedin: "linkedin.com/in/glen-tullman-76108566"
 status: published
+tldr: "Co-Founder & Managing Partner of 7wire Ventures and founder of 62 Ventures, investing across stages in healthcare and digital health from Chicago. An operator-investor hybrid who co-founded Livongo ($18.5B exit) and Transcarent ($2.2B valuation), with 85%+ of investments in healthcare. Distinctive for 7wire's 'Hatch' model of incubating companies from scratch and for backing founders with personal connections to the problems they solve."
 last_researched: 2026-04-03
 ---
 

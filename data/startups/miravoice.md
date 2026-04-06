@@ -12,10 +12,7 @@ sector:
 - market-research
 stage_latest: Seed
 total_raised: $6.3M
-firms:
-- slug: unusual-ventures
-  round: Seed
-  year: 2026
+firms: []
 founders:
 - name: Nishant Jain
   role: CEO & Co-Founder

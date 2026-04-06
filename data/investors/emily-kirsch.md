@@ -16,6 +16,7 @@ social:
   twitter: "@emilykirsch"
   linkedin: "linkedin.com/in/kirschemily"
 status: published
+tldr: "Founder & Managing Partner of Powerhouse Ventures, a $75M climate-tech seed fund investing exclusively in software for decarbonization. Portfolio of 37 verified investments spans energy/grid software (41%), finance/infrastructure (19%), mobility (14%), and buildings (16%). Takes no technology risk -- backs software enabling proven clean energy tech to scale. Corporate LPs (TotalEnergies, Toyota, Microsoft) provide portfolio companies direct access to customers."
 last_researched: 2026-03-28
 ---
 

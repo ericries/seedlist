@@ -8253,7 +8253,7 @@ queue:
 - name: Charlie Songhurst
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Acequia Capital
   discovered_from: acequia-capital
@@ -8273,7 +8273,7 @@ queue:
 - name: Omar Hamoui
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mucker Capital
   discovered_from: mucker-capital
@@ -9257,3 +9257,59 @@ queue:
   added: '2026-03-17'
   discovered_from: leif-danielsen
   source: Acequia Capital portfolio Series A 2023
+- name: Matt Clifford
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Entrepreneurs First
+  discovered_from: charlie-songhurst
+- name: Entrepreneurs First
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-songhurst
+  source: talent investor where Songhurst is board member
+- name: Nyca Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-songhurst
+  source: firm where Songhurst is Investment Partner
+- name: Invisible Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-songhurst
+  source: portfolio company where Songhurst is board member
+- name: CodeSignal
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-songhurst
+  source: portfolio company where Songhurst is board member
+- name: Formlabs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-songhurst
+  source: unicorn portfolio company
+- name: Rigetti Computing
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-songhurst
+  source: unicorn where Songhurst is board member
+- name: Unusual Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring
+  source: led $6.3M seed in Miravoice

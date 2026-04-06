@@ -25,6 +25,7 @@ social:
   twitter: "@saarsaar"
   linkedin: "linkedin.com/in/saargur"
 status: published
+tldr: "General Partner at CRV investing at seed and Series A, with a consumer-first orientation (44% of 25 verified investments). Backed DoorDash, Ring, and Patreon at seed stage, with notable fintech exposure through Mercury and Jeeves. Forbes Midas List regular (#22 in 2023) who looks for 'lived-market fit' -- founders with direct personal experience with the problem they solve."
 last_researched: 2026-04-01
 ---
 

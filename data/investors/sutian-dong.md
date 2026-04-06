@@ -16,6 +16,7 @@ social:
   twitter: "@sutiandong"
   linkedin: "linkedin.com/in/sutiandong"
 status: published
+tldr: "Currently Partner at Multitudes (investing in human consciousness and culture); formerly Partner at Female Founders Fund where she co-built one of the most recognized seed-stage brands backing female founders. F3 portfolio during her tenure skewed 40% consumer/DTC (ELOQUII, Billie, Zola) and 20% health/wellness (Maven Clinic, Thrive Global). Co-founded Global Women in VC, the largest network of female tech investors with 6,000+ members in 70+ countries."
 last_researched: 2026-03-30
 ---
 

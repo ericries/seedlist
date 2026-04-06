@@ -29,6 +29,7 @@ social:
   twitter: "@htaneja"
   linkedin: linkedin.com/in/hemanttaneja
 status: published
+tldr: "CEO & Managing Director of General Catalyst, overseeing $40B+ in assets. A founder-investor hybrid who co-founded Livongo ($18.5B exit), Commure ($6B valuation), Transcarent, and Hippocratic AI. Healthcare dominates at 32% of 28 verified investments, followed by AI/enterprise (21%) and defense (11% including Anduril and Helsing). Known for extreme conviction investing -- participated in 14 Stripe rounds totaling $5B+. Ranked #8 on 2025 Forbes Midas List."
 last_researched: 2026-04-02
 ---
 

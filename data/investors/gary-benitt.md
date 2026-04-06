@@ -12,6 +12,7 @@ social:
   twitter: "@garybenitt"
   linkedin: "linkedin.com/in/garybenitt"
 status: published
+tldr: "Managing Partner at Social Leverage, a seed-stage VC firm. Four-time founder in customer service software (most notably Assistly, acquired by Salesforce for ~$50M). Personal portfolio skews toward B2B SaaS and enterprise tools, reflecting his operator background. Notable investments include beehiiv, Robinhood, Gusto, and Kustomer. Advises founders to stay on the front lines selling before hiring sales leadership."
 last_researched: 2026-04-05
 last_verified_investment:
   date: 2025-05-23
