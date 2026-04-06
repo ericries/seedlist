@@ -108,7 +108,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: only deal was Yuzu Health $35M Series A, already processed from axios-pro-rata entry
 - title: StairMed raised $69M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
