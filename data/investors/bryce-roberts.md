@@ -23,6 +23,10 @@ stage_focus:
 - pre-seed
 - seed
 status: published
+tldr: Bryce Roberts is the founder of Indie (formerly Indie.vc) and co-founder of
+  OATV, pioneering an alternative VC model focused on profitability over hypergrowth.
+  He invests $250K-$2M at seed stage across sectors, with over half of Indie portfolio
+  companies led by women founders. Notable OATV exits include Figma, Fastly, and CTRL-Labs.
 type: individual
 ---
 

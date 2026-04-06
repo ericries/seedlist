@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@RanaYared"
   linkedin: "linkedin.com/in/ranayared"
+tldr: "Rana Yared is a GP at Balderton Capital and Balderton's first female GP, co-leading the Growth Fund. A former Goldman Sachs Partner who oversaw $2B in investments across 80 companies, she focuses on fintech (42% of verified deals) and increasingly on defence tech and cybersecurity (25%). She skews growth-stage, with investments spanning Europe and beyond. Notable deals include Scalable Capital, Kong, and Quantum Systems."
 status: published
 last_researched: 2026-03-31
 ---

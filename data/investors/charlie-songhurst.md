@@ -14,6 +14,7 @@ last_verified_investment:
   date: 2026-03-11
   company: "Entrepreneurs First"
   round: "Growth"
+tldr: "Charlie Songhurst is one of the world's most prolific angel investors with approximately 500 portfolio companies, investing $10K-$500K checks at pre-seed and seed. A former Microsoft Head of Global Corporate Strategy who led 80+ acquisitions including Skype, he focuses on software and AI (85% of tracked portfolio) with a strong UK and European bias. He joined Meta's board in 2025."
 status: published
 last_researched: 2026-04-05
 ---

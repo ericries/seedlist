@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@HeidiLindvall"
   linkedin: "linkedin.com/in/heidilindvall"
+tldr: "Heidi Lindvall is a GP and co-founder of Pale Blue Dot, a European seed-stage climate tech fund with ~EUR 180M across two funds. A former documentary filmmaker, startup founder (Storygami, 500 Startups alum), and Minc accelerator manager, she co-leads investments in climate-adjacent startups. The portfolio is 70% software companies, predominantly European, with enterprise data/analytics (28%) and mobility (13%) as top subsectors."
 status: published
 last_researched: 2026-03-31
 ---

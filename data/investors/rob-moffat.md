@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@robmoff"
   linkedin: "linkedin.com/in/robmoff"
+tldr: "Rob Moffat is a Partner at Balderton Capital who has been with the firm since 2009, investing exclusively in European founders. Fintech and payments dominate at 45% of his verified portfolio, complemented by gaming (18%) and insurtech (14%). He is known for non-consensus bets like pre-seed backing Dream Games when VCs had lost interest in mobile gaming. Former Google EMEA strategy manager and Bain consultant."
 status: published
 last_researched: 2026-03-31
 ---

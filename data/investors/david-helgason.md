@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@davidhelgason"
   linkedin: "linkedin.com/in/davidhelgason"
+tldr: "David Helgason is the co-founder and former CEO of Unity Technologies, now a climate-tech investor as co-founder and GP of Transition, a ~$200M fund based in London. His investing career has two phases: a Nordic-focused angel period (gaming, edtech, fintech) and a post-2021 institutional climate focus. Through Transition, he backs seed and Series A companies tackling planetary boundaries with de-risked science."
 status: published
 last_researched: 2026-03-31
 ---

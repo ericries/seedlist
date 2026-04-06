@@ -51,6 +51,9 @@ firms:
 - round: Seed
   slug: outlander-vc
   year: 2019
+- round: Board seat
+  slug: 7wire-ventures
+  year: 2021
 founded: 2014
 founders:
 - name: Vivek Garipalli
@@ -91,6 +94,9 @@ investors:
 - round: Seed
   slug: paige-craig
   year: 2019
+- round: Board seat
+  slug: lee-shapiro
+  year: 2021
 last_researched: 2026-03-24
 location: Jersey City, NJ
 name: Clover Health

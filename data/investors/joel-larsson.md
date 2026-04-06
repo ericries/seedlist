@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@tilljoel"
   linkedin: "linkedin.com/in/joellarsson"
+tldr: "Joel Larsson is a GP and co-founder of Pale Blue Dot, a ~EUR 180M seed-stage climate tech fund based in Malmo, Sweden. A former technical lead at Axis Communications and startup founder, he co-leads a portfolio of 27+ climate startups across Europe, with EV/mobility (19%), climate data/analytics (19%), and food/agriculture (15%) as top sectors. The firm writes EUR 200K-2M checks and targets 10% ownership."
 status: published
 last_researched: 2026-04-03
 ---

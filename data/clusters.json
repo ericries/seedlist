@@ -413,12 +413,12 @@
       "id": 2,
       "name": "",
       "tagline": "",
-      "size": 39,
+      "size": 42,
       "top_sectors": [
         "fintech",
         "ai",
-        "consumer-internet",
         "saas",
+        "consumer-internet",
         "healthcare"
       ],
       "top_stages": [
@@ -432,6 +432,8 @@
       "shared_portfolio": [
         "Solana",
         "Wish",
+        "Pinterest",
+        "Flexe",
         "Hims & Hers",
         "Uber",
         "Everlane",
@@ -440,8 +442,6 @@
         "Flywire",
         "Housecanary",
         "Openai",
-        "Pinterest",
-        "Flexe",
         "Wiz",
         "Shield Ai",
         "Mark43"
@@ -456,6 +456,16 @@
           "slug": "bill-gurley",
           "name": "Bill Gurley",
           "firm": "benchmark"
+        },
+        {
+          "slug": "bryan-berg",
+          "name": "Bryan Berg",
+          "firm": "standard-capital"
+        },
+        {
+          "slug": "charlie-songhurst",
+          "name": "Charlie Songhurst",
+          "firm": "acequia-capital"
         },
         {
           "slug": "chester-ng",
@@ -558,6 +568,11 @@
           "firm": "general-catalyst"
         },
         {
+          "slug": "leif-danielsen",
+          "name": "Leif Danielsen",
+          "firm": "acequia-capital"
+        },
+        {
           "slug": "mark-cuban",
           "name": "Mark Cuban",
           "firm": "mark-cuban-companies"
@@ -643,19 +658,19 @@
           "firm": "multicoin-capital"
         }
       ],
-      "summary": "Series A, Seed-focused fintech, ai, consumer-internet investors primarily based in Other US, with shared investments in Solana, Wish, Hims & Hers"
+      "summary": "Series A, Seed-focused fintech, ai, saas investors primarily based in Other US, with shared investments in Solana, Wish, Pinterest"
     },
     {
       "id": 3,
       "name": "",
       "tagline": "",
-      "size": 19,
+      "size": 20,
       "top_sectors": [
         "consumer-internet",
         "healthcare",
         "technology",
         "financials",
-        "industrials"
+        "saas"
       ],
       "top_stages": [
         "seed",
@@ -738,6 +753,11 @@
           "slug": "lee-ainslie",
           "name": "Lee Ainslie",
           "firm": "maverick-ventures"
+        },
+        {
+          "slug": "matt-ober",
+          "name": "Matt Ober",
+          "firm": "social-leverage"
         },
         {
           "slug": "mike-fey",
@@ -977,11 +997,11 @@
       "id": 5,
       "name": "",
       "tagline": "",
-      "size": 16,
+      "size": 17,
       "top_sectors": [
         "consumer-internet",
-        "fintech",
         "saas",
+        "fintech",
         "ai",
         "healthcare"
       ],
@@ -1057,6 +1077,11 @@
           "firm": "mac-venture-capital"
         },
         {
+          "slug": "omar-hamoui",
+          "name": "Omar Hamoui",
+          "firm": "mucker-capital"
+        },
+        {
           "slug": "scott-stanford",
           "name": "Scott Stanford",
           "firm": "sherpa-capital"
@@ -1087,7 +1112,7 @@
           "firm": "mucker-capital"
         }
       ],
-      "summary": "Seed, Series A-focused consumer-internet, fintech, saas investors primarily based in LA, with shared investments in Spotify, Sandbox Vr, Sleeper"
+      "summary": "Seed, Series A-focused consumer-internet, saas, fintech investors primarily based in LA, with shared investments in Spotify, Sandbox Vr, Sleeper"
     },
     {
       "id": 6,
@@ -1523,40 +1548,30 @@
       "id": 8,
       "name": "",
       "tagline": "",
-      "size": 30,
+      "size": 20,
       "top_sectors": [
-        "consumer-internet",
         "saas",
+        "consumer-internet",
         "fintech",
-        "ai",
-        "healthcare"
+        "healthcare",
+        "ai"
       ],
       "top_stages": [
         "seed",
-        "pre-seed",
-        "series-a"
+        "pre-seed"
       ],
       "top_locations": [
         "Other US",
-        "Europe",
-        "Boston"
+        "Boston",
+        "Sf Bay Area"
       ],
       "shared_portfolio": [
-        "Patch",
-        "Cyera",
-        "Vega",
-        "Savvy",
-        "Oasis Security",
-        "Trustmi",
-        "Surf Ai",
-        "Monta",
-        "Overstory",
         "Ring",
-        "Fireblocks",
-        "Island",
-        "Transmit Security",
-        "Noname Security",
-        "Upwind"
+        "Civic",
+        "Kustomer",
+        "Beehiiv",
+        "Manscaped",
+        "Robinhood"
       ],
       "members": [
         {
@@ -1600,29 +1615,14 @@
           "firm": "founder-collective"
         },
         {
-          "slug": "dor-knafo",
-          "name": "Dor Knafo",
-          "firm": "cyberstarts"
-        },
-        {
           "slug": "elias-torres",
           "name": "Elias Torres",
           "firm": "array-ventures"
         },
         {
-          "slug": "emily-heath",
-          "name": "Emily Heath",
-          "firm": "cyberstarts"
-        },
-        {
-          "slug": "gili-raanan",
-          "name": "Gili Raanan",
-          "firm": "cyberstarts"
-        },
-        {
-          "slug": "hampus-jakobsson",
-          "name": "Hampus Jakobsson",
-          "firm": "pale-blue-dot"
+          "slug": "gary-benitt",
+          "name": "Gary Benitt",
+          "firm": "social-leverage"
         },
         {
           "slug": "harris-stolzenberg",
@@ -1630,34 +1630,14 @@
           "firm": "pear-vc"
         },
         {
-          "slug": "heidi-lindvall",
-          "name": "Heidi Lindvall",
-          "firm": "pale-blue-dot"
-        },
-        {
-          "slug": "hila-zigman",
-          "name": "Hila Zigman",
-          "firm": "cyberstarts"
-        },
-        {
           "slug": "howard-lindzon",
           "name": "Howard Lindzon",
           "firm": "social-leverage"
         },
         {
-          "slug": "joel-larsson",
-          "name": "Joel Larsson",
-          "firm": "pale-blue-dot"
-        },
-        {
           "slug": "josh-kopelman",
           "name": "Josh Kopelman",
           "firm": "first-round-capital"
-        },
-        {
-          "slug": "jeremie-berrebi",
-          "name": "J\u00e9r\u00e9mie Berrebi",
-          "firm": "kima-ventures"
         },
         {
           "slug": "konstantin-othmer",
@@ -1668,11 +1648,6 @@
           "slug": "leura-craig",
           "name": "Leura Craig",
           "firm": "outlander-vc"
-        },
-        {
-          "slug": "lior-simon",
-          "name": "Lior Simon",
-          "firm": "cyberstarts"
         },
         {
           "slug": "lolita-taub",
@@ -1690,14 +1665,106 @@
           "firm": "1517-fund"
         },
         {
-          "slug": "paul-graham",
-          "name": "Paul Graham",
-          "firm": "y-combinator"
-        },
-        {
           "slug": "ryan-hoover",
           "name": "Ryan Hoover",
           "firm": "weekend-fund"
+        },
+        {
+          "slug": "tom-peterson",
+          "name": "Tom Peterson",
+          "firm": "social-leverage"
+        }
+      ],
+      "summary": "Seed, Pre Seed-focused saas, consumer-internet, fintech investors primarily based in Other US, with shared investments in Ring, Civic, Kustomer"
+    },
+    {
+      "id": 9,
+      "name": "",
+      "tagline": "",
+      "size": 12,
+      "top_sectors": [
+        "cybersecurity",
+        "consumer-internet",
+        "fintech",
+        "climate-tech",
+        "developer-tools"
+      ],
+      "top_stages": [
+        "seed",
+        "pre-seed",
+        "series-a"
+      ],
+      "top_locations": [
+        "Europe",
+        "Sf Bay Area"
+      ],
+      "shared_portfolio": [
+        "Cyera",
+        "Vega",
+        "Savvy",
+        "Oasis Security",
+        "Trustmi",
+        "Surf Ai",
+        "Monta",
+        "Overstory",
+        "Fireblocks",
+        "Island",
+        "Transmit Security",
+        "Noname Security",
+        "Upwind",
+        "Zafran",
+        "Bionic"
+      ],
+      "members": [
+        {
+          "slug": "dor-knafo",
+          "name": "Dor Knafo",
+          "firm": "cyberstarts"
+        },
+        {
+          "slug": "emily-heath",
+          "name": "Emily Heath",
+          "firm": "cyberstarts"
+        },
+        {
+          "slug": "gili-raanan",
+          "name": "Gili Raanan",
+          "firm": "cyberstarts"
+        },
+        {
+          "slug": "hampus-jakobsson",
+          "name": "Hampus Jakobsson",
+          "firm": "pale-blue-dot"
+        },
+        {
+          "slug": "heidi-lindvall",
+          "name": "Heidi Lindvall",
+          "firm": "pale-blue-dot"
+        },
+        {
+          "slug": "hila-zigman",
+          "name": "Hila Zigman",
+          "firm": "cyberstarts"
+        },
+        {
+          "slug": "joel-larsson",
+          "name": "Joel Larsson",
+          "firm": "pale-blue-dot"
+        },
+        {
+          "slug": "jeremie-berrebi",
+          "name": "J\u00e9r\u00e9mie Berrebi",
+          "firm": "kima-ventures"
+        },
+        {
+          "slug": "lior-simon",
+          "name": "Lior Simon",
+          "firm": "cyberstarts"
+        },
+        {
+          "slug": "paul-graham",
+          "name": "Paul Graham",
+          "firm": "y-combinator"
         },
         {
           "slug": "xavier-niel",
@@ -1710,239 +1777,17 @@
           "firm": "international-technologies"
         }
       ],
-      "summary": "Seed, Pre Seed-focused consumer-internet, saas, fintech investors primarily based in Other US, with shared investments in Patch, Cyera, Vega"
-    },
-    {
-      "id": 9,
-      "name": "",
-      "tagline": "",
-      "size": 36,
-      "top_sectors": [
-        "fintech",
-        "saas",
-        "ai",
-        "consumer-internet",
-        "healthcare"
-      ],
-      "top_stages": [
-        "series-a",
-        "growth",
-        "series-b"
-      ],
-      "top_locations": [
-        "Sf Bay Area",
-        "Europe"
-      ],
-      "shared_portfolio": [
-        "Slack",
-        "Airbnb",
-        "Rippling",
-        "Wiz",
-        "Robinhood",
-        "Spacex",
-        "Propeller Health",
-        "Intercom",
-        "Discord",
-        "Figma",
-        "Databricks",
-        "Opendoor",
-        "Uber",
-        "Twitter",
-        "Gusto"
-      ],
-      "members": [
-        {
-          "slug": "arjun-sethi",
-          "name": "Arjun Sethi",
-          "firm": "tribe-capital"
-        },
-        {
-          "slug": "aydin-senkut",
-          "name": "Aydin Senkut",
-          "firm": "felicis"
-        },
-        {
-          "slug": "benny-peretz",
-          "name": "Benny Peretz",
-          "firm": "greenoaks"
-        },
-        {
-          "slug": "brian-feinstein",
-          "name": "Brian Feinstein",
-          "firm": "bessemer-venture-partners"
-        },
-        {
-          "slug": "brian-singerman",
-          "name": "Brian Singerman",
-          "firm": "gpx"
-        },
-        {
-          "slug": "chamath-palihapitiya",
-          "name": "Chamath Palihapitiya",
-          "firm": "social-capital"
-        },
-        {
-          "slug": "david-krane",
-          "name": "David Krane",
-          "firm": "gv"
-        },
-        {
-          "slug": "david-sacks",
-          "name": "David Sacks",
-          "firm": "craft-ventures"
-        },
-        {
-          "slug": "doug-leone",
-          "name": "Doug Leone",
-          "firm": "sequoia-capital"
-        },
-        {
-          "slug": "eric-liaw",
-          "name": "Eric Liaw",
-          "firm": "ivp"
-        },
-        {
-          "slug": "everett-randle",
-          "name": "Everett Randle",
-          "firm": "benchmark"
-        },
-        {
-          "slug": "hans-tung",
-          "name": "Hans Tung",
-          "firm": "notable-capital"
-        },
-        {
-          "slug": "ilya-fushman",
-          "name": "Ilya Fushman",
-          "firm": "kleiner-perkins"
-        },
-        {
-          "slug": "jennifer-fonstad",
-          "name": "Jennifer Fonstad",
-          "firm": "owl-capital"
-        },
-        {
-          "slug": "john-doerr",
-          "name": "John Doerr",
-          "firm": "kleiner-perkins"
-        },
-        {
-          "slug": "jonathan-hsu",
-          "name": "Jonathan Hsu",
-          "firm": "tribe-capital"
-        },
-        {
-          "slug": "jules-maltz",
-          "name": "Jules Maltz",
-          "firm": "ivp"
-        },
-        {
-          "slug": "karen-page",
-          "name": "Karen Page",
-          "firm": "b-capital-group"
-        },
-        {
-          "slug": "ken-howery",
-          "name": "Ken Howery",
-          "firm": "founders-fund"
-        },
-        {
-          "slug": "mamoon-hamid",
-          "name": "Mamoon Hamid",
-          "firm": "kleiner-perkins"
-        },
-        {
-          "slug": "marc-andreessen",
-          "name": "Marc Andreessen",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "marc-benioff",
-          "name": "Marc Benioff",
-          "firm": "time-ventures"
-        },
-        {
-          "slug": "marc-stad",
-          "name": "Marc Stad",
-          "firm": "dragoneer"
-        },
-        {
-          "slug": "miles-grimshaw",
-          "name": "Miles Grimshaw",
-          "firm": "thrive-capital"
-        },
-        {
-          "slug": "neil-mehta",
-          "name": "Neil Mehta",
-          "firm": "greenoaks"
-        },
-        {
-          "slug": "reid-hoffman",
-          "name": "Reid Hoffman",
-          "firm": "greylock"
-        },
-        {
-          "slug": "rick-yang",
-          "name": "Rick Yang",
-          "firm": "nea"
-        },
-        {
-          "slug": "roelof-botha",
-          "name": "Roelof Botha",
-          "firm": "sequoia-capital"
-        },
-        {
-          "slug": "sam-altman",
-          "name": "Sam Altman",
-          "firm": ""
-        },
-        {
-          "slug": "scott-sandell",
-          "name": "Scott Sandell",
-          "firm": "nea"
-        },
-        {
-          "slug": "scott-weiss",
-          "name": "Scott Weiss",
-          "firm": "andreessen-horowitz"
-        },
-        {
-          "slug": "shervin-pishevar",
-          "name": "Shervin Pishevar",
-          "firm": "sherpa-capital"
-        },
-        {
-          "slug": "sonja-hoel-perkins",
-          "name": "Sonja Hoel Perkins",
-          "firm": "broadway-angels"
-        },
-        {
-          "slug": "talia-goldberg",
-          "name": "Talia Goldberg",
-          "firm": "bessemer-venture-partners"
-        },
-        {
-          "slug": "ted-maidenberg",
-          "name": "Ted Maidenberg",
-          "firm": "tribe-capital"
-        },
-        {
-          "slug": "theresia-gouw",
-          "name": "Theresia Gouw",
-          "firm": "acrew-capital"
-        }
-      ],
-      "summary": "Series A, Growth-focused fintech, saas, ai investors primarily based in Sf Bay Area, with shared investments in Slack, Airbnb, Rippling"
+      "summary": "Seed, Pre Seed-focused cybersecurity, consumer-internet, fintech investors primarily based in Europe, with shared investments in Cyera, Vega, Savvy"
     },
     {
       "id": 10,
       "name": "",
       "tagline": "",
-      "size": 44,
+      "size": 80,
       "top_sectors": [
         "fintech",
-        "ai",
         "saas",
+        "ai",
         "consumer-internet",
         "infrastructure"
       ],
@@ -1953,24 +1798,25 @@
       ],
       "top_locations": [
         "Sf Bay Area",
+        "Europe",
         "NYC"
       ],
       "shared_portfolio": [
-        "Snowflake",
+        "Slack",
+        "Airbnb",
         "Robinhood",
         "Anthropic",
-        "Airbnb",
-        "Whatnot",
-        "Gitlab",
+        "Snowflake",
         "Uber",
-        "Rappi",
-        "Elevenlabs",
+        "Spacex",
+        "Databricks",
+        "Figma",
+        "Gusto",
+        "Rippling",
         "Doordash",
-        "Instacart",
-        "Dbt Labs",
-        "Uipath",
-        "Sierra",
-        "Facebook"
+        "Wiz",
+        "Stripe",
+        "Uipath"
       ],
       "members": [
         {
@@ -2004,6 +1850,21 @@
           "firm": "avra"
         },
         {
+          "slug": "arjun-sethi",
+          "name": "Arjun Sethi",
+          "firm": "tribe-capital"
+        },
+        {
+          "slug": "aydin-senkut",
+          "name": "Aydin Senkut",
+          "firm": "felicis"
+        },
+        {
+          "slug": "benny-peretz",
+          "name": "Benny Peretz",
+          "firm": "greenoaks"
+        },
+        {
           "slug": "bob-kagle",
           "name": "Bob Kagle",
           "firm": "benchmark"
@@ -2012,6 +1873,16 @@
           "slug": "brad-gerstner",
           "name": "Brad Gerstner",
           "firm": "altimeter-capital"
+        },
+        {
+          "slug": "brian-feinstein",
+          "name": "Brian Feinstein",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
         },
         {
           "slug": "bruce-dunlevie",
@@ -2024,9 +1895,24 @@
           "firm": "sequoia-capital"
         },
         {
+          "slug": "chamath-palihapitiya",
+          "name": "Chamath Palihapitiya",
+          "firm": "social-capital"
+        },
+        {
           "slug": "clay-bavor",
           "name": "Clay Bavor",
           "firm": "sierra-ai"
+        },
+        {
+          "slug": "david-krane",
+          "name": "David Krane",
+          "firm": "gv"
+        },
+        {
+          "slug": "david-sacks",
+          "name": "David Sacks",
+          "firm": "craft-ventures"
         },
         {
           "slug": "david-sze",
@@ -2039,9 +1925,34 @@
           "firm": "iconiq-growth"
         },
         {
+          "slug": "doug-leone",
+          "name": "Doug Leone",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "eric-liaw",
+          "name": "Eric Liaw",
+          "firm": "ivp"
+        },
+        {
           "slug": "eric-vishria",
           "name": "Eric Vishria",
           "firm": "benchmark"
+        },
+        {
+          "slug": "everett-randle",
+          "name": "Everett Randle",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "hans-tung",
+          "name": "Hans Tung",
+          "firm": "notable-capital"
+        },
+        {
+          "slug": "ilya-fushman",
+          "name": "Ilya Fushman",
+          "firm": "kleiner-perkins"
         },
         {
           "slug": "ilya-sutskever",
@@ -2069,6 +1980,36 @@
           "firm": "andreessen-horowitz"
         },
         {
+          "slug": "jennifer-fonstad",
+          "name": "Jennifer Fonstad",
+          "firm": "owl-capital"
+        },
+        {
+          "slug": "john-doerr",
+          "name": "John Doerr",
+          "firm": "kleiner-perkins"
+        },
+        {
+          "slug": "jonathan-hsu",
+          "name": "Jonathan Hsu",
+          "firm": "tribe-capital"
+        },
+        {
+          "slug": "jules-maltz",
+          "name": "Jules Maltz",
+          "firm": "ivp"
+        },
+        {
+          "slug": "karen-page",
+          "name": "Karen Page",
+          "firm": "b-capital-group"
+        },
+        {
+          "slug": "ken-howery",
+          "name": "Ken Howery",
+          "firm": "founders-fund"
+        },
+        {
           "slug": "kevin-harvey",
           "name": "Kevin Harvey",
           "firm": "benchmark"
@@ -2077,6 +2018,26 @@
           "slug": "laela-sturdy",
           "name": "Laela Sturdy",
           "firm": "capitalg"
+        },
+        {
+          "slug": "mamoon-hamid",
+          "name": "Mamoon Hamid",
+          "firm": "kleiner-perkins"
+        },
+        {
+          "slug": "marc-andreessen",
+          "name": "Marc Andreessen",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "marc-benioff",
+          "name": "Marc Benioff",
+          "firm": "time-ventures"
+        },
+        {
+          "slug": "marc-stad",
+          "name": "Marc Stad",
+          "firm": "dragoneer"
         },
         {
           "slug": "mary-meeker",
@@ -2089,6 +2050,11 @@
           "firm": "iconiq-growth"
         },
         {
+          "slug": "miles-grimshaw",
+          "name": "Miles Grimshaw",
+          "firm": "thrive-capital"
+        },
+        {
           "slug": "mood-rowghani",
           "name": "Mood Rowghani",
           "firm": "bond"
@@ -2097,6 +2063,11 @@
           "slug": "nancy-pfund",
           "name": "Nancy Pfund",
           "firm": "dbl-partners"
+        },
+        {
+          "slug": "neil-mehta",
+          "name": "Neil Mehta",
+          "firm": "greenoaks"
         },
         {
           "slug": "pat-grady",
@@ -2124,6 +2095,11 @@
           "firm": "sequoia-capital"
         },
         {
+          "slug": "reid-hoffman",
+          "name": "Reid Hoffman",
+          "firm": "greylock"
+        },
+        {
           "slug": "rich-wong",
           "name": "Rich Wong",
           "firm": "accel"
@@ -2134,9 +2110,44 @@
           "firm": "tcv"
         },
         {
+          "slug": "rick-yang",
+          "name": "Rick Yang",
+          "firm": "nea"
+        },
+        {
+          "slug": "roelof-botha",
+          "name": "Roelof Botha",
+          "firm": "sequoia-capital"
+        },
+        {
           "slug": "roger-mcnamee",
           "name": "Roger McNamee",
           "firm": "elevation-partners"
+        },
+        {
+          "slug": "sam-altman",
+          "name": "Sam Altman",
+          "firm": ""
+        },
+        {
+          "slug": "scott-sandell",
+          "name": "Scott Sandell",
+          "firm": "nea"
+        },
+        {
+          "slug": "scott-weiss",
+          "name": "Scott Weiss",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "shervin-pishevar",
+          "name": "Shervin Pishevar",
+          "firm": "sherpa-capital"
+        },
+        {
+          "slug": "sonja-hoel-perkins",
+          "name": "Sonja Hoel Perkins",
+          "firm": "broadway-angels"
         },
         {
           "slug": "sonya-huang",
@@ -2147,6 +2158,21 @@
           "slug": "steve-harrick",
           "name": "Steve Harrick",
           "firm": "ivp"
+        },
+        {
+          "slug": "talia-goldberg",
+          "name": "Talia Goldberg",
+          "firm": "bessemer-venture-partners"
+        },
+        {
+          "slug": "ted-maidenberg",
+          "name": "Ted Maidenberg",
+          "firm": "tribe-capital"
+        },
+        {
+          "slug": "theresia-gouw",
+          "name": "Theresia Gouw",
+          "firm": "acrew-capital"
         },
         {
           "slug": "tim-mcadam",
@@ -2194,7 +2220,7 @@
           "firm": "dst-global"
         }
       ],
-      "summary": "Growth, Series B-focused fintech, ai, saas investors primarily based in Sf Bay Area, with shared investments in Snowflake, Robinhood, Anthropic"
+      "summary": "Growth, Series B-focused fintech, saas, ai investors primarily based in Sf Bay Area, with shared investments in Slack, Airbnb, Robinhood"
     },
     {
       "id": 11,
@@ -2853,8 +2879,8 @@
       "tagline": "",
       "size": 30,
       "top_sectors": [
-        "fintech",
         "ai",
+        "fintech",
         "consumer-internet",
         "saas",
         "developer-tools"
@@ -3035,13 +3061,13 @@
           "firm": "mischief"
         }
       ],
-      "summary": "Seed, Series A-focused fintech, ai, consumer-internet investors primarily based in Sf Bay Area, with shared investments in Uber, Decagon, Spacex"
+      "summary": "Seed, Series A-focused ai, fintech, consumer-internet investors primarily based in Sf Bay Area, with shared investments in Uber, Decagon, Spacex"
     },
     {
       "id": 14,
       "name": "",
       "tagline": "",
-      "size": 51,
+      "size": 52,
       "top_sectors": [
         "fintech",
         "consumer-internet",
@@ -3241,6 +3267,11 @@
           "firm": "sequoia-capital"
         },
         {
+          "slug": "murat-bicer",
+          "name": "Murat Bicer",
+          "firm": "crv"
+        },
+        {
           "slug": "natalie-dillon",
           "name": "Natalie Dillon",
           "firm": "maveron"
@@ -3403,6 +3434,8 @@
     "alex-rodriguez": 2,
     "bill-gurley": 2,
     "bob-nelsen": 2,
+    "bryan-berg": 2,
+    "charlie-songhurst": 2,
     "chester-ng": 2,
     "dan-levitan": 2,
     "dan-portillo": 2,
@@ -3423,6 +3456,7 @@
     "kevin-rose": 2,
     "kyle-samani": 2,
     "larry-bohn": 2,
+    "leif-danielsen": 2,
     "mark-cuban": 2,
     "mike-slade": 2,
     "momei-qu": 2,
@@ -3451,6 +3485,7 @@
     "john-griffin": 3,
     "julian-robertson": 3,
     "lee-ainslie": 3,
+    "matt-ober": 3,
     "mike-fey": 3,
     "rob-citrone": 3,
     "romit-shah": 3,
@@ -3499,6 +3534,7 @@
     "kara-nortman": 5,
     "mark-suster": 5,
     "marlon-nichols": 5,
+    "omar-hamoui": 5,
     "scott-stanford": 5,
     "sean-parker": 5,
     "spencer-rascoff": 5,
@@ -3584,99 +3620,101 @@
     "danielle-strachman": 8,
     "david-cancel": 8,
     "david-frankel": 8,
-    "dor-knafo": 8,
     "elias-torres": 8,
-    "emily-heath": 8,
-    "gili-raanan": 8,
-    "hampus-jakobsson": 8,
+    "gary-benitt": 8,
     "harris-stolzenberg": 8,
-    "heidi-lindvall": 8,
-    "hila-zigman": 8,
     "howard-lindzon": 8,
-    "jeremie-berrebi": 8,
-    "joel-larsson": 8,
     "josh-kopelman": 8,
     "konstantin-othmer": 8,
     "leura-craig": 8,
-    "lior-simon": 8,
     "lolita-taub": 8,
     "matt-mullenweg": 8,
     "michael-gibson": 8,
-    "paul-graham": 8,
     "ryan-hoover": 8,
-    "xavier-niel": 8,
-    "yossi-vardi": 8,
-    "arjun-sethi": 9,
-    "aydin-senkut": 9,
-    "benny-peretz": 9,
-    "brian-feinstein": 9,
-    "brian-singerman": 9,
-    "chamath-palihapitiya": 9,
-    "david-krane": 9,
-    "david-sacks": 9,
-    "doug-leone": 9,
-    "eric-liaw": 9,
-    "everett-randle": 9,
-    "hans-tung": 9,
-    "ilya-fushman": 9,
-    "jennifer-fonstad": 9,
-    "john-doerr": 9,
-    "jonathan-hsu": 9,
-    "jules-maltz": 9,
-    "karen-page": 9,
-    "ken-howery": 9,
-    "mamoon-hamid": 9,
-    "marc-andreessen": 9,
-    "marc-benioff": 9,
-    "marc-stad": 9,
-    "miles-grimshaw": 9,
-    "neil-mehta": 9,
-    "reid-hoffman": 9,
-    "rick-yang": 9,
-    "roelof-botha": 9,
-    "sam-altman": 9,
-    "scott-sandell": 9,
-    "scott-weiss": 9,
-    "shervin-pishevar": 9,
-    "sonja-hoel-perkins": 9,
-    "talia-goldberg": 9,
-    "ted-maidenberg": 9,
-    "theresia-gouw": 9,
+    "tom-peterson": 8,
+    "dor-knafo": 9,
+    "emily-heath": 9,
+    "gili-raanan": 9,
+    "hampus-jakobsson": 9,
+    "heidi-lindvall": 9,
+    "hila-zigman": 9,
+    "jeremie-berrebi": 9,
+    "joel-larsson": 9,
+    "lior-simon": 9,
+    "paul-graham": 9,
+    "xavier-niel": 9,
+    "yossi-vardi": 9,
     "albert-chiang": 10,
     "andrew-braccia": 10,
     "andrew-feldman": 10,
     "andrew-reed": 10,
     "andy-rachleff": 10,
     "anu-hariharan": 10,
+    "arjun-sethi": 10,
+    "aydin-senkut": 10,
+    "benny-peretz": 10,
     "bob-kagle": 10,
     "brad-gerstner": 10,
+    "brian-feinstein": 10,
+    "brian-singerman": 10,
     "bruce-dunlevie": 10,
     "carl-eschenbach": 10,
+    "chamath-palihapitiya": 10,
     "clay-bavor": 10,
+    "david-krane": 10,
+    "david-sacks": 10,
     "david-sze": 10,
     "divesh-makan": 10,
+    "doug-leone": 10,
+    "eric-liaw": 10,
     "eric-vishria": 10,
+    "everett-randle": 10,
+    "hans-tung": 10,
+    "ilya-fushman": 10,
     "ilya-sutskever": 10,
     "ira-ehrenpreis": 10,
     "jamin-ball": 10,
     "jay-hoag": 10,
     "jeff-jordan": 10,
+    "jennifer-fonstad": 10,
+    "john-doerr": 10,
+    "jonathan-hsu": 10,
+    "jules-maltz": 10,
+    "karen-page": 10,
+    "ken-howery": 10,
     "kevin-harvey": 10,
     "laela-sturdy": 10,
+    "mamoon-hamid": 10,
+    "marc-andreessen": 10,
+    "marc-benioff": 10,
+    "marc-stad": 10,
     "mary-meeker": 10,
     "matt-jacobson": 10,
+    "miles-grimshaw": 10,
     "mood-rowghani": 10,
     "nancy-pfund": 10,
+    "neil-mehta": 10,
     "pat-grady": 10,
     "pete-briger": 10,
     "peter-chung": 10,
     "ram-parameswaran": 10,
     "ravi-gupta": 10,
+    "reid-hoffman": 10,
     "rich-wong": 10,
     "rick-kimball": 10,
+    "rick-yang": 10,
+    "roelof-botha": 10,
     "roger-mcnamee": 10,
+    "sam-altman": 10,
+    "scott-sandell": 10,
+    "scott-weiss": 10,
+    "shervin-pishevar": 10,
+    "sonja-hoel-perkins": 10,
     "sonya-huang": 10,
     "steve-harrick": 10,
+    "talia-goldberg": 10,
+    "ted-maidenberg": 10,
+    "theresia-gouw": 10,
     "tim-mcadam": 10,
     "tom-dyal": 10,
     "tom-loverro": 10,
@@ -3862,6 +3900,7 @@
     "meka-asonye": 14,
     "michael-dearing": 14,
     "michael-moritz": 14,
+    "murat-bicer": 14,
     "natalie-dillon": 14,
     "olaf-carlson-wee": 14,
     "oren-zeev": 14,
@@ -4131,8 +4170,8 @@
       "kristina-shen",
       "chetan-puttagunta",
       "andy-mcloughlin",
-      "salil-deshpande",
-      "greg-brockman"
+      "murat-bicer",
+      "salil-deshpande"
     ],
     "anu-duggal": [
       "sutian-dong",
@@ -4421,6 +4460,13 @@
       "andrew-braccia",
       "jeff-jordan"
     ],
+    "bryan-berg": [
+      "john-curtius",
+      "bob-muglia",
+      "geoff-lewis",
+      "joseph-ruscio",
+      "tobi-lutke"
+    ],
     "bryan-offutt": [
       "ishani-thakur",
       "peter-fenton",
@@ -4491,6 +4537,13 @@
       "todd-goldberg",
       "hunter-walk"
     ],
+    "charlie-songhurst": [
+      "leif-danielsen",
+      "hank-vigil",
+      "howard-morgan",
+      "michael-gibson",
+      "kathleen-estreich"
+    ],
     "chase-coleman": [
       "stan-druckenmiller",
       "jay-hoag",
@@ -4527,18 +4580,18 @@
       "philippe-laffont"
     ],
     "chris-fralic": [
+      "tom-peterson",
       "josh-kopelman",
       "steve-anderson",
       "sami-inkinen",
-      "hayley-barna",
-      "lo-toney"
+      "hayley-barna"
     ],
     "chris-hulls": [
       "itamar-novick",
       "josh-kopelman",
       "ajay-kamat",
-      "howard-lindzon",
-      "ryan-hoover"
+      "gary-benitt",
+      "howard-lindzon"
     ],
     "chris-sacca": [
       "john-hummer",
@@ -5034,8 +5087,8 @@
       "kathleen-estreich",
       "william-hsu",
       "hank-vigil",
-      "jack-abraham",
-      "turner-novak"
+      "charlie-songhurst",
+      "gary-benitt"
     ],
     "esther-dyson": [
       "fritz-lanman",
@@ -5118,8 +5171,8 @@
       "jeremy-levine",
       "lo-toney",
       "jose-marin",
-      "hayley-barna",
-      "kenneth-lerer"
+      "matt-ober",
+      "hayley-barna"
     ],
     "gabe-greenbaum": [
       "raj-ganguly",
@@ -5141,6 +5194,13 @@
       "naval-ravikant",
       "geoff-ralston",
       "paul-buchheit"
+    ],
+    "gary-benitt": [
+      "tom-peterson",
+      "howard-lindzon",
+      "josh-kopelman",
+      "lolita-taub",
+      "ajay-kamat"
     ],
     "gautam-gupta": [
       "bennett-siegel",
@@ -5255,11 +5315,11 @@
       "paul-graham"
     ],
     "hank-vigil": [
+      "leif-danielsen",
+      "charlie-songhurst",
       "joseph-ruscio",
       "erik-rannala",
-      "turner-novak",
-      "bob-muglia",
-      "jack-abraham"
+      "turner-novak"
     ],
     "hans-tung": [
       "mamoon-hamid",
@@ -5293,8 +5353,8 @@
       "david-tisch",
       "fritz-lanman",
       "scott-belsky",
-      "naveen-selvadurai",
-      "yotam-segev"
+      "matt-ober",
+      "naveen-selvadurai"
     ],
     "heidi-lindvall": [
       "joel-larsson",
@@ -5346,11 +5406,11 @@
       "alexis-ohanian"
     ],
     "howard-lindzon": [
+      "tom-peterson",
+      "gary-benitt",
       "ajay-kamat",
       "josh-kopelman",
-      "lolita-taub",
-      "bryce-roberts",
-      "ryan-hoover"
+      "lolita-taub"
     ],
     "howard-morgan": [
       "eric-hippeau",
@@ -5433,8 +5493,8 @@
       "kevin-hartz",
       "kyle-vogt",
       "ramtin-naimi",
-      "greg-brockman",
-      "paul-copplestone"
+      "leif-danielsen",
+      "greg-brockman"
     ],
     "jack-abraham": [
       "chester-ng",
@@ -5672,7 +5732,7 @@
       "greg-sands",
       "kristina-shen",
       "chetan-puttagunta",
-      "shaun-maguire"
+      "murat-bicer"
     ],
     "john-curtius": [
       "bob-muglia",
@@ -5824,9 +5884,9 @@
     "kara-nortman": [
       "mark-suster",
       "troy-carter",
+      "omar-hamoui",
       "travis-kalanick",
-      "scott-stanford",
-      "matt-cohler"
+      "scott-stanford"
     ],
     "karan-mohla": [
       "eduardo-saverin",
@@ -5871,11 +5931,11 @@
       "julie-yoo"
     ],
     "kathleen-estreich": [
+      "charlie-songhurst",
       "erik-rannala",
       "turner-novak",
       "ajay-kamat",
-      "dan-portillo",
-      "joseph-ruscio"
+      "dan-portillo"
     ],
     "katie-haun": [
       "matt-huang",
@@ -6059,6 +6119,13 @@
       "nat-turner",
       "martin-mignot"
     ],
+    "leif-danielsen": [
+      "hank-vigil",
+      "charlie-songhurst",
+      "joseph-ruscio",
+      "turner-novak",
+      "bob-muglia"
+    ],
     "leura-craig": [
       "bryce-roberts",
       "josh-kopelman",
@@ -6105,8 +6172,8 @@
       "ajay-kamat",
       "josh-kopelman",
       "bryce-roberts",
-      "howard-lindzon",
-      "ryan-hoover"
+      "gary-benitt",
+      "howard-lindzon"
     ],
     "luciana-lixandru": [
       "neil-rimer",
@@ -6214,18 +6281,18 @@
       "chetan-puttagunta"
     ],
     "mark-suster": [
+      "omar-hamoui",
       "kara-nortman",
       "scott-stanford",
       "eric-hippeau",
-      "travis-kalanick",
-      "troy-carter"
+      "travis-kalanick"
     ],
     "marlon-nichols": [
       "adrian-fenty",
       "david-lee",
       "troy-carter",
       "lo-toney",
-      "mark-suster"
+      "tom-peterson"
     ],
     "martin-casado": [
       "saam-motamedi",
@@ -6265,9 +6332,9 @@
     "maryanna-saenko": [
       "steve-jurvetson",
       "stephen-oskoui",
+      "charlie-songhurst",
       "josh-wolfe",
-      "nick-hanauer",
-      "dror-berman"
+      "nick-hanauer"
     ],
     "matt-cohler": [
       "bruce-dunlevie",
@@ -6303,6 +6370,13 @@
       "benny-peretz",
       "scott-sandell",
       "sundeep-peechu"
+    ],
+    "matt-ober": [
+      "tom-peterson",
+      "karim-atiyeh",
+      "assaf-rappaport",
+      "fritz-lanman",
+      "logan-bartlett"
     ],
     "matt-robinson": [
       "jeff-horing",
@@ -6507,6 +6581,13 @@
       "kanyi-maqubela",
       "garry-tan"
     ],
+    "murat-bicer": [
+      "dana-oshiro",
+      "martin-casado",
+      "saam-motamedi",
+      "reid-christian",
+      "kristina-shen"
+    ],
     "nabeel-hyatt": [
       "simon-rothman",
       "bijan-sabet",
@@ -6668,6 +6749,13 @@
       "shardul-shah",
       "dana-oshiro"
     ],
+    "omar-hamoui": [
+      "william-hsu",
+      "mark-suster",
+      "travis-kalanick",
+      "kara-nortman",
+      "scott-stanford"
+    ],
     "oren-zeev": [
       "mark-goldberg",
       "martina-lauchengco",
@@ -6683,11 +6771,11 @@
       "anu-duggal"
     ],
     "palmer-luckey": [
+      "charlie-songhurst",
       "jack-abraham",
       "maryanna-saenko",
       "erik-rannala",
-      "hank-vigil",
-      "joseph-ruscio"
+      "hank-vigil"
     ],
     "par-jorgen-parson": [
       "josh-kushner",
@@ -6872,11 +6960,11 @@
       "naveen-selvadurai"
     ],
     "reid-christian": [
+      "murat-bicer",
       "girish-mathrubootham",
       "john-cowgill",
       "kristina-shen",
-      "martina-lauchengco",
-      "sarah-guo"
+      "martina-lauchengco"
     ],
     "reid-hoffman": [
       "david-sacks",
@@ -7055,10 +7143,10 @@
     ],
     "sami-inkinen": [
       "chris-fralic",
+      "tom-peterson",
       "ajay-kamat",
       "bryce-roberts",
-      "ryan-hoover",
-      "josh-kopelman"
+      "ryan-hoover"
     ],
     "samir-kaul": [
       "vinod-khosla",
@@ -7126,9 +7214,9 @@
     "scott-stanford": [
       "troy-carter",
       "mark-suster",
+      "omar-hamoui",
       "shervin-pishevar",
-      "david-lee",
-      "adrian-fenty"
+      "david-lee"
     ],
     "scott-weiss": [
       "kevin-systrom",
@@ -7302,8 +7390,8 @@
       "luke-nosek",
       "jerry-yang",
       "maryanna-saenko",
-      "josh-wolfe",
-      "larry-bohn"
+      "charlie-songhurst",
+      "josh-wolfe"
     ],
     "steve-anderson": [
       "lo-toney",
@@ -7317,7 +7405,7 @@
       "jim-breyer",
       "ajay-kamat",
       "ryan-hoover",
-      "josh-kopelman"
+      "tom-peterson"
     ],
     "steve-harrick": [
       "carl-eschenbach",
@@ -7473,6 +7561,13 @@
       "benny-peretz",
       "neil-mehta"
     ],
+    "tom-peterson": [
+      "gary-benitt",
+      "howard-lindzon",
+      "matt-ober",
+      "josh-kopelman",
+      "lo-toney"
+    ],
     "tom-preston-werner": [
       "guillermo-rauch",
       "ali-rowghani",
@@ -7509,11 +7604,11 @@
       "katherine-boyle"
     ],
     "travis-kalanick": [
+      "omar-hamoui",
       "kara-nortman",
       "troy-carter",
       "mark-suster",
-      "scott-stanford",
-      "spencer-rascoff"
+      "scott-stanford"
     ],
     "trevor-oelschig": [
       "mike-vernal",
@@ -7607,11 +7702,11 @@
       "matt-murphy"
     ],
     "william-hsu": [
+      "omar-hamoui",
       "erik-rannala",
       "spencer-rascoff",
       "adrian-fenty",
-      "mark-suster",
-      "brianne-kimmel"
+      "mark-suster"
     ],
     "woody-marshall": [
       "jay-hoag",

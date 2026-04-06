@@ -15,6 +15,7 @@ last_verified_investment:
   date: 2026-02-24
   company: "Isavy Biotech"
   round: "Seed"
+tldr: "Leif Danielsen is a GP at Acequia Capital, a Seattle-based seed fund with 350+ investments across 25+ countries. The portfolio spans enterprise software (32%), consumer tech (15%), and high tech (15%), though the firm markets its 'New Industrials' focus (space, nuclear, manufacturing). Notable portfolio companies include Pinterest, Flexport, Glean, Formlabs, and Rigetti Computing. He also co-founded The New Industrial Corporation in 2024."
 status: published
 last_researched: 2026-04-05
 ---

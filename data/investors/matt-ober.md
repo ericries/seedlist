@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@obermattj"
   linkedin: "linkedin.com/in/obermattj"
+tldr: "Matt Ober is a Managing Partner at Social Leverage, a seed-stage fund focused on fintech and vertical AI. A former Chief Data Scientist at Third Point Management and co-head of data strategies at WorldQuant, he brings a rare buy-side data science perspective to venture. He applies a 'data value chain lens' to evaluate startups, writing $1-2M checks. The firm's Fund V closed at $85M in 2024."
 status: published
 last_researched: 2026-04-05
 ---

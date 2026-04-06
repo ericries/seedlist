@@ -23,6 +23,7 @@ last_verified_investment:
 social:
   twitter: "@NancyPfundDBL"
   linkedin: linkedin.com/in/nancy-pfund-30b6ab13
+tldr: "Nancy Pfund is the founder and managing partner of DBL Partners, a $1.5B+ 'double bottom line' VC firm she spun out of JPMorgan in 2008. Clean energy and climate dominate her portfolio at 39%, with deep ties to the Elon Musk ecosystem (Tesla, SolarCity, SpaceX, The Boring Company, xAI). At least five companies in her first fund went public, including Tesla and Pandora. She started her finance career in 1984 and launched DBL at age 50."
 status: published
 last_researched: 2026-03-28
 ---

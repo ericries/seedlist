@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@jamespaulwise"
   linkedin: "linkedin.com/in/jamespaulwise"
+tldr: "James Wise is a Partner at Balderton Capital and inaugural Chair of the UK Government's Sovereign AI Unit (a GBP 500M fund). His portfolio concentrates on AI/ML (30%), digital health (20%), and energy/climate (15%), with a notable 30% allocation to German companies. He gravitates toward technically deep, academically credentialed founders. Notable exits include Depop (acquired by Etsy for $1.625B) and GoCardless."
 status: published
 last_researched: 2026-03-31
 ---

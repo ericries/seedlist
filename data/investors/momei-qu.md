@@ -14,6 +14,7 @@ last_verified_investment:
   round: "Series C"
 social:
   linkedin: "linkedin.com/in/momei-qu-aa301012"
+tldr: "Momei Qu is the Managing Director and Head of PSP Growth, the venture arm of Penny Pritzker's private investment firm PSP Partners. She invests $1-25M in Series B through pre-IPO B2B software companies, with a distinctive proptech/construction-tech specialization (33% of verified deals). PSP's real estate operations give her an insider edge in evaluating proptech startups. Notable investments include OpenSpace ($102M Series D lead) and Synthesia."
 status: published
 last_researched: 2026-04-02
 ---

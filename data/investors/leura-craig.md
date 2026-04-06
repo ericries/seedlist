@@ -25,6 +25,7 @@ social:
 stage_focus:
 - pre-seed
 - seed
+tldr: "Leura Craig is the Managing Partner and co-founder of Outlander VC, an Atlanta-based pre-seed/seed fund she co-founded with Paige Craig. A former founder herself (Laurel & Wolf, raised $25M+ from Benchmark and CRV), she focuses on future of commerce, consumer, and hardware/robotics. The firm reports 62% diverse founders in its portfolio and invests $500K-$2.5M checks nationally, with particular strength outside traditional tech hubs."
 status: published
 type: individual
 ---

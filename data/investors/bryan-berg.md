@@ -14,6 +14,7 @@ last_verified_investment:
   date: 2026-04-03
   company: "Insight Health"
   round: "Series A"
+tldr: "Bryan Berg is Co-Founder and GP of Standard Capital, an AI-native Series A firm with a $425M debut fund. A former Stripe Staff Engineer and co-founder of App.net, Berg invests exclusively in Series A AI companies with $6M-$16M checks. The firm requires no warm intros, takes no board seats, and funds approximately 20 companies per year."
 status: published
 last_researched: 2026-04-05
 ---

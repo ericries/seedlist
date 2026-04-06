@@ -23,6 +23,7 @@ stage_focus:
 - series-b
 - series-c
 - growth
+tldr: "Divesh Makan is the founder and CEO of ICONIQ Capital, a $80B+ multi-family office and growth equity firm whose clients include Mark Zuckerberg, Jack Dorsey, and Satya Nadella. Through ICONIQ Growth ($21B across seven funds), the firm invests primarily at Series B+ in enterprise SaaS (73% of portfolio), with notable investments in Datadog, Snowflake, GitLab, and Anthropic. His wealth management network provides unmatched founder introductions."
 status: published
 type: individual
 ---

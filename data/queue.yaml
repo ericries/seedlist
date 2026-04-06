@@ -8109,7 +8109,7 @@ queue:
 - name: Reid Christian
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: CRV
   discovered_from: crv
@@ -8317,7 +8317,7 @@ queue:
 - name: Lee Shapiro
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 7wire Ventures
   discovered_from: 7wire-ventures
@@ -8480,7 +8480,7 @@ queue:
 - name: Nicolas Szekasy
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kaszek
   discovered_from: kaszek-ventures
@@ -8499,7 +8499,7 @@ queue:
 - name: Spencer Applebaum
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Multicoin Capital
   discovered_from: multicoin-capital
@@ -8975,7 +8975,7 @@ queue:
 - name: Emily Cohen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Neo
   discovered_from: neo
@@ -9260,7 +9260,7 @@ queue:
 - name: Matt Clifford
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Entrepreneurs First
   discovered_from: charlie-songhurst
@@ -9313,3 +9313,96 @@ queue:
   added: '2026-03-17'
   discovered_from: round-monitoring
   source: led $6.3M seed in Miravoice
+- name: Nicolas Berman
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: nicolas-szekasy
+- name: Mariana Donangelo
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: nicolas-szekasy
+- name: Santiago Fossatti
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: nicolas-szekasy
+- name: Angel Uribe
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: nicolas-szekasy
+- name: Andy Young
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Kaszek
+  discovered_from: nicolas-szekasy
+- name: Arvo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nicolas-szekasy
+- name: Christian Lawless
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Conversion Capital
+  discovered_from: emily-cohen
+- name: Conversion Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emily-cohen
+- name: Cognition
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: emily-cohen
+- name: Cindy Leow
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Drift Labs
+  discovered_from: spencer-applebaum
+- name: David Lu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Drift Labs
+  discovered_from: spencer-applebaum
+- name: Alice Bentinck
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Entrepreneurs First
+  discovered_from: matt-clifford
+- name: Tractable
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-clifford
+- name: Cleo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-clifford

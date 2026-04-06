@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@omarh"
   linkedin: "linkedin.com/in/omar-hamoui-2165"
+tldr: "Omar Hamoui is a Partner at Mucker Capital, writing $2-5M checks at post-seed and Series A. The founder of AdMob (acquired by Google for $750M) and a former Sequoia Capital partner covering LA/SoCal, he looks for founders with deep domain expertise who discover 'cracks in the world.' His portfolio spans ad-tech, enterprise SaaS, consumer, and logistics with a strong Southern California concentration."
 status: published
 last_researched: 2026-04-05
 ---

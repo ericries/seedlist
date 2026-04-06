@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@willhsu"
   linkedin: "linkedin.com/in/william-hsu-032273"
+tldr: "William Hsu is the co-founder and managing partner of Mucker Capital, an LA-based seed fund with 169+ active portfolio companies. A former AT&T Interactive CPO and founder of BuildPoint (acquired by Roper Technologies), he runs an accelerator model investing $100K-$3M with deep operational support. The portfolio skews enterprise SaaS and is heavily LA-concentrated. Notable investments include ServiceTitan and Honey."
 status: published
 last_researched: 2026-04-03
 ---

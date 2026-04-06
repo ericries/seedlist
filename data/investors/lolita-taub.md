@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@lolitataub"
   linkedin: "linkedin.com/in/lolitataub"
+tldr: "Lolita Taub is the founder and GP of Ganas Ventures, the first 506(c) Traditional Fund on AngelList led by a Latina woman. She writes $100K checks at pre-seed/seed into community-driven startups across the US and Latin America. The portfolio is 90% BIPOC-led and 50% Latine-led, split evenly between US and LatAm. Former enterprise sales leader at IBM/Cisco and Principal at Backstage Capital."
 status: published
 last_researched: 2026-03-30
 ---

@@ -147,6 +147,9 @@ investors:
 - round: Seed
   slug: hernan-kazah
   year: 2013
+- round: Pre-Seed
+  slug: nicolas-szekasy
+  year: 2013
 last_researched: 2026-03-31
 location: São Paulo, Brazil
 name: Nubank

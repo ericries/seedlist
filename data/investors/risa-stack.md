@@ -14,6 +14,7 @@ last_verified_investment:
   round: "Series A Extension"
 social:
   linkedin: "linkedin.com/in/risastackphd"
+tldr: "Risa Stack, Ph.D., is a Partner at The Production Board and a company builder rather than a pure financial investor. An immunology PhD who co-founded Veracyte (NASDAQ: VCYT) and built seven companies at GE Ventures, she focuses on life sciences and diagnostics (68% of portfolio). Her signature is molecular diagnostics -- Veracyte, Foundation Medicine, PinkDx -- and she evaluates founders through scientific whiteboarding sessions."
 status: published
 last_researched: 2026-04-02
 ---

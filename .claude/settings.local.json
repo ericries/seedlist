@@ -59,7 +59,10 @@
       "Bash(python3 scripts/sl build 2>&1 | tail -3)",
       "Bash(python3 scripts/sl fix-citations nea 2>&1)",
       "Bash(python3 scripts/sl lint nea --no-fetch 2>&1)",
-      "Bash(python3 scripts/sl queue individual | head -5)"
+      "Bash(python3 scripts/sl queue individual | head -5)",
+      "Bash(pip3 install:*)",
+      "Bash(/usr/local/bin/python3 -m pip install --user scipy numpy)",
+      "Bash(.venv/bin/pip install:*)"
     ]
   }
 }

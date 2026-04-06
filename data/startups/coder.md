@@ -1,23 +1,36 @@
 ---
-name: Coder
-slug: coder
-type: startup
-website: https://coder.com
+firms:
+- round: series-c
+  slug: uncork-capital
+  year: 2026
+- round: Series B (GGV led, $30M)
+  slug: notable-capital
+  year: 2020
+founders: []
+investors:
+- round: Seed
+  slug: andy-mcloughlin
+  year: 2018
+- round: Seed
+  slug: jeff-clavier
+  year: 2018
+- round: Series B (GGV led, $30M)
+  slug: glenn-solomon
+  year: 2020
+last_researched: 2026-04-06
 location: Austin, TX
-status_company: active
+name: Coder
 sector:
 - developer-tools
 - AI
 - infrastructure
+slug: coder
 stage_latest: Series C
-total_raised: $90M
-firms:
-- slug: uncork-capital
-  round: series-c
-  year: 2026
-founders: []
 status: published
-last_researched: 2026-04-06
+status_company: active
+total_raised: $90M
+type: startup
+website: https://coder.com
 ---
 
 ## About

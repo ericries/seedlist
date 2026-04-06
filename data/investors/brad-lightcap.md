@@ -26,6 +26,7 @@ last_verified_investment:
 social:
   twitter: "@bradlightcap"
   linkedin: "linkedin.com/in/bradlightcap"
+tldr: "Brad Lightcap is OpenAI's COO and manager of the $175M OpenAI Startup Fund, investing $1M-$50M across AI-native companies. His portfolio is 100% AI-focused but sector-diverse, spanning legal tech, edtech, healthcare, developer tools, and robotics, with 50% at seed stage. Notable investments include Anysphere (Cursor), Harvey, and Figure AI."
 status: published
 last_researched: 2026-04-02
 ---

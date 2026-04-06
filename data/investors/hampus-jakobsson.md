@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@hajak"
   linkedin: "linkedin.com/in/hampusjakobsson"
+tldr: "Hampus Jakobsson is a Swedish entrepreneur turned investor, co-founder and GP of Pale Blue Dot (climate-tech seed fund) and co-founder of Nordic Makers angel syndicate. Former co-founder of The Astonishing Tribe (acquired by BlackBerry for ~$150M), he has made 100+ angel investments predominantly in Nordics. His portfolio split: 35% climate tech (via Pale Blue Dot), 23% enterprise SaaS, with the remainder across health, consumer, and IoT."
 status: published
 last_researched: 2026-03-30
 ---

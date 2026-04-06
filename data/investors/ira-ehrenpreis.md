@@ -27,6 +27,7 @@ last_verified_investment:
 social:
   twitter: "@IraEhrenpreis"
   linkedin: "linkedin.com/in/iraehrenpreis"
+tldr: "Ira Ehrenpreis is the founder and managing partner of DBL Partners, a $1.5B+ impact investing VC firm pursuing 'zero tradeoffs' between financial returns and social/environmental impact. A Tesla board member since 2007 who co-led Tesla's Series D, his portfolio is 39% clean energy/climate tech and 11% agriculture/food tech. Notable investments include Tesla, SolarCity, SpaceX, Planet Labs, and xAI."
 status: published
 last_researched: 2026-03-30
 ---

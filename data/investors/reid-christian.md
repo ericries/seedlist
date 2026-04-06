@@ -9,14 +9,15 @@ stage_focus: [seed, series-a]
 sector_focus: [developer-tools, saas, enterprise, european-b2b, ai, cybersecurity, vertical-saas, hr-tech, fertility-benefits]
 check_size: "$500K-$20M"
 last_verified_investment:
-  date: 2024-10-29
-  company: "Browserbase"
-  round: "Series A"
+  date: 2026-03-18
+  company: "Metis"
+  round: "Seed"
 social:
   twitter: "@reidRMC"
   linkedin: "linkedin.com/in/reidchristian"
+tldr: "General Partner at CRV focused on developer tools and European B2B software. Developer tools and infrastructure dominate his portfolio at 50% of 20 verified companies, with an unusual 30% allocation to European companies (Factorial, Tinybird, Checkly, Lokalise, Strapi, Gtmhub). Looks for founders 'scratching their own itch' with products already validated in market. Notable investments include Vercel, Tailscale, Clerk, and Browserbase. Non-technical background (Waldorf school, Bates College basketball captain) but validates deals by pinging '100 of the smartest engineers I know.'"
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-04-06
 ---
 
 ## Background
@@ -39,25 +40,26 @@ Regarding European founders, he has noted: "Because maybe there hasn't been as m
 
 ## Inferred Thesis
 
-Based on 18 verified investments, Christian's actual portfolio reveals a clear emphasis on developer tools and infrastructure, with significant activity in European B2B software.
+Based on 22 verified investments (including follow-ons), Christian's actual portfolio reveals a clear emphasis on developer tools and infrastructure, with significant activity in European B2B software.
 
-**Sector breakdown** (18 verified investments):
-- Developer tools / infrastructure: 10 of 18 (56%) — Vercel, Checkly, Browserbase, Chromatic, CodeRabbit, Tinybird, LocalStack, ProjectDiscovery, Tailscale, GreyNoise
-- Vertical SaaS / operations: 3 of 18 (17%) — Squire, Factorial, Lokalise
-- Enterprise SaaS / productivity: 2 of 18 (11%) — Gtmhub/Quantive, Fleet
-- Healthcare / benefits: 1 of 18 (6%) — Carrot Fertility
-- Cybersecurity: 1 of 18 (6%) — Automox
-- Other: 1 of 18 (6%) — bbot/DoorDash
+**Sector breakdown** (22 verified investments, counting unique companies = 20):
+- Developer tools / infrastructure: 10 of 20 (50%) — Vercel, Checkly, Browserbase, Chromatic, CodeRabbit, Tinybird, LocalStack, Tailscale, Strapi, Clerk
+- Cybersecurity / security tools: 3 of 20 (15%) — GreyNoise, ProjectDiscovery, Automox
+- Vertical SaaS / operations: 3 of 20 (15%) — Squire, Factorial, Lokalise
+- Enterprise SaaS / productivity: 2 of 20 (10%) — Gtmhub/Quantive, Fleet
+- Healthcare / benefits: 1 of 20 (5%) — Carrot Fertility
+- AI: 1 of 20 (5%) — Metis (acquired by DoorDash, March 2026)
+- Other: 1 of 20 (5%) — bbot (acquired by DoorDash)
 
-**Stage distribution**: Predominantly Seed and Series A investments. Christian's check size ranges from $500K to $20M with a sweet spot around $13M [^11]. CRV led or co-led the majority of his investments.
+**Stage distribution** (22 entries including follow-ons): 3 seed (14%), 10 Series A (45%), 7 Series B (32%), 2 early/unknown (9%). Christian's stated focus on Series A aligns — it is his single largest stage. His Series B investments (Tailscale, Strapi, Clerk, Squire, Lokalise, GreyNoise follow-on, Factorial follow-on) reflect CRV doubling down on winners. Check size ranges from $500K to $20M with a sweet spot around $13M [^11].
 
-**Geographic patterns**: Notable European exposure, unusual for a Bay Area-based GP. European portfolio companies include Factorial (Barcelona), Lokalise (Latvia), Tinybird (Madrid), Gtmhub/Quantive (Bulgaria), and Checkly (Berlin). This represents at least 5 of 18 verified investments (28%) in European companies.
+**Geographic patterns**: Notable European exposure, unusual for a Bay Area-based GP. European portfolio companies include Factorial (Barcelona), Lokalise (Latvia), Tinybird (Madrid), Gtmhub/Quantive (Bulgaria), Checkly (Berlin), and Strapi (Paris). At least 6 of 20 unique companies (30%) are European, which is unusually high for a Bay Area VC.
 
-**Founder profile patterns**: Strong preference for technical founders building tools for other developers or solving industry-specific pain points they experienced firsthand. Several investments involve founders with deep domain expertise (Tammy Sun at Carrot from personal fertility experience, Dave Salvant and Songe LaRon at Squire from barbershop industry knowledge).
+**Founder profile patterns**: Strong preference for technical founders building tools for other developers or solving industry-specific pain points they experienced firsthand. Several investments involve founders with deep domain expertise (Guillermo Rauch at Vercel as creator of Next.js, Tammy Sun at Carrot from personal fertility experience, Dave Salvant and Songe LaRon at Squire from barbershop industry knowledge). Christian also backs open-source-first companies (Strapi, ProjectDiscovery, Chromatic).
 
-**Co-investor patterns**: Frequent co-investors include Tiger Global (Squire), Accel (Vercel, Tailscale), Kleiner Perkins (Browserbase), Creandum (Factorial, Lokalise), and Y Combinator alumni companies.
+**Co-investor patterns**: Frequent co-investors include Accel (Vercel, Checkly, Tailscale), Kleiner Perkins (Browserbase), Stripe (Clerk), Creandum (Factorial, Lokalise), Index Ventures (Strapi), and Y Combinator alumni companies.
 
-**Notable gaps**: While CRV's portfolio broadly includes consumer companies (DoorDash, Patreon), Christian's personal investments are overwhelmingly B2B and developer-focused. His stated interest in "enterprise and consumer" leans heavily enterprise in practice. Fintech companies like Pilot and Mercury appear in CRV's broader portfolio but are not clearly attributed to Christian's personal deal-making.
+**Notable gaps**: While CRV's portfolio broadly includes consumer companies (DoorDash, Patreon), Christian's personal investments are overwhelmingly B2B and developer-focused. His stated interest in "enterprise and consumer" leans heavily enterprise in practice. Fintech is absent from his personal portfolio despite CRV colleague Saar Gur's Mercury investment. Christian's true specialty is narrower and more technical than CRV's public positioning suggests: developer infrastructure, security tooling, and European B2B SaaS.
 
 ## Portfolio
 
@@ -77,12 +79,16 @@ Based on 18 verified investments, Christian's actual portfolio reveals a clear e
 | CodeRabbit | 2024 | Series A (lead) | Developer tools / AI | [^23] |
 | Chromatic | ~2019 | Seed | Developer tools | [^11] |
 | bbot (DoorDash) | ~2017 | Early stage | Logistics | [^11] |
-| GreyNoise | ~2020 | Early stage | Cybersecurity | [^8] |
-| ProjectDiscovery | ~2021 | Early stage | Security tools | [^24] |
+| GreyNoise Intelligence | 2020 | Seed | Cybersecurity | [^28] |
+| GreyNoise Intelligence | 2022 | Series A | Cybersecurity | [^29] |
+| Strapi | 2022 | Series B (lead) | Developer tools | [^30] |
+| ProjectDiscovery | 2023 | Series A (lead) | Security tools | [^31] |
+| Clerk | 2024 | Series B (lead) | Developer tools | [^32] |
+| Metis | ~2025 | Seed | AI | [^33] |
 | Fleet | ~2021 | Early stage | Device management | [^24] |
 | LocalStack | ~2021 | Early stage | Developer tools | [^11] |
 
-This table represents an estimated 60%+ of Christian's known investments. He is reported to have approximately 29 partner investments according to aggregator data [^11].
+This table represents 22 verified investments (including follow-ons). Christian has approximately 29 partner investments per Crunchbase [^11].
 
 ## In Their Own Words
 
@@ -96,13 +102,31 @@ This table represents an estimated 60%+ of Christian's known investments. He is 
 
 "From an investment perspective, backing Dave and Songe with their unique perspective on the industry, coupled with the underlying structural shift in how consumers expect to interact with businesses, made this a unique opportunity to revolutionize an entire market." — Reid Christian, on CRV's investment in Squire, TechCrunch, June 2020 [^13]
 
+"I can't think of a bigger, hairier problem to tackle with a strong team that is razor focused on making the user experience simultaneously seamless and secure." — Reid Christian, on CRV's investment in Tailscale, CRV blog post, May 2022 [^34]
+
+"Enabling broader access to family formation is personally important to me. One of my family members is gay, one is transgender, and one was conceived through surrogacy." — Reid Christian, on CRV's investment in Carrot Fertility, CRV blog post, April 2019 [^35]
+
+"We surveyed all of the OKR platforms in the market and found that Gtmhub not only had the strongest, most diverse team but it's the only product that addresses and meets the standards of small companies up through enterprises and governments." — Reid Christian, CRV blog post on Gtmhub investment, December 2019 [^36]
+
+"With cyberattacks and new vulnerabilities emerging and evolving at an accelerating rate, it's clear that traditional black-box approaches focused on compliance are ill-equipped to keep pace." — Reid Christian, ProjectDiscovery Series A announcement, August 2023 [^31]
+
+"The tremendous growth of Lokalise reflects the global community we live in, where a multinational workforce and customer base is the norm and not the exception." — Reid Christian, Lokalise Series B announcement, December 2021 [^21]
+
+"Finding a content management system that delights developers and allows them to move fast while providing the content managers with a high level of autonomy remains a challenge for many companies. With its developer-first approach based on open source and customization, Strapi is uniquely positioned to solve that challenge." — Reid Christian, Strapi Series B announcement, June 2022 [^30]
+
+"The `<SignIn/>` and `<UserProfile/>` components from Clerk have already set a new standard in authentication, and proven that components are the new APIs." — Reid Christian, Clerk Series B announcement, January 2024 [^32]
+
+"I go and ping 100 of the smartest engineers I know" — Reid Christian, on how he validates developer tool investments despite his non-technical background, The Full Ratchet podcast [^5]
+
 ## What Founders Say
 
 One anonymous founder reviewed their experience with Reid Christian on VC Guide, stating they "ended up raising from CRV mostly because of Reid," describing him as "crazy ambitious and driven" and "hyper available and ready to do whatever it takes to help us win." The founder reported rejecting another term sheet with a 40% higher valuation because they were confident that having Reid on their board would be worth more in the long term. The founder also noted that Reid is "the most demanding person" who questions everything, and while this wasn't always relaxing, it made them a better business, calling Reid an excellent board member [^25].
 
 A second founder review on VC Guide noted: "Busy, but I've had very pleasant interactions with Reid each time I've spent time with him" [^26].
 
-No additional independently sourced founder testimonials found beyond VC Guide reviews.
+"For us, finding the right early-stage VC firm was all about increasing our productivity and accelerating our growth. Selecting CRV as our partner was easy given the firm's commitment to the developer community and its track record for working alongside founders, not just in the startup phase, but through IPO and beyond." — CodeRabbit founders, CodeRabbit Series A announcement, August 2024 [^23]
+
+No additional independently sourced founder testimonials found beyond VC Guide reviews and official company announcements.
 
 ## Connections
 
@@ -120,8 +144,14 @@ No additional independently sourced founder testimonials found beyond VC Guide r
 - **Board Member, ProjectDiscovery** [^24]
 - **Board Member, GreyNoise Intelligence** [^24]
 - **Board Member, Fleet Device Management** [^24]
+- **Board Member, Strapi** — since 2022 [^30]
+- **Board Member, Clerk** — since 2024 [^32]
 - **Former Associate, Battery Ventures** — involved in OpsGenie Series A, later acquired by Atlassian for $295M [^4][^7]
-- **Former Growth Equity Associate, Symmetric Capital** [^4]
+- **Former Growth Equity Associate, Symmetric Capital** ($200M fund) [^4][^5]
+- **Former employee, Salsify** (venture-backed startup) [^5]
+- **Former analyst, RBC Capital Markets** and **TM Capital** [^4][^5]
+- **Frequent co-investor with Accel** (Vercel, Checkly, Tailscale) [^12][^19][^18]
+- **Frequent co-investor with Creandum** (Factorial, Lokalise) [^14][^21]
 - **Forbes Midas Brink List** (2022) — recognized as rising star in venture capital [^8]
 
 ## Sources
@@ -153,3 +183,12 @@ No additional independently sourced founder testimonials found beyond VC Guide r
 [^25]: VC Guide, "Reid Christian from CRV - Founder Review," accessed April 2026. https://www.vcguide.co/reviews/recgWABZOIi76Z0Hl
 [^26]: VC Guide, "Reid Christian from CRV - Founder Review," accessed April 2026. https://www.vcguide.co/reviews/recDkvVzRmhYDWvJb
 [^27]: Crunchbase, "Chromatic Company Profile," accessed April 2026. https://www.crunchbase.com/organization/chromaticqa
+[^28]: "GreyNoise — Do Know Evil," Reid Christian, CRV Medium blog, accessed April 2026. https://medium.com/crv-insights/greynoise-do-know-evil-b8f3c73566bd
+[^29]: Evalyze.ai, "Reid Christian Investor Profile," accessed April 2026. https://www.evalyze.ai/investors/reid-christian
+[^30]: Business Wire, "Strapi Secures $31 Million in Series B Funding," June 22, 2022. https://www.businesswire.com/news/home/20220622005234/en/Strapi-Secures-31-Million-in-Series-B-Funding-to-Further-Develop-Open-Source-Headless-Content-Management-System-and-Deliver-Cloud-Platform
+[^31]: PR Newswire, "Cybersecurity Startup ProjectDiscovery Announces $25M Series A Financing," August 17, 2023. https://www.prnewswire.com/news-releases/cybersecurity-startup-projectdiscovery-announces-25m-series-a-financing-and-launch-of-projectdiscovery-cloud-platform-301903072.html
+[^32]: Clerk blog, "Clerk raises $30M Series B from CRV and Stripe," January 18, 2024. https://clerk.com/blog/series-b
+[^33]: Brittany Walker (@brittwalker_), X post about CRV leading Metis seed and DoorDash acquisition, accessed April 2026. https://x.com/brittwalker_/status/2034389514865742017
+[^34]: "#PowerToTheSecurityConscious — Tailscale's Commitment to Fix the Internet and CRV's Investment in the Team's $100 Million Series B," CRV Medium blog, May 4, 2022. https://medium.com/crv-insights/powertothesecurityconscious-tailscales-commitment-to-fix-the-internet-and-crv-s-investment-in-a74cdd58d67d
+[^35]: "Investing in Carrot Fertility: Improving Family Formation For Global Employees," Reid Christian, CRV Medium blog, April 17, 2019. https://medium.com/crv-insights/investing-in-carrot-fertility-improving-family-formation-for-global-employees-746863181a8f
+[^36]: "Our Investment in Gtmhub," Reid Christian, CRV Medium blog, December 10, 2019. https://medium.com/crv-insights/our-investment-in-gtmhub-b903e923bbd5

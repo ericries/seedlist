@@ -11,6 +11,7 @@ check_size: "$1M-$2M"
 social:
   twitter: "@thetompeterson"
   linkedin: "linkedin.com/in/tom-peterson-78693715"
+tldr: "Tom Peterson is the co-founder and managing partner of Social Leverage, a seed-stage fund he founded with Howard Lindzon. He manages day-to-day operations and leads all term sheet negotiations. The firm's portfolio is 37% fintech and 33% SaaS across 81+ direct investments, writing $1-2M checks. Early angel hits include LifeLock, BuddyMedia (acquired by Salesforce for $745M), and Robinhood."
 status: published
 last_researched: 2026-04-05
 last_verified_investment:

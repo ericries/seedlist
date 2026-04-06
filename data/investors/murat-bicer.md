@@ -24,6 +24,7 @@ last_verified_investment:
 social:
   twitter: "@itsbeecher"
   linkedin: "linkedin.com/in/mbicer"
+tldr: "Murat Bicer is a GP at CRV, five-time Forbes Midas Lister, and the investor who co-led Datadog's Series A. He focuses on enterprise/B2B software at seed and Series A, with developer tools (29%), e-commerce infrastructure (24%), and cybersecurity (18%) as dominant sectors. Known for following founding teams across companies, he has generated multiple major exits including Datadog IPO ($30B+), Signal Sciences ($775M), and Voyage AI ($220M)."
 status: published
 last_researched: 2026-04-05
 ---

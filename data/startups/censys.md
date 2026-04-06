@@ -1,26 +1,30 @@
 ---
-name: Censys
-slug: censys
-type: startup
-website: https://censys.com
+firms:
+- round: series-d
+  slug: greylock
+  year: 2026
+- round: series-d
+  slug: gv
+  year: 2026
+founders: []
+investors:
+- round: Seed
+  slug: asheem-chandna
+  year: 2018
+last_researched: 2026-04-06
 location: Ann Arbor, MI
-status_company: active
+name: Censys
 sector:
 - cybersecurity
 - AI
 - infrastructure
+slug: censys
 stage_latest: Series D
-total_raised: $70M
-firms:
-- slug: greylock
-  round: series-d
-  year: 2026
-- slug: gv
-  round: series-d
-  year: 2026
-founders: []
 status: published
-last_researched: 2026-04-06
+status_company: active
+total_raised: $70M
+type: startup
+website: https://censys.com
 ---
 
 ## About

@@ -15,6 +15,7 @@ last_verified_investment:
 social:
   twitter: "@mjacobson1003"
   linkedin: "linkedin.com/in/matthew-jacobson-4645106"
+tldr: "Matt Jacobson is a GP at ICONIQ Growth, where he helped launch the firm's growth investment strategy. His portfolio is 67% enterprise SaaS, with active board seats on 11+ companies including Datadog, GitLab, Miro, Collibra, and BambooHR. He personally led Anthropic's Series F despite ICONIQ publicly stating it avoids foundation model companies. Former CEO of Groupon New York, where he grew revenues 220%."
 status: published
 last_researched: 2026-04-01
 ---

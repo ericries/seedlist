@@ -28,6 +28,7 @@ stage_focus:
 - seed
 - series-a
 - series-b
+tldr: "Hernan Kazah is the co-founder and managing partner of Kaszek, Latin America's largest VC firm with $3B+ under management. A co-founder and former COO/CFO of MercadoLibre (NASDAQ-listed), he invests across LatAm with fintech dominating at 39% of 129 verified investments, followed by enterprise SaaS at 27%. Approximately 50% of investments are in Brazil, 25% in Mexico. The portfolio includes 13 unicorns, notably Nubank."
 status: published
 type: individual
 ---

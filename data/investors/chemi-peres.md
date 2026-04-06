@@ -28,6 +28,7 @@ stage_focus:
 - series-a
 - series-b
 - growth
+tldr: "Chemi Peres is the co-founder and managing partner of Pitango Venture Capital, Israel's largest VC firm managing over $3B across 14 funds. The son of former Israeli President Shimon Peres and a former IAF pilot, he has invested in 300+ companies over three decades, with enterprise infrastructure (22%), healthcare (19%), and cybersecurity (11%) as dominant sectors. Notable portfolio companies include Taboola, Via, Riskified, and AI21 Labs."
 status: published
 type: individual
 ---

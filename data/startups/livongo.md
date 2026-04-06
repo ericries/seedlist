@@ -27,6 +27,9 @@ investors:
 - round: Founder/Seed
   slug: glen-tullman
   year: 2014
+- round: Seed (hatched)
+  slug: lee-shapiro
+  year: 2014
 last_researched: 2026-03-31
 location: Mountain View, CA
 name: Livongo Health
