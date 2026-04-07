@@ -61,8 +61,9 @@ pending_rounds:
   date_found: '2026-04-07'
   parsed_company: Hermeus
   parsed_amount: $350M
-  parsed_round: null
-  status: pending
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile hermeus.md
 - title: The AlleyWatch March 2026 New York Venture Capital Funding Report
   url: https://alleywatch.com/2026/04/new-york-venture-capital-march-2026/
   source: alleywatch
@@ -70,7 +71,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
 - title: Kestra raised $25M Series A
   url: https://www.prnewswire.com/news-releases/kestra-raises-25-million-series-a-to-become-the-orchestration-standard-for-enterprises-302729018.html
   source: prnewswire
