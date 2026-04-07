@@ -1,4 +1,24 @@
 pending_rounds:
+- title: Moonbounce raised $12M Series A
+  url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
+  source: techcrunch
+  date_found: ‘2026-04-03’
+  parsed_company: Moonbounce
+  parsed_amount: $12M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile moonbounce.md
+- title: 'The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense,
+    Wearables, Energy And Security'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/
+  source: crunchbase
+  date_found: ‘2026-04-03’
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
+    scaleops, ambrosia-biosciences, openfx); saronic already existed
 - title: Stipple Bio raised $100M Series A
   url: https://www.biospace.com/press-releases/stipple-bio-emerges-from-stealth-with-oversubscribed-100-million-series-a-financing-to-advance-stp-100-into-early-clinical-studies-and-advance-a-precision-oncology-pipeline-that-leverages-its-pointillist-platform
   source: websearch
@@ -35,26 +55,6 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile neubird-ai.md
-- title: Moonbounce raised $12M Series A
-  url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
-  source: techcrunch
-  date_found: ‘2026-04-03’
-  parsed_company: Moonbounce
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile moonbounce.md
-- title: 'The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense,
-    Wearables, Energy And Security'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/
-  source: crunchbase
-  date_found: ‘2026-04-03’
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
-    scaleops, ambrosia-biosciences, openfx); saronic already existed
 - title: Hermeus raises $350M to build autonomous hypersonic fighters
   url: https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/
   source: techcrunch
@@ -73,6 +73,69 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article
+- title: Hermeus raises $350M to build unmanned hypersonic fighters
+  url: https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-unmanned-hypersonic-fighters/
+  source: techcrunch
+  date_found: '2026-04-07'
+  parsed_company: Hermeus
+  parsed_amount: $350M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate of earlier Hermeus entry; hermeus.md already exists
+- title: Natter raised $23M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-07'
+  parsed_company: Natter
+  parsed_amount: $23M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile natter.md
+- title: Beacon Biosignals raised $11M Series B extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-07'
+  parsed_company: Beacon Biosignals
+  parsed_amount: $11M
+  parsed_round: Series B Extension
+  status: skipped
+  skip_reason: beacon-biosignals.md already has full $97.2M Series B extension
+- title: Ridge AI raised $2.6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-07'
+  parsed_company: Ridge AI
+  parsed_amount: $2.6M
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile ridge-ai.md
+- title: nFuse raised $2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-07'
+  parsed_company: nFuse
+  parsed_amount: $2M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile nfuse.md
+- title: ArcLight raised $3.9B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-07'
+  parsed_company: ArcLight
+  parsed_amount: $3.9B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE/infrastructure fund raise, not a startup round
+- title: Blackstone raised $10B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-07'
+  parsed_company: Blackstone
+  parsed_amount: $10B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund raise, not a startup round
 - title: Kestra raised $25M Series A
   url: https://www.prnewswire.com/news-releases/kestra-raises-25-million-series-a-to-become-the-orchestration-standard-for-enterprises-302729018.html
   source: prnewswire

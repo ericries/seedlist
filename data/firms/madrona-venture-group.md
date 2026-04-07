@@ -170,6 +170,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Fyxer AI | Seed | 2025 | Enterprise Apps | Active [^5] |
 | Runway | Early | ~2022 | AI & Intelligent Apps | Active [^4] |
 | Temporal | Seed | 2020 | Developer Platforms & Tools | Active [^23] |
+| Ridge AI | Pre-Seed | 2026 | AI & Intelligent Apps | Active [^30] |
 
 ## In Their Own Words
 
@@ -239,3 +240,4 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^27]: Madrona Venture Group, "Tim Porter," accessed March 2026. https://www.madrona.com/team-profiles/tim-porter/
 [^28]: Madrona Venture Group, "Steve Singh," accessed March 2026. https://www.madrona.com/team-profiles/steve-singh/
 [^29]: Madrona Venture Group, "Introducing Madrona's Acceleration Fund," 2019. https://www.madrona.com/madrona-acceleration-fund/
+[^30]: GeekWire, "Data visualization all-stars unveil Ridge AI with $2.6M to fix the analytics problem for SaaS apps," April 2026. https://www.geekwire.com/2026/data-visualization-all-stars-unveil-ridge-ai-with-2-6m-to-fix-the-analytics-problem-for-saas-apps/
