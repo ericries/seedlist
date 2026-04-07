@@ -1,4 +1,40 @@
 pending_rounds:
+- title: Stipple Bio raised $100M Series A
+  url: https://www.biospace.com/press-releases/stipple-bio-emerges-from-stealth-with-oversubscribed-100-million-series-a-financing-to-advance-stp-100-into-early-clinical-studies-and-advance-a-precision-oncology-pipeline-that-leverages-its-pointillist-platform
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: Stipple Bio
+  parsed_amount: $100M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile stipple-bio.md
+- title: Beacon Biosignals upsized Series B to $97.2M
+  url: https://www.globenewswire.com/news-release/2026/04/06/3268317/0/en/Beacon-Biosignals-Upsizes-Series-B-Financing-to-Over-97-Million.html
+  source: globenewswire
+  date_found: '2026-04-07'
+  parsed_company: Beacon Biosignals
+  parsed_amount: $97.2M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile beacon-biosignals.md
+- title: Q-Factor raised $24M Seed
+  url: https://thequantuminsider.com/2026/04/06/q-factor-emerges-from-stealth-with-24-million-and-backing-from-intel-capital/
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: Q-Factor
+  parsed_amount: $24M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile q-factor.md
+- title: NeuBird AI raised $19.3M Seed
+  url: https://aithority.com/it-and-devops/neubird-ai-raises-19-3-million-to-scale-agentic-ai-across-enterprise-production-operations/
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: NeuBird AI
+  parsed_amount: $19.3M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile neubird-ai.md
 - title: Moonbounce raised $12M Series A
   url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
   source: techcrunch
