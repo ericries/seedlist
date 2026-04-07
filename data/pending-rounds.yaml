@@ -1,4 +1,13 @@
 pending_rounds:
+- title: True Footage raised $40M Series C
+  url: https://www.globenewswire.com/news-release/2026/04/07/3269423/0/en/True-Footage-Raises-40-Million-Series-C-to-Scale-Full-Stack-Residential-Valuation-Platform.html
+  source: globenewswire
+  date_found: '2026-04-07'
+  parsed_company: True Footage
+  parsed_amount: $40M
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile true-footage.md
 - title: Moonbounce raised $12M Series A
   url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
   source: techcrunch
