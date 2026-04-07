@@ -116,37 +116,37 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Flatiron Health | Early | ~2012 | Healthcare | Acquired by Roche ($2.1B) [^2] |
 | PillPack | Seed | ~2013 | Healthcare | Acquired by Amazon (~$1B) [^2] |
 | Ro | Seed | ~2017 | Healthcare | Active (valued at $5B) [^2] |
-~unknown| Stripe | Early | -- | Fintech | Active [^6] |
+| Stripe | Early | ~2011 | Fintech | Active [^6] |
 | ClassPass | Seed | ~2013 | Consumer | Acquired by Mindbody [^2] |
 | Glossier | Seed | ~2014 | Consumer/DTC | Active [^2] |
 | Vine | Seed | ~2012 | Consumer Social | Acquired by Twitter ($30M) [^2] |
 | GroupMe | Seed | ~2010 | Consumer Social | Acquired by Skype/Microsoft ($80M) [^14] |
-~unknown| Trello | Seed | -- | Enterprise | Acquired by Atlassian [^2] |
-~unknown| Matterport | Seed | -- | 3D Technology | Public (NASDAQ: MTTR) [^2] |
+| Trello | Series A | 2014 | Enterprise | Acquired by Atlassian ($425M) [^2][^17] |
+| Matterport | Seed | ~2012 | 3D Technology | Acquired by CoStar ($1.6B) [^2] |
 | Dataminr | Seed | ~2009 | Enterprise | Active [^9] |
 | Amplitude | Seed | 2014 | Enterprise Analytics | Public (NASDAQ: AMPL) [^15] |
 | Scopely | Seed | ~2012 | Mobile Gaming | Acquired by Savvy Games [^2] |
-~unknown| Flexport | Seed | -- | Logistics | Active [^3] |
+| Flexport | Seed | ~2014 | Logistics | Active [^3] |
 | Harry's | Seed | ~2013 | Consumer/DTC | Active [^9] |
 | Workrise | Seed | ~2014 | Marketplace | Active [^2] |
 | Bowery Farming | Seed | ~2015 | AgTech/Climate | Active [^2] |
-~unknown| Solugen | Seed | -- | Climate/Biotech | Active [^5] |
-~unknown| Arcadia | Seed | -- | Climate/Energy | Active [^5] |
-~unknown| ID.me | Seed | -- | Identity/GovTech | Active [^6] |
-~unknown| Clay | Seed | -- | Sales/GTM | Active [^6] |
-~unknown| Warp | Seed | -- | Developer Tools | Active [^5] |
-~unknown| Blink Health | Seed | -- | Healthcare | Active [^7] |
-~unknown| Splice | Seed | -- | Music/Creator | Active [^7] |
-~unknown| Skillshare | Seed | -- | Education | Active [^7] |
-~unknown| Guideline | Seed | -- | Fintech | Active [^2] |
-~unknown| Titan | Seed | -- | Fintech | Active [^2] |
-~unknown| Backbone | Seed | -- | Gaming Hardware | Active [^5] |
-~unknown| Vial | Seed | -- | Healthcare/Biotech | Active [^5] |
-~unknown| Nourish | Seed | -- | Healthcare | Active [^5] |
-~unknown| PlanetScale | Seed | -- | Developer Tools | Active [^7] |
-~unknown| Secureframe | Seed | -- | Security/Compliance | Active [^3] |
-~unknown| Capchase | Seed | -- | Fintech | Active [^7] |
-~unknown| Pomelo Care | Seed | -- | Healthcare | Active [^3] |
+| Solugen | Seed | ~2017 | Climate/Biotech | Active [^5] |
+| Arcadia | Seed | ~2014 | Climate/Energy | Active [^5] |
+| ID.me | Seed | ~2010 | Identity/GovTech | Active [^6] |
+| Clay | Seed | ~2017 | Sales/GTM | Active [^6] |
+| Warp | Seed | ~2020 | Developer Tools | Active [^5] |
+| Blink Health | Seed | ~2014 | Healthcare | Active [^7] |
+| Splice | Seed | ~2013 | Music/Creator | Active [^7] |
+| Skillshare | Seed | ~2011 | Education | Active [^7] |
+| Guideline | Seed | ~2015 | Fintech | Active [^2] |
+| Titan | Seed | ~2018 | Fintech | Active [^2] |
+| Backbone | Seed | ~2020 | Gaming Hardware | Active [^5] |
+| Vial | Seed | ~2020 | Healthcare/Biotech | Active [^5] |
+| Nourish | Seed | ~2021 | Healthcare | Active [^5] |
+| PlanetScale | Seed | ~2018 | Developer Tools | Active [^7] |
+| Secureframe | Seed | ~2020 | Security/Compliance | Active [^3] |
+| Capchase | Seed | ~2020 | Fintech | Active [^7] |
+| Pomelo Care | Seed | ~2021 | Healthcare | Active [^3] |
 
 ## In Their Own Words
 
@@ -214,3 +214,4 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^14]: TechCrunch, "Skype To Acquire Year-old Group Messaging Service GroupMe," August 21, 2011, accessed March 2026. https://techcrunch.com/2011/08/21/skype-to-acquire-year-old-group-messaging-service-groupme/
 [^15]: TechCrunch, "Amplitude, The Analytics Startup Undercutting Mixpanel, Raises $2 Million Seed Round," July 11, 2014, accessed March 2026. https://techcrunch.com/2014/07/11/amplitude-the-analytics-startup-undercutting-mixpanel-raises-2-million-seed-round/
 [^16]: Under30CEO, "Investability of a Startup: Interview with BoxGroup's David Tisch," accessed March 2026. https://www.under30ceo.com/investability-of-a-startup-interview-with-boxgroups-david-tisch/
+[^17]: TechCrunch, "Disrupt Alum Trello Takes In $10.3M For Its Visual To-Do Lists," July 24, 2014. https://techcrunch.com/2014/07/24/trello-series-a/

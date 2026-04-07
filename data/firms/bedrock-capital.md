@@ -88,8 +88,8 @@ Based on 28 unique verified portfolio companies. Bedrock has approximately 75 to
 | Atmos | Series A | 2022 | Home Building | Active [^12] |
 | Radar Labs | Series B | 2020 | Location Infrastructure | Active [^12] |
 | Punch List | Seed | 2020 | Home Inspection | Active [^12] |
-| SoleSavy | Undisclosed | 2021 | Sneaker Community | Active [^12] |
-| Basis | Undisclosed | 2018 | Health/Wellness | Unknown [^12] |
+| SoleSavy | Series A (led) | 2021 | Sneaker Community | Active [^12][^26] |
+| Basis | Seed (led) | 2018 | Mental Health/Wellness | Shut Down [^27][^28] |
 | TensorZero | Seed | 2025 | AI Infrastructure | Active [^12] |
 | Durin | Seed | 2025 | AI | Active [^12] |
 
@@ -136,3 +136,6 @@ No other independently sourced founder testimonials found. The Bedrock website r
 [^23]: BusinessWire, "Bedrock Capital Leads $5.4m Series A in Anti-money Laundering Startup First AML," September 16, 2020. https://www.businesswire.com/news/home/20200916005212/en/Bedrock-Capital-Leads-5.4m-Series-A-in-Anti-money-Laundering-Startup-First-AML
 [^24]: PRNewswire, "APFusion Raises $6.5 Million in Series Seed Financing Co-Led by Left Lane Capital & Bedrock Capital," July 6, 2022. https://www.prnewswire.com/news-releases/apfusion-raises-6-5-million-in-series-seed-financing-co-led-by-left-lane-capital--bedrock-capital-301581021.html
 [^25]: Forbes (via BitcoinEthereumNews), "Parker Conrad's Rippling Hits $11.25 Billion Valuation As Former Zenefits CEO Rebounds With HR Software," May 2022. https://bitcoinethereumnews.com/economy/parker-conrads-rippling-hits-11-25-billion-valuation-as-former-zenefits-ceo-rebounds-with-hr-software/
+[^26]: GlobeNewswire, "SoleSavy Announces $12.5M in Series A Funding," June 21, 2021. https://www.globenewswire.com/news-release/2021/06/21/2250237/0/en/SoleSavy-Announces-12-5M-in-Series-A-Funding.html
+[^27]: TechCrunch, "Former Uber exec Andrew Chapin takes the wraps off his stealth mental health startup," October 4, 2018. https://techcrunch.com/2018/10/04/former-uber-exec-andrew-chapin-takes-the-wraps-off-his-stealth-mental-health-startup/
+[^28]: FinSMEs, "Basis Raises $3.75M in Funding," October 2018. https://www.finsmes.com/2018/10/basis-raises-3-75m-in-funding.html

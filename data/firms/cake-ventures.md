@@ -84,28 +84,28 @@ The stated thesis emphasizes the "majority-minority shift" and new consumer demo
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
+| Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Guaranteed | Seed | 2022 | Digital health / hospice | [^9] |
-| Pamper | Seed | 2022 | Consumer / D2C | [^5] |
-| Rares | Seed | ~2021 | Consumer / collectibles | [^5] |
-| Bright | Seed | ~2022 | Enterprise / training | [^10] |
-| Joshin | Seed | 2021 | Enterprise / disability support | [^1] |
-| Snack | Seed | 2021 | Consumer / dating | [^11] |
-| Culina Health | Seed; Series A follow-on | 2022; 2024 | Digital health / nutrition | [^12][^13] |
-| Eli Health | Seed | 2023 | Digital health / women's health | [^14] |
-| Frame Fertility | Seed | ~2022 | Digital health / fertility | [^4] |
-| Aster | Pre-seed (led) | 2024 | Digital health / maternal health | [^15] |
-| Death Clock | Seed | ~2023 | Digital health / longevity | [^4] |
-| Sol Health | Pre-seed | ~2024 | Digital health / mental health | [^16] |
-| Tendercare | Pre-seed/Seed | ~2023 | Digital health / caregiving | [^4] |
-| Most Days | Seed | ~2022 | Digital health / longevity | [^4] |
-| TenYour | Seed | ~2023 | Insurtech | [^4] |
-| STAND+ | Seed | ~2022 | Consumer / future-of-work | [^4] |
-| Lotus Labs | Pre-seed | ~2022 | Hardware / smart home | [^4] |
-| Koobz | Seed | 2025 | Manufacturing / footwear | [^17] |
-| Shop McMullen | Seed | ~2021 | Consumer / e-commerce | [^4] |
-| EasyMateAI | Pre-seed/Seed | 2024 | AI / developer tools | [^4] |
+| Guaranteed | Seed | 2022 | Digital health / hospice | Active [^9] |
+| Pamper | Seed | 2022 | Consumer / D2C | Active [^5] |
+| Rares | Seed | 2021 | Consumer / collectibles | Active [^5][^19] |
+| Bright | Seed | 2023 | Enterprise / training | Active [^10] |
+| Joshin | Seed | 2021 | Enterprise / disability support | Acquired (RethinkFirst, 2025) [^1][^20] |
+| Snack | Seed | 2021 | Consumer / dating | Inactive [^11] |
+| Culina Health | Seed; Series A follow-on | 2022; 2024 | Digital health / nutrition | Active [^12][^13] |
+| Eli Health | Seed | 2023 | Digital health / women's health | Active [^14] |
+| Frame Fertility | Seed | 2022 | Digital health / fertility | Active [^4][^21] |
+| Aster | Pre-seed (led) | 2024 | Digital health / maternal health | Active [^15] |
+| Death Clock | Seed | ~2023 | Digital health / longevity | Active [^4] |
+| Sol Health | Pre-seed | ~2024 | Digital health / mental health | Active [^16] |
+| Tendercare | Pre-seed | ~2023 | Digital health / caregiving | Active [^4] |
+| Most Days | Seed | ~2022 | Digital health / longevity | Active [^4] |
+| TenYour | Seed | ~2023 | Insurtech | Active [^4] |
+| STAND+ | Seed | ~2022 | Consumer / future-of-work | Active [^4] |
+| Lotus Labs | Pre-seed | ~2023 | Hardware / smart home | Active [^4] |
+| Koobz | Seed | 2025 | Manufacturing / footwear | Active [^17] |
+| Shop McMullen | Seed | ~2021 | Consumer / e-commerce | Active [^4] |
+| EasyMateAI | Pre-seed/Seed | 2024 | AI / developer tools | Active [^4] |
 
 Note: Years marked with "~" are approximate, based on founding year or portfolio announcement timing. This table represents approximately 20 of an estimated 25 target investments for Fund I.
 
@@ -170,4 +170,7 @@ No additional independently sourced founder testimonials found. The McGlory quot
 [^17]: 3D Printing Industry, "Koobz Secures $7.2 Million to Bring Scalable, Automated Footwear Manufacturing to the U.S.," 2025. https://3dprintingindustry.com/news/koobz-secures-7-2-million-to-bring-scalable-automated-footwear-manufacturing-to-the-u-s-241268/
 
 [^18]: VC Uncovered, "Monique Woodard — Cake Ventures," accessed April 2026. https://www.vcuncovered.com/p/monique-woodard-cake-ventures
+[^19]: AfroTech, "Gerome Sapp's Sneaker Investment App Rares Secures $4M In Seed Funding Round," October 2021. https://afrotech.com/rares-mac-venture-capital-seed-funding-round
+[^20]: PRNewswire, "RethinkFirst Acquires Joshin to Create First Fully Integrated Neurodiversity and Disability Support Platform," 2025. https://www.prnewswire.com/news-releases/rethinkfirst-acquires-joshin-to-create-first-fully-integrated-neurodiversity-and-disability-support-platform-302532850.html
+[^21]: PRNewswire, "Frame Fertility Launches to Proactively Reduce the Crises, Risk Factors and High Costs of an Infertility Diagnosis," April 2022. https://www.prnewswire.com/news-releases/frame-fertility-launches-to-proactively-reduce-the-crises-risk-factors-and-high-costs-of-an-infertility-diagnosis-301533813.html
 
