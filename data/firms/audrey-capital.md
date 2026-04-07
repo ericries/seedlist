@@ -88,23 +88,23 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | Sonos | Growth | ~2013 | Consumer Electronics | [^3] |
 | Calm | Early | ~2015 | Consumer / Wellness | [^3] |
 | Nord Security | Early | ~2017 | Cybersecurity | [^6] |
-~unknown| Stripe | Early | Undisclosed | Fintech / Payments | [^6] |
-~unknown| SpaceX | Growth | Undisclosed | Aerospace | [^3] |
-~unknown| Ring | Early | Undisclosed | Consumer Electronics | [^3] |
-~unknown| MakerBot | Early | Undisclosed | Hardware / 3D Printing | [^3] |
-~unknown| CoinDesk | Early | Undisclosed | Media / Crypto | [^3] |
+| Stripe | Early | ~2011 | Fintech / Payments | [^6] |
+| SpaceX | Growth | ~2015 | Aerospace | [^3] |
+| Ring | Early | ~2013 | Consumer Electronics | [^3] |
+| MakerBot | Early | ~2011 | Hardware / 3D Printing | [^3] |
+| CoinDesk | Angel | ~2013 | Media / Crypto | [^3] |
 | Creative Market | Seed | ~2013 | Developer Tools / Design | [^5] |
-~unknown| NPM | Seed | Undisclosed | Developer Tools | [^5] |
-~unknown| Genius | Early | Undisclosed | Media / Music | [^3] |
-~unknown| Telegram | Early | Undisclosed | Messaging | [^3] |
+| NPM | Seed | ~2014 | Developer Tools | [^5] |
+| Genius | Early | ~2012 | Media / Music | [^3] |
+| Telegram | Early | ~2018 | Messaging | [^3] |
 | AppFlowy | Seed | 2023 | Developer Tools / Open Source | [^18] |
 | Mindset Health | Series A | 2023 | Digital Health | [^12] |
 | Spiraldot Health | Seed | 2025 | Healthcare | [^19] |
 | Scorbit | Seed | 2025 | Gaming / Hardware | [^20] |
-~unknown| Decrypt | Seed | Undisclosed | Media / Crypto | [^19] |
-~unknown| Journey Clinical | Seed | Undisclosed | Healthcare | [^19] |
+| Decrypt | Series A | 2022 | Media / Crypto | [^19] |
+| Journey Clinical | Seed | 2021 | Healthcare | [^19] |
 
-*Note: This table represents approximately 25-30% of the 100+ investments reported by aggregator databases. Dates marked "~" are approximate; exact investment dates are not publicly confirmed for those entries. Entries with "Undisclosed" year are confirmed as portfolio companies by multiple aggregators but lack individually verified investment dates.*
+*Note: This table represents approximately 25-30% of the 100+ investments reported by aggregator databases. Dates marked "~" are approximate, based on company founding dates, earliest known funding rounds, or aggregator data; exact investment dates are not publicly confirmed for those entries.*
 
 ## In Their Own Words
 

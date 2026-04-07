@@ -107,55 +107,55 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-~unknown| Block (Square) | Early | — | Commerce / Fintech | [^3] |
-~unknown| Pinterest | Early | — | Consumer / Social | [^3][^13] |
-~unknown| ClassPass | Early | — | Commerce / Fitness | [^3][^12] |
-~unknown| Getaround | Early | — | Mobility / Marketplace | [^3] |
-~unknown| Flexport | Seed | — | Logistics | [^13] |
-~unknown| EasyPost | Seed | — | Logistics | [^12][^13] |
-~unknown| Flexe | Seed | — | Logistics | [^13] |
-~unknown| Cargomatic | Seed | — | Logistics | [^12][^13] |
-| Rec Room | Seed | ~2016 | Gaming | [^12][^14] |
-~unknown| Formlabs | Early | — | Hardware / 3D Printing | [^12] |
-~unknown| Tractable | Seed | — | AI / Insurance | [^12][^6] |
-~unknown| Supernormal | Seed | — | AI / Productivity | [^12][^15] |
+| Block (Square) | Seed | 2010 | Commerce / Fintech | [^3][^13] |
+| Pinterest | Seed | ~2010 | Consumer / Social | [^3][^13] |
+| ClassPass | Seed | ~2013 | Commerce / Fitness | [^3][^12] |
+| Getaround | Seed | 2011 | Mobility / Marketplace | [^3] |
+| Flexport | Seed | 2015 | Logistics | [^13] |
+| EasyPost | Seed | ~2014 | Logistics | [^12][^13] |
+| Flexe | Seed | 2015 | Logistics | [^13] |
+| Cargomatic | Seed | 2013 | Logistics | [^12][^13] |
+| Rec Room | Seed | 2016 | Gaming | [^12][^14] |
+| Formlabs | Seed | ~2012 | Hardware / 3D Printing | [^12] |
+| Tractable | Seed | ~2015 | AI / Insurance | [^12][^6] |
+| Supernormal | Seed | 2023 | AI / Productivity | [^12][^15] |
 | deepset | Series A | 2022 | AI / NLP | [^11] |
 | Griptape | Seed | 2023 | AI / Developer Tools | [^16] |
 | Harbinger Motors | Series A | 2023 | EV / New Industrials | [^10] |
-~unknown| Hyperscience | Seed | — | AI / Automation | [^12] |
-~unknown| Picsellia | Seed | — | AI / Computer Vision | [^12] |
-~unknown| Groq | Early | — | AI / Semiconductors | [^12] |
-~unknown| Tulip (Interfaces) | Seed | — | Manufacturing / Software | [^12][^6] |
-~unknown| Stoke Space | Early | — | Aerospace | [^12] |
-~unknown| Radiant Nuclear | Early | — | Energy / Nuclear | [^12] |
-~unknown| Atomic Industries | Seed | — | Manufacturing | [^12] |
-~unknown| Ethos Space | Seed | — | Aerospace | [^12] |
-~unknown| Blockstream | Seed | — | Blockchain / Infrastructure | [^12] |
-~unknown| Swave Photonics | Seed | — | Semiconductors | [^12] |
+| Hyperscience | Seed | ~2015 | AI / Automation | [^12] |
+| Picsellia | Seed | 2022 | AI / Computer Vision | [^12] |
+| Groq | Early | ~2016 | AI / Semiconductors | [^12] |
+| Tulip (Interfaces) | Seed | ~2015 | Manufacturing / Software | [^12][^6] |
+| Stoke Space | Early | ~2020 | Aerospace | [^12] |
+| Radiant Nuclear | Early | ~2021 | Energy / Nuclear | [^12] |
+| Atomic Industries | Seed | ~2021 | Manufacturing | [^12] |
+| Ethos Space | Seed | ~2022 | Aerospace | [^12] |
+| Blockstream | Seed | 2014 | Blockchain / Infrastructure | [^12] |
+| Swave Photonics | Seed | 2023 | Semiconductors | [^12] |
 | Corintis | Series A | 2025 | Infrastructure | [^6] |
-~unknown| Wish | Seed | — | E-Commerce | [^12][^13] |
-~unknown| OpenCare | Seed | — | Healthcare Marketplace | [^12] |
-~unknown| 7bridges | Seed | — | Logistics / AI | [^12] |
-~unknown| Onfido | Early | — | Identity / AI | [^6] |
-~unknown| Rigetti Computing | Early | — | Quantum Computing | [^3] |
-~unknown| Remitly | Early | — | Fintech | [^3] |
-~unknown| Porch Group | Early | — | Home Services | [^3] |
-~unknown| Lab Genius | Seed | — | Life Sciences / AI | [^12] |
-~unknown| SFA Therapeutics | Seed | — | Life Sciences | [^12] |
-~unknown| Arctoris | Seed | — | Life Sciences / Robotics | [^12] |
-~unknown| Mytos | Seed | — | Life Sciences | [^12] |
-~unknown| Nostos Genomics | Seed | — | Life Sciences / Genomics | [^12] |
-~unknown| Sloyd | Seed | — | Gaming / 3D Generation | [^12] |
-~unknown| Hathora | Seed | — | Gaming Infrastructure | [^12] |
-~unknown| Mtion | Seed | — | Gaming / VR | [^12] |
-~unknown| LootLocker | Seed | — | Gaming Backend | [^12] |
-~unknown| Portal One | Seed | — | Gaming / Media | [^12] |
-~unknown| Insempra | Seed | — | Biotech / Materials | [^12] |
-~unknown| Dirac | Seed | — | Audio / Hardware | [^12] |
-~unknown| Provectus Algae | Seed | — | Biotech / Agriculture | [^12] |
-~unknown| Antaris Space | Seed | — | Aerospace / Software | [^12] |
+| Wish | Seed | 2011 | E-Commerce | [^12][^13] |
+| OpenCare | Seed | ~2015 | Healthcare Marketplace | [^12] |
+| 7bridges | Seed | ~2017 | Logistics / AI | [^12] |
+| Onfido | Early | ~2019 | Identity / AI | [^6] |
+| Rigetti Computing | Early | ~2014 | Quantum Computing | [^3] |
+| Remitly | Early | ~2012 | Fintech | [^3] |
+| Porch Group | Early | ~2013 | Home Services | [^3] |
+| Lab Genius | Seed | ~2017 | Life Sciences / AI | [^12] |
+| SFA Therapeutics | Seed | ~2020 | Life Sciences | [^12] |
+| Arctoris | Seed | ~2018 | Life Sciences / Robotics | [^12] |
+| Mytos | Seed | ~2021 | Life Sciences | [^12] |
+| Nostos Genomics | Seed | ~2020 | Life Sciences / Genomics | [^12] |
+| Sloyd | Seed | ~2021 | Gaming / 3D Generation | [^12] |
+| Hathora | Seed | ~2021 | Gaming Infrastructure | [^12] |
+| Mtion | Seed | ~2021 | Gaming / VR | [^12] |
+| LootLocker | Seed | ~2020 | Gaming Backend | [^12] |
+| Portal One | Seed | ~2021 | Gaming / Media | [^12] |
+| Insempra | Seed | ~2020 | Biotech / Materials | [^12] |
+| Dirac | Seed | ~2014 | Audio / Hardware | [^12] |
+| Provectus Algae | Seed | ~2020 | Biotech / Agriculture | [^12] |
+| Antaris Space | Seed | ~2021 | Aerospace / Software | [^12] |
 
-**Note:** This table represents approximately 13% of the firm's claimed 350+ investments. Many early investments lack exact year data. The firm's earliest investments (Block, Pinterest, Flexport) predate detailed public records for the firm.
+**Note:** This table represents approximately 13% of the firm's claimed 350+ investments. Years marked with ~ are approximate, based on company founding dates or earliest known funding rounds. Fritz Lanman began angel investing in 2010 with Square as his first investment [^13]; he and Hank Vigil led the initial seed financings of Pinterest, Square, Wish, and Flexport [^13].
 
 ## In Their Own Words
 

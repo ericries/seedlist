@@ -112,7 +112,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | MyInterview | Seed | 2020 | HR Tech | Acquired by Radancy | [^9] |
 | Nexar | Seed | ~2015 | Automotive / AI | Active | [^9] |
 | NextSilicon | Series A | ~2019 | Deep Tech / Semiconductors | Active | [^9] |
-| Ohr | Seed | 2024 | — | Active | [^9] |
+| Ohr | Seed | 2024 | Synthetic Biology / Chemicals | Active | [^9] |
 | OneStep | Seed | 2020 | Healthcare | Active | [^9] |
 | Panorays | Series A | ~2017 | Cybersecurity / Data | Active | [^9] |
 | Placer.ai | Series A | ~2019 | Real Estate / Analytics | Active (Unicorn) | [^9] |
