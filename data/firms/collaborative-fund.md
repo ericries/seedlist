@@ -91,13 +91,13 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 | TaskRabbit | Early | ~2014 | Money | [^17] |
 | AngelList | Early | ~2014 | Money | [^17] |
 | Impossible Foods | Early | ~2015 | Consumer | [^17] |
-| WHOOP | Early | ~2016 | Health | [^2] |
+| WHOOP | Seed | 2013 | Health | [^22] |
 | The Farmer's Dog | Early | ~2016 | Consumer | [^2] |
 | Daily Harvest | Early | ~2016 | Consumer | [^18] |
 | OLIPOP | Seed | ~2018 | Consumer | [^18] |
 | Tala | Early | ~2016 | Money | [^17] |
 | LTSE | Early | ~2016 | Money | [^17] |
-| Dandelion Energy | Early | ~2017 | Energy | [^14] |
+| Dandelion Energy | Seed | 2017 | Energy | [^23] |
 | Commonwealth Fusion Systems | Early | ~2018 | Energy | [^17] |
 | Redwood Materials | Early | ~2019 | Energy | [^17] |
 | Span | Early | ~2019 | Energy | [^17] |
@@ -174,3 +174,5 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 [^19]: Signal by NFX, "Morgan Housel Investing Profile — Collaborative Fund Partner," accessed April 2026. https://signal.nfx.com/investors/morgan-housel
 [^20]: Crunchbase, "Collaborative Fund Recent Investments," accessed April 2026. https://www.crunchbase.com/organization/collaborative-fund/recent_investments
 [^21]: Chris Dowd LinkedIn, Neverware founder testimonial about Collaborative Fund, accessed April 2026. https://www.linkedin.com/in/chris-dowd-0100849b/
+[^22]: Tracxn, "Whoop Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/whoop/__mG8pDMm_crUH9HckmN4Kw7ZEHu-NiVNU_cywdWMo-aA/funding-and-investors
+[^23]: Business Wire, "Geothermal Startup, Dandelion, Raises $2 Million Seed Round, Led by Collaborative Fund," July 2017, accessed April 2026. https://www.businesswire.com/news/home/20170706005986/en/Geothermal-Startup-Dandelion-Raises-2-Million-Seed-Round-Led-by-Collaborative-Fund

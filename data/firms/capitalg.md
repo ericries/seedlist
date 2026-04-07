@@ -91,11 +91,11 @@ Based on 48 verified investments in the portfolio table below:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| SurveyMonkey | Growth | 2013 | Enterprise/SaaS | IPO (2018) | [^2] |
+| SurveyMonkey | Growth | 2013 | Enterprise/SaaS | IPO (2018) | [^32] |
 | Credit Karma | Series C | 2014 | Fintech | Acquired (Intuit, 2020) | [^11] |
 | Freshworks | Series D | 2014 | Enterprise/SaaS | IPO (2021) | [^12] |
 | Duolingo | Series D | 2015 | Consumer/EdTech | IPO (2021) | [^13] |
-| SpaceX | Growth | 2015 | Aerospace | Active | [^2] |
+| SpaceX | Growth | 2015 | Aerospace | Active | [^33] |
 | Gusto | Series B | 2015 | Fintech/HR | Active | [^14] |
 | Zscaler | Series D | 2015 | Security | IPO (2018) | [^15] |
 | CrowdStrike | Growth | 2015 | Security | IPO (2019) | [^16] |
@@ -105,37 +105,37 @@ Based on 48 verified investments in the portfolio table below:
 | Lyft | Series H | 2017 | Consumer/Rideshare | IPO (2019) | [^20] |
 | Robinhood | Series D | 2018 | Fintech | IPO (2021) | [^21] |
 | UiPath | Series B | 2018 | Enterprise/RPA | IPO (2021) | [^22] |
-| Oscar | Growth | ~2018 | Fintech/InsurTech | IPO (2021) | [^1] |
-| Unqork | Growth | ~2019 | Enterprise/No-Code | Active | [^1] |
+| Oscar | Growth | 2015 | Fintech/InsurTech | IPO (2021) | [^34] |
+| Unqork | Series B | 2019 | Enterprise/No-Code | Active | [^35] |
 | Duolingo | Series F | 2019 | Consumer/EdTech | IPO (2021) | [^13] |
-| LendingClub | Growth | ~2014 | Fintech | IPO | [^2] |
-| FanDuel | Growth | ~2016 | Consumer/Sports | Acquired | [^8] |
-| Looker | Growth | ~2017 | Data/Analytics | Acquired (Google, 2020) | [^8] |
-| Care.com | Growth | ~2017 | Consumer/Marketplace | Acquired | [^8] |
-| Glassdoor | Growth | ~2017 | Consumer/HR | Acquired (Recruit, 2018) | [^8] |
+| LendingClub | Growth | 2013 | Fintech | IPO | [^36] |
+| FanDuel | Series E | 2015 | Consumer/Sports | Acquired | [^37] |
+| Looker | Series D | 2017 | Data/Analytics | Acquired (Google, 2020) | [^38] |
+| Care.com | PIPE | 2016 | Consumer/Marketplace | Acquired | [^39] |
+| Glassdoor | Growth | 2015 | Consumer/HR | Acquired (Recruit, 2018) | [^40] |
 | Webflow | Series B | 2021 | Enterprise/No-Code | Active | [^23] |
 | Databricks | Series G | 2021 | Data/AI Infrastructure | Active | [^24] |
-| Chief | Growth | ~2021 | Enterprise/Community | Active | [^1] |
+| Chief | Series B | 2022 | Enterprise/Community | Active | [^41] |
 | AlphaSense | Growth | 2023 | Enterprise/AI | Active | [^25] |
-| Whatnot | Growth | ~2021 | Consumer/Marketplace | Active | [^1] |
-| Armis | Growth | ~2023 | Security | Active | [^8] |
-| Expel | Growth | ~2023 | Security | Active | [^9] |
-| Cribl | Growth | 2024 | Data/Infrastructure | Active | [^8] |
-| Clio | Growth | 2024 | Enterprise/LegalTech | Active | [^8] |
-| Grafana | Growth | 2024 | Data/Infrastructure | Active | [^8] |
+| Whatnot | Series C | 2021 | Consumer/Marketplace | Active | [^42] |
+| Armis | Growth | 2025 | Security | Active | [^43] |
+| Expel | Series D | 2020 | Security | Active | [^44] |
+| Cribl | Series E | 2024 | Data/Infrastructure | Active | [^45] |
+| Clio | Series F | 2024 | Enterprise/LegalTech | Active | [^46] |
+| Grafana | Series D ext. | 2024 | Data/Infrastructure | Active | [^47] |
 | Farther | Series C | 2024 | Fintech/WealthMgmt | Active | [^26] |
-| Odoo | Growth | 2024 | Enterprise/ERP | Active | [^8] |
-| Monzo | Growth | 2024 | Fintech/Banking | Active | [^8] |
-| DTEX | Growth | 2024 | Security | Active | [^8] |
+| Odoo | Secondary | 2024 | Enterprise/ERP | Active | [^48] |
+| Monzo | Growth | 2024 | Fintech/Banking | Active | [^49] |
+| DTEX | Series E | 2024 | Security | Active | [^50] |
 | Canva | Growth | ~2024 | Enterprise/Design | Active | [^6] |
 | Rippling | Growth | ~2024 | Enterprise/HR | Active | [^6] |
-| LangChain | Growth | ~2024 | AI/Infrastructure | Active | [^6] |
-| Abridge | Growth | ~2024 | AI/Healthcare | Active | [^6] |
-| Baseten | Growth | ~2024 | AI/Infrastructure | Active | [^6] |
+| LangChain | Series B | 2025 | AI/Infrastructure | Active | [^51] |
+| Abridge | Series D | 2025 | AI/Healthcare | Active | [^52] |
+| Baseten | Series E | 2026 | AI/Infrastructure | Active | [^53] |
 | Physical Intelligence | Series B | 2025 | AI/Robotics | Active | [^27] |
 | OMNIA Partners | Growth | 2025 | Enterprise/Procurement | Active | [^28] |
-| Base Power | Growth | ~2025 | Energy | Active | [^6] |
-| Lovable | Growth | ~2025 | AI/DevTools | Active | [^8] |
+| Base Power | Series C | 2025 | Energy | Active | [^54] |
+| Lovable | Series B | 2025 | AI/DevTools | Active | [^55] |
 | Duna | Series A | 2026 | Enterprise/Identity | Active | [^29] |
 | Bedrock Robotics | Growth | 2026 | AI/Robotics | Active | [^27] |
 | Nibol | Growth | 2026 | Enterprise/SaaS | Active | [^27] |
@@ -203,3 +203,27 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^29]: Business Wire, "Duna, Built by Stripe Veterans, Raises EUR30 Million CapitalG-led Series A," February 2026, accessed March 2026. https://www.businesswire.com/news/home/20260205654367/en/Duna-Built-by-Stripe-Veterans-Raises-%E2%82%AC30-Million-CapitalG-led-Series-A-to-Solve-Business-Identity-For-The-Internet
 [^30]: Crunchbase, "CapitalG Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/google-capital
 [^31]: CapitalG, "Congratulations to Robinhood," accessed March 2026. https://www.capitalg.com/insights/congratulations-to-robinhood-the-company-that-made-investing-accessible-for-everyone
+[^32]: SurveyMonkey Newsroom, "SurveyMonkey Raises $800 Million," January 2013, accessed April 2026. https://www.surveymonkey.com/newsroom/surveymonkey-raises-800-million/
+[^33]: SpaceNews, "Google SpaceX Investment is $900 Million," February 2015, accessed April 2026. https://spacenews.com/google-spacex-investment-is-900-million/
+[^34]: MedCity News, "Oscar Health snags Google Capital," September 2015, accessed April 2026. https://medcitynews.com/2015/09/oscar-health-snags-google-capital-will-healthcares-billion-dollar-unicorn-win-by-attrition/
+[^35]: PR Newswire, "Unqork Closes $80 Million Series B Funding Round Led by CapitalG," October 2019, accessed April 2026. https://www.prnewswire.com/news-releases/unqork-closes-80-million-series-b-funding-round-led-by-capitalg-driving-the-no-code-enterprise-revolution-300930454.html
+[^36]: Entrepreneur, "Google Leads a $125 Million Investment in Lending Club," May 2013, accessed April 2026. https://www.entrepreneur.com/article/226556
+[^37]: Business Wire, "FanDuel Announces Series E Financing of $275 Million from KKR, Google Capital and Time Warner," July 2015, accessed April 2026. https://www.businesswire.com/news/home/20150714005506/en/FanDuel-Announces-Series-E-Financing-of-275-Million-from-KKR-Google-Capital-and-Time-Warner
+[^38]: TechCrunch, "Looker catches the fancy of CapitalG, Goldman and Geodesic with $81.5M Series D," March 2017, accessed April 2026. https://techcrunch.com/2017/03/30/looker-catches-the-fancy-of-capitalg-goldman-and-geodesic-with-81-5m-series-d/
+[^39]: TechCrunch, "Why Google Capital deal could augur the reemergence of so-called PIPEs," July 2016, accessed April 2026. https://techcrunch.com/2016/07/03/why-google-capital-deal-could-auger-reemergence-of-pipe-deals/
+[^40]: TechCrunch, "Glassdoor Closes $70M Funding Round Led By Google Capital And Tiger Global," January 2015, accessed April 2026. https://techcrunch.com/2015/01/06/glassdoor-closes-70m-funding-round-led-by-google-capital-and-tiger-global/
+[^41]: Business Wire, "Chief Secures $100 Million in Series B Funding, Bringing Total Valuation to $1.1B," March 2022, accessed April 2026. https://www.businesswire.com/news/home/20220330005926/en/Chief-Secures-$100-Million-in-Series-B-Funding-Bringing-Total-Valuation-to-$1.1B
+[^42]: PR Newswire, "Whatnot Raises $150M Series C to Become the Premier Live Shopping Destination," September 2021, accessed April 2026. https://www.prnewswire.com/news-releases/whatnot-raises-150m-series-c-to-become-the-premier-live-shopping-destination-for-collectors-and-enthusiasts-of-nearly-any-category-301378941.html
+[^43]: Business Wire, "Cybersecurity Leader Armis Closes $435 Million Round at $6.1 Billion Valuation," November 2025, accessed April 2026. https://www.businesswire.com/news/home/20251105196423/en/Cybersecurity-Leader-Armis-Closes-$435-Million-Round-at-$6.1-Billion-Valuation
+[^44]: VentureBeat, "CapitalG leads $50 million investment in managed cybersecurity provider Expel," May 2020, accessed April 2026. https://venturebeat.com/business/capital-g-leads-50-million-investment-in-managed-cybersecurity-provider-expel/
+[^45]: TechCrunch, "Data infrastructure startup Cribl raises $319M at a $3.5B valuation," August 2024, accessed April 2026. https://techcrunch.com/2024/08/27/data-infrastructure-startup-cribl-raises-319m-at-a-3-5b-valuation/
+[^46]: TechCrunch, "Legal tech Clio raises $900M at a $3B valuation, plans to double down on AI and fintech," July 2024, accessed April 2026. https://techcrunch.com/2024/07/23/clio-raises-900m-at-a-3b-valuation-plans-to-double-down-on-ai-and-fintech/
+[^47]: Grafana Labs, "Grafana Labs Soars Past $250M ARR, Completes $270M Primary and Secondary Transaction," August 2024, accessed April 2026. https://grafana.com/press/2024/08/21/grafana-labs-soars-past-250m-arr-and-5000-customers-completes-270m-primary-and-secondary-transaction-and-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms/
+[^48]: TechCrunch, "Riding high on open source ERP, Odoo raises $527M via secondaries, lifting its valuation to $5.26B," November 2024, accessed April 2026. https://techcrunch.com/2024/11/20/riding-high-on-open-source-erp-odoo-raises-527m-via-secondaries-lifting-its-valuation-to-5-26b/
+[^49]: CNBC, "British neobank Monzo raises $430 million in Alphabet-led round to relaunch in the U.S.," March 2024, accessed April 2026. https://www.cnbc.com/2024/03/05/uk-neobank-monzo-hits-5-billion-valuation-after-430-million-raise.html
+[^50]: Business Wire, "DTEX Systems Raises $50M Led by Alphabet's CapitalG to Disrupt Insider Risk Management Market Through AI-Enabled Innovations," March 2024, accessed April 2026. https://www.businesswire.com/news/home/20240304157963/en/DTEX-Systems-Raises-50M-Led-by-Alphabets-CapitalG-to-Disrupt-Insider-Risk-Management-Market-Through-AI-Enabled-Innovations
+[^51]: Fortune, "Exclusive: Early AI darling LangChain is now a unicorn with a fresh $125 million in funding," October 2025, accessed April 2026. https://fortune.com/2025/10/20/exclusive-early-ai-darling-langchain-is-now-a-unicorn-with-a-fresh-125-million-in-funding/
+[^52]: Tracxn, "Abridge Inc Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/abridge-inc/__Pa9JE2faVUirY8e07Tb0M33vLUKKRf0BPr2xbtBzrq8/funding-and-investors
+[^53]: Business Wire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 2026, accessed April 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future
+[^54]: TechCrunch, "Base Power raises $1B to deploy home batteries everywhere," October 2025, accessed April 2026. https://techcrunch.com/2025/10/08/base-power-raises-1b-to-deploy-home-batteries-everywhere/
+[^55]: CNBC, "Nvidia and Alphabet VC arms back vibe coding startup Lovable at $6.6 billion valuation," December 2025, accessed April 2026. https://www.cnbc.com/2025/12/18/google-and-n.html

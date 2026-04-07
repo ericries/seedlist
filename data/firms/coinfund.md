@@ -92,7 +92,7 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Blockdaemon | Seed | ~2019 | Blockchain infrastructure | [^5][^16] |
 | Rarible | Pre-Seed | 2020 | NFT marketplace | [^17] |
 | Dapper Labs | Venture | 2021 | NFTs/Consumer | [^8] |
-| Moonbeam | Seed | 2021 | L1 blockchain | [^7] |
+| Moonbeam | Seed | 2021 | L1 blockchain | [^30] |
 | Rarible | Series A | 2021 | NFT marketplace | [^18] |
 | Ondo Finance | Seed | 2021 | DeFi/RWA | [^19] |
 | The Graph | Liquid | ~2021 | Data indexing | [^15] |
@@ -102,7 +102,7 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Livepeer | Liquid | ~2022 | Decentralized video | [^15] |
 | API3 | Liquid | ~2022 | Oracle infrastructure | [^15] |
 | LayerZero | Venture | ~2022 | Cross-chain infrastructure | [^15] |
-| Gunzilla Games | Venture | ~2023 | Web3 gaming | [^15] |
+| Gunzilla Games | Venture | 2024 | Web3 gaming | [^31] |
 | Flare | Liquid | ~2023 | L1 blockchain | [^15] |
 | ether.fi | Series A | 2024 | Liquid restaking/DeFi | [^20] |
 | Monad | Venture | 2024 | L1 blockchain | [^21] |
@@ -178,3 +178,5 @@ No additional independently sourced founder testimonials about the experience of
 [^27]: PRNewswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund to Scale the Universal Liquidity Market for Digital Assets," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
 [^28]: Fortune, "Ex-Coinbase exec raises $12.5 million for Dakota, a stablecoin-powered neobank," July 2025. https://fortune.com/crypto/2025/07/15/dakota-coinbase-executive-series-a-coinfund-ryan-bozarth/
 [^29]: LI.FI blog, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. https://li.fi/knowledge-hub/li-fi-secures-usd29m-in-series-a-extension-led-by-multicoin-and-coinfund-to/
+[^30]: Crypto Briefing, "Moonbeam Lands $6M in Funding Round Led by CoinFund," March 2021, accessed April 2026. https://cryptobriefing.com/moonbeam-lands-6m-funding-round-coinfund/
+[^31]: The Block, "PlayStation crypto game dev Gunzilla Games raises $30 million in round led by Avalanche fund and CoinFund," March 2024, accessed April 2026. https://www.theblock.co/post/284572/playstation-crypto-game-dev-gunzilla-games-raises-30-million-in-round-led-by-avalanche-fund-and-coinfund
