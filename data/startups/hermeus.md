@@ -22,7 +22,7 @@ firms:
 founders:
 - name: AJ Piplica
   role: Co-Founder & CEO
-status: draft
+status: published
 last_researched: 2026-04-07
 ---
 

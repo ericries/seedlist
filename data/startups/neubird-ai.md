@@ -21,7 +21,7 @@ founders:
   role: Co-Founder & CEO
 - name: Vinod Jayaraman
   role: Co-Founder & CTO
-status: draft
+status: published
 last_researched: 2026-04-07
 ---
 

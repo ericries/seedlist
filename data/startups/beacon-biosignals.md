@@ -28,7 +28,7 @@ founders:
   role: Co-Founder
 - name: Brandon Westover
   role: Co-Founder
-status: draft
+status: published
 last_researched: 2026-04-07
 ---
 

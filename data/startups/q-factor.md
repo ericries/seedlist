@@ -24,7 +24,7 @@ founders:
   role: Co-Founder
 - name: Dr. Guy Raz
   role: Co-Founder
-status: draft
+status: published
 last_researched: 2026-04-07
 ---
 
