@@ -19,6 +19,22 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Hermeus raises $350M to build autonomous hypersonic fighters
+  url: https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/
+  source: techcrunch
+  date_found: '2026-04-07'
+  parsed_company: Hermeus
+  parsed_amount: $350M
+  parsed_round: null
+  status: pending
+- title: The AlleyWatch March 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/04/new-york-venture-capital-march-2026/
+  source: alleywatch
+  date_found: '2026-04-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Kestra raised $25M Series A
   url: https://www.prnewswire.com/news-releases/kestra-raises-25-million-series-a-to-become-the-orchestration-standard-for-enterprises-302729018.html
   source: prnewswire
