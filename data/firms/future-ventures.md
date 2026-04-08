@@ -70,28 +70,28 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| SpaceX | Early stage | 2002 (via DFJ, continued via FV) | Space | [^1] |
-| Tesla | Early stage | 2006 (via DFJ, continued via FV) | Electric vehicles | [^1] |
-| Planet Labs | Founding VC | ~2013 (via DFJ) | Space/Earth imaging | [^1] |
+| SpaceX | Early stage | 2002 (via DFJ, continued via FV) | Space | [^1][^27] |
+| Tesla | Early stage | 2006 (via DFJ, continued via FV) | Electric vehicles | [^1][^27] |
+| Planet Labs | Founding VC | ~2013 (via DFJ) | Space/Earth imaging | [^1][^27] |
 | Upside Foods (fka Memphis Meats) | Series A | 2017 | Food tech / cultivated meat | [^17] |
-| The Boring Company | Early stage | ~2018 | Infrastructure/tunneling | [^1] |
-| D-Wave | Early stage | ~2018 | Quantum computing | [^1] |
+| The Boring Company | Series B | 2019 | Infrastructure/tunneling | [^28] |
+| D-Wave | Early stage | ~2003 (via DFJ) | Quantum computing | [^27][^29] |
 | Commonwealth Fusion Systems | Series A | 2019 | Nuclear fusion | [^18] |
 | Beeflow | Series A | 2021 | Agtech / bee immunology | [^19] |
-| Ockam | Seed | 2021 | Developer tools / IoT security | [^14] |
+| Ockam | Seed ($4.9M) | 2021 | Developer tools / IoT security | [^30] |
 | Gameto | Series A | 2022 | Biotech / reproductive longevity | [^20] |
 | Verdant Robotics | Series A | 2022 | Agtech / robotics | [^21] |
-| Better Meat Co. | Series A | ~2023 | Food tech | [^9] |
-| atai Life Sciences | Early stage | ~2020 | Biotech / psychedelic therapeutics | [^14] |
-| Glass Imaging | Seed | 2024 | AI / computational imaging | [^22] |
-| Moonwalk Biosciences | Seed/Series A | 2024 | Biotech / epigenetic medicines | [^23] |
-| Zyphra | Early stage | ~2024 | AI / large language models | [^14] |
-| MosaicML | Early stage | ~2021 | AI / ML infrastructure | [^24] |
-| Mythic | Early stage | ~2018 (via DFJ) | AI / deep learning chips | [^1] |
-| Xona Space Systems | Series B | 2025 | Space / GPS alternative | [^14] |
-| Centivax | Series A (lead) | 2025 | Biotech / universal vaccines | [^25] |
+| Better Meat Co. | Series A ($31M, co-lead) | 2025 | Food tech | [^31] |
+| atai Life Sciences | Convertible note | 2020 | Biotech / psychedelic therapeutics | [^32] |
+| Glass Imaging | Seed ($9.3M) | 2024 | AI / computational imaging | [^22] |
+| Moonwalk Biosciences | Seed/Series A ($57M) | 2024 | Biotech / epigenetic medicines | [^23] |
+| Zyphra | Seed ($11M) | 2023 | AI / large language models | [^33] |
+| MosaicML | Series A ($25M) | 2021 | AI / ML infrastructure (acquired by Databricks, 2023) | [^34] |
+| Mythic | Early stage (via DFJ, continued via FV) | ~2016 | AI / deep learning chips | [^35] |
+| Xona Space Systems | Series B ($92M) | 2025 | Space / GPS alternative | [^36] |
+| Centivax | Series A ($45M, lead) | 2025 | Biotech / universal vaccines | [^25] |
 | The Metals Company | Board seat | 2024 | Deep-sea mining / metals | [^26] |
-| Amplifier Therapeutics | Early stage | ~2024 | Biotech | [^14] |
+| Amplifier Therapeutics | Series A ($33.25M) | 2023 | Biotech / longevity therapeutics | [^37] |
 
 *This table represents approximately 33% of Future Ventures' reported 66 investments. Many early-stage investments have not been publicly disclosed. Several investments listed (SpaceX, Tesla, Planet Labs, Mythic) were originally made while Jurvetson was at DFJ and carried over or continued through Future Ventures.*
 
@@ -171,3 +171,14 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^24]: VCSheet, "Steve Jurvetson VC Breakdown & Contact," accessed April 2026. https://www.vcsheet.com/who/steve-jurvetson
 [^25]: PR Newswire, "Centivax Raises Oversubscribed $45 Million Series A Led by Future Ventures to Advance Universal Flu Vaccine," July 2025. https://www.prnewswire.com/news-releases/centivax-raises-oversubscribed-45-million-series-a-led-by-future-ventures-to-advance-universal-flu-vaccine-into-clinic-and-expand-universal-immunity-portfolio-302500567.html
 [^26]: The Metals Company, "Steve Jurvetson, a Renowned Silicon Valley Investor, Joins TMC's Board of Directors as Vice Chairman," April 2024. https://investors.metals.co/news-releases/news-release-details/steve-jurvetson-renowned-silicon-valley-investor-joins-tmcs
+[^27]: Wikipedia, "Steve Jurvetson," accessed April 2026. https://en.wikipedia.org/wiki/Steve_Jurvetson
+[^28]: CNBC, "Elon Musk's Boring Co. raises $120 million to build more tunnels," July 25, 2019. https://www.cnbc.com/2019/07/25/elon-musks-boring-co-raises-120-million-to-build-more-tunnels.html
+[^29]: Recode, "D-Wave CEO: Our Next Quantum Processor Will Make Computer Science History," September 25, 2014. https://www.recode.net/2014/9/25/11631266/d-wave-ceo-our-next-quantum-processor-will-make-computer-science
+[^30]: Ockam blog, "Okta, Core Ventures Group and Future Ventures team up to fund Ockam's quest to build beautiful tools for developers," 2021. https://ockamio2develop.z6.web.core.windows.net/learn/blog/ockam_raises_seed_round/
+[^31]: Green Queen, "The Better Meat Co Raises $31M in Funding to Make Mycoprotein Cheaper Than Beef," August 2025. https://www.greenqueen.com.hk/the-better-meat-co-rhiza-mycoprotein-series-a-funding/
+[^32]: PR Newswire, "ATAI Life Sciences announces close of $24 million convertible note financing round," April 2020. https://www.prnewswire.com/news-releases/atai-life-sciences-announces-close-of-24-million-convertible-note-financing-round-and-welcomes-jason-camm-of-thiel-capital-to-board-of-directors-301046285.html
+[^33]: EverybodyWiki, "Zyphra Technologies Inc.," accessed April 2026. https://en.everybodywiki.com/Zyphra
+[^34]: TechCrunch, "Databricks picks up MosaicML, an OpenAI competitor, for $1.3B," June 26, 2023. https://techcrunch.com/2023/06/26/databricks-picks-up-mosaicml-an-openai-competitor-for-1-3b/
+[^35]: Mythic press release, "Mythic to Challenge AI's GPU Pantheon with 100x Energy Advantage and Oversubscribed $125M Raise," accessed April 2026. https://mythic.ai/whats-new/mythic-to-challenge-ais-gpu-pantheon-with-100x-energy-advantage-and-oversubscribed-125m-raise/
+[^36]: PR Newswire, "Xona Raises $92M to Rebuild Satellite Navigation for a New Era," June 26, 2025. https://www.prnewswire.com/news-releases/xona-raises-92m-to-rebuild-satellite-navigation-for-a-new-era-302491586.html
+[^37]: PR Newswire, "Amplifier Therapeutics doses first patients in Phase 1B clinical trial and closes new financing from Future Ventures and RA Capital Management," October 17, 2023. https://www.prnewswire.com/news-releases/amplifier-therapeutics-a-cambrian-bio-pipeline-company-doses-first-patients-in-phase-1b-clinical-trial-and-closes-new-financing-from-future-ventures-and-ra-capital-management-301958646.html

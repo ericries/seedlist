@@ -63,11 +63,11 @@ Based on 18 verified portfolio investments, Gigafund's actual investment behavio
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| SpaceX | Multiple rounds | 2017–present | Space/transportation | [^1] |
-| Neuralink | Series C | 2021 | Neurotech/BCI | [^16] |
-~unknown| The Boring Company | — | — | Transportation/infrastructure | [^1] |
-| xAI | — | 2025 | AI | [^17] |
-| Last Energy | Series A, B, C | 2020–2025 | Nuclear energy | [^18] |
+| SpaceX | Multiple rounds | 2017–present | Space/transportation | [^1][^3] |
+| Neuralink | Series C ($205M) | 2021 | Neurotech/BCI | [^16][^24] |
+| The Boring Company | Series B ($120M) | 2019 | Transportation/infrastructure | [^25] |
+| xAI | Late stage | 2025 | AI | [^17] |
+| Last Energy | Series A (lead), B, C | 2020–2025 | Nuclear energy | [^18][^26] |
 | Cover | Series B ($60M) | 2021 | Housing/manufacturing | [^9] |
 | Angel Studios | $47M round | 2022 | Media/entertainment | [^11] |
 | Sana Benefits | Seed, Series A, A ext., B | 2019–2022 | Insurtech | [^12][^19] |
@@ -75,16 +75,16 @@ Based on 18 verified portfolio investments, Gigafund's actual investment behavio
 | Veryable | Series A ($31.9M) | 2021 | Manufacturing/labor | [^13] |
 | Othram | Series B ($18M) | 2021 | Forensic genomics | [^14] |
 | Luminous Computing | Series A ($105M) | 2022 | AI hardware/photonics | [^15] |
-~unknown| Emerald Cloud Lab | — | — | Biotech/lab automation | [^1] |
-~unknown| Atomic Machines | — | — | Atomically precise manufacturing | [^1] |
-~unknown| LabGenius | — | — | AI-driven protein therapeutics | [^1] |
-~unknown| Gordian Biotechnology | — | — | Longevity/drug discovery | [^20] |
+| Emerald Cloud Lab | Multiple rounds | ~2018 | Biotech/lab automation | [^1][^27] |
+| Atomic Machines | Series A | 2023 | Atomically precise manufacturing | [^28] |
+| LabGenius | Series A ($10M) | 2019 | AI-driven protein therapeutics | [^29] |
+| Gordian Biotechnology | Undisclosed ($60M total) | 2024 | Longevity/drug discovery | [^20][^30] |
 | Sunroom Rentals | Series A ($11M) | 2021 | Proptech | [^21] |
-~unknown| Gauntlet AI | — | — | AI education | [^1] |
-~unknown| SWTCH | — | — | Energy/EV charging | [^17] |
-| Golden | Seed | 2019 | Knowledge platform | [^22] |
-| Synthego | — | — | Biotech (acquired 2025) | [^8] |
-~unknown| Love.Life | — | — | Wellness/longevity | [^1] |
+| Gauntlet AI | Early stage | ~2024 | AI education | [^1] |
+| SWTCH | Series B ($27.2M) | 2024 | Energy/EV charging | [^31] |
+| Golden | Seed ($5M) | 2019 | Knowledge platform | [^32] |
+| Synthego | Series E ($200M) | 2022 | Biotech (acquired 2025) | [^33] |
+| Love.Life | Early stage | ~2023 | Wellness/longevity | [^1] |
 
 This table represents approximately 22 investments. Tracxn reports 18 companies as of December 2025 [^17]; the discrepancy likely reflects different counting of SPV vehicles and follow-on rounds.
 
@@ -151,3 +151,13 @@ No additional independently sourced founder testimonials found beyond the above.
 [^21]: Built In Austin, "Sunroom Rentals Raises $11M to Help Renters Lease Apartments Entirely Online," accessed March 2026. https://www.builtinaustin.com/articles/sunroom-rentals-raises-11m-hiring
 [^22]: VC Mapping, "Gigafund - Info, Investments & Portfolio," accessed March 2026. https://vc-mapping.gilion.com/vc-firms/gigafund
 [^23]: Capstones Co, "Wingman: The Long Term View with Luke Nosek," April 13, 2019. https://capstones.co/all/2019/4/13/thinking-long-term-with-luke-nosek
+[^24]: 9to5Google, "Elon Musk-founded Neuralink raises $205 million Series C funding that includes Alphabet's GV," July 29, 2021. https://9to5google.com/2021/07/29/neuralink-gv-funding/
+[^25]: Crunchbase, "The Boring Company — Series B funding round," July 25, 2019. https://www.crunchbase.com/funding_round/the-boring-company-series-b--42e18fde
+[^26]: The Engineer, "Last Energy raises $40m in Series B funding round," 2024. https://www.theengineer.co.uk/content/news/last-energy-raises-40m-in-series-b-funding-round
+[^27]: Crunchbase, "Emerald Cloud Lab — Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/emerald-therapeutics
+[^28]: Tracxn, "Atomic Machines — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/atomic-machines/__QqvZKMQ0AAAhQkhT_jNZWpXjSb7f-M79-Arcd6A1AAo/funding-and-investors
+[^29]: TechCrunch, "LabGenius raises $10M to use AI for protein drug discovery," October 22, 2019. https://techcrunch.com/2019/10/22/labgenius/
+[^30]: PR Newswire, "Gordian Biotechnology Introduces High-Throughput In Vivo Screening Platform," April 26, 2024. https://www.prnewswire.com/news-releases/gordian-biotechnology-introduces-high-throughput-in-vivo-screening-platform-to-discover-therapies-and-better-predict-human-outcomes-for-age-related-diseases-302128574.html
+[^31]: BusinessWire, "SWTCH Energy Secures $27.2M in Series B Funding to Eliminate EV Charging Gaps in Buildings," April 18, 2024. https://www.businesswire.com/news/home/20240418701249/en/SWTCH-Energy-Secures-$27.2M-in-Series-B-Funding-to-Eliminate-EV-Charging-Gaps-in-Buildings
+[^32]: PR Newswire, "Golden Raises $5M Seed Round with Andreessen Horowitz, Gigafund, Founders Fund, and SV Angel," April 30, 2019. https://www.prnewswire.com/news-releases/golden-raises-5m-seed-round-with-andreessen-horowitz-gigafund-founders-fund-and-sv-angel-to-build-first-self-constructing-knowledge-database-combining-artificial-and-human-intelligence-300841004.html
+[^33]: PR Newswire, "Synthego Raises $200 Million to Accelerate the Field of CRISPR-Based Medicines," February 17, 2022. https://www.prnewswire.com/news-releases/synthego-raises-200-million-to-accelerate-the-field-of-crispr-based-medicines-from-early-phase-research-to-the-clinic-301484417.html

@@ -70,44 +70,44 @@ Based on 28 verified portfolio investments, HWVP's actual investment behavior cl
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Powersoft | Early Stage | ~1991 | Developer Tools | [^7][^14] |
-| Arbor Software/Hyperion | Early Stage | ~1993 | Analytics/BI | [^12] |
-| Wind River Systems | Early Stage | ~1993 | Embedded Systems/DevTools | [^12] |
-| Napster | Series A | 2000 | Consumer Internet/Media | [^1][^15] |
-| The Knot | Early Stage | ~1999 | Consumer Internet | [^3] |
-| Liquid Audio | Early Stage | ~1998 | Streaming Media | [^12] |
+| Powersoft | Early Stage | ~1991 | Developer Tools (IPO; acquired by Sybase) | [^7][^14] |
+| Arbor Software/Hyperion | Early Stage | ~1993 | Analytics/BI (IPO; acquired by Oracle) | [^12] |
+| Wind River Systems | Early Stage | ~1993 | Embedded Systems/DevTools (acquired by Intel) | [^12] |
+| Napster | Series A ($15M) | 2000 | Consumer Internet/Media | [^1][^15] |
+| The Knot | Early Stage | ~1999 | Consumer Internet (IPO) | [^3] |
+| Liquid Audio | Early Stage | ~1998 | Streaming Media (IPO) | [^12] |
 | Net Perceptions | Early Stage | ~1999 | Enterprise Software | [^3] |
-| NetDynamics | Early Stage | ~1997 | Infrastructure (Java) | [^12] |
-| Extensity | Early Stage | ~1999 | Enterprise Applications (SaaS) | [^12][^11] |
-| Employease | Early Stage | ~2000 | Enterprise Applications (HR) | [^5] |
+| NetDynamics | Early Stage | ~1997 | Infrastructure/Java (acquired by Sun Microsystems) | [^12] |
+| Extensity | Early Stage | ~1999 | Enterprise Applications/SaaS (IPO) | [^12][^11] |
+| Employease | Early Stage | ~2000 | Enterprise Applications/HR (acquired by ADP) | [^5] |
 | Global Center | Early Stage | ~1999 | Infrastructure | [^5] |
 | Cenzic | Early Stage | ~2003 | Security | [^5] |
 | InMage | Early Stage | ~2005 | Infrastructure (acquired by Microsoft) | [^5][^11] |
-| Omniture | Early Stage | ~2004 | Web Analytics | [^12] |
-| MuleSoft | Seed | 2006 | Integration/APIs (SaaS) | [^12][^7] |
-| Five9 | Seed | ~2005 | Cloud Contact Center (SaaS) | [^12][^11] |
-| Birst | Early Stage | ~2007 | Cloud Analytics/BI | [^7] |
-| InsideSales (XANT) | Early Stage | ~2012 | Sales Software (SaaS) | [^7][^18] |
+| Omniture | Series B ($14.5M, lead) | 2004 | Web Analytics (IPO; acquired by Adobe, $1.8B) | [^12][^22] |
+| MuleSoft | Seed (first investor) | 2006 | Integration/APIs/SaaS (IPO; acquired by Salesforce, $6.5B) | [^12][^7] |
+| Five9 | Seed (first investor) | ~2004 | Cloud Contact Center/SaaS (IPO) | [^12][^11] |
+| Birst | Early Stage | ~2007 | Cloud Analytics/BI (acquired by Infor) | [^7] |
+| InsideSales (XANT) | Series A (lead) | 2012 | Sales Software/SaaS | [^18][^23] |
 | Aria Systems | Early Stage | ~2009 | Billing/Subscription (SaaS) | [^12] |
-| Sonatype | Early Stage | ~2010 | DevOps/Software Supply Chain | [^3][^6] |
+| Sonatype | Early Stage | ~2010 | DevOps/Software Supply Chain | [^3][^6][^24] |
 | Ace Metrix | Early Stage | ~2010 | Ad Analytics | [^3][^6] |
 | OptiMine | Early Stage | ~2010 | Marketing Analytics | [^6] |
-| PLUMgrid | Series A | ~2012 | SDN/Cloud Infrastructure | [^4] |
-| vKernel | Early Stage | ~2009 | Virtualization Management | [^4] |
-| Pancetera | Early Stage | ~2010 | Virtual Storage | [^4] |
+| PLUMgrid | Series A ($10.7M, co-lead) | 2012 | SDN/Cloud Infrastructure | [^4][^25] |
+| vKernel | Early Stage | ~2009 | Virtualization Management (acquired by Quest Software) | [^4] |
+| Pancetera | Early Stage | ~2010 | Virtual Storage (acquired by Quantum) | [^4] |
 | NuoDB | Early Stage | ~2012 | Scalable SQL Database | [^4] |
 | Kiip | Early Stage | ~2013 | Mobile Rewards | [^4] |
 | Influitive | Early Stage | ~2013 | Advocate Marketing (SaaS) | [^4] |
-| Scalent | Early Stage | ~2006 | Data Center Automation | [^11] |
+| Scalent | Early Stage | ~2006 | Data Center Automation (acquired by Dell) | [^11] |
 | Wavemaker | Early Stage | ~2010 | Cloud (acquired by VMware) | [^11] |
 | Akimbi Systems | Early Stage | ~2004 | Virtualization (acquired by VMware) | [^11] |
-| Stackery | Series A | 2018 | Serverless/DevOps | [^17] |
+| Stackery | Series A ($5.5M, lead) | 2018 | Serverless/DevOps | [^17] |
 | Jareva | Early Stage | ~2003 | Storage (acquired by Veritas) | [^11] |
 | Bridgestream | Early Stage | ~2005 | Identity Management (acquired by Oracle) | [^11] |
 | Yosemite Technologies | Early Stage | ~2005 | Backup/Storage (acquired by Barracuda) | [^11] |
 | Jamm | Early Stage | ~2020 | Video Collaboration (acquired by Hopin) | [^11] |
 | StepFunction | Early Stage | 2022 | Business/Productivity Software | [^19] |
-| Oomnitza | Growth | ~2021 | Enterprise Technology Management | [^20] |
+| Oomnitza | Growth ($20M) | 2021 | Enterprise Technology Management | [^20][^26] |
 | Amberdata | Early Stage | ~2020 | Financial Data/Blockchain | [^19] |
 | Clarify | Early Stage | ~2020 | Enterprise Systems (Healthcare) | [^19] |
 
@@ -162,3 +162,8 @@ Note: These testimonials are sourced from the HWVP firm website and may reflect 
 [^19]: Crunchbase, "Hummer Winblad Venture Partners" organization profile. Accessed April 2026. https://www.crunchbase.com/organization/hummer-winblad-venture-partners
 [^20]: Crunchbase, "Hummer Winblad Venture Partners — Signals and News." Accessed April 2026. https://www.crunchbase.com/organization/hummer-winblad-venture-partners/signals_and_news
 [^21]: Sonatype Blog, "Ann Winblad Reflects: The Rise of Software." Accessed April 2026. https://www.sonatype.com/blog/ann-winblad-reflects-the-rise-of-software
+[^22]: Deseret News, "$14.5 million worth more than the money to Omniture," May 17, 2004. https://www.deseret.com/2004/5/17/19829021/14-5-million-worth-more-than-the-money-to-omniture/
+[^23]: InsideSales.com, "XANT Completes $35 Million Round from U.S. Venture Partners and Hummer Winblad Venture Partners," accessed April 2026. https://www.insidesales.com/xant-completes-35-million-round-with-us-venture-partners-and-hummer-winblad-venture-partners/
+[^24]: Fortune, "Goldman Sachs Leads $30 Million Investment in Software Supply Chain Fixer," February 4, 2016. https://fortune.com/2016/02/04/goldman-sachs-invest-sonatype/
+[^25]: BusinessWire, "PLUMgrid Raises $10.7 Million in Series A Funding From US Venture Partners and Hummer Winblad Venture Partners," August 8, 2012. https://www.businesswire.com/news/home/20120808005417/en/PLUMgrid-Raises-10.7-Million-Series-Funding-Venture
+[^26]: BusinessWire, "Oomnitza Announces $20 Million Growth Funding to Drive Enterprise Technology Management Solution," August 26, 2021. https://www.businesswire.com/news/home/20210826005519/en/Oomnitza-Announces-$20-Million-Growth-Funding-to-Drive-Enterprise-Technology-Management-Solution
