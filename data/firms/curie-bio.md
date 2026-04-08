@@ -81,16 +81,16 @@ Based on 10 verified investments (out of 26+ claimed), Curie.Bio's actual portfo
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
+| Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Forward Therapeutics | Seed | 2023 | Immunology, small molecules | [^2][^9] |
-| Astoria Biologica | Seed | 2023 | Multiple sclerosis | [^2][^6] |
-| Decrypt Biomedicine | Seed | 2023 | Immunology | [^2][^6] |
-| Differentiated Therapeutics | Seed | 2023 | Degrader therapeutics | [^2][^6] |
-| Alkira Bio | Seed | 2024 | Antibody discovery (GPCRs) | [^17] |
-| Phrenix Therapeutics | Seed | 2025 | Psychiatry, neuroscience | [^18] |
-~unknown| Ambagon Therapeutics | Seed | -- | Biotechnology | [^20] |
-| R1 Therapeutics | Seed | 2026 | Biotechnology | [^20] |
+| Forward Therapeutics | Seed | 2023 | Immunology, small molecules | Active (raised $50M Series A, Nov 2023) [^2][^9] |
+| Astoria Biologica | Seed | 2023 | Multiple sclerosis | Active [^2][^6] |
+| Decrypt Biomedicine | Seed | 2023 | Immunology | Active [^2][^6] |
+| Differentiated Therapeutics | Seed | 2023 | Degrader therapeutics | Active [^2][^6] |
+| Alkira Bio | Seed | 2024 | Antibody discovery (GPCRs) | Active [^17] |
+| Phrenix Therapeutics | Seed | 2025 | Psychiatry, neuroscience | Active [^18] |
+| Ambagon Therapeutics | Seed | ~2024 | Biotechnology | Active [^20] |
+| R1 Therapeutics | Seed | 2026 | Biotechnology | Active [^20] |
 
 This table represents approximately 30% of Curie.Bio's claimed 26+ portfolio companies. The majority of investments are not publicly disclosed. Only 8 companies could be independently verified from public sources.
 

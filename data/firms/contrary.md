@@ -82,54 +82,54 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
+| Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Alloy | Seed | ~2019 | Enterprise SaaS | [^1] |
-| Anduril | Early stage | ~2018 | Defense tech | [^6] |
-| Armada | Seed | ~2021 | Infrastructure | [^1] |
-| AtoB | Seed | ~2020 | Fintech/payments | [^1] |
-| Base | Seed | ~2024 | Energy | [^11] |
-| Bloom | Seed | ~2021 | Fintech | [^1] |
-| Brevity | Seed | ~2021 | Developer tools | [^1] |
-| Brightland | Seed | ~2019 | Consumer/DTC | [^1] |
-| Candor | Seed | ~2020 | HR tech | [^1] |
-| Check | Seed | ~2019 | Fintech/payroll | [^1] |
-| DoorDash | Late stage | ~2018 | Delivery/logistics | [^6] |
-| Doss | Seed | 2025 | Enterprise SaaS | [^17] |
-| DualEntry | Seed | 2025 | Fintech/AI | [^17] |
-| Endeavor | Seed | 2024 | AI | [^17] |
-| Feathery | Seed | ~2021 | Developer tools | [^1] |
-| Fractional | Seed | ~2021 | Real estate/fintech | [^1] |
-| Hallow | Pre-seed | 2019 | Consumer/faith-tech | [^16] |
-| Knoetic | Seed | ~2020 | HR tech/analytics | [^1] |
-| Kyte | Seed | ~2020 | Mobility | [^1] |
-| Leland | Pre-seed | ~2020 | Edtech | [^13] |
-| Lightyear | Seed | ~2021 | Telecom | [^1] |
-| Maev | Seed | ~2020 | Consumer/pet care | [^1] |
-| Modern Intelligence | Seed | ~2023 | AI/defense | [^1] |
-| Moment | Seed | ~2023 | Fintech | [^11] |
-| Nomic | Seed | 2023 | AI/ML | [^18] |
-| OneSchema | Seed | ~2021 | Developer tools | [^1] |
-| Orchard Robotics | Seed | ~2023 | Agtech/robotics | [^1] |
-| Pallet | Seed | ~2021 | Logistics | [^1] |
-| Parfait | Seed | ~2021 | Consumer | [^1] |
-| Patch | Seed | ~2020 | Climate tech | [^1] |
-| Pave | Seed | ~2020 | HR tech/compensation | [^1] |
-| Power | Seed | ~2022 | Healthcare | [^1] |
-| Ramp | Series B | 2021 | Fintech | [^14] |
-| Recurrency | Seed | ~2021 | Enterprise SaaS | [^1] |
-| Rubrik | Late stage | ~2018 | Cybersecurity/data | [^11] |
-| Secureframe | Seed | ~2020 | Cybersecurity | [^1] |
-| Sora Schools | Seed | ~2021 | Edtech | [^1] |
-| Tava Health | Seed | ~2021 | Healthcare | [^1] |
-| Teamshares | Seed | ~2020 | Fintech/SMB | [^1] |
-| Uprise | Seed | 2024 | Fintech | [^17] |
-| Valar Atomics | Seed | ~2023 | Nuclear energy | [^1] |
-| Vesto | Seed | ~2021 | Fintech | [^1] |
-| Vise | Pre-seed | ~2018 | Fintech/AI | [^6] |
-| Voltra | Seed | ~2024 | Energy | [^11] |
-| Warp | Seed | ~2021 | Developer tools | [^1] |
-| Zepto | Seed | 2021 | Quick-commerce | [^15] |
+| Alloy | Seed | ~2019 | Enterprise SaaS | Active (unicorn, $1.35B valuation) [^1] |
+| Anduril | Early stage | ~2018 | Defense tech | Active ($30.5B+ valuation) [^6] |
+| Armada | Seed | ~2021 | Infrastructure | Active ($239M total funding) [^1] |
+| AtoB | Seed | ~2020 | Fintech/payments | Active [^1] |
+| Base | Seed | ~2024 | Energy | Active [^11] |
+| Bloom | Seed | ~2021 | Fintech | Active [^1] |
+| Brevity | Seed | ~2021 | Developer tools | Active [^1] |
+| Brightland | Seed | ~2019 | Consumer/DTC | Active [^1] |
+| Candor | Seed | ~2020 | HR tech | Active [^1] |
+| Check | Seed | ~2019 | Fintech/payroll | Active [^1] |
+| DoorDash | Late stage | ~2018 | Delivery/logistics | IPO (NYSE: DASH, Dec 2020) [^6] |
+| Doss | Seed | 2025 | Enterprise SaaS | Active [^17] |
+| DualEntry | Seed | 2025 | Fintech/AI | Active [^17] |
+| Endeavor | Seed | 2024 | AI | Active [^17] |
+| Feathery | Seed | ~2021 | Developer tools | Active (profitable) [^1] |
+| Fractional | Seed | ~2021 | Real estate/fintech | Active [^1] |
+| Hallow | Pre-seed | 2019 | Consumer/faith-tech | Active ($157M total funding) [^16] |
+| Knoetic | Seed | ~2020 | HR tech/analytics | Active [^1] |
+| Kyte | Seed | ~2020 | Mobility | Shut down (Aug 2025; assets sold to Turo) [^1] |
+| Leland | Pre-seed | ~2020 | Edtech | Active ($17M total funding) [^13] |
+| Lightyear | Seed | ~2021 | Telecom | Active ($63.9M total funding) [^1] |
+| Maev | Seed | ~2020 | Consumer/pet care | Active [^1] |
+| Modern Intelligence | Seed | ~2023 | AI/defense | Active [^1] |
+| Moment | Seed | ~2023 | Fintech | Active [^11] |
+| Nomic | Seed | 2023 | AI/ML | Active [^18] |
+| OneSchema | Seed | ~2021 | Developer tools | Active [^1] |
+| Orchard Robotics | Seed | ~2023 | Agtech/robotics | Active ($25M+ total funding) [^1] |
+| Pallet | Seed | ~2021 | Logistics | Active [^1] |
+| Parfait | Seed | ~2021 | Consumer | Active [^1] |
+| Patch | Seed | ~2020 | Climate tech | Active [^1] |
+| Pave | Seed | ~2020 | HR tech/compensation | Active (unicorn, $1.6B valuation) [^1] |
+| Power | Seed | ~2022 | Healthcare | Active ($30.8M total funding) [^1] |
+| Ramp | Series B | 2021 | Fintech | Active (unicorn, $32B valuation) [^14] |
+| Recurrency | Seed | ~2021 | Enterprise SaaS | Active [^1] |
+| Rubrik | Late stage | ~2018 | Cybersecurity/data | IPO (NYSE: RBRK, Apr 2024) [^11] |
+| Secureframe | Seed | ~2020 | Cybersecurity | Active (Series B) [^1] |
+| Sora Schools | Seed | ~2021 | Edtech | Active ($31M total funding) [^1] |
+| Tava Health | Seed | ~2021 | Healthcare | Active (Series B, $33M total funding) [^1] |
+| Teamshares | Seed | ~2020 | Fintech/SMB | Pending IPO (SPAC merger with Live Oak V; Nasdaq: TMS) [^1] |
+| Uprise | Seed | 2024 | Fintech | Active [^17] |
+| Valar Atomics | Seed | ~2023 | Nuclear energy | Active ($450M+ raised, $2B valuation) [^1] |
+| Vesto | Seed | ~2021 | Fintech | Active [^1] |
+| Vise | Pre-seed | ~2018 | Fintech/AI | Active (pivoted 2023) [^6] |
+| Voltra | Seed | ~2024 | Energy | Active [^11] |
+| Warp | Seed | ~2021 | Developer tools | Active ($70M+ funding, 700K+ developers) [^1] |
+| Zepto | Seed | 2021 | Quick-commerce | Active (filed for IPO Dec 2025; $7B valuation) [^15] |
 
 *Note: This table represents 46 of 57+ known investments. Many entries use approximate founding years as investment date proxies (marked with ~) because precise investment dates were not publicly available. Investments marked "Late stage" for DoorDash and Rubrik reflect later-round participation rather than the firm's typical early-stage focus.*
 

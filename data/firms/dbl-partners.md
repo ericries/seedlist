@@ -68,54 +68,54 @@ Based on 46 verified portfolio companies from the firm's website [^2], DBL Partn
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
+| Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Tesla | Early Stage | ~2006 | Electric vehicles | [^9] |
-| PowerLight | Early Stage | ~2004 | Solar energy | [^2] |
-| Peninsula Pharmaceuticals | Early Stage | ~2004 | Pharmaceuticals | [^2] |
-| eLoan | Early Stage | ~2004 | Fintech | [^2] |
-| Five Prime Therapeutics | Early Stage | ~2005 | Biotech | [^2] |
-| XDx | Early Stage | ~2005 | Diagnostics | [^2] |
-| Labcyte | Early Stage | ~2005 | Lab instrumentation | [^2] |
-| eMeter | Early Stage | ~2006 | Energy software | [^2] |
-| Pandora | Early Stage | ~2007 | Digital media | [^2] |
-| SolarCity | Early Stage | ~2008 | Solar energy | [^2] |
-| BrightSource Energy | Early Stage | ~2008 | Renewable energy | [^2] |
-| Revolution Foods | Early Stage | ~2009 | Food/nutrition | [^2] |
-| View | Early Stage | ~2010 | Smart building tech | [^2] |
-| Kateeva | Early Stage | ~2011 | OLED manufacturing | [^2] |
-| OPX Biotechnologies | Early Stage | ~2011 | Bio-based chemicals | [^2] |
-| Primus Power | Early Stage | ~2011 | Energy storage | [^2] |
-| NEXTracker | Series B | ~2014 | Solar PV tracking | [^16] |
-| SpaceX | Growth | ~2015 | Aerospace | [^2] |
-| Planet Labs | Early Stage | ~2015 | Earth observation | [^2] |
-| The RealReal | Early Stage | ~2015 | Luxury resale | [^2] |
-| Mapbox | Early Stage | ~2015 | Location data | [^2] |
-| The Muse | Early Stage | ~2015 | Career platform | [^2] |
-| Andela | Early Stage | ~2015 | Developer training | [^2] |
-| UrbanSitter | Early Stage | ~2015 | Marketplace | [^2] |
-| RallyPoint | Early Stage | ~2015 | Military networking | [^2] |
-| Trove (Yerdle) | Early Stage | ~2015 | Resale logistics | [^2] |
-| ZincFive | Early Stage | ~2016 | Battery tech | [^2] |
-| ZOLA (Off Grid Electric) | Early Stage | ~2016 | Renewable energy | [^2] |
-| Farmers Business Network | Series B | ~2016 | Agtech | [^2] |
-| Apeel Sciences | Series B | ~2018 | Food waste prevention | [^2] |
-| The Boring Company | Growth | ~2019 | Infrastructure | [^2] |
-| Menlo Micro | Early Stage | ~2019 | Semiconductors | [^2] |
-| Bellwether Coffee | Early Stage | ~2019 | Sustainable coffee | [^2] |
-| Spatial | Early Stage | ~2020 | 3D collaboration | [^2] |
-| Pallet | Early Stage | ~2020 | Shelter manufacturing | [^2] |
-| R-Zero | Early Stage | ~2020 | Smart building HVAC | [^2] |
-| Wynd | Early Stage | ~2021 | Air quality | [^2] |
-| Airspace | Series C | 2022 | Logistics | [^11] |
-| xAI | Growth | ~2023 | Artificial intelligence | [^2] |
-| BurnBot | Early Stage | ~2023 | Wildfire prevention | [^2] |
-| Rain | Seed | 2023 | Wildfire prevention | [^12] |
-| Mast | Early Stage | ~2023 | Reforestation | [^2] |
-| Chestnut Carbon | Early Stage | ~2023 | Carbon removal | [^2] |
-| Terram Lab | Early Stage | ~2024 | Sustainable packaging | [^2] |
-| Fiber Global | Early Stage | ~2024 | Building materials | [^2] |
-| Agtonomy | Series B | 2025 | Agtech/physical AI | [^12] |
+| Tesla | Early Stage | ~2006 | Electric vehicles | IPO (NASDAQ: TSLA, Jun 2010) [^9] |
+| PowerLight | Early Stage | ~2004 | Solar energy | Active (now PowerLight Technologies) [^2] |
+| Peninsula Pharmaceuticals | Early Stage | ~2004 | Pharmaceuticals | Acquired by J&J ($245M, 2005) [^2] |
+| eLoan | Early Stage | ~2004 | Fintech | Acquired by Banco Popular ($300M, 2005) [^2] |
+| Five Prime Therapeutics | Early Stage | ~2005 | Biotech | Acquired by Amgen ($1.9B, 2021) [^2] |
+| XDx | Early Stage | ~2005 | Diagnostics | Acquired by CareDx [^2] |
+| Labcyte | Early Stage | ~2005 | Lab instrumentation | Acquired by Beckman Coulter [^2] |
+| eMeter | Early Stage | ~2006 | Energy software | Acquired by Siemens (2012) [^2] |
+| Pandora | Early Stage | ~2007 | Digital media | IPO (NYSE, 2011); acquired by SiriusXM ($3.5B, 2019) [^2] |
+| SolarCity | Early Stage | ~2008 | Solar energy | IPO (NASDAQ, 2012); acquired by Tesla ($2.6B, 2016) [^2] |
+| BrightSource Energy | Early Stage | ~2008 | Renewable energy | Restructured (operations split; Ivanpah plant partially shut down) [^2] |
+| Revolution Foods | Early Stage | ~2009 | Food/nutrition | Active (B Corp; 50M+ meals/year) [^2] |
+| View | Early Stage | ~2010 | Smart building tech | Bankrupt (Chapter 11, 2024; went private) [^2] |
+| Kateeva | Early Stage | ~2011 | OLED manufacturing | Active [^2] |
+| OPX Biotechnologies | Early Stage | ~2011 | Bio-based chemicals | Acquired by Cargill (2015) [^2] |
+| Primus Power | Early Stage | ~2011 | Energy storage | Active [^2] |
+| NEXTracker | Series B | ~2014 | Solar PV tracking | IPO (NASDAQ: NXT, Feb 2023) [^16] |
+| SpaceX | Growth | ~2015 | Aerospace | Active ($800B+ valuation; IPO filed 2026) [^2] |
+| Planet Labs | Early Stage | ~2015 | Earth observation | IPO (NYSE: PL, Dec 2021 via SPAC) [^2] |
+| The RealReal | Early Stage | ~2015 | Luxury resale | IPO (NASDAQ: REAL, Jun 2019) [^2] |
+| Mapbox | Early Stage | ~2015 | Location data | Active [^2] |
+| The Muse | Early Stage | ~2015 | Career platform | Active [^2] |
+| Andela | Early Stage | ~2015 | Developer training | Active ($1.5B valuation) [^2] |
+| UrbanSitter | Early Stage | ~2015 | Marketplace | Active [^2] |
+| RallyPoint | Early Stage | ~2015 | Military networking | Active [^2] |
+| Trove (Yerdle) | Early Stage | ~2015 | Resale logistics | Active [^2] |
+| ZincFive | Early Stage | ~2016 | Battery tech | Active [^2] |
+| ZOLA (Off Grid Electric) | Early Stage | ~2016 | Renewable energy | Active [^2] |
+| Farmers Business Network | Series B | ~2016 | Agtech | Active ($50M raise, Jul 2025; spun off GCS) [^2] |
+| Apeel Sciences | Series B | ~2018 | Food waste prevention | Active ($2B valuation) [^2] |
+| The Boring Company | Growth | ~2019 | Infrastructure | Active (Las Vegas Loop; Nashville Music City Loop) [^2] |
+| Menlo Micro | Early Stage | ~2019 | Semiconductors | Active [^2] |
+| Bellwether Coffee | Early Stage | ~2019 | Sustainable coffee | Active [^2] |
+| Spatial | Early Stage | ~2020 | 3D collaboration | Active [^2] |
+| Pallet | Early Stage | ~2020 | Shelter manufacturing | Active [^2] |
+| R-Zero | Early Stage | ~2020 | Smart building HVAC | Active [^2] |
+| Wynd | Early Stage | ~2021 | Air quality | Active [^2] |
+| Airspace | Series C | 2022 | Logistics | Active [^11] |
+| xAI | Growth | ~2023 | Artificial intelligence | Acquired by SpaceX ($250B valuation, Feb 2026) [^2] |
+| BurnBot | Early Stage | ~2023 | Wildfire prevention | Active [^2] |
+| Rain | Seed | 2023 | Wildfire prevention | Active [^12] |
+| Mast | Early Stage | ~2023 | Reforestation | Active [^2] |
+| Chestnut Carbon | Early Stage | ~2023 | Carbon removal | Active [^2] |
+| Terram Lab | Early Stage | ~2024 | Sustainable packaging | Active [^2] |
+| Fiber Global | Early Stage | ~2024 | Building materials | Active [^2] |
+| Agtonomy | Series B | 2025 | Agtech/physical AI | Active [^12] |
 
 *Note: Many entries use approximate years based on founding year proxies, as exact investment dates are not publicly available for most early deals. This table represents approximately 46 of 72 known investments (~64%).*
 
