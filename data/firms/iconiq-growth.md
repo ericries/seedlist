@@ -100,22 +100,22 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Figma | Seed | 2013 | Enterprise SaaS/Design | IPO (2025) | [^2] [^3] |
-| Adyen | Growth | 2015 | Fintech/Payments | Public | [^7] [^15] |
-| Netskope | Growth | 2015 | Cybersecurity | IPO (2025) | [^7] [^16] |
-| Datadog | Series D | 2015 | Enterprise SaaS/Monitoring | Public | [^8] [^17] |
-| Snowflake | Series D | 2017 | Data/Cloud | Public | [^18] |
-| GitLab | Series D (lead) | 2018 | Developer Tools | Public | [^19] |
-| Chime | Series D | 2019 | Fintech/Neobank | IPO (2025) | [^20] |
-| Miro | Series C | 2021 | Enterprise SaaS/Collaboration | Active | [^21] |
-| 1Password | Series C (lead) | 2022 | Cybersecurity | Active | [^22] |
-| Reprise | Series B | 2021 | Enterprise SaaS | Active | [^23] |
-| NinjaOne | Series C (lead) | 2024 | Enterprise SaaS/IT Management | Active | [^14] |
+| Figma | Seed ($0.0878/share) | 2013 | Enterprise SaaS/Design | IPO (2025) | [^2] [^3] [^28] |
+| Adyen | Series C ($2.3B valuation) | 2015 | Fintech/Payments | Public (2018, Euronext) | [^15] [^28] |
+| Netskope | Series E ($75M, lead) | 2015 | Cybersecurity | IPO (2025) | [^16] [^29] |
+| Datadog | Series D ($94.5M, lead) | 2016 | Enterprise SaaS/Monitoring | Public (2019, NASDAQ) | [^17] [^30] |
+| Snowflake | Series D ($100M, lead) | 2017 | Data/Cloud | Public (2020, NYSE) | [^18] |
+| GitLab | Series D ($100M, lead, $1.1B valuation) | 2018 | Developer Tools | Public (2021, NASDAQ) | [^19] |
+| Chime | Series D ($200M round) | 2019 | Fintech/Neobank | IPO (2025) | [^20] |
+| Miro | Series C ($400M, $17.5B valuation) | 2022 | Enterprise SaaS/Collaboration | Active | [^21] [^31] |
+| 1Password | Series C ($620M, lead, $6.8B valuation) | 2022 | Cybersecurity | Active | [^22] [^32] |
+| Reprise | Series B ($62M) | 2021 | Enterprise SaaS | Active | [^23] |
+| NinjaOne | Series C ($231.5M, lead) | 2024 | Enterprise SaaS/IT Management | Active | [^14] |
 | Ramp | Growth | 2025 | Fintech | Active | [^3] |
-| ElevenLabs | Series C (lead) | 2024 | AI/Voice | Active | [^24] |
-| ElevenLabs | Series D (follow-on) | 2025 | AI/Voice | Active | [^24] |
+| ElevenLabs | Series C ($180M, co-lead, $3.3B valuation) | 2024 | AI/Voice | Active | [^24] [^33] |
+| ElevenLabs | Series D ($500M, $11B valuation) | 2025 | AI/Voice | Active | [^24] [^34] |
 | Anthropic | Series G (co-lead) | 2025 | AI/Foundation Models | Active | [^10] [^3] |
-| Databricks | Late-stage | 2024 | AI/Data Platform | Active | [^3] |
+| Databricks | Late-stage ($10B round) | 2024 | AI/Data Platform | Active | [^3] |
 | Quince | Series D (lead) | 2025 | Consumer/E-commerce | Active | [^3] |
 | Lead Bank | Series B | 2025 | Fintech | Active | [^10] |
 | Legora | Series B | 2025 | AI/Legal | Active | [^10] |
@@ -123,35 +123,35 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Oura | Series E | 2025 | Consumer/Health | Active | [^10] |
 | Statsig | Series C | 2025 | Enterprise SaaS | Acquired by OpenAI | [^10] |
 | Tennr | Series C | 2025 | AI/Healthcare | Active | [^10] |
-| Sierra | Series C | 2024 | AI/Customer Experience | Active | [^25] |
+| Sierra | Series C ($175M) | 2024 | AI/Customer Experience | Active | [^25] |
 | DX | Growth | 2025 | Enterprise SaaS/DevTools | Active | [^26] |
-| Airbnb | Growth | ~2014 | Consumer Internet | Public | [^4] |
-| Alibaba | Growth | ~2014 | Consumer Internet | Public | [^4] |
-| DocuSign | Growth | ~2015 | Enterprise SaaS | Public | [^4] |
-| Uber | Growth | ~2015 | Consumer Internet | Public | [^4] |
-| Zoom | Growth | ~2018 | Enterprise SaaS | Public | [^4] |
-| Braze | Growth | ~2018 | Enterprise SaaS/Marketing | Public | [^4] |
-| CrowdStrike | Growth | ~2018 | Cybersecurity | Public | [^11] |
-| ServiceTitan | Growth | ~2018 | Enterprise SaaS | IPO (2024) | [^4] |
-| Snowflake | Follow-on | 2023 | Data/Cloud | Public | [^27] |
+| Airbnb | Growth | ~2014 | Consumer Internet | Public (2020, NASDAQ) | [^4] |
+| Alibaba | Growth | ~2014 | Consumer Internet | Public (2014, NYSE) | [^4] |
+| DocuSign | Growth | ~2015 | Enterprise SaaS | Public (2018, NASDAQ) | [^4] |
+| Uber | Growth | ~2015 | Consumer Internet | Public (2019, NYSE) | [^4] |
+| Zoom | Growth | ~2018 | Enterprise SaaS | Public (2019, NASDAQ) | [^4] |
+| Braze | Growth | ~2018 | Enterprise SaaS/Marketing | Public (2021, NASDAQ) | [^4] |
+| CrowdStrike | Growth | ~2018 | Cybersecurity | Public (2019, NASDAQ) | [^11] |
+| ServiceTitan | Growth | ~2018 | Enterprise SaaS | IPO (2024, NASDAQ) | [^4] |
+| Snowflake | Follow-on | 2023 | Data/Cloud | Public (2020, NYSE) | [^27] |
 | Collibra | Growth | ~2018 | Enterprise SaaS/Data | Active | [^7] |
-| Sprinklr | Growth | ~2017 | Enterprise SaaS | Public | [^4] |
-| Marqeta | Growth | ~2018 | Fintech/Payments | Public | [^4] |
-| Procore | Growth | ~2017 | Enterprise SaaS/Construction | Public | [^4] |
-| Coupa | Growth | ~2016 | Enterprise SaaS/Procurement | Acquired | [^4] |
-| GoodRx | Growth | ~2017 | Healthcare/Consumer | Public | [^4] |
-| HashiCorp | Growth | ~2020 | Infrastructure | Acquired by IBM | [^11] |
-| Alteryx | Growth | ~2016 | Enterprise SaaS/Analytics | Acquired | [^4] |
+| Sprinklr | Growth | ~2017 | Enterprise SaaS | Public (2021, NYSE) | [^4] |
+| Marqeta | Growth | ~2018 | Fintech/Payments | Public (2021, NASDAQ) | [^4] |
+| Procore | Growth | ~2017 | Enterprise SaaS/Construction | Public (2021, NYSE) | [^4] |
+| Coupa | Growth | ~2016 | Enterprise SaaS/Procurement | Acquired by Thoma Bravo (2023) | [^4] |
+| GoodRx | Growth | ~2017 | Healthcare/Consumer | Public (2020, NASDAQ) | [^4] |
+| HashiCorp | Growth | ~2020 | Infrastructure | Acquired by IBM (2024) | [^11] |
+| Alteryx | Growth | ~2016 | Enterprise SaaS/Analytics | Acquired by Clearlake (2024) | [^4] |
 | BambooHR | Growth | ~2016 | Enterprise SaaS/HR | Active | [^4] |
 | Automattic | Growth | ~2016 | Consumer Internet | Active | [^4] |
-| Wolt | Growth | ~2020 | Consumer Internet/Delivery | Acquired by DoorDash | [^7] |
+| Wolt | Growth | ~2020 | Consumer Internet/Delivery | Acquired by DoorDash (2022) | [^7] |
 | Calendly | Growth | ~2021 | Enterprise SaaS | Active | [^11] |
 | Canva | Secondary | ~2021 | Enterprise SaaS/Design | Active | [^20] |
 | Glean | Growth | 2024 | AI/Enterprise Search | Active | [^10] |
-| Drata | Growth | ~2022 | Enterprise SaaS/Compliance | Active | [^11] |
+| Drata | Series C ($200M, co-lead, $2B valuation) | 2022 | Enterprise SaaS/Compliance | Active | [^11] [^35] |
 | Groww | Growth | 2021 | Fintech | IPO (2025) | [^10] |
 | Monzo | Growth | ~2022 | Fintech/Neobank | Active | [^7] |
-| Moveworks | Growth | ~2022 | AI/Enterprise | Acquired by ServiceNow | [^10] |
+| Moveworks | Growth | ~2022 | AI/Enterprise | Acquired by ServiceNow (2024) | [^10] |
 
 *Note: Years marked with "~" are approximate, based on founding year proxies or estimated from fund vintage. This table represents approximately 51 of 140+ reported portfolio company partnerships. ICONIQ Growth's website lists over 100 companies [^11].*
 
@@ -234,3 +234,19 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^26]: Utah Business, "SLC-based engineering company DX backed by ICONIQ Growth," March 2025. https://www.utahbusiness.com/press-releases/2025/03/07/iconiq-growth-backs-dx/
 
 [^27]: ICONIQ, "Extending our Partnership with Snowflake: Powering the Next Generation of Data Innovation," 2023. https://www.iconiq.com/growth/insights/snowflake-the-last-of-the-rugged-individualists
+
+[^28]: CNBC, "Adyen worth $2.3B after secret fund involving Zuckerberg invests," September 2015. https://www.cnbc.com/2015/09/30/adyen-worth-23b-after-secret-fund-involving-zuckerberg-invests.html
+
+[^29]: Netskope, "Netskope Closes $75 Million Funding Round Led By Iconiq Capital," 2015. https://www.netskope.com/press-releases/netskope-closes-75-million-funding-round-led-by-iconiq-capital
+
+[^30]: TechCrunch, "Investors Feed Datadog A Hefty $94.5 Million Round," January 2016. https://techcrunch.com/2016/01/12/investors-feed-datadog-a-hefty-94-5-million-round/
+
+[^31]: TechCrunch, "Visual collaboration company Miro valued at $17.5B following $400M in new funding," January 2022. https://techcrunch.com/2022/01/05/visual-collaboration-company-miro-valued-at-17-5b-following-400m-in-new-funding/
+
+[^32]: TechCrunch, "Remote work and cloud adoption lands 1Password with $620M Series C, now valued at $6.8B," January 2022. https://techcrunch.com/2022/01/19/1password-series-c-funding/
+
+[^33]: TechCrunch, "ElevenLabs, the hot AI audio startup, confirms $180M in Series C funding at a $3.3B valuation," January 2025. https://techcrunch.com/2025/01/30/elevenlabs-raises-180-million-in-series-c-funding-at-3-3-billion-valuation/
+
+[^34]: Vestbee, "Polish-founded voice AI platform ElevenLabs secures $500M Series D at an $11B valuation," 2025. https://www.vestbee.com/insights/articles/eleven-labs-secures-500-m
+
+[^35]: TechCrunch, "Security compliance and automation platform Drata nabs $200M at $2B valuation," December 2022. https://techcrunch.com/2022/12/07/security-compliance-and-automation-platform-drata-nabs-200m-at-2b-valuation/

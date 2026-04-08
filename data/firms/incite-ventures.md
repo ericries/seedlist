@@ -91,83 +91,83 @@ Based on 75 verified venture investments from Incite's portfolio page [^8], the 
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
-|---------|-------|------|--------|--------|
-| Heirloom Carbon | Seed | 2021 | Carbon removal | [^8][^9] |
-| AMP Robotics | Early | ~2018 | Recycling robotics | [^8] |
-| Charm Industrial | Early | ~2020 | Carbon removal | [^8] |
-| Mill | Seed | ~2022 | Food waste | [^8] |
-| Quilt | Early | ~2021 | Heat pumps | [^8] |
-| Gradient | Early | ~2020 | HVAC/climate | [^8] |
-| Antora Energy | Early | ~2019 | Thermal energy storage | [^8] |
-| Windfall Bio | Early | ~2021 | Methane conversion | [^8] |
-| Verse | Early | ~2021 | Energy platform | [^8] |
-| Orbital Materials | Early | ~2022 | AI for clean energy | [^8] |
-| HomeBoost | Early | ~2023 | Home energy | [^8] |
-| Absolute Climate | Early | ~2023 | Climate verification | [^8] |
-| Dig Energy | Early | ~2023 | Geothermal | [^8] |
-| Pearl Street Technologies | Early | ~2022 | Utility software | [^8] |
-| Onsemble | Early | ~2023 | Home electrification | [^8] |
-| Monarch Tractors | Early | ~2019 | Electric tractors | [^8] |
-| Rubi | Early | ~2022 | Carbon-negative textiles | [^8] |
-| Ebb Carbon | Early | ~2021 | Ocean carbon removal | [^8] |
-| CarbonCapture | Early | ~2020 | Direct air capture | [^8] |
-| Carbon Engineering | Early | ~2019 | Carbon removal | [^8] |
-| Liminal | Early | ~2022 | Battery manufacturing | [^8] |
-| Kindbody | Early | ~2020 | Reproductive health | [^8] |
-| Prenuvo | Early | ~2022 | MRI screening | [^8] |
-| Curve Biosciences | Early | ~2022 | Chronic disease care | [^8] |
-| Trial Library | Early | ~2022 | Clinical trials | [^8] |
-| Probably Genetic | Early | ~2020 | Genetic testing | [^8] |
-| Nav | Early | ~2018 | Business credit | [^8] |
-| Mejuri | Early | ~2018 | Ethical jewelry | [^8] |
-| Certis Oncology | Early | ~2018 | Oncology biotech | [^8] |
-| Future Family | Early | ~2018 | Fertility fintech | [^8] |
-| SparkMeter | Early | ~2018 | Distributed energy | [^8] |
-| Crowd Cow | Early | ~2018 | Direct-to-consumer meat | [^8] |
-| Tandem PV | Early | ~2019 | Solar technology | [^8] |
-| Wright Electric | Early | ~2018 | Electric aircraft | [^8] |
-| Robigo | Early | ~2021 | Crop protection | [^8] |
-| Dispatch Goods | Early | ~2020 | Reusable containers | [^8] |
-| Solidia | Early | ~2019 | Low-carbon cement | [^8] |
-| Blue Lake Packaging | Early | ~2020 | Sustainable packaging | [^8] |
-| ForceMetrics | Early | ~2020 | Public safety data | [^8] |
-| Helix Nanotechnologies | Early | ~2022 | Gene therapy | [^8] |
-| Better Place Forest | Early | ~2019 | Memorial forests | [^8] |
-| Rebound | Early | ~2021 | Cold chain logistics | [^8] |
-| SVX | Early | ~2022 | Battery production | [^8] |
-| Cove | Early | ~2019 | Biodegradable bottles | [^8] |
-| Plural Policy | Early | ~2022 | Legislation tracking | [^8] |
-| Justice Text | Early | ~2020 | Criminal justice tech | [^8] |
-| KOTN | Early | ~2018 | Ethical apparel | [^8] |
-| Planet FWD | Early | ~2020 | Carbon management | [^8] |
-| Matician | Early | ~2019 | Autonomous home devices | [^8] |
-| RailVision | Early | ~2020 | Railway emissions | [^8] |
-| Spatial | Early | ~2020 | Immersive audio | [^8] |
-| Roadio | Early | ~2022 | Bike safety | [^8] |
-| Violet | Early | ~2021 | Healthcare benchmarking | [^8] |
-| Zero Acre | Early | ~2021 | Fermentation oils | [^8] |
-| CarbonWave | Early | ~2021 | Seaweed biomaterials | [^8] |
-| Clarasight | Early | ~2021 | Carbon planning | [^8] |
-| Co-Pilot | Early | ~2020 | Fitness coaching | [^8] |
-| Emerald Cloud Lab | Early | ~2018 | Remote lab | [^8] |
-| Farm Raise | Early | ~2021 | Farm funding | [^8] |
-| Galy | Early | ~2020 | Cellular agriculture | [^8] |
-| Kinfield | Early | ~2020 | Outdoor products | [^8] |
-| Learnfully | Early | ~2020 | Personalized learning | [^8] |
-| Saturday Robotics | Early | ~2022 | Home robotics | [^8] |
-| Altro | Early | ~2021 | Credit building | [^8] |
-| Petal | Early | ~2018 | Credit cards | [^8] |
-| Commons | Early | ~2021 | Emissions tracking | [^8] |
-| Wildgood | Early | ~2022 | Plant-based ice cream | [^8] |
-| 73V | Early | ~2022 | Reproductive health | [^8] |
-| Gusto | Early | ~2015 | Payroll/HR | [^8] |
-| Ellevest | Early | ~2016 | Women's investing | [^8] |
-| SPAN | Early | ~2019 | Home energy panel | [^8] |
-| Aigen | Early | ~2022 | Agricultural robots | [^8] |
-| Courier | Early | ~2021 | Counter-disinformation media | [^8] |
-| Rec | Early | ~2021 | Recreational sports | [^8] |
-| Everrati | Early | ~2021 | Classic car electrification | [^8] |
+| Company | Stage | Year | Sector | Status | Source |
+|---------|-------|------|--------|--------|--------|
+| Heirloom Carbon | Seed | 2021 | Carbon removal | Active (raised $150M Series B, 2024) | [^8][^9][^10] |
+| AMP Robotics | Early | ~2018 | Recycling robotics | Active | [^8] |
+| Charm Industrial | Early | ~2020 | Carbon removal | Active | [^8] |
+| Mill | Seed | ~2022 | Food waste | Active (founded by Incite co-founder Matt Rogers) | [^8][^11] |
+| Quilt | Seed ($9M round) | 2023 | Heat pumps | Active (raised $33M Series A, $20M Series B) | [^8][^12] |
+| Gradient | Early | ~2020 | HVAC/climate | Active | [^8] |
+| Antora Energy | Early | ~2019 | Thermal energy storage | Active | [^8] |
+| Windfall Bio | Early | ~2021 | Methane conversion | Active | [^8] |
+| Verse | Early | ~2021 | Energy platform | Active | [^8] |
+| Orbital Materials | Early | ~2022 | AI for clean energy | Active | [^8] |
+| HomeBoost | Early | ~2023 | Home energy | Active | [^8] |
+| Absolute Climate | Early | ~2023 | Climate verification | Active | [^8] |
+| Dig Energy | Early | ~2023 | Geothermal | Active | [^8] |
+| Pearl Street Technologies | Early | ~2022 | Utility software | Active | [^8] |
+| Onsemble | Early | ~2023 | Home electrification | Active | [^8] |
+| Monarch Tractors | Early | ~2019 | Electric tractors | Active (raised $133M Series C) | [^8][^13] |
+| Rubi | Early | ~2022 | Carbon-negative textiles | Active | [^8] |
+| Ebb Carbon | Early | ~2021 | Ocean carbon removal | Active | [^8] |
+| CarbonCapture | Early | ~2020 | Direct air capture | Active | [^8] |
+| Carbon Engineering | Early | ~2019 | Carbon removal | Acquired by Occidental Petroleum (2023) | [^8] |
+| Liminal | Early | ~2022 | Battery manufacturing | Active | [^8] |
+| Kindbody | Early | ~2020 | Reproductive health | Active (unicorn, 2022) | [^8] |
+| Prenuvo | Early | ~2022 | MRI screening | Active | [^8] |
+| Curve Biosciences | Early | ~2022 | Chronic disease care | Active | [^8] |
+| Trial Library | Early | ~2022 | Clinical trials | Active | [^8] |
+| Probably Genetic | Early | ~2020 | Genetic testing | Active | [^8] |
+| Nav | Early | ~2018 | Business credit | Active | [^8] |
+| Mejuri | Early | ~2018 | Ethical jewelry | Active | [^8] |
+| Certis Oncology | Early | ~2018 | Oncology biotech | Active | [^8] |
+| Future Family | Early | ~2018 | Fertility fintech | Active | [^8] |
+| SparkMeter | Early | ~2018 | Distributed energy | Active | [^8] |
+| Crowd Cow | Early | ~2018 | Direct-to-consumer meat | Active | [^8] |
+| Tandem PV | Early | ~2019 | Solar technology | Active | [^8] |
+| Wright Electric | Early | ~2018 | Electric aircraft | Active | [^8] |
+| Robigo | Early | ~2021 | Crop protection | Active | [^8] |
+| Dispatch Goods | Early | ~2020 | Reusable containers | Active | [^8] |
+| Solidia | Early | ~2019 | Low-carbon cement | Active | [^8] |
+| Blue Lake Packaging | Early | ~2020 | Sustainable packaging | Active | [^8] |
+| ForceMetrics | Early | ~2020 | Public safety data | Active | [^8] |
+| Helix Nanotechnologies | Early | ~2022 | Gene therapy | Active | [^8] |
+| Better Place Forest | Early | ~2019 | Memorial forests | Active | [^8] |
+| Rebound | Early | ~2021 | Cold chain logistics | Active | [^8] |
+| SVX | Early | ~2022 | Battery production | Active | [^8] |
+| Cove | Early | ~2019 | Biodegradable bottles | Active | [^8] |
+| Plural Policy | Early | ~2022 | Legislation tracking | Active | [^8] |
+| Justice Text | Early | ~2020 | Criminal justice tech | Active | [^8] |
+| KOTN | Early | ~2018 | Ethical apparel | Active | [^8] |
+| Planet FWD | Early | ~2020 | Carbon management | Active | [^8] |
+| Matician | Early | ~2019 | Autonomous home devices | Active | [^8] |
+| RailVision | Early | ~2020 | Railway emissions | Active | [^8] |
+| Spatial | Early | ~2020 | Immersive audio | Active | [^8] |
+| Roadio | Early | ~2022 | Bike safety | Active | [^8] |
+| Violet | Early | ~2021 | Healthcare benchmarking | Active | [^8] |
+| Zero Acre | Early | ~2021 | Fermentation oils | Active | [^8] |
+| CarbonWave | Early | ~2021 | Seaweed biomaterials | Active | [^8] |
+| Clarasight | Early | ~2021 | Carbon planning | Active | [^8] |
+| Co-Pilot | Early | ~2020 | Fitness coaching | Active | [^8] |
+| Emerald Cloud Lab | Early | ~2018 | Remote lab | Active | [^8] |
+| Farm Raise | Early | ~2021 | Farm funding | Active | [^8] |
+| Galy | Early | ~2020 | Cellular agriculture | Active | [^8] |
+| Kinfield | Early | ~2020 | Outdoor products | Active | [^8] |
+| Learnfully | Early | ~2020 | Personalized learning | Active | [^8] |
+| Saturday Robotics | Early | ~2022 | Home robotics | Active | [^8] |
+| Altro | Early | ~2021 | Credit building | Active | [^8] |
+| Petal | Early | ~2018 | Credit cards | Acquired by Empower (2024) | [^8] |
+| Commons | Early | ~2021 | Emissions tracking | Active | [^8] |
+| Wildgood | Early | ~2022 | Plant-based ice cream | Active | [^8] |
+| 73V | Early | ~2022 | Reproductive health | Active | [^8] |
+| Gusto | Early | ~2015 | Payroll/HR | Active (unicorn) | [^8] |
+| Ellevest | Early | ~2016 | Women's investing | Active | [^8] |
+| SPAN | Early | ~2019 | Home energy panel | Active | [^8] |
+| Aigen | Early | ~2022 | Agricultural robots | Active | [^8] |
+| Courier | Early | ~2021 | Counter-disinformation media | Active | [^8] |
+| Rec | Early | ~2021 | Recreational sports | Active | [^8] |
+| Everrati | Early | ~2021 | Classic car electrification | Active | [^8] |
 
 *Note: Most investment years are approximated from founding dates or earliest known activity, as Incite does not publicly disclose specific investment dates for the majority of its portfolio. This table represents the venture investment portfolio only; Incite also makes philanthropic grants through Incite Labs to organizations including Carbon180, Arena, Grist, and ReFED [^8].*
 
@@ -214,3 +214,7 @@ No additional independently sourced founder testimonials found beyond Incite's o
 [^7]: Climate Lead, "Swati Mylavarapu and Matt Rogers," accessed March 2026. https://climatelead.org/peer-philanthropist/swati-mylavarapu-and-matt-rogers/
 [^8]: Incite.org, "Our Portfolio Companies and Organizations," accessed March 2026. https://www.incite.org/innovators/
 [^9]: Incite.org, "Heirloom — Portfolio Story," accessed March 2026. https://www.incite.org/story/heirloom/
+[^10]: Heirloom, "Heirloom Closes $150 Million Series B," 2024. https://www.heirloomcarbon.com/news/heirloom-closes-150-million-series-b
+[^11]: Incite.org, "Mill — Portfolio Story," accessed April 2026. https://www.incite.org/story/mill/
+[^12]: TechCrunch, "Quilt raises $9M seed round to become the Nest of heat pumps," May 2023. https://techcrunch.com/2023/05/16/quilt-smart-heat-pumps-seed-funding/
+[^13]: Causeartist, "Monarch Tractor Secures Record-Breaking $133M Series C Funding in Agricultural Robotics," 2024. https://www.causeartist.com/monarch-tractor-secures-record-breaking-133m-series-c-funding-in-agricultural-robotics/

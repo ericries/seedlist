@@ -65,17 +65,17 @@ Based on 11 verified investments, the portfolio sample is too small for reliable
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
-|---------|-------|------|--------|--------|
-| The Shade Room | Seed | 2015 | Media | [^15] |
-| Fohr | Seed | ~2016 | Marketing Tech | [^5][^16] |
-| Nice Healthcare | Seed | 2018 | Healthcare | [^17] |
-| Curie | Seed | ~2019 | DTC / Consumer | [^18] |
-| Billiyo | Seed | ~2020 | Business Software | [^7] |
-| Unboxt | Seed | ~2020 | HR Tech | [^19] |
-| Dreadnode | Series A | 2025 | AI / Cybersecurity | [^20] |
-| Linear | Series C | 2025 | Developer Tools | [^14] |
-| Rocketable | Seed | 2025 | Software | [^21] |
+| Company | Stage | Year | Sector | Status | Source |
+|---------|-------|------|--------|--------|--------|
+| The Shade Room | Seed ($100K) | 2015 | Media | Active (profitable, 50% net margin) | [^15] |
+| Fohr | Seed | ~2016 | Marketing Tech | Active ($12M+ revenue by 2018) | [^5][^16] |
+| Nice Healthcare | Seed ($350K) | 2018 | Healthcare | Active | [^17] |
+| Curie | Seed | ~2019 | DTC / Consumer | Active (bootstrapped to 500% YoY growth) | [^18] |
+| Billiyo | Seed | ~2020 | Business Software | Active | [^7] |
+| Unboxt | Seed | ~2020 | HR Tech | Active | [^19] |
+| Dreadnode | Series A ($14M) | 2025 | AI / Cybersecurity | Active | [^20] |
+| Linear | Series C ($82M) | 2025 | Developer Tools | Active | [^14] |
+| Rocketable | Seed ($6.5M) | 2025 | Software / AI | Active | [^21] |
 
 This table represents approximately 9 of an estimated 40+ investments across all cohorts. The firm's earlier cohort-based investments (v1 through v4) included approximately 8-10 companies per cohort, but the specific company names for most v1 and v2 cohort members are not publicly available. Roberts reported the portfolio had "nearly 40 startups" at the time of the 2021 wind-down [^9].
 
