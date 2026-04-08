@@ -120,8 +120,8 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Coro | Growth | 2023 | Cybersecurity | [^21] |
 | Powin | Growth | 2022 | Energy storage | [^21] |
 | HeatTransformers | Series A | 2023 | Heat pump installation (NL) | [^21] |
-~unknown| Noetic Cyber | Series A | — | Cyber asset management | [^3] |
-~unknown| Oort | Series A | — | Identity threat detection | [^3] |
+| Noetic Cyber | Series A | 2021 | Cyber asset management | [^3][^23] |
+| Oort | Series A | 2022 | Identity threat detection | [^3][^24] |
 | Koloma | Series C | 2024 | Geologic hydrogen | [^22] |
 | Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |
 | Overstory | Series A | 2025 | AI grid resilience | [^3] |
@@ -176,3 +176,5 @@ No additional independently sourced founder testimonials found beyond press rele
 [^20]: TechCrunch, "Tesla alum's Heron Power closes $38M Series A to transform key grid technology," May 29, 2025. https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/
 [^21]: TechCrunch, "Energy Impact Partners" tag page, accessed March 2026. https://techcrunch.com/tag/energy-impact-partners/
 [^22]: Shayle Kann investor profile (Seedlist), last researched March 2026. Koloma Series C verified via existing published profile.
+[^23]: TechCrunch, "Noetic Cyber emerges from stealth with $20M led by Energy Impact Partners," July 28, 2021. https://techcrunch.com/2021/07/28/noetic-cyber-emerges-from-stealth-with-20m-led-by-energy-impact-partners/
+[^24]: BusinessWire, "Enterprise Security Startup Oort Raises $15M in Series A Funding to Stop Identity-Based Cyber Attacks," October 6, 2022. https://www.businesswire.com/news/home/20221006005254/en/Enterprise-Security-Startup-Oort-Raises-%2415M-in-Series-A-Funding-to-Stop-Identity-Based-Cyber-Attacks

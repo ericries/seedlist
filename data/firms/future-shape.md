@@ -91,22 +91,22 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Advano | Series A | 2020 | Battery / energy storage | [^20] |
 | Aectual | Growth | ~2019 | 3D printing / sustainability | [^6] |
 | Ambient Photonics | Series A | 2022 | Low-light solar cells | [^19] |
-~unknown| Carbice | — | — | Carbon nanotube manufacturing | [^4] |
+| Carbice | Series A | 2020 | Carbon nanotube manufacturing | [^4][^31] |
 ~unknown| Diamond Foundry | — | — | Synthetic diamonds / materials | [^6] |
 | Edda | Seed | 2022 | PE/VC management software | [^21] |
 | Hodinkee | Series B | 2020 | Watch media / e-commerce | [^17] |
 ~unknown| Impossible Foods | — | — | Alternative protein / food tech | [^6][^11] |
-| Ledger | — | ~2021 | Crypto hardware wallet | [^13] |
+| Ledger | Series C extension | 2023 | Crypto hardware wallet | [^13][^32] |
 ~unknown| Lightship | — | — | Electric RV | [^4] |
 | Lumafield | Series B | 2022 | Desktop CT scanner | [^2] |
 | Mantle | Series A | 2021 | Metal 3D printing / tooling | [^22] |
 ~unknown| Menlo Micro | — | — | Microelectronic switches | [^11] |
 | mmhmm | Seed | 2020 | Video / presentation tools | [^10] |
-| MycoWorks | — | ~2020 | Bio-materials / alternative leather | [^11] |
+| MycoWorks | Series B | 2020 | Bio-materials / alternative leather | [^11][^33] |
 | Nabla | Series C | 2025 | Healthcare AI / ambient documentation | [^23] |
 | Nothing | Seed | 2020 | Consumer electronics / smartphones | [^24] |
 | Nothing | Series B | 2022 | Consumer electronics / smartphones | [^24] |
-| Orionis Biosciences | — | ~2022 | Biotech / cancer immunotherapy | [^16] |
+| Orionis Biosciences | Series C | 2022 | Biotech / cancer immunotherapy | [^16][^34] |
 ~unknown| Phononic | — | — | Solid-state cooling / climate | [^11] |
 ~unknown| Prenuvo | — | — | Full-body MRI screening | [^8] |
 | Remedy Robotics | Series A | 2025 | Surgical robotics | [^25] |
@@ -116,10 +116,10 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Smartex | Series A | 2022 | AI textile quality / sustainability | [^18] |
 | Sweep | Series B | 2022 | Carbon accounting / climate tech | [^27] |
 ~unknown| Turntide | — | — | Digital motors / energy efficiency | [^11] |
-| Turvo | — | ~2017 | Logistics management | [^3] |
+| Turvo | Series A | 2017 | Logistics management | [^3][^35] |
 ~unknown| WiTricity | — | — | Wireless charging / transportation | [^4] |
 | XpertSea | Series B | 2021 | Aquaculture / ag-tech | [^28] |
-| 3D Hubs | — | ~2019 | On-demand manufacturing (acquired by Protolabs) | [^29] |
+| 3D Hubs | Series C | 2019 | On-demand manufacturing (acquired by Protolabs) | [^29] |
 
 This table represents 32 investment entries across 31 companies (Nothing appears twice for separate rounds). Fadell claims 200+ portfolio companies [^7], meaning this list captures approximately 16% of the total portfolio.
 
@@ -220,4 +220,14 @@ No additional independently sourced founder testimonials were found beyond the e
 [^29]: Tech.eu, "3D Hubs moves into French manufacturing market with support from Tony Fadell," December 4, 2019. https://tech.eu/2019/12/04/3d-hubs-moves-into-french-manufacturing-market-with-support-from-ipod-inventor-tony-fadell/
 
 [^30]: Build Collective, "Meet Tony," accessed April 2026. https://www.buildc.com/meet-tony
+
+[^31]: Carbice, "Carbice secures US$15M in Series A funding round," November 2020. https://carbice.com/newsroom/carbice-secures-us-15m-in-series-a-funding-round
+
+[^32]: TechCrunch, "Crypto wallet company Ledger raises another $108 million," March 30, 2023. https://techcrunch.com/2023/03/30/crypto-wallet-company-ledger-raises-another-108-million/
+
+[^33]: PR Newswire, "MycoWorks Raises $45M in Series B Financing," November 17, 2020. https://www.prnewswire.com/news-releases/mycoworks-raises-45m-in-series-b-financing-301174958.html
+
+[^34]: Crunchbase, "Series C - Orionis Biosciences - 2022-10-19," accessed April 2026. https://www.crunchbase.com/funding_round/orionis-biosciences-series-c--6135aa5d
+
+[^35]: TechCrunch, "Logistics startup Turvo zooms out of stealth with $25 million in Series A funding," March 28, 2017. https://techcrunch.com/2017/03/28/logistics-startup-turvo-emerges-from-stealth-with-25-million-in-series-a-funding/
 
