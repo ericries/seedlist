@@ -1,13 +1,4 @@
 pending_rounds:
-- title: Handhold raised €3M Seed
-  url: https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/
-  source: websearch
-  date_found: '2026-04-08'
-  parsed_company: Handhold
-  parsed_amount: €3M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile handhold.md
 - title: Moonbounce raised $12M Series A
   url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
   source: techcrunch
@@ -28,6 +19,15 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Handhold raised €3M Seed
+  url: https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/
+  source: websearch
+  date_found: '2026-04-08'
+  parsed_company: Handhold
+  parsed_amount: €3M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile handhold.md
 - title: Sidewinder Therapeutics raised $137M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
