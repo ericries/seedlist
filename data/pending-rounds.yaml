@@ -152,7 +152,44 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted Eisen $7.2M funding round; created eisen.md
+- title: Aria Networks raised $125M Series A
+  url: https://siliconangle.com/2026/04/07/data-center-switch-maker-aria-networks-raises-125m/
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: Aria Networks
+  parsed_amount: $125M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile aria-networks.md
+- title: Starfish Space raised $110M+ Series B
+  url: https://spacenews.com/starfish-space-raises-more-than-100-million/
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: Starfish Space
+  parsed_amount: $110M+
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile starfish-space.md
+- title: Endovascular Engineering raised $80M Series C
+  url: https://www.biospace.com/press-releases/e2-endovascular-engineering-raises-80-million-series-c-to-advance-next-generation-thrombectomy-platform-as-pulmonary-embolism-treatment-evolves
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: Endovascular Engineering
+  parsed_amount: $80M
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile endovascular-engineering.md
+- title: Modus raised $85M Seed & Series A
+  url: https://www.businesswire.com/news/home/20260407062528/en/Modus-Raises-%2485-Million-Led-by-Lightspeed-to-Build-AI-Native-Accounting-Firm
+  source: websearch
+  date_found: '2026-04-07'
+  parsed_company: Modus
+  parsed_amount: $85M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile modus.md
 - title: Kestra raised $25M Series A
   url: https://www.prnewswire.com/news-releases/kestra-raises-25-million-series-a-to-become-the-orchestration-standard-for-enterprises-302729018.html
   source: prnewswire
