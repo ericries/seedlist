@@ -19,6 +19,96 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Sidewinder Therapeutics raised $137M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: Sidewinder Therapeutics
+  parsed_amount: $137M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile sidewinder-therapeutics.md
+- title: said it raised $80M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: said it
+  parsed_amount: $80M
+  parsed_round: Series D
+  status: skipped
+  skip_reason: parsing artifact from Axios scrape; company name not captured
+- title: MillTech raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: MillTech
+  parsed_amount: $60M
+  parsed_round: null
+  status: skipped
+  skip_reason: could not verify; MillTech appears to be a fintech/capital markets firm, not a startup round
+- title: Patlytics raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: Patlytics
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile patlytics.md
+- title: Trent AI raised $13M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: Trent AI
+  parsed_amount: $13M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile trent-ai.md
+- title: Astromech raised $10.5M seed extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: Astromech
+  parsed_amount: $10.5M
+  parsed_round: Seed Extension
+  status: processed
+  notes: created startup profile astromech.md
+- title: Inxy raised $4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: Inxy
+  parsed_amount: $4M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile inxy.md
+- title: ACP Holdings Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: ACP Holdings Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC/acquisition vehicle, not a startup round
+- title: Apogee Acquisition raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: Apogee Acquisition
+  parsed_amount: $150M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC/acquisition vehicle, not a startup round
+- title: NOVA Infrastructure raised $1.45B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-08'
+  parsed_company: NOVA Infrastructure
+  parsed_amount: $1.45B
+  parsed_round: null
+  status: skipped
+  skip_reason: infrastructure fund raise, not a startup round
 - title: True Footage raised $40M Series C
   url: https://www.globenewswire.com/news-release/2026/04/07/3269423/0/en/True-Footage-Raises-40-Million-Series-C-to-Scale-Full-Stack-Residential-Valuation-Platform.html
   source: globenewswire
