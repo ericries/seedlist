@@ -1,4 +1,13 @@
 pending_rounds:
+- title: Handhold raised €3M Seed
+  url: https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/
+  source: websearch
+  date_found: '2026-04-08'
+  parsed_company: Handhold
+  parsed_amount: €3M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile handhold.md
 - title: Moonbounce raised $12M Series A
   url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
   source: techcrunch
@@ -45,7 +54,8 @@ pending_rounds:
   parsed_amount: $60M
   parsed_round: null
   status: skipped
-  skip_reason: could not verify; MillTech appears to be a fintech/capital markets firm, not a startup round
+  skip_reason: could not verify; MillTech appears to be a fintech/capital markets
+    firm, not a startup round
 - title: Patlytics raised $40M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
