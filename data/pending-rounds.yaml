@@ -26,7 +26,8 @@ pending_rounds:
   parsed_company: Collide Capital
   parsed_amount: $95M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund raise (Fund II), not a startup round
 - title: 'Exclusive: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less
     Painful With AI, Raises $12M'
   url: https://news.crunchbase.com/fintech/cpa-founded-ai-tax-return-startup-juno-seed-funding/
@@ -35,8 +36,9 @@ pending_rounds:
   parsed_company: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less Painful
     With AI,
   parsed_amount: $12M
-  parsed_round: null
-  status: pending
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile juno-tax.md
 - title: Global Investors Help Boost Latin America’s Late-Stage Funding Boom In Q1
   url: https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/
   source: crunchbase
@@ -44,7 +46,134 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article
+- title: SiFive raised $400M Series G
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: SiFive
+  parsed_amount: $400M
+  parsed_round: Series G
+  status: processed
+  notes: created startup profile sifive.md
+- title: AfterQuery raised $30M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: AfterQuery
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile afterquery.md
+- title: Q-Factor raised $24M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Q-Factor
+  parsed_amount: $24M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: duplicate; q-factor.md already exists from earlier processing
+- title: Pipe raised $16M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Pipe
+  parsed_amount: $16M
+  parsed_round: null
+  status: skipped
+  skip_reason: late-stage company (Series C); $16M round details unverifiable from Axios snippet alone
+- title: Haast raised $12M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Haast
+  parsed_amount: $12M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile haast.md
+- title: Satellites on Fire raised $2.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Satellites on Fire
+  parsed_amount: $2.7M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile satellites-on-fire.md
+- title: and raised $386M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: and
+  parsed_amount: $386M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact from Axios scrape; company name not captured
+- title: per Axios Pro . Mosey had raised $21M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: per Axios Pro . Mosey had
+  parsed_amount: $21M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact; Mosey was acquired by Gusto on April 9, 2026
+- title: Onex Partners raised $1.6B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Onex Partners
+  parsed_amount: $1.6B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund raise, not a startup round
+- title: Partners raised $400M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Partners
+  parsed_amount: $400M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact; likely fragment of SiFive round description
+- title: Collide Capital raised $95M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Collide Capital
+  parsed_amount: $95M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate of TechCrunch entry; VC fund raise (Fund II), not a startup round
+- title: Court Square Capital Partners raised $3.8B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Court Square Capital Partners
+  parsed_amount: $3.8B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund raise, not a startup round
+- title: Mosey had raised $21M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: Mosey had
+  parsed_amount: $21M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact; Mosey was acquired by Gusto, not a new round
+- title: u003e. Mosey had raised $21M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-09'
+  parsed_company: u003e. Mosey had
+  parsed_amount: $21M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate parsing artifact of Mosey acquisition mention
 - title: Handhold raised €3M Seed
   url: https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/
   source: websearch
@@ -152,7 +281,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: contained Patlytics $40M Series B (already processed) and Mosaic $18.4M SEC filing (too small/unannounced)
 - title: True Footage raised $40M Series C
   url: https://www.globenewswire.com/news-release/2026/04/07/3269423/0/en/True-Footage-Raises-40-Million-Series-C-to-Scale-Full-Stack-Residential-Valuation-Platform.html
   source: globenewswire
