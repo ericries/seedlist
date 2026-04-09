@@ -119,6 +119,14 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: infrastructure fund raise, not a startup round
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/8/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-8-2026/
+  source: alleywatch
+  date_found: '2026-04-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: True Footage raised $40M Series C
   url: https://www.globenewswire.com/news-release/2026/04/07/3269423/0/en/True-Footage-Raises-40-Million-Series-C-to-Scale-Full-Stack-Residential-Valuation-Platform.html
   source: globenewswire
