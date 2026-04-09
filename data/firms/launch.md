@@ -77,22 +77,22 @@ Based on 17 verified portfolio companies with sufficient data, the following pat
 | Uber | Angel | 2009 | Transportation/Ridesharing | IPO [^4] |
 | Thumbtack | Angel | ~2009 | Consumer Marketplace | Active [^4] |
 | DataStax | Angel | ~2010 | Enterprise Data Infrastructure | Exit [^4] [^6] |
-~unknown| Wealthfront | Early Stage | -- | Fintech/Wealth Management | Active [^6] |
-~unknown| Robinhood | Syndicate | -- | Fintech/Trading | IPO [^6] |
+| Wealthfront | Angel | ~2012 | Fintech/Wealth Management | Active [^6] [^1] |
+| Robinhood | Syndicate | 2013 | Fintech/Trading | IPO [^6] [^18] |
 | Calm | Syndicate | ~2016 | Health & Wellness | Active [^4] [^6] |
-~unknown| Desktop Metal | Early Stage | -- | Industrial 3D Printing | IPO [^6] |
-~unknown| Density | Early Stage | -- | Enterprise IoT/Space Analytics | Active [^6] |
-~unknown| Superhuman | Early Stage | -- | Productivity/Email | Active [^3] |
-~unknown| Vanta | Early Stage | -- | Cybersecurity/Compliance | Active [^3] |
-~unknown| Trello | Early Stage | -- | Productivity/SaaS | Acquired [^1] |
-~unknown| GRIN | Early Stage | -- | Marketing/Influencer Platform | Active [^1] |
-~unknown| Fitbod | Accelerator | -- | Fitness/Health Tech | Active [^4] |
-~unknown| STEEZY Studio | Early Stage | -- | Consumer/Dance Education | Active [^1] |
-~unknown| Lead IQ | Early Stage | -- | Sales Tech/SaaS | Active [^1] |
+| Desktop Metal | Angel | 2015 | Industrial 3D Printing | IPO [^6] [^19] |
+| Density | Seed | 2015 | Enterprise IoT/Space Analytics | Active [^6] [^20] |
+| Superhuman | Seed | 2015 | Productivity/Email | Active [^3] [^21] |
+| Vanta | Seed | 2018 | Cybersecurity/Compliance | Active [^3] [^22] |
+| Trello | Angel | ~2014 | Productivity/SaaS | Acquired [^1] [^23] |
+| GRIN | Seed | 2019 | Marketing/Influencer Platform | Active [^1] [^24] |
+| Fitbod | Accelerator | ~2015 | Fitness/Health Tech | Active [^4] [^25] |
+| STEEZY Studio | Seed | 2018 | Consumer/Dance Education | Active [^1] [^26] |
+| LeadIQ | Angel | 2015 | Sales Tech/SaaS | Active [^1] [^27] |
 | Recall | Pre-Seed | 2024 | Knowledge Management/AI | Active [^15] |
 | Moment (beverage) | Pre-Seed | ~2021 | Consumer/Food & Beverage | Active [^16] |
 
-*This table represents approximately 6% of LAUNCH's claimed 300+ investments. Many investments, particularly those made through The Syndicate, are not individually verified in public records. Only 4 of 17 entries have confirmed investment years — the rest could not be independently verified with dates.*
+*This table represents approximately 6% of LAUNCH's claimed 300+ investments. Many investments, particularly those made through The Syndicate, are not individually verified in public records.*
 
 ## In Their Own Words
 
@@ -137,3 +137,13 @@ No additional independently sourced founder testimonials found beyond these two 
 [^15]: Recall, "From a Hacker News Post to securing $1.5M Funding," December 2024, accessed April 2026. https://www.getrecall.ai/post/recall-fundraising-announcement-2024
 [^16]: Boring Business Nerd, "LAUNCH Accelerator with Aisha Chottani," accessed April 2026. https://www.boringbusinessnerd.com/post/what-its-like-to-work-with-jason-calacanis-in-the-launch-accelerator-with-aisha-chottani
 [^17]: Angel Invest Boston, "Ep 83: Jason Calacanis," accessed April 2026. https://www.angelinvestboston.com/ep-83-jason-calacanis/tag/Uber
+[^18]: Crunchbase, "Seed Round - Robinhood," accessed April 2026. https://www.crunchbase.com/funding_round/robinhood-seed--8cbd19ed
+[^19]: Crunchbase, "Series A - Desktop Metal - 2015-10-27," accessed April 2026. https://www.crunchbase.com/funding_round/desktop-metal-series-a--7337621d
+[^20]: Tracxn, "Density — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/density/__sWStd9K-n6RNAuyfdCpUih33OLv6oBc-0-dOWaagMvE/funding-and-investors
+[^21]: Crunchbase, "Seed Round - Superhuman - 2015-06-01," accessed April 2026. https://www.crunchbase.com/funding_round/superhuman-seed--3b642622
+[^22]: Tracxn, "Vanta — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/vanta/__pPtFJxxIAwbrYHgPClxzjK33aPeDcoAj76W_aB_I3WE/funding-and-investors
+[^23]: TechCrunch, "Disrupt Alum Trello Takes In $10.3M For Its Visual To-Do Lists," July 24, 2014. https://techcrunch.com/2014/07/24/trello-series-a/
+[^24]: Tracxn, "GRIN — 2026 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/grin/__hGDZCiiHTydSIkd68UtUMec3K_Yyqx2pfmEesm-obEg
+[^25]: Wellfound, "Jason Calacanis," accessed April 2026. https://wellfound.com/p/jason
+[^26]: Tracxn, "Steezy — 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/steezy/__sxhsWnKSZQypycmlIUpSYI4FPvNRe6Cah_birL_x5bs
+[^27]: Tracxn, "LeadIQ — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/leadiq/___tGj347XeassbUHAvynNMVVwj-7z-MJPMAz1ncFmj0E/funding-and-investors

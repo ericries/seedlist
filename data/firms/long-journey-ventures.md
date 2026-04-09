@@ -104,21 +104,21 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 
 | Company | Stage | Year | Sector | Source |
 |---|---|---|---|---|
-| Uber | Angel/Pre-seed | ~2010 | Rideshare/logistics | [^4] |
+| Uber | Angel/Pre-seed | 2010 | Rideshare/logistics | [^4] [^19] |
+| Postmates | Angel | 2012 | Delivery | [^4] [^20] |
+| Affirm | Angel | 2012 | Fintech | [^4] [^21] |
+| Carta | Seed | 2013 | Cap table/fintech | [^2] [^22] |
 | SpaceX | Angel | ~2012 | Aerospace | [^4] |
 | DeepMind | Angel | ~2013 | AI research | [^4] |
-| Postmates | Angel | ~2014 | Delivery | [^4] |
-| Affirm | Angel | ~2014 | Fintech | [^4] |
+| Checkr | Seed | 2014 | Background checks | [^3] [^23] |
 | Niantic | Early | ~2015 | AR/gaming | [^1] |
 | DuckDuckGo | Early | ~2015 | Search/privacy | [^1] |
-| Checkr | Seed | ~2015 | Background checks | [^3] |
 | Flexport | Early | ~2015 | Logistics | [^1] |
 | BitGo | Early | ~2015 | Crypto/blockchain | [^1] |
 | Rappi | Seed | ~2016 | Delivery | [^3] |
-| Loom | Seed | ~2016 | Video communication | [^3] |
-| Carta | Early | ~2017 | Cap table/fintech | [^2] |
-| Notion | Seed | ~2017 | Productivity software | [^16] |
+| Loom | Seed | 2016 | Video communication | [^3] [^24] |
 | Diamond Foundry | Seed | ~2017 | Lab-grown diamonds | [^1] |
+| Notion | Seed | ~2013 | Productivity software | [^16] [^25] |
 | Crusoe Energy | Seed | ~2018 | AI/energy infrastructure | [^3] |
 | Thumbtack | Early | ~2018 | Services marketplace | [^1] |
 | Anduril | Early | ~2018 | Defense technology | [^1] |
@@ -170,7 +170,7 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 | Dream Park | Seed | 2025 | Gaming | [^10] |
 | Unusual | Seed | 2026 | -- | [^10] |
 
-*This table represents approximately 60 of ~130 known investments (46%). Many early investments were made as personal angel investments by partners before the fund formalized. Years marked with "~" indicate approximate dates based on founding year or earliest known investment date.*
+*This table represents approximately 60 of ~130 known investments (46%). Many early investments were made as personal angel investments by partners (Scott and Cyan Banister) before the fund formalized. Years marked with "~" indicate approximate dates based on founding year or earliest known investment date; verified years have specific source citations.*
 
 ## In Their Own Words
 
@@ -218,3 +218,10 @@ No independently sourced founder testimonials found from founders outside the Lo
 [^16]: Crunchbase, "Pascal Levy-Garboua — Venture Partner @ Long Journey Ventures," accessed April 2026. https://www.crunchbase.com/person/pascal-levy
 [^17]: Long Journey Ventures blog, "Second Believers In Each Other: A Decade-Long Collaboration with Justin Mares," accessed April 2026. https://www.longjourney.vc/news/truemed-second-believer
 [^18]: Mercury Investor Database, "Lee Jacobs," accessed April 2026. https://mercury.com/investor-database/lee-jacobs
+[^19]: Fortune, "What Convinced One Investor to Back Uber From the Start," May 2016. https://fortune.com/2016/05/09/cyan-banister-investor-uber/
+[^20]: Crunchbase, "Seed Round - Postmates - 2011-05-01," accessed April 2026. https://www.crunchbase.com/funding_round/postmates-seed--2859980d
+[^21]: Crunchbase, "Angel Round - Affirm - 2012-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/affirm-angel--b3b1bd5d
+[^22]: Crunchbase, "Seed Round - Carta," accessed April 2026. https://www.crunchbase.com/funding_round/eshares-seed--532bb551
+[^23]: Crunchbase, "Seed Round - Checkr - 2014-07-16," accessed April 2026. https://www.crunchbase.com/funding_round/checkr-seed--f2dcf4d7
+[^24]: Crunchbase, "Seed Round - Loom - 2016-06-01," accessed April 2026. https://www.crunchbase.com/funding_round/loom-seed--808e1d2b
+[^25]: Crunchbase, "Seed Round - Notion," accessed April 2026. https://www.crunchbase.com/funding_round/notion-2-seed--4bfd6e2c

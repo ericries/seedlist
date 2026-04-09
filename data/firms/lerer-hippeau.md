@@ -100,37 +100,37 @@ Based on publicly available data from the firm's website, Crunchbase, and press 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
+| Birchbox | Seed | 2010 | Commerce/D2C | Acquired | [^17] [^24] |
 | Warby Parker | Seed | 2011 | Commerce/D2C | IPO (2021) | [^19] |
 | BuzzFeed | Seed | 2011 | Media | IPO (2021) | [^3] |
-| Venmo | Early | ~2012 | Fintech | Acquired (PayPal) | [^1] |
-| Casper | Seed | ~2014 | Commerce/D2C | IPO (2020) | [^5] |
-| Birchbox | Early | ~2014 | Commerce/D2C | Acquired | [^17] |
+| Scopely | Seed | 2011 | Media/Gaming | Acquired | [^13] [^25] |
+| Venmo | Seed | 2011 | Fintech | Acquired (PayPal) | [^1] [^26] |
+| ClassDojo | Seed | 2012 | EdTech | Active | [^1] [^27] |
+| Casper | Seed | 2014 | Commerce/D2C | IPO (2020) | [^5] [^28] |
+| BarkBox/BARK | Series B | 2014 | Commerce | IPO (2021) | [^17] [^29] |
+| Augury | Seed | 2014 | Hardware/IoT | Active | [^17] [^30] |
+| Guideline | Seed | 2015 | Fintech | Active | [^1] [^31] |
+| AutoFi | Seed | 2015 | Fintech | Active | [^17] [^32] |
 | Allbirds | Seed | 2016 | Commerce/D2C | IPO (2021) | [^20] |
-| BarkBox/BARK | Early | ~2016 | Commerce | IPO (2021) | [^17] |
-| Axios | Early | ~2016 | Media | Acquired (2022) | [^5] |
-| Glossier | Seed | ~2016 | Commerce/D2C | Active | [^1] |
-| Mirror | Seed | ~2016 | Fitness/Hardware | Acquired (lululemon, 2020) | [^1] |
+| Axios | Series A | 2016 | Media | Acquired (2022) | [^5] [^33] |
+| Bowery Farming | Seed | 2016 | Food/AgTech | Active | [^14] [^34] |
+| Glossier | Seed | 2014 | Commerce/D2C | Active | [^1] [^35] |
+| ZenBusiness | Seed | 2018 | Enterprise | Active | [^1] [^36] |
+| Mirror | Seed | 2018 | Fitness/Hardware | Acquired (lululemon, 2020) | [^1] [^37] |
 | K Health | Seed | 2018 | Healthcare | Active | [^21] |
-| Guideline | Early | ~2018 | Fintech | Active | [^1] |
-| ZenBusiness | Early | ~2018 | Enterprise | Active | [^1] |
-| Blade | Early | ~2019 | Supply Chain/Logistics | IPO (2021) | [^17] |
-| Blockdaemon | Early | ~2020 | Blockchain/Crypto | Active | [^1] |
-| Augury | Early | ~2020 | Hardware/IoT | Active | [^17] |
-| Zipline | Early | ~2020 | Logistics/Drones | Active | [^1] |
-| Scopely | Early | ~2018 | Media/Gaming | Acquired | [^13] |
+| Opentrons | Seed | 2018 | Hardware/Biotech | Active | [^1] [^38] |
+| Blade | Series B | 2018 | Supply Chain/Logistics | IPO (2021) | [^17] [^39] |
+| Palmetto | Series A | 2018 | Energy/Climate | Active | [^1] [^40] |
+| Blockdaemon | Seed | 2019 | Blockchain/Crypto | Active | [^1] [^41] |
 | CAMP | Early | ~2019 | Commerce/Retail | Active | [^17] |
-| Topicals | Seed | ~2020 | Commerce/D2C | Active | [^1] |
-| Palmetto | Early | ~2020 | Energy/Climate | Active | [^1] |
-| Opentrons | Early | ~2020 | Hardware/Biotech | Active | [^1] |
-| AutoFi | Early | ~2020 | Fintech | Active | [^17] |
-| ClassDojo | Early | ~2020 | EdTech | Active | [^1] |
-| Bowery Farming | Early | ~2017 | Food/AgTech | Active | [^14] |
+| Topicals | Seed | 2020 | Commerce/D2C | Active | [^1] [^42] |
+| Zipline | Early | ~2015 | Logistics/Drones | Active | [^1] [^43] |
 | Mentium | Seed | 2025 | Enterprise/AI | Active | [^22] |
 | Climatic | Seed | 2026 | Healthcare | Active | [^13] |
 | AIR Platforms | Seed | 2025 | Fintech | Active | [^17] |
 | Board | Seed | ~2025 | Hardware/Gaming | Active | [^17] |
 
-*Note: Years marked with ~ are approximate based on founding year or general timeline. This table represents approximately 6% of the firm's 447 reported investments [^13]. Many early investments and exits are not included due to limited publicly accessible records with specific dates.*
+*This table represents approximately 6% of the firm's 447 reported investments [^13]. Entries are ordered by investment year. Most years have been verified against Crunchbase, Tracxn, and press sources; remaining ~ entries could not be independently confirmed.*
 
 ## In Their Own Words
 
@@ -183,3 +183,23 @@ No independently sourced founder testimonials found. Despite dedicated searches,
 [^21]: AlleyWatch, "K Health Raises $12M to Make Googling Symptoms A Relic of The Past," July 2018. https://www.alleywatch.com/2018/07/k-health-raises-12m-to-make-googling-symptoms-a-relic-of-the-past/
 [^22]: Tech Company News, "Mentium Raises $3.2M In Seed Funding Round Led By Lerer Hippeau," accessed April 2026. https://www.techcompanynews.com/mentium-raises-3-2m-in-seed-funding-round-led-by-lerer-hippeau/
 [^23]: VCSheet, "Ben Lerer — Lerer Hippeau," accessed April 2026. https://www.vcsheet.com/who/ben-lerer
+[^24]: Crunchbase, "Seed Round - Birchbox - 2010-10-27," accessed April 2026. https://www.crunchbase.com/funding_round/birchbox-seed--637183dc
+[^25]: Tracxn, "Scopely — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/scopely/__mPLb2bG7Qz_X7-HLh1Veel04cSIgCVUbBkP3sFLFUSY/funding-and-investors
+[^26]: VatorNews, "When Venmo was young: the early years," January 2018. https://vator.tv/2018-01-02-when-venmo-was-young-the-early-years/
+[^27]: Getting Smart, "Class Dojo Goes Viral, Raises Seed Round," August 2012. https://www.gettingsmart.com/2012/08/class-dojo-goes-viral-raises-seed-round/
+[^28]: Crunchbase, "Seed Round - Casper - 2014-03-30," accessed April 2026. https://www.crunchbase.com/funding_round/casper-seed--6cd8448c
+[^29]: Crunchbase, "Series B - BarkBox - 2014-07-11," accessed April 2026. https://www.crunchbase.com/funding_round/barkbox-series-b--bfea4dad
+[^30]: Tracxn, "Augury — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/augury/__iOV893NXKKTI5Darz3kvXAj8PV501-NfsCBZH0sB0JA/funding-and-investors
+[^31]: American Banker, "BBVA's Outside Venture Fund Backs Retirement Startup," accessed April 2026. https://www.americanbanker.com/news/bbvas-outside-venture-fund-backs-retirement-startup
+[^32]: Tracxn, "AutoFi — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/autofi/__uEKSVk41KZohD6OmEWqwDCCVupsIxTs2Zjn6jpHzAME/funding-and-investors
+[^33]: Wikipedia, "Axios (website)," accessed April 2026. https://en.wikipedia.org/wiki/Axios_(website)
+[^34]: AgFunderNews, "Bowery Farming Raises $20m Series A to Hire and Expand," accessed April 2026. https://agfundernews.com/breaking-bowery-farming-raises-20m-series-hire-expand
+[^35]: Tracxn, "Glossier — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/glossier/___o4EKQoraqqjXeTOro1MzWVT7OkrUlUshLrrqd8MpiM/funding-and-investors
+[^36]: Crunchbase, "Seed Round - ZenBusiness - 2018-02-26," accessed April 2026. https://www.crunchbase.com/funding_round/zenbusiness-seed--6afd7439
+[^37]: Venture Capital Journal, "Connected fitness startup Mirror raises $13 mln from Spark, Lerer Hippeau," February 2018. https://www.venturecapitaljournal.com/connected-fitness-startup-mirror-raises-13-mln-spark-lerer-hippeau/
+[^38]: PR Newswire, "Opentrons Releases Next-Gen Lab Robot, Closes $10M Seed Funding Round," March 2018. https://www.prnewswire.com/news-releases/opentrons-releases-next-gen-lab-robot-closes-10m-seed-funding-round-300620002.html
+[^39]: VentureBeat, "Blade is building the infrastructure for an urban air transport future," March 2018. https://venturebeat.com/2018/03/23/blade-is-building-the-infrastructure-for-an-urban-air-transport-future
+[^40]: Business Wire, "Clean Energy Tech Company Palmetto Raises $6M in Funding from Big Investors," September 2018. https://www.businesswire.com/news/home/20180904005582/en/Clean-Energy-Tech-Company-Palmetto-Raises-6M
+[^41]: Tracxn, "Blockdaemon — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/blockdaemon/__Uz1YoBJGag77OfEv5MZYvLVV76mqvVUl1Qq_Ua9aSY0/funding-and-investors
+[^42]: Tracxn, "Topicals — 2026 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/topicals/__8Lo0OMeojt0KHNiXxk_W9kyxEEwyxP2Iat6GGK27Qj0
+[^43]: Tracxn, "Zipline — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/zipline/__6x5NxFrGLSb7l6JEaoCLk-PwFJ_8f9pCM6oy1lX01kM/funding-and-investors
