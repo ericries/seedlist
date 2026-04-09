@@ -19,6 +19,32 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Collide Capital raises $95M fund to back fintech, future-of-work startups
+  url: https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/
+  source: techcrunch
+  date_found: '2026-04-09'
+  parsed_company: Collide Capital
+  parsed_amount: $95M
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less
+    Painful With AI, Raises $12M'
+  url: https://news.crunchbase.com/fintech/cpa-founded-ai-tax-return-startup-juno-seed-funding/
+  source: crunchbase
+  date_found: '2026-04-09'
+  parsed_company: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less Painful
+    With AI,
+  parsed_amount: $12M
+  parsed_round: null
+  status: pending
+- title: Global Investors Help Boost Latin America’s Late-Stage Funding Boom In Q1
+  url: https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Handhold raised €3M Seed
   url: https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/
   source: websearch
