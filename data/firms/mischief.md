@@ -77,29 +77,29 @@ Based on 20 verified investments below, Mischief's actual portfolio reveals the 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Hamming | Seed (Lead) | 2024 | AI / Infrastructure | [^7] |
-| Cardless | Growth | 2024 | Fintech | [^9] |
-| Polar | Seed | 2025 | Infrastructure / Developer Tools | [^8] |
-| iVerify | Seed (Lead) | 2023 | Cybersecurity | [^10] |
+| Hamming | Seed (Lead, $3.8M) | 2024 | AI / Infrastructure | [^7] |
+| Cardless | Growth ($30M round) | 2024 | Fintech | [^9] |
+| Polar | Seed ($10M round) | 2025 | Infrastructure / Developer Tools | [^8] |
+| iVerify | Seed (Lead, $4M) | 2023 | Cybersecurity | [^10] |
 | iVerify | Series A | 2024 | Cybersecurity | [^10] |
-| Farcaster | Seed | 2022 | Crypto / Social | [^12] |
-| Blackbird | Seed | 2022 | Crypto / Restaurant Tech | [^13] |
-| Rainbow | Series A | 2022 | Crypto / Wallet | [^14] |
-| Propel | Series B | 2022 | Fintech / Social Impact | [^15] |
-| Rutter | Series A | 2022 | Fintech / Commerce API | [^11] |
-| Found | Early | ~2021 | Fintech / Banking | [^16] |
+| Farcaster | Seed ($30M round) | 2022 | Crypto / Social | [^12] |
+| Blackbird | Seed ($11M round) | 2022 | Crypto / Restaurant Tech | [^13] |
+| Rainbow | Series A ($18M round) | 2022 | Crypto / Wallet | [^14] |
+| Propel | Series B ($50M round) | 2022 | Fintech / Social Impact | [^15] |
+| Rutter | Series A ($27M round) | 2022 | Fintech / Commerce API | [^11] |
+| Found | Seed ($12.75M round) | May 2021 | Fintech / Banking | [^16] |
 | Flychain | Seed | ~2022 | Healthcare / Fintech | [^17] |
-| Gravy | Seed | ~2022 | Fintech | [^1] |
-| Backpack | Seed | ~2022 | Fintech | [^1] |
-| Friday Harbor | Seed | ~2022 | Fintech | [^1] |
-| Tivara | Seed | ~2022 | Healthcare | [^1] |
-| Crafting | Seed | ~2023 | Developer Tools | [^1] |
-| Twenty | Seed | ~2023 | SaaS / CRM | [^1] |
-| Alpharun | Seed | ~2023 | Consumer / AI | [^1] |
-| Rain | Seed | ~2022 | Crypto | [^1] |
-| Light Energy | Seed | ~2023 | Climate / Energy | [^1] |
+| Tivara | Seed ($3.6M) | 2024 | Healthcare / AI | [^18] |
+| Friday Harbor | Seed ($6M) | 2025 | Fintech / Mortgage Tech | [^19] |
+| Crafting | Seed ($5.5M, led) | 2026 | Developer Tools / AI | [^20] |
+| Twenty | Seed ($5M) | 2024 | SaaS / CRM | [^21] |
+| Gravy | Seed | -- | Fintech | [^1] |
+| Backpack | Seed | -- | Fintech | [^1] |
+| Rain | Seed | -- | Crypto | [^1] |
+| Alpharun | Seed | -- | Consumer / AI | [^1] |
+| Light Energy | Seed | -- | Climate / Energy | [^1] |
 
-Note: Entries marked with ~ use estimated years based on the company's founding date or general timeline. Mischief's website lists 40+ portfolio companies including Faire, Figma, Coinbase, Ramp, Mercury, and Retool [^1], though some of these may represent personal angel investments by the partners prior to Mischief's formation.
+Note: Entries marked with -- have investment dates that could not be independently verified; these companies appear on the Mischief website portfolio page [^1] but no press coverage of the specific funding rounds was found. Mischief's website lists 39 portfolio companies including Faire, Figma, Coinbase, Ramp, Mercury, and Retool [^1], though some of these may represent personal angel investments by the partners prior to Mischief's formation.
 
 ## In Their Own Words
 
@@ -136,3 +136,7 @@ No independently sourced founder testimonials found. The firm's portfolio founde
 [^15]: Propel on Medium, "Propel raises $50m Series B to help Americans with low income make it through the month, every month," September 2022. https://medium.com/@JoinPropel/propel-raises-50m-series-b-to-help-americans-with-low-income-make-it-through-the-month-every-3b7ea2ad3d54
 [^16]: TechCrunch, "Ex-Square execs launch Found to help the self-employed, raise $12.75M from Sequoia," May 2021. https://techcrunch.com/2021/05/20/ex-square-execs-launch-found-to-help-the-self-employed-raise-12-75m-from-sequoia/
 [^17]: Flychain, Crunchbase profile, accessed March 2026. https://www.crunchbase.com/organization/flychain
+[^18]: Business Insider, "Tivara raised a $3.6 million seed round, backed by Mischief VC, Day One Ventures, and Y Combinator," January 2026. https://finance.yahoo.com/news/read-pitch-deck-y-combinator-140001952.html
+[^19]: PR Newswire, "Friday Harbor raises $6M to help community lenders match the speed and efficiency of mortgage giants," 2025. https://www.prnewswire.com/news-releases/friday-harbor-raises-6m-to-help-community-lenders-match-the-speed-and-efficiency-of-mortgage-giants-302428495.html
+[^20]: GlobeNewsWire, "Crafting Announces General Availability of Crafting for Agents and $5.5M Seed Round to Build Infrastructure for AI-Driven Engineering," March 2026. https://www.globenewswire.com/news-release/2026/03/09/3252022/0/en/Crafting-Announces-General-Availability-of-Crafting-for-Agents-and-5-5M-Seed-Round-to-Build-Infrastructure-for-AI-Driven-Engineering.html
+[^21]: TechCrunch, "Twenty is building an open source alternative to Salesforce," November 2024. https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/

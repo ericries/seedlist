@@ -67,23 +67,23 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Honey | Seed | 2014 | Consumer / E-commerce | Acquired (PayPal, $4B, 2020) | [^12] |
-| ServiceTitan | Seed | 2014 | Enterprise SaaS / Home Services | IPO (NASDAQ, Dec 2024) | [^13] |
-| AuditBoard | Seed | ~2016 | Enterprise SaaS / GRC | Acquired | [^6] |
+| Honey | Seed ($1.8M round) | 2014 | Consumer / E-commerce | Acquired (PayPal, $4B, 2020) | [^12] |
+| ServiceTitan | Seed | Jan 2014 | Enterprise SaaS / Home Services | IPO (NASDAQ, Dec 2024, ~$6.4B) | [^13] [^25] |
+| AuditBoard | Seed | ~2016 | Enterprise SaaS / GRC | Acquired | [^6] [^26] |
 | Thrive Market | Seed | ~2014 | Consumer / E-commerce | Active | [^6] |
-| TaskRabbit | Early | ~2013 | Marketplace | Acquired (IKEA) | [^14] |
-| Surf Air | Seed | ~2013 | Consumer / Aviation | IPO (NASDAQ, Jul 2023) | [^15] |
-| Ask Sage | Seed | ~2020 | Enterprise SaaS / AI / GovTech | Acquired (BigBear.ai, $250M, 2025) | [^20] |
-| Emotive | Series A | 2021 | Marketing Tech / E-commerce | Active (raised $50M Series B) | [^21] |
-| GovDash | Seed | ~2023 | Enterprise SaaS / GovTech | Active (raised $30M Series B) | [^6] |
-| SkillCat | Seed | ~2023 | EdTech / Workforce | Active | [^22] |
-| Vaudit | Seed | 2025 | Ad-Tech / AI | Active | [^23] |
+| TaskRabbit | Early | ~2013 | Marketplace | Acquired (IKEA, Sep 2017) | [^14] [^27] |
+| Surf Air | Seed | ~2013 | Consumer / Aviation | IPO (NASDAQ, Jul 2023) | [^15] [^28] |
+| Ask Sage | Seed; Series A ($17M) | ~2020; Dec 2024 | Enterprise SaaS / AI / GovTech | Acquired (BigBear.ai, $250M, 2025) | [^20] [^29] |
+| Emotive | Series A ($4.5M, led) | May 2020 | Marketing Tech / E-commerce | Active (raised $50M Series B, Feb 2021) | [^21] [^30] |
+| GovDash | Seed; Series B ($30M, co-led) | ~2021; Jan 2026 | Enterprise SaaS / GovTech | Active | [^31] |
+| SkillCat | Seed ($3.3M, led) | Dec 2021 | EdTech / Workforce | Active | [^22] |
+| Vaudit | Seed ($7.3M, led) | Jul 2025 | Ad-Tech / AI | Active | [^23] |
 | Bild | Series A | 2025 | Construction / PropTech | Active | [^6] |
 | Orion Sleep | Seed | 2025 | Consumer | Active | [^6] |
 | Linq | Seed | 2026 | Hardware | Active | [^6] |
 | Freestyle | Seed | 2026 | Consumer Products | Active | [^6] |
-| Papaya | Seed | ~2017 | Fintech / Payments | Active | [^10] |
-| NEXT Trucking | Seed | ~2017 | Logistics / Marketplace | Active | [^10] |
+| Papaya | Seed | ~2017 | Fintech / Payments | Active (raised $50M Series B, Dec 2021) | [^32] |
+| NEXT Trucking | Seed | ~2017 | Logistics / Marketplace | Active (raised $97M total) | [^33] |
 
 This table represents approximately 10% of Mucker Capital's 169 known active portfolio companies. The firm's portfolio page lists over 100 active companies; most individual investments are not covered in publicly available press, making comprehensive sourcing difficult for a seed-stage fund of this size [^6].
 
@@ -147,3 +147,12 @@ Note: The above founder quotes are sourced from the Mucker Capital website and m
 [^22]: "SkillCat closes $3.3M seed led by Mucker Capital," SkillCat press release, accessed March 2026. https://www.skillcatapp.com/mucker-capital-seed-round
 [^23]: "Vaudit Raises $7.3 Million from Adtech Veterans to Launch AI-powered Auditing Platform for Digital Ad Spend," BusinessWire, July 23, 2025. https://www.businesswire.com/news/home/20250723510665/en/Vaudit-Raises-$7.3-Million-from-Adtech-Veterans-to-Launch-AI-powered-Auditing-Platform-for-Digital-Ad-Spend
 [^24]: Mucker Capital website, "Our Ethos" and portfolio company pages, accessed March 2026. https://mucker.com/our-ethos/
+[^25]: Crunchbase, "Seed Round - ServiceTitan - 2014-01-23," accessed April 2026. https://www.crunchbase.com/funding_round/servicetitan-seed--4303d543
+[^26]: Crunchbase, "Seed Round - AuditBoard," accessed April 2026. https://www.crunchbase.com/funding_round/auditboard-seed--fd432a44
+[^27]: TechCrunch, "IKEA has bought TaskRabbit," September 28, 2017. https://techcrunch.com/2017/09/28/ikea-buys-taskrabbit/
+[^28]: Mucker Capital, "Surf Air" portfolio page, accessed April 2026. https://mucker.com/company/surf-air/
+[^29]: "Ask Sage Raises $17 Million Series A to Expand Generative AI Platform for Public Sector," Ask Sage press release, December 2024. https://www.asksage.ai/press-release/ask-sage-raises-17-million-series-a-to-expand-generative-ai-platform-for-public-sector/
+[^30]: "Our Investment In Emotive," Mucker Capital blog, February 2021. https://mucker.com/blog/our-investment-in-emotive/
+[^31]: "GovDash Raises $30M Series B to Help Companies Win and Manage Government Contracts with AI," GovDash blog, January 2026. https://www.govdash.com/blog/press-govdash-raises-30m-series-b-to-help-companies-win-and-manage-government-contracts-with-ai
+[^32]: "Papaya Announces Series B to Expand Mobile Payment App Using First-Of-Its-Kind Bill Understanding Technology," BusinessWire, December 2021. https://www.businesswire.com/news/home/20211215005164/en/Papaya-Announces-Series-B-to-Expand-Mobile-Payment-App-Using-First-Of-Its-Kind-Bill-Understanding-Technology
+[^33]: Mucker Capital, "NEXT Trucking" portfolio page, accessed April 2026. https://mucker.com/company/next-trucking/ ; see also LA TechWatch profile. https://www.latechwatch.com/profile/next-trucking/
