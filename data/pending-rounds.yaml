@@ -83,7 +83,8 @@ pending_rounds:
   parsed_amount: $16M
   parsed_round: null
   status: skipped
-  skip_reason: late-stage company (Series C); $16M round details unverifiable from Axios snippet alone
+  skip_reason: late-stage company (Series C); $16M round details unverifiable from
+    Axios snippet alone
 - title: Haast raised $12M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -146,7 +147,8 @@ pending_rounds:
   parsed_amount: $95M
   parsed_round: null
   status: skipped
-  skip_reason: duplicate of TechCrunch entry; VC fund raise (Fund II), not a startup round
+  skip_reason: duplicate of TechCrunch entry; VC fund raise (Fund II), not a startup
+    round
 - title: Court Square Capital Partners raised $3.8B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -282,7 +284,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: contained Patlytics $40M Series B (already processed) and Mosaic $18.4M SEC filing (too small/unannounced)
+  notes: contained Patlytics $40M Series B (already processed) and Mosaic $18.4M SEC
+    filing (too small/unannounced)
 - title: True Footage raised $40M Series C
   url: https://www.globenewswire.com/news-release/2026/04/07/3269423/0/en/True-Footage-Raises-40-Million-Series-C-to-Scale-Full-Stack-Residential-Valuation-Platform.html
   source: globenewswire
