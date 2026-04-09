@@ -87,36 +87,36 @@ Based on 30 verified portfolio companies and exits, the following patterns emerg
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| CyberArk | Early | ~2001 | Cybersecurity | Acquired by Palo Alto Networks ($25B, 2025) | [^1][^11] |
-| Chromatis Networks | Early | ~1998 | Networking | Acquired by Lucent ($4.8B, 2000) | [^2] |
-| QlikTech (Qlik) | Early | ~2002 | Business Intelligence | IPO (NASDAQ: QLIK), later acquired (~$3B) | [^2][^1] |
+| CyberArk | Series A | 1999 | Cybersecurity | Acquired by Palo Alto Networks ($25B, 2025) | [^1][^11][^24] |
+| Chromatis Networks | Early | 1998 | Networking | Acquired by Lucent ($4.8B, 2000) | [^2] |
+| QlikTech (Qlik) | Early | 2002 | Business Intelligence | IPO (NASDAQ: QLIK), later acquired (~$3B) | [^2][^1] |
 | XtremIO | Early | 2009 | Storage | Acquired by EMC ($430M, 2012) | [^2] |
-| CyOptics | Early | — | Semiconductors | Acquired by Avago ($400M, 2013) | [^2] |
-| Cogent Communications | Early | ~1999 | Telecom | IPO (NASDAQ: CCOI), ~$3.5B valuation | [^1][^9] |
-~unknown| Altair Semiconductor | Early | — | Semiconductors | Acquired by Sony | [^9] |
-~unknown| CyActive | Early | — | Cybersecurity | Acquired by PayPal (31x MOIC) | [^14] |
-~unknown| Loom Systems | Early | — | AI/IT Operations | Acquired by ServiceNow (2.9x MOIC) | [^14] |
-~unknown| CNVRG.io | Early | — | AI/ML Infrastructure | Acquired by Intel (4.3x MOIC) | [^14] |
-~unknown| Hexatier | Early | — | Cybersecurity | Acquired by Huawei | [^9] |
-| Upsolver | Early | — | Data Engineering | Acquired by Qlik (Jan 2025) | [^15] |
-| Sencrop | Early | — | Agtech | Acquired by Isagri (Jan 2025) | [^15] |
-~unknown| Earnix | Growth | — | Insurtech | Active (unicorn, $1B+ valuation) | [^7][^16] |
-~unknown| ControlUp | Growth | — | Enterprise Software | Active | [^17] |
-~unknown| ThetaRay | Early | — | Fintech/AML | Active | [^18] |
-| Nanit | Series B+ | ~2016 | Consumer IoT | Active (raised $50M Dec 2025) | [^15][^19] |
-~unknown| Pyramid Analytics | Growth | — | Business Intelligence | Active (unicorn) | [^18] |
-~unknown| Morphisec | Early | — | Cybersecurity | Active | [^18] |
-~unknown| Appdome | Early | — | Cybersecurity/Mobile | Active | [^18] |
-~unknown| Centrical | Early | — | Enterprise SaaS | Active | [^1][^18] |
-~unknown| Secret Double Octopus | Early | — | Cybersecurity | Active | [^20] |
-~unknown| Akeyless | Early | — | Cybersecurity | Active | [^18] |
-~unknown| Quali | Early | — | Cloud Infrastructure | Active | [^18] |
-~unknown| AnyClip | Early | — | AI/Media | Active | [^21] |
+| CyOptics | Seed | 1999 | Semiconductors | Acquired by Avago ($400M, 2013) | [^2][^25] |
+| Cogent Communications | Early | 1999 | Telecom | IPO (NASDAQ: CCOI), ~$3.5B valuation | [^1][^9] |
+| Altair Semiconductor | Early | 2005 | Semiconductors | Acquired by Sony | [^9][^26] |
+| CyActive | Seed | 2013 | Cybersecurity | Acquired by PayPal ($60M, 2015) | [^14][^27] |
+| Loom Systems | Early | 2015 | AI/IT Operations | Acquired by ServiceNow (2020) | [^14][^28] |
+| CNVRG.io | Early | 2016 | AI/ML Infrastructure | Acquired by Intel ($60M, 2020) | [^14][^29] |
+| Hexatier | Early | 2009 | Cybersecurity | Acquired by Huawei ($42M, 2016) | [^9][^30] |
+| Upsolver | Early | 2018 | Data Engineering | Acquired by Qlik (Jan 2025) | [^15] |
+| Sencrop | Early | 2017 | Agtech | Acquired by Isagri (Jan 2025) | [^15] |
+| Earnix | Series B | 2005 | Insurtech | Active (unicorn, $1B+ valuation) | [^7][^16][^31] |
+| ControlUp | Series C | 2020 | Enterprise Software | Active | [^17][^32] |
+| ThetaRay | Early | 2013 | Fintech/AML | Active | [^18][^33] |
+| Nanit | Series B | 2017 | Consumer IoT | Active (raised $50M Dec 2025) | [^15][^19] |
+| Pyramid Analytics | Growth | 2020 | Business Intelligence | Active (unicorn) | [^18][^34] |
+| Morphisec | Seed | 2014 | Cybersecurity | Active | [^18][^35] |
+| Appdome | Seed | 2013 | Cybersecurity/Mobile | Active | [^18][^36] |
+| Centrical | Series B | 2019 | Enterprise SaaS | Active | [^1][^18][^37] |
+| Secret Double Octopus | Series A | 2017 | Cybersecurity | Active | [^20][^38] |
+| Akeyless | Series A | 2021 | Cybersecurity | Active | [^18][^39] |
+| Quali | Series C | 2019 | Cloud Infrastructure | Active | [^18][^40] |
+| AnyClip | Growth | 2021 | AI/Media | Active | [^21][^41] |
 | Datricks | Series A | 2024 | AI/Data | Active | [^15] |
 | Hyperspace | Seed | 2024 | AI/Search | Active ($9.5M round) | [^15] |
-~unknown| GreenEye Technology | Seed | — | Agtech/Climate | Active | [^21] |
-~unknown| Allot Communications | Early | — | Cybersecurity/Networking | IPO (exited) | [^2] |
-~unknown| Jacada | Early | — | Enterprise Software | Acquired | [^2] |
+| GreenEye Technology | Seed | 2020 | Agtech/Climate | Active | [^21][^42] |
+| Allot Communications | Early | 1996 | Cybersecurity/Networking | IPO (exited) | [^2][^43] |
+| Jacada | Early | 1990 | Enterprise Software | Acquired by Uniphore (2021) | [^2][^44] |
 
 *This table represents approximately 18% of JVP's 165+ claimed portfolio companies. Many early investments from the 1990s and 2000s lack publicly available round details.*
 
@@ -179,3 +179,24 @@ However, not all founder experiences have been positive. One founder review desc
 [^21]: JVP Team page, Gadi Porat profile (board seats listing portfolio companies), accessed March 2026. https://jvpvc.com/jvp_team/gadi-porat/
 [^22]: PR Newswire / JVP Newsroom, "Leading Israeli VC Fund JVP Strengthens Management Team by Promoting Yoav Tzruya and Fiona Darmon to General Partners," 2017. https://jvpvc.com/newsroom/leading-israeli-vc-fund-jvp-strengthens-management-team-promoting-yoav-tzruya-fiona-darmon-general-partners/
 [^23]: BOUND, "Jerusalem Venture Partners (JVP) Reviews," accessed March 2026. https://boundwell.io/investor/jerusalem-venture-partners-jvp/
+[^24]: JVP Newsroom, "How CyberArk Became Israel's Best Venture Capital Investment," accessed April 2026. https://jvpvc.com/news-room/how-cyberark-became-israels-best-venture-capital-investment-2/
+[^25]: PRNewswire, "JVP Leads $50 Million Secondary and Primary Transaction in Photonic Integrated Circuit Company CyOptics, Inc.," accessed April 2026. https://www.prnewswire.com/news-releases/jvp-leads-50-million-secondary-and-primary-transaction-in-photonic-integrated-circuit-company-cyoptics-inc-114636324.html
+[^26]: VentureBeat, "Altair Semiconductor raises $26M for super-fast wireless data chips," accessed April 2026. https://venturebeat.com/technology/altair-semiconductor-raises-26m-for-super-fast-wireless-data-chips/
+[^27]: Times of Israel, "Paypal to acquire Israeli cybersec firm CyActive," March 2015. https://www.timesofisrael.com/paypal-to-acquire-israeli-cybersec-firm-cyactive/
+[^28]: TechCrunch, "ServiceNow acquires Loom Systems to expand AIOps coverage," January 22, 2020. https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/
+[^29]: TechCrunch, "Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning," November 3, 2020. https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/
+[^30]: SiliconANGLE, "Huawei acquires Israeli database security startup Hexatier for $42M," December 28, 2016. https://siliconangle.com/2016/12/28/huawei-acquires-israeli-database-security-startup-hexatier-42m/
+[^31]: Calcalist Tech, "Insight Partners and JVP acquire $120M worth of Earnix shares," accessed April 2026. https://www.calcalistech.com/ctechnews/article/sy300urjic
+[^32]: PRNewswire, "ControlUp, a Global Leader in Digital Employee Experience Management, Raises $100 Million, Co-Led by K1 and JVP," November 2021. https://www.prnewswire.com/news-releases/controlup-a-global-leader-in-digital-employee-experience-management-raises-100-million-co-led-by-k1-and-jvp-301420888.html
+[^33]: PRNewswire, "JVP Founder and Chairman Erel Margalit Appointed Chairman of ThetaRay's Board of Directors," July 2020. https://www.prnewswire.com/news-releases/jvp-founder-and-chairman-erel-margalit-appointed-chairman-of-thetarays-board-of-directors-301087057.html
+[^34]: NoCamels, "JVP Leads $25M Investment In Business Intel Data Firm Pyramid Analytics," March 2020. https://nocamels.com/2020/03/pyramid-analytics-jvp-25m/
+[^35]: NoCamels, "Israeli Cybersecurity Startup Morphisec Raises $31M Funding Round, Led by JVP," March 2021. https://nocamels.com/2021/03/startup-security-solutions-morphisec-funding-jvp/
+[^36]: Crunchbase, "Appdome - Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/appdome
+[^37]: JVP Newsroom, "Centrical Launches with $13 Million in Additional Funding; Latest Round Led by Aleph with JVP," November 2019. https://jvpvc.com/newsroom/centrical-launches-13-million-additional-funding-latest-round-led-aleph-jvp-companys-largest-investor/
+[^38]: PRNewswire, "Secret Double Octopus Raises $6 Million to Protect Identity and Data Using Nuclear Launch Code Safety Algorithms," January 2017. https://www.prnewswire.com/news-releases/secret-double-octopus-raises-6-million-to-protect-identity-and-data-using-nuclear-launch-code-safety-algorithms-611639245.html
+[^39]: PRWeb, "Akeyless Reimagines Cloud Security, Raises $14M Series A," April 2021. https://www.prweb.com/releases/Akeyless_Reimagines_Cloud_Security_Raises_14M_Series_A/prweb17896192.htm
+[^40]: Jerusalem Post, "JVP leads $22.5 million investment round in Quali," 2019. https://www.jpost.com/jpost-tech/jerusalem-venture-partners-leads-225m-investment-round-in-quali-574078
+[^41]: PRNewswire, "AnyClip Nets $47 Million Funding Round and Launches as 'The Visual Intelligence Company,'" May 2021. https://www.prnewswire.com/news-releases/anyclip-nets-47-million-funding-round-and-launches-as-the-visual-intelligence-company-301298282.html
+[^42]: NoCamels, "JVP Leads $7M Seed Round In AI-Powered, Weed-Busting Agtech Startup," May 2020. https://nocamels.com/2020/05/jvp-funding-ai-weed-busting-agtech-startup/
+[^43]: Renaissance Capital, "Allot Communications: ALLT IPO," accessed April 2026. https://www.renaissancecapital.com/Profile/ALLT/Allot-Communicatio/IPO
+[^44]: Wikipedia, "Jacada," accessed April 2026. https://en.wikipedia.org/wiki/Jacada

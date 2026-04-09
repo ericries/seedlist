@@ -92,70 +92,70 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Arketa | Early | 2024 | B2B / Consumer | Active | [^13] |
 | Arcade | Early | 2024 | AI / Consumer | Active | [^13] |
 | Duckbill | Series A | 2023 | AI / Consumer | Active | [^8] |
-| Dandy | Growth | ~2021 | Healthcare / Dental | Active | [^13] |
-| Finix | Growth | ~2020 | Fintech / Payments | Active | [^13] |
-| Rho | Growth | ~2020 | Fintech / Banking | Active | [^13] |
-| Teamshares | Growth | ~2020 | Fintech / Labor | Exited (2025) | [^13] |
-| QA Wolf | Early | ~2022 | AI / Testing | Active | [^13] |
-| Habi | Growth | ~2020 | Real Estate / Fintech | Active | [^13] |
-| Good Inside | Early | ~2021 | Consumer / Education | Active | [^13] |
-| Paytient | Growth | ~2020 | Healthcare / Fintech | Active | [^13] |
-| ShopMy | Early | ~2022 | B2B / Creator Economy | Active | [^13] |
-| Propel | Growth | ~2020 | Consumer Fintech | Active | [^13] |
-| Public | Growth | ~2020 | Consumer Fintech | Active | [^6] |
-| Chief | Growth | ~2020 | Consumer / Labor | Active | [^6] |
-| Snackpass | Growth | ~2021 | Consumer / QSR | Active | [^13] |
-| Canvas Medical | Growth | ~2021 | Healthcare / B2B | Active | [^13] |
-| Treeswift | Early | ~2022 | Frontier / Robotics | Active | [^13] |
-| Scythe | Early | ~2021 | Industrial | Exited | [^13] |
-| Day.ai | Early | ~2023 | AI / CRM | Active | [^13] |
-| Axion | Early | ~2023 | AI / Industrial | Active | [^13] |
-| Edia | Early | ~2022 | Education | Active | [^13] |
-| Kalepa | Early | ~2022 | Insurtech / AI | Active | [^13] |
-| Kanmon | Early | ~2022 | Fintech / Lending | Active | [^13] |
-| Kettle | Early | ~2021 | Climate / Insurtech | Active | [^13] |
-| Orum | Early | ~2021 | Fintech / Payments | Exited | [^13] |
-| Paragon | Early | ~2021 | Developer Tools | Active | [^13] |
-| Regal | Early | ~2021 | B2B / Sales | Active | [^13] |
-| Saturn | Early | ~2021 | Consumer / Education | Exited | [^13] |
-| Geneva | Early | ~2021 | Consumer / Social | Exited | [^13] |
-| Nirvana | Early | ~2022 | Healthcare / B2B | Active | [^13] |
-| Frontera Health | Early | ~2023 | Healthcare | Active | [^13] |
-| Hopscotch | Early | ~2023 | Healthcare / Mental Health | Active | [^13] |
-| Kamino | Early | ~2022 | Fintech / LatAm | Active | [^13] |
-| Blaze | Early | ~2023 | AI / Content | Active | [^13] |
-| Continual | Early | ~2022 | AI / B2B | Active | [^13] |
-| CredCore | Early | ~2023 | Fintech / AI | Active | [^13] |
-| Comprehensive | Early | ~2023 | Labor / B2B | Active | [^13] |
-| Niural | Early | ~2023 | Labor / Payroll | Active | [^13] |
-| Spara | Early | ~2024 | AI / Sales | Active | [^13] |
-| Supper | Early | ~2024 | AI / B2B | Active | [^13] |
-| Deeptune | Early | ~2024 | AI | Active | [^13] |
-| Equal Parts | Early | ~2024 | AI / Insurance | Active | [^13] |
-| PreemptiveAI | Early | ~2024 | AI / Healthcare | Active | [^13] |
-| Maple | Early | ~2023 | Consumer / Family | Active | [^13] |
-| Umbrella | Early | ~2022 | Consumer | Exited | [^13] |
-| Sheer Health | Early | ~2023 | Healthcare | Active | [^13] |
-| Zaya | Early | ~2023 | Healthcare | Active | [^13] |
-| Allen Control Systems | Early | ~2023 | Industrial / Defense | Active | [^13] |
-| Class 8 | Early | ~2022 | Industrial / Logistics | Active | [^13] |
-| Compass Regulatory | Early | ~2023 | Industrial / Ag | Active | [^13] |
-| Syndica | Early | ~2022 | Crypto / Infra | Active | [^13] |
-| Utila | Early | ~2023 | Crypto / Ops | Active | [^13] |
-| POAP | Early | ~2022 | Consumer / Web3 | Active | [^13] |
-| Basic Capital | Early | ~2023 | Fintech / Mortgage | Active | [^13] |
-| Kovo | Early | ~2022 | Consumer Fintech | Active | [^13] |
-| Lean Financial | Early | ~2021 | Fintech / Labor | Exited | [^13] |
-| Silvur | Early | ~2021 | Fintech / Retirement | Active | [^13] |
-| Creative Juice | Early | ~2021 | Fintech / Creator | Exited | [^13] |
-| Queen One | Early | ~2023 | B2B / Web | Active | [^13] |
-| Winible | Early | ~2023 | B2B / Sports | Active | [^13] |
-| Parabolic | Early | ~2023 | Consumer / Auto | Active | [^13] |
-| 10Beauty | Growth | ~2023 | Consumer / Beauty | Active | [^13] |
-| Archimetis | Early | ~2024 | AI / Industrial | Active | [^13] |
-| MosaicML | Early | ~2022 | AI / ML Infra | Exited | [^13] |
+| Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |
+| Finix | Series B | 2020 | Fintech / Payments | Active | [^17] |
+| Rho | Seed | 2019 | Fintech / Banking | Active | [^18] |
+| Teamshares | Seed | 2019 | Fintech / Labor | Exited (2025) | [^13][^19] |
+| QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |
+| Habi | Series A | 2020 | Real Estate / Fintech | Active | [^21] |
+| Good Inside | Early | 2021 | Consumer / Education | Active | [^13] |
+| Paytient | Series B | 2023 | Healthcare / Fintech | Active | [^22] |
+| ShopMy | Series A | 2024 | B2B / Creator Economy | Active | [^23] |
+| Propel | Growth | 2020 | Consumer Fintech | Active | [^13] |
+| Public | Growth | 2020 | Consumer Fintech | Active | [^6] |
+| Chief | Growth | 2020 | Consumer / Labor | Active | [^6] |
+| Snackpass | Series A | 2019 | Consumer / QSR | Active | [^24] |
+| Canvas Medical | Series A | 2021 | Healthcare / B2B | Active | [^25] |
+| Treeswift | Early | 2022 | Frontier / Robotics | Active | [^13] |
+| Scythe | Series A | 2021 | Industrial | Exited | [^26] |
+| Day.ai | Seed | 2024 | AI / CRM | Active | [^27] |
+| Axion | Early | 2023 | AI / Industrial | Active | [^13] |
+| Edia | Early | 2022 | Education | Active | [^13] |
+| Kalepa | Series A | 2021 | Insurtech / AI | Active | [^28] |
+| Kanmon | Early | 2022 | Fintech / Lending | Active | [^13] |
+| Kettle | Seed | 2021 | Climate / Insurtech | Active | [^29] |
+| Orum | Seed | 2020 | Fintech / Payments | Exited | [^30] |
+| Paragon | Series A | 2022 | Developer Tools | Active | [^31] |
+| Regal | Series A | 2022 | B2B / Sales | Active | [^32] |
+| Saturn | Early | 2021 | Consumer / Education | Exited | [^13] |
+| Geneva | Early | 2021 | Consumer / Social | Exited | [^13] |
+| Nirvana | Early | 2022 | Healthcare / B2B | Active | [^13] |
+| Frontera Health | Early | 2023 | Healthcare | Active | [^13] |
+| Hopscotch | Early | 2023 | Healthcare / Mental Health | Active | [^13] |
+| Kamino | Early | 2022 | Fintech / LatAm | Active | [^13] |
+| Blaze | Early | 2023 | AI / Content | Active | [^13] |
+| Continual | Early | 2022 | AI / B2B | Active | [^13] |
+| CredCore | Early | 2023 | Fintech / AI | Active | [^13] |
+| Comprehensive | Early | 2023 | Labor / B2B | Active | [^13] |
+| Niural | Early | 2023 | Labor / Payroll | Active | [^13] |
+| Spara | Early | 2024 | AI / Sales | Active | [^13] |
+| Supper | Early | 2024 | AI / B2B | Active | [^13] |
+| Deeptune | Early | 2024 | AI | Active | [^13] |
+| Equal Parts | Early | 2024 | AI / Insurance | Active | [^13] |
+| PreemptiveAI | Early | 2024 | AI / Healthcare | Active | [^13] |
+| Maple | Early | 2023 | Consumer / Family | Active | [^13] |
+| Umbrella | Early | 2022 | Consumer | Exited | [^13] |
+| Sheer Health | Early | 2023 | Healthcare | Active | [^13] |
+| Zaya | Early | 2023 | Healthcare | Active | [^13] |
+| Allen Control Systems | Early | 2023 | Industrial / Defense | Active | [^13] |
+| Class 8 | Early | 2022 | Industrial / Logistics | Active | [^13] |
+| Compass Regulatory | Early | 2023 | Industrial / Ag | Active | [^13] |
+| Syndica | Early | 2022 | Crypto / Infra | Active | [^13] |
+| Utila | Early | 2023 | Crypto / Ops | Active | [^13] |
+| POAP | Early | 2022 | Consumer / Web3 | Active | [^13] |
+| Basic Capital | Early | 2023 | Fintech / Mortgage | Active | [^13] |
+| Kovo | Early | 2022 | Consumer Fintech | Active | [^13] |
+| Lean Financial | Early | 2021 | Fintech / Labor | Exited | [^13] |
+| Silvur | Early | 2021 | Fintech / Retirement | Active | [^13] |
+| Creative Juice | Early | 2021 | Fintech / Creator | Exited | [^13] |
+| Queen One | Early | 2023 | B2B / Web | Active | [^13] |
+| Winible | Early | 2023 | B2B / Sports | Active | [^13] |
+| Parabolic | Early | 2023 | Consumer / Auto | Active | [^13] |
+| 10Beauty | Growth | 2023 | Consumer / Beauty | Active | [^13] |
+| Archimetis | Early | 2024 | AI / Industrial | Active | [^13] |
+| MosaicML | Early | 2022 | AI / ML Infra | Exited | [^13] |
 
-This table represents 66 Inspired Capital portfolio investments (excluding 7 pre-Inspired personal investments by partners). Investment years are approximate where exact dates are unavailable, marked with ~.
+This table represents 66 Inspired Capital portfolio investments (excluding 7 pre-Inspired personal investments by partners). Where specific funding round dates were confirmed via press releases or Crunchbase, exact years are shown; remaining entries use the year listed on the firm's portfolio page or the company's earliest known funding year.
 
 ## In Their Own Words
 
@@ -206,3 +206,20 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^13]: Inspired Capital website, "Companies" portfolio page, accessed April 2026. https://www.inspiredcapital.com/companies
 [^14]: Inspired Capital website, "Why We Invested: Solace Health," accessed April 2026. https://www.inspiredcapital.com/article/why-we-invested-solace-health
 [^15]: Finovate, "Six Minutes with Inspired Capital Founder Alexa Von Tobel," accessed April 2026. https://finovate.com/six-minutes-with-inspired-capital-founder-alexa-von-tobel/
+[^16]: Crunchbase, "Dandy - Funding, Financials, Valuation & Investors," accessed April 2026. https://www.crunchbase.com/organization/dandy-7e2a/company_financials
+[^17]: TechCrunch, "Payments infra startup Finix closes $35M Series B led by Sequoia," February 4, 2020. https://techcrunch.com/2020/02/04/payments-infra-startup-finix-closes-35m-series-b-led-by-sequoia/
+[^18]: BusinessWire, "Rho Business Banking Launches to Accelerate High-Growth Startups; Inspired Capital Leads Investment Round," October 15, 2019. https://www.businesswire.com/news/home/20191015005270/en/Rho-Business-Banking-Launches-to-Accelerate-High-Growth-Startups-Inspired-Capital-Leads-Investment-Round
+[^19]: TechCrunch, "This venture-backed startup has quietly bought more than 80 mom-and-pop shops," August 24, 2023. https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/
+[^20]: TechCrunch, "QA Wolf exits stealth with an end-to-end service for software testing," September 7, 2022. https://techcrunch.com/2022/09/07/qa-wolf-exits-stealth-with-an-end-to-end-service-for-software-testing/
+[^21]: TechCrunch, "Property tech startup Habi raises $10M to drive expansion in Latin America," August 26, 2020. https://techcrunch.com/2020/08/26/property-tech-startup-habi-raises-10m-to-drive-expansion-in-latin-america/
+[^22]: Crunchbase, "Paytient - Series B Funding Round," accessed April 2026. https://www.crunchbase.com/funding_round/paytient-series-a--848314b2
+[^23]: TechCrunch, "ShopMy lands $18.5M to help influencers earn more money from promoting products," March 14, 2024. https://techcrunch.com/2024/03/14/shopmy-influencer-marketing-platform-lands-18-5-million-funding-round/
+[^24]: PRWeb, "Snackpass, the app that makes ordering food easy and social, raises $21M in Series A funding," December 2019. https://www.prweb.com/releases/snackpass_the_app_that_makes_ordering_food_easy_and_social_raises_21m_in_series_a_funding/prweb16798593.htm
+[^25]: TechCrunch, "EHR startup Canvas Medical raises $17M and partners with insurance heavyweight Anthem," April 8, 2021. https://techcrunch.com/2021/04/08/ehr-startup-canvas-medical-raises-17m-and-partners-with-insurance-heavyweight-anthem/
+[^26]: TechCrunch, "Robotic landscaping startup Scythe emerges from stealth with $13.8M raise," June 15, 2021. https://techcrunch.com/2021/06/15/robotic-landscaping-startup-scythe-emerges-from-stealth-with-18-6m-raise/
+[^27]: Day AI, "Day AI raises $4M from Sequoia Capital to Reimagine CRM," accessed April 2026. https://day.ai/sequoia-backs-ai-native-crm
+[^28]: TechCrunch, "NYC-based insurance underwriting platform Kalepa raises $14M Series A led by Inspired Capital," September 3, 2021. https://techcrunch.com/2021/09/03/nyc-based-insurance-underwriting-platform-kalepa-raises-14m-series-a-led-by-inspired-capital/
+[^29]: Reinsurance News, "Deep learning reinsurance startup Kettle announces seed financing round," accessed April 2026. https://www.reinsurancene.ws/deep-learning-reinsurance-startup-kettle-seed-financing-round/
+[^30]: Finovate, "A First Look at Inspired Capital-Backed Orum," accessed April 2026. https://finovate.com/a-first-look-at-inspired-capital-backed-orum/
+[^31]: TechCrunch, "Paragon wants to be the Plaid of SaaS apps," July 27, 2022. https://techcrunch.com/2022/07/27/paragon-wants-to-be-the-plaid-of-saas-apps/
+[^32]: PRNewswire, "Regal.io raises $38.5M Series A from Emergence Capital," September 2022. https://www.prnewswire.com/news-releases/regalio-which-offers-event-driven-branded-phone-calls-for-online-brands-raises-38-5m-series-a-from-emergence-capital-301618957.html

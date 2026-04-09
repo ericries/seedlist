@@ -89,16 +89,16 @@ Based on 28 verified investments from the portfolio below, Kapor Capital's actua
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Uber | Seed | ~2010 | Transportation | IPO | [^13] |
+| Uber | Seed | 2010 | Transportation | IPO | [^13][^24] |
 | Twilio | Seed | 2009 | Developer Tools | IPO | [^14] |
-| Asana | Early | ~2011 | Productivity | IPO | [^13] |
+| Asana | Early | 2011 | Productivity | IPO | [^13] |
 | Omada Health | Seed | 2011 | Digital Health | IPO | [^15] |
-| Via | Early | ~2013 | Transportation | IPO (2025) | [^6] |
+| Via | Early | 2013 | Transportation | IPO (2025) | [^6] |
 | AngelList | Early | 2011 | Finance | Active | [^16] |
 | ClassDojo | Seed | 2013 | Education | Unicorn (2022) | [^6][^17] |
-| Thrive Market | Seed | ~2014 | Food/Retail | Active | [^5] |
+| Thrive Market | Seed | 2014 | Food/Retail | Active | [^5] |
 | BlocPower | Seed | 2014 | Climate/Energy | Active | [^18] |
-| Bitwise Industries | Seed | ~2013 | Workforce Development | Bankrupt (2023) | [^19] |
+| Bitwise Industries | Seed | 2013 | Workforce Development | Bankrupt (2023) | [^19] |
 | Aclima | Early | 2018 | Climate/Environment | Active | [^16] |
 | Accredible | Seed | 2013 | Education | Active | [^16] |
 | Allovue | Seed | 2015 | Education | Acquired | [^16] |
@@ -106,18 +106,18 @@ Based on 28 verified investments from the portfolio below, Kapor Capital's actua
 | Always Hired | Seed | 2017 | Education/Work | Active | [^16] |
 | AnswersNow | Seed | 2019 | Health | Active | [^5][^16] |
 | Applauze | Seed | 2010 | Work | Acquired | [^16] |
-| Daylight | Seed | ~2021 | Fintech/Banking | Active | [^4] |
-| Cayaba Care | Seed | ~2022 | Health | Active | [^4] |
-| TomoCredit | Seed | ~2021 | Fintech/Credit | Active | [^4] |
-| Promise | Seed | ~2017 | Govtech/Justice | Active | [^20] |
+| Daylight | Seed | 2021 | Fintech/Banking | Active | [^4][^25] |
+| Cayaba Care | Seed | 2021 | Health | Active | [^4][^26] |
+| TomoCredit | Series A | 2021 | Fintech/Credit | Active | [^4][^27] |
+| Promise | Seed | 2017 | Govtech/Justice | Active | [^20] |
 | Affect Therapeutics | Seed | 2021 | Health | Active | [^16] |
 | Air Protein | Seed | 2014 | Climate/Food | Active | [^16] |
 | Ajua | Seed | 2018 | Impact | Active | [^16] |
 | AdeptID | Seed | 2024 | HR Tech/Work | Active | [^16] |
-| Lirvana Labs | Seed | ~2024 | Education | Active | [^21] |
+| Lirvana Labs | Seed | 2024 | Education | Active | [^21] |
 | Bridge (banking) | Seed | 2023 | Fintech | Active | [^21] |
-| Lumi (Colin Kaepernick) | Seed | ~2024 | AI/Creator Tools | Active | [^5] |
-| interviewing.io | Seed | ~2020 | HR Tech/Work | Active | [^5] |
+| Lumi (Colin Kaepernick) | Seed | 2024 | AI/Creator Tools | Active | [^5] |
+| interviewing.io | Seed | 2017 | HR Tech/Work | Active | [^5][^28] |
 | Parento | Seed | 2025 | Work/Benefits | Active | [^6] |
 | Comics Plus | Growth | 2026 | Publishing/Education | Active | [^6] |
 
@@ -178,3 +178,8 @@ Note: These testimonials are sourced from the firm's own Fund III announcement p
 [^21]: CBInsights, "Kapor Capital Portfolio Investments, Funds, Exits," accessed April 2026. https://www.cbinsights.com/investor/kapor-capital
 [^22]: SOCAP Global, "Tech and Impact Pioneer Mitch Kapor on SOCAP's Money + Meaning Podcast," June 2019, accessed April 2026. https://socapglobal.com/2019/06/impact-pioneer-mitch-kapor-interview/
 [^23]: Heller School at Brandeis University, "Closing the Equity Gap with Impact Investors Freada Kapor Klein and Mitch Kapor," 2023, accessed April 2026. https://heller.brandeis.edu/news/items/releases/2023/closing-equity-gap-event-freada-kapor-klein-mitch-kapor.html
+[^24]: From Day One, "What Happens When Capitalists Follow Their Conscience," September 2019, accessed April 2026. https://www.fromdayone.com/2019/09/16/what-happens-when-capitalists-follow-their-conscience/
+[^25]: TechCrunch, "Daylight raises millions to build a digital banking platform 'designed for and by' the LGBTQ+ community," June 30, 2021. https://techcrunch.com/2021/06/30/daylight-raises-millions-to-build-a-digital-banking-platform-designed-for-and-by-the-lgbtq-community/
+[^26]: MobiHealthNews, "Maternal health platform Cayaba Care launches with $3.2 million in seed funding," August 2021. https://www.mobihealthnews.com/news/maternal-health-platform-cayaba-care-launches-32-million-seed-funding
+[^27]: TechCrunch, "Kapor Capital, Square co-founder Sam Wen back TomoCredit in its $10M Series A funding round," September 15, 2021. https://techcrunch.com/2021/09/15/kapor-capital-square-co-founder-sam-wen-back-tomocredit-in-its-10m-series-a-funding-round/
+[^28]: FinSMEs, "interviewing.io Raises $3M in Funding," September 2017. https://www.finsmes.com/2017/09/interviewing-io-raises-3m-in-funding.html
