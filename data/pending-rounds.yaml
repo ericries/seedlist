@@ -19,6 +19,15 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Stack Capital Group Inc. Closes Upsized Best Efforts Concurrent Private Placement
+    for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
+  url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
+  source: globenewswire
+  date_found: '2026-04-10'
+  parsed_company: Stack Capital Group Inc.
+  parsed_amount: $31.25M
+  parsed_round: null
+  status: pending
 - title: Collide Capital raises $95M fund to back fintech, future-of-work startups
   url: https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/
   source: techcrunch
