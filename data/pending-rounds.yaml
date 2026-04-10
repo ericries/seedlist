@@ -28,6 +28,15 @@ pending_rounds:
   parsed_amount: $31.25M
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom
+    Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/
+  source: crunchbase
+  date_found: '2026-04-10'
+  parsed_company: null
+  parsed_amount: $400M
+  parsed_round: null
+  status: pending
 - title: Collide Capital raises $95M fund to back fintech, future-of-work startups
   url: https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/
   source: techcrunch
