@@ -91,30 +91,30 @@ Despite investing across many sectors, Neo does not publicly emphasize any secto
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Source |
-|---------|-------|------|--------|--------|
-| Anysphere (Cursor) | Seed | 2022 | AI / Developer Tools | [^6][^12] |
-| Kalshi | Seed | ~2018 | Fintech / Prediction Markets | [^5][^15] |
-| Bluesky | Seed | 2023 | Social Media | [^16] |
-| Cognition | Seed | ~2023 | AI / Developer Tools | [^6] |
-| Pika Labs | Seed | ~2023 | Generative AI / Video | [^7][^13] |
-| Chai Discovery | Seed | 2024 | Biotech / AI Drug Discovery | [^14] |
-~unknown| Deel | Early | — | HR Tech / Fintech | [^3] |
-~unknown| Replit | Early | — | Developer Tools | [^3][^5] |
-~unknown| Speak | Early | — | AI / Language Learning | [^3] |
-~unknown| Ramp | Later Stage | — | Fintech | [^4][^5] |
-~unknown| Bubble | Early | — | No-Code / Developer Tools | [^4][^5] |
-~unknown| Vanta | Early | — | Security / Compliance | [^4][^5] |
-~unknown| Warp | Early | — | Developer Tools | [^5] |
-~unknown| Watershed | Later Stage | — | Climate Tech / Data | [^5] |
-~unknown| Scale | Later Stage | — | AI / Data Infrastructure | [^4][^5] |
-| Caldera | Seed | 2022 | Blockchain / Infrastructure | [^17][^18] |
-~unknown| Skiff | Seed | — | Privacy / Encryption | [^19] |
-~unknown| CoProcure | Seed | — | GovTech / Procurement | [^4] |
-| Moment | Seed | 2022 | Fintech / Fixed Income | [^18] |
-| Sapien | Seed | 2024 | AI / Finance | [^20] |
-~unknown| Anterior | Seed | — | AI / Healthcare | [^21] |
-| Chord | Seed | 2022 | AI / Product Research | [^18] |
+| Company | Stage | Year | Sector | Status | Source |
+|---------|-------|------|--------|--------|--------|
+| Anysphere (Cursor) | Seed | 2022 | AI / Developer Tools | Active | [^6][^12] |
+| Kalshi | Seed | ~2018 | Fintech / Prediction Markets | Active | [^5][^15] |
+| Bluesky | Seed | 2023 | Social Media | Active | [^16] |
+| Cognition | Seed | ~2023 | AI / Developer Tools | Active | [^6] |
+| Pika Labs | Seed | ~2023 | Generative AI / Video | Active | [^7][^13] |
+| Chai Discovery | Seed | 2024 | Biotech / AI Drug Discovery | Active | [^14] |
+| Deel | Early | ~2019 | HR Tech / Fintech | Active | [^3] |
+| Replit | Early | ~2018 | Developer Tools | Active | [^3][^5] |
+| Speak | Early | ~2019 | AI / Language Learning | Active | [^3] |
+| Ramp | Later Stage | ~2020 | Fintech | Active | [^4][^5] |
+| Bubble | Early | ~2019 | No-Code / Developer Tools | Active | [^4][^5] |
+| Vanta | Early | ~2020 | Security / Compliance | Active | [^4][^5] |
+| Warp | Early | ~2021 | Developer Tools | Active | [^5] |
+| Watershed | Later Stage | ~2021 | Climate Tech / Data | Active | [^5] |
+| Scale | Later Stage | ~2021 | AI / Data Infrastructure | Active | [^4][^5] |
+| Caldera | Seed | 2022 | Blockchain / Infrastructure | Active | [^17][^18] |
+| Skiff | Seed | ~2021 | Privacy / Encryption | Acquired (Notion) | [^19] |
+| CoProcure | Seed | ~2020 | GovTech / Procurement | Active | [^4] |
+| Moment | Seed | 2022 | Fintech / Fixed Income | Active | [^18] |
+| Sapien | Seed | 2024 | AI / Finance | Active | [^20] |
+| Anterior | Seed | ~2023 | AI / Healthcare | Active | [^21] |
+| Chord | Seed | 2022 | AI / Product Research | Active | [^18] |
 
 This table represents approximately 14% of Neo's reported 163 investments [^3]. Many investments, particularly from the accelerator cohorts (2022-2025), could not be individually verified with primary sources.
 

@@ -68,26 +68,26 @@ Based on 18 verified investments from OATV's portfolio (representing a subset of
 
 This table represents a subset of OATV's investments. The firm has made an estimated 100+ investments across its three funds; only investments that could be independently verified with sources are included here.
 
-| Company | Stage | Year | Sector | Source |
-|---|---|---|---|---|
-| Wesabe | Seed | 2007 | Fintech | [^15] |
-| TripIt | Seed | 2007 | Travel | [^16] |
-| Parakey | Seed | ~2007 | Developer Tools | [^14] |
-| Get Satisfaction | Seed | ~2007 | Customer Service | [^17] |
-| Bitly | Seed | ~2008 | Consumer Internet | [^18] |
-| Foursquare | Seed | 2009 | Consumer/Location | [^19] |
-| GoodData | Seed | 2009 | Data Analytics | [^20] |
-| FitnessKeeper (RunKeeper) | Seed | 2010 | Health/Fitness | [^21] |
-| Chartbeat | Seed | 2010 | Data Analytics | [^22] |
-| Codecademy | Seed | 2011 | Education/Dev Tools | [^1] |
-| Fastly | Seed | 2011 | Infrastructure/CDN | [^23] |
-| Misfit Wearables | Seed | 2011 | Hardware/Wearables | [^24] |
-| Figma | Seed | ~2013 | Design Tools | [^8] |
-| Planet | Seed | ~2013 | Aerospace/Imaging | [^25] |
-| Hipcamp | Seed | 2014 | Consumer/Outdoors | [^26] |
-| Signal Sciences | Seed | 2014 | Cybersecurity | [^27] |
-| Fetch Robotics | Seed | ~2015 | Robotics | [^28] |
-| Instructables | Seed | ~2008 | Maker/DIY | [^4] |
+| Company | Stage | Year | Sector | Status | Source |
+|---|---|---|---|---|---|
+| Wesabe | Seed | 2007 | Fintech | Shut Down | [^15] |
+| TripIt | Seed | 2007 | Travel | Acquired (Concur/SAP) | [^16] |
+| Parakey | Seed | ~2007 | Developer Tools | Acquired (Facebook) | [^14] |
+| Get Satisfaction | Seed | ~2007 | Customer Service | Acquired (Sprinklr) | [^17] |
+| Bitly | Seed | ~2008 | Consumer Internet | Active | [^18] |
+| Foursquare | Seed | 2009 | Consumer/Location | Active | [^19] |
+| GoodData | Seed | 2009 | Data Analytics | Active | [^20] |
+| FitnessKeeper (RunKeeper) | Seed | 2010 | Health/Fitness | Acquired (ASICS) | [^21] |
+| Chartbeat | Seed | 2010 | Data Analytics | Active | [^22] |
+| Codecademy | Seed | 2011 | Education/Dev Tools | Acquired (Skillsoft) | [^1] |
+| Fastly | Seed | 2011 | Infrastructure/CDN | IPO | [^23] |
+| Misfit Wearables | Seed | 2011 | Hardware/Wearables | Acquired (Fossil Group) | [^24] |
+| Figma | Seed | ~2013 | Design Tools | IPO | [^8] |
+| Planet | Seed | ~2013 | Aerospace/Imaging | IPO | [^25] |
+| Hipcamp | Seed | 2014 | Consumer/Outdoors | Active | [^26] |
+| Signal Sciences | Seed | 2014 | Cybersecurity | Acquired (Fastly) | [^27] |
+| Fetch Robotics | Seed | ~2015 | Robotics | Acquired (Zebra Technologies) | [^28] |
+| Instructables | Seed | ~2008 | Maker/DIY | Acquired (Autodesk) | [^4] |
 
 ## In Their Own Words
 
