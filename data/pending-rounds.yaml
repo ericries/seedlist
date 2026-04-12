@@ -23,20 +23,114 @@ pending_rounds:
     for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
   url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
   source: globenewswire
-  date_found: '2026-04-10'
+  date_found: ‘2026-04-12’
   parsed_company: Stack Capital Group Inc.
   parsed_amount: $31.25M
   parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom
-    Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big'
+  status: skipped
+  skip_reason: public investment company private placement, not a startup round
+- title: Chapter raised $100M Series E
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Chapter
+  parsed_amount: $100M
+  parsed_round: Series E
+  status: processed
+  notes: created startup profile chapter.md
+- title: Elorian raised $55M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Elorian
+  parsed_amount: $55M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile elorian.md
+- title: Luminai raised $38M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Luminai
+  parsed_amount: $38M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile luminai.md
+- title: Paysend raised $25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Paysend
+  parsed_amount: $25M
+  parsed_round: null
+  status: processed
+  notes: created startup profile paysend.md
+- title: PeakMetrics raised $6M Series a
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: PeakMetrics
+  parsed_amount: $6M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile peakmetrics.md
+- title: Juno raised $12M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Juno
+  parsed_amount: $12M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: duplicate; juno-tax.md already exists from Crunchbase entry
+- title: Packz raised $10.7M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Packz
+  parsed_amount: $10.7M
+  parsed_round: null
+  status: skipped
+  skip_reason: could not verify; no press coverage found for Packz $10.7M round
+- title: Refiant AI raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Refiant AI
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile refiant-ai.md
+- title: Flashpass raised $4.1M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Flashpass
+  parsed_amount: $4.1M
+  parsed_round: null
+  status: processed
+  notes: created startup profile flashpass.md
+- title: Sigma Automate raised $2.75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: ‘2026-04-12’
+  parsed_company: Sigma Automate
+  parsed_amount: $2.75M
+  parsed_round: null
+  status: processed
+  notes: created startup profile sigma-automate.md
+- title: "The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom\
+    \ Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big"
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/
   source: crunchbase
   date_found: '2026-04-10'
   parsed_company: null
   parsed_amount: $400M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted Life Biosciences $80M Series D (created life-biosciences.md); other
+    deals (SiFive, Hermeus, Sidewinder, Aria Networks, Starfish Space, Stipple Bio,
+    Modus, Endovascular Engineering, Chapter) already processed
 - title: Collide Capital raises $95M fund to back fintech, future-of-work startups
   url: https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/
   source: techcrunch
@@ -219,8 +313,8 @@ pending_rounds:
   parsed_company: said it
   parsed_amount: $80M
   parsed_round: Series D
-  status: skipped
-  skip_reason: parsing artifact from Axios scrape; company name not captured
+  status: processed
+  notes: identified as Life Biosciences $80M Series D; created life-biosciences.md
 - title: MillTech raised $60M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -807,45 +901,6 @@ pending_rounds:
   url: https://alleywatch.com/2026/03/the-weekly-notable-startup-funding-report-3-30-26/
   source: alleywatch
   date_found: '2026-03-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'The Week’s 10 Biggest Funding Rounds: A Varied Week For Big Deals, Led By
-    AI And Defense'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/
-  source: crunchbase
-  date_found: '2026-03-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'Austin’s Star Is Still Shining Bright: Venture Funding To City’s Startups
-    Hits All-Time High'
-  url: https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
-  source: crunchbase
-  date_found: '2026-03-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: Seed Funding Hasn't Stalled, But It's Skewing Larger And Is More Competitive
-    Than Ever, Crunchbase Data Shows
-  url: https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/
-  source: crunchbase
-  date_found: '2026-03-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'The AlleyWatch Startup Daily Funding Report: 3/26/2026'
-  url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-26-2026/
-  source: alleywatch
-  date_found: '2026-03-26'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
