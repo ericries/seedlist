@@ -782,6 +782,21 @@ python3 scripts/sl xref-report SLUG                  # Analysis report: co-inves
 
 **Agent prompts should reference these commands.** For example, after fixing a profile, agents should run `python3 scripts/sl publish {slug}` instead of manual git/build/push sequences. When a new repeated operation pattern emerges, add it to `scripts/sl`.
 
+## Session Startup Checklist
+
+**Every new Claude Code session MUST do these checks before any other work:**
+
+1. **Check cron jobs**: Run `CronList`. If fewer than 3 recurring jobs exist, recreate:
+   - Round monitoring (every 6h at :17): scrape RSS, process pending rounds, search Axios/TechCrunch, create profiles, rebuild, push
+   - Fact Specificity (every 4h at :43): pick 3 high-priority facts, check 3+ sources, fix all vague entries per firm, add citations, mark resolved, push
+   - Watchdog (daily at 8:03 AM): check if the above two crons exist, recreate if missing
+
+2. **Check feed freshness**: The most recent round in the feed should be from today or yesterday. If stale, immediately run a catch-up round monitoring sweep.
+
+3. **Check pending rounds**: Run `python3 scripts/sl pending-rounds`. If items are queued, process them.
+
+This takes ~30 seconds and ensures all automation is running.
+
 ## Autonomous Batch Execution
 
 When running research batches, follow this loop **without waiting for user input** between batches.
