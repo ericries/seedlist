@@ -1,4 +1,58 @@
 pending_rounds:
+- title: Rork raised $15M Seed
+  url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Rork
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile rork.md
+- title: Vivatides Therapeutics raised $54M Series A
+  url: https://www.prnewswire.com/news-releases/vivatides-therapeutics-announces-oversubscribed-54-million-series-a-financing-to-accelerate-extrahepatic-rna-therapeutics-development-302738127.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Vivatides Therapeutics
+  parsed_amount: $54M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile vivatides-therapeutics.md
+- title: Flora Fertility raised $5M Seed
+  url: https://www.prnewswire.com/news-releases/flora-fertility-closes-5m-usd-seed-round-to-accelerate-first-of-its-kind-fertility-insurance-platform-302738805.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Flora Fertility
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile flora-fertility.md
+- title: Sora Fuel raised $14.6M Seed
+  url: https://www.prnewswire.com/news-releases/sora-fuel-closes-14-6m-round-to-scale-air-to-jet-fuel-technology-302736598.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Sora Fuel
+  parsed_amount: $14.6M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile sora-fuel.md
+- title: Oricell Therapeutics raised $110M Pre-IPO
+  url: https://www.prnewswire.com/news-releases/oricell-therapeutics-closes-110-million-pre-ipo-financing-to-accelerate-global-development-of-solid-tumor-car-t-therapies-302738393.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Oricell Therapeutics
+  parsed_amount: $110M
+  parsed_round: Pre-IPO
+  status: skipped
+  skip_reason: China-based pre-IPO financing, not early-stage startup round
+- title: Atlas raised $6M Seed
+  url: https://www.prnewswire.com/news-releases/atlas-raises-6m-seed-led-by-accel-and-stellaris-to-power-the-next-global-accounting-firm-302737781.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Atlas
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: Singapore-based company; outside primary US focus
 - title: Stack Capital Group Inc. Closes Upsized Best Efforts Concurrent Private Placement
     for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
   url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
