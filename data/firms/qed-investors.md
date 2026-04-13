@@ -130,32 +130,32 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Credit Karma | Early | 2009 | Consumer Finance | Acquired (Intuit) | [^14] |
-| Klarna | Growth | 2012 | Lending/BNPL | IPO (NYSE, 2025) | [^15] |
-| Avant | Early | 2013 | Lending | Active | [^16] |
-| GreenSky | Early | 2013 | Lending | IPO (acquired by Goldman Sachs) | [^17] |
-| Flywire | Early | 2013 | Payments | IPO (2021) | [^18] |
-| Remitly | Series A | 2013 | Payments | IPO (2021) | [^19] |
-| SoFi | Early | 2014 | Consumer Finance | IPO (2021) | [^20] |
-| ClearScore | Early | 2014 | Consumer Finance | Active | [^21] |
-| Nubank | Early | 2015 | Consumer Finance | IPO (NYSE, 2021) | [^22] |
-| Creditas | Series A | 2015 | Lending | Active | [^23] |
-| Konfio | Early | 2015 | Lending | Active | [^24] |
-| AvidXchange | Series B | 2015 | Payments | IPO (2021) | [^25] |
-| Kin Insurance | Early | 2016 | Insurtech | Active (Unicorn) | [^26] |
-| QuintoAndar | Early | 2017 | Proptech | Active (Unicorn) | [^27] |
-| Current | Early | 2017 | Consumer Finance | Active | [^28] |
-| Caribou | Early | 2017 | Lending/Auto | Active | [^29] |
-| Mission Lane | Early | 2018 | Lending | Active | [^30] |
-| Ocrolus | Early | 2018 | Infrastructure | Active | [^31] |
-| Kavak | Early | 2019 | E-commerce/Auto | Active (Unicorn) | [^32] |
-| Bitso | Early | 2020 | Web3/Crypto | Active (Unicorn) | [^33] |
-| Wayflyer | Early | 2020 | Payments/Lending | Active | [^34] |
-| Betterfly | Series A | 2021 | Insurtech | Active (Unicorn) | [^35] |
-| Payhawk | Series A | 2021 | Payments | Active (Unicorn) | [^36] |
-| OneCard | Early | 2021 | Consumer Finance | Active (Unicorn) | [^37] |
-| Capchase | Early | 2021 | Lending | Active | [^38] |
-| Moniepoint | Early | 2022 | Payments | Active (Unicorn) | [^9] |
+| Credit Karma | Series A (Led) | 2009 | Consumer Finance | Acquired (Intuit) | [^14] |
+| Klarna | Growth Equity | 2012 | Lending/BNPL | IPO (NYSE, 2025) | [^15] |
+| Avant | Seed | 2013 | Lending | Active | [^16] |
+| GreenSky | Series A | 2013 | Lending | Acquired (Sixth Street/KKR) | [^17] |
+| Flywire | Series B | 2013 | Payments | IPO (2021) | [^18] |
+| Remitly | Series A (Led) | 2013 | Payments | IPO (2021) | [^19] |
+| SoFi | Series C | 2014 | Consumer Finance | IPO (2021) | [^20] |
+| ClearScore | Series D | 2021 | Consumer Finance | Active | [^21] |
+| Nubank | Series B | 2015 | Consumer Finance | IPO (NYSE, 2021) | [^22] |
+| Creditas | Series A | 2015 | Lending | Active (Unicorn) | [^23] |
+| Konfio | Series A | 2016 | Lending | Active (Unicorn) | [^24] |
+| AvidXchange | Series B (Led) | 2014 | Payments | IPO (2021) | [^25] |
+| Kin Insurance | Series A | 2018 | Insurtech | Active (Unicorn) | [^26] |
+| QuintoAndar | Series C | 2018 | Proptech | Active (Unicorn) | [^27] |
+| Current | Series A | 2017 | Consumer Finance | Active | [^28] |
+| Caribou | Incubation | 2016 | Lending/Auto | Active (Unicorn) | [^29] |
+| Mission Lane | Series A | 2019 | Lending | Active | [^30] |
+| Ocrolus | Series A | 2018 | Infrastructure | Active | [^31] |
+| Kavak | Series A | 2019 | E-commerce/Auto | Active (Unicorn) | [^32] |
+| Bitso | Series B (Co-led) | 2020 | Web3/Crypto | Active (Unicorn) | [^33] |
+| Wayflyer | Seed (Led) | 2020 | Payments/Lending | Active | [^34] |
+| Betterfly | Series A (Led) | 2020 | Insurtech | Active (Unicorn) | [^35] |
+| Payhawk | Series A (Led) | 2021 | Payments | Active (Unicorn) | [^36] |
+| OneCard | Series A | 2019 | Consumer Finance | Active (Unicorn) | [^37] |
+| Capchase | Series A (Led) | 2021 | Lending | Active | [^38] |
+| Moniepoint | Pre-Series C (Co-led) | 2022 | Payments | Active (Unicorn) | [^9] |
 
 This table represents 26 of QED's 250+ claimed investments (~10%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
 

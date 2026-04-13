@@ -81,17 +81,17 @@ Based on 21 verified venture/growth investments by PSP Growth and PSP Partners i
 | Ellevest | Growth round | 2019 | Fintech for women investors | [^20] |
 | Higharc | Series B | 2024 | Construction / homebuilding software | [^21] |
 | PassiveLogic | Series C | 2025 | Autonomous building management | [^22] |
-| QA Wolf | Undisclosed | ~2022 | Automated software testing | [^23] |
+| QA Wolf | Series A | 2022 | Automated software testing | [^23] |
 | Pronto Housing | Strategic | 2022 | Affordable housing software | [^24] |
-| Air Space Intelligence | Undisclosed | ~2022 | Aerospace & defense software | [^25] |
-| Nominal | Undisclosed | 2026 | Industrial data platform | [^26] |
-| VTS | Undisclosed | ~2020 | Commercial real estate tech | [^7] |
-| Guidewheel | Undisclosed | ~2022 | Factory operations / IoT | [^7] |
-| OfferFit | Undisclosed | ~2022 | AI marketing optimization | [^7] |
-| Ocient | Undisclosed | ~2018 | Hyperscale data analytics | [^9] |
-| Coinbase | Undisclosed (Exited — IPO) | ~2019 | Cryptocurrency exchange | [^7] |
-| Piazza | Undisclosed (Exited — acquired) | ~2018 | Collaborative learning platform | [^7] |
-| Beachfront | Acquired by PSP/GCP | 2017 | Mobile video advertising | [^9] |
+| Air Space Intelligence | Series A | 2021 | Aerospace & defense software | [^25] |
+| Nominal | Series B | 2025 | Industrial data platform | [^26] |
+| VTS | Series D | 2019 | Commercial real estate tech | [^7] |
+| Guidewheel | Series A-1 | 2022 | Factory operations / IoT | [^7] |
+| OfferFit | Series A | 2021 | AI marketing optimization | [^7] |
+| Ocient | Series A | 2018 | Hyperscale data analytics | [^9] |
+| Coinbase | Growth (Exited — IPO) | 2019 | Cryptocurrency exchange | [^7] |
+| Piazza | Series B (Exited — acquired) | 2014 | Collaborative learning platform | [^7] |
+| Beachfront | Acquisition | 2017 | Mobile video advertising | [^9] |
 
 This table represents PSP Growth's verified technology investments. PSP Partners also holds significant positions in buyout-stage companies through PSP Capital (including DEPT, Ntiva, E.B. Bradley, StormTrap) and real estate through Pritzker Realty Group, as well as legacy Pritzker family investments (Hyatt Hotels, Albertsons) [^7].
 

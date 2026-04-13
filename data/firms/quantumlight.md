@@ -98,30 +98,30 @@ Note: Some companies span multiple sectors; percentages reflect primary classifi
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Aspora | — | ~2023 | — | [^2] |
-| Ben | — | ~2024 | SaaS/HR | [^2][^7] |
-| Berry Street | — | ~2023 | Real Estate | [^2] |
-| Blockaid | — | ~2023 | Web3 Security | [^2] |
-| Builder.io | — | ~2023 | Developer Tools | [^2] |
-| Campfire | — | ~2023 | SaaS | [^2] |
-| Deepscribe | — | ~2023 | Healthcare AI | [^2] |
-| DynamoAI | — | ~2023 | AI | [^2] |
-| FactoryAI | — | ~2024 | AI | [^2] |
-| Function Health | — | ~2024 | Healthtech | [^2][^7] |
-| Fuse Energy | Series B | 2025 | Energy | [^7] |
-| Ghost | — | ~2023 | — | [^2] |
-| HockeyStack | — | ~2024 | SaaS/Analytics | [^2] |
-| Lovable | — | ~2024 | AI | [^2][^7] |
-| MarqVision | — | ~2024 | AI/IP Protection | [^2][^3] |
-| Mesh | — | ~2023 | Crypto/Fintech | [^2] |
-| Midas | Series B | ~2024 | Fintech | [^7] |
-| Monta | — | ~2023 | Climate Tech | [^2] |
-| NG.Cash | — | ~2023 | Fintech | [^2] |
-| RadAI | — | 2024 | Healthcare AI | [^1][^2] |
-| Robin | — | ~2023 | — | [^2] |
-| Sipay | — | ~2023 | Fintech/Payments | [^2] |
-| TogetherAI | — | ~2024 | AI Infrastructure | [^2][^7] |
-| Vibe | — | ~2023 | — | [^2] |
+| Aspora | Series B | 2025 | Fintech/Remittance | [^2] |
+| Ben | Series B | 2024 | SaaS/HR | [^2][^7] |
+| Berry Street | Series A | 2024 | Healthcare/Nutrition | [^2] |
+| Blockaid | Series A | 2023 | Web3 Security | [^2] |
+| Builder.io | Series B | 2024 | Developer Tools | [^2] |
+| Campfire | Seed | 2024 | SaaS/ERP | [^2] |
+| Deepscribe | Series B | 2023 | Healthcare AI | [^2] |
+| DynamoAI | Series A | 2025 | AI Safety/Guardrails | [^2] |
+| FactoryAI | Series A | 2024 | AI/Developer Tools | [^2] |
+| Function Health | Series B | 2025 | Healthtech | [^2][^7] |
+| Fuse Energy | Series B | 2025 | Clean Energy | [^7] |
+| Ghost | Growth | 2023 | Autonomous Driving | [^2] |
+| HockeyStack | Seed | 2024 | SaaS/Analytics | [^2] |
+| Lovable | Seed | 2024 | AI/Developer Tools | [^2][^7] |
+| MarqVision | Series A+ | 2024 | AI/IP Protection | [^2][^3] |
+| Mesh | Series A | 2023 | Crypto/Fintech | [^2] |
+| Midas | Series B | 2025 | Fintech/Investing | [^7] |
+| Monta | Series B | 2024 | Climate Tech/EV | [^2] |
+| NG.Cash | Series B | 2025 | Fintech/Neobank | [^2] |
+| RadAI | Series B | 2024 | Healthcare AI | [^1][^2] |
+| Robin | Series B | 2024 | AI/Legal Tech | [^2] |
+| Sipay | Series B | 2025 | Fintech/Payments | [^2] |
+| TogetherAI | Series B | 2025 | AI Infrastructure | [^2][^7] |
+| Vibe | Series A | 2024 | AdTech/Streaming | [^2] |
 
 Note: This table represents approximately 24 of 25 known QuantumLight investments. Investment years are approximate based on available data; the firm made its first investment in July 2023 [^1]. Specific round details are limited for most investments.
 
