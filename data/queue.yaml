@@ -9466,3 +9466,43 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: tomer-berkovitz
+- name: Blue Heron Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remission-medical
+- name: Washington Harbour Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: citra-space
+- name: Blake Wehman
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Remission Medical
+  discovered_from: remission-medical
+- name: Tom Benedetti
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blue Heron Capital
+  discovered_from: remission-medical
+- name: Shailendra Singh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Peak XV Partners
+  discovered_from: luminai
+- name: Kesava Kirupa Dinakaran
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Luminai
+  discovered_from: luminai

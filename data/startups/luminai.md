@@ -63,11 +63,11 @@ Luminai is a San Francisco-based enterprise AI automation platform for healthcar
 
 ## What Investors Say
 
-No verified investor quotes available at this time.
+"Luminai is building the intelligent orchestration layer that will define how healthcare operations function in the future." -- Shailendra Singh, Managing Partner at Peak XV Partners [^1]
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+"Recent advances in AI have made it possible to handle complexity directly -- not just automate isolated tasks, but execute full workflows reliably." -- Kesava Kirupa Dinakaran, Founder and CEO, Luminai [^1]
 
 ## Sources
 
