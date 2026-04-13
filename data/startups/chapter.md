@@ -1,50 +1,54 @@
 ---
-name: Chapter
-slug: chapter
-type: startup
-website: "https://www.chapter.com"
-location: New York, New York
+firms:
+- round: series-e
+  slug: generation-investment-management
+  year: 2026
+- round: series-e
+  slug: 8vc
+  year: 2026
+- round: series-e
+  slug: xyz-venture-capital
+  year: 2026
+- round: series-e
+  slug: maverick-ventures
+  year: 2026
+- round: series-e
+  slug: stripes
+  year: 2026
+- round: series-e
+  slug: addition
+  year: 2026
+- round: series-e
+  slug: narya-capital
+  year: 2026
+- round: series-e
+  slug: susa-ventures
+  year: 2026
+- round: series-e
+  slug: fifth-down-capital
+  year: 2026
 founded: 2020
-status_company: active
+founders:
+- name: Cobi Blumenfeld-Gantz
+  role: CEO & Co-Founder
+investors:
+- round: '2020'
+  slug: ambar-bhattacharyya
+  year: 2020
+last_researched: 2026-04-12
+location: New York, New York
+name: Chapter
 sector:
 - healthtech
 - insurtech
 - AI
+slug: chapter
 stage_latest: Series E
-total_raised: $100M+
-firms:
-- slug: generation-investment-management
-  round: series-e
-  year: 2026
-- slug: 8vc
-  round: series-e
-  year: 2026
-- slug: xyz-venture-capital
-  round: series-e
-  year: 2026
-- slug: maverick-ventures
-  round: series-e
-  year: 2026
-- slug: stripes
-  round: series-e
-  year: 2026
-- slug: addition
-  round: series-e
-  year: 2026
-- slug: narya-capital
-  round: series-e
-  year: 2026
-- slug: susa-ventures
-  round: series-e
-  year: 2026
-- slug: fifth-down-capital
-  round: series-e
-  year: 2026
-founders:
-- name: Cobi Blumenfeld-Gantz
-  role: CEO & Co-Founder
 status: published
-last_researched: 2026-04-12
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://www.chapter.com
 ---
 
 ## About

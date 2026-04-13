@@ -1,32 +1,39 @@
 ---
-name: Juno
-slug: juno-tax
-type: startup
-website: "https://www.junotax.ai"
-location: San Francisco, California
+firms:
+- round: seed
+  slug: bonfire-ventures
+  year: 2026
+- round: seed
+  slug: impression-ventures
+  year: 2026
+- round: seed
+  slug: xfund
+  year: 2026
+- round: Co-founder / Series A
+  slug: arch-venture-partners
+  year: 2013
 founded: 2023
-status_company: active
+founders:
+- name: Dave Haase
+  role: Founder & CEO
+investors:
+- round: Co-founder / Series A
+  slug: bob-nelsen
+  year: 2013
+last_researched: 2026-04-09
+location: San Francisco, California
+name: Juno
 sector:
 - fintech
 - AI
 - tax-automation
+slug: juno-tax
 stage_latest: Seed
-total_raised: $12M
-firms:
-- slug: bonfire-ventures
-  round: seed
-  year: 2026
-- slug: impression-ventures
-  round: seed
-  year: 2026
-- slug: xfund
-  round: seed
-  year: 2026
-founders:
-- name: Dave Haase
-  role: Founder & CEO
 status: published
-last_researched: 2026-04-09
+status_company: active
+total_raised: $12M
+type: startup
+website: https://www.junotax.ai
 ---
 
 ## About

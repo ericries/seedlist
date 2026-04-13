@@ -1,29 +1,35 @@
 ---
-name: Kestra
-slug: kestra
-type: startup
-website: "https://kestra.io"
-location: Paris, France
-founded: 2022
-status_company: active
-sector:
-- data-infrastructure
-- ai
-- developer-tools
-stage_latest: Series A
-total_raised: $36M
 firms:
-- slug: rtp-ventures
-  round: series-a
+- round: series-a
+  slug: rtp-ventures
   year: 2026
-investors: []
+- round: '2024'
+  slug: datadog
+  year: 2024
+founded: 2022
 founders:
 - name: Emmanuel Darras
   role: CEO & Co-Founder
 - name: Ludovic Dehon
   role: CTO & Co-Founder
-status: published
+investors:
+- round: '2024'
+  slug: olivier-pomel
+  year: 2024
 last_researched: 2026-04-06
+location: Paris, France
+name: Kestra
+sector:
+- data-infrastructure
+- ai
+- developer-tools
+slug: kestra
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $36M
+type: startup
+website: https://kestra.io
 ---
 
 ## About

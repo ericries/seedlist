@@ -1,29 +1,33 @@
 ---
-name: Hermeus
-slug: hermeus
-type: startup
-website: "https://www.hermeus.com"
-location: Los Angeles, California
+firms:
+- round: series-c
+  slug: khosla-ventures
+  year: 2026
+- round: series-c
+  slug: founders-fund
+  year: 2026
 founded: 2018
-status_company: active
+founders:
+- name: AJ Piplica
+  role: Co-Founder & CEO
+investors:
+- round: Early
+  slug: vinod-khosla
+  year: 2018
+last_researched: 2026-04-07
+location: Los Angeles, California
+name: Hermeus
 sector:
 - aerospace
 - defense
 - hypersonics
+slug: hermeus
 stage_latest: Series C
-total_raised: $350M
-firms:
-- slug: khosla-ventures
-  round: series-c
-  year: 2026
-- slug: founders-fund
-  round: series-c
-  year: 2026
-founders:
-- name: AJ Piplica
-  role: Co-Founder & CEO
 status: published
-last_researched: 2026-04-07
+status_company: active
+total_raised: $350M
+type: startup
+website: https://www.hermeus.com
 ---
 
 ## About

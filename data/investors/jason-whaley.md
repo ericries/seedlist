@@ -1,27 +1,35 @@
 ---
-name: "Jason Whaley"
-slug: jason-whaley
-type: individual
+check_size: $500K-$2M
 firm: rhapsody-venture-partners
-role: "Co-Founder & General Partner"
-location: "Cambridge, MA"
-stage_focus:
-  - seed
-  - pre-seed
-sector_focus:
-  - deep-tech
-  - climate
-  - food-tech
-  - semiconductors
-  - robotics
-  - hardware
-  - ag-tech
-check_size: "$500K-$2M"
-social:
-  linkedin: "linkedin.com/in/jasonmwhaley"
-status: published
 last_researched: 2026-04-06
-tldr: "Co-founder of Rhapsody Venture Partners, a Cambridge-based seed fund exclusively backing hard-tech startups born from university research. Former CEO of Manus Biosynthesis. Leads $500K-$2M first checks into industrial science — semiconductors, food tech, materials, clean energy — with 27 investments including Apeel (unicorn exit) and Wavelogix."
+last_verified_investment:
+  company: VioNano
+  date: ~2024
+  round: Seed
+location: Cambridge, MA
+name: Jason Whaley
+role: Co-Founder & General Partner
+sector_focus:
+- deep-tech
+- climate
+- food-tech
+- semiconductors
+- robotics
+- hardware
+- ag-tech
+slug: jason-whaley
+social:
+  linkedin: linkedin.com/in/jasonmwhaley
+stage_focus:
+- seed
+- pre-seed
+status: published
+tldr: Co-founder of Rhapsody Venture Partners, a Cambridge-based seed fund exclusively
+  backing hard-tech startups born from university research. Former CEO of Manus Biosynthesis.
+  Leads $500K-$2M first checks into industrial science — semiconductors, food tech,
+  materials, clean energy — with 27 investments including Apeel (unicorn exit) and
+  Wavelogix.
+type: individual
 ---
 
 ## Background

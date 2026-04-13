@@ -1,26 +1,39 @@
 ---
-name: Starfish Space
-slug: starfish-space
-type: startup
-website: "https://www.starfishspace.com"
-location: Seattle, Washington
+firms:
+- round: series-b
+  slug: point72-ventures
+  year: 2026
+- round: '2021'
+  slug: nfx
+  year: 2021
+- round: Seed
+  slug: mac-venture-capital
+  year: 2021
 founded: null
-status_company: active
+founders:
+- name: Austin Link
+  role: Co-Founder & CEO
+investors:
+- round: '2021'
+  slug: morgan-beller
+  year: 2021
+- round: Seed
+  slug: adrian-fenty
+  year: 2021
+last_researched: 2026-04-07
+location: Seattle, Washington
+name: Starfish Space
 sector:
 - space
 - satellite-servicing
 - aerospace
+slug: starfish-space
 stage_latest: Series B
-total_raised: $129M+
-firms:
-- slug: point72-ventures
-  round: series-b
-  year: 2026
-founders:
-- name: Austin Link
-  role: Co-Founder & CEO
 status: published
-last_researched: 2026-04-07
+status_company: active
+total_raised: $129M+
+type: startup
+website: https://www.starfishspace.com
 ---
 
 ## About

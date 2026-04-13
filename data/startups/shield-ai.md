@@ -54,6 +54,9 @@ investors:
 - round: ~2022
   slug: katherine-boyle
   year: 2022
+- round: Series E
+  slug: peter-tague
+  year: 2022
 last_researched: 2026-03-27
 location: San Diego, CA
 name: Shield AI

@@ -8428,14 +8428,14 @@ queue:
 - name: Peter Tague
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: US Innovative Technology Fund
   discovered_from: us-innovative-technology-fund
 - name: Gaetano Crupi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: US Innovative Technology Fund
   discovered_from: us-innovative-technology-fund
@@ -9406,3 +9406,16 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: matt-clifford
+- name: Prime Movers Lab
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaetano-crupi
+  source: Former employer of Gaetano Crupi, deep-tech VC firm
+- name: Primer
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peter-tague

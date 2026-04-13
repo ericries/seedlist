@@ -1,48 +1,54 @@
 ---
-name: Luminai
-slug: luminai
-type: startup
-website: "https://www.luminai.com"
-location: San Francisco, California
+firms:
+- round: series-b
+  slug: peak-xv-partners
+  year: 2026
+- round: series-b
+  slug: general-catalyst
+  year: 2026
+- round: series-b
+  slug: define-ventures
+  year: 2026
+- round: series-b
+  slug: craft-ventures
+  year: 2026
+- round: series-b
+  slug: moxxie-ventures
+  year: 2026
+- round: series-b
+  slug: underscore-vc
+  year: 2026
+- round: series-b
+  slug: unshackled-ventures
+  year: 2026
+- round: '2022'
+  slug: ramp
+  year: 2022
 founded: 2022
-status_company: active
+founders:
+- name: Kesava Kirupa Dinakaran
+  role: CEO
+investors:
+- round: series-b
+  slug: y-combinator
+  year: 2026
+- round: '2022'
+  slug: eric-glyman
+  year: 2022
+last_researched: 2026-04-12
+location: San Francisco, California
+name: Luminai
 sector:
 - healthtech
 - AI
 - enterprise
+slug: luminai
 stage_latest: Series B
-total_raised: $60M
-firms:
-- slug: peak-xv-partners
-  round: series-b
-  year: 2026
-- slug: general-catalyst
-  round: series-b
-  year: 2026
-- slug: define-ventures
-  round: series-b
-  year: 2026
-- slug: craft-ventures
-  round: series-b
-  year: 2026
-- slug: moxxie-ventures
-  round: series-b
-  year: 2026
-- slug: underscore-vc
-  round: series-b
-  year: 2026
-- slug: unshackled-ventures
-  round: series-b
-  year: 2026
-investors:
-- slug: y-combinator
-  round: series-b
-  year: 2026
-founders:
-- name: Kesava Kirupa Dinakaran
-  role: CEO
 status: published
-last_researched: 2026-04-12
+status_company: active
+total_raised: $60M
+type: startup
+website: https://www.luminai.com
 ---
 
 ## About
