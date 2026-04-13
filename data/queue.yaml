@@ -8506,7 +8506,7 @@ queue:
 - name: Shayon Sengupta
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Multicoin Capital
   discovered_from: multicoin-capital
@@ -8649,7 +8649,7 @@ queue:
 - name: Tomer Berkovitz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: aMoon
   discovered_from: amoon
@@ -9419,3 +9419,50 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: peter-tague
+- name: Vishal Kankani
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Multicoin Capital
+  discovered_from: shayon-sengupta
+- name: Matt Shapiro
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Multicoin Capital
+  discovered_from: shayon-sengupta
+- name: Todd Sone
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: aMoon
+  discovered_from: tomer-berkovitz
+- name: Moshic Mor
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: aMoon
+  discovered_from: tomer-berkovitz
+- name: Yaron Daniely
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: aMoon
+  discovered_from: tomer-berkovitz
+- name: PrognomIQ
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomer-berkovitz
+- name: Positive Development
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomer-berkovitz
