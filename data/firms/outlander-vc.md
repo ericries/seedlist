@@ -93,35 +93,35 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Wish | Seed | 2010 | E-commerce | [^4] |
-| Twitter | Seed | 2010 | Social media | [^4] |
-| AngelList | Seed | 2011 | Fintech/investment platform | [^4] |
-| Postmates | Seed | 2011 | Delivery/logistics | [^4] |
-| Lyft | Seed | 2012 | Rideshare | [^4] |
-| Gusto | Seed | 2012 | HR/payroll | [^4] |
-| SpaceX | Early | ~2012 | Aerospace | [^1] |
-| Stripe | Early | ~2012 | Payments | [^1] |
-| Klarna | Early | ~2014 | Fintech | [^1] |
+| Wish | Angel | 2010 | E-commerce | [^4][^17] |
+| Twitter | Angel | 2010 | Social media | [^4][^17] |
+| AngelList | Angel | 2011 | Fintech/investment platform | [^4][^17] |
+| Postmates | Angel | 2011 | Delivery/logistics | [^4][^17] |
+| Gusto | Angel | 2012 | HR/payroll | [^4][^17] |
+| Lyft | Angel | 2012 | Rideshare | [^4][^17] |
+| SpaceX | Angel | ~2012 | Aerospace | [^1] |
+| Stripe | Angel | ~2012 | Payments | [^1] |
+| Klarna | Angel | ~2014 | Fintech | [^1] |
 | Scale AI | Pre-seed | ~2016 | AI/ML data labeling | [^3] |
-| Bird | Seed | 2018 | Micromobility | [^4] |
-| ID.me | Seed | ~2018 | Identity verification | [^1] |
-| Opendoor | Early | ~2018 | Real estate | [^1] |
-| Surf Air | Seed | ~2018 | Aviation | [^1] |
-| ClassPass | Seed | ~2018 | Fitness marketplace | [^1] |
-| Clover Health | Seed | ~2019 | Healthcare | [^1] |
-| Andela | Seed | ~2019 | Talent/engineering | [^1] |
+| Bird | Angel | 2018 | Micromobility | [^4] |
+| ID.me | Angel | ~2015 | Identity verification | [^1] |
+| Opendoor | Angel | ~2014 | Real estate | [^1] |
+| Surf Air | Angel | ~2013 | Aviation | [^1] |
+| ClassPass | Angel | ~2014 | Fitness marketplace | [^1][^18] |
+| Clover Health | Angel | ~2015 | Healthcare | [^1] |
+| Andela | Angel | ~2015 | Talent/engineering | [^1] |
 | Imbue | Seed | ~2020 | AI/intelligence | [^1] |
 | Candid Co. | Seed | ~2020 | Direct-to-consumer health | [^10] |
 | Medely | Seed | ~2020 | Healthcare staffing | [^10] |
 | Betterview | Seed | ~2020 | Insurtech/proptech | [^10] |
 | Headout | Seed | ~2020 | Travel marketplace | [^10] |
 | Saltbox | Seed | ~2021 | E-commerce logistics | [^10] |
-| Lula Commerce | Seed | ~2023 | SaaS marketplace | [^11] |
 | Kindly Care | Seed | ~2021 | Home healthcare | [^10] |
 | ProducePay | Seed | ~2021 | Agtech/fintech | [^10] |
-| Crow Industries | Seed | ~2023 | Autonomous mining/robotics | [^11] |
+| Lula Commerce | Seed | 2022 | SaaS marketplace | [^11][^19] |
+| Crow Industries | Pre-seed | 2023 | Autonomous mining/robotics | [^11] |
 | HavocAI | Seed | ~2023 | Maritime autonomy/defense | [^11] |
-| Skyways | Seed | ~2023 | Autonomous cargo drones | [^11][^12] |
+| Skyways | Seed | ~2022 | Autonomous cargo drones | [^11][^12] |
 | Tryby AI | Seed | ~2024 | Voice AI agents | [^11] |
 | DiffuseDrive | Seed | 2025 | Generative AI for robotics | [^13] |
 | Catalyx Space | Seed | 2025 | Orbital logistics/space | [^14] |
@@ -129,7 +129,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Material Hybrid Manufacturing | Seed | 2026 | 3D-printed batteries/energy | [^16] |
 | Flock AI (follow-on) | Seed | 2026 | AI visual commerce/fashion | [^15] |
 
-Note: Many early investments (pre-2020) were made through Paige Craig's personal angel portfolio and Arena Ventures (Fund I Archimedes), which preceded the formal Outlander VC entity. Years marked with "~" are approximate, based on founding year or estimated investment timing; the portfolio page does not provide exact investment dates for most companies [^1][^10]. This table represents a subset of the firm's 150+ claimed investments; many portfolio companies could not be independently verified with dates and stages.
+Note: Investments dated 2010-2018 were made through Paige Craig's personal angel portfolio and Arena Ventures (Fund I Archimedes), which preceded the formal Outlander VC entity. Dates for the angel-era investments (2010-2015) are verified via Signal NFX investor profile [^17], which records specific start months for Wish (Oct 2010), Twitter (Sep 2010), AngelList (Jan 2011), Postmates (Nov 2011), Gusto (Apr 2012), and Lyft (Oct 2012). Remaining "~" dates for angel-era investments are approximate based on company founding years; Craig's angel investing period ran from 2008 to 2015 [^4]. This table represents a subset of the firm's 150+ claimed investments.
 
 ## In Their Own Words
 
@@ -181,3 +181,6 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^14]: SpaceDaily, "Catalyx Space expands orbital logistics after securing 5.4 million dollar seed funding," October 27, 2025. https://www.spacedaily.com/reports/Catalyx_Space_expands_orbital_logistics_after_securing_5_4_million_dollar_seed_funding_999.html
 [^15]: FinSMEs, "Flock AI Raises $6M in Seed Funding," February 2026. https://www.finsmes.com/2026/02/flock-ai-raises-6m-in-seed-funding.html
 [^16]: BusinessWire, "MATERIAL Unleashes Formless Energy, Defying the Laws of Industrial Gravity," January 12, 2026. https://www.businesswire.com/news/home/20260112647458/en/MATERIAL-Unleashes-Formless-Energy-Defying-the-Laws-of-Industrial-Gravity
+[^17]: Signal by NFX, "Paige Craig's Investing Profile," accessed April 2026. https://signal.nfx.com/investors/paige-craig
+[^18]: Outlander VC, "Fitmob and ClassPass Team Up to Revolutionize Fitness," accessed April 2026. https://outlander.vc/fieldguide/fitmob-and-classpass-team-up-to-revolutionize-fitness/
+[^19]: Retail Technology Innovation Hub, "Lula Commerce: six retail technology funding rounds you need to know about," October 2025, accessed April 2026. https://retailtechinnovationhub.com/home/2025/10/29/including-lula-commerce-and-yaga-six-retail-technology-funding-rounds-you-need-to-know-about

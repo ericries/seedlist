@@ -113,7 +113,7 @@ Based on 17 verified portfolio investments, the following patterns emerge. Note:
 - Climate / Deep Tech: 2 of 17 (12%) — Aurora Solar, WindBorne
 - Other: 2 of 17 (12%) — Branch, Listen Labs
 
-**Stage:** Predominantly pre-seed and seed. The firm invests at idea stage through PearX and leads seed rounds.
+**Stage:** Predominantly pre-seed and seed. The firm invests at idea stage through PearX and leads seed rounds. Notable exceptions include SoundHound (Series A, 2006 — a Pejman Nozad angel-era investment) and Guardant Health (Series B, 2014).
 
 **Notable patterns:**
 - Significantly broader sector coverage than most seed funds; not concentrated in any single vertical
@@ -129,25 +129,25 @@ Based on 17 verified portfolio investments, the following patterns emerge. Note:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| DoorDash | Seed | 2013 | Food delivery | IPO (NASDAQ: DASH) | [^2][^5] |
-| Guardant Health | Seed | ~2013 | Healthcare / Biotech | IPO (NASDAQ: GH) | [^2][^5] |
-| Gusto | Seed | ~2014 | HR / Payroll | Active (unicorn) | [^3][^4] |
-| Branch | Seed | ~2015 | Mobile | Active (unicorn) | [^3][^4] |
-| Aurora Solar | Seed | ~2016 | Climate tech | Active | [^2][^5] |
-| AppLovin | Seed | ~2016 | Mobile / Ad tech | IPO | [^4] |
-| SoundHound | Seed | ~2016 | AI / Voice | IPO | [^4] |
-| Senti Bio | Seed | ~2017 | Biotech | IPO (NASDAQ: SNTI) | [^5] |
-| Affinity | Seed | ~2017 | Enterprise SaaS | Active | [^3][^4] |
-| Vanta | Seed | ~2018 | Security / Compliance | Active (unicorn) | [^3][^4] |
-| Viz.ai | Seed | ~2018 | Healthcare AI | Active | [^3] |
-| Federato | Seed | ~2019 | InsurTech | Active | [^3] |
-| Cardless | Seed | ~2020 | Fintech | Active | [^3] |
-| WindBorne | Seed | ~2020 | Climate / Weather | Active | [^3] |
-| Dealops | Seed | ~2021 | Enterprise SaaS | Active | [^3] |
-| Listen Labs | Seed | ~2021 | Consumer | Active | [^3] |
-| Counsel Health | Seed | ~2022 | Healthcare | Active | [^3] |
+| Gusto (ZenPayroll) | Seed | 2012 | HR / Payroll | Active (unicorn) | [^10] |
+| AppLovin | Seed | 2012 | Mobile / Ad tech | IPO | [^11] |
+| DoorDash | Seed | 2013 | Food delivery | IPO (NASDAQ: DASH) | [^12] |
+| Aurora Solar | Seed | 2014 | Climate tech | Active | [^13] |
+| Branch | Seed | 2014 | Mobile | Active (unicorn) | [^14] |
+| Guardant Health | Series B | 2014 | Healthcare / Biotech | IPO (NASDAQ: GH) | [^15] |
+| SoundHound | Early | 2006 | AI / Voice | IPO | [^16] |
+| Senti Bio | Seed | 2016 | Biotech | IPO (NASDAQ: SNTI) | [^17] |
+| Affinity | Pre-seed | 2016 | Enterprise SaaS | Active | [^18] |
+| Viz.ai | Seed | 2016 | Healthcare AI | Active | [^19] |
+| Vanta | Seed | 2018 | Security / Compliance | Active (unicorn) | [^20] |
+| Cardless | Seed | 2019 | Fintech | Active | [^21] |
+| WindBorne | Pre-seed | 2019 | Climate / Weather | Active | [^22] |
+| Federato | Seed | 2020 | InsurTech | Active | [^23] |
+| Listen Labs | Seed | ~2022 | Consumer | Active | [^3] |
+| Counsel Health | Seed | 2024 | Healthcare | Active | [^24] |
+| Dealops | Seed | 2025 | Enterprise SaaS | Active | [^25] |
 
-Note: Years marked with "~" are approximate based on company founding dates and fund timing. This table represents approximately 7% of 260+ claimed investments.
+Note: This table represents approximately 7% of 260+ claimed investments. All dates have been verified against Crunchbase funding round records and primary announcement sources, except Listen Labs (~2022) which remains approximate.
 
 ## In Their Own Words
 
@@ -176,3 +176,19 @@ William Ross, CEO of Federato, has stated: "The extended Pear team has always be
 [^7]: Affinity blog, "From rugs to riches: The story of Silicon Valley's most unlikely VC," accessed March 2026. https://www.affinity.co/blog/pejman-nozad-shares-lessons
 [^8]: TechCrunch, "Pear wants to empower up-and-coming VCs with its new emerging managers in residence program," September 25, 2024. https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/
 [^9]: Pear VC website, "How We Invest," accessed March 2026. https://pear.vc/how-we-invest/
+[^10]: TechCrunch, "ZenPayroll Launches Cloud-Based Payroll Service With $6.1M In Seed Funding," December 11, 2012, accessed April 2026. https://techcrunch.com/2012/12/11/zenpayroll-launches-cloud-based-payroll-service-with-6-1m-in-seed-funding-from-the-ceos-at-yammer-box-yelp-and-dropbox/
+[^11]: Crunchbase, "AppLovin Seed Round," 2012, accessed April 2026. https://www.crunchbase.com/funding_round/applovin-seed--a14c4a6c
+[^12]: TechCrunch, "DoorDash Raises $2.4M To Improve Food Delivery," September 30, 2013, accessed April 2026. https://techcrunch.com/2013/09/30/door-dash-raises-2-4m/
+[^13]: Pear VC, "Aurora," accessed April 2026. https://pear.vc/companies/aurora/
+[^14]: Crunchbase, "Branch Seed Round," June 2014, accessed April 2026. https://www.crunchbase.com/funding_round/branch-metrics-seed--3d3d6f3b
+[^15]: Crunchbase, "Guardant Health Company Financials," accessed April 2026. https://www.crunchbase.com/organization/guardant-health/company_financials
+[^16]: Crunchbase, "SoundHound Series A," May 31, 2006, accessed April 2026. https://www.crunchbase.com/funding_round/soundhound-series-a--3357d296
+[^17]: Crunchbase, "Senti Biosciences Seed Round," September 22, 2016, accessed April 2026. https://www.crunchbase.com/funding_round/senti-biosciences-seed--18fa853c
+[^18]: Crunchbase, "Affinity Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/affinity-inc
+[^19]: Crunchbase, "Viz.ai Seed Round," 2016, accessed April 2026. https://www.crunchbase.com/funding_round/viz-seed--82c7962a
+[^20]: Crunchbase, "Vanta Seed Round," April 2018, accessed April 2026. https://www.crunchbase.com/funding_round/vanta-seed--88901289
+[^21]: Crunchbase, "Cardless Funding Rounds," accessed April 2026. https://wellfound.com/company/cardlesshq/funding
+[^22]: Pear VC, "WindBorne closed a $6 million round," accessed April 2026. https://pear.vc/windborne-closed-a-6-million-round-to-improve-forecasts-and-mitigate-the-climate-crisis-with-smart-weather-balloons/
+[^23]: Pear VC, "Federato raised $25 million in Series B funding," accessed April 2026. https://pear.vc/federato-raised-25-million-in-series-b-funding-to-accelerate-their-work-running-the-worlds-first-riskops-platform-for-property-and-casualty-insurance/
+[^24]: PR Newswire, "Counsel Health Launches with $11M in Seed Funding," October 2024, accessed April 2026. https://www.prnewswire.com/news-releases/counsel-health-launches-with-11m-in-seed-funding-to-deliver-physician-led-ai-powered-medical-advice-302280740.html
+[^25]: Axios, "Exclusive: Dealops raises $7M for dynamic pricing tech," August 12, 2025, accessed April 2026. https://www.axios.com/pro/fintech-deals/2025/08/12/dealops-7m-dynamic-pricing-tech

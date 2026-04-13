@@ -79,31 +79,31 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Coinbase | Growth | 2018 | Crypto Exchange | [^1] |
-| Uniswap | Seed | ~2020 | DeFi | [^1] |
-| Optimism | Early | ~2020 | L2 Infrastructure | [^1] |
-| Flashbots | Early | ~2020 | MEV Infrastructure | [^1] |
-| Compound | Early | ~2019 | DeFi | [^1] |
-| dYdX | Early | ~2019 | DeFi Exchange | [^1] |
-| Fireblocks | Growth | ~2021 | Crypto Custody | [^1] |
-| FTX | Growth | 2021 | Crypto Exchange (collapsed) | [^6] |
+| Starkware | Series A | 2018 | ZK Infrastructure | [^8] |
+| Compound | Series A | 2019 | DeFi | [^9] |
+| Maker (MKR) | Token | 2019 | DeFi | [^10] |
+| Uniswap | Seed | 2019 | DeFi | [^11] |
+| Fireblocks | Series B | 2020 | Crypto Custody | [^12] |
+| Flashbots | Seed | 2020 | MEV Infrastructure | [^13] |
+| dYdX | Series C | 2021 | DeFi Exchange | [^14] |
+| FTX | Series B | 2021 | Crypto Exchange (collapsed) | [^6] |
+| Lido | Venture | 2021 | Staking Infrastructure | [^15] |
+| Sky Mavis | Series B | 2021 | Crypto Gaming | [^16] |
+| Aztec | Series A | 2021 | Privacy/ZK | [^17] |
+| Citadel Securities | Growth | 2022 | Market Making | [^18] |
+| Magic Eden | Series A | 2022 | NFT Marketplace | [^19] |
+| OpenSea | Series C | 2022 | NFT Marketplace | [^20] |
+| Optimism | Series B | 2022 | L2 Infrastructure | [^21] |
+| Phantom | Series B | 2022 | Crypto Wallet | [^22] |
+| Blur | Seed | 2022 | NFT Marketplace | [^23] |
 | Monad | Series A | 2024 | L1 Blockchain | [^7] |
-| Sky Mavis | Early | ~2021 | Crypto Gaming | [^1] |
-| OpenSea | Growth | ~2021 | NFT Marketplace | [^1] |
-| Magic Eden | Early | ~2022 | NFT Marketplace | [^1] |
-| Phantom | Early | ~2021 | Crypto Wallet | [^1] |
-| Blur | Seed | ~2022 | NFT Marketplace | [^1] |
-| Starkware | Growth | ~2021 | ZK Infrastructure | [^1] |
-| Lido | Early | ~2021 | Staking Infrastructure | [^1] |
-| Farcaster | Seed | ~2022 | Social/Crypto | [^1] |
-| Citadel Securities | Growth | ~2022 | Market Making | [^1] |
-| Kalshi | Growth | 2026 | Prediction Markets | [^3] |
-| Nous Research | Seed | ~2024 | AI/Open Source | [^1] |
-| Andromeda | Early | ~2024 | AI Compute | [^1] |
-| Tempo | Early | ~2025 | Blockchain Payments | [^1] |
-| Maker (MKR) | Token | ~2019 | DeFi | [^1] |
-| Aztec | Early | ~2022 | Privacy/ZK | [^1] |
+| Farcaster | Series A | 2024 | Social/Crypto | [^24] |
+| Nous Research | Series A | 2025 | AI/Open Source | [^25] |
+| Tempo | Incubation | 2025 | Blockchain Payments | [^26] |
+| Kalshi | Series E | 2025 | Prediction Markets | [^27] |
+| Andromeda | Growth | 2026 | AI Compute | [^28] |
 
-*This table represents approximately 16% of 148 known investments. The firm's portfolio page notes it excludes confidential positions [^1].*
+*This table represents approximately 16% of 148 known investments. The firm's portfolio page notes it excludes confidential positions [^1]. All dates have been verified against primary funding announcement sources.*
 
 ## In Their Own Words
 
@@ -128,3 +128,24 @@ No additional independently sourced founder testimonials found from third-party 
 [^5]: Paradigm, "Announcing Paradigm's Third Fund," June 13, 2024, accessed March 2026. https://www.paradigm.xyz/2024/06/paradigms-third-fund
 [^6]: Cointelegraph, "Paradigm co-founder feels 'deep regret' investing in SBF and FTX," November 2022, accessed March 2026. https://cointelegraph.com/news/paradigm-co-founder-feels-deep-regret-investing-in-sbf-and-ftx
 [^7]: Fortune, "Paradigm leads $225 million round for Monad Labs," April 9, 2024, accessed March 2026. https://fortune.com/crypto/2024/04/09/monad-paradigm-greenoaks-jump-crypto-funding-225-million/
+[^8]: StarkWare, "Series A," October 2018, accessed April 2026. https://medium.com/starkware/series-a-665d94c855f4
+[^9]: The Block, "a16z, Paradigm back Compound's $25M Series A," November 2019, accessed April 2026. https://www.theblock.co/post/47158/a16z-paradigm-back-compounds-25m-series-a-to-integrate-with-crypto-exchanges-and-brokers
+[^10]: PR Newswire, "Maker Foundation Announces $27.5 Million MKR Sale to Dragonfly Capital Partners and Paradigm," December 19, 2019, accessed April 2026. https://www.prnewswire.com/news-releases/maker-foundation-announces-27-5-million-mkr-sale-to-dragonfly-capital-partners-and-paradigm-300977381.html
+[^11]: Yahoo Finance, "Paradigm backs decentralized exchange protocol Uniswap," April 24, 2019, accessed April 2026. https://finance.yahoo.com/news/paradigm-backs-decentralized-exchange-protocol-184824051.html
+[^12]: Fireblocks, "Fireblocks Raises $30 Million In Series B Funding Led By Paradigm," November 18, 2020, accessed April 2026. https://www.fireblocks.com/press/fireblocks-raises-30-million-in-series-b-funding-led-by-paradigm
+[^13]: Crunchbase, "Flashbots Seed Round," 2020, accessed April 2026. https://www.crunchbase.com/funding_round/flashbots-seed--f266df55
+[^14]: Blockworks, "Paradigm Leads $65M Round for Decentralized Exchange dYdX," June 15, 2021, accessed April 2026. https://blockworks.co/news/paradigm-leads-65m-round-for-decentralized-exchange-dydx
+[^15]: The Block, "Eth2 staking project Lido raises $73 million in new funding led by Paradigm," May 2021, accessed April 2026. https://www.theblock.co/linked/103874/eth2-staking-protocol-lido-raises-73-million-paradigm
+[^16]: Cointelegraph, "Axie Infinity developer secures $152M in Series B funding from investors," October 5, 2021, accessed April 2026. https://cointelegraph.com/news/axie-infinity-developer-secures-152m-in-series-b-funding-from-investors
+[^17]: CoinDesk, "Ethereum Privacy Startup Aztec Raises $17M in Paradigm-Led Series A," December 16, 2021, accessed April 2026. https://www.coindesk.com/business/2021/12/16/ethereum-privacy-startup-aztec-raises-17m-in-paradigm-led-series-a
+[^18]: Citadel Securities, "Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm," January 11, 2022, accessed April 2026. https://www.citadelsecurities.com/news-and-insights/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/
+[^19]: Gaebler, "Magic Eden Funding Round," March 14, 2022, accessed April 2026. https://www.gaebler.com/VC-Funding-5BAA30EF-A13B-473E-AA4E-7FD2DC647D2E-Magic-Eden-03-14-2022
+[^20]: TechCrunch, "NFT kingpin OpenSea lands monster $13.3B valuation in $300M raise from Paradigm and Coatue," January 4, 2022, accessed April 2026. https://techcrunch.com/2022/01/04/nft-kingpin-opensea-lands-13-3b-valuation-in-300m-raise-from-paradigm-and-coatue/
+[^21]: TechCrunch, "Paradigm and a16z back Ethereum scaling startup Optimism at $1.65B valuation," March 17, 2022, accessed April 2026. https://techcrunch.com/2022/03/17/paradigm-and-a16z-back-ethereum-scaling-startup-optimism-at-1-65b-valuation/
+[^22]: Cointelegraph, "Solana ecosystem wallet Phantom raises $109M," January 2022, accessed April 2026. https://cointelegraph.com/news/solana-ecosystem-wallet-phantom-raises-109m
+[^23]: The Block, "NFT marketplace Blur raises $11 million in seed round led by Paradigm," March 28, 2022, accessed April 2026. https://www.theblock.co/linked/139617/nft-marketplace-blur-raises-11-million-in-seed-round-led-by-paradigm
+[^24]: The Block, "Paradigm leads $150 million raise for web3 social media platform Farcaster," 2024, accessed April 2026. https://www.theblock.co/post/295700/paradigm-150-million-raise-web3-social-platform-farcaster
+[^25]: The Block, "Paradigm leads $50 million Series A round for decentralized AI project Nous Research," April 25, 2025, accessed April 2026. https://www.theblock.co/post/352000/paradigm-leads-50-million-usd-round-decentralized-ai-project-nous-research
+[^26]: Fortune, "Stripe and Paradigm announce new payments-focused blockchain Tempo," September 4, 2025, accessed April 2026. https://fortune.com/crypto/2025/09/04/stripe-paradigm-tempo-blockchain-stablecoins-matt-huang-payments/
+[^27]: Crunchbase News, "Kalshi Secures $1B To Expand Predictions Market Platform," December 2025, accessed April 2026. https://news.crunchbase.com/fintech/kalshi-raises-funding-predictions-market-paradigm/
+[^28]: SiliconANGLE, "On-demand GPU startup Andromeda raises funding at $1.5B valuation," March 18, 2026, accessed April 2026. https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation/
