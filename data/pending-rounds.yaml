@@ -1,13 +1,4 @@
 pending_rounds:
-- title: Portal Space Systems raised $50M Series A
-  url: https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/
-  source: websearch
-  date_found: '2026-04-12'
-  parsed_company: Portal Space Systems
-  parsed_amount: $50M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile portal-space-systems.md
 - title: Stack Capital Group Inc. Closes Upsized Best Efforts Concurrent Private Placement
     for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
   url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
@@ -128,6 +119,15 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Portal Space Systems raised $50M Series A
+  url: https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/
+  source: websearch
+  date_found: '2026-04-12'
+  parsed_company: Portal Space Systems
+  parsed_amount: $50M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile portal-space-systems.md
 - title: 'The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom
     Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/
@@ -899,15 +899,6 @@ pending_rounds:
   skip_reason: roundup/summary article
 - title: 'The AlleyWatch Startup Daily Funding Report: 3/30/2026'
   url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-30-2026/
-  source: alleywatch
-  date_found: '2026-03-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'The Weekly Notable Startup Funding Report: 3/30/26'
-  url: https://alleywatch.com/2026/03/the-weekly-notable-startup-funding-report-3-30-26/
   source: alleywatch
   date_found: '2026-03-30'
   parsed_company: null
