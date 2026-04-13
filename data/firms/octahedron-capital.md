@@ -52,7 +52,7 @@ He has also discussed the importance of hit rate in investing: "What's important
 
 Based on 6 verified private-market investments and 16 public equity positions (Q4 2025 13F), Octahedron Capital's actual investment behavior reveals a concentrated, global technology strategy spanning public and private markets.
 
-**Private investments by sector:** Based on 6 verified private investments: 2 fintech/payments (Monzo, Pine Labs — 33%), 1 e-commerce/marketplace (Udaan — 17%), 1 enterprise software/AI (Databricks — 17%), 1 gaming (MPL — 17%), 1 healthcare (Tenure Health — 17%). Sample size is too small for reliable percentage breakdowns [^9] [^10] [^11] [^12] [^13].
+**Private investments by sector:** Based on 6 verified private investments: 2 fintech/payments (Monzo, Pine Labs — 33%), 1 e-commerce/marketplace (Udaan — 17%), 1 enterprise software/AI (Databricks — 17%), 1 gaming (MPL — 17%), 1 healthcare (Tenure Health — 17%). Sample size is too small for reliable percentage breakdowns [^9] [^10] [^11] [^12] [^13] [^14].
 
 **Geographic distribution of private investments:** 3 of 6 verified private investments (50%) are in India (Udaan, MPL, Pine Labs), 1 in the UK (Monzo), 1 in the US (Databricks), and 1 is a US-listed exit (Tenure Health). This is notable — the firm's stated thesis emphasizes "internet-scale businesses" globally but does not specifically highlight India, despite half of known private investments being India-focused [^9] [^10] [^11] [^12] [^13].
 
@@ -75,7 +75,7 @@ Based on 6 verified private-market investments and 16 public equity positions (Q
 | Pine Labs | Secondary | 2021 | Fintech / Payments | Active [^11] |
 | MPL (Mobile Premier League) | Series E | 2021 | Gaming | Active [^13] |
 | Databricks | Series I | 2023 | Enterprise Software / AI | Active [^12] |
-| Tenure Health | Unknown | Unknown | Healthcare | Exited (Sep 2024) [^14] |
+| Tenure Health | Venture | 2021 | Healthcare | Exited (acquired by NCD, Sep 2024) [^14][^15] |
 
 ### Public Equity Holdings (Q4 2025 13F)
 
@@ -140,3 +140,4 @@ No independently sourced founder testimonials found. Octahedron Capital operates
 [^12]: "Databricks Raises Series I Investment at $43B Valuation," PRNewswire / Databricks, September 14, 2023. https://www.prnewswire.com/news-releases/databricks-raises-series-i-investment-at-43b-valuation-301927440.html
 [^13]: Octahedron Capital investor profile, Tracxn, accessed March 2026. https://tracxn.com/d/venture-capital/octahedron-capital/__YuUOJeG1KgmN6cdyoS5gdIVi9-6En4Eq9yTBzr0-2MU
 [^14]: Octahedron Capital portfolio exits, CB Insights, accessed March 2026. https://www.cbinsights.com/investor/octahedron-capital
+[^15]: "NCD Acquires Tenure Health to Create New Standard For Health and Supplemental Insurance Product Development," PR Newswire, September 11, 2024, accessed April 2026. https://www.prnewswire.com/news-releases/ncd-acquires-tenure-health-to-create-new-standard-for-health-and-supplemental-insurance-product-development-302244394.html

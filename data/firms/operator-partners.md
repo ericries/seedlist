@@ -83,37 +83,37 @@ This table represents a sample of verified investments. Operator Partners report
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Apella | Series B | 2026 | Healthcare/AI | [^20] |
-| Serval | Series A | 2025 | IT Automation/AI | [^9] |
-| Estuary | Series A | 2025 | Data Infrastructure | [^17] |
-| Composio | Series A | 2025 | Developer Tools/AI | [^17] |
-| 1Fort | Venture | 2025 | Cybersecurity | [^17] |
+| Serval | Series A | 2025 | IT Automation/AI | [^24] |
+| Estuary | Series A | 2025 | Data Infrastructure | [^25] |
+| Composio | Series A | 2025 | Developer Tools/AI | [^26] |
+| 1Fort | Series A | 2025 | Cybersecurity | [^27] |
 | Spring Health | Series B | 2020 | Digital Health | [^19] |
-| Whatnot | Seed | 2020 | E-commerce/Marketplace | [^11] |
-| Plaid | Early | ~2013 | Fintech | [^2] |
-| Ramp | Early | ~2019 | Fintech | [^9] |
-| Cedar | Early | ~2017 | Healthcare/Fintech | [^16] |
-| Headway | Early | ~2019 | Digital Health | [^16] |
-| Ro | Early | ~2018 | Digital Health/DTC | [^16] |
-| Clover Health | Early | ~2015 | Healthcare/Insurance | [^16] |
-| Oscar Health | Early | ~2013 | Healthcare/Insurance | [^16] |
-| Remote | Early | ~2020 | HR/Future of Work | [^21] |
-| Stytch | Early | ~2021 | Developer Tools/Auth | [^18] |
-| Prefect | Early | ~2020 | Developer Tools/Data | [^10] |
-| Infinitus Systems | Early | ~2020 | Healthcare/AI | [^10] |
-| Unit | Early | ~2020 | Fintech/BaaS | [^10] |
-| Marker Learning | Early | ~2020 | EdTech/Healthcare | [^10] |
-| Landis Technologies | Early | ~2020 | Fintech/Real Estate | [^10] |
-| TRM Labs | Early | ~2021 | Crypto/Compliance | [^17] |
-| Flatfile | Early | ~2020 | Developer Tools | [^16] |
-| Immuta | Early | ~2019 | Data Infrastructure | [^16] |
-| Daloopa | Early | ~2020 | Fintech/AI | [^21] |
-| David Energy | Early | ~2020 | Energy/Climate | [^21] |
-| Zipline | Early | ~2016 | Logistics/Drones | [^16] |
-| Chainalysis | Early | ~2018 | Crypto/Analytics | [^16] |
-| BarkBox | Early | ~2014 | Consumer/DTC | [^16] |
-| Misfits Market | Early | ~2019 | Consumer/Food | [^16] |
+| Whatnot | Seed | 2020 | E-commerce/Marketplace | [^28] |
+| Plaid | Seed | 2013 | Fintech | [^29] |
+| Ramp | Seed | 2019 | Fintech | [^9] |
+| Cedar | Series B | 2018 | Healthcare/Fintech | [^30] |
+| Headway | Seed | 2019 | Digital Health | [^31] |
+| Ro | Angel | 2017 | Digital Health/DTC | [^16] |
+| Clover Health | Seed | 2014 | Healthcare/Insurance | [^16] |
+| Oscar Health | Angel | 2013 | Healthcare/Insurance | [^16] |
+| Remote | Series A | 2020 | HR/Future of Work | [^32] |
+| Stytch | Seed | 2021 | Developer Tools/Auth | [^33] |
+| Prefect | Series A | 2021 | Developer Tools/Data | [^34] |
+| Infinitus Systems | Seed | 2020 | Healthcare/AI | [^10] |
+| Unit | Seed | 2020 | Fintech/BaaS | [^35] |
+| Marker Learning | Seed | 2021 | EdTech/Healthcare | [^36] |
+| Landis Technologies | Seed | 2018 | Fintech/Real Estate | [^37] |
+| TRM Labs | Angel | 2021 | Crypto/Compliance | [^17] |
+| Flatfile | Angel | 2019 | Developer Tools | [^16] |
+| Immuta | Angel | 2019 | Data Infrastructure | [^16] |
+| Daloopa | Angel | 2020 | Fintech/AI | [^21] |
+| David Energy | Angel | 2020 | Energy/Climate | [^21] |
+| Zipline | Angel | 2016 | Logistics/Drones | [^16] |
+| Chainalysis | Angel | 2018 | Crypto/Analytics | [^16] |
+| BarkBox | Angel | 2014 | Consumer/DTC | [^16] |
+| Misfits Market | Angel | 2019 | Consumer/Food | [^16] |
 
-Note: Many investments predate the 2020 founding of Operator Partners and were made as personal angel investments by Nat Turner and Zach Weinberg. The "Early" stage designation is used where the specific round was not independently verified. Years marked with ~ are estimates based on founding year proxies from Nat Turner's portfolio page [^16].
+Note: Many investments predate the 2020 founding of Operator Partners and were made as personal angel investments by Nat Turner and Zach Weinberg. "Angel" stage indicates a personal angel investment where the specific round was not independently verified; years for angel investments are estimates based on Nat Turner's portfolio page [^16] and company founding dates.
 
 ## In Their Own Words
 
@@ -162,3 +162,17 @@ No independently sourced founder testimonials found. The firm's website describe
 [^21]: NYC Founder Guide, "Operator Partners," accessed March 2026. https://www.nycfounderguide.com/investors/operator-partners
 [^22]: How Leaders Lead podcast, "Nat Turner," accessed March 2026. https://howleaderslead.com/leaders/8/Nat-Turner/
 [^23]: Howard Lindzon, "General Partner at Operator Partners and Angel investor Zach Weinberg Joins Me on Panic with Friends to Discuss the Future of Healthcare and BioTech," accessed March 2026. https://www.howardlindzon.com/p/general-partner-operator-partners-angel-investor-zach-weinberg-joins-panic-friends-discuss-future-he
+[^24]: "Serval raises $47M to bring AI agents to IT service management," TechCrunch, October 21, 2025, accessed April 2026. https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/
+[^25]: "Estuary Raises $17M Series A to Power AI for Enterprises with Right-Time Data Movement," PR Newswire, October 21, 2025, accessed April 2026. https://www.prnewswire.com/news-releases/estuary-raises-17m-series-a-to-power-ai-for-enterprises-with-right-time-data-movement-302586382.html
+[^26]: "Composio raises $25M in funding to ease AI agent development," SiliconANGLE, July 22, 2025, accessed April 2026. https://siliconangle.com/2025/07/22/composio-raises-25m-funding-ease-ai-agent-development/
+[^27]: "Bonfire Ventures Leads $7.5M Round for Cybersecurity Insurance Enabler 1Fort," CityBiz, January 2025, accessed April 2026. https://www.citybiz.co/article/684406/bonfire-ventures-leads-7-5m-round-for-cybersecurity-insurance-enabler-1fort/
+[^28]: "Whatnot raises $4M as it gets into livestreamed auctions and Pokémon cards," TechCrunch, December 17, 2020, accessed April 2026. https://techcrunch.com/2020/12/17/whatnot-raises-4m-as-it-gets-into-livestreamed-auctions-and-pokemon-cards/
+[^29]: Tracxn, "Plaid - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/plaid/__PFsXp_Fl7Y2dkZ33wduP6cmZ6cBUapYqMjqrsc6oP9g/funding-and-investors
+[^30]: "Patient Financial Management Platform Cedar Raises $36 Million Series B," PR Newswire, June 2018, accessed April 2026. https://www.prnewswire.com/news-releases/patient-financial-management-platform-cedar-raises-36-million-series-b-300671241.html
+[^31]: Accel, "Rewiring the Mental Healthcare System: Our Seed and Series A Investment in Headway," accessed April 2026. https://www.accel.com/noteworthies/rewiring-the-mental-healthcare-system-our-seed-and-series-a-investment-in-headway
+[^32]: "Remote raises $35M to help orgs with global workforce payroll, benefits and more," TechCrunch, November 10, 2020, accessed April 2026. https://techcrunch.com/2020/11/10/remote-raises-35m-to-help-orgs-with-global-workforce-payroll-benefits-and-more/
+[^33]: "Stytch Closes $30 Million Series A Funding Round Led by Thrive Capital," BusinessWire, July 14, 2021, accessed April 2026. https://www.businesswire.com/news/home/20210714005406/en/Stytch-Closes-%2430-Million-Series-A-Funding-Round-Led-by-Thrive-Capital
+[^34]: "Prefect Raises $11.5M in Series A Funding to Eliminate Negative Engineering in Dataflow Automation," PR Newswire, February 9, 2021, accessed April 2026. https://www.prnewswire.com/news-releases/prefect-raises-11-5m-in-series-a-funding-to-eliminate-negative-engineering-in-dataflow-automation-301224909.html
+[^35]: "Unit raises $18.6M to offer banking features as a service," TechCrunch, December 8, 2020, accessed April 2026. https://techcrunch.com/2020/12/08/unit-raises-18-6m-to-offer-banking-features-as-a-service/
+[^36]: Tracxn, "Marker Learning - 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/marker-learning/__No3jzae5gdt8mWOLg2gD4azdszq552eOgTID5rfdGP0
+[^37]: Tracxn, "Landis - 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/landis/__PYEXJYbTkRPR6tR81tDkME81Ps-dYkIZyeBZ-pT-Ank

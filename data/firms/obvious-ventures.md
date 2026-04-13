@@ -76,7 +76,7 @@ The firm organizes investments across three pillars [^1][^3]:
 
 Based on the 35 verified portfolio companies below, Obvious Ventures' actual investment behavior closely aligns with its stated thesis — a rarity in venture capital.
 
-**Stage focus:** The firm leads Seed and Series A rounds. Early in its history, the firm had limited ownership stakes, but has since shifted to leading rounds to improve venture economics [^3]. Check sizes range from $250K to $6M [^8].
+**Stage focus:** The firm primarily leads Seed and Series A rounds, though its portfolio also includes later-stage entries such as Beyond Meat (Series D) and Gusto (Series C) [^10][^12]. Early in its history, the firm had limited ownership stakes, but has since shifted to leading rounds to improve venture economics [^3]. Check sizes range from $250K to $6M [^8].
 
 **Sector distribution (based on 35 verified companies):**
 - Planetary Health: 14 of 35 (40%) — including climate tech, energy, transportation, agriculture
@@ -85,7 +85,7 @@ Based on the 35 verified portfolio companies below, Obvious Ventures' actual inv
 
 The distribution is relatively balanced across the three pillars, with a slight tilt toward planetary health — consistent with the firm's early marquee bets in Beyond Meat, Diamond Foundry, and Proterra.
 
-**Investment patterns:** The firm is genuinely thematic and contrarian. Its earliest bets in plant-based meat (Beyond Meat) and lab-grown diamonds (Diamond Foundry) were made when these categories were considered fringe [^3]. Similarly, Proterra's electric buses and Zanskar's geothermal energy represent conviction bets in categories with long development timelines.
+**Investment patterns:** The firm is genuinely thematic and contrarian. Its early bets in plant-based meat (Beyond Meat, entering at Series D in 2014) and lab-grown diamonds (Diamond Foundry) were made when these categories were considered fringe [^3][^10]. Similarly, Proterra's electric buses and Zanskar's geothermal energy represent conviction bets in categories with long development timelines.
 
 **Geographic focus:** Overwhelmingly U.S.-based, reflecting the firm's San Francisco headquarters and domestic focus.
 
@@ -97,13 +97,13 @@ The distribution is relatively balanced across the three pillars, with a slight 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Beyond Meat | Seed | 2014 | Human Health / Food | IPO | [^1][^9] |
+| Beyond Meat | Series D | 2014 | Human Health / Food | IPO | [^1][^9][^10] |
 | Planet | Series A | 2015 | Planetary Health / Satellite | IPO | [^1] |
-| Recursion | Series A | 2017 | Human Health / Biotech | IPO | [^1] |
+| Recursion | Series A | 2016 | Human Health / Biotech | IPO | [^1][^11] |
 | Proterra | Series A | 2015 | Planetary Health / EVs | IPO (then bankrupt) | [^1][^9] |
 | Diamond Foundry | Seed | 2015 | Planetary Health / Materials | Active | [^1][^9] |
-| Gusto | Series A | 2015 | Economic Health / HR/Payroll | Active | [^1][^3] |
-| Devoted Health | Series A | 2017 | Human Health / Insurance | Active | [^1][^3] |
+| Gusto | Series C | 2016 | Economic Health / HR/Payroll | Active | [^1][^3][^12] |
+| Devoted Health | Series A | 2017 | Human Health / Insurance | Active | [^1][^3][^13] |
 | Virta Health | Seed | 2015 | Human Health / Digital Health | Active | [^3] |
 | Galileo | Series A | 2018 | Human Health / Telehealth | Active | [^1] |
 | Corvus | Series A | 2017 | Economic Health / InsurTech | Acquired | [^1] |
@@ -158,3 +158,7 @@ No independently sourced founder testimonials were found during this research pa
 [^7]: Obvious Ventures team page, accessed March 2026. https://obvious.com/team/
 [^8]: VCSheet, "Obvious Ventures" fund breakdown, accessed March 2026. https://www.vcsheet.com/fund/obvious-ventures
 [^9]: CNBC, "Obvious Ventures, co-founded by Twitter's Evan Williams, plans to raise $400 million fund," February 2025, accessed March 2026. https://www.cnbc.com/2025/02/26/obvious-ventures-started-by-twitters-williams-raising-400-million.html
+[^10]: Crunchbase, "Series D - Beyond Meat - 2014-07-29," accessed April 2026. https://www.crunchbase.com/funding_round/beyond-meat-series-d--6834da1c
+[^11]: BusinessWire, "Recursion Pharmaceuticals Raises $13M to Discover New Drugs Using Artificial Intelligence," October 3, 2016, accessed April 2026. https://www.businesswire.com/news/home/20161003005212/en/Recursion-Pharmaceuticals-Raises-13M-Discover-New-Drugs
+[^12]: Tracxn, "Gusto - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/gusto/__r39qcho5DsYzXK9T9DN30891FFAcpuYHRjgMN3eqRlo/funding-and-investors
+[^13]: Tracxn, "Devoted Health - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/devoted-health/__nmiBadft21nnUP-nWEEAloTvR_grXaYBipctTJsUys4/funding-and-investors
