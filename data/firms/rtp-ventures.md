@@ -126,7 +126,7 @@ Based on 50 verified portfolio entries from the firm's own portfolio page [^8], 
 |---------|-------|------|--------|--------|
 | Datadog | Series A | 2012 | Data Analytics/SaaS | Exited (IPO 2019) |
 | Delivery Hero | Series A | 2011 | Transport & Logistics | Exited (IPO 2017) |
-| SumUp | Undisclosed | 2012 | Fintech | Live |
+| SumUp | Series D | 2016 | Fintech | Live |
 | Socure | Series A | 2015 | Security & Privacy/SaaS | Live |
 | Rebel Foods | Series C | 2015 | E-commerce | Live |
 | Owlet | Series A | 2016 | Healthcare/E-commerce | Live |

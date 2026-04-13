@@ -88,16 +88,16 @@ Based on 30+ verified investments across Revolution's funds:
 | DraftKings | Growth | Growth | ~2015 | Sports & Entertainment | IPO (2020) | [^15][^21] |
 | Tempus | Growth | Series C | 2017 | Healthcare / AI | IPO (2024) | [^15][^22] |
 | CAVA | Growth | Series B | 2015 | Food & Restaurant | IPO (2023) | [^4][^15] |
-| CLEAR | Growth | Growth | — | Identity / Security | IPO (2021) | [^4][^15] |
+| CLEAR | Growth | Growth | 2019 | Identity / Security | IPO (2021) | [^4][^15][^25] |
 | Sportradar | Growth | Growth | 2015 | Sports Data | IPO (2021) | [^15][^21] |
-| Zipcar | — | — | ~2007 | Transportation | Acquired by Avis (2013) | [^1] |
-| LivingSocial | — | Series A/B | 2008 | E-commerce / Deals | Acquired | [^1] |
+| Zipcar | Growth | Growth | ~2007 | Transportation | Acquired by Avis (2013) | [^1][^26] |
+| LivingSocial | Growth | Series A/B | 2008 | E-commerce / Deals | Acquired | [^1][^27] |
 | Optoro | Growth | Series B | 2012 | Logistics / Returns | Active | [^23] |
 | CustomInk | Growth | Growth | 2012 | E-commerce | Active | [^8] |
 | Anduril | Rise of the Rest | Seed | 2017 | Defense Technology | Active | [^4][^15] |
 | StockX | Rise of the Rest | Series AA/B | 2018 | Consumer Marketplace | Active | [^4] |
-| Hermeus | — | Series C | 2025 | Aerospace | Active | [^15] |
-~unknown| Tala | Growth | Series C | — | Fintech / Payments | Active | [^15] |
+| Hermeus | Growth | Series B | 2022 | Aerospace | Active | [^15][^29] |
+| Tala | Growth | Series D | 2019 | Fintech / Payments | Active | [^15][^28] |
 ~unknown| Revolution Foods | Growth | Growth | — | Food | Active | [^8] |
 ~unknown| Bedrock Manufacturing | Growth | Growth | — | Consumer (Shinola/Filson) | Active | [^8] |
 | Homesnap | Ventures | Series A | 2012 | Real Estate Tech | Acquired by CoStar (2020) | [^4] |
@@ -109,8 +109,8 @@ Based on 30+ verified investments across Revolution's funds:
 ~unknown| Paro | Ventures | — | — | Professional Services | Active | [^11] |
 | Palla | Ventures | Series A | 2025 | Fintech / Payments | Active | [^1] |
 | Carbon Robotics | Rise of the Rest | Series C ext. | 2023 | Agriculture / AI | Active | [^1] |
-| BenchPrep | Ventures | — | ~2013 | Education Technology | Active | [^10] |
-| Booker Software | Ventures | — | ~2013 | SaaS / Services | Active | [^10] |
+| BenchPrep | Ventures | Series B | 2012 | Education Technology | Active | [^10][^30] |
+| Booker Software | Ventures | Series B | 2013 | SaaS / Services | Active | [^10][^31] |
 
 *This table represents a subset of Revolution's 200+ portfolio companies. Data coverage is strongest for Revolution Growth and weaker for Rise of the Rest Seed Fund investments, which number 200+ across 100+ cities.*
 
@@ -166,3 +166,10 @@ Based on 30+ verified investments across Revolution's funds:
 [^22]: Tempus AI investor page, "Board of Directors," accessed April 2026. https://investors.tempus.com/corporate-governance/board-of-directors
 [^23]: Revolution press release, "Revolution Growth Invests in Optoro," accessed April 2026. https://www.revolution.com/press-release/revolution-growth-invests-in-optoro
 [^24]: CNBC, "How I got Steve Case to invest in Sweetgreen," December 4, 2013. https://www.cnbc.com/2013/12/04/how-i-got-steve-case-to-invest-in-sweetgreen.html
+[^25]: Business Wire, "CLEAR Secures New Funding from T. Rowe Price and Revolution Growth to Accelerate Platform and Network Expansion," January 30, 2019. https://www.businesswire.com/news/home/20190130005114/en/CLEAR-Secures-New-Funding-from-T.-Rowe-Price-and-Revolution-Growth-to-Accelerate-Platform-and-Network-Expansion
+[^26]: The Washington Post, "The Download: Zipcar acquisition brings big payday for early investor," January 4, 2013. https://www.washingtonpost.com/business/capitalbusiness/the-download-zipcar-acquisition-brings-big-payday-for-early-investor/2013/01/04/0039c0ae-568b-11e2-a613-ec8d394535c6_story.html
+[^27]: Both Sides of the Table, "Revolution talks LivingSocial, ZipCar, Steve Case & those Groupon Super Bowl Ads," accessed April 2026. https://bothsidesofthetable.com/revolution-talks-livingsocial-zipcar-steve-case-those-groupon-super-bowl-ads-da3855b56abf
+[^28]: Entrackr, "Fintech startup Tala raises $110 Mn Series D round; to expand in Indian market," August 2019. https://entrackr.com/2019/08/tala-raises-100mn-series-d-round/
+[^29]: Hermeus, "Hermeus Raises $100 Million Series B Led by Sam Altman," accessed April 2026. https://www.hermeus.com/newsroom-content/hermeus-raises-100-million-series-b-led-by-sam-altman
+[^30]: TechCrunch, "BenchPrep Grabs $6M From NEA, Revolution For Cross-Platform, Interactive Courses," July 3, 2012. https://techcrunch.com/2012/07/03/benchprep-raises-6m/
+[^31]: TechCrunch, "Operations And Service Management SaaS Booker Raises $27.5M From Bain Capital Ventures, Revolution And Others," April 16, 2013. https://techcrunch.com/2013/04/16/operations-and-service-management-saas-booker-raises-27-5m-from-bain-capital-ventures-revolution-and-others/

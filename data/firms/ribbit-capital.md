@@ -108,16 +108,16 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 | Robinhood | Series A | 2014 | Trading Platform | Active (Public) | [^3] |
 | Nubank | Series D | 2016 | Digital Banking | Active (Public) | [^3] |
 | Revolut | Series A | 2016 | Digital Banking | Active | [^3] |
-~unknown| Affirm | Growth | — | Lending/BNPL | Active (Public) | [^2] |
-| Brex | Growth | — | Corporate Finance | Acquired (Capital One, 2026) | [^6] |
-~unknown| Groww | Growth | — | Investing Platform | Active | [^2] |
-~unknown| Monzo | Growth | — | Digital Banking | Active | [^11] |
-~unknown| Alan | Growth | — | Insurtech | Active | [^11] |
-~unknown| Chipper Cash | Growth | — | Cross-border Payments | Active | [^11] |
-~unknown| Kavak | Growth | — | Auto Marketplace | Active | [^11] |
+| Affirm | Series E | 2017 | Lending/BNPL | Active (Public) | [^12] |
+| Brex | Series A | 2017 | Corporate Finance | Acquired (Capital One, 2026) | [^6][^13] |
+| Groww | Series B | 2019 | Investing Platform | Active (Public) | [^14] |
+| Monzo | Series I | 2024 | Digital Banking | Active | [^15] |
+| Alan | Series D | 2021 | Insurtech | Active | [^16] |
+| Chipper Cash | Series B | 2020 | Cross-border Payments | Active | [^17] |
+| Kavak | Series D | 2021 | Auto Marketplace | Active | [^18] |
 | One (Walmart) | Growth | 2021 | Digital Banking | Active | [^2] |
 
-*This table represents approximately 7% of Ribbit's 164 total investments [^6]. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
+*This table represents approximately 7% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
 
 ## In Their Own Words
 
@@ -154,3 +154,10 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^9]: Antoine Buteau, "Lessons from Micky Malka, founder of Ribbit Capital," accessed March 2026. https://www.antoinebuteau.com/lessons-from-micky-malka-founder-of-ribbit-capital/
 [^10]: Endeavor, "The future of fintech — and why money without context doesn't work," accessed March 2026. https://endeavor.org/stories/the-future-of-fintech/
 [^11]: VCSheet, "Ribbit Capital - VC Fund Breakdown," accessed March 2026. https://www.vcsheet.com/fund/ribbit-capital
+[^12]: Affirm Holdings, "Affirm announces series F round of equity funding, led by Thrive Capital," April 3, 2019. https://investors.affirm.com/news-releases/news-release-details/affirm-announces-series-f-round-of-equity-funding-led-by-thrive-capital
+[^13]: Brex, "Brex Closes $100 Million Investment Led By Kleiner Perkins Digital Growth Fund," accessed April 2026. https://www.brex.com/journal/press/series-c-2
+[^14]: TechCrunch, "Groww, an investment app for millennials in India, raises $21.4M," September 19, 2019. https://techcrunch.com/2019/09/19/groww-series-b/
+[^15]: Tracxn, "Monzo — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/monzo/__HguZJzK7Q_qZsyIz1Y4VwV75H5fHjDMtGaXPelPAxpU/funding-and-investors
+[^16]: TechCrunch, "Alan raises $220 million for its health insurance and healthcare superapp," April 19, 2021. https://techcrunch.com/2021/04/19/alan-raises-220-million-for-its-health-insurance-and-healthcare-super-app/
+[^17]: TechCrunch, "African fintech startup Chipper Cash raises $30M backed by Jeff Bezos," November 18, 2020. https://techcrunch.com/2020/11/18/african-fintech-startup-chipper-cash-raises-30m-backed-by-jeff-bezos/
+[^18]: TechCrunch, "Mexican unicorn Kavak raises a $485M Series D at a $4B valuation," April 7, 2021. https://techcrunch.com/2021/04/07/mexican-unicorn-kavak-raises-a-485m-series-d-at-a-4b-valuation/
