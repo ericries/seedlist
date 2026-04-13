@@ -3,7 +3,7 @@ pending_rounds:
     for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
   url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
   source: globenewswire
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Stack Capital Group Inc.
   parsed_amount: $31.25M
   parsed_round: null
@@ -12,7 +12,7 @@ pending_rounds:
 - title: Chapter raised $100M Series E
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Chapter
   parsed_amount: $100M
   parsed_round: Series E
@@ -21,7 +21,7 @@ pending_rounds:
 - title: Elorian raised $55M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Elorian
   parsed_amount: $55M
   parsed_round: Seed
@@ -30,7 +30,7 @@ pending_rounds:
 - title: Luminai raised $38M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Luminai
   parsed_amount: $38M
   parsed_round: Series B
@@ -39,7 +39,7 @@ pending_rounds:
 - title: Paysend raised $25M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Paysend
   parsed_amount: $25M
   parsed_round: null
@@ -48,7 +48,7 @@ pending_rounds:
 - title: PeakMetrics raised $6M Series a
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: PeakMetrics
   parsed_amount: $6M
   parsed_round: Series A
@@ -57,7 +57,7 @@ pending_rounds:
 - title: Juno raised $12M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Juno
   parsed_amount: $12M
   parsed_round: Seed
@@ -66,7 +66,7 @@ pending_rounds:
 - title: Packz raised $10.7M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Packz
   parsed_amount: $10.7M
   parsed_round: null
@@ -75,7 +75,7 @@ pending_rounds:
 - title: Refiant AI raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Refiant AI
   parsed_amount: $5M
   parsed_round: Seed
@@ -84,7 +84,7 @@ pending_rounds:
 - title: Flashpass raised $4.1M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Flashpass
   parsed_amount: $4.1M
   parsed_round: null
@@ -93,7 +93,7 @@ pending_rounds:
 - title: Sigma Automate raised $2.75M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
-  date_found: ‘2026-04-12’
+  date_found: '2026-04-12'
   parsed_company: Sigma Automate
   parsed_amount: $2.75M
   parsed_round: null
@@ -102,17 +102,17 @@ pending_rounds:
 - title: Moonbounce raised $12M Series A
   url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
   source: techcrunch
-  date_found: ‘2026-04-03’
+  date_found: '2026-04-03'
   parsed_company: Moonbounce
   parsed_amount: $12M
   parsed_round: Series A
   status: processed
   notes: created startup profile moonbounce.md
-- title: 'The Week’s 10 Biggest Funding Rounds: Largest Financings Went To Defense,
-    Wearables, Energy And Security'
+- title: "The Week's 10 Biggest Funding Rounds: Largest Financings Went To Defense,
+    Wearables, Energy And Security"
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/
   source: crunchbase
-  date_found: ‘2026-04-03’
+  date_found: '2026-04-03'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
@@ -179,16 +179,18 @@ pending_rounds:
   date_found: '2026-04-13'
   parsed_company: Slate Auto
   parsed_amount: $650M
-  parsed_round: null
-  status: pending
-- title: China Leads Asia’s Startup Funding To Its Highest Level In More Than 3 Years
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile slate-auto.md
+- title: China Leads Asia's Startup Funding To Its Highest Level In More Than 3 Years
   url: https://news.crunchbase.com/venture/china-leads-startup-funding-ai-seed-growth-asia-q1-2026/
   source: crunchbase
   date_found: '2026-04-13'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article about Asia funding trends
 - title: 'The Weekly Notable Startup Funding Report: 4/13/26'
   url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-13-26/
   source: alleywatch
@@ -196,7 +198,64 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted new deals HeyDonto $20M seed, SimpliFed $10.8M Series A, Poke $10M
+    seed extension; most other deals already had profiles
+- title: Ultralight raised $9.3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-13'
+  parsed_company: Ultralight
+  parsed_amount: $9.3M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile ultralight.md
+- title: Round raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-13'
+  parsed_company: Round
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile round-finance.md (London-based fintech)
+- title: Adams Street Partners raised $7.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-13'
+  parsed_company: Adams Street Partners
+  parsed_amount: $7.5B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE/VC fund raise, not a startup round
+- title: Leeds Equity Partners raised $1.9B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-13'
+  parsed_company: Leeds Equity Partners
+  parsed_amount: $1.9B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund raise, not a startup round
+- title: Propel Bio raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-13'
+  parsed_company: Propel Bio
+  parsed_amount: $100M
+  parsed_round: null
+  status: skipped
+  skip_reason: could not verify; no press coverage found for Propel Bio $100M round;
+    may be Propel Bio Partners fund raise rather than startup round
+- title: u003e raised $9.3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-13'
+  parsed_company: u003e
+  parsed_amount: $9.3M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact; duplicate of Ultralight $9.3M entry
 - title: Portal Space Systems raised $50M Series A
   url: https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/
   source: websearch
@@ -206,8 +265,8 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile portal-space-systems.md
-- title: 'The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom
-    Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big'
+- title: "The Week's 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom
+    Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big"
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/
   source: crunchbase
   date_found: '2026-04-10'
@@ -238,7 +297,7 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile juno-tax.md
-- title: Global Investors Help Boost Latin America’s Late-Stage Funding Boom In Q1
+- title: Global Investors Help Boost Latin America's Late-Stage Funding Boom In Q1
   url: https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/
   source: crunchbase
   date_found: '2026-04-09'
@@ -683,11 +742,11 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile zalos.md
-- title: Spain’s Xoople raises $130 million Series B to map the Earth for AI
+- title: Spain's Xoople raises $130 million Series B to map the Earth for AI
   url: https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/
   source: techcrunch
   date_found: '2026-04-06'
-  parsed_company: Spain’s Xoople
+  parsed_company: Spain's Xoople
   parsed_amount: $130M
   parsed_round: Series B
   status: processed
@@ -854,52 +913,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: public biotech private placement, not a startup round
-- title: Cognichip raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-02'
-  parsed_company: Cognichip
-  parsed_amount: $60M
-  parsed_round: null
-  status: processed
-- title: Monarch Quantum raised $55M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-02'
-  parsed_company: Monarch Quantum
-  parsed_amount: $55M
-  parsed_round: null
-  status: processed
-- title: Linx Security raised $50M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-02'
-  parsed_company: Linx Security
-  parsed_amount: $50M
-  parsed_round: Series B
-  status: processed
-- title: Manna Air Delivery raised $50M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-02'
-  parsed_company: Manna Air Delivery
-  parsed_amount: $50M
-  parsed_round: null
-  status: skipped
-  skip_reason: startup profile already exists
-- title: Soma Energy raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-02'
-  parsed_company: Soma Energy
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: processed
-- title: TippingPoint Biosciences raised $4.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-02'
-  parsed_company: TippingPoint Biosciences
-  parsed_amount: $4.5M
-  parsed_round: null
-  status: processed
