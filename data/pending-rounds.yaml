@@ -1,58 +1,4 @@
 pending_rounds:
-- title: Rork raised $15M Seed
-  url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Rork
-  parsed_amount: $15M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile rork.md
-- title: Vivatides Therapeutics raised $54M Series A
-  url: https://www.prnewswire.com/news-releases/vivatides-therapeutics-announces-oversubscribed-54-million-series-a-financing-to-accelerate-extrahepatic-rna-therapeutics-development-302738127.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Vivatides Therapeutics
-  parsed_amount: $54M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile vivatides-therapeutics.md
-- title: Flora Fertility raised $5M Seed
-  url: https://www.prnewswire.com/news-releases/flora-fertility-closes-5m-usd-seed-round-to-accelerate-first-of-its-kind-fertility-insurance-platform-302738805.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Flora Fertility
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile flora-fertility.md
-- title: Sora Fuel raised $14.6M Seed
-  url: https://www.prnewswire.com/news-releases/sora-fuel-closes-14-6m-round-to-scale-air-to-jet-fuel-technology-302736598.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Sora Fuel
-  parsed_amount: $14.6M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile sora-fuel.md
-- title: Oricell Therapeutics raised $110M Pre-IPO
-  url: https://www.prnewswire.com/news-releases/oricell-therapeutics-closes-110-million-pre-ipo-financing-to-accelerate-global-development-of-solid-tumor-car-t-therapies-302738393.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Oricell Therapeutics
-  parsed_amount: $110M
-  parsed_round: Pre-IPO
-  status: skipped
-  skip_reason: China-based pre-IPO financing, not early-stage startup round
-- title: Atlas raised $6M Seed
-  url: https://www.prnewswire.com/news-releases/atlas-raises-6m-seed-led-by-accel-and-stellaris-to-power-the-next-global-accounting-firm-302737781.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Atlas
-  parsed_amount: $6M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: Singapore-based company; outside primary US focus
 - title: Stack Capital Group Inc. Closes Upsized Best Efforts Concurrent Private Placement
     for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
   url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
@@ -173,6 +119,60 @@ pending_rounds:
   status: processed
   notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
     scaleops, ambrosia-biosciences, openfx); saronic already existed
+- title: Rork raised $15M Seed
+  url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Rork
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile rork.md
+- title: Vivatides Therapeutics raised $54M Series A
+  url: https://www.prnewswire.com/news-releases/vivatides-therapeutics-announces-oversubscribed-54-million-series-a-financing-to-accelerate-extrahepatic-rna-therapeutics-development-302738127.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Vivatides Therapeutics
+  parsed_amount: $54M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile vivatides-therapeutics.md
+- title: Flora Fertility raised $5M Seed
+  url: https://www.prnewswire.com/news-releases/flora-fertility-closes-5m-usd-seed-round-to-accelerate-first-of-its-kind-fertility-insurance-platform-302738805.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Flora Fertility
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile flora-fertility.md
+- title: Sora Fuel raised $14.6M Seed
+  url: https://www.prnewswire.com/news-releases/sora-fuel-closes-14-6m-round-to-scale-air-to-jet-fuel-technology-302736598.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Sora Fuel
+  parsed_amount: $14.6M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile sora-fuel.md
+- title: Oricell Therapeutics raised $110M Pre-IPO
+  url: https://www.prnewswire.com/news-releases/oricell-therapeutics-closes-110-million-pre-ipo-financing-to-accelerate-global-development-of-solid-tumor-car-t-therapies-302738393.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Oricell Therapeutics
+  parsed_amount: $110M
+  parsed_round: Pre-IPO
+  status: skipped
+  skip_reason: China-based pre-IPO financing, not early-stage startup round
+- title: Atlas raised $6M Seed
+  url: https://www.prnewswire.com/news-releases/atlas-raises-6m-seed-led-by-accel-and-stellaris-to-power-the-next-global-accounting-firm-302737781.html
+  source: prnewswire
+  date_found: '2026-04-13'
+  parsed_company: Atlas
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: Singapore-based company; outside primary US focus
 - title: Portal Space Systems raised $50M Series A
   url: https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/
   source: websearch
@@ -905,58 +905,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: unparseable company name (unicode escape artifact)
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/2/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-2-2026/
-  source: alleywatch
-  date_found: '2026-04-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted Pumpcade $1M pre-seed
-- title: Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment
-    To $300B
-  url: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-01'
-  parsed_company: null
-  parsed_amount: $300B
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/1/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-1-2026/
-  source: alleywatch
-  date_found: '2026-04-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: The Largest Recent Seed Rounds Are All For AI Companies
-  url: https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/
-  source: crunchbase
-  date_found: '2026-03-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'The AlleyWatch Startup Daily Funding Report: 3/31/2026'
-  url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-31-2026/
-  source: alleywatch
-  date_found: '2026-03-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: 'The AlleyWatch Startup Daily Funding Report: 3/30/2026'
-  url: https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-30-2026/
-  source: alleywatch
-  date_found: '2026-03-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
