@@ -82,52 +82,52 @@ Based on 55 verified portfolio companies from the firm's website [^12], Refactor
 | Clover Health | Series C | 2016 | Health insurance | IPO ($CLOV) [^18] |
 | Solugen | Seed | 2017 | Chemicals/biotech | Active (unicorn) [^13] |
 | Headspace | — | ~2017 | Health/wellness | Active [^4] |
-| Checkerspot | — | ~2017 | Critical materials | Active [^4] |
+| Checkerspot | Seed | 2018 | Critical materials | Active [^21] |
 | Coinbase | — | ~2017 | Fintech/crypto | IPO ($COIN) [^12] |
-| Lucy | — | ~2018 | Health/wellness | Active [^4] |
+| Lucy | Seed | ~2018 | Health/wellness | Active [^22] |
 | Kin Euphorics | Seed | ~2019 | Consumer/wellness | Active [^4] |
-| Knowde | — | ~2019 | Chemicals marketplace | Active [^4] |
-| PathAI | — | ~2018 | Health/diagnostics | Acquired (Quest Diagnostics, 2024) [^12] |
+| Knowde | Seed | 2018 | Chemicals marketplace | Active [^23] |
+| PathAI | Series C | 2021 | Health/diagnostics | Acquired (Quest Diagnostics, 2024) [^24] |
 | Betty Labs | — | ~2019 | Consumer/sports | Acquired (Spotify, 2021) [^15] |
-| Able | — | ~2018 | Healthtech | Acquired (Health Catalyst) [^12] |
+| Able | Seed | ~2016 | Healthtech | Acquired (Health Catalyst, $27M, 2020) [^25] |
 | 64x Bio | Seed | ~2020 | Biotech | Active [^12] |
-| Gencove | — | ~2019 | Genomics | Active [^12] |
-| Loyal | — | ~2020 | Biotech (animal health) | Active [^12] |
-| Octant Bio | — | ~2020 | Drug discovery | Active [^12] |
-| YourChoice Therapeutics | — | ~2020 | Biotech | Active [^12] |
-| Picnic Health | — | ~2018 | Healthtech | Active [^12] |
-| Ophelia Health | — | ~2021 | Healthtech | Active [^12] |
-| Vital Health | — | ~2021 | Healthtech | Active [^12] |
-| Akasa | — | ~2021 | Healthtech | Active [^12] |
-| Curative | — | ~2020 | Health | Active [^12] |
-| Floodbase | — | ~2021 | Climate/insurance | Active [^12] |
-| Macro Oceans | — | ~2021 | Critical materials | Active [^12] |
-| Aether | — | ~2022 | Critical materials | Active [^12] |
+| Gencove | Seed | 2017 | Genomics | Active [^26] |
+| Loyal | Seed | 2020 | Biotech (animal health) | Active [^27] |
+| Octant Bio | Series A | 2020 | Drug discovery | Active [^28] |
+| YourChoice Therapeutics | Seed | 2019 | Biotech | Active [^29] |
+| Picnic Health | Series A | ~2018 | Healthtech | Active [^30] |
+| Ophelia Health | Series A | 2021 | Healthtech | Active [^31] |
+| Vital Health | Seed | ~2021 | Healthtech | Active [^12] |
+| Akasa | Seed | ~2019 | Healthtech | Active [^32] |
+| Curative | Seed | 2020 | Health | Active [^33] |
+| Floodbase | Series A | 2023 | Climate/insurance | Active [^34] |
+| Macro Oceans | Seed | 2024 | Critical materials | Active [^35] |
+| Aether | Seed | 2021 | Critical materials | Active [^36] |
 | Solugen | Series D | 2022 | Chemicals/biotech | Active [^13] |
-| Berkeley Yeast | — | ~2019 | Biotech/fermentation | Active [^12] |
+| Berkeley Yeast | Seed | ~2018 | Biotech/fermentation | Active [^37] |
 | General Galactic | Seed | ~2023 | Aerospace | Active [^12] |
-| Parallel Bio | — | ~2022 | Drug discovery | Active [^12] |
-| Adventris | — | ~2022 | Biotech/oncology | Active [^12] |
-| Granza Bio | — | ~2023 | Biotech/delivery | Active [^12] |
-| Vitra Bio | — | ~2023 | Biotech/IVF | Active [^12] |
-| Phytoform | — | ~2022 | Agtech/biotech | Active [^12] |
-| Miist Therapeutics | — | ~2023 | Biotech | Active [^12] |
-| BioRender | — | ~2020 | Science communication | Active [^12] |
-| Epana Bio | — | ~2023 | Biotech/autoimmune | Active [^12] |
-| Remedy Scientific | — | ~2023 | Earth systems | Active [^12] |
-| Thalo Labs | — | ~2022 | Climate/energy | Active [^12] |
-| Lumindt | — | ~2023 | Energy storage | Active [^12] |
-| Network Ocean | — | ~2024 | Data centers/energy | Active [^12] |
-| Pila Energy | — | ~2024 | Energy storage | Active [^12] |
+| Parallel Bio | Seed | ~2022 | Drug discovery | Active [^12] |
+| Adventris | Seed | ~2022 | Biotech/oncology | Active [^12] |
+| Granza Bio | Seed | ~2023 | Biotech/delivery | Active [^12] |
+| Vitra Bio | Seed | ~2023 | Biotech/IVF | Active [^12] |
+| Phytoform | Seed | ~2022 | Agtech/biotech | Active [^12] |
+| Miist Therapeutics | Seed | ~2023 | Biotech | Active [^12] |
+| BioRender | Seed | ~2018 | Science communication | Active [^38] |
+| Epana Bio | Seed | ~2023 | Biotech/autoimmune | Active [^12] |
+| Remedy Scientific | Seed | ~2023 | Earth systems | Active [^12] |
+| Thalo Labs | Seed | ~2022 | Climate/energy | Active [^12] |
+| Lumindt | Seed | ~2023 | Energy storage | Active [^12] |
+| Network Ocean | Seed | ~2024 | Data centers/energy | Active [^12] |
+| Pila Energy | Seed | ~2024 | Energy storage | Active [^12] |
 | Hexium | Seed | 2024 | Nuclear energy | Active [^19] |
-| Brelle | — | ~2024 | Electric powertrains | Active [^12] |
+| Brelle | Seed | ~2024 | Electric powertrains | Active [^12] |
 | Causal Labs | Seed | 2025 | AI/weather | Active [^14] |
-| Orchid | — | ~2022 | Biotech/genomics | Active [^12] |
-| Atlas | — | ~2023 | Mental health | Active [^12] |
-| Pilgrim Labs | — | ~2024 | Defense/biotech | Active [^12] |
-| TBC | — | ~2024 | Biological computing | Active [^12] |
+| Orchid | Seed | 2021 | Biotech/genomics | Active [^39] |
+| Atlas | Seed | ~2023 | Mental health | Active [^12] |
+| Pilgrim Labs | Seed | ~2024 | Defense/biotech | Active [^12] |
+| TBC | Seed | ~2024 | Biological computing | Active [^12] |
 
-*Note: Years marked with "~" are estimates based on company founding dates or fund deployment timelines, not confirmed investment dates. Entries without a confirmed round type reflect seed-stage investments consistent with the firm's strategy. This table represents approximately half of Refactor's 100+ total investments. Coinbase and Headspace investment rounds could not be independently confirmed and may have been made through SPVs or secondary transactions.*
+*Note: Years marked with "~" are estimates based on company founding dates or fund deployment timelines, not confirmed investment dates. Most entries without independent round confirmation are labeled "Seed" consistent with the firm's stated strategy of leading seed rounds. This table represents approximately half of Refactor's 100+ total investments. Coinbase and Headspace investment rounds could not be independently confirmed and may have been made through SPVs or secondary transactions.*
 
 ## In Their Own Words
 
@@ -177,3 +177,22 @@ No independently sourced founder testimonials found. Refactor Capital's website 
 [^18]: Globenewswire, "Clover Health Raises $160 Million Series C Funding Round," May 23, 2016. https://www.globenewswire.com/en/news-release/2016/05/23/1422539/0/en/Clover-Health-Raises-160-Million-Series-C-Funding-Round.html
 [^19]: Crunchbase, "Seed Round - Hexium - 2024-07-24," accessed March 2026. https://www.crunchbase.com/funding_round/hexium-seed--2de905ea
 [^20]: Alejandro Cremades, "Zal Bilimoria On Creating A $225 Million AUM Venture Firm To Support Startups Developing Technologies That Enhance Planetary And Human Health," accessed March 2026. https://alejandrocremades.com/zal-bilimoria/
+[^21]: PR Newswire, "Checkerspot Closes $5 Million Series Seed Financing," June 2018. https://www.prnewswire.com/news-releases/checkerspot-closes-5-million-series-seed-financing-300669130.html
+[^22]: PR Newswire, "Lucy Closes $10 Million in Series A Funding to Create Safer Nicotine Products," February 2020. https://www.prnewswire.com/news-releases/lucy-closes-10-million-in-series-a-funding-to-create-safer-nicotine-products-301010029.html
+[^23]: PR Newswire, "Knowde Raises $14 Million Series A Led by Sequoia Capital," May 2020. https://www.prnewswire.com/news-releases/knowde-raises-14-million-series-a-led-by-sequoia-capital-to-transform-the-global-marketplace-for-chemicals-and-ingredients-301051071.html
+[^24]: Tracxn, "PathAI - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0/funding-and-investors
+[^25]: Healthcare IT News, "Health Catalyst acquires Able Health for $27 million," February 2020. https://www.healthcareitnews.com/news/health-catalyst-acquires-able-health-27-million
+[^26]: Crunchbase, "Gencove Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/gencove-2
+[^27]: TechCrunch, "Loyal raises $27M, aims to give dog owners more time with their pets," September 23, 2021. https://techcrunch.com/2021/09/23/loyal-raises-27m-aims-to-give-dog-owners-more-time-with-their-pets/
+[^28]: BusinessWire, "Octant Launches Polypharmacology Drug Discovery Engine with $30 Million Series A Financing Led by Andreessen Horowitz," May 20, 2020. https://www.businesswire.com/news/home/20200520005182/en/Octant-Launches-Polypharmacology-Drug-Discovery-Engine-for-Complex-Diseases-with-%2430-Million-Series-A-Financing-Led-by-Andreessen-Horowitz
+[^29]: Crunchbase, "YourChoice Therapeutics Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/yourchoice-therapeutics
+[^30]: Crunchbase, "PicnicHealth Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/picnichealth
+[^31]: GlobeNewsWire, "Ophelia Raises $15 million Series A to Expand Access to Treatment for Opioid Addiction," April 22, 2021. https://www.globenewswire.com/news-release/2021/04/22/2214941/0/en/Ophelia-Raises-15-million-Series-A-to-Expand-Access-to-Treatment-for-Opioid-Addiction.html
+[^32]: Crunchbase, "AKASA Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/alpha-health
+[^33]: Tracxn, "Curative - Company Profile, Funding & Investors," accessed April 2026. https://tracxn.com/d/companies/curative/__gYesQP9GJdYy-im0b2y9PL6BTH-tEddxLJmGrjuztkk
+[^34]: AlleyWatch, "Floodbase Raises $12M to Provide Insurers and Governments with Flood Risk Data in Real Time," February 2023. https://www.alleywatch.com/2023/02/floodbase-climate-adaption-platform-real-time-flood-data-analysis-insurers-parametric-insurance-bessie-schwarz/
+[^35]: Beauty Independent, "Seaweed Extract Supplier Macro Oceans Raises $7.5M In Seed Funding," October 2024. https://www.beautyindependent.com/extract-supplier-macro-oceans-seed-funding-acquires-everything-seaweed/
+[^36]: Crunchbase, "Aether Diamonds Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/aether-diamonds
+[^37]: Crunchbase, "Berkeley Yeast Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/berkeley-brewing-science
+[^38]: Crunchbase, "BioRender Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/biorender-inc
+[^39]: Crunchbase News, "Orchid Blooms With $4.5M Seed For Preconception Test To Determine Genetic Risks," April 2021. https://news.crunchbase.com/health-wellness-biotech/orchid-blooms-with-4-5m-seed-for-preconception-test-to-determine-genetic-risks/

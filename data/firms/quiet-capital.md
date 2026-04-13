@@ -95,57 +95,57 @@ The following is a partial list of verified portfolio companies. Quiet Capital's
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Mach9 | Seed | 2024 | AI / Geospatial | Geo Week News [^24] |
-| Standard Bots | — | ~2024 | Robotics | Fortune [^12] |
+| Standard Bots | Series B | 2024 | Robotics | GlobeNewsWire [^26] |
 | The Bot Company | — | ~2024 | Robotics | Fortune [^12] |
 | Airhouse | Pre-Seed | 2018 | Logistics | Signal by NFX [^25] |
 | Mirror Emoji Keyboard | Venture | 2017 | Consumer | Signal by NFX [^25] |
 | Color | Series A | 2015 | Healthcare | Signal by NFX [^25] |
 | Reddit | Series C | ~2014 | Consumer / Social | Crunchbase News [^22] |
-~unknown| ElevenLabs | — | — | AI / Voice | Quiet Capital website [^1] |
-~unknown| OpenAI | — | — | AI | Quiet Capital website [^1] |
-~unknown| Sanas | — | — | AI / Voice | Quiet Capital website [^1] |
-~unknown| Mercury | — | — | Fintech | Quiet Capital website [^1] |
-~unknown| Modern Treasury | — | — | Fintech | Quiet Capital website [^1] |
-~unknown| Rippling | — | — | Enterprise / HR | Quiet Capital website [^1] |
-~unknown| Gusto | — | — | Enterprise / HR | Quiet Capital website [^1] |
-~unknown| Cruise | — | — | Robotics / AV | Quiet Capital website [^1] |
-~unknown| Verkada | — | — | Enterprise / Security | Quiet Capital website [^1] |
-~unknown| Instacart | — | — | Consumer / Marketplace | VCSheet [^2] |
-~unknown| Epic Games | — | — | Consumer / Gaming | VCSheet [^2] |
-~unknown| DuckDuckGo | — | — | Consumer / Privacy | Quiet Capital website [^1] |
-~unknown| Substack | — | — | Consumer / Media | Quiet Capital website [^1] |
-~unknown| MoonPay | — | — | Crypto / Fintech | Quiet Capital website [^1] |
-~unknown| MasterClass | — | — | Consumer / Education | Fortune [^12] |
-~unknown| Airbnb | — | — | Consumer / Marketplace | Quiet Capital website [^1] |
-~unknown| Uber | — | — | Consumer / Marketplace | Quiet Capital website [^1] |
-~unknown| SpaceX | — | — | Deeptech / Aerospace | Quiet Capital website [^1] |
-~unknown| xAI | — | — | AI | Quiet Capital website [^1] |
-~unknown| Anduril | — | — | Defense / Deeptech | Quiet Capital website [^1] |
-~unknown| Databricks | — | — | AI / Data | Quiet Capital website [^1] |
-~unknown| Cognition | — | — | AI / Developer Tools | Quiet Capital website [^1] |
-~unknown| Perplexity AI | — | — | AI / Search | Quiet Capital website [^1] |
-~unknown| Deel | — | — | Enterprise / HR | Quiet Capital website [^1] |
-~unknown| Retool | — | — | Enterprise / Developer Tools | Quiet Capital website [^1] |
-~unknown| Robinhood | — | — | Fintech | Quiet Capital website [^1] |
-~unknown| Flexport | — | — | Logistics | Quiet Capital website [^1] |
-~unknown| Patreon | — | — | Consumer / Creator | Quiet Capital website [^1] |
-~unknown| Turo | — | — | Consumer / Marketplace | Quiet Capital website [^1] |
-~unknown| ClassDojo | — | — | Consumer / Education | VCSheet [^2] |
-~unknown| Polymarket | — | — | Crypto / Prediction | Quiet Capital website [^1] |
-~unknown| Superhuman | — | — | Enterprise / Productivity | Quiet Capital website [^1] |
-~unknown| Chainalysis | — | — | Crypto / Analytics | Quiet Capital website [^1] |
-~unknown| Commonwealth Fusion | — | — | Deeptech / Energy | Quiet Capital website [^1] |
-~unknown| Solugen | — | — | Deeptech / Climate | Quiet Capital website [^1] |
-~unknown| Built Robotics | — | — | Robotics / Construction | Quiet Capital website [^1] |
-~unknown| Ro | — | — | Healthcare / Telehealth | Quiet Capital website [^1] |
-~unknown| One Medical | — | — | Healthcare | Quiet Capital website [^1] |
-~unknown| Headspace | — | — | Healthcare / Mental Health | Quiet Capital website [^1] |
-~unknown| Clover Health | — | — | Healthcare / Insurtech | Quiet Capital website [^1] |
-~unknown| Opendoor | — | — | Fintech / Real Estate | Quiet Capital website [^1] |
-~unknown| Looker | — | — | Enterprise / Data | Quiet Capital website [^1] |
-~unknown| EvolutionaryScale | — | — | AI / Biotech | Quiet Capital website [^1] |
-~unknown| Saronic Technologies | — | — | Defense / Robotics | Quiet Capital website [^1] |
-~unknown| Castelion | — | — | Defense | Quiet Capital website [^1] |
+| ElevenLabs | Series B | 2024 | AI / Voice | Wikipedia [^27] |
+| OpenAI | — | — | AI | Quiet Capital website [^1] |
+| Sanas | — | — | AI / Voice | Quiet Capital website [^1] |
+| Mercury | — | — | Fintech | Quiet Capital website [^1] |
+| Modern Treasury | — | — | Fintech | Quiet Capital website [^1] |
+| Rippling | — | — | Enterprise / HR | Quiet Capital website [^1] |
+| Gusto | — | — | Enterprise / HR | Quiet Capital website [^1] |
+| Cruise | — | — | Robotics / AV | Quiet Capital website [^1] |
+| Verkada | — | — | Enterprise / Security | Quiet Capital website [^1] |
+| Instacart | — | — | Consumer / Marketplace | VCSheet [^2] |
+| Epic Games | — | — | Consumer / Gaming | VCSheet [^2] |
+| DuckDuckGo | — | — | Consumer / Privacy | Quiet Capital website [^1] |
+| Substack | — | — | Consumer / Media | Quiet Capital website [^1] |
+| MoonPay | — | — | Crypto / Fintech | Quiet Capital website [^1] |
+| MasterClass | — | — | Consumer / Education | Fortune [^12] |
+| Airbnb | — | — | Consumer / Marketplace | Quiet Capital website [^1] |
+| Uber | — | — | Consumer / Marketplace | Quiet Capital website [^1] |
+| SpaceX | — | — | Deeptech / Aerospace | Quiet Capital website [^1] |
+| xAI | — | — | AI | Quiet Capital website [^1] |
+| Anduril | — | — | Defense / Deeptech | Quiet Capital website [^1] |
+| Databricks | — | — | AI / Data | Quiet Capital website [^1] |
+| Cognition | — | — | AI / Developer Tools | Quiet Capital website [^1] |
+| Perplexity AI | — | — | AI / Search | Quiet Capital website [^1] |
+| Deel | — | — | Enterprise / HR | Quiet Capital website [^1] |
+| Retool | — | — | Enterprise / Developer Tools | Quiet Capital website [^1] |
+| Robinhood | — | — | Fintech | Quiet Capital website [^1] |
+| Flexport | — | — | Logistics | Quiet Capital website [^1] |
+| Patreon | — | — | Consumer / Creator | Quiet Capital website [^1] |
+| Turo | — | — | Consumer / Marketplace | Quiet Capital website [^1] |
+| ClassDojo | — | — | Consumer / Education | VCSheet [^2] |
+| Polymarket | — | — | Crypto / Prediction | Quiet Capital website [^1] |
+| Superhuman | — | — | Enterprise / Productivity | Quiet Capital website [^1] |
+| Chainalysis | — | — | Crypto / Analytics | Quiet Capital website [^1] |
+| Commonwealth Fusion | — | — | Deeptech / Energy | Quiet Capital website [^1] |
+| Solugen | — | — | Deeptech / Climate | Quiet Capital website [^1] |
+| Built Robotics | — | — | Robotics / Construction | Quiet Capital website [^1] |
+| Ro | — | — | Healthcare / Telehealth | Quiet Capital website [^1] |
+| One Medical | — | — | Healthcare | Quiet Capital website [^1] |
+| Headspace | — | — | Healthcare / Mental Health | Quiet Capital website [^1] |
+| Clover Health | — | — | Healthcare / Insurtech | Quiet Capital website [^1] |
+| Opendoor | — | — | Fintech / Real Estate | Quiet Capital website [^1] |
+| Looker | — | — | Enterprise / Data | Quiet Capital website [^1] |
+| EvolutionaryScale | — | — | AI / Biotech | Quiet Capital website [^1] |
+| Saronic Technologies | — | — | Defense / Robotics | Quiet Capital website [^1] |
+| Castelion | — | — | Defense | Quiet Capital website [^1] |
 
 *Note: This table represents approximately 50 of 262 companies listed on Quiet Capital's portfolio page. Most entries lack specific investment year and stage because the firm's website and public sources do not attribute precise dates to individual investments. Only 4 investments have independently verified years and stages from press or regulatory sources.*
 
@@ -192,3 +192,5 @@ No independently sourced founder testimonials found. Quiet Capital maintains a d
 [^23]: SEC Form D, Quiet Crypto GP, LLC, 2022. https://www.sec.gov/Archives/edgar/data/1929152/000192915222000001/xslFormDX01/primary_doc.xml
 [^24]: Geo Week News, "Mach9 Raises $12 Million Led by Quiet Capital to Scale AI-Powered Geospatial Mapping Solutions," November 15, 2024. https://www.geoweeknews.com/news/mach9-raises-12-million-led-by-quiet-capital-to-scale-ai-powered-geospatial-mapping-solutions
 [^25]: Signal by NFX, "Lee Linden's Investing Profile," accessed April 2026. https://signal.nfx.com/investors/lee-linden
+[^26]: GlobeNewsWire, "Standard Bots Secures $63M in Funding to Propel American Manufacturing Forward with AI-Driven Robotics," July 12, 2024. https://www.globenewswire.com/news-release/2024/07/12/2912514/0/en/Standard-Bots-Secures-63M-in-Funding-to-Propel-American-Manufacturing-Forward-with-AI-Driven-Robotics.html
+[^27]: Wikipedia, "ElevenLabs," accessed April 2026. https://en.wikipedia.org/wiki/ElevenLabs

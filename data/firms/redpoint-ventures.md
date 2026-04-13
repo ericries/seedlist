@@ -108,21 +108,21 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Stripe | Series A | 2012 | Fintech/Payments | Active | [^3] |
-| Nubank | Series A | 2014 | Fintech | Public | [^2] |
-| Snowflake | Series A | 2014 | Data/Cloud | Public (IPO 2020) | [^3] |
-| Twilio | Series A | 2009 | Cloud communications | Public (IPO 2016) | [^3] |
-| HashiCorp | Series A | 2014 | Infrastructure software | Acquired (IBM, $6.4B) | [^3] |
-| Netflix | Early | 2000 | Streaming/Media | Public | [^1][^3] |
-| Zendesk | Series A | 2009 | Customer support SaaS | Public (acquired 2022) | [^3] |
-| Looker | Series A | 2013 | Business intelligence | Acquired (Google, $2.6B) | [^3] |
-| DraftKings | Growth | 2017 | Sports betting | Public | [^2] |
-| Ramp | Series A | 2020 | Fintech/Expense management | Active | [^3] |
-| Nextdoor | Series A | 2012 | Social/Community | Public (SPAC 2021) | [^3] |
-| Hims & Hers | Growth | 2018 | Healthcare/DTC | Public | [^3] |
-| Next Insurance | Series A | 2016 | Insurtech | Acquired ($2.6B) | [^3] |
-| Poolside | Series A | 2024 | AI | Active | [^4] |
-| Legora | Series D | 2026 | AI/Legal Tech | Active | [^8] |
+| Stripe | Series B | 2012 | Fintech/Payments | Active | TechCrunch [^3] |
+| Nubank | Series A | 2014 | Fintech | Public | Tracxn [^2] |
+| Snowflake | Series A | 2014 | Data/Cloud | Public (IPO 2020) | Sparkco [^3] |
+| Twilio | Series A | 2009 | Cloud communications | Public (IPO 2016) | Sparkco [^3] |
+| HashiCorp | Series A | 2014 | Infrastructure software | Acquired (IBM, $6.4B) | Sparkco [^3] |
+| Netflix | Early | 2000 | Streaming/Media | Public | Wikipedia [^1], Sparkco [^3] |
+| Zendesk | Series A | 2009 | Customer support SaaS | Public (acquired 2022) | Sparkco [^3] |
+| Looker | Series A | 2013 | Business intelligence | Acquired (Google, $2.6B) | Sparkco [^3] |
+| DraftKings | Growth | 2017 | Sports betting | Public | Tracxn [^2] |
+| Ramp | Series A | 2020 | Fintech/Expense management | Active | Sparkco [^3] |
+| Nextdoor | Series A | 2012 | Social/Community | Public (SPAC 2021) | Sparkco [^3] |
+| Hims & Hers | Growth | 2018 | Healthcare/DTC | Public | Sparkco [^3] |
+| Next Insurance | Series A | 2016 | Insurtech | Acquired ($2.6B) | Sparkco [^3] |
+| Poolside | Series A | 2024 | AI | Active | TechCrunch [^4] |
+| Legora | Series D | 2026 | AI/Legal Tech | Active | TechCrunch [^8] |
 
 *This table represents a small fraction of Redpoint's 615+ portfolio companies [^3]. Years are approximate based on publicly available data.*
 
