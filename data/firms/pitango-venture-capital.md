@@ -100,41 +100,41 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | DriveNets | Series A | 2018 | Cloud & Infrastructure | [^17] |
-| Via | Growth | 2012 | Mobility & Smart City | [^15] |
-| Tomorrow.io | Growth | 2016 | Climatech | [^15] |
+| Via | Series B | 2015 | Mobility & Smart City | [^15] [^49] |
+| Tomorrow.io | Growth | 2018 | Climatech | [^15] |
 | AI21 Labs | Seed | 2017 | Generative AI | [^18] |
 | AppsFlyer | Series A | 2014 | Sales & Marketing | [^19] |
-| Riskified | Early | 2013 | Fintech & InsureTech | [^15] |
-| Taboola | Early | 2007 | Media & Gaming | [^15] |
-| Varonis | Early | 2005 | Cyber Security | [^15] |
-| ForeScout | Early | 2001 | Cyber Security | [^15] |
-| PsiQuantum | Growth | 2016 | Quantum Computing | [^15] |
+| Riskified | Series C | 2017 | Fintech & InsureTech | [^15] [^23] |
+| Taboola | Series D | 2013 | Media & Gaming | [^15] [^24] |
+| Varonis | Series A | 2006 | Cyber Security | [^15] [^25] |
+| ForeScout | Series B | 2001 | Cyber Security | [^15] [^26] |
+| PsiQuantum | Growth | 2019 | Quantum Computing | [^15] |
 | Quantum Source | Seed | 2021 | Quantum Computing | [^15] |
 | AAI Technologies | Seed | 2024 | Generative AI | [^7] |
 | Finout | Seed | 2021 | Cloud & Infrastructure | [^15] |
-| Frontegg | Early | 2019 | DevOps | [^15] |
-| Komodor | Early | 2020 | DevOps | [^15] |
+| Frontegg | Seed | 2020 | DevOps | [^15] [^27] |
+| Komodor | Seed | 2020 | DevOps | [^15] [^28] |
 | D-ID | Seed | 2017 | Generative AI | [^20] |
-| Optibus | Growth | 2014 | Mobility & Smart City | [^15] |
+| Optibus | Series A | 2017 | Mobility & Smart City | [^15] [^29] |
 | QuantHealth | Seed | 2021 | Digital Health | [^14] |
-| Variantyx | Early | 2015 | Medical Devices | [^15] |
-| Masterschool | Growth | 2019 | EdTech | [^15] |
-| Logz.io | Early | 2015 | DevOps | [^15] |
+| Variantyx | Series A | 2019 | Medical Devices | [^15] [^30] |
+| Masterschool | Seed | 2022 | EdTech | [^15] [^31] |
+| Logz.io | Series E | 2020 | DevOps | [^15] [^32] |
 | Swimm | Seed | 2019 | DevOps | [^15] |
-| Mend | Early | 2017 | DevOps | [^15] |
-| Tulip Interfaces | Growth | 2014 | Industry 4.0 | [^15] |
+| Mend | Series D | 2021 | DevOps | [^15] [^33] |
+| Tulip Interfaces | Series A | 2017 | Industry 4.0 | [^15] |
 | Laguna Health | Seed | 2020 | Digital Health | [^15] |
-| Visby Medical | Early | 2012 | Medical Devices | [^15] |
+| Visby Medical | Series E | 2022 | Medical Devices | [^15] [^34] |
 | PayEm | Seed | 2019 | Fintech & InsureTech | [^15] |
-| Foursquare | Growth | 2009 | Mobility & Smart City | [^15] |
-| Totango | Early | 2010 | Sales & Marketing | [^15] |
-| LiveU | Early | 2006 | Media & Gaming | [^15] |
-| Aquant | Early | 2016 | Industry 4.0 | [^15] |
-| Lumen | Early | 2017 | Digital Health | [^15] |
+| Foursquare | Growth | 2013 | Mobility & Smart City | [^15] [^35] |
+| Totango | Series A | 2011 | Sales & Marketing | [^15] [^36] |
+| LiveU | Series C | 2010 | Media & Gaming | [^15] [^37] |
+| Aquant | Series C | 2021 | Industry 4.0 | [^15] [^38] |
+| Lumen | Series B | 2022 | Digital Health | [^15] [^39] |
 | Armo | Seed | 2021 | Cyber Security | [^15] |
 | Perception Point | Seed | 2015 | Cyber Security | [^15] |
-| Duda | Early | 2010 | Retail & e-Commerce | [^15] |
-| Stream Elements | Early | 2016 | Media & Gaming | [^15] |
+| Duda | Series A | 2013 | Retail & e-Commerce | [^15] [^40] |
+| Stream Elements | Series A | 2019 | Media & Gaming | [^15] [^41] |
 | Medisafe | Seed | 2012 | Digital Health | [^15] |
 | Connie Health | Seed | 2020 | Digital Health | [^15] |
 | Teza | Seed | 2021 | Fintech & InsureTech | [^15] |
@@ -145,25 +145,25 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Speedata | Seed | 2019 | Cloud & Infrastructure | [^15] |
 | Protai | Seed | 2019 | BioConvergence | [^15] |
 | Altesa Biosciences | Seed | 2024 | BioConvergence | [^15] |
-| Surge Therapeutics | Early | 2023 | BioConvergence | [^15] |
-| Restore Medical | Early | 2019 | Medical Devices | [^15] |
-| Magenta Medical | Early | 2013 | Medical Devices | [^21] |
-| Formlabs | Growth | 2011 | Industry 4.0 | [^15] |
-| Zerto | Early | 2009 | Cloud & Infrastructure | [^15] |
-| Radware | Early | 1997 | Cyber Security | [^15] |
-| AudioCodes | Early | 1993 | Telecommunications | [^15] |
+| Surge Therapeutics | Early Stage | 2023 | BioConvergence | [^15] |
+| Restore Medical | Early Stage | 2019 | Medical Devices | [^15] |
+| Magenta Medical | Seed | 2012 | Medical Devices | [^21] [^42] |
+| Formlabs | Series A | 2013 | Industry 4.0 | [^15] [^43] |
+| Zerto | Series E | 2020 | Cloud & Infrastructure | [^15] [^44] |
+| Radware | Early Stage | 1997 | Cyber Security | [^15] |
+| AudioCodes | Early Stage | 1993 | Telecommunications | [^15] |
 | CyberMDX | Seed | 2017 | Cyber Security | [^2] |
-| Celeno Communications | Early | 2005 | Semiconductors | [^2] |
-| Anobit | Early | 2006 | Storage Technology | [^15] |
-| Graphcore | Growth | 2016 | Generative AI | [^15] |
+| Celeno Communications | Early Stage | 2005 | Semiconductors | [^2] |
+| Anobit | Series A | 2007 | Storage Technology | [^15] [^45] |
+| Graphcore | Series B | 2017 | AI Chips | [^15] [^46] |
 | Adaptive6 | Series A | 2026 | Software | [^6] |
-| Borderfree | Early | 2005 | Retail & e-Commerce | [^15] |
-| Jinko Solar | Early | 2007 | Climatech | [^15] |
-| Retalix | Early | 1998 | Retail & e-Commerce | [^15] |
-| TScan Therapeutics | Early | 2018 | BioConvergence | [^15] |
-| Rocket Pharmaceuticals | Early | 2015 | BioConvergence | [^15] |
-| Vascular Biogenics | Early | 2003 | Medical Devices | [^15] |
-| WorkLight | Early | 2007 | Mobile Development | [^15] |
+| Borderfree | Series B | 2012 | Retail & e-Commerce | [^15] [^47] |
+| Jinko Solar | Early Stage | 2007 | Climatech | [^15] |
+| Retalix | Early Stage | 1998 | Retail & e-Commerce | [^15] |
+| TScan Therapeutics | Early Stage | 2018 | BioConvergence | [^15] |
+| Rocket Pharmaceuticals | Early Stage | 2015 | BioConvergence | [^15] |
+| Vascular Biogenics | Early Stage | 2003 | Medical Devices | [^15] |
+| WorkLight | Series B | 2008 | Mobile Development | [^15] [^48] |
 | Timeful | Seed | 2012 | Productivity Software | [^15] |
 | SalesPredict | Seed | 2012 | Sales & Marketing | [^15] |
 
@@ -229,3 +229,30 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^20]: PR Newswire, "D-ID, a Y Combinator Alumni, Raises a $4 Million Seed Round Led by Pitango Venture Capital," 2017, accessed April 2026. https://www.prnewswire.com/news-releases/d-id-a-y-combinator-alumni-raises-a-4-million-seed-round-led-by-pitango-venture-capital-300585770.html
 [^21]: Pitango website, "Founder Story: David Israeli, CEO at Magenta Medical," accessed April 2026. https://www.pitango.com/resources/founder-story-david-israeli-ceo-at-magenta-medical/
 [^22]: Knowledge at Wharton, "Venture Capitalist Chemi Peres: Building a Vehicle to Finance Entrepreneurial Dreams," accessed April 2026. https://knowledge.wharton.upenn.edu/article/venture-capitalist-chemi-peres-building-a-vehicle-to-finance-entrepreneurial-dreams/
+[^23]: PR Newswire, "Riskified Announces $33 Million Growth Round Funding Led By Pitango Growth," June 2017, accessed April 2026. https://www.prnewswire.com/news-releases/riskified-announces-33-million-growth-round-funding-led-by-pitango-growth-with-participation-from-capital-one-growth-ventures-groupe-arnault-and-c4-ventures-631087093.html
+[^24]: TechCrunch, "With More Than 1.5B Recommendations Daily, Taboola Raises $15M More To Fund International Expansion," February 2013, accessed April 2026. https://techcrunch.com/2013/02/19/taboola-15m-more/
+[^25]: Tracxn, "Varonis - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/varonis/__QKuhBsY-musKEHpbEwCed0afnBmki9TUC6NN6ofieww/funding-and-investors
+[^26]: Tracxn, "Forescout - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/forescout/__l4_2WhRL36RGHf-9X4ojZOFBzJViuc1E8N5dtYmgicc/funding-and-investors
+[^27]: PR Newswire, "Frontegg Announces $5M Seed Round," October 2020, accessed April 2026. https://www.prnewswire.com/news-releases/frontegg-announces-5m-seed-round-for-first-of-its-kind-saas-as-a-service-platform-aimed-at-accelerating-global-saas-innovation-301152022.html
+[^28]: Calcalist/CTech, "Kubernetes troubleshooting platform Komodor comes out of stealth with $21 million Series A," June 2021, accessed April 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3909658,00.html
+[^29]: Calcalist/CTech, "Verizon Backs Public Transit Software Startup Optibus," November 2017, accessed April 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3724510,00.html
+[^30]: Crunchbase, "Variantyx - Series A Funding Round," accessed April 2026. https://www.crunchbase.com/funding_round/variantyx-series-a--9ed50c5f
+[^31]: TechCrunch, "Masterschool raises $100M seed round for its network of coding schools," May 2022, accessed April 2026. https://techcrunch.com/2022/05/18/masterschool-raises-100m-seed-round-for-its-network-of-coding-schools/
+[^32]: Business Wire, "Logz.io Announces $23 Million Funding Round," November 2020, accessed April 2026. https://www.businesswire.com/news/home/20201124005644/en/Logz.io-Announces-$23-Million-Funding-Round
+[^33]: PR Newswire, "WhiteSource Raises $75M to Continue Realizing Its Prevention-Centric Product Vision," April 2021, accessed April 2026. https://www.prnewswire.com/news-releases/whitesource-raises-75m-to-continue-realizing-its-prevention-centric-product-vision-301263904.html
+[^34]: Tracxn, "Visby Medical - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/visby-medical/__7FXn3XGoA8FtbG1aIBC6NwffGQRzNiEv8mekb0OKK5M/funding-and-investors
+[^35]: Haaretz, "TechNation: Israel's Pitango invests in Foursquare," accessed April 2026. https://www.haaretz.com/israel-news/business/technation-israel-s-pitango-invests-in-foursquare-1.5453327
+[^36]: Tracxn, "Totango - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/totango/__OKThHtIHXJT-pmGZKsxQToKqhlkumK00rdfETIFBSDs/funding-and-investors
+[^37]: VC Cafe, "LiveU Raises $11 Million from Pitango in its Third Round," November 2010, accessed April 2026. https://www.vccafe.com/2010/11/02/liveu-raises-11-million-from-pitango-in-its-third-round/
+[^38]: Calcalist/CTech, "Aquant announces $70 million Series C led by Qumra Capital, Insight Partners and Pitango Growth," October 2021, accessed April 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3919148,00.html
+[^39]: TechCrunch, "Lumen raises $62M for its handheld weight loss hardware," December 2022, accessed April 2026. https://techcrunch.com/2022/12/01/lumen-raises-62m-for-its-handheld-weight-loss-hardware/
+[^40]: Tracxn, "Duda - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/duda/__TmsWWkryELKkTps35f1V7Mr0bI0uZLW3glu6rrFWK2w/funding-and-investors
+[^41]: FinSMEs, "StreamElements Raises $11.3M in Series A Funding," January 2019, accessed April 2026. https://www.finsmes.com/2019/01/streamelements-raises-11-3m-in-series-a-funding.html
+[^42]: PR Newswire, "Magenta Medical Secures $4 Million in Seed Round from Pitango Venture Capital," December 2012, accessed April 2026. https://www.prnewswire.com/news-releases/magenta-medical-developer-of-novel-heart-failure-therapy-secures-4-million-in-seed-round-from-pitango-venture-capital-181814261.html
+[^43]: Tracxn, "Formlabs - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/formlabs/__skAheLkBbKtJGD6MP0VR8Lu0ewzi30zrPhx99HYDXlk/funding-and-investors
+[^44]: Tracxn, "Zerto - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/zerto/__M-If_cFlLtGnF8UXxbR2oy4ANcJ0DPD_k1xJQ0rbm94
+[^45]: Crunchbase, "Anobit Technologies - Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/anobit-technologies
+[^46]: Graphcore, "Graphcore secures $30m in funding to accelerate AI," June 2017, accessed April 2026. https://www.graphcore.ai/posts/graphcore-secures-30m-in-funding-to-accelerate-ai
+[^47]: Tracxn, "Borderfree - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/borderfree/__Tr5RSHvsLZHjx-sF7ZrMB4LX9nbXgYsTftEIpbTFnd4
+[^48]: TechCrunch, "IBM Buys HTML5 App Development Company WorkLight For $70M," January 2012, accessed April 2026. https://techcrunch.com/2012/01/31/ibm-buys-html5-app-development-company-worklight-to-expand-mobile-enterprise-services/
+[^49]: Tracxn, "Via - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/via/__uWA28hf4xS_-93FRIx__4akCNox6LKn3KFlCsnXnBtc/funding-and-investors

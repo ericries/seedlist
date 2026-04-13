@@ -92,46 +92,46 @@ Based on 42 verified investments across Funds I and II:
 | ThinkLabs AI | Seed | 2024 | Grid AI/orchestration | [^15] |
 | CVector | Seed | 2026 | Industrial controls/AI | [^10] |
 | CapeZero | Seed | 2025 | Renewable energy finance | [^16] |
-| Presto | Seed | ~2023 | Fleet EV charging | [^9] |
-| AZX | Pre-Seed | ~2023 | AI for utilities | [^9] |
-| SHAED | Seed | ~2022 | Commercial EV procurement | [^9] |
-| Rock Rabbit | Seed | ~2022 | Home energy incentives | [^9] |
+| Presto | Seed | 2023 | Fleet EV charging | [^9] |
+| AZX | Pre-Seed | 2023 | AI for utilities | [^9] |
+| SHAED | Seed | 2022 | Commercial EV procurement | [^9] |
+| Rock Rabbit | Seed | 2022 | Home energy incentives | [^9] |
 | Carbon Collective | Seed | 2022 | Climate-forward investing | [^9] |
 | RenewaFi | Seed | 2022 | Renewable energy marketplace | [^9] |
 | Finite | Seed | 2022 | Sustainable infrastructure finance | [^9] |
 | Zeti | Seed | 2022 | EV fleet financing | [^9] |
-| Sesame Sustainability | Seed | ~2022 | Industrial decarbonization analysis | [^9] |
-| Heron Power | Pre-Seed | ~2021 | Solid-state transformers/software | [^9] |
+| Sesame Sustainability | Seed | 2022 | Industrial decarbonization analysis | [^9] |
+| Heron Power | Pre-Seed | 2021 | Solid-state transformers/software | [^9] |
 | Dollaride | Pre-Seed | 2021 | Informal transit digitization | [^9] |
 | Nithio | Series A | 2021 | Off-grid energy financing (Africa) | [^9] |
 | Solstice | Seed | 2021 | Community solar | [^13] |
-| Specifx Data | Seed | ~2021 | HVAC data/insights | [^9] |
+| Specifx Data | Seed | 2021 | HVAC data/insights | [^9] |
 | Pearl Street Technologies | Pre-Seed | 2021 | Grid modeling/simulation (acquired) | [^9] |
-| Recurrent | Seed | 2020 | Used EV battery reports | [^9] |
+| Recurrent | Seed | 2020 | Used EV battery reports | [^9] [^19] |
 | Amperon | Seed | 2020 | Grid intelligence AI | [^11] |
 | Overstory | Seed | 2020 | Vegetation risk monitoring | [^12] |
-| Audette | Seed | ~2020 | Building decarbonization assessment | [^9] |
-| Axiom Cloud | Seed | ~2020 | Commercial refrigeration AI | [^9] |
-| Granular Energy | Seed | ~2020 | 24/7 clean energy credits | [^9] |
+| Audette | Seed | 2020 | Building decarbonization assessment | [^9] |
+| Axiom Cloud | Seed | 2020 | Commercial refrigeration AI | [^9] |
+| Granular Energy | Seed | 2020 | 24/7 clean energy credits | [^9] |
 | Terabase | Seed | 2019 | Utility-scale solar automation | [^14] |
 | AmpUp | Seed | 2019 | EV charging platform | [^9] |
-| Raptor Maps | Seed | ~2019 | Solar asset management | [^17] |
-| Sust Global | Seed | ~2019 | Climate risk data | [^9] |
-| Salient Predictions | Seed | ~2019 | Weather forecasting ML | [^9] |
-| Ensemble Energy | Seed | ~2019 | Wind asset operations (acquired) | [^9] |
-| BattGenie | Seed | ~2020 | Battery optimization | [^9] |
+| Raptor Maps | Seed | 2019 | Solar asset management | [^17] [^20] |
+| Sust Global | Seed | 2019 | Climate risk data | [^9] |
+| Salient Predictions | Seed | 2022 | Weather forecasting ML | [^9] [^21] |
+| Ensemble Energy | Seed | 2019 | Wind asset operations (acquired) | [^9] |
+| BattGenie | Seed | 2022 | Battery optimization | [^9] [^22] |
 | Leap | Seed | 2018 | Distributed energy exchange | [^9] |
 | Station A | Pre-Seed | 2018 | Clean energy marketplace | [^9] |
 | SHYFT Power Solutions | Pre-Seed | 2018 | Distributed energy management (acquired) | [^9] |
-| Energetic Capital | Seed | ~2018 | Clean energy insurance | [^9] |
-| WattBuy | Seed | ~2018 | Clean electricity access (acquired) | [^9] |
-| SparkMeter | Seed | ~2018 | Smart meters/microgrids (acquired) | [^9] |
-| Class 3 Technologies | Seed | ~2021 | Climate resilience recommendations | [^9] |
-| The Adaptis | Seed | ~2022 | Multifamily building design | [^9] |
-| Copia | Seed | ~2018 | Goods donation/waste tracking | [^9] |
-| Stealth (Critical Minerals) | Seed | ~2024 | Critical minerals | [^9] |
+| Energetic Capital | Seed | 2018 | Clean energy insurance | [^9] |
+| WattBuy | Seed | 2018 | Clean electricity access (acquired) | [^9] |
+| SparkMeter | Seed | 2018 | Smart meters/microgrids (acquired) | [^9] |
+| Class 3 Technologies | Seed | 2021 | Climate resilience recommendations | [^9] |
+| The Adaptis | Seed | 2022 | Multifamily building design | [^9] |
+| Copia | Seed | 2023 | Goods donation/waste tracking | [^9] [^23] |
+| Stealth (Critical Minerals) | Seed | 2024 | Critical minerals | [^9] |
 
-*Note: Years marked with ~ are approximate, based on founding year or portfolio announcement timing. Eight companies are listed as acquired on the firm's portfolio page.*
+*Note: Years are based on verified funding round dates where available, or portfolio announcement timing. Eight companies are listed as acquired on the firm's portfolio page.*
 
 ## In Their Own Words
 
@@ -177,3 +177,8 @@ No additional independently sourced founder testimonials found beyond the above.
 [^16]: FinSMEs, "CapeZero Raises $2.6M in Seed Funding," January 2025, accessed April 2026. https://www.finsmes.com/2025/01/capezero-raises-2-6m-in-seed-funding.html
 [^17]: Raptor Maps, "Press Release: Raptor Maps Raises Series A," August 2020, accessed April 2026. https://raptormaps.com/press/press-release-raptor-maps-raises-series-a
 [^18]: Powerhouse Ventures website, accessed April 2026. https://powerhouse-ventures.co/
+[^19]: TechCrunch, "Angling to be the Carfax for EV batteries, Recurrent raises $3.5 million," December 2020, accessed April 2026. https://techcrunch.com/2020/12/08/angling-to-be-the-carfax-for-ev-batteries-recurrent-raises-3-5-million/
+[^20]: Raptor Maps, "Press Release: Raptor Maps Raises Series A," August 2020, accessed April 2026. https://raptormaps.com/press/press-release-raptor-maps-raises-series-a
+[^21]: Salient Predictions, "Salient Predictions Closes $5.4M Seed Round," June 2022, accessed April 2026. https://www.salientpredictions.com/blog/salient-predictions-closes-5-4m-seed-round-to-power-long-range-weather-forecasts-and-analytics-2
+[^22]: GeekWire, "Climate tech startup funding: UW-spinoff BattGenie, Microsoft vet, and weeding robot raise fresh cash," April 2022, accessed April 2026. https://www.geekwire.com/2022/climate-tech-startup-funding-uw-spinoff-battgenie-and-microsoft-vet-raise-fresh-cash/
+[^23]: Crunchbase, "Copia - Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/copia-2

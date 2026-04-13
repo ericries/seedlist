@@ -66,41 +66,41 @@ Based on 15 verified direct portfolio investments from Plexo Capital's website a
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| PlayVS | Series B | 2018 | Gaming/Esports | Active | [^8] |
-| Blavity | Series A | 2018 | Media/Community | Active | [^8] |
-| StyleSeat | Early | ~2018 | Consumer/Beauty Marketplace | Active | [^6] |
-| Wrapbook | Early | ~2019 | Enterprise/Payroll | Active (Unicorn) | [^8] |
-| Replicated | Early | ~2019 | Enterprise/Software Distribution | Active | [^6] |
-| Real Blocks | Early | ~2019 | Fintech/Real Estate | Active | [^6] |
-| iSono Health | Early | ~2019 | Health/Medical Devices | Active | [^6] |
-| Gather | Early | ~2020 | Consumer/Virtual Events | Active | [^6] |
-| ZIPPIN | Early | ~2019 | Retail/Checkout-Free | Active | [^6] |
-| Wonderschool | Early | ~2019 | Education/Childcare | Active | [^6] |
-| Clover | Early | ~2019 | Health/Insurance | Active | [^6] |
-| Mayvenn | Early | ~2018 | Consumer/Beauty | Active | [^6] |
-| Epic Games | Later | ~2020 | Gaming | Active | [^6] |
-| Reddit | Later | ~2020 | Consumer/Social | IPO | [^6] |
-| Arthur | Early | ~2020 | AI/ML Ops | Active | [^6] |
+| PlayVS | Series B | 2018 | Gaming/Esports | Active | [^8] [^9] |
+| Blavity | Series A | 2018 | Media/Community | Active | [^8] [^10] |
+| StyleSeat | Series C | 2019 | Consumer/Beauty Marketplace | Active | [^6] |
+| Wrapbook | Seed | 2020 | Enterprise/Payroll | Active (Unicorn) | [^8] [^11] |
+| Replicated | Series A | 2016 | Enterprise/Software Distribution | Active | [^6] [^12] |
+| Real Blocks | Seed | 2019 | Fintech/Real Estate | Active | [^6] [^13] |
+| iSono Health | Seed | 2019 | Health/Medical Devices | Active | [^6] |
+| Gather | Series A | 2021 | Consumer/Virtual Events | Active | [^6] [^14] |
+| ZIPPIN | Series A | 2019 | Retail/Checkout-Free | Active | [^6] [^15] |
+| Wonderschool | Series A | 2018 | Education/Childcare | Active | [^6] [^16] |
+| Clover | Series A | 2015 | Health/Insurance | IPO | [^6] [^17] |
+| Mayvenn | Series B | 2018 | Consumer/Beauty | Active | [^6] [^18] |
+| Epic Games | Series E | 2020 | Gaming | Active | [^6] |
+| Reddit | Later | 2021 | Consumer/Social | IPO | [^6] |
+| Arthur | Series A | 2020 | AI/ML Ops | Active | [^6] [^19] |
 
 ### Fund Investments (LP Positions)
 
-~unknown| Fund Manager | Focus | Source |
+| Fund Manager | Focus | Source |
 |--------------|-------|--------|
-~unknown| MaC Venture Capital | Seed, diverse founders | [^6] |
-~unknown| Female Founders Fund | Seed, women founders | [^6] |
-~unknown| Precursor Ventures | Pre-seed | [^6] |
-~unknown| Concrete Rose Capital | Seed, diverse founders | [^6] |
-~unknown| Backstage Capital | Seed, underrepresented founders | [^6] |
-~unknown| Harlem Capital | Seed, diverse founders | [^6] |
-~unknown| Golden Ventures | Seed | [^6] |
-~unknown| ULU Ventures | Seed | [^6] |
-~unknown| Work Bench | Enterprise seed | [^6] |
-~unknown| Bold Start Ventures | Enterprise seed | [^6] |
-~unknown| Maven Ventures | Seed, consumer | [^6] |
-~unknown| Ingressive Capital | Africa-focused | [^6] |
-~unknown| Outlander VC | Seed | [^6] |
-~unknown| Preface Ventures | Seed | [^6] |
-~unknown| Bracket Capital | Seed | [^6] |
+| MaC Venture Capital | Seed, diverse founders | [^6] |
+| Female Founders Fund | Seed, women founders | [^6] |
+| Precursor Ventures | Pre-seed | [^6] |
+| Concrete Rose Capital | Seed, diverse founders | [^6] |
+| Backstage Capital | Seed, underrepresented founders | [^6] |
+| Harlem Capital | Seed, diverse founders | [^6] |
+| Golden Ventures | Seed | [^6] |
+| ULU Ventures | Seed | [^6] |
+| Work Bench | Enterprise seed | [^6] |
+| Bold Start Ventures | Enterprise seed | [^6] |
+| Maven Ventures | Seed, consumer | [^6] |
+| Ingressive Capital | Africa-focused | [^6] |
+| Outlander VC | Seed | [^6] |
+| Preface Ventures | Seed | [^6] |
+| Bracket Capital | Seed | [^6] |
 
 This table represents 15 of approximately 21 known direct investments and 15 of 20+ fund LP positions [^8][^6].
 
@@ -128,3 +128,14 @@ No independently sourced founder testimonials found. Plexo Capital's model means
 [^6]: Plexo Capital website, accessed March 2026. https://www.plexocap.com/
 [^7]: GV News, "Plexo's Lo Toney on Diversity and Equity in Venture Capital," accessed March 2026. https://www.gv.com/news/plexo-lo-toney/
 [^8]: Golden.com, "Plexo Capital" wiki page, accessed March 2026. https://golden.com/wiki/Plexo_Capital-XKKEJE6
+[^9]: TechCrunch, "With investors knocking, PlayVS opens the door to a $30M Series B," November 2018, accessed April 2026. https://techcrunch.com/2018/11/20/with-investors-knocking-playvs-opens-the-door-to-a-30m-series-b/
+[^10]: TechCrunch, "Blavity raises $6.5 million Series A round led by GV," July 2018, accessed April 2026. https://techcrunch.com/2018/07/20/blavity-raises-6-5-million-series-a-round-led-by-gv/
+[^11]: TechCrunch, "Wrapbook raises $27M Series A led by A16Z," March 2021, accessed April 2026. https://techcrunch.com/2021/03/09/wrapbook-series-a/
+[^12]: Tracxn, "Replicated - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/replicated/__1k1cA2_OQiLbInvjEsZ-7Uhs2tzIpAFw-UDS603P_jk/funding-and-investors
+[^13]: Crunchbase, "RealBlocks - Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/realblocks
+[^14]: TechCrunch, "Sequoia Capital puts millions of dollars into Gather, a virtual HQ platform," March 2021, accessed April 2026. https://techcrunch.com/2021/03/11/sequoia-capital-puts-millions-of-dollars-into-gather-a-virtual-hq-platform/
+[^15]: FinSMEs, "Zippin Raises $12M in Series A Financing," December 2019, accessed April 2026. https://www.finsmes.com/2019/12/zippin-raises-12m-in-series-a-financing.html
+[^16]: Tracxn, "Wonderschool - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/wonderschool/__3060LD8cG2h6KgKP-rPoiOx5mUXESUnxo8zYGcdwHKg/funding-and-investors
+[^17]: Tracxn, "Clover Health - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/clover-health/__gTv_UCq6KwoFNL4iHh2bSYV5_DxQeUZEHxcC5DjFOTc/funding-and-investors
+[^18]: TechCrunch, "With a new deal for customers and a fresh $23 million, Mayvenn extends its hair care business," November 2018, accessed April 2026. https://techcrunch.com/2018/11/07/with-a-new-deal-for-customers-and-a-fresh-23-million-mayvenn-extends-its-hair-care-business/
+[^19]: Tracxn, "Arthur AI - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/arthur-ai/__de_40gusjaPYvsLYtCKP9mC0oIol826RDu-PSO20sHg/funding-and-investors
