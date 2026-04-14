@@ -9544,3 +9544,41 @@ queue:
   added: '2026-03-17'
   firm: NextEquity Partners
   discovered_from: fred-anderson
+- name: Robert Leshner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Superstate
+  discovered_from: superstate
+- name: Bain Capital Crypto
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: superstate
+- name: Distributed Global
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: superstate
+- name: Invesco Private Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: superstate
+- name: Eniac Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: attention
+- name: Anis Bennaceur
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Attention
+  discovered_from: attention
