@@ -782,6 +782,19 @@ python3 scripts/sl xref-report SLUG                  # Analysis report: co-inves
 
 **Agent prompts should reference these commands.** For example, after fixing a profile, agents should run `python3 scripts/sl publish {slug}` instead of manual git/build/push sequences. When a new repeated operation pattern emerges, add it to `scripts/sl`.
 
+## Subagent Rules (applies to ALL dispatched agents)
+
+**Subagents MUST use dedicated tools instead of Bash for file operations:**
+- **Read files**: Use `Read` tool, never `cat`, `head`, `tail`
+- **Edit files**: Use `Edit` tool, never `sed`, `awk`, or Python scripts that modify files
+- **Create files**: Use `Write` tool, never `echo >` or heredocs
+- **Search files**: Use `Grep` and `Glob` tools, never `grep` or `find` via Bash
+- **Git operations**: Use `Bash(git add/commit/push)` — these are pre-approved
+- **Build site**: Use `Bash(/tmp/sl-venv3/bin/python3 build.py)` — pre-approved
+- **Run scraper**: Use `Bash(/tmp/sl-venv3/bin/python3 scripts/scrape_rounds.py)` — pre-approved
+
+Using dedicated tools avoids permission prompts entirely. Bash should only be used for git, python scripts, and system commands — never for reading or editing files.
+
 ## Session Startup Checklist
 
 **Every new Claude Code session MUST do these checks before any other work:**
