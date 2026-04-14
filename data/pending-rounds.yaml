@@ -45,7 +45,8 @@ pending_rounds:
   parsed_amount: $43M
   parsed_round: Series B
   status: processed
-  notes: created startup profile bluefish.md; updated threshold-ventures.md and nea.md portfolios
+  notes: created startup profile bluefish.md; updated threshold-ventures.md and nea.md
+    portfolios
 - title: Synera raised $40M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -101,6 +102,16 @@ pending_rounds:
   status: processed
   notes: created startup profile orbital.md; Axios parsed $1M but actual amount undisclosed
     (a16z Speedrun-backed)
+- title: Financial risk management platform Pillar raises $20M seed in round led by
+    a16z
+  url: https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/
+  source: techcrunch
+  date_found: '2026-04-14'
+  parsed_company: Financial risk management platform Pillar
+  parsed_amount: $20M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile pillar-risk.md; updated andreessen-horowitz.md portfolio
 - title: Rork raised $15M Seed
   url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
   source: prnewswire
@@ -905,12 +916,3 @@ pending_rounds:
   parsed_round: Series B
   status: processed
   notes: created startup profile xoople.md
-- title: North America Q1 Funding Surges Across Stages To Record Level
-  url: https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-06'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article

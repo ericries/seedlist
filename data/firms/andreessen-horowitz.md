@@ -255,6 +255,7 @@ The following table includes a16z investments verified through the firm's own po
 | Glimpse | Series A | 2026 | Fintech / Retail Tech | Private [^25] |
 | Spade | Series B | 2026 | Fintech / Data Infrastructure | Private [^26] |
 | Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
+| Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |
 
 *Note: This table includes 69 companies out of 1,076+ total portfolio companies (~6%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -369,3 +370,5 @@ The following table includes a16z investments verified through the firm's own po
 [^26]: "Spade Announces $40m Series B Raise to Build The Data and AI Platform for Modern Finance." BusinessWire, March 24, 2026. https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-$40m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance
 
 [^27]: "Airbase Emerges From Stealth With $5M to Automate Spectrum Allocation." Payload Space, March 25, 2026. https://payloadspace.com/airbase-emerges-from-stealth-with-5m-to-automate-spectrum-allocation/
+
+[^28]: "Financial risk management platform Pillar raises $20M seed in round led by a16z." TechCrunch, April 14, 2026. https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/
