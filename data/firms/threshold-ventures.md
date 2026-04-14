@@ -139,6 +139,7 @@ Based on 47 verified portfolio companies from the Threshold era (post-2019 rebra
 | Polarr | Early-stage | ~2017 | Software / AI | Active [^17] |
 | Loftium | Early-stage | ~2018 | Real Estate | Active [^17] |
 | BentoBox | Early-stage | ~2018 | Restaurant SaaS | Acquired [^17] |
+| Bluefish | Series B | 2026 | AI / Marketing Tech | Active [^28] |
 
 This table represents 47 of an estimated 79 post-rebrand portfolio companies (59%), based on Tracxn data indicating 79 companies over the last 12 years [^8]. Many entries use founding year as a proxy for investment year where exact round dates could not be verified, marked with "~".
 
@@ -199,3 +200,4 @@ Note: These testimonials were sourced from Threshold's own website and affiliate
 [^25]: Lynx Collective / Substack, "VC Heidi Roizen: 'Find a thing that people need and build it better than anyone else,'" accessed March 2026. https://lynxcollective.substack.com/p/vc-heidi-roizen-find-a-thing-that
 [^26]: Unicorn Nest, "Heidi Roizen (Threshold Ventures) interview," accessed March 2026. https://unicorn-nest.com/media/interviews/interview-heidi-roizen-threshold-ventures/
 [^27]: Threshold Ventures website and LinkedIn, founder testimonials, accessed March 2026. https://threshold.vc/ and https://www.linkedin.com/company/thresholdvc
+[^28]: PR Newswire, "Bluefish Raises $43 Million Series B to Power Agentic Marketing for the Fortune 500," April 14, 2026. https://www.prnewswire.com/news-releases/bluefish-raises-43-million-series-b-to-power-agentic-marketing-for-the-fortune-500-302741124.html

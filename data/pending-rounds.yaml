@@ -17,7 +17,90 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: roundup/summary article about Europe funding trends
+- title: Neomorph raised $100M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Neomorph
+  parsed_amount: $100M
+  parsed_round: Series B
+  status: skipped
+  skip_reason: duplicate; neomorph.md already exists from earlier processing
+- title: Adcendo raised $75M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Adcendo
+  parsed_amount: $75M
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile adcendo.md
+- title: Bluefish raised $43M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Bluefish
+  parsed_amount: $43M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile bluefish.md; updated threshold-ventures.md and nea.md portfolios
+- title: Synera raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Synera
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile synera.md
+- title: Critical Loop raised $26M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Critical Loop
+  parsed_amount: $26M
+  parsed_round: Series A
+  status: skipped
+  skip_reason: duplicate; critical-loop.md already exists from earlier processing
+- title: Neato raised $25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Neato
+  parsed_amount: $25M
+  parsed_round: null
+  status: processed
+  notes: created startup profile neato.md
+- title: Helical raised $10M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Helical
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile helical.md
+- title: Replenit raised $2.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Replenit
+  parsed_amount: $2.5M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate; replenit.md already exists from earlier processing
+- title: Orbital raised $1M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-14'
+  parsed_company: Orbital
+  parsed_amount: $1M
+  parsed_round: null
+  status: processed
+  notes: created startup profile orbital.md; Axios parsed $1M but actual amount undisclosed
+    (a16z Speedrun-backed)
 - title: Rork raised $15M Seed
   url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
   source: prnewswire
@@ -831,86 +914,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article
-- title: 'The Weekly Notable Startup Funding Report: 4/5/26'
-  url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-5-26/
-  source: alleywatch
-  date_found: '2026-04-06'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted deals; created coder, antaris, censys, via-separations, ambient-clinical-analytics
-    profiles; alcatraz and others already existed
-- title: Syneron Bio raised $150M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-06'
-  parsed_company: Syneron Bio
-  parsed_amount: $150M
-  parsed_round: Series B
-  status: skipped
-  skip_reason: startup profile syneron-bio.md already exists and is current
-- title: Xoople raised $130M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-06'
-  parsed_company: Xoople
-  parsed_amount: $130M
-  parsed_round: Series B
-  status: processed
-  notes: duplicate of techcrunch entry; xoople.md created
-- title: SpectronRx raised $85M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-06'
-  parsed_company: SpectronRx
-  parsed_amount: $85M
-  parsed_round: null
-  status: processed
-  notes: created startup profile spectronrx.md
-- title: Noon raised $44M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-06'
-  parsed_company: Noon
-  parsed_amount: $44M
-  parsed_round: null
-  status: processed
-  notes: created startup profile noon.md
-- title: Yuzu Health raised $35M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-06'
-  parsed_company: Yuzu Health
-  parsed_amount: $35M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile yuzu-health.md
-- title: HexemBio raised $10.4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-06'
-  parsed_company: HexemBio
-  parsed_amount: $10.4M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile hexembio.md
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/6/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-6-2026/
-  source: alleywatch
-  date_found: '2026-04-06'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: only deal was Yuzu Health $35M Series A, already processed from axios-pro-rata
-    entry
-- title: Moonbounce raised $12M Series A
-  url: https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
-  source: techcrunch
-  date_found: '2026-04-03'
-  parsed_company: Moonbounce
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile moonbounce.md

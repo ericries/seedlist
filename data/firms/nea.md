@@ -169,6 +169,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | ElevenLabs | Series C | 2025 | AI/Voice | Active [^7] |
 | Synthesia | Series D | 2025 | AI/Video | Active [^7] |
 | Qualified Health | Series B | 2026 | Healthcare/AI | Active [^11] |
+| Bluefish | Series B | 2026 | AI/Marketing Tech | Active [^18] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -205,3 +206,4 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^15]: GlobeNewsWire, "CloudFlare Raises $20 Million to Bring Performance and Security to Every Website," July 12, 2011. https://www.globenewswire.com/en/news-release/2011/07/12/923521/0/en/CloudFlare-Raises-20-Million-to-Bring-Performance-and-Security-to-Every-Website.html
 [^16]: Tracxn, "Databricks — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors
 [^17]: Bloomberg, "Robinhood Venture Backer NEA Reaps More Than $3 Billion Post-IPO," August 30, 2021. https://www.bloomberg.com/news/articles/2021-08-30/robinhood-venture-backer-nea-reaps-more-than-3-billion-post-ipo
+[^18]: PR Newswire, "Bluefish Raises $43 Million Series B to Power Agentic Marketing for the Fortune 500," April 14, 2026. https://www.prnewswire.com/news-releases/bluefish-raises-43-million-series-b-to-power-agentic-marketing-for-the-fortune-500-302741124.html
