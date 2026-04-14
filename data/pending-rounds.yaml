@@ -9,6 +9,15 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: share redemption/corporate action, not a startup round
+- title: AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume
+    Falls Sharply
+  url: https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Rork raised $15M Seed
   url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
   source: prnewswire
@@ -905,14 +914,3 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile moonbounce.md
-- title: 'The Week''s 10 Biggest Funding Rounds: Largest Financings Went To Defense,
-    Wearables, Energy And Security'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/
-  source: crunchbase
-  date_found: '2026-04-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted 8 new startups (whoop, valar-atomics, enervenue, tenex-ai, also,
-    scaleops, ambrosia-biosciences, openfx); saronic already existed
