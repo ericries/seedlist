@@ -67,26 +67,26 @@ Tiger Global's portfolio reveals an investor that operates at massive global sca
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| OpenAI | Growth | 2023 | AI | Active | [^9] |
-| Waymo | Series D | 2026 | Autonomous Vehicles | Active | [^4] |
-| Databricks | Growth | 2021 | Data/AI | Active | [^9] |
-| ByteDance | Growth | 2020 | Consumer Internet | Active | [^10] |
-| Stripe | Growth | 2019 | Fintech | Active | [^2] |
-| Flipkart | Multiple rounds | 2009 | E-commerce | Acquired (Walmart) | [^2] |
-| Facebook | Growth | ~2008 | Consumer Internet | IPO | [^2] |
-| LinkedIn | Growth | ~2008 | Enterprise/Social | Acquired (Microsoft) | [^2] |
-| Spotify | Growth | 2015 | Consumer Internet | IPO | [^6] |
-| Coinbase | Growth | 2018 | Fintech/Crypto | IPO | [^6] |
-| Roblox | Growth | 2020 | Consumer Internet | IPO | [^6] |
-| Peloton | Growth | 2018 | Consumer | IPO | [^6] |
-| Razorpay | Series A-E | 2016 | Fintech | Active | [^12] |
-| Infra.Market | Series A+ | 2019 | B2B Commerce | Active | [^13] |
-| Byju's | Growth | 2018 | EdTech | Bankrupt | [^13] |
-| Freshworks | Growth | 2019 | Enterprise SaaS | IPO | [^2] |
-| Superhuman | Series B | 2021 | Enterprise/Productivity | Active | [^14] |
-| Gupshup | Series F | 2021 | Enterprise/Messaging | Active | [^14] |
-| Hologram | Series B | 2021 | IoT | Active | [^15] |
-| Rogo | Growth | 2025 | AI | Active | [^4] |
+| OpenAI | Series E | 2023 | AI | Active | [^9][^16] |
+| Waymo | Growth ($5.6B round) | 2024 | Autonomous Vehicles | Active | [^4][^17] |
+| Databricks | Series F | 2019 | Data/AI | Active | [^18] |
+| ByteDance | Secondary | 2018 | Consumer Internet | Active | [^19] |
+| Stripe | Series E ($245M) | 2018 | Fintech | Active | [^20] |
+| Flipkart | Series B+ (multiple) | 2009 | E-commerce | Acquired (Walmart, 2018) | [^2][^21] |
+| Facebook | Growth | 2011 | Consumer Internet | IPO (2012) | [^22] |
+| LinkedIn | Secondary | 2010 | Enterprise/Social | Acquired (Microsoft, 2016) | [^23] |
+| Spotify | Pre-IPO | 2015 | Consumer Internet | IPO (2018) | [^6] |
+| Coinbase | Series E ($300M) | 2018 | Fintech/Crypto | IPO (2021) | [^24] |
+| Roblox | Growth ($150M) | 2021 | Consumer Internet | IPO (2021) | [^25] |
+| Peloton | Series B | 2014 | Consumer | IPO (2019) | [^26] |
+| Razorpay | Series A ($9M) | 2015 | Fintech | Active | [^12][^27] |
+| Infra.Market | Series A ($20M) | 2019 | B2B Commerce | Active | [^13][^28] |
+| Byju's | Growth ($200M) | 2020 | EdTech | Bankrupt | [^13][^29] |
+| Freshworks | Series B ($5M) | 2012 | Enterprise SaaS | IPO (2021) | [^30] |
+| Superhuman | Series C | 2021 | Enterprise/Productivity | Active | [^14][^31] |
+| Gupshup | Series F ($100M) | 2021 | Enterprise/Messaging | Active | [^14][^32] |
+| Hologram | Series B ($65M) | 2021 | IoT | Active | [^15] |
+| Rogo | Series B ($50M) | 2025 | AI | Active | [^4][^33] |
 
 *This table represents a small fraction of Tiger Global's approximately 791 portfolio companies [^4]. During 2020-2021 alone, the firm backed roughly 315 startups [^8].*
 
@@ -123,3 +123,21 @@ Beerud Sheth, founder of Gupshup, noted that while Tiger's partners don't demand
 [^13]: Rest of World, "Tiger Global's risky billion-dollar investments in global tech startups," 2025, accessed March 2026. https://restofworld.org/2025/tiger-global-unicorn-investment-crash/
 [^14]: Business Insider via Riff City Strategies, "How Tiger Global is beating other VCs, according to 6 startup founders who took its deals," accessed March 2026. https://riffcitystrategies.com/news/business-insider-agora-dutchie-tiger-global-vc/
 [^15]: PR Newswire, "Hologram Announces $65 Million in Series B, Led by Tiger Global," accessed March 2026. https://www.prnewswire.com/news-releases/hologram-announces-65-million-in-series-b-led-by-tiger-global-301351794.html
+[^16]: CNBC, "Tiger Global plans to join OpenAI's funding round at more than $150 billion valuation," September 2024. https://www.cnbc.com/2024/09/13/tiger-global-plans-to-join-openais-latest-funding-round-which-would-value-it-at-more-than-150-billion.html
+[^17]: Waymo Blog, "Investing to bring the Waymo Driver to more riders," October 2024. https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/
+[^18]: Databricks Newsroom, "Databricks' Growth Draws $400 Million Series F Investment and $6.2 Billion Valuation," accessed April 2026. https://www.databricks.com/company/newsroom/press-releases/databricks-growth-draws-400-million-series-f-investment-and-6-2-billion-valuation
+[^19]: South China Morning Post, "Tiger Global Management has built up a stake in TikTok-owner ByteDance," March 2020. https://www.scmp.com/tech/apps-social/article/3077705/tiger-global-management-has-built-stake-tiktok-owner-bytedance-ft
+[^20]: TechCrunch, "Stripe is now valued at $20B after raising another $245M led by Tiger Global," September 2018. https://techcrunch.com/2018/09/26/stripe-is-now-valued-at-20b-after-raising-another-245m-led-by-tiger-global/
+[^21]: TechCrunch, "Walmart pays $1.4 billion to buy Tiger Global's remaining Flipkart stake," July 2023. https://techcrunch.com/2023/07/30/walmart-flipkart-tiger-global/
+[^22]: Bloomberg, "Tiger Global Said to Put New Private-Equity Fund Into Facebook," January 2011. https://www.bloomberg.com/news/articles/2011-01-24/coleman-s-tiger-global-said-to-put-new-private-equity-fund-into-facebook
+[^23]: TechCrunch, "SEC Watch: Tiger Global Bought Massive Amounts Of LinkedIn Stock Pre And Post IPO," June 2011. https://techcrunch.com/2011/06/04/sec-watch-tiger-global-bought-massive-amounts-of-linkedin-stock-pre-and-post-ipo/
+[^24]: PYMNTS, "Coinbase Valued At $8B With Potential Tiger Global Investment," October 2018. https://www.pymnts.com/news/investment-tracker/2018/coinbase-valuation-crypto-exchange-tiger-global/
+[^25]: Institutional Investor, "Tiger Global Wins Big as Roblox Goes Public," March 2021. https://www.institutionalinvestor.com/article/b1qxj0xlr62g5y/tiger-global-wins-big-as-roblox-goes-public
+[^26]: Venture Capital Journal, "Tiger Global leads Series B round for Peloton," 2014. https://www.venturecapitaljournal.com/tiger-global-leads-series-b-round-for-peloton/
+[^27]: YourStory, "Razorpay raises $9M in Series A funding led by Tiger Global," October 2015. https://yourstory.com/2015/10/razorpay-seriesa-funding
+[^28]: Entrackr, "Tiger Global leads $20 Mn Series A round in Infra.Market," December 2019. https://entrackr.com/2019/12/infra-market-raises-20-mn-led-by-tiger-global/
+[^29]: YourStory, "Edtech unicorn BYJU'S secures $200M from Tiger Global at $8B valuation," January 2020. https://yourstory.com/2020/01/funding-tiger-global-management-edtech-byjus/amp
+[^30]: Inc42, "Tiger Global And Freshworks Shook Hands In The Air — And It Was A Done Deal," accessed April 2026. https://inc42.com/features/tiger-global-and-freshworks-shook-hands-in-the-air-and-it-was-a-done-deal-girish-mathrubootham/
+[^31]: Tracxn, "Superhuman — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/superhuman/__uNI3PJ_Huz1B_OobMp1RIu3DT8SOBubIyA2wkxh7Quk/funding-and-investors
+[^32]: TechCrunch, "Business messaging platform Gupshup raises $240 million from Tiger Global, Fidelity and others," July 2021. https://techcrunch.com/2021/07/28/business-messaging-platform-gupshup-raises-240-million-from-tiger-global-fidelity-and-others/
+[^33]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 2025. https://rogo.ai/news/rogo-announces-50m-series-b

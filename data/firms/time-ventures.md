@@ -91,13 +91,13 @@ Note: Some companies span categories (e.g., Planet Labs serves both space and cl
 | Cloud Paper | Follow-on | ~2021 | Sustainable paper products | [^21] |
 | Regrow Ag | Series B ($38M) | 2022 | Regenerative agriculture | [^22] |
 | Warp | Series A ($17M) | 2022 | AI developer terminal | [^9][^23] |
-| SpaceX | Undisclosed | ~2021 | Space launch | [^8] |
-| Astra | Undisclosed | ~2021 | Space launch | [^8] |
-| Swarm Technologies | Undisclosed | ~2021 | Satellite IoT | [^8] |
-| Universal Hydrogen | Undisclosed | ~2021 | Hydrogen fuel | [^2] |
-| Terraformation | Undisclosed | ~2021 | Reforestation | [^6] |
-| Mango Materials | Undisclosed | ~2021 | Biodegradable plastics | [^6] |
-| Novoloop | Undisclosed | ~2021 | Plastic upcycling | [^6] |
+| SpaceX | Angel (undisclosed amount) | ~2021 | Space launch | [^8] |
+| Astra | Angel (undisclosed amount) | ~2021 | Space launch | [^8] |
+| Swarm Technologies | Angel (undisclosed amount) | ~2019 | Satellite IoT (acquired by SpaceX, 2021) | [^8][^28] |
+| Universal Hydrogen | Series B ($62M round) | 2021 | Hydrogen fuel | [^29] |
+| Terraformation | Series A ($30M round) | 2021 | Reforestation | [^6][^30] |
+| Mango Materials | Angel (undisclosed amount) | ~2016 | Biodegradable plastics | [^6] |
+| Novoloop | Series A ($11M round) | 2022 | Plastic upcycling | [^6][^31] |
 | Laurel | Series C ($100M) | 2025 | AI time intelligence | [^24] |
 | Somnee / StimScience | Seed ($10M) | 2025 | Sleep neurotech | [^25] |
 | webAI | Series A extension | 2026 | Distributed AI | [^26] |
@@ -153,3 +153,7 @@ No additional independently sourced founder testimonials from TIME Ventures port
 [^25]: Business Wire, "Somnee Secures $10M to Revolutionize Sleep with New AI-Powered Neurotech Sleep Wearables," June 2025. https://www.businesswire.com/news/home/20250610843209/en/Somnee-Secures-$10M-to-Revolutionize-Sleep-with-New-AI-Powered-Neurotech-Sleep-Wearables
 [^26]: SiliconANGLE, "Sovereign AI unicorn webAI's value soars to $2.5B after 'double-digit' funding round," January 2026. https://siliconangle.com/2026/01/13/sovereign-ai-unicorn-webais-value-soars-2-5b-double-digit-funding-round/
 [^27]: Entrepreneur, "What I Learned From Pitching Marc Benioff My Startup at Dreamforce," accessed March 2026. https://www.entrepreneur.com/leadership/i-pitched-marc-benioff-my-startup-this-is-what-i-learned/431015
+[^28]: Tracxn, "Swarm Technologies — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/swarm-technologies/__a0MiynoerhAmC020kRZYt4YkbNgPHZyKlHDcHONaq_8/funding-and-investors
+[^29]: Business Wire, "Universal Hydrogen Secures Additional $62 Million in Financing," October 2021. https://www.businesswire.com/news/home/20211014005399/en/Universal-Hydrogen-Secures-Additional-$62-Million-in-Financing-to-Accelerate-First-Test-Flight-of-Hydrogen-Powered-Regional-Aircraft-to-2022
+[^30]: Tracxn, "Terraformation — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/terraformation/__2yO2oSHojYu7bXdnXQtyMfWPosvVDyyrPTF2Vm57Am8/funding-and-investors
+[^31]: TechCrunch, "Novoloop says it's worked out how to upcycle plastic waste, raises $11M Series A," February 2022. https://techcrunch.com/2022/02/14/novoloop-says-its-worked-out-how-to-upcycle-plastic-waste-raises-11m-series-a/

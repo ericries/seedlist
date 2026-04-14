@@ -79,8 +79,8 @@ Based on 30 verified portfolio companies from the firm's website, press coverage
 | Supabase | Seed | ~2020 | Developer Tools | [^2] |
 | On Deck | Seed | ~2020 | Community/Education | [^10] |
 | Descript | Seed | ~2020 | Consumer/Productivity | [^2] |
-| ClassDojo | — | ~2020 | EdTech | [^4] |
-| Lob | — | ~2020 | Developer Tools/API | [^4] |
+| ClassDojo | Angel | ~2020 | EdTech | [^4] |
+| Lob | Angel | ~2020 | Developer Tools/API | [^4] |
 | WorkOS | Seed | ~2021 | Developer Tools | [^2] |
 | Zip | Seed | ~2021 | B2B SaaS | [^2] |
 | Hightouch | Seed | ~2021 | Data Infrastructure | [^2] |
@@ -88,12 +88,12 @@ Based on 30 verified portfolio companies from the firm's website, press coverage
 | Hex | Seed | ~2021 | Data/Analytics | [^2] |
 | Ashby | Seed | ~2021 | B2B SaaS/HR | [^4] |
 | Circle | Seed | ~2021 | Community Platform | [^2] |
-| Eight Sleep | — | ~2021 | Health/Hardware | [^2] |
+| Eight Sleep | Strategic round | 2021 | Health/Hardware | [^2][^11] |
 | Wander | Seed | ~2021 | Proptech/Travel | [^2] |
 | Farcaster | Seed | ~2022 | Crypto/Social | [^2] |
 | Scratchpad | Seed | ~2021 | B2B SaaS | [^4] |
 | OpenPhone | Seed | ~2021 | B2B SaaS/Telecom | [^4] |
-~unknown| AngelList | — | — | Fintech/Infrastructure | [^2] |
+| AngelList | Angel | ~2020 | Fintech/Infrastructure | [^2] |
 | Readwise | Seed | ~2021 | Productivity | [^4] |
 | AdQuick | Seed | ~2020 | AdTech | [^4] |
 | ChartHop | Seed | ~2021 | B2B SaaS/HR | [^4] |
@@ -102,7 +102,7 @@ Based on 30 verified portfolio companies from the firm's website, press coverage
 | Loyal | Seed | ~2022 | Biotech/Longevity | [^2] |
 | PetsApp | Seed | ~2022 | Pet Tech | [^4] |
 | Gym Class | Seed | ~2022 | VR/Fitness | [^4] |
-| Destiny | — | ~2022 | Consumer | [^4] |
+| Destiny | Seed | ~2022 | Consumer | [^4] |
 | Rewind | Seed | ~2022 | AI/Productivity | [^4] |
 | Quo | Seed | ~2022 | Consumer | [^2] |
 
@@ -160,3 +160,4 @@ Julien Smith, CEO of Practice: "Todd and Rahul have been great. They are availab
 [^8]: Signal by NFX, "Todd and Rahul's Angel Fund — Venture Capital Firm," accessed March 2026. https://signal.nfx.com/firms/todd-and-rahul-angel-fund
 [^9]: Tracxn, "Todd and Rahul's Angel Fund — 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/toddandrahulsangelfund/__2SlN4izTjhS1Y3Y0y8H7-1HZOqlUFTBWLnJ_v0SGrH4
 [^10]: Todd Goldberg personal website, "Involvement," accessed March 2026. https://toddgoldberg.com/involvement.html
+[^11]: PR Newswire, "Eight Sleep Announces Strategic Investment to Revolutionize Sleep Fitness Movement," June 2021. https://www.prnewswire.com/news-releases/eight-sleep-announces-strategic-investment-to-revolutionize-sleep-fitness-movement-301308655.html
