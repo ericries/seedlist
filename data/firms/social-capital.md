@@ -63,11 +63,11 @@ Based on approximately 224 total investments with 13 unicorns, 7 IPOs, and 70 ac
 
 **Evolution from VC to holding company:** Social Capital's most significant structural feature is its 2018 transition from a traditional fund model to a personal capital vehicle. This means Palihapitiya has no LP constraints on timing, sector, or stage — he can invest in anything from private startups to public equities, SPACs, and cryptocurrencies [^2][^5].
 
-**Early portfolio (2011-2018):** The firm's venture capital period produced its most notable investments: Slack (invested early; Salesforce acquired for $27.7 billion in 2021), Yammer (backed in 2011; Microsoft acquired for $1.2 billion in 2012), Box (IPO in 2015), and Intercom [^4][^10]. The early portfolio was heavily concentrated in enterprise SaaS and collaboration tools.
+**Early portfolio (2011-2018):** The firm's venture capital period produced its most notable investments: Slack (led $42.75M round in 2014; Salesforce acquired for $27.7 billion in 2021), Yammer (backed in 2011; Microsoft acquired for $1.2 billion in 2012), Box (IPO in 2015), and Intercom (Series A in 2013) [^4][^10][^11]. The early portfolio was heavily concentrated in enterprise SaaS and collaboration tools.
 
 **SPAC period (2019-2022):** Palihapitiya became the most prominent SPAC sponsor, taking Virgin Galactic, Opendoor, Clover Health, and SoFi public through blank-check vehicles [^5][^9]. Results were mixed: SoFi remained the only Chamath SPAC investment trading above its deSPAC price as of 2025, with median losses of approximately 75% across the other nine SPAC deals [^9].
 
-**Current focus (2023-present):** The firm's recent investments reflect a shift toward deep tech, AI, energy, and the creator economy. Notable recent positions include Groq (AI inference hardware; raised $640M Series D at $2.8B valuation), Palmetto (clean energy platform; $1.2B in funding), and Beast Industries (MrBeast's creator-led business generating approximately $500M annual revenue) [^6].
+**Current focus (2023-present):** The firm's recent investments reflect a shift toward deep tech, AI, energy, and the creator economy. Notable positions include Groq (AI inference hardware; Social Capital first invested in the 2016 Series A, with the company later raising a $640M Series D at $2.8B valuation in 2024) [^13], Palmetto (clean energy platform; Social Capital led the $375M Series C in 2022) [^14], and Beast Industries (MrBeast's creator-led business; Palihapitiya invested $45M in a Series A circa 2021) [^15].
 
 **Solo operator model:** With Zaveri and Tanuku fired in March 2024, Palihapitiya is the sole investing partner, making Social Capital a de facto solo GP operation [^7].
 
@@ -76,18 +76,18 @@ Based on approximately 224 total investments with 13 unicorns, 7 IPOs, and 70 ac
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Yammer | Early | 2011 | Enterprise/Social | Acquired (Microsoft, $1.2B, 2012) [^4] |
-| Slack | Early | ~2014 | Enterprise/Collaboration | Acquired (Salesforce, $27.7B, 2021) [^4][^10] |
-| Box | Early | — | Enterprise/Cloud Storage | IPO (2015) [^4] |
-~unknown| Intercom | — | — | Enterprise/Messaging | Active [^10] |
-~unknown| SurveyMonkey | — | — | Enterprise/Survey | IPO [^10] |
+| Slack | Series B | 2014 | Enterprise/Collaboration | Acquired (Salesforce, $27.7B, 2021) [^4][^11] |
+| Box | Early | ~2014 | Enterprise/Cloud Storage | IPO (2015) [^4] |
+| Intercom | Series A | 2013 | Enterprise/Messaging | Active [^10][^11] |
+| SurveyMonkey | Late | 2013 | Enterprise/Survey | IPO [^10][^12] |
 | Virgin Galactic | SPAC | 2019 | Space | Public [^5][^9] |
 | Opendoor | SPAC | 2020 | Real Estate/Consumer | Public [^5][^9] |
 | Clover Health | SPAC | 2020 | Healthcare/Insurance | Public [^5][^9] |
 | SoFi | SPAC | 2021 | Fintech | Public [^5][^9] |
-| Groq | Series D | ~2024 | AI/Inference Hardware | Active ($2.8B valuation) [^6] |
-~unknown| Palmetto | — | — | Clean Energy | Active [^6] |
-~unknown| Beast Industries | — | — | Creator Economy/Media | Active [^6] |
-~unknown| ProKidney | SPAC | — | Biotech/Cell Therapy | Public [^10] |
+| Groq | Series A | 2016 | AI/Inference Hardware | Active ($2.8B valuation) [^6][^13] |
+| Palmetto | Series C | 2022 | Clean Energy | Active [^6][^14] |
+| Beast Industries | Series A | 2021 | Creator Economy/Media | Active [^6][^15] |
+| ProKidney | SPAC | 2022 | Biotech/Cell Therapy | Public [^16] |
 
 *This table represents a partial sample. Social Capital has invested in approximately 224 companies total [^10].*
 
@@ -117,3 +117,9 @@ No independently sourced founder testimonials found. Mamoon Hamid, a former Soci
 [^8]: The Deep Dive, "Chamath Palihapitiya Fires Two Partners At Social Capital," March 2024. https://thedeepdive.ca/chamath-palihapitiya-fires-two-partners-at-social-capital/
 [^9]: Benzinga, "Chamath Palihapitiya's 12 SPAC, PIPE Deals: Tracking 2021 And Lifetime Performance." https://www.benzinga.com/news/21/02/19550206/chamath-palihapitiyas-12-spac-pipe-deals-tracking-2021-and-lifetime-performance
 [^10]: Tracxn, "Social Capital — 2025 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/social-capital/__uErivKHhZOjjjKH-4UTyhvd1j-mv0fxGLOZMZCw6Vl4
+[^11]: Venture Capital Journal, "Social + Capital leads $42.75 mln round for Slack," April 2014. https://www.venturecapitaljournal.com/social-capital-leads-42-75-mln-round-for-slack/
+[^12]: SurveyMonkey, "SurveyMonkey Raises $800 Million," January 2013. https://www.surveymonkey.com/newsroom/surveymonkey-raises-800-million/
+[^13]: TechCrunch, "Secretive semiconductor startup Groq raises $52M from Social Capital," September 2018. https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/
+[^14]: Bloomberg, "Palihapitiya's Social Capital Leads $375 Million Palmetto Round," February 2022. https://www.bloomberg.com/news/articles/2022-02-24/palihapitiya-s-social-capital-leads-375-million-palmetto-round
+[^15]: Chamath Palihapitiya, X post, January 2026. https://x.com/chamath/status/2012309156351590638
+[^16]: BusinessWire, "ProKidney to Become Publicly Traded via Business Combination with Social Capital Suvretta Holdings Corp. III," January 2022. https://www.businesswire.com/news/home/20220118005661/en/Revolutionary-Chronic-Kidney-Disease-Therapeutics-Company-ProKidney-to-Become-Publicly-Traded-via-Business-Combination-with-Social-Capital-Suvretta-Holdings-Corp.-III

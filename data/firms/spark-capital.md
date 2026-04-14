@@ -111,39 +111,39 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Twitter | Series B | 2008 | Consumer/Social | [^1][^5] |
-| Slack | Early | 2014 | Enterprise | [^1][^9] |
+| Slack | Series B | 2014 | Enterprise | [^1][^9] |
 | Anthropic | Growth | 2023 | AI | [^9] |
-| Affirm | Early | 2012 | Fintech | [^9] |
-| Discord | Early | 2015 | Consumer/Social | [^9] |
-| Plaid | Early | 2014 | Fintech | [^9] |
-| Oculus | Early | 2013 | Hardware/VR | [^9] |
-| Cruise | Early | 2014 | Autonomous Vehicles | [^9] |
-| Coinbase | Early | 2013 | Crypto/Fintech | [^9] |
-| Scale AI | Growth | 2019 | AI/Data | [^9] |
-| Tumblr | Early | 2007 | Consumer/Social | [^1] |
-| Snap | Early | 2012 | Consumer/Social | [^9] |
-| Ramp | Growth | 2021 | Fintech | [^9] |
-| Mercury | Early | 2019 | Fintech | [^9] |
-| Trello | Early | 2014 | Productivity | [^9] |
-| Postmates | Early | 2014 | Consumer/Delivery | [^9] |
-| Niantic | Early | 2015 | Gaming/AR | [^9] |
-| Benchling | Early | 2016 | Biotech/Enterprise | [^9] |
-| Deel | Growth | 2021 | HR/Fintech | [^9] |
-| Marqeta | Early | 2015 | Fintech | [^9] |
+| Affirm | Series B | 2015 | Fintech | [^9][^13] |
+| Discord | Series C | 2016 | Consumer/Social | [^9][^14] |
+| Plaid | Seed | 2013 | Fintech | [^9][^15] |
+| Oculus | Series A | 2013 | Hardware/VR | [^9][^16] |
+| Cruise | Series A | 2015 | Autonomous Vehicles | [^9][^17] |
+| Coinbase | Series D | 2017 | Crypto/Fintech | [^9][^18] |
+| Scale AI | Series C | 2019 | AI/Data | [^9][^19] |
+| Tumblr | Series A | 2007 | Consumer/Social | [^1] |
+| Snap | Series F | 2016 | Consumer/Social | [^9][^20] |
+| Ramp | Series C | 2021 | Fintech | [^9][^21] |
+| Mercury | Series C | 2025 | Fintech | [^9][^22] |
+| Trello | Series A | 2014 | Productivity | [^9][^23] |
+| Postmates | Series B | 2014 | Consumer/Delivery | [^9][^24] |
+| Niantic | Series B | 2017 | Gaming/AR | [^9][^25] |
+| Benchling | Series D | 2020 | Biotech/Enterprise | [^9][^26] |
+| Deel | Series B | 2020 | HR/Fintech | [^9][^27] |
+| Marqeta | Series E | 2019 | Fintech | [^9][^28] |
 | Pika | Early | 2023 | AI/Video | [^9] |
 | MatX | Early | 2023 | AI/Hardware | [^9] |
-| Lightmatter | Early | 2021 | AI/Hardware | [^9] |
-| Baseten | Early | 2020 | AI Infrastructure | [^9] |
-| Flock Safety | Growth | 2021 | Public Safety | [^9] |
-| Crusoe | Growth | 2021 | AI Infrastructure | [^9] |
-| Chainguard | Early | 2022 | Cybersecurity | [^9] |
+| Lightmatter | Series A | 2018 | AI/Hardware | [^9][^29] |
+| Baseten | Series B | 2022 | AI Infrastructure | [^9][^30] |
+| Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |
+| Crusoe | Growth | 2025 | AI Infrastructure | [^9] |
+| Chainguard | Series B | 2023 | Cybersecurity | [^9][^32] |
 | The Bot Company | Series A | 2024 | AI/Robotics | [^10] |
-| Fireblocks | Growth | 2021 | Crypto/Fintech | [^9] |
-| Framework | Early | 2021 | Hardware | [^9] |
-| Cyera | Growth | 2023 | Cybersecurity | [^9] |
-| Headway | Early | 2019 | Healthcare | [^9] |
-| Handshake | Early | 2016 | Consumer/Jobs | [^9] |
-| Granola | Early | 2024 | AI/Productivity | [^9] |
+| Fireblocks | Series D | 2021 | Crypto/Fintech | [^9][^33] |
+| Framework | Series A | 2022 | Hardware | [^9][^34] |
+| Cyera | Series C | 2024 | Cybersecurity | [^9][^35] |
+| Headway | Series C | 2023 | Healthcare | [^9][^36] |
+| Handshake | Series B | 2016 | Consumer/Jobs | [^9][^37] |
+| Granola | Series A | 2024 | AI/Productivity | [^9][^38] |
 | Shepherd | Series B | 2026 | Insurtech/AI | [^12] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
@@ -176,3 +176,29 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^10]: The Twenty Minute VC, "Nabeel Hyatt, GP @ Spark Capital: To Win in AI, Investors Need to Change Their Approach," accessed March 2026. https://www.thetwentyminutevc.com/nabeel-hyatt
 [^11]: All Blue Labs, "Nabeel Hyatt from Spark Capital - VC Guide," accessed March 2026. https://www.allbluelabs.com/reviews/rec8z9n69Ot2r6ZFS?Item+ID=5f925e7358be220b450659a3&Item+Name=rec8z9n69Ot2r6ZFS
 [^12]: "Shepherd Raises $42M Series B to Power the Insurance Behind AI Infrastructure Boom," PR Newswire, March 24, 2026. https://www.prnewswire.com/news-releases/shepherd-raises-42m-series-b-to-power-the-insurance-behind-ai-infrastructure-boom-302723122.html
+[^13]: PitchBook, "Spark Capital Leads $275M Investment in Affirm," accessed April 2026. https://pitchbook.com/newsletter/spark-capital-leads-275m-investment-in-affirm
+[^14]: Tracxn, "Niantic — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/niantic/__dlj7tOG-fxifIUPO-WKT81Jj7O3IhkwS-PPxW0o5eeU/funding-and-investors
+[^15]: Crunchbase, "Plaid — Seed Round," September 2013. https://www.crunchbase.com/funding_round/plaid-seed--4bbe2fa4
+[^16]: Tracxn, "Oculus — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/oculus/__t3j3bzOkxb397phcFarJY-Z7g0Yurbta0cjtL7rnwmM/funding-and-investors
+[^17]: TechCrunch, "Cruise Raises $12.5M From Spark, YC's Sam Altman For Self-Driving Cars," September 2015. https://techcrunch.com/2015/09/18/cruise-2/
+[^18]: Medium/Spark Capital, "Investing in Coinbase," by Jeremy G. Philips, 2017. https://medium.com/spark-capital/investing-in-coinbase-3f25b0cf2f13
+[^19]: Medium/Spark Capital, "Welcome, Scale!" by Will Reed, 2019. https://medium.com/spark-capital/welcome-scale-aa3acd946688
+[^20]: Snap Inc., Wikipedia, accessed April 2026. https://en.wikipedia.org/wiki/Snap_Inc.
+[^21]: Tracxn, "Ramp — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/ramp/__mMFluFx9yKyt9DXRq5KzSGK2frbsYq5y9jc9XK9-g9E/funding-and-investors
+[^22]: TechCrunch, "Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B," March 2025. https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/
+[^23]: TechCrunch, "Disrupt Alum Trello Takes In $10.3M For Its Visual To-Do Lists," July 2014. https://techcrunch.com/2014/07/24/trello-series-a/
+[^24]: TechCrunch, "On-Demand Delivery Startup Postmates Raises $16 Million From Spark Capital," February 2014. https://techcrunch.com/2014/02/18/postmates-16m-spark-capital/
+[^25]: Pokemon GO Hub, "Niantic raises $200 million in a Series B funding round led by Spark Capital," November 2017. https://pokemongohub.net/post/news/niantic-raises-200-million-series-b-funding-round-led-spark-capital/
+[^26]: Benchling, "Benchling Raises $50M Series D To Accelerate Biotech Revolution," May 2020. https://www.benchling.com/news/benchling-raises-50m-series-d-to-accelerate-biotech-revolution
+[^27]: Crowdfund Insider, "Spark Capital Leads Remote Working Fintech Deel's $30 Million Series B Round," September 2020. https://www.crowdfundinsider.com/2020/09/166571-plaid-twitter-slack-investor-spark-capital-leads-remote-working-fintech-deels-30-million-series-b-round/
+[^28]: Tracxn, "Marqeta — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/marqeta/__003GYeHsTZo7TDu3m6UIku5061YF79tRD4GhRxNIACo/funding-and-investors
+[^29]: Medium/Spark Capital, "Our investment in Lightmatter," by Santo Politi. https://medium.com/spark-capital/our-investment-in-lightmatter-a565bb0ede34
+[^30]: Crunchbase, "Baseten — Series B," accessed April 2026. https://www.crunchbase.com/funding_round/baseten-series-b--8c4203e2
+[^31]: Tracxn, "Flock Safety — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/flock-safety/__lfRrqBoJWA2PHkk8HJ-7MN7tlihrgTa6vvlOhfrv8eg/funding-and-investors
+[^32]: Chainguard, "Chainguard raises $61 million series B round," November 2023. https://www.chainguard.dev/unchained/chainguard-raises-61-million-series-b-round-as-enterprises-move-to-fortify-open-source-software
+[^33]: TechCrunch, "Crypto infrastructure company Fireblocks nearly quadruples valuation to $8B," January 2022. https://techcrunch.com/2022/01/27/crypto-infrastructure-company-fireblocks-nearly-quadruples-valuation-to-8b-in-six-months/
+[^34]: Framework, "Framework's Series A and the Years Ahead," January 2022. https://frame.work/blog/frameworks-series-a-and-the-years-ahead
+[^35]: Tracxn, "Cyera — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/cyera/__p8e5_i0CWICkrIIlFk4v-KW5_IdvKEquM9eXK85ET6g/funding-and-investors
+[^36]: Modern Healthcare, "Mental health startup Headway lands $125M from Spark Capital, others," October 2023. https://www.modernhealthcare.com/digital-health/mental-health-startups-headway-sparks-capital/
+[^37]: EdSurge, "Student Career Network Handshake Raises $20 Million in Series B Funding," November 2016. https://www.edsurge.com/news/2016-11-17-student-career-network-handshake-raises-20-million-in-series-b-funding
+[^38]: TechCrunch, "VCs love using the AI meeting notepad Granola, so they gave it $20M," October 2024. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/

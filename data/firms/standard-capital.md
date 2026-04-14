@@ -64,14 +64,14 @@ Based on 6 verified investments from Standard Capital's portfolio page [^13], th
 
 ## Portfolio
 
-| Company | Stage | Year | Sector | Amount | Status | Source |
-|---------|-------|------|--------|--------|--------|--------|
-| Sim.ai | Series A | 2025 | AI agent workflows | $7M | Active | [^14] |
-| Magic Patterns | Series A | 2025 | AI design tools | $6M | Active | [^15] |
-| Momentic | Series A | 2025 | AI test automation | $15M | Active | [^16] |
-| Trigger.dev | Series A | 2025 | AI workflow platform | $16M | Active | [^17] |
-| Artie | Series A | 2026 | Real-time data streaming | $12M | Active | [^18] |
-| Concourse | Series A | 2026 | AI agents for finance | $12M | Active | [^19] |
+| Company | Stage | Year | Sector | Status |
+|---------|-------|------|--------|--------|
+| Sim.ai | Series A ($7M) | 2025 | AI agent workflows | Active [^14] |
+| Magic Patterns | Series A ($6M) | 2025 | AI design tools | Active [^15] |
+| Momentic | Series A ($15M) | 2025 | AI test automation | Active [^16] |
+| Trigger.dev | Series A ($16M) | 2025 | AI workflow platform | Active [^17] |
+| Artie | Series A ($12M) | 2026 | Real-time data streaming | Active [^18] |
+| Concourse | Series A ($12M) | 2026 | AI agents for finance | Active [^19] |
 
 This table represents all 6 publicly known investments as listed on Standard Capital's portfolio page [^13]. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed.
 
