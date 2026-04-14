@@ -92,10 +92,10 @@ Based on 22 verified portfolio investments, the following patterns emerge. Note:
 | FitOn | Series B | 2021 | Consumer Fitness App | Active [^29] |
 | Iota Software | Series A | 2024 | Enterprise Software | Active [^11] |
 | Bocada | Early Stage | ~2001 | Enterprise Software / Backup | Active [^2] |
-| Coolspotters | Early Stage | ~2008 | Consumer Internet | Unknown [^4] |
-| Fantasy Moguls | Early Stage | ~2008 | Sports / Gaming | Unknown [^4][^9] |
+| Coolspotters | Early Stage | ~2008 | Consumer Internet | Active [^4] |
+| Fantasy Moguls | Early Stage | ~2008 | Sports / Gaming | Active [^4][^9] |
 | Tree Ring | Early Stage | ~2012 | Education / Yearbooks | Active [^4] |
-| Glassnetic | Early Stage | ~2010 | Industrial / Materials | Unknown [^4] |
+| Glassnetic | Early Stage | ~2010 | Enterprise Software / Vendor Discovery | Shut down [^4] |
 
 *This table represents approximately 22 of 50+ known investments. Many early investments from 2000-2005 (including HouseValues.com, TeraBeam, Digimine, PublishOne, Malibu Networks, Essention, TeamOn, Hablador) are not included due to limited publicly available investment details [^2].*
 

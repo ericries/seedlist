@@ -63,21 +63,21 @@ Based on 25 verified investments, the following patterns emerge. Note: this repr
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| QuickNode | Seed | 2021 | Web3/Infrastructure | [^8] |
-| Pipe | Early | 2021 | Fintech | [^1] |
-| Alt | Early | 2021 | Fintech/Collectibles | [^1] |
-| Axie Infinity | Early | 2021 | Web3/Gaming | [^1] |
-| Metafy | Early | 2021 | Gaming/Education | [^1] |
-| Yuga Labs | Early | ~2022 | Web3/NFTs | [^5] |
-| Feastables | Early | ~2022 | Consumer/Food | [^9] |
-| Sorare | Early | ~2021 | Web3/Sports | [^6] |
-| Envoy | Early | ~2021 | Enterprise | [^6] |
-| Ro | Early | ~2021 | Health Tech | [^6] |
-| Stoke Space | Seed | ~2021 | Space/Deep Tech | [^6] |
+| QuickNode | Seed (Lead) | 2021 | Web3/Infrastructure | [^8] |
+| Pipe | Series B | 2021 | Fintech | [^1] |
+| Alt | Series A (Lead) | 2021 | Fintech/Collectibles | [^1] |
+| Axie Infinity | Series A | 2021 | Web3/Gaming | [^1] |
+| Metafy | Series A (Co-Lead) | 2021 | Gaming/Education | [^1] |
+| Yuga Labs | Seed | 2022 | Web3/NFTs | [^5] |
+| Feastables | Seed | 2022 | Consumer/Food | [^9] |
+| Sorare | Series B | 2021 | Web3/Sports | [^6] |
+| Envoy | Series C | 2021 | Enterprise | [^6] |
+| Ro | Series D follow-on | 2022 | Health Tech | [^6] |
+| Stoke Space | Seed | 2021 | Space/Deep Tech | [^6] |
 | Linear | Early | ~2021 | Developer Tools | [^6] |
 | Owner | Early | ~2021 | Restaurant Tech | [^6] |
-| Interlune | Seed | 2024 | Space/Resources | [^9] |
-| LambdaVision | Series B | 2025 | Biotech | [^7] |
+| Interlune | Seed (Lead) | 2024 | Space/Resources | [^9] |
+| LambdaVision | Seed (Co-Lead) | 2025 | Biotech | [^7] |
 
 *This table represents approximately 12% of 130 known investments. Many investments, particularly in crypto tokens via the Kryptos fund, are not individually documented in public sources.*
 

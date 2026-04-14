@@ -81,42 +81,42 @@ Based on 28 verified portfolio investments from publicly available sources:
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-~unknown| Anduril | Early | — | Defense | [^1] |
-~unknown| Anchorage Digital | Early | — | Crypto/Fintech | [^12] |
-~unknown| Aven | Seed | — | Fintech | [^1] |
-| Bland AI | Series A/B | 2024–2025 | AI | [^13] |
-~unknown| Blend | Early | — | Fintech | [^12] |
-~unknown| Bolt Threads | Early | — | Biotech | [^12] |
-| Brex | Seed | ~2018 | Fintech | [^1][^3] |
-~unknown| Capchase | Early | — | Fintech | [^1] |
-~unknown| ClearTax | Early | — | Fintech | [^12] |
-~unknown| Clipboard Health | Early | — | Healthcare | [^2] |
-~unknown| Coast | Early | — | Fintech/Payments | [^1][^2] |
-~unknown| Coinbase | Early | — | Crypto | [^12] |
-~unknown| Collective Health | Early | — | Healthcare | [^12] |
-~unknown| Color | Early | — | Healthcare/Genomics | [^12] |
+| Anduril | Early | — | Defense | [^1] |
+| Anchorage Digital | Early | — | Crypto/Fintech | [^12] |
+| Aven | Seed | — | Fintech | [^1] |
+| Bland AI | Series A | 2024 | AI | [^13] |
+| Blend | Early | — | Fintech | [^12] |
+| Bolt Threads | Early | — | Biotech | [^12] |
+| Brex | Series B | 2018 | Fintech | [^1][^3] |
+| Capchase | Early | — | Fintech | [^1] |
+| ClearTax | Early | — | Fintech | [^12] |
+| Clipboard Health | Early | — | Healthcare | [^2] |
+| Coast | Early | — | Fintech/Payments | [^1][^2] |
+| Coinbase | Early | — | Crypto | [^12] |
+| Collective Health | Early | — | Healthcare | [^12] |
+| Color | Early | — | Healthcare/Genomics | [^12] |
 | Empora Title | Series A | 2021 | Fintech/Real Estate | [^14] |
 | Folio | Series A | 2025 | Fintech/Hospitality | [^15] |
-| Loft | Seed | ~2018 | Real Estate/Fintech | [^1][^16] |
-~unknown| Maihem AI | Early | — | AI | [^1] |
-~unknown| Mixpanel | Early | — | Analytics | [^12] |
-~unknown| Nestmed | Early | — | Healthcare | [^1] |
-~unknown| Opendoor | Early | — | Real Estate/Fintech | [^3][^9] |
-~unknown| Peloton | Early | — | Consumer/Fitness | [^9] |
-~unknown| Pinterest | Early | — | Consumer | [^7][^12] |
-~unknown| Pomelo | Early | — | Fintech | [^1] |
-~unknown| Propel | Early | — | Social Impact/Fintech | [^2][^12] |
-~unknown| PsiQuantum | Early | — | Quantum Computing | [^1] |
-~unknown| Sift Science | Early | — | Security/ML | [^12] |
-~unknown| Stripe | Early | — | Fintech/Payments | [^1] |
-~unknown| Supergood AI | Early | — | AI | [^1] |
-~unknown| Synthego | Early | — | Biotech/Genomics | [^12] |
-~unknown| Uber | Early | — | Transportation | [^1][^7] |
-~unknown| Unity | Early | — | Gaming/Dev Tools | [^7] |
+| Loft | Series A | 2018 | Real Estate/Fintech | [^1][^16] |
+| Maihem AI | Early | — | AI | [^1] |
+| Mixpanel | Early | — | Analytics | [^12] |
+| Nestmed | Early | — | Healthcare | [^1] |
+| Opendoor | Early | — | Real Estate/Fintech | [^3][^9] |
+| Peloton | Early | — | Consumer/Fitness | [^9] |
+| Pinterest | Early | — | Consumer | [^7][^12] |
+| Pomelo | Early | — | Fintech | [^1] |
+| Propel | Early | — | Social Impact/Fintech | [^2][^12] |
+| PsiQuantum | Early | — | Quantum Computing | [^1] |
+| Sift Science | Early | — | Security/ML | [^12] |
+| Stripe | Early | — | Fintech/Payments | [^1] |
+| Supergood AI | Early | — | AI | [^1] |
+| Synthego | Early | — | Biotech/Genomics | [^12] |
+| Uber | Early | — | Transportation | [^1][^7] |
+| Unity | Early | — | Gaming/Dev Tools | [^7] |
 | Virta Health | Series B | 2018 | Healthcare | [^17] |
-~unknown| Wise (TransferWise) | Early | — | Fintech | [^3][^12] |
-~unknown| Workstream | Early | — | HR/Marketplace | [^12] |
-~unknown| Zymergen | Early | — | Biotech | [^12] |
+| Wise (TransferWise) | Early | — | Fintech | [^3][^12] |
+| Workstream | Early | — | HR/Marketplace | [^12] |
+| Zymergen | Early | — | Biotech | [^12] |
 
 This table represents approximately 36 of an estimated 82 total investments (~44%). Many investment years could not be independently verified and are marked with "—". The firm's top activity year was 2018 [^9].
 
