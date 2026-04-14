@@ -79,31 +79,31 @@ Based on Summit's portfolio of 550+ companies and the 57 current portfolio compa
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Klaviyo | Growth | 2019 | Marketing Technology | IPO (2023) | [^13] |
-| Darktrace | Series B | 2016 | Cybersecurity | IPO (2021) | [^14] |
-| FleetCor Technologies | Growth | 2002 | Fintech | IPO (2010) | [^4] |
-| Arista Networks | Growth | 2008 | Networking | IPO (2014) | [^4] |
-| Ubiquiti | Growth | 2010 | Networking | IPO (2011) | [^4] |
-| A10 Networks | Growth | 2010 | Networking | IPO (2014) | [^7] |
-| Acacia Communications | Growth | 2012 | Networking | IPO (2016) | [^4] |
-| LifeStance Health | Growth | 2018 | Healthcare | IPO (2021) | [^4] |
-| Odoo | Growth | 2019 | Business Software | Active | [^15] |
-| StackAdapt | Growth | 2021 | Ad Tech | Active | [^10] |
-| Keeper Security | Growth | 2022 | Cybersecurity | Active | [^10] |
+| Klaviyo | Growth | 2019 | Marketing Technology | IPO (2023) | [^13][^17] |
+| Darktrace | Growth | 2015 | Cybersecurity | IPO (2021) | [^14][^18] |
+| FleetCor Technologies | Growth | 2002 | Fintech | IPO (2010); rebranded Corpay (2024) | [^4][^19] |
+| Arista Networks | Growth | 2008 | Networking | IPO (2014) | [^4][^7] |
+| Ubiquiti | Growth | 2010 | Networking | IPO (2011) | [^20] |
+| A10 Networks | Series D | 2013 | Networking | IPO (2014) | [^21][^22] |
+| Acacia Communications | Growth | 2013 | Networking | IPO (2016); Acquired by Cisco | [^23] |
+| LifeStance Health | Growth | 2017 | Healthcare | IPO (2021) | [^24][^25] |
+| Odoo | Growth | 2019 | Business Software | Active | [^15][^26] |
+| StackAdapt | Growth | 2022 | Ad Tech | Active | [^10][^27] |
+| Keeper Security | Growth | 2023 | Cybersecurity | Active | [^28] |
 | Syndigo | Growth | 2020 | E-commerce Software | Active | [^10] |
 | Jobber | Growth | 2021 | Field Service Software | Active | [^10] |
 | LearnUpon | Growth | 2021 | EdTech/LMS | Active | [^16] |
 | Recharge | Growth | 2020 | Subscription Software | Active | [^10] |
 | Invicti Security | Growth | 2021 | Cybersecurity | Active | [^10] |
 | FNZ | Growth | 2019 | Wealth Management | Active | [^10] |
-| Manychat | Growth | 2023 | Marketing Automation | Active | [^10] |
+| Manychat | Growth | 2025 | Marketing Automation | Active | [^29] |
 | Dr. Squatch | Growth | 2020 | Consumer/DTC | Active | [^10] |
 | Brooklinen | Growth | 2020 | Consumer/DTC | Active | [^10] |
 | CluePoints | Growth | 2021 | Clinical Research | Active | [^10] |
 | VaxCare | Growth | 2022 | Healthcare | Active | [^10] |
 | Fortis Life Sciences | Growth | 2022 | Life Sciences | Active | [^10] |
-| E-TEK Dynamics | Growth | 1998 | Telecom | Merged with JDS Uniphase (~$18B) | [^7] |
-| Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7] |
+| E-TEK Dynamics | Growth | 1997 | Telecom | Merged with JDS Uniphase (~$18B) | [^7][^30] |
+| Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7][^30] |
 
 *This table represents approximately 25 of 550+ known investments. Summit's portfolio includes 175+ IPOs and 250+ strategic exits [^3].*
 
@@ -137,3 +137,17 @@ No independently sourced founder testimonials found. Summit Partners' portfolio 
 [^14]: Summit Partners, "Darktrace Raises Growth Equity from Summit Partners," accessed March 2026. https://www.summitpartners.com/news/darktrace-raises-growth-equity-from-summit-partners
 [^15]: Summit Partners, "Odoo Announces $90 Million Investment Led by Summit Partners," accessed March 2026. https://www.summitpartners.com/news/odoo-announces-90-million-investment-led-by-summit-partners
 [^16]: Summit Partners, "LearnUpon Closes $56 Million Growth Equity Investment from Summit Partners," accessed March 2026. https://www.summitpartners.com/news/learnupon-closes-56-million-growth-equity-investment-from-summit-partners-to-help-businesses-unlock-the-power-of-learning
+[^17]: FinSMEs, "Klaviyo Receives $150M Investment from Summit Partners," April 2019. https://www.finsmes.com/2019/04/klaviyo-receives-150m-investment-from-summit-partners.html
+[^18]: PR Newswire, "Darktrace Raises Growth Equity from Summit Partners," 2015. https://www.prnewswire.com/news-releases/darktrace-raises-growth-equity-from-summit-partners-518084691.html
+[^19]: Harvard Business School, "Summit Partners — The FleetCor Investment (A)," case study, accessed April 2026. https://www.hbs.edu/faculty/Pages/item.aspx?num=33651
+[^20]: Summit Partners website, "Companies — Ubiquiti," accessed April 2026. https://www.summitpartners.com/companies/ubiquiti
+[^21]: PR Newswire, "A10 Networks Raises $115 Million in New Capital Based upon Continued Growth," 2013. https://www.prnewswire.com/news-releases/a10-networks-raises-115-million-in-new-capital-based-upon-continued-growth-226308261.html
+[^22]: Summit Partners website, "Companies — A10 Networks," accessed April 2026. https://www.summitpartners.com/companies/a10-networks
+[^23]: Summit Partners, "Acacia Communications Closes $20 Million in New Financing," accessed April 2026. https://www.summitpartners.com/news/acacia-communications-closes-20-million-in-new-financing
+[^24]: Silversmith Capital Partners, "LifeStance Health Enters the Behavioral Healthcare Arena in Partnership with Summit Partners and Silversmith Capital Partners," accessed April 2026. https://www.silversmith.com/news/lifestance-health-enters-the-behavioral-healthcare-arena-in-partnership-with-summit-partners-and-silversmith-capital-partners
+[^25]: BusinessWire, "LifeStance Health Partners with TPG, Summit Partners, and Silversmith to Expand Behavioral Health Access," April 2020. https://www.businesswire.com/news/home/20200416005666/en/LifeStance-Health-Partners-with-TPG-Summit-Partners-and-Silversmith-to-Expand-Behavioral-Health-Access
+[^26]: BusinessWire, "Odoo Announces $90 Million Investment Led by Summit Partners," December 2019. https://www.businesswire.com/news/home/20191217005513/en/Odoo-Announces-90-Million-Investment-Led-by-Summit-Partners
+[^27]: Summit Partners website, "Companies — StackAdapt," accessed April 2026. https://www.summitpartners.com/companies/stackadapt
+[^28]: PR Newswire, "Keeper Security Announces Minority Growth Equity Investment from Summit Partners," May 2023. https://www.prnewswire.com/news-releases/keeper-security-announces-minority-growth-equity-investment-from-summit-partners-301819147.html
+[^29]: Summit Partners, "Manychat Raises $140M Led by Summit Partners," April 2025. https://www.summitpartners.com/news/manychat-raises-140m-to-fuel-the-future-of-ai-driven-customer-engagement-on-social-and-messaging-platforms
+[^30]: Summit Partners website, "Peter Y. Chung" team page (E-TEK Dynamics and Finisar listed as portfolio companies), accessed April 2026. https://www.summitpartners.com/team/peter-chung

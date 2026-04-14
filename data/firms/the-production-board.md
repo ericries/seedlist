@@ -77,28 +77,28 @@ The analysis below is based on 19 verified portfolio companies and investments f
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| NorQuin | ~2017 | Investment | Agriculture / quinoa | Acquired by Above Food | [^3] |
+| NorQuin | 2017 | Investment | Agriculture / quinoa | Acquired by Above Food (2022) | [^3][^27] |
 | Clara Foods (The Every Company) | 2015 | Seed (led), Series A (sole) | Food tech / alt protein | Active | [^3] |
-| Soylent | ~2015 | Seed; Series B co-led w/ GV ($50M, 2017) | Food / nutrition | Acquired by Starco Brands (2023) | [^3][^18] |
-| Eatsa | ~2016 | Incubated | Restaurant tech | Shut down | [^3] |
-| Wellio | ~2017 | Incubated | Food / AI | Acquired by Kraft Heinz (2018) | [^19] |
-| Frontier Farmland | ~2017 | Investment | Agriculture / farmland | Active | [^3] |
+| Soylent | 2015 | Seed; Series B co-led w/ GV ($50M, 2017) | Food / nutrition | Acquired by Starco Brands (2023) | [^3][^18][^28] |
+| Eatsa (rebranded Brightloom) | 2015 | Incubated | Restaurant tech | Pivoted to software; raised $30M (2019) | [^3][^29] |
+| Wellio | 2017 | Incubated | Food / AI | Acquired by Kraft Heinz (2018) | [^19] |
+| Frontier Farmland | 2017 | Investment | Agriculture / farmland | Active | [^3] |
 | Tillable (now CamoAg) | 2019 | Series A (led, $8.25M) | Agtech / farmland marketplace | Active (rebranded) | [^3][^20] |
 | Pattern Ag | 2018 | Incubated; $15M round (2020) | Agtech / soil microbiome | Active | [^13][^21] |
-| Stenon | 2018 | Series A co-led ($20M, 2021) | Agtech / soil sensing | Active | [^15] |
-| Cana Technology | ~2018 | Incubated ($30M) | Consumer / beverages | Shut down (2023) | [^16][^17] |
+| Stenon | 2021 | Series A co-led ($20M) | Agtech / soil sensing | Active | [^15] |
+| Cana Technology | 2018 | Incubated ($30M) | Consumer / beverages | Shut down (Apr 2023); assets sold | [^16][^17][^30] |
 | Ohalo Genetics | 2019 | Incubated / co-founded ($100M+) | Agtech / gene editing | Active | [^22] |
 | Triplebar Bio | 2019 | Incubated; $20M round (2023) | Synthetic biology | Active | [^13][^23] |
 | Culture Biosciences | 2016 | Investment | Biomanufacturing / bioreactors | Active | [^2][^14] |
 | Supergut | 2019 | Co-founded; Series B (2025) | Food / gut health | Active | [^14][^24] |
-| Lavoro | 2017 | SPAC ($100M TPB investment, 2022-23) | Agriculture / distribution (LatAm) | Public (LVRO) | [^8][^9] |
-| EarthOptics | ~2020 | Investment; $24M round (2024) | Agtech / soil digitization | Active | [^25] |
+| Lavoro | 2022 | SPAC ($100M TPB investment) | Agriculture / distribution (LatAm) | Public (LVRO, Feb 2023) | [^8][^9] |
+| EarthOptics | 2024 | Investment ($24M round) | Agtech / soil digitization | Active | [^25] |
 | PinkDx | 2022 | Co-led financing | Life sciences / women's health | Active | [^24] |
 | Dextera Biosciences | 2008 | Investment | Life sciences / therapeutics | Active | [^14] |
 | Storylines | 2020 | Investment | Software / AI video | Active | [^14] |
 | Rumi | 2020 | Investment | Software / AI meetings | Active | [^14] |
 
-*This table represents publicly verifiable portfolio activity. Additional stealth-mode companies may exist. Dates marked with ~ are approximate based on founding year or earliest public mention.*
+*This table represents publicly verifiable portfolio activity. Additional stealth-mode companies may exist. Year column reflects the year of TPB's investment or the company's public launch, whichever is earlier documented.*
 
 ## In Their Own Words
 
@@ -154,3 +154,7 @@ No independently sourced testimonials from external founders (i.e., founders who
 [^24]: PitchBook, "The Production Board investment portfolio," accessed April 2026. https://pitchbook.com/profiles/investor/233091-73
 [^25]: GlobeNewsWire, "EarthOptics Secures $24 Million in Financing to Drive Expansion and Revolutionize Soil Digitization," November 19, 2024, accessed April 2026. https://www.globenewswire.com/news-release/2024/11/19/2983505/0/en/EarthOptics-Secures-24-Million-in-Financing-to-Drive-Expansion-and-Revolutionize-Soil-Digitization.html
 [^26]: Accelerate, "Absolute Return Podcast #240: Reimagining Earth Through Investing with TPB's CEO David Friedberg," 2023, accessed April 2026. https://accelerateshares.com/podcasts/absolute-return-podcast-240-reimagining-earth-through-investing-with-tpbs-ceo-david-friedberg/
+[^27]: PR Newswire, "Above Food to Acquire NorQuin, Largest Vertically Integrated Supplier of North American Quinoa," May 2022, accessed April 2026. https://www.prnewswire.com/news-releases/above-food-to-acquire-norquin-largest-vertically-integrated-supplier-of-north-american-quinoa-301550734.html
+[^28]: Food Navigator USA, "Soylent secures $20m investment," January 2015, accessed April 2026. https://www.foodnavigator-usa.com/Article/2015/01/26/Soylent-secures-20m-investment/
+[^29]: GlobeNewsWire, "eatsa Rebrands as Brightloom and Will Leverage Starbucks Digital Software to Create First Ever 'Digital Flywheel' Technology Platform for Restaurants," July 2019, accessed April 2026. https://www.globenewswire.com/news-release/2019/07/22/1886045/0/en/eatsa-Rebrands-as-Brightloom-and-Will-Leverage-Starbucks-Digital-Software-to-Create-First-Ever-Digital-Flywheel-Technology-Platform-for-Restaurants.html
+[^30]: The Spoon, "Sold! Mystery Company Acquires Assets of Beverage Printing Startup Cana," 2023, accessed April 2026. https://thespoon.tech/sold-mystery-company-acquires-assets-of-beverage-printing-startup-cana/

@@ -114,62 +114,62 @@ The following table includes selected portfolio companies. This represents a sub
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Syremis Therapeutics | Series A | 2025 | Neuropsychiatry | Active | [^13] |
+| Syremis Therapeutics | Series A ($165M) | 2025 | Neuropsychiatry | Active | [^13] |
 | Azalea Therapeutics | Series A | 2025 | Oncology/Immunotherapy | Active | [^1] |
 | Candid Therapeutics | Series A | 2025 | Immunology | Active | [^1] |
-| Seaport Therapeutics | Series A | 2024 | Neuropsychiatry | Active | [^14] |
-| Clasp Therapeutics | Series A | ~2023 | Immunology | Active | [^1] |
-| Synnovation Therapeutics | Series A | ~2023 | Oncology | Active | [^1] |
-| ArtBio | Series A | ~2023 | Oncology | Active | [^1] |
-| Rapport Therapeutics | Series A | ~2022 | Neuroscience | Active | [^1] |
-| Terremoto Biosciences | Series A | ~2022 | Drug Discovery | Active | [^1] |
-| Trace Neuroscience | Series A | ~2022 | Neuroscience | Active | [^1] |
-| Marea Therapeutics | Series A | ~2022 | Therapeutics | Active | [^1] |
-| Abata Therapeutics | Series A | ~2021 | Immunology/Neuroinflammation | Active | [^1] |
-| MOMA Therapeutics | Series A | ~2020 | Oncology | Active | [^1] |
-| Faze Medicines | Series A | ~2020 | Drug Discovery | Active | [^1] |
+| Seaport Therapeutics | Series A ($100M) | 2024 | Neuropsychiatry | Active | [^14] |
+| Clasp Therapeutics | Series A ($150M) | 2024 | Immunology/Oncology | Active | [^21] |
+| Synnovation Therapeutics | Series A ($102M) | 2024 | Oncology | Active | [^22] |
+| ArtBio | Series A ($90M) | 2023 | Oncology/Radiopharmaceutical | Active | [^23] |
+| Trace Neuroscience | Series A ($101M) | 2024 | Neuroscience/ALS | Active | [^24] |
+| Marea Therapeutics | Series A+B ($190M) | 2024 | Cardiometabolic | Active | [^25] |
+| Rapport Therapeutics | Series A ($100M) | 2023 | Neuroscience | Active | [^26] |
+| Terremoto Biosciences | Series A ($75M) | 2022 | Drug Discovery | Active | [^27] |
+| Septerna | Series A ($100M) | 2022 | Drug Discovery/GPCR | Public (IPO, Jan 2025) | [^28] |
+| Abata Therapeutics | Series A ($95M) | 2021 | Immunology/Neuroinflammation | Active | [^29] |
+| Asher Bio | Series A ($55M) | 2021 | Immunology | Active | [^30] |
+| Flare Therapeutics | Series A ($82M) | 2021 | Oncology | Active | [^31] |
+| Cargo Therapeutics | Series A ($200M) | 2023 | Cell Therapy | Public (IPO) | [^32] |
+| MOMA Therapeutics | Series A | 2020 | Oncology | Active | [^1][^10] |
+| Faze Medicines | Series A ($81M) | 2020 | Drug Discovery | Shut down (2022) | [^33] |
 | Thrive Earlier Detection | Series A | 2019 | Diagnostics/Oncology | Acquired | [^9] |
-| Asher Bio | Series A | ~2019 | Immunology | Active | [^1] |
-| Insitro | Series A | ~2018 | Computational Biology | Active | [^1] |
-| Tango Therapeutics | Series A | ~2017 | Oncology | Public (IPO) | [^16] |
-| Relay Therapeutics | Series A | 2016 | Drug Discovery/Oncology | Public (IPO) | [^15] |
-| CASMA Therapeutics | Series A | ~2018 | Autophagy | Active | [^1] |
-| Magenta Therapeutics | Series A | ~2016 | Stem Cell | Public (IPO) | [^1] |
-| Goldfinch Bio | Series A | ~2016 | Kidney Disease | Active | [^1] |
-| Flare Therapeutics | Series A | ~2019 | Oncology | Active | [^1] |
-| Cedilla Therapeutics | Series A | ~2017 | Oncology | Active | [^1] |
-| Cargo Therapeutics | Series A | ~2021 | Cell Therapy | Public (IPO) | [^1] |
-| Decibel Therapeutics | Series A | ~2015 | Hearing Loss | Acquired | [^1] |
-| Neon Therapeutics | Series A | ~2015 | Immuno-oncology | Acquired | [^1] |
-| Rheos Medicines | Series A | ~2017 | Immunology | Acquired | [^1] |
-| Jounce Therapeutics | Series A | ~2014 | Immuno-oncology | Public (IPO) | [^1] |
-| Pliant Therapeutics | Series A | ~2016 | Fibrosis | Public (IPO) | [^1] |
-| Nurix Therapeutics | Series A | ~2015 | Drug Discovery | Public (IPO) | [^1] |
-| Fulcrum Therapeutics | Series A | ~2016 | Genetic Disease | Public (IPO) | [^1] |
-| Maze Therapeutics | Series A | ~2018 | Genetic Disease | Public (IPO, Jan 2025) | [^10] |
-| Septerna | Series A | ~2019 | Drug Discovery | Public (IPO, Jan 2025) | [^10] |
+| Maze Therapeutics | Series A ($191M) | 2019 | Genetic Disease | Public (IPO, Jan 2025) | [^34] |
+| Insitro | Series A | 2018 | Computational Biology | Active | [^1] |
+| CASMA Therapeutics | Series A ($58.5M) | 2018 | Autophagy | Active | [^35] |
+| Cedilla Therapeutics | Series A ($56M) | 2018 | Oncology | Active | [^36] |
+| Rheos Medicines | Series A ($60M) | 2018 | Immunology | Acquired | [^37] |
+| Tango Therapeutics | Series A ($55M) | 2017 | Oncology | Public (IPO) | [^16] |
+| Relay Therapeutics | Series A ($57M) | 2016 | Drug Discovery/Oncology | Public (IPO) | [^15] |
+| Magenta Therapeutics | Series A ($48.5M) | 2016 | Stem Cell | Public (IPO) | [^38] |
+| Goldfinch Bio | Series A ($55M) | 2016 | Kidney Disease | Shut down | [^39] |
+| Pliant Therapeutics | Series A ($45M) | 2016 | Fibrosis | Public (IPO) | [^40] |
+| Fulcrum Therapeutics | Series A ($55M) | 2016 | Genetic Disease | Public (IPO) | [^41] |
+| Decibel Therapeutics | Series A ($52M) | 2015 | Hearing Loss | Acquired (Regeneron) | [^42] |
+| Neon Therapeutics | Series A ($55M) | 2015 | Immuno-oncology | Acquired | [^43] |
+| REVOLUTION Medicines | Series A ($45M) | 2015 | Oncology | Public (IPO) | [^44] |
+| Nurix Therapeutics | Series B ($25M) | 2014 | Drug Discovery | Public (IPO) | [^45] |
+| Voyager Therapeutics | Series A ($45M) | 2014 | Gene Therapy/Neurology | Public (IPO) | [^46] |
+| Jounce Therapeutics | Series A ($47M) | 2013 | Immuno-oncology | Public (IPO) | [^47] |
+| Editas Medicine | Series A | 2013 | Gene Editing | Public (IPO) | [^1] |
+| Blueprint Medicines | Series A | 2011 | Oncology | Public (IPO) | [^7] |
 | MyoKardia | Series A | 2012 | Cardiovascular | Acquired (BMS, $13.1B, 2020) | [^17] |
-| Global Blood Therapeutics | Series A | ~2012 | Hematology | Public (IPO); Acquired (Pfizer) | [^7] |
+| Global Blood Therapeutics | Series A ($40.7M) | 2012 | Hematology | Public (IPO); Acquired (Pfizer) | [^48] |
+| Warp Drive Bio | Series A | 2012 | Drug Discovery | Acquired (Revolution Medicines, 2018) | [^3] |
+| Allena Pharmaceuticals | Series A ($15M) | 2011 | Kidney/Metabolic | Public (IPO) | [^49] |
+| Element Science | Series A | 2011 | Medical Devices | Active | [^1] |
+| Ember Therapeutics | Series A | 2011 | Metabolic Disease | Shut down | [^50] |
+| Lotus Tissue Repair | Series A ($26M) | 2011 | Dermatology | Acquired (Shire, 2013) | [^51] |
 | SAGE Therapeutics | Series A | 2011 | Neuroscience/CNS | Public (IPO) | [^18] |
-| Blueprint Medicines | Series A | ~2013 | Oncology | Public (IPO) | [^7] |
-| Editas Medicine | Series A | ~2013 | Gene Editing | Public (IPO) | [^1] |
+| Sesen Bio (Eleven Bio) | Series A | 2011 | Oncology | Public (IPO) | [^1] |
+| CytomX Therapeutics | Series A | 2010 | Oncology | Public (IPO) | [^7] |
+| Kala Bio | Series A | 2009 | Ophthalmology | Public (IPO) | [^7] |
+| Constellation Pharmaceuticals | Series A ($32M) | 2008 | Oncology/Epigenetics | Public (IPO); Acquired | [^52] |
+| Agios Pharmaceuticals | Series A | 2008 | Oncology/Metabolism | Public (IPO) | [^2] |
+| Alnara Pharmaceuticals | Series A | 2008 | GI Disease | Acquired (Eli Lilly, 2010) | [^7] |
+| Zafgen | Series A | 2008 | Metabolic Disease | Public (IPO) | [^7] |
 | bluebird bio | Series B | 2010 | Gene Therapy | Public (IPO) | [^7] |
+| Rhythm Pharmaceuticals | Series A | 2012 | Rare Disease | Public (IPO) | [^7] |
 | Foundation Medicine | Series A | 2008 | Genomic Diagnostics | Public (IPO); Acquired (Roche, $5B) | [^2] |
-| Agios Pharmaceuticals | Series A | ~2008 | Oncology/Metabolism | Public (IPO) | [^2] |
-| Constellation Pharmaceuticals | Series A | ~2009 | Oncology/Epigenetics | Public (IPO); Acquired | [^7] |
-| Kala Bio | Series A | ~2011 | Ophthalmology | Public (IPO) | [^7] |
-| Rhythm Pharmaceuticals | Series A | ~2012 | Rare Disease | Public (IPO) | [^7] |
-| Zafgen | Series A | ~2009 | Metabolic Disease | Public (IPO) | [^7] |
-| Warp Drive Bio | Series A | ~2012 | Drug Discovery | Acquired (Revolution Medicines, 2018) | [^3] |
-| CytomX Therapeutics | Series A | ~2011 | Oncology | Public (IPO) | [^7] |
-| Voyager Therapeutics | Series A | ~2014 | Gene Therapy/Neurology | Public (IPO) | [^1] |
-| Element Science | Series A | ~2015 | Medical Devices | Active | [^1] |
-| Sesen Bio | Series A | ~2014 | Oncology | Public (IPO) | [^1] |
-| REVOLUTION Medicines | Series A | ~2014 | Oncology | Public (IPO) | [^1] |
-| Allena Pharmaceuticals | Series A | ~2012 | Kidney/Metabolic | Public (IPO) | [^7] |
-| Ember Therapeutics | Series A | ~2012 | Metabolic Disease | Active | [^7] |
-| Alnara Pharmaceuticals | Series A | ~2008 | GI Disease | Acquired (Eli Lilly, 2010) | [^7] |
-| Lotus Tissue Repair | Series A | ~2010 | Dermatology | Acquired (Shire, 2013) | [^7] |
 
 ## In Their Own Words
 
@@ -231,3 +231,35 @@ Note: The Bill Helman quote is from a fellow venture capitalist rather than a po
 [^18]: Fierce Biotech, "Third Rock startup Sage banks $20M as it 'thinks big' about CNS drugs." https://www.fiercebiotech.com/r-d/third-rock-startup-sage-banks-20m-as-it-thinks-big-about-cns-drugs
 [^19]: Harvard Stem Cell Institute, "Alexis Borisy, Partner at Third Rock Ventures," accessed April 2026. https://www.hsci.harvard.edu/resource/alexis-borisy-partner-third-rock-ventures
 [^20]: Excedr, "Who Is Third Rock Ventures? An Overview," accessed April 2026. https://www.excedr.com/blog/venture-capital-third-rock-ventures
+[^21]: Fierce Biotech, "Third Rock, Novo Holdings-backed Clasp Tx hooks $150M series A for next-gen cancer treatments," March 2024. https://www.fiercebiotech.com/biotech/clasp-tx-hooks-150m-series-next-gen-cancer-treatments
+[^22]: BioSpace, "Synnovation Therapeutics Launches with $102 Million to Advance Clinical-Stage Pipeline," January 2024. https://www.biospace.com/synnovation-therapeutics-launches-with-102-million-to-advance-clinical-stage-pipeline-of-precision-therapies-targeting-highly-validated-disease-pathways
+[^23]: PR Newswire, "ARTBIO Raises Oversubscribed and Upsized $90 Million Series A Financing," December 2023. https://www.prnewswire.com/news-releases/artbio-raises-oversubscribed-and-upsized-90-million-series-a-financing-to-progress-pipeline-and-isotope-technology-development-for-new-class-of-alpha-radioligand-therapies-302008226.html
+[^24]: BusinessWire, "Trace Neuroscience Launches With $101 Million Series A Financing to Expand Genomic Medicine for Neurodegenerative Diseases," November 2024. https://www.businesswire.com/news/home/20241112074588/en/Trace-Neuroscience-Launches-With-%24101-Million-Series-A-Financing-to-Expand-Genomic-Medicine-for-Neurodegenerative-Diseases
+[^25]: BusinessWire, "Marea Therapeutics Launches with $190 Million to Accelerate a New Generation of Medicines for Cardiometabolic Diseases," June 2024. https://www.businesswire.com/news/home/20240617273647/en/Marea-Therapeutics-Launches-with-%24190-Million-to-Accelerate-a-New-Generation-of-Medicines-for-Cardiometabolic-Diseases
+[^26]: BusinessWire, "Rapport Therapeutics Launches with $100 Million," March 2023. https://www.businesswire.com/news/home/20230307005230/en/Rapport-Therapeutics-Launches-with-100-Million-to-Transform-the-Treatment-of-Neurological-Disease-through-the-Discovery-and-Development-of-Precision-Therapies
+[^27]: BusinessWire, "Terremoto Biosciences Launches With $75 Million Series A Financing," May 2022. https://www.businesswire.com/news/home/20220525005250/en/Terremoto-Biosciences-Launches-With-$75-Million-Series-A-Financing-and-Mission-to-Discover-and-Develop-Groundbreaking-Covalent-Medicines
+[^28]: Septerna press release, "Septerna Launches with $100 Million Series A Financing," January 2022. https://ir.septerna.com/news-releases/news-release-details/septerna-launches-100-million-series-financing-expand-frontier
+[^29]: BusinessWire, "Abata Therapeutics Launches to Usher in New Era of Cell Therapy Using Targeted Regulatory T Cells," June 2021. https://www.businesswire.com/news/home/20210623005274/en/Abata-Therapeutics-Launches-to-Usher-in-New-Era-of-Cell-Therapy-Using-Targeted-Regulatory-T-Cells-to-Treat-Serious-Autoimmune-and-Inflammatory-Diseases
+[^30]: BusinessWire, "Asher Bio Launches with $55 Million Series A Financing Led by Third Rock Ventures," March 2021. https://www.businesswire.com/news/home/20210323005426/en/Asher-Bio-Launches-with-%2455-Million-Series-A-Financing-Led-by-Third-Rock-Ventures-to-Discover-and-Develop-Highly-Specific-Immunotherapies-Using-a-Novel-Technology-Platform
+[^31]: BusinessWire, "Flare Therapeutics Launches with $82 Million Series A Financing," May 2021. https://www.businesswire.com/news/home/20210513005311/en/Flare-Therapeutics-Launches-with-%2482-Million-Series-A-Financing-to-Advance-Precision-Oncology-Pipeline-based-on-Novel-Drug-Discovery-Approach-for-Transcription-Factors
+[^32]: GlobeNewsWire, "CARGO Therapeutics Raises $200 Million in Oversubscribed, Upsized Series A Financing," March 2023. https://www.globenewswire.com/news-release/2023/03/01/2618358/0/en/CARGO-Therapeutics-Raises-200-Million-in-Oversubscribed-Upsized-Series-A-Financing-to-Advance-its-Pipeline-of-Next-Generation-CAR-T-Cell-Therapies.html
+[^33]: BusinessWire, "Faze Medicines Launches With $81 Million Series A Financing," December 2020. https://www.businesswire.com/news/home/20201210005178/en/Faze-Medicines-Launches-With-%2481-Million-Series-A-Financing-to-Leverage-New-Biology-of-Biomolecular-Condensates-to-Treat-Disease
+[^34]: Maze Therapeutics press release, "Maze Therapeutics Launches with $191 Million," February 2019. https://ir.mazetx.com/news-releases/news-release-details/maze-therapeutics-launches-191-million-focus-translating-genetic
+[^35]: CASMA Therapeutics press release, "Third Rock Ventures Launches Casma Therapeutics with $58.5 Million Investment," May 2018. https://www.casmatx.com/2018/05/03/third-rock-ventures-launches-casma-therapeutics-with-58-5-million-investment-to-harness-the-cellular-process-of-autophagy-to-develop-breakthrough-therapies/
+[^36]: BusinessWire, "Third Rock Ventures Launches Cedilla Therapeutics with $56 Million Investment," April 2018. https://www.businesswire.com/news/home/20180424005295/en/Rock-Ventures-Launches-Cedilla-Therapeutics-56-Million
+[^37]: BusinessWire, "Third Rock Ventures Launches Rheos Medicines with $60 Million in Series A Funding," March 2018. https://www.businesswire.com/news/home/20180322005056/en/Rock-Ventures-Launches-Rheos-Medicines-60-Million
+[^38]: BusinessWire, "Magenta Therapeutics Announces $48.5M Series A Financing," November 2016. https://www.businesswire.com/news/home/20161116005422/en/Magenta-Therapeutics-Announces-48.5M-Series-A-Financing-to-Transform-Stem-Cell-Transplant-for-Immune-and-Blood-Diseases
+[^39]: BusinessWire, "Third Rock Ventures Launches Goldfinch Bio with $55 Million Series A Investment," December 2016. https://www.businesswire.com/news/home/20161214005249/en/Third-Rock-Ventures-Launches-Goldfinch-Bio-with-55-Million-Series-A-Investment
+[^40]: Pliant Therapeutics press release, "Third Rock Ventures Launches Pliant Therapeutics with $45 Million Series A," February 2016. https://ir.pliantrx.com/news-releases/news-release-details/third-rock-ventures-launches-pliant-therapeutics-45-million/
+[^41]: Fulcrum Therapeutics press release, "Third Rock Ventures Launches Fulcrum Therapeutics with $55 Million Series A Investment," July 2016. https://www.fulcrumtx.com/third-rock-ventures-launches-fulcrum-therapeutics-with-55-million-series-a-investment/
+[^42]: BusinessWire, "Third Rock Ventures Launches Decibel Therapeutics with $52 Million Series A Financing," October 2015. https://www.businesswire.com/news/home/20151015005193/en/Rock-Ventures-Launches-Decibel-Therapeutics-52-Million
+[^43]: BusinessWire, "Neon Therapeutics Launches with $55 Million Series A to Develop Neoantigen-based Cancer Immunotherapies," October 2015. https://www.businesswire.com/news/home/20151001005330/en/Neon-Therapeutics-Launches-55-Million-Series-Develop
+[^44]: BusinessWire, "Third Rock Ventures Launches REVOLUTION Medicines with $45 Million Series A," February 2015. https://www.businesswire.com/news/home/20150204005264/en/Rock-Ventures-Launches-REVOLUTION-Medicines-45-Million
+[^45]: Fierce Biotech, "Third Rock Ventures and The Column Group Launch Nurix with $25.1 Million Financing," May 2014. https://www.fiercebiotech.com/biotech/third-rock-ventures-and-column-group-launch-nurix-25-1-million-financing-to-target-key
+[^46]: BusinessWire, "Third Rock Ventures Launches Voyager Therapeutics with $45 Million Series A," February 2014. https://www.businesswire.com/news/home/20140212005145/en/Third-Rock-Ventures-Launches-Voyager-Therapeutics-with-45-Million-Series-A-to-Develop-Life-Changing-Gene-Therapies-for-CNS-Disorders
+[^47]: BusinessWire, "Third Rock Ventures Launches Jounce Therapeutics with $47 Million Series A to Transform Cancer Treatment," February 2013. https://www.businesswire.com/news/home/20130214005207/en/Rock-Ventures-Launches-Jounce-Therapeutics-47-Million
+[^48]: BusinessWire, "Third Rock Ventures Launches Global Blood Therapeutics with $40.7 Million," June 2012. https://www.businesswire.com/news/home/20120614005312/en/Third-Rock-Ventures-Launches-Global-Blood-Therapeutics-with-40.7-Million-to-Revolutionize-the-Treatment-of-Chronic-Blood-Based-Diseases
+[^49]: Allena Pharmaceuticals press release, "Allena Pharmaceuticals Launches with $15 Million Series A Round," November 2011. https://ir.allenapharma.com/news-releases/news-release-details/allena-pharmaceuticals-launches-15-million-series-round
+[^50]: BusinessWire, "Third Rock Ventures Launches Ember Therapeutics to Address Critical Need for Novel Treatments for Metabolic Disease," December 2011. https://www.businesswire.com/news/home/20111215005181/en/Rock-Ventures-Launches-Ember-Therapeutics-Address-Critical
+[^51]: BusinessWire, "Lotus Tissue Repair, Inc. Secures $26 Million Series A Financing," June 2011. https://www.businesswire.com/news/home/20110630005087/en/Lotus-Tissue-Repair-Inc.-Secures-26-Million-Series-A-Financing-to-Develop-First-in-Class-Protein-Replacement-Therapy-for-Dystrophic-Epidermolysis-Bullosa
+[^52]: Fierce Biotech, "Constellation Pharmaceuticals Closes $32 Million in Series A Funding," 2008. https://www.fiercebiotech.com/biotech/constellation-pharmaceuticals-closes-32-million-series-a-funding
