@@ -12,7 +12,25 @@ sector:
 - space-domain-awareness
 stage_latest: Series A
 total_raised: $15M
-firms: []
+firms:
+- slug: washington-harbour-partners
+  round: series-a
+  year: 2026
+- slug: industrious-ventures
+  round: series-a
+  year: 2026
+- slug: scout-vc
+  round: series-a
+  year: 2026
+- slug: squadra-ventures
+  round: series-a
+  year: 2026
+- slug: alumni-ventures
+  round: series-a
+  year: 2026
+- slug: flex-capital
+  round: series-a
+  year: 2026
 investors: []
 founders:
 - name: Tom Nichols
@@ -33,7 +51,7 @@ Citra Space Corporation is a Colorado Springs-based space technology company tha
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-13 | Series A | $15M | Washington Harbour Partners | [^1] |
+| 2026-04-13 | Series A | $15M | Washington Harbour Partners | Industrious Ventures, Reliable Properties, Scout VC, Squadra Ventures, Alumni Ventures, Flex Capital [^1] |
 
 ## What Investors Say
 

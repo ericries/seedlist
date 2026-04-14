@@ -1,4 +1,14 @@
 pending_rounds:
+- title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
+    Shares of 6.25% Series 2027 Term Preferred Stock'
+  url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
+  source: globenewswire
+  date_found: '2026-04-14'
+  parsed_company: 'Correction: Oxford Lane Capital Corp.'
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: share redemption/corporate action, not a startup round
 - title: Rork raised $15M Seed
   url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
   source: prnewswire
@@ -136,6 +146,79 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact; duplicate of Ultralight $9.3M entry
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/13/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-13-2026/
+  source: alleywatch
+  date_found: '2026-04-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: extracted Attention $21.6M (SEC filing, unverified amount; skipped) and Chapter
+    $100M Series E (already processed); no new profiles needed
+- title: Neomorph raised $100M Series B
+  url: https://www.globenewswire.com/news-release/2026/04/13/3272523/0/en/Neomorph-Announces-Closing-of-100-Million-Series-B-Financing.html
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: Neomorph
+  parsed_amount: $100M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile neomorph.md
+- title: Critical Loop raised $26M Series A
+  url: https://ca.finance.yahoo.com/news/critical-loop-raises-26m-series-140000278.html
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: Critical Loop
+  parsed_amount: $26M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile critical-loop.md
+- title: pH7 Technologies Series B final close ~$32M equity
+  url: https://betakit.com/ph7-wraps-series-b-as-it-readies-to-bring-critical-mineral-extraction-tech-to-mining/
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: pH7 Technologies
+  parsed_amount: $32M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile ph7-technologies.md
+- title: Replenit raised $2.5M Pre-Seed
+  url: https://tech.eu/2026/04/13/replenit-raises-25m-to-bring-real-time-ai-decision-making-to-retail/
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: Replenit
+  parsed_amount: $2.5M
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile replenit.md
+- title: Superstate additional Series B closing (Invesco)
+  url: https://www.prnewswire.com/news-releases/superstate-and-invesco-expand-strategic-partnership-302739723.html
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: Superstate
+  parsed_amount: null
+  parsed_round: Series B
+  status: skipped
+  skip_reason: additional closing of existing $82.5M Series B; no new amount disclosed
+- title: ShengShu Technology raised RMB 2B Series B
+  url: https://techstartups.com/2026/04/13/top-startup-and-tech-funding-news-april-13-2025/
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: ShengShu Technology
+  parsed_amount: RMB 2B
+  parsed_round: Series B
+  status: skipped
+  skip_reason: China-based AI company; outside primary US focus
+- title: Common Wealth raised CAD $12M Series A
+  url: https://www.newswire.ca/news-releases/common-wealth-raises-12-million-series-a-to-expand-retirement-security-for-canadians-836585010.html
+  source: websearch
+  date_found: '2026-04-13'
+  parsed_company: Common Wealth
+  parsed_amount: CAD $12M
+  parsed_round: Series A
+  status: skipped
+  skip_reason: Canada-only retirement fintech; outside primary scope
 - title: Stack Capital Group Inc. Closes Upsized Best Efforts Concurrent Private Placement
     for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
   url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
@@ -893,22 +976,3 @@ pending_rounds:
   parsed_amount: $5.5M
   parsed_round: null
   status: processed
-- title: 'Sector Snapshot: Venture Funding To Foundational AI Startups In Q1 Was Double
-    All Of 2025'
-  url: https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: Arch Biopartners Closes Non-Brokered Private Placement
-  url: https://www.globenewswire.com/news-release/2026/04/02/3267174/0/en/Arch-Biopartners-Closes-Non-Brokered-Private-Placement.html
-  source: globenewswire
-  date_found: '2026-04-02'
-  parsed_company: Arch Biopartners
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: public biotech private placement, not a startup round
