@@ -168,6 +168,9 @@ investors:
 - round: Growth
   slug: will-griffith
   year: 2014
+- round: Growth
+  slug: fred-anderson
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Airbnb

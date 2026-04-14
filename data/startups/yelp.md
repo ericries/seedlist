@@ -40,6 +40,9 @@ investors:
 - round: '2010'
   slug: roger-mcnamee
   year: 2010
+- round: Series E
+  slug: fred-anderson
+  year: 2010
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Yelp

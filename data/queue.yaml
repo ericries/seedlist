@@ -8783,14 +8783,14 @@ queue:
 - name: Steve Kishi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hummer Winblad Venture Partners
   discovered_from: hummer-winblad-venture-partners
 - name: Fred Anderson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Elevation Partners
   discovered_from: elevation-partners
@@ -9519,3 +9519,28 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: christoph-lengauer
+- name: WunderGraph
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-kishi
+- name: DefectDojo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-kishi
+- name: Ethyca
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: steve-kishi
+- name: Avie Tevanian
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NextEquity Partners
+  discovered_from: fred-anderson

@@ -136,6 +136,9 @@ investors:
 - round: Angel
   slug: ali-partovi
   year: 2004
+- round: Secondary
+  slug: fred-anderson
+  year: 2009
 last_researched: 2026-03-13
 location: Menlo Park, CA
 name: Facebook
