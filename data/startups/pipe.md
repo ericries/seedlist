@@ -1,31 +1,83 @@
 ---
-name: Pipe
-slug: pipe
-type: startup
-website: https://www.pipe.com
-location: San Francisco, California
-founded: 2019
-status_company: active
-sector:
-- fintech
-- embedded-finance
-- SMB
-stage_latest: Equity Round
-total_raised: "$332M"
 firms:
-- slug: fin-capital
-  round: equity
+- round: equity
+  slug: fin-capital
   year: 2026
-- slug: mac-venture-capital
-  round: equity
+- round: equity
+  slug: mac-venture-capital
   year: 2026
+- round: Early
+  slug: uncorrelated-ventures
+  year: 2020
+- round: Seed
+  slug: independent
+  year: 2020
+- round: Public (PIPE)
+  slug: tcv
+  year: 2011
+- round: Early Stage
+  slug: seven-seven-six
+  year: 2021
+- round: Seed
+  slug: worklife-ventures
+  year: 2020
+- round: Seed
+  slug: angellist
+  year: 2020
+- round: '2020'
+  slug: craft-ventures
+  year: 2020
+- round: Venture
+  slug: time-ventures
+  year: 2021
+founded: 2019
 founders:
 - name: Harry Hurst
   role: Co-Founder
 - name: Josh Mangel
   role: Co-Founder
-status: published
+investors:
+- round: Early
+  slug: salil-deshpande
+  year: 2020
+- round: Seed
+  slug: lachy-groom
+  year: 2020
+- round: Public (PIPE)
+  slug: jay-hoag
+  year: 2011
+- round: Early Stage
+  slug: alexis-ohanian
+  year: 2021
+- round: '2020'
+  slug: marlon-nichols
+  year: 2020
+- round: Seed
+  slug: brianne-kimmel
+  year: 2020
+- round: Seed
+  slug: naval-ravikant
+  year: 2020
+- round: '2020'
+  slug: david-sacks
+  year: 2020
+- round: Venture
+  slug: marc-benioff
+  year: 2021
 last_researched: 2026-04-13
+location: San Francisco, California
+name: Pipe
+sector:
+- fintech
+- embedded-finance
+- SMB
+slug: pipe
+stage_latest: Equity Round
+status: published
+status_company: active
+total_raised: $332M
+type: startup
+website: https://www.pipe.com
 ---
 
 ## About

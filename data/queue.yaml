@@ -8662,7 +8662,7 @@ queue:
 - name: Christoph Lengauer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Curie.Bio
   discovered_from: curie-bio
@@ -8776,7 +8776,7 @@ queue:
 - name: Lars Leckie
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hummer Winblad Venture Partners
   discovered_from: hummer-winblad-venture-partners
@@ -9506,3 +9506,16 @@ queue:
   added: '2026-03-17'
   firm: Luminai
   discovered_from: luminai
+- name: Ben Auspitz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Curie.Bio
+  discovered_from: christoph-lengauer
+- name: Forward Therapeutics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: christoph-lengauer
