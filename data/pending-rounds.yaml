@@ -10,6 +10,30 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Accel raises $5B to back late-stage bets
+  url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
+  source: techcrunch
+  date_found: '2026-04-15'
+  parsed_company: Accel
+  parsed_amount: $5B
+  parsed_round: null
+  status: pending
+- title: Anthropic shrugs off VC funding offers valuing it at $800B+, for now
+  url: https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/
+  source: techcrunch
+  date_found: '2026-04-15'
+  parsed_company: null
+  parsed_amount: $800B
+  parsed_round: null
+  status: pending
+- title: The March 2026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/04/us-venture-capital-statistics-march-2026/
+  source: alleywatch
+  date_found: '2026-04-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
     Shares of 6.25% Series 2027 Term Preferred Stock'
   url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
@@ -892,30 +916,3 @@ pending_rounds:
   parsed_round: Series C
   status: processed
   notes: created startup profile endovascular-engineering.md
-- title: Modus raised $85M Seed & Series A
-  url: https://www.businesswire.com/news/home/20260407062528/en/Modus-Raises-%2485-Million-Led-by-Lightspeed-to-Build-AI-Native-Accounting-Firm
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: Modus
-  parsed_amount: $85M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile modus.md
-- title: Kestra raised $25M Series A
-  url: https://www.prnewswire.com/news-releases/kestra-raises-25-million-series-a-to-become-the-orchestration-standard-for-enterprises-302729018.html
-  source: prnewswire
-  date_found: '2026-04-06'
-  parsed_company: Kestra
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile kestra.md
-- title: Standing Ovation raised $34.2M Series B
-  url: https://www.globenewswire.com/news-release/2026/03/31/3265178/0/en/Standing-Ovation-raises-34-2-million-to-scale-up-its-breakthrough-technology-for-producing-dairy-proteins-through-precision-fermentation-offering-a-sovereign-and-sustainable-respon.html
-  source: globenewswire
-  date_found: '2026-04-06'
-  parsed_company: Standing Ovation
-  parsed_amount: $34.2M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile standing-ovation.md
