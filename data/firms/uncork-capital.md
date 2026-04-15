@@ -82,10 +82,10 @@ Based on verified sources, the following represents Uncork Capital's portfolio. 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Fitbit | Seed | 2008 | Consumer Hardware | IPO / Acquired by Google | [^1][^2] |
-| SendGrid | Seed | 2009 | Email Infrastructure | IPO / Acquired by Twilio | [^1][^2] |
+| Fitbit | Seed | 2008 | Consumer Hardware | IPO / Acquired by Google | [^1][^2][^17] |
+| SendGrid | Seed | 2009 | Email Infrastructure | IPO / Acquired by Twilio | [^1][^2][^18] |
 | Mint | Seed | ~2007 | Fintech | Acquired by Intuit | [^2] |
-| Postmates | Seed | 2011 | Consumer / Delivery | Acquired by Uber | [^1][^2] |
+| Postmates | Seed | 2011 | Consumer / Delivery | Acquired by Uber | [^1][^2][^19] |
 | ClassDojo | Seed | 2011 | Education / Consumer | Growth | [^1] |
 | Poshmark | Seed | 2011 | Consumer / Marketplace | IPO | [^1][^2] |
 | Eventbrite | Seed | ~2009 | Events / SaaS | IPO | [^2][^5] |
@@ -95,11 +95,11 @@ Based on verified sources, the following represents Uncork Capital's portfolio. 
 | Loft Orbital | Seed | 2017 | SpaceTech | Growth | [^1] |
 | Coder | Seed | 2018 | Developer Tools | Early | [^1] |
 | Hallow | Seed | 2019 | Consumer / Wellness | Growth | [^1] |
-| Tailscale | Seed | 2019 | Infrastructure / Networking | Growth | [^1] |
+| Tailscale | Seed | 2020 | Infrastructure / Networking | Growth | [^1][^20] |
 | Wrapbook | Seed | 2020 | SaaS / Media Production | Early | [^1] |
-| Gamma | Seed | 2025 | SaaS / AI Productivity | Early | [^1] |
+| Gamma | Seed | 2021 | SaaS / AI Productivity | Growth | [^1][^21] |
 | Groq | Early | 2025 | AI Compute | Acquired | [^1] |
-| GPTZero | Seed | 2023 | AI | Early | [^1] |
+| GPTZero | Seed | 2023 | AI | Early | [^1][^22] |
 | Numeral | Seed | 2023 | Fintech / Tax | Early | [^1] |
 | Ivo | Seed | 2023 | AI / Legal | Early | [^1] |
 | Inertia | Seed | 2026 | Energy / Fusion | Early | [^1] |
@@ -160,3 +160,9 @@ No additional independently sourced founder testimonials found beyond company pr
 [^14]: Crunchbase News, "The Seed Series: Uncork Capital's Jeff Clavier," accessed April 2026. https://news.crunchbase.com/venture/the-seed-series-uncork-capitals-jeff-clavier/
 [^15]: NFX Signal, "Jeff Clavier's Investing Profile," accessed April 2026. https://signal.nfx.com/investors/jeff-clavier
 [^16]: Jeff Clavier LinkedIn profile endorsements, accessed April 2026. https://www.linkedin.com/in/jeffclavier
+[^17]: Spotify, "20 VC 069: Jeff Clavier, King of Seed Funding @ SoftTech VC on Brad Feld, Fitbit and Standout Startups," accessed April 2026. https://open.spotify.com/episode/1MTZ1DChrpCX8gI7dwPyYs
+[^18]: TechCrunch, "SendGrid Raises $750K For Email Delivery Software," December 8, 2009, accessed April 2026. https://techcrunch.com/2009/12/08/sendgrid-raises-750k-for-email-delivery-software/
+[^19]: Crunchbase, "Seed Round - Postmates," May 1, 2011, accessed April 2026. https://www.crunchbase.com/funding_round/postmates-seed--2859980d
+[^20]: Tracxn, "Tailscale — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/tailscale/__HoO0OVaODdbZEsDLJ7_OTsp344lrcNrb7eGx_aw5Lrk/funding-and-investors
+[^21]: Amy Saper, "Investing in Gamma (again!)," Uncork Capital on Medium, accessed April 2026. https://medium.com/uncorkcapital/investing-in-gamma-again-34fe72c72aff
+[^22]: Fast Company, "GPTZero raised $3.5 million to check the internet for AI-created work," May 2023, accessed April 2026. https://www.fastcompany.com/90892747/this-ai-detection-tool-raised-3-5-million-to-check-the-internet-for-computer-generated-work

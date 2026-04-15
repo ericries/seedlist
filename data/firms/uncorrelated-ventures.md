@@ -58,31 +58,31 @@ Based on 23 verified investments in the portfolio table below, the firm's actual
 
 This table represents a subset of Uncorrelated Ventures' 190+ investments. Many early investments were made during Deshpande's tenure at Bay Partners and Bain Capital Ventures and are included here because they form the track record that defines the firm's approach.
 
-| Company | Stage | Year | Sector | Source |
-|---------|-------|------|--------|--------|
-| RudderStack | Seed | 2020 | Developer Tools | [^9] |
-| Opyn | Seed | 2020 | DeFi | [^10] |
-| CoinDCX | Series B | 2020 | Crypto | [^10] |
-| AscendEx | Series B | 2020 | Crypto | [^10] |
-| AutoCloud | Seed | 2021 | Cloud Infrastructure | [^11] |
-| Bodo.ai | Series A | 2021 | Data Infrastructure | [^12] |
-| Daloopa | Series A | 2021 | Data/Fintech | [^13] |
-| Merkle Science | Series A | 2021 | Crypto/Analytics | [^10] |
-| Flux Protocol | Seed | 2021 | DeFi | [^10] |
-| Dgraph | Seed | 2022 | Databases | [^14] |
-| Netmaker | Seed | 2022 | Networking/Infrastructure | [^15] |
-| Slai | Seed | 2022 | AI/ML Infrastructure | [^16] |
-| Stashfin | Series C | 2022 | Fintech | [^17] |
-| Ember Fund | Seed | 2022 | Crypto | [^10] |
-| Hidden Road | Series A | 2022 | Crypto/Fintech | [^10] |
-| Pando | Series B | 2023 | Supply Chain/AI | [^18] |
-| Fingerprint | Series C | 2023 | Developer Tools | [^19] |
-| Archimedes | Seed | 2023 | DeFi | [^10] |
-| Terrace | Seed | 2024 | Crypto/Trading | [^10] |
-| Defense Unicorns | Series B | ~2024 | Defense/DevSecOps | [^4] |
-| Sedai | Follow-on | ~2024 | Cloud Infrastructure | [^4] |
-| Lemurian Labs | Series A | 2025 | AI Infrastructure | [^20] |
-| S2.dev | Early | 2026 | Developer Tools | [^4] |
+| Company | Stage | Year | Sector | Status | Source |
+|---------|-------|------|--------|--------|--------|
+| RudderStack | Seed | 2020 | Developer Tools | Active | [^9] |
+| Opyn | Seed | 2020 | DeFi | Active | [^10] |
+| CoinDCX | Series B | 2020 | Crypto | Active | [^10] |
+| AscendEx | Series B | 2020 | Crypto | Active | [^10] |
+| AutoCloud | Seed | 2021 | Cloud Infrastructure | Active | [^11] |
+| Bodo.ai | Series A | 2021 | Data Infrastructure | Active | [^12] |
+| Daloopa | Series A | 2021 | Data/Fintech | Active | [^13] |
+| Merkle Science | Series A | 2021 | Crypto/Analytics | Active | [^10] |
+| Flux Protocol | Seed | 2021 | DeFi | Active | [^10] |
+| Dgraph | Seed | 2022 | Databases | Active | [^14] |
+| Netmaker | Seed | 2022 | Networking/Infrastructure | Active | [^15] |
+| Slai | Seed | 2022 | AI/ML Infrastructure | Active | [^16] |
+| Stashfin | Series C | 2022 | Fintech | Active | [^17] |
+| Ember Fund | Seed | 2022 | Crypto | Active | [^10] |
+| Hidden Road | Series A | 2022 | Crypto/Fintech | Acquired (2025) | [^10] |
+| Pando | Series B | 2023 | Supply Chain/AI | Active | [^18] |
+| Fingerprint | Series C | 2023 | Developer Tools | Active | [^19] |
+| Archimedes | Seed | 2023 | DeFi | Active | [^10] |
+| Terrace | Seed | 2024 | Crypto/Trading | Active | [^10] |
+| Defense Unicorns | Series B | 2026 | Defense/DevSecOps | Active | [^4][^22] |
+| Sedai | Follow-on | ~2024 | Cloud Infrastructure | Active | [^4] |
+| Lemurian Labs | Series A | 2025 | AI Infrastructure | Active | [^20] |
+| S2.dev | Early | 2026 | Developer Tools | Active | [^4] |
 
 **Notable earlier investments (Bay Partners/Bain Capital Ventures era):** MuleSoft (acquired by Salesforce for $6.5B), Buddy Media (acquired by Salesforce), SpringSource (acquired by VMware for $420M), Dropcam (acquired by Google/Nest), Redis (IPO 2024), Dynatrace, DataStax, Lending Club, Sysdig, Hazelcast, Tealium, Sonatype, Gradle, Quantum Metric, Astranis, Compound Finance, MakerDAO, Cosmos, Crusoe Energy, Pipe, dYdX, PostHog, ZeroHash [^3] [^7] [^21].
 
@@ -149,3 +149,4 @@ No independently sourced founder testimonials found. The firm's solo-GP structur
 [^20]: "Lemurian Labs Raises $28 Million Series A to Liberate AI from the Constraints of Hardware," GlobeNewsWire, December 3, 2025, accessed April 2026. https://www.globenewswire.com/news-release/2025/12/03/3198947/0/en/Lemurian-Labs-Raises-28-Million-Series-A-to-Liberate-AI-from-the-Constraints-of-Hardware.html
 
 [^21]: Salil Deshpande profile, Arete Index, accessed April 2026. https://www.areteindex.com/angels/salil-deshpande/
+[^22]: PR Newswire, "Defense Unicorns Raises $136 Million Series B to Build the Software Backbone of the Department of War," January 2026, accessed April 2026. https://www.prnewswire.com/news-releases/defense-unicorns-raises-136-million-series-b-to-build-the-software-backbone-of-the-department-of-war-302658857.html

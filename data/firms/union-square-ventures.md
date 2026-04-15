@@ -77,23 +77,23 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Twitter | Seed | 2007 | Social/Networks | Acquired (2022) | [^2][^4] |
-| Etsy | Series A | 2008 | Marketplace | IPO (2015) | [^2][^4] |
-| Zynga | Early | 2007 | Gaming | IPO (2011) | [^2] |
-| Tumblr | Series A | 2008 | Social/Networks | Acquired (2013) | [^2][^4] |
-| Coinbase | Seed | 2013 | Crypto/Fintech | IPO (2021) | [^2][^9] |
-| Kickstarter | Seed | 2009 | Marketplace | Active | [^2][^4] |
-| Stack Overflow | Series A | 2010 | Developer Tools | Acquired (2021) | [^2] |
-| MongoDB | Series A | 2008 | Infrastructure | IPO (2017) | [^2] |
+| Twitter | Series A | 2007 | Social/Networks | Acquired (2022) | [^2][^4][^11] |
+| Etsy | Seed | 2006 | Marketplace | IPO (2015) | [^2][^4][^12] |
+| Zynga | Series A | 2008 | Gaming | IPO (2011) | [^2][^4] |
+| Tumblr | Seed | 2007 | Social/Networks | Acquired (2013) | [^2][^4][^13] |
+| Coinbase | Series A | 2013 | Crypto/Fintech | IPO (2021) | [^2][^9][^14] |
+| Kickstarter | Seed | 2009 | Marketplace | Active | [^2][^4][^15] |
+| Stack Overflow | Series A | 2010 | Developer Tools | Acquired (2021) | [^2][^16] |
+| MongoDB | Series A | 2008 | Infrastructure | IPO (2017) | [^2][^17] |
 | Stripe | Early | 2012 | Fintech | Active | [^2] |
-| Twilio | Early | 2008 | Developer Tools | IPO (2016) | [^2][^10] |
-| Duolingo | Series B | 2014 | Education | IPO (2021) | [^7] |
-| Cloudflare | Series A | 2011 | Infrastructure | IPO (2019) | [^7] |
-| Meetup | Early | 2005 | Community | Acquired (2017) | [^2] |
-| Foursquare | Seed | 2009 | Consumer/Location | Active | [^4] |
-| Behance | Seed | 2008 | Creative Tools | Acquired (2012) | [^4] |
-| Carta | Early | 2014 | Fintech | Active | [^2] |
-| Helium | Early | 2019 | Crypto/IoT | Active | [^7] |
+| Twilio | Series A | 2009 | Developer Tools | IPO (2016) | [^2][^10][^18] |
+| Duolingo | Series A | 2011 | Education | IPO (2021) | [^7][^19] |
+| Cloudflare | Series C | 2013 | Infrastructure | IPO (2019) | [^7][^20] |
+| Meetup | Series B | 2008 | Community | Acquired (2017) | [^2][^21] |
+| Foursquare | Seed | 2009 | Consumer/Location | Active | [^4][^22] |
+| Behance | Series A | 2012 | Creative Tools | Acquired (2012) | [^4][^23] |
+| Carta | Series A | 2014 | Fintech | Active | [^2][^24] |
+| Helium | Series C | 2019 | Crypto/IoT | Active | [^7][^25] |
 
 *This table represents approximately 17 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
@@ -125,3 +125,18 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^8]: Crunchbase, "Union Square Ventures Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/union-square-ventures
 [^9]: The Story of Union Square Ventures, Medium, accessed March 2026. https://medium.com/@perryjordan1993/the-story-of-union-square-ventures-13e5590c5b71
 [^10]: Boring Business Nerd, "Union Square Ventures," accessed March 2026. https://www.boringbusinessnerd.com/venture-capital/union-square-ventures
+[^11]: Fred Wilson, "Twitter," Union Square Ventures blog, July 25, 2007, accessed April 2026. https://www.usv.com/writing/2007/07/twitter/
+[^12]: Fred Wilson, "Etsy," Union Square Ventures blog, June 5, 2006, accessed April 2026. https://www.usv.com/writing/2006/06/etsy/
+[^13]: Crunchbase, "Series A - Tumblr," October 31, 2007, accessed April 2026. https://www.crunchbase.com/funding_round/tumblr-series-a--1a15d93c
+[^14]: CNBC, "Here's who just got rich from the Coinbase debut," April 14, 2021, accessed April 2026. https://www.cnbc.com/2021/04/14/coinbase-who-gets-rich.html
+[^15]: AllThingsD, "Kickstarter Discloses Funding From Union Square, Betaworks, Angels," March 17, 2011, accessed April 2026. https://allthingsd.com/20110317/kickstarter-fesses-up-the-crowd-sourced-funding-startup-has-funding-too/
+[^16]: Stack Overflow Blog, "Announcing the Stack Overflow Series A Financing," May 4, 2010, accessed April 2026. https://stackoverflow.blog/2010/05/04/announcing-our-series-a/
+[^17]: Crunchbase, "Series A - MongoDB," July 21, 2008, accessed April 2026. https://www.crunchbase.com/funding_round/mongodb-inc-series-a--ae4687a7
+[^18]: Crunchbase, "Series A - Twilio," December 30, 2009, accessed April 2026. https://www.crunchbase.com/funding_round/twilio-series-a--7bf27847
+[^19]: Tracxn, "Duolingo — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/duolingo/__C-GJ7rkSdfKOhvPO-Yq2RUROn9yQtU4ovdYkdnOtWr8/funding-and-investors
+[^20]: TechCrunch, "CloudFlare Reveals $50M Round From Union Square Ventures," December 17, 2013, accessed April 2026. https://techcrunch.com/2013/12/17/cloudflare-reveals-50m-round-from-union-square-ventures/
+[^21]: Tracxn, "Meetup — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/meetup/__T0QtgvjmONA6vTeJyYKvglE9Q5_Fpow3frMZt5MWyYo/funding-and-investors
+[^22]: Venture Capital Journal, "Foursquare Raises $1.35 Million," 2009, accessed April 2026. https://www.venturecapitaljournal.com/foursquare-raises-135-million/
+[^23]: TechCrunch, "Adobe Acquired Portfolio Service Behance For More Than $150 Million In Cash And Stock," December 21, 2012, accessed April 2026. https://techcrunch.com/2012/12/21/adobe-acquired-portfolio-service-behance-for-more-than-150-million-in-cash-and-stock/
+[^24]: Crunchbase, "Series A - Carta," October 2014, accessed April 2026. https://www.crunchbase.com/funding_round/eshares-series-a--d5468783
+[^25]: Crowdfund Insider, "P2P Networking Platform For IoT Devices Helium Secures $15 Million Through Series C Funding Round Led By Union Square Ventures & Multicoin Capital," June 2019, accessed April 2026. https://www.crowdfundinsider.com/2019/06/148386-p2p-networking-platform-for-iot-devices-helium-secures-15-million-through-series-c-funding-round-led-by-union-square-ventures-multicoin-capital/
