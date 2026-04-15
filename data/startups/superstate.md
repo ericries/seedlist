@@ -1,28 +1,37 @@
 ---
-name: Superstate
-slug: superstate
-type: startup
-website: "https://superstate.com"
-location: San Francisco, California
+firms:
+- round: series-b
+  slug: haun-ventures
+  year: 2026
+- round: Series B ($82.5M round)
+  slug: galaxy-digital
+  year: 2026
 founded: 2023
-status_company: active
+founders:
+- name: Robert Leshner
+  role: CEO & Founder
+investors:
+- round: Series B ($82.5M round)
+  slug: mike-novogratz
+  year: 2026
+- round: Series A
+  slug: katie-haun
+  year: 2023
+last_researched: 2026-04-14
+location: San Francisco, California
+name: Superstate
 sector:
 - fintech
 - crypto
 - tokenization
 - defi
+slug: superstate
 stage_latest: Series B
-total_raised: $82.5M+
-firms:
-- slug: haun-ventures
-  round: series-b
-  year: 2026
-investors: []
-founders:
-- name: Robert Leshner
-  role: CEO & Founder
 status: published
-last_researched: 2026-04-14
+status_company: active
+total_raised: $82.5M+
+type: startup
+website: https://superstate.com
 ---
 
 ## About

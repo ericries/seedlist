@@ -114,6 +114,9 @@ firms:
 - round: Seed
   slug: social-leverage
   year: 2014
+- round: Seed
+  slug: quiet-capital
+  year: 2014
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -233,6 +236,9 @@ investors:
   year: 2018
 - round: Seed
   slug: gary-benitt
+  year: 2014
+- round: Seed
+  slug: matt-humphrey
   year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA

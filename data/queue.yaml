@@ -8878,7 +8878,7 @@ queue:
 - name: Matt Humphrey
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Quiet Capital
   discovered_from: quiet-capital
@@ -8941,7 +8941,7 @@ queue:
 - name: Rami Kalish
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pitango Venture Capital
   discovered_from: pitango-venture-capital
@@ -9582,3 +9582,29 @@ queue:
   added: '2026-03-17'
   firm: Attention
   discovered_from: attention
+- name: Ittai Harel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: rami-kalish
+- name: Pinhas Buchris
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: State of Mind Ventures
+  discovered_from: rami-kalish
+- name: State of Mind Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rami-kalish
+- name: Assort Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: matt-humphrey
