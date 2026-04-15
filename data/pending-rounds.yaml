@@ -1,4 +1,14 @@
 pending_rounds:
+- title: New Era Energy & Digital Secures Funding for Development of its Ector County,
+    Texas Data Center Campus, Including Exercise of Underwriters’ Option
+  url: https://www.globenewswire.com/news-release/2026/04/14/3273905/0/en/New-Era-Energy-Digital-Secures-Funding-for-Development-of-its-Ector-County-Texas-Data-Center-Campus-Including-Exercise-of-Underwriters-Option.html
+  source: globenewswire
+  date_found: ‘2026-04-15’
+  parsed_company: New Era Energy & Digital
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: public company equity offering and project financing, not a startup round
 - title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
     Shares of 6.25% Series 2027 Term Preferred Stock'
   url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
@@ -112,6 +122,16 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile pillar-risk.md; updated andreessen-horowitz.md portfolio
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/14/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-14-2026/
+  source: alleywatch
+  date_found: '2026-04-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: extracted Bluefish $43M Series B (already processed) and Ranger AI $6M (SEC
+    filing only, no investors disclosed, skipped)
 - title: Rork raised $15M Seed
   url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
   source: prnewswire
@@ -898,21 +918,3 @@ pending_rounds:
   parsed_round: Series B
   status: processed
   notes: created startup profile standing-ovation.md
-- title: Zalos raised $3.6M Seed
-  url: https://www.globenewswire.com/news-release/2026/03/24/3261268/0/en/Zalos-raises-3-6M-to-build-Computer-Agents-that-operate-finance-systems-the-way-humans-do.html
-  source: globenewswire
-  date_found: '2026-04-06'
-  parsed_company: Zalos
-  parsed_amount: $3.6M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile zalos.md
-- title: Spain's Xoople raises $130 million Series B to map the Earth for AI
-  url: https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/
-  source: techcrunch
-  date_found: '2026-04-06'
-  parsed_company: Spain's Xoople
-  parsed_amount: $130M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile xoople.md
