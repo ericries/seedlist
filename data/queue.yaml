@@ -8948,7 +8948,7 @@ queue:
 - name: Eyal Niv
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pitango Venture Capital
   discovered_from: pitango-venture-capital
@@ -8989,7 +8989,7 @@ queue:
 - name: Mark Jacobsen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OATV
   discovered_from: oatv
@@ -9608,3 +9608,36 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: matt-humphrey
+- name: Sunil Dhaliwal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Amplify Partners
+  discovered_from: mark-jacobsen
+- name: Ayal Itzkovitz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: eyal-niv
+- name: Gad Huldai
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pitango Venture Capital
+  discovered_from: eyal-niv
+- name: Grove Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyal-niv
+- name: Giza Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyal-niv

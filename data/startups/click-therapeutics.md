@@ -1,26 +1,32 @@
 ---
-name: Click Therapeutics
-slug: click-therapeutics
-type: startup
-website: https://www.clicktherapeutics.com
-location: New York, NY
+firms:
+- round: Board seat
+  slug: 7wire-ventures
+  year: 2021
 founded: 2012
-status_company: active
-sector:
-- healthtech
-- digital-therapeutics
-stage_latest: Series D
-total_raised: $50M+
-firms: []
+founders:
+- name: David Benshoof Klein
+  role: CEO & Founder
 investors:
 - name: Boehringer Ingelheim
   round: series-d
   year: 2026
-founders:
-- name: David Benshoof Klein
-  role: CEO & Founder
-status: published
+- round: Board seat
+  slug: lee-shapiro
+  year: 2021
 last_researched: 2026-04-14
+location: New York, NY
+name: Click Therapeutics
+sector:
+- healthtech
+- digital-therapeutics
+slug: click-therapeutics
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $50M+
+type: startup
+website: https://www.clicktherapeutics.com
 ---
 
 ## About
