@@ -110,39 +110,39 @@ This table represents approximately 17% of the firm's 200+ known investments.
 |---------|-------|------|--------|--------|
 | Ring | Seed | 2013 | Smart home / IoT | [^8] |
 | Maker Studios | Series A | 2011 | Digital media | [^2] |
-| TrueCar | Early stage | ~2011 | Automotive marketplace | [^19] |
-| Overture | Early stage | ~2001 | Search / advertising | [^1] |
-| Kyriba | Early stage | ~2001 | Treasury management SaaS | [^20] |
+| TrueCar | Series E | 2009 | Automotive marketplace | [^19] |
+| Overture | Early stage | ~1998 | Search / advertising | [^1] |
+| Kyriba | Series C | 2015 | Treasury management SaaS | [^20] |
 | Invoca | Series A | 2009 | Conversational AI / martech | [^21] |
-| GoodRx | Early stage | ~2011 | Healthcare / pharma | [^22] |
+| GoodRx | Series A | 2011 | Healthcare / pharma | [^22] |
 | GOAT | Seed | 2015 | Sneaker marketplace | [^23] |
-| thredUP | Early stage | ~2012 | Secondhand e-commerce | [^7] |
+| thredUP | Series A | 2010 | Secondhand e-commerce | [^7] |
 | Bird | Seed | 2017 | Electric scooters / mobility | [^24] |
 | Apeel Sciences | Seed | 2014 | Agtech / food science | [^25] |
-| Fleetsmith | Series A | ~2017 | Enterprise IT / MDM | [^26] |
-| Nanit | Early stage | ~2016 | Baby monitoring / healthtech | [^27] |
+| Fleetsmith | Series A | 2018 | Enterprise IT / MDM | [^26] |
+| Nanit | Seed | 2016 | Baby monitoring / healthtech | [^27] |
 | Modern Animal | Seed | 2019 | Veterinary / pet health | [^28] |
-| Rula | Early stage | ~2019 | Mental health / teletherapy | [^29] |
+| Rula | Series A | 2020 | Mental health / teletherapy | [^29] |
 | Bionaut Labs | Seed | 2021 | Medical robotics | [^30] |
 | Daytona | Seed | 2023 | Developer tools | [^31] |
 | Fortastra | Seed | 2025 | Space / defense | [^32] |
 | AnySignal | Series A | 2025 | Enterprise software | [^33] |
 | Clair | Seed | 2020 | Fintech / payroll | [^7] |
-| Writer | Early stage | ~2020 | AI / enterprise | [^34] |
-| Zeitview | Early stage | ~2017 | Drone inspection / computer vision | [^34] |
-| Density | Early stage | ~2017 | Workplace analytics / IoT | [^3] |
-| MakeSpace | Early stage | ~2015 | Consumer services / storage | [^3] |
-| FabFitFun | Early stage | ~2015 | Consumer / subscription commerce | [^34] |
-| Cordial | Early stage | ~2018 | Martech / SaaS | [^34] |
-| Jiko | Early stage | ~2018 | Fintech / banking | [^34] |
-| Bland AI | Seed | ~2023 | AI / conversational AI | [^34] |
-| Route | Early stage | ~2019 | E-commerce / logistics | [^34] |
-| Apex | Early stage | ~2021 | Aerospace / space | [^34] |
+| Writer | Series A | 2017 | AI / enterprise | [^34] |
+| Zeitview | Series B | 2018 | Drone inspection / computer vision | [^34] |
+| Density | Seed | 2015 | Workplace analytics / IoT | [^3] |
+| MakeSpace | Seed | 2013 | Consumer services / storage | [^3] |
+| FabFitFun | Seed | 2015 | Consumer / subscription commerce | [^34] |
+| Cordial | Series A | 2017 | Martech / SaaS | [^34] |
+| Jiko | Series A | 2017 | Fintech / banking | [^34] |
+| Bland AI | Seed | 2023 | AI / conversational AI | [^34] |
+| Route | Seed | 2019 | E-commerce / logistics | [^34] |
+| Apex | Series B | 2024 | Aerospace / space | [^34] |
 | Nanit | Growth | 2025 | Baby monitoring / healthtech | [^27] |
-| Brightland | Seed | ~2018 | Consumer goods / DTC | [^34] |
-| Keragon | Seed | ~2023 | Healthcare / automation | [^34] |
-| Reveleer | Early stage | 2020 | Healthcare / AI | [^35] |
-| Arcade | Early stage | ~2022 | Gaming / infrastructure | [^34] |
+| Brightland | Seed | 2018 | Consumer goods / DTC | [^34] |
+| Keragon | Seed | 2025 | Healthcare / automation | [^34] |
+| Reveleer | Series A | ~2018 | Healthcare / AI | [^35] |
+| Arcade | Seed | 2022 | Product demos / SaaS | [^34] |
 
 ## In Their Own Words
 

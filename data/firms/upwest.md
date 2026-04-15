@@ -82,9 +82,9 @@ Based on UpWest's publicly listed portfolio of 63+ companies (37 active, 26 exit
 | SentinelOne | Seed | 2013 | Cybersecurity | IPO (NYSE: S, 2021) | [^1] |
 | Anyword | Seed | 2013 | AI/NLP | Active | [^1] |
 | Codefresh | Seed | 2014 | DevOps | Active | [^1] |
-| SlickLogin | Seed | ~2013 | Security | Acquired by Google (2014) | [^1] |
-| Senexx | Seed | ~2013 | Knowledge Sharing | Acquired by Gartner (2014) | [^1] |
-| Qlika | Seed | ~2013 | Ad Tech | Acquired by Priceline/Agoda (2014) | [^1] |
+| SlickLogin | Seed | 2013 | Security | Acquired by Google (2014) | [^1] |
+| Senexx | Seed | 2012 | Knowledge Sharing | Acquired by Gartner (2014) | [^1] |
+| Qlika | Seed | 2012 | Ad Tech | Acquired by Priceline/Agoda (2014) | [^1] |
 | Mobilize | Seed | 2014 | Community | Exited | [^1] |
 | Genoox | Seed | 2014 | Genomics | Exited | [^1] |
 | uMake | Seed | 2014 | Design | Exited | [^1] |
@@ -95,13 +95,13 @@ Based on UpWest's publicly listed portfolio of 63+ companies (37 active, 26 exit
 | Jolt | Seed | 2016 | Workforce Learning | Active | [^1] |
 | CyCognito | Seed | 2017 | Cybersecurity | Active | [^1] |
 | Loadmill | Seed | 2017 | API Testing | Exited | [^1] |
-| Exo Technologies | Seed | ~2016 | Autonomous Vehicles | Acquired by Lear Corp (2017) | [^1] |
-| Jaco | Seed | ~2016 | Product Analytics | Acquired by WalkMe (2017) | [^1] |
+| Exo Technologies | Seed | 2015 | Autonomous Vehicles | Acquired by Lear Corp (2017) | [^1] |
+| Jaco | Seed | 2015 | Product Analytics | Acquired by WalkMe (2017) | [^1] |
 | vBrand | Seed | ~2016 | Sports Tech | Acquired by Nielsen (2017) | [^1] |
-| Drippler | Seed | ~2016 | Consumer App | Acquired by Soluto (2017) | [^1] |
-| Invi Messages | Seed | ~2016 | Messaging | Acquired by Google (2017) | [^1] |
+| Drippler | Seed | 2012 | Consumer App | Acquired by Soluto (2017) | [^1] |
+| Invi Messages | Seed | ~2016 | Messaging | Acquired by Google (2018) | [^1] |
 | VeedMe | Seed | ~2016 | Video | Acquired by Fiverr (2017) | [^1] |
-| ONDiGO | Seed | ~2017 | Sales AI | Acquired by Gong (2018) | [^1] |
+| ONDiGO | Seed | 2014 | Sales AI | Acquired by Gong (2018) | [^1] |
 | BeeHero | Seed | 2018 | AgTech | Active | [^1] |
 | InnerPlant | Seed | 2018 | AgTech | Active | [^1] |
 | Canopy | Seed | 2018 | Healthcare/Oncology | Active | [^1] |
@@ -110,12 +110,12 @@ Based on UpWest's publicly listed portfolio of 63+ companies (37 active, 26 exit
 | Latica | Seed | 2019 | Healthcare Data | Active | [^1] |
 | Balance | Seed | 2020 | B2B Payments | Active | [^1] |
 | UnitySCM | Seed | 2020 | Supply Chain | Active | [^1] |
-| CyberX | Seed | ~2015 | IoT Security | Acquired by Microsoft (2020) | [^1] |
-| Flowmill | Seed | ~2018 | Network Visibility | Acquired by Splunk (2020) | [^1] |
+| CyberX | Seed | 2013 | IoT Security | Acquired by Microsoft (2020) | [^1] |
+| Flowmill | Seed | 2018 | Network Visibility | Acquired by Splunk (2020) | [^1] |
 | Zenity | Seed | 2021 | AI Security | Active | [^1] |
 | Metis | Seed | 2021 | Database Ops | Active | [^1] |
-| SecuredTouch | Seed | ~2018 | Fraud Detection | Acquired by Ping Identity (2021) | [^1] |
-| Navmatic | Seed | ~2019 | Navigation | Acquired by Superpedestrian (2021) | [^1] |
+| SecuredTouch | Seed | 2017 | Fraud Detection | Acquired by Ping Identity (2021) | [^1] |
+| Navmatic | Seed | 2018 | Navigation | Acquired by Superpedestrian (2021) | [^1] |
 | Deeto | Seed | 2022 | Sales Enablement | Active | [^1] |
 | PerfectScale | Seed | 2022 | Kubernetes Ops | Active | [^1] |
 | Tillion.ai | Seed | 2022 | Legal AI | Active | [^1] |
