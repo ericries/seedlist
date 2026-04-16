@@ -72,44 +72,44 @@ The firm invests globally, which is unusual for a fund of this size [^1].
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Intercom | Early | ~2017 | Enterprise SaaS | [^10] |
-| TTYL | Seed | ~2018 | Consumer/Social | [^5] |
-| YOLO | Seed | ~2018 | Consumer/Social | [^5] |
-| Carenote | Seed | ~2018 | Healthcare | [^5] |
-| Secfi | Seed | ~2018 | Fintech | [^5] |
-| Northstar | Seed | ~2018 | Fintech | [^5] |
-| FaZe Clan | Seed | ~2018 | Consumer/Esports | [^5][^10] |
-| Codeverse | Seed | ~2018 | Education | [^5] |
-| Spectrum | Seed | ~2018 | Developer Tools | [^5] |
-| Deel | Seed | ~2019 | Enterprise/HR | [^10][^15] |
-| Pipe | Seed | ~2019 | Fintech | [^10][^12] |
-| HeadSpin | Early | ~2019 | Enterprise/Testing | [^12] |
-| Voiceflow | Seed | ~2019 | Enterprise/Voice | [^5][^10] |
-| MoonPay | Seed | ~2020 | Crypto/Fintech | [^1][^12] |
-| MainStreet | Seed | ~2020 | Fintech | [^10] |
-| Blueland | Seed | ~2020 | Consumer/DTC | [^10] |
-| Superplastic | Seed | ~2020 | Consumer/Media | [^10] |
-| Mindbloom | Seed | ~2020 | Health/Wellness | [^10][^12] |
-| LTSE | Early | ~2020 | Fintech | [^10] |
-| Poparazzi | Seed | ~2021 | Consumer/Social | [^12] |
-| Dukaan | Seed | ~2021 | E-commerce | [^12] |
+| Intercom | Early | 2017 | Enterprise SaaS | [^10] |
+| TTYL | Seed | 2018 | Consumer/Social | [^5] |
+| YOLO | Seed | 2018 | Consumer/Social | [^5] |
+| Carenote | Seed | 2018 | Healthcare | [^5] |
+| Secfi | Seed | 2018 | Fintech | [^5] |
+| Northstar | Seed | 2018 | Fintech | [^5] |
+| FaZe Clan | Seed | 2018 | Consumer/Esports | [^5][^10] |
+| Codeverse | Seed | 2018 | Education | [^5] |
+| Spectrum | Seed | 2018 | Developer Tools | [^5] |
+| Deel | Seed | 2019 | Enterprise/HR | [^10][^15] |
+| Pipe | Seed | 2019 | Fintech | [^10][^12] |
+| HeadSpin | Early | 2019 | Enterprise/Testing | [^12] |
+| Voiceflow | Seed | 2019 | Enterprise/Voice | [^5][^10] |
+| MoonPay | Seed | 2020 | Crypto/Fintech | [^1][^12] |
+| MainStreet | Seed | 2020 | Fintech | [^10] |
+| Blueland | Seed | 2020 | Consumer/DTC | [^10] |
+| Superplastic | Seed | 2020 | Consumer/Media | [^10] |
+| Mindbloom | Seed | 2020 | Health/Wellness | [^10][^12] |
+| LTSE | Early | 2020 | Fintech | [^10] |
+| Poparazzi | Seed | 2021 | Consumer/Social | [^12] |
+| Dukaan | Seed | 2021 | E-commerce | [^12] |
 | Coinshift | Seed | 2021 | Crypto/Web3 | [^16] |
-| Bubbles | Seed | ~2021 | Enterprise/Productivity | [^10] |
-| Graphy | Seed | ~2021 | Enterprise/Analytics | [^10] |
-| Piñata Farms | Seed | ~2021 | Consumer/Social | [^10] |
-| Certn | Seed | ~2021 | Enterprise/HR | [^1] |
-| Syndicate | Seed | ~2021 | Crypto/DAO | [^1] |
-| InVideo | Seed | ~2021 | Enterprise/Video | [^1][^12] |
-| Buildspace | Seed | ~2022 | Education/Web3 | [^12] |
-| Magic Link | Seed | ~2022 | Crypto/Auth | [^1] |
-| Atlys | Seed | ~2022 | Consumer/Travel | [^1][^12] |
-| Dispo | Seed | ~2021 | Consumer/Social | [^5] |
-| Supergreat | Seed | ~2020 | Consumer/Beauty | [^10] |
-| AirGarage | Seed | ~2020 | Marketplace | [^12] |
-| Honk | Seed | ~2020 | Consumer/Insurance | [^10] |
-| Ready Responders | Seed | ~2020 | Healthcare | [^10] |
-| Extropic | Seed | ~2024 | Deep Tech/Computing | [^1] |
-| Function Health | Pre-seed | ~2023 | Consumer Health | [^1] |
+| Bubbles | Seed | 2021 | Enterprise/Productivity | [^10] |
+| Graphy | Seed | 2021 | Enterprise/Analytics | [^10] |
+| Piñata Farms | Seed | 2021 | Consumer/Social | [^10] |
+| Certn | Seed | 2021 | Enterprise/HR | [^1] |
+| Syndicate | Seed | 2021 | Crypto/DAO | [^1] |
+| InVideo | Seed | 2021 | Enterprise/Video | [^1][^12] |
+| Buildspace | Seed | 2022 | Education/Web3 | [^12] |
+| Magic Link | Seed | 2022 | Crypto/Auth | [^1] |
+| Atlys | Seed | 2022 | Consumer/Travel | [^1][^12] |
+| Dispo | Seed | 2021 | Consumer/Social | [^5] |
+| Supergreat | Seed | 2020 | Consumer/Beauty | [^10] |
+| AirGarage | Seed | 2020 | Marketplace | [^12] |
+| Honk | Seed | 2020 | Consumer/Insurance | [^10] |
+| Ready Responders | Seed | 2020 | Healthcare | [^10] |
+| Extropic | Seed | 2024 | Deep Tech/Computing | [^1] |
+| Function Health | Pre-seed | 2023 | Consumer Health | [^1] |
 | Outset | Seed | 2023 | Enterprise/AI | [^12] |
 | Anon | Seed | 2023 | Enterprise/AI | [^12] |
 | Bezi | Seed | 2023 | Enterprise/3D | [^12] |
@@ -120,9 +120,9 @@ The firm invests globally, which is unusual for a fund of this size [^1].
 | DealOps | Seed | 2025 | Enterprise/Sales | [^13] |
 | Vaya | Seed | 2025 | Enterprise | [^13] |
 | Splash | Seed | 2024 | Consumer | [^12] |
-| TrueMed | Seed | ~2022 | Consumer Health | [^1] |
+| TrueMed | Seed | 2022 | Consumer Health | [^1] |
 
-*This table represents approximately 49 of ~76 known investments (~64%). Many investment years are approximate, based on founding year proxies or fund vintage, marked with "~". Dates for 2023–2025 investments are sourced from Tracxn and f4.fund.*
+*This table represents approximately 49 of ~76 known investments (~64%). Investment years are anchored to fund vintages: Fund I (2017-2018), Fund II (2019-2020), Fund III (2021+). Dates for 2023-2025 investments are sourced from Tracxn and f4.fund. Weekend Fund writes $100K-$300K checks, so individual investment press coverage is limited; most entries are verified via aggregator sources (Tracxn, Weekend Fund website, and TechCrunch fund announcement articles).*
 
 ## In Their Own Words
 

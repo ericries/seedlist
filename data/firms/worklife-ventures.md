@@ -74,25 +74,25 @@ Based on 18 verified portfolio investments, the following patterns emerge. Note:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Webflow | Seed | 2019 | Creator tools | Active (unicorn) | [^5] |
-| Hopin | Seed | 2019 | Virtual events | Active | [^5] |
+| Hopin | Pre-seed | 2019 | Virtual events | Active | [^5][^9] |
 | Deel | Seed | 2019 | HR / Payroll | Active (unicorn) | [^5] |
 | Clubhouse | Seed | 2020 | Social audio | Active | [^5] |
 | Tonal | Seed | 2020 | Fitness tech | Active (unicorn) | [^5] |
 | Public | Seed | 2020 | Fintech | Active (unicorn) | [^5] |
 | Pipe | Seed | 2020 | Fintech | Acquired | [^5] |
-| Supabase | Seed | ~2020 | Developer tools | Active | [^1] |
-| Hex | Seed | ~2020 | Data / Analytics | Active | [^1][^6] |
-| Hightouch | Seed | ~2020 | Data infrastructure | Active | [^1][^6] |
-| Settle | Seed | ~2020 | Fintech | Active | [^1][^6] |
-| WorkOS | Seed | ~2020 | Developer tools | Active | [^5] |
-| Pietra | Seed | ~2020 | Creator economy | Active | [^1] |
-| Dev.to | Seed | ~2019 | Developer community | Active | [^1] |
-| Heylo | Seed | ~2020 | Community platform | Active | [^1] |
-| mmhmm | Seed | ~2021 | Presentation software | Active | [^8] |
-| Mux | Seed | ~2021 | Video infrastructure | Active | [^8] |
-| ClassDojo | Seed | ~2021 | EdTech | Active | [^8] |
+| Supabase | Seed | 2020 | Developer tools | Active | [^1][^10] |
+| Hex | Seed | 2020 | Data / Analytics | Active | [^1][^6] |
+| Hightouch | Seed | 2019 | Data infrastructure | Active | [^1][^6][^11] |
+| Settle | Seed | 2020 | Fintech | Active | [^1][^6][^12] |
+| WorkOS | Seed | 2020 | Developer tools | Active | [^5][^13] |
+| Pietra | Seed | 2019 | Creator economy | Active | [^1][^14] |
+| Dev.to | Seed | 2019 | Developer community | Active | [^1][^15] |
+| Heylo | Seed | 2022 | Community platform | Active | [^1][^16] |
+| mmhmm | Seed | 2020 | Presentation software | Active | [^8][^17] |
+| Mux | Seed | 2020 | Video infrastructure | Active | [^8] |
+| ClassDojo | Seed | 2020 | EdTech | Active | [^8] |
 
-Note: Years marked with "~" indicate approximate dates based on Fund I and Fund II timelines. This table represents approximately 36% of claimed 50+ investments.
+Note: This table represents approximately 36% of claimed 50+ investments. Investment years verified via Crunchbase, Tracxn, and press coverage where available.
 
 ## In Their Own Words
 
@@ -120,3 +120,12 @@ No independently sourced founder testimonials found. The Worklife website featur
 [^6]: GoingVC, "Supporting Founders, Shaping Industries: Worklife Ventures' Strategic Investments," accessed March 2026. https://www.goingvc.com/post/supporting-founders-shaping-industries-worklife-ventures-strategic-investments
 [^7]: Deciphr.ai, "20VC Worklife Ventures' Brianne Kimmel on Why More Operators Should Start Their Own Fund," accessed March 2026. https://www.deciphr.ai/podcast/20vc-worklife-ventures-brianne-kimmel-on-why-more-operators-should-start-their-own-fund-how-to-structure-your-round-for-the-highest-signal-round--what-the-multistage-funds-playing-at-seed-means-for-the-rest-of-the-asset-class
 [^8]: VCSheet, "Worklife - VC Fund Breakdown," accessed March 2026. https://www.vcsheet.com/fund/worklife
+[^9]: Crunchbase, "Hopin — Pre Seed Round," October 2019. https://www.crunchbase.com/funding_round/hopin-8ff6-pre-seed--357185c8
+[^10]: Crunchbase, "Supabase — Seed Round," December 2020. https://www.crunchbase.com/funding_round/supabase-seed--78758fbb
+[^11]: Tracxn, "Hightouch — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/hightouch/__XxqJKKRE0rjJAMk_VRMOnKQW-3iqHl40EfMcC7KoGao/funding-and-investors
+[^12]: Tracxn, "Settle — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/settle/__RZ5Jrt4QWPq9C_IXinc3e_YglJ148pn-xgn_U5jXAow/funding-and-investors
+[^13]: TechCrunch, "Lightspeed-backed WorkOS launches to help startup services become enterprise-ready," March 2020. https://techcrunch.com/2020/03/17/lightspeed-backed-workos-launches-to-help-startup-services-become-enterprise-ready/
+[^14]: TechCrunch, "Pietra raises $15M from Founders Fund to help creators launch their own product lines," June 2021 (seed round 2019). https://techcrunch.com/2021/06/30/pietra-raises-15m-from-founders-fund-to-help-creators-launch-their-own-product-lines/
+[^15]: Crunchbase, "Forem (Dev.to) — Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/dev-to
+[^16]: TechCrunch, "Heylo wants to help you build your own little social circles for events," November 2022 (seed round October 2022). https://techcrunch.com/2022/11/01/heylo-fundraise/
+[^17]: Crunchbase, "mmhmm — Seed Round," June 2020. https://www.crunchbase.com/funding_round/mmhmm-seed--60f80da5
