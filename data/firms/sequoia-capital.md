@@ -221,6 +221,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Oasis Security | Series A | 2024 | Cybersecurity / Identity | Private [^26] |
 | Grow Therapy | Series C (led) | 2024 | Healthcare / Mental Health | Private [^27] |
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Private [^28] |
+| Auctor | Series A (led) | 2026 | AI / Enterprise Software | Private [^29] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -347,3 +348,5 @@ The following table includes Sequoia Capital investments verified through the fi
 [^27]: "Grow Therapy launches measurement-informed care, raises Series C." Grow Therapy blog, accessed March 2026. https://growtherapy.com/blog/grow-raises-series-c/
 
 [^28]: "Ayar Labs lands $500M at $3.75B valuation for co-packaged optics," SiliconANGLE, March 3, 2026. https://siliconangle.com/2026/03/03/ayar-labs-series-e/
+
+[^29]: GlobeNewsWire, "Auctor Raises $20M Led by Sequoia Capital to Build the AI System of Action for the Enterprise Software Implementation Market," April 15, 2026. https://www.globenewswire.com/news-release/2026/04/15/3274475/0/en/Auctor-Raises-20M-Led-by-Sequoia-Capital-to-Build-the-AI-System-of-Action-for-the-Enterprise-Software-Implementation-Market.html

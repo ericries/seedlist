@@ -10,6 +10,197 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Axios Sonire Therapeutics raised $18M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Sonire Therapeutics
+  parsed_amount: $18M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile sonire-therapeutics.md
+- title: an Atlanta-based surveillance tech company that raised $275M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Flock Safety
+  parsed_amount: $275M
+  parsed_round: null
+  status: skipped
+  skip_reason: Flock Safety eyeing new round per Axios scoop but not yet announced; $275M
+    was March 2025 Series F
+- title: Terremoto Biosciences raised $108M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Terremoto Biosciences
+  parsed_amount: $108M
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile terremoto-biosciences.md
+- title: Parasail raised $32M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Parasail
+  parsed_amount: $32M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile parasail.md
+- title: Spiral Therapeutics raised $27M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Spiral Therapeutics
+  parsed_amount: $27M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile spiral-therapeutics.md
+- title: Gizmo raised $22M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Gizmo
+  parsed_amount: $22M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile gizmo.md
+- title: Auctor raised $20M combined seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Auctor
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile auctor.md; led by Sequoia Capital
+- title: Onto Health raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Onto Health
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile onto-health.md
+- title: Phonely raised $16M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Phonely
+  parsed_amount: $16M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile phonely.md; actually Series A not B per company blog
+- title: Ratio raised $15.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Ratio
+  parsed_amount: $15.8M
+  parsed_round: Venture
+  status: processed
+  notes: created startup profile ratio.md; also secured $100M lending capacity
+- title: Paxos Labs raised $12M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Paxos Labs
+  parsed_amount: $12M
+  parsed_round: Strategic
+  status: skipped
+  skip_reason: duplicate; paxos-labs.md already exists from earlier processing
+- title: Gitar raised $9M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Gitar
+  parsed_amount: $9M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile gitar.md; emerged from stealth
+- title: Nava raised $8.3M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Nava
+  parsed_amount: $8.3M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile nava.md; DeFi guardrails for AI agents
+- title: TraqCheck raised $8M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: TraqCheck
+  parsed_amount: $8M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile traqcheck.md
+- title: BizScout raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: BizScout
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: could not verify; only prior round found is $4.9M from April 2024
+- title: Pumpcade raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Pumpcade
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: processed
+  notes: updated existing pumpcade.md with $5M seed round
+- title: Modern Relay raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Modern Relay
+  parsed_amount: $3M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile modern-relay.md
+- title: Ralio raised $2.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Ralio
+  parsed_amount: $2.5M
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile ralio.md
+- title: NewHold Investment IV raised $175M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: NewHold Investment IV
+  parsed_amount: $175M
+  parsed_round: null
+  status: skipped
+  skip_reason: PE/infrastructure fund raise, not a startup round
+- title: a Canadian PRM software company that raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: unknown
+  parsed_amount: $40M
+  parsed_round: null
+  status: skipped
+  skip_reason: could not identify company; parsing artifact from Axios with no company
+    name; Canadian-based, outside primary scope
+- title: Topspin Consumer Partners raised $328M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Topspin Consumer Partners
+  parsed_amount: $328M
+  parsed_round: null
+  status: skipped
+  skip_reason: consumer PE/growth fund raise, not a startup round
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -17,15 +208,17 @@ pending_rounds:
   parsed_company: Accel
   parsed_amount: $5B
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund raise (Accel late-stage fund), not a startup round
 - title: Anthropic shrugs off VC funding offers valuing it at $800B+, for now
   url: https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/
   source: techcrunch
   date_found: '2026-04-15'
-  parsed_company: null
-  parsed_amount: $800B
+  parsed_company: Anthropic
+  parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: not a funding round; news about Anthropic declining offers
 - title: The March 2026 US Venture Capital Funding Report
   url: https://alleywatch.com/2026/04/us-venture-capital-statistics-march-2026/
   source: alleywatch
@@ -33,7 +226,18 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: summary/statistics article, not a specific startup round
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/15/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-15-2026/
+  source: alleywatch
+  date_found: '2026-04-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: extracted Gelu AI $2M (created gelu-ai.md), Timeshifter $1.8M (created timeshifter.md);
+    Pillar $20M already processed as pillar-risk.md
 - title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
     Shares of 6.25% Series 2027 Term Preferred Stock'
   url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
@@ -717,202 +921,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile inxy.md
-- title: ACP Holdings Acquisition raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: ACP Holdings Acquisition
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC/acquisition vehicle, not a startup round
-- title: Apogee Acquisition raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: Apogee Acquisition
-  parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC/acquisition vehicle, not a startup round
-- title: NOVA Infrastructure raised $1.45B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: NOVA Infrastructure
-  parsed_amount: $1.45B
-  parsed_round: null
-  status: skipped
-  skip_reason: infrastructure fund raise, not a startup round
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/8/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-8-2026/
-  source: alleywatch
-  date_found: '2026-04-08'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: contained Patlytics $40M Series B (already processed) and Mosaic $18.4M SEC
-    filing (too small/unannounced)
-- title: True Footage raised $40M Series C
-  url: https://www.globenewswire.com/news-release/2026/04/07/3269423/0/en/True-Footage-Raises-40-Million-Series-C-to-Scale-Full-Stack-Residential-Valuation-Platform.html
-  source: globenewswire
-  date_found: '2026-04-07'
-  parsed_company: True Footage
-  parsed_amount: $40M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile true-footage.md
-- title: Stipple Bio raised $100M Series A
-  url: https://www.biospace.com/press-releases/stipple-bio-emerges-from-stealth-with-oversubscribed-100-million-series-a-financing-to-advance-stp-100-into-early-clinical-studies-and-advance-a-precision-oncology-pipeline-that-leverages-its-pointillist-platform
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: Stipple Bio
-  parsed_amount: $100M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile stipple-bio.md
-- title: Beacon Biosignals upsized Series B to $97.2M
-  url: https://www.globenewswire.com/news-release/2026/04/06/3268317/0/en/Beacon-Biosignals-Upsizes-Series-B-Financing-to-Over-97-Million.html
-  source: globenewswire
-  date_found: '2026-04-07'
-  parsed_company: Beacon Biosignals
-  parsed_amount: $97.2M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile beacon-biosignals.md
-- title: Q-Factor raised $24M Seed
-  url: https://thequantuminsider.com/2026/04/06/q-factor-emerges-from-stealth-with-24-million-and-backing-from-intel-capital/
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: Q-Factor
-  parsed_amount: $24M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile q-factor.md
-- title: NeuBird AI raised $19.3M Seed
-  url: https://aithority.com/it-and-devops/neubird-ai-raises-19-3-million-to-scale-agentic-ai-across-enterprise-production-operations/
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: NeuBird AI
-  parsed_amount: $19.3M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile neubird-ai.md
-- title: Hermeus raises $350M to build autonomous hypersonic fighters
-  url: https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/
-  source: techcrunch
-  date_found: '2026-04-07'
-  parsed_company: Hermeus
-  parsed_amount: $350M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile hermeus.md
-- title: The AlleyWatch March 2026 New York Venture Capital Funding Report
-  url: https://alleywatch.com/2026/04/new-york-venture-capital-march-2026/
-  source: alleywatch
-  date_found: '2026-04-07'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: Hermeus raises $350M to build unmanned hypersonic fighters
-  url: https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-unmanned-hypersonic-fighters/
-  source: techcrunch
-  date_found: '2026-04-07'
-  parsed_company: Hermeus
-  parsed_amount: $350M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate of earlier Hermeus entry; hermeus.md already exists
-- title: Natter raised $23M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-07'
-  parsed_company: Natter
-  parsed_amount: $23M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile natter.md
-- title: Beacon Biosignals raised $11M Series B extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-07'
-  parsed_company: Beacon Biosignals
-  parsed_amount: $11M
-  parsed_round: Series B Extension
-  status: skipped
-  skip_reason: beacon-biosignals.md already has full $97.2M Series B extension
-- title: Ridge AI raised $2.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-07'
-  parsed_company: Ridge AI
-  parsed_amount: $2.6M
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created startup profile ridge-ai.md
-- title: nFuse raised $2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-07'
-  parsed_company: nFuse
-  parsed_amount: $2M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile nfuse.md
-- title: ArcLight raised $3.9B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-07'
-  parsed_company: ArcLight
-  parsed_amount: $3.9B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE/infrastructure fund raise, not a startup round
-- title: Blackstone raised $10B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-07'
-  parsed_company: Blackstone
-  parsed_amount: $10B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE fund raise, not a startup round
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/7/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-7-2026/
-  source: alleywatch
-  date_found: '2026-04-07'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted Eisen $7.2M funding round; created eisen.md
-- title: Aria Networks raised $125M Series A
-  url: https://siliconangle.com/2026/04/07/data-center-switch-maker-aria-networks-raises-125m/
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: Aria Networks
-  parsed_amount: $125M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile aria-networks.md
-- title: Starfish Space raised $110M+ Series B
-  url: https://spacenews.com/starfish-space-raises-more-than-100-million/
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: Starfish Space
-  parsed_amount: $110M+
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile starfish-space.md
-- title: Endovascular Engineering raised $80M Series C
-  url: https://www.biospace.com/press-releases/e2-endovascular-engineering-raises-80-million-series-c-to-advance-next-generation-thrombectomy-platform-as-pulmonary-embolism-treatment-evolves
-  source: websearch
-  date_found: '2026-04-07'
-  parsed_company: Endovascular Engineering
-  parsed_amount: $80M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile endovascular-engineering.md

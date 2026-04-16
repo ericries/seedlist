@@ -123,6 +123,7 @@ Based on 30 verified portfolio investments spanning the firm's history and recen
 | Interos | Early | ~2019 | Supply Chain AI | Active [^7] |
 | Percipient.ai | Early | ~2020 | Defense AI | Active [^7] |
 | Accompany Health | Seed | ~2023 | Primary Care | Active [^26] |
+| Gitar | Seed (led) | 2026 | Developer Tools / AI | Active [^30] |
 
 ## In Their Own Words
 
@@ -217,3 +218,5 @@ Robert Wachter, chair of the Department of Medicine at the University of Califor
 [^28]: Venrock on Medium, "Running Through Walls: I Don't Like Hype" (features Steve Papa, co-founder and CEO of Parallel Wireless). Accessed March 2026. https://medium.com/venrock/running-through-walls-i-dont-like-hype-fb4a8511fcaa
 
 [^29]: Managed Care Magazine, "Bob Kocher Believes (With Missionary Zeal) That Venture Capital Can Start To Cure What Ails American Health Care," August 2017. Accessed March 2026. https://www.managedcaremag.com/archives/2017/8/bob-kocher-believes-missionary-zeal-venture-capital-can-start-cure-what-ails/
+
+[^30]: PRNewsWire, "Gitar Launches from Stealth with $9M as AI-Generated Code Outpaces Teams' Ability to Validate and Ship Software Safely," April 15, 2026. https://www.prnewswire.com/news-releases/gitar-launches-from-stealth-with-9m-as-ai-generated-code-outpaces-teams-ability-to-validate-and-ship-software-safely-302743190.html

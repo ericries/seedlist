@@ -9,14 +9,21 @@ sector:
 - fintech
 - gaming
 - prediction-markets
-stage_latest: Pre-Seed
-total_raised: $1M
-firms: []
+stage_latest: Seed
+total_raised: $6M
+firms:
+- slug: foundation-capital
+  round: seed
+  year: 2026
+investors:
+- name: Jump Crypto
+  round: seed
+  year: 2026
 founders:
 - name: Harrison Leggio
   role: Founder
 status: published
-last_researched: 2026-04-03
+last_researched: 2026-04-15
 ---
 
 ## About
@@ -27,6 +34,7 @@ Pumpcade is a New York-based livestream-embedded prediction markets platform tha
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2026-04-14 | Seed | $5M | Jump Crypto, Foundation Capital | — [^2] |
 | 2026-04-02 | Pre-Seed | $1M | Pump.fun | Foundation Capital, RadioSolace [^1] |
 
 ## What Investors Say
@@ -40,3 +48,4 @@ No verified founder quotes available at this time.
 ## Sources
 
 [^1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 4/2/2026," April 2, 2026. https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-2-2026/
+[^2]: Blockster, "Pumpcade Raises $5M Seed Round Led by Jump Crypto and Foundation Capital," April 14, 2026. https://blockster.com/pumpcade-raises-5m-seed-round-led-by-jump-crypto-and-foundation-capital
