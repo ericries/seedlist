@@ -201,6 +201,15 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: consumer PE/growth fund raise, not a startup round
+- title: 'Exclusive: Repeat Founders Raise $20M For Spektr, A Fintech Compliance Startup,
+    In NEA-Led Series A'
+  url: https://news.crunchbase.com/venture/fintech-compliance-founders-20m-seriesa-spektr/
+  source: crunchbase
+  date_found: '2026-04-16'
+  parsed_company: null
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -912,12 +921,3 @@ pending_rounds:
   parsed_round: Seed Extension
   status: processed
   notes: created startup profile astromech.md
-- title: Inxy raised $4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: Inxy
-  parsed_amount: $4M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile inxy.md
