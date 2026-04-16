@@ -27,8 +27,8 @@ pending_rounds:
   parsed_amount: $275M
   parsed_round: null
   status: skipped
-  skip_reason: Flock Safety eyeing new round per Axios scoop but not yet announced; $275M
-    was March 2025 Series F
+  skip_reason: Flock Safety eyeing new round per Axios scoop but not yet announced;
+    $275M was March 2025 Series F
 - title: Terremoto Biosciences raised $108M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
