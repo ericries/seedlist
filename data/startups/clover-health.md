@@ -54,6 +54,9 @@ firms:
 - round: Board seat
   slug: 7wire-ventures
   year: 2021
+- round: Seed
+  slug: curie-bio
+  year: 2014
 founded: 2014
 founders:
 - name: Vivek Garipalli

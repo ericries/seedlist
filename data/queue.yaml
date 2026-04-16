@@ -9390,7 +9390,7 @@ queue:
 - name: Alice Bentinck
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Entrepreneurs First
   discovered_from: matt-clifford
@@ -9495,7 +9495,7 @@ queue:
 - name: Shailendra Singh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Peak XV Partners
   discovered_from: luminai
@@ -9667,3 +9667,35 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: christian-lawless
+- name: Claire Hughes Johnson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alice-bentinck
+- name: Peak XV Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shailendra-singh
+- name: Rajan Anandan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Peak XV Partners
+  discovered_from: shailendra-singh
+- name: Sumir Chadha
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Peak XV Partners
+  discovered_from: shailendra-singh
+- name: Kunal Shah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shailendra-singh

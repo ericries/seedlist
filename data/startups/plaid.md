@@ -51,6 +51,9 @@ firms:
 - round: Seed
   slug: boxgroup
   year: 2013
+- round: Angel/Seed
+  slug: curie-bio
+  year: 2013
 founded: 2013
 founders:
 - name: Zach Perret
