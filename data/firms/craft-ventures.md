@@ -114,25 +114,25 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Affirm | Angel-Seed (Sacks personal) | 2012 | Fintech | IPO (NASDAQ, Jan 2021) | [^8][^11] |
-| Airbnb | Growth | — | Consumer/Travel | IPO [^8] |
-| Anduril | Growth | — | Defense | Unicorn [^8] |
-| AgentSync | Venture | — | Enterprise/Insurance | Unicorn [^8] |
-| ClickUp | Venture/Growth | — | Enterprise/Productivity | Unicorn [^8] |
-| Eventbrite | — | — | Consumer/Events | IPO [^8] |
-| Glean | Growth | — | Enterprise/AI | Active [^8] |
-| Intercom | — | — | Enterprise/SaaS | Unicorn [^8] |
-| Lyft | — | — | Consumer/Transport | IPO [^8] |
-| Meta (Facebook) | — | — | Consumer/Social | IPO [^8] |
-| Neuralink | Growth | — | Enterprise/Neurotech | Unicorn [^8] |
-| Opendoor | — | — | Consumer/Real Estate | IPO [^8] |
-| Palantir | — | — | Enterprise/Data | IPO [^8] |
-| Pave | Growth | — | Enterprise/HR | Unicorn [^8] |
-| Pipe | — | — | Enterprise/Fintech | Unicorn [^8] |
-| Postmates | — | — | Consumer/Delivery | Acquired [^8] |
-| Reddit | Growth | — | Consumer/Social | IPO [^8] |
-| Replit | Growth | — | Developer Tools | Active [^8] |
-| Vanta | — | — | Enterprise/Security | Unicorn [^8] |
-| Secoda | — | — | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
+| Airbnb | Angel-Seed | ~2012 | Consumer/Travel | IPO [^8] |
+| Anduril | Growth | ~2021 | Defense | Unicorn [^8] |
+| AgentSync | Series A | 2021 | Enterprise/Insurance | Unicorn [^8] |
+| ClickUp | Series A | 2020 | Enterprise/Productivity | Unicorn [^8] |
+| Eventbrite | Angel-Seed | ~2012 | Consumer/Events | IPO [^8] |
+| Glean | Growth | ~2023 | Enterprise/AI | Active [^8] |
+| Intercom | Angel-Seed | ~2015 | Enterprise/SaaS | Unicorn [^8] |
+| Lyft | Angel-Seed | ~2013 | Consumer/Transport | IPO [^8] |
+| Meta (Facebook) | Angel-Seed | ~2005 | Consumer/Social | IPO [^8] |
+| Neuralink | Series C | 2021 | Enterprise/Neurotech | Unicorn [^8] |
+| Opendoor | Angel-Seed | ~2014 | Consumer/Real Estate | IPO [^8] |
+| Palantir | Angel-Seed | ~2005 | Enterprise/Data | IPO [^8] |
+| Pave | Growth | ~2022 | Enterprise/HR | Unicorn [^8] |
+| Pipe | Angel-Seed | ~2020 | Enterprise/Fintech | Unicorn [^8] |
+| Postmates | Angel-Seed | ~2014 | Consumer/Delivery | Acquired [^8] |
+| Reddit | Growth | ~2021 | Consumer/Social | IPO [^8] |
+| Replit | Growth | ~2023 | Developer Tools | Active [^8] |
+| Vanta | Series B | ~2022 | Enterprise/Security | Unicorn [^8] |
+| Secoda | Angel-Seed | ~2021 | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
 | Noma Security | Series B | 2025 | Enterprise/Security | Active [^7] |
 | Upwind Security | Series B | 2024 | Enterprise/Security | Active [^7] |
 | Unframe AI | Series A | 2025 | Enterprise/AI | Active [^7] |

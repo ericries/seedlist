@@ -83,39 +83,39 @@ Obvious invests primarily at Series Seed and Series A, though the firm has done 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
-| Beyond Meat | — | ~2009 | Planetary Health / food | IPO (2019) | [^3][^5] |
-| Proterra | — | — | Planetary Health / EV buses | Bankrupt (2023) | [^5] |
-| Diamond Foundry | — | ~2012 | Planetary Health / diamonds | Active | [^3] |
-| Devoted Health | — | ~2017 | Human Health / insurance | Active | [^3] |
-| Gusto | — | ~2011 | Economic Health / payroll | Active | [^3] |
-~unknown| Recursion | — | — | Human Health / biotech | IPO | [^3] |
-~unknown| Planet | — | — | Planetary Health / satellite | IPO | [^3] |
-~unknown| Pyka | — | — | Planetary Health / aviation | Active | [^3] |
-| Galileo | — | ~2018 | Human Health / mobile care | Active | [^3] |
-~unknown| Virta Health | — | — | Human Health / diabetes | Active | [^4] |
-| Cal.com | — | ~2021 | Economic Health / scheduling | Active | [^3] |
-| Corvus Insurance | — | ~2017 | Economic Health / insurtech | Acquired | [^3] |
-| DarwinAI | — | ~2017 | Economic Health / AI | Acquired (Apple) | [^3] |
-| Dexterity | — | ~2017 | Economic Health / robotics | Active | [^3] |
-| Canvas | — | ~2017 | Planetary Health / construction | Acquired | [^3] |
-| Block Renovation | — | ~2017 | Economic Health / home reno | Active | [^3] |
-| CareZone | — | ~2012 | Human Health / health app | Acquired | [^3] |
-| ConcertoCare | — | ~2015 | Human Health / geriatric care | Active | [^3] |
-| Dyno Therapeutics | — | ~2018 | Human Health / gene therapy | Active | [^3] |
-| Arbor | — | ~2020 | Planetary Health / energy | Active | [^3] |
-| Forum Mobility | — | ~2021 | Planetary Health / EV trucks | Active | [^3] |
-| Halcyon | — | ~2023 | Planetary Health / energy AI | Active | [^3] |
-| Baton | — | ~2021 | Economic Health / SMB M&A | Active | [^3] |
-| Aifleet | — | ~2020 | Planetary Health / trucking | Active | [^3] |
-| Beam | — | ~2018 | Human Health / wellness | Active | [^3] |
-| Brightside Health | — | ~2017 | Economic Health / financial wellness | Active | [^3] |
-| Good Eggs | — | ~2011 | Human Health / grocery | Acquired | [^3] |
-| Enervee | — | ~2010 | Planetary Health / energy | Active | [^3] |
-| Gandeeva Therapeutics | — | ~2020 | Human Health / drug discovery | Active | [^3] |
-| Grid | — | ~2016 | Economic Health / tax | Active | [^3] |
-| Ataraxis AI | — | ~2022 | Human Health / oncology | Active | [^3] |
-| All In Food | — | ~2025 | Human Health / snacks | Active | [^3] |
-| Bakpax | — | ~2017 | Economic Health / edtech | Acquired | [^3] |
+| Beyond Meat | Series D | ~2014 | Planetary Health / food | IPO (2019) | [^3][^5] |
+| Proterra | Venture | ~2015 | Planetary Health / EV buses | Bankrupt (2023) | [^5] |
+| Diamond Foundry | Series A | ~2015 | Planetary Health / diamonds | Active | [^3] |
+| Devoted Health | Series A | 2017 | Human Health / insurance | Active | [^3] |
+| Gusto | Series C | 2016 | Economic Health / payroll | Active | [^3] |
+| Recursion | Series A | 2016 | Human Health / biotech | IPO | [^3] |
+| Planet | Venture | ~2015 | Planetary Health / satellite | IPO | [^3] |
+| Pyka | Series B | 2024 | Planetary Health / aviation | Active | [^3] |
+| Galileo | Seed | ~2018 | Human Health / mobile care | Active | [^3] |
+| Virta Health | Series C | ~2020 | Human Health / diabetes | Active | [^4] |
+| Cal.com | Seed | ~2021 | Economic Health / scheduling | Active | [^3] |
+| Corvus Insurance | Seed | ~2017 | Economic Health / insurtech | Acquired | [^3] |
+| DarwinAI | Seed | ~2017 | Economic Health / AI | Acquired (Apple) | [^3] |
+| Dexterity | Seed | ~2017 | Economic Health / robotics | Active | [^3] |
+| Canvas | Seed | ~2017 | Planetary Health / construction | Acquired | [^3] |
+| Block Renovation | Seed | ~2017 | Economic Health / home reno | Active | [^3] |
+| CareZone | Seed | ~2012 | Human Health / health app | Acquired | [^3] |
+| ConcertoCare | Seed | ~2015 | Human Health / geriatric care | Active | [^3] |
+| Dyno Therapeutics | Seed | ~2018 | Human Health / gene therapy | Active | [^3] |
+| Arbor | Seed | ~2020 | Planetary Health / energy | Active | [^3] |
+| Forum Mobility | Seed | ~2021 | Planetary Health / EV trucks | Active | [^3] |
+| Halcyon | Seed | ~2023 | Planetary Health / energy AI | Active | [^3] |
+| Baton | Seed | ~2021 | Economic Health / SMB M&A | Active | [^3] |
+| Aifleet | Seed | ~2020 | Planetary Health / trucking | Active | [^3] |
+| Beam | Seed | ~2018 | Human Health / wellness | Active | [^3] |
+| Brightside Health | Seed | ~2017 | Economic Health / financial wellness | Active | [^3] |
+| Good Eggs | Seed | ~2011 | Human Health / grocery | Acquired | [^3] |
+| Enervee | Seed | ~2010 | Planetary Health / energy | Active | [^3] |
+| Gandeeva Therapeutics | Seed | ~2020 | Human Health / drug discovery | Active | [^3] |
+| Grid | Seed | ~2016 | Economic Health / tax | Active | [^3] |
+| Ataraxis AI | Seed | ~2022 | Human Health / oncology | Active | [^3] |
+| All In Food | Seed | ~2025 | Human Health / snacks | Active | [^3] |
+| Bakpax | Seed | ~2017 | Economic Health / edtech | Acquired | [^3] |
 | Coda | Series C | 2020 | Economic Health / productivity | Active | [^8] |
 | Sanity | Series A | 2020 | Economic Health / CMS | Active | [^8] |
 

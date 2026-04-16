@@ -94,49 +94,49 @@ Based on the 55 verified portfolio companies listed on Refactor's portfolio page
 | Astranis | 2016 | Seed | [^17] |
 | Clover Health | 2016 | Series C | [^18] |
 | Solugen | 2017 | Seed | [^15] |
-| Headspace | ~2017 | — | [^3] |
-| Checkerspot | ~2017 | — | [^3] |
-| Coinbase | ~2017 | — | [^12] |
-| Lucy | ~2018 | — | [^3] |
-| PathAI | ~2018 | — | [^12] |
-| Picnic Health | ~2018 | — | [^12] |
-| Able | ~2018 | — | [^12] |
+| Headspace | ~2017 | Seed | [^3] |
+| Checkerspot | ~2017 | Seed | [^3] |
+| Coinbase | ~2017 | Venture | [^12] |
+| Lucy | ~2018 | Seed | [^3] |
+| PathAI | ~2018 | Seed | [^12] |
+| Picnic Health | ~2018 | Seed | [^12] |
+| Able | ~2018 | Seed | [^12] |
 | Kin Euphorics | ~2019 | Seed | [^3] |
-| Knowde | ~2019 | — | [^3] |
-| Betty Labs | ~2019 | — | [^12] |
-| Gencove | ~2019 | — | [^12] |
-| Berkeley Yeast | ~2019 | — | [^12] |
+| Knowde | ~2019 | Seed | [^3] |
+| Betty Labs | ~2019 | Seed | [^12] |
+| Gencove | ~2019 | Seed | [^12] |
+| Berkeley Yeast | ~2019 | Seed | [^12] |
 | 64x Bio | ~2020 | Seed | [^12] |
-| Loyal | ~2020 | — | [^12] |
-| Octant Bio | ~2020 | — | [^12] |
-| YourChoice Therapeutics | ~2020 | — | [^12] |
-| BioRender | ~2020 | — | [^12] |
-| Curative | ~2020 | — | [^12] |
-| Ophelia Health | ~2021 | — | [^12] |
-| Vital Health | ~2021 | — | [^12] |
-| Akasa | ~2021 | — | [^12] |
-| Floodbase | ~2021 | — | [^12] |
-| Macro Oceans | ~2021 | — | [^12] |
+| Loyal | ~2020 | Seed | [^12] |
+| Octant Bio | ~2020 | Seed | [^12] |
+| YourChoice Therapeutics | ~2020 | Seed | [^12] |
+| BioRender | ~2020 | Seed | [^12] |
+| Curative | ~2020 | Seed | [^12] |
+| Ophelia Health | ~2021 | Seed | [^12] |
+| Vital Health | ~2021 | Seed | [^12] |
+| Akasa | ~2021 | Seed | [^12] |
+| Floodbase | ~2021 | Seed | [^12] |
+| Macro Oceans | ~2021 | Seed | [^12] |
 | Solugen | 2022 | Series D | [^15] |
-| Aether | ~2022 | — | [^12] |
-| Orchid | ~2022 | — | [^12] |
-| Phytoform | ~2022 | — | [^12] |
-| Thalo Labs | ~2022 | — | [^12] |
-| Parallel Bio | ~2022 | — | [^12] |
-| Adventris | ~2022 | — | [^12] |
+| Aether | ~2022 | Seed | [^12] |
+| Orchid | ~2022 | Seed | [^12] |
+| Phytoform | ~2022 | Seed | [^12] |
+| Thalo Labs | ~2022 | Seed | [^12] |
+| Parallel Bio | ~2022 | Seed | [^12] |
+| Adventris | ~2022 | Pre-Seed | [^12] |
 | General Galactic | ~2023 | Seed | [^12] |
-| Granza Bio | ~2023 | — | [^12] |
-| Vitra Bio | ~2023 | — | [^12] |
-| Miist Therapeutics | ~2023 | — | [^12] |
-| Epana Bio | ~2023 | — | [^12] |
-| Remedy Scientific | ~2023 | — | [^12] |
-| Atlas | ~2023 | — | [^12] |
-| Lumindt | ~2023 | — | [^12] |
-| Pilgrim Labs | ~2024 | — | [^12] |
-| TBC | ~2024 | — | [^12] |
-| Network Ocean | ~2024 | — | [^12] |
-| Pila Energy | ~2024 | — | [^12] |
-| Brelle | ~2024 | — | [^12] |
+| Granza Bio | ~2023 | Seed | [^12] |
+| Vitra Bio | ~2023 | Seed | [^12] |
+| Miist Therapeutics | ~2023 | Seed | [^12] |
+| Epana Bio | ~2023 | Seed | [^12] |
+| Remedy Scientific | ~2023 | Seed | [^12] |
+| Atlas | ~2023 | Seed | [^12] |
+| Lumindt | ~2023 | Seed | [^12] |
+| Pilgrim Labs | ~2024 | Seed | [^12] |
+| TBC | ~2024 | Seed | [^12] |
+| Network Ocean | ~2024 | Seed | [^12] |
+| Pila Energy | ~2024 | Seed | [^12] |
+| Brelle | ~2024 | Seed | [^12] |
 | Hexium | 2024 | Seed | [^19] |
 | Causal Labs | 2025 | Seed | [^16] |
 
