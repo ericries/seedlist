@@ -210,6 +210,32 @@ pending_rounds:
   parsed_amount: $20M
   parsed_round: Series A
   status: pending
+- title: Cielo Closes Strategic Asset Acquisition and Announces Intention to Appoint
+    Chief Operating Officer and Chief Development Officer
+  url: https://www.globenewswire.com/news-release/2026/04/16/3275174/0/en/Cielo-Closes-Strategic-Asset-Acquisition-and-Announces-Intention-to-Appoint-Chief-Operating-Officer-and-Chief-Development-Officer.html
+  source: globenewswire
+  date_found: '2026-04-16'
+  parsed_company: Cielo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Meta raises Quest 3 and Quest 3S prices due to RAM shortage
+  url: https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/
+  source: techcrunch
+  date_found: '2026-04-16'
+  parsed_company: Meta
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: GetWhys Raises $5.2M To Help Companies Like Intel And Verizon
+    Better Understand Their Customers'
+  url: https://news.crunchbase.com/venture/customer-intelligence-ai-getwhys-raises-more-seed-boutros/
+  source: crunchbase
+  date_found: '2026-04-16'
+  parsed_company: GetWhys
+  parsed_amount: $5.2M
+  parsed_round: null
+  status: pending
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -894,30 +920,3 @@ pending_rounds:
   status: skipped
   skip_reason: could not verify; MillTech appears to be a fintech/capital markets
     firm, not a startup round
-- title: Patlytics raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: Patlytics
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile patlytics.md
-- title: Trent AI raised $13M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: Trent AI
-  parsed_amount: $13M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile trent-ai.md
-- title: Astromech raised $10.5M seed extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: Astromech
-  parsed_amount: $10.5M
-  parsed_round: Seed Extension
-  status: processed
-  notes: created startup profile astromech.md
