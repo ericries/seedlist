@@ -257,8 +257,9 @@ The following table includes a16z investments verified through the firm's own po
 | Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
 | Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |
 | GitButler | Series A | 2026 | Developer Tools / Version Control | Private [^29] |
+| Mintlify | Series B | 2026 | Developer Tools / Documentation | Private [^30] |
 
-*Note: This table includes 70 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 71 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -375,3 +376,5 @@ The following table includes a16z investments verified through the firm's own po
 [^28]: "Financial risk management platform Pillar raises $20M seed in round led by a16z." TechCrunch, April 14, 2026. https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/
 
 [^29]: "We've raised $17M to build what comes after Git." GitButler Blog, April 8, 2026. https://blog.gitbutler.com/series-a
+
+[^30]: Mintlify Blog, "Series B," April 14, 2026. https://www.mintlify.com/blog/series-b

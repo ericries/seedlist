@@ -209,7 +209,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $20M
   parsed_round: Series A
-  status: pending
+  status: processed
+  notes: created startup profile spektr.md; updated nea.md portfolio
 - title: Cielo Closes Strategic Asset Acquisition and Announces Intention to Appoint
     Chief Operating Officer and Chief Development Officer
   url: https://www.globenewswire.com/news-release/2026/04/16/3275174/0/en/Cielo-Closes-Strategic-Asset-Acquisition-and-Announces-Intention-to-Appoint-Chief-Operating-Officer-and-Chief-Development-Officer.html
@@ -218,7 +219,8 @@ pending_rounds:
   parsed_company: Cielo
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: corporate asset acquisition, not a startup funding round
 - title: Meta raises Quest 3 and Quest 3S prices due to RAM shortage
   url: https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/
   source: techcrunch
@@ -226,7 +228,8 @@ pending_rounds:
   parsed_company: Meta
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: product price increase, not a funding round
 - title: 'Exclusive: GetWhys Raises $5.2M To Help Companies Like Intel And Verizon
     Better Understand Their Customers'
   url: https://news.crunchbase.com/venture/customer-intelligence-ai-getwhys-raises-more-seed-boutros/
@@ -235,7 +238,182 @@ pending_rounds:
   parsed_company: GetWhys
   parsed_amount: $5.2M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile getwhys.md
+- title: InsightFinder raises $15M to help companies figure out where AI agents go
+    wrong
+  url: https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/
+  source: techcrunch
+  date_found: '2026-04-16'
+  parsed_company: InsightFinder
+  parsed_amount: $15M
+  parsed_round: null
+  status: processed
+  notes: created startup profile insightfinder.md
+- title: Beeline Medicines raised $300M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Beeline Medicines
+  parsed_amount: $300M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile beeline-medicines.md
+- title: Slash raised $100M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Slash
+  parsed_amount: $100M
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile slash-fintech.md; updated khosla-ventures.md portfolio
+- title: Storm Therapeutics raised $56M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Storm Therapeutics
+  parsed_amount: $56M
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile storm-therapeutics.md
+- title: Mintlify raised $45M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Mintlify
+  parsed_amount: $45M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile mintlify.md; updated andreessen-horowitz.md portfolio
+- title: Alloy Therapeutics raised $40M Series E
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Alloy Therapeutics
+  parsed_amount: $40M
+  parsed_round: Series E
+  status: processed
+  notes: created startup profile alloy-therapeutics.md; updated 8vc.md portfolio
+- title: Resolve AI raised $40M Series A extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Resolve AI
+  parsed_amount: $40M
+  parsed_round: Series A Extension
+  status: processed
+  notes: created startup profile resolve-ai.md
+- title: Solidroad raised $25M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Solidroad
+  parsed_amount: $25M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile solidroad.md
+- title: Spektr raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Spektr
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: processed
+  notes: duplicate of Crunchbase entry; spektr.md already created
+- title: Pillar raised $20M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Pillar
+  parsed_amount: $20M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate; pillar-risk.md already exists from earlier processing
+- title: Capsule raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Capsule
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile capsule-security.md
+- title: Cookiy AI raised $7M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Cookiy AI
+  parsed_amount: $7M
+  parsed_round: null
+  status: processed
+  notes: created startup profile cookiy-ai.md
+- title: Balerion raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Balerion
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: could not verify; Balerion Space Ventures is a VC firm, not a startup;
+    no startup called Balerion found raising $6M seed
+- title: Stendr raised $5.4M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Stendr
+  parsed_amount: $5.4M
+  parsed_round: null
+  status: processed
+  notes: created startup profile stendr.md; updated acme-capital.md portfolio
+- title: Brix raised $5.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Brix
+  parsed_amount: $5.5M
+  parsed_round: null
+  status: processed
+  notes: created startup profile brix.md
+- title: Traza raised $2.1M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Traza
+  parsed_amount: $2.1M
+  parsed_round: null
+  status: processed
+  notes: created startup profile traza.md
+- title: Arxis raised $1.1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Arxis
+  parsed_amount: $1.1B
+  parsed_round: null
+  status: skipped
+  skip_reason: IPO on Nasdaq ($1.13B), not a startup funding round
+- title: Madison Air Solutions raised $2.2B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Madison Air Solutions
+  parsed_amount: $2.2B
+  parsed_round: null
+  status: skipped
+  skip_reason: IPO on NYSE ($2.2B), not a startup funding round
+- title: Accel raised $4B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-16'
+  parsed_company: Accel
+  parsed_amount: $4B
+  parsed_round: null
+  status: skipped
+  skip_reason: VC fund raise (Accel Leaders Fund), not a startup round; duplicate
+    of earlier Accel $5B TechCrunch entry
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -747,176 +925,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile juno-tax.md
-- title: Global Investors Help Boost Latin America's Late-Stage Funding Boom In Q1
-  url: https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-09'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article
-- title: SiFive raised $400M Series G
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: SiFive
-  parsed_amount: $400M
-  parsed_round: Series G
-  status: processed
-  notes: created startup profile sifive.md
-- title: AfterQuery raised $30M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: AfterQuery
-  parsed_amount: $30M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile afterquery.md
-- title: Q-Factor raised $24M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Q-Factor
-  parsed_amount: $24M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: duplicate; q-factor.md already exists from earlier processing
-- title: Pipe raised $16M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Pipe
-  parsed_amount: $16M
-  parsed_round: null
-  status: processed
-  notes: created startup profile pipe.md
-- title: Haast raised $12M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Haast
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile haast.md
-- title: Satellites on Fire raised $2.7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Satellites on Fire
-  parsed_amount: $2.7M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile satellites-on-fire.md
-- title: and raised $386M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: and
-  parsed_amount: $386M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact from Axios scrape; company name not captured
-- title: per Axios Pro . Mosey had raised $21M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: per Axios Pro . Mosey had
-  parsed_amount: $21M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact; Mosey was acquired by Gusto on April 9, 2026
-- title: Onex Partners raised $1.6B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Onex Partners
-  parsed_amount: $1.6B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE fund raise, not a startup round
-- title: Partners raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Partners
-  parsed_amount: $400M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact; likely fragment of SiFive round description
-- title: Collide Capital raised $95M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Collide Capital
-  parsed_amount: $95M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate of TechCrunch entry; VC fund raise (Fund II), not a startup
-    round
-- title: Court Square Capital Partners raised $3.8B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Court Square Capital Partners
-  parsed_amount: $3.8B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE fund raise, not a startup round
-- title: Mosey had raised $21M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: Mosey had
-  parsed_amount: $21M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact; Mosey was acquired by Gusto, not a new round
-- title: u003e. Mosey had raised $21M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-09'
-  parsed_company: u003e. Mosey had
-  parsed_amount: $21M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate parsing artifact of Mosey acquisition mention
-- title: Handhold raised €3M Seed
-  url: https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/
-  source: websearch
-  date_found: '2026-04-08'
-  parsed_company: Handhold
-  parsed_amount: €3M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile handhold.md
-- title: Sidewinder Therapeutics raised $137M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: Sidewinder Therapeutics
-  parsed_amount: $137M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile sidewinder-therapeutics.md
-- title: said it raised $80M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: said it
-  parsed_amount: $80M
-  parsed_round: Series D
-  status: processed
-  notes: identified as Life Biosciences $80M Series D; created life-biosciences.md
-- title: MillTech raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-08'
-  parsed_company: MillTech
-  parsed_amount: $60M
-  parsed_round: null
-  status: skipped
-  skip_reason: could not verify; MillTech appears to be a fintech/capital markets
-    firm, not a startup round

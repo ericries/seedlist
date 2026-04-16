@@ -130,8 +130,9 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Camber | Early Stage | ~2023 | Healthcare Billing / AI | Active [^15] |
 | Uhnder | Early Stage | ~2019 | Autonomous Vehicles / Radar | Active [^4] |
 | Arya | Early Stage | ~2024 | Healthcare AI | Active [^15] |
+| Stendr | Pre-Seed | 2026 | Defense Tech / Drones | Active [^21] |
 
-*Note: This table represents approximately 34 of an estimated 127–207 total investments. Many investments, particularly those made under the Sherpa Capital name (Uber, Airbnb, Robinhood, Slack, Opendoor, Rent the Runway, Wag), are not included as they predate the ACME Capital branding. Years marked with ~ are approximations based on available data.*
+*Note: This table represents approximately 35 of an estimated 127–207 total investments. Many investments, particularly those made under the Sherpa Capital name (Uber, Airbnb, Robinhood, Slack, Opendoor, Rent the Runway, Wag), are not included as they predate the ACME Capital branding. Years marked with ~ are approximations based on available data.*
 
 ## In Their Own Words
 
@@ -188,3 +189,5 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^18]: Crunchbase blog, "Female Founded + Funded: A Conversation with ACME Capital and Tia," accessed March 2026. https://about.crunchbase.com/blog/female-founded-funded-a-conversation-with-acme-capital-and-tia
 [^19]: BusinessWire, "Reshape Bio Raises $8 Million to Automate Experimental Tasks," February 2023, accessed March 2026. https://www.businesswire.com/news/home/20230209005125/en/Reshape-Bio-Raises-$8-Million-to-Automate-Experimental-Tasks-and-Build-New-Infrastructure-for-Food-Agriculture-and-Microbial-Research
 [^20]: Fortune, "Venture capital is in for a 'world of hurt,' says investor," April 2023, accessed March 2026. https://fortune.com/2023/04/26/venture-capital-digital-healthcare-world-of-hurt-aike-ho-acme-fortune-brainstorm-health/
+
+[^21]: The Next Web, "Norwegian defence startup Stendr raises $5.4M," April 2026. https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence
