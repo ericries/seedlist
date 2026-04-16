@@ -414,6 +414,14 @@ pending_rounds:
   status: skipped
   skip_reason: VC fund raise (Accel Leaders Fund), not a startup round; duplicate
     of earlier Accel $5B TechCrunch entry
+- title: Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation
+  url: https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/
+  source: techcrunch
+  date_found: '2026-04-16'
+  parsed_company: Slash, a Ramp competitor founded by teenagers,
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -914,14 +922,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: VC fund raise (Fund II), not a startup round
-- title: 'Exclusive: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less
-    Painful With AI, Raises $12M'
-  url: https://news.crunchbase.com/fintech/cpa-founded-ai-tax-return-startup-juno-seed-funding/
-  source: crunchbase
-  date_found: '2026-04-09'
-  parsed_company: Juno, CPA-Founded Startup That Aims To Make Tax Returns Less Painful
-    With AI,
-  parsed_amount: $12M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile juno-tax.md
