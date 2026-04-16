@@ -90,10 +90,10 @@ Beyond the 133 crypto-focused investments, Srinivasan's personal website lists s
 
 ### Stage Distribution (133 crypto investments)
 
-- **Seed**: 71 of 133 (53.4%) [^17]
-- **Pre-Seed**: 12 of 133 (9.0%) [^17]
-- **Series A**: 17 of 133 (12.8%) [^17]
-- **Strategic / Other / Unknown**: 33 of 133 (24.8%) [^17]
+- **Seed**: 87 of 133 (65.4%) [^17]
+- **Pre-Seed**: 13 of 133 (9.8%) [^17]
+- **Series A**: 20 of 133 (15.0%) [^17]
+- **Strategic / Other**: 13 of 133 (9.8%) [^17]
 
 ### Investment Pace
 
@@ -140,23 +140,23 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Push Protocol | 2020 | Seed | [^17] |
 | Capsule | 2021 | Pre-Seed | [^17] |
 | Showtime | 2021 | Pre-Seed | [^17] |
-| Radworks | 2021 | Unknown | [^17] |
+| Radworks | 2021 | Seed | [^17] |
 | OpenSea | 2021 | Series A | [^17][^21] |
 | Aleo | 2021 | Series A | [^17] |
 | Iron Fish | 2021 | Strategic | [^17] |
-| Gitcoin | 2021 | Unknown | [^17] |
+| Gitcoin | 2021 | Series A | [^17] |
 | Commonwealth | 2021 | Seed | [^17] |
 | Certora | 2021 | Series A | [^17] |
 | Goldfinch | 2021 | Seed | [^17] |
 | Ramp Network | 2021 | Seed | [^17] |
-| Syndicate | 2021 | Unknown | [^17] |
+| Syndicate | 2021 | Series A | [^17] |
 | RabbitHole | 2021 | Seed | [^17] |
 | Arcana Network | 2021 | Seed | [^17] |
 | Superfluid | 2021 | Seed | [^17] |
 | Magic | 2021 | Series A | [^17] |
 | XMTP | 2021 | Series A | [^17] |
 | Praxis | 2021 | Seed | [^17] |
-| Mem Protocol | 2021 | Unknown | [^17] |
+| Mem Protocol | 2021 | Pre-Seed | [^17] |
 | RSS3 | 2021 | Seed | [^17] |
 | Spatial | 2021 | Series B | [^17] |
 | Myco | 2021 | Seed | [^17] |
@@ -164,9 +164,9 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Sign (EthSign) | 2022 | Seed | [^17] |
 | InvestaX | 2022 | Series A | [^17] |
 | Dank Bank | 2022 | Pre-Seed | [^17] |
-| LiquiFi | 2022 | Unknown | [^17] |
-| Lighthouse.storage | 2022 | Unknown | [^17] |
-| Truflation | 2022 | Unknown | [^17] |
+| LiquiFi | 2022 | Seed | [^17] |
+| Lighthouse.storage | 2022 | Seed | [^17] |
+| Truflation | 2022 | Seed | [^17] |
 | QuestBook | 2022 | Series A | [^17] |
 | Spritz Finance | 2022 | Pre-Seed | [^17] |
 | Big Whale Labs | 2022 | Seed | [^17] |
@@ -180,12 +180,12 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Hashflow | 2022 | Series A | [^17] |
 | Socket Protocol | 2022 | Pre-Seed | [^17] |
 | Shardeum | 2022 | Seed | [^17] |
-| Integral | 2022 | Unknown | [^17] |
-| Sovryn | 2022 | Unknown | [^17] |
-| Light Protocol | 2022 | Unknown | [^17] |
-| Origami | 2022 | Unknown | [^17] |
+| Integral | 2022 | Seed | [^17] |
+| Sovryn | 2022 | Strategic | [^17] |
+| Light Protocol | 2022 | Seed | [^17] |
+| Origami | 2022 | Seed | [^17] |
 | Spindl | 2022 | Seed | [^17] |
-| Sepana | 2022 | Unknown | [^17] |
+| Sepana | 2022 | Seed | [^17] |
 | Buildspace | 2022 | Seed | [^17] |
 | Evertas | 2022 | Series A | [^17] |
 | Den | 2023 | Seed | [^17] |
@@ -194,26 +194,26 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Salsa | 2023 | Pre-Seed | [^17] |
 | Ironblocks | 2023 | Seed | [^17] |
 | Sesame Labs | 2023 | Seed | [^17] |
-| VitaDAO | 2023 | Unknown | [^17] |
+| VitaDAO | 2023 | Strategic | [^17] |
 | Cypher Wallet | 2023 | Seed | [^17] |
 | Proven | 2023 | Seed | [^17] |
 | Metalink | 2023 | Seed | [^17] |
 | Lore (ex Prysm) | 2023 | Strategic | [^17] |
 | Intmax | 2023 | Seed | [^17] |
 | Huddle01 | 2023 | Seed | [^17] |
-| LabDAO | 2023 | Unknown | [^17] |
+| LabDAO | 2023 | Seed | [^17] |
 | PYOR | 2023 | Seed | [^17] |
-| Lens Protocol | 2023 | Unknown | [^17] |
+| Lens Protocol | 2023 | Strategic | [^17] |
 | ARGUS | 2023 | Seed | [^17] |
 | Molecule | 2023 | Seed | [^17] |
-| Roi | 2023 | Unknown | [^17] |
+| Roi | 2023 | Series A | [^17] |
 | MIDAO | 2023 | Seed | [^17] |
-| Lore Explorer | 2023 | Unknown | [^17] |
+| Lore Explorer | 2023 | Seed | [^17] |
 | DRiP | 2023 | Seed | [^17] |
 | 0xPass | 2023 | Pre-Seed | [^17][^23] |
 | Proof of Play | 2023 | Seed | [^17] |
 | Parallax | 2023 | Seed | [^17] |
-| Ostium Labs | 2023 | Unknown | [^17] |
+| Ostium Labs | 2023 | Seed | [^17] |
 | Fileverse | 2023 | Pre-Seed | [^17] |
 | The Network State Company | 2023 | Unknown | [^17] |
 | Ritual | 2023 | Series A | [^17] |
@@ -221,7 +221,7 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Dinari | 2024 | Seed | [^17] |
 | Analog | 2024 | Seed | [^17] |
 | Avail | 2024 | Seed | [^17] |
-| MyShell | 2024 | Unknown | [^17] |
+| MyShell | 2024 | Seed | [^17] |
 | Sending Network | 2024 | Seed | [^17] |
 | Ord.io | 2024 | Pre-Seed | [^17] |
 | Agora | 2024 | Seed | [^17] |
@@ -230,19 +230,19 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Mira Network | 2024 | Seed | [^17] |
 | Hyperbolic | 2024 | Seed | [^17] |
 | 0xPPL | 2024 | Strategic | [^17] |
-| Level Protocol | 2024 | Unknown | [^17] |
+| Level Protocol | 2024 | Strategic | [^17] |
 | Fermah | 2024 | Seed | [^17] |
-| ZAR | 2024 | Unknown | [^17] |
-| MeshMap | 2024 | Unknown | [^17] |
+| ZAR | 2024 | Seed | [^17] |
+| MeshMap | 2024 | Seed | [^17] |
 | OpenGradient | 2024 | Seed | [^17] |
 | The Arena | 2024 | Pre-Seed | [^17] |
 | Genius / Shuttle Labs | 2024 | Seed | [^17] |
 | Chainway Labs / Citrea | 2024 | Series A | [^17] |
-| Suilend (SEND) | 2024 | Unknown | [^17] |
+| Suilend (SEND) | 2024 | Seed | [^17] |
 | DeFi App HOME | 2025 | Seed | [^17] |
 | Fomo | 2025 | Pre-Seed | [^17] |
 | Fluent Labs | 2025 | Seed | [^17] |
-| Prime Intellect | 2025 | Unknown | [^17] |
+| Prime Intellect | 2025 | Seed | [^17] |
 | Pluralis Research | 2025 | Seed | [^17] |
 | Octane Security | 2025 | Seed | [^17] |
 | Trepa | 2025 | Pre-Seed | [^17] |
