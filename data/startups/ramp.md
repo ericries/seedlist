@@ -90,6 +90,9 @@ firms:
 - round: '2021'
   slug: contrary
   year: 2021
+- round: Seed
+  slug: conversion-capital
+  year: 2019
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -176,6 +179,9 @@ investors:
   year: 2025
 - round: Seed
   slug: adam-rothenberg
+  year: 2019
+- round: Seed
+  slug: christian-lawless
   year: 2019
 last_researched: 2026-03-20
 location: New York, NY

@@ -9026,7 +9026,7 @@ queue:
 - name: Brian Requarth
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Latitud
   discovered_from: david-velez
@@ -9357,7 +9357,7 @@ queue:
 - name: Christian Lawless
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Conversion Capital
   discovered_from: emily-cohen
@@ -9641,3 +9641,29 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: eyal-niv
+- name: Latitud
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-requarth
+- name: Gina Gotthilf
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Latitud
+  discovered_from: brian-requarth
+- name: Yuri Danichenko
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Latitud
+  discovered_from: brian-requarth
+- name: Scott McNealy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: christian-lawless
