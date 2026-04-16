@@ -13,9 +13,6 @@ sector:
 stage_latest: Series A
 total_raised: $25.5M
 firms:
-- slug: shine-capital
-  round: series-a
-  year: 2026
 - slug: nfx
   round: seed
   year: 2024
@@ -53,12 +50,15 @@ Gizmo is a London-based AI-powered learning platform that transforms students' n
 
 ## What Investors Say
 
-No verified investor quotes available at this time.
+Ethan Daly of Shine Capital on what sets Gizmo apart: "Gizmo has cracked something that's eluded consumer learning for years: organic, student-driven engagement at massive scale." [^2]
+
+Pete Flint of NFX described the team as "focused on making sure people benefit from AI and achieve their potential." [^2]
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+CEO Petros Christodoulou on the company's philosophy: "We're not fighting for less screen time — we're fighting for better screen time. People aren't addicted to their phones; they're addicted to progress, novelty, social connection, and reward." [^2]
 
 ## Sources
 
 [^1]: TechCrunch, "AI learning app Gizmo levels up with 13M users and a $22M investment," April 15, 2026. https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/
+[^2]: PRNewsWire, "Gizmo Raises $22 Million Series A to Make Learning Addictive for 13 Million Learners Worldwide," April 15, 2026. https://www.prnewswire.com/news-releases/gizmo-raises-22-million-series-a-to-make-learning-addictive-for-13-million-learners-worldwide-302741943.html

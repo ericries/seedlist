@@ -9699,3 +9699,39 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: shailendra-singh
+- name: Shine Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gizmo
+  source: Led Gizmo $22M Series A (April 2026)
+- name: Ethan Daly
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shine Capital
+  discovered_from: gizmo
+  source: Shine Capital partner, led Gizmo $22M Series A
+- name: Crucible Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pillar-risk
+  source: Participated in Pillar $20M seed (April 2026)
+- name: Gallery Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pillar-risk
+  source: Participated in Pillar $20M seed (April 2026)
+- name: Touring Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: parasail
+  source: Co-led Parasail $32M Series A (April 2026)

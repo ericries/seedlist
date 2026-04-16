@@ -3,9 +3,9 @@ check_size: $500K-$5M
 firm: nfx
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Indigo
-  date: 2025-01-24
-  round: Seed
+  company: Gizmo
+  date: 2026-04-15
+  round: Series A
 location: San Francisco, CA
 name: Pete Flint
 role: Co-Founder & General Partner
@@ -54,17 +54,18 @@ For founders, he has stated he looks for "technically minded founders that have 
 
 ## Inferred Thesis
 
-Based on 18 verified investments with known sectors and stages, the following patterns emerge. Note: NFX's full portfolio is approximately 300 companies; these 18 represent those individually attributed to Pete Flint through public announcements. The analysis should be interpreted as indicative, not exhaustive.
+Based on 20 verified investments with known sectors and stages, the following patterns emerge. Note: NFX's full portfolio is approximately 300 companies; these 20 represent those individually attributed to Pete Flint through public announcements. The analysis should be interpreted as indicative, not exhaustive.
 
-**Sector breakdown (18 verified Pete Flint-attributed investments):**
-- PropTech / Real Estate: 8 of 18 (44%) — Trulia (founder), Ribbon, La Haus, Lev, Tomo, Hitch, Overmoon, Indigo
-- Marketplaces / Labor: 4 of 18 (22%) — Let's Do This, Radius, Seso, Frontier
-- Fintech: 2 of 18 (11%) — Shop Circle, Collective Benefits (now Onsi)
-- Future of Work / SaaS: 2 of 18 (11%) — Smith.ai, Akooda
-- LatAm platforms: 1 of 18 (6%) — Latitud
-- AI: 1 of 18 (6%) — Gizmo (likely; confirmed in NFX library but no separate press release found)
+**Sector breakdown (20 verified Pete Flint-attributed investments):**
+- PropTech / Real Estate: 8 of 20 (40%) — Trulia (founder), Ribbon, La Haus, Lev, Tomo, Hitch, Overmoon, Indigo
+- Marketplaces / Labor: 4 of 20 (20%) — Let's Do This, Radius, Seso, Frontier
+- Fintech: 2 of 20 (10%) — Shop Circle, Collective Benefits (now Onsi)
+- Future of Work / SaaS: 2 of 20 (10%) — Smith.ai, Akooda
+- Consumer / On Me: 1 of 20 (5%) — On Me
+- LatAm platforms: 1 of 20 (5%) — Latitud
+- AI / EdTech: 1 of 20 (5%) — Gizmo (seed and Series A follow-on) [^30]
 
-**Stage distribution:** Predominantly seed (estimated 14 of 18; 78%), with several pre-seed and one notable $70M Series A seed-equivalent round for Tomo that NFX described as its "largest initial investment to date" [^12].
+**Stage distribution:** Predominantly seed (estimated 15 of 20; 75%), with several pre-seed, one Series A follow-on (Gizmo), and one notable $70M Series A seed-equivalent round for Tomo that NFX described as its "largest initial investment to date" [^12].
 
 **Geographic focus:** Primarily US-based companies, with a meaningful LatAm thread (La Haus in Colombia/Mexico, Latitud in Brazil/broader LatAm). Consistent with NFX's stated four-region focus (Silicon Valley, Israel, Europe, LatAm).
 
@@ -98,6 +99,8 @@ Based on 18 verified investments with known sectors and stages, the following pa
 | Overmoon | 2024 | Seed | [^13] |
 | On Me | 2025 | Seed | [^27] |
 | Indigo | 2025 | Seed | [^14] |
+| Gizmo | ~2024 | Seed | [^30] |
+| Gizmo (follow-on) | 2026 | Series A | [^30] |
 
 *Note: This table represents publicly confirmed Pete Flint-attributed investments. NFX's full portfolio is approximately 300 companies; the complete set of investments attributable to Flint individually is not publicly disaggregated.*
 
@@ -186,3 +189,4 @@ No independently sourced founder testimonials about Pete Flint found through ded
 [^27]: NFX, "Three Reasons Why NFX Invested in On Me: The Product Turning Gift Cards into Networks," December 2025, accessed March 2026. https://www.nfx.com/post/onme
 [^28]: NFX, "Pete Flint, Trulia Founder & CEO, Joins NFX Guild," December 2016, accessed March 2026. https://www.nfx.com/post/trulia-founder-flint-joins-nfx
 [^29]: NFX, "PropTech: A Massive Opportunity We're Seeing," July 2019, accessed March 2026. https://www.nfx.com/post/proptech-massive-opportunity
+[^30]: PRNewsWire, "Gizmo Raises $22 Million Series A to Make Learning Addictive for 13 Million Learners Worldwide," April 15, 2026. https://www.prnewswire.com/news-releases/gizmo-raises-22-million-series-a-to-make-learning-addictive-for-13-million-learners-worldwide-302741943.html

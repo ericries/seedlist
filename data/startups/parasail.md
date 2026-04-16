@@ -12,13 +12,7 @@ sector:
 - developer-tools
 stage_latest: Series A
 total_raised: $42M
-firms:
-- slug: touring-capital
-  round: series-a
-  year: 2026
-- slug: kindred-ventures
-  round: series-a
-  year: 2026
+firms: []
 investors:
 - name: Samsung NEXT
   round: series-a
@@ -57,3 +51,4 @@ No verified founder quotes available at this time.
 ## Sources
 
 [^1]: PRNewsWire, "Parasail Raises $32M Series A to Build the Supercloud that Puts Developers in Control of their AI," April 15, 2026. https://www.prnewswire.com/news-releases/parasail-raises-32m-series-a-to-build-the-supercloud-that-puts-developers-in-control-of-their-ai-302742856.html
+[^2]: TechCrunch, "This startup is betting tokenmaxxing will create the next compute giant," April 15, 2026. https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/
