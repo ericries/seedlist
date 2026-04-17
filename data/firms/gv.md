@@ -120,6 +120,8 @@ Based on GV's verified portfolio and public data:
 | Thinking Machines Lab | Seed | ~2025 | AI Foundation Model | Private ($12B valuation) [^5] |
 | PostHog | Early | ~2020 | Developer Tools | Private (Unicorn 2025) [^4] |
 | Cockroach Labs | Early | ~2017 | Data Infrastructure | Private [^2] |
+| Wealth.com | Series B | 2026 | Fintech / Wealthtech | Private [^6] |
+| nEye.ai | Series C | 2026 | AI / Data Center | Private [^7] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -144,3 +146,5 @@ No independently sourced founder testimonials found.
 [^3]: GV website, "Team," accessed March 2026. https://www.gv.com/team
 [^4]: Tracxn, "Google Ventures — 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/google-ventures/__KCopzcGnI6gw2XIpBQRF0eQrZKBzn2fQfqj1a2H3SfU
 [^5]: Crunchbase News, "GV Bets Big On 'AI Magic' — Even When It Competes With Alphabet," 2024. https://news.crunchbase.com/ai/venture-goog-munichiello-hulme-gv/
+[^6]: Fintech Global, "Wealth.com raises $65m Series B for AI wealth planning," April 16, 2026. https://fintech.global/2026/04/16/wealth-com-raises-65m-series-b-for-ai-wealth-planning/
+[^7]: BusinessWire, "nEye.ai Secures $80 Million Series C to Scale Optical Circuit Switching for AI Infrastructure," April 14, 2026. https://www.businesswire.com/news/home/20260414407496/en/nEye.ai-Secures-$80-Million-Series-C-to-Scale-Optical-Circuit-Switching-for-AI-Infrastructure

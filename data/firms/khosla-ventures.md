@@ -192,6 +192,8 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Loyal | Early | ~2019 (founded) | Therapeutics / Veterinary | Private [^22] |
 | Slash | Series C | 2026 | Fintech / Banking | Private [^31] |
 | Factory | Series B | 2026 | AI / Developer Tools | Private [^32] |
+| Glydways | Series C | 2026 | Autonomous Vehicles / Mobility | Private [^33] |
+| Nas.com | Series A | 2026 | AI / Creator Economy | Private [^34] |
 
 *Note: This table includes 66 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -326,3 +328,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^31]: BusinessWire, "Slash Achieves Unicorn Status Following $100m Series C Fundraise," April 15, 2026. https://www.businesswire.com/news/home/20260415566517/en/Slash-Achieves-Unicorn-Status-Following-%24100m-Series-C-Fundraise
 
 [^32]: TechCrunch, "Factory hits $1.5B valuation to build AI coding for enterprises," April 16, 2026. https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/
+
+[^33]: GlobeNewsWire, "Glydways Raises Oversubscribed $170M Series C," April 14, 2026. https://www.globenewswire.com/news-release/2026/04/14/3273722/0/en/Glydways-Raises-Oversubscribed-170M-Series-C-as-First-Autonomous-Vehicle-Networks-Enter-Public-Operation-in-2026.html
+
+[^34]: PR Newswire, "Nas.com Raises $27M Series A Led by Khosla Ventures," April 16, 2026. https://www.prnewswire.com/news-releases/nascom-raises-27m-series-a-led-by-khosla-ventures-as-ai-unleashes-the-biggest-wave-of-new-business-creation-in-history-302745035.html

@@ -116,6 +116,7 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 | Chipper Cash | Series B | 2020 | Cross-border Payments | Active | [^17] |
 | Kavak | Series D | 2021 | Auto Marketplace | Active | [^18] |
 | One (Walmart) | Growth | 2021 | Digital Banking | Active | [^2] |
+| Slash | Series C | 2026 | Fintech / Banking | Active | [^19] |
 
 *This table represents approximately 7% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
 
@@ -161,3 +162,4 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^16]: TechCrunch, "Alan raises $220 million for its health insurance and healthcare superapp," April 19, 2021. https://techcrunch.com/2021/04/19/alan-raises-220-million-for-its-health-insurance-and-healthcare-super-app/
 [^17]: TechCrunch, "African fintech startup Chipper Cash raises $30M backed by Jeff Bezos," November 18, 2020. https://techcrunch.com/2020/11/18/african-fintech-startup-chipper-cash-raises-30m-backed-by-jeff-bezos/
 [^18]: TechCrunch, "Mexican unicorn Kavak raises a $485M Series D at a $4B valuation," April 7, 2021. https://techcrunch.com/2021/04/07/mexican-unicorn-kavak-raises-a-485m-series-d-at-a-4b-valuation/
+[^19]: SiliconANGLE, "Slash raises $100M at a $1.4B valuation to expand AI-powered banking platform for online businesses," April 16, 2026. https://siliconangle.com/2026/04/16/slash-raises-100m-1-4b-valuation-expand-ai-powered-banking-platform-online-businesses/

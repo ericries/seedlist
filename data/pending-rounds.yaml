@@ -142,8 +142,8 @@ pending_rounds:
   parsed_amount: $15M
   parsed_round: Series A
   status: skipped
-  skip_reason: could not verify; no public announcement found for $15M Series A;
-    last known round was $6.5M seed
+  skip_reason: could not verify; no public announcement found for $15M Series A; last
+    known round was $6.5M seed
 - title: Lua raised $5.8M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -162,6 +162,18 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile noc-energy.md; France-based, led by 360 Capital
+- title: 'The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The
+    Lead'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/
+  source: crunchbase
+  date_found: '2026-04-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: extracted 10 rounds from weekly roundup; created profiles for glydways, zum,
+    neye-ai, turion-space; slate-auto, factory, neomorph, slash-fintech, beeline-medicines
+    already had profiles; also created nas-com, k1x, wealth-com from additional searches
 - title: Axios Sonire Therapeutics raised $18M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -924,13 +936,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: PE fund raise, not a startup round
-- title: Propel Bio raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-13'
-  parsed_company: Propel Bio
-  parsed_amount: $100M
-  parsed_round: null
-  status: skipped
-  skip_reason: could not verify; no press coverage found for Propel Bio $100M round;
-    may be Propel Bio Partners fund raise rather than startup round
