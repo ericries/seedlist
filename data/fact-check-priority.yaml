@@ -1,0 +1,7 @@
+# Profiles queued for priority fact-checking.
+# Profiles appear here when they're tagged in new funding rounds,
+# meaning they'll get more traffic and should be accurate.
+# The Fact Specificity Agent checks this file FIRST before the general queue.
+# After checking a profile, remove it from this list.
+
+priority: []

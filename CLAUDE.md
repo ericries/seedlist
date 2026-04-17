@@ -560,6 +560,15 @@ firms:
 - If the firm has a profile, verify the investment is noted
 - Update `last_verified_investment` in investor frontmatter if this is more recent
 
+**Queue touched profiles for fact-checking:** When an investor or firm appears in a new round, their profile will get more traffic. After processing each round, add any investor/firm profiles that were updated to the fact specificity priority list by appending to `data/fact-check-priority.yaml`:
+```yaml
+- slug: keith-rabois
+  type: investor
+  reason: "appeared in Lava Series A (2024-12)"
+  added: 2026-04-17
+```
+The Fact Specificity Agent should check this file first and prioritize these profiles over the general queue. This ensures profiles getting the most visibility are also the most accurate.
+
 #### Accuracy standards
 
 - Every round must have a citation to a press source or official announcement
@@ -589,7 +598,7 @@ Run `python3 scripts/scan_vague_facts.py` to scan all profiles and generate `dat
 
 ### Investigation Workflow (one fact at a time)
 
-1. **Pick the next `status: pending` item** from `data/vague-facts-queue.yaml` (high priority first).
+1. **Check `data/fact-check-priority.yaml` first.** If this file exists and has entries, prioritize those profiles — they appeared in recent rounds and are getting more traffic. For each entry, run a full fact-check sweep on that profile, then remove the entry from the file. If the file is empty or doesn't exist, fall back to `data/vague-facts-queue.yaml` (high priority first).
 2. **Set `status: investigating`** in the queue file.
 3. **Check AT LEAST THREE independent sources.** This is mandatory, not optional:
    a. **The investor's page** — the firm or investor's website, portfolio page, or blog post announcing the investment
