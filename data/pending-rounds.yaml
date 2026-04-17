@@ -28,6 +28,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Loop raises $95M to build supply chain AI that predicts disruptions
+  url: https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/
+  source: techcrunch
+  date_found: '2026-04-17'
+  parsed_company: Loop
+  parsed_amount: $95M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To
+    Hit Record Amount'
+  url: https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Eindhoven’s ONWARD Medical raises €40.6 million in capital increase to advance
+    spinal cord injury therapies
+  url: https://www.eu-startups.com/2026/04/eindhovens-onward-medical-raises-e40-6-million-in-capital-increase-to-advance-spinal-cord-injury-therapies/
+  source: eu-startups
+  date_found: '2026-04-17'
+  parsed_company: Eindhoven’s ONWARD Medical
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios Sonire Therapeutics raised $18M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -891,30 +917,3 @@ pending_rounds:
   parsed_round: Series E
   status: processed
   notes: created startup profile chapter.md
-- title: Elorian raised $55M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Elorian
-  parsed_amount: $55M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile elorian.md
-- title: Luminai raised $38M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Luminai
-  parsed_amount: $38M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile luminai.md
-- title: Paysend raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Paysend
-  parsed_amount: $25M
-  parsed_round: null
-  status: processed
-  notes: created startup profile paysend.md
