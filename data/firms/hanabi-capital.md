@@ -61,25 +61,25 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Applied Compute | Seed | 2025 | AI/Infrastructure | [^13] |
-| Arcade | — | 2024-2025 | Developer Tools | [^9] |
-| ArchiBoost AI | — | 2024-2025 | AI | [^4][^9] |
+| Arcade | Seed | 2025 | Developer Tools | [^9][^19] |
+| ArchiBoost AI | Undisclosed | 2024-2025 | AI | [^4][^9] |
 | Brinc Drones | Series C | 2025 | Robotics/Hardware | [^14] |
 | Cartesia | Series A | 2025 | AI | [^15] |
-| Cerebras | — | 2024-2025 | AI/Chips | [^9] |
+| Cerebras | Undisclosed | 2024-2025 | AI/Chips | [^9] |
 | ClickHouse | Series C | 2025 | Data Infrastructure | [^16] |
 | Cognition | Growth | 2025 | AI | [^17] |
-| Cursor | — | 2024-2025 | Developer Tools | [^9] |
-| Flora | — | 2024-2025 | AI | [^9] |
+| Cursor | Undisclosed | 2024-2025 | Developer Tools | [^9][^20] |
+| Flora | Seed | 2025 | AI/Creative Tools | [^9][^21] |
 | LiveKit | Series B | 2025 | Infrastructure | [^10] |
-| Mind Robotics | — | 2024-2025 | Robotics | [^4][^9] |
-| Netic | — | 2024-2025 | AI | [^9] |
-| Onodrim | — | 2024-2025 | — | [^9] |
-| Parahelp | — | 2024-2025 | — | [^9] |
-| Periodic Labs | — | 2024-2025 | Infrastructure | [^9] |
-| Simile | — | 2024-2025 | AI | [^9] |
-| Traversal | — | 2025-2026 | Developer Tools | [^4][^9] |
+| Mind Robotics | Seed | 2025 | Robotics | [^4][^9][^22] |
+| Netic | Series A | 2025 | AI/Home Services | [^9][^23] |
+| Onodrim | Seed | 2025-2026 | Defence Tech | [^9][^24] |
+| Parahelp | Seed / Series A | 2024-2025 | AI/Customer Support | [^9][^25] |
+| Periodic Labs | Seed | 2025 | AI/Science | [^9][^26] |
+| Simile | Series A | 2026 | AI/Simulation | [^9][^27] |
+| Traversal | Seed / Series A | 2025 | Developer Tools | [^4][^9][^28] |
 
-Note: Many investment dates are approximate (2024-2025) because Hanabi was founded in 2024 and specific round dates are not publicly disclosed for most investments. The firm's portfolio page lists 18 companies [^9]. Applied Compute's $20M seed round predated its later $80M round [^13][^18]. Brinc Drones' round was reported as Series C based on prior funding history [^14]. Mike Volpi invested personally in Brinc; Hanabi is listed as an investor via the firm's portfolio page [^9][^14].
+Note: The firm's portfolio page lists 18 companies [^9]. Some investment dates are approximate because specific round dates were not publicly disclosed. Applied Compute's $20M seed round predated its later $80M round [^13][^18]. Brinc Drones' round was reported as Series C based on prior funding history [^14]. Mike Volpi invested personally in Brinc; Hanabi is listed as an investor via the firm's portfolio page [^9][^14]. For ArchiBoost AI and Cerebras, Hanabi's specific round participation could not be independently confirmed; the firm is listed on the portfolio page [^9] and on Tracxn [^4]. For Cursor, Hanabi is listed as a portfolio company but which specific round the firm participated in is not publicly disclosed [^9][^20].
 
 ## In Their Own Words
 
@@ -117,3 +117,13 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 [^16]: ClickHouse Blog, "ClickHouse Extends Series C Financing and Expands Leadership Team to Fuel Growth," October 7, 2025. https://clickhouse.com/blog/clickhouse-extends-series-c-financing-expands-leadership-team
 [^17]: Cognition Blog, "Funding, growth, and the next frontier of AI coding agents," September 8, 2025. https://cognition.ai/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents
 [^18]: Pulse2, "Applied Compute Launches with $80 Million To Build Specific Intelligence For Enterprise AI Agents," November 4, 2025. https://pulse2.com/applied-compute-launches-with-80-million-to-build-specific-intelligence-for-enterprise-ai-agents/
+[^19]: TechCrunch, "Arcade raises $12M from Perplexity co-founder's new fund to make AI agents less awful," March 18, 2025. https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/
+[^20]: TechCrunch, "Coding assistant Cursor raises $2.3B 5 months after its previous round," November 13, 2025. https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/
+[^21]: Upstarts Media, "Startup FLORA Raises $6.5 Million To Build The AI Canvas For Creatives," May 2025. https://www.upstartsmedia.com/p/flora-raises-6-million-ai-creatives
+[^22]: TechCrunch, "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots," March 11, 2026. https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/
+[^23]: Bloomberg, "Founders Fund Backs Startup Bringing AI to Plumbers and Roofers," November 13, 2025. https://www.bloomberg.com/news/articles/2025-11-13/founders-fund-backs-startup-bringing-ai-to-plumbers-and-roofers
+[^24]: PR Newswire, "Onodrim Industries Raises €40 Million in Seed Funding to Accelerate Europe's Defence & Industrial Technology Renaissance," February 2026. https://www.prnewswire.com/news-releases/onodrim-industries-raises-40-million-in-seed-funding-to-accelerate-europes-defence--industrial-technology-renaissance-302687605.html
+[^25]: Parahelp blog, "Announcing our Series A and Seed," accessed April 2026. https://parahelp.com/blog/announcing-our-series-a-and-seed
+[^26]: TechCrunch, "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science," September 30, 2025. https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/
+[^27]: SiliconANGLE, "AI digital twin startup Simile raises $100M in funding," February 12, 2026. https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/
+[^28]: Fortune, "Traversal emerges from stealth with $48 million from Sequoia and Kleiner Perkins," June 18, 2025. https://fortune.com/2025/06/18/traversal-emerges-from-stealth-with-48-million-from-sequoia-and-kleiner-perkins-to-reimagine-site-reliability-in-the-ai-era/

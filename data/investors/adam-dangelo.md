@@ -98,21 +98,21 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 | Pika | Series B | 2023 | AI/Video | Active | [^6] |
 | DatologyAI | Seed | 2024 | AI/Data | Active | [^6] |
 | Codegen | Seed | 2023 | AI/Developer Tools | Active | [^6] |
-| Scale AI | Unknown | ~2018 | AI/Data Platform | Active | [^8] |
-| Cerebras Systems | Unknown | ~2021 | AI Chips | Active | [^9] |
-| Replit | Unknown | ~2022 | Developer Tools | Active | [^9] |
-| Lambda | Unknown | ~2021 | AI/Compute | Active | [^9] |
-| Turing | Unknown | ~2020 | AI/Talent | Active | [^9] |
-| Lighter | Unknown | ~2023 | Unknown | Active | [^9] |
-| Matic | Unknown | ~2022 | Robotics | Active | [^9] |
-| Braintrust | Unknown | ~2022 | Developer Tools | Active | [^9] |
-| Oboe Labs | Unknown | ~2023 | Unknown | Active | [^9] |
+| Scale AI | Series C | 2019 | AI/Data Platform | Active | [^8][^10] |
+| Cerebras Systems | Angel | Undisclosed | AI Chips | Active | [^9] |
+| Replit | Angel | Undisclosed | Developer Tools | Active | [^9] |
+| Lambda | Series B | 2023 | AI/Compute | Active | [^9][^11] |
+| Turing | Seed | 2019 | AI/Talent | Active | [^9][^12] |
+| Lighter | Angel | Undisclosed | Undisclosed | Active | [^9] |
+| Matic | Seed | 2019 | Robotics | Active | [^9][^13] |
+| Braintrust | Seed | 2022 | Developer Tools | Active | [^9][^14] |
+| Oboe Labs | Series A | 2025 | AI/Education | Active | [^9][^15] |
 | Instagram | Angel | ~2011 | Consumer Social | Acquired (Meta, $1B, 2012) | [^1] |
-| Lunchclub | Unknown | ~2019 | AI/Networking | Active | [^2] |
-| Pilot | Unknown | ~2019 | Fintech | Active | [^8] |
-| Wealthfront | Unknown | ~2013 | Fintech | Active | [^8] |
+| Lunchclub | Seed | 2019 | AI/Networking | Active | [^2][^16] |
+| Pilot | Seed | 2017 | Fintech | Active | [^8][^17] |
+| Wealthfront | Series B | 2013 | Fintech | Active | [^8][^18] |
 
-*Years marked with ~ are approximate; exact investment dates could not be independently confirmed for all entries.*
+*For Cerebras Systems, Replit, and Lighter, exact round stages and dates could not be independently confirmed; D'Angelo is listed as an investor by Premier Alternatives [^9] but specific round details are not publicly disclosed.*
 
 ## In Their Own Words
 
@@ -159,3 +159,12 @@ No independently sourced founder testimonials found.
 [^7]: NFX Signal, "Adam D'Angelo's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/adam-d-angelo
 [^8]: Boring Business Nerd, "Adam D'Angelo," accessed March 2026. https://www.boringbusinessnerd.com/investor/adam-dangelo
 [^9]: Premier Alternatives, "Adam D'Angelo — HIGH NET WORTH Profile, Portfolio & Investments," accessed March 2026. https://www.premieralts.com/investors/adam-dangelo
+[^10]: Tracxn, "Scale AI — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/scaleai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI/funding-and-investors
+[^11]: Lambda blog, "Lambda Raises $44M to Build the World's Best Cloud for Training AI," March 2023. https://lambda.ai/blog/lambda-raises-44m-to-build-worlds-best-cloud-for-training-ai
+[^12]: Turing blog, "Turing Announces $14 Million Seed Round led by Foundation Capital," accessed April 2026. https://www.turing.com/blog/turing-announces-14-million-seed-round-led-by-foundation-capital
+[^13]: Matic Robots blog, "Matic comes out of stealth with $30M in funding to launch fully autonomous indoor robots," accessed April 2026. https://maticrobots.com/blog/matic-comes-out-of-stealth-with-30m-in-funding
+[^14]: TechCrunch, "The hot new thing: AI platforms that stop AI's mistakes before production," September 28, 2023. https://techcrunch.com/2023/09/28/the-newest-new-thing-continuous-feedback-platforms-that-keep-bad-results-from-ai-created-code-from-making-it-into-production/
+[^15]: TechCrunch, "Oboe raises $16 million from a16z for its AI-powered course-generation platform," December 10, 2025. https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/
+[^16]: Wikipedia, "Lunchclub," accessed April 2026. https://en.wikipedia.org/wiki/Lunchclub
+[^17]: Foundersuite blog, "The Inside Story Of Raising Venture Capital for Pilot.com," accessed April 2026. https://blog.foundersuite.com/the-inside-story-of-raising-59-million-for-book/
+[^18]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/

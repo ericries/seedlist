@@ -97,22 +97,22 @@ Note: Some companies span categories. Totals may exceed 28 due to overlap.
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
 | Cloudera | 2008 | Seed | Data infrastructure | IPO (NYSE: CLDR), acquired by CD&R/KKR | [^2] |
-| Ludic Labs | ~2009 | — | Consumer/social | Acquired by Groupon (2010) | [^7] |
-| Renren | ~2009 | — | Consumer/social | IPO (NASDAQ: RENN) | [^7] |
-| Lookout | 2010 | — | Mobile security | Active | [^7] |
-| Nimble Storage | 2011 | — | Cloud storage | IPO, acquired by HPE | [^7] |
-| Fusion-io | ~2011 | — | Flash storage | IPO (NASDAQ: FIO), acquired by SanDisk | [^7] |
+| Ludic Labs | 2009 | Series A | Consumer/social | Acquired by Groupon (2010) | [^7][^26] |
+| Renren | ~2009 | Undisclosed | Consumer/social | IPO (NASDAQ: RENN) | [^7] |
+| Lookout | 2010 | Series B | Mobile security | Active | [^7][^27] |
+| Nimble Storage | 2008 | Series A | Cloud storage | IPO, acquired by HPE | [^7][^28] |
+| Fusion-io | 2010 | Series C | Flash storage | IPO (NASDAQ: FIO), acquired by SanDisk | [^7][^34] |
 | Tenable | 2012 | Series A | Cybersecurity | IPO (NASDAQ: TENB) | [^8] |
-| Arista Networks | 2012 | — | Cloud networking | IPO (NYSE: ANET) | [^23] |
-| Sumo Logic | 2012 | — | Data analytics | IPO (NASDAQ: SUMO) | [^16] |
+| Arista Networks | 2012 | Series A | Cloud networking | IPO (NYSE: ANET) | [^23] |
+| Sumo Logic | 2012 | Series C | Data analytics | IPO (NASDAQ: SUMO) | [^16][^29] |
 | Trifacta | 2012 | Series A | Data wrangling | Acquired by Alteryx | [^17] |
-| Blue Jeans Network | ~2012 | — | Video conferencing | Acquired by Verizon | [^7] |
-| RelateIQ | ~2013 | — | Enterprise SaaS (CRM) | Acquired by Salesforce | [^7] |
+| Blue Jeans Network | 2009 | Series A | Video conferencing | Acquired by Verizon | [^7] |
+| RelateIQ | 2012 | Series A | Enterprise SaaS (CRM) | Acquired by Salesforce ($390M) | [^7][^30] |
 | Semmle | 2014 | Series A | Code security analytics | Acquired by GitHub | [^15] |
-| Reactivity | ~2006 | — | Network security | Acquired by Cisco | [^7] |
+| Reactivity | ~2006 | Early stage | Network security | Acquired by Cisco ($135M) | [^7][^31] |
 | Demisto | ~2016 | Series A+ | Security orchestration (SOAR) | Acquired by Palo Alto Networks ($560M, 2019) | [^13] |
-| Illumio | ~2014 | — | Zero trust security | Active | [^1] |
-| Heptio | 2017 | — | Kubernetes/cloud native | Acquired by VMware | [^24] |
+| Illumio | 2015 | Series C | Zero trust security | Active | [^1][^32] |
+| Heptio | 2017 | Series A | Kubernetes/cloud native | Acquired by VMware ($550M) | [^24][^33] |
 | Jellyfish | 2017 | Seed | Engineering management | Active | [^22] |
 | Snyk | 2018 | Series A | Developer security | Active | [^9] |
 | Tailscale | 2020 | Series A | Networking/VPN | Active | [^7] |
@@ -194,3 +194,12 @@ No additional independently sourced founder testimonials were found after dedica
 [^23]: Accel website, "Arista" company profile, accessed March 2026. https://www.accel.com/relationships/arista
 [^24]: GeekWire, "Heptio founder leads Stacklok, a new software supply chain startup that just raised $17.5M," May 17, 2023. https://www.geekwire.com/2023/heptio-founder-leads-stacklok-a-new-software-supply-chain-startup-that-raised-17-5m/
 [^25]: Signal by NFX, "Ping Li's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/ping-li
+[^26]: CBS News, "Ludic Labs Raises $5 Million; Launches Activity-Based Social Net 'Diddit'," March 31, 2009. https://www.cbsnews.com/news/ludic-labs-raises-5-million-launches-activity-based-social-net-diddit/
+[^27]: TechCrunch, "Lookout Lands $11 Million From Accel, Khosla And Others For Smartphone Security Platform," May 18, 2010. https://techcrunch.com/2010/05/18/lookout-lands-11-million-from-accel-khosla-and-others-for-smartphone-security-platform/
+[^28]: Tracxn, "Nimble Storage — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/nimble-storage/__VjnsGZzqGYkpSzvfRM0HSVtzUJE1hf9Vqn4G-WQJY60/funding-and-investors
+[^29]: TechCrunch, "Log Data Management And Analytics Company Sumo Logic Raises $30M From Accel, Greylock," November 28, 2012. https://techcrunch.com/2012/11/28/log-data-management-and-analytics-company-sumo-logic-raises-29m-from-greylock-accel-and-others/
+[^30]: TechCrunch, "Salesforce Buys Big Data Startup RelateIQ For Up To $390M," July 11, 2014. https://techcrunch.com/2014/07/11/salesforce-buys-big-data-startup-relateiq-for-up-to-390m/
+[^31]: Network World, "Cisco buys Reactivity for $135 million to bolster SOA offerings," February 22, 2007. https://www.networkworld.com/article/2295515/cisco-buys-reactivity-for--135-million-to-bolster-soa-offerings.html
+[^32]: Illumio press release, "Illumio Raises $100 Million in Series C Financing Round," April 2015. https://www.illumio.com/news/series-c-funding
+[^33]: GeekWire, "VMware acquires Seattle's Heptio to double down on Kubernetes," November 6, 2018. https://www.geekwire.com/2018/vmware-acquires-seattles-heptio-double-kubernetes/
+[^34]: Tracxn, "Fusion-io — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/fusion-io/__ZkxrCv7la7XYOcKWKVOaFccWXNwAaVIkboiizz7WuoM/funding-and-investors
