@@ -1,21 +1,16 @@
 ---
-name: Gizmo
-slug: gizmo
-type: startup
-website: "https://gizmo.ai"
-location: London, United Kingdom
-founded: 2021
-status_company: active
-sector:
-- edtech
-- AI
-- consumer
-stage_latest: Series A
-total_raised: $25.5M
 firms:
-- slug: nfx
-  round: seed
+- round: seed
+  slug: nfx
   year: 2024
+founded: 2021
+founders:
+- name: Petros Christodoulou
+  role: CEO
+- name: Robin Jack
+  role: CTO
+- name: Paul Evangelou
+  role: CPO
 investors:
 - name: Ada Ventures
   round: series-a
@@ -26,15 +21,23 @@ investors:
 - name: GSV
   round: series-a
   year: 2026
-founders:
-- name: Petros Christodoulou
-  role: CEO
-- name: Robin Jack
-  role: CTO
-- name: Paul Evangelou
-  role: CPO
-status: published
+- round: Seed
+  slug: pete-flint
+  year: 2024
 last_researched: 2026-04-15
+location: London, United Kingdom
+name: Gizmo
+sector:
+- edtech
+- AI
+- consumer
+slug: gizmo
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $25.5M
+type: startup
+website: https://gizmo.ai
 ---
 
 ## About

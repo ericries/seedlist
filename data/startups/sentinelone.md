@@ -60,6 +60,9 @@ investors:
 - round: Growth
   slug: fred-anderson
   year: 2018
+- round: Growth
+  slug: avie-tevanian
+  year: 2018
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: SentinelOne

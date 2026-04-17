@@ -9540,14 +9540,14 @@ queue:
 - name: Avie Tevanian
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NextEquity Partners
   discovered_from: fred-anderson
 - name: Robert Leshner
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Superstate
   discovered_from: superstate
@@ -9735,3 +9735,37 @@ queue:
   added: '2026-03-17'
   discovered_from: parasail
   source: Co-led Parasail $32M Series A (April 2026)
+- name: Adam Hopkins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NextEquity Partners
+  discovered_from: avie-tevanian
+- name: Rami Reyes
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NextEquity Partners
+  discovered_from: avie-tevanian
+- name: Tarun Chitra
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Robot Ventures
+  discovered_from: robert-leshner
+- name: Robot Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: robert-leshner
+- name: Haseeb Qureshi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dragonfly
+  discovered_from: robert-leshner

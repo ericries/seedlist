@@ -1,26 +1,32 @@
 ---
-name: Resolve AI
-slug: resolve-ai
-type: startup
-website: https://resolve.ai
-location: San Francisco, CA
+firms:
+- round: Seed ($35M, led)
+  slug: greylock
+  year: 2024
 founded: null
-status_company: active
-sector:
-- AI
-- infrastructure
-- devops
-stage_latest: Series A Extension
-total_raised: $190M+
-firms: []
-investors: []
 founders:
 - name: Spiros Xanthos
   role: Founder & CEO
 - name: Mayank Agarwal
   role: Co-Founder
-status: published
+investors:
+- round: Seed ($35M, led)
+  slug: saam-motamedi
+  year: 2024
 last_researched: 2026-04-16
+location: San Francisco, CA
+name: Resolve AI
+sector:
+- AI
+- infrastructure
+- devops
+slug: resolve-ai
+stage_latest: Series A Extension
+status: published
+status_company: active
+total_raised: $190M+
+type: startup
+website: https://resolve.ai
 ---
 
 ## About
