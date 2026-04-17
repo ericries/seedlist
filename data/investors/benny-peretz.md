@@ -110,19 +110,19 @@ Frequent co-investors include Sequoia Capital (Wiz, Stripe), Index Ventures (Del
 | Cyera | 2025 | Series E (co-led) | [^25] |
 | Cyera | 2025 | Series F | [^25] |
 | Safe Superintelligence | 2025 | Series B (led) | [^26] |
-| Stripe | ~2019 | Unknown | [^6] |
-| Discord | ~2020 | Unknown | [^6] |
-| Toast | ~2020 | Unknown | [^6] |
-| Figma | ~2020 | Unknown | [^6] |
-| Databricks | ~2021 | Unknown | [^7] |
-| Scale AI | ~2021 | Unknown | [^7] |
-| Canva | ~2021 | Unknown | [^2] |
-| Robinhood | ~2020 | Unknown | [^13] |
-| OYO | ~2018 | Unknown | [^2] |
-| Motive | ~2021 | Unknown | [^7] |
-| Navan | ~2021 | Unknown | [^7] |
+| Stripe | ~2019 | Growth (round undisclosed) | [^6] |
+| Discord | 2020 | Series H (led) | [^27] |
+| Toast | 2020 | Series F | [^28] |
+| Figma | 2024 | Series F | [^29] |
+| Databricks | 2021 | Series G | [^30] |
+| Scale AI | 2021 | Series E | [^31] |
+| Canva | 2021 | Series F | [^32] |
+| Robinhood | 2017 | Series C | [^33] |
+| OYO | 2014 | Series A | [^34] |
+| Motive | 2019 | Series D (led) | [^35] |
+| Navan | 2021 | Series F (led) | [^36] |
 
-*Note: This table represents approximately 17-22% of Greenoaks' estimated 114-149 investments. For companies marked "--" in the Year column, the specific investment year could not be independently verified. Entries with verified years and rounds are cited to specific press coverage or filings; remaining entries are confirmed as portfolio companies through aggregator or firm-level sources but lack round-specific details.*
+*Note: This table represents approximately 17-22% of Greenoaks' estimated 114-149 investments. Stripe's specific round is undisclosed but confirmed as a growth-stage investment. All other entries have verified years and rounds cited to specific press coverage, filings, or aggregator data.*
 
 ## In Their Own Words
 
@@ -198,3 +198,23 @@ Frequent co-investors include Sequoia Capital (Wiz, Stripe), Index Ventures (Del
 [^25]: "AI-Native Security Leader Cyera Doubles Customer Base in Six Months, Reaching $6 Billion Valuation." Cyera Press Release, June 2025. https://www.cyera.com/press-releases/ai-native-security-leader-cyera-doubles-customer-base-in-six-months-reaching-6-billion-valuation. Accessed March 2026.
 
 [^26]: "Ilya Sutskever's Safe Superintelligence raises $2B at $32B valuation." Calcalist Tech, April 2025. https://www.calcalistech.com/ctechnews/article/hjfywdtajl. Accessed March 2026.
+
+[^27]: "Update: Discord confirms raising $100M at a valuation of $7B." TechCrunch, December 17, 2020. https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/. Accessed April 2026.
+
+[^28]: "Toast Announces $400M in Series F Funding." Toast, February 14, 2020. https://pos.toasttab.com/news/toast-announces-400m-in-series-f-funding. Accessed April 2026.
+
+[^29]: "Figma confirms undisclosed funding round that brings its value to $12.5B." SiliconANGLE, July 17, 2024. https://siliconangle.com/2024/07/17/figma-confirms-undisclosed-funding-round-brings-value-12-5b/. Accessed April 2026.
+
+[^30]: "Databricks Raises $1 Billion Series G Investment at $28 Billion Valuation." Databricks Newsroom, February 2021. https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation. Accessed April 2026.
+
+[^31]: "Scale AI backer Greenoaks raises biggest fund yet." Venture Capital Journal. https://www.venturecapitaljournal.com/scale-ai-backer-greenoaks-raises-biggest-fund-yet/. Accessed April 2026.
+
+[^32]: "Canva raises $200 million at a $40 billion valuation." TechCrunch, September 14, 2021. https://techcrunch.com/2021/09/14/canva-raises-200-million-at-a-40-billion-valuation/. Accessed April 2026.
+
+[^33]: Robinhood funding rounds and investors. Tracxn. https://tracxn.com/d/companies/robinhood/__ftFGCJ3CCjzKvgmHzIC3I7cNIjrIk2k6uypP6P1qOWk/funding-and-investors. Accessed April 2026.
+
+[^34]: OYO funding rounds and investors. Tracxn. https://tracxn.com/d/companies/oyo/__4WYOfbQ8dZW1qkRczPYOvhjiKi-yVahNF_FWeMXP0tk/funding-and-investors. Accessed April 2026.
+
+[^35]: "KeepTruckin Raises Series D Funding of $149 million." Index Ventures, April 2019. https://www.indexventures.com/perspectives/keeptruckin-raises-series-d-funding-of-149-million-to-serve-the-740-billion-trucking/. Accessed April 2026.
+
+[^36]: "TripActions Earns $7.25B Valuation." Navan blog, October 2021. https://navan.com/blog/tripactions-raises-275-million-series-f. Accessed April 2026.

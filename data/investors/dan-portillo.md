@@ -119,19 +119,19 @@ Despite the firm's stated generalist approach, there is limited consumer-focused
 | Finix | ~2019 | Sweat Equity | Fintech (payments infra) | [^9] |
 | Coda | ~2019 | Sweat Equity | Productivity | [^9] |
 | Grafana | ~2019 | Sweat Equity | Observability | [^9] |
-| Nuro | ~2020 | Unknown | Autonomous Delivery | [^14] |
-| Chronosphere | ~2022 | Unknown | Observability | [^14] |
-| Inflection AI | ~2023 | Unknown | AI | [^14] |
-| Kenzo Security | ~2024 | Unknown | Security | [^14] |
-| Newfront | ~2022 | Unknown | Insurance / Fintech | [^14] |
-| 1099 Policy | ~2022 | Unknown | Fintech / Compliance | [^14] |
-| Verta.ai | ~2022 | Unknown | ML Operations | [^14] |
-| Wholesail | ~2022 | Unknown | Fintech | [^14] |
-| Afresh | ~2022 | Unknown | FoodTech / AI | [^14] |
-| Theom | ~2023 | Unknown | Data Security | [^14] |
-| Airtop | ~2024 | Unknown | AI | [^14] |
+| Nuro | ~2020 | Sweat Equity | Autonomous Delivery | [^14] |
+| Chronosphere | ~2021 | Sweat Equity | Observability | [^14] |
+| Inflection AI | ~2022 | Sweat Equity | AI | [^14] |
+| Kenzo Security | 2025 | Seed (led) | Security | [^26] |
+| Newfront | ~2022 | Sweat Equity | Insurance / Fintech | [^14] |
+| 1099 Policy | ~2022 | Sweat Equity | Fintech / Compliance | [^14] |
+| Verta.ai | ~2020 | Sweat Equity | ML Operations | [^27] |
+| Wholesail | ~2022 | Sweat Equity | Fintech | [^14] |
+| Afresh | ~2022 | Sweat Equity | FoodTech / AI | [^14] |
+| Theom | ~2023 | Sweat Equity | Data Security | [^14] |
+| Airtop | ~2024 | Seed | AI | [^14] |
 
-*Note: This table represents approximately 56% of TheGP's reported 45 portfolio companies. Many investment dates are approximate, based on available reporting. Years marked "~YYYY" use best available estimates. Investments marked "Sweat Equity" originated during the Sweat Equity Ventures era (2018-2021) before the firm's formal fund launch. Individual deal attribution between Portillo and co-founder Phin Barnes is generally not public.*
+*Note: This table represents approximately 56% of TheGP's reported 45 portfolio companies. Many investment dates are approximate, based on available reporting. Years marked "~YYYY" use best available estimates. Investments marked "Sweat Equity" represent companies where TheGP provided embedded operational talent (engineers, recruiters, designers) in exchange for equity, either during the Sweat Equity Ventures era (2018-2021) or through TheGP's ongoing services-for-equity model; specific capital round participation is not publicly disclosed for these companies. Individual deal attribution between Portillo and co-founder Phin Barnes is generally not public.*
 
 **Portfolio Exits:** Coda (acquired by Grammarly, December 2024), Nuro ($6B valuation as of 2025), Aven (unicorn status at $1B valuation, 2024) [^14][^15].
 
@@ -219,3 +219,7 @@ No additional independently sourced founder testimonials were found beyond the a
 [^24]: "ELC Podcast - Strategies to Tend, Feed & Grow your Professional Network," Engineering Leadership Community, accessed March 2026. https://sfelc.com/podcasts/strategies-to-tend-feed-and-grow-your-professional-network-dan-portillo-jim-cook
 
 [^25]: "ELC - Developing Long Term Relationships by Daniel Portillo, John Lilly," Engineering Leadership Community, accessed March 2026. https://sfelc.com/videos/developing-long-term-relationships-by-daniel-portillo-john-lilly
+
+[^26]: "Security operations startup Kenzo raises $4.5M to expand AI-powered platform." SiliconANGLE, April 21, 2025. https://siliconangle.com/2025/04/21/security-operations-startup-kenzo-raises-4-5-m-expand-ai-powered-platform/. Accessed April 2026.
+
+[^27]: "MIT CSAIL grad launches machine learning platform with $10M Series A." TechCrunch, August 25, 2020. https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/. Accessed April 2026.

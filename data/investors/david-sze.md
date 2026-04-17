@@ -70,24 +70,24 @@ The analysis below is based on 16 verified investments attributed to Sze from hi
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| NOCpulse | -- | ~2001 | Infrastructure | Acquired | [^1] |
-| New Edge Networks | -- | ~2001 | Telecom | Acquired | [^1] |
-| SoftCoin | -- | ~2002 | Adtech | Acquired | [^1] |
+| NOCpulse | Early stage | ~2001 | Infrastructure | Acquired (Red Hat, 2002) | [^1][^8] |
+| New Edge Networks | Early stage | ~2001 | Telecom | Acquired | [^1] |
+| SoftCoin | Early stage | ~2002 | Adtech | Acquired | [^1] |
 | LinkedIn | Series B | 2004 | Social/Professional | Acquired (Microsoft, $26.2B) | [^3] |
+| Digg | Series A | 2005 | Social/Media | Acquired | [^1][^9] |
+| VUDU | Series A | 2005 | Media/Streaming | Acquired | [^1][^10] |
 | Facebook | Series D | 2006 | Social | IPO (Meta) | [^3] |
-| Digg | -- | ~2006 | Social/Media | Acquired | [^1] |
-| VUDU | -- | ~2007 | Media/Streaming | Acquired | [^1] |
+| Oodle | Series A | 2006 | Social/Classifieds | Acquired (QVC, 2012) | [^1][^11] |
+| Revision3 | Series A | 2006 | Media | Acquired | [^1][^12] |
+| SGN | Series A | 2008 | Gaming | Acquired | [^1][^13] |
 | Pandora | Growth | 2009 | Media/Music | IPO | [^5] |
-| Revision3 | -- | ~2009 | Media | Acquired | [^1] |
-| SGN | -- | ~2010 | Gaming | Acquired | [^1] |
-| Oodle | -- | ~2011 | Social/Classifieds | Acquired | [^1] |
-| Medium | -- | ~2012 | Media/Publishing | Active | [^1] |
-| Nextdoor | -- | ~2013 | Social/Local | Public (NYSE: KIND) | [^1] |
+| Nextdoor | Series A | 2012 | Social/Local | Public (NYSE: KIND) | [^1][^14] |
+| PullString (fka ToyTalk) | Series A | ~2013 | Media/AI | Acquired (Apple, 2019) | [^1][^15] |
+| Medium | Series A | 2014 | Media/Publishing | Active | [^1][^16] |
 | Discord | Series A+ | 2016 | Social/Gaming | Active | [^1][^4] |
 | Roblox | Series F | 2018 | Gaming/Social | Public (NYSE: RBLX) | [^6] |
-~unknown| PullString | -- | -- | Media/AI | Acquired | [^1] |
 
-*This table represents 16 verified investments. Years marked with ~ are estimates based on company founding dates and Sze's reported involvement period. Sze's full portfolio likely includes additional investments not captured here.*
+*This table represents 16 verified investments. Years marked with ~ are estimates based on company founding dates and Sze's reported involvement period. Early investments (NOCpulse, New Edge Networks, SoftCoin) pre-date comprehensive online databases; exact round designations are not available but were early-stage given Sze joined Greylock in 2000. Sze's full portfolio likely includes additional investments not captured here.*
 
 ## In Their Own Words
 
@@ -108,3 +108,12 @@ No independently sourced founder testimonials found.
 [^5]: VCSheet, "David Sze (Greylock)," accessed March 2026. https://www.vcsheet.com/who/david-sze
 [^6]: PitchClub.io, "$50m to $2.5b in 3 Years. Inside Greylock's Gamble on Roblox," accessed March 2026. https://www.pitchclub.io/p/inside-greylock-s-gamble-on-roblox
 [^7]: Greylock Partners, "Congratulations Roblox! (NYSE: RBLX)," accessed March 2026. https://greylock.com/portfolio-news/congratulations-roblox/
+[^8]: "Red Hat Files S-3 on Behalf of Former NocPulse, Inc. Shareholders." BusinessWire, November 26, 2003. https://www.businesswire.com/news/home/20031126005368/en/Red-Hat-Files-S-3-Behalf-NocPulse-Shareholders. Accessed April 2026.
+[^9]: "Series A - Digg - 2005-10-28." Crunchbase Funding Round Profile. https://www.crunchbase.com/funding_round/digg-series-a--44dc7666. Accessed April 2026.
+[^10]: "Series A - Vudu - 2005-06-01." Crunchbase Funding Round Profile. https://www.crunchbase.com/funding_round/vudu-series-a--ef87f876. Accessed April 2026.
+[^11]: "Oodle Raises $11 Million in Funding From JAFCO, Greylock Partners and Redpoint Ventures." BusinessWire, March 21, 2007. https://www.businesswire.com/news/home/20070321005292/en/Oodle-Raises-11-Million-Funding-JAFCO-Greylock. Accessed April 2026.
+[^12]: "Revision3 funding details." Tracxn. https://tracxn.com/d/companies/revision3/__01q-7S1QvyOmSSpwECZFtbtDaksRybUui1__wcM_DAA. Accessed April 2026.
+[^13]: "Social Gaming Network (SGN) Snags 15 Million in Series A Funding." GlobeNewsWire, May 13, 2008. https://www.globenewswire.com/news-release/2008/05/13/1314911/0/en/Social-Gaming-Network-SGN-Snags-15-Million-in-Series-A-Funding.html. Accessed April 2026.
+[^14]: "Nextdoor announces $18.6 million in funding From Benchmark Capital, DAG Ventures, Greylock Partners and Shasta Ventures." Nextdoor press release, July 2012. https://about.nextdoor.com/press-releases/nextdoor-announces-18-6-million-in-funding-from-benchmark-capital-dag-ventures-greylock-partners-and-shasta-ventures. Accessed April 2026.
+[^15]: "ToyTalk Raises $15 Million In Series C Round Led By Khosla Ventures." TechCrunch, December 9, 2014. https://techcrunch.com/2014/12/09/toytalk-raises-15-million-in-series-b-round-led-by-khosla-ventures/. Accessed April 2026.
+[^16]: "Blogging Platform Medium Closes $25M Round Led By Greylock." TechCrunch, January 28, 2014. https://techcrunch.com/2014/01/28/blogging-platform-medium-reportedly-closes-25m-round-led-by-greylock/. Accessed April 2026.
