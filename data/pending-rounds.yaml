@@ -422,6 +422,59 @@ pending_rounds:
   parsed_amount: $100M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/16/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-16-2026/
+  source: alleywatch
+  date_found: '2026-04-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based startup Lua raises €4.9 million to scale its human-agent collaboration
+    platform
+  url: https://www.eu-startups.com/2026/04/london-based-startup-lua-raises-e4-9-million-to-scale-its-human-agent-collaboration-platform/
+  source: eu-startups
+  date_found: '2026-04-16'
+  parsed_company: London-based startup Lua
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: STORM Therapeutics raises €47.5 million Series C to harness the power of
+    RNA modification to treat cancer
+  url: https://www.eu-startups.com/2026/04/storm-therapeutics-raises-e47-5-million-series-c-to-harness-the-power-of-rna-modification-to-treat-cancer/
+  source: eu-startups
+  date_found: '2026-04-16'
+  parsed_company: STORM Therapeutics
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: ALL THINGS raises €4.1 million after chef Thomas Straker’s viral butter series
+    sparked a dairy brand
+  url: https://www.eu-startups.com/2026/04/all-things-raises-e4-1-million-after-chef-thomas-strakers-viral-butter-series-sparked-a-dairy-brand/
+  source: eu-startups
+  date_found: '2026-04-16'
+  parsed_company: ALL THINGS
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Vilnius-based Outcraft AI raises €2 million to build an autonomous revenue
+    engine
+  url: https://www.eu-startups.com/2026/04/vilnius-based-outcraft-ai-raises-e2-million-to-build-an-autonomous-revenue-engine/
+  source: eu-startups
+  date_found: '2026-04-16'
+  parsed_company: Vilnius-based Outcraft AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Qalzy secures pre-Seed backing after raising €204k in Kickstarter
+    pre-orders for its AI nutrition scale
+  url: https://www.eu-startups.com/2026/04/londons-qalzy-secures-pre-seed-backing-after-raising-e204k-in-kickstarter-pre-orders-for-its-ai-nutrition-scale/
+  source: eu-startups
+  date_found: '2026-04-16'
+  parsed_company: London’s Qalzy
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -459,6 +512,15 @@ pending_rounds:
   status: processed
   notes: extracted Gelu AI $2M (created gelu-ai.md), Timeshifter $1.8M (created timeshifter.md);
     Pillar $20M already processed as pillar-risk.md
+- title: CamGraPhIC lands €211 million to tackle AI’s data bottleneck – in one of
+    Italy’s largest DeepTech funding deals
+  url: https://www.eu-startups.com/2026/04/camgraphic-lands-e211-million-to-tackle-ais-data-bottleneck-in-one-of-italys-largest-deeptech-funding-deals/
+  source: eu-startups
+  date_found: '2026-04-15'
+  parsed_company: CamGraPhIC
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
     Shares of 6.25% Series 2027 Term Preferred Stock'
   url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
@@ -856,69 +918,3 @@ pending_rounds:
   parsed_round: Seed
   status: skipped
   skip_reason: duplicate; juno-tax.md already exists from Crunchbase entry
-- title: Packz raised $10.7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Packz
-  parsed_amount: $10.7M
-  parsed_round: null
-  status: skipped
-  skip_reason: could not verify; no press coverage found for Packz $10.7M round
-- title: Refiant AI raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Refiant AI
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile refiant-ai.md
-- title: Flashpass raised $4.1M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Flashpass
-  parsed_amount: $4.1M
-  parsed_round: null
-  status: processed
-  notes: created startup profile flashpass.md
-- title: Sigma Automate raised $2.75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Sigma Automate
-  parsed_amount: $2.75M
-  parsed_round: null
-  status: processed
-  notes: created startup profile sigma-automate.md
-- title: Portal Space Systems raised $50M Series A
-  url: https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/
-  source: websearch
-  date_found: '2026-04-12'
-  parsed_company: Portal Space Systems
-  parsed_amount: $50M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile portal-space-systems.md
-- title: 'The Week''s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom
-    Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/
-  source: crunchbase
-  date_found: '2026-04-10'
-  parsed_company: null
-  parsed_amount: $400M
-  parsed_round: null
-  status: processed
-  notes: extracted Life Biosciences $80M Series D (created life-biosciences.md); other
-    deals (SiFive, Hermeus, Sidewinder, Aria Networks, Starfish Space, Stipple Bio,
-    Modus, Endovascular Engineering, Chapter) already processed
-- title: Collide Capital raises $95M fund to back fintech, future-of-work startups
-  url: https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/
-  source: techcrunch
-  date_found: '2026-04-09'
-  parsed_company: Collide Capital
-  parsed_amount: $95M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund raise (Fund II), not a startup round
