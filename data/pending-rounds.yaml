@@ -18,7 +18,8 @@ pending_rounds:
   parsed_company: Swedish semiconductor startup AlixLabs
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: skipped
+  skip_reason: Swedish semiconductor startup; outside primary US focus
 - title: Stockholm’s BioLamina secures €20 million EIB loan to scale cell therapies
     for chronic diseases
   url: https://www.eu-startups.com/2026/04/stockholms-biolamina-secures-e20-million-eib-loan-to-scale-cell-therapies-for-chronic-diseases/
@@ -27,15 +28,17 @@ pending_rounds:
   parsed_company: Stockholm’s BioLamina
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: EIB loan (government financing), not a VC round
 - title: Loop raises $95M to build supply chain AI that predicts disruptions
   url: https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/
   source: techcrunch
   date_found: '2026-04-17'
   parsed_company: Loop
   parsed_amount: $95M
-  parsed_round: null
-  status: pending
+  parsed_round: Series C
+  status: processed
+  notes: created startup profile loop-supply-chain.md
 - title: 'Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To
     Hit Record Amount'
   url: https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/
@@ -44,7 +47,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: sector roundup article, not a specific startup round
 - title: Eindhoven’s ONWARD Medical raises €40.6 million in capital increase to advance
     spinal cord injury therapies
   url: https://www.eu-startups.com/2026/04/eindhovens-onward-medical-raises-e40-6-million-in-capital-increase-to-advance-spinal-cord-injury-therapies/
@@ -53,7 +57,111 @@ pending_rounds:
   parsed_company: Eindhoven’s ONWARD Medical
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: Dutch medtech capital increase; public company, not a startup VC round
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Apr. 13 – Apr. 17)
+  url: https://www.eu-startups.com/2026/04/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-apr-13-apr-17/
+  source: eu-startups
+  date_found: '2026-04-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: weekly EU roundup article, not a specific round
+- title: Valencia-based GuruSup raises €1.3 million Seed round for AI customer service
+    platform
+  url: https://www.eu-startups.com/2026/04/valencia-based-gurusup-raises-e1-3-million-seed-round-for-ai-customer-service-platform/
+  source: eu-startups
+  date_found: '2026-04-17'
+  parsed_company: Valencia-based GuruSup
+  parsed_amount: null
+  parsed_round: Seed
+  status: skipped
+  skip_reason: Valencia-based EU startup; outside primary US focus
+- title: has quietly raised $155M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: has quietly
+  parsed_amount: $155M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact from Axios; could not identify company name
+- title: Factory raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: Factory
+  parsed_amount: $150M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile factory.md; $1.5B valuation, led by Khosla Ventures
+- title: Expo raised $45M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: Expo
+  parsed_amount: $45M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile expo.md; led by Georgian
+- title: Ulysses raised $38M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: Ulysses
+  parsed_amount: $38M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile ulysses-ocean.md; led by a16z, $46M total with seed
+- title: Joyful Health raised $17M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: Joyful Health
+  parsed_amount: $17M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile joyful-health.md; led by CRV, $22M total
+- title: TextQL raised $17M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: TextQL
+  parsed_amount: $17M
+  parsed_round: null
+  status: skipped
+  skip_reason: could not verify; no public announcement found for $17M round; last
+    known round was $4.1M seed in 2024
+- title: Zenskar raised $15M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: Zenskar
+  parsed_amount: $15M
+  parsed_round: Series A
+  status: skipped
+  skip_reason: could not verify; no public announcement found for $15M Series A;
+    last known round was $6.5M seed
+- title: Lua raised $5.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: Lua
+  parsed_amount: $5.8M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile lua-ai.md; London-based, led by Norrsken22
+- title: NOC Energy raised $2.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-17'
+  parsed_company: NOC Energy
+  parsed_amount: $2.7M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile noc-energy.md; France-based, led by 360 Capital
 - title: Axios Sonire Therapeutics raised $18M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -465,7 +573,8 @@ pending_rounds:
   parsed_company: Slash, a Ramp competitor founded by teenagers,
   parsed_amount: $100M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: duplicate; slash-fintech.md already exists from Axios entry
 - title: 'The AlleyWatch Startup Daily Funding Report: 4/16/2026'
   url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-16-2026/
   source: alleywatch
@@ -473,7 +582,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted Artemis $70M (created artemis-security.md), Joyful Health $17M
+    (created joyful-health.md), Traza $2.1M (already processed)
 - title: London-based startup Lua raises €4.9 million to scale its human-agent collaboration
     platform
   url: https://www.eu-startups.com/2026/04/london-based-startup-lua-raises-e4-9-million-to-scale-its-human-agent-collaboration-platform/
@@ -481,8 +592,9 @@ pending_rounds:
   date_found: '2026-04-16'
   parsed_company: London-based startup Lua
   parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_round: Seed
+  status: processed
+  notes: duplicate of Axios Lua entry; lua-ai.md already created
 - title: STORM Therapeutics raises €47.5 million Series C to harness the power of
     RNA modification to treat cancer
   url: https://www.eu-startups.com/2026/04/storm-therapeutics-raises-e47-5-million-series-c-to-harness-the-power-of-rna-modification-to-treat-cancer/
@@ -491,7 +603,9 @@ pending_rounds:
   parsed_company: STORM Therapeutics
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: processed
+  notes: duplicate of Axios Storm Therapeutics entry; storm-therapeutics.md already
+    exists
 - title: ALL THINGS raises €4.1 million after chef Thomas Straker’s viral butter series
     sparked a dairy brand
   url: https://www.eu-startups.com/2026/04/all-things-raises-e4-1-million-after-chef-thomas-strakers-viral-butter-series-sparked-a-dairy-brand/
@@ -500,7 +614,8 @@ pending_rounds:
   parsed_company: ALL THINGS
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: UK consumer food brand; outside scope
 - title: Vilnius-based Outcraft AI raises €2 million to build an autonomous revenue
     engine
   url: https://www.eu-startups.com/2026/04/vilnius-based-outcraft-ai-raises-e2-million-to-build-an-autonomous-revenue-engine/
@@ -509,7 +624,8 @@ pending_rounds:
   parsed_company: Vilnius-based Outcraft AI
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: Vilnius-based EU startup; outside primary US focus
 - title: London’s Qalzy secures pre-Seed backing after raising €204k in Kickstarter
     pre-orders for its AI nutrition scale
   url: https://www.eu-startups.com/2026/04/londons-qalzy-secures-pre-seed-backing-after-raising-e204k-in-kickstarter-pre-orders-for-its-ai-nutrition-scale/
@@ -518,7 +634,8 @@ pending_rounds:
   parsed_company: London’s Qalzy
   parsed_amount: null
   parsed_round: Pre-Seed
-  status: pending
+  status: skipped
+  skip_reason: London pre-seed Kickstarter project; too small and outside US scope
 - title: Accel raises $5B to back late-stage bets
   url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
   source: techcrunch
@@ -564,7 +681,8 @@ pending_rounds:
   parsed_company: CamGraPhIC
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: Italian deeptech company; outside primary US focus
 - title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
     Shares of 6.25% Series 2027 Term Preferred Stock'
   url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
@@ -816,104 +934,3 @@ pending_rounds:
   status: skipped
   skip_reason: could not verify; no press coverage found for Propel Bio $100M round;
     may be Propel Bio Partners fund raise rather than startup round
-- title: u003e raised $9.3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-13'
-  parsed_company: u003e
-  parsed_amount: $9.3M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact; duplicate of Ultralight $9.3M entry
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/13/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-13-2026/
-  source: alleywatch
-  date_found: '2026-04-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted Attention $21.6M (SEC filing, unverified amount; skipped) and Chapter
-    $100M Series E (already processed); no new profiles needed
-- title: Neomorph raised $100M Series B
-  url: https://www.globenewswire.com/news-release/2026/04/13/3272523/0/en/Neomorph-Announces-Closing-of-100-Million-Series-B-Financing.html
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: Neomorph
-  parsed_amount: $100M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile neomorph.md
-- title: Critical Loop raised $26M Series A
-  url: https://ca.finance.yahoo.com/news/critical-loop-raises-26m-series-140000278.html
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: Critical Loop
-  parsed_amount: $26M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile critical-loop.md
-- title: pH7 Technologies Series B final close ~$32M equity
-  url: https://betakit.com/ph7-wraps-series-b-as-it-readies-to-bring-critical-mineral-extraction-tech-to-mining/
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: pH7 Technologies
-  parsed_amount: $32M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile ph7-technologies.md
-- title: Replenit raised $2.5M Pre-Seed
-  url: https://tech.eu/2026/04/13/replenit-raises-25m-to-bring-real-time-ai-decision-making-to-retail/
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: Replenit
-  parsed_amount: $2.5M
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created startup profile replenit.md
-- title: Superstate additional Series B closing (Invesco)
-  url: https://www.prnewswire.com/news-releases/superstate-and-invesco-expand-strategic-partnership-302739723.html
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: Superstate
-  parsed_amount: null
-  parsed_round: Series B
-  status: skipped
-  skip_reason: additional closing of existing $82.5M Series B; no new amount disclosed
-- title: ShengShu Technology raised RMB 2B Series B
-  url: https://techstartups.com/2026/04/13/top-startup-and-tech-funding-news-april-13-2025/
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: ShengShu Technology
-  parsed_amount: RMB 2B
-  parsed_round: Series B
-  status: skipped
-  skip_reason: China-based AI company; outside primary US focus
-- title: Common Wealth raised CAD $12M Series A
-  url: https://www.newswire.ca/news-releases/common-wealth-raises-12-million-series-a-to-expand-retirement-security-for-canadians-836585010.html
-  source: websearch
-  date_found: '2026-04-13'
-  parsed_company: Common Wealth
-  parsed_amount: CAD $12M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: Canada-only retirement fintech; outside primary scope
-- title: Stack Capital Group Inc. Closes Upsized Best Efforts Concurrent Private Placement
-    for $31.25 Million; Aggregate Gross Proceeds of $40.0 Million
-  url: https://www.globenewswire.com/news-release/2026/04/10/3271751/0/en/Stack-Capital-Group-Inc-Closes-Upsized-Best-Efforts-Concurrent-Private-Placement-for-31-25-Million-Aggregate-Gross-Proceeds-of-40-0-Million.html
-  source: globenewswire
-  date_found: '2026-04-12'
-  parsed_company: Stack Capital Group Inc.
-  parsed_amount: $31.25M
-  parsed_round: null
-  status: skipped
-  skip_reason: public investment company private placement, not a startup round
-- title: Chapter raised $100M Series E
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Chapter
-  parsed_amount: $100M
-  parsed_round: Series E
-  status: processed
-  notes: created startup profile chapter.md

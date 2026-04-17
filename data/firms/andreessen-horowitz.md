@@ -258,6 +258,7 @@ The following table includes a16z investments verified through the firm's own po
 | Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |
 | GitButler | Series A | 2026 | Developer Tools / Version Control | Private [^29] |
 | Mintlify | Series B | 2026 | Developer Tools / Documentation | Private [^30] |
+| Ulysses | Series A | 2026 | Autonomous / Ocean Tech | Private [^31] |
 
 *Note: This table includes 71 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -378,3 +379,5 @@ The following table includes a16z investments verified through the firm's own po
 [^29]: "We've raised $17M to build what comes after Git." GitButler Blog, April 8, 2026. https://blog.gitbutler.com/series-a
 
 [^30]: Mintlify Blog, "Series B," April 14, 2026. https://www.mintlify.com/blog/series-b
+
+[^31]: The Irish Times, "Irish-founded Ulysses raises $38m in Series A funding," April 16, 2026. https://www.irishtimes.com/business/2026/04/16/irish-founded-ulysses-raises-38m-in-series-a-funding/

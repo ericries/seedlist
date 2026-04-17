@@ -111,6 +111,7 @@ Based on 8VC's verified portfolio and public data:
 | Glimpse | Seed / Series A | 2025–2026 | Fintech / Retail Tech | Private [^9] |
 | eMed | Series A | 2026 | Healthcare/AI Telehealth | Private [^10] |
 | Alloy Therapeutics | Series E | 2026 | Biotech/Drug Discovery | Private [^11] |
+| Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -139,3 +140,5 @@ No independently sourced founder testimonials found.
 [^10]: "eMed Announces $200M Series A Funding Round," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-series-a-2026.html
 
 [^11]: BioSpace, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026. https://www.biospace.com/press-releases/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure
+
+[^12]: TechCrunch, "Loop raises $95M to build supply chain AI that predicts disruptions," April 17, 2026. https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/

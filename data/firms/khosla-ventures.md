@@ -191,6 +191,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Nomagic | Early | ~2017 (founded) | Robotics | Private [^22] |
 | Loyal | Early | ~2019 (founded) | Therapeutics / Veterinary | Private [^22] |
 | Slash | Series C | 2026 | Fintech / Banking | Private [^31] |
+| Factory | Series B | 2026 | AI / Developer Tools | Private [^32] |
 
 *Note: This table includes 66 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -323,3 +324,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^30]: "AI pioneer Raquel Urtasun launches self-driving technology startup with backing from Khosla, Uber and Aurora." TechCrunch, June 8, 2021. https://techcrunch.com/2021/06/08/ai-pioneer-raquel-urtasun-launches-self-driving-vehicle-startup-with-backing-from-khosla-uber-and-aurora/
 
 [^31]: BusinessWire, "Slash Achieves Unicorn Status Following $100m Series C Fundraise," April 15, 2026. https://www.businesswire.com/news/home/20260415566517/en/Slash-Achieves-Unicorn-Status-Following-%24100m-Series-C-Fundraise
+
+[^32]: TechCrunch, "Factory hits $1.5B valuation to build AI coding for enterprises," April 16, 2026. https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/
