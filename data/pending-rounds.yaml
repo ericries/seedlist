@@ -10,6 +10,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Swedish semiconductor startup AlixLabs closes €15 million Series A to scale
+    atomic-level etching technology
+  url: https://www.eu-startups.com/2026/04/swedish-semiconductor-startup-alixlabs-closes-e15-million-series-a-to-scale-atomic-level-etching-technology/
+  source: eu-startups
+  date_found: '2026-04-17'
+  parsed_company: Swedish semiconductor startup AlixLabs
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Stockholm’s BioLamina secures €20 million EIB loan to scale cell therapies
+    for chronic diseases
+  url: https://www.eu-startups.com/2026/04/stockholms-biolamina-secures-e20-million-eib-loan-to-scale-cell-therapies-for-chronic-diseases/
+  source: eu-startups
+  date_found: '2026-04-17'
+  parsed_company: Stockholm’s BioLamina
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios Sonire Therapeutics raised $18M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -900,21 +918,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: created startup profile paysend.md
-- title: PeakMetrics raised $6M Series a
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: PeakMetrics
-  parsed_amount: $6M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile peakmetrics.md
-- title: Juno raised $12M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-12'
-  parsed_company: Juno
-  parsed_amount: $12M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: duplicate; juno-tax.md already exists from Crunchbase entry
