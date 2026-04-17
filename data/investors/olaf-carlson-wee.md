@@ -76,51 +76,51 @@ Based on 252 total tracked investments [^11], a representative sample of 50 veri
 | 0x Protocol | 2017 | Private | Crypto-Fundraising [^11] |
 | Orchid | 2017 | Seed | Crypto-Fundraising [^11] |
 | dYdX | 2017 | Seed | Crypto-Fundraising [^11] |
-| MakerDAO | 2017 | Unknown | Crypto-Fundraising [^11] |
-| NuCypher | 2017 | Unknown | Crypto-Fundraising [^11] |
+| MakerDAO | 2017 | Venture Round ($12M) | Crypto-Fundraising [^11] |
+| NuCypher | 2017 | SAFT ($4.4M) | Crypto-Fundraising [^11] |
 | Compound | 2018 | Seed | Crypto-Fundraising [^11] |
 | StarkNet | 2018 | Seed | Crypto-Fundraising [^11] |
 | Mina Protocol | 2018 | Seed | Crypto-Fundraising [^11] |
-| Orchid | 2018 | Unknown | Crypto-Fundraising [^11] |
+| Orchid | 2018 | Venture Round ($36.1M) | Crypto-Fundraising [^11] |
 | CoinList | 2018 | Series A | Crypto-Fundraising [^11] |
 | Nervos Network | 2018 | Series A | Crypto-Fundraising [^11] |
 | Oasis Network | 2018 | Private | Crypto-Fundraising [^11] |
-| Dfinity | 2018 | Unknown | Crypto-Fundraising [^11] |
-| Celo | 2018 | Unknown | Crypto-Fundraising [^11] |
-| Terra | 2018 | Unknown | Crypto-Fundraising [^11] |
-| Avalanche (Ava Labs) | 2019 | Unknown | Crypto-Fundraising [^11] |
+| Dfinity | 2018 | Series B ($61M) / Series C ($102M) | Crypto-Fundraising [^11] |
+| Celo | 2018 | Seed ($6.5M) | Crypto-Fundraising [^11] |
+| Terra | 2018 | Seed ($32M) | Crypto-Fundraising [^11] |
+| Avalanche (Ava Labs) | 2019 | Series A ($6M) | Crypto-Fundraising [^11] |
 | Compound | 2019 | Series A | Crypto-Fundraising [^11] |
-| CoinList | 2019 | Unknown | Crypto-Fundraising [^11] |
+| CoinList | 2019 | Series A ($10M) | Crypto-Fundraising [^11] |
 | Amber Group | 2020 | Series A | Crypto-Fundraising [^11] |
 | Polymarket | 2020 | Seed | Crypto-Fundraising [^11] |
 | Liquity | 2020 | Seed | Crypto-Fundraising [^11] |
 | Notional Finance | 2020 | Seed | Crypto-Fundraising [^11] |
-| CoinDCX | 2020 | Unknown | Crypto-Fundraising [^11] |
+| CoinDCX | 2020 | Series A ($3M) | Crypto-Fundraising [^11] |
 | dYdX | 2021 | Series B | Crypto-Fundraising [^11] |
 | Aleo | 2021 | Series A | Crypto-Fundraising [^11] |
-| Solana | 2021 | Unknown | Crypto-Fundraising [^11] |
+| Solana | 2021 | Private Token Sale ($314M) | Crypto-Fundraising [^11] |
 | Crusoe Energy Systems | 2021 | Series B | Crypto-Fundraising [^11] |
 | Offchain Labs (Arbitrum) | 2021 | Series B | Crypto-Fundraising [^11] |
 | CoinDCX | 2021 | Series C | Crypto-Fundraising [^11] |
-| Avalanche (Ava Labs) | 2021 | Unknown | Crypto-Fundraising [^11] |
+| Avalanche (Ava Labs) | 2021 | Follow-on | Crypto-Fundraising [^11] |
 | Anoma | 2021 | Seed | Crypto-Fundraising [^11] |
 | Vana | 2021 | Seed | Crypto-Fundraising [^11] |
 | Axelar Network | 2022 | Series B | Crypto-Fundraising [^11] |
 | EigenLayer | 2022 | Seed | Crypto-Fundraising [^11] |
 | Gauntlet | 2022 | Series B | Crypto-Fundraising [^11] |
-| Commonwealth | 2022 | Unknown | Crypto-Fundraising [^11] |
+| Commonwealth | 2022 | Venture Round ($20M) | Crypto-Fundraising [^11] |
 | Fleek | 2022 | Series A | Crypto-Fundraising [^11] |
 | Vana | 2022 | Series A | Crypto-Fundraising [^11] |
-| Nil Foundation | 2023 | Unknown | Crypto-Fundraising [^11] |
+| Nil Foundation | 2023 | Series B ($22M) | Crypto-Fundraising [^11] |
 | Manta Network | 2023 | Series A | Crypto-Fundraising [^11] |
 | Babylon | 2023 | Series A | Unchained Crypto [^6] |
-| Babylon | 2024 | Unknown | Crypto-Fundraising [^11] |
+| Babylon | 2024 | Growth Round ($70M, led by Paradigm) | Crypto-Fundraising [^11] |
 | Story Protocol | 2024 | Series B | Crypto-Fundraising [^11] |
 | Sahara Labs | 2024 | Series A | Crypto-Fundraising [^11] |
 | Grass | 2024 | Series A | Crypto-Fundraising [^11] |
 | Ethena Labs | 2025 | Private | Crypto-Fundraising [^11] |
 | M^0 | 2025 | Series B | Crypto-Fundraising [^11] |
-| Seismic | 2025 | Unknown | Crypto-Fundraising [^11] |
+| Seismic | 2025 | Seed ($7M) | Crypto-Fundraising [^11] |
 | Canton Network | 2025 | Series E | Crypto-Fundraising [^11] |
 | VeryAI | 2026 | Seed | Crypto-Fundraising [^11] |
 

@@ -80,23 +80,23 @@ This table includes 21 verified investments. Sources indicate Pomel may have mad
 | Gradium | Seed | 2025 | Infrastructure | Active | [^4] |
 | Pruna AI | Seed | 2024 | AI / model optimization | Active | [^8] |
 | Thread AI | Seed | 2024 | AI / productivity | Active | [^8] |
-| XBOW | Undisclosed | 2024 | Security | Active | [^8] |
+| XBOW | Seed ($20M) | 2024 | Security | Active | [^8] |
 | CodeRabbit | Series A | 2024 | Developer tools | Active | [^10] |
-| Kestra | Undisclosed | 2024 | Developer tools / orchestration | Active | [^8] |
-| CUBE | Undisclosed | 2024 | Enterprise software | Active | [^8] |
-| Simbian | Undisclosed | 2024 | Security | Active | [^8] |
-| Cure51 | Undisclosed | 2024 | Healthcare data | Active | [^8] |
+| Kestra | Seed ($8M) | 2024 | Developer tools / orchestration | Active | [^8] |
+| CUBE | Series A | 2024 | Enterprise software | Active | [^8] |
+| Simbian | Seed ($10M) | 2024 | Security | Active | [^8] |
+| Cure51 | Seed (EUR15M) | 2024 | Healthcare data | Active | [^8] |
 | Mindflow | Seed | 2024 | Security automation | Active | [^8] |
 | Eden AI | Seed | 2024 | AI platform | Active | [^8] |
 | Hugging Face | Series C | 2022 | AI / ML platform | Active | [^9] |
-| Replit | Undisclosed | ~2022 | Developer tools | Active | [^3] |
-| Synthesia | Undisclosed | ~2022 | AI video | Active | [^6] |
-| Dataiku | Undisclosed | ~2020 | Data science platform | Active | [^3] |
-| Miro | Undisclosed | ~2020 | Enterprise collaboration | Active | [^3] |
-| Drata | Undisclosed | ~2021 | Security / compliance | Active | [^3] |
-| Infisical | Undisclosed | ~2023 | Developer tools / secrets | Active | [^6] |
-| Dust | Undisclosed | ~2023 | AI assistants | Active | [^6] |
-| Qovery | Undisclosed | ~2021 | Developer tools / deployment | Active | [^6] |
+| Replit | Series B | ~2022 | Developer tools | Active | [^3] |
+| Synthesia | Series C ($90M) | 2023 | AI video | Active | [^6] |
+| Dataiku | Series D ($100M) | 2020 | Data science platform | Active | [^3] |
+| Miro | Series B ($50M) | 2020 | Enterprise collaboration | Active | [^3] |
+| Drata | Series A ($25M) | 2021 | Security / compliance | Active | [^3] |
+| Infisical | Seed ($2.8M) | 2023 | Developer tools / secrets | Active | [^6] |
+| Dust | Seed (EUR5M) | 2023 | AI assistants | Active | [^6] |
+| Qovery | Seed ($4M) | 2021 | Developer tools / deployment | Active | [^6] |
 
 ## In Their Own Words
 

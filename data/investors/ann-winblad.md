@@ -87,35 +87,35 @@ The analysis below is based on 31 verified investments from HWVP's portfolio pag
 |---------|------|-------|--------|---------|--------|
 | Powersoft | ~1990 | Early | Enterprise Software | IPO; acquired by Sybase for $940M (1994) | [^2] |
 | Arbor Software/Hyperion | ~1993 | Early | Analytics/BI | IPO (1995); merged with Hyperion | [^2] |
-| Central Point Software | ~1990s | Early | Enterprise Software | — | [^11] |
+| Central Point Software | ~1990s | Early | Enterprise Software | Acquired by Symantec (~$60M, 1994) | [^11] |
 | Wind River Systems | ~1990s | Early | Embedded Systems | Acquired by Intel for $884M (2009) | [^2] |
-| Net Perceptions | ~1997 | Early | Enterprise Software | — | [^1] |
+| Net Perceptions | ~1997 | Early | Enterprise Software | IPO (2000); delisted NASDAQ (2004); shut down | [^1] |
 | Liquid Audio | 1996 | Early | Streaming Audio | IPO (1999) | [^1][^2] |
 | NetDynamics | ~1996 | Early | Application Server | Acquired by Sun Microsystems (1998) | [^2] |
-| The Knot | 1999 | Early | Consumer Internet | — | [^1][^11] |
-| Napster | ~1999 | Early | Consumer Internet | — | [^2] |
+| The Knot | 1999 | Early | Consumer Internet | IPO (1999, NASDAQ); merged with WeddingWire (2018) as XO Group | [^1][^11] |
+| Napster | ~1999 | Early | Consumer Internet | Shut down (2001); bankruptcy (2002); assets acquired by Roxio | [^2] |
 | Extensity | ~1999 | Early | Enterprise SaaS | IPO (2001) | [^2] |
-| Intrinsa | ~1999 | Early | Enterprise Software | — | [^11] |
-| Marketwire | ~2000 | Early | Communications | — | [^11] |
-| Employease | ~2000 | Early | Enterprise Software | — | [^12] |
+| Intrinsa | ~1999 | Early | Enterprise Software | Acquired by Microsoft ($58.9M, 1999) | [^11] |
+| Marketwire | ~2000 | Early | Communications | Acquired by Nasdaq (2016) | [^11] |
+| Employease | ~2000 | Early | Enterprise Software | Acquired by ADP (2006) | [^12] |
 | Voltage Security | 2002 | Early | Security | Acquired by Micro Focus (2015) | [^11] |
 | Omniture | ~2004 | Early | Web Analytics | IPO (2006); acquired by Adobe for $1.8B | [^2] |
 | MuleSoft | 2006 | Series A | Integration/API | IPO (2017); acquired by Salesforce for $6.5B (2018) | [^1][^2] |
-| Krillion | ~2006 | Early | Local Search | — | [^11] |
-| Star Analytics | ~2007 | Early | Data Analytics | — | [^11] |
-| Ace Metrix | 2008 | Early | Analytics | — | [^1][^11] |
-| Sonatype | 2010 | Early | Developer Tools | — | [^1][^11] |
+| Krillion | ~2006 | Early | Local Search | Acquired by Local.com ($3.5M, 2011) | [^11] |
+| Star Analytics | ~2007 | Early | Data Analytics | Acquired by IBM (2013) | [^11] |
+| Ace Metrix | 2008 | Early | Analytics | Acquired by iSpot.tv (2021) | [^1][^11] |
+| Sonatype | 2010 | Early | Developer Tools | Active (acquired by Vista Equity Partners, 2019) | [^1][^11] |
 | Karmasphere | 2010 | Early | Big Data | Shut down (2014) | [^11] |
-| Aria Systems | ~2011 | Early | Billing/SaaS | — | [^11][^12] |
+| Aria Systems | ~2011 | Early | Billing/SaaS | Active (independent, $138M total raised) | [^11][^12] |
 | Five9 | ~2012 | Early | Cloud Contact Center | IPO; multi-billion dollar public company | [^2] |
 | Birst | ~2013 | Early | Analytics/BI | Acquired by Infor | [^12] |
-| InsideSales.com (XANT) | ~2014 | Early | AI/Sales | — | [^12] |
-| Peerlyst | 2014 | Seed | Social/Security | — | [^12] |
-| NuoDB | ~2015 | Late Series A | Database | — | [^11] |
-| OptiMine Software | ~2015 | Early | Marketing Analytics | — | [^1][^11] |
+| InsideSales.com (XANT) | ~2014 | Early | AI/Sales | Acquired by Aurea Software (2021) | [^12] |
+| Peerlyst | 2014 | Seed | Social/Security | Shut down (~2019) | [^12] |
+| NuoDB | ~2015 | Late Series A | Database | Acquired by Dassault Systemes (2020) | [^11] |
+| OptiMine Software | ~2015 | Early | Marketing Analytics | Acquired by Uptempo (2025) | [^1][^11] |
 | NeuVector | ~2017 | Early | Container Security | Acquired by SUSE | [^11] |
-| Amberdata | ~2019 | Late Series A | Financial Data | — | [^11] |
-| StepFunction | 2022 | Early | Business Software | — | [^11] |
+| Amberdata | ~2019 | Late Series A | Financial Data | Active (Series B, $47M total raised) | [^11] |
+| StepFunction | 2022 | Early | Business Software | Acquired by Gruve (2026) | [^11] |
 
 *This table represents approximately 31 of over 200 claimed investments (~16%). The firm's earlier funds (1990s) have limited public records, making a comprehensive portfolio reconstruction difficult.*
 
