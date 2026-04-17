@@ -9833,3 +9833,114 @@ queue:
   firm: Slash
   discovered_from: slash
   source: CEO and co-founder of Slash
+- name: Zeal Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: DC-based early-stage fintech/future-of-work fund, $22M Fund I
+- name: Nasir Qadree
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Zeal Capital Partners
+  discovered_from: manual-dc-expansion
+  source: Founder & Managing Partner, DC-based fintech seed investor
+- name: Red Cell Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: DC-based healthcare/cybersecurity/defense VC, $91M Fund I, hybrid incubator+VC
+- name: Grant Verstandig
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Red Cell Partners
+  discovered_from: manual-dc-expansion
+  source: Co-founder of Red Cell Partners, DC defense/health VC
+- name: SineWave Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: McLean VA early-stage govtech/defense-tech/cyber VC
+- name: Columbia Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: Alexandria VA growth-stage digital infrastructure VC, $9B total raised
+- name: Updata Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: DC-based B2B software growth equity, $875M Fund VIII
+- name: Quona Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: DC-based fintech for financial inclusion in emerging markets
+- name: Monica Brand Engel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Quona Capital
+  discovered_from: manual-dc-expansion
+  source: Co-founder of Quona Capital, fintech inclusion investor
+- name: K Street Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: DC seed-stage in regulated markets, manages DC govt SSBCI program
+- name: StoneMill Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: Arlington VA seed-stage cybersecurity fund, $32M, 2 unicorns
+- name: Michael Sutton
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: StoneMill Ventures
+  discovered_from: manual-dc-expansion
+  source: Founder, ex-CISO Zscaler, cybersecurity seed investor
+- name: Grotech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manual-dc-expansion
+  source: Mid-Atlantic early-stage B2B software, $1.5B+ raised since 1984
+- name: Dayna Grayson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Construct Capital
+  discovered_from: manual-dc-expansion
+  source: Co-founder Construct Capital, ex-NEA, DC-based
+- name: Rachel Holt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Construct Capital
+  discovered_from: manual-dc-expansion
+  source: Co-founder Construct Capital, ex-Uber senior exec
