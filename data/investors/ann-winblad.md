@@ -1,30 +1,36 @@
 ---
-name: "Ann Winblad"
-slug: ann-winblad
-type: individual
+check_size: $500K-$3M
 firm: hummer-winblad-venture-partners
-role: "Founding Partner Emeritus"
-location: "San Francisco, CA"
-stage_focus:
-  - seed
-  - series-a
-sector_focus:
-  - enterprise-software
-  - saas
-  - cloud
-  - analytics
-  - security
-  - developer-tools
-check_size: "$500K-$3M"
-last_verified_investment:
-  date: 2022-06-03
-  company: "StepFunction"
-  round: "Early Stage"
-social:
-  linkedin: "linkedin.com/in/annwinblad"
-status: published
 last_researched: 2026-04-02
-tldr: "Founder of Hummer Winblad Venture Partners, the first VC firm focused exclusively on enterprise software, with over 160 companies backed and 35+ years of investing experience. Winblad requires at least one technical co-founder in every investment and backs companies at the earliest institutional stage (Series A and beyond), leading to exits including MuleSoft (Salesforce, $6.5B), Omniture (Adobe, $1.8B), and Five9. Her portfolio is overwhelmingly B2B enterprise software; consumer plays are conspicuously absent."
+last_verified_investment:
+  company: OptiMine Software
+  date: ~2025
+  round: Early
+location: San Francisco, CA
+name: Ann Winblad
+role: Founding Partner Emeritus
+sector_focus:
+- enterprise-software
+- saas
+- cloud
+- analytics
+- security
+- developer-tools
+slug: ann-winblad
+social:
+  linkedin: linkedin.com/in/annwinblad
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Founder of Hummer Winblad Venture Partners, the first VC firm focused exclusively
+  on enterprise software, with over 160 companies backed and 35+ years of investing
+  experience. Winblad requires at least one technical co-founder in every investment
+  and backs companies at the earliest institutional stage (Series A and beyond), leading
+  to exits including MuleSoft (Salesforce, $6.5B), Omniture (Adobe, $1.8B), and Five9.
+  Her portfolio is overwhelmingly B2B enterprise software; consumer plays are conspicuously
+  absent.
+type: individual
 ---
 
 ## Background

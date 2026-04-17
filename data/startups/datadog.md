@@ -15,6 +15,9 @@ firms:
 - round: Seed, Series A co-lead
   slug: crv
   year: 2011
+- round: Seed
+  slug: amplify-partners
+  year: 2012
 founded: 2010
 founders:
 - name: Olivier Pomel
@@ -46,6 +49,9 @@ investors:
 - round: Seed, Series A co-lead
   slug: murat-bicer
   year: 2011
+- round: Seed
+  slug: sunil-dhaliwal
+  year: 2012
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog

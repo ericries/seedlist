@@ -1,25 +1,31 @@
 ---
-name: Artemis
-slug: artemis-security
-type: startup
-location: New York, New York
+firms:
+- round: Series A
+  slug: long-journey-ventures
+  year: 2026
 founded: 2025
-status_company: active
-sector:
-- cybersecurity
-- AI
-- enterprise
-stage_latest: Series A
-total_raised: $70M
-firms: []
-investors: []
 founders:
 - name: Shachar Hirshberg
   role: Co-Founder & CEO
 - name: Dan Shiebler
   role: Co-Founder & CTO
-status: published
+investors:
+- round: Series A
+  slug: scott-banister
+  year: 2026
 last_researched: 2026-04-17
+location: New York, New York
+name: Artemis
+sector:
+- cybersecurity
+- AI
+- enterprise
+slug: artemis-security
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $70M
+type: startup
 ---
 
 ## About

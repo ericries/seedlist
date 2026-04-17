@@ -1,28 +1,40 @@
 ---
-name: Loop
-slug: loop-supply-chain
-type: startup
-location: San Francisco, California
-founded: ~2023
-status_company: active
-sector:
-- AI
-- supply-chain
-- logistics
-stage_latest: Series C
-total_raised: $95M+
 firms:
-- slug: 8vc
-  round: series-c
+- round: series-c
+  slug: 8vc
   year: 2026
-investors: []
+- round: Seed
+  slug: expa
+  year: 2018
+- round: Series B (lead)
+  slug: crv
+  year: 2021
+founded: ~2023
 founders:
 - name: Matt McKinney
   role: Co-Founder
 - name: Shaosu Liu
   role: Co-Founder
-status: published
+investors:
+- round: Seed
+  slug: garrett-camp
+  year: 2018
+- round: Series B (lead)
+  slug: murat-bicer
+  year: 2021
 last_researched: 2026-04-17
+location: San Francisco, California
+name: Loop
+sector:
+- AI
+- supply-chain
+- logistics
+slug: loop-supply-chain
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $95M+
+type: startup
 ---
 
 ## About

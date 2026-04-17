@@ -9611,7 +9611,7 @@ queue:
 - name: Sunil Dhaliwal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Amplify Partners
   discovered_from: mark-jacobsen
@@ -9650,7 +9650,7 @@ queue:
 - name: Gina Gotthilf
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Latitud
   discovered_from: brian-requarth
@@ -9769,3 +9769,30 @@ queue:
   added: '2026-03-17'
   firm: Dragonfly
   discovered_from: robert-leshner
+- name: Mike Dauber
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Amplify Partners
+  discovered_from: sunil-dhaliwal
+- name: Lenny Pruss
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Amplify Partners
+  discovered_from: sunil-dhaliwal
+- name: Sarah Catanzaro
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Amplify Partners
+  discovered_from: sunil-dhaliwal
+- name: Outsmart Education
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gina-gotthilf

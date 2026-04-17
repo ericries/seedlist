@@ -1,27 +1,33 @@
 ---
-name: Factory
-slug: factory
-type: startup
-website: "https://factory.ai"
-location: San Francisco, California
+firms:
+- round: series-b
+  slug: khosla-ventures
+  year: 2026
+- round: Seed
+  slug: sequoia-capital
+  year: 2023
 founded: 2023
-status_company: active
+founders:
+- name: Matan Grinberg
+  role: Co-Founder & CEO
+investors:
+- round: Seed
+  slug: shaun-maguire
+  year: 2023
+last_researched: 2026-04-17
+location: San Francisco, California
+name: Factory
 sector:
 - AI
 - developer-tools
 - enterprise
+slug: factory
 stage_latest: Series B
-total_raised: $150M+
-firms:
-- slug: khosla-ventures
-  round: series-b
-  year: 2026
-investors: []
-founders:
-- name: Matan Grinberg
-  role: Co-Founder & CEO
 status: published
-last_researched: 2026-04-17
+status_company: active
+total_raised: $150M+
+type: startup
+website: https://factory.ai
 ---
 
 ## About
