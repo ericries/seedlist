@@ -9796,3 +9796,40 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: gina-gotthilf
+- name: Goodwater Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: slash
+  source: co-lead on Slash $100M Series C
+- name: Hedosophia
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: solidroad
+  source: led Solidroad $25M Series A
+- name: Pebblebed
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ulysses
+  source: led Ulysses $8M seed round
+- name: Jai Sajnani
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Khosla Ventures
+  discovered_from: slash
+  source: quoted in Slash Series C announcement
+- name: Victor Cardenas
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Slash
+  discovered_from: slash
+  source: CEO and co-founder of Slash

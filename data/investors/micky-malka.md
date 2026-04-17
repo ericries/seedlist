@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [fintech, payments, crypto, neobanking, insurtech, investing-platforms]
 check_size: "$2M-$15M"
 last_verified_investment:
-  date: 2025-10-16
-  company: "Deel"
-  round: "Series E"
+  date: 2026-04-16
+  company: "Slash"
+  round: "Series C"
 social:
   linkedin: "linkedin.com/in/meyermalka"
 status: published
@@ -112,8 +112,9 @@ From verified rounds, frequent co-investors include DST Global (Nubank, Root Ins
 | Campfire | 2024 | Series B | AI accounting | [^26] |
 | Crossmint | 2025 | Series A | Blockchain infrastructure | [^27] |
 | Deel | 2025 | Series E | Global payroll | [^28][^29] |
+| Slash | 2026 | Series C | Business banking | [^30] |
 
-Note: This table represents approximately 14% of Ribbit Capital's 160+ reported investments [^13]. Entries marked with "~" indicate approximate years based on available data. Ribbit Capital's portfolio also includes investments in Fi (India), OnePay, and others not individually verified here.
+Note: This table represents approximately 15% of Ribbit Capital's 160+ reported investments [^13]. Entries marked with "~" indicate approximate years based on available data. Ribbit Capital's portfolio also includes investments in Fi (India), OnePay, and others not individually verified here.
 
 ## In Their Own Words
 
@@ -142,6 +143,8 @@ Note: This table represents approximately 14% of Ribbit Capital's 160+ reported 
 "You should expect, number one, honesty. And always trying to be there when the moments are difficult. You should expect from them to be supportive." — Micky Malka, on what entrepreneurs should expect from VCs [^11]
 
 "We have been fans of Deel for a long time, it's a brand companies trust and we're excited to invest." — Micky Malka, Deel Series E announcement, October 2025 [^28]
+
+"The ratio of output to headcount is something we're only seeing from the best AI-native companies." — Micky Malka, on Slash's Series C, April 2026 [^30]
 
 "Robinhood has served millions of customers left behind by an arcane legacy financial system. As a Board member, I'm thrilled to continue supporting Robinhood as it deepens its relationship with customers and expands its mission beyond the United States." — Micky Malka, Robinhood board announcement, March 2022 [^9]
 
@@ -184,3 +187,4 @@ Note: The quote above is from Malka about the founders, not from the founders ab
 [^27]: Crossmint Blog, "Crossmint Raises $23.6M, led by Ribbit Capital," March 2025. https://blog.crossmint.com/crossmint-raises-23-6m-led-by-ribbit-capital/
 [^28]: BusinessWire, "Deel Secures $300 Million in Series E Funding," October 16, 2025. https://www.businesswire.com/news/home/20251016949787/en/Deel-Secures-$300-Million-in-Series-E-Funding
 [^29]: TechCrunch, "Deel hits $17.3B valuation after raising $300M from big-name VCs," October 16, 2025. https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/
+[^30]: Slash Blog, "Slash Achieves Unicorn Status Following $100m Series C Fundraise," April 16, 2026. https://www.slash.com/blog/series-c-fundraise-release
