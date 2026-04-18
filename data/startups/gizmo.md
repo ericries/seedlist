@@ -3,6 +3,9 @@ firms:
 - round: seed
   slug: nfx
   year: 2024
+- round: Series A
+  slug: shine-capital
+  year: 2026
 founded: 2021
 founders:
 - name: Petros Christodoulou
@@ -24,6 +27,9 @@ investors:
 - round: Seed
   slug: pete-flint
   year: 2024
+- round: Series A
+  slug: ethan-daly
+  year: 2026
 last_researched: 2026-04-15
 location: London, United Kingdom
 name: Gizmo

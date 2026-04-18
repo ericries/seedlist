@@ -9709,7 +9709,7 @@ queue:
 - name: Ethan Daly
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shine Capital
   discovered_from: gizmo
@@ -9752,7 +9752,7 @@ queue:
 - name: Tarun Chitra
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Robot Ventures
   discovered_from: robert-leshner
@@ -9979,3 +9979,16 @@ queue:
   added: '2026-03-17'
   firm: Razorpay
   discovered_from: kunal-shah
+- name: Polymarket
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tarun-chitra
+- name: Mo Koyfman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shine Capital
+  discovered_from: ethan-daly
