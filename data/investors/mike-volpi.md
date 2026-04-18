@@ -111,19 +111,19 @@ Based on 29 verified investments spanning 2010-2025, Volpi's actual investment b
 | Cohere | 2021 | Series A | AI / large language models | [^24] |
 | ClickHouse | 2021 | Series A | Open-source database | [^25] |
 | ClickHouse | 2025 | Series C ($350M) | Open-source database | [^26] |
-| Cursor | 2025 | — | AI developer tools | [^2] |
-| Cerebras | 2025 | — | AI hardware / chips | [^2] |
-| Cognition | 2025 | — | AI agents | [^2] |
+| Cursor | 2025 | Seed (via Hanabi Capital) | AI developer tools | [^2] |
+| Cerebras | 2025 | Series G ($1.1B) | AI hardware / chips | [^2][^29] |
+| Cognition | 2025 | Series C ($400M) | AI agents | [^2][^30] |
 | BRINC Drones | 2025 | Series B | Robotics / drones | [^7] |
-| Cartesia | 2025 | — | AI | [^2] |
-| LiveKit | 2025 | — | Real-time infrastructure | [^2] |
-| Flora | 2025 | — | AI | [^2] |
+| Cartesia | 2025 | Seed ($27M) | AI voice models | [^2][^31] |
+| LiveKit | 2025 | Series B ($45M) | Real-time infrastructure | [^2][^32] |
+| Flora | 2025 | Seed ($6.5M) | AI creative tools | [^2][^33] |
 | Netic | 2025 | Series A ($20M) | AI | [^7] |
-| Arcade | 2025 | — | Developer tools | [^2] |
-| Applied Compute | 2025 | — | AI infrastructure | [^2] |
-| Mind Robotics | 2025 | — | Robotics | [^2] |
+| Arcade | 2025 | Seed ($12M) | Developer tools | [^2][^34] |
+| Applied Compute | 2025 | Series A ($80M) | AI infrastructure | [^2][^35] |
+| Mind Robotics | 2025 | Seed ($115M) | Robotics | [^2][^36] |
 
-*Note: This table represents investments verified through public sources. The 2025 Hanabi Capital investments are confirmed via the Hanabi portfolio page but specific round details are not publicly available for most. Years marked with ~ indicate approximate dates based on available evidence. Volpi's full portfolio at Index Ventures likely includes additional investments not individually attributed to him in public sources.*
+*Note: This table represents investments verified through public sources. Years marked with ~ indicate approximate dates based on available evidence. Volpi's full portfolio at Index Ventures likely includes additional investments not individually attributed to him in public sources.*
 
 ## In Their Own Words
 
@@ -216,3 +216,11 @@ The Hanabi Capital website describes Volpi as "a thoughtful sounding board and a
 [^26]: Index Ventures, "Real-Time Data for the AI Era: ClickHouse Enters Its Next Chapter With $350M Series C," by Mike Volpi, accessed March 2026. https://www.indexventures.com/perspectives/real-time-data-for-the-ai-era-clickhouse-enters-its-next-chapter-with-350m-series-c/
 [^27]: Metis Strategy, "Interview with the Leading Investor in Self-Driving Tech," accessed March 2026. https://www.metisstrategy.com/interview-with-the-leading-investor-in-self-driving-tech/
 [^28]: Index Ventures, "Driven: How Chris Urmson and Aurora Are Building the Future of Self-Driving," by Mike Volpi, accessed March 2026. https://www.indexventures.com/perspectives/driven-how-chris-urmson-and-aurora-are-building-the-future-of-self-driving/
+[^29]: TechCrunch, "A year after filing to IPO, still-private Cerebras Systems raises $1.1B," September 30, 2025, accessed April 2026. https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/
+[^30]: TechCrunch, "Cognition AI defies turbulence with a $400M raise at $10.2B valuation," September 8, 2025, accessed April 2026. https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/
+[^31]: Cartesia blog, "Announcing our seed round," accessed April 2026. https://cartesia.ai/blog/seed
+[^32]: FinSMEs, "LiveKit Raises $45M in Series B at $345M Valuation," April 2025, accessed April 2026. https://www.finsmes.com/2025/04/livekit-raises-45m-in-series-b-at-a-345m-valuation.html
+[^33]: Upstarts Media, "Startup FLORA Raises $6.5 Million To Build The AI Canvas For Creatives," accessed April 2026. https://www.upstartsmedia.com/p/flora-raises-6-million-ai-creatives
+[^34]: TechCrunch, "Arcade raises $12M from Perplexity co-founder's new fund to make AI agents less awful," March 18, 2025, accessed April 2026. https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/
+[^35]: SiliconANGLE, "Former OpenAI researchers launch Applied Compute with $80M in funding," October 30, 2025, accessed April 2026. https://siliconangle.com/2025/10/30/former-openai-researchers-launch-applied-compute-80m-funding/
+[^36]: TechCrunch, "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots," March 11, 2026, accessed April 2026. https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/

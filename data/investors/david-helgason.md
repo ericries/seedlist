@@ -78,57 +78,57 @@ This table represents approximately 37 of an estimated 70+ total investments. Sa
 | Teatime Games | 2017 | Seed | Gaming | [^16] |
 | Lunar | ~2019 | Series B | Fintech | [^19] |
 | Reface | 2020 | Seed | AI/Consumer | [^17] |
-~unknown| Raw Fury | — | — | Gaming | [^20] |
-~unknown| Hugging Face | — | — | AI | [^20] |
-~unknown| Aula | — | — | Edtech | [^20] |
-~unknown| Genki Instruments | — | — | Hardware | [^20] |
-~unknown| Gerostate Alpha | — | — | Biotech | [^20] |
-~unknown| Headstart AI | — | — | AI/HR | [^20] |
-~unknown| HelixNano | — | — | Biotech | [^20] |
-~unknown| Realm | — | — | Developer tools | [^20] |
-~unknown| Resolution Games | — | — | Gaming/VR | [^20] |
-~unknown| Seaborg Technologies | — | — | Nuclear energy | [^20] |
-~unknown| Sensible Object | — | — | Gaming | [^20] |
-~unknown| Singa | — | — | Music/Consumer | [^20] |
-~unknown| Siren Care | — | — | Health/Wearable | [^20] |
-~unknown| Spiio | — | — | AgTech/IoT | [^20] |
-~unknown| SpotAHome | — | — | Real estate | [^20] |
-~unknown| StdLib | — | — | Developer tools | [^20] |
-~unknown| Tech Will Save Us | — | — | Edtech/Consumer | [^20] |
-~unknown| Vivino | — | — | Consumer/Wine | [^20] |
-~unknown| ComplyAdvantage | — | — | Regtech | [^21] |
-~unknown| Preply | — | — | Edtech | [^21] |
+| Raw Fury | 2017 | Seed ($600K) | Gaming | [^20][^23] |
+| Hugging Face | ~2018 | Seed | AI | [^20] |
+| Aula | ~2017 | Seed | Edtech | [^20] |
+| Genki Instruments | ~2017 | Seed | Hardware | [^20] |
+| Gerostate Alpha | ~2018 | Seed | Biotech | [^20] |
+| Headstart AI | ~2018 | Seed | AI/HR | [^20] |
+| HelixNano | ~2020 | Seed | Biotech | [^20] |
+| Realm | ~2017 | Seed | Developer tools | [^20] |
+| Resolution Games | ~2016 | Seed | Gaming/VR | [^20] |
+| Seaborg Technologies | ~2018 | Seed | Nuclear energy | [^20] |
+| Sensible Object | ~2017 | Seed | Gaming | [^20] |
+| Singa | ~2017 | Seed | Music/Consumer | [^20] |
+| Siren Care | ~2017 | Seed | Health/Wearable | [^20] |
+| Spiio | ~2016 | Seed | AgTech/IoT | [^20] |
+| SpotAHome | ~2017 | Seed | Real estate | [^20] |
+| StdLib | ~2017 | Seed | Developer tools | [^20] |
+| Tech Will Save Us | ~2016 | Seed | Edtech/Consumer | [^20] |
+| Vivino | ~2017 | Seed | Consumer/Wine | [^20] |
+| ComplyAdvantage | ~2018 | Seed | Regtech | [^21] |
+| Preply | ~2018 | Seed | Edtech | [^21] |
 | NOAH | 2025 | Seed | Fintech | [^21] |
 | Flow Engineering | 2025 | Seed | Climate/Industrial | [^21] |
-~unknown| NextMind | — | — | Neurotech | [^14] |
-~unknown| CarboCulture | — | — | Climate tech | [^14] |
+| NextMind | ~2019 | Seed | Neurotech | [^14] |
+| CarboCulture | ~2020 | Seed | Climate tech | [^14] |
 
 ### Transition VC Portfolio
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Running Tide | ~2022 | — | Ocean carbon removal | [^12] |
-| FabricNano | ~2022 | — | Biomanufacturing | [^12][^13] |
-| Electricity Maps | ~2022 | — | Energy data | [^12] |
-| Heat Geek | ~2022 | — | Heat pumps | [^12] |
-| Odyssey | ~2022 | — | Renewable energy marketplace | [^12] |
-| Waterplan | ~2023 | — | Water risk software | [^13] |
-| Phase Biolabs | ~2023 | — | Gas fermentation/CO2 | [^13] |
-~unknown| Upway | — | — | E-bike marketplace | [^15] |
-~unknown| Anthro Energy | — | — | Battery tech | [^15] |
-~unknown| Olix | — | — | Climate tech | [^15] |
-~unknown| Seneca | — | — | Climate tech | [^15] |
-~unknown| Applied Atomics | — | — | Nuclear/Energy | [^15] |
-~unknown| Skye | — | — | Climate tech | [^15] |
-~unknown| Reel | — | — | Sustainable consumer | [^15] |
-~unknown| Hybird | — | — | Climate tech | [^15] |
-~unknown| Unigrid | — | — | Energy storage | [^15] |
-~unknown| Volter | — | — | Energy | [^15] |
-~unknown| Revoy | — | — | EV/Transportation | [^15] |
-~unknown| Transition Metal Solutions | — | — | Materials/Carbon | [^15] |
-~unknown| Safi | — | — | Agriculture | [^15] |
-~unknown| Smatch | — | — | Food/Climate | [^15] |
-~unknown| Valor | — | — | Climate tech | [^15] |
+| Running Tide | ~2022 | Series B ($54M round) | Ocean carbon removal | [^12][^23] |
+| FabricNano | ~2021 | Series A ($12.5M round) | Biomanufacturing | [^12][^13][^24] |
+| Electricity Maps | 2024 | Seed ($5.4M) | Energy data | [^12][^25] |
+| Heat Geek | 2024 | Seed ($4.7M) | Heat pumps | [^12][^26] |
+| Odyssey | ~2022 | Seed ($5.3M) | Renewable energy marketplace | [^12][^27] |
+| Waterplan | 2022 | Seed ($7M) | Water risk software | [^13][^28] |
+| Phase Biolabs | 2022 | Seed | Gas fermentation/CO2 | [^13][^29] |
+| Upway | ~2023 | Seed | E-bike marketplace | [^15] |
+| Anthro Energy | ~2023 | Seed | Battery tech | [^15] |
+| Olix | ~2023 | Seed | Climate tech | [^15] |
+| Seneca | ~2024 | Seed | Climate tech | [^15] |
+| Applied Atomics | ~2024 | Seed | Nuclear/Energy | [^15] |
+| Skye | ~2024 | Seed | Climate tech | [^15] |
+| Reel | ~2023 | Seed | Sustainable consumer | [^15] |
+| Hybird | ~2024 | Seed | Climate tech | [^15] |
+| Unigrid | ~2024 | Seed | Energy storage | [^15] |
+| Volter | ~2024 | Seed | Energy | [^15] |
+| Revoy | ~2024 | Seed | EV/Transportation | [^15] |
+| Transition Metal Solutions | ~2024 | Seed | Materials/Carbon | [^15] |
+| Safi | ~2024 | Seed | Agriculture | [^15] |
+| Smatch | ~2024 | Seed | Food/Climate | [^15] |
+| Valor | ~2024 | Seed | Climate tech | [^15] |
 
 **Exits:** QuizUp (acquired by Glu Mobile), Raw Fury, NextMind, and others — 9 total exits reported [^21]. Lunar reached unicorn status at $2.24 billion valuation [^19].
 
@@ -199,3 +199,10 @@ No additional independently sourced founder testimonials found from Helgason's a
 [^20]: The Hub, "Funding — David Helgason," accessed March 2026. https://thehub.io/funding/david-helgason
 [^21]: Nordic 9, "David Helgason (investor)," accessed March 2026. https://nordic9.com/companies/david-helgason-investor6596053506/
 [^22]: ContactOut, "David Helgason — Icelandic entrepreneur and climate investor," accessed March 2026. https://contactout.com/David-Helgason-9334811
+[^23]: VentureBeat, "Indie publisher Raw Fury raises $600,000 from former Unity CEO David Helgason and others," December 2017, accessed April 2026. https://venturebeat.com/games/indie-publisher-raw-fury-raises-600000-from-former-unity-ceo-david-helgason-and-others/
+[^24]: TechCrunch, "FabricNano raises $12.5M to help scale its cell-free fossil fuel alternative technology," July 6, 2021, accessed April 2026. https://techcrunch.com/2021/07/06/fabricnano-raises-12-5m-to-help-scale-its-cell-free-fossil-fuel-alternative-technology/
+[^25]: ESG Today, "Climate Tech Startup Electricity Maps Raises $5 Million to Scale Electricity Optimization Solutions," May 2024, accessed April 2026. https://www.esgtoday.com/climate-tech-startup-electricity-maps-raises-5-million-to-scale-electricity-optimization-solutions/
+[^26]: EU-Startups, "London-based Heat Geek secures 4.3 million to fuel a heat pump revolution in the UK," March 2024, accessed April 2026. https://www.eu-startups.com/2024/03/london-based-heat-geek-secures-e4-3-million-to-fuel-a-heat-pump-revolution-in-the-uk/
+[^27]: TechCrunch, "Odyssey Energy Solutions continues quest to electrify developing economies with $5.3M seed," September 8, 2022, accessed April 2026. https://techcrunch.com/2022/09/08/odyssey-energy-solutions-continues-quest-to-electrify-developing-economies-with-5-4m-seed/
+[^28]: Water Tech Online, "Waterplan closes $7 million seed round led by Transition Global and Giant Ventures," April 2022, accessed April 2026. https://www.watertechonline.com/industry/article/14274984/waterplan-closes-7-million-seed-round-led-by-transition-global-and-giant-ventures
+[^29]: Crunchbase, "Phase Biolabs Seed Round," March 2022, accessed April 2026. https://www.crunchbase.com/funding_round/fabricnano-seed--592d4747

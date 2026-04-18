@@ -93,18 +93,18 @@ The analysis below is based on 22 verified investments from 75 & Sunny's portfol
 | Sensible Weather | 2021 | Seed | [^18][^19] |
 | HostGPO | 2023 | Growth | [^16] |
 | Baton | 2025 | Series A | [^20] |
-| Crexi | ~2020 | Unknown | [^1] |
-| Apex | ~2020 | Unknown | [^1] |
-| Permitflow | ~2020 | Unknown | [^1] |
-| SpaceX | ~2020 | Unknown | [^14] |
-| Blockchain.com | ~2020 | Unknown | [^14] |
-| Cameo | ~2020 | Unknown | [^14] |
-| Fernish | ~2020 | Unknown | [^2] |
-| AllVoices | ~2020 | Unknown | [^2] |
+| Crexi | ~2020 | Angel | [^1][^24] |
+| Apex | 2022 | Seed ($7.5M round) | [^1][^25] |
+| Permitflow | ~2021 | Angel | [^1][^26] |
+| SpaceX | 2017 | Angel (Series H round) | [^14][^27] |
+| Blockchain.com | ~2020 | Angel | [^14] |
+| Cameo | ~2019 | Angel | [^14][^28] |
+| Fernish | 2020 | Series A ($15M round) | [^2][^29] |
+| AllVoices | ~2020 | Angel | [^2][^30] |
 | Varo Bank | ~2022 | Board seat | [^9] |
 | Ohana | 2024 | Seed | [^21] |
 | Setpoint | 2022 | Series A | [^21] |
-| Sonic Energy | ~2020 | Unknown | [^2] |
+| Sonic Energy | ~2019 | Angel | [^2] |
 
 This table represents approximately 22% of Rascoff's claimed 100+ investments. Only investments with publicly verifiable sources are included.
 
@@ -175,3 +175,10 @@ No additional independently sourced founder testimonials found beyond the above 
 [^21]: Evalyze.ai, "Spencer Rascoff Investor Profile," accessed March 2026. https://www.evalyze.ai/investors/spencer-rascoff
 [^22]: dot.LA, "'Throw Everything Overboard That You Don't Really Need': Spencer Rascoff Offers Founders Advice During a Downturn," LA Tech Week. https://dot.la/spencer-rascoff-advice-2657877188.html
 [^23]: Pacaso blog, "Pacaso's founding story and future with co-founders," accessed March 2026. https://www.pacaso.com/blog/pacasos-founding-story
+[^24]: PR Newswire, "CREXi Raises $30M Series B Funding to Enhance Commercial Real Estate Ecosystem," 2020. https://www.prnewswire.com/news-releases/crexi-raises-30m-series-b-funding-to-enhance-commercial-real-estate-ecosystem-300992992.html
+[^25]: TechCrunch, "Apex Space takes on satellite bus 'bottleneck' with seed round led by a16z," October 24, 2022. https://techcrunch.com/2022/10/24/apex-space-takes-on-satellite-bus-bottleneck-with-seed-round-led-by-a16z/
+[^26]: PermitFlow website, "PermitFlow Raises $54 Million Series B," accessed April 2026. https://www.permitflow.com/blog/permitflow-series-b
+[^27]: GeekWire, "Zillow CEO Spencer Rascoff talks about his investments in SpaceX and other ventures," February 2018. https://www.geekwire.com/2018/zillow-ceo-spencer-rascoff-spacex/
+[^28]: Cameo, Crunchbase Company Profile & Funding, accessed April 2026. https://www.crunchbase.com/organization/cameo-3/funding_rounds/funding_rounds_list
+[^29]: GeekWire, "Furniture rental startup Fernish raises $15M from Khosla, Jeff Wilke, Spencer Rascoff, others," May 2020. https://www.geekwire.com/2020/furniture-rental-startup-fernish-raises-15m-khosla-ventures-jeff-wilke-spencer-rascoff/
+[^30]: dot.LA, "AllVoices Wants to Create Safe Ways for Employees to Report Toxic Workplace Incidents," accessed April 2026. https://dot.la/allvoices-raise-2654795608.html

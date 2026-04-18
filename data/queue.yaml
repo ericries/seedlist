@@ -9992,3 +9992,29 @@ queue:
   added: '2026-03-17'
   firm: Shine Capital
   discovered_from: ethan-daly
+- name: Antonio Gracias
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Valor Equity Partners
+  discovered_from: loop-supply-chain
+- name: Apurv Bansal
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Zenskar
+  discovered_from: zenskar
+- name: Susquehanna Venture Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zenskar
+- name: Tao Capital Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: loop-supply-chain
