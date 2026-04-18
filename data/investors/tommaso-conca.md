@@ -86,28 +86,28 @@ The following table reflects QuantumLight's firm-level portfolio. Conca's indivi
 |---------|------|-------|--------|
 | Aspora | 2025 | Series B | [^14] |
 | Ben | 2025 | Series B | [^18] |
-| Berry Street | ~2023 | — | [^1] |
+| Berry Street | ~2023 | Series B | [^1][^24] |
 | Black Forest Labs | 2025 | Series B | [^19] |
 | Blockaid | 2025 | Series B | [^20] |
-| Builder.io | ~2023 | — | [^1] |
-| Campfire | ~2023 | — | [^1] |
-| DeepScribe | ~2023 | — | [^1] |
-| DynamoAI | ~2023 | — | [^1] |
-| FactoryAI | ~2024 | — | [^1] |
-| Function Health | ~2024 | — | [^1][^7] |
+| Builder.io | 2024 | Growth | [^1][^25] |
+| Campfire | ~2024 | Growth | [^1][^26] |
+| DeepScribe | ~2023 | Series B | [^1][^27] |
+| DynamoAI | ~2023 | Series A | [^1][^28] |
+| FactoryAI | ~2024 | Growth | [^1] |
+| Function Health | 2025 | Series B | [^1][^7][^29] |
 | Fuse Energy | 2025 | Series B | [^17] |
-| Ghost | ~2023 | — | [^1] |
-| HockeyStack | ~2024 | — | [^1] |
+| Ghost | ~2023 | Growth | [^1] |
+| HockeyStack | ~2024 | Series A | [^1][^30] |
 | Lovable | 2025 | Series A | [^15] |
 | MarqVision | 2024 | Series A-II | [^21] |
 | Mesh | 2024 | Strategic | [^22] |
 | Midas | 2025 | Series B | [^12] |
 | Monta | 2024 | Series B | [^16] |
 | NG.Cash | 2025 | Series B | [^7] |
-| Rad AI | ~2024 | — | [^1] |
+| Rad AI | 2024 | Series B | [^1][^31] |
 | Robin AI | 2024 | Series B | [^13] |
 | Sipay | 2025 | Series B | [^11] |
-| Together AI | ~2024 | — | [^1][^7] |
+| Together AI | ~2024 | Series B | [^1][^7][^32] |
 | Vibe | 2025 | Series B | [^10] |
 
 Note: This table represents 25 of approximately 26-28 known QuantumLight investments. Entries marked with "~" indicate approximate years based on portfolio listing dates; the firm made its first investment in July 2023 [^9]. Specific round details are unavailable for earlier investments sourced only from the firm's website.
@@ -159,3 +159,12 @@ Note: All founder quotes above are sourced from QuantumLight's own press materia
 [^21]: FinSMEs, "MarqVision Raises Additional $16M in Funding," October 2024, accessed March 2026. https://www.finsmes.com/2024/10/marqvision-raises-additional-16m-in-funding.html
 [^22]: PR Newswire, "Mesh Announces Strategic Investment From QuantumLight, Revolut Founder Nik Storonsky's VC Firm, Tripling its Series A Valuation," August 2024, accessed March 2026. https://www.prnewswire.com/news-releases/mesh-announces-strategic-investment-from-quantumlight-revolut-founder-nik-storonskys-vc-firm-tripling-its-series-a-valuation-302223469.html
 [^23]: QuantumLight, "Driving High Performance" playbook launch press materials, September 2024, accessed March 2026. https://www.citybiz.co/article/598298/quantumlight-launches-its-playbook-driving-high-performance/
+[^24]: Berry Street, Crunchbase company profile, accessed April 2026. https://www.crunchbase.com/organization/berry-street-afa3
+[^25]: Builder.io blog, "Builder.io closes $20 million in funding," April 2024, accessed April 2026. https://www.builder.io/blog/builder-closes-20-million-funding-m12-microsoft
+[^26]: PR Newswire, "Campfire Raises $65 Million Series B to Redefine How Finance Works in the AI Era," October 2025, accessed April 2026. https://www.prnewswire.com/news-releases/campfire-raises-65-million-series-b-to-redefine-how-finance-works-in-the-ai-era-302585077.html
+[^27]: DeepScribe, Crunchbase company profile and funding, accessed April 2026. https://www.crunchbase.com/organization/deepscribe
+[^28]: Crunchbase, "Series A — Dynamo AI," August 2023, accessed April 2026. https://www.crunchbase.com/funding_round/dynamofl-series-a--425934a8
+[^29]: Seedcamp, "Seedcamp's investment in Function Health's $298M Series B via our Select Fund," November 2025, accessed April 2026. https://seedcamp.com/views/seedcamps-investment-in-function-healths-298m-series-b-via-our-select-fund/
+[^30]: HockeyStack blog, "HockeyStack Raises $20M in Series A Led by Bessemer Venture Partners," January 2025, accessed April 2026. https://www.hockeystack.com/blog-posts/hockeystack-raises-20m-in-series-a-led-by-bessemer-venture-partners
+[^31]: TechCrunch, "Rad AI, a startup that helps radiologists save time on report generation, raises $50M Series B from Khosla Ventures," May 2024, accessed April 2026. https://techcrunch.com/2024/05/07/rad-ai-a-startup-that-helps-radiologists-save-time-on-report-generation-raises-50m-series-b-from-khosla-ventures/
+[^32]: PR Newswire, "Together AI Raises $305M Series B to Scale AI Acceleration Cloud for Open Source and Enterprise AI," February 2025, accessed April 2026. https://www.prnewswire.com/news-releases/together-ai-raises-305m-series-b-to-scale-ai-acceleration-cloud-for-open-source-and-enterprise-ai-302380967.html

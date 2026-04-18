@@ -100,40 +100,40 @@ The analysis below is based on 35 verified investments attributed to Jeremy Liew
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
 | Flixster | 2006 | Series A | Consumer / media | Acquired (Warner Bros.) | [^14] |
-| Kongregate | ~2007 | — | Gaming | Acquired (GameStop) | [^5] |
+| Kongregate | 2007 | Seed | Gaming | Acquired (GameStop) | [^5] |
 | Playdom | 2009 | Series A | Gaming | Acquired (Disney, $563M) | [^15] |
-| Serious Business | ~2009 | — | Gaming | Acquired (Zynga) | [^5] |
+| Serious Business | ~2009 | Seed | Gaming | Acquired (Zynga) | [^5] |
 | Bonobos | 2010 | Series C | E-commerce / DTC | Acquired (Walmart, $310M) | [^16] |
-| Shoedazzle | 2010 | — | E-commerce / DTC | Acquired (JustFab) | [^1] |
+| Shoedazzle | 2010 | Series A | E-commerce / DTC | Acquired (JustFab) | [^1] |
 | The Honest Company | 2011 | Early | Consumer / DTC | IPO (2021) | [^8] |
-| Slice | ~2011 | — | Consumer / commerce | Acquired (Rakuten) | [^5] |
+| Slice | ~2011 | Early | Consumer / commerce | Acquired (Rakuten) | [^5] |
 | Snapchat (Snap Inc.) | 2012 | Seed | Social media | IPO (2017) | [^2][^3] |
 | Affirm | 2013 | Early | Fintech | IPO (2021) | [^8] |
 | Ripple | 2013 | Seed | Crypto / blockchain | Private | [^12] |
 | Giphy | 2014 | Early | Media / social | Acquired (Facebook) | [^17] |
 | Cheddar | 2016 | Seed | Media / news | Private | [^2] |
-| Beme | ~2016 | — | Media / video | Acquired (CNN) | [^5] |
-| HQ Trivia | ~2017 | — | Media / gaming | Shut down | [^5] |
+| Beme | ~2016 | Early | Media / video | Acquired (CNN) | [^5] |
+| HQ Trivia | ~2017 | Early | Media / gaming | Shut down | [^5] |
 | Rothy's | ~2017 | Series A | E-commerce / DTC | Private | [^1] |
-| Art of Sport | 2018 | — | Consumer / DTC | Private | [^1] |
-| Honeylove | 2018 | — | E-commerce / DTC | Private | [^1] |
-| Hungryroot | ~2018 | — | Consumer / food | Private | [^1] |
+| Art of Sport | 2018 | Series A | Consumer / DTC | Private | [^1] |
+| Honeylove | 2018 | Series A | E-commerce / DTC | Private | [^1] |
+| Hungryroot | ~2018 | Early | Consumer / food | Private | [^1] |
 | Brigit | 2019 | Series A | Fintech | Private | [^18] |
 | Magic Spoon | 2019 | Seed | Consumer / food DTC | Private | [^19] |
 | Epic Games | 2020 | Late | Gaming | Private | [^20] |
 | Wintermute | 2020-2021 | Series A, B | Crypto / market maker | Private | [^13] |
-~unknown| Blockchain.com | — | Early | Crypto | Private | [^2] |
-~unknown| United Dwelling | — | Seed | Housing | Private | [^1] |
-~unknown| Fan Controlled Football | — | — | Sports / entertainment | Private | [^1] |
-~unknown| Illumix | — | — | AR / gaming | Private | [^1] |
-~unknown| LedgerX | — | — | Crypto / derivatives | Private | [^1] |
-~unknown| Volley (now Weekend) | — | — | Voice AI / gaming | Private | [^1] |
-~unknown| Zerion | — | — | Crypto / DeFi | Private | [^1] |
-~unknown| Ladder | — | — | Fintech / insurance | Private | [^1] |
-~unknown| Trust | — | — | Consumer | Private | [^1] |
-~unknown| Runaway | — | — | Consumer | Private | [^1] |
-~unknown| Stickies | — | — | Consumer | Private | [^1] |
-~unknown| The Nudge | — | — | Consumer | Private | [^1] |
+| Blockchain.com | 2014 | Series A | Crypto | Private | [^2][^23] |
+| United Dwelling | 2021 | Seed | Housing | Private | [^1][^24] |
+| Fan Controlled Football | 2020 | Seed | Sports / entertainment | Private | [^1][^25] |
+| Illumix | ~2019 | Seed | AR / gaming | Private | [^1][^26] |
+| LedgerX | ~2014 | Seed | Crypto / derivatives | Acquired (MIAX, 2023) | [^1][^27] |
+| Volley | ~2016 | Seed | Voice AI / gaming | Private | [^1][^28] |
+| Zerion | ~2019 | Seed | Crypto / DeFi | Private | [^1][^29] |
+| Ladder | ~2016 | Early | Fintech / insurance | Private | [^1][^30] |
+| Trust | ~2020 | Seed | Consumer / fintech | Private | [^1] |
+| Runway | 2020 | Seed | Consumer / finance | Private | [^1][^31] |
+| Stickies | ~2019 | Early | Consumer | Private | [^1] |
+| The Nudge | 2019 | Seed | Consumer | Private | [^1][^32] |
 
 *This table includes 35 verified investments. Some investments may be attributed to Lightspeed broadly rather than Liew individually. Years marked with ~ indicate approximate dates based on company founding year or contextual evidence.*
 
@@ -217,3 +217,13 @@ No independently sourced founder testimonials found. While Liew has sat on the b
 [^20]: Lightspeed Venture Partners, "Epic Games," accessed March 2026. https://lsvp.com/company/epic-games/
 [^21]: CoinDesk, "Why Lightspeed Venture Partners Sees Bitcoin as a Good Investment," February 2014, accessed March 2026. https://www.coindesk.com/markets/2014/02/20/why-lightspeed-venture-partners-sees-bitcoin-as-a-good-investment
 [^22]: TechCrunch, "Snap supporters find a scapegoat in Jeremy Liew," February 2017, accessed March 2026. https://techcrunch.com/2017/02/25/snap-supporters-find-a-scapegoat-in-jeremy-liew/
+[^23]: Lightspeed Venture Partners, "Blockchain," accessed April 2026. https://lsvp.com/company/blockchain/
+[^24]: Jeremy Liew, "Announcing Lightspeed's Investment in United Dwelling," Medium / Lightspeed Venture Partners, December 2021, accessed April 2026. https://medium.com/lightspeed-venture-partners/announcing-lightspeeds-investment-in-united-dwelling-an-accessory-dwelling-unit-company-founded-4bab01cd12c8
+[^25]: Verizon Ventures, "Fan Controlled Football investment blends video gaming and sports," September 2020, accessed April 2026. https://www.verizon.com/ventures/blog/2020/9/verizon-ventures%E2%80%99-fan-controlled-football-investment-blends-video-gaming-and-sports
+[^26]: Illumix press release, "Illumix closes $18 million Series A," March 2023, accessed April 2026. https://www.illumix.com/news/series-a-announcement
+[^27]: LedgerX, Crunchbase company profile and funding, accessed April 2026. https://www.crunchbase.com/organization/ledgerx
+[^28]: Lightspeed Venture Partners, "Building with Volley: The Highest-Grossing AI-Powered Games Company," accessed April 2026. https://lsvp.com/stories/building-with-volley-the-highest-grossing-ai-powered-games-company/
+[^29]: TechCrunch, "DeFi investor platform Zerion raises $8.2 million Series A," July 2021, accessed April 2026. https://techcrunch.com/2021/07/07/defi-investor-platform-zerion-raises-8-2-million-series-a/
+[^30]: TechCrunch, "Ladder raises $100M on a $900M valuation for a platform selling flexible term life insurance," October 2021, accessed April 2026. https://techcrunch.com/2021/10/04/ladder-raises-100m-on-a-900m-valuation-for-a-platform-selling-flexible-term-life-insurance/
+[^31]: Lightspeed Venture Partners, "Runway," accessed April 2026. https://lsvp.com/company/runway/
+[^32]: Crunchbase News, "Digital Planner The Nudge Raises $2M Seed Round," accessed April 2026. https://news.crunchbase.com/startups/digital-planner-the-nudge-raises-2m-seed-round/

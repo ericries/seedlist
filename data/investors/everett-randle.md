@@ -97,21 +97,21 @@ Randle's investments show frequent co-investment with top-tier firms including K
 | Chainguard | Growth | ~2023 | Cybersecurity / Supply Chain | [^4] |
 | Flock Safety | Growth | ~2023 | Public Safety / AI | [^4] |
 | Garner Health | Growth | ~2023 | Healthcare | [^4] |
-| Mirage | — | ~2023 | AI | [^4] |
-| fal | — | ~2023 | AI Infrastructure | [^4] |
-| Gambit | — | ~2023 | — | [^4] |
+| Mirage | Growth | ~2023 | AI | [^4] |
+| fal | Series A | 2024 | AI Infrastructure | [^4][^15] |
+| Gambit | Growth | ~2023 | Fintech | [^4] |
 | Rippling | Growth | ~2021 | HR / Enterprise Software | [^5][^11] |
 | Stord | Growth | ~2021 | Supply Chain / Logistics | [^5] |
 | Wave | Growth | ~2021 | Fintech (Africa) | [^5] |
 | Chronosphere | Growth | ~2021 | Observability | [^4] |
 | SpaceX | Growth | ~2021 | Aerospace / Hardtech | [^4] |
-| Ramp | — | ~2021 | Fintech | [^4] |
-| Faire | — | ~2021 | B2B Marketplace | [^4] |
-| Trade Republic | — | ~2021 | Fintech (Europe) | [^4] |
-| Quince | — | ~2021 | DTC Consumer | [^4] |
-| Sword Health | — | ~2021 | Digital Health | [^4] |
-| Modern Animal | — | ~2021 | Veterinary / Consumer | [^4] |
-| Figma | — | ~2021 | Design Tools | [^4] |
+| Ramp | Growth | ~2021 | Fintech | [^4] |
+| Faire | Growth | ~2021 | B2B Marketplace | [^4] |
+| Trade Republic | Growth | ~2021 | Fintech (Europe) | [^4] |
+| Quince | Growth | ~2021 | DTC Consumer | [^4] |
+| Sword Health | Growth | ~2021 | Digital Health | [^4] |
+| Modern Animal | Growth | ~2021 | Veterinary / Consumer | [^4] |
+| Figma | Growth | ~2021 | Design Tools | [^4] |
 
 *Note: Years marked with ~ are approximate, based on Randle's tenure at the firm where the investment was made (Kleiner Perkins: 2022–2025; Founders Fund: 2020–2022). This table represents investments across all career stages. Exact years and round details are not publicly confirmed for most personal/Founders Fund-era investments. Only 1 investment (Gumloop) is confirmed as a Benchmark deal.*
 
@@ -192,3 +192,5 @@ Kleiner Perkins, in welcoming Randle back as Partner in 2022, highlighted that h
 [^13]: Everett Randle on X/Twitter, April 2022, accessed March 2026. https://x.com/EverettRandle/status/1514643665246830592
 
 [^14]: Gumloop blog, "Announcing Gumloop's $50M Series B," March 2026, accessed March 2026. https://www.gumloop.com/blog/series-b
+
+[^15]: TechCrunch, "Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others," September 2024, accessed April 2026. https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/
