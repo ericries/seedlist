@@ -1,26 +1,39 @@
 ---
-name: Zum
-slug: zum
-type: startup
-website: https://www.ridezum.com
-location: San Francisco, California
+firms:
+- round: growth
+  slug: tpg
+  year: 2026
+- round: Early
+  slug: spark-capital
+  year: 2019
+- round: Angel
+  slug: unshackled-ventures
+  year: 2021
 founded: 2016
-status_company: active
+founders:
+- name: Ritu Narayan
+  role: CEO & Founder
+investors:
+- round: Early
+  slug: nabeel-hyatt
+  year: 2019
+- round: Angel
+  slug: shaherose-charania
+  year: 2021
+last_researched: 2026-04-17
+location: San Francisco, California
+name: Zum
 sector:
 - edtech
 - transportation
 - mobility
+slug: zum
 stage_latest: Growth
-total_raised: $430M
-firms:
-- slug: tpg
-  round: growth
-  year: 2026
-founders:
-- name: Ritu Narayan
-  role: CEO & Founder
 status: published
-last_researched: 2026-04-17
+status_company: active
+total_raised: $430M
+type: startup
+website: https://www.ridezum.com
 ---
 
 ## About

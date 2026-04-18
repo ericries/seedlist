@@ -1,46 +1,49 @@
 ---
-name: Slash
-slug: slash
-type: startup
-website: "https://www.slash.com"
-location: "San Francisco, California"
-founded: 2021
-status_company: active
-sector:
-- fintech
-- business-banking
-- payments
-- AI
-stage_latest: Series C
-total_raised: $160M+
 firms:
-- slug: ribbit-capital
+- date: 2026-04-16
   round: series-c
+  slug: ribbit-capital
   year: 2026
-  date: 2026-04-16
-- slug: khosla-ventures
+- date: 2026-04-16
   round: series-c
+  slug: khosla-ventures
   year: 2026
-  date: 2026-04-16
-- slug: nea
-  round: series-b
+- round: series-b
+  slug: nea
   year: 2025
-- slug: nea
+- date: 2026-04-16
   round: series-c
+  slug: nea
   year: 2026
-  date: 2026-04-16
-- slug: y-combinator
+- date: 2026-04-16
   round: series-c
+  slug: y-combinator
   year: 2026
-  date: 2026-04-16
-investors: []
+founded: 2021
 founders:
 - name: Victor Cardenas
   role: CEO & Co-Founder
 - name: Kevin Bai
   role: CTO & Co-Founder
-status: published
+investors:
+- round: Series C
+  slug: micky-malka
+  year: 2026
 last_researched: 2026-04-17
+location: San Francisco, California
+name: Slash
+sector:
+- fintech
+- business-banking
+- payments
+- AI
+slug: slash
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $160M+
+type: startup
+website: https://www.slash.com
 ---
 
 ## About

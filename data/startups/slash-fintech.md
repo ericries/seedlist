@@ -1,24 +1,30 @@
 ---
-name: Slash
-slug: slash-fintech
-type: startup
-website: https://www.slash.com
-location: San Francisco, CA
+firms:
+- round: series-c
+  slug: khosla-ventures
+  year: 2026
+- round: Series C
+  slug: ribbit-capital
+  year: 2026
 founded: null
-status_company: active
+founders: []
+investors:
+- round: Series C
+  slug: micky-malka
+  year: 2026
+last_researched: 2026-04-16
+location: San Francisco, CA
+name: Slash
 sector:
 - fintech
 - banking
+slug: slash-fintech
 stage_latest: Series C
-total_raised: $100M+
-firms:
-- slug: khosla-ventures
-  round: series-c
-  year: 2026
-investors: []
-founders: []
 status: published
-last_researched: 2026-04-16
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://www.slash.com
 ---
 
 ## About

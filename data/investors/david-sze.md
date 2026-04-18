@@ -1,23 +1,35 @@
 ---
-name: "David Sze"
-slug: david-sze
-tldr: "Advisory Partner at Greylock since 2000. Portfolio of 16 verified investments skews 44% social/network-effects (Facebook Series D, LinkedIn Series B, Discord, Nextdoor), 31% media/entertainment (Pandora, Roblox). Known for backing winner-takes-all consumer platforms; zero B2B investments. Board member at LinkedIn (12 years), Observer at Facebook (6 years). Consistently on Forbes Midas List."
-type: individual
+check_size: $10M-$50M
 firm: greylock
-role: "Advisory Partner"
-location: "Menlo Park, CA"
-stage_focus: [series-a, series-b, growth]
-sector_focus: [consumer, social, gaming, media, network-effects]
-check_size: "$10M-$50M"
-last_verified_investment:
-  date: 2018
-  company: "Roblox"
-  round: "Series F"
-social:
-  twitter: ""
-  linkedin: "linkedin.com/in/davidsze"
-status: published
 last_researched: 2026-03-20
+last_verified_investment:
+  company: PullString (fka ToyTalk)
+  date: ~2019
+  round: ~2013
+location: Menlo Park, CA
+name: David Sze
+role: Advisory Partner
+sector_focus:
+- consumer
+- social
+- gaming
+- media
+- network-effects
+slug: david-sze
+social:
+  linkedin: linkedin.com/in/davidsze
+  twitter: ''
+stage_focus:
+- series-a
+- series-b
+- growth
+status: published
+tldr: Advisory Partner at Greylock since 2000. Portfolio of 16 verified investments
+  skews 44% social/network-effects (Facebook Series D, LinkedIn Series B, Discord,
+  Nextdoor), 31% media/entertainment (Pandora, Roblox). Known for backing winner-takes-all
+  consumer platforms; zero B2B investments. Board member at LinkedIn (12 years), Observer
+  at Facebook (6 years). Consistently on Forbes Midas List.
+type: individual
 ---
 
 ## Background

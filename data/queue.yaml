@@ -9696,7 +9696,7 @@ queue:
 - name: Kunal Shah
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: shailendra-singh
 - name: Shine Capital
@@ -9944,3 +9944,38 @@ queue:
   firm: Construct Capital
   discovered_from: manual-dc-expansion
   source: Co-founder Construct Capital, ex-Uber senior exec
+- name: Kunal Bahl
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Titan Capital
+  discovered_from: kunal-shah
+- name: Rohit Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Titan Capital
+  discovered_from: kunal-shah
+- name: Anupam Mittal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shaadi.com
+  discovered_from: kunal-shah
+- name: Gaurav Munjal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Unacademy
+  discovered_from: kunal-shah
+- name: Harshil Mathur
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Razorpay
+  discovered_from: kunal-shah
