@@ -58,7 +58,17 @@
     function compRenderDropdown(matches) {
       compActiveIdx = -1;
       if (!matches.length) {
-        compDropdown.style.display = "none";
+        var rawQuery = compInput.value.trim();
+        if (rawQuery.length > 1) {
+          var issueTitle = encodeURIComponent("Suggestion: " + rawQuery);
+          var issueBody = encodeURIComponent("<!-- suggestion -->\nquery: " + rawQuery + "\ntype: startup\nsubmitted: " + new Date().toISOString());
+          var issueUrl = "https://github.com/ericries/seedlist/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=suggestion";
+          compDropdown.innerHTML = '<div class="comp-dropdown-item" style="justify-content:center;">'
+            + '<a href="' + issueUrl + '" target="_blank" class="search-suggest" style="color:var(--color-link);">Suggest we add <strong>' + escHtml(rawQuery) + '</strong> &rarr;</a></div>';
+          compDropdown.style.display = "block";
+        } else {
+          compDropdown.style.display = "none";
+        }
         return;
       }
       var html = "";

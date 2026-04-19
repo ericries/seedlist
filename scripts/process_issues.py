@@ -443,11 +443,86 @@ def process_candidate_issues():
 # Main
 # ---------------------------------------------------------------------------
 
+def process_suggestion_issues():
+    """Process issues labeled 'suggestion' — add to research queue."""
+    try:
+        raw = run_gh([
+            "issue", "list",
+            "--label", "suggestion",
+            "--state", "open",
+            "--json", "number,title,body",
+            "--limit", "20",
+        ])
+    except subprocess.CalledProcessError as e:
+        print(f"  Failed to list suggestion issues: {e}")
+        return
+
+    if not raw:
+        print("  No suggestion issues found.")
+        return
+
+    issues = json.loads(raw)
+    pending_path = DATA / ".pending-queue-adds.yaml"
+    pending = []
+    if pending_path.exists():
+        pending = yaml.safe_load(pending_path.read_text()) or []
+
+    for issue in issues:
+        number = issue["number"]
+        body = issue.get("body", "") or ""
+        print(f"  Processing suggestion #{number}...")
+
+        # Parse query from body
+        query_match = re.search(r"^query:\s*(.+)$", body, re.MULTILINE)
+        type_match = re.search(r"^type:\s*(.+)$", body, re.MULTILINE)
+
+        if not query_match:
+            print(f"    Skipping #{number}: no query field in body")
+            continue
+
+        query = query_match.group(1).strip()
+        entity_type = type_match.group(1).strip() if type_match else "individual"
+
+        # Sanitize: only allow alphanumeric, spaces, hyphens, periods, ampersands
+        query = re.sub(r"[^\w\s\-\.&,']", "", query).strip()
+        if not query or len(query) > 200:
+            print(f"    Skipping #{number}: invalid query")
+            continue
+
+        # Guess type from keywords
+        firm_keywords = ("ventures", "capital", "partners", "fund", "group", "investment")
+        query_lower = query.lower()
+        if any(kw in query_lower for kw in firm_keywords):
+            entity_type = "firm"
+
+        pending.append({
+            "name": query,
+            "type": entity_type,
+            "priority": "normal",
+            "source": f"user suggestion (issue #{number})",
+            "discovered_from": "user-suggestion",
+        })
+
+        # Close the issue
+        try:
+            run_gh(["issue", "close", str(number), "--comment",
+                    f"Added to research queue. Thanks for the suggestion!"])
+            print(f"    Queued and closed #{number}: {query}")
+        except subprocess.CalledProcessError:
+            print(f"    Queued #{number} but failed to close issue")
+
+    if pending:
+        pending_path.write_text(yaml.dump(pending, default_flow_style=False, allow_unicode=True))
+        print(f"  Wrote {len(pending)} items to .pending-queue-adds.yaml")
+
+
 def main():
     print("Processing source submissions...")
     process_source_issues()
     print("Processing CSV candidates...")
     process_candidate_issues()
+    print("Processing suggestions...")
+    process_suggestion_issues()
     print("Done.")
 
 

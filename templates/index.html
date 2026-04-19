@@ -84,7 +84,12 @@ document.addEventListener("DOMContentLoaded", function () {
     }).slice(0, 20);
 
     if (matches.length === 0) {
-      resultsEl.innerHTML = '<div class="search-empty">No results found</div>';
+      const suggestion = encodeURIComponent(this.value.trim());
+      const issueTitle = encodeURIComponent("Suggestion: " + this.value.trim());
+      const issueBody = encodeURIComponent("<!-- suggestion -->\nquery: " + this.value.trim() + "\nsubmitted: " + new Date().toISOString());
+      const issueUrl = "https://github.com/ericries/seedlist/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=suggestion";
+      resultsEl.innerHTML = '<div class="search-empty">No results for <strong>' + this.value.trim().replace(/</g, "&lt;") + '</strong></div>'
+        + '<a class="search-suggest" href="' + issueUrl + '" target="_blank">Suggest we add this &rarr;</a>';
       resultsEl.hidden = false;
       return;
     }

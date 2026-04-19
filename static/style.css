@@ -156,10 +156,21 @@ main { flex: 1; padding: 2.5rem 0; }
 .search-item-sub { font-size: 0.8rem; color: var(--color-muted); margin-top: 0.15rem; }
 
 .search-empty {
-  padding: 1rem;
+  padding: 1rem 1rem 0.25rem;
   text-align: center;
   color: var(--color-muted);
   font-size: 0.9rem;
+}
+.search-suggest {
+  display: block;
+  padding: 0.5rem 1rem 0.75rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--color-link);
+  text-decoration: none;
+}
+.search-suggest:hover {
+  text-decoration: underline;
 }
 
 /* Home cards */
