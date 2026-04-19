@@ -112,6 +112,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Noble Mobile | Seed | 2025 | Mobile | Active [^7] |
 | Uniblock | Seed | 2026 | Web3/Blockchain | Active [^19] |
 | Sage Haven | Pre-Seed | 2026 | Consumer/Kids Safety | Active [^7] |
+| Keebler Health | Series A | 2026 | Healthcare/AI | Active [^27] |
 
 The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
 
@@ -169,3 +170,4 @@ Hustle Fund reports a Net Promoter Score (NPS) of 93 with its portfolio founders
 [^24]: Superscout, "Hustle Fund: The Early Stage Founder's Guide," accessed April 2026. https://superscout.co/investor/hustle-fund
 [^25]: Crunchbase, "Eric Bahn - General Partner & Co-Founder @ Hustle Fund," accessed April 2026. https://www.crunchbase.com/person/eric-bahn
 [^26]: Asian Tech Collective, "Meet Eric Bahn, Founding Partner at the Hustle Fund," accessed April 2026. https://www.asiantechcollective.com/post/meet-eric-bahn-founding-partner-at-the-hustle-fund
+[^27]: BusinessWire, "Keebler Health Raises $16M to Unlock Unstructured Clinical Data," April 15, 2026. https://www.businesswire.com/news/home/20260415896518/en/Keebler-Health-Raises-$16M-to-Unlock-Unstructured-Clinical-Data-for-the-Next-Generation-of-Risk-Adjustment-Population-Health-and-RADV-Audit-Readiness

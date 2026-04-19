@@ -1,4 +1,14 @@
 pending_rounds:
+- title: Keebler Health raised $16M Series A
+  url: https://www.businesswire.com/news/home/20260415896518/en/Keebler-Health-Raises-$16M-to-Unlock-Unstructured-Clinical-Data-for-the-Next-Generation-of-Risk-Adjustment-Population-Health-and-RADV-Audit-Readiness
+  source: web-search
+  date_found: ‘2026-04-19’
+  parsed_company: Keebler Health
+  parsed_amount: $16M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile keebler-health.md; led by Flare Capital Partners
+    with Hustle Fund and others; updated hustle-fund.md portfolio
 - title: New Era Energy & Digital Secures Funding for Development of its Ector County,
     Texas Data Center Campus, Including Exercise of Underwriters’ Option
   url: https://www.globenewswire.com/news-release/2026/04/14/3273905/0/en/New-Era-Energy-Digital-Secures-Funding-for-Development-of-its-Ector-County-Texas-Data-Center-Campus-Including-Exercise-of-Underwriters-Option.html

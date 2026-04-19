@@ -1,1 +1,5 @@
-priority: []
+priority:
+- slug: hustle-fund
+  type: firm
+  reason: "portfolio updated with Keebler Health Series A (2026-04-19)"
+  added: '2026-04-19'
