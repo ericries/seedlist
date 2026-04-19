@@ -157,7 +157,7 @@ def process_source_issues():
             "issue", "list",
             "--label", "source-submission",
             "--state", "open",
-            "--json", "number,title,body",
+            "--json", "number,title,body,labels",
             "--limit", "20",
         ])
     except subprocess.CalledProcessError as e:
@@ -169,12 +169,17 @@ def process_source_issues():
         return
 
     issues = json.loads(raw)
-    allowed = get_allowed_domains()
 
     for issue in issues:
         number = issue["number"]
         body = issue.get("body", "") or ""
+        labels = [l.get("name", "") for l in issue.get("labels", [])]
         print(f"  Processing issue #{number}...")
+
+        # Skip issues already flagged for review (prevents duplicate comments)
+        if "needs-review" in labels:
+            print(f"    Skipping #{number}: already flagged needs-review")
+            continue
 
         # Parse fields from body
         slug_match = re.search(r"^slug:\s*(.+)$", body, re.MULTILINE)
@@ -198,15 +203,6 @@ def process_source_issues():
         if len(url) > 2048:
             label_issue(number, "needs-review")
             close_issue(number, "URL exceeds maximum length of 2048 characters.")
-            continue
-
-        domain = get_base_domain(url)
-        if not domain or domain not in allowed:
-            label_issue(number, "needs-review")
-            run_gh([
-                "issue", "comment", str(number),
-                "--body", f"Domain `{domain}` not on allowlist — flagged for manual review.",
-            ])
             continue
 
         # HEAD request to verify URL is reachable
@@ -472,15 +468,28 @@ def process_suggestion_issues():
         body = issue.get("body", "") or ""
         print(f"  Processing suggestion #{number}...")
 
-        # Parse query from body
+        # Parse query from body — try structured field first, fall back to title
         query_match = re.search(r"^query:\s*(.+)$", body, re.MULTILINE)
         type_match = re.search(r"^type:\s*(.+)$", body, re.MULTILINE)
 
-        if not query_match:
-            print(f"    Skipping #{number}: no query field in body")
+        if query_match:
+            query = query_match.group(1).strip()
+        else:
+            # Fall back to issue title (strip "Suggestion: " prefix)
+            title = issue.get("title", "")
+            query = re.sub(r"^Suggestion:\s*", "", title, flags=re.IGNORECASE).strip()
+            if not query:
+                # Last resort: extract first non-comment, non-metadata line from body
+                for line in body.split("\n"):
+                    line = line.strip()
+                    if line and not line.startswith("<!--") and not line.startswith("submitted:") and not line.startswith("page:"):
+                        query = line
+                        break
+
+        if not query:
+            print(f"    Skipping #{number}: could not extract suggestion")
             continue
 
-        query = query_match.group(1).strip()
         entity_type = type_match.group(1).strip() if type_match else "individual"
 
         # Sanitize: only allow alphanumeric, spaces, hyphens, periods, ampersands

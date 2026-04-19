@@ -1,27 +1,34 @@
 ---
-name: Clasp
-slug: clasp
-type: startup
-website: null
-location: null
+firms:
+- round: series-b
+  slug: crosslink-capital
+  year: 2026
+- round: series-b
+  slug: digitalis-ventures
+  year: 2026
 founded: null
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-03-30
+location: null
+name: Clasp
+pending_sources:
+- added: '2026-04-19'
+  status: queued
+  url: https://ventures.jhu.edu/news/clasp-therapeutics-launches-with-150-million-investment-in-pioneering-precision-immuno-oncology/
+- added: '2026-04-19'
+  status: queued
+  url: https://www.clasptx.com/press-release-publications/clasp-therapeutics-launches-with-150-million-to-pioneer-precision-immuno-oncology-using-next-generation-t-cell-engagers-with-unparalleled-specificity-ymmx7
 sector:
 - healthcare
 - hr-tech
+slug: clasp
 stage_latest: Series B
-total_raised: $20M
-investors: []
-firms:
-- slug: crosslink-capital
-  round: series-b
-  year: 2026
-- slug: digitalis-ventures
-  round: series-b
-  year: 2026
-founders: []
 status: published
-last_researched: 2026-03-30
+status_company: active
+total_raised: $20M
+type: startup
+website: null
 ---
 
 ## About
