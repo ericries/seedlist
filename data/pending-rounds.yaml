@@ -37,7 +37,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: trend article about fusion energy funding market, not a specific startup
+    round
 - title: Sage Haven raised $3M pre-seed
   url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
   source: web-search
