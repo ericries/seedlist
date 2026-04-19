@@ -938,13 +938,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: roundup/summary article about Asia funding trends
-- title: 'The Weekly Notable Startup Funding Report: 4/13/26'
-  url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-13-26/
-  source: alleywatch
-  date_found: '2026-04-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted new deals HeyDonto $20M seed, SimpliFed $10.8M Series A, Poke $10M
-    seed extension; most other deals already had profiles

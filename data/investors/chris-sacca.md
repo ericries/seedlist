@@ -3,9 +3,9 @@ check_size: $25K-$100K
 firm: lowercase-capital
 last_researched: 2026-03-17
 last_verified_investment:
-  company: Toymail
-  date: 2017
-  round: Shark Tank deal
+  company: Nurx
+  date: ~2018
+  round: Series B
 location: Jackson, Wyoming
 name: Chris Sacca
 role: Founder & Chairman
@@ -96,19 +96,19 @@ Based on 22 verified investments. This represents approximately 28% of the ~80 c
 | Instagram | 2011 | Series A | [^15] |
 | Docker (dotCloud) | 2011 | Seed | [^13] |
 | Stripe | ~2011 | Early stage | [^1] [^3] |
-| Automattic (WordPress) | ~2011 | Unknown | [^1] |
+| Automattic (WordPress) | 2014 | Series C | [^1] [^23] [^24] |
 | Medium | ~2012 | Early stage | [^1] |
-| Lookout | ~2012 | Unknown | [^1] |
-| Blue Bottle Coffee | ~2014 | Unknown | [^18] |
+| Lookout | ~2012 | Unresolved | [^1] |
+| Blue Bottle Coffee | 2014 | Series B | [^18] [^18] |
 | Gimlet Media | 2014 | Seed | [^11] |
-| Veggie Grill | ~2014 | Unknown | [^18] |
+| Veggie Grill | ~2014 | Unresolved | [^18] [^25] |
 | Mark43 | ~2015 | Seed | [^19] |
 | MakeSpace | ~2015 | Seed | [^19] |
-| Tala | ~2015 | Unknown | [^1] |
-| Nurx | ~2016 | Unknown | [^1] |
+| Tala | 2013 | Seed | [^1] [^26] |
+| Nurx | 2018 | Series B | [^27] [^28] |
 | Hatch Baby | ~2017 | Shark Tank deal | [^1] |
 | Toymail | 2017 | Shark Tank deal | [^20] |
-| Nuzzel | ~2013 | Unknown | [^1] |
+| Nuzzel | 2014 | Seed (second seed) | [^1] [^29] |
 
 *Note: Years marked with ~ are approximate, based on company founding dates or portfolio context when exact investment dates could not be independently verified. Investments in Twitter via the secondary-market fund (separate ~$1B vehicle) are excluded from this table except for the original 2006 angel investment.*
 
@@ -182,3 +182,10 @@ No other independently sourced founder testimonials were found during this resea
 [^20]: "Chris Sacca Shark Tank investments," Shark Tank Shopper, accessed March 2026. https://sharktankshopper.com/product-category/sharks/chris-sacca/
 [^21]: "Chris Sacca — How to Succeed by Living on Your Own Terms and Getting into Good Trouble (#790)," The Tim Ferriss Show, January 23, 2025, podcast notes accessed March 2026. https://podcastnotes.org/tim-ferris-show/chris-sacca-how-to-succeed-by-living-on-your-own-terms-tim-ferriss-show-790/
 [^22]: "Chris Sacca of Lowercase Capital," This Week in Startups #291, accessed March 2026. https://dexa.ai/thisweekinstartups/d/7566c04e-8cbb-11ee-9676-0bc3a1948802?t=3-Investment+Strategies
+[^23]: "New Funding for Automattic," Matt Mullenweg blog, May 5, 2014, accessed April 2026. Names Chris Sacca as a new investor in the $160M Series C round. https://ma.tt/2014/05/new-funding-for-automattic/
+[^24]: "Automattic Raises $160M To Catch Up With The Web's Evolution," TechCrunch, May 5, 2014, accessed April 2026. https://techcrunch.com/2014/05/05/automattic-raises-160m-to-catch-up-with-the-webs-evolution/
+[^25]: "Crystal English Sacca," Lowercase Capital, accessed April 2026. States Crystal co-led Lowercase investments including Uber and Blue Bottle; the Chris Sacca Wikipedia page and Lowercarbon bio cite Veggie Grill as another Crystal-led Lowercase deal. No primary source identifies the specific round/series in which Lowercase participated. https://lowercasecapital.com/crystal-english-sacca/
+[^26]: "Shivani Siroya: Credit Where Credit is Due," CSQ, March 2016, accessed April 2026. States Chris Sacca and Lowercase Capital led Tala (then InVenture)'s seed round in 2013. https://csq.com/2016/03/shivani-siroya-credit-credit-due/
+[^27]: "Nurx raises $36 million and adds Chelsea Clinton to its board of directors," TechCrunch, July 11, 2018, accessed April 2026. Nurx Series B led by Kleiner Perkins, with Union Square Ventures, Y Combinator, and Lowercase Capital participating. https://techcrunch.com/2018/07/11/nurx-raises-36-million-and-adds-chelsea-clinton-to-its-board-of-directors/
+[^28]: "Series B - Nurx - 2018-07-11," Crunchbase funding round profile, accessed April 2026. https://www.crunchbase.com/funding_round/nurx-series-b--b3146ddf
+[^29]: "Nuzzel, the hot social news discovery startup, grabs another $1.7M," VentureBeat, June 2014, accessed April 2026. Names Chris Sacca and Matt Mazzeo of Lowercase Capital as participants in Nuzzel's second seed round. https://venturebeat.com/entrepreneur/nuzzel-funding-2/

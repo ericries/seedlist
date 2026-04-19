@@ -91,20 +91,20 @@ Note: Each company is counted once in its primary category. Companies spanning m
 | Linear | 2020 | Series A | Developer Tools | [^14] |
 | Terraform Industries | 2021 | Seed | Clean Energy | [^10] |
 | Entrepreneurs First | 2022 | Series C | Talent Platform | [^7] |
-| Conjecture | 2022 | — | AI Research | [^10] |
+| Conjecture | 2022 | Seed | AI Research | [^10][^17] |
 | Rain | 2023 | Seed | Autonomous Drones | [^10] |
-| Matic | 2023 | — | Home Robotics | [^10] |
+| Matic | 2023-11-02 | Series A | Home Robotics | [^10][^18][^19] |
 | Anysphere (Cursor) | ~2024 | Seed | AI/Developer Tools | [^7] |
-| Cognition | ~2024 | — | AI | [^7] |
+| Cognition | 2024-03-12 | Series A | AI | [^7][^20] |
 | Cortex | 2024 | Series C | Developer Tools | [^11] |
 | The Bot Company | ~2024 | — | Robotics | [^7] |
-| NewLimit | ~2024 | — | Biotech/Longevity | [^7] |
-| Meter | ~2023 | — | Network Infrastructure | [^7] |
+| NewLimit | 2025-05-06 | Series B | Biotech/Longevity | [^21][^22] |
+| Meter | 2022-05-23 | Series B | Network Infrastructure | [^7][^23] |
 | TruckSmarter | ~2023 | — | Trucking/Logistics | [^7] |
-| Fundamental Research Labs | ~2024 | — | Research | [^7] |
+| Fundamental Research Labs | 2025-08-01 | Series A | Research | [^7][^24] |
 | MatX | 2026 | Series B | AI Hardware | [^15] |
 
-*This table represents approximately 19 of 50+ reported investments. Many investments were made jointly with John Collison. Years marked with ~ are approximate based on company funding timelines when exact Collison participation dates could not be independently confirmed.*
+*This table represents approximately 19 of 50+ reported investments. Many investments were made jointly with John Collison. Years marked with ~ are approximate based on company funding timelines when exact Collison participation dates could not be independently confirmed. TruckSmarter round type could not be resolved — Collison participation is reported by aggregator sources [^7] but is not confirmed in any primary round announcement, so the specific round cannot be identified.*
 
 ## In Their Own Words
 
@@ -150,3 +150,11 @@ No independently sourced founder testimonials specific to Patrick Collison's rol
 [^14]: Linear, "Linear raises $13M in Series A funding from Sequoia Capital," December 8, 2020, accessed March 2026. https://linear.app/now/linear-raises-usd13m-in-series-a-funding-from-sequoia-capital
 [^15]: Tracxn, "Patrick Collison — 2026 Portfolio & Founded Companies," accessed March 2026. https://tracxn.com/d/people/patrick-collison/__83QiDoObVTFrSQVpix6oRuTx57ZKGQsuzvkePg2gAiE
 [^16]: Startup Grind, "Startup Grind Hosts Patrick Collison of Stripe, 6 Months In — Full Interview," 2012, accessed March 2026. https://www.startupgrind.com/blog/from-the-vault-patrick-collison-stripe-full-startup-grind-interview-2012/
+[^17]: LessWrong / Alignment Forum, "We Are Conjecture, A New Alignment Research Startup," April 8, 2022, accessed April 2026. https://www.lesswrong.com/posts/jfq2BH5kfQqu2vYv3/we-are-conjecture-a-new-alignment-research-startup
+[^18]: Matic Robots Blog, "Matic comes out of stealth with $30M in funding to launch fully autonomous indoor robots," November 2, 2023, accessed April 2026. https://maticrobots.com/blog/matic-comes-out-of-stealth-with-30m-in-funding
+[^19]: Sacra, "Matic funding, news & analysis," accessed April 2026. https://sacra.com/c/matic/
+[^20]: Crunchbase, "Series A — Cognition," March 12, 2024, accessed April 2026. https://www.crunchbase.com/funding_round/cognition-5bd7-series-a--b1a3ceba
+[^21]: NewLimit Blog, "NewLimit raises $130 million Series B led by Kleiner Perkins alongside NFDG, Khosla Ventures, Human Capital and others," May 6, 2025, accessed April 2026. https://blog.newlimit.com/p/newlimit-raises-130-million-series
+[^22]: TechCrunch, "NewLimit, founded by Coinbase CEO Brian Armstrong, raises $130M to develop age-reversing treatments," May 6, 2025, accessed April 2026. https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstrong-raises-130m-to-develop-age-reversing-therapies/
+[^23]: Meter Newsroom, "Meter Secures $38M Series B led by Sequoia and Lachy Groom to turn internet infrastructure into a utility," May 23, 2022, accessed April 2026. https://www.meter.com/newsroom/series-b
+[^24]: TechCrunch, "Fundamental Research Labs nabs $30M+ to build AI agents across verticals," August 1, 2025, accessed April 2026. https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/
