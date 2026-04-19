@@ -61,7 +61,16 @@
         var rawQuery = compInput.value.trim();
         if (rawQuery.length > 1) {
           var issueTitle = encodeURIComponent("Suggestion: " + rawQuery);
-          var issueBody = encodeURIComponent("<!-- suggestion -->\nquery: " + rawQuery + "\ntype: startup\nsubmitted: " + new Date().toISOString());
+          var issueBody = encodeURIComponent(
+            "<!-- suggestion -->\n" +
+            "query: " + rawQuery + "\n" +
+            "type: startup\n" +
+            "submitted: " + new Date().toISOString() + "\n" +
+            "page: " + window.location.href + "\n\n" +
+            "**What does this company do?**\n\n\n" +
+            "**Link** (website, Crunchbase, etc.)\n\n\n" +
+            "**Why is it relevant?** (e.g. comparable to your startup, raised a round recently)\n\n"
+          );
           var issueUrl = "https://github.com/ericries/seedlist/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=suggestion";
           compDropdown.innerHTML = '<div class="comp-dropdown-item" style="justify-content:center;">'
             + '<a href="' + issueUrl + '" target="_blank" class="search-suggest" style="color:var(--color-link);">Suggest we add <strong>' + escHtml(rawQuery) + '</strong> &rarr;</a></div>';

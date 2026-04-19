@@ -219,7 +219,15 @@
       var stage = document.getElementById("find-stage").value || "any";
       var suggestionQuery = stage + " investor in " + sectors;
       var issueTitle = encodeURIComponent("Suggestion: " + suggestionQuery);
-      var issueBody = encodeURIComponent("<!-- suggestion -->\nquery: " + suggestionQuery + "\nsubmitted: " + new Date().toISOString());
+      var issueBody = encodeURIComponent(
+        "<!-- suggestion -->\n" +
+        "query: " + suggestionQuery + "\n" +
+        "submitted: " + new Date().toISOString() + "\n" +
+        "page: " + window.location.href + "\n\n" +
+        "**Know a specific investor or firm?** (name + firm)\n\n\n" +
+        "**Link** (website, Crunchbase, LinkedIn, etc.)\n\n\n" +
+        "**Any other context?** (e.g. what they invest in, how you found them)\n\n"
+      );
       var issueUrl = "https://github.com/ericries/seedlist/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=suggestion";
       summaryEl.innerHTML = '<h2>No matching investors found</h2><p>Try broadening your criteria — select more sectors or a different stage.</p>'
         + '<p><a href="' + issueUrl + '" target="_blank" class="search-suggest">Suggest we add coverage for this &rarr;</a></p>';

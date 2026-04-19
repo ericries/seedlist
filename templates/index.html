@@ -84,11 +84,20 @@ document.addEventListener("DOMContentLoaded", function () {
     }).slice(0, 20);
 
     if (matches.length === 0) {
-      const suggestion = encodeURIComponent(this.value.trim());
-      const issueTitle = encodeURIComponent("Suggestion: " + this.value.trim());
-      const issueBody = encodeURIComponent("<!-- suggestion -->\nquery: " + this.value.trim() + "\nsubmitted: " + new Date().toISOString());
+      const raw = this.value.trim();
+      const safe = raw.replace(/</g, "&lt;");
+      const issueTitle = encodeURIComponent("Suggestion: " + raw);
+      const issueBody = encodeURIComponent(
+        "<!-- suggestion -->\n" +
+        "query: " + raw + "\n" +
+        "submitted: " + new Date().toISOString() + "\n" +
+        "page: " + window.location.href + "\n\n" +
+        "**What is this?** (investor, firm, startup, sector, etc.)\n\n\n" +
+        "**Link** (website, Crunchbase, LinkedIn, etc.)\n\n\n" +
+        "**Any other context?** (e.g. why you're interested, what they invest in)\n\n"
+      );
       const issueUrl = "https://github.com/ericries/seedlist/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=suggestion";
-      resultsEl.innerHTML = '<div class="search-empty">No results for <strong>' + this.value.trim().replace(/</g, "&lt;") + '</strong></div>'
+      resultsEl.innerHTML = '<div class="search-empty">No results for <strong>' + safe + '</strong></div>'
         + '<a class="search-suggest" href="' + issueUrl + '" target="_blank">Suggest we add this &rarr;</a>';
       resultsEl.hidden = false;
       return;
