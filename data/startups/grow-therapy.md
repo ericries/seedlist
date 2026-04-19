@@ -31,6 +31,8 @@ investors:
 - round: Series C (Growth)
   slug: pat-grady
   year: 2024
+- round: Growth
+  slug: matt-murphy
 last_researched: 2026-03-24
 location: New York, New York
 name: Grow Therapy

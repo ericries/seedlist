@@ -9786,7 +9786,7 @@ queue:
 - name: Sarah Catanzaro
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Amplify Partners
   discovered_from: sunil-dhaliwal
@@ -9843,7 +9843,7 @@ queue:
 - name: Nasir Qadree
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Zeal Capital Partners
   discovered_from: manual-dc-expansion
@@ -10030,3 +10030,37 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: lenny-pruss
+- name: Chase Koch
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Koch Disruptive Technologies
+  discovered_from: koch-disruptive-technologies
+- name: Byron Knight
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Koch Disruptive Technologies
+  discovered_from: koch-disruptive-technologies
+- name: Michael Dempsey
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Compound Ventures
+  discovered_from: sarah-catanzaro
+- name: Compound Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-catanzaro
+- name: Stefanie Thomas-Martin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Zeal Capital Partners
+  discovered_from: nasir-qadree
