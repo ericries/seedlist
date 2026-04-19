@@ -1217,7 +1217,7 @@ def build():
     (OUTPUT_DIR / "investors" / "index.html").write_text(html)
 
     # Investor clusters / groups page
-    all_groups = curated_collections  # single unified list
+    all_groups = curated_collections or clusters_list
     if all_groups:
         clusters_template = env.get_template("clusters.html")
         html = clusters_template.render(
