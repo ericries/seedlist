@@ -934,8 +934,7 @@ queue:
   added: 2026-03-13
 - name: Andreessen Horowitz
   type: firm
-  source: 'co-investor in 12 startups: Okta, Airbnb, Stripe, Slack, Pinterest, Coinbase,
-    Lyft, Instacart, Figma, Databricks, OpenAI, Anthropic'
+  source: 'co-investor in 12 startups: Okta, Airbnb, Stripe, Slack, Pinterest, Coinbase, Lyft, Instacart, Figma, Databricks, OpenAI, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -943,8 +942,7 @@ queue:
   added: 2026-03-13
 - name: Sequoia Capital
   type: firm
-  source: 'co-investor in 11 startups: Okta, Google, Airbnb, Stripe, DoorDash, Instacart,
-    Square, Figma, Snapchat, Databricks, OpenAI'
+  source: 'co-investor in 11 startups: Okta, Google, Airbnb, Stripe, DoorDash, Instacart, Square, Figma, Snapchat, Databricks, OpenAI'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -952,8 +950,7 @@ queue:
   added: 2026-03-13
 - name: Kleiner Perkins
   type: firm
-  source: 'co-investor in 8 startups: Twitter, Airbnb, DoorDash, Instacart, Square,
-    Figma, Snapchat, Slack'
+  source: 'co-investor in 8 startups: Twitter, Airbnb, DoorDash, Instacart, Square, Figma, Snapchat, Slack'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -961,8 +958,7 @@ queue:
   added: 2026-03-13
 - name: Coatue Management
   type: firm
-  source: 'co-investor in 8 startups: DoorDash, Instacart, Figma, Snapchat, Databricks,
-    OpenAI, Anthropic, Stripe'
+  source: 'co-investor in 8 startups: DoorDash, Instacart, Figma, Snapchat, Databricks, OpenAI, Anthropic, Stripe'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -970,8 +966,7 @@ queue:
   added: 2026-03-13
 - name: Thrive Capital
   type: firm
-  source: 'co-investor in 7 startups: Twitch, Instacart, Stripe, Figma, Slack, OpenAI,
-    Databricks'
+  source: 'co-investor in 7 startups: Twitch, Instacart, Stripe, Figma, Slack, OpenAI, Databricks'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -995,8 +990,7 @@ queue:
   added: 2026-03-13
 - name: DST Global
   type: firm
-  source: 'co-investor in 6 startups: Twitter, Airbnb, Facebook, DoorDash, Instacart,
-    Databricks'
+  source: 'co-investor in 6 startups: Twitter, Airbnb, Facebook, DoorDash, Instacart, Databricks'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1004,8 +998,7 @@ queue:
   added: 2026-03-13
 - name: Tiger Global Management
   type: firm
-  source: 'co-investor in 6 startups: Airbnb, Square, Coinbase, Instacart, Databricks,
-    OpenAI'
+  source: 'co-investor in 6 startups: Airbnb, Square, Coinbase, Instacart, Databricks, OpenAI'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1013,8 +1006,7 @@ queue:
   added: 2026-03-13
 - name: General Catalyst
   type: firm
-  source: 'co-investor in 6 startups: Airbnb, Stripe, Snapchat, Instacart, Figma,
-    Anthropic'
+  source: 'co-investor in 6 startups: Airbnb, Stripe, Snapchat, Instacart, Figma, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1022,8 +1014,7 @@ queue:
   added: 2026-03-13
 - name: Dragoneer Investment Group
   type: firm
-  source: 'co-investor in 6 startups: Airbnb, DoorDash, Slack, Databricks, OpenAI,
-    Anthropic'
+  source: 'co-investor in 6 startups: Airbnb, DoorDash, Slack, Databricks, OpenAI, Anthropic'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1263,8 +1254,7 @@ queue:
   status: pending
   added: 2026-03-13
 - name: Peter Thiel
-  source: 'co-investor in 4 startups: PayPal, Facebook, Stripe, OpenAI. Founder of
-    Founders Fund.'
+  source: 'co-investor in 4 startups: PayPal, Facebook, Stripe, OpenAI. Founder of Founders Fund.'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: high
@@ -1278,8 +1268,7 @@ queue:
   status: pending
   added: 2026-03-13
 - name: Reid Hoffman
-  source: 'co-investor in 2 startups: Facebook, OpenAI. LinkedIn co-founder, Greylock
-    partner.'
+  source: 'co-investor in 2 startups: Facebook, OpenAI. LinkedIn co-founder, Greylock partner.'
   discovered_from: wave-1-startups
   discovery_depth: 2
   priority: normal
@@ -1315,8 +1304,7 @@ queue:
 - name: Scott Shleifer
   type: individual
   firm: tiger-global
-  source: Tiger Global Management team/leadership - Partner (former Head of Private
-    Investments, now advisory)
+  source: Tiger Global Management team/leadership - Partner (former Head of Private Investments, now advisory)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: low
@@ -1415,8 +1403,7 @@ queue:
 - name: John Curtius
   type: individual
   firm: cedar-capital-group
-  source: Tiger Global Management - former Partner (departed 2022, founded Cedar Capital
-    Group)
+  source: Tiger Global Management - former Partner (departed 2022, founded Cedar Capital Group)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: normal
@@ -1425,8 +1412,7 @@ queue:
 - name: Lee Fixel
   type: individual
   firm: addition
-  source: Tiger Global Management - former Partner, Head of Private Equity (departed
-    2019, founded Addition)
+  source: Tiger Global Management - former Partner, Head of Private Equity (departed 2019, founded Addition)
   discovered_from: tiger-global
   discovery_depth: 2
   priority: normal
@@ -1643,8 +1629,7 @@ queue:
 - name: Sydney Thomas
   type: individual
   firm: precursor-ventures
-  source: former associate at Precursor Ventures, discovered from charles-hudson profile
-    research
+  source: former associate at Precursor Ventures, discovered from charles-hudson profile research
   discovered_from: charles-hudson
   discovery_depth: 3
   priority: low
@@ -1653,8 +1638,7 @@ queue:
 - name: Ashtan Jordan
   type: individual
   firm: precursor-ventures
-  source: principal at Precursor Ventures, discovered from charles-hudson profile
-    research
+  source: principal at Precursor Ventures, discovered from charles-hudson profile research
   discovered_from: charles-hudson
   discovery_depth: 3
   priority: low
@@ -1663,8 +1647,7 @@ queue:
 - name: Marina Girgis
   type: individual
   firm: precursor-ventures
-  source: principal at Precursor Ventures, discovered from charles-hudson profile
-    research
+  source: principal at Precursor Ventures, discovered from charles-hudson profile research
   discovered_from: charles-hudson
   discovery_depth: 3
   priority: low
@@ -1696,8 +1679,7 @@ queue:
   added: 2026-03-14
 - name: Instagram
   type: startup
-  source: portfolio company of steve-anderson (first seed investor, acquired by Facebook
-    for $1B)
+  source: portfolio company of steve-anderson (first seed investor, acquired by Facebook for $1B)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: high
@@ -1729,8 +1711,7 @@ queue:
   added: 2026-03-14
 - name: Heroku
   type: startup
-  source: portfolio company of steve-anderson (seed investor, acquired by Salesforce
-    2011)
+  source: portfolio company of steve-anderson (seed investor, acquired by Salesforce 2011)
   discovered_from: steve-anderson
   discovery_depth: 1
   priority: normal
@@ -1897,8 +1878,7 @@ queue:
 - name: Josh Kopelman
   type: individual
   firm: First Round Capital
-  source: seed investor in Uber, Square, Notion, Flatiron Health; Forbes Midas List;
-    co-founder First Round Capital
+  source: seed investor in Uber, Square, Notion, Flatiron Health; Forbes Midas List; co-founder First Round Capital
   priority: high
   status: completed
   added: 2026-03-14
@@ -1912,8 +1892,7 @@ queue:
 - name: Howard Morgan
   type: individual
   firm: First Round Capital
-  source: co-founder of First Round Capital with Josh Kopelman, also co-founded B
-    Capital
+  source: co-founder of First Round Capital with Josh Kopelman, also co-founded B Capital
   discovered_from: josh-kopelman
   discovery_depth: 1
   priority: high
@@ -1976,8 +1955,7 @@ queue:
 - name: Pat Grady
   type: individual
   firm: Sequoia Capital
-  source: Co-Steward of Sequoia Capital, led investments in Snowflake, Zoom, Okta,
-    OpenAI
+  source: Co-Steward of Sequoia Capital, led investments in Snowflake, Zoom, Okta, OpenAI
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
@@ -1986,8 +1964,7 @@ queue:
 - name: Roelof Botha
   type: individual
   firm: Sequoia Capital
-  source: Partner at Sequoia Capital, former steward (2017-2025), backed YouTube,
-    Instagram, Block
+  source: Partner at Sequoia Capital, former steward (2017-2025), backed YouTube, Instagram, Block
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
@@ -2041,8 +2018,7 @@ queue:
 - name: Jess Lee
   type: individual
   firm: Sequoia Capital
-  source: Partner at Sequoia Capital, first female investing partner in firm history
-    (2016)
+  source: Partner at Sequoia Capital, first female investing partner in firm history (2016)
   discovered_from: sequoia-capital
   discovery_depth: 3
   priority: normal
@@ -2087,8 +2063,7 @@ queue:
 - name: David Cancel
   type: individual
   firm: drift
-  source: co-founder of Drift with Elias Torres; prolific angel investor in Boston
-    SaaS ecosystem
+  source: co-founder of Drift with Elias Torres; prolific angel investor in Boston SaaS ecosystem
   discovered_from: elias-torres
   discovery_depth: 2
   priority: high
@@ -2096,8 +2071,7 @@ queue:
   added: 2026-03-14
 - name: The Community Fund
   type: firm
-  source: early-stage fund where Elias Torres is a Partner; $5M fund investing in
-    community-driven companies
+  source: early-stage fund where Elias Torres is a Partner; $5M fund investing in community-driven companies
   discovered_from: elias-torres
   discovery_depth: 2
   priority: normal
@@ -2105,8 +2079,7 @@ queue:
   added: 2026-03-14
 - name: UpWest
   type: firm
-  source: firm co-founded by Gil Ben-Artzy and Shuly Galili, Israel-US cross-border
-    seed fund
+  source: firm co-founded by Gil Ben-Artzy and Shuly Galili, Israel-US cross-border seed fund
   discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: high
@@ -2140,8 +2113,7 @@ queue:
   added: 2026-03-14
 - name: Stampli
   type: startup
-  source: UpWest portfolio company (first check 2016), AP automation fintech, raised
-    $50M+
+  source: UpWest portfolio company (first check 2016), AP automation fintech, raised $50M+
   discovered_from: gil-ben-artzy
   discovery_depth: 2
   priority: normal
@@ -2165,8 +2137,7 @@ queue:
   added: 2026-03-14
 - name: B Capital Group
   type: firm
-  source: firm co-founded by Eduardo Saverin, where Howard Morgan serves as Chairman
-    & GP
+  source: firm co-founded by Eduardo Saverin, where Howard Morgan serves as Chairman & GP
   discovered_from: howard-morgan
   discovery_depth: 2
   priority: normal
@@ -2175,8 +2146,7 @@ queue:
 - name: Eduardo Saverin
   type: individual
   firm: B Capital Group
-  source: co-founder of B Capital Group with Raj Ganguly, Facebook co-founder turned
-    VC
+  source: co-founder of B Capital Group with Raj Ganguly, Facebook co-founder turned VC
   discovered_from: howard-morgan
   discovery_depth: 2
   priority: normal
@@ -2202,8 +2172,7 @@ queue:
   added: 2026-03-14
 - name: Idealab
   type: firm
-  source: longest-running tech incubator, co-founded by Bill Gross with Howard Morgan
-    as first outside investor
+  source: longest-running tech incubator, co-founded by Bill Gross with Howard Morgan as first outside investor
   discovered_from: howard-morgan
   discovery_depth: 2
   priority: normal
@@ -2349,8 +2318,7 @@ queue:
   added: 2026-03-15
 - name: Bowery Farming
   type: startup
-  source: portfolio company of rob-hayes (led seed round, board member), First Round
-    Capital led $7.5M seed
+  source: portfolio company of rob-hayes (led seed round, board member), First Round Capital led $7.5M seed
   discovered_from: rob-hayes
   discovery_depth: 2
   priority: normal
@@ -2358,8 +2326,7 @@ queue:
   added: 2026-03-15
 - name: eero
   type: startup
-  source: portfolio company of rob-hayes (led seed, board member), acquired by Amazon
-    2019
+  source: portfolio company of rob-hayes (led seed, board member), acquired by Amazon 2019
   discovered_from: rob-hayes
   discovery_depth: 2
   priority: normal
@@ -2367,8 +2334,7 @@ queue:
   added: 2026-03-15
 - name: Planet Labs
   type: startup
-  source: portfolio company of rob-hayes (led seed round), satellite imaging, IPO
-    via SPAC 2021
+  source: portfolio company of rob-hayes (led seed round), satellite imaging, IPO via SPAC 2021
   discovered_from: rob-hayes
   discovery_depth: 2
   priority: normal
@@ -2420,8 +2386,7 @@ queue:
 - name: Girish Mathrubootham
   type: individual
   firm: together-fund
-  source: Freshworks founder/CEO, now investor at Together Fund; Lee Fixel portfolio
-    founder
+  source: Freshworks founder/CEO, now investor at Together Fund; Lee Fixel portfolio founder
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
@@ -2429,8 +2394,7 @@ queue:
   added: 2026-03-15
 - name: Flipkart
   type: startup
-  source: Tiger Global/Lee Fixel flagship investment; $16B Walmart acquisition 2018;
-    co-investors include Accel, SoftBank, Naspers
+  source: Tiger Global/Lee Fixel flagship investment; $16B Walmart acquisition 2018; co-investors include Accel, SoftBank, Naspers
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: high
@@ -2438,8 +2402,7 @@ queue:
   added: 2026-03-15
 - name: Snyk
   type: startup
-  source: Addition led $200M Series D (2020); cybersecurity developer tools; co-investors
-    Accel, Tiger Global, Coatue, GV
+  source: Addition led $200M Series D (2020); cybersecurity developer tools; co-investors Accel, Tiger Global, Coatue, GV
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
@@ -2447,8 +2410,7 @@ queue:
   added: 2026-03-15
 - name: Base Power
   type: startup
-  source: Addition co-led $200M Series B and $1B Series C (2025); energy/battery;
-    co-investors a16z, Lightspeed, Valor
+  source: Addition co-led $200M Series B and $1B Series C (2025); energy/battery; co-investors a16z, Lightspeed, Valor
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
@@ -2456,8 +2418,7 @@ queue:
   added: 2026-03-15
 - name: Chronosphere
   type: startup
-  source: Addition portfolio; acquired by Palo Alto Networks for $3.35B (2025); co-investors
-    Greylock, General Atlantic
+  source: Addition portfolio; acquired by Palo Alto Networks for $3.35B (2025); co-investors Greylock, General Atlantic
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
@@ -2465,8 +2426,7 @@ queue:
   added: 2026-03-15
 - name: dLocal
   type: startup
-  source: Addition portfolio; IPO at $6B (2021); Uruguay fintech; co-investors General
-    Atlantic
+  source: Addition portfolio; IPO at $6B (2021); Uruguay fintech; co-investors General Atlantic
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
@@ -2474,8 +2434,7 @@ queue:
   added: 2026-03-15
 - name: Roblox
   type: startup
-  source: Chris Fralic led First Round's seed investment; IPO March 2021 at $41B market
-    cap; First Round owned 6.8%
+  source: Chris Fralic led First Round's seed investment; IPO March 2021 at $41B market cap; First Round owned 6.8%
   discovered_from: chris-fralic
   discovery_depth: 2
   priority: high
@@ -2483,8 +2442,7 @@ queue:
   added: 2026-03-15
 - name: Ring
   type: startup
-  source: Chris Fralic led First Round's seed investment; acquired by Amazon for ~$1B
-    in 2018
+  source: Chris Fralic led First Round's seed investment; acquired by Amazon for ~$1B in 2018
   discovered_from: chris-fralic
   discovery_depth: 2
   priority: normal
@@ -2517,8 +2475,7 @@ queue:
 - name: Jamie Siminoff
   type: individual
   firm: Ring
-  source: Founder/CEO of Ring; Chris Fralic invested via First Round; Ring acquired
-    by Amazon for ~$1B
+  source: Founder/CEO of Ring; Chris Fralic invested via First Round; Ring acquired by Amazon for ~$1B
   discovered_from: chris-fralic
   discovery_depth: 2
   priority: low
@@ -2554,8 +2511,7 @@ queue:
 - name: Chang Wen Lai
   type: individual
   firm: Ninja Van
-  source: CEO and Co-Founder of Ninja Van; B Capital portfolio company; board member
-    Eduardo Saverin
+  source: CEO and Co-Founder of Ninja Van; B Capital portfolio company; board member Eduardo Saverin
   discovered_from: eduardo-saverin
   discovery_depth: 3
   priority: low
@@ -2563,8 +2519,7 @@ queue:
   added: 2026-03-15
 - name: Ninja Van
   type: startup
-  source: B Capital early portfolio company; SE Asia logistics unicorn; investors
-    include B Capital, Eduardo Saverin (board)
+  source: B Capital early portfolio company; SE Asia logistics unicorn; investors include B Capital, Eduardo Saverin (board)
   discovered_from: eduardo-saverin
   discovery_depth: 3
   priority: low
@@ -2572,8 +2527,7 @@ queue:
   added: 2026-03-15
 - name: Icertis
   type: startup
-  source: B Capital portfolio since 2017; contract intelligence platform; investors
-    include B Capital
+  source: B Capital portfolio since 2017; contract intelligence platform; investors include B Capital
   discovered_from: eduardo-saverin
   discovery_depth: 3
   priority: low
@@ -2581,8 +2535,7 @@ queue:
   added: 2026-03-15
 - name: Chainalysis
   type: startup
-  source: Crypto compliance platform; Benchmark led Series A ($16M, 2018); Sarah Tavel
-    board seat
+  source: Crypto compliance platform; Benchmark led Series A ($16M, 2018); Sarah Tavel board seat
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: normal
@@ -2590,8 +2543,7 @@ queue:
   added: 2026-03-15
 - name: Hipcamp
   type: startup
-  source: Camping marketplace; Benchmark led seed (2018), a16z led follow-on; Sarah
-    Tavel board seat
+  source: Camping marketplace; Benchmark led seed (2018), a16z led follow-on; Sarah Tavel board seat
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: normal
@@ -2599,8 +2551,7 @@ queue:
   added: 2026-03-15
 - name: Cambly
   type: startup
-  source: English language tutoring marketplace; Benchmark Series A; Sarah Tavel board
-    seat
+  source: English language tutoring marketplace; Benchmark Series A; Sarah Tavel board seat
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: low
@@ -2608,8 +2559,7 @@ queue:
   added: 2026-03-15
 - name: 11x
   type: startup
-  source: AI digital workers for sales; Benchmark led Series A ($24M, 2024); Sarah
-    Tavel board seat
+  source: AI digital workers for sales; Benchmark led Series A ($24M, 2024); Sarah Tavel board seat
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: low
@@ -2617,8 +2567,7 @@ queue:
   added: 2026-03-15
 - name: Agentio
   type: startup
-  source: YouTube creator ad marketplace; Benchmark led Series A ($12M, 2024); Sarah
-    Tavel board seat
+  source: YouTube creator ad marketplace; Benchmark led Series A ($12M, 2024); Sarah Tavel board seat
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: low
@@ -2627,8 +2576,7 @@ queue:
 - name: Katie Haun
   type: individual
   firm: haun-ventures
-  source: Former federal prosecutor turned VC; introduced Sarah Tavel to Chainalysis;
-    founded Haun Ventures
+  source: Former federal prosecutor turned VC; introduced Sarah Tavel to Chainalysis; founded Haun Ventures
   discovered_from: sarah-tavel
   discovery_depth: 3
   priority: normal
@@ -2636,8 +2584,7 @@ queue:
   added: 2026-03-15
 - name: Overture/GoTo.com
   type: startup
-  source: founded by Bill Gross at Idealab 1998, invented paid search/CPC model, acquired
-    by Yahoo for ~$1.63B in 2003
+  source: founded by Bill Gross at Idealab 1998, invented paid search/CPC model, acquired by Yahoo for ~$1.63B in 2003
   discovered_from: bill-gross
   discovery_depth: 3
   priority: normal
@@ -2645,8 +2592,7 @@ queue:
   added: 2026-03-15
 - name: Heliogen
   type: startup
-  source: concentrated solar power company founded by Bill Gross at Idealab in 2013,
-    went public 2021, backed by Bill Gates
+  source: concentrated solar power company founded by Bill Gross at Idealab in 2013, went public 2021, backed by Bill Gates
   discovered_from: bill-gross
   discovery_depth: 3
   priority: low
@@ -2654,8 +2600,7 @@ queue:
   added: 2026-03-15
 - name: Energy Vault
   type: startup
-  source: gravity-based energy storage co-founded by Bill Gross, went public via SPAC
-    2022, backed by SoftBank
+  source: gravity-based energy storage co-founded by Bill Gross, went public via SPAC 2022, backed by SoftBank
   discovered_from: bill-gross
   discovery_depth: 3
   priority: low
@@ -2663,8 +2608,7 @@ queue:
   added: 2026-03-15
 - name: ProRata.ai
   type: startup
-  source: AI attribution company founded by Bill Gross in 2024, raised $65M+, backed
-    by Revolution Ventures
+  source: AI attribution company founded by Bill Gross in 2024, raised $65M+, backed by Revolution Ventures
   discovered_from: bill-gross
   discovery_depth: 3
   priority: normal
@@ -2672,8 +2616,7 @@ queue:
   added: 2026-03-15
 - name: Cedar Capital Group
   type: firm
-  source: firm founded by John Curtius (ex-Tiger Global), targeting $1B fund for Series
-    A-C enterprise software
+  source: firm founded by John Curtius (ex-Tiger Global), targeting $1B fund for Series A-C enterprise software
   discovered_from: john-curtius
   discovery_depth: 3
   priority: high
@@ -2681,8 +2624,7 @@ queue:
   added: 2026-03-15
 - name: Komodor
   type: startup
-  source: portfolio company of John Curtius at Tiger Global, $42M Series B led by
-    Tiger Global (2022)
+  source: portfolio company of John Curtius at Tiger Global, $42M Series B led by Tiger Global (2022)
   discovered_from: john-curtius
   discovery_depth: 3
   priority: normal
@@ -2690,8 +2632,7 @@ queue:
   added: 2026-03-15
 - name: Monograph
   type: startup
-  source: portfolio company of John Curtius at Tiger Global, $20M Series B led by
-    Tiger Global (2021)
+  source: portfolio company of John Curtius at Tiger Global, $20M Series B led by Tiger Global (2021)
   discovered_from: john-curtius
   discovery_depth: 3
   priority: normal
@@ -2709,8 +2650,7 @@ queue:
 - name: Dan Portillo
   type: individual
   firm: The General Partnership
-  source: Co-Founder of The General Partnership with Phin Barnes, formerly Talent
-    Partner at Greylock
+  source: Co-Founder of The General Partnership with Phin Barnes, formerly Talent Partner at Greylock
   discovered_from: phin-barnes
   discovery_depth: 2
   priority: high
@@ -2726,8 +2666,7 @@ queue:
   added: 2026-03-15
 - name: First Round Capital
   type: firm
-  source: Firm of Josh Kopelman, Phin Barnes, Rob Hayes, Chris Fralic, Howard Morgan,
-    Sarah Tavel
+  source: Firm of Josh Kopelman, Phin Barnes, Rob Hayes, Chris Fralic, Howard Morgan, Sarah Tavel
   discovered_from: phin-barnes
   discovery_depth: 1
   priority: high
@@ -2736,8 +2675,7 @@ queue:
 - name: Richie Serna
   type: individual
   firm: Finix
-  source: CEO & Co-Founder of Finix, General Partnership portfolio company, founder
-    testimonial about Barnes
+  source: CEO & Co-Founder of Finix, General Partnership portfolio company, founder testimonial about Barnes
   discovered_from: phin-barnes
   discovery_depth: 2
   priority: low
@@ -2771,8 +2709,7 @@ queue:
   added: 2026-03-15
 - name: Stainless
   type: startup
-  source: Developer tools company (API/SDK), seed investor TheGP, Series A led by
-    a16z
+  source: Developer tools company (API/SDK), seed investor TheGP, Series A led by a16z
   discovered_from: dan-portillo
   discovery_depth: 3
   priority: normal
@@ -5920,8 +5857,7 @@ queue:
 - name: Jim Breyer
   type: individual
   firm: Breyer Capital
-  source: 'Collection gap analysis: OGs — led Accel''s Facebook investment, managing
-    partner since 1995'
+  source: 'Collection gap analysis: OGs — led Accel''s Facebook investment, managing partner since 1995'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -5929,8 +5865,7 @@ queue:
 - name: Naval Ravikant
   type: individual
   firm: AngelList
-  source: 'Collection gap analysis: Original Super Angels — co-founded AngelList,
-    early Uber/Twitter angel'
+  source: 'Collection gap analysis: Original Super Angels — co-founded AngelList, early Uber/Twitter angel'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -5938,8 +5873,7 @@ queue:
 - name: Ann Miura-Ko
   type: individual
   firm: Floodgate
-  source: 'Collection gap analysis: Original Super Angels — Floodgate co-founder,
-    early Lyft/TaskRabbit'
+  source: 'Collection gap analysis: Original Super Angels — Floodgate co-founder, early Lyft/TaskRabbit'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -5947,8 +5881,7 @@ queue:
 - name: David Lee
   type: individual
   firm: Refactor Capital
-  source: 'Collection gap analysis: Original Super Angels — co-ran SV Angel with Ron
-    Conway'
+  source: 'Collection gap analysis: Original Super Angels — co-ran SV Angel with Ron Conway'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -5956,8 +5889,7 @@ queue:
 - name: Michael Dearing
   type: individual
   firm: Harrison Metal
-  source: 'Collection gap analysis: Original Super Angels — former eBay SVP, backed
-    AdMob'
+  source: 'Collection gap analysis: Original Super Angels — former eBay SVP, backed AdMob'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -5965,8 +5897,7 @@ queue:
 - name: Marc Andreessen
   type: individual
   firm: Andreessen Horowitz
-  source: 'Collection gap analysis: OGs/Super Angels — co-founded Netscape, co-founded
-    a16z'
+  source: 'Collection gap analysis: OGs/Super Angels — co-founded Netscape, co-founded a16z'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -5974,8 +5905,7 @@ queue:
 - name: Ben Horowitz
   type: individual
   firm: Andreessen Horowitz
-  source: 'Collection gap analysis: Super Angels — co-founded Opsware, co-founded
-    a16z'
+  source: 'Collection gap analysis: Super Angels — co-founded Opsware, co-founded a16z'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -5983,8 +5913,7 @@ queue:
 - name: Ram Shriram
   type: individual
   firm: Sherpalo Ventures
-  source: 'Collection gap analysis: OGs — early Netscape exec, Google founding investor
-    ($250K in 1998)'
+  source: 'Collection gap analysis: OGs — early Netscape exec, Google founding investor ($250K in 1998)'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6000,8 +5929,7 @@ queue:
 - name: Mitch Kapor
   type: individual
   firm: Kapor Capital
-  source: 'Collection gap analysis: OGs — founded Lotus, angel since 1986, early UUNET
-    investor'
+  source: 'Collection gap analysis: OGs — founded Lotus, angel since 1986, early UUNET investor'
   discovered_from: cluster-gap-analysis
   priority: low
   status: completed
@@ -6009,8 +5937,7 @@ queue:
 - name: Roger McNamee
   type: individual
   firm: Elevation Partners
-  source: 'Collection gap analysis: OGs — Integral Capital Partners 1991, Silver Lake
-    1999'
+  source: 'Collection gap analysis: OGs — Integral Capital Partners 1991, Silver Lake 1999'
   discovered_from: cluster-gap-analysis
   priority: low
   status: completed
@@ -6018,8 +5945,7 @@ queue:
 - name: Esther Dyson
   type: individual
   firm: EDventure Holdings
-  source: 'Collection gap analysis: OGs — angel since 1980s, Flickr/Del.icio.us, ICANN
-    chair'
+  source: 'Collection gap analysis: OGs — angel since 1980s, Flickr/Del.icio.us, ICANN chair'
   discovered_from: cluster-gap-analysis
   priority: low
   status: completed
@@ -6035,8 +5961,7 @@ queue:
 - name: Nigel Morris
   type: individual
   firm: QED Investors
-  source: 'Collection gap analysis: Regulators — co-founded Capital One then QED,
-    31 fintech unicorns'
+  source: 'Collection gap analysis: Regulators — co-founded Capital One then QED, 31 fintech unicorns'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -6044,8 +5969,7 @@ queue:
 - name: Julie Yoo
   type: individual
   firm: Andreessen Horowitz
-  source: 'Collection gap analysis: Regulators — a16z healthcare GP, fintech-healthcare
-    intersection'
+  source: 'Collection gap analysis: Regulators — a16z healthcare GP, fintech-healthcare intersection'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6053,8 +5977,7 @@ queue:
 - name: Bob Kocher
   type: individual
   firm: Venrock
-  source: 'Collection gap analysis: Regulators/Biotech — MD turned VC, helped write
-    the ACA'
+  source: 'Collection gap analysis: Regulators/Biotech — MD turned VC, helped write the ACA'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6070,8 +5993,7 @@ queue:
 - name: Matt Rogers
   type: individual
   firm: Incite Ventures
-  source: 'Collection gap analysis: Climate — Nest co-founder, now climate-focused
-    investor'
+  source: 'Collection gap analysis: Climate — Nest co-founder, now climate-focused investor'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6079,8 +6001,7 @@ queue:
 - name: Shayle Kann
   type: individual
   firm: Energy Impact Partners
-  source: 'Collection gap analysis: Climate — deep decarbonization investor, Catalyst
-    podcast host'
+  source: 'Collection gap analysis: Climate — deep decarbonization investor, Catalyst podcast host'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6088,8 +6009,7 @@ queue:
 - name: Mike Schroepfer
   type: individual
   firm: Gigascale Capital
-  source: 'Collection gap analysis: Climate/Hard Tech — former Facebook CTO, climate
-    hard-tech'
+  source: 'Collection gap analysis: Climate/Hard Tech — former Facebook CTO, climate hard-tech'
   discovered_from: cluster-gap-analysis
   priority: low
   status: pending
@@ -6097,8 +6017,7 @@ queue:
 - name: Jaan Tallinn
   type: individual
   firm: Independent
-  source: 'Collection gap analysis: AI — Skype co-founder, led Anthropic Series A,
-    early DeepMind investor'
+  source: 'Collection gap analysis: AI — Skype co-founder, led Anthropic Series A, early DeepMind investor'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -6106,8 +6025,7 @@ queue:
 - name: Balaji Srinivasan
   type: individual
   firm: Independent
-  source: 'Collection gap analysis: Crypto — former Coinbase CTO, former a16z GP,
-    42 web3 investments'
+  source: 'Collection gap analysis: Crypto — former Coinbase CTO, former a16z GP, 42 web3 investments'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -6115,8 +6033,7 @@ queue:
 - name: Olaf Carlson-Wee
   type: individual
   firm: Polychain Capital
-  source: 'Collection gap analysis: Crypto — first Coinbase employee, $4B+ crypto
-    fund'
+  source: 'Collection gap analysis: Crypto — first Coinbase employee, $4B+ crypto fund'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -6124,8 +6041,7 @@ queue:
 - name: Kyle Samani
   type: individual
   firm: Multicoin Capital
-  source: 'Collection gap analysis: Crypto — early Solana backer, ultra-high-conviction
-    crypto'
+  source: 'Collection gap analysis: Crypto — early Solana backer, ultra-high-conviction crypto'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6141,8 +6057,7 @@ queue:
 - name: Bob Nelsen
   type: individual
   firm: ARCH Venture Partners
-  source: 'Collection gap analysis: Biotech — created 150+ biotech cos, 38 unicorns,
-    Illumina/GRAIL'
+  source: 'Collection gap analysis: Biotech — created 150+ biotech cos, 38 unicorns, Illumina/GRAIL'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -6166,8 +6081,7 @@ queue:
 - name: Alexis Borisy
   type: individual
   firm: Curie.Bio
-  source: 'Collection gap analysis: Biotech — co-founded Foundation Medicine, 15+
-    biotechs'
+  source: 'Collection gap analysis: Biotech — co-founded Foundation Medicine, 15+ biotechs'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6183,8 +6097,7 @@ queue:
 - name: Bruce Booth
   type: individual
   firm: Atlas Venture
-  source: 'Collection gap analysis: Biotech — seed-stage biotech specialist, LifeSciVC
-    blog'
+  source: 'Collection gap analysis: Biotech — seed-stage biotech specialist, LifeSciVC blog'
   discovered_from: cluster-gap-analysis
   priority: low
   status: pending
@@ -6192,8 +6105,7 @@ queue:
 - name: Simon Rothman
   type: individual
   firm: Greylock
-  source: 'Collection gap analysis: Marketplace Playbook — built eBay Motors, marketplace
-    specialist'
+  source: 'Collection gap analysis: Marketplace Playbook — built eBay Motors, marketplace specialist'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6201,8 +6113,7 @@ queue:
 - name: Andrew Chen
   type: individual
   firm: Andreessen Horowitz
-  source: 'Collection gap analysis: Consumer/Marketplace — Uber growth lead, wrote
-    The Cold Start Problem'
+  source: 'Collection gap analysis: Consumer/Marketplace — Uber growth lead, wrote The Cold Start Problem'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6226,8 +6137,7 @@ queue:
 - name: Jeremy Liew
   type: individual
   firm: Lightspeed
-  source: 'Collection gap analysis: Consumer Whisperers — first Snapchat investor
-    (250x), Affirm'
+  source: 'Collection gap analysis: Consumer Whisperers — first Snapchat investor (250x), Affirm'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6235,8 +6145,7 @@ queue:
 - name: Frank Rotman
   type: individual
   firm: QED Investors
-  source: 'Collection gap analysis: Fintech Mafia — Credit Karma ($7.1B exit), SoFi,
-    GreenSky'
+  source: 'Collection gap analysis: Fintech Mafia — Credit Karma ($7.1B exit), SoFi, GreenSky'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6244,8 +6153,7 @@ queue:
 - name: Chamath Palihapitiya
   type: individual
   firm: Social Capital
-  source: 'Collection gap analysis: Consumer — Slack/Box/SurveyMonkey, former Facebook
-    VP Growth'
+  source: 'Collection gap analysis: Consumer — Slack/Box/SurveyMonkey, former Facebook VP Growth'
   discovered_from: cluster-gap-analysis
   priority: low
   status: completed
@@ -6253,8 +6161,7 @@ queue:
 - name: Erel Margalit
   type: individual
   firm: Jerusalem Venture Partners
-  source: 'Collection gap analysis: Israel Connection — founded JVP in 1993, 120+
-    companies'
+  source: 'Collection gap analysis: Israel Connection — founded JVP in 1993, 120+ companies'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6270,8 +6177,7 @@ queue:
 - name: Michael Eisenberg
   type: individual
   firm: Aleph
-  source: 'Collection gap analysis: Israel Connection — co-founded Aleph, former Benchmark
-    Israel'
+  source: 'Collection gap analysis: Israel Connection — co-founded Aleph, former Benchmark Israel'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6279,8 +6185,7 @@ queue:
 - name: Dov Moran
   type: individual
   firm: Grove Ventures
-  source: 'Collection gap analysis: Israel Connection — invented USB flash drive,
-    deep-tech VC'
+  source: 'Collection gap analysis: Israel Connection — invented USB flash drive, deep-tech VC'
   discovered_from: cluster-gap-analysis
   priority: low
   status: pending
@@ -6288,8 +6193,7 @@ queue:
 - name: Yossi Vardi
   type: individual
   firm: Independent
-  source: 'Collection gap analysis: Israel Connection — dean of Israeli tech, launched
-    ICQ'
+  source: 'Collection gap analysis: Israel Connection — dean of Israeli tech, launched ICQ'
   discovered_from: cluster-gap-analysis
   priority: low
   status: completed
@@ -6297,8 +6201,7 @@ queue:
 - name: Niklas Zennstrom
   type: individual
   firm: Atomico
-  source: 'Collection gap analysis: European Vanguard — co-founded Skype, $1.2B+ Atomico
-    funds'
+  source: 'Collection gap analysis: European Vanguard — co-founded Skype, $1.2B+ Atomico funds'
   discovered_from: cluster-gap-analysis
   priority: high
   status: completed
@@ -6306,8 +6209,7 @@ queue:
 - name: Sophia Bendz
   type: individual
   firm: Cherry Ventures
-  source: 'Collection gap analysis: European Vanguard — former Spotify marketing,
-    top EU seed investor'
+  source: 'Collection gap analysis: European Vanguard — former Spotify marketing, top EU seed investor'
   discovered_from: cluster-gap-analysis
   priority: low
   status: pending
@@ -6315,8 +6217,7 @@ queue:
 - name: Taavet Hinrikus
   type: individual
   firm: Independent
-  source: 'Collection gap analysis: European Vanguard — Wise co-founder, prolific
-    EU angel'
+  source: 'Collection gap analysis: European Vanguard — Wise co-founder, prolific EU angel'
   discovered_from: cluster-gap-analysis
   priority: low
   status: pending
@@ -6332,8 +6233,7 @@ queue:
 - name: Luke Nosek
   type: individual
   firm: Gigafund
-  source: 'Collection gap analysis: PayPal Mafia — PayPal co-founder, Founders Fund
-    partner'
+  source: 'Collection gap analysis: PayPal Mafia — PayPal co-founder, Founders Fund partner'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -6373,8 +6273,7 @@ queue:
 - name: Tony Fadell
   type: individual
   firm: Future Shape
-  source: 'Collection gap analysis: Founders-turned-VCs — invented iPod, co-founded
-    Nest, now investor'
+  source: 'Collection gap analysis: Founders-turned-VCs — invented iPod, co-founded Nest, now investor'
   discovered_from: cluster-gap-analysis
   priority: normal
   status: completed
@@ -10855,3 +10754,17 @@ queue:
   added: '2026-03-17'
   discovered_from: ulysses-ocean
   source: investor in 2 startup funding rounds
+- name: 4Founders Capital
+  type: firm
+  source: lead/co-investor on GuruSup seed round 2026-04-17
+  discovered_from: gurusup
+  priority: normal
+  status: pending
+  added: '2026-04-19'
+- name: Addendum Capital
+  type: firm
+  source: lead/co-investor on GuruSup seed round 2026-04-17
+  discovered_from: gurusup
+  priority: normal
+  status: pending
+  added: '2026-04-19'
