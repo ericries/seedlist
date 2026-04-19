@@ -33,6 +33,7 @@ investors:
 - round: Series B
   slug: ron-conway
   year: 2022
+- slug: kevin-hartz
 last_researched: 2026-03-24
 location: Mountain View, CA
 name: Kumo.AI

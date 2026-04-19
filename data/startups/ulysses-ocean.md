@@ -1,21 +1,10 @@
 ---
-name: Ulysses
-slug: ulysses-ocean
-type: startup
-location: Dublin, Ireland
-founded: 2023
-status_company: active
-sector:
-- autonomous-vehicles
-- climate
-- ocean-tech
-stage_latest: Series A
-total_raised: $46M
 firms:
-- slug: andreessen-horowitz
-  round: series-a
+- round: series-a
+  slug: andreessen-horowitz
   year: 2026
-investors: []
+- slug: lowercarbon-capital
+founded: 2023
 founders:
 - name: Akhil Voorakkara
   role: Co-Founder
@@ -25,8 +14,20 @@ founders:
   role: Co-Founder
 - name: Colm O'Brien
   role: Co-Founder
-status: published
+investors: []
 last_researched: 2026-04-17
+location: Dublin, Ireland
+name: Ulysses
+sector:
+- autonomous-vehicles
+- climate
+- ocean-tech
+slug: ulysses-ocean
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $46M
+type: startup
 ---
 
 ## About

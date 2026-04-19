@@ -1,80 +1,81 @@
 ---
-name: "Starcloud"
-slug: starcloud
-type: startup
-website: "https://www.starcloud.com"
-location: "Redmond, Washington"
-founded: 2024
-status_company: active
-sector:
-  - space
-  - ai
-  - infrastructure
-  - cloud-computing
-stage_latest: "Series A"
-total_raised: "$200M"
-investors:
-  - slug: morgan-beller
-    round: seed
-    year: 2024
-  - slug: chetan-puttagunta
-    round: series-a
-    year: 2026
-    date: 2026-03-30
 firms:
-  - slug: nfx
-    round: seed
-    year: 2024
-  - slug: andreessen-horowitz
-    round: seed
-    year: 2024
-  - slug: sequoia-capital
-    round: seed
-    year: 2024
-  - slug: fuse-ventures
-    round: seed
-    year: 2024
-  - slug: soma-capital
-    round: seed
-    year: 2024
-  - slug: benchmark
-    round: series-a
-    year: 2026
-    date: 2026-03-30
-  - slug: eqt-ventures
-    round: series-a
-    year: 2026
-    date: 2026-03-30
-  - slug: macquarie-capital
-    round: series-a
-    year: 2026
-    date: 2026-03-30
-  - slug: nfx
-    round: series-a
-    year: 2026
-    date: 2026-03-30
-  - slug: 776-ventures
-    round: series-a
-    year: 2026
-    date: 2026-03-30
-  - slug: fuse-ventures
-    round: series-a
-    year: 2026
-    date: 2026-03-30
+- round: seed
+  slug: nfx
+  year: 2024
+- round: seed
+  slug: andreessen-horowitz
+  year: 2024
+- round: seed
+  slug: sequoia-capital
+  year: 2024
+- round: seed
+  slug: fuse-ventures
+  year: 2024
+- round: seed
+  slug: soma-capital
+  year: 2024
+- date: 2026-03-30
+  round: series-a
+  slug: benchmark
+  year: 2026
+- date: 2026-03-30
+  round: series-a
+  slug: eqt-ventures
+  year: 2026
+- date: 2026-03-30
+  round: series-a
+  slug: macquarie-capital
+  year: 2026
+- date: 2026-03-30
+  round: series-a
+  slug: nfx
+  year: 2026
+- date: 2026-03-30
+  round: series-a
+  slug: 776-ventures
+  year: 2026
+- date: 2026-03-30
+  round: series-a
+  slug: fuse-ventures
+  year: 2026
+- slug: y-combinator
+founded: 2024
 founders:
-  - name: "Philip Johnston"
-    role: "Co-Founder & CEO"
-  - name: "Ezra Feilden"
-    role: "Co-Founder & CTO"
-  - name: "Adi Oltean"
-    role: "Co-Founder & Chief Engineer"
-pending_sources:
-  - url: https://www.reuters.com/business/retail-consumer/starcloud-reaches-11-billion-valuation-ai-space-race-heats-up-2026-03-30/
-    added: '2026-03-30'
-    status: processed
-    processed: 2026-03-30
-status: published
+- name: Philip Johnston
+  role: Co-Founder & CEO
+- name: Ezra Feilden
+  role: Co-Founder & CTO
+- name: Adi Oltean
+  role: Co-Founder & Chief Engineer
+investors:
+- round: seed
+  slug: morgan-beller
+  year: 2024
+- date: 2026-03-30
+  round: series-a
+  slug: chetan-puttagunta
+  year: 2026
 last_researched: 2026-03-30
+location: Redmond, Washington
+name: Starcloud
+pending_sources:
+- added: '2026-03-30'
+  processed: 2026-03-30
+  status: processed
+  url: https://www.reuters.com/business/retail-consumer/starcloud-reaches-11-billion-valuation-ai-space-race-heats-up-2026-03-30/
+sector:
+- space
+- ai
+- infrastructure
+- cloud-computing
+slug: starcloud
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $200M
+type: startup
+website: https://www.starcloud.com
 ---
 
 ## About

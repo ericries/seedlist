@@ -1,27 +1,28 @@
 ---
-name: Emerald AI
-slug: emerald-ai
-type: startup
-website: https://www.emeraldai.co
-location: London, United Kingdom
+firms:
+- date: 2026-03-31
+  round: Strategic Expansion
+  slug: energy-impact-partners
+  year: 2026
+- slug: lowercarbon-capital
 founded: 2025
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-04-02
+location: London, United Kingdom
+name: Emerald AI
 sector:
 - energy
 - ai
 - infrastructure
 - cleantech
+slug: emerald-ai
 stage_latest: Strategic Round
-total_raised: "$68M"
-firms:
-- round: Strategic Expansion
-  slug: energy-impact-partners
-  year: 2026
-  date: 2026-03-31
-investors: []
-founders: []
 status: published
-last_researched: 2026-04-02
+status_company: active
+total_raised: $68M
+type: startup
+website: https://www.emeraldai.co
 ---
 
 ## About

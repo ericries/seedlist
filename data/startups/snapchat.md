@@ -21,6 +21,10 @@ firms:
 - round: Series C
   slug: coatue-management
   year: 2013
+- slug: general-catalyst
+- slug: ivp
+- slug: kleiner-perkins
+- slug: sequoia-capital
 founded: 2011
 founders:
 - name: Evan Spiegel

@@ -54,6 +54,7 @@ firms:
 - round: Angel/Seed
   slug: curie-bio
   year: 2013
+- slug: ribbit-capital
 founded: 2013
 founders:
 - name: Zach Perret

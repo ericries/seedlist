@@ -37,6 +37,7 @@ investors:
 - round: Early
   slug: roelof-botha
   year: 2012
+- slug: david-sacks
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Mixpanel

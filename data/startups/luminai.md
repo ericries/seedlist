@@ -24,6 +24,7 @@ firms:
 - round: '2022'
   slug: ramp
   year: 2022
+- slug: y-combinator
 founded: 2022
 founders:
 - name: Kesava Kirupa Dinakaran

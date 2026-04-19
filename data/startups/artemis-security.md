@@ -3,6 +3,7 @@ firms:
 - round: Series A
   slug: long-journey-ventures
   year: 2026
+- slug: first-round-capital
 founded: 2025
 founders:
 - name: Shachar Hirshberg

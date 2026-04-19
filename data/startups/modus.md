@@ -1,24 +1,26 @@
 ---
-name: Modus
-slug: modus
-type: startup
-website: null
-location: null
+firms:
+- round: series-a
+  slug: lightspeed-venture-partners
+  year: 2026
 founded: 2025
-status_company: active
+founders: []
+investors:
+- slug: garry-tan
+last_researched: 2026-04-07
+location: null
+name: Modus
 sector:
 - fintech
 - AI
 - accounting
+slug: modus
 stage_latest: Series A
-total_raised: $85M
-firms:
-- slug: lightspeed-venture-partners
-  round: series-a
-  year: 2026
-founders: []
 status: published
-last_researched: 2026-04-07
+status_company: active
+total_raised: $85M
+type: startup
+website: null
 ---
 
 ## About

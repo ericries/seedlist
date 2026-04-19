@@ -1,41 +1,42 @@
 ---
+firms:
+- date: 2026-03-26
+  round: series-b-extension
+  slug: circle-ventures
+  year: 2026
+- round: series-b
+  slug: peak-xv-partners
+  year: 2026
+- round: series-b
+  slug: january-capital
+  year: 2026
+- round: series-b
+  slug: rtp-global
+  year: 2026
+- slug: rtp-ventures
+founded: 2020
+founders:
+- name: Rahul Shinghal
+  role: CEO & Co-Founder
+- name: Kanupriya Sharda
+  role: Chief Business Officer & Co-Founder
+- name: Aayush Singhania
+  role: Chief Product Officer & Co-Founder
+investors: []
+last_researched: 2026-03-30
+location: Singapore
 name: Tazapay
+sector:
+- fintech
+- payments
+- infrastructure
 slug: tazapay
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $36M
 type: startup
 website: https://tazapay.com
-location: Singapore
-founded: 2020
-status_company: active
-sector:
-  - fintech
-  - payments
-  - infrastructure
-stage_latest: Series B
-total_raised: $36M
-firms:
-  - slug: circle-ventures
-    round: series-b-extension
-    year: 2026
-    date: 2026-03-26
-  - slug: peak-xv-partners
-    round: series-b
-    year: 2026
-  - slug: january-capital
-    round: series-b
-    year: 2026
-  - slug: rtp-global
-    round: series-b
-    year: 2026
-investors: []
-founders:
-  - name: Rahul Shinghal
-    role: CEO & Co-Founder
-  - name: Kanupriya Sharda
-    role: Chief Business Officer & Co-Founder
-  - name: Aayush Singhania
-    role: Chief Product Officer & Co-Founder
-status: published
-last_researched: 2026-03-30
 ---
 
 ## About

@@ -3,6 +3,7 @@ firms:
 - round: Seed ($35M, led)
   slug: greylock
   year: 2024
+- slug: dst-global
 founded: null
 founders:
 - name: Spiros Xanthos

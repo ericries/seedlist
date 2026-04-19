@@ -1,28 +1,30 @@
 ---
-name: nEye.ai
-slug: neye-ai
-type: startup
-website: https://www.neye.ai
-location: United States
+firms:
+- round: series-c
+  slug: sutter-hill-ventures
+  year: 2026
+- round: series-c
+  slug: gv
+  year: 2026
+- slug: capitalg
 founded: 2019
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-04-17
+location: United States
+name: nEye.ai
 sector:
 - AI
 - infrastructure
 - semiconductors
 - data-center
+slug: neye-ai
 stage_latest: Series C
-total_raised: $152M
-firms:
-- slug: sutter-hill-ventures
-  round: series-c
-  year: 2026
-- slug: gv
-  round: series-c
-  year: 2026
-founders: []
 status: published
-last_researched: 2026-04-17
+status_company: active
+total_raised: $152M
+type: startup
+website: https://www.neye.ai
 ---
 
 ## About

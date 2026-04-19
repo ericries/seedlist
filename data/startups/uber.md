@@ -144,6 +144,7 @@ firms:
 - round: Growth
   slug: iconiq-growth
   year: 2015
+- slug: lone-pine-capital
 founded: 2009
 founders:
 - name: Travis Kalanick

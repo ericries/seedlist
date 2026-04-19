@@ -42,6 +42,7 @@ firms:
 - round: '2012'
   slug: bedrock-capital
   year: 2012
+- slug: founders-fund
 founded: 2012
 founders:
 - name: Logan Green

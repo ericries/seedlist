@@ -1,27 +1,29 @@
 ---
-name: Aria Networks
-slug: aria-networks
-type: startup
-website: "https://www.arianetworks.ai"
-location: null
+firms:
+- round: series-a
+  slug: sutter-hill-ventures
+  year: 2026
+- round: series-a
+  slug: eclipse-ventures
+  year: 2026
+- slug: valor-equity-partners
 founded: 2025
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-04-07
+location: null
+name: Aria Networks
 sector:
 - AI infrastructure
 - networking
 - data-centers
+slug: aria-networks
 stage_latest: Series A
-total_raised: $125M
-firms:
-- slug: sutter-hill-ventures
-  round: series-a
-  year: 2026
-- slug: eclipse-ventures
-  round: series-a
-  year: 2026
-founders: []
 status: published
-last_researched: 2026-04-07
+status_company: active
+total_raised: $125M
+type: startup
+website: https://www.arianetworks.ai
 ---
 
 ## About

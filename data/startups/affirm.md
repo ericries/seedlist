@@ -39,6 +39,7 @@ firms:
 - round: Early
   slug: gpx
   year: 2015
+- slug: spark-capital
 founded: 2012
 founders:
 - name: Max Levchin
@@ -92,6 +93,7 @@ investors:
 - round: Early
   slug: brian-singerman
   year: 2015
+- slug: max-levchin
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

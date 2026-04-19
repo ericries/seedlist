@@ -6,6 +6,7 @@ firms:
 - round: Seed
   slug: sequoia-capital
   year: 2023
+- slug: insight-partners
 founded: 2023
 founders:
 - name: Matan Grinberg

@@ -21,6 +21,7 @@ firms:
 - round: VC (Kleiner Perkins)
   slug: kapor-capital
   year: 2010
+- slug: notable-capital
 founded: 2010
 founders:
 - name: Mike McCue

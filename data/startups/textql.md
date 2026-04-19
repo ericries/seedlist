@@ -1,27 +1,30 @@
 ---
-name: TextQL
-slug: textql
-type: startup
-website: https://textql.com
-location: null
+firms:
+- round: seed
+  slug: dcm-ventures
+  year: 2024
+- slug: neo
+- slug: unshackled-ventures
+- slug: worklife-ventures
 founded: null
-status_company: active
+founders:
+- name: Ethan Ding
+  role: CEO & Co-Founder
+investors: []
+last_researched: 2026-04-18
+location: null
+name: TextQL
 sector:
 - AI
 - data-analytics
 - enterprise
+slug: textql
 stage_latest: Series B
-total_raised: $21.1M
-firms:
-- slug: dcm-ventures
-  round: seed
-  year: 2024
-investors: []
-founders:
-- name: Ethan Ding
-  role: CEO & Co-Founder
 status: published
-last_researched: 2026-04-18
+status_company: active
+total_raised: $21.1M
+type: startup
+website: https://textql.com
 ---
 
 ## About

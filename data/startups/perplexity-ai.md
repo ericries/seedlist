@@ -21,6 +21,9 @@ firms:
 - round: Seed
   slug: kindred-ventures
   year: 2023
+- slug: accel
+- slug: bessemer-venture-partners
+- slug: ivp
 founded: 2022
 founders:
 - name: Aravind Srinivas
@@ -56,6 +59,9 @@ investors:
 - round: Seed
   slug: steve-jang
   year: 2023
+- slug: amjad-masad
+- slug: bob-muglia
+- slug: paul-buchheit
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Perplexity AI

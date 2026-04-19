@@ -77,6 +77,7 @@ investors:
 - round: Early
   slug: brandon-reeves
   year: 2021
+- slug: lachy-groom
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian

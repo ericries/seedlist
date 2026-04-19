@@ -1,35 +1,36 @@
 ---
-name: AfterQuery
-slug: afterquery
-type: startup
-website: "https://www.afterquery.com"
-location: San Francisco, California
-founded: 2025
-status_company: active
-sector:
-- AI
-- data
-- expert-networks
-stage_latest: Series A
-total_raised: $30M+
 firms:
-- slug: altos-ventures
-  round: series-a
+- round: series-a
+  slug: altos-ventures
   year: 2026
-- slug: boxgroup
-  round: pre-seed
+- round: pre-seed
+  slug: boxgroup
   year: 2025
-investors:
 - slug: y-combinator
-  round: pre-seed
-  year: 2025
+founded: 2025
 founders:
 - name: Spencer Mateega
   role: Co-Founder
 - name: Carlos Georgescu
   role: Co-Founder
-status: published
+investors:
+- round: pre-seed
+  slug: y-combinator
+  year: 2025
 last_researched: 2026-04-09
+location: San Francisco, California
+name: AfterQuery
+sector:
+- AI
+- data
+- expert-networks
+slug: afterquery
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $30M+
+type: startup
+website: https://www.afterquery.com
 ---
 
 ## About

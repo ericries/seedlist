@@ -57,6 +57,7 @@ firms:
 - round: Seed
   slug: curie-bio
   year: 2014
+- slug: ame-cloud-ventures
 founded: 2014
 founders:
 - name: Vivek Garipalli

@@ -1,26 +1,28 @@
 ---
-name: Nas.com
-slug: nas-com
-type: startup
-website: https://www.nas.com
-location: United States
+firms:
+- round: series-a
+  slug: khosla-ventures
+  year: 2026
+- slug: 500-global
 founded: 2020
-status_company: active
+founders:
+- name: Nuseir Yassin
+  role: CEO & Founder
+investors: []
+last_researched: 2026-04-17
+location: United States
+name: Nas.com
 sector:
 - AI
 - creator-economy
 - e-commerce
+slug: nas-com
 stage_latest: Series A
-total_raised: $27M+
-firms:
-- slug: khosla-ventures
-  round: series-a
-  year: 2026
-founders:
-- name: Nuseir Yassin
-  role: CEO & Founder
 status: published
-last_researched: 2026-04-17
+status_company: active
+total_raised: $27M+
+type: startup
+website: https://www.nas.com
 ---
 
 ## About

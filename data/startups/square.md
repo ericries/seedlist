@@ -42,6 +42,8 @@ firms:
 - round: Angel
   slug: goat-capital
   year: 2009
+- slug: kleiner-perkins
+- slug: tiger-global
 founded: 2009
 founders:
 - name: Jack Dorsey

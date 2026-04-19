@@ -27,6 +27,7 @@ firms:
 - round: Seed
   slug: oatv
   year: 2017
+- slug: iconiq-growth
 founded: 2017
 founders:
 - name: Todd Park

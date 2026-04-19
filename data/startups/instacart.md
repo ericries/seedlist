@@ -54,6 +54,10 @@ firms:
 - round: Series B ($44M round)
   slug: andreessen-horowitz
   year: 2014
+- slug: general-catalyst
+- slug: initialized-capital
+- slug: kleiner-perkins
+- slug: tiger-global
 founded: 2012
 founders:
 - name: Apoorva Mehta

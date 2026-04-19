@@ -51,6 +51,7 @@ firms:
 - round: ~2019
   slug: iconiq-growth
   year: 2019
+- slug: d1-capital-partners
 founded: 2013
 founders:
 - name: Vlad Tenev

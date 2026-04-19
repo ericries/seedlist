@@ -1,30 +1,32 @@
 ---
-name: Noon
-slug: noon
-type: startup
-website: https://noon.design
-location: San Francisco, CA
-status_company: active
-sector:
-- developer-tools
-- AI
-- design
-stage_latest: Seed
-total_raised: $44M
 firms:
-- slug: first-round-capital
-  round: seed
+- round: seed
+  slug: first-round-capital
   year: 2026
-- slug: sv-angel
-  round: seed
+- round: seed
+  slug: sv-angel
   year: 2026
+- slug: chemistry-vc
 founders:
 - name: Aditya Bandi
   role: Co-Founder
 - name: Kushagra Sinha
   role: Co-Founder
-status: published
+investors: []
 last_researched: 2026-04-06
+location: San Francisco, CA
+name: Noon
+sector:
+- developer-tools
+- AI
+- design
+slug: noon
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $44M
+type: startup
+website: https://noon.design
 ---
 
 ## About

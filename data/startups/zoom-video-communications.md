@@ -29,6 +29,7 @@ investors:
 - round: Seed
   slug: bill-tai
   year: 2011
+- slug: jerry-yang
 last_researched: 2026-03-19
 location: San Jose, CA
 name: Zoom Video Communications

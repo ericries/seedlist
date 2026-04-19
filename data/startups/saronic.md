@@ -12,6 +12,7 @@ firms:
   round: series-d
   slug: andreessen-horowitz
   year: 2026
+- slug: bessemer-venture-partners
 founded: 2022
 founders:
 - name: Dino Legal
@@ -26,6 +27,7 @@ investors:
 - round: ~2022
   slug: drew-oetting
   year: 2022
+- slug: elad-gil
 last_researched: 2026-04-02
 location: Austin, Texas
 name: Saronic

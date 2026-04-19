@@ -21,6 +21,7 @@ firms:
 - round: Series B
   slug: khosla-ventures
   year: 2011
+- slug: greylock
 founded: 2009
 founders:
 - name: Todd McKinnon

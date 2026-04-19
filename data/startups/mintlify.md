@@ -1,29 +1,30 @@
 ---
-name: Mintlify
-slug: mintlify
-type: startup
-website: https://www.mintlify.com
-location: San Francisco, CA
-founded: null
-status_company: active
-sector:
-- developer-tools
-- AI
-- documentation
-stage_latest: Series B
-total_raised: $67M
 firms:
-- slug: andreessen-horowitz
-  round: series-b
+- round: series-b
+  slug: andreessen-horowitz
   year: 2026
-investors: []
+- slug: y-combinator
+founded: null
 founders:
 - name: Han Wang
   role: Co-Founder
 - name: Hahnbee Lee
   role: Co-Founder
-status: published
+investors: []
 last_researched: 2026-04-16
+location: San Francisco, CA
+name: Mintlify
+sector:
+- developer-tools
+- AI
+- documentation
+slug: mintlify
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $67M
+type: startup
+website: https://www.mintlify.com
 ---
 
 ## About

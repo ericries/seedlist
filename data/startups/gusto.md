@@ -117,6 +117,7 @@ firms:
 - round: Seed
   slug: quiet-capital
   year: 2014
+- slug: dcvc
 founded: 2012
 founders:
 - name: Josh Reeves

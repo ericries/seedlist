@@ -21,6 +21,7 @@ firms:
 - round: Early/Growth
   slug: gigafund
   year: 2005
+- slug: tiger-global
 founded: 2003
 founders:
 - name: Peter Thiel
@@ -58,6 +59,7 @@ investors:
 - round: Early/Growth
   slug: luke-nosek
   year: 2005
+- slug: stan-druckenmiller
 last_researched: 2026-03-20
 location: Denver, CO
 name: Palantir Technologies

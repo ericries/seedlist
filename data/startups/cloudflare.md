@@ -12,6 +12,7 @@ firms:
 - round: Series D
   slug: capitalg
   year: 2014
+- slug: venrock
 founded: 2009
 founders:
 - name: Matthew Prince

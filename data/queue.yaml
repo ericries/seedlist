@@ -10064,3 +10064,794 @@ queue:
   added: '2026-03-17'
   firm: Zeal Capital Partners
   discovered_from: nasir-qadree
+- name: Logos Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adcendo
+  source: investor in 2 startup funding rounds
+- name: Novo Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adcendo
+  source: investor in 2 startup funding rounds
+- name: RA Capital Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adcendo
+  source: investor in 2 startup funding rounds
+- name: Caffeinated Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: affirm
+  source: investor in 5 startup funding rounds
+- name: Durable Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: affirm
+  source: investor in 6 startup funding rounds
+- name: Sound Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: affirm
+  source: investor in 3 startup funding rounds
+- name: Wellington Management
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: affirm
+  source: investor in 8 startup funding rounds
+- name: Squadra Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airbase-spectrum
+  source: investor in 2 startup funding rounds
+- name: 137 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airbnb
+  source: investor in 3 startup funding rounds
+- name: CrunchFund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airbnb
+  source: investor in 2 startup funding rounds
+- name: Google Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airbnb
+  source: investor in 2 startup funding rounds
+- name: Y Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airbnb
+  source: investor in 2 startup funding rounds
+- name: D1 Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airtable
+  source: investor in 5 startup funding rounds
+- name: Freestyle Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airtable
+  source: investor in 3 startup funding rounds
+- name: MSD Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airtable
+  source: investor in 2 startup funding rounds
+- name: Salesforce Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airtable
+  source: investor in 9 startup funding rounds
+- name: Slow Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airtable
+  source: investor in 2 startup funding rounds
+- name: Tuesday Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airtable
+  source: investor in 3 startup funding rounds
+- name: Deep Track Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ambrosia-biosciences
+  source: investor in 2 startup funding rounds
+- name: Samsara BioCapital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ambrosia-biosciences
+  source: investor in 2 startup funding rounds
+- name: Founders Fund ($1B)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anduril-industries
+  source: investor in 2 startup funding rounds
+- name: Human Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anduril-industries
+  source: investor in 2 startup funding rounds
+- name: Sands Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anduril-industries
+  source: investor in 8 startup funding rounds
+- name: Sands Capital (co-lead)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anduril-industries
+  source: investor in 2 startup funding rounds
+- name: Thrive Capital (co-lead)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anduril-industries
+  source: investor in 2 startup funding rounds
+- name: Atreides Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aria-networks
+  source: investor in 2 startup funding rounds
+- name: Sutter Hill Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aria-networks
+  source: investor in 3 startup funding rounds
+- name: A Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: armorblox
+  source: investor in 4 startup funding rounds
+- name: Point72 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: armorblox
+  source: investor in 2 startup funding rounds
+- name: Generation Investment Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asana
+  source: investor in 3 startup funding rounds
+- name: Lead Edge Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asana
+  source: investor in 2 startup funding rounds
+- name: 645 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: attention
+  source: investor in 2 startup funding rounds
+- name: Dig Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: auctor
+  source: investor in 2 startup funding rounds
+- name: HubSpot Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: auctor
+  source: investor in 2 startup funding rounds
+- name: AMD Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ayar-labs
+  source: investor in 2 startup funding rounds
+- name: Qatar Investment Authority
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ayar-labs
+  source: investor in 4 startup funding rounds
+- name: Austin Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bazaarvoice
+  source: investor in 2 startup funding rounds
+- name: Casdin Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon-biosignals
+  source: investor in 3 startup funding rounds
+- name: Bain Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beeline-medicines
+  source: investor in 2 startup funding rounds
+- name: Alkeon Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: benchling
+  source: investor in 3 startup funding rounds
+- name: F-Prime Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: benchling
+  source: investor in 2 startup funding rounds
+- name: Sequoia Capital Global Equities
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: benchling
+  source: investor in 4 startup funding rounds
+- name: American Express Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigcommerce
+  source: investor in 3 startup funding rounds
+- name: Tenaya Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigcommerce
+  source: investor in 3 startup funding rounds
+- name: Amex Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bluefish
+  source: investor in 2 startup funding rounds
+- name: RRE Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: boom-supersonic
+  source: investor in 2 startup funding rounds
+- name: Durable Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brex
+  source: investor in 2 startup funding rounds
+- name: Safar Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cavilinq
+  source: investor in 2 startup funding rounds
+- name: Serendipity Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cavilinq
+  source: investor in 2 startup funding rounds
+- name: Intel Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: censys
+  source: investor in 3 startup funding rounds
+- name: Bain Capital Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: centivo
+  source: investor in 3 startup funding rounds
+- name: Define Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: centivo
+  source: investor in 2 startup funding rounds
+- name: Susa Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chapter
+  source: investor in 2 startup funding rounds
+- name: XYZ Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chapter
+  source: investor in 2 startup funding rounds
+- name: Alumni Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: citra-space
+  source: investor in 3 startup funding rounds
+- name: Flex Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: citra-space
+  source: investor in 2 startup funding rounds
+- name: Industrious Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: citra-space
+  source: investor in 3 startup funding rounds
+- name: Echo Health Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cityblock-health
+  source: investor in 2 startup funding rounds
+- name: SoftBank Vision Fund 2
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cityblock-health
+  source: investor in 5 startup funding rounds
+- name: Town Hall Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cityblock-health
+  source: investor in 2 startup funding rounds
+- name: Qualcomm Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cloudflare
+  source: investor in 3 startup funding rounds
+- name: Ally Bridge Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cmr-surgical
+  source: investor in 2 startup funding rounds
+- name: Cambridge Innovation Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cmr-surgical
+  source: investor in 2 startup funding rounds
+- name: SBI Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cognichip
+  source: investor in 2 startup funding rounds
+- name: Liquid 2 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: conntour
+  source: investor in 4 startup funding rounds
+- name: Climate Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: critical-loop
+  source: investor in 2 startup funding rounds
+- name: 01 Advisors
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crosby
+  source: investor in 2 startup funding rounds
+- name: IA Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: datadog
+  source: investor in 2 startup funding rounds
+- name: ICONIQ Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: datadog
+  source: investor in 5 startup funding rounds
+- name: Basis Set Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daydream
+  source: investor in 2 startup funding rounds
+- name: Frist Cressey Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: devoted-health
+  source: investor in 2 startup funding rounds
+- name: GreatPoint Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: devoted-health
+  source: investor in 2 startup funding rounds
+- name: Google Ventures (GV)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: egnyte
+  source: investor in 2 startup funding rounds
+- name: Sante Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: endovascular-engineering
+  source: investor in 2 startup funding rounds
+- name: Aramco Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: enervenue
+  source: investor in 2 startup funding rounds
+- name: DAG Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eventbrite
+  source: investor in 2 startup funding rounds
+- name: Norwest Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: faire
+  source: investor in 2 startup funding rounds
+- name: WCM Investment Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: faire
+  source: investor in 2 startup funding rounds
+- name: Insight Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flipboard
+  source: investor in 3 startup funding rounds
+- name: Rizvi Traverse Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flipboard
+  source: investor in 2 startup funding rounds
+- name: Plus Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: garner-health
+  source: investor in 2 startup funding rounds
+- name: Index Ventures (Danny Rimer)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: granola
+  source: investor in 2 startup funding rounds
+- name: Transformation Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grow-therapy
+  source: investor in 2 startup funding rounds
+- name: Glynn Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gusto
+  source: investor in 4 startup funding rounds
+- name: RTX Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hadrian
+  source: investor in 2 startup funding rounds
+- name: Canaan Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hermeus
+  source: investor in 2 startup funding rounds
+- name: Nexus Neurotech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: insightec
+  source: investor in 2 startup funding rounds
+- name: Glade Brook Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: instacart
+  source: investor in 3 startup funding rounds
+- name: Valiant Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: instacart
+  source: investor in 3 startup funding rounds
+- name: Longwood Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neomorph
+  source: investor in 2 startup funding rounds
+- name: Prosperity7 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neubird-ai
+  source: investor in 2 startup funding rounds
+- name: Institutional Venture Partners (IVP)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ngmoco
+  source: investor in 2 startup funding rounds
+- name: Base10 Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: notion
+  source: investor in 3 startup funding rounds
+- name: Ignition Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pagerduty
+  source: investor in 2 startup funding rounds
+- name: Picus Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: personio
+  source: investor in 2 startup funding rounds
+- name: FirstMark Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pinterest
+  source: investor in 2 startup funding rounds
+- name: Booz Allen Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: portal-space-systems
+  source: investor in 3 startup funding rounds
+- name: Geodesic Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: portal-space-systems
+  source: investor in 2 startup funding rounds
+- name: Love Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ralio
+  source: investor in 2 startup funding rounds
+- name: Citigroup
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: robinhood
+  source: investor in 2 startup funding rounds
+- name: Riot Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shield-ai
+  source: investor in 2 startup funding rounds
+- name: Snowpoint Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shield-ai
+  source: investor in 2 startup funding rounds
+- name: Adams Street Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: smule
+  source: investor in 3 startup funding rounds
+- name: Shasta Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: smule
+  source: investor in 2 startup funding rounds
+- name: Institutional Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: snapchat
+  source: investor in 2 startup funding rounds
+- name: Horizons Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spotify
+  source: investor in 2 startup funding rounds
+- name: Citi Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: square
+  source: investor in 2 startup funding rounds
+- name: Qiming Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stairmed
+  source: investor in 3 startup funding rounds
+- name: Shield Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starfish-space
+  source: investor in 2 startup funding rounds
+- name: Coinbase Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tazapay
+  source: investor in 2 startup funding rounds
+- name: Benchmark Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: twitter
+  source: investor in 3 startup funding rounds
+- name: Genius Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ulysses-ocean
+  source: investor in 2 startup funding rounds
+- name: ReGen Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ulysses-ocean
+  source: investor in 2 startup funding rounds

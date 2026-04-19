@@ -18,6 +18,7 @@ firms:
 - round: Seed
   slug: amplify-partners
   year: 2012
+- slug: openview-venture-partners
 founded: 2010
 founders:
 - name: Olivier Pomel

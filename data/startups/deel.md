@@ -106,6 +106,7 @@ investors:
 - round: Growth
   slug: ali-partovi
   year: 2021
+- slug: alexis-ohanian
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

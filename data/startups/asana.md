@@ -61,6 +61,8 @@ investors:
 - round: Angel
   slug: divesh-makan
   year: 2016
+- slug: adam-dangelo
+- slug: sean-parker
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Asana

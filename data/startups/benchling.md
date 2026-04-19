@@ -110,6 +110,8 @@ investors:
   year: 2021
 - round: Growth
   slug: matt-murphy
+- slug: matt-huang
+- slug: tim-draper
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Benchling

@@ -36,6 +36,7 @@ firms:
 - round: Series I (lead, $500M)
   slug: dragoneer
   year: 2021
+- slug: general-catalyst
 founded: 2015
 founders:
 - name: Jason Citron

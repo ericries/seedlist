@@ -1,25 +1,26 @@
 ---
+firms:
+- slug: initialized-capital
+founded: 2025
+founders:
+- name: Kirill Avery
+  role: Founder & CEO
+investors: []
+last_researched: 2026-04-05
+location: San Francisco, CA
 name: Alien
+sector:
+- ai
+- identity
+- blockchain
+- security
 slug: alien
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $7.1M
 type: startup
 website: https://alien.org
-location: San Francisco, CA
-founded: 2025
-status_company: active
-sector:
-  - ai
-  - identity
-  - blockchain
-  - security
-stage_latest: Pre-Seed
-total_raised: $7.1M
-firms: []
-investors: []
-founders:
-  - name: Kirill Avery
-    role: Founder & CEO
-status: published
-last_researched: 2026-04-05
 ---
 
 ## About

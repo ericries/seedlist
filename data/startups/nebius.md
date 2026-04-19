@@ -1,5 +1,6 @@
 ---
-firms: []
+firms:
+- slug: accel
 founded: 2022
 founders: []
 investors: []

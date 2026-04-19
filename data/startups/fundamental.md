@@ -3,6 +3,7 @@ firms:
 - round: series-a
   slug: battery-ventures
   year: 2026
+- slug: valor-equity-partners
 founded: 2024
 founders:
 - name: Jeremy Fraenkel

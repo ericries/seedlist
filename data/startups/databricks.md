@@ -45,6 +45,8 @@ firms:
 - round: Late-stage
   slug: iconiq-growth
   year: 2024
+- slug: insight-partners
+- slug: nea
 founded: 2013
 founders:
 - name: Ali Ghodsi

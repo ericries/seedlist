@@ -3,6 +3,8 @@ firms:
 - round: series-b
   slug: andreessen-horowitz
   year: 2026
+- slug: battery-ventures
+- slug: kleiner-perkins
 founded: 2023
 founders:
 - name: Anshul Sadana

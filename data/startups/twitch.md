@@ -22,6 +22,7 @@ firms:
 - round: ~2011
   slug: standard-capital
   year: 2011
+- slug: y-combinator
 founded: 2007
 founders:
 - name: Justin Kan

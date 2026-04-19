@@ -48,6 +48,8 @@ firms:
 - round: Seed
   slug: gpx
   year: 2017
+- slug: 8vc
+- slug: d1-capital-partners
 founded: 2017
 founders:
 - name: Palmer Luckey
@@ -85,6 +87,7 @@ investors:
 - round: Seed
   slug: brian-singerman
   year: 2017
+- slug: lachy-groom
 last_researched: 2026-03-20
 location: Costa Mesa, CA
 name: Anduril Industries

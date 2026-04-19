@@ -27,6 +27,7 @@ firms:
 - round: Growth
   slug: elevation-partners
   year: 2018
+- slug: accel
 founded: 2013
 founders:
 - name: Tomer Weingarten

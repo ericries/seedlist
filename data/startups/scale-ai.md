@@ -63,6 +63,8 @@ firms:
 - round: Early
   slug: gpx
   year: 2018
+- slug: accel
+- slug: spark-capital
 founded: 2016
 founders:
 - name: Alexandr Wang

@@ -1,38 +1,39 @@
 ---
+firms:
+- date: 2026-03-26
+  round: seed
+  slug: general-catalyst
+  year: 2026
+- date: 2026-03-26
+  round: seed
+  slug: sv-angel
+  year: 2026
+- date: 2026-03-26
+  round: seed
+  slug: liquid-2-ventures
+  year: 2026
+- slug: y-combinator
+founded: 2024
+founders:
+- name: Matan Goldner
+  role: CEO & Co-Founder
+- name: Tomer Kulla
+  role: CTO & Co-Founder
+investors: []
+last_researched: 2026-03-30
+location: Miami, FL / Tel Aviv, Israel
 name: Conntour
+sector:
+- artificial-intelligence
+- security
+- enterprise
 slug: conntour
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $7M
 type: startup
 website: https://www.conntour.com
-location: Miami, FL / Tel Aviv, Israel
-founded: 2024
-status_company: active
-sector:
-  - artificial-intelligence
-  - security
-  - enterprise
-stage_latest: Seed
-total_raised: $7M
-firms:
-  - slug: general-catalyst
-    round: seed
-    year: 2026
-    date: 2026-03-26
-  - slug: sv-angel
-    round: seed
-    year: 2026
-    date: 2026-03-26
-  - slug: liquid-2-ventures
-    round: seed
-    year: 2026
-    date: 2026-03-26
-investors: []
-founders:
-  - name: Matan Goldner
-    role: CEO & Co-Founder
-  - name: Tomer Kulla
-    role: CTO & Co-Founder
-status: published
-last_researched: 2026-03-30
 ---
 
 ## About

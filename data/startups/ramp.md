@@ -93,6 +93,7 @@ firms:
 - round: Seed
   slug: conversion-capital
   year: 2019
+- slug: 8vc
 founded: 2019
 founders:
 - name: Eric Glyman

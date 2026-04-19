@@ -1,27 +1,28 @@
 ---
-name: Alloy Therapeutics
-slug: alloy-therapeutics
-type: startup
-website: null
-location: Boston, MA
+firms:
+- round: series-e
+  slug: 8vc
+  year: 2026
+- slug: founders-fund
 founded: 2017
-status_company: active
+founders:
+- name: Errik Anderson
+  role: Founder & CEO
+investors: []
+last_researched: 2026-04-16
+location: Boston, MA
+name: Alloy Therapeutics
 sector:
 - biotech
 - AI
 - drug-discovery
+slug: alloy-therapeutics
 stage_latest: Series E
-total_raised: $40M+
-firms:
-- slug: 8vc
-  round: series-e
-  year: 2026
-investors: []
-founders:
-- name: Errik Anderson
-  role: Founder & CEO
 status: published
-last_researched: 2026-04-16
+status_company: active
+total_raised: $40M+
+type: startup
+website: null
 ---
 
 ## About

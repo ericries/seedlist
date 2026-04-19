@@ -75,6 +75,9 @@ firms:
 - round: Growth
   slug: gpx
   year: 2013
+- slug: general-catalyst
+- slug: kleiner-perkins
+- slug: y-combinator
 founded: 2008
 founders:
 - name: Brian Chesky

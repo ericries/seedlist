@@ -1,28 +1,31 @@
 ---
-name: Yuzu Health
-slug: yuzu-health
-type: startup
-website: https://www.yuzuhealth.com
+firms:
+- round: series-a
+  slug: general-catalyst
+  year: 2026
+- round: series-a
+  slug: neo
+  year: 2026
+- slug: chemistry-vc
+founders:
+- name: Max Kauderer
+  role: Co-Founder
+investors:
+- slug: lachy-groom
+last_researched: 2026-04-06
 location: New York, NY
-status_company: active
+name: Yuzu Health
 sector:
 - healthtech
 - insurance
 - infrastructure
+slug: yuzu-health
 stage_latest: Series A
-total_raised: $40M
-firms:
-- slug: general-catalyst
-  round: series-a
-  year: 2026
-- slug: neo
-  round: series-a
-  year: 2026
-founders:
-- name: Max Kauderer
-  role: Co-Founder
 status: published
-last_researched: 2026-04-06
+status_company: active
+total_raised: $40M
+type: startup
+website: https://www.yuzuhealth.com
 ---
 
 ## About

@@ -19,6 +19,7 @@ firms:
   round: series-c
   slug: y-combinator
   year: 2026
+- slug: menlo-ventures
 founded: 2021
 founders:
 - name: Victor Cardenas

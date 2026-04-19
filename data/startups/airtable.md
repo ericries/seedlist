@@ -42,6 +42,9 @@ firms:
 - round: Early
   slug: crv
   year: 2018
+- slug: d1-capital-partners
+- slug: dcvc
+- slug: iconiq-growth
 founded: 2012
 founders:
 - name: Howie Liu

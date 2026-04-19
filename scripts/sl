@@ -2067,12 +2067,200 @@ def cmd_xref_compute_lvi(slug_or_all, dry_run=False):
     print(f"xref-compute-lvi: {action} {updated} investor profiles")
 
 
+def cmd_xref_link_investors(slug_or_all="--all", dry_run=False):
+    """Parse startup Funding History tables, match investor/firm names to profiles, populate frontmatter, queue unknowns."""
+    startups_dir = DATA / "startups"
+    investors_dir = DATA / "investors"
+    firms_dir = DATA / "firms"
+
+    # Build lookup: name -> slug for investors and firms
+    inv_name_to_slug = {}
+    for p in investors_dir.glob("*.md"):
+        post = frontmatter.load(p)
+        name = post.metadata.get("name", "")
+        slug = post.metadata.get("slug", p.stem)
+        if name:
+            inv_name_to_slug[name.lower()] = slug
+
+    firm_name_to_slug = {}
+    for p in firms_dir.glob("*.md"):
+        post = frontmatter.load(p)
+        name = post.metadata.get("name", "")
+        slug = post.metadata.get("slug", p.stem)
+        if name:
+            firm_name_to_slug[name.lower()] = slug
+
+    # Determine targets
+    if slug_or_all == "--all":
+        targets = sorted(startups_dir.glob("*.md"))
+    else:
+        target = startups_dir / f"{slug_or_all}.md"
+        if not target.exists():
+            print(f"Startup not found: {slug_or_all}")
+            return
+        targets = [target]
+
+    # Load queue to check for existing entries
+    queue_path = DATA / "queue.yaml"
+    queue_data = yaml.safe_load(queue_path.read_text()) if queue_path.exists() else {}
+    queue_names = set()
+    for item in (queue_data.get("queue") or []):
+        queue_names.add(item.get("name", "").lower())
+
+    updated_startups = 0
+    added_fm_refs = 0
+    queued_new = []
+    unknown_firm_counts = {}  # name_lower -> {"name": original, "startups": [slug, ...]}
+
+    for sp in targets:
+        post = frontmatter.load(sp)
+        meta = post.metadata
+        content = post.content
+        startup_slug = meta.get("slug", sp.stem)
+
+        # Parse Funding History table for investor/firm names
+        names_found = set()
+        in_funding = False
+        header_seen = False
+        for line in content.split("\n"):
+            if line.strip().startswith("## Funding History"):
+                in_funding = True
+                continue
+            if in_funding and line.strip().startswith("## "):
+                break
+            if not in_funding:
+                continue
+            if line.strip().startswith("|") and "---" in line:
+                header_seen = True
+                continue
+            if not header_seen or not line.strip().startswith("|"):
+                continue
+            # Parse table row — columns: Date | Round | Amount | Lead | Co-investors
+            cols = [c.strip() for c in line.split("|")]
+            # cols[0] is empty (before first |), cols[-1] is empty (after last |)
+            cols = [c for c in cols if c]
+            if len(cols) < 4:
+                continue
+            # Lead is typically col[3], co-investors col[4]
+            lead_col = cols[3] if len(cols) > 3 else ""
+            coinv_col = cols[4] if len(cols) > 4 else ""
+            # Extract names (split by commas, strip footnotes)
+            for raw in (lead_col + ", " + coinv_col).split(","):
+                name = re.sub(r'\[\^\d+\]', '', raw).strip()
+                # Skip empty, dates, amounts, generic terms
+                if not name or name == "--" or name.startswith("$") or name.lower() in ("existing investors", "undisclosed", "n/a", "others"):
+                    continue
+                if len(name) > 2:
+                    names_found.add(name)
+
+            # Also check for round/year info
+            date_col = cols[0] if cols else ""
+            round_col = cols[1] if len(cols) > 1 else ""
+            year = None
+            if re.match(r'\d{4}', date_col):
+                year = int(date_col[:4])
+
+        if not names_found:
+            continue
+
+        # Get existing frontmatter slugs
+        existing_inv_slugs = set()
+        for inv in (meta.get("investors") or []):
+            if isinstance(inv, dict):
+                existing_inv_slugs.add(inv.get("slug", ""))
+            elif isinstance(inv, str):
+                existing_inv_slugs.add(inv)
+
+        existing_firm_slugs = set()
+        for f in (meta.get("firms") or []):
+            if isinstance(f, dict):
+                existing_firm_slugs.add(f.get("slug", ""))
+            elif isinstance(f, str):
+                existing_firm_slugs.add(f)
+
+        new_inv_entries = []
+        new_firm_entries = []
+        changed = False
+
+        for name in sorted(names_found):
+            nl = name.lower()
+            # Check if it's a known investor
+            if nl in inv_name_to_slug:
+                slug = inv_name_to_slug[nl]
+                if slug not in existing_inv_slugs:
+                    new_inv_entries.append({"slug": slug})
+                    existing_inv_slugs.add(slug)
+                    added_fm_refs += 1
+                    changed = True
+                continue
+            # Check if it's a known firm
+            if nl in firm_name_to_slug:
+                slug = firm_name_to_slug[nl]
+                if slug not in existing_firm_slugs:
+                    new_firm_entries.append({"slug": slug})
+                    existing_firm_slugs.add(slug)
+                    added_fm_refs += 1
+                    changed = True
+                continue
+            # Unknown — track firm names for batch queuing (only firms with 2+ appearances)
+            if nl not in queue_names:
+                firm_keywords = ("ventures", "capital", "partners", "fund", "group", "investment", "advisors", "management", "holdings")
+                is_firm = any(nl.endswith(k) or f" {k} " in f" {nl} " for k in firm_keywords)
+                if is_firm:
+                    if nl not in unknown_firm_counts:
+                        unknown_firm_counts[nl] = {"name": name, "startups": []}
+                    unknown_firm_counts[nl]["startups"].append(startup_slug)
+
+        if changed and not dry_run:
+            # Merge new entries into frontmatter
+            inv_list = meta.get("investors") or []
+            if isinstance(inv_list, list) and inv_list == []:
+                inv_list = []
+            inv_list.extend(new_inv_entries)
+            meta["investors"] = inv_list
+
+            firm_list = meta.get("firms") or []
+            if isinstance(firm_list, list) and firm_list == []:
+                firm_list = []
+            firm_list.extend(new_firm_entries)
+            meta["firms"] = firm_list
+
+            post.metadata = meta
+            sp.write_text(frontmatter.dumps(post) + "\n")
+            updated_startups += 1
+
+    # Only queue firms that appear in 2+ startup funding tables
+    for nl, info in unknown_firm_counts.items():
+        if len(info["startups"]) >= 2:
+            queued_new.append({
+                "name": info["name"],
+                "type": "firm",
+                "priority": "high" if len(info["startups"]) >= 5 else "normal",
+                "source": f"investor in {len(info['startups'])} startup funding rounds",
+                "discovered_from": info["startups"][0],
+            })
+            queue_names.add(nl)
+
+    # Write queued items to pending file
+    if queued_new and not dry_run:
+        pending_path = DATA / ".pending-queue-adds.yaml"
+        existing_pending = []
+        if pending_path.exists():
+            existing_pending = yaml.safe_load(pending_path.read_text()) or []
+        existing_pending.extend(queued_new)
+        pending_path.write_text(yaml.dump(existing_pending, default_flow_style=False, allow_unicode=True))
+
+    action = "Would update" if dry_run else "Updated"
+    print(f"xref-link-investors: {action} {updated_startups} startups, added {added_fm_refs} frontmatter refs, queued {len(queued_new)} new entities")
+
+
 def cmd_xref_all(dry_run=False):
     """Run all cross-reference operations across the entire repo."""
     print("Running cross-reference reconciliation...")
     cmd_xref_backfill_startup("--all", dry_run=dry_run)
     cmd_xref_reconcile_firm("--all", dry_run=dry_run)
     cmd_xref_compute_lvi("--all", dry_run=dry_run)
+    cmd_xref_link_investors("--all", dry_run=dry_run)
 
 
 def cmd_xref_report(slug):
@@ -2979,6 +3167,10 @@ def main():
             sys.exit(1)
         dry_run = "--dry-run" in sys.argv
         cmd_xref_compute_lvi(sys.argv[2], dry_run=dry_run)
+    elif cmd == "xref-link-investors":
+        dry_run = "--dry-run" in sys.argv
+        slug = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith("--") else "--all"
+        cmd_xref_link_investors(slug, dry_run=dry_run)
     elif cmd == "xref-all":
         dry_run = "--dry-run" in sys.argv
         cmd_xref_all(dry_run=dry_run)

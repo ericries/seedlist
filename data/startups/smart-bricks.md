@@ -3,6 +3,7 @@ firms:
 - round: pre-seed
   slug: andreessen-horowitz
   year: 2026
+- slug: 500-global
 founded: 2024
 founders:
 - name: Mohamed Mohamed

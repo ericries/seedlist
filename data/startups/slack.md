@@ -67,6 +67,7 @@ firms:
 - round: Series (via GV)
   slug: true-ventures
   year: 2013
+- slug: andreessen-horowitz
 founded: 2009
 founders:
 - name: Stewart Butterfield

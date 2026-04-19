@@ -1,18 +1,7 @@
 ---
-name: Miravoice
-slug: miravoice
-type: startup
-website: https://www.miravoice.com
-location: California
+firms:
+- slug: neo
 founded: ~2025
-status_company: active
-sector:
-- AI
-- enterprise-software
-- market-research
-stage_latest: Seed
-total_raised: $6.3M
-firms: []
 founders:
 - name: Nishant Jain
   role: CEO & Co-Founder
@@ -20,8 +9,21 @@ founders:
   role: Co-Founder
 - name: Shreyas Tirumala
   role: Co-Founder
-status: published
+investors: []
 last_researched: 2026-04-02
+location: California
+name: Miravoice
+sector:
+- AI
+- enterprise-software
+- market-research
+slug: miravoice
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $6.3M
+type: startup
+website: https://www.miravoice.com
 ---
 
 ## About

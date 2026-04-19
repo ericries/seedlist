@@ -60,6 +60,8 @@ firms:
 - round: Seed
   slug: oatv
   year: 2013
+- slug: founders-fund
+- slug: general-catalyst
 founded: 2012
 founders:
 - name: Dylan Field

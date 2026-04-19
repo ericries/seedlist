@@ -1,26 +1,27 @@
 ---
-name: Lua
-slug: lua-ai
-type: startup
-website: "https://lua.ai"
-location: London, United Kingdom
+firms:
+- slug: y-combinator
 founded: 2025
-status_company: active
-sector:
-- AI
-- enterprise
-- developer-tools
-stage_latest: Seed
-total_raised: $5.8M
-firms: []
-investors: []
 founders:
 - name: Lorcan O'Cathain
   role: Co-Founder & CEO
 - name: Stefan Kruger
   role: Co-Founder & CTO
-status: published
+investors: []
 last_researched: 2026-04-17
+location: London, United Kingdom
+name: Lua
+sector:
+- AI
+- enterprise
+- developer-tools
+slug: lua-ai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5.8M
+type: startup
+website: https://lua.ai
 ---
 
 ## About

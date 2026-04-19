@@ -84,6 +84,7 @@ firms:
 - round: Early
   slug: outlander-vc
   year: 2012
+- slug: founders-fund
 founded: 2010
 founders:
 - name: Patrick Collison
