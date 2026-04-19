@@ -116,6 +116,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Punchup Live | Seed | 2025 | Entertainment | Active [^7] |
 | Noble Mobile | Seed | 2025 | Mobile | Active [^7] |
 | Uniblock | Seed | 2026 | Web3/Blockchain | Active [^19] |
+| Sage Haven | Pre-Seed | 2026 | Consumer/Kids Safety | Active [^7] |
 
 Note: Many early portfolio entries (marked with ~) use approximate years based on fund timing and available data. The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
 

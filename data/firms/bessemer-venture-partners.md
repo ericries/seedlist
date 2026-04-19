@@ -152,6 +152,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Twitch | Early | 2012 | Consumer | [^9] |
 | Blue Apron | Early | 2013 | Consumer | [^9] |
 | Legora | Series D | 2026 | AI/Legal Tech | [^15] |
+| Zenskar | Series A | 2026 | Fintech/Billing | [^9] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 

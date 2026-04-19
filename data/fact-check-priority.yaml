@@ -4,4 +4,10 @@
 # The Fact Specificity Agent checks this file FIRST before the general queue.
 # After checking a profile, remove it from this list.
 
-priority: []
+priority:
+  - slug: hustle-fund
+    type: firm
+    reason: "added Sage Haven $3M pre-seed to portfolio (2026-04-18)"
+  - slug: bessemer-venture-partners
+    type: firm
+    reason: "added Zenskar $15M Series A to portfolio (2026-04-18)"

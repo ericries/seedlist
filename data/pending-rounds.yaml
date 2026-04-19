@@ -1,4 +1,14 @@
 pending_rounds:
+- title: Sage Haven raised $3M pre-seed
+  url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
+  source: web-search
+  date_found: '2026-04-18'
+  parsed_company: Sage Haven
+  parsed_amount: $3M
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile sage-haven.md; led by Hustle Fund with scout funds
+    from a16z, Accel, Kleiner Perkins
 - title: New Era Energy & Digital Secures Funding for Development of its Ector County,
     Texas Data Center Campus, Including Exercise of Underwriters’ Option
   url: https://www.globenewswire.com/news-release/2026/04/14/3273905/0/en/New-Era-Energy-Digital-Secures-Funding-for-Development-of-its-Ector-County-Texas-Data-Center-Campus-Including-Exercise-of-Underwriters-Option.html
@@ -10,6 +20,16 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: u003e raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-19'
+  parsed_company: u003e
+  parsed_amount: $150M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact from Axios; unicode escape for '>' character, not a company
+    name
 - title: Swedish semiconductor startup AlixLabs closes €15 million Series A to scale
     atomic-level etching technology
   url: https://www.eu-startups.com/2026/04/swedish-semiconductor-startup-alixlabs-closes-e15-million-series-a-to-scale-atomic-level-etching-technology/
@@ -130,10 +150,10 @@ pending_rounds:
   date_found: '2026-04-17'
   parsed_company: TextQL
   parsed_amount: $17M
-  parsed_round: null
-  status: skipped
-  skip_reason: could not verify; no public announcement found for $17M round; last
-    known round was $4.1M seed in 2024
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile textql.md; $17M anchored by Blackstone Innovations
+    Investments
 - title: Zenskar raised $15M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -141,9 +161,8 @@ pending_rounds:
   parsed_company: Zenskar
   parsed_amount: $15M
   parsed_round: Series A
-  status: skipped
-  skip_reason: could not verify; no public announcement found for $15M Series A; last
-    known round was $6.5M seed
+  status: processed
+  notes: confirmed via BusinessWire announcement; zenskar.md already created and published
 - title: Lua raised $5.8M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -181,7 +200,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: extracted Zenskar $15M Series A (already profiled as zenskar.md)
 - title: Axios Sonire Therapeutics raised $18M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -926,12 +946,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile round-finance.md (London-based fintech)
-- title: Adams Street Partners raised $7.5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-13'
-  parsed_company: Adams Street Partners
-  parsed_amount: $7.5B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE/VC fund raise, not a startup round
