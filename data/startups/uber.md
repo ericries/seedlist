@@ -295,17 +295,17 @@ Uber is a ride-hailing and logistics platform founded in 2009 by Travis Kalanick
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Oct 2010 | $1.25M | First Round Capital | Lowercase Capital, Chris Sacca, Founder Collective | — |
-| Series A | Feb 2011 | $11M | Benchmark Capital | — | $60M post-money |
-| Series B | Dec 2011 | $32M | Menlo Ventures (Shervin Pishevar) | Jeff Bezos, Goldman Sachs, Benchmark | — |
-| Series C | Aug 2013 | $258M | Google Ventures, TPG | — | $3.4B pre-money |
+| Seed | Oct 2010 | $1.25M | First Round Capital | Lowercase Capital, Chris Sacca, Founder Collective | ~$4M [^12] |
+| Series A | Feb 2011 | $11M | Benchmark Capital | Alfred Lin (individual) | $60M post-money [^3] |
+| Series B | Dec 2011 | $32M | Menlo Ventures (Shervin Pishevar) | Jeff Bezos, Goldman Sachs, Benchmark | $322M [^13] |
+| Series C | Aug 2013 | $258M (GV) / $361M total | Google Ventures, TPG | Benchmark | $3.4B pre-money [^5] |
 | Series D | Jun 2014 | $1.2B | Fidelity, Wellington, BlackRock | Summit Partners, Kleiner Perkins, Google Ventures, Menlo Ventures | $17B pre-money |
-| Series E | Dec 2014 | $2.8B | — | Qatar Investment Authority, Baidu, New Enterprise Associates, Lone Pine Capital, Valiant Capital | $40B |
-| Series F | Jul 2015 | ~$1B | — | Microsoft, Kingdom Holding Company | ~$50B |
-| Series G (initial) | Dec 2015 | $2.1B | — | Tiger Global, T. Rowe Price | $62.5B |
-| Series G (PIF) | Jun 2016 | $3.5B | Public Investment Fund (Saudi Arabia) | — | $62.5B |
-| Series G (SoftBank) | Jan 2018 | $7B+ | SoftBank Vision Fund | — | — |
-| IPO | May 2019 | $8.1B | — | — | $82.4B |
+| Series E | Dec 2014 | $2.8B | Sequoia Capital | Qatar Investment Authority, Baidu, New Enterprise Associates, Lone Pine Capital, Valiant Capital | $40B [^7] |
+| Series F | Jul 2015 | ~$1B | Multiple investors | Microsoft, Kingdom Holding Company, Bennett Coleman & Co. | ~$51B [^14] |
+| Series G (initial) | Dec 2015 | $2.1B | Tiger Global | T. Rowe Price | $62.5B [^8] |
+| Series G (PIF) | Jun 2016 | $3.5B | Public Investment Fund (Saudi Arabia) | Existing investors | $62.5B [^9] |
+| Series G (SoftBank) | Jan 2018 | $7B+ | SoftBank Vision Fund | Existing investors | ~$48B (secondary) [^10] |
+| IPO | May 2019 | $8.1B | Morgan Stanley, Goldman Sachs (underwriters) | Existing investors | $82.4B [^2] |
 
 Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11]
 
@@ -330,3 +330,6 @@ No independently sourced founder testimonials found.
 [^9]: Fortune, "Uber Raises $3.5 Billion From Saudi Arabia's Public Investment Fund," June 1, 2016. https://fortune.com/2016/06/01/uber-funding-saudi-arabia/
 [^10]: CNN Business, "SoftBank and Saudi Arabia are two big winners from the Uber IPO," April 12, 2019. https://www.cnn.com/2019/04/12/tech/uber-ipo-softbank-saudi-arabia
 [^11]: Tracxn, "Uber - 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/uber/__wAOgbkstxol2NgmW5SFgVp8zBi7klH1GO5ziIlSERR4/funding-and-investors
+[^12]: TechCrunch, "UberCab Closes Uber Angel Round," October 15, 2010. https://techcrunch.com/2010/10/15/ubercab-closes-uber-angel-round/
+[^13]: BSIC, "Uber's road to IPO and beyond," accessed April 2026. https://bsic.it/ubers-road-to-ipo-and-beyond-a-success-story-that-might-just-continue/
+[^14]: Fortune, "Uber Raises Nearly $1 Billion at Valuation Over $50 Billion," July 31, 2015. https://fortune.com/2015/07/31/uber-valuation-funding-round/

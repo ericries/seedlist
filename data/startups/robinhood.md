@@ -141,19 +141,19 @@ Robinhood is a financial services company that offers commission-free trading of
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Dec 2013 | $3M | Index Ventures | Andreessen Horowitz, Google Ventures, Tim Draper, Howard Lindzon | — |
-| Series A | Sep 2014 | $13M | Index Ventures | Ribbit Capital, Aaron Levie, Jared Leto, Snoop Dogg, Nas | — |
-| Series B | May 2015 | $50M | NEA | Index Ventures, Ribbit Capital, Social Leverage | — |
+| Seed | Dec 2013 | $3M | Index Ventures | Andreessen Horowitz, Google Ventures, Tim Draper, Howard Lindzon | Undisclosed |
+| Series A | Sep 2014 | $13M | Index Ventures | Ribbit Capital, Aaron Levie, Jared Leto, Snoop Dogg, Nas | Undisclosed |
+| Series B | May 2015 | $50M | NEA | Index Ventures, Ribbit Capital, Social Leverage, Vaizra Investments | $250M post-money [^10] |
 | Series C | Apr 2017 | $110M | DST Global | Greenoaks Capital, Thrive Capital | $1.3B |
 | Series D | May 2018 | $363M | DST Global | Iconiq, Capital G, Sequoia Capital, Kleiner Perkins, NEA, Thrive Capital | $5.6B |
 | Series E | Jul 2019 | $323M | DST Global | Ribbit Capital, NEA, Sequoia, Thrive Capital | $7.6B |
-| Series F | May 2020 | $280M | Sequoia Capital | — | — |
-| Series F ext. | Jul 2020 | $320M | IVP, TSG Consumer Partners | — | $8.6B |
-| Series G | Aug 2020 | $200M | D1 Capital Partners | — | $11.2B |
-| Series G ext. | Sep 2020 | $460M | — | — | — |
-| Series H | Jan 2021 | $1B | Ribbit Capital | — | — |
-| Private Equity | Feb 2021 | $2.4B | Ribbit Capital | — | — |
-| IPO | Jul 2021 | ~$2B | — | — | $32B |
+| Series F | May 2020 | $280M | Sequoia Capital | NEA, Ribbit Capital, 9Yards Capital, Unusual Ventures | $8.3B [^10] |
+| Series F ext. | Jul 2020 | $320M | IVP, TSG Consumer Partners | Existing investors | $8.6B |
+| Series G | Aug 2020 | $200M | D1 Capital Partners | Existing investors | $11.2B [^11] |
+| Series G ext. | Sep 2020 | $460M | D1 Capital Partners | Andreessen Horowitz, Sequoia, DST Global, Ribbit Capital, 9Yards Capital | $11.7B [^12] |
+| Series H | Jan 2021 | $1B | Ribbit Capital | NEA, Index Ventures, ICONIQ Capital | Convertible note (30% discount to IPO price) [^13] |
+| Private Equity | Feb 2021 | $2.4B | Ribbit Capital | ICONIQ Capital, Andreessen Horowitz, Sequoia, Index Ventures, NEA | Convertible note [^14] |
+| IPO | Jul 2021 | ~$1.9B (net proceeds) | Goldman Sachs, J.P. Morgan (underwriters) | Barclays, Citigroup, Wells Fargo Securities | $32B [^15] |
 
 Sources: [^2][^4][^5][^6][^7][^8][^9]
 
@@ -176,3 +176,9 @@ No independently sourced founder testimonials found.
 [^7]: Robinhood Newsroom, "Robinhood Raises $323M to Democratize Finance For All," July 2019. https://robinhood.com/us/en/newsroom/robinhood-raises-323m-to-democratize-finance-for-all/
 [^8]: Tracxn, "Robinhood - 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/robinhood/__ftFGCJ3CCjzKvgmHzIC3I7cNIjrIk2k6uypP6P1qOWk/funding-and-investors
 [^9]: Crunchbase News, "Robinhood IPO Misses Mark But Strikes Gold For Founders And VCs," July 2021. https://news.crunchbase.com/business/robinhood-ipo-nasdaq-hood/
+[^10]: TechCrunch, "Robinhood raises $280M, pushing its valuation to $8.3B," May 4, 2020. https://techcrunch.com/2020/05/04/robinhood-raises-280m-pushing-its-valuation-to-8-3b/
+[^11]: CNBC, "Robinhood announces another mega round, valuation soars to $11.2B," August 17, 2020. https://www.cnbc.com/2020/08/17/robinhood-announces-another-mega-round-valuation-soars-to-11point2b.html
+[^12]: PitchBook, "Robinhood worth $11.7B after adding to Series G," September 2020. https://pitchbook.com/newsletter/robinhood-worth-117b-after-adding-to-series-g
+[^13]: PitchBook, "Ribbit, Robinhood's key fintech VC firm, steps up at pivotal moment," January 2021. https://pitchbook.com/news/articles/ribbit-capital-robinhood-fintech-vc-pivotal-moment
+[^14]: CNBC, "Why investors were willing to write Robinhood a $3 billion check during the GameStop chaos," February 3, 2021. https://www.cnbc.com/2021/02/03/why-investors-were-willing-to-write-robinhood-a-3-billion-check-during-the-gamestop-chaos-.html
+[^15]: GlobeNewsWire, "Robinhood Markets, Inc. Announces Pricing of Initial Public Offering," July 29, 2021. https://www.globenewswire.com/news-release/2021/07/29/2270831/0/en/Robinhood-Markets-Inc-Announces-Pricing-of-Initial-Public-Offering.html
