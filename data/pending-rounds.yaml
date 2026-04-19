@@ -1,14 +1,4 @@
 pending_rounds:
-- title: Sage Haven raised $3M pre-seed
-  url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
-  source: web-search
-  date_found: '2026-04-18'
-  parsed_company: Sage Haven
-  parsed_amount: $3M
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created startup profile sage-haven.md; led by Hustle Fund with scout funds
-    from a16z, Accel, Kleiner Perkins
 - title: New Era Energy & Digital Secures Funding for Development of its Ector County,
     Texas Data Center Campus, Including Exercise of Underwriters’ Option
   url: https://www.globenewswire.com/news-release/2026/04/14/3273905/0/en/New-Era-Energy-Digital-Secures-Funding-for-Development-of-its-Ector-County-Texas-Data-Center-Campus-Including-Exercise-of-Underwriters-Option.html
@@ -28,8 +18,18 @@ pending_rounds:
   parsed_amount: $150M
   parsed_round: null
   status: skipped
-  skip_reason: parsing artifact from Axios; unicode escape for '>' character, not a company
-    name
+  skip_reason: parsing artifact from Axios; unicode escape for '>' character, not
+    a company name
+- title: Sage Haven raised $3M pre-seed
+  url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
+  source: web-search
+  date_found: '2026-04-18'
+  parsed_company: Sage Haven
+  parsed_amount: $3M
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile sage-haven.md; led by Hustle Fund with scout funds
+    from a16z, Accel, Kleiner Perkins
 - title: Swedish semiconductor startup AlixLabs closes €15 million Series A to scale
     atomic-level etching technology
   url: https://www.eu-startups.com/2026/04/swedish-semiconductor-startup-alixlabs-closes-e15-million-series-a-to-scale-atomic-level-etching-technology/
@@ -937,12 +937,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile ultralight.md
-- title: Round raised $6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-13'
-  parsed_company: Round
-  parsed_amount: $6M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile round-finance.md (London-based fintech)
