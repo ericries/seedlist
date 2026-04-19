@@ -674,6 +674,22 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   margin-right: 0.35rem;
 }
 
+.cluster-stages, .cluster-location {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+.cluster-portfolio {
+  font-size: 0.82rem;
+  color: var(--color-muted);
+  margin-bottom: 0.5rem;
+}
+
+.cluster-portfolio-label {
+  font-weight: 600;
+  margin-right: 0.25rem;
+}
+
 .cluster-members {
   font-size: 0.85rem;
   line-height: 1.8;

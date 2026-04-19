@@ -10,12 +10,36 @@
   {% if groups %}
   <div class="clusters-grid">
     {% for c in groups %}
-    <div class="cluster-card" id="{{ c.id }}">
-      <h2 class="cluster-name">{{ c.name }}</h2>
-      <p class="cluster-tagline">{{ c.tagline }}</p>
+    <div class="cluster-card" id="cluster-{{ c.id }}">
+      <h2 class="cluster-name">
+        {%- if c.name -%}
+          {{ c.name }}
+        {%- elif c.top_sectors -%}
+          {{ c.top_sectors[:3] | join(', ') | title }}
+        {%- else -%}
+          Group {{ c.id + 1 }}
+        {%- endif -%}
+      </h2>
+      {% if c.tagline %}
+        <p class="cluster-tagline">{{ c.tagline }}</p>
+      {% elif c.summary %}
+        <p class="cluster-tagline">{{ c.summary }}</p>
+      {% endif %}
       <div class="cluster-meta">
-        <span class="cluster-size">{{ c.size }} investors</span>
+        <span class="cluster-size">{{ c.size or c.members|length }} investors</span>
+        {% if c.top_stages %}
+          <span class="cluster-stages">{{ c.top_stages[:2] | join(', ') }}</span>
+        {% endif %}
+        {% if c.top_locations %}
+          <span class="cluster-location">{{ c.top_locations[0] }}</span>
+        {% endif %}
       </div>
+      {% if c.shared_portfolio %}
+      <div class="cluster-portfolio">
+        <span class="cluster-portfolio-label">Shared investments:</span>
+        {{ c.shared_portfolio[:5] | join(', ') }}
+      </div>
+      {% endif %}
       <div class="cluster-members">
         {% for member in c.members %}
           <a href="/investors/{{ member.slug }}.html" class="cluster-member-link">{{ member.name }}</a>{% if not loop.last %}, {% endif %}
