@@ -3,9 +3,9 @@ check_size: $10M–$90M (a16z fund investments)
 firm: andreessen-horowitz
 last_researched: 2026-03-27
 last_verified_investment:
-  company: Return Path
-  date: ~2019
-  round: --
+  company: unitQ
+  date: 2020-03-03
+  round: Series A
 location: San Francisco Bay Area
 name: Scott Weiss
 role: General Partner (2011–2016); currently board-only
@@ -76,20 +76,20 @@ Based on 14 verified investments in the portfolio table below, the following pat
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| Silver Tail Systems | 2011 | -- | Security/fraud detection | Acquired by EMC (2012) | [^13] |
+| Silver Tail Systems | 2011 | Series B | Security/fraud detection | Acquired by EMC (2012) | [^13][^22] |
 | Jumio | 2012 | Series B | Identity verification | Active | [^14] |
 | Bluebox Security | 2012 | Series A | Mobile security | Acquired by Lookout | [^15] |
-| Skout | ~2012 | -- | Social/mobile | Acquired by MeetMe (2016) | [^4] |
-| App.net | 2012 | -- | Social networking | Shut down | [^16] |
+| Skout | 2012 | Series A | Social/mobile | Acquired by MeetMe (2016) | [^4][^23] |
+| App.net | 2012 | Series A | Social networking | Shut down | [^16] |
 | Lyft | 2013 | Series C | Transportation/ridesharing | IPO (2019) | [^17] |
 | Dwolla | 2013 | Series C | Fintech/payments | Active | [^18] |
 | Pindrop | 2013 | Series A | Security/voice fraud | Active | [^19] |
-| Return Path | ~2013 | -- | Email deliverability | Acquired by Validity (2019) | [^4] |
-| Quirky | ~2013 | -- | Consumer hardware | Bankruptcy (2015) | [^4] |
-| Platfora | ~2013 | -- | Big data analytics | Acquired by Workday (2016) | [^4] |
+| Return Path | ~2013 | Board/Angel | Email deliverability | Acquired by Validity (2019) | [^4] |
+| Quirky | 2012 | Series C | Consumer hardware | Bankruptcy (2015) | [^4][^24] |
+| Platfora | 2011 | Series A | Big data analytics | Acquired by Workday (2016) | [^4][^25] |
 | Optimizely | 2014 | Series B | A/B testing/SaaS | Acquired by Episerver (2020) | [^20] |
-| Distelli | ~2014 | -- | DevOps/deployment | Acquired by Puppet (2017) | [^4] |
-~unknown| unitQ | -- | -- | Quality monitoring/SaaS | Active | [^7] |
+| Distelli | 2015 | Series A | DevOps/deployment | Acquired by Puppet (2017) | [^4][^26] |
+| unitQ | 2020 | Series A | Quality monitoring/SaaS | Active | [^7][^27] |
 
 *This table represents a partial view of Weiss's deal involvement at a16z from 2011 to 2016. Weiss held board seats at all listed companies except where noted [^4][^8].*
 
@@ -150,3 +150,9 @@ No independently sourced founder testimonials found. Weiss's blog posts referenc
 [^19]: PR Newswire, "Pindrop Security Raises $11M From Andreessen Horowitz And Citi Ventures," June 19, 2013. https://www.prnewswire.com/news-releases/pindrop-security-raises-11m-from-andreessen-horowitz-and-citi-ventures-to-solve-bank-phone-fraud-and-enterprise-call-center-security-212128021.html
 [^20]: Andreessen Horowitz, "A New Enterprise Software Franchise: Optimizely," Scott Weiss, May 5, 2014. https://a16z.com/a-new-enterprise-software-franchise-optimizely/
 [^21]: Fortune, "One of Silicon Valley's Most Prominent Investors Is Joining Lyft's Board of Directors," November 7, 2016. https://fortune.com/2016/11/07/ben-horowitz-lyft-board/
+[^22]: SecurityWeek, "Andreessen Horowitz Leads $20M Funding Round in Fraud Analytics firm Silver Tail Systems," 2011, accessed April 2026. https://www.securityweek.com/andreessen-horowitz-leads-20m-funding-round-fraud-analytics-firm-silver-tail-systems/
+[^23]: TechCrunch, "The Story of Skout: From Deadpool's Door to $22M Led By Andreessen Horowitz," April 2012, accessed April 2026. https://techcrunch.com/2012/04/03/skout-andreessen-horowitz-22m/
+[^24]: Pando, "Quirky Raises a $68M Round Led by Andreessen Horowitz," September 2012, accessed April 2026. https://pando.com/2012/09/06/quirky-raises-a-68m-round-led-by-andreessen-horowitz-to-reinvent-the-invention-process/
+[^25]: TechCrunch, "Andreessen Horowitz Leads $5.7M Round In Analytics Platform For Hadoop Data Platfora," September 2011, accessed April 2026. https://techcrunch.com/2011/09/08/andreessen-horowitz-leads-5-7m-round-in-analytics-platform-for-hadoop-data-platfora/
+[^26]: TechCrunch, "Distelli Snags $2.8M To Build Deployment As A Service," January 2015, accessed April 2026. https://techcrunch.com/2015/01/20/distelli-snags-2-8m-to-build-deployment-as-a-service/
+[^27]: PR Newswire, "unitQ, The Quality Company, Launches With $11m Series A," March 2020, accessed April 2026. https://www.prnewswire.com/news-releases/unitq-the-quality-company-launches-with-11m-series-a-to-help-squash-software-bugs-301014213.html

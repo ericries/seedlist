@@ -81,17 +81,17 @@ Insufficient data to identify co-investor patterns from the verified portfolio.
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | YieldClub | Seed | 2025 | Fintech | [^11] |
-| Emerging Travel Group | Unknown | ~2020 | Travel | [^11] |
+| Emerging Travel Group | Late Stage | ~2020 | Travel | [^11] |
 | Hipcamp | Seed | 2014 | Outdoor travel marketplace | [^13] |
 | Getaround | Series A | ~2013 | Peer-to-peer car sharing | [^5][^10] |
 | AngelList | Series B | ~2014 | Investing platform | [^5] |
-| Apartment List | Unknown | ~2014 | Real estate marketplace | [^10] |
-| Gametime | Unknown | ~2015 | Live events tickets | [^10] |
-| Omni | Unknown | ~2016 | On-demand storage | [^10] |
-| Thimble | Unknown | ~2018 | Insurance | [^11] |
-| Verifly | Unknown | ~2016 | Drone insurance | [^10] |
-| Foraged | Unknown | ~2022 | Food marketplace | [^11] |
-| Hitch | Unknown | ~2022 | Travel | [^11] |
+| Apartment List | Series A | ~2013 | Real estate marketplace | [^10][^16] |
+| Gametime | Seed | 2014 | Live events tickets | [^10][^17] |
+| Omni | Seed | ~2016 | On-demand storage | [^10][^18] |
+| Thimble | Seed | ~2015 | Insurance | [^11][^19] |
+| Verifly | Seed | ~2016 | Drone insurance | [^10][^20] |
+| Foraged | Seed | ~2022 | Food marketplace | [^11][^21] |
+| Hitch | Seed | 2022 | Travel | [^11][^22] |
 | Zizoo | Seed | ~2016 | Boat rental marketplace | [^11][^14] |
 
 *Note: Many investment years are estimated based on company founding dates and round timing. This table represents approximately 10% of Shank's reported 139 total investments [^5]. Only investments with publicly verifiable sources are included.*
@@ -127,3 +127,10 @@ No independently sourced founder testimonials found.
 [^13]: TechCrunch, "Hipcamp Cooks Up $2M Seed To Get People Camping," September 2014. https://techcrunch.com/2014/09/30/hipcamp-cooks-up-2m-seed-to-get-people-camping/
 [^14]: EU-Startups, "Europe's leading boat rental platform Zizoo secures €1.7 million," July 2016. https://www.eu-startups.com/2016/07/europes-leading-boat-rental-platform-zizoo-secures-e1-7-million-to-make-boat-holidays-easy-and-affordable-for-everyone/
 [^15]: First Round Review, "From Burning Millions to Turning Profitable in Seven Months — How HotelTonight Did It," accessed March 2026. https://review.firstround.com/from-burning-millions-to-turning-profitable-in-seven-months-how-hoteltonight-did-it/
+[^16]: Tracxn, "Apartment List Funding Rounds," accessed April 2026. https://tracxn.com/d/companies/apartment-list/__njncFSz8OVB9e1TT9f3x8wXWSwe2DLBc1QnQlCtJTio/funding-and-investors
+[^17]: Gametime Wikipedia, "Gametime funding history," accessed April 2026. https://en.wikipedia.org/wiki/Gametime
+[^18]: Fortune, "Storage Startup Omni Raises $10 Million," May 2016, accessed April 2026. https://fortune.com/2016/05/06/omni-envisions-true-sharing-economy/
+[^19]: TechCrunch, "Newly rebranded Thimble raises $22M," October 2019, accessed April 2026. https://techcrunch.com/2019/10/15/newly-rebranded-thimble-raises-22m-to-bring-insurance-to-the-gig-economy/
+[^20]: TechCrunch, "Verifly launches drone insurance by the flight," August 2016, accessed April 2026. https://techcrunch.com/2016/08/08/verifly-launches-drone-insurance-by-the-flight-and-on-demand-in-the-us/
+[^21]: TechCrunch, "Foraged's wild foods marketplace," July 2023, accessed April 2026. https://techcrunch.com/2023/07/12/foraged-mushroom-marketplace-seed/
+[^22]: Tracxn, "Hitch Funding Rounds," accessed April 2026. https://tracxn.com/d/companies/hitch/__9bhwnGrbsMNkFduQdvXcixkSHYKQ45CN05CCh4K9jmc/funding-and-investors

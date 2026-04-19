@@ -84,16 +84,16 @@ This table includes 17 verified investments. Sources indicate Krieger may have m
 |---------|-------|------|--------|--------|--------|
 | Figma | Series C | ~2018 | Design Tools | Active (IPO pending) | [^10] |
 | Scale AI | Series C | ~2019 | AI/Data | Active | [^10] |
-| ElevenLabs | Unknown | ~2023 | AI/Voice | Active | [^12] |
-| Supabase | Unknown | ~2022 | Developer Tools | Active | [^12] |
-| Mirage | Unknown | ~2023 | AI | Active | [^12] |
-| incident.io | Unknown | ~2023 | Developer Tools | Active | [^12] |
-| Opal Camera | Unknown | ~2022 | Consumer Electronics | Active | [^12] |
+| ElevenLabs | Series A | 2023 | AI/Voice | Active | [^12][^13] |
+| Supabase | Series B | ~2022 | Developer Tools | Active | [^12] |
+| Mirage | Series C | ~2024 | AI | Active | [^12][^14] |
+| incident.io | Series A | ~2022 | Developer Tools | Active | [^12][^15] |
+| Opal Camera | Series A | 2023 | Consumer Electronics | Active | [^12][^16] |
 | Portola | Seed | 2025 | Fintech | Active | [^12] |
-| Openlayer | Unknown | ~2023 | AI/ML Ops | Active | [^12] |
-| Granola | Unknown | ~2024 | Productivity | Active | [^12] |
-| Rooms | Unknown | ~2023 | Multimedia | Active | [^12] |
-| The Wedding Company | Unknown | ~2022 | Consumer | Active | [^12] |
+| Openlayer | Seed | ~2021 | AI/ML Ops | Active | [^12][^17] |
+| Granola | Seed | ~2024 | Productivity | Active | [^12][^18] |
+| Rooms | Seed | ~2023 | Multimedia | Active | [^12][^19] |
+| The Wedding Company | Pre-Seed | ~2022 | Consumer | Active | [^12] |
 | Titan | Series A | ~2019 | Asset Management | Active | [^10] |
 | Loom | Series B | ~2019 | Video/Productivity | Acquired (Atlassian, $975M) | [^10] |
 | Loft | Series B | ~2020 | Real Estate | Active | [^10] |
@@ -144,3 +144,10 @@ No independently sourced founder testimonials found. CodeCrafters' seed announce
 [^10]: Arete Index, "Mike Krieger investor profile," accessed March 2026. https://www.areteindex.com/angels/mike-krieger/
 [^11]: CodeCrafters, "Our $1.8M Seed Fundraise," November 2024, accessed March 2026. https://codecrafters.io/blog/seed
 [^12]: Premier Alternatives, "Mike Krieger — ANGEL Profile, Portfolio & Investments," accessed March 2026. https://www.premieralts.com/investors/mike-krieger
+[^13]: TechCrunch, "ElevenLabs raises $19M Series A," June 2023, accessed April 2026. https://catalaize.substack.com/p/inside-elevenlabs-33b-ai-unicorn
+[^14]: Index Ventures, "Mirage Raises $60M in Series C Funding," July 2024, accessed April 2026. https://www.indexventures.com/perspectives/captions-raises-60m-in-series-c-funding-to-invest-in-generative-video-research/
+[^15]: TechCrunch, "Incident.io raises $28.7M Series A," July 2022, accessed April 2026. https://techcrunch.com/2022/07/13/incident-io-looks-to-beef-up-its-slack-based-incident-response-platform-with-28-7m-in-fresh-cash/
+[^16]: Opal Camera, "Opal Camera Closes $17M Series A," October 2023, accessed April 2026. https://opalcamera.com/newsroom/opal-series-a
+[^17]: Openlayer blog, "Openlayer raises $4.8M seed round," accessed April 2026. https://www.openlayer.com/blog/post/openlayer-raises-usd4-8m-seed-round-to-build-guardrails-for-ai
+[^18]: Granola blog, "Granola raises $20M Series A," October 2024, accessed April 2026. https://www.granola.ai/blog/series-a
+[^19]: TechCrunch, "a16z-backed Rooms.xyz," May 2023, accessed April 2026. https://techcrunch.com/2023/05/16/a16z-backed-rooms-xyz-lets-you-build-interactive-3d-rooms-and-simple-games-in-your-browser/
