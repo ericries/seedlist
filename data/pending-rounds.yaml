@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: parsing artifact from Axios; unicode escape for '>' character, not
     a company name
+- title: Cracks are starting to form on fusion energy’s funding boom
+  url: https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/
+  source: techcrunch
+  date_found: '2026-04-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Sage Haven raised $3M pre-seed
   url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
   source: web-search
@@ -928,12 +936,3 @@ pending_rounds:
   status: processed
   notes: extracted new deals HeyDonto $20M seed, SimpliFed $10.8M Series A, Poke $10M
     seed extension; most other deals already had profiles
-- title: Ultralight raised $9.3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-13'
-  parsed_company: Ultralight
-  parsed_amount: $9.3M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile ultralight.md
