@@ -72,7 +72,7 @@ Required markdown sections, in order:
    - Founder profile patterns (technical founders, repeat founders, etc.)
    - Co-investor patterns
    - Any patterns not mentioned in their stated thesis
-4. **## Portfolio** — Table of known investments with columns: Company, Stage, Year, Sector, Status. Each entry cited.
+4. **## Portfolio** — Table of known investments with columns: Company, Stage, Year, Lead Partner, Sector, Status. The Lead Partner column names the specific individual who led or sourced the deal (from press releases, board announcements, or firm website). Leave blank if unknown. Each entry cited.
 5. **## In Their Own Words** — Direct quotes from firm partners and official communications. Full attribution with source.
 6. **## What Founders Say** — Quotes from portfolio founders about their experience with the firm. Full attribution.
 7. **## Sources** — All footnote references with title, URL, and access date.
@@ -116,8 +116,8 @@ Required markdown sections, in order:
    - Decision speed (if known from founder reports)
    - Co-investor patterns
 4. **## Portfolio** — Table of known investments with columns: Company, Year, Stage, Source. See "Portfolio Completeness" section below for requirements.
-5. **## In Their Own Words** — Direct quotes from the investor. Sources: Twitter/X, blog posts, podcast transcripts, conference talks, newsletters, interviews. Full attribution.
-6. **## What Founders Say** — Quotes from founders about working with this investor. Full attribution. See "Founder Quotes" section below — this is the hardest section and requires dedicated search effort.
+5. **## In Their Own Words** — Direct quotes from the investor that reveal investing philosophy, decision-making, or contrarian views. **Prioritize podcast/interview/blog quotes over press release boilerplate.** Cut generic quotes like "We're excited to invest in..." — only include quotes that would help a founder understand how this investor thinks. Sources: Twitter/X, blog posts, podcast transcripts, conference talks, newsletters, interviews. Full attribution.
+6. **## What Founders Say** — Quotes from founders about working with this investor. **Only include quotes that describe the actual working relationship** — how the investor helped, what they did differently, how they behaved during hard times. Cut generic press release quotes like "We're thrilled to have X on board." Full attribution. See "Founder Quotes" section below — this is the hardest section and requires dedicated search effort.
 7. **## Connections** *(optional but encouraged)* — Verified professional connections that could serve as introduction paths. Every connection must be cited. Include:
    - **Board seats**: Companies where this investor serves on the board, and who else sits on those boards
    - **Advisory roles**: Companies they advise and notable co-advisors

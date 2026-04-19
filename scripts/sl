@@ -2254,6 +2254,94 @@ def cmd_xref_link_investors(slug_or_all="--all", dry_run=False):
     print(f"xref-link-investors: {action} {updated_startups} startups, added {added_fm_refs} frontmatter refs, queued {len(queued_new)} new entities")
 
 
+def cmd_xref_queue_portfolio(dry_run=False):
+    """Queue startup profiles for portfolio companies mentioned in investor profiles that don't exist yet."""
+    investors_dir = DATA / "investors"
+    startups_dir = DATA / "startups"
+
+    # Build set of existing startup names (normalized)
+    existing_startups = set()
+    for p in startups_dir.glob("*.md"):
+        post = frontmatter.load(p)
+        name = post.metadata.get("name", "")
+        if name:
+            existing_startups.add(name.lower())
+        existing_startups.add(p.stem.lower())
+
+    # Load queue names
+    queue_path = DATA / "queue.yaml"
+    queue_data = yaml.safe_load(queue_path.read_text()) if queue_path.exists() else {}
+    queue_names = set()
+    for item in (queue_data.get("queue") or []):
+        queue_names.add(item.get("name", "").lower())
+
+    # Scan investor portfolio tables for company names
+    company_mentions = {}  # name_lower -> {"name": original, "investors": [slug, ...]}
+
+    for inv_path in investors_dir.glob("*.md"):
+        post = frontmatter.load(inv_path)
+        if post.metadata.get("status") != "published":
+            continue
+        inv_slug = post.metadata.get("slug", inv_path.stem)
+        content = post.content
+
+        in_portfolio = False
+        header_seen = False
+        for line in content.split("\n"):
+            if line.strip().startswith("## Portfolio"):
+                in_portfolio = True
+                continue
+            if in_portfolio and line.strip().startswith("## "):
+                break
+            if not in_portfolio:
+                continue
+            if line.strip().startswith("|") and "---" in line:
+                header_seen = True
+                continue
+            if not header_seen or not line.strip().startswith("|"):
+                continue
+            cols = [c.strip() for c in line.split("|")]
+            cols = [c for c in cols if c]
+            if not cols:
+                continue
+            # First column is company name
+            company = re.sub(r'\[\^\d+\]', '', cols[0]).strip()
+            company = re.sub(r'\(.*?\)', '', company).strip()  # Remove parenthetical notes
+            if not company or company == "--" or len(company) < 3:
+                continue
+            cl = company.lower()
+            if cl in existing_startups or cl in queue_names:
+                continue
+            if cl not in company_mentions:
+                company_mentions[cl] = {"name": company, "investors": []}
+            company_mentions[cl]["investors"].append(inv_slug)
+
+    # Queue companies by investor overlap: 5+ = high priority, 3-4 = normal
+    queued = []
+    for cl, info in sorted(company_mentions.items(), key=lambda x: len(x[1]["investors"]), reverse=True):
+        n = len(info["investors"])
+        if n >= 3:
+            queued.append({
+                "name": info["name"],
+                "type": "startup",
+                "priority": "high" if n >= 5 else "normal",
+                "source": f"portfolio company of {n} investors: {', '.join(info['investors'][:3])}",
+                "discovered_from": info["investors"][0],
+            })
+            queue_names.add(cl)
+
+    if queued and not dry_run:
+        pending_path = DATA / ".pending-queue-adds.yaml"
+        existing_pending = []
+        if pending_path.exists():
+            existing_pending = yaml.safe_load(pending_path.read_text()) or []
+        existing_pending.extend(queued)
+        pending_path.write_text(yaml.dump(existing_pending, default_flow_style=False, allow_unicode=True))
+
+    action = "Would queue" if dry_run else "Queued"
+    print(f"xref-queue-portfolio: {action} {len(queued)} startup profiles from investor portfolios")
+
+
 def cmd_xref_all(dry_run=False):
     """Run all cross-reference operations across the entire repo."""
     print("Running cross-reference reconciliation...")
@@ -2261,6 +2349,7 @@ def cmd_xref_all(dry_run=False):
     cmd_xref_reconcile_firm("--all", dry_run=dry_run)
     cmd_xref_compute_lvi("--all", dry_run=dry_run)
     cmd_xref_link_investors("--all", dry_run=dry_run)
+    cmd_xref_queue_portfolio(dry_run=dry_run)
 
 
 def cmd_xref_report(slug):
@@ -3171,6 +3260,9 @@ def main():
         dry_run = "--dry-run" in sys.argv
         slug = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith("--") else "--all"
         cmd_xref_link_investors(slug, dry_run=dry_run)
+    elif cmd == "xref-queue-portfolio":
+        dry_run = "--dry-run" in sys.argv
+        cmd_xref_queue_portfolio(dry_run=dry_run)
     elif cmd == "xref-all":
         dry_run = "--dry-run" in sys.argv
         cmd_xref_all(dry_run=dry_run)
