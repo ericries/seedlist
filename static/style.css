@@ -292,6 +292,50 @@ a.tag:hover { opacity: 0.8; filter: brightness(0.95); }
   margin: 1rem 0;
 }
 
+/* Inferred thesis: bold labels as visual sub-headers */
+.section-inferred-thesis p > strong:first-child {
+  display: block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-muted);
+  margin-top: 1.25rem;
+  margin-bottom: 0.15rem;
+}
+.section-inferred-thesis > p:first-child > strong:first-child {
+  margin-top: 0;
+}
+
+/* Sector breakdown list — compact with subtle bars */
+.section-inferred-thesis li {
+  position: relative;
+  padding: 0.35rem 0;
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--color-border);
+  list-style: none;
+}
+.section-inferred-thesis ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+.section-inferred-thesis li:last-child {
+  border-bottom: none;
+}
+
+/* Quotes sections — tighter spacing, de-emphasize attribution */
+.section-in-their-own-words blockquote,
+.section-what-founders-say blockquote {
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.section-in-their-own-words p,
+.section-what-founders-say p {
+  margin-bottom: 0.5rem;
+}
+
+/* Sources section — compact */
+.section-sources { font-size: 0.85rem; color: var(--color-muted); }
+
 /* ===== Team Section (firm page) ===== */
 .team-section { margin-top: 1.5rem; }
 .team-section h2 { font-size: 1.2rem; font-weight: 600; margin-bottom: 0.75rem; }

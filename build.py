@@ -761,6 +761,41 @@ def build_rounds_feed(startups):
     return output
 
 
+def sectionize_profile(html):
+    """Wrap each h2-delimited section in a div with a CSS class derived from the heading."""
+    if not html:
+        return html
+    parts = re.split(r'(<h2\b[^>]*>.*?</h2>)', html)
+    out = []
+    current_class = None
+    buffer = []
+
+    def flush():
+        nonlocal buffer, current_class
+        if buffer:
+            content = "".join(buffer)
+            if current_class:
+                out.append(f'<div class="section-{current_class}">')
+                out.append(content)
+                out.append('</div>')
+            else:
+                out.append(content)
+            buffer = []
+
+    for part in parts:
+        m = re.match(r'<h2\b[^>]*>(.*?)</h2>', part)
+        if m:
+            flush()
+            heading_text = re.sub(r'<[^>]+>', '', m.group(1)).strip()
+            current_class = re.sub(r'[^a-z0-9]+', '-', heading_text.lower()).strip('-')
+            buffer.append(part)
+        else:
+            buffer.append(part)
+
+    flush()
+    return "".join(out)
+
+
 def linkify_profile_content(html, startup_lookup, investor_lookup, firm_lookup):
     """Auto-link known entity names in table cells to their profile pages."""
     if not html:
@@ -943,12 +978,13 @@ def build():
     for p in startups:
         p["profile_depth"] = compute_profile_depth(p, "startup")
 
-    # Auto-link entity names in profile body content + footnote URLs
+    # Auto-link entity names in profile body content + footnote URLs + section wrapping
     for p in investors + firms + startups:
         p["content"] = linkify_profile_content(
             p.get("content", ""), startup_lookup, investor_lookup, firm_lookup
         )
         p["content"] = linkify_footnote_urls(p.get("content", ""))
+        p["content"] = sectionize_profile(p.get("content", ""))
 
     # Build cluster lookup for investor pages
     similar_investors_map = clusters_data.get("similar_investors", {})
