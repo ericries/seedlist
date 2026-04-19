@@ -124,33 +124,33 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Shopify | Series A ($7M, led) | 2010 | E-commerce/Cloud | [^9][^16][^17] |
-| LinkedIn | Early | 2006 | Consumer/Social | [^9][^1] |
-| Pinterest | Early | 2011 | Consumer | [^9] |
-| Twilio | Early | 2009 | Developer/Cloud | [^9] |
-| Anthropic | Growth | 2023 | AI | [^12] |
+| LinkedIn | Series C ($12.8M) | 2007 | Consumer/Social | [^9][^1] |
+| Pinterest | Series A ($10M, led) | 2011 | Consumer | [^9] |
+| Twilio | Seed ($125K), then Series B ($12M, led) | 2009, 2010 | Developer/Cloud | [^9] |
+| Anthropic | Series E | 2025 | AI | [^12] |
 | Canva | Growth | 2018 | Consumer/Design | [^12] |
-| Ramp | Growth | 2021 | Fintech | [^12] |
-| Perplexity | Early | 2023 | AI | [^12] |
-| ServiceTitan | Early | 2015 | Vertical Software | [^9] |
-| Toast | Early | 2013 | Vertical Software | [^9] |
-| Procore | Early | 2012 | Vertical Software | [^9] |
-| DocuSign | Growth | 2013 | Cloud | [^9] |
-| Wix | Early | 2010 | Cloud | [^9] |
-| PagerDuty | Early | 2013 | Developer | [^9] |
-| Fiverr | Early | 2014 | Marketplaces | [^9] |
-| Auth0 | Early | 2014 | Cybersecurity/Cloud | [^9] |
-| Rocket Lab | Early | 2015 | Deep Tech/Space | [^9] |
-| Yelp | Early | 2005 | Consumer | [^9] |
-| Hinge Health | Growth | 2019 | Healthcare | [^7] |
-| StubHub | Growth | 2020 | Marketplaces | [^7] |
-| Urban Company | Growth | 2015 | Consumer/Marketplaces | [^7] |
-| Abridge | Early | 2023 | Healthcare/AI | [^12] |
-| Boom Supersonic | Early | 2016 | Deep Tech | [^9] |
-| Axonius | Early | 2018 | Cybersecurity | [^9] |
-| Claroty | Early | 2016 | Cybersecurity | [^9] |
-| ClickHouse | Early | 2021 | Data | [^9] |
-| Twitch | Early | 2012 | Consumer | [^9] |
-| Blue Apron | Early | 2013 | Consumer | [^9] |
+| Ramp | Series E | 2025 | Fintech | [^12] |
+| Perplexity | Series B ($250M) | 2024 | AI | [^12] |
+| ServiceTitan | Series A ($18M, led) | 2015 | Vertical Software | [^9] |
+| Toast | Series A, then Series B ($30M, led) | 2015, 2016 | Vertical Software | [^9] |
+| Procore | Series C ($15M) | 2014 | Vertical Software | [^9] |
+| DocuSign | Growth | 2011 | Cloud | [^9] |
+| Wix | Series B | 2008 | Cloud | [^9] |
+| PagerDuty | Series B ($27.2M, led) | 2014 | Developer | [^9] |
+| Fiverr | Series A ($4M, led) | 2011 | Marketplaces | [^9] |
+| Auth0 | Seed ($2.4M, led) | 2014 | Cybersecurity/Cloud | [^9] |
+| Rocket Lab | Series B ($20M, led) | 2015 | Deep Tech/Space | [^9] |
+| Yelp | Series A ($5M, led) | 2005 | Consumer | [^9] |
+| Hinge Health | Series C ($90M, led) | 2020 | Healthcare | [^7] |
+| StubHub (via Viagogo) | Growth | 2012 | Marketplaces | [^7] |
+| Urban Company | Series B | 2015 | Consumer/Marketplaces | [^7] |
+| Abridge | Series B ($30M, participant) | 2023 | Healthcare/AI | [^12] |
+| Boom Supersonic | Growth | 2021 | Deep Tech | [^9] |
+| Axonius | Series A ($13M, led) | 2019 | Cybersecurity | [^9] |
+| Claroty | Series A ($32M, led) | 2016 | Cybersecurity | [^9] |
+| ClickHouse | Series C | 2025 | Data | [^9] |
+| Twitch | Series B ($15M, led) | 2012 | Consumer | [^9] |
+| Blue Apron | Series A ($3M), Series B ($5M, led) | 2013 | Consumer | [^9] |
 | Legora | Series D | 2026 | AI/Legal Tech | [^15] |
 | Zenskar | Series A | 2026 | Fintech/Billing | [^9] |
 

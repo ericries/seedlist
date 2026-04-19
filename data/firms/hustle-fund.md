@@ -89,22 +89,17 @@ Based on 375+ verified investments across three funds (2017 to early 2026), the 
 
 ## Portfolio
 
-The following table represents a sample of Hustle Fund's portfolio. The firm has invested in 375+ companies total; this table captures approximately 6% of known investments, with a focus on notable outcomes and recent activity [^7].
+The following table represents a sample of Hustle Fund's portfolio. The firm has invested in 375+ companies total; this table captures a small subset of known investments, with a focus on notable outcomes and recent activity [^7]. Note: Webflow, NerdWallet, Boom Supersonic, HoneyBook, and Acorns were previously listed but could not be independently verified as Hustle Fund portfolio companies and have been removed.
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Webflow | Pre-Seed | ~2017 | SaaS/No-Code | Unicorn ($4B valuation, 2022) [^7] |
-| NerdWallet | Early | ~2017 | Fintech | IPO (NASDAQ, Nov 2021, $595M market cap) [^7] |
-| Boom Supersonic | Early | ~2018 | Aerospace | Unicorn ($1B+ valuation) [^7] |
-| Gamma | Seed | ~2021 | AI/Productivity | Unicorn (2025) [^7] |
-| Rupa Health | Pre-Seed | ~2019 | Digital Health | Acquired (2024) [^23] |
-| The Pill Club | Pre-Seed | ~2017 | Digital Health | Active [^1] |
-| Nova Credit | Pre-Seed | ~2018 | Fintech | Active [^13] |
-| Berbix | Pre-Seed | ~2018 | Identity/Security | Active [^13] |
-| HoneyBook | Early | ~2017 | SaaS/SMB | Active [^13] |
-| Acorns | Early | ~2018 | Fintech | Active [^24] |
-| Certify | Follow-on | 2025 | Healthcare/APIs | Active [^19] |
-| Elfie | Follow-on | 2025 | Healthcare/Wellness | Active [^19] |
+| Gamma | Seed | 2021 | AI/Productivity | Unicorn ($2.1B valuation, 2025) [^7] |
+| Rupa Health | Seed | 2020 | Digital Health | Acquired (2024) [^23] |
+| The Pill Club | Pre-Seed | 2016 | Digital Health | Active [^1] |
+| Nova Credit | Seed | 2016 | Fintech | Active [^13] |
+| Berbix | Pre-Seed | 2018 | Identity/Security | Active [^13] |
+| Certify | Seed | 2025 | Healthcare/APIs | Active [^19] |
+| Elfie | Seed | 2025 | Healthcare/Wellness | Active [^19] |
 | Fusepay | Pre-Seed | 2025 | Fintech | Active [^7] |
 | Pavewise | Seed | 2025 | Construction/IT | Active [^19] |
 | MidLyr | Pre-Seed | 2025 | Financial Services/AI | Active [^19] |
@@ -118,7 +113,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Uniblock | Seed | 2026 | Web3/Blockchain | Active [^19] |
 | Sage Haven | Pre-Seed | 2026 | Consumer/Kids Safety | Active [^7] |
 
-Note: Many early portfolio entries (marked with ~) use approximate years based on fund timing and available data. The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
+The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
 
 ## In Their Own Words
 

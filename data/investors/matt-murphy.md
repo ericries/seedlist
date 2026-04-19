@@ -4,8 +4,8 @@ firm: menlo-ventures
 last_researched: 2026-03-20
 last_verified_investment:
   company: Cleanlab
-  date: ~2026
-  round: Early (Acquired by Handshake, 2026)
+  date: 2023-10-11
+  round: Series A ($25M, co-led with TQ Ventures)
 location: San Francisco, CA
 name: Matt Murphy
 role: Managing Director / Partner
@@ -90,37 +90,37 @@ The analysis below is based on Murphy's publicly listed portfolio on the Menlo V
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
 | Anthropic | 2023-2025 | Series D/E (Board Observer) | [^1][^6] |
-~unknown| Alloy.AI | — | Early | [^1] |
-~unknown| Benchling | — | Growth | [^1] |
-~unknown| Canvas | — | Early | [^1] |
-~unknown| Clarifai | — | Early | [^1] |
-~unknown| Carta | — | Growth | [^1] |
-~unknown| Envoy | — | Growth | [^1] |
-~unknown| Harness | — | Growth | [^1] |
-~unknown| HOVER | — | Growth | [^1] |
-~unknown| Mimic | — | Early | [^1] |
-~unknown| Netlify | — | Growth | [^1] |
-~unknown| Observable | — | Early | [^1] |
-~unknown| OpenRouter | — | Early | [^1] |
-~unknown| Relyance.ai | — | Early | [^1] |
-~unknown| Semgrep | — | Early | [^1] |
-~unknown| Skild | — | Early | [^1] |
-~unknown| True Anomaly | — | Early | [^1] |
-~unknown| Vivun | — | Early | [^1] |
-~unknown| Zylo | — | Early | [^1] |
-~unknown| Lovable | — | Seed | [^1] |
-~unknown| Typeface | — | Early | [^1] |
-~unknown| Finch | — | Early | [^1] |
-~unknown| Grow Therapy | — | Growth | [^1] |
-~unknown| Turing | — | Growth | [^1] |
-| Airbase | — | Early (Acquired by Paylocity, 2024) | [^1] |
-| Cleanlab | — | Early (Acquired by Handshake, 2026) | [^1] |
-| FireHydrant | — | Early (Acquired by Freshworks, 2026) | [^1] |
-| Heap Analytics | — | Growth (Acquired by Contentsquare, 2023) | [^1] |
-| 6 River Systems | — | Early (Acquired by Shopify, 2019) | [^1] |
-| Scout RFP | — | Early (Acquired by Workday, 2019) | [^1] |
-| Usermind | — | Early (Acquired by Qualtrics, 2021) | [^1] |
-~unknown| Veriflow | — | Early (Acquired by VMware) | [^1] |
+| Alloy.AI | 2018 | Seed/Series A ($12M, led) | [^1] |
+| Benchling | — | Growth | [^1] |
+| Canvas | — | Early | [^1] |
+| Clarifai | — | Early | [^1] |
+| Carta | — | Growth | [^1] |
+| Envoy | — | Growth | [^1] |
+| Harness | — | Growth | [^1] |
+| HOVER | — | Growth | [^1] |
+| Mimic | — | Early | [^1] |
+| Netlify | — | Growth | [^1] |
+| Observable | — | Early | [^1] |
+| OpenRouter | — | Early | [^1] |
+| Relyance.ai | — | Early | [^1] |
+| Semgrep | — | Early | [^1] |
+| Skild | — | Early | [^1] |
+| True Anomaly | — | Early | [^1] |
+| Vivun | — | Early | [^1] |
+| Zylo | — | Early | [^1] |
+| Lovable | — | Seed | [^1] |
+| Typeface | — | Early | [^1] |
+| Finch | — | Early | [^1] |
+| Grow Therapy | — | Growth | [^1] |
+| Turing | — | Growth | [^1] |
+| Airbase | 2021 | Series B ($60M, led; Acquired by Paylocity, 2024) | [^1] |
+| Cleanlab | 2023 | Series A ($25M, co-led; Acquired by Handshake, 2026) | [^1] |
+| FireHydrant | 2020 | Series A ($8M, led; Acquired by Freshworks, 2026) | [^1] |
+| Heap Analytics | 2015 | Series A, then Series B co-led (Acquired by Contentsquare, 2023) | [^1] |
+| 6 River Systems | 2018 | Series B ($25M, led; Acquired by Shopify, 2019) | [^1] |
+| Scout RFP | 2017 | Series B ($15.5M, led; Acquired by Workday, 2019) | [^1] |
+| Usermind | 2016 | Series B ($14.5M, led; Acquired by Qualtrics, 2021) | [^1] |
+| Veriflow | — | Early (Acquired by VMware) | [^1] |
 | DocuSign | ~2010 | Early (Kleiner Perkins; NASDAQ: DOCU) | [^1] |
 | AppDynamics | ~2010 | Early (Kleiner Perkins; Acquired by Cisco) | [^1] |
 | Upstart | ~2014 | Early (Kleiner Perkins; NASDAQ: UPST) | [^1] |
