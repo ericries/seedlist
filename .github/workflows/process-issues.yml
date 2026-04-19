@@ -9,7 +9,8 @@ jobs:
     # Only run for our specific labels
     if: >-
       contains(github.event.issue.labels.*.name, 'source-submission') ||
-      contains(github.event.issue.labels.*.name, 'csv-unmatched')
+      contains(github.event.issue.labels.*.name, 'csv-unmatched') ||
+      contains(github.event.issue.labels.*.name, 'suggestion')
     runs-on: ubuntu-latest
     permissions:
       issues: write
