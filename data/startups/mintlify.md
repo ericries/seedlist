@@ -4,7 +4,7 @@ firms:
   slug: andreessen-horowitz
   year: 2026
 - slug: y-combinator
-founded: null
+founded: 2022
 founders:
 - name: Han Wang
   role: Co-Founder

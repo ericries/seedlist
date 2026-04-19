@@ -10,9 +10,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [fintech, marketplaces, consumer, real-estate-tech, healthcare, e-commerce]
 check_size: "$500K-$150M"
 last_verified_investment:
-  date: 2024-12
-  company: "Lava"
-  round: "Series A"
+  date: 2026-04-16
+  company: "Factory"
+  round: "Series C"
 social:
   twitter: "@rabois"
   linkedin: "linkedin.com/in/keith"
@@ -115,6 +115,7 @@ The analysis below is based on 26 verified investments personally attributed to 
 | Trade Republic | Growth | ~2021 | Fintech / Brokerage | Active | [^3] |
 | Aven | Series A | ~2021 | Fintech / Credit | Active | [^3] |
 | Lava | Series A | 2024 | Fintech / Bitcoin Lending | Active | [^14] |
+| Factory | Series C (board) | 2026 | AI / Developer Tools | Active | [^19] |
 
 ## In Their Own Words
 
@@ -166,3 +167,4 @@ No independently sourced founder testimonials found. Rabois is widely recognized
 [^16]: MarketScreener, "Affirm Holdings, Inc. Announces Board Changes," June 2025. https://www.marketscreener.com/quote/stock/AFFIRM-HOLDINGS-INC-117540803/news/Affirm-Holdings-Inc-Announces-Board-Changes-50232906/
 [^17]: Keith Rabois, Speakerpedia profile, accessed March 2026. https://speakerpedia.com/speakers/keith-rabois
 [^18]: SaaStr, "Keith Rabois (Khosla Ventures): Building Amazing Teams (Video + Transcript)," accessed March 2026. https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/
+[^19]: TechCrunch, "Factory hits $1.5B valuation to build AI coding for enterprises," April 16, 2026. https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/

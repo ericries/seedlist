@@ -140,17 +140,17 @@ Warby Parker is a direct-to-consumer eyewear company founded in 2010 by Wharton 
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Jul 2011 | $1.5M | Lerer Hippeau, First Round Capital | — | — |
-| Series A | Sep 2011 | $12M | Tiger Global Management | Menlo Ventures | — |
-| Series B | Sep 2012 | $41.5M | General Catalyst | — | — |
-| Series C | Dec 2013 | $60M | Tiger Global Management | General Catalyst, Spark Capital, Thrive Capital, First Round Capital | ~$500M |
-| Series D | Apr 2015 | $100M | T. Rowe Price | — | — |
-| Series E | Mar 2018 | $75M | T. Rowe Price | — | — |
-| Series F | Apr 2020 | $125M | Durable Capital Partners | — | — |
-| Series G | Aug 2020 | $120M | D1 Capital Partners | — | $3B |
-| Direct Listing (NYSE: WRBY) | Sep 29, 2021 | — | — | — | ~$6B |
+| Seed | 2011-07-06 | $1.5M | Lerer Hippeau, First Round Capital | SV Angel, Menlo Ventures | — [^6] |
+| Series A | 2011-09-22 | $12M | Tiger Global Management | Menlo Ventures, Thrive Capital, First Round Capital | — [^7] |
+| Series B | 2012-09-09 | $41.5M | General Catalyst | — | — [^3] |
+| Series C | 2013-12-20 | $60M | Tiger Global Management | General Catalyst, Spark Capital, Thrive Capital, First Round Capital | ~$500M [^5] |
+| Series D | 2015-04-30 | $100M | T. Rowe Price | Wellington Management, Tiger Global, General Catalyst | $1.2B [^8] |
+| Series E | 2018-03-14 | $75M | T. Rowe Price | Baillie Gifford | $1.75B [^9][^10] |
+| Series F | 2020-Q2 | $125M | Durable Capital Partners | T. Rowe Price, Baillie Gifford | — [^11] |
+| Series G | 2020-08-27 | $120M | D1 Capital Partners | Durable Capital Partners, T. Rowe Price, Baillie Gifford | $3B [^11] |
+| Direct Listing (NYSE: WRBY) | 2021-09-29 | $0 (direct listing) | — | — | ~$6B [^4] |
 
-Sources: [^1][^2][^3][^5][^6]
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11]
 
 ## What Investors Say
 
@@ -167,4 +167,9 @@ No independently sourced founder testimonials found.
 [^3]: TechCrunch, "Warby Parker Sees Its Way To $36.8M Of A $40M Series B Round, Led By General Catalyst," September 2012. https://techcrunch.com/2012/09/09/warby-parker-sees-its-way-to-another-37m-in-funding/
 [^4]: CNBC, "Warby Parker direct listing: (WRBY) starts trading on the NYSE," September 2021. https://www.cnbc.com/2021/09/29/warby-parker-direct-listing-wrby-starts-trading-on-the-nyse.html
 [^5]: TechCrunch, "Warby Parker Raises $60 Million From Existing Investors," December 2013. https://techcrunch.com/2013/12/20/warby-parker-raises-60-million-from-existing-investors/
-[^6]: Public.com, "Warby Parker IPO: What to know about the 2021 public offering," accessed March 2026. https://public.com/learn/what-to-know-about-the-2021-warby-parker-ipo
+[^6]: Crunchbase, "Seed Round - Warby Parker - 2011-07-06," accessed April 2026. https://www.crunchbase.com/funding_round/warby-parker-seed--c2e1a94b
+[^7]: Crunchbase, "Series A - Warby Parker - 2011-09-22," accessed April 2026. https://www.crunchbase.com/funding_round/warby-parker-series-a--1648c4e2
+[^8]: TechCrunch, "Warby Parker Now Worth $1.2 Billion, Focusing On Building More Brick-And-Mortar Stores," April 30, 2015. https://techcrunch.com/2015/04/30/warby-parker-now-worth-1-2-billion-focusing-on-building-more-brick-and-mortar-stores/
+[^9]: Retail Dive, "Warby Parker raises $75M, reaches profitability," March 15, 2018. https://www.retaildive.com/news/warby-parker-raises-75m-reaches-profitability/519209/
+[^10]: Business of Fashion, "Warby Parker Raises Another $75 Million, Declares Profitability on Road to IPO," March 14, 2018. https://www.businessoffashion.com/articles/news-analysis/warby-parker-raises-another-75-million-declares-profitability-on-road-to-ipo/
+[^11]: TechCrunch, "Warby Parker, valued at $3 billion, raises $245 million in funding," August 27, 2020. https://techcrunch.com/2020/08/27/warby-parker-valued-at-3-billion-raises-245-million-in-funding/

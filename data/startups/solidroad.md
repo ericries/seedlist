@@ -2,7 +2,7 @@
 name: Solidroad
 slug: solidroad
 type: startup
-website: null
+website: https://www.solidroad.com
 location: Dublin, Ireland
 founded: 2023
 status_company: active
@@ -37,7 +37,7 @@ Solidroad is a Dublin-based AI-powered quality assurance and training platform f
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-04-16 | Series A | $25M | Hedosophia | First Round Capital, Y Combinator, Sony Innovation Fund [^1][^2][^3] |
-| 2025-06 | Seed | $6.5M | — | — [^1] |
+| 2025-06 | Seed | $6.5M | First Round Capital | Y Combinator [^1] |
 
 ## What Investors Say
 

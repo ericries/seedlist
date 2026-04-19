@@ -12,7 +12,7 @@ sector:
 - saas
 - AI
 stage_latest: Series A
-total_raised: $18.5M
+total_raised: $21M
 firms:
 - slug: bessemer-venture-partners
   round: seed
