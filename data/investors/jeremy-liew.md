@@ -1,14 +1,14 @@
 ---
-name: Jeremy Liew
-slug: jeremy-liew
-type: individual
+check_size: $3M-$20M
 firm: lightspeed-venture-partners
-role: Partner (Venture Partner)
+last_researched: 2026-03-25
+last_verified_investment:
+  company: LedgerX
+  date: ~2023
+  round: Seed
 location: Menlo Park, CA
-stage_focus:
-- seed
-- series-a
-- series-b
+name: Jeremy Liew
+role: Partner (Venture Partner)
 sector_focus:
 - consumer
 - social-media
@@ -17,20 +17,19 @@ sector_focus:
 - crypto
 - media-entertainment
 - gaming
-check_size: "$3M-$20M"
-last_verified_investment:
-  date: 2021-01
-  company: Wintermute
-  round: Series B
+slug: jeremy-liew
 social:
-  twitter: "@jeremysliew"
   linkedin: linkedin.com/in/jeremyliew
-tldr: 'Partner at Lightspeed, first institutional investor in Snapchat
-  ($2B return). "Follow the women" pop culture thesis. Strong in consumer
-  brands, DTC, gaming. 15+ IPO/acquisition exits. Now partner emeritus
-  focused on existing portfolio.'
+  twitter: '@jeremysliew'
+stage_focus:
+- seed
+- series-a
+- series-b
 status: published
-last_researched: 2026-03-25
+tldr: Partner at Lightspeed, first institutional investor in Snapchat ($2B return).
+  "Follow the women" pop culture thesis. Strong in consumer brands, DTC, gaming. 15+
+  IPO/acquisition exits. Now partner emeritus focused on existing portfolio.
+type: individual
 ---
 
 ## Background

@@ -27,6 +27,9 @@ firms:
 - round: Seed
   slug: y-combinator
   year: 2017
+- round: Seed
+  slug: transition-vc
+  year: 2018
 founded: 2016
 founders:
 - name: Clément Delangue
@@ -63,6 +66,9 @@ investors:
 - round: Series A ($15M)
   slug: brandon-reeves
   year: 2019
+- round: Seed
+  slug: david-helgason
+  year: 2018
 last_researched: 2026-03-23
 location: New York, NY
 name: Hugging Face

@@ -9772,14 +9772,14 @@ queue:
 - name: Mike Dauber
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Amplify Partners
   discovered_from: sunil-dhaliwal
 - name: Lenny Pruss
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Amplify Partners
   discovered_from: sunil-dhaliwal
@@ -10018,3 +10018,15 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: loop-supply-chain
+- name: Temporal Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lenny-pruss
+- name: Chainguard
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lenny-pruss

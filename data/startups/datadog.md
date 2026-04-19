@@ -52,6 +52,9 @@ investors:
 - round: Seed
   slug: sunil-dhaliwal
   year: 2012
+- round: Early stage
+  slug: lenny-pruss
+  year: 2011
 last_researched: 2026-03-20
 location: New York, NY
 name: Datadog
