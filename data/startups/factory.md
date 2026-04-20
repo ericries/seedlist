@@ -1,9 +1,9 @@
 ---
 firms:
-- round: series-c
+- date: 2026-04-16
+  round: series-c
   slug: khosla-ventures
   year: 2026
-  date: 2026-04-16
 - round: series-b
   slug: nea
   year: 2025
@@ -13,10 +13,10 @@ firms:
 - round: series-a
   slug: sequoia-capital
   year: 2024
-- round: series-c
+- date: 2026-04-16
+  round: series-c
   slug: insight-partners
   year: 2026
-  date: 2026-04-16
 founded: 2023
 founders:
 - name: Matan Grinberg
@@ -27,6 +27,9 @@ investors:
 - round: series-c
   slug: keith-rabois
   year: 2026
+- round: Seed
+  slug: shaun-maguire
+  year: 2023
 last_researched: 2026-04-19
 location: San Francisco, California
 name: Factory

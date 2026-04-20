@@ -9858,7 +9858,7 @@ queue:
 - name: Grant Verstandig
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Red Cell Partners
   discovered_from: manual-dc-expansion
@@ -9931,7 +9931,7 @@ queue:
 - name: Dayna Grayson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Construct Capital
   discovered_from: manual-dc-expansion
@@ -16861,3 +16861,17 @@ queue:
   priority: high
   status: pending
   added: '2026-03-30'
+- name: Josh Lobel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Red Cell Partners
+  discovered_from: grant-verstandig
+- name: John Tenet
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Red Cell Partners
+  discovered_from: grant-verstandig

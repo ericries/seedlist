@@ -29,7 +29,7 @@ last_verified_investment:
 social:
   twitter: "@grantverstandig"
   linkedin: "linkedin.com/in/grant-verstandig-4b92a416"
-status: draft
+status: published
 last_researched: 2026-04-06
 ---
 

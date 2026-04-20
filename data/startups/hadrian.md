@@ -57,6 +57,9 @@ firms:
 - round: Seed
   slug: floodgate
   year: 2020
+- round: Seed
+  slug: construct-capital
+  year: 2021
 founded: 2020
 founders:
 - name: Chris Power
@@ -78,6 +81,9 @@ investors:
   slug: brandon-reeves
   year: 2021
 - slug: lachy-groom
+- round: Seed
+  slug: dayna-grayson
+  year: 2021
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian
