@@ -7,10 +7,8 @@ pending_rounds:
   parsed_amount: $16M
   parsed_round: Series A
   status: processed
-  notes: created startup profile keebler-health.md; led by Flare Capital Partners
-    with Hustle Fund and others; updated hustle-fund.md portfolio
-- title: New Era Energy & Digital Secures Funding for Development of its Ector County,
-    Texas Data Center Campus, Including Exercise of Underwriters’ Option
+  notes: created startup profile keebler-health.md; led by Flare Capital Partners with Hustle Fund and others; updated hustle-fund.md portfolio
+- title: New Era Energy & Digital Secures Funding for Development of its Ector County, Texas Data Center Campus, Including Exercise of Underwriters’ Option
   url: https://www.globenewswire.com/news-release/2026/04/14/3273905/0/en/New-Era-Energy-Digital-Secures-Funding-for-Development-of-its-Ector-County-Texas-Data-Center-Campus-Including-Exercise-of-Underwriters-Option.html
   source: globenewswire
   date_found: ‘2026-04-15’
@@ -18,8 +16,16 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: public company equity offering and project financing, not a startup
-    round
+  skip_reason: public company equity offering and project financing, not a startup round
+- title: Swiss startup Planetary raises nearly €23 million to build the industrial backbone of the bioeconomy
+  url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
+  source: eu-startups
+  date_found: '2026-04-20'
+  parsed_company: Swiss startup Planetary
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: Created startup profile planetary.md; Series A CHF 22M co-led by Radikal Capital + Oetker Ventures
 - title: u003e raised $150M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -28,8 +34,7 @@ pending_rounds:
   parsed_amount: $150M
   parsed_round: null
   status: skipped
-  skip_reason: parsing artifact from Axios; unicode escape for '>' character, not
-    a company name
+  skip_reason: parsing artifact from Axios; unicode escape for '>' character, not a company name
 - title: Cracks are starting to form on fusion energy’s funding boom
   url: https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/
   source: techcrunch
@@ -38,8 +43,7 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: trend article about fusion energy funding market, not a specific startup
-    round
+  skip_reason: trend article about fusion energy funding market, not a specific startup round
 - title: Sage Haven raised $3M pre-seed
   url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
   source: web-search
@@ -48,8 +52,7 @@ pending_rounds:
   parsed_amount: $3M
   parsed_round: Pre-Seed
   status: processed
-  notes: created startup profile sage-haven.md; led by Hustle Fund with scout funds
-    from a16z, Accel, Kleiner Perkins
+  notes: created startup profile sage-haven.md; led by Hustle Fund with scout funds from a16z, Accel, Kleiner Perkins
 - title: 'The Weekly Notable Startup Funding Report: 4/20/26'
   url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-20-26/
   source: alleywatch
@@ -58,10 +61,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: 'Created 6 startup profiles: calyxo, merqube, nanotech-materials, hyfix,
-    ethermed, yoga-joint'
-- title: Swedish semiconductor startup AlixLabs closes €15 million Series A to scale
-    atomic-level etching technology
+  notes: 'Created 6 startup profiles: calyxo, merqube, nanotech-materials, hyfix, ethermed, yoga-joint'
+- title: Swedish semiconductor startup AlixLabs closes €15 million Series A to scale atomic-level etching technology
   url: https://www.eu-startups.com/2026/04/swedish-semiconductor-startup-alixlabs-closes-e15-million-series-a-to-scale-atomic-level-etching-technology/
   source: eu-startups
   date_found: '2026-04-17'
@@ -70,8 +71,7 @@ pending_rounds:
   parsed_round: Series A
   status: skipped
   skip_reason: Swedish semiconductor startup; outside primary US focus
-- title: Stockholm’s BioLamina secures €20 million EIB loan to scale cell therapies
-    for chronic diseases
+- title: Stockholm’s BioLamina secures €20 million EIB loan to scale cell therapies for chronic diseases
   url: https://www.eu-startups.com/2026/04/stockholms-biolamina-secures-e20-million-eib-loan-to-scale-cell-therapies-for-chronic-diseases/
   source: eu-startups
   date_found: '2026-04-17'
@@ -89,8 +89,7 @@ pending_rounds:
   parsed_round: Series C
   status: processed
   notes: created startup profile loop-supply-chain.md
-- title: 'Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To
-    Hit Record Amount'
+- title: 'Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To Hit Record Amount'
   url: https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/
   source: crunchbase
   date_found: '2026-04-17'
@@ -99,8 +98,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: sector roundup article, not a specific startup round
-- title: Eindhoven’s ONWARD Medical raises €40.6 million in capital increase to advance
-    spinal cord injury therapies
+- title: Eindhoven’s ONWARD Medical raises €40.6 million in capital increase to advance spinal cord injury therapies
   url: https://www.eu-startups.com/2026/04/eindhovens-onward-medical-raises-e40-6-million-in-capital-increase-to-advance-spinal-cord-injury-therapies/
   source: eu-startups
   date_found: '2026-04-17'
@@ -109,8 +107,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: Dutch medtech capital increase; public company, not a startup VC round
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Apr. 13 – Apr. 17)
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked this week (Apr. 13 – Apr. 17)
   url: https://www.eu-startups.com/2026/04/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-apr-13-apr-17/
   source: eu-startups
   date_found: '2026-04-17'
@@ -119,8 +116,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: weekly EU roundup article, not a specific round
-- title: Valencia-based GuruSup raises €1.3 million Seed round for AI customer service
-    platform
+- title: Valencia-based GuruSup raises €1.3 million Seed round for AI customer service platform
   url: https://www.eu-startups.com/2026/04/valencia-based-gurusup-raises-e1-3-million-seed-round-for-ai-customer-service-platform/
   source: eu-startups
   date_found: '2026-04-17'
@@ -182,8 +178,7 @@ pending_rounds:
   parsed_amount: $17M
   parsed_round: Series B
   status: processed
-  notes: created startup profile textql.md; $17M anchored by Blackstone Innovations
-    Investments
+  notes: created startup profile textql.md; $17M anchored by Blackstone Innovations Investments
 - title: Zenskar raised $15M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -211,8 +206,7 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile noc-energy.md; France-based, led by 360 Capital
-- title: 'The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The
-    Lead'
+- title: 'The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/
   source: crunchbase
   date_found: '2026-04-17'
@@ -220,9 +214,7 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: extracted 10 rounds from weekly roundup; created profiles for glydways, zum,
-    neye-ai, turion-space; slate-auto, factory, neomorph, slash-fintech, beeline-medicines
-    already had profiles; also created nas-com, k1x, wealth-com from additional searches
+  notes: extracted 10 rounds from weekly roundup; created profiles for glydways, zum, neye-ai, turion-space; slate-auto, factory, neomorph, slash-fintech, beeline-medicines already had profiles; also created nas-com, k1x, wealth-com from additional searches
 - title: 'The AlleyWatch Startup Daily Funding Report: 4/17/2026'
   url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-17-2026/
   source: alleywatch
@@ -249,8 +241,7 @@ pending_rounds:
   parsed_amount: $275M
   parsed_round: null
   status: skipped
-  skip_reason: Flock Safety eyeing new round per Axios scoop but not yet announced;
-    $275M was March 2025 Series F
+  skip_reason: Flock Safety eyeing new round per Axios scoop but not yet announced; $275M was March 2025 Series F
 - title: Terremoto Biosciences raised $108M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -412,8 +403,7 @@ pending_rounds:
   parsed_amount: $40M
   parsed_round: null
   status: skipped
-  skip_reason: could not identify company; parsing artifact from Axios with no company
-    name; Canadian-based, outside primary scope
+  skip_reason: could not identify company; parsing artifact from Axios with no company name; Canadian-based, outside primary scope
 - title: Topspin Consumer Partners raised $328M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -423,8 +413,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: consumer PE/growth fund raise, not a startup round
-- title: 'Exclusive: Repeat Founders Raise $20M For Spektr, A Fintech Compliance Startup,
-    In NEA-Led Series A'
+- title: 'Exclusive: Repeat Founders Raise $20M For Spektr, A Fintech Compliance Startup, In NEA-Led Series A'
   url: https://news.crunchbase.com/venture/fintech-compliance-founders-20m-seriesa-spektr/
   source: crunchbase
   date_found: '2026-04-16'
@@ -433,8 +422,7 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile spektr.md; updated nea.md portfolio
-- title: Cielo Closes Strategic Asset Acquisition and Announces Intention to Appoint
-    Chief Operating Officer and Chief Development Officer
+- title: Cielo Closes Strategic Asset Acquisition and Announces Intention to Appoint Chief Operating Officer and Chief Development Officer
   url: https://www.globenewswire.com/news-release/2026/04/16/3275174/0/en/Cielo-Closes-Strategic-Asset-Acquisition-and-Announces-Intention-to-Appoint-Chief-Operating-Officer-and-Chief-Development-Officer.html
   source: globenewswire
   date_found: '2026-04-16'
@@ -452,8 +440,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: product price increase, not a funding round
-- title: 'Exclusive: GetWhys Raises $5.2M To Help Companies Like Intel And Verizon
-    Better Understand Their Customers'
+- title: 'Exclusive: GetWhys Raises $5.2M To Help Companies Like Intel And Verizon Better Understand Their Customers'
   url: https://news.crunchbase.com/venture/customer-intelligence-ai-getwhys-raises-more-seed-boutros/
   source: crunchbase
   date_found: '2026-04-16'
@@ -462,8 +449,7 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: created startup profile getwhys.md
-- title: InsightFinder raises $15M to help companies figure out where AI agents go
-    wrong
+- title: InsightFinder raises $15M to help companies figure out where AI agents go wrong
   url: https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/
   source: techcrunch
   date_found: '2026-04-16'
@@ -579,8 +565,7 @@ pending_rounds:
   parsed_amount: $6M
   parsed_round: Seed
   status: skipped
-  skip_reason: could not verify; Balerion Space Ventures is a VC firm, not a startup;
-    no startup called Balerion found raising $6M seed
+  skip_reason: could not verify; Balerion Space Ventures is a VC firm, not a startup; no startup called Balerion found raising $6M seed
 - title: Stendr raised $5.4M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -634,8 +619,7 @@ pending_rounds:
   parsed_amount: $4B
   parsed_round: null
   status: skipped
-  skip_reason: VC fund raise (Accel Leaders Fund), not a startup round; duplicate
-    of earlier Accel $5B TechCrunch entry
+  skip_reason: VC fund raise (Accel Leaders Fund), not a startup round; duplicate of earlier Accel $5B TechCrunch entry
 - title: Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation
   url: https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/
   source: techcrunch
@@ -653,10 +637,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: extracted Artemis $70M (created artemis-security.md), Joyful Health $17M
-    (created joyful-health.md), Traza $2.1M (already processed)
-- title: London-based startup Lua raises €4.9 million to scale its human-agent collaboration
-    platform
+  notes: extracted Artemis $70M (created artemis-security.md), Joyful Health $17M (created joyful-health.md), Traza $2.1M (already processed)
+- title: London-based startup Lua raises €4.9 million to scale its human-agent collaboration platform
   url: https://www.eu-startups.com/2026/04/london-based-startup-lua-raises-e4-9-million-to-scale-its-human-agent-collaboration-platform/
   source: eu-startups
   date_found: '2026-04-16'
@@ -665,8 +647,7 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: duplicate of Axios Lua entry; lua-ai.md already created
-- title: STORM Therapeutics raises €47.5 million Series C to harness the power of
-    RNA modification to treat cancer
+- title: STORM Therapeutics raises €47.5 million Series C to harness the power of RNA modification to treat cancer
   url: https://www.eu-startups.com/2026/04/storm-therapeutics-raises-e47-5-million-series-c-to-harness-the-power-of-rna-modification-to-treat-cancer/
   source: eu-startups
   date_found: '2026-04-16'
@@ -674,10 +655,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series C
   status: processed
-  notes: duplicate of Axios Storm Therapeutics entry; storm-therapeutics.md already
-    exists
-- title: ALL THINGS raises €4.1 million after chef Thomas Straker’s viral butter series
-    sparked a dairy brand
+  notes: duplicate of Axios Storm Therapeutics entry; storm-therapeutics.md already exists
+- title: ALL THINGS raises €4.1 million after chef Thomas Straker’s viral butter series sparked a dairy brand
   url: https://www.eu-startups.com/2026/04/all-things-raises-e4-1-million-after-chef-thomas-strakers-viral-butter-series-sparked-a-dairy-brand/
   source: eu-startups
   date_found: '2026-04-16'
@@ -686,8 +665,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: UK consumer food brand; outside scope
-- title: Vilnius-based Outcraft AI raises €2 million to build an autonomous revenue
-    engine
+- title: Vilnius-based Outcraft AI raises €2 million to build an autonomous revenue engine
   url: https://www.eu-startups.com/2026/04/vilnius-based-outcraft-ai-raises-e2-million-to-build-an-autonomous-revenue-engine/
   source: eu-startups
   date_found: '2026-04-16'
@@ -696,8 +674,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: Vilnius-based EU startup; outside primary US focus
-- title: London’s Qalzy secures pre-Seed backing after raising €204k in Kickstarter
-    pre-orders for its AI nutrition scale
+- title: London’s Qalzy secures pre-Seed backing after raising €204k in Kickstarter pre-orders for its AI nutrition scale
   url: https://www.eu-startups.com/2026/04/londons-qalzy-secures-pre-seed-backing-after-raising-e204k-in-kickstarter-pre-orders-for-its-ai-nutrition-scale/
   source: eu-startups
   date_found: '2026-04-16'
@@ -741,10 +718,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: extracted Gelu AI $2M (created gelu-ai.md), Timeshifter $1.8M (created timeshifter.md);
-    Pillar $20M already processed as pillar-risk.md
-- title: CamGraPhIC lands €211 million to tackle AI’s data bottleneck – in one of
-    Italy’s largest DeepTech funding deals
+  notes: extracted Gelu AI $2M (created gelu-ai.md), Timeshifter $1.8M (created timeshifter.md); Pillar $20M already processed as pillar-risk.md
+- title: CamGraPhIC lands €211 million to tackle AI’s data bottleneck – in one of Italy’s largest DeepTech funding deals
   url: https://www.eu-startups.com/2026/04/camgraphic-lands-e211-million-to-tackle-ais-data-bottleneck-in-one-of-italys-largest-deeptech-funding-deals/
   source: eu-startups
   date_found: '2026-04-15'
@@ -753,8 +728,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: Italian deeptech company; outside primary US focus
-- title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
-    Shares of 6.25% Series 2027 Term Preferred Stock'
+- title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000 Shares of 6.25% Series 2027 Term Preferred Stock'
   url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
   source: globenewswire
   date_found: '2026-04-14'
@@ -763,8 +737,7 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: share redemption/corporate action, not a startup round
-- title: AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume
-    Falls Sharply
+- title: AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume Falls Sharply
   url: https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/
   source: crunchbase
   date_found: '2026-04-14'
@@ -799,8 +772,7 @@ pending_rounds:
   parsed_amount: $43M
   parsed_round: Series B
   status: processed
-  notes: created startup profile bluefish.md; updated threshold-ventures.md and nea.md
-    portfolios
+  notes: created startup profile bluefish.md; updated threshold-ventures.md and nea.md portfolios
 - title: Synera raised $40M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -854,10 +826,8 @@ pending_rounds:
   parsed_amount: $1M
   parsed_round: null
   status: processed
-  notes: created startup profile orbital.md; Axios parsed $1M but actual amount undisclosed
-    (a16z Speedrun-backed)
-- title: Financial risk management platform Pillar raises $20M seed in round led by
-    a16z
+  notes: created startup profile orbital.md; Axios parsed $1M but actual amount undisclosed (a16z Speedrun-backed)
+- title: Financial risk management platform Pillar raises $20M seed in round led by a16z
   url: https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/
   source: techcrunch
   date_found: '2026-04-14'
@@ -874,8 +844,7 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: extracted Bluefish $43M Series B (already processed) and Ranger AI $6M (SEC
-    filing only, no investors disclosed, skipped)
+  notes: extracted Bluefish $43M Series B (already processed) and Ranger AI $6M (SEC filing only, no investors disclosed, skipped)
 - title: Rork raised $15M Seed
   url: https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html
   source: prnewswire
@@ -930,12 +899,3 @@ pending_rounds:
   parsed_round: Seed
   status: skipped
   skip_reason: Singapore-based company; outside primary US focus
-- title: Slate Auto raises $650M to fund its affordable EV truck plans
-  url: https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/
-  source: techcrunch
-  date_found: '2026-04-13'
-  parsed_company: Slate Auto
-  parsed_amount: $650M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile slate-auto.md
