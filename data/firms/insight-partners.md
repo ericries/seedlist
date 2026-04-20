@@ -125,7 +125,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Hinge Health | Series B | 2018 | Digital Health | Active (Public) | [^29] |
 | Checkout.com | Series A | 2019 | Payments | Active | [^30] |
 | Kaseya | Growth | 2013 | IT Management | Active | [^31] |
-| Optimizely | Buyout | 2018 | Enterprise Software | Active | [^32] |
+| Optimizely | Buyout | 2018 | Enterprise Software | Active | [^2] |
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Active | [^11] |
 | Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
 | Linx Security | Series B | 2026 | Cybersecurity / Identity | Active | [^13] |
@@ -187,4 +187,3 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^29]: Insight Partners, "Hinge Health Raises $26 Million from Insight Venture Partners and Atomico," August 2018. https://www.insightpartners.com/ideas/hinge-health-raises-26-million-from-insight-venture-partners-and-atomico-to-help-employers-tackle-chronic-conditions/
 [^30]: Insight Partners, "Checkout.com Raises $230m in Record European Series A," May 2019. https://www.insightpartners.com/ideas/checkout-com-raises-230m-in-record-european-series-a/
 [^31]: Insight Partners, "Insight Venture Partners Makes Investment in Kaseya," June 2013. https://www.insightpartners.com/ideas/insight-venture-partners-makes-investment-in-kaseya/
-[^32]: GrowthCap Advisory, "Insight Partners — Optimizely," October 2018. https://growthcapadvisory.com/firms/insight-partners/

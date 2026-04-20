@@ -65,16 +65,16 @@ Based on 30 verified portfolio investments spanning 2004-2026, the following pat
 | Mint | ~2006 | Seed | Fintech | Acquired (Intuit, 2009) | [^1] [^10] |
 | Fitbit | ~2008 | Seed | Consumer Hardware | IPO (NYSE:FIT); Acquired (Google) | [^1] [^4] |
 | BrightRoll | ~2006 | Seed | Ad Tech | Acquired (Yahoo, 2014) | [^1] |
-~unknown| LiveRamp | — | Seed | Data Infrastructure | Acquired (Acxiom) | [^1] |
+| LiveRamp | 2006 | Seed | Data Infrastructure | Acquired (Acxiom) | [^1] [^17] |
 ~unknown| Wildfire | — | Seed | Marketing Tech | Acquired (Google) | [^1] |
 ~unknown| Bleacher Report | — | Seed | Media | Acquired (Turner) | [^1] |
 ~unknown| Gnip | — | Seed | Data Infrastructure | Acquired (Twitter) | [^1] |
 | SendGrid | ~2009 | Seed | Developer Tools | IPO (NYSE:SEND); Acquired (Twilio) | [^1] |
-| Eventbrite | — | Seed | Events/Marketplace | IPO (NYSE:EB, 2018) | [^1] |
+| Eventbrite | 2006 | Seed | Events/Marketplace | IPO (NYSE:EB, 2018) | [^1] [^18] |
 ~unknown| Vungle | — | Seed | Ad Tech | Acquired (Blackrock) | [^1] |
 | Postmates | ~2011 | Seed | Consumer/Marketplace | Acquired (Uber) | [^1] |
-| Poshmark | — | Seed | Consumer/Marketplace | IPO (NASD:POSH, 2021) | [^1] |
-| DocSend | — | Seed | B2B SaaS | Acquired (Dropbox, 2021) | [^1] |
+| Poshmark | 2011 | Seed | Consumer/Marketplace | IPO (NASD:POSH, 2021) | [^1] [^19] |
+| DocSend | 2013 | Seed | B2B SaaS | Acquired (Dropbox, 2021) | [^1] [^20] |
 ~unknown| Sapho | — | Seed | Enterprise Software | Acquired (Citrix) | [^1] |
 | ClassDojo | 2012 | Seed | EdTech | Active | [^1] [^11] |
 ~unknown| Front | — | Seed | B2B SaaS | Active | [^1] |
@@ -139,3 +139,7 @@ No additional independently sourced founder testimonials with verbatim quotes an
 [^14]: Uncork Capital website, "Companies" portfolio page, accessed March 2026. https://uncorkcapital.com/companies/
 [^15]: GlobeNewsWire, "Ivo raises $55M to transform contracts into a trusted source of intelligence for every business," January 20, 2026, accessed March 2026. https://www.globenewswire.com/news-release/2026/01/20/3221758/0/en/Ivo-raises-55M-to-transform-contracts-into-a-trusted-source-of-intelligence-for-every-business.html
 [^16]: Investors Hangout, "Uncork Capital Secures $300 Million to Fuel Innovative Ventures," May 2025, accessed March 2026. https://investorshangout.com/uncork-capital-secures-300-million-to-fuel-innovative-ventures-275881-/
+[^17]: Summation by Auren Hoffman, "Rapleaf raises small angel round," July 10, 2006, accessed April 2026. https://summation.net/2006/07/10/rapleaf_raises_/
+[^18]: Acquired.fm, "Eventbrite: The Complete History and Strategy" (Kevin and Julia Hartz interview; Eventbrite launched 2006 with early angel support including Jeff Clavier), accessed April 2026. https://www.acquired.fm/episodes/eventbrite
+[^19]: PE Hub / Venture Capital Journal, "Poshmark Raises $12M From Menlo, Mayfield, Inventus & SoftTech" (noting SoftTech participated in Poshmark's $3.5M Series A in February 2011), December 2012, accessed April 2026. https://www.pehub.com/2012/12/poshmark-raises-12m-from-menlo-mayfield-inventus-softtech-sv-angel/
+[^20]: TechCrunch, "DocSend Is The Analytics Tool For Documents We've All Been Waiting For" (confirms $1.7M seed raised in late 2013 from SoftTech VC, Cowboy Ventures, Lerer Ventures), May 6, 2014, accessed April 2026. https://techcrunch.com/2014/05/06/docsend-is-the-analytics-tool-for-documents-weve-all-been-waiting-for/
