@@ -75,12 +75,12 @@ Shopify is an e-commerce platform that enables merchants to set up online stores
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Series A | Dec 2010 | $7M | Bessemer Venture Partners | FirstMark Capital, Felicis Ventures | — |
-| Series B | Oct 2011 | $15M | Bessemer Venture Partners | FirstMark Capital, Felicis Ventures, Georgian Partners | — |
-| Series C | Dec 2013 | $100M | OMERS Ventures, Insight Venture Partners | Bessemer Venture Partners, FirstMark Capital, Georgian Partners, Felicis Ventures | — |
-| IPO | May 2015 | — | — | NYSE: SHOP, TSE: SH | — |
+| Series A | 2010-12-13 | $7M | Bessemer Venture Partners | FirstMark Capital, Felicis Ventures | $20M pre-money [^4][^7] |
+| Series B | 2011-10-17 | $15M | Bessemer Venture Partners | FirstMark Capital, Felicis Ventures, Georgian Partners | $75M pre-money [^5] |
+| Series C | 2013-12-12 | $100M | OMERS Ventures, Insight Venture Partners | Bessemer Venture Partners, FirstMark Capital, Georgian Partners, Felicis Ventures | ~$1B [^6][^8] |
+| IPO | 2015-05-21 | $131M | — | NYSE: SHOP, TSX: SH | $1.27B [^9][^10] |
 
-Sources: [^1][^2][^3][^4][^5][^6]
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10]
 
 ## What Investors Say
 
@@ -95,6 +95,10 @@ Sources: [^1][^2][^3][^4][^5][^6]
 [^1]: HulkApps, "Shopify Venture Capital History," accessed March 2026. https://www.hulkapps.com/blogs/shopify-hub/shopify-venture-capital-history
 [^2]: Shopify Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Shopify
 [^3]: Tracxn, "Shopify - 2026 Company Profile, Funding & Investors," accessed March 2026. https://tracxn.com/d/companies/shopify/__NNWgXlWtRBr7FVe-BI1BiwMHs246IPF8HlqlcE5kZno
-[^4]: Shopify News, "Shopify Announces $7 Million Series A Funding," December 2010. https://www.shopify.com/news/shopify-announces-7-million-series-a-funding
-[^5]: Shopify News, "Shopify Announces $15 Million Series B Funding," October 2011. https://www.shopify.com/news/shopify-announces-15-million-series-b-funding
-[^6]: Shopify News, "Shopify Announces $100 Million Funding," December 2013. https://www.shopify.com/news/shopify-announces-100-million-funding
+[^4]: Shopify News, "Shopify Announces $7 Million Series A Funding," December 13, 2010. https://www.shopify.com/news/shopify-announces-7-million-series-a-funding
+[^5]: Shopify News, "Shopify Announces $15 Million Series B Funding," October 17, 2011. https://shopifyinvestors.com/media-center/news-details/2011/Shopify-Announces-15-Million-Series-B-Funding/default.aspx
+[^6]: Shopify News, "Shopify Announces $100 Million Funding," December 12, 2013. https://www.shopify.com/news/shopify-announces-100-million-funding
+[^7]: Bessemer Venture Partners, "Shopify Investment Memo" (Series A, $5M at $20M pre-money), accessed April 2026. https://www.bvp.com/memos/shopify
+[^8]: TechCrunch, "Shopify Raises $100M To Drop The 'E' And Become The Commerce Company That Spans On- And Offline," December 11, 2013. https://techcrunch.com/2013/12/11/shopify-100-million-series-c/
+[^9]: Fortune, "Shopify prices IPO at $17, valuing the company at $1.27 billion," May 20, 2015. https://fortune.com/2015/05/20/shopify-ipo-pricing/
+[^10]: Bloomberg, "Shopify Surges in Debut After Larger Than Expected IPO," May 20, 2015. https://www.bloomberg.com/news/articles/2015-05-20/shopify-raises-131-million-pricing-ipo-above-increased-range
