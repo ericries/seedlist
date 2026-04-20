@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 19,
+      "size": 20,
       "members": [
         {
           "slug": "angela-tran",
@@ -8113,6 +8113,11 @@
           "slug": "zachary-bogue",
           "name": "Zachary Bogue",
           "firm": "dcvc"
+        },
+        {
+          "slug": "matt-clifford",
+          "name": "Matt Clifford",
+          "firm": "entrepreneurs-first"
         }
       ]
     },
@@ -8269,7 +8274,7 @@
       "name": "Crypto Conviction",
       "tagline": "HODLing through every winter. They kept backing blockchain and crypto infrastructure when everyone else ran.",
       "type": "curated",
-      "size": 8,
+      "size": 12,
       "members": [
         {
           "slug": "boris-wertz",
@@ -8310,6 +8315,26 @@
           "slug": "paul-veradittakit",
           "name": "Paul Veradittakit",
           "firm": "pantera-capital"
+        },
+        {
+          "slug": "tarun-chitra",
+          "name": "Tarun Chitra",
+          "firm": "robot-ventures"
+        },
+        {
+          "slug": "robert-leshner",
+          "name": "Robert Leshner",
+          "firm": "robot-ventures"
+        },
+        {
+          "slug": "spencer-applebaum",
+          "name": "Spencer Applebaum",
+          "firm": "multicoin-capital"
+        },
+        {
+          "slug": "shayon-sengupta",
+          "name": "Shayon Sengupta",
+          "firm": "multicoin-capital"
         }
       ]
     },
@@ -8999,7 +9024,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 17,
+      "size": 19,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9085,6 +9110,16 @@
           "slug": "sonali-de-rycker",
           "name": "Sonali De Rycker",
           "firm": "accel"
+        },
+        {
+          "slug": "matt-clifford",
+          "name": "Matt Clifford",
+          "firm": "entrepreneurs-first"
+        },
+        {
+          "slug": "alice-bentinck",
+          "name": "Alice Bentinck",
+          "firm": "entrepreneurs-first"
         }
       ]
     },
@@ -9132,7 +9167,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 16,
+      "size": 20,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9213,6 +9248,25 @@
           "slug": "scott-belsky",
           "name": "Scott Belsky",
           "firm": "a24"
+        },
+        {
+          "slug": "kunal-bahl",
+          "name": "Kunal Bahl",
+          "firm": "titan-capital"
+        },
+        {
+          "slug": "kunal-shah",
+          "name": "Kunal Shah"
+        },
+        {
+          "slug": "grant-verstandig",
+          "name": "Grant Verstandig",
+          "firm": "red-cell-partners"
+        },
+        {
+          "slug": "rachel-holt",
+          "name": "Rachel Holt",
+          "firm": "construct-capital"
         }
       ]
     },
@@ -9462,7 +9516,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 18,
+      "size": 20,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9553,6 +9607,15 @@
           "slug": "steve-anderson",
           "name": "Steve Anderson",
           "firm": "baseline-ventures"
+        },
+        {
+          "slug": "kunal-shah",
+          "name": "Kunal Shah"
+        },
+        {
+          "slug": "kunal-bahl",
+          "name": "Kunal Bahl",
+          "firm": "titan-capital"
         }
       ]
     },
@@ -9630,7 +9693,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 38,
+      "size": 43,
       "members": [
         {
           "slug": "aileen-lee",
@@ -9821,6 +9884,31 @@
           "slug": "yasmin-razavi",
           "name": "Yasmin Razavi",
           "firm": "spark-capital"
+        },
+        {
+          "slug": "sarah-catanzaro",
+          "name": "Sarah Catanzaro",
+          "firm": "amplify-partners"
+        },
+        {
+          "slug": "dayna-grayson",
+          "name": "Dayna Grayson",
+          "firm": "construct-capital"
+        },
+        {
+          "slug": "rachel-holt",
+          "name": "Rachel Holt",
+          "firm": "construct-capital"
+        },
+        {
+          "slug": "alice-bentinck",
+          "name": "Alice Bentinck",
+          "firm": "entrepreneurs-first"
+        },
+        {
+          "slug": "gina-gotthilf",
+          "name": "Gina Gotthilf",
+          "firm": "latitud"
         }
       ]
     },
@@ -9829,7 +9917,7 @@
       "name": "The Dev Tools Obsessives",
       "tagline": "They back the picks and shovels every developer reaches for. Open source, infrastructure, and the building blocks of modern software.",
       "type": "curated",
-      "size": 14,
+      "size": 17,
       "members": [
         {
           "slug": "dalton-caldwell",
@@ -9900,6 +9988,21 @@
           "slug": "teddie-wardi",
           "name": "Teddie Wardi",
           "firm": "insight-partners"
+        },
+        {
+          "slug": "sarah-catanzaro",
+          "name": "Sarah Catanzaro",
+          "firm": "amplify-partners"
+        },
+        {
+          "slug": "lenny-pruss",
+          "name": "Lenny Pruss",
+          "firm": "amplify-partners"
+        },
+        {
+          "slug": "mike-dauber",
+          "name": "Mike Dauber",
+          "firm": "amplify-partners"
         }
       ]
     },
@@ -10941,6 +11044,98 @@
           "slug": "turner-novak",
           "name": "Turner Novak",
           "firm": "banana-capital"
+        }
+      ]
+    },
+    {
+      "id": "curated-40",
+      "name": "The Beltway Disruptors",
+      "tagline": "DC-based investors who bet that the most regulated industries are the most ripe for disruption \u2014 defense, healthcare, govtech, and national security.",
+      "type": "curated",
+      "size": 7,
+      "members": [
+        {
+          "slug": "grant-verstandig",
+          "name": "Grant Verstandig",
+          "firm": "red-cell-partners"
+        },
+        {
+          "slug": "dayna-grayson",
+          "name": "Dayna Grayson",
+          "firm": "construct-capital"
+        },
+        {
+          "slug": "rachel-holt",
+          "name": "Rachel Holt",
+          "firm": "construct-capital"
+        },
+        {
+          "slug": "nasir-qadree",
+          "name": "Nasir Qadree",
+          "firm": "zeal-capital-partners"
+        },
+        {
+          "slug": "steve-case",
+          "name": "Steve Case",
+          "firm": "revolution"
+        },
+        {
+          "slug": "frank-rotman",
+          "name": "Frank Rotman",
+          "firm": "qed-investors"
+        },
+        {
+          "slug": "scott-kupor",
+          "name": "Scott Kupor",
+          "firm": "andreessen-horowitz"
+        }
+      ]
+    },
+    {
+      "id": "curated-41",
+      "name": "The Global South Scouts",
+      "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
+      "type": "curated",
+      "size": 8,
+      "members": [
+        {
+          "slug": "kunal-shah",
+          "name": "Kunal Shah"
+        },
+        {
+          "slug": "kunal-bahl",
+          "name": "Kunal Bahl",
+          "firm": "titan-capital"
+        },
+        {
+          "slug": "shailendra-singh",
+          "name": "Shailendra Singh",
+          "firm": "peak-xv-partners"
+        },
+        {
+          "slug": "nicolas-szekasy",
+          "name": "Nicolas Szekasy",
+          "firm": "kaszek-ventures"
+        },
+        {
+          "slug": "brian-requarth",
+          "name": "Brian Requarth",
+          "firm": "latitud"
+        },
+        {
+          "slug": "gina-gotthilf",
+          "name": "Gina Gotthilf",
+          "firm": "latitud"
+        },
+        {
+          "slug": "karan-mohla",
+          "name": "Karan Mohla",
+          "firm": "chiratae-ventures"
+        },
+        {
+          "slug": "hans-tung",
+          "name": "Hans Tung",
+          "firm": "ggv-capital"
         }
       ]
     }
