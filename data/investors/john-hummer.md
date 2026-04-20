@@ -70,14 +70,14 @@ Investments attributed to John Hummer personally (per HWVP website and firm sour
 | Wind River Systems | ~1990s | Early | Embedded systems / RTOS | Acquired by Intel, $884M (2009) | [^3][^10] |
 | Arbor Software / Hyperion | ~1990s | Early | OLAP / Analytics | IPO (1995) | [^10] |
 | Extensity | ~1990s | Early | Enterprise web apps | IPO (2001) | [^10] |
-| Global Center | ~1990s | Early | Internet infrastructure | — | [^3] |
-| Employease | ~2000s | Early | HR software | — | [^3] |
+| Global Center | ~1996 | Early | Internet infrastructure | Acquired by Frontier Communications (1998); later Exodus (2000) | [^3][^13] |
+| Employease | 1997 | Early | HR software | Acquired by ADP (2006) | [^3][^14] |
 | Napster | ~1999 | Early | File sharing | Shut down / restructured | [^6] |
-| Cenzic | ~2000s | Early | Application security | — | [^3] |
+| Cenzic | ~2000s | Early | Application security | Acquired by Trustwave (2014) | [^3][^15] |
 | InMage | ~2000s | Early | Data protection | Acquired by Microsoft | [^3] |
-| Baynote | ~2000s | Early | Personalization / Analytics | — | [^3][^7] |
+| Baynote | 2007 | Series A | Personalization / Analytics | — | [^3][^7][^16] |
 | Birst | ~2000s | Early | Business intelligence | Acquired by Infor | [^3] |
-| StarMine | ~2000s | Early | Financial analytics | — | [^7] |
+| StarMine | 1999 | Early | Financial analytics | Acquired by Reuters (2008) | [^7][^17] |
 | Success Metrics | ~2008 | Early | Analytics | — | [^7] |
 
 *This table represents a small fraction of Hummer's 100+ reported investments [^1]. Only investments with specific sourcing to Hummer personally are included. Many additional HWVP investments (MuleSoft, Five9, Omniture, InsideSales, etc.) were firm-level investments where individual partner attribution is not confirmed.*
@@ -125,3 +125,8 @@ The HWVP website features testimonials from portfolio CEOs praising the firm's p
 [^10]: HWVP website, "Portfolio / Success Stories," accessed March 2026. https://hwvp.com/success-stories
 [^11]: Foundersuite, "Hummer Winblad Venture Partners Investor Profile," accessed March 2026. https://foundersuite.com/firms/hwvp-hummer-winblad-venture-partners
 [^12]: Mitchell Kertzman, Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Mitchell_Kertzman
+[^13]: GlobalCenter, CB Insights company profile, accessed April 2026. Confirms founding 1995-1996 in Sunnyvale, CA; acquired by Frontier Communications 1998; later by Exodus Communications September 2000; lists Hummer Winblad Venture Partners as an investor. https://www.cbinsights.com/company/global-center
+[^14]: Bill Gurley biography and press accounts confirm Gurley (as a new Hummer Winblad partner) led HWVP's 1997 term sheet into Atlanta-based Employease, with HWVP as first institutional investor; $20M follow-on round closed May 2000. https://www.buyoutsinsider.com/employease-gets-20m-raise/
+[^15]: Cenzic, CB Insights company profile, accessed April 2026. Confirms founding 2000; Hummer Winblad Venture Partners as investor alongside Mohr Davidow Ventures, Advanced Technology Ventures, JK&B Capital; acquired by Trustwave 2014. Specific HWVP investment year not publicly disclosed. https://www.cbinsights.com/company/cenzic
+[^16]: Baynote Series A, January 2007, $4.6M, institutional investors including Hummer Winblad Venture Partners. Tracxn and Crunchbase company profiles, accessed April 2026. https://tracxn.com/d/companies/baynote/__wYW7fn4HV_8XcRrijzfO1khIhNEAf4uYxrDBfyqRngo
+[^17]: Finextra, "Instinet invests in StarMine," February 2002. Confirms StarMine raised ~$15M from Hummer Winblad Venture Partners, American Century Ventures and individual angels since 1999; Hummer Winblad participated in the $5M Series D closed February 2002; StarMine acquired by Reuters in 2008. https://www.finextra.com/newsarticle/4748/instinet-invests-in-starmine

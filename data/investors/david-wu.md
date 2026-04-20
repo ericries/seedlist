@@ -10,9 +10,9 @@ stage_focus: [seed, series-a]
 sector_focus: [consumer, health-wellness, entertainment, hardware, commerce]
 check_size: "$1M-$10M"
 last_verified_investment:
-  date: 2025-03-28
+  date: 2025-04-02
   company: "LTV.ai"
-  round: "Unknown"
+  round: "Series A"
 social:
   twitter: "@davewu"
   linkedin: "linkedin.com/in/davidwu90"
@@ -71,15 +71,15 @@ Based on 18 verified Maveron-era and personal investments (a subset of his claim
 | Illumix | 2018 | Seed (led) | [^13] |
 | Modern Fertility | 2018 | Seed (led) | [^15] |
 | Wave | 2020 | Series B (led) | [^6] |
-| FitXR | ~2024 | Unknown | [^5] |
-| fatty15 / Seraphina Therapeutics | ~2024 | Unknown | [^5] |
-| Tuned | ~2025 | Unknown | [^5] |
-| LTV.ai | 2025 | Unknown | [^16] |
+| FitXR | 2018 | Seed | [^17] |
+| fatty15 / Seraphina Therapeutics | 2024 | Board seat (no verified investment round) | [^5] |
+| Tuned | 2025 | Board seat (no verified investment round) | [^5] |
+| LTV.ai | 2025-04-02 | Series A | [^16][^18] |
 | Practice Fusion | Pre-2012 | Angel | [^3] |
 | Postmates | Pre-2012 | Angel | [^3] |
 | SeatMe | Pre-2012 | Angel | [^3] |
-~unknown| Tile | Unknown | Angel | [^4] |
-~unknown| Jaunt VR | Unknown | Angel | [^4] |
+| Tile | ~2013 | Angel (pre-Maveron) | [^4] |
+| Jaunt VR | Pre-2012 | Angel | [^4] |
 
 *This table represents a fraction of Wu's claimed 50+ investments. Only investments with a verifiable source are included.*
 
@@ -134,3 +134,5 @@ No independently sourced founder testimonials found. Wu's portfolio companies ha
 [^14]: Crunchbase, "David Wu - Partner @ Maveron," accessed March 2026. https://www.crunchbase.com/person/david-wu
 [^15]: FinSMEs, "Modern Fertility Raises $6M in Seed Funding," May 2018. https://www.finsmes.com/2018/05/modern-fertility-raises-6m-in-seed-funding.html
 [^16]: Tracxn, "David Wu - 2025 Portfolio," accessed March 2026. https://tracxn.com/d/people/david-wu/__tt55W-M5WLU-wfh4azA0ypsVFsI9OjKeD9O94BZHqR0
+[^17]: Tracxn, "FitXR funding rounds and investors," accessed April 2026. Lists Maveron among investors in FitXR's Nov 6, 2018 Seed round of $5.5M. https://tracxn.com/d/companies/fitxr/__ZHYd2FshoMPHyLpfVJJznqsIFoHX9fo4FqAEUESx0h8/funding-and-investors
+[^18]: The AI Insider, "$5.2M Boost for LTV.ai to Advance AI-Powered Marketing Personalization," April 2, 2025. Series A co-led by Bling Capital, Protagonist, and Justin Yoshimura with OVO Fund participation. https://theaiinsider.tech/2025/04/02/5-2m-boost-for-ltv-ai-to-advance-ai-powered-marketing-personalization/

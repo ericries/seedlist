@@ -64,7 +64,7 @@ Based on 8 verified angel investments disclosed through Selvadurai's AngelList s
 - Marketplace / commerce: 2 of 10 (20%) — Managed by Q (office services, acquired by WeWork 2019), Podia (creator commerce)
 - Data / enterprise intelligence: 2 of 10 (20%) — Mattermark (B2B business intelligence), Enertiv (energy management)
 - Food / consumer health: 1 of 10 (10%) — Positive Food (prepared meals)
-- Unknown / other: 1 of 10 (10%) — Drip (reported on Signal; sector not independently verified)
+- Marketing / developer tools: 1 of 10 (10%) — Drip (email marketing automation)
 
 **Stage distribution (confirmed rounds for 4 investments):**
 - Seed: 3 of 4 (75%) — Timehop ($1.1M seed, Jan 2012), Mattermark ($2M seed), Managed by Q (Series A participation confirmed June 2015)
@@ -92,11 +92,11 @@ Based on 8 verified angel investments disclosed through Selvadurai's AngelList s
 | Mattermark | ~2013 | Seed ($2M round) | B2B Data Intelligence | Golden.com, Crunchbase [^17] |
 | Citymapper | ~2013 | Seed | Urban Transit / Consumer | AngelList syndicate [^12] |
 | Sunrise | ~2013 | Seed | Consumer Productivity | AngelList syndicate [^12] |
-| 20x200 | ~2013–2015 | Unknown | Art E-Commerce | AngelList syndicate [^12] |
+| 20x200 | ~2013–2015 | Unresolvable (angel, round type unconfirmed) | Art E-Commerce | AngelList syndicate [^12] |
 | Managed by Q | 2015 | Series A ($15M round) | Office Services / Marketplace | TechCrunch, June 2015 [^18] |
-| Podia | ~2015–2017 | Unknown | Creator Commerce | AngelList syndicate [^12] |
-| Enertiv | ~2015–2018 | Unknown | Energy Management / PropTech | AngelList syndicate [^12] |
-| Drip | 2015 | Seed | Unknown | Signal by NFX [^19] |
+| Podia | ~2016–2017 | Unresolvable (likely Seed, specific round unconfirmed) | Creator Commerce | AngelList syndicate [^12]; Podia raised Seed rounds Apr 2016, Dec 2017, and Mar 2019 [^21] |
+| Enertiv | ~2018 | Unresolvable (likely Seed, participation unconfirmed in press) | Energy Management / PropTech | AngelList syndicate [^12]; Enertiv closed a $4.25M Seed round Jan 2018 led by Fifth Wall [^22] |
+| Drip | 2015-01 | Seed | Email Marketing / Marketing Automation | Signal by NFX [^19]; PR Newswire on Drip product [^23] |
 | Positive Food | 2022 | Venture Round ($7M) | Food / Consumer Health | TechCrunch, Aug 2022 [^20] |
 
 *Note: Years for AngelList syndicate entries without press confirmation are approximate, inferred from company founding dates or syndicate activity. "~" denotes estimate.*
@@ -169,3 +169,9 @@ No independently sourced founder testimonials found. No firm website testimonial
 [^19]: Signal by NFX, "Naveen Selvadurai's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/naveen-selvadurai
 
 [^20]: TechCrunch, "Positive Food meals go into more Whole Foods, Bristol Farms," Christine Hall, August 12, 2022, accessed March 2026. https://techcrunch.com/2022/08/12/positive-food-whole-foods-meal-7m/
+
+[^21]: Tracxn, "Podia — Funding and Investors," accessed April 2026 (lists three Seed rounds: April 11, 2016; December 21, 2017; March 15, 2019). https://tracxn.com/d/companies/podia/__z0IBi3se9Dmm4tgM3D7_gd3mvfwoXT-Kd3JfOq3NPL4/funding-and-investors
+
+[^22]: Commercial Observer, "Fifth Wall, Rudin Raise $4.3M in Seed Funding for PropTech Company," January 2018, accessed April 2026 (Enertiv's January 25, 2018 Seed round of $4.25M led by Fifth Wall Ventures, with Rudin Ventures, New York Angels, Cerium Technology, and MetaProp NYC; Selvadurai's participation in this specific round not confirmed in press). https://commercialobserver.com/2018/01/fifth-wall-rudin-raise-4-3m-in-seed-funding-for-proptech-company/
+
+[^23]: PR Newswire, "Drip Acquired By Leadpages," July 7, 2016, accessed April 2026 (describes Drip as an email marketing automation platform: "Drip allows users to create email campaigns, broadcasts and workflows for lead nurturing and engagement"). https://www.prnewswire.com/news-releases/drip-acquired-by-leadpages-300297707.html
