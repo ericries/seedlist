@@ -84,6 +84,9 @@ investors:
 - round: Seed
   slug: dayna-grayson
   year: 2021
+- round: Seed through Series B
+  slug: rachel-holt
+  year: 2021
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian

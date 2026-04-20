@@ -1,24 +1,39 @@
 ---
-name: Flare
-slug: flare-trust
-type: startup
-website: "https://flare.co"
-location: Copenhagen, Denmark
+firms:
+- round: Private
+  slug: coinfund
+  year: 2024
+- round: ~2019
+  slug: social-leverage
+  year: 2019
 founded: 2026
-status_company: active
+founders:
+- name: Nicolai Frost Kolborg Jacobsen
+  role: Co-Founder & CEO
+investors:
+- round: Private
+  slug: alex-felix
+  year: 2024
+- round: Private
+  slug: jake-brukhman
+  year: 2024
+- round: ~2019
+  slug: howard-lindzon
+  year: 2019
+last_researched: 2026-04-20
+location: Copenhagen, Denmark
+name: Flare
 sector:
 - AI
 - trust-and-safety
 - information-verification
+slug: flare-trust
 stage_latest: Pre-Seed
-total_raised: "€3.6M"
-firms: []
-investors: []
-founders:
-- name: Nicolai Frost Kolborg Jacobsen
-  role: Co-Founder & CEO
 status: published
-last_researched: 2026-04-20
+status_company: active
+total_raised: €3.6M
+type: startup
+website: https://flare.co
 ---
 
 ## About

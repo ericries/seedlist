@@ -9939,7 +9939,7 @@ queue:
 - name: Rachel Holt
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Construct Capital
   discovered_from: manual-dc-expansion
@@ -9947,7 +9947,7 @@ queue:
 - name: Kunal Bahl
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Titan Capital
   discovered_from: kunal-shah
@@ -16875,3 +16875,9 @@ queue:
   added: '2026-03-17'
   firm: Red Cell Partners
   discovered_from: grant-verstandig
+- name: Titan Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kunal-bahl
