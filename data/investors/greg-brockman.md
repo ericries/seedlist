@@ -70,7 +70,7 @@ Based on 39 publicly identified investments from multiple sources [^4] [^5] [^6]
 | Slack | ~2014 | Early | Enterprise/Communication | [^4] |
 | Algolia | ~2015 | Seed | Developer Tools/Search | [^4] |
 | Gigster | ~2015 | Seed | Developer Marketplace | [^4] |
-| Quizlet | ~2015 | Unknown | EdTech | [^4] |
+| Quizlet | 2015 | Series A | EdTech | [^4] [^9] |
 | Apptimize | ~2015 | Seed | Developer Tools/Testing | [^4] |
 | Nylas | ~2015 | Seed | Developer Tools/API | [^4] |
 | Jopwell | ~2016 | Seed | Diversity/Recruiting | [^4] |
@@ -84,14 +84,14 @@ Based on 39 publicly identified investments from multiple sources [^4] [^5] [^6]
 | Cosmic JS | ~2017 | Seed | Developer Tools/CMS | [^4] |
 | Percy | ~2017 | Seed | Developer Tools/Testing | [^4] |
 | B12 | ~2017 | Seed | AI/Web Design | [^4] |
-| Ginkgo Bioworks | ~2017 | Unknown | Biotech/Synthetic Bio | [^4] |
-| Sendwave | ~2018 | Unknown | Fintech/Remittances | [^4] |
+| Ginkgo Bioworks | 2017 | Series D | Biotech/Synthetic Bio | [^4] [^10] |
+| Sendwave | 2016 | Series B | Fintech/Remittances | [^4] [^11] |
 | Lugg | ~2018 | Seed | Consumer/Moving | [^4] |
 | Retool | ~2018 | Seed | Developer Tools/Low-Code | [^4] |
 | Doppler | ~2018 | Seed | Developer Tools/Secrets | [^4] |
 | Clara Labs | ~2018 | Seed | AI/Scheduling | [^4] |
 | Human Interest | ~2018 | Seed | Fintech/401k | [^4] |
-| Rasa | ~2019 | Unknown | AI/Conversational | [^4] |
+| Rasa | 2019 | Series A | AI/Conversational | [^4] [^12] |
 | Hugging Face | 2019 | Series A | AI/NLP Platform | [^8] |
 | Spring Discovery | ~2019 | Seed | AI/Drug Discovery | [^4] |
 | LivBlends | ~2019 | Seed | Consumer/Food | [^4] |
@@ -104,10 +104,10 @@ Based on 39 publicly identified investments from multiple sources [^4] [^5] [^6]
 | Lumos | 2022 | Series A | Enterprise/IT Automation | [^5] [^6] |
 | Uplimit | 2022 | Seed | EdTech/AI | [^5] [^6] |
 | Lambda | 2023 | Series B | AI/GPU Cloud | [^5] [^6] |
-| Sandbar | 2023 | Seed | Unknown | [^6] |
+| Sandbar | 2023 | Seed | Regtech/AML Compliance | [^6] [^13] |
 | Braintrust | 2024 | Series A | AI/Developer Tools | [^5] [^6] |
 | Instant | 2024 | Seed | Developer Tools | [^5] |
-| Sparrow | 2025 | Series B | Unknown | [^6] |
+| Sparrow | 2025 | Series B | HR Tech/Leave Management | [^6] [^14] |
 
 *This table represents 42 investments from Brockman's estimated 39-51 total investments depending on source. Some entry years are approximate based on company founding dates, marked with ~.*
 
@@ -141,3 +141,9 @@ No independently sourced founder testimonials found regarding Brockman's angel i
 [^6]: Greg Brockman investor profile, Evalyze.ai, accessed March 2026. https://www.evalyze.ai/investors/greg-brockman
 [^7]: "Big names in machine intelligence join Graphcore's new $30 million funding round," Graphcore, July 20, 2017. https://www.graphcore.ai/posts/big-names-in-machine-intelligence-join-graphcores-new-30-million-funding-round
 [^8]: "Hugging Face raises $15 million to build the definitive natural language processing library," TechCrunch, December 17, 2019. https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
+[^9]: "Quizlet, World's Most Popular Learning Tool, Passes One Billion Study Sessions; Raises $12M Series A," PR Newswire, November 23, 2015. https://www.prnewswire.com/news-releases/quizlet-worlds-most-popular-learning-tool-passes-one-billion-study-sessions-raises-12m-series-a-300182886.html
+[^10]: "Ginkgo Bioworks secures $275 million in Series D, valuing the company at over $1 billion," TechCrunch, December 14, 2017. https://techcrunch.com/2017/12/14/gingko-bioworks-secures-275-million-in-series-d-valuing-the-company-at-over-1-billion/
+[^11]: Sendwave funding rounds (Seed 2012, Series A 2014, Series B May 13, 2016), Tracxn, accessed April 2026. https://tracxn.com/d/companies/sendwave/__nGKnYPCOEDhfyMnxEG8X3vpdrGEmCisuNWfvt9SPgmI/funding-and-investors
+[^12]: "Rasa Secures $13M Series A Investment Led by Accel To Power Conversational AI," PR Newswire, April 11, 2019 — Greg Brockman listed as angel participant. https://www.prnewswire.com/news-releases/rasa-secures-13m-series-a-investment-led-by-accel-to-power-conversational-ai-300830545.html
+[^13]: "Sandbar Raises $4.8M in Seed Funding," FinSMEs, January 24, 2023 — anti-money laundering software for fintechs, round led by Lachy Groom and Abstract Ventures. https://www.finsmes.com/2023/01/sandbar-raises-4-8m-in-seed-funding.html
+[^14]: "Sparrow raises $35 million in Series B funding to scale its global AI-powered solutions for leave management," Sparrow press release, July 29, 2025 — round led by SLW with Greg Brockman participation. https://sparrow.com/press/sparrow-raises-35m-in-series-b-funding/

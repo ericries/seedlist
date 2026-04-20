@@ -47,24 +47,24 @@ On founder qualities he values: "I believe in working in quick and iterative cyc
 
 ## Inferred Thesis
 
-Based on 11 verified investments (including 3 exits) compiled from Tracxn, CB Insights, NFX Signal, and funding announcements. Sample size is small; qualitative descriptions used where percentages would be unreliable.
+Based on 10 verified angel investments (including 3 exits) compiled from Tracxn, CB Insights, NFX Signal, and primary funding announcements. Sample size is small; qualitative descriptions used where percentages would be unreliable.
 
-**Sector distribution (11 verified investments):**
-- Cybersecurity: 6 of 11 (55%) — Clover Security, Spirit, Twine Security, Talon Cyber Security (exited), Atmosec (exited), Eureka (exited)
-- Enterprise applications / sales: 2 of 11 (18%) — Demostack, Descope
-- AI infrastructure: 1 of 11 (9%) — Atero
-- Identity / auth: 1 of 11 (9%) — Descope
-- Other enterprise: 1 of 11 (9%) — Daylight
+**Sector distribution (10 verified investments):**
+- Cybersecurity: 6 of 10 (60%) — Clover Security, Spirit, Twine Security, Talon Cyber Security (exited), Atmosec (exited), Eureka (exited)
+- Enterprise applications / sales: 1 of 10 (10%) — Demostack
+- AI infrastructure: 1 of 10 (10%) — Atero
+- Identity / auth: 1 of 10 (10%) — Descope
+- Other enterprise: 1 of 10 (10%) — Daylight
 
-**Stage distribution (8 investments with confirmed round data):**
-- Seed: 5 of 8 (63%) — Twine Security, Clover Security (seed), Spirit, Atmosec, Eureka
-- Series A: 3 of 8 (38%) — Clover Security (Series A), Daylight, Demostack
+**Stage distribution (10 investments with confirmed round data):**
+- Seed: 8 of 10 (80%) — Twine Security, Clover Security (seed), Spirit, Atmosec, Eureka, Atero, Descope, Talon Cyber Security
+- Series A: 2 of 10 (20%) — Daylight, Demostack (Rappaport participated in both Demostack's 2020 seed and 2021 Series A)
 
 **Geographic concentration:** Overwhelmingly Israeli startups, with some US presence. This reflects Rappaport's deep roots in the Israeli cybersecurity ecosystem and his connections through Unit 8200, Cyberstarts, and Mensch Capital Partners.
 
 **Check size:** NFX Signal reports $5K-$50K with a sweet spot of $25K [^2]. This is consistent with a founder-operator angel profile — small personal checks alongside his operating role at Wiz.
 
-**Exit track record:** 3 exits from 11 investments (27% exit rate). All exits are cybersecurity companies: Talon Cyber Security, Atmosec, and Eureka [^4].
+**Exit track record:** 3 exits from 10 investments (30% exit rate). All exits are cybersecurity companies: Talon Cyber Security (acquired by Palo Alto Networks for ~$600M in November 2023), Atmosec, and Eureka [^4]. Atero, an AI infrastructure investment, also exited in August 2025 (acquired by Crusoe for ~$150M [^10]).
 
 **Co-investor patterns:** Rappaport frequently co-invests with Wiz co-founder Yinon Costica and prominent Israeli cybersecurity founders including Shlomo Kramer (Cato Networks) [^5]. He invests through the Cyberstarts ecosystem, where many Israeli cyber founders participate as angels [^6].
 
@@ -72,21 +72,20 @@ Based on 11 verified investments (including 3 exits) compiled from Tracxn, CB In
 
 ## Portfolio
 
-This table includes 11 verified investments. Rappaport invests small personal checks as an angel alongside his operating role at Wiz.
+This table includes 10 verified angel investments. Rappaport invests small personal checks as an angel alongside his operating role at Wiz. (Note: "Beyond" is not an angel investment — it was the original name of Wiz, the company Rappaport co-founded — so it is excluded here.)
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Clover Security | Series A | 2025 | Cybersecurity | Active | [^5] |
 | Daylight | Series A | 2025 | Enterprise | Active | [^4] |
+| Atero | Seed | 2024 | AI infrastructure | Exited (Crusoe, Aug 2025) | [^10] |
 | Twine Security | Seed | 2024 | Cybersecurity | Active | [^7] |
+| Descope | Seed | 2023-02-15 | Identity / auth | Active | [^11] |
+| Demostack | Seed + Series A | 2020-12 / 2021-03-09 | Enterprise / sales | Active | [^12] [^13] |
+| Eureka | Seed | 2022-01-12 | Cybersecurity | Exited | [^14] |
+| Atmosec | Seed | 2021-12-15 | Cybersecurity | Exited | [^15] |
+| Talon Cyber Security | Seed | 2021-04 | Cybersecurity | Exited (Palo Alto Networks, Nov 2023) | [^4] |
 | Spirit | Seed | 2026 | Cybersecurity | Active | [^6] |
-| Atero | Undisclosed | ~2024 | AI infrastructure | Active | [^4] |
-| Demostack | Undisclosed | ~2022 | Enterprise / sales | Active | [^4] |
-| Descope | Undisclosed | ~2022 | Identity / auth | Active | [^4] |
-| Beyond (Israel) | Undisclosed | ~2022 | Enterprise | Active | [^4] |
-| Talon Cyber Security | Undisclosed | ~2021 | Cybersecurity | Exited | [^4] |
-| Atmosec | Undisclosed | ~2021 | Cybersecurity | Exited | [^4] |
-| Eureka | Undisclosed | ~2021 | Cybersecurity | Exited | [^4] |
 
 ## In Their Own Words
 
@@ -119,3 +118,9 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^7]: Ten Eleven Ventures, "Twine Attracts Top Investors for a $12M Seed Round to Create Digital Cybersecurity Employees," accessed March 2026. https://www.1011vc.com/news/twine-attracts-top-investors-for-a-12m-seed-round-to-create-digital-cybersecurity-employees/
 [^8]: Index Ventures, "Candid with Index: In Conversation with Wiz's Assaf Rappaport," accessed March 2026. https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-wizs-assaf-rappaport/
 [^9]: Sequoia Capital, "Wiz Spotlight: With a Little Help From Their Friends," accessed March 2026. https://sequoiacap.com/article/wiz-spotlight-with-a-little-help-from-their-friends/
+[^10]: Calcalist Tech, "Rising AI unicorn Crusoe buys one-year-old Israeli startup Atero in $150M deal," August 2025. https://www.calcalistech.com/ctechnews/article/rkdw11antlx
+[^11]: Calcalist Tech, "Demisto founders at it again, raise $53 million in Seed for new cyber startup Descope," February 15, 2023. https://www.calcalistech.com/ctechnews/article/h14yqicto
+[^12]: Crunchbase, "Seed Round - Demostack (December 2020)," accessed April 2026. https://www.crunchbase.com/funding_round/demostack-seed--503cf8b5
+[^13]: Calcalist Tech, "Demostack raises $13.3 million in round led by Bessemer Ventures," March 9, 2021. https://www.calcalistech.com/ctech/articles/0,7340,L-3897770,00.html
+[^14]: Calcalist Tech, "Eureka raises $8 million in Seed for security in expanding cloud data use," January 12, 2022. https://www.calcalistech.com/ctech/articles/0,7340,L-3927062,00.html
+[^15]: TechCrunch, "More funding for Israel's SaaS security startups as Atmosec raises $6 million seed round," December 15, 2021. https://techcrunch.com/2021/12/15/more-funding-for-israels-saas-security-startups-as-atmosec-raises-6-million-seed-round/
