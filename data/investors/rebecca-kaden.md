@@ -73,13 +73,13 @@ This table includes 14 verified investments. USV uses a partnership model where 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Supper | — | ~2025 | AI/Data | Active | [^1] |
-| Cofounder | — | ~2025 | AI | Active | [^1] |
+| Supper | Seed | 2025-12-03 | AI/Data | Active | [^10] [^11] |
+| Cofounder (General Intelligence Company) | Seed | 2025-12-08 | AI | Active | [^12] [^13] |
 | Efficient Computer | Series A | ~2025 | Hardware/Energy | Active | [^1] |
 | Outschool | Series A | 2019 | EdTech | Active | [^9] |
-| Stash | — | ~2018 | Fintech | Active | [^5] |
+| Stash | Series D | 2018-02-13 | Fintech | Active | [^14] |
 | Dolls Kill | Series A | 2014 | Consumer (Maveron) | Active | [^4] |
-~unknown| Duolingo | — | — | EdTech | Public (NASDAQ: DUOL) | [^8] |
+~unknown| Duolingo | Series A | 2011-10 | EdTech | Public (NASDAQ: DUOL) | [^15] |
 ~unknown| Quizlet | — | — | EdTech | Active | [^8] |
 ~unknown| Fiveable | — | — | EdTech | Active | [^8] |
 ~unknown| Coinbase | — | — | Crypto/Fintech | Public (NASDAQ: COIN) | [^8] |
@@ -117,3 +117,9 @@ No independently sourced founder testimonials found. Kaden's Outschool investmen
 [^7]: Alpha Partners, "Rebecca Kaden," accessed March 2026. https://alphapartners.com/vc/rebecca-kaden/
 [^8]: Sparkco AI, "Union Square Ventures," accessed March 2026. https://sparkco.ai/blog/union-square-ventures
 [^9]: Union Square Ventures, "Welcoming Outschool to USV," May 27, 2019, accessed March 2026. https://www.usv.com/writing/2019/05/welcoming-outschool-to-usv/
+[^10]: PR Newswire / Yahoo Finance, "Supper Raises $11M Seed Round to Deliver an AI-Native Data Platform," December 3, 2025, accessed April 2026. https://finance.yahoo.com/news/supper-raises-11m-seed-round-153700966.html
+[^11]: Pulse 2.0, "Supper: $11 Million Seed Funding Closed To Build AI-Native Data Platform For Faster Business Insights," December 2025, accessed April 2026. https://pulse2.com/supper-11-million-seed-funding/
+[^12]: Union Square Ventures blog, "The Race to Run Businesses Autonomously: Cofounder by the General Intelligence Company of New York," December 8, 2025, accessed April 2026. https://blog.usv.com/the-race-to-run-businesses-autonomously-cofounder-by-the-general-intelligence-company-of-new-york
+[^13]: Built In NYC, "The General Intelligence Company Raises $8.7M to Fully Automate Businesses," December 12, 2025, accessed April 2026. https://www.builtinnyc.com/articles/general-intelligence-company-raises-8m-seed-20251212
+[^14]: FinTech Global, "Stash picks up $37.5m Series D led by Union Square," February 13, 2018, accessed April 2026. https://fintech.global/2018/02/13/stash-picks-up-37-5m-series-d-led-by-union-square/
+[^15]: Union Square Ventures, "Duolingo," June 18, 2012, accessed April 2026. https://www.usv.com/writing/2012/06/duolingo/ (USV led Duolingo's $3.3M Series A announced October 2011; per Duolingo's Wikipedia-referenced funding history and USV's 2012 post)

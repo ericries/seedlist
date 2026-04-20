@@ -255,8 +255,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Groww | W18 | 2018 | Investment Platform (India) | Private ($7B) [^21] |
 | Zepto | W21 | 2021 | Quick Commerce (India) | Private ($7B) [^21] |
 | Jasper | W21 | 2021 | AI Copywriting | Private ($1.5B) [^21] |
-| OpenAI | — | ~2015 | AI Research | Private ($100B+) [^2] |
-| Duolingo | — | ~2011 | EdTech / Language Learning | Public (IPO 2021) [^19] |
+| OpenAI | YC Research | 2015 | AI Research | Private ($100B+) [^2][^29] |
 | Snorkel AI | W20 | 2020 | AI / Data Training | Private ($1B+) [^21] |
 | PlanGrid | W12 | 2012 | Construction SaaS | Acquired by Autodesk ($875M, 2018) [^22] |
 | Ironclad | S15 | 2015 | Legal Tech | Private ($3.2B) [^19] |
@@ -290,9 +289,9 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | 80,000 Hours | S15 | 2015 | Career Guidance | Nonprofit [^19] |
 | Airtable | W12 | 2012 | Database / No-Code | Private ($11B) [^19] |
 | Plaid | W13 | 2013 | Fintech Infrastructure | Private ($13.4B) [^19] |
-| Legora | — | ~2026 | AI / Legal Tech | Private ($5.55B) [^28] |
+| Legora | W24 | 2024 | AI / Legal Tech | Private ($5.55B) [^28][^30] |
 
-*Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). Some companies (OpenAI, Duolingo, Plaid) have batch information not publicly confirmed and are listed without batch designation.*
+*Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
 ## In Their Own Words
 
@@ -411,3 +410,9 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 
 [^27]: "Is Y Combinator worth the money (equity)? Brutally honest review of W22 batch experience," Substack. https://acecreamu.substack.com/p/is-y-combinator-worth-the-money. Accessed March 2026.
 [^28]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
+
+[^29]: "OpenAI," Y Combinator blog, December 11, 2015. https://www.ycombinator.com/blog/openai. Accessed April 2026. ("The first group affiliated with YC Research is OpenAI.")
+
+[^30]: "Legora: The AI workspace for lawyers," Y Combinator company directory. https://www.ycombinator.com/companies/legora. Accessed April 2026. (Listed as Winter 2024 batch.)
+
+[^31]: "Duolingo," Wikipedia. https://en.wikipedia.org/wiki/Duolingo. Accessed April 2026. (Duolingo was financed initially by Luis von Ahn's MacArthur fellowship and an NSF grant; Series A of $3.3M led by Union Square Ventures closed October 2011; no Y Combinator participation documented.)

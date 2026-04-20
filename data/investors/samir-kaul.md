@@ -102,11 +102,11 @@ While Kaul's stated focus includes AI broadly, his verified portfolio shows a st
 | QuantumScape | 2014 | Series A | Solid-state batteries | IPO (QS) | [^10] |
 | Impossible Foods | ~2011 | Seed | Plant-based food | Active | [^15] |
 | Nutanix | 2011 | Series B ($25M) | Cloud infrastructure | IPO (NTNX) | [^16] |
-| Raxium | — | — | MicroLED displays | Acquired (Google, 2022) | [^22] |
+| Raxium | 2020 | Venture (early) | MicroLED displays | Acquired (Google, 2022) | [^22][^29] |
 | NanoH2O | 2007 | Series A ($5M) | Water purification membranes | Acquired (LG Chem, 2014) | [^23] |
-| Granular | — | Series A | Farm management software | Acquired (DuPont, 2017) | [^24] |
-| Iora Health | — | — | Primary care / Medicare | Acquired (One Medical, 2021) | [^25] |
-~unknown| LS9 | — | — | Renewable fuels / biosciences | Acquired (REG) | [^1] |
+| Granular | 2014 | Series A ($4.2M) | Farm management software | Acquired (DuPont, 2017) | [^24][^30] |
+| Iora Health | 2015 | Series C ($28M) | Primary care / Medicare | Acquired (One Medical, 2021) | [^25][^31] |
+| LS9 | 2006 | Series A ($5M) | Renewable fuels / biosciences | Acquired (REG) | [^1][^32] |
 ~unknown| SLD | — | — | — | Acquired (Kyocera) | [^1] |
 | Helicos BioSciences | ~2002 | Early-stage | Genomic sequencing | IPO (then closed) | [^1] |
 ~unknown| Epitome | — | — | Biotech | Acquired (Millipore) | [^1] |
@@ -180,3 +180,7 @@ No independently sourced founder testimonials found. A LinkedIn testimonial from
 [^26]: Samir Kaul (@SamirKaul1) on X, March 2023, accessed March 2026. https://x.com/SamirKaul1/status/1634799367612776449
 [^27]: LinkedIn testimonial on Samir Kaul's profile, accessed March 2026. https://www.linkedin.com/in/samir-kaul-9227b64
 [^28]: Jack Creek Investment Corp., "Samir Kaul" board member page, accessed March 2026. https://www.jackcreekinvestmentcorp.com/board-member/director-2
+[^29]: Crunchbase, "Raxium Venture Round" (January 1, 2020; Khosla Ventures participated), accessed April 2026. https://www.crunchbase.com/funding_round/raxium-series-unknown--fc8c1c27
+[^30]: Wikipedia, "Granular Inc." (Series A: $4.2M in 2014 from Andreessen Horowitz, Khosla Ventures, Google Ventures, following the Solum split), accessed April 2026. https://en.wikipedia.org/wiki/Granular_Inc.
+[^31]: PR Web, "Iora Health Raises $28 Million Series C Financing" (January 26, 2015; Khosla Ventures one of four new investors), accessed April 2026. http://www.prweb.com/releases/iorahealth/seriesc/prweb12469315.htm
+[^32]: Sustainable Business, "LS9, Inc. Raises $15M" (October 2007; cites Khosla Ventures as existing investor from 2006 Series A led by Flagship Ventures and Khosla), accessed April 2026. https://www.sustainablebusiness.com/2007/10/ls9-inc-raises-15m-41150/
