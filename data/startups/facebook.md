@@ -172,16 +172,16 @@ Facebook went public on May 18, 2012, in what was then the largest technology IP
 | Seed | Jun 2004 | $500K | Peter Thiel | Ron Conway, Reid Hoffman, Mark Pincus, Maurice Werdegar | $4.9M |
 | Series A | May 2005 | $12.7M | Accel Partners | Peter Thiel | $87.5M |
 | Series B | Apr 2006 | $27.5M | Greylock Partners | Meritech Capital, Accel Partners, Peter Thiel | $500M |
-| Series C | Oct 2007 | $240M | Microsoft | — | $15B |
-| Angel/Secondary | Nov 2007 | $60M | Li Ka-Shing | — | — |
+| Series C | 2007-10-24 | $240M | Microsoft | — | $15B [^15][^16] |
+| Angel/Secondary | 2007-11-30 | $60M | Li Ka-Shing | — | ~$15B [^17][^18] |
 | Angel/Secondary | Jan 2008 | $15M | European Founders Fund | — | — |
-| Series D | May 2009 | $200M | DST Global (Yuri Milner) | — | $10B |
-| Secondary | Nov 2009 | $90M | Elevation Partners | — | — |
+| Series D | 2009-05-26 | $200M | DST Global | Yuri Milner | $10B [^19][^20] |
+| Secondary | 2009-11 | $90M | Elevation Partners | — | ~$9B [^21] |
 | Secondary | Jun 2010 | $120M | Elevation Partners | — | — |
 | Series F | Jan 2011 | $500M | Goldman Sachs | DST Global | $50B |
-| IPO | May 2012 | $16B | Public markets | — | $104B |
+| IPO | 2012-05-18 | $16B | Public markets | — | $104B [^22][^23] |
 
-Sources: [^2][^5][^6][^8][^9][^10]
+Sources: [^2][^5][^6][^8][^9][^10][^15][^16][^17][^18][^19][^20][^21][^22][^23]
 
 ## What Investors Say
 
@@ -215,3 +215,12 @@ Sources: [^2][^5][^6][^8][^9][^10]
 [^12]: LinkedIn, "Angel Investor & Visionary: Celebrating Peter Thiel's Legendary 2000x Return on Facebook," accessed March 2026. https://www.linkedin.com/pulse/angel-investor-visionary-celebrating-peter-thiels-2000x-bobby-edelman-vremc
 [^13]: TechCrunch, "Facebook's S-1 Letter From Zuckerberg Urges Understanding Before Investment," February 1, 2012. https://techcrunch.com/2012/02/01/facebook-ipo-letter/
 [^14]: CNBC, "How Mark Zuckerberg came up with the idea for Facebook," January 17, 2018. https://www.cnbc.com/2018/01/17/why-mark-zuckerberg-started-facebook.html
+[^15]: Microsoft News Center, "Facebook and Microsoft Expand Strategic Alliance," October 24, 2007. https://news.microsoft.com/source/2007/10/24/facebook-and-microsoft-expand-strategic-alliance/
+[^16]: TechCrunch, "Facebook Takes the Microsoft Money And Runs," October 24, 2007. https://techcrunch.com/2007/10/24/facebook-takes-the-microsoft-money-and-runs/
+[^17]: AllThingsD (Kara Swisher), "Facebook Nabs $60 Million Investment from Li Ka-shing," November 30, 2007. https://allthingsd.com/20071130/facebook-nabs-60-million-investment-from-li-ka-shing/
+[^18]: VentureBeat, "Facebook gets $60M from Hong Kong billionaire Li Ka-shing," November 30, 2007. https://venturebeat.com/2007/11/30/facebook-gets-60m-from-hong-kong-billionaire-li-ka-shing
+[^19]: Facebook Newsroom, "Facebook Receives Investment from Digital Sky Technologies," May 26, 2009. https://about.fb.com/news/2009/05/facebook-receives-investment-from-digital-sky-technologies/
+[^20]: Wikipedia, "Yuri Milner," accessed April 2026 — documents the May 26, 2009 DST-Facebook agreement at a $10B valuation. https://en.wikipedia.org/wiki/Yuri_Milner
+[^21]: TechCrunch, "Source: Elevation Partners Got About 1% Of Facebook For $90 Million," April 5, 2010 — reports the November 2009 secondary purchase of 2.5M shares at $20/share, implying ~$9B valuation. https://techcrunch.com/2010/04/05/source-elevation-partners-got-about-1-of-facebook-for-90-million/
+[^22]: Wikipedia, "Initial public offering of Facebook," accessed April 2026 — documents May 18, 2012 IPO at $38/share, $16B raised, ~$104B peak market cap. https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook
+[^23]: CNN Money, "Facebook's IPO: Trading opens at $42 per share," May 18, 2012. https://money.cnn.com/2012/05/18/technology/facebook-ipo-trading/index.htm

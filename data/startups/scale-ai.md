@@ -153,16 +153,18 @@ Scale AI is an AI data infrastructure company that provides data labeling, evalu
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | 2016 | — | Y Combinator | — | — |
-| Series A | May 2017 | $4.5M | Accel | Y Combinator, Greg Brockman, Nat Friedman, Guillermo Rauch, Ilya Sukhar | — |
-| Series B | Aug 2018 | $18M | Index Ventures | Accel, Y Combinator, Drew Houston, Justin Kan | — |
-| Series C | Aug 2019 | $100M | Founders Fund | Accel, Coatue, Index Ventures, Spark Capital, Thrive Capital, Kevin Systrom, Mike Krieger, Adam d'Angelo | $1B+ |
-| Series D | Dec 2020 | $155M | Tiger Global | — | $3.5B |
-| Series E | Apr 2021 | $325M | Dragoneer, Greenoaks, Tiger Global | Wellington Management | $7.3B |
-| Series F | May 2024 | $1B | Accel | Y Combinator, Nat Friedman, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global, Greenoaks, Wellington, Nvidia, Meta, Amazon, Cisco, DFJ Growth, Intel Capital, ServiceNow Ventures, AMD Ventures, Elad Gil | $13.8B |
-| Series G | Jun 2025 | $14.3B | Meta | — | $29B |
+| Seed | 2016-06 | ~$120K | Y Combinator | — | — |
+| Series A | 2017-07-16 | $4.5M | Accel | Y Combinator, Greg Brockman, Nat Friedman, Guillermo Rauch, Ilya Sukhar | — |
+| Series B | 2018-08-07 | $18M | Index Ventures | Accel, Y Combinator, Drew Houston, Justin Kan | — |
+| Series C | 2019-08-05 | $100M | Founders Fund | Accel, Coatue, Index Ventures, Spark Capital, Thrive Capital, Kevin Systrom, Mike Krieger, Adam d'Angelo | $1B+ |
+| Series D | 2020-12-01 | $155M | Tiger Global | — | $3.5B |
+| Series E | 2021-04-13 | $325M | Dragoneer, Greenoaks, Tiger Global | Wellington Management | $7.3B |
+| Series F | 2024-05-21 | $1B | Accel | Y Combinator, Nat Friedman, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global, Greenoaks, Wellington, Nvidia, Meta, Amazon, Cisco, DFJ Growth, Intel Capital, ServiceNow Ventures, AMD Ventures, Elad Gil | $13.8B |
+| Series G | 2025-06-12 | $14.3B | Meta | — | $29B |
 
-Sources: [^2][^3][^4][^5][^6][^7][^8][^9]
+Seed round is the standard Y Combinator Summer 2016 investment (~$120K); Scale was part of YC's S16 batch [^2][^10]. The Series A was announced by Scale on July 16, 2017, though the round itself closed earlier in May 2017 [^5][^6]. The Meta deal announced June 12, 2025 is a strategic investment for a 49% non-voting stake at a ~$29B valuation; proceeds are being used to distribute liquidity to existing shareholders and to fuel growth, with founder Alexandr Wang departing to lead Meta's AI efforts and remaining a Scale board director while Jason Droege serves as CEO [^3][^11][^12].
+
+Sources: [^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12]
 
 ## What Investors Say
 
@@ -183,3 +185,6 @@ No independently sourced founder testimonials found.
 [^7]: TechCrunch, "Scale AI and its 22-year-old CEO lock down $100 million to label Silicon Valley's data," August 2019. https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/
 [^8]: BusinessWire, "Scale AI Raises $1 Billion Series F to Push The Frontier of AI Data," May 2024. https://www.businesswire.com/news/home/20240521674964/en/Scale-AI-Raises-$1-Billion-Series-F-to-Push-The-Frontier-of-AI-Data
 [^9]: Crunchbase News, "Scale AI Raises $1B In Accel-Led Round; Hits $13.8B Valuation," May 2024. https://news.crunchbase.com/ai/scale-holistic-raise-big-accel-nvda-amzn/
+[^10]: Y Combinator, "Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China," accessed April 2026. https://www.ycombinator.com/library/MV-alexandr-wang-building-scale-ai-transforming-work-with-agents-competing-with-china
+[^11]: Scale AI Blog, "Founder, Alexandr Wang, Joins Meta to Work on AI Efforts," June 12, 2025. https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution
+[^12]: TechCrunch, "Scale AI confirms 'significant' investment from Meta, says CEO Alexandr Wang is leaving," June 13, 2025. https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/
