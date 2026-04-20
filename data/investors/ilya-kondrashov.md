@@ -58,7 +58,7 @@ Based on 18 verified portfolio investments, the following patterns emerge:
 
 **Sector distribution:** Fintech dominates the portfolio. Of 18 verified investments: 7 fintech (Aspora, Sipay, Midas, NG.Cash, Mesh, Ben, Monta — 39%), 4 AI/ML infrastructure (Rad AI, MarqVision, Robin AI, Lovable — 22%), 2 healthtech (DeepScribe, Function Health — 11%), 2 Web3/crypto (Blockaid, Mesh — 11%), 1 energy (Fuse Energy — 6%), 1 B2B SaaS (HockeyStack — 6%), 1 legaltech (Robin AI — counted in AI above). Note: Mesh spans fintech and Web3. The heavy fintech weighting is consistent with the Revolut connection, though the stated thesis lists AI, Web3, Fintech, SaaS, and Healthtech without indicating a hierarchy.
 
-**Stage distribution:** The fund invests primarily at Series A and Series B. Of 18 verified investments with round data: 2 Series A (Robin AI, HockeyStack — 11%), 12 Series B (Aspora, Sipay, Midas, NG.Cash, Monta, Ben, Fuse Energy, Blockaid, Rad AI, Function Health, Lovable, MarqVision — 67%), and 4 with unverified round details (DeepScribe, Builder.io, Ghost, Vibe — 22%). This is a growth-stage fund, not an early-stage fund.
+**Stage distribution:** The fund invests primarily at Series A and Series B. Of 18 verified investments with round data: 2 Series A (Robin AI, HockeyStack — 11%), 13 Series B (Aspora, Sipay, Midas, NG.Cash, Monta, Ben, Fuse Energy, Blockaid, Rad AI, Function Health, Lovable, MarqVision, Ghost — 72%), and 3 with unverified round details (DeepScribe, Builder.io, Vibe — 17%). This is a growth-stage fund, not an early-stage fund.
 
 **Geographic distribution:** Of 18 verified investments: 6 based in the US (Rad AI, DeepScribe, Function Health, MarqVision, Builder.io, Mesh — 33%), 5 in the UK/Europe (Robin AI, Ben, Fuse Energy, Monta, HockeyStack — 28%), 2 in Turkey (Sipay, Midas — 11%), 1 in Brazil (NG.Cash — 6%), 1 in Sweden (Lovable — 6%), and 3 with unclear primary location. The fund is genuinely global, with meaningful exposure to emerging-market fintech (Turkey, Brazil).
 
@@ -90,10 +90,10 @@ Based on 18 verified portfolio investments, the following patterns emerge:
 | Ben | 2025 | Series B | [^20] |
 | Function Health | 2025 | Series B | [^21] |
 | Fuse Energy | 2025 | Series B | [^9] |
-| Blockaid | ~2024–2025 | Undisclosed | [^22] |
-| Builder.io | ~2024 | Undisclosed | [^23] |
-| DeepScribe | ~2024 | Undisclosed | [^23] |
-| Ghost | ~2023–2024 | Undisclosed | [^23] |
+| Blockaid | ~2024–2025 | Undisclosed round (aggregator-only; not in primary Series A or Series B investor lists) | [^22] |
+| Builder.io | 2024 | Series B (likely; participation not independently verified in primary sources) | [^22] [^23] |
+| DeepScribe | ~2023–2024 | Undisclosed round (aggregator-only; not listed in primary Series B announcement) | [^22] |
+| Ghost | 2023-08-21 | Series B | [^24] [^25] |
 
 This table represents 18 of approximately 28 total investments disclosed on the firm's website [^4]. The remaining ~10 investments could not be independently verified with specific round details.
 
@@ -145,4 +145,6 @@ No additional independently sourced founder testimonials found beyond the MarqVi
 [^20]: BusinessCloud, "Revolut founder among backers as Ben raises £21m Series B," December 2025, accessed March 2026. https://businesscloud.co.uk/news/revolut-founder-among-backers-as-ben-raises-21m-series-b/
 [^21]: TechCrunch, "Function Health closes $298M Series B at a $2.5B valuation, launches Medical Intelligence," November 2025, accessed March 2026. https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/
 [^22]: Tracxn, "QuantumLight Investor Profile," accessed March 2026. https://tracxn.com/d/private-equity/quantumlight/__YQk7VPRD5V9XKhMCCjQoPU07iImM8d72L20kFilTSxA
-[^23]: FemaleSwitch, "The 16+ Startups Backed by Nik Storonsky's QuantumLight," accessed March 2026. https://www.femaleswitch.com/startup-news/tpost/9avzm26ua1-the-16-startups-backed-by-nik-storonskys
+[^23]: Builder.io blog, "Builder.io closes $20 million in funding led by M12, Microsoft's Venture Fund," April 24, 2024, accessed April 2026. https://www.builder.io/blog/builder-closes-20-million-funding-m12-microsoft
+[^24]: Cathay Innovation Medium, "Behind the Term Sheet: How Ghost is Revolutionizing Inventory Management with Access to Excess," August 2023, accessed April 2026. https://medium.com/cathay-innovation/behind-the-term-sheet-how-ghost-is-revolutionizing-inventory-management-with-access-to-excess-125673cb93da
+[^25]: TechCrunch, "B2B inventory marketplace Ghost reappears with $30M Series B to expand outside US," August 21, 2023, accessed April 2026. https://techcrunch.com/2023/08/21/b2b-inventory-marketplace-ghost-30m/

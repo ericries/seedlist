@@ -1,22 +1,39 @@
 ---
-name: "Momei Qu"
-slug: momei-qu
-type: individual
+check_size: $1M-$25M
 firm: psp-partners
-role: "Managing Director, PSP Growth"
-location: "Chicago, Illinois"
-stage_focus: [series-a, series-b, series-c, growth]
-sector_focus: [b2b-software, proptech, construction-tech, data-analytics, cybersecurity, industrial-tech, ai, real-estate]
-check_size: "$1M-$25M"
-last_verified_investment:
-  date: 2025-12-02
-  company: "Zafran"
-  round: "Series C"
-social:
-  linkedin: "linkedin.com/in/momei-qu-aa301012"
-tldr: "Momei Qu is the Managing Director and Head of PSP Growth, the venture arm of Penny Pritzker's private investment firm PSP Partners. She invests $1-25M in Series B through pre-IPO B2B software companies, with a distinctive proptech/construction-tech specialization (33% of verified deals). PSP's real estate operations give her an insider edge in evaluating proptech startups. Notable investments include OpenSpace ($102M Series D lead) and Synthesia."
-status: published
 last_researched: 2026-04-02
+last_verified_investment:
+  company: Nominal
+  date: ~2026
+  round: Series B-2 Acceleration ($80M)
+location: Chicago, Illinois
+name: Momei Qu
+role: Managing Director, PSP Growth
+sector_focus:
+- b2b-software
+- proptech
+- construction-tech
+- data-analytics
+- cybersecurity
+- industrial-tech
+- ai
+- real-estate
+slug: momei-qu
+social:
+  linkedin: linkedin.com/in/momei-qu-aa301012
+stage_focus:
+- series-a
+- series-b
+- series-c
+- growth
+status: published
+tldr: Momei Qu is the Managing Director and Head of PSP Growth, the venture arm of
+  Penny Pritzker's private investment firm PSP Partners. She invests $1-25M in Series
+  B through pre-IPO B2B software companies, with a distinctive proptech/construction-tech
+  specialization (33% of verified deals). PSP's real estate operations give her an
+  insider edge in evaluating proptech startups. Notable investments include OpenSpace
+  ($102M Series D lead) and Synthesia.
+type: individual
 ---
 
 ## Background
@@ -69,15 +86,15 @@ Based on 13 verified investments where Qu's personal involvement can be confirme
 | WireWheel | 2018 | Series A ($10M) | [^18] |
 | WireWheel | 2021 | Series B ($20M) | [^4] |
 | Enable | 2022 | Series C ($94M) | [^13] |
-| Ocient | ~2018 | Undisclosed | [^3] |
+| Ocient | 2021-01-25 | Series B ($40M) | [^23] |
 | Ocient | 2025 | Series B extension ($132M) | [^19] |
 | Synthesia | 2025 | Series D ($180M) | [^14] |
 | Zafran | 2025 | Series C ($60M) | [^15] |
 | Higharc | 2024 | Series B ($53M) | [^16] |
-| Air Space Intelligence | ~2022 | Undisclosed | [^6] |
-| VTS | ~2020 | Undisclosed | [^6] |
+| Air Space Intelligence | ~2022 | Undisclosed round (listed as PSP holding; not named in primary press releases for 2021 Series A or 2023 Series B) | [^21][^24] |
+| VTS | ~2020 | Undisclosed round (listed as PSP holding; not named in primary press releases for 2019 Series D or 2022 Series E) | [^21][^25] |
 | Adept | 2023 | Undisclosed (Exited 2024) | [^20] |
-| Nominal | ~2023 | Undisclosed | [^21] |
+| Nominal | 2026-03-05 | Series B-2 Acceleration ($80M) | [^26] |
 
 This table represents 15 verified investments attributed to Momei Qu through PSP Growth. PSP Growth's broader portfolio includes additional investments (Finix, ID.me, Ellevest, Guidewheel, PassiveLogic, OfferFit, QA Wolf, Pronto Housing) where Qu's personal involvement is not independently confirmed but is likely given her role as head of the venture arm.
 
@@ -128,3 +145,7 @@ Note: This is a general statement about the investor group rather than a specifi
 [^20]: Crunchbase, "PSP Growth — Investments, Portfolio & Company Exits," accessed April 2026. https://www.crunchbase.com/organization/psp-growth-2/recent_investments
 [^21]: PSP Partners, "Our Holdings," accessed April 2026. https://www.psppartners.com/our-holdings/
 [^22]: Billion Dollar Moves Podcast, "Investing with Penny Pritzker & Building a Robust Venture & Growth Practice w/ Momei Qu, PSP Partners," accessed April 2026. https://www.billiondollarmoves.com/replay-momei-qu-psp-penny-pritzker-venture-growth-practice/
+[^23]: Ocient, "Ocient Announces $40 Million Series B to Help Organizations Manage Modern Data Demands," January 25, 2021, accessed April 2026. https://ocient.com/newsroom/press-releases/ocient-announces-40-million-series-b-to-help-organizations-manage-modern-data-demands/
+[^24]: GlobeNewswire, "Air Space Intelligence Secures $34M Series B Financing Led by a16z," December 7, 2023, accessed April 2026. https://www.globenewswire.com/news-release/2023/12/07/2792534/0/en/Air-Space-Intelligence-Secures-34M-Series-B-Financing-Led-by-a16z.html
+[^25]: Commercial Observer, "VTS Raises $125M in Funding Round Led by CBRE," September 2022, accessed April 2026. https://commercialobserver.com/2022/09/vts-fundraising-cbre/
+[^26]: GlobeNewswire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026, accessed April 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html
