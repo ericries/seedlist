@@ -153,13 +153,13 @@ D1's private portfolio is heavily concentrated. SpaceX alone accounts for roughl
 ~unknown| American Electric Power | AEP | $40M | 0.4% |
 ~unknown| Medline Industries | MDLN | $16M | 0.1% |
 
-### Historical Performance [^2][^8]
+### Historical Performance [^2][^8][^2]
 
-| Year | Public Portfolio | Private Portfolio | Notes |
-|------|-----------------|-------------------|-------|
-| 2019 | +36.8% | — | First full year |
-| 2020 | +60.7% | — | AUM grew to $20B |
-| 2021 | — | +70% (private) | Public hit by meme stock squeeze (-30% in Jan) |
+| Year | Overall/Public | Private Portfolio | Notes |
+|------|---------------|-------------------|-------|
+| 2019 | +36.8% (overall) | Not separately reported | First full year [^2] |
+| 2020 | +60.7% (overall) | +57.5% | AUM grew to $20B [^2][^2] |
+| 2021 | Flat (public, recovered post-Jan) | +70.6% | Public hit by GameStop squeeze (down ~31% in Jan, recovered by Oct) [^2][^2] |
 | 2022 | -34% (overall) | -15.7% | Restructured risk management in June |
 | 2023 | +19% | -10.2% | Comeback began |
 | 2024 | +44% | +3.7% (private); +39% (private incl. SpaceX) | Returned to high-water mark |

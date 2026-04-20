@@ -16881,3 +16881,15 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: kunal-bahl
+- name: Verified Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: atlas-card
+- name: Marathon Management Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: atlas-card

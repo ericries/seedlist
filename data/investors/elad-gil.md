@@ -3,9 +3,9 @@ check_size: $250K–$20M
 firm: gil-capital
 last_researched: 2026-03-24
 last_verified_investment:
-  company: RunSybil
-  date: 2026-03-18
-  round: Series A
+  company: Atlas Card
+  date: 2026-04-14
+  round: Series C
 location: San Francisco, CA
 name: Elad Gil
 role: Solo GP / Angel Investor
@@ -142,6 +142,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Braintrust | ~2024 | Early stage (incubated) | [^1][^2] |
 | Decagon | ~2024 | Early stage | [^14] |
 | RunSybil | 2026 | Series A | [^23] |
+| Atlas Card | 2026 | Series C (co-led) | [^30] |
 
 *Note: Many investment years are approximate, based on company founding dates or general reporting. Gil's blog states he has invested in over 200 companies with approximately 40 valued at $1B+ each [^1][^3]. This table represents approximately 20% of his reported total investments. Specific round details are unavailable for many early angel investments. Years marked with "~" indicate estimates based on company founding year or earliest known funding round.*
 
@@ -270,3 +271,4 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^27]: "Anduril raises $450M as the defense tech company's valuation soars to $4.6B," TechCrunch, June 17, 2021. https://techcrunch.com/2021/06/17/anduril-funding-series-d-valuation/
 [^28]: Milken Institute Global Conference 2024, "Elad Gil" speaker profile (lists advisor to Electric Capital and crypto companies), accessed March 2026. https://milkeninstitute.org/events/global-conference-2024/speakers/elad-gil
 [^29]: TechCrunch, "Elad Gil joins the stage at Disrupt 2025 in October," September 22, 2025. https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/
+[^30]: Atlas (LinkedIn), "We're proud to announce our $40M funding," April 14, 2026. https://www.linkedin.com/posts/atlascard_were-proud-to-announce-our-40m-funding-activity-7449786402650771456-8pdY

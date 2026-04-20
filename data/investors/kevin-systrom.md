@@ -48,7 +48,7 @@ On broader philosophy, Systrom has stated: "I think not focusing on money makes 
 
 Based on 13 publicly identified investments [^4] [^7], the following patterns emerge. *Note: With only ~13 verified investments out of a potentially larger portfolio, these patterns are directional rather than statistically robust.*
 
-**Sector breakdown (based on 13 verified investments):** Consumer/social products dominate the portfolio — Clubhouse, Geneva, Airtime, Loom, and Sandbox VR are all consumer-facing products (5 of 13, ~38%). Fintech/finance includes Monzo and Convoy (2 of 13, ~15%). Enterprise/AI includes Scale AI and Captions (2 of 13, ~15%). The remainder span various categories [^4] [^5] [^7] [^8].
+**Sector breakdown (based on 13 verified investments):** Consumer/social products dominate the portfolio — Clubhouse, Geneva, Airtime (the video-tools startup formerly known as mmhmm), Loom, and Sandbox VR are all consumer-facing products (5 of 13, ~38%). Fintech/finance includes Monzo and Convoy (2 of 13, ~15%). Enterprise/AI includes Scale AI and Captions (2 of 13, ~15%). The remainder span various categories [^4] [^5] [^7] [^8].
 
 **Stage distribution:** Systrom invests across stages from seed through Series D. His Monzo and Scale AI investments were at Series C [^8] [^9], while his Loom investment was at Series B [^10], and earlier investments like Clubhouse and Superhuman appear to have been at earlier stages [^5].
 
@@ -56,7 +56,7 @@ Based on 13 publicly identified investments [^4] [^7], the following patterns em
 
 **Personal usage filter:** Systrom has emphasized that he only invests in products he personally uses [^5]. This creates a strong consumer product bias and limits his investment scope to products accessible to a San Francisco-based tech executive.
 
-**Co-investor pattern:** Systrom frequently co-invests with Instagram co-founder Mike Krieger, who participated in both the Loom Series B and Scale AI Series C alongside Systrom [^9] [^10].
+**Co-investor pattern:** Systrom frequently co-invests with Instagram co-founder Mike Krieger, who participated in the Loom Series B, Scale AI Series C, Airtime (mmhmm) Series A, and Geneva alongside Systrom [^9] [^10] [^13] [^15].
 
 **Product obsession signal:** Systrom's investments in Superhuman and Sandbox VR specifically reflect his stated criterion of looking for products where users exhibit genuine love and repeated engagement [^5].
 
@@ -68,11 +68,11 @@ Based on 13 publicly identified investments [^4] [^7], the following patterns em
 | Monzo | 2017 | Series C | Fintech/Banking | [^8] |
 | Superhuman | ~2018 | Early stage | Consumer/Email | [^5] |
 | Clubhouse | ~2020 | Early stage | Consumer/Social Audio | [^5] |
-| Sandbox VR | ~2020 | Unknown | Consumer/VR | [^5] |
+| Sandbox VR | 2019 | Angel/Strategic | Consumer/VR | [^5] [^12] |
 | Loom | ~2020 | Series B | Enterprise/Video | [^10] |
 | Scale AI | 2019 | Series C | AI/Data Labeling | [^9] |
-| Airtime | ~2020 | Unknown | Consumer/Video Chat | [^4] |
-| Geneva | ~2021 | Unknown | Consumer/Communities | [^4] |
+| Airtime (mmhmm) | 2020-10-07 | Series A | Consumer/Video Tools | [^13] [^14] |
+| Geneva | 2020-08-03 | Seed | Consumer/Communities | [^15] [^16] |
 | Captions | 2022 | Series A | AI/Video Tools | [^4] |
 
 *This table represents approximately 10 of Systrom's estimated 13 investments. Some entry years are approximate based on round timing, marked with ~.*
@@ -108,3 +108,8 @@ No independently sourced founder testimonials found regarding Systrom's angel in
 [^9]: "Scale AI and its 22-year-old CEO lock down $100 million," TechCrunch, August 5, 2019. https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/
 [^10]: "Video Communication Startup Loom Raises $30M Series B," Crunchbase News, accessed March 2026. https://news.crunchbase.com/venture/video-communication-startup-loom-raises-30m-series-b/
 [^11]: "The Tim Ferriss Show Transcripts: Kevin Systrom (#369)," Tim Ferriss Blog, April 30, 2019. https://tim.blog/2019/04/30/the-tim-ferriss-show-transcripts-kevin-systrom-369/
+[^12]: "Sandbox VR raises millions more in celebrity party round," TechCrunch, October 22, 2019. https://techcrunch.com/2019/10/22/sandbox-vr-raises-millions-more-in-celebrity-party-round/
+[^13]: "We raised some money," Airtime (formerly mmhmm) company blog, October 7, 2020 — lists Kevin Systrom and Mike Krieger among the investors in the $31M Sequoia-led Series A. https://www.airtime.com/blog/we-raised-some-money
+[^14]: "mmhmm Raises $31M in Funding," FinSMEs, October 7, 2020. https://www.finsmes.com/2020/10/mmhmm-raises-31m-in-funding.html
+[^15]: "Bumble buys community building app Geneva to expand further into friendships," TechCrunch, May 20, 2024 — names Kevin Systrom and Mike Krieger among Geneva's notable backers. https://techcrunch.com/2024/05/20/bumble-buys-community-building-app-geneva-to-expand-further-into-friendships/
+[^16]: "Seed Round - Geneva - 2020-08-03," Crunchbase, accessed April 2026. https://www.crunchbase.com/funding_round/geneva-seed--e399fe0c

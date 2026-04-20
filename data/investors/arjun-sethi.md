@@ -98,7 +98,7 @@ Based on 38 verified investments compiled from Tribe Capital's portfolio page, C
 | SpaceX | Growth | ~2024 | Space | [^7] |
 | Docker | Series B (lead) | 2021 | Developer Tools | [^13] |
 | Docker | Series C | 2022 | Developer Tools | [^18] |
-~unknown| Applied Intuition | — | — | Autonomous Vehicles | [^7] |
+| Applied Intuition | Series F | 2025 | Autonomous Vehicles | [^23] |
 ~unknown| Instabase | — | — | Enterprise AI | [^7] |
 | Carta | Early stage | ~2017 | Fintech | [^4] |
 | Front | Early stage | ~2017 | Enterprise | [^4] |
@@ -116,8 +116,8 @@ Based on 38 verified investments compiled from Tribe Capital's portfolio page, C
 ~unknown| Commure/Athelas | — | — | Healthcare | [^7] |
 ~unknown| Binance.US | — | — | Crypto | [^7] |
 ~unknown| Airtable | — | — | SaaS | [^15] |
-| Digital Currency Group | — | ~2016 | Crypto | [^1] |
-| Intercom | — | ~2016 | SaaS | [^1] |
+| Digital Currency Group | Undisclosed (via Social Capital) | ~2016 | Crypto | [^1] |
+| Intercom | Series D | 2016 | SaaS | [^24] [^25] |
 ~unknown| Opendoor | Angel | — | Fintech | [^1] |
 ~unknown| Gusto | Angel | — | Fintech/HR | [^1] |
 ~unknown| Truecaller | Angel | — | Consumer | [^1] |
@@ -185,3 +185,6 @@ No independently sourced founder testimonials found. Docker CEO Scott Johnston d
 [^20]: Fintech Leaders, "Arjun Sethi, Tribe Capital Co-Founder – The State of Crypto and How We Got Here, Pursuing N-of-1 Fintechs, & How Tribe Uses Data to Deploy Capital," accessed March 2026. https://fintechleaders.substack.com/p/arjun-sethi-tribe-capital-co-founder
 [^21]: SpacHero, "Tribe Capital Growth Corp I - ATVC SPAC," accessed March 2026. https://www.spachero.com/SPAC/ATVC/
 [^22]: SALT Conference, "Arjun Sethi," accessed March 2026. https://www.salt.org/speakers/arjun-sethi
+[^23]: Applied Intuition, "Applied Intuition hits $15B valuation with $600M Series F fundraising and tender offer," June 17, 2025, accessed April 2026. Tribe Capital listed as existing investor participating in the Series F. https://www.appliedintuition.com/news/series-f
+[^24]: TechCrunch, "Customer communication startup Intercom raises $50M," April 7, 2016, accessed April 2026. Social Capital listed as participating investor in $50M round led by Index Ventures. https://techcrunch.com/2016/04/07/intercom-funding/
+[^25]: Tech.eu, "Intercom raises an additional $50 million to expand product and double workforce," April 7, 2016, accessed April 2026. https://tech.eu/2016/04/07/intercom-50-million/
