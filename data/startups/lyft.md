@@ -123,22 +123,22 @@ Lyft is headquartered in San Francisco, California [^1].
 
 ## Funding History
 
-| Round | Date | Amount | Lead Investor(s) | Notable Co-Investors |
-|-------|------|--------|-------------------|----------------------|
-| Seed | 2010 | $550K | — | Floodgate (Mike Maples), K9 Ventures |
-| Series A | Sep 2011 | $6M | Mayfield Fund | Floodgate, K9 Ventures |
-| Series B | Jan 2013 | $15M | Founders Fund | Mayfield Fund, K9 Ventures, Floodgate |
-| Series C | May 2013 | $60M | Andreessen Horowitz | — |
-| Series D | Apr 2014 | $250M | Coatue Management | Alibaba, Third Point, Andreessen Horowitz, Founders Fund, Mayfield |
-| Series E | Mar 2015 | $530M | Rakuten | Andreessen Horowitz, Founders Fund |
-| Series F | Jan 2016 | $500M+ | General Motors | — |
-| Series G | Apr 2017 | $600M | Undisclosed | Rakuten, KKR, Janus, Baillie Gifford, AllianceBernstein, PSP Investments |
-| Series H | Oct 2017 | $1B | CapitalG (Alphabet) | Rakuten |
-| Series I | Jun 2018 | $600M | Fidelity | — |
-| Corporate | Mar 2018 | $200M | Magna International | — |
-| IPO | Mar 2019 | $2.34B | — | Public offering on Nasdaq |
+| Round | Date | Amount | Valuation | Lead Investor(s) | Notable Co-Investors |
+|-------|------|--------|-----------|-------------------|----------------------|
+| Seed (as Zimride) | 2010-08-23 | $1.2M | — | Floodgate, K9 Ventures | Keith Rabois, Teddy Downey [^18] |
+| Series A | 2011-09-21 | $6M | — | Mayfield Fund | Floodgate, K9 Ventures |
+| Series B | 2013-01-30 | $15M | — | Founders Fund | Mayfield Fund, K9 Ventures, Floodgate |
+| Series C | 2013-05-23 | $60M | $275M | Andreessen Horowitz | — [^19] |
+| Series D | 2014-04-02 | $250M | — | Coatue Management | Alibaba, Third Point, Andreessen Horowitz, Founders Fund, Mayfield |
+| Series E | 2015-03-11 | $530M | $2.5B | Rakuten | Andreessen Horowitz, Founders Fund |
+| Series F | 2016-01-04 | $1B (GM: $500M) | $5.5B | General Motors | Kingdom Holding, Janus Capital, Didi, Rakuten, Alibaba [^20] |
+| Series G | 2017-04-11 | $600M | $7.5B | KKR | Rakuten, Janus, Baillie Gifford, AllianceBernstein, PSP Investments [^21] |
+| Series H | 2017-10-19 | $1B | $11B | CapitalG (Alphabet) | Rakuten |
+| Corporate | 2018-03-14 | $200M | — | Magna International | — [^22] |
+| Series I | 2018-06-27 | $600M | $15.1B | Fidelity | Senator Investment Group |
+| IPO | 2019-03-29 | $2.34B | $24B | — | Public offering on Nasdaq [^23] |
 
-Sources: [^4][^5][^6][^7][^8][^9][^10][^11][^12]
+Sources: [^4][^5][^6][^7][^8][^9][^10][^11][^12][^18][^19][^20][^21][^22][^23]
 
 ## What Investors Say
 
@@ -179,3 +179,9 @@ On believing in the vision despite investor skepticism, John Zimmer stated: "We 
 [^15]: "A letter from co-founder John Zimmer," Lyft Blog, accessed March 2026. https://www.lyft.com/blog/posts/a-letter-from-co-founder-john-zimmer
 [^16]: "Lyft's quiet CEO Logan Green opens up on his wild ride," CNN Money, March 2018, accessed March 2026. https://money.cnn.com/2018/03/05/technology/lyft-ceo-logan-green/index.html
 [^17]: "Nice Guys Do It Better - Interview with John Zimmer," Startups.com, accessed March 2026. https://www.startups.com/founder-interviews/john-zimmer
+[^18]: "Carpool Community Zimride Lands $1.2 Million In Seed Funding," TechCrunch, August 23, 2010, accessed April 2026. https://techcrunch.com/2010/08/23/zimride-funding/
+[^19]: "9 big things: In Lyft IPO, a16z makes a killing," PitchBook, March 2019, accessed April 2026. https://pitchbook.com/news/articles/9-big-things-in-lyft-ipo-a16z-makes-a-killing
+[^20]: "Lyft, Now Worth $5.5 Billion, Hops Into The Autonomous Car Race With General Motors," TechCrunch, January 4, 2016, accessed April 2026. https://techcrunch.com/2016/01/04/lyft-now-worth-5-5-billion-plans-to-get-into-the-autonomous-car-race-with-general-motors/
+[^21]: "KKR Invested In Lyft In Latest $600 Million Funding Round," Fortune, April 12, 2017, accessed April 2026. https://fortune.com/2017/04/12/lyft-investors-kkr-alliancebernstein-uber/
+[^22]: "Magna and Lyft Announce a Multi-Year Partnership to Develop and Manufacture Self-Driving Systems at Scale," Magna press release, March 14, 2018, accessed April 2026. https://www.magna.com/company/newsroom/releases-archive/release/2018/03/14/press-release---magna-and-lyft-announce-a-multi-year-partnership-to-develop-and-manufacture-self-driving-systems-at-scale
+[^23]: "Lyft pops 21% on its first day of trading on Nasdaq after raising $2.2B in its IPO at a $24B valuation," TechCrunch, March 29, 2019, accessed April 2026. https://techcrunch.com/2019/03/29/lyft-nasdaq/

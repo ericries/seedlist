@@ -103,16 +103,15 @@ Credit Karma is a personal finance platform founded in 2007 by Kenneth Lin, Ryan
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Angel | 2008 | $500K | Pathfinder | — | — |
-| Series A | 2009 | $2.5M | QED Investors | SV Angel, Felicis Ventures, Founders Fund | — |
-| Series B | Mar 2013 | $30M | Ribbit Capital, Susquehanna Growth Equity | Felicis Ventures | — |
-| Series C | Mar 2014 | $85M | CapitalG (Google Capital) | Tiger Global Management | — |
-| Series C Extension | Sep 2014 | $75M | CapitalG | Tiger Global, Susquehanna Growth Equity | $1B |
-| Series D | Jun 2015 | $175M | Tiger Global, Valinor Management, Viking Global | — | $3.5B (pre-money) |
-| Secondary | Mar 2018 | $500M | Silver Lake Partners | — | $4B |
-| Acquisition | Dec 2020 | $8.1B | Intuit (acquirer) | — | $8.1B |
-
-Sources: [^1][^2][^4][^5][^6][^7][^3]
+| Angel | 2008 | $500K | Pathfinder | — | — [^1] |
+| Series A | 2009-11-04 | $2.5M | QED Investors | SV Angel, Felicis Ventures, Founders Fund | — [^8] |
+| Series B | 2013-04-02 | $30M | Ribbit Capital, Susquehanna Growth Equity | Felicis Ventures | — [^2][^9] |
+| Series C | 2014-03-12 | $85M | CapitalG (Google Capital) | Tiger Global Management, Susquehanna Growth Equity, Ribbit Capital | Under $1B post-money [^4] |
+| Series C Extension | 2014-09-29 | $75M | CapitalG | Tiger Global, Susquehanna Growth Equity | — [^5] |
+| Series D | 2015-06-23 | $175M | Tiger Global, Valinor Management, Viking Global | — | $3.5B [^6][^10] |
+| Secondary | 2018-03-28 | $500M | Silver Lake Partners | — | — [^7] |
+| Acquisition (announced) | 2020-02-24 | $7.1B | Intuit (acquirer) | — | — [^11][^12] |
+| Acquisition (closed) | 2020-12-03 | $8.1B | Intuit (acquirer) | — | — [^3] |
 
 ## What Investors Say
 
@@ -130,4 +129,9 @@ No independently sourced founder testimonials found.
 [^4]: TechCrunch, "Credit Karma Confirms New $85M Financing Round Led By Google Capital," March 2014. https://techcrunch.com/2014/03/12/credit-karma-confirms-new-85m-financing-round-led-by-google-capital/
 [^5]: Credit Karma, "Credit Karma Announces $75MM in New Investments from Existing Investors Google Capital, Tiger Global Management and Susquehanna Growth Equity," September 2014. https://www.creditkarma.com/about/releases/credit-karma-announces-75mm-in-new-investments-from-existing-investors
 [^6]: Credit Karma, "Credit Karma Raises $175 Million Series D," June 2015. https://www.creditkarma.com/about/releases/credit-karma-raises-175-million-series-d-to-accelerate-plans-to-reengineer-personal-finance
-[^7]: Credit Karma, "Credit Karma and Silver Lake Announce $500 Million Strategic Secondary Investment," March 2018. https://www.creditkarma.com/about/releases/credit-karma-silver-lake-500-million-investment
+[^7]: Credit Karma, "Credit Karma and Silver Lake Announce $500 Million Strategic Secondary Investment," March 28, 2018. Accessed April 2026. https://www.creditkarma.com/about/releases/credit-karma-silver-lake-500-million-investment
+[^8]: TechCrunch, "Credit Karma Raises $2.5 Million To Take The Mystery Out Of Credit Scores," November 4, 2009. Accessed April 2026. https://techcrunch.com/2009/11/04/credit-karma-raises-2-5-million-to-take-the-mystery-out-of-credit-scores/
+[^9]: TechCrunch, "Credit Karma Raises $30 Million Series B, Becomes More Like Mint As It Expands Beyond Credit Monitoring," April 2, 2013. Accessed April 2026. https://techcrunch.com/2013/04/02/credit-karma-raises-30-million-series-b-becomes-more-like-mint-as-it-expands-beyond-credit-monitoring/
+[^10]: TechCrunch, "Credit Karma Has Raised $175M On A Valuation Of $3.5B, As It Looks To An IPO In The Next 1-2 Years," June 23, 2015. Accessed April 2026. https://techcrunch.com/2015/06/23/credit-karma-has-raised-175m-on-a-valuation-of-3-5b/
+[^11]: Intuit Investor Relations, "Intuit to Acquire Credit Karma," February 24, 2020. Accessed April 2026. https://investors.intuit.com/news-events/press-releases/detail/237/intuit-to-acquire-credit-karma
+[^12]: TechCrunch, "Intuit confirms that it is buying Credit Karma for $7.1B in cash and stock," February 24, 2020. Accessed April 2026. https://techcrunch.com/2020/02/24/intuit-credit-karma/

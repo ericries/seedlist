@@ -207,18 +207,19 @@ Airbnb went public on December 10, 2020, on the Nasdaq under the ticker ABNB [^4
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Y Combinator | Jan 2009 | $20K | Y Combinator | — | — |
-| Seed | Apr 2009 | $600K | Sequoia Capital (Greg McAdoo) | Youniversity Ventures, Jawed Karim, Keith Rabois, Kevin Hartz | — |
-| Series A | Nov 2010 | $7.2M | Greylock Partners, Sequoia Capital | SV Angel, Y Ventures, Keith Rabois, Elad Gil, Jeremy Stoppelman, Ashton Kutcher | — |
-| Series B | Jul 2011 | $112M | Andreessen Horowitz | DST Global, General Catalyst, Jeff Bezos, Ashton Kutcher, CrunchFund, Sequoia Capital | ~$1.3B |
-| Series C | Oct 2013 | $200M | Founders Fund | Sequoia Capital, Ashton Kutcher | — |
-| Series D | Apr 2014 | $475M | TPG Capital | Dragoneer, T. Rowe Price, 137 Ventures, Sherpa Capital | $10B |
-| Series E | Jun 2015 | $1.5B | General Atlantic | Hillhouse, Tiger Global, Kleiner Perkins, Sequoia Capital | $25.5B |
-| Series F | Sep 2016 | $555M | Google Capital, Technology Crossover Ventures | — | $30B |
-| Debt/Late Stage | Apr 2020 | $2B | Silver Lake, Sixth Street Partners | — | $18B |
-| IPO | Dec 2020 | $3.5B | Public markets | — | $47B (IPO); ~$100B (first-day close) |
+| Y Combinator (W09 batch) | 2009-01 | $20K | Y Combinator | — | — |
+| Seed | 2009-04 | $600K | Sequoia Capital | Y Ventures, Youniversity Ventures | ~$2.4M [^15] |
+| Series A | 2010-11-11 | $7.2M | Greylock Partners, Sequoia Capital | SV Angel, Y Ventures, Keith Rabois, Elad Gil, Jeremy Stoppelman, Ashton Kutcher | ~$70M [^15] |
+| Series B | 2011-07-25 | $112M | Andreessen Horowitz | DST Global, General Catalyst, Jeff Bezos, Ashton Kutcher, CrunchFund, Sequoia Capital | ~$1.3B [^15] |
+| Series C | 2013-10-28 | $200M | Founders Fund | Sequoia Capital, Ashton Kutcher | ~$2.5B [^16] |
+| Series D | 2014-04-18 | $475M | TPG Capital | Dragoneer, T. Rowe Price, 137 Ventures, Sherpa Capital | $10B |
+| Series E | 2015-06-28 | $1.5B | General Atlantic | Hillhouse, Tiger Global, Kleiner Perkins, Sequoia Capital | $25.5B |
+| Series F | 2016-09-22 | $555M | Google Capital, Technology Crossover Ventures | — | $30B [^17] |
+| Debt + Equity | 2020-04-06 | $1B | Silver Lake, Sixth Street Partners | — | $18B [^18] |
+| Debt (follow-on) | 2020-04-14 | $1B | — | — | — [^19] |
+| IPO | 2020-12-10 | $3.5B | Public markets (Nasdaq: ABNB) | — | $47B (IPO); ~$100B (first-day close) [^4][^5] |
 
-Sources: [^2][^3][^4][^5][^6][^7][^8][^9]
+Sources: [^2][^3][^4][^5][^6][^7][^8][^9][^15][^16][^17][^18][^19]
 
 ## What Investors Say
 
@@ -256,3 +257,8 @@ Sources: [^2][^3][^4][^5][^6][^7][^8][^9]
 [^12]: Sequoia Capital, "Airbnb: Building (and Rebuilding) User Trust to Revolutionize Travel," accessed March 2026. https://sequoiacap.com/podcast/crucible-moments-airbnb/
 [^13]: Startups.com, "An Unbelievable Journey - Interview with Brian Chesky," accessed March 2026. https://www.startups.com/founder-interviews/brian-chesky
 [^14]: Masters of Scale, "Do things that don't scale, with Brian Chesky," accessed March 2026. https://mastersofscale.com/brian-chesky/
+[^15]: Charlie Bilello, "Airbnb Valuation History," X/Twitter, December 10, 2020, accessed April 2026. https://x.com/charliebilello/status/1337107927870681089
+[^16]: TechCrunch, "Airbnb's Nate Blecharczyk Confirms It Raised A $200M Round Led By Founders Fund," October 28, 2013, accessed April 2026. Round arranged October 2012 at ~$2.5B valuation; publicly confirmed October 28, 2013. https://techcrunch.com/2013/10/28/airbnb-200m/
+[^17]: TechCrunch, "Airbnb files $555M round with the SEC led by Google Capital and TCV," September 22, 2016, accessed April 2026. https://techcrunch.com/2016/09/22/airbnb-files-555m-round-with-the-sec-led-by-google-capital-and-tcv/
+[^18]: Crunchbase News, "Silver Lake and Sixth Street Partners To Invest $1B in Airbnb," April 6, 2020, accessed April 2026. https://news.crunchbase.com/venture/silver-lake-and-sixth-street-partners-to-invest-1b-in-airbnb/
+[^19]: CNBC, "Airbnb raising another $1 billion in debt as coronavirus ravages tourism business," April 14, 2020, accessed April 2026. https://www.cnbc.com/2020/04/14/airbnb-raises-another-1-billion-in-debt.html
