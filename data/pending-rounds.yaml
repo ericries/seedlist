@@ -43,6 +43,49 @@ pending_rounds:
   notes: created startup profile screenpoint-medical.md; $14M follow-on from Insight
     Partners and Siemens Healthineers announced 2026-04-17, plus $2M non-dilutive
     research grants
+- title: Cybersecurity Funding Holds Up At Robust Levels
+  url: https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/
+  source: crunchbase
+  date_found: '2026-04-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: trend article, not a specific round
+- title: UK startup Rivan raises €28.7 million to scale domestic synthetic fuel production
+    in Europe
+  url: https://www.eu-startups.com/2026/04/uk-startup-rivan-raises-e28-7-million-to-scale-domestic-synthetic-fuel-production-in-europe/
+  source: eu-startups
+  date_found: '2026-04-20'
+  parsed_company: UK startup Rivan
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile rivan.md; €28.7M growth round on 2026-04-20 (investors
+    undisclosed in available sources); prior £10M round led by Plural with 20VC, NFDG,
+    and Collisons cited as context
+- title: Logicc secures €2.5 million amid continued momentum in Germany’s secure AI
+    market
+  url: https://www.eu-startups.com/2026/04/logicc-secures-e2-5-million-amid-continued-momentum-in-germanys-secure-ai-market/
+  source: eu-startups
+  date_found: '2026-04-20'
+  parsed_company: Logicc
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile logicc.md; €2.5M seed with 10X Founders, Redstone,
+    MS&AD participating
+- title: brainjo raises €2 million to develop VR-based solutions that complement traditional
+    therapy where it falls short
+  url: https://www.eu-startups.com/2026/04/brainjo-raises-e2-million-to-develop-vr-based-solutions-that-complement-traditional-therapy-where-it-falls-short/
+  source: eu-startups
+  date_found: '2026-04-20'
+  parsed_company: brainjo
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile brainjo.md; €2M seed led by HTGF with Andreas Weinhut
+    and better ventures
 - title: u003e raised $150M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -908,39 +951,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile rork.md
-- title: Vivatides Therapeutics raised $54M Series A
-  url: https://www.prnewswire.com/news-releases/vivatides-therapeutics-announces-oversubscribed-54-million-series-a-financing-to-accelerate-extrahepatic-rna-therapeutics-development-302738127.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Vivatides Therapeutics
-  parsed_amount: $54M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile vivatides-therapeutics.md
-- title: Flora Fertility raised $5M Seed
-  url: https://www.prnewswire.com/news-releases/flora-fertility-closes-5m-usd-seed-round-to-accelerate-first-of-its-kind-fertility-insurance-platform-302738805.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Flora Fertility
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile flora-fertility.md
-- title: Sora Fuel raised $14.6M Seed
-  url: https://www.prnewswire.com/news-releases/sora-fuel-closes-14-6m-round-to-scale-air-to-jet-fuel-technology-302736598.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Sora Fuel
-  parsed_amount: $14.6M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile sora-fuel.md
-- title: Oricell Therapeutics raised $110M Pre-IPO
-  url: https://www.prnewswire.com/news-releases/oricell-therapeutics-closes-110-million-pre-ipo-financing-to-accelerate-global-development-of-solid-tumor-car-t-therapies-302738393.html
-  source: prnewswire
-  date_found: '2026-04-13'
-  parsed_company: Oricell Therapeutics
-  parsed_amount: $110M
-  parsed_round: Pre-IPO
-  status: skipped
-  skip_reason: China-based pre-IPO financing, not early-stage startup round
