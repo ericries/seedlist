@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: first-round-capital
+  type: firm
+  reason: appeared in Artemis Seed round 2026-04-15
+  added: '2026-04-20'
+- slug: long-journey-ventures
+  type: firm
+  reason: appeared in Artemis Series A round 2026-04-15
+  added: '2026-04-20'
