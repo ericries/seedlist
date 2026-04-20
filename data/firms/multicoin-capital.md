@@ -99,29 +99,29 @@ Based on 152 total investments tracked by CryptoRank [^17], the following repres
 |---------|-------|------|--------|--------|
 | Solana | Seed | 2018 | Layer 1 | [^21] |
 | Solana | Series A ($20M, led) | Jul 2019 | Layer 1 | [^20] |
-| StarkWare | Series A ($30M) | Oct 2018 | ZK Infrastructure | [^25] [^31] |
-| Arweave | Token round ($5M, co-led) | Nov 2019 | Storage | [^32] |
-| Helium | Series C ($15M, co-led) | Jun 2019 | DePIN / Wireless | [^33] |
-| NEAR Protocol | Funding ($12.1M) | Jul 2019 | Layer 1 | [^34] |
-| The Graph | Seed ($2.5M, led) | Jan 2019 | Blockchain Services | [^35] |
-| Audius | Strategic ($3.1M, led) | Jul 2020 | Music / Social | [^27] [^36] |
-| Aptos | Strategic ($200M round) | Mar 2022 | Layer 1 | [^28] [^37] |
+| StarkWare | Series A ($30M) | Oct 2018 | ZK Infrastructure | [^25] [^30] |
+| Arweave | Token round ($5M, co-led) | Nov 2019 | Storage | [^31] |
+| Helium | Series C ($15M, co-led) | Jun 2019 | DePIN / Wireless | [^32] |
+| NEAR Protocol | Funding ($12.1M) | Jul 2019 | Layer 1 | [^33] |
+| The Graph | Seed ($2.5M, led) | Jan 2019 | Blockchain Services | [^34] |
+| Audius | Strategic ($3.1M, led) | Jul 2020 | Music / Social | [^26] [^35] |
+| Aptos | Strategic ($200M round) | Mar 2022 | Layer 1 | [^27] [^36] |
 | Hivemapper | Series A ($18M, led) | Apr 2022 | DePIN / Mapping | [^23] |
-| Render Network | Strategic ($30M round) | Dec 2021 | DePIN / GPU Computing | [^24] [^38] |
-| Drift Protocol | Series B ($25M, led) | Sep 2024 | DeFi | [^39] |
-| Kalshi | Series C ($185M) | Jun 2025 | Prediction Markets | [^40] |
-| Forward Industries | PIPE ($1.65B, co-led) | Sep 2025 | Solana Treasury | [^41] |
-| DoubleZero (2Z) | Token Sale ($28M, co-led) | Mar 2025 | Infrastructure | [^42] |
-| Across Protocol | Token Sale ($41M) | Mar 2025 | Interoperability | [^43] |
-| Geodnet | Strategic ($8M, led) | Feb 2025 | DePIN | [^44] |
-| Gradient Network | Seed ($10M, co-led) | Jun 2025 | DePIN / AI | [^45] |
-| P2P.me | Seed ($2M) | Apr 2025 | Payments | [^46] |
-| LI.FI | Extended Series A ($29M, co-led) | Dec 2025 | Interoperability | [^47] |
-| Inference | Seed ($11.8M, co-led) | Oct 2025 | AI / Crypto | [^48] |
-| Novig | Series B ($75M) | Feb 2026 | Prediction Markets | [^49] |
-| Pipe Network | Series A ($10M, led) | Sep 2024 | Infrastructure | [^50] |
-| zkMe | Seed ($4M, led) | Aug 2024 | Privacy / Identity | [^51] |
-| Mevvy | Seed ($2.8M, led) | Jan 2025 | MEV Infrastructure | [^52] |
+| Render Network | Strategic ($30M round) | Dec 2021 | DePIN / GPU Computing | [^24] [^37] |
+| Drift Protocol | Series B ($25M, led) | Sep 2024 | DeFi | [^38] |
+| Kalshi | Series C ($185M) | Jun 2025 | Prediction Markets | [^39] |
+| Forward Industries | PIPE ($1.65B, co-led) | Sep 2025 | Solana Treasury | [^40] |
+| DoubleZero (2Z) | Token Sale ($28M, co-led) | Mar 2025 | Infrastructure | [^41] |
+| Across Protocol | Token Sale ($41M) | Mar 2025 | Interoperability | [^42] |
+| Geodnet | Strategic ($8M, led) | Feb 2025 | DePIN | [^43] |
+| Gradient Network | Seed ($10M, co-led) | Jun 2025 | DePIN / AI | [^44] |
+| P2P.me | Seed ($2M) | Apr 2025 | Payments | [^45] |
+| LI.FI | Extended Series A ($29M, co-led) | Dec 2025 | Interoperability | [^46] |
+| Inference | Seed ($11.8M, co-led) | Oct 2025 | AI / Crypto | [^47] |
+| Novig | Series B ($75M) | Feb 2026 | Prediction Markets | [^48] |
+| Pipe Network | Series A ($10M, led) | Sep 2024 | Infrastructure | [^49] |
+| zkMe | Seed ($4M, led) | Aug 2024 | Privacy / Identity | [^50] |
+| Mevvy | Seed ($2.8M, led) | Jan 2025 | MEV Infrastructure | [^51] |
 
 Notable exits include Tagomi (acquired) and Solscan (acquired) [^3]. The portfolio has produced 11 unicorns including Aptos, StarkWare, and Helium [^19].
 
@@ -145,9 +145,9 @@ Notable exits include Tagomi (acquired) and Solscan (acquired) [^3]. The portfol
 
 ## What Founders Say
 
-Anatoly Yakovenko, co-founder and CEO of Solana Labs, acknowledged Multicoin as one of the few investors who remained committed through multiple fundraising rounds during the crypto winter: "Except for the few amazing folks, like Foundation, like Slow Ventures, like Multicoin, that actually backed us and stuck with us through every raise." — Acquired podcast, 2024 [^29]
+Anatoly Yakovenko, co-founder and CEO of Solana Labs, acknowledged Multicoin as one of the few investors who remained committed through multiple fundraising rounds during the crypto winter: "Except for the few amazing folks, like Foundation, like Slow Ventures, like Multicoin, that actually backed us and stuck with us through every raise." — Acquired podcast, 2024 [^28]
 
-No additional independently sourced founder testimonials found beyond the Solana founder's statement. The firm hosts an annual Multicoin Summit featuring portfolio founders [^30], but independently verifiable founder quotes about their experience with Multicoin as an investor were not located.
+No additional independently sourced founder testimonials found beyond the Solana founder's statement. The firm hosts an annual Multicoin Summit featuring portfolio founders [^29], but independently verifiable founder quotes about their experience with Multicoin as an investor were not located.
 
 ## Sources
 
@@ -176,30 +176,29 @@ No additional independently sourced founder testimonials found beyond the Solana
 [^23]: BusinessWire, "Hivemapper Raises $18M From Multicoin Capital to Create the World's First Decentralized Mapping Network," April 5, 2022. https://www.businesswire.com/news/home/20220405005894/en/Hivemapper-Raises-18M-From-Multicoin-Capital-to-Create-the-Worlds-First-Decentralized-Mapping-Network
 [^24]: Render Network blog, "The Next Phase of The Render Network: Building The Open Metaverse with Multicoin Capital," accessed March 2026. https://medium.com/render-token/the-next-phase-of-the-render-network-building-the-open-metaverse-with-multicoin-capital-f34368458ee9
 [^25]: Multicoin Capital, "Our Investment in Starkware," October 30, 2018. https://multicoin.capital/2018/10/30/our-investment-in-starkware/
-[^26]: AiCoin, "Multicoin Capital's investment portfolio includes AICoin. What other projects are worth paying attention to?" accessed March 2026. https://www.aicoin.com/en/article/383240
-[^27]: CoinDesk, "Audius Rallies EDM Artists, Crypto VCs to Back Vision for Music Payments on Ethereum," July 30, 2020. https://www.coindesk.com/business/2020/07/30/audius-rallies-edm-artists-crypto-vcs-to-back-vision-for-music-payments-on-ethereum
-[^28]: Multicoin Capital, "Move Move Move," March 15, 2022. https://multicoin.capital/2022/03/15/move-move-move/
-[^29]: Acquired podcast, "Special: Solana (with CEO Anatoly Yakovenko): The Complete History and Strategy," 2024. https://www.acquired.fm/episodes/solana-with-ceo-anatoly-yakovenko
-[^30]: Multicoin Capital, "Conversations From The 2021 Multicoin Summit," December 17, 2021. https://multicoin.capital/2021/12/17/conversations-from-the-2021-multicoin-summit/
-[^31]: CoinDesk, "Paradigm Leads $30 Million Funding for Crypto Privacy Startup StarkWare," October 29, 2018. https://www.coindesk.com/markets/2018/10/29/paradigm-leads-30-million-funding-for-crypto-privacy-startup-starkware
-[^32]: BusinessWire, "Arweave Secures $5m Led by a16z Crypto to Combat Link Rot and Unlock the Promise of Permanent Data Storage for the First Time," November 5, 2019. https://www.businesswire.com/news/home/20191105006233/en/Arweave-Secures-5m-Led-by-a16z-Crypto-to-Combat-Link-Rot-and-Unlock-the-Promise-of-Permanent-Data-Storage-for-the-First-Time
-[^33]: Multicoin Capital, "Announcing our investment in Helium," June 12, 2019. https://multicoin.capital/2019/06/12/helium-series-c/
-[^34]: BusinessWire, "NEAR Protocol Developers Raise $12.1M Round led by Metastable and Accomplice," July 10, 2019. https://www.businesswire.com/news/home/20190710005723/en/Protocol-Developers-Raise-12.1M-led-Metastable-Accomplice
-[^35]: CoinDesk, "Multicoin Capital Leads $2.5 Million Seed Round for Blockchain Data Index," January 28, 2019. https://www.coindesk.com/markets/2019/01/28/multicoin-capital-leads-25-million-seed-round-for-blockchain-data-index/
-[^36]: Multicoin Capital, "Open Audio," July 30, 2020. https://multicoin.capital/2020/07/30/open-audio/
-[^37]: TechCrunch, "Ex-Meta employees raise $200M from a16z, Tiger, Multicoin to realize Facebook's crypto dreams," March 15, 2022. https://techcrunch.com/2022/03/15/aptos-labs-a16z-multicoin-facebook-diem-blockchain/
-[^38]: CoinDesk, "Decentralized Rendering Engine Raises $30M as Metaverse Graphics Go Big," December 21, 2021. https://www.coindesk.com/business/2021/12/21/decentralized-rendering-engine-raises-30m-in-rndr-token-sale-as-metaverse-graphics-go-big
-[^39]: CoinDesk, "Solana-Based Drift Raises $25M to Build 'SuperApp' for DeFi Trading," September 19, 2024. https://www.coindesk.com/business/2024/09/19/solana-based-drift-raises-25m-toward-goal-of-becoming-robinhood-of-crypto-report
-[^40]: The Block, "Kalshi raising $185 million at $2 billion valuation in a Series C round led by Paradigm," June 2025. https://www.theblock.co/post/359661/kalshi-raising-100-million-at-1-billion-valuation-with-backing-from-paradigm-report
-[^41]: CoinDesk, "Forward (FORD) Closes $1.65B PIPE Deal Led by Galaxy, Jump Crypto, Multicoin," September 11, 2025. https://www.coindesk.com/business/2025/09/11/forward-industries-closes-usd1-65b-deal-to-build-solana-treasury-shares-jump-15-pre-market
-[^42]: CryptoRank, "DoubleZero ICO Funding Rounds," accessed April 2026. https://cryptorank.io/ico/doublezero
-[^43]: The Block, "Paradigm leads $41 million token round for Across Protocol aiming to unify Ethereum," March 2025. https://www.theblock.co/post/344470/paradigm-leads-token-round-across-protocol-ethereum
-[^44]: CoinDesk, "Multicoin Leads $8M Investment in GPS Alternative Geodnet," February 25, 2025. https://www.coindesk.com/business/2025/02/25/multicoin-leads-usd8m-investment-in-gps-alternative-geodnet
-[^45]: Cryptopolitan, "Gradient Network raises $10M to power decentralized AI infrastructure," June 2025. https://www.cryptopolitan.com/gradient-network-10m-ai-infrastructure/
-[^46]: CoinDesk, "Crypto-to-Fiat App P2P.me Raises $2M from Multicoin and Coinbase Ventures," April 4, 2025. https://www.coindesk.com/tech/2025/04/04/crypto-to-fiat-app-p2p-me-raises-usd2m-from-multicoin-and-coinbase-ventures
-[^47]: PR Newswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
-[^48]: Inference.net blog, "Announcing our $11.8M Series Seed," October 2025. https://inference.net/blog/seed-round
-[^49]: PR Newswire, "Novig Raises $75M Series B to Build a Trader-First Sports Prediction Market," February 18, 2026. https://www.prnewswire.com/news-releases/novig-raises-75m-series-b-to-build-a-trader-first-sports-prediction-market-302691216.html
-[^50]: CoinDesk, "Multicoin Led $10M Raise for Crypto-Incentivized Internet Infrastructure Network Pipe," September 16, 2024. https://www.coindesk.com/business/2024/09/16/multicoin-led-10m-raise-for-crypto-incentivized-internet-infrastructure-network-pipe
-[^51]: GlobeNewsWire, "zkMe Secures $4M From Multicoin Capital To Build FATF- and MiCA-Compliant Identity Solution For Web3 Applications," August 20, 2024. https://www.globenewswire.com/news-release/2024/08/20/2932949/0/en/zkMe-Secures-4M-From-Multicoin-Capital-To-Build-FATF-and-MiCA-Compliant-Identity-Solution-For-Web3-Applications.html
-[^52]: The Block, "Execution platform Mevvy raises $2.8 million in seed round led by Multicoin Capital," January 2025. https://www.theblock.co/post/337739/execution-platform-mevvy-raises-2-8-million-in-seed-round-led-by-multicoin-capital
+[^26]: CoinDesk, "Audius Rallies EDM Artists, Crypto VCs to Back Vision for Music Payments on Ethereum," July 30, 2020. https://www.coindesk.com/business/2020/07/30/audius-rallies-edm-artists-crypto-vcs-to-back-vision-for-music-payments-on-ethereum
+[^27]: Multicoin Capital, "Move Move Move," March 15, 2022. https://multicoin.capital/2022/03/15/move-move-move/
+[^28]: Acquired podcast, "Special: Solana (with CEO Anatoly Yakovenko): The Complete History and Strategy," 2024. https://www.acquired.fm/episodes/solana-with-ceo-anatoly-yakovenko
+[^29]: Multicoin Capital, "Conversations From The 2021 Multicoin Summit," December 17, 2021. https://multicoin.capital/2021/12/17/conversations-from-the-2021-multicoin-summit/
+[^30]: CoinDesk, "Paradigm Leads $30 Million Funding for Crypto Privacy Startup StarkWare," October 29, 2018. https://www.coindesk.com/markets/2018/10/29/paradigm-leads-30-million-funding-for-crypto-privacy-startup-starkware
+[^31]: BusinessWire, "Arweave Secures $5m Led by a16z Crypto to Combat Link Rot and Unlock the Promise of Permanent Data Storage for the First Time," November 5, 2019. https://www.businesswire.com/news/home/20191105006233/en/Arweave-Secures-5m-Led-by-a16z-Crypto-to-Combat-Link-Rot-and-Unlock-the-Promise-of-Permanent-Data-Storage-for-the-First-Time
+[^32]: Multicoin Capital, "Announcing our investment in Helium," June 12, 2019. https://multicoin.capital/2019/06/12/helium-series-c/
+[^33]: BusinessWire, "NEAR Protocol Developers Raise $12.1M Round led by Metastable and Accomplice," July 10, 2019. https://www.businesswire.com/news/home/20190710005723/en/Protocol-Developers-Raise-12.1M-led-Metastable-Accomplice
+[^34]: CoinDesk, "Multicoin Capital Leads $2.5 Million Seed Round for Blockchain Data Index," January 28, 2019. https://www.coindesk.com/markets/2019/01/28/multicoin-capital-leads-25-million-seed-round-for-blockchain-data-index/
+[^35]: Multicoin Capital, "Open Audio," July 30, 2020. https://multicoin.capital/2020/07/30/open-audio/
+[^36]: TechCrunch, "Ex-Meta employees raise $200M from a16z, Tiger, Multicoin to realize Facebook's crypto dreams," March 15, 2022. https://techcrunch.com/2022/03/15/aptos-labs-a16z-multicoin-facebook-diem-blockchain/
+[^37]: CoinDesk, "Decentralized Rendering Engine Raises $30M as Metaverse Graphics Go Big," December 21, 2021. https://www.coindesk.com/business/2021/12/21/decentralized-rendering-engine-raises-30m-in-rndr-token-sale-as-metaverse-graphics-go-big
+[^38]: CoinDesk, "Solana-Based Drift Raises $25M to Build 'SuperApp' for DeFi Trading," September 19, 2024. https://www.coindesk.com/business/2024/09/19/solana-based-drift-raises-25m-toward-goal-of-becoming-robinhood-of-crypto-report
+[^39]: The Block, "Kalshi raising $185 million at $2 billion valuation in a Series C round led by Paradigm," June 2025. https://www.theblock.co/post/359661/kalshi-raising-100-million-at-1-billion-valuation-with-backing-from-paradigm-report
+[^40]: CoinDesk, "Forward (FORD) Closes $1.65B PIPE Deal Led by Galaxy, Jump Crypto, Multicoin," September 11, 2025. https://www.coindesk.com/business/2025/09/11/forward-industries-closes-usd1-65b-deal-to-build-solana-treasury-shares-jump-15-pre-market
+[^41]: CryptoRank, "DoubleZero ICO Funding Rounds," accessed April 2026. https://cryptorank.io/ico/doublezero
+[^42]: The Block, "Paradigm leads $41 million token round for Across Protocol aiming to unify Ethereum," March 2025. https://www.theblock.co/post/344470/paradigm-leads-token-round-across-protocol-ethereum
+[^43]: CoinDesk, "Multicoin Leads $8M Investment in GPS Alternative Geodnet," February 25, 2025. https://www.coindesk.com/business/2025/02/25/multicoin-leads-usd8m-investment-in-gps-alternative-geodnet
+[^44]: Cryptopolitan, "Gradient Network raises $10M to power decentralized AI infrastructure," June 2025. https://www.cryptopolitan.com/gradient-network-10m-ai-infrastructure/
+[^45]: CoinDesk, "Crypto-to-Fiat App P2P.me Raises $2M from Multicoin and Coinbase Ventures," April 4, 2025. https://www.coindesk.com/tech/2025/04/04/crypto-to-fiat-app-p2p-me-raises-usd2m-from-multicoin-and-coinbase-ventures
+[^46]: PR Newswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
+[^47]: Inference.net blog, "Announcing our $11.8M Series Seed," October 2025. https://inference.net/blog/seed-round
+[^48]: PR Newswire, "Novig Raises $75M Series B to Build a Trader-First Sports Prediction Market," February 18, 2026. https://www.prnewswire.com/news-releases/novig-raises-75m-series-b-to-build-a-trader-first-sports-prediction-market-302691216.html
+[^49]: CoinDesk, "Multicoin Led $10M Raise for Crypto-Incentivized Internet Infrastructure Network Pipe," September 16, 2024. https://www.coindesk.com/business/2024/09/16/multicoin-led-10m-raise-for-crypto-incentivized-internet-infrastructure-network-pipe
+[^50]: GlobeNewsWire, "zkMe Secures $4M From Multicoin Capital To Build FATF- and MiCA-Compliant Identity Solution For Web3 Applications," August 20, 2024. https://www.globenewswire.com/news-release/2024/08/20/2932949/0/en/zkMe-Secures-4M-From-Multicoin-Capital-To-Build-FATF-and-MiCA-Compliant-Identity-Solution-For-Web3-Applications.html
+[^51]: The Block, "Execution platform Mevvy raises $2.8 million in seed round led by Multicoin Capital," January 2025. https://www.theblock.co/post/337739/execution-platform-mevvy-raises-2-8-million-in-seed-round-led-by-multicoin-capital

@@ -162,20 +162,22 @@ DoorDash is headquartered in San Francisco, California and operates in the Unite
 
 | Round | Date | Amount | Lead Investor(s) | Notable Co-Investors |
 |-------|------|--------|-------------------|----------------------|
-| Seed | Summer 2013 | $120K | Y Combinator | — |
+| Seed | 2013-08-20 | $120K | Y Combinator | — |
 | Seed | Sep 2013 | Undisclosed | Pear VC | SV Angel, Khosla Ventures |
 | Series A | May 2014 | $17.3M | Sequoia Capital | Khosla Ventures, CRV |
 | Series B | Mar 2015 | $40M | Kleiner Perkins | Sequoia Capital, Khosla Ventures, CRV |
-| Series C | Mar 2016 | $127M | Undisclosed | Wellcome Trust |
+| Series C | 2016-03-22 | $127M | Sequoia Capital | Kleiner Perkins, Khosla Ventures, Y Combinator Continuity Fund, Wellcome Trust |
 | Series D | Mar 2018 | $535M | SoftBank Vision Fund | Sequoia Capital, GIC |
-| Series E | Aug 2018 | $250M | Coatue Management, DST Global | — |
+| Series E | 2018-08-16 | $250M | Coatue Management, DST Global | — |
 | Series F | Feb 2019 | $400M | Temasek, Dragoneer | SoftBank Vision Fund, DST Global, GIC, Sequoia, Coatue, Y Combinator |
 | Series G | May 2019 | $600M | Sands Capital Ventures | Coatue, Dragoneer, DST Global, Temasek, Sequoia, SoftBank |
-| Series G ext. | Nov 2019 | $100M | T. Rowe Price | — |
+| Series G ext. | 2019-11-13 | $100M | T. Rowe Price | — |
 | Series H | Jun 2020 | $400M | Fidelity Investments | Durable Partners, T. Rowe Price |
-| IPO | Dec 2020 | $3.37B | — | Public offering on NYSE |
+| IPO | 2020-12-09 | $3.37B | — | Public offering on NYSE |
 
-Sources: [^4][^5][^6][^7][^8][^9][^10]
+The Series C valued DoorDash at roughly $700 million post-money [^7][^13]. The Series E valued the company at $4 billion, up from $1.4 billion six months earlier [^14][^15]. The Series G extension valued DoorDash at approximately $13 billion [^16]. The IPO priced at $102 per share and shares opened at $182, giving DoorDash an opening valuation of approximately $72 billion on its first day of trading [^3][^17].
+
+Sources: [^4][^5][^6][^7][^8][^9][^10][^13][^14][^15][^16][^17]
 
 ## What Investors Say
 
@@ -213,3 +215,8 @@ On personal growth: "If I were always right, I'd be worried I'm missing somethin
 [^10]: "SoftBank Vision Fund turns $680 million DoorDash investment into $11.5 billion," CNBC, December 9, 2020, accessed March 2026. https://www.cnbc.com/2020/12/09/softbank-vision-fund-turns-680-million-doordash-investment-into-11point5-billion.html
 [^11]: "The Story of a Cap Table: DoorDash," Eric Newcomer, accessed March 2026. https://www.newcomer.co/p/the-story-of-a-cap-table-doordash
 [^12]: "Seven Questions with Tony Xu," Sequoia Capital, October 2018, accessed March 2026. https://articles.sequoiacap.com/2018-10-17-tony-xu
+[^13]: "DoorDash Raises $127M in Series C Financing Round," FinSMEs, March 22, 2016, accessed April 2026. https://www.finsmes.com/2016/03/doordash-raises-127m-in-series-c-financing-round.html
+[^14]: "DoorDash Raises $250 Million from Coatue Management and DST Global at $4 Billion Valuation," PR Newswire (DoorDash press release), August 16, 2018, accessed April 2026. https://www.prnewswire.com/news-releases/doordash-raises-250-million-from-coatue-management-and-dst-global-at-4-billion-valuation-300698555.html
+[^15]: "DoorDash Valuation Nearly Triples to $4 Billion in Six Months," Bloomberg, August 16, 2018, accessed April 2026. https://www.bloomberg.com/news/articles/2018-08-16/doordash-raises-250-million-as-delivery-war-with-uber-heats-up
+[^16]: "DoorDash Picks Up Another $100 Million at Nearly $13 Billion Valuation," Bloomberg, November 13, 2019, accessed April 2026. https://www.bloomberg.com/news/articles/2019-11-13/doordash-picks-up-another-100-million-at-nearly-13-billion-valuation
+[^17]: "DoorDash Announces Pricing of Initial Public Offering," DoorDash Investor Relations, December 8, 2020, accessed April 2026. https://ir.doordash.com/news/news-details/2020/DoorDash-Announces-Pricing-of-Initial-Public-Offering/default.aspx

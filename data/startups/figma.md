@@ -165,13 +165,13 @@ Figma went public on the New York Stock Exchange in July 2025, pricing its IPO a
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|------------------|-------------------|-----------|
-| Seed | Jun 2013 | $3.87M | Index Ventures | Terrence Rohan, Jeff Weiner, DJ Patil, Adam Nash, LocalGlobe [^6] | — |
-| Series A | Dec 2015 | $14M | Greylock | Iconiq Capital, Index Ventures, O'Reilly AlphaTech Ventures, Soleio [^7] | — |
-| Series B | Feb 2018 | $25M | Kleiner Perkins | Greylock, Index Ventures [^7] | — |
-| Series C | Feb 2019 | $40M | Sequoia Capital | Coatue, Founders Fund [^7] | — |
+| Seed | 2013-06-07 | $3.87M | Index Ventures | Terrence Rohan, Jeff Weiner, DJ Patil, Adam Nash, LocalGlobe [^6] | Undisclosed |
+| Series A | 2015-12-17 | $14M | Greylock | Iconiq Capital, Index Ventures, O'Reilly AlphaTech Ventures, Soleio [^7][^12] | $48.4M [^12] |
+| Series B | 2018-02-01 | $25M | Kleiner Perkins | Greylock, Index Ventures [^7][^13] | $115M [^14] |
+| Series C | 2019-02-14 | $40M | Sequoia Capital | Coatue, Founders Fund, Kleiner Perkins, Greylock, Index Ventures [^14][^15] | $440M [^14] |
 | Series D | Apr 2020 | $50M | Andreessen Horowitz | Sequoia, Durable Capital [^7] | $2B |
 | Series E | Jun 2021 | $200M | Durable Capital Partners | Flat Capital, Morgan Stanley [^7] | $10B |
-| Series F | May 2024 | $416M | Durable Capital | Morgan Stanley, a16z, Sequoia, Kleiner Perkins, Index Ventures, Greylock [^8] | — |
+| Series F (tender) | 2024-05-16 | $416M | Durable Capital | Morgan Stanley, a16z, Sequoia, Kleiner Perkins, Index Ventures, Greylock, Fidelity [^8][^16] | $12.5B [^16] |
 | Secondary | Jul 2024 | $700M | Alkeon Capital, Coatue, General Catalyst | — [^8] | $12.5B |
 
 SV Angel is listed as a portfolio investor in Figma at the growth stage [^9].
@@ -201,3 +201,8 @@ After Figma's IPO, Field told his team: "Number goes up, number goes down. And w
 [^9]: SV Angel, "Portfolio," accessed March 2026. https://svangel.com/portfolio
 [^10]: Fortune, "Why Index's Danny Rimer bet on Figma and Dylan Field at the seed stage," August 1, 2025. https://fortune.com/2025/08/01/index-ventures-danny-rimer-figma-dylan-field-seed-round/
 [^11]: Medium, "Interview with CEO of Figma, Dylan Field," accessed March 2026. https://medium.com/blueprint/interview-with-figma-ceo-dylan-field-d9e05bbd9353
+[^12]: PitchBook, "Greylock leads Figma's $14M Series A," December 17, 2015. https://pitchbook.com/newsletter/greylock-leads-figmas-14m-series-a
+[^13]: PR Newswire, "Figma Raises $25 Million Series B Led by Kleiner Perkins," February 1, 2018. https://www.prnewswire.com/news-releases/figma-raises-25-million-series-b-led-by-kleiner-perkins-300591521.html
+[^14]: PitchBook, "Sequoia leads $40M design funding," February 14, 2019. https://pitchbook.com/newsletter/sequoia-leads-40m-design-funding
+[^15]: TechCrunch, "Figma gets $40 million Series C to put design tools in the cloud," February 14, 2019. https://techcrunch.com/2019/02/14/figma-gets-40-million-series-c-to-put-design-tools-in-the-cloud/
+[^16]: Bloomberg, "Figma Valued at $12.5 Billion in Secondary Share Sale After Adobe Deal Collapse," May 16, 2024. https://www.bloomberg.com/news/articles/2024-05-16/figma-valued-at-12-5-billion-in-secondary-share-sale

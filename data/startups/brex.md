@@ -149,17 +149,19 @@ In January 2026, Capital One announced a definitive agreement to acquire Brex fo
 
 | Date | Round | Amount | Lead | Co-investors | Source |
 |------|-------|--------|------|--------------|--------|
-| Mar 2017 | Pre-Seed (YC W17) | $120K | Y Combinator | — | [^3] |
+| 2017-03-20 | Pre-Seed (YC W17) | $120K | Y Combinator | — | [^3][^16] |
 | Apr 2017 | Series A | $7M | Ribbit Capital | Y Combinator | [^8] |
-| Jun 2018 | Series B | $57M | Y Combinator Continuity | Ribbit Capital, Peter Thiel, Max Levchin, Yuri Milner | [^4] |
-| Oct 2018 | Series C | $125M | Greenoaks Capital, DST Global, IVP | — | [^9] |
-| Apr 2019 | Debt | $100M | Barclays Investment Bank | — | [^10] |
-| Jun 2019 | Series C-2 | $100M | Kleiner Perkins Digital Growth Fund | Y Combinator Continuity, Ribbit Capital, DST Global, Greenoaks Capital, IVP | [^10] |
-| Dec 2019 | Debt | $200M | Credit Suisse | — | [^11] |
+| 2018-06-19 | Series B | $57M | Y Combinator Continuity | Ribbit Capital, Peter Thiel, Max Levchin, Yuri Milner | [^4] |
+| 2018-10-05 | Series C | $125M | Greenoaks Capital, DST Global, IVP | Peter Thiel, Max Levchin, Carl Pascarella | [^1][^9] |
+| 2019-04-16 | Debt | $100M | Barclays Investment Bank | — | [^10][^17][^18] |
+| 2019-06-11 | Series C-2 | $100M | Kleiner Perkins Digital Growth Fund | Y Combinator Continuity, Ribbit Capital, DST Global, Greenoaks Capital, IVP | [^10] |
+| 2019-12-11 | Debt | $200M | Credit Suisse | — | [^11][^19] |
 | May 2020 | Series C-3 | $150M | DST Global | Lone Pine Capital | [^12] |
 | Apr 2021 | Series D | $425M | Tiger Global | TCV, GIC, Baillie Gifford, Madrone Capital, Durable Capital, Base10, Y Combinator Continuity, Ribbit Capital, DST Global, Greenoaks Capital, Lone Pine Capital, IVP | [^5] |
-| Jan 2022 | Series D-2 | $300M | Greenoaks Capital, TCV | — | [^13] |
+| 2022-01-11 | Series D-2 | $300M | Greenoaks Capital, TCV | — | [^13][^20] |
 | Jan 2025 | Debt | $235M | Citi | TPG | [^11] |
+
+Valuation milestones: $1.1B post-money at the October 2018 Series C [^1], $2.6B at the April 2019 Barclays debt facility [^18], and $12.3B at the January 2022 Series D-2 [^13].
 
 ## What Investors Say
 
@@ -216,3 +218,13 @@ Henrique Dubugras, on the Series D: "Our investors believe in our team, business
 [^14]: "Brex is joining forces with Capital One," Brex Blog, January 22, 2026. https://www.brex.com/journal/brex-and-capital-one-join-forces
 
 [^15]: "Henrique Dubugras and Anu Hariharan Discuss Brex's Corporate Card For Startups," Y Combinator Blog, accessed March 2026. https://www.ycombinator.com/blog/henrique-dubugras-and-anu-hariharan-discuss-brexs-corporate-card-for-startups
+
+[^16]: "The 52 startups that launched at Y Combinator W17 Demo Day 1," TechCrunch, March 20, 2017. https://techcrunch.com/2017/03/20/yc-demo-day-winter-2017/
+
+[^17]: "Brex and Barclays Investment Bank Sign $100M Debt Capital Raise," Brex Press Release, April 16, 2019. https://www.brex.com/journal/press/barclays
+
+[^18]: "Brex, the credit card for startups, raises $100M debt round," TechCrunch, April 16, 2019. https://techcrunch.com/2019/04/16/brex-the-credit-card-for-startups-raises-100m-debt-round/
+
+[^19]: "Brex, the start-up that lends to other start-ups, taps $200 million line from Credit Suisse," CNBC, December 11, 2019. https://www.cnbc.com/2019/12/11/brex-taps-200-million-line-from-credit-suisse.html
+
+[^20]: "Brex Appoints Karandeep Anand as Chief Product Officer; Raises $300 Million in Series D-2 Round," Brex Press Release, January 11, 2022. https://www.brex.com/journal/press/brex-appoints-karandeep-anand-as-chief-product-officer-raises-usd300-million-in-series-d-2-round
