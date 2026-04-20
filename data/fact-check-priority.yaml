@@ -1,1 +1,5 @@
-priority: []
+priority:
+- slug: insight-partners
+  type: firm
+  reason: appeared in ScreenPoint Medical round 2026-04-17
+  added: '2026-04-20'
