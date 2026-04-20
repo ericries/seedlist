@@ -1,9 +1,20 @@
 ---
 firms:
-- round: Series A
+- round: series-a
+  slug: felicis-ventures
+  year: 2026
+  date: 2026-04-15
+- round: seed
+  slug: first-round-capital
+  year: 2026
+  date: 2026-04-15
+- round: series-a
+  slug: theory-ventures
+  year: 2026
+  date: 2026-04-15
+- round: series-a
   slug: long-journey-ventures
   year: 2026
-- slug: first-round-capital
 founded: 2025
 founders:
 - name: Shachar Hirshberg
@@ -37,7 +48,7 @@ Artemis is a cybersecurity startup that emerged from stealth in April 2026, buil
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-15 | Seed + Series A | $70M ($15M seed + $55M Series A) | Felicis (Series A) | First Round Capital, Brightmind, Theory VC, Lockstep [^1][^2] |
+| 2026-04-15 | Seed + Series A | $70M ($15M seed + $55M Series A) | Felicis | First Round Capital, Brightmind, Theory VC, Two Sigma Ventures, Lockstep [^1][^2] |
 
 ## What Investors Say
 
