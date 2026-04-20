@@ -78,17 +78,17 @@ The analysis below is based on 26 verified investments that can be specifically 
 |---------|-------|------|--------|--------|--------|
 | Slack | Series A+ | 2013 | Enterprise/Comms | IPO 2019 | [^4][^5] |
 | Cursor | Series D | 2025 | AI/Dev Tools | Active | [^7] |
-| Squarespace | Growth | — | Website Platform | IPO 2021 | [^1] |
+| Squarespace | Series A | 2010 | Website Platform | IPO 2021 | [^11][^12] |
 | Lynda.com | Series A | 2012 | EdTech/Media | Acq. by LinkedIn | [^1][^9] |
-~unknown| Vox Media | Growth | — | Media/Content | Active | [^1] |
+| Vox Media | Series D | 2015 | Media/Content | Active | [^1][^13] |
 ~unknown| Cornershop | Growth | — | Marketplace | Acq. by Uber | [^1] |
 ~unknown| MyFitnessPal | Growth | — | Consumer Health | Acq. by Under Armour | [^1] |
-| Hotel Tonight | Growth | — | Travel | Acq. by Airbnb 2019 | [^1] |
+| Hotel Tonight | Series D | 2013 | Travel | Acq. by Airbnb 2019 | [^1][^14] |
 ~unknown| Cloudera | Growth | — | Data/Enterprise | IPO | [^1] |
 ~unknown| Anchor.fm | Growth | — | Media/Podcasting | Acq. by Spotify | [^1] |
 ~unknown| Gametime | Growth | — | Consumer/Ticketing | Active | [^1] |
 ~unknown| UserTesting | Growth | — | Enterprise SaaS | IPO | [^1] |
-| PagerDuty | Growth | — | Enterprise SaaS | IPO 2019 | [^1][^10] |
+| PagerDuty | Series C | 2017 | Enterprise SaaS | IPO 2019 | [^1][^10][^15] |
 ~unknown| Etsy | Growth | — | Marketplace | IPO | [^1] |
 ~unknown| Xero | Growth | — | SaaS/Accounting | IPO | [^1] |
 ~unknown| Braintree | Growth | — | Payments | Acq. by PayPal | [^1] |
@@ -133,3 +133,8 @@ No independently sourced founder testimonials found. Braccia maintains a low pub
 [^8]: "Andrew Braccia's Investing Profile," Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/andrew-braccia
 [^9]: "Lynda.com," Accel website, accessed March 2026. https://www.accel.com/relationships/lynda-com
 [^10]: "PagerDuty's Strong Performance Drives $43.8 Million Series C Investment," PagerDuty, accessed March 2026. https://www.pagerduty.com/newsroom/2017q1-company-momentum/
+[^11]: "Squarespace Raises $38.5 Million From Accel, Index Ventures," TechCrunch, July 13, 2010. https://techcrunch.com/2010/07/13/squarespace-raises-38-5-million-from-accel-index-ventures/
+[^12]: "Index and Accel Back Squarespace – Industry Leading Web Publishing Platform," Squarespace press release, July 14, 2010. https://www.squarespace.com/press-releases/2010-07-14
+[^13]: "Vox Media Raises $200M From NBCUniversal," TechCrunch, August 12, 2015. https://techcrunch.com/2015/08/12/nbcuniversal-backs-vox-media/
+[^14]: "Last-Minute Booking App HotelTonight Raises $45M With An Eye On Continued Global Expansion," TechCrunch, September 5, 2013. https://techcrunch.com/2013/09/05/hoteltonight-series-d/
+[^15]: "PagerDuty raises $43.8 million to help businesses streamline digital operations," VentureBeat, April 13, 2017. https://venturebeat.com/2017/04/13/pagerduty-raises-43-8-million-to-help-businesses-streamline-digital-operations/

@@ -118,17 +118,19 @@ Affirm is a buy now, pay later (BNPL) financial technology company founded in 20
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Apr 2014 | $4M | Max Levchin | Peter Thiel | — |
-| Series A | Jun 2014 | $45M | Khosla Ventures, Lightspeed Venture Partners | Nyca Partners | $115M |
-| Series B | May 2015 | $275M | Spark Capital | Khosla Ventures, Andreessen Horowitz, Lightspeed, Jefferies | $576M |
-| Series C | Sep 2015 | $80M | Spark Capital | Khosla Ventures, Jefferies | — |
-| Series D | Apr 2016 | $100M | Founders Fund | Lightspeed, Spark Capital, Khosla Ventures, Andreessen Horowitz, Jefferies | $800M |
-| Series E | Dec 2017 | $200M | GIC | Khosla Ventures, Lightspeed, Founders Fund, Spark Capital, Caffeinated Capital, Ribbit Capital, Emerson Collective | $2B |
-| Series F | Apr 2019 | $300M | Thrive Capital | Fidelity, Baillie Gifford, Wellington Management, Sound Ventures, Founders Fund, GIC, Spark Capital, Lightspeed, Ribbit Capital, Moore Capital | $2.9B |
-| Series G | Sep 2020 | $500M | GIC, Durable Capital Partners | Lightspeed, Wellington, Baillie Gifford, Spark Capital, Founders Fund, Fidelity | — |
-| IPO | Jan 2021 | — | — | NASDAQ: AFRM, $49/share IPO price | $23.6B |
+| Seed | 2014-04-05 | $4M | Max Levchin, Peter Thiel | — | — |
+| Series A | 2014-06-09 | $45M | Khosla Ventures, Lightspeed Venture Partners | Nyca Partners | $115M |
+| Series B | 2015-05-06 | $275M | Spark Capital | Khosla Ventures, Andreessen Horowitz, Lightspeed Venture Partners, Jefferies | $576M |
+| Series C | 2015-09-01 | $80M | Spark Capital | Khosla Ventures, Jefferies | ~$530M post-money |
+| Series D | 2016-04-13 | $100M | Founders Fund | Lightspeed Venture Partners, Spark Capital, Khosla Ventures, Andreessen Horowitz, Jefferies | $800M |
+| Series E | 2017-12-13 | $200M | GIC | Khosla Ventures, Lightspeed Venture Partners, Founders Fund, Spark Capital, Caffeinated Capital, Ribbit Capital, Emerson Collective | $2B |
+| Series F | 2019-04-03 | $300M | Thrive Capital | Fidelity, Baillie Gifford, Wellington Management, Sound Ventures, Founders Fund, GIC, Spark Capital, Lightspeed Venture Partners, Ribbit Capital, Moore Capital | $2.9B |
+| Series G | 2020-09-17 | $500M | GIC, Durable Capital Partners | Lightspeed Venture Partners, Wellington Management, Baillie Gifford, Spark Capital, Founders Fund, Fidelity | ~$5B post-money |
+| IPO | 2021-01-13 | $1.2B | — | Goldman Sachs, Morgan Stanley, Barclays (underwriters) | $23.6B (first-day close) |
 
-Sources: [^1][^2][^3][^4][^5][^6]
+Affirm priced its IPO at $49.00 per share, offering 24.6 million shares of Class A common stock and raising approximately $1.2 billion. AFRM opened at $90.90 and closed its first trading day at $97.24, valuing the company at approximately $23.6 billion [^3][^7][^8]. The Series G Preferred was priced at $19.93 per share with an approximate $5 billion post-money valuation, per the S-1 filing [^9].
+
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11]
 
 ## What Investors Say
 
@@ -144,5 +146,10 @@ No independently sourced founder testimonials found.
 [^2]: Affirm Investor Relations, "Management: Max Levchin," accessed March 2026. https://investors.affirm.com/management/max-levchin/
 [^3]: Built In San Francisco, "Affirm Surges to a $1.2B IPO Bringing Its Valuation to $23B+," January 2021. https://www.builtinsf.com/articles/affirm-ipo-23b-valuation-fintech-unicorn-hiring
 [^4]: Crunchbase News, "Affirm's IPO Filing Reveals Nearly A Third Of Its Revenue Comes From A Single Customer," accessed March 2026. https://news.crunchbase.com/venture/affirm-s1-ipo/
-[^5]: FundBat, "Affirm (AFRM) - Funding Rounds, Valuation & Investors," accessed March 2026. https://fundbat.com/company/affirm/
+[^5]: FundBat, "Affirm (AFRM) - Funding Rounds, Valuation & Investors," accessed April 2026. https://fundbat.com/company/affirm/
 [^6]: Affirm Investor Relations, "Affirm announces series F round of equity funding, led by Thrive Capital," April 3, 2019. https://investors.affirm.com/news-releases/news-release-details/affirm-announces-series-f-round-of-equity-funding-led-by-thrive-capital
+[^7]: Affirm Investor Relations, "Affirm Announces Pricing of Initial Public Offering," January 11, 2021, accessed April 2026. https://investors.affirm.com/news-releases/news-release-details/affirm-announces-pricing-of-ipo/
+[^8]: CNBC, "Affirm Holdings prices its U.S. IPO above target range, raises $1.2 billion," January 13, 2021, accessed April 2026. https://www.cnbc.com/2021/01/13/affirm-holdings-prices-its-us-ipo-above-target-range-raises-1point2-billion.html
+[^9]: Meritech Capital, "Affirm IPO | S-1 Breakdown," accessed April 2026. https://www.meritechcapital.com/blog/affirm-ipo-s-1-breakdown
+[^10]: Affirm Investor Relations, "Affirm Raises $500M Series G Round," September 17, 2020, accessed April 2026. https://investors.affirm.com/news-releases/news-release-details/affirm-series-g-and-biweekly-payment-option
+[^11]: Eric Newcomer, "The Story of a Cap Table: Affirm," Newcomer, accessed April 2026. https://www.newcomer.co/p/the-story-of-a-cap-table-affirm
