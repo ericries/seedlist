@@ -48,7 +48,7 @@ He has also been characterized as investing based on product-market pull — loo
 
 Based on analysis of 35 verified investments (across ~30 unique companies, some with follow-on rounds) in the portfolio table below:
 
-**Stage distribution:** Groom invests across a wide range, but tilts toward early-to-growth stages. Of 35 verified investment rounds: 10 seed/pre-seed (29%), 9 Series A (26%), 5 Series B (14%), 5 Series C (14%), 3 Series D+ or late-stage (9%), 3 unknown stage (9%). Despite his stated focus on early-stage, a significant portion of his capital is deployed at Series A and beyond, consistent with his fund growing from ~$49M to $250M. He frequently leads rounds at seed through Series B.
+**Stage distribution:** Groom invests across a wide range, but tilts toward early-to-growth stages. Of 35 verified investment rounds: 10 seed/pre-seed (29%), 10 Series A (29%), 6 Series B (17%), 5 Series C (14%), 3 Series D+ or late-stage (9%), 2 unknown stage (6%; aggregator-sourced entries where the specific round could not be independently confirmed — Superhuman, Replicate). Despite his stated focus on early-stage, a significant portion of his capital is deployed at Series A and beyond, consistent with his fund growing from ~$49M to $250M. He frequently leads rounds at seed through Series B.
 
 **Sector breakdown (35 unique companies):** The portfolio skews heavily toward B2B SaaS and workflow tools: 8 of 35 HR/workplace/productivity tools (23%) including Ashby, Humaans, Lattice, Ethena, Nooks, Deel, Rise, Vise; 6 of 35 fintech/payments (17%) including Ramp, Pipe, Metronome, Convictional, Imprint, Meter; 5 of 35 AI/ML infrastructure (14%) including Roboflow, Replicate, turbopuffer, Speak, Baseten; 5 of 35 healthcare/biotech (14%) including Luminate Medical, Vital Biosciences, SWORD Health, Even Healthcare, Modern Health; 3 of 35 developer tools/productivity (9%) including Deepnote, Superhuman, Notion; 3 of 35 climate/deep tech/defense (9%) including Alt Carbon, Hadrian, Anduril; 5 of 35 other (14%) including Zepto, Figma, Meadow Memorials, Airbound, OpenAI. (Some companies span categories.)
 
@@ -87,7 +87,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Ashby | 2024 | Series C (lead) | HR/Recruiting | [^24] |
 | Superhuman | ~2021 | Unknown | Productivity/Email | [^15] |
 | Replicate | ~2022 | Unknown | AI/ML infrastructure | [^15] |
-| Metronome | ~2021 | Unknown | Fintech/Usage-based billing | [^15] |
+| Metronome | 2022-02-01 | Series A | Fintech/Usage-based billing | [^36][^37] |
 | Anduril | ~2022 | Late stage | Defense technology | [^25] |
 | OpenAI | ~2023 | Late stage | AI | [^25] |
 | Alt Carbon | 2025 | Seed (lead) | Climate tech/Carbon removal | [^13] |
@@ -99,7 +99,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Even Healthcare | 2026 | Series B (co-led, $20M) | Healthcare/Hospitals | [^32] |
 | Meter | 2021 | Series A (co-led, $35M) | Infrastructure/Networking | [^33] |
 | Rise | ~2022 | Seed (led, $3M) | Productivity/Calendaring | [^34] |
-| Imprint | ~2023 | Unknown | Fintech/Co-branded cards | [^35] |
+| Imprint | 2023-11-13 | Series B | Fintech/Co-branded cards | [^35][^38][^39] |
 
 This table represents approximately 35 unique companies of Groom's 200+ claimed investments (roughly 17%). Different sources report varying portfolio sizes: PitchBook cites 204 investments across 122 companies; other aggregators report 146-209 investments [^1][^15]. The discrepancy likely reflects differences in counting methodology across personal angel investments, LGF fund investments, and SPV co-investments.
 
@@ -168,3 +168,7 @@ Sam Altman, CEO of OpenAI, posted on X: "lachy is one of four people i ask for c
 [^33]: TradedVC, "Meter Raises $35 Million Investment Led By Sam Altman And Lachy Groom," accessed March 2026. https://traded.co/vc/deal/meter-raises-35-million-investment-led-by-sam-altman-and-lachy-groom/
 [^34]: Prime Gazette, "Lachy Groom is an AI pioneer, investor and Head at Stripe," accessed March 2026. https://primegazette.org/lachy-groom/
 [^35]: Premier Alternatives, "Lachy Groom Portfolio Companies," accessed March 2026. https://www.premieralts.com/investors/lachy-groom/portfolio
+[^36]: TechCrunch, "Metronome raises $30M to help software companies shift to usage-based pricing models," February 1, 2022. https://techcrunch.com/2022/02/01/metronome-raises-30m-to-help-software-companies-shift-to-usage-based-pricing-models/
+[^37]: Lachy Groom LinkedIn post announcing Metronome's $30M Series A led by a16z, February 2022. https://www.linkedin.com/posts/lachy-groom-b218895_were-excited-to-announce-our-30m-series-activity-6894541534285438976-J3fZ
+[^38]: The Irish Times, "New York-based Irish firm Imprint raises $75m in funding round," November 13, 2023. https://www.irishtimes.com/business/2023/11/13/irish-founded-imprint-raises-75m-in-new-funding-round/
+[^39]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 11/13/2023," November 13, 2023. https://www.alleywatch.com/2023/11/the-alleywatch-startup-daily-funding-report-11-13-2023/

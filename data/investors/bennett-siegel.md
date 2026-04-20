@@ -74,7 +74,7 @@ This distribution is broadly consistent with the stated seed-first approach, tho
 - Consumer: 2 companies (9%) — Peloton, Reddit
 - Other: 2 companies (9%) — Lunchbox (restaurant tech), Aligned Marketplace (healthcare)
 
-AI/ML is a dominant theme in recent investments, with 7 of 22 verified companies (32%) in the AI space. This concentration has accelerated in recent years, suggesting a strong tilt toward AI-native companies not fully captured by the firm's broader stated thesis.
+AI/ML is a dominant theme in recent investments. Of the 22 companies tabled, 16 are verifiable at round level with contemporaneous press or primary sources (Decagon, Paraform, Cape, Aaru, Whop, Weavy, Extra, Aligned Marketplace, Lunchbox, DoorDash, Peloton, Instacart, Ramp, Gorillas, Marqeta, Square). The remaining 6 (Sesame, Mercor, Apollo, Faire, Notion, Reddit) appear on A*'s portfolio page [^1] but are not confirmed at round level for Siegel specifically by independent sources [^26][^27][^28]. Excluding the 6 unconfirmed entries, the AI concentration in verifiable rounds is 5 of 16 (31%) — still the dominant sector.
 
 **Founder profile preferences:**
 - Strong pattern of backing technical founders and builders, including ex-Pinterest engineers (Extra), ex-Fiverr team (Weavy), and very young founders (Aaru co-founders were teenagers) [^10][^12][^13]
@@ -105,20 +105,20 @@ AI/ML is a dominant theme in recent investments, with 7 of 22 verified companies
 | Weavy | Seed | ~2025 | AI (image/video creation) | [^22] |
 | Extra | Seed | 2025 | AI (personal email) | [^12] |
 | Aligned Marketplace | Seed | 2025 | Healthcare (primary care) | [^23] |
-| Sesame | Unknown | ~2024 | AI (companion) | [^1] |
-| Mercor | Unknown | ~2024 | AI (hiring marketplace) | [^1] |
-| Apollo | Unknown | ~2023 | Enterprise (go-to-market) | [^1] |
-| Faire | Unknown | ~2023 | Marketplace (wholesale) | [^1] |
+| Sesame | Firm-level (undisclosed) | ~2024 | AI (companion) | [^1][^26] |
+| Mercor | Firm-level (undisclosed) | ~2024 | AI (hiring marketplace) | [^1][^27] |
+| Apollo | Firm-level (undisclosed) | ~2023 | Enterprise (go-to-market) | [^1][^28] |
+| Faire | Firm-level (undisclosed) | ~2023 | Marketplace (wholesale) | [^1] |
 | Lunchbox | Series A | 2020 | Restaurant tech (ordering) | [^7] |
 | DoorDash | Growth | ~2019 | Marketplace (food delivery) | [^3] |
 | Peloton | Growth | ~2019 | Consumer (fitness) | [^3] |
 | Instacart | Growth | ~2019 | Marketplace (grocery delivery) | [^3] |
 | Ramp | Growth | ~2020 | Fintech (corporate cards) | [^5] |
 | Gorillas | Growth | ~2021 | Marketplace (grocery delivery) | [^24] |
-| Notion | Unknown | ~2023 | Enterprise (workspace) | [^1] |
-| Reddit | Unknown | ~2023 | Consumer (social platform) | [^1] |
+| Notion | Firm-level (undisclosed) | ~2023 | Enterprise (workspace) | [^1] |
+| Reddit | Pre-A* (Kevin Hartz personal) | ~2020 | Consumer (social platform) | [^1] |
 
-Note: Investments marked with ~ indicate approximate dates based on available information. DoorDash, Peloton, Instacart, Ramp, Gorillas, and Lunchbox were made while Siegel was at Coatue Management. Companies listed on the A* portfolio page without specific round data (Apollo, Faire, Sesame, Mercor, Notion, Reddit) may represent either Kevin Hartz's or the broader firm's investments. This table represents a small fraction of A*'s 118+ total investments [^9].
+Note: Investments marked with ~ indicate approximate dates based on available information. DoorDash, Peloton, Instacart, Ramp, Gorillas, and Lunchbox were made while Siegel was at Coatue Management. Six companies (Apollo, Faire, Sesame, Mercor, Notion, Reddit) are listed on A*'s public portfolio page [^1] but independent primary sources (Tracxn, Crunchbase, and contemporaneous announcement press) do not identify A* Capital, Bennett Siegel, or Kevin Hartz in the known funding rounds [^26][^27][^28]. These are likely firm-level investments where the round and participation size are undisclosed, or — in Reddit's case, which is flagged with an asterisk on A*'s site indicating a pre-A* personal investment — Kevin Hartz angel checks that predate the firm. Bennett Siegel's specific participation cannot be confirmed for any of these six at round level. This table represents a small fraction of A*'s 118+ total investments [^9].
 
 ## In Their Own Words
 
@@ -163,3 +163,6 @@ No independently sourced founder testimonials found. A* Capital's website emphas
 [^23]: CityBiz, "Aligned Marketplace Secures $3M in Seed Funding," January 2025, accessed March 2026. https://www.citybiz.co/article/653959/aligned-marketplace-secures-3m-in-seed-funding
 [^24]: Nordic9, "Gorillas raises $44 million from Coatue et al.," accessed March 2026. https://nordic9.com/news/gorillas-raises-40-million-from-coatue-et-all-news1927046404/
 [^25]: Bennett Siegel on X/Twitter, "If a multistage fund offers to lead your seed round," 2025, accessed March 2026. https://x.com/BennettSiegel/status/1911841245376270748
+[^26]: Tracxn, "Sesame — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/sesame/__g819NllFMTlcelFoENCA8A6QTAWqg8pMqPGFE5GGmu4/funding-and-investors (Sesame AI round investors include Andreessen Horowitz, Spark Capital, Matrix Partners, BIG Ventures; A* Capital / Bennett Siegel / Kevin Hartz not listed in the Seed or Series A investor set.)
+[^27]: Tracxn, "Mercor — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/mercor/__764DkS7wJgmA1B8PuOw3_4HUbgJcaKjh8xY9UxvBIpY/funding-and-investors (Mercor Series A and subsequent round investors are Benchmark, General Catalyst, Felicis, Robinhood, DST Global, Menlo Ventures, Soma Capital, Link Ventures, 2.12 Angels, and individual angels Bill Gurley, Victor Lazarte, Peter Thiel, Jack Dorsey, Adam D'Angelo, Larry Summers, Chris Re, Scott Sandell; A* Capital / Bennett Siegel / Kevin Hartz not listed.)
+[^28]: PR Newswire, "Apollo.io Secures $100 Million Series D at $1.6B Valuation," August 29, 2023, accessed April 2026. https://www.prnewswire.com/news-releases/apolloio-secures-100-million-series-d-at-1-6b-valuation-to-make-world-class-go-to-market-accessible-to-all-301912032.html (Series D led by Bain Capital Ventures with Sequoia, Tribe Capital, and Nexus Venture Partners; A* Capital not listed in the announcement.)
