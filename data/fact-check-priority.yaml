@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: y-combinator
+  type: firm
+  reason: appeared in Archil Series A round 2026-04-21
+  added: '2026-04-21'
+- slug: general-catalyst
+  type: firm
+  reason: appeared in Archil Series A round 2026-04-21
+  added: '2026-04-21'
