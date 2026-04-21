@@ -117,20 +117,21 @@ website: https://www.wiz.io
 
 ## About
 
-Wiz is a cloud security platform founded in January 2020 by Assaf Rappaport, Ami Luttwak, Roy Reznik, and Yinon Costica — four former leaders of Microsoft's Cloud Security Group who previously co-founded Adallom (acquired by Microsoft in 2015) [^1]. The company provides agentless security across AWS, Azure, and Google Cloud, enabling organizations to identify vulnerabilities and prevent breaches [^2]. Wiz crossed $1 billion in annual recurring revenue in 2025 and was acquired by Google (Alphabet) for $32 billion in cash in March 2026 — Google's largest acquisition ever [^3].
+Wiz is a cloud security platform founded in January 2020 by Assaf Rappaport, Ami Luttwak, Roy Reznik, and Yinon Costica — four former leaders of Microsoft's Cloud Security Group who previously co-founded Adallom (acquired by Microsoft in 2015) [^1]. The company provides agentless security across AWS, Azure, and Google Cloud, enabling organizations to identify vulnerabilities and prevent breaches [^2]. Wiz crossed $1 billion in annual recurring revenue in 2025. Google (Alphabet) announced an agreement to acquire Wiz for $32 billion in all-cash on March 18, 2025 [^11][^12], and the transaction closed on March 11, 2026 — Google's largest acquisition ever [^3][^13].
 
 ## Funding History
 
 | Date | Round | Amount | Valuation | Lead | Co-investors |
 |------|-------|--------|-----------|------|-------------|
-| Feb 2020 | Seed | $21M | $67M post | Cyberstarts | Index Ventures [^4] |
-| Dec 2020 | Series A | $100M | — | Index Ventures, Sequoia, Insight Partners, Cyberstarts | [^1] |
-| Mar 2021 | Series B | $130M | $1.7B | Advent International | Greenoaks, Index, Sequoia, Insight, Cyberstarts [^5] |
-| May 2021 | Series B ext. | $120M | — | Salesforce | Blackstone, Greenoaks, Advent, Sequoia, Insight [^6] |
-| Oct 2021 | Series C | $250M | $6B | Greenoaks, Insight Partners | Sequoia, Salesforce Ventures [^7] |
-| Feb 2023 | Series D | $300M | $10B | Lightspeed Venture Partners | Greenoaks, Index Ventures, Blackstone, G Squared [^2] |
-| May 2024 | Series E | $1B | $12B | a16z, Lightspeed, Thrive Capital | Greylock, Wellington, Cyberstarts, Greenoaks, Index, Sequoia, Salesforce Ventures [^8] |
-| Mar 2025 | Acquisition | $32B | — | Google (Alphabet) | — [^3] |
+| 2020-02 | Seed | $21M | $67M post | Cyberstarts | Index Ventures [^4] |
+| 2020-12-09 | Series A | $100M | — | Index Ventures, Sequoia Capital, Insight Partners, Cyberstarts | [^1] |
+| 2021-03 | Series B | $130M | $1.7B | Advent International | Greenoaks, Index Ventures, Sequoia Capital, Insight Partners, Cyberstarts [^5] |
+| 2021-05-26 | Series B ext. | $120M | — | Salesforce Ventures, Blackstone | Aglaé Ventures, Greenoaks, Advent International, Sequoia Capital, Insight Partners [^6][^9][^10] |
+| 2021-10 | Series C | $250M | $6B | Greenoaks, Insight Partners | Sequoia Capital, Salesforce Ventures [^7] |
+| 2023-02 | Series D | $300M | $10B | Lightspeed Venture Partners | Greenoaks, Index Ventures, Blackstone, G Squared [^2] |
+| 2024-05 | Series E | $1B | $12B | Andreessen Horowitz, Lightspeed Venture Partners, Thrive Capital | Greylock, Wellington, Cyberstarts, Greenoaks, Index Ventures, Sequoia Capital, Salesforce Ventures [^8] |
+| 2025-03-18 | Acquisition (announced) | $32B | — | Google (Alphabet) |  [^11][^12] |
+| 2026-03-11 | Acquisition (closed) | $32B | — | Google (Alphabet) |  [^3][^13] |
 
 Angel investors Bernard Arnault and Howard Schultz participated in the Series C and Series D rounds [^2][^7].
 
@@ -160,3 +161,8 @@ Angel investors Bernard Arnault and Howard Schultz participated in the Series C 
 [^6]: NoCamels, "Israeli Startup Wiz Adds $120M To Series B Round Led By Salesforce," May 2021. https://nocamels.com/2021/05/wiz-israel-us-cloud-security-funding/
 [^7]: NoCamels, "Wiz Raises $250M Series C Round At Staggering $6B Valuation," October 2021. https://nocamels.com/2021/10/wiz-series-c-valuation-billion/
 [^8]: TechCrunch, "Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions," May 2024. https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/
+[^9]: Wiz Blog, "Salesforce Ventures, Blackstone, and Aglaé Join Team Wiz!," May 2021. https://www.wiz.io/blog/salesforce-ventures-blackstone-and-algae-join-team-wiz
+[^10]: Bloomberg, "Salesforce, Blackstone Join $120 Million Investment in Wiz," May 26, 2021. https://www.bloomberg.com/news/articles/2021-05-26/salesforce-blackstone-join-120-million-investment-in-wiz
+[^11]: Google Blog, "Google announces agreement to acquire Wiz," March 18, 2025. https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/
+[^12]: Alphabet Inc. press release (SEC Exhibit 99.1), "Google Announces Agreement to Acquire Wiz," March 18, 2025. https://www.sec.gov/Archives/edgar/data/1652044/000165204425000027/googexhibit99131825.htm
+[^13]: Google Cloud Press Corner, "Google Completes Acquisition of Wiz," March 11, 2026. https://www.googlecloudpresscorner.com/2026-03-11-Google-Completes-Acquisition-of-Wiz

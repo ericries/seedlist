@@ -86,9 +86,9 @@ Personio is a Munich-based HR software company founded in 2015 by Hanno Renner, 
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Jul 2016 | ~$2.4M (€2.1M) | Global Founders Capital, Picus Capital | Stylight Founders, angels | — |
-| Series A | Aug 2017 | $12M | Northzone | Global Founders Capital, Picus Capital | — |
-| Series B | Jan 2019 | $40M | Index Ventures | Northzone, Global Founders Capital | — |
+| Seed | 2016-07-14 | ~$2.4M (€2.1M) | Global Founders Capital, Picus Capital | Stylight Founders, angels | Not disclosed [^6][^11] |
+| Series A | 2017-08-03 | $12M (€10.5M) | Northzone | Global Founders Capital, Picus Capital | Not disclosed [^1][^12] |
+| Series B | 2019-01-17 | $40M | Index Ventures | Northzone, Global Founders Capital | Not disclosed [^7][^13] |
 | Series C | Jan 2020 | $75M | Accel | Lightspeed Venture Partners, Lars Dalgaard, Index Ventures, Northzone, Global Founders Capital, Picus Capital | $500M |
 | Series D | Jan 2021 | $125M | Index Ventures, Meritech Capital | Accel, Lightspeed, Northzone, Global Founders Capital, Picus Capital | $1.7B |
 | Series E | Oct 2021 | $270M | Greenoaks Capital | Altimeter Capital, Alkeon Capital, Index Ventures, Accel, Meritech, Lightspeed, Northzone, Global Founders Capital | $6.3B |
@@ -116,3 +116,6 @@ No independently sourced founder testimonials found.
 [^8]: TechCrunch, "Personio raises $125M on a $1.7B valuation for an HR platform targeting SMEs," January 17, 2021. https://techcrunch.com/2021/01/17/personio-raises-125m-on-a-1-7b-valuation-for-an-hr-platform-targeting-smes/
 [^9]: TechCrunch, "Personio, an HR platform for SMEs, raises $270M on a $6.3B valuation," October 11, 2021. https://techcrunch.com/2021/10/11/personio-an-hr-platform-for-smes-raises-270m-on-a-6-3b-valuation-expands-into-workflow-automation/
 [^10]: Personio press release, "Personio announces $125M in Series D funding and a $1.7B valuation," January 2021. https://www.personio.com/about-personio/press/personio-announces-125m-in-series-d-funding-and-a-1-7b-valuation-as-it-builds-europes-leading-hr-platform-for-smes/
+[^11]: Tech.eu, "German HR software startup Personio lands €2.1 million in seed funding," July 14, 2016. https://tech.eu/2016/07/14/personio-seed-funding/
+[^12]: Northzone, "Announcing our investment in Personio," August 3, 2017. https://northzone.com/2017/08/03/announcing-investment-personio/
+[^13]: Index Ventures, "Personio raised $40M in Series B investment led by Index Ventures," January 17, 2019. https://www.indexventures.com/perspectives/personio-raised-40m-in-series-b-investment-led-by-index-ventures/

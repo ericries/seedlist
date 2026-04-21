@@ -116,9 +116,9 @@ Applied Intuition is a vehicle intelligence software company founded in 2017 by 
 
 | Date | Round | Amount | Valuation | Lead | Co-investors |
 |------|-------|--------|-----------|------|-------------|
-| 2017 | Seed | Undisclosed | — | Lux Capital | — [^3] |
-| Sep 2018 | Series A | $11.5M | — | Andreessen Horowitz (Marc Andreessen) | Floodgate, Lux Capital [^4] |
-| Sep 2019 | Series B | $40M | — | General Catalyst (Hemant Taneja) | Kleiner Perkins, M12 (Microsoft), Sozo Ventures, La Famiglia, Andreessen Horowitz, Lux Capital, Floodgate [^5] |
+| 2017 | Seed | Undisclosed | Not disclosed | Lux Capital | [^3] |
+| 2018-09-12 | Series A | $11.5M | Not disclosed | Andreessen Horowitz | Lux Capital, Floodgate, SV Angel, John Doerr, Semil Shah, Naval Ravikant, Elad Gil, Arjun Sethi, Neeraj Arora [^4] [^9] |
+| 2019-09-12 | Series B | $40M | Not disclosed | General Catalyst | Kleiner Perkins, M12, Sozo Ventures, La Famiglia, Andreessen Horowitz, Lux Capital, Floodgate, NJF Capital [^5] [^3] |
 | Oct 2020 | Series C | $125M | $1.25B | Lux Capital (Bilal Zuberi) | Andreessen Horowitz, General Catalyst [^6] |
 | Nov 2021 | Series D | $175M | $3.6B | Elad Gil, Addition, Coatue Management | Andreessen Horowitz, General Catalyst, Lux Capital, Semil Shah [^7] |
 | Mar 2024 | Series E | $250M | $6B | Lux Capital (Bilal Zuberi), Elad Gil, Porsche Investments | Andreessen Horowitz, General Catalyst, BOND (Mary Meeker), Henry Kravis, Mustafa Suleyman, Ray Dalio, Reid Hoffman, Nico Rosberg [^8] |
@@ -156,3 +156,4 @@ Applied Intuition is a vehicle intelligence software company founded in 2017 by 
 [^6]: PR Newswire, "Applied Intuition raises $125M Series C from existing investors Lux Capital, Andreessen Horowitz, and General Catalyst," October 27, 2020. https://www.prnewswire.com/news-releases/applied-intuition-raises-125m-series-c-from-existing-investors-lux-capital-andreessen-horowitz-and-general-catalyst-301159996.html
 [^7]: PR Newswire, "Applied Intuition Raises $175M Series D Co-Led by Elad Gil, Addition, and Coatue Management at $3.6B Valuation," November 11, 2021. https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html
 [^8]: Applied Intuition, "Series E drives $6 billion valuation," March 12, 2024. https://www.appliedintuition.com/blog/series-e
+[^9]: Lux Capital (Medium), "Applied Intuition — Advanced simulation software for autonomous vehicles," September 12, 2018. https://lux-capital.medium.com/applied-intuition-advanced-simulation-software-for-autonomous-vehicles-66f5d0303d08
