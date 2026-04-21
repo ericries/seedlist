@@ -17,9 +17,9 @@ sector_focus:
   - fintech
 check_size: "$1M-$20M"
 last_verified_investment:
-  date: 2025-04-10
+  date: 2025-04-18
   company: "ZutaCore"
-  round: "Undisclosed"
+  round: "Strategic ($30M, Carrier-led)"
 social:
   linkedin: "linkedin.com/in/marius-nacht"
 tldr: 'Check Point co-founder, billionaire investor focusing on
@@ -101,10 +101,10 @@ The analysis below is based on 22 verified investments from Nacht's personal ang
 | Ultima Genomics | 2022 | Growth ($600M) | Genomics | [^24] |
 | Wisdo Health | 2023 | Series A ($5M) | Digital health | [^25] |
 | WaveBL | 2023 | Series B ($26M) | Blockchain/logistics | [^9] |
-| ZutaCore | 2025 | Undisclosed | Data center cooling | [^9] |
+| ZutaCore | 2025 | Strategic ($30M, Carrier-led) | Data center cooling | [^27][^28] |
 | Secdo | ~2016 | Angel | Endpoint security | [^19] |
 | Regenera | 2018 | Growth ($20M) | Pharma/ophthalmology | [^18] |
-~unknown| AposHealth | — | Advisor | Musculoskeletal | [^2] |
+| AposHealth | pre-2022 | Advisor / Investor (via aMoon) | Musculoskeletal | [^2][^29] |
 ~unknown| Reflectiz | — | Board seat | Web security | [^9] |
 ~unknown| Aummune | — | Co-founder | Oncology/biotech | [^5] |
 
@@ -142,7 +142,7 @@ No independently sourced founder testimonials specifically about the experience 
 - **Chairman, Regenera** — largest shareholder [^18]
 - **Board member, Cynamics** [^9][^17]
 - **Board member, Reflectiz** [^9]
-- **Advisor, AposHealth** [^2]
+- **Advisor / investor, AposHealth** — confirmed as personal investor by Nacht in April 2022 Calcalist interview; AposHealth is also a portfolio company of aMoon, which Nacht co-founded [^2][^29]
 - **Founder, 8400 The Health Network** (2017) — nonprofit healthcare leadership network, alongside Yair Schindel [^6][^7]
 - **Co-investor with Shlomo Kramer** (Check Point co-founder) in Fireblocks seed [^12]
 - **Co-investor with Cyberstarts** (Gili Raanan) in Fireblocks and other cybersecurity deals [^12][^26]
@@ -176,3 +176,6 @@ No independently sourced founder testimonials specifically about the experience 
 [^24]: Ultima Genomics press release, "Ultima Genomics Delivers the $100 Genome," May 2022, accessed March 2026. https://www.ultimagenomics.com/blog/ultima-genomics-delivers-the-usd100-genome/
 [^25]: PR Web, "Wisdo Health Completes its Series A Financing Round with $5M in New Funding by Healthcare Disruptors," January 2023, accessed March 2026. https://www.prweb.com/releases/wisdo-health-completes-its-series-a-financing-round-with-5m-in-new-funding-by-healthcare-disruptors-805558349.html
 [^26]: Cisco Investments, "Cyberstarts: A Cyber VC Powered by Cybersecurity Founders," accessed March 2026. https://www.ciscoinvestments.com/cyberstarts-vc
+[^27]: Globes, "SoftBank teams with Israeli chip liquid cooling startup ZutaCore," April 18, 2025, accessed April 2026. Confirms the most recent ZutaCore round was a $30M investment led by Carrier with participation from ZIM, and names Marius Nacht among private investors in the company. https://en.globes.co.il/en/article-softbank-teams-with-israeli-chip-liquid-cooling-startup-zutacore-1001508150
+[^28]: ZutaCore press release, "ZIM Announces Investment in ZutaCore," April 10, 2025, accessed April 2026. Confirms ZIM Ventures invested in ZutaCore as part of the 2025 strategic funding activity. https://blog.zutacore.com/press-releases/zim-investment
+[^29]: AposHealth press release, "Apos Medical Assets Ltd. Announces $11 Million Series A Extension Funding Round Led by Existing Shareholders," February 17, 2020, accessed April 2026. Confirms aMoon (co-founded by Nacht) as a principal shareholder and current investor in AposHealth. https://www.globenewswire.com/news-release/2020/02/17/1985810/0/en/Apos-Medical-Assets-Ltd-Announces-11-Million-Series-A-Extension-Funding-Round-Led-by-Existing-Shareholders.html

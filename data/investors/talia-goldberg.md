@@ -83,7 +83,7 @@ This table includes 20 verified investments. Bessemer's website lists approximat
 | StubHub | IPO | 2025 | Consumer/Marketplace | Public (NYSE: STUB) | [^1] |
 | Perplexity | Series B | 2024 | AI | Active | [^8] |
 | ServiceTitan | Growth | ~2015 | Vertical Software | Public (NASDAQ: TTAN) | [^9] |
-~unknown| Discord | Growth | — | Consumer/Social | Active | [^1] |
+| Discord | Series H | 2020-12-17 | Consumer/Social | Active | [^1] [^10] [^11] |
 ~unknown| DeepL | — | — | AI/Translation | Active | [^1] |
 ~unknown| Fal.ai | — | — | AI Infrastructure | Active | [^1] |
 ~unknown| Intercom | — | — | Enterprise SaaS | Active | [^1] |
@@ -91,7 +91,7 @@ This table includes 20 verified investments. Bessemer's website lists approximat
 ~unknown| Kindred | — | — | Consumer | Active | [^1] |
 ~unknown| Lithic | — | — | Fintech | Active | [^1] |
 ~unknown| Papaya Global | — | — | Fintech/HR | Active | [^1] |
-| Toss | — | ~2018 | Fintech | Active | [^2] |
+| Toss (Viva Republica) | Series C extension | 2018-12-09 | Fintech | Active | [^12] [^13] |
 ~unknown| Rupa Health | — | — | Healthcare | Acquired (Fullscript) | [^1] |
 ~unknown| Shippo | — | — | Logistics/SaaS | Active | [^1] |
 ~unknown| Syndio | — | — | Enterprise/HR | Active | [^1] |
@@ -130,3 +130,7 @@ No independently sourced founder testimonials found. Jeremy Levine, a Bessemer c
 [^7]: Signal by NFX, "Talia Goldberg's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/talia-goldberg
 [^8]: Tracxn, "Perplexity — 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/perplexity/__V2BE-5ihMWJ1hNb2_u1W7Gry25JzPFCBg-iNWi94XI8/funding-and-investors
 [^9]: Bessemer Venture Partners, "ServiceTitan: A values-driven company's path to IPO," accessed March 2026. https://www.bvp.com/atlas/servicetitan-a-values-driven-companys-path-to-ipo
+[^10]: TechCrunch, "Discord confirms raising $100M at a valuation of $7B," December 17, 2020, accessed April 2026. https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/
+[^11]: Tracxn, "Discord — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/discord/__5rlLgsamoGCjo5gATenpy383J_jyBToAQkMl2B_f99w/funding-and-investors
+[^12]: TechCrunch, "Payment service Toss becomes Korea's newest unicorn after raising $80M," December 9, 2018, accessed April 2026. https://techcrunch.com/2018/12/09/toss-becomes-koreas-newest-unicorn/
+[^13]: PayPal Newsroom, "Toss Raises $80 Million in Funding at a $1.2 Billion Valuation," December 10, 2018, accessed April 2026. https://newsroom.paypal-corp.com/toss-raises-80-million-in-funding-at-a-12-billion-valuation

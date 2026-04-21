@@ -54,28 +54,28 @@ Atiyeh has expressed strong conviction that technical founders have an advantage
 
 ## Inferred Thesis
 
-Based on 13 verified investments compiled from Tracxn, CB Insights, press releases, and TechCrunch. Sources indicate Atiyeh may have made up to 23 total investments [^12]; this analysis covers approximately 57% of his estimated total.
+Based on 12 verified investments compiled from press releases, company blog announcements, and TechCrunch coverage. Sources indicate Atiyeh may have made up to 23 total investments [^12]; this analysis covers approximately 52% of his estimated total.
 
-**Sector distribution (13 verified investments):**
-- Fintech / financial infrastructure: 5 of 13 (38%) — Pomelo, Divibank, Campfire, Beacon Software, Weav
-- AI / data infrastructure: 3 of 13 (23%) — Matia, LGND, Console
-- Enterprise SaaS / productivity: 3 of 13 (23%) — Granola, Capsule, Tomorro
-- Logistics / cross-border trade: 2 of 13 (15%) — Nuvocargo, Divibank
+**Sector distribution (12 verified investments):**
+- Fintech / financial infrastructure: 5 of 12 (42%) — Pomelo, Divibank, Campfire, Beacon Software, Weav
+- AI / data infrastructure / applied AI: 4 of 12 (33%) — Matia, LGND, Console, Cohere.io
+- Enterprise SaaS / productivity: 2 of 12 (17%) — Granola, Capsule
+- Logistics / cross-border trade: 2 of 12 (17%) — Nuvocargo, Divibank
 
 *Note: Divibank spans fintech and LatAm logistics; counted once in fintech above.*
 
-**Stage distribution (13 verified investments):**
-- Seed: 4 of 13 (31%) — Weav, Divibank, LGND, Beacon Software (Series A)
-- Series A: 6 of 13 (46%) — Nuvocargo, Pomelo, Capsule, Console, Matia, Beacon Software
-- Series B: 3 of 13 (23%) — Campfire, Granola, Beacon Software (Series B)
+**Stage distribution (12 verified investments):**
+- Seed: 5 of 12 (42%) — Weav, Divibank, LGND, Cohere.io, Beacon Software (earlier round)
+- Series A: 6 of 12 (50%) — Nuvocargo, Pomelo, Capsule, Console, Matia, Beacon Software
+- Series B: 2 of 12 (17%) — Campfire, Granola
 
 Atiyeh invests across stages from seed to Series B, with the heaviest concentration at Series A. This is consistent with a founder-angel who backs companies once they have demonstrated initial product-market fit.
 
-**Geographic patterns:** Portfolio is globally distributed. Verified investments include companies based in New York (Console, Campfire, Beacon Software), San Francisco, Latin America (Pomelo in Argentina, Divibank in Brazil, Nuvocargo on US-Mexico corridor), London (Granola), Paris (Tomorro), and Israel (Matia). Atiyeh's Lebanese heritage and LatAm fintech experience at Ramp may contribute to his comfort with international investments.
+**Geographic patterns:** Portfolio is globally distributed. Verified investments include companies based in New York (Console, Campfire, Beacon Software), San Francisco, Latin America (Pomelo in Argentina, Divibank in Brazil, Nuvocargo on US-Mexico corridor), London (Granola), and Israel (Matia). Atiyeh's Lebanese heritage and LatAm fintech experience at Ramp may contribute to his comfort with international investments.
 
 **Co-investor patterns:** Atiyeh frequently co-invests with Ramp co-founder Eric Glyman — both are listed together in Nuvocargo, Beacon Software, and Console [^8][^9][^13]. Other recurring co-investors include Y Combinator alumni and fintech operators such as Henrique Dubugras and Pedro Franceschi (Brex founders) in Weav [^14].
 
-**Founder profile preferences:** Atiyeh's portfolio skews toward technical founders building infrastructure or automation products. Several portfolio companies (Campfire, Console, Matia, Granola) are AI-native tools. His investments in Paribus-like automation products (expense management, contract management, data pipelines) suggest he gravitates toward founders automating tedious workflows.
+**Founder profile preferences:** Atiyeh's portfolio skews toward technical founders building infrastructure or automation products. Several portfolio companies (Campfire, Console, Matia, Granola, Cohere.io) are AI-native tools. His investments in Paribus-like automation products (expense management, customer support automation, data pipelines) suggest he gravitates toward founders automating tedious workflows.
 
 **Notable patterns:**
 - Strong LatAm fintech thread: Pomelo (Argentina), Divibank (Brazil), and Nuvocargo (US-Mexico) reflect an interest in emerging market financial infrastructure [^15][^16][^8].
@@ -88,7 +88,7 @@ Atiyeh invests across stages from seed to Series B, with the heaviest concentrat
 
 ## Portfolio
 
-This table includes 13 verified investments. Sources indicate Atiyeh may have made up to 23 total investments [^12]; this represents approximately 57% of the estimated total.
+This table includes 12 verified investments. Sources indicate Atiyeh may have made up to 23 total investments [^12]; this represents approximately 52% of the estimated total.
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
@@ -103,8 +103,7 @@ This table includes 13 verified investments. Sources indicate Atiyeh may have ma
 | Pomelo | Series A | 2021 | Fintech / LatAm | Active | [^15] |
 | Divibank | Seed | 2021 | Fintech / LatAm | Active | [^16] |
 | Weav | Seed | 2021 | Fintech / API | Acquired (Brex) | [^14] |
-| Cohere.io | Unknown | ~2022 | AI / customer support | Acquired (Ramp) | [^20] |
-~unknown| Tomorro | Series B | Unknown | Enterprise / contract mgmt | Active | [^23] |
+| Cohere.io | Seed | 2021 | AI / customer support | Acquired (Ramp) | [^20][^25] |
 
 ## In Their Own Words
 
@@ -118,11 +117,11 @@ This table includes 13 verified investments. Sources indicate Atiyeh may have ma
 
 "If you keep listening only to solutions that your customers propose to you, you're likely not going to end up with that 10x product that's going to alter the trajectory of your company." — Karim Atiyeh, Ramp blog, "To grow your business, you have to make big bets" [^10]
 
-"Companies are often reluctant to hire new grads, but there's massive alpha in investing in young talent." — Karim Atiyeh, X post, August 2024 [^24]
+"Companies are often reluctant to hire new grads, but there's massive alpha in investing in young talent." — Karim Atiyeh, X post, August 2024 [^23]
 
-"The ambition to build the best engineering team in New York was an early, articulated goal." — Karim Atiyeh, 8VC Fireside Chat [^25]
+"The ambition to build the best engineering team in New York was an early, articulated goal." — Karim Atiyeh, 8VC Fireside Chat [^24]
 
-"Could we build Paribus for businesses, and help businesses save money automatically?" — Karim Atiyeh, 8VC Fireside Chat, on the genesis of Ramp [^25]
+"Could we build Paribus for businesses, and help businesses save money automatically?" — Karim Atiyeh, 8VC Fireside Chat, on the genesis of Ramp [^24]
 
 ## What Founders Say
 
@@ -152,6 +151,6 @@ No independently sourced founder testimonials found. Nuvocargo's blog post welco
 [^20]: TechCrunch, "As the generative AI craze rages on, Ramp acquires customer support startup Cohere.io," June 2023. https://techcrunch.com/2023/06/26/as-the-generative-ai-craze-rages-on-fintech-ramp-acquires-ai-powered-customer-support-cohere-io/
 [^21]: PR Newswire, "LGND Raises $9M to Make Earth Data Intuitive and Actionable," July 2025. https://www.prnewswire.com/news-releases/lgnd-raises-9m-to-make-earth-data-intuitive-and-actionable-302502527.html
 [^22]: WilmerHale, "Capsule Captures $12M in Series A Funding," April 2025. https://www.wilmerhale.com/en/insights/news/20250417-capsule-captures-12m-in-series-a-funding
-[^23]: Tracxn, "Karim Atiyeh – 2025 Portfolio & Founded Companies," accessed March 2026. https://tracxn.com/d/people/karim-atiyeh/__-dxkrE-uJrrbHTAoM5jVMkoiCAvniWOAM-HlfFZBnA8
-[^24]: Karim Atiyeh, X post, August 2024. https://x.com/karimatiyeh/status/1821645476632170636
-[^25]: 8VC, "Karim Atiyeh and Nik Koblov (Ramp) Fireside Chat," accessed March 2026. https://www.8vc.com/resources/karim-atiyeh-ramp-fireside-chat
+[^23]: Karim Atiyeh, X post, August 2024. https://x.com/karimatiyeh/status/1821645476632170636
+[^24]: 8VC, "Karim Atiyeh and Nik Koblov (Ramp) Fireside Chat," accessed March 2026. https://www.8vc.com/resources/karim-atiyeh-ramp-fireside-chat
+[^25]: Cohere blog, "Hello from Cohere," March 14, 2021. Announces $3.1M seed led by Initialized Capital with Karim Atiyeh listed among angel investors. https://cohere.io/blog/hello-from-cohere
