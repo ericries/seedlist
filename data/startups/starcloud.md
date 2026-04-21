@@ -92,10 +92,10 @@ On March 30, 2026, the company announced a $170M Series A at a $1.1B valuation, 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2024 | Pre-Seed | $2.4M | — | — [^8] |
+| 2024-03-11 | Pre-Seed | $2.4M | Nebular | Caffeinated Capital, Plug & Play, Everywhere Ventures, Tiny.vc, Sterling Road, Pareto Holdings, Foreword Ventures, Sequoia Scout Fund [^8][^11][^12] |
 | 2024-12 | Seed | $11M | NFX | Y Combinator, FUSE, Soma Capital, Andreessen Horowitz (scout), Sequoia Capital (scout) [^8] |
-| 2025-02 | Seed Extension | $10M | — | Nvidia, others [^8][^9] |
-| 2025 | Undisclosed | — | In-Q-Tel | — [^5][^9] |
+| 2025-02-26 | Seed Extension | $10M | Undisclosed | Previous seed investors, new venture firms (undisclosed per company until Series A); Nvidia partnership announced concurrently [^8][^9][^13] |
+| 2025-08-08 | Strategic Investment | Undisclosed | In-Q-Tel | [^14] |
 | 2026-03-30 | Series A | $170M | Benchmark, EQT Ventures | Macquarie Capital, NFX, Nebular, Y Combinator, Adjacent, 776 Ventures, Fuse Ventures, Manhattan West, Monolith Power Systems [^2][^7] |
 
 Total raised: $200M [^2][^5]. Valuation: $1.1B (post-money, as of Series A) [^2][^5].
@@ -134,3 +134,7 @@ Philip Johnston on commercial plans: "The main customer contracts that are commi
 [^8]: GeekWire, "Lumen Orbit changes its name to Starcloud and raises $10M for space data centers," 2025. https://www.geekwire.com/2025/lumen-orbit-starcloud-10m-space-data-centers/
 [^9]: CNBC, "Nvidia-backed Starcloud trains first AI model in space, orbital data centers," December 10, 2025. https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html
 [^10]: BusinessWire, "Starcloud Raises $170M Series A at $1.1bn Valuation Led by Benchmark and EQT Ventures," March 30, 2026. https://www.businesswire.com/news/home/20260330024111/en/Starcloud-Raises-%24170M-Series-A-at-%241.1bn-Valuation-Led-by-Benchmark-and-EQT-Ventures
+[^11]: TechCrunch, "Lumen Orbit closed one of the biggest rounds from Y Combinator's last cohort," October 24, 2024 (confirms Nebular led the pre-seed). https://techcrunch.com/2024/10/24/lumen-orbit-closed-one-of-the-biggest-rounds-from-y-combinators-last-cohort/
+[^12]: Cosmic Log, "Lumen Orbit raises $2.4M to put data centers in space," Alan Boyle, March 11, 2024. https://cosmiclog.com/2024/03/11/lumen-orbit-raises-2-4m-to-put-data-centers-in-space/
+[^13]: Crunchbase, "Seed Round - Starcloud - 2025-02-26," accessed April 2026. https://www.crunchbase.com/funding_round/lumen-orbit-seed--d501ee39
+[^14]: Data Center Dynamics, "In-Q-Tel invests in data center in space firm Starcloud," August 2025 (CEO Philip Johnston announced the strategic investment via LinkedIn on August 8, 2025; amount not disclosed). https://www.datacenterdynamics.com/en/news/in-q-tel-invests-in-data-center-in-space-firm-starcloud/

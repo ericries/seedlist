@@ -48,13 +48,13 @@ Egnyte is a cloud-based content intelligence, governance, and collaboration plat
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2007 | Seed | $1M | — | — [^6] |
-| Jul 2009 | Series A | $6M | Polaris Venture Partners | Floodgate [^7][^3] |
-| Mar 2011 | Series B | $10M | Kleiner Perkins | Floodgate, Polaris Venture Partners [^3][^8] |
-| Jul 2012 | Series C | $16M | Google Ventures (GV) | Kleiner Perkins, Polaris Ventures [^9] |
-| Dec 2013 | Series D | $29.5M | — | Northgate Capital, Seagate Technology, CenturyLink, GV, Kleiner Perkins, Polaris Partners [^10] |
-| Oct 2018 | Series E | $75M | Goldman Sachs | — [^4] |
-| Feb 2025 | Private Equity | Undisclosed | GI Partners, TA Associates | — [^2] |
+| 2007 | Seed | $1M | Undisclosed | Undisclosed [^6] |
+| 2009-07-07 | Series A | $6M | Polaris Venture Partners | Floodgate [^7][^3] |
+| 2011-03-01 | Series B | $10M | Kleiner Perkins | Floodgate, Polaris Venture Partners [^3][^8] |
+| 2012-07-17 | Series C | $16M | Google Ventures (GV) | Kleiner Perkins, Polaris Ventures [^9] |
+| 2013-12-11 | Series D | $29.5M | Northgate Capital | Seagate Technology, CenturyLink, GV, Kleiner Perkins, Polaris Partners [^10][^11] |
+| 2018-10 | Series E | $75M | Goldman Sachs | — [^4] |
+| 2025-02-25 | Private Equity | Undisclosed (majority stake at ~$1.5B valuation) | GI Partners, TA Associates | — [^1][^2][^5][^12] |
 
 Total venture funding raised: $137.5M across seed through Series E [^4]. The 2025 PE majority investment was reportedly at a $1.5 billion valuation [^5].
 
@@ -78,3 +78,5 @@ No independently sourced founder testimonials found.
 [^8]: VentureBeat, "Egnyte raises $10M from Kleiner Perkins for dirt cheap cloud storage," March 1, 2011. https://venturebeat.com/2011/03/01/egnyte-funding-10-million-kpcb/
 [^9]: TechCrunch, "Egnyte Raises $16 Million From Google Ventures For Cloud File Storage Service," July 17, 2012. https://techcrunch.com/2012/07/17/egnyte-raises-16-million-from-google-ventures-for-cloud-file-storage-offering/
 [^10]: Egnyte press release, "Egnyte Secures $29.5 Million in Series D Funding," December 11, 2013. https://www.egnyte.com/press-releases/2013-12-11-Egnyte-Secures-Funding-Announces-Global-Expansion-Plans
+[^11]: Blocks & Files, "Private equity pair make Egnyte majority buy," February 26, 2025. https://blocksandfiles.com/2025/02/26/private-equity-egnyte/
+[^12]: GI Partners press release, "Egnyte Announces Majority Investment from GI Partners and TA," February 25, 2025. https://www.gipartners.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta

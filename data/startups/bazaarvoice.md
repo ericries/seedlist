@@ -53,13 +53,15 @@ On February 1, 2018, Marlin Equity Partners completed a take-private acquisition
 |-------|------|--------|------|--------------|
 | Series A | May 2006 | $4M | Austin Ventures | First Round Capital [^4] |
 | Series B | Sep 2007 | $8.8M | Battery Ventures | Austin Ventures, First Round Capital [^5] |
-| Series C | Jun 2008 | $7.1M | — | Austin Ventures, Battery Ventures, First Round Capital [^4][^6] |
-| IPO | Feb 2012 | $114M | — | NASDAQ: BV, $12/share [^2] |
-| Post-IPO Equity | Jun 2012 | $103.9M | — | — [^4] |
+| Series C | 2008-06-18 | $7.1M | Austin Ventures, Battery Ventures | First Round Capital [^4][^6] |
+| IPO | 2012-02-23 | $114M | Morgan Stanley | Deutsche Bank Securities, Credit Suisse [^2][^7] |
+| Follow-On Offering | 2012-07-17 | $130.9M | Morgan Stanley | Deutsche Bank Securities, Credit Suisse [^8] |
 | Post-IPO Equity | Nov 2012 | $6.7M | — | — [^4] |
 | Take-Private | Feb 2018 | ~$521M | Marlin Equity Partners | — [^3] |
 
-Sources: [^1][^2][^3][^4][^5][^6]
+Bazaarvoice priced its IPO on February 23, 2012 at $12 per share (9,484,296 shares), above the proposed $8-$10 range; shares opened at $16 on February 24, 2012 on NASDAQ under ticker BV [^2][^7]. The July 2012 follow-on offering priced 8,500,000 shares at $15.40 — 2,350,000 new shares from the company and 6,150,000 shares from selling stockholders — for gross proceeds of approximately $130.9M (of which approximately $36.2M went to Bazaarvoice) [^8]. Crunchbase records this round as "Post-IPO Equity" with a June 25, 2012 date corresponding to the prospectus filing [^4].
+
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8]
 
 ## What Investors Say
 
@@ -76,4 +78,6 @@ No independently sourced founder testimonials found.
 [^3]: GlobeNewsWire, "Marlin Equity Partners Completes Take-Private Acquisition of Bazaarvoice," February 1, 2018. https://www.globenewswire.com/news-release/2018/02/01/1330099/0/en/Marlin-Equity-Partners-Completes-Take-Private-Acquisition-of-Bazaarvoice.html
 [^4]: Clay, "How Much Did Bazaarvoice Raise? Funding & Key Investors," accessed March 2026. https://www.clay.com/dossier/bazaarvoice-funding
 [^5]: TechCrunch, "Bazaarvoice Closes $8.8 Million Series B," September 9, 2007. https://techcrunch.com/2007/09/09/bazaarvoice-closes-88-million-series-b/
-[^6]: PE Hub, "Bazaarvoice Raises $7.1 Million," June 2008. https://www.pehub.com/2008/06/bazaarvoice-raises-71-million/
+[^6]: PE Hub, "Bazaarvoice Raises $7.1 Million," June 20, 2008. https://www.pehub.com/2008/06/bazaarvoice-raises-71-million/
+[^7]: GlobeNewswire, "Bazaarvoice, Inc. Prices Initial Public Offering," February 24, 2012. https://www.globenewswire.com/news-release/2012/02/24/468969/19098/en/Bazaarvoice-Inc-Prices-Initial-Public-Offering.html
+[^8]: GlobeNewswire, "Bazaarvoice, Inc. Announces Pricing of Its Follow-On Offering," July 18, 2012. http://www.globenewswire.com/news-release/2012/07/18/273756/262522/en/Bazaarvoice-Inc-Announces-Pricing-of-Its-Follow-On-Offering.html
