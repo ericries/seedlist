@@ -3,9 +3,9 @@ check_size: $100K-$50M
 firm: index-ventures
 last_researched: 2026-03-25
 last_verified_investment:
-  company: Swile
-  date: 2020
-  round: Series C
+  company: Teads Holding Co.
+  date: ~2025
+  round: Board seat via Outbrain acquisition of Teads — not a direct Index round
 location: London, United Kingdom
 name: Dominique Vidal
 role: Venture Partner
@@ -85,26 +85,26 @@ This table represents 18 verified investments. Vidal has been active since 2007;
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Adconion | 2008-02-25 | Series C ($80M, led by Index) | [^21] |
 | Criteo | 2008 | Series B (~$10M) | [^8] |
+| Be2 | 2008-11-13 | €15M round (led by Index) | [^23] |
 | Squarespace | 2010 | Growth ($38.5M) | [^9] |
 | Outbrain | 2011 | Series D ($35M) | [^7] |
-| Adconion | ~2012 | Unknown | [^10] |
 | ASOS | ~2012 | Growth | [^4] |
 | Navabi | 2013 | Series C (€10M) | [^11] |
 | Metapack | 2013 | Growth (£20M) | [^12] |
 | Peoplevox | ~2013 | Growth ($6M) | [^13] |
 | BlaBlaCar | 2014 | Series C ($100M) | [^14] |
 | Alkemics | ~2015 | Early | [^5] |
-| Teads | ~2015 | Unknown | [^10] |
 | Citymapper | 2016 | Series B ($40M) | [^15] |
 | Drivy / Getaround | ~2016 | Unknown | [^4] |
 | teemo | 2017 | Series A ($16M) | [^16] |
 | Kayrros | 2017 | Series A ($10M) | [^17] |
-| Be2 | ~2017 | Unknown | [^1] |
 | Kayrros | 2018 | Series B ($24M) | [^18] |
 | Spendesk | 2018 | Series A (€8M) | [^6] |
 | Swile (Lunchr) | 2019 | Series B (€30M) | [^19] |
 | Swile | 2020 | Series C (€70M) | [^20] |
+| Teads Holding Co. | 2025 | Board seat via Outbrain acquisition of Teads — not a direct Index round | [^22] |
 
 *Years marked with ~ are approximate; exact investment dates could not be independently confirmed for all entries. Kayrros appears twice because Index participated in both the Series A and Series B.*
 
@@ -187,3 +187,6 @@ Yaron Galai, co-founder of Outbrain, on Vidal joining the board (2011):
 [^18]: Index Ventures Perspectives, "Kayrros Secures $24M in Series B Funding to Expand Energy Market Penetration," September 18, 2018, accessed March 2026. https://www.indexventures.com/perspectives/kayrros-secures-24m-in-series-b-funding-to-expand-energy-market-penetration/
 [^19]: Tech.eu, "French fintech scale-up Swile secures €70 million to extend beyond its digital meal voucher alternative," (covers Index-led €70M Series C), June 23, 2020, accessed March 2026. https://tech.eu/2020/06/23/swile-funding/
 [^20]: Index Ventures Perspectives, "Swile (ex-Lunchr) Raises €70m to Become the Must-Have App for Life at Work," accessed March 2026. https://www.indexventures.com/perspectives/swile-ex-lunchr-raises-70m-to-become-the-must-have-app-for-life-at-work/
+[^21]: Ad Tech Daily, "Adconion Media Group Raises Record $80M Venture Round," February 25, 2008, accessed April 2026. https://adtechdaily.com/2008/02/25/adconion-media-group-raises-record-80m-venture-round/ — Series C led by Index Ventures with existing investor Wellington Partners.
+[^22]: Globe Newswire / Outbrain press release, "Outbrain Completes the Acquisition of Teads," February 3, 2025, accessed April 2026. https://www.globenewswire.com/news-release/2025/02/03/3019410/0/en/Outbrain-Completes-the-Acquisition-of-Teads.html — Index Ventures did not invest directly in Teads; Vidal's "Teads Holding Co." board seat arrived via Outbrain's acquisition of Teads in 2025. Teads' independent funding history (Crunchbase/Tracxn) lists Elaia, Partech, Gimv, BPI, Bank of China, HSBC, and Founders Future — not Index Ventures.
+[^23]: TechCrunch, "Algorithmic Dating Site Be2 Raises €15m From Index," November 13, 2008, accessed April 2026. https://techcrunch.com/2008/11/13/algorithmic-dating-site-be2-raises-e15m-from-index/ — Index Ventures led €15M round; Vidal joined the board.

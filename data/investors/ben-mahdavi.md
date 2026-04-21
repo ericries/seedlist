@@ -11,7 +11,7 @@ check_size: "$100K-$10M"
 last_verified_investment:
   date: 2024-08-29
   company: "Magic"
-  round: "Unknown"
+  round: "Series C"
 social:
   twitter: "@BFMahdavi"
   linkedin: "linkedin.com/in/mahdavi"
@@ -50,7 +50,7 @@ Based on 28 portfolio companies attributed to Mahdavi personally across AngelMat
 
 **Sector breakdown:** Of 28 attributed portfolio companies: enterprise/productivity software appears most frequently (Gusto, Talkdesk, VTS, Zenefits, Rescale, Collective Health, WorkStep, Taskade — 8 of 28, 29%), followed by consumer platforms (Reddit, Instacart, MasterClass, Eaze, PAX Labs — 5 of 28, 18%), fintech (Earnest, Clover Health — 2 of 28, 7%), and a long tail across healthtech (One Medical), logistics (Flexport), agtech (Bowery Farming), legal tech (Atrium), and AI (OpenAI, Cognition, Magic) [^4][^11].
 
-**AI investments:** More recent investments show a strong tilt toward AI: Magic (August 2024), Cognition, and OpenAI are all AI/developer tools companies [^4][^14]. Through Quiet Capital, Mahdavi has also been involved with Chroma (AI vector database, $18M seed, April 2023) and Taalas (AI chip startup, $50M, March 2024) [^15][^16].
+**AI investments:** More recent investments show a strong tilt toward AI: Magic (Series C, $320M, August 29, 2024, led by Eric Schmidt with CapitalG, Atlassian, Jane Street, Nat Friedman, Daniel Gross, and Sequoia [^17][^18]), Cognition, and OpenAI are all AI/developer tools companies [^4][^14]. Through Quiet Capital, Mahdavi has also been involved with Chroma (AI vector database, $18M seed, April 2023) [^15] and Taalas (AI chip startup, $50M total across two rounds, co-led by Pierre Lamond and Quiet Capital, announced on emergence from stealth March 5, 2024) [^16][^19][^20].
 
 **Geographic focus:** Primarily US-based companies, consistent with Quiet Capital's overall portfolio (70% US) [^13].
 
@@ -66,10 +66,10 @@ The following companies are attributed to Ben Mahdavi personally across multiple
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Magic | 2024 | — | Premier Alternatives [^4] |
+| Magic | 2024-08-29 | Series C | Premier Alternatives [^4]; TechCrunch [^17]; MarketScreener [^18] |
 | Chroma | 2023 | Seed | LinkedIn post [^15] |
-| Taalas | ~2024 | — | LinkedIn post [^16] |
-~unknown| OpenAI | — | — | Premier Alternatives [^4] |
+| Taalas | 2024-03-05 | Seed (emerged from stealth) | LinkedIn post [^16]; PR Newswire [^19]; DCD [^20] |
+~unknown| OpenAI | Unresolved | Unresolved | Premier Alternatives [^4] |
 ~unknown| Cognition | — | — | Premier Alternatives [^4] |
 ~unknown| Gusto | — | — | Premier Alternatives, AngelMatch [^4][^11] |
 ~unknown| Flexport | — | — | Premier Alternatives, AngelMatch [^4][^11] |
@@ -100,7 +100,7 @@ The following companies are attributed to Ben Mahdavi personally across multiple
 ~unknown| Showroom | — | — | AngelMatch [^11] |
 ~unknown| Whisperai | — | — | AngelMatch [^11] |
 
-*Note: This table represents 33 companies attributed to Mahdavi, but only 3 have independently verified investment dates. The majority are sourced from aggregator databases (AngelMatch, Premier Alternatives) without precise year or stage data. It is unclear how many are personal angel investments versus Quiet Capital fund investments.*
+*Note: This table represents 33 companies attributed to Mahdavi, but only 3 (Magic, Chroma, Taalas) have independently verified investment dates and round types. The OpenAI entry appears in Premier Alternatives' list but the specific round and year could not be verified against any primary press source, Quiet Capital communication, or OpenAI investor disclosure — it is marked unresolved. The remaining entries are sourced from aggregator databases (AngelMatch, Premier Alternatives) without precise year or stage data. It is unclear how many are personal angel investments versus Quiet Capital fund investments.*
 
 ## In Their Own Words
 
@@ -134,3 +134,7 @@ No independently sourced founder testimonials found. Mahdavi maintains a low pub
 [^14]: Evalyze.ai, "Ben Mahdavi - Investor Profile," accessed April 2026. https://www.evalyze.ai/investors/ben-mahdavi
 [^15]: Ben Mahdavi on LinkedIn, "Chroma raises $18M seed round," April 2023. https://www.linkedin.com/posts/mahdavi_chroma-raises-18m-seed-round-activity-7050195159900135424-_qFO
 [^16]: Ben Mahdavi on LinkedIn, "Excited to partner with Taalas team," March 2024. https://www.linkedin.com/posts/mahdavi_the-startup-flipping-nvidias-playbook-on-activity-7170920087665725440-NCSv
+[^17]: TechCrunch, "Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others," August 29, 2024, accessed April 2026. https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/
+[^18]: MarketScreener, "Magic AI Inc. announced that it has received $320.000032 million in funding from CapitalG Management Company, LLC, Atlassian Corporation, Jane Street Group, LLC, Sequoia Capital Operations LLC and other investors," August 29, 2024, accessed April 2026. https://www.marketscreener.com/quote/stock/ATLASSIAN-CORPORATION-25531314/news/Magic-AI-Inc-announced-that-it-has-received-320-000032-million-in-funding-from-CapitalG-Management-47766852/
+[^19]: PR Newswire, "Taalas emerges from stealth with $50 million in funding and a groundbreaking silicon AI technology," March 5, 2024, accessed April 2026. https://www.prnewswire.com/news-releases/taalas-emerges-from-stealth-with-50-million-in-funding-and-a-groundbreaking-silicon-ai-technology-302079053.html
+[^20]: DataCenterDynamics, "AI startup Taalas comes out of stealth, raises $50m for LLM chips," March 2024, accessed April 2026. https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/

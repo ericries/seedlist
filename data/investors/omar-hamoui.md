@@ -68,9 +68,9 @@ Based on 17 verified investments where Omar Hamoui is directly identified as inv
 | Handl Health | 2024 | Seed ($2.5M, co-led) | [^16] |
 | FlavorCloud | ~2021 | Series A ($6.3M) | [^17] |
 | Emotive | ~2021 | Series A | [^11] |
-| Dash.fi | ~2021 | Unknown | [^11] |
-| Covetool | ~2021 | Unknown | [^11] |
-| Resilia | ~2021 | Unknown | [^11] |
+| Dash.fi | 2021-09-06 | Seed ($3.2M) | [^11][^19] |
+| Covetool | 2020-10-14 | Series A ($5.7M, led; Hamoui joined board) | [^11][^20][^21] |
+| Resilia | 2020-05-12 | Series A ($8M, co-led by Mucker & Callais Capital) | [^11][^22][^23] |
 
 ### Board Seats / Investments at Sequoia Capital (2013-2019)
 
@@ -133,3 +133,8 @@ Sequoia Capital, in describing Hamoui as a founder (not an investor), noted that
 [^16]: "Handl Health secures $2.5M in Seed Funding to drive innovation for the employer-sponsored benefits ecosystem," PR Newswire, April 24, 2024. https://www.prnewswire.com/news-releases/handl-health-secures-2-5m-in-seed-funding-to-drive-innovation-for-the-employer-sponsored-benefits-ecosystem-302124817.html
 [^17]: "E-Commerce Logistics Leader FlavorCloud Raises $6.3M in Series A Round to Fuel Rapid Growth," PR Newswire, April 2021. https://www.prnewswire.com/news-releases/e-commerce-logistics-leader-flavorcloud-raises-6-3m-in-series-a-round-to-fuel-rapid-growth-301277478.html
 [^18]: Mucker Capital website, "Our Ethos" and portfolio company pages, accessed April 2026. https://mucker.com/our-ethos/
+[^19]: "dash.fi - Crunchbase Company Profile & Funding," Crunchbase, accessed April 2026. Records a $3.2M Seed round on September 6, 2021 from Mucker Capital; dash.fi is a fintech offering a charge card for digital ad spend. https://www.crunchbase.com/organization/getdashfi
+[^20]: "Atlanta-based Cove.tool Closes $5.7 Million Series A As They Work To Make Building Construction Greener," Hypepotamus, October 14, 2020. https://hypepotamus.com/news/atlanta-based-cove-tool-closes-5-7-million-series-a-as-they-work-to-make-building-construction-greener/
+[^21]: "Pitching tech to optimize building design for sustainability, Atlanta-based Cove.tool raises $5.7 million," TechCrunch, October 14, 2020. Confirms Mucker Capital led Series A and Omar Hamoui joined the cove.tool board. https://techcrunch.com/2020/10/14/pitching-tech-to-optimize-building-design-for-sustainability-atlanta-based-cove-tool-raises-5-7-million/
+[^22]: "New Orleans-based Resilia raises $8 million from Mucker Capital to make nonprofits more efficient," TechCrunch, May 12, 2020. Series A co-led by Mucker Capital and Callais Capital Management; William Hsu (Mucker co-founder) joined Resilia's board. https://techcrunch.com/2020/05/12/new-orleans-based-resilia-raises-8-million-from-mucker-capital-to-make-nonprofits-more-efficient/
+[^23]: "Resilia Raises $8M to Scale Impact in Philanthropy and Reduce Friction for Nonprofits," Business Wire, May 12, 2020. https://www.businesswire.com/news/home/20200512005692/en/Resilia-Raises-8M-Scale-Impact-Philanthropy-Reduce
