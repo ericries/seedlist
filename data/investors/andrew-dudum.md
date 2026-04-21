@@ -78,8 +78,8 @@ Based on 10 verified investments and advisory roles below, Dudum's portfolio rev
 | TalkIQ | Seed | ~2016 | Enterprise/AI | Acquired (Dialpad) | [^4] |
 | Terminal | Seed | ~2017 | HR Tech/Remote Work | Active | [^4] |
 | Summer Health | Seed | 2022 | Healthcare/Pediatrics | Active | [^6] |
-| Dutch | Unknown | ~2021 | Healthcare/Pet Telehealth | Active | [^6] |
-| Front of the Pack | Unknown | ~2021 | Healthcare/Pet Wellness | Active | [^6] |
+| Dutch | Seed | 2021 | Healthcare/Pet Telehealth | Active | [^6][^7][^8] |
+| Front of the Pack | Series A | 2021 | Healthcare/Pet Wellness | Active | [^6][^9][^10] |
 | Cherubic Ventures | Advisor | ~2018 | Venture Capital | Active | [^4] |
 | Stable Auto | Advisor | ~2019 | Automotive/EV Charging | Active | [^4] |
 
@@ -109,3 +109,7 @@ No independently sourced founder testimonials found. Andrew Dudum is primarily k
 [^4]: Andrew Dudum, PitchBook investor profile, accessed March 2026. https://pitchbook.com/profiles/investor/150930-01
 [^5]: "From Hims to Hers: How Andrew Dudum Created a $1.6 Billion Digital Health Company," Entrepreneur, 2021, accessed March 2026. https://www.entrepreneur.com/finance/from-hims-to-hers-how-andrew-dudum-created-a-16-billion/390917
 [^6]: Andrew Dudum, Crunchbase person profile, accessed March 2026. https://www.crunchbase.com/person/andrew-dudum
+[^7]: "Jimmy Fallon-endorsed Pet Telehealth Startup Dutch Closes $5 Million Seed Funding Round," Grit Daily, July 2021, accessed April 2026. https://gritdaily.com/jimmy-fallon-endorsed-pet-telehealth-startup-dutch-closes-5-million-seed-funding-round/
+[^8]: "Dutch raises $20M to scale its telemedicine platform for pets," TechCrunch, February 17, 2022, accessed April 2026. (References the prior $5M seed round led by Forerunner Ventures with Bling Capital and Trust Ventures.) https://techcrunch.com/2022/02/17/dutch-raises-20m-to-scale-its-telemedicine-platform-for-pets/
+[^9]: "Investors Give Lift to Pet Care Company Front of the Pack," Los Angeles Business Journal, July 26, 2021, accessed April 2026. https://labusinessjournal.com/news/2021/jul/26/investors-lift-pet-care-company-front-pack/
+[^10]: "Pet Health Startup Front Of The Pack Closes $10M Series A Funding Round," CARE for Pets, August 2021, accessed April 2026. https://www.pets.care/news/2021/08/pet-health-startup-front-of-the-pack-closes-10m-series-a-funding-round/

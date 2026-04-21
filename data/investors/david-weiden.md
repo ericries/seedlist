@@ -71,13 +71,13 @@ Based on 26 verified investments below, Weiden's actual investment behavior show
 | Fernish | 2020 | Series A | [^13] |
 | Azibo | 2020 | Seed | [^11] |
 | Fundbox | 2019 | Series C (follow-on) | [^9] |
-| Swift Financial | ~2015 | Unknown | [^6] |
+| Swift Financial | 2016-03-29 | Series D | [^6] [^21] [^22] |
 | Fundbox | 2015 | Series B (follow-on) | [^9] |
 | Roofstock | 2015 | Series A | [^14] |
 | Fundbox | 2014 | Series A | [^9] |
 | Upstart | ~2014 | Early stage | [^1] |
 | OnDeck Capital | ~2013 | Early stage | [^2] |
-| Nirvanix | ~2012 | Unknown | [^6] |
+| Nirvanix | 2012-05-03 | Series C | [^6] [^23] [^24] |
 | Okta | 2011 | Series B | [^15] |
 | GroupMe | 2011 | Series B | [^16] |
 | Yammer | ~2010 | Early stage | [^2] |
@@ -151,3 +151,7 @@ No independently sourced founder testimonials from portfolio company founders we
 [^18]: Jon Chu (@heyjchu) on X, August 6, 2024, accessed March 2026. https://x.com/heyjchu/status/1820949360227860485
 [^19]: Khosla Ventures, "CEO Summits," accessed March 2026. https://www.khoslaventures.com/entrepreneurs/ceo-summits
 [^20]: Money20/20 US 2018, "David Weiden schedule," accessed March 2026. https://money2020us2018.sched.com/speaker/david_weiden.1yd9f959
+[^21]: PRWeb, "Richard W. Vague Joins Swift Capital Board of Directors," March 2016, accessed April 2026. Confirms David Weiden (Khosla Ventures partner) on Swift Capital board alongside Tench Coxe (Sutter Hill), William F. Zuendt, and CEO Ed Harycki; identifies backers as Sutter Hill Ventures, Khosla Ventures, First Round Capital, and SV Angel. https://www.prweb.com/releases/2016/03/prweb13263351.htm
+[^22]: Crunchbase, "Swift Capital" company profile, accessed April 2026. Records Swift Financial's Series D round closed March 29, 2016 for $42.5M with participation from Sutter Hill Ventures, TriplePoint Capital, First Round Capital, and Khosla Ventures. https://www.crunchbase.com/organization/swift-capital
+[^23]: TechCrunch, "Khosla Leads $25M Round In Enterprise Cloud Storage Company Nirvanix," May 3, 2012, accessed April 2026. Confirms Series C round of $25M led by Khosla Ventures, with David Weiden quoted. https://techcrunch.com/2012/05/03/khosla-leads-25m-round-in-enterprise-cloud-storage-company-nirvanix/
+[^24]: PR Newswire, "Nirvanix Raises Over $25M Series C Round Led by Khosla Ventures," May 3, 2012, accessed April 2026. Primary press release confirming Series C, $25M, Khosla lead, with Valhalla Partners, Intel Capital, Mission Ventures, and Windward Ventures participating. https://www.prnewswire.com/news-releases/nirvanix-raises-over-25m-series-c-round-led-by-khosla-ventures-149984235.html

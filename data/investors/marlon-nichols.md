@@ -82,8 +82,8 @@ Primarily seed-stage. Of the 9 investments with documented round data from Signa
 | Mayvenn | Series A | 2015 | Commerce / beauty | Active | [^8] |
 | Mayvenn | Convertible Note | 2017 | Commerce / beauty | Active | [^8] |
 | PlayVS | Seed | ~2019 | Esports / gaming | Active | [^1] |
-| Gimlet Media | — | ~2016 | Media / podcasting | Acquired (Spotify) | [^1] |
-~unknown| MongoDB | — | — | Enterprise / database | IPO | [^1] |
+| Gimlet Media | Series B | 2017-08-02 | Media / podcasting | Acquired (Spotify) | [^1][^9][^10] |
+| MongoDB | Series E (Intel Capital) | 2013-10-04 | Enterprise / database | IPO | [^1][^11] |
 ~unknown| Thrive Market | — | — | Commerce / organic grocery | Active | [^1] |
 ~unknown| FINESSE | — | — | Fashion / AI | Active | [^1] |
 ~unknown| Airspace | — | — | Logistics | Active | [^1] |
@@ -101,7 +101,7 @@ Primarily seed-stage. Of the 9 investments with documented round data from Signa
 ~unknown| Our Place | — | — | Consumer / DTC cookware | Active | [^7] |
 ~unknown| Seed Health | — | — | Healthcare / microbiome | Active | [^7] |
 
-*Note: Many investment years could not be independently verified from available sources. MaC's full portfolio includes 238 companies per their website [^7]; this table represents approximately 10% of the total.*
+*Note: Many investment years could not be independently verified from available sources. MaC's full portfolio includes 238 companies per their website [^7]; this table represents approximately 10% of the total. The MongoDB entry reflects Intel Capital's participation in MongoDB's $150M Series E (October 2013) during Nichols' tenure as an Investment Director at Intel Capital [^11]; this was an Intel Capital investment, not a Cross Culture Ventures or MaC investment.*
 
 ## In Their Own Words
 
@@ -133,3 +133,6 @@ Andy Lapsa, CEO of Stoke Space, praised MaC's "first principles" thinking and in
 [^6]: dot.LA, "LA Venture: Marlon Nichols On His 'Glass-Half-Full' Mentality," accessed March 2026. https://dot.la/mac-venture-capital-2653455631.html
 [^7]: MaC Venture Capital website, portfolio page, accessed March 2026. https://macventurecapital.com/portfolio/
 [^8]: Signal by NFX, Marlon Nichols investor profile, accessed March 2026. https://signal.nfx.com/investors/marlon-nichols
+[^9]: TechCrunch, "Podcast network Gimlet Media scores $15 million in funding," August 2, 2017, accessed April 2026. https://techcrunch.com/2017/08/02/podcast-network-gimlet-media-scores-15-million-in-funding/
+[^10]: MaC Venture Capital, Gimlet portfolio page, accessed April 2026. https://macventurecapital.com/portfolio/gimlet/
+[^11]: TechCrunch, "MongoDB Raises $150M For NoSQL Database Technology With Salesforce Joining As Investor," October 4, 2013, accessed April 2026. https://techcrunch.com/2013/10/04/mongodb-raises-150m-for-nosql-database-technology-with-salesforce-joining-as-investor/
