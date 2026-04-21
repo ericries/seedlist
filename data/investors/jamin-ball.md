@@ -43,22 +43,23 @@ Regarding AI infrastructure, Ball has stated that data is a critical enabler, no
 
 ## Inferred Thesis
 
-Based on 14 verified investments where Ball has been personally attributed (across Altimeter and Redpoint), the following patterns emerge. Note: this represents investments specifically tied to Ball rather than Altimeter's full portfolio, so percentages should be interpreted as directional rather than exhaustive.
+Based on 15 verified investments where Ball has been personally attributed (across Altimeter and Redpoint), the following patterns emerge. Note: this represents investments specifically tied to Ball rather than Altimeter's full portfolio, so percentages should be interpreted as directional rather than exhaustive.
 
-**Sector distribution (14 verified investments):**
-- Data infrastructure: 6 of 14 (43%) — dbt Labs, ClickHouse, Airbyte, Tabular, MotherDuck, Hammerspace
-- Enterprise software / HR / fintech: 4 of 14 (29%) — Deel, Personio, Workato, Monte Carlo
-- Developer tools: 1 of 14 (7%) — Prisma
-- Real-time infrastructure: 1 of 14 (7%) — LiveKit
-- Healthcare: 1 of 14 (7%) — Cityblock Health
-- AI / biotech: 1 of 14 (7%) — Profluent
+**Sector distribution (15 verified investments):**
+- Data infrastructure: 6 of 15 (40%) — dbt Labs, ClickHouse, Airbyte, Tabular, Starburst, Hammerspace
+- Data observability: 1 of 15 (7%) — Monte Carlo
+- Enterprise software / HR: 3 of 15 (20%) — Deel, Personio, Workato
+- Developer tools: 1 of 15 (7%) — Prisma
+- Real-time infrastructure: 1 of 15 (7%) — LiveKit
+- Healthcare: 1 of 15 (7%) — Cityblock Health
+- Insurtech: 1 of 15 (7%) — Root Insurance
+- AI / biotech: 1 of 15 (7%) — Profluent
 
-**Stage distribution (14 verified investments):**
-- Series B: 7 of 14 (50%) — Airbyte, ClickHouse, Prisma, Tabular, LiveKit, Hammerspace, Profluent
-- Series D: 3 of 14 (21%) — dbt Labs, Deel, Starburst
-- Series E: 1 of 14 (7%) — Personio
-- Series C (at Redpoint): 1 of 14 (7%) — Workato
-- Stage unclear: 2 of 14 (14%) — Monte Carlo, Cityblock Health
+**Stage distribution (15 verified investments):**
+- Series B: 9 of 15 (60%) — Airbyte, ClickHouse, Prisma, Tabular, LiveKit, Hammerspace, Profluent, Monte Carlo, Cityblock Health
+- Series C: 2 of 15 (13%) — Workato, Root Insurance
+- Series D: 3 of 15 (20%) — dbt Labs, Deel, Starburst
+- Series E: 1 of 15 (7%) — Personio
 
 **Key patterns:**
 - **Data infrastructure dominance:** Nearly half of Ball's verified investments are in the data infrastructure space, making this a clear area of concentration that aligns with his stated thesis.
@@ -75,9 +76,9 @@ Based on 14 verified investments where Ball has been personally attributed (acro
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Workato | ~2019 | Series C | Enterprise integration | [^3] |
-| Monte Carlo | ~2019 | — | Data observability | [^3] |
-| Cityblock Health | ~2019 | — | Healthcare | [^3] |
-| Root Insurance | ~2019 | — | Insurtech | [^3] |
+| Monte Carlo | 2021 | Series B | Data observability | [^3] [^21] |
+| Cityblock Health | 2019 | Series B | Healthcare | [^3] [^22] |
+| Root Insurance | 2018 | Series C | Insurtech | [^3] [^23] |
 | Deel | 2021 | Series D | HR / global payroll | [^8] |
 | Airbyte | 2021 | Series B | Data integration | [^9] |
 | ClickHouse | 2021 | Series B | Database / analytics | [^10] |
@@ -90,7 +91,7 @@ Based on 14 verified investments where Ball has been personally attributed (acro
 | Hammerspace | 2025 | Series B | AI data infrastructure | [^5] |
 | Profluent | 2025 | Series B | AI / programmable biology | [^17] |
 
-Note: Workato, Monte Carlo, Cityblock Health, and Root Insurance were investments made while Ball was at Redpoint Ventures (2016-2021). Years for Redpoint investments are approximate based on his tenure. Tabular was acquired by Databricks in June 2024 for a reported ~$2 billion [^18]. Altimeter is also an investor in Databricks [^19].
+Note: Workato, Monte Carlo, Cityblock Health, and Root Insurance were investments made while Ball was at Redpoint Ventures (2016-2021). Tabular was acquired by Databricks in June 2024 for a reported ~$2 billion [^18]. Altimeter is also an investor in Databricks [^19].
 
 ## In Their Own Words
 
@@ -158,3 +159,6 @@ No independently sourced founder testimonials found. While Ball is widely recogn
 [^18]: TechCrunch, "Databricks reportedly paid $2 billion in Tabular acquisition," August 14, 2024. https://techcrunch.com/2024/08/14/databricks-reportedly-paid-2-billion-in-tabular-acquisition/
 [^19]: Jamin Ball (@jaminball), tweet congratulating Databricks, X/Twitter, accessed March 2026. https://x.com/jaminball/status/2001035650263666786
 [^20]: Jamin Ball, "Clouded Judgement 8.23.24 - Don't Wait," Clouded Judgement newsletter, August 23, 2024. https://cloudedjudgement.substack.com/p/clouded-judgement-82324-dont-wait
+[^21]: TechCrunch, "Monte Carlo raises $25M for its data observability service," February 9, 2021. Series B co-led by GGV Capital and Redpoint Ventures, with participation from Accel. https://techcrunch.com/2021/02/09/monte-carlo-raises-25m-for-its-data-observability-service/
+[^22]: TechCrunch, "Public health startup Cityblock raises $65M Series B," April 11, 2019. Series B led by Redpoint Ventures, with participation from 8VC, Echo Health Ventures, StartUp Health, Sidewalk Labs, Thrive Capital, Maverick Ventures, Town Hall Ventures, and EmblemHealth. https://techcrunch.com/2019/04/11/public-health-startup-cityblock-raises-65m-series-b/
+[^23]: FinTech Global, "Root Insurance collects $51m Series C led by Redpoint," March 28, 2018. Series C led by Redpoint Ventures, with participation from Scale Venture Partners, Ribbit Capital, and Silicon Valley Bank Capital Partners. https://fintech.global/2018/03/28/root-insurance-collects-51m-series-c-led-by-redpoint/

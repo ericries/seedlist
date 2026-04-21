@@ -4,8 +4,8 @@ firm: battery-ventures
 last_researched: 2026-03-20
 last_verified_investment:
   company: Lindy
-  date: 2025
-  round: Growth
+  date: 2021-07-26
+  round: Series B
 location: Boston, MA
 name: Neeraj Agrawal
 role: General Partner
@@ -81,7 +81,7 @@ This table includes 39 verified investments (28 current portfolio + 11 IPO exits
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-~unknown| Lindy | Growth | — | AI | Active | [^1] |
+| Lindy (fka Teamflow) | Series B | 2021-07-26 | AI | Active | [^7] |
 ~unknown| 1mind | — | — | AI | Active | [^1] |
 ~unknown| AssistIQ | — | — | AI/Healthcare | Active | [^1] |
 ~unknown| Bitwarden | — | — | Security | Active | [^1] |
@@ -97,7 +97,7 @@ This table includes 39 verified investments (28 current portfolio + 11 IPO exits
 ~unknown| Harness | — | — | DevOps | Active | [^1] |
 ~unknown| Letter AI | — | — | AI | Active | [^1] |
 ~unknown| Level AI | — | — | AI | Active | [^1] |
-| LogRocket | — | ~2019 | Developer Tools | Active | [^1] |
+| LogRocket | Series B | 2019-11-07 | Developer Tools | Active | [^8] |
 ~unknown| Mattermost | — | — | Enterprise SaaS | Active | [^1] |
 ~unknown| Nobl9 | — | — | Infrastructure | Active | [^1] |
 | Pendo | Series A | 2015 | Enterprise SaaS | Active | [^6] |
@@ -107,7 +107,7 @@ This table includes 39 verified investments (28 current portfolio + 11 IPO exits
 ~unknown| Sisense | — | — | Analytics | Active | [^1] |
 | Sprinklr | Growth | ~2011 | Enterprise SaaS | Public (NYSE: CXM) | [^1] |
 ~unknown| Tealium | — | — | MarTech | Active | [^1] |
-| Workato | — | ~2018 | Enterprise SaaS | Active | [^1] |
+| Workato | Series B | 2018-12-05 | Enterprise SaaS | Active | [^9] |
 ~unknown| Wunderkind | — | — | MarTech | Active | [^1] |
 ~unknown| Amplitude | Growth | — | Analytics | Public (NASDAQ: AMPL) | [^1] |
 ~unknown| Bazaarvoice | — | — | Enterprise SaaS | Public (acquired) | [^1] |
@@ -149,3 +149,6 @@ No other independently sourced founder testimonials found that specifically refe
 [^4]: Force Management, "The Busiest Man in Venture Capital with Neeraj Agrawal," Revenue Builders podcast, accessed March 2026. https://www.forcemanagement.com/the-busiest-man-in-venture-capital-with-neeraj-agrawal
 [^5]: Signal by NFX, "Neeraj Agrawal's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/neeraj-agrawal
 [^6]: Pendo, "Pendo Raises $11 Million in Series A Financing Led by Battery Ventures," October 28, 2015, accessed March 2026. https://www.pendo.io/news/pendo-raises-11-million-in-series-a-financing-led-by-battery-ventures/
+[^7]: Teamflow blog, "Teamflow Raises $35M Series B," July 26, 2021, accessed April 2026. https://www.teamflowhq.com/blog/teamflow-raises-35m-series-b (Coatue-led; Battery Ventures' Neeraj Agrawal and Brandon Gleklen participated. Teamflow later pivoted to Lindy under the same legal entity, as noted in Battery's portfolio page: https://www.battery.com/company/lindy/)
+[^8]: TechCrunch, "LogRocket lands $15M Series B, announces new tool to track customer metrics," November 7, 2019, accessed April 2026. https://techcrunch.com/2019/11/07/logrocket-lands-15m-series-b-announces-new-tool-to-track-customer-metrics/ (Battery Ventures led; Neeraj Agrawal joined board.)
+[^9]: Workato press release via PR Newswire, "Workato Secures $25M in Funding to Transform Digital Businesses Through Intelligent Automation," December 5, 2018, accessed April 2026. https://www.prnewswire.com/news-releases/workato-secures-25m-in-funding-to-transform-digital-businesses-through-intelligent-automation-300760450.html (Battery Ventures led; Storm Ventures, ServiceNow, Workday Ventures participated.)

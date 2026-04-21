@@ -93,9 +93,9 @@ The analysis below is based on 22 verified investments attributed to Kurzweil ac
 | PagerDuty | Series A+ | ~2013 | Enterprise SaaS | IPO 2019 | [^5][^6] |
 | Intercom | Series A | ~2014 | Enterprise SaaS | Active | [^5][^6] |
 | Twitch | Early Stage | ~2012 | Consumer/Gaming | Acq. by Amazon 2014 | [^5][^7] |
-| SendGrid | Growth | — | Developer Platform | IPO 2017, Acq. by Twilio | [^5][^6] |
-| Twilio | Growth | — | Developer Platform | IPO 2016 | [^5][^10] |
-~unknown| LaunchDarkly | Series B+ | — | Developer Tools | Active | [^5] |
+| SendGrid | Series B | 2012-01-17 | Developer Platform | IPO 2017, Acq. by Twilio | [^5][^6][^11][^12][^13] |
+| Twilio | Series B | 2010 | Developer Platform | IPO 2016 | [^5][^10][^14] |
+| LaunchDarkly | Series C | 2019-03-13 | Developer Tools | Active | [^5][^15][^16][^17] |
 ~unknown| Life360 | Early Stage | — | Consumer/Mobile | IPO | [^7] |
 ~unknown| Piazza | Early Stage | — | Consumer/EdTech | Active | [^7] |
 ~unknown| Playdom | Early Stage | — | Gaming | Acq. by Disney | [^7] |
@@ -139,3 +139,10 @@ No independently sourced founder testimonials found. Kurzweil's portfolio founde
 [^8]: "The Series A Landscape in 2025: Insights from Chemistry VC's Ethan Kurzweil," SaaStr, accessed March 2026. https://www.saastr.com/the-series-a-landscape-in-2025-insights-from-chemistry-vcs-ethan-kurzweil/
 [^9]: "Bessemer's Ethan Kurzweil on raising capital," The Intercom Blog podcast, accessed March 2026. https://www.intercom.com/blog/podcasts/podcast-ethan-kurzweil-on-raising-capital/
 [^10]: "Ethan Kurzweil, Investor Profile," Evalyze.ai, accessed March 2026. https://www.evalyze.ai/investors/ethan-kurzweil
+[^11]: "SendGrid Investment Memo," Bessemer Venture Partners, dated December 16, 2011 (Series B closed January 2012); co-authored by Byron Deeter, Ethan Kurzweil, Peter Lee, Rahul Jaswa & Jeff Epstein. Accessed April 2026. https://www.bvp.com/memos/sendgrid
+[^12]: "SendGrid gets $21M in capital, led by Bessemer," VatorNews, January 17, 2012. Accessed April 2026. https://vator.tv/2012-01-17-sendgrid-gets-21m-in-capital-led-by-bessemer/
+[^13]: "SendGrid raises $21M from Bessemer, Foundry, others to make automated e-mails painless," VentureBeat, January 17, 2012. Accessed April 2026. https://venturebeat.com/2012/01/17/sendgrid-funding-bessemer-foundry
+[^14]: "An inside look at our investment process for Twilio," Bessemer Venture Partners (Ethan Kurzweil, April 2017) — documents Bessemer's Seed (2009), Series B (2010), and Series C (2011) investments; Kurzweil served as Twilio board observer 2010-2016. Accessed April 2026. https://www.bvp.com/atlas/an-inside-look-at-our-investment-process-for-twilio
+[^15]: "Bessemer leads LaunchDarkly's $44 million Series C," Bessemer Venture Partners (Ethan Kurzweil, March 13, 2019). Accessed April 2026. https://www.bvp.com/news/bessemer-series-c-investment-launchdarkly
+[^16]: "LaunchDarkly, #1 Feature Management Platform, Gets $44M in Series C Funding," LaunchDarkly blog, March 13, 2019. Accessed April 2026. https://launchdarkly.com/blog/launchdarkly-1-feature-management-platform-gets-44m-in-series-c-funding/
+[^17]: "LaunchDarkly Closes $44M Series C Funding Round," FinSMEs, March 2019. Accessed April 2026. https://www.finsmes.com/2019/03/launchdarkly-closes-44m-series-c-funding-round.html
