@@ -20,6 +20,30 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
+    testing
+  url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
+  source: eu-startups
+  date_found: '2026-04-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile orangeqs.md; €15M seed extension announced 2026-04-21;
+    EU-Startups direct fetch 403, cited with prior €12M seed context from OrangeQS
+    and Innovationquarter press releases; no firm slugs added (Dutch quantum investors
+    not yet profiled)
+- title: Warsaw’s Zynt raises €424.4k pre-Seed to sharpen AI-powered B2B sales intelligence
+  url: https://www.eu-startups.com/2026/04/warsaws-zynt-raises-e424-4k-pre-seed-to-sharpen-ai-powered-b2b-sales-intelligence/
+  source: eu-startups
+  date_found: '2026-04-21'
+  parsed_company: Warsaw’s Zynt
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile zynt.md; €424.4K pre-seed announced 2026-04-21;
+    Warsaw-based AI B2B sales intelligence platform founded by Cezar Reszel (ex-Booksy);
+    no investor names surfaced in available sources
 - title: Swiss startup Planetary raises nearly €23 million to build the industrial
     backbone of the bioeconomy
   url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
@@ -934,21 +958,3 @@ pending_rounds:
   parsed_round: Series A
   status: skipped
   skip_reason: duplicate; critical-loop.md already exists from earlier processing
-- title: Neato raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-14'
-  parsed_company: Neato
-  parsed_amount: $25M
-  parsed_round: null
-  status: processed
-  notes: created startup profile neato.md
-- title: Helical raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-14'
-  parsed_company: Helical
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile helical.md
