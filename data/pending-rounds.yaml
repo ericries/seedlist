@@ -123,6 +123,18 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: Duplicate; ethermed.md already exists from AlleyWatch feed
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/20/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-20-2026/
+  source: alleywatch
+  date_found: '2026-04-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: Only round in the 4/20 daily report is Ciphero ($3.25M per SEC filing, no
+    announcement date, no confirmed investors). Appears to be a Form D filing related
+    to or extending the $2.5M pre-seed announced Dec 2025. Not creating a profile
+    — no announcement date and no official press release. Monitor for formal announcement.
 - title: u003e raised $150M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -940,12 +952,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile helical.md
-- title: Replenit raised $2.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-14'
-  parsed_company: Replenit
-  parsed_amount: $2.5M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate; replenit.md already exists from earlier processing
