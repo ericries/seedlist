@@ -11138,6 +11138,154 @@
           "firm": "ggv-capital"
         }
       ]
+    },
+    {
+      "id": "curated-42",
+      "name": "The Goldman Pipeline",
+      "tagline": "From 200 West Street to Sand Hill Road \u2014 Goldman Sachs alumni who turned investment banking training into venture capital careers.",
+      "type": "curated",
+      "size": 14,
+      "members": [
+        {
+          "slug": "divesh-makan",
+          "name": "Divesh Makan",
+          "firm": "iconiq-growth"
+        },
+        {
+          "slug": "henry-ellenbogen",
+          "name": "Henry Ellenbogen",
+          "firm": "durable-capital-partners"
+        },
+        {
+          "slug": "josh-kushner",
+          "name": "Joshua Kushner",
+          "firm": "thrive-capital"
+        },
+        {
+          "slug": "dan-morehead",
+          "name": "Dan Morehead",
+          "firm": "pantera-capital"
+        },
+        {
+          "slug": "fred-ehrsam",
+          "name": "Fred Ehrsam",
+          "firm": "paradigm"
+        },
+        {
+          "slug": "nigel-morris",
+          "name": "Nigel Morris",
+          "firm": "qed-investors"
+        },
+        {
+          "slug": "rana-yared",
+          "name": "Rana Yared",
+          "firm": "balderton-capital"
+        },
+        {
+          "slug": "david-velez",
+          "name": "David V\u00e9lez",
+          "firm": "nubank"
+        },
+        {
+          "slug": "glenn-solomon",
+          "name": "Glenn Solomon",
+          "firm": "notable-capital"
+        },
+        {
+          "slug": "jeff-horing",
+          "name": "Jeff Horing",
+          "firm": "insight-partners"
+        },
+        {
+          "slug": "nasir-qadree",
+          "name": "Nasir Qadree",
+          "firm": "zeal-capital-partners"
+        },
+        {
+          "slug": "tom-loverro",
+          "name": "Tom Loverro",
+          "firm": "ivp"
+        },
+        {
+          "slug": "mike-novogratz",
+          "name": "Mike Novogratz",
+          "firm": "galaxy-digital"
+        },
+        {
+          "slug": "gaetano-crupi",
+          "name": "Gaetano Crupi",
+          "firm": "us-innovative-technology-fund"
+        }
+      ]
+    },
+    {
+      "id": "curated-43",
+      "name": "The Defense Tech Vanguard",
+      "tagline": "They bet on Anduril before it was cool \u2014 investors who saw defense tech as venture-scale before the geopolitical shift made it obvious.",
+      "type": "curated",
+      "size": 12,
+      "members": [
+        {
+          "slug": "palmer-luckey",
+          "name": "Palmer Luckey",
+          "firm": "anduril-industries"
+        },
+        {
+          "slug": "trae-stephens",
+          "name": "Trae Stephens",
+          "firm": "founders-fund"
+        },
+        {
+          "slug": "joe-lonsdale",
+          "name": "Joe Lonsdale",
+          "firm": "8vc"
+        },
+        {
+          "slug": "katherine-boyle",
+          "name": "Katherine Boyle",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "david-ulevitch",
+          "name": "David Ulevitch",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "josh-wolfe",
+          "name": "Josh Wolfe",
+          "firm": "lux-capital"
+        },
+        {
+          "slug": "brandon-reeves",
+          "name": "Brandon Reeves",
+          "firm": "lux-capital"
+        },
+        {
+          "slug": "bilal-zuberi",
+          "name": "Bilal Zuberi",
+          "firm": "lux-capital"
+        },
+        {
+          "slug": "shaun-maguire",
+          "name": "Shaun Maguire",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "grant-verstandig",
+          "name": "Grant Verstandig",
+          "firm": "red-cell-partners"
+        },
+        {
+          "slug": "peter-tague",
+          "name": "Peter Tague",
+          "firm": "us-innovative-technology-fund"
+        },
+        {
+          "slug": "eric-schmidt",
+          "name": "Eric Schmidt",
+          "firm": "innovation-endeavors"
+        }
+      ]
     }
   ]
 }

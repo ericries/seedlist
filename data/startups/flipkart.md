@@ -175,8 +175,8 @@ Flipkart is an Indian e-commerce company founded in October 2007 by Sachin Bansa
 | Series C-2 | Aug 2012 | $150M | Naspers (MIH) | ICONIQ Capital [^1] |
 | Series D | May 2014 | $210M | DST Global | Tiger Global, Naspers, ICONIQ Capital [^1] |
 | Series D-2 | Jul 2014 | $1B | Tiger Global | Accel Partners, Morgan Stanley, GIC [^1][^4] |
-| Series E | Dec 2014 | $700M | — | Baillie Gifford, Greenoaks Capital, Steadview Capital, T. Rowe Price, Qatar Investment Authority, DST Global, GIC, ICONIQ Capital, Tiger Global [^1] |
-| Series H | Apr 2017 | $1.4B | — | Tencent, eBay, Microsoft [^1][^5] |
+| Series E | 2014-12-20 | $700M | DST Global, Tiger Global, GIC, ICONIQ Capital | Baillie Gifford, Greenoaks Capital, Steadview Capital, T. Rowe Price, Qatar Investment Authority [^1][^9][^10] |
+| Series H | 2017-04-10 | $1.4B | Tencent, eBay, Microsoft | Tiger Global, Naspers, Accel, DST Global [^1][^5][^11][^12] |
 | Series I | Aug 2017 | $2.5B | SoftBank Vision Fund | — [^5][^6] |
 | Series J | Jul 2021 | $3.6B | GIC, CPP Investments, SoftBank Vision Fund 2, Walmart | Tencent, Tiger Global, Qatar Investment Authority, Franklin Templeton, Antara Capital, Willoughby Capital [^7][^8] |
 | Latest | May 2024 | $350M | Google | — [^3] |
@@ -199,3 +199,7 @@ Binny Bansal described the Walmart sale process in a 2019 CNBC interview [^2]. S
 [^6]: "Flipkart gets fortified by Softbank's $2.5bn, biggest private investment in Indian tech company," Business Today, accessed March 2026. https://www.businesstoday.in/current/corporate/flipkart-softbank-investment-funded-billion/story/258206.html
 [^7]: "Flipkart Raises US$3.6 Billion in Funding," Walmart Corporate, July 12, 2021, accessed March 2026. https://corporate.walmart.com/news/2021/07/12/flipkart-raises-us-3-6-billion-in-funding-to-accelerate-the-growth-of-the-consumer-internet-ecosystem-in-india
 [^8]: "Flipkart valued at $37.6 billion in new $3.6 billion fundraise," TechCrunch, July 11, 2021, accessed March 2026. https://techcrunch.com/2021/07/11/flipkart-valued-at-37-6-billion-in-new-3-6-billion-fundraise/
+[^9]: "India's E-Commerce Giant Flipkart Replenishes Its War Chest With New $700M Round," TechCrunch, December 20, 2014, accessed April 2026. https://techcrunch.com/2014/12/20/flipkart-700-million/
+[^10]: "Flipkart raises $700 million; $1.91 billion raised in 2014," MediaNama, December 22, 2014, accessed April 2026. https://www.medianama.com/2014/12/223-flipkart-funding-2014/
+[^11]: "Flipkart raises $1.4 billion from eBay, Microsoft and Tencent at an $11.6 billion valuation," TechCrunch, April 10, 2017, accessed April 2026. https://techcrunch.com/2017/04/10/flipkart-1-4-billion/
+[^12]: "Flipkart raises $1.4B from Tencent, eBay & Microsoft and acquires eBay India," Accel, April 10, 2017, accessed April 2026. https://www.accel.com/noteworthies/flipkart-raises-1-4b-from-tencent-ebay-microsoft-and-acquires-ebay-india

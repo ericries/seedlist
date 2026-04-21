@@ -108,8 +108,8 @@ Deliveroo is a food delivery platform founded in 2013 in London by Will Shu and 
 | Aug 2016 | Series E | $275M | Bridgepoint | DST Global, General Catalyst, Greenoaks Capital [^6] |
 | Sep 2017 | Series F | $385M | T. Rowe Price, Fidelity (co-lead) | DST Global, General Catalyst, Index Ventures, Accel [^7] |
 | May 2019 | Series G | $575M | Amazon | T. Rowe Price, Fidelity, Greenoaks [^8] |
-| Jan 2021 | Series H | $180M | — | Existing investors [^4] |
-| Mar 2021 | IPO | £1.5B raised | — | London Stock Exchange at 390p/share [^2] |
+| 2021-01-17 | Series H | $180M | Durable Capital Partners, Fidelity Management & Research | Existing investors [^4][^9][^10] |
+| 2021-03-31 | IPO | £1.5B raised | Goldman Sachs, JPMorgan | Bank of America Merrill Lynch, Citi, Jefferies, Numis [^2][^11][^12] |
 
 Total pre-IPO funding raised: approximately $1.53 billion [^4]. Acquired by DoorDash in October 2025 for $3.9 billion [^3].
 
@@ -131,3 +131,7 @@ No independently sourced founder testimonials found.
 [^6]: TechCrunch, "Food startup Deliveroo raises $275M as Uber eats into its European market," August 5, 2016, accessed March 2026. https://techcrunch.com/2016/08/05/food-startup-deliveroo-raises-275m-as-uber-eats-into-its-european-market/
 [^7]: TechCrunch, "Deliveroo raises $385M in new funding, now valued at 'over $2 Billion'," September 24, 2017, accessed March 2026. https://techcrunch.com/2017/09/24/deliveroo-raises-385m/
 [^8]: TechCrunch, "Amazon leads $575M investment in Deliveroo," May 16, 2019, accessed March 2026. https://techcrunch.com/2019/05/16/amazon-takes-a-bite-into-deliveroo/
+[^9]: UK Tech News, "Roofoods (t/a Deliveroo) secures £132.6 million Series H investment led by Durable Capital Partners and Fidelity Management & Research Company," January 17, 2021, accessed April 2026. https://www.uktechnews.info/2021/01/17/roofoods-t-a-deliveroo-secures-132-6-million-series-h-investment-led-by-durable-capital-partners-and-fidelity-management-research-company/
+[^10]: FoodBev Media, "Deliveroo completes Series H funding round, now valued at over $7bn," January 18, 2021, accessed April 2026. https://www.foodbev.com/news/deliveroo-completes-series-h-funding-round-now-valued-at-over-7bn
+[^11]: CNBC, "Deliveroo IPO: Amazon-backed firm starts trading in London today," March 31, 2021, accessed April 2026. https://www.cnbc.com/2021/03/31/deliveroo-ipo-amazon-backed-firm-starts-trading-in-london-today.html
+[^12]: CNN Business, "Amazon-backed Deliveroo crashes in London IPO," March 31, 2021, accessed April 2026. https://www.cnn.com/2021/03/31/investing/deliveroo-london-ipo/index.html
