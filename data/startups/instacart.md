@@ -153,7 +153,9 @@ Instacart is a grocery delivery and pickup platform founded in 2012 by Apoorva M
 
 Mehta initially missed the Y Combinator application deadline but secured an investment after using the Instacart app to send a six-pack of beer to a Y Combinator partner [^1]. The company went on to raise over $2.9 billion across 17 funding rounds [^2].
 
-Instacart went public on September 19, 2023, raising $660 million in its IPO on the Nasdaq at $30 per share, valuing the company at approximately $10 billion [^3]. This was a significant markdown from its peak private valuation of $39 billion in March 2021 [^4]. Mehta left the company after it went public [^3].
+Instacart went public on September 19, 2023, raising $660 million in its IPO on the Nasdaq under the ticker "CART" at $30 per share, valuing the company at approximately $9.9 billion on a fully diluted basis [^3][^14][^15]. Goldman Sachs and J.P. Morgan served as lead book-running managers, with BofA Securities, Barclays, and Citigroup as additional book-runners [^14][^15]. This was a significant markdown from its peak private valuation of $39 billion in March 2021 [^4]. Mehta left the company after it went public [^3].
+
+The December 2014 Series C was led by Kleiner Perkins Caufield & Byers, initially reported at over $100 million on a $2 billion valuation [^16], and ultimately closing at $220 million in January 2015 with participation from Comcast Ventures, Dragoneer Investment Group, Thrive Capital, Valiant Capital, and existing backers Andreessen Horowitz, Khosla Ventures, and Sequoia [^17]. The April 2018 Series E extension added $150 million led by Coatue Management at a $4.35 billion valuation, bringing the total Series E to $350 million; participants included Sequoia Capital, Andreessen Horowitz, Glade Brook Capital Partners, Kleiner Perkins, Khosla Ventures, and Thrive Capital [^8][^18].
 
 Instacart is headquartered in San Francisco, California and serves customers across the United States and Canada [^1].
 
@@ -164,17 +166,17 @@ Instacart is headquartered in San Francisco, California and serves customers acr
 | Seed | 2012 | $2.3M | Y Combinator | Khosla Ventures, Kleiner Perkins, Canaan Partners, Collab Fund |
 | Series A | Jul 2013 | $8.5M | Sequoia Capital | SV Angel |
 | Series B | Jun 2014 | $44M | Andreessen Horowitz | American Express Ventures, Sequoia Capital |
-| Series C | Dec 2014 | $100M | Undisclosed | Thrive Capital |
+| Series C | 2014-12-05 | $220M | Kleiner Perkins Caufield & Byers | Comcast Ventures, Dragoneer Investment Group, Thrive Capital, Valiant Capital, Andreessen Horowitz, Khosla Ventures, Sequoia Capital |
 | Series D | Mar 2017 | $400M | Sequoia Capital | Wellcome Trust, Y Combinator Continuity, Andreessen Horowitz, Khosla Ventures, Kleiner Perkins, Initialized Capital, Thrive Capital, Valiant Capital |
 | Series E | Feb 2018 | $200M | Coatue Management | Glade Brook Capital |
-| Series E ext. | Apr 2018 | $150M | Coatue Management | — |
+| Series E ext. | 2018-04-05 | $150M | Coatue Management | Sequoia Capital, Andreessen Horowitz, Glade Brook Capital Partners, Kleiner Perkins, Khosla Ventures, Thrive Capital |
 | Series F | Oct 2018 | $600M | D1 Capital Partners | Tiger Global Management |
 | Series G | Jun 2020 | $225M | DST Global, General Catalyst | D1 Capital Partners |
 | Late Stage | Oct 2020 | $200M | D1 Capital Partners | Valiant Peregrine Fund |
 | Late Stage | Mar 2021 | $265M | Existing investors | Andreessen Horowitz, Sequoia, D1 Capital, Fidelity, T. Rowe Price |
-| IPO | Sep 2023 | $660M | — | Public offering on Nasdaq |
+| IPO | 2023-09-19 | $660M | Goldman Sachs, J.P. Morgan | BofA Securities, Barclays, Citigroup |
 
-Sources: [^2][^5][^6][^7][^8][^9][^10][^11]
+Sources: [^2][^5][^6][^7][^8][^9][^10][^11][^14][^15][^16][^17][^18]
 
 ## What Investors Say
 
@@ -209,3 +211,8 @@ On leadership: "I've counseled a lot of leaders at Instacart to think about the 
 [^11]: "Instacart raises $265M at a $39B valuation," TechCrunch, March 2, 2021, accessed March 2026. https://techcrunch.com/2021/03/02/instacart-raises-265m-at-a-39b-valuation/
 [^12]: "A Letter From Instacart Founder Apoorva Mehta," Instacart company blog, accessed March 2026. https://www.instacart.com/company/updates/a-letter-from-instacart-founder-apoorva-mehta
 [^13]: "Founder Story: Apoorva Mehta of Instacart," Frederick.ai, accessed March 2026. https://www.frederick.ai/blog/apoorva-mehta-instacart
+[^14]: "Instacart Announces Pricing of Initial Public Offering," Instacart press release, September 18, 2023, accessed April 2026. https://www.instacart.com/company/pressreleases/instacart-announces-pricing-of-initial-public-offering
+[^15]: "Cooley Advises Instacart on $660 Million IPO," Cooley LLP, September 19, 2023, accessed April 2026. https://www.cooley.com/news/coverage/2023/2023-09-19-cooley-advises-instacart-on-660-million-ipo
+[^16]: "Instacart Is Raising North Of $100 Million At A $2 Billion Valuation," TechCrunch, December 5, 2014, accessed April 2026. https://techcrunch.com/2014/12/05/instacart-2b-kleiner/
+[^17]: "Instacart raises $220 million investment," CNBC, January 12, 2015, accessed April 2026. https://www.cnbc.com/2015/01/12/instacart-raises-220-million-investment.html
+[^18]: "Instacart – $350 Million Series E," Cooley LLP, April 12, 2018, accessed April 2026. https://www.cooley.com/news/coverage/2018/2018-04-12-instacart-350-million-series-e

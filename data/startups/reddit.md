@@ -169,13 +169,13 @@ Reddit is a social news aggregation and discussion platform founded in June 2005
 | Round | Date | Amount | Lead Investor(s) | Notable Co-Investors |
 |-------|------|--------|-------------------|---------------------|
 | Seed | Jun 2005 | $100K | Y Combinator | — [^1][^2] |
-| Series A | Dec 2012 | $1M | — | — [^4] |
+| Series A | 2012-12 | $1M | Advance Publications | — [^4][^13] |
 | Series B | Sep 2014 | $50M | Sam Altman (Y Combinator) | Andreessen Horowitz, Sequoia Capital, Peter Thiel, Ron Conway, Jared Leto, Snoop Dogg, Josh Kushner, Jessica Livingston [^5][^6] |
-| Series C | Jul 2017 | $200M | — | Andreessen Horowitz, Sequoia, Coatue Management, Vy Capital, Fidelity, Sam Altman, Ron Conway [^4][^7] |
+| Series C | 2017-07-31 | $200M at $1.8B valuation | Andreessen Horowitz, Sequoia Capital | Coatue Management, Vy Capital, Fidelity, Sam Altman, Ron Conway [^7][^14] |
 | Series D | Feb 2019 | $300M | Tencent | Sequoia, Fidelity, Andreessen Horowitz, Quiet Capital, Vy Capital, Snoop Dogg [^8][^9] |
 | Series E | Feb 2021 | $367.9M | Vy Capital | Sam Altman ($50M individual investment) [^10][^11] |
 | Series F | Aug 2021 | $410M | Fidelity | Sam Altman ($10M individual investment) [^10][^12] |
-| IPO | Mar 2024 | — | NYSE: RDDT at $34/share | — [^3] |
+| IPO | 2024-03-21 | $748M total ($519M to Reddit, $229M to selling shareholders) at $34/share, $6.4B valuation | NYSE: RDDT | — [^15][^16] |
 
 ## What Investors Say
 
@@ -199,3 +199,7 @@ No independently sourced founder quotes found at this time.
 [^10]: "OpenAI CEO Sam Altman stands to net millions as Reddit goes public," CNBC, February 22, 2024, accessed March 2026. https://www.cnbc.com/2024/02/22/openai-ceo-sam-altman-stands-to-net-millions-as-reddit-goes-public.html
 [^11]: "Reddit has raised a Series E of over $250M led by Vy Capital at a $6B valuation," Digital Mobile World, February 2021, accessed March 2026. https://www.digitalmobileworld.net/2021/02/reddit-has-raised-series-e-of-over-250m.html
 [^12]: "Reddit is raising up to $700M in Series F funding," TechCrunch, August 12, 2021, accessed March 2026. https://techcrunch.com/2021/08/12/reddit-is-raising-up-to-700m-in-series-f-funding/
+[^13]: "Conde Nast (sorta) spins out Reddit," CBS News, accessed April 2026. Reddit was re-incorporated as an independent subsidiary of Advance Publications in 2011-2012; the $1M December 2012 Series A was funded by parent Advance Publications rather than a third-party VC lead. https://www.cbsnews.com/news/conde-nast-sorta-spins-out-reddit/
+[^14]: "Reddit just raised a new round that values the company at $1.8 billion," TechCrunch, July 31, 2017, accessed April 2026. "The funding comes from a group led by Andreessen Horowitz and Sequoia Capital, along with investment firm Vy Capital, Fidelity, and individual investors such as Y Combinator president Sam Altman and SV Angel founder Ron Conway." https://techcrunch.com/2017/07/31/reddit-just-raised-a-new-round-that-values-the-company-at-1-8-billion/
+[^15]: "Welcome to the market, RDDT! Reddit stock jumps on first day as a public company," CNN Business, March 21, 2024, accessed April 2026. https://www.cnn.com/2024/03/21/investing/reddit-ipo
+[^16]: "Reddit IPO: Shares Pop 48% in First Day of Trading, Internet Company Nets $519 Million," Variety, March 21, 2024, accessed April 2026. https://variety.com/2024/digital/news/reddit-ipo-stock-price-1235948162/

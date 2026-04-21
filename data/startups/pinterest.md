@@ -148,8 +148,8 @@ Pinterest went public on the New York Stock Exchange on April 18, 2019, under th
 | Series E | Oct 2013 | $225M | Fidelity Investments | Andreessen Horowitz, FirstMark, Bessemer, Valiant Capital [^9] | $3.8B |
 | Series F | May 2014 | $200M | SV Angel | Andreessen Horowitz, Fidelity, Bessemer, FirstMark, Valiant Capital [^10] | $5B |
 | Series G | Mar 2015 | $367M | Wellington Management, Goldman Sachs | Andreessen Horowitz, Bessemer, FirstMark, SV Angel, Valiant, Fidelity [^11] | $11B |
-| Series G ext. | May 2015 | $186M | — | Existing investors [^12] | — |
-| IPO | Apr 2019 | $1.4B | — | Public offering [^5] | $12.7B |
+| Series G ext. | 2015-05-08 | $186M | Wellington Management, Goldman Sachs | Andreessen Horowitz, Bessemer Venture Partners, FirstMark Capital, SV Angel, Valiant Capital Management, Fidelity Investments [^12][^16] | $11B |
+| IPO | 2019-04-18 | $1.43B | Goldman Sachs, J.P. Morgan, Allen & Company | BofA Merrill Lynch, Barclays, Citigroup, Credit Suisse, Deutsche Bank, RBC Capital Markets [^5][^17][^18] | $12.7B |
 
 SV Angel led Pinterest's Series F round in 2014 at a $5 billion valuation, coordinating the investment through a special purpose vehicle for its network [^10].
 
@@ -184,3 +184,6 @@ On product development: "I think anyone who makes products has this simultaneous
 [^13]: ZURB Soapbox, "Ron Conway — Investing with the Godfather of Silicon Valley," accessed March 2026. https://zurb.com/soapbox/ron-conway-zurbsoapbox-investing-with-the-godfather-of-silicon-valley
 [^14]: Inc., "How Fear of Embarrassment Kept Pinterest Alive," accessed March 2026. https://www.inc.com/christine-lagorio/pinterest-ben-silbermann-talks-building-his-company.html
 [^15]: BrainyQuote, "Ben Silbermann Quotes," accessed March 2026. https://www.brainyquote.com/authors/ben-silbermann-quotes
+[^16]: Recode, "Pinterest Adds $186 Million to Series G Round, Lets Employees Sell Shares," May 8, 2015. https://www.recode.net/2015/5/8/11562460/pinterest-adds-186-million-to-series-g-round-lets-employees-sell
+[^17]: Pinterest Investor Relations, "Pinterest Announces Pricing of Initial Public Offering," April 17, 2019. https://investor.pinterestinc.com/news-and-events/press-releases/press-releases-details/2019/Pinterest-Announces-Pricing-of-Initial-Public-Offering/default.aspx
+[^18]: TechCrunch, "Pinterest prices IPO above range," April 17, 2019. https://techcrunch.com/2019/04/17/pinterest-prices-ipo-above-range/
