@@ -44,6 +44,15 @@ pending_rounds:
   notes: created startup profile zynt.md; €424.4K pre-seed announced 2026-04-21; Warsaw-based
     AI B2B sales intelligence platform founded by Cezar Reszel (ex-Booksy); no investor
     names surfaced in available sources
+- title: London’s inploi raises €3.4 million to help enterprises automate high-volume
+    hiring with AI
+  url: https://www.eu-startups.com/2026/04/londons-inploi-raises-e3-4-million-to-help-enterprises-automate-high-volume-hiring-with-ai/
+  source: eu-startups
+  date_found: '2026-04-21'
+  parsed_company: London’s inploi
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Swiss startup Planetary raises nearly €23 million to build the industrial
     backbone of the bioeconomy
   url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
@@ -949,12 +958,3 @@ pending_rounds:
   parsed_round: Series B
   status: processed
   notes: created startup profile synera.md
-- title: Critical Loop raised $26M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-14'
-  parsed_company: Critical Loop
-  parsed_amount: $26M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: duplicate; critical-loop.md already exists from earlier processing
