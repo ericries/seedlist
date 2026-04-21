@@ -1,1 +1,5 @@
-priority: []
+priority:
+- slug: gv
+  type: firm
+  reason: appeared in Recursive Superintelligence Seed 2026-04-18 (M at $4B val)
+  added: '2026-04-21'
