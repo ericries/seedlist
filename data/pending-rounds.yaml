@@ -101,6 +101,24 @@ pending_rounds:
   parsed_round: Pre-Seed
   status: skipped
   skip_reason: fund announcement, not startup round
+- title: 'Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing
+    Faster And Easier In The AI Era'
+  url: https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/
+  source: crunchbase
+  date_found: '2026-04-21'
+  parsed_company: Schematic
+  parsed_amount: $6.5M
+  parsed_round: null
+  status: pending
+- title: UK wealth lending startup Firenze raises €6.8 million to increase team amid
+    rising demand
+  url: https://www.eu-startups.com/2026/04/uk-wealth-lending-startup-firenze-raises-e6-8-million-to-increase-team-amid-rising-demand/
+  source: eu-startups
+  date_found: '2026-04-21'
+  parsed_company: UK wealth lending startup Firenze
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Swiss startup Planetary raises nearly €23 million to build the industrial
     backbone of the bioeconomy
   url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
@@ -949,23 +967,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: Italian deeptech company; outside primary US focus
-- title: 'Correction: Oxford Lane Capital Corp. Announces Redemption of 2,800,000
-    Shares of 6.25% Series 2027 Term Preferred Stock'
-  url: https://www.globenewswire.com/news-release/2026/04/13/3272884/0/en/Correction-Oxford-Lane-Capital-Corp-Announces-Redemption-of-2-800-000-Shares-of-6-25-Series-2027-Term-Preferred-Stock.html
-  source: globenewswire
-  date_found: '2026-04-14'
-  parsed_company: 'Correction: Oxford Lane Capital Corp.'
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: share redemption/corporate action, not a startup round
-- title: AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume
-    Falls Sharply
-  url: https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: roundup/summary article about Europe funding trends
