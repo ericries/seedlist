@@ -126,15 +126,15 @@ Airtable is a no-code/low-code platform that combines the functionality of a spr
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Feb 2015 | — | Caffeinated Capital | DCVC, Tuesday Capital, BoxGroup | — |
-| Series A | Jun 2015 | — | CRV | Freestyle Capital, Founder Collective | — |
-| Series B | Mar 2018 | $52M | CRV, Caffeinated Capital | Freestyle Capital, Slow Ventures | — |
-| Series C | Nov 2018 | $100M | Thrive Capital, Benchmark, Coatue | CRV, Caffeinated Capital | $1.1B |
-| Series D | Sep 2020 | $185M | Thrive Capital | Benchmark, Coatue, Caffeinated Capital, CRV, D1 Capital Partners | $2.6B |
-| Series E | Mar 2021 | $270M | Greenoaks Capital | WndrCo, Caffeinated Capital, CRV, Thrive Capital | $5.8B |
-| Series F | Dec 2021 | $735M | XN | Franklin Templeton, J.P. Morgan, MSD Capital, Salesforce Ventures, Silver Lake, T. Rowe Price, Benchmark, Caffeinated Capital, Coatue, D1 Capital, Greenoaks, ICONIQ Growth, Thrive Capital | $11B |
+| Seed | 2015-02-25 | $3M | Caffeinated Capital | Freestyle Capital, Data Collective, CrunchFund, BoxGroup | — |
+| Series A | 2015-06-29 | $7.6M | CRV | Ashton Kutcher, Ilya Sukhar, Joshua Reeves, Kevin Mahaffey, Othman Laraki | $30M [^9][^10] |
+| Series B | 2018-03-15 | $52M | CRV, Caffeinated Capital | Freestyle Capital, Slow Ventures | — |
+| Series C | 2018-11-15 | $100M | Thrive Capital, Benchmark, Coatue | CRV, Caffeinated Capital | $1.1B |
+| Series D | 2020-09-14 | $185M | Thrive Capital | Benchmark, Coatue, Caffeinated Capital, CRV, D1 Capital Partners | $2.6B |
+| Series E | 2021-03-15 | $270M | Greenoaks Capital | WndrCo, Caffeinated Capital, CRV, Thrive Capital | $5.8B |
+| Series F | 2021-12-14 | $735M | XN | Franklin Templeton, J.P. Morgan, MSD Capital, Salesforce Ventures, Silver Lake, T. Rowe Price, Benchmark, Caffeinated Capital, Coatue, D1 Capital, Greenoaks, ICONIQ Growth, Thrive Capital | $11B |
 
-Sources: [^2][^3][^4][^5][^6][^7][^8]
+Sources: [^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12]
 
 ## What Investors Say
 
@@ -154,3 +154,7 @@ No independently sourced founder testimonials found.
 [^6]: TechCrunch, "Airtable raises $185M and launches new low-code and automation features," September 2020. https://techcrunch.com/2020/09/14/airtable-raises-185m-and-launches-new-low-code-and-automation-features/
 [^7]: TechCrunch, "Airtable is now valued at $5.77B with a fresh $270 million in Series E funding," March 2021. https://techcrunch.com/2021/03/15/airtable-is-now-valued-at-5-77b-with-a-fresh-270-million-in-series-e-funding/
 [^8]: Airtable Blog, "Announcing Airtable's Series F Funding," December 2021. https://blog.airtable.com/announcing-airtables-series-f-funding/
+[^9]: TechCrunch, "With $3M In Funding, Airtable Makes Complex Databases Usable On Your Mobile Phone," February 25, 2015, accessed April 2026. https://techcrunch.com/2015/02/25/airtable/
+[^10]: SiliconANGLE, "Airtable gets $7.6M to reimagine the database," June 30, 2015, accessed April 2026. https://siliconangle.com/2015/06/30/airtable-gets-7-6m-to-reimagine-the-database/
+[^11]: Crunchbase, "Airtable Series A Funding Round, 2015-06-29," accessed April 2026. https://www.crunchbase.com/funding_round/airtable-series-a--96c0ae90
+[^12]: TechCrunch, "Airtable raises $52M to give non-coders tools to build complex software," March 15, 2018, accessed April 2026. https://techcrunch.com/2018/03/15/airtable-raises-52m-to-give-non-coders-tools-to-build-complex-software/

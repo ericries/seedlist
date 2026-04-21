@@ -109,15 +109,15 @@ At Samsung Next, Lee oversees a broad portfolio with emphasis on AI and emerging
 | Coinbase | ~2012 | Seed | Via SV Angel [^5] |
 | Slack | ~2013 | Seed | Via SV Angel [^1] |
 | DoorDash | 2013 | Seed | Via SV Angel [^2] |
-~unknown| Oscar Health | — | Seed | Via SV Angel [^1][^5] |
+| Oscar Health | 2013 | Series A | Via SV Angel [^1][^5][^16] |
 ~unknown| Flatiron Health | — | Seed | Via SV Angel [^1][^5] |
 ~unknown| Climate Corporation | — | Seed | Via SV Angel [^1][^5] |
 ~unknown| Product Hunt | — | Seed | Via SV Angel [^4] |
 | Clover Health | 2016 | Series C | Via Refactor Capital [^8] |
 | Astranis | 2016 | Seed | Via Refactor Capital [^8] |
 | Solugen | ~2017 | Seed | Via Refactor Capital [^8] |
-| Headspace | ~2017 | — | Via Refactor Capital [^8][^9] |
-| Checkerspot | ~2017 | — | Via Refactor Capital [^8][^9] |
+| Headspace | 2017 | Series B | Via Refactor Capital [^8][^9][^17] |
+| Checkerspot | 2018 | Seed | Via Refactor Capital [^8][^9][^18] |
 ~unknown| Able Health | — | Seed | Via Refactor Capital [^8] |
 ~unknown| Notable Labs | — | Seed | Via Refactor Capital [^1][^8] |
 ~unknown| PathAI | — | Seed | Via Refactor Capital [^8] |
@@ -221,3 +221,9 @@ No independently sourced founder testimonials found. Dedicated searches across T
 [^14]: Corporate Venturing Insider, "Episode 83: The Person Behind the Builder," accessed March 2026. https://cv-insider.com/episode/83-david-lee/
 
 [^15]: David Lee, "Things I've Learned – 6 Years," personal blog, daslee.me, accessed March 2026. https://daslee.me/5-years-post-mortem/
+
+[^16]: TechCrunch, "Thrive Capital's Kushner Looks To Build A Modern Health Insurer With $40M For Oscar," July 19, 2013, accessed April 2026. https://techcrunch.com/2013/07/19/kushner-oscar/
+
+[^17]: Crunchbase News, "Meditation App Headspace Secures $47.7M More In Funding, Filing Shows," noting the June 30, 2017 Series B round, accessed April 2026. https://news.crunchbase.com/startups/meditation-app-headspace-secures-47-7m-more-in-funding-filing-shows/
+
+[^18]: PR Newswire, "Checkerspot Closes $5 Million Series Seed Financing," June 20, 2018, accessed April 2026. https://www.prnewswire.com/news-releases/checkerspot-closes-5-million-series-seed-financing-300669130.html

@@ -76,10 +76,10 @@ The following is a selection of verified investments from Incite's portfolio pag
 | Mejuri | 2016 | Pre-Seed | Consumer / Jewelry | [^15] |
 | Carbon180 | ~2017 | Grant | Climate / Carbon Removal | [^4] |
 | SPAN | 2020 | Series A | Climate / Smart Energy | [^8] |
-| AMP Robotics | ~2020 | Unknown | Climate / Recycling | [^16] |
+| AMP Robotics | ~2020 | Growth (Series B/C) | Climate / Recycling | [^12][^16][^20] |
 | Heirloom Carbon | ~2022 | Seed/Series A | Climate / Carbon Removal | [^12][^14] |
-| Charm Industrial | ~2022 | Unknown | Climate / Carbon Removal | [^12][^17] |
-~unknown| Kindbody | Unknown | Unknown | Healthcare / Fertility | [^12] |
+| Charm Industrial | 2019 | Seed | Climate / Carbon Removal | [^12][^17][^21] |
+| Kindbody | ~2020 | Growth (Series B/C) | Healthcare / Fertility | [^12][^22] |
 ~unknown| Gusto | Unknown | Unknown | Enterprise / HR | [^12] |
 ~unknown| Ellevest | Unknown | Unknown | Fintech | [^12] |
 | Quilt | ~2023 | Seed | Climate / HVAC | [^7][^18] |
@@ -157,3 +157,6 @@ This table represents approximately 20 of 76 verified portfolio companies (26%).
 [^17]: Dealroom.co, "Charm Industrial company information, funding & investors," accessed March 2026. https://app.dealroom.co/companies/charm_industrial
 [^18]: TechCrunch, "Why Nest co-founder Matt Rogers is still bullish on HVAC," April 11, 2025. https://techcrunch.com/2025/04/11/why-nest-co-founder-matt-rogers-is-still-bullish-on-hvac/
 [^19]: Tracxn, "Incite Ventures - 2025 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/incite-ventures/__DGrRRD6D6LNDslQCPdrQFP8kdoQgN5NRjjJPfs4thKM
+[^20]: BusinessWire, "AMP Robotics Raises $91 Million in Series C Financing," November 2, 2022. https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-%2491-Million-in-Series-C-Financing
+[^21]: Crunchbase, "Charm Industrial Seed Round, 2019-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/charm-industrial-seed--c1e2e457
+[^22]: Crunchbase, "Swati Mylavarapu (Managing Partner, Incite) investor profile — Kindbody investment," accessed April 2026. https://www.crunchbase.com/person/swati-mylavarapu
