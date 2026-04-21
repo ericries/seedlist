@@ -123,13 +123,13 @@ Placer.ai is a location analytics and foot traffic data platform that provides m
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Oct 2018 | $4M | IrishAngels Ventures | Array Ventures, Stage Venture Partners, BrightStreet Ventures | — |
-| Series A | Jan 2020 | $12M | JBV Capital | Aleph, Reciprocal Ventures, OCA Ventures | — |
-| Series B | Apr 2021 | $50M | Josh Buckley | Todd Goldberg, Rahul Vohra, Fifth Wall, JBV Capital, Aleph, Jared Leto | — |
+| Seed | 2018-10-24 | $4M | IrishAngels Ventures | Array Ventures, Stage Venture Partners, BrightStreet Ventures | Not disclosed [^7] |
+| Series A | 2020-01-22 | $12M | JBV Capital | Aleph, Reciprocal Ventures, OCA Ventures | Not disclosed [^2] |
+| Series B | 2021-04-27 | $50M | Josh Buckley | Todd Goldberg, Rahul Vohra, Fifth Wall, JBV Capital, Aleph, Jared Leto | Not disclosed [^5] |
 | Series C | Jan 2022 | $100M | Josh Buckley | Fifth Wall, Array Ventures | $1B |
 | Series D | Aug 2024 | $75M | Existing investors | Josh Buckley, WndrCo, Lachy Groom, MMC Technology Ventures, Fifth Wall, Array Ventures | $1.5B |
 
-Sources: [^1][^2][^3][^4][^5][^6]
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8]
 
 ## What Investors Say
 
@@ -147,3 +147,5 @@ No independently sourced investor testimonials found.
 [^4]: Calcalist Tech, "Placer.ai raises $75M at $1.5B valuation, reaches $100M in ARR," August 2024. https://www.calcalistech.com/ctechnews/article/h100twskqr
 [^5]: Calcalist Tech, "Placer.ai raises $50 million series B led by Product Hunt CEO," April 2021. https://www.calcalistech.com/ctech/articles/0,7340,L-3906403,00.html
 [^6]: The Brand Hopper, "Placer.ai - Founders, Business Model, Funding & Competitors," February 2026. https://thebrandhopper.com/2026/02/05/placer-ai-founders-business-model-funding-competitors/
+[^7]: FinSMEs, "Placer.ai Raises $4M in Funding," October 24, 2018, accessed April 2026. http://www.finsmes.com/2018/10/placer-ai-raises-4m-in-funding.html
+[^8]: VentureBeat, "Placer.ai raises $4 million to use AI to track foot traffic," October 2018, accessed April 2026. https://venturebeat.com/ai/placer-ai-raises-4-million-to-use-ai-to-track-foot-traffic

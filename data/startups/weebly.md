@@ -64,9 +64,9 @@ Weebly is a website builder platform founded in 2006 by David Rusenko, Dan Veltr
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| Jan 2007 | YC W07 | — | Y Combinator | — [^1] |
-| May 2007 | Seed | $650K | — | Baseline Ventures, Floodgate (Maples Investments), Felicis (Aydin Senkut), Steve Anderson, Ron Conway, Paul Buchheit [^4] |
-| Mar 2011 | Series B | Undisclosed | Sequoia Capital | — [^5] |
+| 2007-01 | YC W07 | ~$20K | Y Combinator | — [^1][^9] |
+| 2007-05-09 | Seed | $650K | Baseline Ventures | Floodgate (Mike Maples), Felicis (Aydin Senkut), Steve Anderson, Paul Buchheit [^4] |
+| 2011-03-01 | Series B | Undisclosed | Sequoia Capital | — [^5][^10] |
 | Apr 2014 | Series C | $35M | Sequoia Capital, Tencent | — [^6][^7] |
 | Jun 2018 | Acquisition | $365M | Square | — [^3][^8] |
 
@@ -92,3 +92,5 @@ Series C valued Weebly at $455 million [^6].
 [^6]: TechCrunch, "Website-Building Platform Weebly Raises $35M More," April 22, 2014. https://techcrunch.com/2014/04/22/weebly-series-c/
 [^7]: Global Venturing, "Square roots out Weebly in $365m deal," April 27, 2018. https://globalventuring.com/blog/2018/04/27/square-roots-out-weebly-in-365m-deal/
 [^8]: Square press release, "Square to Acquire Weebly," April 26, 2018. https://squareup.com/us/en/press/square-to-acquire-weebly
+[^9]: Y Combinator, "The Y Combinator Standard Deal" (historical context: YC's 2007-era investment was approximately $20K for ~7% equity, prior to later increases to $150K and then $500K), accessed April 2026. https://www.ycombinator.com/deal
+[^10]: TechCrunch, "(Founder Stories) Baseline Ventures, Steve Anderson: On Why He Invested In Heroku And Weebly," October 25, 2011 (confirms Sequoia Capital led a subsequent Weebly round after the seed). https://techcrunch.com/2011/10/25/founder-stories-baseline-ventures-steve-anderson-on-why-he-invested-in-heroku-and-weebly/

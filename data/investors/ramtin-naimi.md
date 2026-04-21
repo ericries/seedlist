@@ -108,12 +108,12 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | LangChain | Seed | 2023 | AI / Developer Tools | [^7][^15] |
 | Cognition | Seed | ~2023 | AI / Developer Tools | [^7] |
 | Cluely | Seed | 2024 | AI | [^19] |
-| Glue | Unknown | 2025 | Enterprise / Productivity | [^11] |
-| Telepatia | Unknown | 2025 | Healthcare / AI | [^11] |
+| Glue | Series A | 2025 | Enterprise / Productivity | [^11][^27] |
+| Telepatia | Seed | 2025 | Healthcare / AI | [^11][^28] |
 | Truffle Security | Series B | 2025 | Security / Cybersecurity | [^20] |
 | MagicPath | Seed | 2025 | AI / Design Tools | [^23] |
 | Coworker AI | Seed | 2025 | AI / Enterprise | [^24] |
-~unknown| Material Security | Unknown | Unknown | Security / Cybersecurity | [^7][^10] |
+| Material Security | Seed | 2017 | Security / Cybersecurity | [^7][^29] |
 ~unknown| Polymarket | Unknown | Unknown | Crypto / Prediction Markets | [^10] |
 ~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
 ~unknown| Avalanche | Unknown | Unknown | Crypto / Blockchain | [^7] |
@@ -205,3 +205,6 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^24]: "Coworker.ai Launches the First AI Agent with Deep Company Context, Backed by $13M Seed Round," PR Newswire, May 2025, accessed March 2026. https://www.prnewswire.com/news-releases/coworkerai-launches-the-first-ai-agent-with-deep-company-context-backed-by-13m-seed-round-302459262.html
 [^25]: Pietro Schirano (@skirano) on X, announcing MagicPath $6.6M seed round, 2025, accessed March 2026. https://x.com/skirano/status/1927806188923547925
 [^26]: "WTW Completes Acquisition of Newfront," Willis Towers Watson, January 27, 2026, accessed March 2026. https://investors.wtwco.com/news-releases/news-release-details/wtw-completes-acquisition-newfront
+[^27]: "Glue Raises $20M for Agentic Team Chat," BusinessWire, October 8, 2025, accessed April 2026. https://www.businesswire.com/news/home/20251008293325/en/Glue-Raises-$20M-for-Agentic-Team-Chat
+[^28]: "Telepatia AI raises $9M seed round," LatamList, October 2025, accessed April 2026. https://latamlist.com/telepatia-ai-raises-9m-seed-round/
+[^29]: Crunchbase, "Seed Round - Material Security - 2017-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/material-security-seed--dfcab5ca
