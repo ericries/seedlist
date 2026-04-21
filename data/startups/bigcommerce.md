@@ -74,15 +74,15 @@ The platform enables merchants of all sizes to build, manage, and grow online st
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| Aug 2011 | Series A | $15M | General Catalyst | — |
+| 2011-08-01 | Series A | $15M | General Catalyst | — [^4][^14] |
 | Sep 2012 | Series B | $20M | General Catalyst | Floodgate |
 | Jul 2013 | Series C | $40M | Revolution Growth | General Catalyst |
 | Nov 2014 | Series D | $50M | SoftBank Capital | Telstra Ventures, American Express, General Catalyst, Revolution Growth |
 | May 2016 | Series E | $30M | GGV Capital | General Catalyst, Revolution Growth, SoftBank Capital, Tenaya Capital, Split Rock Partners, Telstra Ventures, American Express Ventures, Floodgate |
 | Apr 2018 | Series F | $64M | Goldman Sachs | General Catalyst, GGV Capital, Tenaya Capital |
-| Aug 2020 | IPO | $216M | — | Morgan Stanley, Barclays (lead underwriters) |
+| 2020-08-05 | IPO | $216M | Morgan Stanley, Barclays | Jefferies, KeyBanc Capital Markets [^3][^15] |
 
-**Series A (August 2011):** General Catalyst Partners led a $15M Series A. Larry Bohn, managing director at General Catalyst, joined the BigCommerce board [^4].
+**Series A (August 1, 2011):** General Catalyst Partners was the sole investor in BigCommerce's $15M Series A. Larry Bohn, managing director at General Catalyst, joined the BigCommerce board. No other co-investors participated and no valuation was disclosed [^4][^14].
 
 **Series B (September 2012):** General Catalyst led the $20M Series B, with Floodgate joining as a new investor. Mike Maples, managing partner at Floodgate, also joined the board [^5].
 
@@ -94,7 +94,7 @@ The platform enables merchants of all sizes to build, manage, and grow online st
 
 **Series F (April 2018):** Goldman Sachs led a $64M growth equity round at a pre-money valuation of approximately $450M. General Catalyst, GGV Capital, and Tenaya Capital participated [^9].
 
-**IPO (August 2020):** BigCommerce priced 9,019,565 shares at $24 per share, raising approximately $216M. Shares began trading on the Nasdaq on August 5, 2020 [^3].
+**IPO (August 5, 2020):** BigCommerce priced its IPO on August 4, 2020 at $24 per share (9,019,565 shares total; 6,850,000 from the company and 2,169,565 from selling stockholders), raising approximately $216M in gross proceeds. Shares began trading on the Nasdaq Global Market under the ticker "BIGC" on August 5, 2020, opening at $68 and closing the day at $72.27 — a first-day valuation of approximately $6.75B. Morgan Stanley and Barclays acted as lead book-running managers; Jefferies and KeyBanc Capital Markets served as additional book-running managers [^3][^15][^16].
 
 ## What Investors Say
 
@@ -147,3 +147,9 @@ Mitchell Harper, co-founder, on the decision to raise venture capital:
 [^12]: The Hustle, "Eddie Machaalani: 'I always had this real passion for helping small businesses grow,'" accessed March 2026. https://thehustle.co/eddie-machaalani-q-and-a-rob-litterst
 
 [^13]: Mixergy, "How Mitchell Harper built a $100,000,000 company, failed, and got back up," accessed March 2026. https://mixergy.com/interviews/bigcommerce-with-mitchell-harper/
+
+[^14]: Business Wire, "BigCommerce Closes $15 Million Series A Investment from General Catalyst Partners," August 1, 2011. https://www.businesswire.com/news/home/20110801005156/en/BigCommerce-Closes-15-Million-Series-Investment-General
+
+[^15]: BigCommerce press release, "BigCommerce Announces Pricing of Initial Public Offering," August 4, 2020. https://www.bigcommerce.com/press/releases/bigcommerce-announces-pricing-of-initial-public-offering/
+
+[^16]: Built In Austin, "BigCommerce IPO Values the E-Commerce Platform at $6.75B," August 5, 2020. https://www.builtinaustin.com/articles/bigcommerce-valued-7b-ipo
