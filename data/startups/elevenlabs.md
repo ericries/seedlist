@@ -167,10 +167,10 @@ ElevenLabs is an AI audio research and deployment company co-founded in 2022 by 
 
 | Date | Round | Amount | Valuation | Lead | Co-investors |
 |------|-------|--------|-----------|------|--------------|
-| Jan 2023 | Pre-Seed | $2M | — | Credo Ventures | Concept Ventures, angel investors [^6] |
-| Jun 2023 | Series A | $19M | — | a16z, Nat Friedman, Daniel Gross | SV Angel, Creator Ventures, Concept Ventures, Credo Ventures; angels including Mike Krieger, Brendan Iribe, Mustafa Suleyman, Aravind Srinivas, Guillermo Rauch, Tim O'Reilly [^7][^8] |
+| 2023-01-23 | Pre-Seed | $2M | — | Credo Ventures | Concept Ventures, Charlie Songhurst, Harry Songhurst, Bartek Pucek, Tomasz Karwatka, Piotr Karwatka, Peter Czaban, Tytus Cytowski, Talfan Evans, Fatima Godall, Akhil Paul, Marta Pyrzyk, Carles Reina, Parin Shah [^6][^15] |
+| 2023-06-20 | Series A | $19M | $99M post-money | a16z, Nat Friedman, Daniel Gross | SV Angel, Creator Ventures, Concept Ventures, Credo Ventures, Mike Krieger, Brendan Iribe, Mustafa Suleyman, Aravind Srinivas, Guillermo Rauch, Tim O'Reilly, Storytel, TheSoul Publishing [^7][^8][^16] |
 | Jan 2024 | Series B | $80M | $1.1B | a16z, Nat Friedman, Daniel Gross | Sequoia Capital, Smash Capital, SV Angel, BroadLight Capital, Credo Ventures [^9][^10] |
-| Sep 2025 | Strategic | Undisclosed | — | NVIDIA | — [^11] |
+| 2025-09-23 | Strategic | Undisclosed | — | NVIDIA | — [^11][^17] |
 | Jan 2025 | Series C | $180M | $3.3B | a16z, ICONIQ Growth | NEA, World Innovation Lab, Valor, Endeavor Catalyst, Lunate, Sequoia Capital, Salesforce Ventures, Smash Capital, SV Angel, NFDG, BroadLight Capital; strategic: Deutsche Telekom, LG Technology Ventures, HubSpot Ventures, NTT DOCOMO Ventures, RingCentral Ventures [^3][^12] |
 | Feb 2026 | Series D | $500M | $11B | Sequoia Capital | a16z, ICONIQ Growth, Lightspeed Venture Partners, Evantic Capital, BOND, BroadLight, NFDG, Valor Capital, AMP Coalition, Smash Capital [^4][^5] |
 
@@ -206,3 +206,6 @@ ElevenLabs is an AI audio research and deployment company co-founded in 2022 by 
 [^12]: The Recursive, "Polish ElevenLabs Enters 2025 With Blasting Series C and 25+ Open Positions," January 2025. https://therecursive.com/polish-elevenlabs-series-c-funding-round-open-positions/
 [^13]: Andrew Reed on X, Sequoia led the ElevenLabs Series D, February 2026. https://x.com/andrew__reed/status/2019058658714247649
 [^14]: Mati Staniszewski on LinkedIn via Seb Johnson, on crossing $10B valuation, February 2026. https://www.linkedin.com/posts/seb-johnson_mati-staniszewski-co-founder-at-elevenlabs-activity-7438977323116331008-Wl7U
+[^15]: ElevenLabs blog, "ElevenLabs Raises $2M and Announces AI Speech Platform," January 23, 2023. https://elevenlabs.io/blog/elevenlabs-raises-2m-pre-seed-and-announces-ai-speech-platform-promising-to-revolutionize-audio-storytelling
+[^16]: TechCrunch, "Voice-generating platform ElevenLabs raises $19M, launches detection tool," June 20, 2023. https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/
+[^17]: Tech.eu, "Nvidia to make 'strategic' investment in ElevenLabs," September 23, 2025. https://tech.eu/2025/09/23/nvidia-to-make-strategic-investment-in-elevenlabs/

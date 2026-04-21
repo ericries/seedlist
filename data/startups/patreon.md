@@ -154,11 +154,11 @@ Patreon is a creator monetization platform founded in May 2013 by musician Jack 
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Aug 2013 | $2.1M | — | SV Angel, Freestyle Capital, Charles River Ventures, Atlas Ventures, Rothenberg Ventures, Alexis Ohanian, Garry Tan [^1][^2] | — |
-| Series A | Jun 2014 | $15M | Index Ventures (Danny Rimer) | Sam Altman, David Marcus, Alexis Ohanian [^3][^4] | — |
+| Seed | 2013-08-01 | $2.1M | Freestyle Capital, CRV | SV Angel, Atlas Venture, Rothenberg Ventures, Alexis Ohanian, Garry Tan, Tyler Willis [^1][^2][^14][^15] | — |
+| Series A | 2014-06-23 | $15M | Index Ventures | Sam Altman, David Marcus, Alexis Ohanian, Joshua Reeves [^3][^4] | — |
 | Series B | Jan 2016 | $30M | Thrive Capital | Allen & Company, Index Ventures, CRV, Freestyle Capital [^5][^6] | $140M |
 | Series C | Sep 2017 | $60M | Thrive Capital | Index Ventures, CRV, Freestyle Capital, DFJ [^7] | ~$450M |
-| Series D | Jul 2019 | $60M | Glade Brook Capital | Index Ventures, CRV, Thrive Capital, Initialized Capital [^8][^9] | — |
+| Series D | 2019-07-16 | $60M | Glade Brook Capital | Index Ventures, CRV, Thrive Capital, Initialized Capital, DFJ Growth [^8][^9][^16] | — |
 | Series E | Sep 2020 | $90M | NEA, Wellington Management | Lone Pine Capital, Glade Brook Capital [^10][^11] | $1.2B |
 | Series F | Apr 2021 | $155M | Tiger Global | Wellington Management, Lone Pine Capital, NEA [^12][^13] | $4B |
 
@@ -185,3 +185,6 @@ No independently sourced founder testimonials found.
 [^11]: "Patreon Raises $90M at $1.2B Valuation to Grow Membership Platform for Creatives," Built In SF, September 2020, accessed March 2026. https://www.builtinsf.com/articles/patreon-raises-90m-series-e
 [^12]: "Patreon triples valuation to $4 billion in new raise," TechCrunch, April 6, 2021, accessed March 2026. https://techcrunch.com/2021/04/06/patreon-triples-valuation-to-4-billion/
 [^13]: "Patreon is now valued at $4bn after raising $155m in latest funding round," Music Business Worldwide, April 2021, accessed March 2026. https://www.musicbusinessworldwide.com/membership-platform-patreon-raises-155m-increases-valuation-to-4bn/
+[^14]: "Patreon Lands $2 Million in Venture Patronage," Billboard, August 1, 2013, accessed April 2026. https://www.billboard.com/music/music-news/patreon-lands-2-million-in-venture-patronage-5336841/
+[^15]: "The founding story of Patreon," TechCrunch, February 12, 2019, accessed April 2026. https://techcrunch.com/2019/02/12/patreon-story/
+[^16]: "Patreon will take membership to the next level with $60M in funding," Patreon Newsroom, July 16, 2019, accessed April 2026. https://news.patreon.com/articles/patreon-will-take-membership-to-the-next-level-with-60-m-in-funding

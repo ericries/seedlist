@@ -78,7 +78,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Aligned Marketplace | Seed | 2024 | Healthcare | Active [^19] |
-~unknown| Apollo | — | — | Sales/Marketing SaaS | Active [^1] |
+| Apollo | Firm-level (undisclosed) | ~2022 | Sales/Marketing SaaS | Active [^1] |
 | Cape | Seed/Early | 2025 | Telecommunications/Security | Active [^12] |
 | Decagon | Series A | 2024 | AI/Customer Support | Active [^18] |
 | EyeTell | Seed | 2023 | AI/Video | Active [^17] |
@@ -86,7 +86,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Flock Safety | Series C | 2020 | Public Safety | Active [^20] |
 ~unknown| Krea | — | — | AI/Creative Tools | Active [^1] |
 ~unknown| Mach Industries | — | — | Defense/Drones | Active [^15] |
-| Mercor | — | 2024 | AI/HR Marketplace | Active [^12] |
+| Mercor | Firm-level (undisclosed) | ~2024 | AI/HR Marketplace | Active [^12] |
 ~unknown| Multiply | — | — | AI/Fintech | Active [^15] |
 ~unknown| Fifteenth | — | — | AI/Tax | Active [^15] |
 | Notion | Series B+ | ~2021 | Productivity/SaaS | Active [^2] |

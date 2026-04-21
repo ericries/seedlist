@@ -1,17 +1,1 @@
-priority:
-- slug: a-star-capital
-  type: firm
-  reason: appeared in Antioch Seed round 2026-04-16
-  added: '2026-04-21'
-- slug: mac-venture-capital
-  type: firm
-  reason: appeared in Antioch Seed round 2026-04-16
-  added: '2026-04-21'
-- slug: abstract-ventures
-  type: firm
-  reason: appeared in Antioch Seed round 2026-04-16
-  added: '2026-04-21'
-- slug: boxgroup
-  type: firm
-  reason: appeared in Antioch Seed round 2026-04-16
-  added: '2026-04-21'
+priority: []

@@ -132,9 +132,9 @@ Deel is a global payroll and compliance platform that enables companies to hire 
 
 | Date | Round | Amount | Lead | Co-investors | Valuation |
 |------|-------|--------|------|-------------|-----------|
-| 2019 | Pre-Seed | $0.15M | Y Combinator | — | — |
-| May 2020 | Series A | $14M | Andreessen Horowitz | SV Angel, Soma Capital, angel investors [^5] | — |
-| Sep 2020 | Series B | $30M | Spark Capital | Andreessen Horowitz, YC Growth Fund, angel investors incl. Nat Friedman, Ryan Petersen, John Zimmer, Alexis Ohanian [^6] | — |
+| 2019-03-18 | Pre-Seed | $0.15M | Y Combinator | — | $2.1M [^12][^13][^14] |
+| 2020-05-21 | Series A | $14M | Andreessen Horowitz | SV Angel, Soma Capital, Spark Capital, Uncork Capital [^5][^15][^16] | $60M [^12] |
+| 2020-09-09 | Series B | $30M | Spark Capital | Andreessen Horowitz, YC Growth Fund, Nat Friedman, Ryan Petersen, John Zimmer, Alexis Ohanian, William Hockey [^6][^17][^18] | $220M [^12] |
 | Apr 2021 | Series C | $156M | YC Continuity Fund | Andreessen Horowitz, Spark Capital, Dara Khosrowshahi, Jeffrey Katzenberg, Lachy Groom, Anthony Schiller [^7] | $1.25B |
 | Oct 2021 | Series D | $425M | Coatue | Altimeter Capital, Andreessen Horowitz, YC Continuity Fund, Spark Capital, Greenbay Ventures, Neo [^8] | $5.5B |
 | May 2022 | Series D Extension | $50M | Emerson Collective | Andreessen Horowitz, Spark Capital, Y Combinator [^9] | $12B |
@@ -183,3 +183,10 @@ Sources: [^4][^5][^6][^7][^8][^9][^2]
 [^9]: TechCrunch, "Fueled by the remote work revolution, Deel more than doubles valuation to $12B with new raise," May 2022. https://techcrunch.com/2022/05/11/fueled-by-the-remote-work-revolution-deel-more-than-doubles-valuation-to-12b-with-new-raise/
 [^10]: Signature Block, "Why they invested: Deel," accessed March 2026. https://www.signatureblock.co/articles/why-they-invested-deel
 [^11]: Sourcery VC, "BREAKING: Deel Hits $1.4B+ ARR | CEO Alex Bouaziz," accessed March 2026. https://www.sourcery.vc/p/breaking-deel-hits-14b-arr-ceo-alex
+[^12]: Signature Block, "Why they invested: Deel" (funding history table listing Pre-Seed $150K at $2.1M, Series A $14M at $60M, Series B $30M at $220M valuations), accessed April 2026. https://signatureblock.co/articles/why-they-invested-deel
+[^13]: TechCrunch, "Here are the 85+ startups that launched today at Y Combinator's W19 Demo Day 1," March 18, 2019. https://techcrunch.com/2019/03/18/here-are-the-85-startups-that-launched-today-at-y-combinators-w19-demo-day-1/
+[^14]: Y Combinator, "New Standard Deal" (W19 batch was $150K for 7% on post-money SAFE, implying $2.14M cap), accessed April 2026. https://www.ycombinator.com/blog/new-standard-deal/
+[^15]: Andreessen Horowitz, "Investing in Deel," May 21, 2020. https://a16z.com/announcement/investing-in-deel/
+[^16]: Orrick, "Orrick Advises Deel on $14 Million Series A Financing Round," May 22, 2020. https://www.orrick.com/en/News/2020/05/Orrick-Advises-Deel-on-14-Million-Series-A-Financing-Round
+[^17]: Orrick, "Orrick Advises Deel on $30 Million Series B," September 9, 2020. https://www.orrick.com/en/News/2020/09/Orrick-Advises-Deel-on-30-Million-Series-B
+[^18]: Gunderson Dettmer, "Spark Capital leads $30M Series B Financing of Deel," September 9, 2020. https://www.gunder.com/en/news-insights/client-news/spark-capital-leads-30m-series-b-financing-of-deel
