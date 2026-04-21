@@ -109,7 +109,10 @@ pending_rounds:
   parsed_company: Schematic
   parsed_amount: $6.5M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile schematic.md; $6.5M seed on 2026-04-21 led by S3 Ventures
+    with MHS Capital, Active Capital, NextView Ventures, Ritual; Boulder CO; no firm
+    slugs added (none of these firms yet profiled)
 - title: UK wealth lending startup Firenze raises €6.8 million to increase team amid
     rising demand
   url: https://www.eu-startups.com/2026/04/uk-wealth-lending-startup-firenze-raises-e6-8-million-to-increase-team-amid-rising-demand/
@@ -118,7 +121,89 @@ pending_rounds:
   parsed_company: UK wealth lending startup Firenze
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile firenze.md; £6M seed extension on 2026-04-21 led by
+    AlbionVC with Outward VC and Form Ventures; Manchester UK Lombard lending fintech;
+    no firm slugs added (none yet profiled)
+- title: AI research lab NeoCognition lands $40M seed to build agents that learn like
+    humans
+  url: https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/
+  source: techcrunch
+  date_found: '2026-04-21'
+  parsed_company: AI research lab NeoCognition
+  parsed_amount: $40M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile neocognition.md; $40M seed on 2026-04-21 co-led by
+    Cambium Capital and Walden Catalyst with Vista Equity Partners, Lip-Bu Tan, Ion
+    Stoica; spun out of Ohio State by professor Yu Su; no firm slugs added
+- title: Rivan raised $34M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-21'
+  parsed_company: Rivan
+  parsed_amount: $34M
+  parsed_round: null
+  status: processed
+  notes: updated existing rivan.md; same 2026-04-20 round as EU-Startups €28.7M entry
+    — reconciled as $34M (~€28.7M) led by IQ Capital with Plural, Fundomo, and angels
+    Thomas Wolf, Matt Clifford, Markus Villig; total raised now ~$46M
+- title: Archil raised $11M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-21'
+  parsed_company: Archil
+  parsed_amount: $11M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile archil.md; $11M Series A on 2026-04-21 per Archil
+    blog; lead investor not disclosed in public sources; prior $6.7M seed led by Felicis
+    in June 2025 with YC, General Catalyst, Peak XV, Lombardstreet, Twenty Two Ventures,
+    Wayfinder
+- title: Antioch raised $8.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-21'
+  parsed_company: Antioch
+  parsed_amount: $8.5M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: duplicate; antioch.md already exists from prior processing
+- title: Sleuth Insights raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-21'
+  parsed_company: Sleuth Insights
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: Axios reference appears to describe Sleuth Insights' existing $7.68M
+    Series A (Sep 30 2025) or the associated Nov 2025 SEC Form D filing for $7.91M
+    — not a new April 2026 round. No independent April 2026 announcement found across
+    PitchBook, Tracxn, Crunchbase, company website, or press. Monitoring for formal
+    announcement.
+- title: Audrey AI raised $1.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-21'
+  parsed_company: Audrey AI
+  parsed_amount: $1.8M
+  parsed_round: null
+  status: processed
+  notes: created startup profile audrey-ai.md; $1.8M pre-seed on 2026-04-16 co-led
+    by Sure Valley Ventures and Delta Partners with Enterprise Ireland, Donnchadh Casey
+    (ex-CEO Calypso), Conor Jones (ex-CBO Wayflyer); Dublin-based agentic AI for financial
+    auditors; no firm slugs added (none yet profiled)
+- title: Cerberus Capital Management raised $2.3B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-21'
+  parsed_company: Cerberus Capital Management
+  parsed_amount: $2.3B
+  parsed_round: null
+  status: skipped
+  skip_reason: Cerberus Capital Management is a large PE/credit firm; $2.3B is a fund/credit
+    raise, not a startup funding round
 - title: Swiss startup Planetary raises nearly €23 million to build the industrial
     backbone of the bioeconomy
   url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
@@ -900,70 +985,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: UK consumer food brand; outside scope
-- title: Vilnius-based Outcraft AI raises €2 million to build an autonomous revenue
-    engine
-  url: https://www.eu-startups.com/2026/04/vilnius-based-outcraft-ai-raises-e2-million-to-build-an-autonomous-revenue-engine/
-  source: eu-startups
-  date_found: '2026-04-16'
-  parsed_company: Vilnius-based Outcraft AI
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: Vilnius-based EU startup; outside primary US focus
-- title: London’s Qalzy secures pre-Seed backing after raising €204k in Kickstarter
-    pre-orders for its AI nutrition scale
-  url: https://www.eu-startups.com/2026/04/londons-qalzy-secures-pre-seed-backing-after-raising-e204k-in-kickstarter-pre-orders-for-its-ai-nutrition-scale/
-  source: eu-startups
-  date_found: '2026-04-16'
-  parsed_company: London’s Qalzy
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: skipped
-  skip_reason: London pre-seed Kickstarter project; too small and outside US scope
-- title: Accel raises $5B to back late-stage bets
-  url: https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/
-  source: techcrunch
-  date_found: '2026-04-15'
-  parsed_company: Accel
-  parsed_amount: $5B
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund raise (Accel late-stage fund), not a startup round
-- title: Anthropic shrugs off VC funding offers valuing it at $800B+, for now
-  url: https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/
-  source: techcrunch
-  date_found: '2026-04-15'
-  parsed_company: Anthropic
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: not a funding round; news about Anthropic declining offers
-- title: The March 2026 US Venture Capital Funding Report
-  url: https://alleywatch.com/2026/04/us-venture-capital-statistics-march-2026/
-  source: alleywatch
-  date_found: '2026-04-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: summary/statistics article, not a specific startup round
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/15/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-15-2026/
-  source: alleywatch
-  date_found: '2026-04-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted Gelu AI $2M (created gelu-ai.md), Timeshifter $1.8M (created timeshifter.md);
-    Pillar $20M already processed as pillar-risk.md
-- title: CamGraPhIC lands €211 million to tackle AI’s data bottleneck – in one of
-    Italy’s largest DeepTech funding deals
-  url: https://www.eu-startups.com/2026/04/camgraphic-lands-e211-million-to-tackle-ais-data-bottleneck-in-one-of-italys-largest-deeptech-funding-deals/
-  source: eu-startups
-  date_found: '2026-04-15'
-  parsed_company: CamGraPhIC
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: Italian deeptech company; outside primary US focus
