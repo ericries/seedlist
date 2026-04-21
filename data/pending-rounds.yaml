@@ -110,9 +110,9 @@ pending_rounds:
   parsed_amount: $6.5M
   parsed_round: null
   status: processed
-  notes: created startup profile schematic.md; $6.5M seed on 2026-04-21 led by S3 Ventures
-    with MHS Capital, Active Capital, NextView Ventures, Ritual; Boulder CO; no firm
-    slugs added (none of these firms yet profiled)
+  notes: created startup profile schematic.md; $6.5M seed on 2026-04-21 led by S3
+    Ventures with MHS Capital, Active Capital, NextView Ventures, Ritual; Boulder
+    CO; no firm slugs added (none of these firms yet profiled)
 - title: UK wealth lending startup Firenze raises €6.8 million to increase team amid
     rising demand
   url: https://www.eu-startups.com/2026/04/uk-wealth-lending-startup-firenze-raises-e6-8-million-to-increase-team-amid-rising-demand/
@@ -122,8 +122,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: created startup profile firenze.md; £6M seed extension on 2026-04-21 led by
-    AlbionVC with Outward VC and Form Ventures; Manchester UK Lombard lending fintech;
+  notes: created startup profile firenze.md; £6M seed extension on 2026-04-21 led
+    by AlbionVC with Outward VC and Form Ventures; Manchester UK Lombard lending fintech;
     no firm slugs added (none yet profiled)
 - title: AI research lab NeoCognition lands $40M seed to build agents that learn like
     humans
@@ -191,9 +191,9 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: created startup profile audrey-ai.md; $1.8M pre-seed on 2026-04-16 co-led
-    by Sure Valley Ventures and Delta Partners with Enterprise Ireland, Donnchadh Casey
-    (ex-CEO Calypso), Conor Jones (ex-CBO Wayflyer); Dublin-based agentic AI for financial
-    auditors; no firm slugs added (none yet profiled)
+    by Sure Valley Ventures and Delta Partners with Enterprise Ireland, Donnchadh
+    Casey (ex-CEO Calypso), Conor Jones (ex-CBO Wayflyer); Dublin-based agentic AI
+    for financial auditors; no firm slugs added (none yet profiled)
 - title: Cerberus Capital Management raised $2.3B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
