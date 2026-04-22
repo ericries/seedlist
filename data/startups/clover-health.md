@@ -125,15 +125,17 @@ Clover Health is a health insurance technology company founded in 2014 by Vivek 
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors |
 |-------|------|--------|-------------------|-------------------|
-| Seed | Jul 2014 | Undisclosed | — | — |
+| Seed | 2014-07-23 | Undisclosed | Undisclosed | — [^8] |
 | Series A | Sep 2015 | $100M | First Round Capital | Athyrium Capital Management |
 | Series B | Dec 2015 | $35M | Sequoia Capital | First Round Capital, Athyrium Capital Management |
 | Series C | May 2016 | $160M | Greenoaks Capital | First Round Capital, Sequoia Capital, Spark Capital, FLOODGATE, Nexus Ventures, Refactor Capital, AME Cloud Ventures, Casdin Capital, Arena Ventures, Wildcat Ventures |
 | Series D | May 2017 | $130M | Greenoaks Capital | GV, Sequoia Capital, Refactor Capital |
 | Series E | Jan 2019 | $500M | Greenoaks Capital | Bessemer Venture Partners, Bracket Capital |
-| SPAC (IPO) | Jan 2021 | $3.7B valuation | Social Capital Hedosophia III (Chamath Palihapitiya) | — |
+| SPAC (IPO) | 2021-01-07 | $1.2B gross proceeds ($3.7B EV) | Social Capital Hedosophia III | Fidelity Management & Research, Jennison, Senator Investment Group, Casdin Capital, Perceptive Advisors [^3][^9] |
 
-Sources: [^1][^2][^3][^4][^5][^6][^7]
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9]
+
+The SPAC transaction delivered approximately $1.2 billion in gross proceeds, including up to $828 million of cash held in SCH's trust account and a $400 million PIPE priced at $10.00 per share (with $100 million from Chamath Palihapitiya and $50 million from Hedosophia) [^3]. Clover received up to $728 million of the net transaction proceeds, with up to $500 million of cash going to existing Clover shareholders [^9]. Clover Class A common stock (CLOV) and warrants (CLOVW) began trading on Nasdaq on January 8, 2021 [^3]. The 2014 seed round closed on July 23, 2014 for an undisclosed amount with no publicly disclosed lead investor [^8].
 
 ## What Investors Say
 
@@ -160,3 +162,5 @@ Kris Gale, CTO & Co-Founder, on the Series C: "As a result of our real-time data
 [^5]: GlobeNewsWire, "Clover Health Raises $160 Million Series C Funding Round," May 23, 2016. https://www.globenewswire.com/en/news-release/2016/05/23/1422539/0/en/Clover-Health-Raises-160-Million-Series-C-Funding-Round.html
 [^6]: TechCrunch, "Alphabet-backed Medicare Advantage startup Clover Health raises $500M," January 29, 2019. https://techcrunch.com/2019/01/29/alphabet-backed-medicare-advantage-startup-clover-health-raises-500m/
 [^7]: StockTitan, "Clover Health Reports Fourth Quarter & Full Year 2025 Results; Provides Full Year 2026 Guidance," February 2026. https://www.stocktitan.net/news/CLOV/clover-health-reports-fourth-quarter-full-year-2025-results-provides-ogyefb6kkxje.html
+[^8]: Tracxn, "Clover Health — Funding and Investors," accessed April 2026. Seed round closed July 23, 2014 for an undisclosed amount. https://tracxn.com/d/companies/cloverhealth/__gTv_UCq6KwoFNL4iHh2bSYV5_DxQeUZEHxcC5DjFOTc
+[^9]: Healthcare Dive, "MA startup Clover Health goes public in blank check deal valuing it at $3.7B," October 6, 2020. https://www.healthcaredive.com/news/medicare-advantage-startup-clover-health-goes-public-blank-check-deal-valuing-37-billion/586459/

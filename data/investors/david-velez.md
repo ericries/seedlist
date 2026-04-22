@@ -98,12 +98,12 @@ Vélez invests across stages, from pre-seed (Carecode) through Series B (Jupiter
 | Galena | 2022 | Series A | Education / workforce | [^20] |
 | Clerkie | 2023 | Series A | Fintech / AI | [^27] |
 | Beep Saúde | 2024 | Growth | Healthtech | [^28] |
-| Civic Marketplace | 2024 | Unknown | Civic tech | [^24] |
+| Civic Marketplace | 2024-12-02 | Seed | Civic tech | [^34] [^35] |
 | Carecode | 2024 | Pre-Seed | Healthtech / AI | [^21] |
 | Leona Health | 2025 | Seed | Healthtech / AI | [^22] |
 | Nuvocargo | 2021 | Series A | Cross-border logistics / fintech | [^31] |
 | CoderHouse | 2021 | Series A | Edtech | [^32] |
-| Latitud | 2022 | Seed | Startup ecosystem / fintech | [^23] |
+| Latitud | 2022-03-28 | Seed | Startup ecosystem / fintech | [^23] [^33] [^36] |
 
 Note: This table represents approximately 18 of an estimated 19-33 total investments [^24] [^10].
 
@@ -181,3 +181,6 @@ No additional independently sourced founder testimonials found beyond the quote 
 [^31]: Nuvocargo blog, "Welcoming New Angel Investors to Nuvocargo," accessed April 2026. https://www.nuvocargo.com/blog-posts/welcoming-new-angel-investors-nuvocargo
 [^32]: Global EdTech, "Argentinian EdTech Coderhouse secures $13.5M investment," August 2021. https://global-edtech.com/argentinian-edtech-coderhouse-secures-13-5m-investment/
 [^33]: PR Newswire, "Latitud Secures $11.5 Million in Seed Funding to Scale Next Generation of Tech Startups in Latin America," March 28, 2022. https://www.prnewswire.com/news-releases/latitud-secures-11-5-million-in-seed-funding-to-scale-next-generation-of-tech-startups-in-latin-america-301511383.html
+[^34]: Civic Marketplace, "Civic Marketplace Raises $3.2M to Transform Government Procurement, Announces Partnerships with Major Industry Leading Organizations," press release, December 2, 2024. https://www.civicmarketplace.com/insights/civic-marketplace-raises-3-2m-to-transform-government-procurement-announces-partnerships-with-major-industry-leading-organizations
+[^35]: Government Technology, "Investors Bet $3M on Procurement Startup Civic Marketplace," November 20, 2024. https://www.govtech.com/biz/investors-bet-3m-on-procurement-startup-civic-marketplace
+[^36]: Latitud blog, "How we raised Latitud's $13M seed round," Brian Requarth, July 12, 2022. https://www.latitud.com/blog/how-we-raised-latitud-seed-round

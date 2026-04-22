@@ -143,8 +143,8 @@ Mammoth Biosciences has raised approximately $363 million across six funding rou
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| May 2017 | Pre-Seed | Undisclosed | NFX | — [^8] |
-| Nov 2017 | Seed | $1.4M | — | NFX, K50 Ventures [^8] |
+| 2017-05-31 | Pre-Seed | $120K | NFX | — [^4] [^12] |
+| 2017-11-22 | Seed | $1.425M | NFX | K50 Ventures, SV Angel, Ron Conway [^4] [^8] |
 | Jul 2018 | Series A | $23M | Mayfield | NFX, 8VC, Tim Cook, Jeff Huber [^9] [^6] |
 | Jan 2020 | Series B | $45M | Decheng Capital | Mayfield, NFX, Verily, Brook Byers [^10] |
 | Nov 2020 | Series C | $45M | Redmile Group, Foresite Capital | Amazon, existing investors [^6] [^7] |
@@ -180,3 +180,4 @@ Mammoth Biosciences has raised approximately $363 million across six funding rou
 [^9]: TechCrunch, "Mammoth Biosciences raises $23 million for its CRISPR-based disease detection engine," July 31, 2018. https://techcrunch.com/2018/07/31/mammoth-biosciences-funding-crispr-doudna/
 [^10]: MedCity News, "Mammoth Biosciences raises $45M Series B round for CRISPR diagnostics, therapeutics development," January 30, 2020. https://medcitynews.com/2020/01/mammoth-biosciences-raises-45m-series-b-round-for-crispr-diagnostics-therapeutics-development/
 [^11]: Sixth Street, "Mammoth Biosciences Raises $195 Million to Build Next-Generation CRISPR Products in Therapeutics and Diagnostics," September 9, 2021. https://sixthstreet.com/investment_announce/mammoth-biosciences-raises-195-million-to-build-next-generation-crispr-products-in-therapeutics-and-diagnostics/
+[^12]: Crunchbase, "Pre Seed Round - Mammoth Biosciences - 2017-05-31," accessed April 2026. https://www.crunchbase.com/funding_round/mammoth-biosciences-pre-seed--ba9a6c6e
