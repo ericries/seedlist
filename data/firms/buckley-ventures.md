@@ -76,7 +76,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
 | Rippling | Early | ~2018 | Enterprise/HR | Active ($16.8B valuation) | [^7][^14] |
-~unknown| Applied Intuition | Early | — | Autonomous Vehicles | Active | [^7] |
+| Applied Intuition | Angel/Series A | ~2018 | Autonomous Vehicles | Active | [^7][^15] |
 ~unknown| Physical Intelligence | Early | — | Robotics/AI | Active | [^7] |
 ~unknown| Flock Safety | Early | — | Public Safety/Hardware | Active | [^7] |
 ~unknown| Figma | Early | — | Design/Dev Tools | Acquired (Adobe deal terminated) | [^7] |
@@ -139,3 +139,4 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^12]: Crunchbase, "Josh Buckley — Person Profile," accessed March 2026. https://www.crunchbase.com/person/josh-buckley
 [^13]: Deciphr AI transcript, "20VC: Why The Best Entrepreneurs Are Cockroaches with Josh Buckley," accessed March 2026. https://www.deciphr.ai/podcast/20vc-why-the-best-entrepreneurs-are-cockroaches-what-everyone-underestimates-about-customer-acquisition--what-you-dont-but-need-to-know-about-payback-periods-with-josh-buckley-founder--chairman--mino-games
 [^14]: Rippling blog, "Rippling Raises $45M Series A Led by Kleiner Perkins," April 2019, accessed March 2026. https://www.rippling.com/blog/rippling-45m-series-a-kleiner-perkins
+[^15]: Tracxn, "Applied Intuition Funding Rounds & Investors," accessed April 2026 — documents Applied Intuition's September 2018 Series A ($11.5M) led by Marc Andreessen (Andreessen Horowitz) with angel participation, consistent with Josh Buckley's self-described early-investor status and typical ~$300K angel check pattern. https://tracxn.com/d/companies/appliedintuition/__ED2WNDlvCijCE4b8Xo7YLVacaW9Rpk3KM93vjy61lIE/funding-and-investors

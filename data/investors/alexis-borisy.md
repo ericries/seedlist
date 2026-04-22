@@ -94,7 +94,7 @@ Companies Borisy has founded, co-founded, or made founding investments in:
 | Astoria Biologica | Curie.Bio portfolio | 2023 | MS therapy | Private | [^13] |
 | Differentiated Therapeutics | Curie.Bio portfolio | 2023 | Degrader therapeutics/AI | Private | [^13] |
 | Alkira Bio | Curie.Bio portfolio | 2024 | GPCR-targeting antibodies | Private | [^15] |
-~unknown| Delphia Therapeutics | Board/Advisor | Unknown | Therapeutics | Private | [^1] |
+| Delphia Therapeutics | Board Member (via Nextech) | 2024 | Oncology (activation lethality) | Private (Series A, $67M) | [^1] [^22] |
 | FogPharma (Parabilis Medicines) | Board Member (via Nextech) | 2024 | Oncology (helicon peptides) | Private | [^19] |
 
 This table represents a partial list. Curie.Bio reports investing in 26 startups as of January 2025, with a less than 1% acceptance rate from approximately 4,000 applications [^15]. Many Curie.Bio portfolio companies remain in stealth.
@@ -152,3 +152,4 @@ No additional independently sourced founder testimonials found beyond the above 
 [^19]: Endpoints News, "FogPharma bags $145M, adds Alexis Borisy to the board," March 2024, accessed March 2026. https://endpoints.news/fogpharma-bags-145m-adds-alexis-borisy-to-the-board/
 [^20]: Topio Networks, "Alexis Borisy, Chairman and former CEO, Warp Drive Bio," accessed March 2026. https://www.topionetworks.com/people/alexis-borisy-3e1429c09e597c1003c39e05
 [^21]: Fierce Pharma, "Blueprint keeps co-founder Alexis Borisy as director—without majority support from shareholders," accessed March 2026. https://www.fiercepharma.com/pharma/blueprint-keeps-cofounder-alexis-borisy-director-without-majority-support-shareholders
+[^22]: BioPharma Dive, "Delphia starts up with $67M to make a new type of cancer drug," May 2, 2024, accessed April 2026. https://www.biopharmadive.com/news/delphia-biotech-startup-launch-activation-lethality-cancer/714877/

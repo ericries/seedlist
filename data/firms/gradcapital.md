@@ -81,7 +81,7 @@ Based on 12 verified investments (approximately 35% of the firm's claimed 34 por
 | Nudgenow | Pre-seed | ~2022 | Consumer/SaaS | Active [^1] |
 | Airbound | Pre-seed | ~2022 | Drone delivery | Active [^13] |
 | Ripen | Pre-seed | ~2023 | Consumer/fintech | Active [^5] |
-| Fragmynt (fka Hazlo) | Pre-seed | ~2022 | Unknown | Unknown [^3] |
+| Fragmynt (fka Hazlo) | Pre-seed | 2022-02-15 | Blockchain/NFT fintech | Active [^3][^15][^16] |
 | MEINE Electric | Pre-seed | 2026 | Energy storage | Active [^11] |
 | Pluto Mobility | Seed | 2026 | EV/delivery vehicles | Active [^8] |
 
@@ -127,3 +127,5 @@ No additional independently sourced founder testimonials found beyond the BioCom
 [^12]: Startup Story Media, "gradCapital Launches $6 Million Fund for Indian Student Startups," September 2023. https://startupstorymedia.com/insights-gradcapital-launches-6-million-fund-for-indian-student-startups/
 [^13]: GlobeNewsWire, "Airbound Secures $1.7M to Make Drone Delivery Economically Viable Everywhere," November 2024. https://www.globenewswire.com/news-release/2024/11/14/2981152/0/en/Airbound-Secures-1-7M-to-Make-Drone-Delivery-Economically-Viable-Everywhere.html
 [^14]: Mission Uncrossable, "Mission Uncrossable Joins Forces with Humit," August 2024. https://missionuncrossabledemo.com/acquired-humit-app/
+[^15]: Tracxn, "Fragmynt — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/fragmynt/__xEDir0rcVLYIPxHlyOhPjtr9XCmha1PYkCKrEdmDY0Q/funding-and-investors
+[^16]: Tracxn, "Fragmynt — 2026 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/fragmynt/__xEDir0rcVLYIPxHlyOhPjtr9XCmha1PYkCKrEdmDY0Q
