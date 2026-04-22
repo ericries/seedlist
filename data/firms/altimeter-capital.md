@@ -136,24 +136,24 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Clumio | Growth | ~2023 | Data Protection | Active | [^13] |
 | StockX | Growth | ~2021 | E-commerce | Active | [^7] |
 
-### Public Portfolio (Q4 2025 13F)
+## Public Portfolio (Q4 2025 13F)
 
 | Company | Value | % of Portfolio | Source |
 |---------|-------|----------------|--------|
-~unknown| NVIDIA | $1.51B | 22.7% | [^6] |
-~unknown| Meta Platforms | $1.22B | 18.3% | [^6] |
-~unknown| Microsoft | $618M | 9.3% | [^6] |
-~unknown| Amazon | $511M | 7.7% | [^6] |
-~unknown| Uber | $457M | 6.9% | [^6] |
-~unknown| Snowflake | $445M | 6.7% | [^6] |
-~unknown| Taiwan Semiconductor | $371M | 5.6% | [^6] |
-~unknown| Coupang | $370M | 5.6% | [^6] |
-~unknown| CoreWeave | $230M | 3.5% | [^6] |
-~unknown| Confluent | $210M | 3.2% | [^6] |
-~unknown| Shopify | $92M | 1.4% | [^6] |
-~unknown| MercadoLibre | $64M+ | ~1.3% | [^6] |
-~unknown| Alphabet | $59M+ | ~1.2% | [^6] |
-~unknown| Bloom Energy | $27M | ~0.4% | [^6] |
+| NVIDIA | $1.51B | 22.7% | [^6] |
+| Meta Platforms | $1.22B | 18.3% | [^6] |
+| Microsoft | $618M | 9.3% | [^6] |
+| Amazon | $511M | 7.7% | [^6] |
+| Uber | $457M | 6.9% | [^6] |
+| Snowflake | $445M | 6.7% | [^6] |
+| Taiwan Semiconductor | $371M | 5.6% | [^6] |
+| Coupang | $370M | 5.6% | [^6] |
+| CoreWeave | $230M | 3.5% | [^6] |
+| Confluent | $210M | 3.2% | [^6] |
+| Shopify | $92M | 1.4% | [^6] |
+| MercadoLibre | $64M+ | ~1.3% | [^6] |
+| Alphabet | $59M+ | ~1.2% | [^6] |
+| Bloom Energy | $27M | ~0.4% | [^6] |
 
 ## In Their Own Words
 

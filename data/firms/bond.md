@@ -85,8 +85,8 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Canva | Growth ($70M round, BOND debut investment) | 2019 | Design/Consumer | Active | [^9][^14][^15] |
-~unknown| Applied Intuition | Growth | — | Autonomous Vehicles | Active | [^3] |
+| Canva | Growth ($70M round, BOND debut investment) | 2019 | Design/Consumer | Active | [^9][^10][^11] |
+| Applied Intuition | Series E (participant; $250M round led by Lux Capital, Elad Gil, Porsche) | 2024-03-12 | Autonomous Vehicles | Active | [^3][^12][^13][^14] |
 ~unknown| Block (Square) | Growth | — | Fintech | Active (Public) | [^3] |
 ~unknown| Checkr | Growth | — | HR Tech | Active | [^3][^6] |
 ~unknown| Dapper Labs | Growth | — | Web3/NFT | Active | [^3] |
@@ -129,5 +129,8 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^7]: VCSheet, "Daegwon Chae (Bond)," accessed March 2026. https://www.vcsheet.com/who/daegwon-chae
 [^8]: Tracxn, "Bond Capital - 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/bondcapital/__P9BMcH1fKN95ZHkjHMGJNhxm-PfyROcevL1hnBOqYns
 [^9]: Fortune, "Mary Meeker Makes First Investment Out of Bond Capital," May 21, 2019. https://fortune.com/2019/05/21/mary-meeker-canva-bond/
-[^14]: TechCrunch, "Graphic design platform Canva valued at $2.5B with new funds," May 20, 2019. $70M round with Bond, General Catalyst, Felicis, Blackbird. Total raised $166M. https://techcrunch.com/2019/05/20/graphic-design-platform-canva-valued-at-2-5b-with-new-funds/
-[^15]: Bloomberg, "Mary Meeker's New Fund Chooses Australian Startup for Debut Deal," May 20, 2019. https://www.bloomberg.com/news/articles/2019-05-20/mary-meeker-s-new-fund-chooses-australian-startup-for-debut-deal
+[^10]: TechCrunch, "Graphic design platform Canva valued at $2.5B with new funds," May 20, 2019. $70M round with Bond, General Catalyst, Felicis, Blackbird. Total raised $166M. https://techcrunch.com/2019/05/20/graphic-design-platform-canva-valued-at-2-5b-with-new-funds/
+[^11]: Bloomberg, "Mary Meeker's New Fund Chooses Australian Startup for Debut Deal," May 20, 2019. https://www.bloomberg.com/news/articles/2019-05-20/mary-meeker-s-new-fund-chooses-australian-startup-for-debut-deal
+[^12]: Applied Intuition blog, "Series E drives $6 billion valuation," March 12, 2024. BOND (Mary Meeker) listed as participant alongside a16z, Lux, Elad Gil, Porsche, and others. https://www.appliedintuition.com/blog/series-e
+[^13]: TechCrunch, "Applied Intuition lands $6B valuation for AI-powered autonomous vehicle software," March 12, 2024. "Others joining the round were Andreessen Horowitz, Mary Meeker's growth fund Bond, and even Formula 1 world champion Nico Rosberg." https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/
+[^14]: PR Newswire, "Applied Intuition, Inc. Grows to $6 Billion Valuation, Securing $250 Million in Series E Funding," March 12, 2024. https://www.prnewswire.com/news-releases/applied-intuition-inc-grows-to-6-billion-valuation-securing-250-million-in-series-e-funding-to-advance-vehicle-software-and-ai-capabilities-302086239.html
