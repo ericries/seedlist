@@ -62,12 +62,12 @@ Smule is a social music platform founded in 2008 by Jeff Smith and Stanford prof
 | Feb 2009 | Series A | $3.9M | Granite Ventures | Floodgate, Bessemer Venture Partners [^4] |
 | Dec 2009 | Series C | $8M | Shasta Ventures | Granite Ventures, Bessemer Venture Partners [^5] |
 | Oct 2011 | Series D | $12M | Shasta Ventures | Granite Ventures, Bessemer Venture Partners [^6] |
-| Apr 2014 | Series E | $16.6M | Undisclosed | Bessemer Venture Partners, Granite Ventures, ROTH Capital Partners [^4] |
+| 2014-04-10 | Series E | $16.6M | Roth Capital Partners | Bessemer Venture Partners, Granite Ventures, Shasta Ventures [^4] [^12] [^13] |
 | Apr 2015 | Series F | $26M | Adams Street Partners | Shasta Ventures, Bessemer Venture Partners [^4] |
 | Jun 2016 | Series G | $22M | Adams Street Partners | Undisclosed [^7] |
 | May 2017 | Series H | $54M | Tencent | Adams Street Partners, Bessemer Venture Partners, Floodgate, Franklin Templeton, Shasta Ventures [^2] |
 | Oct 2018 | Series I | $20M | Times Bridge | — [^8] |
-| Dec 2022 | Series J | $14.2M | Undisclosed | Bessemer Venture Partners [^3] |
+| 2022-12-06 | Series J | $14.2M | Undisclosed | Bessemer Venture Partners, Experior Venture Fund, Granite Ventures, Shasta Ventures [^3] [^14] |
 
 ## What Investors Say
 
@@ -98,3 +98,6 @@ Smule is a social music platform founded in 2008 by Jeff Smith and Stanford prof
 [^9]: TechCrunch, "How Smule's Jeff Smith Got A Ph.D. While Running A Startup," December 15, 2013. https://techcrunch.com/2013/12/15/smule-jeff-smith-ph-d/
 [^10]: Times Bridge, "Smule Announces Strategic Investment from Times Bridge in India," 2018. https://timesbridge.com/press-releases/smule-announces-strategic-investment-from-times-bridge-in-india/
 [^11]: Startup Grind, "From The Vault Jeff Smith (Smule)," accessed March 2026. https://www.startupgrind.com/blog/from-the-vault-jeff-smith-smule/
+[^12]: Billboard, "App Maker Smule Raises $16.6M, Eyes Eventual IPO," April 2014. https://www.billboard.com/music/music-news/app-maker-smule-raises-166m-eyes-eventual-ipo-6049206/
+[^13]: Music Ally, "Music apps firm Smule raises $16.6m in latest funding round," June 23, 2014. https://musically.com/2014/06/23/music-apps-firm-smule-raises-16-6m-in-latest-funding-round/
+[^14]: CB Insights, Smule Financials (Series J, December 6, 2022), accessed April 2026. https://www.cbinsights.com/company/smule/financials

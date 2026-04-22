@@ -91,9 +91,9 @@ SV Angel was an early backer of Snapchat, investing alongside other prominent fi
 | Series B | Jun 2013 | $60M–$80M | Institutional Venture Partners | General Catalyst [^4] | $800M |
 | Series C | 2014 | $50M–$54.5M | Coatue Management | — [^3] | $2B |
 | Series D | 2014 | $485M | Kleiner Perkins | GIC, Yahoo, SV Angel, 23 investors total [^5] | $10B |
-| Series E | Mar 2015 | $200M | Alibaba Group | Benchmark, Coatue, General Catalyst, IVP, Kingdom Holding, KPCB, Lightspeed, SV Angel, Tencent, Yahoo [^5] | — |
+| Series E | 2015-03-11 | $200M | Alibaba Group | Benchmark, Coatue, General Catalyst, IVP, Kingdom Holding, KPCB, Lightspeed, SV Angel, Tencent, Yahoo [^5][^13][^14] | $15B |
 | Series F | May 2016 | $1.8B | Fidelity Investments | General Atlantic, Sequoia Capital, T. Rowe Price, Lone Pine, Glade Brook Capital, IVP, Coatue [^8] | $18B |
-| IPO | Mar 2017 | $3.4B | — | Public offering [^4] | $24B |
+| IPO | 2017-03-02 | $3.4B | Morgan Stanley, Goldman Sachs | J.P. Morgan, Deutsche Bank, Barclays, Credit Suisse, Allen & Co. [^4][^15][^16] | $24B |
 | Post-IPO | Nov 2017 | $2B | Tencent | — [^8] | — |
 | Post-IPO | Aug 2018 | $250M | Alwaleed Bin Talal | — [^8] | — |
 
@@ -125,3 +125,7 @@ In a 2025 letter to his team, Spiegel stated that Snap has "the platform, the di
 [^10]: YourStory, "12 quotes by Snap Co-founder and billionaire Evan Spiegel to encourage entrepreneurs," accessed March 2026. https://yourstory.com/2020/03/inspiring-quotes-snap-inc-ceo-evan-thomas-spiegel
 [^11]: Entrepreneur, "Snap CEO Evan Spiegel Gives Future Entrepreneurs Key Advice," accessed March 2026. https://www.entrepreneur.com/business-news/snap-ceo-evan-spiegel-gives-future-entrepreneurs-key-advice/488990
 [^12]: Snap Newsroom, "14 Years at Snap Inc.," 2025. https://newsroom.snap.com/14-year-letter
+[^13]: TechCrunch, "Understanding Alibaba's Snapchat Obsession," March 12, 2015. https://techcrunch.com/2015/03/12/this-is-more-than-a-crush/
+[^14]: SiliconANGLE, "Snapchat raises yet another round, this time its $200m Series E from Alibaba on a $15b valuation," March 11, 2015. https://siliconangle.com/2015/03/11/snapchat-raises-yet-another-round-this-time-its-200m-series-e-from-alibaba-on-a-15b-valuation/
+[^15]: CNBC, "Here's what Snap's Wall Street underwriters made off the IPO," March 3, 2017. https://www.cnbc.com/2017/03/03/snap-ipo-what-wall-street-banks-made.html
+[^16]: Bloomberg, "Goldman Sachs Wins Coveted Stabilization Agent Role on Snap IPO," February 2, 2017. https://www.bloomberg.com/news/articles/2017-02-02/goldman-sachs-wins-coveted-stabilization-agent-role-on-snap-ipo

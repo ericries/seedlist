@@ -82,13 +82,13 @@ Sierra builds AI agents that handle customer service interactions for enterprise
 
 ## Funding History
 
-| Date | Round | Amount | Lead | Co-investors |
-|------|-------|--------|------|-------------|
-| Feb 2024 | Seed | $110M | Sequoia Capital, Benchmark | — | [^1] |
-| Oct 2024 | Series B | $175M | Greenoaks Capital | Thrive Capital, ICONIQ | [^2][^3] |
-| Sep 2025 | Series C | $350M | Greenoaks Capital | — | [^4] |
+| Date | Round | Amount | Valuation | Lead | Co-investors |
+|------|-------|--------|-----------|------|-------------|
+| 2024-02-13 | Seed | $110M | ~$1B | Sequoia Capital, Benchmark | — [^1] |
+| 2024-10-28 | Series B | $175M | $4.5B | Greenoaks Capital | Thrive Capital, ICONIQ [^2][^3] |
+| 2025-09-04 | Series C | $350M | $10B | Greenoaks Capital | — [^4][^8] |
 
-Total raised: $635M [^4]. Valuations: ~$1B (Seed), $4.5B (Series B), $10B (Series C) [^1][^2][^4].
+Total raised: $635M [^4].
 
 ## What Investors Say
 
