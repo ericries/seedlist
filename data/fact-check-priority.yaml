@@ -1,1 +1,5 @@
-priority: []
+priority:
+- slug: acrew-capital
+  type: firm
+  reason: appeared in Monk Series A round 2026-04-21
+  added: '2026-04-21'
