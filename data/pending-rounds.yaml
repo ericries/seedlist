@@ -84,6 +84,15 @@ pending_rounds:
   notes: created startup profile nox-mobility.md; €2M pre-Seed announced 2026-04-22;
     lead IBB Ventures; co-investors Tommaso Lucca and Patrick Andrae (HomeToGo co-founder);
     no firm slugs added (none yet profiled)
+- title: Lisbon-based DOJO AI secures €5.1 million to expand its AI marketing platform
+    in the U.S.
+  url: https://www.eu-startups.com/2026/04/lisbon-based-dojo-ai-secures-e5-1-million-to-expand-its-ai-marketing-platform-in-the-u-s/
+  source: eu-startups
+  date_found: '2026-04-22'
+  parsed_company: Lisbon-based DOJO AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
     testing
   url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
@@ -990,12 +999,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: IPO on Nasdaq ($1.13B), not a startup funding round
-- title: Madison Air Solutions raised $2.2B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Madison Air Solutions
-  parsed_amount: $2.2B
-  parsed_round: null
-  status: skipped
-  skip_reason: IPO on NYSE ($2.2B), not a startup funding round
