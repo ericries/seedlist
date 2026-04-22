@@ -85,10 +85,10 @@ This table represents Chen's verified board-level and lead investments at a16z, 
 | Reforge | Series A | 2021 | Education / professional development | [^25] |
 | Sleeper | Series C ($40M) | 2021 | Consumer social / sports | [^26] |
 | Sandbox VR | Series B ($37M) | 2021 | VR / entertainment | [^27] |
-~unknown| Envoy | Board seat | — | Enterprise / workplace | [^28] |
-~unknown| Practice | Seed ($10M) | — | Creator economy / coaching | [^29] |
-~unknown| Pietra | — | — | Creator economy / e-commerce | [^28] |
-~unknown| Polymer | — | — | Data / analytics | [^28] |
+| Envoy | Series B ($43M) | 2018 | Enterprise / workplace | [^28][^32][^33] |
+| Practice | Seed ($10M) | ~2021 | Creator economy / coaching | [^29] |
+| Pietra | Seed | ~2020 | Creator economy / e-commerce | [^28] |
+| Polymer | Seed | ~2019 | Data / analytics | [^28] |
 
 **Pre-a16z advisory/angel investments:** Dropbox, AngelList, Gusto, Barkbox, Front, Product Hunt, Tinder, Workato, Kiva, Boba Guys [^1][^2].
 
@@ -137,7 +137,7 @@ Ben Horowitz, a16z co-founder, stated when recruiting Chen: "Andrew broke down t
 - **Board member, Sandbox VR** — alongside Siqi Chen (founder); co-investors include Mike Maples / Floodgate [^13][^10]
 - **Board member, Virtual Kitchen Co** — alongside Ken Chong (co-founder, ex-Uber); Adeyemi Ajao (Base10) also joined board [^18][^19]
 - **Board member, Reforge** — alongside Brian Balfour (CEO) [^25]
-- **Board member, Envoy** [^28]
+- **Board member, Envoy** — joined October 2018 alongside Matt Murphy (Menlo Ventures) as part of $43M Series B [^28][^32][^33]
 - **Former Head of Rider Growth, Uber** (2015-2018) [^2][^6]
 - **Former Entrepreneur-in-Residence, Mohr Davidow Ventures** [^6][^31]
 - **Author, *The Cold Start Problem*** (2021) — bestselling book on network effects [^7]
@@ -175,3 +175,5 @@ Ben Horowitz, a16z co-founder, stated when recruiting Chen: "Andrew broke down t
 [^29]: Venture Capital Journal, "Practice inks $10m seed round led by a16z's Andrew Chen," accessed March 2026. https://www.venturecapitaljournal.com/canadian-software-startup-practice-inks-seed-financing/
 [^30]: Andrew Chen on X, "$30M+ invested in past 45 days via Speedrun," November 2024. https://x.com/andrewchen/status/1920532326746108205
 [^31]: Bio Newsly, "Andrew Chen: The Visionary Investor and Blogger Transforming Startups," accessed March 2026. https://bionewsly.com/andrew-chen/
+[^32]: TechCrunch, "Envoy raises $43 million to digitize your office," October 23, 2018. https://techcrunch.com/2018/10/23/envoy-raises-43-million/
+[^33]: Pulse 2.0, "Visitor Management Company Envoy Raises $43 Million In Series B," October 2018. https://pulse2.com/envoy-raises-43-million/

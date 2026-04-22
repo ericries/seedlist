@@ -96,7 +96,7 @@ Fifth Wall invests across stages — seed through growth — with typical check 
 | Hippo | IPO | ~2021 | Insurtech / homeowner | IPO | [^2] |
 | Doma | IPO | ~2021 | Proptech / title insurance | IPO | [^8] |
 | BitGo | IPO | 2026 | Fintech / crypto custody | IPO | [^5] |
-~unknown| BILT | — | — | Proptech / loyalty | Active (unicorn) | [^9] |
+| BILT Rewards | Series A | 2022-10-25 | Proptech / loyalty | Active (unicorn) | [^11][^12][^13] |
 ~unknown| VTS | — | — | Proptech / CRE platform | Active (unicorn) | [^8] |
 ~unknown| ICON | — | — | Construction / 3D printing | Active (unicorn) | [^9] |
 ~unknown| Aurora Solar | — | — | Climate / solar design | Active | [^8] |
@@ -150,3 +150,6 @@ One testimonial describes working with Wallace: "Brendan roots for you, he wants
 [^8]: Fifth Wall website, portfolio page, accessed March 2026. https://www.fifthwall.com/portfolio
 [^9]: PR Newswire, "Fifth Wall Closes $1.5 Billion In New Funds In 2022," February 2023, accessed March 2026. https://www.prnewswire.com/news-releases/fifth-wall-closes-1-5-billion-in-new-funds-in-2022--301756488.html
 [^10]: Signal by NFX, Brendan Wallace investor profile, accessed March 2026. https://signal.nfx.com/investors/brendan-wallace
+[^11]: Bilt Rewards newsroom, "Bilt Rewards Valued at $1.5 Billion in New Financing from Left Lane Capital, Greystar, Wells Fargo, Smash Capital as it Expands its Loyalty and Credit Card Program," October 25, 2022, accessed April 2026. https://newsroom.biltrewards.com/bilt-rewards-valued-at-1-5-billion
+[^12]: PR Newswire, "Bilt Rewards Valued at $1.5 Billion in New Financing from Left Lane Capital, Greystar, Wells Fargo, Invitation Homes, Smash Capital as it Expands its Loyalty and Credit Card Program," October 25, 2022, accessed April 2026. https://www.prnewswire.com/news-releases/bilt-rewards-valued-at-1-5-billion-in-new-financing-from-left-lane-capital-greystar-wells-fargo-invitation-homes-smash-capital-as-it-expands-its-loyalty-and-credit-card-program-301658462.html
+[^13]: TechCrunch, "Bilt Rewards' valuation jumps to $1.5B following new $150M growth round," October 25, 2022, accessed April 2026. https://techcrunch.com/2022/10/25/bilt-rewards-valuation-1-5b-renter-credit-card/

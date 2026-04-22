@@ -50,9 +50,9 @@ On AI in healthcare, Kocher has cautioned against simplistic applications, criti
 
 ## Inferred Thesis
 
-*(Based on 14 verified investments where Kocher has a board seat or board observer role. This represents his personally led deals at Venrock, not the full Venrock portfolio. Sample size is moderate; qualitative patterns are more reliable than precise percentages.)*
+*(Based on 13 verified investments where Kocher has a board seat or board observer role. This represents his personally led deals at Venrock, not the full Venrock portfolio. Sample size is moderate; qualitative patterns are more reliable than precise percentages.)*
 
-**Sector focus:** Kocher's portfolio is exclusively healthcare. Within that, the concentration is on value-based care and care delivery (Aledade, Devoted Health, Accompany Health — 3 of 14, 21%), digital health platforms (Lyra Health, Virta Health, Grand Rounds/Included Health, Doctor on Demand — 4 of 14, 29%), healthcare infrastructure and operations (Candid Health, SmithRx, Stride Health, Suki — 4 of 14, 29%), and insurance/payer innovation (Devoted Health, Premera Blue Cross — 2 of 14, 14%).
+**Sector focus:** Kocher's portfolio is exclusively healthcare. Within that, the concentration is on value-based care and care delivery (Aledade, Devoted Health, Accompany Health — 3 of 13, 23%), digital health platforms (Lyra Health, Virta Health, Grand Rounds/Included Health, Doctor on Demand — 4 of 13, 31%), healthcare infrastructure and operations (SmithRx, Stride Health, Suki — 3 of 13, 23%), and insurance/payer innovation (Devoted Health, Premera Blue Cross — 2 of 13, 15%).
 
 **Stage distribution:** Kocher has been involved from Seed through growth stages. Based on his board companies' first Venrock investment rounds: Seed investments include Aledade (2014), Devoted Health (2017), Virta Health (2014), and Lyra Health (2015). Series A investments include Stride Health (2015), Doctor on Demand (2013 seed then led Series A), and Suki (2018). This suggests a predominantly early-stage focus with approximately 7 of 14 (50%) at Seed or Series A, consistent with Venrock's overall stage focus.
 
@@ -79,7 +79,6 @@ On AI in healthcare, Kocher has cautioned against simplistic applications, criti
 | Devoted Health (founding CMO) | 2017 | Seed | [^20] |
 | Suki | 2018 | Series A | [^21] |
 | Accompany Health (co-founder) | 2024 | Series A | [^10] |
-~unknown| Candid Health | -- | -- | [^1] |
 ~unknown| Sitka | -- | -- | [^1] |
 ~unknown| Need | -- | -- | [^1] |
 ~unknown| Renew Health | -- | -- | [^2] |
