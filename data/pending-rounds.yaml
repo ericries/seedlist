@@ -204,6 +204,16 @@ pending_rounds:
   status: skipped
   skip_reason: Cerberus Capital Management is a large PE/credit firm; $2.3B is a fund/credit
     raise, not a startup funding round
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/21/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-21-2026/
+  source: alleywatch
+  date_found: '2026-04-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed_note: Created monk and qualitate startup profiles; Coral already existed
+    (coral-health-ai) as noted in task
 - title: Swiss startup Planetary raises nearly €23 million to build the industrial
     backbone of the bioeconomy
   url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
@@ -975,13 +985,3 @@ pending_rounds:
   status: processed
   notes: duplicate of Axios Storm Therapeutics entry; storm-therapeutics.md already
     exists
-- title: ALL THINGS raises €4.1 million after chef Thomas Straker’s viral butter series
-    sparked a dairy brand
-  url: https://www.eu-startups.com/2026/04/all-things-raises-e4-1-million-after-chef-thomas-strakers-viral-butter-series-sparked-a-dairy-brand/
-  source: eu-startups
-  date_found: '2026-04-16'
-  parsed_company: ALL THINGS
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: UK consumer food brand; outside scope
