@@ -49,6 +49,41 @@ pending_rounds:
     & Co., Mätch VC, MBG Baden-Württemberg, Tech Horizons; Lichtenau Germany / Strasbourg
     France; cited via HTGF press release and Tech.eu; no firm slugs added (none yet
     profiled)
+- title: What The Record Venture Funding Quarter Actually Means For Your Startup’s
+    Fundraise
+  url: https://news.crunchbase.com/venture/building-successful-startup-vertical-ai-schroder-mgv/
+  source: crunchbase
+  date_found: '2026-04-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  notes: thought-leadership opinion piece by Marc Schröder (MGV) on record Q1 2026
+    venture funding; not a round announcement
+- title: Crypto casino BetHog closes €8.5 million Series A to scale AI live dealer
+    platform from the UK
+  url: https://www.eu-startups.com/2026/04/crypto-casino-bethog-closes-e8-5-million-series-a-to-scale-ai-live-dealer-platform-from-the-uk/
+  source: eu-startups
+  date_found: '2026-04-22'
+  parsed_company: Crypto casino BetHog
+  parsed_amount: null
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile bethog.md; Series A $10.4M (~€8.5M) originally announced
+    2025-11-24 per Tracxn, re-surfaced in eu-startups 2026-04-22 UK expansion piece;
+    lead 6th Man Ventures; co-investors not yet profiled so no firm slugs added
+- title: Berlin’s Nox Mobility raises €2 million to put Europe’s night trains back
+    on track
+  url: https://www.eu-startups.com/2026/04/berlins-nox-mobility-raises-e2-million-to-put-europes-night-trains-back-on-track/
+  source: eu-startups
+  date_found: '2026-04-22'
+  parsed_company: Berlin’s Nox Mobility
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile nox-mobility.md; €2M pre-Seed announced 2026-04-22;
+    lead IBB Ventures; co-investors Tommaso Lucca and Patrick Andrae (HomeToGo co-founder);
+    no firm slugs added (none yet profiled)
 - title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
     testing
   url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
@@ -964,32 +999,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: IPO on NYSE ($2.2B), not a startup funding round
-- title: Accel raised $4B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Accel
-  parsed_amount: $4B
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund raise (Accel Leaders Fund), not a startup round; duplicate
-    of earlier Accel $5B TechCrunch entry
-- title: Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation
-  url: https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/
-  source: techcrunch
-  date_found: '2026-04-16'
-  parsed_company: Slash, a Ramp competitor founded by teenagers,
-  parsed_amount: $100M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate; slash-fintech.md already exists from Axios entry
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/16/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-16-2026/
-  source: alleywatch
-  date_found: '2026-04-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted Artemis $70M (created artemis-security.md), Joyful Health $17M
-    (created joyful-health.md), Traza $2.1M (already processed)
