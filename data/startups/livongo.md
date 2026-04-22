@@ -61,10 +61,10 @@ On August 5, 2020, Teladoc Health announced a merger with Livongo in a deal valu
 |------|-------|--------|-------------------|--------------|
 | 2014-09-10 | Series A | $10M | General Catalyst | — [^9] |
 | 2015-04-07 | Series B | $20M | Kleiner Perkins | DFJ, General Catalyst [^10] |
-| 2016-04-12 | Series C | $44.5M | — | Merck Global Health Innovation Fund, Sapphire Ventures, Zaffre Investments, Cowen Private Investments, Wanxiang America, General Catalyst, Kleiner Perkins, DFJ, 7wire Ventures [^11][^12] |
-| 2017-03-16 | Series D | $52.5M | General Catalyst, Kinnevik (co-lead) | EDBI, American Investment Holdings, Microsoft Ventures [^13] |
-| 2018-04-11 | Series E | $105M | General Catalyst, Kinnevik (co-lead) | DFJ, Kleiner Perkins, Merck Global Health Innovation Fund, Microsoft Ventures, Sapphire Ventures, Zaffre Investments, 7wire Ventures, Echo Health Ventures [^3][^14] |
-| 2019-07-25 | IPO | $355M | — | Nasdaq: LVGO. Underwriters: Morgan Stanley, Goldman Sachs, J.P. Morgan [^5] |
+| 2016-04-12 | Series C | $44.5M | Undisclosed | Merck Global Health Innovation Fund, Sapphire Ventures, Zaffre Investments, Cowen Private Investments, Wanxiang America, General Catalyst, Kleiner Perkins, DFJ, 7wire Ventures [^11][^12] |
+| 2017-03-16 | Series D | $52.5M | General Catalyst, Kinnevik | EDBI, American Investment Holdings, Microsoft Ventures [^13] |
+| 2018-04-11 | Series E | $105M | General Catalyst, Kinnevik | DFJ, Kleiner Perkins, Merck Global Health Innovation Fund, Microsoft Ventures, Sapphire Ventures, Zaffre Investments, 7wire Ventures, Echo Health Ventures [^3][^14] |
+| 2019-07-25 | IPO | $355M | Morgan Stanley, Goldman Sachs, J.P. Morgan | Nasdaq: LVGO. Priced at $28/share; fully diluted pre-money valuation of $2.8B [^5][^15] |
 
 At IPO, General Catalyst held approximately 25.4% of the company, Kinnevik held 12%, Kleiner Perkins held 8.9%, Merck Global Health Innovation Fund held 7.6%, and 7wire Ventures held 7.1%. Founder Glen Tullman personally held 5.1% [^4][^15].
 

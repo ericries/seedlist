@@ -138,14 +138,16 @@ PagerDuty is a digital operations management platform that helps companies manag
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors |
 |-------|------|--------|-------------------|-------------------|
-| Seed | Sep 2010 | $1.9M | — | Harrison Metal, Baseline Ventures, Ignition Partners |
+| Seed | 2010-09-29 | $1.9M | Baseline Ventures, Harrison Metal, Ignition Partners | SV Angel, Michael Dearing, Steve Anderson |
 | Series A | Jan 2013 | $10.7M | Andreessen Horowitz | Baseline Ventures, Harrison Metal, Jesse Robbins |
 | Series B | Jul 2014 | $27.2M | Bessemer Venture Partners | Andreessen Horowitz, Baseline Ventures, Harrison Metal |
 | Series C | Apr 2017 | $43.8M | Accel | Andreessen Horowitz, Bessemer Venture Partners, Baseline Ventures, Harrison Metal |
 | Series D | Sep 2018 | $90M | T. Rowe Price, Wellington Management | Accel, Andreessen Horowitz, Bessemer Venture Partners |
-| IPO | Apr 2019 | $218M | — | — |
+| IPO | 2019-04-11 | $217.68M | Morgan Stanley, J.P. Morgan | RBC Capital Markets, Allen & Company |
 
-Sources: [^1][^2][^3][^4][^5][^6][^7]
+The seed round was not led by a single firm; it was a priced angel/seed round with Baseline Ventures, Harrison Metal, and Ignition Partners as the institutional participants, alongside SV Angel and angels Michael Dearing and Steve Anderson [^6][^8]. PagerDuty priced its IPO on April 10, 2019 at $24.00 per share (9,070,000 shares), with trading commencing on the NYSE on April 11, 2019 under ticker "PD"; shares opened around $38.25, implying a roughly $2.8 billion opening market capitalization versus the $1.8 billion pricing valuation [^3][^7][^9].
+
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9]
 
 ## What Investors Say
 
@@ -164,3 +166,5 @@ No independently sourced founder testimonials found.
 [^5]: PagerDuty Newsroom, "PagerDuty Raises $90M Series D Investment to Expand Its Platform for Real-Time Operations," September 2018. https://www.pagerduty.com/newsroom/raises-series-d-investment/
 [^6]: Crunchbase, "Seed Round - PagerDuty," accessed March 2026. https://www.crunchbase.com/funding_round/pagerduty-seed--9840ce63
 [^7]: PagerDuty Newsroom, "PagerDuty Announces Pricing of Initial Public Offering," April 2019. https://www.pagerduty.com/newsroom/initial-public-offering-pricing/
+[^8]: PagerDuty Blog, "A Decade of Duty: A Brief Look at PagerDuty's History," accessed April 2026. https://www.pagerduty.com/blog/decade-of-duty/
+[^9]: PR Newswire, "PagerDuty Announces Pricing of Initial Public Offering," April 10, 2019. https://www.prnewswire.com/news-releases/pagerduty-announces-pricing-of-initial-public-offering-300830420.html

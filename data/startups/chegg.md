@@ -96,10 +96,10 @@ Chegg is an education technology company that started as a textbook rental servi
 | Series B | Jun 2008 | $4.7M | Gabriel Venture Partners | Primera Capital |
 | Series C | Dec 2008 | $25M | Kleiner Perkins | Foundation Capital, Gabriel Venture Partners, Primera Capital |
 | Series D | Nov 2009 | $57M | Insight Partners | Kleiner Perkins, Foundation Capital, Gabriel Venture Partners, Primera Capital |
-| Series E | Sep 2010 | $75M | Ace Limited | — |
-| IPO | Nov 2013 | $187.5M | — | — |
+| Series E | 2010-09-27 | $75M | Ace Limited | Kleiner Perkins, Foundation Capital, Insight Venture Partners [^7][^8] |
+| IPO | 2013-11-13 | $187.5M | J.P. Morgan, BofA Merrill Lynch | Jefferies, Piper Jaffray, Raymond James, BMO Capital Markets [^3][^9] |
 
-Sources: [^1][^3][^4][^5][^6][^7]
+Sources: [^1][^3][^4][^5][^6][^7][^8][^9]
 
 ## What Investors Say
 
@@ -117,4 +117,6 @@ No independently sourced founder testimonials found.
 [^4]: TechCrunch, "Confirmed: Kleiner Perkins Gets Into Textbook Rentals As Chegg Raises $25 Million," December 2008. https://techcrunch.com/2008/12/17/confirmed-kleiner-perkins-gets-into-textbook-rentals-as-chegg-raises-25-million/
 [^5]: Fenwick & West, "Fenwick & West Represents Chegg in $57 Million Series D Financing," accessed March 2026. https://www.fenwick.com/insights/experience/fenwick-west-represents-chegg-in-57-million-series-d-financing-and-25-million-credit-facility
 [^6]: Crunchbase, "Series B - Chegg," accessed March 2026. https://www.crunchbase.com/funding_round/chegg-series-b--372cfb16
-[^7]: AllThingsD, "Exclusive: Chegg Raises $75 Million in Additional Funding from Asian Firm," September 2010. https://allthingsd.com/20100926/exclusive-chegg-raises-75-million-in-additional-funding-from-asias-ace/
+[^7]: AllThingsD, "Exclusive: Chegg Raises $75 Million in Additional Funding from Asian Firm," September 26, 2010. https://allthingsd.com/20100926/exclusive-chegg-raises-75-million-in-additional-funding-from-asias-ace/
+[^8]: VatorNews, "Textbook renter Chegg raises $75 million," September 27, 2010. https://vator.tv/2010-09-27-textbook-renter-chegg-raises-75-million/
+[^9]: Chegg Investor Relations / PR Newswire, "Chegg Prices Initial Public Offering," November 12, 2013. https://www.prnewswire.com/news-releases/chegg-prices-initial-public-offering-231648801.html
