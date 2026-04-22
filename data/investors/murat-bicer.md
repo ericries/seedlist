@@ -53,11 +53,11 @@ He has described his investment approach as driven by visceral excitement upon e
 
 ## Inferred Thesis
 
-Based on 17 verified investments attributed specifically to Bicer (from the portfolio table below), his actual investment behavior shows the following patterns:
+Based on 15 verified investments attributed specifically to Bicer (from the portfolio table below), his actual investment behavior shows the following patterns:
 
-**Stage distribution:** Of 17 verified investments, 4 are seed-stage (24%), 9 are Series A (53%), and 4 are Series B (24%). Despite stating a focus on earliest-stage investing, the majority of his verified deals are Series A, where he can evaluate an initial product before committing. This is consistent with CRV's firm-level "post-product/pre-traction" philosophy.
+**Stage distribution:** Of 15 verified investments with known stages, 4 are seed-stage (27%), 9 are Series A (60%), and 4 are Series B (27%). Percentages exceed 100% because some companies (Encord, Datadog) span multiple rounds. Despite stating a focus on earliest-stage investing, the majority of his verified deals are Series A, where he can evaluate an initial product before committing. This is consistent with CRV's firm-level "post-product/pre-traction" philosophy.
 
-**Sector breakdown:** Enterprise/B2B software dominates: 5 of 17 investments are in developer tools or infrastructure (29%), 4 in e-commerce infrastructure and marketing automation (24%), 3 in cybersecurity (18%), 2 in AI/ML (12%), 2 in cloud/data infrastructure (12%), and 1 in testing/QA (6%). Bicer's portfolio is heavily weighted toward companies building tools for engineering and operations teams.
+**Sector breakdown:** Enterprise/B2B software dominates: 5 of 15 investments are in developer tools or infrastructure (33%), 4 in e-commerce infrastructure and marketing automation (27%), 3 in cybersecurity (20%), 2 in AI/ML (13%), 2 in cloud/data infrastructure (13%), and 1 in testing/QA (7%). Some companies span multiple sectors, so categories overlap. Bicer's portfolio is heavily weighted toward companies building tools for engineering and operations teams.
 
 **Geographic concentration:** The majority of verified investments are US-based companies, with concentration in San Francisco and Boston. Arena (Brazil-headquartered) is a notable exception. Bicer's time at RTP Ventures gave him exposure to Israel and Turkey, and his Battery-era investment in Zerto (Israel-based) reflects this.
 
@@ -91,9 +91,9 @@ This table includes 17 investments where Murat Bicer's personal involvement has 
 | Encord | ~2023 | Seed, Series A, Series B | [^27] |
 | LanceDB | 2024 | Seed (lead) | [^28] [^29] |
 | Voyage AI | 2024 | Series A (lead) | [^30] [^15] |
-| Mext | ~2024 | Unknown | [^8] |
 | Nimble | ~2024 | Early stage | [^8] |
-| Tonic Security | ~2024 | Unknown | [^8] |
+
+Note: VCSheet listed "Mext" and "Tonic Security" as Bicer-associated companies, but primary-source investigation (Mext venture round of May 15, 2024, $8.18M, led by Clear Ventures with FJ Labs, DN Capital, PageOne Ventures, Raptor Group, and Uncorrelated Ventures [^32]; Tonic Security $7M seed announced July 28, 2025, led by Hetz Ventures with Vesey Ventures and Bullet Ventures [^33]) shows neither round included CRV or Bicer. These entries have been removed from the verified portfolio pending a primary-source confirmation of involvement.
 
 ## In Their Own Words
 
@@ -154,3 +154,5 @@ Note: The Iterable testimonial is sourced from CRV's own portfolio page and refe
 [^29]: LanceDB on X (Twitter), seed round announcement, May 15, 2024. https://x.com/lancedb/status/1790778455778263157
 [^30]: Murat Bicer on X (Twitter), Voyage AI partnership announcement, October 2024. https://x.com/itsbeecher/status/1841862001079026095
 [^31]: CRV Medium, "#PowerToTheMakers — CRV Promotes Brittany Walker to General Partner," accessed April 2026. https://medium.com/crv-insights/powertothemakers-crv-promotes-brittany-walker-to-general-partner-two-successful-100-million-06d8f639e0ec
+[^32]: Crunchbase, MEXT funding round profile, venture round May 15, 2024, accessed April 2026. https://www.crunchbase.com/funding_round/mext-ai-series-unknown--aebdbb0d
+[^33]: Tonic Security press release, "Tonic Security raises $7M to Slash Cyber Risk with Agentic Exposure Management Platform," July 28, 2025, accessed April 2026. https://www.tonicsecurity.com/press/tonic-security-raises-7m-to-slash-cyber-risk-with-agentic-exposure-management-platform

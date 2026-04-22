@@ -82,7 +82,7 @@ The following companies represent verified investments by Lee Linden personally 
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-~unknown| ElevenLabs | — | — | Quiet Capital website [^11] |
+| ElevenLabs | ~2023 | Early (Seed/Series A) | Michael Bloch (Quiet Capital Partner) [^16] |
 ~unknown| OpenAI | — | — | Quiet Capital website [^11] |
 ~unknown| Sanas | — | — | Quiet Capital website [^11] |
 ~unknown| Mercury | — | — | Quiet Capital website [^11] |
@@ -101,7 +101,7 @@ The following companies represent verified investments by Lee Linden personally 
 ~unknown| Substack | — | — | Tracxn [^13] |
 ~unknown| MoonPay | — | — | Tracxn [^13] |
 | Mach9 | ~2024 | Seed | Fortune [^14] |
-| Standard Bots | ~2024 | — | Fortune [^14] |
+| Standard Bots | 2024 | Series B | Standard Bots press release, July 12, 2024 [^17] |
 | The Bot Company | ~2024 | — | Fortune [^14] |
 | Airhouse | 2018 | Pre-Seed | Signal by NFX [^15] |
 | Color | 2015 | Series A | Signal by NFX [^15] |
@@ -153,3 +153,5 @@ No independently sourced founder testimonials found. Quiet Capital maintains a d
 [^13]: Tracxn, "Quiet Capital - 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/quiet-capital/__wsKVdE9bqiHzPEsyiUZMO71LIh-UInhBOrTwCqiyxxQ
 [^14]: Fortune, "Quiet Capital raises $377 million for new fund: Filing," November 19, 2024. https://fortune.com/2024/11/19/quiet-capital-raises-377-million-for-new-fund-filing/
 [^15]: Signal by NFX, "Lee Linden's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/lee-linden
+[^16]: Michael Bloch (Partner, Quiet Capital), X post describing the firm: "We were early investors in Deel, ElevenLabs, Mercury, Reddit, OpenAI, among many others," accessed April 2026. https://x.com/michaelxbloch/status/2040884996798292113
+[^17]: Standard Bots, "Standard Bots Secures $63M in Funding to Propel American Manufacturing Forward with AI-Driven Robotics," press release via GlobeNewswire, July 12, 2024. https://www.globenewswire.com/news-release/2024/07/12/2912514/0/en/Standard-Bots-Secures-63M-in-Funding-to-Propel-American-Manufacturing-Forward-with-AI-Driven-Robotics.html

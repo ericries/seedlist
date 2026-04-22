@@ -98,8 +98,8 @@ Investments where Katelin Holloway is identified as lead investor, board member,
 | Invisible Universe | 2022 | Series A (lead) | [^15] |
 | Doodles | 2022 | Series A (lead) | [^16] |
 | Interlune | 2024 | Seed (lead, $15M of $18M) | [^17] |
-| Los Angeles Golf Club | 2024 | — | [^1] |
-~unknown| Intro | — | — | [^1] |
+| Los Angeles Golf Club | 2023 | Sports Team (founding ownership) | [^1] [^22] [^23] |
+| Intro | 2021 | Seed | [^1] [^24] |
 ~unknown| Starcloud | — | — | [^1] |
 ~unknown| Hgen | — | — | [^1] |
 ~unknown| Monumental Labs | — | — | [^1] |
@@ -158,3 +158,6 @@ No independently sourced founder testimonials found. Holloway holds board seats 
 [^19]: Amplify Talent, "Why Founders Should Put People First With Katelin Holloway," accessed March 2026. https://amplifytalent.com/podcast-episodes/katelin-holloway-on-hr-role-venture-capital
 [^20]: Yahoo Finance / Forbes, "Seven Seven Six Co-founder Says Interlune Is First Company To Commercialize Off-Planet Resources," accessed March 2026. https://finance.yahoo.com/news/seven-seven-six-co-founder-203112928.html
 [^21]: Intro, "Book with Katelin Holloway," accessed March 2026. https://intro.co/KatelinHolloway
+[^22]: BusinessWire, "TGL Announces First Team Ownership Group: Alexis Ohanian Forms Los Angeles Golf Club, Joined by Serena Williams & Venus Williams," June 8, 2023, accessed April 2026. https://www.businesswire.com/news/home/20230608005561/en/TGL-Announces-First-Team-Ownership-Group-Alexis-Ohanian-Forms-Los-Angeles-Golf-Club-Joined-by-Serena-Williams-Venus-Williams
+[^23]: PR Newswire, "Los Angeles Golf Club (LAGC) Formally Announces 10% Give-Back Model, Committing Funds to Revitalizing Maggie Hathaway Golf Course," January 18, 2024, accessed April 2026. https://www.prnewswire.com/news-releases/los-angeles-golf-club-lagc-formally-announces-10-give-back-model-committing-funds-to-revitalizing-maggie-hathaway-golf-course-302038542.html
+[^24]: TechCrunch, "Intro's app attracts Andreessen, Seven Seven Six, Kevin Durant to connect celebrity e-design experts with those seeking advice," October 13, 2021, accessed April 2026. https://techcrunch.com/2021/10/13/intros-app-attracts-andreessen-seven-seven-six-kevin-durant-to-connect-celebrity-e-design-experts-with-those-seeking-advice/
