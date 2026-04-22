@@ -93,7 +93,7 @@ The following table represents a subset of Songhurst's approximately 500 claimed
 | Crate.io | 2018 | Series A | [^1] |
 | Mirror Emoji Keyboard | 2017 | Venture | [^1] |
 | CodeSignal | 2015 | Seed | [^1] |
-~unknown| Formlabs | Early | Seed | [^9] |
+| Formlabs | 2011 | Seed | [^9][^20] |
 ~unknown| Rigetti Computing | Early | Seed | [^9] |
 ~unknown| Convoy | Early | Seed | [^9] |
 ~unknown| Tractable | Early | Seed | [^9] |
@@ -174,3 +174,4 @@ No additional independently sourced founder testimonials found beyond EF's co-fo
 [^17]: Morningstar/Business Wire, "Entrepreneurs First Raises $200m of Fresh Capital," March 11, 2026. https://www.morningstar.com/news/business-wire/20260311135208/entrepreneurs-first-raises-200m-of-fresh-capital-to-unlock-the-next-generation-of-outlier-founders
 [^18]: Nordic9, "Forgent raised €4.3 million in pre-seed funding led by Cherry Ventures, joined by angel investors including Charlie Songhurst," accessed April 2026. https://nordic9.com/news/forgent-raised-43-million-in-pre-seed-funding-led-by-cherry-ventures-joined-by-angel-investors-including-charlie-songhurst-and-katrin-suder/
 [^19]: Matt Clifford on X, "If I were raising a seed round and could choose just one person to be involved, it would be Charlie Songhurst...," accessed April 2026. https://x.com/matthewclifford/status/2033893593794887682
+[^20]: 3D Printing Journal, "11-23-2011: a brand-new startup, Formlabs, raised $500,000 in its initial funding round," accessed April 2026. https://www.3dprintingjournal.com/p/11-23-2011-a-brand-new-startup-formlabs

@@ -118,7 +118,7 @@ Based on 25 verified investments across his NEA and Benchmark career, the follow
 | Swiftype | ~2014 | Growth | Search/Developer Tools | [^4] |
 | Forter | ~2015 | Growth | Fraud Prevention/Fintech | [^4] |
 | ScoutRFP | ~2015 | Growth | Procurement | [^4] |
-| Canopy | ~2015 | Growth | — | [^4] |
+| Canopy (Canopy Tax) | 2015 | Series A | Tax/Accounting SaaS (Fintech) | [^4][^26][^27] |
 | Folloze | ~2015 | Growth | Marketing/ABM | [^4] |
 
 *This table represents publicly confirmed investments. Puttagunta's full portfolio, particularly seed-stage investments, is likely larger. NEA-era investment years are approximate where exact dates were not independently verified; "—" indicates year could not be confirmed from available sources.*
@@ -248,3 +248,7 @@ Max Junestrand, founder of Legora, specifically chose to work with Chetan Puttag
 [^24]: Crunchbase, "Legora Seed Round," 2024, accessed March 2026. https://www.crunchbase.com/funding_round/leya-876d-seed--d0b40a6c
 
 [^25]: Chetan Puttagunta (@chetanp), post on X about Manus $90M ARR, 2025, accessed March 2026. https://x.com/chetanp/status/1958152783636652311
+
+[^26]: StreetInsider / Canopy press release, "Cloud-Based Tax Platform Canopy Raises $8 Million in Series A Funding," June 23, 2015, accessed April 2026. https://www.streetinsider.com/Press+Releases/Cloud-Based+Tax+Platform+Canopy+Raises+$8+Million+in+Series+A+Funding/10673483.html
+
+[^27]: Canopy blog, "Canopy Secures $30 Million in New Funding; Aims to Disrupt $100 Billion Tax Market" (NEA-led follow-on round; references NEA as early and continuing investor with Chetan Puttagunta), March 2018, accessed April 2026. https://www.getcanopy.com/blog/canopy-secures-30-million-in-new-funding

@@ -81,7 +81,7 @@ Uber, StockX, Nothing (Carl Pei's hardware company), Nest, Yuga Labs (Bored Ape 
 |---------|------|-------|--------|
 | Uber | 2013 | Growth ($258-335M) | [^4][^6] |
 | Nest | ~2013 | Growth | [^1][^5] |
-~unknown| Blue Bottle Coffee | — | Growth | [^1] |
+| Blue Bottle Coffee | 2014 | Series B ($25.7M) | [^1][^7] |
 ~unknown| StockX | — | Growth | [^1] |
 ~unknown| Nothing | — | Early | [^1] |
 ~unknown| Yuga Labs (BAYC) | — | Early | [^1] |
@@ -127,3 +127,4 @@ No independently sourced founder testimonials found. GV's website does not featu
 [^4]: Fortune, "Inside Google Ventures' first 15 years — and its plans for the next 300," September 2024, accessed March 2026. https://fortune.com/2024/09/20/inside-google-ventures-15-years-startup-investing/
 [^5]: TechCrunch, "GV, the VC team backed by Google, has a broad remit, but it can't do one thing," December 2024, accessed March 2026. https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/
 [^6]: VCSheet, "David Krane (GV)," accessed March 2026. https://www.vcsheet.com/who/david-krane
+[^7]: TechCrunch, "Tech Investors Buy Themselves Some Blue Bottle Coffee," January 29, 2014, accessed April 2026. https://techcrunch.com/2014/01/29/coffee/
