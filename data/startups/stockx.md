@@ -12,6 +12,7 @@ firms:
 - round: Series E
   slug: tiger-global-management
   year: 2020
+  date: 2020-12-16
 - round: Series E-1
   slug: altimeter-capital
   year: 2021
@@ -79,11 +80,11 @@ Josh Luber served as CEO until mid-2019, when e-commerce veteran Scott Cutler (f
 
 | Date | Round | Amount | Lead | Co-investors | Source |
 |------|-------|--------|------|--------------|--------|
-| Nov 2016 | Seed | Undisclosed | — | — | [^8] |
+| 2016-11-01 | Seed | Undisclosed | — | — | [^8][^10] |
 | Feb 2017 | Series A | $6M | — (syndicate) | Mark Wahlberg, Eminem, Paul Rosenberg, Ted Leonsis, Steve Case, Tim Armstrong, Scooter Braun, Ron Conway / SV Angel, Courtside Ventures, Detroit Venture Partners | [^2] |
-| Sep 2018 | Series B | $44M | GV, Battery Ventures | Marc Benioff, Karlie Kloss, Steve Aoki, Don C, plus returning investors | [^4][^9] |
+| Sep 2018 | Series B | $44M | GV, Battery Ventures | Marc Benioff, Karlie Kloss, Steve Aoki, Don C | [^4][^9] |
 | Jun 2019 | Series C | $110M | DST Global, General Atlantic, GGV Capital | GV, Battery Ventures | [^3] |
-| Dec 2020 | Series E | $275M | Tiger Global Management | — | [^5] |
+| 2020-12-16 | Series E | $275M | Tiger Global Management | Altimeter Capital, Sands Capital, Whale Rock Capital Management | [^5][^11][^12] |
 | Apr 2021 | Series E-1 + Secondary | $255M ($60M primary + $195M secondary) | Altimeter Capital | Dragoneer Investment Group | [^6] |
 
 Total raised: approximately $690 million across all rounds [^8]. The company was valued at $1B+ after its Series C [^3], $2.8B after its Series E [^5], and $3.8B after its April 2021 financing [^6].
@@ -115,3 +116,6 @@ Total raised: approximately $690 million across all rounds [^8]. The company was
 [^7]: "StockX Announces CEO Transition," StockX, November 2024, accessed March 2026. https://stockx.com/about/stockx-announces-ceo-transition/
 [^8]: "How Much Did StockX Raise? Funding & Key Investors," Clay, accessed March 2026. https://www.clay.com/dossier/stockx-funding
 [^9]: "Detroit-based StockX Secures $44M in Series B Funding Co-Led by GV (Formerly Google Ventures) and Battery Ventures," PR Newswire, September 2018, accessed March 2026. https://www.prnewswire.com/news-releases/detroit-based-stockx-secures-44m-in-series-b-funding-co-led-by-gv-formerly-google-ventures-and-battery-ventures-300712092.html
+[^10]: Seed Round - StockX - 2016-11-01, Crunchbase Funding Round Profile, accessed April 2026. https://www.crunchbase.com/funding_round/stockx-seed--f0c4a27f
+[^11]: "StockX Raises $275 Million in Series E Funding Round," StockX News, December 16, 2020, accessed April 2026. https://stockx.com/about/stockx-raises-275-million-in-series-e-funding-round/
+[^12]: "StockX Raises $275 Million in Series E Funding Round," PR Newswire, December 16, 2020, accessed April 2026. https://www.prnewswire.com/news-releases/stockx-raises-275-million-in-series-e-funding-round-301193907.html

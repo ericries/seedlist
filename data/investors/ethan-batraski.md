@@ -61,19 +61,19 @@ On market cycles and investor behavior: "These recurring processes of booms and 
 
 ## Inferred Thesis
 
-Based on 13 verified investments in the portfolio table below — Batraski has approximately 25 investments on record per Signal/NFX [^7], so this table represents roughly 52% of known deals:
+Based on 11 verified investments in the portfolio table below — Batraski has approximately 25 investments on record per Signal/NFX-style aggregators [^7], so this table represents roughly 44% of estimated known deals:
 
 **Stage distribution:**
-Batraski invests primarily at seed and Series A. Of 13 verified investments: approximately 5 were at seed stage (38%), 6 at Series A (46%), and 2 at Series B (15%). His check sizes range from $1M to $15M with a stated sweet spot of $9M [^7].
+Batraski invests primarily at seed and Series A. Of 11 verified investments: approximately 5 were at seed stage (45%), 5 at Series A (45%), and 1 at Series B (9%). His check sizes range from $1M to $15M with a stated sweet spot of $9M [^7].
 
-**Sector concentration (13 verified investments):**
-- Aerospace & defense (dual-use): 2 companies (15%) — ABL Space Systems, Astranis
-- Autonomy & aviation: 1 company (8%) — Skyryse
-- Quantum computing: 1 company (8%) — Atom Computing
-- Data infrastructure & open source: 4 companies (31%) — Astronomer, Decodable, Meltano, Oumi
-- Physical AI & sensor intelligence: 1 company (8%) — Archetype AI
-- Clean energy infrastructure: 1 company (8%) — Euclid Power
-- Other AI/software: 2 companies (15%) — Tovala, Biscuit Labs
+**Sector concentration (11 verified investments):**
+- Aerospace & defense (dual-use): 2 companies (18%) — ABL Space Systems, Astranis
+- Autonomy & aviation: 1 company (9%) — Skyryse
+- Quantum computing: 1 company (9%) — Atom Computing
+- Data infrastructure & open source: 4 companies (36%) — Astronomer, Decodable, Meltano, Oumi
+- Physical AI & sensor intelligence: 1 company (9%) — Archetype AI
+- Clean energy infrastructure: 1 company (9%) — Euclid Power
+- Robotics (unverified date): 1 company (9%) — Dishcraft Robotics
 
 **Key patterns:**
 
@@ -87,7 +87,7 @@ Batraski invests primarily at seed and Series A. Of 13 verified investments: app
 
 *Co-investor patterns:* Frequent co-investors include Andreessen Horowitz (Astranis Series B), Bain Capital Ventures (Decodable, Astronomer), Lockheed Martin Ventures (ABL Space), and Y Combinator (Astranis seed). The Lockheed co-investment on ABL Space is notable as a signal of defense-sector validation.
 
-*Sample size caveat:* With 13 of approximately 25 known investments verified, the above percentages should be treated as directional. The data infrastructure cluster in particular may be understated if undisclosed open-source investments skew toward that sector.
+*Sample size caveat:* With 11 of approximately 25 known investments verified, the above percentages should be treated as directional. The data infrastructure cluster in particular may be understated if undisclosed open-source investments skew toward that sector.
 
 ## Portfolio
 
@@ -100,14 +100,12 @@ Batraski invests primarily at seed and Series A. Of 13 verified investments: app
 | Astronomer | 2020 | Series A | Data Orchestration | [^15] |
 | Decodable | 2022 | Series A | Real-time Data Engineering | [^16] |
 | Meltano | 2022 | Series A | Open Source DataOps | [^17] |
-| Tovala | 2021 | Unknown | Food Technology | [^18] |
 | Archetype AI | 2024 | Seed | Physical AI | [^19] |
 | Oumi | 2025 | Seed | Open Source AI | [^20] |
 | Euclid Power | 2025 | Series A | Clean Energy Infrastructure | [^21] |
-~unknown| Biscuit Labs | Unknown | Unknown | Business Productivity Software | [^18] |
 ~unknown| Dishcraft Robotics | Unknown | Unknown | Robotics | [^18] |
 
-*Note: This table represents 13 of approximately 25 known investments (52%). Batraski has noted several undisclosed open source software investments. Years for Tovala, Biscuit Labs, and Dishcraft Robotics are unconfirmed from primary sources.*
+*Note: This table represents 11 verified investments. Batraski has noted several undisclosed open source software investments. Tovala and Biscuit Labs, previously listed from secondary aggregators, were removed after primary-source review: Signal by NFX [^7] lists only 4 Batraski investments (Astranis, ABL Space, Atom Computing, Skyryse), and primary coverage of Tovala's Seed through Series C rounds (Origin Ventures, Y Combinator, Finistere Ventures, Left Lane Capital as leads) does not list Venrock or Batraski as a participant [^26][^27]. No primary source could be located for a Batraski investment in Biscuit Labs. Year for Dishcraft Robotics is unconfirmed from primary sources.*
 
 ## In Their Own Words
 
@@ -244,3 +242,7 @@ Joe Otto, CEO of Astronomer (Apache Airflow commercial platform), on Batraski le
 [^24]: Ethan Batraski, Substack, "Why We Invested in Euclid Power: The Infrastructure Behind the Infrastructure," accessed March 2026. https://ethanjamesb.substack.com/p/why-we-invested-in-euclid-power-the
 
 [^25]: Multiple sources confirm Astronomer board composition including Batraski; see Astronomer CEO letter [^15] and press coverage of Astronomer Series C, March 2022. https://www.prnewswire.com/news-releases/astronomer-raises-213-million-series-c-and-acquires-datakin-scales-operations-amid-booming-growth-and-global-demand-301508408.html
+
+[^26]: Tracxn, "Tovala — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/tovala/__ZOmb2CDoYZMHzmZHmA092A61osyr2D-oqcOw5Hvrg9k/funding-and-investors — Primary-source review of Tovala's disclosed rounds (Seed led by Origin Ventures October 2016; Series A December 2017 led by Y Combinator and others; Series B June 2020 led by Finistere Ventures; Series C February 2021 led by Left Lane Capital) shows no record of Venrock or Ethan Batraski participation.
+
+[^27]: BusinessWire, "Tovala Raises $30M Series C to Fuel Growth of Industry-changing Food Technology Brand," February 4, 2021. https://www.businesswire.com/news/home/20210204005257/en/Tovala-Raises-$30M-Series-C-to-Fuel-Growth-of-Industry-changing-Food-Technology-Brand — Series C led by Left Lane Capital with participation from Finistere Ventures, Comcast Ventures, OurCrowd, Origin Ventures, Pritzker Group Venture Capital, and Joe Mansueto; Venrock not listed as a participant.

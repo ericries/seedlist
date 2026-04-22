@@ -224,16 +224,16 @@ As of February 2026, Stripe's valuation reached $159 billion through an employee
 |-------|------|--------|-------------------|-------------------|-----------|
 | Seed | May 2011 | $2M | Peter Thiel | Elon Musk, Sequoia Capital, Andreessen Horowitz, SV Angel, Max Levchin | $20M |
 | Series A | Feb 2012 | $18M | Sequoia Capital | General Catalyst, Peter Thiel, Andreessen Horowitz | $100M |
-| Series B | 2012 | $20M | General Catalyst | Sequoia Capital | — |
+| Series B | 2012-07-09 | $20M | General Catalyst | Sequoia Capital, Redpoint, Peter Thiel, Chris Dixon, Aaron Levie, Elad Gil | Not disclosed [^13] |
 | Series C | Jan 2014 | $80M | Founders Fund | Sequoia Capital, Khosla Ventures, Allen & Company | $1.8B |
 | Series D | Dec 2016 | $150M | CapitalG (Google) | General Catalyst, Sequoia Capital | $9.2B |
 | Series E | Sep 2019 | $250M | Sequoia Capital | Andreessen Horowitz, General Catalyst | $35B |
 | Series G | Apr 2020 | $600M | Sequoia Capital | Andreessen Horowitz, General Catalyst | $36B |
 | Series H | Mar 2021 | $600M | Sequoia Capital | Fidelity, NTMA (Ireland) | $95B |
 | Series I | Mar 2023 | $6.5B | Andreessen Horowitz, Thrive Capital | GIC, Goldman Sachs, Temasek, Founders Fund, General Catalyst, Baillie Gifford | $50B |
-| Tender Offer | Feb 2026 | — | Thrive Capital | Coatue, a16z | $159B |
+| Tender Offer | 2026-02-24 | Not disclosed | Thrive Capital | Coatue, Andreessen Horowitz | $159B [^14][^15][^16] |
 
-Sources: [^2][^5][^6][^7][^8][^9][^10]
+Sources: [^2][^5][^6][^7][^8][^9][^10][^13][^14][^15][^16]
 
 ## What Investors Say
 
@@ -263,3 +263,7 @@ Sources: [^2][^5][^6][^7][^8][^9][^10]
 [^10]: SalesTools AI, "Stripe Raises $6.5B Series I to Transform," accessed March 2026. https://salestools.io/en/report/stripe-6-5b-series-i-july-2025
 [^11]: Startup Grind, "Startup Grind Hosts Patrick Collison of Stripe, 6 Months In - Full Interview," 2012. https://www.startupgrind.com/blog/from-the-vault-patrick-collison-stripe-full-startup-grind-interview-2012/
 [^12]: UC Berkeley Haas Newsroom, "Stripe co-founder and CEO Patrick Collison on founding a company that should have already existed," accessed March 2026. https://newsroom.haas.berkeley.edu/stripe-co-founder-and-ceo-patrick-collison-on-founding-a-company-that-should-have-already-existed/
+[^13]: TechCrunch, "Sexy Payments Startup Stripe Swipes $20M From General Catalyst, Sequoia, Thiel And More," July 9, 2012. https://techcrunch.com/2012/07/09/payments-startup-stripe-swipes-20m-from-general-catalyst-sequoia-thiel-and-more/
+[^14]: Stripe Newsroom, "Stripe publishes 2025 annual letter and announces tender offer to provide liquidity to current and former employees," February 24, 2026. https://stripe.com/newsroom/news/stripe-2025-update
+[^15]: CNBC, "Stripe valued at $159 billion after tender offer for employees, shareholders," February 24, 2026. https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html
+[^16]: TechCrunch, "Stripe's valuation soars 74% to $159 billion," February 24, 2026. https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/
