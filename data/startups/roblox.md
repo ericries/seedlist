@@ -121,14 +121,14 @@ Roblox is an online gaming platform and game creation system founded in 2004 by 
 
 | Round | Date | Amount | Lead Investor(s) | Notable Co-Investors |
 |-------|------|--------|-------------------|---------------------|
-| Seed | Jul 2009 | Undisclosed | First Round Capital, Altos Ventures | — [^4][^5] |
+| Seed | 2009-07-21 | Undisclosed | First Round Capital, Altos Ventures | — [^4][^5][^12] |
 | Series D | Aug 2009 | $2.2M | Altos Ventures, First Round Capital | — [^4] |
 | Series D-2 | May 2011 | $4M | Altos Ventures, First Round Capital | — [^4] |
 | Series C | Mar 2017 | $92M | Index Ventures, Meritech Capital | — [^6][^7] |
 | Series F | Sep 2018 | $150M | Greylock, Tiger Global | — [^4][^8] |
 | Series G | Feb 2020 | $150M | Andreessen Horowitz | Temasek, Tencent, Altos Ventures, Meritech Capital, Tiger Global [^2][^9] |
 | Series H | Jan 2021 | $520M | Altimeter Capital, Dragoneer | Andreessen Horowitz, Altos Ventures, Warner Music Group [^10][^11] |
-| Direct Listing | Mar 2021 | — | NYSE: RBLX | — [^3] |
+| Direct Listing | 2021-03-10 | $45 reference price; ~$45B opening valuation | NYSE: RBLX | — [^3][^13][^14] |
 
 ## What Investors Say
 
@@ -151,3 +151,6 @@ No independently sourced founder quotes found at this time.
 [^9]: "Roblox - Roblox Raises $150M in Series G Financing, Led by Andreessen Horowitz," Roblox Investor Relations, accessed March 2026. https://ir.roblox.com/news/news-details/2020/Roblox-Raises-150M-in-Series-G-Financing-Led-by-Andreessen-Horowitz/default.aspx
 [^10]: "Roblox raises at $29.5 billion valuation, readies for direct listing," TechCrunch, January 7, 2021, accessed March 2026. https://techcrunch.com/2021/01/07/robloxs-raises-at-29-5-billion-valuation-as-it-readies-for-direct-listing/
 [^11]: "Roblox raises $520 million ahead of planned stock market direct listing," CNBC, January 6, 2021, accessed March 2026. https://www.cnbc.com/2021/01/06/roblox-raises-520-million-ahead-of-planned-direct-listing.html
+[^12]: "Roblox," First Round Capital portfolio page (First Round invested July 2009), accessed April 2026. https://www.firstround.com/companies/roblox
+[^13]: "Roblox (RBLX) trades for first time after direct listing," CNBC, March 10, 2021, accessed April 2026. https://www.cnbc.com/2021/03/10/roblox-rblx-starts-trading-at-64point50-after-direct-listing.html
+[^14]: "Roblox valued at $45.3B in record-setting direct listing," PitchBook, March 10, 2021, accessed April 2026. https://pitchbook.com/news/articles/roblox-gaming-direct-listing-valuation

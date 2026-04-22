@@ -178,8 +178,8 @@ Slack launched publicly in February 2014 and grew rapidly, reaching 60,000 daily
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|------------------|-------------------|-----------|
-| Seed | 2009 | $1.5M | Angel round | Accel, SV Angel, various angels [^7] | — |
-| Series A | 2010 | $5M | Accel Partners | Andreessen Horowitz [^7] | — |
+| Seed | 2009 | $1.5M | Accel Partners | Andreessen Horowitz, SV Angel, Rob Solomon, Marc Andreessen, Jeff Weiner, Bradley Horowitz [^7] [^12] | — |
+| Series A | 2010-04-01 | $5M | Accel Partners | Andreessen Horowitz [^13] [^14] | — |
 | Series B | Apr 2011 | $10.7M | Accel, Andreessen Horowitz | — [^3] | — |
 | Series C | Apr 2014 | $42.75M | Social Capital | — [^3] | — |
 | Series D | Oct 2014 | $120M | Google Ventures, Kleiner Perkins | — [^4] | $1.2B |
@@ -211,3 +211,6 @@ Butterfield also emphasized sustainable culture, designing Slack's offices to be
 [^9]: Enterprise CIO News, "Slack secures $427 million in Series H round," August 21, 2018. https://www.enterprise-cio.com/news/2018/aug/21/slack-secures-427-million-series-h-round-taking-company-valuation-71-billion/
 [^10]: Medium, "The Ron Conway's Way," accessed March 2026. https://medium.com/lombardstreet-io/the-ron-conways-way-8a9224fd63b1
 [^11]: Lenny's Podcast, "Slack founder: Mental models for building products people love ft. Stewart Butterfield," accessed March 2026. https://www.lennysnewsletter.com/p/slack-founder-stewart-butterfield
+[^12]: VatorNews, "When Slack was young: the early years," April 3, 2018. https://vator.tv/news/2018-04-03-when-slack-was-young-the-early-years
+[^13]: VatorNews, "Online game company Tiny Speck raises $5M," April 1, 2010. https://vator.tv/news/2010-04-01-online-game-company-tiny-speck-raises-5m
+[^14]: Venture Capital Journal, "Tiny Speck Raises $5 Million," April 5, 2010. https://www.venturecapitaljournal.com/tiny-speck-raises-5-million/

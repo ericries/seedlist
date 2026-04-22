@@ -135,12 +135,14 @@ Square raised a total of $520 million across 12 funding rounds from 61 investors
 | Series A | Dec 2009 | $10M | Khosla Ventures | SV Angel, Marissa Mayer, Biz Stone, Richard Branson, Shawn Fanning |
 | Series B | Jan 2011 | $27.5M | Sequoia Capital | Khosla Ventures |
 | Series C | Jun 2011 | $100M | Kleiner Perkins | Tiger Global Management |
-| Series C ext. | Dec 2011 | $3M | Virgin Group, GGV Capital | — |
+| Series C ext. | 2011-11-08 | $3M | Richard Branson | GGV Capital [^12][^13] |
 | Series D | Sep 2012 | $200M | Rizvi Traverse Management | Citi Ventures, Starbucks, VMware, Tuesday Capital, Crunchfund |
 | Series E | Oct 2014 | $150M | GIC | Goldman Sachs, JP Morgan, Sozo Ventures, Sapphire Ventures, GGV Capital |
-| IPO | Nov 2015 | ~$243M | — | Public offering on NYSE |
+| IPO | 2015-11-19 | $243M | Goldman Sachs, Morgan Stanley, J.P. Morgan | — [^14][^15][^16] |
 
-Sources: [^4][^5][^6][^7][^8]
+Square priced its IPO at $9/share on November 18, 2015 (below its initial $11-13 range), valuing the company at approximately $2.9 billion. Shares opened at $11.20 on November 19 and closed the first day up 45% at a valuation of roughly $4.2 billion [^14][^15][^16]. Richard Branson's $3M Series C extension was a personal investment (distinct from Virgin Group) at the same ~$1B+ valuation set by the Kleiner Perkins-led Series C in summer 2011, announced November 8, 2011, and confirmed via SEC filing in December 2011 [^12][^13].
+
+Sources: [^4][^5][^6][^7][^8][^12][^13][^14][^15][^16]
 
 ## What Investors Say
 
@@ -175,3 +177,8 @@ Jack Dorsey on Square's mission: The company was built to address the reality th
 [^9]: "The One Company Marc Andreessen Wishes He Invested In: Square," TechCrunch, March 8, 2012, accessed March 2026. https://techcrunch.com/2012/03/08/the-one-company-marc-andreessen-wishes-he-invested-in-square/
 [^10]: "On paper, Khosla's firm could net a massive return on Square IPO," CNBC, November 9, 2015, accessed March 2026. https://www.cnbc.com/2015/11/09/square-ipo-will-net-big-win-for-one-firm.html
 [^11]: "7 Questions With Square Co-Founder Jim McKelvey," The Profile, accessed March 2026. https://www.readtheprofile.com/p/7-questions-with-square-co-founder
+[^12]: "Virgin Group's Richard Branson invests in Square," VatorNews, November 8, 2011, accessed April 2026. https://vator.tv/2011-11-08-virgin-groups-richard-branson-invests-in-square/
+[^13]: "Sir Richard Branson's Investment In Square Was $3 Million," TechCrunch, December 9, 2011, accessed April 2026. https://techcrunch.com/2011/12/09/sir-richard-bransons-investment-in-square-was-3-million/
+[^14]: "Square Announces Pricing of Initial Public Offering," Square press release, November 18, 2015, accessed April 2026. https://squareup.com/us/en/press/sq-pricing
+[^15]: "Square Opens At $11.20, Up 24% On Its IPO Price Of $9, Raising $243M," TechCrunch, November 19, 2015, accessed April 2026. https://techcrunch.com/2015/11/19/square-nyse-pop/
+[^16]: "Square prices IPO at just $9 per share, valued at $2.9 billion," Fortune, November 18, 2015, accessed April 2026. https://fortune.com/2015/11/18/square-prices-ipo/
