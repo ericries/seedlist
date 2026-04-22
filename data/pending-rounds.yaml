@@ -20,6 +20,35 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Realm raises €3.8 million to bring AI agents into enterprise sales, plans
+    to triple its team by year-end
+  url: https://www.eu-startups.com/2026/04/realm-raises-e3-8-million-to-bring-ai-agents-into-enterprise-sales-plans-to-triple-its-team-by-year-end/
+  source: eu-startups
+  date_found: '2026-04-22'
+  parsed_company: Realm
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile realm.md; $4.5M (~€3.8M) seed announced 2026-04-22;
+    Helsinki-based AI sales agents platform co-founded by ex-Slush leaders Miika Huttunen
+    and Mikko Mäntylä; backed by founders of Slack, Zalando, Supercell, Wolt, Deel,
+    Snyk, Pigment; EU-Startups direct fetch 403, cited via Tech.eu and company website;
+    no firm slugs added (Lifeline Ventures not yet profiled)
+- title: ATMOS Space Cargo raises €25.7 million Series A to build scalable Earth-to-space-to-Earth
+    logistics
+  url: https://www.eu-startups.com/2026/04/atmos-space-cargo-raises-e25-7-million-series-a-to-build-scalable-earth-to-space-to-earth-logistics/
+  source: eu-startups
+  date_found: '2026-04-22'
+  parsed_company: ATMOS Space Cargo
+  parsed_amount: null
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile atmos-space-cargo.md; €25.7M Series A announced 2026-04-22,
+    co-led by Balnord and Expansion Ventures with Keen Defence, EIC Accelerator, OTB
+    Ventures, HTGF, APEX Ventures, Seraphim, Faber, E2MC, Kirch Ventures, Lennertz
+    & Co., Mätch VC, MBG Baden-Württemberg, Tech Horizons; Lichtenau Germany / Strasbourg
+    France; cited via HTGF press release and Tech.eu; no firm slugs added (none yet
+    profiled)
 - title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
     testing
   url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
@@ -964,24 +993,3 @@ pending_rounds:
   status: processed
   notes: extracted Artemis $70M (created artemis-security.md), Joyful Health $17M
     (created joyful-health.md), Traza $2.1M (already processed)
-- title: London-based startup Lua raises €4.9 million to scale its human-agent collaboration
-    platform
-  url: https://www.eu-startups.com/2026/04/london-based-startup-lua-raises-e4-9-million-to-scale-its-human-agent-collaboration-platform/
-  source: eu-startups
-  date_found: '2026-04-16'
-  parsed_company: London-based startup Lua
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  notes: duplicate of Axios Lua entry; lua-ai.md already created
-- title: STORM Therapeutics raises €47.5 million Series C to harness the power of
-    RNA modification to treat cancer
-  url: https://www.eu-startups.com/2026/04/storm-therapeutics-raises-e47-5-million-series-c-to-harness-the-power-of-rna-modification-to-treat-cancer/
-  source: eu-startups
-  date_found: '2026-04-16'
-  parsed_company: STORM Therapeutics
-  parsed_amount: null
-  parsed_round: Series C
-  status: processed
-  notes: duplicate of Axios Storm Therapeutics entry; storm-therapeutics.md already
-    exists
