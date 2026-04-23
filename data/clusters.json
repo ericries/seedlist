@@ -11286,6 +11286,99 @@
           "firm": "innovation-endeavors"
         }
       ]
+    },
+    {
+      "id": "curated-44",
+      "name": "The Persian Pipeline",
+      "tagline": "Iranian-American investors who turned diaspora networks into dealflow \u2014 from Pejman's rug shop to Pear VC, this community punches far above its weight.",
+      "type": "curated",
+      "size": 9,
+      "members": [
+        {
+          "slug": "pejman-nozad",
+          "name": "Pejman Nozad",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "arash-afrakhteh",
+          "name": "Arash Afrakhteh",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "arash-ferdowsi",
+          "name": "Arash Ferdowsi",
+          "firm": "pear-vc"
+        },
+        {
+          "slug": "ali-partovi",
+          "name": "Ali Partovi",
+          "firm": "neo"
+        },
+        {
+          "slug": "ali-rowghani",
+          "name": "Ali Rowghani",
+          "firm": "first-harmonic"
+        },
+        {
+          "slug": "shervin-pishevar",
+          "name": "Shervin Pishevar",
+          "firm": "sherpa-capital"
+        },
+        {
+          "slug": "bijan-sabet",
+          "name": "Bijan Sabet",
+          "firm": "spark-capital"
+        },
+        {
+          "slug": "yasmin-razavi",
+          "name": "Yasmin Razavi",
+          "firm": "spark-capital"
+        },
+        {
+          "slug": "hooman-radfar",
+          "name": "Hooman Radfar",
+          "firm": "expa"
+        }
+      ]
+    },
+    {
+      "id": "curated-45",
+      "name": "The Saffa Mafia",
+      "tagline": "South Africans who quietly took over Silicon Valley \u2014 from running Sequoia to building PayPal to launching their own funds.",
+      "type": "curated",
+      "size": 6,
+      "members": [
+        {
+          "slug": "roelof-botha",
+          "name": "Roelof Botha",
+          "firm": "sequoia-capital"
+        },
+        {
+          "slug": "david-sacks",
+          "name": "David Sacks",
+          "firm": "craft-ventures"
+        },
+        {
+          "slug": "david-friedberg",
+          "name": "David Friedberg",
+          "firm": "the-production-board"
+        },
+        {
+          "slug": "divesh-makan",
+          "name": "Divesh Makan",
+          "firm": "iconiq-growth"
+        },
+        {
+          "slug": "kanyi-maqubela",
+          "name": "Kanyi Maqubela",
+          "firm": "kindred-ventures"
+        },
+        {
+          "slug": "fabrice-grinda",
+          "name": "Fabrice Grinda",
+          "firm": "fj-labs"
+        }
+      ]
     }
   ]
 }
