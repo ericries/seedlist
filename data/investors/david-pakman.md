@@ -103,7 +103,7 @@ Based on 16 verified CoinFund investments (see Portfolio below), Pakman's actual
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Dollar Shave Club | ~2012 | Series A & B (led) | Consumer / E-commerce | [^3] |
-~unknown| Crunchyroll | — | — | Media / Streaming | [^3] |
+| Crunchyroll | 2008 | Venture ($4.05M) | Media / Anime Streaming | [^3][^27] |
 ~unknown| Klout | — | — | Social Analytics | [^3] |
 ~unknown| Simbe Robotics | — | — | Robotics | [^4] |
 ~unknown| Running Tide | — | — | Climate / Carbon Removal | [^4] |
@@ -183,3 +183,5 @@ No independently sourced founder testimonials from portfolio company founders (i
 [^24]: PR Newswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 11, 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
 [^25]: TechCrunch, "Crypto VC David Pakman on FTX: An 'entirely avoidable tragedy'," November 11, 2022. https://techcrunch.com/2022/11/11/crypto-vc-david-pakman-on-ftx-an-entirely-avoidable-tragedy/
 [^26]: CNN Money, "15 questions with David Pakman," accessed March 2026. https://money.cnn.com/interactive/technology/15-questions-with-david-pakman/index.html
+
+[^27]: Anime News Network, "Video Site with Unauthorized Anime Gets US$4M Capital," March 11, 2008. https://www.animenewsnetwork.com/news/2008-03-11/video-site-with-unauthorized-anime-gets-us$4m-venture

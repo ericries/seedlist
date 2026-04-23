@@ -88,7 +88,7 @@ Makan's primary investment vehicle is ICONIQ Growth (see firm profile for the fu
 |---------|------|-------|--------|
 | Asana | ~2016 | Angel | [^11] |
 | Wildlife Studios | 2019 | Angel | [^11][^16] |
-~unknown| Ellipsis Health | -- | Angel | [^12] |
+| Ellipsis Health | 2021 | Series A (Angel) | [^12][^28] |
 | Ema | 2024 | Seed | [^11] |
 
 **Selected ICONIQ Growth Investments (via firm):**
@@ -202,3 +202,5 @@ Makan's primary investment vehicle is ICONIQ Growth (see firm profile for the fu
 [^26]: ICONIQ, "Venture & Growth," accessed April 2026. https://www.iconiq.com/growth
 
 [^27]: ICONIQ, "ICONIQ Growth's newest general partner Amit Agarwal on uncommon leadership and uncommon outcomes," 2025. https://www.iconiq.com/growth/insights/iconiq-growths-newest-general-partner-amit-agarwal-on-uncommon-leadership-and-uncommon-outcomes
+
+[^28]: PR Newswire, "Ellipsis Health Secures $26 Million in Series A Funding to Harness the Unique Power of Voice to Pioneer a New Clinical Standard in Mental Health Care," August 31, 2021. https://www.prnewswire.com/news-releases/ellipsis-health-secures-26-million-in-series-a-funding-to-harness-the-unique-power-of-voice-to-pioneer-a-new-clinical-standard-in-mental-health-care-301366217.html

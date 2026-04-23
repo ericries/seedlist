@@ -114,7 +114,7 @@ The analysis below is based on 13 verified investments led or co-led by Deena Sh
 | Summer Health | 2022 | Seed | Pediatric telehealth | [^19] |
 | Summer Health | 2024 | Series A | Pediatric telehealth | [^20] |
 | Bluenote | 2024 | Seed | Life sciences AI | [^21] |
-| 1001AI | Unknown | Unknown | MENA AI infrastructure | [^1] |
+| 1001 AI | 2025 | Seed | MENA AI infrastructure | [^25] |
 | Ramp | 2021+ | Series C+ | Fintech / spend management | [^22] |
 
 ## In Their Own Words
@@ -234,3 +234,5 @@ Dr. Hala Borno, CEO and founder of Trial Library, on the problem her company add
 [^23]: Yahoo Finance / press coverage of Maven Series D (quote attributed to Shakir), "Maven Clinic Raises $110M to Transform Women's Health," August 2021. https://finance.yahoo.com/video/maven-clinic-raises-110m-transform-235524756.html
 
 [^24]: Paxton Maeder-York quote reported in search coverage of the Lux Capital Alife seed and Series A announcements, and in summary of "How I Raised It" podcast episode 216, accessed March 2026. https://podcasts.nu/avsnitt/how-i-raised-it-the-podcast-where-we-interview-startup-founders-who-raised-capital/ep-216-how-i-raised-it-with-paxton-maeder-york-of-alife-health-ZkcOWnGhw
+
+[^25]: TechCrunch, "Scale AI alum raises $9M for AI serving critical industries in MENA," October 20, 2025. https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/
