@@ -110,8 +110,8 @@ Based on 22 verified investments attributed to Feinstein, his actual portfolio r
 | Fulcrum | 2023 | Series A2 | [^17] |
 | Ramp | 2025 | Series E | [^18] |
 | Crete Professionals Alliance | 2024 | Growth | [^19] |
-~unknown| Ualá | — | Growth | [^1] |
-~unknown| Columbia Lake Partners | — | Fund formation | [^1] |
+| Ualá | 2017 | Seed (early participant) | [^1][^22] |
+| Columbia Lake Partners | 2015 | Fund formation | [^1] |
 
 *This table represents Feinstein's known investments based on publicly available sources. Additional investments may not be publicly disclosed.*
 
@@ -174,3 +174,4 @@ No additional independently sourced founder testimonials found beyond press rele
 [^19]: BusinessWire, "Crete Professionals Alliance Reimagines Accounting for the 21st Century," May 2, 2024, accessed March 2026. https://www.businesswire.com/news/home/20240502417024/en/Crete-Professionals-Alliance-Reimagines-Accounting-for-the-21st-Century
 [^20]: Bessemer Venture Partners Atlas, "Breaking new ground to IPO: The Procore Story," accessed March 2026. https://www.bvp.com/atlas/procore-ipo
 [^21]: Procore press release, "Procore Raises $30M to Accelerate Construction Software," April 16, 2015, accessed March 2026. https://www.procore.com/press/procore-raises-30-million-to-accelerate-growth
+[^22]: LAVCA, "George Soros, Point72 Ventures & Bessemer Invest in Argentinian Virtual Bank," 2017. https://www.lavca.org/george-soros-point72-ventures-bessemer-invest-in-argentinian-virtual-bank-en-espanol/

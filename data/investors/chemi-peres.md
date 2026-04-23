@@ -99,7 +99,7 @@ The following table includes investments personally associated with Chemi Peres 
 | Riskified | ~2017 | Growth | [^15] |
 | DriveNets | 2019 | Series A | [^18] |
 | AI21 Labs | 2020 | Series A | [^19] |
-~unknown| Duda | — | — | [^2] |
+| Duda | 2013 | Series A (Pitango first investment) | [^2][^21] |
 ~unknown| Totango | — | — | [^2] |
 ~unknown| Masterschool | — | — | [^14] |
 | eToro | ~2017 | Seed | [^14] |
@@ -180,3 +180,5 @@ No independently sourced founder testimonials found. The Unicorn Nest investor d
 [^19]: Business Wire, "AI21 Labs Raises $34.5 Million Led by Pitango First," November 19, 2020. https://www.businesswire.com/news/home/20201119005794/en
 
 [^20]: Unicorn Nest, "Pitango VC — Investors Database," accessed April 2026. https://unicorn-nest.com/funds/pitango-venture-capital/
+
+[^21]: Tracxn, "Duda — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/duda/__TmsWWkryELKkTps35f1V7Mr0bI0uZLW3glu6rrFWK2w/funding-and-investors

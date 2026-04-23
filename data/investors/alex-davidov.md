@@ -79,9 +79,9 @@ Abstract Ventures requires every founder it invests in to sign an "Impact Pact,"
 | EarnBetter | 2023 | Seed | AI/Future of Work | [^10] |
 | Arc (electric boats) | ~2021 | Seed | Frontier Tech/Electrification | [^11] |
 | Outpace Bio | 2021 | Series A | Biotech | [^12] |
-~unknown| Material Security | — | — | Cybersecurity | [^3] |
-~unknown| Ripple | — | — | Crypto/Fintech | [^3] |
-~unknown| Origin | — | — | Fintech | [^13] |
+| Material Security | 2017 | Seed (Abstract early investor) | Cybersecurity | [^3][^15] |
+| Ripple | ~2013 | Early | Crypto/Fintech | [^3] |
+| Origin | ~2023 | Early | Fintech | [^13] |
 | Legora | 2026 | Seed | AI/Business Software | [^9] |
 
 This table represents a small fraction of Davidov's likely investments at Abstract Ventures. The firm has made 192 investments as counted by Tracxn, with 12 new investments in the 12 months ending November 2025 [^9].
@@ -118,3 +118,4 @@ No independently sourced founder testimonials found. Abstract Ventures' website 
 [^12]: GeekWire, "Seattle biotech startup Outpace Bio raises $30M to fight cancer with custom-designed proteins," March 2021. https://www.geekwire.com/2021/seattle-biotech-startup-outpace-bio-raises-30m-fight-cancer-custom-designed-proteins/
 [^13]: Alex Davidov on X/Twitter (@sashadavidov), post about Origin's AI financial advisor, accessed March 2026. https://x.com/sashadavidov/status/1965486969804423436
 [^14]: The Org, "Alex Davidov — General Partner at Abstract Ventures," accessed March 2026. https://theorg.com/org/abstract-ventures/org-chart/alex-davidov
+[^15]: PitchBook, "Material Security Company Profile: Valuation, Funding & Investors," accessed April 2026. https://pitchbook.com/profiles/company/342119-17

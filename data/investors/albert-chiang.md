@@ -77,26 +77,26 @@ Based on Octahedron Capital's Q4 2025 13F filing (16 public holdings, $147 milli
 
 *Note: This table represents Octahedron Capital's known private investments as a firm. With only 6 verified private investments, and no public attribution of specific deals to Albert Chiang individually versus the firm as a whole, the portfolio is thin. Dates marked with "~" are approximate. The firm also manages a 16-position public equity portfolio valued at approximately $147 million.*
 
-**Public Portfolio (Q4 2025 13F, selected positions):**
+## Public Portfolio (Q4 2025 13F, selected positions)
 
 | Company | Ticker | Value | % of Portfolio | Source |
 |---------|--------|-------|----------------|--------|
-~unknown| Nu Holdings | NU | $29M | 19.7% | [^4] |
-~unknown| Alphabet | GOOGL | $21M | 14.0% | [^4] |
-~unknown| NVIDIA | NVDA | $17M | 11.8% | [^4] |
-~unknown| Amazon | AMZN | $17M | 11.4% | [^4] |
-~unknown| Taiwan Semiconductor | TSM | $9.9M | 6.7% | [^4] |
-~unknown| Coupang | CPNG | $8.5M | 5.8% | [^4] |
-~unknown| MercadoLibre | MELI | $8.5M | 5.8% | [^4] |
-~unknown| ServiceNow | NOW | $8.2M | 5.6% | [^4] |
-~unknown| DoorDash | DASH | $7.8M | 5.3% | [^4] |
-~unknown| Sea Limited | SE | $5.2M | 3.6% | [^4] |
-~unknown| Rubrik | RBRK | $4.3M | 2.9% | [^4] |
-~unknown| Lumentum | LITE | $3.6M | 2.4% | [^4] |
-~unknown| Intel | INTC | $3.2M | 2.2% | [^4] |
-~unknown| Monday.com | MNDY | $2.6M | 1.8% | [^4] |
-~unknown| Snowflake | SNOW | $834K | 0.6% | [^4] |
-~unknown| Meta Platforms | META | $825K | 0.6% | [^4] |
+| Nu Holdings | NU | $29M | 19.7% | [^4] |
+| Alphabet | GOOGL | $21M | 14.0% | [^4] |
+| NVIDIA | NVDA | $17M | 11.8% | [^4] |
+| Amazon | AMZN | $17M | 11.4% | [^4] |
+| Taiwan Semiconductor | TSM | $9.9M | 6.7% | [^4] |
+| Coupang | CPNG | $8.5M | 5.8% | [^4] |
+| MercadoLibre | MELI | $8.5M | 5.8% | [^4] |
+| ServiceNow | NOW | $8.2M | 5.6% | [^4] |
+| DoorDash | DASH | $7.8M | 5.3% | [^4] |
+| Sea Limited | SE | $5.2M | 3.6% | [^4] |
+| Rubrik | RBRK | $4.3M | 2.9% | [^4] |
+| Lumentum | LITE | $3.6M | 2.4% | [^4] |
+| Intel | INTC | $3.2M | 2.2% | [^4] |
+| Monday.com | MNDY | $2.6M | 1.8% | [^4] |
+| Snowflake | SNOW | $834K | 0.6% | [^4] |
+| Meta Platforms | META | $825K | 0.6% | [^4] |
 
 ## In Their Own Words
 

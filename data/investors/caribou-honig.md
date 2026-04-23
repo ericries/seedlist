@@ -101,17 +101,17 @@ Notable deals attributed to Honig at QED include Remitly, TheMuse, KNIP, MediaMa
 | BriteCo | 2022 | Series A (angel) | Insurtech | [^16] |
 | CoverGo | 2022 | Series A (SemperVirens led) | Insurtech/SaaS | [^1] |
 | Lami | 2022 | Seed Extension (angel) | Insurtech | [^17] |
-~unknown| Optoro | — | Board member | Logistics | [^20] |
+| Optoro | ~2012 (founded 2010) | Board member (QED-era involvement) | Logistics | [^20] |
 
 ### QED-Era Investments (attributed to Honig)
 
 | Company | Stage | Sector | Source |
 |---------|-------|--------|--------|
-~unknown| Remitly | Early | Fintech/remittances | [^3][^18] |
-~unknown| TheMuse | Early | HR tech/careers | [^3] |
-~unknown| KNIP | Early | Insurtech | [^3] |
-~unknown| MediaMath | Early | Ad tech | [^18] |
-~unknown| Valen Analytics | Early | Insurance analytics | [^18] |
+| Remitly | Early (QED-era, 2008-2017) | Fintech/remittances | [^3][^18] |
+| TheMuse | Early (QED-era, 2008-2017) | HR tech/careers | [^3] |
+| KNIP | Early (QED-era, 2008-2017) | Insurtech | [^3] |
+| MediaMath | Early (QED-era, 2008-2017) | Ad tech | [^18] |
+| Valen Analytics | Early (QED-era, 2008-2017) | Insurance analytics | [^18] |
 
 *Note: QED Investors' full portfolio includes 20+ additional companies (Credit Karma, SoFi, Nubank, Klarna, GreenSky, AvidXchange, etc.) [^6][^7], but individual partner attribution for those deals is not publicly confirmed for Honig specifically.*
 

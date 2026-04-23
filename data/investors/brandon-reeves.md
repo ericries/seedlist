@@ -88,8 +88,8 @@ Based on 20 verified investments, Reeves' actual portfolio reveals the following
 | Cognition | 2024 | Early | [^25] |
 | Sakana AI | 2024 | Seed ($30M) | [^8][^26] |
 | Magie | 2024 | Seed ($4M) | [^9] |
-~unknown| Physical Intelligence | -- | Early | [^27] |
-~unknown| Primer | -- | Early | [^2] |
+| Physical Intelligence | 2024 | Seed ($70M) / Series A co-lead ($400M) | [^27][^29][^30] |
+| Primer | ~2018 | Early | [^2] |
 
 This table represents approximately 20 investments. Signal by NFX lists his check size range as $1M-$50M with a $10M sweet spot [^2].
 
@@ -153,3 +153,5 @@ No independently sourced founder testimonials found. Reeves' portfolio company f
 [^26]: Reuters via U.S. News, "Top Ex-Google Researchers Raise $30 Million for Tokyo-Based AI Lab," January 2024. https://money.usnews.com/investing/news/articles/2024-01-16/top-ex-google-researchers-raise-30-million-for-tokyo-based-ai-lab
 [^27]: Lux Capital, "Physical Intelligence" company page, accessed March 2026. https://www.luxcapital.com/companies/physical-intelligence
 [^28]: O'Reilly Strata Data Conference, "Brandon Reeves, Lux Capital" speaker page, accessed March 2026. https://conferences.oreilly.com/strata/strata-ca-2018/public/schedule/speaker/310950.html
+[^29]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 2024. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/
+[^30]: CNBC, "Jeff Bezos and OpenAI invest in robot startup Physical Intelligence at $2.4 billion valuation," November 4, 2024. https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html
