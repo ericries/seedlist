@@ -28,7 +28,10 @@ pending_rounds:
   parsed_company: Cloneable
   parsed_amount: $4.6M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile cloneable.md; $4.6M seed on 2026-04-23 led by Congruent
+    Ventures with First In Capital, Overline, Bull City Venture Partners, St. Elmo
+    Venture Capital; Raleigh NC; no firm slugs added (none yet profiled)
 - title: 'Sector Snapshot: EV Funding On Track For Modest Gains'
   url: https://news.crunchbase.com/venture/modest-gains-for-electric-vehicle-funding-wayve/
   source: crunchbase
@@ -36,7 +39,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: sector trend piece on EV funding, not a specific startup round; Wayve's
+    $1.2B February round and Slate Auto's $650M Series C already referenced elsewhere
 - title: Zagreb-based Fasal Bio secures €7 million to replace plastics with renewable
     raw materials
   url: https://www.eu-startups.com/2026/04/zagreb-based-fasal-bio-secures-e7-million-to-replace-plastics-with-renewable-raw-materials/
@@ -45,7 +50,11 @@ pending_rounds:
   parsed_company: Zagreb-based Fasal Bio
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile fasal-bio.md; €7M growth equity on 2026-04-23 from
+    BlackPeak Capital (final investment from BlackPeak Southeast Europe Growth Equity
+    Fund I); Zagreb Croatia wood-based renewable materials; EU-Startups direct fetch
+    403, cited via Vestbee
 - title: Cloudsmith raises €61.5 million Series C to control and secure AI-driven
     software supply chains
   url: https://www.eu-startups.com/2026/04/cloudsmith-raises-e61-5-million-series-c-to-control-and-secure-ai-driven-software-supply-chains/
@@ -54,7 +63,11 @@ pending_rounds:
   parsed_company: Cloudsmith
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: processed
+  notes: created startup profile cloudsmith.md; $72M (~€61.5M) Series C on 2026-04-23
+    led by TCV with Insight Partners continuing; Belfast Northern Ireland; approaching
+    $1B valuation; added tcv.md and insight-partners.md to firms frontmatter; EU-Startups
+    direct fetch 403, cited via Tech.eu and TNW
 - title: SpaceTech startup UNIVITY raises €27 million to position Europe as a key
     player in global hybrid connectivity.
   url: https://www.eu-startups.com/2026/04/spacetech-startup-univity-raises-e27-million-to-position-europe-as-a-key-player-in-global-hybrid-connectivity/
@@ -63,7 +76,10 @@ pending_rounds:
   parsed_company: SpaceTech startup UNIVITY
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile univity.md; €27M Series A on 2026-04-23 led by Blast
+    and Expansion with Bpifrance (Deeptech 2030) and two family offices; French VLEO
+    satellite constellation for telecom; no firm slugs added (none yet profiled)
 - title: Decade Energy, founded by the team behind Volta Trucks, secures €22 million
     to scale Europe’s depot power infrastructure
   url: https://www.eu-startups.com/2026/04/decade-energy-founded-by-the-team-behind-volta-trucks-secures-e22-million-to-scale-europes-depot-power-infrastructure/
@@ -72,7 +88,11 @@ pending_rounds:
   parsed_company: Decade Energy, founded by the team behind Volta Trucks,
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile decade-energy.md; €22M Series A on 2026-04-23 co-led
+    by Eiffel Investment Group (€16M) and SET Ventures (€5.5M) with Ananda Impact
+    Ventures and Contrarian Ventures continuing; Paris France; founded by Volta Trucks
+    team; no firm slugs added
 - title: Naturbeads secures €4.1 million in EU funding to curb microplastic pollution
     with biodegradable microbeads
   url: https://www.eu-startups.com/2026/04/naturbeads-secures-e4-1-million-in-eu-funding-to-curb-microplastic-pollution-with-biodegradable-microbeads/
@@ -81,7 +101,50 @@ pending_rounds:
   parsed_company: Naturbeads
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile naturbeads.md; €4.1M EU grant on 2026-04-23 to open
+    Puglia commercial plant (June 2026); Bath UK spinout from University of Bath; prior
+    £7.8M Series A (Nov 2024) with Eos Advisory, Progress Tech Transfer, CDP Venture
+    Capital; EU-Startups direct fetch 403, cited via Tech Funding News and University
+    of Bath
+- title: Era raises $11M to build a software platform for AI gadgets
+  url: https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
+  source: techcrunch
+  date_found: '2026-04-23'
+  parsed_company: Era
+  parsed_amount: $11M
+  parsed_round: null
+  status: processed
+  notes: created startup profile era-computer.md; $11M seed on 2026-04-23 co-led by
+    Abstract Ventures and BoxGroup with Collaborative Fund, Mozilla Ventures, Topology
+    Ventures, Betaworks; added abstract-ventures.md, boxgroup.md, collaborative-fund.md
+    to firms frontmatter; founded by ex-Humane/HP/Sutter Hill team
+- title: Salmon raises $100M in equity and debt to bring digital credit to underbanked
+    Filipinos
+  url: https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/
+  source: techcrunch
+  date_found: '2026-04-23'
+  parsed_company: Salmon
+  parsed_amount: $100M
+  parsed_round: null
+  status: processed
+  notes: created startup profile salmon.md; $100M ($60M equity + $40M debt) on 2026-04-23
+    with Spice Expeditions, Washington University Investment Management Company, Moore
+    Strategic Ventures, FJ Labs; Manila consumer finance app; added fj-labs.md to
+    firms frontmatter; cumulative $310M funding
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/23/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-23-2026/
+  source: alleywatch
+  date_found: '2026-04-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: extracted 3 rounds; created aaru.md ($80M Series A led by Redpoint Ventures)
+    and shade.md ($14M venture co-led by Khosla Ventures, Construct Capital, Bling
+    Capital); BetHog $10M Series A already profiled as bethog.md (updated with $16.4M
+    total per AlleyWatch figures); added redpoint-ventures.md and khosla-ventures.md
+    to new profiles
 - title: Realm raises €3.8 million to bring AI agents into enterprise sales, plans
     to triple its team by year-end
   url: https://www.eu-startups.com/2026/04/realm-raises-e3-8-million-to-bring-ai-agents-into-enterprise-sales-plans-to-triple-its-team-by-year-end/
@@ -154,7 +217,11 @@ pending_rounds:
   parsed_company: Lisbon-based DOJO AI
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile dojo-ai.md; $6M (~€5.1M) seed on 2026-04-22 led by
+    Armilar at $30M valuation with Heartfelt VC; Lisbon/London agentic marketing platform
+    founded by ex-Feedzai/OutSystems team; EU-Startups direct fetch 403, cited via
+    Armilar blog and Portugal Startup News
 - title: 'The AlleyWatch Startup Daily Funding Report: 4/22/2026'
   url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-22-2026/
   source: alleywatch
@@ -162,7 +229,14 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: 'extracted 5 rounds; created: vast-data.md ($500M Series F led by Drive Capital/Access
+    Industries with Fidelity, NEA, NVIDIA), courier-health.md ($50M Series B led by
+    Oak HC/FT with Norwest, Work-Bench), mosaic-deals.md ($18M Series A led by Radical
+    Ventures), amperos-health.md ($16M Series A led by Bessemer with Uncork Capital,
+    Neo), thoughtly.md ($5.5M seed led by Armory Square Ventures with nvp capital,
+    Afore Capital, Greycroft, K5 Global Tokyo Black); added nea.md, bessemer-venture-partners.md,
+    uncork-capital.md, neo.md to firms frontmatter'
 - title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
     testing
   url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
@@ -969,30 +1043,3 @@ pending_rounds:
   parsed_round: Series E
   status: processed
   notes: created startup profile alloy-therapeutics.md; updated 8vc.md portfolio
-- title: Resolve AI raised $40M Series A extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Resolve AI
-  parsed_amount: $40M
-  parsed_round: Series A Extension
-  status: processed
-  notes: created startup profile resolve-ai.md
-- title: Solidroad raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Solidroad
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile solidroad.md
-- title: Spektr raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Spektr
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  notes: duplicate of Crunchbase entry; spektr.md already created
