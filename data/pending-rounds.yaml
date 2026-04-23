@@ -93,6 +93,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/22/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-22-2026/
+  source: alleywatch
+  date_found: '2026-04-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
     testing
   url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
@@ -990,12 +998,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: created startup profile traza.md
-- title: Arxis raised $1.1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Arxis
-  parsed_amount: $1.1B
-  parsed_round: null
-  status: skipped
-  skip_reason: IPO on Nasdaq ($1.13B), not a startup funding round
