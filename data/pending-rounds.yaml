@@ -20,6 +20,68 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With
+    Agentic AI For Utilities And Infrastructure'
+  url: https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/
+  source: crunchbase
+  date_found: '2026-04-23'
+  parsed_company: Cloneable
+  parsed_amount: $4.6M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: EV Funding On Track For Modest Gains'
+  url: https://news.crunchbase.com/venture/modest-gains-for-electric-vehicle-funding-wayve/
+  source: crunchbase
+  date_found: '2026-04-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Zagreb-based Fasal Bio secures €7 million to replace plastics with renewable
+    raw materials
+  url: https://www.eu-startups.com/2026/04/zagreb-based-fasal-bio-secures-e7-million-to-replace-plastics-with-renewable-raw-materials/
+  source: eu-startups
+  date_found: '2026-04-23'
+  parsed_company: Zagreb-based Fasal Bio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Cloudsmith raises €61.5 million Series C to control and secure AI-driven
+    software supply chains
+  url: https://www.eu-startups.com/2026/04/cloudsmith-raises-e61-5-million-series-c-to-control-and-secure-ai-driven-software-supply-chains/
+  source: eu-startups
+  date_found: '2026-04-23'
+  parsed_company: Cloudsmith
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: SpaceTech startup UNIVITY raises €27 million to position Europe as a key
+    player in global hybrid connectivity.
+  url: https://www.eu-startups.com/2026/04/spacetech-startup-univity-raises-e27-million-to-position-europe-as-a-key-player-in-global-hybrid-connectivity/
+  source: eu-startups
+  date_found: '2026-04-23'
+  parsed_company: SpaceTech startup UNIVITY
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Decade Energy, founded by the team behind Volta Trucks, secures €22 million
+    to scale Europe’s depot power infrastructure
+  url: https://www.eu-startups.com/2026/04/decade-energy-founded-by-the-team-behind-volta-trucks-secures-e22-million-to-scale-europes-depot-power-infrastructure/
+  source: eu-startups
+  date_found: '2026-04-23'
+  parsed_company: Decade Energy, founded by the team behind Volta Trucks,
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Naturbeads secures €4.1 million in EU funding to curb microplastic pollution
+    with biodegradable microbeads
+  url: https://www.eu-startups.com/2026/04/naturbeads-secures-e4-1-million-in-eu-funding-to-curb-microplastic-pollution-with-biodegradable-microbeads/
+  source: eu-startups
+  date_found: '2026-04-23'
+  parsed_company: Naturbeads
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Realm raises €3.8 million to bring AI agents into enterprise sales, plans
     to triple its team by year-end
   url: https://www.eu-startups.com/2026/04/realm-raises-e3-8-million-to-bring-ai-agents-into-enterprise-sales-plans-to-triple-its-team-by-year-end/
@@ -934,67 +996,3 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: duplicate of Crunchbase entry; spektr.md already created
-- title: Pillar raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Pillar
-  parsed_amount: $20M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate; pillar-risk.md already exists from earlier processing
-- title: Capsule raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Capsule
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile capsule-security.md
-- title: Cookiy AI raised $7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Cookiy AI
-  parsed_amount: $7M
-  parsed_round: null
-  status: processed
-  notes: created startup profile cookiy-ai.md
-- title: Balerion raised $6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Balerion
-  parsed_amount: $6M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: could not verify; Balerion Space Ventures is a VC firm, not a startup;
-    no startup called Balerion found raising $6M seed
-- title: Stendr raised $5.4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Stendr
-  parsed_amount: $5.4M
-  parsed_round: null
-  status: processed
-  notes: created startup profile stendr.md; updated acme-capital.md portfolio
-- title: Brix raised $5.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Brix
-  parsed_amount: $5.5M
-  parsed_round: null
-  status: processed
-  notes: created startup profile brix.md
-- title: Traza raised $2.1M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Traza
-  parsed_amount: $2.1M
-  parsed_round: null
-  status: processed
-  notes: created startup profile traza.md
