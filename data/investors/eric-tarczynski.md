@@ -93,7 +93,7 @@ Based on 42 verified current portfolio companies from Contrary's website [^11], 
 | Zepto | 2021 | Seed | [^14] |
 | Hallow | ~2019 | Pre-seed | [^15] |
 | Vise | ~2019 | Seed | [^16] |
-~unknown| Anduril | — | — | [^11] |
+| Anduril | 2021 | Series D | [^28] |
 ~unknown| Alloy | — | — | [^11] |
 ~unknown| Armada | — | — | [^11] |
 ~unknown| AtoB | — | — | [^11] |
@@ -190,3 +190,4 @@ Zepto co-founder Aadit Palicha's founding story is closely intertwined with Cont
 [^25]: The Full Ratchet, "386. Finding Product Market Fit As a Venture Firm (Kyle Harrison and Eric Tarczynski)," 2022. https://fullratchet.net/386-finding-product-market-fit-as-a-venture-firm-how-to-identify-world-class-founders-before-anyone-else-and-debating-whether-or-not-venture-has-hit-the-bottom-kyle-harrison-and-eric-tarczynski/
 [^26]: 5paisa, "Aadit Palicha: Success Story of Zepto Co-founder," accessed March 2026. https://www.5paisa.com/finschool/aadit-palicha-co-founder-of-zepto/
 [^27]: Contrary, "Investments," accessed March 2026. https://www.contrary.com/investments
+[^28]: Contrary, "Anduril" portfolio page (lists "First Partnered: Series D"), accessed April 2026. https://www.contrary.com/companies/anduril ; TechCrunch, "Anduril hits $4.6B valuation on $450M Series D led by Elad Gil and Andreessen Horowitz," June 2021 context per Tracxn funding history. https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors

@@ -95,7 +95,7 @@ This table represents a sample of verified Hustle Fund investments. With 375+ to
 | Hemster | ~2019 | Pre-Seed | [^18] |
 | Meowtel | ~2019 | Pre-Seed | [^20] |
 | Gamma | ~2021 | Pre-Seed | [^15] |
-~unknown| Pento | — | Pre-Seed | [^16] |
+| Pento | 2019 | Seed | [^24] |
 ~unknown| Jefa | — | Pre-Seed | [^16] |
 ~unknown| ClaimCompass | — | Pre-Seed | [^16] |
 ~unknown| Pavewise | — | Seed | [^17] |
@@ -166,3 +166,4 @@ This table represents a sample of verified Hustle Fund investments. With 375+ to
 [^21]: Hustle Fund blog, "An angel investing Q&A with Hustle Fund co-founder Elizabeth Yin," accessed March 2026. https://www.hustlefund.vc/post/an-angel-investing-q-a-with-hustle-fund-co-founder-elizabeth-yin
 [^22]: Process Street, "How Hustle Fund Saves $150,000/year with Process Street," accessed March 2026. https://www.process.st/case-study-hustle-fund/
 [^23]: Elizabeth Yin on X/Twitter, thread on fundraising transparency, September 2021. https://x.com/dunkhippo33/status/1436206127985819650
+[^24]: TechCrunch, "Pento raises $2.8M seed round for its payroll SaaS," September 10, 2019. https://techcrunch.com/2019/09/10/pento/ ; Seedcamp, "Pento raises $2.8M to make payroll pains a thing of the past," September 10, 2019. http://seedcamp.com/views/pento-raises-2-8m-to-make-payroll-pains-a-thing-of-the-past/

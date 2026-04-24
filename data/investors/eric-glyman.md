@@ -119,7 +119,7 @@ This table includes 17 verified investments out of an estimated 20-23 total inve
 |---------|-----------|------|--------|
 | Paribus | Acquired by Capital One | 2016 | [^3] |
 | Ouster | Public (SPAC) | 2021 | [^1] |
-~unknown| Hivy | Acquired | Unknown | [^1] |
+| Hivy | Acquired by Managed by Q | 2017 | [^25] |
 
 ## In Their Own Words
 
@@ -171,3 +171,4 @@ No independently sourced founder testimonials found. Eric Glyman is primarily kn
 [^22]: Crunchbase, "FreeWill - Company Profile," accessed March 2026. https://www.crunchbase.com/organization/freewill
 [^23]: Ramp blog, "Eric Glyman on lessons learned from founding and scaling Ramp," accessed March 2026. https://ramp.com/blog/eric-glyman-lessons-learned
 [^24]: Sequoia Capital, "Ramp CEO Eric Glyman: Using AI to Build 'Self-Driving Money'," Training Data podcast, accessed March 2026. https://sequoiacap.com/podcast/training-data-eric-glyman/
+[^25]: TechCrunch, "Managed By Q, the office management system, acquires Hivy," September 26, 2017. https://techcrunch.com/2017/09/26/managed-by-q-the-office-management-system-acquires-hivy/ ; Crunchbase, "Hivy - Company Profile & Funding" (Hivy raised a single seed round in March 2017 with Eric Glyman listed among 8 investors), accessed April 2026. https://www.crunchbase.com/organization/hivy
