@@ -82,7 +82,7 @@ Based on 22 verified investments across both the Founders Fund era and the Bedro
 | Mach Industries | Series A (lead) | ~2023 | Defense tech | [^15] |
 | Mach Industries | Series B (co-lead) | 2025 | Defense tech | [^15] |
 | Epirus | Series B (lead) | 2020 | Defense tech | [^18] |
-~unknown| Cameo | -- | -- | Consumer | [^4] |
+| Cameo | Series A (participant) | 2018 | Consumer | [^22] |
 ~unknown| Plaid | -- | -- | Fintech | [^4] |
 | T1 Entertainment & Sports | Series A | 2025 | Esports | [^12] |
 ~unknown| Bitcoin | Direct position | -- | Digital assets | [^1] |
@@ -163,3 +163,4 @@ No independently sourced founder testimonials found. Bedrock's own website descr
 [^19]: Yahoo Finance / CNBC, "Artificial intelligence is akin to crypto in 2021 as the sector is facing investor hype, says founder of tech investment firm," February 2023, accessed April 2026. https://finance.yahoo.com/news/artificial-intelligence-akin-crypto-2021-151337384.html
 [^20]: CNBC, "Watch CNBC's full interview with Bedrock founder Geoff Lewis," May 23, 2024, accessed April 2026. https://www.cnbc.com/video/2024/05/23/watch-cnbcs-full-interview-with-bedrock-founder-geoff-lewis.html
 [^21]: CNBC, "OpenAI is the definitive consumer brand for AI at this point, says Bedrock Capital's Geoff Lewis," November 26, 2024, accessed April 2026. https://www.cnbc.com/video/2024/11/26/openai-is-the-definitive-consumer-brand-for-ai-at-this-point-says-bedrock-capitals-geoff-lewis.html
+[^22]: Silicon Prairie News, "Cameo closes $12.5 million series A round," November 21, 2018, accessed April 2026. https://siliconprairienews.com/2018/11/cameo-closes-12-5-million-series-a-round/

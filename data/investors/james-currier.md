@@ -114,10 +114,9 @@ The analysis below is based on 25 verified portfolio companies from NFX's websit
 | ACID Labs | Seed | ~2021 | Gaming | Active | [^5] |
 | CircleUp | Seed | ~2018 | Fintech/Marketplace | Active | [^7] |
 | Ribbon | Seed | ~2019 | Fintech/Real Estate | Active | [^2] |
-~unknown| lastminute.com | Early | ~pre-fund | Travel/Marketplace | IPO/Active | [^6] |
 | Twist Bioscience | Early | ~2018 | Biotech/Synthetic Bio | IPO (NASDAQ: TWST) | [^6] |
 
-*This table represents approximately 25 of 577 total investments made by NFX [^7]. Many investment years are approximate. Some early investments (DoorDash, Lyft, Patreon, Trulia) were personal angel investments by Currier before NFX was formally established.*
+*This table represents approximately 24 of 577 total investments made by NFX [^7]. Many investment years are approximate. Some early investments (DoorDash, Lyft, Patreon, Trulia) were personal angel investments by Currier before NFX was formally established.*
 
 ## In Their Own Words
 

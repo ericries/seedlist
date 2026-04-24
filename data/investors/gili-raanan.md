@@ -92,7 +92,7 @@ Based on 24 verified portfolio companies at Cyberstarts (see Portfolio table bel
 | Vega | Seed | 2024 | Security analytics | [^30] |
 | Surf AI | Seed | 2024 | Security operations (AI) | [^31] |
 | Gambit Security | Seed | 2025 | AI-native enterprise resilience | [^32] |
-~unknown| Onyx Security | Seed | -- | Cybersecurity (stealth) | [^8] |
+| Onyx Security | Seed ($5M) | 2024 | AI agent security | [^36] |
 ~unknown| Trail | Seed | -- | Cybersecurity (acquired) | [^4] |
 
 *This table represents 24 of approximately 28 claimed investments. Investment years marked with "~" are approximate based on company founding dates. Entries marked "--" indicate year could not be independently verified.*
@@ -164,3 +164,4 @@ No additional independently sourced founder testimonials found beyond those abov
 [^33]: Cisco Investments, "Cyberstarts: A Cyber VC Powered by Cybersecurity Founders," accessed March 2026. https://www.ciscoinvestments.com/cyberstarts-vc
 [^34]: Upwind blog, "Building the Next Wave of Cloud Security," accessed March 2026. https://www.upwind.io/feed/building-next-wave-cloud-security-upwind
 [^35]: Times of Israel, "In largest Israeli cybersecurity deal, Insight buys Armis at $1.1b valuation," January 2020. https://www.timesofisrael.com/in-largest-israeli-cybersecurity-deal-insight-buys-armis-at-1-1b-valuation/
+[^36]: Calcalist, "Cyber startup Onyx Security raises $35 million to control AI agents in organizations," March 12, 2026, accessed April 2026. https://www.calcalistech.com/ctechnews/article/hjmra11x911g
