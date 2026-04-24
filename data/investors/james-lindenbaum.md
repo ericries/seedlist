@@ -105,7 +105,7 @@ Based on the 75 portfolio companies listed on Heavybit's portfolio page [^11], c
 | Sentz Global | 2019 | Early Stage | [^9] |
 | Doppler | 2021 | Early Stage | [^9] |
 | Mux (follow-on) | 2021 | Growth | [^9] |
-~unknown| Pantheon | — | Early Stage | [^12] |
+| Pantheon | 2010 | Seed | [^12][^17] |
 
 *This table represents Lindenbaum's verified personal angel investments. He has also made investments through Heavybit (see firm portfolio below). Sources report approximately 20 total personal investments; 11 could be independently verified.*
 
@@ -195,3 +195,4 @@ Tyler Dunn, Co-Founder and Chief Product Officer of Continue: "When we run into 
 [^14]: Heavybit, "James Lindenbaum on Developer Company Trends," accessed March 2026. https://www.heavybit.com/library/article/james-lindenbaum-developer-trends
 [^15]: Heavybit, "Zero To Won, Ep. #4: Building on Quality at Heroku with James Lindenbaum," accessed March 2026. https://www.heavybit.com/library/podcasts/zero-to-won/ep-4-james-lindenbaum-maintaining-quality
 [^16]: Heavybit, "Member Spotlights," accessed March 2026. https://heavybit.com/member-spotlights
+[^17]: TechCrunch, "Backed With $1.3 Million, Pantheon Launches Drupal-Based Web Development Platform," September 30, 2011. https://techcrunch.com/2011/09/30/pantheon/

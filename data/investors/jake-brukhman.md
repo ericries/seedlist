@@ -91,7 +91,7 @@ Based on 25 verified investments with confirmed CoinFund involvement, sourced fr
 | Dakota | 2025-07 | Series A | Stablecoin Banking | [^25] |
 | Irys | 2025-08 | Series A | Data Infrastructure | [^26] |
 | Cloudburst | ~2025 | Seed | Crypto Security | [^6] |
-| STON.fi | ~2025 | Undisclosed | DEX/DeFi | [^6] |
+| STON.fi | 2025-07-30 | Series A ($9.5M, co-led) | DEX/DeFi | [^29][^30] |
 | Flying Tulip | 2026-01 | Seed | DeFi | [^27] |
 | LI.FI | 2025-12 | Series A Ext. | Cross-chain Infra | [^28] |
 
@@ -149,3 +149,5 @@ No independently sourced founder testimonials found. CoinFund's website features
 [^26]: Crypto.news, "CoinFund leads $10m raise for layer 1 datachain platform Irys," August 2025. https://crypto.news/coinfund-leads-10m-raise-for-layer-1-datachain-platform-irys/
 [^27]: Morningstar/PRNewswire, "Flying Tulip Announces Additional Institutional Investors," January 2026. https://www.morningstar.com/news/pr-newswire/20260129ny73223/flying-tulip-announces-additional-institutional-investors
 [^28]: PRNewswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
+[^29]: Decrypt, "STON.fi Dev Raises $9.5M Series A to Scale DeFi on TON," July 30, 2025. https://decrypt.co/332531/ston-fi-dev-raises-9-5m-series-a-to-scale-defi-on-ton
+[^30]: The Daily Hodl, "STON.fi Dev Raises $9.5M Series A to Scale DeFi on TON," July 30, 2025. https://dailyhodl.com/2025/07/30/ston-fi-dev-raises-9-5m-series-a-to-scale-defi-on-ton/

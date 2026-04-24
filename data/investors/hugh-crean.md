@@ -63,7 +63,7 @@ Based on 7 verified investments sourced across press articles, funding announcem
 | Room77 | ~2012 | Early stage | Travel / hospitality | Acquired (Hotel Planner, 2019) | [^3] |
 | Luxury Retreats | 2012 | Series A | Travel / hospitality | Acquired (Airbnb, 2017) | [^11] |
 | Vhoto | ~2014 | Seed | Consumer video / photo | Acquired (Hulu, 2016) | [^12] |
-| SilverRail Technologies | ~2013 | Early stage | Travel / rail tech | Unknown | [^3] |
+| SilverRail Technologies | ~2013 | Early stage | Travel / rail tech | Independent (Expedia acquired majority 2017, management buyout 2020) | [^3][^14][^15] |
 | Otto | 2024 | Seed | Travel AI / B2B | Active | [^13] |
 
 Note: This table represents verified investments sourced from press coverage and aggregator records. Crunchbase lists 6 total investments; 7 are documented here including Vhoto where Crean was a co-founder. Some earlier investments may not be fully represented in public records.
@@ -107,3 +107,7 @@ No independently sourced founder testimonials found. No firm website testimonial
 [^12]: GeekWire, "Hulu quietly purchases assets from Seattle video startup Vhoto, hires most of the team," February 2016. https://www.geekwire.com/2016/seattle-video-startup-vhoto-quietly-sold-to-hulu-service-shut-down/
 
 [^13]: Skift, "Concur Founder, Former Expedia Execs Back Business Travel AI Startup: Otto," August 22, 2024. https://skift.com/2024/08/22/concur-founder-former-expedia-execs-back-business-travel-ai-startup-otto/
+
+[^14]: Expedia Group, "Expedia Completes Acquisition of Majority Stake in Leading Rail Technology Distributor SilverRail," June 23, 2017. https://www.expediagroup.com/media/media-details/2017/Expedia-Completes-Acquisition-of-Majority-Stake-in-Leading-Rail-Technology-Distributor-SilverRail/default.aspx
+
+[^15]: Skift, "Expedia Group Sells SilverRail Back to the Rail Aggregator's Management," October 19, 2020. https://skift.com/2020/10/19/expedia-group-sells-majority-stake-in-silverrail-back-to-the-rail-aggregators-management/
