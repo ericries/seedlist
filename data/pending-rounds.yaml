@@ -65,6 +65,35 @@ pending_rounds:
   status: skipped
   skip_reason: Adams Street Partners is a large PE/private markets firm; $2.5B is
     a fund close, not a startup funding round
+- title: Helsinki-based AI infrastructure company Verda raises €100 million, plans
+    to hire 100+ people by year-end
+  url: https://www.eu-startups.com/2026/04/helsinki-based-ai-infrastructure-company-verda-raises-e100-million-plans-to-hire-100-people-by-year-end/
+  source: eu-startups
+  date_found: '2026-04-24'
+  parsed_company: Helsinki-based AI infrastructure company Verda
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile verda.md; $117M (~€100M) growth round on 2026-04-24
+    led by Lifeline Ventures with byFounders, Tesi, Varma per verda.com blog; Helsinki
+    AI cloud hyperscaler (formerly DataCrunch); no firm slugs added (Lifeline Ventures,
+    byFounders, Tesi, Varma not yet profiled); EU-Startups direct fetch 403, cited
+    via Verda blog primary source
+- title: HrFlow.ai secures €6 million pre-Series A to build “Hiring SuperIntelligence”
+    to tackle unemployment
+  url: https://www.eu-startups.com/2026/04/hrflow-ai-secures-e6-million-pre-series-a-to-build-hiring-superintelligence-to-tackle-unemployment/
+  source: eu-startups
+  date_found: '2026-04-24'
+  parsed_company: HrFlow.ai
+  parsed_amount: null
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile hrflow-ai.md; $7M (~€6M) pre-Series A announced
+    2026-04-08 per HrFlow blog, re-surfaced in EU-Startups 2026-04-24; co-led by
+    115K and EmergingTech Ventures with angels Xavier Niel, Jean-Baptiste Rudelle,
+    Romain Niccoli, Franck Le Ouay, Flavien Kulawik, Allen Penn, Dominique Vidal,
+    Thibaud Elzière; Paris-based HR AI; added xavier-niel and dominique-vidal to
+    investors frontmatter; 115K and EmergingTech Ventures not yet profiled
 - title: 'Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With
     Agentic AI For Utilities And Infrastructure'
   url: https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/
@@ -1033,22 +1062,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: created startup profile getwhys.md
-- title: InsightFinder raises $15M to help companies figure out where AI agents go
-    wrong
-  url: https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/
-  source: techcrunch
-  date_found: '2026-04-16'
-  parsed_company: InsightFinder
-  parsed_amount: $15M
-  parsed_round: null
-  status: processed
-  notes: created startup profile insightfinder.md
-- title: Beeline Medicines raised $300M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Beeline Medicines
-  parsed_amount: $300M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile beeline-medicines.md
