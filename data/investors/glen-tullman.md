@@ -92,9 +92,9 @@ Investments attributed to Glen Tullman personally or through vehicles he leads (
 | Transcarent | 2021 | Founder/Seed | [^3][^8] |
 | NOCD | 2018 | Seed (Executive Chairman) | [^16][^17] |
 | Truvian Sciences | ~2021 | Series C (co-led) | [^21] |
-~unknown| Foodsmart | — | Angel | [^22] |
+| Foodsmart | 2024 | Series C (62 Ventures) | [^22][^27] |
 | SoCore Energy | ~2012 | Founder/Early | [^1][^12] |
-~unknown| Modern Teacher | — | Founder | [^1] |
+| Modern Teacher | ~2013 | Founder/Early | [^1] |
 | BridgeHealthAI | 2024 | Early (62 Ventures) | [^10] |
 | Khyaal | 2024 | Early (62 Ventures) | [^10] |
 | Loop Health | 2024 | Early (62 Ventures) | [^10] |
@@ -161,3 +161,4 @@ No additional independently sourced founder testimonials found beyond firm-produ
 [^24]: MedCity News, "Glen Tullman's 5 Predictions for Healthcare's Future," April 2023, accessed April 2026. https://medcitynews.com/2023/04/glen-tullmans-5-predictions-for-healthcares-future/
 [^25]: HFMA, "Healthcare disruptor Glen Tullman says providers need more of a consumer-centric approach," accessed April 2026. https://www.hfma.org/finance-and-business-strategy/innovation-and-disruption/providers-need-more-of-a-consumer-centric-approach/
 [^26]: 7wire Ventures, "Top of the Ladder" interview series, accessed April 2026. https://www.7wireventures.com/perspectives/
+[^27]: Fierce Healthcare, "Telenutrition provider Foodsmart raises $10M, announces health systems rolling out food prescriptions," January 31, 2024. https://www.fiercehealthcare.com/digital-health/foodsmart-raises-10m-announces-health-system-partners

@@ -71,7 +71,7 @@ Based on 20 verified investments attributed to Rotman personally (from QED's web
 | SoFi | ~2013 | Early Stage | [^24] |
 | Current | 2017 | Series A | [^14] |
 | True Link Financial | 2017 | Series A | [^25] |
-| HouseCanary | 2018 | Unknown | [^26] |
+| HouseCanary | 2018 | Undisclosed (early-stage) | [^26][^33] |
 | Mission Lane | ~2018 | Early Stage | [^27] |
 | Sundae | 2020 | Series A | [^13] |
 | Provide (fka Lendeavor) | 2020 | Series A/B | [^28] |
@@ -187,3 +187,5 @@ Nigel Morris, QED's Managing Partner and Rotman's co-founder, has stated: "For 3
 [^31]: QED Investors on X, "A must-read from QED's CIO Frank Rotman (@fintechjunkie) on 'Startup Speed,'" accessed March 2026. https://x.com/QEDInvestors/status/1829247673960149137
 
 [^32]: Smart Humans podcast with Vincent, "Smart Humans: QED's Frank Rotman," accessed March 2026. https://www.withvincent.com/research/smart-humans-qed-frank-rotman
+
+[^33]: QED Investors, "House Canary | Companies," accessed April 2026. https://www.qedinvestors.com/companies/house-canary

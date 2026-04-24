@@ -101,7 +101,7 @@ The analysis below is based on the 12 Forerunner portfolio companies where Kim i
 | The Feed | ~2023 | Seed/Series A | Consumer / sports nutrition | [^1][^11] |
 | Joy | 2024 | Seed | Consumer / parenting | [^15] |
 | Leland | 2024 | Series A | Career / coaching marketplace | [^22] |
-~unknown| MoveWith | Unknown | Seed | Consumer / fitness | [^12] |
+| MoveWith | 2016 | Seed | Consumer / fitness | [^26] |
 
 *This table covers 12 verified investments where Kim is confirmed as lead investor or board member, representing approximately 30% of her stated 40+ investment record. Years marked with ~ are estimates based on press coverage and Forerunner portfolio page data; all entries require source confirmation for the specific investment year.*
 
@@ -183,3 +183,4 @@ No independently sourced founder testimonials found. The Forerunner Ventures web
 [^23]: Stanford eCorner, "Eurie Kim" contributor page, accessed March 2026. https://ecorner.stanford.edu/contributor/eurie-kim/
 [^24]: Entrepreneur.com, "You Must Ask Yourself This Question Before You Pitch Your Idea," 2016. https://www.entrepreneur.com/leadership/you-must-ask-yourself-this-question-before-you-pitch-your/298256
 [^25]: Modern Retail, "Forerunner Ventures' Eurie Kim: You're not going to get clarity at an early stage startup," 2020. https://www.modernretail.co/retailers/forerunner-ventures-eurie-kim-youre-not-going-to-get-clarity-at-an-early-stage-startup/
+[^26]: FinSMEs, "MoveWith Raises $3m in Seed Funding," January 18, 2016. http://www.finsmes.com/2016/01/movewith-raises-3m-in-seed-funding.html
