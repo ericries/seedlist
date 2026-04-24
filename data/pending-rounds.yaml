@@ -20,6 +20,51 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Afresh raised $34M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-24'
+  parsed_company: Afresh
+  parsed_amount: $34M
+  parsed_round: null
+  status: processed
+  notes: created startup profile afresh.md; $34M growth round on 2026-04-21 co-led
+    by Just Climate (Generation Investment Management) and High Sage Ventures; San
+    Francisco grocery AI, founded 2017; prior $115M Series B (2022) led by Spark Capital
+    with Insight Partners added to firms frontmatter
+- title: Copperhelm raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-24'
+  parsed_company: Copperhelm
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile copperhelm.md; $7M seed on 2026-04-23 led by TLV
+    Partners with toDay Ventures, ICON, SaaS Ventures Israel and angels Kfir Tishbi,
+    Or Hiltch, Guy Zipori, Ephraim Yarmak; Tel Aviv agentic cloud security; founded
+    late 2025 by Shimon Tolts, Eyar Zilberman, Roman Labunsky; no firm slugs added
+    (none yet profiled)
+- title: has raised $6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-24'
+  parsed_company: has
+  parsed_amount: $6M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact from Axios; "has" is an auxiliary verb ("X has raised
+    $6M"), not a company name; could not identify the actual company from web searches
+- title: Adams Street raised $2.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-24'
+  parsed_company: Adams Street
+  parsed_amount: $2.5B
+  parsed_round: null
+  status: skipped
+  skip_reason: Adams Street Partners is a large PE/private markets firm; $2.5B is
+    a fund close, not a startup funding round
 - title: 'Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With
     Agentic AI For Utilities And Infrastructure'
   url: https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/
@@ -1007,39 +1052,3 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile beeline-medicines.md
-- title: Slash raised $100M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Slash
-  parsed_amount: $100M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile slash-fintech.md; updated khosla-ventures.md portfolio
-- title: Storm Therapeutics raised $56M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Storm Therapeutics
-  parsed_amount: $56M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile storm-therapeutics.md
-- title: Mintlify raised $45M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Mintlify
-  parsed_amount: $45M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile mintlify.md; updated andreessen-horowitz.md portfolio
-- title: Alloy Therapeutics raised $40M Series E
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Alloy Therapeutics
-  parsed_amount: $40M
-  parsed_round: Series E
-  status: processed
-  notes: created startup profile alloy-therapeutics.md; updated 8vc.md portfolio
