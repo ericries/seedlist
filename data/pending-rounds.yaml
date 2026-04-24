@@ -102,7 +102,44 @@ pending_rounds:
   parsed_company: Paris-based Sillage
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile sillage.md; €1.7M (~$2M) pre-seed on 2026-04-24 led
+    by Kima Ventures with Drysdale Ventures, STATION F, angels; Paris-based GTM agent
+    platform for enterprise sales founded 2025 by Arnaud Weiss and Arthur Coudouy;
+    added Sillage to kima-ventures.md portfolio; EU-Startups direct fetch 403, cited
+    via Kima Ventures LinkedIn post and Sillage company website/LinkedIn
+- title: Delft’s Foamlab raises €3 million to replace fossil-based plastics with its
+    bacterial cellulose foams
+  url: https://www.eu-startups.com/2026/04/delfts-foamlab-raises-e3-million-to-replace-fossil-based-plastics-with-its-bacterial-cellulose-foams/
+  source: eu-startups
+  date_found: '2026-04-24'
+  parsed_company: Delft’s Foamlab
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile foamlab.md; €3M seed announced 2026-04-24 led by
+    Value Factory Ventures with ICOS Capital, DOEN Ventures, Capricorn Industrial
+    Biotech Fund, TTT Green Tech Fund (SHIFT Invest); Delft NL TU Delft spinout founded
+    2022 by Prof. Elvin Karana (co-founder/technology lead) and Jeroen van Rotterdam
+    (CEO); bacterial nanocellulose foam to replace fossil plastics; no firm slugs
+    added (none yet profiled); EU-Startups direct fetch 403, cited via Duurzaam Beleggen
+    and TU Delft
+- title: Cerca Magnetics raises €4.3 million to scale wearable brain imaging systems
+    powered by quantum sensing
+  url: https://www.eu-startups.com/2026/04/cerca-magnetics-raises-e4-3-million-to-scale-wearable-brain-imaging-systems-powered-by-quantum-sensing/
+  source: eu-startups
+  date_found: '2026-04-24'
+  parsed_company: Cerca Magnetics
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: created startup profile cerca-magnetics.md; £3.8M (~€4.3M) Series A announced
+    2026-04-21 led by Guinness Ventures at £30M post-money valuation; Nottingham UK
+    2020 spinout from University of Nottingham School of Physics and Astronomy; CEO
+    and co-founder David Woolger; wearable OPM-MEG quantum brain scanners for epilepsy,
+    MS, dementia research; no firm slugs added (Guinness Ventures not yet profiled);
+    EU-Startups direct fetch 403, cited via The Quantum Insider and Nottingham Technology
+    Ventures
 - title: 'Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With
     Agentic AI For Utilities And Infrastructure'
   url: https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/
@@ -1042,22 +1079,3 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile spektr.md; updated nea.md portfolio
-- title: Cielo Closes Strategic Asset Acquisition and Announces Intention to Appoint
-    Chief Operating Officer and Chief Development Officer
-  url: https://www.globenewswire.com/news-release/2026/04/16/3275174/0/en/Cielo-Closes-Strategic-Asset-Acquisition-and-Announces-Intention-to-Appoint-Chief-Operating-Officer-and-Chief-Development-Officer.html
-  source: globenewswire
-  date_found: '2026-04-16'
-  parsed_company: Cielo
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: corporate asset acquisition, not a startup funding round
-- title: Meta raises Quest 3 and Quest 3S prices due to RAM shortage
-  url: https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/
-  source: techcrunch
-  date_found: '2026-04-16'
-  parsed_company: Meta
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: product price increase, not a funding round

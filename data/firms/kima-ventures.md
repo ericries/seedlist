@@ -132,8 +132,9 @@ The portfolio below represents a sample of Kima's 1,273+ investments. Only compa
 | Doctrine | Seed | ~2016 | Legal tech | Active [^13] |
 | Klaxoon | Seed | ~2015 | Enterprise software | Active [^13] |
 | Livestorm | Seed | ~2017 | Enterprise software | Active [^13] |
+| Sillage | Pre-Seed (lead) | 2026 | GTM/sales AI | Active [^19] |
 
-*Note: Years marked with "~" indicate the company's approximate founding year used as a proxy when the exact Kima investment date could not be independently verified. This table represents approximately 40 of 1,273+ known investments (~3%). The vast majority of Kima's investments are in early-stage companies that do not receive significant press coverage, making comprehensive portfolio documentation exceptionally difficult for a fund of this volume.*
+*Note: Years marked with "~" indicate the company's approximate founding year used as a proxy when the exact Kima investment date could not be independently verified. This table represents approximately 41 of 1,273+ known investments (~3%). The vast majority of Kima's investments are in early-stage companies that do not receive significant press coverage, making comprehensive portfolio documentation exceptionally difficult for a fund of this volume.*
 
 ## In Their Own Words
 
@@ -177,3 +178,4 @@ No independently sourced founder testimonials found. Kima Ventures operates a po
 [^16]: "Spendesk Raises €2M in Seed Funding," FinSMEs, January 2017. https://www.finsmes.com/2017/01/spendesk-raises-e2m-in-seed-funding.html
 [^17]: "BeReal closed a $30 million capital funding round backed by a16z, DST, Accel and Kima Ventures," Nordic 9, accessed March 2026. https://nordic9.com/news/bereal-closed-a-30-million-capital-funding-round-backed-by-a16z-dst-accel-and-kima-ventures/
 [^18]: Kima Forward (payitforward.vc), accessed March 2026. https://payitforward.vc/
+[^19]: Kima Ventures, "Sillage announces its $2M pre-seed," LinkedIn post, April 2026. https://www.linkedin.com/posts/kima-ventures_sillage-announces-its-2m-pre-seed-to-activity-7453013629819486208-zuHG
