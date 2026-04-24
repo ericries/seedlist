@@ -136,7 +136,8 @@ The following table represents 25 verified investments. This is a partial sample
 | Perplexity | 2024 | Series B1 | [^16] |
 | Crustdata | 2025 | Seed | [^17] |
 | Standard Fleet | 2025 | Series A | [^14] |
-| NewLimit | 2025 | Unknown | [^14] |
+| NewLimit | 2023 | Series A (angel) | [^22][^23] |
+| NewLimit | 2025-05-06 | Series B (angel) | [^22] |
 | Entire | 2026 | Seed | [^14] |
 
 *Note: Years marked with "~" indicate approximate dates based on fund timing or company founding year, not confirmed investment dates. Many entries fall within Initialized Capital Fund I (2012) or Fund II (2013), and exact investment dates within those fund periods could not be independently confirmed.*
@@ -235,3 +236,7 @@ The following table represents 25 verified investments. This is a partial sample
 [^20]: "Spotting the inflection point: How Initialized Helped Coinbase at the moment of product market fit," Initialized Capital blog, December 2020. https://blog.initialized.com/2020/12/spotting-coinbase/
 
 [^21]: "Y Combinator alum launched a new $34M fund dedicated to YC startups, backed by Garry Tan," TechCrunch, July 3, 2025. https://techcrunch.com/2025/07/03/y-combinator-alum-launched-a-new-34m-fund-dedicated-to-yc-startups-backed-by-garry-tan/
+
+[^22]: NewLimit blog, "NewLimit raises $130 million Series B led by Kleiner Perkins alongside NFDG, Khosla Ventures, Human Capital and others," May 6, 2025 (listing Garry Tan among angel investors in Series B, and among the Series A "angels who have supported the company over the first two years"). https://blog.newlimit.com/p/newlimit-raises-130-million-series
+
+[^23]: NewLimit blog, "NewLimit secures $40 million in venture funding from Dimension Capital, Founders Fund, Kleiner Perkins and other investors" (Series A announcement naming Garry Tan among participating angel investors alongside Eric Schmidt, Elad Gil, and Fred Ehrsam), May 2023. https://blog.newlimit.com/p/newlimit-series-a

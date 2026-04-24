@@ -69,7 +69,7 @@ Based on 20 verified investments in the portfolio table below:
 - Series A: 5 investments (25%) — Instagram, Flipboard, Jelly, CoinList, Mercor
 - Series B+: 2 investments (10%) — Movii (Series B and C), WHOOP (Series C)
 - Grants/donations: 2 (10%) — Nostr, andOtherStuff (partially grant)
-- Unknown: 1 (5%) — Celo
+- Token sale (pre-launch): 1 (5%) — Celo (2018)
 
 Dorsey is primarily a seed and early-stage investor, consistent with his angel investor profile.
 
@@ -104,7 +104,7 @@ Dorsey is primarily a seed and early-stage investor, consistent with his angel i
 | OCEAN | 2023 | Seed (Led) | Bitcoin Mining | [^8] |
 | SimpleX Chat | 2024 | Pre-Seed | Privacy/Messaging | [^21] |
 | Mercor | 2024 | Series A | AI/Hiring | [^22] |
-| Celo | ~2021 | Unknown | Blockchain/Payments | [^23] |
+| Celo | 2018 | Pre-launch Token Sale (angel) | Blockchain/Payments | [^23][^30] |
 | VotingWorks | 2024 | Investment | Civic Tech/Elections | [^4] |
 | andOtherStuff | 2025 | Grant ($10M) | Open-Source Social | [^24] |
 
@@ -194,3 +194,5 @@ No additional independently sourced founder testimonials were found after dedica
 [^27]: Yahoo Finance, "Jack Dorsey warns Bitcoin's survival hinges on one thing," 2025. https://finance.yahoo.com/news/jack-dorsey-warns-bitcoin-survival-111011498.html
 [^28]: A-Z Quotes, "Jack Dorsey Quotes," accessed March 2026. https://www.azquotes.com/author/4083-Jack_Dorsey
 [^29]: Fox Business, "Why Twitter's Jack Dorsey has invested in this Airbnb rival," accessed March 2026. https://www.foxbusiness.com/lifestyle/twitter-jack-dorsey-invested-airbnb-rival
+
+[^30]: ICO Drops, "Celo (CELO) — All information about Celo ICO (Token Sale)," accessed April 2026. Lists Jack Dorsey as a Tier 2 Angel Investor in Celo's Pre-launch Sale 1, which closed June 21, 2018 at $0.18/token. https://icodrops.com/celo/

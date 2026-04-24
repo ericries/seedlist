@@ -59,7 +59,7 @@ Sutskever's angel investment activity is minimal — only 3 verified investments
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Graphcore | 2017 | Series B | AI Semiconductors | [^8] |
-| Cerebras Systems | ~2018 | Unknown | AI Semiconductors | [^6] |
+| Cerebras Systems | ~2016-2018 | Angel (early, round undisclosed) | AI Semiconductors | [^6][^10][^11] |
 | Rosebud AI | 2020 | Seed | AI Creative Tools | [^6] |
 
 *This table represents Sutskever's entire publicly verified angel portfolio of 3 investments.*
@@ -93,3 +93,7 @@ No independently sourced founder testimonials found regarding Sutskever's angel 
 [^7]: "Highlights from Ilya Sutskever's November 2025 interview with Dwarkesh Patel," EA Forum, accessed March 2026. https://forum.effectivealtruism.org/posts/iuKa2iPg7vD9BdZna/highlights-from-ilya-sutskever-s-november-2025-interview
 [^8]: "Big names in machine intelligence join Graphcore's new $30 million funding round," Graphcore, July 20, 2017. https://www.graphcore.ai/posts/big-names-in-machine-intelligence-join-graphcores-new-30-million-funding-round
 [^9]: "Ilya Sutskever: The End of AI Scaling and the Rise of Safe Superintelligence," The AI Corner, accessed March 2026. https://www.the-ai-corner.com/p/ilya-sutskever-safe-superintelligence-agi-2025
+
+[^10]: Startup Intros, "Cerebras Systems: Funding, Team & Investors," accessed April 2026. Names Ilya Sutskever among the prominent individual angel investors in Cerebras alongside Sam Altman, Andy Bechtolsheim, Greg Brockman, Adam D'Angelo, and others; specific round attribution is not provided in any public source reviewed. https://startupintros.com/orgs/cerebras-systems
+
+[^11]: Andrew Feldman (CEO, Cerebras), LinkedIn post, "Cerebras Systems and OpenAI: A Full Circle Story," August 2025. States "In 2016, Sam Altman and I first met... OpenAI was a nascent research lab and Cerebras was still a PowerPoint presentation" and identifies Altman as one of Cerebras's earliest backers; Sutskever's angel stake is widely reported to have originated in the same early-investor cohort, though no primary source names the specific round. https://www.linkedin.com/posts/andrewdfeldman_in-2016-sam-altman-and-i-first-met-openai-activity-7358556113182625796-Phmk
