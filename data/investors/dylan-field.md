@@ -100,7 +100,7 @@ Based on 22 verified investments compiled from Premier Alternatives, BoringBusin
 | Perplexity AI | 2024 | Series B1 | [^17] |
 | BRINC | 2025 | Series C | [^10] |
 | PlayerZero | ~2025 | Series A | [^18] |
-~unknown| Linear | — | — | [^4] |
+| Linear | 2019-11-21 | Seed | [^19][^20] |
 ~unknown| Zed Industries | — | — | [^3] |
 ~unknown| Felt | — | — | [^3] |
 ~unknown| HeyGen | — | — | [^3] |
@@ -172,3 +172,5 @@ No independently sourced founder testimonials found about Dylan Field as an ange
 [^16]: TechCrunch, "Replicate wants to take the pain out of running and hosting ML models," February 21, 2023. https://techcrunch.com/2023/02/21/replicate-wants-to-take-the-pain-out-of-running-and-hosting-ml-models/
 [^17]: The SaaS News, "Perplexity Raises $62.7 Million in Series B1," April 2024. https://www.thesaasnews.com/news/perplexity-raises-62-7-million-in-series-b1
 [^18]: TechCrunch, "PlayerZero raises $15M to prevent AI agents from shipping buggy code," July 30, 2025. https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/
+[^19]: Linear blog, "Linear's Next Chapter: Announcing our $4.2M Seed Round" by Karri Saarinen, November 21, 2019. Lists Dylan Field (Founder and CEO, Figma) among angel investors. https://linear.app/now/linear-s-next-chapter-announcing-our-usd4-2m-seed-round
+[^20]: TechCrunch, "Linear lines up $4.2M led by Sequoia to build a better platform for software developer collaboration," November 21, 2019. Names Dylan Field (Figma) as participating angel. https://techcrunch.com/2019/11/21/linear-lines-up-4-2m-led-by-sequoia-to-build-a-better-platform-for-software-developer-collaboration/

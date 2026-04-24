@@ -92,7 +92,7 @@ Sample size caveat: 9 verified investments represents a small fraction of his se
 | Chaos Labs | 2024 | Series A | DeFi risk management | [^14] |
 | BVNK | 2024 | Series B | Stablecoin payments infra | [^15] |
 | Finisterra Labs | 2025 | Pre-seed | Decentralized data marketplace | [^13] |
-| Bitwise Asset Management | 2025 | Unknown | Crypto asset management | [^20] |
+| Bitwise Asset Management | 2025-02-25 | Strategic equity | Crypto asset management | [^20][^24] |
 | Erebor | 2026 | Series B | Banking / financial infra | [^11] |
 
 Note: Mónica self-reports 100+ total investments as an angel investor [^2]. Only 9 could be independently verified from press sources. The table likely represents under 10% of his total investment history.
@@ -166,3 +166,4 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^21]: Decrypt, "Anchorage founder Diogo Monica: Anything short of excellence is a threat to the industry," 2019. https://decrypt.co/10657/anchorage-founder-diogo-monica-anything-short-of-excellence-is-a-threat-to-the-industry
 [^22]: PRNewswire, "Chaos Labs Announces $55M Series A Funding Round Led by Haun Ventures To Scale Onchain Economic Security," August 15, 2024. https://www.prnewswire.com/news-releases/chaos-labs-announces-55m-series-a-funding-round-led-by-haun-ventures-to-scale-onchain-economic-security-302223616.html
 [^23]: Haun Ventures blog, "BVNK" by Diogo Mónica, December 17, 2024. https://www.haun.co/writing/bvnk
+[^24]: Bitwise Asset Management, "Bitwise Announces New $70M Backing From Financial Institutions and Technology Investors," February 25, 2025. Round led by Electric Capital with participation from Haun Ventures and others. https://bitwiseinvestments.com/newsroom/bitwise-announces-new-70m-backing

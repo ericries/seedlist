@@ -67,7 +67,7 @@ Based on 18 verified Maveron-era and personal investments (a subset of his claim
 | Darby Smart | ~2014 | Seed (led) | [^14] |
 | Instamotor | ~2015 | Seed (led) | [^14] |
 | Booster Fuels | 2016 | Series A (led) | [^11] |
-| inkbox | 2017 | Unknown (led) | [^14] |
+| inkbox | 2018-07-17 | Series A (led) | [^14][^19] |
 | Illumix | 2018 | Seed (led) | [^13] |
 | Modern Fertility | 2018 | Seed (led) | [^15] |
 | Wave | 2020 | Series B (led) | [^6] |
@@ -136,3 +136,4 @@ No independently sourced founder testimonials found. Wu's portfolio companies ha
 [^16]: Tracxn, "David Wu - 2025 Portfolio," accessed March 2026. https://tracxn.com/d/people/david-wu/__tt55W-M5WLU-wfh4azA0ypsVFsI9OjKeD9O94BZHqR0
 [^17]: Tracxn, "FitXR funding rounds and investors," accessed April 2026. Lists Maveron among investors in FitXR's Nov 6, 2018 Seed round of $5.5M. https://tracxn.com/d/companies/fitxr/__ZHYd2FshoMPHyLpfVJJznqsIFoHX9fo4FqAEUESx0h8/funding-and-investors
 [^18]: The AI Insider, "$5.2M Boost for LTV.ai to Advance AI-Powered Marketing Personalization," April 2, 2025. Series A co-led by Bling Capital, Protagonist, and Justin Yoshimura with OVO Fund participation. https://theaiinsider.tech/2025/04/02/5-2m-boost-for-ltv-ai-to-advance-ai-powered-marketing-personalization/
+[^19]: GlobeNewswire, "inkbox raises $13M USD Series A to help people make good tattoo decisions," July 17, 2018. Round led by Maveron with Founders Fund, Cassius, Golden Ventures, KDWC Capital, Flight Ventures, and Novel TMT. https://www.globenewswire.com/news-release/2018/07/17/1538238/0/en/inkbox-raises-13M-USD-Series-A-to-help-people-make-good-tattoo-decisions.html
