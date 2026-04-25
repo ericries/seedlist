@@ -123,6 +123,8 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | Next Insurance | Series A | 2016 | Insurtech | Acquired ($2.6B) | Sparkco [^3] |
 | Poolside | Series A | 2024 | AI | Active | TechCrunch [^4] |
 | Legora | Series D | 2026 | AI/Legal Tech | Active | TechCrunch [^8] |
+| AcuityMD | Series C | 2026 | Healthcare/MedTech AI | Active | BusinessWire [^9] |
+| Omni | Series C | 2026 | AI/Analytics | Active | BusinessWire [^10] |
 
 *This table represents a small fraction of Redpoint's 615+ portfolio companies [^3]. Years are approximate based on publicly available data.*
 
@@ -146,3 +148,5 @@ No independently sourced founder testimonials found. The firm's content platform
 [^6]: Business Wire, "Redpoint Ventures and Nasdaq Introduce New Thematic Index Focused on Cloud Infrastructure Software," July 2023. https://www.businesswire.com/news/home/20230717398339/en/Redpoint-Ventures-and-Nasdaq-Introduce-New-Thematic-Index-Focused-on-Cloud-Infrastructure-Software-and-Redpoint-Announces-InfraRed-100
 [^7]: Redpoint Ventures website, Satish Dharmaraj partner page, accessed March 2026. https://www.redpoint.com/our-people/satish-dharmaraj/
 [^8]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
+[^9]: BusinessWire, "AcuityMD Lands $80 Million in New Funding to Fuel AI Innovation in Medical Device (MedTech) Industry," April 21, 2026. https://www.businesswire.com/news/home/20260421820643/en/AcuityMD-Lands-$80-Million-in-New-Funding-to-Fuel-AI-Innovation-in-Medical-Device-MedTech-Industry
+[^10]: BusinessWire, "Omni Raises Series C at $1.5B Valuation, Building the AI Analytics Platform for the Enterprise," April 23, 2026. https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-$1.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise

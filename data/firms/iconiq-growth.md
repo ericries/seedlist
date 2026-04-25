@@ -126,6 +126,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Sierra | Series C ($175M) | 2024 | AI/Customer Experience | Active | [^25] |
 | DX | Growth | 2025 | Enterprise SaaS/DevTools | Active | [^26] |
 | Omni | Series C (lead, $1.5B valuation) | 2026 | AI / Analytics | Active | [^36] |
+| AcuityMD | Series C | 2026 | Healthcare / MedTech AI | Active | [^37] |
 | Airbnb | Growth | ~2014 | Consumer Internet | Public (2020, NASDAQ) | [^4] |
 | Alibaba | Growth | ~2014 | Consumer Internet | Public (2014, NYSE) | [^4] |
 | DocuSign | Growth | ~2015 | Enterprise SaaS | Public (2018, NASDAQ) | [^4] |
@@ -253,3 +254,5 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^35]: TechCrunch, "Security compliance and automation platform Drata nabs $200M at $2B valuation," December 2022. https://techcrunch.com/2022/12/07/security-compliance-and-automation-platform-drata-nabs-200m-at-2b-valuation/
 
 [^36]: BusinessWire, "Omni Raises Series C at $1.5B Valuation, Building the AI Analytics Platform for the Enterprise," April 23, 2026. https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-$1.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise
+
+[^37]: BusinessWire, "AcuityMD Lands $80 Million in New Funding to Fuel AI Innovation in Medical Device (MedTech) Industry," April 21, 2026. https://www.businesswire.com/news/home/20260421820643/en/AcuityMD-Lands-$80-Million-in-New-Funding-to-Fuel-AI-Innovation-in-Medical-Device-MedTech-Industry
