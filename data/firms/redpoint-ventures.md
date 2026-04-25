@@ -123,6 +123,7 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | Next Insurance | Series A | 2016 | Insurtech | Acquired ($2.6B) | Sparkco [^3] |
 | Poolside | Series A | 2024 | AI | Active | TechCrunch [^4] |
 | Legora | Series D | 2026 | AI/Legal Tech | Active | TechCrunch [^8] |
+| AcuityMD | Series A (led) | 2022 | Healthcare/MedTech AI | Active | TechCrunch [^11] |
 | AcuityMD | Series C | 2026 | Healthcare/MedTech AI | Active | BusinessWire [^9] |
 | Omni | Series C | 2026 | AI/Analytics | Active | BusinessWire [^10] |
 
@@ -150,3 +151,4 @@ No independently sourced founder testimonials found. The firm's content platform
 [^8]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
 [^9]: BusinessWire, "AcuityMD Lands $80 Million in New Funding to Fuel AI Innovation in Medical Device (MedTech) Industry," April 21, 2026. https://www.businesswire.com/news/home/20260421820643/en/AcuityMD-Lands-$80-Million-in-New-Funding-to-Fuel-AI-Innovation-in-Medical-Device-MedTech-Industry
 [^10]: BusinessWire, "Omni Raises Series C at $1.5B Valuation, Building the AI Analytics Platform for the Enterprise," April 23, 2026. https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-$1.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise
+[^11]: TechCrunch, "AcuityMD raises Series A to sell more medical hardware," May 12, 2022. https://techcrunch.com/2022/05/12/acuitymd-series-a/

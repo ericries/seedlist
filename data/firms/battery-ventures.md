@@ -109,8 +109,9 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Niantic | Growth | 2017 | Consumer | Active | [^7] |
 | Fundamental | Series A | 2026 | AI / Data Infrastructure | Active | [^11] |
 | Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |
+| Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |
 
-*This table represents approximately 27 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 28 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -144,3 +145,4 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^12]: "Nexthop AI launches with $110m funding round." DataCenterDynamics, accessed March 2026. https://www.datacenterdynamics.com/en/news/nexthop-ai-launches-with-110m-funding-round/
 [^14]: Coinbase blog, "Coinbase raises $100M Series D led by IVP," January 2017. Battery Ventures participated alongside Spark Capital, Greylock. https://www.coinbase.com/blog/coinbase-raises-100m-series-d-led-by-ivp
 [^15]: Battery Ventures portfolio page for Coinbase, "Invested 2017, Growth stage, Roger Lee," accessed March 2026. https://www.battery.com/company/coinbase/
+[^13]: AVP, "Orkes raises $60M as developers increasingly use its platform to deploy AI confidently in production," April 23, 2026. https://avpcap.com/orkes-raises-60m-as-developers-increasingly-use-its-platform-to-deploy-ai-confidently-in-production/

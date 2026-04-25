@@ -126,6 +126,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Sierra | Series C ($175M) | 2024 | AI/Customer Experience | Active | [^25] |
 | DX | Growth | 2025 | Enterprise SaaS/DevTools | Active | [^26] |
 | Omni | Series C (lead, $1.5B valuation) | 2026 | AI / Analytics | Active | [^36] |
+| AcuityMD | Series B (led) | 2024 | Healthcare / MedTech AI | Active | [^38] |
 | AcuityMD | Series C | 2026 | Healthcare / MedTech AI | Active | [^37] |
 | Airbnb | Growth | ~2014 | Consumer Internet | Public (2020, NASDAQ) | [^4] |
 | Alibaba | Growth | ~2014 | Consumer Internet | Public (2014, NYSE) | [^4] |
@@ -256,3 +257,5 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^36]: BusinessWire, "Omni Raises Series C at $1.5B Valuation, Building the AI Analytics Platform for the Enterprise," April 23, 2026. https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-$1.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise
 
 [^37]: BusinessWire, "AcuityMD Lands $80 Million in New Funding to Fuel AI Innovation in Medical Device (MedTech) Industry," April 21, 2026. https://www.businesswire.com/news/home/20260421820643/en/AcuityMD-Lands-$80-Million-in-New-Funding-to-Fuel-AI-Innovation-in-Medical-Device-MedTech-Industry
+
+[^38]: AcuityMD press release, "AcuityMD Secures $45M in Series B Funding to Expand its Commercial Intelligence Platform to Medical Technology Manufacturers," June 4, 2024. https://www.acuitymd.com/press-release/acuitymd-secures-45m-in-series-b-funding-to-expand-its-commercial-intelligence-platform-to-medical-technology-manufacturers

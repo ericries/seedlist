@@ -1,9 +1,5 @@
 priority:
-- slug: iconiq-growth
-  type: firm
-  reason: "appeared in AcuityMD Series C (2026-04-21)"
-  added: 2026-04-25
-- slug: redpoint-ventures
-  type: firm
-  reason: "appeared in AcuityMD Series C and Omni Series C (2026-04-21, 2026-04-23)"
-  added: 2026-04-25
+  - slug: battery-ventures
+    type: firm
+    reason: "appeared in Orkes Series B (2026-04-23)"
+    added: 2026-04-25
