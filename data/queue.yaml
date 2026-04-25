@@ -17086,3 +17086,113 @@ queue:
   added: '2026-03-17'
   firm: Plaid
   discovered_from: mo-koyfman
+- name: Resolute Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: led Brev pre-seed (2026-04-24)
+- name: shuckerVC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: co-investor on Brev pre-seed (2026-04-24)
+- name: Duro VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: co-investor on Brev pre-seed (2026-04-24)
+- name: FOG Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: co-investor on Brev pre-seed (2026-04-24)
+- name: Chris Pitchford
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brev
+  discovered_from: round-monitoring-2026-04-25
+  source: co-founder of Brev (pre-seed 2026-04-24)
+- name: Vic Hu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brev
+  discovered_from: round-monitoring-2026-04-25
+  source: co-founder of Brev (pre-seed 2026-04-24)
+- name: Boxcars Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: led LighthouseAI Series A (2026-04-24)
+- name: TGVP
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: co-investor on LighthouseAI Series A (2026-04-24)
+- name: Sumeet Singh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: LighthouseAI
+  discovered_from: round-monitoring-2026-04-25
+  source: founder/CEO of LighthouseAI (Series A 2026-04-24)
+- name: AVP
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: led Orkes Series B (2026-04-23)
+- name: Alex Scherbakovsky
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: AVP
+  discovered_from: round-monitoring-2026-04-25
+  source: general partner at AVP, joined Orkes board (Series B 2026-04-23)
+- name: Nexus Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: co-investor on Orkes Series B (2026-04-23)
+- name: Vertex Ventures US
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: co-investor on Orkes Series B (2026-04-23)
+- name: Jeu George
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Orkes
+  discovered_from: round-monitoring-2026-04-25
+  source: CEO of Orkes (Series B 2026-04-23)
+- name: Flagship Pioneering
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-25
+  source: led Serif Biomedicines launch funding (2026-04-21)
