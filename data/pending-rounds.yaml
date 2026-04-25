@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: India’s Snabbit seeks fresh funding at a $400M valuation, sources say
+  url: https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/
+  source: techcrunch
+  date_found: '2026-04-25'
+  parsed_company: null
+  parsed_amount: $400M
+  parsed_round: null
+  status: pending
 - title: Afresh raised $34M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1089,12 +1097,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile nava.md; DeFi guardrails for AI agents
-- title: TraqCheck raised $8M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: TraqCheck
-  parsed_amount: $8M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile traqcheck.md
