@@ -1,1 +1,25 @@
-priority: []
+priority:
+- slug: iconiq-growth
+  type: firm
+  reason: "led Omni Series C (2026-04-23)"
+  added: 2026-04-25
+- slug: first-round-capital
+  type: firm
+  reason: "appeared in Omni Series C (2026-04-23)"
+  added: 2026-04-25
+- slug: redpoint-ventures
+  type: firm
+  reason: "appeared in Omni Series C (2026-04-23)"
+  added: 2026-04-25
+- slug: gv
+  type: firm
+  reason: "appeared in Omni Series C (2026-04-23)"
+  added: 2026-04-25
+- slug: coatue-management
+  type: firm
+  reason: "appeared in Reliable Robotics late-stage (2026-04-21)"
+  added: 2026-04-25
+- slug: y-combinator
+  type: firm
+  reason: "appeared in Astor Seed (2026-04-23)"
+  added: 2026-04-25

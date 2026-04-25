@@ -230,7 +230,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $5.1M
   parsed_round: Pre-Seed
-  status: pending
+  status: processed
+  processed: '2026-04-25'
+  notes: Created series-app startup profile, added Pear VC portfolio entry
 - title: 'Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With
     Agentic AI For Utilities And Infrastructure'
   url: https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/
