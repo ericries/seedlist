@@ -48,7 +48,7 @@ Based on 13 verified Upfront Ventures investments, Nortman's actual portfolio re
 
 **Stage focus:** Nortman primarily invested at Seed and Series A, with Upfront leading Series A rounds for Fleetsmith ($7.7M), Qordoba ($5M), and Laurel ($15.2M) [^12][^13][^14]. She also led Open Raven's seed round ($4.1M) [^15].
 
-**Exit track record:** Two notable acquisitions — Endgame was acquired by Elastic for $234 million in October 2019 [^16], and Fleetsmith was acquired by Apple in June 2020 [^17]. Strive Talent was acquired by FranklinCovey for approximately $20 million in April 2021 [^18]. The Wing shut down in 2022.
+**Exit track record:** Notable acquisitions include Fleetsmith, acquired by Apple in June 2020 [^16], and Strive Talent, acquired by FranklinCovey for approximately $20 million in April 2021 [^17]. The Wing shut down in 2022.
 
 **Geographic concentration:** Investments are concentrated in Los Angeles (Open Raven, Stem, Territory Foods, Parachute Home) and San Francisco (Fleetsmith, Laurel, Strive Talent), consistent with Upfront's LA base and Bay Area reach.
 
@@ -61,17 +61,17 @@ Based on 13 verified Upfront Ventures investments, Nortman's actual portfolio re
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
 | Fleetsmith | 2018 | Series A | Device Management / Security | Acquired by Apple (2020) | [^12] |
-| Endgame | ~2017 | Undisclosed | Cybersecurity / Endpoint Protection | Acquired by Elastic ($234M, 2019) | [^16] |
+| Endgame | 2021 | Seed (led) | Product-Led Sales / B2B SaaS | Active | [^24][^25] |
 | Open Raven | 2019 | Seed | Cloud Data Security | Active | [^15] |
-| Open Raven | 2022 | Series B | Cloud Data Security | Active | [^19] |
-| Britive | 2020 | Seed | Cloud Security / Zero-Trust | Active | [^20] |
+| Open Raven | 2022 | Series B | Cloud Data Security | Active | [^18] |
+| Britive | 2020 | Seed | Cloud Security / Zero-Trust | Active | [^19] |
 | Qordoba (now Writer) | 2017 | Series A | AI Writing / Localization | Active | [^13] |
 | Laurel (fka Time by Ping) | 2019 | Series A | AI Time Tracking | Active | [^14] |
-| Parachute Home | 2015 | Series A | DTC Home Goods | Active | [^21] |
+| Parachute Home | 2015 | Series A | DTC Home Goods | Active | [^20] |
 | The Wing | ~2018 | Series C | Co-working / Community | Shut down (2022) | [^1] |
-| Stem Disintermedia | ~2019 | Growth | Music / Creator Economy | Active | [^22] |
-| Territory Foods | 2019 | Series A | Meal Delivery / Marketplace | Active | [^23] |
-| Strive Talent | ~2018 | Seed | EdTech / HR | Acquired by FranklinCovey (~$20M, 2021) | [^18] |
+| Stem Disintermedia | ~2019 | Growth | Music / Creator Economy | Active | [^21] |
+| Territory Foods | 2019 | Series A | Meal Delivery / Marketplace | Active | [^22] |
+| Strive Talent | ~2018 | Seed | EdTech / HR | Acquired by FranklinCovey (~$20M, 2021) | [^17] |
 
 This table represents Nortman's verified Upfront Ventures portfolio. It does not include her Monarch Collective sports investments or personal angel investments.
 
@@ -83,11 +83,11 @@ On the cybersecurity opportunity: "The problems and opportunities have stayed qu
 
 On the scale of the cybersecurity market: "The size of the cybersecurity market, in particular, has gotten infinitely larger as software eats the world." — Kara Nortman, TechCrunch guest column, June 2021 [^11].
 
-On knowing when to invest: "I always say I know I'm very excited about a company only when I'm driving my husband crazy. If I can't stop talking about this like, 'Did you make an investment already?'" — Kara Nortman, Upfront Summit 2019 [^24].
+On knowing when to invest: "I always say I know I'm very excited about a company only when I'm driving my husband crazy. If I can't stop talking about this like, 'Did you make an investment already?'" — Kara Nortman, Upfront Summit 2019 [^23].
 
 On women's sports as an investment thesis: Nortman has described the opportunity in women's sports as an "arbitrage on sexism," referring to lower valuations relative to growth potential [^1].
 
-On Territory Foods: "Territory has a unique approach to producing food, supporting local chefs and is positioned to distribute meals in a way the end user wants it." — Kara Nortman, TechCrunch, April 2019 [^23].
+On Territory Foods: "Territory has a unique approach to producing food, supporting local chefs and is positioned to distribute meals in a way the end user wants it." — Kara Nortman, TechCrunch, April 2019 [^22].
 
 ## What Founders Say
 
@@ -96,9 +96,9 @@ No independently sourced founder testimonials found. Nortman's portfolio founder
 ## Connections
 
 - **Board member, Qordoba/Writer** — alongside Jim Andelman of Rincon Venture Partners [^13]
-- **Board member, Britive** — joined board in conjunction with seed investment [^20]
-- **Board member, Territory Foods** [^23]
-- **Board member, Stem Disintermedia** [^22]
+- **Board member, Britive** — joined board in conjunction with seed investment [^19]
+- **Board member, Territory Foods** [^22]
+- **Board member, Stem Disintermedia** [^21]
 - **Co-founder, All Raise** (2017-present) — nonprofit for women in VC [^7]
 - **Co-founder, Angel City FC** (2020) — alongside Julie Uhrman, Natalie Portman, Alexis Ohanian [^9]
 - **Co-founder and Managing Partner, Monarch Collective** (2023-present) — alongside Jasmine Robinson [^10]
@@ -124,12 +124,13 @@ No independently sourced founder testimonials found. Nortman's portfolio founder
 [^13]: Talent4Boards, "Qordoba announces Kara Nortman and Jim Andelman to Board along with raising $5m Series A funding led by Upfront Ventures and Rincon Venture Partners," 2017. https://talent4boards.com/qordoba-announces-kara-nortman-jim-andelman-board-along-raising-5m-series-funding-led-upfront-ventures-rincon-venture-partners/
 [^14]: Laurel, "Laurel Raises $36.5M Series B To Return Time To The World," accessed March 2026. https://www.laurel.ai/resources-post/laurel-raises-36-5m-series-b-to-return-time-to-the-world
 [^15]: TechCrunch, "Los Angeles-based Open Raven raises $15 million from KPCB for its security tech to secure hybrid clouds," June 16, 2020. https://techcrunch.com/2020/06/16/los-angeles-based-open-raven-raises-15-million-from-kpcb-for-its-security-tech-to-secure-hybrid-clouds/
-[^16]: Elastic, "Elastic Completes the Acquisition of Endgame, a Leader in Endpoint Protection," October 8, 2019. https://www.elastic.co/about/press/elastic-completes-the-acquisition-of-endgame-a-leader-in-endpoint-protection
-[^17]: TechCrunch, "Apple has acquired Fleetsmith, a startup that helps IT manage Apple devices remotely," June 24, 2020. https://techcrunch.com/2020/06/24/apple-has-acquired-fleetsmith-a-startup-that-helps-it-manage-apple-devices-remotely/
-[^18]: Crunchbase News, "Exclusive: FranklinCovey Buys Management Training Platform Strive For $20M," 2021. https://news.crunchbase.com/ma/exclusive-franklincovey-buys-management-training-platform-strive-for-20m/
-[^19]: Business Wire, "Open Raven Raises $20M in Series B from Pelion Ventures, Kleiner Perkins, and Upfront Ventures," September 8, 2022. https://www.businesswire.com/news/home/20220908005314/en/Open-Raven-Raises-$20M-in-Series-B-from-Pelion-Ventures-Kleiner-Perkins-and-Upfront-Ventures
-[^20]: PR Newswire, "Britive raises $5.4m to reinvent security for multi-cloud enterprise environments," 2020. https://www.prnewswire.com/news-releases/britive-raises-5-4m-to-reinvent-security-for-multi-cloud-enterprise-environments-301127587.html
-[^21]: Tracxn, "Parachute Home — Funding and Investors," accessed March 2026. https://tracxn.com/d/companies/parachute-home/__D3NQ6W8EJpnwUhtFfXsQwCN-1sX_QWZTSvgfyMBLoFU/funding-and-investors
-[^22]: dot.LA, "Stem Music Rights Management Software Raises $10 Million," 2020. https://dot.la/stem-help-musicians-get-paid-2647089338.html
-[^23]: TechCrunch, "With a new CEO and fresh funding from Upfront, healthy prepared food delivery service Territory looks to grow," April 12, 2019. https://techcrunch.com/2019/04/12/with-a-new-ceo-and-fresh-funding-from-upfront-healthy-prepared-food-delivery-service-territory-looks-to-grow/
-[^24]: Sonix, "FULL TRANSCRIPT: David Sacks Interview with Kara Nortman, Upfront Summit 2019," accessed March 2026. https://sonix.ai/resources/full-transcript-david-sacks-interview-with-kara-nortman-upfront-summit-2019/
+[^16]: TechCrunch, "Apple has acquired Fleetsmith, a startup that helps IT manage Apple devices remotely," June 24, 2020. https://techcrunch.com/2020/06/24/apple-has-acquired-fleetsmith-a-startup-that-helps-it-manage-apple-devices-remotely/
+[^17]: Crunchbase News, "Exclusive: FranklinCovey Buys Management Training Platform Strive For $20M," 2021. https://news.crunchbase.com/ma/exclusive-franklincovey-buys-management-training-platform-strive-for-20m/
+[^18]: Business Wire, "Open Raven Raises $20M in Series B from Pelion Ventures, Kleiner Perkins, and Upfront Ventures," September 8, 2022. https://www.businesswire.com/news/home/20220908005314/en/Open-Raven-Raises-$20M-in-Series-B-from-Pelion-Ventures-Kleiner-Perkins-and-Upfront-Ventures
+[^19]: PR Newswire, "Britive raises $5.4m to reinvent security for multi-cloud enterprise environments," 2020. https://www.prnewswire.com/news-releases/britive-raises-5-4m-to-reinvent-security-for-multi-cloud-enterprise-environments-301127587.html
+[^20]: Tracxn, "Parachute Home — Funding and Investors," accessed March 2026. https://tracxn.com/d/companies/parachute-home/__D3NQ6W8EJpnwUhtFfXsQwCN-1sX_QWZTSvgfyMBLoFU/funding-and-investors
+[^21]: dot.LA, "Stem Music Rights Management Software Raises $10 Million," 2020. https://dot.la/stem-help-musicians-get-paid-2647089338.html
+[^22]: TechCrunch, "With a new CEO and fresh funding from Upfront, healthy prepared food delivery service Territory looks to grow," April 12, 2019. https://techcrunch.com/2019/04/12/with-a-new-ceo-and-fresh-funding-from-upfront-healthy-prepared-food-delivery-service-territory-looks-to-grow/
+[^23]: Sonix, "FULL TRANSCRIPT: David Sacks Interview with Kara Nortman, Upfront Summit 2019," accessed March 2026. https://sonix.ai/resources/full-transcript-david-sacks-interview-with-kara-nortman-upfront-summit-2019/
+[^24]: TechCrunch, "Product-led sales startup Endgame raises over $17M," July 13, 2021. https://techcrunch.com/2021/07/13/product-led-sales-startup-endgame-raises-over-17m/
+[^25]: GlobeNewswire, "Endgame raises over $17M from back-to-back funding rounds to power product-led sales," July 13, 2021. https://www.globenewswire.com/news-release/2021/07/13/2261864/0/en/Endgame-raises-over-17M-from-back-to-back-funding-rounds-to-power-product-led-sales.html

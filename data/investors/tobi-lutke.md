@@ -96,7 +96,7 @@ This table includes 14 verified investments. Sources indicate Lutke has made 22-
 |---------|-------|------|--------|--------|--------|
 | Manifold Labs | Series A | 2025 | AI infrastructure | Active | [^3] |
 | Sundial | Series A | 2025 | AI analytics | Active | [^9] |
-| Polar | Undisclosed | 2025 | Fintech | Active | [^3] |
+| Polar | Seed | 2025 | Fintech | Active | [^3][^11][^12] |
 | Granola | Series B | 2025 | AI productivity | Active | [^8] |
 | Neo Financial | Series D | 2024 | Fintech | Active | [^4] |
 | Butler | Seed | 2024 | Security / enterprise | Active | [^3] |
@@ -136,3 +136,5 @@ No independently sourced founder testimonials found for Lutke's angel investing 
 [^8]: The SaaS News, "Granola Raises $43 Million in Series B," May 2025. https://www.thesaasnews.com/news/granola-raises-43-million-in-series-b
 [^9]: The SaaS News, "Sundial Raises $23 Million in Series A," July 2025. https://www.thesaasnews.com/news/sundial-raises-23-million-in-series-a
 [^10]: GlobeNewsWire, "Socket secures $40M to combat next-generation software supply chain security attacks," October 2024. https://www.globenewswire.com/news-release/2024/10/22/2967115/0/en/Socket-secures-40M-to-combat-next-generation-software-supply-chain-security-attacks-led-by-industry-titans-Abstract-Ventures-Elad-Gil-and-a16z.html
+[^11]: Polar blog, "Announcing our $10M Seed Round," June 17, 2025. https://polar.sh/blog/polar-seed-announcement
+[^12]: Accel, "Our Investment in Polar: The Future of Global Payments for AI-Native Developers," June 18, 2025. https://www.accel.com/noteworthies/our-investment-in-polar-the-future-of-global-payments-for-ai-native-developers
