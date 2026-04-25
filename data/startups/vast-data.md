@@ -1,22 +1,33 @@
 ---
-name: "VAST Data"
-slug: vast-data
-type: startup
-website: "https://www.vastdata.com/"
-location: "New York, NY"
-founded: 2016
-status_company: active
-sector: [ai, infrastructure, data, enterprise-software, storage]
-stage_latest: "Series F"
-total_raised: "$881M"
 firms:
-  - slug: nea
-    round: series-f
-    year: 2026
-    date: 2026-04-22
-investors: []
-status: published
+- date: 2026-04-22
+  round: series-f
+  slug: nea
+  year: 2026
+- round: Series E
+  slug: bond
+  year: 2023
+founded: 2016
+investors:
+- round: Series E
+  slug: mary-meeker
+  year: 2023
 last_researched: 2026-04-22
+location: New York, NY
+name: VAST Data
+sector:
+- ai
+- infrastructure
+- data
+- enterprise-software
+- storage
+slug: vast-data
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $881M
+type: startup
+website: https://www.vastdata.com/
 ---
 
 ## About

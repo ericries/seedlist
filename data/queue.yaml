@@ -9988,7 +9988,7 @@ queue:
 - name: Mo Koyfman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shine Capital
   discovered_from: ethan-daly
@@ -10047,7 +10047,7 @@ queue:
 - name: Michael Dempsey
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Compound Ventures
   discovered_from: sarah-catanzaro
@@ -16893,3 +16893,196 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: atlas-card
+- name: David Hirsch
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: michael-dempsey
+- name: Shelby Newsad
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: michael-dempsey
+- name: 0xSmac
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: michael-dempsey
+- name: Drew Gray
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: michael-dempsey
+- name: John Palmer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: michael-dempsey
+- name: Wayve
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dempsey
+- name: Plural Energy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dempsey
+- name: Bionaut Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dempsey
+- name: Fort Robotics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dempsey
+- name: Fly Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dempsey
+- name: Necessary Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-dempsey
+- name: Zavain Dar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lux Capital
+  discovered_from: michael-dempsey
+- name: Alex Hartz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shine Capital
+  discovered_from: mo-koyfman
+- name: Amanda Niu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shine Capital
+  discovered_from: mo-koyfman
+- name: Elie Seidman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Shine Capital
+  discovered_from: mo-koyfman
+- name: Josh Mohrer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shine Capital
+  discovered_from: mo-koyfman
+- name: Tropic
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: iVerify
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Goldsky
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Meow
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Bliss Aesthetics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Orchard Robotics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Reggora
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Two
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Founder Collective
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Box Group
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: Dragonfly Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mo-koyfman
+- name: David Campbell
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tropic
+  discovered_from: mo-koyfman
+- name: Zach Perret
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Plaid
+  discovered_from: mo-koyfman
+- name: William Hockey
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Plaid
+  discovered_from: mo-koyfman

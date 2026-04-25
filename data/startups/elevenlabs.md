@@ -102,6 +102,9 @@ firms:
 - round: Series A
   slug: vercel
   year: 2023
+- round: Early (Seed/Series A)
+  slug: quiet-capital
+  year: 2023
 founded: 2022
 founders:
 - name: Mati Staniszewski
@@ -142,6 +145,9 @@ investors:
 - round: Series C (lead)
   slug: divesh-makan
   year: 2024
+- round: Early (Seed/Series A)
+  slug: lee-linden
+  year: 2023
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

@@ -1,18 +1,44 @@
 ---
-name: "Mosaic"
-slug: mosaic-deals
-type: startup
-website: "https://www.mosaic.io/"
-location: "New York, NY"
+firms:
+- round: Angel
+  slug: independent
+  year: 2013
+- round: Early
+  slug: obvious-ventures
+  year: 2014
+- round: Growth
+  slug: general-catalyst
+  year: 2020
 founded: 2020
-status_company: active
-sector: [fintech, private-markets, ai, deal-modeling, saas]
-stage_latest: "Series A"
-total_raised: "$18.1M"
-firms: []
-investors: []
-status: published
+investors:
+- round: Angel
+  slug: erik-blachford
+  year: 2013
+- round: Early
+  slug: andrew-beebe
+  year: 2014
+- round: Growth
+  slug: trevor-oelschig
+  year: 2020
+- round: Early
+  slug: james-joaquin
+  year: 2015
 last_researched: 2026-04-22
+location: New York, NY
+name: Mosaic
+sector:
+- fintech
+- private-markets
+- ai
+- deal-modeling
+- saas
+slug: mosaic-deals
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $18.1M
+type: startup
+website: https://www.mosaic.io/
 ---
 
 ## About

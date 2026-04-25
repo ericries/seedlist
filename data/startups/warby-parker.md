@@ -54,6 +54,9 @@ firms:
 - round: Seed
   slug: boxgroup
   year: 2011
+- round: Series A (Spark-era)
+  slug: shine-capital
+  year: 2011
 founded: 2010
 founders:
 - name: Neil Blumenthal
@@ -116,6 +119,9 @@ investors:
 - round: Seed
   slug: adam-rothenberg
   year: 2010
+- round: Series A (Spark-era)
+  slug: mo-koyfman
+  year: 2011
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker

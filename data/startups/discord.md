@@ -77,6 +77,9 @@ investors:
 - round: Series I (lead, $500M)
   slug: marc-stad
   year: 2021
+- round: '2020-12-17'
+  slug: talia-goldberg
+  year: 2020
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Discord

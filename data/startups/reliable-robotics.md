@@ -1,22 +1,30 @@
 ---
-name: "Reliable Robotics"
-slug: reliable-robotics
-type: startup
-website: "https://reliable.co"
-location: "Mountain View, CA"
-founded: 2017
-status_company: active
-sector: [aerospace, autonomous-vehicles, robotics, defense, deeptech]
-stage_latest: "Late Stage"
-total_raised: "$160M+"
 firms:
-  - slug: coatue-management
-    round: late-stage
-    year: 2026
-    date: 2026-04-21
-investors: []
-status: published
+- date: 2026-04-21
+  round: late-stage
+  slug: coatue-management
+  year: 2026
+founded: 2017
+investors:
+- round: Series C (Led, $100M)
+  slug: jaimin-rangwalla
+  year: 2021
 last_researched: 2026-04-25
+location: Mountain View, CA
+name: Reliable Robotics
+sector:
+- aerospace
+- autonomous-vehicles
+- robotics
+- defense
+- deeptech
+slug: reliable-robotics
+stage_latest: Late Stage
+status: published
+status_company: active
+total_raised: $160M+
+type: startup
+website: https://reliable.co
 ---
 
 ## About

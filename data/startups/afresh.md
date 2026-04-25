@@ -1,24 +1,45 @@
 ---
-name: "Afresh"
-slug: afresh
-type: startup
-website: "https://www.afresh.com"
-location: "San Francisco, California"
-founded: 2017
-status_company: active
-sector: [ai, retail-tech, grocery, supply-chain, food-waste, climate-tech]
-stage_latest: "Growth"
-total_raised: "$182M+"
 firms:
-  - slug: insight-partners
-    round: series-b
-    year: 2022
-  - slug: spark-capital
-    round: series-b
-    year: 2022
-investors: []
-status: published
+- round: series-b
+  slug: insight-partners
+  year: 2022
+- round: series-b
+  slug: spark-capital
+  year: 2022
+- round: Seed (lead)
+  slug: innovation-endeavors
+  year: 2019
+- round: Sweat Equity
+  slug: the-general-partnership
+  year: 2022
+founded: 2017
+investors:
+- round: Seed (lead)
+  slug: dror-berman
+  year: 2019
+- round: Series A
+  slug: eric-schmidt
+  year: 2020
+- round: Sweat Equity
+  slug: dan-portillo
+  year: 2022
 last_researched: 2026-04-24
+location: San Francisco, California
+name: Afresh
+sector:
+- ai
+- retail-tech
+- grocery
+- supply-chain
+- food-waste
+- climate-tech
+slug: afresh
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $182M+
+type: startup
+website: https://www.afresh.com
 ---
 
 ## About

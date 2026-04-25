@@ -1,18 +1,28 @@
 ---
-name: "Realm"
-slug: realm
-type: startup
-website: "https://www.withrealm.com/"
-location: "Helsinki, Finland"
+firms:
+- round: Seed
+  slug: transition-vc
+  year: 2017
 founded: 2023
-status_company: active
-sector: [ai, enterprise-software, sales-tech, saas]
-stage_latest: "Seed"
-total_raised: "~$6.2M"
-firms: []
-investors: []
-status: published
+investors:
+- round: Seed
+  slug: david-helgason
+  year: 2017
 last_researched: 2026-04-22
+location: Helsinki, Finland
+name: Realm
+sector:
+- ai
+- enterprise-software
+- sales-tech
+- saas
+slug: realm
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: ~$6.2M
+type: startup
+website: https://www.withrealm.com/
 ---
 
 ## About

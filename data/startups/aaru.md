@@ -1,22 +1,33 @@
 ---
-name: "Aaru"
-slug: aaru
-type: startup
-website: "https://aaru.com/"
-location: "New York, NY"
-founded: 2024
-status_company: active
-sector: [ai, research, simulation, consumer-insights, political-tech]
-stage_latest: "Series A"
-total_raised: "$88M"
 firms:
-  - slug: redpoint-ventures
-    round: series-a
-    year: 2026
-    date: 2026-04-23
-investors: []
-status: published
+- date: 2026-04-23
+  round: series-a
+  slug: redpoint-ventures
+  year: 2026
+- round: '2024'
+  slug: a-star-capital
+  year: 2024
+founded: 2024
+investors:
+- round: '2024'
+  slug: bennett-siegel
+  year: 2024
 last_researched: 2026-04-23
+location: New York, NY
+name: Aaru
+sector:
+- ai
+- research
+- simulation
+- consumer-insights
+- political-tech
+slug: aaru
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $88M
+type: startup
+website: https://aaru.com/
 ---
 
 ## About

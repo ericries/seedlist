@@ -1,34 +1,42 @@
 ---
-name: "Antioch"
-slug: antioch
-type: startup
-website: "https://antioch.ai"
-location: "New York, NY"
-founded: 2025
-status_company: active
-sector: [robotics, simulation, physical-ai, ai, developer-tools]
-stage_latest: "Seed"
-total_raised: "$8.5M"
 firms:
-  - slug: a-star-capital
-    round: seed
-    year: 2026
-    date: 2026-04-16
-  - slug: mac-venture-capital
-    round: seed
-    year: 2026
-    date: 2026-04-16
-  - slug: abstract-ventures
-    round: seed
-    year: 2026
-    date: 2026-04-16
-  - slug: boxgroup
-    round: seed
-    year: 2026
-    date: 2026-04-16
-investors: []
-status: published
+- date: 2026-04-16
+  round: seed
+  slug: a-star-capital
+  year: 2026
+- date: 2026-04-16
+  round: seed
+  slug: mac-venture-capital
+  year: 2026
+- date: 2026-04-16
+  round: seed
+  slug: abstract-ventures
+  year: 2026
+- date: 2026-04-16
+  round: seed
+  slug: boxgroup
+  year: 2026
+founded: 2025
+investors:
+- round: Seed
+  slug: adrian-fenty
+  year: 2022
 last_researched: 2026-04-21
+location: New York, NY
+name: Antioch
+sector:
+- robotics
+- simulation
+- physical-ai
+- ai
+- developer-tools
+slug: antioch
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $8.5M
+type: startup
+website: https://antioch.ai
 ---
 
 ## About

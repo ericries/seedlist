@@ -1,20 +1,26 @@
 ---
-name: Origin
-slug: origin
-type: startup
-website: https://www.useorigin.com
+firms:
+- round: Early
+  slug: abstract-ventures
+  year: 2023
+founders: []
+investors:
+- round: Early
+  slug: alex-davidov
+  year: 2023
+last_researched: 2026-03-30
 location: San Francisco, CA
-status_company: active
+name: Origin
 sector:
 - ai
 - enterprise
 - hr-tech
+slug: origin
 stage_latest: Series A+
-investors: []
-firms: []
-founders: []
-last_researched: 2026-03-30
 status: published
+status_company: active
+type: startup
+website: https://www.useorigin.com
 ---
 
 ## About

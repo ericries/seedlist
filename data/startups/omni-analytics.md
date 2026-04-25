@@ -1,34 +1,45 @@
 ---
-name: "Omni"
-slug: omni-analytics
-type: startup
-website: "https://omni.co"
-location: "San Francisco, CA"
-founded: 2022
-status_company: active
-sector: [ai, analytics, business-intelligence, enterprise, saas]
-stage_latest: "Series C"
-total_raised: "$120M"
 firms:
-  - slug: iconiq-growth
-    round: series-c
-    year: 2026
-    date: 2026-04-23
-  - slug: first-round-capital
-    round: series-c
-    year: 2026
-    date: 2026-04-23
-  - slug: redpoint-ventures
-    round: series-c
-    year: 2026
-    date: 2026-04-23
-  - slug: gv
-    round: series-c
-    year: 2026
-    date: 2026-04-23
-investors: []
-status: published
+- date: 2026-04-23
+  round: series-c
+  slug: iconiq-growth
+  year: 2026
+- date: 2026-04-23
+  round: series-c
+  slug: first-round-capital
+  year: 2026
+- date: 2026-04-23
+  round: series-c
+  slug: redpoint-ventures
+  year: 2026
+- date: 2026-04-23
+  round: series-c
+  slug: gv
+  year: 2026
+- round: ~2016
+  slug: independent
+  year: 2016
+founded: 2022
+investors:
+- round: ~2016
+  slug: sam-shank
+  year: 2016
 last_researched: 2026-04-25
+location: San Francisco, CA
+name: Omni
+sector:
+- ai
+- analytics
+- business-intelligence
+- enterprise
+- saas
+slug: omni-analytics
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $120M
+type: startup
+website: https://omni.co
 ---
 
 ## About

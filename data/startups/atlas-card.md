@@ -1,28 +1,37 @@
 ---
-name: Atlas Card
-slug: atlas-card
-type: startup
-website: https://www.atlasfin.com
-location: New York, New York
+firms:
+- round: Series C (co-led)
+  slug: gil-capital
+  year: 2026
+- round: '2024'
+  slug: marathon-management-partners
+  year: 2024
 founded: 2019
-status_company: active
+founders:
+- name: Adam Moelis
+  role: CEO & Founder
+investors:
+- date: 2026-04-14
+  round: series-c
+  slug: elad-gil
+  year: 2026
+- round: '2024'
+  slug: gokul-rajaram
+  year: 2024
+last_researched: 2026-04-20
+location: New York, New York
+name: Atlas Card
 sector:
 - fintech
 - consumer
 - luxury
+slug: atlas-card
 stage_latest: Series C
-total_raised: "$67M"
-firms: []
-investors:
-- slug: elad-gil
-  round: series-c
-  year: 2026
-  date: 2026-04-14
-founders:
-- name: Adam Moelis
-  role: CEO & Founder
 status: published
-last_researched: 2026-04-20
+status_company: active
+total_raised: $67M
+type: startup
+website: https://www.atlasfin.com
 ---
 
 ## About

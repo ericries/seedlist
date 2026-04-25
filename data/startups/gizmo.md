@@ -30,6 +30,9 @@ investors:
 - round: Series A
   slug: ethan-daly
   year: 2026
+- round: Series A (Shine led)
+  slug: mo-koyfman
+  year: 2026
 last_researched: 2026-04-15
 location: London, United Kingdom
 name: Gizmo

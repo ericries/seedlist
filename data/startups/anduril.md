@@ -150,6 +150,9 @@ firms:
 - round: Seed
   slug: gpx
   year: 2017
+- round: Series D
+  slug: contrary
+  year: 2021
 founded: 2017
 founders:
 - name: Palmer Luckey
@@ -232,6 +235,9 @@ investors:
 - round: Seed
   slug: hemant-taneja
   year: 2019
+- round: Series D
+  slug: eric-tarczynski
+  year: 2021
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries
