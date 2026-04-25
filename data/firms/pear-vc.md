@@ -76,12 +76,12 @@ The firm has raised four funds [^5]:
 
 | Fund | Year | Size |
 |------|------|------|
-| Fund I | 2013 | Undisclosed |
-| Fund II | ~2017 | Undisclosed |
-| Fund III | ~2020 | Undisclosed |
-| Fund IV | 2023 | $432M |
+| Fund I (Pejman Mar I) | 2014 | $40M [^27] |
+| Fund II | 2016 | $75M [^28] |
+| Fund III | 2019 | $160M [^29] |
+| Fund IV | 2023 | $432M [^5] |
 
-Fund IV, closed in May 2023, was one of the largest seed funds raised in recent years by a non-multistage firm [^5]. The fund includes a PearX for AI track, a program tailored for AI builders [^5].
+Fund I was raised under the firm's original name "Pejman Mar Ventures" and reported as "quickly oversubscribed" past its $20M target [^27]. Fund II accompanied the rebrand to "Pear" in August 2016 [^28]. Fund III was announced in December 2019 [^29]. Fund IV, closed in May 2023, was one of the largest seed funds raised in recent years by a non-multistage firm [^5]. The fund includes a PearX for AI track, a program tailored for AI builders [^5].
 
 Pear operates several signature programs: PearX (early-stage accelerator), Dorm (supporting student builders), Female Founders Circles, Persian Founders Circles, and an AI Researcher Grant [^3].
 
@@ -194,3 +194,6 @@ William Ross, CEO of Federato, has stated: "The extended Pear team has always be
 [^24]: PR Newswire, "Counsel Health Launches with $11M in Seed Funding," October 2024, accessed April 2026. https://www.prnewswire.com/news-releases/counsel-health-launches-with-11m-in-seed-funding-to-deliver-physician-led-ai-powered-medical-advice-302280740.html
 [^25]: Axios, "Exclusive: Dealops raises $7M for dynamic pricing tech," August 12, 2025, accessed April 2026. https://www.axios.com/pro/fintech-deals/2025/08/12/dealops-7m-dynamic-pricing-tech
 [^26]: TechCrunch, "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage," April 24, 2026. https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/
+[^27]: Fortune, "Veteran angel raises new $40 million venture fund," April 3, 2014. https://fortune.com/2014/04/03/veteran-angel-raises-new-40-million-venture-fund/
+[^28]: TechCrunch, "Pejman Mar rebrands as it unveils a $75 million new fund," August 16, 2016. https://techcrunch.com/2016/08/16/pejman-mar-rebrands-as-it-unveils-a-75-million-new-fund/
+[^29]: Pear VC blog (Medium), "We raised $160M to partner with founders at ground zero," December 10, 2019. https://medium.com/@pearvc/we-raised-160m-to-partner-with-founders-at-ground-zero-3de0ab3054fd
