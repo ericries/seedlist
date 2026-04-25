@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "angela-tran",
@@ -8118,6 +8118,11 @@
           "slug": "matt-clifford",
           "name": "Matt Clifford",
           "firm": "entrepreneurs-first"
+        },
+        {
+          "slug": "michael-dempsey",
+          "name": "Michael Dempsey",
+          "firm": "compound-ventures"
         }
       ]
     },
@@ -8699,7 +8704,7 @@
       "name": "The First Check Club",
       "tagline": "They wrote the seed check that started a unicorn \u2014 and did it more than once. The rarest skill in venture: picking winners before anyone else sees them.",
       "type": "curated",
-      "size": 13,
+      "size": 14,
       "members": [
         {
           "slug": "bill-trenchard",
@@ -8765,6 +8770,11 @@
           "slug": "scott-belsky",
           "name": "Scott Belsky",
           "firm": "a24"
+        },
+        {
+          "slug": "mo-koyfman",
+          "name": "Mo Koyfman",
+          "firm": "shine-capital"
         }
       ]
     },
@@ -11411,6 +11421,65 @@
           "slug": "shravan-reddy",
           "name": "Shravan Reddy",
           "firm": "pear-vc"
+        }
+      ]
+    },
+    {
+      "id": "curated-47",
+      "name": "The Essayists",
+      "tagline": "Their portfolios speak for themselves \u2014 but founders read their writing before pitching.",
+      "type": "curated",
+      "size": 10,
+      "members": [
+        {
+          "slug": "paul-graham",
+          "name": "Paul Graham",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "marc-andreessen",
+          "name": "Marc Andreessen",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "ben-horowitz",
+          "name": "Ben Horowitz",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "fred-wilson",
+          "name": "Fred Wilson",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "andrew-chen",
+          "name": "Andrew Chen",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "hunter-walk",
+          "name": "Hunter Walk",
+          "firm": "homebrew"
+        },
+        {
+          "slug": "sarah-tavel",
+          "name": "Sarah Tavel",
+          "firm": "benchmark"
+        },
+        {
+          "slug": "jerry-chen",
+          "name": "Jerry Chen",
+          "firm": "greylock-partners"
+        },
+        {
+          "slug": "balaji-srinivasan",
+          "name": "Balaji Srinivasan",
+          "firm": "independent"
+        },
+        {
+          "slug": "michael-dempsey",
+          "name": "Michael Dempsey",
+          "firm": "compound-ventures"
         }
       ]
     }
