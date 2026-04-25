@@ -122,6 +122,7 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 | MoldCo | Early | 2025 | Health | [^20] |
 | Highlight | Early | ~2023 | AI | [^17] |
 | Tagomi (acquired by Coinbase) | Early | ~2018 | Money | [^17] |
+| Era | Seed | 2026 | AI / Consumer Hardware | [^24] |
 
 *Note: This table represents approximately 44 of 300+ total investments. Many investments, particularly from earlier funds and the Shared Future Fund's 130+ climate companies, are not individually listed here due to limited public sourcing on exact investment dates. Years marked with "~" are approximate, based on company founding dates or estimated investment timing.*
 
@@ -176,3 +177,4 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 [^21]: Chris Dowd LinkedIn, Neverware founder testimonial about Collaborative Fund, accessed April 2026. https://www.linkedin.com/in/chris-dowd-0100849b/
 [^22]: Tracxn, "Whoop Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/whoop/__mG8pDMm_crUH9HckmN4Kw7ZEHu-NiVNU_cywdWMo-aA/funding-and-investors
 [^23]: Business Wire, "Geothermal Startup, Dandelion, Raises $2 Million Seed Round, Led by Collaborative Fund," July 2017, accessed April 2026. https://www.businesswire.com/news/home/20170706005986/en/Geothermal-Startup-Dandelion-Raises-2-Million-Seed-Round-Led-by-Collaborative-Fund
+[^24]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/

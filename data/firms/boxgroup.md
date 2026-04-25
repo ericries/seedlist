@@ -147,6 +147,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Secureframe | Seed | ~2020 | Security/Compliance | Active [^3] |
 | Capchase | Seed | ~2020 | Fintech | Active [^7] |
 | Pomelo Care | Seed | ~2021 | Healthcare | Active [^3] |
+| Era | Seed | 2026 | AI / Consumer Hardware | Active [^18] |
 
 ## In Their Own Words
 
@@ -215,3 +216,4 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^15]: TechCrunch, "Amplitude, The Analytics Startup Undercutting Mixpanel, Raises $2 Million Seed Round," July 11, 2014, accessed March 2026. https://techcrunch.com/2014/07/11/amplitude-the-analytics-startup-undercutting-mixpanel-raises-2-million-seed-round/
 [^16]: Under30CEO, "Investability of a Startup: Interview with BoxGroup's David Tisch," accessed March 2026. https://www.under30ceo.com/investability-of-a-startup-interview-with-boxgroups-david-tisch/
 [^17]: TechCrunch, "Disrupt Alum Trello Takes In $10.3M For Its Visual To-Do Lists," July 24, 2014. https://techcrunch.com/2014/07/24/trello-series-a/
+[^18]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/

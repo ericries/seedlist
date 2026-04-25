@@ -114,6 +114,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Natural | Seed | 2025 | AI | Active [^5] |
 | Telepatia | Seed | 2025 | Healthcare/AI | Active [^5] |
 | Coworker AI | Seed | 2025 | AI | Active [^15] |
+| Era | Seed | 2026 | AI / Consumer Hardware | Active [^16] |
 
 Note: Many investment years are approximate, marked with "~", based on company founding years or first known funding rounds. This table represents approximately 7% of Abstract's 500+ total investments. Tracxn reports 192 companies tracked with 83 seed-stage investments averaging $5.52M round sizes [^5].
 
@@ -158,3 +159,4 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^13]: Founders Wiki, "Who is Ramtin Naimi," accessed March 2026. https://traderhub.org/founders/ramtin-naimi/
 [^14]: Venture Capital Archive, "Abstract Ventures," accessed March 2026. https://venturecapitalarchive.com/venture-funds/abstract-ventures-abstract-vc
 [^15]: Existing Seedlist profiles for Ramtin Naimi and Alex Davidov, referencing recent investments. Accessed March 2026.
+[^16]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/

@@ -78,6 +78,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | Assort Health | Follow-on | 2025 | Healthcare AI | [^4] |
 | Serval | Series A | 2025 | AI | [^4] |
 | Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
+| ComfyUI | Series A | 2026 | AI / Generative Media | [^12] |
 
 Note: This table represents Chemistry's investments since its October 2024 launch. The partners' extensive pre-Chemistry portfolios at Bessemer, a16z, and Index (including PagerDuty, Intercom, Plaid, Persona, Twitch, LaunchDarkly, ServiceTitan, and others) are attributed to their prior firms.
 
@@ -114,3 +115,4 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^9]: Crunchbase News, "Alums From Bessemer, A16z And Index Launch New Firm With $350M For Seed And Series A Startups," accessed March 2026. https://news.crunchbase.com/venture/bessemer-a16z-index-alums-launch-early-stage-funding-firm-chemistry/
 [^10]: Chemistry blog, "Staying ahead of the curve: Our Series A in Datacurve," accessed March 2026. https://www.chemistry.vc/post/staying-ahead-of-the-curve
 [^11]: Decagon blog, "Decagon's $250 million commitment to the AI concierge future," January 28, 2026, accessed March 2026. https://decagon.ai/resources/series-d-announcement
+[^12]: TechCrunch, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media," April 24, 2026. https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/

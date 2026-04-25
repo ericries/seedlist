@@ -1,1 +1,25 @@
-priority: []
+priority:
+- slug: pear-vc
+  type: firm
+  reason: "appeared in Series Pre-Seed (2026-04-24)"
+  added: 2026-04-25
+- slug: abstract-ventures
+  type: firm
+  reason: "appeared in Era Computer Seed (2026-04-23)"
+  added: 2026-04-25
+- slug: boxgroup
+  type: firm
+  reason: "appeared in Era Computer Seed (2026-04-23)"
+  added: 2026-04-25
+- slug: collaborative-fund
+  type: firm
+  reason: "appeared in Era Computer Seed (2026-04-23)"
+  added: 2026-04-25
+- slug: craft-ventures
+  type: firm
+  reason: "led ComfyUI Series A (2026-04-24)"
+  added: 2026-04-25
+- slug: chemistry-vc
+  type: firm
+  reason: "appeared in ComfyUI Series A (2026-04-24)"
+  added: 2026-04-25

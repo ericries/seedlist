@@ -137,6 +137,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Upwind Security | Series B | 2024 | Enterprise/Security | Active [^7] |
 | Unframe AI | Series A | 2025 | Enterprise/AI | Active [^7] |
 | Oasis Security | Series B (led) | 2026 | Enterprise/Cybersecurity | Active [^10] |
+| ComfyUI | Series A (led) | 2026 | AI / Generative Media | Active [^12] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -175,3 +176,4 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^9]: Craft Ventures website, "Founder," accessed March 2026. https://www.craftventures.com/founder
 [^10]: "Oasis Security raises $120 million Series B to secure the rise of AI agents." Calcalist Tech, March 19, 2026. https://www.calcalistech.com/ctechnews/article/ske4mstcwl
 [^11]: Craft Ventures website, "Portfolio — Affirm," accessed March 2026. https://www.craftventures.com/portfolio/affirm
+[^12]: TechCrunch, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media," April 24, 2026. https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/

@@ -146,6 +146,7 @@ Based on 17 verified portfolio investments, the following patterns emerge. Note:
 | Listen Labs | Seed | ~2022 | Consumer | Active | [^3] |
 | Counsel Health | Seed | 2024 | Healthcare | Active | [^24] |
 | Dealops | Seed | 2025 | Enterprise SaaS | Active | [^25] |
+| Series | Pre-Seed | 2026 | AI / Social | Active | [^26] |
 
 Note: This table represents approximately 7% of 260+ claimed investments. All dates have been verified against Crunchbase funding round records and primary announcement sources, except Listen Labs (~2022) which remains approximate.
 
@@ -192,3 +193,4 @@ William Ross, CEO of Federato, has stated: "The extended Pear team has always be
 [^23]: Pear VC, "Federato raised $25 million in Series B funding," accessed April 2026. https://pear.vc/federato-raised-25-million-in-series-b-funding-to-accelerate-their-work-running-the-worlds-first-riskops-platform-for-property-and-casualty-insurance/
 [^24]: PR Newswire, "Counsel Health Launches with $11M in Seed Funding," October 2024, accessed April 2026. https://www.prnewswire.com/news-releases/counsel-health-launches-with-11m-in-seed-funding-to-deliver-physician-led-ai-powered-medical-advice-302280740.html
 [^25]: Axios, "Exclusive: Dealops raises $7M for dynamic pricing tech," August 12, 2025, accessed April 2026. https://www.axios.com/pro/fintech-deals/2025/08/12/dealops-7m-dynamic-pricing-tech
+[^26]: TechCrunch, "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage," April 24, 2026. https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/
