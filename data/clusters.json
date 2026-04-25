@@ -11379,6 +11379,40 @@
           "firm": "fj-labs"
         }
       ]
+    },
+    {
+      "id": "curated-46",
+      "name": "The Stripe Mafia",
+      "tagline": "Early Stripe operators who took the lessons of building the world's most disciplined fintech and turned them into a venture playbook.",
+      "type": "curated",
+      "size": 5,
+      "members": [
+        {
+          "slug": "greg-brockman",
+          "name": "Greg Brockman",
+          "firm": "openai"
+        },
+        {
+          "slug": "lachy-groom",
+          "name": "Lachy Groom",
+          "firm": "independent"
+        },
+        {
+          "slug": "bryan-berg",
+          "name": "Bryan Berg",
+          "firm": "standard-capital"
+        },
+        {
+          "slug": "meka-asonye",
+          "name": "Meka Asonye",
+          "firm": "first-round-capital"
+        },
+        {
+          "slug": "shravan-reddy",
+          "name": "Shravan Reddy",
+          "firm": "pear-vc"
+        }
+      ]
     }
   ]
 }
