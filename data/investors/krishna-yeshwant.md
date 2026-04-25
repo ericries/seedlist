@@ -84,17 +84,17 @@ Based on 22 verified investments below, Yeshwant's actual portfolio reveals a de
 | Verve Therapeutics | 2019 | Series A | Gene Editing / Cardiology | [^11] |
 | EQRx | 2020 | Series A | Therapeutics | [^20] |
 | ROME Therapeutics | 2020 | Series A | Therapeutics / Oncology | [^12] |
-~unknown| Freenome | — | Undisclosed | Diagnostics | [^21] |
-~unknown| Science 37 | — | Undisclosed | Clinical Trials | [^21] |
-~unknown| Sana Biotechnology | — | Undisclosed | Cell Therapy | [^21] |
-~unknown| LifeMine Therapeutics | — | Undisclosed | Drug Discovery | [^22] |
-~unknown| Encoded Therapeutics | — | Undisclosed | Gene Therapy | [^21] |
-~unknown| Ventus Therapeutics | — | Undisclosed | Therapeutics | [^21] |
-~unknown| Decibel Therapeutics | — | Undisclosed | Therapeutics | [^21] |
-~unknown| Nanit | — | Undisclosed | Consumer Health | [^21] |
-~unknown| Quartet Health | — | Undisclosed | Behavioral Health | [^3] |
-~unknown| Verana Health | — | Undisclosed | Health Data | [^3] |
-~unknown| Parabilis Medicines | — | Undisclosed | Therapeutics | [^3] |
+| Freenome | 2017 | Series A | Diagnostics | [^21][^27] |
+| Science 37 | ~2014 (founding year) | — | Clinical Trials | [^21] |
+| Sana Biotechnology | ~2018 (founding year) | — | Cell Therapy | [^21] |
+| LifeMine Therapeutics | ~2017 (founding year) | — | Drug Discovery | [^22] |
+| Encoded Therapeutics | ~2014 (founding year) | — | Gene Therapy | [^21] |
+| Ventus Therapeutics | ~2020 (founding year) | — | Therapeutics | [^21] |
+| Decibel Therapeutics | 2017 | Strategic | Therapeutics | [^21][^28] |
+| Nanit | ~2014 (founding year) | — | Consumer Health | [^21] |
+| Quartet Health | 2016 | Series B (led) | Behavioral Health | [^3][^29] |
+| Verana Health | ~2018 (founding year) | — | Health Data | [^3] |
+| Parabilis Medicines | ~2015 (founding year) | — | Therapeutics | [^3] |
 
 This table represents a partial view of Yeshwant's portfolio. According to NFX Signal, he has approximately 48 investments on record [^6]. The 22 companies above represent roughly 46% of his known total. Several entries lack specific round years because only board membership or portfolio inclusion could be confirmed, not the specific investment date.
 
@@ -175,3 +175,6 @@ Anthony Philippakis, a GV colleague and co-founder of Verve Therapeutics, has de
 [^24]: 9to5Google, "Googler-founded, GV-backed cancer startup acquired for $1.9 billion by pharma giant," February 2018, accessed March 2026. https://9to5google.com/2018/02/16/googler-founded-cancer-startup-acquired-for-1-9-billion/
 [^25]: insitro leadership page, "Krishna Yeshwant," accessed March 2026. https://www.insitro.com/leadership/krishna-yeshwant/
 [^26]: Harvard Medical School Center for Primary Care, "Krishna Yeshwant," accessed March 2026. https://primarycare.hms.harvard.edu/faculty-staff/krishna-yeshwant
+[^27]: BusinessWire, "Freenome Announces $65 Million in Series A Funding, Led by Andreessen Horowitz," March 1, 2017. https://www.businesswire.com/news/home/20170301005927/en/Freenome-Announces-65-Million-Series-Funding-Led
+[^28]: Hearing Review, "GV (Google Ventures) Invests in Decibel Therapeutics," July 7, 2017. https://hearingreview.com/hearing-loss/tinnitus/tinnitus-counseling/gv-invests-decibel-therapeutics
+[^29]: MobiHealthNews, "Google Ventures leads $40M round in behavioral health startup Quartet," April 18, 2016. https://www.mobihealthnews.com/news/google-ventures-leads-40m-round-behavioral-health-startup-quartet
