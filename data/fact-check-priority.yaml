@@ -1,1 +1,5 @@
-priority: []
+priority:
+- slug: benchmark
+  type: firm
+  reason: "led Eigen Seed (2026-04-16)"
+  added: 2026-04-25

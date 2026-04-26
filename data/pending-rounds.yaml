@@ -28,8 +28,8 @@ pending_rounds:
   parsed_amount: $400M
   parsed_round: null
   status: skipped
-  skip_reason: rumored round (title says "seeks" / "sources say"); not announced
-    yet — wait for official announcement per CLAUDE.md
+  skip_reason: rumored round (title says "seeks" / "sources say"); not announced yet
+    — wait for official announcement per CLAUDE.md
 - title: Afresh raised $34M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
