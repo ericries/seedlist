@@ -112,6 +112,7 @@ Based on 8VC's verified portfolio and public data:
 | eMed | Series A | 2026 | Healthcare/AI Telehealth | Private [^10] |
 | Alloy Therapeutics | Series E | 2026 | Biotech/Drug Discovery | Private [^11] |
 | Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
+| Rilian | Seed (co-led) | 2026 | AI/Cybersecurity/Defense | Private [^13] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -142,3 +143,5 @@ No independently sourced founder testimonials found.
 [^11]: BioSpace, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026. https://www.biospace.com/press-releases/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure
 
 [^12]: TechCrunch, "Loop raises $95M to build supply chain AI that predicts disruptions," April 17, 2026. https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/
+
+[^13]: SiliconANGLE, "Rilian raises $17.5M to automate security software procurement and deployment in the defense sector," April 23, 2026. https://siliconangle.com/2026/04/23/rilian-raises-17-5m-automate-security-software-procurement-deployment-defense-sector/
