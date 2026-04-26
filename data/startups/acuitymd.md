@@ -1,26 +1,35 @@
 ---
-name: "AcuityMD"
-slug: acuitymd
-type: startup
-website: "https://www.acuitymd.com"
-location: "Boston, MA"
-founded: 2020
-status_company: active
-sector: [healthcare, medtech, ai, enterprise, saas, sales-tech]
-stage_latest: "Series C"
-total_raised: "$160M+"
 firms:
-  - slug: redpoint-ventures
-    round: series-c
-    year: 2026
-    date: 2026-04-21
-  - slug: iconiq-growth
-    round: series-c
-    year: 2026
-    date: 2026-04-21
-investors: []
-status: published
+- date: 2026-04-21
+  round: series-c
+  slug: redpoint-ventures
+  year: 2026
+- date: 2026-04-21
+  round: series-c
+  slug: iconiq-growth
+  year: 2026
+founded: 2020
+investors:
+- round: ~2022
+  slug: logan-bartlett
+  year: 2022
 last_researched: 2026-04-25
+location: Boston, MA
+name: AcuityMD
+sector:
+- healthcare
+- medtech
+- ai
+- enterprise
+- saas
+- sales-tech
+slug: acuitymd
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $160M+
+type: startup
+website: https://www.acuitymd.com
 ---
 
 ## About

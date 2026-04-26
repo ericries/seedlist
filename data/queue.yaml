@@ -10060,7 +10060,7 @@ queue:
 - name: Stefanie Thomas-Martin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Zeal Capital Partners
   discovered_from: nasir-qadree
@@ -17196,3 +17196,103 @@ queue:
   added: '2026-03-17'
   discovered_from: round-monitoring-2026-04-25
   source: led Serif Biomedicines launch funding (2026-04-21)
+- name: Andy Will
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Zeal Capital Partners
+  discovered_from: stefanie-thomas-martin
+- name: Richard Odior
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Zeal Capital Partners
+  discovered_from: stefanie-thomas-martin
+- name: Bianca Phillip
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Zeal Capital Partners
+  discovered_from: stefanie-thomas-martin
+- name: Kesha Cash
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Impact America Fund
+  discovered_from: stefanie-thomas-martin
+- name: Impact America Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Listen Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Chingona Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Rethink Impact
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Truist Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Stratyfy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Sigo Seguros
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Seven Starling
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Humanly
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Debbie
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: Rising Team
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
+- name: EdVisorly
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stefanie-thomas-martin
