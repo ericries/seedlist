@@ -94,11 +94,11 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | BackOps | 2026 | Series A | AI supply chain OS | [^26] |
 | Swarm Aero | 2026 | Series A | UAV/drone swarms | [^27] |
 | Amca | 2025 | Series A | Aerospace/defense components | [^28] |
-| Sphere Semi | ~2024 | Unknown | Analog chip design | [^1] |
+| Sphere Semi | 2024 | Formation (led, $7.5M) | Analog chip design | [^1][^37] |
 | Advex | ~2023 | Unknown | Synthetic data | [^1] |
 | Didero | 2024 | Seed | Supply chain data/AI | [^1][^34] |
 | ChargeLab | 2021 | Seed (led) | EV infrastructure | [^1][^33] |
-| Kinetic | ~2023 | Unknown | Auto repair/maintenance | [^1] |
+| Kinetic | 2023 | Series A (co-led) | Auto repair/maintenance | [^1][^38] |
 | Nauta | ~2024 | Seed | AI logistics for importers | [^1] |
 | Owlery | ~2023 | Unknown | Logistics automation | [^1] |
 | TimberEye | ~2023 | Unknown | Lumber supply chain | [^1] |
@@ -107,7 +107,7 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Folio | ~2023 | Unknown | Hospitality marketplace | [^1] |
 | GrailPay | 2025 | Seed (led) | Payments/bank trust | [^1][^36] |
 | Mandrel | ~2023 | Unknown | Inventory accounting | [^1] |
-| Woflow | ~2022 | Unknown | Merchant data onboarding | [^1] |
+| Woflow | 2022 | Series A (co-led) | Merchant data onboarding | [^1][^39] |
 | Impilo | ~2023 | Unknown | Remote patient monitoring logistics | [^1] |
 | Teero | ~2023 | Unknown | Dental staffing | [^1] |
 
@@ -203,3 +203,6 @@ No other independently sourced founder testimonials found. Firm website does not
 [^34]: TechCrunch, "Didero is using AI to solve supply chain management at mid-market companies," July 17, 2024. https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/ — $7M Seed led by First Round Capital; Construct Capital participated.
 [^35]: PR Newswire, "Amplio raises $6 million in seed funding to make supply chains resilient," December 6, 2022. https://www.prnewswire.com/news-releases/amplio-raises-6-million-in-seed-funding-to-make-supply-chains-resilient-301695181.html — Seed co-led by Construct Capital, Slow Ventures, and Koch Disruptive Technologies.
 [^36]: BusinessWire, "GrailPay Raises $6.7M to Build the Risk and Intelligence Layer for Bank Payments," June 11, 2025. https://www.businesswire.com/news/home/20250611494161/en/GrailPay-Raises-$6.7M-to-Build-the-Risk-and-Intelligence-Layer-for-Bank-Payments — Seed led by Construct Capital.
+[^37]: Construct Capital, "Investing in Sphere Semi: Reinventing Analog Chip Design for the AI Era," accessed April 2026. https://www.constructcap.com/articles/investing-in-sphere-semi-reinventing-analog-chip-design-for-the-ai-era — Construct led $7.5M formation capital in 2024; subsequent $12.5M Series A on September 22, 2025 was co-led by Acme and Future Ventures.
+[^38]: Banks Report, "EV Service & Repair Startup Kinetic Raises $10 Million Series A," October 9, 2023. https://thebanksreport.com/vendors/ev-service-repair-startup-kinetic-raises-10-million-series-a/ — Series A co-led by Lux Capital and Construct Capital.
+[^39]: PR Newswire, "Woflow Expands Data Infrastructure Powering Digital Transformation with $7.3M in Series A Funding," January 25, 2022. https://www.prnewswire.com/news-releases/woflow-expands-data-infrastructure-powering-digital-transformation-with-7-3m-in-series-a-funding-301467370.html — Series A co-led by Base10 Partners and Construct Capital.
