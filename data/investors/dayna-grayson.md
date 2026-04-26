@@ -104,11 +104,11 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | TimberEye | ~2023 | Unknown | Lumber supply chain | [^1] |
 | WayTrade | ~2023 | Unknown | Renewable fuel trading | [^1] |
 | Amplio | 2022 | Seed (co-led) | Electronic component supply chain | [^1][^35] |
-| Folio | ~2023 | Unknown | Hospitality marketplace | [^1] |
+| Folio | 2025 | Series A (co-led) | Hospitality marketplace | [^1][^40] |
 | GrailPay | 2025 | Seed (led) | Payments/bank trust | [^1][^36] |
-| Mandrel | ~2023 | Unknown | Inventory accounting | [^1] |
+| Mandrel | 2023 | Pre-Seed | Inventory accounting | [^1][^25] |
 | Woflow | 2022 | Series A (co-led) | Merchant data onboarding | [^1][^39] |
-| Impilo | ~2023 | Unknown | Remote patient monitoring logistics | [^1] |
+| Impilo | 2024 | Series A (led) | Remote patient monitoring logistics | [^1][^41] |
 | Teero | ~2023 | Unknown | Dental staffing | [^1] |
 
 Note: This table represents approximately 36 of an estimated 57-69 total investments (52-63%) [^10][^25]. Entries marked with "~" for year use approximate founding year as a proxy; entries marked "Unknown" for stage indicate the specific round type could not be independently verified.
@@ -206,3 +206,5 @@ No other independently sourced founder testimonials found. Firm website does not
 [^37]: Construct Capital, "Investing in Sphere Semi: Reinventing Analog Chip Design for the AI Era," accessed April 2026. https://www.constructcap.com/articles/investing-in-sphere-semi-reinventing-analog-chip-design-for-the-ai-era — Construct led $7.5M formation capital in 2024; subsequent $12.5M Series A on September 22, 2025 was co-led by Acme and Future Ventures.
 [^38]: Banks Report, "EV Service & Repair Startup Kinetic Raises $10 Million Series A," October 9, 2023. https://thebanksreport.com/vendors/ev-service-repair-startup-kinetic-raises-10-million-series-a/ — Series A co-led by Lux Capital and Construct Capital.
 [^39]: PR Newswire, "Woflow Expands Data Infrastructure Powering Digital Transformation with $7.3M in Series A Funding," January 25, 2022. https://www.prnewswire.com/news-releases/woflow-expands-data-infrastructure-powering-digital-transformation-with-7-3m-in-series-a-funding-301467370.html — Series A co-led by Base10 Partners and Construct Capital.
+[^40]: BusinessWire, "Folio Raises $14M Series A to Transform Financial Operations at Hotels," July 17, 2025. https://www.businesswire.com/news/home/20250717100483/en/Folio-Raises-$14M-Series-A-to-Transform-Financial-Operations-at-Hotels — Series A co-led by Thrive Capital and Construct Capital.
+[^41]: PR Newswire, "Impilo Secures $11.5 Million in Series A Funding to Transform Healthcare Access Nationwide," November 14, 2024. https://www.prnewswire.com/news-releases/impilo-secures-11-5-million-in-series-a-funding-to-transform-healthcare-access-nationwide-302305504.html — Series A led by Construct Capital.

@@ -213,6 +213,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Oasis Security | Series A | 2024 | Cybersecurity/Identity | [^14] |
 | Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
 | Legora | Series D (led) | 2026 | AI/Legal Tech | [^16] |
+| Oolka | Series A (led, ₹130 Cr) | 2026 | Fintech/AI/India | [^37] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -270,3 +271,4 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^34]: TechCrunch, "Accel Puts $34 Million In Online Payments Platform Braintree," June 29, 2011. https://techcrunch.com/2011/06/29/accel-puts-34-million-in-online-payments-platform-braintree/
 [^35]: TechCrunch, "Supercell Raises $12M From Accel Partners To Power Social Web Games," May 26, 2011. Kevin Comolli led; London Venture Partners also participated. https://techcrunch.com/2011/05/26/supercell-raises-12m-from-accel-partners-to-power-social-web-games/
 [^36]: Accel portfolio page for Supercell, "Initial Investment: Series A in 2011" (partner: Kevin Comolli), accessed March 2026. https://www.accel.com/relationships/supercell
+[^37]: YourStory, "Oolka raises Rs 130 Cr in Series A funding round led by Accel," April 24, 2026. https://yourstory.com/2026/04/oolka-raises-rs-130-cr-in-series-a-funding-round-led-by-accel
