@@ -96,16 +96,16 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Amca | 2025 | Series A | Aerospace/defense components | [^28] |
 | Sphere Semi | ~2024 | Unknown | Analog chip design | [^1] |
 | Advex | ~2023 | Unknown | Synthetic data | [^1] |
-| Didero | ~2023 | Unknown | Supply chain data/AI | [^1] |
+| Didero | 2024 | Seed | Supply chain data/AI | [^1][^34] |
 | ChargeLab | 2021 | Seed (led) | EV infrastructure | [^1][^33] |
 | Kinetic | ~2023 | Unknown | Auto repair/maintenance | [^1] |
 | Nauta | ~2024 | Seed | AI logistics for importers | [^1] |
 | Owlery | ~2023 | Unknown | Logistics automation | [^1] |
 | TimberEye | ~2023 | Unknown | Lumber supply chain | [^1] |
 | WayTrade | ~2023 | Unknown | Renewable fuel trading | [^1] |
-| Amplio | ~2022 | Unknown | Electronic component supply chain | [^1] |
+| Amplio | 2022 | Seed (co-led) | Electronic component supply chain | [^1][^35] |
 | Folio | ~2023 | Unknown | Hospitality marketplace | [^1] |
-| GrailPay | ~2023 | Unknown | Payments/bank trust | [^1] |
+| GrailPay | 2025 | Seed (led) | Payments/bank trust | [^1][^36] |
 | Mandrel | ~2023 | Unknown | Inventory accounting | [^1] |
 | Woflow | ~2022 | Unknown | Merchant data onboarding | [^1] |
 | Impilo | ~2023 | Unknown | Remote patient monitoring logistics | [^1] |
@@ -200,3 +200,6 @@ No other independently sourced founder testimonials found. Firm website does not
 [^31]: Deciphr AI transcript, "20VC: NEA Partner, Dayna Grayson on Sourcing, Picking, Winning, Gut vs Data in Investment Decision-Making," accessed April 2026. https://www.deciphr.ai/podcast/20vc-nea-partner-dayna-grayson-on-sourcing-picking-winning-gut-vs-data-in-investment-decisionmaking--the-evolution-of-entrepreneurial-expectations-of-venture
 [^32]: Tulip press release, "Tulip Announces $18.4M Series B Funding Round," accessed April 2026. https://tulip.co/press/tulip-announces-18m-series-b-funding-round/
 [^33]: TechCrunch, "ChargeLab raises seed capital to be the software provider powering EV charging infrastructure," February 23, 2021. https://techcrunch.com/2021/02/23/chargelab-raises-seed-capital-to-be-the-software-provider-powering-ev-charging-infrastructure/
+[^34]: TechCrunch, "Didero is using AI to solve supply chain management at mid-market companies," July 17, 2024. https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/ — $7M Seed led by First Round Capital; Construct Capital participated.
+[^35]: PR Newswire, "Amplio raises $6 million in seed funding to make supply chains resilient," December 6, 2022. https://www.prnewswire.com/news-releases/amplio-raises-6-million-in-seed-funding-to-make-supply-chains-resilient-301695181.html — Seed co-led by Construct Capital, Slow Ventures, and Koch Disruptive Technologies.
+[^36]: BusinessWire, "GrailPay Raises $6.7M to Build the Risk and Intelligence Layer for Bank Payments," June 11, 2025. https://www.businesswire.com/news/home/20250611494161/en/GrailPay-Raises-$6.7M-to-Build-the-Risk-and-Intelligence-Layer-for-Bank-Payments — Seed led by Construct Capital.
