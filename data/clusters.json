@@ -8131,7 +8131,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 8,
+      "size": 9,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8172,6 +8172,11 @@
           "slug": "tim-draper",
           "name": "Tim Draper",
           "firm": "draper-associates"
+        },
+        {
+          "slug": "josh-mohrer",
+          "name": "Josh Mohrer",
+          "firm": "shine-capital"
         }
       ]
     },
@@ -8896,7 +8901,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 13,
+      "size": 14,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8962,6 +8967,11 @@
           "slug": "yuri-milner",
           "name": "Yuri Milner",
           "firm": "dst-global"
+        },
+        {
+          "slug": "rohit-bansal",
+          "name": "Rohit Bansal",
+          "firm": "titan-capital"
         }
       ]
     },
@@ -9177,7 +9187,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9277,6 +9287,11 @@
           "slug": "rachel-holt",
           "name": "Rachel Holt",
           "firm": "construct-capital"
+        },
+        {
+          "slug": "rohit-bansal",
+          "name": "Rohit Bansal",
+          "firm": "titan-capital"
         }
       ]
     },
@@ -9526,7 +9541,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9625,6 +9640,11 @@
         {
           "slug": "kunal-bahl",
           "name": "Kunal Bahl",
+          "firm": "titan-capital"
+        },
+        {
+          "slug": "rohit-bansal",
+          "name": "Rohit Bansal",
           "firm": "titan-capital"
         }
       ]
@@ -11062,7 +11082,7 @@
       "name": "The Beltway Disruptors",
       "tagline": "DC-based investors who bet that the most regulated industries are the most ripe for disruption \u2014 defense, healthcare, govtech, and national security.",
       "type": "curated",
-      "size": 7,
+      "size": 8,
       "members": [
         {
           "slug": "grant-verstandig",
@@ -11098,6 +11118,11 @@
           "slug": "scott-kupor",
           "name": "Scott Kupor",
           "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "stefanie-thomas-martin",
+          "name": "Stefanie Thomas-Martin",
+          "firm": "zeal-capital-partners"
         }
       ]
     },
@@ -11482,6 +11507,50 @@
           "firm": "compound-ventures"
         }
       ]
+    },
+    {
+      "name": "The IIT Pipeline",
+      "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
+      "type": "curated",
+      "size": 7,
+      "members": [
+        {
+          "slug": "vinod-khosla",
+          "name": "Vinod Khosla",
+          "firm": "khosla-ventures"
+        },
+        {
+          "slug": "navin-chaddha",
+          "name": "Navin Chaddha",
+          "firm": "mayfield"
+        },
+        {
+          "slug": "jyoti-bansal",
+          "name": "Jyoti Bansal",
+          "firm": "unusual-ventures"
+        },
+        {
+          "slug": "gokul-rajaram",
+          "name": "Gokul Rajaram",
+          "firm": "independent"
+        },
+        {
+          "slug": "sundeep-peechu",
+          "name": "Sundeep Peechu",
+          "firm": "felicis"
+        },
+        {
+          "slug": "shailendra-singh",
+          "name": "Shailendra Singh",
+          "firm": "peak-xv-partners"
+        },
+        {
+          "slug": "rohit-bansal",
+          "name": "Rohit Bansal",
+          "firm": "titan-capital"
+        }
+      ],
+      "id": "curated-48"
     }
   ]
 }
