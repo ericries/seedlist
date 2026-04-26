@@ -89,16 +89,16 @@ Based on 8VC's verified portfolio and public data:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Anduril Industries | Early | ~2017 | Defense Tech | Private [^3] |
+| Anduril Industries | Series D | 2021 | Defense Tech | Private [^3][^14] |
 | Palantir Technologies | Co-founded | 2003 | Defense/Enterprise | Public (PLTR) [^3] |
 | Addepar | Co-founded | ~2009 | Fintech | Private [^3] |
 | OpenGov | Co-founded | ~2012 | GovTech | Acquired ($1.8B) [^3] |
 | Flexport | Early | ~2015 | Logistics | Private [^3] |
-| Joby Aviation | Early | ~2018 | Transportation | Public (JOBY) [^3][^5] |
+| Joby Aviation | Series B | 2018 | Transportation | Public (JOBY) [^3][^5][^15] |
 | Oculus | Early | ~2013 | Consumer Tech | Acquired by Facebook [^3] |
 | Guardant Health | Early | ~2015 | Healthcare/Diagnostics | Public [^3] |
 | Oscar Health | Early | ~2014 | Healthcare Insurance | Public [^3] |
-| Illumio | Early | ~2014 | Cybersecurity | Private [^3] |
+| Illumio | Series B | 2014 | Cybersecurity | Private [^3][^16] |
 | Blend | Early | ~2016 | Fintech | Public [^3] |
 | Synthego | Early | ~2016 | Life Sciences | Private [^3] |
 | project44 | Growth | ~2020 | Supply Chain | Private [^5] |
@@ -145,3 +145,9 @@ No independently sourced founder testimonials found.
 [^12]: TechCrunch, "Loop raises $95M to build supply chain AI that predicts disruptions," April 17, 2026. https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/
 
 [^13]: SiliconANGLE, "Rilian raises $17.5M to automate security software procurement and deployment in the defense sector," April 23, 2026. https://siliconangle.com/2026/04/23/rilian-raises-17-5m-automate-security-software-procurement-deployment-defense-sector/
+
+[^14]: Wikipedia, "Anduril Industries — Funding rounds," accessed April 2026. https://en.wikipedia.org/wiki/Anduril_Industries — 8VC participated in the June 2021 Series D ($450M, led by Elad Gil) per Wikipedia funding-round summary.
+
+[^15]: Toyota USA Newsroom and Joby Aviation press, "Joby Aviation Announces Closing of $100 Million Series B," February 1, 2018. https://www.jobyaviation.com/news/joby-aviation-announces-closing-250-million-investment/ — Series B led by Capricorn Investment Group; 8VC participated.
+
+[^16]: TechCrunch, "Illumio Raises $100M More For Enterprise Security That Goes Beyond The Firewall," April 14, 2015. https://techcrunch.com/2015/04/14/illumio-raises-100m-more-for-enterprise-security-that-goes-beyond-the-firewall/ — references prior 2014 Series B; Formation 8 (now 8VC) had invested in the October 2014 Series B/extension round per Wikipedia coverage of Formation 8.
