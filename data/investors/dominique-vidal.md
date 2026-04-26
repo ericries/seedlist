@@ -97,7 +97,7 @@ This table represents 18 verified investments. Vidal has been active since 2007;
 | BlaBlaCar | 2014 | Series C ($100M) | [^14] |
 | Alkemics | ~2015 | Early | [^5] |
 | Citymapper | 2016 | Series B ($40M) | [^15] |
-| Drivy / Getaround | ~2016 | Unknown | [^4] |
+| Drivy / Getaround | 2016 | Series B (€31M) | [^4][^24] |
 | teemo | 2017 | Series A ($16M) | [^16] |
 | Kayrros | 2017 | Series A ($10M) | [^17] |
 | Kayrros | 2018 | Series B ($24M) | [^18] |
@@ -190,3 +190,4 @@ Yaron Galai, co-founder of Outbrain, on Vidal joining the board (2011):
 [^21]: Ad Tech Daily, "Adconion Media Group Raises Record $80M Venture Round," February 25, 2008, accessed April 2026. https://adtechdaily.com/2008/02/25/adconion-media-group-raises-record-80m-venture-round/ — Series C led by Index Ventures with existing investor Wellington Partners.
 [^22]: Globe Newswire / Outbrain press release, "Outbrain Completes the Acquisition of Teads," February 3, 2025, accessed April 2026. https://www.globenewswire.com/news-release/2025/02/03/3019410/0/en/Outbrain-Completes-the-Acquisition-of-Teads.html — Index Ventures did not invest directly in Teads; Vidal's "Teads Holding Co." board seat arrived via Outbrain's acquisition of Teads in 2025. Teads' independent funding history (Crunchbase/Tracxn) lists Elaia, Partech, Gimv, BPI, Bank of China, HSBC, and Founders Future — not Index Ventures.
 [^23]: TechCrunch, "Algorithmic Dating Site Be2 Raises €15m From Index," November 13, 2008, accessed April 2026. https://techcrunch.com/2008/11/13/algorithmic-dating-site-be2-raises-e15m-from-index/ — Index Ventures led €15M round; Vidal joined the board.
+[^24]: Index Ventures Perspectives, "Europe's Largest Car Rental Marketplace Drivy Raises €31M," April 28, 2016, accessed April 2026. https://www.indexventures.com/perspectives/europee28099s-largest-car-rental-marketplace-drivy-raises-e282ac31m/ — Series B led by Cathay Innovation and Nokia Growth Partners; Index Ventures (existing investor) participated alongside Bpifrance and Via-ID.

@@ -215,7 +215,6 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Parallax | 2023 | Seed | [^17] |
 | Ostium Labs | 2023 | Seed | [^17] |
 | Fileverse | 2023 | Pre-Seed | [^17] |
-| The Network State Company | 2023 | Unknown | [^17] |
 | Ritual | 2023 | Series A | [^17] |
 | Nous Research | 2024 | Seed | [^17] |
 | Dinari | 2024 | Seed | [^17] |

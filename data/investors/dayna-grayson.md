@@ -97,7 +97,7 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Sphere Semi | ~2024 | Unknown | Analog chip design | [^1] |
 | Advex | ~2023 | Unknown | Synthetic data | [^1] |
 | Didero | ~2023 | Unknown | Supply chain data/AI | [^1] |
-| ChargeLab | ~2022 | Unknown | EV infrastructure | [^1] |
+| ChargeLab | 2021 | Seed (led) | EV infrastructure | [^1][^33] |
 | Kinetic | ~2023 | Unknown | Auto repair/maintenance | [^1] |
 | Nauta | ~2024 | Seed | AI logistics for importers | [^1] |
 | Owlery | ~2023 | Unknown | Logistics automation | [^1] |
@@ -199,3 +199,4 @@ No other independently sourced founder testimonials found. Firm website does not
 [^30]: Formlabs press release, "Formlabs Closes on Funding Round from NEA Bringing Valuation over One Billion," accessed April 2026. https://formlabs.com/company/press/funding-from-nea-bringing-valuation-over-one-billion-Jeff-Immelt-to-board-of-directors/
 [^31]: Deciphr AI transcript, "20VC: NEA Partner, Dayna Grayson on Sourcing, Picking, Winning, Gut vs Data in Investment Decision-Making," accessed April 2026. https://www.deciphr.ai/podcast/20vc-nea-partner-dayna-grayson-on-sourcing-picking-winning-gut-vs-data-in-investment-decisionmaking--the-evolution-of-entrepreneurial-expectations-of-venture
 [^32]: Tulip press release, "Tulip Announces $18.4M Series B Funding Round," accessed April 2026. https://tulip.co/press/tulip-announces-18m-series-b-funding-round/
+[^33]: TechCrunch, "ChargeLab raises seed capital to be the software provider powering EV charging infrastructure," February 23, 2021. https://techcrunch.com/2021/02/23/chargelab-raises-seed-capital-to-be-the-software-provider-powering-ev-charging-infrastructure/
