@@ -9954,7 +9954,7 @@ queue:
 - name: Rohit Bansal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Titan Capital
   discovered_from: kunal-shah
@@ -16995,7 +16995,7 @@ queue:
 - name: Josh Mohrer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shine Capital
   discovered_from: mo-koyfman
@@ -17296,3 +17296,138 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: stefanie-thomas-martin
+- name: Kalaari Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: IndiaQuotient
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: JSW Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: 9Unicorns
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Sparrow Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Naveen Tewari
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: InMobi
+  discovered_from: rohit-bansal
+- name: Urban Company
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Mamaearth
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Ola
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: OfBusiness
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Credgenics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Convin
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Snapdeal
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Shadowfax
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: Simplismart
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rohit-bansal
+- name: William Barnes
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Moving Capital
+  discovered_from: josh-mohrer
+- name: Moving Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mohrer
+- name: Bradley Tusk
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tusk Ventures
+  discovered_from: josh-mohrer
+- name: Tusk Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mohrer
+- name: Cargo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mohrer
+- name: Kyte
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mohrer
+- name: Levels
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mohrer
