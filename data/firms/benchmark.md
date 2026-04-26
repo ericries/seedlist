@@ -183,12 +183,12 @@ The following table includes 45 Benchmark investments verified through press cov
 | Docker | Series A | ~2013 | Developer Tools / Containers | Private [^14] |
 | Snapchat (Snap) | Series A | 2013 | Consumer / Social | Public (IPO 2017) [^31] |
 | Tinder (Match Group) | Early | ~2014 | Consumer / Dating | Public (via Match Group) [^1] |
-| Stitch Fix | Series A | ~2014 | Consumer / Retail Tech | Public (IPO 2017) [^1] |
+| Stitch Fix | Series B (led) | 2013 | Consumer / Retail Tech | Public (IPO 2017) [^1][^35] |
 | Elastic | Series A | 2012 | Enterprise / Search | Public (IPO 2018) [^17] |
-| Confluent | Early | ~2015 | Enterprise / Data Streaming | Public (IPO 2021) [^14] |
+| Confluent | Series A (led) | 2014 | Enterprise / Data Streaming | Public (IPO 2021) [^14][^36] |
 | Asana | Early | ~2015 | Enterprise SaaS | Public (IPO 2020) [^1] |
 | Amplitude | Early | ~2016 | Enterprise / Analytics | Public (IPO 2021) [^1] |
-| Cockroach Labs | Series A | ~2017 | Enterprise / Database | Private [^14] |
+| Cockroach Labs | Series A (led) | 2015 | Enterprise / Database | Private [^14][^37] |
 | Cerebras Systems | Series A | 2016 | AI / Chips | Pre-IPO (planned Q2 2026) [^8] |
 | Chainalysis | Early | ~2019 | Crypto / Analytics | Private [^10] |
 | HackerOne | Early | ~2015 | Security | Private [^10] |
@@ -338,3 +338,6 @@ The following table includes 45 Benchmark investments verified through press cov
 [^32]: "Facebook offered Snapchat founder Evan Spiegel much more than $3bn." IBTimes UK. https://www.ibtimes.co.uk/facebook-offered-snapchat-founder-evan-spiegel-much-more-3bn-sony-pictures-leaked-email-reveals-1479885. Also: "Snapchat CEO's Leaked Emails Tell The Truth About Tech Startups." Yahoo Finance. https://finance.yahoo.com/news/snapchat-ceos-leaked-emails-tell-172000674.html
 [^33]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
 [^34]: Fortune, "Exclusive: Eigen raises a seed round from Benchmark to build the world's first 'mutual friend'," April 16, 2026. https://fortune.com/2026/04/16/exclusive-eigen-seed-round-benchmark-capital-ben-silbermann-mutual-friend/
+[^35]: Vator News, "Stitch Fix raises $12M, sees 500% growth since Series A," October 17, 2013. https://vator.tv/news/2013-10-17-stitch-fix-raises-12m-sees-500-growth-since-series-a — Series B led by Benchmark; Bill Gurley joined the board.
+[^36]: TechCrunch, "Benchmark Backs Real-Time Data-Processing Startup Confluent," November 6, 2014. https://techcrunch.com/2014/11/06/confluent/ — Series A led by Benchmark; $6.9M; Eric Vishria joined the board.
+[^37]: SiliconANGLE, "Cockroach Labs gets $6.25M to build a more resilient database," June 8, 2015. https://siliconangle.com/2015/06/08/cockroach-labs-gets-6-25m-to-build-a-more-resilient-database/ — Series A led by Benchmark; Peter Fenton joined the board.
