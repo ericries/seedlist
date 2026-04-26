@@ -514,7 +514,7 @@ The session-based cron jobs (round monitoring every 6h, fact specificity every 4
 For each funding round found:
 1. **Company name** and website
 2. **Round type** (Seed, Series A, Series B, etc.)
-3. **Amount raised**
+3. **Amount raised — preserve the original currency.** If a round was announced in euros, record "€30M" — do not convert to USD. Same for GBP (£10M), INR (₹500 Cr), etc. Currency conversion adds error and obscures the source figure; the reader can convert if they care.
 4. **Date — MUST be YYYY-MM-DD format.** Extract the specific announcement date from the article. Do NOT use month-only (YYYY-MM) for new rounds — the feed sorts by exact date. If the article says "announced Tuesday" or "this week", calculate the specific date.
 5. **Lead investor(s)**
 6. **Other participants**
