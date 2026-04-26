@@ -17431,3 +17431,49 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: josh-mohrer
+- name: Lightspeed India
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-26
+  source: Co-investor on Oolka Series A (Accel-led, 2026-04-24); Oolka seed lead (2025)
+- name: Z47
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-26
+  source: Co-investor on Oolka Series A (Accel-led, 2026-04-24)
+- name: Iqram Magdon-Ismail
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel (Venmo co-founder)
+  discovered_from: round-monitoring-2026-04-26
+  source: Angel investor in Series Pre-Seed (2026-04-24)
+- name: Steve Huffman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel (Reddit CEO)
+  discovered_from: round-monitoring-2026-04-26
+  source: Angel investor in Series Pre-Seed (2026-04-24)
+- name: Edward Tian
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel (GPTZero founder)
+  discovered_from: round-monitoring-2026-04-26
+  source: Angel investor in Series Pre-Seed (2026-04-24)
+- name: Utkrishta Kumar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Oolka (Founder/CEO)
+  discovered_from: round-monitoring-2026-04-26
+  source: Founder/CEO of Oolka, raised ₹130 Cr Series A 2026-04-24
