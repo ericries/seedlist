@@ -108,6 +108,7 @@ Based on 30+ verified investments across Revolution's funds:
 ~unknown| Bright Cellars | Ventures | — | — | Consumer / DTC | Active | [^11] |
 ~unknown| Paro | Ventures | — | — | Professional Services | Active | [^11] |
 | Palla | Ventures | Series A | 2025 | Fintech / Payments | Active | [^1] |
+| Kashable | Ventures | Series C | 2026 | Fintech / Lending | Active | [^32] |
 | Carbon Robotics | Rise of the Rest | Series C ext. | 2023 | Agriculture / AI | Active | [^1] |
 | BenchPrep | Ventures | Series B | 2012 | Education Technology | Active | [^10][^30] |
 | Booker Software | Ventures | Series B | 2013 | SaaS / Services | Active | [^10][^31] |
@@ -173,3 +174,4 @@ Based on 30+ verified investments across Revolution's funds:
 [^29]: Hermeus, "Hermeus Raises $100 Million Series B Led by Sam Altman," accessed April 2026. https://www.hermeus.com/newsroom-content/hermeus-raises-100-million-series-b-led-by-sam-altman
 [^30]: TechCrunch, "BenchPrep Grabs $6M From NEA, Revolution For Cross-Platform, Interactive Courses," July 3, 2012. https://techcrunch.com/2012/07/03/benchprep-raises-6m/
 [^31]: TechCrunch, "Operations And Service Management SaaS Booker Raises $27.5M From Bain Capital Ventures, Revolution And Others," April 16, 2013. https://techcrunch.com/2013/04/16/operations-and-service-management-saas-booker-raises-27-5m-from-bain-capital-ventures-revolution-and-others/
+[^32]: Crunchbase News, "Kashable Secures $60M Series C Led By Goldman Sachs," April 27, 2026. https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/

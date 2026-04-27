@@ -1,1 +1,5 @@
-priority: []
+priority:
+- slug: revolution
+  type: firm
+  reason: "appeared in Kashable Series C (2026-04-27)"
+  added: 2026-04-27

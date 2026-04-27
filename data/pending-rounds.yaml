@@ -43,7 +43,75 @@ pending_rounds:
   parsed_company: Lille-based Axomove
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-27'
+  notes: created startup profile axomove.md; €4M Series A on 2026-04-22 co-led by
+    Fonds Prévention Numérique (Bpifrance) and Go Capital with Inco Ventures and
+    Faraday participating; Lille-based digital health/rehab; reimbursed by French
+    Social Security
+- title: 'Exclusive: Goldman Sachs Leads $60M Series C For Personal Loan Fintech Kashable'
+  url: https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/
+  source: crunchbase
+  date_found: '2026-04-27'
+  parsed_company: null
+  parsed_amount: $60M
+  parsed_round: Series C
+  status: processed
+  processed: '2026-04-27'
+  notes: created startup profile kashable.md; $60M Series C on 2026-04-27 led by
+    Goldman Sachs Alternatives' Sustainable Investing with Revolution and EJF Ventures;
+    NYC employer-sponsored credit/lending fintech founded 2013 by Rishi Kumar and
+    Einat Steklov; updated revolution firm with reference
+- title: 'The Weekly Notable Startup Funding Report: 4/27/26'
+  url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/
+  source: alleywatch
+  date_found: '2026-04-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: aggregator weekly summary, not a single round; individual rounds
+    captured separately
+- title: Atech raises €681k with Lovable backing to make hardware prototyping more
+    accessible
+  url: https://www.eu-startups.com/2026/04/atech-raises-e681k-with-lovable-backing-to-make-hardware-prototyping-more-accessible/
+  source: eu-startups
+  date_found: '2026-04-27'
+  parsed_company: Atech
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: pre-seed €681k below typical Seedlist threshold; can revisit if
+    Lovable's involvement warrants attention
+- title: Cambridge’s PlaqueTec raises €4.2 million to advance precision medicine for
+    cardiovascular disease
+  url: https://www.eu-startups.com/2026/04/cambridges-plaquetec-raises-e4-2-million-to-advance-precision-medicine-for-cardiovascular-disease/
+  source: eu-startups
+  date_found: '2026-04-27'
+  parsed_company: Cambridge’s PlaqueTec
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-04-27'
+  notes: created startup profile plaquetec.md; $5M growth financing on 2026-04-27
+    funded entirely by existing investor base; Cambridge UK intracoronary liquid
+    biopsy / cardiovascular precision medicine (note EU-Startups quotes €4.2M, primary
+    BioSpace press release uses $5M)
+- title: BMW and PepsiCo robotics partner Sereact raises €93 million Series B to scale
+    across the US
+  url: https://www.eu-startups.com/2026/04/bmw-and-pepsico-robotics-partner-sereact-raises-e93-million-series-b-to-scale-across-the-us/
+  source: eu-startups
+  date_found: '2026-04-27'
+  parsed_company: BMW and PepsiCo robotics partner Sereact
+  parsed_amount: null
+  parsed_round: Series B
+  status: processed
+  processed: '2026-04-27'
+  notes: created startup profile sereact.md; $110M (~€93M) Series B on 2026-04-27
+    led by Headline with Bullhound Capital, Felix Capital, Daphni; Stuttgart-based
+    AI robotics vision-language-action; customers BMW, Daimler Truck, PepsiCo, H&M;
+    expanding to Boston US HQ; prior €25M Series A Jan 2026 led by Creandum included
+    in funding history
 - title: India’s Snabbit seeks fresh funding at a $400M valuation, sources say
   url: https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/
   source: techcrunch
@@ -1060,48 +1128,3 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile gizmo.md
-- title: Auctor raised $20M combined seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Auctor
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile auctor.md; led by Sequoia Capital
-- title: Onto Health raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Onto Health
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile onto-health.md
-- title: Phonely raised $16M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Phonely
-  parsed_amount: $16M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile phonely.md; actually Series A not B per company blog
-- title: Ratio raised $15.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Ratio
-  parsed_amount: $15.8M
-  parsed_round: Venture
-  status: processed
-  notes: created startup profile ratio.md; also secured $100M lending capacity
-- title: Paxos Labs raised $12M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Paxos Labs
-  parsed_amount: $12M
-  parsed_round: Strategic
-  status: skipped
-  skip_reason: duplicate; paxos-labs.md already exists from earlier processing
