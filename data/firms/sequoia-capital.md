@@ -197,9 +197,9 @@ The following table includes Sequoia Capital investments verified through the fi
 | WhatsApp | Series A | 2011 | Consumer / Messaging | Acquired by Facebook (2014, $19B) [^4] |
 | Block (Square) | Early | 2011 | Fintech / Payments | Public (IPO 2015) [^22] |
 | Dropbox | Series A | ~2012 | Enterprise / Storage | Public (IPO 2018) [^4] |
-| Snowflake | Series A | ~2014 | Enterprise / Data | Public (IPO 2020) [^21] |
-| DoorDash | Seed | ~2014 | Marketplace / Delivery | Public (IPO 2020) [^5][^22] |
-| Zoom | Series A | ~2017 | Enterprise / Communications | Public (IPO 2019) [^21] |
+| Snowflake | Series E (co-led) | 2018 | Enterprise / Data | Public (IPO 2020) [^21][^31] |
+| DoorDash | Series A (led) | 2014 | Marketplace / Delivery | Public (IPO 2020) [^5][^22][^32] |
+| Zoom | Series D (led) | 2017 | Enterprise / Communications | Public (IPO 2019) [^21][^33] |
 | Nubank | Growth | ~2018 | Fintech / Banking | Public (IPO 2021) [^22] |
 | Klarna | Growth | ~2019 | Fintech / BNPL | Public [^22] |
 | Reddit | Growth | ~2019 | Consumer / Social | Public (IPO 2024) [^22] |
@@ -353,3 +353,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^29]: GlobeNewsWire, "Auctor Raises $20M Led by Sequoia Capital to Build the AI System of Action for the Enterprise Software Implementation Market," April 15, 2026. https://www.globenewswire.com/news-release/2026/04/15/3274475/0/en/Auctor-Raises-20M-Led-by-Sequoia-Capital-to-Build-the-AI-System-of-Action-for-the-Enterprise-Software-Implementation-Market.html
 
 [^30]: TechCrunch, "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data," April 27, 2026. https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/ — $1.1B Seed at $5.1B valuation co-led by Sequoia Capital and Lightspeed Venture Partners.
+
+[^31]: Snowflake press release, "Snowflake Closes $263M Series E," January 25, 2018; subsequent $450M Series F led by Sequoia, October 11, 2018. https://www.snowflake.com/news/snowflake-closes-450m-growth-funding/ — Sequoia first invested at the January 2018 $263M Series E (co-led with Altimeter Capital and ICONIQ Growth) and then led the $450M Series F at $3.5B valuation in October 2018.
+
+[^32]: TechCrunch, "DoorDash Raises $17.3 Million From Sequoia To Expand Its On-Demand Delivery Service," May 22, 2014. https://techcrunch.com/2014/05/22/doordash-17-3m-sequoia/ — Series A led by Sequoia at $73.5M valuation; Alfred Lin joined the board.
+
+[^33]: TechCrunch, "Zoom video conferencing service raises $100 million from Sequoia on billion-dollar valuation," January 17, 2017. https://techcrunch.com/2017/01/17/sequoia-invests-100-million-in-zoom-video-conferencing-service/ — Series D led by Sequoia at $1B valuation; Carl Eschenbach joined the board.
