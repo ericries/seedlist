@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 21,
+      "size": 22,
       "members": [
         {
           "slug": "angela-tran",
@@ -8123,6 +8123,11 @@
           "slug": "michael-dempsey",
           "name": "Michael Dempsey",
           "firm": "compound-ventures"
+        },
+        {
+          "slug": "david-hirsch",
+          "name": "David Hirsch",
+          "firm": "compound-ventures"
         }
       ]
     },
@@ -8131,7 +8136,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 9,
+      "size": 10,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8177,6 +8182,11 @@
           "slug": "josh-mohrer",
           "name": "Josh Mohrer",
           "firm": "shine-capital"
+        },
+        {
+          "slug": "bradley-tusk",
+          "name": "Bradley Tusk",
+          "firm": "tusk-ventures"
         }
       ]
     },
@@ -9187,7 +9197,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 21,
+      "size": 22,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9292,6 +9302,11 @@
           "slug": "rohit-bansal",
           "name": "Rohit Bansal",
           "firm": "titan-capital"
+        },
+        {
+          "slug": "naveen-tewari",
+          "name": "Naveen Tewari",
+          "firm": "inmobi"
         }
       ]
     },
@@ -9541,7 +9556,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 21,
+      "size": 22,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9646,6 +9661,11 @@
           "slug": "rohit-bansal",
           "name": "Rohit Bansal",
           "firm": "titan-capital"
+        },
+        {
+          "slug": "naveen-tewari",
+          "name": "Naveen Tewari",
+          "firm": "inmobi"
         }
       ]
     },
@@ -9723,7 +9743,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 43,
+      "size": 45,
       "members": [
         {
           "slug": "aileen-lee",
@@ -9939,6 +9959,16 @@
           "slug": "gina-gotthilf",
           "name": "Gina Gotthilf",
           "firm": "latitud"
+        },
+        {
+          "slug": "kesha-cash",
+          "name": "Kesha Cash",
+          "firm": "impact-america-fund"
+        },
+        {
+          "slug": "stefanie-thomas-martin",
+          "name": "Stefanie Thomas-Martin",
+          "firm": "zeal-capital-partners"
         }
       ]
     },
@@ -11512,7 +11542,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 7,
+      "size": 8,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11548,9 +11578,48 @@
           "slug": "rohit-bansal",
           "name": "Rohit Bansal",
           "firm": "titan-capital"
+        },
+        {
+          "slug": "naveen-tewari",
+          "name": "Naveen Tewari",
+          "firm": "inmobi"
         }
       ],
       "id": "curated-48"
+    },
+    {
+      "name": "The Indian Operator Mafia",
+      "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
+      "type": "curated",
+      "size": 5,
+      "members": [
+        {
+          "slug": "rohit-bansal",
+          "name": "Rohit Bansal",
+          "firm": "titan-capital"
+        },
+        {
+          "slug": "kunal-bahl",
+          "name": "Kunal Bahl",
+          "firm": "titan-capital"
+        },
+        {
+          "slug": "kunal-shah",
+          "name": "Kunal Shah",
+          "firm": "cred"
+        },
+        {
+          "slug": "naveen-tewari",
+          "name": "Naveen Tewari",
+          "firm": "inmobi"
+        },
+        {
+          "slug": "girish-mathrubootham",
+          "name": "Girish Mathrubootham",
+          "firm": "freshworks"
+        }
+      ],
+      "id": "curated-49"
     }
   ]
 }
