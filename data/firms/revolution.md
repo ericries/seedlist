@@ -104,9 +104,9 @@ Based on 30+ verified investments across Revolution's funds:
 | Policygenius | Ventures | Series B | 2015 | Insurtech | Active | [^11] |
 | Framebridge | Ventures | Series A | 2014 | Consumer / E-commerce | Active | [^11] |
 | SRS Acquiom | Ventures | Series A | 2014 | Finance / M&A Services | Acquired (2018) | [^4][^11] |
-~unknown| Bloomscape | Ventures | — | — | Consumer / DTC | Active | [^11] |
-~unknown| Bright Cellars | Ventures | — | — | Consumer / DTC | Active | [^11] |
-~unknown| Paro | Ventures | — | — | Professional Services | Active | [^11] |
+| Bloomscape | Ventures | Series A (led) | 2019 | Consumer / DTC | Active | [^11][^33] |
+| Bright Cellars | Ventures | Series A (led) | 2019 | Consumer / DTC | Active | [^11][^34] |
+| Paro | Ventures | Series A (led) | 2018 | Professional Services | Active | [^11][^35] |
 | Palla | Ventures | Series A | 2025 | Fintech / Payments | Active | [^1] |
 | Kashable | Ventures | Series C | 2026 | Fintech / Lending | Active | [^32] |
 | Carbon Robotics | Rise of the Rest | Series C ext. | 2023 | Agriculture / AI | Active | [^1] |
@@ -175,3 +175,6 @@ Based on 30+ verified investments across Revolution's funds:
 [^30]: TechCrunch, "BenchPrep Grabs $6M From NEA, Revolution For Cross-Platform, Interactive Courses," July 3, 2012. https://techcrunch.com/2012/07/03/benchprep-raises-6m/
 [^31]: TechCrunch, "Operations And Service Management SaaS Booker Raises $27.5M From Bain Capital Ventures, Revolution And Others," April 16, 2013. https://techcrunch.com/2013/04/16/operations-and-service-management-saas-booker-raises-27-5m-from-bain-capital-ventures-revolution-and-others/
 [^32]: Crunchbase News, "Kashable Secures $60M Series C Led By Goldman Sachs," April 27, 2026. https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/
+[^33]: TechCrunch, "Bloomscape raises $7.5M to sell you plants of all sizes," August 1, 2019. https://techcrunch.com/2019/08/01/bloomscape-series-a/ — Series A led by Revolution Ventures.
+[^34]: BizTimes, "Bright Cellars raises $8.5 million," March 7, 2019. https://biztimes.com/bright-cellars-raises-8-5-million/ — Series A led by Revolution Ventures with CSA Partners.
+[^35]: Revolution press release, "Future of Finance Work Startup, Paro Raises $5 Million Series A," March 5, 2018. https://revolution.com/press-release/future-finance-work-startup-paro-raises-5-million-series/ — Series A led by Revolution Ventures with Global Founders Capital and Tom Williams.
