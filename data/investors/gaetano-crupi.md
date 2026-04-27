@@ -64,7 +64,7 @@ Based on 10 verified investments across two firms (USIT and Prime Movers Lab):
 | MycoWorks | 2022 | Series C | [^7] |
 | Bandit | 2022 | Seed | [^8] |
 | Gilgamesh Pharmaceuticals | 2022 | Series B | [^21] |
-| OCEANIX | ~2021 | Unknown | [^20] |
+| OCEANIX | 2021 | Seed | [^20][^23] |
 | Gecko Robotics | 2023 | Series C Extension | [^19] |
 | Oxide Computer | 2025 | Series B | [^16] |
 | Lambda | 2025 | Series E | [^15] |
@@ -161,3 +161,5 @@ Based on 10 verified investments across two firms (USIT and Prime Movers Lab):
 [^21]: Amy Kruse, "Why We Invested in Gilgamesh (Again)," Prime Movers Lab blog on Medium, December 15, 2022. https://medium.com/prime-movers-lab/why-we-invested-in-gilgamesh-again-e792cb75d7a1
 
 [^22]: OODAloop, "Thomas Tull Chairs the $5 Billion US Innovative Technology Fund; Shield AI among Early Investments," February 2023. https://oodaloop.com/analysis/archive/thomas-tull-chairs-the-5-billion-us-innovative-technology-fund-shield-ai-among-early-investments/
+
+[^23]: Crunchbase funding round records for OCEANIX, accessed April 2026. https://www.crunchbase.com/organization/oceanix — OCEANIX raised $2.1M Seed (July 19, 2021) and $2M follow-on Seed (November 20, 2021), with Prime Movers Lab as named investor; Gaetano Crupi led/sourced from PMLab and joined the OCEANIX board.

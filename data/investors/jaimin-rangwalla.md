@@ -102,7 +102,7 @@ The following table lists investments where Jaimin Rangwalla has direct involvem
 | Uplight | 2021 | Growth | Clean Energy / Utilities | Board Member | [^19] |
 | Aurora Solar | 2022 | Series D ($200M) | Clean Energy / Solar | Board Observer | [^21] |
 | dcbel | ~2022 | Series A (Led, $40M) | Clean Energy / EV Charging | Board Member | [^17] |
-| Verse | 2023 | Seed (Led, $5.75M) | Clean Energy / AI | Unknown | [^22] |
+| Verse | 2023 | Seed (Led, $5.75M) | Clean Energy / AI | Active | [^22] |
 
 *Note: This table represents only Rangwalla's directly attributable private investments. As CIO of Publics, he also oversees Coatue's ~$40B public equities portfolio across 52+ positions. Coatue's full private portfolio of 367 companies is documented in the firm profile.*
 
