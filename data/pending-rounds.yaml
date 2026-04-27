@@ -30,10 +30,20 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   processed: '2026-04-27'
-  notes: created startup profile quointelligence.md; €7.3M Series A on 2026-04-27 co-led
-    by Elevator Ventures (Raiffeisen Bank International VC arm) and BMH, with eCAPITAL
-    Entrepreneurial Partners and Mercurius Private Equity participating; Frankfurt-based
-    cybersecurity/threat intelligence; no firm slugs added (none yet profiled)
+  notes: created startup profile quointelligence.md; €7.3M Series A on 2026-04-27
+    co-led by Elevator Ventures (Raiffeisen Bank International VC arm) and BMH, with
+    eCAPITAL Entrepreneurial Partners and Mercurius Private Equity participating;
+    Frankfurt-based cybersecurity/threat intelligence; no firm slugs added (none yet
+    profiled)
+- title: Lille-based Axomove raises €4 million to scale digital rehabilitation platform
+    reimbursed by French Social Security
+  url: https://www.eu-startups.com/2026/04/lille-based-axomove-raises-e4-million-to-scale-digital-rehab-platform-reimbursed-by-french-social-security/
+  source: eu-startups
+  date_found: '2026-04-27'
+  parsed_company: Lille-based Axomove
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: India’s Snabbit seeks fresh funding at a $400M valuation, sources say
   url: https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/
   source: techcrunch
@@ -1095,12 +1105,3 @@ pending_rounds:
   parsed_round: Strategic
   status: skipped
   skip_reason: duplicate; paxos-labs.md already exists from earlier processing
-- title: Gitar raised $9M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Gitar
-  parsed_amount: $9M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile gitar.md; emerged from stealth
