@@ -17220,7 +17220,7 @@ queue:
 - name: Kesha Cash
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Impact America Fund
   discovered_from: stefanie-thomas-martin
@@ -17403,7 +17403,7 @@ queue:
 - name: Bradley Tusk
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tusk Ventures
   discovered_from: josh-mohrer
@@ -17477,3 +17477,301 @@ queue:
   firm: Oolka (Founder/CEO)
   discovered_from: round-monitoring-2026-04-26
   source: Founder/CEO of Oolka, raised ₹130 Cr Series A 2026-04-24
+- name: Jordan Nof
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tusk Ventures
+  discovered_from: bradley-tusk
+- name: Michaela Balderston
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tusk Ventures
+  discovered_from: bradley-tusk
+- name: Brad Welch
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tusk Ventures
+  discovered_from: bradley-tusk
+- name: Odyssey
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: FanDuel
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Eaze
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Ro
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Nurx
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Kodiak Robotics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Latch
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Capchase
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Alma
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Boulder Care
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Allocate
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Dayforward
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Boost Insurance
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Brinc Drones
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Nexar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Care/of
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: GlamSquad
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: pymetrics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Grove Collaborative
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: MainStreet
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Handy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Counterpart Advisors
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: XL Innovate
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bradley-tusk
+- name: Brittany Henderson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Impact America Fund
+  discovered_from: kesha-cash
+- name: Kaiton Williams
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Impact America Fund
+  discovered_from: kesha-cash
+- name: Yui Scribner
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Impact America Fund
+  discovered_from: kesha-cash
+- name: Melissa Bradley
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Impact America Fund
+  discovered_from: kesha-cash
+- name: David Clark Guillermo
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Impact America Fund
+  discovered_from: kesha-cash
+- name: Josh Mailman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Jalia Ventures / Serious Change LP
+  discovered_from: kesha-cash
+- name: Esusu
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: SoLo Funds
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: CareAcademy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Twentyeight Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Nest Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Voltpost
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: District Cover
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Camino Financial
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Diishan Imira
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mayvenn (founder)
+  discovered_from: kesha-cash
+- name: Essence Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Cross Culture Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Rethink Education
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Socium Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Amboy Street Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: Hopelab
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash
+- name: IA Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kesha-cash

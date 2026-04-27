@@ -63,6 +63,9 @@ firms:
 - round: Angel
   slug: kindred-ventures
   year: 2012
+- round: Multiple rounds (Tusk participated; exited via direct listing 2021)
+  slug: tusk-ventures
+  year: 2017
 founded: 2012
 founders:
 - name: Brian Armstrong
@@ -151,6 +154,9 @@ investors:
 - round: Angel
   slug: steve-jang
   year: 2012
+- round: Multiple rounds (Tusk participated; exited via direct listing 2021)
+  slug: bradley-tusk
+  year: 2017
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase
