@@ -46,9 +46,8 @@ pending_rounds:
   status: processed
   processed: '2026-04-27'
   notes: created startup profile axomove.md; €4M Series A on 2026-04-22 co-led by
-    Fonds Prévention Numérique (Bpifrance) and Go Capital with Inco Ventures and
-    Faraday participating; Lille-based digital health/rehab; reimbursed by French
-    Social Security
+    Fonds Prévention Numérique (Bpifrance) and Go Capital with Inco Ventures and Faraday
+    participating; Lille-based digital health/rehab; reimbursed by French Social Security
 - title: 'Exclusive: Goldman Sachs Leads $60M Series C For Personal Loan Fintech Kashable'
   url: https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/
   source: crunchbase
@@ -58,10 +57,10 @@ pending_rounds:
   parsed_round: Series C
   status: processed
   processed: '2026-04-27'
-  notes: created startup profile kashable.md; $60M Series C on 2026-04-27 led by
-    Goldman Sachs Alternatives' Sustainable Investing with Revolution and EJF Ventures;
-    NYC employer-sponsored credit/lending fintech founded 2013 by Rishi Kumar and
-    Einat Steklov; updated revolution firm with reference
+  notes: created startup profile kashable.md; $60M Series C on 2026-04-27 led by Goldman
+    Sachs Alternatives' Sustainable Investing with Revolution and EJF Ventures; NYC
+    employer-sponsored credit/lending fintech founded 2013 by Rishi Kumar and Einat
+    Steklov; updated revolution firm with reference
 - title: 'The Weekly Notable Startup Funding Report: 4/27/26'
   url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/
   source: alleywatch
@@ -70,8 +69,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: aggregator weekly summary, not a single round; individual rounds
-    captured separately
+  skip_reason: aggregator weekly summary, not a single round; individual rounds captured
+    separately
 - title: Atech raises €681k with Lovable backing to make hardware prototyping more
     accessible
   url: https://www.eu-startups.com/2026/04/atech-raises-e681k-with-lovable-backing-to-make-hardware-prototyping-more-accessible/
@@ -81,8 +80,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: pre-seed €681k below typical Seedlist threshold; can revisit if
-    Lovable's involvement warrants attention
+  skip_reason: pre-seed €681k below typical Seedlist threshold; can revisit if Lovable's
+    involvement warrants attention
 - title: Cambridge’s PlaqueTec raises €4.2 million to advance precision medicine for
     cardiovascular disease
   url: https://www.eu-startups.com/2026/04/cambridges-plaquetec-raises-e4-2-million-to-advance-precision-medicine-for-cardiovascular-disease/
@@ -94,9 +93,9 @@ pending_rounds:
   status: processed
   processed: '2026-04-27'
   notes: created startup profile plaquetec.md; $5M growth financing on 2026-04-27
-    funded entirely by existing investor base; Cambridge UK intracoronary liquid
-    biopsy / cardiovascular precision medicine (note EU-Startups quotes €4.2M, primary
-    BioSpace press release uses $5M)
+    funded entirely by existing investor base; Cambridge UK intracoronary liquid biopsy
+    / cardiovascular precision medicine (note EU-Startups quotes €4.2M, primary BioSpace
+    press release uses $5M)
 - title: BMW and PepsiCo robotics partner Sereact raises €93 million Series B to scale
     across the US
   url: https://www.eu-startups.com/2026/04/bmw-and-pepsico-robotics-partner-sereact-raises-e93-million-series-b-to-scale-across-the-us/
