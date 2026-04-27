@@ -119,8 +119,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: aggregator daily summary, not a single round; individual rounds
-    captured separately
+  skip_reason: aggregator daily summary, not a single round; individual rounds captured
+    separately
 - title: Ineffable Intelligence lands historic $1.1 billion Seed round at $5.1 billion
     valuation
   url: https://www.eu-startups.com/2026/04/ineffable-intelligence-lands-historic-1-1-billion-seed-round-at-5-1-billion-valuation/
@@ -131,12 +131,12 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   processed: '2026-04-27'
-  notes: created startup profile ineffable-intelligence.md; $1.1B Seed at $5.1B
-    valuation on 2026-04-27, co-led by Sequoia Capital and Lightspeed Venture
-    Partners, with Index Ventures, Google, Nvidia, DST Global, British Business
-    Bank, UK Sovereign AI Fund participating; UK AI lab founded by ex-DeepMind
-    researcher David Silver pursuing reinforcement-learning superintelligence;
-    updated sequoia-capital and index-ventures portfolios
+  notes: created startup profile ineffable-intelligence.md; $1.1B Seed at $5.1B valuation
+    on 2026-04-27, co-led by Sequoia Capital and Lightspeed Venture Partners, with
+    Index Ventures, Google, Nvidia, DST Global, British Business Bank, UK Sovereign
+    AI Fund participating; UK AI lab founded by ex-DeepMind researcher David Silver
+    pursuing reinforcement-learning superintelligence; updated sequoia-capital and
+    index-ventures portfolios
 - title: Industrial cleaning robot developer KEMARO advances Series B with €4.2 million
     pre-closing
   url: https://www.eu-startups.com/2026/04/industrial-cleaning-robot-developer-kemaro-advances-series-b-with-e4-2-million-pre-closing/
@@ -147,10 +147,9 @@ pending_rounds:
   parsed_round: Series B
   status: processed
   processed: '2026-04-27'
-  notes: created startup profile kemaro.md; $5M (~€4.2M) Series B pre-closing on
-    2026-04-23, total Series B target $20M, named investors not yet disclosed;
-    Swiss industrial cleaning robotics, founded 2016, expanding to US (Atlanta
-    subsidiary)
+  notes: created startup profile kemaro.md; $5M (~€4.2M) Series B pre-closing on 2026-04-23,
+    total Series B target $20M, named investors not yet disclosed; Swiss industrial
+    cleaning robotics, founded 2016, expanding to US (Atlanta subsidiary)
 - title: India’s Snabbit seeks fresh funding at a $400M valuation, sources say
   url: https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/
   source: techcrunch
