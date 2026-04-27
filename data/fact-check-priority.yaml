@@ -1,1 +1,29 @@
-priority: []
+priority:
+- slug: sequoia-capital
+  type: firm
+  reason: "co-led Ineffable Intelligence Seed (2026-04-27)"
+  added: 2026-04-27
+- slug: index-ventures
+  type: firm
+  reason: "appeared in Ineffable Intelligence Seed (2026-04-27)"
+  added: 2026-04-27
+- slug: andreessen-horowitz
+  type: firm
+  reason: "co-led Segura Seed (2026-04-27)"
+  added: 2026-04-27
+- slug: kaszek-ventures
+  type: firm
+  reason: "co-led Segura Seed (2026-04-27)"
+  added: 2026-04-27
+- slug: kleiner-perkins
+  type: firm
+  reason: "led Avoca Series A; participated in Series B (2026-04-27)"
+  added: 2026-04-27
+- slug: general-catalyst
+  type: firm
+  reason: "co-led Avoca Series B (2026-04-27)"
+  added: 2026-04-27
+- slug: y-combinator
+  type: firm
+  reason: "Avoca seed investor; $1B unicorn announcement (2026-04-27)"
+  added: 2026-04-27

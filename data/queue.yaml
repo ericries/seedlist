@@ -17934,3 +17934,70 @@ queue:
   added: '2026-03-17'
   firm: Blackbuck
   discovered_from: naveen-tewari
+- name: EQT
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-27
+  source: led Vinted €880M secondary share sale (2026-04-27)
+- name: Schroders Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-27
+  source: participated in Vinted secondary (2026-04-27)
+- name: Teachers' Venture Growth
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-27
+  source: participated in Vinted secondary (2026-04-27)
+- name: Meritech
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-27
+  source: co-led Avoca Series B (2026-04-27)
+- name: Big_Bets
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-27
+  source: Segura seed participant (2026-04-27)
+- name: Leigh Marie Braswell
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kleiner Perkins
+  discovered_from: round-monitoring-2026-04-27
+  source: Kleiner Perkins partner who led Avoca Series A (2026-04-27)
+- name: Tyson Chen
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Avoca
+  discovered_from: round-monitoring-2026-04-27
+  source: Avoca co-founder (founder, not investor — for cross-reference)
+- name: Apurva Shrivastava
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Avoca
+  discovered_from: round-monitoring-2026-04-27
+  source: Avoca co-founder (founder, not investor — for cross-reference)
+- name: Assaf Wand
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hippo Insurance (angel investor)
+  discovered_from: round-monitoring-2026-04-27
+  source: angel in Segura $8M seed (2026-04-27)

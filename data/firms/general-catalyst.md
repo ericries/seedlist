@@ -216,8 +216,9 @@ The following table includes 65 verified investments sourced from General Cataly
 | Legora | Series D | 2026 | AI / Legal Tech | Private [^39] |
 | Conntour | Seed | 2026 | AI / Security / Video Intelligence | Private [^40] |
 | Numos | Seed | 2026 | AI / Fintech / Enterprise | Private [^41] |
+| Avoca | Series B (co-led) | 2026-04-27 | AI / Vertical SaaS / Services Economy | Private [^42] |
 
-*Note: This table includes 70 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 7% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
+*Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
 ## In Their Own Words
 
@@ -345,3 +346,5 @@ No independently sourced founder testimonials were found in this research pass. 
 [^40]: TechCrunch, "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems," March 26, 2026. https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/
 
 [^41]: Artiverse, "Numos Gets $4.25M to Build Transparent Finance AI," April 2026. https://www.artiverse.ca/numos-gets-4-25m-to-build-transparent-finance-ai/
+
+[^42]: PR Newswire, "Avoca Raises $125M+ at $1B Valuation to Power America's Services Economy With AI," April 27, 2026. https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html

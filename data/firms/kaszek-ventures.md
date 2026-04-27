@@ -145,6 +145,7 @@ The following table represents approximately 80% of Kaszek's 130+ known investme
 | Phage | Early | ~2022 | Biotech | Active [^5] |
 | Sou Smile | Early | ~2020 | Healthtech | Active [^5] |
 | Guia Bolso | Seed | ~2013 | Fintech | Active [^5] |
+| Segura | Seed | 2026-04-27 | Insurtech | Active [^16] |
 
 *Note: Many investment years are approximate, based on company founding dates. Entries marked with "~" indicate the year is estimated from available data. This table represents approximately 50 of 130+ known investments. For the remaining portfolio companies, individual investment dates and stages could not be independently verified.*
 
@@ -197,3 +198,5 @@ The following table represents approximately 80% of Kaszek's 130+ known investme
 [^13]: TechCrunch, "Kaszek Ventures raises $600 million in two funds as Latin America's startup market booms," August 2019. https://techcrunch.com/2019/08/29/kaszek-ventures-raises-600-million-in-two-funds-as-latin-americas-startup-market-booms/
 [^14]: LAVCA, "Kaszek Ventures Leads a US$10m Series A in Colombian Proptech La Haus," June 2020. https://lavca.org/2020/06/16/kaszek-ventures-leads-a-us10m-series-a-in-colombian-proptech-la-haus/
 [^15]: Insignia Business Review, "Call #118: Kaszek Ventures Co-Founder and Managing Partner Hernan Kazah," March 2023. https://review.insignia.vc/2023/03/14/season-5-episode-7-call-118-kaszek-ventures-hernan-kazah/
+
+[^16]: Tech Funding News, "a16z co-leads Segura's $8M round to use WhatsApp for insurance distribution," April 27, 2026. https://techfundingnews.com/andreessen-horowitz-co-leads-seguras-8m-round-to-use-whatsapp-for-insurance-distribution/

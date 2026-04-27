@@ -259,8 +259,9 @@ The following table includes a16z investments verified through the firm's own po
 | GitButler | Series A | 2026 | Developer Tools / Version Control | Private [^29] |
 | Mintlify | Series B | 2026 | Developer Tools / Documentation | Private [^30] |
 | Ulysses | Series A | 2026 | Autonomous / Ocean Tech | Private [^31] |
+| Segura | Seed | 2026-04-27 | Insurtech / LatAm | Private [^32] |
 
-*Note: This table includes 71 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 72 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -381,3 +382,5 @@ The following table includes a16z investments verified through the firm's own po
 [^30]: Mintlify Blog, "Series B," April 14, 2026. https://www.mintlify.com/blog/series-b
 
 [^31]: The Irish Times, "Irish-founded Ulysses raises $38m in Series A funding," April 16, 2026. https://www.irishtimes.com/business/2026/04/16/irish-founded-ulysses-raises-38m-in-series-a-funding/
+
+[^32]: Tech Funding News, "a16z co-leads Segura's $8M round to use WhatsApp for insurance distribution," April 27, 2026. https://techfundingnews.com/andreessen-horowitz-co-leads-seguras-8m-round-to-use-whatsapp-for-insurance-distribution/

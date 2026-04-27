@@ -198,8 +198,9 @@ The following table includes notable investments verified through multiple sourc
 | Asana | Growth | ~2018 | Enterprise SaaS | Public (IPO 2020) [^3] |
 | Zynga | Early Stage | ~2008 | Gaming | Acquired by Take-Two (2022) [^3] |
 | Granola | Series C | 2026 | AI / Enterprise | Private [^30] |
+| Avoca | Series A | 2026 | AI / Vertical SaaS / Services Economy | Private [^31] |
 
-*Note: This table includes 60 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
+*Note: This table includes 61 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
 ## In Their Own Words
 
@@ -314,3 +315,5 @@ No independently sourced founder testimonials with direct quotes about the exper
 
 [^29]: "Harvey Raises $100M at a $1.5B Valuation Series C from Google Ventures, OpenAI, Kleiner Perkins, Sequoia Capital, Elad Gil, and SV Angel," The AI Insider, July 27, 2024. https://theaiinsider.tech/2024/07/27/harvey-raises-100m-at-a-1-5b-valuation-series-c-from-google-ventures-openai-kleiner-perkins-sequoia-capital-elad-gil-and-sv-angel/
 [^30]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c
+
+[^31]: Fortune, "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup," April 27, 2026. https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/
