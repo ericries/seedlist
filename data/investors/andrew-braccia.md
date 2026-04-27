@@ -81,11 +81,11 @@ The analysis below is based on 26 verified investments that can be specifically 
 | Squarespace | Series A | 2010 | Website Platform | IPO 2021 | [^11][^12] |
 | Lynda.com | Series A | 2012 | EdTech/Media | Acq. by LinkedIn | [^1][^9] |
 | Vox Media | Series D | 2015 | Media/Content | Active | [^1][^13] |
-~unknown| Cornershop | Growth | — | Marketplace | Acq. by Uber | [^1] |
+| Cornershop | Series B (led) | 2017 | Marketplace | Acq. by Uber | [^1][^16] |
 ~unknown| MyFitnessPal | Growth | — | Consumer Health | Acq. by Under Armour | [^1] |
 | Hotel Tonight | Series D | 2013 | Travel | Acq. by Airbnb 2019 | [^1][^14] |
-~unknown| Cloudera | Growth | — | Data/Enterprise | IPO | [^1] |
-~unknown| Anchor.fm | Growth | — | Media/Podcasting | Acq. by Spotify | [^1] |
+| Cloudera | Series A (led) | 2009 | Data/Enterprise | IPO | [^1][^17] |
+| Anchor.fm | Series A | 2017 | Media/Podcasting | Acq. by Spotify | [^1][^18] |
 ~unknown| Gametime | Growth | — | Consumer/Ticketing | Active | [^1] |
 ~unknown| UserTesting | Growth | — | Enterprise SaaS | IPO | [^1] |
 | PagerDuty | Series C | 2017 | Enterprise SaaS | IPO 2019 | [^1][^10][^15] |
@@ -138,3 +138,6 @@ No independently sourced founder testimonials found. Braccia maintains a low pub
 [^13]: "Vox Media Raises $200M From NBCUniversal," TechCrunch, August 12, 2015. https://techcrunch.com/2015/08/12/nbcuniversal-backs-vox-media/
 [^14]: "Last-Minute Booking App HotelTonight Raises $45M With An Eye On Continued Global Expansion," TechCrunch, September 5, 2013. https://techcrunch.com/2013/09/05/hoteltonight-series-d/
 [^15]: "PagerDuty raises $43.8 million to help businesses streamline digital operations," VentureBeat, April 13, 2017. https://venturebeat.com/2017/04/13/pagerduty-raises-43-8-million-to-help-businesses-streamline-digital-operations/
+[^16]: TechCrunch, "Cornershop, a grocery-delivery app in Chile and Mexico, raises $21M," May 7, 2017. https://techcrunch.com/2017/05/07/cornershop-a-grocery-delivery-app-in-chile-and-mexico-raises-21m/ — Series B led by Accel with Creandum, ALLVP, Jackson Square Ventures.
+[^17]: Cloudera press release, "Cloudera, the Commercial Hadoop Company, Announces $5 Million Series A Financing Led by Accel Partners," March 16, 2009. https://www.cloudera.com/about/news-and-blogs/press-releases/2009-03-16-cloudera-the-commercial-hadoop-company-announces-5-million-series-a-financing-led-by-accel-partners.html
+[^18]: Anchor blog (Medium), "Reinventing Audio with $10M in New Series A Funding, Led by GV," September 28, 2017. https://medium.com/anchor/reinventing-audio-with-10m-in-new-series-a-funding-led-by-gv-e77336748527 — Series A led by GV; Accel participated alongside The Chernin Group, Eniac Ventures, Homebrew, Craig Kallman.
