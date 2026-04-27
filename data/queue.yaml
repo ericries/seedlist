@@ -16896,7 +16896,7 @@ queue:
 - name: David Hirsch
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Compound
   discovered_from: michael-dempsey
@@ -17329,7 +17329,7 @@ queue:
 - name: Naveen Tewari
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: InMobi
   discovered_from: rohit-bansal
@@ -17775,3 +17775,162 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: kesha-cash
+- name: Marc Michel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Runway Venture Partners
+  discovered_from: david-hirsch
+- name: Runway Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-hirsch
+- name: Josh Nussbaum
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: david-hirsch
+- name: Achira
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-hirsch
+- name: Talkspace
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-hirsch
+- name: Indiegogo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-hirsch
+- name: Tapad
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-hirsch
+- name: InMobi
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Glance
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Mohit Saxena
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: InMobi
+  discovered_from: naveen-tewari
+- name: Amit Gupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: InMobi / Yulu
+  discovered_from: naveen-tewari
+- name: Abhay Singhal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: InMobi
+  discovered_from: naveen-tewari
+- name: Piyush Shah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: InMobi
+  discovered_from: naveen-tewari
+- name: NestAway
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Mettl
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Klub
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Factors.AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Bright Money
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Springboard
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Zimmber
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Piggy Ride
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Yulu
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-tewari
+- name: Ramakant Sharma
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Livspace
+  discovered_from: naveen-tewari
+- name: Anuj Srivastava
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Livspace
+  discovered_from: naveen-tewari
+- name: Rajesh Yabaji
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Blackbuck
+  discovered_from: naveen-tewari

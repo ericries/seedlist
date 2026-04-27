@@ -1,22 +1,29 @@
 ---
-name: "Kashable"
-slug: kashable
-type: startup
-website: "https://kashable.com"
-location: "New York, NY"
-founded: 2013
-status_company: active
-sector: [fintech, lending, employee-benefits, consumer-finance]
-stage_latest: "Series C"
-total_raised: "$450M+"
 firms:
-  - slug: revolution
-    round: series-c
-    year: 2026
-    date: 2026-04-27
-investors: []
-status: published
+- date: 2026-04-27
+  round: series-c
+  slug: revolution
+  year: 2026
+founded: 2013
+investors:
+- round: Series B
+  slug: steve-case
+  year: 2024
 last_researched: 2026-04-27
+location: New York, NY
+name: Kashable
+sector:
+- fintech
+- lending
+- employee-benefits
+- consumer-finance
+slug: kashable
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $450M+
+type: startup
+website: https://kashable.com
 ---
 
 ## About
