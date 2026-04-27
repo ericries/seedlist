@@ -93,7 +93,7 @@ Based on 20 verified investments, Yoo's actual portfolio reveals a strong focus 
 | Tennr | Series C | 2024 | Healthcare AI automation | [^26] |
 | Alchemy | Seed | 2024 | In-house pharmacy infrastructure | [^27] |
 | Counsel Health | Seed | 2024 | AI-powered medical care | [^28] |
-| Pearl Health | Unknown | ~2023 | Value-based care software | [^5] |
+| Pearl Health | Series B (a16z led) | 2023 | Value-based care software | [^5][^32] |
 | Aradigm | Series A | 2025 | Health insurance infrastructure | [^29] |
 | Counsel Health | Series A | 2025 | AI-powered medical care | [^30] |
 | TrueMed | Series A | 2025 | Preventative health fintech | [^9] |
@@ -158,3 +158,4 @@ No additional independently sourced founder testimonials found. Yoo is known acr
 [^29]: "Investing in Aradigm," Andreessen Horowitz announcement, accessed March 2026. https://a16z.com/announcement/investing-in-aradigm/
 [^30]: "Counsel Health Raises $25M to Launch Physician-Supervised AI Front Door for Healthcare," Yahoo Finance, November 2025. https://finance.yahoo.com/news/counsel-health-raises-25m-launch-120000414.html
 [^31]: "Opportunities in Healthcare: A Q&A With Julie Yoo," Andreessen Horowitz, March 2020. https://a16z.com/opportunities-in-healthcare-a-qa-with-julie-yoo/
+[^32]: PR Newswire, "Pearl Health raises $75M Series B led by a16z to accelerate growth and innovation in value-based care," January 26, 2023. https://www.prnewswire.com/news-releases/pearl-health-raises-75m-series-b-led-by-a16z-to-accelerate-growth-and-innovation-in-value-based-care-301730586.html — $55M equity + $20M credit; co-led by Andreessen Horowitz Growth Fund and Viking Global Investors.
