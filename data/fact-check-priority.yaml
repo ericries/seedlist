@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: sequoia-capital
+  type: firm
+  reason: "co-led Ineffable Intelligence Seed (2026-04-27)"
+  added: 2026-04-27
+- slug: index-ventures
+  type: firm
+  reason: "appeared in Ineffable Intelligence Seed (2026-04-27)"
+  added: 2026-04-27

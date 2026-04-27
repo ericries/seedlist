@@ -111,6 +111,46 @@ pending_rounds:
     AI robotics vision-language-action; customers BMW, Daimler Truck, PepsiCo, H&M;
     expanding to Boston US HQ; prior €25M Series A Jan 2026 led by Creandum included
     in funding history
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/27/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/
+  source: alleywatch
+  date_found: '2026-04-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: aggregator daily summary, not a single round; individual rounds
+    captured separately
+- title: Ineffable Intelligence lands historic $1.1 billion Seed round at $5.1 billion
+    valuation
+  url: https://www.eu-startups.com/2026/04/ineffable-intelligence-lands-historic-1-1-billion-seed-round-at-5-1-billion-valuation/
+  source: eu-startups
+  date_found: '2026-04-27'
+  parsed_company: Ineffable Intelligence
+  parsed_amount: $1.1B
+  parsed_round: Seed
+  status: processed
+  processed: '2026-04-27'
+  notes: created startup profile ineffable-intelligence.md; $1.1B Seed at $5.1B
+    valuation on 2026-04-27, co-led by Sequoia Capital and Lightspeed Venture
+    Partners, with Index Ventures, Google, Nvidia, DST Global, British Business
+    Bank, UK Sovereign AI Fund participating; UK AI lab founded by ex-DeepMind
+    researcher David Silver pursuing reinforcement-learning superintelligence;
+    updated sequoia-capital and index-ventures portfolios
+- title: Industrial cleaning robot developer KEMARO advances Series B with €4.2 million
+    pre-closing
+  url: https://www.eu-startups.com/2026/04/industrial-cleaning-robot-developer-kemaro-advances-series-b-with-e4-2-million-pre-closing/
+  source: eu-startups
+  date_found: '2026-04-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series B
+  status: processed
+  processed: '2026-04-27'
+  notes: created startup profile kemaro.md; $5M (~€4.2M) Series B pre-closing on
+    2026-04-23, total Series B target $20M, named investors not yet disclosed;
+    Swiss industrial cleaning robotics, founded 2016, expanding to US (Atlanta
+    subsidiary)
 - title: India’s Snabbit seeks fresh funding at a $400M valuation, sources say
   url: https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/
   source: techcrunch
@@ -1100,30 +1140,3 @@ pending_rounds:
   parsed_round: Series C
   status: processed
   notes: created startup profile terremoto-biosciences.md
-- title: Parasail raised $32M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Parasail
-  parsed_amount: $32M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile parasail.md
-- title: Spiral Therapeutics raised $27M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Spiral Therapeutics
-  parsed_amount: $27M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile spiral-therapeutics.md
-- title: Gizmo raised $22M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Gizmo
-  parsed_amount: $22M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile gizmo.md
