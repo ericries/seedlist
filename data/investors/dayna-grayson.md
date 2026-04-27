@@ -95,13 +95,13 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Swarm Aero | 2026 | Series A | UAV/drone swarms | [^27] |
 | Amca | 2025 | Series A | Aerospace/defense components | [^28] |
 | Sphere Semi | 2024 | Formation (led, $7.5M) | Analog chip design | [^1][^37] |
-| Advex | ~2023 | Unknown | Synthetic data | [^1] |
+| Advex | 2023 | Seed (co-led) | Synthetic data | [^1][^42] |
 | Didero | 2024 | Seed | Supply chain data/AI | [^1][^34] |
 | ChargeLab | 2021 | Seed (led) | EV infrastructure | [^1][^33] |
 | Kinetic | 2023 | Series A (co-led) | Auto repair/maintenance | [^1][^38] |
-| Nauta | ~2024 | Seed | AI logistics for importers | [^1] |
+| Nauta | 2025 | Seed (co-led) | AI logistics for importers | [^1][^44] |
 | Owlery | ~2023 | Unknown | Logistics automation | [^1] |
-| TimberEye | ~2023 | Unknown | Lumber supply chain | [^1] |
+| TimberEye | ~2024 | Seed (led) | Lumber supply chain | [^1][^43] |
 | WayTrade | ~2023 | Unknown | Renewable fuel trading | [^1] |
 | Amplio | 2022 | Seed (co-led) | Electronic component supply chain | [^1][^35] |
 | Folio | 2025 | Series A (co-led) | Hospitality marketplace | [^1][^40] |
@@ -208,3 +208,6 @@ No other independently sourced founder testimonials found. Firm website does not
 [^39]: PR Newswire, "Woflow Expands Data Infrastructure Powering Digital Transformation with $7.3M in Series A Funding," January 25, 2022. https://www.prnewswire.com/news-releases/woflow-expands-data-infrastructure-powering-digital-transformation-with-7-3m-in-series-a-funding-301467370.html — Series A co-led by Base10 Partners and Construct Capital.
 [^40]: BusinessWire, "Folio Raises $14M Series A to Transform Financial Operations at Hotels," July 17, 2025. https://www.businesswire.com/news/home/20250717100483/en/Folio-Raises-$14M-Series-A-to-Transform-Financial-Operations-at-Hotels — Series A co-led by Thrive Capital and Construct Capital.
 [^41]: PR Newswire, "Impilo Secures $11.5 Million in Series A Funding to Transform Healthcare Access Nationwide," November 14, 2024. https://www.prnewswire.com/news-releases/impilo-secures-11-5-million-in-series-a-funding-to-transform-healthcare-access-nationwide-302305504.html — Series A led by Construct Capital.
+[^42]: TechCrunch, "How Advex creates synthetic data to improve machine vision for manufacturers," October 28, 2024. https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/ — $3.1M Seed closed December 2023; total $3.6M with November 2024 extension. Construct Capital, Pear VC, and Emerson Collective participated.
+[^43]: TechCrunch, "Human composting and timber marketplaces: Talking 'industrial' VC with investor Dayna Grayson," May 4, 2024. https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/ — Construct Capital led TimberEye's seed round.
+[^44]: BusinessWire, "Nauta Raises $7M to Modernize Global Logistics with AI," August 25, 2025. https://www.businesswire.com/news/home/20250825792600/en/Nauta-Raises-$7M-to-Modernize-Global-Logistics-with-AI — Seed co-led by Construct Capital and Predictive.
