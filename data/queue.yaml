@@ -17448,7 +17448,7 @@ queue:
 - name: Iqram Magdon-Ismail
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Angel (Venmo co-founder)
   discovered_from: round-monitoring-2026-04-26
@@ -17480,7 +17480,7 @@ queue:
 - name: Jordan Nof
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tusk Ventures
   discovered_from: bradley-tusk
@@ -18001,3 +18001,220 @@ queue:
   firm: Hippo Insurance (angel investor)
   discovered_from: round-monitoring-2026-04-27
   source: angel in Segura $8M seed (2026-04-27)
+- name: Tusk Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tusk Venture Partners
+  discovered_from: jordan-nof
+- name: Yoni Rechtman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: jordan-nof
+- name: Harry Ritter
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Alma
+  discovered_from: jordan-nof
+- name: Michelle Davey
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Wheel
+  discovered_from: jordan-nof
+- name: Bo Jiang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lithic
+  discovered_from: jordan-nof
+- name: Coulter Lewis
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sunday
+  discovered_from: jordan-nof
+- name: Joseph Connor
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Odyssey
+  discovered_from: jordan-nof
+- name: Brian O'Malley
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Forerunner Ventures
+  discovered_from: jordan-nof
+- name: Ben Kohlmann
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cubit Capital
+  discovered_from: jordan-nof
+- name: Wheel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Wheel
+  discovered_from: jordan-nof
+- name: Sunday
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sunday
+  discovered_from: jordan-nof
+- name: Lithic
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lithic
+  discovered_from: jordan-nof
+- name: Elaborate
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Elaborate
+  discovered_from: jordan-nof
+- name: Cubit Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cubit Capital
+  discovered_from: jordan-nof
+- name: Andrew Kortina
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: iqram-magdon-ismail
+- name: Sam Lessin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: iqram-magdon-ismail
+- name: Raba Partnership
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Raba Partnership
+  discovered_from: iqram-magdon-ismail
+- name: Stitch
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Stitch
+  discovered_from: iqram-magdon-ismail
+- name: Flowhub
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Flowhub
+  discovered_from: iqram-magdon-ismail
+- name: Hatz AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hatz AI
+  discovered_from: iqram-magdon-ismail
+- name: Clyx
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Clyx
+  discovered_from: iqram-magdon-ismail
+- name: JellyJelly
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: JellyJelly
+  discovered_from: iqram-magdon-ismail
+- name: Ense
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Ense
+  discovered_from: iqram-magdon-ismail
+- name: Flutterwave
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Flutterwave
+  discovered_from: iqram-magdon-ismail
+- name: firstminute capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: firstminute capital
+  discovered_from: iqram-magdon-ismail
+- name: Vestigo Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Vestigo Ventures
+  discovered_from: iqram-magdon-ismail
+- name: Blitzscaling Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Blitzscaling Ventures
+  discovered_from: iqram-magdon-ismail
+- name: Greycroft
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Greycroft
+  discovered_from: iqram-magdon-ismail
+- name: Nico Rosberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: iqram-magdon-ismail
+- name: Matt Higgins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: RSE Ventures
+  discovered_from: iqram-magdon-ismail
+- name: Jon McNeill
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: DVx Ventures
+  discovered_from: iqram-magdon-ismail

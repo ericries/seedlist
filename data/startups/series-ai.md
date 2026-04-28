@@ -1,22 +1,32 @@
 ---
-name: "Series"
-slug: series-ai
-type: startup
-website: "https://series.so"
-location: "New York, NY"
-founded: 2025
-status_company: active
-sector: [ai, social, consumer, messaging]
-stage_latest: "Pre-Seed"
-total_raised: "$5.1M"
 firms:
-  - slug: pear-vc
-    round: pre-seed
-    year: 2026
-    date: 2026-04-24
-investors: []
-status: published
+- date: 2026-04-24
+  round: pre-seed
+  slug: pear-vc
+  year: 2026
+- round: Pre-seed
+  slug: independent
+  year: 2026
+founded: 2025
+investors:
+- round: Pre-seed
+  slug: iqram-magdon-ismail
+  year: 2026
 last_researched: 2026-04-26
+location: New York, NY
+name: Series
+sector:
+- ai
+- social
+- consumer
+- messaging
+slug: series-ai
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $5.1M
+type: startup
+website: https://series.so
 ---
 
 ## About

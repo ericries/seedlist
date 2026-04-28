@@ -1,18 +1,34 @@
 ---
-name: "Vinted"
-slug: vinted
-type: startup
-website: "https://www.vinted.com"
-location: "Vilnius, Lithuania"
+firms:
+- round: Series B
+  slug: fj-labs
+  year: 2014
+- round: ~2019
+  slug: insight-partners
+  year: 2019
 founded: 2008
-status_company: active
-sector: [marketplace, e-commerce, second-hand-fashion, consumer]
-stage_latest: "Secondary"
-total_raised: "€880M+ (secondary)"
-firms: []
-investors: []
-status: published
+investors:
+- round: Series B
+  slug: fabrice-grinda
+  year: 2014
+- round: ~2019
+  slug: deven-parekh
+  year: 2019
 last_researched: 2026-04-27
+location: Vilnius, Lithuania
+name: Vinted
+sector:
+- marketplace
+- e-commerce
+- second-hand-fashion
+- consumer
+slug: vinted
+stage_latest: Secondary
+status: published
+status_company: active
+total_raised: €880M+ (secondary)
+type: startup
+website: https://www.vinted.com
 ---
 
 ## About

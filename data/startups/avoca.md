@@ -1,28 +1,36 @@
 ---
-name: "Avoca"
-slug: avoca
-type: startup
-website: "https://www.avoca.ai"
-location: "New York, NY"
-founded: 2023
-status_company: active
-sector: [ai, vertical-saas, services-economy, voice-ai, ai-agents]
-stage_latest: "Series B"
-total_raised: "$125M+"
 firms:
-  - slug: kleiner-perkins
-    round: series-a
-    year: 2026
-  - slug: general-catalyst
-    round: series-b
-    year: 2026
-    date: 2026-04-27
-  - slug: y-combinator
-    round: seed
-    year: 2024
-investors: []
-status: published
+- round: series-a
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-04-27
+  round: series-b
+  slug: general-catalyst
+  year: 2026
+- round: seed
+  slug: y-combinator
+  year: 2024
+founded: 2023
+investors:
+- round: ~2022
+  slug: dalton-caldwell
+  year: 2022
 last_researched: 2026-04-27
+location: New York, NY
+name: Avoca
+sector:
+- ai
+- vertical-saas
+- services-economy
+- voice-ai
+- ai-agents
+slug: avoca
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $125M+
+type: startup
+website: https://www.avoca.ai
 ---
 
 ## About

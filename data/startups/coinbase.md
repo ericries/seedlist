@@ -157,6 +157,9 @@ investors:
 - round: Multiple rounds (Tusk participated; exited via direct listing 2021)
   slug: bradley-tusk
   year: 2017
+- round: Multiple rounds (Nof named as leading Tusk's involvement)
+  slug: jordan-nof
+  year: 2017
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase
