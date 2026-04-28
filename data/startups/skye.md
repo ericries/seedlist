@@ -1,0 +1,41 @@
+---
+name: "Skye"
+slug: skye
+type: startup
+website: ""
+location: "New York, NY"
+founded: 2025
+status_company: active
+sector: [ai, consumer, mobile, productivity]
+stage_latest: "Pre-Seed"
+total_raised: "$3.58M+"
+firms:
+  - slug: sv-angel
+    round: pre-seed
+    year: 2025
+investors: []
+status: published
+last_researched: 2026-04-28
+---
+
+## About
+
+Skye, built by New York-based Signull Labs, is a stealth iPhone home-screen app powered by AI, founded by Nirav Savjani (who operates publicly under the pseudonym "signüll") [^1]. As of the April 2026 announcement, the app was still in private testing with a waitlist of 25,000+ users [^1]. The pre-seed round closed in September 2025 at a $19.5M post-money valuation per PitchBook [^1].
+
+## Funding History
+
+| Date | Round | Amount | Lead | Co-investors |
+|------|-------|--------|------|--------------|
+| 2025-09 | Pre-Seed | $3.58M+ | Undisclosed | Andreessen Horowitz, True Ventures, SV Angel, Offline Ventures, individuals [^1] |
+
+## What Investors Say
+
+No independently sourced investor quotes found.
+
+## What Founders Say
+
+No independently sourced founder quotes found.
+
+## Sources
+
+[^1]: TechCrunch, "Investors back Skye's AI home screen app for iPhone ahead of launch," April 27, 2026. https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/

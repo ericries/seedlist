@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
+    over €75.2 million for quantum tech fund
+  url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
+  source: eu-startups
+  date_found: '2026-04-28'
+  parsed_company: Amsterdam’s QDNL Participations rebrands as Ground State Ventures,
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: VC fund close (€75.2M for quantum tech fund), not a startup funding
+    round
+- title: Berlin-based Patronus raises €11 million for senior-friendly emergency smartwatch
+    and family app
+  url: https://www.eu-startups.com/2026/04/berlin-based-patronus-raises-e11-million-for-senior-friendly-emergency-smartwatch-and-family-app/
+  source: eu-startups
+  date_found: '2026-04-28'
+  parsed_company: Berlin-based Patronus
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-04-28'
+  notes: created startup profile patronus.md; €11M round on 2026-04-28 led by 3TS
+    Capital Partners with Grazia Equity, Singular, Burda Principal Investments,
+    Adjacent, NAP, UVC Partners; Berlin eldertech smartwatch + family app; founded
+    2022 by Ben Staudt and Tim Wagner; profile includes prior €27M Series A from
+    October 2022 (UVC-led)
 - title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
     threat intelligence
   url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
@@ -1119,22 +1145,3 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: created startup profile sonire-therapeutics.md
-- title: an Atlanta-based surveillance tech company that raised $275M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Flock Safety
-  parsed_amount: $275M
-  parsed_round: null
-  status: skipped
-  skip_reason: Flock Safety eyeing new round per Axios scoop but not yet announced;
-    $275M was March 2025 Series F
-- title: Terremoto Biosciences raised $108M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Terremoto Biosciences
-  parsed_amount: $108M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile terremoto-biosciences.md
