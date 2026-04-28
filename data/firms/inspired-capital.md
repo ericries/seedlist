@@ -154,6 +154,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | 10Beauty | Growth | 2023 | Consumer / Beauty | Active | [^13] |
 | Archimetis | Early | 2024 | AI / Industrial | Active | [^13] |
 | MosaicML | Early | 2022 | AI / ML Infra | Exited | [^13] |
+| Windmill | Seed (led, $12M) | 2026 | AI / HR Tech | Active | [^33] |
 
 This table represents 66 Inspired Capital portfolio investments (excluding 7 pre-Inspired personal investments by partners). Where specific funding round dates were confirmed via press releases or Crunchbase, exact years are shown; remaining entries use the year listed on the firm's portfolio page or the company's earliest known funding year.
 
@@ -223,3 +224,4 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^30]: Finovate, "A First Look at Inspired Capital-Backed Orum," accessed April 2026. https://finovate.com/a-first-look-at-inspired-capital-backed-orum/
 [^31]: TechCrunch, "Paragon wants to be the Plaid of SaaS apps," July 27, 2022. https://techcrunch.com/2022/07/27/paragon-wants-to-be-the-plaid-of-saas-apps/
 [^32]: PRNewswire, "Regal.io raises $38.5M Series A from Emergence Capital," September 2022. https://www.prnewswire.com/news-releases/regalio-which-offers-event-driven-branded-phone-calls-for-online-brands-raises-38-5m-series-a-from-emergence-capital-301618957.html
+[^33]: PR Newswire, "Windmill, the AI Company That Bets on Humans, Raises $12M," April 28, 2026. https://www.prnewswire.com/news-releases/windmill-the-ai-company-that-bets-on-humans-raises-12m-302755153.html

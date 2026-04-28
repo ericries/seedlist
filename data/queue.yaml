@@ -16903,7 +16903,7 @@ queue:
 - name: Shelby Newsad
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Compound
   discovered_from: michael-dempsey
@@ -17082,7 +17082,7 @@ queue:
 - name: William Hockey
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Plaid
   discovered_from: mo-koyfman
@@ -18218,3 +18218,369 @@ queue:
   added: '2026-03-17'
   firm: DVx Ventures
   discovered_from: iqram-magdon-ismail
+- name: Briefly Bio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound-led $1.2M pre-seed, July 2024; Shelby Newsad on-record investor
+    quote
+- name: CellVoyant
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound participated in £7.6M seed Jan 2024; in Compound's bio portfolio
+- name: Pheiron
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound participated in seed alongside Hummingbird and Fusion Fund; Berlin-based
+    AI drug discovery
+- name: Polyphron
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound participated in seed; autonomous tissue foundry / iPSC grafts
+- name: Conception
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound on cap table; in-vitro gametogenesis (skin cells to eggs)
+- name: Pear Bio
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound participated in $14M Series A May 2023 (Octopus-led); functional
+    precision oncology
+- name: ImVitro
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound participated in $2.5M seed Dec 2022 (LDV Capital-led); AI for IVF
+- name: Red Queen Bio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Compound participated in OpenAI-led $15M seed Dec 2025; AI biosecurity
+- name: Hummingbird Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Shelby Newsad worked with this firm pre-Compound; co-invests on bio deals
+    like Pheiron
+- name: Ahren Innovation Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Shelby Newsad's prior firm; UK deep tech / life sciences
+- name: Start Codon
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Cambridge UK biotech accelerator; Shelby Newsad's prior firm
+- name: Octopus Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Frequent Compound bio co-investor (Pear Bio, CellVoyant)
+- name: Dimension
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Led Achira seed alongside Compound; bio-AI investor
+- name: Halcyon Futures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Co-invested with Compound on Red Queen Bio seed (OpenAI-led)
+- name: Tiny VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Co-invested with Compound on Briefly Bio pre-seed and ImVitro seed
+- name: Humba Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shelby-newsad
+  source: Co-invested with Compound on Polyphron seed; Leo Polovets is a frequent
+    network co-investor with Newsad
+- name: Ron Boger
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: shelby-newsad
+  source: Compound venture partner focused on Computational Biology
+- name: Celeste Holz-Schietinger
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Compound
+  discovered_from: shelby-newsad
+  source: Compound venture partner focused on Biology
+- name: Theofanis Karaletsos
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Achira
+  discovered_from: shelby-newsad
+  source: Co-founder of Achira (Compound portfolio); previously notable AI/bio researcher
+- name: Annie Hockey
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Column
+  discovered_from: william-hockey
+  source: Co-founder & Co-CEO of Column alongside husband William Hockey; Column is
+    100% founder/employee owned and bootstrapped
+- name: Column
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-hockey
+  source: Nationally chartered bank built for developers; founded 2021 by William
+    and Annie Hockey via $50M acquisition of Northern California National Bank; bootstrapped,
+    no outside investors but Hockey is a notable operator-angel investor associated
+    with this firm
+- name: Town
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-hockey
+  source: First Round-led $18M seed March 2025; William Hockey angel; SMB tax product
+- name: Maza
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-hockey
+  source: a16z-led $8M seed June 2023; William Hockey angel; immigrant fintech (now
+    exited via acquisition April 2025)
+- name: Spenmo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-hockey
+  source: Salesforce Ventures-led $34M Series A; William Hockey angel; Singapore-based
+    B2B payments
+- name: Boom
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-hockey
+  source: $4.5M seed May 2023; William Hockey angel; rent reporting fintech
+- name: David Haber
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: william-hockey
+  source: Former Spark Capital, met Plaid founders in 2013 alongside Mo Koyfman; now
+    at a16z
+- name: Alkeon
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Actively Series B; growth crossover firm
+- name: Mihir Garimella
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Actively
+  discovered_from: actively
+  source: CEO and co-founder of Actively (NYC, AI/sales, $45M Series B 2026-04-28)
+- name: Anshul Gupta
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Actively
+  discovered_from: actively
+  source: Co-founder of Actively (NYC, AI/sales, $45M Series B 2026-04-28)
+- name: Morgan Gerlak
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: TCV
+  discovered_from: actively
+  source: TCV partner who led Actively Series B; quoted on the deal
+- name: Alexandria Venture Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Fathom Therapeutics Series A; biotech-focused life-sciences
+    investor
+- name: Empire State Development NY Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Fathom Therapeutics Series A; New York state venture arm
+- name: Keith Loebner
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sutter Hill Ventures
+  discovered_from: fathom-therapeutics
+  source: Sutter Hill partner quoted on Fathom Therapeutics Series A
+- name: Huafeng Xu
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fathom Therapeutics
+  discovered_from: fathom-therapeutics
+  source: CEO and co-founder of Fathom Therapeutics; computational chemistry / drug-discovery
+    scientist
+- name: Thomson Reuters Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Zamp $30M round (2026-04-28); corporate VC arm
+- name: 20Growth
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Zamp $30M round
+- name: Friends & Family Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Zamp $30M round
+- name: Rohit Bhadange
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Zamp
+  discovered_from: zamp
+  source: Founder & CEO of Zamp ($30M round 2026-04-28); sales tax compliance
+- name: Left Lane Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Co-led Liquid $18M seed (2026-04-28); growth-stage NYC firm
+- name: K5 Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Liquid $18M seed; multi-stage investor
+- name: AntiFund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Liquid $18M seed; Mr. Beast / Jimmy Donaldson-affiliated
+    fund
+- name: Sunflower Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Liquid $18M seed
+- name: Franklyn Wang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Liquid
+  discovered_from: liquid
+  source: Founder & CEO of Liquid; ex-Two Sigma quant; Harvard graduate
+- name: Primary Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Windmill $12M seed (2026-04-28); NYC seed firm
+- name: Oceans Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-28
+  source: Participated in Windmill $12M seed
+- name: Brian Distelburger
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Windmill
+  discovered_from: windmill
+  source: Co-founder of Windmill; previously Yext co-founder
+- name: Max Shaw
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Windmill
+  discovered_from: windmill
+  source: Co-founder of Windmill (workforce intelligence)
+- name: Mark Tanner
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Windmill
+  discovered_from: windmill
+  source: Co-founder of Windmill (workforce intelligence)

@@ -182,6 +182,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Trustar | Early | ~2019 | Data & Security | Active | [^12] |
 | Vanta | Growth | ~2022 | Data & Security | Active | [^12] |
 | Writer | Early–Growth | ~2021 | Data & Security / AI | Active (Unicorn 2024) | [^13] |
+| Zamp | Growth ($30M, led) | 2026 | Fintech / Sales Tax | Active | [^25] |
 
 Note: Years marked with "~" are approximate, based on founding year or estimated investment timing. Many investments originated at Aspect Ventures (pre-2019) and were continued at Acrew. This table represents approximately 46% of Tracxn's reported 142 investments; the remainder could not be independently verified from public sources.
 
@@ -241,3 +242,4 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^22]: Aira Technologies press release, "Aira Technologies Raises $14.5 Million Series B From AT&T Ventures, Intel Capital and In-Q-Tel (IQT)," November 20, 2024. https://aira-technology.com/aira-technologies-raises-14-5-million-series-b-from-att-ventures-intel-capital-and-in-q-tel-iqt-to-accelerate-ran-automation-using-genai/
 [^23]: Pulse2, "Alix: $20 Million Series A Closed For Transforming Estate Settlement," July 22, 2025. https://pulse2.com/alix-20-million-series-a-closed-for-transforming-estate-settlement/
 [^24]: TechCrunch, "Chime backer Lauren Kolodny bets on AI to revolutionize estate processing," July 24, 2025. https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/
+[^25]: AlleyWatch, "Zamp Raises $30M to Scale AI-Driven Sales Tax Compliance Across 12,000+ Jurisdictions," April 28, 2026. https://alleywatch.com/2026/04/zamp-ai-sales-tax-compliance-platform-multi-jurisdiction-rohit-bhadange/

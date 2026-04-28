@@ -58,6 +58,9 @@ firms:
 - round: Seed (Spark-era, led)
   slug: shine-capital
   year: 2013
+- round: Seed (Spark led)
+  slug: column
+  year: 2013
 founded: 2013
 founders:
 - name: Zach Perret
@@ -109,6 +112,9 @@ investors:
   year: 2013
 - round: Seed (Spark-era, led)
   slug: mo-koyfman
+  year: 2013
+- round: Seed (Spark led)
+  slug: william-hockey
   year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA

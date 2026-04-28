@@ -122,6 +122,7 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Trade Republic | Series C | 2021 | Fintech | Private [^3] |
 | Strava | Growth | 2020s | Consumer/Fitness | Private [^7] |
 | Grow Therapy | Series B, D (co-led) | 2023, 2026 | Healthcare/Mental Health | Private [^9] |
+| Actively | Series B (co-led) | 2026 | AI/Sales | Private [^10] |
 
 This table represents a small fraction of TCV's 350+ total investments [^4]. The firm's portfolio page lists over 100 current and former portfolio companies [^7].
 
@@ -152,3 +153,4 @@ No independently sourced founder testimonials found. TCV's portfolio founders ha
 [^7]: TCV website, "All Companies" portfolio page, accessed March 2026. https://www.tcv.com/all-companies
 [^8]: "Jay Hoag - Keys to Successful Growth Investing," Invest Like the Best podcast with Patrick O'Shaughnessy, accessed March 2026. https://podcasts.apple.com/us/podcast/jay-hoag-keys-to-successful-growth-investing/id1154105909?i=1000713216815
 [^9]: "Grow Therapy Raises $150 Million in Series D as It Solidifies New Flagship Partnerships." PR Newswire, March 3, 2026. https://www.prnewswire.com/news-releases/grow-therapy-raises-150-million-in-series-d-as-it-solidifies-new-flagship-partnerships-302702388.html
+[^10]: National Law Review, "Actively Raises $45M Series B to Scale Intelligence-Led Revenue Platform," April 28, 2026. https://natlawreview.com/press-releases/actively-raises-45m-series-b-scale-intelligence-led-revenue-platform

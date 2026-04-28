@@ -6,12 +6,18 @@ firms:
 - round: Series C
   slug: ribbit-capital
   year: 2026
+- round: Seed + Series A (NEA led)
+  slug: column
+  year: 2023
 founded: null
 founders: []
 investors:
 - round: Series C
   slug: micky-malka
   year: 2026
+- round: Seed + Series A (NEA led)
+  slug: william-hockey
+  year: 2023
 last_researched: 2026-04-16
 location: San Francisco, CA
 name: Slash

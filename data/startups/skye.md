@@ -1,21 +1,31 @@
 ---
-name: "Skye"
-slug: skye
-type: startup
-website: ""
-location: "New York, NY"
-founded: 2025
-status_company: active
-sector: [ai, consumer, mobile, productivity]
-stage_latest: "Pre-Seed"
-total_raised: "$3.58M+"
 firms:
-  - slug: sv-angel
-    round: pre-seed
-    year: 2025
-investors: []
-status: published
+- round: pre-seed
+  slug: sv-angel
+  year: 2025
+- round: Seed
+  slug: transition-vc
+  year: 2024
+founded: 2025
+investors:
+- round: Seed
+  slug: david-helgason
+  year: 2024
 last_researched: 2026-04-28
+location: New York, NY
+name: Skye
+sector:
+- ai
+- consumer
+- mobile
+- productivity
+slug: skye
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $3.58M+
+type: startup
+website: ''
 ---
 
 ## About

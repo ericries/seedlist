@@ -115,6 +115,7 @@ Despite investing across many sectors, Neo does not publicly emphasize any secto
 | Sapien | Seed | 2024 | AI / Finance | Active | [^20] |
 | Anterior | Seed | ~2023 | AI / Healthcare | Active | [^21] |
 | Chord | Seed | 2022 | AI / Product Research | Active | [^18] |
+| Liquid | Seed (co-led, $18M) | 2026 | Fintech / Trading | Active | [^24] |
 
 This table represents approximately 14% of Neo's reported 163 investments [^3]. Many investments, particularly from the accelerator cohorts (2022-2025), could not be individually verified with primary sources.
 
@@ -181,3 +182,4 @@ Note: The Trueba, Roselle, and Wu quotes are from Neo's own Substack announcemen
 [^21]: The SaaS News, "Anterior Raises $20 Million in Series A," 2024. https://www.thesaasnews.com/news/anterior-raises-20-million-in-series-a
 [^22]: Neo Substack, "Neo's newest partner," by Ali Partovi, January 2025. https://neo.substack.com/p/neos-newest-partner
 [^23]: Boring Business Nerd, "Olivia Li on the Neo Accelerator," accessed April 2026. https://www.boringbusinessnerd.com/post/olivia-li-on-the-neo-accelerator
+[^24]: PR Newswire, "24/7 Trading Platform, Liquid, Closes $18 Million Funding Round," April 28, 2026. https://www.prnewswire.com/news-releases/247-trading-platform-liquid-closes-18-million-funding-round-302754621.html

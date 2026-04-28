@@ -20,6 +20,9 @@ firms:
   slug: y-combinator
   year: 2026
 - slug: menlo-ventures
+- round: Seed + Series A (NEA led)
+  slug: column
+  year: 2023
 founded: 2021
 founders:
 - name: Victor Cardenas
@@ -30,6 +33,9 @@ investors:
 - round: Series C
   slug: micky-malka
   year: 2026
+- round: Seed + Series A (NEA led)
+  slug: william-hockey
+  year: 2023
 last_researched: 2026-04-17
 location: San Francisco, California
 name: Slash

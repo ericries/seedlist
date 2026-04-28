@@ -79,6 +79,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | Serval | Series A | 2025 | AI | [^4] |
 | Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
 | ComfyUI | Series A | 2026 | AI / Generative Media | [^12] |
+| Fathom Therapeutics | Series A | 2026 | Biotech / AI Drug Discovery | [^13] |
 
 Note: This table represents Chemistry's investments since its October 2024 launch. The partners' extensive pre-Chemistry portfolios at Bessemer, a16z, and Index (including PagerDuty, Intercom, Plaid, Persona, Twitch, LaunchDarkly, ServiceTitan, and others) are attributed to their prior firms.
 
@@ -116,3 +117,4 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^10]: Chemistry blog, "Staying ahead of the curve: Our Series A in Datacurve," accessed March 2026. https://www.chemistry.vc/post/staying-ahead-of-the-curve
 [^11]: Decagon blog, "Decagon's $250 million commitment to the AI concierge future," January 28, 2026, accessed March 2026. https://decagon.ai/resources/series-d-announcement
 [^12]: TechCrunch, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media," April 24, 2026. https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/
+[^13]: PR Newswire, "Fathom Therapeutics, Formerly Atommap, Raises $47 Million in Oversubscribed Series A Financing," April 27, 2026. https://www.prnewswire.com/news-releases/fathom-therapeutics-formerly-atommap-raises-47-million-in-oversubscribed-series-a-financing-to-translate-physics-and-ai-enabled-small-molecule-design-into-next-generation-medicines-302754272.html
