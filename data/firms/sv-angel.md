@@ -130,12 +130,12 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Google | Angel | ~1999 | Consumer Internet | Public (IPO 2004) [^3] |
+| Google | Angel | 1998 | Consumer Internet | Public (IPO 2004) [^3][^33] |
 | Meta (Facebook) | Seed | ~2005 | Consumer Internet / Social | Public (IPO 2012) [^3][^4] |
-| Twitter | Seed | ~2006 | Consumer Internet / Social | Acquired (2022) [^3][^4] |
+| Twitter | Series A | 2007 | Consumer Internet / Social | Acquired (2022) [^3][^4][^34] |
 | Reddit | Seed | ~2005 (founded) | Consumer Internet / Social | Public (IPO 2024) [^22] |
 | Eventbrite | Seed | ~2006 (founded) | Consumer Internet | Public (IPO 2018) [^22] |
-| Dropbox | Seed | ~2007 (founded) | Enterprise / Cloud | Public (IPO 2018) [^22] |
+| Dropbox | Series A | 2008 | Enterprise / Cloud | Public (IPO 2018) [^22][^35] |
 | GitHub | Series A | 2012 | Developer Tools | Acquired by Microsoft (2018) [^22][^30] |
 | Asana | Seed | ~2008 (founded) | Enterprise SaaS | Public (IPO 2020) [^22] |
 | Airbnb | Seed | ~2009 | Marketplace | Public (IPO 2020) [^3][^23] |
@@ -416,3 +416,9 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^31]: VatorNews, "When Square was young: the early years," October 2016. https://vator.tv/2016-10-26-when-square-was-young-the-early-years/ — November 2009 $10M Series A led by Khosla Ventures with First Round Capital and angel investors including Ron Conway/SV Angel; Crunchbase records the round date as 2009-11-01.
 
 [^32]: Bessemer Venture Partners, "Pinterest IPO — Jeremy Levine's backstory on Pinterest from Series A to IPO," accessed April 2026. https://www.bvp.com/atlas/pinterest-ipo — May 2011 $10M Series A led by Bessemer Venture Partners with SV Angel co-investing at $40M valuation.
+
+[^33]: Ron Conway angel investment in Google, 1998 (predating the June 7, 1999 $25M Series A from Kleiner Perkins and Sequoia which Conway helped broker). Wikipedia "Ron Conway" and historical accounts of Google's funding confirm Conway as part of the 1998 angel round that totaled approximately $1M from friends, family, and angels. https://en.wikipedia.org/wiki/Ron_Conway
+
+[^34]: TechCrunch, "More Information On That Secretive Twitter Financing," July 29, 2007. https://techcrunch.com/2007/07/29/more-information-on-that-secretive-twitter-financing/ — Series A led by Union Square Ventures with Charles River Ventures; Ron Conway, Naval Ravikant, Marc Andreessen, and Dick Costolo participated as angels.
+
+[^35]: TechCrunch, "Dropbox Raised $6 Million Sequoia-Led Series A In October 2008," November 24, 2009. https://techcrunch.com/2009/11/24/dropbox-sequoia-funding/ — Series A led by Sequoia Capital with Accel participating; SV Angel was an early investor in Dropbox prior to the Sequoia-led Series A.
