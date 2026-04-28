@@ -54,7 +54,49 @@ pending_rounds:
   parsed_company: Copenhagen’s Performativ
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-28'
+  notes: created startup profile performativ.md (also covers GlobeNewswire announcement);
+    $14M Series A on 2026-04-28 led by Deutsche Börse Group with Rabo Investments,
+    Jacob Dahl, FinTech Collective, EIFO; Copenhagen wealth-management OS
+- title: Performativ Raises $14M Series A Led by Deutsche Börse Group to Power the
+    Next Era of Wealth Management
+  url: https://www.globenewswire.com/news-release/2026/04/28/3282632/0/en/Performativ-Raises-14M-Series-A-Led-by-Deutsche-B%C3%B6rse-Group-to-Power-the-Next-Era-of-Wealth-Management.html
+  source: globenewswire
+  date_found: '2026-04-28'
+  parsed_company: Performativ
+  parsed_amount: $14M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-04-28'
+  notes: covered by performativ.md startup profile; same announcement as
+    eu-startups entry above (primary press)
+- title: British e-bike operator Forest secures further €31 million to expand shared
+    e-bike operations in London
+  url: https://www.eu-startups.com/2026/04/british-e-bike-operator-forest-secures-further-e31-million-to-expand-shared-e-bike-operations-in-london/
+  source: eu-startups
+  date_found: '2026-04-28'
+  parsed_company: British e-bike operator Forest
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: structure is mostly asset-backed lending and minority equity stake
+    from manufacturer OKAI rather than a clean startup VC round; multi-party
+    financing makes lead investor unclear
+- title: Stockholm’s Redpine raises €6.8 million to unlock licensed premium data for
+    AI agents
+  url: https://www.eu-startups.com/2026/04/stockholms-redpine-raises-e6-8-million-to-unlock-licensed-premium-data-for-ai-agents/
+  source: eu-startups
+  date_found: '2026-04-28'
+  parsed_company: Stockholm’s Redpine
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-04-28'
+  notes: created startup profile redpine.md; €6.8M Seed on 2026-04-28 led by
+    NordicNinja with Luminar Ventures and node.vc; Stockholm-based licensed-data
+    API for AI agents; founded 2024 by Anders Hammarbäck and David Österdahl;
+    profile includes prior €1.1M Sept 2025 pre-seed
 - title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
     threat intelligence
   url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
@@ -1115,33 +1157,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created startup profile lua-ai.md; London-based, led by Norrsken22
-- title: NOC Energy raised $2.7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: NOC Energy
-  parsed_amount: $2.7M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile noc-energy.md; France-based, led by 360 Capital
-- title: 'The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The
-    Lead'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/
-  source: crunchbase
-  date_found: '2026-04-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted 10 rounds from weekly roundup; created profiles for glydways, zum,
-    neye-ai, turion-space; slate-auto, factory, neomorph, slash-fintech, beeline-medicines
-    already had profiles; also created nas-com, k1x, wealth-com from additional searches
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/17/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-17-2026/
-  source: alleywatch
-  date_found: '2026-04-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted Zenskar $15M Series A (already profiled as zenskar.md)
