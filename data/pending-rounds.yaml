@@ -42,10 +42,19 @@ pending_rounds:
   status: processed
   processed: '2026-04-28'
   notes: created startup profile patronus.md; €11M round on 2026-04-28 led by 3TS
-    Capital Partners with Grazia Equity, Singular, Burda Principal Investments,
-    Adjacent, NAP, UVC Partners; Berlin eldertech smartwatch + family app; founded
-    2022 by Ben Staudt and Tim Wagner; profile includes prior €27M Series A from
-    October 2022 (UVC-led)
+    Capital Partners with Grazia Equity, Singular, Burda Principal Investments, Adjacent,
+    NAP, UVC Partners; Berlin eldertech smartwatch + family app; founded 2022 by Ben
+    Staudt and Tim Wagner; profile includes prior €27M Series A from October 2022
+    (UVC-led)
+- title: Copenhagen’s Performativ raises €11.9 million Series A to scale its AI-native
+    wealth management operating system
+  url: https://www.eu-startups.com/2026/04/copenhagens-performativ-raises-e14-million-series-a-to-scale-its-ai-native-wealth-management-operating-system/
+  source: eu-startups
+  date_found: '2026-04-28'
+  parsed_company: Copenhagen’s Performativ
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
     threat intelligence
   url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
@@ -1136,12 +1145,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: extracted Zenskar $15M Series A (already profiled as zenskar.md)
-- title: Axios Sonire Therapeutics raised $18M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-16'
-  parsed_company: Sonire Therapeutics
-  parsed_amount: $18M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile sonire-therapeutics.md
