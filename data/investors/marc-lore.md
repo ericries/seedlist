@@ -75,7 +75,7 @@ This table includes 8 verified investments. Lore's portfolio is small relative t
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Mealplanet | Seed | 2024 | Food Tech | Active | [^12] |
-| Tracer | Unknown | 2023 | E-Commerce Analytics | Active | [^13] |
+| Tracer | Series A (via VCP Ventures) | 2023 | E-Commerce Analytics | Active | [^13][^15] |
 | Archer Aviation | PIPE/Growth | 2021 | eVTOL / Aerospace | Active (NYSE: ACHR) | [^9] |
 | Tornado (Mojo) | Seed | 2021 | Sports Fintech | Active | [^1] |
 | NOW//with | Seed | 2021 | E-Commerce / Social | Active | [^5] |
@@ -129,3 +129,4 @@ No independently sourced founder testimonials found. Gwyneth Paltrow has describ
 [^12]: CBInsights / Tracxn, "Marc Lore Portfolio Investments," accessed March 2026. https://www.cbinsights.com/investor/marc-lore
 [^13]: LinkedIn post by Marc Lore sharing Tracer investment announcement, 2023, accessed March 2026. https://www.linkedin.com/posts/marclore_exclusive-kevin-durant-alex-rodriguez-backed-activity-7075601574907006976-7Cq4
 [^14]: Retail Technology Innovation Hub, "Marc Lore tells startup founders: 'you have to be all in,'" February 2021, accessed March 2026. https://retailtechinnovationhub.com/home/2021/2/2/marc-lore-tells-startup-founders-you-have-to-be-all-in
+[^15]: PR Newswire, "Tracer Closes $18.1M Oversubscribed Series A Funding, Names John Sheehy to Board," August 10, 2023. https://www.prnewswire.com/news-releases/tracer-closes-18-1m-oversubscribed-series-a-funding-names-john-sheehy-to-board-301898342.html — Series A co-led by NewRoad Capital Partners, Progress Ventures, and BDMI; Marc Lore's VCP Ventures participated.
