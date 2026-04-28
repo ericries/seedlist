@@ -69,8 +69,8 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   processed: '2026-04-28'
-  notes: covered by performativ.md startup profile; same announcement as
-    eu-startups entry above (primary press)
+  notes: covered by performativ.md startup profile; same announcement as eu-startups
+    entry above (primary press)
 - title: British e-bike operator Forest secures further €31 million to expand shared
     e-bike operations in London
   url: https://www.eu-startups.com/2026/04/british-e-bike-operator-forest-secures-further-e31-million-to-expand-shared-e-bike-operations-in-london/
@@ -81,8 +81,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: structure is mostly asset-backed lending and minority equity stake
-    from manufacturer OKAI rather than a clean startup VC round; multi-party
-    financing makes lead investor unclear
+    from manufacturer OKAI rather than a clean startup VC round; multi-party financing
+    makes lead investor unclear
 - title: Stockholm’s Redpine raises €6.8 million to unlock licensed premium data for
     AI agents
   url: https://www.eu-startups.com/2026/04/stockholms-redpine-raises-e6-8-million-to-unlock-licensed-premium-data-for-ai-agents/
@@ -93,10 +93,10 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed: '2026-04-28'
-  notes: created startup profile redpine.md; €6.8M Seed on 2026-04-28 led by
-    NordicNinja with Luminar Ventures and node.vc; Stockholm-based licensed-data
-    API for AI agents; founded 2024 by Anders Hammarbäck and David Österdahl;
-    profile includes prior €1.1M Sept 2025 pre-seed
+  notes: created startup profile redpine.md; €6.8M Seed on 2026-04-28 led by NordicNinja
+    with Luminar Ventures and node.vc; Stockholm-based licensed-data API for AI agents;
+    founded 2024 by Anders Hammarbäck and David Österdahl; profile includes prior
+    €1.1M Sept 2025 pre-seed
 - title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
     threat intelligence
   url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
