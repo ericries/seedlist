@@ -136,12 +136,12 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 | Reddit | Seed | ~2005 (founded) | Consumer Internet / Social | Public (IPO 2024) [^22] |
 | Eventbrite | Seed | ~2006 (founded) | Consumer Internet | Public (IPO 2018) [^22] |
 | Dropbox | Seed | ~2007 (founded) | Enterprise / Cloud | Public (IPO 2018) [^22] |
-| GitHub | Seed | ~2008 (founded) | Developer Tools | Acquired by Microsoft (2018) [^22] |
+| GitHub | Series A | 2012 | Developer Tools | Acquired by Microsoft (2018) [^22][^30] |
 | Asana | Seed | ~2008 (founded) | Enterprise SaaS | Public (IPO 2020) [^22] |
 | Airbnb | Seed | ~2009 | Marketplace | Public (IPO 2020) [^3][^23] |
-| Square | Seed | ~2009 | Fintech | Public (IPO 2015) [^3][^4] |
+| Square | Series A | 2009 | Fintech | Public (IPO 2015) [^3][^4][^31] |
 | Okta | Seed | ~2009 (founded) | Enterprise SaaS | Public (IPO 2017) [^22] |
-| Pinterest | Seed | ~2010 | Consumer Internet / Social | Public (IPO 2019) [^3][^4] |
+| Pinterest | Series A | 2011 | Consumer Internet / Social | Public (IPO 2019) [^3][^4][^32] |
 | Credit Karma | Seed | ~2007 (founded) | Consumer Fintech | Acquired by Intuit (2020) [^22] |
 | Warby Parker | Seed | ~2010 (founded) | E-commerce | Public (IPO 2021) [^22] |
 | Stripe | Seed | ~2011 | Fintech / Payments | Private [^22] |
@@ -410,3 +410,9 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^28]: "Ron Conway Explained." Andreessen Horowitz (a16z). https://a16z.com/ron-conway-explained/. Accessed March 2026.
 
 [^29]: "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement." TechCrunch, March 5, 2026. https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/
+
+[^30]: TechCrunch, "GitHub Pours Energies into Enterprise — Raises $100 Million From Power VC Andreessen Horowitz," July 9, 2012. https://techcrunch.com/2012/07/09/github-pours-energies-into-enterprise-raises-100-million-from-power-vc-andreesen-horowitz/ — Series A led by a16z at $750M valuation; SV Angel participated.
+
+[^31]: VatorNews, "When Square was young: the early years," October 2016. https://vator.tv/2016-10-26-when-square-was-young-the-early-years/ — November 2009 $10M Series A led by Khosla Ventures with First Round Capital and angel investors including Ron Conway/SV Angel; Crunchbase records the round date as 2009-11-01.
+
+[^32]: Bessemer Venture Partners, "Pinterest IPO — Jeremy Levine's backstory on Pinterest from Series A to IPO," accessed April 2026. https://www.bvp.com/atlas/pinterest-ipo — May 2011 $10M Series A led by Bessemer Venture Partners with SV Angel co-investing at $40M valuation.
