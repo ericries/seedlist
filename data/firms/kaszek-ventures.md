@@ -99,8 +99,8 @@ The following table represents approximately 80% of Kaszek's 130+ known investme
 | Nubank | Pre-Seed | 2013 | Fintech | IPO (NYSE, 2021) [^2][^6] |
 | QuintoAndar | Series A | 2015 | Proptech | Active [^12] |
 | Kavak | Early | 2016 | E-commerce/Marketplaces | Active [^6] |
-| Creditas | Early | ~2015 | Fintech | Active [^6] |
-| NuvemShop | Early | ~2014 | E-commerce/SaaS | Active [^6] |
+| Creditas | Series A | 2015 | Fintech | Active [^6][^17] |
+| NuvemShop | Series A | 2014 | E-commerce/SaaS | Active [^6][^18] |
 | Bitso | Early | ~2016 | Crypto/Fintech | Active [^6] |
 | Wellhub (Gympass) | Early | ~2014 | Healthtech/HR | Active [^6] |
 | NotCo | Early | ~2017 | Foodtech | Active [^6] |
@@ -200,3 +200,7 @@ The following table represents approximately 80% of Kaszek's 130+ known investme
 [^15]: Insignia Business Review, "Call #118: Kaszek Ventures Co-Founder and Managing Partner Hernan Kazah," March 2023. https://review.insignia.vc/2023/03/14/season-5-episode-7-call-118-kaszek-ventures-hernan-kazah/
 
 [^16]: Tech Funding News, "a16z co-leads Segura's $8M round to use WhatsApp for insurance distribution," April 27, 2026. https://techfundingnews.com/andreessen-horowitz-co-leads-seguras-8m-round-to-use-whatsapp-for-insurance-distribution/
+
+[^17]: TechCrunch, "Brazilian startup Creditas is revolutionizing credit in the world's third largest lending market," December 12, 2017. https://techcrunch.com/2017/12/12/brazilian-startup-creditas-is-revolutionizing-credit-in-the-worlds-third-largest-lending-market/ — Kaszek Ventures first invested in Creditas at Series A in August 2015 and continued through Series B (2017) and Series C (2018).
+
+[^18]: LAVCA, "Tienda Nube Tackles E-commerce with US$7m Series B from Elevar Equity, IGNIA, KaszeK Ventures," 2015. https://www.lavca.org/feature/tienda-nube-tackles-e-commerce-with-us7m-series-b-from-elevar-equity-ignia-kaszek-ventures/ — Kaszek Ventures led NuvemShop/Tiendanube's $2.75M Series A in late 2014 and participated in the $7M Series B in 2015.

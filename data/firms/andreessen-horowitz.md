@@ -198,7 +198,7 @@ The following table includes a16z investments verified through the firm's own po
 | Stripe | Growth | 2014 | Fintech / Payments | Private [^10] |
 | Databricks | Series A | 2013 | Enterprise / Data & AI | Private [^10] |
 | Instacart | Growth | 2014 | Marketplace / Delivery | Public (IPO 2023) [^10] |
-| Figma | Seed | ~2013 (founded) | Developer Tools / Design | Public (IPO 2025) [^10] |
+| Figma | Series D (led) | 2020 | Developer Tools / Design | Public (IPO 2025) [^10][^33] |
 | Affirm | Growth | 2016 | Fintech / Lending | Public (IPO 2021) [^10] |
 | Asana | Growth | 2016 | Enterprise SaaS | Public (IPO 2020) [^10] |
 | DoorDash | Growth | 2018 | Marketplace / Delivery | Public (IPO 2020) [^10] |
@@ -384,3 +384,5 @@ The following table includes a16z investments verified through the firm's own po
 [^31]: The Irish Times, "Irish-founded Ulysses raises $38m in Series A funding," April 16, 2026. https://www.irishtimes.com/business/2026/04/16/irish-founded-ulysses-raises-38m-in-series-a-funding/
 
 [^32]: Tech Funding News, "a16z co-leads Segura's $8M round to use WhatsApp for insurance distribution," April 27, 2026. https://techfundingnews.com/andreessen-horowitz-co-leads-seguras-8m-round-to-use-whatsapp-for-insurance-distribution/
+
+[^33]: TechCrunch, "Figma raises $50 million Series D led by Andreessen Horowitz," April 30, 2020. https://techcrunch.com/2020/04/30/figma-raises-50-million-series-d-led-by-andreessen-horowitz/ — a16z's first Figma investment was the April 30, 2020 $50M Series D, led by Peter Levine.
