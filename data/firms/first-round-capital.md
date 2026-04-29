@@ -133,6 +133,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Rillet | Seed | ~2023 | Accounting SaaS | Active | [^1] |
 | Omni | Seed | ~2023 | Enterprise | Active | [^1] |
 | Actively | Series B | 2026 | AI / Sales | Active | [^9] |
+| Manifest OS | Series A | 2026 | LegalTech / AI | Active | [^10] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -165,3 +166,4 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^7]: First Round Capital website, homepage, accessed March 2026. https://www.firstround.com/
 [^8]: TechCrunch, "UberCab Closes Uber Angel Round," October 15, 2010. https://techcrunch.com/2010/10/15/ubercab-closes-uber-angel-round/
 [^9]: National Law Review, "Actively Raises $45M Series B to Scale Intelligence-Led Revenue Platform," April 28, 2026. https://natlawreview.com/press-releases/actively-raises-45m-series-b-scale-intelligence-led-revenue-platform
+[^10]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/

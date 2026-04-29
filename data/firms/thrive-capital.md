@@ -203,6 +203,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Cadence | Incubated | ~2018 | Enterprise | Private [^11] |
 | Shield Technology Partners | Growth | 2025 | AI / IT Services | Private [^19] |
 | Rogo | Series B | 2025 | AI / Finance | Private [^19] |
+| Rogo (follow-on) | Series D | 2026 | AI / Finance | Private [^20] |
 | Crete Professionals Alliance | Growth | ~2023 | Enterprise / Services | Private [^3] |
 | Nourish | Growth | ~2024 | Health Tech | Private [^8] |
 | OpenEvidence | Growth | ~2024 | AI / Health | Private [^8] |
@@ -312,3 +313,4 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^18]: Neuralink (@neuralink), X post, 2025. https://x.com/neuralink/status/1929604804411904096
 
 [^19]: "Thrive Capital Portfolio: AI Startups Backed by Thrive (2026 Tracker)." FeedTheAI, accessed March 2026. https://www.feedtheai.com/thrive-capital-portfolio-ai-startups-backed-by-thrive-2025-tracker/
+[^20]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html

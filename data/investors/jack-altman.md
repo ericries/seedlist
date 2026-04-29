@@ -10,9 +10,9 @@ stage_focus: [seed, series-a]
 sector_focus: [enterprise-software, ai, developer-tools, fintech, health-tech]
 check_size: "$500K-$10M (Alt Capital); institutional at Benchmark"
 last_verified_investment:
-  date: 2026-02-25
-  company: "Basis"
-  round: "Series B"
+  date: 2026-04-29
+  company: "Pursuit"
+  round: "Series A"
 social:
   twitter: "@jaltma"
   linkedin: "linkedin.com/in/jackealtman"
@@ -104,6 +104,8 @@ Altman claims a generalist approach but his portfolio reveals a strong B2B enter
 | Span | ~2025 | Series A | [^12] |
 | DepthFirst | 2026-01-14 | Series A | [^12] |
 | Basis | 2026-02-25 | Series B | [^10] |
+| Pursuit | 2026-04-29 | Series A | [^15] |
+| Rogo | 2026-04-29 | Series D | [^16] |
 
 This table represents approximately 29 of an estimated 90+ total investments. Angel investment dates prior to Alt Capital's founding in 2024 could not be individually verified and are listed as "Pre-2024."
 
@@ -153,3 +155,5 @@ No independently sourced founder testimonials found. Altman is a relatively new 
 [^12]: EverythingStartups, "New VC Funds — Alt Capital," accessed March 2026. https://www.everythingstartups.com/vc-funds/alt-capital
 [^13]: X post by @getpinxyz, "Jack Altman's most notable angel investments," March 2024. https://x.com/getpinxyz/status/1772641906859577679
 [^14]: Boring Business Nerd, "Jack Altman — Investor Profile," accessed March 2026. https://www.boringbusinessnerd.com/investor/jack-altman
+[^15]: TechCrunch, "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government," April 29, 2026. https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/
+[^16]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html

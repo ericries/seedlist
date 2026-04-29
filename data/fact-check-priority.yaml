@@ -1,1 +1,41 @@
-priority: []
+priority:
+  - slug: kleiner-perkins
+    type: firm
+    reason: "appeared in Rogo Series D and Manifest OS Series A (2026-04-28/29)"
+    added: 2026-04-29
+  - slug: menlo-ventures
+    type: firm
+    reason: "appeared in Manifest OS Series A (2026-04-28)"
+    added: 2026-04-29
+  - slug: sequoia-capital
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-29
+  - slug: thrive-capital
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-29
+  - slug: khosla-ventures
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-29
+  - slug: boxgroup
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-29
+  - slug: first-round-capital
+    type: firm
+    reason: "appeared in Manifest OS Series A (2026-04-28)"
+    added: 2026-04-29
+  - slug: quiet-capital
+    type: firm
+    reason: "appeared in Manifest OS Series A (2026-04-28)"
+    added: 2026-04-29
+  - slug: bill-gurley
+    type: investor
+    reason: "appeared in Pursuit Series A (2026-04-29)"
+    added: 2026-04-29
+  - slug: jack-altman
+    type: investor
+    reason: "appeared in Pursuit Series A and Rogo Series D (2026-04-29)"
+    added: 2026-04-29

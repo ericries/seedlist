@@ -19012,3 +19012,128 @@ queue:
   added: '2026-03-17'
   firm: Mobius Venture Capital
   discovered_from: brad-feld
+- name: Mike Rosengarten
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenGov
+  discovered_from: round-monitoring-2026-04-29
+  source: led Pursuit Series A 2026-04-29
+- name: Sam Hinkie
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 87 Capital
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Pursuit Series A 2026-04-29
+- name: 87 Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: Sam Hinkie's fund participated in Pursuit Series A 2026-04-29
+- name: J.P. Morgan Growth Equity Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Rogo Series D 2026-04-29
+- name: Mantis VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Rogo Series D 2026-04-29
+- name: Positive Sum
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Rogo Series D 2026-04-29
+- name: Evantic
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Rogo Series D 2026-04-29
+- name: Equal Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: led Chord venture round 2026-04-29
+- name: M13
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Chord venture round 2026-04-29
+- name: CEAS Investments
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Chord venture round 2026-04-29
+- name: Notion Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: led Dex seed round 2026-04-29
+- name: Concept Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Dex seed round 2026-04-29
+- name: a16z Speedrun
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-29
+  source: participated in Dex seed round 2026-04-29
+- name: Dan Mishin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Manifest OS
+  discovered_from: round-monitoring-2026-04-29
+  source: founder/CEO of Manifest OS Series A 2026-04-28
+- name: Mike Vichich
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pursuit
+  discovered_from: round-monitoring-2026-04-29
+  source: co-founder of Pursuit Series A 2026-04-29
+- name: Brandon Max
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pursuit
+  discovered_from: round-monitoring-2026-04-29
+  source: co-founder of Pursuit Series A 2026-04-29
+- name: Paddy Lambros
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dex
+  discovered_from: round-monitoring-2026-04-29
+  source: founder/CEO of Dex seed round 2026-04-29

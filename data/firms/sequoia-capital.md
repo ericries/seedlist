@@ -223,6 +223,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Private [^28] |
 | Auctor | Series A (led) | 2026 | AI / Enterprise Software | Private [^29] |
 | Ineffable Intelligence | Seed (co-led) | 2026 | AI / Foundation Models | Private [^30] |
+| Rogo | Series D | 2026 | AI / Fintech | Private [^34] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -359,3 +360,5 @@ The following table includes Sequoia Capital investments verified through the fi
 [^32]: TechCrunch, "DoorDash Raises $17.3 Million From Sequoia To Expand Its On-Demand Delivery Service," May 22, 2014. https://techcrunch.com/2014/05/22/doordash-17-3m-sequoia/ — Series A led by Sequoia at $73.5M valuation; Alfred Lin joined the board.
 
 [^33]: TechCrunch, "Zoom video conferencing service raises $100 million from Sequoia on billion-dollar valuation," January 17, 2017. https://techcrunch.com/2017/01/17/sequoia-invests-100-million-in-zoom-video-conferencing-service/ — Series D led by Sequoia at $1B valuation; Carl Eschenbach joined the board.
+
+[^34]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html

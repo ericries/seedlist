@@ -10,8 +10,8 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [marketplaces, consumer-internet, gig-economy, healthcare, e-commerce, smb-saas]
 check_size: "$1M-$15M"
 last_verified_investment:
-  date: 2019-02-27
-  company: "Instawork"
+  date: 2026-04-29
+  company: "Pursuit"
   round: "Series A"
 social:
   twitter: "@bgurley"
@@ -119,6 +119,7 @@ The analysis below is based on 26 investments that can be specifically attribute
 | HackerOne | Late 2010s | Growth | Cybersecurity | Active | [^24] |
 | Good Eggs | 2018 | Growth | Marketplace/Grocery delivery | Active | [^25] |
 | Instawork | 2019 | Series A | Marketplace/Gig economy | Active | [^26] |
+| Pursuit | 2026-04-29 | Series A | GovTech / AI | Active | [^32] |
 
 This table represents approximately 27 investments publicly attributed to Gurley. Benchmark's website and Crunchbase suggest additional investments not individually linked to Gurley in public records. Note: many early investments use approximate dates based on board tenure or founding year proxies, as exact investment dates are not publicly documented for all deals.
 
@@ -255,3 +256,5 @@ Barton also credited Gurley with pushing Zillow's marketing creativity. Early in
 [^30]: Above the Crowd, "On the Road to Recap," Bill Gurley, April 21, 2016. https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/
 
 [^31]: Startup Archive, "Bill Gurley on why founders and investors shouldn't pay too much attention to TAM," accessed March 2026. https://www.startuparchive.org/p/bill-gurley-on-why-founders-and-investors-shouldn-t-pay-too-much-attention-to-tam
+
+[^32]: TechCrunch, "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government," April 29, 2026. https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/
