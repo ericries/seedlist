@@ -117,7 +117,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Aembit | Series A (led, $25M) | 2024 | Data & Security | Active | [^15] |
 | Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
 | Alix | Series A (led, $20M) | 2025 | Fintech / Estate Settlement | Active | [^23][^24] |
-| AltoIRA | Early | ~2020 | Fintech | Active | [^12] |
+| AltoIRA | Series A (participated) | 2021 | Fintech | Active | [^12][^26] |
 | Amino | Early | ~2019 | Health | Active | [^12] |
 | Aqua Security | Growth | 2021 | Data & Security | Active | [^12] |
 | Arthur | Early | ~2020 | Data & Security / AI | Active | [^12] |
@@ -127,7 +127,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Bilt Rewards | Growth | ~2022 | Fintech | Active | [^12] |
 | Branch | Early | ~2020 | Fintech | Active | [^12] |
 | Canela Media | Early | ~2021 | Consumer / Media | Active | [^12] |
-| Casa | Early | ~2020 | Data & Security | Active | [^12] |
+| Casa | Series A (led) | 2021 | Data & Security | Active | [^12][^27] |
 | Cato Networks | Series A–F+ | 2015–2025 | Data & Security | Active | [^6][^16] |
 | Chime | Series A-2+ | ~2016–2024 | Fintech | IPO (NASDAQ, 2025) | [^6][^13] |
 | CipherTrace | Early | ~2018 | Data & Security | Active | [^12] |
@@ -243,3 +243,7 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^23]: Pulse2, "Alix: $20 Million Series A Closed For Transforming Estate Settlement," July 22, 2025. https://pulse2.com/alix-20-million-series-a-closed-for-transforming-estate-settlement/
 [^24]: TechCrunch, "Chime backer Lauren Kolodny bets on AI to revolutionize estate processing," July 24, 2025. https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/
 [^25]: AlleyWatch, "Zamp Raises $30M to Scale AI-Driven Sales Tax Compliance Across 12,000+ Jurisdictions," April 28, 2026. https://alleywatch.com/2026/04/zamp-ai-sales-tax-compliance-platform-multi-jurisdiction-rohit-bhadange/
+
+[^26]: PR Newswire, "Alto Closes $17 Million Series A Funding Round to Accelerate Development of Next-Generation Alternative Investment IRA Platform," April 20, 2021. https://www.prnewswire.com/news-releases/alto-closes-17-million-series-a-funding-round-to-accelerate-development-of-next-generation-alternative-investment-ira-platform-301272753.html — Series A led by Unusual Ventures with Acrew Capital as participating existing investor.
+
+[^27]: CoinDesk, "Bitcoin Self-Custody Company Casa Raises $21M," May 10, 2022. https://www.coindesk.com/business/2022/05/10/bitcoin-self-custody-company-casa-raises-21m-series-a — Series A led by Acrew Capital (round closed December 2021, announced May 2022) with Positive Sum, Avon Ventures, Tioga Capital, Stillmark, Castle Island Ventures, Lerer Hippeau, Naval Ravikant, Scott Belsky, and others.
