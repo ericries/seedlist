@@ -156,10 +156,10 @@ The following table includes Coatue investments verified through the firm's port
 | Databricks | Series E | 2019 | Data & AI | Private [^27] |
 | Chime | Series F | 2020 | Fintech / Neobank | Private [^28] |
 | SpaceX | Series J | 2021 | Aerospace | Private [^29] |
-| Anaplan | Growth | ~2016 | Enterprise SaaS / Planning | Acquired by Thoma Bravo (2022) [^12] |
-| Box | Growth | ~2014 | Enterprise SaaS / Cloud Storage | Public (IPO 2015) [^12] |
+| Anaplan | Series E | 2016 | Enterprise SaaS / Planning | Acquired by Thoma Bravo (2022) [^12][^41] |
+| Box | Pre-IPO Series F | 2014 | Enterprise SaaS / Cloud Storage | Public (IPO 2015) [^12][^42] |
 | ByteDance | Growth | ~2018 | Consumer / Social Media | Private [^12] |
-| Meituan | Growth | ~2016 | Marketplace / Delivery | Public (Hong Kong) [^5] |
+| Meituan | Series F | 2017 | Marketplace / Delivery | Public (Hong Kong) [^5][^43] |
 | Ant Group | Growth | ~2018 | Fintech | Private [^12] |
 | BOSS Zhipin | Growth | ~2019 | HR / Recruitment | Public [^12] |
 | Applied Intuition | Growth | ~2021 | Autonomous / Simulation | Private [^12] |
@@ -308,3 +308,9 @@ No independently sourced negative or critical founder testimonials were found in
 
 [^39]: "Philippe Laffont (@plaffont)." X/Twitter. https://x.com/plaffont. Accessed March 2026.
 [^40]: PYMNTS, "Silverflow Raises $40M Series B," March 2026, accessed March 2026. https://www.pymnts.com/news/investment-tracker/2026/silverflow-raises-40m-series-b/
+
+[^41]: TechCrunch, "With $90 Million In New Funding And Unicorn Status, Anaplan Looks Ahead to IPO," January 14, 2016. https://techcrunch.com/2016/01/14/with-another-90-million-of-funding-and-unicorn-status-anaplan-looks-ahead-to-ipo/ — Anaplan's $90M Series E on January 16, 2016 was led by Premji Invest with Coatue Management as participating existing investor.
+
+[^42]: PitchBook, "Box Turns to TPG, Coatue for $150M Pre-IPO Financing," July 2014. https://pitchbook.com/newsletter/box-turns-to-tpg-coatue-for-150m-pre-ipo-financing — Box's $150M pre-IPO Series F on July 1, 2014 was co-led by TPG Growth and Coatue Management.
+
+[^43]: TechCrunch, "Chinese local services giant Meituan-Dianping raises $4B led by Tencent and Priceline," October 19, 2017. https://techcrunch.com/2017/10/19/meituan-dianping-raises-4b/ — Coatue's first Meituan investment was the October 19, 2017 $4B Series F round led by Tencent and Priceline.
