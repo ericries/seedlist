@@ -146,7 +146,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | HubSpot | Series A (led) | 2007 | Enterprise SaaS | Public (IPO 2014) [^20] |
-| Kayak | Early Stage | ~2004 (founded) | Consumer Internet / Travel | Acquired by Booking Holdings (2012) [^3] |
+| Kayak | Founding/Early Stage | 2004 | Consumer Internet / Travel | Acquired by Booking Holdings (2012) [^3][^43] |
 | Demandware | Early Stage | ~2004 (founded) | Enterprise / E-commerce | Acquired by Salesforce (2016) [^3] |
 | Datalogix | Early Stage | ~2003 (founded) | Data / AdTech | Acquired by Oracle (2014) [^3] |
 | Datto | Growth | ~2007 (founded) | Enterprise / IT | Acquired by Kaseya (2022) [^3] |
@@ -157,10 +157,10 @@ The following table includes 65 verified investments sourced from General Cataly
 | Stripe | Series E | 2019 | Fintech / Payments | Private [^26] |
 | Stripe | Series G Extension | 2020 | Fintech / Payments | Private [^26] |
 | Stripe | Series I | 2023 | Fintech / Payments | Private [^26] |
-| Warby Parker | Early Stage | ~2010 (founded) | Consumer / E-commerce | Public (IPO 2021) [^3] |
+| Warby Parker | Series B | 2013 | Consumer / E-commerce | Public (IPO 2021) [^3][^44] |
 | Samsara | Series C (led) | 2017 | Enterprise / IoT | Public (IPO 2021) [^27] |
 | Samsara | Growth | 2018 | Enterprise / IoT | Public (IPO 2021) [^28] |
-| Livongo | Early Stage | ~2014 (founded) | Healthcare | Merged with Teladoc (2020) [^3] |
+| Livongo | Series A (led) | 2014 | Healthcare | Merged with Teladoc (2020) [^3][^45] |
 | Gusto | Early Stage | ~2012 (founded) | Enterprise / HR & Payroll | Private [^29] |
 | Canva | Series C (co-led) | 2019 | Enterprise / Design | Private [^30] |
 | Guild Education | Growth | ~2015 (founded) | EdTech / Enterprise | Private [^3] |
@@ -348,3 +348,9 @@ No independently sourced founder testimonials were found in this research pass. 
 [^41]: Artiverse, "Numos Gets $4.25M to Build Transparent Finance AI," April 2026. https://www.artiverse.ca/numos-gets-4-25m-to-build-transparent-finance-ai/
 
 [^42]: PR Newswire, "Avoca Raises $125M+ at $1B Valuation to Power America's Services Economy With AI," April 27, 2026. https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html
+
+[^43]: Wikipedia, "Kayak (company)," accessed April 2026. https://en.wikipedia.org/wiki/Kayak_(company) — Kayak was founded in January 2004 by Steve Hafner and Paul English; per co-founder English, General Catalyst created the company within their firm, with Larry Bohn introducing the founders. Sequoia followed with a 2005 round.
+
+[^44]: Crunchbase, "Series A - Warby Parker - 2011-09-22," accessed April 2026. https://www.crunchbase.com/funding_round/warby-parker-series-a--1648c4e2 — Warby Parker's $12M Series A on September 22, 2011 was led by Tiger Global; per Tracxn, General Catalyst's first investment was the January 29, 2013 Series B.
+
+[^45]: PR Newswire, "Livongo Health Raises $20 Million in Series B Funding From Kleiner Perkins Caufield & Byers, DFJ and General Catalyst," April 7, 2015. https://www.prnewswire.com/news-releases/livongo-health-raises-20-million-in-series-b-funding-from-kleiner-perkins-caufield--byers-dfj-and-general-catalyst-300061771.html — General Catalyst led Livongo's $10M Series A on May 7, 2014 (at $30M valuation) and continued through every subsequent round to IPO in 2019.
