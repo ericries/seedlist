@@ -18853,3 +18853,162 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: edward-tian
+- name: Foundry Group
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: Techstars
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Techstars
+  discovered_from: brad-feld
+- name: Seth Levine
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: Ryan McIntyre
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: Jason Mendelson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: Chris Moody
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: Jaclyn Freeman Hester
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: Lindel Eakman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundry Group
+  discovered_from: brad-feld
+- name: David Cohen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Techstars
+  discovered_from: brad-feld
+- name: David Brown
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Techstars
+  discovered_from: brad-feld
+- name: Jared Polis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Independent / Techstars co-founder
+  discovered_from: brad-feld
+- name: Jon Callaghan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: brad-feld
+- name: Greg Gottesman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs (formerly Madrona Venture Group)
+  discovered_from: brad-feld
+- name: Bezos Expeditions
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bezos Expeditions
+  discovered_from: brad-feld
+- name: Fitbit
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Glowforge
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Moz
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Harmonix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Rover
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Sphero
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Markup AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Yesware
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: littleBits
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-feld
+- name: Mobius Venture Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Mobius Venture Capital
+  discovered_from: brad-feld
