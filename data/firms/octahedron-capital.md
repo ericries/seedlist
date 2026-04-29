@@ -77,26 +77,26 @@ Based on 6 verified private-market investments and 16 public equity positions (Q
 | Databricks | Series I | 2023 | Enterprise Software / AI | Active [^12] |
 | Tenure Health | Venture | 2021 | Healthcare | Exited (acquired by NCD, Sep 2024) [^14][^15] |
 
-### Public Equity Holdings (Q4 2025 13F)
+## Public Equity Holdings (Q4 2025 13F)
 
 | Company | Ticker | Portfolio Weight | Value |
 |---------|--------|-----------------|-------|
-~unknown| Nu Holdings | NU | 19.7% | $29M |
-~unknown| Alphabet | GOOGL | 14.0% | $21M |
-~unknown| NVIDIA | NVDA | 11.8% | $17M |
-~unknown| Amazon | AMZN | 11.4% | $17M |
-~unknown| Taiwan Semiconductor | TSM | 6.7% | $9.9M |
-~unknown| Coupang | CPNG | 5.8% | $8.5M |
-~unknown| MercadoLibre | MELI | 5.8% | $8.5M |
-~unknown| ServiceNow | NOW | 5.6% | $8.2M |
-~unknown| DoorDash | DASH | 5.3% | $7.8M |
-~unknown| Sea Limited | SE | 3.6% | $5.2M |
-~unknown| Rubrik | RBRK | 2.9% | $4.3M |
-~unknown| Lumentum | LITE | 2.4% | $3.6M |
-~unknown| Intel | INTC | 2.2% | $3.2M |
-~unknown| monday.com | MNDY | 1.8% | $2.6M |
-~unknown| Snowflake | SNOW | 0.6% | $834K |
-~unknown| Meta Platforms | META | 0.6% | $825K |
+| Nu Holdings | NU | 19.7% | $29M |
+| Alphabet | GOOGL | 14.0% | $21M |
+| NVIDIA | NVDA | 11.8% | $17M |
+| Amazon | AMZN | 11.4% | $17M |
+| Taiwan Semiconductor | TSM | 6.7% | $9.9M |
+| Coupang | CPNG | 5.8% | $8.5M |
+| MercadoLibre | MELI | 5.8% | $8.5M |
+| ServiceNow | NOW | 5.6% | $8.2M |
+| DoorDash | DASH | 5.3% | $7.8M |
+| Sea Limited | SE | 3.6% | $5.2M |
+| Rubrik | RBRK | 2.9% | $4.3M |
+| Lumentum | LITE | 2.4% | $3.6M |
+| Intel | INTC | 2.2% | $3.2M |
+| monday.com | MNDY | 1.8% | $2.6M |
+| Snowflake | SNOW | 0.6% | $834K |
+| Meta Platforms | META | 0.6% | $825K |
 
 Source: 13F filing, Q4 2025 [^4].
 
