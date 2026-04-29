@@ -268,6 +268,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: Leipzig’s Primogene raises €4.1 million to scale enzymatic biomanufacturing
+    of complex bioactive molecules
+  url: https://www.eu-startups.com/2026/04/leipzigs-primogene-raises-e4-1-million-to-scale-enzymatic-biomanufacturing-of-complex-bioactive-molecules/
+  source: eu-startups
+  date_found: '2026-04-29'
+  parsed_company: Leipzig’s Primogene
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Germany’s mbiomics brings Series A to €30 million to scale microbiome therapeutics
+    for chronic diseases
+  url: https://www.eu-startups.com/2026/04/germanys-mbiomics-brings-series-a-to-e30-million-to-scale-microbiome-therapeutics-for-chronic-diseases/
+  source: eu-startups
+  date_found: '2026-04-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
     over €75.2 million for quantum tech fund
   url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
@@ -1127,26 +1145,3 @@ pending_rounds:
   status: processed
   processed_note: Created monk and qualitate startup profiles; Coral already existed
     (coral-health-ai) as noted in task
-- title: Swiss startup Planetary raises nearly €23 million to build the industrial
-    backbone of the bioeconomy
-  url: https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/
-  source: eu-startups
-  date_found: '2026-04-20'
-  parsed_company: Swiss startup Planetary
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: Created startup profile planetary.md; Series A CHF 22M co-led by Radikal
-    Capital + Oetker Ventures
-- title: Insight Partners-backed ScreenPoint Medical secures €13.6 million to advance
-    AI-powered breast cancer detection
-  url: https://www.eu-startups.com/2026/04/insight-partners-backed-screenpoint-medical-secures-e13-6-million-to-advance-ai-powered-breast-cancer-detection/
-  source: eu-startups
-  date_found: '2026-04-20'
-  parsed_company: Insight Partners-backed ScreenPoint Medical
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile screenpoint-medical.md; $14M follow-on from Insight
-    Partners and Siemens Healthineers announced 2026-04-17, plus $2M non-dilutive
-    research grants
