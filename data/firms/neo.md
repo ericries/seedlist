@@ -94,13 +94,13 @@ Despite investing across many sectors, Neo does not publicly emphasize any secto
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Anysphere (Cursor) | Seed | 2022 | AI / Developer Tools | Active | [^6][^12] |
-| Kalshi | Seed | ~2018 | Fintech / Prediction Markets | Active | [^5][^15] |
+| Kalshi | Seed | 2019 | Fintech / Prediction Markets | Active | [^5][^15][^25] |
 | Bluesky | Seed | 2023 | Social Media | Active | [^16] |
 | Cognition | Seed | ~2023 | AI / Developer Tools | Active | [^6] |
 | Pika Labs | Seed | ~2023 | Generative AI / Video | Active | [^7][^13] |
 | Chai Discovery | Seed | 2024 | Biotech / AI Drug Discovery | Active | [^14] |
-| Deel | Early | ~2019 | HR Tech / Fintech | Active | [^3] |
-| Replit | Early | ~2018 | Developer Tools | Active | [^3][^5] |
+| Deel | Seed | 2019 | HR Tech / Fintech | Active | [^3][^27] |
+| Replit | Seed | 2018 | Developer Tools | Active | [^3][^5][^26] |
 | Speak | Early | ~2019 | AI / Language Learning | Active | [^3] |
 | Ramp | Later Stage | ~2020 | Fintech | Active | [^4][^5] |
 | Bubble | Early | ~2019 | No-Code / Developer Tools | Active | [^4][^5] |
@@ -183,3 +183,6 @@ Note: The Trueba, Roselle, and Wu quotes are from Neo's own Substack announcemen
 [^22]: Neo Substack, "Neo's newest partner," by Ali Partovi, January 2025. https://neo.substack.com/p/neos-newest-partner
 [^23]: Boring Business Nerd, "Olivia Li on the Neo Accelerator," accessed April 2026. https://www.boringbusinessnerd.com/post/olivia-li-on-the-neo-accelerator
 [^24]: PR Newswire, "24/7 Trading Platform, Liquid, Closes $18 Million Funding Round," April 28, 2026. https://www.prnewswire.com/news-releases/247-trading-platform-liquid-closes-18-million-funding-round-302754621.html
+[^25]: BusinessWire, "Kalshi Raises $30 Million in Series A Funding Led by Sequoia," February 17, 2021. https://www.businesswire.com/news/home/20210217005285/en/Kalshi-Raises-$30-Million-in-Series-A-Funding-Led-by-Sequoia — Kalshi's $30M Feb 2021 Series A was led by Sequoia with Charles Schwab, Henry Kravis, SV Angel, and previous investors including Neo. Neo's first investment was the earlier $4M Seed round in 2019.
+[^26]: CNBC, "Andreessen Horowitz leads $4.5 million seed round in Repl.it," October 22, 2018. https://www.cnbc.com/2018/10/22/andreessen-horowitz-leads-4point5-million-seed-round-in-replit.html — $4.5M Seed led by Andreessen Horowitz with Bloomberg Beta, Reach Capital, Y Combinator, and Paul Graham; Neo joined as participant per Neo's own portfolio listings.
+[^27]: CNBC, "Remote work start-up Deel scores $14 million investment led by Andreessen Horowitz," May 21, 2020. https://www.cnbc.com/2020/05/21/remote-work-andreessen-horowitz-leads-14-million-round-in-deel-payroll-start-up.html — Deel's 2019 $3.85M Seed had 17 investors including Neo, Andreessen Horowitz, Y Combinator, and Spark Capital; the May 2020 $14M Series A was led by a16z with Anish Acharya joining the board.
