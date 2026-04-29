@@ -200,7 +200,8 @@ pending_rounds:
   parsed_company: rebranded to Ground State Ventures and
   parsed_amount: $88M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund close (already noted)
 - title: and raised $88M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -235,6 +236,37 @@ pending_rounds:
   parsed_company: As Europe pushes for AI sovereignty, Germany’s SPREAD
   parsed_amount: null
   parsed_round: null
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by spread-ai.md
+- title: Firestorm Labs raises $82M to take drone factories into the field
+  url: https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/
+  source: techcrunch
+  date_found: '2026-04-29'
+  parsed_company: Firestorm Labs
+  parsed_amount: $82M
+  parsed_round: null
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by firestorm-labs.md
+- title: Colby Adcock’s Scout AI raises $100M to train its models for war. We visited
+    its bootcamp
+  url: https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/
+  source: techcrunch
+  date_found: '2026-04-29'
+  parsed_company: Colby Adcock’s Scout AI
+  parsed_amount: $100M
+  parsed_round: null
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by scout-ai.md
+- title: Seed Funding Is Bigger Than Ever — And Harder To Get
+  url: https://news.crunchbase.com/venture/average-seed-funding-amounts-deals-grew-2025/
+  source: crunchbase
+  date_found: '2026-04-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
   status: pending
 - title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
     over €75.2 million for quantum tech fund
@@ -320,7 +352,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: aggregator
 - title: 'No US funding, no problem: Málaga’s Freepik relaunches as Maginific with
     €200 million ARR'
   url: https://www.eu-startups.com/2026/04/no-us-funding-no-problem-malagas-freepik-relaunches-as-maginific-with-e196-million-arr/
@@ -329,7 +362,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: rebrand of Freepik, not a startup round
 - title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
     threat intelligence
   url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
@@ -1116,35 +1150,3 @@ pending_rounds:
   notes: created startup profile screenpoint-medical.md; $14M follow-on from Insight
     Partners and Siemens Healthineers announced 2026-04-17, plus $2M non-dilutive
     research grants
-- title: Cybersecurity Funding Holds Up At Robust Levels
-  url: https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: trend article, not a specific round
-- title: UK startup Rivan raises €28.7 million to scale domestic synthetic fuel production
-    in Europe
-  url: https://www.eu-startups.com/2026/04/uk-startup-rivan-raises-e28-7-million-to-scale-domestic-synthetic-fuel-production-in-europe/
-  source: eu-startups
-  date_found: '2026-04-20'
-  parsed_company: UK startup Rivan
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile rivan.md; €28.7M growth round on 2026-04-20 (investors
-    undisclosed in available sources); prior £10M round led by Plural with 20VC, NFDG,
-    and Collisons cited as context
-- title: Logicc secures €2.5 million amid continued momentum in Germany’s secure AI
-    market
-  url: https://www.eu-startups.com/2026/04/logicc-secures-e2-5-million-amid-continued-momentum-in-germanys-secure-ai-market/
-  source: eu-startups
-  date_found: '2026-04-20'
-  parsed_company: Logicc
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile logicc.md; €2.5M seed with 10X Founders, Redstone,
-    MS&AD participating
