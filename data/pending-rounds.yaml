@@ -20,6 +20,174 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Sharc Energy Closes Second Tranche of Debenture
+  url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
+  source: globenewswire
+  date_found: '2026-04-29'
+  parsed_company: Sharc Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Ineffable Intelligence raised $1.1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Ineffable Intelligence
+  parsed_amount: $1.1B
+  parsed_round: null
+  status: pending
+- title: Wiliot raised $75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Wiliot
+  parsed_amount: $75M
+  parsed_round: null
+  status: pending
+- title: Nervonik raised $52.5M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Nervonik
+  parsed_amount: $52.5M
+  parsed_round: Series B
+  status: pending
+- title: Liquid Instruments raised $50M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Liquid Instruments
+  parsed_amount: $50M
+  parsed_round: Series C
+  status: pending
+- title: Fathom Therapeutics raised $47M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Fathom Therapeutics
+  parsed_amount: $47M
+  parsed_round: Series A
+  status: pending
+- title: Golden Child raised $37M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Golden Child
+  parsed_amount: $37M
+  parsed_round: null
+  status: pending
+- title: Minish Technology raised $22M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Minish Technology
+  parsed_amount: $22M
+  parsed_round: null
+  status: pending
+- title: Zamp raised $17M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Zamp
+  parsed_amount: $17M
+  parsed_round: null
+  status: pending
+- title: Windmill raised $12M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Windmill
+  parsed_amount: $12M
+  parsed_round: null
+  status: pending
+- title: Clarasight raised $11.5M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Clarasight
+  parsed_amount: $11.5M
+  parsed_round: Series A
+  status: pending
+- title: Marloo raised $10M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Marloo
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: pending
+- title: Segura raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Segura
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: pending
+- title: Neutonic raised $6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Neutonic
+  parsed_amount: $6M
+  parsed_round: null
+  status: pending
+- title: Fermeate raised $2M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Fermeate
+  parsed_amount: $2M
+  parsed_round: Seed
+  status: pending
+- title: Churchill Capital XII raised $360M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Churchill Capital XII
+  parsed_amount: $360M
+  parsed_round: null
+  status: pending
+- title: Irenic Acquisition raised $220M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Irenic Acquisition
+  parsed_amount: $220M
+  parsed_round: null
+  status: pending
+- title: Mighty Capital raised $91M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: Mighty Capital
+  parsed_amount: $91M
+  parsed_round: null
+  status: pending
+- title: rebranded to Ground State Ventures and raised $88M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: rebranded to Ground State Ventures and
+  parsed_amount: $88M
+  parsed_round: null
+  status: pending
+- title: and raised $88M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: and
+  parsed_amount: $88M
+  parsed_round: null
+  status: pending
+- title: u003e and raised $88M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-29'
+  parsed_company: u003e and
+  parsed_amount: $88M
+  parsed_round: null
+  status: pending
 - title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
     over €75.2 million for quantum tech fund
   url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
@@ -97,6 +265,14 @@ pending_rounds:
     with Luminar Ventures and node.vc; Stockholm-based licensed-data API for AI agents;
     founded 2024 by Anders Hammarbäck and David Österdahl; profile includes prior
     €1.1M Sept 2025 pre-seed
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/28/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-28-2026/
+  source: alleywatch
+  date_found: '2026-04-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
     threat intelligence
   url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
@@ -945,215 +1121,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: Created startup profile for Coral
-- title: Ideally raised $10M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-20'
-  parsed_company: Ideally
-  parsed_amount: $10M
-  parsed_round: Series A
-  status: processed
-  notes: Created startup profile for Ideally
-- title: Ethermed raised $8.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-20'
-  parsed_company: Ethermed
-  parsed_amount: $8.5M
-  parsed_round: Series A
-  status: processed
-  notes: Duplicate; ethermed.md already exists from AlleyWatch feed
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/20/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-20-2026/
-  source: alleywatch
-  date_found: '2026-04-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: Only round in the 4/20 daily report is Ciphero ($3.25M per SEC filing, no
-    announcement date, no confirmed investors). Appears to be a Form D filing related
-    to or extending the $2.5M pre-seed announced Dec 2025. Not creating a profile
-    — no announcement date and no official press release. Monitor for formal announcement.
-- title: u003e raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-19'
-  parsed_company: u003e
-  parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact from Axios; unicode escape for '>' character, not
-    a company name
-- title: Cracks are starting to form on fusion energy’s funding boom
-  url: https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/
-  source: techcrunch
-  date_found: '2026-04-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: trend article about fusion energy funding market, not a specific startup
-    round
-- title: Sage Haven raised $3M pre-seed
-  url: https://finance.yahoo.com/sectors/technology/articles/sage-haven-launches-ai-moderated-161500399.html
-  source: web-search
-  date_found: '2026-04-18'
-  parsed_company: Sage Haven
-  parsed_amount: $3M
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created startup profile sage-haven.md; led by Hustle Fund with scout funds
-    from a16z, Accel, Kleiner Perkins
-- title: 'The Weekly Notable Startup Funding Report: 4/20/26'
-  url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-20-26/
-  source: alleywatch
-  date_found: '2026-04-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: 'Created 6 startup profiles: calyxo, merqube, nanotech-materials, hyfix,
-    ethermed, yoga-joint'
-- title: Swedish semiconductor startup AlixLabs closes €15 million Series A to scale
-    atomic-level etching technology
-  url: https://www.eu-startups.com/2026/04/swedish-semiconductor-startup-alixlabs-closes-e15-million-series-a-to-scale-atomic-level-etching-technology/
-  source: eu-startups
-  date_found: '2026-04-17'
-  parsed_company: Swedish semiconductor startup AlixLabs
-  parsed_amount: null
-  parsed_round: Series A
-  status: skipped
-  skip_reason: Swedish semiconductor startup; outside primary US focus
-- title: Stockholm’s BioLamina secures €20 million EIB loan to scale cell therapies
-    for chronic diseases
-  url: https://www.eu-startups.com/2026/04/stockholms-biolamina-secures-e20-million-eib-loan-to-scale-cell-therapies-for-chronic-diseases/
-  source: eu-startups
-  date_found: '2026-04-17'
-  parsed_company: Stockholm’s BioLamina
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: EIB loan (government financing), not a VC round
-- title: Loop raises $95M to build supply chain AI that predicts disruptions
-  url: https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/
-  source: techcrunch
-  date_found: '2026-04-17'
-  parsed_company: Loop
-  parsed_amount: $95M
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile loop-supply-chain.md
-- title: 'Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To
-    Hit Record Amount'
-  url: https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/
-  source: crunchbase
-  date_found: '2026-04-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: sector roundup article, not a specific startup round
-- title: Eindhoven’s ONWARD Medical raises €40.6 million in capital increase to advance
-    spinal cord injury therapies
-  url: https://www.eu-startups.com/2026/04/eindhovens-onward-medical-raises-e40-6-million-in-capital-increase-to-advance-spinal-cord-injury-therapies/
-  source: eu-startups
-  date_found: '2026-04-17'
-  parsed_company: Eindhoven’s ONWARD Medical
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: Dutch medtech capital increase; public company, not a startup VC round
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Apr. 13 – Apr. 17)
-  url: https://www.eu-startups.com/2026/04/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-apr-13-apr-17/
-  source: eu-startups
-  date_found: '2026-04-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: weekly EU roundup article, not a specific round
-- title: Valencia-based GuruSup raises €1.3 million Seed round for AI customer service
-    platform
-  url: https://www.eu-startups.com/2026/04/valencia-based-gurusup-raises-e1-3-million-seed-round-for-ai-customer-service-platform/
-  source: eu-startups
-  date_found: '2026-04-17'
-  parsed_company: Valencia-based GuruSup
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  skip_reason: Valencia-based EU startup; outside primary US focus
-- title: has quietly raised $155M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: has quietly
-  parsed_amount: $155M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact from Axios; could not identify company name
-- title: Factory raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: Factory
-  parsed_amount: $150M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile factory.md; $1.5B valuation, led by Khosla Ventures
-- title: Expo raised $45M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: Expo
-  parsed_amount: $45M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile expo.md; led by Georgian
-- title: Ulysses raised $38M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: Ulysses
-  parsed_amount: $38M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile ulysses-ocean.md; led by a16z, $46M total with seed
-- title: Joyful Health raised $17M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: Joyful Health
-  parsed_amount: $17M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile joyful-health.md; led by CRV, $22M total
-- title: TextQL raised $17M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: TextQL
-  parsed_amount: $17M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile textql.md; $17M anchored by Blackstone Innovations
-    Investments
-- title: Zenskar raised $15M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: Zenskar
-  parsed_amount: $15M
-  parsed_round: Series A
-  status: processed
-  notes: confirmed via BusinessWire announcement; zenskar.md already created and published
-- title: Lua raised $5.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-17'
-  parsed_company: Lua
-  parsed_amount: $5.8M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile lua-ai.md; London-based, led by Norrsken22
