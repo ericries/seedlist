@@ -27,7 +27,8 @@ pending_rounds:
   parsed_company: Sharc Energy
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: debenture/debt round, not equity
 - title: Ineffable Intelligence raised $1.1B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -35,7 +36,9 @@ pending_rounds:
   parsed_company: Ineffable Intelligence
   parsed_amount: $1.1B
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by ineffable-intelligence.md
 - title: Wiliot raised $75M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -43,7 +46,9 @@ pending_rounds:
   parsed_company: Wiliot
   parsed_amount: $75M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by wiliot.md
 - title: Nervonik raised $52.5M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -51,7 +56,9 @@ pending_rounds:
   parsed_company: Nervonik
   parsed_amount: $52.5M
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by nervonik.md
 - title: Liquid Instruments raised $50M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -59,7 +66,9 @@ pending_rounds:
   parsed_company: Liquid Instruments
   parsed_amount: $50M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by liquid-instruments.md
 - title: Fathom Therapeutics raised $47M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -67,7 +76,9 @@ pending_rounds:
   parsed_company: Fathom Therapeutics
   parsed_amount: $47M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by fathom-therapeutics.md
 - title: Golden Child raised $37M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -75,7 +86,9 @@ pending_rounds:
   parsed_company: Golden Child
   parsed_amount: $37M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by golden-child.md
 - title: Minish Technology raised $22M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -83,7 +96,8 @@ pending_rounds:
   parsed_company: Minish Technology
   parsed_amount: $22M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: already in DB
 - title: Zamp raised $17M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -91,7 +105,9 @@ pending_rounds:
   parsed_company: Zamp
   parsed_amount: $17M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by zamp.md
 - title: Windmill raised $12M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -99,7 +115,9 @@ pending_rounds:
   parsed_company: Windmill
   parsed_amount: $12M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by windmill.md
 - title: Clarasight raised $11.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -107,7 +125,9 @@ pending_rounds:
   parsed_company: Clarasight
   parsed_amount: $11.5M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by clarasight.md
 - title: Marloo raised $10M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -115,7 +135,9 @@ pending_rounds:
   parsed_company: Marloo
   parsed_amount: $10M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by marloo.md
 - title: Segura raised $8M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -123,7 +145,9 @@ pending_rounds:
   parsed_company: Segura
   parsed_amount: $8M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by segura.md
 - title: Neutonic raised $6M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -131,7 +155,8 @@ pending_rounds:
   parsed_company: Neutonic
   parsed_amount: $6M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: small / not core
 - title: Fermeate raised $2M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -139,7 +164,8 @@ pending_rounds:
   parsed_company: Fermeate
   parsed_amount: $2M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: small ($2M seed
 - title: Churchill Capital XII raised $360M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -147,7 +173,8 @@ pending_rounds:
   parsed_company: Churchill Capital XII
   parsed_amount: $360M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: SPAC
 - title: Irenic Acquisition raised $220M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -155,7 +182,8 @@ pending_rounds:
   parsed_company: Irenic Acquisition
   parsed_amount: $220M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: SPAC
 - title: Mighty Capital raised $91M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -163,7 +191,8 @@ pending_rounds:
   parsed_company: Mighty Capital
   parsed_amount: $91M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund close
 - title: rebranded to Ground State Ventures and raised $88M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -188,6 +217,16 @@ pending_rounds:
   parsed_amount: $88M
   parsed_round: null
   status: pending
+- title: Female-founded French startup Cleo Labs raises €1.5 million to automate international
+    product compliance
+  url: https://www.eu-startups.com/2026/04/female-founded-french-startup-cleo-labs-raises-e1-5-million-to-automate-international-product-compliance/
+  source: eu-startups
+  date_found: '2026-04-29'
+  parsed_company: Female-founded French startup Cleo Labs
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small (€1.5M
 - title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
     over €75.2 million for quantum tech fund
   url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
@@ -268,6 +307,15 @@ pending_rounds:
 - title: 'The AlleyWatch Startup Daily Funding Report: 4/28/2026'
   url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-28-2026/
   source: alleywatch
+  date_found: '2026-04-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'No US funding, no problem: Málaga’s Freepik relaunches as Maginific with
+    €200 million ARR'
+  url: https://www.eu-startups.com/2026/04/no-us-funding-no-problem-malagas-freepik-relaunches-as-maginific-with-e196-million-arr/
+  source: eu-startups
   date_found: '2026-04-28'
   parsed_company: null
   parsed_amount: null
@@ -1102,22 +1150,3 @@ pending_rounds:
   status: processed
   notes: created startup profile brainjo.md; €2M seed led by HTGF with Andreas Weinhut
     and better ventures
-- title: Artemis raised $70M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-20'
-  parsed_company: Artemis
-  parsed_amount: $70M
-  parsed_round: Seed And Series A
-  status: processed
-  notes: Updated existing artemis-security.md with Felicis (Series A lead), Brightmind,
-    Theory VC, Two Sigma, Lockstep
-- title: Coral raised $12.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-20'
-  parsed_company: Coral
-  parsed_amount: $12.5M
-  parsed_round: Seed
-  status: processed
-  notes: Created startup profile for Coral

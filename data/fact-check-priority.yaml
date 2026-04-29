@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: redpoint-ventures
+  type: firm
+  reason: "led Golden Child Seed+Series A (2026-04-28)"
+  added: 2026-04-29
+- slug: atomic
+  type: firm
+  reason: "appeared in Golden Child Seed+Series A (2026-04-28)"
+  added: 2026-04-29

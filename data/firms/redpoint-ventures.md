@@ -126,6 +126,7 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | AcuityMD | Series A (led) | 2022 | Healthcare/MedTech AI | Active | TechCrunch [^11] |
 | AcuityMD | Series C | 2026 | Healthcare/MedTech AI | Active | BusinessWire [^9] |
 | Omni | Series C | 2026 | AI/Analytics | Active | BusinessWire [^10] |
+| Golden Child | Seed + Series A (led) | 2026 | Consumer / Pet Food | Active | Refresh Miami [^12] |
 
 *This table represents a small fraction of Redpoint's 615+ portfolio companies [^3]. Years are approximate based on publicly available data.*
 
@@ -152,3 +153,4 @@ No independently sourced founder testimonials found. The firm's content platform
 [^9]: BusinessWire, "AcuityMD Lands $80 Million in New Funding to Fuel AI Innovation in Medical Device (MedTech) Industry," April 21, 2026. https://www.businesswire.com/news/home/20260421820643/en/AcuityMD-Lands-$80-Million-in-New-Funding-to-Fuel-AI-Innovation-in-Medical-Device-MedTech-Industry
 [^10]: BusinessWire, "Omni Raises Series C at $1.5B Valuation, Building the AI Analytics Platform for the Enterprise," April 23, 2026. https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-$1.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise
 [^11]: TechCrunch, "AcuityMD raises Series A to sell more medical hardware," May 12, 2022. https://techcrunch.com/2022/05/12/acuitymd-series-a/
+[^12]: Refresh Miami, "Miami's latest startup wants your dog to eat better than you do — and it just raised $37M," April 28, 2026. https://refreshmiami.com/news/miamis-latest-startup-wants-your-dog-to-eat-better-than-you-do-and-it-just-raised-37m/
