@@ -227,6 +227,15 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: small (€1.5M
+- title: As Europe pushes for AI sovereignty, Germany’s SPREAD raises €25 million
+    to scale industrial AI
+  url: https://www.eu-startups.com/2026/04/as-europe-pushes-for-ai-sovereignty-germanys-spread-raises-e25-million-to-scale-industrial-ai/
+  source: eu-startups
+  date_found: '2026-04-29'
+  parsed_company: As Europe pushes for AI sovereignty, Germany’s SPREAD
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
     over €75.2 million for quantum tech fund
   url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
@@ -1139,14 +1148,3 @@ pending_rounds:
   status: processed
   notes: created startup profile logicc.md; €2.5M seed with 10X Founders, Redstone,
     MS&AD participating
-- title: brainjo raises €2 million to develop VR-based solutions that complement traditional
-    therapy where it falls short
-  url: https://www.eu-startups.com/2026/04/brainjo-raises-e2-million-to-develop-vr-based-solutions-that-complement-traditional-therapy-where-it-falls-short/
-  source: eu-startups
-  date_found: '2026-04-20'
-  parsed_company: brainjo
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile brainjo.md; €2M seed led by HTGF with Andreas Weinhut
-    and better ventures
