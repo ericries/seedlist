@@ -9961,7 +9961,7 @@ queue:
 - name: Anupam Mittal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shaadi.com
   discovered_from: kunal-shah
@@ -17456,7 +17456,7 @@ queue:
 - name: Steve Huffman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Angel (Reddit CEO)
   discovered_from: round-monitoring-2026-04-26
@@ -18584,3 +18584,220 @@ queue:
   firm: Windmill
   discovered_from: windmill
   source: Co-founder of Windmill (workforce intelligence)
+- name: Rebel Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Daniel Kan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Max Mullen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Trip Adler
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Dan Siroker
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Sebastian Mejia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Jared Heyman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: steve-huffman
+- name: Adam Goldstein
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hipmunk (former)
+  discovered_from: steve-huffman
+- name: Kevin Lin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Twitch (co-founder, angel)
+  discovered_from: steve-huffman
+- name: Casey Neistat
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Independent (angel)
+  discovered_from: steve-huffman
+- name: Atla
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Atla
+  discovered_from: steve-huffman
+- name: Series (AI social)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Series
+  discovered_from: steve-huffman
+- name: JustPaid
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: JustPaid
+  discovered_from: steve-huffman
+- name: People Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: People Group
+  discovered_from: anupam-mittal
+- name: Aman Gupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: boAt / Shark Tank India
+  discovered_from: anupam-mittal
+- name: Namita Thapar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Emcure / Shark Tank India
+  discovered_from: anupam-mittal
+- name: Vineeta Singh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sugar Cosmetics / Shark Tank India
+  discovered_from: anupam-mittal
+- name: Peyush Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lenskart / Shark Tank India
+  discovered_from: anupam-mittal
+- name: Ashneer Grover
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Independent (formerly BharatPe) / Shark Tank India S1
+  discovered_from: anupam-mittal
+- name: Gazal Alagh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mamaearth / Shark Tank India S1
+  discovered_from: anupam-mittal
+- name: Rehan Yar Khan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Orios Venture Partners (Ola angel)
+  discovered_from: anupam-mittal
+- name: Zishaan Hayath
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Powai Lake Ventures / Toppr (Ola angel)
+  discovered_from: anupam-mittal
+- name: Rapido
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rapido
+  discovered_from: anupam-mittal
+- name: BigBasket
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BigBasket
+  discovered_from: anupam-mittal
+- name: MobiKwik
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: MobiKwik
+  discovered_from: anupam-mittal
+- name: Whatfix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Whatfix
+  discovered_from: anupam-mittal
+- name: Agnikul Cosmos
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Agnikul Cosmos
+  discovered_from: anupam-mittal
+- name: Skippi Ice Pops
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Skippi Ice Pops
+  discovered_from: anupam-mittal
+- name: MediBuddy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: MediBuddy
+  discovered_from: anupam-mittal
+- name: Rupeek
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Rupeek
+  discovered_from: anupam-mittal
+- name: Druva
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Druva
+  discovered_from: anupam-mittal

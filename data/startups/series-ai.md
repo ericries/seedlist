@@ -7,11 +7,17 @@ firms:
 - round: Pre-seed
   slug: independent
   year: 2026
+- round: Pre-Seed
+  slug: reddit
+  year: 2025
 founded: 2025
 investors:
 - round: Pre-seed
   slug: iqram-magdon-ismail
   year: 2026
+- round: Pre-Seed
+  slug: steve-huffman
+  year: 2025
 last_researched: 2026-04-26
 location: New York, NY
 name: Series
