@@ -1,31 +1,34 @@
 ---
-name: Insightec
-slug: insightec
-type: startup
-website: https://insightec.com
-location: Haifa, Israel
+firms:
+- round: series-f
+  slug: koch-disruptive-technologies
+  year: 2020
 founded: 1999
-status_company: active
+founders:
+- name: Kobi Vortman
+  role: Founder & Vice Chairman
+- name: Maurice R. Ferre
+  role: CEO & Chairman (joined 2016)
+investors:
+- round: Series E ($150M)
+  slug: chase-koch
+  year: 2017
+last_researched: 2026-04-06
+location: Haifa, Israel
+name: Insightec
 sector:
 - medical-devices
 - focused-ultrasound
 - neuroscience
 - neurotech
 - healthcare
+slug: insightec
 stage_latest: Series G
-total_raised: "$574M"
-founders:
-- name: Kobi Vortman
-  role: Founder & Vice Chairman
-- name: Maurice R. Ferre
-  role: CEO & Chairman (joined 2016)
-investors: []
-firms:
-  - slug: koch-disruptive-technologies
-    round: series-f
-    year: 2020
 status: published
-last_researched: 2026-04-06
+status_company: active
+total_raised: $574M
+type: startup
+website: https://insightec.com
 ---
 
 ## About

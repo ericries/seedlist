@@ -10033,7 +10033,7 @@ queue:
 - name: Chase Koch
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Koch Disruptive Technologies
   discovered_from: koch-disruptive-technologies
@@ -17464,7 +17464,7 @@ queue:
 - name: Edward Tian
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Angel (GPTZero founder)
   discovered_from: round-monitoring-2026-04-26
@@ -18801,3 +18801,55 @@ queue:
   added: '2026-03-17'
   firm: Druva
   discovered_from: anupam-mittal
+- name: Alex Cui
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: GPTZero
+  discovered_from: edward-tian
+- name: First Voyage
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edward-tian
+- name: Tom Glocer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angelic Ventures (independent angel)
+  discovered_from: edward-tian
+- name: Mark Thompson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Independent (former CEO NYT/BBC/CNN)
+  discovered_from: edward-tian
+- name: Adrien Treuille
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Streamlit (independent angel)
+  discovered_from: edward-tian
+- name: Footwork
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edward-tian
+- name: Reach Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edward-tian
+- name: Alt Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edward-tian

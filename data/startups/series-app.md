@@ -10,6 +10,9 @@ firms:
 - round: Pre-Seed
   slug: reddit
   year: 2025
+- round: Pre-seed
+  slug: gptzero
+  year: 2026
 founded: 2024
 investors:
 - round: Pre-seed
@@ -18,6 +21,9 @@ investors:
 - round: Pre-Seed
   slug: steve-huffman
   year: 2025
+- round: Pre-seed
+  slug: edward-tian
+  year: 2026
 last_researched: 2026-04-25
 location: United States
 name: Series
