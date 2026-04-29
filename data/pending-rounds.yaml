@@ -209,7 +209,8 @@ pending_rounds:
   parsed_company: and
   parsed_amount: $88M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: parsing artifact ("...rebranded to Ground State Ventures and $88M")
 - title: u003e and raised $88M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -217,7 +218,8 @@ pending_rounds:
   parsed_company: u003e and
   parsed_amount: $88M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: parsing artifact ("...rebranded to Ground State Ventures and $88M")
 - title: Female-founded French startup Cleo Labs raises €1.5 million to automate international
     product compliance
   url: https://www.eu-startups.com/2026/04/female-founded-french-startup-cleo-labs-raises-e1-5-million-to-automate-international-product-compliance/
@@ -267,7 +269,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: parsing artifact ("...rebranded to Ground State Ventures and $88M")
 - title: Leipzig’s Primogene raises €4.1 million to scale enzymatic biomanufacturing
     of complex bioactive molecules
   url: https://www.eu-startups.com/2026/04/leipzigs-primogene-raises-e4-1-million-to-scale-enzymatic-biomanufacturing-of-complex-bioactive-molecules/
@@ -276,7 +279,9 @@ pending_rounds:
   parsed_company: Leipzig’s Primogene
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by primogene.md
 - title: Germany’s mbiomics brings Series A to €30 million to scale microbiome therapeutics
     for chronic diseases
   url: https://www.eu-startups.com/2026/04/germanys-mbiomics-brings-series-a-to-e30-million-to-scale-microbiome-therapeutics-for-chronic-diseases/
@@ -285,7 +290,18 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-29'
+  notes: covered by mbiomics.md
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/29/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-29-2026/
+  source: alleywatch
+  date_found: '2026-04-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: aggregator
 - title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
     over €75.2 million for quantum tech fund
   url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
@@ -1135,13 +1151,3 @@ pending_rounds:
   status: skipped
   skip_reason: Cerberus Capital Management is a large PE/credit firm; $2.3B is a fund/credit
     raise, not a startup funding round
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/21/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-21-2026/
-  source: alleywatch
-  date_found: '2026-04-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_note: Created monk and qualitate startup profiles; Coral already existed
-    (coral-health-ai) as noted in task
