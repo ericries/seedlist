@@ -16910,7 +16910,7 @@ queue:
 - name: 0xSmac
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Compound
   discovered_from: michael-dempsey
@@ -16974,7 +16974,7 @@ queue:
 - name: Alex Hartz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shine Capital
   discovered_from: mo-koyfman
@@ -19239,3 +19239,168 @@ queue:
   discovered_from: mohit-saxena
   source: Founded 2017 by Mohit Saxena, Nishant Sameer, Sachin Kanodia; SF luxury
     vacation marketplace
+- name: Volt Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 0xsmac
+  source: co-investor in Plural Energy pre-seed with Compound, May 2024
+- name: Maven 11 Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 0xsmac
+  source: co-investor in Plural Energy pre-seed with Compound, May 2024
+- name: Avon Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 0xsmac
+  source: led Casa seed Feb 2021 alongside Compound (existing investor)
+- name: Castle Island Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 0xsmac
+  source: co-investor in Casa seed (Feb 2021) with Compound
+- name: Stacks
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 0xsmac
+  source: Bitcoin L2; Compound early investor (Blockstack token sale, 2017-2018)
+- name: AudioShake
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: AI audio decomposition; Shine led $14M Series A Oct 2025 (Hartz lead partner)
+- name: Visia
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: BinIt; AI computer vision for recycling material tracking; Shine led $6.4M
+    seed Jan 2024 (Hartz lead)
+- name: Peach Finance
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: Loan management infrastructure; SciFi-era Hartz led first round; on board
+- name: SentiLink
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: Synthetic identity fraud detection; SciFi early backer (Hartz)
+- name: Background Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: Co-investor with Shine in Visia (Jan 2024) and AudioShake Series A (Oct
+    2025)
+- name: Origin Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: Co-investor in AudioShake Series A (Oct 2025) led by Shine
+- name: Neotribe Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-hartz
+  source: Early backer of Visia/BinIt; participated in Shine-led seed Jan 2024
+- name: Founderful
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mosaic-soc
+  source: Lead of Mosaic SoC pre-seed (2026-04-30); Swiss VC firm
+- name: Kick Foundation
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mosaic-soc
+  source: Co-investor in Mosaic SoC pre-seed (2026-04-30)
+- name: Moritz Scherer
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Mosaic SoC
+  discovered_from: mosaic-soc
+  source: Co-founder of Mosaic SoC; ETH Zurich PhD; SoC architecture expert
+- name: Alfio Di Mauro
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Mosaic SoC
+  discovered_from: mosaic-soc
+  source: Co-founder of Mosaic SoC; ETH Zurich PhD; SoC architecture expert
+- name: Innovation Industries
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: groove-quantum
+  source: Co-led Groove Quantum Seed (2026-04-30) — Dutch deeptech/quantum VC
+- name: 55 North
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: groove-quantum
+  source: Co-led Groove Quantum Seed (2026-04-30)
+- name: Verve Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: groove-quantum
+  source: Co-investor in Groove Quantum Seed (2026-04-30)
+- name: Capricorn Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocsys
+  source: Lead of Rocsys Series A Extension (2026-04-29) — Belgian deeptech VC
+- name: Scania Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocsys
+  source: Co-investor in Rocsys Series A Extension (2026-04-29)
+- name: Forward.One
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocsys
+  source: Co-investor in Rocsys Series A Extension (2026-04-29)
+- name: SEB Greentech Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocsys
+  source: Co-investor in Rocsys Series A Extension (2026-04-29)

@@ -71,8 +71,14 @@ pending_rounds:
   parsed_company: Swiss semiconductor startup Mosaic SoC
   parsed_amount: null
   parsed_round: null
-  status: skipped
-  skip_reason: small €3.2M round, no lead investor confirmed in primary press
+  status: processed
+  processed: '2026-04-30'
+  notes: created startup profile mosaic-soc.md; $3.8M (~€3.2M) Pre-Seed on 2026-04-30
+    led by Founderful with Kick Foundation; Zurich ETH spinout perception chips for
+    AR/wearables; founders Moritz Scherer and Alfio Di Mauro (both ETH Zurich PhDs);
+    confirmed via GlobeNewswire press release, Tech.eu, Tech Funding News (eu-startups
+    direct fetch 403); no firm slugs added (Founderful and Kick Foundation not yet
+    profiled)
 - title: SpaceX backer 137 Ventures raises $700M for two growth-stage funds
   url: https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/
   source: techcrunch

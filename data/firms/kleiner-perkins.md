@@ -2,7 +2,7 @@
 founded: 1972
 fund_size: $825M (KP21, 2024); $1.2B (Select III, 2024); $1.8B (KP20 + Select II,
   2022)
-last_researched: 2026-03-13
+last_researched: 2026-04-30
 location: Menlo Park, CA
 name: Kleiner Perkins
 sector_focus:
@@ -175,14 +175,14 @@ The following table includes notable investments verified through multiple sourc
 | Bloom Energy | Early Stage | ~2006 | Cleantech | Public (IPO 2018) [^6] |
 | Impossible Foods | Early Stage | ~2016 | Food Tech | Private [^3] |
 | Moderna | Growth | ~2018 | Biotech / mRNA | Public (IPO 2018) [^3] |
-| Glean | Series D | ~2023 | AI / Enterprise Search | Private [^9] |
-| Harvey | Series B | 2023 | AI / Legal | Private [^29] |
-| OpenEvidence | Series B | ~2024 | AI / Healthcare | Private [^9] |
-| Windsurf | Early Stage | ~2023 | AI / Coding | Acquired by Alphabet [^20] |
+| Glean | Series D (co-led with Lightspeed) | 2024-02-27 | AI / Enterprise Search | Private [^9][^34] |
+| Harvey | Series B (co-led with Elad Gil) | 2023-12-19 | AI / Legal | Private [^29][^35] |
+| OpenEvidence | Series B (co-led with GV) | 2025-07-15 | AI / Healthcare | Private [^36] |
+| Windsurf (Codeium) | Series B (lead) | 2024-01 | AI / Coding | Acquired by OpenAI [^20][^37] |
 | Neon | Early Stage | ~2023 | AI / Database | Acquired by Databricks [^20] |
 | Applied Intuition | Growth | ~2021 | Autonomous / Simulation | Private [^9] |
-| Synthesia | Growth | ~2024 | AI / Video | Private [^9] |
-| Together AI | Series A | ~2023 | AI / Infrastructure | Private [^29] |
+| Synthesia | Series B | 2021-12 | AI / Video | Private [^38] |
+| Together AI | Series A (lead) | 2023-11-29 | AI / Infrastructure | Private [^29][^39] |
 | Safe Superintelligence | Early Stage | ~2024 | AI | Private [^9] |
 | Coda | Series B | ~2019 | Enterprise / Productivity | Private [^18] |
 | Netskope | Growth | ~2017 | Cybersecurity | Private [^18] |
@@ -321,3 +321,15 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^31]: Fortune, "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup," April 27, 2026. https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/
 [^32]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/
 [^33]: Kleiner Perkins, "Rogo: The AI Platform for Global Finance," April 29, 2026. https://www.kleinerperkins.com/perspectives/rogo-the-ai-platform-for-global-finance/
+
+[^34]: Glean press release, "Glean Announces Over $200M Series D to Accelerate Secure Deployment of Generative AI in the Enterprise," BusinessWire, February 27, 2024. https://www.businesswire.com/news/home/20240227101592/en/Glean-Announces-Over-%24200M-Series-D-to-Accelerate-Secure-Deployment-of-Generative-AI-in-the-Enterprise
+
+[^35]: Harvey blog, "Harvey raises $80M Series B from Elad Gil, Kleiner Perkins, OpenAI and Sequoia," December 19, 2023. https://www.harvey.ai/blog/series-b
+
+[^36]: OpenEvidence press release, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," PR Newswire, July 15, 2025. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html
+
+[^37]: Kleiner Perkins, "Windsurf: The modern coding superpower," January 2024. https://www.kleinerperkins.com/perspectives/codeium-series-b/ — Series B at $500M valuation led by Kleiner Perkins.
+
+[^38]: CNBC, "AI firm Synthesia hits $1 billion valuation in Nvidia-backed Series C," June 13, 2023. https://www.cnbc.com/2023/06/13/ai-firm-synthesia-hits-1-billion-valuation-in-nvidia-backed-series-c.html — Kleiner Perkins first invested in Synthesia's December 2021 Series B.
+
+[^39]: TechCrunch, "Together lands $102.5M investment to grow its cloud for training generative AI," November 29, 2023. https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/

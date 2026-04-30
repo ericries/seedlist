@@ -1,11 +1,11 @@
 ---
 check_size: $50K-$100K (angel); $150M+ (10100/strategic)
 firm: 10100
-last_researched: 2026-03-19
+last_researched: 2026-04-30
 last_verified_investment:
-  company: Goop Kitchen
-  date: ~2021
-  round: Angel
+  company: Casa
+  date: 2026-04-30
+  round: Series A
 location: Los Angeles, CA
 name: Travis Kalanick
 role: Founder
@@ -14,6 +14,7 @@ sector_focus:
 - logistics
 - food-delivery
 - consumer
+- home-services
 slug: travis-kalanick
 tldr: "Uber co-founder/former CEO (2010-2017). Launched 10100 fund (2018) for real estate, e-commerce, emerging tech in China/India. CEO of Atoms (CloudKitchens ghost kitchens, $15B valuation, $300M personal capital). Forbes 400 #374, $3.6B net worth. Philosophy: focus on 'real world' businesses moving physical things, not just software. Infrastructure plays over consumer apps. Team quality as primary signal. Seeks founders with 'shared vision,' 'want to build but don't need to be famous.'"
 social:
@@ -70,13 +71,14 @@ Notable gap: Despite co-founding one of the world's most valuable pure software/
 |---------|------|-------|--------|--------|
 | StyleSeat | ~2011 | Angel (early investor, board member) | Beauty/Marketplace | [^8][^9] |
 | Headspace | ~2013 | Angel (board member until 2020) | Wellness/Consumer | [^6][^10] |
-| City Storage Systems | 2018 | Strategic ($150M, CEO) | Real Estate | [^1][^4] |
-| CloudKitchens | 2018 | Strategic (co-founder/CEO) | Food/Real Estate | [^1][^5] |
 | Canary | ~2014 | Angel | Smart Home/IoT | [^6] |
 | Wonolo | ~2015 | Angel | On-demand Staffing | [^6] |
+| City Storage Systems | 2018-03-20 | Strategic ($150M, CEO) | Real Estate | [^1][^4][^12] |
+| CloudKitchens | 2018 | Strategic (co-founder/CEO) | Food/Real Estate | [^1][^5] |
 | Beacon | ~2019 | Angel | Consumer | [^6] |
-| Goop Kitchen | ~2021 | Angel | Food/Restaurants | [^10] |
 | MegaBite | ~2021 | Angel | Food/Restaurants | [^10] |
+| Goop Kitchen | 2024-08 | Angel ($15M raise, $90M valuation) | Food/Restaurants | [^10][^13] |
+| Casa | 2026-04-30 | Series A (participant) | Home services / Marketplace | [^14] |
 
 Notes:
 - Years marked with ~ are proxies based on company founding year or known early funding rounds; exact investment dates are not confirmed for most deals.
@@ -137,3 +139,9 @@ No other independently sourced founder testimonials about Kalanick as an investo
 [^10]: Hustle Fund, "Travis Kalanick Investments: What His CloudKitchens Bet Tells Us About Real Estate Tech," accessed March 2026. https://www.hustlefund.vc/post/angel-squad-travis-kalanick-investments-what-his-cloudkitchens-bet-tells-us-about-real-estate-tech
 
 [^11]: Succeed Feed, "55 Travis Kalanick Quotes For Entrepreneur Success," accessed March 2026. https://succeedfeed.com/travis-kalanick-quotes/
+
+[^12]: Bloomberg, "Ex-Uber Chief Travis Kalanick Buys Real Estate Company, Takes CEO Reins," March 21, 2018. https://www.bloomberg.com/news/articles/2018-03-21/travis-kalanick-buys-real-estate-company-takes-ceo-reins
+
+[^13]: WWD, "Goop Refocuses Business on Fashion, Beauty and Food, Resulting in Layoffs," 2024. https://wwd.com/beauty-industry-news/beauty-features/gwyneth-paltrow-goop-restructure-layoffs-1236572002/
+
+[^14]: Brian Contreras, "Ex-Uber Execs Raise $27 Million for a Home Maintenance Startup," Inc., April 30, 2026. https://www.inc.com/brian-contreras/uber-veterans-raised-27-million-home-maintenance-startup-casa/91338374

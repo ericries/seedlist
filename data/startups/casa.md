@@ -1,39 +1,48 @@
 ---
-name: "Casa"
-slug: casa
-type: startup
-website: "https://www.casahomes.com"
-location: "United States"
-founded: 2024
-status_company: active
-sector: [home-services, consumer, marketplaces]
-stage_latest: "Series A"
-total_raised: "$27M"
-investors:
-  - slug: kirsten-green
-    round: series-a
-    year: 2026
-    date: 2026-04-30
-  - slug: travis-kalanick
-    round: series-a
-    year: 2026
-    date: 2026-04-30
 firms:
-  - slug: forerunner-ventures
-    round: series-a
-    year: 2026
-    date: 2026-04-30
-  - slug: 10100
-    round: series-a
-    year: 2026
-    date: 2026-04-30
+- date: 2026-04-30
+  round: series-a
+  slug: forerunner-ventures
+  year: 2026
+- date: 2026-04-30
+  round: series-a
+  slug: 10100
+  year: 2026
+- round: Seed (existing investor, follow-on)
+  slug: compound-ventures
+  year: 2021
+founded: 2024
 founders:
-  - name: "Michael York"
-    role: "CEO & Co-Founder"
-  - name: "Michael Mizrahi"
-    role: "Co-Founder"
-status: published
+- name: Michael York
+  role: CEO & Co-Founder
+- name: Michael Mizrahi
+  role: Co-Founder
+investors:
+- date: 2026-04-30
+  round: series-a
+  slug: kirsten-green
+  year: 2026
+- date: 2026-04-30
+  round: series-a
+  slug: travis-kalanick
+  year: 2026
+- round: Seed (existing investor, follow-on)
+  slug: 0xsmac
+  year: 2021
 last_researched: 2026-04-30
+location: United States
+name: Casa
+sector:
+- home-services
+- consumer
+- marketplaces
+slug: casa
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $27M
+type: startup
+website: https://www.casahomes.com
 ---
 
 ## About

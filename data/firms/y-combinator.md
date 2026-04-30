@@ -11,7 +11,7 @@ founders:
   role: Co-Founder
 fund_size: $500K per company (standard deal); previously $700M Continuity Fund (wound
   down 2023)
-last_researched: 2026-03-14
+last_researched: 2026-04-30
 location: San Francisco, CA
 name: Y Combinator
 sector_focus:

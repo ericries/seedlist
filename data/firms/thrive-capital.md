@@ -3,7 +3,7 @@ founded: 2009
 fund_size: $10B (Thrive X, 2026); $5B (Thrive IX, 2024); $3B (Thrive VIII, 2022);
   $2B (Thrive VII, 2021); $1B (Thrive VI, 2018); $700M (Thrive V, 2016); $400M (Thrive
   IV, 2014); $150M (Thrive III, 2012); $40M (Thrive I, 2011)
-last_researched: 2026-03-14
+last_researched: 2026-04-30
 location: New York, NY
 name: Thrive Capital
 sector_focus:
@@ -139,7 +139,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Kickstarter | Early | ~2012 (founded) | Consumer / Crowdfunding | Private [^3] |
 | Twitch | Growth | ~2014 | Consumer / Media | Acquired by Amazon (2014) [^2][^3] |
 | Stripe | Growth | ~2016 | Fintech / Payments | Private [^1][^3] |
-| Robinhood | Series C | 2017 | Fintech / Investing | Public (IPO 2021) [^1] |
+| Robinhood | Series C | 2017-04-26 | Fintech / Investing | Public (IPO 2021) [^1][^21] |
 | Slack | Growth | ~2015 | Enterprise SaaS | Acquired by Salesforce (2021) [^3] |
 | Affirm | Growth | ~2016 (founded) | Fintech / BNPL | Public (IPO 2021) [^8] |
 | ClassPass | Growth | ~2016 | Consumer / Fitness | Acquired by Mindbody [^3] |
@@ -152,12 +152,12 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Benchling | Early/Growth | ~2015 | Biotech / SaaS | Private [^1][^16] |
 | Greenhouse Software | Early | ~2013 (founded) | Enterprise / HR | Private [^3] |
 | Fanatics | Growth | ~2020 | Consumer / Sports | Private [^3] |
-| A24 | Growth | 2024 | Entertainment / Media | Private [^17] |
+| A24 | Growth | 2024-06-26 | Entertainment / Media | Private [^17] |
 | Skims | Growth | ~2021 | Consumer / Fashion | Private [^1] |
 | Instacart | Growth | ~2018 | Marketplace / Delivery | Public (IPO 2023) [^3] |
 | Databricks | Growth | ~2019 | Enterprise / Data & AI | Private [^3] |
-| OpenAI | Growth | 2023 | AI | Private [^1][^14] |
-| Scale AI | Series F | 2024 | AI / Data | Private [^13] |
+| OpenAI | Growth | 2024-10-02 | AI | Private [^1][^14] |
+| Scale AI | Series F | 2024-05-21 | AI / Data | Private [^13][^22] |
 | Ramp | Growth | ~2021 | Fintech / Corporate Cards | Private [^3] |
 | Anduril Industries | Growth | ~2020 | Defense Tech | Private [^3][^18] |
 | NuBank | Growth | ~2018 | Fintech / Banking | Public [^8] |
@@ -179,14 +179,14 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | SpaceX | Growth | ~2022 | Aerospace | Private [^4] |
 | Neuralink | Series E | 2025 | Neurotechnology | Private [^18] |
 | Physical Intelligence | Growth | ~2024 | AI / Robotics | Private [^3] |
-| Anysphere (Cursor) | Growth | 2025 | AI / Developer Tools | Private [^8] |
+| Anysphere (Cursor) | Series C | 2025-06-05 | AI / Developer Tools | Private [^8][^24] |
 | Anthropic | Series E | 2025 | AI | Private [^19] |
 | ElevenLabs | Series B | 2025 | AI / Voice | Private [^19] |
 | Hugging Face | Series D | 2023 | AI / ML Platform | Private [^19] |
 | Isomorphic Labs | Series A | 2025 | AI / Drug Discovery | Private [^9][^19] |
 | Lila Sciences | Seed | 2025 | AI / Scientific | Private [^19] |
 | Formation Bio | Series D | 2024 | Biotech / AI | Private [^13] |
-| Wiz | Growth | 2024 | Cybersecurity | Private [^13] |
+| Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^23] |
 | Base Power | Growth | ~2024 | Energy | Private [^8] |
 | Alsym Energy | Growth | ~2023 | Energy / Batteries | Private [^3] |
 | Clair | Early | ~2021 | Fintech / Payroll | Private [^3] |
@@ -314,3 +314,11 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 
 [^19]: "Thrive Capital Portfolio: AI Startups Backed by Thrive (2026 Tracker)." FeedTheAI, accessed March 2026. https://www.feedtheai.com/thrive-capital-portfolio-ai-startups-backed-by-thrive-2025-tracker/
 [^20]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+
+[^21]: "Robinhood stock-trading app confirms $110M raise at $1.3B valuation." TechCrunch, April 26, 2017. https://techcrunch.com/2017/04/26/robincorn/
+
+[^22]: "Data-labeling startup Scale AI raises $1B as valuation doubles to $13.8B." TechCrunch, May 21, 2024. https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/
+
+[^23]: "Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions." TechCrunch, May 7, 2024. https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/
+
+[^24]: "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR." TechCrunch, June 5, 2025. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/

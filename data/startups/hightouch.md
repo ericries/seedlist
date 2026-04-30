@@ -1,41 +1,62 @@
 ---
+firms:
+- date: 2026-04-29
+  round: series-d
+  slug: iconiq-growth
+  year: 2026
+- date: 2026-04-29
+  round: series-d
+  slug: y-combinator
+  year: 2026
+- round: Seed
+  slug: amplify-partners
+  year: 2020
+- round: ~2019
+  slug: nfx
+  year: 2019
+- round: Seed
+  slug: worklife-ventures
+  year: 2020
+founded: 2018
+founders:
+- name: Tejas Manohar
+  role: Co-Founder & Co-CEO
+- name: Kashish Gupta
+  role: Co-Founder & Co-CEO
+- name: Joshua Curl
+  role: Co-Founder
+investors:
+- date: 2026-04-29
+  round: series-d
+  year: 2026
+- round: Seed
+  slug: sunil-dhaliwal
+  year: 2020
+- round: ~2019
+  slug: gigi-levy-weiss
+  year: 2019
+- round: Series A
+  slug: lenny-pruss
+  year: 2021
+- round: Seed
+  slug: brianne-kimmel
+  year: 2020
+last_researched: 2026-04-30
+location: San Francisco, CA
 name: Hightouch
+sector:
+- ai
+- martech
+- data-infrastructure
+- enterprise-saas
+- composable-cdp
 slug: hightouch
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $200M+
 type: startup
 website: https://hightouch.com
-location: San Francisco, CA
-founded: 2018
-status_company: active
-sector:
-  - ai
-  - martech
-  - data-infrastructure
-  - enterprise-saas
-  - composable-cdp
-stage_latest: Series D
-total_raised: "$200M+"
-investors:
-  - date: 2026-04-29
-    round: series-d
-    year: 2026
-firms:
-  - slug: iconiq-growth
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-  - slug: y-combinator
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-founders:
-  - name: Tejas Manohar
-    role: Co-Founder & Co-CEO
-  - name: Kashish Gupta
-    role: Co-Founder & Co-CEO
-  - name: Joshua Curl
-    role: Co-Founder
-status: published
-last_researched: 2026-04-30
 ---
 
 ## About

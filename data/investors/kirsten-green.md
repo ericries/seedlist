@@ -1,7 +1,7 @@
 ---
 name: "Kirsten Green"
 slug: kirsten-green
-tldr: "Founder of Forerunner Ventures investing $1M-$15M in seed and Series A consumer, DTC, marketplaces, and fintech. Pioneer of consumer internet thesis focused on platforms and repeat founders. Notable exits: Warby Parker, Glossier, Thrive Market reflect early conviction in DTC category transformation."
+tldr: "Founder of Forerunner Ventures investing $1M-$15M in seed and Series A consumer, DTC, marketplaces, and fintech. Pioneer of consumer internet thesis focused on platforms and repeat founders. Notable exits: Warby Parker, Glossier, Thrive Market reflect early conviction in DTC category transformation. Most recent verified deal is leading Casa's $20M Series A (April 2026)."
 type: individual
 firm: forerunner-ventures
 role: "Founder & Managing Partner"
@@ -16,16 +16,17 @@ sector_focus:
   - fintech
   - health-wellness
   - marketplaces
+  - home-services
 check_size: "$1M-$15M"
 last_verified_investment:
-  date: 2025
-  company: "Agentio"
-  round: "Seed"
+  date: 2026-04-30
+  company: "Casa"
+  round: "Series A"
 social:
   twitter: "@kirstenagreen"
   linkedin: "linkedin.com/in/kirstengreen"
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-04-30
 ---
 
 ## Background
@@ -83,7 +84,7 @@ The analysis below is based on 30 verified portfolio companies from Forerunner's
 | Dollar Shave Club | Seed | ~2012 | Consumer/DTC | Acquired (Unilever, ~$1B) | [^1][^5] |
 | Bonobos | Early | ~2012 | Consumer/DTC | Acquired (Walmart) | [^1] |
 | Jet.com | Early | ~2014 | Commerce | Acquired (Walmart, $3.3B) | [^1] |
-| Glossier | Series A | 2014 | Consumer/Beauty | Active | [^12] |
+| Glossier | Seed (lead) | 2014 | Consumer/Beauty | Active | [^12][^13] |
 | HotelTonight | Early | ~2014 | Consumer/Travel | Acquired (Airbnb) | [^1] |
 | Chime | Early | ~2015 | Fintech | Active (Unicorn) | [^1][^8] |
 | Hims & Hers | Early | ~2017 | Health/Wellness | IPO (NYSE: HIMS) | [^1] |
@@ -109,6 +110,7 @@ The analysis below is based on 30 verified portfolio companies from Forerunner's
 | Balance | Early | ~2022 | Fintech | Active | [^1] |
 | Zola | Early | ~2016 | Consumer/Weddings | Active | [^8] |
 | Leland | Early | ~2022 | Marketplace/Education | Active | [^8] |
+| Casa | Series A (lead) | 2026-04-30 | Home services / Marketplace | Active | [^14] |
 
 *This table represents approximately 30 of 161 total investments reported by Tracxn [^9]. Many investment years are approximate based on founding year or press coverage timing.*
 
@@ -145,3 +147,4 @@ No additional independently sourced founder testimonials were found beyond firm-
 [^11]: Forerunner Ventures, "The Future Forerunners; Fund VI $1B," accessed March 2026. https://www.forerunnerventures.com/perspectives/the-future-forerunners
 [^12]: NFX Signal, "Kirsten Green's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/kirsten-green
 [^13]: C Magazine, "Meet Kirsten Green, the VC with the Midas Touch," accessed March 2026. https://magazinec.com/culture/on-a-roll/
+[^14]: Brian Contreras, "Ex-Uber Execs Raise $27 Million for a Home Maintenance Startup," Inc., April 30, 2026. https://www.inc.com/brian-contreras/uber-veterans-raised-27-million-home-maintenance-startup-casa/91338374

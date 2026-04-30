@@ -2,7 +2,7 @@
 founded: 2004
 fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund, 2023);
   seeking $3.5B across three funds (2025)
-last_researched: 2026-03-13
+last_researched: 2026-04-30
 location: Menlo Park, CA
 name: Khosla Ventures
 sector_focus:
@@ -135,20 +135,20 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Okta | Series B | 2011 | Enterprise SaaS | Public (IPO 2017) [^22][^26] |
 | Nutanix | Series B | ~2011 | Enterprise / Infrastructure | Public (IPO 2016) [^22][^16] |
 | GitLab | Series A | 2015 | Developer Tools | Public (IPO 2021) [^22][^6] |
-| Affirm | Series A | 2013 | Fintech | Public (IPO 2021) [^22][^10] |
+| Affirm | Series A | 2014 | Fintech | Public (IPO 2021) [^22][^10][^37] |
 | QuantumScape | Early | ~2012 (founded) | Energy / Batteries | Public (SPAC 2020) [^22][^22] |
-| Guardant Health | Series B | 2014 | MedTech / Diagnostics | Public (IPO 2018) [^22][^27] |
-| Rocket Lab | Series A | 2013 | Aerospace | Public (SPAC 2021) [^22][^28] |
+| Guardant Health | Series B | 2014-04-22 | MedTech / Diagnostics | Public (IPO 2018) [^22][^27] |
+| Rocket Lab | Series A | 2013-10-01 | Aerospace | Public (SPAC 2021) [^22][^28] |
 | Oscar Health | Early | ~2013 (founded) | Health Insurance | Public (IPO 2021) [^22] |
 | Upstart | Early | ~2012 (founded) | Fintech / Lending | Public (IPO 2020) [^22] |
 | RingCentral | Early | ~2003 (founded) | Enterprise / Communications | Public (IPO 2013) [^22] |
 | Impossible Foods | Series A | ~2011 (founded) | Food Tech | Private [^22] |
-| Commonwealth Fusion | Series A | 2019 | Energy / Fusion | Private [^22] |
+| Commonwealth Fusion | Series A | 2019-06-27 | Energy / Fusion | Private [^22][^36] |
 | Sword Health | Series A | ~2015 (founded) | Digital Health | Private [^22][^29] |
 | Ramp | Early | ~2019 (founded) | Fintech | Private [^22] |
 | Faire | Early | ~2017 (founded) | Marketplace | Private [^12][^22] |
 | Opendoor | Co-founded by Rabois | ~2014 (founded) | Real Estate | Public (SPAC 2020) [^12][^22] |
-| Waabi | Series A | 2021 | Autonomous Vehicles | Private [^22][^30] |
+| Waabi | Series A | 2021-06-08 | Autonomous Vehicles | Private [^22][^30] |
 | Cognition | Early | ~2023 (founded) | AI / Developer Tools | Private [^22] |
 | Replit | Early | ~2016 (founded) | Developer Tools | Private [^22] |
 | Glean | Early | ~2019 (founded) | Enterprise / AI Search | Private [^22] |
@@ -190,11 +190,11 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Distyl | Early | ~2023 (founded) | AI | Private [^22] |
 | Nomagic | Early | ~2017 (founded) | Robotics | Private [^22] |
 | Loyal | Early | ~2019 (founded) | Therapeutics / Veterinary | Private [^22] |
-| Slash | Series C | 2026 | Fintech / Banking | Private [^31] |
-| Factory | Series B | 2026 | AI / Developer Tools | Private [^32] |
-| Glydways | Series C | 2026 | Autonomous Vehicles / Mobility | Private [^33] |
-| Nas.com | Series A | 2026 | AI / Creator Economy | Private [^34] |
-| Rogo | Series D | 2026 | AI / Fintech | Private [^35] |
+| Slash | Series C | 2026-04-15 | Fintech / Banking | Private [^31] |
+| Factory | Series B | 2026-04-16 | AI / Developer Tools | Private [^32] |
+| Glydways | Series C | 2026-04-14 | Autonomous Vehicles / Mobility | Private [^33] |
+| Nas.com | Series A | 2026-04-16 | AI / Creator Economy | Private [^34] |
+| Rogo | Series D | 2026-04-29 | AI / Fintech | Private [^35] |
 
 *Note: This table includes 66 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -335,3 +335,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^34]: PR Newswire, "Nas.com Raises $27M Series A Led by Khosla Ventures," April 16, 2026. https://www.prnewswire.com/news-releases/nascom-raises-27m-series-a-led-by-khosla-ventures-as-ai-unleashes-the-biggest-wave-of-new-business-creation-in-history-302745035.html
 
 [^35]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+
+[^36]: "Commonwealth Fusion Systems Raises $115 Million and Closes Series A Round to Commercialize Fusion Energy." PR Newswire / Commonwealth Fusion Systems, June 27, 2019. https://cfs.energy/news-and-media/close-series-a-round/
+
+[^37]: "The Story of a Cap Table: Affirm." Newcomer (Eric Newcomer), accessed April 2026. https://www.newcomer.co/p/the-story-of-a-cap-table-affirm

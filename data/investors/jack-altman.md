@@ -82,7 +82,7 @@ Altman claims a generalist approach but his portfolio reveals a strong B2B enter
 | Vanta | Pre-2024 | Angel | [^10] |
 | Product Hunt | Pre-2024 | Angel (exit: acquired by AngelList) | [^10][^13] |
 | Ethena | Pre-2024 | Angel | [^13][^14] |
-| Cohere | Pre-2024 | Angel (exit) | [^10] |
+| Cohere.io | 2021-03-17 | Seed (exit: acquired by Ramp 2023) | [^10][^17] |
 | Career Karma | Pre-2024 | Angel (exit) | [^10] |
 | WorkRamp | Pre-2024 | Angel (exit) | [^10] |
 | Pocus | Pre-2024 | Angel | [^14] |
@@ -157,3 +157,4 @@ No independently sourced founder testimonials found. Altman is a relatively new 
 [^14]: Boring Business Nerd, "Jack Altman — Investor Profile," accessed March 2026. https://www.boringbusinessnerd.com/investor/jack-altman
 [^15]: TechCrunch, "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government," April 29, 2026. https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/
 [^16]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+[^17]: TechCrunch, "Cohere raises $3.1 million for its remote control solution for web apps," March 17, 2021. https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/

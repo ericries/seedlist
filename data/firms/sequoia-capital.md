@@ -2,7 +2,7 @@
 founded: 1972
 fund_size: $56B AUM (January 2025); $19.6B evergreen fund (February 2025); $950M seed/venture
   funds (October 2025)
-last_researched: 2026-03-14
+last_researched: 2026-04-30
 location: Menlo Park, CA
 name: Sequoia Capital
 sector_focus:
@@ -202,20 +202,20 @@ The following table includes Sequoia Capital investments verified through the fi
 | Zoom | Series D (led) | 2017 | Enterprise / Communications | Public (IPO 2019) [^21][^33] |
 | Nubank | Growth | ~2018 | Fintech / Banking | Public (IPO 2021) [^22] |
 | Klarna | Growth | ~2019 | Fintech / BNPL | Public [^22] |
-| Reddit | Growth | ~2019 | Consumer / Social | Public (IPO 2024) [^22] |
-| SpaceX | Growth | ~2020 | Aerospace | Private [^22] |
-| Vanta | Series A | ~2020 | Security / Compliance | Private [^22] |
-| Retool | Early | ~2020 | Developer Tools | Private [^22] |
+| Reddit | Series D | 2019-02-11 | Consumer / Social | Public (IPO 2024) [^22][^35] |
+| SpaceX | Series J (lead) | 2021-02-16 | Aerospace | Private [^22][^36] |
+| Vanta | Series A (lead) | 2021-05-04 | Security / Compliance | Private [^22][^37] |
+| Retool | Series A (lead) | 2019-10-26 | Developer Tools | Private [^22][^38] |
 | HubSpot | Growth | ~2020 | GTM / Enterprise | Public [^22] |
 | Unity | Growth | ~2020 | Games / Engine | Public (IPO 2020) [^1] |
 | Instacart | Growth | ~2020 | Marketplace / Delivery | Public (IPO 2023) [^22] |
 | Figma | Growth | ~2021 | Developer Tools / Design | Public (IPO 2025) [^22] |
 | FTX | Series B | 2021 | Crypto / Exchange | Bankrupt (2022) [^15][^16] |
-| OpenAI | Growth | ~2023 | AI | Private [^20][^22] |
-| xAI | Growth | ~2024 | AI | Private [^20] |
+| OpenAI | Tender (~$300M co-investment) | 2023-04-28 | AI | Private [^20][^22][^39] |
+| xAI | Series B | 2024-05-26 | AI | Private [^20][^40] |
 | Harvey | Series A | ~2023 | AI / Legal | Private [^21] |
-| Clay | Seed | ~2023 | AI / Sales | Private [^13] |
-| Sierra | Seed | ~2023 | AI / Customer Service | Private [^13] |
+| Clay | Series A (lead) | 2023 | AI / Sales | Private [^13][^41] |
+| Sierra | Seed (co-led with Benchmark) | 2024-02-13 | AI / Customer Service | Private [^13][^42] |
 | Anthropic | Growth | 2026 | AI | Private [^20] |
 | Nominal | Series B (led) | 2025 | Defense Tech / Hardware | Private [^25] |
 | Oasis Security | Series A | 2024 | Cybersecurity / Identity | Private [^26] |
@@ -362,3 +362,19 @@ The following table includes Sequoia Capital investments verified through the fi
 [^33]: TechCrunch, "Zoom video conferencing service raises $100 million from Sequoia on billion-dollar valuation," January 17, 2017. https://techcrunch.com/2017/01/17/sequoia-invests-100-million-in-zoom-video-conferencing-service/ — Series D led by Sequoia at $1B valuation; Carl Eschenbach joined the board.
 
 [^34]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+
+[^35]: Tracxn, "Reddit — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/reddit/__WeE1RjZf7k4y39amTMHLaFH0XVTboUapxnKYYoxqcCw/funding-and-investors — Sequoia Capital first invested in Reddit on February 11, 2019, in the Series D round.
+
+[^36]: Bloomberg, "SpaceX Funding Round at $74 Billion Valuation Was Led by Sequoia," February 18, 2021. https://www.bloomberg.com/news/articles/2021-02-18/spacex-funding-round-at-74-billion-valuation-was-led-by-sequoia — Sequoia led the Series J that closed February 16, 2021.
+
+[^37]: Vanta resources page, "Announcing Vanta's $50 Million Series A from Sequoia Capital," May 4, 2021. https://www.vanta.com/resources/vanta-announces-series-a — Series A led by Andrew Reed at Sequoia.
+
+[^38]: Bloomberg, "Retool Nears $1 Billion Valuation With Funding From Sequoia," October 20, 2020. https://www.bloomberg.com/news/articles/2020-10-20/retool-nears-1-billion-valuation-with-funding-from-sequoia — Sequoia first invested in Retool's Series A on October 26, 2019.
+
+[^39]: TechCrunch, "OpenAI closes $300M share sale at $27B-29B valuation," April 28, 2023. https://techcrunch.com/2023/04/28/openai-funding-valuation-chatgpt/ — Sequoia participated in the April 2023 tender offer alongside Andreessen Horowitz, Thrive Capital, K2 Global, and Founders Fund.
+
+[^40]: TechCrunch, "Elon Musk's xAI raises $6B from Valor, a16z and Sequoia," May 26, 2024. https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/ — Series B at $24B post-money valuation.
+
+[^41]: Clay company blog, "Clay announces $1.5B valuation employee tender offer led by Sequoia Capital," accessed April 2026. https://www.clay.com/blog/tender-offer — Sequoia first invested in Clay in 2023 in its Series A round.
+
+[^42]: Fortune, "Exclusive: Ex-Salesforce Co-CEO Bret Taylor launches AI startup Sierra," February 13, 2024. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/ — Sierra emerged from stealth February 13, 2024 with $110M from Sequoia, Benchmark and others.

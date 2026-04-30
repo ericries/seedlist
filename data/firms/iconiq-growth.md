@@ -51,7 +51,7 @@ team:
     role: Founder & CEO (ICONIQ Capital)
     slug: divesh-makan
 status: published
-last_researched: 2026-03-30
+last_researched: 2026-04-30
 ---
 
 ## About
@@ -111,12 +111,12 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | 1Password | Series C ($620M, lead, $6.8B valuation) | 2022 | Cybersecurity | Active | [^22] [^32] |
 | Reprise | Series B ($62M) | 2021 | Enterprise SaaS | Active | [^23] |
 | NinjaOne | Series C ($231.5M, lead) | 2024 | Enterprise SaaS/IT Management | Active | [^14] |
-| Ramp | Growth | 2025 | Fintech | Active | [^3] |
+| Ramp | Series E-2 ($500M, lead, $22.5B valuation) | 2025-07-30 | Fintech | Active | [^3] [^39] |
 | ElevenLabs | Series C ($180M, co-lead, $3.3B valuation) | 2024 | AI/Voice | Active | [^24] [^33] |
 | ElevenLabs | Series D ($500M, $11B valuation) | 2025 | AI/Voice | Active | [^24] [^34] |
 | Anthropic | Series G (co-lead) | 2025 | AI/Foundation Models | Active | [^10] [^3] |
 | Databricks | Late-stage ($10B round) | 2024 | AI/Data Platform | Active | [^3] |
-| Quince | Series D (lead) | 2025 | Consumer/E-commerce | Active | [^3] |
+| Quince | Series D ($200M, lead, $4.5B valuation) | 2025-07-29 | Consumer/E-commerce | Active | [^3] [^40] |
 | Lead Bank | Series B | 2025 | Fintech | Active | [^10] |
 | Legora | Series B | 2025 | AI/Legal | Active | [^10] |
 | Nevis | Series A | 2025 | AI/Fintech | Active | [^10] |
@@ -150,7 +150,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Wolt | Growth | ~2020 | Consumer Internet/Delivery | Acquired by DoorDash (2022) | [^7] |
 | Calendly | Growth | ~2021 | Enterprise SaaS | Active | [^11] |
 | Canva | Secondary | ~2021 | Enterprise SaaS/Design | Active | [^20] |
-| Glean | Growth | 2024 | AI/Enterprise Search | Active | [^10] |
+| Glean | Series D ($200M+, $2.2B valuation) | 2024-02-27 | AI/Enterprise Search | Active | [^10] [^41] |
 | Drata | Series C ($200M, co-lead, $2B valuation) | 2022 | Enterprise SaaS/Compliance | Active | [^11] [^35] |
 | Groww | Growth | 2021 | Fintech | IPO (2025) | [^10] |
 | Monzo | Growth | ~2022 | Fintech/Neobank | Active | [^7] |
@@ -259,3 +259,9 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^37]: BusinessWire, "AcuityMD Lands $80 Million in New Funding to Fuel AI Innovation in Medical Device (MedTech) Industry," April 21, 2026. https://www.businesswire.com/news/home/20260421820643/en/AcuityMD-Lands-$80-Million-in-New-Funding-to-Fuel-AI-Innovation-in-Medical-Device-MedTech-Industry
 
 [^38]: AcuityMD press release, "AcuityMD Secures $45M in Series B Funding to Expand its Commercial Intelligence Platform to Medical Technology Manufacturers," June 4, 2024. https://www.acuitymd.com/press-release/acuitymd-secures-45m-in-series-b-funding-to-expand-its-commercial-intelligence-platform-to-medical-technology-manufacturers
+
+[^39]: Ramp press release, "Ramp Raises $500 Million at $22.5 Billion Valuation to Accelerate AI and Build the Future of Finance," PR Newswire, July 30, 2025. https://www.prnewswire.com/news-releases/ramp-raises-500-million-at-22-5-billion-valuation-to-accelerate-ai-and-build-the-future-of-finance-302516953.html
+
+[^40]: Crunchbase News, "Quince, A Bright Spot In Struggling D2C Fashion Space, More Than Doubles Valuation To $4.5B With Second Raise In 6 Months," July 29, 2025. https://news.crunchbase.com/e-commerce/iconiq-investment-doubles-quince-valuation/
+
+[^41]: Glean press release, "Glean Announces Over $200M Series D to Accelerate Secure Deployment of Generative AI in the Enterprise," BusinessWire, February 27, 2024. https://www.businesswire.com/news/home/20240227101592/en/Glean-Announces-Over-%24200M-Series-D-to-Accelerate-Secure-Deployment-of-Generative-AI-in-the-Enterprise
