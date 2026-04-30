@@ -20,24 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Swedish legal AI startup Legora raises €42 million extension to Series D
-    – bringing total to over €500 million
-  url: https://www.eu-startups.com/2026/04/swedish-legal-ai-startup-legora-raises-e42-million-extension-to-series-d-bringing-total-to-over-e500-million/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: Swedish legal AI startup Legora
-  parsed_amount: null
-  parsed_round: Series D
-  status: pending
-- title: Swiss semiconductor startup Mosaic SoC raises €3.2 million to bring spatial
-    intelligence to low-power devices
-  url: https://www.eu-startups.com/2026/04/swiss-semiconductor-startup-mosaic-soc-raises-e3-2-million-to-bring-spatial-intelligence-to-low-power-devices/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: Swiss semiconductor startup Mosaic SoC
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
   url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
   source: eu-startups
@@ -45,7 +27,9 @@ pending_rounds:
   parsed_company: Cambridge-based Arm spin-out Kigen
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: lead investor for €11.5M April 30 round not in primary press (article
+    paywalled)
 - title: Dutch quantum startup Groove Quantum raises €16 million to advance scalable
     chip manufacturing
   url: https://www.eu-startups.com/2026/04/dutch-quantum-startup-groove-quantum-raises-e16-million-to-advance-scalable-chip-manufacturing/
@@ -54,7 +38,9 @@ pending_rounds:
   parsed_company: Dutch quantum startup Groove Quantum
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by groove-quantum.md
 - title: Rocsys raises €11.1 million and unveils world’s first multi-bay hands-free
     charging solution for robotaxi fleets
   url: https://www.eu-startups.com/2026/04/rocsys-raises-e11-1-million-and-unveils-worlds-first-multi-bay-hands-free-charging-solution-for-robotaxi-fleets/
@@ -63,7 +49,30 @@ pending_rounds:
   parsed_company: Rocsys
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by rocsys.md
+- title: Swedish legal AI startup Legora raises €42 million extension to Series D
+    – bringing total to over €500 million
+  url: https://www.eu-startups.com/2026/04/swedish-legal-ai-startup-legora-raises-e42-million-extension-to-series-d-bringing-total-to-over-e500-million/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Swedish legal AI startup Legora
+  parsed_amount: null
+  parsed_round: Series D
+  status: processed
+  processed: '2026-04-30'
+  notes: updated existing legora.md with Series D extension
+- title: Swiss semiconductor startup Mosaic SoC raises €3.2 million to bring spatial
+    intelligence to low-power devices
+  url: https://www.eu-startups.com/2026/04/swiss-semiconductor-startup-mosaic-soc-raises-e3-2-million-to-bring-spatial-intelligence-to-low-power-devices/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Swiss semiconductor startup Mosaic SoC
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €3.2M round, no lead investor confirmed in primary press
 - title: Sharc Energy Closes Second Tranche of Debenture
   url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
   source: globenewswire

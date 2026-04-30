@@ -63,6 +63,7 @@ Legora is a Swedish AI legal technology company that has raised a $550M Series D
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
 | Series D | 2026-03-10 | $550M | $5.55B (post) | Accel | Benchmark, Bessemer Venture Partners, General Catalyst, ICONIQ, Redpoint Ventures, Y Combinator, Alkeon Capital, Bain Capital, Firstmark Capital, Menlo Ventures, Sands Capital, Starwood Capital, Salesforce Ventures [^1][^2][^3] |
+| Series D Extension | 2026-04-30 | $50M (~€42M) | $5.6B (post) | Atlassian, NVentures (NVIDIA) | Adams Street Partners, Airtree, Barclays, Geodesic Capital, Insight Partners, Liberty Global, Nikesh Arora [^4] |
 
 ## What Investors Say
 
@@ -77,3 +78,4 @@ No verified founder quotes found at this time.
 [^1]: TechCrunch, "Legora raises $550M Series D," March 2026. https://techcrunch.com/2026/03/10/legora-series-d
 [^2]: Bloomberg, "Legora raises $550M at $5.55B valuation," March 2026. https://www.bloomberg.com/news/articles/2026-03-10/legora-series-d
 [^3]: Crunchbase News, "Legora Series D," March 2026. https://news.crunchbase.com/ai/legora-series-d-2026
+[^4]: Legal IT Insider, "Legora raises $50m Series D extension - Atlassian and NVIDIA fund join as investors," April 30, 2026. https://legaltechnology.com/2026/04/30/legora-raises-50m-series-d-extension-atlassian-and-nvidia-fund-join-as-investors/
