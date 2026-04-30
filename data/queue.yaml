@@ -16981,7 +16981,7 @@ queue:
 - name: Amanda Niu
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Shine Capital
   discovered_from: mo-koyfman
@@ -17674,7 +17674,7 @@ queue:
 - name: Josh Mailman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Jalia Ventures / Serious Change LP
   discovered_from: kesha-cash
@@ -19404,3 +19404,53 @@ queue:
   added: '2026-03-17'
   discovered_from: rocsys
   source: Co-investor in Rocsys Series A Extension (2026-04-29)
+- name: Level (Level Leaders)
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amanda-niu
+  source: Founding-member angel network where Amanda Niu participates; multiracial
+    women's network investing in Black women entrepreneurs
+- name: Serious Change LP
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mailman
+  source: Josh Mailman's $70M-$100M sole-LP impact venture fund founded 2006; pioneering
+    impact investor; Joshua Mailman is its Founder & Managing Director
+- name: Wayne Silby
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Calvert Group
+  discovered_from: josh-mailman
+  source: Co-founder of Social Venture Network (1987) with Josh Mailman; founder of
+    Calvert Group; pioneer of socially responsible investing
+- name: Gary Hirshberg
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Stonyfield Farm
+  discovered_from: josh-mailman
+  source: Founder of Stonyfield Farm; early SVN member; Josh Mailman early seed backer
+- name: Jeffrey Hollender
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Seventh Generation / Sustain Condoms
+  discovered_from: josh-mailman
+  source: Co-founder Seventh Generation, Sustain Condoms; SVN member; Josh Mailman
+    portfolio
+- name: Threshold Foundation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: josh-mailman
+  source: Donor network founded by Josh Mailman in 1981 (originally 'the Doughnuts');
+    has distributed $40M+ in grants
