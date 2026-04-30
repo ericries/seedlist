@@ -10040,7 +10040,7 @@ queue:
 - name: Byron Knight
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Koch Disruptive Technologies
   discovered_from: koch-disruptive-technologies
@@ -17834,7 +17834,7 @@ queue:
 - name: Mohit Saxena
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: InMobi
   discovered_from: naveen-tewari
@@ -19137,3 +19137,105 @@ queue:
   firm: Dex
   discovered_from: round-monitoring-2026-04-29
   source: founder/CEO of Dex seed round 2026-04-29
+- name: Lucidean
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT seed co-lead Dec 2025; Byron Knight portfolio
+- name: Rhino.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT-led $50M Series A Jan 2025; Byron Knight quoted
+- name: Cellares
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT portfolio; Byron Knight board seat
+- name: Trackonomy
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT portfolio; Byron Knight board seat
+- name: Strider
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT portfolio; Byron Knight board seat
+- name: Automox
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT portfolio; Byron Knight board seat
+- name: Outrider
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: KDT/NEA co-led $62M Series D Oct 2024
+- name: Entrada Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: byron-knight
+  source: Co-lead with KDT on Lucidean seed Dec 2025
+- name: T V Mohandas Pai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aarin Capital
+  discovered_from: mohit-saxena
+  source: Co-investor in JustDoc 2016 seed; ex-Infosys CFO; prolific Indian angel
+- name: Mumbai Angels
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-saxena
+  source: Angel network; Mohit Saxena led DoSelect 2016 seed cohort
+- name: AppVirality
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-saxena
+  source: $465K Jan 2015 seed; Mohit Saxena, Rajan Anandan, Mike Galgon, Ravi Gururaj
+    angel-invested
+- name: DoSelect
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-saxena
+  source: Nov 2016 seed; Mumbai Angels (Mohit Saxena-led) + 3one4 Capital + Aarin
+    Capital; acquired by Info Edge
+- name: Blue Nectar
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-saxena
+  source: Rs 10 Cr Pre-Series A Aug 2022; Mohit Saxena angel
+- name: Rizort
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-saxena
+  source: Founded 2017 by Mohit Saxena, Nishant Sameer, Sachin Kanodia; SF luxury
+    vacation marketplace

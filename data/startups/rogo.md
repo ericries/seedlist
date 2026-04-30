@@ -1,42 +1,50 @@
 ---
-name: "Rogo"
-slug: rogo
-type: startup
-website: "https://rogo.ai"
-location: "New York, NY"
-founded: 2022
-status_company: active
-sector: [ai, fintech, agentic-ai, enterprise, financial-services]
-stage_latest: "Series D"
-total_raised: "$300M+"
 firms:
-  - slug: kleiner-perkins
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-  - slug: sequoia-capital
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-  - slug: thrive-capital
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-  - slug: khosla-ventures
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-  - slug: boxgroup
-    round: series-d
-    year: 2026
-    date: 2026-04-29
+- date: 2026-04-29
+  round: series-d
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-04-29
+  round: series-d
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-04-29
+  round: series-d
+  slug: thrive-capital
+  year: 2026
+- date: 2026-04-29
+  round: series-d
+  slug: khosla-ventures
+  year: 2026
+- date: 2026-04-29
+  round: series-d
+  slug: boxgroup
+  year: 2026
+- round: Seed (Alt Capital)
+  slug: benchmark
+  year: 2024
+founded: 2022
 investors:
-  - slug: jack-altman
-    round: series-d
-    year: 2026
-    date: 2026-04-29
-status: published
+- date: 2026-04-29
+  round: series-d
+  slug: jack-altman
+  year: 2026
 last_researched: 2026-04-29
+location: New York, NY
+name: Rogo
+sector:
+- ai
+- fintech
+- agentic-ai
+- enterprise
+- financial-services
+slug: rogo
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $300M+
+type: startup
+website: https://rogo.ai
 ---
 
 ## About

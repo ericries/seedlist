@@ -1,18 +1,30 @@
 ---
-name: "Chord"
-slug: chord
-type: startup
-website: ""
-location: "New York, NY"
+firms:
+- round: '2022'
+  slug: neo
+  year: 2022
 founded: 2020
-status_company: active
-sector: [ai, commerce, ecommerce, retail, agentic-ai, enterprise]
-stage_latest: "Venture"
-total_raised: "$45M"
-firms: []
-investors: []
-status: published
+investors:
+- round: '2022'
+  slug: emily-cohen
+  year: 2022
 last_researched: 2026-04-29
+location: New York, NY
+name: Chord
+sector:
+- ai
+- commerce
+- ecommerce
+- retail
+- agentic-ai
+- enterprise
+slug: chord
+stage_latest: Venture
+status: published
+status_company: active
+total_raised: $45M
+type: startup
+website: ''
 ---
 
 ## About

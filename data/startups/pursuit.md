@@ -1,26 +1,34 @@
 ---
-name: "Pursuit"
-slug: pursuit
-type: startup
-website: ""
-location: "United States"
+firms:
+- round: Series A
+  slug: benchmark
+  year: 2026
 founded: 2024
-status_company: active
-sector: [govtech, ai, b2g, vertical-saas, sales-tech]
-stage_latest: "Series A"
-total_raised: "$25.5M"
-firms: []
 investors:
-  - slug: bill-gurley
-    round: series-a
-    year: 2026
-    date: 2026-04-29
-  - slug: jack-altman
-    round: series-a
-    year: 2026
-    date: 2026-04-29
-status: published
+- date: 2026-04-29
+  round: series-a
+  slug: bill-gurley
+  year: 2026
+- date: 2026-04-29
+  round: series-a
+  slug: jack-altman
+  year: 2026
 last_researched: 2026-04-29
+location: United States
+name: Pursuit
+sector:
+- govtech
+- ai
+- b2g
+- vertical-saas
+- sales-tech
+slug: pursuit
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $25.5M
+type: startup
+website: ''
 ---
 
 ## About
