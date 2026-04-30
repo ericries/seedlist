@@ -22,7 +22,7 @@ Mosaic SoC is a Zurich-based ETH spinout building dedicated perception chips tha
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-30 | Pre-Seed | $3.8M (~€3.2M) | Founderful | Kick Foundation [^1][^2][^3] |
+| 2026-04-30 | Pre-Seed | $3.8M | Founderful | Kick Foundation [^1][^2][^3] |
 
 ## What Investors Say
 

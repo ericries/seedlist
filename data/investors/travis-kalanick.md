@@ -16,7 +16,7 @@ sector_focus:
 - consumer
 - home-services
 slug: travis-kalanick
-tldr: "Uber co-founder/former CEO (2010-2017). Launched 10100 fund (2018) for real estate, e-commerce, emerging tech in China/India. CEO of Atoms (CloudKitchens ghost kitchens, $15B valuation, $300M personal capital). Forbes 400 #374, $3.6B net worth. Philosophy: focus on 'real world' businesses moving physical things, not just software. Infrastructure plays over consumer apps. Team quality as primary signal. Seeks founders with 'shared vision,' 'want to build but don't need to be famous.'"
+tldr: "Uber co-founder/former CEO (2010-2017). Launched 10100 fund (2018) for real estate, e-commerce, emerging tech in China/India. CEO of Atoms (CloudKitchens ghost kitchens, $15B valuation, $300M personal capital). Forbes 400 #374, $3.6B net worth. Most recent verified deal is Casa Series A (April 2026) -- the home services startup founded by Uber/CloudKitchens alumni. Philosophy: focus on 'real world' businesses moving physical things, not just software."
 social:
   linkedin: linkedin.com/in/traviskalanick
   twitter: '@traviskal'
@@ -51,9 +51,9 @@ On stealth-mode building, Kalanick recently stated: "You build a culture of peop
 
 ## Inferred Thesis
 
-**Based on 10 verified investments; this is a small sample as Kalanick's investing activity is relatively limited compared to other prolific angels.**
+**Based on 11 verified investments; this is a small sample as Kalanick's investing activity is relatively limited compared to other prolific angels.**
 
-Kalanick's portfolio reveals a strong tilt toward physical infrastructure and marketplace businesses. Of 10 verified investments: 3 are real estate/food infrastructure (30%), 2 are consumer services/marketplace (20%), 2 are logistics/delivery (20%), 2 are wellness/lifestyle (20%), and 1 is other (10%).
+Kalanick's portfolio reveals a strong tilt toward physical infrastructure and marketplace businesses. Of 11 verified investments: 4 are real estate/food infrastructure (36%), 3 are consumer services/marketplace (including Casa, 27%), 1 is logistics/delivery (9%), 2 are wellness/lifestyle (18%), and 1 is other (9%).
 
 The dominant pattern is capital-intensive, asset-heavy businesses with strong unit economics rather than pure software plays [^6]. CloudKitchens (ghost kitchen real estate), City Storage Systems (distressed real estate redevelopment), and his international logistics investments all reflect a conviction that controlling physical assets creates defensible competitive advantages.
 
@@ -82,7 +82,7 @@ Notable gap: Despite co-founding one of the world's most valuable pure software/
 
 Notes:
 - Years marked with ~ are proxies based on company founding year or known early funding rounds; exact investment dates are not confirmed for most deals.
-- Kalanick has between 18 (getPIN) and 26 (AngelMatch) reported investments [^6][^3]. This table represents approximately 9 verified investments.
+- Kalanick has between 18 (getPIN) and 26 (AngelMatch) reported investments [^6][^3]. This table represents approximately 11 verified investments.
 - Kalanick was described as an investor in StyleSeat "since day one," making it likely one of his earliest angel investments [^8][^9].
 - City Storage Systems and CloudKitchens are operating companies where Kalanick serves as CEO, not passive investments.
 

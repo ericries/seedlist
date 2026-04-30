@@ -108,7 +108,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Plaid | Seed | ~2013 | Fintech | Active (valued at $13B+) [^2] |
-| Ramp | Seed | 2019 | Fintech | Active (valued at $16B+) [^11] |
+| Ramp | Seed | 2019-08-08 | Fintech | Active (valued at $16B+) [^11] |
 | Cursor (Anysphere) | Early | ~2023 | Developer Tools | Active [^6] |
 | Warby Parker | Seed | ~2011 | Consumer/DTC | Public (NYSE: WRBY) [^2] [^13] |
 | Airtable | Seed | ~2013 | Enterprise SaaS | Active [^2] |
@@ -121,10 +121,10 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Glossier | Seed | ~2014 | Consumer/DTC | Active [^2] |
 | Vine | Seed | ~2012 | Consumer Social | Acquired by Twitter ($30M) [^2] |
 | GroupMe | Seed | ~2010 | Consumer Social | Acquired by Skype/Microsoft ($80M) [^14] |
-| Trello | Series A | 2014 | Enterprise | Acquired by Atlassian ($425M) [^2][^17] |
+| Trello | Series A | 2014-07-24 | Enterprise | Acquired by Atlassian ($425M) [^2][^17] |
 | Matterport | Seed | ~2012 | 3D Technology | Acquired by CoStar ($1.6B) [^2] |
 | Dataminr | Seed | ~2009 | Enterprise | Active [^9] |
-| Amplitude | Seed | 2014 | Enterprise Analytics | Public (NASDAQ: AMPL) [^15] |
+| Amplitude | Seed | 2014-07-11 | Enterprise Analytics | Public (NASDAQ: AMPL) [^15] |
 | Scopely | Seed | ~2012 | Mobile Gaming | Acquired by Savvy Games [^2] |
 | Flexport | Seed | ~2014 | Logistics | Active [^3] |
 | Harry's | Seed | ~2013 | Consumer/DTC | Active [^9] |
@@ -147,8 +147,8 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Secureframe | Seed | ~2020 | Security/Compliance | Active [^3] |
 | Capchase | Seed | ~2020 | Fintech | Active [^7] |
 | Pomelo Care | Seed | ~2021 | Healthcare | Active [^3] |
-| Era | Seed | 2026 | AI / Consumer Hardware | Active [^18] |
-| Rogo | Series D | 2026 | AI / Fintech | Active [^19] |
+| Era | Seed | 2026-04-23 | AI / Consumer Hardware | Active [^18] |
+| Rogo | Series D | 2026-04-29 | AI / Fintech | Active [^19] |
 
 ## In Their Own Words
 
