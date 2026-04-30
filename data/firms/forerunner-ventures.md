@@ -36,7 +36,7 @@ team:
     role: Partner, COO
     slug: jennifer-mariska
 status: published
-last_researched: 2026-03-19
+last_researched: 2026-04-30
 ---
 
 ## About
@@ -81,10 +81,10 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Warby Parker | Early | ~2013 | Consumer/Eyewear | [^4] |
 | Bonobos | Early | ~2013 | Consumer/Apparel | [^4] |
 | Glossier | Seed | ~2014 | Consumer/Beauty | [^4] |
-| Chime | Early | ~2015 | Fintech | [^3] |
-| Hims & Hers | Early | ~2017 | Health & Wellness | [^4] |
+| Chime | Series A | 2014-11-04 | Fintech | [^3] |
+| Hims & Hers | Series A | 2017-11 | Health & Wellness | [^4] |
 | Away | Early | ~2016 | Consumer/Travel | [^4] |
-| Faire | Early | ~2018 | Marketplace | [^2] |
+| Faire | Series A | 2018-02-22 | Marketplace | [^8] |
 | Ritual | Early | ~2016 | Health & Wellness | [^1] |
 | OURA | Growth | ~2020 | Health Tech | [^2] |
 | The Farmer's Dog | Early | ~2017 | Consumer/Pet | [^3] |
@@ -97,7 +97,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Speechify | Early | ~2021 | Education/AI | [^1] |
 | Daydream | Early | ~2023 | Marketplace | [^1] |
 | Fora | Early | ~2023 | Marketplace/Travel | [^1] |
-| Decagon | Seed | ~2024 | AI/Infrastructure | [^1] |
+| Decagon | Series C | 2025-06-23 | AI/Infrastructure | [^1][^8] |
 | Agentio | Seed | ~2024 | AI/Advertising | [^1] |
 | Wonder | Growth | ~2022 | Consumer/Food | [^1] |
 
@@ -128,3 +128,5 @@ No independently sourced founder testimonials found from third-party sources. Fo
 [^5]: TechCrunch, "Forerunner Ventures just closed a $360 million fund, tripling the size of its last effort," October 8, 2018, accessed March 2026. https://techcrunch.com/2018/10/08/forerunner-ventures-just-closed-a-360-million-fund-tripling-the-size-of-its-last-effort/
 [^6]: VCSheet, "Kirsten Green (Forerunner Ventures) / VC Breakdown & Contact," accessed March 2026. https://www.vcsheet.com/who/kirsten-green
 [^7]: Fortune, "Unilever Buys Dollar Shave Club for $1 Billion," July 19, 2016. https://fortune.com/2016/07/19/unilever-buys-dollar-shave-club-for-1-billion/
+
+[^8]: Faire press release, "Announcing $12M in Series A Financing from Forerunner and Khosla Ventures," February 22, 2018. https://news.faire.com/2018/02/22/announcing-12m-in-series-a-financing/

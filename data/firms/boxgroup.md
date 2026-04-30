@@ -51,7 +51,7 @@ team:
     role: Investor
     slug: ava-payman
 status: published
-last_researched: 2026-03-30
+last_researched: 2026-04-30
 tldr: "NYC-based seed investor founded in 2007 by David Tisch and Adam Rothenberg, with 600+ investments producing 31 unicorns (Plaid, Ramp, Warby Parker, Airtable, Cursor). Writes non-lead $250K-$1M checks as 'the Switzerland of VC,' co-investing collaboratively. Self-funded for first 12 years before raising external capital; now manages $1B+ across multiple fund vintages. Portfolio concentrated in fintech (25%), healthcare (18%), and consumer (18%)."
 ---
 
@@ -107,7 +107,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Plaid | Seed | ~2013 | Fintech | Active (valued at $13B+) [^2] |
+| Plaid | Seed | 2013-09-19 | Fintech | Active (valued at $13B+) [^2][^20] |
 | Ramp | Seed | 2019-08-08 | Fintech | Active (valued at $16B+) [^11] |
 | Cursor (Anysphere) | Early | ~2023 | Developer Tools | Active [^6] |
 | Warby Parker | Seed | ~2011 | Consumer/DTC | Public (NYSE: WRBY) [^2] [^13] |
@@ -219,3 +219,4 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^17]: TechCrunch, "Disrupt Alum Trello Takes In $10.3M For Its Visual To-Do Lists," July 24, 2014. https://techcrunch.com/2014/07/24/trello-series-a/
 [^18]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
 [^19]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+[^20]: Crunchbase, "Plaid Seed Round - 2013-09-19," accessed April 2026. https://www.crunchbase.com/funding_round/plaid-seed--4bbe2fa4
