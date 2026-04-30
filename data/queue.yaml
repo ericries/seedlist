@@ -19454,3 +19454,70 @@ queue:
   discovered_from: josh-mailman
   source: Donor network founded by Josh Mailman in 1981 (originally 'the Doughnuts');
     has distributed $40M+ in grants
+- name: 42CAP
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-30
+  source: led ALP Bio Pre-Seed (2026-04-30)
+- name: Venture Kick
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-30
+  source: participated in ALP Bio Pre-Seed (2026-04-30)
+- name: Flamingo Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-30
+  source: participated in Certifyde Seed (2026-04-29)
+- name: George Ruan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Honey (co-founder, angel)
+  discovered_from: round-monitoring-2026-04-30
+  source: angel in Certifyde Seed (2026-04-29)
+- name: Brad Garlinghouse
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ripple Labs (CEO, angel)
+  discovered_from: round-monitoring-2026-04-30
+  source: angel in Certifyde Seed (2026-04-29)
+- name: Goldman Sachs Alternatives Growth Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-30
+  source: led Aidoc Series E (2026-04-29)
+- name: NVentures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NVIDIA
+  discovered_from: round-monitoring-2026-04-30
+  source: participated in Aidoc Series E (2026-04-29)
+- name: Terrain Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-04-30
+  source: participated in Parallel Web Systems Series B (2026-04-29)
+- name: Parag Agrawal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Parallel Web Systems
+  discovered_from: round-monitoring-2026-04-30
+  source: founder of Parallel Web Systems; former Twitter CEO

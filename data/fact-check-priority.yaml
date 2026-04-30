@@ -11,3 +11,19 @@ priority:
     type: investor
     reason: "Felicis founder; firm led Blomma Seed (2026-04-29)"
     added: 2026-04-30
+  - slug: sequoia-capital
+    type: firm
+    reason: "led Parallel Web Systems Series B (2026-04-29)"
+    added: 2026-04-30
+  - slug: general-catalyst
+    type: firm
+    reason: "participated in Aidoc Series E (2026-04-29)"
+    added: 2026-04-30
+  - slug: kleiner-perkins
+    type: firm
+    reason: "participated in Parallel Web Systems Series B (2026-04-29)"
+    added: 2026-04-30
+  - slug: andrew-reed
+    type: investor
+    reason: "joined Parallel Web Systems board, Series B (2026-04-29)"
+    added: 2026-04-30
