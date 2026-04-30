@@ -38,6 +38,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
+  url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Cambridge-based Arm spin-out Kigen
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Dutch quantum startup Groove Quantum raises €16 million to advance scalable
+    chip manufacturing
+  url: https://www.eu-startups.com/2026/04/dutch-quantum-startup-groove-quantum-raises-e16-million-to-advance-scalable-chip-manufacturing/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Dutch quantum startup Groove Quantum
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Rocsys raises €11.1 million and unveils world’s first multi-bay hands-free
+    charging solution for robotaxi fleets
+  url: https://www.eu-startups.com/2026/04/rocsys-raises-e11-1-million-and-unveils-worlds-first-multi-bay-hands-free-charging-solution-for-robotaxi-fleets/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Rocsys
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Sharc Energy Closes Second Tranche of Debenture
   url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
   source: globenewswire
@@ -1113,37 +1139,3 @@ pending_rounds:
   notes: updated existing rivan.md; same 2026-04-20 round as EU-Startups €28.7M entry
     — reconciled as $34M (~€28.7M) led by IQ Capital with Plural, Fundomo, and angels
     Thomas Wolf, Matt Clifford, Markus Villig; total raised now ~$46M
-- title: Archil raised $11M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-21'
-  parsed_company: Archil
-  parsed_amount: $11M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile archil.md; $11M Series A on 2026-04-21 per Archil
-    blog; lead investor not disclosed in public sources; prior $6.7M seed led by Felicis
-    in June 2025 with YC, General Catalyst, Peak XV, Lombardstreet, Twenty Two Ventures,
-    Wayfinder
-- title: Antioch raised $8.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-21'
-  parsed_company: Antioch
-  parsed_amount: $8.5M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: duplicate; antioch.md already exists from prior processing
-- title: Sleuth Insights raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-21'
-  parsed_company: Sleuth Insights
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: Axios reference appears to describe Sleuth Insights' existing $7.68M
-    Series A (Sep 30 2025) or the associated Nov 2025 SEC Form D filing for $7.91M
-    — not a new April 2026 round. No independent April 2026 announcement found across
-    PitchBook, Tracxn, Crunchbase, company website, or press. Monitoring for formal
-    announcement.
