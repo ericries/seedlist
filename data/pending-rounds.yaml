@@ -186,7 +186,10 @@ pending_rounds:
   parsed_company: Photon
   parsed_amount: $16M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by photon-health.md (Brooklyn pharmacy infrastructure; led by Healthier
+    Capital with Notation, Flare Capital, Evidenced)
 - title: Definity raised $12M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -194,7 +197,10 @@ pending_rounds:
   parsed_company: Definity
   parsed_amount: $12M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by definity.md (Chicago agentic data engineering; led by GreatPoint
+    Ventures with Dynatrace, StageOne, Hyde Park)
 - title: Lighthouse Pharmaceuticals raised $12M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -202,7 +208,10 @@ pending_rounds:
   parsed_company: Lighthouse Pharmaceuticals
   parsed_amount: $12M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by lighthouse-pharmaceuticals.md (led by Double Point Ventures, Series
+    A 2026-04-28)
 - title: Blomma raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -210,7 +219,9 @@ pending_rounds:
   parsed_company: Blomma
   parsed_amount: $5M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by blomma.md (Felicis-led seed, 2026-04-29)
 - title: Mosaic SoC raised $3.8M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -218,7 +229,8 @@ pending_rounds:
   parsed_company: Mosaic SoC
   parsed_amount: $3.8M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: duplicate of mosaic-soc.md already created
 - title: Dreambase raised $3.7M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -226,7 +238,8 @@ pending_rounds:
   parsed_company: Dreambase
   parsed_amount: $3.7M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: duplicate of dreambase.md already created
 - title: Certifyde raised $2M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -242,7 +255,10 @@ pending_rounds:
   parsed_company: Avalyn Pharma
   parsed_amount: $300M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by avalyn-pharma.md (Seattle IPF biotech IPO + pre-IPO crossover
+    with Novo Holdings, SR One, Suvretta)
 - title: RRE Ventures Acquisition raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -250,7 +266,8 @@ pending_rounds:
   parsed_company: RRE Ventures Acquisition
   parsed_amount: $250M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: SPAC
 - title: West Enclave Merger raised $100M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -258,7 +275,8 @@ pending_rounds:
   parsed_company: West Enclave Merger
   parsed_amount: $100M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: SPAC
 - title: Ventures raised $700M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -266,7 +284,8 @@ pending_rounds:
   parsed_company: Ventures
   parsed_amount: $700M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: parsing artifact (137 Ventures fund close already noted)
 - title: Crescent Cove Advisors raised $446M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -274,7 +293,8 @@ pending_rounds:
   parsed_company: Crescent Cove Advisors
   parsed_amount: $446M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC/PE fund close, not a startup round
 - title: u003e raised $160M Series D
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -282,7 +302,18 @@ pending_rounds:
   parsed_company: u003e
   parsed_amount: $160M
   parsed_round: Series D
-  status: pending
+  status: skipped
+  skip_reason: parsing artifact (HTML entity from Rogo $160M Series D, already covered)
+- title: Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series
+    D Extension
+  url: https://news.crunchbase.com/venture/ai-powered-legal-tech-startup-legora-seriesd-extension-nvidia/
+  source: crunchbase
+  date_found: '2026-04-30'
+  parsed_company: Swedish Legal Tech Startup Legora
+  parsed_amount: $50M
+  parsed_round: Series D
+  status: skipped
+  skip_reason: duplicate of legora.md Series D extension already covered
 - title: Sharc Energy Closes Second Tranche of Debenture
   url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
   source: globenewswire
@@ -1061,15 +1092,3 @@ pending_rounds:
     led by TCV with Insight Partners continuing; Belfast Northern Ireland; approaching
     $1B valuation; added tcv.md and insight-partners.md to firms frontmatter; EU-Startups
     direct fetch 403, cited via Tech.eu and TNW
-- title: SpaceTech startup UNIVITY raises €27 million to position Europe as a key
-    player in global hybrid connectivity.
-  url: https://www.eu-startups.com/2026/04/spacetech-startup-univity-raises-e27-million-to-position-europe-as-a-key-player-in-global-hybrid-connectivity/
-  source: eu-startups
-  date_found: '2026-04-23'
-  parsed_company: SpaceTech startup UNIVITY
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile univity.md; €27M Series A on 2026-04-23 led by Blast
-    and Expansion with Bpifrance (Deeptech 2030) and two family offices; French VLEO
-    satellite constellation for telecom; no firm slugs added (none yet profiled)

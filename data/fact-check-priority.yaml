@@ -3,3 +3,11 @@ priority:
     type: firm
     reason: "lead of Mosaic SoC Pre-Seed (2026-04-30) — profile pending"
     added: 2026-04-30
+  - slug: felicis
+    type: firm
+    reason: "led Blomma Seed (2026-04-29)"
+    added: 2026-04-30
+  - slug: aydin-senkut
+    type: investor
+    reason: "Felicis founder; firm led Blomma Seed (2026-04-29)"
+    added: 2026-04-30
