@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Swedish legal AI startup Legora raises €42 million extension to Series D
+    – bringing total to over €500 million
+  url: https://www.eu-startups.com/2026/04/swedish-legal-ai-startup-legora-raises-e42-million-extension-to-series-d-bringing-total-to-over-e500-million/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Swedish legal AI startup Legora
+  parsed_amount: null
+  parsed_round: Series D
+  status: pending
+- title: Swiss semiconductor startup Mosaic SoC raises €3.2 million to bring spatial
+    intelligence to low-power devices
+  url: https://www.eu-startups.com/2026/04/swiss-semiconductor-startup-mosaic-soc-raises-e3-2-million-to-bring-spatial-intelligence-to-low-power-devices/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Swiss semiconductor startup Mosaic SoC
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Sharc Energy Closes Second Tranche of Debenture
   url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
   source: globenewswire
@@ -1129,25 +1147,3 @@ pending_rounds:
     — not a new April 2026 round. No independent April 2026 announcement found across
     PitchBook, Tracxn, Crunchbase, company website, or press. Monitoring for formal
     announcement.
-- title: Audrey AI raised $1.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-21'
-  parsed_company: Audrey AI
-  parsed_amount: $1.8M
-  parsed_round: null
-  status: processed
-  notes: created startup profile audrey-ai.md; $1.8M pre-seed on 2026-04-16 co-led
-    by Sure Valley Ventures and Delta Partners with Enterprise Ireland, Donnchadh
-    Casey (ex-CEO Calypso), Conor Jones (ex-CBO Wayflyer); Dublin-based agentic AI
-    for financial auditors; no firm slugs added (none yet profiled)
-- title: Cerberus Capital Management raised $2.3B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-21'
-  parsed_company: Cerberus Capital Management
-  parsed_amount: $2.3B
-  parsed_round: null
-  status: skipped
-  skip_reason: Cerberus Capital Management is a large PE/credit firm; $2.3B is a fund/credit
-    raise, not a startup funding round
