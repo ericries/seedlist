@@ -1,11 +1,11 @@
 ---
 check_size: $500K-$15M
 firm: felicis
-last_researched: 2026-03-20
+last_researched: 2026-04-30
 last_verified_investment:
-  company: n8n
-  date: 2025
-  round: Series B
+  company: Blomma
+  date: 2026-04-29
+  round: Seed
 location: Menlo Park, CA
 name: Aydin Senkut
 role: Founder & Managing Partner
@@ -94,16 +94,16 @@ Based on 19 verified portfolio companies in the table below. Note: Felicis's ful
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Shopify | Seed | 2013 | E-commerce/SaaS | Public (NYSE: SHOP) | [^1] |
-| Adyen | Early | ~2012 | Fintech/Payments | Public (AMS: ADYEN) | [^1] |
-| Canva | Series A (lead) | ~2013 | Design/Consumer | Private ($26B+ valuation) | [^2][^6] |
-| Credit Karma | Early | ~2012 | Fintech | Acquired (Intuit, $8.1B) | [^1] |
-| Fitbit | Early | ~2011 | Consumer Electronics/Health | Acquired (Google) | [^2] |
-| Guardant Health | Early | ~2014 | Health/Biotech | Public (NASDAQ: GH) | [^2] |
-| Notion | Early | ~2019 | Productivity/SaaS | Private | [^2] |
-| Rovio | Early | ~2011 | Gaming/Consumer | Public (acquired by SEGA) | [^1] |
-| Guideline | Early | ~2016 | Fintech/Retirement | Private | [^2] |
-| Runway | Early | ~2022 | AI/Video | Private | [^2][^7] |
+| Shopify | Series A | 2010-12-13 | E-commerce/SaaS | Public (NYSE: SHOP) | [^1][^8] |
+| Adyen | Series A | 2011 | Fintech/Payments | Public (AMS: ADYEN) | [^1] |
+| Canva | Series A (lead) | 2015-10-06 | Design/Consumer | Private ($26B+ valuation) | [^2][^6][^9] |
+| Credit Karma | Series A | 2009-11-04 | Fintech | Acquired (Intuit, $8.1B) | [^1][^10] |
+| Fitbit | Series C | 2012-01-24 | Consumer Electronics/Health | Acquired (Google) | [^2][^11] |
+| Guardant Health | Series D | 2016-01-07 | Health/Biotech | Public (NASDAQ: GH) | [^2][^11] |
+| Notion | Seed | 2013 | Productivity/SaaS | Private | [^2] |
+| Rovio | Series A | 2011-03-10 | Gaming/Consumer | Public (acquired by SEGA) | [^1][^12] |
+| Guideline | Series A (lead) | 2017-08-08 | Fintech/Retirement | Private | [^2][^13] |
+| Runway | Series C (lead) | 2022-12-05 | AI/Video | Private | [^2][^7][^14] |
 | Poolside | Early | ~2023 | AI/Developer Tools | Private | [^2] |
 | Weights & Biases | Early | ~2020 | AI/ML Ops | Private | [^2] |
 | Verkada | Early | ~2018 | Security/IoT | Private | [^2] |
@@ -113,8 +113,9 @@ Based on 19 verified portfolio companies in the table below. Note: Felicis's ful
 | Crusoe | Early | ~2021 | Energy/Cloud Computing | Private | [^3] |
 | Supabase | Early | ~2022 | Developer Tools/Database | Private | [^7] |
 | Vannevar Labs | Early | ~2022 | Defense Tech/AI | Private | [^7] |
+| Blomma | Seed (Felicis-led) | 2026-04-29 | AI/Consumer | Private | [^15] |
 
-*This table represents 19 of 436+ total portfolio companies. Years marked with ~ are approximate based on founding dates or public reporting.*
+*This table represents 20 of 436+ total portfolio companies. Years marked with ~ are approximate based on founding dates or public reporting. The Blomma seed round was led by Felicis GP Viviana Faga, not Aydin Senkut directly, but is included as a firm-level investment by Felicis.*
 
 ## In Their Own Words
 
@@ -139,3 +140,11 @@ No independently sourced founder testimonials found. Felicis publicly describes 
 [^5]: "Exclusive: Felicis has raised $900 million tenth fund," Fortune, June 2025, accessed March 2026. https://fortune.com/2025/06/12/exclusive-felicis-has-raised-900-million-tenth-fund/
 [^6]: Felicis, Crunchbase company profile, accessed March 2026. https://www.crunchbase.com/organization/felicis-ventures
 [^7]: "Where Active AI Investor Felicis Is Placing Its Bets," Crunchbase News, accessed March 2026. https://news.crunchbase.com/ai/felicis-ai-investments-sundeep-peechu/
+[^8]: "Shopify raises $7M round for retail platform," Vator.tv, December 13, 2010, accessed April 2026. https://vator.tv/news/2010-12-13-shopify-raises-7m-round-for-retail-platform
+[^9]: "Design Platform Canva Scores $15 Million Series A, Valued At $165 Million," TechCrunch, October 6, 2015, accessed April 2026. https://techcrunch.com/2015/10/06/design-platform-canva-scores-15-million-series-a-valued-at-165-million/
+[^10]: "Series A - Credit Karma - 2009-11-04," Crunchbase Funding Round Profile, accessed April 2026. https://www.crunchbase.com/funding_round/credit-karma-series-a--f4661424
+[^11]: "Felicis Ventures - Investments, Portfolio & Company Exits," Tracxn, accessed April 2026. https://tracxn.com/d/venture-capital/felicisventures/__zoDocbhBgkrjzjJWL4QaZ0Qlv_djLDfkfAMRm9ONwGk
+[^12]: "Angry Birds Maker Rovio Raises $42 Million From Accel, Atomico And Felicis," TechCrunch, March 10, 2011, accessed April 2026. https://techcrunch.com/2011/03/10/angry-birds-maker-rovio-raises-42-million-from-accel-atomico-and-felicis/
+[^13]: "Guideline raises $15 million led by Felicis to make 401(k)s more widely available," TechCrunch, August 8, 2017, accessed April 2026. https://techcrunch.com/2017/08/08/guideline-15-million/
+[^14]: "Next Generation Content Creation, Powered by AI — Leading Runway's Series C," Felicis blog, December 5, 2022, accessed April 2026. https://www.felicis.com/insight/runway-series-c
+[^15]: "A Coach for the Rest of Us: Our Investment in Blomma," Felicis blog, April 29, 2026, accessed April 2026. https://www.felicis.com/blog/seed-round-blomma

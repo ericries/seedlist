@@ -201,6 +201,7 @@ The following table includes notable investments verified through multiple sourc
 | Avoca | Series A | 2026 | AI / Vertical SaaS / Services Economy | Private [^31] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Private [^32] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^33] |
+| Parallel Web Systems | Series B | 2026-04-29 | AI / Web Infrastructure | Private [^40] |
 
 *Note: This table includes 61 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -333,3 +334,5 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^38]: CNBC, "AI firm Synthesia hits $1 billion valuation in Nvidia-backed Series C," June 13, 2023. https://www.cnbc.com/2023/06/13/ai-firm-synthesia-hits-1-billion-valuation-in-nvidia-backed-series-c.html — Kleiner Perkins first invested in Synthesia's December 2021 Series B.
 
 [^39]: TechCrunch, "Together lands $102.5M investment to grow its cloud for training generative AI," November 29, 2023. https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/
+
+[^40]: PR Newswire, "Parallel Raises at $2 Billion Valuation to Scale Web Infrastructure for Agents," April 29, 2026. https://www.prnewswire.com/news-releases/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents-302756350.html — $100M Series B led by Sequoia Capital at $2B valuation; Kleiner Perkins participated as an existing investor. Cross-referenced with TechCrunch, "Parallel Web Systems hits $2B valuation five months after its last big raise," April 29, 2026. https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/

@@ -224,6 +224,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Auctor | Series A (led) | 2026 | AI / Enterprise Software | Private [^29] |
 | Ineffable Intelligence | Seed (co-led) | 2026 | AI / Foundation Models | Private [^30] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^34] |
+| Parallel Web Systems | Series B (led) | 2026-04-29 | AI / Web Infrastructure | Private [^43] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -378,3 +379,5 @@ The following table includes Sequoia Capital investments verified through the fi
 [^41]: Clay company blog, "Clay announces $1.5B valuation employee tender offer led by Sequoia Capital," accessed April 2026. https://www.clay.com/blog/tender-offer — Sequoia first invested in Clay in 2023 in its Series A round.
 
 [^42]: Fortune, "Exclusive: Ex-Salesforce Co-CEO Bret Taylor launches AI startup Sierra," February 13, 2024. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/ — Sierra emerged from stealth February 13, 2024 with $110M from Sequoia, Benchmark and others.
+
+[^43]: PR Newswire, "Parallel Raises at $2 Billion Valuation to Scale Web Infrastructure for Agents," April 29, 2026. https://www.prnewswire.com/news-releases/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents-302756350.html — $100M Series B led by Sequoia Capital at $2B valuation; Andrew Reed joined the board. Existing investors Kleiner Perkins, Index Ventures, Khosla Ventures, First Round Capital, Spark Capital, Terrain Capital, and Abstract Ventures participated. Cross-referenced with TechCrunch, "Parallel Web Systems hits $2B valuation five months after its last big raise," April 29, 2026. https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/

@@ -9,15 +9,15 @@ stage_focus: [series-b, series-c, growth]
 sector_focus: [saas, developer-tools, fintech, consumer, ai, mobility]
 check_size: "$10M-$200M"
 last_verified_investment:
-  date: 2026-02-04
-  company: "ElevenLabs"
-  round: "Series D"
+  date: 2026-04-29
+  company: "Parallel Web Systems"
+  round: "Series B"
 social:
   twitter: "@andrew__reed"
   linkedin: "linkedin.com/in/andrew-reed-sequoia"
 status: published
-last_researched: 2026-03-16
-tldr: "Andrew Reed is a growth-stage partner at Sequoia Capital who prioritizes founder quality, craftsmanship, and product-led growth over financial models. His 25-company portfolio is dominated by SaaS and developer tools (36%) with distinctive global scope (Bolt in Estonia, Rappi in Colombia, ElevenLabs in Poland) and product excellence; recent mega-checks include $500M Series D into ElevenLabs and $190M into Peregrine."
+last_researched: 2026-04-30
+tldr: "Andrew Reed is a growth-stage partner at Sequoia Capital who prioritizes founder quality, craftsmanship, and product-led growth over financial models. His 26-company portfolio is dominated by SaaS and developer tools (35%) with distinctive global scope (Bolt in Estonia, Rappi in Colombia, ElevenLabs in Poland) and product excellence; recent mega-checks include $500M Series D into ElevenLabs and $100M Series B into Parallel Web Systems."
 ---
 
 ## Background
@@ -26,7 +26,7 @@ Andrew Reed is a Partner on the growth team at Sequoia Capital, where he has wor
 
 Reed graduated with a Bachelor of Arts degree with Distinction from Amherst College [^4]. His twin brother, Will, also works in venture capital at a different firm; the two compete in online chess and mountain biking on weekends [^5].
 
-At Sequoia, Reed focuses on growth-stage investing and currently serves on the boards of Figma, Klarna, Bolt, Vanta, Strava, ElevenLabs, Harmonic, and Warp, among others [^1]. He has led investments in companies including Phantom, Odoo, and Zapier [^1]. Reed was also involved with Sequoia's investments in Robinhood, Loom, and GitHub (acquired by Microsoft in 2018) [^1][^6].
+At Sequoia, Reed focuses on growth-stage investing and currently serves on the boards of Figma, Klarna, Bolt, Vanta, Strava, ElevenLabs, Harmonic, Warp, and Parallel Web Systems, among others [^1][^27]. He has led investments in companies including Phantom, Odoo, and Zapier [^1]. Reed was also involved with Sequoia's investments in Robinhood, Loom, and GitHub (acquired by Microsoft in 2018) [^1][^6].
 
 ## Stated Thesis
 
@@ -46,16 +46,16 @@ Reed is geographically expansive in his investing, working with founders in plac
 
 ## Inferred Thesis
 
-Based on 25 verified investments in the portfolio table below:
+Based on 26 verified investments in the portfolio table below:
 
 **Stage distribution:**
-Reed is predominantly a growth-stage investor. Of 25 verified investments: approximately 16 were at Series B or later (64%), 6 were at Series A (24%), and 3 were at earlier stages or secondary investments (12%). This is consistent with his role on Sequoia's growth team, with a sweet spot at Series B/C.
+Reed is predominantly a growth-stage investor. Of 26 verified investments: approximately 17 were at Series B or later (65%), 6 were at Series A (23%), and 3 were at earlier stages or secondary investments (12%). This is consistent with his role on Sequoia's growth team, with a sweet spot at Series B/C.
 
-**Sector concentration (of 25 verified investments):**
+**Sector concentration (of 26 verified investments):**
 - SaaS / enterprise software: 9 companies (36%) — Figma, Vanta, Zapier, Productboard, Front, Sourcegraph, Warp, Odoo, Snapdocs
 - Consumer / marketplace: 5 companies (20%) — Robinhood, Strava, Mubi, Rappi, Loom
 - Mobility / logistics: 2 companies (8%) — Bolt, Tourlane
-- AI / deep tech: 4 companies (16%) — ElevenLabs, Harmonic, Safe Superintelligence, Peregrine
+- AI / deep tech: 5 companies (19%) — ElevenLabs, Harmonic, Safe Superintelligence, Peregrine, Parallel Web Systems
 - Crypto / web3: 1 company (4%) — Phantom
 - Healthcare: 1 company (4%) — Medallion
 - Developer infrastructure: 1 company (4%) — GitHub (acquired)
@@ -79,7 +79,7 @@ Reed is predominantly a growth-stage investor. Of 25 verified investments: appro
 
 *Check size:* Signal by NFX reports an investment range of $10M-$200M with a $25M sweet spot [^4].
 
-**Note on sample size:** This analysis is based on 25 verified investments. Andrew Reed has likely made additional investments through Sequoia that are not individually attributed to him in public records.
+**Note on sample size:** This analysis is based on 26 verified investments. Andrew Reed has likely made additional investments through Sequoia that are not individually attributed to him in public records.
 
 ## Portfolio
 
@@ -89,7 +89,7 @@ Reed is predominantly a growth-stage investor. Of 25 verified investments: appro
 | Robinhood | 2020 | Series F ($280M, led) | [^10] |
 | GitHub | ~2015 | Growth (acquired by Microsoft 2018) | [^6] |
 | Rappi | 2016 | Series A | [^11] |
-| Front | ~2017 | Growth | [^1][^12] |
+| Front | 2017 | Growth | [^1][^12] |
 | Snapdocs | 2017 | Series A | [^11] |
 | Tourlane | 2018 | Series B | [^11] |
 | Figma | 2019 | Series C ($40M, led) | [^8] |
@@ -100,7 +100,7 @@ Reed is predominantly a growth-stage investor. Of 25 verified investments: appro
 | Bolt | 2021 | Series E | [^17] |
 | Medallion | 2021 | Series B (led) | [^18] |
 | Sourcegraph | 2020 | Series C | [^11] |
-| Klarna | 2024 (board appointment) | Growth | [^19] |
+| Klarna | 2024-04-05 (board appointment) | Growth | [^19] |
 | Harmonic | 2024 | Series A ($75M, led) | [^20] |
 | Safe Superintelligence | 2024 | Series A | [^21] |
 | Odoo | 2024 | Growth (led) | [^22] |
@@ -109,8 +109,9 @@ Reed is predominantly a growth-stage investor. Of 25 verified investments: appro
 | Mubi | 2025 | Growth ($100M, led) | [^25] |
 | Peregrine | 2025 | Series C ($190M, led) | [^26] |
 | Warp | 2023 | Series B | [^11] |
-| ElevenLabs | 2026 | Series D ($500M, led) | [^9] |
+| ElevenLabs | 2026-02-04 | Series D ($500M, led) | [^9] |
 | Neuralink | ~2025 | Growth | [^1] |
+| Parallel Web Systems | 2026-04-29 | Series B ($100M at $2B valuation, led) | [^27][^28] |
 
 This table represents a partial view of Reed's portfolio. Years marked with "~" indicate approximate dates based on contextual evidence; exact investment dates could not be independently verified for those entries.
 
@@ -196,3 +197,5 @@ No independently sourced founder testimonials with direct quotes specifically ab
 [^24]: Fortune, "How Strava ran toward a comeback and set its sights on an IPO," January 13, 2026. https://fortune.com/2026/01/13/how-strava-ran-toward-a-comeback-ipo/
 [^25]: PitchBook, "Sequoia bets on indie cinema buyer Mubi as AI seeps into video production," 2025. https://pitchbook.com/news/articles/sequoia-capital-indie-cinema-mubi-ai-investment
 [^26]: Andrew Reed (@andrew__reed), post on X/Twitter announcing Peregrine investment, 2025. https://x.com/andrew__reed/status/1896930965567795623
+[^27]: PR Newswire, "Parallel Raises at $2 Billion Valuation to Scale Web Infrastructure for Agents," April 29, 2026. https://www.prnewswire.com/news-releases/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents-302756350.html
+[^28]: TechCrunch, "Parallel Web Systems hits $2B valuation five months after its last big raise," April 29, 2026. https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/

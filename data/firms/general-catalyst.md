@@ -1,7 +1,7 @@
 ---
 founded: 2000
 fund_size: $8B (Fund XII, 2024); $4.6B (Fund XI, 2022)
-last_researched: 2026-03-14
+last_researched: 2026-04-30
 location: Cambridge, MA
 name: General Catalyst
 sector_focus:
@@ -173,7 +173,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | CRED | Growth | ~2018 (founded) | Fintech | Private [^29] |
 | Discord | Growth | ~2015 (founded) | Consumer / Social | Private [^29] |
 | Glean | Growth | ~2019 (founded) | AI / Enterprise Search | Private [^29] |
-| Mistral AI | Growth | ~2023 (founded) | AI / LLM | Private [^29] |
+| Mistral AI | Series A | 2023-12-11 | AI / LLM | Private [^29][^47] |
 | Windsurf (Codeium) | Growth | ~2021 (founded) | AI / Developer Tools | Private [^29] |
 | Modular | Growth | ~2022 (founded) | AI / Infrastructure | Private [^29] |
 | Hive | Growth | ~2017 (founded) | AI / Computer Vision | Private [^29] |
@@ -191,7 +191,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Maven Clinic | Growth | ~2014 (founded) | Healthcare | Private [^29] |
 | Cityblock Health | Growth | ~2017 (founded) | Healthcare | Private [^29] |
 | Sword Health | Growth | ~2015 (founded) | Healthcare | Private [^29] |
-| Hippocratic AI | Growth | ~2023 (founded) | Healthcare / AI | Private [^29] |
+| Hippocratic AI | Series A (co-led) | 2024-03-18 | Healthcare / AI | Private [^29][^48] |
 | Re:Build Manufacturing | Growth | ~2020 (founded) | Industrials | Private [^29] |
 | Tractian | Growth | ~2019 (founded) | Industrials / IoT | Private [^29] |
 | Collaborative Robotics | Growth | ~2022 (founded) | Robotics | Private [^29] |
@@ -199,7 +199,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Cloaked | Series B | 2026 | Consumer / Privacy | Private [^36] |
 | PhysicsX | Growth | ~2019 (founded) | AI / Simulation | Private [^29] |
 | Charm Industrial | Growth | ~2018 (founded) | Climate / Carbon Removal | Private [^29] |
-| Pacific Fusion | Growth | ~2024 (founded) | Energy / Fusion | Private [^29] |
+| Pacific Fusion | Series A (led) | 2024-10-25 | Energy / Fusion | Private [^29][^49] |
 | Alsym Energy | Growth | ~2015 (founded) | Energy / Batteries | Private [^29] |
 | Fourier | Growth | ~2015 (founded) | Robotics / Energy | Private [^29] |
 | Zepto | Growth | ~2021 (founded) | Consumer / Quick Commerce | Private [^29] |
@@ -217,6 +217,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Conntour | Seed | 2026 | AI / Security / Video Intelligence | Private [^40] |
 | Numos | Seed | 2026 | AI / Fintech / Enterprise | Private [^41] |
 | Avoca | Series B (co-led) | 2026-04-27 | AI / Vertical SaaS / Services Economy | Private [^42] |
+| Aidoc | Series E | 2026-04-29 | Healthcare / Clinical AI | Private [^46] |
 
 *Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -354,3 +355,11 @@ No independently sourced founder testimonials were found in this research pass. 
 [^44]: Crunchbase, "Series A - Warby Parker - 2011-09-22," accessed April 2026. https://www.crunchbase.com/funding_round/warby-parker-series-a--1648c4e2 — Warby Parker's $12M Series A on September 22, 2011 was led by Tiger Global; per Tracxn, General Catalyst's first investment was the January 29, 2013 Series B.
 
 [^45]: PR Newswire, "Livongo Health Raises $20 Million in Series B Funding From Kleiner Perkins Caufield & Byers, DFJ and General Catalyst," April 7, 2015. https://www.prnewswire.com/news-releases/livongo-health-raises-20-million-in-series-b-funding-from-kleiner-perkins-caufield--byers-dfj-and-general-catalyst-300061771.html — General Catalyst led Livongo's $10M Series A on May 7, 2014 (at $30M valuation) and continued through every subsequent round to IPO in 2019.
+
+[^46]: PR Newswire, "Aidoc Raises $150 Million Series E Led by Goldman Sachs to Scale Clinical AI for Earlier, Safer Diagnoses," April 29, 2026. https://www.prnewswire.com/news-releases/aidoc-raises-150-million-series-e-led-by-goldman-sachs-to-scale-clinical-ai-for-earlier-safer-diagnoses-302757181.html — $150M Series E led by Growth Equity at Goldman Sachs Alternatives, with participation from General Catalyst, SoftBank Vision Fund 2, and NVIDIA's NVentures. General Catalyst had led an earlier growth round less than a year prior alongside Square Peg. Cross-referenced with Axios, "Exclusive: Clinical AI provider Aidoc raises $150M Series E," April 29, 2026. https://www.axios.com/2026/04/29/exclusive-clinical-ai-provider-aidoc-raises-150m-series-e and Goldman Sachs Asset Management press release. https://am.gs.com/en-int/advisors/news/press-release/2026/aidoc-raises-150-million-series-e-goldman-sachs
+
+[^47]: Latham & Watkins, "Latham Advises General Catalyst and a16z on Mistral AI Series B Funding Round," June 2024. https://www.lw.com/en/news/2024/06/latham-advises-general-catalyst-and-a16z-on-mistral-ai-series-b-funding-round — General Catalyst first invested in Mistral AI's Series A on December 11, 2023, and continued through subsequent rounds including the Series B (June 2024) and Series C (September 2025). Cross-referenced with Tracxn, "Mistral AI — 2026 Funding Rounds & List of Investors." https://tracxn.com/d/companies/mistralai/__SLZq7rzxLYqqA97jtPwO09jLDeb76RVJVb306OhciWU/funding-and-investors
+
+[^48]: Fierce Healthcare, "Hippocratic AI banks $53M backed by General Catalyst, a16z, Memorial Hermann, UHS and other health systems," March 2024. https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-banks-53m-backed-general-catalyst-a16z-memorial-hermann-uhs — General Catalyst co-led Hippocratic AI's $53M Series A announced March 18, 2024. Cross-referenced with General Catalyst, "Our Investment in Hippocratic AI." https://www.generalcatalyst.com/stories/our-investment-in-hippocratic-ai
+
+[^49]: Bloomberg, "Nuclear Startup Pacific Fusion Nabs $900 Million in Funding," October 25, 2024. https://www.bloomberg.com/news/articles/2024-10-25/nuclear-startup-pacific-fusion-raises-900-million-in-funding — Hemant Taneja of General Catalyst led Pacific Fusion's $900M Series A on October 25, 2024; Taneja joined the board alongside Eric Schmidt and Patrick Collison. Cross-referenced with Crunchbase, "Series A - Pacific Fusion - 2024-10-25." https://www.crunchbase.com/funding_round/pacific-fusion-series-a--9f02f372/funding_round_overview/timeline and General Catalyst, "Our Investment in Pacific Fusion." https://www.generalcatalyst.com/stories/our-investment-in-pacific-fusion
