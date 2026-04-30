@@ -73,6 +73,210 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: small €3.2M round, no lead investor confirmed in primary press
+- title: SpaceX backer 137 Ventures raises $700M for two growth-stage funds
+  url: https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/
+  source: techcrunch
+  date_found: '2026-04-30'
+  parsed_company: SpaceX backer 137 Ventures
+  parsed_amount: $700M
+  parsed_round: null
+  status: skipped
+  skip_reason: VC fund close, not a startup funding round
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Apr. 27 – May 01)
+  url: https://www.eu-startups.com/2026/04/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-apr-27-may-01/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: weekly aggregator roundup, not a single round
+- title: Swiss BioTech startup ALP Bio raises €1.9 million to advance immune organoid
+    and AI platform
+  url: https://www.eu-startups.com/2026/04/swiss-biotech-startup-alp-bio-raises-e1-9-million-to-advance-immune-organoid-and-ai-platform/
+  source: eu-startups
+  date_found: '2026-04-30'
+  parsed_company: Swiss BioTech startup ALP Bio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Rogo raised $160M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Rogo
+  parsed_amount: $160M
+  parsed_round: Series D
+  status: skipped
+  skip_reason: already covered by existing rogo.md (Series D 2026-04-29 led by Kleiner
+    Perkins)
+- title: Hightouch raised $150M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Hightouch
+  parsed_amount: $150M
+  parsed_round: Series D
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by hightouch.md
+- title: Netomi raised $110M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Netomi
+  parsed_amount: $110M
+  parsed_round: null
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by netomi.md (Series C 2026-04-30 led by Accenture Ventures + WndrCo)
+- title: Legora raised $50M Series D extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Legora
+  parsed_amount: $50M
+  parsed_round: Series D Extension
+  status: skipped
+  skip_reason: duplicate of legora.md Series D Extension already covered earlier this
+    cycle
+- title: Vivacta Bio raised $50M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Vivacta Bio
+  parsed_amount: $50M
+  parsed_round: null
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by vivacta-bio.md (Series A/A+ 2026-04-29 led by Loyal Valley Capital)
+- title: Casa raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Casa
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by casa.md (home services Casa, Series A 2026-04-30 led by Forerunner
+    Ventures)
+- title: Featherless raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Featherless
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by featherless-ai.md (Series A 2026-04-30 co-led by AMD Ventures
+    and Airbus Ventures)
+- title: Photon raised $16M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Photon
+  parsed_amount: $16M
+  parsed_round: Series A
+  status: pending
+- title: Definity raised $12M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Definity
+  parsed_amount: $12M
+  parsed_round: Series A
+  status: pending
+- title: Lighthouse Pharmaceuticals raised $12M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Lighthouse Pharmaceuticals
+  parsed_amount: $12M
+  parsed_round: Series A
+  status: pending
+- title: Blomma raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Blomma
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Mosaic SoC raised $3.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Mosaic SoC
+  parsed_amount: $3.8M
+  parsed_round: null
+  status: pending
+- title: Dreambase raised $3.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Dreambase
+  parsed_amount: $3.7M
+  parsed_round: Seed
+  status: pending
+- title: Certifyde raised $2M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Certifyde
+  parsed_amount: $2M
+  parsed_round: Seed
+  status: pending
+- title: Avalyn Pharma raised $300M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Avalyn Pharma
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
+- title: RRE Ventures Acquisition raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: RRE Ventures Acquisition
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: West Enclave Merger raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: West Enclave Merger
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Ventures raised $700M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Ventures
+  parsed_amount: $700M
+  parsed_round: null
+  status: pending
+- title: Crescent Cove Advisors raised $446M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: Crescent Cove Advisors
+  parsed_amount: $446M
+  parsed_round: null
+  status: pending
+- title: u003e raised $160M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-04-30'
+  parsed_company: u003e
+  parsed_amount: $160M
+  parsed_round: Series D
+  status: pending
 - title: Sharc Energy Closes Second Tranche of Debenture
   url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
   source: globenewswire
@@ -863,288 +1067,3 @@ pending_rounds:
   notes: created startup profile univity.md; €27M Series A on 2026-04-23 led by Blast
     and Expansion with Bpifrance (Deeptech 2030) and two family offices; French VLEO
     satellite constellation for telecom; no firm slugs added (none yet profiled)
-- title: Decade Energy, founded by the team behind Volta Trucks, secures €22 million
-    to scale Europe’s depot power infrastructure
-  url: https://www.eu-startups.com/2026/04/decade-energy-founded-by-the-team-behind-volta-trucks-secures-e22-million-to-scale-europes-depot-power-infrastructure/
-  source: eu-startups
-  date_found: '2026-04-23'
-  parsed_company: Decade Energy, founded by the team behind Volta Trucks,
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile decade-energy.md; €22M Series A on 2026-04-23 co-led
-    by Eiffel Investment Group (€16M) and SET Ventures (€5.5M) with Ananda Impact
-    Ventures and Contrarian Ventures continuing; Paris France; founded by Volta Trucks
-    team; no firm slugs added
-- title: Naturbeads secures €4.1 million in EU funding to curb microplastic pollution
-    with biodegradable microbeads
-  url: https://www.eu-startups.com/2026/04/naturbeads-secures-e4-1-million-in-eu-funding-to-curb-microplastic-pollution-with-biodegradable-microbeads/
-  source: eu-startups
-  date_found: '2026-04-23'
-  parsed_company: Naturbeads
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile naturbeads.md; €4.1M EU grant on 2026-04-23 to open
-    Puglia commercial plant (June 2026); Bath UK spinout from University of Bath;
-    prior £7.8M Series A (Nov 2024) with Eos Advisory, Progress Tech Transfer, CDP
-    Venture Capital; EU-Startups direct fetch 403, cited via Tech Funding News and
-    University of Bath
-- title: Era raises $11M to build a software platform for AI gadgets
-  url: https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
-  source: techcrunch
-  date_found: '2026-04-23'
-  parsed_company: Era
-  parsed_amount: $11M
-  parsed_round: null
-  status: processed
-  notes: created startup profile era-computer.md; $11M seed on 2026-04-23 co-led by
-    Abstract Ventures and BoxGroup with Collaborative Fund, Mozilla Ventures, Topology
-    Ventures, Betaworks; added abstract-ventures.md, boxgroup.md, collaborative-fund.md
-    to firms frontmatter; founded by ex-Humane/HP/Sutter Hill team
-- title: Salmon raises $100M in equity and debt to bring digital credit to underbanked
-    Filipinos
-  url: https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/
-  source: techcrunch
-  date_found: '2026-04-23'
-  parsed_company: Salmon
-  parsed_amount: $100M
-  parsed_round: null
-  status: processed
-  notes: created startup profile salmon.md; $100M ($60M equity + $40M debt) on 2026-04-23
-    with Spice Expeditions, Washington University Investment Management Company, Moore
-    Strategic Ventures, FJ Labs; Manila consumer finance app; added fj-labs.md to
-    firms frontmatter; cumulative $310M funding
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/23/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-23-2026/
-  source: alleywatch
-  date_found: '2026-04-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: extracted 3 rounds; created aaru.md ($80M Series A led by Redpoint Ventures)
-    and shade.md ($14M venture co-led by Khosla Ventures, Construct Capital, Bling
-    Capital); BetHog $10M Series A already profiled as bethog.md (updated with $16.4M
-    total per AlleyWatch figures); added redpoint-ventures.md and khosla-ventures.md
-    to new profiles
-- title: Realm raises €3.8 million to bring AI agents into enterprise sales, plans
-    to triple its team by year-end
-  url: https://www.eu-startups.com/2026/04/realm-raises-e3-8-million-to-bring-ai-agents-into-enterprise-sales-plans-to-triple-its-team-by-year-end/
-  source: eu-startups
-  date_found: '2026-04-22'
-  parsed_company: Realm
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile realm.md; $4.5M (~€3.8M) seed announced 2026-04-22;
-    Helsinki-based AI sales agents platform co-founded by ex-Slush leaders Miika Huttunen
-    and Mikko Mäntylä; backed by founders of Slack, Zalando, Supercell, Wolt, Deel,
-    Snyk, Pigment; EU-Startups direct fetch 403, cited via Tech.eu and company website;
-    no firm slugs added (Lifeline Ventures not yet profiled)
-- title: ATMOS Space Cargo raises €25.7 million Series A to build scalable Earth-to-space-to-Earth
-    logistics
-  url: https://www.eu-startups.com/2026/04/atmos-space-cargo-raises-e25-7-million-series-a-to-build-scalable-earth-to-space-to-earth-logistics/
-  source: eu-startups
-  date_found: '2026-04-22'
-  parsed_company: ATMOS Space Cargo
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile atmos-space-cargo.md; €25.7M Series A announced 2026-04-22,
-    co-led by Balnord and Expansion Ventures with Keen Defence, EIC Accelerator, OTB
-    Ventures, HTGF, APEX Ventures, Seraphim, Faber, E2MC, Kirch Ventures, Lennertz
-    & Co., Mätch VC, MBG Baden-Württemberg, Tech Horizons; Lichtenau Germany / Strasbourg
-    France; cited via HTGF press release and Tech.eu; no firm slugs added (none yet
-    profiled)
-- title: What The Record Venture Funding Quarter Actually Means For Your Startup’s
-    Fundraise
-  url: https://news.crunchbase.com/venture/building-successful-startup-vertical-ai-schroder-mgv/
-  source: crunchbase
-  date_found: '2026-04-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: thought-leadership opinion piece by Marc Schröder (MGV) on record Q1 2026
-    venture funding; not a round announcement
-- title: Crypto casino BetHog closes €8.5 million Series A to scale AI live dealer
-    platform from the UK
-  url: https://www.eu-startups.com/2026/04/crypto-casino-bethog-closes-e8-5-million-series-a-to-scale-ai-live-dealer-platform-from-the-uk/
-  source: eu-startups
-  date_found: '2026-04-22'
-  parsed_company: Crypto casino BetHog
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile bethog.md; Series A $10.4M (~€8.5M) originally announced
-    2025-11-24 per Tracxn, re-surfaced in eu-startups 2026-04-22 UK expansion piece;
-    lead 6th Man Ventures; co-investors not yet profiled so no firm slugs added
-- title: Berlin’s Nox Mobility raises €2 million to put Europe’s night trains back
-    on track
-  url: https://www.eu-startups.com/2026/04/berlins-nox-mobility-raises-e2-million-to-put-europes-night-trains-back-on-track/
-  source: eu-startups
-  date_found: '2026-04-22'
-  parsed_company: Berlin’s Nox Mobility
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile nox-mobility.md; €2M pre-Seed announced 2026-04-22;
-    lead IBB Ventures; co-investors Tommaso Lucca and Patrick Andrae (HomeToGo co-founder);
-    no firm slugs added (none yet profiled)
-- title: Lisbon-based DOJO AI secures €5.1 million to expand its AI marketing platform
-    in the U.S.
-  url: https://www.eu-startups.com/2026/04/lisbon-based-dojo-ai-secures-e5-1-million-to-expand-its-ai-marketing-platform-in-the-u-s/
-  source: eu-startups
-  date_found: '2026-04-22'
-  parsed_company: Lisbon-based DOJO AI
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile dojo-ai.md; $6M (~€5.1M) seed on 2026-04-22 led by
-    Armilar at $30M valuation with Heartfelt VC; Lisbon/London agentic marketing platform
-    founded by ex-Feedzai/OutSystems team; EU-Startups direct fetch 403, cited via
-    Armilar blog and Portugal Startup News
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/22/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-22-2026/
-  source: alleywatch
-  date_found: '2026-04-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: 'extracted 5 rounds; created: vast-data.md ($500M Series F led by Drive Capital/Access
-    Industries with Fidelity, NEA, NVIDIA), courier-health.md ($50M Series B led by
-    Oak HC/FT with Norwest, Work-Bench), mosaic-deals.md ($18M Series A led by Radical
-    Ventures), amperos-health.md ($16M Series A led by Bessemer with Uncork Capital,
-    Neo), thoughtly.md ($5.5M seed led by Armory Square Ventures with nvp capital,
-    Afore Capital, Greycroft, K5 Global Tokyo Black); added nea.md, bessemer-venture-partners.md,
-    uncork-capital.md, neo.md to firms frontmatter'
-- title: Delft’s OrangeQS extends Seed round to €15 million to scale quantum chip
-    testing
-  url: https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile orangeqs.md; €15M seed extension announced 2026-04-21;
-    EU-Startups direct fetch 403, cited with prior €12M seed context from OrangeQS
-    and Innovationquarter press releases; no firm slugs added (Dutch quantum investors
-    not yet profiled)
-- title: Warsaw’s Zynt raises €424.4k pre-Seed to sharpen AI-powered B2B sales intelligence
-  url: https://www.eu-startups.com/2026/04/warsaws-zynt-raises-e424-4k-pre-seed-to-sharpen-ai-powered-b2b-sales-intelligence/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: Warsaw’s Zynt
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created startup profile zynt.md; €424.4K pre-seed announced 2026-04-21; Warsaw-based
-    AI B2B sales intelligence platform founded by Cezar Reszel (ex-Booksy); no investor
-    names surfaced in available sources
-- title: London’s inploi raises €3.4 million to help enterprises automate high-volume
-    hiring with AI
-  url: https://www.eu-startups.com/2026/04/londons-inploi-raises-e3-4-million-to-help-enterprises-automate-high-volume-hiring-with-ai/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: London’s inploi
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile inploi.md; £3M (~€3.4M) growth round led by YFM Equity
-    Partners announced 2026-04-21; EU-Startups direct fetch 403, cited via Tech Funding
-    News; no firm slugs added (YFM Equity Partners not yet profiled)
-- title: Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards
-  url: https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/
-  source: techcrunch
-  date_found: '2026-04-21'
-  parsed_company: Blue Energy
-  parsed_amount: $380M
-  parsed_round: null
-  status: processed
-  notes: created startup profile blue-energy.md; $380M equity+debt financing on 2026-04-21
-    led by VXI Capital with At One Ventures, Engine Ventures, Tamarack Global; no
-    firm slugs added (lead and participants not yet profiled)
-- title: London’s Passion Capital closes €46 million fourth Seed fund targeting AI
-    and FinTech startups
-  url: https://www.eu-startups.com/2026/04/londons-passion-capital-closes-e46-million-fourth-seed-fund-targeting-ai-and-fintech-startups/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: London’s Passion Capital
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  skip_reason: fund announcement, not startup round
-- title: Edinburgh’s Exergy3 raises €11.4 million to turn surplus renewable power
-    into clean industrial heat
-  url: https://www.eu-startups.com/2026/04/edinburghs-exergy3-raises-e11-4-million-to-turn-surplus-renewable-power-into-clean-industrial-heat/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: Edinburgh’s Exergy3
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile exergy3.md; £10M (~€11.4M) seed announced 2026-04-21,
-    led by Axeleo Capital with Bayern Kapital, Kibo Invest, Scottish Enterprise, Zero
-    Carbon Capital, Old College Capital; EU-Startups direct fetch 403, cited via UK
-    Investor Magazine and Zero Carbon Capital; no firm slugs added (participants not
-    yet profiled)
-- title: DFF Ventures’ €70 million Fund III signals strong European pre-Seed Investment
-    trends in 2026
-  url: https://www.eu-startups.com/2026/04/dff-ventures-e70-million-fund-iii-signals-strong-european-pre-seed-investment-trends-in-2026/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: skipped
-  skip_reason: fund announcement, not startup round
-- title: 'Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing
-    Faster And Easier In The AI Era'
-  url: https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/
-  source: crunchbase
-  date_found: '2026-04-21'
-  parsed_company: Schematic
-  parsed_amount: $6.5M
-  parsed_round: null
-  status: processed
-  notes: created startup profile schematic.md; $6.5M seed on 2026-04-21 led by S3
-    Ventures with MHS Capital, Active Capital, NextView Ventures, Ritual; Boulder
-    CO; no firm slugs added (none of these firms yet profiled)
-- title: UK wealth lending startup Firenze raises €6.8 million to increase team amid
-    rising demand
-  url: https://www.eu-startups.com/2026/04/uk-wealth-lending-startup-firenze-raises-e6-8-million-to-increase-team-amid-rising-demand/
-  source: eu-startups
-  date_found: '2026-04-21'
-  parsed_company: UK wealth lending startup Firenze
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile firenze.md; £6M seed extension on 2026-04-21 led
-    by AlbionVC with Outward VC and Form Ventures; Manchester UK Lombard lending fintech;
-    no firm slugs added (none yet profiled)
-- title: AI research lab NeoCognition lands $40M seed to build agents that learn like
-    humans
-  url: https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/
-  source: techcrunch
-  date_found: '2026-04-21'
-  parsed_company: AI research lab NeoCognition
-  parsed_amount: $40M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile neocognition.md; $40M seed on 2026-04-21 co-led by
-    Cambium Capital and Walden Catalyst with Vista Equity Partners, Lip-Bu Tan, Ion
-    Stoica; spun out of Ohio State by professor Yu Su; no firm slugs added
-- title: Rivan raised $34M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-21'
-  parsed_company: Rivan
-  parsed_amount: $34M
-  parsed_round: null
-  status: processed
-  notes: updated existing rivan.md; same 2026-04-20 round as EU-Startups €28.7M entry
-    — reconciled as $34M (~€28.7M) led by IQ Capital with Plural, Fundomo, and angels
-    Thomas Wolf, Matt Clifford, Markus Villig; total raised now ~$46M

@@ -1,1 +1,49 @@
-priority: []
+priority:
+  - slug: iconiq-growth
+    type: firm
+    reason: "appeared in Hightouch Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: y-combinator
+    type: firm
+    reason: "appeared in Hightouch Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: kleiner-perkins
+    type: firm
+    reason: "lead of Rogo Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: sequoia-capital
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: thrive-capital
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: khosla-ventures
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: boxgroup
+    type: firm
+    reason: "appeared in Rogo Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: forerunner-ventures
+    type: firm
+    reason: "lead of Casa Series A (2026-04-30)"
+    added: 2026-04-30
+  - slug: 10100
+    type: firm
+    reason: "appeared in Casa Series A (2026-04-30)"
+    added: 2026-04-30
+  - slug: jack-altman
+    type: investor
+    reason: "appeared in Hightouch Series D (2026-04-29)"
+    added: 2026-04-30
+  - slug: kirsten-green
+    type: investor
+    reason: "lead partner on Casa Series A (2026-04-30)"
+    added: 2026-04-30
+  - slug: travis-kalanick
+    type: investor
+    reason: "appeared in Casa Series A (2026-04-30) via 10100"
+    added: 2026-04-30
