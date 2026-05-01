@@ -49,7 +49,7 @@ team:
     role: "Partner"
     name: "Croom Beatty"
 status: published
-last_researched: 2026-03-19
+last_researched: 2026-05-01
 ---
 
 ## About
@@ -117,6 +117,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Legora | Series D | 2026 | AI/Legal Tech | Private [^10] |
 | Qualified Health | Series B | 2026 | Healthcare/AI | Private [^11] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Private [^12] |
+| True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Private [^13] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -142,3 +143,5 @@ No independently sourced founder testimonials found.
 [^10]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
 [^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/
 [^12]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/
+
+[^13]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale

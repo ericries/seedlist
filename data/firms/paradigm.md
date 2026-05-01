@@ -35,7 +35,7 @@ team:
   - slug: caitlin-pintavorn
     role: Partner
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-05-01
 ---
 
 ## About
@@ -102,6 +102,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Tempo | Incubation | 2025 | Blockchain Payments | [^26] |
 | Kalshi | Series E | 2025 | Prediction Markets | [^27] |
 | Andromeda | Growth | 2026 | AI Compute | [^28] |
+| True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | [^29] |
 
 *This table represents approximately 16% of 148 known investments. The firm's portfolio page notes it excludes confidential positions [^1]. All dates have been verified against primary funding announcement sources.*
 
@@ -149,3 +150,5 @@ No additional independently sourced founder testimonials found from third-party 
 [^26]: Fortune, "Stripe and Paradigm announce new payments-focused blockchain Tempo," September 4, 2025, accessed April 2026. https://fortune.com/crypto/2025/09/04/stripe-paradigm-tempo-blockchain-stablecoins-matt-huang-payments/
 [^27]: Crunchbase News, "Kalshi Secures $1B To Expand Predictions Market Platform," December 2025, accessed April 2026. https://news.crunchbase.com/fintech/kalshi-raises-funding-predictions-market-paradigm/
 [^28]: SiliconANGLE, "On-demand GPU startup Andromeda raises funding at $1.5B valuation," March 18, 2026, accessed April 2026. https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation/
+
+[^29]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale

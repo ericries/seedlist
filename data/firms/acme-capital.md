@@ -42,7 +42,7 @@ team:
     slug: katera-mujadidi
 tldr: "Frontier tech venture firm ($1.5B aggregate commitments) co-founded by Hany Nada (ex-GGV Capital) and Scott Stanford (ex-Goldman Sachs Internet banking head). Invests $5-10M at seed through Series B in technologies 'before they are mainstream.' Portfolio (31 verified) is 29% enterprise/AI, 23% digital health, 13% aerospace/defense, 13% quantum/semiconductors. Notable exits: IonQ (IPO), Astra (IPO via SPAC). Leads 80% of investments. Over 60% of recent investments in diverse-founder companies."
 status: published
-last_researched: 2026-03-30
+last_researched: 2026-05-01
 ---
 
 ## About
@@ -101,7 +101,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Cue Health | Series C+ | 2020 | Diagnostics / Health | IPO (NASDAQ: HLTH, 2021) [^14] |
 | DraftKings | Early Stage | ~2015 | Gaming / Sports | IPO (NASDAQ: DKNG) [^5] |
 | Braintrust | Early Stage | ~2020 | Enterprise / Web3 | Public (BTRST) [^15] |
-| True Anomaly | Series D | 2026-04-28 | Aerospace & Defense | Active [^10][^22] |
+| True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Active [^10][^22] |
 | Muon Space | Series B | 2024 | Aerospace / Satellites | Active [^16] |
 | Conceivable | Series A | 2025 | Digital Health / IVF | Active [^17] |
 | Canopy | Early Stage | 2025 | Healthcare Safety | Active [^17] |
