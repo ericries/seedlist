@@ -290,7 +290,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Airtable | W12 | 2012 | Database / No-Code | Private ($11B) [^19] |
 | Plaid | W13 | 2013 | Fintech Infrastructure | Private ($13.4B) [^19] |
 | Legora | W24 | 2024 | AI / Legal Tech | Private ($5.55B) [^28][^30] |
-| Avoca | 2024 | 2024 | AI / Vertical SaaS / Services Economy | Private ($1B) [^32] |
+| Avoca | W23 | 2023 | AI / Vertical SaaS / Services Economy | Private ($1B) [^32][^33] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -419,3 +419,5 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^31]: "Duolingo," Wikipedia. https://en.wikipedia.org/wiki/Duolingo. Accessed April 2026. (Duolingo was financed initially by Luis von Ahn's MacArthur fellowship and an NSF grant; Series A of $3.3M led by Union Square Ventures closed October 2011; no Y Combinator participation documented.)
 
 [^32]: Fortune, "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup," April 27, 2026. https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/
+
+[^33]: "Avoca: AI-powered Sales Agent for Service-Based Industries," Y Combinator company directory. https://www.ycombinator.com/companies/avoca. Accessed April 2026. (Listed as Winter 2023 batch.) Cross-referenced with Work at a Startup, "Jobs at Avoca (W23)," https://www.workatastartup.com/companies/avoca, accessed April 2026.

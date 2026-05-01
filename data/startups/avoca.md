@@ -2,7 +2,7 @@
 firms:
 - round: seed
   slug: y-combinator
-  year: 2024
+  year: 2023
 - round: series-a
   slug: kleiner-perkins
   year: 2026
@@ -38,7 +38,7 @@ Avoca is a New York-based AI workforce platform for service businesses, founded 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2024 | Seed | Undisclosed | Y Combinator | [^1] |
+| 2023 | Seed (YC W23) | Undisclosed | Y Combinator | [^1][^4] |
 | 2026 | Series A | Undisclosed | Kleiner Perkins | Amplify Partners, Nexus Venture Partners [^1][^3] |
 | 2026-04-27 | Series B | Undisclosed (part of $125M+ total) | Meritech, General Catalyst | Kleiner Perkins, Amplify Partners, Nexus Venture Partners [^1][^2] |
 
@@ -59,3 +59,4 @@ Tyson Chen, co-founder: "When a home service business misses a phone call, that 
 [^1]: PR Newswire, "Avoca Raises $125M+ at $1B Valuation to Power America's Services Economy With AI," April 27, 2026. https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html
 [^2]: Fortune, "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup," April 27, 2026. https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/
 [^3]: Avoca, "Why We Are Building — Avoca," April 27, 2026. https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation
+[^4]: "Avoca: AI-powered Sales Agent for Service-Based Industries," Y Combinator company directory. https://www.ycombinator.com/companies/avoca. Accessed April 2026. (Listed as Winter 2023 batch.)

@@ -198,7 +198,7 @@ The following table includes notable investments verified through multiple sourc
 | Asana | Growth | ~2018 | Enterprise SaaS | Public (IPO 2020) [^3] |
 | Zynga | Early Stage | ~2008 | Gaming | Acquired by Take-Two (2022) [^3] |
 | Granola | Series C | 2026 | AI / Enterprise | Private [^30] |
-| Avoca | Series A | 2026 | AI / Vertical SaaS / Services Economy | Private [^31] |
+| Avoca | Series A (lead) | 2026-04-27 | AI / Vertical SaaS / Services Economy | Private [^31][^41] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Private [^32] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^33] |
 | Parallel Web Systems | Series B | 2026-04-29 | AI / Web Infrastructure | Private [^40] |
@@ -336,3 +336,5 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^39]: TechCrunch, "Together lands $102.5M investment to grow its cloud for training generative AI," November 29, 2023. https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/
 
 [^40]: PR Newswire, "Parallel Raises at $2 Billion Valuation to Scale Web Infrastructure for Agents," April 29, 2026. https://www.prnewswire.com/news-releases/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents-302756350.html — $100M Series B led by Sequoia Capital at $2B valuation; Kleiner Perkins participated as an existing investor. Cross-referenced with TechCrunch, "Parallel Web Systems hits $2B valuation five months after its last big raise," April 29, 2026. https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/
+
+[^41]: PR Newswire, "Avoca Raises $125M+ at $1B Valuation to Power America's Services Economy With AI," April 27, 2026. https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html — Kleiner Perkins led Avoca's Series A, alongside Amplify Partners and Nexus Venture Partners; round disclosed on April 27, 2026 alongside a Meritech/General Catalyst-led Series B. Cross-referenced with Avoca, "Why We Are Building," April 27, 2026, https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation, which confirms Leigh Marie Braswell of Kleiner Perkins as the Series A lead. Partner Leigh Marie Braswell quoted in PR Newswire: "They're applying AI where execution is the real bottleneck."
