@@ -60,6 +60,9 @@ firms:
 - round: Seed
   slug: construct-capital
   year: 2021
+- round: Karman era (defense manufacturing)
+  slug: karman-ventures
+  year: 2024
 founded: 2020
 founders:
 - name: Chris Power
@@ -87,6 +90,9 @@ investors:
 - round: Seed through Series B
   slug: rachel-holt
   year: 2021
+- round: Karman era (defense manufacturing)
+  slug: william-barnes
+  year: 2024
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian

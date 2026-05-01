@@ -1,32 +1,38 @@
 ---
+firms:
+- date: 2026-03-26
+  round: series-c
+  slug: savano-capital-partners
+  year: 2026
+- date: 2026-03-26
+  round: series-c
+  slug: first-round-capital
+  year: 2026
+- round: Moving Capital era
+  slug: karman-ventures
+  year: 2021
+founded: 2018
+founders: []
+investors:
+- round: '2020'
+  slug: todd-jackson
+  year: 2020
+- round: Moving Capital era
+  slug: william-barnes
+  year: 2021
+last_researched: 2026-03-28
+location: Los Angeles, CA
 name: Steno
+sector:
+- ai
+- legaltech
 slug: steno
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $150M
 type: startup
 website: https://steno.com
-location: Los Angeles, CA
-founded: 2018
-status_company: active
-sector:
-  - ai
-  - legaltech
-stage_latest: Series C
-total_raised: $150M
-firms:
-  - slug: savano-capital-partners
-    round: series-c
-    year: 2026
-    date: 2026-03-26
-  - slug: first-round-capital
-    round: series-c
-    year: 2026
-    date: 2026-03-26
-investors:
-  - round: '2020'
-    slug: todd-jackson
-    year: 2020
-founders: []
-status: published
-last_researched: 2026-03-28
 ---
 
 ## About

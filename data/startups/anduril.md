@@ -153,6 +153,9 @@ firms:
 - round: Series D
   slug: contrary
   year: 2021
+- round: Syndicate exposure
+  slug: karman-ventures
+  year: 2023
 founded: 2017
 founders:
 - name: Palmer Luckey
@@ -238,6 +241,9 @@ investors:
 - round: Series D
   slug: eric-tarczynski
   year: 2021
+- round: Syndicate exposure
+  slug: william-barnes
+  year: 2023
 last_researched: 2026-03-22
 location: Costa Mesa, California
 name: Anduril Industries

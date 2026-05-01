@@ -1,42 +1,45 @@
 ---
-name: Standard Intelligence
-slug: standard-intelligence
-type: startup
-website: https://si.inc/
-location: San Francisco, CA
+firms:
+- date: 2026-04-30
+  round: series-a
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-04-30
+  round: series-a
+  slug: spark-capital
+  year: 2026
+- round: '2026-04-30'
+  slug: duquesne-family-office
+  year: 2026
 founded: 2024
-status_company: active
+investors:
+- date: 2026-04-30
+  round: series-a
+  slug: sonya-huang
+  year: 2026
+- date: 2026-04-30
+  round: series-a
+  slug: yasmin-razavi
+  year: 2026
+- date: 2026-04-30
+  round: series-a
+  slug: stan-druckenmiller
+  year: 2026
+last_researched: 2026-04-30
+location: San Francisco, CA
+name: Standard Intelligence
 sector:
 - ai
 - foundation-models
 - agents
 - computer-use
+slug: standard-intelligence
 stage_latest: Series A
-total_raised: $75M
-investors:
-- slug: sonya-huang
-  round: series-a
-  year: 2026
-  date: 2026-04-30
-- slug: yasmin-razavi
-  round: series-a
-  year: 2026
-  date: 2026-04-30
-- slug: stan-druckenmiller
-  round: series-a
-  year: 2026
-  date: 2026-04-30
-firms:
-- slug: sequoia-capital
-  round: series-a
-  year: 2026
-  date: 2026-04-30
-- slug: spark-capital
-  round: series-a
-  year: 2026
-  date: 2026-04-30
-last_researched: 2026-04-30
 status: published
+status_company: active
+total_raised: $75M
+type: startup
+website: https://si.inc/
 ---
 
 ## About

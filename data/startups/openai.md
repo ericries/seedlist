@@ -58,6 +58,9 @@ firms:
 - round: Early
   slug: gpx
   year: 2016
+- round: Secondary / syndicate exposure
+  slug: karman-ventures
+  year: 2023
 founded: 2015
 founders:
 - name: Sam Altman
@@ -132,6 +135,9 @@ investors:
 - round: 2021-present
   slug: geoff-lewis
   year: 2021
+- round: Secondary / syndicate exposure
+  slug: william-barnes
+  year: 2023
 last_researched: 2026-04-02
 location: San Francisco, CA
 name: OpenAI

@@ -24,6 +24,9 @@ firms:
 - round: Seed
   slug: founder-collective
   year: 2016
+- round: Karman era (defense AI)
+  slug: karman-ventures
+  year: 2024
 founded: 2015
 founders:
 - name: Ryan Tseng
@@ -57,6 +60,9 @@ investors:
 - round: Series E
   slug: peter-tague
   year: 2022
+- round: Karman era (defense AI)
+  slug: william-barnes
+  year: 2024
 last_researched: 2026-03-27
 location: San Diego, CA
 name: Shield AI

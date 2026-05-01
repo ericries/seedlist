@@ -11,7 +11,10 @@ firms:
   slug: general-catalyst
   year: 2026
 founded: 2023
-investors: []
+investors:
+- round: ~2022
+  slug: dalton-caldwell
+  year: 2022
 last_researched: 2026-04-30
 location: New York, NY
 name: Avoca

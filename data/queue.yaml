@@ -17390,7 +17390,7 @@ queue:
 - name: William Barnes
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Moving Capital
   discovered_from: josh-mohrer
@@ -17848,7 +17848,7 @@ queue:
 - name: Abhay Singhal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: InMobi
   discovered_from: naveen-tewari
@@ -19723,3 +19723,84 @@ queue:
   discovered_from: marc-michel
   source: Runway portfolio company; pre-owned designer furniture marketplace acquired
     by Sotheby's Feb 2018, became Sotheby's Home
+- name: Vatera Pte. Ltd.
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Vatera
+  discovered_from: abhay-singhal
+  source: Singapore-based investor; participated in InMobi cofounder corporate-minority
+    July 2025 (INR 3.8 Cr alongside Tewari, Singhal, Shah, Saxena)
+- name: Karman Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Karman Ventures
+  discovered_from: william-barnes
+  source: Successor to Moving Capital; $40M debut fund closed June 2025; Austin-based
+    AI-native pre-seed/seed firm founded by William Barnes (former Uber West Coast
+    GM)
+- name: Dave Clark
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Karman Ventures
+  discovered_from: william-barnes
+  source: Listed as General Partner at Karman Ventures alongside William Barnes (Everything
+    Startups; Private Equity International)
+- name: Amr Al-Shihabi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Karman Ventures
+  discovered_from: william-barnes
+  source: Listed as General Partner at Karman Ventures (Private Equity International
+    institution profile)
+- name: Nikhil Goel
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Karman Ventures
+  discovered_from: william-barnes
+  source: Venture Partner at Karman Ventures (TheOrg.com team chart)
+- name: Veho
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-barnes
+  source: Last-mile delivery startup; in Karman Ventures / William Barnes portfolio
+- name: Metropolis
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-barnes
+  source: Parking/payments mobility tech; in Karman Ventures / William Barnes portfolio
+- name: Liquid Death
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-barnes
+  source: Consumer brand (canned water); in William Barnes / Moving Capital era portfolio
+- name: Not Diamond
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-barnes
+  source: AI infrastructure; Karman Ventures Fund 1 portfolio (founded by Tomas Hernando
+    Kofman)
+- name: Julius AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: william-barnes
+  source: AI; Karman Ventures Fund 1 portfolio (founded by Rahul Sonwalkar)

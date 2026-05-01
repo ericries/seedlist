@@ -1,29 +1,36 @@
 ---
-name: Seaport Therapeutics
-slug: seaport-therapeutics
-type: startup
-website: https://seaporttx.com
-location: Boston, MA
-founded: 2024
-status_company: ipo
-sector:
-- biotech
-- neuroscience
-- cns
-stage_latest: IPO
-total_raised: $580M+
 firms:
-- slug: third-rock-ventures
+- date: 2024-04-09
   round: series-a
+  slug: third-rock-ventures
   year: 2024
-  date: 2024-04-09
+- round: Series A
+  slug: arch-venture-partners
+  year: 2024
+founded: 2024
 founders:
 - name: Daphne Zohar
   role: Founder & CEO
 - name: Steven M. Paul
   role: Founder & Board Chair
-status: published
+investors:
+- round: Series A
+  slug: bob-nelsen
+  year: 2024
 last_researched: 2026-04-30
+location: Boston, MA
+name: Seaport Therapeutics
+sector:
+- biotech
+- neuroscience
+- cns
+slug: seaport-therapeutics
+stage_latest: IPO
+status: published
+status_company: ipo
+total_raised: $580M+
+type: startup
+website: https://seaporttx.com
 ---
 
 ## About

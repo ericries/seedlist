@@ -1,31 +1,40 @@
 ---
-name: "Iterative Health"
-slug: iterative-health
-type: startup
-website: "https://www.iterativehealth.com/"
-location: "Cambridge, MA"
-status_company: active
-sector: [healthcare, healthtech, ai, clinical-trials, gastroenterology]
-stage_latest: "Series C"
-total_raised: "$77M (Series C)"
 firms:
-  - slug: gv
-    round: series-c
-    year: 2026
-    date: 2026-04-30
-  - slug: insight-partners
-    round: series-c
-    year: 2026
-    date: 2026-04-30
-  - slug: obvious-ventures
-    round: series-c
-    year: 2026
-    date: 2026-04-30
+- date: 2026-04-30
+  round: series-c
+  slug: gv
+  year: 2026
+- date: 2026-04-30
+  round: series-c
+  slug: insight-partners
+  year: 2026
+- date: 2026-04-30
+  round: series-c
+  slug: obvious-ventures
+  year: 2026
 founders:
-  - name: "Jonathan Ng"
-    role: "Founder & CEO"
+- name: Jonathan Ng
+  role: Founder & CEO
+investors:
+- round: Early Stage
+  slug: vishal-vasishth
+  year: 2021
 last_researched: 2026-04-30
+location: Cambridge, MA
+name: Iterative Health
+sector:
+- healthcare
+- healthtech
+- ai
+- clinical-trials
+- gastroenterology
+slug: iterative-health
+stage_latest: Series C
 status: published
+status_company: active
+total_raised: $77M (Series C)
+type: startup
+website: https://www.iterativehealth.com/
 ---
 
 ## About
