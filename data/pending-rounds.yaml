@@ -20,6 +20,18 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: '“If Figma and Lovable had a child that became an architect”: Synaps raises
+    €3.06 million to rival AutoCAD'
+  url: https://www.eu-startups.com/2026/05/if-figma-and-lovable-had-a-child-that-became-an-architect-synaps-raises-e3-06-million-to-rival-autocad/
+  source: eu-startups
+  date_found: '2026-05-01'
+  parsed_company: '“If Figma and Lovable had a child that became an architect”: Synaps'
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by synaps.md ($3.6M pre-seed led by Plug and Play with Fil Rouge
+    Capital, 2026-04-30)
 - title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
   url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
   source: eu-startups
@@ -1081,16 +1093,3 @@ pending_rounds:
   status: skipped
   skip_reason: sector trend piece on EV funding, not a specific startup round; Wayve's
     $1.2B February round and Slate Auto's $650M Series C already referenced elsewhere
-- title: Zagreb-based Fasal Bio secures €7 million to replace plastics with renewable
-    raw materials
-  url: https://www.eu-startups.com/2026/04/zagreb-based-fasal-bio-secures-e7-million-to-replace-plastics-with-renewable-raw-materials/
-  source: eu-startups
-  date_found: '2026-04-23'
-  parsed_company: Zagreb-based Fasal Bio
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile fasal-bio.md; €7M growth equity on 2026-04-23 from
-    BlackPeak Capital (final investment from BlackPeak Southeast Europe Growth Equity
-    Fund I); Zagreb Croatia wood-based renewable materials; EU-Startups direct fetch
-    403, cited via Vestbee
