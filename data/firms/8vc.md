@@ -109,7 +109,7 @@ Based on 8VC's verified portfolio and public data:
 | Orca Bio | Early | ~2016 | Life Sciences | Private [^3] |
 | Qualia | Early | ~2017 | Fintech/Real Estate | Private [^3] |
 | Glimpse | Seed / Series A | 2025–2026 | Fintech / Retail Tech | Private [^9] |
-| eMed | Series A | 2026 | Healthcare/AI Telehealth | Private [^10] |
+| eMed | Series A | 2026-03-26 | Healthcare/AI Telehealth | Private [^10][^17][^18] |
 | Alloy Therapeutics | Series E | 2026 | Biotech/Drug Discovery | Private [^11] |
 | Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
 | Rilian | Seed (co-led) | 2026 | AI/Cybersecurity/Defense | Private [^13] |
@@ -138,7 +138,7 @@ No independently sourced founder testimonials found.
 [^8]: 8VC website, "The 8VC Build Program," accessed March 2026. https://8vc.com/build
 
 [^9]: "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z." TechCrunch, March 25, 2026. https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/
-[^10]: "eMed Announces $200M Series A Funding Round," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-series-a-2026.html
+[^10]: "eMed Raises $200 Million At $2 Billion Plus Valuation," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-raises-200-million-at-2-billion-plus-valuation-302725381.html
 
 [^11]: BioSpace, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026. https://www.biospace.com/press-releases/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure
 
@@ -151,3 +151,7 @@ No independently sourced founder testimonials found.
 [^15]: Toyota USA Newsroom and Joby Aviation press, "Joby Aviation Announces Closing of $100 Million Series B," February 1, 2018. https://www.jobyaviation.com/news/joby-aviation-announces-closing-250-million-investment/ — Series B led by Capricorn Investment Group; 8VC participated.
 
 [^16]: TechCrunch, "Illumio Raises $100M More For Enterprise Security That Goes Beyond The Firewall," April 14, 2015. https://techcrunch.com/2015/04/14/illumio-raises-100m-more-for-enterprise-security-that-goes-beyond-the-firewall/ — references prior 2014 Series B; Formation 8 (now 8VC) had invested in the October 2014 Series B/extension round per Wikipedia coverage of Formation 8.
+
+[^17]: Refresh Miami, "Tom Brady-backed eMed rides GLP-1 success to a $200M Series A at a $2B valuation," March 26, 2026. https://refreshmiami.com/news/tom-brady-backed-emed-rides-glp-1-success-to-a-200m-series-a-at-a-2b-valuation/
+
+[^18]: MobiHealthNews, "Tom Brady-backed telehealth AI startup eMed raises $200M, tops $2B valuation," March 30, 2026. https://www.mobihealthnews.com/news/tom-brady-backed-telehealth-ai-startup-emed-raises-200m-tops-2b-valuation

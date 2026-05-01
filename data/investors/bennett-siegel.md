@@ -95,7 +95,7 @@ AI/ML is a dominant theme in recent investments. Of the 22 companies tabled, 16 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Decagon | Series A | 2024 | AI (conversational agents) | [^15] |
+| Decagon | Series A | 2024-06-18 | AI (conversational agents) | [^15] |
 | Decagon | Series B | 2024 | AI (conversational agents) | [^18] |
 | Decagon | Series C | 2025 | AI (conversational agents) | [^19] |
 | Paraform | Seed | 2024 | AI (recruiting marketplace) | [^20] |

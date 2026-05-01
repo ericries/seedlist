@@ -87,7 +87,7 @@ Based on 8VC's publicly identified portfolio companies and Lonsdale's personal i
 | Epirus | ~2020 | Co-founded | Defense Tech | Active | [^2] |
 | Yugabyte | ~2020 | Investment | Database/Infrastructure | Active | [^1] |
 | Resilience Bio | ~2020 | Co-founded | Biotech/Manufacturing | Active | [^2] |
-| eMed | 2026 | Series A | Healthcare/AI Telehealth | Active | [^11] |
+| eMed | 2026-03-26 | Series A | Healthcare/AI Telehealth | Active | [^11][^12][^13] |
 
 *This table represents approximately 22 of Lonsdale's estimated 80+ combined personal angel and 8VC investments. Many entries use approximate years based on company founding dates or earliest known 8VC involvement, marked with ~.*
 
@@ -125,4 +125,6 @@ One testimonial from an associate states: "Joe is the most creative and among th
 [^8]: "How Joe Lonsdale Built 6 Billion-Dollar Companies," Hampton, accessed March 2026. https://joinhampton.com/blog/how-joe-lonsdale-built-6-billion-dollar-companies
 [^9]: Joe Lonsdale Crunchbase Person Profile, accessed March 2026. https://www.crunchbase.com/person/joe-lonsdale-fe3e
 [^10]: "Anduril Industries," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Anduril_Industries
-[^11]: "eMed Announces $200M Series A Funding Round," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-series-a-2026.html
+[^11]: "eMed Raises $200 Million At $2 Billion Plus Valuation," PR Newswire, March 26, 2026. https://www.prnewswire.com/news-releases/emed-raises-200-million-at-2-billion-plus-valuation-302725381.html
+[^12]: "Tom Brady-backed eMed rides GLP-1 success to a $200M Series A at a $2B valuation," Refresh Miami, March 26, 2026. https://refreshmiami.com/news/tom-brady-backed-emed-rides-glp-1-success-to-a-200m-series-a-at-a-2b-valuation/
+[^13]: "Tom Brady-backed telehealth AI startup eMed raises $200M, tops $2B valuation," MobiHealthNews, March 30, 2026. https://www.mobihealthnews.com/news/tom-brady-backed-telehealth-ai-startup-emed-raises-200m-tops-2b-valuation

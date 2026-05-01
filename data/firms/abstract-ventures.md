@@ -92,7 +92,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | AirGarage | Seed | ~2021 | Enterprise | Active [^6] |
 | Alpaca | Series A | ~2021 | Fintech | Active [^6][^8] |
 | Snackpass | Seed | ~2021 | Consumer | Active [^13] |
-| LangChain | Seed | ~2023 | AI | Active [^8] |
+| LangChain | Seed | 2023-04-04 | AI | Active [^8][^17] |
 | Replit | Seed | ~2023 | AI/DevTools | Active [^8] |
 | Cognition | Seed | ~2023 | AI | Active [^8] |
 | Hebbia | Seed | ~2023 | AI | Active [^8] |
@@ -160,3 +160,4 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^14]: Venture Capital Archive, "Abstract Ventures," accessed March 2026. https://venturecapitalarchive.com/venture-funds/abstract-ventures-abstract-vc
 [^15]: Existing Seedlist profiles for Ramtin Naimi and Alex Davidov, referencing recent investments. Accessed March 2026.
 [^16]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
+[^17]: LangChain blog, "Announcing our $10M seed round led by Benchmark," April 4, 2023. https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark

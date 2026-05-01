@@ -89,7 +89,7 @@ Gupta brings specific expertise in subscription models and consumer unit economi
 | Grove | Seed | 2025 | Consumer | [^17] |
 | Paraform | Series A | 2025 | AI/Recruiting | [^16] |
 | Cape | Series B (follow-on) | 2025 | Telecom/Security | [^15] |
-| Decagon | Series A | 2024 | AI/Customer Support | [^13] |
+| Decagon | Series A | 2024-06-18 | AI/Customer Support | [^13] |
 | Mercor | Seed | ~2024 | AI/Labor Marketplace | [^1] |
 | Munch | Seed | 2023 | Consumer | [^17] |
 | Fonoa | Series A | 2021 | Fintech/Tax Automation | [^18] |

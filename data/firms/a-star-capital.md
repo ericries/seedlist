@@ -80,7 +80,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Aligned Marketplace | Seed | 2024 | Healthcare | Active [^19] |
 | Apollo | Firm-level (undisclosed) | ~2022 | Sales/Marketing SaaS | Active [^1] |
 | Cape | Seed/Early | 2025 | Telecommunications/Security | Active [^12] |
-| Decagon | Series A | 2024 | AI/Customer Support | Active [^18] |
+| Decagon | Series A | 2024-06-18 | AI/Customer Support | Active [^18][^23][^24] |
 | EyeTell | Seed | 2023 | AI/Video | Active [^17] |
 | Faire | Series B+ | ~2021 | Wholesale Marketplace | Active [^2] |
 | Flock Safety | Series C | 2020 | Public Safety | Active [^20] |
@@ -165,3 +165,5 @@ No independently sourced founder testimonials found. The firm's website does not
 [^20]: "Flock Safety raises $47M in Series C Funding," Flock Safety blog, November 2020. https://www.flocksafety.com/blog/everything-has-changed-and-nothing-has-changed-flock-safety-raised-47m-to-solve-more-crime-and-protect-privacy
 [^21]: "Paraform raises $3.6M seed round to connect startups with recruiter networks," TechCrunch, April 15, 2024. https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding/
 [^22]: Bennett Siegel, Twitter/X post, accessed March 2026. https://x.com/BennettSiegel
+[^23]: GlobeNewswire, "Decagon Raises $35M from Accel and a16z to Bring Human-Like AI Customer Support to the Enterprise," June 18, 2024. https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/Decagon-Raises-35M-from-Accel-and-a16z-to-Bring-Human-Like-AI-Customer-Support-to-the-Enterprise.html
+[^24]: TechCrunch, "Decagon claims its customer service bots are smarter than average," June 18, 2024. https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/
