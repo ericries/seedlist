@@ -84,7 +84,7 @@ Granola is a London-based AI meeting notes platform that has expanded into enter
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2026-03-25 | Series C | $125M | Index Ventures (Danny Rimer) | Kleiner Perkins (Mamoon Hamid), Lightspeed, Spark Capital, NFDG (Nat Friedman/Daniel Gross) [^1] |
+| 2026-03-25 | Series C | $125M (at $1.5B val) | Index Ventures (Danny Rimer) | Kleiner Perkins (Mamoon Hamid), Lightspeed, Spark Capital, NFDG (Nat Friedman/Daniel Gross) [^1][^3][^4][^5] |
 | 2025-05-14 | Series B | $43M | NFDG (Nat Friedman/Daniel Gross) | — [^2] |
 
 ## What Investors Say
@@ -99,3 +99,6 @@ No independently sourced founder testimonials found.
 
 [^1]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c
 [^2]: TechCrunch, "AI notetaking app Granola raises $43M at $250M valuation," May 14, 2025, accessed March 2026. https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/
+[^3]: Granola, "Granola raises $125M to put your company's context to work," March 25, 2026, accessed April 2026. https://www.granola.ai/blog/series-c
+[^4]: Index Ventures, "Index Ventures Leads Granola's $125M Series C," March 25, 2026, accessed April 2026. https://www.indexventures.com/perspectives/granola-investing-in-what-makes-us-human/
+[^5]: Bloomberg, "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding," March 25, 2026, accessed April 2026. https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding

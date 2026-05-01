@@ -139,7 +139,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Remote | Series A | 2020 | HR/Enterprise | [^35] |
 | Personio | Series B | 2019 | HR/Enterprise | [^36] |
 | Trainline (Captain Train) | Seed | 2012 | Travel | [^37] |
-| Granola | Series C (led) | 2026 | AI/Enterprise | [^14] |
+| Granola | Series C (led, $125M, $1.5B val) | 2026-03-25 | AI/Enterprise | [^14][^39][^40][^41] |
 | Ineffable Intelligence | Seed | 2026 | AI / Foundation Models | [^38] |
 
 This table represents a subset of Index Ventures' portfolio.
@@ -200,3 +200,9 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^36]: Personio, "Personio raised $40M in Series B investment led by Index Ventures," January 2019. https://www.personio.com/about-personio/press/series-b-announcement/
 [^37]: Tracxn, "Trainline Europe funding rounds," accessed April 2026. https://tracxn.com/d/companies/trainline-europe/__dHL2gEKGm3xfRN8WuvGdD5a4xOEV-Tkw9Ll3rshIbKM
 [^38]: TechCrunch, "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data," April 27, 2026. https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/ — $1.1B Seed at $5.1B valuation co-led by Sequoia Capital and Lightspeed Venture Partners; Index Ventures participated.
+
+[^39]: Granola, "Granola raises $125M to put your company's context to work," March 25, 2026. https://www.granola.ai/blog/series-c
+
+[^40]: Index Ventures, "Index Ventures Leads Granola's $125M Series C," March 25, 2026. https://www.indexventures.com/perspectives/granola-investing-in-what-makes-us-human/
+
+[^41]: Bloomberg, "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding," March 25, 2026. https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding

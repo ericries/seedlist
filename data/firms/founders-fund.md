@@ -182,13 +182,13 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Ramp | Growth | ~2019 (founded) | Fintech | Private [^20] |
 | Neuralink | Early | ~2016 (founded) | Biotech / Neural Interface | Private [^20] |
 | OpenAI | Series F | 2025 | AI | Private [^25] |
-| Cognition | Series A | 2024 | AI / Developer Tools | Private [^20] |
+| Cognition | Series A (led) | 2024-03-12 | AI / Developer Tools | Private [^20][^36][^37][^38] |
 | Nubank | Series C | ~2014 | Fintech / Banking | Public (IPO 2021) [^2] |
 | Trade Republic | Growth | ~2019 (founded) | Fintech / Brokerage | Private [^20] |
 | Spotify | Growth | ~2008 (founded) | Consumer / Music Streaming | Public (IPO 2018) [^20] |
 | Rippling | Growth | ~2017 (founded) | Enterprise / HR | Private [^20] |
 | Affirm | Early | ~2012 (founded) | Fintech / BNPL | Public (IPO 2021) [^14][^20] |
-| Crusoe | Series D | 2024 | AI / Cloud / Energy | Private [^20] |
+| Crusoe | Series D (led) | 2024-12-12 | AI / Cloud / Energy | Private [^20][^39][^40][^41] |
 | Polymarket | Growth | ~2020 (founded) | Prediction Markets | Private [^20] |
 | Lighter | Early | ~2023 (founded) | Health / Weight | Private [^20] |
 | Figma | Series C | 2019 | Design / Developer Tools | Private [^24] |
@@ -346,3 +346,15 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^34]: "Palmer Luckey, American Vulcan." Tablet Magazine. https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril. Accessed March 2026.
 
 [^35]: "Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months." TechCrunch, March 5, 2026. https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/
+
+[^36]: Cognition, "Introducing Devin, the first AI software engineer," March 12, 2024. https://cognition.ai/blog/introducing-devin
+
+[^37]: "Cognition AI." Wikipedia. Accessed April 2026. https://en.wikipedia.org/wiki/Cognition_AI
+
+[^38]: "Report: Cognition Business Breakdown & Founding Story." Contrary Research. Accessed April 2026. https://research.contrary.com/company/cognition
+
+[^39]: Crusoe, "Crusoe Closes $600M in Series D Round at $2.8 Billion Valuation to Power AI," December 12, 2024. https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding
+
+[^40]: GlobeNewswire, "Crusoe Closes $600M in Series D Round at $2.8 Billion Valuation to Power AI," December 12, 2024. https://www.globenewswire.com/news-release/2024/12/12/2996138/0/en/Crusoe-Closes-600M-in-Series-D-Round-at-2-8-Billion-Valuation-to-Power-AI.html
+
+[^41]: "Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows." TechCrunch, November 21, 2024. https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/
