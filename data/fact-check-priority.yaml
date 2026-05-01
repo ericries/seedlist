@@ -1,1 +1,37 @@
-priority: []
+priority:
+  - slug: third-rock-ventures
+    type: firm
+    reason: "appeared in Seaport Therapeutics IPO (2026-04-30, SPTX)"
+    added: 2026-05-01
+  - slug: gv
+    type: firm
+    reason: "co-led Iterative Health Series C (2026-04-30)"
+    added: 2026-05-01
+  - slug: insight-partners
+    type: firm
+    reason: "appeared in Iterative Health Series C (2026-04-30)"
+    added: 2026-05-01
+  - slug: obvious-ventures
+    type: firm
+    reason: "appeared in Iterative Health Series C (2026-04-30)"
+    added: 2026-05-01
+  - slug: sequoia-capital
+    type: firm
+    reason: "co-led Standard Intelligence Series A (2026-04-30)"
+    added: 2026-05-01
+  - slug: spark-capital
+    type: firm
+    reason: "co-led Standard Intelligence Series A (2026-04-30)"
+    added: 2026-05-01
+  - slug: sonya-huang
+    type: investor
+    reason: "Sequoia partner on Standard Intelligence Series A (2026-04-30)"
+    added: 2026-05-01
+  - slug: yasmin-razavi
+    type: investor
+    reason: "Spark Capital partner on Standard Intelligence Series A (2026-04-30)"
+    added: 2026-05-01
+  - slug: stan-druckenmiller
+    type: investor
+    reason: "angel in Standard Intelligence Series A (2026-04-30)"
+    added: 2026-05-01

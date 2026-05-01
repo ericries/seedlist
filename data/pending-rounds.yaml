@@ -32,6 +32,172 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by synaps.md ($3.6M pre-seed led by Plug and Play with Fil Rouge
     Capital, 2026-04-30)
+- title: 'Data: The Seed Funding Boom Is Concentrating Capital In The San Francisco
+    Bay Area'
+  url: https://news.crunchbase.com/seed/us-startup-venture-funding-boom-concentration-bay-area/
+  source: crunchbase
+  date_found: '2026-05-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: skipped
+  skip_reason: trend/data analysis piece, not a specific round
+- title: Amsterdam’s VNYX secures over €1 million to make fashion resale more profitable
+    than dumping and burning
+  url: https://www.eu-startups.com/2026/05/amsterdams-vnyx-secures-over-e1-million-to-make-fashion-resale-more-profitable-than-dumping-and-burning/
+  source: eu-startups
+  date_found: '2026-05-01'
+  parsed_company: Amsterdam’s VNYX
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Denmark’s Decameal raises Seed funding to turn invasive shore crabs into
+    sustainable feed ingredients
+  url: https://www.eu-startups.com/2026/05/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/
+  source: eu-startups
+  date_found: '2026-05-01'
+  parsed_company: Denmark’s Decameal
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Iterative Health raised $77M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Iterative Health
+  parsed_amount: $77M
+  parsed_round: Series C
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by iterative-health.md (Series C 2026-04-30 co-led by Intrepid Growth
+    Partners and GV)
+- title: Fun raised $72M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Fun
+  parsed_amount: $72M
+  parsed_round: Series A
+  status: pending
+- title: Standard Intelligence raised $75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Standard Intelligence
+  parsed_amount: $75M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by standard-intelligence.md (Series A 2026-04-30 co-led by Sequoia
+    + Spark Capital, AI lab)
+- title: Versana raised $43M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Versana
+  parsed_amount: $43M
+  parsed_round: null
+  status: pending
+- title: Sahi raised $33M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Sahi
+  parsed_amount: $33M
+  parsed_round: null
+  status: pending
+- title: Moleculent raised $26M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Moleculent
+  parsed_amount: $26M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by moleculent.md ($20M April 2026 round led by Rubicon Healthcare;
+    Axios $26M figure was the June 2024 Series A by ARCH)
+- title: Fence raised $20M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Fence
+  parsed_amount: $20M
+  parsed_round: null
+  status: pending
+- title: Chord raised $7M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Chord
+  parsed_amount: $7M
+  parsed_round: null
+  status: pending
+- title: Belo raised $14M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Belo
+  parsed_amount: $14M
+  parsed_round: Series A
+  status: pending
+- title: CH4 Natural Solutions Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: CH4 Natural Solutions Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC
+- title: Quantum Leap Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Quantum Leap Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC
+- title: Hemab Therapeutics raised $302M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Hemab Therapeutics
+  parsed_amount: $302M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by hemab-therapeutics.md ($301.5M IPO 2026-04-30, Nasdaq COAG)
+- title: Seaport Therapeutics raised $255M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Seaport Therapeutics
+  parsed_amount: $255M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by seaport-therapeutics.md ($254.9M IPO 2026-04-30, Nasdaq SPTX)
+- title: m. Skio had raised $8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: m. Skio had
+  parsed_amount: $8M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact ("m. Skio had" — incomplete fragment)
+- title: Relentless raised $80M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Relentless
+  parsed_amount: $80M
+  parsed_round: null
+  status: skipped
+  skip_reason: Relentless is a $80M debut seed FUND by Damir Becirovic (ex-Index Ventures),
+    not a startup round
 - title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
   url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
   source: eu-startups
@@ -870,226 +1036,3 @@ pending_rounds:
     by Just Climate (Generation Investment Management) and High Sage Ventures; San
     Francisco grocery AI, founded 2017; prior $115M Series B (2022) led by Spark Capital
     with Insight Partners added to firms frontmatter
-- title: Copperhelm raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Copperhelm
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile copperhelm.md; $7M seed on 2026-04-23 led by TLV
-    Partners with toDay Ventures, ICON, SaaS Ventures Israel and angels Kfir Tishbi,
-    Or Hiltch, Guy Zipori, Ephraim Yarmak; Tel Aviv agentic cloud security; founded
-    late 2025 by Shimon Tolts, Eyar Zilberman, Roman Labunsky; no firm slugs added
-    (none yet profiled)
-- title: has raised $6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: has
-  parsed_amount: $6M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact from Axios; "has" is an auxiliary verb ("X has raised
-    $6M"), not a company name; could not identify the actual company from web searches
-- title: Adams Street raised $2.5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Adams Street
-  parsed_amount: $2.5B
-  parsed_round: null
-  status: skipped
-  skip_reason: Adams Street Partners is a large PE/private markets firm; $2.5B is
-    a fund close, not a startup funding round
-- title: Helsinki-based AI infrastructure company Verda raises €100 million, plans
-    to hire 100+ people by year-end
-  url: https://www.eu-startups.com/2026/04/helsinki-based-ai-infrastructure-company-verda-raises-e100-million-plans-to-hire-100-people-by-year-end/
-  source: eu-startups
-  date_found: '2026-04-24'
-  parsed_company: Helsinki-based AI infrastructure company Verda
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile verda.md; $117M (~€100M) growth round on 2026-04-24
-    led by Lifeline Ventures with byFounders, Tesi, Varma per verda.com blog; Helsinki
-    AI cloud hyperscaler (formerly DataCrunch); no firm slugs added (Lifeline Ventures,
-    byFounders, Tesi, Varma not yet profiled); EU-Startups direct fetch 403, cited
-    via Verda blog primary source
-- title: HrFlow.ai secures €6 million pre-Series A to build “Hiring SuperIntelligence”
-    to tackle unemployment
-  url: https://www.eu-startups.com/2026/04/hrflow-ai-secures-e6-million-pre-series-a-to-build-hiring-superintelligence-to-tackle-unemployment/
-  source: eu-startups
-  date_found: '2026-04-24'
-  parsed_company: HrFlow.ai
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile hrflow-ai.md; $7M (~€6M) pre-Series A announced 2026-04-08
-    per HrFlow blog, re-surfaced in EU-Startups 2026-04-24; co-led by 115K and EmergingTech
-    Ventures with angels Xavier Niel, Jean-Baptiste Rudelle, Romain Niccoli, Franck
-    Le Ouay, Flavien Kulawik, Allen Penn, Dominique Vidal, Thibaud Elzière; Paris-based
-    HR AI; added xavier-niel and dominique-vidal to investors frontmatter; 115K and
-    EmergingTech Ventures not yet profiled
-- title: Paris-based Sillage raises €1.7 million to help sales teams follow the right
-    signals
-  url: https://www.eu-startups.com/2026/04/paris-based-sillage-raises-e1-7-million-to-help-sales-teams-follow-the-right-signals/
-  source: eu-startups
-  date_found: '2026-04-24'
-  parsed_company: Paris-based Sillage
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile sillage.md; €1.7M (~$2M) pre-seed on 2026-04-24 led
-    by Kima Ventures with Drysdale Ventures, STATION F, angels; Paris-based GTM agent
-    platform for enterprise sales founded 2025 by Arnaud Weiss and Arthur Coudouy;
-    added Sillage to kima-ventures.md portfolio; EU-Startups direct fetch 403, cited
-    via Kima Ventures LinkedIn post and Sillage company website/LinkedIn
-- title: Delft’s Foamlab raises €3 million to replace fossil-based plastics with its
-    bacterial cellulose foams
-  url: https://www.eu-startups.com/2026/04/delfts-foamlab-raises-e3-million-to-replace-fossil-based-plastics-with-its-bacterial-cellulose-foams/
-  source: eu-startups
-  date_found: '2026-04-24'
-  parsed_company: Delft’s Foamlab
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile foamlab.md; €3M seed announced 2026-04-24 led by
-    Value Factory Ventures with ICOS Capital, DOEN Ventures, Capricorn Industrial
-    Biotech Fund, TTT Green Tech Fund (SHIFT Invest); Delft NL TU Delft spinout founded
-    2022 by Prof. Elvin Karana (co-founder/technology lead) and Jeroen van Rotterdam
-    (CEO); bacterial nanocellulose foam to replace fossil plastics; no firm slugs
-    added (none yet profiled); EU-Startups direct fetch 403, cited via Duurzaam Beleggen
-    and TU Delft
-- title: Cerca Magnetics raises €4.3 million to scale wearable brain imaging systems
-    powered by quantum sensing
-  url: https://www.eu-startups.com/2026/04/cerca-magnetics-raises-e4-3-million-to-scale-wearable-brain-imaging-systems-powered-by-quantum-sensing/
-  source: eu-startups
-  date_found: '2026-04-24'
-  parsed_company: Cerca Magnetics
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile cerca-magnetics.md; £3.8M (~€4.3M) Series A announced
-    2026-04-21 led by Guinness Ventures at £30M post-money valuation; Nottingham UK
-    2020 spinout from University of Nottingham School of Physics and Astronomy; CEO
-    and co-founder David Woolger; wearable OPM-MEG quantum brain scanners for epilepsy,
-    MS, dementia research; no firm slugs added (Guinness Ventures not yet profiled);
-    EU-Startups direct fetch 403, cited via The Quantum Insider and Nottingham Technology
-    Ventures
-- title: Nuclear startup X-energy raises $1B in data center-driven IPO
-  url: https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/
-  source: techcrunch
-  date_found: '2026-04-24'
-  parsed_company: Nuclear startup X-energy
-  parsed_amount: $1B
-  parsed_round: null
-  status: processed
-  notes: created startup profile x-energy.md; $1.02B IPO on Nasdaq 2026-04-24 under
-    ticker XE, priced at $23/share (above $16-$19 range), shares up ~36% in debut;
-    Rockville MD SMR developer founded 2009 by Kam Ghaffarian, CEO Clay Sell (former
-    US Deputy Secretary of Energy); pre-IPO Amazon Climate Pledge Fund-led Series
-    C-1 and Dow commercial deal; no firm slugs added (backers not yet profiled)
-- title: 'The Week’s 10 Biggest Funding Rounds: AI, Autonomy And Biotech Top The Ranks'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-autonomy-biotech-anthropic/
-  source: crunchbase
-  date_found: '2026-04-24'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: weekly roundup/trend piece; individual rounds mentioned (Anthropic,
-    etc.) already surfaced via other feeds or outside normal startup scope
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Apr. 20 – Apr. 24)
-  url: https://www.eu-startups.com/2026/04/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-apr-20-apr-24/
-  source: eu-startups
-  date_found: '2026-04-24'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: EU-Startups weekly roundup; individual rounds (Verda, Cloudsmith, HrFlow,
-    Sillage, Foamlab, Cerca Magnetics, Fasal Bio, UNIVITY, Decade Energy, Naturbeads,
-    Realm, ATMOS, BetHog, Nox Mobility, DOJO AI, OrangeQS, Zynt, inploi, Exergy3,
-    Firenze, Rivan) already covered as separate entries in this pending file
-- title: Salmon raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Salmon
-  parsed_amount: $60M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate of existing salmon.md; $60M is the equity portion of the
-    $100M equity+debt round (2026-04-23) already profiled via TechCrunch feed
-- title: Shade raised $14M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Shade
-  parsed_amount: $14M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate of existing shade.md; same $14M round already profiled via
-    AlleyWatch 4/23 feed (co-led by Khosla Ventures, Construct Capital, Bling Capital)
-- title: Swoop raised $7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Swoop
-  parsed_amount: $7M
-  parsed_round: null
-  status: processed
-  notes: created startup profile swoop.md; $7.3M seed on 2026-04-23 led by Long Journey
-    with Variant, Version One Ventures, Dune Ventures, Soma Capital, Zero Knowledge
-    Ventures, Walter Kortschak, Base Capital; Lagos Nigeria food delivery super-app
-    founded 2025 by 19-year-old Thiel Fellow Aubrey Niederhoffer; added version-one-ventures
-    to firms frontmatter
-- title: Zig.ai raised $3M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Zig.ai
-  parsed_amount: $3M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile zig-ai.md; $3M seed surfaced in Axios Pro Rata 2026-04-24
-    led by super{set} with Ulu Ventures; total $8.2M per PitchBook; San Francisco
-    AI sales execution platform founded 2025, publicly launched Jan 2026, flagship
-    ZigScribe meeting agent; no firm slugs added (super{set} and Ulu Ventures not
-    yet profiled)
-- title: Two college kids raise a $5.1 million pre-seed to build an AI social network
-    in iMessage
-  url: https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/
-  source: techcrunch
-  date_found: '2026-04-24'
-  parsed_company: null
-  parsed_amount: $5.1M
-  parsed_round: Pre-Seed
-  status: processed
-  processed: '2026-04-25'
-  notes: Created series-app startup profile, added Pear VC portfolio entry
-- title: 'Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With
-    Agentic AI For Utilities And Infrastructure'
-  url: https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/
-  source: crunchbase
-  date_found: '2026-04-23'
-  parsed_company: Cloneable
-  parsed_amount: $4.6M
-  parsed_round: null
-  status: processed
-  notes: created startup profile cloneable.md; $4.6M seed on 2026-04-23 led by Congruent
-    Ventures with First In Capital, Overline, Bull City Venture Partners, St. Elmo
-    Venture Capital; Raleigh NC; no firm slugs added (none yet profiled)
-- title: 'Sector Snapshot: EV Funding On Track For Modest Gains'
-  url: https://news.crunchbase.com/venture/modest-gains-for-electric-vehicle-funding-wayve/
-  source: crunchbase
-  date_found: '2026-04-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: sector trend piece on EV funding, not a specific startup round; Wayve's
-    $1.2B February round and Slate Auto's $650M Series C already referenced elsewhere
