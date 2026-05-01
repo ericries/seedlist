@@ -19804,3 +19804,60 @@ queue:
   added: '2026-03-17'
   discovered_from: william-barnes
   source: AI; Karman Ventures Fund 1 portfolio (founded by Rahul Sonwalkar)
+- name: Eclipse
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: co-led True Anomaly $650M Series D (2026-04-28)
+- name: Space VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: participant in True Anomaly $650M Series D (2026-04-28)
+- name: Narya
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: participant in True Anomaly $650M Series D (2026-04-28)
+- name: G Squared
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: participant in True Anomaly $650M Series D (2026-04-28)
+- name: Even Rogers
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Anomaly
+  discovered_from: round-monitoring-2026-05-01
+  source: Co-Founder & CEO True Anomaly ($650M Series D 2026-04-28)
+- name: Delphinus Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: led Decameal seed round (2026-05-01)
+- name: Rockstart
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: participant in Decameal seed round (2026-05-01)
+- name: Aller Aqua
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: round-monitoring-2026-05-01
+  source: strategic co-investor in Decameal seed round (2026-05-01)

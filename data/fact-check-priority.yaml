@@ -11,3 +11,15 @@ priority:
     type: firm
     reason: "led Sahi Series B (2026-04-29)"
     added: 2026-05-01
+  - slug: acme-capital
+    type: firm
+    reason: "participated in True Anomaly Series D (2026-04-28)"
+    added: 2026-05-01
+  - slug: paradigm
+    type: firm
+    reason: "participated in True Anomaly Series D (2026-04-28)"
+    added: 2026-05-01
+  - slug: menlo-ventures
+    type: firm
+    reason: "participated in True Anomaly Series D (2026-04-28)"
+    added: 2026-05-01

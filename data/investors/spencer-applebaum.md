@@ -16,7 +16,7 @@ social:
   twitter: "@SpencerApplebau"
   linkedin: "linkedin.com/in/spencer-applebaum-bb6466108"
 status: published
-last_researched: 2026-04-06
+last_researched: 2026-05-01
 ---
 
 ## Background
@@ -69,10 +69,10 @@ The following table includes investments where Spencer Applebaum has been specif
 |---------|------|-------|--------|
 | Solana | 2018-2019 | Seed, Series A | [^1] |
 | Helium | ~2019 | Early investment | [^1] |
-| Drift Protocol | 2021-2024 | Seed through Series B ($25M) | [^1] [^12] |
+| Drift Protocol | 2021-10-26, 2024-09-19 | Seed ($3.8M, led); Series B ($25M, led) | [^1] [^12] [^22] |
 | Render Network | ~2021 | Strategic | [^1] |
-| Sei | ~2022 | Early investment | [^1] |
-| Jito | ~2022 | Early investment | [^1] |
+| Sei | 2022-08-31 | Seed ($5M, led) | [^1] [^23] |
+| Jito | 2022-08-11 | Series A ($10M, co-led with Framework) | [^1] [^24] |
 | Kamino | ~2022 | Early investment | [^1] |
 | Dune | ~2022 | Investment | [^1] |
 | Fun (fun.xyz) | 2023, 2026 | Seed; Series A ($72M, co-led, May 2026) | [^1] [^21] |
@@ -133,3 +133,6 @@ The Multicoin partner announcement in March 2023 noted that "teams consistently 
 [^19]: Multicoin Capital, "The DeFi Stack," November 24, 2020. https://multicoin.capital/2020/11/24/the-defi-stack/
 [^20]: Multicoin Capital, "Discussions from the 2023 Multicoin Summit," October 6, 2023. https://multicoin.capital/2023/10/06/discussions-from-the-2023-multicoin-summit/
 [^21]: Fortune, "Exclusive: Startup Fun raises $72 million for the serious business of converting crypto and cash," May 1, 2026, accessed May 2026. https://fortune.com/2026/05/01/fun-series-a-fundraise-multicoin-capital-signalfire/
+[^22]: Drift Protocol Medium blog, "Drift Labs Raises $3.8 Million in Seed Round," October 26, 2021, accessed May 2026. https://driftprotocol.medium.com/drift-labs-raises-3-8-million-in-seed-round-8c4ed64f2080
+[^23]: GlobeNewswire, "Update: Sei Raises $5M Led by Multicoin Capital to Build the First Layer 1 Blockchain Optimized for DeFi," August 31, 2022, accessed May 2026. https://www.globenewswire.com/en/news-release/2022/08/31/2507547/0/en/Update-Sei-Raises-5M-Led-by-Multicoin-Capital-to-Build-the-First-Layer-1-Blockchain-Optimized-for-DeFi.html
+[^24]: Chainwire, "Jito Labs Raises $10M from Multicoin Capital and Framework Ventures to Build Performant MEV Infrastructure For Solana," August 11, 2022, accessed May 2026. https://chainwire.org/2022/08/11/jito-labs-raises-10m-from-multicoin-capital-and-framework-ventures-to-build-performant-mev-infrastructure-for-solana/

@@ -101,7 +101,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Cue Health | Series C+ | 2020 | Diagnostics / Health | IPO (NASDAQ: HLTH, 2021) [^14] |
 | DraftKings | Early Stage | ~2015 | Gaming / Sports | IPO (NASDAQ: DKNG) [^5] |
 | Braintrust | Early Stage | ~2020 | Enterprise / Web3 | Public (BTRST) [^15] |
-| True Anomaly | Series C | ~2022 | Aerospace & Defense | Active [^10] |
+| True Anomaly | Series D | 2026-04-28 | Aerospace & Defense | Active [^10][^22] |
 | Muon Space | Series B | 2024 | Aerospace / Satellites | Active [^16] |
 | Conceivable | Series A | 2025 | Digital Health / IVF | Active [^17] |
 | Canopy | Early Stage | 2025 | Healthcare Safety | Active [^17] |
@@ -191,3 +191,5 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^20]: Fortune, "Venture capital is in for a 'world of hurt,' says investor," April 2023, accessed March 2026. https://fortune.com/2023/04/26/venture-capital-digital-healthcare-world-of-hurt-aike-ho-acme-fortune-brainstorm-health/
 
 [^21]: The Next Web, "Norwegian defence startup Stendr raises $5.4M," April 2026. https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence
+
+[^22]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale

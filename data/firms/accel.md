@@ -2,7 +2,7 @@
 founded: 1983
 fund_size: $9.6B current fund size; $19.56B total raised across all funds; $4B growth
   fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)
-last_researched: 2026-03-20
+last_researched: 2026-05-01
 location: Palo Alto, CA
 name: Accel
 sector_focus:
@@ -199,6 +199,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Perplexity | Growth | 2024 | AI | [^9] |
 | Anysphere (Cursor) | Early | 2024 | AI/Developer Tools | [^9] |
 | Lovable | Series A ($200M, led, $1.8B valuation) | 2025-07-17 | AI / App Builder | [^9][^38][^39][^40] |
+| True Anomaly | Series D ($650M) | 2026-04-28 | Space/Defense | [^9][^44] |
 | True Anomaly | Series C | 2025 | Space/Defense | [^9] |
 | Anthropic | Growth | 2024 | AI | [^9] |
 | Nebius Group | Growth | 2024 | AI Infrastructure | [^9] |
@@ -214,6 +215,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
 | Legora | Series D (led) | 2026 | AI/Legal Tech | [^16] |
 | Oolka | Series A (led, ₹130 Cr) | 2026 | Fintech/AI/India | [^37] |
+| Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -278,3 +280,11 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^39]: TechCrunch, "Lovable becomes a unicorn with $200M Series A just 8 months after launch," July 17, 2025. https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/ — Confirms $200M Series A at $1.8B valuation, Stockholm-based, Accel-led.
 
 [^40]: Accel, "Accel's $200M Series A in Lovable: Enabling the Last 99%," July 17, 2025. https://www.accel.com/noteworthies/accels-200m-series-a-in-lovable---enabling-the-last-99 — Accel's announcement of the round.
+
+[^41]: Inc42, "Dale Vaz's Sahi Raises $33 Mn To Expand Trading Suite," April 29, 2026, accessed May 2026. https://inc42.com/buzz/sahi-raises-33-mn-from-accel-elevation-to-expand-into-wealthtech-segment/
+
+[^42]: DealStreetAsia, "India: Stockbroking platform Sahi raises $33m Series B from Accel, others," April 30, 2026, accessed May 2026. https://www.dealstreetasia.com/stories/sahi-accel-480937
+
+[^43]: Outlook Business, "Sahi Raises $33 Mn in Series B Led by Accel, Eyes AI-Led Growth," April 2026, accessed May 2026. https://www.outlookbusiness.com/corporate/sahi-series-b-funding-33mn-accel-ai-trading-platform
+
+[^44]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale
