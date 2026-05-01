@@ -17778,7 +17778,7 @@ queue:
 - name: Marc Michel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Runway Venture Partners
   discovered_from: david-hirsch
@@ -17841,7 +17841,7 @@ queue:
 - name: Amit Gupta
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: InMobi / Yulu
   discovered_from: naveen-tewari
@@ -19521,3 +19521,205 @@ queue:
   firm: Parallel Web Systems
   discovered_from: round-monitoring-2026-04-30
   source: founder of Parallel Web Systems; former Twitter CEO
+- name: RK Misra
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Yulu
+  discovered_from: amit-gupta
+  source: Yulu co-founder alongside Amit Gupta and Naveen Dachuri (2017)
+- name: Naveen Dachuri
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Yulu
+  discovered_from: amit-gupta
+  source: Yulu co-founder alongside Amit Gupta and RK Misra (2017)
+- name: Anuj Tewari
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Yulu
+  discovered_from: amit-gupta
+  source: Yulu CFO elevated to co-founder Nov 2023
+- name: HealthifyMe
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-gupta
+  source: Amit Gupta angel investment; Bengaluru digital health unicorn; June 2015
+    angel round including Gopal Srinivasan, Sashi Reddi
+- name: Vahak
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-gupta
+  source: Amit Gupta angel investment; June 2020 seed led by Leo Capital with angels
+    Abhishek Goyal, Ramakant Sharma, Harsh Pokharna
+- name: Yuma Energy
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Yuma Energy
+  discovered_from: amit-gupta
+  source: Yulu/Magna battery-as-a-service JV; Amit Gupta serves as independent board
+    member
+- name: Magna International
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Magna International
+  discovered_from: amit-gupta
+  source: Lead investor in Yulu's $82M Series B (Sep 2022); Yuma Energy JV partner
+- name: Bajaj Auto
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bajaj Auto
+  discovered_from: amit-gupta
+  source: Lead investor in Yulu Series A ($8M Nov 2019), Series B participant (Sep
+    2022); strategic manufacturing partner
+- name: Anna Garcia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Runway Venture Partners
+  discovered_from: marc-michel
+  source: Co-founding Partner of Runway Venture Partners with Marc Michel (2016);
+    leads NYC post-PMF SaaS investments
+- name: Logiwa
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway Series A participant 2021-04-15; Valor Siren Ventures led $8.5M;
+    cloud warehouse mgmt for DTC fulfillment
+- name: Daupler
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway co-investor on $4M round July 2021; Burnt Island Ventures led; KC-based
+    first response software for utilities
+- name: Ecobot
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway co-investor on $2.81M round Jan 2022; Cultivation Capital led; pre-construction
+    environmental permitting SaaS
+- name: MarketMuse
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway seed investor (Jan 2018); AI content optimization SaaS; acquired
+    by Siteimprove Oct 2024
+- name: YayPay
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway investor; AR automation fintech acquired by Quadient July 2020 for
+    ~€17M
+- name: Skopenow
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway-led seed Oct 2018 ($2.5M); fraud detection search engine for insurance
+    industry
+- name: Noteworth
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway seed co-investor July 2020 ($5M); Laconia Capital led; Hoboken digital
+    health platform
+- name: CauseMatch
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway latest disclosed investment Feb 2023; peer-to-peer fundraising platform
+    for nonprofits
+- name: Tap Commerce
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Metamorphic seed investment by Marc Michel; mobile retargeting acquired
+    by Twitter 2014 for ~$100M
+- name: Movable Ink
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Metamorphic seed investment by Marc Michel; email/marketing personalization
+    platform
+- name: Appboy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: 'Metamorphic seed investment by Marc Michel; mobile customer engagement
+    platform now known as Braze (NASDAQ: BRZE)'
+- name: Sailthru
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Metamorphic seed investment by Marc Michel; email/personalization marketing
+    tech
+- name: Chango
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Metamorphic seed investment by Marc Michel; programmatic adtech acquired
+    by Rubicon Project for ~$122M
+- name: Transactis
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Metamorphic seed investment by Marc Michel; B2B payments / e-billing
+- name: Trendalytics
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway portfolio company; consumer analytics platform acquired by HatchBeauty
+    2021
+- name: Viyet
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-michel
+  source: Runway portfolio company; pre-owned designer furniture marketplace acquired
+    by Sotheby's Feb 2018, became Sotheby's Home

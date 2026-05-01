@@ -1,26 +1,33 @@
 ---
-name: "Blomma"
-slug: blomma
-type: startup
-website: "https://blomma.ai"
-location: "United States"
-status_company: active
-sector: [ai, consumer, productivity, career-development]
-stage_latest: "Seed"
-total_raised: "$5M"
-investors:
-  - slug: aydin-senkut
-    round: seed
-    year: 2026
-    date: 2026-04-29
-firms: []
+firms:
+- round: '2026-04-29'
+  slug: felicis
+  year: 2026
 founders:
-  - name: "Silvia Oviedo López"
-    role: "CEO & Co-Founder"
-  - name: "Siddhartha Dabral"
-    role: "CTO & Co-Founder"
-status: published
+- name: Silvia Oviedo López
+  role: CEO & Co-Founder
+- name: Siddhartha Dabral
+  role: CTO & Co-Founder
+investors:
+- date: 2026-04-29
+  round: seed
+  slug: aydin-senkut
+  year: 2026
 last_researched: 2026-04-30
+location: United States
+name: Blomma
+sector:
+- ai
+- consumer
+- productivity
+- career-development
+slug: blomma
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5M
+type: startup
+website: https://blomma.ai
 ---
 
 ## About
