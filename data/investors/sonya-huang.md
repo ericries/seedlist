@@ -103,7 +103,7 @@ Based on 18 verified investments in the portfolio table below, Huang's actual de
 | dbt Labs | 2021 | Series C | Data transformation infrastructure | Active | [^14] |
 | Hugging Face | 2022 | Series C | Open-source model hub | Active | [^17] |
 | Glean | 2022 | Series C | Enterprise AI search | Active | [^18] |
-| Harvey | 2023 | Series A | Legal AI | Active | [^19] |
+| Harvey | 2023-04-26 | Series A | Legal AI | Active | [^19] |
 | LangChain | 2024 | Series A | AI dev framework / agents | Active | [^9] |
 | Fireworks AI | 2024 | Series B | AI inference optimization | Active | [^10] |
 | Harvey | 2025 | Series D | Legal AI | Active | [^20] |

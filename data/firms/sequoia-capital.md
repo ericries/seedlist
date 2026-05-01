@@ -213,7 +213,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | FTX | Series B | 2021 | Crypto / Exchange | Bankrupt (2022) [^15][^16] |
 | OpenAI | Tender (~$300M co-investment) | 2023-04-28 | AI | Private [^20][^22][^39] |
 | xAI | Series B | 2024-05-26 | AI | Private [^20][^40] |
-| Harvey | Series A | ~2023 | AI / Legal | Private [^21] |
+| Harvey | Series A (led) | 2023-04-26 | AI / Legal | Private [^21][^44][^45] |
 | Clay | Series A (lead) | 2023 | AI / Sales | Private [^13][^41] |
 | Sierra | Seed (co-led with Benchmark) | 2024-02-13 | AI / Customer Service | Private [^13][^42] |
 | Anthropic | Growth | 2026 | AI | Private [^20] |
@@ -381,3 +381,7 @@ The following table includes Sequoia Capital investments verified through the fi
 [^42]: Fortune, "Exclusive: Ex-Salesforce Co-CEO Bret Taylor launches AI startup Sierra," February 13, 2024. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/ — Sierra emerged from stealth February 13, 2024 with $110M from Sequoia, Benchmark and others.
 
 [^43]: PR Newswire, "Parallel Raises at $2 Billion Valuation to Scale Web Infrastructure for Agents," April 29, 2026. https://www.prnewswire.com/news-releases/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents-302756350.html — $100M Series B led by Sequoia Capital at $2B valuation; Andrew Reed joined the board. Existing investors Kleiner Perkins, Index Ventures, Khosla Ventures, First Round Capital, Spark Capital, Terrain Capital, and Abstract Ventures participated. Cross-referenced with TechCrunch, "Parallel Web Systems hits $2B valuation five months after its last big raise," April 29, 2026. https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/
+
+[^44]: Sequoia Capital, "Partnering with Harvey: Putting LLMs to Work," April 26, 2023. https://sequoiacap.com/article/partnering-with-harvey-putting-llms-to-work/ — Sequoia confirms it led Harvey's Series A on April 26, 2023.
+
+[^45]: Harvey blog, "Sequoia and OpenAI Back Harvey to Redefine Professional Services, Starting with Legal," April 26, 2023. https://www.harvey.ai/blog/sequoia-and-openai-back-harvey-to-redefine-professional-services-starting-with-le — $21M Series A led by Sequoia; OpenAI Startup Fund, Conviction, SV Angel, Elad Gil participated.

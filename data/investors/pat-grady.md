@@ -124,7 +124,7 @@ Grady is overwhelmingly a growth-stage investor. Of 27 verified investments: 24 
 | Notion | 2021 | Growth | [^28] |
 | OpenAI | 2021 | Growth | [^29] |
 | Hugging Face | 2022 | Growth | [^30] |
-| Harvey | 2023 | Series A | [^31] |
+| Harvey | 2023-04-26 | Series A (led) | [^31][^35] |
 | Grow Therapy | 2024 | Series C (Growth) | [^32] |
 | OpenEvidence | ~2024 | Growth | [^4] |
 
@@ -238,3 +238,5 @@ No independently sourced founder testimonials with direct quotes specifically ab
 [^32]: PR Newswire, "Grow Therapy Raises $88M Sequoia Capital-Led Series C," April 2024. https://www.prnewswire.com/news-releases/grow-therapy-raises-88m-sequoia-capital-led-series-c-to-advance-effective-mental-healthcare-302110579.html
 [^33]: The Twenty Minute VC, "20VC: Sequoia's Pat Grady on What Sequoia Is Focused On Today," accessed March 2026. https://www.thetwentyminutevc.com/patgrady2
 [^34]: Sequoia Capital, "Brian Halligan," accessed March 2026. https://sequoiacap.com/people/brian-halligan/
+
+[^35]: Sequoia Capital, "Partnering with Harvey: Putting LLMs to Work," April 26, 2023. https://sequoiacap.com/article/partnering-with-harvey-putting-llms-to-work/ — Confirms April 26, 2023 announcement of Harvey Series A; Pat Grady and Charlie Curnin co-authored the partnership announcement.

@@ -217,7 +217,7 @@ The following table includes a16z investments verified through the firm's own po
 | Brex | Growth | 2022 | Fintech | Private [^10] |
 | Notion | Growth | 2020 | Enterprise SaaS | Private [^10] |
 | Faire | Growth | 2022 | Marketplace | Private [^10] |
-| Harvey | Series A | 2023 | AI / Legal | Private [^10] |
+| Harvey | Series F (led) | 2025-12-04 | AI / Legal | Private [^10][^34][^35] |
 | Cursor | Growth | 2025 | AI / Developer Tools | Private [^10] |
 | ElevenLabs | Growth | 2024 | AI / Voice | Private [^10] |
 | Safe Superintelligence (SSI) | Seed | 2024 | AI | Private [^10] |
@@ -386,3 +386,7 @@ The following table includes a16z investments verified through the firm's own po
 [^32]: Tech Funding News, "a16z co-leads Segura's $8M round to use WhatsApp for insurance distribution," April 27, 2026. https://techfundingnews.com/andreessen-horowitz-co-leads-seguras-8m-round-to-use-whatsapp-for-insurance-distribution/
 
 [^33]: TechCrunch, "Figma raises $50 million Series D led by Andreessen Horowitz," April 30, 2020. https://techcrunch.com/2020/04/30/figma-raises-50-million-series-d-led-by-andreessen-horowitz/ — a16z's first Figma investment was the April 30, 2020 $50M Series D, led by Peter Levine.
+
+[^34]: Harvey blog, "Andreessen Horowitz Leads $160M Investment in Harvey," December 4, 2025. https://www.harvey.ai/blog/andreessen-horowitz-leads-dollar160m-investment-in-harvey — Confirms a16z's first Harvey investment was the Series F at an $8B valuation; co-investors included WndrCo, T. Rowe Price, Sequoia, Kleiner Perkins, Conviction, and Elad Gil.
+
+[^35]: TechCrunch, "Legal AI startup Harvey confirms $8B valuation," December 4, 2025. https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation/ — Series F led by a16z at $8B valuation.

@@ -198,7 +198,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Scale AI | Early | 2017 | AI/Data | [^12] |
 | Perplexity | Growth | 2024 | AI | [^9] |
 | Anysphere (Cursor) | Early | 2024 | AI/Developer Tools | [^9] |
-| Lovable | Series A | 2025 | AI | [^9] |
+| Lovable | Series A ($200M, led, $1.8B valuation) | 2025-07-17 | AI / App Builder | [^9][^38][^39][^40] |
 | True Anomaly | Series C | 2025 | Space/Defense | [^9] |
 | Anthropic | Growth | 2024 | AI | [^9] |
 | Nebius Group | Growth | 2024 | AI Infrastructure | [^9] |
@@ -272,3 +272,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^35]: TechCrunch, "Supercell Raises $12M From Accel Partners To Power Social Web Games," May 26, 2011. Kevin Comolli led; London Venture Partners also participated. https://techcrunch.com/2011/05/26/supercell-raises-12m-from-accel-partners-to-power-social-web-games/
 [^36]: Accel portfolio page for Supercell, "Initial Investment: Series A in 2011" (partner: Kevin Comolli), accessed March 2026. https://www.accel.com/relationships/supercell
 [^37]: YourStory, "Oolka raises Rs 130 Cr in Series A funding round led by Accel," April 24, 2026. https://yourstory.com/2026/04/oolka-raises-rs-130-cr-in-series-a-funding-round-led-by-accel
+
+[^38]: Lovable blog, "Lovable Raises $200M, Valued at $1.8B, Just Eight Months After Launch," July 17, 2025. https://lovable.dev/blog/200m-series-a-fundraise — Series A led by Accel at $1.8B valuation; co-investors 20VC, byFounders, Creandum, Hummingbird, Visionaries Club.
+
+[^39]: TechCrunch, "Lovable becomes a unicorn with $200M Series A just 8 months after launch," July 17, 2025. https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/ — Confirms $200M Series A at $1.8B valuation, Stockholm-based, Accel-led.
+
+[^40]: Accel, "Accel's $200M Series A in Lovable: Enabling the Last 99%," July 17, 2025. https://www.accel.com/noteworthies/accels-200m-series-a-in-lovable---enabling-the-last-99 — Accel's announcement of the round.

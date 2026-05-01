@@ -42,9 +42,10 @@ firms:
 - round: Early stage
   slug: independent
   year: 2023
-- round: '2023'
+- round: series-a
   slug: conviction
   year: 2023
+  date: 2023-12-11
 - round: Early stage
   slug: gil-capital
   year: 2023
@@ -102,9 +103,9 @@ Mistral AI is a Paris-based foundation model company founded in April 2023 by Ar
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| Jun 2023 | Seed | $113M (€105M) | Lightspeed Venture Partners | Redpoint, Index Ventures, Eric Schmidt, Xavier Niel, JCDecaux, Bpifrance, First Minute Capital, LocalGlobe, Exor Ventures [^1] |
-| Dec 2023 | Series A | $415M (€385M) | Andreessen Horowitz | BNP Paribas, Salesforce [^3] |
-| Jun 2024 | Series B | $640M (€600M) | General Catalyst | Lightspeed, Andreessen Horowitz, Nvidia, Samsung, Salesforce Ventures, BNP Paribas, Bpifrance, Cisco, IBM, SV Angel [^4] |
+| 2023-06-13 | Seed | €105M ($113M, $260M post-money) | Lightspeed Venture Partners | Redpoint, Index Ventures, Eric Schmidt, Xavier Niel, JCDecaux, Bpifrance, First Minute Capital, LocalGlobe, Exor Ventures [^1] |
+| 2023-12-11 | Series A | €385M ($415M, ~$2B post-money) | Andreessen Horowitz | Lightspeed, Salesforce, BNP Paribas, CMA-CGM, General Catalyst, Conviction, Elad Gil [^3] |
+| 2024-06-11 | Series B | €600M ($640M, $6B post-money) | General Catalyst | Lightspeed, Andreessen Horowitz, Nvidia, Samsung, Salesforce Ventures, BNP Paribas, Bpifrance, Cisco, IBM, SV Angel [^4] |
 | Sep 2025 | Series C | $2B (€1.7B) | ASML | DST Global, Andreessen Horowitz, Bpifrance, General Catalyst, Index Ventures, Lightspeed, Nvidia [^2] |
 
 ## What Investors Say

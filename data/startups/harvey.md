@@ -158,12 +158,12 @@ Harvey is an AI platform for legal professionals, offering tools for document an
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
 | Nov 2022 | Seed | $5M | OpenAI Startup Fund | Elad Gil, Sarah Guo (Conviction), Jeff Dean [^2] |
-| Apr 2023 | Series A | $21M | Sequoia Capital | OpenAI Startup Fund, Conviction, SV Angel, Elad Gil [^2] |
+| 2023-04-26 | Series A | $21M | Sequoia Capital | OpenAI Startup Fund, Conviction, SV Angel, Elad Gil [^2][^8][^9] |
 | Dec 2023 | Series B | $80M | Elad Gil, Kleiner Perkins | OpenAI Startup Fund, Sequoia [^3] |
 | Jul 2024 | Series C | $100M | GV | OpenAI, Kleiner Perkins, Sequoia Capital, Elad Gil, SV Angel [^4] |
 | Feb 2025 | Series D | $300M | Sequoia | Kleiner Perkins, GV, Elad Gil, Conviction, OpenAI Startup Fund, Coatue, REV [^1] |
 | Jun 2025 | Series E | $300M | Kleiner Perkins, Coatue | Sequoia, GV, DST Global, Conviction, Elad Gil, OpenAI Startup Fund, SV Angel, REV [^6] |
-| Dec 2025 | Series F | $160M | Andreessen Horowitz | EQT, WndrCo, Sequoia, Kleiner Perkins, Conviction, Elad Gil [^5] |
+| 2025-12-04 | Series F | $160M ($8B valuation) | Andreessen Horowitz | EQT, WndrCo, T. Rowe Price, Sequoia, Kleiner Perkins, Conviction, Elad Gil [^5][^10][^11] |
 
 ## What Investors Say
 
@@ -186,3 +186,11 @@ Winston Weinberg on access to justice: "The average price of a lawyer in the Uni
 [^5]: TechFundingNews, "Legal AI unicorn Harvey closes $160M from Andreessen Horowitz at $8B valuation," December 5, 2025. https://techfundingnews.com/legal-ai-unicorn-harvey-closes-160m-from-andreessen-horowitz-at-8b-valuation/
 [^6]: Harvey blog, "Harvey Raises $300M Series E Co-led by Kleiner Perkins and Coatue," June 23, 2025. https://www.harvey.ai/blog/harvey-raises-series-e
 [^7]: Sequoia Capital, "Training Data podcast: Winston Weinberg," accessed March 2026. https://sequoiacap.com/podcast/training-data-winston-weinberg/
+
+[^8]: Sequoia Capital, "Partnering with Harvey: Putting LLMs to Work," April 26, 2023. https://sequoiacap.com/article/partnering-with-harvey-putting-llms-to-work/ — Sequoia's announcement of leading Harvey's Series A.
+
+[^9]: LawNext, "Harvey AI Raises $21M In A Series A Round Led By Sequoia," April 27, 2023. https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html — Confirms April 26, 2023 announcement, $21M, Sequoia-led.
+
+[^10]: Harvey blog, "Andreessen Horowitz Leads $160M Investment in Harvey," December 4, 2025. https://www.harvey.ai/blog/andreessen-horowitz-leads-dollar160m-investment-in-harvey — Series F at $8B valuation; new investors WndrCo and T. Rowe Price; returning investors Sequoia, Kleiner Perkins, Conviction, Elad Gil.
+
+[^11]: TechCrunch, "Legal AI startup Harvey confirms $8B valuation," December 4, 2025. https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation/ — Confirms Series F led by Andreessen Horowitz at $8B valuation.

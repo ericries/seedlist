@@ -100,7 +100,7 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Harvey | Seed | 2022 | AI / Legal Tech | Active ($3B valuation) | [^2] |
-| Mistral AI | Seed | 2023 | AI / Open-source LLMs | Active ($6B valuation) | [^2] |
+| Mistral AI | Series A | 2023-12-11 | AI / Open-source LLMs | Active ($14B valuation) | [^2][^10] |
 | Sierra | Early | 2023 | AI / Conversational AI | Active ($4.5B valuation) | [^2] |
 | Baseten | Seed | ~2022 | AI / Inference infrastructure | Active ($825M valuation) | [^2] |
 | Cognition | Early | ~2023 | AI / Software engineering | Active | [^8] |
@@ -156,3 +156,5 @@ No independently sourced founder testimonials found. Guo's personal website refe
 [^7]: TechCrunch, "Guo's Conviction Partners adds Mike Vernal as GP, raises $230M fund," January 31, 2025. https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/
 [^8]: Conviction Partners website, accessed March 2026. https://www.conviction.com/
 [^9]: Cognitive Revolution podcast, "VC Insights on Investing in Artificial Intelligence with Sarah Guo and Elad Gil of No Priors," accessed March 2026. https://www.cognitiverevolution.ai/vc-insights-on-investing-in-artificial-intelligence-with-sarah-guo-and-elad-gil-of-no-priors/
+
+[^10]: TechCrunch, "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round," December 11, 2023. https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/ — Lists Conviction as a participating investor in Mistral's December 11, 2023 €385M Series A led by Andreessen Horowitz at ~$2B valuation.

@@ -74,7 +74,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Harvey | Seed | 2022 | Legal AI | Active (unicorn, $11B) | [^2][^7][^8] |
-| Mistral | Early | ~2023 | AI Models | Active (unicorn, $6B) | [^2] |
+| Mistral | Series A | 2023-12-11 | AI Models | Active (unicorn, $14B) | [^2][^9] |
 | Baseten | Early | ~2022 | AI Infrastructure | Active ($825M) | [^2] |
 | Sierra | Early | ~2023 | Conversational AI | Active (unicorn, $4.5B) | [^2] |
 | Cognition | Early | ~2023 | AI Coding | Active | [^3] |
@@ -118,3 +118,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^6]: Weekly Minds, "Sarah Guo: The AI Visionary Reshaping Venture Capital," accessed March 2026. https://weeklyminds.com/sarah-guo/
 [^7]: Harvey blog, "Sequoia and OpenAI Back Harvey to Redefine Professional Services, Starting with Legal," April 2023, accessed March 2026. https://www.harvey.ai/blog/sequoia-and-openai-back-harvey-to-redefine-professional-services-starting-with-le
 [^8]: CNBC, "Legal AI startup Harvey raises $200 million at $11 billion valuation," March 25, 2026, accessed March 2026. https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html
+
+[^9]: TechCrunch, "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round," December 11, 2023. https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/ — Confirms Conviction as a participant in Mistral's December 11, 2023 €385M Series A led by Andreessen Horowitz at ~$2B valuation.
