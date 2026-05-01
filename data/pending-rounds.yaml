@@ -198,6 +198,23 @@ pending_rounds:
   status: skipped
   skip_reason: Relentless is a $80M debut seed FUND by Damir Becirovic (ex-Index Ventures),
     not a startup round
+- title: 'The Week’s 10 Biggest Funding Rounds: Defense Tech Leads With Multiple Large
+    Deals, Topped By $600M For Space Security Startup True Anomaly'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-defense-aerospace-ai-fintech/
+  source: crunchbase
+  date_found: '2026-05-01'
+  parsed_company: null
+  parsed_amount: $600M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/1/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-1-2026/
+  source: alleywatch
+  date_found: '2026-05-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
   url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
   source: eu-startups
@@ -1014,25 +1031,3 @@ pending_rounds:
   skip_reason: Series B pre-closing only ($5M of $20M target), not a completed round;
     named investors not yet disclosed — wait for full close per CLAUDE.md "wait for
     official announcement"
-- title: India’s Snabbit seeks fresh funding at a $400M valuation, sources say
-  url: https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/
-  source: techcrunch
-  date_found: '2026-04-25'
-  parsed_company: null
-  parsed_amount: $400M
-  parsed_round: null
-  status: skipped
-  skip_reason: rumored round (title says "seeks" / "sources say"); not announced yet
-    — wait for official announcement per CLAUDE.md
-- title: Afresh raised $34M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-24'
-  parsed_company: Afresh
-  parsed_amount: $34M
-  parsed_round: null
-  status: processed
-  notes: created startup profile afresh.md; $34M growth round on 2026-04-21 co-led
-    by Just Climate (Generation Investment Management) and High Sage Ventures; San
-    Francisco grocery AI, founded 2017; prior $115M Series B (2022) led by Spark Capital
-    with Insight Partners added to firms frontmatter
