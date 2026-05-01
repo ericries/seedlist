@@ -2,7 +2,7 @@
 founded: 1972
 fund_size: $56B AUM (January 2025); $19.6B evergreen fund (February 2025); $950M seed/venture
   funds (October 2025)
-last_researched: 2026-04-30
+last_researched: 2026-05-01
 location: Menlo Park, CA
 name: Sequoia Capital
 sector_focus:
@@ -225,6 +225,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Ineffable Intelligence | Seed (co-led) | 2026 | AI / Foundation Models | Private [^30] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^34] |
 | Parallel Web Systems | Series B (led) | 2026-04-29 | AI / Web Infrastructure | Private [^43] |
+| Standard Intelligence | Series A (co-led with Spark) | 2026-04-30 | AI / Foundation Models | Private [^46][^47][^48] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -385,3 +386,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^44]: Sequoia Capital, "Partnering with Harvey: Putting LLMs to Work," April 26, 2023. https://sequoiacap.com/article/partnering-with-harvey-putting-llms-to-work/ — Sequoia confirms it led Harvey's Series A on April 26, 2023.
 
 [^45]: Harvey blog, "Sequoia and OpenAI Back Harvey to Redefine Professional Services, Starting with Legal," April 26, 2023. https://www.harvey.ai/blog/sequoia-and-openai-back-harvey-to-redefine-professional-services-starting-with-le — $21M Series A led by Sequoia; OpenAI Startup Fund, Conviction, SV Angel, Elad Gil participated.
+
+[^46]: SiliconANGLE, "Standard Intelligence raises $75M to develop efficient computer use models," April 30, 2026. https://siliconangle.com/2026/04/30/standard-intelligence-raises-75m-develop-efficient-computer-use-models/ — $75M Series A co-led by Sequoia Capital and Spark Capital.
+
+[^47]: Sequoia Capital, "Standard Intelligence: Training General Intelligence in Pixel Space," by Sonya Huang, April 30, 2026. https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/ — Sonya Huang led the investment for Sequoia, partnering with Miko Ashwill and Yasmin Razavi at Spark.
+
+[^48]: Pulse 2.0, "Standard Intelligence Raises $75 Million From Sequoia And Spark Capital To Scale AGI Research," April 30, 2026. https://pulse2.com/standard-intelligence-raises-75-million-from-sequoia-and-spark-capital-to-scale-agi-research/ — Confirms Andrej Karpathy, Stanley Druckenmiller, and Milan Kovac participated as angel investors.

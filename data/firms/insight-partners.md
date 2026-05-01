@@ -1,7 +1,7 @@
 ---
 founded: 1995
 fund_size: $90B+ AUM; Fund XIII at $12.5B
-last_researched: 2026-03-20
+last_researched: 2026-05-01
 location: New York, NY
 name: Insight Partners
 sector_focus:
@@ -129,6 +129,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Active | [^11] |
 | Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
 | Linx Security | Series B | 2026 | Cybersecurity / Identity | Active | [^13] |
+| Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -187,3 +188,4 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^29]: Insight Partners, "Hinge Health Raises $26 Million from Insight Venture Partners and Atomico," August 2018. https://www.insightpartners.com/ideas/hinge-health-raises-26-million-from-insight-venture-partners-and-atomico-to-help-employers-tackle-chronic-conditions/
 [^30]: Insight Partners, "Checkout.com Raises $230m in Record European Series A," May 2019. https://www.insightpartners.com/ideas/checkout-com-raises-230m-in-record-european-series-a/
 [^31]: Insight Partners, "Insight Venture Partners Makes Investment in Kaseya," June 2013. https://www.insightpartners.com/ideas/insight-venture-partners-makes-investment-in-kaseya/
+[^32]: BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV with participation from existing investors Insight Partners and Obvious Ventures. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research

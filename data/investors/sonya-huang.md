@@ -1,11 +1,11 @@
 ---
 check_size: $25M-$200M
 firm: sequoia-capital
-last_researched: 2026-03-16
+last_researched: 2026-05-01
 last_verified_investment:
-  company: Glean
-  date: 2026-01-27
-  round: Series D
+  company: Standard Intelligence
+  date: 2026-04-30
+  round: Series A
 location: San Francisco, CA
 name: Sonya Huang
 role: Partner
@@ -111,7 +111,8 @@ Based on 18 verified investments in the portfolio table below, Huang's actual de
 | LangChain | 2025 | Series B | AI dev framework / agents | Active | [^22] |
 | Nubank | ~2021 | Growth | Consumer fintech | IPO (2021) | [^1] |
 | Anthropic | ~2023 | Growth | Foundation models / safety | Active | [^23] |
-| Glean | 2026 | Series D | Enterprise AI search | Active | [^24] |
+| Glean | 2026-01-27 | Series D | Enterprise AI search | Active | [^24] |
+| Standard Intelligence | 2026-04-30 | Series A (co-led with Spark) | AI / Foundation Models | Active | [^25][^26] |
 | Glossier | ~2019-2021 | Growth | Consumer beauty | Active | [^1] |
 
 ## In Their Own Words
@@ -203,3 +204,7 @@ No independently sourced founder testimonials found. The Gong press release anno
 [^23]: SiliconANGLE, "OpenAI backer Sequoia Capital in talks to join Anthropic's proposed $25B megaround," January 18, 2026, accessed March 2026. https://siliconangle.com/2026/01/18/openai-backer-sequoia-capital-talks-join-anthropics-proposed-25b-mega-round/
 
 [^24]: Glean, "Glean raises over $200M at $2.2B valuation," January 27, 2026, accessed March 2026. https://www.glean.com/blog/glean-series-d
+
+[^25]: Sequoia Capital, "Standard Intelligence: Training General Intelligence in Pixel Space," by Sonya Huang, April 30, 2026, accessed May 2026. https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/ — Sonya Huang led Sequoia's investment in Standard Intelligence's $75M Series A, co-led with Spark Capital.
+
+[^26]: SiliconANGLE, "Standard Intelligence raises $75M to develop efficient computer use models," April 30, 2026, accessed May 2026. https://siliconangle.com/2026/04/30/standard-intelligence-raises-75m-develop-efficient-computer-use-models/

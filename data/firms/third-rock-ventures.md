@@ -54,7 +54,7 @@ team:
     role: Partner & COO
     slug: kevin-gillis
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-05-01
 ---
 
 ## About
@@ -98,7 +98,7 @@ Based on 73 verified portfolio companies from the firm's website [^1], Third Roc
 
 **Therapeutic area breakdown:** Among the ~55 therapeutics companies: oncology represents the largest focus area with approximately 18 of 55 (33%) including Agios, Blueprint Medicines, Jounce Therapeutics, Tango Therapeutics, CytomX, Neon Therapeutics, Flare Therapeutics, Faze Medicines, MOMA Therapeutics, Synnovation Therapeutics, and others. Neuroscience/CNS is the second-largest area with approximately 8 of 55 (15%) including Sage Therapeutics, Seaport Therapeutics, Syremis Therapeutics, Trace Neuroscience, Rapport Therapeutics, Decibel Therapeutics, and Afferent Pharmaceuticals. Rare/genetic disease represents approximately 8 of 55 (15%) including Global Blood Therapeutics, Rhythm Pharmaceuticals, Fulcrum Therapeutics, Allena Pharmaceuticals, and Edimer Pharmaceuticals. Immunology/autoimmune accounts for approximately 7 of 55 (13%) including Rheos Medicines, Abata Therapeutics, Merida Biosciences, Clasp Therapeutics, and Candid Therapeutics. Cardiovascular is approximately 4 of 55 (7%) including MyoKardia, Corvia Medical, and Element Science [^1].
 
-**Stage focus:** Third Rock operates almost exclusively at the company creation and Series A stage. The firm typically provides initial Series A financing when it launches a company, with check sizes ranging from $25M to $165M. Recent examples include Syremis Therapeutics ($165M Series A, 2025) [^13], Seaport Therapeutics ($100M Series A, 2024) [^14], Relay Therapeutics ($57M Series A, 2016) [^15], and Tango Therapeutics ($55M Series A) [^16]. The firm also provides follow-on capital for subsequent rounds [^5].
+**Stage focus:** Third Rock operates almost exclusively at the company creation and Series A stage. The firm typically provides initial Series A financing when it launches a company, with check sizes ranging from $25M to $165M. Recent examples include Syremis Therapeutics ($165M Series A, 2025) [^13], Seaport Therapeutics ($100M Series A, April 2024 — co-led with ARCH Venture Partners and Sofinnova Investments alongside founder PureTech Health; Seaport priced its Nasdaq IPO in April 2026, raising $254.9M) [^14][^53][^54], Relay Therapeutics ($57M Series A, 2016) [^15], and Tango Therapeutics ($55M Series A) [^16]. The firm also provides follow-on capital for subsequent rounds [^5].
 
 **Geographic concentration:** The vast majority of portfolio companies are based in the Boston/Cambridge, Massachusetts area, consistent with the firm's headquarters and the region's concentration of academic medical research institutions. A smaller number are based in the San Francisco Bay Area [^1] [^10].
 
@@ -117,7 +117,7 @@ The following table includes selected portfolio companies. This represents a sub
 | Syremis Therapeutics | Series A ($165M) | 2025 | Neuropsychiatry | Active | [^13] |
 | Azalea Therapeutics | Series A | 2025 | Oncology/Immunotherapy | Active | [^1] |
 | Candid Therapeutics | Series A | 2025 | Immunology | Active | [^1] |
-| Seaport Therapeutics | Series A ($100M) | 2024 | Neuropsychiatry | Active | [^14] |
+| Seaport Therapeutics | Series A ($100M) | 2024-04-09 | Neuropsychiatry | Public (IPO, Apr 2026) | [^14][^53][^54] |
 | Clasp Therapeutics | Series A ($150M) | 2024 | Immunology/Oncology | Active | [^21] |
 | Synnovation Therapeutics | Series A ($102M) | 2024 | Oncology | Active | [^22] |
 | ArtBio | Series A ($90M) | 2023 | Oncology/Radiopharmaceutical | Active | [^23] |
@@ -263,3 +263,5 @@ Note: The Bill Helman quote is from a fellow venture capitalist rather than a po
 [^50]: BusinessWire, "Third Rock Ventures Launches Ember Therapeutics to Address Critical Need for Novel Treatments for Metabolic Disease," December 2011. https://www.businesswire.com/news/home/20111215005181/en/Rock-Ventures-Launches-Ember-Therapeutics-Address-Critical
 [^51]: BusinessWire, "Lotus Tissue Repair, Inc. Secures $26 Million Series A Financing," June 2011. https://www.businesswire.com/news/home/20110630005087/en/Lotus-Tissue-Repair-Inc.-Secures-26-Million-Series-A-Financing-to-Develop-First-in-Class-Protein-Replacement-Therapy-for-Dystrophic-Epidermolysis-Bullosa
 [^52]: Fierce Biotech, "Constellation Pharmaceuticals Closes $32 Million in Series A Funding," 2008. https://www.fiercebiotech.com/biotech/constellation-pharmaceuticals-closes-32-million-series-a-funding
+[^53]: Bloomberg, "Seaport Therapeutics Said to Raise $255 Million in Upsized IPO," April 30, 2026. https://www.bloomberg.com/news/articles/2026-04-30/seaport-therapeutics-said-to-raise-255-million-in-upsized-ipo
+[^54]: Renaissance Capital, "Neuropsychiatric therapeutics Seaport Therapeutics prices upsized IPO at $18, the high end of the range," April 30, 2026. https://www.renaissancecapital.com/IPO-Center/News/118718/Neuropsychiatric-therapeutics-Seaport-Therapeutics-prices-upsized-IPO-at-$1

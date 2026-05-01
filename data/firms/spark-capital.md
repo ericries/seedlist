@@ -64,7 +64,7 @@ team:
     role: "Co-Founder & General Partner Emeritus"
     name: "Todd Dagres"
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-05-01
 tldr: "Multi-stage venture firm ($12B+ AUM) founded in Boston in 2005, now operating across SF, NYC, and Boston. Invests from pre-seed through growth via separate early-stage ($700M Fund VIII) and growth ($1.4B Growth V) vehicles. Portfolio includes landmark consumer internet investments (Twitter, Slack, Discord, Tumblr) with expanding AI and enterprise focus. Co-founded by Bijan Sabet."
 ---
 
@@ -123,7 +123,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Tumblr | Series A | 2007 | Consumer/Social | [^1] |
 | Snap | Series F | 2016 | Consumer/Social | [^9][^20] |
 | Ramp | Series C | 2021 | Fintech | [^9][^21] |
-| Mercury | Series C | 2025 | Fintech | [^9][^22] |
+| Mercury | Series C | 2025-03-26 | Fintech | [^9][^22] |
 | Trello | Series A | 2014 | Productivity | [^9][^23] |
 | Postmates | Series B | 2014 | Consumer/Delivery | [^9][^24] |
 | Niantic | Series B | 2017 | Gaming/AR | [^9][^25] |
@@ -135,16 +135,17 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Lightmatter | Series A | 2018 | AI/Hardware | [^9][^29] |
 | Baseten | Series B | 2022 | AI Infrastructure | [^9][^30] |
 | Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |
-| Crusoe | Growth | 2025 | AI Infrastructure | [^9] |
+| Crusoe | Series E | 2025-10 | AI Infrastructure | [^9][^39] |
 | Chainguard | Series B | 2023 | Cybersecurity | [^9][^32] |
 | The Bot Company | Series A | 2024 | AI/Robotics | [^10] |
 | Fireblocks | Series D | 2021 | Crypto/Fintech | [^9][^33] |
 | Framework | Series A | 2022 | Hardware | [^9][^34] |
-| Cyera | Series C | 2024 | Cybersecurity | [^9][^35] |
-| Headway | Series C | 2023 | Healthcare | [^9][^36] |
+| Cyera | Series C | 2024-04-09 | Cybersecurity | [^9][^35] |
+| Headway | Series C | 2023-10-05 | Healthcare | [^9][^36] |
 | Handshake | Series B | 2016 | Consumer/Jobs | [^9][^37] |
-| Granola | Series A | 2024 | AI/Productivity | [^9][^38] |
-| Shepherd | Series B | 2026 | Insurtech/AI | [^12] |
+| Granola | Series A | 2024-10-23 | AI/Productivity | [^9][^38] |
+| Shepherd | Series B | 2026-03-24 | Insurtech/AI | [^12] |
+| Standard Intelligence | Series A (co-led with Sequoia) | 2026-04-30 | AI / Foundation Models | [^40][^41][^42] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -201,4 +202,12 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^35]: Tracxn, "Cyera — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/cyera/__p8e5_i0CWICkrIIlFk4v-KW5_IdvKEquM9eXK85ET6g/funding-and-investors
 [^36]: Modern Healthcare, "Mental health startup Headway lands $125M from Spark Capital, others," October 2023. https://www.modernhealthcare.com/digital-health/mental-health-startups-headway-sparks-capital/
 [^37]: EdSurge, "Student Career Network Handshake Raises $20 Million in Series B Funding," November 2016. https://www.edsurge.com/news/2016-11-17-student-career-network-handshake-raises-20-million-in-series-b-funding
-[^38]: TechCrunch, "VCs love using the AI meeting notepad Granola, so they gave it $20M," October 2024. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/
+[^38]: TechCrunch, "VCs love using the AI meeting notepad Granola, so they gave it $20M," October 23, 2024. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/
+
+[^39]: Crusoe, "Crusoe announces Series E funding," October 2025. https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding — $1.375B Series E co-led by Valor Equity Partners and Mubadala Capital with participation from Spark Capital among 29+ investors at $10B+ valuation.
+
+[^40]: SiliconANGLE, "Standard Intelligence raises $75M to develop efficient computer use models," April 30, 2026. https://siliconangle.com/2026/04/30/standard-intelligence-raises-75m-develop-efficient-computer-use-models/ — $75M Series A co-led by Sequoia Capital and Spark Capital.
+
+[^41]: Sequoia Capital, "Standard Intelligence: Training General Intelligence in Pixel Space," by Sonya Huang, April 30, 2026. https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/ — Confirms Spark Capital partners Mikowai Ashwill and Yasmin Razavi co-led the round with Sequoia's Sonya Huang.
+
+[^42]: Pulse 2.0, "Standard Intelligence Raises $75 Million From Sequoia And Spark Capital To Scale AGI Research," April 30, 2026. https://pulse2.com/standard-intelligence-raises-75-million-from-sequoia-and-spark-capital-to-scale-agi-research/ — Angel investors include Andrej Karpathy, Stanley Druckenmiller, and Milan Kovac.

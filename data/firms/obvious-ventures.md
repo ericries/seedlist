@@ -2,7 +2,7 @@
 founded: 2014
 fund_size: '$1B+ AUM across five funds (OV1: $123M, OV2: $192M, OV3: $272M, OV4: $355M,
   OV5: $360M)'
-last_researched: 2026-03-20
+last_researched: 2026-05-01
 location: San Francisco, CA
 name: Obvious Ventures
 sector_focus:
@@ -132,6 +132,7 @@ The distribution is relatively balanced across the three pillars, with a slight 
 | Aifleet | Seed | 2020 | Planetary Health / Logistics | Active | [^1] |
 | Bakpax | Seed | 2017 | Economic Health / EdTech | Acquired | [^1] |
 | All In Food | Seed | 2025 | Human Health / Food | Active | [^1] |
+| Iterative Health | Series C | 2026-04-30 | Human Health / Clinical Trials AI | Active | [^14] |
 
 *This table represents 35 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
 
@@ -162,3 +163,4 @@ No independently sourced founder testimonials were found during this research pa
 [^11]: BusinessWire, "Recursion Pharmaceuticals Raises $13M to Discover New Drugs Using Artificial Intelligence," October 3, 2016, accessed April 2026. https://www.businesswire.com/news/home/20161003005212/en/Recursion-Pharmaceuticals-Raises-13M-Discover-New-Drugs
 [^12]: Tracxn, "Gusto - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/gusto/__r39qcho5DsYzXK9T9DN30891FFAcpuYHRjgMN3eqRlo/funding-and-investors
 [^13]: Tracxn, "Devoted Health - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/devoted-health/__nmiBadft21nnUP-nWEEAloTvR_grXaYBipctTJsUys4/funding-and-investors
+[^14]: BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV with participation from existing investors including Obvious Ventures. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research

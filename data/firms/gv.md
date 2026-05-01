@@ -58,7 +58,7 @@ team:
     role: "General Partner"
     name: "Vidu Shanmugarajah"
 status: published
-last_researched: 2026-03-19
+last_researched: 2026-05-01
 ---
 
 ## About
@@ -122,6 +122,7 @@ Based on GV's verified portfolio and public data:
 | Cockroach Labs | Early | ~2017 | Data Infrastructure | Private [^2] |
 | Wealth.com | Series B | 2026 | Fintech / Wealthtech | Private [^6] |
 | nEye.ai | Series C | 2026 | AI / Data Center | Private [^7] |
+| Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Private [^8] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -148,3 +149,4 @@ No independently sourced founder testimonials found.
 [^5]: Crunchbase News, "GV Bets Big On 'AI Magic' — Even When It Competes With Alphabet," 2024. https://news.crunchbase.com/ai/venture-goog-munichiello-hulme-gv/
 [^6]: Fintech Global, "Wealth.com raises $65m Series B for AI wealth planning," April 16, 2026. https://fintech.global/2026/04/16/wealth-com-raises-65m-series-b-for-ai-wealth-planning/
 [^7]: BusinessWire, "nEye.ai Secures $80 Million Series C to Scale Optical Circuit Switching for AI Infrastructure," April 14, 2026. https://www.businesswire.com/news/home/20260414407496/en/nEye.ai-Secures-$80-Million-Series-C-to-Scale-Optical-Circuit-Switching-for-AI-Infrastructure
+[^8]: BusinessWire / BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV; GV's Anthony Philippakis joined as board observer. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research

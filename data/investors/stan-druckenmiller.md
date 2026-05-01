@@ -18,14 +18,14 @@ sector_focus:
   - energy
 check_size: "$50M-$500M+ (public equities); venture check sizes undisclosed"
 last_verified_investment:
-  date: 2025-06-26
-  company: "Commonwealth Fusion Systems"
-  round: "Series B2"
+  date: 2026-04-30
+  company: "Standard Intelligence"
+  round: "Series A"
 social:
   twitter: ~
   linkedin: ~
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-05-01
 ---
 
 ## Background
@@ -68,7 +68,7 @@ The top 10 holdings represent 76.71% of the portfolio, consistent with Druckenmi
 Druckenmiller is known for extremely high portfolio turnover. In Q4 2025 alone, the portfolio had 26 new positions, 13 increases, 16 decreases, and 30 complete exits [^8]. He fully exited Meta Platforms, Bank of America, and Citigroup while initiating new positions in Goldman Sachs, Alcoa, Delta Air Lines, and American Airlines [^8].
 
 ### Venture / Private Investments
-Beyond public markets, Druckenmiller has made approximately 15 venture investments including Commonwealth Fusion Systems (fusion energy, Series B2, June 2025) and Reflexivity (AI-driven financial analysis, Series B, October 2024) [^10][^11][^12].
+Beyond public markets, Druckenmiller has made approximately 15 venture investments including Standard Intelligence (AI / foundation models, Series A, April 2026), Commonwealth Fusion Systems (fusion energy, Series B2, August 2025), and Reflexivity (AI-driven financial analysis, Series B, October 2024) [^10][^11][^12][^14][^15].
 
 ### Notable Patterns
 - Heavy rotation suggests a macro-driven, momentum-based approach rather than long-term buy-and-hold
@@ -107,8 +107,9 @@ Beyond public markets, Druckenmiller has made approximately 15 venture investmen
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Reflexivity (Toggle AI) | Series B | 2024 | AI / Financial Analysis | Active | [^11][^12] |
-| Commonwealth Fusion Systems | Series B2 | 2025 | Fusion Energy | Active | [^10] |
+| Reflexivity (Toggle AI) | Series B | 2024-10-28 | AI / Financial Analysis | Active | [^11][^12] |
+| Commonwealth Fusion Systems | Series B2 | 2025-08-28 | Fusion Energy | Active | [^10] |
+| Standard Intelligence | Series A (angel) | 2026-04-30 | AI / Foundation Models | Active | [^14][^15] |
 
 *Note: Druckenmiller has made approximately 15 venture investments per PitchBook, but most are not publicly disclosed. The public equity portfolio changes significantly quarter to quarter due to his macro-driven trading approach.*
 
@@ -143,7 +144,9 @@ No independently sourced founder testimonials found about Stanley Druckenmiller 
 [^7]: "Stanley Druckenmiller: Why I'm Bullish and Cautious on AI Investment," The Acquirer's Multiple, November 2024. https://acquirersmultiple.com/2024/11/stanley-druckenmiller-why-im-bullish-and-cautious-on-ai-investment/
 [^8]: "Duquesne Family Office Portfolio," HedgeFollow, accessed March 2026. https://hedgefollow.com/funds/Duquesne+Family+Office
 [^9]: "$4B Stanley Druckenmiller Portfolio / Duquesne Family Office LLC," StockCircle, accessed March 2026. https://stockcircle.com/portfolio/stanley-druckenmiller
-[^10]: "Commonwealth Fusion Systems Raises $863 Million Series B2 Round," PR Newswire, June 2025. https://www.prnewswire.com/news-releases/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy-302540730.html
+[^10]: "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy," PR Newswire, August 28, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy-302540730.html — Stanley Druckenmiller listed among new investors in the oversubscribed $863M round.
 [^11]: "Reflexivity Raises $30 Million In Series B Funding From Druckenmiller, Coffey And Other Investors," Hedge Fund Alpha, October 2024. https://hedgefundalpha.com/news/reflexivity-raises-30-million-series-b-funding/
 [^12]: "Reflexivity secures $30m in Series B to enhance AI-driven financial analysis," Fintech Global, October 29, 2024. https://fintech.global/2024/10/29/reflexivity-secures-30m-in-series-b-to-enhance-ai-driven-financial-analysis/
 [^13]: "Billionaire Stanley Druckenmiller's buys point to tech stock shift," TheStreet, accessed March 2026. https://www.thestreet.com/investing/stanley-druckenmillers-latest-buys-suggest-shifting-tech-trend
+[^14]: Pulse 2.0, "Standard Intelligence Raises $75 Million From Sequoia And Spark Capital To Scale AGI Research," April 30, 2026, accessed May 2026. https://pulse2.com/standard-intelligence-raises-75-million-from-sequoia-and-spark-capital-to-scale-agi-research/ — Lists Stanley Druckenmiller among angel investors in Standard Intelligence's $75M Series A co-led by Sequoia and Spark Capital, alongside Andrej Karpathy and Milan Kovac.
+[^15]: SiliconANGLE, "Standard Intelligence raises $75M to develop efficient computer use models," April 30, 2026, accessed May 2026. https://siliconangle.com/2026/04/30/standard-intelligence-raises-75m-develop-efficient-computer-use-models/ — Confirms April 30, 2026 announcement of the $75M Series A co-led by Sequoia and Spark Capital.

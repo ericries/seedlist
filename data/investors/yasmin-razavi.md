@@ -1,11 +1,11 @@
 ---
 check_size: $5M-$15M
 firm: spark-capital
-last_researched: 2026-03-17
+last_researched: 2026-05-01
 last_verified_investment:
-  company: Adept
-  date: 2024
-  round: Unknown
+  company: Standard Intelligence
+  date: 2026-04-30
+  round: Series A
 location: San Francisco, CA
 name: Yasmin Razavi
 role: General Partner
@@ -55,7 +55,7 @@ Razavi has explicitly rejected gut-driven investing: "I believe gut driven inves
 
 Sector distribution across the 10 verified investments: fintech/payments (Deel, Marqeta, Rapyd, Capitolis, Earnin — 5 of 10, 50%), AI/ML (Anthropic, Adept — 2 of 10, 20%), developer tools/enterprise (Ada Support, Superblocks — 2 of 10, 20%), gaming/AR (Niantic — 1 of 10, 10%). Fintech dominance is consistent with her stated thesis. The AI investments (Anthropic, Adept) represent a growing area not prominently featured in her early stated thesis.
 
-Stage distribution is overwhelmingly growth-stage: Series B (Deel, Niantic), Series C (Ada Support, Earnin, Anthropic), Series D (Rapyd), and Series E (Marqeta). This is consistent with her stated focus on post-product-market-fit companies. The Superblocks and Adept investments appear to be earlier-stage exceptions.
+Stage distribution is overwhelmingly growth-stage: Series A (Standard Intelligence), Series B (Deel, Niantic, Adept), Series C (Ada Support, Earnin, Anthropic), Series D (Rapyd), and Series E (Marqeta). This is consistent with her stated focus on post-product-market-fit companies. The Superblocks and Standard Intelligence investments appear to be earlier-stage exceptions.
 
 Check size range is $5M to $15M with a sweet spot of $10M per Signal NFX data [^10]. As part of Spark's growth practice, she writes larger checks than typical seed or early-stage investors.
 
@@ -81,8 +81,9 @@ The following investments represent cases where Yasmin Razavi's individual invol
 | Rapyd | 2021 | Series D | Fintech / Payments | Active | [^15] |
 | Ada Support | 2021 | Series C | AI / Customer Experience | Active | [^7] |
 | Superblocks | 2022 | Series A | Developer Tools | Active | [^16] |
-| Adept | ~2022 | Unknown | AI / ML | Acquired (Meta, 2024) | [^4] |
-| Anthropic | 2023 | Series C | AI / Safety | Active | [^5] |
+| Adept | 2023-03-14 | Series B (co-led with General Catalyst) | AI / ML | Acquired (Meta, 2024) | [^4][^18] |
+| Anthropic | 2023-05-23 | Series C | AI / Safety | Active | [^5] |
+| Standard Intelligence | 2026-04-30 | Series A (co-led with Sequoia) | AI / Foundation Models | Active | [^19][^20] |
 
 Notes:
 - Niantic year based on Spark Capital's first investment in Niantic's $200M Series B in November 2017 [^11].
@@ -93,8 +94,9 @@ Notes:
 - Rapyd: Spark participated in $300M Series D in January 2021 [^15].
 - Ada Support: Spark led $130M Series C in May 2021 at $1.2B valuation; Razavi joined Ada board [^7].
 - Superblocks: Spark invested in Series A; Razavi announced investment August 2022 [^16].
-- Adept: Listed on Spark website as Razavi portfolio company [^4]; exact round and year not independently confirmed.
-- Anthropic: Spark led $450M Series C in May 2023; Razavi joined Anthropic board [^5].
+- Adept: Spark Capital co-led the $350M Series B announced March 14, 2023, alongside General Catalyst [^18]. Adept is listed on Razavi's Spark profile page as one of her portfolio companies [^4].
+- Anthropic: Spark led $450M Series C announced May 23, 2023; Razavi joined Anthropic's board [^5].
+- Standard Intelligence: Spark Capital co-led $75M Series A on April 30, 2026, with Sequoia; Mikowai Ashwill and Razavi led for Spark, partnering with Sequoia's Sonya Huang [^19][^20].
 
 Additional investments where Razavi is mentioned but her specific role is less documented include Discord and Postmates, both Spark Capital portfolio companies listed on her profile page [^4].
 
@@ -155,3 +157,6 @@ No other portfolio founder quotes about working with Razavi were found after ded
 [^15]: PR Newswire, "Rapyd Raises $300 Million in Funding to Support Accelerated Growth Within Global Payments Industry," January 2021, accessed March 2026. https://www.prnewswire.com/news-releases/rapyd-raises-300-million-in-funding-to-support-accelerated-growth-within-global-payments-industry-301207349.html
 [^16]: Yasmin Razavi via Medium / Spark Capital Publication, "Welcome, Superblocks!" August 2022, accessed March 2026. https://medium.com/spark-capital/welcome-superblocks-86ff21a582d4
 [^17]: Yasmin Razavi via Medium, "Welcome, Deel!" September 2020, accessed March 2026. https://yasminrazavi.medium.com/welcome-deel-55424d1afb4a
+[^18]: TechCrunch, "Adept, a startup training AI to use existing software and APIs, raises $350M," March 15, 2023, accessed May 2026. https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/ — Series B co-led by General Catalyst and Spark Capital; Crunchbase records the round date as March 14, 2023.
+[^19]: Sequoia Capital, "Standard Intelligence: Training General Intelligence in Pixel Space," by Sonya Huang, April 30, 2026, accessed May 2026. https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/ — Identifies Spark Capital partners Mikowai Ashwill and Yasmin Razavi as co-leading the round with Sequoia's Sonya Huang.
+[^20]: Pulse 2.0, "Standard Intelligence Raises $75 Million From Sequoia And Spark Capital To Scale AGI Research," April 30, 2026, accessed May 2026. https://pulse2.com/standard-intelligence-raises-75-million-from-sequoia-and-spark-capital-to-scale-agi-research/ — $75M Series A co-led by Sequoia and Spark; angels include Andrej Karpathy, Stanley Druckenmiller, and Milan Kovac.
