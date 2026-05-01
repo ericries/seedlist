@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [crypto, defi, depin, blockchain-infrastructure, stablecoins, payments, web3, gaming]
 check_size: "$100K-$5M"
 last_verified_investment:
-  date: 2025-12-11
-  company: "LI.FI"
-  round: "Series A Extension"
+  date: 2026-05-01
+  company: "Fun"
+  round: "Series A"
 social:
   twitter: "@SpencerApplebau"
   linkedin: "linkedin.com/in/spencer-applebaum-bb6466108"
@@ -75,7 +75,7 @@ The following table includes investments where Spencer Applebaum has been specif
 | Jito | ~2022 | Early investment | [^1] |
 | Kamino | ~2022 | Early investment | [^1] |
 | Dune | ~2022 | Investment | [^1] |
-| fun.xyz | ~2023 | Seed | [^1] |
+| Fun (fun.xyz) | 2023, 2026 | Seed; Series A ($72M, co-led, May 2026) | [^1] [^21] |
 | Fuse | ~2023 | Investment | [^1] |
 | Hyperliquid | ~2023 | Early investment | [^1] |
 | BAXUS | 2024 | Seed ($5M, led) | [^14] |
@@ -132,3 +132,4 @@ The Multicoin partner announcement in March 2023 noted that "teams consistently 
 [^18]: Acquired podcast, "Special: Solana (with CEO Anatoly Yakovenko)," 2024. https://www.acquired.fm/episodes/solana-with-ceo-anatoly-yakovenko
 [^19]: Multicoin Capital, "The DeFi Stack," November 24, 2020. https://multicoin.capital/2020/11/24/the-defi-stack/
 [^20]: Multicoin Capital, "Discussions from the 2023 Multicoin Summit," October 6, 2023. https://multicoin.capital/2023/10/06/discussions-from-the-2023-multicoin-summit/
+[^21]: Fortune, "Exclusive: Startup Fun raises $72 million for the serious business of converting crypto and cash," May 1, 2026, accessed May 2026. https://fortune.com/2026/05/01/fun-series-a-fundraise-multicoin-capital-signalfire/

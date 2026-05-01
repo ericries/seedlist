@@ -119,6 +119,7 @@ Based on 152 total investments tracked by CryptoRank [^17], the following repres
 | LI.FI | Extended Series A ($29M, co-led) | Dec 2025 | Interoperability | [^46] |
 | Inference | Seed ($11.8M, co-led) | Oct 2025 | AI / Crypto | [^47] |
 | Novig | Series B ($75M) | Feb 2026 | Prediction Markets | [^48] |
+| Fun | Series A ($72M, co-led) | May 2026 | Crypto Payments Infrastructure | [^52] |
 | Pipe Network | Series A ($10M, led) | Sep 2024 | Infrastructure | [^49] |
 | zkMe | Seed ($4M, led) | Aug 2024 | Privacy / Identity | [^50] |
 | Mevvy | Seed ($2.8M, led) | Jan 2025 | MEV Infrastructure | [^51] |
@@ -202,3 +203,4 @@ No additional independently sourced founder testimonials found beyond the Solana
 [^49]: CoinDesk, "Multicoin Led $10M Raise for Crypto-Incentivized Internet Infrastructure Network Pipe," September 16, 2024. https://www.coindesk.com/business/2024/09/16/multicoin-led-10m-raise-for-crypto-incentivized-internet-infrastructure-network-pipe
 [^50]: GlobeNewsWire, "zkMe Secures $4M From Multicoin Capital To Build FATF- and MiCA-Compliant Identity Solution For Web3 Applications," August 20, 2024. https://www.globenewswire.com/news-release/2024/08/20/2932949/0/en/zkMe-Secures-4M-From-Multicoin-Capital-To-Build-FATF-and-MiCA-Compliant-Identity-Solution-For-Web3-Applications.html
 [^51]: The Block, "Execution platform Mevvy raises $2.8 million in seed round led by Multicoin Capital," January 2025. https://www.theblock.co/post/337739/execution-platform-mevvy-raises-2-8-million-in-seed-round-led-by-multicoin-capital
+[^52]: BusinessWire, "Global Payments Company Fun Raises $72 Million in Series A to Power Next-Gen Financial Services," May 1, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260501170322/en/Global-Payments-Company-Fun-Raises-$72-Million-in-Series-A-to-Power-Next-Gen-Financial-Services

@@ -1,1 +1,13 @@
-priority: []
+priority:
+  - slug: multicoin-capital
+    type: firm
+    reason: "co-led Fun Series A (2026-05-01)"
+    added: 2026-05-01
+  - slug: spencer-applebaum
+    type: investor
+    reason: "Multicoin partner sourced Fun Series A (2026-05-01)"
+    added: 2026-05-01
+  - slug: accel
+    type: firm
+    reason: "led Sahi Series B (2026-04-29)"
+    added: 2026-05-01

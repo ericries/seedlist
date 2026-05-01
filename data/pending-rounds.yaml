@@ -78,7 +78,10 @@ pending_rounds:
   parsed_company: Fun
   parsed_amount: $72M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by fun.md ($72M Series A 2026-05-01 co-led by Multicoin Capital +
+    SignalFire)
 - title: Standard Intelligence raised $75M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -97,7 +100,9 @@ pending_rounds:
   parsed_company: Versana
   parsed_amount: $43M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by versana.md ($43M growth round 2026-04-30 led by BNP Paribas)
 - title: Sahi raised $33M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -105,7 +110,9 @@ pending_rounds:
   parsed_company: Sahi
   parsed_amount: $33M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by sahi.md ($33M Series B 2026-04-29 led by Accel)
 - title: Moleculent raised $26M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -124,7 +131,9 @@ pending_rounds:
   parsed_company: Fence
   parsed_amount: $20M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by fence.md ($20M Series A 2026-04-29 led by Galaxy Ventures)
 - title: Chord raised $7M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -140,7 +149,9 @@ pending_rounds:
   parsed_company: Belo
   parsed_amount: $14M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by belo.md ($14M Series A 2026-04-29 led by Tether)
 - title: CH4 Natural Solutions Acquisition raised $200M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
