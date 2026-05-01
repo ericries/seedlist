@@ -12,19 +12,7 @@ sector:
 - AI
 stage_latest: Seed
 total_raised: $6.5M
-firms:
-- slug: matter-venture-partners
-  round: Pre-Seed
-  year: 2025
-- slug: matter-venture-partners
-  round: Seed
-  year: 2026
-- slug: humba-ventures
-  round: Seed
-  year: 2026
-- slug: dnx-ventures
-  round: Seed
-  year: 2026
+firms: []
 founders:
 - name: Mike Xia
   role: CEO
@@ -43,15 +31,19 @@ Anvil Robotics is an eight-month-old startup that builds customizable robots des
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2025 | Pre-Seed | $1M | Matter Venture Partners | — [^1] |
-| 2026-04-02 | Seed | $5.5M | Matter Venture Partners | Humba Ventures, DNX Ventures, Spacecadet Ventures, Position Ventures, Vivek Sodera (Superhuman founder) [^1] |
+| 2026-04-02 | Seed | $5.5M | Matter Venture Partners, Humba Ventures | DNX Ventures, Spacecadet Ventures, Position Ventures, Vivek Sodera [^1] |
 
 ## What Investors Say
 
-No verified investor quotes available at this time.
+Haomiao Huang, Matter Venture Partners: "Behind great generations of products are foundational platform enablers...to be to physical AI what AWS has been to SaaS" [^1].
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+Mike Xia, CEO and co-founder: "We support physical AI teams who don't have $100 million, to make this industry much more accessible" [^1].
+
+Mike Xia on pricing: "I think the pricing is going down to a point where researchers and individuals are able to afford this" [^1].
+
+Mike Xia on the platform's appeal: "If you work with Anvil, you're not locked into a single vendor, plus you have large communities behind you" [^1].
 
 ## Sources
 

@@ -1,1 +1,13 @@
-priority: []
+priority:
+  - slug: y-combinator
+    type: firm
+    reason: "appeared in Avoca Series A/B (2026-04-27)"
+    added: 2026-04-30
+  - slug: kleiner-perkins
+    type: firm
+    reason: "led Avoca Series A (2026-04-27)"
+    added: 2026-04-30
+  - slug: general-catalyst
+    type: firm
+    reason: "co-led Avoca Series B (2026-04-27)"
+    added: 2026-04-30

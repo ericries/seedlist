@@ -106,7 +106,9 @@ pending_rounds:
   parsed_company: Swiss BioTech startup ALP Bio
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by alp-bio.md (€1.9M pre-seed led by 42CAP, 2026-04-30)
 - title: Rogo raised $160M Series D
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -247,7 +249,10 @@ pending_rounds:
   parsed_company: Certifyde
   parsed_amount: $2M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-04-30'
+  notes: covered by certifyde.md ($2M seed co-led by K5 Global + Flamingo Capital,
+    2026-04-29)
 - title: Avalyn Pharma raised $300M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -314,6 +319,16 @@ pending_rounds:
   parsed_round: Series D
   status: skipped
   skip_reason: duplicate of legora.md Series D extension already covered
+- title: 'The AlleyWatch Startup Daily Funding Report: 4/30/2026'
+  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-30-2026/
+  source: alleywatch
+  date_found: '2026-04-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: aggregator daily summary; only Photon Health was the listed round and
+    is covered by photon-health.md
 - title: Sharc Energy Closes Second Tranche of Debenture
   url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
   source: globenewswire
@@ -1079,16 +1094,3 @@ pending_rounds:
     BlackPeak Capital (final investment from BlackPeak Southeast Europe Growth Equity
     Fund I); Zagreb Croatia wood-based renewable materials; EU-Startups direct fetch
     403, cited via Vestbee
-- title: Cloudsmith raises €61.5 million Series C to control and secure AI-driven
-    software supply chains
-  url: https://www.eu-startups.com/2026/04/cloudsmith-raises-e61-5-million-series-c-to-control-and-secure-ai-driven-software-supply-chains/
-  source: eu-startups
-  date_found: '2026-04-23'
-  parsed_company: Cloudsmith
-  parsed_amount: null
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile cloudsmith.md; $72M (~€61.5M) Series C on 2026-04-23
-    led by TCV with Insight Partners continuing; Belfast Northern Ireland; approaching
-    $1B valuation; added tcv.md and insight-partners.md to firms frontmatter; EU-Startups
-    direct fetch 403, cited via Tech.eu and TNW
