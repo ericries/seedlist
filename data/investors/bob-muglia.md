@@ -1,11 +1,11 @@
 ---
 check_size: $5K-$50K
 firm: null
-last_researched: 2026-03-24
+last_researched: 2026-05-02
 last_verified_investment:
-  company: Genesis Computing
-  date: 2025-02-26
-  round: Seed
+  company: JuliaHub
+  date: 2026-04-30
+  round: Series B
 location: Seattle, WA
 name: Bob Muglia
 role: Angel Investor / Board Director
@@ -87,13 +87,14 @@ This table includes 10 verified investments. Signal by NFX and CBInsights descri
 | Docugami | 2020 | Seed | Document AI / Enterprise | Active | [^13] |
 | Fivetran | 2020 | Board (mature) | Data Integration | Active | [^14] |
 | Fauna | 2020 | Series A ($27M) | Database | Active | [^15] |
-| Atlan | 2021 | Series A ($16M) | Data Catalog / Governance | Active | [^16] |
-| JuliaHub | 2021 | Series A ($24M) | Scientific Computing | Active | [^17] |
-| Pinecone | 2021 | Series A (pre-board) | Vector Database / AI | Active | [^18] |
+| Atlan | 2021-05-25 | Series A ($16M) | Data Catalog / Governance | Active | [^16] |
+| JuliaHub | 2021-07 | Series A ($24M) | Scientific Computing | Active | [^17] |
+| Pinecone | 2021-12-15 | Investor & Advisor (post-Series A) | Vector Database / AI | Active | [^18] |
 | RelationalAI | 2022 | Series B ($122M) | Knowledge Graph Database | Active | [^19] |
 | Seek AI | 2023 | Seed ($7.5M) | Generative AI / Analytics | Acquired (IBM, Jun 2025) | [^12] |
-| Codified | 2024 | Seed ($4M) | Data Governance | Shut down (2025) | [^20] |
+| Codified | 2024-02-27 | Seed ($4M) | Data Governance | Shut down (2025) | [^20] |
 | Genesis Computing | 2025 | Seed ($5M) | Agentic AI / Data Ops | Active | [^21] |
+| JuliaHub | 2026-04-30 | Series B ($65M, follow-on) | Scientific AI / Industrial Digital Twins | Active | [^22] |
 
 *Miro is listed on The Org as an advisory role; it could not be confirmed as an equity investment from press sources and is excluded from the count. Muglia also holds Snowflake equity from his operating tenure, not from his investing activity.*
 
@@ -180,3 +181,4 @@ Edo Liberty, Founder & CEO of Pinecone, on Muglia as an investor and advisor (De
 [^19]: RelationalAI, "RelationalAI Raises $122M to Redefine How Intelligent Data Apps Are Built," April 2022, accessed March 2026. https://www.relational.ai/post/relationalai-raises-usd122m-to-redefine-how-intelligent-data-apps-are-built
 [^20]: Business Wire, "Codified Secures $4 Million in Seed Funding to Modernize Data Governance," February 2024, accessed March 2026. https://www.businesswire.com/news/home/20240227404209/en/Codified-Secures-$4-Million-in-Seed-Funding-to-Modernize-Data-Governance
 [^21]: Genesis Computing, "Genesis Computing Raises $5M for Agentic AI Data Agents," February 2025, accessed March 2026. https://genesiscomputing.com/news/genesis-computing-first-funding-round
+[^22]: JuliaHub blog, "JuliaHub Raises $65M Series B and Launches Dyad 3.0, Bringing Agentic AI to Industrial Digital Twins," April 30, 2026, accessed May 2026. https://juliahub.com/blog/juliahub-raises-65m-series-b-launches-dyad-3.0 — Bob Muglia (existing JuliaHub board member from the 2021 Series A) participated as a follow-on investor in the $65M Series B led by Dorilton Capital, alongside General Catalyst and AE Ventures. Cross-referenced with PR Newswire, "JuliaHub raises $65M Series B and launches Dyad 3.0," April 30, 2026. https://www.prnewswire.com/news-releases/juliahub-raises-65m-series-b-and-launches-dyad-3-0--bringing-agentic-ai-to-industrial-digital-twins-302758889.html and Axios, "AI startup JuliaHub raises $65M to rival Simulink," April 30, 2026. https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering

@@ -1,9 +1,1 @@
-priority:
-  - slug: general-catalyst
-    type: firm
-    reason: "participated in JuliaHub Series B (2026-04-30)"
-    added: 2026-05-02
-  - slug: bob-muglia
-    type: investor
-    reason: "existing investor in JuliaHub Series B (2026-04-30); ex-Snowflake CEO"
-    added: 2026-05-02
+priority: []
