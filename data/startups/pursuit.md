@@ -3,6 +3,9 @@ firms:
 - round: Series A
   slug: benchmark
   year: 2026
+- round: Series A
+  slug: 87-capital
+  year: 2026
 founded: 2024
 investors:
 - date: 2026-04-29
@@ -12,6 +15,9 @@ investors:
 - date: 2026-04-29
   round: series-a
   slug: jack-altman
+  year: 2026
+- round: Series A
+  slug: sam-hinkie
   year: 2026
 last_researched: 2026-04-29
 location: United States

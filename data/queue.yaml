@@ -18102,7 +18102,7 @@ queue:
 - name: Andrew Kortina
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: iqram-magdon-ismail
@@ -19023,7 +19023,7 @@ queue:
 - name: Sam Hinkie
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 87 Capital
   discovered_from: round-monitoring-2026-04-29
@@ -20103,3 +20103,103 @@ queue:
   discovered_from: sumeet-singh
   source: President of Pharma Solutions (succeeded Sumeet Singh in 2023 LighthouseAI
     spinout)
+- name: David Karp
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: andrew-kortina
+- name: Bob Lessin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: andrew-kortina
+- name: Chris Stanchak
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: TicketLeap
+  discovered_from: andrew-kortina
+- name: W. Brett Wilson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: andrew-kortina
+- name: Sawari Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: Raba Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: RaliCap
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: Fin
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: Axis
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: Communo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: Storyboarder
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-kortina
+- name: Opal Camera
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sam-hinkie
+- name: HomeCourt
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sam-hinkie
+- name: Slack Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sam-hinkie
+- name: Cherubic Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sam-hinkie
+- name: Marques Brownlee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sam-hinkie
