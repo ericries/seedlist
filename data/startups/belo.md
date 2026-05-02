@@ -1,23 +1,33 @@
 ---
-name: "Belo"
-slug: belo
-type: startup
-website: "https://belo.app"
-location: "Buenos Aires, Argentina"
+firms:
+- round: Pre-Seed
+  slug: latitud
+  year: 2022
 founded: 2021
-status_company: active
-sector: [fintech, crypto, stablecoins, payments]
-stage_latest: "Series A"
-total_raised: "$14M+"
-investors: []
-firms: []
 founders:
-  - name: "Manuel Beaudroit"
-    role: "CEO & Co-Founder"
-  - name: "Edwin Rager"
-    role: "Co-Founder & Strategy Director"
-status: published
+- name: Manuel Beaudroit
+  role: CEO & Co-Founder
+- name: Edwin Rager
+  role: Co-Founder & Strategy Director
+investors:
+- round: Pre-Seed
+  slug: brian-requarth
+  year: 2022
 last_researched: 2026-04-30
+location: Buenos Aires, Argentina
+name: Belo
+sector:
+- fintech
+- crypto
+- stablecoins
+- payments
+slug: belo
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $14M+
+type: startup
+website: https://belo.app
 ---
 
 ## About

@@ -17117,7 +17117,7 @@ queue:
 - name: Chris Pitchford
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Brev
   discovered_from: round-monitoring-2026-04-25
@@ -17147,7 +17147,7 @@ queue:
 - name: Sumeet Singh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: LighthouseAI
   discovered_from: round-monitoring-2026-04-25
@@ -17162,7 +17162,7 @@ queue:
 - name: Alex Scherbakovsky
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: AVP
   discovered_from: round-monitoring-2026-04-25
@@ -17855,7 +17855,7 @@ queue:
 - name: Piyush Shah
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: InMobi
   discovered_from: naveen-tewari
@@ -19861,3 +19861,245 @@ queue:
   added: '2026-03-17'
   discovered_from: round-monitoring-2026-05-01
   source: strategic co-investor in Decameal seed round (2026-05-01)
+- name: TrulyMadly
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: piyush-shah
+  source: Piyush Shah angel investment in TrulyMadly pre-Series A (Apr 2021)
+- name: Artium Academy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: piyush-shah
+  source: Piyush Shah angel investment in Artium Academy seed (Oct 2022)
+- name: Billion Hearts
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: piyush-shah
+  source: Piyush Shah angel investment in Billion Hearts angel round (Sep 2024)
+- name: Mayank Bidawatka
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Billion Hearts
+  discovered_from: piyush-shah
+  source: founder of Billion Hearts (Piyush Shah portfolio); previously co-founded
+    Koo and Vokal
+- name: Phanindra Sama
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: redBus
+  discovered_from: piyush-shah
+  source: co-investor with Piyush Shah in Billion Hearts angel round (2024)
+- name: Ankit Bhati
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ola
+  discovered_from: piyush-shah
+  source: co-investor with Piyush Shah in Billion Hearts angel round (2024)
+- name: Raveen Sastry
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Multiply Ventures
+  discovered_from: piyush-shah
+  source: co-investor with Piyush Shah in Billion Hearts angel round (2024); Myntra
+    co-founder
+- name: Madhusudhan R
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: M2P Finance
+  discovered_from: piyush-shah
+  source: co-investor with Piyush Shah in Artium Academy seed (2022)
+- name: Varun Alagh
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mamaearth
+  discovered_from: piyush-shah
+  source: co-investor with Piyush Shah in Artium Academy seed (2022)
+- name: François Robinet
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: AVP
+  discovered_from: alex-scherbakovsky
+  source: Managing Partner of AVP (Atlantic Vantage Point); led MBO from AXA in 2025
+- name: Manish Agarwal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AVP
+  discovered_from: alex-scherbakovsky
+  source: General Partner at AVP alongside Alex Scherbakovsky
+- name: Benoit Fosseprez
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AVP
+  discovered_from: alex-scherbakovsky
+  source: General Partner at AVP alongside Alex Scherbakovsky
+- name: Elizabeth de Saint-Aignan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AVP
+  discovered_from: alex-scherbakovsky
+  source: General Partner at AVP alongside Alex Scherbakovsky
+- name: Warda Shaheen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AVP
+  discovered_from: alex-scherbakovsky
+  source: General Partner at AVP alongside Alex Scherbakovsky
+- name: Selector
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: AVP-led $32M growth round Feb 2026; AI network observability (Santa Clara)
+- name: Defense Unicorns
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: Bain Capital-led $136M Series B Jan 2026 with AVP participation; open-source
+    defense software (Colorado Springs)
+- name: Strider Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: Pelion-led $55M Series C Sep 2024 with AVP participation; strategic intelligence/security
+- name: Gladly
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: AVP-led $40M round Sep 2024; AI-powered customer service platform (San Francisco)
+- name: Tive
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: AVP-led $54M Series B Apr 2022; supply-chain visibility (Boston)
+- name: Phenom People
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: AVP-led $22M Series B May 2018; talent relationship marketing platform
+- name: Lessonly
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: AVP-led $15M Series C Apr 2020; workplace training (acquired by Seismic
+    2021)
+- name: Contrast Security
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: AVP/Microsoft Ventures strategic investment Oct 2017; application security
+- name: Pelion Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: led Strider Series C Sep 2024 alongside AVP; Utah-based VC
+- name: Ansa Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: co-investor with AVP in Defense Unicorns Series B and Selector growth round
+    (2026)
+- name: Two Bear Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: co-investor with AVP in Selector growth round (Feb 2026)
+- name: Singtel Innov8
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-scherbakovsky
+  source: co-investor with AVP in Selector growth round (Feb 2026)
+- name: Healthy Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sumeet-singh
+  source: co-led LighthouseAI seed ($4.6M, October 2023)
+- name: BluePointe Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sumeet-singh
+  source: co-led LighthouseAI seed ($4.6M, October 2023)
+- name: Eileses Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sumeet-singh
+  source: participant in LighthouseAI seed (October 2023)
+- name: Bertelsmann Next
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sumeet-singh
+  source: participant in LighthouseAI seed (October 2023); Bertelsmann's CVC arm
+- name: The Legal Tech Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sumeet-singh
+  source: participant in LighthouseAI seed (October 2023); legal-tech specialist VC
+- name: Nathan Fox
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Pharma Solutions
+  discovered_from: sumeet-singh
+  source: President of Pharma Solutions (succeeded Sumeet Singh in 2023 LighthouseAI
+    spinout)

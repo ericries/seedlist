@@ -1,22 +1,33 @@
 ---
-name: "Orkes"
-slug: orkes
-type: startup
-website: "https://orkes.io"
-location: "Santa Clara, CA"
-founded: 2021
-status_company: active
-sector: [ai, developer-tools, workflow-orchestration, infrastructure, enterprise]
-stage_latest: "Series B"
-total_raised: "$90M"
 firms:
-  - slug: battery-ventures
-    round: series-b
-    year: 2026
-    date: 2026-04-23
-investors: []
-status: published
+- date: 2026-04-23
+  round: series-b
+  slug: battery-ventures
+  year: 2026
+- round: Series B (AVP-led)
+  slug: avp
+  year: 2026
+founded: 2021
+investors:
+- round: Series B (AVP-led)
+  slug: alex-scherbakovsky
+  year: 2026
 last_researched: 2026-04-25
+location: Santa Clara, CA
+name: Orkes
+sector:
+- ai
+- developer-tools
+- workflow-orchestration
+- infrastructure
+- enterprise
+slug: orkes
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $90M
+type: startup
+website: https://orkes.io
 ---
 
 ## About

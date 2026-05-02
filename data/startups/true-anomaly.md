@@ -1,39 +1,45 @@
 ---
-name: "True Anomaly"
-slug: true-anomaly
-type: startup
-website: "https://www.trueanomaly.space"
-location: "Centennial, CO"
-founded: 2022
-status_company: active
-sector: [aerospace, defense, space, govtech]
-stage_latest: "Series D"
-total_raised: "$1B"
-investors: []
 firms:
-  - slug: accel
-    round: series-d
-    year: 2026
-    date: 2026-04-28
-  - slug: menlo-ventures
-    round: series-d
-    year: 2026
-    date: 2026-04-28
-  - slug: acme-capital
-    round: series-d
-    year: 2026
-    date: 2026-04-28
-  - slug: paradigm
-    round: series-d
-    year: 2026
-    date: 2026-04-28
+- date: 2026-04-28
+  round: series-d
+  slug: accel
+  year: 2026
+- date: 2026-04-28
+  round: series-d
+  slug: menlo-ventures
+  year: 2026
+- date: 2026-04-28
+  round: series-d
+  slug: acme-capital
+  year: 2026
+- date: 2026-04-28
+  round: series-d
+  slug: paradigm
+  year: 2026
+founded: 2022
 founders:
-  - name: "Even Rogers"
-    role: "Co-Founder & CEO"
-  - name: "Kyle Zakrzewski"
-    role: "Co-Founder"
-status: published
+- name: Even Rogers
+  role: Co-Founder & CEO
+- name: Kyle Zakrzewski
+  role: Co-Founder
+investors:
+- round: Early
+  slug: matt-murphy
 last_researched: 2026-05-01
+location: Centennial, CO
+name: True Anomaly
+sector:
+- aerospace
+- defense
+- space
+- govtech
+slug: true-anomaly
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $1B
+type: startup
+website: https://www.trueanomaly.space
 ---
 
 ## About

@@ -50,7 +50,9 @@ pending_rounds:
   parsed_company: Amsterdam’s VNYX
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by vnyx.md (€1M+ pre-seed, Amsterdam fashion resale)
 - title: Denmark’s Decameal raises Seed funding to turn invasive shore crabs into
     sustainable feed ingredients
   url: https://www.eu-startups.com/2026/05/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/
@@ -59,7 +61,9 @@ pending_rounds:
   parsed_company: Denmark’s Decameal
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by decameal.md (Seed, Denmark invasive crab feed)
 - title: Iterative Health raised $77M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -141,7 +145,9 @@ pending_rounds:
   parsed_company: Chord
   parsed_amount: $7M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by chord.md
 - title: Belo raised $14M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -217,7 +223,10 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $600M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-01'
+  notes: True Anomaly Series D actually $650M (not $600M); covered by true-anomaly.md
+    (Series D 2026-04-28 led by Acme Capital with Paradigm and Menlo Ventures)
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/1/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-1-2026/
   source: alleywatch
@@ -225,7 +234,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: aggregator daily summary; only Fun was the listed round and is already
+    covered by fun.md
 - title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
   url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
   source: eu-startups
