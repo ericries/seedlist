@@ -18831,7 +18831,7 @@ queue:
 - name: Adrien Treuille
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Streamlit (independent angel)
   discovered_from: edward-tian
@@ -20106,7 +20106,7 @@ queue:
 - name: David Karp
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: andrew-kortina
@@ -20203,3 +20203,139 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sam-hinkie
+- name: John Borthwick
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Betaworks
+  discovered_from: david-karp
+- name: Fred Seibert
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Frederator
+  discovered_from: david-karp
+- name: Martin Varsavsky
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Marco Arment
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Betaworks
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Frederator Studios
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Splash
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Superpedestrian
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Sherpaa
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Rus Yusupov
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-karp
+- name: Josh Guttman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SoftBank Capital
+  discovered_from: david-karp
+- name: Amanda Kelly
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Snowflake
+  discovered_from: adrien-treuille
+- name: Thiago Teixeira
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Snowflake
+  discovered_from: adrien-treuille
+- name: Snowflake Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adrien-treuille
+- name: Brightband
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adrien-treuille
+- name: Cal Henderson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Slack
+  discovered_from: adrien-treuille
+- name: Chris Stolte
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tableau
+  discovered_from: adrien-treuille
+- name: Jeff Heer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Trifacta
+  discovered_from: adrien-treuille
+- name: Jeff Hammerbacher
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cloudera
+  discovered_from: adrien-treuille
+- name: Carlos Guestrin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Stanford
+  discovered_from: adrien-treuille
+- name: Gradient Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adrien-treuille

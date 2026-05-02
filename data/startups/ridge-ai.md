@@ -1,29 +1,35 @@
 ---
-name: Ridge AI
-slug: ridge-ai
-type: startup
-website: "https://ridgedata.ai"
-location: Seattle, Washington
-founded: 2025
-status_company: active
-sector:
-- ai
-- analytics
-- developer-tools
-stage_latest: Pre-Seed
-total_raised: $2.6M
 firms:
-- slug: madrona-venture-group
-  round: pre-seed
+- round: pre-seed
+  slug: madrona-venture-group
   year: 2026
-investors: []
+- round: Pre-seed
+  slug: snowflake
+  year: 2026
+founded: 2025
 founders:
 - name: Ellie Fields
   role: CEO & Co-Founder
 - name: Jeff Heer
   role: Chief Scientist & Co-Founder
-status: published
+investors:
+- round: Pre-seed
+  slug: adrien-treuille
+  year: 2026
 last_researched: 2026-04-07
+location: Seattle, Washington
+name: Ridge AI
+sector:
+- ai
+- analytics
+- developer-tools
+slug: ridge-ai
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $2.6M
+type: startup
+website: https://ridgedata.ai
 ---
 
 ## About
