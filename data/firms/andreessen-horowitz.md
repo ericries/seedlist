@@ -219,10 +219,10 @@ The following table includes a16z investments verified through the firm's own po
 | Faire | Growth | 2022 | Marketplace | Private [^10] |
 | Harvey | Series F (led) | 2025-12-04 | AI / Legal | Private [^10][^34][^35] |
 | Cursor | Growth | 2025 | AI / Developer Tools | Private [^10] |
-| ElevenLabs | Growth | 2024 | AI / Voice | Private [^10] |
+| ElevenLabs | Series B (co-led) | 2024-01-22 | AI / Voice | Private [^10][^36] |
 | Safe Superintelligence (SSI) | Seed | 2024 | AI | Private [^10] |
 | Substack | Growth | 2025 | Creator Economy | Private [^10] |
-| Shield AI | Series G | 2026 | Defense / Drones | Private [^10] |
+| Shield AI | Series G (participated) | 2026-03-26 | Defense / Drones | Private [^10][^37] |
 | Hadrian | Growth | 2023 | Manufacturing | Private [^10] |
 | Flock Safety | Growth | 2022 | Public Safety | Private [^10] |
 | Abridge | Series B | 2023 | AI / Health | Private [^10] |
@@ -390,3 +390,7 @@ The following table includes a16z investments verified through the firm's own po
 [^34]: Harvey blog, "Andreessen Horowitz Leads $160M Investment in Harvey," December 4, 2025. https://www.harvey.ai/blog/andreessen-horowitz-leads-dollar160m-investment-in-harvey — Confirms a16z's first Harvey investment was the Series F at an $8B valuation; co-investors included WndrCo, T. Rowe Price, Sequoia, Kleiner Perkins, Conviction, and Elad Gil.
 
 [^35]: TechCrunch, "Legal AI startup Harvey confirms $8B valuation," December 4, 2025. https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation/ — Series F led by a16z at $8B valuation.
+
+[^36]: a16z, "Investing in ElevenLabs," June 2023. https://a16z.com/announcement/investing-in-elevenlabs/ — a16z's first ElevenLabs investment was the June 2023 Series A. The Series B (announced January 22, 2024) was an $80M round at $1.1B valuation co-led by a16z with Nat Friedman and Daniel Gross; Sequoia Capital, Smash Capital, SV Angel, BroadLight Capital, and Credo Ventures participated. Cross-referenced with TechCrunch, "Voice cloning startup ElevenLabs lands $80M, achieves unicorn status," January 22, 2024. https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/ and Fortune, "ElevenLabs's $80 million Series B creates AI unicorn, source says," January 22, 2024. https://fortune.com/2024/01/22/ai-unicorn-andreesen-horowitz-eleven-labs-venture-capital-series-b-tech/
+
+[^37]: Shield AI press release, "Shield AI to acquire software simulation company Aechelon and raise $2B at $12.7B valuation," March 26, 2026. https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/ — Shield AI's $2B Series G (announced March 26, 2026) was co-led by Advent International and JPMorgan Chase ($1.5B equity), with $500M non-dilutive preferred equity from Blackstone. a16z participated alongside Snowpoint Ventures, Innovation X Advisors, Riot Ventures, Disruptive, Apandion, Point72, Palantir, and Lockheed Martin. Round valued Shield AI at $12.7B. Cross-referenced with Bloomberg, "Shield AI Raises $2 Billion, Doubling Valuation to $12.7 Billion," March 26, 2026. https://www.bloomberg.com/news/articles/2026-03-26/defense-startup-shield-ai-nabs-2-billion-at-12-7-billion-value and BusinessWire, "Shield AI to Acquire Software Simulation Company Aechelon and Raise $2B at $12.7B Valuation," March 26, 2026. https://www.businesswire.com/news/home/20260326446258/en/Shield-AI-to-Acquire-Software-Simulation-Company-Aechelon-and-Raise-$2B-at-$12.7B-Valuation
