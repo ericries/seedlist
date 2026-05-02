@@ -92,9 +92,9 @@ Based on 20 verified investments made through the OpenAI Startup Fund (see Portf
 | Harvey AI | 2023 | Series A ($21M) | [^11] |
 | Atomic Semi | ~2023 | Seed ($15M) | [^22] |
 | EdgeDB | ~2023 | Series A ($15M) | [^22] |
-| Ambience Healthcare | 2024 | Series B ($70M, co-led) | [^15] |
+| Ambience Healthcare | 2024-02-06 | Series B ($70M, co-led with Kleiner Perkins) | [^15][^27][^28] |
 | Chai Discovery | 2024 | Seed ($30M, co-led) | [^11] |
-| Figure AI | 2024 | Series B ($675M) | [^11] |
+| Figure AI | 2024-02-29 | Series B ($675M, $2.6B post) | [^11][^29][^30] |
 | Heeyo | 2024 | Seed ($3.5M) | [^11] |
 | Kick | 2024 | Seed ($9M, co-led) | [^16] |
 | Milo | 2024 | Seed ($1.17M) | [^22] |
@@ -160,3 +160,7 @@ Brian Long, CEO of Adaptive Security, on the AI security challenge: "Cybersecuri
 [^24]: PR Newswire, "OpenAI Fund Extends Investment in Adaptive Security, Raising Total to $55 Million in Series A," September 9, 2025. https://www.prnewswire.com/news-releases/openai-fund-extends-investment-in-adaptive-security-raising-total-to-55-million-in-series-a-302549706.html
 [^25]: Endex LinkedIn announcement, "Endex raises $14M from OpenAI to bring AI to Excel," August 2025. https://www.linkedin.com/posts/endexai_were-excited-to-announce-that-endex-has-activity-7358905117418418178-c7Ly
 [^26]: Tracxn, "OpenAI Startup Fund Investor Profile," accessed April 2026. https://tracxn.com/d/venture-capital/openai-startup-fund/__Rp6ugduZ613B4Hvba-352ySiK4qzAdIHtQFddJJlJW0
+[^27]: PR Newswire, "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations," February 6, 2024. https://www.prnewswire.com/news-releases/ambience-healthcare-raises-70m-to-scale-the-most-comprehensive-ai-operating-system-for-healthcare-organizations-302054056.html
+[^28]: Ambience Healthcare blog, "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations," February 6, 2024. https://www.ambiencehealthcare.com/blog/ambience-healthcare-raises-70m-to-scale-the-most-comprehensive-ai-operating-system-for-healthcare-organizations
+[^29]: PR Newswire, "Figure Raises $675M at $2.6B Valuation and Signs Collaboration Agreement with OpenAI," February 29, 2024. https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
+[^30]: TechCrunch, "Figure rides the humanoid robot hype wave to $2.6B valuation and OpenAI collab," Brian Heater, February 29, 2024. https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/

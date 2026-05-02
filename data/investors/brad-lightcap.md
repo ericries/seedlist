@@ -106,8 +106,8 @@ The fund skews toward seed-stage (50%), consistent with its stated approach of m
 | Class Companion | 2023 | Seed ($4M) | [^10] |
 | Kick | 2023 | Seed ($9M, co-led) | [^9] |
 | Atomic Semi | 2023 | Seed ($15M) | [^11] |
-| Ambience Healthcare | 2024 | Series B ($70M, co-led) | [^14] |
-| Figure AI | 2024 | Series B ($675M) | [^9] |
+| Ambience Healthcare | 2024-02-06 | Series B ($70M, co-led with Kleiner Perkins) | [^14][^19][^20] |
+| Figure AI | 2024-02-29 | Series B ($675M, $2.6B post) | [^9][^21][^22] |
 | Chai Discovery | 2024 | Seed ($30M, co-led) | [^9] |
 | Adaptive Security | 2025 | Series A ($43M, co-led) | [^13] |
 
@@ -155,3 +155,7 @@ No additional independently sourced founder testimonials found beyond the above 
 [^16]: Fortune, "OpenAI COO Brad Lightcap on what history teaches us about AI and the enterprise race," October 2025, accessed April 2026. https://fortune.com/2025/10/10/openai-coo-brad-lightcap-on-what-history-teaches-us-about-ai-and-the-enterprise-race/
 [^17]: Descript blog, "It's here: the all-new Descript, backed by OpenAI Startup Fund," November 2022, accessed April 2026. https://www.descript.com/blog/article/all-new-descript-backed-by-openai-startup-fund
 [^18]: Fortune, "30-year-old CEO of $11 billion Harvey earned the backing of OpenAI and Sam Altman," March 2026, accessed April 2026. https://fortune.com/2026/03/26/harvey-ceo-winston-weinberg-reearn-roles-career-advice-ai-tech-innovation-eleven-billion-dollar-startup-sam-altman-openai-backed/
+[^19]: PR Newswire, "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations," February 6, 2024. https://www.prnewswire.com/news-releases/ambience-healthcare-raises-70m-to-scale-the-most-comprehensive-ai-operating-system-for-healthcare-organizations-302054056.html
+[^20]: Ambience Healthcare blog, "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations," February 6, 2024. https://www.ambiencehealthcare.com/blog/ambience-healthcare-raises-70m-to-scale-the-most-comprehensive-ai-operating-system-for-healthcare-organizations
+[^21]: PR Newswire, "Figure Raises $675M at $2.6B Valuation and Signs Collaboration Agreement with OpenAI," February 29, 2024. https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
+[^22]: TechCrunch, "Figure rides the humanoid robot hype wave to $2.6B valuation and OpenAI collab," Brian Heater, February 29, 2024. https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/

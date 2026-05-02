@@ -78,12 +78,12 @@ Based on 18 verified investments, the OpenAI Startup Fund's actual portfolio rev
 |---------|-------|------|--------|--------|
 | 1X Technologies | Series A2 ($23.5M) | 2023 | Robotics | Active [^12] |
 | Adaptive | Series ($43M, co-led) | 2025 | Cybersecurity/AI | Active [^6] |
-| Ambience Healthcare | Series B ($70M, co-led) | 2024 | Healthcare AI | Active [^12] |
+| Ambience Healthcare | Series B ($70M, co-led with Kleiner Perkins) | 2024-02-06 | Healthcare AI | Active [^12][^19][^20][^21] |
 | Anysphere (Cursor) | Seed ($8M, led) | 2023 | Developer Tools | Active [^12] |
 | Chai Discovery | Seed ($30M, co-led) | 2024 | Biotech/Drug Discovery | Active [^12] |
 | Class Companion | Seed ($4M) | 2023 | EdTech | Active [^12] |
 | Descript | Series C ($50M, led) | 2022 | Media/Video Editing | Active [^13] |
-| Figure AI | Series B ($675M) | 2024 | Robotics | Active [^12] |
+| Figure AI | Series B ($675M, $2.6B post) | 2024-02-29 | Robotics | Active [^12][^22][^23][^24] |
 | Ghost Autonomy | Series E ($5M of $55M) | 2023 | Autonomous Driving | Shut Down [^12] |
 | Harvey AI | Series A ($21M) | 2023 | Legal Tech | Active [^12] |
 | Heeyo | Seed ($3.5M) | 2024 | EdTech | Active [^14] |
@@ -141,3 +141,9 @@ Andrew Mason, CEO of Descript, noted that seeing an early version of ChatGPT ins
 [^16]: Speak Blog, "OpenAI Startup Fund-Backed Speak Announces $16m Series B-2 Financing & Rapid International Expansion," 2023. https://www.speak.com/blog/series-b-2
 [^17]: TechCrunch, "OpenAI Startup Fund backs AI healthcare venture with Arianna Huffington," July 8, 2024. https://techcrunch.com/2024/07/08/openai-startup-fund-backs-ai-healthcare-venture-with-arianna-huffington/
 [^18]: Tracxn, "OpenAI Startup Fund Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/openai-startup-fund/__Rp6ugduZ613B4Hvba-352ySiK4qzAdIHtQFddJJlJW0
+[^19]: TechCrunch, "Ambience Healthcare raises $70M for its AI assistant led by OpenAI and Kleiner Perkins," February 6, 2024. https://techcrunch.com/2024/02/06/ambience-healthcare-raises-70m-for-its-ai-assistant-led-by-openai-and-kleiner-perkins/
+[^20]: PR Newswire, "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations," February 6, 2024. https://www.prnewswire.com/news-releases/ambience-healthcare-raises-70m-to-scale-the-most-comprehensive-ai-operating-system-for-healthcare-organizations-302054056.html
+[^21]: Ambience Healthcare blog, "Ambience Healthcare Raises $70M to Scale the Most Comprehensive AI Operating System for Healthcare Organizations," February 6, 2024. https://www.ambiencehealthcare.com/blog/ambience-healthcare-raises-70m-to-scale-the-most-comprehensive-ai-operating-system-for-healthcare-organizations
+[^22]: PR Newswire, "Figure Raises $675M at $2.6B Valuation and Signs Collaboration Agreement with OpenAI," February 29, 2024. https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
+[^23]: TechCrunch, "Figure rides the humanoid robot hype wave to $2.6B valuation and OpenAI collab," Brian Heater, February 29, 2024. https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/
+[^24]: Built In San Francisco, "Figure Raises $675M, Announces OpenAI Partnership," March 1, 2024. https://www.builtinsf.com/articles/figure-raises-675m-20240301

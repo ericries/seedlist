@@ -157,7 +157,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Instacart | Growth | ~2018 | Marketplace / Delivery | Public (IPO 2023) [^3] |
 | Databricks | Growth | ~2019 | Enterprise / Data & AI | Private [^3] |
 | OpenAI | Growth | 2024-10-02 | AI | Private [^1][^14] |
-| Scale AI | Series F | 2024-05-21 | AI / Data | Private [^13][^22] |
+| Scale AI | Series F ($1B, $13.8B post, led by Accel) | 2024-05-21 | AI / Data | Private [^13][^22][^25] |
 | Ramp | Growth | ~2021 | Fintech / Corporate Cards | Private [^3] |
 | Anduril Industries | Growth | ~2020 | Defense Tech | Private [^3][^18] |
 | NuBank | Growth | ~2018 | Fintech / Banking | Public [^8] |
@@ -322,3 +322,5 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^23]: "Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions." TechCrunch, May 7, 2024. https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/
 
 [^24]: "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR." TechCrunch, June 5, 2025. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/
+
+[^25]: BusinessWire, "Scale AI Raises $1 Billion Series F to Push The Frontier of AI Data," May 21, 2024. https://www.businesswire.com/news/home/20240521674964/en/Scale-AI-Raises-$1-Billion-Series-F-to-Push-The-Frontier-of-AI-Data
