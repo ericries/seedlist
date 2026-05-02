@@ -120,8 +120,8 @@ The portfolio is primarily concentrated in the United States, with significant a
 
 Based on available deal data:
 - **Venture/Early Stage**: $5M–$50M (e.g., Snap Series C at $50M in 2013 [^19])
-- **Growth**: $50M–$500M+ (e.g., DoorDash $250M in 2018 [^20]; Instacart $350M Series E in 2018 [^21]; CoreWeave $1.1B Series C led in 2024 [^22])
-- **Mega-rounds/AI**: $500M+ participation (e.g., Anthropic $30B Series G co-led in 2026 [^23]; OpenAI $40B round participation in 2025 [^23]; Cursor/Anysphere $2.3B Series D co-led in 2025 [^24])
+- **Growth**: $50M–$500M+ (e.g., DoorDash $250M in 2018 [^20]; Instacart $350M Series E in 2018 [^21]; CoreWeave $1.1B Series C led on May 1, 2024 at $19B post-money valuation [^22][^44][^45])
+- **Mega-rounds/AI**: $500M+ participation (e.g., Anthropic $30B Series G co-led in 2026 [^23]; OpenAI $40B round participation in 2025 [^23]; Cursor/Anysphere $2.3B Series D co-led with Accel on November 13, 2025 at $29.3B post-money valuation [^24][^46][^47])
 - **CTEK Fund**: Minimum $50,000 for retail investors [^6]
 
 ### Co-Investor Patterns
@@ -165,11 +165,11 @@ The following table includes Coatue investments verified through the firm's port
 | Applied Intuition | Growth | ~2021 | Autonomous / Simulation | Private [^12] |
 | Attentive | Series D (Led) | 2021 | Enterprise SaaS / Marketing | Private [^30] |
 | Deel | Series D | 2021 | HR / Payroll | Private [^31] |
-| CoreWeave | Series C (Led) | 2024 | AI Infrastructure / Cloud | Public (IPO 2025) [^22] |
+| CoreWeave | Series C (Led) | 2024-05-01 | AI Infrastructure / Cloud | Public (IPO 2025) [^22][^44][^45] |
 | Stability AI | Seed (Co-Led) | 2022 | AI / Generative | Private [^25] |
 | OpenAI | Growth | 2025 | AI | Private [^23] |
 | Anthropic | Series G (Co-Led) | 2026 | AI | Private [^23] |
-| Cursor (Anysphere) | Series D (Co-Led) | 2025 | AI / Developer Tools | Private [^24] |
+| Cursor (Anysphere) | Series D (Co-Led) | 2025-11-13 | AI / Developer Tools | Private [^24][^46][^47] |
 | AI21 Labs | Growth | ~2022 | AI / NLP | Private [^12] |
 | Hugging Face | Growth | ~2023 | AI / Open Source | Private [^12] |
 | Alan | Growth | ~2021 | Healthcare / Insurance | Private [^12] |
@@ -314,3 +314,11 @@ No independently sourced negative or critical founder testimonials were found in
 [^42]: PitchBook, "Box Turns to TPG, Coatue for $150M Pre-IPO Financing," July 2014. https://pitchbook.com/newsletter/box-turns-to-tpg-coatue-for-150m-pre-ipo-financing — Box's $150M pre-IPO Series F on July 1, 2014 was co-led by TPG Growth and Coatue Management.
 
 [^43]: TechCrunch, "Chinese local services giant Meituan-Dianping raises $4B led by Tencent and Priceline," October 19, 2017. https://techcrunch.com/2017/10/19/meituan-dianping-raises-4b/ — Coatue's first Meituan investment was the October 19, 2017 $4B Series F round led by Tencent and Priceline.
+
+[^44]: PR Newswire, "CoreWeave Secures $1.1 Billion in Series C Funding to Drive the Next Generation of Cloud Computing for the Future of AI," May 1, 2024. https://www.prnewswire.com/news-releases/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai-302133328.html — Coatue led; Magnetar, Altimeter Capital, Fidelity Management & Research Company, and Lykos Global Management participated.
+
+[^45]: CNBC, "Nvidia-backed GPU cloud provider CoreWeave surges to $19 billion valuation," May 1, 2024. https://www.cnbc.com/2024/05/01/nvidia-backed-gpu-cloud-provider-coreweave-is-worth-19-billion.html — Independent confirmation of $1.1B Series C and $19B post-money valuation.
+
+[^46]: Cursor blog, "Past, Present, and Future," November 13, 2025. https://cursor.com/blog/series-d — Anysphere announces $2.3B Series D at $29.3B valuation; Coatue, NVIDIA, and Google joined as new investors alongside existing investors Accel, Thrive, and Andreessen Horowitz.
+
+[^47]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 2025. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue co-led the financing with Accel; Cursor's Series D values the company at $29.3 billion post-money.

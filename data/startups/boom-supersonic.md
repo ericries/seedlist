@@ -97,7 +97,7 @@ Boom Supersonic (formerly Boom Technology) is an aerospace company founded by Bl
 | Jan 2019 | Series B | $100M ($56M new) | Emerson Collective | Y Combinator Continuity, Caffeinated Capital, SV Angel [^6] |
 | Apr 2021 | Series B extension | $45M | Prime Movers Lab | American Express Ventures (strategic) [^7] |
 | 2023-11-09 | Strategic | Undisclosed | NEOM Investment Fund | — [^8][^12] |
-| Dec 2025 | Series B extension | $300M | Darsana Capital Partners | Altimeter Capital, ARK Invest, Bessemer Venture Partners, Robinhood Ventures, Y Combinator [^4] |
+| 2025-12-09 | Series B extension | $300M (at ~$1.5B valuation) | Darsana Capital Partners | Altimeter Capital, ARK Invest, Bessemer Venture Partners, Robinhood Ventures, Y Combinator [^4][^13][^14] |
 
 Total raised: $700M+ across 12+ rounds [^4].
 
@@ -135,3 +135,7 @@ Total raised: $700M+ across 12+ rounds [^4].
 [^10]: Frequent Flyers News, "Blake Scholl, Founder & CEO of Boom Supersonic," accessed March 2026. https://www.frequentflyersnews.com/industry-professionals/blake-scholl-founder-amp-ceo-of-boom-supersonic
 [^11]: Crunchbase funding round profile, "Seed Round - Boom Supersonic" (March 23, 2016), accessed April 2026. https://www.crunchbase.com/funding_round/boom-technology-seed--2334eee6
 [^12]: PR Newswire, "Boom Supersonic Announces New Aircraft, Engine, and Investment Milestones," November 9, 2023. https://www.prnewswire.com/news-releases/boom-supersonic-announces-new-aircraft-engine-and-investment-milestones-301982758.html
+
+[^13]: TechCrunch, "Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers," December 9, 2025. https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/ — Independent confirmation of December 9, 2025 announcement; $300M Series B led by Darsana Capital Partners with Altimeter, ARK Invest, Bessemer, Robinhood Ventures, Y Combinator participating.
+
+[^14]: BusinessDen, "Boom Supersonic raising $300M at a $1.5B valuation," December 9, 2025. https://businessden.com/2025/12/09/boom-supersonic-raising-300m-at-a-1-5b-valuation/ — Confirms ~$1.5B post-money valuation per CEO Blake Scholl's investor email; round originally targeted $150M but doubled due to investor demand.

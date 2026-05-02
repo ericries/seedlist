@@ -151,7 +151,7 @@ Cursor is an AI-powered code editor built by Anysphere, founded in 2022 by Micha
 | Aug 2024 | Series A | $60M | a16z, Thrive Capital (co-lead) | Patrick Collison [^5] |
 | Dec 2024 | Series B | $105M | Thrive Capital | — [^3] |
 | Jun 2025 | Series C | $900M | Thrive Capital | Andreessen Horowitz, Accel, DST Global [^3] |
-| Nov 2025 | Series D | $2.3B | Accel, Coatue (co-lead) | Thrive Capital, Andreessen Horowitz, DST Global, NVIDIA, Google [^2] |
+| 2025-11-13 | Series D | $2.3B (at $29.3B valuation) | Accel, Coatue (co-lead) | Thrive Capital, Andreessen Horowitz, DST Global, NVIDIA, Google [^2][^6][^7] |
 
 Total raised: approximately $3.5B. Valued at $29.3B as of Series D [^2].
 
@@ -170,3 +170,7 @@ No independently sourced founder testimonials found.
 [^3]: Crunchbase News, "AI-Powered Coding Tool Anysphere Raises $900M at $9.9B Valuation," June 2025, accessed March 2026. https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/
 [^4]: Contrary Research, "Cursor Business Breakdown & Founding Story," accessed March 2026. https://research.contrary.com/company/cursor
 [^5]: TechCrunch, "Anysphere, a GitHub Copilot rival, has raised an over $60M Series A at $400M valuation from a16z, Thrive, sources say," August 9, 2024, accessed March 2026. https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/
+
+[^6]: Cursor blog, "Past, Present, and Future," November 13, 2025, accessed May 2026. https://cursor.com/blog/series-d — Cursor's own announcement of $2.3B Series D at $29.3B valuation; existing investors Accel, Thrive, and Andreessen Horowitz, with Coatue, NVIDIA, and Google joining as new investors.
+
+[^7]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 2025, accessed May 2026. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue and Accel co-led the financing.

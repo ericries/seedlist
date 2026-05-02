@@ -112,7 +112,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Modern Treasury | Series C (lead) | 2021 | Fintech | Active | [^22] |
 | Confluent | Pre-IPO | ~2020 | Data Streaming | Public (IPO 2021); acquired by IBM (2025) | [^23] |
 | Pine Labs | Series B | 2018 | Payments / Fintech | Public (IPO 2025) | [^24] |
-| CoreWeave | Series C | 2024 | AI Infrastructure | Public (IPO 2025) | [^25][^26] |
+| CoreWeave | Series C (participated; Coatue led) | 2024-05-01 | AI Infrastructure | Public (IPO 2025) | [^25][^26][^33] |
 | OpenAI | Growth | ~2023 | AI | Active | [^17] |
 | Anthropic | Series F | 2025 | AI | Active | [^17] |
 | Anduril | Growth | ~2023 | Defense Tech | Active | [^7] |
@@ -120,7 +120,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | K2 Space | Growth | ~2024 | Aerospace | Active | [^7] |
 | Hammerspace | Series B (lead) | 2025 | AI Data Infrastructure | Active | [^27] |
 | Profluent | Series B (co-lead) | 2025 | AI / Biotech | Active | [^28] |
-| Boom Supersonic | Series B | 2025 | Aerospace / Energy | Active | [^29] |
+| Boom Supersonic | Series B (participated; Darsana led) | 2025-12-09 | Aerospace / Energy | Active | [^29][^32] |
 | Castelion | Series B | 2025 | Defense Tech | Active | [^13] |
 | Parloa | Series B (lead) | ~2023 | AI / Customer Service | Active | [^30] |
 | Parloa | Series C | ~2024 | AI / Customer Service | Active | [^30] |
@@ -231,3 +231,7 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^28]: BusinessWire, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 2025. https://www.businesswire.com/news/home/20251119356889/en/Profluent-Raises-$106M-to-Scale-Frontier-AI-Models-for-Programmable-Biology
 [^29]: BusinessWire, "Boom Supersonic to Power AI Data Centers With Superpower Natural Gas Turbines; Adds $300 Million in New Funding," December 2025. https://www.businesswire.com/news/home/20251209195489/en/Boom-Supersonic-to-Power-AI-Data-Centers-With-Superpower-Natural-Gas-Turbines-Adds-$300-Million-in-New-Funding
 [^30]: Parloa, "Parloa Valued at $3 Billion with $350M Series D to Lead Agentic AI for Customer Experience," January 2026. https://www.parloa.com/parloa-in-the-press/parloa-valued-at-3-billion-with-350m-series-d/
+
+[^32]: TechCrunch, "Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers," December 9, 2025. https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/ — Confirms Series B led by Darsana Capital Partners with Altimeter Capital, ARK Invest, Bessemer Venture Partners, Robinhood Ventures, and Y Combinator participating.
+
+[^33]: PR Newswire, "CoreWeave Secures $1.1 Billion in Series C Funding to Drive the Next Generation of Cloud Computing for the Future of AI," May 1, 2024. https://www.prnewswire.com/news-releases/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai-302133328.html — Confirms Coatue led; Altimeter Capital participated alongside Magnetar, Fidelity, and Lykos Global Management. Post-money valuation $19B per CNBC, May 1, 2024 (https://www.cnbc.com/2024/05/01/nvidia-backed-gpu-cloud-provider-coreweave-is-worth-19-billion.html).
