@@ -143,7 +143,7 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 | Series G | Feb 2021 | $1B | $28B | Franklin Templeton | CPP Investments, Fidelity, Whale Rock, AWS, CapitalG, Salesforce Ventures, Microsoft, Andreessen Horowitz, BlackRock, Coatue, T. Rowe Price, Tiger Global [^12] |
 | Series H | Aug 2021 | $1.6B | $38B | Morgan Stanley (Counterpoint Global) | Baillie Gifford, ClearBridge, UC Investments, Andreessen Horowitz, BlackRock, CPP Investments, Coatue, Fidelity, Franklin Templeton, GIC, T. Rowe Price [^13] |
 | Series I | Sep 2023 | $500M | $43B | N/A | N/A [^14] |
-| Series J | Dec 2024 | $10B | $62B | Thrive Capital | Andreessen Horowitz, DST Global, GIC, Insight Partners, WCM Investment Management, Ontario Teachers' Pension Plan, ICONIQ Growth, MGX, Sands Capital, Wellington Management [^15] |
+| Series J | 2024-12-17 | $10B | $62B | Thrive Capital | Andreessen Horowitz, DST Global, GIC, Insight Partners, WCM Investment Management, Ontario Teachers' Pension Plan, ICONIQ Growth, MGX, Sands Capital, Wellington Management [^15][^19][^20] |
 | Series K | Aug 2025 | $1B | $100B+ | N/A | N/A [^16] |
 | Series L | Dec 2025 | $4B+ | $134B | Insight Partners, Fidelity, J.P. Morgan Asset Management | Andreessen Horowitz, BlackRock, Blackstone, Coatue, GIC, MGX, NEA, Ontario Teachers' Pension Plan, Robinhood Ventures, T. Rowe Price, Temasek, Thrive Capital [^17] |
 
@@ -182,3 +182,5 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^16]: Databricks press release, "Databricks is raising a Series K Investment at >$100 billion valuation," August 2025. https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation
 [^17]: TechCrunch, "Databricks raises $4B at $134B valuation as its AI business heats up," December 2025. https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/
 [^18]: Fortune, "How Databricks became an A.I. sensation," March 2023. https://fortune.com/2023/03/02/databricks-ben-horowitz-data-cloud-startup/
+[^19]: PR Newswire, "Databricks is Raising $10B Series J Investment at $62B Valuation," December 17, 2024. https://www.prnewswire.com/news-releases/databricks-is-raising-10b-series-j-investment-at-62b-valuation-302333822.html
+[^20]: Fenwick & West, "Fenwick Represents Databricks in its $10B Series J Financing," December 2024. https://www.fenwick.com/insights/experience/fenwick-represents-databricks-in-its-10-billion-series-j-financing

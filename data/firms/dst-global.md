@@ -67,7 +67,7 @@ The following analysis is based on DST Global's verified portfolio of 214 compan
 
 ### Stage Distribution
 
-DST Global invests overwhelmingly at late stages. Based on Tracxn data, nearly 53% of all deals in the past 5 years have been Series D or later [^6]. The firm's stated preference is for growth-stage companies with proven traction [^7]. Notable exceptions to the late-stage focus include the $1 billion investment in Safe Superintelligence's Series A (September 2024) [^12], suggesting the firm will invest earlier for AI frontier companies.
+DST Global invests overwhelmingly at late stages. Based on Tracxn data, nearly 53% of all deals in the past 5 years have been Series D or later [^6]. The firm's stated preference is for growth-stage companies with proven traction [^7]. Notable exceptions to the late-stage focus include participation in the $1 billion Safe Superintelligence Series A (September 4, 2024) at a $5B valuation [^12][^27], suggesting the firm will invest earlier for AI frontier companies.
 
 ### Geographic Concentration
 
@@ -84,7 +84,7 @@ This geographic diversification is a core differentiator. Milner has stated: "Yo
 Based on managing partner investment data and deal reporting:
 - **Typical range**: $15M-$200M, with a sweet spot around $25M [^14]
 - **Large deals**: $200M+ (Facebook $200M in 2009 [^3]; Twitter $400M in 2011 [^1]; Alibaba ~$1.6B tender offer in 2011 [^1])
-- **Recent mega-deals**: Co-led Databricks $10B Series J in 2024 [^15]
+- **Recent mega-deals**: Co-led Databricks $10B Series J at $62B valuation (December 17, 2024) [^15][^25]
 
 ### Co-investor Patterns
 
@@ -137,9 +137,9 @@ The following table includes DST Global investments verified through press cover
 | Slack | Growth | ~2015 | Enterprise SaaS | Acquired by Salesforce (2021) [^6] |
 | Deliveroo | Growth | ~2017 | Marketplace / Delivery | Public (IPO 2021) [^1] |
 | Ola | Growth | ~2015 | Marketplace / Transportation | Private [^1] |
-| Databricks | Series J (co-led) | 2024 | Enterprise / Data & AI | Private [^15] |
-| Safe Superintelligence (SSI) | Series A | 2024 | AI | Private [^12] |
-| Reflection AI | Series B | 2025 | AI / Frontier Models | Private [^6] |
+| Databricks | Series J (co-led) | 2024-12-17 | Enterprise / Data & AI | Private [^15][^25][^26] |
+| Safe Superintelligence (SSI) | Series A (participated) | 2024-09-04 | AI | Private [^12][^27][^28] |
+| Reflection AI | Series B (participated; NVIDIA-led) | 2025-10-09 | AI / Frontier Models | Private [^6][^29][^30] |
 | Distyl AI | Series B | 2025 | Enterprise AI | Private [^6] |
 | Upgrade | Series G | 2025 | Fintech / Consumer Lending | Private [^6] |
 | Console | Series A | 2025 | AI / IT Operations | Private [^6] |
@@ -247,3 +247,15 @@ No independently sourced negative or critical founder testimonials were found in
 [^23]: "Yuri Milner Says Twitter Is Relevant, Is a Global Project." Bloomberg, April 12, 2016. https://www.bloomberg.com/news/videos/2016-04-12/yuri-milner-says-twitter-is-relevant-is-a-global-project.
 
 [^24]: "Quince raises $500M Series E at $10.1B valuation," TechCrunch, March 11, 2026. https://techcrunch.com/2026/03/11/quince-series-e/
+
+[^25]: "Databricks is Raising $10B Series J Investment at $62B Valuation." PR Newswire, December 17, 2024. https://www.prnewswire.com/news-releases/databricks-is-raising-10b-series-j-investment-at-62b-valuation-302333822.html. Accessed April 2026.
+
+[^26]: "Fenwick Represents Databricks in its $10B Series J Financing." Fenwick & West, December 2024. https://www.fenwick.com/insights/experience/fenwick-represents-databricks-in-its-10-billion-series-j-financing. Accessed April 2026.
+
+[^27]: "Safe Superintelligence Inc." SSI updates page, September 4, 2024. https://ssi.inc/updates. Accessed April 2026.
+
+[^28]: "The 10 Biggest Rounds Of September: Safe Superintelligence's $1B Raise Reigns Supreme." Crunchbase News, October 2024. https://news.crunchbase.com/venture/biggest-rounds-september-2024-safe-superintelligence-candid-therapeutics/. Accessed April 2026.
+
+[^29]: "Reflection AI raises $2B to be America's open frontier AI lab, challenging DeepSeek." TechCrunch, October 9, 2025. https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/. Accessed April 2026.
+
+[^30]: "Wilson Sonsini Advises Reflection AI on $2 Billion Funding Round." Wilson Sonsini, October 2025. https://www.wsgr.com/en/insights/wilson-sonsini-advises-reflection-ai-on-dollar2-billion-funding-round.html. Accessed April 2026.

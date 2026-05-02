@@ -115,7 +115,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | ElevenLabs | Series C ($180M, co-lead, $3.3B valuation) | 2024 | AI/Voice | Active | [^24] [^33] |
 | ElevenLabs | Series D ($500M, $11B valuation) | 2025 | AI/Voice | Active | [^24] [^34] |
 | Anthropic | Series G (co-lead) | 2025 | AI/Foundation Models | Active | [^10] [^3] |
-| Databricks | Late-stage ($10B round) | 2024 | AI/Data Platform | Active | [^3] |
+| Databricks | Series J ($10B, participated) | 2024-12-17 | AI/Data Platform | Active | [^3][^42] |
 | Quince | Series D ($200M, lead, $4.5B valuation) | 2025-07-29 | Consumer/E-commerce | Active | [^3] [^40] |
 | Lead Bank | Series B | 2025 | Fintech | Active | [^10] |
 | Legora | Series B | 2025 | AI/Legal | Active | [^10] |
@@ -265,3 +265,5 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^40]: Crunchbase News, "Quince, A Bright Spot In Struggling D2C Fashion Space, More Than Doubles Valuation To $4.5B With Second Raise In 6 Months," July 29, 2025. https://news.crunchbase.com/e-commerce/iconiq-investment-doubles-quince-valuation/
 
 [^41]: Glean press release, "Glean Announces Over $200M Series D to Accelerate Secure Deployment of Generative AI in the Enterprise," BusinessWire, February 27, 2024. https://www.businesswire.com/news/home/20240227101592/en/Glean-Announces-Over-%24200M-Series-D-to-Accelerate-Secure-Deployment-of-Generative-AI-in-the-Enterprise
+
+[^42]: Databricks press release, "Databricks is Raising $10B Series J Investment at $62B Valuation," December 17, 2024. https://www.databricks.com/company/newsroom/press-releases/databricks-raising-10b-series-j-investment-62b-valuation — ICONIQ Growth named as a new investor in the Series J. Cross-referenced with PR Newswire, https://www.prnewswire.com/news-releases/databricks-is-raising-10b-series-j-investment-at-62b-valuation-302333822.html.
