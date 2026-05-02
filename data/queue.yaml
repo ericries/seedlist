@@ -20339,3 +20339,125 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: adrien-treuille
+- name: iGlobe Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nura-studios
+- name: Fellows Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nura-studios
+- name: Shanda Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nura-studios
+- name: Sylvio Drouin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Nura Studios
+  discovered_from: nura-studios
+- name: Stefano Corazza
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Nura Studios
+  discovered_from: nura-studios
+- name: SuperSeed
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: all3
+- name: Begin Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: all3
+- name: s16vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: all3
+- name: VNV Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: all3
+- name: Rodion Shishkov
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: All3
+  discovered_from: all3
+- name: Seraphim Space
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: online-oceans
+- name: Koro Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: online-oceans
+- name: Peter Rive
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: online-oceans
+- name: Frank Thieser
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: online-oceans
+- name: Florian Seibel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: online-oceans
+- name: AI Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shapes
+- name: AI Grant
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shapes
+- name: Anushk Mittal
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Shapes
+  discovered_from: shapes
+- name: Noorie Dhingra
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Shapes
+  discovered_from: shapes

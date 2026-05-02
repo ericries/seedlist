@@ -1,7 +1,11 @@
 ---
 founded: 2000
 fund_size: $1B (Fund IV, 2023); $650M (Fund III, 2020); $200M (Fund II, 2018)
-last_researched: 2026-03-25
+last_researched: 2026-05-02
+last_verified_investment:
+  date: 2026-04-29
+  company: All3
+  round: Seed
 location: New York, NY
 name: RTP Global
 sector_focus:
@@ -174,6 +178,7 @@ Based on 50 verified portfolio entries from the firm's own portfolio page [^8], 
 | Recall | Series B | 2025 | AI/Data Analytics | Live |
 | Attention | Series A | 2025 | AI/ML | Live |
 | Kestra | Series A | 2026 | Data Analytics/SaaS | Live |
+| All3 | Seed | 2026 | Robotics/Construction | Live [^19] |
 
 *This table represents approximately 50 of 200+ known investments (~25%). Investment years for some entries use the round date as listed on the firm's portfolio page [^8]. For early investments (2011–2015), year data is sourced from press releases and Crunchbase where available.*
 
@@ -247,3 +252,4 @@ No additional independently sourced founder testimonials were found during resea
 [^16]: TASS, "Leonid Boguslavsky: Our team is bound to become a legend," accessed March 2026. https://tass.com/business-officials/1229615
 [^17]: RTP Global, "Expanding our European and US Investment Teams," accessed March 2026. https://rtp.vc/expanding-our-european-and-us-investment-teams/
 [^18]: AIThority, "AI-Powered Noise Removal App Krisp Raises $9 Million Series-A," February 2021. https://aithority.com/apps/ai-powered-noise-removal-app-krisp-raises-9-million-series-a/
+[^19]: Robotics Tomorrow, "All3 raises $25m in Seed funding to triple productivity in the construction industry through robotics and AI," April 29, 2026, accessed May 2026. https://www.roboticstomorrow.com/news/2026/04/29/all3-raises-25m-in-seed-funding-to-triple-productivity-in-the-construction-industry-through-robotics-and-ai/26489/
