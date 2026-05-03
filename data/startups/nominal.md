@@ -56,7 +56,7 @@ Nominal is an Austin, Texas-based developer of a data infrastructure and AI plat
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | Sep 2025 | Series B | $75M | Sequoia Capital | — [^2] |
-| Mar 2026 | Series B Extension | $80M | Founders Fund | Sequoia, General Catalyst, Lux Capital, Red Glass, Lightspeed [^1] |
+| 2026-03-05 | Series B Extension (Series B-2 Acceleration; $1B valuation) | $80M | Founders Fund | Sequoia, General Catalyst, Lux Capital, Red Glass, Lightspeed [^1][^2] |
 
 Total raised: $155M over 10 months. Valued at $1B as of March 2026 [^1].
 

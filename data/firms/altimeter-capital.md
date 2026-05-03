@@ -118,8 +118,8 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Anduril | Growth | ~2023 | Defense Tech | Active | [^7] |
 | SpaceX | Secondary/Growth | ~2023 | Aerospace | Active | [^7] |
 | K2 Space | Growth | ~2024 | Aerospace | Active | [^7] |
-| Hammerspace | Series B (lead) | 2025 | AI Data Infrastructure | Active | [^27] |
-| Profluent | Series B (co-lead) | 2025 | AI / Biotech | Active | [^28] |
+| Hammerspace | Series B (lead, $100M at $500M+ valuation) | 2025-04-16 | AI Data Infrastructure | Active | [^27][^34][^35] |
+| Profluent | Series B (co-lead with Bezos Expeditions, $106M) | 2025-11-19 | AI / Biotech | Active | [^28][^36][^37] |
 | Boom Supersonic | Series B (participated; Darsana led) | 2025-12-09 | Aerospace / Energy | Active | [^29][^32] |
 | Castelion | Series B | 2025 | Defense Tech | Active | [^13] |
 | Parloa | Series B (lead) | ~2023 | AI / Customer Service | Active | [^30] |
@@ -235,3 +235,11 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^32]: TechCrunch, "Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers," December 9, 2025. https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/ — Confirms Series B led by Darsana Capital Partners with Altimeter Capital, ARK Invest, Bessemer Venture Partners, Robinhood Ventures, and Y Combinator participating.
 
 [^33]: PR Newswire, "CoreWeave Secures $1.1 Billion in Series C Funding to Drive the Next Generation of Cloud Computing for the Future of AI," May 1, 2024. https://www.prnewswire.com/news-releases/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai-302133328.html — Confirms Coatue led; Altimeter Capital participated alongside Magnetar, Fidelity, and Lykos Global Management. Post-money valuation $19B per CNBC, May 1, 2024 (https://www.cnbc.com/2024/05/01/nvidia-backed-gpu-cloud-provider-coreweave-is-worth-19-billion.html).
+
+[^34]: TechCrunch, "Hammerspace, an unstructured data wrangler used by Meta, raises $100M at $500M+ valuation," April 16, 2025, accessed April 2026. https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-100m/ — Confirms Series B announcement date of April 16, 2025; $100M raised at $500M+ valuation; Altimeter Capital led with ARK Invest participating.
+
+[^35]: SiliconANGLE, "Hammerspace nabs $100M for its Linux-powered data management platform," April 16, 2025, accessed April 2026. https://siliconangle.com/2025/04/16/hammerspace-nabs-100m-linux-powered-data-management-platform/ — Confirms April 16, 2025 Series B announcement, $100M led by Altimeter with ARK Invest participating.
+
+[^36]: SiliconANGLE, "Profluent Bio raises $106M from Jeff Bezos and others to accelerate protein design with AI," November 20, 2025, accessed April 2026. https://siliconangle.com/2025/11/20/profluent-bio-raises-106m-jeff-bezos-others-accelerate-protein-design-ai/ — Confirms Series B co-led by Altimeter Capital and Bezos Expeditions; Spark Capital, Insight Partners, and Air Street Capital participated.
+
+[^37]: CRISPR Medicine News press release service, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 19, 2025, accessed April 2026. https://crisprmedicinenews.com/press-release-service/card/profluent-raises-106m-to-scale-frontier-ai-models-for-programmable-biology/ — Confirms November 19, 2025 announcement date; Altimeter Capital and Bezos Expeditions co-led; total funding to date $150M.

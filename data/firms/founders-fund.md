@@ -235,7 +235,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Mnzil | Early | ~2023 (founded) | Enterprise (Middle East) | Private [^20] |
 | EnduroSat | Growth | ~2015 (founded) | Aerospace / Satellite | Private [^20] |
 | Anthropic | Series G | 2026 | AI | Private [^26] |
-| Nominal | Series B Extension | 2026 | Defense Tech / Hardware | Private [^35] |
+| Nominal | Series B Extension (led, $80M at $1B valuation) | 2026-03-05 | Defense Tech / Hardware | Private [^35][^42] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -358,3 +358,5 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^40]: GlobeNewswire, "Crusoe Closes $600M in Series D Round at $2.8 Billion Valuation to Power AI," December 12, 2024. https://www.globenewswire.com/news-release/2024/12/12/2996138/0/en/Crusoe-Closes-600M-in-Series-D-Round-at-2-8-Billion-Valuation-to-Power-AI.html
 
 [^41]: "Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows." TechCrunch, November 21, 2024. https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/
+
+[^42]: GlobeNewsWire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026, accessed April 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html — Confirms March 5, 2026 announcement; $80M Series B-2 Acceleration Round led by Founders Fund at $1B valuation; Sequoia, Lux, General Catalyst, Lightspeed, and Red Glass participated.

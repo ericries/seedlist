@@ -146,6 +146,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Granola | Series A | 2024-10-23 | AI/Productivity | [^9][^38] |
 | Shepherd | Series B | 2026-03-24 | Insurtech/AI | [^12] |
 | Standard Intelligence | Series A (co-led with Sequoia) | 2026-04-30 | AI / Foundation Models | [^40][^41][^42] |
+| Profluent | Series B (existing investor) | 2025-11-19 | AI / Programmable Biology | [^43][^44] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -211,3 +212,7 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^41]: Sequoia Capital, "Standard Intelligence: Training General Intelligence in Pixel Space," by Sonya Huang, April 30, 2026. https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/ — Confirms Spark Capital partners Mikowai Ashwill and Yasmin Razavi co-led the round with Sequoia's Sonya Huang.
 
 [^42]: Pulse 2.0, "Standard Intelligence Raises $75 Million From Sequoia And Spark Capital To Scale AGI Research," April 30, 2026. https://pulse2.com/standard-intelligence-raises-75-million-from-sequoia-and-spark-capital-to-scale-agi-research/ — Angel investors include Andrej Karpathy, Stanley Druckenmiller, and Milan Kovac.
+
+[^43]: SiliconANGLE, "Profluent Bio raises $106M from Jeff Bezos and others to accelerate protein design with AI," November 20, 2025, accessed April 2026. https://siliconangle.com/2025/11/20/profluent-bio-raises-106m-jeff-bezos-others-accelerate-protein-design-ai/ — Confirms Spark Capital participated as existing investor in $106M Series B co-led by Bezos Expeditions and Altimeter Capital.
+
+[^44]: CRISPR Medicine News press release service, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 19, 2025, accessed April 2026. https://crisprmedicinenews.com/press-release-service/card/profluent-raises-106m-to-scale-frontier-ai-models-for-programmable-biology/ — Confirms Spark Capital, Insight Partners, and Air Street Capital participated as existing investors.
