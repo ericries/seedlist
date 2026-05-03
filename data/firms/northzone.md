@@ -2,7 +2,7 @@
 founded: 1996
 fund_size: €1B (Fund X, 2022); $500M (Fund IX, 2019); €300M (Fund VIII, 2016); total
   raised >€2.5B across 10 funds
-last_researched: 2026-03-24
+last_researched: 2026-05-03
 location: London, United Kingdom
 name: Northzone
 sector_focus:
@@ -126,10 +126,11 @@ Based on 30 verified portfolio investments, the following patterns emerge. Note:
 | GovDash | Series A | 2024 | AI gov-tech | Active [^25] |
 | Jow | Series A ext. | 2024 | Meal planning | Active [^26] |
 | Black Forest Labs | Series A | 2024 | AI image generation | Active ($3.25B valuation at Series B) [^27] |
-| Genesis AI | Seed | 2025 | Robotics AI | Active [^28] |
-| CuspAI | Series A | 2025 | AI materials | Active [^10] |
-| Tandem Health | Series A | 2025 | Healthcare | Active [^10] |
+| Genesis AI | Seed ($105M) | 2025-07-01 | Robotics AI | Active [^28][^35] |
+| CuspAI | Seed ($30M) | 2024-06-18 | AI materials | Active [^36] |
+| Tandem Health | Seed, Series A ($50M) | 2024, 2025-06-30 | Healthcare | Active [^10][^37] |
 | XBOW | Series C (co-led) | 2026 | AI cybersecurity | Active ($1B+ valuation) [^15] |
+| OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^32][^33][^34] |
 
 This table represents approximately 15% of Northzone's ~207 total investments [^10]. Many entries use founding year as a proxy where exact investment year could not be verified.
 
@@ -188,3 +189,15 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 [^29]: Venture Desktop (Substack), "A conversation with Paul Murphy, General Partner at Northzone," 2020, accessed March 2026. https://venturedesktop.substack.com/p/paul-murphy
 [^30]: TechCrunch, "Northzone's Paul Murphy goes deep on the next era of gaming," June 2019, accessed March 2026. https://techcrunch.com/2019/06/21/northzones-paul-murphy-on-gaming/
 [^31]: Northzone blog, "Meet the Operator Network: Northzone's Powerhouse Resource for Portfolio Companies," August 2024, accessed March 2026. https://northzone.com/2024/08/05/meet-the-operator-network-northzones-powerhouse-resource-for-portfolio-companies/
+
+[^32]: OpenFX blog, "OpenFX Raises $94M Series A to Build the API Infrastructure for Global FX Liquidity," March 31, 2026, accessed May 2026. https://www.openfx.com/blog/announcing-openfx-s-94m-series-a
+
+[^33]: Northzone, "Partnering with OpenFX: Rewiring the $200 Trillion Global Cross-Border Payments Market," accessed May 2026. https://northzone.com/insights/partnering-with-openfx-rewiring-the-200-trillion-global-cross-border-payments-market
+
+[^34]: BusinessWire, "OpenFX Raises $94 Million Series A to Scale Cross-Border Money Movement," March 31, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260330586743/en/OpenFX-Raises-$94-Million-Series-A-to-Scale-Cross-Border-Money-Movement
+
+[^35]: TechCrunch, "Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots," July 1, 2025, accessed May 2026. https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/
+
+[^36]: Northzone, "Our Investment in CuspAI: Pioneering AI-Designed Materials to Combat Climate Change," June 18, 2024, accessed May 2026. https://northzone.com/insights/our-investment-in-cuspai-pioneering-ai-designed-materials-to-combat-climate-change
+
+[^37]: Tandem Health, "Tandem secures $50M to build an AI-native operating system for clinical workflows across Europe," June 30, 2025, accessed May 2026. https://www.tandemhealth.ai/news-articles/tandem-secures-50m-to-build-an-ai-native-operating-system-for-clinical-workflows-across-europe

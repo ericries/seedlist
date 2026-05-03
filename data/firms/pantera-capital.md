@@ -51,7 +51,7 @@ team:
     role: Partner
     slug: lauren-stephanian
 status: published
-last_researched: 2026-03-23
+last_researched: 2026-05-03
 ---
 
 ## About
@@ -143,9 +143,9 @@ The following table represents a sample of Pantera Capital's portfolio. The firm
 | Gemini | Venture | ~2021 | Exchange / Custody | IPO (2025) [^10] |
 | Amber Group | Venture | ~2021 | Institutional Services | IPO (2025) [^10] |
 | M^Zero | Seed | 2023 | DeFi / Infrastructure | Active [^11] |
-| RedotPay | Series B | 2025 | Payments / Stablecoin | Active [^13] |
-| Accountable | Seed | 2025 | Analytics / Identity | Active [^10][^13] |
-| TransCrypts | Seed | 2025 | Data / Identity | Active [^13] |
+| RedotPay | Series B ($107M) | 2025-12-16 | Payments / Stablecoin | Active [^13][^24] |
+| Accountable | Seed ($7.5M, led) | 2025-10-29 | Analytics / Identity | Active [^10][^25] |
+| TransCrypts | Seed ($15M, led) | 2025-10-08 | Data / Identity | Active [^13][^26] |
 | Meanwhile | Venture | 2025 | Insurance / Crypto | Active [^13] |
 | Coinflow | Series A | 2025 | Payments | Active [^13] |
 | Fin (TipLink) | Series A | 2025 | Payments / Solana | Active [^13] |
@@ -155,6 +155,7 @@ The following table represents a sample of Pantera Capital's portfolio. The firm
 | Symbiotic | Venture | 2025 | Infrastructure | Active [^10] |
 | OpenMind | Venture | 2025 | AI / Robotics | Active [^10] |
 | Surf AI | Venture | 2025 | AI / Analytics | Active [^13] |
+| OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^21][^22][^23] |
 
 Note: Years marked with "~" indicate approximate dates based on founding year proxies or fund vintage timing, as exact investment dates could not be independently verified for all entries. This table represents approximately 15% of Pantera's 265+ total investments.
 
@@ -206,3 +207,15 @@ No additional independently sourced founder testimonials found. The quotes above
 [^18]: The Motley Fool, "Talking Crypto With Dan Morehead, CEO of Pantera Capital," April 2021. https://www.fool.com/investing/2021/04/06/talking-crypto-with-dan-morehead-ceo-of-pantera-ca/
 [^19]: Blockworks, "How Pantera's Paul Veradittakit spots crypto unicorns," accessed March 2026. https://blockworks.co/news/pantera-paul-veradittakit-crypto-unicorns-fund-v
 [^20]: Pantera Capital, "Blog — 2022 In Review — Platform Team," 2022. https://panteracapital.com/blog-2022-in-review-platform-team/
+
+[^21]: OpenFX blog, "OpenFX Raises $94M Series A to Build the API Infrastructure for Global FX Liquidity," March 31, 2026, accessed May 2026. https://www.openfx.com/blog/announcing-openfx-s-94m-series-a
+
+[^22]: BusinessWire, "OpenFX Raises $94 Million Series A to Scale Cross-Border Money Movement," March 31, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260330586743/en/OpenFX-Raises-$94-Million-Series-A-to-Scale-Cross-Border-Money-Movement
+
+[^23]: Crowdfund Insider, "OpenFX Raises $94M Series A," April 2026, accessed May 2026. https://www.crowdfundinsider.com/2026/04/271046-openfx-raises-94m-series-a/
+
+[^24]: RedotPay press release, "RedotPay Raises US$107M in Series B to Drive Stablecoin Payments Adoption Globally," December 16, 2025, accessed May 2026. https://www.redotpay.com/news/redotpay-raises-us107m-in-series-b-to-drive-stablecoin-payments-adoption-globally
+
+[^25]: Blockworks, "Pantera leads $7.5M round for Accountable: Exclusive," October 29, 2025, accessed May 2026. https://blockworks.com/news/pantera-funding-round-accountable
+
+[^26]: GlobeNewswire, "TransCrypts Raises $15M Seed Round to Combat AI Fraud and Redefine Digital Identity Verification," October 8, 2025, accessed May 2026. https://www.globenewswire.com/news-release/2025/10/08/3163196/0/en/TransCrypts-Raises-15M-Seed-Round-to-Combat-AI-Fraud-and-Redefine-Digital-Identity-Verification.html

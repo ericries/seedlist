@@ -2,7 +2,7 @@
 founded: 1983
 fund_size: $9.6B current fund size; $19.56B total raised across all funds; $4B growth
   fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)
-last_researched: 2026-05-01
+last_researched: 2026-05-03
 location: Palo Alto, CA
 name: Accel
 sector_focus:
@@ -216,6 +216,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Legora | Series D (led) | 2026 | AI/Legal Tech | [^16] |
 | Oolka | Series A (led, ₹130 Cr) | 2026 | Fintech/AI/India | [^37] |
 | Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
+| OpenFX | Series A ($94M, co-led) | 2026-03-31 | Fintech/Stablecoin/FX | [^45][^46][^47] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -288,3 +289,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^43]: Outlook Business, "Sahi Raises $33 Mn in Series B Led by Accel, Eyes AI-Led Growth," April 2026, accessed May 2026. https://www.outlookbusiness.com/corporate/sahi-series-b-funding-33mn-accel-ai-trading-platform
 
 [^44]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale
+
+[^45]: OpenFX blog, "OpenFX Raises $94M Series A to Build the API Infrastructure for Global FX Liquidity," March 31, 2026, accessed May 2026. https://www.openfx.com/blog/announcing-openfx-s-94m-series-a
+
+[^46]: BusinessWire, "OpenFX Raises $94 Million Series A to Scale Cross-Border Money Movement," March 31, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260330586743/en/OpenFX-Raises-$94-Million-Series-A-to-Scale-Cross-Border-Money-Movement
+
+[^47]: Crowdfund Insider, "OpenFX Raises $94M Series A," April 2026, accessed May 2026. https://www.crowdfundinsider.com/2026/04/271046-openfx-raises-94m-series-a/

@@ -2,7 +2,7 @@
 founded: 2013
 fund_size: $50M (Fund I, 2016); $175M (Fund II, 2018); $260M across two vehicles (2023);
   ~$692M total deployed over 25 years
-last_researched: 2026-03-24
+last_researched: 2026-05-03
 location: New York, NY
 name: FJ Labs
 sector_focus:
@@ -104,11 +104,11 @@ FJ Labs has invested in 1,192 unique companies with 355 exits as of early 2025 [
 | Rebag | Early Stage | ~2018 | eCommerce / Marketplace | Active [^7] |
 | Clutch | Early Stage | ~2019 | Automotive / Marketplace | Active [^7] |
 | Palmstreet | Seed | ~2021 | eCommerce / Marketplace | Active [^7] |
-| Midas | Seed | ~2024 | Fintech / DeFi | Active [^7] |
+| Midas | Seed ($8.75M) | 2024-03-28 | Fintech / DeFi | Active [^7][^20] |
 | Caramel | Early Stage | ~2021 | Automotive / Marketplace | Acquired (eBay) [^15] |
 | Playtomic | Early Stage | ~2022 | Sports / Marketplace | Active [^15] |
 | Neo Financial | Early Stage | ~2020 | Fintech | Active [^15] |
-| Leland | Series A | ~2023 | Edtech / Marketplace | Active [^15] |
+| Leland | Seed (existing); Series A ($12M) | 2023, 2025-06-13 | Edtech / Marketplace | Active [^15][^21] |
 | 180 Seguros | Series B | ~2020 | Fintech / Insurtech | Active [^14] |
 | A.Team | Series A | ~2021 | Recruitment / Marketplace | Active [^14] |
 | Photoroom | Seed | ~2021 | AI / Consumer | Active [^7] |
@@ -116,6 +116,7 @@ FJ Labs has invested in 1,192 unique companies with 355 exits as of early 2025 [
 | Bubble | Early Stage | ~2019 | Developer Tools | Active [^16] |
 | Odeko | Early Stage | ~2020 | B2B Marketplace | Active [^16] |
 | Snackpass | Early Stage | ~2020 | Food / Marketplace | Active [^16] |
+| Snabbit | Series D ($56M, participated) | 2026-04-27 | Home Services / India | Active [^17][^18][^19] |
 
 *Note: This table represents approximately 2.5% of FJ Labs' 1,192 verified investments. Many entries use approximate years based on available sourcing. The firm's portfolio page lists 900+ companies across all sectors and geographies [^14].*
 
@@ -161,3 +162,13 @@ No independently sourced founder testimonials found. FJ Labs' website and market
 [^14]: FJ Labs portfolio page, accessed March 2026. https://www.fjlabs.com/portfolio
 [^15]: FJ Labs, Crunchbase company profile, accessed March 2026. https://www.crunchbase.com/organization/fj-labs
 [^16]: FJ Labs, NYC Founder Guide, accessed March 2026. https://www.nycfounderguide.com/investors/fj-labs
+
+[^17]: TechCrunch, "India's Snabbit closes $56M round as investor interest in on-demand home services heats up," April 27, 2026, accessed May 2026. https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/
+
+[^18]: Inc42, "Snabbit Raises $56 Mn To Deepen Quick Home Services Playbook," April 2026, accessed May 2026. https://inc42.com/buzz/snabbit-raises-56-mn-to-deepen-quick-home-services-playbook/
+
+[^19]: Business Standard, "Snabbit raises $56 mn in Series D round as home-services race intensifies," April 28, 2026, accessed May 2026. https://www.business-standard.com/companies/start-ups/snabbit-raises-56-mn-in-series-d-round-as-home-services-race-intensifies-126042800719_1.html
+
+[^20]: Fabrice Grinda, "Introducing the latest FJ Labs incubation: Midas," March 2024, accessed May 2026. https://fabricegrinda.com/introducing-the-latest-fj-labs-incubation-midas/
+
+[^21]: Leland blog, "Announcing our $12M Series A Led by Forerunner Ventures," June 13, 2025, accessed May 2026. https://www.joinleland.com/library/a/announcing-our-12m-series-a-led-by-forerunner-ventures
