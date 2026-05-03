@@ -158,11 +158,11 @@ Based on 50 verified portfolio entries from the firm's own portfolio page [^8], 
 | Emma | Seed | 2022 | Data Analytics | Live |
 | Fintecture | Series A | 2022 | Fintech | Live |
 | SDF Labs | Seed | 2023 | Data Analytics/SaaS | Live |
-| Recraft | Series A | 2023 | AI/ML | Live |
-| Varaha | Seed | 2023 | Agriculture/CleanTech | Live |
-| Supercritical | Series A | 2023 | CleanTech/SaaS | Live |
+| Recraft | Series A | 2024 | AI/ML | Live [^20] |
+| Varaha | Series A | 2024 | Agriculture/CleanTech | Live [^23] |
+| Supercritical | Series A | 2023 | CleanTech/SaaS | Live [^21] |
 | Augment | Seed | 2023 | Edtech | Live |
-| Yonder | Series A | 2023 | Fintech | Live |
+| Yonder | Series A | 2023 | Fintech | Live [^22] |
 | Bytewax | Seed | 2023 | AI/ML | Exited |
 | Comun | Series A | 2024 | Fintech | Live |
 | Conduktor | Series B | 2024 | Data Analytics | Live |
@@ -253,3 +253,7 @@ No additional independently sourced founder testimonials were found during resea
 [^17]: RTP Global, "Expanding our European and US Investment Teams," accessed March 2026. https://rtp.vc/expanding-our-european-and-us-investment-teams/
 [^18]: AIThority, "AI-Powered Noise Removal App Krisp Raises $9 Million Series-A," February 2021. https://aithority.com/apps/ai-powered-noise-removal-app-krisp-raises-9-million-series-a/
 [^19]: Robotics Tomorrow, "All3 raises $25m in Seed funding to triple productivity in the construction industry through robotics and AI," April 29, 2026, accessed May 2026. https://www.roboticstomorrow.com/news/2026/04/29/all3-raises-25m-in-seed-funding-to-triple-productivity-in-the-construction-industry-through-robotics-and-ai/26489/
+[^20]: Recraft press release, "Recraft secures $12 million Series A funding to advance research and development of generative AI graphic design," January 18, 2024, accessed May 2026. https://www.recraft.ai/news/series-a-announcement
+[^21]: TechCrunch, "Supercritical, a carbon removal marketplace aimed at tech firms, raises $13M Series A led by Lightspeed," June 21, 2023, accessed May 2026. https://techcrunch.com/2023/06/21/supercritical-a-carbon-removal-marketplace-aimed-at-tech-firms-raises-13m-series-a-led-by-lightspeed/
+[^22]: UKTechNews, "Yonder Technology (t/a Yonder) secures £62.5 million Series A investment co-led by Northzone and RTP Global," April 17, 2023, accessed May 2026. https://www.uktechnews.info/2023/04/17/yonder-technology-t-a-yonder-secures-62-5-million-series-a-investment-co-led-by-northzone-and-rtp-global/
+[^23]: TechNode Global, "India's Varaha raises $8.7M in Series A funding round led by RTP Global," February 22, 2024, accessed May 2026. https://technode.global/2024/02/22/indias-varaha-raises-8-7m-in-series-a-funding-round-led-by-rtp-global/
