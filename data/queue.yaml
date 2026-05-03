@@ -18643,7 +18643,7 @@ queue:
 - name: Kevin Lin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Twitch (co-founder, angel)
   discovered_from: steve-huffman
@@ -20226,7 +20226,7 @@ queue:
 - name: Marco Arment
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: david-karp
 - name: Betaworks
@@ -20461,3 +20461,99 @@ queue:
   added: '2026-03-17'
   firm: Shapes
   discovered_from: shapes
+- name: Metatheory
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: Lifelike Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: 886 Studios
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: Jonathan Lai
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: kevin-lin
+- name: Randy Lee
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lifelike Capital
+  discovered_from: kevin-lin
+- name: Jason Lin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lifelike Capital
+  discovered_from: kevin-lin
+- name: Sean Neville
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Catena Labs
+  discovered_from: kevin-lin
+- name: Catena Labs
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: DuskBreakers
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: KRAFTON
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: Dragonfly Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: Pillar VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-lin
+- name: Andrew Mason
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: marco-arment
+- name: Charles Duhigg
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: marco-arment
+- name: Knight Foundation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marco-arment
