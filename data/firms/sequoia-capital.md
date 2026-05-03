@@ -217,9 +217,9 @@ The following table includes Sequoia Capital investments verified through the fi
 | Clay | Series A (lead) | 2023 | AI / Sales | Private [^13][^41] |
 | Sierra | Seed (co-led with Benchmark) | 2024-02-13 | AI / Customer Service | Private [^13][^42] |
 | Anthropic | Growth | 2026 | AI | Private [^20] |
-| Nominal | Series B (led) | 2025 | Defense Tech / Hardware | Private [^25] |
-| Oasis Security | Series A | 2024 | Cybersecurity / Identity | Private [^26] |
-| Grow Therapy | Series C (led) | 2024 | Healthcare / Mental Health | Private [^27] |
+| Nominal | Series B (led) | 2025-06-12 | Defense Tech / Hardware | Private [^25][^49][^50][^51] |
+| Oasis Security | Series A (led) | 2024-01-31 | Cybersecurity / Identity | Private [^26][^52][^53] |
+| Grow Therapy | Series C (led) | 2024-04-08 | Healthcare / Mental Health | Private [^27][^54][^55] |
 | Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Private [^28] |
 | Auctor | Series A (led) | 2026 | AI / Enterprise Software | Private [^29] |
 | Ineffable Intelligence | Seed (co-led) | 2026 | AI / Foundation Models | Private [^30] |
@@ -392,3 +392,17 @@ The following table includes Sequoia Capital investments verified through the fi
 [^47]: Sequoia Capital, "Standard Intelligence: Training General Intelligence in Pixel Space," by Sonya Huang, April 30, 2026. https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/ — Sonya Huang led the investment for Sequoia, partnering with Miko Ashwill and Yasmin Razavi at Spark.
 
 [^48]: Pulse 2.0, "Standard Intelligence Raises $75 Million From Sequoia And Spark Capital To Scale AGI Research," April 30, 2026. https://pulse2.com/standard-intelligence-raises-75-million-from-sequoia-and-spark-capital-to-scale-agi-research/ — Confirms Andrej Karpathy, Stanley Druckenmiller, and Milan Kovac participated as angel investors.
+
+[^49]: PR Newswire, "Nominal Raises $75 Million, led by Sequoia Capital, to Modernize Hardware Testing," June 12, 2025. https://www.prnewswire.com/news-releases/nominal-raises-75-million-led-by-sequoia-capital-to-modernize-hardware-testing-302479991.html — accessed May 2026.
+
+[^50]: Bloomberg, "Sequoia Leads $75 Million Deal for Defense, Industrial Startup Nominal," June 12, 2025. https://www.bloomberg.com/news/articles/2025-06-12/sequoia-leads-75-million-deal-for-defense-industrial-startup-nominal — accessed May 2026.
+
+[^51]: Sequoia Capital, "Partnering with Nominal: Powering the Next Era of Hardware Engineering." https://sequoiacap.com/article/partnering-with-nominal-powering-the-next-era-of-hardware-engineering/ — accessed May 2026.
+
+[^52]: TechCrunch, "Oasis Security leaves stealth with $40M to lock down the wild west of non-human identity management," January 31, 2024. https://techcrunch.com/2024/01/31/oasis-security-leaves-stealth-with-40m-to-lock-down-the-wild-west-of-non-human-identity-management/ — accessed May 2026.
+
+[^53]: CTech, "Oasis Security raises $35 million Series A to resolve non-human identity security challenge," January 2024. https://www.calcalistech.com/ctechnews/article/sy11imiv96 — accessed May 2026.
+
+[^54]: PR Newswire, "Grow Therapy Raises $88M Sequoia Capital-Led Series C to Advance Effective Mental Healthcare," April 8, 2024. https://www.prnewswire.com/news-releases/grow-therapy-raises-88m-sequoia-capital-led-series-c-to-advance-effective-mental-healthcare-302110579.html — accessed May 2026.
+
+[^55]: Behavioral Health Business, "Grow Therapy Raises $88M in Series C, Secures Unicorn Status," April 8, 2024. https://bhbusiness.com/2024/04/08/grow-therapy-raises-88m-in-series-c-secures-unicorn-status/ — accessed May 2026.
