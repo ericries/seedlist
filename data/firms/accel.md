@@ -214,7 +214,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Oasis Security | Series A | 2024 | Cybersecurity/Identity | [^14] |
 | Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
 | Legora | Series D (led) | 2026 | AI/Legal Tech | [^16] |
-| Oolka | Series A (led, ₹130 Cr) | 2026 | Fintech/AI/India | [^37] |
+| Oolka | Series A (led, ₹130 Cr, ₹730 Cr post-money valuation) | 2026-04-30 | Fintech/AI/India | [^37][^48][^49][^50] |
 | Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
 | OpenFX | Series A ($94M, co-led) | 2026-03-31 | Fintech/Stablecoin/FX | [^45][^46][^47] |
 
@@ -295,3 +295,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^46]: BusinessWire, "OpenFX Raises $94 Million Series A to Scale Cross-Border Money Movement," March 31, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260330586743/en/OpenFX-Raises-$94-Million-Series-A-to-Scale-Cross-Border-Money-Movement
 
 [^47]: Crowdfund Insider, "OpenFX Raises $94M Series A," April 2026, accessed May 2026. https://www.crowdfundinsider.com/2026/04/271046-openfx-raises-94m-series-a/
+
+[^48]: Entrackr, "Credit lifecycle platform Oolka raises $14 Mn in Series A led by Accel," April 30, 2026, accessed May 2026. https://entrackr.com/news/credit-lifecycle-platform-oolka-raises-14-mn-in-series-a-led-by-accel-11780445 — Official news article confirming $14M (₹130 Cr) Series A led by Accel with Lightspeed and Z47 participation.
+
+[^49]: Inc42, "Credit Management Startup Oolka Bags $14 Mn In Accel-Led Series A Round," April 30, 2026, accessed May 2026. https://inc42.com/buzz/credit-management-startup-oolka-bags-14-mn-in-accel-led-series-a-round/ — Confirms $14M Series A led by Accel with participation from Lightspeed, Z47, and Meesho co-founders Vidit Aatrey and Sanjeev Barnwal.
+
+[^50]: Entrackr (exclusive, regulatory filing-based), "Oolka raises Rs 130 Cr in Series A led by Accel at Rs 730 Cr valuation," April 24, 2026, accessed May 2026. https://entrackr.com/exclusive/exclusive-oolka-raises-rs-130-cr-in-series-a-led-by-accel-at-rs-730-cr-valuation-11760159 — Pre-announcement leak based on board resolution: Accel India ₹87.22 Cr, Lightspeed India ₹20.87 Cr, Z47/Matrix Partners India ₹19.62 Cr; ₹730 Cr post-money valuation (~$87.6M).

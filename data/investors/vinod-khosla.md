@@ -131,7 +131,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| OpenAI | 2019 | Growth | AI | [^14][^15] |
+| OpenAI | 2019-03-11 | OpenAI LP capped-profit launch ($50M, ~5%, $1B valuation) | AI | [^14][^15][^25][^26] |
 | Commonwealth Fusion | 2019 | Series A | Energy / Fusion | [^11] |
 | DoorDash | 2013 | Seed | Consumer / Delivery | [^11][^16] |
 | Instacart | ~2012 (founded) | Seed | Consumer / Delivery | [^11] |
@@ -298,3 +298,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 [^23]: Khosla Ventures website, founder testimonials section. https://www.khoslaventures.com/. Accessed March 2026.
 
 [^24]: Newcomer. "Khosla Takes the Top Spot, Andreessen Soars in Updated Founder's Choice Rankings," February 2023. https://www.newcomer.co/p/khosla-takes-the-top-spot-andreessen
+
+[^25]: "OpenAI LP." OpenAI announcement, March 11, 2019, accessed May 2026. https://openai.com/index/openai-lp/ — OpenAI's announcement of the capped-profit OpenAI LP entity, which named Khosla Ventures and Reid Hoffman as inaugural outside investors.
+
+[^26]: "OpenAI launches new company for funding safe artificial general intelligence." VentureBeat, March 11, 2019, accessed May 2026. https://venturebeat.com/ai/openai-launches-new-company-for-funding-safe-artificial-general-intelligence — Contemporaneous press confirming Khosla Ventures and Reid Hoffman's charitable organization as initial investors in OpenAI LP.

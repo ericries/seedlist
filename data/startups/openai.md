@@ -163,6 +163,7 @@ OpenAI was founded on December 11, 2015, as a non-profit artificial intelligence
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
 | Grant/Seed | Dec 2015 | $130M | N/A | N/A | Elon Musk, Sam Altman, Peter Thiel, Reid Hoffman, AWS [^1] |
+| OpenAI LP capped-profit launch | 2019-03-11 | ~$50M (Khosla) | $1B | Khosla Ventures | Reid Hoffman's charitable organization [^13][^14] |
 | Series D (Microsoft) | Jul 2019 | $1B | N/A | Microsoft | N/A [^3] |
 | Microsoft Investment | Jan 2023 | $10B | $29B | Microsoft | N/A [^3] |
 | Series E | Apr 2023 | Undisclosed | $29B | Thrive Capital | Andreessen Horowitz [^7] |
@@ -205,3 +206,5 @@ Sam Altman has publicly credited Ron Conway and Brian Chesky (Airbnb CEO) with s
 [^10]: Sam Altman blog, "Reflections," 2024. https://blog.samaltman.com/reflections
 [^11]: Fortune, "Sam Altman says Airbnb's Brian Chesky and SV Angel's Ron Conway saved OpenAI," January 2025. https://fortune.com/2025/01/06/sam-altman-airbnb-ceo-brian-chesky-sv-angel-ron-conway-saved-openai/
 [^12]: TechCrunch, "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise," March 31, 2026. https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/
+[^13]: "OpenAI LP," OpenAI announcement, March 11, 2019, accessed May 2026. https://openai.com/index/openai-lp/ — Announces capped-profit OpenAI LP entity with Khosla Ventures and Reid Hoffman's charitable organization as inaugural outside investors.
+[^14]: VentureBeat, "OpenAI launches new company for funding safe artificial general intelligence," March 11, 2019, accessed May 2026. https://venturebeat.com/ai/openai-launches-new-company-for-funding-safe-artificial-general-intelligence — Contemporaneous press confirming Khosla Ventures and Reid Hoffman's charitable organization as initial investors. Per Fortune (Dec 2023), Khosla wrote a $50M check at $1B valuation for ~5%, calling it "the largest initial bet I've made in 40 years by a factor of two."

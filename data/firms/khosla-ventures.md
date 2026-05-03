@@ -127,7 +127,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| OpenAI | Growth | 2019 | AI | Private [^14][^15] |
+| OpenAI | OpenAI LP capped-profit launch ($50M, ~5%, $1B valuation) | 2019-03-11 | AI | Private [^14][^15][^38][^39] |
 | DoorDash | Seed | 2013 | Consumer / Delivery | Public (IPO 2020) [^22][^23] |
 | Instacart | Seed | ~2012 | Consumer / Delivery | Public (IPO 2023) [^22][^24] |
 | Block (Square) | Series A | 2009 | Fintech | Public (IPO 2015) [^22][^25] |
@@ -339,3 +339,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^36]: "Commonwealth Fusion Systems Raises $115 Million and Closes Series A Round to Commercialize Fusion Energy." PR Newswire / Commonwealth Fusion Systems, June 27, 2019. https://cfs.energy/news-and-media/close-series-a-round/
 
 [^37]: "The Story of a Cap Table: Affirm." Newcomer (Eric Newcomer), accessed April 2026. https://www.newcomer.co/p/the-story-of-a-cap-table-affirm
+
+[^38]: "OpenAI LP." OpenAI announcement, March 11, 2019, accessed May 2026. https://openai.com/index/openai-lp/ — OpenAI's announcement of the capped-profit OpenAI LP entity, which named Khosla Ventures and Reid Hoffman as inaugural outside investors.
+
+[^39]: "OpenAI launches new company for funding safe artificial general intelligence." VentureBeat, March 11, 2019, accessed May 2026. https://venturebeat.com/ai/openai-launches-new-company-for-funding-safe-artificial-general-intelligence — Contemporaneous press confirming Khosla Ventures and Reid Hoffman's charitable organization as initial investors in OpenAI LP, announced March 11, 2019.
