@@ -1,13 +1,1 @@
-priority:
-  - slug: tcv
-    type: firm
-    reason: "co-led Actively Series B (2026-04-28)"
-    added: 2026-05-03
-  - slug: first-round-capital
-    type: firm
-    reason: "participated in Actively Series B (2026-04-28)"
-    added: 2026-05-03
-  - slug: ali-rowghani
-    type: investor
-    reason: "First Harmonic co-led Actively Series B (2026-04-28)"
-    added: 2026-05-03
+priority: []

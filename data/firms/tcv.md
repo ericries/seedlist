@@ -1,7 +1,7 @@
 ---
 founded: 1995
 fund_size: $3B (Fund XII, 2024); ~$24B total capital raised across 12+ funds
-last_researched: 2026-03-19
+last_researched: 2026-05-03
 location: Menlo Park, CA
 name: TCV
 sector_focus:
@@ -119,9 +119,9 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Splunk | Growth | 2010s | Data/Analytics | Acquired (Cisco) [^7] |
 | Clio | Growth | 2020s | Application Software | Private [^7] |
 | Razorpay | Growth | 2020s | Fintech/Payments | Private [^7] |
-| Trade Republic | Series C | 2021 | Fintech | Private [^3] |
+| Trade Republic | Series C (participated; led by Sequoia) | 2021-05-20 | Fintech | Private [^3][^12] |
 | Strava | Growth | 2020s | Consumer/Fitness | Private [^7] |
-| Grow Therapy | Series B, D (co-led) | 2023, 2026 | Healthcare/Mental Health | Private [^9] |
+| Grow Therapy | Series B (led), D (co-led) | 2022-09-29, 2026-03-03 | Healthcare/Mental Health | Private [^9][^11] |
 | Actively | Series B (co-led) | 2026 | AI/Sales | Private [^10] |
 
 This table represents a small fraction of TCV's 350+ total investments [^4]. The firm's portfolio page lists over 100 current and former portfolio companies [^7].
@@ -154,3 +154,7 @@ No independently sourced founder testimonials found. TCV's portfolio founders ha
 [^8]: "Jay Hoag - Keys to Successful Growth Investing," Invest Like the Best podcast with Patrick O'Shaughnessy, accessed March 2026. https://podcasts.apple.com/us/podcast/jay-hoag-keys-to-successful-growth-investing/id1154105909?i=1000713216815
 [^9]: "Grow Therapy Raises $150 Million in Series D as It Solidifies New Flagship Partnerships." PR Newswire, March 3, 2026. https://www.prnewswire.com/news-releases/grow-therapy-raises-150-million-in-series-d-as-it-solidifies-new-flagship-partnerships-302702388.html
 [^10]: National Law Review, "Actively Raises $45M Series B to Scale Intelligence-Led Revenue Platform," April 28, 2026. https://natlawreview.com/press-releases/actively-raises-45m-series-b-scale-intelligence-led-revenue-platform
+
+[^11]: GlobeNewswire (press release), "Grow Therapy Raises $75 Million to Expand Access to Affordable Mental Healthcare," September 29, 2022. https://www.globenewswire.com/en/news-release/2022/09/29/2525601/0/en/Grow-Therapy-Raises-75-Million-to-Expand-Access-to-Affordable-Mental-Healthcare.html
+
+[^12]: BusinessWire, "Trade Republic Announces $900M Investment, Led by Sequoia, to Drive Its Mission to Help Close Europe's Pension Gap," May 20, 2021. https://www.businesswire.com/news/home/20210520005526/en/Trade-Republic-Announces-$900M-Investment-Led-by-Sequoia-to-Drive-Its-Mission-to-Help-Close-Europes-Pension-Gap

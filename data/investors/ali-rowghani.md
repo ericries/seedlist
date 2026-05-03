@@ -1,11 +1,11 @@
 ---
 check_size: $150K–$2M
 firm: first-harmonic
-last_researched: 2026-03-18
+last_researched: 2026-05-03
 last_verified_investment:
-  company: Kobalt Labs
-  date: 2025-12
-  round: Series A
+  company: Actively
+  date: 2026-04-28
+  round: Series B
 location: San Francisco, CA
 name: Ali Rowghani
 role: Founder & Managing General Partner
@@ -57,11 +57,11 @@ Based on verified investments across two distinct phases of Rowghani's investing
 
 **YC Continuity era (2015–2023):** Exclusively growth-stage (Series B through pre-IPO), exclusively YC alumni, with a mix of SaaS, fintech, developer tools, and open-source enterprise software. Verified board seats include Mattermost (open-source collaboration, Series B 2019), PostHog (open-source product analytics, Series B 2021), Convictional (B2B commerce, Series B 2022), Segment (customer data platform, acquired by Twilio for $3.2B), Checkr, Gusto, Ironclad, Deel, and Pave [^6] [^9] [^10] [^11]. The portfolio shows a clear pattern toward developer-oriented and open-source enterprise tools in addition to fintech infrastructure. YC Continuity led Mattermost's $50M Series B — at the time YC's largest open-source investment [^9].
 
-**First Harmonic era (2025–present):** Rowghani has pivoted to seed and pre-seed stage. Early verified investments include Kobalt Labs (AI compliance for fintech, Series A led by First Harmonic, December 2025) [^12], and angel investments in Mercor (AI talent marketplace), Decagon (AI customer support agents), and Cursor (AI coding assistant), all made prior to First Harmonic's formal launch [^1]. The Kobalt Labs investment was cited in First Harmonic's first confirmed lead check.
+**First Harmonic era (2025–present):** Rowghani has pivoted to seed and pre-seed stage, with selective participation in larger rounds. Verified investments include Kobalt Labs (AI compliance for fintech, Series A led by First Harmonic, December 2025) [^12]; Actively (AI sales agents, Series B co-led by First Harmonic and TCV, April 2026) [^18]; and angel investments in Mercor (AI talent marketplace), Decagon (AI customer support agents), and Cursor (AI coding assistant), all made prior to First Harmonic's formal launch [^1].
 
-Based on 4 independently verified First Harmonic-era investments and 9 confirmed YC Continuity board positions, the pattern suggests:
-- **Current stage:** Seed and pre-seed (check sizes starting at $150K per Signal NFX data) [^13]
-- **Sector emphasis:** AI applications (3 of 4 verified recent investments), with a secondary emphasis on fintech/compliance
+Based on 5 independently verified First Harmonic-era investments and 9 confirmed YC Continuity board positions, the pattern suggests:
+- **Current stage:** Primarily seed and pre-seed (check sizes starting at $150K per Signal NFX data) [^13], with selective Series B participation (Actively co-lead)
+- **Sector emphasis:** AI applications (5 of 5 verified recent investments), with a secondary emphasis on fintech/compliance and go-to-market
 - **Operator thesis:** Rowghani consistently favors companies where founding teams have strong operator backgrounds and domain depth; all three angel investments (Mercor, Decagon, Cursor) have become significant AI breakouts
 - **GTM as differentiator:** The First Harmonic program structure suggests a preference for companies that can benefit from rigorous customer-definition work at the seed stage, implying he backs companies where ideal customer profile is not yet obvious
 
@@ -73,6 +73,7 @@ Note: Sample size for First Harmonic is small (fund publicly launched June 2025)
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
+| Actively | 2026 | Series B (co-led) | AI / Sales | [^18] |
 | Kobalt Labs | 2025 | Series A (lead) | AI compliance / fintech | [^12] |
 | Mercor | ~2023 | Angel | AI talent marketplace | [^1] |
 | Decagon | ~2024 | Angel | AI customer support | [^1] |
@@ -168,3 +169,5 @@ Note: The Anish Acharya quote is from an investor/colleague, not a portfolio fou
 [^16]: Pedro Franceschi (@pedroh96), X post on First Harmonic launch, June 2025. https://x.com/pedroh96/status/1933188893001887934
 
 [^17]: Anish Acharya (@illscience), X post on Ali Rowghani, June 2025. https://x.com/illscience/status/1933329120416723444
+
+[^18]: National Law Review, "Actively Raises $45M Series B to Scale Intelligence-Led Revenue Platform," April 28, 2026. https://natlawreview.com/press-releases/actively-raises-45m-series-b-scale-intelligence-led-revenue-platform

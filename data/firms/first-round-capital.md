@@ -1,7 +1,7 @@
 ---
 founded: 2004
 fund_size: $2.5B total AUM
-last_researched: 2026-03-19
+last_researched: 2026-05-03
 location: San Francisco, CA; New York, NY; Philadelphia, PA
 name: First Round Capital
 sector_focus:
@@ -123,8 +123,8 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Upstart | Seed | ~2014 | Fintech / Lending | IPO | [^3] |
 | Clover Health | Seed | ~2015 | Healthcare | IPO | [^3] |
 | Clay | Seed | ~2022 | GTM tools | Active | [^1][^7] |
-| Fal.ai | Seed | ~2023 | AI infrastructure | Active | [^1][^7] |
-| Together AI | Seed | ~2023 | AI infrastructure | Active | [^1] |
+| Fal.ai | Series A | 2024-09-18 | AI infrastructure | Active | [^11] |
+| Together AI | Seed (participated; led by Lux Capital) | 2023-05-15 | AI infrastructure | Active | [^12] |
 | K2 Space | Seed | ~2023 | Space / Hardware | Active | [^1] |
 | Pomelo Care | Seed | ~2022 | Healthcare | Active | [^3][^7] |
 | Loyal | Seed | ~2021 | Healthcare / Pets | Active | [^3] |
@@ -167,3 +167,7 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^8]: TechCrunch, "UberCab Closes Uber Angel Round," October 15, 2010. https://techcrunch.com/2010/10/15/ubercab-closes-uber-angel-round/
 [^9]: National Law Review, "Actively Raises $45M Series B to Scale Intelligence-Led Revenue Platform," April 28, 2026. https://natlawreview.com/press-releases/actively-raises-45m-series-b-scale-intelligence-led-revenue-platform
 [^10]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/
+
+[^11]: fal blog, "Generative media needs speed. fal has raised $23M to accelerate," September 18, 2024. https://blog.fal.ai/generative-media-needs-speed-fal-has-raised-23m-to-accelerate/
+
+[^12]: TechCrunch, "Together raises $20M to build open source generative AI models," May 15, 2023. https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/
