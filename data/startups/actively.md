@@ -13,6 +13,10 @@ investors:
 - round: '2023'
   slug: todd-jackson
   year: 2023
+- date: 2026-04-28
+  round: series-b
+  slug: ali-rowghani
+  year: 2026
 last_researched: 2026-04-28
 location: New York, NY
 name: Actively
