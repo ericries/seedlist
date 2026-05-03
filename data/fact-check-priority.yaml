@@ -1,1 +1,17 @@
-priority: []
+priority:
+  - slug: accel
+    type: firm
+    reason: "co-led OpenFX Series A (2026-03-31)"
+    added: 2026-05-02
+  - slug: northzone
+    type: firm
+    reason: "co-led OpenFX Series A (2026-03-31)"
+    added: 2026-05-02
+  - slug: pantera-capital
+    type: firm
+    reason: "co-led OpenFX Series A (2026-03-31)"
+    added: 2026-05-02
+  - slug: fj-labs
+    type: firm
+    reason: "new investor in Snabbit Series D (2026-04-27)"
+    added: 2026-05-02
