@@ -28,7 +28,30 @@ pending_rounds:
   parsed_company: Italian TravelTech startup Smartness
   parsed_amount: null
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-05-04'
+  notes: covered by smartness.md (€47M Series B 2026-05-04 co-led by United Ventures
+    + CDP Venture Capital)
+- title: 'The Weekly Notable Startup Funding Report: 5/4/26'
+  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-4-26/
+  source: alleywatch
+  date_found: '2026-05-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: aggregator weekly summary; individual rounds (Avoca, Hightouch, Rogo,
+    Netomi, Parallel, etc.) covered separately
+- title: Ekiden raises €1.7 million at €17 million valuation for blockchain-based
+    trading platform out of Portugal
+  url: https://www.eu-startups.com/2026/05/ekiden-raises-e1-7-million-at-e17-million-valuation-for-blockchain-based-trading-platform-out-of-portugal/
+  source: eu-startups
+  date_found: '2026-05-04'
+  parsed_company: Ekiden
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €1.7M Portuguese blockchain pre-seed below typical Seedlist threshold
 - title: '“If Figma and Lovable had a child that became an architect”: Synaps raises
     €3.06 million to rival AutoCAD'
   url: https://www.eu-startups.com/2026/05/if-figma-and-lovable-had-a-child-that-became-an-architect-synaps-raises-e3-06-million-to-rival-autocad/
@@ -1024,29 +1047,3 @@ pending_rounds:
     AI robotics vision-language-action; customers BMW, Daimler Truck, PepsiCo, H&M;
     expanding to Boston US HQ; prior €25M Series A Jan 2026 led by Creandum included
     in funding history
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/27/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/
-  source: alleywatch
-  date_found: '2026-04-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator daily summary, not a single round; individual rounds captured
-    separately
-- title: Ineffable Intelligence lands historic $1.1 billion Seed round at $5.1 billion
-    valuation
-  url: https://www.eu-startups.com/2026/04/ineffable-intelligence-lands-historic-1-1-billion-seed-round-at-5-1-billion-valuation/
-  source: eu-startups
-  date_found: '2026-04-27'
-  parsed_company: Ineffable Intelligence
-  parsed_amount: $1.1B
-  parsed_round: Seed
-  status: processed
-  processed: '2026-04-27'
-  notes: created startup profile ineffable-intelligence.md; $1.1B Seed at $5.1B valuation
-    on 2026-04-27, co-led by Sequoia Capital and Lightspeed Venture Partners, with
-    Index Ventures, Google, Nvidia, DST Global, British Business Bank, UK Sovereign
-    AI Fund participating; UK AI lab founded by ex-DeepMind researcher David Silver
-    pursuing reinforcement-learning superintelligence; updated sequoia-capital and
-    index-ventures portfolios
