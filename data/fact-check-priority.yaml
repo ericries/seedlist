@@ -1,13 +1,1 @@
-priority:
-  - slug: valor-equity-partners
-    type: firm
-    reason: "led Counterpart Series C (2026-04-28)"
-    added: 2026-05-04
-  - slug: mucker-capital
-    type: firm
-    reason: "led SkyfireAI Seed (2026-04-28)"
-    added: 2026-05-04
-  - slug: erik-rannala
-    type: investor
-    reason: "Mucker Capital partner led SkyfireAI Seed (2026-04-28)"
-    added: 2026-05-04
+priority: []

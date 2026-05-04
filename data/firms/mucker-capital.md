@@ -22,7 +22,7 @@ team:
     role: Partner
     slug: anne-enna
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-05-04
 ---
 
 ## About
@@ -69,8 +69,8 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 |---------|-------|------|--------|--------|--------|
 | Honey | Seed ($1.8M round) | 2014 | Consumer / E-commerce | Acquired (PayPal, $4B, 2020) | [^12] |
 | ServiceTitan | Seed | Jan 2014 | Enterprise SaaS / Home Services | IPO (NASDAQ, Dec 2024, ~$6.4B) | [^13] [^25] |
-| AuditBoard | Seed | ~2016 | Enterprise SaaS / GRC | Acquired | [^6] [^26] |
-| Thrive Market | Seed | ~2014 | Consumer / E-commerce | Active | [^6] |
+| AuditBoard | Seed | 2015 | Enterprise SaaS / GRC | Acquired | [^6] [^26] |
+| Thrive Market | Seed | 2014 | Consumer / E-commerce | Active | [^6] |
 | TaskRabbit | Early | ~2013 | Marketplace | Acquired (IKEA, Sep 2017) | [^14] [^27] |
 | Surf Air | Seed | ~2013 | Consumer / Aviation | IPO (NASDAQ, Jul 2023) | [^15] [^28] |
 | Ask Sage | Seed; Series A ($17M) | ~2020; Dec 2024 | Enterprise SaaS / AI / GovTech | Acquired (BigBear.ai, $250M, 2025) | [^20] [^29] |
@@ -78,6 +78,7 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 | GovDash | Seed; Series B ($30M, co-led) | ~2021; Jan 2026 | Enterprise SaaS / GovTech | Active | [^31] |
 | SkillCat | Seed ($3.3M, led) | Dec 2021 | EdTech / Workforce | Active | [^22] |
 | Vaudit | Seed ($7.3M, led) | Jul 2025 | Ad-Tech / AI | Active | [^23] |
+| SkyfireAI | Seed ($11M, led) | 2026-04-28 | Defense / Drones / AI | Active | [^34] [^35] [^36] |
 | Bild | Series A | 2025 | Construction / PropTech | Active | [^6] |
 | Orion Sleep | Seed | 2025 | Consumer | Active | [^6] |
 | Linq | Seed | 2026 | Hardware | Active | [^6] |
@@ -156,3 +157,6 @@ Note: The above founder quotes are sourced from the Mucker Capital website and m
 [^31]: "GovDash Raises $30M Series B to Help Companies Win and Manage Government Contracts with AI," GovDash blog, January 2026. https://www.govdash.com/blog/press-govdash-raises-30m-series-b-to-help-companies-win-and-manage-government-contracts-with-ai
 [^32]: "Papaya Announces Series B to Expand Mobile Payment App Using First-Of-Its-Kind Bill Understanding Technology," BusinessWire, December 2021. https://www.businesswire.com/news/home/20211215005164/en/Papaya-Announces-Series-B-to-Expand-Mobile-Payment-App-Using-First-Of-Its-Kind-Bill-Understanding-Technology
 [^33]: Mucker Capital, "NEXT Trucking" portfolio page, accessed April 2026. https://mucker.com/company/next-trucking/ ; see also LA TechWatch profile. https://www.latechwatch.com/profile/next-trucking/
+[^34]: sUAS News, "SkyfireAI Raises $11 Million Seed to Advance Autonomous Multi-Ship Drone Operations for First Responders and Defense," April 2026, accessed May 2026. https://www.suasnews.com/2026/04/skyfireai-raises-11-million-seed-to-advance-autonomous-multi-ship-drone-operations-for-first-responders-and-defense/
+[^35]: SiliconANGLE, "SkyfireAI lands $11M to bring AI autonomy to public safety and defense drones," April 28, 2026, accessed May 2026. https://siliconangle.com/2026/04/28/skyfireai-lands-11m-bring-ai-autonomy-public-safety-defense-drones/
+[^36]: DroneDJ, "SkyfireAI raises $11M for autonomous drone coordination," May 1, 2026, accessed May 2026. https://dronedj.com/2026/05/01/skyfireai-autonomous-drone-seed-funding/

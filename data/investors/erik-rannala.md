@@ -1,10 +1,10 @@
 ---
 check_size: $100K-$1.5M
 firm: mucker-capital
-last_researched: 2026-03-25
+last_researched: 2026-05-04
 last_verified_investment:
-  company: Linq
-  date: ~2026
+  company: SkyfireAI
+  date: 2026-04-28
   round: Seed
 location: Austin, TX
 name: Erik Rannala
@@ -93,14 +93,15 @@ This table represents approximately 14% of Mucker's 169 reported investments. Mu
 ~unknown| GovDash ($30M Series B) | — | Seed | [^17] |
 | Ask Sage ($17M Series A) | 2024 | Seed | [^18] |
 ~unknown| Treads ($4.6M Seed) | — | Seed | [^6] |
-| Bild ($9M Series A) | 2025 | Seed | [^6] |
+| Bild ($9M Series A) | 2025-10 | Series A | [^6] |
 | Orion Sleep | 2025 | Seed | [^6] |
 | Linq | 2026 | Seed | [^6] |
 ~unknown| SafeHill ($2.6M Pre-Seed) | — | Pre-Seed | [^6] |
 ~unknown| beatBread | — | Seed | [^6] |
 | Freestyle | 2022 | Pre-Seed | [^15] |
 | Hubly | 2021 | Seed | [^15] |
-| Handl Health | 2024 | Seed | [^15] |
+| Handl Health | 2024-04-24 | Seed | [^15][^24] |
+| SkyfireAI ($11M Seed, led) | 2026-04-28 | Seed | [^21][^22][^23] |
 
 ## In Their Own Words
 
@@ -151,3 +152,7 @@ No independently sourced founder testimonials found with verifiable attribution.
 [^18]: Pulse2, "Ask Sage: $17 Million (Series A) Raised," accessed March 2026. https://pulse2.com/ask-sage-17-million-series-a-raised-to-build-genai-platforms-for-government-and-commercial-sectors/
 [^19]: Mucker Capital blog, "Getting Past the Catch-22 of Venture Capital," by Erik Rannala, accessed March 2026. https://mucker.com/blog/getting-past-the-catch-22-of-venture-capital/
 [^20]: JoinAI LA blog, "LA Founders & Investors: Insights from Titans — George Ruan and William Hsu Share Their Entrepreneurial Journey," accessed March 2026. https://www.joinai.la/blog/la-founders-investors-insights-from-titans---george-ruan-and-william-hsu-share-their-entrepreneurial-journey
+[^21]: sUAS News, "SkyfireAI Raises $11 Million Seed to Advance Autonomous Multi-Ship Drone Operations for First Responders and Defense," April 2026, accessed May 2026. https://www.suasnews.com/2026/04/skyfireai-raises-11-million-seed-to-advance-autonomous-multi-ship-drone-operations-for-first-responders-and-defense/
+[^22]: SiliconANGLE, "SkyfireAI lands $11M to bring AI autonomy to public safety and defense drones," April 28, 2026, accessed May 2026. https://siliconangle.com/2026/04/28/skyfireai-lands-11m-bring-ai-autonomy-public-safety-defense-drones/
+[^23]: DroneDJ, "SkyfireAI raises $11M for autonomous drone coordination," May 1, 2026, accessed May 2026. https://dronedj.com/2026/05/01/skyfireai-autonomous-drone-seed-funding/
+[^24]: PRNewswire, "Handl Health secures $2.5M in Seed Funding to drive innovation for the employer-sponsored benefits ecosystem," April 24, 2024, accessed May 2026. https://www.prnewswire.com/news-releases/handl-health-secures-2-5m-in-seed-funding-to-drive-innovation-for-the-employer-sponsored-benefits-ecosystem-302124817.html
