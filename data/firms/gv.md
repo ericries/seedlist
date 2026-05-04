@@ -123,6 +123,7 @@ Based on GV's verified portfolio and public data:
 | Wealth.com | Series B | 2026 | Fintech / Wealthtech | Private [^6] |
 | nEye.ai | Series C | 2026 | AI / Data Center | Private [^7] |
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Private [^8] |
+| Sierra | Series E (co-led with Tiger Global) | 2026-05-04 | AI / Customer Service | Private [^9][^10][^11] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -150,3 +151,6 @@ No independently sourced founder testimonials found.
 [^6]: Fintech Global, "Wealth.com raises $65m Series B for AI wealth planning," April 16, 2026. https://fintech.global/2026/04/16/wealth-com-raises-65m-series-b-for-ai-wealth-planning/
 [^7]: BusinessWire, "nEye.ai Secures $80 Million Series C to Scale Optical Circuit Switching for AI Infrastructure," April 14, 2026. https://www.businesswire.com/news/home/20260414407496/en/nEye.ai-Secures-$80-Million-Series-C-to-Scale-Optical-Circuit-Switching-for-AI-Infrastructure
 [^8]: BusinessWire / BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV; GV's Anthony Philippakis joined as board observer. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research
+[^9]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from Benchmark, Sequoia Capital, and Greenoaks Capital.
+[^10]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^11]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html

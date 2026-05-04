@@ -211,6 +211,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | FOMO | Early | 2026 | Financial Services | Private [^9] |
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
 | Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
+| Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
 
 *Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
@@ -341,3 +342,6 @@ The following table includes 45 Benchmark investments verified through press cov
 [^35]: Vator News, "Stitch Fix raises $12M, sees 500% growth since Series A," October 17, 2013. https://vator.tv/news/2013-10-17-stitch-fix-raises-12m-sees-500-growth-since-series-a — Series B led by Benchmark; Bill Gurley joined the board.
 [^36]: TechCrunch, "Benchmark Backs Real-Time Data-Processing Startup Confluent," November 6, 2014. https://techcrunch.com/2014/11/06/confluent/ — Series A led by Benchmark; $6.9M; Eric Vishria joined the board.
 [^37]: SiliconANGLE, "Cockroach Labs gets $6.25M to build a more resilient database," June 8, 2015. https://siliconangle.com/2015/06/08/cockroach-labs-gets-6-25m-to-build-a-more-resilient-database/ — Series A led by Benchmark; Peter Fenton joined the board.
+[^38]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from existing investors Benchmark, Sequoia Capital, and Greenoaks Capital. Benchmark co-led the prior Sierra Seed (Feb 2024) with Sequoia.
+[^39]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^40]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html

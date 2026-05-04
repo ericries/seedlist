@@ -216,6 +216,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Harvey | Series A (led) | 2023-04-26 | AI / Legal | Private [^21][^44][^45] |
 | Clay | Series A (lead) | 2023 | AI / Sales | Private [^13][^41] |
 | Sierra | Seed (co-led with Benchmark) | 2024-02-13 | AI / Customer Service | Private [^13][^42] |
+| Sierra | Series E (participated, follow-on) | 2026-05-04 | AI / Customer Service | Private [^56][^57][^58] |
 | Anthropic | Growth | 2026 | AI | Private [^20] |
 | Nominal | Series B (led) | 2025-06-12 | Defense Tech / Hardware | Private [^25][^49][^50][^51] |
 | Oasis Security | Series A (led) | 2024-01-31 | Cybersecurity / Identity | Private [^26][^52][^53] |
@@ -406,3 +407,6 @@ The following table includes Sequoia Capital investments verified through the fi
 [^54]: PR Newswire, "Grow Therapy Raises $88M Sequoia Capital-Led Series C to Advance Effective Mental Healthcare," April 8, 2024. https://www.prnewswire.com/news-releases/grow-therapy-raises-88m-sequoia-capital-led-series-c-to-advance-effective-mental-healthcare-302110579.html — accessed May 2026.
 
 [^55]: Behavioral Health Business, "Grow Therapy Raises $88M in Series C, Secures Unicorn Status," April 8, 2024. https://bhbusiness.com/2024/04/08/grow-therapy-raises-88m-in-series-c-secures-unicorn-status/ — accessed May 2026.
+[^56]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV. Existing investors Benchmark, Sequoia Capital, and Greenoaks Capital participated. This is a follow-on to Sequoia's prior co-led Seed (Feb 2024).
+[^57]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^58]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html

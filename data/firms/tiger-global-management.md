@@ -1,7 +1,7 @@
 ---
 founded: 2001
 fund_size: $46B AUM (2025); PIP 17 fund targeting $2.2B
-last_researched: 2026-03-20
+last_researched: 2026-05-04
 location: New York, NY
 name: Tiger Global Management
 sector_focus:
@@ -67,7 +67,7 @@ Tiger Global's portfolio reveals an investor that operates at massive global sca
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| OpenAI | Series E | 2023 | AI | Active | [^9][^16] |
+| OpenAI | Tender (~$300M, joined April round) | 2023-04-28 | AI | Active | [^9][^16] |
 | Waymo | Growth ($5.6B round) | 2024 | Autonomous Vehicles | Active | [^4][^17] |
 | Databricks | Series F | 2019 | Data/AI | Active | [^18] |
 | ByteDance | Secondary | 2018 | Consumer Internet | Active | [^19] |
@@ -84,9 +84,10 @@ Tiger Global's portfolio reveals an investor that operates at massive global sca
 | Byju's | Growth ($200M) | 2020 | EdTech | Bankrupt | [^13][^29] |
 | Freshworks | Series B ($5M) | 2012 | Enterprise SaaS | IPO (2021) | [^30] |
 | Superhuman | Series C | 2021 | Enterprise/Productivity | Active | [^14][^31] |
-| Gupshup | Series F ($100M) | 2021 | Enterprise/Messaging | Active | [^14][^32] |
-| Hologram | Series B ($65M) | 2021 | IoT | Active | [^15] |
-| Rogo | Series B ($50M) | 2025 | AI | Active | [^4][^33] |
+| Gupshup | Series F ($100M) | 2021-04-08 | Enterprise/Messaging | Active | [^14][^32] |
+| Hologram | Series B ($65M) | 2021-08-10 | IoT | Active | [^15] |
+| Rogo | Series B ($50M) | 2025-04-30 | AI | Active | [^4][^33] |
+| Sierra | Series E (co-led with GV) | 2026-05-04 | AI / Customer Service | Private | [^34][^35][^36] |
 
 *This table represents a small fraction of Tiger Global's approximately 791 portfolio companies [^4]. During 2020-2021 alone, the firm backed roughly 315 startups [^8].*
 
@@ -140,4 +141,7 @@ Beerud Sheth, founder of Gupshup, noted that while Tiger's partners don't demand
 [^30]: Inc42, "Tiger Global And Freshworks Shook Hands In The Air — And It Was A Done Deal," accessed April 2026. https://inc42.com/features/tiger-global-and-freshworks-shook-hands-in-the-air-and-it-was-a-done-deal-girish-mathrubootham/
 [^31]: Tracxn, "Superhuman — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/superhuman/__uNI3PJ_Huz1B_OobMp1RIu3DT8SOBubIyA2wkxh7Quk/funding-and-investors
 [^32]: TechCrunch, "Business messaging platform Gupshup raises $240 million from Tiger Global, Fidelity and others," July 2021. https://techcrunch.com/2021/07/28/business-messaging-platform-gupshup-raises-240-million-from-tiger-global-fidelity-and-others/
-[^33]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 2025. https://rogo.ai/news/rogo-announces-50m-series-b
+[^33]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. https://rogo.ai/news/rogo-announces-50m-series-b
+[^34]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from Benchmark, Sequoia Capital, and Greenoaks Capital.
+[^35]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^36]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html

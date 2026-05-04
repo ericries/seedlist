@@ -2,7 +2,7 @@
 aum: $15B
 founded: 2012
 fund_size: $2.5B (Fund VI, 2025)
-last_researched: 2026-04-01
+last_researched: 2026-05-04
 location: San Francisco, CA
 name: Greenoaks Capital
 sector_focus:
@@ -105,15 +105,16 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Papaya Global | Series C | 2021 | HR/payroll | Active | [^30] |
 | Scale AI | Series E | 2021 | AI/data labeling | Active | [^40] |
 | Tipalti | Series E | 2021 | Fintech/payments | Active | [^31] |
-| Wiz | Series B | 2021 | Cybersecurity | Acquired (Google, $32B) | [^32] |
+| Wiz | Series B | 2021-03-22 | Cybersecurity | Acquired (Google, $32B) | [^32] |
 | Checkout.com | Series C | 2021 | Fintech/payments | Active | [^16] |
 | Carvana | Public market | ~2022 | E-commerce/automotive | Public (NYSE: CVNA) | [^18] |
-| Rippling | Series E | 2023 | HR/IT software | Active | [^17] |
-| Figma | Series F | 2024 | Design software | Public (NYSE) | [^33] |
-| Cyera | Series E | 2025 | Cybersecurity/AI | Active | [^34] |
-| Sierra | Growth | 2025 | AI/agents | Active | [^35] |
-| Tempo | Series A | 2025 | Blockchain/payments | Active | [^36] |
-| Cyera | Series F | 2025 | Cybersecurity/AI | Active | [^41] |
+| Rippling | Series E (led) | 2023-03-17 | HR/IT software | Active | [^17] |
+| Figma | Series F (tender) | 2024-05-16 | Design software | Public (NYSE) | [^33] |
+| Cyera | Series E | 2025-06-11 | Cybersecurity/AI | Active | [^34] |
+| Sierra | Series C (led) | 2025-09-04 | AI/agents | Active | [^35] |
+| Tempo | Series A (co-led) | 2025-10-17 | Blockchain/payments | Active | [^36] |
+| Cyera | Series F | 2026-01-08 | Cybersecurity/AI | Active | [^41] |
+| Sierra | Series E (participated) | 2026-05-04 | AI/agents | Active | [^42][^43][^44] |
 
 This table represents approximately 30% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
 
@@ -182,3 +183,6 @@ No additional independently sourced founder testimonials from portfolio company 
 [^39]: Databricks, "Databricks Raises $1 Billion Series G Investment at $28 Billion Valuation," February 2021. https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation
 [^40]: Scale AI, Tracxn funding rounds, accessed April 2026. https://tracxn.com/d/companies/scaleai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI/funding-and-investors
 [^41]: "Cyera Raises $400M to Meet Rapidly Growing Demand for AI Security Among Enterprises," BusinessWire, January 8, 2026. https://www.businesswire.com/news/home/20260108628439/en/Cyera-Raises-400M-to-Meet-Rapidly-Growing-Demand-for-AI-Security-Among-Enterprises
+[^42]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from existing investors Benchmark, Sequoia Capital, and Greenoaks Capital.
+[^43]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^44]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
