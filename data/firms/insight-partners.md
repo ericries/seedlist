@@ -126,7 +126,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Checkout.com | Series A | 2019 | Payments | Active | [^30] |
 | Kaseya | Growth | 2013 | IT Management | Active | [^31] |
 | Optimizely | Buyout | 2018 | Enterprise Software | Active | [^2] |
-| Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Active | [^11] |
+| Ayar Labs | Series E ($500M, participated; Neuberger Berman led) | 2026-03-03 | Semiconductors / AI Infrastructure | Active | [^11][^33] |
 | Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
 | Linx Security | Series B | 2026 | Cybersecurity / Identity | Active | [^13] |
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
@@ -189,3 +189,4 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^30]: Insight Partners, "Checkout.com Raises $230m in Record European Series A," May 2019. https://www.insightpartners.com/ideas/checkout-com-raises-230m-in-record-european-series-a/
 [^31]: Insight Partners, "Insight Venture Partners Makes Investment in Kaseya," June 2013. https://www.insightpartners.com/ideas/insight-venture-partners-makes-investment-in-kaseya/
 [^32]: BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV with participation from existing investors Insight Partners and Obvious Ventures. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research
+[^33]: Ayar Labs press release, "Ayar Labs Closes $500M Series E, Accelerates Volume Production of Co-Packaged Optics," March 3, 2026. Series E led by Neuberger Berman; new investors include Insight Partners. https://ayarlabs.com/news/ayar-labs-closes-500m-series-e-accelerates-volume-production-of-co-packaged-optics/
