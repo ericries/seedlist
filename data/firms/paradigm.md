@@ -96,7 +96,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Optimism | Series B | 2022 | L2 Infrastructure | [^21] |
 | Phantom | Series B | 2022 | Crypto Wallet | [^22] |
 | Blur | Seed | 2022 | NFT Marketplace | [^23] |
-| Monad | Series A | 2024 | L1 Blockchain | [^7] |
+| Monad | Series A (Led) | 2024-04-09 | L1 Blockchain | [^7] |
 | Farcaster | Series A | 2024 | Social/Crypto | [^24] |
 | Nous Research | Series A | 2025 | AI/Open Source | [^25] |
 | Tempo | Incubation | 2025 | Blockchain Payments | [^26] |

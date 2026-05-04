@@ -12,9 +12,10 @@ firms:
 - round: Late stage
   slug: independent
   year: 2023
-- round: ~2023
+- date: 2025-03-31
+  round: Series F ($40B at $300B)
   slug: coatue-management
-  year: 2023
+  year: 2025
 - round: ~2024
   slug: d1-capital-partners
   year: 2024

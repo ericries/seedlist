@@ -105,8 +105,8 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Gunzilla Games | Venture | 2024 | Web3 gaming | [^31] |
 | Flare | Liquid | ~2023 | L1 blockchain | [^15] |
 | ether.fi | Series A | 2024 | Liquid restaking/DeFi | [^20] |
-| Monad | Venture | 2024 | L1 blockchain | [^21] |
-| Prime Intellect | Seed | 2024 | Decentralized AI compute | [^22] |
+| Monad | Series A (participated) | 2024-04-09 | L1 blockchain | [^21][^32][^33] |
+| Prime Intellect | Seed (co-led) | 2024-04-23 | Decentralized AI compute | [^22][^34] |
 | STON.fi | Seed | 2024 | DEX (TON) | [^4] |
 | Geodnet | Seed | 2024 | DePIN | [^4] |
 | Pluralis Research | Pre-Seed/Seed | 2024-2025 | Decentralized AI | [^13] |
@@ -180,3 +180,6 @@ No additional independently sourced founder testimonials about the experience of
 [^29]: LI.FI blog, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. https://li.fi/knowledge-hub/li-fi-secures-usd29m-in-series-a-extension-led-by-multicoin-and-coinfund-to/
 [^30]: Crypto Briefing, "Moonbeam Lands $6M in Funding Round Led by CoinFund," March 2021, accessed April 2026. https://cryptobriefing.com/moonbeam-lands-6m-funding-round-coinfund/
 [^31]: The Block, "PlayStation crypto game dev Gunzilla Games raises $30 million in round led by Avalanche fund and CoinFund," March 2024, accessed April 2026. https://www.theblock.co/post/284572/playstation-crypto-game-dev-gunzilla-games-raises-30-million-in-round-led-by-avalanche-fund-and-coinfund
+[^32]: Coinspeaker, "Monad Labs Successfully Raises $225M to Build EVM-Compatible L1 Monad Blockchain," April 9, 2024, accessed May 2026. https://www.coinspeaker.com/225m-evm-l1-monad-blockchain/ — Confirms Monad's $225M Series A on April 9, 2024 led by Paradigm; complete investor list includes Electric Capital, Castle Island Ventures, Greenoaks, Coinbase Ventures, CoinFund, Animoca Ventures, Archetype, Bankless Ventures, Big Brain Holdings, eGirl Capital, and Amber Group.
+[^33]: PitchBook, "Monad Labs rises to unicorn status with $225M raise in largest crypto round of 2024," April 2024, accessed May 2026. https://pitchbook.com/news/articles/monad-labs-225m-paradigm-series-a-unicorn — Identifies the round as Series A and reports $3 billion valuation per Fortune reporting in March 2024.
+[^34]: Fortune, "AI startup Prime Intellect raises $5.5M to build high-powered, decentralized research platform," April 23, 2024, accessed May 2026. https://fortune.com/2024/04/23/coinfund-distributed-global-prime-intellect-artificial-intelligence-ai-development/ — Independent confirmation of the $5.5M seed round co-led by Distributed Global and CoinFund, with Compound, Collab+Currency, Protocol Labs (Juan Benet), and angel investors including Hugging Face CEO Clem Delangue participating.
