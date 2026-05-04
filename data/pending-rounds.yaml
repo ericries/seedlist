@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Italian TravelTech startup Smartness closes €47 million Series B for European
+    expansion
+  url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
+  source: eu-startups
+  date_found: '2026-05-04'
+  parsed_company: Italian TravelTech startup Smartness
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
 - title: '“If Figma and Lovable had a child that became an architect”: Synaps raises
     €3.06 million to rival AutoCAD'
   url: https://www.eu-startups.com/2026/05/if-figma-and-lovable-had-a-child-that-became-an-architect-synaps-raises-e3-06-million-to-rival-autocad/
@@ -1041,15 +1050,3 @@ pending_rounds:
     AI Fund participating; UK AI lab founded by ex-DeepMind researcher David Silver
     pursuing reinforcement-learning superintelligence; updated sequoia-capital and
     index-ventures portfolios
-- title: Industrial cleaning robot developer KEMARO advances Series B with €4.2 million
-    pre-closing
-  url: https://www.eu-startups.com/2026/04/industrial-cleaning-robot-developer-kemaro-advances-series-b-with-e4-2-million-pre-closing/
-  source: eu-startups
-  date_found: '2026-04-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series B
-  status: skipped
-  skip_reason: Series B pre-closing only ($5M of $20M target), not a completed round;
-    named investors not yet disclosed — wait for full close per CLAUDE.md "wait for
-    official announcement"
