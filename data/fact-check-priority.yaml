@@ -1,1 +1,5 @@
-priority: []
+priority:
+  - slug: general-catalyst
+    type: firm
+    reason: "funded Musely $360M via Customer Value Fund (2026-05-01)"
+    added: 2026-05-04
