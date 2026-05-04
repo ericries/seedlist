@@ -1,1 +1,21 @@
-priority: []
+priority:
+  - slug: tiger-global-management
+    type: firm
+    reason: "co-led Sierra Series E (2026-05-04)"
+    added: 2026-05-04
+  - slug: gv
+    type: firm
+    reason: "co-led Sierra Series E (2026-05-04)"
+    added: 2026-05-04
+  - slug: benchmark
+    type: firm
+    reason: "participated in Sierra Series E (2026-05-04)"
+    added: 2026-05-04
+  - slug: sequoia-capital
+    type: firm
+    reason: "participated in Sierra Series E (2026-05-04)"
+    added: 2026-05-04
+  - slug: greenoaks-capital
+    type: firm
+    reason: "participated in Sierra Series E (2026-05-04)"
+    added: 2026-05-04

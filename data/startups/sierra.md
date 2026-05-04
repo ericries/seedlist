@@ -30,6 +30,26 @@ firms:
 - round: Series C
   slug: iconiq-growth
   year: 2024
+- round: series-e
+  slug: tiger-global-management
+  year: 2026
+  date: 2026-05-04
+- round: series-e
+  slug: gv
+  year: 2026
+  date: 2026-05-04
+- round: series-e
+  slug: benchmark
+  year: 2026
+  date: 2026-05-04
+- round: series-e
+  slug: sequoia-capital
+  year: 2026
+  date: 2026-05-04
+- round: series-e
+  slug: greenoaks-capital
+  year: 2026
+  date: 2026-05-04
 founded: 2023
 founders:
 - name: Bret Taylor
@@ -58,7 +78,7 @@ investors:
 - round: '2024'
   slug: matt-jacobson
   year: 2024
-last_researched: 2026-03-23
+last_researched: 2026-05-04
 location: San Francisco, CA
 name: Sierra
 sector:
@@ -66,10 +86,10 @@ sector:
 - enterprise-ai
 - customer-experience
 slug: sierra
-stage_latest: Series C
+stage_latest: Series E
 status: published
 status_company: active
-total_raised: $635M
+total_raised: $1.585B
 type: startup
 website: https://sierra.ai
 ---
@@ -87,8 +107,9 @@ Sierra builds AI agents that handle customer service interactions for enterprise
 | 2024-02-13 | Seed | $110M | ~$1B | Sequoia Capital, Benchmark | — [^1] |
 | 2024-10-28 | Series B | $175M | $4.5B | Greenoaks Capital | Thrive Capital, ICONIQ [^2][^3] |
 | 2025-09-04 | Series C | $350M | $10B | Greenoaks Capital | — [^4][^8] |
+| 2026-05-04 | Series E | $950M | $15.8B | Tiger Global, GV | Benchmark, Sequoia Capital, Greenoaks Capital [^9][^10][^11] |
 
-Total raised: $635M [^4].
+Total raised: $1.585B [^9][^10].
 
 ## What Investors Say
 
@@ -104,6 +125,10 @@ Taylor and Bavor on founding Sierra: "Starting Sierra was an early bet that AI a
 
 On reaching $100M ARR: "Credit goes to our amazing team, who've worked their tails off to build the business, and to our growing band of customers — the real pioneers of applied AI" [^5].
 
+Bret Taylor on the May 2026 Series E and competitive dynamics: "There's just a lot of competition. We are multiples larger than the next biggest and are trying to invest aggressively so that we can continue to expand our lead" [^10].
+
+Taylor on a future IPO: an IPO is "definitely in our future," though the company plans to remain private for now [^10].
+
 ## Sources
 
 [^1]: Fortune, "Exclusive: Ex-Salesforce Co-CEO Bret Taylor launches AI startup Sierra," February 13, 2024. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/
@@ -114,3 +139,6 @@ On reaching $100M ARR: "Credit goes to our amazing team, who've worked their tai
 [^6]: Sierra, "About Sierra," accessed March 2026. https://sierra.ai/about
 [^7]: Salesforce Ben, "Bret Taylor's AI Company Sierra Raises $350M Capital at $10B Valuation," September 2025. https://www.salesforceben.com/bret-taylors-ai-company-sierra-raises-350m-capital-at-10b-valuation/
 [^8]: Sierra blog, "There's an agent for that, and it runs on Sierra," September 2025. https://sierra.ai/blog/theres-an-agent-for-that-and-it-runs-on-sierra
+[^9]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/
+[^10]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^11]: Techmeme summary of Kate Rooney/CNBC reporting on Sierra Series E, May 4, 2026. https://www.techmeme.com/260504/p18
