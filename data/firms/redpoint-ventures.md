@@ -122,7 +122,7 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | Hims & Hers | Growth | 2018 | Healthcare/DTC | Public | Sparkco [^3] |
 | Next Insurance | Series A | 2016 | Insurtech | Acquired ($2.6B) | Sparkco [^3] |
 | Poolside | Series A | 2024 | AI | Active | TechCrunch [^4] |
-| Legora | Series D | 2026 | AI/Legal Tech | Active | TechCrunch [^8] |
+| Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | Active | TechCrunch [^8] |
 | AcuityMD | Series A (led) | 2022 | Healthcare/MedTech AI | Active | TechCrunch [^11] |
 | AcuityMD | Series C | 2026 | Healthcare/MedTech AI | Active | BusinessWire [^9] |
 | Omni | Series C | 2026 | AI/Analytics | Active | BusinessWire [^10] |

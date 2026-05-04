@@ -213,7 +213,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 
 | Oasis Security | Series A | 2024 | Cybersecurity/Identity | [^14] |
 | Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
-| Legora | Series D (led) | 2026 | AI/Legal Tech | [^16] |
+| Legora | Series D (led, $550M, $5.55B post) | 2026-03-10 | AI/Legal Tech | [^16] |
 | Oolka | Series A (led, ₹130 Cr, ₹730 Cr post-money valuation) | 2026-04-30 | Fintech/AI/India | [^37][^48][^49][^50] |
 | Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
 | OpenFX | Series A ($94M, co-led) | 2026-03-31 | Fintech/Stablecoin/FX | [^45][^46][^47] |

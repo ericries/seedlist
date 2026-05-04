@@ -168,7 +168,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | 3Com | Seed | 1981 | Networking | Acquired [^2] |
 | ElevenLabs | Series C | 2025 | AI/Voice | Active [^7] |
 | Synthesia | Series D | 2025 | AI/Video | Active [^7] |
-| Qualified Health | Series B | 2026 | Healthcare/AI | Active [^11] |
+| Qualified Health | Series B (led, $125M) | 2026-03-25 | Healthcare/AI | Active [^11] |
 | Bluefish | Series B | 2026 | AI/Marketing Tech | Active [^18] |
 | Spektr | Series A | 2026 | Fintech/Compliance | Active [^19] |
 
@@ -200,7 +200,7 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^8]: businessabc.net, "New Enterprise Associates (NEA) - Venture Capital." https://businessabc.net/wiki/new-enterprise-associates-nea
 [^9]: NEA website, "Portfolio: Cloudflare," accessed March 2026. https://www.nea.com/portfolio/cloudflare
 [^10]: NEA website, "Portfolio: Databricks," accessed March 2026. https://www.nea.com/portfolio/databricks
-[^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/
+[^11]: PR Newswire, "Qualified Health Raises $125M Series B to Meet Growing Demand for Enterprise AI Transformation Across Health Systems," March 25, 2026, accessed May 2026. https://www.prnewswire.com/news-releases/qualified-health-raises-125m-series-b-to-meet-growing-demand-for-enterprise-ai-transformation-across-health-systems-302723600.html
 [^12]: Tracxn, "Salesforce — 2026 Company Profile, Team, Funding, Competitors & Financials," accessed April 2026. https://tracxn.com/d/companies/salesforce/__meXShWFhj6RRXVaUgSdybLdExpZGUx224nYjFl0eCjo
 [^13]: NEA website, "Portfolio: Workday," accessed April 2026. https://www.nea.com/portfolio/workday
 [^14]: PE Hub, "Workday Raises $75 Million Round Led by NEA: Total Funding Now Exceeds Whopping $150 Million," April 2009. https://www.pehub.com/2009/04/workday-raises-75-million-round-led-by-nea-total-funding-now-exceeds-whopping-150-million/

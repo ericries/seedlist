@@ -209,7 +209,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |
 | Forge | Early | ~2025 | AI | Private [^1] |
 | FOMO | Early | 2026 | Financial Services | Private [^9] |
-| Legora | Series D | 2026 | AI / Legal Tech | Private [^33] |
+| Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
 | Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
 
 *Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*

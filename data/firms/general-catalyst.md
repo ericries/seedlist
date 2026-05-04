@@ -213,7 +213,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Warby Parker | Early Stage | ~2010 (founded) | Consumer / D2C | Public (IPO 2021) [^3] |
 | Moda | Seed (led) | 2026 | AI / Design | Private [^37] |
 | Adonis | Series B | ~2025 | Healthcare / AI RCM | Private [^38] |
-| Legora | Series D | 2026 | AI / Legal Tech | Private [^39] |
+| Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^39] |
 | Conntour | Seed | 2026 | AI / Security / Video Intelligence | Private [^40] |
 | Numos | Seed | 2026 | AI / Fintech / Enterprise | Private [^41] |
 | Avoca | Series B (co-led) | 2026-04-27 | AI / Vertical SaaS / Services Economy | Private [^42] |

@@ -113,9 +113,9 @@ Based on Menlo Ventures' verified portfolio data:
 | PillPack | Early | ~2014 | Healthcare | Acquired by Amazon [^3] |
 | Siri | Early | ~2009 | AI/Voice | Acquired by Apple [^3] |
 | Typeface | Early | ~2023 | AI/Content | Private [^1] |
-| Grow Therapy | Series D | 2026 | Healthcare/Mental Health | Private [^9] |
-| Legora | Series D | 2026 | AI/Legal Tech | Private [^10] |
-| Qualified Health | Series B | 2026 | Healthcare/AI | Private [^11] |
+| Grow Therapy | Series D (participated) | 2026-03-03 | Healthcare/Mental Health | Private [^9][^14][^15] |
+| Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | Private [^10][^16][^17] |
+| Qualified Health | Series B (participated, Anthology Fund) | 2026-03-25 | Healthcare/AI | Private [^11][^18] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Private [^12] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Private [^13] |
 
@@ -141,7 +141,12 @@ No independently sourced founder testimonials found.
 [^8]: GlobeNewsWire, "Menlo Ventures' 2025 State of Generative AI Report," December 9, 2025. https://www.globenewswire.com/news-release/2025/12/09/3202258/0/en/Menlo-Ventures-2025-State-of-Generative-AI-Report-Enterprise-Investment-Hit-37B-in-2025-Tripling-in-One-Year.html
 [^9]: "Grow Therapy Raises $150 Million in Series D." PR Newswire, March 3, 2026. https://www.prnewswire.com/news-releases/grow-therapy-raises-150-million-in-series-d-as-it-solidifies-new-flagship-partnerships-302702388.html
 [^10]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
-[^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/
+[^11]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/news-releases/qualified-health-raises-125m-series-b-to-meet-growing-demand-for-enterprise-ai-transformation-across-health-systems-302723600.html
 [^12]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/
 
 [^13]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale
+[^14]: Grow Therapy blog, "Grow Therapy Raises $150M to Expand Mental Health Access," accessed May 2026. https://growtherapy.com/blog/series-d/
+[^15]: Behavioral Health Business, "With $1B in Revenue, Grow Therapy Lands $150M Series D," March 3, 2026, accessed May 2026. https://bhbusiness.com/2026/03/03/with-1b-in-revenue-grow-therapy-lands-150m-series-d/
+[^16]: Legora newsroom, "Legora raises $550 million Series D to fuel US growth," March 10, 2026, accessed May 2026. https://legora.com/newsroom/legora-raises-550-million-series-d-to-fuel-us-growth
+[^17]: Crunchbase News, "Swedish Legal Tech Startup Legora Triples Valuation To $5.55B With $550M Series D Led By Accel," March 10, 2026, accessed May 2026. https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
+[^18]: The SaaS News, "Qualified Health Secures $125M in Series B," March 26, 2026, accessed May 2026. https://www.thesaasnews.com/news/qualified-health-secures-125m-in-series-b

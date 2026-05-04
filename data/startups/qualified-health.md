@@ -23,33 +23,6 @@ firms:
   - slug: menlo-ventures
     round: series-b
     year: 2026
-  - slug: signalfire
-    round: series-b
-    year: 2026
-  - slug: frist-cressey-ventures
-    round: series-b
-    year: 2026
-  - slug: flare-capital
-    round: series-b
-    year: 2026
-  - slug: healthier-capital
-    round: series-b
-    year: 2026
-  - slug: town-hall-ventures
-    round: series-b
-    year: 2026
-  - slug: intermountain-ventures
-    round: series-b
-    year: 2026
-  - slug: transformation-capital
-    round: series-b
-    year: 2026
-  - slug: greatpoint-ventures
-    round: series-b
-    year: 2026
-  - slug: cathay-innovation
-    round: series-b
-    year: 2026
 founders: []
 status: published
 last_researched: 2026-03-30
@@ -63,7 +36,7 @@ Qualified Health is an enterprise AI company focused on health systems [^1]. The
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-03-25 | Series B | $125M | NEA (Mohamad Makhzoumi) | Transformation Capital, GreatPoint Ventures, Cathay Innovation, Menlo Ventures Anthology Fund; existing: SignalFire, Frist Cressey Ventures, Flare Capital, Healthier Capital, Town Hall Ventures, Intermountain Ventures [^1] |
+| 2026-03-25 | Series B | $125M | NEA (Mohamad Makhzoumi) | Transformation Capital, GreatPoint Ventures, Cathay Innovation, Menlo Ventures Anthology Fund; existing: SignalFire, Frist Cressey Ventures, Flare Capital, Healthier Capital, Town Hall Ventures, Intermountain Ventures [^1][^2] |
 
 ## What Investors Say
 
@@ -75,4 +48,5 @@ No independently sourced founder quotes found at this time.
 
 ## Sources
 
-[^1]: PR Newswire, "Qualified Health Raises $125M Series B," March 25, 2026. https://www.prnewswire.com/
+[^1]: PR Newswire, "Qualified Health Raises $125M Series B to Meet Growing Demand for Enterprise AI Transformation Across Health Systems," March 25, 2026, accessed May 2026. https://www.prnewswire.com/news-releases/qualified-health-raises-125m-series-b-to-meet-growing-demand-for-enterprise-ai-transformation-across-health-systems-302723600.html
+[^2]: The SaaS News, "Qualified Health Secures $125M in Series B," March 26, 2026, accessed May 2026. https://www.thesaasnews.com/news/qualified-health-secures-125m-in-series-b

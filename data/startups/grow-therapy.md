@@ -60,7 +60,7 @@ Grow Therapy is a New York-based mental health platform founded in October 2020 
 | Sep 2021 | Series A | $15M | SignalFire | — [^3] |
 | ~2023 | Series B | $75M | TCV | Transformation Capital, SignalFire [^4] |
 | Apr 2024 | Series C | $88M | Sequoia Capital | Goldman Sachs Alternatives, Plus Capital [^5] |
-| Mar 2026 | Series D | $150M | TCV, Goldman Sachs Alternatives (co-lead) | BCI, Menlo Ventures, Sequoia Capital, SignalFire, Transformation Capital [^1] |
+| 2026-03-03 | Series D | $150M | TCV, Goldman Sachs Alternatives (co-lead) | BCI, Menlo Ventures [^1][^2][^6] |
 
 Total raised: $328M. Valued at $3B as of Series D [^2].
 
@@ -79,3 +79,4 @@ No independently sourced founder testimonials found.
 [^3]: TechCrunch, "Grow Therapy plants $15M into helping therapists start their own practices," September 23, 2021, accessed March 2026. https://techcrunch.com/2021/09/23/grow-therapy-plants-15m-into-helping-therapists-start-their-own-practices/
 [^4]: Grow Therapy blog, "Grow Therapy announces $75M Series B raise," accessed March 2026. https://growtherapy.com/blog/series-b/
 [^5]: Grow Therapy blog, "Grow Therapy launches measurement-informed care, raises Series C," accessed March 2026. https://growtherapy.com/blog/grow-raises-series-c/
+[^6]: Behavioral Health Business, "With $1B in Revenue, Grow Therapy Lands $150M Series D," March 3, 2026, accessed May 2026. https://bhbusiness.com/2026/03/03/with-1b-in-revenue-grow-therapy-lands-150m-series-d/
