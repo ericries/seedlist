@@ -1,7 +1,7 @@
 ---
 founded: 2000
 fund_size: $8B (Fund XII, 2024); $4.6B (Fund XI, 2022)
-last_researched: 2026-05-02
+last_researched: 2026-05-04
 location: Cambridge, MA
 name: General Catalyst
 sector_focus:
@@ -219,6 +219,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Avoca | Series B (co-led) | 2026-04-27 | AI / Vertical SaaS / Services Economy | Private [^42] |
 | Aidoc | Series E | 2026-04-29 | Healthcare / Clinical AI | Private [^46] |
 | JuliaHub | Series B (participated) | 2026-04-30 | Scientific AI / Industrial Digital Twins | Private [^51] |
+| Musely | Non-Dilutive Growth (CVF, led) | 2026-05-01 | Healthcare / Telemedicine | Private [^52] |
 
 *Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -368,3 +369,5 @@ No independently sourced founder testimonials were found in this research pass. 
 [^50]: Cloaked blog, "Announcing our $375M Series B Raise and Growth Financing," March 2026. https://www.cloaked.com/post/announcing-our-375m-series-b-raise — Cloaked's $375M Series B (announced March 19, 2026) was co-led by General Catalyst and Liberty City Ventures and was funded through General Catalyst's Customer Value Fund (a non-dilutive growth financing vehicle). Co-investors included Lux Capital, Human Capital, Marquee Ventures, Fifth Growth Fund, NFL Players Association, LG Technology Ventures, Assurant Ventures, and DuckDuckGo. Cross-referenced with TechCrunch, "Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise," March 19, 2026. https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/ and BusinessWire, "Cloaked Raises $375 Million to Fight for Privacy in the Age of AI," March 19, 2026. https://www.businesswire.com/news/home/20260319361833/en/Cloaked-Raises-$375-Million-to-Fight-for-Privacy-in-the-Age-of-AI
 
 [^51]: JuliaHub blog, "JuliaHub Raises $65M Series B and Launches Dyad 3.0, Bringing Agentic AI to Industrial Digital Twins," April 30, 2026. https://juliahub.com/blog/juliahub-raises-65m-series-b-launches-dyad-3.0 — JuliaHub announced a $65M Series B led by Dorilton Capital with participation from General Catalyst, AE Ventures, and Bob Muglia. Cross-referenced with PR Newswire, "JuliaHub raises $65M Series B and launches Dyad 3.0, bringing Agentic AI to Industrial Digital Twins," April 30, 2026. https://www.prnewswire.com/news-releases/juliahub-raises-65m-series-b-and-launches-dyad-3-0--bringing-agentic-ai-to-industrial-digital-twins-302758889.html and Axios, "AI startup JuliaHub raises $65M to rival Simulink," April 30, 2026. https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering
+
+[^52]: Marina Temkin, "Musely secures $360M from General Catalyst without giving up equity," TechCrunch, May 1, 2026. https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/ — Musely, a direct-to-consumer telemedicine platform serving 1.2M+ patients, secured $360M+ in non-dilutive growth financing from General Catalyst's Customer Value Fund (CVF), structured as a revenue-share agreement rather than equity or debt. Cross-referenced with IndexBox, "Musely Raises Over $360 Million in Non-Dilutive Capital from General Catalyst's CVF," May 2026. https://www.indexbox.io/blog/musely-raises-over-360-million-in-non-dilutive-capital-from-general-catalysts-cvf/

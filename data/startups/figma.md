@@ -6,9 +6,13 @@ firms:
 - round: Seed
   slug: independent
   year: 2018
-- round: Angel
+- round: Series C
   slug: coatue-management
   year: 2019
+- round: Secondary / Tender (participated)
+  slug: coatue-management
+  year: 2024
+  date: 2024-07-17
 - round: Series C ($40M, led)
   slug: sequoia-capital
   year: 2019
@@ -135,7 +139,7 @@ investors:
 - round: Seed
   slug: divesh-makan
   year: 2013
-last_researched: 2026-03-13
+last_researched: 2026-05-04
 location: San Francisco, CA
 name: Figma
 sector:
@@ -172,7 +176,7 @@ Figma went public on the New York Stock Exchange in July 2025, pricing its IPO a
 | Series D | Apr 2020 | $50M | Andreessen Horowitz | Sequoia, Durable Capital [^7] | $2B |
 | Series E | Jun 2021 | $200M | Durable Capital Partners | Flat Capital, Morgan Stanley [^7] | $10B |
 | Series F (tender) | 2024-05-16 | $416M | Durable Capital | Morgan Stanley, a16z, Sequoia, Kleiner Perkins, Index Ventures, Greylock, Fidelity [^8][^16] | $12.5B [^16] |
-| Secondary | Jul 2024 | $700M | Alkeon Capital, Coatue, General Catalyst | — [^8] | $12.5B |
+| Secondary / Tender | 2024-07-17 | $600M–$900M (estimated) | Alkeon Capital, Coatue, General Catalyst | SurgoCap, Atlassian, Fidelity, Franklin Templeton, ICONIQ, Sequoia, Thrive, Greenoaks, Durable Capital, Andreessen Horowitz, Kleiner Perkins, Eddy Cue, Goanna Capital, XN [^8][^17][^18] | $12.5B |
 
 SV Angel is listed as a portfolio investor in Figma at the growth stage [^9].
 
@@ -206,3 +210,7 @@ After Figma's IPO, Field told his team: "Number goes up, number goes down. And w
 [^14]: PitchBook, "Sequoia leads $40M design funding," February 14, 2019. https://pitchbook.com/newsletter/sequoia-leads-40m-design-funding
 [^15]: TechCrunch, "Figma gets $40 million Series C to put design tools in the cloud," February 14, 2019. https://techcrunch.com/2019/02/14/figma-gets-40-million-series-c-to-put-design-tools-in-the-cloud/
 [^16]: Bloomberg, "Figma Valued at $12.5 Billion in Secondary Share Sale After Adobe Deal Collapse," May 16, 2024. https://www.bloomberg.com/news/articles/2024-05-16/figma-valued-at-12-5-billion-in-secondary-share-sale
+
+[^17]: SiliconANGLE, "Figma confirms undisclosed funding round that brings its value to $12.5B," July 17, 2024. https://siliconangle.com/2024/07/17/figma-confirms-undisclosed-funding-round-brings-value-12-5b/ — Figma confirmed the secondary tender on July 17, 2024 with Coatue, Alkeon, General Catalyst, SurgoCap, Atlassian, Fidelity, Franklin Templeton, ICONIQ, Sequoia, Thrive, Greenoaks, Durable Capital, a16z, Kleiner Perkins, Eddy Cue, Goanna Capital, and XN named as participating investors.
+
+[^18]: Bloomberg Law, "Coatue, General Catalyst Back Figma at $12.5 Billion Valuation," July 17, 2024. https://news.bloomberglaw.com/private-equity/coatue-general-catalyst-back-figma-at-12-5-billion-valuation — Independent confirmation. Cross-referenced with The Tech Portal, "Figma reportedly valued at $12.5Bn in latest investment from Coatue, General Catalyst and others," July 18, 2024. https://thetechportal.com/2024/07/18/figma-secures-12-5bn-valuation-in-latest-investment/

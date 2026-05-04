@@ -74,7 +74,7 @@ The firm states that its investment platform "harnesses the power of ICONIQ Capi
 
 ICONIQ Growth states that it typically makes its first investment at the Series B stage when companies are generating approximately $10 million in annual revenue [^2]. The firm publicly emphasizes its AI focus, describing AI as a "core focus" area [^2]. At their 2025 Ascent summit, partners Will Griffith and Matt Jacobson articulated that "tomorrow's winners will harness proprietary data, embrace agentic workflows, rethink pricing models, and stay technically close to both product and customer" [^12].
 
-The firm states it avoids investing in companies building underlying AI foundation models due to how "immensely capital-intensive" that work is, instead preferring to invest in startups developing applications built on top of AI models [^13]. However, ICONIQ co-led Anthropic's Series G round in 2025, suggesting this stated preference has evolved [^10].
+The firm states it avoids investing in companies building underlying AI foundation models due to how "immensely capital-intensive" that work is, instead preferring to invest in startups developing applications built on top of AI models [^13]. However, ICONIQ led Anthropic's Series F in September 2025 and co-led the $30B Series G in February 2026, suggesting this stated preference has evolved [^10].
 
 ## Inferred Thesis
 
@@ -90,7 +90,7 @@ Based on 51 verified portfolio investments, ICONIQ Growth's actual investment be
 
 **Co-investor patterns:** ICONIQ frequently co-invests with top-tier growth equity firms including Thrive Capital, Sequoia, Andreessen Horowitz, Insight Partners, and Lightspeed. A distinctive feature is the firm's ability to bring portfolio company operators as co-investors: Snowflake CEO Frank Slootman and Datadog president Amit Agarwal personally co-invested in the NinjaOne Series C alongside ICONIQ [^14].
 
-**Notable gap between stated and actual thesis:** Despite stating they avoid AI foundation model companies, ICONIQ co-led Anthropic's Series G round [^10], suggesting the firm's actual AI appetite is broader than its public messaging implies. The firm is also more heavily weighted toward enterprise software than its stated breadth across "sectors and geographies" suggests — 73% of verified investments are enterprise SaaS.
+**Notable gap between stated and actual thesis:** Despite stating they avoid AI foundation model companies, ICONIQ led Anthropic's Series F (Sept 2025) and co-led the Series G ($30B, Feb 2026) [^10], suggesting the firm's actual AI appetite is broader than its public messaging implies. The firm is also more heavily weighted toward enterprise software than its stated breadth across "sectors and geographies" suggests — 73% of verified investments are enterprise SaaS.
 
 **Value-add model as differentiator:** ICONIQ's wealth management network creates a genuinely differentiated value-add capability. In 2025, the firm made 3,225+ strategic and commercial introductions, advised on 120+ executive and board-level searches, hosted 100+ dinners and events across 20 cities, and maintained a proprietary dataset of 70,000+ financial and operating data points [^10]. This network-driven model is arguably the firm's primary competitive advantage over other growth equity firms.
 
@@ -114,7 +114,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Ramp | Series E-2 ($500M, lead, $22.5B valuation) | 2025-07-30 | Fintech | Active | [^3] [^39] |
 | ElevenLabs | Series C ($180M, co-lead, $3.3B valuation) | 2024 | AI/Voice | Active | [^24] [^33] |
 | ElevenLabs | Series D ($500M, $11B valuation) | 2025 | AI/Voice | Active | [^24] [^34] |
-| Anthropic | Series G (co-lead) | 2025 | AI/Foundation Models | Active | [^10] [^3] |
+| Anthropic | Series G (co-lead) | 2026-02-12 | AI/Foundation Models | Active | [^10] [^3] |
 | Databricks | Series J ($10B, participated) | 2024-12-17 | AI/Data Platform | Active | [^3][^42] |
 | Quince | Series D ($200M, lead, $4.5B valuation) | 2025-07-29 | Consumer/E-commerce | Active | [^3] [^40] |
 | Lead Bank | Series B | 2025 | Fintech | Active | [^10] |

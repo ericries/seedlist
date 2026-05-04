@@ -6,9 +6,10 @@ firms:
 - round: Growth
   slug: sequoia-capital
   year: 2023
-- round: '2026'
+- round: Series G (Co-Led)
   slug: coatue-management
   year: 2026
+  date: 2026-02-12
 - round: '2025'
   slug: d1-capital-partners
   year: 2025
@@ -82,9 +83,10 @@ investors:
 - round: Growth
   slug: sonya-huang
   year: 2023
-- round: '2026'
+- round: Series G (Co-Led)
   slug: philippe-laffont
   year: 2026
+  date: 2026-02-12
 - round: '2025'
   slug: dan-sundheim
   year: 2025
@@ -145,7 +147,7 @@ investors:
 - round: Series F (co-lead)
   slug: divesh-makan
   year: 2025
-last_researched: 2026-03-13
+last_researched: 2026-05-04
 location: San Francisco, CA
 name: Anthropic
 sector:
@@ -180,7 +182,7 @@ Anthropic is an American artificial intelligence company founded in 2021 by Dari
 | Amazon Investment (Extension) | Nov 2024 | $4B | N/A | Amazon | N/A [^9] |
 | Series E | Mar 2025 | $3.5B | $61.5B (post) | Lightspeed Venture Partners | Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures [^10] |
 | Series F | Sep 2025 | $13B | $183B (post) | ICONIQ | Fidelity, Lightspeed Venture Partners, Goldman Sachs [^11] |
-| Series G | Feb 2026 | $30B | $380B (post) | Coatue, GIC | D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX [^12] |
+| Series G | 2026-02-12 | $30B | $380B (post) | GIC, Coatue (co-led) | D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX (co-leads); Accel, Altimeter, Baillie Gifford, Bessemer, BlackRock, Blackstone, D1 Capital, Fidelity, General Catalyst, Greenoaks, Goldman Sachs Alternatives, Insight Partners, Jane Street, JPMorganChase, Lightspeed, Menlo Ventures, Morgan Stanley, Qatar Investment Authority, Sands, Sequoia, Temasek, TPG [^12][^15][^16] |
 
 ## What Investors Say
 
@@ -209,3 +211,7 @@ Dario Amodei has stated that Anthropic exists because its founders believed AI s
 [^12]: CNBC, "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups," February 2026. https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html
 [^13]: WebProNews, "Anthropic's Dario Amodei on AGI Timelines, AI Safety, and the Race That Actually Matters," accessed March 2026. https://www.webpronews.com/anthropics-dario-amodei-on-agi-timelines-ai-safety-and-the-race-that-actually-matters/
 [^14]: Fortune, "Anthropic was supposed to be a 'safe' alternative to OpenAI, but CEO Dario Amodei admits his company struggles to balance safety with profits," February 2026. https://fortune.com/2026/02/17/anthropic-ceo-dario-amodei-balancing-safety-commercial-pressure-ai-race-openai/
+
+[^15]: Anthropic, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 12, 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation — Primary announcement naming GIC and Coatue as Series G leads at $380B post-money valuation.
+
+[^16]: GIC, "GIC Leads $30 Billion Series G in Anthropic," February 12, 2026. https://www.gic.com.sg/newsroom/all/gic-leads-30-billion-series-g-in-anthropic/ — GIC's own announcement naming itself as lead and Coatue as co-lead. Cross-referenced with Orrick, "Anthropic Raises $30B Series G at $380B Post-Money Valuation," February 17, 2026. https://www.orrick.com/en/News/2026/02/Anthropic-Raises-30B-Series-G-at-380B-Post-Money-Valuation

@@ -55,7 +55,7 @@ team:
     role: "President & Head of Strategy"
     name: "Nathan Urquhart"
 status: published
-last_researched: 2026-03-14
+last_researched: 2026-05-04
 ---
 
 ## About
@@ -168,12 +168,12 @@ The following table includes Coatue investments verified through the firm's port
 | CoreWeave | Series C (Led) | 2024-05-01 | AI Infrastructure / Cloud | Public (IPO 2025) [^22][^44][^45] |
 | Stability AI | Seed (Co-Led) | 2022 | AI / Generative | Private [^25] |
 | OpenAI | Growth | 2025 | AI | Private [^23] |
-| Anthropic | Series G (Co-Led) | 2026 | AI | Private [^23] |
+| Anthropic | Series G (Co-Led) | 2026-02-12 | AI | Private [^23][^48][^49] |
 | Cursor (Anysphere) | Series D (Co-Led) | 2025-11-13 | AI / Developer Tools | Private [^24][^46][^47] |
 | AI21 Labs | Growth | ~2022 | AI / NLP | Private [^12] |
 | Hugging Face | Growth | ~2023 | AI / Open Source | Private [^12] |
 | Alan | Growth | ~2021 | Healthcare / Insurance | Private [^12] |
-| Figma | Growth | 2024 | Design / Developer Tools | Public (IPO 2025) [^32] |
+| Figma | Secondary / Tender (participated) | 2024-07-17 | Design / Developer Tools | Public (IPO 2025) [^32][^50][^51] |
 | BeReal | Growth | ~2022 | Consumer / Social | Private [^12] |
 | Aurora Solar | Growth | ~2021 | Clean Energy / Software | Private [^12] |
 | Bitso | Growth | ~2021 | Crypto / Exchange | Private [^12] |
@@ -322,3 +322,11 @@ No independently sourced negative or critical founder testimonials were found in
 [^46]: Cursor blog, "Past, Present, and Future," November 13, 2025. https://cursor.com/blog/series-d — Anysphere announces $2.3B Series D at $29.3B valuation; Coatue, NVIDIA, and Google joined as new investors alongside existing investors Accel, Thrive, and Andreessen Horowitz.
 
 [^47]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 2025. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue co-led the financing with Accel; Cursor's Series D values the company at $29.3 billion post-money.
+
+[^48]: Anthropic, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 12, 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation — Anthropic's primary announcement names GIC and Coatue as the lead investors of the $30B Series G at a $380B post-money valuation, with D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX as co-leads. Additional participating investors include Accel, Addition, Altimeter, Baillie Gifford, Bessemer Venture Partners, BlackRock, Blackstone, D1 Capital Partners, Fidelity, General Catalyst, Greenoaks, Goldman Sachs Alternatives, Insight Partners, Jane Street, JPMorganChase, Lightspeed, Menlo Ventures, Morgan Stanley Investment Management, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, TPG, and others.
+
+[^49]: GIC Newsroom, "GIC Leads $30 Billion Series G in Anthropic," February 12, 2026. https://www.gic.com.sg/newsroom/all/gic-leads-30-billion-series-g-in-anthropic/ — Independent confirmation that GIC led with Coatue as co-lead. Cross-referenced with Orrick, "Anthropic Raises $30B Series G at $380B Post-Money Valuation," February 17, 2026. https://www.orrick.com/en/News/2026/02/Anthropic-Raises-30B-Series-G-at-380B-Post-Money-Valuation — confirms "Anthropic has completed a Series G fundraising of $30 billion led by GIC and Coatue."
+
+[^50]: SiliconANGLE, "Figma confirms undisclosed funding round that brings its value to $12.5B," July 17, 2024. https://siliconangle.com/2024/07/17/figma-confirms-undisclosed-funding-round-brings-value-12-5b/ — Figma confirmed a secondary share sale (tender offer) at a $12.5B valuation announced July 17, 2024. Coatue Management was named as a participating investor alongside Alkeon Capital, General Catalyst, SurgoCap, Atlassian, Fidelity, Franklin Templeton, ICONIQ, Sequoia, Thrive Capital, Greenoaks, Durable Capital, Andreessen Horowitz, Kleiner Perkins, Eddy Cue, Goanna Capital, and XN.
+
+[^51]: Bloomberg Law, "Coatue, General Catalyst Back Figma at $12.5 Billion Valuation," July 17, 2024. https://news.bloomberglaw.com/private-equity/coatue-general-catalyst-back-figma-at-12-5-billion-valuation — Independent confirmation of July 17, 2024 announcement with Coatue, Alkeon, General Catalyst, Sequoia, Andreessen Horowitz, and ICONIQ named as investors at $12.5B valuation. Cross-referenced with The Tech Portal, "Figma reportedly valued at $12.5Bn in latest investment from Coatue, General Catalyst and others," July 18, 2024. https://thetechportal.com/2024/07/18/figma-secures-12-5bn-valuation-in-latest-investment/
