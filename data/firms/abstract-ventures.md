@@ -102,7 +102,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Polymarket | Seed | ~2023 | Crypto | Active [^14] |
 | 11x | Series A | 2024-09-16 | AI/Enterprise | Active (participated) [^6][^18][^19] |
 | Vapi | Series A | 2024-12-12 | AI | Active (participated) [^8][^20][^21][^22] |
-| Acryl Data | Series A | ~2024 | Enterprise | Active [^6] |
+| Acryl Data | Series A (participation unverified in announcement) | 2023-06-22 | Enterprise | Active [^6][^26][^27][^28] |
 | Adaptive Security | Series A ($43M, participated) | 2025-04-02 | Enterprise/Security | Active [^6][^23][^24][^25] |
 | Arc Boats | Seed | ~2024 | Consumer/DeepTech | Active [^6] |
 | Applied Compute | Series B | ~2024 | AI | Active [^6] |
@@ -110,7 +110,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Aether Biomachines | Series A | ~2024 | Biotech | Active [^6] |
 | Neon | Seed | ~2022 | DevTools | Exited [^6] |
 | Moov | Seed | ~2021 | Fintech | Active [^9] |
-| Legora | Seed | 2026 | AI | Active [^15] |
+| Legora | Round undisclosed | ~2024 | AI/Legal Tech | Active [^6][^29] |
 | Natural | Seed | 2025 | AI | Active [^5] |
 | Telepatia | Seed | 2025 | Healthcare/AI | Active [^5] |
 | Coworker AI | Seed | 2025 | AI | Active [^15] |
@@ -169,3 +169,7 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^23]: PRNewswire, "Adaptive Security Raises $43M from a16z and OpenAI Startup Fund to Combat AI-Powered Cyber Attacks Including Deepfakes, Vishing and Smishing," April 2, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/adaptive-security-raises-43m-from-a16z-and-openai-startup-fund-to-combat-ai-powered-cyber-attacks-including-deepfakes-vishing-and-smishing-302417695.html — Primary source for $43M Series A announced April 2, 2025 co-led by Andreessen Horowitz and OpenAI Startup Fund; participating investors include Abstract Ventures, Eniac Ventures, CrossBeam Ventures, K5, plus executives from Google, Workday, Shopify, Plaid, and Paxos. Marks OpenAI's first investment in a cybersecurity startup.
 [^24]: Adaptive Security blog, "$43M Raised to Tackle AI-Powered Social Engineering Threats," April 2, 2025, accessed May 2026. https://www.adaptivesecurity.com/blog/43-million-funding-announcement — Company's own announcement confirming April 2, 2025 date, $43M raise, a16z and OpenAI Startup Fund as lead investors with Abstract Ventures, Eniac Ventures, CrossBeam Ventures, and K5 participating.
 [^25]: The SaaS News, "Adaptive Security Raises $43M in Funding," April 3, 2025, accessed May 2026. https://www.thesaasnews.com/news/adaptive-security-raises-43m-in-funding — Independent confirmation of the $43M Series A round co-led by Andreessen Horowitz and OpenAI Startup Fund with Abstract Ventures among participating investors.
+[^26]: TechCrunch, "Acryl Data raises $21M to grow its enterprise data catalog platform," June 22, 2023, accessed May 2026. https://techcrunch.com/2023/06/22/acryl-data-raises-21m-to-grow-its-enterprise-data-catalog-platform/ — Confirms $21M Series A on June 22, 2023, led by 8VC (Bhaskar Ghosh) with participation from Sherpalo Ventures and Vercel CEO Guillermo Rauch. Abstract Ventures is not named in the announcement; Abstract's portfolio page lists Acryl Data but the specific round of participation is not independently verified.
+[^27]: VCAOnline, "Acryl Data Secures $21M Series A," June 22, 2023, accessed May 2026. https://www.vcaonline.com/news/2023062213/acryl-data-secures-21m-series-a-to-accelerate-the-future-of-data-management-adding-data-observability-and-an-open-control-plane-for-data/ — Confirms $21M Series A led by 8VC; participants listed are Sherpalo Ventures (Ram Shriram) and Vercel CEO Guillermo Rauch; existing backers from prior seed round include LinkedIn and Insight Partners. Abstract Ventures not named.
+[^28]: Financial IT, "Acryl Data Raises $21M to Accelerate Future of Data Management," June 23, 2023, accessed May 2026. https://financialit.net/news/fundraising-news/acryl-data-raises-21m-accelerate-future-data-management — Independent confirmation of $21M Series A led by 8VC with participation from Sherpalo Ventures, Mantis VC (The Chainsmokers), and Vercel CEO Guillermo Rauch. Abstract Ventures not named.
+[^29]: Tracxn, "Legora — 2026 Funding Rounds & Investors," accessed May 2026. https://tracxn.com/d/companies/legora/__juHzepRwgdvzHYcHLPFyBBeftwIAYiCwhSQTy4a-BmY/funding-and-investors — Lists Legora's complete funding history: $500K Seed (2024, Y Combinator); $10.5M Seed (May 16, 2024, led by Chetan Puttagunta/Benchmark with Hummingbird, SV Angel, Y Combinator); $25M Series A (July 17, 2024, led by Redpoint with Y Combinator, Benchmark, Wayfinder, Alt Capital); $80M Series B (May 21, 2025, led by ICONIQ and General Catalyst); $150M Series C (October 28, 2025, led by Bessemer); $550M Series D (March 9, 2026, led by Accel). Abstract Ventures is NOT listed in any announced round, though Abstract's own portfolio page includes Legora — the specific round of participation cannot be independently verified.
