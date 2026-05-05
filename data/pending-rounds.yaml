@@ -67,6 +67,28 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact (HTML entity u003e)
+- title: Germany’s eleQtron raises €57 million Series A to scale quantum computing
+    systems for industrial applications
+  url: https://www.eu-startups.com/2026/05/germanys-eleqtron-raises-e57-million-series-a-to-scale-quantum-computing-systems-for-industrial-applications/
+  source: eu-startups
+  date_found: '2026-05-05'
+  parsed_company: Germany’s eleQtron
+  parsed_amount: null
+  parsed_round: Series A
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by eleqtron.md (€57M Series A 2026-05-05 led by Schwarz Digits with
+    EIC Fund, Earlybird, Ankaa Ventures, Precitec, NRW.Bank, IFB Hamburg)
+- title: Warsaw-based Elastics raises €1.7 million to build AI agents for prediction
+    markets
+  url: https://www.eu-startups.com/2026/05/warsaw-based-elastics-raises-e1-7-million-to-build-ai-agents-for-prediction-markets/
+  source: eu-startups
+  date_found: '2026-05-05'
+  parsed_company: Warsaw-based Elastics
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €1.7M Warsaw pre-seed below typical Seedlist threshold
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -131,6 +153,15 @@ pending_rounds:
   processed: '2026-05-04'
   notes: covered by barocal.md (€8.5M Seed 2026-05-04 led by World Fund with Breakthrough
     Energy Discovery, Cambridge Enterprise, IP Group)
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/4/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-4-2026/
+  source: alleywatch
+  date_found: '2026-05-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: aggregator daily summary; only Reserv listed and already covered (reserv.md)
 - title: '“If Figma and Lovable had a child that became an architect”: Synaps raises
     €3.06 million to rival AutoCAD'
   url: https://www.eu-startups.com/2026/05/if-figma-and-lovable-had-a-child-that-became-an-architect-synaps-raises-e3-06-million-to-rival-autocad/
@@ -990,38 +1021,3 @@ pending_rounds:
   processed: '2026-04-28'
   notes: covered by performativ.md startup profile; same announcement as eu-startups
     entry above (primary press)
-- title: British e-bike operator Forest secures further €31 million to expand shared
-    e-bike operations in London
-  url: https://www.eu-startups.com/2026/04/british-e-bike-operator-forest-secures-further-e31-million-to-expand-shared-e-bike-operations-in-london/
-  source: eu-startups
-  date_found: '2026-04-28'
-  parsed_company: British e-bike operator Forest
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: structure is mostly asset-backed lending and minority equity stake
-    from manufacturer OKAI rather than a clean startup VC round; multi-party financing
-    makes lead investor unclear
-- title: Stockholm’s Redpine raises €6.8 million to unlock licensed premium data for
-    AI agents
-  url: https://www.eu-startups.com/2026/04/stockholms-redpine-raises-e6-8-million-to-unlock-licensed-premium-data-for-ai-agents/
-  source: eu-startups
-  date_found: '2026-04-28'
-  parsed_company: Stockholm’s Redpine
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-28'
-  notes: created startup profile redpine.md; €6.8M Seed on 2026-04-28 led by NordicNinja
-    with Luminar Ventures and node.vc; Stockholm-based licensed-data API for AI agents;
-    founded 2024 by Anders Hammarbäck and David Österdahl; profile includes prior
-    €1.1M Sept 2025 pre-seed
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/28/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-28-2026/
-  source: alleywatch
-  date_found: '2026-04-28'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator
