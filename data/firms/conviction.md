@@ -57,7 +57,7 @@ The firm runs several ecosystem programs including the Embed grant program for e
 
 Based on 18 verified portfolio companies, Conviction's actual investment behavior shows:
 
-**Sector breakdown:** The portfolio is almost entirely AI-focused. Of 18 verified investments: AI/ML infrastructure and models (Mistral, Baseten, Cartesia, Latent, Thinking Machines Lab — 5 of 18, 28%), AI applications for specific industries (Harvey, Sierra, Open Evidence, RunSybil, Onyx — 5 of 18, 28%), AI-powered media and content (HeyGen, Sola — 2 of 18, 11%), robotics/hardware AI (Sunday, Essential, Corridor — 3 of 18, 17%), other AI-adjacent tools (Cognition, Distributed Spectrum, Mithril — 3 of 18, 17%) [^3].
+**Sector breakdown:** The portfolio is almost entirely AI-focused. Of 18 verified investments: AI/ML infrastructure and models (Mistral, Baseten, Cartesia, Latent, Thinking Machines Lab, Essential AI — 6 of 18, 33%), AI applications for specific industries (Harvey, Sierra, Open Evidence, RunSybil, Onyx — 5 of 18, 28%), AI-powered media and content (HeyGen, Sola — 2 of 18, 11%), robotics/hardware AI (Sunday, Corridor — 2 of 18, 11%), other AI-adjacent tools (Cognition, Distributed Spectrum, Mithril — 3 of 18, 17%) [^3].
 
 **Stage distribution:** Conviction predominantly invests at seed and Series A stages, with check sizes of $1M–$25M [^3]. The firm states it is "often the first investor" [^4], suggesting a tilt toward seed.
 
@@ -83,7 +83,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Open Evidence | Early | ~2022 | Healthcare AI | Active | [^3] |
 | Sunday | Early | ~2023 | Robotics | Active | [^3] |
 | Corridor | Early | ~2024 | Robotics/AI | Active | [^3] |
-| Essential | Early | ~2024 | Robotics/AI | Active | [^3] |
+| Essential AI | Seed (participated, $8.3M) | ~2023 (disclosed 2023-12-11) | Enterprise AI/Agents | Active | [^3][^13][^14][^15] |
 | RunSybil | Early | ~2024 | AI Testing | Active | [^3] |
 | Sola | Early | ~2024 | AI Media | Active | [^3] |
 | Latent | Early | ~2024 | AI Infrastructure | Active | [^3] |
@@ -123,3 +123,6 @@ No independently sourced founder testimonials found. The firm's website describe
 [^10]: Cartesia blog, "Announcing our seed round," December 12, 2024. https://cartesia.ai/blog/seed
 [^11]: Index Ventures, "Building the Next Generation of Real-Time AI Models: Our Investment in Cartesia," December 12, 2024. https://www.indexventures.com/perspectives/building-the-next-generation-of-real-time-ai-models-our-investment-in-cartesia/
 [^12]: American Bazaar, "Cartesia AI wraps 2024 with a $27 million seed fund, predicts AI trends for 2025," December 30, 2024. https://americanbazaaronline.com/2024/12/30/cartesia-ai-wraps-2024-with-a-27-million-seed-fund-predicts-ai-trends-for-2025457993/
+[^13]: BusinessWire, "Essential AI Raises $56.5M Series A to Build the Enterprise Brain," December 11, 2023, accessed May 2026. https://www.businesswire.com/news/home/20231211867788/en/Essential-AI-Raises-$56.5M-Series-A-to-Build-the-Enterprise-Brain — Primary source confirming Essential AI's $56.5M Series A led by March Capital with AMD, Franklin Venture Partners, Google, KB Investment, NVIDIA, and Thrive Capital participating; the same announcement disclosed the previously-undisclosed $8.3M seed round led by Thrive Capital with Conviction among the participants.
+[^14]: TechFundingNews, "Google, Nvidia and AMD just invested in a $56.5M funding round of this diverse AI startup," December 14, 2023, accessed May 2026. https://techfundingnews.com/google-nvidia-and-amd-just-invested-in-a-56-5m-funding-round-of-this-diverse-ai-startup/ — Independent confirmation that Conviction participated in Essential AI's $8.3M seed round (led by Thrive Capital), alongside Amjad Masad, Brad Gerstner, Elad Gil, Francis D'Souza, David H. Petraeus, Gustavo Sapoznik, Jamie Montgomery, and Mei Zuo. Series A ($56.5M) was led by March Capital and did not include Conviction.
+[^15]: Open Data Science, "Essential AI Raises $56.5 Million in Series A Funding," December 12, 2023, accessed May 2026. https://opendatascience.com/essential-ai-raises-56-5-million-in-series-a/ — Third independent source confirming Conviction's participation in Essential AI's $8.3M seed round and the December 11, 2023 disclosure of both rounds. Essential AI was founded in 2023 by Ashish Vaswani and Niki Parmar, co-creators of the Transformer architecture; the seed round itself was raised earlier in 2023 prior to the Series A announcement that publicly disclosed it.
