@@ -100,7 +100,7 @@ Despite her public emphasis on consumer social and marketplace frameworks (Hiera
 | Rekki | ~2020 | Series A | B2B/Food Service | [^23] |
 | Glide | 2022 | Series A | No-Code/Apps | [^19] |
 | Poparazzi | 2022 | Series A | Consumer/Social | [^20] |
-| 11x | 2024 | Series A | AI/Sales Automation | [^16] |
+| 11x | 2024-09-16 | Series A | AI/Sales Automation | [^16] |
 | Agentio | 2024 | Series A | AI/Creator Economy | [^18] |
 | Cursor | 2024 | Series B | AI/Developer Tools | [^21] |
 

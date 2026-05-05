@@ -115,7 +115,7 @@ Based on 29 verified investments spanning 2010-2025, Volpi's actual investment b
 | Cerebras | 2025 | Series G ($1.1B) | AI hardware / chips | [^2][^29] |
 | Cognition | 2025 | Series C ($400M) | AI agents | [^2][^30] |
 | BRINC Drones | 2025 | Series B | Robotics / drones | [^7] |
-| Cartesia | 2025 | Seed ($27M) | AI voice models | [^2][^31] |
+| Cartesia | 2024-12-12 | Seed ($27M, led by Index) | AI voice models | [^2][^31] |
 | LiveKit | 2025 | Series B ($45M) | Real-time infrastructure | [^2][^32] |
 | Flora | 2025 | Seed ($6.5M) | AI creative tools | [^2][^33] |
 | Netic | 2025 | Series A ($20M) | AI | [^7] |

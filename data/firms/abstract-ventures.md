@@ -100,8 +100,8 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | xAI | Early | ~2023 | AI | Active [^14] |
 | SpaceX | Early | ~2023 | Frontier Tech | Active [^8] |
 | Polymarket | Seed | ~2023 | Crypto | Active [^14] |
-| 11x | Series A | ~2024 | AI/Enterprise | Active [^6] |
-| Vapi | Seed | ~2024 | AI | Active [^8] |
+| 11x | Series A | 2024-09-16 | AI/Enterprise | Active (participated) [^6][^18][^19] |
+| Vapi | Series A | 2024-12-12 | AI | Active (participated) [^8][^20][^21][^22] |
 | Acryl Data | Series A | ~2024 | Enterprise | Active [^6] |
 | Adaptive Security | Series A | ~2024 | Enterprise/Security | Active [^6] |
 | Arc Boats | Seed | ~2024 | Consumer/DeepTech | Active [^6] |
@@ -161,3 +161,8 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^15]: Existing Seedlist profiles for Ramtin Naimi and Alex Davidov, referencing recent investments. Accessed March 2026.
 [^16]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
 [^17]: LangChain blog, "Announcing our $10M seed round led by Benchmark," April 4, 2023. https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark
+[^18]: 11x blog, "Announcing our Series A," September 16, 2024. https://www.11x.ai/blog/series-a
+[^19]: TechCrunch, "11x.ai raises $24M led by Benchmark to build AI digital employees," September 16, 2024. https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/
+[^20]: Vapi blog, "Vapi Raises $20M to Serve Explosive Demand for Voice AI," December 11, 2024. https://vapi.ai/blog/vapi-secures-20m-to-start-the-voice-revolution-2
+[^21]: Bessemer Venture Partners, "Our investment in Vapi: the voice AI developer platform," December 13, 2024. https://www.bvp.com/news/our-investment-in-vapi-the-voice-ai-developer-platform
+[^22]: GlobeNewswire, "Vapi Dials-in $20M in Series A Led by Bessemer to Bring AI Voice Agents to Enterprise," December 12, 2024. https://www.globenewswire.com/news-release/2024/12/12/2996317/0/en/Vapi-Dials-in-20M-in-Series-A-Led-by-Bessemer-to-Bring-AI-Voice-Agents-to-Enterprise.html

@@ -115,7 +115,7 @@ The analysis below is based on 40 investments publicly attributed to Deeter from
 | CopilotIQ | ~2023 | Early | Healthcare AI | Active | [^1] |
 | Waymo | ~2023 | Growth | Self-driving | Active | [^1] |
 | Moonvalley | ~2024 | Early | AI video | Active | [^1] |
-| Vapi | ~2024 | Early | Voice AI | Active | [^1] |
+| Vapi | 2024-12-12 | Series A (led, $20M) | Voice AI | Active | [^1][^11] |
 | Mind Robotics | ~2024 | Early | Robotics | Active | [^1] |
 
 *Note: Many years are approximate based on company founding dates and press coverage. This table represents the majority of the 45+ portfolio companies listed on Deeter's BVP profile page.*
@@ -154,3 +154,4 @@ No independently sourced founder testimonials found. Deeter has served on numero
 [^8]: Deciphr AI, "20VC: Bessemer's Byron Deeter On Lessons From Investing in 14 $Bn Companies," podcast transcript, accessed March 2026. https://www.deciphr.ai/podcast/20vc-bessemers-byron-deeter-on-lessons-from-investing-in-14-bn-companies-what-the-heck-is-going-on-in-cloud-today-and-why-cloud-ipo-floodgates-are-about-to-burst-open
 [^9]: ServiceTitan Investor Relations, "Byron Deeter, Board Member," accessed March 2026. https://investors.servicetitan.com/board-member/byron-deeter
 [^10]: The Twenty Minute VC, "20VC: The Twilio Memo: Bessemer's Byron Deeter," accessed March 2026. https://www.thetwentyminutevc.com/byron-deeter-twilio
+[^11]: Bessemer Venture Partners, "Our investment in Vapi: the voice AI developer platform," December 13, 2024. https://www.bvp.com/news/our-investment-in-vapi-the-voice-ai-developer-platform

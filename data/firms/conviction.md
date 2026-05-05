@@ -79,7 +79,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Sierra | Early | ~2023 | Conversational AI | Active (unicorn, $4.5B) | [^2] |
 | Cognition | Early | ~2023 | AI Coding | Active | [^3] |
 | HeyGen | Early | ~2023 | AI Video | Active | [^3] |
-| Cartesia | Early | ~2024 | AI Models | Active | [^3] |
+| Cartesia | Seed | 2024-12-12 | AI Models | Active (participated) | [^3][^10][^11][^12] |
 | Open Evidence | Early | ~2022 | Healthcare AI | Active | [^3] |
 | Sunday | Early | ~2023 | Robotics | Active | [^3] |
 | Corridor | Early | ~2024 | Robotics/AI | Active | [^3] |
@@ -120,3 +120,6 @@ No independently sourced founder testimonials found. The firm's website describe
 [^8]: CNBC, "Legal AI startup Harvey raises $200 million at $11 billion valuation," March 25, 2026, accessed March 2026. https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html
 
 [^9]: TechCrunch, "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round," December 11, 2023. https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/ — Confirms Conviction as a participant in Mistral's December 11, 2023 €385M Series A led by Andreessen Horowitz at ~$2B valuation.
+[^10]: Cartesia blog, "Announcing our seed round," December 12, 2024. https://cartesia.ai/blog/seed
+[^11]: Index Ventures, "Building the Next Generation of Real-Time AI Models: Our Investment in Cartesia," December 12, 2024. https://www.indexventures.com/perspectives/building-the-next-generation-of-real-time-ai-models-our-investment-in-cartesia/
+[^12]: American Bazaar, "Cartesia AI wraps 2024 with a $27 million seed fund, predicts AI trends for 2025," December 30, 2024. https://americanbazaaronline.com/2024/12/30/cartesia-ai-wraps-2024-with-a-27-million-seed-fund-predicts-ai-trends-for-2025457993/

@@ -3,9 +3,9 @@ check_size: $1M-$25M
 firm: conviction
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Cognition
-  date: ~2023
-  round: Early
+  company: Cartesia
+  date: 2024-12-12
+  round: Seed (participated; Index-led $27M)
 location: San Francisco, CA
 name: Sarah Guo
 role: Founder & General Partner
@@ -105,7 +105,7 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 | Baseten | Seed | ~2022 | AI / Inference infrastructure | Active ($825M valuation) | [^2] |
 | Cognition | Early | ~2023 | AI / Software engineering | Active | [^8] |
 | HeyGen | Early | ~2023 | AI / Video generation | Active | [^8] |
-| Cartesia | Early | ~2023 | AI / Foundation models | Active | [^8] |
+| Cartesia | Seed | 2024-12-12 | AI / Foundation models | Active | [^8][^11] |
 | Onyx | Early | ~2023 | AI / Security | Active | [^8] |
 | Sola | Early | ~2023 | AI | Active | [^8] |
 | Sunday Robotics | Early | ~2023 | AI / Robotics | Active | [^8] |
@@ -158,3 +158,4 @@ No independently sourced founder testimonials found. Guo's personal website refe
 [^9]: Cognitive Revolution podcast, "VC Insights on Investing in Artificial Intelligence with Sarah Guo and Elad Gil of No Priors," accessed March 2026. https://www.cognitiverevolution.ai/vc-insights-on-investing-in-artificial-intelligence-with-sarah-guo-and-elad-gil-of-no-priors/
 
 [^10]: TechCrunch, "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round," December 11, 2023. https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/ — Lists Conviction as a participating investor in Mistral's December 11, 2023 €385M Series A led by Andreessen Horowitz at ~$2B valuation.
+[^11]: Cartesia blog, "Announcing our seed round," December 12, 2024. https://cartesia.ai/blog/seed
