@@ -139,7 +139,249 @@ pending_rounds:
   parsed_company: CopilotKit
   parsed_amount: $27M
   parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by copilotkit.md ($27M Series A 2026-05-05 led by Glilot Capital
+    with NFX, SignalFire, 97212 Ventures)
+- title: Domestic Metals Closes Private Placement
+  url: https://www.globenewswire.com/news-release/2026/05/05/3288156/0/en/Domestic-Metals-Closes-Private-Placement.html
+  source: globenewswire
+  date_found: '2026-05-05'
+  parsed_company: Domestic Metals
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: public company private placement, not a startup VC round
+- title: Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development
+  url: https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/
+  source: crunchbase
+  date_found: '2026-05-05'
+  parsed_company: Blitzy
+  parsed_amount: $200M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by blitzy.md ($200M growth at $1.4B 2026-05-05 led by Northzone with
+    PSG, Battery Ventures)
+- title: QuantWare raises €152 million in the largest private round for a dedicated
+    quantum processor company
+  url: https://www.eu-startups.com/2026/05/quantware-raises-e152-million-in-the-largest-private-round-for-a-dedicated-quantum-processor-company/
+  source: eu-startups
+  date_found: '2026-05-05'
+  parsed_company: QuantWare
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by quantware.md (€152M Series B 2026-05-05 led by Intel Capital with
+    In-Q-Tel, ETF Partners)
+- title: Andreessen Horowitz raised $2.2B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Andreessen Horowitz
+  parsed_amount: $2.2B
+  parsed_round: null
+  status: skipped
+  skip_reason: VC fund close (a16z), not a startup round
+- title: Sierra raised $950M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Sierra
+  parsed_amount: $950M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate of sierra.md (covered earlier)
+- title: Windward Bio raised $165M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Windward Bio
+  parsed_amount: $165M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by windward-bio.md ($165M crossover 2026-05-04 led by OrbiMed)
+- title: Reserv raised $125M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Reserv
+  parsed_amount: $125M
+  parsed_round: Series C
+  status: skipped
+  skip_reason: duplicate of reserv.md (covered earlier)
+- title: RadixArk raised $100M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: RadixArk
+  parsed_amount: $100M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by radixark.md ($100M Seed 2026-05-05 led by Accel, Spark Capital
+    co-lead)
+- title: Astrocade raised $56M Series A and Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Astrocade
+  parsed_amount: $56M
+  parsed_round: Series A And Series B
   status: pending
+- title: Latus Bio raised $42M Series A extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Latus Bio
+  parsed_amount: $42M
+  parsed_round: Series A Extension
+  status: pending
+- title: Moment Energy raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Moment Energy
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: skipped
+  skip_reason: duplicate of moment-energy.md (covered earlier)
+- title: Magrathea raised $24M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Magrathea
+  parsed_amount: $24M
+  parsed_round: Series A
+  status: pending
+- title: Nace.AI raised $21.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Nace.AI
+  parsed_amount: $21.5M
+  parsed_round: Seed
+  status: pending
+- title: Pumpkinseed raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Pumpkinseed
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: Degen raised $15M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Degen
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: pending
+- title: Noho Labs raised $16M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Noho Labs
+  parsed_amount: $16M
+  parsed_round: null
+  status: pending
+- title: PlayReplay raised $12M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: PlayReplay
+  parsed_amount: $12M
+  parsed_round: null
+  status: pending
+- title: Village raised $9.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Village
+  parsed_amount: $9.5M
+  parsed_round: Seed
+  status: pending
+- title: Moritz raised $9M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Moritz
+  parsed_amount: $9M
+  parsed_round: null
+  status: pending
+- title: Astrada raised $3.8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Astrada
+  parsed_amount: $3.8M
+  parsed_round: Seed
+  status: pending
+- title: Elastics raised $2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Elastics
+  parsed_amount: $2M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate of earlier skip; $2M Warsaw pre-seed below threshold
+- title: AlphaDrive raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: AlphaDrive
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Audax Private Debt raised $1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Audax Private Debt
+  parsed_amount: $1B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE/credit fund close
+- title: Bridge Growth Partners raised $790M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Bridge Growth Partners
+  parsed_amount: $790M
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund close
+- title: THL Partners of Boston raised $6.35B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: THL Partners of Boston
+  parsed_amount: $6.35B
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund close
+- title: of Boston raised $6.35B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: of Boston
+  parsed_amount: $6.35B
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact
+- title: u003e of Boston raised $6.35B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: u003e of Boston
+  parsed_amount: $6.35B
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact (HTML entity)
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -748,267 +990,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: debenture/debt round, not equity
-- title: Ineffable Intelligence raised $1.1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Ineffable Intelligence
-  parsed_amount: $1.1B
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by ineffable-intelligence.md
-- title: Wiliot raised $75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Wiliot
-  parsed_amount: $75M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by wiliot.md
-- title: Nervonik raised $52.5M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Nervonik
-  parsed_amount: $52.5M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by nervonik.md
-- title: Liquid Instruments raised $50M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Liquid Instruments
-  parsed_amount: $50M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by liquid-instruments.md
-- title: Fathom Therapeutics raised $47M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Fathom Therapeutics
-  parsed_amount: $47M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by fathom-therapeutics.md
-- title: Golden Child raised $37M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Golden Child
-  parsed_amount: $37M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by golden-child.md
-- title: Minish Technology raised $22M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Minish Technology
-  parsed_amount: $22M
-  parsed_round: null
-  status: skipped
-  skip_reason: already in DB
-- title: Zamp raised $17M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Zamp
-  parsed_amount: $17M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by zamp.md
-- title: Windmill raised $12M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Windmill
-  parsed_amount: $12M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by windmill.md
-- title: Clarasight raised $11.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Clarasight
-  parsed_amount: $11.5M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by clarasight.md
-- title: Marloo raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Marloo
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by marloo.md
-- title: Segura raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Segura
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by segura.md
-- title: Neutonic raised $6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Neutonic
-  parsed_amount: $6M
-  parsed_round: null
-  status: skipped
-  skip_reason: small / not core
-- title: Fermeate raised $2M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Fermeate
-  parsed_amount: $2M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small ($2M seed
-- title: Churchill Capital XII raised $360M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Churchill Capital XII
-  parsed_amount: $360M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
-- title: Irenic Acquisition raised $220M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Irenic Acquisition
-  parsed_amount: $220M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
-- title: Mighty Capital raised $91M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: Mighty Capital
-  parsed_amount: $91M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close
-- title: rebranded to Ground State Ventures and raised $88M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: rebranded to Ground State Ventures and
-  parsed_amount: $88M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close (already noted)
-- title: and raised $88M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: and
-  parsed_amount: $88M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact ("...rebranded to Ground State Ventures and $88M")
-- title: u003e and raised $88M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-29'
-  parsed_company: u003e and
-  parsed_amount: $88M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact ("...rebranded to Ground State Ventures and $88M")
-- title: Female-founded French startup Cleo Labs raises €1.5 million to automate international
-    product compliance
-  url: https://www.eu-startups.com/2026/04/female-founded-french-startup-cleo-labs-raises-e1-5-million-to-automate-international-product-compliance/
-  source: eu-startups
-  date_found: '2026-04-29'
-  parsed_company: Female-founded French startup Cleo Labs
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: small (€1.5M
-- title: As Europe pushes for AI sovereignty, Germany’s SPREAD raises €25 million
-    to scale industrial AI
-  url: https://www.eu-startups.com/2026/04/as-europe-pushes-for-ai-sovereignty-germanys-spread-raises-e25-million-to-scale-industrial-ai/
-  source: eu-startups
-  date_found: '2026-04-29'
-  parsed_company: As Europe pushes for AI sovereignty, Germany’s SPREAD
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by spread-ai.md
-- title: Firestorm Labs raises $82M to take drone factories into the field
-  url: https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/
-  source: techcrunch
-  date_found: '2026-04-29'
-  parsed_company: Firestorm Labs
-  parsed_amount: $82M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by firestorm-labs.md
-- title: Colby Adcock’s Scout AI raises $100M to train its models for war. We visited
-    its bootcamp
-  url: https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/
-  source: techcrunch
-  date_found: '2026-04-29'
-  parsed_company: Colby Adcock’s Scout AI
-  parsed_amount: $100M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by scout-ai.md
-- title: Seed Funding Is Bigger Than Ever — And Harder To Get
-  url: https://news.crunchbase.com/venture/average-seed-funding-amounts-deals-grew-2025/
-  source: crunchbase
-  date_found: '2026-04-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  skip_reason: parsing artifact ("...rebranded to Ground State Ventures and $88M")
-- title: Leipzig’s Primogene raises €4.1 million to scale enzymatic biomanufacturing
-    of complex bioactive molecules
-  url: https://www.eu-startups.com/2026/04/leipzigs-primogene-raises-e4-1-million-to-scale-enzymatic-biomanufacturing-of-complex-bioactive-molecules/
-  source: eu-startups
-  date_found: '2026-04-29'
-  parsed_company: Leipzig’s Primogene
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by primogene.md
-- title: Germany’s mbiomics brings Series A to €30 million to scale microbiome therapeutics
-    for chronic diseases
-  url: https://www.eu-startups.com/2026/04/germanys-mbiomics-brings-series-a-to-e30-million-to-scale-microbiome-therapeutics-for-chronic-diseases/
-  source: eu-startups
-  date_found: '2026-04-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-29'
-  notes: covered by mbiomics.md

@@ -1,1 +1,25 @@
-priority: []
+priority:
+  - slug: nfx
+    type: firm
+    reason: "co-investor in CopilotKit Series A (2026-05-05)"
+    added: 2026-05-05
+  - slug: northzone
+    type: firm
+    reason: "led Blitzy growth round (2026-05-05)"
+    added: 2026-05-05
+  - slug: battery-ventures
+    type: firm
+    reason: "co-investor in Blitzy growth round (2026-05-05)"
+    added: 2026-05-05
+  - slug: accel
+    type: firm
+    reason: "led RadixArk Seed (2026-05-05)"
+    added: 2026-05-05
+  - slug: spark-capital
+    type: firm
+    reason: "co-led RadixArk Seed (2026-05-05)"
+    added: 2026-05-05
+  - slug: olivier-pomel
+    type: investor
+    reason: "Datadog founder; angel in Windward Bio (2026-05-04)"
+    added: 2026-05-05
