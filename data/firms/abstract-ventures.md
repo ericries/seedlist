@@ -103,7 +103,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | 11x | Series A | 2024-09-16 | AI/Enterprise | Active (participated) [^6][^18][^19] |
 | Vapi | Series A | 2024-12-12 | AI | Active (participated) [^8][^20][^21][^22] |
 | Acryl Data | Series A | ~2024 | Enterprise | Active [^6] |
-| Adaptive Security | Series A | ~2024 | Enterprise/Security | Active [^6] |
+| Adaptive Security | Series A ($43M, participated) | 2025-04-02 | Enterprise/Security | Active [^6][^23][^24][^25] |
 | Arc Boats | Seed | ~2024 | Consumer/DeepTech | Active [^6] |
 | Applied Compute | Series B | ~2024 | AI | Active [^6] |
 | Airplane | Seed | ~2022 | Enterprise | Acquired by Airtable (2024) [^6] |
@@ -166,3 +166,6 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^20]: Vapi blog, "Vapi Raises $20M to Serve Explosive Demand for Voice AI," December 11, 2024. https://vapi.ai/blog/vapi-secures-20m-to-start-the-voice-revolution-2
 [^21]: Bessemer Venture Partners, "Our investment in Vapi: the voice AI developer platform," December 13, 2024. https://www.bvp.com/news/our-investment-in-vapi-the-voice-ai-developer-platform
 [^22]: GlobeNewswire, "Vapi Dials-in $20M in Series A Led by Bessemer to Bring AI Voice Agents to Enterprise," December 12, 2024. https://www.globenewswire.com/news-release/2024/12/12/2996317/0/en/Vapi-Dials-in-20M-in-Series-A-Led-by-Bessemer-to-Bring-AI-Voice-Agents-to-Enterprise.html
+[^23]: PRNewswire, "Adaptive Security Raises $43M from a16z and OpenAI Startup Fund to Combat AI-Powered Cyber Attacks Including Deepfakes, Vishing and Smishing," April 2, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/adaptive-security-raises-43m-from-a16z-and-openai-startup-fund-to-combat-ai-powered-cyber-attacks-including-deepfakes-vishing-and-smishing-302417695.html — Primary source for $43M Series A announced April 2, 2025 co-led by Andreessen Horowitz and OpenAI Startup Fund; participating investors include Abstract Ventures, Eniac Ventures, CrossBeam Ventures, K5, plus executives from Google, Workday, Shopify, Plaid, and Paxos. Marks OpenAI's first investment in a cybersecurity startup.
+[^24]: Adaptive Security blog, "$43M Raised to Tackle AI-Powered Social Engineering Threats," April 2, 2025, accessed May 2026. https://www.adaptivesecurity.com/blog/43-million-funding-announcement — Company's own announcement confirming April 2, 2025 date, $43M raise, a16z and OpenAI Startup Fund as lead investors with Abstract Ventures, Eniac Ventures, CrossBeam Ventures, and K5 participating.
+[^25]: The SaaS News, "Adaptive Security Raises $43M in Funding," April 3, 2025, accessed May 2026. https://www.thesaasnews.com/news/adaptive-security-raises-43m-in-funding — Independent confirmation of the $43M Series A round co-led by Andreessen Horowitz and OpenAI Startup Fund with Abstract Ventures among participating investors.
