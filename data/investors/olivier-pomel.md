@@ -1,10 +1,10 @@
 ---
 check_size: Undisclosed
 firm: datadog
-last_researched: 2026-03-20
+last_researched: 2026-05-05
 last_verified_investment:
-  company: Entire
-  date: 2026-02-10
+  company: RadixArk
+  date: 2026-05-05
   round: Seed
 location: New York, NY
 name: Olivier Pomel
@@ -76,6 +76,7 @@ This table includes 21 verified investments. Sources indicate Pomel may have mad
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| RadixArk | Seed (angel) | 2026-05-05 | AI Infrastructure | Active | [^11][^12] |
 | Entire | Seed | 2026 | Automation / workflow | Active | [^4] |
 | Gradium | Seed | 2025 | Infrastructure | Active | [^4] |
 | Pruna AI | Seed | 2024 | AI / model optimization | Active | [^8] |
@@ -130,3 +131,7 @@ No independently sourced founder testimonials found for Pomel's angel investing 
 [^8]: Arete Index, "Olivier Pomel investor," accessed March 2026. https://www.areteindex.com/angels/olivier-pomel/
 [^9]: Hugging Face Blog, "We Raised $100 Million for Open & Collaborative Machine Learning," accessed March 2026. https://huggingface.co/blog/series-c
 [^10]: SiliconANGLE, "AI code review startup CodeRabbit raises $16M to help developers debug code faster," August 2024. https://siliconangle.com/2024/08/14/ai-code-review-startup-coderabbit-raises-16m-help-developers-debug-code-faster/
+
+[^11]: BusinessWire (via Yahoo Finance), "RadixArk Launches with $100 Million in Seed Funding Led by Accel to Grow SGLang and Democratize Frontier AI Infrastructure," May 5, 2026, accessed May 2026. https://finance.yahoo.com/sectors/technology/articles/radixark-launches-100-million-seed-130000663.html — Lists Olivier Pomel (Datadog Co-Founder) among angel investors in $100M seed round.
+
+[^12]: BusinessWire, "RadixArk Launches with $100 Million in Seed Funding Led by Accel to Grow SGLang and Democratize Frontier AI Infrastructure," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505077157/en/RadixArk-Launches-with-$100-Million-in-Seed-Funding-Led-by-Accel-to-Grow-SGLang-and-Democratize-Frontier-AI-Infrastructure

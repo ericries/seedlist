@@ -147,6 +147,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Shepherd | Series B | 2026-03-24 | Insurtech/AI | [^12] |
 | Standard Intelligence | Series A (co-led with Sequoia) | 2026-04-30 | AI / Foundation Models | [^40][^41][^42] |
 | Profluent | Series B (existing investor) | 2025-11-19 | AI / Programmable Biology | [^43][^44] |
+| RadixArk | Seed (co-led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^45][^46][^47] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -216,3 +217,9 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^43]: SiliconANGLE, "Profluent Bio raises $106M from Jeff Bezos and others to accelerate protein design with AI," November 20, 2025, accessed April 2026. https://siliconangle.com/2025/11/20/profluent-bio-raises-106m-jeff-bezos-others-accelerate-protein-design-ai/ — Confirms Spark Capital participated as existing investor in $106M Series B co-led by Bezos Expeditions and Altimeter Capital.
 
 [^44]: CRISPR Medicine News press release service, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 19, 2025, accessed April 2026. https://crisprmedicinenews.com/press-release-service/card/profluent-raises-106m-to-scale-frontier-ai-models-for-programmable-biology/ — Confirms Spark Capital, Insight Partners, and Air Street Capital participated as existing investors.
+
+[^45]: BusinessWire, "RadixArk Launches with $100 Million in Seed Funding Led by Accel to Grow SGLang and Democratize Frontier AI Infrastructure," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505077157/en/RadixArk-Launches-with-$100-Million-in-Seed-Funding-Led-by-Accel-to-Grow-SGLang-and-Democratize-Frontier-AI-Infrastructure — Confirms Accel led, Spark Capital co-led, $100M seed at $400M post-money.
+
+[^46]: Accel, "Our Investment in RadixArk: Building the Open Infrastructure for AI," May 5, 2026, accessed May 2026. https://www.accel.com/noteworthies/investing-in-radixark-building-an-open-universal-inference-engine
+
+[^47]: HOF Capital, "Why We Invested in RadixArk," May 5, 2026, accessed May 2026. https://hofcapital.substack.com/p/why-we-invested-in-radixark

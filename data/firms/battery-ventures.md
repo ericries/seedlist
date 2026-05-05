@@ -49,7 +49,7 @@ team:
     role: "Partner"
     name: "Justin Rosner"
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-05-05
 ---
 
 ## About
@@ -110,6 +110,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Fundamental | Series A | 2026 | AI / Data Infrastructure | Active | [^11] |
 | Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |
 | Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |
+| Blitzy | Growth (participated, $200M, $1.4B valuation) | 2026-05-05 | AI / Autonomous Software Development | Active | [^16][^17] |
 
 *This table represents approximately 28 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
@@ -146,3 +147,7 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^14]: Coinbase blog, "Coinbase raises $100M Series D led by IVP," January 2017. Battery Ventures participated alongside Spark Capital, Greylock. https://www.coinbase.com/blog/coinbase-raises-100m-series-d-led-by-ivp
 [^15]: Battery Ventures portfolio page for Coinbase, "Invested 2017, Growth stage, Roger Lee," accessed March 2026. https://www.battery.com/company/coinbase/
 [^13]: AVP, "Orkes raises $60M as developers increasingly use its platform to deploy AI confidently in production," April 23, 2026. https://avpcap.com/orkes-raises-60m-as-developers-increasingly-use-its-platform-to-deploy-ai-confidently-in-production/
+
+[^16]: BusinessWire, "Blitzy Raises $200 Million at $1.4 Billion Valuation to Advance Autonomous Software Development for the Enterprise," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505342338/en/Blitzy-Raises-$200-Million-at-$1.4-Billion-Valuation-to-Advance-Autonomous-Software-Development-for-the-Enterprise
+
+[^17]: Crunchbase News, "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development," May 5, 2026, accessed May 2026. https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/

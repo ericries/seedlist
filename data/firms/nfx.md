@@ -30,7 +30,7 @@ team:
   - slug: sarai-bronfeld
     role: Partner
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-05-05
 ---
 
 ## About
@@ -99,6 +99,7 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 | MyHeritage | Early | 2007 | Consumer/Genealogy | [^1][^31] |
 | Seso Labor | Seed | 2020 | Marketplace/Agriculture | [^1][^32] |
 | Gizmo | Seed | ~2024 | AI/EdTech | [^33] |
+| CopilotKit | Series A (participated, $27M) | 2026-05-05 | AI/Developer Tools | [^34][^35] |
 
 *This table represents approximately 8% of 300 known investments. NFX was founded in 2015; investments dated before 2015 (DoorDash, Lyft, Patreon, HoneyBook, Similarweb, Trulia, Playtika) are personal angel investments by the GPs, later attributed to NFX's portfolio. NFX invests across both US and Israeli ecosystems [^9].*
 
@@ -151,3 +152,7 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^31]: Crunchbase, "MyHeritage — Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/myheritage
 [^32]: Tracxn, "SESO Labor — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/seso-labor/___mlC1ZCJu6o5l_6p3FYvICiE4C9gmYlWUjBZTnHb30Q/funding-and-investors
 [^33]: PRNewsWire, "Gizmo Raises $22 Million Series A to Make Learning Addictive for 13 Million Learners Worldwide," April 15, 2026. https://www.prnewswire.com/news-releases/gizmo-raises-22-million-series-a-to-make-learning-addictive-for-13-million-learners-worldwide-302741943.html
+
+[^34]: TechCrunch, "CopilotKit raises $27M to help devs deploy app-native AI agents," May 5, 2026, accessed May 2026. https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/
+
+[^35]: Calcalist Tech, "CopilotKit raises $27 million to build infrastructure for AI agents," May 5, 2026, accessed May 2026. https://www.calcalistech.com/ctechnews/article/bkbjddprbx

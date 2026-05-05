@@ -217,6 +217,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Oolka | Series A (led, ₹130 Cr, ₹730 Cr post-money valuation) | 2026-04-30 | Fintech/AI/India | [^37][^48][^49][^50] |
 | Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
 | OpenFX | Series A ($94M, co-led) | 2026-03-31 | Fintech/Stablecoin/FX | [^45][^46][^47] |
+| RadixArk | Seed (led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^51][^52][^53] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -301,3 +302,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^49]: Inc42, "Credit Management Startup Oolka Bags $14 Mn In Accel-Led Series A Round," April 30, 2026, accessed May 2026. https://inc42.com/buzz/credit-management-startup-oolka-bags-14-mn-in-accel-led-series-a-round/ — Confirms $14M Series A led by Accel with participation from Lightspeed, Z47, and Meesho co-founders Vidit Aatrey and Sanjeev Barnwal.
 
 [^50]: Entrackr (exclusive, regulatory filing-based), "Oolka raises Rs 130 Cr in Series A led by Accel at Rs 730 Cr valuation," April 24, 2026, accessed May 2026. https://entrackr.com/exclusive/exclusive-oolka-raises-rs-130-cr-in-series-a-led-by-accel-at-rs-730-cr-valuation-11760159 — Pre-announcement leak based on board resolution: Accel India ₹87.22 Cr, Lightspeed India ₹20.87 Cr, Z47/Matrix Partners India ₹19.62 Cr; ₹730 Cr post-money valuation (~$87.6M).
+
+[^51]: BusinessWire, "RadixArk Launches with $100 Million in Seed Funding Led by Accel to Grow SGLang and Democratize Frontier AI Infrastructure," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505077157/en/RadixArk-Launches-with-$100-Million-in-Seed-Funding-Led-by-Accel-to-Grow-SGLang-and-Democratize-Frontier-AI-Infrastructure
+
+[^52]: Accel, "Our Investment in RadixArk: Building the Open Infrastructure for AI," May 5, 2026, accessed May 2026. https://www.accel.com/noteworthies/investing-in-radixark-building-an-open-universal-inference-engine
+
+[^53]: TechCrunch, "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes," January 21, 2026, accessed May 2026. https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/

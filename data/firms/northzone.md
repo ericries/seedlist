@@ -131,6 +131,7 @@ Based on 30 verified portfolio investments, the following patterns emerge. Note:
 | Tandem Health | Seed, Series A ($50M) | 2024, 2025-06-30 | Healthcare | Active [^10][^37] |
 | XBOW | Series C (co-led) | 2026 | AI cybersecurity | Active ($1B+ valuation) [^15] |
 | OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^32][^33][^34] |
+| Blitzy | Growth (led, $200M, $1.4B valuation) | 2026-05-05 | AI/Autonomous Software Development | Active [^38][^39] |
 
 This table represents approximately 15% of Northzone's ~207 total investments [^10]. Many entries use founding year as a proxy where exact investment year could not be verified.
 
@@ -201,3 +202,7 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 [^36]: Northzone, "Our Investment in CuspAI: Pioneering AI-Designed Materials to Combat Climate Change," June 18, 2024, accessed May 2026. https://northzone.com/insights/our-investment-in-cuspai-pioneering-ai-designed-materials-to-combat-climate-change
 
 [^37]: Tandem Health, "Tandem secures $50M to build an AI-native operating system for clinical workflows across Europe," June 30, 2025, accessed May 2026. https://www.tandemhealth.ai/news-articles/tandem-secures-50m-to-build-an-ai-native-operating-system-for-clinical-workflows-across-europe
+
+[^38]: BusinessWire, "Blitzy Raises $200 Million at $1.4 Billion Valuation to Advance Autonomous Software Development for the Enterprise," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505342338/en/Blitzy-Raises-$200-Million-at-$1.4-Billion-Valuation-to-Advance-Autonomous-Software-Development-for-the-Enterprise
+
+[^39]: Crunchbase News, "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development," May 5, 2026, accessed May 2026. https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/
