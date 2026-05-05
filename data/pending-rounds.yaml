@@ -89,6 +89,49 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: small €1.7M Warsaw pre-seed below typical Seedlist threshold
+- title: Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries
+  url: https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/
+  source: techcrunch
+  date_found: '2026-05-05'
+  parsed_company: Moment Energy
+  parsed_amount: $40M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by moment-energy.md ($40M Series B 2026-05-05 led by Evok Innovations
+    with W23, Amazon Climate Pledge Fund, In-Q-Tel, Liberty Mutual)
+- title: Billion-Dollar AI Rounds Push April To Third-Highest Startup Funding Month
+    In A Year
+  url: https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/
+  source: crunchbase
+  date_found: '2026-05-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: monthly aggregator/trend piece, not a specific round
+- title: Paris-based Lithosquare raises €21.3 million to accelerate transition-critical
+    mineral discovery with Geology AI
+  url: https://www.eu-startups.com/2026/05/paris-based-lithosquare-raises-e21-4-million-to-accelerate-transition-critical-mineral-discovery-with-geology-ai/
+  source: eu-startups
+  date_found: '2026-05-05'
+  parsed_company: Paris-based Lithosquare
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by lithosquare.md ($25M / ~€21.4M Seed 2026-05-05 co-led by World
+    Fund + Kindred Capital with Daphni, Omnes, Ovni)
+- title: South Tyrol’s profitize raises €1.4 million to scale AI-powered financial
+    planning for the hospitality sector
+  url: https://www.eu-startups.com/2026/05/south-tyrols-profitize-raises-e1-4-million-to-scale-ai-powered-financial-planning-for-the-hospitality-sector/
+  source: eu-startups
+  date_found: '2026-05-05'
+  parsed_company: South Tyrol’s profitize
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €1.4M South Tyrol pre-seed below typical Seedlist threshold
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -970,54 +1013,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: aggregator
-- title: Amsterdam’s QDNL Participations rebrands as Ground State Ventures, raises
-    over €75.2 million for quantum tech fund
-  url: https://www.eu-startups.com/2026/04/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-raises-over-e75-2-million-for-quantum-tech-fund/
-  source: eu-startups
-  date_found: '2026-04-28'
-  parsed_company: Amsterdam’s QDNL Participations rebrands as Ground State Ventures,
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close (€75.2M for quantum tech fund), not a startup funding
-    round
-- title: Berlin-based Patronus raises €11 million for senior-friendly emergency smartwatch
-    and family app
-  url: https://www.eu-startups.com/2026/04/berlin-based-patronus-raises-e11-million-for-senior-friendly-emergency-smartwatch-and-family-app/
-  source: eu-startups
-  date_found: '2026-04-28'
-  parsed_company: Berlin-based Patronus
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-28'
-  notes: created startup profile patronus.md; €11M round on 2026-04-28 led by 3TS
-    Capital Partners with Grazia Equity, Singular, Burda Principal Investments, Adjacent,
-    NAP, UVC Partners; Berlin eldertech smartwatch + family app; founded 2022 by Ben
-    Staudt and Tim Wagner; profile includes prior €27M Series A from October 2022
-    (UVC-led)
-- title: Copenhagen’s Performativ raises €11.9 million Series A to scale its AI-native
-    wealth management operating system
-  url: https://www.eu-startups.com/2026/04/copenhagens-performativ-raises-e14-million-series-a-to-scale-its-ai-native-wealth-management-operating-system/
-  source: eu-startups
-  date_found: '2026-04-28'
-  parsed_company: Copenhagen’s Performativ
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-28'
-  notes: created startup profile performativ.md (also covers GlobeNewswire announcement);
-    $14M Series A on 2026-04-28 led by Deutsche Börse Group with Rabo Investments,
-    Jacob Dahl, FinTech Collective, EIFO; Copenhagen wealth-management OS
-- title: Performativ Raises $14M Series A Led by Deutsche Börse Group to Power the
-    Next Era of Wealth Management
-  url: https://www.globenewswire.com/news-release/2026/04/28/3282632/0/en/Performativ-Raises-14M-Series-A-Led-by-Deutsche-B%C3%B6rse-Group-to-Power-the-Next-Era-of-Wealth-Management.html
-  source: globenewswire
-  date_found: '2026-04-28'
-  parsed_company: Performativ
-  parsed_amount: $14M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-28'
-  notes: covered by performativ.md startup profile; same announcement as eu-startups
-    entry above (primary press)
