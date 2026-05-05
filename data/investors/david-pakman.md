@@ -93,7 +93,7 @@ Based on 16 verified CoinFund investments (see Portfolio below), Pakman's actual
 | Giza | 2025 | Seed (led) | AI / Web3 | [^9] |
 | ZOOT | 2025 | Seed (led) | Gaming | [^19] |
 | Veda | 2025 | Series A (led) | DeFi Infrastructure | [^20] |
-| Dakota | 2025 | Series A (led) | Stablecoin Banking | [^21] |
+| Dakota | 2025-07-15 | Series A ($12.5M, led) | Stablecoin Banking | [^21] |
 | Irys | 2025 | Series A (led) | Data Infrastructure | [^22] |
 | Flying Tulip | 2025 | Seed | DeFi / Trading | [^23] |
 | LI.FI | 2025 | Series A Extension (co-led) | Cross-chain Infrastructure | [^24] |

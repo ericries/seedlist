@@ -88,7 +88,7 @@ Based on 25 verified investments with confirmed CoinFund involvement, sourced fr
 | Manta Network | 2023 | Series A | Privacy/L2 | [^23] |
 | Pluralis Research | 2025-03 | Seed | Decentralized AI | [^14] |
 | Veda | 2025-06 | Series A | DeFi Infrastructure | [^24] |
-| Dakota | 2025-07 | Series A | Stablecoin Banking | [^25] |
+| Dakota | 2025-07-15 | Series A ($12.5M, CoinFund led) | Stablecoin Banking | [^25] |
 | Irys | 2025-08 | Series A | Data Infrastructure | [^26] |
 | Cloudburst | ~2025 | Seed | Crypto Security | [^6] |
 | STON.fi | 2025-07-30 | Series A ($9.5M, co-led) | DEX/DeFi | [^29][^30] |

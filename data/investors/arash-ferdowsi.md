@@ -3,9 +3,9 @@ check_size: $50K-$200K
 firm: pear-vc
 last_researched: 2026-03-19
 last_verified_investment:
-  company: Anysphere
-  date: 2023-10
-  round: Seed
+  company: Distributed Spectrum
+  date: 2025-03-18
+  round: Series A (participated)
 location: New York, NY
 name: Arash Ferdowsi
 role: Visiting Partner
@@ -81,7 +81,7 @@ Notable pattern: Ferdowsi's portfolio shows a strong Dropbox-derived thesis — 
 | Advex AI | ~2023 | Seed | AI/Manufacturing | [^4] |
 | Glide | ~2022 | Series A | Developer Tools/Fintech | [^4] |
 | Keep | ~2022 | Series A | SMB Fintech | [^4] |
-| Distributed Spectrum | ~2022 | Series A | Hardware/Wireless | [^4] |
+| Distributed Spectrum | 2025-03-18 | Series A ($25M, angel) | AI/RF Sensing/Defense | [^4][^8] |
 | Capsule | ~2022 | Seed | Design Software | [^4] |
 | Onyx (Oneleet) | ~2022 | Seed | Security SaaS | [^4] |
 | CuspAI | ~2023 | Angel | AI | [^5] |
@@ -133,3 +133,5 @@ Note: These testimonials are sourced from an investor profile aggregator (xraise
 [^6]: Wikipedia, "Anysphere," accessed March 2026. https://en.wikipedia.org/wiki/Anysphere
 
 [^7]: Signal by NFX, "Arash Ferdowsi's Investing Profile — Angel," accessed March 2026. https://signal.nfx.com/investors/arash-ferdowsi
+
+[^8]: Distributed Spectrum, "Series A Announcement," March 2025, accessed May 2026. https://www.distributedspectrum.com/series-a-announcement — Company announcement of the $25M Series A on or about March 18, 2025, co-led by Conviction, Shield Capital, and Nat Friedman with participation from existing investors Felicis and XFund and angels including Arash Ferdowsi.

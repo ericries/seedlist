@@ -113,7 +113,7 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Recall Network (fka Tableland) | Series A (led) | 2023-04-20 | Decentralized AI / Web3 data | [^23][^40][^41][^42] |
 | Irys | Series A | 2025 | Programmable datachain | [^24] |
 | Giza | Seed | 2025 | AI/ML on-chain | [^3] |
-| Dakota | Series A | 2025 | Stablecoin banking | [^25] |
+| Dakota | Series A (led, $12.5M) | 2025-07-15 | Stablecoin banking | [^25][^28][^45] |
 | Veda | Series A | 2025 | DeFi vault infrastructure | [^26] |
 | LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |
 
@@ -193,3 +193,4 @@ No additional independently sourced founder testimonials about the experience of
 [^42]: crypto-fundraising.info, "Recall Labs (ex Textile, Tableland, Ceramic)," accessed May 2026. https://crypto-fundraising.info/projects/recall-labs/ — Lists complete Recall Labs funding lineage: $1.5M seed (July 2019, BlueYard with Collaborative Fund, Multicoin, SystemOne, Coinbase Ventures); $30M round (February 2022, including CoinFund among 20+ investors); $8M Series A (April 2023, led by CoinFund with Multicoin, BlueYard, Protocol Labs, A Capital, Betaworks Ventures); February 2025 merger of 3Box Labs and Textile to form Recall.
 [^43]: PR Newswire, "STON.fi, Leading DEX in TON Ecosystem, Secures Funding from CoinFund," May 14, 2024, accessed May 2026. https://www.prnewswire.com/news-releases/stonfi-leading-dex-in-ton-ecosystem-secures-funding-from-coinfund-302144439.html — Primary source for the May 14, 2024 announcement of a previously undisclosed funding round led by CoinFund with participation from Delphi Ventures, Karatage, TON Ventures, Sergej Kunz and Anton Bukov (1inch co-founders), and Philipp Zentner (LI.FI CEO). Round type and amount were not disclosed.
 [^44]: CoinFund blog, "Unlocking Economic Activity on TON and Telegram: Partnering with STON.fi," May 14, 2024, accessed May 2026. https://coinfund.io/unlocking-economic-activity-on-ton-and-telegram-partnering-with-ston-fi/ — CoinFund's own announcement of the STON.fi investment, confirming May 14, 2024 date and CoinFund as lead investor in this previously undisclosed funding round.
+[^45]: CoinFund blog, "The New Era for Business Banking and Payments: Investing in Dakota," July 15, 2025, accessed May 2026. https://coinfund.io/the-new-era-for-business-banking-and-payments-investing-in-dakota/ — CoinFund's own announcement confirming July 15, 2025 date for Dakota's $12.5M Series A led by CoinFund. Crowdfund Insider's same-day coverage (https://www.crowdfundinsider.com/2025/07/245730-stablecoins-tradfi-dakota-raises-12-5-million-series-a/) independently confirms 6th Man Ventures (6MV) and Triton Ventures as participating investors.

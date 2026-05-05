@@ -96,7 +96,7 @@ Based on 25 verified investments below, Felix and CoinFund demonstrate a clear p
 | Irys | 2024 | Private | Data Storage | [^17] |
 | Geodnet | 2025 | Private | DePIN | [^17] |
 | Pluralis Research | 2025 | Seed | AI/Decentralized | [^10] |
-| Dakota | 2025 | Series A | Fintech/Stablecoins | [^12] |
+| Dakota | 2025-07-15 | Series A ($12.5M, CoinFund led) | Fintech/Stablecoins | [^7][^12] |
 | LI.FI | 2025 | Series A Ext. | DeFi/Infrastructure | [^19] |
 | LayerZero | 2025 | Private | Infrastructure | [^17] |
 
