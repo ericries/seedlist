@@ -20,6 +20,53 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: per Axios Pro . It most recently raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: per Axios Pro . It most recently
+  parsed_amount: $250M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact (no company name extracted)
+- title: Chance Studios raised $3.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: Chance Studios
+  parsed_amount: $3.2M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by chance-studios.md ($3.2M Seed 2026-04-30 co-led by Makers Fund
+    + Hashed; LA Pokémon TCG)
+- title: a San Diego-based autoimmune biotech that had raised $370M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: a San Diego-based autoimmune biotech that had
+  parsed_amount: $370M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact (no company name; descriptive snippet only)
+- title: It most recently raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: It most recently
+  parsed_amount: $250M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact ("It most recently" is not a company name)
+- title: u003e. It most recently raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-05'
+  parsed_company: u003e. It most recently
+  parsed_amount: $250M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact (HTML entity u003e)
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -978,64 +1025,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: aggregator
-- title: 'No US funding, no problem: Málaga’s Freepik relaunches as Maginific with
-    €200 million ARR'
-  url: https://www.eu-startups.com/2026/04/no-us-funding-no-problem-malagas-freepik-relaunches-as-maginific-with-e196-million-arr/
-  source: eu-startups
-  date_found: '2026-04-28'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: rebrand of Freepik, not a startup round
-- title: Frankfurt’s QuoIntelligence closes €7.3 million Series A to scale EU-compliant
-    threat intelligence
-  url: https://www.eu-startups.com/2026/04/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/
-  source: eu-startups
-  date_found: '2026-04-27'
-  parsed_company: Frankfurt’s QuoIntelligence
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-27'
-  notes: created startup profile quointelligence.md; €7.3M Series A on 2026-04-27
-    co-led by Elevator Ventures (Raiffeisen Bank International VC arm) and BMH, with
-    eCAPITAL Entrepreneurial Partners and Mercurius Private Equity participating;
-    Frankfurt-based cybersecurity/threat intelligence; no firm slugs added (none yet
-    profiled)
-- title: Lille-based Axomove raises €4 million to scale digital rehabilitation platform
-    reimbursed by French Social Security
-  url: https://www.eu-startups.com/2026/04/lille-based-axomove-raises-e4-million-to-scale-digital-rehab-platform-reimbursed-by-french-social-security/
-  source: eu-startups
-  date_found: '2026-04-27'
-  parsed_company: Lille-based Axomove
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-27'
-  notes: created startup profile axomove.md; €4M Series A on 2026-04-22 co-led by
-    Fonds Prévention Numérique (Bpifrance) and Go Capital with Inco Ventures and Faraday
-    participating; Lille-based digital health/rehab; reimbursed by French Social Security
-- title: 'Exclusive: Goldman Sachs Leads $60M Series C For Personal Loan Fintech Kashable'
-  url: https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/
-  source: crunchbase
-  date_found: '2026-04-27'
-  parsed_company: null
-  parsed_amount: $60M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-04-27'
-  notes: created startup profile kashable.md; $60M Series C on 2026-04-27 led by Goldman
-    Sachs Alternatives' Sustainable Investing with Revolution and EJF Ventures; NYC
-    employer-sponsored credit/lending fintech founded 2013 by Rishi Kumar and Einat
-    Steklov; updated revolution firm with reference
-- title: 'The Weekly Notable Startup Funding Report: 4/27/26'
-  url: https://alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/
-  source: alleywatch
-  date_found: '2026-04-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator weekly summary, not a single round; individual rounds captured
-    separately
