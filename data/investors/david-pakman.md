@@ -85,16 +85,16 @@ Based on 16 verified CoinFund investments (see Portfolio below), Pakman's actual
 | Dapper Labs | 2018 | Series A | NFTs / Blockchain | [^11] |
 | Rarible | 2020 | Pre-seed | NFT Marketplace | [^12] |
 | Rarible | 2021 | Series A (led) | NFT Marketplace | [^13] |
-| Giza | 2023 | Pre-seed (led) | AI / Web3 | [^14] |
+| Giza | 2023-07-11 | Pre-seed ($3M, led) | AI / Web3 | [^14][^28][^29] |
 | Prime Intellect | 2024 | Seed (co-led) | Decentralized AI | [^15] |
 | ether.fi | 2024 | Series A (co-led) | DeFi / Restaking | [^16] |
 | Cloudburst | 2024 | Seed (follow-on) | Crypto Security | [^17] |
 | Pluralis Research | 2025 | Seed (co-led) | Decentralized AI | [^18] |
-| Giza | 2025 | Seed (led) | AI / Web3 | [^9] |
+| Giza | 2025-05-20 | Private ($5.2M, led) | AI / Web3 | [^9][^30] |
 | ZOOT | 2025 | Seed (led) | Gaming | [^19] |
 | Veda | 2025 | Series A (led) | DeFi Infrastructure | [^20] |
 | Dakota | 2025-07-15 | Series A ($12.5M, led) | Stablecoin Banking | [^21] |
-| Irys | 2025 | Series A (led) | Data Infrastructure | [^22] |
+| Irys | 2025-08-21 | Series A ($10M, led) | Data Infrastructure | [^22][^31] |
 | Flying Tulip | 2025 | Seed | DeFi / Trading | [^23] |
 | LI.FI | 2025 | Series A Extension (co-led) | Cross-chain Infrastructure | [^24] |
 
@@ -185,3 +185,7 @@ No independently sourced founder testimonials from portfolio company founders (i
 [^26]: CNN Money, "15 questions with David Pakman," accessed March 2026. https://money.cnn.com/interactive/technology/15-questions-with-david-pakman/index.html
 
 [^27]: Anime News Network, "Video Site with Unauthorized Anime Gets US$4M Capital," March 11, 2008. https://www.animenewsnetwork.com/news/2008-03-11/video-site-with-unauthorized-anime-gets-us$4m-venture
+[^28]: Fortune Crypto, "A.I. and crypto hybrid Giza raises $3 million to bring machine learning to the blockchain," July 11, 2023, accessed May 2026. https://fortune.com/crypto/2023/07/11/giza-raises-3-million-pre-seed-ai-crypto-zero-knowledge-proofs-zkml/ — Independent confirmation of Giza's $3M pre-seed on July 11, 2023 led by CoinFund.
+[^29]: CoinFund blog, "Enabling AI Models for Use in Smart Contracts: Partnering with Giza," July 11, 2023, accessed May 2026. https://coinfund.io/enabling-ai-models-for-use-in-smart-contracts-partnering-with-giza/ — CoinFund's own announcement of Giza's $3M pre-seed lead.
+[^30]: Chainwire, "Giza Announces $GIZA Token Generation Event to Power Omnichain Autonomous Agents," May 20, 2025, accessed May 2026. https://chainwire.org/2025/05/20/giza-announces-giza-token-generation-event-to-power-omnichain-autonomous-agents/ — Primary source for Giza's $5.2M private round disclosed May 20, 2025 led by CoinFund with backing from Arrington Capital and Base Ecosystem Fund.
+[^31]: NFTgators, "Programmable Datachain, Irys Secures $10M Series A Led by CoinFund," August 21, 2025, accessed May 2026. https://www.nftgators.com/programmable-datachain-irys-secures-10m-series-a-led-by-coinfund/ — Independent confirmation of the $10M Series A on August 21, 2025 led by CoinFund.

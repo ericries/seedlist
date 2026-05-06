@@ -93,7 +93,7 @@ Based on 25 verified investments below, Felix and CoinFund demonstrate a clear p
 | Icebreaker | 2024 | Seed | Social/Identity | [^6] |
 | Flare | 2024 | Private | L1 Protocol | [^17] |
 | NFTfi | 2024 | Private | DeFi/NFTs | [^17] |
-| Irys | 2024 | Private | Data Storage | [^17] |
+| Irys | 2025-08-21 | Series A ($10M, CoinFund led) | Data Storage | [^17][^20][^21] |
 | Geodnet | 2025 | Private | DePIN | [^17] |
 | Pluralis Research | 2025 | Seed | AI/Decentralized | [^10] |
 | Dakota | 2025-07-15 | Series A ($12.5M, CoinFund led) | Fintech/Stablecoins | [^7][^12] |
@@ -135,3 +135,5 @@ No independently sourced founder testimonials specifically about Alex Felix were
 [^17]: Chain Broker, "CoinFund Portfolio, Top Projects by ROI & Recent Investments," accessed March 2026. https://chainbroker.io/funds/coinfund/
 [^18]: The Block, "PlayStation crypto game dev Gunzilla Games raises $30 million in round led by Avalanche fund and CoinFund," March 2024. https://www.theblock.co/post/284572/playstation-crypto-game-dev-gunzilla-games-raises-30-million-in-round-led-by-avalanche-fund-and-coinfund
 [^19]: PR Newswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund to Scale the Universal Liquidity Market for Digital Assets," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
+[^20]: Chainwire, "Irys Raises $10M Series A to Unlock $3 Trillion Data Economy With First Programmable Datachain," August 21, 2025, accessed May 2026. https://chainwire.org/2025/08/21/irys-raises-10m-series-a-to-unlock-3-trillion-data-economy-with-first-programmable-datachain/ — Primary source for Irys's $10M Series A on August 21, 2025 led by CoinFund with participation from Hypersphere, Tykhe Ventures, Varrock Ventures, Breed VC, Echo Group, Amber Group, and WAGMI Ventures.
+[^21]: NFTgators, "Programmable Datachain, Irys Secures $10M Series A Led by CoinFund," August 21, 2025, accessed May 2026. https://www.nftgators.com/programmable-datachain-irys-secures-10m-series-a-led-by-coinfund/ — Independent confirmation.

@@ -89,7 +89,7 @@ Based on 25 verified investments with confirmed CoinFund involvement, sourced fr
 | Pluralis Research | 2025-03 | Seed | Decentralized AI | [^14] |
 | Veda | 2025-06 | Series A | DeFi Infrastructure | [^24] |
 | Dakota | 2025-07-15 | Series A ($12.5M, CoinFund led) | Stablecoin Banking | [^25] |
-| Irys | 2025-08 | Series A | Data Infrastructure | [^26] |
+| Irys | 2025-08-21 | Series A ($10M, led) | Data Infrastructure | [^26][^31][^32] |
 | Cloudburst | ~2025 | Seed | Crypto Security | [^6] |
 | STON.fi | 2025-07-30 | Series A ($9.5M, co-led) | DEX/DeFi | [^29][^30] |
 | Flying Tulip | 2026-01 | Seed | DeFi | [^27] |
@@ -151,3 +151,5 @@ No independently sourced founder testimonials found. CoinFund's website features
 [^28]: PRNewswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
 [^29]: Decrypt, "STON.fi Dev Raises $9.5M Series A to Scale DeFi on TON," July 30, 2025. https://decrypt.co/332531/ston-fi-dev-raises-9-5m-series-a-to-scale-defi-on-ton
 [^30]: The Daily Hodl, "STON.fi Dev Raises $9.5M Series A to Scale DeFi on TON," July 30, 2025. https://dailyhodl.com/2025/07/30/ston-fi-dev-raises-9-5m-series-a-to-scale-defi-on-ton/
+[^31]: Chainwire, "Irys Raises $10M Series A to Unlock $3 Trillion Data Economy With First Programmable Datachain," August 21, 2025, accessed May 2026. https://chainwire.org/2025/08/21/irys-raises-10m-series-a-to-unlock-3-trillion-data-economy-with-first-programmable-datachain/ — Primary source confirming $10M Series A on August 21, 2025 led by CoinFund with Hypersphere, Tykhe Ventures, Varrock Ventures, Breed VC, Echo Group, Amber Group, and WAGMI Ventures participating.
+[^32]: NFTgators, "Programmable Datachain, Irys Secures $10M Series A Led by CoinFund," August 21, 2025, accessed May 2026. https://www.nftgators.com/programmable-datachain-irys-secures-10m-series-a-led-by-coinfund/ — Independent confirmation of August 21, 2025 announcement.

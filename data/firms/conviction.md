@@ -57,7 +57,7 @@ The firm runs several ecosystem programs including the Embed grant program for e
 
 Based on 18 verified portfolio companies, Conviction's actual investment behavior shows:
 
-**Sector breakdown:** The portfolio is almost entirely AI-focused. Of 18 verified investments: AI/ML infrastructure and models (Mistral, Baseten, Cartesia, Latent, Thinking Machines Lab, Essential AI — 6 of 18, 33%), AI applications for specific industries (Harvey, Sierra, Open Evidence, RunSybil, Onyx — 5 of 18, 28%), AI-powered media and content (HeyGen, Sola — 2 of 18, 11%), robotics/hardware AI (Sunday, Corridor — 2 of 18, 11%), other AI-adjacent tools (Cognition, Distributed Spectrum, Mithril — 3 of 18, 17%) [^3].
+**Sector breakdown:** The portfolio is almost entirely AI-focused. Of 18 verified investments: AI/ML infrastructure and models (Mistral, Baseten, Cartesia, Thinking Machines Lab, Essential AI — 5 of 18, 28%), AI applications for specific industries including healthcare (Harvey, Sierra, Open Evidence, Latent Health, RunSybil, Onyx — 6 of 18, 33%), AI-powered media and content (HeyGen, Sola — 2 of 18, 11%), robotics/hardware AI (Sunday, Corridor — 2 of 18, 11%), other AI-adjacent tools (Cognition, Distributed Spectrum, Mithril — 3 of 18, 17%) [^3].
 
 **Stage distribution:** Conviction predominantly invests at seed and Series A stages, with check sizes of $1M–$25M [^3]. The firm states it is "often the first investor" [^4], suggesting a tilt toward seed.
 
@@ -86,7 +86,8 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Essential AI | Seed (participated, $8.3M) | ~2023 (disclosed 2023-12-11) | Enterprise AI/Agents | Active | [^3][^13][^14][^15] |
 | RunSybil | Early | ~2024 | AI Testing | Active | [^3] |
 | Sola | Early | ~2024 | AI Media | Active | [^3] |
-| Latent | Early | ~2024 | AI Infrastructure | Active | [^3] |
+| Latent (Latent Health) | Seed (participated) | 2023 | Healthcare AI | Active | [^19][^20][^21] |
+| Latent (Latent Health) | Series A (participated, $80M total) | 2026-03-23 | Healthcare AI | Active | [^19][^20][^21] |
 | Distributed Spectrum | Series A ($25M, co-led) | 2025-03-18 | AI/RF Sensing/Defense | Active | [^16][^17][^18] |
 | Mithril | Early | ~2024 | AI | Active | [^3] |
 | Onyx | Early | ~2024 | AI | Active | [^3] |
@@ -129,3 +130,6 @@ No independently sourced founder testimonials found. The firm's website describe
 [^16]: Distributed Spectrum, "Series A Announcement," March 2025, accessed May 2026. https://www.distributedspectrum.com/series-a-announcement — Company's own announcement of the $25M Series A co-led by Conviction, Shield Capital, and Nat Friedman with participation from existing investors Felicis and XFund and angels including Stan McChrystal, Eric Glyman, Chris Re, Arash Ferdowsi, Matt MacInnis, Zak Stone, and executives from Palantir.
 [^17]: SignalBase (formerly LeadsOnTrees), "Distributed Spectrum Secures $25M in Series A Funding to Revolutionize Radio Spectrum Sensing," March 18, 2025, accessed May 2026. https://www.trysignalbase.com/news/funding/distributed-spectrum-secures-25m-in-series-a-funding-to-revolutionize-radio-spectrum-sensing — Independent confirmation of the March 18, 2025 close date for the $25M Series A with Conviction, Shield Capital, Nat Friedman, Felicis, and XFund among the participants.
 [^18]: Defense Tech Signals, "Distributed Spectrum: Small Sensors and the Future of EW," March 2025, accessed May 2026. https://defensetechsignals.beehiiv.com/p/distributedspectrum — Independent confirmation of the $25M Series A in March 2025 led by Conviction and Shield Capital with Nat Friedman, Felicis Ventures, XFund, Chris Re, and General Stanley McChrystal participating; total funding to date reported as $29M.
+[^19]: BusinessWire, "Latent Raises $80M to Close the Gap Between Diagnosis and Treatment," March 23, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260330515802/en/Latent-Raises-$80M-to-Close-the-Gap-Between-Diagnosis-and-Treatment — Primary source for Latent (Latent Health, latenthealth.com) Series A on March 23, 2026 — $80M co-led by Spark Capital and Transformation Capital with participation from Conviction, McKesson Ventures, General Catalyst, and Y Combinator. Founders Sriram Somasundaram and Rishabh Jain; company founded 2022, YC Winter 2023 batch.
+[^20]: hlth.com, "Latent Raises $80M For AI Medication Approval Platform," March 23, 2026, accessed May 2026. https://hlth.com/insights/news/latent-raises-80m-for-ai-medication-approval-platform-2026-03-23 — Independent confirmation of the $80M Series A on March 23, 2026 co-led by Spark Capital and Transformation Capital with Conviction participating among others.
+[^21]: Y Combinator, "Latent: Medical language models to automate healthcare operations," accessed May 2026. https://www.ycombinator.com/companies/latent — Confirms Latent Health's YC Winter 2023 batch participation and 2022 founding date by Rishabh Jain and Sri Somasundaram. Conviction participated in the W23-vintage seed round alongside Y Combinator, Avra, Felicis, and General Catalyst per Tracxn and startup-seeker company profiles.
