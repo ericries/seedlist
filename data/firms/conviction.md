@@ -84,7 +84,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Sunday | Early | ~2023 | Robotics | Active | [^3] |
 | Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^22][^23][^24] |
 | Essential AI | Seed (participated, $8.3M) | ~2023 (disclosed 2023-12-11) | Enterprise AI/Agents | Active | [^3][^13][^14][^15] |
-| RunSybil | Early | ~2024 | AI Testing | Active | [^3] |
+| RunSybil | Series A (participated, $40M) | 2026-03-18 | AI Offensive Security | Active | [^3][^28][^29][^30] |
 | Sola | Seed (led, $3.5M) | 2025-08-14 (announced) | AI Process Automation | Active | [^25][^26][^27] |
 | Latent (Latent Health) | Seed (participated) | 2023 | Healthcare AI | Active | [^19][^20][^21] |
 | Latent (Latent Health) | Series A (participated, $80M total) | 2026-03-23 | Healthcare AI | Active | [^19][^20][^21] |
@@ -139,3 +139,9 @@ No independently sourced founder testimonials found. The firm's website describe
 [^25]: Fortune, "Sola Solutions raises $21 million for enterprise AI," Emma Hinchliffe, August 14, 2025, accessed May 2026. https://fortune.com/2025/08/14/sola-solutions-ai-startup-raised-21-million-andreessen-sarah-guo/ — Primary source for Sola Solutions' total $21M raise: $3.5M seed led by Conviction (Sarah Guo) and $17.5M Series A led by Andreessen Horowitz (Kimberly Tan and Jennifer Li). Founders Jessica Wu (CEO, MIT dropout, former Citadel and Thrive Capital) and Neil Deshmukh (CTO, age 23). Both rounds disclosed in the same August 14, 2025 announcement. Sola is an enterprise AI process automation platform — NOT a media company; the prior "AI Media" classification was incorrect.
 [^26]: Latham & Watkins, "Latham & Watkins Advises Sola in US$17 Million Series A Funding Round," August 21, 2025, accessed May 2026. https://www.lw.com/en/news/2025/08/latham-watkins-advises-sola-in-us17-million-series-a-funding-round — Independent confirmation of Sola's $17M Series A led by Andreessen Horowitz (Kimberly Tan and Jennifer Li) following a $3.5M seed led by Sarah Guo at Conviction. Latham & Watkins represented Sola in the deal.
 [^27]: SiliconANGLE, "Sola Solutions raises $17.5M to enhance enterprise process automation," August 14, 2025, accessed May 2026. https://siliconangle.com/2025/08/14/sola-solutions-raises-17-5m-enhance-enterprise-process-automation/ — Independent confirmation of $17.5M Series A led by Andreessen Horowitz with Sarah Guo's Conviction having led the prior $3.5M seed; founders Jessica Wu (CEO) and Neil Deshmukh.
+
+[^28]: RunSybil blog, "RunSybil Raises $40M to Build the AI-Native Platform for Offensive Security," March 18, 2026. https://www.runsybil.com/post/runsybil-raises-40m-to-build-the-ai-native-platform-for-offensive-security — Names Khosla Ventures lead with S32, Anthology Fund (Anthropic + Menlo Ventures), Conviction, and Elad Gil participating; angels include Nikesh Arora, Amit Agarwal, Jeff Dean.
+
+[^29]: Fortune, "Exclusive: AI cybersecurity startup RunSybil, founded by OpenAI's first security hire, raises $40 million led by Khosla Ventures," March 18, 2026. https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/ — Confirms $40M total funding, Khosla Ventures lead, Conviction participation. Co-founders Ari Herbert-Voss (OpenAI's first security hire) and Vlad Ionescu (ex-Meta red team).
+
+[^30]: SiliconANGLE, "RunSybil raises $40M to automate offensive security with AI agents," March 18, 2026. https://siliconangle.com/2026/03/18/runsybil-raises-40m-automate-offensive-security-ai-agents/ — Independent confirmation of round details and Conviction participation.

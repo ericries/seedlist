@@ -5349,7 +5349,13 @@ vague_facts:
   type: unknown_value
   value: '[^20]'
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2024-02-28. ether.fi $23M Series A co-led by Bullish Capital and CoinFund; participating investors: OKX Ventures, Foresight Ventures, Consensys, Amber, Selini, Draper Dragon, Bankless Ventures, plus founders/executives from Aave, Polygon, Kraken, Curve, Ethena, and DeFi Llama. Valuation not disclosed. Verified via 3 primary sources: Bullish (lead-investor press release), StartupHub.ai press-release publication, and existing CoinDesk citation [^20]. CoinFund profile updated with new footnotes [^35][^36]."
+  resolution_note: 'Resolved to 2024-02-28. ether.fi $23M Series A co-led by Bullish
+    Capital and CoinFund; participating investors: OKX Ventures, Foresight Ventures,
+    Consensys, Amber, Selini, Draper Dragon, Bankless Ventures, plus founders/executives
+    from Aave, Polygon, Kraken, Curve, Ethena, and DeFi Llama. Valuation not disclosed.
+    Verified via 3 primary sources: Bullish (lead-investor press release), StartupHub.ai
+    press-release publication, and existing CoinDesk citation [^20]. CoinFund profile
+    updated with new footnotes [^35][^36].'
 - column: 4
   company: Monad
   line: '| Monad | Venture | 2024 | L1 blockchain | [^21] |'
@@ -5361,7 +5367,14 @@ vague_facts:
   type: unknown_value
   value: '[^21]'
   resolved: 2026-05-04
-  resolution_note: "Resolved to 2024-04-09. Monad Labs Series A: $225M led by Paradigm at ~$3B valuation; CoinFund participated alongside Electric Capital, Greenoaks, Coinbase Ventures, Castle Island Ventures, Animoca Ventures, Archetype, Bankless Ventures, Big Brain Holdings, eGirl Capital, and Amber Group. Verified via 3 primary sources: The Block (April 9, 2024), Coinspeaker (full investor list including CoinFund), PitchBook (confirms Series A designation and $3B valuation). CoinFund's own 9-year anniversary press release (PRNewswire, August 2024) lists Monad among 2024 investments. Coinspeaker and Stakin sources cited."
+  resolution_note: 'Resolved to 2024-04-09. Monad Labs Series A: $225M led by Paradigm
+    at ~$3B valuation; CoinFund participated alongside Electric Capital, Greenoaks,
+    Coinbase Ventures, Castle Island Ventures, Animoca Ventures, Archetype, Bankless
+    Ventures, Big Brain Holdings, eGirl Capital, and Amber Group. Verified via 3 primary
+    sources: The Block (April 9, 2024), Coinspeaker (full investor list including
+    CoinFund), PitchBook (confirms Series A designation and $3B valuation). CoinFund''s
+    own 9-year anniversary press release (PRNewswire, August 2024) lists Monad among
+    2024 investments. Coinspeaker and Stakin sources cited.'
 - column: 4
   company: Prime Intellect
   line: '| Prime Intellect | Seed | 2024 | Decentralized AI compute | [^22] |'
@@ -5373,7 +5386,12 @@ vague_facts:
   type: unknown_value
   value: '[^22]'
   resolved: 2026-05-04
-  resolution_note: "Resolved to 2024-04-23. Prime Intellect $5.5M seed co-led by Distributed Global and CoinFund. Other participants: Compound, Collab+Currency, Juan Benet (Protocol Labs), Hugging Face CEO Clem Delangue (angel). Verified via 3 primary sources: PR Newswire press release (April 23, 2024), Fortune (April 23, 2024), TheSaaSNews (April 24, 2024 aggregator confirmation). CoinFund's 9-year anniversary press release also confirms Prime Intellect as 2024 investment."
+  resolution_note: 'Resolved to 2024-04-23. Prime Intellect $5.5M seed co-led by Distributed
+    Global and CoinFund. Other participants: Compound, Collab+Currency, Juan Benet
+    (Protocol Labs), Hugging Face CEO Clem Delangue (angel). Verified via 3 primary
+    sources: PR Newswire press release (April 23, 2024), Fortune (April 23, 2024),
+    TheSaaSNews (April 24, 2024 aggregator confirmation). CoinFund''s 9-year anniversary
+    press release also confirms Prime Intellect as 2024 investment.'
 - column: 4
   company: STON.fi
   line: '| STON.fi | Seed | 2024 | DEX (TON) | [^4] |'
@@ -5385,7 +5403,17 @@ vague_facts:
   type: unknown_value
   value: '[^4]'
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2024-05-14. STON.fi (TON ecosystem AMM DEX) announced a previously-undisclosed funding round led by CoinFund on May 14, 2024. Other participants: Delphi Ventures, Karatage, TON Ventures, Sergej Kunz and Anton Bukov (1inch co-founders), Philipp Zentner (LI.FI CEO). Round letter and amount were not publicly disclosed; the announcement does NOT explicitly call it a Seed round, so the prior 'Seed' label has been corrected to 'Strategic (led, undisclosed amount)'. Verified via 3 primary sources: PR Newswire press release (May 14, 2024), CoinFund's own blog post (May 14, 2024), and CypherHunter aggregator (May 15, 2024). Updated CoinFund firm portfolio entry to: '| STON.fi | Strategic (led, undisclosed amount) | 2024-05-14 | DEX (TON) | [^4][^43][^44] |'. Added new sources [^43] (PR Newswire) and [^44] (CoinFund blog)."
+  resolution_note: 'Resolved to 2024-05-14. STON.fi (TON ecosystem AMM DEX) announced
+    a previously-undisclosed funding round led by CoinFund on May 14, 2024. Other
+    participants: Delphi Ventures, Karatage, TON Ventures, Sergej Kunz and Anton Bukov
+    (1inch co-founders), Philipp Zentner (LI.FI CEO). Round letter and amount were
+    not publicly disclosed; the announcement does NOT explicitly call it a Seed round,
+    so the prior ''Seed'' label has been corrected to ''Strategic (led, undisclosed
+    amount)''. Verified via 3 primary sources: PR Newswire press release (May 14,
+    2024), CoinFund''s own blog post (May 14, 2024), and CypherHunter aggregator (May
+    15, 2024). Updated CoinFund firm portfolio entry to: ''| STON.fi | Strategic (led,
+    undisclosed amount) | 2024-05-14 | DEX (TON) | [^4][^43][^44] |''. Added new sources
+    [^43] (PR Newswire) and [^44] (CoinFund blog).'
 - column: 4
   company: Geodnet
   line: '| Geodnet | Seed | 2024 | DePIN | [^4] |'
@@ -5397,7 +5425,16 @@ vague_facts:
   type: unknown_value
   value: '[^4]'
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2024-04-16. Geodnet Foundation strategic round of over $2M (not seed; Crunchbase classified as Seed but BusinessWire and Inside GNSS describe as a strategic investment round), with CoinFund, Pantera, VanEck, and Santiago R. Santos as participating investors (no formal lead designated). Announcement made at TOKEN2049. Valuation not disclosed. Verified via 3 primary sources: BusinessWire press release (April 16, 2024), Inside GNSS (April 16, 2024), GPS World (April 22, 2024). CoinFund profile updated with new footnotes [^37][^38][^39] and entry revised from 'Seed | 2024' to 'Strategic ($2M) (participated) | 2024-04-16'. Note: a separate larger $8M strategic round in Feb 2025 led by Multicoin (not CoinFund's 2024 entry)."
+  resolution_note: 'Resolved to 2024-04-16. Geodnet Foundation strategic round of
+    over $2M (not seed; Crunchbase classified as Seed but BusinessWire and Inside
+    GNSS describe as a strategic investment round), with CoinFund, Pantera, VanEck,
+    and Santiago R. Santos as participating investors (no formal lead designated).
+    Announcement made at TOKEN2049. Valuation not disclosed. Verified via 3 primary
+    sources: BusinessWire press release (April 16, 2024), Inside GNSS (April 16, 2024),
+    GPS World (April 22, 2024). CoinFund profile updated with new footnotes [^37][^38][^39]
+    and entry revised from ''Seed | 2024'' to ''Strategic ($2M) (participated) | 2024-04-16''.
+    Note: a separate larger $8M strategic round in Feb 2025 led by Multicoin (not
+    CoinFund''s 2024 entry).'
 - column: 4
   company: Pluralis Research
   line: '| Pluralis Research | Pre-Seed/Seed | 2024-2025 | Decentralized AI | [^13]
@@ -5428,7 +5465,11 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-08-21. $10M Series A led by CoinFund with participation from Hypersphere, Tykhe Ventures, Varrock Ventures, Breed VC, Echo Group, Amber Group, and WAGMI Ventures. Three primary sources: Chainwire press release (new [^46]), DL News syndication (existing [^24]), NFTgators independent coverage (new [^47]). Updated firm and investor profiles (alex-felix, david-pakman, jake-brukhman)."
+  resolution_note: 'Resolved to 2025-08-21. $10M Series A led by CoinFund with participation
+    from Hypersphere, Tykhe Ventures, Varrock Ventures, Breed VC, Echo Group, Amber
+    Group, and WAGMI Ventures. Three primary sources: Chainwire press release (new
+    [^46]), DL News syndication (existing [^24]), NFTgators independent coverage (new
+    [^47]). Updated firm and investor profiles (alex-felix, david-pakman, jake-brukhman).'
   type: unknown_value
   value: '[^24]'
 - column: 4
@@ -5440,7 +5481,14 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved with two distinct rounds. (1) Pre-seed: 2023-07-11, $3M led by CoinFund with StarkWare, TA Ventures, and Arrington Capital participating; sources BusinessWire press release (new [^48]), Fortune Crypto (new [^49]), CoinFund blog (new [^50]). (2) Private round: 2025-05-20, $5.2M led by CoinFund with Arrington Capital and Base Ecosystem Fund participating; sources Chainwire (new [^51]), crypto-fundraising.info (new [^52]). Replaced single vague row with two precise rows in firm profile. Existing david-pakman investor profile already had both rounds with correct dates added."
+  resolution_note: 'Resolved with two distinct rounds. (1) Pre-seed: 2023-07-11, $3M
+    led by CoinFund with StarkWare, TA Ventures, and Arrington Capital participating;
+    sources BusinessWire press release (new [^48]), Fortune Crypto (new [^49]), CoinFund
+    blog (new [^50]). (2) Private round: 2025-05-20, $5.2M led by CoinFund with Arrington
+    Capital and Base Ecosystem Fund participating; sources Chainwire (new [^51]),
+    crypto-fundraising.info (new [^52]). Replaced single vague row with two precise
+    rows in firm profile. Existing david-pakman investor profile already had both
+    rounds with correct dates added.'
   type: unknown_value
   value: '[^3]'
 - column: 4
@@ -5452,7 +5500,11 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-07-15. $12.5M Series A led by CoinFund with 6th Man Ventures and Triton Ventures participating. Three primary sources: PRNewswire announcement (existing [^25]), Fortune article (existing [^28]), CoinFund blog post (new [^45]). Crowdfund Insider confirms participants. Updated firm and investor profiles (alex-felix, david-pakman, jake-brukhman)."
+  resolution_note: 'Resolved to 2025-07-15. $12.5M Series A led by CoinFund with 6th
+    Man Ventures and Triton Ventures participating. Three primary sources: PRNewswire
+    announcement (existing [^25]), Fortune article (existing [^28]), CoinFund blog
+    post (new [^45]). Crowdfund Insider confirms participants. Updated firm and investor
+    profiles (alex-felix, david-pakman, jake-brukhman).'
   type: unknown_value
   value: '[^25]'
 - column: 4
@@ -6475,7 +6527,21 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-06
-  resolution_note: "Resolved. Corridor (corridor.dev) is an AI-native code security platform — NOT a robotics/AI company; the prior 'Robotics/AI' classification was incorrect. Conviction LED Corridor's $5.4M seed round announced 2025-08-05 (NOT 2024). Founders: Jack Cable (CEO, formerly led Secure by Design at CISA, top-100 HackerOne hacker) and Ashwin Ramaswami (CTO, Stanford); Alex Stamos (former CSO at Yahoo, Facebook, SentinelOne) joined as CSO. Angel investors named in Cable's announcement: Sarah Guo, Mike Vernal, Isabella Garcia-Camargo (Conviction); Christina Cacioppo, Russell Kaplan, Casey Ellis (Bugcrowd), Ryan Kazanciyan, Freddy Dezeure, Feross Aboukhadijeh, Jon Oberheide (Duo Security). Early customers: Cursor, Mercury, GreyNoise. Subsequent Series A on 2026-03-20 raised $25M led by Felicis at $200M valuation with Conviction participating (NOT covered by this resolution but noted for context). Three primary sources added: Axios article (new [^22]), Conviction's own launch page (new [^23]), Jack Cable LinkedIn post (new [^24]). Sector reclassified from 'Robotics/AI' to 'AI Code Security'; inferred thesis sector breakdown updated. Also updated /data/investors/sarah-guo.md with same correction (new [^15]-[^17])."
+  resolution_note: 'Resolved. Corridor (corridor.dev) is an AI-native code security
+    platform — NOT a robotics/AI company; the prior ''Robotics/AI'' classification
+    was incorrect. Conviction LED Corridor''s $5.4M seed round announced 2025-08-05
+    (NOT 2024). Founders: Jack Cable (CEO, formerly led Secure by Design at CISA,
+    top-100 HackerOne hacker) and Ashwin Ramaswami (CTO, Stanford); Alex Stamos (former
+    CSO at Yahoo, Facebook, SentinelOne) joined as CSO. Angel investors named in Cable''s
+    announcement: Sarah Guo, Mike Vernal, Isabella Garcia-Camargo (Conviction); Christina
+    Cacioppo, Russell Kaplan, Casey Ellis (Bugcrowd), Ryan Kazanciyan, Freddy Dezeure,
+    Feross Aboukhadijeh, Jon Oberheide (Duo Security). Early customers: Cursor, Mercury,
+    GreyNoise. Subsequent Series A on 2026-03-20 raised $25M led by Felicis at $200M
+    valuation with Conviction participating (NOT covered by this resolution but noted
+    for context). Three primary sources added: Axios article (new [^22]), Conviction''s
+    own launch page (new [^23]), Jack Cable LinkedIn post (new [^24]). Sector reclassified
+    from ''Robotics/AI'' to ''AI Code Security''; inferred thesis sector breakdown
+    updated. Also updated /data/investors/sarah-guo.md with same correction (new [^15]-[^17]).'
   type: unknown_value
   value: '[^3]'
 - column: 5
@@ -6495,9 +6561,15 @@ vague_facts:
   profile: firms/conviction
   profile_name: Conviction
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^3]'
+  resolved: '2026-05-06'
+  resolution_note: Resolved to 2026-03-18. RunSybil raised $40M Series A led by Khosla
+    Ventures, with S32, Anthology Fund (Anthropic+Menlo), Conviction, Elad Gil participating.
+    Co-founders Ari Herbert-Voss (OpenAI first security hire) and Vlad Ionescu (ex-Meta
+    red team). AI-native offensive security/penetration-testing platform. Verified
+    via 4 primary sources (RunSybil blog, Fortune, SiliconANGLE, Built In SF).
 - column: 5
   company: Sola
   line: '| Sola | Early | ~2024 | AI Media | Active | [^3] |'
@@ -6507,7 +6579,20 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-06
-  resolution_note: "Resolved. Sola (Sola Solutions, sola.ai) is an enterprise AI process automation platform — NOT a media company; the prior 'AI Media' classification was incorrect. Conviction (Sarah Guo) LED Sola's $3.5M seed round; round publicly disclosed 2025-08-14 alongside the $17.5M Series A led by Andreessen Horowitz (Kimberly Tan and Jennifer Li). Total raised: $21M. Founders: Jessica Wu (CEO, MIT dropout, formerly Citadel and Thrive Capital) and Neil Deshmukh (CTO, age 23, MIT dropout). Sola's product uses AI agents for invoicing, shipment building, and healthcare data entry — a modern alternative to traditional RPA. The seed round close date is not publicly stated separately from the August 14, 2025 disclosure date; per Fortune the seed preceded the Series A. Three primary sources added: Fortune article (new [^25]), Latham & Watkins announcement (new [^26]), SiliconANGLE coverage (new [^27]). Sector reclassified from 'AI Media' to 'AI Process Automation'; inferred thesis sector breakdown updated. Also updated /data/investors/sarah-guo.md (new [^12]-[^14])."
+  resolution_note: 'Resolved. Sola (Sola Solutions, sola.ai) is an enterprise AI process
+    automation platform — NOT a media company; the prior ''AI Media'' classification
+    was incorrect. Conviction (Sarah Guo) LED Sola''s $3.5M seed round; round publicly
+    disclosed 2025-08-14 alongside the $17.5M Series A led by Andreessen Horowitz
+    (Kimberly Tan and Jennifer Li). Total raised: $21M. Founders: Jessica Wu (CEO,
+    MIT dropout, formerly Citadel and Thrive Capital) and Neil Deshmukh (CTO, age
+    23, MIT dropout). Sola''s product uses AI agents for invoicing, shipment building,
+    and healthcare data entry — a modern alternative to traditional RPA. The seed
+    round close date is not publicly stated separately from the August 14, 2025 disclosure
+    date; per Fortune the seed preceded the Series A. Three primary sources added:
+    Fortune article (new [^25]), Latham & Watkins announcement (new [^26]), SiliconANGLE
+    coverage (new [^27]). Sector reclassified from ''AI Media'' to ''AI Process Automation'';
+    inferred thesis sector breakdown updated. Also updated /data/investors/sarah-guo.md
+    (new [^12]-[^14]).'
   type: unknown_value
   value: '[^3]'
 - column: 5
@@ -6519,7 +6604,19 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved. The 'Latent' in Conviction's portfolio is Latent Health (latenthealth.com), founded 2022 by Sriram Somasundaram and Rishabh Jain — a clinical AI company for medication access — NOT Latent Labs (DeepMind alumnus, AI biology) or Latent AI/Latent Technology. Conviction website confirms link to latenthealth.com. Two rounds: (1) Seed in 2023 (YC W23 batch) with Conviction participating alongside Y Combinator, Avra, Felicis, and General Catalyst per Tracxn and startup-seeker; specific seed announcement date and amount not publicly disclosed. (2) Series A on 2026-03-23, $80M co-led by Spark Capital and Transformation Capital with Conviction, McKesson Ventures, General Catalyst, and Y Combinator participating. Three primary sources: BusinessWire press release (new [^19]), hlth.com coverage (new [^20]), Y Combinator company page (new [^21]). Sector reclassified from 'AI Infrastructure' to 'Healthcare AI'; inferred thesis sector breakdown updated accordingly."
+  resolution_note: 'Resolved. The ''Latent'' in Conviction''s portfolio is Latent
+    Health (latenthealth.com), founded 2022 by Sriram Somasundaram and Rishabh Jain
+    — a clinical AI company for medication access — NOT Latent Labs (DeepMind alumnus,
+    AI biology) or Latent AI/Latent Technology. Conviction website confirms link to
+    latenthealth.com. Two rounds: (1) Seed in 2023 (YC W23 batch) with Conviction
+    participating alongside Y Combinator, Avra, Felicis, and General Catalyst per
+    Tracxn and startup-seeker; specific seed announcement date and amount not publicly
+    disclosed. (2) Series A on 2026-03-23, $80M co-led by Spark Capital and Transformation
+    Capital with Conviction, McKesson Ventures, General Catalyst, and Y Combinator
+    participating. Three primary sources: BusinessWire press release (new [^19]),
+    hlth.com coverage (new [^20]), Y Combinator company page (new [^21]). Sector reclassified
+    from ''AI Infrastructure'' to ''Healthcare AI''; inferred thesis sector breakdown
+    updated accordingly.'
   type: unknown_value
   value: '[^3]'
 - column: 5
@@ -6532,7 +6629,12 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-03-18. $25M Series A co-led by Conviction, Shield Capital, and Nat Friedman with Felicis and XFund participating, plus angels including Stan McChrystal, Eric Glyman, Chris Re, Arash Ferdowsi, Matt MacInnis, Zak Stone, and Palantir executives. Three primary sources: company's own series-a-announcement page ([^16]), SignalBase ([^17]), Defense Tech Signals ([^18]). Updated Arash Ferdowsi profile to fix incorrect ~2022 date."
+  resolution_note: 'Resolved to 2025-03-18. $25M Series A co-led by Conviction, Shield
+    Capital, and Nat Friedman with Felicis and XFund participating, plus angels including
+    Stan McChrystal, Eric Glyman, Chris Re, Arash Ferdowsi, Matt MacInnis, Zak Stone,
+    and Palantir executives. Three primary sources: company''s own series-a-announcement
+    page ([^16]), SignalBase ([^17]), Defense Tech Signals ([^18]). Updated Arash
+    Ferdowsi profile to fix incorrect ~2022 date.'
   type: unknown_value
   value: '[^3]'
 - column: 5
@@ -30516,7 +30618,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-07-15. $12.5M Series A led by CoinFund with 6th Man Ventures and Triton Ventures participating. Updated entry on alex-felix profile."
+  resolution_note: Resolved to 2025-07-15. $12.5M Series A led by CoinFund with 6th
+    Man Ventures and Triton Ventures participating. Updated entry on alex-felix profile.
   type: unknown_value
   value: '[^12]'
 - column: 4
@@ -35702,7 +35805,10 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Corrected. Distributed Spectrum's Series A was 2025-03-18 (not 2022). $25M co-led by Conviction, Shield Capital, and Nat Friedman; Ferdowsi participated as an angel. Source: company's series-a-announcement page (added as new footnote [^8])."
+  resolution_note: 'Corrected. Distributed Spectrum''s Series A was 2025-03-18 (not
+    2022). $25M co-led by Conviction, Shield Capital, and Nat Friedman; Ferdowsi participated
+    as an angel. Source: company''s series-a-announcement page (added as new footnote
+    [^8]).'
   type: unknown_value
   value: '[^4]'
 - column: 4
@@ -53087,7 +53193,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-07-15. $12.5M Series A led by CoinFund. Updated entry on david-pakman profile."
+  resolution_note: Resolved to 2025-07-15. $12.5M Series A led by CoinFund. Updated
+    entry on david-pakman profile.
   type: unknown_value
   value: '[^21]'
 - column: 4
@@ -73829,7 +73936,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-07-15. $12.5M Series A led by CoinFund. Updated entry on jake-brukhman profile."
+  resolution_note: Resolved to 2025-07-15. $12.5M Series A led by CoinFund. Updated
+    entry on jake-brukhman profile.
   type: unknown_value
   value: '[^25]'
 - column: 4
@@ -140260,7 +140368,9 @@ vague_facts:
   type: year_only_date
   value: ~2024
   resolved: 2026-05-04
-  resolution_note: "11x Series A was September 16, 2024: $24M led by Benchmark (Sarah Tavel), Abstract Ventures participated. Verified via 11x blog, TechCrunch, GlobeNewswire. Updated abstract-ventures.md and sarah-tavel.md."
+  resolution_note: '11x Series A was September 16, 2024: $24M led by Benchmark (Sarah
+    Tavel), Abstract Ventures participated. Verified via 11x blog, TechCrunch, GlobeNewswire.
+    Updated abstract-ventures.md and sarah-tavel.md.'
 - column: 2
   company: Vapi
   line: '| Vapi | Seed | ~2024 | AI | Active [^8] |'
@@ -140272,7 +140382,11 @@ vague_facts:
   type: year_only_date
   value: ~2024
   resolved: 2026-05-04
-  resolution_note: "Vapi's verifiable round with Abstract participation is the Series A on December 12, 2024: $20M led by Bessemer (Byron Deeter), Vapi was valued at $130M post-money. Abstract also participated in an undated prior $2.1M seed. Entry refined to confirmed Series A. Verified via Vapi blog, BVP blog, GlobeNewswire. Updated abstract-ventures.md and byron-deeter.md."
+  resolution_note: 'Vapi''s verifiable round with Abstract participation is the Series
+    A on December 12, 2024: $20M led by Bessemer (Byron Deeter), Vapi was valued at
+    $130M post-money. Abstract also participated in an undated prior $2.1M seed. Entry
+    refined to confirmed Series A. Verified via Vapi blog, BVP blog, GlobeNewswire.
+    Updated abstract-ventures.md and byron-deeter.md.'
 - column: 2
   company: Acryl Data
   line: '| Acryl Data | Series A | ~2024 | Enterprise | Active [^6] |'
@@ -140284,7 +140398,16 @@ vague_facts:
   type: year_only_date
   value: ~2024
   resolved: 2026-05-05
-  resolution_note: "Acryl Data's only publicly announced Series A was June 22, 2023: $21M led by 8VC (Bhaskar Ghosh, Partner) with Sherpalo Ventures (Ram Shriram), Vercel CEO Guillermo Rauch, and Mantis VC (The Chainsmokers) participating; existing seed backers LinkedIn and Insight Partners also rolled. Abstract Ventures is NOT named in any of three primary press sources (TechCrunch, VCAOnline, Financial IT) for this round, despite Acryl appearing on Abstract's portfolio page. Date refined to 2023-06-22 with explicit note that Abstract's specific round of participation cannot be independently verified. The ~2024 hypothesis (a $35M April 2024 Insight-led round) does not exist; the $35M raise was DataHub Series B in May 2025 led by Bessemer. Verified via 3 primary sources."
+  resolution_note: 'Acryl Data''s only publicly announced Series A was June 22, 2023:
+    $21M led by 8VC (Bhaskar Ghosh, Partner) with Sherpalo Ventures (Ram Shriram),
+    Vercel CEO Guillermo Rauch, and Mantis VC (The Chainsmokers) participating; existing
+    seed backers LinkedIn and Insight Partners also rolled. Abstract Ventures is NOT
+    named in any of three primary press sources (TechCrunch, VCAOnline, Financial
+    IT) for this round, despite Acryl appearing on Abstract''s portfolio page. Date
+    refined to 2023-06-22 with explicit note that Abstract''s specific round of participation
+    cannot be independently verified. The ~2024 hypothesis (a $35M April 2024 Insight-led
+    round) does not exist; the $35M raise was DataHub Series B in May 2025 led by
+    Bessemer. Verified via 3 primary sources.'
 - column: 2
   company: Adaptive Security
   line: '| Adaptive Security | Series A | ~2024 | Enterprise/Security | Active [^6]
@@ -140297,7 +140420,16 @@ vague_facts:
   type: year_only_date
   value: ~2024
   resolved: 2026-05-05
-  resolution_note: "Resolved to 2025-04-02 (not 2024). Adaptive Security $43M Series A co-led by Andreessen Horowitz (a16z) and OpenAI Startup Fund — marking OpenAI's first cybersecurity startup investment. Abstract Ventures participated alongside Eniac Ventures, CrossBeam Ventures, K5, plus executives from Google, Workday, Shopify, Plaid, and Paxos. Verified via 3 primary sources: PRNewswire press release (April 2, 2025), Adaptive Security company blog (April 2, 2025), and The SaaS News (April 3, 2025). Year corrected from ~2024 to 2025-04-02. Abstract Ventures profile updated with new footnotes [^23][^24][^25] and entry revised to 'Series A ($43M, participated) | 2025-04-02'. Same date independently confirmed in earlier Brad Lightcap and Ian Hathaway sweeps."
+  resolution_note: 'Resolved to 2025-04-02 (not 2024). Adaptive Security $43M Series
+    A co-led by Andreessen Horowitz (a16z) and OpenAI Startup Fund — marking OpenAI''s
+    first cybersecurity startup investment. Abstract Ventures participated alongside
+    Eniac Ventures, CrossBeam Ventures, K5, plus executives from Google, Workday,
+    Shopify, Plaid, and Paxos. Verified via 3 primary sources: PRNewswire press release
+    (April 2, 2025), Adaptive Security company blog (April 2, 2025), and The SaaS
+    News (April 3, 2025). Year corrected from ~2024 to 2025-04-02. Abstract Ventures
+    profile updated with new footnotes [^23][^24][^25] and entry revised to ''Series
+    A ($43M, participated) | 2025-04-02''. Same date independently confirmed in earlier
+    Brad Lightcap and Ian Hathaway sweeps.'
 - column: 2
   company: Arc Boats
   line: '| Arc Boats | Seed | ~2024 | Consumer/DeepTech | Active [^6] |'
@@ -140307,7 +140439,20 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Resolved. Year ~2024 was incorrect. Abstract Ventures was an existing investor at Arc's $30M Series A on 2021-11-23 (per TechCrunch and Plugboats both quoting Arc's announcement that 'all of our existing investors — Andreessen Horowitz, Lowercarbon Capital, and Abstract Ventures' participated). This places Abstract's first Arc investment in the Feb 2021 seed round (Tracxn lists $4.04M Feb 2021 led by a16z with one redacted co-investor). Abstract also participated in the $70M Series B on 2023-09-27 (TechCrunch) and Arc's own blog 'Powering the next wave' lists Abstract among 'all our existing investors'. Tracxn alone claims Abstract's first Arc investment was the Series B, but contemporaneous primary press at the Nov 2021 Series A explicitly lists Abstract as an existing investor — so Tracxn's date is wrong. Updated firm portfolio entry. Three primary sources: techcrunch.com/2021/11/23/arc-30m-investment-electric-boat-demand/ ([^33]), plugboats.com Series A coverage ([^34]), techcrunch.com/2023/09/27/ev-boat-startup-arc-wades-into-watersports/ + arcboats.com/blog/powering-the-next-wave ([^35])."
+  resolution_note: 'Resolved. Year ~2024 was incorrect. Abstract Ventures was an existing
+    investor at Arc''s $30M Series A on 2021-11-23 (per TechCrunch and Plugboats both
+    quoting Arc''s announcement that ''all of our existing investors — Andreessen
+    Horowitz, Lowercarbon Capital, and Abstract Ventures'' participated). This places
+    Abstract''s first Arc investment in the Feb 2021 seed round (Tracxn lists $4.04M
+    Feb 2021 led by a16z with one redacted co-investor). Abstract also participated
+    in the $70M Series B on 2023-09-27 (TechCrunch) and Arc''s own blog ''Powering
+    the next wave'' lists Abstract among ''all our existing investors''. Tracxn alone
+    claims Abstract''s first Arc investment was the Series B, but contemporaneous
+    primary press at the Nov 2021 Series A explicitly lists Abstract as an existing
+    investor — so Tracxn''s date is wrong. Updated firm portfolio entry. Three primary
+    sources: techcrunch.com/2021/11/23/arc-30m-investment-electric-boat-demand/ ([^33]),
+    plugboats.com Series A coverage ([^34]), techcrunch.com/2023/09/27/ev-boat-startup-arc-wades-into-watersports/
+    + arcboats.com/blog/powering-the-next-wave ([^35]).'
   type: year_only_date
   value: ~2024
 - column: 2
@@ -140321,7 +140466,23 @@ vague_facts:
   type: year_only_date
   value: ~2024
   resolved: 2026-05-05
-  resolution_note: "Year corrected; round and exact date unverifiable. Applied Compute was founded May 2025 by three former OpenAI staffers (Yash Patil, Rhythm Garg, Linden Li), making the prior '~2024' year impossible. Three Applied Compute funding events are documented: (1) $20M seed at $100M valuation, June 27, 2025, led by Benchmark with Sequoia, Conviction, Hanabi Capital, Definition, Zach Frankel; (2) $80M launch announcement on October 30, 2025 with Benchmark, Sequoia, Lux Capital, plus angels (Tracxn classifies as Series B); (3) $80M led by Kleiner Perkins at $1.3B valuation, announced April 8, 2026 (additional $80M; total $160M). Abstract Ventures is NOT named in any of these announcements (verified across SiliconANGLE, Upstarts Media, Pulse2, TechStartups, and the appliedcompute.com fundraise page). Abstract's own portfolio page (abstract.com/companies-list) DOES list Applied Compute and tags it 'Series B stage', but no contemporaneous press source independently confirms which round Abstract participated in. Per anti-hallucination rules, the Abstract Ventures firm portfolio entry was updated to: '| Applied Compute | Round and date unverified | 2025+ | AI | Active [^6][^30][^31][^32] |'. Added new sources [^30] (Upstarts Media seed coverage), [^31] (SiliconANGLE Series B coverage), [^32] (Applied Compute's own April 2026 fundraise page)."
+  resolution_note: 'Year corrected; round and exact date unverifiable. Applied Compute
+    was founded May 2025 by three former OpenAI staffers (Yash Patil, Rhythm Garg,
+    Linden Li), making the prior ''~2024'' year impossible. Three Applied Compute
+    funding events are documented: (1) $20M seed at $100M valuation, June 27, 2025,
+    led by Benchmark with Sequoia, Conviction, Hanabi Capital, Definition, Zach Frankel;
+    (2) $80M launch announcement on October 30, 2025 with Benchmark, Sequoia, Lux
+    Capital, plus angels (Tracxn classifies as Series B); (3) $80M led by Kleiner
+    Perkins at $1.3B valuation, announced April 8, 2026 (additional $80M; total $160M).
+    Abstract Ventures is NOT named in any of these announcements (verified across
+    SiliconANGLE, Upstarts Media, Pulse2, TechStartups, and the appliedcompute.com
+    fundraise page). Abstract''s own portfolio page (abstract.com/companies-list)
+    DOES list Applied Compute and tags it ''Series B stage'', but no contemporaneous
+    press source independently confirms which round Abstract participated in. Per
+    anti-hallucination rules, the Abstract Ventures firm portfolio entry was updated
+    to: ''| Applied Compute | Round and date unverified | 2025+ | AI | Active [^6][^30][^31][^32]
+    |''. Added new sources [^30] (Upstarts Media seed coverage), [^31] (SiliconANGLE
+    Series B coverage), [^32] (Applied Compute''s own April 2026 fundraise page).'
 - column: 2
   company: Aether Biomachines
   line: '| Aether Biomachines | Series A | ~2024 | Biotech | Active [^6] |'
@@ -140343,7 +140504,19 @@ vague_facts:
   type: year_only_date
   value: '2026'
   resolved: 2026-05-05
-  resolution_note: "Legora (formerly Leya) had complete funding history publicly announced: $500K Seed (2024, Y Combinator); $10.5M Seed (May 16, 2024, led by Chetan Puttagunta/Benchmark with Hummingbird, SV Angel, Y Combinator); $25M Series A (July 17, 2024, led by Redpoint with Y Combinator, Benchmark, Wayfinder, Alt Capital); $80M Series B (May 21, 2025, led by ICONIQ and General Catalyst); $150M Series C (October 28, 2025, led by Bessemer); $550M Series D (March 9, 2026, led by Accel). Abstract Ventures is NOT named in any of these announced rounds across three primary sources (Tracxn, Legora's own blog, multiple press articles), despite Legora appearing on Abstract's own portfolio page. The original entry's 'Seed | 2026' was demonstrably wrong (seed was 2024, and 2026 was Series D). Refined to 'Round undisclosed' with date '--' citing Abstract's own portfolio listing plus Tracxn full investor list. Status: partial resolution — the labeled round and date were corrected, but the specific round of Abstract's participation remains unverified."
+  resolution_note: 'Legora (formerly Leya) had complete funding history publicly announced:
+    $500K Seed (2024, Y Combinator); $10.5M Seed (May 16, 2024, led by Chetan Puttagunta/Benchmark
+    with Hummingbird, SV Angel, Y Combinator); $25M Series A (July 17, 2024, led by
+    Redpoint with Y Combinator, Benchmark, Wayfinder, Alt Capital); $80M Series B
+    (May 21, 2025, led by ICONIQ and General Catalyst); $150M Series C (October 28,
+    2025, led by Bessemer); $550M Series D (March 9, 2026, led by Accel). Abstract
+    Ventures is NOT named in any of these announced rounds across three primary sources
+    (Tracxn, Legora''s own blog, multiple press articles), despite Legora appearing
+    on Abstract''s own portfolio page. The original entry''s ''Seed | 2026'' was demonstrably
+    wrong (seed was 2024, and 2026 was Series D). Refined to ''Round undisclosed''
+    with date ''--'' citing Abstract''s own portfolio listing plus Tracxn full investor
+    list. Status: partial resolution — the labeled round and date were corrected,
+    but the specific round of Abstract''s participation remains unverified.'
 - column: 2
   company: Natural
   line: '| Natural | Seed | 2025 | AI | Active [^5] |'
@@ -140363,7 +140536,17 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-06
-  resolution_note: "Resolved to 2025-10-16 close date (publicly reported October 20, 2025 by LatamList). Telepatia AI is a Brazilian healthtech founded by CEO Nicolas Abad — Stanford-incubated team of Stanford grads and medical professionals. Seed round: $9M led by A-Star with participation from Canary, Abstract Ventures, Picus, SV Angel, and Nido. Product is an 'AI Doctor' that transcribes consultations, generates medical reports, and supports clinical decisions; already operational across multiple Latin American countries and Spain. Three primary sources added: LatamList article (new [^36]), SignalBase coverage (new [^37]), Techloy LATAM Week 43 infographic (new [^38]). Abstract Ventures profile updated with refined Telepatia entry showing $9M, 'participated', LatAm geo. Also updated /data/investors/ramtin-naimi.md (new [^30]-[^31])."
+  resolution_note: 'Resolved to 2025-10-16 close date (publicly reported October 20,
+    2025 by LatamList). Telepatia AI is a Brazilian healthtech founded by CEO Nicolas
+    Abad — Stanford-incubated team of Stanford grads and medical professionals. Seed
+    round: $9M led by A-Star with participation from Canary, Abstract Ventures, Picus,
+    SV Angel, and Nido. Product is an ''AI Doctor'' that transcribes consultations,
+    generates medical reports, and supports clinical decisions; already operational
+    across multiple Latin American countries and Spain. Three primary sources added:
+    LatamList article (new [^36]), SignalBase coverage (new [^37]), Techloy LATAM
+    Week 43 infographic (new [^38]). Abstract Ventures profile updated with refined
+    Telepatia entry showing $9M, ''participated'', LatAm geo. Also updated /data/investors/ramtin-naimi.md
+    (new [^30]-[^31]).'
   type: year_only_date
   value: '2025'
 - column: 2
@@ -142318,7 +142501,15 @@ vague_facts:
   type: year_only_date
   value: '2025'
   resolved: 2026-05-04
-  resolution_note: "Resolved to 2025-03-31. Coatue participated in OpenAI's $40B Series F round at $300B post-money valuation, led by SoftBank ($30B). Other co-investors named in the syndicated $10B portion: Microsoft, Altimeter Capital, Thrive Capital (per OpenAI announcement). Pre-announcement reporting (TechCrunch, March 26, 2025) also named Magnetar Capital and Founders Fund as committed co-investors. Verified via 3 primary sources: CNBC (March 31, 2025 — confirms close, valuation, Coatue), Euronews (April 1, 2025 — independent confirmation), TechCrunch (March 26, 2025 — pre-announcement). Coatue did NOT participate in the separate $6.6B October 2025 secondary tender at $500B (SoftBank, Thrive, Dragoneer, MGX, T. Rowe Price)."
+  resolution_note: 'Resolved to 2025-03-31. Coatue participated in OpenAI''s $40B
+    Series F round at $300B post-money valuation, led by SoftBank ($30B). Other co-investors
+    named in the syndicated $10B portion: Microsoft, Altimeter Capital, Thrive Capital
+    (per OpenAI announcement). Pre-announcement reporting (TechCrunch, March 26, 2025)
+    also named Magnetar Capital and Founders Fund as committed co-investors. Verified
+    via 3 primary sources: CNBC (March 31, 2025 — confirms close, valuation, Coatue),
+    Euronews (April 1, 2025 — independent confirmation), TechCrunch (March 26, 2025
+    — pre-announcement). Coatue did NOT participate in the separate $6.6B October
+    2025 secondary tender at $500B (SoftBank, Thrive, Dragoneer, MGX, T. Rowe Price).'
 - column: 2
   company: Anthropic
   line: '| Anthropic | Series G (Co-Led) | 2026 | AI | Private [^23] |'
@@ -142379,12 +142570,13 @@ vague_facts:
   resolved: 2026-05-04
   resolution_note: 'Resolved to 2024-07-17. Figma''s $12.5B-valuation secondary share
     sale (tender offer) closed July 17, 2024 with Coatue, Alkeon Capital, and General
-    Catalyst as named investors alongside SurgoCap, Atlassian, Fidelity, Franklin Templeton,
-    ICONIQ, Sequoia, Thrive, Greenoaks, Durable Capital, Andreessen Horowitz, Kleiner
-    Perkins, Eddy Cue, Goanna Capital, and XN. Verified via 3 primary sources: SiliconANGLE
-    (July 17, 2024), Bloomberg Law (July 17, 2024), and The Tech Portal (July 18, 2024).
-    Coatue''s portfolio entry refined to "Secondary / Tender (participated) | 2024-07-17"
-    with footnotes [^32][^50][^51] added. Figma startup profile also updated.'
+    Catalyst as named investors alongside SurgoCap, Atlassian, Fidelity, Franklin
+    Templeton, ICONIQ, Sequoia, Thrive, Greenoaks, Durable Capital, Andreessen Horowitz,
+    Kleiner Perkins, Eddy Cue, Goanna Capital, and XN. Verified via 3 primary sources:
+    SiliconANGLE (July 17, 2024), Bloomberg Law (July 17, 2024), and The Tech Portal
+    (July 18, 2024). Coatue''s portfolio entry refined to "Secondary / Tender (participated)
+    | 2024-07-17" with footnotes [^32][^50][^51] added. Figma startup profile also
+    updated.'
 - column: 2
   company: Stripe
   line: '| Stripe | Growth | ~2023 | Fintech / Payments | Private [^34] |'
@@ -142447,7 +142639,9 @@ vague_facts:
   type: year_only_date
   value: '2024'
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved to 2024-02-28. ether.fi $23M Series A co-led by Bullish Capital and CoinFund. See companion high-priority entry for full details and citations."
+  resolution_note: Duplicate of high-priority entry. Resolved to 2024-02-28. ether.fi
+    $23M Series A co-led by Bullish Capital and CoinFund. See companion high-priority
+    entry for full details and citations.
 - column: 2
   company: Monad
   line: '| Monad | Venture | 2024 | L1 blockchain | [^21] |'
@@ -142489,7 +142683,9 @@ vague_facts:
   type: year_only_date
   value: '2024'
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved to 2024-04-16. Geodnet Foundation $2M+ strategic round with CoinFund, Pantera, VanEck, Santiago Santos. See companion high-priority entry for full details and citations."
+  resolution_note: Duplicate of high-priority entry. Resolved to 2024-04-16. Geodnet
+    Foundation $2M+ strategic round with CoinFund, Pantera, VanEck, Santiago Santos.
+    See companion high-priority entry for full details and citations.
 - column: 2
   company: Recall Network
   line: '| Recall Network | Series A | 2025 | Decentralized AI | [^23] |'
@@ -142501,7 +142697,18 @@ vague_facts:
   type: year_only_date
   value: '2025'
   resolved: 2026-05-05
-  resolution_note: "CoinFund's actual Series A lead investment in the Recall Network lineage was Tableland's $8M Series A on April 20, 2023, led by CoinFund (Alex Felix, CIO) with Multicoin Capital, Blueyard, A Capital, Protocol Labs, and Betaworks Ventures participating; brought total financing to $10.4M. Tableland was subsequently rolled into Recall Labs, which merged with 3Box Labs in February 2025 to form Recall Network. There is no separately announced 'Recall Network Series A' in 2025 — the February 2025 $39.5M figure cited in some aggregators reflects cumulative funding to date including the 2022 $30M round and the 2023 Series A, not a new round. Date refined to 2023-04-20 with company name updated to 'Recall Network (fka Tableland)'. Verified via 3 primary sources: Multicoin Capital co-investor blog post, Crowdfund Insider press coverage, and crypto-fundraising.info funding history."
+  resolution_note: 'CoinFund''s actual Series A lead investment in the Recall Network
+    lineage was Tableland''s $8M Series A on April 20, 2023, led by CoinFund (Alex
+    Felix, CIO) with Multicoin Capital, Blueyard, A Capital, Protocol Labs, and Betaworks
+    Ventures participating; brought total financing to $10.4M. Tableland was subsequently
+    rolled into Recall Labs, which merged with 3Box Labs in February 2025 to form
+    Recall Network. There is no separately announced ''Recall Network Series A'' in
+    2025 — the February 2025 $39.5M figure cited in some aggregators reflects cumulative
+    funding to date including the 2022 $30M round and the 2023 Series A, not a new
+    round. Date refined to 2023-04-20 with company name updated to ''Recall Network
+    (fka Tableland)''. Verified via 3 primary sources: Multicoin Capital co-investor
+    blog post, Crowdfund Insider press coverage, and crypto-fundraising.info funding
+    history.'
 - column: 2
   company: Irys
   line: '| Irys | Series A | 2025 | Programmable datachain | [^24] |'
@@ -142531,7 +142738,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved to 2025-07-15. $12.5M Series A led by CoinFund."
+  resolution_note: Duplicate of high-priority entry. Resolved to 2025-07-15. $12.5M
+    Series A led by CoinFund.
   type: year_only_date
   value: '2025'
 - column: 2
@@ -142760,7 +142968,11 @@ vague_facts:
   type: year_only_date
   value: ~2024
   resolved: 2026-05-04
-  resolution_note: "Conviction joined Cartesia's $27M seed round on December 12, 2024 (led by Index Ventures, $22M new + $5M prior). Conviction did NOT participate in the March 11, 2025 $64M Series A led by Kleiner Perkins. Verified via Cartesia blog, Index Ventures blog, American Bazaar, Fortune (Series A confirmation). Updated conviction.md, mike-volpi.md, sarah-guo.md."
+  resolution_note: Conviction joined Cartesia's $27M seed round on December 12, 2024
+    (led by Index Ventures, $22M new + $5M prior). Conviction did NOT participate
+    in the March 11, 2025 $64M Series A led by Kleiner Perkins. Verified via Cartesia
+    blog, Index Ventures blog, American Bazaar, Fortune (Series A confirmation). Updated
+    conviction.md, mike-volpi.md, sarah-guo.md.
 - column: 2
   company: Sunday
   line: '| Sunday | Early | ~2023 | Robotics | Active | [^3] |'
@@ -142783,7 +142995,7 @@ vague_facts:
   value: ~2024
 - column: 2
   company: Essential
-  line: '| Essential | Early | ~2024 | Robotics/AI | Active | [^3] |'
+  line: '| RunSybil | Early | ~2024 | AI Testing | Active | [^3] |'
   priority: normal
   profile: firms/conviction
   profile_name: Conviction
@@ -142791,16 +143003,12 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: ~2024
-  resolved: 2026-05-05
-  resolution_note: "Resolved. 'Essential' = Essential AI, founded 2023 by Ashish Vaswani and Niki Parmar (co-creators of the Transformer architecture). Conviction participated in Essential AI's $8.3M seed round (led by Thrive Capital). The seed round was raised earlier in 2023 but publicly disclosed alongside the $56.5M Series A on December 11, 2023. Other seed participants: Amjad Masad, Brad Gerstner, Elad Gil, Francis D'Souza, David H. Petraeus, Gustavo Sapoznik, Jamie Montgomery, Mei Zuo. Conviction did NOT participate in the Series A (March Capital led with AMD, Franklin, Google, KB Investment, NVIDIA, Thrive). Sector classification was also corrected: Essential AI is enterprise AI/agentic automation, NOT robotics. Updated Conviction firm portfolio entry to: '| Essential AI | Seed (participated, $8.3M) | ~2023 (disclosed 2023-12-11) | Enterprise AI/Agents | Active | [^3][^13][^14][^15] |'. Inferred Thesis sector breakdown also updated to move Essential from robotics bucket to AI/ML infrastructure bucket. Verified via 3 primary sources: BusinessWire (Dec 11, 2023), TechFundingNews (Dec 14, 2023), Open Data Science (Dec 12, 2023). Added new sources [^13], [^14], [^15]."
-  line: '| RunSybil | Early | ~2024 | AI Testing | Active | [^3] |'
-  priority: normal
-  profile: firms/conviction
-  profile_name: Conviction
-  section: Portfolio
-  status: pending
-  type: year_only_date
-  value: ~2024
+  resolved: '2026-05-06'
+  resolution_note: Resolved to 2026-03-18. RunSybil raised $40M Series A led by Khosla
+    Ventures, with S32, Anthology Fund (Anthropic+Menlo), Conviction, Elad Gil participating.
+    Co-founders Ari Herbert-Voss (OpenAI first security hire) and Vlad Ionescu (ex-Meta
+    red team). AI-native offensive security/penetration-testing platform. Verified
+    via 4 primary sources (RunSybil blog, Fortune, SiliconANGLE, Built In SF).
 - column: 2
   company: Sola
   line: '| Sola | Early | ~2024 | AI Media | Active | [^3] |'
@@ -142831,7 +143039,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved to 2025-03-18 Series A ($25M, co-led by Conviction with Shield Capital and Nat Friedman)."
+  resolution_note: Duplicate of high-priority entry. Resolved to 2025-03-18 Series
+    A ($25M, co-led by Conviction with Shield Capital and Nat Friedman).
   type: year_only_date
   value: ~2024
 - column: 2
@@ -146375,7 +146584,9 @@ vague_facts:
   type: year_only_date
   value: '2026'
   resolved: 2026-05-03
-  resolution_note: "Confirmed 2026-03-03; $150M Series D led by TCV and Goldman Sachs Alternatives at $3B valuation; Menlo Ventures participated as new investor. 3 sources: PR Newswire, BHBusiness, Grow Therapy blog."
+  resolution_note: 'Confirmed 2026-03-03; $150M Series D led by TCV and Goldman Sachs
+    Alternatives at $3B valuation; Menlo Ventures participated as new investor. 3
+    sources: PR Newswire, BHBusiness, Grow Therapy blog.'
 - column: 2
   company: Legora
   line: '| Legora | Series D | 2026 | AI/Legal Tech | Private [^10] |'
@@ -146387,7 +146598,9 @@ vague_facts:
   type: year_only_date
   value: '2026'
   resolved: 2026-05-03
-  resolution_note: "Confirmed 2026-03-10; $550M Series D led by Accel at $5.55B post-money; Menlo Ventures participated as new investor. 3 sources: Legora newsroom, Crunchbase News, Legal IT Insider."
+  resolution_note: 'Confirmed 2026-03-10; $550M Series D led by Accel at $5.55B post-money;
+    Menlo Ventures participated as new investor. 3 sources: Legora newsroom, Crunchbase
+    News, Legal IT Insider.'
 - column: 2
   company: Qualified Health
   line: '| Qualified Health | Series B | 2026 | Healthcare/AI | Private [^11] |'
@@ -146399,7 +146612,9 @@ vague_facts:
   type: year_only_date
   value: '2026'
   resolved: 2026-05-03
-  resolution_note: "Confirmed 2026-03-25; $125M Series B led by NEA (Mohamad Makhzoumi); Menlo Ventures Anthology Fund participated as new investor. 3 sources: PR Newswire, The SaaS News, search aggregation."
+  resolution_note: 'Confirmed 2026-03-25; $125M Series B led by NEA (Mohamad Makhzoumi);
+    Menlo Ventures Anthology Fund participated as new investor. 3 sources: PR Newswire,
+    The SaaS News, search aggregation.'
 - column: 2
   company: Hamming
   line: '| Hamming | Seed (Lead) | 2024 | AI / Infrastructure | [^7] |'
@@ -150782,7 +150997,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved to 2025-07-15. $12.5M Series A led by CoinFund."
+  resolution_note: Duplicate of high-priority entry. Resolved to 2025-07-15. $12.5M
+    Series A led by CoinFund.
   type: year_only_date
   value: '2025'
 - column: 1
@@ -156025,7 +156241,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved to 2025-07-15. $12.5M Series A led by CoinFund."
+  resolution_note: Duplicate of high-priority entry. Resolved to 2025-07-15. $12.5M
+    Series A led by CoinFund.
   type: year_only_date
   value: '2025'
 - column: 1
@@ -157431,7 +157648,8 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: '2025'
-  resolution_note: "Refined to 2025-10. Bild $9M Series A from Mucker Capital announced October 2025."
+  resolution_note: Refined to 2025-10. Bild $9M Series A from Mucker Capital announced
+    October 2025.
 - column: 1
   company: Orion Sleep
   line: '| Orion Sleep | 2025 | Seed | [^6] |'
@@ -157462,7 +157680,8 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: '2024'
-  resolution_note: "Resolved to 2024-04-24. Handl Health $2.5M Seed initiated by Mucker Capital, announced April 24, 2024 via PRNewswire."
+  resolution_note: Resolved to 2024-04-24. Handl Health $2.5M Seed initiated by Mucker
+    Capital, announced April 24, 2024 via PRNewswire.
 - column: 1
   company: Archetype AI
   line: '| Archetype AI | 2024 | Seed | Physical AI | [^19] |'
@@ -217285,7 +217504,8 @@ vague_facts:
   section: Portfolio
   status: resolved
   resolved: 2026-05-05
-  resolution_note: "Duplicate of high-priority entry. Resolved: Series A was 2025-03-18 (not 2022)."
+  resolution_note: 'Duplicate of high-priority entry. Resolved: Series A was 2025-03-18
+    (not 2022).'
   type: year_only_date
   value: ~2022
 - column: 1
