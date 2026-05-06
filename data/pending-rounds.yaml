@@ -69,7 +69,10 @@ pending_rounds:
   parsed_company: Ethos
   parsed_amount: $22.75M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-06'
+  notes: covered by ethos.md ($22.75M Series A 2026-05-06 a16z-led; expert network
+    with voice onboarding)
 - title: per Axios Pro . It most recently raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
