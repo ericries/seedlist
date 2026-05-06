@@ -406,6 +406,14 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: VC fund close (a16z crypto), not a startup round
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/5/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-5-2026/
+  source: alleywatch
+  date_found: '2026-05-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -995,13 +1003,3 @@ pending_rounds:
   parsed_round: Series D
   status: skipped
   skip_reason: duplicate of legora.md Series D extension already covered
-- title: 'The AlleyWatch Startup Daily Funding Report: 4/30/2026'
-  url: https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-30-2026/
-  source: alleywatch
-  date_found: '2026-04-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator daily summary; only Photon Health was the listed round and
-    is covered by photon-health.md
