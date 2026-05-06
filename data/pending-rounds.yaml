@@ -40,6 +40,28 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: unable to verify lead/details via 3 primary sources (EU-Startups 403)
+- title: Swiss startup Moonlight AI raises €2.8 million to turn routine blood and
+    cytology imaging into genomic insights
+  url: https://www.eu-startups.com/2026/05/swiss-startup-moonlight-ai-raises-e2-8-million-to-turn-routine-blood-and-cytology-imaging-into-genomic-insights/
+  source: eu-startups
+  date_found: '2026-05-06'
+  parsed_company: Swiss startup Moonlight AI
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-06'
+  notes: covered by moonlight-ai.md (€2.8M Seed 2026-05-06; Lotus One + VP Venture
+    Partners + MEDIN Fund co-led)
+- title: u003e raised $2.2B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-06'
+  parsed_company: u003e
+  parsed_amount: $2.2B
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact (HTML entity); a16z crypto fund close $2.2B already
+    noted
 - title: per Axios Pro . It most recently raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -443,7 +465,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: aggregator; rounds covered separately (bathhouse, mother-tech, instaswitch)
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -996,21 +1019,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: SPAC
-- title: Ventures raised $700M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Ventures
-  parsed_amount: $700M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact (137 Ventures fund close already noted)
-- title: Crescent Cove Advisors raised $446M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Crescent Cove Advisors
-  parsed_amount: $446M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC/PE fund close, not a startup round
