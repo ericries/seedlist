@@ -92,6 +92,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Mithril | Early | ~2024 | AI | Active | [^3] |
 | Onyx | Early | ~2024 | AI | Active | [^3] |
 | Listen Labs | Early | ~2024 | AI | Active | [^3] |
+| Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
 
 Note: Investment years are approximate based on company founding timelines. This table represents approximately 18 of ~32 total investments (~56%); the remainder are in stealth or undisclosed [^3][^5].
 
@@ -145,3 +146,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^29]: Fortune, "Exclusive: AI cybersecurity startup RunSybil, founded by OpenAI's first security hire, raises $40 million led by Khosla Ventures," March 18, 2026. https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/ — Confirms $40M total funding, Khosla Ventures lead, Conviction participation. Co-founders Ari Herbert-Voss (OpenAI's first security hire) and Vlad Ionescu (ex-Meta red team).
 
 [^30]: SiliconANGLE, "RunSybil raises $40M to automate offensive security with AI agents," March 18, 2026. https://siliconangle.com/2026/03/18/runsybil-raises-40m-automate-offensive-security-ai-agents/ — Independent confirmation of round details and Conviction participation.
+
+[^31]: Fortune, "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP's $89 billion migration wave," May 5, 2026. https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/ — San Francisco-based Nova Intelligence announced a $31.5M Series A on May 5, 2026 led by Chemistry; existing investors Accel, Conviction, and SAP.iO participated. Total raised over $40M. Co-founders: Emma Qian (CEO), Sam Yang, and Professor Alexander Zeier (co-inventor of SAP HANA).

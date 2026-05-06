@@ -1,7 +1,7 @@
 ---
 founded: 2024
 fund_size: $350M
-last_researched: 2026-03-19
+last_researched: 2026-05-06
 location: San Francisco, CA
 name: Chemistry
 sector_focus:
@@ -74,12 +74,13 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Decagon | Series D | 2026 | AI/Enterprise Software | [^4][^11] |
+| Decagon | Series D (participated) | 2026-01-28 | AI / Enterprise Software | [^4][^11][^15] |
 | Assort Health | Follow-on | 2025 | Healthcare AI | [^4] |
 | Serval | Series A | 2025 | AI | [^4] |
 | Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
-| ComfyUI | Series A | 2026 | AI / Generative Media | [^12] |
-| Fathom Therapeutics | Series A | 2026 | Biotech / AI Drug Discovery | [^13] |
+| ComfyUI | Growth (participated, $30M at $500M valuation) | 2026-04-24 | AI / Generative Media | [^12][^16] |
+| Fathom Therapeutics | Series A | 2026-04-27 | Biotech / AI Drug Discovery | [^13] |
+| Nova Intelligence | Series A (led) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^14] |
 
 Note: This table represents Chemistry's investments since its October 2024 launch. The partners' extensive pre-Chemistry portfolios at Bessemer, a16z, and Index (including PagerDuty, Intercom, Plaid, Persona, Twitch, LaunchDarkly, ServiceTitan, and others) are attributed to their prior firms.
 
@@ -118,3 +119,9 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^11]: Decagon blog, "Decagon's $250 million commitment to the AI concierge future," January 28, 2026, accessed March 2026. https://decagon.ai/resources/series-d-announcement
 [^12]: TechCrunch, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media," April 24, 2026. https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/
 [^13]: PR Newswire, "Fathom Therapeutics, Formerly Atommap, Raises $47 Million in Oversubscribed Series A Financing," April 27, 2026. https://www.prnewswire.com/news-releases/fathom-therapeutics-formerly-atommap-raises-47-million-in-oversubscribed-series-a-financing-to-translate-physics-and-ai-enabled-small-molecule-design-into-next-generation-medicines-302754272.html
+
+[^14]: Fortune, "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP's $89 billion migration wave," May 5, 2026. https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/ — San Francisco-based Nova Intelligence announced a $31.5M Series A on May 5, 2026 led by Chemistry, with participation from existing investors Accel, Conviction, and SAP.iO. Co-founders: CEO Emma Qian, Sam Yang, and Professor Alexander Zeier (co-inventor of SAP HANA). Total raised exceeds $40M. Cross-referenced with Nova Intelligence's earlier announcement of SAP.iO Fund's strategic investment, "Nova Intelligence Announces Strategic Investment from SAP iO Fund to Accelerate Clean Core Transformation," https://www.novaintelligence.com/post/saps-strategic-investment-in-nova-intelligence and Kyndryl press release, "Kyndryl and Nova Intelligence Announce Strategic Collaboration to Accelerate SAP Transformation for Customers," August 2025. https://www.prnewswire.com/news-releases/kyndryl-and-nova-intelligence-announce-strategic-collaboration-to-accelerate-sap-transformation-for-customers-302522156.html
+
+[^15]: Bloomberg, "AI Customer Support Startup Decagon Valued at $4.5 Billion," January 28, 2026. https://www.bloomberg.com/news/articles/2026-01-28/ai-customer-support-startup-decagon-valued-at-4-5-billion — Decagon's $250M Series D announced January 28, 2026 was co-led by Coatue Management and Index Ventures with ChemistryVC, Definition Capital, and Starwood Capital joining as new investors; existing backers a16z, Accel, Bain Capital Ventures, and Ribbit Capital continued participation. Cross-referenced with Decagon blog, "Decagon's $250 million commitment to the AI concierge future," January 28, 2026. https://decagon.ai/resources/series-d-announcement
+
+[^16]: Finsmes, "ComfyUI Raises $30M Financing, At $500M Valuation," April 2026. https://www.finsmes.com/2026/04/comfyui-raises-30m-financing-at-500m-valuation.html — ComfyUI's April 24, 2026 $30M growth round at $500M valuation was led by Craft Ventures with Pace Capital, Chemistry, TruArrow, and others participating. Chemistry's prior late-2024 Series A in ComfyUI was approximately $19M.

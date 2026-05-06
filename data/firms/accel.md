@@ -218,6 +218,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
 | OpenFX | Series A ($94M, co-led) | 2026-03-31 | Fintech/Stablecoin/FX | [^45][^46][^47] |
 | RadixArk | Seed (led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^51][^52][^53] |
+| Nova Intelligence | Series A (participated) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^54] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -308,3 +309,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^52]: Accel, "Our Investment in RadixArk: Building the Open Infrastructure for AI," May 5, 2026, accessed May 2026. https://www.accel.com/noteworthies/investing-in-radixark-building-an-open-universal-inference-engine
 
 [^53]: TechCrunch, "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes," January 21, 2026, accessed May 2026. https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/
+
+[^54]: Fortune, "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP's $89 billion migration wave," May 5, 2026. https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/ — San Francisco-based Nova Intelligence announced a $31.5M Series A on May 5, 2026 led by Chemistry; existing investors Accel, Conviction, and SAP.iO participated. Total raised over $40M. Co-founders: Emma Qian (CEO), Sam Yang, and Professor Alexander Zeier (co-inventor of SAP HANA). Justin Kershaw (formerly CIO of Cargill) joined as Chief Customer Officer.

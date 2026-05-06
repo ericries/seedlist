@@ -2,7 +2,7 @@
 founded: 1965
 fund_size: $1B (Fund XVII, 2023); $500M (Seed Extension, 2021); $1B (Fund XVI, 2020);
   $1B (Fund XV, 2016)
-last_researched: 2026-03-13
+last_researched: 2026-05-06
 location: Menlo Park, CA
 name: Greylock Partners
 sector_focus:
@@ -158,7 +158,7 @@ The following table includes companies identified from Greylock's website portfo
 | Ava | Seed | ~2023 (founded) | Fintech & Crypto | Private [^8] |
 | AVI Networks | Series A | ~2012 (founded) | Infrastructure | Acquired by VMware (2019) [^8] |
 | Awake Security | Series A | ~2014 (founded) | Cybersecurity | Acquired by Arista (2020) [^8] |
-| Axiamatic | Seed | 2026 | AI / Enterprise | Private [^8][^16] |
+| Axiamatic | Series A (co-led, $54M) | 2026-03-11 | AI / Enterprise | Private [^8][^16] |
 | Baseten | Seed | ~2019 (founded) | AI / Infrastructure | Private [^8] |
 | Bedrock Data | Seed | ~2025 | Cybersecurity | Private [^5][^8] |
 | Blend | Series A | ~2012 (founded) | Fintech / SaaS | Public (IPO 2021) [^8] |
@@ -176,7 +176,7 @@ The following table includes companies identified from Greylock's website portfo
 | Cloudera | Series A | ~2008 (founded) | Infrastructure | Acquired by CD&R/KKR (2021) [^8] |
 | Coda | Seed | ~2014 (founded) | AI / SaaS | Private [^8] |
 | Coffee | Seed | ~2024 (founded) | AI | Private [^8] |
-| Cogent Security | Seed | 2026 | AI / Cybersecurity | Private [^8][^17] |
+| Cogent Security | Seed (led, $11M) → Series A (participated, $42M) | 2025-07 → 2026-02-18 | AI / Cybersecurity | Private [^8][^17][^26] |
 | Coinbase | Series D | 2013 | Fintech & Crypto | Public (IPO 2021) [^2][^8] |
 | Common Room | Seed | ~2020 (founded) | SaaS | Private [^8] |
 | Crew | Seed | ~2023 (founded) | SaaS | Private [^8] |
@@ -239,6 +239,7 @@ The following table includes companies identified from Greylock's website portfo
 | Wealthfront | Series A | ~2008 (founded) | Fintech | Public (IPO Dec 2025, $2.05B) [^5][^8] |
 | Wiz | Series A | ~2020 (founded) | Cybersecurity | Private [^8] |
 | Workday | Series B | 2006 | Enterprise SaaS / HR | Public (IPO 2012) [^2][^8] |
+| Vori | Series B (participated, $22M) | 2026-05-05 | Grocery Tech / AI / Vertical SaaS | Private [^25] |
 
 *Note: This table includes approximately 100 of the 130+ companies listed on Greylock's portfolio page, plus several additional companies from other sources. Investment stages and years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Greylock has invested in approximately 478 companies total per Tracxn [^5]; this table represents approximately 21% of the full portfolio, biased toward the firm's most notable and currently highlighted investments.*
 
@@ -351,3 +352,7 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^23]: "Why They Passed on This Startup (Figma Edition)." Tundra Angels Newsletter. https://newsletter.tundraangels.com/p/why-they-passed-on-this-startup-figma-edition. Accessed March 2026.
 
 [^24]: "Discord Stock: Private Investment Guide." TSG Invest. https://tsginvest.com/discord/. Accessed March 2026.
+
+[^25]: Fortune, "Exclusive: AI grocery startup Vori raises $22 million to help independent retailers compete with Walmart and Amazon," May 5, 2026. https://fortune.com/2026/05/05/exclusive-ai-grocery-startup-vori-raises-22-million-to-help-independent-retailers-compete-with-walmart-and-amazon/ — Vori's $22M Series B announced May 5, 2026, led by Cherryrock Capital (founded by former TaskRabbit CEO Stacy Brown-Philpot) with Greylock Partners and The Factory (led by Stanford AI researcher Chris Re) participating. CEO Brandon Hill is a third-generation grocer. Cross-referenced with PR Newswire, "Vori Raises $22M to Build the Operating System for the World's Grocery Stores," May 6, 2026. https://www.prnewswire.com/news-releases/vori-raises-22m-to-build-the-operating-system-for-the-worlds-grocery-stores-302763778.html and Shopifreaks coverage. https://www.shopifreaks.com/vori-raises-22m-series-b-to-help-independent-grocers-compete-with-walmart-and-amazon-with-payments-inventory-and-pricing/
+
+[^26]: PR Newswire, "Cogent Security Raises $42M Series A to Arm Security Teams With Autonomous AI Agents," February 18, 2026. https://www.prnewswire.com/news-releases/cogent-security-raises-42m-series-a-to-arm-security-teams-with-autonomous-ai-agents-302691566.html — Cogent Security's $42M Series A on February 18, 2026 was led by Bain Capital Ventures with Greylock and Definition Capital participating, bringing total funding to $53M. Greylock led the prior $11M seed (announced July 2025). Co-founders: Vineet Edupuganti (CEO, ex-Abnormal Security), Geng Sng (CTO, ex-Abnormal Security), Thanos Baskous (ex-Coinbase). Cross-referenced with Greylock blog, "Introducing Cogent: AI Agents for Vulnerability Management." https://greylock.com/portfolio-news/introducing-cogent-ai-agents-for-vulnerability-management/ and Fortune, "Exclusive: Bain and Greylock bet $42 million that AI agents can finally fix cybersecurity's messiest bottleneck," February 18, 2026. https://fortune.com/2026/02/18/exclusive-bain-and-greylock-bet-42-million-that-ai-agents-can-finally-fix-cybersecuritys-messiest-bottleneck/
