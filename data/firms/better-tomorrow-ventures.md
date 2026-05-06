@@ -25,7 +25,7 @@ team:
     role: "Head of Talent"
     name: "Yoni Lateiner"
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-05-06
 ---
 
 ## About
@@ -72,7 +72,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Unit | Seed (co-led) | 2020 | Infrastructure/Embedded Finance | Active (Series B) | [^1][^12] |
+| Unit | Seed (co-led) | 2020 | Infrastructure/Embedded Finance | Active (Series B) | [^1][^10] |
 | Coast | Seed | 2020 | Payments/Fleet Management | Active (Series B) | [^1] |
 | Relay | Seed | 2020 | Banking/SMB Neobank | Active (Series B) | [^1] |
 | Basis | Seed | 2023 | Accounting/AI | Active | [^1] |
@@ -84,6 +84,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 | Deck | Seed | 2023 | Data/Alternative Data | Active | [^1] |
 | Outpost | Pre-Seed | 2024 | Payments/Global Commerce | Active | [^1] |
 | Meroka | Seed | 2024 | Healthcare/Medical Group | Active | [^1] |
+| InstaSwitch | Seed (participated) | 2026-05-05 | Fintech/Banking Infrastructure | Active | [^11][^12] |
 
 This table represents 12 of approximately 85 known pre-seed and seed investments across three funds [^2]. BTV's website lists 150+ companies across its full portfolio [^1].
 
@@ -118,4 +119,6 @@ Note: These testimonials are sourced from BTV's own website and marketing materi
 [^7]: Tearsheet, "The fintech comeback: Sheel Mohnot on why 'everything is fintech' and what's getting funded in 2025," 2025. https://tearsheet.co/podcasts/the-fintech-comeback-sheel-mohnot-on-why-everything-is-fintech-and-whats-getting-funded-in-2025/
 [^8]: Venture Unlocked, "Better Tomorrow Ventures, Jake and Sheel on Investing in FinTech, fund construction, and fundraising lessons," accessed March 2026. https://ventureunlocked.substack.com/p/better-tomorrow-ventures-jake-and
 [^9]: Tracxn, "Better Tomorrow Ventures — 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/better-tomorrow-ventures/__BnkAOilS6blXqNfntRtQPuqx7X5u6bjxAwOUYG_PTsY
-[^12]: The Spl.it podcast, "Sheel Mohnot on Building Two Fintechs, Starting Better Tomorrow Ventures." Confirms BTV co-led Unit seed round, committed in Sep 2019. https://www.thespl.it/p/sheel-mohnot-on-building-two-fintechs
+[^10]: The Spl.it podcast, "Sheel Mohnot on Building Two Fintechs, Starting Better Tomorrow Ventures." Confirms BTV co-led Unit seed round, committed in Sep 2019. https://www.thespl.it/p/sheel-mohnot-on-building-two-fintechs
+[^11]: GlobeNewswire, "InstaSwitch launches account activation infrastructure for business banking and announces $4.7M in funding," May 5, 2026. $4.7M seed led by Chicago Ventures with 8-Bit Capital, Better Tomorrow Ventures, and Panache Ventures participating. https://www.globenewswire.com/news-release/2026/05/05/3287812/0/en/InstaSwitch-launches-account-activation-infrastructure-for-business-banking-and-announces-4-7M-in-funding.html
+[^12]: Tech Funding News, "InstaSwitch lands $4.7M from Chicago Ventures, 8-Bit Capital to fix inactive business bank accounts with AI," May 5, 2026. https://techfundingnews.com/instaswitch-lands-4-7m-from-chicago-ventures-8-bit-capital-to-fix-inactive-business-bank-accounts-with-ai/

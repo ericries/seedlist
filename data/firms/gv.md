@@ -58,7 +58,7 @@ team:
     role: "General Partner"
     name: "Vidu Shanmugarajah"
 status: published
-last_researched: 2026-05-01
+last_researched: 2026-05-06
 ---
 
 ## About
@@ -124,6 +124,7 @@ Based on GV's verified portfolio and public data:
 | nEye.ai | Series C | 2026 | AI / Data Center | Private [^7] |
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Private [^8] |
 | Sierra | Series E (co-led with Tiger Global) | 2026-05-04 | AI / Customer Service | Private [^9][^10][^11] |
+| MOTHER.Tech | Seed (led) | 2026-05-05 | AI / Creator Economy | Private [^12][^13] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -154,3 +155,5 @@ No independently sourced founder testimonials found.
 [^9]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from Benchmark, Sequoia Capital, and Greenoaks Capital.
 [^10]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
 [^11]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
+[^12]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV (Sangeen Zeb) with Lerer Hippeau, BoxGroup, and Shine Capital. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
+[^13]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/

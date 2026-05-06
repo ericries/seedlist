@@ -50,7 +50,7 @@ team:
     role: Principal
     slug: will-mckelvey
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-05-06
 tldr: "NYC's largest seed-stage venture firm ($1.4B AUM) founded in 2010 by Ben Lerer, Kenneth Lerer (Huffington Post co-founder), and Eric Hippeau. Portfolio of 400+ companies has produced 12 unicorns, 12 IPOs, and 159 exits including Warby Parker, BuzzFeed, Glossier, and Allbirds. Invests $100K-$3M at pre-seed/seed across consumer, enterprise, fintech, and media with strong NYC ecosystem roots."
 ---
 
@@ -129,6 +129,7 @@ Based on publicly available data from the firm's website, Crunchbase, and press 
 | Climatic | Seed | 2026 | Healthcare | Active | [^13] |
 | AIR Platforms | Seed | 2025 | Fintech | Active | [^17] |
 | Board | Seed | ~2025 | Hardware/Gaming | Active | [^17] |
+| MOTHER.Tech | Seed (participated) | 2026-05-05 | AI/Creator Economy | Active | [^44][^45] |
 
 *This table represents approximately 6% of the firm's 447 reported investments [^13]. Entries are ordered by investment year. Most years have been verified against Crunchbase, Tracxn, and press sources; remaining ~ entries could not be independently confirmed.*
 
@@ -203,3 +204,5 @@ No independently sourced founder testimonials found. Despite dedicated searches,
 [^41]: Tracxn, "Blockdaemon — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/blockdaemon/__Uz1YoBJGag77OfEv5MZYvLVV76mqvVUl1Qq_Ua9aSY0/funding-and-investors
 [^42]: Tracxn, "Topicals — 2026 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/topicals/__8Lo0OMeojt0KHNiXxk_W9kyxEEwyxP2Iat6GGK27Qj0
 [^43]: Tracxn, "Zipline — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/zipline/__6x5NxFrGLSb7l6JEaoCLk-PwFJ_8f9pCM6oy1lX01kM/funding-and-investors
+[^44]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV with Lerer Hippeau, BoxGroup, and Shine Capital participating. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
+[^45]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/

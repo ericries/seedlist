@@ -51,7 +51,7 @@ team:
     role: Investor
     slug: ava-payman
 status: published
-last_researched: 2026-04-30
+last_researched: 2026-05-06
 tldr: "NYC-based seed investor founded in 2007 by David Tisch and Adam Rothenberg, with 600+ investments producing 31 unicorns (Plaid, Ramp, Warby Parker, Airtable, Cursor). Writes non-lead $250K-$1M checks as 'the Switzerland of VC,' co-investing collaboratively. Self-funded for first 12 years before raising external capital; now manages $1B+ across multiple fund vintages. Portfolio concentrated in fintech (25%), healthcare (18%), and consumer (18%)."
 ---
 
@@ -149,6 +149,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Pomelo Care | Seed | ~2021 | Healthcare | Active [^3] |
 | Era | Seed | 2026-04-23 | AI / Consumer Hardware | Active [^18] |
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Active [^19] |
+| MOTHER.Tech | Seed (participated) | 2026-05-05 | AI / Creator Economy | Active [^21][^22] |
 
 ## In Their Own Words
 
@@ -220,3 +221,5 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^18]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
 [^19]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
 [^20]: Crunchbase, "Plaid Seed Round - 2013-09-19," accessed April 2026. https://www.crunchbase.com/funding_round/plaid-seed--4bbe2fa4
+[^21]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV with BoxGroup, Lerer Hippeau, and Shine Capital participating. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
+[^22]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
