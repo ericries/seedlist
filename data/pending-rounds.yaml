@@ -62,6 +62,14 @@ pending_rounds:
   status: skipped
   skip_reason: parsing artifact (HTML entity); a16z crypto fund close $2.2B already
     noted
+- title: Ethos raises $22.75M from a16z for its expert network with voice onboarding
+  url: https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/
+  source: techcrunch
+  date_found: '2026-05-06'
+  parsed_company: Ethos
+  parsed_amount: $22.75M
+  parsed_round: null
+  status: pending
 - title: per Axios Pro . It most recently raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1007,15 +1015,6 @@ pending_rounds:
   date_found: '2026-04-30'
   parsed_company: RRE Ventures Acquisition
   parsed_amount: $250M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
-- title: West Enclave Merger raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: West Enclave Merger
-  parsed_amount: $100M
   parsed_round: null
   status: skipped
   skip_reason: SPAC
