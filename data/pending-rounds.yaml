@@ -20,6 +20,26 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
+    cycles from months to days with AI SaaS'
+  url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
+  source: eu-startups
+  date_found: '2026-05-06'
+  parsed_company: Spain’s Humara
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €1.2M Spain pre-seed below Seedlist threshold
+- title: French AI real estate startup Davis raises €4.6 million and unveils Gaudi-1
+    for automated architectural generation
+  url: https://www.eu-startups.com/2026/05/french-ai-real-estate-startup-davis-raises-e4-6-million-and-unveils-gaudi-1-for-automated-architectural-generation/
+  source: eu-startups
+  date_found: '2026-05-06'
+  parsed_company: French AI real estate startup Davis
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: unable to verify lead/details via 3 primary sources (EU-Startups 403)
 - title: per Axios Pro . It most recently raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -294,7 +314,10 @@ pending_rounds:
   parsed_company: Degen
   parsed_amount: $15M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-06'
+  notes: covered by mother-tech.md (Degen is the AI creative app; $15M Seed 2026-05-05
+    GV-led)
 - title: Noho Labs raised $16M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -302,7 +325,8 @@ pending_rounds:
   parsed_company: Noho Labs
   parsed_amount: $16M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: small / sector unverified
 - title: PlayReplay raised $12M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -310,7 +334,8 @@ pending_rounds:
   parsed_company: PlayReplay
   parsed_amount: $12M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: small / sector unverified
 - title: Village raised $9.5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -318,7 +343,8 @@ pending_rounds:
   parsed_company: Village
   parsed_amount: $9.5M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: small $9.5M seed; sector unverified
 - title: Moritz raised $9M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -326,7 +352,8 @@ pending_rounds:
   parsed_company: Moritz
   parsed_amount: $9M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: parsing artifact / unverified company
 - title: Astrada raised $3.8M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -334,7 +361,8 @@ pending_rounds:
   parsed_company: Astrada
   parsed_amount: $3.8M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  skip_reason: small $3.8M seed below threshold
 - title: Elastics raised $2M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -351,7 +379,9 @@ pending_rounds:
   parsed_company: AlphaDrive
   parsed_amount: $100M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund close (Yaron Elad + Elik Etzion launched $100M cyber/AI fund),
+    not startup round
 - title: Audax Private Debt raised $1B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -984,22 +1014,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: VC/PE fund close, not a startup round
-- title: u003e raised $160M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: u003e
-  parsed_amount: $160M
-  parsed_round: Series D
-  status: skipped
-  skip_reason: parsing artifact (HTML entity from Rogo $160M Series D, already covered)
-- title: Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series
-    D Extension
-  url: https://news.crunchbase.com/venture/ai-powered-legal-tech-startup-legora-seriesd-extension-nvidia/
-  source: crunchbase
-  date_found: '2026-04-30'
-  parsed_company: Swedish Legal Tech Startup Legora
-  parsed_amount: $50M
-  parsed_round: Series D
-  status: skipped
-  skip_reason: duplicate of legora.md Series D extension already covered

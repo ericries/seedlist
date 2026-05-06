@@ -1,1 +1,17 @@
-priority: []
+priority:
+  - slug: gv
+    type: firm
+    reason: "led MOTHER.Tech (Degen) Seed (2026-05-05)"
+    added: 2026-05-06
+  - slug: lerer-hippeau
+    type: firm
+    reason: "co-investor in MOTHER.Tech Seed (2026-05-05)"
+    added: 2026-05-06
+  - slug: boxgroup
+    type: firm
+    reason: "co-investor in MOTHER.Tech Seed (2026-05-05)"
+    added: 2026-05-06
+  - slug: better-tomorrow-ventures
+    type: firm
+    reason: "co-investor in InstaSwitch Seed (2026-05-05)"
+    added: 2026-05-06
