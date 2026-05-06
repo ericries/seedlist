@@ -3,9 +3,9 @@ check_size: $1M-$25M
 firm: conviction
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Cartesia
-  date: 2024-12-12
-  round: Seed (participated; Index-led $27M)
+  company: Sola
+  date: 2025-08-14
+  round: Seed (led, $3.5M)
 location: San Francisco, CA
 name: Sarah Guo
 role: Founder & General Partner
@@ -107,9 +107,9 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 | HeyGen | Early | ~2023 | AI / Video generation | Active | [^8] |
 | Cartesia | Seed | 2024-12-12 | AI / Foundation models | Active | [^8][^11] |
 | Onyx | Early | ~2023 | AI / Security | Active | [^8] |
-| Sola | Early | ~2023 | AI | Active | [^8] |
+| Sola | Seed (led, $3.5M) | 2025-08-14 (announced) | AI Process Automation | Active | [^12][^13][^14] |
 | Sunday Robotics | Early | ~2023 | AI / Robotics | Active | [^8] |
-| Corridor | Early | ~2023 | AI | Active | [^8] |
+| Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^15][^16][^17] |
 | Open Evidence | Early | ~2023 | AI / Medical | Active | [^8] |
 
 ### Greylock Portfolio (2013-2022)
@@ -159,3 +159,9 @@ No independently sourced founder testimonials found. Guo's personal website refe
 
 [^10]: TechCrunch, "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round," December 11, 2023. https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/ — Lists Conviction as a participating investor in Mistral's December 11, 2023 €385M Series A led by Andreessen Horowitz at ~$2B valuation.
 [^11]: Cartesia blog, "Announcing our seed round," December 12, 2024. https://cartesia.ai/blog/seed
+[^12]: Fortune, "Sola Solutions raises $21 million for enterprise AI," Emma Hinchliffe, August 14, 2025, accessed May 2026. https://fortune.com/2025/08/14/sola-solutions-ai-startup-raised-21-million-andreessen-sarah-guo/ — Primary source confirming Sarah Guo (Conviction) led Sola's $3.5M seed round; Series A of $17.5M led by Andreessen Horowitz announced August 14, 2025. Founders Jessica Wu (CEO) and Neil Deshmukh (CTO).
+[^13]: Latham & Watkins, "Latham & Watkins Advises Sola in US$17 Million Series A Funding Round," August 21, 2025, accessed May 2026. https://www.lw.com/en/news/2025/08/latham-watkins-advises-sola-in-us17-million-series-a-funding-round — Independent confirmation of Sola's Series A and prior Conviction-led seed round.
+[^14]: SiliconANGLE, "Sola Solutions raises $17.5M to enhance enterprise process automation," August 14, 2025, accessed May 2026. https://siliconangle.com/2025/08/14/sola-solutions-raises-17-5m-enhance-enterprise-process-automation/ — Confirms Sarah Guo at Conviction led Sola's prior $3.5M seed round.
+[^15]: Axios, "Corridor raises $5.4M, hires Alex Stamos as chief security officer," August 5, 2025, accessed May 2026. https://www.axios.com/2025/08/05/corridor-ai-startup-alex-stamos — Primary source confirming Conviction's lead of Corridor's $5.4M seed round. Founders Jack Cable and Ashwin Ramaswami; Alex Stamos joined as CSO.
+[^16]: Conviction Partners, "Investing in Corridor," accessed May 2026. https://www.conviction.com/launches/corridor.html — Conviction's own announcement of leading Corridor's seed round.
+[^17]: Jack Cable, LinkedIn announcement post, August 2025, accessed May 2026. https://www.linkedin.com/posts/jackcable_today-im-thrilled-to-announce-corridor-activity-7358512117030764544-X7ye — Cable confirms $5.4M seed led by Conviction with Sarah Guo, Mike Vernal, and Isabella Garcia-Camargo named from Conviction.

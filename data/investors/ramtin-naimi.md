@@ -109,7 +109,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | Cognition | Seed | ~2023 | AI / Developer Tools | [^7] |
 | Cluely | Seed | 2024 | AI | [^19] |
 | Glue | Series A | 2025 | Enterprise / Productivity | [^11][^27] |
-| Telepatia | Seed | 2025 | Healthcare / AI | [^11][^28] |
+| Telepatia | Seed (participated, $9M) | 2025-10-16 | Healthcare / AI (LatAm) | [^11][^28][^30][^31] |
 | Truffle Security | Series B | 2025 | Security / Cybersecurity | [^20] |
 | MagicPath | Seed | 2025 | AI / Design Tools | [^23] |
 | Coworker AI | Seed | 2025 | AI / Enterprise | [^24] |
@@ -208,3 +208,5 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^27]: "Glue Raises $20M for Agentic Team Chat," BusinessWire, October 8, 2025, accessed April 2026. https://www.businesswire.com/news/home/20251008293325/en/Glue-Raises-$20M-for-Agentic-Team-Chat
 [^28]: "Telepatia AI raises $9M seed round," LatamList, October 2025, accessed April 2026. https://latamlist.com/telepatia-ai-raises-9m-seed-round/
 [^29]: Crunchbase, "Seed Round - Material Security - 2017-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/material-security-seed--dfcab5ca
+[^30]: SignalBase, "Telepatia AI Closes $9M Seed Round to Transform LatAm Healthcare," October 2025, accessed May 2026. https://www.trysignalbase.com/news/funding/telepatia-ai-closes-9m-seed-round-to-transform-latam-healthcare — Independent confirmation that Abstract Ventures participated in Telepatia's $9M seed round on October 16, 2025, led by A-Star with Canary, Picus, Abstract, and SV Angel participating.
+[^31]: Techloy, "INFOGRAPHIC: Startup Funding in LATAM—Week 43, 2025," October 24, 2025, accessed May 2026. https://www.techloy.com/infographic-startup-funding-in-latam-week-43-2025/ — Third independent confirmation of Telepatia's $9M seed round (Week 43, 2025) led by A-Star with backing from Canary, Picus, Abstract, SV Angel, and Nido.
