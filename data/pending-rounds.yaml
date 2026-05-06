@@ -230,7 +230,10 @@ pending_rounds:
   parsed_company: Astrocade
   parsed_amount: $56M
   parsed_round: Series A And Series B
-  status: pending
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by astrocade.md ($56M Series A+B 2026-05-05; Sea + Sequoia co-led
+    with Google AI Futures, NVentures, etc.)
 - title: Latus Bio raised $42M Series A extension
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -238,7 +241,10 @@ pending_rounds:
   parsed_company: Latus Bio
   parsed_amount: $42M
   parsed_round: Series A Extension
-  status: pending
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by latus-bio.md ($43M Series A extension 2026-05-04 led by 8VC; gene
+    therapy)
 - title: Moment Energy raised $40M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -255,7 +261,10 @@ pending_rounds:
   parsed_company: Magrathea
   parsed_amount: $24M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by magrathea-metals.md ($24M Series A 2026-05-05 co-led by Resource
+    Tech Capital + Balerion Space Ventures)
 - title: Nace.AI raised $21.5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -263,7 +272,10 @@ pending_rounds:
   parsed_company: Nace.AI
   parsed_amount: $21.5M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by nace-ai.md ($21.5M cumulative seed; GC-led with .406 Ventures,
+    AICONIC, Coalition Operators, MA7)
 - title: Pumpkinseed raised $20M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -271,7 +283,10 @@ pending_rounds:
   parsed_company: Pumpkinseed
   parsed_amount: $20M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-05'
+  notes: covered by pumpkinseed.md ($20M Series A 2026-05-05 co-led by NFX + Future
+    Ventures)
 - title: Degen raised $15M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -382,6 +397,15 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact (HTML entity)
+- title: As crypto cools, a16z crypto raises a $2.2B fund
+  url: https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/
+  source: techcrunch
+  date_found: '2026-05-05'
+  parsed_company: As crypto cools, a16z crypto
+  parsed_amount: $2.2B
+  parsed_round: null
+  status: skipped
+  skip_reason: VC fund close (a16z crypto), not a startup round
 - title: Italian TravelTech startup Smartness closes €47 million Series B for European
     expansion
   url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
@@ -981,12 +1005,3 @@ pending_rounds:
   status: skipped
   skip_reason: aggregator daily summary; only Photon Health was the listed round and
     is covered by photon-health.md
-- title: Sharc Energy Closes Second Tranche of Debenture
-  url: https://www.globenewswire.com/news-release/2026/04/29/3283355/0/en/Sharc-Energy-Closes-Second-Tranche-of-Debenture.html
-  source: globenewswire
-  date_found: '2026-04-29'
-  parsed_company: Sharc Energy
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: debenture/debt round, not equity
