@@ -16,7 +16,7 @@ team:
   - slug: nico-enriquez
     role: Principal
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-05-05
 ---
 
 ## About
@@ -92,6 +92,7 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | Centivax | Series A ($45M, lead) | 2025 | Biotech / universal vaccines | [^25] |
 | The Metals Company | Board seat | 2024 | Deep-sea mining / metals | [^26] |
 | Amplifier Therapeutics | Series A ($33.25M) | 2023 | Biotech / longevity therapeutics | [^37] |
+| Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^38][^39] |
 
 *This table represents approximately 33% of Future Ventures' reported 66 investments. Many early-stage investments have not been publicly disclosed. Several investments listed (SpaceX, Tesla, Planet Labs, Mythic) were originally made while Jurvetson was at DFJ and carried over or continued through Future Ventures.*
 
@@ -182,3 +183,7 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^35]: Mythic press release, "Mythic to Challenge AI's GPU Pantheon with 100x Energy Advantage and Oversubscribed $125M Raise," accessed April 2026. https://mythic.ai/whats-new/mythic-to-challenge-ais-gpu-pantheon-with-100x-energy-advantage-and-oversubscribed-125m-raise/
 [^36]: PR Newswire, "Xona Raises $92M to Rebuild Satellite Navigation for a New Era," June 26, 2025. https://www.prnewswire.com/news-releases/xona-raises-92m-to-rebuild-satellite-navigation-for-a-new-era-302491586.html
 [^37]: PR Newswire, "Amplifier Therapeutics doses first patients in Phase 1B clinical trial and closes new financing from Future Ventures and RA Capital Management," October 17, 2023. https://www.prnewswire.com/news-releases/amplifier-therapeutics-a-cambrian-bio-pipeline-company-doses-first-patients-in-phase-1b-clinical-trial-and-closes-new-financing-from-future-ventures-and-ra-capital-management-301958646.html
+
+[^38]: Pumpkinseed press, "Pumpkinseed Raises $20M Series A to Unlock Biology's Most Valuable Hidden Data Layer," May 5, 2026, accessed May 2026. https://www.pumpkinseed.bio/ — Series A co-led by NFX and Future Ventures. Funding will scale Pumpkinseed's deSIPHR nanophotonic chip platform from peptide to full-length protein sequencing for biopharma and biosecurity applications.
+
+[^39]: GenomeWeb, "Stanford U Spinout Pumpkinseed Pursues Chip-Based Peptide Sequencing, Immune Cell Analysis," accessed May 2026. https://www.genomeweb.com/proteomics-protein-research/stanford-u-spinout-pumpkinseed-pursues-chip-based-peptide-sequencing — Pumpkinseed was co-founded in 2021 by Stanford Professor Jennifer Dionne, Dr. Jack Hu, and Dr. Nhat Vu, applying Raman spectroscopy on integrated photonic circuits to protein sequencing.

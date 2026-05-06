@@ -113,6 +113,7 @@ Based on 8VC's verified portfolio and public data:
 | Alloy Therapeutics | Series E | 2026 | Biotech/Drug Discovery | Private [^11] |
 | Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
 | Rilian | Seed (co-led) | 2026 | AI/Cybersecurity/Defense | Private [^13] |
+| Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^19][^20] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -155,3 +156,7 @@ No independently sourced founder testimonials found.
 [^17]: Refresh Miami, "Tom Brady-backed eMed rides GLP-1 success to a $200M Series A at a $2B valuation," March 26, 2026. https://refreshmiami.com/news/tom-brady-backed-emed-rides-glp-1-success-to-a-200m-series-a-at-a-2b-valuation/
 
 [^18]: MobiHealthNews, "Tom Brady-backed telehealth AI startup eMed raises $200M, tops $2B valuation," March 30, 2026. https://www.mobihealthnews.com/news/tom-brady-backed-telehealth-ai-startup-emed-raises-200m-tops-2b-valuation
+
+[^19]: BioSpace, "Latus Bio Announces $97 Million Series A Financing to Expand the Reach of Gene Therapy to Larger Populations," May 4, 2026. https://www.biospace.com/press-releases/latus-bio-announces-97-million-series-a-financing-to-expand-the-reach-of-gene-therapy-to-larger-populations — $43M Series A Extension led by 8VC (Francisco Gimenez, Partner), bringing total Series A to $97M. Existing investors DCVC Bio, BioAdvance, Benjamin Franklin Technology Partners, Modi Ventures, Gaingels, and Hatch BioFund participated, with new investors Korea Development Bank and Helen's Pink Sky Foundation joining.
+
+[^20]: BioPharma Dive, "With $97M, Latus pursues a different kind of Huntington's gene therapy," May 4, 2026. https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/

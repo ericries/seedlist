@@ -227,6 +227,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Rogo | Series D | 2026 | AI / Fintech | Private [^34] |
 | Parallel Web Systems | Series B (led) | 2026-04-29 | AI / Web Infrastructure | Private [^43] |
 | Standard Intelligence | Series A (co-led with Spark) | 2026-04-30 | AI / Foundation Models | Private [^46][^47][^48] |
+| Astrocade | Series B (led) | 2026-05-05 | AI / Gaming / Consumer | Private [^59][^60] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -410,3 +411,5 @@ The following table includes Sequoia Capital investments verified through the fi
 [^56]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV. Existing investors Benchmark, Sequoia Capital, and Greenoaks Capital participated. This is a follow-on to Sequoia's prior co-led Seed (Feb 2024).
 [^57]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
 [^58]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
+[^59]: Fortune, "Sequoia-backed Astrocade raises $56 million to let everyone build games," May 5, 2026. https://fortune.com/2026/05/05/astrocade-raises-56-million-series-b-sequoia-video-games-platform-ali-amir-sadeghian/ — Astrocade announced $56M total funding on May 5, 2026, comprising a Series A led by Sea Capital and a Series B led by Sequoia Capital (David Cahn, Partner). Additional investors include Google's AI Futures Fund, NVIDIA, LG Technology Ventures, Dentsu Ventures, Conviction Embed, Chaac Ventures, and Rogue VC.
+[^60]: Astrocade blog, "Astrocade Raises $56M in New Funding to Build a New Era of Interactive Entertainment," May 5, 2026. https://www.astrocade.com/blog/astrocade-raises-56m-funding

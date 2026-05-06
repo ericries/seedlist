@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [deep-tech, space, autonomous-vehicles, ai, biotech, food-tech, energy, quantum-computing]
 check_size: "$1M-$20M"
 last_verified_investment:
-  date: 2025
-  company: "Faeth Therapeutics"
-  round: "Follow-on"
+  date: 2026-05-05
+  company: "Pumpkinseed"
+  round: "Series A (co-led)"
 social:
   twitter: "@FutureJurvetson"
   linkedin: "linkedin.com/in/stevejurvetson"
@@ -106,6 +106,7 @@ Based on 28 verified investments across DFJ and Future Ventures (see Portfolio b
 | The Better Meat Co | ~2024 | Early | Alternative protein | Private | [^27] |
 | Cambrian Bio | ~2024 | Board Observer | Biotech | Private | [^31] |
 | Faeth Therapeutics | 2025 | Follow-on | Biotech / oncology | Private | [^32] |
+| Pumpkinseed | 2026-05-05 | Series A (co-led) | Biotech / Proteomics | Private | [^36] |
 
 This table represents a subset of Jurvetson's total investments. Tracxn reports Future Ventures has made 64 investments across six years [^28], and Jurvetson's career-spanning portfolio through DFJ is considerably larger. This table covers approximately 28 verified investments with sources.
 
@@ -192,3 +193,5 @@ No independently sourced founder testimonials found. Despite dedicated searching
 [^33]: Thought Economics, "A Conversation With Steve Jurvetson, One of the World's Most Successful Venture Capitalists & Investors," accessed March 2026. https://thoughteconomics.com/steve-jurvetson/
 [^34]: Yahoo News, "Here's Why Investor Steve Jurvetson Saved Elon Musk's Space Dreams," 2012. https://www.yahoo.com/news/heres-why-investor-steve-jurvetson-180051445.html
 [^35]: The Motley Fool, "Can You Buy Upside Foods Stock Pre-IPO?," accessed March 2026. https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-upside-foods-stock/
+
+[^36]: Pumpkinseed press, "Pumpkinseed Raises $20M Series A to Unlock Biology's Most Valuable Hidden Data Layer," May 5, 2026, accessed May 2026. https://www.pumpkinseed.bio/ — Series A co-led by NFX and Future Ventures.

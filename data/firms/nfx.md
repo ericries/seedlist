@@ -100,6 +100,7 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 | Seso Labor | Seed | 2020 | Marketplace/Agriculture | [^1][^32] |
 | Gizmo | Seed | ~2024 | AI/EdTech | [^33] |
 | CopilotKit | Series A (participated, $27M) | 2026-05-05 | AI/Developer Tools | [^34][^35] |
+| Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^36][^37] |
 
 *This table represents approximately 8% of 300 known investments. NFX was founded in 2015; investments dated before 2015 (DoorDash, Lyft, Patreon, HoneyBook, Similarweb, Trulia, Playtika) are personal angel investments by the GPs, later attributed to NFX's portfolio. NFX invests across both US and Israeli ecosystems [^9].*
 
@@ -156,3 +157,7 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^34]: TechCrunch, "CopilotKit raises $27M to help devs deploy app-native AI agents," May 5, 2026, accessed May 2026. https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/
 
 [^35]: Calcalist Tech, "CopilotKit raises $27 million to build infrastructure for AI agents," May 5, 2026, accessed May 2026. https://www.calcalistech.com/ctechnews/article/bkbjddprbx
+
+[^36]: Pumpkinseed press, "Pumpkinseed Raises $20M Series A to Unlock Biology's Most Valuable Hidden Data Layer," May 5, 2026, accessed May 2026. https://www.pumpkinseed.bio/ — Series A co-led by NFX and Future Ventures. Funding will scale Pumpkinseed's deSIPHR nanophotonic chip platform from peptide to full-length protein sequencing for biopharma and biosecurity applications. Omri Amirav-Drory (NFX General Partner) has served on Pumpkinseed's board since 2022.
+
+[^37]: NFX team page, "Omri Drory, Ph.D.," accessed May 2026. https://www.nfx.com/team/omri-amirav-drory

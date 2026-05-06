@@ -9,9 +9,9 @@ stage_focus: [seed, series-a]
 sector_focus: [deep-tech, biotech, energy, food-tech, robotics, ai, climate, space]
 check_size: "$1M-$20M"
 last_verified_investment:
-  date: 2025-05-13
-  company: "Realta Fusion"
-  round: "Series A"
+  date: 2026-05-05
+  company: "Pumpkinseed"
+  round: "Series A (co-led)"
 social:
   twitter: "@FutureSaenko"
   linkedin: "linkedin.com/in/maryannasaenko"
@@ -87,6 +87,7 @@ Based on 20 verified investments at Future Ventures (see Portfolio below). Saenk
 | Copernic Catalysts | 2024 | Seed Prime | Sustainable chemistry | [^29] |
 ~unknown| Doloromics | Various | Early stage | Pain therapeutics | [^30] |
 | Realta Fusion | 2025 | Series A (lead) | Fusion energy | [^31] |
+| Pumpkinseed | 2026-05-05 | Series A (co-led) | Biotech / Proteomics | [^34] |
 
 This table represents a subset of Future Ventures' 64 total portfolio companies [^32]. SpaceX and Upside Foods are pre-Future Ventures investments made by the partners at their prior firms (DFJ) but are listed by Future Ventures as part of their track record [^2].
 
@@ -161,3 +162,5 @@ No independently sourced founder testimonials found. Future Ventures' website fe
 [^31]: PR Newswire, "Realta Fusion Raises $36 Million Series A to Advance Compact, Scalable, Modular Fusion Energy," May 13, 2025. https://www.prnewswire.com/news-releases/realta-fusion-raises-36-million-series-a-to-advance-compact-scalable-modular-fusion-energy-302452726.html
 [^32]: Tracxn, "Future Ventures - 2025 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/future-ventures/__nzGKlVcxEPHvQ9fKgMvFR1Josm1R7LdtTRmjPI6oTdQ
 [^33]: RoboBusiness speaker profile, Maryanna Saenko, accessed March 2026. https://www.robobusiness.com/speaker/maryanna-saenko/
+
+[^34]: Pumpkinseed press, "Pumpkinseed Raises $20M Series A to Unlock Biology's Most Valuable Hidden Data Layer," May 5, 2026, accessed May 2026. https://www.pumpkinseed.bio/ — Series A co-led by NFX and Future Ventures. Funding will scale Pumpkinseed's deSIPHR nanophotonic chip platform from peptide to full-length protein sequencing.
