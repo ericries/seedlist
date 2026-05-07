@@ -241,7 +241,19 @@ pending_rounds:
   parsed_company: China’s Moonshot AI
   parsed_amount: $2B
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by moonshot-ai.md ($2B at $20B 2026-05-07 led by Long-Z/Meituan)
+- title: Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%
+  url: https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/
+  source: techcrunch
+  date_found: '2026-05-07'
+  parsed_company: Kodiak AI
+  parsed_amount: $100M
+  parsed_round: null
+  status: skipped
+  skip_reason: public company PIPE/discounted secondary (Kodiak SPAC IPO 2025); not
+    a startup VC round
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/7/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-7-2026/
   source: alleywatch
@@ -249,7 +261,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: aggregator daily; only Swish Holdings $1.2M (below threshold) listed
 - title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
     cycles from months to days with AI SaaS'
   url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
