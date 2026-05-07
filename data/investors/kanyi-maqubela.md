@@ -9,14 +9,14 @@ stage_focus: [pre-seed, seed]
 sector_focus: [fintech, digital-health, climate-tech, logistics, AI, crypto]
 check_size: "$250K-$3M"
 last_verified_investment:
-  date: 2026-01-09
+  date: 2026-05-06
   company: "Corgi"
-  round: "Seed + Series A"
+  round: "Series B"
 social:
   twitter: "@km"
   linkedin: "linkedin.com/in/kanyi"
 status: published
-last_researched: 2026-03-28
+last_researched: 2026-05-07
 tldr: "Managing Partner and co-founder of Kindred Ventures ($600M AUM) investing $250K-$3M at seed. Born in Soweto during apartheid, emigrated to the US as a refugee. Portfolio of 27 verified investments is 30% fintech (Tala, Upstart, Earnest) and 19% digital health (Heartbeat Health, which he co-founded). Nine exits including Upstart IPO and Reddit IPO. Emphasizes diverse founders and 'formation investing' -- proactively assembling teams."
 ---
 
@@ -77,6 +77,8 @@ Based on 27 verified investments from Maqubela's personal website and Kindred Ve
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
 | Corgi | 2024 | Seed | AI/Insurtech | Active | [^13] |
+| Corgi | 2026-01-09 | Series A (co-led with Y Combinator) | Insurtech/AI | Active ($1.3B at Series B) | [^13] |
+| Corgi | 2026-05-06 | Series B (participated; led by TCV) | Insurtech/AI | Active ($1.3B valuation) | [^23] |
 | Aalo Atomics | ~2023 | Seed | Climate/Nuclear | Active | [^14] |
 | Faircraft | ~2022 | Seed | Climate/Materials | Active | [^15] |
 | Basis Theory | ~2021 | Seed | Fintech | Active | [^16] |
@@ -168,7 +170,7 @@ No independently sourced founder testimonials found. Kindred Ventures' website d
 
 [^12]: Kanyi Maqubela personal website, "My Work," accessed March 2026. http://kanyi.me/work
 
-[^13]: PR Newswire, "Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups," January 2026, accessed March 2026. https://www.prnewswire.com/news-releases/corgi-insurance-raises-108-million-receives-regulatory-approval-to-launch-the-first-full-stack-insurance-carrier-for-startups-302657727.html
+[^13]: PR Newswire, "Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups," January 9, 2026, accessed May 2026. https://www.prnewswire.com/news-releases/corgi-insurance-raises-108-million-receives-regulatory-approval-to-launch-the-first-full-stack-insurance-carrier-for-startups-302657727.html — $108M combined Seed and Series A round co-led by Y Combinator (Corgi was S24 batch) and Kindred Ventures at a $630M valuation. Kanyi Maqubela quoted in announcement on Kindred's investment thesis. Other investors: Contrary, Oliver Jung, Glade Brook Capital Partners, Seven Stars, Leblon Capital, Fellows Fund, Alumni Ventures, Quadri Ventures, Vocal Ventures, Phosphor Capital, SV Angel, Tekedia Capital. Cross-referenced with Tekedia, "Tekedia Capital Portfolio Startup, Corgi, Raises $108M at $630M Valuation," accessed May 2026. https://www.tekedia.com/tekedia-capital-portfolio-startup-corgi-raises-108m-at-630m-valuation/ and Sacra, "Corgi revenue, funding & news," accessed May 2026. https://sacra.com/c/corgi/
 
 [^14]: Business Wire, "Aalo Atomics Secures $100 Million in Series B Funding to Build Modular Nuclear Plants Purpose-Built for Powering AI Data Centers," August 2025, accessed March 2026. https://www.businesswire.com/news/home/20250820559252/en/Aalo-Atomics-Secures-$100-Million-in-Series-B-Funding-to-Build-Modular-Nuclear-Plants-Purpose-Built-for-Powering-AI-Data-Centers
 
@@ -187,3 +189,5 @@ No independently sourced founder testimonials found. Kindred Ventures' website d
 [^21]: PR Newswire, "MURAL Raises $1.35M in Seed Funding, Lands Deal with IBM Upon Completion of IDEO Startup in Residence Program," July 2016, accessed March 2026. https://www.prnewswire.com/news-releases/mural-raises-135m-in-seed-funding-lands-deal-with-ibm-upon-completion-of-ideo-startup-in-residence-program-300295505.html
 
 [^22]: FinSMEs, "Earnest Closes $15M Funding," May 2014, accessed March 2026. http://www.finsmes.com/2014/05/earnest-closes-15m-funding.html
+
+[^23]: PR Newswire, "Corgi Raises $160 Million Series B to Continue Expanding Its Full-Stack Insurance Platform Into New Verticals," May 6, 2026. https://www.prnewswire.com/news-releases/corgi-raises-160-million-series-b-to-continue-expanding-its-full-stack-insurance-platform-into-new-verticals-302764003.html — Corgi announced a $160M Series B led by TCV at a $1.3B valuation on May 6, 2026. Kindred Ventures (Maqubela's firm) participated as an existing investor; Maqubela also co-led the prior Series A in January 2026. Cross-referenced with TechCrunch, "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A," May 6, 2026. https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/ and The Insurer, "Corgi raises $160 million in TCV-led Series B round at $1.3 billion valuation," May 6, 2026. https://www.theinsurer.com/ti/news/corgi-raises-160-million-in-tcv-led-series-b-round-at-13-billion-valuation-2026-05-06/

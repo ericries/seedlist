@@ -129,7 +129,7 @@ Based on 30 verified portfolio investments, the following patterns emerge. Note:
 | Genesis AI | Seed ($105M) | 2025-07-01 | Robotics AI | Active [^28][^35] |
 | CuspAI | Seed ($30M) | 2024-06-18 | AI materials | Active [^36] |
 | Tandem Health | Seed, Series A ($50M) | 2024, 2025-06-30 | Healthcare | Active [^10][^37] |
-| XBOW | Series C (co-led) | 2026 | AI cybersecurity | Active ($1B+ valuation) [^15] |
+| XBOW | Series C (co-led with DFJ Growth, $120M) | 2026-03-18 | AI cybersecurity | Active ($1B+ valuation) [^15][^40] |
 | OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^32][^33][^34] |
 | Blitzy | Growth (led, $200M, $1.4B valuation) | 2026-05-05 | AI/Autonomous Software Development | Active [^38][^39] |
 
@@ -206,3 +206,5 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 [^38]: BusinessWire, "Blitzy Raises $200 Million at $1.4 Billion Valuation to Advance Autonomous Software Development for the Enterprise," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505342338/en/Blitzy-Raises-$200-Million-at-$1.4-Billion-Valuation-to-Advance-Autonomous-Software-Development-for-the-Enterprise
 
 [^39]: Crunchbase News, "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development," May 5, 2026, accessed May 2026. https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/
+
+[^40]: BusinessWire, "XBOW Secures Additional $35M from Strategic Investors, Including Select Customers and Ecosystem Partners," May 6, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260506914922/en/XBOW-Secures-Additional-$35M-from-Strategic-Investors-Including-Select-Customers-and-Ecosystem-Partners — XBOW announced an additional $35M Series C extension on May 6, 2026, bringing total Series C to $155M. Extension participants were strategic/customer-aligned investors: Accenture Ventures, DNX Ventures, Liberty Global Tech Ventures, NVentures (NVIDIA), Samsung Ventures, and SentinelOne S Ventures. Northzone did not participate in the extension; Northzone remains an original Series C co-lead from the $120M round announced March 18, 2026 [^15]. Cross-referenced with SecurityWeek, "Autonomous Offensive Security Firm XBOW Raises $35 Million," May 6, 2026. https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/

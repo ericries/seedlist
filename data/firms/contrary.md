@@ -32,7 +32,7 @@ team:
   - slug: rachel-lescoezec
     role: Principal
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-05-07
 ---
 
 ## About
@@ -128,6 +128,7 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 | Vesto | Seed | ~2021 | Fintech | Active [^1] |
 | Vise | Pre-seed | ~2018 | Fintech/AI | Active (pivoted 2023) [^6] |
 | Voltra | Seed | ~2024 | Energy | Active [^11] |
+| Corgi | Series A (participated) | 2026-01-09 | Insurtech / AI | Active ($1.3B at Series B) [^21] |
 | Warp | Seed | ~2021 | Developer tools | Active ($70M+ funding, 700K+ developers) [^1] |
 | Zepto | Seed | 2021 | Quick-commerce | Active (filed for IPO Dec 2025; $7B valuation) [^15] |
 
@@ -179,3 +180,5 @@ Zepto CEO Aadit Palicha described receiving Contrary's first investment: "They s
 [^18]: Yahoo Finance, "AI Startup Nomic Raises $17 Million To Do What OpenAI Didn't Want To: Open Source Artificial Intelligence For All," 2023. https://finance.yahoo.com/news/ai-startup-nomic-raises-17-000409855.html
 [^19]: Kyle Harrison, "Contrary: My Renegade of Choice," Investing 101 Substack, May 2022. https://investing101.substack.com/p/contrary-my-renegade-of-choice
 [^20]: Inshorts, "We got first capital of ₹40 lakh for free from Contrary: Zepto CEO," September 2023. https://inshorts.com/en/news/we-got-first-capital-of-%E2%82%B940-lakh-for-free-from-contrary-zepto-ceo-1695379981033
+
+[^21]: PR Newswire, "Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups," January 9, 2026. https://www.prnewswire.com/news-releases/corgi-insurance-raises-108-million-receives-regulatory-approval-to-launch-the-first-full-stack-insurance-carrier-for-startups-302657727.html — Corgi's $108M Series A (co-led by Y Combinator and Kindred Ventures at a $630M valuation, announced January 9, 2026) included Contrary as a participant alongside SV Angel, Oliver Jung, Glade Brook, Seven Stars, Leblon, Fellows Fund, Alumni Ventures, Quadri Ventures, Vocal Ventures, Phosphor Capital, and Tekedia Capital. Cross-referenced with PR Newswire, "Corgi Raises $160 Million Series B," May 6, 2026, https://www.prnewswire.com/news-releases/corgi-raises-160-million-series-b-to-continue-expanding-its-full-stack-insurance-platform-into-new-verticals-302764003.html (confirms Contrary as prior-round investor; Contrary not listed among Series B participants). Cross-referenced with Tekedia, "Tekedia Capital Portfolio Startup, Corgi, Raises $108M at $630M Valuation," accessed May 2026. https://www.tekedia.com/tekedia-capital-portfolio-startup-corgi-raises-108m-at-630m-valuation/

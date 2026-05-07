@@ -2,7 +2,7 @@
 founded: 2009
 fund_size: $53M (Seed Fund VI, 2016); $269M (Growth Fund I, 2022); $330M (Growth Fund
   II, 2025)
-last_researched: 2026-03-13
+last_researched: 2026-05-07
 location: San Francisco, CA
 name: SV Angel
 sector_focus:
@@ -276,6 +276,7 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 | Veriff | Seed | ~2015 (founded) | Identity Verification | Private [^22] |
 | World Labs | Seed | ~2024 (founded) | AI / 3D | Private [^22] |
 | Lio | Series A | 2026 | AI / Enterprise / Procurement | Private [^29] |
+| Corgi | Series A (participated) | 2026-01-09 | Insurtech / AI | Private ($1.3B at Series B) [^36] |
 
 *Note: This table includes all 155 companies listed on SV Angel's portfolio page plus Lio from cross-referenced startup profiles. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". SV Angel has invested in 791 companies total per Tracxn [^14]; this table represents approximately 20% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -422,3 +423,5 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^34]: TechCrunch, "More Information On That Secretive Twitter Financing," July 29, 2007. https://techcrunch.com/2007/07/29/more-information-on-that-secretive-twitter-financing/ — Series A led by Union Square Ventures with Charles River Ventures; Ron Conway, Naval Ravikant, Marc Andreessen, and Dick Costolo participated as angels.
 
 [^35]: TechCrunch, "Dropbox Raised $6 Million Sequoia-Led Series A In October 2008," November 24, 2009. https://techcrunch.com/2009/11/24/dropbox-sequoia-funding/ — Series A led by Sequoia Capital with Accel participating; SV Angel was an early investor in Dropbox prior to the Sequoia-led Series A.
+
+[^36]: PR Newswire, "Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups," January 9, 2026. https://www.prnewswire.com/news-releases/corgi-insurance-raises-108-million-receives-regulatory-approval-to-launch-the-first-full-stack-insurance-carrier-for-startups-302657727.html — Corgi's $108M Series A (co-led by Y Combinator and Kindred Ventures at a $630M valuation, announced January 9, 2026) included SV Angel as a participant alongside Contrary, Oliver Jung, Glade Brook, Seven Stars, Leblon, Fellows Fund, Alumni Ventures, Quadri Ventures, Vocal Ventures, Phosphor Capital, and Tekedia Capital. Cross-referenced with Tekedia, "Tekedia Capital Portfolio Startup, Corgi, Raises $108M at $630M Valuation," accessed May 2026. https://www.tekedia.com/tekedia-capital-portfolio-startup-corgi-raises-108m-at-630m-valuation/ Note: SV Angel does not appear among the $160M Series B participants per PR Newswire, "Corgi Raises $160 Million Series B," May 6, 2026, https://www.prnewswire.com/news-releases/corgi-raises-160-million-series-b-to-continue-expanding-its-full-stack-insurance-platform-into-new-verticals-302764003.html

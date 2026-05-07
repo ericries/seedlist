@@ -123,6 +123,7 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Strava | Growth | 2020s | Consumer/Fitness | Private [^7] |
 | Grow Therapy | Series B (led), D (co-led) | 2022-09-29, 2026-03-03 | Healthcare/Mental Health | Private [^9][^11] |
 | Actively | Series B (co-led) | 2026 | AI/Sales | Private [^10] |
+| Corgi | Series B (led) | 2026-05-06 | Insurtech | Private ($1.3B valuation) [^13] |
 
 This table represents a small fraction of TCV's 350+ total investments [^4]. The firm's portfolio page lists over 100 current and former portfolio companies [^7].
 
@@ -158,3 +159,5 @@ No independently sourced founder testimonials found. TCV's portfolio founders ha
 [^11]: GlobeNewswire (press release), "Grow Therapy Raises $75 Million to Expand Access to Affordable Mental Healthcare," September 29, 2022. https://www.globenewswire.com/en/news-release/2022/09/29/2525601/0/en/Grow-Therapy-Raises-75-Million-to-Expand-Access-to-Affordable-Mental-Healthcare.html
 
 [^12]: BusinessWire, "Trade Republic Announces $900M Investment, Led by Sequoia, to Drive Its Mission to Help Close Europe's Pension Gap," May 20, 2021. https://www.businesswire.com/news/home/20210520005526/en/Trade-Republic-Announces-$900M-Investment-Led-by-Sequoia-to-Drive-Its-Mission-to-Help-Close-Europes-Pension-Gap
+
+[^13]: PR Newswire, "Corgi Raises $160 Million Series B to Continue Expanding Its Full-Stack Insurance Platform Into New Verticals," May 6, 2026. https://www.prnewswire.com/news-releases/corgi-raises-160-million-series-b-to-continue-expanding-its-full-stack-insurance-platform-into-new-verticals-302764003.html — Corgi (S24 Y Combinator batch; founders Nico Laqua, CEO, and Emily Yuan, COO) announced a $160M Series B led by TCV at a $1.3B valuation on May 6, 2026, bringing total raised to $268M+. Participants: Oliver Jung, Leblon Capital, Kindred Ventures (existing), Repeat VC, Zone 2 Ventures, Audeo Ventures, Quadri Ventures, First Order Fund, Vocal Ventures, Maiora Ventures, Nordstar, Seven Stars Ventures, Hexa Capital, Alpha Square Group, GSBackers, OurCrowd, Alumni Ventures, Global Growth Fund. Cross-referenced with TechCrunch, "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A," May 6, 2026. https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/ and The Insurer, "Corgi raises $160 million in TCV-led Series B round at $1.3 billion valuation," May 6, 2026. https://www.theinsurer.com/ti/news/corgi-raises-160-million-in-tcv-led-series-b-round-at-13-billion-valuation-2026-05-06/

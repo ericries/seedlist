@@ -1,7 +1,7 @@
 ---
 founded: 1969
 fund_size: $650M (Fund X, 2024)
-last_researched: 2026-03-25
+last_researched: 2026-05-07
 location: Palo Alto, CA
 name: Venrock
 sector_focus:
@@ -124,6 +124,7 @@ Based on 30 verified portfolio investments spanning the firm's history and recen
 | Percipient.ai | Early | ~2020 | Defense AI | Active [^7] |
 | Accompany Health | Seed | ~2023 | Primary Care | Active [^26] |
 | Gitar | Seed (led) | 2026 | Developer Tools / AI | Active [^30] |
+| CellCentric | Series D (led, via Venrock Healthcare Capital Partners) | 2026-05-06 | Biotech / Oncology | Active [^31] |
 
 ## In Their Own Words
 
@@ -220,3 +221,5 @@ Robert Wachter, chair of the Department of Medicine at the University of Califor
 [^29]: Managed Care Magazine, "Bob Kocher Believes (With Missionary Zeal) That Venture Capital Can Start To Cure What Ails American Health Care," August 2017. Accessed March 2026. https://www.managedcaremag.com/archives/2017/8/bob-kocher-believes-missionary-zeal-venture-capital-can-start-cure-what-ails/
 
 [^30]: PRNewsWire, "Gitar Launches from Stealth with $9M as AI-Generated Code Outpaces Teams' Ability to Validate and Ship Software Safely," April 15, 2026. https://www.prnewswire.com/news-releases/gitar-launches-from-stealth-with-9m-as-ai-generated-code-outpaces-teams-ability-to-validate-and-ship-software-safely-302743190.html
+
+[^31]: CellCentric press release, "CellCentric Announces Oversubscribed $220 Million Series D Financing to Advance Pivotal Trials of Inobrodib in Multiple Myeloma," May 6, 2026. https://www.cellcentric.com/press-release/cellcentric-announces-oversubscribed-220-million-series-d-financing-to-advance-pivotal-trials-of-inobrodib-in-multiple-myeloma/ — Cambridge, UK-based biotech CellCentric raised an oversubscribed $220M Series D led by Venrock Healthcare Capital Partners with participation from Fidelity Management & Research, Sofinnova Partners, HBM Healthcare, RA Capital Management, Forbion, Pfizer, Avego BioScience Capital, and American Cancer Society BrightEdge. Funds will support pivotal Phase 3 DOMMINO-2 trial of inobrodib (oral p300/CBP inhibitor) in multiple myeloma. Cross-referenced with BioPharma Dive, "CellCentric raises $220M for a 'transformative' multiple myeloma medicine," May 6, 2026. https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/ and BioSpace, "CellCentric secures $220M in Europe's biggest private biotech fundraise of 2026," May 6, 2026. https://www.biospace.com/business/cellcentric-secures-220m-in-europes-biggest-private-biotech-fundraise-of-2026
