@@ -89,7 +89,7 @@ Based on 25 verified investments below, Felix and CoinFund demonstrate a clear p
 | Manta Network | 2023 | Series A | L1 Protocol | [^16] |
 | ether.fi | 2024 | Private | DeFi | [^2] |
 | Prime Intellect | 2024 | Early | AI/Compute | [^2] |
-| Gunzilla Games | 2024 | Private | Gaming | [^18] |
+| Gunzilla Games | 2024-03-26 | Strategic ($30M, co-led) | Gaming | [^18][^22][^23] |
 | Icebreaker | 2024 | Seed | Social/Identity | [^6] |
 | Flare | 2024 | Private | L1 Protocol | [^17] |
 | NFTfi | 2024 | Private | DeFi/NFTs | [^17] |
@@ -137,3 +137,5 @@ No independently sourced founder testimonials specifically about Alex Felix were
 [^19]: PR Newswire, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund to Scale the Universal Liquidity Market for Digital Assets," December 2025. https://www.prnewswire.com/news-releases/lifi-secures-29m-in-series-a-extension-led-by-multicoin-and-coinfund-to-scale-the-universal-liquidity-market-for-digital-assets-302639425.html
 [^20]: Chainwire, "Irys Raises $10M Series A to Unlock $3 Trillion Data Economy With First Programmable Datachain," August 21, 2025, accessed May 2026. https://chainwire.org/2025/08/21/irys-raises-10m-series-a-to-unlock-3-trillion-data-economy-with-first-programmable-datachain/ — Primary source for Irys's $10M Series A on August 21, 2025 led by CoinFund with participation from Hypersphere, Tykhe Ventures, Varrock Ventures, Breed VC, Echo Group, Amber Group, and WAGMI Ventures.
 [^21]: NFTgators, "Programmable Datachain, Irys Secures $10M Series A Led by CoinFund," August 21, 2025, accessed May 2026. https://www.nftgators.com/programmable-datachain-irys-secures-10m-series-a-led-by-coinfund/ — Independent confirmation.
+[^22]: StartupHub.ai, "Gunzilla Games Announces $30M in Funding Co-Led by CoinFund and Avalanche's Blizzard Fund," March 26, 2024, accessed May 2026. https://www.startuphub.ai/ai-news/press-release/2024/gunzilla-games-announces-30m-in-funding-co-led-by-coinfund-and-avalanches-blizzard-fund — Confirms March 26, 2024 announcement of $30M total round (including $10M strategic token round) co-led by CoinFund and Avalanche's Blizzard Fund with Republic Capital and Morningstar Ventures participating.
+[^23]: Decrypt, "'Off the Grid' Creator Gunzilla Raises $30 Million Ahead of PlayStation, Xbox, and PC Launch," March 26, 2024, accessed May 2026. https://decrypt.co/223371/off-grid-gunzilla-raises-30-million-playstation-xbox-pc — Independent confirmation of March 26, 2024 announcement and round structure.

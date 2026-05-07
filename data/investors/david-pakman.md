@@ -92,7 +92,7 @@ Based on 16 verified CoinFund investments (see Portfolio below), Pakman's actual
 | Pluralis Research | 2025 | Seed (co-led) | Decentralized AI | [^18] |
 | Giza | 2025-05-20 | Private ($5.2M, led) | AI / Web3 | [^9][^30] |
 | ZOOT | 2025 | Seed (led) | Gaming | [^19] |
-| Veda | 2025 | Series A (led) | DeFi Infrastructure | [^20] |
+| Veda | 2025-06-23 | Series A (led, $18M) | DeFi Infrastructure | [^20][^32] |
 | Dakota | 2025-07-15 | Series A ($12.5M, led) | Stablecoin Banking | [^21] |
 | Irys | 2025-08-21 | Series A ($10M, led) | Data Infrastructure | [^22][^31] |
 | Flying Tulip | 2025 | Seed | DeFi / Trading | [^23] |
@@ -189,3 +189,4 @@ No independently sourced founder testimonials from portfolio company founders (i
 [^29]: CoinFund blog, "Enabling AI Models for Use in Smart Contracts: Partnering with Giza," July 11, 2023, accessed May 2026. https://coinfund.io/enabling-ai-models-for-use-in-smart-contracts-partnering-with-giza/ — CoinFund's own announcement of Giza's $3M pre-seed lead.
 [^30]: Chainwire, "Giza Announces $GIZA Token Generation Event to Power Omnichain Autonomous Agents," May 20, 2025, accessed May 2026. https://chainwire.org/2025/05/20/giza-announces-giza-token-generation-event-to-power-omnichain-autonomous-agents/ — Primary source for Giza's $5.2M private round disclosed May 20, 2025 led by CoinFund with backing from Arrington Capital and Base Ecosystem Fund.
 [^31]: NFTgators, "Programmable Datachain, Irys Secures $10M Series A Led by CoinFund," August 21, 2025, accessed May 2026. https://www.nftgators.com/programmable-datachain-irys-secures-10m-series-a-led-by-coinfund/ — Independent confirmation of the $10M Series A on August 21, 2025 led by CoinFund.
+[^32]: CoinFund blog, "Unlocking the Potential of DeFi: Why CoinFund Is Excited To Back Veda," June 23, 2025, accessed May 2026. https://coinfund.io/unlocking-the-potential-of-defi-why-coinfund-is-excited-to-back-veda/ — CoinFund's own announcement confirming June 23, 2025 date for Veda's $18M Series A led by CoinFund. Participants: Coinbase Ventures, GSR, Maelstrom, Animoca Ventures, Mantle EcoFund, BitGo, Credibly Neutral, Draper Dragon, Heartcore, PEER VC, Relayer Capital.

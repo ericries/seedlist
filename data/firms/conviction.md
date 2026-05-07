@@ -89,7 +89,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Latent (Latent Health) | Seed (participated) | 2023 | Healthcare AI | Active | [^19][^20][^21] |
 | Latent (Latent Health) | Series A (participated, $80M total) | 2026-03-23 | Healthcare AI | Active | [^19][^20][^21] |
 | Distributed Spectrum | Series A ($25M, co-led) | 2025-03-18 | AI/RF Sensing/Defense | Active | [^16][^17][^18] |
-| Mithril | Early | ~2024 | AI | Active | [^3] |
+| Mithril (fka Foundry) | Seed + Series A (participated, $80M total) | 2024-03-21 | AI compute / cloud infrastructure | Active | [^3][^39][^40][^41] |
 | Onyx Security | Series A (co-led, $35M) | 2026-03-12 | AI Security / Agentic Control Plane | Active | [^32][^33][^34][^35] |
 | Listen Labs | Seed + Series A (participated, $27M combined) | 2025-04-23 | AI Customer Research | Active | [^3][^36][^37][^38] |
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
@@ -162,3 +162,9 @@ No independently sourced founder testimonials found. The firm's website describe
 [^37]: Pear VC, "Partnering with Listen Labs: Automating customer research to create a human insights layer," April 23, 2025, accessed May 2026. https://pear.vc/partnering-with-listen-labs-automating-customer-research-to-create-a-human-insights-layer/ — Pear VC's announcement of their seed investment, confirming Listen Labs "recently closed their $27M Series A round, led by Sequoia with participation from Conviction and Pear." Founders Alfred Wahlforss and Florian Juengermann.
 
 [^38]: Yahoo Finance / Fortune, "Exclusive: This Sequoia-backed AI startup can run thousands of voice interviews at once—and it's raised $27M to disrupt market research," April 23, 2025, accessed May 2026. https://finance.yahoo.com/news/exclusive-sequoia-backed-ai-startup-120000058.html — Independent confirmation of $27M combined Seed and Series A on April 23, 2025 led by Sequoia's Bryan Schreier (former Qualtrics investor); Conviction and Pear participating. Founders Florian Juengermann (German competitive programming champion) and Alfred Wahlforss (Swedish entrepreneur). Clients include Microsoft, Canva, Chubbies.
+
+[^39]: Mithril (fka Foundry) blog, "Introducing Foundry," March 21, 2024, accessed May 2026. https://mithril.ai/blog/introducing-foundry — Company's own announcement of $80M combined Seed and Series A funding co-led by Sequoia Capital and Lightspeed Venture Partners with participation from Redpoint, Microsoft Ventures (M12), Conviction, NEA, plus angels including Jeff Dean, Eric Schmidt, George Roberts (KKR), Paul Milgrom, Matei Zaharia, Jure Leskovec, Alexandr Wang, Liam Fedus, Lachy Groom, Mario Gabriele, and David Vélez. Founder Jared Quincy Davis (DeepMind alum, Stanford CS PhD). Editor's note (August 4, 2025) confirms Foundry rebranded to Mithril.
+
+[^40]: Fortune, "Exclusive: Foundry comes out of stealth with a $350 million valuation," March 21, 2024, accessed May 2026. https://fortune.com/2024/03/21/foundry-stealth-launch-350-million-valuation/ — Independent confirmation of March 21, 2024 stealth launch with $80M total Seed and Series A funding co-led by Lightspeed and Sequoia, $350M valuation.
+
+[^41]: Sequoia Capital, "Partnering with Mithril: AI Compute, On Demand," March 21, 2024, accessed May 2026. https://sequoiacap.com/article/partnering-with-mithril-ai-compute-on-demand/ — Sequoia's own post confirming participation in Mithril's seed (September 2022) and co-leading the Series A announced March 21, 2024.

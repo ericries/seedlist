@@ -5514,9 +5514,11 @@ vague_facts:
   profile: firms/coinfund
   profile_name: CoinFund
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^26]'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2025-06-23, $18M Series A led by CoinFund. Three primary sources: PRNewswire June 23 2025, CoinFund's own blog, and NFTgators June 23 2025. Updated firm profile with date, amount, and footnotes [^55]."
 - column: 4
   company: LI.FI
   line: '| LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |'
@@ -6644,9 +6646,11 @@ vague_facts:
   profile: firms/conviction
   profile_name: Conviction
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^3]'
+  resolved: 2026-05-07
+  resolution_note: "Disambiguated: Mithril is the rebrand of Foundry, AI compute platform founded by Jared Quincy Davis (DeepMind/Stanford alum). Resolved to 2024-03-21 stealth launch with $80M total Seed and Series A funding co-led by Sequoia Capital and Lightspeed Venture Partners at $350M valuation. Conviction participated. Three primary sources: Mithril blog (Introducing Foundry), Fortune exclusive, Sequoia Capital partnership post — all dated March 21, 2024. Added footnotes [^39][^40][^41]."
 - column: 5
   company: Onyx
   line: '| Onyx | Early | ~2024 | AI | Active | [^3] |'
@@ -30548,9 +30552,11 @@ vague_facts:
   profile: investors/alex-felix
   profile_name: Alex Felix
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^18]'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2024-03-26, $30M strategic round (incl. $10M token round + equity + validator sales) co-led by CoinFund and Avalanche's Blizzard Fund. Three primary sources: The Block, StartupHub.ai, Decrypt — all March 26 2024. Added footnotes [^22][^23]."
 - column: 4
   company: Icebreaker
   line: '| Icebreaker | 2024 | Seed | Social/Identity | [^6] |'
@@ -53183,9 +53189,11 @@ vague_facts:
   profile: investors/david-pakman
   profile_name: David Pakman
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^20]'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2025-06-23, $18M Series A led by CoinFund. Three primary sources: PRNewswire, CoinFund blog, NFTgators — all June 23 2025. Added footnote [^32]."
 - column: 4
   company: Dakota
   line: '| Dakota | 2025 | Series A (led) | Stablecoin Banking | [^21] |'
@@ -73872,9 +73880,11 @@ vague_facts:
   profile: investors/jake-brukhman
   profile_name: Jake Brukhman
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^21]'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2024-03-26, $30M strategic round co-led by CoinFund and Avalanche's Blizzard Fund. Three primary sources: The Block, StartupHub.ai, Decrypt — all March 26 2024. Added footnotes [^33][^34]."
 - column: 4
   company: Ether.fi
   line: '| Ether.fi | 2024-02 | Series A | DeFi/Restaking | [^22] |'
@@ -73932,9 +73942,11 @@ vague_facts:
   profile: investors/jake-brukhman
   profile_name: Jake Brukhman
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^24]'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2025-06-23, $18M Series A led by CoinFund. Three primary sources: PRNewswire, CoinFund blog, NFTgators. Added footnote [^35]."
 - column: 4
   company: Dakota
   line: '| Dakota | 2025-07 | Series A | Stablecoin Banking | [^25] |'
@@ -142763,9 +142775,11 @@ vague_facts:
   profile: firms/coinfund
   profile_name: CoinFund
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2025-06-23 (announcement date). $18M Series A led by CoinFund. Three primary sources confirmed."
 - column: 2
   company: LI.FI
   line: '| LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |'
@@ -143066,9 +143080,11 @@ vague_facts:
   profile: firms/conviction
   profile_name: Conviction
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2024
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2024-03-21. Mithril is rebrand of Foundry; $80M Seed+Series A co-led by Sequoia and Lightspeed at $350M valuation, Conviction participated. Three primary sources confirmed."
 - column: 2
   company: Onyx
   line: '| Onyx | Early | ~2024 | AI | Active | [^3] |'
@@ -150943,9 +150959,11 @@ vague_facts:
   profile: investors/alex-felix
   profile_name: Alex Felix
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2024-03-26 announcement, $30M strategic round co-led by CoinFund and Blizzard Fund. Three primary sources confirmed."
 - column: 1
   company: Icebreaker
   line: '| Icebreaker | 2024 | Seed | Social/Identity | [^6] |'
@@ -156247,9 +156265,11 @@ vague_facts:
   profile: investors/david-pakman
   profile_name: David Pakman
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2025-06-23, $18M Series A led by CoinFund. Three primary sources confirmed."
 - column: 1
   company: Dakota
   line: '| Dakota | 2025 | Series A (led) | Stablecoin Banking | [^21] |'

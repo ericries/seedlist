@@ -81,13 +81,13 @@ Based on 25 verified investments with confirmed CoinFund involvement, sourced fr
 | ClayStack | ~2021 | Seed | Staking/DeFi | [^7] |
 | Community Gaming | ~2021 | Early | Gaming/Esports | [^7] |
 | Polkadot | ~2020 | Early | L1 Blockchain | [^6][^20] |
-| Gunzilla Games | 2024-03 | Token Round | Gaming | [^21] |
+| Gunzilla Games | 2024-03-26 | Strategic ($30M, co-led) | Gaming | [^21][^33][^34] |
 | Ether.fi | 2024-02 | Series A | DeFi/Restaking | [^22] |
 | Flare | 2024-02 | Private | L1 Blockchain | [^20] |
 | Prime Intellect | 2024-04 | Seed | Decentralized AI | [^13] |
 | Manta Network | 2023 | Series A | Privacy/L2 | [^23] |
 | Pluralis Research | 2025-03 | Seed | Decentralized AI | [^14] |
-| Veda | 2025-06 | Series A | DeFi Infrastructure | [^24] |
+| Veda | 2025-06-23 | Series A (led, $18M) | DeFi Infrastructure | [^24][^35] |
 | Dakota | 2025-07-15 | Series A ($12.5M, CoinFund led) | Stablecoin Banking | [^25] |
 | Irys | 2025-08-21 | Series A ($10M, led) | Data Infrastructure | [^26][^31][^32] |
 | Cloudburst | ~2025 | Seed | Crypto Security | [^6] |
@@ -153,3 +153,6 @@ No independently sourced founder testimonials found. CoinFund's website features
 [^30]: The Daily Hodl, "STON.fi Dev Raises $9.5M Series A to Scale DeFi on TON," July 30, 2025. https://dailyhodl.com/2025/07/30/ston-fi-dev-raises-9-5m-series-a-to-scale-defi-on-ton/
 [^31]: Chainwire, "Irys Raises $10M Series A to Unlock $3 Trillion Data Economy With First Programmable Datachain," August 21, 2025, accessed May 2026. https://chainwire.org/2025/08/21/irys-raises-10m-series-a-to-unlock-3-trillion-data-economy-with-first-programmable-datachain/ — Primary source confirming $10M Series A on August 21, 2025 led by CoinFund with Hypersphere, Tykhe Ventures, Varrock Ventures, Breed VC, Echo Group, Amber Group, and WAGMI Ventures participating.
 [^32]: NFTgators, "Programmable Datachain, Irys Secures $10M Series A Led by CoinFund," August 21, 2025, accessed May 2026. https://www.nftgators.com/programmable-datachain-irys-secures-10m-series-a-led-by-coinfund/ — Independent confirmation of August 21, 2025 announcement.
+[^33]: StartupHub.ai, "Gunzilla Games Announces $30M in Funding Co-Led by CoinFund and Avalanche's Blizzard Fund," March 26, 2024, accessed May 2026. https://www.startuphub.ai/ai-news/press-release/2024/gunzilla-games-announces-30m-in-funding-co-led-by-coinfund-and-avalanches-blizzard-fund — Confirms March 26, 2024 announcement of $30M total ($10M strategic token round + equity + validator sales), co-led by CoinFund and Avalanche's Blizzard Fund. Republic Capital and Morningstar Ventures participated.
+[^34]: Decrypt, "'Off the Grid' Creator Gunzilla Raises $30 Million Ahead of PlayStation, Xbox, and PC Launch," March 26, 2024, accessed May 2026. https://decrypt.co/223371/off-grid-gunzilla-raises-30-million-playstation-xbox-pc — Independent confirmation.
+[^35]: CoinFund blog, "Unlocking the Potential of DeFi: Why CoinFund Is Excited To Back Veda," June 23, 2025, accessed May 2026. https://coinfund.io/unlocking-the-potential-of-defi-why-coinfund-is-excited-to-back-veda/ — CoinFund's own announcement confirming June 23, 2025 date for Veda's $18M Series A led by CoinFund.

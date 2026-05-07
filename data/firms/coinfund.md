@@ -102,7 +102,7 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Livepeer | Liquid | ~2022 | Decentralized video | [^15] |
 | API3 | Liquid | ~2022 | Oracle infrastructure | [^15] |
 | LayerZero | Venture | ~2022 | Cross-chain infrastructure | [^15] |
-| Gunzilla Games | Venture | 2024 | Web3 gaming | [^31] |
+| Gunzilla Games | Strategic ($30M, co-led) | 2024-03-26 | Web3 gaming | [^31][^53][^54] |
 | Flare | Liquid | ~2023 | L1 blockchain | [^15] |
 | ether.fi | Series A (co-led) | 2024-02-28 | Liquid restaking/DeFi | [^20][^35][^36] |
 | Monad | Series A (participated) | 2024-04-09 | L1 blockchain | [^21][^32][^33] |
@@ -115,7 +115,7 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Giza | Pre-Seed (led, $3M) | 2023-07-11 | AI/ML on-chain | [^48][^49][^50] |
 | Giza | Private (participated, $5.2M) | 2025-05-20 | AI/ML on-chain | [^51][^52] |
 | Dakota | Series A (led, $12.5M) | 2025-07-15 | Stablecoin banking | [^25][^28][^45] |
-| Veda | Series A | 2025 | DeFi vault infrastructure | [^26] |
+| Veda | Series A (led, $18M) | 2025-06-23 | DeFi vault infrastructure | [^26][^55] |
 | LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |
 
 This table represents approximately 30 of 100+ known investments. The remaining portfolio includes additional liquid token positions and earlier-stage investments not individually verified through press sources. CoinFund's DropsTab profile lists 174 total portfolio entries including liquid positions [^15].
@@ -202,3 +202,6 @@ No additional independently sourced founder testimonials about the experience of
 [^50]: CoinFund blog, "Enabling AI Models for Use in Smart Contracts: Partnering with Giza," July 11, 2023, accessed May 2026. https://coinfund.io/enabling-ai-models-for-use-in-smart-contracts-partnering-with-giza/ — CoinFund's own announcement confirming July 11, 2023 date and lead status for Giza's $3M pre-seed.
 [^51]: Chainwire, "Giza Announces $GIZA Token Generation Event to Power Omnichain Autonomous Agents," May 20, 2025, accessed May 2026. https://chainwire.org/2025/05/20/giza-announces-giza-token-generation-event-to-power-omnichain-autonomous-agents/ — Primary source for Giza's $5.2M private round disclosed May 20, 2025 led by CoinFund with additional backing from Arrington Capital and Base Ecosystem Fund.
 [^52]: crypto-fundraising.info, "Giza — AI Project," accessed May 2026. https://crypto-fundraising.info/projects/giza/ — Independent confirmation of Giza funding history: $3M pre-seed (July 2023, CoinFund led, with Arrington Capital, Starkware, LambdaClass, TA Ventures); $1.5M public sale (February 2025); $2.2M round (May 2025) including CoinFund, Base Ecosystem Fund, Echo, Re7 Capital, and others.
+[^53]: StartupHub.ai, "Gunzilla Games Announces $30M in Funding Co-Led by CoinFund and Avalanche's Blizzard Fund," March 26, 2024, accessed May 2026. https://www.startuphub.ai/ai-news/press-release/2024/gunzilla-games-announces-30m-in-funding-co-led-by-coinfund-and-avalanches-blizzard-fund — Confirms March 26, 2024 announcement of $30M total round co-led by CoinFund and Avalanche's Blizzard Fund, comprising a $10M strategic token round plus previously undisclosed equity and validator sales. Republic Capital and Morningstar Ventures participated. Includes quote from Evan Feng, CoinFund Partner and Director of Research.
+[^54]: Decrypt, "'Off the Grid' Creator Gunzilla Raises $30 Million Ahead of PlayStation, Xbox, and PC Launch," March 26, 2024, accessed May 2026. https://decrypt.co/223371/off-grid-gunzilla-raises-30-million-playstation-xbox-pc — Independent confirmation of March 26, 2024 announcement, $30M total ($10M strategic token round plus equity and validator sales), co-led by CoinFund and Avalanche's Blizzard Fund.
+[^55]: CoinFund blog, "Unlocking the Potential of DeFi: Why CoinFund Is Excited To Back Veda," June 23, 2025, accessed May 2026. https://coinfund.io/unlocking-the-potential-of-defi-why-coinfund-is-excited-to-back-veda/ — CoinFund's own announcement confirming June 23, 2025 date for Veda's $18M Series A led by CoinFund. Participants: Coinbase Ventures, GSR, Maelstrom, Animoca Ventures, Mantle EcoFund, BitGo, Credibly Neutral, Draper Dragon, Heartcore, PEER VC, Relayer Capital, plus angels Nathan McCauley (Anchorage), Mike Silagadze (Ether.Fi), Sandeep Nailwal (Polygon).
