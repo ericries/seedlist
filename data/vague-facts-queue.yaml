@@ -57068,7 +57068,9 @@ vague_facts:
   profile: investors/elad-gil
   profile_name: Elad Gil
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-06
+  resolution_note: "Same fact as the year_only_date variant — resolved together. Decagon emerged from stealth 2024-06-18 with $35M total ($5M Seed led by a16z + $30M Series A led by Accel); Elad Gil participated. Three primary sources added to elad-gil.md (new [^31] GlobeNewswire, [^32] Decagon's own announcement, [^33] The SaaS News)."
   type: unknown_value
   value: '[^14]'
 - column: 3
@@ -140524,7 +140526,9 @@ vague_facts:
   profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-06
+  resolution_note: "Resolved to 2025-10-23 announcement date. Natural emerged from stealth on October 23, 2025 with a $9.8M seed round co-led by Abstract and Human Capital, with Forerunner Ventures, Terrain, Restive Ventures, and Genius Ventures participating, plus angel investors Zach Abrams (Bridge), Immad Akhund (Mercury), Eric Glyman/Karim Atiyeh (Ramp), Guillermo Rauch (Vercel), Itai Damti (Unit), and Matt Michaelis (Emprise Bank). Founded by Kahlil Lalji (CEO), Eric Wang, and Walt Leung. Disambiguation: this is the fintech 'Natural' building agentic-payment infrastructure for AI agents — not Natural Motion or any other Natural-named company. Three primary sources added to abstract-ventures.md (new [^42] BusinessWire, [^43] Yahoo Finance/BusinessWire, [^44] Crowdfund Insider). Entry refined to show $9.8M, co-led, Fintech sector."
   type: year_only_date
   value: '2025'
 - column: 2
@@ -140556,7 +140560,9 @@ vague_facts:
   profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-06
+  resolution_note: "Resolved to 2025-05-21 announcement date (PR Newswire dated May 20, 2025; Finsmes/SaaS News May 21, 2025). Coworker.ai raised $13M seed led by Jeff Huber at Triatomic Capital with participation from Abstract Ventures (Ramtin Naimi), Operator Collective (Mallun Yen), Eniac Ventures (Tim Young), and K2 Access Fund. Pre-seed investors Soma Capital, Focal VC, Mischief, and Karman Ventures also participated; total raised to date $16.5M. Founded by Alex Calder (CEO) and Bradford Church (CPO); ex-Uber managers building AI 'teammates' with proprietary OM1 memory architecture. Three primary sources added to abstract-ventures.md (new [^39] PR Newswire, [^40] Finsmes, [^41] The SaaS News); Ramtin Naimi profile also updated (new [^32] Finsmes, [^33] SaaS News). Entry refined to show $13M, participated."
   type: year_only_date
   value: '2025'
 - column: 2
@@ -157022,7 +157028,9 @@ vague_facts:
   profile: investors/elad-gil
   profile_name: Elad Gil
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-06
+  resolution_note: "Resolved to 2024-06-18 announcement date. Decagon emerged from stealth June 18, 2024 with $35M total funding ($5M Seed led by a16z and $30M Series A led by Accel). Elad Gil participated alongside A* and angel operators Aaron Levie (Box), Howie Liu (Airtable), Matt MacInnis (Rippling), Aaref Hilaly (BCV), Mike Vernal (ex-Sequoia), Frederic Kerrest (Okta), Jack Altman (Lattice), and Ed Hallen (Klaviyo). Ivan Zhou (Accel) joined the board. Founded by Jesse Zhang (CEO) and Ashwin Sreenivas (CTO). Three primary sources added to elad-gil.md (new [^31] GlobeNewswire, [^32] Decagon's own announcement, [^33] The SaaS News). Entry refined to show 2024-06-18 / Series A ($30M, participated; $5M Seed + $30M Series A combined raise)."
   type: year_only_date
   value: ~2024
 - column: 1

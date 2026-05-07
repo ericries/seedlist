@@ -112,7 +112,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | Telepatia | Seed (participated, $9M) | 2025-10-16 | Healthcare / AI (LatAm) | [^11][^28][^30][^31] |
 | Truffle Security | Series B | 2025 | Security / Cybersecurity | [^20] |
 | MagicPath | Seed | 2025 | AI / Design Tools | [^23] |
-| Coworker AI | Seed | 2025 | AI / Enterprise | [^24] |
+| Coworker AI | Seed ($13M, participated) | 2025-05-20 | AI / Enterprise | [^24][^32][^33] |
 | Material Security | Seed | 2017 | Security / Cybersecurity | [^7][^29] |
 ~unknown| Polymarket | Unknown | Unknown | Crypto / Prediction Markets | [^10] |
 ~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
@@ -210,3 +210,5 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^29]: Crunchbase, "Seed Round - Material Security - 2017-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/material-security-seed--dfcab5ca
 [^30]: SignalBase, "Telepatia AI Closes $9M Seed Round to Transform LatAm Healthcare," October 2025, accessed May 2026. https://www.trysignalbase.com/news/funding/telepatia-ai-closes-9m-seed-round-to-transform-latam-healthcare — Independent confirmation that Abstract Ventures participated in Telepatia's $9M seed round on October 16, 2025, led by A-Star with Canary, Picus, Abstract, and SV Angel participating.
 [^31]: Techloy, "INFOGRAPHIC: Startup Funding in LATAM—Week 43, 2025," October 24, 2025, accessed May 2026. https://www.techloy.com/infographic-startup-funding-in-latam-week-43-2025/ — Third independent confirmation of Telepatia's $9M seed round (Week 43, 2025) led by A-Star with backing from Canary, Picus, Abstract, SV Angel, and Nido.
+[^32]: Finsmes, "Coworker.ai Raises $13M in Seed Funding," May 21, 2025, accessed May 2026. https://www.finsmes.com/2025/05/coworker-ai-raises-13m-in-seed-funding.html — Independent confirmation that Ramtin Naimi (Abstract Ventures) participated in Coworker.ai's $13M seed round, led by Jeff Huber at Triatomic Capital, alongside Operator Collective, Eniac Ventures, and K2 Access Fund.
+[^33]: The SaaS News, "Coworker.ai Raises $13 Million in Seed Round," May 21, 2025, accessed May 2026. https://www.thesaasnews.com/news/coworker-ai-raises-13-million-in-seed-round — Third independent source confirming Coworker.ai $13M seed announced May 20-21, 2025 with Abstract Ventures (Ramtin Naimi) participating; lead Jeff Huber (Triatomic Capital).

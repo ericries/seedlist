@@ -140,7 +140,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | BioAge Labs | ~2023 | Board seat | [^2] |
 | NewLimit | ~2023 | Co-founder | [^1] |
 | Braintrust | ~2024 | Early stage (incubated) | [^1][^2] |
-| Decagon | ~2024 | Early stage | [^14] |
+| Decagon | 2024-06-18 | Series A ($30M, participated; $5M Seed + $30M Series A combined raise) | [^14][^31][^32][^33] |
 | RunSybil | 2026 | Series A | [^23] |
 | Atlas Card | 2026 | Series C (co-led) | [^30] |
 
@@ -272,3 +272,6 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^28]: Milken Institute Global Conference 2024, "Elad Gil" speaker profile (lists advisor to Electric Capital and crypto companies), accessed March 2026. https://milkeninstitute.org/events/global-conference-2024/speakers/elad-gil
 [^29]: TechCrunch, "Elad Gil joins the stage at Disrupt 2025 in October," September 22, 2025. https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/
 [^30]: Atlas (LinkedIn), "We're proud to announce our $40M funding," April 14, 2026. https://www.linkedin.com/posts/atlascard_were-proud-to-announce-our-40m-funding-activity-7449786402650771456-8pdY
+[^31]: GlobeNewswire, "Decagon Raises $35M from Accel and a16z to Bring Human-Like AI Customer Support to the Enterprise," June 18, 2024, accessed May 2026. https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/Decagon-Raises-35M-from-Accel-and-a16z-to-Bring-Human-Like-AI-Customer-Support-to-the-Enterprise.html — Primary source confirming Decagon emerged from stealth on June 18, 2024 with $35M total ($5M Seed led by a16z + $30M Series A led by Accel). Participating investors include A* (Garry Tan/Alex Chung), Elad Gil, and angels Aaron Levie (Box), Howie Liu (Airtable), Matt MacInnis (Rippling), Aaref Hilaly (BCV), Mike Vernal (ex-Sequoia), Frederic Kerrest (Okta), Jack Altman (Lattice), and Ed Hallen (Klaviyo). Ivan Zhou (Accel) joined the board.
+[^32]: Decagon resources, "Decagon's Series A," June 18, 2024, accessed May 2026. https://decagon.ai/resources/decagons-series-a — Company's own announcement confirming June 18, 2024 emergence with $5M Seed led by a16z and $30M Series A led by Accel; lists Elad Gil among participating investors alongside A* and angel operators from Box, Airtable, Rippling, Okta, Lattice, and Klaviyo.
+[^33]: The SaaS News, "Decagon Raises $35 Million in Funding," June 19, 2024, accessed May 2026. https://www.thesaasnews.com/news/decagon-raises-35-million-in-funding — Independent confirmation of $35M combined Series A and Seed funding announced June 18, 2024. Lead investors a16z (Seed) and Accel (Series A); Elad Gil among participating investors. Founded by Jesse Zhang (CEO) and Ashwin Sreenivas (CTO).
