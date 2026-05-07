@@ -222,6 +222,14 @@ pending_rounds:
   status: processed
   processed: '2026-05-07'
   notes: covered by opsmill.md (€11.9M Series A 2026-05-07 Iris Capital-led)
+- title: London-based CodeWords raises €7.6 million to help businesses run on AI autopilot
+  url: https://www.eu-startups.com/2026/05/london-based-codewords-raises-e7-6-million-to-help-businesses-run-on-ai-autopilot/
+  source: eu-startups
+  date_found: '2026-05-07'
+  parsed_company: London-based CodeWords
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
     cycles from months to days with AI SaaS'
   url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
@@ -991,14 +999,3 @@ pending_rounds:
   status: skipped
   skip_reason: lead investor for €11.5M April 30 round not in primary press (article
     paywalled)
-- title: Dutch quantum startup Groove Quantum raises €16 million to advance scalable
-    chip manufacturing
-  url: https://www.eu-startups.com/2026/04/dutch-quantum-startup-groove-quantum-raises-e16-million-to-advance-scalable-chip-manufacturing/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: Dutch quantum startup Groove Quantum
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by groove-quantum.md
