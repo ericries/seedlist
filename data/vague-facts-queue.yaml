@@ -10939,9 +10939,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^18]'
+  resolved: 2026-05-07
+  resolution_note: "Bridge Series A announced 2024-08-29: $40M round led by Sequoia Capital and Ribbit Capital with Index Ventures and Haun Ventures participating (total cumulative funding $58M). Updated Haun portfolio entry to '2024-08-29' with amount, added citations [^41] PYMNTS, [^42] Crypto Economy. Verified via Fortune (2024-08-29), PYMNTS (2024-08-30), Crypto Economy (2024-08-30)."
 - column: 5
   company: BVNK
   line: '| BVNK | Series B (led) | 2024 | Stablecoin infra | Active | [^9][^19] |'
@@ -10949,9 +10951,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^19]'
+  resolved: 2026-05-07
+  resolution_note: "BVNK Series B announced 2024-12-17: $50M round led by Haun Ventures (Diogo Monica) at ~$750M valuation, with Coinbase Ventures, Scribble Ventures, DRW VC, Avenir, and Tiger Global participating. Updated Haun portfolio entry to '2024-12-17' with amount, added citations [^43] BVNK blog, [^44] FinSMEs. Verified via Fortune (2024-12-17), BVNK official blog (2024-12-17), FinSMEs (Dec 2024)."
 - column: 5
   company: Chainalysis
   line: '| Chainalysis | Secondary | 2024 | Blockchain analytics | Active | [^9][^20]
@@ -10971,9 +10975,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^21]'
+  resolved: 2026-05-07
+  resolution_note: "Chaos Labs Series A announced 2024-08-15: $55M round led by Haun Ventures (first deal led by Diogo Monica), with F-Prime Capital, Slow Ventures, Spartan Capital (new) and Lightspeed, Galaxy, Wintermute, PayPal Ventures, General Catalyst, Bessemer, Coinbase Ventures (existing) plus angel investors. Updated Haun portfolio entry to '2024-08-15' with amount, added citations [^45] Chaos Labs blog, [^46] Crowdfund Insider. Verified via PR Newswire (2024-08-15), Chaos Labs blog (2024-08-15), Crowdfund Insider (2024-08-19)."
 - column: 5
   company: Commonware
   line: '| Commonware | Seed (co-led) | 2024 | Infrastructure | Active | [^9][^22]

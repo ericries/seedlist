@@ -84,10 +84,10 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Argus | Seed | 2023 | Web3 gaming | Active | [^9][^15] |
 | Autograph | Series B | 2022 | NFT/collectibles | Active | [^9][^16] |
 | Bitwise | Growth | 2025 | Crypto asset mgmt | Active | [^9][^17] |
-| Bridge | Series A | 2024 | Payments | Acquired by Stripe | [^9][^18] |
-| BVNK | Series B (led) | 2024 | Stablecoin infra | Active | [^9][^19] |
+| Bridge | Series A ($40M) | 2024-08-29 | Payments | Acquired by Stripe | [^9][^18][^41][^42] |
+| BVNK | Series B (led, $50M) | 2024-12-17 | Stablecoin infra | Active | [^9][^19][^43][^44] |
 | Chainalysis | Secondary | 2024 | Blockchain analytics | Active | [^9][^20] |
-| Chaos Labs | Series A (led) | 2024 | Risk management | Active | [^9][^21] |
+| Chaos Labs | Series A (led, $55M) | 2024-08-15 | Risk management | Active | [^9][^21][^45][^46] |
 | Commonware | Seed (co-led) | 2024 | Infrastructure | Active | [^9][^22] |
 | Conduit | Series A (co-led) | 2024 | L2 rollups | Active | [^9][^23] |
 | Ellipsis Labs | Series A (led) | 2024 | DeFi | Active | [^9][^24] |
@@ -171,3 +171,9 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^38]: TechCrunch, "Thirdweb raises $24M for its web3 development kit," August 24, 2022. https://techcrunch.com/2022/08/24/thirdweb-raises-24m-at-a-160m-valuation-from-haun-ventures-shopify-and-coinbase-for-its-web3-development-kit/
 [^39]: Axios, "Witness raises $3.5M to renew the web's trustworthiness," February 15, 2024. https://www.axios.com/2024/02/15/witness-raises-35m-to-renew-the-webs-trustworthiness
 [^40]: TechCrunch, "NFT startup Zora Labs nabs $50M in round led by Haun Ventures," May 5, 2022. https://techcrunch.com/2022/05/05/haun-ventures-leads-50m-round-in-nft-startup-zora-labs/
+[^41]: PYMNTS, "Bridge Raises $40 Million for Global Stablecoin-Based Payments Platform," August 30, 2024. https://www.pymnts.com/news/investment-tracker/2024/bridge-raises-40-million-dollars-global-stablecoin-based-payments-platform/
+[^42]: Crypto Economy, "Sequoia and Ribbit Lead $58M Investment in Bridge's Stablecoin Network," August 30, 2024. https://crypto-economy.com/sequoia-and-ribbit-lead-58m-investment-in-bridges-stablecoin-network/
+[^43]: BVNK Blog, "We've raised $50 million to fuel the next era of stablecoin payments," December 17, 2024. https://bvnk.com/blog/series-b-fuel-next-era-of-stablecoin-payments
+[^44]: FinSMEs, "BVNK Raises $50M in Series B Funding," December 2024. https://www.finsmes.com/2024/12/bvnk-raises-50m-in-series-b-funding.html
+[^45]: Chaos Labs blog, "Chaos Labs Secures $55M in Series A Funding," August 15, 2024. https://chaoslabs.xyz/posts/chaos-labs-series-a-announcement
+[^46]: Crowdfund Insider, "Chaos Labs Celebrates $55M Series A," August 19, 2024. https://www.crowdfundinsider.com/2024/08/228984-chaos-labs-celebrates-55m-series-a/
