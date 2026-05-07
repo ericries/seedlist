@@ -229,7 +229,10 @@ pending_rounds:
   parsed_company: London-based CodeWords
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by codewords.md (€7.6M Seed 2026-05-07 Visionaries Club-led; London
+    AI agents/automation)
 - title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
     cycles from months to days with AI SaaS'
   url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
