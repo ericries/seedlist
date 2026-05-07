@@ -139,9 +139,9 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Abridge | ~2023 | Early stage | [^1] |
 | BioAge Labs | ~2023 | Board seat | [^2] |
 | NewLimit | ~2023 | Co-founder | [^1] |
-| Braintrust | ~2024 | Early stage (incubated) | [^1][^2] |
+| Braintrust | 2024-10-08 | Series A ($36M, participated; led by a16z/Martin Casado at $150M post-money) | [^1][^2][^34][^35][^36] |
 | Decagon | 2024-06-18 | Series A ($30M, participated; $5M Seed + $30M Series A combined raise) | [^14][^31][^32][^33] |
-| RunSybil | 2026 | Series A | [^23] |
+| RunSybil | 2026-03-18 | Series A ($40M, participated; led by Khosla Ventures) | [^23] |
 | Atlas Card | 2026 | Series C (co-led) | [^30] |
 
 *Note: Many investment years are approximate, based on company founding dates or general reporting. Gil's blog states he has invested in over 200 companies with approximately 40 valued at $1B+ each [^1][^3]. This table represents approximately 20% of his reported total investments. Specific round details are unavailable for many early angel investments. Years marked with "~" indicate estimates based on company founding year or earliest known funding round.*
@@ -275,3 +275,9 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^31]: GlobeNewswire, "Decagon Raises $35M from Accel and a16z to Bring Human-Like AI Customer Support to the Enterprise," June 18, 2024, accessed May 2026. https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/Decagon-Raises-35M-from-Accel-and-a16z-to-Bring-Human-Like-AI-Customer-Support-to-the-Enterprise.html — Primary source confirming Decagon emerged from stealth on June 18, 2024 with $35M total ($5M Seed led by a16z + $30M Series A led by Accel). Participating investors include A* (Garry Tan/Alex Chung), Elad Gil, and angels Aaron Levie (Box), Howie Liu (Airtable), Matt MacInnis (Rippling), Aaref Hilaly (BCV), Mike Vernal (ex-Sequoia), Frederic Kerrest (Okta), Jack Altman (Lattice), and Ed Hallen (Klaviyo). Ivan Zhou (Accel) joined the board.
 [^32]: Decagon resources, "Decagon's Series A," June 18, 2024, accessed May 2026. https://decagon.ai/resources/decagons-series-a — Company's own announcement confirming June 18, 2024 emergence with $5M Seed led by a16z and $30M Series A led by Accel; lists Elad Gil among participating investors alongside A* and angel operators from Box, Airtable, Rippling, Okta, Lattice, and Klaviyo.
 [^33]: The SaaS News, "Decagon Raises $35 Million in Funding," June 19, 2024, accessed May 2026. https://www.thesaasnews.com/news/decagon-raises-35-million-in-funding — Independent confirmation of $35M combined Series A and Seed funding announced June 18, 2024. Lead investors a16z (Seed) and Accel (Series A); Elad Gil among participating investors. Founded by Jesse Zhang (CEO) and Ashwin Sreenivas (CTO).
+
+[^34]: Braintrust blog, "Announcing our $36M Series A," Ankur Goyal, October 8, 2024, accessed May 2026. https://www.braintrust.dev/blog/announcing-series-a — Primary source for Braintrust's $36M Series A on October 8, 2024 led by Martin Casado at Andreessen Horowitz with participation from existing investors Elad Gil, Greylock, Basecase, plus new strategic investors Datadog, Databricks Ventures, Guillermo Rauch (Vercel), Simon Last (Notion), Bryan Helmig (Zapier), Greg Brockman (OpenAI), and Arthur Mensch (Mistral). Total funding to date: $45M.
+
+[^35]: Andreessen Horowitz, "Investing in Braintrust," Martin Casado, October 8, 2024, accessed May 2026. https://a16z.com/announcement/investing-in-braintrust/ — a16z's own announcement of the Series A investment by GP Martin Casado (Infrastructure Practice). Confirms Braintrust as a devtool platform for LLM-based product efforts; founder Ankur Goyal previously built AI development platforms at Figma and Impira.
+
+[^36]: TechCompanyNews, "Braintrust Expands With $36 Million Series A To Boost AI Accuracy For Global Tech Giants," October 11, 2024, accessed May 2026. https://www.techcompanynews.com/braintrust-expands-with-36-million-series-a-to-boost-ai-accuracy-for-global-tech-giants/ — Independent confirmation of $36M Series A led by Andreessen Horowitz with Datadog and Databricks Ventures among the participants. Per FinSMEs (October 2024), the round priced at $150M post-money valuation.

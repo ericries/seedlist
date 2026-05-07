@@ -6664,7 +6664,9 @@ vague_facts:
   profile: firms/conviction
   profile_name: Conviction
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2025-04-23. Listen Labs disclosed combined $27M Seed + Series A on April 23, 2025, led by Bryan Schreier of Sequoia Capital with Conviction and Pear participating in both rounds. Founders Florian Juengermann and Alfred Wahlforss (Harvard alums, prior BeFake app). AI customer research platform that runs voice/video interviews. Three primary sources added to conviction.md: [^36] Research Live, [^37] Pear VC announcement, [^38] Yahoo/Fortune coverage. Conviction Portfolio entry refined from 'Early | ~2024 | AI' to 'Seed + Series A (participated, $27M combined) | 2025-04-23 | AI Customer Research'."
   type: unknown_value
   value: '[^3]'
 - column: 5
@@ -57058,7 +57060,9 @@ vague_facts:
   profile: investors/elad-gil
   profile_name: Elad Gil
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-07
+  resolution_note: "Resolved to 2024-10-08. Braintrust raised $36M Series A on October 8, 2024, led by Martin Casado at Andreessen Horowitz at $150M post-money valuation. Elad Gil participated as an existing investor alongside Greylock, Basecase, and new strategic participants Datadog, Databricks Ventures, plus angels Guillermo Rauch (Vercel), Simon Last (Notion), Bryan Helmig (Zapier), Greg Brockman (OpenAI), and Arthur Mensch (Mistral). Total funding to date: $45M. Founder/CEO Ankur Goyal (previously Figma, Impira). Three primary sources added: [^34] Braintrust's own blog, [^35] a16z announcement by Martin Casado, [^36] TechCompanyNews independent confirmation. Updated elad-gil.md portfolio entry from 'Braintrust | ~2024 | Early stage (incubated) | [^1][^2]' to 'Braintrust | 2024-10-08 | Series A ($36M, participated; led by a16z/Martin Casado at $150M post-money) | [^1][^2][^34][^35][^36]'."
   type: unknown_value
   value: '[^1][^2]'
 - column: 3
@@ -57080,7 +57084,9 @@ vague_facts:
   profile: investors/elad-gil
   profile_name: Elad Gil
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-07
+  resolution_note: "Refined year-only '2026' to exact date 2026-03-18. RunSybil raised $40M Series A on March 18, 2026, led by Khosla Ventures with S32, Anthology Fund (Anthropic + Menlo Ventures), Conviction, and Elad Gil participating; angels Nikesh Arora, Amit Agarwal, and Jeff Dean. Co-founders Ari Herbert-Voss (OpenAI's first security hire) and Vlad Ionescu (ex-Meta red team). Already verified globally per existing footnote [^23] (Fortune) and conviction.md [^28]–[^30] (RunSybil blog, Fortune, SiliconANGLE). Updated elad-gil.md portfolio entry from 'RunSybil | 2026 | Series A | [^23]' to 'RunSybil | 2026-03-18 | Series A ($40M, participated; led by Khosla Ventures) | [^23]'. No new citations needed — existing [^23] is the primary Fortune source with the exact date."
   type: unknown_value
   value: '[^23]'
 - column: 4
