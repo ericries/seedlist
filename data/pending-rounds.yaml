@@ -242,6 +242,14 @@ pending_rounds:
   parsed_amount: $2B
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/7/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-7-2026/
+  source: alleywatch
+  date_found: '2026-05-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
     cycles from months to days with AI SaaS'
   url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
@@ -991,13 +999,3 @@ pending_rounds:
   processed: '2026-05-01'
   notes: True Anomaly Series D actually $650M (not $600M); covered by true-anomaly.md
     (Series D 2026-04-28 led by Acme Capital with Paradigm and Menlo Ventures)
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/1/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-1-2026/
-  source: alleywatch
-  date_found: '2026-05-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator daily summary; only Fun was the listed round and is already
-    covered by fun.md
