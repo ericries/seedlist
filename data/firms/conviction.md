@@ -55,9 +55,9 @@ The firm runs several ecosystem programs including the Embed grant program for e
 
 ## Inferred Thesis
 
-Based on 18 verified portfolio companies, Conviction's actual investment behavior shows:
+Based on 19 verified portfolio companies, Conviction's actual investment behavior shows:
 
-**Sector breakdown:** The portfolio is almost entirely AI-focused. Of 18 verified investments: AI/ML infrastructure and models (Mistral, Baseten, Cartesia, Thinking Machines Lab, Essential AI — 5 of 18, 28%), AI applications for specific industries including healthcare and legal (Harvey, Sierra, Open Evidence, Latent Health, RunSybil, Onyx — 6 of 18, 33%), AI-powered media and content (HeyGen — 1 of 18, 6%), AI process automation and code security (Sola, Corridor — 2 of 18, 11%), robotics/hardware AI (Sunday — 1 of 18, 6%), other AI-adjacent tools (Cognition, Distributed Spectrum, Mithril — 3 of 18, 17%) [^3].
+**Sector breakdown:** The portfolio is almost entirely AI-focused. Of 19 verified companies: AI/ML infrastructure and models (Mistral, Baseten, Cartesia, Essential AI — 4 of 19, 21%), AI applications for specific industries including healthcare and legal (Harvey, Sierra, Open Evidence, Latent Health, Nova Intelligence — 5 of 19, 26%), AI security (RunSybil, Onyx Security, Corridor — 3 of 19, 16%), AI-powered media and content (HeyGen — 1 of 19, 5%), AI process automation (Sola — 1 of 19, 5%), robotics/hardware AI (Sunday — 1 of 19, 5%), other AI-adjacent tools (Cognition, Distributed Spectrum, Mithril, Listen Labs — 4 of 19, 21%) [^3].
 
 **Stage distribution:** Conviction predominantly invests at seed and Series A stages, with check sizes of $1M–$25M [^3]. The firm states it is "often the first investor" [^4], suggesting a tilt toward seed.
 
@@ -90,7 +90,7 @@ Based on 18 verified portfolio companies, Conviction's actual investment behavio
 | Latent (Latent Health) | Series A (participated, $80M total) | 2026-03-23 | Healthcare AI | Active | [^19][^20][^21] |
 | Distributed Spectrum | Series A ($25M, co-led) | 2025-03-18 | AI/RF Sensing/Defense | Active | [^16][^17][^18] |
 | Mithril | Early | ~2024 | AI | Active | [^3] |
-| Onyx | Early | ~2024 | AI | Active | [^3] |
+| Onyx Security | Series A (co-led, $35M) | 2026-03-12 | AI Security / Agentic Control Plane | Active | [^32][^33][^34][^35] |
 | Listen Labs | Early | ~2024 | AI | Active | [^3] |
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
 
@@ -148,3 +148,11 @@ No independently sourced founder testimonials found. The firm's website describe
 [^30]: SiliconANGLE, "RunSybil raises $40M to automate offensive security with AI agents," March 18, 2026. https://siliconangle.com/2026/03/18/runsybil-raises-40m-automate-offensive-security-ai-agents/ — Independent confirmation of round details and Conviction participation.
 
 [^31]: Fortune, "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP's $89 billion migration wave," May 5, 2026. https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/ — San Francisco-based Nova Intelligence announced a $31.5M Series A on May 5, 2026 led by Chemistry; existing investors Accel, Conviction, and SAP.iO participated. Total raised over $40M. Co-founders: Emma Qian (CEO), Sam Yang, and Professor Alexander Zeier (co-inventor of SAP HANA).
+
+[^32]: BusinessWire, "Onyx Security Launches with $40M in Funding to Build the Secure AI Control Plane for the Agentic Era," March 12, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260311837993/en/Onyx-Security-Launches-with-$40M-in-Funding-to-Build-the-Secure-AI-Control-Plane-for-the-Agentic-Era — Primary source for Onyx Security's launch announcement on March 12, 2026 with $40M total funding from Conviction and Cyberstarts. Sarah Guo (Conviction) is quoted: "Maxim and Gil saw the need for an AI control plane before the market did." Co-founders Maxim Bar Kogan (CEO) and Gil Elbaz, both Israeli defense veterans. Company has 70+ employees across Israel, the US, and Canada and counts multiple Fortune 500 companies as customers.
+
+[^33]: SecurityWeek, "Onyx Security Launches With $40 Million in Funding," March 12, 2026, accessed May 2026. https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/amp/ — Independent confirmation of Onyx Security's $40M launch funding from Conviction and Cyberstarts on March 12, 2026; describes the secure AI control plane platform that continuously discovers AI agents across cloud, endpoints, code, and SaaS deployments.
+
+[^34]: Calcalist (Ctech), "Cyber startup Onyx Security raises $35 million to control AI agents in organizations," March 2026, accessed May 2026. https://www.calcalistech.com/ctechnews/article/hjmra11x911g — Disambiguates the round structure: a $5M seed round led by Cyberstarts in 2024, followed by a $35M Series A led by Conviction on March 12, 2026. Conviction did NOT participate in the 2024 seed; Conviction's investment is the March 2026 Series A. Additional contributions from "leading angels in the cyber and AI sectors."
+
+[^35]: CIO Influence, "Onyx Security Launches with $40M in Funding to Build the Secure AI Control Plane for the Agentic Era," March 13, 2026, accessed May 2026. https://cioinfluence.com/security/onyx-security-launches-with-40m-in-funding-to-build-the-secure-ai-control-plane-for-the-agentic-era/ — Third independent confirmation of Onyx Security's $40M total funding ($35M Series A + $5M prior seed) led by Conviction (Series A) and Cyberstarts (seed); company launched March 12, 2026.

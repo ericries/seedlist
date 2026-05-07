@@ -140492,7 +140492,9 @@ vague_facts:
   profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-07
+  resolution_note: "Resolved. Aether Biomachines (aetherbio.com, Menlo Park) raised a single $49M Series A on August 16, 2023, co-led by Jay Zaveri at Natural Capital and Trevor Zimmerman at Unless Partners. Tracxn aggregates 22 total investors in the round. Abstract Ventures is listed in Aether's syndicate on Abstract's own portfolio page (https://www.abstract.com/companies-list/) tagged as Series A / Biotech, but is not named in contemporaneous press releases (only the two leads were highlighted publicly). Aether's only subsequent round was a December 3, 2025 $15M Series A1 extension led by Tribe Capital. The ~2024 date in Abstract's portfolio entry is therefore incorrect — the actual investment was August 16, 2023. Verified via 3 primary sources: WebWire press release (https://www.webwire.com/ViewPressRel.asp?aId=309595), International Mining (https://im-mining.com/2023/08/16/aether-receives-financial-backing-targets-lithium-extraction-opportunities/), and Finsmes (https://www.finsmes.com/2023/08/aether-raises-49m-in-series-a-funding.html). Updated row to '2023-08-16' with $49M amount and footnotes [^45]-[^47] added to Abstract Ventures profile."
   type: year_only_date
   value: ~2024
 - column: 2
@@ -143032,7 +143034,9 @@ vague_facts:
   profile: firms/conviction
   profile_name: Conviction
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-07
+  resolution_note: "Resolved as duplicate. Conviction's only Latent investment is Latent Health (latenthealth.com, founded 2022 by Rishabh Jain and Sriram Somasundaram, YC W23). Conviction's portfolio page (https://www.conviction.com/) lists exactly one Latent entry pointing to latenthealth.com — there is no separate investment in Latent Labs (DeepMind alumnus, AI biology) or Latent.ai (edge AI). The two existing Latent (Latent Health) rows in the table (Seed 2023 + Series A 2026-03-23) fully cover Conviction's exposure; the ~2024 AI Infrastructure row was a duplicate misclassification and has been removed in prior cleanup."
   type: year_only_date
   value: ~2024
 - column: 2
@@ -143066,7 +143070,9 @@ vague_facts:
   profile: firms/conviction
   profile_name: Conviction
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: 2026-05-07
+  resolution_note: "Resolved. Onyx in Conviction's portfolio is Onyx Security (onyx.security), the AI agent control plane co-founded by Maxim Bar Kogan (CEO) and Gil Elbaz (Israeli defense veterans). Onyx Security launched publicly on March 12, 2026 with $40M total funding: a $5M seed led by Cyberstarts in 2024 (Conviction did NOT participate) and a $35M Series A co-led by Conviction and Cyberstarts on March 12, 2026. Verified via 4 primary sources: BusinessWire press release (https://www.businesswire.com/news/home/20260311837993/en/Onyx-Security-Launches-with-$40M-in-Funding-to-Build-the-Secure-AI-Control-Plane-for-the-Agentic-Era), SecurityWeek (https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/amp/), Calcalist Ctech (https://www.calcalistech.com/ctechnews/article/hjmra11x911g — disambiguates seed vs Series A), and CIO Influence (https://cioinfluence.com/security/onyx-security-launches-with-40m-in-funding-to-build-the-secure-ai-control-plane-for-the-agentic-era/). Conviction profile updated with new row reflecting 2026-03-12 Series A ($35M, co-led) and footnotes [^32]-[^35] added."
   type: year_only_date
   value: ~2024
 - column: 2
