@@ -233,6 +233,15 @@ pending_rounds:
   processed: '2026-05-07'
   notes: covered by codewords.md (€7.6M Seed 2026-05-07 Visionaries Club-led; London
     AI agents/automation)
+- title: China’s Moonshot AI raises $2B at $20B valuation as demand for open-source
+    AI skyrockets
+  url: https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/
+  source: techcrunch
+  date_found: '2026-05-07'
+  parsed_company: China’s Moonshot AI
+  parsed_amount: $2B
+  parsed_round: null
+  status: pending
 - title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
     cycles from months to days with AI SaaS'
   url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
@@ -992,13 +1001,3 @@ pending_rounds:
   status: skipped
   skip_reason: aggregator daily summary; only Fun was the listed round and is already
     covered by fun.md
-- title: Cambridge-based Arm spin-out Kigen secures €11.5 million to scale eSIM cybersecurity
-  url: https://www.eu-startups.com/2026/04/cambridge-based-arm-spin-out-kigen-secures-e11-5-million-to-scale-esim-cybersecurity/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: Cambridge-based Arm spin-out Kigen
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: lead investor for €11.5M April 30 round not in primary press (article
-    paywalled)
