@@ -1,1 +1,33 @@
-priority: []
+priority:
+  - slug: andreessen-horowitz
+    type: firm
+    reason: "appeared in Astranis Series E (2026-05-06)"
+    added: 2026-05-07
+  - slug: venrock
+    type: firm
+    reason: "led CellCentric Series D (2026-05-06)"
+    added: 2026-05-07
+  - slug: northzone
+    type: firm
+    reason: "appeared in XBOW Series C (2026-05-06)"
+    added: 2026-05-07
+  - slug: tcv
+    type: firm
+    reason: "led Corgi Series B (2026-05-06)"
+    added: 2026-05-07
+  - slug: y-combinator
+    type: firm
+    reason: "led Corgi Series A (2026-01-09)"
+    added: 2026-05-07
+  - slug: contrary
+    type: firm
+    reason: "participated in Corgi rounds"
+    added: 2026-05-07
+  - slug: sv-angel
+    type: firm
+    reason: "participated in Corgi rounds"
+    added: 2026-05-07
+  - slug: kanyi-maqubela
+    type: investor
+    reason: "Kindred Ventures partner; angel in Corgi Series A and B"
+    added: 2026-05-07

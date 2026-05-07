@@ -20,6 +20,185 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Astranis raised $300M Series E
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Astranis
+  parsed_amount: $300M
+  parsed_round: Series E
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by astranis.md ($300M Series E 2026-05-06 co-led by Snowpoint + Franklin
+    Templeton at $2.8B val)
+- title: CellCentric raised $220M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: CellCentric
+  parsed_amount: $220M
+  parsed_round: Series D
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by cellcentric.md ($220M Series D 2026-05-06 led by Venrock; Cambridge
+    UK biotech, multiple myeloma)
+- title: Enter raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Enter
+  parsed_amount: $100M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing/disambiguation; $100M unverified
+- title: Nyobolt raised $60M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Nyobolt
+  parsed_amount: $60M
+  parsed_round: Series C
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by nyobolt.md ($60M Series C 2026-05-06 led by Symbotic with IQ Capital,
+    Latitude, Scania, CBMM)
+- title: Zyg raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Zyg
+  parsed_amount: $60M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing/disambiguation; $60M unverified
+- title: XBOW raised $35M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: XBOW
+  parsed_amount: $35M
+  parsed_round: Series C
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by xbow.md ($35M Series C extension 2026-05-06; prior $120M Series
+    C DFJ Growth-led)
+- title: CopilotKit raised $27M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: CopilotKit
+  parsed_amount: $27M
+  parsed_round: Series A
+  status: skipped
+  skip_reason: duplicate (already covered earlier as copilotkit.md)
+- title: Lithosquare raised $25M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Lithosquare
+  parsed_amount: $25M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: duplicate (already covered earlier as lithosquare.md)
+- title: District raised $14.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: District
+  parsed_amount: $14.7M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: small ($14.7M); sector unverified
+- title: Illoca raised $13M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Illoca
+  parsed_amount: $13M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: small ($13M); sector unverified
+- title: Altara raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Altara
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: small ($7M)
+- title: Davis raised $5.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Davis
+  parsed_amount: $5.5M
+  parsed_round: null
+  status: skipped
+  skip_reason: duplicate; already skipped (couldn't verify)
+- title: Corvera raised $4.2M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Corvera
+  parsed_amount: $4.2M
+  parsed_round: Seed
+  status: skipped
+  skip_reason: small ($4.2M)
+- title: MSICS Pharma raised $3.6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: MSICS Pharma
+  parsed_amount: $3.6M
+  parsed_round: null
+  status: skipped
+  skip_reason: small ($3.6M)
+- title: Jurisphere raised $2.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Jurisphere
+  parsed_amount: $2.2M
+  parsed_round: null
+  status: skipped
+  skip_reason: small ($2.2M)
+- title: Pacific Hybreed raised $1M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Pacific Hybreed
+  parsed_amount: $1M
+  parsed_round: null
+  status: skipped
+  skip_reason: small ($1M)
+- title: Vernal Capital Acquisition raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Vernal Capital Acquisition
+  parsed_amount: $100M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC
+- title: m in stock. DFlow had raised $7.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: m in stock. DFlow had
+  parsed_amount: $7.5M
+  parsed_round: null
+  status: skipped
+  skip_reason: parsing artifact
+- title: Twin Bridge Capital Partners raised $855M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-07'
+  parsed_company: Twin Bridge Capital Partners
+  parsed_amount: $855M
+  parsed_round: null
+  status: skipped
+  skip_reason: PE fund close
 - title: 'Exclusive: Spain’s Humara raises €1.2 million to cut waste plant design
     cycles from months to days with AI SaaS'
   url: https://www.eu-startups.com/2026/05/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/
@@ -73,6 +252,17 @@ pending_rounds:
   processed: '2026-05-06'
   notes: covered by ethos.md ($22.75M Series A 2026-05-06 a16z-led; expert network
     with voice onboarding)
+- title: Insurance startup Corgi hits $1.3B valuation 4 months after its Series A
+  url: https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/
+  source: techcrunch
+  date_found: '2026-05-06'
+  parsed_company: null
+  parsed_amount: $1.3B
+  parsed_round: Series A
+  status: processed
+  processed: '2026-05-07'
+  notes: covered by corgi.md ($160M Series B 2026-05-06 TCV-led at $1.3B; insurance
+    startup)
 - title: per Axios Pro . It most recently raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -811,213 +1001,3 @@ pending_rounds:
   status: processed
   processed: '2026-04-30'
   notes: updated existing legora.md with Series D extension
-- title: Swiss semiconductor startup Mosaic SoC raises €3.2 million to bring spatial
-    intelligence to low-power devices
-  url: https://www.eu-startups.com/2026/04/swiss-semiconductor-startup-mosaic-soc-raises-e3-2-million-to-bring-spatial-intelligence-to-low-power-devices/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: Swiss semiconductor startup Mosaic SoC
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-30'
-  notes: created startup profile mosaic-soc.md; $3.8M (~€3.2M) Pre-Seed on 2026-04-30
-    led by Founderful with Kick Foundation; Zurich ETH spinout perception chips for
-    AR/wearables; founders Moritz Scherer and Alfio Di Mauro (both ETH Zurich PhDs);
-    confirmed via GlobeNewswire press release, Tech.eu, Tech Funding News (eu-startups
-    direct fetch 403); no firm slugs added (Founderful and Kick Foundation not yet
-    profiled)
-- title: SpaceX backer 137 Ventures raises $700M for two growth-stage funds
-  url: https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/
-  source: techcrunch
-  date_found: '2026-04-30'
-  parsed_company: SpaceX backer 137 Ventures
-  parsed_amount: $700M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close, not a startup funding round
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Apr. 27 – May 01)
-  url: https://www.eu-startups.com/2026/04/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-apr-27-may-01/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: weekly aggregator roundup, not a single round
-- title: Swiss BioTech startup ALP Bio raises €1.9 million to advance immune organoid
-    and AI platform
-  url: https://www.eu-startups.com/2026/04/swiss-biotech-startup-alp-bio-raises-e1-9-million-to-advance-immune-organoid-and-ai-platform/
-  source: eu-startups
-  date_found: '2026-04-30'
-  parsed_company: Swiss BioTech startup ALP Bio
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by alp-bio.md (€1.9M pre-seed led by 42CAP, 2026-04-30)
-- title: Rogo raised $160M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Rogo
-  parsed_amount: $160M
-  parsed_round: Series D
-  status: skipped
-  skip_reason: already covered by existing rogo.md (Series D 2026-04-29 led by Kleiner
-    Perkins)
-- title: Hightouch raised $150M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Hightouch
-  parsed_amount: $150M
-  parsed_round: Series D
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by hightouch.md
-- title: Netomi raised $110M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Netomi
-  parsed_amount: $110M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by netomi.md (Series C 2026-04-30 led by Accenture Ventures + WndrCo)
-- title: Legora raised $50M Series D extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Legora
-  parsed_amount: $50M
-  parsed_round: Series D Extension
-  status: skipped
-  skip_reason: duplicate of legora.md Series D Extension already covered earlier this
-    cycle
-- title: Vivacta Bio raised $50M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Vivacta Bio
-  parsed_amount: $50M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by vivacta-bio.md (Series A/A+ 2026-04-29 led by Loyal Valley Capital)
-- title: Casa raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Casa
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by casa.md (home services Casa, Series A 2026-04-30 led by Forerunner
-    Ventures)
-- title: Featherless raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Featherless
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by featherless-ai.md (Series A 2026-04-30 co-led by AMD Ventures
-    and Airbus Ventures)
-- title: Photon raised $16M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Photon
-  parsed_amount: $16M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by photon-health.md (Brooklyn pharmacy infrastructure; led by Healthier
-    Capital with Notation, Flare Capital, Evidenced)
-- title: Definity raised $12M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Definity
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by definity.md (Chicago agentic data engineering; led by GreatPoint
-    Ventures with Dynatrace, StageOne, Hyde Park)
-- title: Lighthouse Pharmaceuticals raised $12M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Lighthouse Pharmaceuticals
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by lighthouse-pharmaceuticals.md (led by Double Point Ventures, Series
-    A 2026-04-28)
-- title: Blomma raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Blomma
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by blomma.md (Felicis-led seed, 2026-04-29)
-- title: Mosaic SoC raised $3.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Mosaic SoC
-  parsed_amount: $3.8M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate of mosaic-soc.md already created
-- title: Dreambase raised $3.7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Dreambase
-  parsed_amount: $3.7M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: duplicate of dreambase.md already created
-- title: Certifyde raised $2M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Certifyde
-  parsed_amount: $2M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by certifyde.md ($2M seed co-led by K5 Global + Flamingo Capital,
-    2026-04-29)
-- title: Avalyn Pharma raised $300M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: Avalyn Pharma
-  parsed_amount: $300M
-  parsed_round: null
-  status: processed
-  processed: '2026-04-30'
-  notes: covered by avalyn-pharma.md (Seattle IPF biotech IPO + pre-IPO crossover
-    with Novo Holdings, SR One, Suvretta)
-- title: RRE Ventures Acquisition raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-04-30'
-  parsed_company: RRE Ventures Acquisition
-  parsed_amount: $250M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
