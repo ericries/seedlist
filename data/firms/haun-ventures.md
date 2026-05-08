@@ -90,7 +90,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Chaos Labs | Series A (led, $55M) | 2024-08-15 | Risk management | Active | [^9][^21][^45][^46] |
 | Commonware | Seed (co-led, $9M) | 2024-12-11 | Infrastructure | Active | [^9][^22][^49][^50] |
 | Conduit | Series A (co-led, $37M) | 2024-06-19 | L2 rollups | Active | [^9][^23][^51][^52] |
-| Ellipsis Labs | Series A (led) | 2024 | DeFi | Active | [^9][^24] |
+| Ellipsis Labs | Fast-follow (led, $21M) | 2024-10-31 | DeFi | Active | [^9][^24][^57][^58] |
 | Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |
 | Euler Labs | Series A (led) | 2022 | DeFi lending | Active | [^9][^26] |
 | Farcaster | Series A | 2024 | Social/Web3 | Acquired by Neynar | [^9][^27] |
@@ -98,7 +98,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Guardrail | Early | ~2024 | Compliance | Active | [^9] |
 | Helius | Series B (co-led, $21.75M) | 2024-09-18 | Solana dev tools | Active | [^9][^28][^55][^56] |
 | Highlight | Seed (led) | 2022 | NFT platform | Active | [^10][^9] |
-| Lighter | Series A (led) | 2024 | DeFi trading | Active | [^9][^29] |
+| Lighter | Series A (co-led, $21M) | 2024 | DeFi trading | Active | [^9][^29] |
 | Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30] |
 | Neynar | Series A | 2024 | Farcaster infra | Active | [^9][^31] |
 | OpenSea | Series C | 2022 | NFT marketplace | Active | [^9][^32] |
@@ -109,7 +109,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Taxbit | Strategic | 2022 | Crypto tax/compliance | Active | [^9][^37] |
 | The Clearing Company | Early | ~2024 | Compliance | Active | [^9] |
 | thirdweb | Series A (led) | 2022 | Web3 dev tools | Active | [^9][^38] |
-| Witness | Seed (led) | 2024 | Media/Web3 | Active | [^9][^39] |
+| Witness | Seed (led, $3.5M) | 2024-02-15 | Media/Web3 | Active | [^9][^39][^59][^60] |
 | XFX | Series A | 2026 | Stablecoins/Payments | Active | [^9][^11] |
 | Zora | Series A (led) | 2022 | NFT creation | Active | [^9][^40] |
 
@@ -159,7 +159,7 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^26]: CoinDesk, "Katie Haun's New Fund Leads $32M Round in Lending Protocol Euler," June 7, 2022. https://www.coindesk.com/business/2022/06/07/katie-hauns-new-fund-leads-32m-round-in-lending-protocol-euler
 [^27]: Unchained Crypto, "Decentralized Social Network Farcaster Raises $150 Million in a Series A Round," May 2024. https://unchainedcrypto.com/decentralized-social-network-farcaster-raises-150-million-in-a-series-a-round/
 [^28]: Helius blog, "Funding Announcement," September 2024. https://www.helius.dev/blog/funding-announcement
-[^29]: Fortune, "DeFi founder who graduated Harvard at 18 raises $68 million for crypto trading protocol Lighter," November 11, 2025. https://fortune.com/2025/11/11/lighter-fundraise-founders-fund-ribbit-capital-haun-ventures-robinhood-vladimir-novakovski/
+[^29]: Fortune, "DeFi founder who graduated Harvard at 18 raises $68 million for crypto trading protocol Lighter," November 11, 2025. https://fortune.com/2025/11/11/lighter-fundraise-founders-fund-ribbit-capital-haun-ventures-robinhood-vladimir-novakovski/ — disclosed Lighter's previously unreported 2024 round: $21M co-led by Haun Ventures and Craft Ventures with Dragonfly and Robot Ventures participating; the 2024 round was never publicly announced at the time and no specific date or month is given in any source.
 [^30]: BusinessWire, "Meanwhile, the First Regulated Bitcoin Life Insurer, Raises $82M," October 7, 2025. https://www.businesswire.com/news/home/20251007203460/en/Meanwhile-the-First-Regulated-Bitcoin-Life-Insurer-Raises-$82M-to-Meet-Strong-Demand-for-Inflation-Proof-Savings-and-Retirement-Products
 [^31]: Fortune, "Coinbase and Haun Ventures invest $11 million in Neynar, a toolbox for Web3 social networks," May 30, 2024. https://fortune.com/crypto/2024/05/30/haun-ventures-coinbase-and-a16z-invest-11-million-in-neynar-a-toolbox-for-web3-social-networks/
 [^32]: CoinDesk, "NFT Marketplace OpenSea Valued at $13.3B in $300M Funding Round," January 5, 2022. https://www.coindesk.com/business/2022/01/05/nft-marketplace-opensea-valued-at-133b-in-300m-funding-round-report
@@ -187,3 +187,7 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^54]: PRWeb, "Plume Network, a RWA Layer-2, Raises $10M in Seed Funding from Haun Ventures, Galaxy Ventures, and Others," May 23, 2024. https://www.prweb.com/releases/plume-network-a-rwa-layer-2-raises-10m-in-seed-funding-from-haun-ventures-galaxy-ventures-and-others-302153880.html — independent confirmation of date, lead, and amount.
 [^55]: Unchained Crypto, "Solana Developer Platform Helius Raises $21.75 Million in Series B Round," September 2024. https://unchainedcrypto.com/solana-developer-platform-helius-raises-21-75-million-in-series-b-round/ — confirms $21.75M Series B co-led by Haun Ventures and Founders Fund, with Foundation Capital, Chapter One, 6th Man Ventures, and Spearhead participating; announcement posted on X by CEO Mert Mumtaz Wednesday evening ET (Sept 18, 2024).
 [^56]: CMOIntern, "Helius Raises $21.75 Million in Series B to Empower Solana Developers and Drive Web3 App Adoption," September 21, 2024. https://www.cmointern.com/2024/09/helius-raises-2175-million-in-series-b.html — independent confirmation of $21.75M Series B co-led by Haun Ventures and Founders Fund; cumulative total raised reported as $31.3M.
+[^57]: Ellipsis Labs blog, "Ellipsis Labs Raises $21M Led By Haun Ventures," October 31, 2024. https://www.ellipsislabs.xyz/blog-posts/ellipsis-labs-raises-21m-led-by-haun-ventures — confirms $21M raise announced 2024-10-31 led by Haun Ventures with participation from existing investors Electric Capital, Anatoly Yakovenko, and Paradigm. Note: per CoinDesk this was a "fast-follow" to Ellipsis Labs' April 2024 Series A led by Paradigm — not itself a Series A.
+[^58]: crypto.news, "Ellipsis Labs raises $21m round led by Haun Ventures," October 31, 2024. https://crypto.news/ellipsis-labs-raises-21m-round-led-by-haun-ventures/ — independent confirmation of date, $21M amount, Haun Ventures as lead, and characterization as a follow-on rather than Series A.
+[^59]: Fortune, "Can a crypto protocol kill gas fees? The founders of Witness may have the solution," February 15, 2024. https://fortune.com/crypto/2024/02/15/witness-haun-ventures-blockchain-gas-fees-seed-funding/ — confirms 2024-02-15 announcement of $3.5M seed round led by Haun Ventures with participation from Coinbase Ventures.
+[^60]: Haun Ventures (Breck Stodghill), "Witness," February 15, 2024. https://www.haun.co/writing/witness — Haun Ventures' own announcement post confirming lead role in Witness's seed round on 2024-02-15, with Coinbase Ventures and strategic angels participating.

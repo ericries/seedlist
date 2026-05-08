@@ -11014,9 +11014,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^24]'
+  resolved: 2026-05-08
+  resolution_note: "Ellipsis Labs' $21M raise (the entry that was previously labeled 'Series A (led)' in the Haun firm portfolio) was announced 2024-10-31 led by Haun Ventures with participation from existing investors Electric Capital, Anatoly Yakovenko, and Paradigm. Per CoinDesk and crypto.news, this was characterized as a 'fast-follow' rather than a Series A — Ellipsis had already closed a $20M Series A in April 2024 led by Paradigm. Verified via 3 primary sources: Ellipsis Labs own blog post (2024-10-31), CoinDesk article (2024-10-31), crypto.news (2024-10-31). Updated Haun firm profile entry to '2024-10-31', 'Fast-follow (led, $21M)', citations [^57] Ellipsis blog, [^58] crypto.news. Also updated katie-haun investor profile portfolio row with date, amount, fast-follow designation, citation [^33]."
 - column: 5
   company: Erebor
   line: '| Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |'
@@ -11099,9 +11101,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^29]'
+  resolved: 2026-05-08
+  resolution_note: "Lighter's 2024 Series A was a $21M round co-led by Haun Ventures and Craft Ventures, with Dragonfly and Robot Ventures participating. The round was NEVER publicly announced at the time — it was disclosed retroactively by Fortune on 2025-11-11 as a 'previously unreported round' alongside Lighter's larger $68M November 2025 raise. Tracxn and Fortune both confirm the existence of the 2024 round but neither provides a specific announcement date or month. Updated the Haun firm profile entry to 'Series A (co-led, $21M)' (correcting from 'led' since Craft Ventures was a co-lead), retained year-only date '2024' since no exact date is publicly available. Updated existing citation [^29] (Fortune 2025-11-11) with detail on the 2024 round's amount and co-investors. Note: per the project's 'never guess' policy, year-only precision is the most precise verifiable date and the entry reflects that. Verified via 3 primary sources: Fortune (2025-11-11), The Block (2025-11), Tracxn profile."
 - column: 5
   company: Meanwhile
   line: '| Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30]
@@ -11204,9 +11208,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^39]'
+  resolved: 2026-05-08
+  resolution_note: "Witness's seed round was announced 2024-02-15: $3.5M led by Haun Ventures with Coinbase Ventures and strategic angels participating. The startup builds blockchain data compression infrastructure designed to reduce on-chain transaction costs by storing application data offchain with verifiable on-chain commitments. Verified via 3 primary sources: Axios (2024-02-15), Fortune Crypto (2024-02-15), Haun Ventures' own writing post by Breck Stodghill (2024-02-15). Updated Haun firm profile portfolio entry to '2024-02-15' with 'Seed (led, $3.5M)', citations [^59] Fortune, [^60] Haun Ventures writing. Also updated katie-haun investor profile portfolio row with date, amount, citation [^32] Fortune."
 - column: 5
   company: XFX
   line: '| XFX | Series A | 2026 | Stablecoins/Payments | Active | [^9][^11] |'
@@ -84729,9 +84735,11 @@ vague_facts:
   profile: investors/katie-haun
   profile_name: Katie Haun
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^11]'
+  resolved: 2026-05-08
+  resolution_note: "Resolved alongside the Haun firm entry. Witness's seed round was announced 2024-02-15: $3.5M led by Haun Ventures with Coinbase Ventures and strategic angels. Updated katie-haun portfolio table row to '2024-02-15' with 'Seed (led, $3.5M)' and added citation [^32] Fortune. See the firms/haun-ventures Witness entry for full sourcing."
 - column: 4
   company: Plume
   line: '| Plume | 2024 | Seed | RWA blockchain | [^12] |'
@@ -84789,9 +84797,11 @@ vague_facts:
   profile: investors/katie-haun
   profile_name: Katie Haun
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^17]'
+  resolved: 2026-05-08
+  resolution_note: "Resolved alongside the Haun firm entry. Ellipsis Labs' $21M raise was announced 2024-10-31 led by Haun Ventures with existing investors Electric Capital, Anatoly Yakovenko, and Paradigm. Per CoinDesk and crypto.news, this was a 'fast-follow' to the April 2024 Series A led by Paradigm. Updated katie-haun portfolio row to '2024-10-31' with 'Fast-follow (led, $21M)' and added citation [^33] Ellipsis Labs blog. See the firms/haun-ventures Ellipsis Labs entry for full sourcing."
 - column: 4
   company: Commonware
   line: '| Commonware | 2024 | Seed | Blockchain primitives | [^18] |'
@@ -144623,9 +144633,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved in tandem with the high-priority unknown_value entry. Date refined to 2024-10-31; entry now reads 'Fast-follow (led, $21M)' rather than 'Series A (led)' since this was a follow-on to Ellipsis Labs' April 2024 Series A led by Paradigm. See the high-priority Ellipsis Labs entry for full sourcing detail."
 - column: 2
   company: Erebor
   line: '| Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |'
@@ -144685,9 +144697,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Date cannot be refined past year-only. Lighter's 2024 round was never publicly announced — it was disclosed retroactively in Fortune's 2025-11-11 article as a 'previously unreported round.' No specific date or month is provided in any public source (Fortune, The Block, Tracxn). Per project policy, unresolvable date stays as '2024'. However, the entry's stage label was corrected from 'Series A (led)' to 'Series A (co-led, $21M)' since Craft Ventures co-led with Haun. See the high-priority Lighter entry for full sourcing."
 - column: 2
   company: Meanwhile
   line: '| Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30]
@@ -144756,9 +144770,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved in tandem with the high-priority unknown_value entry. Date refined to 2024-02-15; entry now reads 'Seed (led, $3.5M)' with three primary source citations (Axios, Fortune, Haun Ventures own writing). See the high-priority Witness entry for full sourcing detail."
 - column: 2
   company: XFX
   line: '| XFX | Series A | 2026 | Stablecoins/Payments | Active | [^9][^11] |'
@@ -162427,9 +162443,11 @@ vague_facts:
   profile: investors/katie-haun
   profile_name: Katie Haun
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved alongside the Haun firm entry. Date refined to 2024-02-15 with $3.5M amount and Coinbase Ventures co-investor. See the firms/haun-ventures Witness entry for full sourcing."
 - column: 1
   company: Plume
   line: '| Plume | 2024 | Seed | RWA blockchain | [^12] |'
@@ -162487,9 +162505,11 @@ vague_facts:
   profile: investors/katie-haun
   profile_name: Katie Haun
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved alongside the Haun firm entry. Date refined to 2024-10-31 with $21M amount; entry now reads 'Fast-follow (led, $21M)' since this was a follow-on to the April 2024 Series A led by Paradigm. See the firms/haun-ventures Ellipsis Labs entry for full sourcing."
 - column: 1
   company: Commonware
   line: '| Commonware | 2024 | Seed | Blockchain primitives | [^18] |'
