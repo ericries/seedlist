@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Delft-based FrostByte secures a cool €1.3 million to scale cryogenic electronics
+    for quantum computing
+  url: https://www.eu-startups.com/2026/05/delft-based-frostbyte-secures-a-cool-e1-3-million-to-scale-cryogenic-electronics-for-quantum-computing/
+  source: eu-startups
+  date_found: '2026-05-08'
+  parsed_company: Delft-based FrostByte
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK semiconductor startup Quinas Technology secures investment approval from
+    Malta Government Venture Capital
+  url: https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/
+  source: eu-startups
+  date_found: '2026-05-08'
+  parsed_company: UK semiconductor startup Quinas Technology
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Astranis raised $300M Series E
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -981,22 +999,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-01'
   notes: covered by seaport-therapeutics.md ($254.9M IPO 2026-04-30, Nasdaq SPTX)
-- title: m. Skio had raised $8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: m. Skio had
-  parsed_amount: $8M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact ("m. Skio had" — incomplete fragment)
-- title: Relentless raised $80M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Relentless
-  parsed_amount: $80M
-  parsed_round: null
-  status: skipped
-  skip_reason: Relentless is a $80M debut seed FUND by Damir Becirovic (ex-Index Ventures),
-    not a startup round
