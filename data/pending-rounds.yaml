@@ -70,7 +70,10 @@ pending_rounds:
   parsed_company: Fazeshift
   parsed_amount: $17M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-08'
+  notes: covered by fazeshift.md ($17M Series A 2026-05-07 F-Prime-led; AI-native
+    AR automation)
 - title: Develo raised $14M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -78,7 +81,9 @@ pending_rounds:
   parsed_company: Develo
   parsed_amount: $14M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-08'
+  notes: covered by develo.md ($14M Series A 2026-03-04 SEC filing; LA pediatric EMR)
 - title: Odyssey Therapeutics raised $304M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -86,7 +91,9 @@ pending_rounds:
   parsed_company: Odyssey Therapeutics
   parsed_amount: $304M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-08'
+  notes: covered by odyssey-therapeutics.md ($304M IPO + private placement 2026-05-08)
 - title: th Century Partners raised $276M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -105,6 +112,16 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: VC fund close (Restive Ventures), not startup round
+- title: 'Live only at TechCrunch Disrupt 2026: Why most founders are already behind
+    on raising a Series A in 2027'
+  url: https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/
+  source: techcrunch
+  date_found: '2026-05-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: skipped
+  skip_reason: TechCrunch Disrupt event/promo article, not a funding round
 - title: Astranis raised $300M Series E
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -987,62 +1004,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-01'
   notes: covered by sahi.md ($33M Series B 2026-04-29 led by Accel)
-- title: Moleculent raised $26M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Moleculent
-  parsed_amount: $26M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by moleculent.md ($20M April 2026 round led by Rubicon Healthcare;
-    Axios $26M figure was the June 2024 Series A by ARCH)
-- title: Fence raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Fence
-  parsed_amount: $20M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by fence.md ($20M Series A 2026-04-29 led by Galaxy Ventures)
-- title: Chord raised $7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Chord
-  parsed_amount: $7M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by chord.md
-- title: Belo raised $14M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Belo
-  parsed_amount: $14M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by belo.md ($14M Series A 2026-04-29 led by Tether)
-- title: CH4 Natural Solutions Acquisition raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: CH4 Natural Solutions Acquisition
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
-- title: Quantum Leap Acquisition raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Quantum Leap Acquisition
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
