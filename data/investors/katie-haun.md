@@ -120,17 +120,17 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 | Agora | 2024-05-01 | Seed (led, $5M) | Protocol governance | [^10][^25] |
 | Witness | 2024-02-15 | Seed (led, $3.5M) | Blockchain data compression | [^11][^32] |
 | Plume | 2024-05-23 | Seed (led, $10M) | RWA blockchain | [^12][^28][^29] |
-| Neynar | 2024 | Series A | Farcaster developer platform | [^13] |
+| Neynar | 2024-05-30 | Series A (co-led, $11M) | Farcaster developer platform | [^13] |
 | Conduit | 2024-06-19 | Series A (co-led, $37M) | Rollup infrastructure | [^14][^26] |
 | Helius | 2024-09-18 | Series B (co-led, $21.75M) | Solana developer platform | [^15][^30][^31] |
 | Chaos Labs | 2024 | Series A | DeFi risk oracles | [^16] |
 | Ellipsis Labs | 2024-10-31 | Fast-follow (led, $21M) | Verifiable finance chain | [^17][^33] |
 | Commonware | 2024-12-11 | Seed (co-led, $9M) | Blockchain primitives | [^18][^27] |
 | BVNK | 2024 | Series B | Stablecoin payments | [^19] |
-| Farcaster | ~2022-2023 | Seed/Series A | Decentralized social | [^8] |
+| Farcaster | 2024-05-21 | Series A ($150M, $1B val.) | Decentralized social | [^8][^34] |
 | Finisterra | 2025 | Seed | Decentralized data marketplace | [^20] |
 | XFX | 2025 | Seed | Crypto-native FX | [^21] |
-| Squads | 2025 | Growth | Programmable money (Solana) | [^22] |
+| Squads | 2025-05-14 | Strategic (Altitude launch) | Programmable money (Solana) | [^22] |
 | Meanwhile | 2025 | Growth | Bitcoin-denominated insurance | [^23] |
 | Erebor | 2026 | Series B | OCC-chartered bank (AI/defense/crypto) | [^24] |
 
@@ -257,3 +257,4 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 [^32]: Fortune, "Can a crypto protocol kill gas fees? The founders of Witness may have the solution," February 15, 2024, accessed May 2026. https://fortune.com/crypto/2024/02/15/witness-haun-ventures-blockchain-gas-fees-seed-funding/ — confirms Witness's $3.5M seed round announced 2024-02-15, led by Haun Ventures with Coinbase Ventures participating.
 
 [^33]: Ellipsis Labs blog, "Ellipsis Labs Raises $21M Led By Haun Ventures," October 31, 2024, accessed May 2026. https://www.ellipsislabs.xyz/blog-posts/ellipsis-labs-raises-21m-led-by-haun-ventures — confirms $21M raise announced 2024-10-31 led by Haun Ventures with existing investors Electric Capital, Anatoly Yakovenko, and Paradigm participating. Per CoinDesk, this was a "fast-follow" to Ellipsis Labs' April 2024 Series A led by Paradigm.
+[^34]: CoinDesk, "Farcaster, Blockchain-Based Social Media Startup, Raises $150M, Led by Paradigm," May 21, 2024, accessed May 2026. https://www.coindesk.com/tech/2024/05/21/farcaster-blockchain-based-social-media-startup-raises-150m-led-by-paradigm — confirms Farcaster's $150M Series A announced 2024-05-21 led by Paradigm at $1B valuation, with Haun Ventures, a16z crypto, USV, Variant, and Standard Crypto participating.

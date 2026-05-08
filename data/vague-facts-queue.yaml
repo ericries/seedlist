@@ -11048,9 +11048,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^27]'
+  resolved: 2026-05-08
+  resolution_note: "Farcaster announced its $150M Series A on 2024-05-21, led by Paradigm at a $1B valuation with Haun Ventures, a16z crypto, USV, Variant, and Standard Crypto participating. Verified via three primary/contemporaneous sources: CoinDesk (2024-05-21), TechCrunch (2024-05-21), and SiliconANGLE (2024-05-21, which also confirms $1B valuation and $180M cumulative funding); plus existing footnote ^27 Unchained Crypto. Haun firm portfolio entry updated to '2024-05-21' with 'Series A ($150M, $1B val.)' and added citations [^61] CoinDesk and [^62] SiliconANGLE."
 - column: 5
   company: Fireblocks
   line: '| Fireblocks | Secondary | 2024 | Custody/infra | Active | [^9][^20] |'
@@ -11124,9 +11126,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^31]'
+  resolved: 2026-05-08
+  resolution_note: "Neynar announced its $11M Series A on 2024-05-30, co-led by Haun Ventures and Union Square Ventures with participation from a16z CSX and Coinbase Ventures. Verified via three primary sources: Fortune (2024-05-30, existing ^31), Neynar's own blog post (whose body confirms the $11M from Haun and USV with a16z CSX and Coinbase Ventures), and Haun Ventures' own writing post by Breck Stodghill announcing the lead role alongside USV. Haun firm portfolio entry updated to '2024-05-30' with 'Series A (co-led, $11M)' and added citations [^63] Neynar blog and [^64] Haun Ventures writing post."
 - column: 5
   company: OpenSea
   line: '| OpenSea | Series C | 2022 | NFT marketplace | Active | [^9][^32] |'
@@ -11166,9 +11170,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^35]'
+  resolved: 2026-05-08
+  resolution_note: "Squads announced its strategic investment from Haun Ventures alongside the Altitude (enterprise stablecoin account) launch on 2025-05-14. Investment amount was not disclosed. Verified via three primary/contemporaneous sources: Blockworks (existing ^35), Squads' own announcement blog post, and Odaily news (2025-05-15) confirming the launch and strategic investment. The April 2026 follow-on $18M round led by Solana Ventures (with Haun Ventures participating) cross-references the prior 'May last year' Haun investment, further confirming May 2025. Haun firm portfolio entry updated to '2025-05-14' with 'Strategic (Altitude launch)' and added citations [^65] Squads blog and [^66] Odaily."
 - column: 5
   company: Superstate
   line: '| Superstate | Series B | 2026 | Tokenized funds | Active | [^9][^36] |'

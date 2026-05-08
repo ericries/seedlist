@@ -93,18 +93,18 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Ellipsis Labs | Fast-follow (led, $21M) | 2024-10-31 | DeFi | Active | [^9][^24][^57][^58] |
 | Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |
 | Euler Labs | Series A (led) | 2022 | DeFi lending | Active | [^9][^26] |
-| Farcaster | Series A | 2024 | Social/Web3 | Acquired by Neynar | [^9][^27] |
+| Farcaster | Series A ($150M, $1B val.) | 2024-05-21 | Social/Web3 | Acquired by Neynar | [^9][^27][^61][^62] |
 | Fireblocks | Secondary | 2024 | Custody/infra | Active | [^9][^20] |
 | Guardrail | Early | ~2024 | Compliance | Active | [^9] |
 | Helius | Series B (co-led, $21.75M) | 2024-09-18 | Solana dev tools | Active | [^9][^28][^55][^56] |
 | Highlight | Seed (led) | 2022 | NFT platform | Active | [^10][^9] |
 | Lighter | Series A (co-led, $21M) | 2024 | DeFi trading | Active | [^9][^29] |
 | Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30] |
-| Neynar | Series A | 2024 | Farcaster infra | Active | [^9][^31] |
+| Neynar | Series A (co-led, $11M) | 2024-05-30 | Farcaster infra | Active | [^9][^31][^63][^64] |
 | OpenSea | Series C | 2022 | NFT marketplace | Active | [^9][^32] |
 | Plume | Seed (led, $10M) | 2024-05-23 | RWA blockchain | Active | [^9][^33][^53][^54] |
 | Sovereign Labs | Seed (led) | 2023 | ZK rollups | Active | [^9][^34] |
-| Squads | Strategic | 2025 | Solana tools | Active | [^9][^35] |
+| Squads | Strategic (Altitude launch) | 2025-05-14 | Solana tools | Active | [^9][^35][^65][^66] |
 | Superstate | Series B | 2026 | Tokenized funds | Active | [^9][^36] |
 | Taxbit | Strategic | 2022 | Crypto tax/compliance | Active | [^9][^37] |
 | The Clearing Company | Early | ~2024 | Compliance | Active | [^9] |
@@ -191,3 +191,9 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^58]: crypto.news, "Ellipsis Labs raises $21m round led by Haun Ventures," October 31, 2024. https://crypto.news/ellipsis-labs-raises-21m-round-led-by-haun-ventures/ — independent confirmation of date, $21M amount, Haun Ventures as lead, and characterization as a follow-on rather than Series A.
 [^59]: Fortune, "Can a crypto protocol kill gas fees? The founders of Witness may have the solution," February 15, 2024. https://fortune.com/crypto/2024/02/15/witness-haun-ventures-blockchain-gas-fees-seed-funding/ — confirms 2024-02-15 announcement of $3.5M seed round led by Haun Ventures with participation from Coinbase Ventures.
 [^60]: Haun Ventures (Breck Stodghill), "Witness," February 15, 2024. https://www.haun.co/writing/witness — Haun Ventures' own announcement post confirming lead role in Witness's seed round on 2024-02-15, with Coinbase Ventures and strategic angels participating.
+[^61]: CoinDesk, "Farcaster, Blockchain-Based Social Media Startup, Raises $150M, Led by Paradigm," May 21, 2024. https://www.coindesk.com/tech/2024/05/21/farcaster-blockchain-based-social-media-startup-raises-150m-led-by-paradigm — confirms 2024-05-21 announcement, $150M Series A led by Paradigm with a16z crypto, Haun Ventures, USV, Variant, and Standard Crypto participating.
+[^62]: SiliconANGLE, "Farcaster secures $150M to expand decentralized social networking features," May 21, 2024. https://siliconangle.com/2024/05/21/farcaster-secures-150m-epxand-decentralized-social-networking-features/ — independent confirmation of 2024-05-21 announcement, $150M raise at $1B valuation, lead Paradigm with Haun Ventures among participants; cumulative funding reported as $180M.
+[^63]: Neynar blog, "Neynar raises $14M to build technology stack for social protocols," May 30, 2024. https://neynar.com/blog/series-a-fundraise-announcement — Neynar's own announcement; article body specifies $11M Series A from Haun Ventures and Union Square Ventures with participation from a16z CSX and Coinbase Ventures.
+[^64]: Haun Ventures (Breck Stodghill), "Neynar," May 30, 2024. https://www.haun.co/writing/neynar — Haun Ventures' announcement post confirming lead role in Neynar's Series A alongside USV, with a16z CSX and Coinbase Ventures participating.
+[^65]: Squads, "Introducing Altitude & a Strategic Investment from Haun Ventures," May 14, 2025. https://squads.xyz/blog/introducing-altitude-and-a-strategic-investment-from-haun-ventures — Squads' own announcement of the Altitude launch and Haun Ventures strategic investment; amount undisclosed.
+[^66]: Odaily, "Squads launches enterprise-level stablecoin account service Altitude and has received strategic investment from Haun Ventures," May 15, 2025. https://www.odaily.news/en/newsflash/430725 — independent confirmation; reports Squads' Altitude launch and Haun Ventures strategic investment; specific investment amount not disclosed.
