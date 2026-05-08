@@ -10879,9 +10879,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^12]'
+  resolved: 2026-05-08
+  resolution_note: "Agora (DAO governance platform, ex-Coinbase founders) raised $5M seed announced 2024-05-01, led by Haun Ventures with participation from Coinbase Ventures, Seed Club, Consensys Ventures, Balaji Srinivasan, Packy McCormick. Verified via Fortune (2024-05-01), TechCrunch (2024-05-01), Haun Ventures' own writing page. Updated portfolio entry to '2024-05-01' with $5M and 'led' designation; corrected sector tag from 'Governance/Stablecoins' to 'DAO governance' (this is governance Agora, not stablecoin Agora — note inferred-thesis section was also corrected). Added citations [^47] Fortune, [^48] Haun Ventures writing. Also updated katie-haun investor profile portfolio entry with new date and citation [^25]."
 - column: 5
   company: Aleo
   line: '| Aleo | Series B ext. | 2022 | Privacy blockchain | Active | [^3][^13] |'
@@ -10988,9 +10990,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^22]'
+  resolved: 2026-05-08
+  resolution_note: "Commonware (founded by ex-Ava Labs VP of Engineering Patrick O'Grady) raised $9M seed announced 2024-12-11, co-led by Haun Ventures (Breck Stodghill) and Dragonfly Capital, with angel participation from Kevin Sekniqi (Avalanche), Smokey the Bera (Berachain), Zaki Manian (Cosmos), Sreeram Kannan (EigenLayer), Dan Romero (Farcaster), Mert Mumtaz (Helius). Verified via Haun Ventures own writing page (2024-12-11), PANews (2024-12-11), btw.media. Updated portfolio entry to '2024-12-11' with $9M; added citations [^49] Haun Ventures writing, [^50] PANews. Also updated katie-haun investor profile portfolio entry with new date, amount, and citation [^27]."
 - column: 5
   company: Conduit
   line: '| Conduit | Series A (co-led) | 2024 | L2 rollups | Active | [^9][^23] |'
@@ -10998,9 +11002,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^23]'
+  resolved: 2026-05-08
+  resolution_note: "Conduit (L2 rollup-as-a-service) raised $37M Series A announced 2024-06-19 (date per Conduit's own blog post), co-led by Paradigm and Haun Ventures (Chris Ahn), with Robot Ventures, Credibly Neutral, Coinbase Ventures, Bankless Ventures, plus 35+ angels including Hayden Adams, Tim Beiko, Uma Roy, Yi Sun. Chris Ahn (Haun) and Georgios Konstantopoulos (Paradigm) joined Conduit's board. Verified via Conduit blog (2024-06-19), blocmates news, Haun Ventures own writing. Note: secondary aggregators report dates ranging June 19-30; Conduit's own blog dated 2024-06-19 is treated as authoritative. Updated Haun portfolio entry to '2024-06-19' with $37M; added citations [^51] Conduit blog, [^52] blocmates. Also updated Paradigm firm profile (added Conduit row to portfolio table with citations [^30][^31]) and katie-haun investor profile (new date, amount, citation [^26])."
 - column: 5
   company: Ellipsis Labs
   line: '| Ellipsis Labs | Series A (led) | 2024 | DeFi | Active | [^9][^24] |'

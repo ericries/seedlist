@@ -97,6 +97,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Phantom | Series B | 2022 | Crypto Wallet | [^22] |
 | Blur | Seed | 2022 | NFT Marketplace | [^23] |
 | Monad | Series A (Led) | 2024-04-09 | L1 Blockchain | [^7] |
+| Conduit | Series A (co-led, $37M) | 2024-06-19 | L2 rollups | [^30][^31] |
 | Farcaster | Series A | 2024 | Social/Crypto | [^24] |
 | Nous Research | Series A | 2025 | AI/Open Source | [^25] |
 | Tempo | Incubation | 2025 | Blockchain Payments | [^26] |
@@ -152,3 +153,5 @@ No additional independently sourced founder testimonials found from third-party 
 [^28]: SiliconANGLE, "On-demand GPU startup Andromeda raises funding at $1.5B valuation," March 18, 2026, accessed April 2026. https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation/
 
 [^29]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale
+[^30]: Conduit blog, "Announcing Conduit's $37M Series A led by Paradigm and Haun Ventures," June 19, 2024, accessed May 2026. https://www.conduit.xyz/blog/conduit-series-a/
+[^31]: blocmates, "Conduit Raises $37 Million in Series A Round Led by Paradigm, Haun Ventures," June 2024, accessed May 2026. https://www.blocmates.com/news-posts/conduit-raises-37-million-in-series-a-round-led-by-paradigm-haun-ventures

@@ -117,15 +117,15 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 | Sovereign Labs | 2023 | Seed | Blockchain scaling | [^9] |
 | Argus | 2023 | Seed | Web3 gaming | [^8] |
 | Superstate | ~2023 | Series A | Tokenized funds | [^8] |
-| Agora | 2024 | Seed | Protocol governance | [^10] |
+| Agora | 2024-05-01 | Seed (led, $5M) | Protocol governance | [^10][^25] |
 | Witness | 2024 | Seed | Blockchain data compression | [^11] |
 | Plume | 2024 | Seed | RWA blockchain | [^12] |
 | Neynar | 2024 | Series A | Farcaster developer platform | [^13] |
-| Conduit | 2024 | Series A | Rollup infrastructure | [^14] |
+| Conduit | 2024-06-19 | Series A (co-led, $37M) | Rollup infrastructure | [^14][^26] |
 | Helius | 2024 | Growth | Solana developer platform | [^15] |
 | Chaos Labs | 2024 | Series A | DeFi risk oracles | [^16] |
 | Ellipsis Labs | 2024 | Early | Verifiable finance chain | [^17] |
-| Commonware | 2024 | Seed | Blockchain primitives | [^18] |
+| Commonware | 2024-12-11 | Seed (co-led, $9M) | Blockchain primitives | [^18][^27] |
 | BVNK | 2024 | Series B | Stablecoin payments | [^19] |
 | Farcaster | ~2022-2023 | Seed/Series A | Decentralized social | [^8] |
 | Finisterra | 2025 | Seed | Decentralized data marketplace | [^20] |
@@ -239,3 +239,9 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 [^23]: Haun Ventures (Chris Ahn), "Meanwhile," October 7, 2025. https://haun.co/writing/meanwhile
 
 [^24]: Haun Ventures (Diogo Mónica), "Erebor," February 8, 2026. https://haun.co/writing/erebor
+
+[^25]: Fortune, "Ex-Coinbase designer raises $5M for crypto voting service Agora," May 1, 2024, accessed May 2026. https://fortune.com/crypto/2024/05/01/ex-coinbase-designer-raises-5m-for-crypto-voting-service-agora/
+
+[^26]: Conduit blog, "Announcing Conduit's $37M Series A led by Paradigm and Haun Ventures," June 19, 2024, accessed May 2026. https://www.conduit.xyz/blog/conduit-series-a/
+
+[^27]: PANews, "Blockchain company Commonware completes $9 million financing, led by Haun Ventures and Dragonfly Capital," December 11, 2024, accessed May 2026. https://www.panewslab.com/en/articles/og7fcbnk

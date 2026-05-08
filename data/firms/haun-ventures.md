@@ -62,7 +62,7 @@ On market positioning, Haun has said: "We are in the dial-up days and the critic
 
 Based on 34 verified portfolio companies from the firm's public portfolio page [^9]:
 
-**Sector breakdown:** The portfolio is entirely crypto/Web3-focused. By sub-sector: DeFi and financial protocols (Euler Labs, Ellipsis Labs, Lighter, Erebor, Meanwhile — 5 of 34, 15%), blockchain infrastructure and L1/L2 (Aptos Labs, Aleo, Conduit, Commonware, Sovereign Labs, Plume — 6 of 34, 18%), stablecoin/payments infrastructure (BVNK, Bridge, Agora, XFX — 4 of 34, 12%), developer tools and data (Helius, thirdweb, Chainalysis, Fireblocks, Taxbit, Squads — 6 of 34, 18%), NFT/social/consumer (Zora, OpenSea, Autograph, Farcaster, Neynar, Highlight, Witness — 7 of 34, 21%), compliance and security (Guardrail, The Clearing Company, Chaos Labs, Argus — 4 of 34, 12%), other (Bitwise, Superstate — 2 of 34, 6%).
+**Sector breakdown:** The portfolio is entirely crypto/Web3-focused. By sub-sector: DeFi and financial protocols (Euler Labs, Ellipsis Labs, Lighter, Erebor, Meanwhile — 5 of 34, 15%), blockchain infrastructure and L1/L2 (Aptos Labs, Aleo, Conduit, Commonware, Sovereign Labs, Plume — 6 of 34, 18%), stablecoin/payments infrastructure (BVNK, Bridge, XFX — 3 of 34, 9%), DAO/governance tooling (Agora — 1 of 34, 3%), developer tools and data (Helius, thirdweb, Chainalysis, Fireblocks, Taxbit, Squads — 6 of 34, 18%), NFT/social/consumer (Zora, OpenSea, Autograph, Farcaster, Neynar, Highlight, Witness — 7 of 34, 21%), compliance and security (Guardrail, The Clearing Company, Chaos Labs, Argus — 4 of 34, 12%), other (Bitwise, Superstate — 2 of 34, 6%).
 
 **Stage distribution:** The dual-fund structure ($500M early-stage + $1B acceleration) suggests roughly one-third of capital goes to early-stage and two-thirds to later-stage. However, by deal count, early-stage investments appear more numerous.
 
@@ -78,7 +78,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Agora | Seed | 2024 | Governance/Stablecoins | Active | [^9][^12] |
+| Agora | Seed (led, $5M) | 2024-05-01 | DAO governance | Active | [^9][^12][^47][^48] |
 | Aleo | Series B ext. | 2022 | Privacy blockchain | Active | [^3][^13] |
 | Aptos Labs | Series A | 2022 | L1 blockchain | Active | [^9][^14] |
 | Argus | Seed | 2023 | Web3 gaming | Active | [^9][^15] |
@@ -88,8 +88,8 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | BVNK | Series B (led, $50M) | 2024-12-17 | Stablecoin infra | Active | [^9][^19][^43][^44] |
 | Chainalysis | Secondary | 2024 | Blockchain analytics | Active | [^9][^20] |
 | Chaos Labs | Series A (led, $55M) | 2024-08-15 | Risk management | Active | [^9][^21][^45][^46] |
-| Commonware | Seed (co-led) | 2024 | Infrastructure | Active | [^9][^22] |
-| Conduit | Series A (co-led) | 2024 | L2 rollups | Active | [^9][^23] |
+| Commonware | Seed (co-led, $9M) | 2024-12-11 | Infrastructure | Active | [^9][^22][^49][^50] |
+| Conduit | Series A (co-led, $37M) | 2024-06-19 | L2 rollups | Active | [^9][^23][^51][^52] |
 | Ellipsis Labs | Series A (led) | 2024 | DeFi | Active | [^9][^24] |
 | Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |
 | Euler Labs | Series A (led) | 2022 | DeFi lending | Active | [^9][^26] |
@@ -177,3 +177,9 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^44]: FinSMEs, "BVNK Raises $50M in Series B Funding," December 2024. https://www.finsmes.com/2024/12/bvnk-raises-50m-in-series-b-funding.html
 [^45]: Chaos Labs blog, "Chaos Labs Secures $55M in Series A Funding," August 15, 2024. https://chaoslabs.xyz/posts/chaos-labs-series-a-announcement
 [^46]: Crowdfund Insider, "Chaos Labs Celebrates $55M Series A," August 19, 2024. https://www.crowdfundinsider.com/2024/08/228984-chaos-labs-celebrates-55m-series-a/
+[^47]: Fortune, "Ex-Coinbase designer raises $5M for crypto voting service Agora," May 1, 2024. https://fortune.com/crypto/2024/05/01/ex-coinbase-designer-raises-5m-for-crypto-voting-service-agora/
+[^48]: Haun Ventures website, "Writing — Agora," May 1, 2024, accessed May 2026. https://www.haun.co/writing/agora
+[^49]: Haun Ventures website, "Writing — Commonware," December 11, 2024, accessed May 2026. https://www.haun.co/writing/commonware
+[^50]: PANews, "Blockchain company Commonware completes $9 million financing, led by Haun Ventures and Dragonfly Capital," December 11, 2024. https://www.panewslab.com/en/articles/og7fcbnk
+[^51]: Conduit blog, "Announcing Conduit's $37M Series A led by Paradigm and Haun Ventures," June 19, 2024. https://www.conduit.xyz/blog/conduit-series-a/
+[^52]: blocmates, "Conduit Raises $37 Million in Series A Round Led by Paradigm, Haun Ventures," June 2024. https://www.blocmates.com/news-posts/conduit-raises-37-million-in-series-a-round-led-by-paradigm-haun-ventures
