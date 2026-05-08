@@ -11077,9 +11077,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^28]'
+  resolved: 2026-05-08
+  resolution_note: "Helius (Solana developer infrastructure) Series B announced 2024-09-18 (Wednesday evening ET, posted on X by CEO Mert Mumtaz): $21.75M co-led by Haun Ventures (Breck Stodghill) and Founders Fund, with Foundation Capital, Chapter One, 6th Man Ventures, and Spearhead participating. Cumulative total raised reached $31.3M. Verified via 3 primary/secondary sources: Helius official blog (2024-09-18), Unchained Crypto (Sept 2024), CMOIntern (2024-09-21). Updated Haun firm profile portfolio entry to '2024-09-18' with $21.75M and 'co-led' designation; added citations [^55] Unchained Crypto, [^56] CMOIntern. Also updated katie-haun investor profile portfolio entry with date, amount, Series B stage, and citations [^30] Unchained, [^31] Helius blog."
 - column: 5
   company: Highlight
   line: '| Highlight | Seed (led) | 2022 | NFT platform | Active | [^10][^9] |'
@@ -11138,9 +11140,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^33]'
+  resolved: 2026-05-08
+  resolution_note: "Plume Network (RWA Layer-2) seed round announced 2024-05-23: $10M led by Haun Ventures with participation from Galaxy Ventures, Superscrypt, A Capital, SV Angel, Portal Ventures, Reciprocal Ventures, and angel investors from Wormhole, EigenLayer, Sei, Mechanism, and Centrifuge. Verified via 3 primary sources: CoinDesk (2024-05-23), Chainwire press release (2024-05-23), PRWeb (2024-05-23). Updated Haun firm profile portfolio entry to '2024-05-23' with $10M and 'led' designation; added citations [^53] Chainwire, [^54] PRWeb. Also updated katie-haun investor profile portfolio entry with date, amount, and citations [^28] CoinDesk, [^29] Chainwire."
 - column: 5
   company: Sovereign Labs
   line: '| Sovereign Labs | Seed (led) | 2023 | ZK rollups | Active | [^9][^34] |'

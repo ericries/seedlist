@@ -11,7 +11,7 @@ founders:
   role: Co-Founder
 fund_size: $500K per company (standard deal); previously $700M Continuity Fund (wound
   down 2023)
-last_researched: 2026-04-30
+last_researched: 2026-05-08
 location: San Francisco, CA
 name: Y Combinator
 sector_focus:
@@ -292,6 +292,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Legora | W24 | 2024 | AI / Legal Tech | Private ($5.55B) [^28][^30] |
 | Avoca | W23 | 2023 | AI / Vertical SaaS / Services Economy | Private ($1B) [^32][^33] |
 | Corgi | S24 | 2024 | Insurtech / AI | Private ($1.3B) [^34][^35] |
+| Fazeshift | S24 | 2024 | AI / Finance Ops / Vertical SaaS | Private (Series A) [^36][^37] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -426,3 +427,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^34]: PR Newswire, "Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups," January 9, 2026. https://www.prnewswire.com/news-releases/corgi-insurance-raises-108-million-receives-regulatory-approval-to-launch-the-first-full-stack-insurance-carrier-for-startups-302657727.html — Corgi (S24 batch; founders Nico Laqua, CEO, and Emily Yuan, COO) announced a $108M Series A co-led by Y Combinator and Kindred Ventures at a $630M valuation on January 9, 2026. Participants: Contrary, Oliver Jung, Glade Brook Capital Partners, Seven Stars, Leblon Capital, Fellows Fund, Alumni Ventures, Quadri Ventures, Vocal Ventures, Phosphor Capital, SV Angel, Tekedia Capital. Cross-referenced with Sacra, "Corgi revenue, funding & news," accessed May 2026. https://sacra.com/c/corgi/ ($108M co-led by YC and Kindred) and Tekedia, "Tekedia Capital Portfolio Startup, Corgi, Raises $108M at $630M Valuation," accessed May 2026. https://www.tekedia.com/tekedia-capital-portfolio-startup-corgi-raises-108m-at-630m-valuation/ ($630M valuation, January 8, 2026 announcement).
 
 [^35]: "Corgi Insurance: Corgi is building an AI financial infrastructure company," Y Combinator company directory. https://www.ycombinator.com/companies/corgi-insurance. Accessed May 2026. (Listed as Spring 2024 / S24 batch; founders Nico Laqua and Emily Yuan.)
+
+[^36]: Crunchbase News, "Exclusive: Fazeshift Scores $17M As Investors Bet On AI-Powered Finance Ops, Starting With Accounts Receivable," May 7, 2026. https://news.crunchbase.com/fintech/fazeshift-accounts-receivable-ai-finance-ops-startup-funding/ — Fazeshift (S24 batch) announced a $17M Series A on May 7, 2026, led by F-Prime Capital with participation from Gradient Ventures (Google), Y Combinator, Wayfinder Ventures, Pioneer Fund, Ritual Capital, and angel investors. Founded 2023 by Caitlin Leksana (CEO) and Timmy Galvin (CTO); the company launched out of YC's Summer 2024 cohort. Cross-referenced with BusinessWire, "Fazeshift Raises $22M to Power the Future of Autonomous Finance," May 7, 2026, https://www.businesswire.com/news/home/20260507212601/en/Fazeshift-Raises-$22M-to-Power-the-Future-of-Autonomous-Finance, and FinSMEs, "Fazeshift Raises $17M in Series A Funding," May 7, 2026, https://www.finsmes.com/2026/05/fazeshift-raises-17m-in-series-a-funding.html.
+
+[^37]: "Fazeshift," Y Combinator company directory. https://www.ycombinator.com/companies/fazeshift. Accessed May 2026. (Listed as Summer 2024 / S24 batch; founders Caitlin Leksana and Timmy Galvin; founded 2023.)

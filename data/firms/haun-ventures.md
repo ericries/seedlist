@@ -96,13 +96,13 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Farcaster | Series A | 2024 | Social/Web3 | Acquired by Neynar | [^9][^27] |
 | Fireblocks | Secondary | 2024 | Custody/infra | Active | [^9][^20] |
 | Guardrail | Early | ~2024 | Compliance | Active | [^9] |
-| Helius | Series B (co-led) | 2024 | Solana dev tools | Active | [^9][^28] |
+| Helius | Series B (co-led, $21.75M) | 2024-09-18 | Solana dev tools | Active | [^9][^28][^55][^56] |
 | Highlight | Seed (led) | 2022 | NFT platform | Active | [^10][^9] |
 | Lighter | Series A (led) | 2024 | DeFi trading | Active | [^9][^29] |
 | Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30] |
 | Neynar | Series A | 2024 | Farcaster infra | Active | [^9][^31] |
 | OpenSea | Series C | 2022 | NFT marketplace | Active | [^9][^32] |
-| Plume | Seed (led) | 2024 | RWA blockchain | Active | [^9][^33] |
+| Plume | Seed (led, $10M) | 2024-05-23 | RWA blockchain | Active | [^9][^33][^53][^54] |
 | Sovereign Labs | Seed (led) | 2023 | ZK rollups | Active | [^9][^34] |
 | Squads | Strategic | 2025 | Solana tools | Active | [^9][^35] |
 | Superstate | Series B | 2026 | Tokenized funds | Active | [^9][^36] |
@@ -183,3 +183,7 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^50]: PANews, "Blockchain company Commonware completes $9 million financing, led by Haun Ventures and Dragonfly Capital," December 11, 2024. https://www.panewslab.com/en/articles/og7fcbnk
 [^51]: Conduit blog, "Announcing Conduit's $37M Series A led by Paradigm and Haun Ventures," June 19, 2024. https://www.conduit.xyz/blog/conduit-series-a/
 [^52]: blocmates, "Conduit Raises $37 Million in Series A Round Led by Paradigm, Haun Ventures," June 2024. https://www.blocmates.com/news-posts/conduit-raises-37-million-in-series-a-round-led-by-paradigm-haun-ventures
+[^53]: Chainwire (press release distribution), "Plume Network, a RWA Layer-2, Raises $10M in Seed Funding from Haun Ventures, Galaxy Ventures, and Others," May 23, 2024. https://chainwire.org/2024/05/23/plume-network-a-rwa-layer-2-raises-10m-in-seed-funding-from-haun-ventures-galaxy-ventures-and-others/ — confirms $10M seed announced 2024-05-23, led by Haun Ventures with Galaxy Ventures, Superscrypt, A Capital, SV Angel, Portal Ventures, Reciprocal Ventures, plus angel investors from Wormhole, EigenLayer, Sei, Mechanism, and Centrifuge.
+[^54]: PRWeb, "Plume Network, a RWA Layer-2, Raises $10M in Seed Funding from Haun Ventures, Galaxy Ventures, and Others," May 23, 2024. https://www.prweb.com/releases/plume-network-a-rwa-layer-2-raises-10m-in-seed-funding-from-haun-ventures-galaxy-ventures-and-others-302153880.html — independent confirmation of date, lead, and amount.
+[^55]: Unchained Crypto, "Solana Developer Platform Helius Raises $21.75 Million in Series B Round," September 2024. https://unchainedcrypto.com/solana-developer-platform-helius-raises-21-75-million-in-series-b-round/ — confirms $21.75M Series B co-led by Haun Ventures and Founders Fund, with Foundation Capital, Chapter One, 6th Man Ventures, and Spearhead participating; announcement posted on X by CEO Mert Mumtaz Wednesday evening ET (Sept 18, 2024).
+[^56]: CMOIntern, "Helius Raises $21.75 Million in Series B to Empower Solana Developers and Drive Web3 App Adoption," September 21, 2024. https://www.cmointern.com/2024/09/helius-raises-2175-million-in-series-b.html — independent confirmation of $21.75M Series B co-led by Haun Ventures and Founders Fund; cumulative total raised reported as $31.3M.

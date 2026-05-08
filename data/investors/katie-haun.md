@@ -119,10 +119,10 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 | Superstate | ~2023 | Series A | Tokenized funds | [^8] |
 | Agora | 2024-05-01 | Seed (led, $5M) | Protocol governance | [^10][^25] |
 | Witness | 2024 | Seed | Blockchain data compression | [^11] |
-| Plume | 2024 | Seed | RWA blockchain | [^12] |
+| Plume | 2024-05-23 | Seed (led, $10M) | RWA blockchain | [^12][^28][^29] |
 | Neynar | 2024 | Series A | Farcaster developer platform | [^13] |
 | Conduit | 2024-06-19 | Series A (co-led, $37M) | Rollup infrastructure | [^14][^26] |
-| Helius | 2024 | Growth | Solana developer platform | [^15] |
+| Helius | 2024-09-18 | Series B (co-led, $21.75M) | Solana developer platform | [^15][^30][^31] |
 | Chaos Labs | 2024 | Series A | DeFi risk oracles | [^16] |
 | Ellipsis Labs | 2024 | Early | Verifiable finance chain | [^17] |
 | Commonware | 2024-12-11 | Seed (co-led, $9M) | Blockchain primitives | [^18][^27] |
@@ -245,3 +245,11 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 [^26]: Conduit blog, "Announcing Conduit's $37M Series A led by Paradigm and Haun Ventures," June 19, 2024, accessed May 2026. https://www.conduit.xyz/blog/conduit-series-a/
 
 [^27]: PANews, "Blockchain company Commonware completes $9 million financing, led by Haun Ventures and Dragonfly Capital," December 11, 2024, accessed May 2026. https://www.panewslab.com/en/articles/og7fcbnk
+
+[^28]: CoinDesk, "Plume, Layer-2 Blockchain for Real-World Assets, Pulls $10M in Seed Funding from Haun, Galaxy," May 23, 2024, accessed May 2026. https://www.coindesk.com/tech/2024/05/23/plume-layer-2-blockchain-for-real-world-assets-pulls-10m-in-seed-funding-from-haun-galaxy
+
+[^29]: Chainwire, "Plume Network, a RWA Layer-2, Raises $10M in Seed Funding from Haun Ventures, Galaxy Ventures, and Others," May 23, 2024, accessed May 2026. https://chainwire.org/2024/05/23/plume-network-a-rwa-layer-2-raises-10m-in-seed-funding-from-haun-ventures-galaxy-ventures-and-others/
+
+[^30]: Unchained Crypto, "Solana Developer Platform Helius Raises $21.75 Million in Series B Round," September 2024, accessed May 2026. https://unchainedcrypto.com/solana-developer-platform-helius-raises-21-75-million-in-series-b-round/
+
+[^31]: Helius blog, "Funding Announcement," September 18, 2024, accessed May 2026. https://www.helius.dev/blog/funding-announcement
