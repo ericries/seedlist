@@ -1000,15 +1000,3 @@ pending_rounds:
   status: skipped
   skip_reason: Relentless is a $80M debut seed FUND by Damir Becirovic (ex-Index Ventures),
     not a startup round
-- title: 'The Week’s 10 Biggest Funding Rounds: Defense Tech Leads With Multiple Large
-    Deals, Topped By $600M For Space Security Startup True Anomaly'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-defense-aerospace-ai-fintech/
-  source: crunchbase
-  date_found: '2026-05-01'
-  parsed_company: null
-  parsed_amount: $600M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: True Anomaly Series D actually $650M (not $600M); covered by true-anomaly.md
-    (Series D 2026-04-28 led by Acme Capital with Paradigm and Menlo Ventures)
