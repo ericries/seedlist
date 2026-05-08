@@ -20,24 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Delft-based FrostByte secures a cool €1.3 million to scale cryogenic electronics
-    for quantum computing
-  url: https://www.eu-startups.com/2026/05/delft-based-frostbyte-secures-a-cool-e1-3-million-to-scale-cryogenic-electronics-for-quantum-computing/
-  source: eu-startups
-  date_found: '2026-05-08'
-  parsed_company: Delft-based FrostByte
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK semiconductor startup Quinas Technology secures investment approval from
-    Malta Government Venture Capital
-  url: https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/
-  source: eu-startups
-  date_found: '2026-05-08'
-  parsed_company: UK semiconductor startup Quinas Technology
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
     for businesses and profitable for producers
   url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
@@ -46,7 +28,9 @@ pending_rounds:
   parsed_company: Copenhagen’s Reel
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-08'
+  notes: covered by reel.md (€15M Series A 2026-05-07 Future Energy Ventures-led)
 - title: London’s Kohort raises €6 million Series A to build AI user acquisition agents
     for mobile game studios
   url: https://www.eu-startups.com/2026/05/londons-kohort-raises-e6-million-series-a-to-build-ai-user-acquisition-agents-for-mobile-game-studios/
@@ -55,7 +39,30 @@ pending_rounds:
   parsed_company: London’s Kohort
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-08'
+  notes: covered by kohort.md (€6M / $7M Series A 2026-05-07 Raine Group-led)
+- title: Delft-based FrostByte secures a cool €1.3 million to scale cryogenic electronics
+    for quantum computing
+  url: https://www.eu-startups.com/2026/05/delft-based-frostbyte-secures-a-cool-e1-3-million-to-scale-cryogenic-electronics-for-quantum-computing/
+  source: eu-startups
+  date_found: '2026-05-08'
+  parsed_company: Delft-based FrostByte
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €1.3M Delft quantum pre-seed below typical Seedlist threshold
+- title: UK semiconductor startup Quinas Technology secures investment approval from
+    Malta Government Venture Capital
+  url: https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/
+  source: eu-startups
+  date_found: '2026-05-08'
+  parsed_company: UK semiconductor startup Quinas Technology
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: vague "investment approval" headline (Malta govt VC); amount/round
+    unclear
 - title: Fazeshift raised $17M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -87,7 +94,8 @@ pending_rounds:
   parsed_company: th Century Partners
   parsed_amount: $276M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: PE fund (parsing fragment "th Century Partners")
 - title: Restive Ventures raised $45M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -95,7 +103,8 @@ pending_rounds:
   parsed_company: Restive Ventures
   parsed_amount: $45M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund close (Restive Ventures), not startup round
 - title: Astranis raised $300M Series E
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -989,3 +998,51 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by moleculent.md ($20M April 2026 round led by Rubicon Healthcare;
     Axios $26M figure was the June 2024 Series A by ARCH)
+- title: Fence raised $20M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Fence
+  parsed_amount: $20M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by fence.md ($20M Series A 2026-04-29 led by Galaxy Ventures)
+- title: Chord raised $7M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Chord
+  parsed_amount: $7M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by chord.md
+- title: Belo raised $14M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Belo
+  parsed_amount: $14M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-05-01'
+  notes: covered by belo.md ($14M Series A 2026-04-29 led by Tether)
+- title: CH4 Natural Solutions Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: CH4 Natural Solutions Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC
+- title: Quantum Leap Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-01'
+  parsed_company: Quantum Leap Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: skipped
+  skip_reason: SPAC
