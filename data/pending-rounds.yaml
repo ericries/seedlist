@@ -122,6 +122,25 @@ pending_rounds:
   parsed_round: Series A
   status: skipped
   skip_reason: TechCrunch Disrupt event/promo article, not a funding round
+- title: 'The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech
+    Top The Ranks'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/
+  source: crunchbase
+  date_found: '2026-05-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: weekly aggregator (Sierra/Astranis/Anagram already covered separately)
+- title: The AlleyWatch April 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/05/new-york-venture-capital-april-2026/
+  source: alleywatch
+  date_found: '2026-05-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: monthly NYC aggregator/trend report
 - title: Astranis raised $300M Series E
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -984,23 +1003,3 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by standard-intelligence.md (Series A 2026-04-30 co-led by Sequoia
     + Spark Capital, AI lab)
-- title: Versana raised $43M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Versana
-  parsed_amount: $43M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by versana.md ($43M growth round 2026-04-30 led by BNP Paribas)
-- title: Sahi raised $33M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Sahi
-  parsed_amount: $33M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by sahi.md ($33M Series B 2026-04-29 led by Accel)
