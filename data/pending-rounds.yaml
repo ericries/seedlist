@@ -38,6 +38,64 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
+    for businesses and profitable for producers
+  url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
+  source: eu-startups
+  date_found: '2026-05-08'
+  parsed_company: Copenhagen’s Reel
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Kohort raises €6 million Series A to build AI user acquisition agents
+    for mobile game studios
+  url: https://www.eu-startups.com/2026/05/londons-kohort-raises-e6-million-series-a-to-build-ai-user-acquisition-agents-for-mobile-game-studios/
+  source: eu-startups
+  date_found: '2026-05-08'
+  parsed_company: London’s Kohort
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Fazeshift raised $17M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-08'
+  parsed_company: Fazeshift
+  parsed_amount: $17M
+  parsed_round: Series A
+  status: pending
+- title: Develo raised $14M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-08'
+  parsed_company: Develo
+  parsed_amount: $14M
+  parsed_round: null
+  status: pending
+- title: Odyssey Therapeutics raised $304M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-08'
+  parsed_company: Odyssey Therapeutics
+  parsed_amount: $304M
+  parsed_round: null
+  status: pending
+- title: th Century Partners raised $276M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-08'
+  parsed_company: th Century Partners
+  parsed_amount: $276M
+  parsed_round: null
+  status: pending
+- title: Restive Ventures raised $45M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-08'
+  parsed_company: Restive Ventures
+  parsed_amount: $45M
+  parsed_round: null
+  status: pending
 - title: Astranis raised $300M Series E
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -931,71 +989,3 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by moleculent.md ($20M April 2026 round led by Rubicon Healthcare;
     Axios $26M figure was the June 2024 Series A by ARCH)
-- title: Fence raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Fence
-  parsed_amount: $20M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by fence.md ($20M Series A 2026-04-29 led by Galaxy Ventures)
-- title: Chord raised $7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Chord
-  parsed_amount: $7M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by chord.md
-- title: Belo raised $14M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Belo
-  parsed_amount: $14M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by belo.md ($14M Series A 2026-04-29 led by Tether)
-- title: CH4 Natural Solutions Acquisition raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: CH4 Natural Solutions Acquisition
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
-- title: Quantum Leap Acquisition raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Quantum Leap Acquisition
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC
-- title: Hemab Therapeutics raised $302M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Hemab Therapeutics
-  parsed_amount: $302M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by hemab-therapeutics.md ($301.5M IPO 2026-04-30, Nasdaq COAG)
-- title: Seaport Therapeutics raised $255M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Seaport Therapeutics
-  parsed_amount: $255M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by seaport-therapeutics.md ($254.9M IPO 2026-04-30, Nasdaq SPTX)
