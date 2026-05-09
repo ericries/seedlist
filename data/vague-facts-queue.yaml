@@ -146363,9 +146363,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2024-10-30. $20M seed round led by Madrona Ventures, with participation from DUMAC, Sahsen Ventures, WRF Capital, Pack Ventures, Alexandria Venture Investments, and Cornucopian Capital. Verified via three primary sources: Business Wire press release (October 30, 2024), TechCrunch coverage (October 30, 2024), and Cooley LLP announcement (October 30, 2024)."
 - column: 2
   company: Cofactory
   line: '| Cofactory | Seed | 2024 | AI & Intelligent Apps | Active [^5] |'
@@ -146427,9 +146429,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2025-02-26. Round corrected from Seed to Series A. $10M Series A led by Madrona Venture Group, with participation from General Catalyst, Bloomberg Beta, Operator Partners, and Secure Octane. Anagram (formerly Cipher; New York-based; founder Harley Sugarman) is a cybersecurity awareness training platform, distinct from Anagram Therapeutics biotech. Verified via three primary sources: Business Wire press release (Feb 26, 2025), TechCrunch (Feb 26, 2025), and Madrona blog 'Investing in Anagram: The Future of Human Security'."
 - column: 2
   company: Atomic
   line: '| Atomic | Seed | 2025 | Enterprise Apps | Active [^5] |'
@@ -146457,9 +146461,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2025-07-22 and round corrected from Seed to Series A. Madrona did NOT participate in the Charta Health seed round. The earlier $8.1M seed (March 3, 2025) was led by Bain Capital Ventures with SV Angel, South Park Commons, SpringRock Ventures, and Refract Ventures — Madrona is not listed in any seed-round source. Madrona joined the $22M Series A on July 22, 2025, also led by Bain Capital Ventures, with SV Angel, Refract Ventures, and South Park Commons. Total raised across both rounds: $30.1M. Verified via three primary sources: Madrona blog announcement (July 22, 2025), Charta Health press release (July 22, 2025), and Fierce Healthcare coverage."
 - column: 2
   company: Clarify
   line: '| Clarify | Seed | 2025 | Enterprise Apps | Active [^5] |'

@@ -153,16 +153,16 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Codified | Seed | 2023 | Security | Active [^5] |
 | CovenantIQ | Seed | 2023 | Enterprise Apps | Active [^5] |
 | Aizen Therapeutics | Seed | 2024-11-21 | AI-Enabled Biotech | Active ($13M, led by Madrona) [^5][^31][^32] |
-| Archon Biosciences | Seed | 2024 | AI-Enabled Biotech | Active [^5] |
+| Archon Biosciences | Seed | 2024-10-30 | AI-Enabled Biotech | Active ($20M, led by Madrona) [^5][^36][^37][^38] |
 | Cofactory | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
 | Cohesity | Acceleration | 2024-04-11 | Data & Infrastructure | Active (Series F, $150M, IBM/Nvidia strategic, $7B valuation) [^5][^33][^34] |
 | Direct Travel | Acceleration | 2024 | Enterprise Apps | Active [^5] |
 | EdgeRunner AI | Seed | 2024-07-18 | AI & Intelligent Apps | Active ($5.5M, led by Four Rivers Group) [^5][^35] |
 | Finpilot | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
-| Anagram | Seed | 2025 | Security | Active [^5] |
+| Anagram | Series A | 2025-02-26 | Security | Active ($10M, led by Madrona) [^5][^39][^40][^41] |
 | Atomic | Seed | 2025 | Enterprise Apps | Active [^5] |
 | Axiom | Seed | 2025 | AI & Intelligent Apps | Active [^5] |
-| Charta Health | Seed | 2025 | AI-Enabled Biotech | Active [^5] |
+| Charta Health | Series A | 2025-07-22 | AI-Enabled Biotech | Active ($22M, led by Bain Capital Ventures; Madrona participated) [^5][^42][^43][^44] |
 | Clarify | Seed | 2025 | Enterprise Apps | Active [^5] |
 | DOSS | Seed | 2025 | Enterprise Apps | Active [^5] |
 | Dropzone AI | Seed | 2025 | Security | Active [^5] |
@@ -246,3 +246,12 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^33]: SiliconANGLE, "Cohesity completes late-stage $150M funding from IBM and Nvidia, expands IBM partnership," April 11, 2024, accessed April 2026. https://siliconangle.com/2024/04/11/cohesity-completes-late-stage-funding-ibm-nvidia-expands-ibm-partnership/
 [^34]: StorageNewsletter, "IBM Invests in Cohesity for Series F Financing of $150 Million," April 12, 2024, accessed April 2026. https://www.storagenewsletter.com/2024/04/12/ibm-invests-in-cohesity-for-series-f-financing-of-150-million/
 [^35]: Business Wire, "EdgeRunner AI Emerges from Stealth with $5.5M Seed Funding to Build Generative AI for the Edge," July 18, 2024, accessed April 2026. https://www.businesswire.com/news/home/20240718441467/en/EdgeRunner-AI-Emerges-from-Stealth-with-$5.5M-Seed-Funding-to-Build-Generative-AI-for-the-Edge
+[^36]: Business Wire, "Archon Biosciences Emerges from Stealth to Advance a New Class of Biologic Invented in Nobel Prize-Winning Computational Protein Design Lab," October 30, 2024, accessed April 2026. https://www.businesswire.com/news/home/20241030051029/en/Archon-Biosciences-Emerges-from-Stealth-to-Advance-a-New-Class-of-Biologic-Invented-in-Nobel-Prize-Winning-Computational-Protein-Design-Lab
+[^37]: TechCrunch, "Archon emerges from stealth with $20M and 'antibody cages' to power up drug development," October 30, 2024, accessed April 2026. https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/
+[^38]: Cooley, "Archon Biosciences Announces $20 Million Seed Financing," October 30, 2024, accessed April 2026. https://www.cooley.com/news/coverage/2024/2024-10-30-archon-biosciences-announces-20-million-seed-financing
+[^39]: Business Wire, "Anagram Announces Series A to Transform Human Security in the AI Era," February 26, 2025, accessed April 2026. https://www.businesswire.com/news/home/20250226234594/en/Anagram-Announces-Series-A-to-Transform-Human-Security-in-the-AI-Era
+[^40]: TechCrunch, "Anagram takes a gamified approach to employee cybersecurity training," February 26, 2025, accessed April 2026. https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/
+[^41]: Madrona Venture Group, "Investing in Anagram: The Future of Human Security," February 2025, accessed April 2026. https://www.madrona.com/investing-in-anagram-the-future-of-human-security/
+[^42]: Madrona Venture Group, "Charting Healthcare's AI Transformation: Investing in Charta Health," July 22, 2025, accessed April 2026. https://www.madrona.com/charting-healthcares-ai-transformation-investing-in-charta-health/
+[^43]: Charta Health, "Charta Health raises $22M Series A," July 22, 2025, accessed April 2026. https://www.chartahealth.com/resources/series-a
+[^44]: Fierce Healthcare, "Charta Health picks up $22M to revamp manual chart review with AI," July 2025, accessed April 2026. https://www.fiercehealthcare.com/health-tech/charta-health-picks-22m-automated-chart-review
