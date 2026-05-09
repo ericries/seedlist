@@ -146351,9 +146351,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved to 2024-11-21. $13M seed round led by Madrona Venture Group, with participation from Wilson Hill and Cercano Management. Verified via three primary sources: Madrona blog announcement (madrona.com/investing-in-aizen/), PR Newswire press release (prnewswire.com 302312237), and Crunchbase funding round profile."
 - column: 2
   company: Archon Biosciences
   line: '| Archon Biosciences | Seed | 2024 | AI-Enabled Biotech | Active [^5] |'
@@ -146381,9 +146383,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved to 2024-04-11. $150M Series F (Acceleration Fund participation) with IBM and Nvidia as new strategic investors; existing investors Sequoia, SoftBank Vision Fund, Premji Invest, and Madrona also participated. Valuation $7B. Verified via three primary sources: SiliconANGLE (April 11, 2024), StorageNewsletter (April 12, 2024), and Madrona blog (madrona.com/investing-in-cohesity-a-journey-of-conviction-and-vision/)."
 - column: 2
   company: Direct Travel
   line: '| Direct Travel | Acceleration | 2024 | Enterprise Apps | Active [^5] |'
@@ -146401,9 +146405,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Resolved to 2024-07-18. $5.5M seed round led by Four Rivers Group with participation from Madrona Ventures and strategic angels. Verified via three primary sources: Business Wire press release (July 18, 2024, ID 20240718441467), BigDATAwire/HPCwire coverage, and Intelligent CIO North America (July 29, 2024)."
 - column: 2
   company: Finpilot
   line: '| Finpilot | Seed | 2024 | AI & Intelligent Apps | Active [^5] |'

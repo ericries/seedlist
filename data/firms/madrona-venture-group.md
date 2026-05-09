@@ -152,12 +152,12 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Clerk | Seed | 2023 | Developer Platforms & Tools | Active [^5] |
 | Codified | Seed | 2023 | Security | Active [^5] |
 | CovenantIQ | Seed | 2023 | Enterprise Apps | Active [^5] |
-| Aizen Therapeutics | Seed | 2024 | AI-Enabled Biotech | Active [^5] |
+| Aizen Therapeutics | Seed | 2024-11-21 | AI-Enabled Biotech | Active ($13M, led by Madrona) [^5][^31][^32] |
 | Archon Biosciences | Seed | 2024 | AI-Enabled Biotech | Active [^5] |
 | Cofactory | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
-| Cohesity | Acceleration | 2024 | Data & Infrastructure | Active [^5] |
+| Cohesity | Acceleration | 2024-04-11 | Data & Infrastructure | Active (Series F, $150M, IBM/Nvidia strategic, $7B valuation) [^5][^33][^34] |
 | Direct Travel | Acceleration | 2024 | Enterprise Apps | Active [^5] |
-| EdgeRunner AI | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
+| EdgeRunner AI | Seed | 2024-07-18 | AI & Intelligent Apps | Active ($5.5M, led by Four Rivers Group) [^5][^35] |
 | Finpilot | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
 | Anagram | Seed | 2025 | Security | Active [^5] |
 | Atomic | Seed | 2025 | Enterprise Apps | Active [^5] |
@@ -241,3 +241,8 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^28]: Madrona Venture Group, "Steve Singh," accessed March 2026. https://www.madrona.com/team-profiles/steve-singh/
 [^29]: Madrona Venture Group, "Introducing Madrona's Acceleration Fund," 2019. https://www.madrona.com/madrona-acceleration-fund/
 [^30]: GeekWire, "Data visualization all-stars unveil Ridge AI with $2.6M to fix the analytics problem for SaaS apps," April 2026. https://www.geekwire.com/2026/data-visualization-all-stars-unveil-ridge-ai-with-2-6m-to-fix-the-analytics-problem-for-saas-apps/
+[^31]: Madrona Venture Group, "Investing in Aizen Therapeutics: Unlocking New Therapeutic Frontiers with AI-Driven Peptide Design," November 2024, accessed April 2026. https://www.madrona.com/investing-in-aizen/
+[^32]: PR Newswire, "Aizen Therapeutics advances Mirror Peptides as new drug class," November 21, 2024, accessed April 2026. https://www.prnewswire.com/news-releases/aizen-therapeutics-advances-mirror-peptides-as-new-drug-class-302312237.html
+[^33]: SiliconANGLE, "Cohesity completes late-stage $150M funding from IBM and Nvidia, expands IBM partnership," April 11, 2024, accessed April 2026. https://siliconangle.com/2024/04/11/cohesity-completes-late-stage-funding-ibm-nvidia-expands-ibm-partnership/
+[^34]: StorageNewsletter, "IBM Invests in Cohesity for Series F Financing of $150 Million," April 12, 2024, accessed April 2026. https://www.storagenewsletter.com/2024/04/12/ibm-invests-in-cohesity-for-series-f-financing-of-150-million/
+[^35]: Business Wire, "EdgeRunner AI Emerges from Stealth with $5.5M Seed Funding to Build Generative AI for the Edge," July 18, 2024, accessed April 2026. https://www.businesswire.com/news/home/20240718441467/en/EdgeRunner-AI-Emerges-from-Stealth-with-$5.5M-Seed-Funding-to-Build-Generative-AI-for-the-Edge
