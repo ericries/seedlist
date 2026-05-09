@@ -146375,9 +146375,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-09
+  resolution_note: "Unresolvable. Cofactory (San Francisco-based B2A marketing/AI search platform; Madrona portfolio AI & Intelligent Apps) has no formal funding announcement. Available secondary aggregators (Crunchbase, Tracxn, Startup Intros) report a single ~$2M pre-seed/seed round dated January 2024, but no press release, no Madrona blog post, and no contemporaneous tech press coverage was found to confirm an exact YYYY-MM-DD. Three independent primary sources required by the Fact Specificity protocol could not be assembled — only one aggregator-level date claim. Per 'when in doubt, leave it out,' leaving the firm-profile entry as 2024 rather than guessing a month/day."
 - column: 2
   company: Cohesity
   line: '| Cohesity | Acceleration | 2024 | Data & Infrastructure | Active [^5] |'
@@ -146441,9 +146443,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2025-04-15. $3M seed round co-led by DVx Ventures and Madrona Ventures for Atomic, an agentic-AI supply chain / inventory planning platform founded by ex-Tesla operations leaders Michael Rossiter and Neal Suidan (built inside DVx Ventures). Disambiguated from other companies named Atomic — confirmed enterprise-apps supply chain AI matches the Madrona Companies page tag. Verified via three primary sources: GlobeNewswire press release (April 15, 2025), TechCrunch (April 15, 2025, 'Former Tesla supply chain leaders create Atomic, an AI inventory solution'), and VCAOnline coverage (April 15, 2025). Matt McIlwain (Madrona) quoted: 'Atomic has keen insight into a huge business challenge—and is solving it with AI to deliver tangible, immediate results.'"
 - column: 2
   company: Axiom
   line: '| Axiom | Seed | 2025 | AI & Intelligent Apps | Active [^5] |'
@@ -146493,9 +146497,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2025-07-28 and round corrected from Seed to Series B. Madrona did NOT participate in Dropzone AI's seed round (August 2023, $3.5M led by Decibel Partners) or its Series A (April 2024, $16.85M led by Theory Ventures). Madrona's documented first investment in Dropzone AI is the Series B announced July 28, 2025 — $37M led by Theory Ventures, with Madrona Ventures, Decibel Ventures, Pioneer Square Labs, and IQT (In-Q-Tel) participating. Madrona partner Vivek Ramaswami quoted on the round. Madrona's blog post notes a longstanding relationship with founder Edward Wu dating to ExtraHop Networks. Verified via three primary sources: Business Wire press release (July 28, 2025), GeekWire coverage (July 28, 2025), and Madrona blog 'Redefining the SOC: Why Dropzone AI Is Leading the AI Agent Revolution.'"
 - column: 2
   company: Entire
   line: '| Entire | Seed | 2025 | Developer Platforms & Tools | Active [^5] |'

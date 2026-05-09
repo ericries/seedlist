@@ -160,12 +160,12 @@ The following table represents 55 of approximately 269 active and exited portfol
 | EdgeRunner AI | Seed | 2024-07-18 | AI & Intelligent Apps | Active ($5.5M, led by Four Rivers Group) [^5][^35] |
 | Finpilot | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
 | Anagram | Series A | 2025-02-26 | Security | Active ($10M, led by Madrona) [^5][^39][^40][^41] |
-| Atomic | Seed | 2025 | Enterprise Apps | Active [^5] |
+| Atomic | Seed | 2025-04-15 | Enterprise Apps | Active ($3M, co-led by DVx Ventures and Madrona) [^5][^45][^46][^47] |
 | Axiom | Seed | 2025 | AI & Intelligent Apps | Active [^5] |
 | Charta Health | Series A | 2025-07-22 | AI-Enabled Biotech | Active ($22M, led by Bain Capital Ventures; Madrona participated) [^5][^42][^43][^44] |
 | Clarify | Seed | 2025 | Enterprise Apps | Active [^5] |
 | DOSS | Seed | 2025 | Enterprise Apps | Active [^5] |
-| Dropzone AI | Seed | 2025 | Security | Active [^5] |
+| Dropzone AI | Series B | 2025-07-28 | Security | Active ($37M, led by Theory Ventures; Madrona participated) [^5][^48][^49][^50] |
 | Entire | Seed | 2025 | Developer Platforms & Tools | Active [^5] |
 | Fyxer AI | Seed | 2025 | Enterprise Apps | Active [^5] |
 | Runway | Early | ~2022 | AI & Intelligent Apps | Active [^4] |
@@ -255,3 +255,9 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^42]: Madrona Venture Group, "Charting Healthcare's AI Transformation: Investing in Charta Health," July 22, 2025, accessed April 2026. https://www.madrona.com/charting-healthcares-ai-transformation-investing-in-charta-health/
 [^43]: Charta Health, "Charta Health raises $22M Series A," July 22, 2025, accessed April 2026. https://www.chartahealth.com/resources/series-a
 [^44]: Fierce Healthcare, "Charta Health picks up $22M to revamp manual chart review with AI," July 2025, accessed April 2026. https://www.fiercehealthcare.com/health-tech/charta-health-picks-22m-automated-chart-review
+[^45]: GlobeNewswire, "Ex-Tesla Operations Leaders Launch Atomic, Raise $3M Seed to Revolutionize Supply Chain Planning with Agentic AI," April 15, 2025, accessed April 2026. https://www.globenewswire.com/news-release/2025/04/15/3062055/0/en/Ex-Tesla-Operations-Leaders-Launch-Atomic-Raise-3M-Seed-to-Revolutionize-Supply-Chain-Planning-with-Agentic-AI.html
+[^46]: TechCrunch, "Former Tesla supply chain leaders create Atomic, an AI inventory solution," April 15, 2025, accessed April 2026. https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/
+[^47]: VCAOnline, "Ex-Tesla Operations Leaders Launch Atomic, Raise $3M Seed to Revolutionize Supply Chain Planning with Agentic AI," April 15, 2025, accessed April 2026. https://www.vcaonline.com/news/2025041513/ex-tesla-operations-leaders-launch-atomic-raise-3m-seed-to-revolutionize-supply-chain-planning-with-agentic-ai/
+[^48]: Business Wire, "Dropzone AI Secures $37M Series B, Putting AI Security Analysts on the Front Lines of Cyber Battlefield," July 28, 2025, accessed April 2026. https://www.businesswire.com/news/home/20250728037575/en/Dropzone-AI-Secures-$37M-Series-B-Putting-AI-Security-Analysts-on-the-Front-Lines-of-Cyber-Battlefield
+[^49]: GeekWire, "Seattle startup Dropzone AI raises $37M to supercharge its 'AI SOC analyst' security software," July 28, 2025, accessed April 2026. https://www.geekwire.com/2025/seattle-startup-dropzone-raises-37m-to-supercharge-its-ai-soc-analyst-security-software/
+[^50]: Madrona Venture Group, "Redefining the SOC: Why Dropzone AI Is Leading the AI Agent Revolution," July 2025, accessed April 2026. https://www.madrona.com/redefining-the-soc-why-dropzone-is-leading-the-ai-agent-revolution/
