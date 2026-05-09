@@ -146421,9 +146421,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2024-02-22. $4M seed round led by Madrona, with Ascend.vc and angels from leading hedge funds participating. Finpilot is a Seattle-based AI co-pilot for financial analysts, co-founded by Lakshay Chauhan and John Alberg, applying generative AI to research SEC filings, call transcripts, and research reports. Verified via three primary sources: Madrona blog 'Our Investment in Finpilot' (Feb 22, 2024), Business Wire press release (Feb 22, 2024), and GeekWire coverage (February 2024). Crunchbase records the round at the same date and amount."
 - column: 2
   company: Anagram
   line: '| Anagram | Seed | 2025 | Security | Active [^5] |'
@@ -146477,9 +146479,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2025-06-25 and round corrected from Seed to Series A. Clarify (legal entity Dover) is the AI-native autonomous CRM founded January 2024 by Patrick Thompson (ex-Iteratively, Amplitude), Austin Hay (ex-Ramp head of MarTech), and Ondrej Hrebicek (ex-Iteratively, Amplitude). The company raised $22.5M total across two rounds; the Series A announced June 25, 2025 was $15M, co-led by USVP and Gradient Ventures, with participation from Madrona, Recall, Ascend, Essence, New Normal Fund, and Fika. Madrona partner Tim Porter is the lead at Madrona. While secondary aggregators reference an undisclosed Q1 2024 seed round, no primary source confirmed Madrona's participation in the seed; Madrona's verified investment is the Series A. Verified via three primary sources: Madrona blog 'The Autonomous CRM Has Arrived: Why We Invested in Clarify' (June 25, 2025), WebWire press release (June 25, 2025), and Ascend.vc 'Investing in Clarify.' GeekWire and the official Clarify announcement both confirm the $15M Series A figure."
 - column: 2
   company: DOSS
   line: '| DOSS | Seed | 2025 | Enterprise Apps | Active [^5] |'
@@ -146519,9 +146523,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-09
+  resolution_note: "Resolved to 2025-09-10 and round corrected from Seed to Series B. Fyxer AI is a UK-founded AI email/productivity assistant from brothers Richard and Archie Hollingsworth with CTO Matt Ffrench (incorporated October 2023). Madrona did NOT participate in Fyxer's earlier $10M Series A (March 17, 2025) led by 20VC at a ~$60M post-money valuation, with Marc Benioff, Marcelo Claure, David Singleton, Lenny Rachitsky, and Nico Rosberg participating. Madrona's verified first investment is the $30M Series B announced September 10, 2025, led by Madrona with Lakestar Capital, 20VC, 20Growth, and Marc Benioff participating. Karan Mehandru is the lead Madrona partner. The company hit $10M ARR in six months by then. Verified via three primary sources: Fyxer blog 'Announcing our $30M Series B' (Sept 10, 2025), The SaaS News (Sept 10, 2025), and Madrona blog 'How Fyxer Built AI Productivity Tools and Meetings and Hit $10M ARR in 6 Months.' Sifted and EU-Startups confirm the same Series B amount, lead, and date."
 - column: 2
   company: Aurascape AI
   line: '| Aurascape AI | Seed | ~2025 | AI/Cybersecurity | Active [^7] |'

@@ -158,16 +158,16 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Cohesity | Acceleration | 2024-04-11 | Data & Infrastructure | Active (Series F, $150M, IBM/Nvidia strategic, $7B valuation) [^5][^33][^34] |
 | Direct Travel | Acceleration | 2024 | Enterprise Apps | Active [^5] |
 | EdgeRunner AI | Seed | 2024-07-18 | AI & Intelligent Apps | Active ($5.5M, led by Four Rivers Group) [^5][^35] |
-| Finpilot | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
+| Finpilot | Seed | 2024-02-22 | AI & Intelligent Apps | Active ($4M, led by Madrona; Ascend.vc participated) [^5][^51][^52][^53] |
 | Anagram | Series A | 2025-02-26 | Security | Active ($10M, led by Madrona) [^5][^39][^40][^41] |
 | Atomic | Seed | 2025-04-15 | Enterprise Apps | Active ($3M, co-led by DVx Ventures and Madrona) [^5][^45][^46][^47] |
 | Axiom | Seed | 2025 | AI & Intelligent Apps | Active [^5] |
 | Charta Health | Series A | 2025-07-22 | AI-Enabled Biotech | Active ($22M, led by Bain Capital Ventures; Madrona participated) [^5][^42][^43][^44] |
-| Clarify | Seed | 2025 | Enterprise Apps | Active [^5] |
+| Clarify | Series A | 2025-06-25 | Enterprise Apps | Active ($15M, co-led by USVP and Gradient Ventures; Madrona participated) [^5][^54][^55][^56] |
 | DOSS | Seed | 2025 | Enterprise Apps | Active [^5] |
 | Dropzone AI | Series B | 2025-07-28 | Security | Active ($37M, led by Theory Ventures; Madrona participated) [^5][^48][^49][^50] |
 | Entire | Seed | 2025 | Developer Platforms & Tools | Active [^5] |
-| Fyxer AI | Seed | 2025 | Enterprise Apps | Active [^5] |
+| Fyxer AI | Series B | 2025-09-10 | Enterprise Apps | Active ($30M, led by Madrona; Lakestar Capital, 20VC, 20Growth participated) [^5][^57][^58][^59] |
 | Runway | Early | ~2022 | AI & Intelligent Apps | Active [^4] |
 | Temporal | Seed | 2020 | Developer Platforms & Tools | Active [^23] |
 | Ridge AI | Pre-Seed | 2026 | AI & Intelligent Apps | Active [^30] |
@@ -261,3 +261,12 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^48]: Business Wire, "Dropzone AI Secures $37M Series B, Putting AI Security Analysts on the Front Lines of Cyber Battlefield," July 28, 2025, accessed April 2026. https://www.businesswire.com/news/home/20250728037575/en/Dropzone-AI-Secures-$37M-Series-B-Putting-AI-Security-Analysts-on-the-Front-Lines-of-Cyber-Battlefield
 [^49]: GeekWire, "Seattle startup Dropzone AI raises $37M to supercharge its 'AI SOC analyst' security software," July 28, 2025, accessed April 2026. https://www.geekwire.com/2025/seattle-startup-dropzone-raises-37m-to-supercharge-its-ai-soc-analyst-security-software/
 [^50]: Madrona Venture Group, "Redefining the SOC: Why Dropzone AI Is Leading the AI Agent Revolution," July 2025, accessed April 2026. https://www.madrona.com/redefining-the-soc-why-dropzone-is-leading-the-ai-agent-revolution/
+[^51]: Madrona Venture Group, "Our Investment in Finpilot: Reimagining the Financial Analyst's Journey With AI," February 22, 2024, accessed May 2026. https://www.madrona.com/finpilot-reimagining-the-financial-analysts-journey-with-ai/
+[^52]: Business Wire, "Finpilot Raises $4 million for Finance Specific AI Model that Reimagines the Financial Analyst's Journey," February 22, 2024, accessed May 2026. https://www.businesswire.com/news/home/20240222100404/en/Finpilot-Raises-$4-million-for-Finance-Specific-AI-Model-that-Reimagines-the-Financial-Analysts-Journey
+[^53]: GeekWire, "Finpilot, a Seattle startup using generative AI to help financial analysts with research, raises $4M," February 2024, accessed May 2026. https://www.geekwire.com/2024/finpilot-a-seattle-startup-using-generative-ai-to-help-financial-analysts-with-research-raises-4m/
+[^54]: Madrona Venture Group, "The Autonomous CRM Has Arrived: Why We Invested in Clarify," June 25, 2025, accessed May 2026. https://www.madrona.com/the-autonomous-crm-has-arrived-why-we-invested-in-clarify/
+[^55]: WebWire, "Clarify Raises $22.5M to Expand the World's First Autonomous CRM," June 25, 2025, accessed May 2026. https://www.webwire.com/ViewPressRel.asp?aId=340242
+[^56]: Ascend.vc, "Investing in Clarify," 2025, accessed May 2026. https://www.ascend.vc/blog/investing-in-clarify
+[^57]: Fyxer, "Announcing our $30M Series B: Predicting your next email," September 10, 2025, accessed May 2026. https://www.fyxer.com/blog/series-b-statement
+[^58]: The SaaS News, "Fyxer Raises $30 Million in Series B," September 10, 2025, accessed May 2026. https://www.thesaasnews.com/news/fyxer-raises-30-million-in-series-b
+[^59]: Madrona Venture Group, "How Fyxer Built AI Productivity Tools and Meetings and Hit $10M ARR in 6 Months," September 2025, accessed May 2026. https://www.madrona.com/fyxer-ai-productivity-tools-for-email-and-meetings/
