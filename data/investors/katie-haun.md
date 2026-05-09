@@ -50,7 +50,7 @@ The firm publicly describes its investment range as "the earliest stages through
 
 Based on 18 verified investments directly announced on haun.co (representing the disclosed subset of portfolio companies listed on the firm's portfolio page, which lists 34 companies in total), the following patterns emerge. The sample represents approximately 53% of published portfolio companies; the full portfolio likely includes additional undisclosed investments.
 
-**Important caveat:** Investment-year data for pre-2022 companies (Autograph, Bitwise, Chainalysis, Fireblocks, OpenSea, Sovereign Labs, Superstate, TaxBit) in the portfolio table is sourced from third-party reports (CoinDesk, TechCrunch) and the companies' founding dates where direct confirmation is unavailable. Percentages below are calculated from the 18 investments with confirmed Haun Ventures involvement per haun.co announcements.
+**Important caveat:** Investment-year data for pre-2022 companies (Autograph, Fireblocks, OpenSea, Sovereign Labs, Superstate, TaxBit) in the portfolio table is sourced from third-party reports (CoinDesk, TechCrunch) and the companies' founding dates where direct confirmation is unavailable. Bitwise (2025-02-25 growth), Chainalysis (2024-04 secondary), and Meanwhile (2025-10-07 growth) have been verified via contemporaneous press sources. Percentages below are calculated from the 18 investments with confirmed Haun Ventures involvement per haun.co announcements.
 
 ### Sector Breakdown (18 verified investments)
 
@@ -107,8 +107,8 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 | Euler Labs | 2022 | Early (DAO treasury) | DeFi lending | [^6] |
 | thirdweb | 2022 | Series A | Web3 developer tools | [^7] |
 | Autograph | ~2022 | Series B | NFT platform | [^8] |
-| Bitwise | ~2022 | Series B | Crypto asset management | [^8] |
-| Chainalysis | ~2022 | Series F | Blockchain analytics | [^8] |
+| Bitwise | 2025-02-25 | Growth ($70M) | Crypto asset management | [^8][^35][^36] |
+| Chainalysis | 2024-04 | Secondary | Blockchain analytics | [^8][^37] |
 | Fireblocks | ~2022 | Series E | Crypto custody/infrastructure | [^8] |
 | OpenSea | ~2022 | Series C | NFT marketplace | [^8] |
 | Aleo | ~2022 | Series B | ZK-proof blockchain | [^8] |
@@ -131,10 +131,10 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 | Finisterra | 2025 | Seed | Decentralized data marketplace | [^20] |
 | XFX | 2025 | Seed | Crypto-native FX | [^21] |
 | Squads | 2025-05-14 | Strategic (Altitude launch) | Programmable money (Solana) | [^22] |
-| Meanwhile | 2025 | Growth | Bitcoin-denominated insurance | [^23] |
+| Meanwhile | 2025-10-07 | Growth (co-led, $82M) | Bitcoin-denominated insurance | [^23][^38][^39] |
 | Erebor | 2026 | Series B | OCC-chartered bank (AI/defense/crypto) | [^24] |
 
-*This table represents approximately 88% of the 34 companies listed on haun.co/portfolio as of March 2026. Investment years for companies without haun.co announcement posts (Autograph, Bitwise, Chainalysis, Fireblocks, OpenSea, Aleo, Aptos, TaxBit, Farcaster, Sovereign Labs, Superstate, Argus) are approximate, derived from funding round dates reported in industry press. The firm's full portfolio including undisclosed investments may be larger.*
+*This table represents approximately 88% of the 34 companies listed on haun.co/portfolio as of March 2026. Investment years for companies without haun.co announcement posts (Autograph, Fireblocks, OpenSea, Aleo, Aptos, TaxBit, Farcaster, Sovereign Labs, Superstate, Argus) are approximate, derived from funding round dates reported in industry press. Bitwise (2025-02-25), Chainalysis (2024-04 secondary), and Meanwhile (2025-10-07) have been verified to specific dates via primary press sources. The firm's full portfolio including undisclosed investments may be larger.*
 
 ## In Their Own Words
 
@@ -258,3 +258,13 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 
 [^33]: Ellipsis Labs blog, "Ellipsis Labs Raises $21M Led By Haun Ventures," October 31, 2024, accessed May 2026. https://www.ellipsislabs.xyz/blog-posts/ellipsis-labs-raises-21m-led-by-haun-ventures — confirms $21M raise announced 2024-10-31 led by Haun Ventures with existing investors Electric Capital, Anatoly Yakovenko, and Paradigm participating. Per CoinDesk, this was a "fast-follow" to Ellipsis Labs' April 2024 Series A led by Paradigm.
 [^34]: CoinDesk, "Farcaster, Blockchain-Based Social Media Startup, Raises $150M, Led by Paradigm," May 21, 2024, accessed May 2026. https://www.coindesk.com/tech/2024/05/21/farcaster-blockchain-based-social-media-startup-raises-150m-led-by-paradigm — confirms Farcaster's $150M Series A announced 2024-05-21 led by Paradigm at $1B valuation, with Haun Ventures, a16z crypto, USV, Variant, and Standard Crypto participating.
+
+[^35]: BusinessWire, "Bitwise Announces New $70M Backing From Financial Institutions and Technology Investors," February 25, 2025, accessed May 2026. https://www.businesswire.com/news/home/20250225437115/en/Bitwise-Announces-New-$70M-Backing-From-Financial-Institutions-and-Technology-Investors — confirms Bitwise's $70M round announced 2025-02-25 with Haun Ventures named alongside Electric Capital, MassMutual, MIT IMC, Highland Capital, ParaFi Capital, Khosla Ventures, General Catalyst, and Blockchain Coinvestors.
+
+[^36]: The Block, "Spot bitcoin ETF issuer Bitwise raises $70 million, backed by Electric Capital, MassMutual and Haun Ventures," February 2025, accessed May 2026. https://www.theblock.co/post/343279/spot-bitcoin-etf-issuer-bitwise-raises-70-million-backed-by-electric-capital-massmutual-and-haun-ventures — independent confirmation of $70M February 2025 raise with Haun Ventures listed among key backers.
+
+[^37]: Crunchbase, "Chainalysis Secondary Market funding round," April 8, 2024, accessed May 2026. https://www.crunchbase.com/funding_round/chainalysis-secondary-market--c5eb46d5 — Crunchbase records the Chainalysis secondary market round on 2024-04-08 with Haun Ventures and SharesPro as participants. The Information first reported the secondary purchase in April 2024; Haun Ventures publicly confirmed the investment at Axios BFD San Francisco on 2024-05-14 (see [^8]). Exact transaction-close date not publicly disclosed; entry uses month-precision 2024-04 to reflect public reporting.
+
+[^38]: Bitcoin Magazine, "Bitcoin Life Insurer Meanwhile Raises $82 Million," October 7, 2025, accessed May 2026. https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-raises-82-million — confirms Meanwhile's $82M round announced 2025-10-07, co-led by Bain Capital Crypto and Haun Ventures, with Pantera Capital, Apollo, Northwestern Mutual Future Ventures, and Stillmark participating.
+
+[^39]: PR Newswire, "Meanwhile, Bitcoin Life Insurer, Secures $82M to Meet Soaring Demand for Inflation-Proof Savings," October 8, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/meanwhile-bitcoin-life-insurer-secures-82m-to-meet-soaring-demand-for-inflation-proof-savings-302578311.html — independent confirmation of $82M raise co-led by Haun Ventures and Bain Capital Crypto, bringing Meanwhile's 2025 funding total to $122M after a $40M Series A earlier that year.

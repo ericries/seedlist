@@ -146,7 +146,7 @@ The following table represents a sample of Pantera Capital's portfolio. The firm
 | RedotPay | Series B ($107M) | 2025-12-16 | Payments / Stablecoin | Active [^13][^24] |
 | Accountable | Seed ($7.5M, led) | 2025-10-29 | Analytics / Identity | Active [^10][^25] |
 | TransCrypts | Seed ($15M, led) | 2025-10-08 | Data / Identity | Active [^13][^26] |
-| Meanwhile | Venture | 2025 | Insurance / Crypto | Active [^13] |
+| Meanwhile | Growth ($82M) | 2025-10-07 | Insurance / Crypto | Active [^13][^27][^28] |
 | Coinflow | Series A | 2025 | Payments | Active [^13] |
 | Fin (TipLink) | Series A | 2025 | Payments / Solana | Active [^13] |
 | Doppler | Seed | 2026 | DeFi / Launchpad | Active [^13] |
@@ -219,3 +219,7 @@ No additional independently sourced founder testimonials found. The quotes above
 [^25]: Blockworks, "Pantera leads $7.5M round for Accountable: Exclusive," October 29, 2025, accessed May 2026. https://blockworks.com/news/pantera-funding-round-accountable
 
 [^26]: GlobeNewswire, "TransCrypts Raises $15M Seed Round to Combat AI Fraud and Redefine Digital Identity Verification," October 8, 2025, accessed May 2026. https://www.globenewswire.com/news-release/2025/10/08/3163196/0/en/TransCrypts-Raises-15M-Seed-Round-to-Combat-AI-Fraud-and-Redefine-Digital-Identity-Verification.html
+
+[^27]: Bitcoin Magazine, "Bitcoin Life Insurer Meanwhile Raises $82 Million," October 7, 2025, accessed May 2026. https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-raises-82-million — confirms Meanwhile's $82M round announced 2025-10-07, co-led by Bain Capital Crypto and Haun Ventures, with Pantera Capital, Apollo, Northwestern Mutual Future Ventures, and Stillmark participating.
+
+[^28]: PR Newswire, "Meanwhile, Bitcoin Life Insurer, Secures $82M to Meet Soaring Demand for Inflation-Proof Savings," October 8, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/meanwhile-bitcoin-life-insurer-secures-82m-to-meet-soaring-demand-for-inflation-proof-savings-302578311.html — independent confirmation of $82M raise; Pantera Capital named as participant.

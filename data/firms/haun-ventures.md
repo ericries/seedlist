@@ -83,10 +83,10 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Aptos Labs | Series A | 2022 | L1 blockchain | Active | [^9][^14] |
 | Argus | Seed | 2023 | Web3 gaming | Active | [^9][^15] |
 | Autograph | Series B | 2022 | NFT/collectibles | Active | [^9][^16] |
-| Bitwise | Growth | 2025 | Crypto asset mgmt | Active | [^9][^17] |
+| Bitwise | Growth ($70M) | 2025-02-25 | Crypto asset mgmt | Active | [^9][^17][^67][^68] |
 | Bridge | Series A ($40M) | 2024-08-29 | Payments | Acquired by Stripe | [^9][^18][^41][^42] |
 | BVNK | Series B (led, $50M) | 2024-12-17 | Stablecoin infra | Active | [^9][^19][^43][^44] |
-| Chainalysis | Secondary | 2024 | Blockchain analytics | Active | [^9][^20] |
+| Chainalysis | Secondary | 2024-04 | Blockchain analytics | Active | [^9][^20][^69] |
 | Chaos Labs | Series A (led, $55M) | 2024-08-15 | Risk management | Active | [^9][^21][^45][^46] |
 | Commonware | Seed (co-led, $9M) | 2024-12-11 | Infrastructure | Active | [^9][^22][^49][^50] |
 | Conduit | Series A (co-led, $37M) | 2024-06-19 | L2 rollups | Active | [^9][^23][^51][^52] |
@@ -99,7 +99,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Helius | Series B (co-led, $21.75M) | 2024-09-18 | Solana dev tools | Active | [^9][^28][^55][^56] |
 | Highlight | Seed (led) | 2022 | NFT platform | Active | [^10][^9] |
 | Lighter | Series A (co-led, $21M) | 2024 | DeFi trading | Active | [^9][^29] |
-| Meanwhile | Growth (co-led) | 2025 | Insurance/Bitcoin | Active | [^9][^30] |
+| Meanwhile | Growth (co-led, $82M) | 2025-10-07 | Insurance/Bitcoin | Active | [^9][^30][^70][^71] |
 | Neynar | Series A (co-led, $11M) | 2024-05-30 | Farcaster infra | Active | [^9][^31][^63][^64] |
 | OpenSea | Series C | 2022 | NFT marketplace | Active | [^9][^32] |
 | Plume | Seed (led, $10M) | 2024-05-23 | RWA blockchain | Active | [^9][^33][^53][^54] |
@@ -197,3 +197,8 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^64]: Haun Ventures (Breck Stodghill), "Neynar," May 30, 2024. https://www.haun.co/writing/neynar — Haun Ventures' announcement post confirming lead role in Neynar's Series A alongside USV, with a16z CSX and Coinbase Ventures participating.
 [^65]: Squads, "Introducing Altitude & a Strategic Investment from Haun Ventures," May 14, 2025. https://squads.xyz/blog/introducing-altitude-and-a-strategic-investment-from-haun-ventures — Squads' own announcement of the Altitude launch and Haun Ventures strategic investment; amount undisclosed.
 [^66]: Odaily, "Squads launches enterprise-level stablecoin account service Altitude and has received strategic investment from Haun Ventures," May 15, 2025. https://www.odaily.news/en/newsflash/430725 — independent confirmation; reports Squads' Altitude launch and Haun Ventures strategic investment; specific investment amount not disclosed.
+[^67]: BusinessWire, "Bitwise Announces New $70M Backing From Financial Institutions and Technology Investors," February 25, 2025. https://www.businesswire.com/news/home/20250225437115/en/Bitwise-Announces-New-$70M-Backing-From-Financial-Institutions-and-Technology-Investors — confirms 2025-02-25 announcement, $70M, with Haun Ventures named alongside Electric Capital, MassMutual, MIT IMC, Highland Capital, ParaFi Capital, Khosla Ventures, General Catalyst, and Blockchain Coinvestors.
+[^68]: PYMNTS, "Bitwise Raises $70 Million to Support Crypto as an Asset Class," February 25, 2025. https://www.pymnts.com/news/investment-tracker/2025/bitwise-raises-70-million-dollars-support-crypto-asset-class — independent confirmation; identifies Electric Capital as the lead investor for the $70M February 2025 raise.
+[^69]: Crunchbase, "Chainalysis Secondary Market funding round," April 8, 2024. https://www.crunchbase.com/funding_round/chainalysis-secondary-market--c5eb46d5 — records Chainalysis secondary market round on 2024-04-08 with Haun Ventures and SharesPro as participants. The Information first reported the secondary purchase on 2024-04-08; Haun publicly confirmed at Axios BFD San Francisco on 2024-05-14 (see [^20]). Exact transaction-close date not publicly disclosed; entry uses month-precision 2024-04 to reflect the public reporting window.
+[^70]: Bitcoin Magazine, "Bitcoin Life Insurer Meanwhile Raises $82 Million," October 7, 2025. https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-raises-82-million — confirms 2025-10-07 announcement of $82M co-led by Bain Capital Crypto and Haun Ventures, with Pantera Capital, Apollo, Northwestern Mutual Future Ventures, and Stillmark participating; quotes Chris Ahn (Haun Ventures) on the investment thesis.
+[^71]: PR Newswire, "Meanwhile, Bitcoin Life Insurer, Secures $82M to Meet Soaring Demand for Inflation-Proof Savings," October 8, 2025. https://www.prnewswire.com/news-releases/meanwhile-bitcoin-life-insurer-secures-82m-to-meet-soaring-demand-for-inflation-proof-savings-302578311.html — independent confirmation of $82M co-led by Haun Ventures and Bain Capital Crypto, with Pantera, Apollo, Northwestern Mutual Future Ventures, and Stillmark participating; brings Meanwhile's 2025 funding total to $122M after a $40M Series A earlier that year.

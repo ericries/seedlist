@@ -10931,9 +10931,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^17]'
+  resolved: 2026-05-08
+  resolution_note: "Bitwise Asset Management $70M growth round announced 2025-02-25, led by Electric Capital with Haun Ventures, MassMutual, MIT Investment Management Company, Highland Capital, ParaFi Capital, Khosla Ventures, General Catalyst, Blockchain Coinvestors, and Nikesh Arora (Palo Alto Networks CEO) participating. Verified via 3 primary sources: BusinessWire (2025-02-25), The Block (Feb 2025, existing [^17]), PYMNTS (2025-02-25). Updated Haun firm profile entry to '2025-02-25', stage 'Growth ($70M)'; added citations [^67] BusinessWire, [^68] PYMNTS. Also updated katie-haun investor portfolio entry from '~2022 Series B' to '2025-02-25 Growth ($70M)' with citations [^35][^36]."
 - column: 5
   company: Bridge
   line: '| Bridge | Series A | 2024 | Payments | Acquired by Stripe | [^9][^18] |'
@@ -10966,9 +10968,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^20]'
+  resolved: 2026-05-08
+  resolution_note: "Chainalysis secondary purchase by Haun Ventures was first reported by The Information on 2024-04-08 (article: 'Haun Ventures Buys the Dip in Chainalysis,' paywalled), with Crunchbase recording the round date as 2024-04-08 and naming Haun Ventures and SharesPro as participants. Haun Ventures publicly confirmed the investment at Axios BFD San Francisco on 2024-05-14 (existing citation [^20] Axios). Implied Chainalysis valuation at the time: $2.5B (down ~70% from prior $8.6B peak). Specific transaction-close date and dollar amount NOT publicly disclosed. Per the project's 'never guess' policy, the entry has been refined from year-only '2024' to month-precision '2024-04' to reflect the public reporting window. Verified via 3 primary sources: The Information (2024-04-08, paywalled headline+author confirmed), Axios (2024-05-14, existing [^20]), Crunchbase secondary market profile (2024-04-08, [^69] new). Sources conflict on whether the actual transaction occurred in April or May; Axios states 'May 2024' while Crunchbase records 2024-04-08 — discrepancy preserved in the citation note. Added citation [^69] Crunchbase. Also updated katie-haun investor portfolio entry from '~2022 Series F' to '2024-04 Secondary' with citation [^37]."
 - column: 5
   company: Chaos Labs
   line: '| Chaos Labs | Series A (led) | 2024 | Risk management | Active | [^9][^21]
@@ -11116,9 +11120,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9][^30]'
+  resolved: 2026-05-08
+  resolution_note: "Meanwhile (first regulated Bitcoin life insurer, Bermuda-based) raised $82M growth round announced 2025-10-07, co-led by Bain Capital Crypto and Haun Ventures, with Pantera Capital, Apollo, Northwestern Mutual Future Ventures, and Stillmark participating. This brought Meanwhile's 2025 funding total to $122M after a $40M Series A earlier in 2025 (co-led by Framework Ventures and Fulgur Ventures). Chris Ahn (Haun Ventures Partner) led the deal. Verified via 3 primary sources: BusinessWire (2025-10-07, existing [^30]), Bitcoin Magazine (2025-10-07), PR Newswire (2025-10-08). Updated Haun firm profile entry to '2025-10-07', stage 'Growth (co-led, $82M)'; added citations [^70] Bitcoin Magazine, [^71] PR Newswire. Also updated katie-haun investor profile entry from '2025 Growth' to '2025-10-07 Growth (co-led, $82M)' with citations [^38][^39]. Also updated Pantera Capital firm profile (Meanwhile row) to '2025-10-07 Growth ($82M)' with citations [^27][^28]."
 - column: 5
   company: Neynar
   line: '| Neynar | Series A | 2024 | Farcaster infra | Active | [^9][^31] |'
@@ -144566,9 +144572,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-08
+  resolution_note: "Bitwise $70M growth round confirmed 2025-02-25 (BusinessWire, PYMNTS, The Block). Haun firm profile entry updated to '2025-02-25'. See companion unknown_value resolution above for full details."
 - column: 2
   company: Bridge
   line: '| Bridge | Series A | 2024 | Payments | Acquired by Stripe | [^9][^18] |'
@@ -144597,9 +144605,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-08
+  resolution_note: "Chainalysis secondary purchase by Haun Ventures refined to month-precision '2024-04' (April 2024 reporting window). Exact transaction-close date not publicly disclosed; sources conflict between April (Crunchbase, The Information) and May (Axios). Haun firm profile entry updated from '2024' to '2024-04'. See companion unknown_value resolution above for full details."
 - column: 2
   company: Chaos Labs
   line: '| Chaos Labs | Series A (led) | 2024 | Risk management | Active | [^9][^21]
@@ -144716,9 +144726,11 @@ vague_facts:
   profile: firms/haun-ventures
   profile_name: Haun Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-08
+  resolution_note: "Meanwhile $82M growth round confirmed 2025-10-07 (BusinessWire, Bitcoin Magazine, PR Newswire), co-led by Bain Capital Crypto and Haun Ventures. Haun firm profile entry updated to '2025-10-07'. See companion unknown_value resolution above for full details."
 - column: 2
   company: Neynar
   line: '| Neynar | Series A | 2024 | Farcaster infra | Active | [^9][^31] |'
