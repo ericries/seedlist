@@ -146399,9 +146399,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolved: 2026-05-10
+  resolution_note: "Resolved to 2024-04-02. Acquisition transaction (not a venture round): Steve Singh-led investor group acquired Direct Travel, the corporate travel management company (4,500+ mid-market and enterprise clients, $300M+ revenue). Investor group included Madrona Ventures (via the Acceleration Fund), Durable Capital Partners, Top Tier Capital Partners, and Blackstone Credit & Insurance. Steve Singh became Executive Chairman; Christal Bemont became CEO. Deal size not disclosed. Verified via three primary sources: Direct Travel press release (April 2, 2024, dt.com), Madrona blog 'Transforming Corporate Travel' (April 2024), and PYMNTS coverage (April 2, 2024). Direct Travel is one of four 'travel tech stack' bets Madrona discusses alongside Spotnana, Troop, and Center."
 - column: 2
   company: EdgeRunner AI
   line: '| EdgeRunner AI | Seed | 2024 | AI & Intelligent Apps | Active [^5] |'
@@ -146457,9 +146459,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-10
+  resolution_note: "Resolved to 2025-10-02 and disambiguated as Axiom Math (San Francisco; CEO Carina Hong; AI mathematician/theorem-prover that translates problems into Lean and verifies proofs). $64M seed round led by B Capital with participation from Greycroft, Madrona Venture Group, and Menlo Ventures, valuing the company at $300M. B Capital's Yan-David (Yanda) Erlich joined as board director and Ida Girma as board observer. Verified via three primary sources: SiliconANGLE (October 2, 2025), B Capital 'Why We Invested in Axiom' blog (September 30, 2025), and TechFundingNews coverage (October 3, 2025). Distinguished from other companies named 'Axiom' (Axiom Cloud, Axiom Security, Axiom Global, AxiomSL) — confirmed San Francisco-based AI math/reasoning startup matching Madrona's AI & Intelligent Apps tag."
 - column: 2
   company: Charta Health
   line: '| Charta Health | Seed | 2025 | AI-Enabled Biotech | Active [^5] |'
@@ -146491,9 +146495,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-10
+  resolution_note: "Resolved to 2026-03-24 and round corrected from Seed to Series B. Doss (San Francisco; founded 2022 by CEO Wiley Jones) is an AI-native operations cloud / inventory management platform integrating with ERP systems for mid-market consumer brands (~$20M-$250M revenue) — NOT the AI real-estate/home-buying assistant. Madrona did NOT participate in Doss's seed round (March 2023, led by Contrary Capital and Theory Ventures) or its $18M Series A (April 2025, led by Theory Ventures with Contrary, General Catalyst, Bloomberg Beta, 20Sales). Madrona's documented first investment in Doss is the $55M Series B announced March 24, 2026, co-led by Madrona and Premji Invest, with new investors Greyhound, Commerce Ventures, and Intuit Ventures, plus follow-on from Theory, General Catalyst, Contrary, Mintaka, Pathlight VC, and 47th Street Partners. Karan Mehandru (Madrona Managing Director) joined the Doss board. Verified via three primary sources: Madrona blog 'Investing in Doss' (March 24, 2026), Doss press release 'doss.com/news/doss-raises-55m-series-b' (March 24, 2026), and TechCrunch (March 24, 2026)."
 - column: 2
   company: Dropzone AI
   line: '| Dropzone AI | Seed | 2025 | Security | Active [^5] |'

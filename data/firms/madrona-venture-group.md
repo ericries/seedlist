@@ -156,15 +156,15 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Archon Biosciences | Seed | 2024-10-30 | AI-Enabled Biotech | Active ($20M, led by Madrona) [^5][^36][^37][^38] |
 | Cofactory | Seed | 2024 | AI & Intelligent Apps | Active [^5] |
 | Cohesity | Acceleration | 2024-04-11 | Data & Infrastructure | Active (Series F, $150M, IBM/Nvidia strategic, $7B valuation) [^5][^33][^34] |
-| Direct Travel | Acceleration | 2024 | Enterprise Apps | Active [^5] |
+| Direct Travel | Acceleration | 2024-04-02 | Enterprise Apps | Active (acquisition by Steve Singh-led investor group; Madrona Ventures, Durable Capital Partners, Top Tier Capital, Blackstone Credit & Insurance) [^5][^60][^61][^62] |
 | EdgeRunner AI | Seed | 2024-07-18 | AI & Intelligent Apps | Active ($5.5M, led by Four Rivers Group) [^5][^35] |
 | Finpilot | Seed | 2024-02-22 | AI & Intelligent Apps | Active ($4M, led by Madrona; Ascend.vc participated) [^5][^51][^52][^53] |
 | Anagram | Series A | 2025-02-26 | Security | Active ($10M, led by Madrona) [^5][^39][^40][^41] |
 | Atomic | Seed | 2025-04-15 | Enterprise Apps | Active ($3M, co-led by DVx Ventures and Madrona) [^5][^45][^46][^47] |
-| Axiom | Seed | 2025 | AI & Intelligent Apps | Active [^5] |
+| Axiom Math | Seed | 2025-10-02 | AI & Intelligent Apps | Active ($64M seed led by B Capital; Greycroft, Madrona, Menlo Ventures participated; $300M valuation) [^5][^63][^64][^65] |
 | Charta Health | Series A | 2025-07-22 | AI-Enabled Biotech | Active ($22M, led by Bain Capital Ventures; Madrona participated) [^5][^42][^43][^44] |
 | Clarify | Series A | 2025-06-25 | Enterprise Apps | Active ($15M, co-led by USVP and Gradient Ventures; Madrona participated) [^5][^54][^55][^56] |
-| DOSS | Seed | 2025 | Enterprise Apps | Active [^5] |
+| Doss | Series B | 2026-03-24 | Enterprise Apps | Active ($55M Series B co-led by Madrona and Premji Invest; Karan Mehandru joined board) [^5][^66][^67][^68] |
 | Dropzone AI | Series B | 2025-07-28 | Security | Active ($37M, led by Theory Ventures; Madrona participated) [^5][^48][^49][^50] |
 | Entire | Seed | 2025 | Developer Platforms & Tools | Active [^5] |
 | Fyxer AI | Series B | 2025-09-10 | Enterprise Apps | Active ($30M, led by Madrona; Lakestar Capital, 20VC, 20Growth participated) [^5][^57][^58][^59] |
@@ -270,3 +270,12 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^57]: Fyxer, "Announcing our $30M Series B: Predicting your next email," September 10, 2025, accessed May 2026. https://www.fyxer.com/blog/series-b-statement
 [^58]: The SaaS News, "Fyxer Raises $30 Million in Series B," September 10, 2025, accessed May 2026. https://www.thesaasnews.com/news/fyxer-raises-30-million-in-series-b
 [^59]: Madrona Venture Group, "How Fyxer Built AI Productivity Tools and Meetings and Hit $10M ARR in 6 Months," September 2025, accessed May 2026. https://www.madrona.com/fyxer-ai-productivity-tools-for-email-and-meetings/
+[^60]: Direct Travel press release, "Steve Singh and Renowned Group of Investors Acquire Leading Travel Management Company, Direct Travel," April 2, 2024, accessed May 2026. https://www.dt.com/press-releases/steve-singh-and-renowned-group-of-investors-acquire-leading-travel-management-company-direct-travel/
+[^61]: Madrona Venture Group, "Transforming Corporate Travel: An Open Roadmap to Fixing a Broken System," April 2024, accessed May 2026. https://www.madrona.com/transforming-corporate-travel/
+[^62]: PYMNTS, "Venture Capitalist Steve Singh and Growth Investors Acquire Direct Travel," April 2, 2024, accessed May 2026. https://www.pymnts.com/acquisitions/2024/venture-capitalist-steve-singh-and-growth-investors-acquire-direct-travel/
+[^63]: SiliconANGLE, "AI startup Axiom gets $64M to develop new knowledge with advanced mathematics," October 2, 2025, accessed May 2026. https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/
+[^64]: B Capital, "Toward Mathematical Superintelligence: Why We Invested in Axiom," September 30, 2025, accessed May 2026. https://b.capital/why-we-invested/toward-mathematical-superintelligence-why-we-invested-in-axiom/
+[^65]: TechFundingNews, "Breaking the equation: Female founder secures $64M to teach AI the language of mathematics," October 3, 2025, accessed May 2026. https://techfundingnews.com/axiom-math-ai-mathematician-64m-seed/
+[^66]: Madrona Venture Group, "Investing in Doss: A New Form of AI-Native Enterprise Application," March 24, 2026, accessed May 2026. https://www.madrona.com/investing-in-doss-a-new-form-of-ai-native-enterprise-application/
+[^67]: Doss press release, "$55M Series B," March 24, 2026, accessed May 2026. https://www.doss.com/news/doss-raises-55m-series-b
+[^68]: TechCrunch, "Doss raises $55M for AI inventory management that plugs into ERP," March 24, 2026, accessed May 2026. https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/
