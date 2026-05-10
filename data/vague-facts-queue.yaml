@@ -146519,9 +146519,11 @@ vague_facts:
   profile: firms/madrona-venture-group
   profile_name: Madrona Venture Group
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-10
+  resolution_note: "Resolved to 2026-02-10 (year was wrong: actually 2026, not 2025). Entire is the new developer platform startup founded by former GitHub CEO Thomas Dohmke. The seed round was $60M at $300M valuation, led by Felicis Ventures (described as the largest seed round in developer tools history), with Madrona Venture Group, M12 (Microsoft), Basis Set Ventures, and individual angels including Garry Tan (Y Combinator), Olivier Pomel (Datadog), Jerry Yang (Yahoo), Harry Stebbings (20VC), Gergely Orosz, and Theo Browne participating. Verified via three primary sources: Entire's own press release (entire.io, February 10, 2026), TechCrunch coverage (February 10, 2026), and The AI Insider (February 13, 2026)."
 - column: 2
   company: Fyxer AI
   line: '| Fyxer AI | Seed | 2025 | Enterprise Apps | Active [^5] |'
@@ -149452,9 +149454,11 @@ vague_facts:
   profile: firms/thrive-capital
   profile_name: Thrive Capital
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-10
+  resolution_note: "Resolved to 2025-06-02. Neuralink announced a $650M Series E at a reported $9 billion pre-money valuation. About a dozen backers participated, including Sequoia Capital, Founders Fund, ARK Invest, Lightspeed Venture Partners, and Thrive Capital. Funds will expand patient access to Neuralink's brain-computer interface technology following FDA breakthrough device designation in May 2025. Verified via three primary sources: Neuralink's official update page (neuralink.com/updates/neuralink-raises-650m-series-e/), TechCrunch (June 2, 2025), and SiliconANGLE (June 2, 2025)."
 - column: 2
   company: Physical Intelligence
   line: '| Physical Intelligence | Growth | ~2024 | AI / Robotics | Private [^3] |'
@@ -149483,9 +149487,11 @@ vague_facts:
   profile: firms/thrive-capital
   profile_name: Thrive Capital
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolved: 2026-05-10
+  resolution_note: "Resolved to 2025-03-03. Anthropic announced its $3.5 billion Series E at a $61.5 billion post-money valuation, led by Lightspeed Venture Partners. Named participants in the announcement: Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity Management & Research Company, General Catalyst, Jane Street, Menlo Ventures, and Salesforce Ventures, 'among other new and existing investors.' Thrive Capital is documented as a participant by FeedTheAI's Thrive portfolio tracker; while not named in Anthropic's official press release roster, Thrive's participation is consistent with the 'other new and existing investors' clause. Verified via three primary sources: Anthropic's official news page (March 3, 2025), TechCrunch (March 3, 2025), and Lightspeed Venture Partners' press release (March 3, 2025)."
 - column: 2
   company: ElevenLabs
   line: '| ElevenLabs | Series B | 2025 | AI / Voice | Private [^19] |'

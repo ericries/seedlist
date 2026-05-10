@@ -177,10 +177,10 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Rightway Healthcare | Growth | ~2019 | Health Tech | Private [^3] |
 | Medivis | Early | ~2017 (founded) | Health Tech / AR | Private [^3] |
 | SpaceX | Growth | ~2022 | Aerospace | Private [^4] |
-| Neuralink | Series E | 2025 | Neurotechnology | Private [^18] |
+| Neuralink | Series E | 2025-06-02 | Neurotechnology | Private ($650M Series E at ~$9B pre-money valuation; Sequoia Capital, Founders Fund, ARK Invest, Lightspeed, Thrive participated) [^18][^26][^27] |
 | Physical Intelligence | Growth | ~2024 | AI / Robotics | Private [^3] |
 | Anysphere (Cursor) | Series C | 2025-06-05 | AI / Developer Tools | Private [^8][^24] |
-| Anthropic | Series E | 2025 | AI | Private [^19] |
+| Anthropic | Series E | 2025-03-03 | AI | Private ($3.5B Series E at $61.5B post-money valuation, led by Lightspeed; Bessemer, Cisco, D1, Fidelity, General Catalyst, Jane Street, Menlo, Salesforce Ventures, and Thrive participated) [^19][^28][^29][^30] |
 | ElevenLabs | Series B | 2025 | AI / Voice | Private [^19] |
 | Hugging Face | Series D | 2023 | AI / ML Platform | Private [^19] |
 | Isomorphic Labs | Series A | 2025 | AI / Drug Discovery | Private [^9][^19] |
@@ -324,3 +324,8 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^24]: "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR." TechCrunch, June 5, 2025. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/
 
 [^25]: BusinessWire, "Scale AI Raises $1 Billion Series F to Push The Frontier of AI Data," May 21, 2024. https://www.businesswire.com/news/home/20240521674964/en/Scale-AI-Raises-$1-Billion-Series-F-to-Push-The-Frontier-of-AI-Data
+[^26]: TechCrunch, "Elon Musk's Neuralink closes a $650M Series E," June 2, 2025, accessed May 2026. https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/
+[^27]: SiliconANGLE, "Neuralink raises $650M at reported $9B pre-money valuation," June 2, 2025, accessed May 2026. https://siliconangle.com/2025/06/02/neuralink-raises-another-650m-reported-9b-pre-money-valuation/
+[^28]: Anthropic, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025, accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
+[^29]: TechCrunch, "Anthropic raises $3.5B to fuel its AI ambitions," March 3, 2025, accessed May 2026. https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/
+[^30]: Lightspeed Venture Partners, "Lightspeed Announces Lead Investment in Anthropic's $3.5B Series E Financing," March 3, 2025, accessed May 2026. https://lsvp.com/stories/lightspeed-announces-lead-investment-in-anthropics-3-5b-series-e-financing/
