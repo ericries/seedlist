@@ -23,10 +23,6 @@ priority:
   type: investor
   reason: "appeared in Panthalassa Series B (2026-05-05)"
   added: 2026-05-10
-- slug: dylan-field
-  type: investor
-  reason: "appeared in Panthalassa Series B (2026-05-05)"
-  added: 2026-05-10
 - slug: lowercarbon-capital
   type: firm
   reason: "appeared in Panthalassa Series B (2026-05-05)"
@@ -34,8 +30,4 @@ priority:
 - slug: 500-global
   type: firm
   reason: "co-led DeepInfra Series B (2026-05-04)"
-  added: 2026-05-10
-- slug: andreessen-horowitz
-  type: firm
-  reason: "led Tessera Labs Series A (2026-05-06)"
   added: 2026-05-10

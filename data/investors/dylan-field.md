@@ -101,9 +101,9 @@ Based on 22 verified investments compiled from Premier Alternatives, BoringBusin
 | BRINC | 2025 | Series C | [^10] |
 | PlayerZero | ~2025 | Series A | [^18] |
 | Linear | 2019-11-21 | Seed | [^19][^20] |
-~unknown| Zed Industries | — | — | [^3] |
-~unknown| Felt | — | — | [^3] |
-~unknown| HeyGen | — | — | [^3] |
+| Zed Industries | 2023-03-15 | Series A | [^21][^22] |
+| Felt | 2021-08-10 | Seed | [^23][^24] |
+| HeyGen | 2024-06-20 | Series A | [^25][^26] |
 ~unknown| Kindred | — | — | [^3] |
 ~unknown| Socket | — | — | [^3] |
 ~unknown| Collective | — | — | [^3] |
@@ -174,3 +174,9 @@ No independently sourced founder testimonials found about Dylan Field as an ange
 [^18]: TechCrunch, "PlayerZero raises $15M to prevent AI agents from shipping buggy code," July 30, 2025. https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/
 [^19]: Linear blog, "Linear's Next Chapter: Announcing our $4.2M Seed Round" by Karri Saarinen, November 21, 2019. Lists Dylan Field (Founder and CEO, Figma) among angel investors. https://linear.app/now/linear-s-next-chapter-announcing-our-usd4-2m-seed-round
 [^20]: TechCrunch, "Linear lines up $4.2M led by Sequoia to build a better platform for software developer collaboration," November 21, 2019. Names Dylan Field (Figma) as participating angel. https://techcrunch.com/2019/11/21/linear-lines-up-4-2m-led-by-sequoia-to-build-a-better-platform-for-software-developer-collaboration/
+[^21]: PR Newswire, "Zed Announces $10M Series A and Launches its Collaborative Code Editor," March 15, 2023. Accessed May 2026. https://www.prweb.com/releases/Zed_Announces_10M_Series_A_and_Launches_its_Collaborative_Code_Editor/prweb19217168.htm
+[^22]: TechCrunch, "Zed raises $10M for a code editor built for collaboration," March 15, 2023. Accessed May 2026. https://techcrunch.com/2023/03/15/zed-code-editor-raises-10m/
+[^23]: Bain Capital Ventures, "Felt, Thinking In Maps, And A New Collaborative Layer for Apps," August 10, 2021. Accessed May 2026. https://baincapitalventures.com/insight/felt-thinking-in-maps-and-a-new-collaborative-layer-for-apps/
+[^24]: TechCrunch, "Felt raised $4.5 million to get you to 'think in maps,'" August 10, 2021. Accessed May 2026. https://techcrunch.com/2021/08/10/felt-raised-4-5-million-to-get-you-to-think-in-maps/
+[^25]: HeyGen blog, "HeyGen Secures $60M Series A to Power AI Video Generation for Business Growth," June 20, 2024. Accessed May 2026. https://www.heygen.com/blog/announcing-our-series-a
+[^26]: Bloomberg, "AI Video Startup HeyGen Valued at $500 Million in Funding Round," June 20, 2024. Accessed May 2026. https://www.bloomberg.com/news/articles/2024-06-20/ai-video-startup-heygen-valued-at-500-million-in-funding-round
