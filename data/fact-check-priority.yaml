@@ -31,3 +31,11 @@ priority:
   type: firm
   reason: "co-led Davis Pre-Seed (2026-05-06)"
   added: 2026-05-10
+- slug: accel
+  type: firm
+  reason: "co-investor with Spark Capital RadixArk Seed (2026-05-05)"
+  added: 2026-05-11
+- slug: spark-capital
+  type: firm
+  reason: "co-led RadixArk Seed (2026-05-05)"
+  added: 2026-05-11

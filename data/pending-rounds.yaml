@@ -20,6 +20,17 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
+    in food within hours
+  url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
+  source: eu-startups
+  date_found: '2026-05-11'
+  parsed_company: Würzburg-based NanoStruct
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-11'
+  slug: nanostruct
 - title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
     for businesses and profitable for producers
   url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
@@ -992,14 +1003,3 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by fun.md ($72M Series A 2026-05-01 co-led by Multicoin Capital +
     SignalFire)
-- title: Standard Intelligence raised $75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Standard Intelligence
-  parsed_amount: $75M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by standard-intelligence.md (Series A 2026-04-30 co-led by Sequoia
-    + Spark Capital, AI lab)
