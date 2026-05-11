@@ -217,11 +217,11 @@ The following table includes Sequoia Capital investments verified through the fi
 | Clay | Series A (lead) | 2023 | AI / Sales | Private [^13][^41] |
 | Sierra | Seed (co-led with Benchmark) | 2024-02-13 | AI / Customer Service | Private [^13][^42] |
 | Sierra | Series E (participated, follow-on) | 2026-05-04 | AI / Customer Service | Private [^56][^57][^58] |
-| Anthropic | Growth | 2026 | AI | Private [^20] |
+| Anthropic | Series G (participated) | 2026-02-12 | AI | Private [^20][^61] |
 | Nominal | Series B (led) | 2025-06-12 | Defense Tech / Hardware | Private [^25][^49][^50][^51] |
 | Oasis Security | Series A (led) | 2024-01-31 | Cybersecurity / Identity | Private [^26][^52][^53] |
 | Grow Therapy | Series C (led) | 2024-04-08 | Healthcare / Mental Health | Private [^27][^54][^55] |
-| Ayar Labs | Series E | 2026 | Semiconductors / AI Infrastructure | Private [^28] |
+| Ayar Labs | Series E (participated via Sequoia Global Equities) | 2026-03-03 | Semiconductors / AI Infrastructure | Private [^28][^62] |
 | Auctor | Series A (led) | 2026 | AI / Enterprise Software | Private [^29] |
 | Ineffable Intelligence | Seed (co-led) | 2026 | AI / Foundation Models | Private [^30] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^34] |
@@ -413,3 +413,7 @@ The following table includes Sequoia Capital investments verified through the fi
 [^58]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
 [^59]: Fortune, "Sequoia-backed Astrocade raises $56 million to let everyone build games," May 5, 2026. https://fortune.com/2026/05/05/astrocade-raises-56-million-series-b-sequoia-video-games-platform-ali-amir-sadeghian/ — Astrocade announced $56M total funding on May 5, 2026, comprising a Series A led by Sea Capital and a Series B led by Sequoia Capital (David Cahn, Partner). Additional investors include Google's AI Futures Fund, NVIDIA, LG Technology Ventures, Dentsu Ventures, Conviction Embed, Chaac Ventures, and Rogue VC.
 [^60]: Astrocade blog, "Astrocade Raises $56M in New Funding to Build a New Era of Interactive Entertainment," May 5, 2026. https://www.astrocade.com/blog/astrocade-raises-56m-funding
+
+[^61]: Anthropic press release, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 12, 2026. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation — $30B Series G announced February 12, 2026 at $380B post-money valuation; led by GIC and Coatue with co-leads D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX. Sequoia Capital participated alongside Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, BlackRock-affiliated funds, Blackstone, D1 Capital, Fidelity, General Catalyst, Greenoaks, Goldman Sachs Growth Equity, Insight, Jane Street, JPMorganChase, Lightspeed, Menlo Ventures, Morgan Stanley Investment Management, NX1 Capital, Qatar Investment Authority, Sands Capital, Temasek, TowerBrook, TPG, Whale Rock, and XN. Cross-referenced with TechCrunch, "Anthropic raises another $30B in Series G, with a new value of $380B," February 12, 2026. https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/
+
+[^62]: Ayar Labs press release, "Ayar Labs Closes $500M Series E, Accelerates Volume Production of Co-Packaged Optics," March 3, 2026. Accessed May 2026. https://ayarlabs.com/news/ayar-labs-closes-500m-series-e-accelerates-volume-production-of-co-packaged-optics/ — $500M Series E announced March 3, 2026 led by Neuberger Berman at $3.75B valuation. Sequoia Global Equities participated alongside ARK Invest, Insight Partners, Qatar Investment Authority, 1789 Capital, AMD, Alchip Technologies, MediaTek, NVIDIA, Advent Global Opportunities, Boardman Bay Capital, IAG Capital Partners, Light Street Capital, Playground Global, and AMD Ventures. Total raised: $870M.
