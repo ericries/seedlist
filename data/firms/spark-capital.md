@@ -137,7 +137,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |
 | Crusoe | Series E | 2025-10 | AI Infrastructure | [^9][^39] |
 | Chainguard | Series B | 2023 | Cybersecurity | [^9][^32] |
-| The Bot Company | Series A | 2024 | AI/Robotics | [^10] |
+| The Bot Company | Series A | 2024-05-13 | AI/Robotics | [^10][^48] |
 | Fireblocks | Series D | 2021 | Crypto/Fintech | [^9][^33] |
 | Framework | Series A | 2022 | Hardware | [^9][^34] |
 | Cyera | Series C | 2024-04-09 | Cybersecurity | [^9][^35] |
@@ -223,3 +223,5 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^46]: Accel, "Our Investment in RadixArk: Building the Open Infrastructure for AI," May 5, 2026, accessed May 2026. https://www.accel.com/noteworthies/investing-in-radixark-building-an-open-universal-inference-engine
 
 [^47]: HOF Capital, "Why We Invested in RadixArk," May 5, 2026, accessed May 2026. https://hofcapital.substack.com/p/why-we-invested-in-radixark
+
+[^48]: TechCrunch, "Cruise founder Kyle Vogt is back with a robot startup," May 13, 2024. Accessed May 2026. https://techcrunch.com/2024/05/13/cruise-founder-kyle-vogt-is-back-with-a-robot-startup/ — Confirms The Bot Company announced $150M round on May 13, 2024, with Nabeel Hyatt (Spark Capital general partner) among the named investors alongside Nat Friedman, Daniel Gross, Patrick Collison, John Collison, and Quiet Capital. Cross-referenced with Sacra, "The Bot Company valuation, funding & news," accessed May 2026. https://sacra.com/c/the-bot-company/ — which characterizes the subsequent March 2025 $150M round at $2B valuation as Series B, supporting Series A designation for the May 2024 round.

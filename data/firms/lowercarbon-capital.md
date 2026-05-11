@@ -99,7 +99,7 @@ Based on approximately 93-233 investments (sources vary; Tracxn reports 93 as of
 |---------|-------|------|--------|--------|--------|
 | Antora Energy | Series A (Co-Led) | 2022 | Thermal batteries/Energy | Active | [^1][^12] |
 | Commonwealth Fusion Systems | Series B | 2021 | Fusion energy | Active | [^1][^13] |
-| Crux | Series B (Led) | 2025 | Clean energy financing | Active | [^1][^14] |
+| Crux | Series B (Led) | 2025-04-16 | Clean energy financing | Active | [^1][^14][^27] |
 | Crusoe | Series B | 2021 | Emissions-reduced computing | Active | [^3][^15] |
 | Heart Aerospace | Seed (Led) | 2019 | Electric aircraft | Active | [^1][^16] |
 | Heirloom Carbon | Seed | 2021 | Carbon removal (DAC) | Active | [^3][^17] |
@@ -157,3 +157,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^24]: Watershed blog, "Expanding our partnership with Lowercarbon Capital," June 2023, accessed April 2026. https://watershed.com/blog/watershed-lowercarbon-partnership
 [^25]: BLG, "Occidental Petroleum completes US$1.1 billion acquisition of Carbon Engineering Ltd.," November 2023, accessed April 2026. https://www.blg.com/en/about-us/deals-and-suits/2023/11/occidental-petroleum-completes-us1-1-billion-acquisition-of-carbon-engineering-ltd
 [^26]: PR Newswire, "Advantek spins off Vaulted Deep with $8M seed investment led by Lowercarbon Capital," September 2023, accessed April 2026. https://www.prnewswire.com/news-releases/advantek-geologic-sequestration-pioneer-spins-off-new-carbon-removal-company-vaulted-deep-with-8m-seed-investment-led-by-lowercarbon-capital-301920114.html
+
+[^27]: Lowercarbon Capital, "Fueling America's Energy and Manufacturing Boom," April 16, 2025. Accessed May 2026. https://lowercarbon.com/2025/04/16/crux-series-b/ — Confirms April 16, 2025 announcement of $50M Series B led by Lowercarbon Capital with participation from Andreessen Horowitz (returning), Liberty Mutual Strategic Ventures, MassMutual Ventures, and OMERS Ventures. Founded by Alfred Johnson and Allen Kramer.
