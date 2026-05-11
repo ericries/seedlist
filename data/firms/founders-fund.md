@@ -234,7 +234,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | ZocDoc | Growth | ~2007 (founded) | Health / Marketplace | Private [^20] |
 | Mnzil | Early | ~2023 (founded) | Enterprise (Middle East) | Private [^20] |
 | EnduroSat | Growth | ~2015 (founded) | Aerospace / Satellite | Private [^20] |
-| Anthropic | Series G | 2026 | AI | Private [^26] |
+| Anthropic | Series G (co-lead) | 2026-02-12 | AI | Private [^26][^43][^44] |
 | Nominal | Series B Extension (led, $80M at $1B valuation) | 2026-03-05 | Defense Tech / Hardware | Private [^35][^42] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
@@ -360,3 +360,7 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^41]: "Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows." TechCrunch, November 21, 2024. https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/
 
 [^42]: GlobeNewsWire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026, accessed April 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html — Confirms March 5, 2026 announcement; $80M Series B-2 Acceleration Round led by Founders Fund at $1B valuation; Sequoia, Lux, General Catalyst, Lightspeed, and Red Glass participated.
+
+[^43]: Anthropic press release, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 12, 2026. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation — $30B Series G announced February 12, 2026 at $380B post-money valuation; led by GIC and Coatue with co-leads D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX.
+
+[^44]: TechCrunch, "Anthropic raises another $30B in Series G, with a new value of $380B," February 12, 2026. Accessed May 2026. https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/

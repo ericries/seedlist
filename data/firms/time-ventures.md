@@ -98,7 +98,7 @@ Note: Some companies span categories (e.g., Planet Labs serves both space and cl
 | Terraformation | Series A ($30M round) | 2021 | Reforestation | [^6][^30] |
 | Mango Materials | Angel (undisclosed amount) | ~2016 | Biodegradable plastics | [^6] |
 | Novoloop | Series A ($11M round) | 2022 | Plastic upcycling | [^6][^31] |
-| Laurel | Series C ($100M) | 2025 | AI time intelligence | [^24] |
+| Laurel | Series C ($100M) | 2025-06-10 | AI time intelligence | [^24][^32][^33] |
 | Somnee / StimScience | Seed ($10M) | 2025 | Sleep neurotech | [^25] |
 | webAI | Series A extension | 2026 | Distributed AI | [^26] |
 
@@ -157,3 +157,7 @@ No additional independently sourced founder testimonials from TIME Ventures port
 [^29]: Business Wire, "Universal Hydrogen Secures Additional $62 Million in Financing," October 2021. https://www.businesswire.com/news/home/20211014005399/en/Universal-Hydrogen-Secures-Additional-$62-Million-in-Financing-to-Accelerate-First-Test-Flight-of-Hydrogen-Powered-Regional-Aircraft-to-2022
 [^30]: Tracxn, "Terraformation — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/terraformation/__2yO2oSHojYu7bXdnXQtyMfWPosvVDyyrPTF2Vm57Am8/funding-and-investors
 [^31]: TechCrunch, "Novoloop says it's worked out how to upcycle plastic waste, raises $11M Series A," February 2022. https://techcrunch.com/2022/02/14/novoloop-says-its-worked-out-how-to-upcycle-plastic-waste-raises-11m-series-a/
+
+[^32]: BusinessWire, "AI Time Platform Laurel Raises $100 Million to Transform the Professional Services Industry," June 10, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20250610987398/en/AI-Time-Platform-Laurel-Raises-$100-Million-to-Transform-the-Professional-Services-Industry — $100M Series C announced June 10, 2025 led by IVP at $510M valuation; TIME Ventures returning investor alongside ACME, Anthos, Gokul Rajaram, AIX Ventures.
+
+[^33]: LawNext, "AI Timekeeping Platform Laurel Raises $100M In Series C Round," June 10, 2025. Accessed May 2026. https://www.lawnext.com/2025/06/ai-timekeeping-platform-laurel-raises-100m-in-series-c-round.html
