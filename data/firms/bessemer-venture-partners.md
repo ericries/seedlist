@@ -123,7 +123,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Shopify | Series A ($7M, led) | 2010 | E-commerce/Cloud | [^9][^16][^17] |
+| Shopify | Series A ($7M, led) | 2010-12-13 | E-commerce/Cloud | [^9][^16][^17] |
 | LinkedIn | Series C ($12.8M) | 2007 | Consumer/Social | [^9][^1] |
 | Pinterest | Series A ($10M, led) | 2011 | Consumer | [^9] |
 | Twilio | Seed ($125K), then Series B ($12M, led) | 2009, 2010 | Developer/Cloud | [^9] |

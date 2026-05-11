@@ -89,7 +89,7 @@ Based on 28 unique verified portfolio companies. Bedrock has approximately 75 to
 | Radar Labs | Series B | 2020 | Location Infrastructure | Active [^12] |
 | Punch List | Seed | 2020 | Home Inspection | Active [^12] |
 | SoleSavy | Series A (led) | 2021 | Sneaker Community | Active [^12][^26] |
-| Basis | Seed (led) | 2018 | Mental Health/Wellness | Shut Down [^27][^28] |
+| Basis | Seed (led, $3.75M) | 2018-10-04 | Mental Health/Wellness | Shut Down [^27][^28] |
 | TensorZero | Seed | 2025 | AI Infrastructure | Active [^12] |
 | Durin | Seed | 2025 | AI | Active [^12] |
 

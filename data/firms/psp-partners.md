@@ -82,7 +82,7 @@ Based on 21 verified venture/growth investments by PSP Growth and PSP Partners i
 | Higharc | Series B | 2024 | Construction / homebuilding software | [^21] |
 | PassiveLogic | Series C | 2025 | Autonomous building management | [^22] |
 | QA Wolf | Series A | 2022 | Automated software testing | [^23] |
-| Pronto Housing | Strategic | 2022 | Affordable housing software | [^24] |
+| Pronto Housing | Strategic (via PSP Growth) | 2022-02-22 | Affordable housing software | [^24][^29] |
 | Air Space Intelligence | Series A | 2021 | Aerospace & defense software | [^25] |
 | Nominal | Series B | 2025 | Industrial data platform | [^26] |
 | VTS | Series D | 2019 | Commercial real estate tech | [^7] |
@@ -155,3 +155,5 @@ Note: The founder quotes above are primarily from PSP Capital (buyout) portfolio
 [^26]: Tracxn, "PSP Partners Investor Profile," accessed April 2026. https://tracxn.com/d/private-equity/psp-partners/__b8o34A1SV8JeWMi1X1gNEU7aw-Rm5m2Alq1HjDGMFUw
 [^27]: ConferenceConnect, "Momei Qu Speaker Profile," accessed April 2026. https://conferenceconnect.com/speakers/momei-qu
 [^28]: PSP Partners, "Ntiva Success Story," accessed April 2026. https://www.psppartners.com/success-story/ntiva/
+
+[^29]: PR Newswire, "Pronto Housing brings total funding to $9.5MM with Strategic Investment from Affordable Housing Leaders," accessed May 2026. https://www.prnewswire.com/news-releases/pronto-housing-brings-total-funding-to-9-5mm-with-strategic-investment-from-affordable-housing-leaders-302072742.html — Independent confirmation of February 22, 2022 Strategic Partnerships announcement bringing total funding to $4.5M (later $9.5M after subsequent rounds); PSP Growth, Fifth Wall, Alate Partners, Valley National Bank, and Noho Ventures participated.
