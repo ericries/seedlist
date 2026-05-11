@@ -8136,7 +8136,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8187,6 +8187,11 @@
           "slug": "bradley-tusk",
           "name": "Bradley Tusk",
           "firm": "tusk-ventures"
+        },
+        {
+          "slug": "brad-garlinghouse",
+          "name": "Brad Garlinghouse",
+          "firm": "ripple"
         }
       ]
     },
@@ -9197,7 +9202,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 22,
+      "size": 29,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9307,6 +9312,41 @@
           "slug": "naveen-tewari",
           "name": "Naveen Tewari",
           "firm": "inmobi"
+        },
+        {
+          "slug": "john-borthwick",
+          "name": "John Borthwick",
+          "firm": "betaworks"
+        },
+        {
+          "slug": "kevin-lin",
+          "name": "Kevin Lin",
+          "firm": "metatheory"
+        },
+        {
+          "slug": "adrien-treuille",
+          "name": "Adrien Treuille",
+          "firm": "snowflake"
+        },
+        {
+          "slug": "andrew-kortina",
+          "name": "Andrew Kortina",
+          "firm": "independent"
+        },
+        {
+          "slug": "david-karp",
+          "name": "David Karp",
+          "firm": "independent"
+        },
+        {
+          "slug": "brad-garlinghouse",
+          "name": "Brad Garlinghouse",
+          "firm": "ripple"
+        },
+        {
+          "slug": "sam-hinkie",
+          "name": "Sam Hinkie",
+          "firm": "87-capital"
         }
       ]
     },
@@ -9556,7 +9596,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 22,
+      "size": 23,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9666,6 +9706,11 @@
           "slug": "naveen-tewari",
           "name": "Naveen Tewari",
           "firm": "inmobi"
+        },
+        {
+          "slug": "john-borthwick",
+          "name": "John Borthwick",
+          "firm": "betaworks"
         }
       ]
     },
@@ -10199,7 +10244,7 @@
       "name": "The Entertainment Tech Investors",
       "tagline": "Gaming, streaming, social, and the creator economy. They understand attention, engagement, and what people do when they're not working.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "bijan-sabet",
@@ -10260,6 +10305,11 @@
           "slug": "woody-marshall",
           "name": "Woody Marshall",
           "firm": "tcv"
+        },
+        {
+          "slug": "kevin-lin",
+          "name": "Kevin Lin",
+          "firm": "metatheory"
         }
       ]
     },
@@ -11484,7 +11534,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves \u2014 but founders read their writing before pitching.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "paul-graham",
@@ -11535,6 +11585,11 @@
           "slug": "michael-dempsey",
           "name": "Michael Dempsey",
           "firm": "compound-ventures"
+        },
+        {
+          "slug": "sam-hinkie",
+          "name": "Sam Hinkie",
+          "firm": "87-capital"
         }
       ]
     },
@@ -11542,7 +11597,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 8,
+      "size": 10,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11583,6 +11638,16 @@
           "slug": "naveen-tewari",
           "name": "Naveen Tewari",
           "firm": "inmobi"
+        },
+        {
+          "slug": "abhay-singhal",
+          "name": "Abhay Singhal",
+          "firm": "glance"
+        },
+        {
+          "slug": "mohit-saxena",
+          "name": "Mohit Saxena",
+          "firm": "inmobi"
         }
       ],
       "id": "curated-48"
@@ -11591,7 +11656,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 5,
+      "size": 8,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -11617,6 +11682,21 @@
           "slug": "girish-mathrubootham",
           "name": "Girish Mathrubootham",
           "firm": "freshworks"
+        },
+        {
+          "slug": "piyush-shah",
+          "name": "Piyush Shah",
+          "firm": "inmobi"
+        },
+        {
+          "slug": "abhay-singhal",
+          "name": "Abhay Singhal",
+          "firm": "glance"
+        },
+        {
+          "slug": "mohit-saxena",
+          "name": "Mohit Saxena",
+          "firm": "inmobi"
         }
       ],
       "id": "curated-49"
