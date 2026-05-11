@@ -31,6 +31,15 @@ pending_rounds:
   status: processed
   processed: '2026-05-11'
   slug: nanostruct
+- title: Bologna’s Cellply secures €7.15 million to develop tools for faster immunotherapy
+    and cell therapy development
+  url: https://www.eu-startups.com/2026/05/bolognas-cellply-secures-e7-15-million-to-develop-tools-for-faster-immunotherapy-and-cell-therapy-development/
+  source: eu-startups
+  date_found: '2026-05-11'
+  parsed_company: Bologna’s Cellply
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
     for businesses and profitable for producers
   url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
@@ -992,14 +1001,3 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by iterative-health.md (Series C 2026-04-30 co-led by Intrepid Growth
     Partners and GV)
-- title: Fun raised $72M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Fun
-  parsed_amount: $72M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by fun.md ($72M Series A 2026-05-01 co-led by Multicoin Capital +
-    SignalFire)
