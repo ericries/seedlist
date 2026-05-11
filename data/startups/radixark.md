@@ -1,35 +1,42 @@
 ---
-name: "RadixArk"
-slug: radixark
-type: startup
-website: "https://radixark.com/"
-location: "Palo Alto, CA"
-founded: 2025
-status_company: active
-sector: [ai, ai-infrastructure, developer-tools, open-source]
-stage_latest: "Seed"
-total_raised: "$100M"
-investors:
-  - slug: olivier-pomel
-    round: seed
-    year: 2026
-    date: 2026-05-05
 firms:
-  - slug: accel
-    round: seed
-    year: 2026
-    date: 2026-05-05
-  - slug: spark-capital
-    round: seed
-    year: 2026
-    date: 2026-05-05
+- date: 2026-05-05
+  round: seed
+  slug: accel
+  year: 2026
+- date: 2026-05-05
+  round: seed
+  slug: spark-capital
+  year: 2026
+- round: '2026-05-05'
+  slug: datadog
+  year: 2026
+founded: 2025
 founders:
-  - name: "Ying Sheng"
-    role: "Co-Founder"
-  - name: "Banghua Zhu"
-    role: "Co-Founder"
-status: published
+- name: Ying Sheng
+  role: Co-Founder
+- name: Banghua Zhu
+  role: Co-Founder
+investors:
+- date: 2026-05-05
+  round: seed
+  slug: olivier-pomel
+  year: 2026
 last_researched: 2026-05-05
+location: Palo Alto, CA
+name: RadixArk
+sector:
+- ai
+- ai-infrastructure
+- developer-tools
+- open-source
+slug: radixark
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $100M
+type: startup
+website: https://radixark.com/
 ---
 
 ## About

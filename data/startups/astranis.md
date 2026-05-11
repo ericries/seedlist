@@ -4,10 +4,47 @@ firms:
   round: series-e
   slug: andreessen-horowitz
   year: 2026
+- round: Early
+  slug: uncorrelated-ventures
+  year: 2019
+- round: Series B
+  slug: venrock
+  year: 2020
+- round: Early
+  slug: ame-cloud-ventures
+  year: 2017
+- round: Seed
+  slug: refactor-capital
+  year: 2016
+- round: Series C
+  slug: metaplanet
+  year: 2021
 founded: 2015
 founders:
-- name: "John Gedmark"
-  role: "CEO & Co-Founder"
+- name: John Gedmark
+  role: CEO & Co-Founder
+investors:
+- round: Early
+  slug: salil-deshpande
+  year: 2019
+- round: Series B
+  slug: ethan-batraski
+  year: 2020
+- round: Early
+  slug: jerry-yang
+  year: 2017
+- round: Seed
+  slug: david-lee
+  year: 2016
+- round: '2020'
+  slug: martin-casado
+  year: 2020
+- round: Seed
+  slug: zal-bilimoria
+  year: 2016
+- round: Series C
+  slug: jaan-tallinn
+  year: 2021
 last_researched: 2026-05-07
 location: San Francisco, CA
 name: Astranis

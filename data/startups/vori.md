@@ -1,29 +1,39 @@
 ---
-name: "Vori"
-slug: vori
-type: startup
-website: "https://www.vori.com"
-location: "San Francisco, CA"
-founded: 2019
-status_company: active
-sector: [grocery-tech, ai, vertical-saas, retail-tech]
-stage_latest: "Series B"
-total_raised: "$22M+"
-investors: []
 firms:
-  - slug: greylock
-    round: series-b
-    year: 2026
-    date: 2026-05-05
+- date: 2026-05-05
+  round: series-b
+  slug: greylock
+  year: 2026
+- round: Seed
+  slug: pear-vc
+  year: 2022
+founded: 2019
 founders:
-  - name: "Brandon Hill"
-    role: "Co-Founder & CEO"
-  - name: "Tre Kirkman"
-    role: "Co-Founder"
-  - name: "Robert Pinkerton"
-    role: "Co-Founder"
-status: published
+- name: Brandon Hill
+  role: Co-Founder & CEO
+- name: Tre Kirkman
+  role: Co-Founder
+- name: Robert Pinkerton
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: kathleen-estreich
+  year: 2022
 last_researched: 2026-04-30
+location: San Francisco, CA
+name: Vori
+sector:
+- grocery-tech
+- ai
+- vertical-saas
+- retail-tech
+slug: vori
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $22M+
+type: startup
+website: https://www.vori.com
 ---
 
 ## About

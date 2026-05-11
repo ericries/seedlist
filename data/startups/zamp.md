@@ -1,22 +1,36 @@
 ---
-name: "Zamp"
-slug: zamp
-type: startup
-website: "https://zamp.com"
-location: "New York, NY"
-founded: 2022
-status_company: active
-sector: [fintech, tax, compliance, ai, agents, vertical-saas]
-stage_latest: "Growth"
-total_raised: "$30M"
 firms:
-  - slug: acrew-capital
-    round: growth
-    year: 2026
-    date: 2026-04-28
-investors: []
-status: published
+- date: 2026-04-28
+  round: growth
+  slug: acrew-capital
+  year: 2026
+- round: Seed (>$4M; Valor Equity Partners, Soma Capital, Day One Ventures + angels
+    including Garlinghouse, Yahya Mokhtarzada, Zac Bookman, Jon Oringer)
+  slug: ripple
+  year: 2023
+founded: 2022
+investors:
+- round: Seed (>$4M; Valor Equity Partners, Soma Capital, Day One Ventures + angels
+    including Garlinghouse, Yahya Mokhtarzada, Zac Bookman, Jon Oringer)
+  slug: brad-garlinghouse
+  year: 2023
 last_researched: 2026-04-28
+location: New York, NY
+name: Zamp
+sector:
+- fintech
+- tax
+- compliance
+- ai
+- agents
+- vertical-saas
+slug: zamp
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $30M
+type: startup
+website: https://zamp.com
 ---
 
 ## About

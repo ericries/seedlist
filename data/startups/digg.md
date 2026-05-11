@@ -37,6 +37,9 @@ firms:
 - round: Co-acquired / Chairman
   slug: true-ventures
   year: 2025
+- round: Acquired July 2012 (~$500K); merged with News.me
+  slug: betaworks
+  year: 2012
 founded: 2004
 founders:
 - name: Kevin Rose
@@ -63,6 +66,9 @@ investors:
 - round: Co-acquired / Chairman
   slug: kevin-rose
   year: 2025
+- round: Acquired July 2012 (~$500K); merged with News.me
+  slug: john-borthwick
+  year: 2012
 last_researched: 2026-03-24
 location: San Francisco, CA
 name: Digg

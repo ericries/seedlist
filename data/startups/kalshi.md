@@ -1,46 +1,76 @@
 ---
-name: Kalshi
-slug: kalshi
-type: startup
-website: https://kalshi.com/
-location: New York, NY
+firms:
+- date: 2026-05-07
+  round: series-f
+  slug: coatue-management
+  year: 2026
+- date: 2026-05-07
+  round: series-f
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-05-07
+  round: series-f
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-05-07
+  round: series-f
+  slug: ivp
+  year: 2026
+- date: 2026-05-07
+  round: series-f
+  slug: paradigm
+  year: 2026
+- round: Seed
+  slug: neo
+  year: 2021
+- round: Series C
+  slug: bond
+  year: 2024
+- round: '2025'
+  slug: multicoin-capital
+  year: 2025
 founded: 2018
-status_company: active
+founders:
+- name: Tarek Mansour
+  role: Co-Founder & CEO
+investors:
+- round: Series A
+  slug: alfred-lin
+  year: 2020
+- round: '2023'
+  slug: matt-huang
+  year: 2023
+- round: '2025'
+  slug: eric-liaw
+  year: 2025
+- round: Seed
+  slug: ali-partovi
+  year: 2021
+- round: Series C
+  slug: mood-rowghani
+  year: 2024
+- round: ~2021
+  slug: fred-ehrsam
+  year: 2021
+- round: '2025'
+  slug: tushar-jain
+  year: 2025
+last_researched: 2026-05-10
+location: New York, NY
+name: Kalshi
 sector:
 - fintech
 - prediction-markets
 - exchanges
 - regulated-markets
 - trading
+slug: kalshi
 stage_latest: Series F
-total_raised: $1.3B+
-investors: []
-firms:
-- slug: coatue-management
-  round: series-f
-  year: 2026
-  date: 2026-05-07
-- slug: sequoia-capital
-  round: series-f
-  year: 2026
-  date: 2026-05-07
-- slug: andreessen-horowitz
-  round: series-f
-  year: 2026
-  date: 2026-05-07
-- slug: ivp
-  round: series-f
-  year: 2026
-  date: 2026-05-07
-- slug: paradigm
-  round: series-f
-  year: 2026
-  date: 2026-05-07
-founders:
-- name: Tarek Mansour
-  role: Co-Founder & CEO
-last_researched: 2026-05-10
 status: published
+status_company: active
+total_raised: $1.3B+
+type: startup
+website: https://kalshi.com/
 ---
 
 ## About

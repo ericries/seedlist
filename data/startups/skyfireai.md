@@ -1,25 +1,35 @@
 ---
-name: "SkyfireAI"
-slug: skyfireai
-type: startup
-website: "https://skyfire.ai"
-location: "Huntsville, AL"
-founded: 2022
-status_company: active
-sector: [ai, defense, drones, robotics, public-safety, autonomy, dual-use]
-stage_latest: "Seed"
-total_raised: "$11M"
-investors: []
 firms:
-  - slug: mucker-capital
-    round: seed
-    year: 2026
-    date: 2026-04-28
+- date: 2026-04-28
+  round: seed
+  slug: mucker-capital
+  year: 2026
+founded: 2022
 founders:
-  - name: "Don Mathis"
-    role: "Co-Founder & CEO"
-status: published
+- name: Don Mathis
+  role: Co-Founder & CEO
+investors:
+- round: Seed
+  slug: erik-rannala
+  year: 2026
 last_researched: 2026-04-30
+location: Huntsville, AL
+name: SkyfireAI
+sector:
+- ai
+- defense
+- drones
+- robotics
+- public-safety
+- autonomy
+- dual-use
+slug: skyfireai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $11M
+type: startup
+website: https://skyfire.ai
 ---
 
 ## About

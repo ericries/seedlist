@@ -30,6 +30,9 @@ firms:
 - round: Series B
   slug: replit
   year: 2025
+- round: Seed round participant ($4.25M led by Lightspeed)
+  slug: betaworks
+  year: 2023
 founded: ~2023
 founders: []
 investors:
@@ -60,6 +63,9 @@ investors:
 - round: Series B
   slug: amjad-masad
   year: 2025
+- round: Seed round participant ($4.25M led by Lightspeed)
+  slug: john-borthwick
+  year: 2023
 last_researched: 2026-03-28
 location: London, United Kingdom
 name: Granola

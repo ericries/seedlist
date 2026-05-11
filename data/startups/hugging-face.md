@@ -30,6 +30,9 @@ firms:
 - round: Seed
   slug: transition-vc
   year: 2018
+- round: Lead angel ($1.2M); continued through Series C
+  slug: betaworks
+  year: 2017
 founded: 2016
 founders:
 - name: Clément Delangue
@@ -69,6 +72,9 @@ investors:
 - round: Seed
   slug: david-helgason
   year: 2018
+- round: Lead angel ($1.2M); continued through Series C
+  slug: john-borthwick
+  year: 2017
 last_researched: 2026-03-23
 location: New York, NY
 name: Hugging Face

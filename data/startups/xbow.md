@@ -1,28 +1,45 @@
 ---
-name: "XBOW"
-slug: xbow
-type: startup
-website: "https://xbow.com"
-location: "Seattle, WA"
-founded: 2024
-status_company: active
-sector: [cybersecurity, ai, offensive-security, penetration-testing, enterprise-software]
-stage_latest: "Series C"
-total_raised: "$270M+"
-last_verified_investment:
-  date: 2026-05-06
-  company: "XBOW"
-  round: "Series C extension"
-investors: []
 firms:
-  - slug: northzone
-    round: series-c
-    year: 2026
+- round: series-c
+  slug: northzone
+  year: 2026
+- round: '2024'
+  slug: datadog
+  year: 2024
+- round: Series A (co-led); Series B ($75M) participant
+  slug: nfdg
+  year: 2023
+founded: 2024
 founders:
-  - name: "Oege de Moor"
-    role: "Founder & CEO"
-status: published
+- name: Oege de Moor
+  role: Founder & CEO
+investors:
+- round: '2024'
+  slug: olivier-pomel
+  year: 2024
+- round: Series A (co-led); Series B ($75M) participant
+  slug: nat-friedman
+  year: 2023
 last_researched: 2026-05-07
+last_verified_investment:
+  company: XBOW
+  date: 2026-05-06
+  round: Series C extension
+location: Seattle, WA
+name: XBOW
+sector:
+- cybersecurity
+- ai
+- offensive-security
+- penetration-testing
+- enterprise-software
+slug: xbow
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $270M+
+type: startup
+website: https://xbow.com
 ---
 
 ## About

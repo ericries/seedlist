@@ -1,27 +1,41 @@
 ---
-name: "Moment Energy"
-slug: moment-energy
-type: startup
-website: "https://www.momentenergy.com"
-location: "Port Coquitlam, British Columbia, Canada"
+firms:
+- round: Seed
+  slug: version-one-ventures
+  year: 2021
 founded: 2020
-status_company: active
-sector: [climate, cleantech, energy-storage, battery, ev]
-stage_latest: "Series B"
-total_raised: "$100M+"
-investors: []
-firms: []
 founders:
-  - name: "Edward Chiang"
-    role: "Co-Founder & CEO"
-  - name: "Gabriel Soares"
-    role: "Co-Founder & CTO"
-  - name: "Sumreen Rattan"
-    role: "Co-Founder & COO"
-  - name: "Gurmesh Sidhu"
-    role: "Co-Founder & CPO"
-status: published
+- name: Edward Chiang
+  role: Co-Founder & CEO
+- name: Gabriel Soares
+  role: Co-Founder & CTO
+- name: Sumreen Rattan
+  role: Co-Founder & COO
+- name: Gurmesh Sidhu
+  role: Co-Founder & CPO
+investors:
+- round: Seed
+  slug: angela-tran
+  year: 2021
+- round: Seed
+  slug: boris-wertz
+  year: 2021
 last_researched: 2026-05-05
+location: Port Coquitlam, British Columbia, Canada
+name: Moment Energy
+sector:
+- climate
+- cleantech
+- energy-storage
+- battery
+- ev
+slug: moment-energy
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://www.momentenergy.com
 ---
 
 ## About

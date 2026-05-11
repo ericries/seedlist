@@ -8,6 +8,9 @@ firms:
   round: series-b
   slug: first-round-capital
   year: 2026
+- round: Series B (co-led)
+  slug: first-harmonic
+  year: 2026
 founded: 2023
 investors:
 - round: '2023'

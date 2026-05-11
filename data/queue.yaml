@@ -19486,7 +19486,7 @@ queue:
 - name: Brad Garlinghouse
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ripple Labs (CEO, angel)
   discovered_from: round-monitoring-2026-04-30
@@ -20206,7 +20206,7 @@ queue:
 - name: John Borthwick
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Betaworks
   discovered_from: david-karp
@@ -20557,3 +20557,155 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: marco-arment
+- name: Matt Hartman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: john-borthwick
+- name: Peter Rojas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: john-borthwick
+- name: Jordan Crook
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Betaworks
+  discovered_from: john-borthwick
+- name: Clément Delangue
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hugging Face
+  discovered_from: john-borthwick
+- name: Jake Lodwick
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: john-borthwick
+- name: Michael Mignano
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lightspeed Venture Partners
+  discovered_from: john-borthwick
+- name: Bitly
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-borthwick
+- name: Anchor
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-borthwick
+- name: The Browser Company
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-borthwick
+- name: Chris Larsen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ripple
+  discovered_from: brad-garlinghouse
+- name: Auren Hoffman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SafeGraph
+  discovered_from: brad-garlinghouse
+- name: Jon Oringer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pier 47 Ventures
+  discovered_from: brad-garlinghouse
+- name: Yahya Mokhtarzada
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Truebill
+  discovered_from: brad-garlinghouse
+- name: Zac Bookman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenGov
+  discovered_from: brad-garlinghouse
+- name: Alexander Rosen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ridge Ventures
+  discovered_from: brad-garlinghouse
+- name: Matt McIlwain
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Madrona Venture Group
+  discovered_from: brad-garlinghouse
+- name: Ben Spero
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Spectrum Equity
+  discovered_from: brad-garlinghouse
+- name: Ridge Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-garlinghouse
+- name: Day One Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-garlinghouse
+- name: SafeGraph
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-garlinghouse
+- name: Bitnomial
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-garlinghouse
+- name: Diffbot
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-garlinghouse
+- name: Animoto
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-garlinghouse

@@ -1,47 +1,56 @@
 ---
-name: "Corgi"
-slug: corgi
-type: startup
-website: "https://corgi.com"
-location: "San Francisco, California"
-founded: 2024
-status_company: active
-sector: [insurtech, fintech, AI]
-stage_latest: "Series B"
-total_raised: "$268M"
-investors:
-  - slug: kanyi-maqubela
-    round: series-a
-    year: 2026
-    date: 2026-01-09
-  - slug: kanyi-maqubela
-    round: series-b
-    year: 2026
-    date: 2026-05-06
 firms:
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-01-09
-  - slug: contrary
-    round: series-a
-    year: 2026
-    date: 2026-01-09
-  - slug: sv-angel
-    round: series-a
-    year: 2026
-    date: 2026-01-09
-  - slug: tcv
-    round: series-b
-    year: 2026
-    date: 2026-05-06
+- date: 2026-01-09
+  round: series-a
+  slug: y-combinator
+  year: 2026
+- date: 2026-01-09
+  round: series-a
+  slug: contrary
+  year: 2026
+- date: 2026-01-09
+  round: series-a
+  slug: sv-angel
+  year: 2026
+- date: 2026-05-06
+  round: series-b
+  slug: tcv
+  year: 2026
+- round: Seed
+  slug: kindred-ventures
+  year: 2024
+founded: 2024
 founders:
-  - name: "Nico Laqua"
-    role: "CEO & Co-Founder"
-  - name: "Emily Yuan"
-    role: "COO & Co-Founder"
-status: published
+- name: Nico Laqua
+  role: CEO & Co-Founder
+- name: Emily Yuan
+  role: COO & Co-Founder
+investors:
+- date: 2026-01-09
+  round: series-a
+  slug: kanyi-maqubela
+  year: 2026
+- date: 2026-05-06
+  round: series-b
+  slug: kanyi-maqubela
+  year: 2026
+- round: Seed/Series A
+  slug: eric-tarczynski
+  year: 2026
 last_researched: 2026-04-30
+location: San Francisco, California
+name: Corgi
+sector:
+- insurtech
+- fintech
+- AI
+slug: corgi
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $268M
+type: startup
+website: https://corgi.com
 ---
 
 ## About

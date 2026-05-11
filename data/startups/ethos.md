@@ -1,29 +1,45 @@
 ---
-name: "Ethos"
-slug: ethos
-type: startup
-location: "London, UK"
-status_company: active
-sector: [ai, expert-network, voice-ai, enterprise]
-stage_latest: "Series A"
-total_raised: "$22.75M"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-05-06
-  - slug: general-catalyst
-    round: series-a
-    year: 2026
-    date: 2026-05-06
+- date: 2026-05-06
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-05-06
+  round: series-a
+  slug: general-catalyst
+  year: 2026
+- round: Early (board)
+  slug: sequoia-capital
+  year: 2018
+- round: ~2017
+  slug: better-tomorrow-ventures
+  year: 2017
 founders:
-  - name: "James Lo"
-    role: "Co-Founder"
-  - name: "Daniel Mankowitz"
-    role: "Co-Founder"
-status: published
+- name: James Lo
+  role: Co-Founder
+- name: Daniel Mankowitz
+  role: Co-Founder
+investors:
+- round: Early (board)
+  slug: roelof-botha
+  year: 2018
+- round: ~2017
+  slug: sheel-mohnot
+  year: 2017
 last_researched: 2026-04-30
+location: London, UK
+name: Ethos
+sector:
+- ai
+- expert-network
+- voice-ai
+- enterprise
+slug: ethos
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $22.75M
+type: startup
 ---
 
 ## About

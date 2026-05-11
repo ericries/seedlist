@@ -1,26 +1,32 @@
 ---
+firms:
+- round: Seed
+  slug: transition-vc
+  year: 2023
+founded: 2020
+founders:
+- name: Jon Sigvert
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: david-helgason
+  year: 2023
+last_researched: 2026-05-08
+location: Copenhagen, Denmark
 name: Reel
+sector:
+- climate-tech
+- clean-energy
+- energy
+- renewable-energy
+- energy-transition
 slug: reel
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: €22.3M
 type: startup
 website: https://reel.energy
-location: Copenhagen, Denmark
-founded: 2020
-status_company: active
-sector:
-  - climate-tech
-  - clean-energy
-  - energy
-  - renewable-energy
-  - energy-transition
-stage_latest: Series A
-total_raised: "€22.3M"
-firms: []
-investors: []
-founders:
-  - name: Jon Sigvert
-    role: CEO & Co-Founder
-status: published
-last_researched: 2026-05-08
 ---
 
 ## About
