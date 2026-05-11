@@ -27,3 +27,7 @@ priority:
   type: firm
   reason: "co-investor with Spark Capital RadixArk Seed (2026-05-05)"
   added: 2026-05-11
+- slug: andreessen-horowitz
+  type: firm
+  reason: "follow-on Astranis Series E noted (2026-05-06) and other May rounds"
+  added: 2026-05-11

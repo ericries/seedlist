@@ -39,7 +39,49 @@ pending_rounds:
   parsed_company: Bologna’s Cellply
   parsed_amount: null
   parsed_round: null
+  status: processed
+  processed: '2026-05-11'
+  slug: cellply
+- title: Verizon announces private exchange offers and consent solicitations for 11
+    series of notes open to certain investors
+  url: https://www.globenewswire.com/news-release/2026/05/11/3291869/0/en/Verizon-announces-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes-open-to-certain-investors.html
+  source: globenewswire
+  date_found: '2026-05-11'
+  parsed_company: Verizon
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: public company debt exchange offer, not a startup round
+- title: 'The Weekly Notable Startup Funding Report: 5/11/26'
+  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-11-26/
+  source: alleywatch
+  date_found: '2026-05-11'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-11'
+  notes: weekly aggregator; created darkhive.md ($30M Series B 2026-05-07 RTX Ventures-led)
+- title: London’s Fifth Dimension raises €22 million to scale AI-powered decision
+    intelligence for real assets
+  url: https://www.eu-startups.com/2026/05/londons-fifth-dimension-raises-e22-million-to-scale-ai-powered-decision-intelligence-for-real-assets/
+  source: eu-startups
+  date_found: '2026-05-11'
+  parsed_company: London’s Fifth Dimension
+  parsed_amount: null
+  parsed_round: null
   status: pending
+- title: Quantum software startup Algorithmiq raises €18 million and moves global
+    HQ from Helsinki to Milan
+  url: https://www.eu-startups.com/2026/05/quantum-software-startup-algorithmiq-raises-e18-million-and-moves-global-hq-from-helsinki-to-milan/
+  source: eu-startups
+  date_found: '2026-05-11'
+  parsed_company: Quantum software startup Algorithmiq
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-11'
+  slug: algorithmiq
 - title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
     for businesses and profitable for producers
   url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
@@ -958,46 +1000,3 @@ pending_rounds:
   processed: '2026-05-01'
   notes: covered by synaps.md ($3.6M pre-seed led by Plug and Play with Fil Rouge
     Capital, 2026-04-30)
-- title: 'Data: The Seed Funding Boom Is Concentrating Capital In The San Francisco
-    Bay Area'
-  url: https://news.crunchbase.com/seed/us-startup-venture-funding-boom-concentration-bay-area/
-  source: crunchbase
-  date_found: '2026-05-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  skip_reason: trend/data analysis piece, not a specific round
-- title: Amsterdam’s VNYX secures over €1 million to make fashion resale more profitable
-    than dumping and burning
-  url: https://www.eu-startups.com/2026/05/amsterdams-vnyx-secures-over-e1-million-to-make-fashion-resale-more-profitable-than-dumping-and-burning/
-  source: eu-startups
-  date_found: '2026-05-01'
-  parsed_company: Amsterdam’s VNYX
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by vnyx.md (€1M+ pre-seed, Amsterdam fashion resale)
-- title: Denmark’s Decameal raises Seed funding to turn invasive shore crabs into
-    sustainable feed ingredients
-  url: https://www.eu-startups.com/2026/05/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/
-  source: eu-startups
-  date_found: '2026-05-01'
-  parsed_company: Denmark’s Decameal
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by decameal.md (Seed, Denmark invasive crab feed)
-- title: Iterative Health raised $77M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-01'
-  parsed_company: Iterative Health
-  parsed_amount: $77M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by iterative-health.md (Series C 2026-04-30 co-led by Intrepid Growth
-    Partners and GV)
