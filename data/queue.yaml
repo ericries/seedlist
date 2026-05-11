@@ -20709,3 +20709,91 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: brad-garlinghouse
+- name: Prudence
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fifth-dimension-ai
+- name: Mercia Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fifth-dimension-ai
+- name: MMC Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fifth-dimension-ai
+- name: AFG Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fifth-dimension-ai
+- name: Anthemis Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fifth-dimension-ai
+- name: Kate Jarvis
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fifth Dimension AI
+  discovered_from: fifth-dimension-ai
+- name: Johnny Morris
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fifth Dimension AI
+  discovered_from: fifth-dimension-ai
+- name: Bek Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grand-games
+- name: Laton Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grand-games
+- name: Bekir Batuhan Çelebi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Grand Games
+  discovered_from: grand-games
+- name: Blossom Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cowboy-space-corporation
+- name: SAIC (Science Applications International)
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cowboy-space-corporation
+- name: Interlagos
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cowboy-space-corporation
+- name: Baiju Bhatt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cowboy Space Corporation
+  discovered_from: cowboy-space-corporation

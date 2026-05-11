@@ -2,7 +2,7 @@
 founded: 1996
 fund_size: '$2.3B (2024: $800M venture + $1.5B growth); $15B total capital raised;
   $3.1B (2021)'
-last_researched: 2026-03-20
+last_researched: 2026-05-11
 location: San Francisco, CA
 name: Index Ventures
 sector_focus:
@@ -141,6 +141,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Trainline (Captain Train) | Seed | 2012 | Travel | [^37] |
 | Granola | Series C (led, $125M, $1.5B val) | 2026-03-25 | AI/Enterprise | [^14][^39][^40][^41] |
 | Ineffable Intelligence | Seed | 2026 | AI / Foundation Models | [^38] |
+| Cowboy Space Corporation | Series B (led, $275M at $2B val) | 2026-05-11 | Space Tech/AI Infrastructure | [^42][^43] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -206,3 +207,7 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^40]: Index Ventures, "Index Ventures Leads Granola's $125M Series C," March 25, 2026. https://www.indexventures.com/perspectives/granola-investing-in-what-makes-us-human/
 
 [^41]: Bloomberg, "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding," March 25, 2026. https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding
+
+[^42]: BusinessWire, "Cowboy Space Corporation Raises $275M Series B For Vertically-Integrated Orbital Data Centers and Rockets," May 11, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260508036993/en/Cowboy-Space-Corporation-Raises-%24275M-Series-B-For-Vertically-Integrated-Orbital-Data-Centers-and-Rockets — Confirms $275M Series B at $2B valuation led by Index Ventures with IVP, Blossom Capital, SAIC, Breakthrough Energy Ventures, Construct Capital, Andreessen Horowitz, NEA, Interlagos, and founder Baiju Bhatt.
+
+[^43]: TechCrunch, "There aren't enough rockets for space data centers — Cowboy Space raised $275M to build them," May 11, 2026. Accessed May 2026. https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/
