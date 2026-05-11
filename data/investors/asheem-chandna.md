@@ -84,7 +84,7 @@ Based on 26 verified investments in the portfolio table below, the following pat
 | Palo Alto Networks | 2006 | Series A | Cybersecurity | IPO 2012 (NYSE: PANW) | [^9][^10] |
 | Aruba Networks | 2003 | Early | Networking | Acquired by HP, 2015 | [^1] |
 | CipherTrust | ~2004 | Early | Cybersecurity | Acquired by McAfee | [^1] |
-| AppDynamics | 2008 | Series A | APM / Enterprise | Acquired by Cisco, 2017, $3.7B | [^11][^12] |
+| AppDynamics | 2008-04-04 | Series A (co-led, $5.5M) | APM / Enterprise | Acquired by Cisco, 2017, $3.7B | [^11][^12] |
 | Aquantia | 2008 | Early | Networking | Acquired by Marvell | [^13] |
 | Delphix | 2009 | Series A | Data Management | Active | [^14] |
 | Sumo Logic | 2010 | Seed/Series A | Log Analytics / SIEM | IPO 2020 (Nasdaq: SUMO) | [^15] |

@@ -7,14 +7,6 @@ priority:
   type: firm
   reason: "participated in Kalshi Series F (2026-05-07)"
   added: 2026-05-10
-- slug: ivp
-  type: firm
-  reason: "participated in Kalshi Series F (2026-05-07)"
-  added: 2026-05-10
-- slug: greylock
-  type: firm
-  reason: "participated in District Seed (2026-05-06)"
-  added: 2026-05-10
 - slug: andreessen-horowitz
   type: firm
   reason: "follow-on Astranis Series E noted (2026-05-06) and other May rounds"

@@ -14717,9 +14717,10 @@ vague_facts:
   profile: firms/ivp
   profile_name: IVP
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9]'
+  resolution: "Resolved 2026-05-11: IVP led AppDynamics Series D, $50M, 2013-01-23 (per PR Newswire + IVP press release). Updated profile to Series D (led, $50M) | 2013-01-23 with two new citations [^11][^12]."
 - column: 5
   company: CrowdStrike
   line: '| CrowdStrike | Series B | ~2015 | Cybersecurity | IPO (2019, NASDAQ: CRWD)
@@ -193079,8 +193080,9 @@ vague_facts:
   profile: firms/kleiner-perkins
   profile_name: Kleiner Perkins
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
+  resolution: "Resolved 2026-05-11: KPCB led AppDynamics Series C, $20M, 2012-01-17 (per PR Newswire + TechCrunch). Updated profile to Series C (led, $20M) | 2012-01-17."
   value: ~2010
 - column: 2
   company: DocuSign

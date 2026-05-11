@@ -164,7 +164,7 @@ The following table includes notable investments verified through multiple sourc
 | Beyond Meat | Growth | ~2016 | Food Tech | Public (IPO 2019) [^3] |
 | Palo Alto Networks | Early Stage | ~2007 | Cybersecurity | Public (IPO 2012) [^1] |
 | Nest | Early Stage | ~2011 | Hardware / IoT | Acquired by Google (2014) [^1] |
-| AppDynamics | Early Stage | ~2010 | Enterprise / APM | Acquired by Cisco (2017) [^1] |
+| AppDynamics | Series C (led, $20M) | 2012-01-17 | Enterprise / APM | Acquired by Cisco (2017) [^1][^42] |
 | DocuSign | Growth | ~2013 | Enterprise SaaS | Public (IPO 2018) [^6] |
 | Box | Series B | ~2012 | Enterprise / Cloud | Public (IPO 2015) [^18] |
 | Looker | Early Stage | ~2016 | Enterprise / BI | Acquired by Google (2019) [^3] |
@@ -338,3 +338,5 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^40]: PR Newswire, "Parallel Raises at $2 Billion Valuation to Scale Web Infrastructure for Agents," April 29, 2026. https://www.prnewswire.com/news-releases/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents-302756350.html — $100M Series B led by Sequoia Capital at $2B valuation; Kleiner Perkins participated as an existing investor. Cross-referenced with TechCrunch, "Parallel Web Systems hits $2B valuation five months after its last big raise," April 29, 2026. https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/
 
 [^41]: PR Newswire, "Avoca Raises $125M+ at $1B Valuation to Power America's Services Economy With AI," April 27, 2026. https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html — Kleiner Perkins led Avoca's Series A, alongside Amplify Partners and Nexus Venture Partners; round disclosed on April 27, 2026 alongside a Meritech/General Catalyst-led Series B. Cross-referenced with Avoca, "Why We Are Building," April 27, 2026, https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation, which confirms Leigh Marie Braswell of Kleiner Perkins as the Series A lead. Partner Leigh Marie Braswell quoted in PR Newswire: "They're applying AI where execution is the real bottleneck."
+
+[^42]: PR Newswire, "AppDynamics Secures $20 Million in Series C Financing Led by Kleiner Perkins Caufield & Byers," January 17, 2012. https://www.prnewswire.com/news-releases/appdynamics-secures-20-million-in-series-c-financing-led-by-kleiner-perkins-caufield--byers-137471713.html — KPCB led AppDynamics' $20M Series C on January 17, 2012; round also included existing investors Greylock Partners and Lightspeed Venture Partners. Cross-referenced with TechCrunch, "AppDynamics Lands $20M From KPCB, Others For Application Performance Management Solutions," January 17, 2012. https://techcrunch.com/2012/01/17/appdynamics-lands-20m-from-kpcb-others-for-application-performance-management-solutions/ — Accessed May 2026.

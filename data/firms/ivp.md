@@ -119,7 +119,7 @@ Based on 120+ verified investments from the firm's portfolio page, the following
 | Slack | Series B | ~2014 | Enterprise/Collaboration | Acquired by Salesforce (2021) | [^6] |
 | GitHub | Growth | ~2015 | Developer Tools | Acquired by Microsoft (2018) | [^9] |
 | Marketo | Growth | ~2009 | Enterprise/Marketing | Acquired by Adobe (2018) | [^9] |
-| AppDynamics | Growth | ~2013 | Enterprise/APM | Acquired by Cisco (2017) | [^9] |
+| AppDynamics | Series D (led, $50M) | 2013-01-23 | Enterprise/APM | Acquired by Cisco (2017) | [^9][^11][^12] |
 | CrowdStrike | Series B | ~2015 | Cybersecurity | IPO (2019, NASDAQ: CRWD) | [^6] |
 | Coinbase | Growth | ~2017 | Fintech/Crypto | IPO (2021, NASDAQ: COIN) | [^6] |
 | MuleSoft | Growth | ~2015 | Enterprise/Integration | Acquired by Salesforce (2018) | [^9] |
@@ -175,3 +175,7 @@ No independently sourced founder testimonials found from third-party sources at 
 [^8]: Business Wire, "Steve Harrick, Eric Liaw and Tom Loverro Named on the 2021 GrowthCap's Top 25 Software Investors List," November 2021, accessed March 2026. https://www.businesswire.com/news/home/20211103006376/en/Steve-Harrick-Eric-Liaw-and-Tom-Loverro-Named-on-the-2021-GrowthCap%E2%80%99s-Top-25-Software-Investors-List
 [^9]: IVP, "Portfolio," accessed March 2026. https://www.ivp.com/portfolio/
 [^10]: YourStory, "From Netflix to Twitter, Somesh Dash of IVP explains its investment thesis," July 2020, accessed March 2026. https://yourstory.com/2020/07/netflix-twitter-uber-ivp-investment-thesis-somesh-dash
+
+[^11]: PR Newswire, "AppDynamics Secures $50 Million Financing Round; Kicks Off 2013 with 300 Percent Growth," January 23, 2013. https://www.prnewswire.com/news-releases/appdynamics-secures-50-million-financing-round-kicks-off-2013-with-300-percent-growth-188006041.html — AppDynamics' $50M Series D announced January 23, 2013 was led by new investor IVP, with existing investors Greylock Partners, Kleiner Perkins Caufield & Byers, and Lightspeed Venture Partners also participating. Accessed May 2026.
+
+[^12]: IVP press release, "AppDynamics Secures $50 Million Financing Round; Kicks Off 2013 with 300 Percent Growth." https://www.ivp.com/news/press-release/appdynamics-secures--50-million-financing-round--kicks-off-2013-with-300-percent-growth/ — IVP's own announcement of the January 23, 2013 Series D investment. Accessed May 2026.

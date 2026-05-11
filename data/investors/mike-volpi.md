@@ -103,7 +103,7 @@ Based on 29 verified investments spanning 2010-2025, Volpi's actual investment b
 | Cockroach Labs | 2016 | Series A | Open-source database | [^16] |
 | Slack | ~2015 | Growth | Enterprise collaboration | [^17] |
 | Scale AI | ~2018 | Early | AI data infrastructure | [^18] |
-| Aurora Innovation | 2018 | Series A ($90M round) | Autonomous vehicles | [^19] |
+| Aurora Innovation | 2018-02-28 | Series A (co-led, $90M) | Autonomous vehicles | [^19] |
 | Kong | ~2018 | Growth | Open-source API gateway | [^20] |
 | Starburst | 2019 | Series A ($22M) | Open-source data analytics (Presto) | [^21] |
 | Wealthfront | ~2013 | Series B | Fintech / wealth management | [^22] |
