@@ -82,6 +82,15 @@ pending_rounds:
   status: processed
   processed: '2026-05-11'
   slug: algorithmiq
+- title: Nscale extends funding momentum with €670 million for Norway AI infrastructure
+    project
+  url: https://www.eu-startups.com/2026/05/nscale-extends-funding-momentum-with-e670-million-for-norway-ai-infrastructure-project/
+  source: eu-startups
+  date_found: '2026-05-11'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
     for businesses and profitable for producers
   url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
@@ -988,15 +997,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: aggregator daily summary; only Reserv listed and already covered (reserv.md)
-- title: '“If Figma and Lovable had a child that became an architect”: Synaps raises
-    €3.06 million to rival AutoCAD'
-  url: https://www.eu-startups.com/2026/05/if-figma-and-lovable-had-a-child-that-became-an-architect-synaps-raises-e3-06-million-to-rival-autocad/
-  source: eu-startups
-  date_found: '2026-05-01'
-  parsed_company: '“If Figma and Lovable had a child that became an architect”: Synaps'
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-01'
-  notes: covered by synaps.md ($3.6M pre-seed led by Plug and Play with Fil Rouge
-    Capital, 2026-04-30)
