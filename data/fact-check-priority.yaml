@@ -11,18 +11,6 @@ priority:
   type: firm
   reason: "appeared in Panthalassa Series B (2026-05-05)"
   added: 2026-05-10
-- slug: john-doerr
-  type: investor
-  reason: "appeared in Panthalassa Series B (2026-05-05)"
-  added: 2026-05-10
-- slug: marc-benioff
-  type: investor
-  reason: "appeared in Panthalassa Series B (2026-05-05)"
-  added: 2026-05-10
-- slug: max-levchin
-  type: investor
-  reason: "appeared in Panthalassa Series B (2026-05-05)"
-  added: 2026-05-10
 - slug: lowercarbon-capital
   type: firm
   reason: "appeared in Panthalassa Series B (2026-05-05)"

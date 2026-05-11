@@ -98,7 +98,7 @@ Notable pattern: Levchin's investments consistently target regulated industries 
 | PsiQuantum | ~2020 | Growth (SciFi VC) | Quantum Computing | [^5] |
 | AgentSync | ~2021 | Angel | Insurtech/SaaS | [^9] |
 | Synctera | ~2021 | Angel | Fintech/Banking | [^9] |
-| Bland AI | 2025 | Seed | AI/Automation | [^3] |
+| Bland AI | 2024-08-29 | Series A (Angel) | AI/Automation | [^3][^11][^12] |
 | Uber | ~2013 | Angel (SciFi VC) | Transportation | [^5] |
 
 Notes:
@@ -159,3 +159,7 @@ Note: The Aven, Brex, and Loft testimonials are sourced from the SciFi VC websit
 [^9]: CB Insights, "Max Levchin Portfolio Investments," accessed March 2026. https://www.cbinsights.com/investor/max-levchin
 
 [^10]: A-Z Quotes, "Top 25 Quotes by Max Levchin," accessed March 2026. https://www.azquotes.com/author/22128-Max_Levchin
+
+[^11]: The SaaS News, "Bland AI Raises $16 Million in Series A," August 29, 2024. Accessed May 2026. https://www.thesaasnews.com/news/bland-ai-raises-16-million-in-series-a — Confirms Bland AI's $16M Series A on August 29, 2024, led by Scale Venture Partners, with angel participation from Max Levchin, Piotr Dąbkowski, and Jeff Lawson. Y Combinator also participated.
+
+[^12]: BusinessWire, "Conversational AI Platform Bland AI Raises $16M to Change Outdated Enterprise Call Practices With Automated Phone Agents," August 28, 2024. Accessed May 2026. https://www.businesswire.com/news/home/20240828040767/en/Conversational-AI-Platform-Bland-AI-Raises-$16M-to-Change-Outdated-Enterprise-Call-Practices-With-Automated-Phone-Agents

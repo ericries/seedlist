@@ -121,7 +121,7 @@ Based on 24 verified unicorn investments tracked by Arete Index and 10 recent in
 | Viome | 2024 | Series D | [^4] |
 | World Labs | 2024 | Series A | [^4] |
 | SandboxAQ | 2024 | Venture | [^4] |
-| Sumble | 2025 | Series A | [^9] |
+| Sumble | 2025-10-22 | Series A | [^9][^10][^11] |
 | Commonwealth Fusion Systems | ~2021 | Venture | [^2] |
 | Universal Hydrogen | ~2021 | Venture | [^2] |
 | NCX | ~2021 | Venture | [^2] |
@@ -155,3 +155,7 @@ No independently sourced founder testimonials found.
 [^7]: Arete Index, "Marc Benioff — Investor," accessed March 2026. https://www.areteindex.com/angels/marc-benioff/
 [^8]: Signal by NFX, "Marc Benioff's Investing Profile — Angel," accessed March 2026. https://signal.nfx.com/investors/marc-benioff
 [^9]: WebWire, "Sumble Emerges from Stealth with $38.5M," October 2025, accessed March 2026. https://www.webwire.com/ViewPressRel.asp?aId=345538
+
+[^10]: TechCrunch, "Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence," October 22, 2025. Accessed May 2026. https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/ — Sumble announced its emergence from stealth on October 22, 2025 with $38.5M total ($8.5M Seed led by Coatue + $30M Series A led by Canaan Partners). Marc Benioff participated as a strategic angel alongside AIX Ventures, Square Peg, Bloomberg Beta, Zetta, and Nat Friedman.
+
+[^11]: SiliconANGLE, "Sumble launches with $38.5M to expand AI-powered go-to-market intelligence platform," October 22, 2025. Accessed May 2026. https://siliconangle.com/2025/10/22/sumble-launches-38-5m-expand-ai-powered-go-market-intelligence-platform/

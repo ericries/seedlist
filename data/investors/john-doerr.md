@@ -107,7 +107,7 @@ Total: 25 verified investments. Note: this sample represents a small fraction of
 | Tia | 2020 | Series A | [^24] |
 | ASAPP | 2020 | Series B | [^25] |
 | Complete Solaria | 2023 | Growth | [^26] |
-| Terradot | 2024 | Series A | [^27] |
+| Terradot | 2024-12-12 | Series A (led) | [^27][^31][^32] |
 | Hippocratic AI | 2025 | Series C | [^28] |
 
 ## In Their Own Words
@@ -229,3 +229,7 @@ No independently sourced founder testimonials about working directly with John D
 [^29]: Goodreads, John Doerr quotes from *Measure What Matters*, accessed March 2026. https://www.goodreads.com/author/quotes/22373767.John_Doerr
 
 [^30]: Sebastian Mallaby, *The Power Law* (2022), as summarized in Manas J. Saloi's book notes, accessed March 2026. https://manassaloi.com/booksummaries/2022/04/11/power-law-mallaby.html
+
+[^31]: BusinessWire, "With $58.2M in Funding & Landmark Carbon Removal Deals, Terradot Launches with Bold Plan to Scale CO2 Removal this Decade," December 12, 2024. Accessed May 2026. https://www.businesswire.com/news/home/20241212215501/en/With-$58.2M-in-Funding-Landmark-Carbon-Removal-Deals-Terradot-Launches-with-Bold-Plan-to-Scale-CO2-Removal-this-Decade — Terradot's launch from stealth on December 12, 2024 with $58.2M total funding ($4.2M Seed + $54M Series A). John Doerr led the Series A; co-investors included Kleiner Perkins, Microsoft's Climate Innovation Fund, Google, Cisco, Floodgate, Acre Venture Partners, Gigascale Capital, Valor Capital, Ponderosa Ventures, and individuals Sheryl Sandberg, Tom Bernthal, and George Roberts.
+
+[^32]: LatamList, "Terradot raises $58M series A round," December 2024. Accessed May 2026. https://latamlist.com/terradot-raises-58m-series-a-round/ — Confirms John Doerr (Kleiner Perkins Chairman) led the Series A round.
