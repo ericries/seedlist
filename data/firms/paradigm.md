@@ -101,7 +101,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Farcaster | Series A | 2024 | Social/Crypto | [^24] |
 | Nous Research | Series A | 2025 | AI/Open Source | [^25] |
 | Tempo | Incubation | 2025 | Blockchain Payments | [^26] |
-| Kalshi | Series E | 2025 | Prediction Markets | [^27] |
+| Kalshi | Series E (led) | 2025-12-02 | Prediction Markets | [^27][^32] |
 | Andromeda | Growth | 2026 | AI Compute | [^28] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | [^29] |
 
@@ -155,3 +155,5 @@ No additional independently sourced founder testimonials found from third-party 
 [^29]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale
 [^30]: Conduit blog, "Announcing Conduit's $37M Series A led by Paradigm and Haun Ventures," June 19, 2024, accessed May 2026. https://www.conduit.xyz/blog/conduit-series-a/
 [^31]: blocmates, "Conduit Raises $37 Million in Series A Round Led by Paradigm, Haun Ventures," June 2024, accessed May 2026. https://www.blocmates.com/news-posts/conduit-raises-37-million-in-series-a-round-led-by-paradigm-haun-ventures
+
+[^32]: Kalshi press release, "Kalshi Reaches $11 Billion Valuation as App Takes over America," December 2, 2025. Accessed May 2026. https://news.kalshi.com/p/kalshi-11-billion-valuation-series-e — Confirms $1B Series E announced December 2, 2025 led by Paradigm at $11B valuation; Sequoia, Andreessen Horowitz, Meritech Capital, IVP, ARK Invest, Anthos Capital, CapitalG, and Y Combinator participated.

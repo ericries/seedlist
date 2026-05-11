@@ -11,22 +11,10 @@ priority:
   type: firm
   reason: "participated in Kalshi Series F (2026-05-07)"
   added: 2026-05-10
-- slug: paradigm
-  type: firm
-  reason: "participated in Kalshi Series F (2026-05-07)"
-  added: 2026-05-10
 - slug: greylock
   type: firm
   reason: "participated in District Seed (2026-05-06)"
   added: 2026-05-10
-- slug: balderton-capital
-  type: firm
-  reason: "co-led Davis Pre-Seed (2026-05-06)"
-  added: 2026-05-10
-- slug: accel
-  type: firm
-  reason: "co-investor with Spark Capital RadixArk Seed (2026-05-05)"
-  added: 2026-05-11
 - slug: andreessen-horowitz
   type: firm
   reason: "follow-on Astranis Series E noted (2026-05-06) and other May rounds"

@@ -196,7 +196,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Braintree | Series A ($34M, led) | 2011 | Fintech | [^33][^34] |
 | Supercell | Series A ($12M, led) | 2011 | Gaming | [^35][^36] |
 | Scale AI | Early | 2017 | AI/Data | [^12] |
-| Perplexity | Growth | 2024 | AI | [^9] |
+| Perplexity | Series D (led) | 2025-05-14 | AI | [^9][^55] |
 | Anysphere (Cursor) | Early | 2024 | AI/Developer Tools | [^9] |
 | Lovable | Series A ($200M, led, $1.8B valuation) | 2025-07-17 | AI / App Builder | [^9][^38][^39][^40] |
 | True Anomaly | Series D ($650M) | 2026-04-28 | Space/Defense | [^9][^44] |
@@ -311,3 +311,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^53]: TechCrunch, "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes," January 21, 2026, accessed May 2026. https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/
 
 [^54]: Fortune, "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP's $89 billion migration wave," May 5, 2026. https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/ — San Francisco-based Nova Intelligence announced a $31.5M Series A on May 5, 2026 led by Chemistry; existing investors Accel, Conviction, and SAP.iO participated. Total raised over $40M. Co-founders: Emma Qian (CEO), Sam Yang, and Professor Alexander Zeier (co-inventor of SAP HANA). Justin Kershaw (formerly CIO of Cargill) joined as Chief Customer Officer.
+
+[^55]: FinTech Weekly, "AI Startup Perplexity's Valuation Jumps to $14 Billion Following $500 Million Funding Round," May 14, 2025. Accessed May 2026. https://www.fintechweekly.com/magazine/articles/perplexity-ai-startup-valuation-14-billion-funding-round — Confirms Accel led Perplexity's $500M Series D in May 2025 at $14B valuation. Accel partner Sameer Gandhi joined the board. Cross-referenced with CNBC, "Perplexity AI wrapping talks to raise $500 million at $14 billion valuation," May 12, 2025. https://www.cnbc.com/2025/05/12/perplexity-funding-round-comet.html — pre-announcement reporting that Accel was close to leading the round.

@@ -132,7 +132,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | SOPHiA Genetics | Early stage | 2015 | Digital Health | IPO 2021 [^2] |
 | Flywire | Early stage | 2014 | Fintech | IPO 2021 [^2] |
 | Checkly | Series B | 2024 | Enterprise/DevOps | Active [^6] |
-| The Exploration Company | Series B | 2024 | Deep Tech/Aerospace | Active [^6] |
+| The Exploration Company | Series B (co-led) | 2024-11-18 | Deep Tech/Aerospace | Active [^6][^18] |
 | Writer | Seed | 2020 | AI/Enterprise | Active [^3] |
 | Quantum Systems | Series C | 2025 | Defence Tech/Drones | Active [^14] |
 | Proxima Fusion | Series A | 2025 | Deep Tech/Fusion | Active [^6] |
@@ -200,3 +200,5 @@ No additional independently sourced founder testimonials found beyond those publ
 [^15]: Balderton Capital, "GoCardless secures $75 million Series E investment," accessed March 2026. https://www.balderton.com/news/gocardless-secures-75-million-series-e-investment-to-open-up-access-to-the-first-global-bank-debit-network/
 [^16]: Balderton Capital, Founder Well-being page testimonials, accessed March 2026. https://www.balderton.com/founder-well-being/
 [^17]: Balderton Capital, "Etsy to acquire global fashion resale marketplace Depop," 2021. https://www.balderton.com/news/etsy-to-acquire-global-fashion-resale-marketplace-depop/
+
+[^18]: Balderton Capital, "The Exploration Company raises $160 million to build the first European space capsule," November 18, 2024. Accessed May 2026. https://www.balderton.com/news/the-exploration-company-raises-160-million-to-build-the-first-european-space-capsule/ — Confirms $160M Series B co-led by Balderton Capital and Plural on November 18, 2024, with participation from Bessemer Venture Partners, NGP Capital, French Tech Souveraineté, DeepTech & Climate Fonds, Bayern Kapital, EQT Ventures, Red River West, Cherry Ventures, Orbital Ventures, and Omnes Real Tech Fund. Cross-referenced with TechCrunch, "The Exploration Company raises $160M to build Europe's answer to SpaceX Dragon," November 17, 2024. https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/
