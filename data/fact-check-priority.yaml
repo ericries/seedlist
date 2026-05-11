@@ -1,17 +1,1 @@
-priority:
-- slug: 500-global
-  type: firm
-  reason: "co-led DeepInfra Series B (2026-05-04)"
-  added: 2026-05-10
-- slug: index-ventures
-  type: firm
-  reason: "led Cowboy Space Series B ($275M, 2026-05-11)"
-  added: 2026-05-11
-- slug: balderton-capital
-  type: firm
-  reason: "led Grand Games Series B ($70M, 2026-05-11)"
-  added: 2026-05-11
-- slug: dcvc
-  type: firm
-  reason: "co-led Kanvas Biosciences Series A (2026-05-06)"
-  added: 2026-05-11
+priority: []

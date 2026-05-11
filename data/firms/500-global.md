@@ -1,7 +1,7 @@
 ---
 founded: 2010
 fund_size: $2.3B AUM (as of April 2025); $140M flagship fund (2021)
-last_researched: 2026-04-01
+last_researched: 2026-05-11
 location: Palo Alto, CA
 name: 500 Global
 sector_focus:
@@ -97,17 +97,17 @@ Notable portfolio companies with verified investment data:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Twilio | Seed | 2010 | Communications | IPO (2016, NYSE) | [^12][^16][^23] |
-| Wildfire | Seed | 2011 | Marketing | Acquired by Google ($350M) | [^16][^24] |
-| MakerBot | Seed | 2011 | Hardware | Acquired by Stratasys ($403M) | [^16][^24] |
-| Udemy | Seed | 2011 | EdTech | IPO (2021, NASDAQ) | [^16][^24] |
-| Credit Karma | Series B | 2013 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12][^25] |
-| Viki | Series A | 2010 | Media | Acquired by Rakuten ($200M) | [^16][^26] |
+| Wildfire | Seed | 2011 | Marketing | Acquired by Google ($350M) | [^16][^2] |
+| MakerBot | Seed | 2011 | Hardware | Acquired by Stratasys ($403M) | [^16][^2] |
+| Udemy | Seed | 2011 | EdTech | IPO (2021, NASDAQ) | [^16][^2] |
+| Credit Karma | Series B | 2013 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12][^24] |
+| Viki | Series A | 2010 | Media | Acquired by Rakuten ($200M) | [^16][^25] |
 | Simple | Seed | ~2012 | Fintech | Acquired by BBVA ($117M) | [^16] |
-| Canva | Seed | 2013 | Design/SaaS | Active ($40B valuation) | [^12][^17][^27] |
-| Talkdesk | Seed | 2012 | Enterprise SaaS | Active ($10B valuation) | [^12][^17][^28] |
-| GitLab | Seed | 2015 | Developer Tools | IPO (2021, $11B valuation) | [^12][^17][^29] |
-| Grab | Seed | 2013 | Ride-hailing/Fintech | IPO via SPAC (NASDAQ) | [^6][^15][^30] |
-| Intercom | Seed | 2012 | Enterprise SaaS | Active | [^7][^31] |
+| Canva | Seed | 2013 | Design/SaaS | Active ($40B valuation) | [^12][^17][^26] |
+| Talkdesk | Seed | 2012 | Enterprise SaaS | Active ($10B valuation) | [^12][^17][^27] |
+| GitLab | Seed | 2015 | Developer Tools | IPO (2021, $11B valuation) | [^12][^17][^28] |
+| Grab | Seed | 2013 | Ride-hailing/Fintech | IPO via SPAC (NASDAQ) | [^6][^15][^29] |
+| Intercom | Seed | 2012 | Enterprise SaaS | Active | [^7][^30] |
 | SendGrid | Seed | ~2011 | Communications | IPO (NASDAQ), acquired by Twilio | [^7][^17] |
 | Bukalapak | Seed | ~2014 | E-commerce | IPO (Indonesia's largest) | [^12][^15] |
 | Carousell | Seed | ~2014 | Marketplace | Active (unicorn) | [^15] |
@@ -120,6 +120,7 @@ Notable portfolio companies with verified investment data:
 | SmartHR | Seed | ~2016 | HR Tech | Active | [^12] |
 | eFishery | Seed | ~2015 | AgriTech | Active | [^6] |
 | Mejuri | Seed | ~2016 | DTC/E-commerce | Active | [^6] |
+| DeepInfra | Series B (co-led, $107M) | 2026-05-04 | AI Inference / Cloud Infrastructure | Active | [^31][^32][^33] |
 
 *Note: This table represents approximately 24 of the firm's 35+ unicorns and a small fraction of its 2,900+ total investments. Many investment years are approximate, based on company founding years, as exact 500 Global entry dates are not always publicly disclosed. All stages listed as "Seed" reflect the firm's primary investment mode through its accelerator and early-stage funds.*
 
@@ -176,11 +177,16 @@ Notable portfolio companies with verified investment data:
 [^21]: GrowthMentor, "500 Global: Stories from Founders who Received Funding," accessed April 2026. https://www.growthmentor.com/startup-accelerators/500-global/
 [^22]: Sendspark, "Reflection: Our Experience in 500 Startups' Virtual Accelerator," accessed April 2026. https://blog.sendspark.com/500-startups-virtual-accelerator
 [^23]: getPIN.xyz, "Inside the Deal: Twilio's Early Investors," accessed April 2026. https://www.getpin.xyz/post/inside-the-deal-twilios-early-investors
-[^24]: 500 Global Wikipedia article, "History," accessed April 2026. https://en.wikipedia.org/wiki/500_Global
-[^25]: Crunchbase News, "As Intuit Buys Credit Karma For $7.1B, A Quick Look Back At Its Funding History," accessed April 2026. https://news.crunchbase.com/venture/as-intuit-eyes-credit-karma-for-7b-a-quick-look-back-at-its-funding-history/
-[^26]: TechCrunch, "Japanese E-Commerce Giant Rakuten Confirms Acquisition Of Video Site Viki," September 1, 2013. https://techcrunch.com/2013/09/01/rakuten-viki/
-[^27]: Canva Newsroom, "Aussie startup Canva announces $3 million seed round from world class investors," March 20, 2013. https://www.canva.com/newsroom/news/aussie-startup-canva-announces-3-million-seed-round-world-class-investors/
-[^28]: 500 Global, "From a Hackathon Win to a Hyper-Growth Company" (Talkdesk), accessed April 2026. https://500.co/blog/from-a-hackathon-win-to-a-hyper-growth-company/
-[^29]: GitLab Blog, "$1.5M raised in seed funding for GitLab to accelerate growth," July 9, 2015. https://about.gitlab.com/blog/2015/07/09/1-5m-raised-in-seed-funding-for-gitlab-to-accelerate-growth-and-expand-operations
-[^30]: Crunchbase, "Seed Round — Grab — 2013-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/grabtaxi-seed--a4d12fac
-[^31]: TechCrunch, "Biz Stone, 500 Startups And Others Put $1M In CRM For Web Businesses Intercom," January 25, 2012. https://techcrunch.com/2012/01/25/biz-stone-500-startups-and-others-put-1m-in-social-crm-for-web-businesses-intercom/
+[^24]: Crunchbase News, "As Intuit Buys Credit Karma For $7.1B, A Quick Look Back At Its Funding History," accessed April 2026. https://news.crunchbase.com/venture/as-intuit-eyes-credit-karma-for-7b-a-quick-look-back-at-its-funding-history/
+[^25]: TechCrunch, "Japanese E-Commerce Giant Rakuten Confirms Acquisition Of Video Site Viki," September 1, 2013. https://techcrunch.com/2013/09/01/rakuten-viki/
+[^26]: Canva Newsroom, "Aussie startup Canva announces $3 million seed round from world class investors," March 20, 2013. https://www.canva.com/newsroom/news/aussie-startup-canva-announces-3-million-seed-round-world-class-investors/
+[^27]: 500 Global, "From a Hackathon Win to a Hyper-Growth Company" (Talkdesk), accessed April 2026. https://500.co/blog/from-a-hackathon-win-to-a-hyper-growth-company/
+[^28]: GitLab Blog, "$1.5M raised in seed funding for GitLab to accelerate growth," July 9, 2015. https://about.gitlab.com/blog/2015/07/09/1-5m-raised-in-seed-funding-for-gitlab-to-accelerate-growth-and-expand-operations
+[^29]: Crunchbase, "Seed Round — Grab — 2013-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/grabtaxi-seed--a4d12fac
+[^30]: TechCrunch, "Biz Stone, 500 Startups And Others Put $1M In CRM For Web Businesses Intercom," January 25, 2012. https://techcrunch.com/2012/01/25/biz-stone-500-startups-and-others-put-1m-in-social-crm-for-web-businesses-intercom/
+
+[^31]: DeepInfra Blog, "DeepInfra Raises $107M Series B to Scale Inference Infrastructure," May 4, 2026. Accessed May 2026. https://deepinfra.com/blog/deepinfra-series-b — Confirms $107M Series B co-led by 500 Global and Georges Harik, with participation from A.Capital Ventures, Crescent Cove, Felicis, NVIDIA, Peak6, Samsung Next, Supermicro, and Upper90. Quotes 500 Global Managing Partner Tony Wang.
+
+[^32]: SiliconANGLE, "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models," May 4, 2026. Accessed May 2026. https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/ — Independently confirms 500 Global and Georges Harik co-led the $107M Series B; details participation from Nvidia, Samsung Next, Supermicro, A.Capital Ventures, Crescent Cove, Felicis, Peak6, and Upper90.
+
+[^33]: GlobeNewsWire, "DeepInfra Closes $107M Series B to Power Production-Scale AI Inference," May 4, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/04/3286977/0/en/deepinfra-closes-107m-series-b-to-power-production-scale-ai-inference.html — Primary press release wire confirming round details and 500 Global Managing Partner Tony Wang's statement: "we believe purpose-built inference infrastructure will be fundamental to the next phase of AI as compute was to the last."

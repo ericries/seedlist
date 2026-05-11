@@ -17,7 +17,11 @@ sector:
 stage_latest: Series A
 total_raised: $78M
 investors: []
-firms: []
+firms:
+- slug: dcvc
+  round: series-a
+  year: 2026
+  date: 2026-05-06
 founders:
 - name: Matthew Cheng
   role: Co-Founder & CEO
@@ -27,7 +31,7 @@ status: published
 
 ## About
 
-Kanvas Biosciences is a Princeton, NJ-based spatial biology company building what it describes as the first microbiome drug screening, discovery, and manufacturing platform to accelerate development of next-generation live biotherapeutics [^1][^2]. The company's Kanvas Spectral Lightsheet—a multispectral lightsheet microscope—generates spatial biology data at scale to train AI models for a "microbiome atlas" [^1][^2]. The $48M Series A announced May 6, 2026 was co-led by DCVC and Lions Capital LLC with participation from Gates Foundation, ATHOS KG, Germin8, Ki Tua Fund, Pangaea Ventures, Alumni Ventures, Boutique Venture Partners, Cornell University, FemHealth Ventures, Gaingels, Mana Ventures, Red Bear Ventures, RIT Venture Fund, Triple Impact Capital, Kicker Ventures, and Uncommon Denominator [^1][^2]. Proceeds will primarily fund clinical trials for KAN-001, a live biotherapeutic for cancer patients unresponsive to immune checkpoint inhibitors [^1].
+Kanvas Biosciences is a Princeton, NJ-based spatial biology company building what it describes as the first microbiome drug screening, discovery, and manufacturing platform to accelerate development of next-generation live biotherapeutics [^1][^2]. The company's Kanvas Spectral Lightsheet—a multispectral lightsheet microscope—generates spatial biology data at scale to train AI models for a "microbiome atlas" [^1][^2]. The $48M Series A announced May 6, 2026 was co-led by DCVC and Lions Capital LLC with participation from Gates Foundation, ATHOS KG, Germin8, Ki Tua Fund, Pangaea Ventures, Alumni Ventures, Boutique Venture Partners, Cornell University, FemHealth Ventures, Gaingels, Mana Ventures, Red Bear Ventures, RIT Venture Fund, Triple Impact Capital, Kicker Ventures, and Uncommon Denominator [^1][^2][^3]. Proceeds will primarily fund clinical trials for KAN-001, a live biotherapeutic for cancer patients unresponsive to immune checkpoint inhibitors [^1].
 
 ## Funding History
 
@@ -47,3 +51,4 @@ Matthew Cheng, Co-Founder and CEO, stated: "Most physicians never get the opport
 
 [^1]: BioSpace, "Kanvas Biosciences Secures $48M Series A to Deliver Novel Microbiome Therapeutics to Cancer Patients," May 6, 2026. Accessed May 2026. https://www.biospace.com/press-releases/kanvas-biosciences-secures-48m-series-a-to-deliver-novel-microbiome-therapeutics-to-cancer-patients
 [^2]: BusinessWire, "Kanvas Biosciences Secures $48M Series A to Deliver Novel Microbiome Therapeutics to Cancer Patients," May 6, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260506062784/en/Kanvas-Biosciences-Secures-$48M-Series-A-to-Deliver-Novel-Microbiome-Therapeutics-to-Cancer-Patients
+[^3]: DCVC, "Kanvas makes the microbiome druggable—and the implications are massive," by Jason Pontin (DCVC GP and Kanvas board chair), May 6, 2026. Accessed May 2026. https://www.dcvc.com/news-insights/kanvas-makes-the-microbiome-druggable-and-the-implications-are-massive/ — DCVC's own announcement of co-leading the $48M Series A; confirms continuous investment since Kanvas's inception in 2021.

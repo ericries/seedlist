@@ -56,7 +56,7 @@ team:
   role: Partner (DCVC Bio)
   slug: justin-kern
 status: published
-last_researched: 2026-05-05
+last_researched: 2026-05-11
 ---
 
 ## About
@@ -133,6 +133,7 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 | StarkWare | Early | 2018 | Blockchain/ZK proofs | Active | [^8] |
 | Mainspring Energy | Early | 2017 | Energy/Power generation | Active | [^8] |
 | Latus Bio | Series A Extension (DCVC Bio, follow-on) | 2026-05-04 | Biotech / Gene Therapy | Active | [^16][^17] |
+| Kanvas Biosciences | Series A (co-led, $48M) | 2026-05-06 | Biotech / Microbiome / Spatial Biology | Active | [^18][^19][^20] |
 
 *This table represents approximately 12% of DCVC's estimated 200+ portfolio companies [^2]. Years are approximate based on available data.*
 
@@ -169,3 +170,9 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 [^15]: Pestel-analysis.com, "What is Brief History of SentinelOne Company?" accessed March 2026. https://pestel-analysis.com/blogs/brief-history/sentinelone
 [^16]: BioSpace, "Latus Bio Announces $97 Million Series A Financing to Expand the Reach of Gene Therapy to Larger Populations," May 4, 2026. https://www.biospace.com/press-releases/latus-bio-announces-97-million-series-a-financing-to-expand-the-reach-of-gene-therapy-to-larger-populations — DCVC Bio (DCVC's life sciences division) participated as an existing investor in the $43M Series A Extension led by 8VC, bringing total Series A to $97M. Latus is advancing AAV gene therapies for Huntington's disease (LTS-201, IND expected Q3 2026) and CLN2 (LTS-101).
 [^17]: BioPharma Dive, "With $97M, Latus pursues a different kind of Huntington's gene therapy," May 4, 2026. https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/
+
+[^18]: DCVC, "Kanvas makes the microbiome druggable—and the implications are massive," by Jason Pontin, May 6, 2026. Accessed May 2026. https://www.dcvc.com/news-insights/kanvas-makes-the-microbiome-druggable-and-the-implications-are-massive/ — Confirms DCVC co-led the $48M Series A and has backed Kanvas since inception in 2021. Capital will fund a new GMP manufacturing suite and anaerobic fermentation facility in South San Francisco.
+
+[^19]: BioSpace, "Kanvas Biosciences Secures $48M Series A to Deliver Novel Microbiome Therapeutics to Cancer Patients," May 6, 2026. Accessed May 2026. https://www.biospace.com/press-releases/kanvas-biosciences-secures-48m-series-a-to-deliver-novel-microbiome-therapeutics-to-cancer-patients — Confirms $48M Series A co-led by DCVC and Lions Capital LLC with participation from Gates Foundation, ATHOS KG, Germin8, Ki Tua Fund, Pangaea Ventures, Alumni Ventures, Boutique Venture Partners, Cornell University, FemHealth Ventures, Gaingels, Mana Ventures, Red Bear Ventures, RIT Venture Fund, Triple Impact Capital, Kicker Ventures, and Uncommon Denominator. Brings total funding to $78M.
+
+[^20]: BusinessWire, "Kanvas Biosciences Secures $48M Series A to Deliver Novel Microbiome Therapeutics to Cancer Patients," May 6, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260506062784/en/Kanvas-Biosciences-Secures-$48M-Series-A-to-Deliver-Novel-Microbiome-Therapeutics-to-Cancer-Patients — Cross-references the BioSpace announcement; confirms board chair Jason Pontin (DCVC) commentary on Kanvas's "deep engineering prowess."

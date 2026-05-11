@@ -33,7 +33,7 @@ DeepInfra is a Palo Alto-based cloud platform purpose-built for high-throughput 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-04 | Series B | $107M | 500 Global, Georges Harik | A.Capital Ventures, Crescent Cove, Felicis, NVIDIA, Peak6, Samsung Next, Supermicro, Upper90 [^1][^2] |
+| 2026-05-04 | Series B | $107M | 500 Global, Georges Harik | A.Capital Ventures, Crescent Cove, Felicis, NVIDIA, Peak6, Samsung Next, Supermicro, Upper90 [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -47,3 +47,4 @@ The DeepInfra team stated: "Inference is no longer a thin layer on top of an AI 
 
 [^1]: DeepInfra Blog, "DeepInfra Raises $107M Series B to Scale Inference Infrastructure," May 4, 2026. Accessed May 2026. https://deepinfra.com/blog/deepinfra-series-b
 [^2]: GlobeNewsWire, "DeepInfra Closes $107M Series B to Power Production-Scale AI Inference," May 4, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/04/3286977/0/en/deepinfra-closes-107m-series-b-to-power-production-scale-ai-inference.html
+[^3]: SiliconANGLE, "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models," May 4, 2026. Accessed May 2026. https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/ — Independently confirms 500 Global and Georges Harik co-led; lists all participants and references 500 Global Managing Partner Tony Wang's commentary on purpose-built inference infrastructure.

@@ -42,7 +42,7 @@ team:
     role: Partner
     slug: rana-yared
 status: published
-last_researched: 2026-05-11
+last_researched: 2026-05-12
 tldr: "Europe's leading independent VC ($5.7B raised) focused exclusively on European-founded companies. Originally Benchmark Capital Europe (2000), became independent in 2007. Portfolio of 275+ companies with 20+ unicorns includes Depop ($1.6B Etsy acquisition), Darktrace (IPO), and Revolut. Equal partnership model; led by Managing Partner Bernard Liautaud (founded Business Objects, acquired by SAP for $6.8B)."
 ---
 
@@ -142,7 +142,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Frontier Car Group | Series A | 2017 | Consumer/Marketplace | Acquired [^6] |
 | ComplyAdvantage | Series A | 2017 | Fintech/Regtech | Active [^6] |
 | Lovefilm | Early stage | 2004 | Consumer/Entertainment | Acquired by Amazon [^2] |
-| Grand Games | Series B (led, $70M Growth Fund) | 2026-05-11 | Gaming/Mobile Hybrid Casual | Active [^19] |
+| Grand Games | Series A (led, $30M, 2025-01-09) → Series B (led, $70M Growth Fund, 2026-05-11) | 2025-01-09 | Gaming/Mobile Hybrid Casual | Active [^19][^20][^21] |
 
 This table represents approximately 50 of 275+ known investments (~18%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
@@ -205,3 +205,7 @@ No additional independently sourced founder testimonials found beyond those publ
 [^18]: Balderton Capital, "The Exploration Company raises $160 million to build the first European space capsule," November 18, 2024. Accessed May 2026. https://www.balderton.com/news/the-exploration-company-raises-160-million-to-build-the-first-european-space-capsule/ — Confirms $160M Series B co-led by Balderton Capital and Plural on November 18, 2024, with participation from Bessemer Venture Partners, NGP Capital, French Tech Souveraineté, DeepTech & Climate Fonds, Bayern Kapital, EQT Ventures, Red River West, Cherry Ventures, Orbital Ventures, and Omnes Real Tech Fund. Cross-referenced with TechCrunch, "The Exploration Company raises $160M to build Europe's answer to SpaceX Dragon," November 17, 2024. https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/
 
 [^19]: Balderton Capital, "Grand Games raises $70M Series B to scale hybrid casual gaming," May 11, 2026. Accessed May 2026. https://www.balderton.com/news/grand-games-raises-70m-series-b/ — Confirms $70M Series B led by Balderton Capital Growth Fund with Bek Ventures, Laton Ventures, and angel investor Mert Gür. Cross-referenced with Bloomberg, "Turkey's Grand Games Raises $70 Million in Funding Round," May 11, 2026. https://www.bloomberg.com/news/articles/2026-05-11/turkey-s-grand-games-raises-70-million-in-funding-round
+
+[^20]: Balderton Capital, "Grand Games raises $30M Series A to build genre-defining mobile games," January 9, 2025. Accessed May 2026. https://www.balderton.com/news/grand-games-raises-30m-series-a-to-build-genre-defining-mobile-games/ — Confirms Balderton led the $30M Series A on January 9, 2025 (via Early Stage Fund) with Bek Ventures, Laton Ventures, and angel investor Mert Gür participating. Grand Games achieved this 9 months after founding.
+
+[^21]: Tech.eu, "Grand Games raises $70M Series B to scale hybrid casual mobile games," May 11, 2026. Accessed May 2026. https://tech.eu/2026/05/11/grand-games-raises-70m-series-b-to-scale-hybrid-casual-mobile-games/ — Independently confirms Balderton led both the Series A (via Early Stage Fund) and Series B (via Growth Fund), with same set of co-investors participating in both rounds.
