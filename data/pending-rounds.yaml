@@ -108,7 +108,9 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed: '2026-05-11'
-  notes: daily NYC aggregator; created econcrete.md ($14M 2026-05-11 Builders Vision-led); Sandstone $39.6M SEC filing only — no primary press, skipped per "when in doubt, leave it out"
+  notes: daily NYC aggregator; created econcrete.md ($14M 2026-05-11 Builders Vision-led);
+    Sandstone $39.6M SEC filing only — no primary press, skipped per "when in doubt,
+    leave it out"
 - title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
     for businesses and profitable for producers
   url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
