@@ -7,10 +7,6 @@ priority:
   type: firm
   reason: "co-led DeepInfra Series B (2026-05-04)"
   added: 2026-05-10
-- slug: coatue-management
-  type: firm
-  reason: "led Kalshi Series F (2026-05-07)"
-  added: 2026-05-10
 - slug: sequoia-capital
   type: firm
   reason: "participated in Kalshi Series F (2026-05-07)"
