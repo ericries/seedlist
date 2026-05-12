@@ -20,6 +20,55 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Belgium’s Holmes launches with €1.1 million pre-Seed to catch software bugs
+    before they reach users
+  url: https://www.eu-startups.com/2026/05/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/
+  source: eu-startups
+  date_found: '2026-05-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
+- title: Grand Games raised $70M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-12'
+  parsed_company: Grand Games
+  parsed_amount: $70M
+  parsed_round: Series B
+  status: pending
+- title: Frame Security raised $50M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-12'
+  parsed_company: Frame Security
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
+- title: Fifth Dimension raised $26M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-12'
+  parsed_company: Fifth Dimension
+  parsed_amount: $26M
+  parsed_round: Series A
+  status: pending
+- title: Compass Gas e Energia raised $650M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-12'
+  parsed_company: Compass Gas e Energia
+  parsed_amount: $650M
+  parsed_round: null
+  status: pending
+- title: Skinos Ventures raised $26M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-12'
+  parsed_company: Skinos Ventures
+  parsed_amount: $26M
+  parsed_round: null
+  status: pending
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
     in food within hours
   url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
@@ -944,67 +993,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: aggregator; rounds covered separately (bathhouse, mother-tech, instaswitch)
-- title: Italian TravelTech startup Smartness closes €47 million Series B for European
-    expansion
-  url: https://www.eu-startups.com/2026/05/italian-traveltech-startup-smartness-closes-e47-million-series-b-for-european-expansion/
-  source: eu-startups
-  date_found: '2026-05-04'
-  parsed_company: Italian TravelTech startup Smartness
-  parsed_amount: null
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-04'
-  notes: covered by smartness.md (€47M Series B 2026-05-04 co-led by United Ventures
-    + CDP Venture Capital)
-- title: 'The Weekly Notable Startup Funding Report: 5/4/26'
-  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-4-26/
-  source: alleywatch
-  date_found: '2026-05-04'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator weekly summary; individual rounds (Avoca, Hightouch, Rogo,
-    Netomi, Parallel, etc.) covered separately
-- title: Ekiden raises €1.7 million at €17 million valuation for blockchain-based
-    trading platform out of Portugal
-  url: https://www.eu-startups.com/2026/05/ekiden-raises-e1-7-million-at-e17-million-valuation-for-blockchain-based-trading-platform-out-of-portugal/
-  source: eu-startups
-  date_found: '2026-05-04'
-  parsed_company: Ekiden
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: small €1.7M Portuguese blockchain pre-seed below typical Seedlist threshold
-- title: Katie Haun raises $1 billion for new venture funds
-  url: https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/
-  source: techcrunch
-  date_found: '2026-05-04'
-  parsed_company: Katie Haun
-  parsed_amount: $1B
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close (Haun Ventures), not a startup funding round
-- title: Sierra raises $950M as the race to own enterprise AI gets serious
-  url: https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/
-  source: techcrunch
-  date_found: '2026-05-04'
-  parsed_company: Sierra
-  parsed_amount: $950M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-04'
-  notes: covered by sierra.md (Series E 2026-05-04 $950M at $15.8B; Tiger Global +
-    GV co-led with Benchmark/Sequoia/Greenoaks)
-- title: Cambridge spin-out Barocal raises €8.5 million Seed round for refrigerant-free
-    heating and cooling tech
-  url: https://www.eu-startups.com/2026/05/cambridge-spin-out-barocal-raises-e8-5-million-seed-round-for-refrigerant-free-heating-and-cooling-tech/
-  source: eu-startups
-  date_found: '2026-05-04'
-  parsed_company: Cambridge spin-out Barocal
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-04'
-  notes: covered by barocal.md (€8.5M Seed 2026-05-04 led by World Fund with Breakthrough
-    Energy Discovery, Cambridge Enterprise, IP Group)
