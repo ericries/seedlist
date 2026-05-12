@@ -75,9 +75,10 @@ investors:
 - round: co-founder
   slug: ashu-singhal
   year: 2012
-- round: Unknown
+- round: series-e
   slug: ravi-gupta
-  year: 2020
+  year: 2021
+  date: 2021-04-14
 - round: Seed
   slug: ron-conway
   year: 2012

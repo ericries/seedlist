@@ -148,8 +148,9 @@ The following table includes DST Global investments verified through press cover
 | Rappi | Growth | ~2019 | Marketplace / Delivery | Private [^1] |
 | Gojek | Growth | ~2018 | Marketplace / Transportation | Merged with Tokopedia (GoTo, IPO 2022) [^1] |
 | Quince | Series E | 2026 | E-commerce / Consumer | Private [^6][^24] |
+| Ricursive Intelligence | Series A (participated) | 2026-01-26 | AI / Semiconductor Design | Private [^31][^32][^33] |
 
-*Note: This table includes 32 companies out of 214 total (~15%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
+*Note: This table includes 33 companies out of 214 total (~15%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
 ## In Their Own Words
 
@@ -259,3 +260,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^29]: "Reflection AI raises $2B to be America's open frontier AI lab, challenging DeepSeek." TechCrunch, October 9, 2025. https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/. Accessed April 2026.
 
 [^30]: "Wilson Sonsini Advises Reflection AI on $2 Billion Funding Round." Wilson Sonsini, October 2025. https://www.wsgr.com/en/insights/wilson-sonsini-advises-reflection-ai-on-dollar2-billion-funding-round.html. Accessed April 2026.
+
+[^31]: PR Newswire, "Ricursive Intelligence Raises $300 Million Series A at $4 Billion Valuation to Accelerate AI-Driven Semiconductor Design," January 26, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design-302670061.html — $300M Series A led by Lightspeed Venture Partners at $4B post-money valuation; DST Global participated alongside NVentures (NVIDIA), Felicis Ventures, 49 Palms Ventures, Radical Ventures, and Sequoia Capital.
+
+[^32]: TechCrunch, "AI chip startup Ricursive hits $4B valuation 2 months after launch," January 26, 2026. Accessed May 2026. https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/
+
+[^33]: Crunchbase News, "AI Lab Ricursive Intelligence Lands $300M Series A At $4B Valuation Less than Two Months After Launch," January 26, 2026. Accessed May 2026. https://news.crunchbase.com/venture/startup-ai-lab-ricursive-seriesa-unicorn/

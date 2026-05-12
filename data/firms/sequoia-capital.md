@@ -229,6 +229,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Parallel Web Systems | Series B (led) | 2026-04-29 | AI / Web Infrastructure | Private [^43] |
 | Standard Intelligence | Series A (co-led with Spark) | 2026-04-30 | AI / Foundation Models | Private [^46][^47][^48] |
 | Astrocade | Series B (led) | 2026-05-05 | AI / Gaming / Consumer | Private [^59][^60] |
+| Ricursive Intelligence | Seed (participated); Series A (participated) | 2025-12 / 2026-01-26 | AI / Semiconductor Design | Private [^66][^67][^68] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -424,3 +425,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^64]: Enter newsroom, "Enter raises $100M+ to become Latin America's first AI unicorn," May 5, 2026. Accessed May 2026. https://www.getenter.ai/en/news/enter-levanta-mais-de-us-100-milhoes-e-se-torna-o-primeiro-unicornio-de-ia-da-america-latina — São Paulo-based Enter announced $100M+ Series B at $1.2B valuation on May 5, 2026, led by Founders Fund with Sequoia Capital, Ribbit Capital, ONEVC, Atlantico, and Kaszek participating.
 
 [^65]: PR Newswire, "Greenberg Traurig Represents Enter in $100M Series B, Creating Latin America's First AI Unicorn," May 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/greenberg-traurig-represents-enter-in-100m-series-b-creating-latin-americas-first-ai-unicorn-302767169.html
+
+[^66]: PR Newswire, "Ricursive Intelligence Raises $300 Million Series A at $4 Billion Valuation to Accelerate AI-Driven Semiconductor Design," January 26, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design-302670061.html — Series A led by Lightspeed Venture Partners at $4B post-money valuation, with DST Global, NVentures (NVIDIA), Felicis Ventures, 49 Palms Ventures, Radical Ventures, and Sequoia Capital participating.
+
+[^67]: TechCrunch, "AI chip startup Ricursive hits $4B valuation 2 months after launch," January 26, 2026. Accessed May 2026. https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/ — Confirms $300M Series A led by Lightspeed and notes Sequoia participation; also references prior seed round.
+
+[^68]: Crunchbase News, "AI Lab Ricursive Intelligence Lands $300M Series A At $4B Valuation Less than Two Months After Launch," January 26, 2026. Accessed May 2026. https://news.crunchbase.com/venture/startup-ai-lab-ricursive-seriesa-unicorn/ — Confirms seed round of $35M at $750M valuation in early December 2025, then $300M Series A at $4B valuation on January 26, 2026.

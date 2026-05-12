@@ -91,12 +91,12 @@ This table represents Gupta's verified investments. According to Signal by NFX, 
 | Ramp | 2023 | Growth | Fintech | [^9] |
 | Sierra | 2023 | Series A | AI | [^9] |
 | Instacart | 2023 | Board seat (public) | Consumer/Marketplace | [^3] |
-| Benchling | ~2020 | Unknown | Life Sciences | [^16] |
+| Benchling | 2021-04-14 | Series E (Sequoia Global Equities led, $200M) | Life Sciences SaaS | [^16][^19][^20][^21] |
 | Front | ~2020 | Growth | Enterprise | [^1] |
 
 **Public companies:** Amplitude, Instacart [^1].
 
-**Note:** Gupta's Twitter/X bio also lists Benchling among his investments [^16], and his Sequoia profile lists Open as an early-stage company he works with [^1]. Exact round details and years for these investments could not be independently verified.
+**Note:** Gupta's Twitter/X bio also lists Benchling among his investments [^16]; Sequoia Capital Global Equities led Benchling's $200M Series E in April 2021 [^19][^20][^21]. His Sequoia profile lists Open as an early-stage company he works with [^1]; exact round details for Open could not be independently verified.
 
 ## In Their Own Words
 
@@ -170,3 +170,6 @@ No additional independently sourced founder testimonials specifically about Ravi
 [^16]: Ravi Gupta's X (Twitter) profile @GuptaRK22, which lists Benchling among investments, accessed March 2026. https://x.com/GuptaRK22
 [^17]: Farnam Street, "Ravi Gupta: The Realities of Success (#164)," The Knowledge Project podcast, accessed March 2026. https://fs.blog/knowledge-project-podcast/ravi-gupta/
 [^18]: Fortune, "Meter cofounders Sunil and Anil Varanasi are brothers, partners, and competitors—who play on the same team," August 21, 2024, accessed March 2026. https://fortune.com/2024/08/21/meter-cofounders-sunil-anil-varanasi-launch-command-product/
+[^19]: Benchling press release, "Benchling Raises $200M Series E To Accelerate Biotech R&D," April 14, 2021, accessed May 2026. https://www.benchling.com/news/benchling-raises-200m-series-e-to-accelerate-biotech-rd — $200M Series E led by Sequoia Capital Global Equities; new investors Altimeter Capital, Byers Capital, and Elad Gil; existing investors Thrive Capital, Benchmark, Menlo Ventures, Alkeon Capital, ICONIQ, Lux Capital, Spark Capital, Lead Edge Capital.
+[^20]: PR Newswire, "Benchling Raises $200M Series E To Accelerate Biotech R&D," April 14, 2021, accessed May 2026. https://www.prnewswire.com/news-releases/benchling-raises-200m-series-e-to-accelerate-biotech-rd-301268494.html
+[^21]: CB Insights, "Sequoia-Backed Benchling Raises $200M To Accelerate Cloud-Powered R&D In Life Sciences," April 2021, accessed May 2026. https://www.cbinsights.com/research/benchling-series-e-funding/ — confirms $4B valuation at Series E.

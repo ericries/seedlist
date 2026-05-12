@@ -82791,9 +82791,10 @@ vague_facts:
   profile: investors/julie-yoo
   profile_name: Julie Yoo
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  note: 'Already resolved in profile: Series B (a16z led), 2023-01-26, $75M ($55M equity + $20M credit). Queue entry was stale.'
 - column: 4
   company: Aradigm
   line: '| Aradigm | Series A | 2025 | Health insurance infrastructure | [^29] |'
@@ -84257,9 +84258,10 @@ vague_facts:
   profile: investors/karim-atiyeh
   profile_name: Karim Atiyeh
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  note: 'Resolved 2026-05-11: Tomorro entry was already removed from Karim Atiyeh profile (per git history: aggregator-only, not verified). 3 primary sources (Tomorro press release, EU-Startups via TheSaaSNews, Tech.eu) confirm Series B 2025-03-31 €25M led by XAnge and Acton Capital with no Atiyeh involvement listed.'
 - column: 3
   company: Poppy Seed Health
   line: '| Poppy Seed Health | ~2019 | Angel | [^10] |'
@@ -92144,9 +92146,10 @@ vague_facts:
   profile: investors/marc-lore
   profile_name: Marc Lore
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  note: 'Already resolved in profile: Series A (via VCP Ventures), 2023-08-10. Queue entry was stale.'
 - column: 5
   company: Archer Aviation
   line: '| Archer Aviation | PIPE/Growth | 2021 | eVTOL / Aerospace | Active (NYSE:
@@ -112709,9 +112712,10 @@ vague_facts:
   profile: investors/ravi-gupta
   profile_name: Ravi Gupta
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  note: 'Resolved 2026-05-11: Sequoia Capital Global Equities (Ravi Gupta''s growth team) led Benchling''s $200M Series E on 2021-04-14 (not 2020). 3 primary sources: Benchling press release, PR Newswire, CB Insights.'
 - column: 4
   company: Front
   line: '| Front | ~2020 | Growth | Enterprise | [^1] |'
@@ -138604,9 +138608,10 @@ vague_facts:
   profile: startups/ricursive-intelligence
   profile_name: Ricursive Intelligence
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  note: 'Resolved 2026-05-11: Series A announced 2026-01-26 (not 2026-03-15), led by Lightspeed Venture Partners at $4B post-money. Participants: DST Global, NVentures (NVIDIA), Felicis Ventures, 49 Palms Ventures, Radical Ventures, Sequoia Capital. 3 primary sources: PR Newswire, TechCrunch, Crunchbase News.'
 - column: 3
   company: Mar 2017
   line: '| Mar 2017 | Seed | $7M | -- | Initialized Capital, Hydrazine Capital | Y
@@ -165709,9 +165714,10 @@ vague_facts:
   profile: investors/mike-krieger
   profile_name: Mike Krieger
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2024
+  note: 'Resolved 2026-05-11: Granola seed round was 2023-05-08 (not 2024), $4.25M led by Lightspeed (Mike Mignano). Mike Krieger participated as angel in seed only. 3 primary sources: TechCrunch Series A article naming Krieger, Tracxn date of record, Granola blog. Series A and Seed both added to Granola startup profile.'
 - column: 2
   company: Rooms
   line: '| Rooms | Unknown | ~2023 | Multimedia | Active | [^12] |'

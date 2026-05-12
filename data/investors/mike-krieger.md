@@ -91,7 +91,7 @@ This table includes 17 verified investments. Sources indicate Krieger may have m
 | Opal Camera | Series A | 2023 | Consumer Electronics | Active | [^12][^16] |
 | Portola | Seed | 2025 | Fintech | Active | [^12] |
 | Openlayer | Seed | ~2021 | AI/ML Ops | Active | [^12][^17] |
-| Granola | Seed | ~2024 | Productivity | Active | [^12][^18] |
+| Granola | Seed | 2023-05-08 | Productivity / AI Notetaking | Active | [^12][^18][^20][^21] |
 | Rooms | Seed | ~2023 | Multimedia | Active | [^12][^19] |
 | The Wedding Company | Pre-Seed | ~2022 | Consumer | Active | [^12] |
 | Titan | Series A | ~2019 | Asset Management | Active | [^10] |
@@ -151,3 +151,5 @@ No independently sourced founder testimonials found. CodeCrafters' seed announce
 [^17]: Openlayer blog, "Openlayer raises $4.8M seed round," accessed April 2026. https://www.openlayer.com/blog/post/openlayer-raises-usd4-8m-seed-round-to-build-guardrails-for-ai
 [^18]: Granola blog, "Granola raises $20M Series A," October 2024, accessed April 2026. https://www.granola.ai/blog/series-a
 [^19]: TechCrunch, "a16z-backed Rooms.xyz," May 2023, accessed April 2026. https://techcrunch.com/2023/05/16/a16z-backed-rooms-xyz-lets-you-build-interactive-3d-rooms-and-simple-games-in-your-browser/
+[^20]: TechCrunch, "VCs love using the AI meeting notepad Granola, so they gave it $20M," October 23, 2024, accessed May 2026. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/ — Identifies prior $4.25M seed round led by Lightspeed (Michael Mignano), with Mike Krieger named as a participating angel.
+[^21]: Tracxn, "Granola - 2026 Funding Rounds & List of Investors," accessed May 2026. https://tracxn.com/d/companies/granola/__20Jmr-YEndDiNQ5Kx3GcTFiYnHr6bnFCf_X_nMg5ay8/funding-and-investors — Records Granola's seed round on May 8, 2023, with 11 institutional investors and 22 angels including Mike Krieger.
