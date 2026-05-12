@@ -166,7 +166,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Guild Education | Growth | ~2015 (founded) | EdTech / Enterprise | Private [^3] |
 | Instacart | Series G (co-led) | 2020 | Consumer / Marketplace | Public (IPO 2023) [^31] |
 | Figma | Secondary | 2024 | Enterprise / Design | Private [^32] |
-| Anthropic | Series E | 2025 | AI | Private [^22] |
+| Anthropic | Series E (participated) | 2025-03-03 | AI | Private [^22][^57] |
 | Ramp | Growth | ~2019 (founded) | Fintech / Corporate Cards | Private [^29] |
 | Circle | Growth | ~2013 (founded) | Fintech / Crypto | Private [^3] |
 | Monzo | Growth | ~2015 (founded) | Fintech / Banking | Private [^29] |
@@ -195,7 +195,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Re:Build Manufacturing | Growth | ~2020 (founded) | Industrials | Private [^29] |
 | Tractian | Growth | ~2019 (founded) | Industrials / IoT | Private [^29] |
 | Collaborative Robotics | Growth | ~2022 (founded) | Robotics | Private [^29] |
-| Nominal | Series B Extension | 2026 | Defense Tech / Hardware / Data | Private [^29][^36] |
+| Nominal | Series B Extension (participated) | 2026-03-05 | Defense Tech / Hardware / Data | Private [^29][^36][^58] |
 | Cloaked | Series B (co-led) | 2026-03-19 | Consumer / Privacy | Private [^36][^50] |
 | PhysicsX | Growth | ~2019 (founded) | AI / Simulation | Private [^29] |
 | Charm Industrial | Growth | ~2018 (founded) | Climate / Carbon Removal | Private [^29] |
@@ -211,7 +211,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Rapyd | Growth | ~2016 (founded) | Fintech / Payments | Private [^33] |
 | The Information | Early Stage | ~2013 (founded) | Media | Private [^33] |
 | Warby Parker | Early Stage | ~2010 (founded) | Consumer / D2C | Public (IPO 2021) [^3] |
-| Moda | Seed (led) | 2026 | AI / Design | Private [^37] |
+| Moda | Seed (led, $7.5M) | 2026-03-24 | AI / Design | Private [^37] |
 | Adonis | Series B | ~2025 | Healthcare / AI RCM | Private [^38] |
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^39] |
 | Conntour | Seed | 2026 | AI / Security / Video Intelligence | Private [^40] |
@@ -382,3 +382,8 @@ No independently sourced founder testimonials were found in this research pass. 
 [^55]: TechCrunch, "Ethos raises $22.75M from a16z for its expert network with voice onboarding," May 6, 2026. https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/ — London-based Ethos announced a $22.75M Series A on May 6, 2026 led by Andreessen Horowitz with General Catalyst, XTX Markets, Evantic Capital, and Common Magic participating. Founders James Lo (ex-McKinsey, SoftBank) and Daniel Mankowitz (ex-DeepMind). Cross-referenced with Tech Funding News, "a16z backs Ethos with $22.75M to replace CVs with an AI talent agent," May 2026. https://techfundingnews.com/ethos-22-5m-series-a-andreessen-horowitz-general-catalyst-ai-talent/ and Tech.eu, "AI consulting startup co-founded by DeepMind scientist lands $22.75M Series A," May 6, 2026. https://tech.eu/2026/05/06/ai-consulting-startup-co-founded-by-deepmind-scientist-lands-22-75m-series-a/
 
 [^56]: Fortune, "Greenboard raises $15.5 million Series A to keep compliance from slowing down business," May 12, 2026. Accessed May 2026. https://fortune.com/2026/05/12/greenboard-raises-15-5-million-series-a-to-keep-compliance-from-slowing-down-business/ — Greenboard's $15.5M Series A on May 12, 2026 was led by Base10 Partners with General Catalyst participating via its 2024 acquisition of Wayfinder. General Catalyst had also led the 2024 seed.
+
+[^57]: Anthropic press release, "Anthropic raises $3.5 billion to advance our mission of building safer, more capable AI systems," March 3, 2025. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e — $3.5B Series E announced March 3, 2025 at $61.5B post-money valuation, led by Lightspeed Venture Partners. General Catalyst participated alongside Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, Jane Street, Menlo Ventures, Salesforce Ventures, Wellington Management, and others. Cross-referenced with TechCrunch, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025. https://techcrunch.com/2025/03/03/anthropic-raises-series-e-at-61-5b-post-money-valuation/
+
+[^58]: GlobeNewsWire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html — Confirms March 5, 2026 announcement; $80M Series B Extension led by Founders Fund at $1B valuation with Sequoia, Lux, General Catalyst, Lightspeed, and Red Glass participating.
+

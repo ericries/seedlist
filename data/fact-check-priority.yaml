@@ -1,12 +1,4 @@
 priority:
-  - slug: y-combinator
-    type: firm
-    reason: "appeared in Greenboard Series A (2026-05-12)"
-    added: 2026-05-12
-  - slug: general-catalyst
-    type: firm
-    reason: "appeared in Greenboard Series A (2026-05-12)"
-    added: 2026-05-12
   - slug: cavu-consumer-partners
     type: firm
     reason: "led 4AM Seed (2026-05-11) — may need new profile"
