@@ -84,8 +84,8 @@ pending_rounds:
   parsed_amount: $26M
   parsed_round: null
   status: skipped
-  skip_reason: new cybersecurity VC fund formed by Shlomo Kramer + Yishay Yovel
-    (already backed Spectrum Security $19M seed), not a startup round
+  skip_reason: new cybersecurity VC fund formed by Shlomo Kramer + Yishay Yovel (already
+    backed Spectrum Security $19M seed), not a startup round
 - title: Index Ventures backed-Adfin raises €15.3 million to help businesses automate
     revenue collection with AI
   url: https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/
@@ -111,7 +111,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-12'
   slug: dessn
-  notes: covered by dessn.md (€5M / $6M Seed 2026-05-12 led by Connect Ventures with Betaworks and N49P)
+  notes: covered by dessn.md (€5M / $6M Seed 2026-05-12 led by Connect Ventures with
+    Betaworks and N49P)
 - title: Rotterdam’s Ditto raises €7.6 million to make “what did the doctor say?”
     easier to answer
   url: https://www.eu-startups.com/2026/05/rotterdams-ditto-raises-e7-6-million-to-make-what-did-the-doctor-say-easier-to-answer/
