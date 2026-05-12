@@ -1,1 +1,13 @@
-priority: []
+priority:
+- slug: founders-fund
+  type: firm
+  reason: "led Enter Series B (2026-05-05) Latin America's first AI unicorn"
+  added: 2026-05-12
+- slug: sequoia-capital
+  type: firm
+  reason: "participated in Enter Series B (2026-05-05)"
+  added: 2026-05-12
+- slug: basis-set-ventures
+  type: firm
+  reason: "led Basata Series A (2026-05-08)"
+  added: 2026-05-12
