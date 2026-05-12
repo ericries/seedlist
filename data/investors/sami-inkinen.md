@@ -78,7 +78,7 @@ He describes his investment framework in terms of long-term conviction: "Almost 
 | Augmedix | 2014 | Seed | Clinical AI / ambient documentation | Public (AUGX, acquired by Commure 2023) | [^13] |
 | MyFitnessPal | ~2013 | Seed/Angel | Fitness & nutrition software | Acquired by Under Armour 2015; divested 2020 | [^5] |
 | Lantern | ~2015 | Seed | Mental health / behavioral wellness | Acquired by Castlight Health 2017 | [^5] |
-| Rise | ~2014 | Seed | Sleep coaching app | Unknown | [^5] |
+| Rise | ~2014 | Seed | Sleep coaching app | Active | [^5][^16] |
 | WayBetter | ~2014 | Seed | Behavioral wellness / gamified health | Active | [^14] |
 | Edamam | ~2015 | Seed | Food & nutrition data API | Active | [^14] |
 | Cricket Health | 2018 | Series A | Kidney care / chronic disease | Acquired by Interwell Health 2022 | [^11] |
@@ -147,3 +147,5 @@ No independently sourced founder testimonials found. Sami Inkinen's angel invest
 [^14]: CBInsights, "Sami Inkinen Portfolio Investments," accessed March 2026. https://www.cbinsights.com/investor/sami-inkinen (confirms WayBetter in portfolio)
 
 [^15]: Fortune, "CEO of $2 billion health firm felt rich after paying $100K in debt—but his joy disappeared in days," January 25, 2026, accessed March 2026. https://fortune.com/2026/01/25/ceo-of-2-billion-healthcare-company-virta-health-sami-inkinen-felt-rich-100k-student-debt-joy-disappeared/
+
+[^16]: Rise Science, "About Us," accessed May 2026. https://www.risescience.com/about-us — Confirms Rise Science (sleep coaching app) is actively operating in 2026, with 75,829 app ratings and "One of Apple's Best Apps of 2026" recognition. Cross-referenced with Rise Science homepage, accessed May 2026. https://www.risescience.com/ and Crunchbase News, "Get Out Of Sleep Debt: Rise Science Secures $15.5M For App To Boost Energy Levels," 2021. https://news.crunchbase.com/health-wellness-biotech/get-out-of-sleep-debt-rise-science-secures-15-5m-for-app-to-boost-energy-levels/ — Series A $10M led by Goodwater Capital announced June 2021.

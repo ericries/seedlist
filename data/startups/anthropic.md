@@ -19,6 +19,7 @@ firms:
 - round: Series C
   slug: spark-capital
   year: 2023
+  date: 2023-05-23
 - round: Series D/E (Board Observer)
   slug: menlo-ventures
   year: 2023
@@ -96,6 +97,7 @@ investors:
 - round: Series C
   slug: yasmin-razavi
   year: 2023
+  date: 2023-05-23
 - round: Series D/E (Board Observer)
   slug: matt-murphy
   year: 2023
@@ -174,7 +176,7 @@ Anthropic is an American artificial intelligence company founded in 2021 by Dari
 | Series A | May 2021 | $124M | $550M (post) | Jaan Tallinn | Dustin Moskovitz, Eric Schmidt, James McClave, Center for Emerging Risk Research [^4] |
 | Series B | Apr 2022 | $580M | $4B (post) | Sam Bankman-Fried (Alameda Research) | Caroline Ellison, Nishad Singh, Jaan Tallinn, Center for Emerging Risk Research [^5] |
 | Google Investment | Late 2022 | $300M | N/A | Google | N/A [^6] |
-| Series C | May 2023 | $450M | N/A | Spark Capital | N/A [^7] |
+| Series C | 2023-05-23 | $450M | N/A | Spark Capital | Google, Salesforce Ventures, Sound Ventures, Zoom Ventures [^7][^17][^18][^19] |
 | Amazon Investment (Tranche 1) | Sep 2023 | $1.25B | N/A | Amazon | N/A [^8] |
 | Google Investment (Extension) | Oct 2023 | $500M+ | N/A | Google | N/A [^6] |
 | Amazon Investment (Tranche 2) | Mar 2024 | $2.75B | N/A | Amazon | N/A [^9] |
@@ -215,3 +217,9 @@ Dario Amodei has stated that Anthropic exists because its founders believed AI s
 [^15]: Anthropic, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 12, 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation — Primary announcement naming GIC and Coatue as Series G leads at $380B post-money valuation.
 
 [^16]: GIC, "GIC Leads $30 Billion Series G in Anthropic," February 12, 2026. https://www.gic.com.sg/newsroom/all/gic-leads-30-billion-series-g-in-anthropic/ — GIC's own announcement naming itself as lead and Coatue as co-lead. Cross-referenced with Orrick, "Anthropic Raises $30B Series G at $380B Post-Money Valuation," February 17, 2026. https://www.orrick.com/en/News/2026/02/Anthropic-Raises-30B-Series-G-at-380B-Post-Money-Valuation
+
+[^17]: Anthropic, "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products," May 23, 2023, accessed May 2026. https://www.anthropic.com/news/anthropic-series-c — Primary announcement naming Spark Capital as lead and Google, Salesforce Ventures, Sound Ventures, Zoom Ventures as participants.
+
+[^18]: TechCrunch, "Anthropic raises $450M to build next-gen AI assistants," May 23, 2023, accessed May 2026. https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/ — Contemporaneous press confirming $450M Series C led by Spark Capital with Google, Salesforce, Sound Ventures, and Zoom Ventures participating.
+
+[^19]: VentureBeat, "Anthropic secures $450M in Series C funding from Google, Salesforce and others," May 23, 2023, accessed May 2026. https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/ — Third independent confirmation of the Series C participants.

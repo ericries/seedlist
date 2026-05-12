@@ -118022,9 +118022,10 @@ vague_facts:
   profile: investors/sami-inkinen
   profile_name: Sami Inkinen
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  resolution_note: 'Status confirmed Active (Rise Science still operating as of 2026 per official site).'
 - column: 5
   company: WayBetter
   line: '| WayBetter | ~2014 | Seed | Behavioral wellness / gamified health | Active
@@ -135926,9 +135927,10 @@ vague_facts:
   profile: startups/anthropic
   profile_name: Anthropic
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: N/A
+  resolution_note: 'Co-investors filled: Google, Salesforce Ventures, Sound Ventures, Zoom Ventures; date refined to 2023-05-23 via Anthropic press release, TechCrunch, VentureBeat.'
 - column: 3
   company: Amazon Investment (Tranche 1)
   line: '| Amazon Investment (Tranche 1) | Sep 2023 | $1.25B | N/A | Amazon | N/A
@@ -136475,9 +136477,10 @@ vague_facts:
   profile: startups/coinbase
   profile_name: Coinbase
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: N/A [^6]
+  resolution_note: 'Co-investors filled: Ribbit Capital, SV Angel, FundersClub; amount corrected to $5M; date refined to 2013-05-08. Sources: USV blog (May 8 2013), Coinbase blog (May 22 2013), Wikipedia.'
 - column: 3
   company: Series B
   line: '| Series B | Dec 2013 | $25M | N/A | Andreessen Horowitz | Union Square Ventures,

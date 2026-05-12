@@ -27,6 +27,7 @@ firms:
 - round: Series A
   slug: ribbit-capital
   year: 2013
+  date: 2013-05-08
 - round: Growth
   slug: addition
   year: 2013
@@ -39,9 +40,10 @@ firms:
 - round: '2013'
   slug: andreessen-horowitz
   year: 2013
-- round: '2013'
+- round: Series A
   slug: union-square-ventures
   year: 2013
+  date: 2013-05-08
 - round: '2018'
   slug: paradigm
   year: 2018
@@ -115,9 +117,10 @@ investors:
 - round: '2013'
   slug: chris-dixon
   year: 2013
-- round: '2013'
+- round: Series A
   slug: fred-wilson
   year: 2013
+  date: 2013-05-08
 - round: '2018'
   slug: matt-huang
   year: 2018
@@ -186,7 +189,7 @@ Coinbase was founded in June 2012 by Brian Armstrong and Fred Ehrsam in San Fran
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
 | Seed | Sep 2012 | $600K | N/A | Y Combinator ($150K) | FundersClub ($269K from 61 members), IDG Ventures, SV Angel, Adam Draper [^2] [^5] |
-| Series A | May 2013 | $6.1M | ~$20M | Union Square Ventures (Fred Wilson) | N/A [^6] |
+| Series A | 2013-05-08 | $5M | ~$20M | Union Square Ventures (Fred Wilson) | Ribbit Capital, SV Angel, FundersClub [^6][^13][^14] |
 | Series B | Dec 2013 | $25M | N/A | Andreessen Horowitz | Union Square Ventures, Ribbit Capital [^7] |
 | Series C | Jan 2015 | $75M | ~$500M | DFJ Growth | Andreessen Horowitz, Union Square Ventures, Ribbit Capital, NYSE, USAA, BBVA, DoCoMo Capital [^8] |
 | Series D | Aug 2017 | $100M | $1.6B | IVP | Spark Capital, Greylock Partners, Battery Ventures, Section 32, Draper Associates [^9] |
@@ -224,3 +227,7 @@ Armstrong has spoken about recognizing early on that someone needed to build a c
 [^10]: TechCrunch, "Coinbase is now valued at $8B after closing new $300M round," October 2018. https://techcrunch.com/2018/10/30/coinbase-is-now-valued-at-8b-after-closing-new-300m-round/
 [^11]: FinTech Magazine, "Brian Armstrong's Coinbase: Pioneering the Crypto Revolution," accessed March 2026. https://fintechmagazine.com/articles/brian-armstrongs-coinbase-pioneering-the-crypto-revolution
 [^12]: Benzinga, "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch," March 2026. https://www.benzinga.com/crypto/cryptocurrency/26/03/51118314/brian-armstrong-hunted-for-fixes-when-his-crypto-company-went-flat-post-launch-he-found-them-by-simply-picking-up-the-phone
+
+[^13]: Union Square Ventures, "Coinbase," by Fred Wilson, May 8, 2013, accessed May 2026. https://www.usv.com/writing/2013/05/coinbase/ — USV's announcement of its Coinbase investment, naming Ribbit Capital, SV Angel, and Funders Club as co-investors in the Series A.
+
+[^14]: Coinbase blog, "Coinbase raises $5m in Series A funding," May 22, 2013, accessed May 2026. https://www.coinbase.com/blog/coinbase-raises-usd5m-in-series-a-funding — Company's own announcement of the $5M Series A from USV with Ribbit Capital, SV Angel, and FundersClub participating.
