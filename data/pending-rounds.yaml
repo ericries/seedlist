@@ -108,7 +108,10 @@ pending_rounds:
   parsed_company: London’s Dessn
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-12'
+  slug: dessn
+  notes: covered by dessn.md (€5M / $6M Seed 2026-05-12 led by Connect Ventures with Betaworks and N49P)
 - title: Rotterdam’s Ditto raises €7.6 million to make “what did the doctor say?”
     easier to answer
   url: https://www.eu-startups.com/2026/05/rotterdams-ditto-raises-e7-6-million-to-make-what-did-the-doctor-say-easier-to-answer/
@@ -117,7 +120,10 @@ pending_rounds:
   parsed_company: Rotterdam’s Ditto
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-12'
+  slug: ditto-care
+  notes: covered by ditto-care.md (€7.6M Seed 2026-05-12 led by Heal Capital)
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
     in food within hours
   url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
