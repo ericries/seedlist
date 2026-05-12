@@ -1048,9 +1048,11 @@ vague_facts:
   profile: firms/accel
   profile_name: Accel
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^9]'
+  resolution_note: "Accel did not invest in 2024; first Cursor investment was Series C on 2025-06-05 ($900M led by Thrive, Accel participated), then co-led Series D on 2025-11-13 ($2.3B at $29.3B valuation with Coatue). Split into two rows."
+  resolved: 2026-05-12
 - column: 4
   company: Lovable
   line: '| Lovable | Series A | 2025 | AI | [^9] |'
@@ -38576,9 +38578,11 @@ vague_facts:
   profile: investors/bennett-siegel
   profile_name: Bennett Siegel
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^20]'
+  resolution_note: "Resolved to 2024-04-15; $3.6M seed led by A* (verified via TechCrunch primary)."
+  resolved: 2026-05-12
 - column: 4
   company: Cape
   line: '| Cape | Series B | 2024 | Telecom (private mobile) | [^14] |'
@@ -63649,9 +63653,11 @@ vague_facts:
   profile: investors/gautam-gupta
   profile_name: Gautam Gupta
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^16]'
+  resolution_note: "Resolved to 2025-06-24; $20M Series A led by Felicis with A*, BOND, Liquid2 participating (per Paraform.com blog and BusinessWire)."
+  resolved: 2026-05-12
 - column: 4
   company: Cape
   line: '| Cape | Series B (follow-on) | 2025 | Telecom/Security | [^15] |'
@@ -140275,9 +140281,11 @@ vague_facts:
   profile: firms/a-star-capital
   profile_name: A*
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: "Resolved to 2024-04-03; $8M seed co-led by A* Capital and Maverick Ventures with Box Group, EPIC Ventures, Liquid2 Ventures, SV Angel."
+  resolved: 2026-05-12
 - column: 2
   company: Cape
   line: '| Cape | Seed/Early | 2025 | Telecommunications/Security | Active [^12] |'
@@ -140328,9 +140336,11 @@ vague_facts:
   profile: firms/a-star-capital
   profile_name: A*
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: "Resolved to 2024-04-15; $3.6M seed led by A* Capital with participation from DoorDash co-founder Evan Moore, leaders at Affirm/Hightouch/Palantir/Ramp, and Primer Sazze Partners."
+  resolved: 2026-05-12
 - column: 2
   company: Sauron
   line: '| Sauron | Seed | 2024 | Home Security | Active [^13] |'

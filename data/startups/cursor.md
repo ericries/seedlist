@@ -27,9 +27,14 @@ firms:
 - round: —
   slug: hanabi-capital
   year: 2025
-- round: '2025'
+- round: series-c
   slug: accel
   year: 2025
+  date: 2025-06-05
+- round: series-d
+  slug: accel
+  year: 2025
+  date: 2025-11-13
 - round: Angel
   slug: first-harmonic
   year: 2023
@@ -150,7 +155,7 @@ Cursor is an AI-powered code editor built by Anysphere, founded in 2022 by Micha
 | Oct 2023 | Seed | $8M | OpenAI Startup Fund | Nat Friedman, Arash Ferdowsi [^1] |
 | Aug 2024 | Series A | $60M | a16z, Thrive Capital (co-lead) | Patrick Collison [^5] |
 | Dec 2024 | Series B | $105M | Thrive Capital | — [^3] |
-| Jun 2025 | Series C | $900M | Thrive Capital | Andreessen Horowitz, Accel, DST Global [^3] |
+| 2025-06-05 | Series C | $900M | Thrive Capital | Andreessen Horowitz, Accel, DST Global [^3][^8] |
 | 2025-11-13 | Series D | $2.3B (at $29.3B valuation) | Accel, Coatue (co-lead) | Thrive Capital, Andreessen Horowitz, DST Global, NVIDIA, Google [^2][^6][^7] |
 
 Total raised: approximately $3.5B. Valued at $29.3B as of Series D [^2].
@@ -174,3 +179,5 @@ No independently sourced founder testimonials found.
 [^6]: Cursor blog, "Past, Present, and Future," November 13, 2025, accessed May 2026. https://cursor.com/blog/series-d — Cursor's own announcement of $2.3B Series D at $29.3B valuation; existing investors Accel, Thrive, and Andreessen Horowitz, with Coatue, NVIDIA, and Google joining as new investors.
 
 [^7]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 2025, accessed May 2026. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue and Accel co-led the financing.
+
+[^8]: TechCrunch, "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR," June 5, 2025. Accessed May 2026. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/ — Confirms $900M Series C dated June 5, 2025 led by Thrive Capital with Accel, a16z, DST Global participating.

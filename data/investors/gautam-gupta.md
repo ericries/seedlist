@@ -87,7 +87,7 @@ Gupta brings specific expertise in subscription models and consumer unit economi
 | Fifteenth | Seed | 2025 | Consumer | [^17] |
 | Aligned Marketplace | Seed | 2025 | Fintech/Marketplace | [^17] |
 | Grove | Seed | 2025 | Consumer | [^17] |
-| Paraform | Series A | 2025 | AI/Recruiting | [^16] |
+| Paraform | Series A ($20M, led by Felicis; A* participated) | 2025-06-24 | AI/Recruiting | [^16] |
 | Cape | Series B (follow-on) | 2025 | Telecom/Security | [^15] |
 | Decagon | Series A | 2024-06-18 | AI/Customer Support | [^13] |
 | Mercor | Seed | ~2024 | AI/Labor Marketplace | [^1] |

@@ -98,7 +98,7 @@ AI/ML is a dominant theme in recent investments. Of the 22 companies tabled, 16 
 | Decagon | Series A | 2024-06-18 | AI (conversational agents) | [^15] |
 | Decagon | Series B | 2024 | AI (conversational agents) | [^18] |
 | Decagon | Series C | 2025 | AI (conversational agents) | [^19] |
-| Paraform | Seed | 2024 | AI (recruiting marketplace) | [^20] |
+| Paraform | Seed ($3.6M, led by A*) | 2024-04-15 | AI (recruiting marketplace) | [^20] |
 | Cape | Series B | 2024 | Telecom (private mobile) | [^14] |
 | Aaru | Seed | 2024 | AI (prediction/synthetic research) | [^16] |
 | Whop | Series B | ~2024 | E-commerce (digital marketplace) | [^21] |

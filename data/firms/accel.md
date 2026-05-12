@@ -197,7 +197,8 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Supercell | Series A ($12M, led) | 2011 | Gaming | [^35][^36] |
 | Scale AI | Early | 2017 | AI/Data | [^12] |
 | Perplexity | Series D (led) | 2025-05-14 | AI | [^9][^55] |
-| Anysphere (Cursor) | Early | 2024 | AI/Developer Tools | [^9] |
+| Anysphere (Cursor) | Series C ($900M, participated) | 2025-06-05 | AI/Developer Tools | [^9][^56][^57] |
+| Anysphere (Cursor) | Series D ($2.3B, co-led with Coatue) | 2025-11-13 | AI/Developer Tools | [^58][^59] |
 | Lovable | Series A ($200M, led, $1.8B valuation) | 2025-07-17 | AI / App Builder | [^9][^38][^39][^40] |
 | True Anomaly | Series D ($650M) | 2026-04-28 | Space/Defense | [^9][^44] |
 | True Anomaly | Series C | 2025 | Space/Defense | [^9] |
@@ -313,3 +314,11 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^54]: Fortune, "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP's $89 billion migration wave," May 5, 2026. https://fortune.com/2026/05/05/exclusive-nova-intelligence-ai-sap-chemistry-emma-qian/ — San Francisco-based Nova Intelligence announced a $31.5M Series A on May 5, 2026 led by Chemistry; existing investors Accel, Conviction, and SAP.iO participated. Total raised over $40M. Co-founders: Emma Qian (CEO), Sam Yang, and Professor Alexander Zeier (co-inventor of SAP HANA). Justin Kershaw (formerly CIO of Cargill) joined as Chief Customer Officer.
 
 [^55]: FinTech Weekly, "AI Startup Perplexity's Valuation Jumps to $14 Billion Following $500 Million Funding Round," May 14, 2025. Accessed May 2026. https://www.fintechweekly.com/magazine/articles/perplexity-ai-startup-valuation-14-billion-funding-round — Confirms Accel led Perplexity's $500M Series D in May 2025 at $14B valuation. Accel partner Sameer Gandhi joined the board. Cross-referenced with CNBC, "Perplexity AI wrapping talks to raise $500 million at $14 billion valuation," May 12, 2025. https://www.cnbc.com/2025/05/12/perplexity-funding-round-comet.html — pre-announcement reporting that Accel was close to leading the round.
+
+[^56]: TechCrunch, "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR," June 5, 2025. Accessed May 2026. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/ — Confirms $900M Series C led by Thrive Capital with Accel, Andreessen Horowitz, and DST Global participating.
+
+[^57]: Crunchbase News, "AI-Powered Coding Tool Anysphere Raises $900M at $9.9B Valuation — Its Third Round In Less Than One Year," June 2025. Accessed May 2026. https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/ — Confirms Series C round date (announced June 9, 2025), Thrive Capital lead, and Accel participation.
+
+[^58]: Wikipedia, "Anysphere," accessed May 2026. https://en.wikipedia.org/wiki/Anysphere — Documents all funding rounds: Oct 2023 Seed ($8M, OpenAI Startup Fund), Jul 2024 Series A ($60M), Jun 5 2025 Series C ($900M, Thrive Capital lead), Nov 13 2025 Series D ($2.3B, co-led Accel and Coatue at $29.3B valuation, Google and Nvidia participating).
+
+[^59]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 26, 2025. Accessed May 2026. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue co-led the $2.3B Series D financing with Accel, taking Anysphere valuation to $29.3 billion.

@@ -77,7 +77,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Aligned Marketplace | Seed | 2024 | Healthcare | Active [^19] |
+| Aligned Marketplace | Seed ($8M, co-led with Maverick) | 2024-04-03 | Healthcare | Active [^19][^25][^26] |
 | Apollo | Firm-level (undisclosed) | ~2022 | Sales/Marketing SaaS | Active [^1] |
 | Cape | Seed/Early | 2025 | Telecommunications/Security | Active [^12] |
 | Decagon | Series A | 2024-06-18 | AI/Customer Support | Active [^18][^23][^24] |
@@ -90,7 +90,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 ~unknown| Multiply | — | — | AI/Fintech | Active [^15] |
 ~unknown| Fifteenth | — | — | AI/Tax | Active [^15] |
 | Notion | Series B+ | ~2021 | Productivity/SaaS | Active [^2] |
-| Paraform | Seed | 2024 | AI/Recruiting | Active [^21] |
+| Paraform | Seed ($3.6M, led) | 2024-04-15 | AI/Recruiting | Active [^21][^27] |
 | Ramp | Series B+ | ~2021 | Fintech | Active [^2] |
 ~unknown| Sesame | — | — | AI/Consumer | Active [^1] |
 ~unknown| Whop | — | — | E-commerce | Active [^1] |
@@ -167,3 +167,9 @@ No independently sourced founder testimonials found. The firm's website does not
 [^22]: Bennett Siegel, Twitter/X post, accessed March 2026. https://x.com/BennettSiegel
 [^23]: GlobeNewswire, "Decagon Raises $35M from Accel and a16z to Bring Human-Like AI Customer Support to the Enterprise," June 18, 2024. https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/Decagon-Raises-35M-from-Accel-and-a16z-to-Bring-Human-Like-AI-Customer-Support-to-the-Enterprise.html
 [^24]: TechCrunch, "Decagon claims its customer service bots are smarter than average," June 18, 2024. https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/
+
+[^25]: Aligned Marketplace, "What Is Advanced Primary Care and Why It Works," April 3, 2024 (company website republication of launch press release), accessed May 2026. https://www.alignedmarketplace.com/insights/aligned-marketplace-launches-to-make-advanced-primary-care-more-accessible-to-employers — Company's own announcement confirming April 3, 2024 launch, $8M seed co-led by A* Capital and Maverick Ventures, participation from Box Group, EPIC Ventures, Liquid2 Ventures, SV Angel.
+
+[^26]: FinSMEs, "Aligned Marketplace Raises $8M in Seed Funding," April 2024, accessed May 2026. https://www.finsmes.com/2024/04/aligned-marketplace-raises-8m-in-seed-funding.html — Third-party press confirmation of $8M seed round.
+
+[^27]: BostonBrandMedia, "Paraform...has secured a substantial $3.6 million in its seed funding round," April 15, 2024, accessed May 2026. https://www.bostonbrandmedia.com/news/paraform-a-startup-dedicated-to-bridging-the-gap-between-startups-and-recruiter-networks-has-secured-a-substantial-3-6-million-in-its-seed-funding-round — Third-party press confirmation of $3.6M seed led by A* Capital on April 15, 2024.
