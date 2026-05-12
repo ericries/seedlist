@@ -145,6 +145,9 @@ firms:
   slug: iconiq-growth
   year: 2015
 - slug: lone-pine-capital
+- round: Techstars Ventures angel round
+  slug: techstars
+  year: 2009
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -272,6 +275,9 @@ investors:
 - round: Growth
   slug: avie-tevanian
   year: 2012
+- round: Techstars Ventures angel round
+  slug: david-cohen
+  year: 2009
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

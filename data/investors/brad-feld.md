@@ -1,24 +1,42 @@
 ---
-name: "Brad Feld"
-slug: brad-feld
-tldr: "Co-founder of Foundry Group ($3.5B AUM, Boulder, CO) and Techstars (2006). Thematic investor across Human Computer Interaction, Glue, Protocol, Distribution, and Digital Life. Portfolio includes Fitbit (IPO 2015), MakerBot (acq. Stratasys 2013), SendGrid (IPO 2017, acq. Twilio), Zynga, Harmonix, Moz, Glowforge, Sphero, Rover. Foundry announced its 2022 fund would be its last; firm is winding down through ~2026. Author of nine books including 'Venture Deals' and 'Startup Communities'; daily blogger at FeldThoughts.com since 2004; pioneering voice on entrepreneur mental health."
-type: individual
-firm: foundry-group
-role: "Partner & Co-Founder, Foundry Group; Co-Founder, Techstars"
-location: "Boulder, CO"
-stage_focus: [seed, series-a]
-sector_focus: [developer-tools, hardware, robotics, 3d-printing, enterprise-saas, consumer, marketplace, ad-tech, music-tech, infrastructure]
-check_size: "$5M-$15M (over company lifetime)"
-last_verified_investment:
-  date: 2025-09-17
-  company: "Markup AI"
-  round: "Series A"
-social:
-  twitter: "@bfeld"
-  linkedin: "linkedin.com/in/bfeld"
-  blog: "feld.com"
-status: published
+check_size: $5M-$15M (over company lifetime)
+firm: techstars
 last_researched: 2026-04-29
+last_verified_investment:
+  company: Markup AI
+  date: 2025-09-17
+  round: Series A
+location: Boulder, CO
+name: Brad Feld
+role: Partner & Co-Founder, Foundry Group; Co-Founder, Techstars
+sector_focus:
+- developer-tools
+- hardware
+- robotics
+- 3d-printing
+- enterprise-saas
+- consumer
+- marketplace
+- ad-tech
+- music-tech
+- infrastructure
+slug: brad-feld
+social:
+  blog: feld.com
+  linkedin: linkedin.com/in/bfeld
+  twitter: '@bfeld'
+stage_focus:
+- seed
+- series-a
+status: published
+tldr: Co-founder of Foundry Group ($3.5B AUM, Boulder, CO) and Techstars (2006). Thematic
+  investor across Human Computer Interaction, Glue, Protocol, Distribution, and Digital
+  Life. Portfolio includes Fitbit (IPO 2015), MakerBot (acq. Stratasys 2013), SendGrid
+  (IPO 2017, acq. Twilio), Zynga, Harmonix, Moz, Glowforge, Sphero, Rover. Foundry
+  announced its 2022 fund would be its last; firm is winding down through ~2026. Author
+  of nine books including 'Venture Deals' and 'Startup Communities'; daily blogger
+  at FeldThoughts.com since 2004; pioneering voice on entrepreneur mental health.
+type: individual
 ---
 
 ## Background

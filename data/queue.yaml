@@ -18912,7 +18912,7 @@ queue:
 - name: David Cohen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Techstars
   discovered_from: brad-feld
@@ -20861,7 +20861,7 @@ queue:
 - name: Vani Kola
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kalaari Capital
   discovered_from: mohandas-pai
@@ -21339,3 +21339,201 @@ queue:
   firm: Tolemy Bio
   discovered_from: tolemy-bio
   source: Co-Founder Tolemy Bio; raised €1.4M Pre-Seed (2026-05-12)
+- name: Maelle Gavet
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Techstars
+  discovered_from: david-cohen
+- name: Andrew Cleland
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Techstars
+  discovered_from: david-cohen
+- name: Shirley Romig
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Techstars
+  discovered_from: david-cohen
+- name: Techstars Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cohen
+- name: Matt Oppenheimer
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Remitly
+  discovered_from: david-cohen
+- name: Keller Rinaudo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Zipline
+  discovered_from: david-cohen
+- name: Payal Kadakia
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: ClassPass
+  discovered_from: david-cohen
+- name: DigitalOcean
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cohen
+- name: SalesLoft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cohen
+- name: Alloy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cohen
+- name: FullContact
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cohen
+- name: Sketchfab
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cohen
+- name: Vinod Dham
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kalaari Capital
+  discovered_from: vani-kola
+- name: Sampath P
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kalaari Capital
+  discovered_from: vani-kola
+- name: Chiratae Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Accel India
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Mukesh Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sparx
+  discovered_from: vani-kola
+- name: Harsh Jain
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dream11
+  discovered_from: vani-kola
+- name: Ankit Nagori
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Curefoods
+  discovered_from: vani-kola
+- name: Ratan Tata
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: RNT Capital
+  discovered_from: vani-kola
+- name: Myntra
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Dream11
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Cult.fit
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Urban Ladder
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Zivame
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: BlueStone
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Jumbotail
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: ElasticRun
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: WinZO
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Embibe
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola
+- name: Haptik
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vani-kola

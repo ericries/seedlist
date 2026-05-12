@@ -1,18 +1,29 @@
 ---
-name: "NudgeBee"
-slug: nudgebee
-type: startup
-website: "https://www.nudgebee.com"
-location: "Pune, India"
+firms:
+- round: Seed ($3M led by Kalaari)
+  slug: kalaari-capital
+  year: 2026
 founded: 2024
-status_company: active
-sector: [ai, cloud, devops, enterprise, agentic-ai]
-stage_latest: "Seed"
-total_raised: "$3M"
-firms: []
-investors: []
-status: published
+investors:
+- round: Seed ($3M led by Kalaari)
+  slug: vani-kola
+  year: 2026
 last_researched: 2026-04-26
+location: Pune, India
+name: NudgeBee
+sector:
+- ai
+- cloud
+- devops
+- enterprise
+- agentic-ai
+slug: nudgebee
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $3M
+type: startup
+website: https://www.nudgebee.com
 ---
 
 ## About

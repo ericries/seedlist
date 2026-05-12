@@ -18,6 +18,13 @@ founders:
   role: Co-Founder
 - name: Jack Abraham
   role: Co-Founder
+investors:
+- round: Seed ($18M, participated, incubated)
+  slug: jack-abraham
+  year: 2024
+- round: '2024-12-05'
+  slug: chester-ng
+  year: 2024
 last_researched: 2026-05-12
 location: San Francisco, CA
 name: Sauron

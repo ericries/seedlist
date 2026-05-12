@@ -1,34 +1,44 @@
 ---
-name: Frame Security
-slug: frame-security
-type: startup
-website: https://framesecurity.com
-location: US / Israel
-status_company: active
-sector:
-- cybersecurity
-- ai
-- security-awareness
-- human-risk-management
-stage_latest: Stealth-exit funding
-total_raised: $50M
-investors:
-- slug: elad-gil
-  round: stealth-exit
-  year: 2026
-  date: 2026-05-11
 firms:
-- slug: index-ventures
+- date: 2026-05-11
   round: stealth-exit
+  slug: index-ventures
   year: 2026
-  date: 2026-05-11
+- round: '2026-05-11'
+  slug: wiz
+  year: 2026
+- round: Stealth-exit ($50M, participated; co-led by Index Ventures, Team8, Picture
+    Capital)
+  slug: gil-capital
+  year: 2026
 founders:
 - name: Tal Shlomo
   role: Co-Founder & CEO
 - name: Sharon Shmueli
   role: Co-Founder & CTO
+investors:
+- date: 2026-05-11
+  round: stealth-exit
+  slug: elad-gil
+  year: 2026
+- round: '2026-05-11'
+  slug: assaf-rappaport
+  year: 2026
 last_researched: 2026-05-12
+location: US / Israel
+name: Frame Security
+sector:
+- cybersecurity
+- ai
+- security-awareness
+- human-risk-management
+slug: frame-security
+stage_latest: Stealth-exit funding
 status: published
+status_company: active
+total_raised: $50M
+type: startup
+website: https://framesecurity.com
 ---
 
 ## About
