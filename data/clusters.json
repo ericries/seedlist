@@ -8916,7 +8916,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 14,
+      "size": 15,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8987,6 +8987,11 @@
           "slug": "rohit-bansal",
           "name": "Rohit Bansal",
           "firm": "titan-capital"
+        },
+        {
+          "slug": "vani-kola",
+          "name": "Vani Kola",
+          "firm": "kalaari-capital"
         }
       ]
     },
@@ -9202,7 +9207,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 29,
+      "size": 31,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9347,6 +9352,16 @@
           "slug": "sam-hinkie",
           "name": "Sam Hinkie",
           "firm": "87-capital"
+        },
+        {
+          "slug": "vani-kola",
+          "name": "Vani Kola",
+          "firm": "kalaari-capital"
+        },
+        {
+          "slug": "david-cohen",
+          "name": "David Cohen",
+          "firm": "techstars"
         }
       ]
     },
@@ -9788,7 +9803,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 45,
+      "size": 46,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10014,6 +10029,11 @@
           "slug": "stefanie-thomas-martin",
           "name": "Stefanie Thomas-Martin",
           "firm": "zeal-capital-partners"
+        },
+        {
+          "slug": "vani-kola",
+          "name": "Vani Kola",
+          "firm": "kalaari-capital"
         }
       ]
     },
@@ -11211,7 +11231,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 8,
+      "size": 9,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11251,6 +11271,11 @@
           "slug": "hans-tung",
           "name": "Hans Tung",
           "firm": "ggv-capital"
+        },
+        {
+          "slug": "vani-kola",
+          "name": "Vani Kola",
+          "firm": "kalaari-capital"
         }
       ]
     },
