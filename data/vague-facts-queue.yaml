@@ -140348,9 +140348,11 @@ vague_facts:
   profile: firms/a-star-capital
   profile_name: A*
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: "Resolved to 2024-12-05; $18M Seed announced by Washington Post (Nitasha Tiku). Participants: 8VC, Atomic, A* Capital, executives at Flock Safety and Palantir. By late 2025 total raised reported as $24M (TechCrunch). New startup profile created (data/startups/sauron.md). Updated firms/a-star-capital, firms/atomic, firms/8vc, investors/jack-abraham, investors/chester-ng."
+  resolved: 2026-05-12
 - column: 2
   company: LangChain
   line: '| LangChain | Seed | ~2023 | AI | Active [^8] |'
@@ -140714,9 +140716,11 @@ vague_facts:
   profile: firms/accel
   profile_name: Accel
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: "Resolved to 2025-10-09; n8n's $180M Series C was led by Accel at $2.5B valuation. The 2024 year was incorrect — n8n raised no round in 2024. Sources: n8n blog (primary), The SaaS News, PitchBook News. Other participants: Meritech, Redpoint, Evantic, Visionaries Club, NVentures, T.Capital, Felicis, Sequoia, Highland Europe, HV Capital. Updated firms/accel.md."
+  resolved: 2026-05-12
 - column: 2
   company: Synthesia
   line: '| Synthesia | Growth | 2024 | AI/Video | [^9] |'
@@ -140724,9 +140728,11 @@ vague_facts:
   profile: firms/accel
   profile_name: Accel
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: "Resolved by splitting into two specific rounds: Accel led Synthesia's $90M Series C on 2023-06-13 (primary source: Synthesia blog; secondary: BusinessWire, TechCrunch), and Accel participated in the $200M Series E on 2026-01-26 (primary: Synthesia blog; secondary: Sifted). No Synthesia round was raised in 2024 — the 2024 year was incorrect. Updated firms/accel.md."
+  resolved: 2026-05-12
 - column: 2
   company: Cyera
   line: '| Cyera | Early | 2023 | AI/Cybersecurity | [^9] |'

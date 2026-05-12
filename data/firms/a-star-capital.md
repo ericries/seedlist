@@ -94,7 +94,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Ramp | Series B+ | ~2021 | Fintech | Active [^2] |
 ~unknown| Sesame | — | — | AI/Consumer | Active [^1] |
 ~unknown| Whop | — | — | E-commerce | Active [^1] |
-| Sauron | Seed | 2024 | Home Security | Active [^13] |
+| Sauron | Seed ($18M, participated) | 2024-12-05 | Home Security | Active [^13][^28][^29][^30] |
 
 ### Pre-Formation Investments (Kevin Hartz personal angel portfolio)
 
@@ -173,3 +173,9 @@ No independently sourced founder testimonials found. The firm's website does not
 [^26]: FinSMEs, "Aligned Marketplace Raises $8M in Seed Funding," April 2024, accessed May 2026. https://www.finsmes.com/2024/04/aligned-marketplace-raises-8m-in-seed-funding.html — Third-party press confirmation of $8M seed round.
 
 [^27]: BostonBrandMedia, "Paraform...has secured a substantial $3.6 million in its seed funding round," April 15, 2024, accessed May 2026. https://www.bostonbrandmedia.com/news/paraform-a-startup-dedicated-to-bridging-the-gap-between-startups-and-recruiter-networks-has-secured-a-substantial-3-6-million-in-its-seed-funding-round — Third-party press confirmation of $3.6M seed led by A* Capital on April 15, 2024.
+
+[^28]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed; participants include executives from Flock Safety and Palantir, defense-tech investors including 8VC, Jack Abraham's Atomic, and Kevin Hartz's A*.
+
+[^29]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming $18M seed funding for Sauron home security per Washington Post.
+
+[^30]: Futurism, "Home Security Startup Sauron Secures Funding for All-Seeing Eye," December 12, 2024, accessed May 2026. https://futurism.com/the-byte/sauron-secures-funding — Contemporaneous press; confirms $18M raise, Palantir executive participation. CEO Kevin Hartz quoted on deterrence pods.

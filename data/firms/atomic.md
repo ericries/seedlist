@@ -111,7 +111,7 @@ Based on 18 verified portfolio companies from Atomic's website [^6]:
 | OpenStore | Series B | 2021 | E-Commerce | Active [^6] |
 | Paravision | Series B | 2017 | AI | Active [^6] |
 | Replicant | Series B | 2017 | AI | Active [^6] |
-| Sauron | Seed | 2024 | AI/Security | Active [^6] |
+| Sauron | Seed ($18M, participated, incubated) | 2024-12-05 | AI/Security | Active [^6][^7][^8][^9] |
 | TalkIQ | Acquired | 2013 | AI | Acquired by Dialpad [^6] |
 | Terminal | Series B | 2016 | Marketplace | Active [^6] |
 | Villa | Series A | 2019 | Real Estate | Active [^6] |
@@ -142,3 +142,9 @@ Note: The above founder quotes are sourced from Atomic's own website and should 
 [^4]: Medium/Atomic Blog, "Atomic II: $150M to Start Companies to Solve the World's Problems," accessed March 2026. https://medium.com/the-atomic-blog/atomic-ii-150m-to-start-companies-to-solve-the-worlds-problems-10db4ab65aa5
 [^5]: TechCrunch, "Atomic just raised $260 million more to build and fund its own companies," March 2021, accessed March 2026. https://techcrunch.com/2021/03/02/atomic-which-only-funds-the-startups-it-launches-just-closed-its-newest-fund-with-260-million/
 [^6]: Atomic website, "Companies," accessed March 2026. https://www.atomic.vc/companies
+
+[^7]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed; Atomic among the investors alongside A* Capital, 8VC, and executives at Flock Safety/Palantir.
+
+[^8]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
+
+[^9]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports $24M total raised by late 2025 from executives at Flock Safety and Palantir, 8VC, Atomic, and A*.

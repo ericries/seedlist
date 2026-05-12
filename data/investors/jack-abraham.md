@@ -122,7 +122,7 @@ The analysis below is based on 18 companies listed on Atomic's official companie
 | OpenStore | 2021 | Series B | E-Commerce | [^4] |
 | Elly | 2023 | Seed | AI/Recruiting | [^4] |
 | Exowatt | 2024 | Series A | Energy/Climate | [^4] |
-| Sauron | 2024 | Seed | AI/Security | [^4] |
+| Sauron | 2024-12-05 | Seed ($18M, participated, incubated) | AI/Security | [^4][^5][^6][^7] |
 
 ### Pre-Atomic Angel Investments
 
@@ -165,3 +165,9 @@ No independently sourced founder testimonials found. Atomic's model is unusual i
 [^2]: Grokipedia, "Jack Abraham," accessed March 2026. https://grokipedia.com/page/Jack_Abraham
 [^3]: Medium, "Atomic II: $150M to Start Companies to Solve the World's Problems," by Jack Abraham, 2018, accessed March 2026. https://medium.com/the-atomic-blog/atomic-ii-150m-to-start-companies-to-solve-the-worlds-problems-10db4ab65aa5
 [^4]: Atomic website, "Companies," accessed March 2026. https://www.atomic.vc/companies
+
+[^5]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed; Atomic (Abraham) co-incubated the company with Kevin Hartz's A*.
+
+[^6]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
+
+[^7]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports total $24M raised by late 2025 from Flock Safety/Palantir executives, 8VC, Atomic, and A*.

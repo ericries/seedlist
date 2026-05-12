@@ -3,9 +3,9 @@ check_size: $200K-$2M
 firm: atomic
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Exowatt
-  date: 2024
-  round: Series A
+  company: Sauron
+  date: 2024-12-05
+  round: Seed
 location: Miami, FL
 name: Chester Ng
 role: General Partner
@@ -102,7 +102,7 @@ The analysis below is based on 18 verified Atomic portfolio companies where Ches
 | TalkIQ | Seed | 2013 | AI / Voice Analysis | Acquired (Dialpad) | [^5] |
 | Jumpcut | Seed | 2019 | Entertainment | Acquired (Cinelytic) | [^5] |
 | Elly | Seed | 2023 | AI / Recruiting | Seed | [^5] |
-| Sauron | Seed | 2024 | AI / Home Security | Seed | [^5] |
+| Sauron | Seed ($18M, participated) | 2024-12-05 | AI / Home Security | Seed | [^5][^9][^10][^11] |
 
 ## In Their Own Words
 
@@ -130,3 +130,9 @@ Another Trinity colleague wrote: "We were fortunate to have Chester as an EIR. I
 [^6]: The Org, "Chester Ng — Founding Investor at Hims & Hers," accessed March 2026. https://theorg.com/org/hims-hers/org-chart/chester-ng
 [^7]: Fortune, "Venture studio Atomic raises $320 million for its fourth fund," May 2023. https://fortune.com/2023/05/15/venture-studio-atomic-raised-320-million-fund/
 [^8]: LinkedIn recommendations for Chester Ng, accessed March 2026. https://www.linkedin.com/in/chest
+
+[^9]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed.
+
+[^10]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
+
+[^11]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports $24M total raised by late 2025 from Flock Safety/Palantir executives, 8VC, Atomic, and A*.

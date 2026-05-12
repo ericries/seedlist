@@ -204,8 +204,9 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | True Anomaly | Series C | 2025 | Space/Defense | [^9] |
 | Anthropic | Growth | 2024 | AI | [^9] |
 | Nebius Group | Growth | 2024 | AI Infrastructure | [^9] |
-| n8n | Early | 2024 | AI/Automation | [^9] |
-| Synthesia | Growth | 2024 | AI/Video | [^9] |
+| n8n | Series C ($180M, led) | 2025-10-09 | AI/Automation | [^9][^60][^61] |
+| Synthesia | Series C ($90M, led, $1B valuation) | 2023-06-13 | AI/Video | [^62][^63][^64] |
+| Synthesia | Series E ($200M, participated) | 2026-01-26 | AI/Video | [^65][^66] |
 | Cyera | Early | 2023 | AI/Cybersecurity | [^9] |
 | DJI | Early | 2013 | Hardware/Drones | [^6] |
 | Cloudera | Series A | 2008 | Data/Enterprise | [^6] |
@@ -322,3 +323,17 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^58]: Wikipedia, "Anysphere," accessed May 2026. https://en.wikipedia.org/wiki/Anysphere — Documents all funding rounds: Oct 2023 Seed ($8M, OpenAI Startup Fund), Jul 2024 Series A ($60M), Jun 5 2025 Series C ($900M, Thrive Capital lead), Nov 13 2025 Series D ($2.3B, co-led Accel and Coatue at $29.3B valuation, Google and Nvidia participating).
 
 [^59]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 26, 2025. Accessed May 2026. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue co-led the $2.3B Series D financing with Accel, taking Anysphere valuation to $29.3 billion.
+
+[^60]: n8n blog, "n8n raises $180m to get AI closer to value with orchestration," October 9, 2025, accessed May 2026. https://blog.n8n.io/series-c/ — Confirms $180M Series C led by Accel at $2.5B valuation; participants include Meritech, Redpoint, Evantic, Visionaries Club, NVentures, T.Capital, and existing backers Felicis, Sequoia, Highland Europe, HV Capital.
+
+[^61]: The SaaS News, "n8n Raises $180M Series C at $2.5B Valuation," October 2025, accessed May 2026. https://www.thesaasnews.com/news/n8n-raises-180m-series-c-at-2-5b-valuation — Confirms $180M Series C led by Accel.
+
+[^62]: Synthesia blog, "Where Synthesia is Going Next: Announcing our Series C," accessed May 2026. https://www.synthesia.io/post/series-c — Synthesia's official Series C announcement; $90M led by Accel (Philippe Botteri joining board) with NVIDIA, Kleiner Perkins, GV, and FirstMark participating.
+
+[^63]: BusinessWire, "AI Video Creation Pioneer Synthesia Raises $90 Million Series C Led by Accel," June 13, 2023, accessed May 2026. https://www.businesswire.com/news/home/20230613913631/en/AI-Video-Creation-Pioneer-Synthesia-Raises-%2490-Million-Series-C-Led-by-Accel — Confirms June 13, 2023 announcement date.
+
+[^64]: TechCrunch, "Synthesia secures $90M for AI that generates custom avatars," June 14, 2023, accessed May 2026. https://techcrunch.com/2023/06/14/synthesia-secures-90m-for-ai-that-generates-custom-avatars/ — Contemporaneous press coverage of the $90M Series C.
+
+[^65]: Synthesia blog, "Synthesia raises $200 million Series E at $4 billion valuation," January 26, 2026, accessed May 2026. https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work — Series E led by Google Ventures; Accel listed as participating existing investor.
+
+[^66]: Sifted, "Synthesia hits $4bn valuation with $200m round led by Google Ventures," January 26, 2026, accessed May 2026. https://sifted.eu/articles/synthesia-4bn-valuation-200m-google-ventures — Contemporaneous press; confirms Accel's participation.

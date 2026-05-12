@@ -114,6 +114,7 @@ Based on 8VC's verified portfolio and public data:
 | Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
 | Rilian | Seed (co-led) | 2026 | AI/Cybersecurity/Defense | Private [^13] |
 | Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^19][^20] |
+| Sauron | Seed (participated, $18M) | 2024-12-05 | Home Security / AI | Private [^21][^22][^23] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -160,3 +161,9 @@ No independently sourced founder testimonials found.
 [^19]: BioSpace, "Latus Bio Announces $97 Million Series A Financing to Expand the Reach of Gene Therapy to Larger Populations," May 4, 2026. https://www.biospace.com/press-releases/latus-bio-announces-97-million-series-a-financing-to-expand-the-reach-of-gene-therapy-to-larger-populations — $43M Series A Extension led by 8VC (Francisco Gimenez, Partner), bringing total Series A to $97M. Existing investors DCVC Bio, BioAdvance, Benjamin Franklin Technology Partners, Modi Ventures, Gaingels, and Hatch BioFund participated, with new investors Korea Development Bank and Helen's Pink Sky Foundation joining.
 
 [^20]: BioPharma Dive, "With $97M, Latus pursues a different kind of Huntington's gene therapy," May 4, 2026. https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/
+
+[^21]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed; 8VC participated alongside Atomic, A*, and executives at Flock Safety/Palantir.
+
+[^22]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
+
+[^23]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports $24M total raised by late 2025 from Flock Safety/Palantir executives, 8VC, Atomic, and A*.
