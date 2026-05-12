@@ -181,7 +181,8 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Airbnb | Series C | 2013 | Marketplace | Public (IPO 2020) [^22] |
 | Ramp | Growth | ~2019 (founded) | Fintech | Private [^20] |
 | Neuralink | Early | ~2016 (founded) | Biotech / Neural Interface | Private [^20] |
-| OpenAI | Series F | 2025 | AI | Private [^25] |
+| OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
+| Enter | Series B (led) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^46][^47] |
 | Cognition | Series A (led) | 2024-03-12 | AI / Developer Tools | Private [^20][^36][^37][^38] |
 | Nubank | Series C | ~2014 | Fintech / Banking | Public (IPO 2021) [^2] |
 | Trade Republic | Growth | ~2019 (founded) | Fintech / Brokerage | Private [^20] |
@@ -364,3 +365,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^43]: Anthropic press release, "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation," February 12, 2026. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation — $30B Series G announced February 12, 2026 at $380B post-money valuation; led by GIC and Coatue with co-leads D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX.
 
 [^44]: TechCrunch, "Anthropic raises another $30B in Series G, with a new value of $380B," February 12, 2026. Accessed May 2026. https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/
+
+[^45]: CNBC, "OpenAI closes $40 billion funding round, largest private tech deal on record," March 31, 2025. Accessed May 2026. https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html — $40B Series F closed March 31, 2025 at $300B post-money valuation; led by SoftBank ($30B) with $10B syndicate including Founders Fund, Magnetar Capital, Coatue, Microsoft, Altimeter Capital, and Thrive Capital. Cross-referenced with TechCrunch, "OpenAI raises $40B at $300B post-money valuation," March 31, 2025. https://techcrunch.com/2025/03/31/openai-raises-40b-at-300b-post-money-valuation/
+
+[^46]: Enter newsroom, "Enter raises $100M+ to become Latin America's first AI unicorn," May 5, 2026. Accessed May 2026. https://www.getenter.ai/en/news/enter-levanta-mais-de-us-100-milhoes-e-se-torna-o-primeiro-unicornio-de-ia-da-america-latina — São Paulo-based Enter announced $100M+ Series B at $1.2B valuation on May 5, 2026, led by Founders Fund with Sequoia Capital, Ribbit Capital, ONEVC, Atlantico, and Kaszek participating; Latin America's first AI unicorn.
+
+[^47]: PR Newswire, "Greenberg Traurig Represents Enter in $100M Series B, Creating Latin America's First AI Unicorn," May 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/greenberg-traurig-represents-enter-in-100m-series-b-creating-latin-americas-first-ai-unicorn-302767169.html
