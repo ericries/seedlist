@@ -1,33 +1,36 @@
 ---
-name: Grand Games
-slug: grand-games
-type: startup
-website: https://grandgames.net/
-location: Istanbul, Turkey
+firms:
+- date: 2025-01-09
+  round: series-a
+  slug: balderton-capital
+  year: 2025
+- date: 2026-05-11
+  round: series-b
+  slug: balderton-capital
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Bekir Batuhan Çelebi
+  role: CEO & Co-Founder
+investors:
+- round: Series A
+  slug: suranga-chandratillake
+  year: 2025
+last_researched: 2026-05-11
+location: Istanbul, Turkey
+name: Grand Games
 sector:
 - gaming
 - mobile-gaming
 - consumer
 - hybrid-casual
+slug: grand-games
 stage_latest: Series B
-total_raised: $103M
-investors: []
-firms:
-- slug: balderton-capital
-  round: series-a
-  year: 2025
-  date: 2025-01-09
-- slug: balderton-capital
-  round: series-b
-  year: 2026
-  date: 2026-05-11
-founders:
-- name: Bekir Batuhan Çelebi
-  role: CEO & Co-Founder
-last_researched: 2026-05-11
 status: published
+status_company: active
+total_raised: $103M
+type: startup
+website: https://grandgames.net/
 ---
 
 ## About

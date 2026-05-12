@@ -3,11 +3,17 @@ firms:
 - round: Seed
   slug: transition-vc
   year: 2017
+- round: Seed
+  slug: independent
+  year: 2026
 founded: 2023
 investors:
 - round: Seed
   slug: david-helgason
   year: 2017
+- round: Seed
+  slug: cal-henderson
+  year: 2026
 last_researched: 2026-04-22
 location: Helsinki, Finland
 name: Realm

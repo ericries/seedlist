@@ -17075,7 +17075,7 @@ queue:
 - name: Zach Perret
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Plaid
   discovered_from: mo-koyfman
@@ -20301,7 +20301,7 @@ queue:
 - name: Cal Henderson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Slack
   discovered_from: adrien-treuille
@@ -20797,3 +20797,256 @@ queue:
   added: '2026-03-17'
   firm: Cowboy Space Corporation
   discovered_from: cowboy-space-corporation
+- name: Ranjan Pai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aarin Capital
+  discovered_from: mohandas-pai
+- name: Pranav Pai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 3one4 Capital
+  discovered_from: mohandas-pai
+- name: Siddarth Pai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 3one4 Capital
+  discovered_from: mohandas-pai
+- name: 3one4 Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Exfinity Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: V Balakrishnan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Exfinity Venture Partners
+  discovered_from: mohandas-pai
+- name: Girish Paranjpe
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Exfinity Venture Partners
+  discovered_from: mohandas-pai
+- name: Deepak Ghaisas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Exfinity Venture Partners
+  discovered_from: mohandas-pai
+- name: Kanwaljit Singh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Fireside Ventures
+  discovered_from: mohandas-pai
+- name: Vani Kola
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kalaari Capital
+  discovered_from: mohandas-pai
+- name: Fireside Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Anurag Ramdasan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 3one4 Capital
+  discovered_from: mohandas-pai
+- name: Nruthya Madappa
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 3one4 Capital
+  discovered_from: mohandas-pai
+- name: Licious
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: TripFactory
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: 88academics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: HomeLane
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: PharmEasy
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Vyome Biosciences
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Faircent
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Invact Metaversity
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: ZoomCar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Jigsaw Academy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+- name: Eric Costello
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: cal-henderson
+- name: Serguei Mourachov
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: cal-henderson
+- name: Thomas Wolf
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hugging Face
+  discovered_from: cal-henderson
+- name: Thomas Dohmke
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: cal-henderson
+- name: Ant Wilson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Supabase
+  discovered_from: cal-henderson
+- name: Andrew Johnstone
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Superhuman
+  discovered_from: cal-henderson
+- name: Romain Huet
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenAI
+  discovered_from: cal-henderson
+- name: Alex Plugaru
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gorgias
+  discovered_from: cal-henderson
+- name: Alex Bouaziz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Deel
+  discovered_from: cal-henderson
+- name: Karma Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
+- name: Lifeline Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
+- name: Pioneer Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
+- name: Founders Inc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
+- name: Swarmia
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
+- name: Dedalus Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
+- name: Pally
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cal-henderson
