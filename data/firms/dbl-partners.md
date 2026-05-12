@@ -115,7 +115,7 @@ Based on 46 verified portfolio companies from the firm's website [^2], DBL Partn
 | Chestnut Carbon | Early Stage | ~2023 | Carbon removal | Active [^2] |
 | Terram Lab | Early Stage | ~2024 | Sustainable packaging | Active [^2] |
 | Fiber Global | Early Stage | ~2024 | Building materials | Active [^2] |
-| Agtonomy | Series B | 2025 | Agtech/physical AI | Active [^12] |
+| Agtonomy | Series B (led) | 2025-10-28 | Agtech/physical AI | Active [^12][^17] |
 
 *Note: Many entries use approximate years based on founding year proxies, as exact investment dates are not publicly available for most early deals. This table represents approximately 46 of 72 known investments (~64%).*
 
@@ -161,3 +161,5 @@ No independently sourced founder testimonials found. Portfolio company founders'
 [^14]: McKnight Foundation, "Double Bottom Line (DBL) Partners IV," accessed April 2026. https://www.mcknight.org/impact-investment/double-bottom-line-dbl-partners-iv/
 [^15]: Venture Capital Journal, "DBL Partners amasses $600m for fourth fund," 2021. https://www.venturecapitaljournal.com/dbl-partners-amasses-600m-for-fourth-fund/
 [^16]: SJF Ventures, "NEXTracker's Rapid Growth and Impact Investment Success Story," accessed April 2026. https://sjfventures.com/case-study/nextrackers-rapid-growth-and-impact-investment-success-story/
+
+[^17]: Agtonomy Press, "Agtonomy Secures $18 Million Series B to Accelerate Physical AI Adoption in Off-Road Industries," October 28, 2025. Accessed May 2026. https://www.agtonomy.com/press/series-b-announcement — Confirms $18M Series B led by DBL Partners on October 28, 2025, with Nuveen joining as new investor and Autotech, Allison Transmission, Rethink Food, and Black Forest Ventures continuing.

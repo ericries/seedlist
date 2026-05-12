@@ -92,7 +92,7 @@ Based on 64 companies listed on the Trucks VC portfolio page [^1], with suppleme
 |---------|-------|------|--------|--------|
 | AEye | Seed | ~2017 | Lidar/ADAS | Public (NASDAQ: LIDR) [^1][^17] |
 | Aperia | Seed | ~2017 | Tire tech | Active [^1] |
-| Auriga Space | Seed | 2025 | Aerospace | Active [^1][^8] |
+| Auriga Space | Seed | 2025-07-15 | Aerospace | Active [^1][^8][^23] |
 | Aurora Labs | Seed | ~2018 | OTA software | Active [^1] |
 | BasiGo | Seed | ~2021 | Electric buses (Africa) | Active [^1] |
 | Bear Flag Robotics | Pre-seed | 2017 | Autonomous agriculture | Acquired (John Deere) [^1][^18] |
@@ -202,3 +202,5 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^20]: Trucks VC investment memos page, accessed March 2026. https://www.trucks.vc/categories/investment-memos
 [^21]: JetZero press release, "JetZero Raises $175 Million in Series B Financing," January 13, 2026. https://www.jetzero.aero/jetzero-raises-175-million-in-series-b-financing
 [^22]: University of Michigan Innovation Partnerships, "May Mobility raises $11.5M in seed funding," accessed March 2026. https://innovationpartnerships.umich.edu/stories/may-mobility-raises-11-5m-in-seed-funding-to-accelerate-deployment-of-self-driving-shuttle-fleets/
+
+[^23]: TechCrunch, "Auriga Space raises $6M to shoot rockets off an electromagnetic launch track," July 15, 2025. Accessed May 2026. https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/ — Confirms $4.6M Seed round closed early 2025, announced publicly July 15, 2025; led by OTB Ventures with Trucks Venture Capital and Seraphim Space participating. Plus $1.4M AFWERX/SpaceWERX contracts.

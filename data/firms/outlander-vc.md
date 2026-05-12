@@ -93,12 +93,12 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Wish | Angel | 2010 | E-commerce | [^4][^17] |
-| Twitter | Angel | 2010 | Social media | [^4][^17] |
-| AngelList | Angel | 2011 | Fintech/investment platform | [^4][^17] |
-| Postmates | Angel | 2011 | Delivery/logistics | [^4][^17] |
-| Gusto | Angel | 2012 | HR/payroll | [^4][^17] |
-| Lyft | Angel | 2012 | Rideshare | [^4][^17] |
+| Wish | Angel | 2010 | E-commerce | [^4] |
+| Twitter | Angel | 2010 | Social media | [^4] |
+| AngelList | Angel | 2011 | Fintech/investment platform | [^4] |
+| Postmates | Angel | 2011 | Delivery/logistics | [^4] |
+| Gusto | Angel | 2012 | HR/payroll | [^4] |
+| Lyft | Angel | 2012 | Rideshare | [^4] |
 | SpaceX | Angel | ~2012 | Aerospace | [^1] |
 | Stripe | Angel | ~2012 | Payments | [^1] |
 | Klarna | Angel | ~2014 | Fintech | [^1] |
@@ -107,7 +107,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | ID.me | Angel | ~2015 | Identity verification | [^1] |
 | Opendoor | Angel | ~2014 | Real estate | [^1] |
 | Surf Air | Angel | ~2013 | Aviation | [^1] |
-| ClassPass | Angel | ~2014 | Fitness marketplace | [^1][^18] |
+| ClassPass | Angel | ~2014 | Fitness marketplace | [^1][^17] |
 | Clover Health | Angel | ~2015 | Healthcare | [^1] |
 | Andela | Angel | ~2015 | Talent/engineering | [^1] |
 | Imbue | Seed | ~2020 | AI/intelligence | [^1] |
@@ -118,18 +118,18 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Saltbox | Seed | ~2021 | E-commerce logistics | [^10] |
 | Kindly Care | Seed | ~2021 | Home healthcare | [^10] |
 | ProducePay | Seed | ~2021 | Agtech/fintech | [^10] |
-| Lula Commerce | Seed | 2022 | SaaS marketplace | [^11][^19] |
+| Lula Commerce | Seed | 2022 | SaaS marketplace | [^11][^18] |
 | Crow Industries | Pre-seed | 2023 | Autonomous mining/robotics | [^11] |
 | HavocAI | Seed | ~2023 | Maritime autonomy/defense | [^11] |
 | Skyways | Seed | ~2022 | Autonomous cargo drones | [^11][^12] |
 | Tryby AI | Seed | ~2024 | Voice AI agents | [^11] |
-| DiffuseDrive | Seed | 2025 | Generative AI for robotics | [^13] |
+| DiffuseDrive | Seed (co-led) | 2025-05-14 | Generative AI for robotics | [^13][^19] |
 | Catalyx Space | Seed | 2025 | Orbital logistics/space | [^14] |
 | Flock AI | Pre-seed | 2025 | AI visual commerce/fashion | [^15] |
 | Material Hybrid Manufacturing | Seed | 2026 | 3D-printed batteries/energy | [^16] |
 | Flock AI (follow-on) | Seed | 2026 | AI visual commerce/fashion | [^15] |
 
-Note: Investments dated 2010-2018 were made through Paige Craig's personal angel portfolio and Arena Ventures (Fund I Archimedes), which preceded the formal Outlander VC entity. Dates for the angel-era investments (2010-2015) are verified via Signal NFX investor profile [^17], which records specific start months for Wish (Oct 2010), Twitter (Sep 2010), AngelList (Jan 2011), Postmates (Nov 2011), Gusto (Apr 2012), and Lyft (Oct 2012). Remaining "~" dates for angel-era investments are approximate based on company founding years; Craig's angel investing period ran from 2008 to 2015 [^4]. This table represents a subset of the firm's 150+ claimed investments.
+Note: Investments dated 2010-2018 were made through Paige Craig's personal angel portfolio and Arena Ventures (Fund I Archimedes), which preceded the formal Outlander VC entity. Dates for the angel-era investments (2010-2015) are verified via Signal NFX investor profile [^4], which records specific start months for Wish (Oct 2010), Twitter (Sep 2010), AngelList (Jan 2011), Postmates (Nov 2011), Gusto (Apr 2012), and Lyft (Oct 2012). Remaining "~" dates for angel-era investments are approximate based on company founding years; Craig's angel investing period ran from 2008 to 2015 [^4]. This table represents a subset of the firm's 150+ claimed investments.
 
 ## In Their Own Words
 
@@ -181,6 +181,7 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^14]: SpaceDaily, "Catalyx Space expands orbital logistics after securing 5.4 million dollar seed funding," October 27, 2025. https://www.spacedaily.com/reports/Catalyx_Space_expands_orbital_logistics_after_securing_5_4_million_dollar_seed_funding_999.html
 [^15]: FinSMEs, "Flock AI Raises $6M in Seed Funding," February 2026. https://www.finsmes.com/2026/02/flock-ai-raises-6m-in-seed-funding.html
 [^16]: BusinessWire, "MATERIAL Unleashes Formless Energy, Defying the Laws of Industrial Gravity," January 12, 2026. https://www.businesswire.com/news/home/20260112647458/en/MATERIAL-Unleashes-Formless-Energy-Defying-the-Laws-of-Industrial-Gravity
-[^17]: Signal by NFX, "Paige Craig's Investing Profile," accessed April 2026. https://signal.nfx.com/investors/paige-craig
-[^18]: Outlander VC, "Fitmob and ClassPass Team Up to Revolutionize Fitness," accessed April 2026. https://outlander.vc/fieldguide/fitmob-and-classpass-team-up-to-revolutionize-fitness/
-[^19]: Retail Technology Innovation Hub, "Lula Commerce: six retail technology funding rounds you need to know about," October 2025, accessed April 2026. https://retailtechinnovationhub.com/home/2025/10/29/including-lula-commerce-and-yaga-six-retail-technology-funding-rounds-you-need-to-know-about
+[^17]: Outlander VC, "Fitmob and ClassPass Team Up to Revolutionize Fitness," accessed April 2026. https://outlander.vc/fieldguide/fitmob-and-classpass-team-up-to-revolutionize-fitness/
+[^18]: Retail Technology Innovation Hub, "Lula Commerce: six retail technology funding rounds you need to know about," October 2025, accessed April 2026. https://retailtechinnovationhub.com/home/2025/10/29/including-lula-commerce-and-yaga-six-retail-technology-funding-rounds-you-need-to-know-about
+
+[^19]: BusinessWire, "From Scarcity to Scale: DiffuseDrive Closes $3.5M to Define Physical AI for Automotive, Aerospace, Defense, and Robotics," May 14, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20250514894777/en/From-Scarcity-to-Scale-DiffuseDrive-Closes-$3.5M-to-Define-Physical-AI-for-Automotive-Aerospace-Defense-and-Robotics — $3.5M Seed announced May 14, 2025, co-led by Outlander VC and Presto Tech Horizons; brings total raised to $4.5M (including prior $1M from E2VC). Outlander VC Senior Partner Jordan Kretchmer joined the board.
