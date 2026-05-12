@@ -222,6 +222,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Musely | Non-Dilutive Growth (CVF, led) | 2026-05-01 | Healthcare / Telemedicine | Private [^52] |
 | Nace.AI | Seed (led) | 2025-03-24 | AI / Enterprise | Private [^53][^54] |
 | Ethos | Series A (participated) | 2026-05-06 | AI / Expert Network / HR Tech | Private [^55] |
+| Greenboard | Series A (participated) | 2026-05-12 | Regtech / Compliance AI | Private [^56] |
 
 *Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -379,3 +380,5 @@ No independently sourced founder testimonials were found in this research pass. 
 [^54]: .406 Ventures, "In the Zone | Our Investment in NaceAI," April 22, 2025. https://www.406ventures.com/insights/in-the-zone-our-investment-in-naceai/ — .406 Ventures confirmed as a participant in the Nace.AI seed round.
 
 [^55]: TechCrunch, "Ethos raises $22.75M from a16z for its expert network with voice onboarding," May 6, 2026. https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/ — London-based Ethos announced a $22.75M Series A on May 6, 2026 led by Andreessen Horowitz with General Catalyst, XTX Markets, Evantic Capital, and Common Magic participating. Founders James Lo (ex-McKinsey, SoftBank) and Daniel Mankowitz (ex-DeepMind). Cross-referenced with Tech Funding News, "a16z backs Ethos with $22.75M to replace CVs with an AI talent agent," May 2026. https://techfundingnews.com/ethos-22-5m-series-a-andreessen-horowitz-general-catalyst-ai-talent/ and Tech.eu, "AI consulting startup co-founded by DeepMind scientist lands $22.75M Series A," May 6, 2026. https://tech.eu/2026/05/06/ai-consulting-startup-co-founded-by-deepmind-scientist-lands-22-75m-series-a/
+
+[^56]: Fortune, "Greenboard raises $15.5 million Series A to keep compliance from slowing down business," May 12, 2026. Accessed May 2026. https://fortune.com/2026/05/12/greenboard-raises-15-5-million-series-a-to-keep-compliance-from-slowing-down-business/ — Greenboard's $15.5M Series A on May 12, 2026 was led by Base10 Partners with General Catalyst participating via its 2024 acquisition of Wayfinder. General Catalyst had also led the 2024 seed.

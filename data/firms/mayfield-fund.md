@@ -96,7 +96,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | Aurascape | Seed | 2024 | AI/Security | Active | [^7] |
 | Gruve | Seed | 2024 | AI/Infrastructure | Active | [^7] |
 | NeuBird | Series D | 2025 | AI/Enterprise | Active | [^4] |
-| Exaforce | Seed | 2024 | AI/Security | Active | [^7] |
+| Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
 | Inception Labs | Seed | 2024 | AI/Models | Active | [^7] |
 | ProRata.ai | Seed | 2024 | AI/Media | Active | [^7] |
 | DuploCloud | Seed | 2021 | AI/DevOps | Active | [^7] |
@@ -146,3 +146,4 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^11]: Crunchbase, "Series A — Poshmark — 2011-12-07," accessed April 2026. https://www.crunchbase.com/funding_round/poshmark-series-a--e2b3b9a7
 [^12]: Securiti.ai, "Securiti Raises $50M Series B to Scale Privacy Operations," accessed April 2026. https://securiti.ai/press-release/securiti-ai-raises-50m-series-b-from-general-catalyst-and-mayfield-to-scale-its-automated-privacy-operations-platform/
 [^13]: Mayfield website, "Mammoth Biosciences Achieves Unicorn Status with $195M Funding," accessed April 2026. https://www.mayfield.com/news/mammoth-biosciences-achieves-unicorn-status-with-195m-funding/
+[^14]: TechCrunch, "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen," May 12, 2026. Accessed May 2026. https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/ — Exaforce announced a $125M Series B on May 12, 2026 valuing the three-year-old startup at $725M, with Mayfield participating alongside HarbourVest, Peak XV, Khosla Ventures, and Seligman Ventures.

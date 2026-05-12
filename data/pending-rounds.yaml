@@ -156,7 +156,12 @@ pending_rounds:
   parsed_company: Exaforce
   parsed_amount: $125M
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-05-12'
+  slug: exaforce
+  notes: created exaforce.md ($125M Series B 2026-05-12 at $725M val; HarbourVest,
+    Peak XV, Mayfield, Khosla Ventures, Seligman Ventures); updated mayfield-fund.md
+    (Series B), khosla-ventures.md portfolios
 - title: Italian AI company Webidoo secures €21 million to scale SMB-focused automation
     platform
   url: https://www.eu-startups.com/2026/05/italian-ai-company-webidoo-secures-e21-million-to-scale-smb-focused-automation-platform/
@@ -165,7 +170,22 @@ pending_rounds:
   parsed_company: Italian AI company Webidoo
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-12'
+  slug: webidoo
+  notes: created webidoo.md ($25M growth round 2026-05-12 led by IXC3/Azimut Group;
+    8a+ Banca Generali and TIM Ventures participated). Original press release in USD
+    so kept $25M (EU-Startups headline used €21M conversion).
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/12/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-12-2026/
+  source: alleywatch
+  date_found: '2026-05-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-12'
+  notes: daily aggregator; created 4am.md ($4M+ Seed 2026-05-11 CAVU Consumer Partners-led, NYC skincare). Skipped Exponent $7.7M (no primary press beyond AlleyWatch summary).
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
     in food within hours
   url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
@@ -1017,13 +1037,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: duplicate of earlier skip; $2M Warsaw pre-seed below threshold
-- title: AlphaDrive raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: AlphaDrive
-  parsed_amount: $100M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close (Yaron Elad + Elik Etzion launched $100M cyber/AI fund),
-    not startup round

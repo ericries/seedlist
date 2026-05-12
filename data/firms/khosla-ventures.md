@@ -195,8 +195,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Glydways | Series C | 2026-04-14 | Autonomous Vehicles / Mobility | Private [^33] |
 | Nas.com | Series A | 2026-04-16 | AI / Creator Economy | Private [^34] |
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Private [^35] |
+| Exaforce | Series B | 2026-05-12 | Cybersecurity / AI / SOC | Private ($725M val) [^40] |
 
-*Note: This table includes 66 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
+*Note: This table includes 67 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
 ## In Their Own Words
 
@@ -343,3 +344,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^38]: "OpenAI LP." OpenAI announcement, March 11, 2019, accessed May 2026. https://openai.com/index/openai-lp/ — OpenAI's announcement of the capped-profit OpenAI LP entity, which named Khosla Ventures and Reid Hoffman as inaugural outside investors.
 
 [^39]: "OpenAI launches new company for funding safe artificial general intelligence." VentureBeat, March 11, 2019, accessed May 2026. https://venturebeat.com/ai/openai-launches-new-company-for-funding-safe-artificial-general-intelligence — Contemporaneous press confirming Khosla Ventures and Reid Hoffman's charitable organization as initial investors in OpenAI LP, announced March 11, 2019.
+
+[^40]: TechCrunch, "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen," May 12, 2026. Accessed May 2026. https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/ — Exaforce announced a $125M Series B on May 12, 2026 at $725M valuation, with Khosla Ventures among the participants alongside HarbourVest, Peak XV, Mayfield, and Seligman Ventures.

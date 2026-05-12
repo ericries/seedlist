@@ -21537,3 +21537,176 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: vani-kola
+- name: HarbourVest Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: exaforce
+  source: co-investor on Exaforce Series B 2026-05-12
+- name: Umesh Padval
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Seligman Ventures
+  discovered_from: exaforce
+  source: quoted as Managing Partner in Exaforce Series B coverage 2026-05-12
+- name: Ankur Singla
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Exaforce
+  discovered_from: exaforce
+  source: Co-Founder & CEO of Exaforce (Series B 2026-05-12)
+- name: IXC3 (Azimut Group)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: webidoo
+  source: led Webidoo $25M round 2026-05-12
+- name: Azimut Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: webidoo
+  source: parent of IXC3, led Webidoo $25M round 2026-05-12
+- name: 8a+ (Banca Generali)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: webidoo
+  source: participated in Webidoo $25M round 2026-05-12
+- name: TIM Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: webidoo
+  source: participated in Webidoo $25M round 2026-05-12
+- name: Giovanni Farese
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Webidoo
+  discovered_from: webidoo
+  source: CEO of Webidoo ($25M round 2026-05-12)
+- name: Commerce Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greenboard
+  source: participated in Greenboard Series A 2026-05-12
+- name: Transpose Platform
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greenboard
+  source: participated in Greenboard Series A 2026-05-12
+- name: Liquid2 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greenboard
+  source: participated in Greenboard Series A 2026-05-12
+- name: Dave Feldman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Greenboard
+  discovered_from: greenboard
+  source: Co-Founder & CEO of Greenboard (Series A 2026-05-12)
+- name: CCM Capital Markets
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: participated in Havoc $100M Series A 2026-05-12
+- name: Clear Street
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: participated in Havoc $100M Series A 2026-05-12
+- name: Cobalt Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: participated in Havoc $100M Series A 2026-05-12
+- name: Boardman Bay Capital Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: participated in Havoc $100M Series A 2026-05-12; CIO Will Graves quoted
+- name: Mute Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: participated in Havoc $100M Series A 2026-05-12
+- name: Soren Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: participated in Havoc $100M Series A 2026-05-12
+- name: Scout VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: returning investor in Havoc $100M Series A 2026-05-12
+- name: B Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: returning investor in Havoc Series A 2026-05-12
+- name: Taiwania Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: returning investor in Havoc Series A 2026-05-12
+- name: UP.Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: returning investor in Havoc Series A 2026-05-12
+- name: The Veteran Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: havoc
+  source: returning investor in Havoc Series A 2026-05-12
+- name: Paul Lwin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Havoc
+  discovered_from: havoc
+  source: CEO of Havoc (Series A 2026-05-12)
