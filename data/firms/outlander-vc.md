@@ -124,7 +124,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Skyways | Seed | ~2022 | Autonomous cargo drones | [^11][^12] |
 | Tryby AI | Seed | ~2024 | Voice AI agents | [^11] |
 | DiffuseDrive | Seed (co-led) | 2025-05-14 | Generative AI for robotics | [^13][^19] |
-| Catalyx Space | Seed | 2025 | Orbital logistics/space | [^14] |
+| Catalyx Space | Seed (led, $5.4M) | 2025-10-30 | Orbital logistics/space | [^14][^20] |
 | Flock AI | Pre-seed | 2025 | AI visual commerce/fashion | [^15] |
 | Material Hybrid Manufacturing | Seed | 2026 | 3D-printed batteries/energy | [^16] |
 | Flock AI (follow-on) | Seed | 2026 | AI visual commerce/fashion | [^15] |
@@ -185,3 +185,5 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^18]: Retail Technology Innovation Hub, "Lula Commerce: six retail technology funding rounds you need to know about," October 2025, accessed April 2026. https://retailtechinnovationhub.com/home/2025/10/29/including-lula-commerce-and-yaga-six-retail-technology-funding-rounds-you-need-to-know-about
 
 [^19]: BusinessWire, "From Scarcity to Scale: DiffuseDrive Closes $3.5M to Define Physical AI for Automotive, Aerospace, Defense, and Robotics," May 14, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20250514894777/en/From-Scarcity-to-Scale-DiffuseDrive-Closes-$3.5M-to-Define-Physical-AI-for-Automotive-Aerospace-Defense-and-Robotics — $3.5M Seed announced May 14, 2025, co-led by Outlander VC and Presto Tech Horizons; brings total raised to $4.5M (including prior $1M from E2VC). Outlander VC Senior Partner Jordan Kretchmer joined the board.
+
+[^20]: BusinessWire, "Catalyx Space Secures $5.4 Million Seed Round to Build for the Next Era of Orbital Logistics," October 30, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20251030644759/en/Catalyx-Space-Secures-$5.4-Million-Seed-Round-to-Build-for-the-Next-Era-of-Orbital-Logistics — $5.4M Seed announced October 30, 2025 led by Outlander VC (Paige Craig); follow-on to January 2025 $1.7M pre-Seed bringing total to $7.1M. Co-investors: Arka Venture Labs, Lex Reddy, KDX Management, Together Fund, Higher Life Ventures, Nivesha Ventures, Prana Tech Ventures, Bria, HF0 Residency, Techstars. Founded 2024 by Rifath Shaarook.

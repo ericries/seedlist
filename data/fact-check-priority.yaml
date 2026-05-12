@@ -1,17 +1,1 @@
-priority:
-- slug: cathay-innovation
-  type: firm
-  reason: "co-led AMI Seed (2026-03-10) Europe's largest seed at $3.5B"
-  added: 2026-05-12
-- slug: greycroft
-  type: firm
-  reason: "co-led AMI Seed (2026-03-10)"
-  added: 2026-05-12
-- slug: bezos-expeditions
-  type: firm
-  reason: "co-led AMI Seed (2026-03-10) — may need new profile"
-  added: 2026-05-12
-- slug: gradient-ventures
-  type: firm
-  reason: "participated in Enzo Health Series A (2026-05-04)"
-  added: 2026-05-12
+priority: []

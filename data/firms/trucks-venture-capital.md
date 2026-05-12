@@ -99,7 +99,7 @@ Based on 64 companies listed on the Trucks VC portfolio page [^1], with suppleme
 | Bedrock | Seed | ~2024 | Sodium-ion batteries | Active [^1] |
 | Bidirectional Energy | Seed | ~2023 | V2X EV charging | Active [^1] |
 | Bingo Tech | Seed | ~2023 | Battery swapping | Active [^1] |
-| Carvis AI | Seed | 2025 | AI automotive diagnostics | Active [^1][^8] |
+| Carvis AI | Pre-Seed (led, $1.2M) | 2024-11-04 | AI automotive diagnostics | Active [^1][^8][^24] |
 | ChargerHelp! | Seed | ~2020 | EV charger maintenance | Active [^1][^19] |
 | Cling Systems | Seed | 2021 | Battery recycling | Active [^1][^20] |
 | Coord | Seed | ~2018 | Mobility data | Acquired (Google) [^1] |
@@ -143,7 +143,7 @@ Based on 64 companies listed on the Trucks VC portfolio page [^1], with suppleme
 | Terraline | Seed | ~2023 | Autonomous heavy trucks | Active [^1] |
 | Token Transit | Seed | ~2018 | Mobile transit ticketing | Active [^1] |
 | TorqueAGI | Seed | ~2024 | Robot foundation models | Active [^1] |
-| Treehouse | Seed | 2025 | EV charger installation | Active [^1][^8] |
+| Treehouse | Seed (co-led, $10M) | 2023-08-09 | EV charger installation | Active [^1][^8][^25] |
 | TurnSignl | Seed | ~2021 | Legal services for drivers | Active [^1] |
 | Universal Hydrogen | Seed | 2020 | Hydrogen aviation | Active [^1][^20] |
 | Veecle | Seed | ~2023 | Software-defined vehicles | Active [^1] |
@@ -204,3 +204,7 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^22]: University of Michigan Innovation Partnerships, "May Mobility raises $11.5M in seed funding," accessed March 2026. https://innovationpartnerships.umich.edu/stories/may-mobility-raises-11-5m-in-seed-funding-to-accelerate-deployment-of-self-driving-shuttle-fleets/
 
 [^23]: TechCrunch, "Auriga Space raises $6M to shoot rockets off an electromagnetic launch track," July 15, 2025. Accessed May 2026. https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/ — Confirms $4.6M Seed round closed early 2025, announced publicly July 15, 2025; led by OTB Ventures with Trucks Venture Capital and Seraphim Space participating. Plus $1.4M AFWERX/SpaceWERX contracts.
+
+[^24]: Carvis LinkedIn announcement, "Carvis has secured $1.2M in pre-seed funding," November 4, 2024. Accessed May 2026. https://www.linkedin.com/posts/carvis_carvis-has-secured-12m-in-pre-seed-funding-activity-7259308083158409218-41QF — Confirms $1.2M pre-Seed round led by Trucks Venture Capital with participation from Michigan Rise (Tommy Skinner), Invest Detroit (Lee Rawlings), Newlab (Garrett Winther), and angels Dug Song, Qasar Younis, and Robin O.
+
+[^25]: PR Newswire, "Treehouse Secures $10M to Bring EV Chargers Into Homes," August 9, 2023. Accessed May 2026. https://www.prnewswire.com/news-releases/treehouse-secures-10m-to-bring-ev-chargers-into-homes-301897035.html — Confirms $10M Seed round announced August 9, 2023, co-led by Montage Ventures and Trucks Venture Capital with CarMax, Assurant Ventures, Acrew Capital, Gutter Capital, Detroit Venture Partners, Holman, and Automotive Ventures participating.
