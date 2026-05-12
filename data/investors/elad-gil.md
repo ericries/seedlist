@@ -142,7 +142,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Braintrust | 2024-10-08 | Series A ($36M, participated; led by a16z/Martin Casado at $150M post-money) | [^1][^2][^34][^35][^36] |
 | Decagon | 2024-06-18 | Series A ($30M, participated; $5M Seed + $30M Series A combined raise) | [^14][^31][^32][^33] |
 | RunSybil | 2026-03-18 | Series A ($40M, participated; led by Khosla Ventures) | [^23] |
-| Atlas Card | 2026 | Series C (co-led) | [^30] |
+| Atlas Card | 2026-04-14 | Series C ($40M, co-led at $420M valuation; co-led with Verified Capital; 01 Advisors and Marathon Management Partners participated) | [^30][^39][^40] |
 | Frame Security | 2026-05-11 | Stealth-exit ($50M, participated; co-led by Index Ventures, Team8, Picture Capital) | [^37][^38] |
 
 *Note: Many investment years are approximate, based on company founding dates or general reporting. Gil's blog states he has invested in over 200 companies with approximately 40 valued at $1B+ each [^1][^3]. This table represents approximately 20% of his reported total investments. Specific round details are unavailable for many early angel investments. Years marked with "~" indicate estimates based on company founding year or earliest known funding round.*
@@ -286,3 +286,7 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^37]: SecurityWeek, "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform," May 11, 2026. Accessed May 2026. https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/ — Confirms $50M stealth-exit funding co-led by Index Ventures, Team8, and Picture Capital with Cerca Partners, Tesonet, Assaf Rappaport, and Elad Gil participating.
 
 [^38]: SiliconANGLE, "With $50M in funding, Frame Security takes aim at AI-powered social engineering," May 11, 2026. Accessed May 2026. https://siliconangle.com/2026/05/11/50m-funding-frame-security-takes-aim-ai-powered-social-engineering/
+
+[^39]: Axios Pro Rata Premium, "First Look," April 14, 2026. Accessed May 2026. https://www.axios.com/pro/all-deals/2026/04/14/pro-rata-premium-first-look — Confirms Atlas Card's $40M Series C round co-led by Elad Gil and Verified Capital, with 01 Advisors and existing investor Marathon Management Partners participating; $420M post-money valuation.
+
+[^40]: @ArfurRock on X, "Closed $40M at $420M led by Elad Gil. Great product, congrats @atlascardhq!" April 2026. Accessed May 2026. https://x.com/ArfurRock/status/2041642548083519809 — Independent confirmation of $40M raise at $420M valuation led by Elad Gil.

@@ -76,7 +76,7 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Clover Security | Series A | 2025 | Cybersecurity | Active | [^5] |
+| Clover Security | Series A ($30M; led by Notable Capital; Team8, SVCI, and Rappaport participated as angel; $36M total with Seed) | 2025-11-25 | Cybersecurity | Active | [^5][^20][^21] |
 | Daylight | Series A | 2025 | Enterprise | Active | [^4] |
 | Atero | Seed | 2024 | AI infrastructure | Exited (Crusoe, Aug 2025) | [^10] |
 | Twine Security | Seed | 2024 | Cybersecurity | Active | [^7] |
@@ -85,7 +85,7 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 | Eureka | Seed | 2022-01-12 | Cybersecurity | Exited | [^14] |
 | Atmosec | Seed | 2021-12-15 | Cybersecurity | Exited | [^15] |
 | Talon Cyber Security | Seed | 2021-04 | Cybersecurity | Exited (Palo Alto Networks, Nov 2023) | [^4] |
-| Spirit | Seed | 2026 | Cybersecurity | Active | [^6] |
+| Spirit | Seed ($50M at $400M val; co-led by Cyberstarts and Sequoia Capital; Rappaport participated as angel) | 2026-01-06 | Cybersecurity | Active | [^6][^18][^19] |
 | Frame Security | Stealth-exit ($50M) | 2026-05-11 | Cybersecurity / Human Risk | Active | [^16][^17] |
 
 ## In Their Own Words
@@ -127,3 +127,11 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^15]: TechCrunch, "More funding for Israel's SaaS security startups as Atmosec raises $6 million seed round," December 15, 2021. https://techcrunch.com/2021/12/15/more-funding-for-israels-saas-security-startups-as-atmosec-raises-6-million-seed-round/
 [^16]: SecurityWeek, "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform," May 11, 2026. Accessed May 2026. https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/ — Confirms $50M stealth-exit funding co-led by Index Ventures, Team8, and Picture Capital with Cerca Partners, Tesonet, Assaf Rappaport, and Elad Gil participating.
 [^17]: SiliconANGLE, "With $50M in funding, Frame Security takes aim at AI-powered social engineering," May 11, 2026. Accessed May 2026. https://siliconangle.com/2026/05/11/50m-funding-frame-security-takes-aim-ai-powered-social-engineering/
+
+[^18]: CTech on X, "#Exclusive: Just three months after launch, cyber startup Spirit valued at $400M in $50M raise. Cyberstarts and Sequoia Capital are leading the round, joined by angel investors including Assaf Rappaport of Wiz, Yotam Segev of Cyera, and Yevgeny Dibrov," January 6, 2026. Accessed May 2026. https://x.com/Calcalistech/status/2008438236952113184 — Independent confirmation of Spirit's $50M Seed round on January 6, 2026 at $400M valuation, co-led by Cyberstarts and Sequoia Capital, with Rappaport participating as angel.
+
+[^19]: Marc Schulman Substack, "January 6, 2026: Israel and Syria Talk in Paris; Two Israeli Unicorns Near Sale," January 6, 2026. Accessed May 2026. https://marcschulman.substack.com/p/january-6-2026-israel-and-syria-talk — Independent dated confirmation of Spirit's funding round announcement on January 6, 2026.
+
+[^20]: Axios, "Clover Security lands $36M for AI security agents from Notable, Wiz, Team8," November 25, 2025. Accessed May 2026. https://www.axios.com/2025/11/25/clover-security-funding-wiz-crowdstrike-notable-capital — Confirms Clover Security's $30M Series A on November 25, 2025 led by Notable Capital with Team8 and SVCI participating; $36M total includes prior Seed funding. Angel investors include Assaf Rappaport and Yinon Costica (Wiz), Shlomo Kramer (Cato Networks), and senior executives from Snyk, CrowdStrike, Palo Alto Networks, Atlassian, and Google.
+
+[^21]: SecurityWeek, "Clover Security Raises $36 Million to Secure Software by Design," November 26, 2025. Accessed May 2026. https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/ — Independent confirmation of Clover Security's $36M combined Seed + Series A financing with Notable Capital, Team8, and SVCI as the primary backers.
