@@ -21050,3 +21050,63 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: cal-henderson
+- name: Ashish Kacholia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wingreens-farms
+- name: Alchemy Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wingreens-farms
+- name: imec.xpand
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyeo
+- name: Invest-NL Deep Tech Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyeo
+- name: QBIC Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyeo
+- name: High-Tech Gründerfonds
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyeo
+- name: Brabant Development Agency
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eyeo
+- name: IAN Alpha Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigendian-semiconductors
+- name: Vertex Ventures SEA and India
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigendian-semiconductors
+- name: IvyCap Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bigendian-semiconductors
