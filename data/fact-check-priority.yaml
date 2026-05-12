@@ -1,13 +1,5 @@
 priority:
-- slug: index-ventures
-  type: firm
-  reason: "co-led Frame Security $50M stealth-exit (2026-05-11)"
-  added: 2026-05-12
-- slug: betaworks
-  type: firm
-  reason: "participated in Dessn Seed (2026-05-12)"
-  added: 2026-05-12
 - slug: heal-capital
   type: firm
-  reason: "led Ditto Care Seed (2026-05-12)"
+  reason: "led Ditto Care Seed (2026-05-12) — no profile yet, needs creating"
   added: 2026-05-12

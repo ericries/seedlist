@@ -59,14 +59,14 @@ This table is a curated, source-cited slice of Betaworks' total activity. The fi
 | Chartbeat (built) | Studio | 2009 | John Borthwick | Media analytics | Active [^1] |
 | Tumblr | Series A | 2007 | John Borthwick (as angel) | Social/blogging | Acq. Yahoo 2013 ($1.1B) [^12] |
 | Twitter | Early | pre-IPO | (firm investment) | Social | Public 2013 [^1] |
-~unknown| Kickstarter | Early | early | (firm investment) | Crowdfunding | Active [^2][^6] |
+| Kickstarter | Early | ~2009 | (firm investment) | Crowdfunding | Active [^2][^6][^16] |
 | Tweetdeck (built) | Studio | ~2008 | John Borthwick | Twitter client | Acq. Twitter 2011 [^1] |
 | SocialFlow (built) | Studio | ~2009 | John Borthwick | Social distribution | Active [^1] |
 | Giphy (built) | Studio | 2013 | John Borthwick | GIF search | Acq. Meta 2020 (~$400M) [^1][^2] |
 | Dots (built) | Studio | 2013 | John Borthwick | Mobile gaming | Acq. Take-Two [^1][^2] |
 | Digg | Acquired | 2012 | John Borthwick | News aggregation | Folded into News.me; later sold [^1] |
 | Instapaper | Acquired | 2013 | | Read-later | Sold to Pinterest 2016 [^1] |
-~unknown| Medium | Early | early | | Publishing | Active [^2][^6] |
+| Medium | Early | ~2012 | | Publishing | Active [^2][^6] |
 | Gimlet Media | Seed | 2014 | | Podcasting | Acq. Spotify Feb 2019 [^7] |
 | Anchor | Seed | 2015 | | Podcasting | Acq. Spotify Feb 2019 (combined w/ Gimlet ~$340M) [^7] |
 | Hugging Face | Lead angel ($1.2M) | 2017-03 | John Borthwick | Open-source AI/ML | Active; Series C 2022 [^8][^13] |
@@ -116,3 +116,5 @@ Independently sourced founder testimonials specifically about Betaworks the firm
 [^13]: Betaworks team page (listing partners and roles), accessed May 2026. https://www.betaworks.com/team
 [^14]: "Granola in a $4.25M pre-seed investment round from Lightspeed Ventures," Nordic 9, accessed May 2026. https://nordic9.com/news/granola-in-a-425m-pre-seed-investment-round-from-lightspeed-ventures/
 [^15]: "VCs love using the AI meeting notepad Granola, so they gave it $20M," TechCrunch, October 23, 2024, accessed May 2026. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/
+
+[^16]: Union Square Ventures, "Kickstarter," March 17, 2011 (USV's post-quiet-period disclosure of its Kickstarter investment). Accessed May 2026. https://www.usv.com/writing/2011/03/kickstarter/ — USV met Kickstarter's founding team in fall 2009 and made its investment in late 2009; AllThingsD reports Betaworks was a co-investor in the seed round alongside Union Square Ventures and angels Jack Dorsey, Zach Klein, and Caterina Fake. Cross-referenced with AllThingsD, "Kickstarter Discloses Funding From Union Square, Betaworks, Angels," March 17, 2011. https://allthingsd.com/20110317/kickstarter-fesses-up-the-crowd-sourced-funding-startup-has-funding-too/

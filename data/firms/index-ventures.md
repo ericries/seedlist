@@ -140,7 +140,8 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Personio | Series B | 2019 | HR/Enterprise | [^35] |
 | Trainline (Captain Train) | Seed | 2012 | Travel | [^36] |
 | Granola | Series C (led, $125M, $1.5B val) | 2026-03-25 | AI/Enterprise | [^13][^38][^39][^40] |
-| Ineffable Intelligence | Seed | 2026 | AI / Foundation Models | [^37] |
+| Ineffable Intelligence | Seed (participated) | 2026-04-27 | AI / Foundation Models | [^37] |
+| Adfin | Series A (led) | 2026-05-12 | Fintech / AI Agents / SME | [^46][^47] |
 | Cowboy Space Corporation | Series B (led, $275M at $2B val) | 2026-05-11 | Space Tech/AI Infrastructure | [^41][^42][^43] |
 | Frame Security | Stealth-exit ($50M, co-led) | 2026-05-11 | Cybersecurity / Human Risk | [^44][^45] |
 | Adfin | Series A (led, $18M / €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
@@ -222,3 +223,4 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^46]: Tech Funding News, "Index Ventures leads $18M round in UK fintech Adfin to help SMEs get paid faster," May 12, 2026. Accessed May 2026. https://techfundingnews.com/index-ventures-leads-18m-round-in-uk-fintech-adfin-to-help-smes-get-paid-faster/ — Confirms $18M Series A led by Index Ventures with Visionaries Club, Stéphane Kurgan, Andrey Khusid; total funding to $30M in under two years.
 
 [^47]: EU-Startups, "Index Ventures backed-Adfin raises €15.3 million to help businesses automate revenue collection with AI," May 12, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/
+
