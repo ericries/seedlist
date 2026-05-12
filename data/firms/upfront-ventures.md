@@ -137,7 +137,7 @@ This table represents approximately 17% of the firm's 200+ known investments.
 | Jiko | Series A | 2017 | Fintech / banking | [^34] |
 | Bland AI | Seed | 2023 | AI / conversational AI | [^34] |
 | Route | Seed | 2019 | E-commerce / logistics | [^34] |
-| Apex | Series B | 2024 | Aerospace / space | [^34] |
+| Apex | Series B (participated) | 2024-06-12 | Aerospace / space | [^34][^37] |
 | Nanit | Growth | 2025 | Baby monitoring / healthtech | [^27] |
 | Brightland | Seed | 2018 | Consumer goods / DTC | [^34] |
 | Keragon | Seed | 2025 | Healthcare / automation | [^34] |
@@ -210,3 +210,5 @@ No additional independently sourced founder testimonials found beyond the Dayton
 [^34]: Upfront Ventures portfolio, Premier Alternatives, accessed April 2026. https://www.premieralts.com/investors/upfront-ventures/portfolio
 [^35]: "Reveleer Raises Capital to Fund Next Generation AI Platform," GlobeNewsWire, January 21, 2020. https://www.globenewswire.com/fr/news-release/2020/01/21/1973160/0/en/Reveleer-Raises-Capital-to-Fund-Next-Generation-AI-Platform-to-Improve-Payer-Population-Health-Compliance.html
 [^36]: Podcast transcript: Mark Suster, Upfront Ventures, on Venture Unlocked with Samir Kaji. https://sajithpai.com/podcast-transcript-mark-suster-upfront-ventures-on-venture-unlocked-w-samir-kaji/
+
+[^37]: PR Newswire, "Apex Raises $95M in Series B Funding to Increase Productized Satellite Bus Manufacturing," June 12, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/apex-raises-95m-in-series-b-funding-to-increase-productized-satellite-bus-manufacturing-302170161.html — $95M Series B announced June 12, 2024, led by XYZ Venture Capital and co-led by CRV. Upfront Ventures participated as a new investor alongside 8VC, Toyota Ventures, Point72 Ventures, Mirae Asset Capital, Outsiders Fund, GSBackers; existing investors a16z, Shield Capital, J2 Ventures, and Ravelin continued.

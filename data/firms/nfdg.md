@@ -59,7 +59,7 @@ Based on NFDG's verified portfolio data:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Safe Superintelligence (SSI) | Seed/Series A | 2024 | AI Research | Private ($32B valuation) [^1][^5] |
+| Safe Superintelligence (SSI) | Series A ($1B, co-led) | 2024-09-04 | AI Research | Private ($32B valuation) [^1][^5][^7] |
 | Perplexity AI | Early | ~2023 | AI Search | Private ($20B valuation) [^1][^5] |
 | Character.AI | Growth | ~2023 | AI Consumer | Private [^1][^5] |
 | ElevenLabs | Early | ~2023 | AI Audio | Private [^5] |
@@ -96,3 +96,4 @@ No independently sourced founder testimonials found.
 [^4]: CNBC, "Meta tried to buy Ilya Sutskever's $32 billion AI startup, but is now planning to hire its CEO," June 19, 2025. https://www.cnbc.com/2025/06/19/meta-tried-to-buy-safe-superintelligence-hired-ceo-daniel-gross.html
 [^5]: DigiDAI, "Daniel Gross: AI Pioneer Fund & Meta," November 28, 2025. https://digidai.github.io/2025/11/28/daniel-gross-ai-pioneer-fund-jerusalem-to-meta-superintelligence-deep-analysis/
 [^6]: AI Grant website, accessed March 2026. https://aigrant.org/
+[^7]: TechCrunch, "Ilya Sutskever's startup, Safe Superintelligence, raises $1B," September 4, 2024. Accessed May 2026. https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/ — Confirms SSI's $1B Series A announced September 4, 2024 at $5B valuation; investors named: NFDG, Andreessen Horowitz, Sequoia Capital, DST Global, and SV Angel. Cross-referenced with Axios, "Former OpenAI Chief Scientist Ilya Sutskever raises $1 billion for Safe Superintelligence," September 5, 2024. https://www.axios.com/2024/09/05/ilya-sutskevers-ai-startup-raise

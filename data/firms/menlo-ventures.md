@@ -116,7 +116,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Grow Therapy | Series D (participated) | 2026-03-03 | Healthcare/Mental Health | Private [^9][^14][^15] |
 | Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | Private [^10][^16][^17] |
 | Qualified Health | Series B (participated, Anthology Fund) | 2026-03-25 | Healthcare/AI | Private [^11][^18] |
-| Manifest OS | Series A | 2026 | LegalTech / AI | Private [^12] |
+| Manifest OS | Series A (led, $60M at $750M val) | 2026-04-28 | LegalTech / AI | Private [^12][^19] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Private [^13] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
@@ -150,3 +150,5 @@ No independently sourced founder testimonials found.
 [^16]: Legora newsroom, "Legora raises $550 million Series D to fuel US growth," March 10, 2026, accessed May 2026. https://legora.com/newsroom/legora-raises-550-million-series-d-to-fuel-us-growth
 [^17]: Crunchbase News, "Swedish Legal Tech Startup Legora Triples Valuation To $5.55B With $550M Series D Led By Accel," March 10, 2026, accessed May 2026. https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 [^18]: The SaaS News, "Qualified Health Secures $125M in Series B," March 26, 2026, accessed May 2026. https://www.thesaasnews.com/news/qualified-health-secures-125m-in-series-b
+
+[^19]: BusinessWire, "Manifest OS Raises $60M to Scale the World's First AI-Native Law Firm Model," April 28, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model — $60M Series A announced April 28, 2026 at $750M valuation; led by Menlo Ventures with Kleiner Perkins, First Round Capital, and Quiet Capital participating. Largest Series A in legal tech history. Cross-referenced with Menlo Ventures, "Manifest OS: AI-Powered Legal Services for Every Business," April 28, 2026. https://menlovc.com/perspective/manifest-os-ai-powered-legal-services-for-every-business/
