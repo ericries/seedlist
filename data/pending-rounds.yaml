@@ -125,6 +125,27 @@ pending_rounds:
   processed: '2026-05-12'
   slug: ditto-care
   notes: covered by ditto-care.md (€7.6M Seed 2026-05-12 led by Heal Capital)
+- title: Dessn raises $6M for its production focused design tool
+  url: https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/
+  source: techcrunch
+  date_found: '2026-05-12'
+  parsed_company: Dessn
+  parsed_amount: $6M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-12'
+  slug: dessn
+  notes: already shipped 2026-05-12 as dessn.md (€5M / $6M Seed Connect Ventures-led)
+- title: European AI Funding Is Growing. Will That Boost The Region’s Startup Scene?
+  url: https://news.crunchbase.com/venture/european-ai-funding-startups-recursive-ineffable-advanced-machine-intelligence/
+  source: crunchbase
+  date_found: '2026-05-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-12'
+  notes: trend article; created advanced-machine-intelligence.md ($1.03B Seed 2026-03-10 Bezos Expeditions/Cathay/Greycroft/Hiro/HV co-led at $3.5B). Recursive Superintelligence and Ineffable Intelligence already covered.
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
     in food within hours
   url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
@@ -1004,21 +1025,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: PE fund close
-- title: THL Partners of Boston raised $6.35B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: THL Partners of Boston
-  parsed_amount: $6.35B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE fund close
-- title: of Boston raised $6.35B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: of Boston
-  parsed_amount: $6.35B
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact
