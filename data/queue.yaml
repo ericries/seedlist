@@ -21238,3 +21238,104 @@ queue:
   firm: Index Ventures
   discovered_from: adfin
   source: Partner at Index Ventures; led Adfin seed and Series A deals
+- name: Avaana Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mekr
+  source: led Mekr Series A (Rs 67 Cr, 2026-05-12)
+- name: Norrsken Evolve
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tolemy-bio
+  source: led Tolemy Bio Pre-Seed (€1.4M, 2026-05-12); €57M impact pre-seed fund
+- name: Big Sur Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tolemy-bio
+  source: participated in Tolemy Bio Pre-Seed (2026-05-12)
+- name: JME Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tolemy-bio
+  source: participated in Tolemy Bio Pre-Seed (2026-05-12)
+- name: Cool Japan Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: konvy
+  source: led Konvy Series B ($22M, 2026-05-12); Japan sovereign fund backing SEA
+    expansion
+- name: Insignia Ventures Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: konvy
+  source: participated in Konvy Series B (2026-05-12); SE Asia-focused early-stage
+    VC
+- name: Denis Shilov
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: White Circle
+  discovered_from: white-circle
+  source: Co-Founder of White Circle; raised $11M Seed (2026-05-12)
+- name: Durk Kingma
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Anthropic (formerly OpenAI cofounder)
+  discovered_from: white-circle
+  source: angel investor in White Circle Seed (2026-05-12); OpenAI cofounder, now
+    Anthropic
+- name: Guillaume Lample
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mistral (Cofounder & Chief Scientist)
+  discovered_from: white-circle
+  source: angel investor in White Circle Seed (2026-05-12); Mistral cofounder
+- name: Ophelia Cai
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tiny VC
+  discovered_from: white-circle
+  source: Partner at Tiny VC; participated in White Circle Seed (2026-05-12)
+- name: Qinggui Huang
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Konvy
+  discovered_from: konvy
+  source: Group CEO & Co-Founder Konvy; raised $22M Series B (2026-05-12)
+- name: Anand Yadav
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Mekr
+  discovered_from: mekr
+  source: Co-Founder Mekr; raised Rs 67 Cr Series A (2026-05-12)
+- name: Alex Ward
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Tolemy Bio
+  discovered_from: tolemy-bio
+  source: Co-Founder Tolemy Bio; raised €1.4M Pre-Seed (2026-05-12)
