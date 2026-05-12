@@ -185,7 +185,8 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed: '2026-05-12'
-  notes: daily aggregator; created 4am.md ($4M+ Seed 2026-05-11 CAVU Consumer Partners-led, NYC skincare). Skipped Exponent $7.7M (no primary press beyond AlleyWatch summary).
+  notes: daily aggregator; created 4am.md ($4M+ Seed 2026-05-11 CAVU Consumer Partners-led,
+    NYC skincare). Skipped Exponent $7.7M (no primary press beyond AlleyWatch summary).
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
     in food within hours
   url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
