@@ -145,7 +145,27 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed: '2026-05-12'
-  notes: trend article; created advanced-machine-intelligence.md ($1.03B Seed 2026-03-10 Bezos Expeditions/Cathay/Greycroft/Hiro/HV co-led at $3.5B). Recursive Superintelligence and Ineffable Intelligence already covered.
+  notes: trend article; created advanced-machine-intelligence.md ($1.03B Seed 2026-03-10
+    Bezos Expeditions/Cathay/Greycroft/Hiro/HV co-led at $3.5B). Recursive Superintelligence
+    and Ineffable Intelligence already covered.
+- title: Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks
+    as they happen
+  url: https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/
+  source: techcrunch
+  date_found: '2026-05-12'
+  parsed_company: Exaforce
+  parsed_amount: $125M
+  parsed_round: Series B
+  status: pending
+- title: Italian AI company Webidoo secures €21 million to scale SMB-focused automation
+    platform
+  url: https://www.eu-startups.com/2026/05/italian-ai-company-webidoo-secures-e21-million-to-scale-smb-focused-automation-platform/
+  source: eu-startups
+  date_found: '2026-05-12'
+  parsed_company: Italian AI company Webidoo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
     in food within hours
   url: https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/
@@ -1007,21 +1027,3 @@ pending_rounds:
   status: skipped
   skip_reason: VC fund close (Yaron Elad + Elik Etzion launched $100M cyber/AI fund),
     not startup round
-- title: Audax Private Debt raised $1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Audax Private Debt
-  parsed_amount: $1B
-  parsed_round: null
-  status: skipped
-  skip_reason: PE/credit fund close
-- title: Bridge Growth Partners raised $790M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Bridge Growth Partners
-  parsed_amount: $790M
-  parsed_round: null
-  status: skipped
-  skip_reason: PE fund close
