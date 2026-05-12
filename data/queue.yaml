@@ -21110,3 +21110,131 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: bigendian-semiconductors
+- name: Team8
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: frame-security
+  source: co-led Frame Security $50M stealth-exit (2026-05-11); Israeli venture group
+    / company-building studio
+- name: Picture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: frame-security
+  source: co-led Frame Security $50M stealth-exit (2026-05-11)
+- name: Cerca Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: frame-security
+  source: participant in Frame Security $50M stealth-exit (2026-05-11)
+- name: Tesonet
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: frame-security
+  source: participant in Frame Security $50M stealth-exit (2026-05-11)
+- name: Tal Shlomo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Frame Security
+  discovered_from: frame-security
+  source: Co-Founder & CEO of Frame Security; early Wiz employee
+- name: Sharon Shmueli
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Frame Security
+  discovered_from: frame-security
+  source: Co-Founder & CTO of Frame Security; former CTO of Team8
+- name: Syndicate One
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: holmes
+  source: led Holmes €1.1M Pre-Seed (2026-05-12); Belgian early-stage syndicate
+- name: Roeland Delrue
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aikido
+  discovered_from: holmes
+  source: Aikido co-founder; angel in Holmes €1.1M Pre-Seed (2026-05-12)
+- name: Willem Delbare
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aikido
+  discovered_from: holmes
+  source: Aikido co-founder; angel in Holmes €1.1M Pre-Seed (2026-05-12)
+- name: Louis Jonckheere
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Showpad
+  discovered_from: holmes
+  source: Showpad co-founder; angel in Holmes €1.1M Pre-Seed (2026-05-12)
+- name: NewSchool
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: holmes
+  source: participant in Holmes €1.1M Pre-Seed (2026-05-12); Belgian fund
+- name: RDY
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: holmes
+  source: participant in Holmes €1.1M Pre-Seed (2026-05-12)
+- name: 100IN
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: holmes
+  source: participant in Holmes €1.1M Pre-Seed (2026-05-12)
+- name: Visionaries Club
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adfin
+  source: co-led Adfin €8M seed (Feb 2025); participated Adfin $18M Series A (2026-05-12)
+- name: Stéphane Kurgan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Index Ventures
+  discovered_from: adfin
+  source: former COO of King; angel in Adfin $18M Series A (2026-05-12)
+- name: Andrey Khusid
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Miro
+  discovered_from: adfin
+  source: founder of Miro; angel in Adfin $18M Series A (2026-05-12)
+- name: Julia André
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Index Ventures
+  discovered_from: adfin
+  source: Partner at Index Ventures; led Adfin seed and Series A deals

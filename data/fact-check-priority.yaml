@@ -1,1 +1,13 @@
-priority: []
+priority:
+- slug: index-ventures
+  type: firm
+  reason: "co-led Frame Security $50M stealth-exit (2026-05-11)"
+  added: 2026-05-12
+- slug: elad-gil
+  type: investor
+  reason: "participated in Frame Security $50M stealth-exit (2026-05-11)"
+  added: 2026-05-12
+- slug: assaf-rappaport
+  type: investor
+  reason: "participated in Frame Security $50M stealth-exit (2026-05-11)"
+  added: 2026-05-12

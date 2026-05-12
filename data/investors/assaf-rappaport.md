@@ -3,9 +3,9 @@ check_size: $5K-$50K
 firm: wiz
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Spirit
-  date: ~2026
-  round: Seed
+  company: Frame Security
+  date: 2026-05-11
+  round: Stealth-exit funding ($50M)
 location: Tel Aviv, Israel / New York, NY
 name: Assaf Rappaport
 role: Co-Founder & CEO
@@ -86,6 +86,7 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 | Atmosec | Seed | 2021-12-15 | Cybersecurity | Exited | [^15] |
 | Talon Cyber Security | Seed | 2021-04 | Cybersecurity | Exited (Palo Alto Networks, Nov 2023) | [^4] |
 | Spirit | Seed | 2026 | Cybersecurity | Active | [^6] |
+| Frame Security | Stealth-exit ($50M) | 2026-05-11 | Cybersecurity / Human Risk | Active | [^16][^17] |
 
 ## In Their Own Words
 
@@ -124,3 +125,5 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^13]: Calcalist Tech, "Demostack raises $13.3 million in round led by Bessemer Ventures," March 9, 2021. https://www.calcalistech.com/ctech/articles/0,7340,L-3897770,00.html
 [^14]: Calcalist Tech, "Eureka raises $8 million in Seed for security in expanding cloud data use," January 12, 2022. https://www.calcalistech.com/ctech/articles/0,7340,L-3927062,00.html
 [^15]: TechCrunch, "More funding for Israel's SaaS security startups as Atmosec raises $6 million seed round," December 15, 2021. https://techcrunch.com/2021/12/15/more-funding-for-israels-saas-security-startups-as-atmosec-raises-6-million-seed-round/
+[^16]: SecurityWeek, "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform," May 11, 2026. Accessed May 2026. https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/ — Confirms $50M stealth-exit funding co-led by Index Ventures, Team8, and Picture Capital with Cerca Partners, Tesonet, Assaf Rappaport, and Elad Gil participating.
+[^17]: SiliconANGLE, "With $50M in funding, Frame Security takes aim at AI-powered social engineering," May 11, 2026. Accessed May 2026. https://siliconangle.com/2026/05/11/50m-funding-frame-security-takes-aim-ai-powered-social-engineering/

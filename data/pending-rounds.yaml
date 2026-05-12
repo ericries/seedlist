@@ -28,7 +28,12 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Pre-Seed
-  status: pending
+  status: processed
+  processed: '2026-05-12'
+  slug: holmes
+  notes: created holmes.md (€1.1M Pre-Seed 2026-05-12 led by Syndicate One with Aikido
+    founders Roeland Delrue + Willem Delbare, Showpad's Louis Jonckheere, Thomas Van
+    Overbeke, NewSchool, RDY, 100IN)
 - title: Grand Games raised $70M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -36,7 +41,8 @@ pending_rounds:
   parsed_company: Grand Games
   parsed_amount: $70M
   parsed_round: Series B
-  status: pending
+  status: skipped
+  skip_reason: already shipped 2026-05-11 as grand-games.md
 - title: Frame Security raised $50M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -44,7 +50,12 @@ pending_rounds:
   parsed_company: Frame Security
   parsed_amount: $50M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-12'
+  slug: frame-security
+  notes: created frame-security.md ($50M stealth-exit 2026-05-11 co-led by Index Ventures,
+    Team8, Picture Capital with Cerca Partners, Tesonet, Assaf Rappaport, Elad Gil);
+    updated index-ventures.md, elad-gil.md, assaf-rappaport.md portfolios
 - title: Fifth Dimension raised $26M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -52,7 +63,9 @@ pending_rounds:
   parsed_company: Fifth Dimension
   parsed_amount: $26M
   parsed_round: Series A
-  status: pending
+  status: skipped
+  skip_reason: already shipped 2026-05-11 as fifth-dimension-ai.md (with original
+    €22M figure; Axios used $26M USD conversion)
 - title: Compass Gas e Energia raised $650M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -60,13 +73,49 @@ pending_rounds:
   parsed_company: Compass Gas e Energia
   parsed_amount: $650M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: Brazilian natural gas distributor (Cosan subsidiary) $650M IPO on B3,
+    not a startup VC round
 - title: Skinos Ventures raised $26M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
   date_found: '2026-05-12'
   parsed_company: Skinos Ventures
   parsed_amount: $26M
+  parsed_round: null
+  status: skipped
+  skip_reason: new cybersecurity VC fund formed by Shlomo Kramer + Yishay Yovel
+    (already backed Spectrum Security $19M seed), not a startup round
+- title: Index Ventures backed-Adfin raises €15.3 million to help businesses automate
+    revenue collection with AI
+  url: https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/
+  source: eu-startups
+  date_found: '2026-05-12'
+  parsed_company: Index Ventures backed-Adfin
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-12'
+  slug: adfin
+  notes: covered by adfin.md (€15.3M / $18M Series A 2026-05-12 led by Index Ventures
+    with Visionaries Club, Stéphane Kurgan, Andrey Khusid); updated index-ventures.md
+    portfolio
+- title: London’s Dessn raises €5 million to help product teams design and prototype
+    inside real codebases
+  url: https://www.eu-startups.com/2026/05/londons-dessn-raises-e5-million-to-help-product-teams-design-and-prototype-inside-real-codebases/
+  source: eu-startups
+  date_found: '2026-05-12'
+  parsed_company: London’s Dessn
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Rotterdam’s Ditto raises €7.6 million to make “what did the doctor say?”
+    easier to answer
+  url: https://www.eu-startups.com/2026/05/rotterdams-ditto-raises-e7-6-million-to-make-what-did-the-doctor-say-easier-to-answer/
+  source: eu-startups
+  date_found: '2026-05-12'
+  parsed_company: Rotterdam’s Ditto
+  parsed_amount: null
   parsed_round: null
   status: pending
 - title: Würzburg-based NanoStruct raises €2.6 million to detect harmful bacteria
@@ -966,30 +1015,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact
-- title: u003e of Boston raised $6.35B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: u003e of Boston
-  parsed_amount: $6.35B
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact (HTML entity)
-- title: As crypto cools, a16z crypto raises a $2.2B fund
-  url: https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/
-  source: techcrunch
-  date_found: '2026-05-05'
-  parsed_company: As crypto cools, a16z crypto
-  parsed_amount: $2.2B
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund close (a16z crypto), not a startup round
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/5/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-5-2026/
-  source: alleywatch
-  date_found: '2026-05-05'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: aggregator; rounds covered separately (bathhouse, mother-tech, instaswitch)

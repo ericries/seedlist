@@ -142,6 +142,8 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Granola | Series C (led, $125M, $1.5B val) | 2026-03-25 | AI/Enterprise | [^13][^38][^39][^40] |
 | Ineffable Intelligence | Seed | 2026 | AI / Foundation Models | [^37] |
 | Cowboy Space Corporation | Series B (led, $275M at $2B val) | 2026-05-11 | Space Tech/AI Infrastructure | [^41][^42][^43] |
+| Frame Security | Stealth-exit ($50M, co-led) | 2026-05-11 | Cybersecurity / Human Risk | [^44][^45] |
+| Adfin | Series A (led, $18M / €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -212,3 +214,11 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^42]: TechCrunch, "There aren't enough rockets for space data centers — Cowboy Space raised $275M to build them," May 11, 2026. Accessed May 2026. https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/
 
 [^43]: Bloomberg, "Cowboy Space Raises $275 Million to Build Data Centers in Orbit," May 11, 2026. Accessed May 2026. https://www.bloomberg.com/news/articles/2026-05-11/robinhood-billionaire-bhatt-s-cowboy-space-raises-275-million — Third independent source confirming $275M Series B led by Index Ventures, founded by Baiju Bhatt (Robinhood co-founder), at a $2B valuation.
+
+[^44]: SecurityWeek, "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform," May 11, 2026. Accessed May 2026. https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/ — Confirms $50M stealth-exit funding co-led by Index Ventures, Team8, and Picture Capital with Cerca Partners, Tesonet, Assaf Rappaport, and Elad Gil participating.
+
+[^45]: SiliconANGLE, "With $50M in funding, Frame Security takes aim at AI-powered social engineering," May 11, 2026. Accessed May 2026. https://siliconangle.com/2026/05/11/50m-funding-frame-security-takes-aim-ai-powered-social-engineering/
+
+[^46]: Tech Funding News, "Index Ventures leads $18M round in UK fintech Adfin to help SMEs get paid faster," May 12, 2026. Accessed May 2026. https://techfundingnews.com/index-ventures-leads-18m-round-in-uk-fintech-adfin-to-help-smes-get-paid-faster/ — Confirms $18M Series A led by Index Ventures with Visionaries Club, Stéphane Kurgan, Andrey Khusid; total funding to $30M in under two years.
+
+[^47]: EU-Startups, "Index Ventures backed-Adfin raises €15.3 million to help businesses automate revenue collection with AI," May 12, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/
