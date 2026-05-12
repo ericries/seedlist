@@ -93,7 +93,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | Crunchbase | Series A | 2015 | Enterprise/Data | Active | [^7] |
 | InfluxData | Series A | 2013 | Enterprise/Data | Active | [^7] |
 | BigPanda | Series A | 2014 | Enterprise/IT Ops | Active | [^7] |
-| Aurascape | Seed | 2024 | AI/Security | Active | [^7] |
+| Aurascape | Seed (led, $12.8M) | 2024-08-06 | AI/Security | Active | [^7][^15][^16] |
 | Gruve | Seed | 2024 | AI/Infrastructure | Active | [^7] |
 | NeuBird | Series D | 2025 | AI/Enterprise | Active | [^4] |
 | Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
@@ -147,3 +147,7 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^12]: Securiti.ai, "Securiti Raises $50M Series B to Scale Privacy Operations," accessed April 2026. https://securiti.ai/press-release/securiti-ai-raises-50m-series-b-from-general-catalyst-and-mayfield-to-scale-its-automated-privacy-operations-platform/
 [^13]: Mayfield website, "Mammoth Biosciences Achieves Unicorn Status with $195M Funding," accessed April 2026. https://www.mayfield.com/news/mammoth-biosciences-achieves-unicorn-status-with-195m-funding/
 [^14]: TechCrunch, "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen," May 12, 2026. Accessed May 2026. https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/ — Exaforce announced a $125M Series B on May 12, 2026 valuing the three-year-old startup at $725M, with Mayfield participating alongside HarbourVest, Peak XV, Khosla Ventures, and Seligman Ventures.
+
+[^15]: GlobeNewswire, "Aurascape AI Secures $12.8 Million in Oversubscribed Seed Funding to Revolutionize Cybersecurity for the AI Era," August 6, 2024. Accessed May 2026. https://www.globenewswire.com/news-release/2024/08/06/2925087/0/en/Aurascape-AI-Secures-12-8-Million-in-Oversubscribed-Seed-Funding-to-Revolutionize-Cybersecurity-for-the-AI-Era.html — Aurascape AI announced $12.8M oversubscribed seed funding on August 6, 2024, led by Mayfield Fund with participation from Celesta Capital, StepStone Group, AISpace, and Mark McLaughlin (former Chairman and CEO of Palo Alto Networks).
+
+[^16]: Mayfield, "Partnering with Aurascape.ai to Transform Cybersecurity for Generative AI," September 2024. Accessed May 2026. https://www.mayfield.com/partnering-with-aurascape-ai/ — Mayfield blog post announcing its lead investment in Aurascape's $12.8M seed round.

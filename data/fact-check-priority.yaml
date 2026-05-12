@@ -1,12 +1,4 @@
 priority:
-  - slug: mayfield-fund
-    type: firm
-    reason: "appeared in Exaforce Series B (2026-05-12)"
-    added: 2026-05-12
-  - slug: khosla-ventures
-    type: firm
-    reason: "appeared in Exaforce Series B (2026-05-12)"
-    added: 2026-05-12
   - slug: y-combinator
     type: firm
     reason: "appeared in Greenboard Series A (2026-05-12)"
@@ -14,10 +6,6 @@ priority:
   - slug: general-catalyst
     type: firm
     reason: "appeared in Greenboard Series A (2026-05-12)"
-    added: 2026-05-12
-  - slug: outlander-vc
-    type: firm
-    reason: "appeared in Havoc Series A (2026-05-12)"
     added: 2026-05-12
   - slug: cavu-consumer-partners
     type: firm

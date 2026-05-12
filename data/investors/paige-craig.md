@@ -120,7 +120,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Omaze | ~2020 | Seed | [^16] |
 | Saltbox | ~2021 | Seed | [^17] |
 | Kindly Care | ~2021 | Seed | [^17] |
-| Lula Commerce | ~2023 | Seed | [^18] |
+| Lula Commerce | 2022-02-03 | Seed (co-led, $5.5M) | [^18][^25] |
 | Crow Industries | ~2023 | Seed | [^18] |
 | HavocAI | ~2023 | Seed | [^18] |
 | Skyways | ~2023 | Seed | [^18] |
@@ -190,3 +190,5 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^22]: FinSMEs, "Flock AI Raises $6M in Seed Funding," February 2026. https://www.finsmes.com/2026/02/flock-ai-raises-6m-in-seed-funding.html
 [^23]: Outlander VC, "Airbnb, My $1 Billion Lesson," accessed April 2026. https://outlander.vc/fieldguide/airbnb-my-1-billion-lesson/
 [^24]: Outlandish Speaker Series, "Skyways," accessed April 2026. https://outlandishspeakerseries.heysummit.com/sponsors/skyways/
+
+[^25]: GlobeNewswire, "VCs Deliver $5.5M to Lula Delivery," February 3, 2022. Accessed May 2026. https://www.globenewswire.com/news-release/2022/02/03/2378536/0/en/VCs-Deliver-5-5M-to-Lula-Delivery.html — Lula (Philadelphia, PA) announced a $5.5M seed round on February 3, 2022 co-led by Ripple Ventures, Outlander VC, and Up.Partners.

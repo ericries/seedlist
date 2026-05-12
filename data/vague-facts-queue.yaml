@@ -17443,7 +17443,8 @@ vague_facts:
   profile: firms/mayfield-fund
   profile_name: Mayfield Fund
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved_note: "Aurascape AI $12.8M Seed announced 2024-08-06, led by Mayfield; primary sources: globenewswire/Yahoo, Mayfield blog, SiliconANGLE."
   type: unknown_value
   value: '[^7]'
 - column: 5

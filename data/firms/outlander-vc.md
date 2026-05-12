@@ -118,7 +118,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Saltbox | Seed | ~2021 | E-commerce logistics | [^10] |
 | Kindly Care | Seed | ~2021 | Home healthcare | [^10] |
 | ProducePay | Seed | ~2021 | Agtech/fintech | [^10] |
-| Lula Commerce | Seed | 2022 | SaaS marketplace | [^11][^18] |
+| Lula Commerce | Seed (co-led, $5.5M) | 2022-02-03 | SaaS marketplace / C-store delivery | [^11][^18][^22] |
 | Crow Industries | Pre-seed | 2023 | Autonomous mining/robotics | [^11] |
 | HavocAI | Seed | ~2023 | Maritime autonomy/defense | [^11] |
 | Skyways | Seed | ~2022 | Autonomous cargo drones | [^11][^12] |
@@ -190,3 +190,5 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^20]: BusinessWire, "Catalyx Space Secures $5.4 Million Seed Round to Build for the Next Era of Orbital Logistics," October 30, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20251030644759/en/Catalyx-Space-Secures-$5.4-Million-Seed-Round-to-Build-for-the-Next-Era-of-Orbital-Logistics — $5.4M Seed announced October 30, 2025 led by Outlander VC (Paige Craig); follow-on to January 2025 $1.7M pre-Seed bringing total to $7.1M. Co-investors: Arka Venture Labs, Lex Reddy, KDX Management, Together Fund, Higher Life Ventures, Nivesha Ventures, Prana Tech Ventures, Bria, HF0 Residency, Techstars. Founded 2024 by Rifath Shaarook.
 
 [^21]: WorkBoat, "Autonomous systems startup Havoc raises $100 million," May 12, 2026. Accessed May 2026. https://www.workboat.com/autonomous-systems-startup-havoc-raises-100-million — Havoc (founded 2024, Providence RI) announced a $100M Series A on May 12, 2026 with Outlander VC participating alongside returning investors Scout VC, B Capital, Lockheed Martin, Taiwania Capital, UP.Partners, The Veteran Fund, Vanderbilt University and new investors CCM Capital Markets, Clear Street, Cobalt Capital, Boardman Bay, Meet Perry, Mute Ventures, Soren Ventures, SAIC, JA Green. Total raised since founding: ~$200M.
+
+[^22]: GlobeNewswire, "VCs Deliver $5.5M to Lula Delivery," February 3, 2022. Accessed May 2026. https://www.globenewswire.com/news-release/2022/02/03/2378536/0/en/VCs-Deliver-5-5M-to-Lula-Delivery.html — Lula (Philadelphia, PA) announced a $5.5M seed round on February 3, 2022 co-led by Ripple Ventures, Outlander VC, and Up.Partners, with participation from SOSV, simple.capital, NZVC, Stonks.com, EasyPost, Park City Angels, Alumni Ventures, Broad Street Angels, Ben Franklin Technology Partners, and additional angels. Brings total to $6.5M following a $1M pre-seed in summer 2021.

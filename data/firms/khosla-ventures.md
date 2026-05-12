@@ -187,7 +187,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Roofstock | Early | ~2015 (founded) | Real Estate / Fintech | Private [^22] |
 | Sakana | Early | ~2023 (founded) | AI | Private [^22] |
 | Neon | Early | ~2021 (founded) | Enterprise / Database | Private [^22] |
-| Distyl | Early | ~2023 (founded) | AI | Private [^22] |
+| Distyl | Series A (participant, $20M round) | 2024-11-19 | AI / Enterprise | Private [^22][^41] |
 | Nomagic | Early | ~2017 (founded) | Robotics | Private [^22] |
 | Loyal | Early | ~2019 (founded) | Therapeutics / Veterinary | Private [^22] |
 | Slash | Series C | 2026-04-15 | Fintech / Banking | Private [^31] |
@@ -346,3 +346,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^39]: "OpenAI launches new company for funding safe artificial general intelligence." VentureBeat, March 11, 2019, accessed May 2026. https://venturebeat.com/ai/openai-launches-new-company-for-funding-safe-artificial-general-intelligence — Contemporaneous press confirming Khosla Ventures and Reid Hoffman's charitable organization as initial investors in OpenAI LP, announced March 11, 2019.
 
 [^40]: TechCrunch, "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen," May 12, 2026. Accessed May 2026. https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/ — Exaforce announced a $125M Series B on May 12, 2026 at $725M valuation, with Khosla Ventures among the participants alongside HarbourVest, Peak XV, Mayfield, and Seligman Ventures.
+
+[^41]: PR Newswire, "Distyl Secures $20M from Lightspeed and Khosla Ventures to Deliver Biggest, Most Impactful Enterprise AI Outcomes," November 19, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/distyl-secures-20m-from-lightspeed-and-khosla-ventures-to-deliver-biggest-most-impactful-enterprise-ai-outcomes-302309718.html — Distyl AI announced a $20M Series A on November 19, 2024 led by Lightspeed Venture Partners, with Khosla Ventures participating alongside returning investors Coatue, Dell Technologies Capital, and Nat Friedman. The $7M seed (April 2023) was led by Coatue and Dell; Khosla joined at Series A.
