@@ -40,7 +40,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: designverse
-  notes: created designverse.md (€4.6M / $5.5M Seed 2026-05-13; Begin Capital, Gapminder VC, Underline Ventures + Adobe/LSEG/UiPath angels; modernized EUROCONTROL legacy software)
+  notes: created designverse.md (€4.6M / $5.5M Seed 2026-05-13; Begin Capital, Gapminder
+    VC, Underline Ventures + Adobe/LSEG/UiPath angels; modernized EUROCONTROL legacy
+    software)
 - title: Anduril raises $5B, doubles valuation to $61B
   url: https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/
   source: techcrunch
@@ -51,7 +53,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: anduril-industries
-  notes: updated anduril-industries.md ($5B Series H 2026-05-13 co-led by Thrive Capital and Andreessen Horowitz at $61B val; corrected from prior rumored Mar 2026 $4B entry)
+  notes: updated anduril-industries.md ($5B Series H 2026-05-13 co-led by Thrive Capital
+    and Andreessen Horowitz at $61B val; corrected from prior rumored Mar 2026 $4B
+    entry)
 - title: 'Exclusive: Physician-Founded Saile Raises $2.2M To Help Doctors Find Side
     Jobs Using AI'
   url: https://news.crunchbase.com/health-wellness-biotech/saile-doctors-side-jobs-central-platform-credentials/
@@ -88,7 +92,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: mantle8
-  notes: created mantle8.md (€31M Series A 2026-05-13 led by Sandwater; Breakthrough Energy Ventures, Ecotechnologies 2, IP Group, Wind Capital, Calderion participated; Grenoble natural hydrogen)
+  notes: created mantle8.md (€31M Series A 2026-05-13 led by Sandwater; Breakthrough
+    Energy Ventures, Ecotechnologies 2, IP Group, Wind Capital, Calderion participated;
+    Grenoble natural hydrogen)
 - title: Barcelona’s Dolfin raises €2.1 million Seed round to scale its AI-native
     platform for sales compensation
   url: https://www.eu-startups.com/2026/05/barcelonas-dolfin-raises-e2-1-million-seed-round-to-scale-its-ai-native-platform-for-sales-compensation/
