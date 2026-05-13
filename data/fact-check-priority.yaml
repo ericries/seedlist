@@ -1,4 +1,8 @@
 priority:
+  - slug: kleiner-perkins
+    type: firm
+    reason: "led Mind Robotics $400M (2026-05-13) — verify portfolio table addition"
+    added: 2026-05-13
   - slug: cavu-consumer-partners
     type: firm
     reason: "led 4AM Seed (2026-05-11) — may need new profile"

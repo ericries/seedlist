@@ -202,8 +202,9 @@ The following table includes notable investments verified through multiple sourc
 | Manifest OS | Series A (participated) | 2026-04-28 | LegalTech / AI | Private [^32][^44] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^33] |
 | Parallel Web Systems | Series B | 2026-04-29 | AI / Web Infrastructure | Private [^40] |
+| Mind Robotics | Growth (lead, $400M) | 2026-05-13 | Robotics / Industrial | Private [^45] |
 
-*Note: This table includes 61 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
+*Note: This table includes 62 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
 ## In Their Own Words
 
@@ -344,3 +345,4 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^43]: Granola blog/Index Ventures, "Granola Series C: Index leads $125M round at $1.5B valuation," March 25, 2026. Accessed May 2026. https://www.granola.ai/ — Granola's $125M Series C announced March 25, 2026, led by Index Ventures at $1.5B valuation; Kleiner Perkins participated alongside Lightspeed and Spark Capital.
 
 [^44]: BusinessWire, "Manifest OS Raises $60M to Scale the World's First AI-Native Law Firm Model," April 28, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model — $60M Series A announced April 28, 2026 at $750M valuation; led by Menlo Ventures with Kleiner Perkins, First Round Capital, and Quiet Capital participating.
+[^45]: TechCrunch, "Rivian spinoff Mind Robotics raises another $400M," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/ — Kleiner Perkins led Mind Robotics' $400M round on May 13, 2026, at a valuation of more than $3 billion; Volkswagen Group's venture arm and Salesforce Ventures also participated. Mind Robotics is a Rivian-spinoff industrial robotics company chaired by Rivian CEO RJ Scaringe.

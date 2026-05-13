@@ -22198,3 +22198,60 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: vineeta-singh
+- name: Matchstick Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saile
+  source: led Saile $2.2M pre-seed (2026-05-13)
+- name: Ryan Broshar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Matchstick Ventures
+  discovered_from: saile
+  source: founder of Matchstick Ventures; led Saile pre-seed (2026-05-13)
+- name: Headwater Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saile
+  source: participated in Saile $2.2M pre-seed (2026-05-13)
+- name: Swanlaab
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dolfin
+  source: led Dolfin €2.1M Seed (2026-05-13)
+- name: Archipelago Next
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dolfin
+  source: participated in Dolfin €2.1M Seed (2026-05-13)
+- name: Inveready
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dolfin
+  source: participated in Dolfin €2.1M Seed (2026-05-13); active Spanish investor
+- name: Dozen
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dolfin
+  source: participated in Dolfin €2.1M Seed (2026-05-13)
+- name: Volkswagen Group Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mind-robotics
+  source: participated in Mind Robotics $400M (2026-05-13)
