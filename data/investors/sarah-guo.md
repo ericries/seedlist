@@ -99,7 +99,7 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Harvey | Seed | 2022 | AI / Legal Tech | Active ($3B valuation) | [^2] |
+| Harvey | Seed | 2022-11-23 | AI / Legal Tech | Active ($11B valuation) | [^2][^18][^19] |
 | Mistral AI | Series A | 2023-12-11 | AI / Open-source LLMs | Active ($14B valuation) | [^2][^10] |
 | Sierra | Early | 2023 | AI / Conversational AI | Active ($4.5B valuation) | [^2] |
 | Baseten | Seed | ~2022 | AI / Inference infrastructure | Active ($825M valuation) | [^2] |
@@ -165,3 +165,7 @@ No independently sourced founder testimonials found. Guo's personal website refe
 [^15]: Axios, "Corridor raises $5.4M, hires Alex Stamos as chief security officer," August 5, 2025, accessed May 2026. https://www.axios.com/2025/08/05/corridor-ai-startup-alex-stamos — Primary source confirming Conviction's lead of Corridor's $5.4M seed round. Founders Jack Cable and Ashwin Ramaswami; Alex Stamos joined as CSO.
 [^16]: Conviction Partners, "Investing in Corridor," accessed May 2026. https://www.conviction.com/launches/corridor.html — Conviction's own announcement of leading Corridor's seed round.
 [^17]: Jack Cable, LinkedIn announcement post, August 2025, accessed May 2026. https://www.linkedin.com/posts/jackcable_today-im-thrilled-to-announce-corridor-activity-7358512117030764544-X7ye — Cable confirms $5.4M seed led by Conviction with Sarah Guo, Mike Vernal, and Isabella Garcia-Camargo named from Conviction.
+
+[^18]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022, accessed May 2026. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Contemporaneous press confirming Harvey's $5M seed announcement on November 23, 2022, led by OpenAI Startup Fund with Jeff Dean and Elad Gil among other angel backers. The Harvey seed round was the first check Conviction (founded mid-2022 by Sarah Guo) wrote from its first fund.
+
+[^19]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent confirmation of November 23, 2022 announcement date.

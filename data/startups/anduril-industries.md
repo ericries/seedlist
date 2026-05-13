@@ -117,7 +117,7 @@ Anduril Industries is a defense technology company founded in June 2017 by Palme
 | Jun 2018 | Series A | $41M | Founders Fund | SV Angel, Human Capital [^1] |
 | Sep 2019 | Series B | ~$120M | Founders Fund | Andreessen Horowitz [^1][^3] |
 | Jul 2020 | Series C | $200M | Andreessen Horowitz | — [^4] |
-| Jun 2021 | Series D | $450M | Elad Gil | Andreessen Horowitz, Founders Fund, General Catalyst, 8VC, Lux Capital, Valor Equity Partners, D1 Capital Partners [^5][^6] |
+| 2021-06-17 | Series D | $450M | Elad Gil | Andreessen Horowitz, Founders Fund, General Catalyst, 8VC, Lux Capital, Valor Equity Partners, D1 Capital Partners [^5][^6][^14] |
 | Dec 2022 | Series E | $1.48B | Valor Equity Partners | Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom [^7] |
 | Aug 2024 | Series F | $1.5B | Founders Fund, Sands Capital (co-lead) | Fidelity, Franklin Venture Partners, Altimeter [^8][^9] |
 | Jun 2025 | Series G | $2.5B | Founders Fund ($1B) | Sands Capital, Andreessen Horowitz, Fidelity, General Catalyst [^2][^10] |
@@ -151,3 +151,5 @@ Brian Schimpf, CEO and co-founder, on Anduril's Series C:
 [^12]: Axios, "Anduril raising $4 billion at a $60 billion valuation," March 2026. https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation
 
 [^13]: Bloomberg, "Anduril Valued at $61 Billion in Round Led by Thrive, Andreessen," May 13, 2026. Accessed May 2026. https://www.bloomberg.com/news/articles/2026-05-13/anduril-valued-at-61-billion-in-round-led-by-thrive-andreessen — $5B Series H announced May 13, 2026, co-led by Thrive Capital and Andreessen Horowitz at $61B post-money valuation; doubling from June 2025 $30.5B valuation. Cross-referenced with CNBC, "Anduril doubles valuation to over $60 billion as defense tech funding boom continues," May 13, 2026. https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html — confirms 2025 revenue more than doubled to $2.2B.
+
+[^14]: Orange County Business Journal, "Anduril Gets $450M in Series D Funding," June 17, 2021, accessed May 2026. https://www.ocbj.com/news/2021/jun/17/anduril-gets-450m-series-d-funding/ — Contemporaneous local press confirming the June 17, 2021 announcement of Anduril's $450M Series D at $4.6B valuation, led by Elad Gil, with Andreessen Horowitz, 8VC, Founders Fund, General Catalyst, Lux Capital, Valor Equity Partners, and D1 Capital Partners participating.

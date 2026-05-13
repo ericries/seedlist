@@ -85,7 +85,8 @@ Based on 18 verified investments, the OpenAI Startup Fund's actual portfolio rev
 | Descript | Series C ($50M, led) | 2022 | Media/Video Editing | Active [^13] |
 | Figure AI | Series B ($675M, $2.6B post) | 2024-02-29 | Robotics | Active [^12][^22][^23][^24] |
 | Ghost Autonomy | Series E ($5M of $55M) | 2023 | Autonomous Driving | Shut Down [^12] |
-| Harvey AI | Series A ($21M) | 2023 | Legal Tech | Active [^12] |
+| Harvey AI | Seed ($5M, led) | 2022-11-23 | Legal Tech | Active [^12][^30][^31] |
+| Harvey AI | Series A ($21M, participated) | 2023-04-26 | Legal Tech | Active [^12] |
 | Heeyo | Seed ($3.5M) | 2024 | EdTech | Active [^14] |
 | Kick | Seed ($9M, co-led) | 2024 | Fintech | Active [^12] |
 | Mem | Series A ($23.5M, led) | 2022 | Productivity | Active [^2] |
@@ -152,3 +153,7 @@ Andrew Mason, CEO of Descript, noted that seeing an early version of ChatGPT ins
 [^27]: TechCrunch, "OpenAI just made its first cybersecurity investment," April 3, 2025. https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/
 [^28]: Bloomberg, "Chai Discovery Gets OpenAI, Thrive Capital Backing to Bring AI to Biotech," September 9, 2024. https://www.bloomberg.com/news/articles/2024-09-09/openai-thrive-capital-back-six-month-old-ai-drug-discovery-startup
 [^29]: Bloomberg Law, "OpenAI, Thrive Capital Back Startup Using AI for Drug Discovery," September 9, 2024. https://news.bloomberglaw.com/health-law-and-business/openai-thrive-capital-back-startup-using-ai-for-drug-discovery
+
+[^30]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022, accessed May 2026. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Contemporaneous press confirming OpenAI Startup Fund led Harvey's $5M seed on November 23, 2022, alongside Jeff Dean (Google AI), Elad Gil (Mixer Labs co-founder), and other angel backers.
+
+[^31]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent contemporaneous press source confirming the November 23, 2022 announcement of Harvey's $5M seed round led by the OpenAI Startup Fund.

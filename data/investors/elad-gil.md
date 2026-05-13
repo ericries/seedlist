@@ -130,7 +130,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Anchorage | ~2019 | Early stage | [^21] |
 | Applied Intuition | 2021 | Series D (co-led) | [^17] |
 | Perplexity AI | ~2022 | Early stage | [^1][^14] |
-| Harvey | ~2022 | Early stage | [^1][^14] |
+| Harvey | 2022-11-23 | Seed | [^1][^14][^41][^42] |
 | Character.AI | ~2022 | Early stage | [^1][^14] |
 | Mistral AI | ~2023 | Early stage | [^1][^14] |
 | Pika | ~2023 | Early stage | [^1][^14] |
@@ -290,3 +290,7 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^39]: Axios Pro Rata Premium, "First Look," April 14, 2026. Accessed May 2026. https://www.axios.com/pro/all-deals/2026/04/14/pro-rata-premium-first-look — Confirms Atlas Card's $40M Series C round co-led by Elad Gil and Verified Capital, with 01 Advisors and existing investor Marathon Management Partners participating; $420M post-money valuation.
 
 [^40]: @ArfurRock on X, "Closed $40M at $420M led by Elad Gil. Great product, congrats @atlascardhq!" April 2026. Accessed May 2026. https://x.com/ArfurRock/status/2041642548083519809 — Independent confirmation of $40M raise at $420M valuation led by Elad Gil.
+
+[^41]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022, accessed May 2026. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Contemporaneous press confirming Harvey's $5M seed announcement on November 23, 2022, led by OpenAI Startup Fund with Elad Gil and Jeff Dean (Google AI) explicitly named as participating angel investors.
+
+[^42]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent confirmation of November 23, 2022 announcement date.

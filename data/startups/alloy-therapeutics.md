@@ -3,7 +3,11 @@ firms:
 - round: series-e
   slug: 8vc
   year: 2026
-- slug: founders-fund
+  date: 2026-04-15
+- round: series-e
+  slug: founders-fund
+  year: 2026
+  date: 2026-04-15
 founded: 2017
 founders:
 - name: Errik Anderson
@@ -33,7 +37,7 @@ Alloy Therapeutics is a Boston-based tech-enabled biotech infrastructure company
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-15 | Series E | $40M | 8VC | JIC Venture Growth Investments, Echo Capital, Mubadala Capital, Presight Capital, Thiel Capital, Founders Fund, Alexandria Venture Investments, Gaingels, Ulysses Diversified Holdings [^1] |
+| 2026-04-15 | Series E | $40M | 8VC, JIC Venture Growth Investments, Echo Capital (co-leads) | Mubadala Capital, Presight Capital, Thiel Capital, Founders Fund, Alexandria Venture Investments, Gaingels, Ulysses Diversified Holdings [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -46,3 +50,7 @@ No verified founder quotes available at this time.
 ## Sources
 
 [^1]: BioSpace, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026. https://www.biospace.com/press-releases/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure
+
+[^2]: BusinessWire, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260415032940/en/Alloy-Therapeutics-Announces-$40M-Series-E-to-Scale-Tech-Enabled-Biotech-Infrastructure — Primary press-wire source confirming April 15, 2026 announcement of $40M Series E at $1B valuation, co-led by 8VC, JIC Venture Growth Investments, and Echo Capital.
+
+[^3]: PharmiWeb, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026, accessed May 2026. https://www.pharmiweb.com/press-release/2026-04-15/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure — Independent confirmation of April 15, 2026 Series E announcement; describes use of proceeds for AI/ML data layer and clinical development services.

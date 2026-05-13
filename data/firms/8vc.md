@@ -89,16 +89,16 @@ Based on 8VC's verified portfolio and public data:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Anduril Industries | Series D | 2021 | Defense Tech | Private [^3][^14] |
+| Anduril Industries | Series D ($450M) | 2021-06-17 | Defense Tech | Private [^3][^23][^24][^25] |
 | Palantir Technologies | Co-founded | 2003 | Defense/Enterprise | Public (PLTR) [^3] |
 | Addepar | Co-founded | ~2009 | Fintech | Private [^3] |
 | OpenGov | Co-founded | ~2012 | GovTech | Acquired ($1.8B) [^3] |
 | Flexport | Early | ~2015 | Logistics | Private [^3] |
-| Joby Aviation | Series B | 2018 | Transportation | Public (JOBY) [^3][^5][^15] |
+| Joby Aviation | Series B | 2018 | Transportation | Public (JOBY) [^3][^5][^14] |
 | Oculus | Early | ~2013 | Consumer Tech | Acquired by Facebook [^3] |
 | Guardant Health | Early | ~2015 | Healthcare/Diagnostics | Public [^3] |
 | Oscar Health | Early | ~2014 | Healthcare Insurance | Public [^3] |
-| Illumio | Series B | 2014 | Cybersecurity | Private [^3][^16] |
+| Illumio | Series B | 2014 | Cybersecurity | Private [^3][^15] |
 | Blend | Early | ~2016 | Fintech | Public [^3] |
 | Synthego | Early | ~2016 | Life Sciences | Private [^3] |
 | project44 | Growth | ~2020 | Supply Chain | Private [^5] |
@@ -109,12 +109,12 @@ Based on 8VC's verified portfolio and public data:
 | Orca Bio | Early | ~2016 | Life Sciences | Private [^3] |
 | Qualia | Early | ~2017 | Fintech/Real Estate | Private [^3] |
 | Glimpse | Seed / Series A | 2025–2026 | Fintech / Retail Tech | Private [^9] |
-| eMed | Series A | 2026-03-26 | Healthcare/AI Telehealth | Private [^10][^17][^18] |
-| Alloy Therapeutics | Series E | 2026 | Biotech/Drug Discovery | Private [^11] |
+| eMed | Series A | 2026-03-26 | Healthcare/AI Telehealth | Private [^10][^16][^17] |
+| Alloy Therapeutics | Series E (co-led, $40M) | 2026-04-15 | Biotech/Drug Discovery | Private [^11][^26][^27] |
 | Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
 | Rilian | Seed (co-led) | 2026 | AI/Cybersecurity/Defense | Private [^13] |
-| Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^19][^20] |
-| Sauron | Seed (participated, $18M) | 2024-12-05 | Home Security / AI | Private [^21][^22][^23] |
+| Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^18][^19] |
+| Sauron | Seed (participated, $18M) | 2024-12-05 | Home Security / AI | Private [^20][^21][^22] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -148,22 +148,30 @@ No independently sourced founder testimonials found.
 
 [^13]: SiliconANGLE, "Rilian raises $17.5M to automate security software procurement and deployment in the defense sector," April 23, 2026. https://siliconangle.com/2026/04/23/rilian-raises-17-5m-automate-security-software-procurement-deployment-defense-sector/
 
-[^14]: Wikipedia, "Anduril Industries — Funding rounds," accessed April 2026. https://en.wikipedia.org/wiki/Anduril_Industries — 8VC participated in the June 2021 Series D ($450M, led by Elad Gil) per Wikipedia funding-round summary.
+[^14]: Toyota USA Newsroom and Joby Aviation press, "Joby Aviation Announces Closing of $100 Million Series B," February 1, 2018. https://www.jobyaviation.com/news/joby-aviation-announces-closing-250-million-investment/ — Series B led by Capricorn Investment Group; 8VC participated.
 
-[^15]: Toyota USA Newsroom and Joby Aviation press, "Joby Aviation Announces Closing of $100 Million Series B," February 1, 2018. https://www.jobyaviation.com/news/joby-aviation-announces-closing-250-million-investment/ — Series B led by Capricorn Investment Group; 8VC participated.
+[^15]: TechCrunch, "Illumio Raises $100M More For Enterprise Security That Goes Beyond The Firewall," April 14, 2015. https://techcrunch.com/2015/04/14/illumio-raises-100m-more-for-enterprise-security-that-goes-beyond-the-firewall/ — references prior 2014 Series B; Formation 8 (now 8VC) had invested in the October 2014 Series B/extension round per Wikipedia coverage of Formation 8.
 
-[^16]: TechCrunch, "Illumio Raises $100M More For Enterprise Security That Goes Beyond The Firewall," April 14, 2015. https://techcrunch.com/2015/04/14/illumio-raises-100m-more-for-enterprise-security-that-goes-beyond-the-firewall/ — references prior 2014 Series B; Formation 8 (now 8VC) had invested in the October 2014 Series B/extension round per Wikipedia coverage of Formation 8.
+[^16]: Refresh Miami, "Tom Brady-backed eMed rides GLP-1 success to a $200M Series A at a $2B valuation," March 26, 2026. https://refreshmiami.com/news/tom-brady-backed-emed-rides-glp-1-success-to-a-200m-series-a-at-a-2b-valuation/
 
-[^17]: Refresh Miami, "Tom Brady-backed eMed rides GLP-1 success to a $200M Series A at a $2B valuation," March 26, 2026. https://refreshmiami.com/news/tom-brady-backed-emed-rides-glp-1-success-to-a-200m-series-a-at-a-2b-valuation/
+[^17]: MobiHealthNews, "Tom Brady-backed telehealth AI startup eMed raises $200M, tops $2B valuation," March 30, 2026. https://www.mobihealthnews.com/news/tom-brady-backed-telehealth-ai-startup-emed-raises-200m-tops-2b-valuation
 
-[^18]: MobiHealthNews, "Tom Brady-backed telehealth AI startup eMed raises $200M, tops $2B valuation," March 30, 2026. https://www.mobihealthnews.com/news/tom-brady-backed-telehealth-ai-startup-emed-raises-200m-tops-2b-valuation
+[^18]: BioSpace, "Latus Bio Announces $97 Million Series A Financing to Expand the Reach of Gene Therapy to Larger Populations," May 4, 2026. https://www.biospace.com/press-releases/latus-bio-announces-97-million-series-a-financing-to-expand-the-reach-of-gene-therapy-to-larger-populations — $43M Series A Extension led by 8VC (Francisco Gimenez, Partner), bringing total Series A to $97M. Existing investors DCVC Bio, BioAdvance, Benjamin Franklin Technology Partners, Modi Ventures, Gaingels, and Hatch BioFund participated, with new investors Korea Development Bank and Helen's Pink Sky Foundation joining.
 
-[^19]: BioSpace, "Latus Bio Announces $97 Million Series A Financing to Expand the Reach of Gene Therapy to Larger Populations," May 4, 2026. https://www.biospace.com/press-releases/latus-bio-announces-97-million-series-a-financing-to-expand-the-reach-of-gene-therapy-to-larger-populations — $43M Series A Extension led by 8VC (Francisco Gimenez, Partner), bringing total Series A to $97M. Existing investors DCVC Bio, BioAdvance, Benjamin Franklin Technology Partners, Modi Ventures, Gaingels, and Hatch BioFund participated, with new investors Korea Development Bank and Helen's Pink Sky Foundation joining.
+[^19]: BioPharma Dive, "With $97M, Latus pursues a different kind of Huntington's gene therapy," May 4, 2026. https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/
 
-[^20]: BioPharma Dive, "With $97M, Latus pursues a different kind of Huntington's gene therapy," May 4, 2026. https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/
+[^20]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed; 8VC participated alongside Atomic, A*, and executives at Flock Safety/Palantir.
 
-[^21]: The Washington Post, "New home-security start-up promises tech elites 'military-grade' safety," by Nitasha Tiku, December 5, 2024, accessed May 2026. https://www.washingtonpost.com/technology/2024/12/05/tech-ceos-elites-home-security-silicon-valley/ — Original announcement of Sauron's $18M seed; 8VC participated alongside Atomic, A*, and executives at Flock Safety/Palantir.
+[^21]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
 
-[^22]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
+[^22]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports $24M total raised by late 2025 from Flock Safety/Palantir executives, 8VC, Atomic, and A*.
 
-[^23]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports $24M total raised by late 2025 from Flock Safety/Palantir executives, 8VC, Atomic, and A*.
+[^23]: TechCrunch, "Anduril raises $450M as the defense tech company's valuation soars to $4.6B," June 17, 2021, accessed May 2026. https://techcrunch.com/2021/06/17/anduril-funding-series-d-valuation/ — Contemporaneous press confirming the June 17, 2021 announcement of Anduril's $450M Series D at $4.6B valuation; lead investor Elad Gil; participants include Andreessen Horowitz, Founders Fund, 8VC, General Catalyst, Lux Capital, Valor Equity Partners, and D1 Capital Partners.
+
+[^24]: Orange County Business Journal, "Anduril Gets $450M in Series D Funding," June 17, 2021, accessed May 2026. https://www.ocbj.com/news/2021/jun/17/anduril-gets-450m-series-d-funding/ — Independent contemporaneous local press source confirming June 17, 2021 announcement date, $450M raise, $4.6B valuation, Elad Gil as lead, and 8VC as a participating investor.
+
+[^25]: CB Insights Research, "Andreessen Horowitz-Backed Anduril Raises $450M For Its Defense Tech," June 2021, accessed May 2026. https://www.cbinsights.com/research/anduril-series-d-funding/ — Independent confirmation of the $450M Series D round with 8VC among the participating investors.
+
+[^26]: BusinessWire, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260415032940/en/Alloy-Therapeutics-Announces-$40M-Series-E-to-Scale-Tech-Enabled-Biotech-Infrastructure — Primary press-wire source confirming April 15, 2026 announcement of $40M Series E at $1B valuation, co-led by 8VC, JIC Venture Growth Investments, and Echo Capital. Includes Alex Kolicich (8VC) quote on "x-in-the-loop" AI integration strategy.
+
+[^27]: PharmiWeb, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026, accessed May 2026. https://www.pharmiweb.com/press-release/2026-04-15/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure — Independent confirmation of the April 15, 2026 Series E announcement with 8VC as co-lead investor.

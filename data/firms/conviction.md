@@ -73,7 +73,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Harvey | Seed | 2022 | Legal AI | Active (unicorn, $11B) | [^2][^7][^8] |
+| Harvey | Seed | 2022-11-23 | Legal AI | Active (unicorn, $11B) | [^2][^7][^8][^41][^42] |
 | Mistral | Series A | 2023-12-11 | AI Models | Active (unicorn, $14B) | [^2][^9] |
 | Baseten | Early | ~2022 | AI Infrastructure | Active ($825M) | [^2] |
 | Sierra | Early | ~2023 | Conversational AI | Active (unicorn, $4.5B) | [^2] |
@@ -166,5 +166,9 @@ No independently sourced founder testimonials found. The firm's website describe
 [^39]: Mithril (fka Foundry) blog, "Introducing Foundry," March 21, 2024, accessed May 2026. https://mithril.ai/blog/introducing-foundry — Company's own announcement of $80M combined Seed and Series A funding co-led by Sequoia Capital and Lightspeed Venture Partners with participation from Redpoint, Microsoft Ventures (M12), Conviction, NEA, plus angels including Jeff Dean, Eric Schmidt, George Roberts (KKR), Paul Milgrom, Matei Zaharia, Jure Leskovec, Alexandr Wang, Liam Fedus, Lachy Groom, Mario Gabriele, and David Vélez. Founder Jared Quincy Davis (DeepMind alum, Stanford CS PhD). Editor's note (August 4, 2025) confirms Foundry rebranded to Mithril.
 
 [^40]: Fortune, "Exclusive: Foundry comes out of stealth with a $350 million valuation," March 21, 2024, accessed May 2026. https://fortune.com/2024/03/21/foundry-stealth-launch-350-million-valuation/ — Independent confirmation of March 21, 2024 stealth launch with $80M total Seed and Series A funding co-led by Lightspeed and Sequoia, $350M valuation.
+
+[^41]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022, accessed May 2026. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Contemporaneous press confirming Harvey's $5M seed announcement on November 23, 2022, led by the OpenAI Startup Fund with Jeff Dean (Google AI) and Elad Gil (Mixer Labs co-founder) among other angel backers. Sarah Guo (who founded Conviction in mid-2022) participated; the Harvey seed was Conviction's first investment.
+
+[^42]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent contemporaneous press source confirming the November 23, 2022 announcement of Harvey's $5M seed round led by OpenAI Startup Fund.
 
 [^41]: Sequoia Capital, "Partnering with Mithril: AI Compute, On Demand," March 21, 2024, accessed May 2026. https://sequoiacap.com/article/partnering-with-mithril-ai-compute-on-demand/ — Sequoia's own post confirming participation in Mithril's seed (September 2022) and co-leading the Series A announced March 21, 2024.
