@@ -197,9 +197,9 @@ The following table includes notable investments verified through multiple sourc
 | Affirm | Growth | ~2019 | Fintech / BNPL | Public (IPO 2021) [^3] |
 | Asana | Growth | ~2018 | Enterprise SaaS | Public (IPO 2020) [^3] |
 | Zynga | Early Stage | ~2008 | Gaming | Acquired by Take-Two (2022) [^3] |
-| Granola | Series C | 2026 | AI / Enterprise | Private [^30] |
+| Granola | Series C (participated) | 2026-03-25 | AI / Enterprise | Private [^30][^43] |
 | Avoca | Series A (lead) | 2026-04-27 | AI / Vertical SaaS / Services Economy | Private [^31][^41] |
-| Manifest OS | Series A | 2026 | LegalTech / AI | Private [^32] |
+| Manifest OS | Series A (participated) | 2026-04-28 | LegalTech / AI | Private [^32][^44] |
 | Rogo | Series D | 2026 | AI / Fintech | Private [^33] |
 | Parallel Web Systems | Series B | 2026-04-29 | AI / Web Infrastructure | Private [^40] |
 
@@ -340,3 +340,7 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^41]: PR Newswire, "Avoca Raises $125M+ at $1B Valuation to Power America's Services Economy With AI," April 27, 2026. https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html — Kleiner Perkins led Avoca's Series A, alongside Amplify Partners and Nexus Venture Partners; round disclosed on April 27, 2026 alongside a Meritech/General Catalyst-led Series B. Cross-referenced with Avoca, "Why We Are Building," April 27, 2026, https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation, which confirms Leigh Marie Braswell of Kleiner Perkins as the Series A lead. Partner Leigh Marie Braswell quoted in PR Newswire: "They're applying AI where execution is the real bottleneck."
 
 [^42]: PR Newswire, "AppDynamics Secures $20 Million in Series C Financing Led by Kleiner Perkins Caufield & Byers," January 17, 2012. https://www.prnewswire.com/news-releases/appdynamics-secures-20-million-in-series-c-financing-led-by-kleiner-perkins-caufield--byers-137471713.html — KPCB led AppDynamics' $20M Series C on January 17, 2012; round also included existing investors Greylock Partners and Lightspeed Venture Partners. Cross-referenced with TechCrunch, "AppDynamics Lands $20M From KPCB, Others For Application Performance Management Solutions," January 17, 2012. https://techcrunch.com/2012/01/17/appdynamics-lands-20m-from-kpcb-others-for-application-performance-management-solutions/ — Accessed May 2026.
+
+[^43]: Granola blog/Index Ventures, "Granola Series C: Index leads $125M round at $1.5B valuation," March 25, 2026. Accessed May 2026. https://www.granola.ai/ — Granola's $125M Series C announced March 25, 2026, led by Index Ventures at $1.5B valuation; Kleiner Perkins participated alongside Lightspeed and Spark Capital.
+
+[^44]: BusinessWire, "Manifest OS Raises $60M to Scale the World's First AI-Native Law Firm Model," April 28, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model — $60M Series A announced April 28, 2026 at $750M valuation; led by Menlo Ventures with Kleiner Perkins, First Round Capital, and Quiet Capital participating.

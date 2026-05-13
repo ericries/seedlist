@@ -127,7 +127,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | LinkedIn | Series C ($12.8M) | 2007 | Consumer/Social | [^9][^1] |
 | Pinterest | Series A ($10M, led) | 2011 | Consumer | [^9] |
 | Twilio | Seed ($125K), then Series B ($12M, led) | 2009, 2010 | Developer/Cloud | [^9] |
-| Anthropic | Series E | 2025 | AI | [^12] |
+| Anthropic | Series E (participated) | 2025-03-03 | AI | [^12][^18] |
 | Canva | Growth | 2018 | Consumer/Design | [^12] |
 | Ramp | Series E | 2025 | Fintech | [^12] |
 | Perplexity | Series B ($250M) | 2024 | AI | [^12] |
@@ -201,3 +201,5 @@ However, founder experiences are not universally positive. One founder reported 
 [^15]: TechCrunch, "Legora raises $550M Series D at $5.55B valuation," March 10, 2026. https://techcrunch.com/2026/03/10/legora-series-d
 [^16]: Shopify newsroom, "Shopify Announces $7 Million Series A Funding," December 13, 2010. Bessemer, FirstMark, Felicis. https://www.shopify.com/news/shopify-announces-7-million-series-a-funding
 [^17]: Bessemer Venture Partners, "Shopify Investment Memo," accessed March 2026. BVP invested $5M at $25M pre-money. https://www.bvp.com/memos/shopify
+
+[^18]: Anthropic press release, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation — $3.5B Series E announced March 3, 2025 at $61.5B post-money valuation; led by Lightspeed Venture Partners. Bessemer Venture Partners participated alongside Cisco Investments, D1 Capital, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures, and Wellington Management.
