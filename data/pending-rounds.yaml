@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'AI for the workers it can’t replace: Italy’s Gyver raises €1.4 million to
+    empower electricians'
+  url: https://www.eu-startups.com/2026/05/ai-for-the-workers-it-cant-replace-italys-gyver-raises-e1-4-million-to-empower-electricians/
+  source: eu-startups
+  date_found: '2026-05-13'
+  parsed_company: 'AI for the workers it can’t replace: Italy’s Gyver'
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bucharest’s DesignVerse raises over €4.6 million Seed funding after supporting
+    EUROCONTROL software upgrade
+  url: https://www.eu-startups.com/2026/05/bucharest-based-designverse-raises-over-e4-6-million-seed-funding-after-supporting-eurocontrol-software-upgrade/
+  source: eu-startups
+  date_found: '2026-05-13'
+  parsed_company: Bucharest’s DesignVerse
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Belgium’s Holmes launches with €1.1 million pre-Seed to catch software bugs
     before they reach users
   url: https://www.eu-startups.com/2026/05/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/
@@ -1020,21 +1038,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact / unverified company
-- title: Astrada raised $3.8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Astrada
-  parsed_amount: $3.8M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small $3.8M seed below threshold
-- title: Elastics raised $2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Elastics
-  parsed_amount: $2M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate of earlier skip; $2M Warsaw pre-seed below threshold
