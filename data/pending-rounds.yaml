@@ -68,7 +68,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: saile
-  notes: created saile.md ($2.2M Pre-Seed 2026-05-13 led by Matchstick Ventures with Headwater Ventures; NYC physician credentialing/shift marketplace; founders Marc Ayoub + Taylor Hakes)
+  notes: created saile.md ($2.2M Pre-Seed 2026-05-13 led by Matchstick Ventures with
+    Headwater Ventures; NYC physician credentialing/shift marketplace; founders Marc
+    Ayoub + Taylor Hakes)
 - title: 'Sector Snapshot: Agtech Startups Face A Drier Funding Climate'
   url: https://news.crunchbase.com/agtech-foodtech/startup-vc-funding-ai-automation-data/
   source: crunchbase
@@ -112,7 +114,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: dolfin
-  notes: created dolfin.md (€2.1M Seed 2026-05-13 led by Swanlaab with Archipelago Next, Inveready, Dozen; founders Daniel Seror + Antoni Bardina; Barcelona AI sales compensation)
+  notes: created dolfin.md (€2.1M Seed 2026-05-13 led by Swanlaab with Archipelago
+    Next, Inveready, Dozen; founders Daniel Seror + Antoni Bardina; Barcelona AI sales
+    compensation)
 - title: Rivian spinoff Mind Robotics raises another $400M
   url: https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/
   source: techcrunch
@@ -123,7 +127,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: mind-robotics
-  notes: created mind-robotics.md ($400M Growth 2026-05-13 led by Kleiner Perkins with Volkswagen and Salesforce Ventures; >$3B valuation; Rivian spinoff industrial robotics; RJ Scaringe chairman); updated kleiner-perkins.md portfolio
+  notes: created mind-robotics.md ($400M Growth 2026-05-13 led by Kleiner Perkins
+    with Volkswagen and Salesforce Ventures; >$3B valuation; Rivian spinoff industrial
+    robotics; RJ Scaringe chairman); updated kleiner-perkins.md portfolio
 - title: Origin Lab raises $8M to help video game companies sell data to world-model
     builders
   url: https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/
@@ -135,7 +141,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-13'
   slug: origin-lab
-  notes: created origin-lab.md ($8M Seed 2026-05-13 led by Lightspeed Ventures; SV Angel, Eniac, Seven Stars, FPV + angels Kevin Lin and Kyle Vogt; video game data marketplace for AI world models)
+  notes: created origin-lab.md ($8M Seed 2026-05-13 led by Lightspeed Ventures; SV
+    Angel, Eniac, Seven Stars, FPV + angels Kevin Lin and Kyle Vogt; video game data
+    marketplace for AI world models)
 - title: Anduril Raises Another $5B As Defense Tech Startups Shatter Funding Records
   url: https://news.crunchbase.com/defense-tech/anduril-5b-valuation-vc-funding-record-data/
   source: crunchbase
@@ -144,7 +152,8 @@ pending_rounds:
   parsed_amount: $5B
   parsed_round: null
   status: skipped
-  skip_reason: already shipped 2026-05-13 as anduril-industries.md update ($5B Series H, Thrive+a16z co-led at $61B val)
+  skip_reason: already shipped 2026-05-13 as anduril-industries.md update ($5B Series
+    H, Thrive+a16z co-led at $61B val)
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/13/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-13-2026/
   source: alleywatch
@@ -154,7 +163,8 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed: '2026-05-13'
-  notes: daily aggregator; primary rounds already covered (Mind Robotics, Origin Lab, Anduril)
+  notes: daily aggregator; primary rounds already covered (Mind Robotics, Origin Lab,
+    Anduril)
 - title: Belgium’s Holmes launches with €1.1 million pre-Seed to catch software bugs
     before they reach users
   url: https://www.eu-startups.com/2026/05/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/
