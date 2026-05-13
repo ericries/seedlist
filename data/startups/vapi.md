@@ -1,36 +1,39 @@
 ---
-name: Vapi
-slug: vapi
-type: startup
-website: https://vapi.ai/
-location: San Francisco, CA
+firms:
+- date: 2026-05-12
+  round: series-b
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-05-12
+  round: series-b
+  slug: bessemer-venture-partners
+  year: 2026
 founded: 2023
-status_company: active
+founders:
+- name: Jordan Dearsley
+  role: Co-Founder & CEO
+- name: Nikhil Gupta
+  role: Co-Founder
+investors:
+- round: Series A (led, $20M)
+  slug: byron-deeter
+  year: 2024
+last_researched: 2026-05-13
+location: San Francisco, CA
+name: Vapi
 sector:
 - ai
 - voice-ai
 - developer-tools
 - infrastructure
 - ai-agents
+slug: vapi
 stage_latest: Series B
-total_raised: $72M
-investors: []
-firms:
-- slug: kleiner-perkins
-  round: series-b
-  year: 2026
-  date: 2026-05-12
-- slug: bessemer-venture-partners
-  round: series-b
-  year: 2026
-  date: 2026-05-12
-founders:
-- name: Jordan Dearsley
-  role: Co-Founder & CEO
-- name: Nikhil Gupta
-  role: Co-Founder
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: $72M
+type: startup
+website: https://vapi.ai/
 ---
 
 ## About

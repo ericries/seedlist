@@ -18685,7 +18685,7 @@ queue:
 - name: Aman Gupta
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: boAt / Shark Tank India
   discovered_from: anupam-mittal
@@ -18817,7 +18817,7 @@ queue:
 - name: Tom Glocer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Angelic Ventures (independent angel)
   discovered_from: edward-tian
@@ -21835,3 +21835,175 @@ queue:
   firm: Vapi
   discovered_from: vapi
   source: Co-founder & CEO of Vapi (enterprise voice AI)
+- name: Angelic Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Capitolis
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: BlueVoyant
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Gil Mandelzis
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Capitolis
+  discovered_from: tom-glocer
+- name: Jim Rosenthal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BlueVoyant
+  discovered_from: tom-glocer
+- name: Communitas Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Doug Atkin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Communitas Capital
+  discovered_from: tom-glocer
+- name: Duncan Niederauer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Communitas Capital
+  discovered_from: tom-glocer
+- name: Canapi Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: 9Yards Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Liberty Strategic Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Symphony Communication Services
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Taktile
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tom-glocer
+- name: Jack Kokko
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AlphaSense
+  discovered_from: tom-glocer
+- name: Sameer Mehta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: boAt Lifestyle
+  discovered_from: aman-gupta
+- name: Ritesh Agarwal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OYO
+  discovered_from: aman-gupta
+- name: Viraj Bahl
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Veeba
+  discovered_from: aman-gupta
+- name: Nithin Kamath
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Zerodha
+  discovered_from: aman-gupta
+- name: Nikhil Kamath
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gruhas
+  discovered_from: aman-gupta
+- name: boAt Lifestyle
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: OFF/BEAT Studios
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: Warburg Pincus
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: Shiprocket
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: Let's Try
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: 10Club
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: STAGE
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta
+- name: Hammer
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aman-gupta

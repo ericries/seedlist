@@ -1,11 +1,20 @@
 ---
-name: Isomorphic Labs
-slug: isomorphic-labs
-type: startup
-website: https://www.isomorphiclabs.com/
-location: London, United Kingdom
+firms:
+- date: 2026-05-12
+  round: series-b
+  slug: thrive-capital
+  year: 2026
 founded: 2021
-status_company: active
+founders:
+- name: Demis Hassabis
+  role: Founder
+investors:
+- round: Growth
+  slug: josh-kushner
+  year: 2024
+last_researched: 2026-05-13
+location: London, United Kingdom
+name: Isomorphic Labs
 sector:
 - biotech
 - ai
@@ -13,19 +22,13 @@ sector:
 - ai-research
 - pharma
 - deep-tech
+slug: isomorphic-labs
 stage_latest: Series B
-total_raised: $2.7B+
-investors: []
-firms:
-- slug: thrive-capital
-  round: series-b
-  year: 2026
-  date: 2026-05-12
-founders:
-- name: Demis Hassabis
-  role: Founder
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: $2.7B+
+type: startup
+website: https://www.isomorphiclabs.com/
 ---
 
 ## About
