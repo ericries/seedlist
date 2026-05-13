@@ -111,8 +111,8 @@ Based on 8VC's verified portfolio and public data:
 | Glimpse | Seed / Series A | 2025–2026 | Fintech / Retail Tech | Private [^9] |
 | eMed | Series A | 2026-03-26 | Healthcare/AI Telehealth | Private [^10][^16][^17] |
 | Alloy Therapeutics | Series E (co-led, $40M) | 2026-04-15 | Biotech/Drug Discovery | Private [^11][^26][^27] |
-| Loop | Series C | 2026 | AI/Supply Chain | Private [^12] |
-| Rilian | Seed (co-led) | 2026 | AI/Cybersecurity/Defense | Private [^13] |
+| Loop | Series C (participated) | 2026-04-17 | AI/Supply Chain | Private [^12] |
+| Rilian | Seed (co-led, $17.5M) | 2026-04-23 | AI/Cybersecurity/Defense | Private [^13][^28] |
 | Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^18][^19] |
 | Sauron | Seed (participated, $18M) | 2024-12-05 | Home Security / AI | Private [^20][^21][^22] |
 
@@ -175,3 +175,6 @@ No independently sourced founder testimonials found.
 [^26]: BusinessWire, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260415032940/en/Alloy-Therapeutics-Announces-$40M-Series-E-to-Scale-Tech-Enabled-Biotech-Infrastructure — Primary press-wire source confirming April 15, 2026 announcement of $40M Series E at $1B valuation, co-led by 8VC, JIC Venture Growth Investments, and Echo Capital. Includes Alex Kolicich (8VC) quote on "x-in-the-loop" AI integration strategy.
 
 [^27]: PharmiWeb, "Alloy Therapeutics Announces $40M Series E to Scale Tech-Enabled Biotech Infrastructure," April 15, 2026, accessed May 2026. https://www.pharmiweb.com/press-release/2026-04-15/alloy-therapeutics-announces-40m-series-e-to-scale-tech-enabled-biotech-infrastructure — Independent confirmation of the April 15, 2026 Series E announcement with 8VC as co-lead investor.
+
+
+[^28]: BusinessWire, "Rilian Secures $17.5 Million in Seed Funding to Advance Agentic AI for Cyber and Defense Operations," April 23, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260423773644/en/Rilian-Secures-$17.5-Million-in-Seed-Funding-to-Advance-Agentic-AI-for-Cyber-and-Defense-Operations — $17.5M Seed announced April 23, 2026, co-led by 8VC, First In, and Tamarack Global; participation from 8090 Industries, Liquid 2 Ventures, Perot Jain, and Protego Ventures. McLean, VA-based agentic AI for cyber and defense.

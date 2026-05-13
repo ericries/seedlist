@@ -126,7 +126,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | DiffuseDrive | Seed (co-led) | 2025-05-14 | Generative AI for robotics | [^13][^19] |
 | Catalyx Space | Seed (led, $5.4M) | 2025-10-30 | Orbital logistics/space | [^14][^20] |
 | Flock AI | Pre-seed | 2025 | AI visual commerce/fashion | [^15] |
-| Material Hybrid Manufacturing | Seed | 2026 | 3D-printed batteries/energy | [^16] |
+| Material Hybrid Manufacturing | Seed (co-led, $7.1M) | 2026-01-12 | 3D-printed batteries/energy | [^16] |
 | Flock AI (follow-on) | Seed | 2026 | AI visual commerce/fashion | [^15] |
 | Havoc | Series A | 2026-05-12 | Maritime/multi-domain autonomy/defense | [^21] |
 

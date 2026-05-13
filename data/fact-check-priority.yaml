@@ -1,8 +1,4 @@
 priority:
-  - slug: kleiner-perkins
-    type: firm
-    reason: "led Mind Robotics $400M (2026-05-13) — verify portfolio table addition"
-    added: 2026-05-13
   - slug: cavu-consumer-partners
     type: firm
     reason: "led 4AM Seed (2026-05-11) — may need new profile"
@@ -15,10 +11,6 @@ priority:
     type: firm
     reason: "co-led Fractile Series B (2026-05-13, $220M); participated in Anduril Series H (2026-05-13)"
     added: 2026-05-13
-  - slug: 8vc
-    type: firm
-    reason: "participated in Fractile Series B (2026-05-13, $220M)"
-    added: 2026-05-13
   - slug: buckley-ventures
     type: firm
     reason: "participated in Fractile Series B (2026-05-13, $220M) — may need new profile"
@@ -29,5 +21,5 @@ priority:
     added: 2026-05-13
   - slug: lightspeed-venture-partners
     type: firm
-    reason: "led Judgment Labs Seed+Series A (2026-05-12, $32M)"
+    reason: "led Judgment Labs Seed+Series A (2026-05-12, $32M); led Origin Lab Seed (2026-05-13)"
     added: 2026-05-13
