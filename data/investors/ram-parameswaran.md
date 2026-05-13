@@ -70,7 +70,7 @@ Based on 16 public equity positions disclosed in Octahedron Capital's Q4 2025 13
 
 **Conviction and position sizing:** Parameswaran narrows his coverage to 50-60 stocks across three to four areas (e-commerce, internet, software) to achieve what he describes as an 80-90% hit rate [^7]. He has expressed that this focused approach is superior to broader diversification.
 
-**Private investments:** Known private investments include Treebo (Indian hotel chain, Series D, 2020), Chaayos (Indian tea cafe chain, 2020), and Modak (Latin American family fintech, Seed, 2022) [^18]. At Altimeter, he led pre-IPO investments in ByteDance, Uber, Square, Pinduoduo, and Udaan [^8][^3].
+**Private investments:** Known private investments include Treebo (Indian hotel chain, Series D, 2020) and Modak (Latin American family fintech, Seed, 2022) [^18]. At Altimeter, he led pre-IPO investments in ByteDance, Uber, Square, Pinduoduo, and Udaan [^8][^3].
 
 **Notable pattern:** Strong bias toward internet-economy companies with network effects, marketplace dynamics, or platform economics. Emerging-market internet platforms are a particular strength, reflecting his personal background (Indian-born) and career experience covering Chinese and Indian tech.
 
@@ -121,7 +121,6 @@ Based on 16 public equity positions disclosed in Octahedron Capital's Q4 2025 13
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Treebo | Series D | 2020 | Hospitality (India) | [^18] |
-| Chaayos | Unknown | ~2020 | F&B (India) | [^18] |
 | Modak | Seed | 2022 | Fintech (Latin America) | [^18] |
 
 ### Pre-Octahedron Investments (at Altimeter Capital)

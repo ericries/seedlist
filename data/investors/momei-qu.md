@@ -93,7 +93,7 @@ Based on 13 verified investments where Qu's personal involvement can be confirme
 | Higharc | 2024 | Series B ($53M) | [^16] |
 | Air Space Intelligence | ~2022 | Undisclosed round (listed as PSP holding; not named in primary press releases for 2021 Series A or 2023 Series B) | [^21][^24] |
 | VTS | ~2020 | Undisclosed round (listed as PSP holding; not named in primary press releases for 2019 Series D or 2022 Series E) | [^21][^25] |
-| Adept | 2023 | Undisclosed (Exited 2024) | [^20] |
+| Adept | 2023-03-14 | Series B ($350M, co-led by General Catalyst and Spark Capital; Exited to Amazon 2024) | [^20][^27][^28] |
 | Nominal | 2026-03-05 | Series B-2 Acceleration ($80M) | [^26] |
 
 This table represents 15 verified investments attributed to Momei Qu through PSP Growth. PSP Growth's broader portfolio includes additional investments (Finix, ID.me, Ellevest, Guidewheel, PassiveLogic, OfferFit, QA Wolf, Pronto Housing) where Qu's personal involvement is not independently confirmed but is likely given her role as head of the venture arm.
@@ -149,3 +149,5 @@ Note: This is a general statement about the investor group rather than a specifi
 [^24]: GlobeNewswire, "Air Space Intelligence Secures $34M Series B Financing Led by a16z," December 7, 2023, accessed April 2026. https://www.globenewswire.com/news-release/2023/12/07/2792534/0/en/Air-Space-Intelligence-Secures-34M-Series-B-Financing-Led-by-a16z.html
 [^25]: Commercial Observer, "VTS Raises $125M in Funding Round Led by CBRE," September 2022, accessed April 2026. https://commercialobserver.com/2022/09/vts-fundraising-cbre/
 [^26]: GlobeNewswire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026, accessed April 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html
+[^27]: TechCrunch, "Adept, a startup training AI to use existing software and APIs, raises $350M," March 15, 2023, accessed May 2026. Lists PSP Growth among Series B participants alongside General Catalyst (co-lead), Spark Capital (co-lead), Addition, Greylock, Atlassian Ventures, Microsoft, Nvidia, Workday Ventures, Caterina Fake, Frontiers Capital, SV Angel, and A.Capital. https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/
+[^28]: Adept Labs, "Press Release: Adept announces $350M of new capital," March 14, 2023, accessed May 2026. Adept official press release for Series B; round co-led by General Catalyst and Spark Capital with PSP Growth participation. https://www.adept.ai/press/press-release-series-b/

@@ -101765,7 +101765,8 @@ vague_facts:
   profile: investors/momei-qu
   profile_name: Momei Qu
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved_note: "Adept Series B announced 2023-03-14: $350M, co-led by General Catalyst and Spark Capital, with PSP Growth participation. Primary sources: TechCrunch (Mar 15, 2023), Adept Labs official press release (Mar 14, 2023), Crunchbase funding round. Updated momei-qu profile with date+stage+amount; added Adept row to psp-partners firm profile."
   type: unknown_value
   value: '[^20]'
 - column: 2
@@ -112318,7 +112319,8 @@ vague_facts:
   profile: investors/ram-parameswaran
   profile_name: Ram Parameswaran
   section: Portfolio
-  status: pending
+  status: unresolvable
+  resolved_note: "Removed entry from profile (2026-05-12). Three primary sources for Chaayos rounds (Feb 2020 Series B2, BusinessToday; Jun 2022 Series C, Inc42 + viestories) do not name Octahedron Capital, Altimeter, Falcon Edge, or Ram Parameswaran. Only Tracxn (aggregator) linked them; per anti-hallucination rules, removed unsourceable claim from Ram Parameswaran's private investments table and from Inferred Thesis text."
   type: unknown_value
   value: Unknown
 - column: 4

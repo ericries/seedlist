@@ -64,7 +64,7 @@ Matt Kinsella, former Managing Director (now CEO of portfolio company Infleqtion
 
 Based on 21 verified portfolio investments from the Maverick Ventures website and press coverage:
 
-**Sector breakdown:** Healthcare dominates the portfolio. 14 of 21 verified investments (67%) are in healthcare or digital health companies (Hims & Hers, Devoted Health, One Medical, Cityblock Health, Chapter, Garner Health, Oula, Nourish, House Rx, Notable Health, Mandolin, Daffodil Health, VetCove, Collective Health). 4 of 21 (19%) are in AI/enterprise (MosaicML, Retool, BioCatch, Aurascape AI). 2 of 21 (10%) are in consumer/commerce (Coupang, LTK). 1 of 21 (5%) is in deep tech/quantum (Infleqtion).
+**Sector breakdown:** Healthcare dominates the portfolio. 14 of 20 verified investments (70%) are in healthcare or digital health companies (Hims & Hers, Devoted Health, One Medical, Cityblock Health, Chapter, Garner Health, Oula, Nourish, House Rx, Notable Health, Mandolin, Daffodil Health, VetCove, Collective Health). 3 of 20 (15%) are in AI/enterprise (MosaicML, Retool, BioCatch). 2 of 20 (10%) are in consumer/commerce (Coupang, LTK). 1 of 20 (5%) is in deep tech/quantum (Infleqtion).
 
 **Stage distribution:** The firm invests primarily at seed and Series A, with some Series B participation. Typical check sizes range from $3 million to $10 million [^10]. Several investments (Hims, Cityblock, Infleqtion, Chapter) were made at the seed stage, with the firm following on into later rounds.
 
@@ -82,7 +82,6 @@ Based on 21 verified portfolio investments from the Maverick Ventures website an
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Aurascape AI | Seed | ~2025 | AI/Cybersecurity | Active [^7] |
 | BioCatch | Early Stage | ~2020 | AI/Cybersecurity | Acquired by Permira ($1.3B, 2024) [^14] |
 | Cambio | Series A | 2026 | AI/Real Estate | Active [^16] |
 | Chapter | Seed | ~2020 | Healthcare/Medicare | Active [^17] |
@@ -104,7 +103,7 @@ Based on 21 verified portfolio investments from the Maverick Ventures website an
 | Retool | Seed | ~2018 | Enterprise/Developer Tools | Active [^27] |
 | VetCove | Seed | 2016 | Healthcare/Veterinary | Active [^24] |
 
-This table represents approximately 21 of Maverick Ventures' 207 reported investments (~10%). The full portfolio spans over 100 companies across healthcare, enterprise, consumer, and deep tech sectors [^11].
+This table represents approximately 20 of Maverick Ventures' 207 reported investments (~10%). The full portfolio spans over 100 companies across healthcare, enterprise, consumer, and deep tech sectors [^11].
 
 ## In Their Own Words
 

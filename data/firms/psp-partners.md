@@ -92,6 +92,7 @@ Based on 21 verified venture/growth investments by PSP Growth and PSP Partners i
 | Coinbase | Growth (Exited — IPO) | 2019 | Cryptocurrency exchange | [^7] |
 | Piazza | Series B (Exited — acquired) | 2014 | Collaborative learning platform | [^7] |
 | Beachfront | Acquisition | 2017 | Mobile video advertising | [^9] |
+| Adept | Series B (participated) | 2023-03-14 | AI / ML | [^30][^31] |
 
 This table represents PSP Growth's verified technology investments. PSP Partners also holds significant positions in buyout-stage companies through PSP Capital (including DEPT, Ntiva, E.B. Bradley, StormTrap) and real estate through Pritzker Realty Group, as well as legacy Pritzker family investments (Hyatt Hotels, Albertsons) [^7].
 
@@ -157,3 +158,5 @@ Note: The founder quotes above are primarily from PSP Capital (buyout) portfolio
 [^28]: PSP Partners, "Ntiva Success Story," accessed April 2026. https://www.psppartners.com/success-story/ntiva/
 
 [^29]: PR Newswire, "Pronto Housing brings total funding to $9.5MM with Strategic Investment from Affordable Housing Leaders," accessed May 2026. https://www.prnewswire.com/news-releases/pronto-housing-brings-total-funding-to-9-5mm-with-strategic-investment-from-affordable-housing-leaders-302072742.html — Independent confirmation of February 22, 2022 Strategic Partnerships announcement bringing total funding to $4.5M (later $9.5M after subsequent rounds); PSP Growth, Fifth Wall, Alate Partners, Valley National Bank, and Noho Ventures participated.
+[^30]: TechCrunch, "Adept, a startup training AI to use existing software and APIs, raises $350M," March 15, 2023, accessed May 2026. Lists PSP Growth among Series B participants alongside General Catalyst (co-lead), Spark Capital (co-lead), Addition, Greylock, Atlassian Ventures, Microsoft, Nvidia, Workday Ventures, Caterina Fake, Frontiers Capital, SV Angel, and A.Capital. https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/
+[^31]: Adept Labs, "Press Release: Adept announces $350M of new capital," March 14, 2023, accessed May 2026. Official Adept Series B announcement co-led by General Catalyst and Spark Capital with PSP Growth participation. https://www.adept.ai/press/press-release-series-b/
