@@ -15,3 +15,31 @@ priority:
     type: firm
     reason: "led Elliptic Series D (2026-05-12, $120M at $670M val) — may need new profile"
     added: 2026-05-13
+  - slug: accel
+    type: firm
+    reason: "co-led Fractile Series B (2026-05-13, $220M)"
+    added: 2026-05-13
+  - slug: founders-fund
+    type: firm
+    reason: "co-led Fractile Series B (2026-05-13, $220M)"
+    added: 2026-05-13
+  - slug: conviction
+    type: firm
+    reason: "participated in Fractile Series B (2026-05-13, $220M)"
+    added: 2026-05-13
+  - slug: 8vc
+    type: firm
+    reason: "participated in Fractile Series B (2026-05-13, $220M)"
+    added: 2026-05-13
+  - slug: buckley-ventures
+    type: firm
+    reason: "participated in Fractile Series B (2026-05-13, $220M)"
+    added: 2026-05-13
+  - slug: kleiner-perkins
+    type: firm
+    reason: "participated in Vapi Series B (2026-05-12, $50M)"
+    added: 2026-05-13
+  - slug: bessemer-venture-partners
+    type: firm
+    reason: "participated in Vapi Series B (2026-05-12, $50M)"
+    added: 2026-05-13

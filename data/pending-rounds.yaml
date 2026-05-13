@@ -38,6 +38,57 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: Anduril raises $5B, doubles valuation to $61B
+  url: https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/
+  source: techcrunch
+  date_found: '2026-05-13'
+  parsed_company: Anduril
+  parsed_amount: $5B
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: Physician-Founded Saile Raises $2.2M To Help Doctors Find Side
+    Jobs Using AI'
+  url: https://news.crunchbase.com/health-wellness-biotech/saile-doctors-side-jobs-central-platform-credentials/
+  source: crunchbase
+  date_found: '2026-05-13'
+  parsed_company: Physician-Founded Saile
+  parsed_amount: $2.2M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Agtech Startups Face A Drier Funding Climate'
+  url: https://news.crunchbase.com/agtech-foodtech/startup-vc-funding-ai-automation-data/
+  source: crunchbase
+  date_found: '2026-05-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The April 2026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/05/us-venture-capital-statistics-april-2026/
+  source: alleywatch
+  date_found: '2026-05-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: France’s Mantle8 raises €31 million to fund the world’s most advanced natural
+    hydrogen exploration and drilling campaign
+  url: https://www.eu-startups.com/2026/05/frances-mantle8-raises-e31-million-to-fund-the-worlds-most-advanced-natural-hydrogen-exploration-and-drilling-campaign/
+  source: eu-startups
+  date_found: '2026-05-13'
+  parsed_company: France’s Mantle8
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona’s Dolfin raises €2.1 million Seed round to scale its AI-native
+    platform for sales compensation
+  url: https://www.eu-startups.com/2026/05/barcelonas-dolfin-raises-e2-1-million-seed-round-to-scale-its-ai-native-platform-for-sales-compensation/
+  source: eu-startups
+  date_found: '2026-05-13'
+  parsed_company: Barcelona’s Dolfin
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Belgium’s Holmes launches with €1.1 million pre-Seed to catch software bugs
     before they reach users
   url: https://www.eu-startups.com/2026/05/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/
@@ -980,61 +1031,3 @@ pending_rounds:
   processed: '2026-05-05'
   notes: covered by nace-ai.md ($21.5M cumulative seed; GC-led with .406 Ventures,
     AICONIC, Coalition Operators, MA7)
-- title: Pumpkinseed raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Pumpkinseed
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-05'
-  notes: covered by pumpkinseed.md ($20M Series A 2026-05-05 co-led by NFX + Future
-    Ventures)
-- title: Degen raised $15M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Degen
-  parsed_amount: $15M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-06'
-  notes: covered by mother-tech.md (Degen is the AI creative app; $15M Seed 2026-05-05
-    GV-led)
-- title: Noho Labs raised $16M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Noho Labs
-  parsed_amount: $16M
-  parsed_round: null
-  status: skipped
-  skip_reason: small / sector unverified
-- title: PlayReplay raised $12M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: PlayReplay
-  parsed_amount: $12M
-  parsed_round: null
-  status: skipped
-  skip_reason: small / sector unverified
-- title: Village raised $9.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Village
-  parsed_amount: $9.5M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small $9.5M seed; sector unverified
-- title: Moritz raised $9M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: Moritz
-  parsed_amount: $9M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact / unverified company

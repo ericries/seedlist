@@ -121,7 +121,7 @@ Anduril Industries is a defense technology company founded in June 2017 by Palme
 | Dec 2022 | Series E | $1.48B | Valor Equity Partners | Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom [^7] |
 | Aug 2024 | Series F | $1.5B | Founders Fund, Sands Capital (co-lead) | Fidelity, Franklin Venture Partners, Altimeter [^8][^9] |
 | Jun 2025 | Series G | $2.5B | Founders Fund ($1B) | Sands Capital, Andreessen Horowitz, Fidelity, General Catalyst [^2][^10] |
-| Mar 2026 | Series H | ~$4B | Andreessen Horowitz, Thrive Capital (co-lead) | Founders Fund, Lux Capital [^11][^12] |
+| 2026-05-13 | Series H | $5B (at $61B val) | Thrive Capital, Andreessen Horowitz | Founders Fund, Lux Capital [^11][^12][^13] |
 
 Total raised: over $10 billion [^12]. Valued at ~$60 billion as of March 2026 [^11].
 
@@ -149,3 +149,5 @@ Brian Schimpf, CEO and co-founder, on Anduril's Series C:
 [^10]: TechCrunch, "Anduril raises $2.5B at $30.5B valuation led by Founders Fund," June 2025. https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/
 [^11]: TechCrunch, "Anduril aims at $60 billion valuation in new funding round," March 2026. https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/
 [^12]: Axios, "Anduril raising $4 billion at a $60 billion valuation," March 2026. https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation
+
+[^13]: Bloomberg, "Anduril Valued at $61 Billion in Round Led by Thrive, Andreessen," May 13, 2026. Accessed May 2026. https://www.bloomberg.com/news/articles/2026-05-13/anduril-valued-at-61-billion-in-round-led-by-thrive-andreessen — $5B Series H announced May 13, 2026, co-led by Thrive Capital and Andreessen Horowitz at $61B post-money valuation; doubling from June 2025 $30.5B valuation. Cross-referenced with CNBC, "Anduril doubles valuation to over $60 billion as defense tech funding boom continues," May 13, 2026. https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html — confirms 2025 revenue more than doubled to $2.2B.

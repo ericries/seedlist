@@ -21710,3 +21710,128 @@ queue:
   firm: Havoc
   discovered_from: havoc
   source: CEO of Havoc (Series A 2026-05-12)
+- name: JMI Equity
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaiia
+  source: led gaiia $40M Series B (2026-05-12), Montreal telecom AI
+- name: Inovia Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaiia
+  source: participated in gaiia $40M Series B (2026-05-12)
+- name: M12
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vapi
+  source: Microsoft Venture Fund — participated in Vapi $50M Series B (2026-05-12)
+- name: Factorial Funds
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fractile
+  source: co-led Fractile $220M Series B (2026-05-13), AI inference chips
+- name: Gigascale
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fractile
+  source: participated in Fractile $220M Series B (2026-05-13)
+- name: O1A
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fractile
+  source: participated in Fractile $220M Series B (2026-05-13)
+- name: Walter Goodwin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fractile
+  discovered_from: fractile
+  source: Founder & CEO of Fractile (Oxford PhD, AI inference chips)
+- name: Brighteye
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gyver
+  source: led Gyver €1.4M pre-seed (2026-05-13), European edtech/workforce
+- name: āltitude
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gyver
+  source: participated in Gyver €1.4M pre-seed (2026-05-13)
+- name: Vento Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gyver
+  source: participated in Gyver €1.4M pre-seed (2026-05-13)
+- name: Zanichelli Venture
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gyver
+  source: participated in Gyver €1.4M pre-seed (2026-05-13)
+- name: Antler
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gyver
+  source: existing investor in Gyver pre-seed (2026-05-13); major global early-stage
+    platform
+- name: Prime Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nivasa-finance
+  source: led Nivasa Finance ₹25 Cr seed (2026-05-13), India housing lending
+- name: Blume Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nivasa-finance
+  source: participated in Nivasa Finance ₹25 Cr seed (2026-05-13), major Indian early-stage
+    VC
+- name: Whiteboard Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nivasa-finance
+  source: participated in Nivasa Finance ₹25 Cr seed (2026-05-13), India
+- name: Samit Shetty
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Nivasa Finance
+  discovered_from: nivasa-finance
+  source: Co-founder of Nivasa Finance; previously founded Chaitanya India Fin Credit
+    (acq. by Navi), first CEO of Navi Finserve
+- name: Jordan Dearsley
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Vapi
+  discovered_from: vapi
+  source: Co-founder & CEO of Vapi (enterprise voice AI)
