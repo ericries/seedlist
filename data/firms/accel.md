@@ -201,13 +201,13 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Anysphere (Cursor) | Series D ($2.3B, co-led with Coatue) | 2025-11-13 | AI/Developer Tools | [^58][^59] |
 | Lovable | Series A ($200M, led, $1.8B valuation) | 2025-07-17 | AI / App Builder | [^9][^38][^39][^40] |
 | True Anomaly | Series D ($650M) | 2026-04-28 | Space/Defense | [^9][^44] |
-| True Anomaly | Series C | 2025 | Space/Defense | [^9] |
+| True Anomaly | Series C (led, $260M) | 2025-04-30 | Space/Defense | [^9][^60] |
 | Anthropic | Growth | 2024 | AI | [^9] |
 | Nebius Group | Growth | 2024 | AI Infrastructure | [^9] |
 | n8n | Series C ($180M, led) | 2025-10-09 | AI/Automation | [^9][^60][^61] |
 | Synthesia | Series C ($90M, led, $1B valuation) | 2023-06-13 | AI/Video | [^62][^63][^64] |
 | Synthesia | Series E ($200M, participated) | 2026-01-26 | AI/Video | [^65][^66] |
-| Cyera | Early | 2023 | AI/Cybersecurity | [^9] |
+| Cyera | Series B (led, $100M at $500M post-money) | 2023-06-27 | AI/Cybersecurity | [^9][^67][^68][^69] |
 | DJI | Early | 2013 | Hardware/Drones | [^6] |
 | Cloudera | Series A | 2008 | Data/Enterprise | [^6] |
 | Vox Media | Early | 2011 | Media | [^6] |
@@ -324,6 +324,8 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 
 [^59]: Institutional Investor, "Coatue Joins $2.3 Billion Bet on Hot AI Coding Platform," November 26, 2025. Accessed May 2026. https://www.institutionalinvestor.com/article/coatue-joins-23-billion-bet-hot-ai-coding-platform — Confirms Coatue co-led the $2.3B Series D financing with Accel, taking Anysphere valuation to $29.3 billion.
 
+[^60]: True Anomaly, "Announcing our $260M Fundraise," April 30, 2025. Accessed May 2026. https://www.trueanomaly.space/newsroom/announcing-our-260m-fundraise — Confirms $260M Series C announced April 30, 2025 led by Accel; Meritech Capital and existing investors Eclipse, Riot Ventures, Menlo Ventures, 645 Ventures, ACME Capital, Space VC, Champion Hill Ventures, and Narya participated. Stifel Bank provided debt capital.
+
 [^60]: n8n blog, "n8n raises $180m to get AI closer to value with orchestration," October 9, 2025, accessed May 2026. https://blog.n8n.io/series-c/ — Confirms $180M Series C led by Accel at $2.5B valuation; participants include Meritech, Redpoint, Evantic, Visionaries Club, NVentures, T.Capital, and existing backers Felicis, Sequoia, Highland Europe, HV Capital.
 
 [^61]: The SaaS News, "n8n Raises $180M Series C at $2.5B Valuation," October 2025, accessed May 2026. https://www.thesaasnews.com/news/n8n-raises-180m-series-c-at-2-5b-valuation — Confirms $180M Series C led by Accel.
@@ -337,3 +339,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^65]: Synthesia blog, "Synthesia raises $200 million Series E at $4 billion valuation," January 26, 2026, accessed May 2026. https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work — Series E led by Google Ventures; Accel listed as participating existing investor.
 
 [^66]: Sifted, "Synthesia hits $4bn valuation with $200m round led by Google Ventures," January 26, 2026, accessed May 2026. https://sifted.eu/articles/synthesia-4bn-valuation-200m-google-ventures — Contemporaneous press; confirms Accel's participation.
+
+[^67]: Cyera, "Cyera Secures $100 Million Series B Investment to Become the Data Security Platform Enabling the AI Revolution," June 27, 2023. Accessed May 2026. https://www.cyera.com/press-releases/cyera-secures-100-million-series-b-investment-to-become-the-data-security-platform-enabling-the-ai-revolution — Company's official Series B announcement. Confirms June 27, 2023 announcement date; $100M Series B led by Accel; participation from existing investors Sequoia and Cyberstarts, plus new investor Redpoint Ventures; total funding to $160M. Quote from Accel partner Philippe Botteri.
+
+[^68]: TechCrunch, "Data security startup Cyera lands a $100M investment," June 27, 2023. Accessed May 2026. https://techcrunch.com/2023/06/27/data-security-startup-cyera-lands-a-100m-investment/ — Contemporaneous press; confirms $100M Series B led by Accel with Sequoia, Cyberstarts, and Redpoint Ventures participating.
+
+[^69]: PR Newswire, "Cyera Secures $100 Million Series B Investment to Become the Data Security Platform Enabling the AI Revolution," June 27, 2023. Accessed May 2026. https://www.prnewswire.com/news-releases/cyera-secures-100-million-series-b-investment-to-become-the-data-security-platform-enabling-the-ai-revolution-301863568.html — Independent wire confirmation; $100M Series B led by Accel; Sequoia, Cyberstarts existing investors plus Redpoint new participant; $500M post-money valuation.

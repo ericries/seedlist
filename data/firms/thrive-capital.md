@@ -183,7 +183,8 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Anthropic | Series E | 2025-03-03 | AI | Private ($3.5B Series E at $61.5B post-money valuation, led by Lightspeed; Bessemer, Cisco, D1, Fidelity, General Catalyst, Jane Street, Menlo, Salesforce Ventures, and Thrive participated) [^19][^28][^29][^30] |
 | ElevenLabs | Series B | 2025 | AI / Voice | Private [^19] |
 | Hugging Face | Series D | 2023 | AI / ML Platform | Private [^19] |
-| Isomorphic Labs | Series A | 2025 | AI / Drug Discovery | Private [^9][^19] |
+| Isomorphic Labs | Series A (led, $600M) | 2025-03-31 | AI / Drug Discovery | Private [^9][^19][^31] |
+| Isomorphic Labs | Series B (led, $2.1B) | 2026-05-12 | AI / Drug Discovery | Private [^32] |
 | Lila Sciences | Seed | 2025 | AI / Scientific | Private [^19] |
 | Formation Bio | Series D | 2024 | Biotech / AI | Private [^13] |
 | Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^23] |
@@ -197,13 +198,13 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Fab | Early | ~2013 | Consumer / E-commerce | Shut down [^1] |
 | Juicero | Early | ~2016 | Consumer / Hardware | Shut down [^1] |
 | Visible Ideas | Early | ~2012 (founded) | Enterprise | Private [^3] |
-| Codegen | Growth | ~2023 | AI / Developer Tools | Private [^3] |
+| Codegen | Seed (led, $16M at $60M post-money) | 2023-11-16 | AI / Developer Tools | Private [^34][^35][^36] |
 | Revel | Growth | ~2024 | Enterprise | Private [^8] |
 | Scope Security | Incubated | ~2017 | Enterprise / Security | Private [^11] |
 | Cadence | Incubated | ~2018 | Enterprise | Private [^11] |
 | Shield Technology Partners | Growth | 2025 | AI / IT Services | Private [^19] |
-| Rogo | Series B | 2025 | AI / Finance | Private [^19] |
-| Rogo (follow-on) | Series D | 2026 | AI / Finance | Private [^20] |
+| Rogo | Series B (led, $50M) | 2025-04-30 | AI / Finance | Private [^19][^33] |
+| Rogo (follow-on) | Series D ($160M, participated; led by Kleiner Perkins) | 2026-04-29 | AI / Finance | Private [^20] |
 | Crete Professionals Alliance | Growth | ~2023 | Enterprise / Services | Private [^3] |
 | Nourish | Growth | ~2024 | Health Tech | Private [^8] |
 | OpenEvidence | Growth | ~2024 | AI / Health | Private [^8] |
@@ -329,3 +330,15 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^28]: Anthropic, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025, accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
 [^29]: TechCrunch, "Anthropic raises $3.5B to fuel its AI ambitions," March 3, 2025, accessed May 2026. https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/
 [^30]: Lightspeed Venture Partners, "Lightspeed Announces Lead Investment in Anthropic's $3.5B Series E Financing," March 3, 2025, accessed May 2026. https://lsvp.com/stories/lightspeed-announces-lead-investment-in-anthropics-3-5b-series-e-financing/
+
+[^31]: Isomorphic Labs, "Isomorphic Labs announces $600m external investment round," March 31, 2025. Accessed May 2026. https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round — Confirms March 31, 2025 announcement; $600M first external funding led by Thrive Capital with GV participating and Alphabet (existing investor) following on. Cross-referenced with TechCrunch, "Alphabet's AI drug discovery platform Isomorphic Labs raises $600M from Thrive," March 31, 2025. https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/
+
+[^32]: Isomorphic Labs, "Isomorphic Labs announces Series B investment round," May 12, 2026. Accessed May 2026. https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round — $2.1B Series B announced May 12, 2026, led by Thrive Capital with Alphabet and GV continuing, and MGX, Temasek, CapitalG, and UK Sovereign AI Fund joining as new investors.
+
+[^33]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms $50M Series B announced April 30, 2025, led by Thrive Capital at $350M post-money; J.P. Morgan Growth Equity Partners, Tiger Global, and Positive Sum Ventures participated.
+
+[^34]: TechCrunch, "Codegen raises new cash to automate software engineering tasks," November 16, 2023. Accessed May 2026. https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/ — Confirms November 16, 2023 announcement; $16M seed round led by Thrive Capital at $60M post-money valuation; angel participants include Quora CEO Adam D'Angelo and Instagram co-founder Mike Krieger. Quote from Thrive's Philip Clark on AI agent thesis.
+
+[^35]: The SaaS News, "Codegen Closes $16 Million in Seed Round," November 23, 2023. Accessed May 2026. https://www.thesaasnews.com/news/codegen-closes-16-million-in-seed-round — Contemporaneous coverage confirming $16M seed, Thrive Capital lead, San Francisco-based, angel participation from D'Angelo and Krieger.
+
+[^36]: Picus Capital, LinkedIn post sharing Codegen funding news, November 2023. Accessed May 2026. https://www.linkedin.com/posts/picus-capital_codegen-raises-new-cash-to-automate-software-activity-7131608858925412353-O_P_ — Independent confirmation of $16M seed round led by Thrive Capital with D'Angelo and Krieger as angels.

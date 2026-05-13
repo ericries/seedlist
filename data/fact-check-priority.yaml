@@ -3,25 +3,13 @@ priority:
     type: firm
     reason: "led 4AM Seed (2026-05-11) — may need new profile"
     added: 2026-05-12
-  - slug: lightspeed-venture-partners
-    type: firm
-    reason: "led Judgment Labs Seed+Series A (2026-05-12, $32M)"
-    added: 2026-05-13
-  - slug: thrive-capital
-    type: firm
-    reason: "led Isomorphic Labs Series B (2026-05-12, $2.1B)"
-    added: 2026-05-13
   - slug: one-peak
     type: firm
     reason: "led Elliptic Series D (2026-05-12, $120M at $670M val) — may need new profile"
     added: 2026-05-13
-  - slug: accel
-    type: firm
-    reason: "co-led Fractile Series B (2026-05-13, $220M)"
-    added: 2026-05-13
   - slug: founders-fund
     type: firm
-    reason: "co-led Fractile Series B (2026-05-13, $220M)"
+    reason: "co-led Fractile Series B (2026-05-13, $220M); participated in Anduril Series H (2026-05-13)"
     added: 2026-05-13
   - slug: conviction
     type: firm
@@ -33,7 +21,7 @@ priority:
     added: 2026-05-13
   - slug: buckley-ventures
     type: firm
-    reason: "participated in Fractile Series B (2026-05-13, $220M)"
+    reason: "participated in Fractile Series B (2026-05-13, $220M) — may need new profile"
     added: 2026-05-13
   - slug: kleiner-perkins
     type: firm
@@ -47,15 +35,11 @@ priority:
     type: firm
     reason: "co-led Anduril Series H (2026-05-13, $5B at $61B val)"
     added: 2026-05-13
-  - slug: thrive-capital
-    type: firm
-    reason: "co-led Anduril Series H (2026-05-13)"
-    added: 2026-05-13
-  - slug: founders-fund
-    type: firm
-    reason: "participated in Anduril Series H (2026-05-13)"
-    added: 2026-05-13
   - slug: sandwater
     type: firm
     reason: "led Mantle8 Series A (2026-05-13) — may need new profile"
+    added: 2026-05-13
+  - slug: lightspeed-venture-partners
+    type: firm
+    reason: "led Judgment Labs Seed+Series A (2026-05-12, $32M)"
     added: 2026-05-13
