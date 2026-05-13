@@ -8136,7 +8136,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8192,6 +8192,11 @@
           "slug": "brad-garlinghouse",
           "name": "Brad Garlinghouse",
           "firm": "ripple"
+        },
+        {
+          "slug": "tom-glocer",
+          "name": "Tom Glocer",
+          "firm": "Angelic Ventures"
         }
       ]
     },
@@ -8368,7 +8373,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8444,6 +8449,11 @@
           "slug": "yuri-milner",
           "name": "Yuri Milner",
           "firm": "dst-global"
+        },
+        {
+          "slug": "tom-glocer",
+          "name": "Tom Glocer",
+          "firm": "Angelic Ventures"
         }
       ]
     },
@@ -8452,7 +8462,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8553,6 +8563,11 @@
           "slug": "yuri-milner",
           "name": "Yuri Milner",
           "firm": "dst-global"
+        },
+        {
+          "slug": "aman-gupta",
+          "name": "Aman Gupta",
+          "firm": "boAt Lifestyle"
         }
       ]
     },
@@ -9207,7 +9222,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 31,
+      "size": 34,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9362,6 +9377,21 @@
           "slug": "david-cohen",
           "name": "David Cohen",
           "firm": "techstars"
+        },
+        {
+          "slug": "vineeta-singh",
+          "name": "Vineeta Singh",
+          "firm": "SUGAR Cosmetics"
+        },
+        {
+          "slug": "aman-gupta",
+          "name": "Aman Gupta",
+          "firm": "boAt Lifestyle"
+        },
+        {
+          "slug": "tom-glocer",
+          "name": "Tom Glocer",
+          "firm": "Angelic Ventures"
         }
       ]
     },
@@ -9803,7 +9833,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 46,
+      "size": 48,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10034,6 +10064,16 @@
           "slug": "vani-kola",
           "name": "Vani Kola",
           "firm": "kalaari-capital"
+        },
+        {
+          "slug": "vineeta-singh",
+          "name": "Vineeta Singh",
+          "firm": "SUGAR Cosmetics"
+        },
+        {
+          "slug": "namita-thapar",
+          "name": "Namita Thapar",
+          "firm": "Emcure Pharmaceuticals"
         }
       ]
     },
@@ -11231,7 +11271,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 9,
+      "size": 12,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11276,6 +11316,21 @@
           "slug": "vani-kola",
           "name": "Vani Kola",
           "firm": "kalaari-capital"
+        },
+        {
+          "slug": "vineeta-singh",
+          "name": "Vineeta Singh",
+          "firm": "SUGAR Cosmetics"
+        },
+        {
+          "slug": "namita-thapar",
+          "name": "Namita Thapar",
+          "firm": "Emcure Pharmaceuticals"
+        },
+        {
+          "slug": "aman-gupta",
+          "name": "Aman Gupta",
+          "firm": "boAt Lifestyle"
         }
       ]
     },
@@ -11622,7 +11677,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11673,6 +11728,11 @@
           "slug": "mohit-saxena",
           "name": "Mohit Saxena",
           "firm": "inmobi"
+        },
+        {
+          "slug": "vineeta-singh",
+          "name": "Vineeta Singh",
+          "firm": "SUGAR Cosmetics"
         }
       ],
       "id": "curated-48"
@@ -11681,7 +11741,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 8,
+      "size": 10,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -11722,6 +11782,16 @@
           "slug": "mohit-saxena",
           "name": "Mohit Saxena",
           "firm": "inmobi"
+        },
+        {
+          "slug": "vineeta-singh",
+          "name": "Vineeta Singh",
+          "firm": "SUGAR Cosmetics"
+        },
+        {
+          "slug": "aman-gupta",
+          "name": "Aman Gupta",
+          "firm": "boAt Lifestyle"
         }
       ],
       "id": "curated-49"
