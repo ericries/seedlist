@@ -3,3 +3,15 @@ priority:
     type: firm
     reason: "led 4AM Seed (2026-05-11) — may need new profile"
     added: 2026-05-12
+  - slug: lightspeed-venture-partners
+    type: firm
+    reason: "led Judgment Labs Seed+Series A (2026-05-12, $32M)"
+    added: 2026-05-13
+  - slug: thrive-capital
+    type: firm
+    reason: "led Isomorphic Labs Series B (2026-05-12, $2.1B)"
+    added: 2026-05-13
+  - slug: one-peak
+    type: firm
+    reason: "led Elliptic Series D (2026-05-12, $120M at $670M val) — may need new profile"
+    added: 2026-05-13
