@@ -218,10 +218,10 @@ The following table includes a16z investments verified through the firm's own po
 | Notion | Growth | 2020 | Enterprise SaaS | Private [^10] |
 | Faire | Growth | 2022 | Marketplace | Private [^10] |
 | Harvey | Series F (led) | 2025-12-04 | AI / Legal | Private [^10][^34][^35] |
-| Cursor | Growth | 2025 | AI / Developer Tools | Private [^10] |
+| Cursor | Series D (participated) | 2025-11-13 | AI / Developer Tools | Private [^10][^44] |
 | ElevenLabs | Series B (co-led) | 2024-01-22 | AI / Voice | Private [^10][^36] |
 | Safe Superintelligence (SSI) | Series A | 2024-09-04 | AI | Private [^10][^38] |
-| Substack | Growth | 2025 | Creator Economy | Private [^10] |
+| Substack | Series C (participated) | 2025-07-17 | Creator Economy | Private [^10][^45] |
 | Shield AI | Series G (participated) | 2026-03-26 | Defense / Drones | Private [^10][^37] |
 | Hadrian | Growth | 2023 | Manufacturing | Private [^10] |
 | Flock Safety | Growth | 2022 | Public Safety | Private [^10] |
@@ -247,7 +247,7 @@ The following table includes a16z investments verified through the firm's own po
 | Aleo | Series B | 2022 | Crypto / Privacy | Private [^10] |
 | Anyscale | Series B | 2021 | AI / Infrastructure | Private [^10] |
 | AirGarage | Series A | 2022 | Real Estate / Parking | Private [^10] |
-| Aerodome | Series A | 2024 | Defense / Drones | Private [^10] |
+| Aerodome | Series A (participated) | 2024-05-22 | Defense / Drones | Private [^10][^46] |
 | Air Space Intelligence | Growth | 2024 | Defense / AI | Private [^10] |
 | 11x | Series A | 2024 | AI / Sales | Private [^10] |
 | Lio | Series A (led) | 2026-03-05 | AI / Enterprise / Procurement | Private [^22][^43] |
@@ -409,3 +409,9 @@ The following table includes a16z investments verified through the firm's own po
 [^42]: BusinessWire, "Tessera Labs Raises $60M in Funding Led by Andreessen Horowitz to Transform ERP Modernization," May 6, 2026. https://www.businesswire.com/news/home/20260506853624/en/Tessera-Labs-Raises-$60M-in-Funding-Led-by-Andreessen-Horowitz-to-Transform-ERP-Modernization — San Jose-based Tessera Labs, an AI-native ERP modernization platform founded in 2025 by CEO Kabir Nagrecha and COO Ming Chang, announced a $60M Series A on May 6, 2026 led by Andreessen Horowitz (partner Seema Amble joined the board) with participation from Foundation Capital, Myriad Venture Partners, and Osage University Partners. Cross-referenced with Tech Funding News, "a16z leads Tessera Labs $60M round to automate SAP and ERP migrations with AI," May 8, 2026. https://techfundingnews.com/tessera-labs-60m-series-a-a16z-erp-sap-migration-ai/
 
 [^43]: Lio Technologies, "Lio Technologies Raises $30M Series A to Bring Agentic AI to Enterprise Procurement," March 5, 2026. Accessed May 2026. https://lio.ai/newsroom/lio-technologies-raises-30m-series-a-to-bring-agentic-ai-to-enterprise-procurement — Munich-based Lio's $30M Series A announced March 5, 2026 led by Andreessen Horowitz (Partner Seema Amble) with SV Angel, Harry Stebbings, and Y Combinator participating. Total raised: $33M. Founded by Vlad Keil in 2023. Cross-referenced with TechCrunch, "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement," March 5, 2026. https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/
+
+[^44]: BusinessWire, "Cursor Secures $2.3 Billion Series D Financing at $29.3 Billion Valuation to Redefine How Software is Written," November 13, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20251113939996/en/Cursor-Secures-$2.3-Billion-Series-D-Financing-at-$29.3-Billion-Valuation-to-Redefine-How-Software-is-Written — Cursor's $2.3B Series D announced November 13, 2025, co-led by Accel and Coatue Management at $29.3B valuation; Andreessen Horowitz, Thrive Capital, DST Global, Google, and NVIDIA participated.
+
+[^45]: TechCrunch, "Substack raises $100M from Chernin Group, Andreessen Horowitz, Skims CEO, and more," July 17, 2025. Accessed May 2026. https://techcrunch.com/2025/07/17/substack-raises-100m-from-chernin-group-andreessen-horowitz-skims-ceo-and-more/ — Substack's $100M Series C announced July 17, 2025 at $1.1B valuation; co-led by BOND and The Chernin Group with Andreessen Horowitz, Rich Paul, and Jens Grede participating.
+
+[^46]: Aerodome blog, "Aerodome Raises $21.5M in Series A Funding Led by CRV," May 22, 2024. Accessed May 2026. https://www.aerodome.com/blog/series-a/ — $21.5M Series A announced May 22, 2024, led by CRV; Andreessen Horowitz, Karman Ventures, Immad Akhund, and Ford Street Ventures participated. Drone-as-first-responder platform; subsequently acquired by Flock Safety in October 2024 for over $300M.

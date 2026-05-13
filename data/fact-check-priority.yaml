@@ -23,10 +23,6 @@ priority:
     type: firm
     reason: "participated in Fractile Series B (2026-05-13, $220M) — may need new profile"
     added: 2026-05-13
-  - slug: andreessen-horowitz
-    type: firm
-    reason: "co-led Anduril Series H (2026-05-13, $5B at $61B val)"
-    added: 2026-05-13
   - slug: sandwater
     type: firm
     reason: "led Mantle8 Series A (2026-05-13) — may need new profile"
