@@ -15,10 +15,6 @@ priority:
     type: firm
     reason: "co-led Fractile Series B (2026-05-13, $220M); participated in Anduril Series H (2026-05-13)"
     added: 2026-05-13
-  - slug: conviction
-    type: firm
-    reason: "participated in Fractile Series B (2026-05-13, $220M)"
-    added: 2026-05-13
   - slug: 8vc
     type: firm
     reason: "participated in Fractile Series B (2026-05-13, $220M)"

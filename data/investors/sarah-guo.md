@@ -3,9 +3,9 @@ check_size: $1M-$25M
 firm: conviction
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Sola
-  date: 2025-08-14
-  round: Seed (led, $3.5M)
+  company: Baseten
+  date: 2026-01-23
+  round: Series E (participated, $300M)
 location: San Francisco, CA
 name: Sarah Guo
 role: Founder & General Partner
@@ -83,7 +83,7 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 
 **Conviction-era concentration:** Since founding Conviction in 2022, the portfolio has been almost exclusively AI-focused, representing a sharper sector focus than her Greylock years, which spanned software, security, and fintech [^2][^8].
 
-**Portfolio company valuations:** Conviction's portfolio includes several breakout AI companies: Harvey ($3B valuation), Mistral AI ($6B), Baseten ($825M), and Sierra ($4.5B) [^2].
+**Portfolio company valuations:** Conviction's portfolio includes several breakout AI companies: Harvey ($11B valuation), Mistral AI ($6B), Baseten ($5B as of January 2026 [^21]), and Sierra ($15.8B as of May 2026) [^2].
 
 **Founder profile patterns:** Guo seeks founders with deep technical expertise and domain knowledge who "move fast" [^8]. Her portfolio skews toward technical founders building AI-native products rather than applying AI as a feature [^2].
 
@@ -102,15 +102,15 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 | Harvey | Seed | 2022-11-23 | AI / Legal Tech | Active ($11B valuation) | [^2][^18][^19] |
 | Mistral AI | Series A | 2023-12-11 | AI / Open-source LLMs | Active ($14B valuation) | [^2][^10] |
 | Sierra | Early | 2023 | AI / Conversational AI | Active ($4.5B valuation) | [^2] |
-| Baseten | Seed | ~2022 | AI / Inference infrastructure | Active ($825M valuation) | [^2] |
+| Baseten | Series E (participated, $300M) | 2026-01-23 | AI / Inference infrastructure | Active ($5B valuation) | [^2][^20][^21][^22] |
 | Cognition | Early | ~2023 | AI / Software engineering | Active | [^8] |
-| HeyGen | Early | ~2023 | AI / Video generation | Active | [^8] |
+| HeyGen | Seed (led, $5.6M) | 2023-11-29 | AI / Video generation | Active | [^23][^24][^25] |
 | Cartesia | Seed | 2024-12-12 | AI / Foundation models | Active | [^8][^11] |
 | Onyx | Early | ~2023 | AI / Security | Active | [^8] |
 | Sola | Seed (led, $3.5M) | 2025-08-14 (announced) | AI Process Automation | Active | [^12][^13][^14] |
 | Sunday Robotics | Early | ~2023 | AI / Robotics | Active | [^8] |
 | Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^15][^16][^17] |
-| Open Evidence | Early | ~2023 | AI / Medical | Active | [^8] |
+| Open Evidence | Series B (participated, $210M) | 2025-07-15 | AI / Medical | Active ($3.5B valuation) | [^26][^27][^28] |
 
 ### Greylock Portfolio (2013-2022)
 
@@ -169,3 +169,21 @@ No independently sourced founder testimonials found. Guo's personal website refe
 [^18]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022, accessed May 2026. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Contemporaneous press confirming Harvey's $5M seed announcement on November 23, 2022, led by OpenAI Startup Fund with Jeff Dean and Elad Gil among other angel backers. The Harvey seed round was the first check Conviction (founded mid-2022 by Sarah Guo) wrote from its first fund.
 
 [^19]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent confirmation of November 23, 2022 announcement date.
+
+[^20]: Baseten blog, "Announcing Baseten's $300M Series E," accessed May 2026. https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/ — Company's own announcement of the $300M Series E at a $5B valuation; round led by IVP and CapitalG with participation from 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock, and NVIDIA.
+
+[^21]: BusinessWire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 23, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future — Primary press release dated January 23, 2026; $300M Series E at $5B valuation, IVP and CapitalG as leads, with Conviction listed among prior investors continuing to participate.
+
+[^22]: TechFundingNews, "Baseten nabs $300M from IVP, CapitalG to challenge Together AI in inference," accessed May 2026. https://techfundingnews.com/baseten-raises-300m-5b-valuation-nvidia/ — Independent confirmation of $300M Series E announced January 23, 2026 at $5B valuation.
+
+[^23]: Voicebot.ai, "Generative AI Video Startup HeyGen Raises $5.6M," December 1, 2023, accessed May 2026. https://voicebot.ai/2023/12/01/generative-ai-video-startup-heygen-raises-5-6m/ — Primary press source confirming HeyGen's $5.6M round led by Conviction Ventures at a $75M valuation; Sarah Guo joined HeyGen's board.
+
+[^24]: Maginative, "HeyGen Launches Avatar 2.0 and Announces $5.6 Million in New Funding," November 30, 2023, accessed May 2026. https://www.maginative.com/article/heygen-launches-avatar-2-0-and-announces-5-6-million-in-new-funding/ — Independent contemporaneous press confirming Conviction Partners led HeyGen's $5.6M round; Sarah Guo joined the board.
+
+[^25]: HeyGen Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/HeyGen — Confirms November 2023 $5.6M round from Sarah Guo's Conviction; Guo replaced HongShan's board seat. Establishes the November 2023 round as Seed (pre-Series A) since the June 2024 $60M Benchmark-led round is the Series A. Tracxn records the close date as November 29, 2023.
+
+[^26]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by GV and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
+
+[^27]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led; Sequoia (Series A lead), Coatue, Conviction, and Thrive participated.
+
+[^28]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation, with Coatue, Conviction, and Thrive Capital participating.

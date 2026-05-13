@@ -39,7 +39,7 @@ Mike Vernal, formerly a partner at Sequoia Capital, joined as general partner in
 
 Conviction invests with check sizes between $1 million and $25 million [^3]. The firm describes itself as often being the first institutional investor in its portfolio companies [^4].
 
-Notable portfolio companies include Harvey (legal AI, valued at $11 billion), Mistral (French open-source AI, valued at $6 billion), Baseten (inference platform, valued at $825 million), and Sierra (conversational AI, valued at $4.5 billion) [^2][^8]. As of 2025, the portfolio includes over 30 companies with 5 unicorns [^5].
+Notable portfolio companies include Harvey (legal AI, valued at $11 billion), Mistral (French open-source AI, valued at $6 billion), Baseten (inference platform, valued at $5 billion as of January 2026 [^44]), and Sierra (conversational AI, valued at $4.5 billion) [^2][^8]. As of 2025, the portfolio includes over 30 companies with 5 unicorns [^5].
 
 ## Stated Thesis
 
@@ -75,12 +75,12 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 |---------|-------|------|--------|--------|--------|
 | Harvey | Seed | 2022-11-23 | Legal AI | Active (unicorn, $11B) | [^2][^7][^8][^41][^42] |
 | Mistral | Series A | 2023-12-11 | AI Models | Active (unicorn, $14B) | [^2][^9] |
-| Baseten | Early | ~2022 | AI Infrastructure | Active ($825M) | [^2] |
+| Baseten | Series E (participated, $300M) | 2026-01-23 | AI Infrastructure | Active ($5B) | [^2][^43][^44][^45] |
 | Sierra | Early | ~2023 | Conversational AI | Active (unicorn, $4.5B) | [^2] |
 | Cognition | Early | ~2023 | AI Coding | Active | [^3] |
-| HeyGen | Early | ~2023 | AI Video | Active | [^3] |
+| HeyGen | Seed (led, $5.6M) | 2023-11-29 | AI Video | Active | [^46][^47][^48] |
 | Cartesia | Seed | 2024-12-12 | AI Models | Active (participated) | [^3][^10][^11][^12] |
-| Open Evidence | Early | ~2022 | Healthcare AI | Active | [^3] |
+| Open Evidence | Series B (participated, $210M) | 2025-07-15 | Healthcare AI | Active ($3.5B) | [^49][^50][^51] |
 | Sunday | Early | ~2023 | Robotics | Active | [^3] |
 | Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^22][^23][^24] |
 | Essential AI | Seed (participated, $8.3M) | ~2023 (disclosed 2023-12-11) | Enterprise AI/Agents | Active | [^3][^13][^14][^15] |
@@ -89,7 +89,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Latent (Latent Health) | Seed (participated) | 2023 | Healthcare AI | Active | [^19][^20][^21] |
 | Latent (Latent Health) | Series A (participated, $80M total) | 2026-03-23 | Healthcare AI | Active | [^19][^20][^21] |
 | Distributed Spectrum | Series A ($25M, co-led) | 2025-03-18 | AI/RF Sensing/Defense | Active | [^16][^17][^18] |
-| Mithril (fka Foundry) | Seed + Series A (participated, $80M total) | 2024-03-21 | AI compute / cloud infrastructure | Active | [^3][^39][^40][^41] |
+| Mithril (fka Foundry) | Seed + Series A (participated, $80M total) | 2024-03-21 | AI compute / cloud infrastructure | Active | [^3][^39][^40][^52] |
 | Onyx Security | Series A (co-led, $35M) | 2026-03-12 | AI Security / Agentic Control Plane | Active | [^32][^33][^34][^35] |
 | Listen Labs | Seed + Series A (participated, $27M combined) | 2025-04-23 | AI Customer Research | Active | [^3][^36][^37][^38] |
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
@@ -171,4 +171,22 @@ No independently sourced founder testimonials found. The firm's website describe
 
 [^42]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent contemporaneous press source confirming the November 23, 2022 announcement of Harvey's $5M seed round led by OpenAI Startup Fund.
 
-[^41]: Sequoia Capital, "Partnering with Mithril: AI Compute, On Demand," March 21, 2024, accessed May 2026. https://sequoiacap.com/article/partnering-with-mithril-ai-compute-on-demand/ — Sequoia's own post confirming participation in Mithril's seed (September 2022) and co-leading the Series A announced March 21, 2024.
+[^52]: Sequoia Capital, "Partnering with Mithril: AI Compute, On Demand," March 21, 2024, accessed May 2026. https://sequoiacap.com/article/partnering-with-mithril-ai-compute-on-demand/ — Sequoia's own post confirming participation in Mithril's seed (September 2022) and co-leading the Series A announced March 21, 2024.
+
+[^43]: Baseten blog, "Announcing Baseten's $300M Series E," accessed May 2026. https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/ — Company's own announcement of the $300M Series E at a $5B valuation; round led by IVP and CapitalG with participation from 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock, and NVIDIA. NVIDIA contributed $150M of the total.
+
+[^44]: BusinessWire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 23, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future — Primary press release confirming announcement date of January 23, 2026, $300M Series E at $5B valuation, IVP and CapitalG leads, NVIDIA as $150M anchor, with prior investors including Conviction listed among the $585M total raised.
+
+[^45]: TechFundingNews, "Baseten nabs $300M from IVP, CapitalG to challenge Together AI in inference," accessed May 2026. https://techfundingnews.com/baseten-raises-300m-5b-valuation-nvidia/ — Independent confirmation of $300M Series E announced January 23, 2026 at $5B valuation; IVP and CapitalG leads; Conviction among prior investors continuing to participate.
+
+[^46]: Voicebot.ai, "Generative AI Video Startup HeyGen Raises $5.6M," December 1, 2023, accessed May 2026. https://voicebot.ai/2023/12/01/generative-ai-video-startup-heygen-raises-5-6m/ — Primary press source confirming HeyGen's $5.6M round led by Conviction Ventures at a $75M valuation, announced in late November 2023; Sarah Guo joined HeyGen's board.
+
+[^47]: Maginative, "HeyGen Launches Avatar 2.0 and Announces $5.6 Million in New Funding," November 30, 2023, accessed May 2026. https://www.maginative.com/article/heygen-launches-avatar-2-0-and-announces-5-6-million-in-new-funding/ — Independent contemporaneous press confirming Conviction Partners led HeyGen's $5.6M round; Sarah Guo joined the board. Announcement coincided with the launch of HeyGen's Instant Avatar product.
+
+[^48]: HeyGen Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/HeyGen — Confirms November 2023 $5.6M round from Sarah Guo's Conviction; Guo replaced HongShan's board seat. Also confirms June 2024 $60M Series A led by Benchmark with Conviction, Bond, and Thrive participating, establishing the November 2023 round as Seed (pre-Series A). Tracxn records the close date as November 29, 2023.
+
+[^49]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement date; $210M Series B at $3.5B valuation co-led by Google Ventures and Kleiner Perkins, with Sequoia Capital, Coatue, Conviction, and Thrive participating.
+
+[^50]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led; Sequoia (Series A lead), Coatue, Conviction, and Thrive participated.
+
+[^51]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation, with Coatue, Conviction, and Thrive Capital participating. Establishes the round sequence: Series A (Feb 2025, $75M, Sequoia-led, $1B val), Series B (July 2025), Series C (Oct 2025, $200M, $6B val), Series D (Jan 2026, $250M, $12B val).

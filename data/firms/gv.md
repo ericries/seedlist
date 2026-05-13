@@ -112,7 +112,7 @@ Based on GV's verified portfolio and public data:
 | Lemonade | Early | ~2016 | Insurtech | IPO [^2] |
 | Verve Therapeutics | Early | ~2019 | Life Sciences | Public [^2] |
 | Harvey | Growth | ~2024 | Legal AI | Private ($5B valuation) [^5] |
-| OpenEvidence | Growth | ~2024 | Healthcare AI | Private ($3.5B valuation) [^5] |
+| OpenEvidence | Series B (co-led, $210M) | 2025-07-15 | Healthcare AI | Private ($3.5B valuation) [^5][^14][^15][^16] |
 | Synthesia | Growth | ~2023 | Generative Video | Private [^5] |
 | Modular | Seed | ~2022 | AI Infrastructure | Private [^5] |
 | Snorkel AI | Early | ~2020 | AI/ML | Private [^5] |
@@ -157,3 +157,9 @@ No independently sourced founder testimonials found.
 [^11]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
 [^12]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV (Sangeen Zeb) with Lerer Hippeau, BoxGroup, and Shine Capital. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
 [^13]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
+
+[^14]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by Google Ventures and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
+
+[^15]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led.
+
+[^16]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Confirms July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation.

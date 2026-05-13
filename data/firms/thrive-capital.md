@@ -207,7 +207,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Rogo (follow-on) | Series D ($160M, participated; led by Kleiner Perkins) | 2026-04-29 | AI / Finance | Private [^20] |
 | Crete Professionals Alliance | Growth | ~2023 | Enterprise / Services | Private [^3] |
 | Nourish | Growth | ~2024 | Health Tech | Private [^8] |
-| OpenEvidence | Growth | ~2024 | AI / Health | Private [^8] |
+| OpenEvidence | Series B (participated, $210M) | 2025-07-15 | AI / Health | Private ($3.5B valuation) [^8][^37][^38][^39] |
 | Figma | Growth | ~2020 | Developer Tools / Design | Public (IPO 2025) [^8] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
@@ -342,3 +342,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^35]: The SaaS News, "Codegen Closes $16 Million in Seed Round," November 23, 2023. Accessed May 2026. https://www.thesaasnews.com/news/codegen-closes-16-million-in-seed-round — Contemporaneous coverage confirming $16M seed, Thrive Capital lead, San Francisco-based, angel participation from D'Angelo and Krieger.
 
 [^36]: Picus Capital, LinkedIn post sharing Codegen funding news, November 2023. Accessed May 2026. https://www.linkedin.com/posts/picus-capital_codegen-raises-new-cash-to-automate-software-activity-7131608858925412353-O_P_ — Independent confirmation of $16M seed round led by Thrive Capital with D'Angelo and Krieger as angels.
+
+[^37]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by GV and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
+
+[^38]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B announced July 15, 2025; GV and Kleiner Perkins co-led; Thrive participated.
+
+[^39]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B with Thrive Capital participation.

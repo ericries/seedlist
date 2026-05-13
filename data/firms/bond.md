@@ -98,7 +98,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 ~unknown| Material Bank | Growth | — | Marketplace | Active | [^3] |
 ~unknown| Multiverse | Growth | — | EdTech/Workforce | Active | [^3] |
 ~unknown| Nextdoor | Growth | — | Consumer/Social | Active (Public) | [^3] |
-~unknown| OpenEvidence | Growth | — | AI/Healthcare | Active | [^3] |
+| OpenEvidence | Series C (participated, $200M) | 2025-10-20 | AI/Healthcare | Active ($6B valuation) | [^3][^15][^16][^17] |
 ~unknown| Outschool | Growth | — | EdTech | Active | [^3] |
 ~unknown| Plaid | Growth | — | Fintech | Active | [^3] |
 ~unknown| Sentry | Growth | — | Developer Tools | Active | [^6] |
@@ -134,3 +134,9 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^12]: Applied Intuition blog, "Series E drives $6 billion valuation," March 12, 2024. BOND (Mary Meeker) listed as participant alongside a16z, Lux, Elad Gil, Porsche, and others. https://www.appliedintuition.com/blog/series-e
 [^13]: TechCrunch, "Applied Intuition lands $6B valuation for AI-powered autonomous vehicle software," March 12, 2024. "Others joining the round were Andreessen Horowitz, Mary Meeker's growth fund Bond, and even Formula 1 world champion Nico Rosberg." https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/
 [^14]: PR Newswire, "Applied Intuition, Inc. Grows to $6 Billion Valuation, Securing $250 Million in Series E Funding," March 12, 2024. https://www.prnewswire.com/news-releases/applied-intuition-inc-grows-to-6-billion-valuation-securing-250-million-in-series-e-funding-to-advance-vehicle-software-and-ai-capabilities-302086239.html
+
+[^15]: TechCrunch, "OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation," October 20, 2025, accessed May 2026. https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/ — Primary press source confirming October 20, 2025 announcement of $200M Series C at $6B valuation led by GV with Sequoia, Kleiner Perkins, Blackstone, Thrive, Coatue, Bond, and Craft participating.
+
+[^16]: SiliconANGLE, "Medical search engine startup OpenEvidence closes $200M investment led by GV," October 20, 2025, accessed May 2026. https://siliconangle.com/2025/10/20/medical-search-engine-startup-openevidence-closes-200m-investment-led-gv/ — Independent confirmation of $200M Series C at $6B valuation, GV lead, BOND among participants.
+
+[^17]: Fierce Healthcare, "HLTH25: OpenEvidence valuation hits $6B with $200M series C," October 20, 2025, accessed May 2026. https://www.fiercehealthcare.com/ai-and-machine-learning/hlth25-3-months-after-series-b-round-openevidence-raises-lands-200m — Independent contemporaneous confirmation; round announced at HLTH25 conference; BOND named among participants.
