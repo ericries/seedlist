@@ -194,6 +194,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Factory | Series B | 2026-04-16 | AI / Developer Tools | Private [^32] |
 | Glydways | Series C | 2026-04-14 | Autonomous Vehicles / Mobility | Private [^33] |
 | Nas.com | Series A | 2026-04-16 | AI / Creator Economy | Private [^34] |
+| Rogo | Series B (participated, $50M; led by Thrive Capital) | 2025-04-30 | AI / Fintech | Private [^42] |
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Private [^35] |
 | Exaforce | Series B | 2026-05-12 | Cybersecurity / AI / SOC | Private ($725M val) [^40] |
 
@@ -348,3 +349,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^40]: TechCrunch, "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen," May 12, 2026. Accessed May 2026. https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/ — Exaforce announced a $125M Series B on May 12, 2026 at $725M valuation, with Khosla Ventures among the participants alongside HarbourVest, Peak XV, Mayfield, and Seligman Ventures.
 
 [^41]: PR Newswire, "Distyl Secures $20M from Lightspeed and Khosla Ventures to Deliver Biggest, Most Impactful Enterprise AI Outcomes," November 19, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/distyl-secures-20m-from-lightspeed-and-khosla-ventures-to-deliver-biggest-most-impactful-enterprise-ai-outcomes-302309718.html — Distyl AI announced a $20M Series A on November 19, 2024 led by Lightspeed Venture Partners, with Khosla Ventures participating alongside returning investors Coatue, Dell Technologies Capital, and Nat Friedman. The $7M seed (April 2023) was led by Coatue and Dell; Khosla joined at Series A.
+
+[^42]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms Khosla Ventures participated as an existing investor in the $50M Series B led by Thrive Capital on April 30, 2025. Cross-referenced with Wilson Sonsini, "Wilson Sonsini Advises J.P. Morgan Growth Equity Partners on Rogo's $50 Million Series B." https://www.wsgr.com/en/insights/wilson-sonsini-advises-jp-morgan-growth-equity-partners-on-rogos-dollar50-million-series-b.html

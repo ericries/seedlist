@@ -148,6 +148,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Capchase | Seed | ~2020 | Fintech | Active [^7] |
 | Pomelo Care | Seed | ~2021 | Healthcare | Active [^3] |
 | Era | Seed | 2026-04-23 | AI / Consumer Hardware | Active [^18] |
+| Rogo | Series B (participated, $50M; led by Thrive Capital) | 2025-04-30 | AI / Fintech | Active [^23] |
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Active [^19] |
 | MOTHER.Tech | Seed (participated) | 2026-05-05 | AI / Creator Economy | Active [^21][^22] |
 
@@ -223,3 +224,4 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^20]: Crunchbase, "Plaid Seed Round - 2013-09-19," accessed April 2026. https://www.crunchbase.com/funding_round/plaid-seed--4bbe2fa4
 [^21]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV with BoxGroup, Lerer Hippeau, and Shine Capital participating. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
 [^22]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
+[^23]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms BoxGroup participated as an existing investor in the $50M Series B led by Thrive Capital on April 30, 2025. Cross-referenced with FinTech Global, "Financial AI innovator Rogo raises $50m in Series B round led by Thrive Capital." https://fintech.global/2025/05/02/financial-ai-innovator-rogo-raises-50m-in-series-b-round-led-by-thrive-capital/
