@@ -18692,14 +18692,14 @@ queue:
 - name: Namita Thapar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Emcure / Shark Tank India
   discovered_from: anupam-mittal
 - name: Vineeta Singh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sugar Cosmetics / Shark Tank India
   discovered_from: anupam-mittal
@@ -22007,3 +22007,194 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: aman-gupta
+- name: Ghazal Alagh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Honasa Consumer
+  discovered_from: namita-thapar
+- name: Satish Mehta
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Emcure Pharmaceuticals
+  discovered_from: namita-thapar
+- name: Emcure Pharmaceuticals
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Incredible Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Janitri
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Sunfox Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Palmonas
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Cosmix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Bummer
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Wakao Foods
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Menstrupedia
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Thinkerbell Labs
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: The Bear House
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Rare Planet
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: namita-thapar
+- name: Kaushik Mukherjee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SUGAR Cosmetics
+  discovered_from: vineeta-singh
+- name: SUGAR Cosmetics
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Amit Jain
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CarDekho
+  discovered_from: vineeta-singh
+- name: L Catterton
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Elevation Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: India Quotient
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Anicut Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Stride Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Anjana Sasidharan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: L Catterton
+  discovered_from: vineeta-singh
+- name: Yes Madam
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Zouk
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Snitch
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Josh Talks
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Koparo Clean
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: JhaJi Store
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Get-A-Whey
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
+- name: Padcare Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vineeta-singh
