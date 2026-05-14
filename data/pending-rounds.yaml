@@ -188,7 +188,18 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: small €1.31M seed for Slovenian e-invoicing compliance; could not access EU-Startups (403) or confirm lead investor via independent primary source per "when in doubt, leave it out"
+  skip_reason: small €1.31M seed for Slovenian e-invoicing compliance; could not access
+    EU-Startups (403) or confirm lead investor via independent primary source per
+    "when in doubt, leave it out"
+- title: Prague’s Zerops raises €1.7 million to close the gap between development
+    and production in cloud infrastructure
+  url: https://www.eu-startups.com/2026/05/pragues-zerops-raises-e1-7-million-to-close-the-gap-between-development-and-production-in-cloud-infrastructure/
+  source: eu-startups
+  date_found: '2026-05-14'
+  parsed_company: Prague’s Zerops
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'AI for the workers it can’t replace: Italy’s Gyver raises €1.4 million to
     empower electricians'
   url: https://www.eu-startups.com/2026/05/ai-for-the-workers-it-cant-replace-italys-gyver-raises-e1-4-million-to-empower-electricians/
@@ -1049,12 +1060,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact (no company name; descriptive snippet only)
-- title: It most recently raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: It most recently
-  parsed_amount: $250M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact ("It most recently" is not a company name)
