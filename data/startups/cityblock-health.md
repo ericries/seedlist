@@ -71,7 +71,7 @@ Cityblock Health is a value-based healthcare provider focused on underserved urb
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2017 | Seed | Undisclosed | Sidewalk Labs | — [^2] |
+| 2017 | Seed / Incubation | ~$2.4M (aggregate prior to Series A) | Sidewalk Labs | — [^2][^10][^11] |
 | Jan 2018 | Series A | $20.8M | Maverick Ventures | Thrive Capital, Sidewalk Labs [^5] |
 | Apr 2019 | Series B | $65M | Redpoint Ventures | 8VC, Echo Health Ventures, StartUp Health, Sidewalk Labs, Thrive Capital, Maverick Ventures, Town Hall Ventures, EmblemHealth [^2][^6] |
 | Dec 2020 | Series C | $160M | General Catalyst | Wellington Management, Kinnevik AB, Maverick Ventures, Thrive Capital, Redpoint Ventures, 8VC, Echo Health Ventures, EmblemHealth, Goldman Sachs AIMS Impact [^7] |
@@ -105,3 +105,5 @@ Total raised: ~$900M+ across all rounds [^8][^9]. Valued at $5.7B at Series D [^
 [^7]: PR Newswire, "Cityblock Health Raises $160M Series C to Address Systemic Healthcare Inequity," December 2020. https://www.prnewswire.com/news-releases/cityblock-health-raises-160m-series-c-to-address-systemic-healthcare-inequity-301190536.html
 [^8]: PR Newswire, "Cityblock Health Raises $192 Million in Series C Extension Funding," March 2021. https://www.prnewswire.com/news-releases/cityblock-health-raises-192-million-in-series-c-extension-funding-to-expand-health-care-model-to-the-millions-of-underserved-people-on-medicaid-301257528.html
 [^9]: MobiHealthNews, "Cityblock rakes in $400M for platform focused on Medicaid and low-income populations," September 2021. https://www.mobihealthnews.com/news/cityblock-rakes-400m-platform-focused-medicaid-and-low-income-populations-and-other-digital
+[^10]: MobiHealthNews, "Sidewalk Labs spinout Cityblock gets $20.8M, adds CMS vets to board," January 2018, accessed May 2026. https://www.mobihealthnews.com/content/sidewalk-labs-spinout-cityblock-gets-208m-adds-cms-vets-board — Confirms total Cityblock funding reached $23.2M after the $20.8M Series A; the ~$2.4M difference reflects undisclosed 2017 Sidewalk Labs incubation/seed funding.
+[^11]: Global Venturing, "Cityblock attracts series A capital," January 5, 2018, accessed May 2026. https://globalventuring.com/blog/2018/01/05/cityblock-attracts-series-a-capital/ — States Cityblock "has now raised $23.2m altogether, but did not release details of its earlier funding," confirming the ~$2.4M Sidewalk Labs incubation amount was never officially disclosed.

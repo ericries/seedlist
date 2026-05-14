@@ -96,7 +96,7 @@ This table includes 14 verified investments. Sources indicate Lutke has made 22-
 |---------|-------|------|--------|--------|--------|
 | Manifold Labs | Series A | 2025 | AI infrastructure | Active | [^3] |
 | Sundial | Series A | 2025 | AI analytics | Active | [^9] |
-| Polar | Seed | 2025 | Fintech | Active | [^3][^11][^12] |
+| Polar | Seed ($10M, Accel-led) | 2025-06-17 | Fintech / Payments infra | Active | [^3][^11][^12] |
 | Granola | Series B | 2025 | AI productivity | Active | [^8] |
 | Neo Financial | Series D | 2024 | Fintech | Active | [^4] |
 | Butler | Seed | 2024 | Security / enterprise | Active | [^3] |

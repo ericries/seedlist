@@ -128387,9 +128387,10 @@ vague_facts:
   profile: investors/tobi-lutke
   profile_name: Tobi Lutke
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolution: "Polar Seed = $10M, led by Accel, closed 2025-06-17. Tobi Lutke participated as strategic angel. Sources: Polar blog (polar.sh) and Accel announcement, both June 2025. Profile updated."
 - column: 5
   company: Granola
   line: '| Granola | Series B | 2025 | AI productivity | Active | [^8] |'
@@ -136398,9 +136399,10 @@ vague_facts:
   profile: startups/cityblock-health
   profile_name: Cityblock Health
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolution: "Cityblock's 2017 Sidewalk Labs incubation/seed amount was never publicly disclosed by either company. However, MobiHealthNews (Jan 2018) and Global Venturing both confirm total pre-Series-A funding was ~$2.4M (derived from Cityblock's stated $23.2M total post-Series-A minus the $20.8M Series A). Profile updated with this aggregate figure and additional citations."
 - column: 4
   company: Sep 2021
   line: '| Sep 2021 | Series D | $400M | SoftBank Vision Fund 2 | — [^9] |'
@@ -138057,9 +138059,10 @@ vague_facts:
   profile: startups/openai
   profile_name: OpenAI
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolution: "OpenAI Series E (April 28, 2023) closed at ~$300M tender offer at $27B–$29B valuation, with Thrive Capital lead and Sequoia, a16z, Tiger Global, Founders Fund, K2 Global participating. Sources: TechCrunch 2023-04-28 + Crunchbase News."
 - column: 4
   company: Secondary/Tender
   line: '| Secondary/Tender | Oct 2025 | $6.6B | $500B | N/A | Various [^7] |'
@@ -171921,9 +171924,10 @@ vague_facts:
   profile: investors/tobi-lutke
   profile_name: Tobi Lutke
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolution: "Polar Seed closed 2025-06-17 ($10M, Accel-led). Profile date updated to YYYY-MM-DD."
 - column: 2
   company: Granola
   line: '| Granola | Series B | 2025 | AI productivity | Active | [^8] |'
