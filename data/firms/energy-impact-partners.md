@@ -125,6 +125,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Koloma | Series C | 2024 | Geologic hydrogen | [^22] |
 | Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |
 | Overstory | Series A | 2025 | AI grid resilience | [^3] |
+| Hint | Seed | 2026 | AI home management | [^25] |
 
 *This table represents a subset of approximately 137 known portfolio companies. The full portfolio is listed on the EIP website [^14].*
 
@@ -178,3 +179,4 @@ No additional independently sourced founder testimonials found beyond press rele
 [^22]: Shayle Kann investor profile (Seedlist), last researched March 2026. Koloma Series C verified via existing published profile.
 [^23]: TechCrunch, "Noetic Cyber emerges from stealth with $20M led by Energy Impact Partners," July 28, 2021. https://techcrunch.com/2021/07/28/noetic-cyber-emerges-from-stealth-with-20m-led-by-energy-impact-partners/
 [^24]: BusinessWire, "Enterprise Security Startup Oort Raises $15M in Series A Funding to Stop Identity-Based Cyber Attacks," October 6, 2022. https://www.businesswire.com/news/home/20221006005254/en/Enterprise-Security-Startup-Oort-Raises-%2415M-in-Series-A-Funding-to-Stop-Identity-Based-Cyber-Attacks
+[^25]: Morningstar / Business Wire, "Martha Stewart Announces Hint, a New Home Management Platform Built on Human Expertise and AI," May 12, 2026. Accessed May 2026. https://www.morningstar.com/news/business-wire/20260512987617/martha-stewart-announces-hint-a-new-home-management-platform-built-on-human-expertise-and-ai

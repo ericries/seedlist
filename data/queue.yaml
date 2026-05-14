@@ -22432,3 +22432,186 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: ashneer-grover
+- name: SPARX Asset Management
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oishii
+  source: Led Oishii Series C ($150M, 2026-05-13) — Japanese asset manager backing
+    vertical farming
+- name: Nomura Real Estate Development
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oishii
+  source: Participated Oishii Series C ($150M, 2026-05-13)
+- name: MISUMI Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oishii
+  source: Participated Oishii Series C ($150M, 2026-05-13)
+- name: Mizuho Bank
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oishii
+  source: Participated Oishii Series C ($150M, 2026-05-13)
+- name: Hiroki Koga
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Oishii
+  discovered_from: oishii
+  source: Co-Founder & CEO of Oishii ($150M Series C, 2026-05-13)
+- name: Lynne O'Keefe
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Define Ventures
+  discovered_from: 9amhealth
+  source: Founder & Managing Partner of Define Ventures, joining 9amHealth board (2026-05-13)
+- name: SemperVirens VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 9amhealth
+  source: Participated 9amHealth Series B (2026-05-13) — workforce/health tech investor
+- name: NewHealth Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 9amhealth
+  source: Participated 9amHealth Series B (2026-05-13)
+- name: Frank Westermann
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 9amHealth
+  discovered_from: 9amhealth
+  source: Co-Founder & CEO of 9amHealth ($26M Series B, 2026-05-13)
+- name: McKesson Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: branchlab
+  source: Led BranchLab Series A ($26M, 2026-05-13) — corporate VC of McKesson
+- name: FCA Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: branchlab
+  source: Participated BranchLab Series A (2026-05-13)
+- name: Sanofi Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: branchlab
+  source: Participated BranchLab Series A (2026-05-13) — Sanofi corporate VC
+- name: AIX Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: branchlab
+  source: Participated BranchLab Series A (2026-05-13) — AI investor
+- name: Montauk Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hint
+  source: Participated Hint Seed (2026-05-13)
+- name: Amplo
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hint
+  source: Participated Hint Seed (2026-05-13)
+- name: Hannah Grey VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hint
+  source: Participated Hint Seed (2026-05-13)
+- name: Brian Kelly
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hint
+  source: Angel investor in Hint Seed (2026-05-13) — The Points Guy founder
+- name: Martha Stewart
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hint
+  discovered_from: hint
+  source: Co-Founder of Hint ($10M Seed, 2026-05-13)
+- name: Kyle Rush
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Hint
+  discovered_from: hint
+  source: Co-Founder of Hint (2026-05-13)
+- name: Yih-Han Ma
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Hint
+  discovered_from: hint
+  source: Co-Founder of Hint (2026-05-13)
+- name: Bikaji Foods Family Office
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dil-foods
+  source: Led Dil Foods Series B (₹72 Cr, 2026-05-13) — Indian FMCG family office
+- name: V3 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dil-foods
+  source: Participated Dil Foods Series B (₹72 Cr, 2026-05-13) — existing investor
+- name: MJV Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dil-foods
+  source: Participated Dil Foods Series B (₹72 Cr, 2026-05-13) — existing investor
+- name: Alteria Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dil-foods
+  source: Participated Dil Foods Series B (₹72 Cr, 2026-05-13) — Indian venture debt
+- name: Arpita Aditi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dil Foods
+  discovered_from: dil-foods
+  source: Founder of Dil Foods (₹72 Cr Series B, 2026-05-13)
