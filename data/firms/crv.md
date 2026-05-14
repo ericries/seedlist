@@ -145,10 +145,10 @@ This table represents 40 verified investments out of approximately 397 total com
 | Squire | Series A | ~2020 | Consumer/SaaS | Active [^9] |
 | Factorial | Series A | ~2021 | Enterprise/HR | Active [^9] |
 | CodeRabbit | Series A (led, $16M) | 2024-08-15 | Developer Tools/AI | Active [^28][^31] |
-| Browserbase | Series A | 2024 | Developer Tools/AI | Active [^29] |
+| Browserbase | Series A (co-led, $21M) | 2024-10-29 | Developer Tools/AI | Active [^29][^32] |
 | Protege | Seed | 2024 | AI/Data | Active [^10] |
 | Napkin AI | Seed | 2024 | AI/Consumer | Active [^10] |
-| 7AI | Series A | 2025 | Cybersecurity/AI | Active [^10] |
+| 7AI | Series A (participated, $130M) | 2025-12-04 | Cybersecurity/AI | Active [^10][^33] |
 | Abacus Insights | Series A | ~2018 | Enterprise/Health | Active [^21] |
 | Affirmed Networks | Series A | ~2012 | Enterprise/Telecom | Acquired (Microsoft, 2020) [^21] |
 | Agora | Series A | ~2018 | Enterprise/SaaS | Active [^21] |
@@ -161,7 +161,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Astrix | Seed | ~2023 | Enterprise/AI | Active [^21] |
 | Careforce | Seed | ~2024 | AI/Health | Active [^21] |
 | Capy | Seed | ~2024 | AI | Active [^21] |
-| Joyful Health | Series A | 2026 | Healthcare / AI | Active [^30] |
+| Joyful Health | Series A (led, $17M) | 2026-04-16 | Healthcare / AI | Active [^30] |
 
 ## In Their Own Words
 
@@ -232,3 +232,7 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^30]: PRNewsWire, "Joyful Health Raises $22M to Help Healthcare Providers Recover Billions in Unpaid Insurance Claims," April 16, 2026. https://www.prnewswire.com/news-releases/joyful-health-raises-22m-to-help-healthcare-providers-recover-billions-in-unpaid-insurance-claims-302743785.html
 
 [^31]: CodeRabbit blog, "CodeRabbit Announces $16M Series-A Funding Led by CRV," August 15, 2024. Accessed May 2026. https://www.coderabbit.ai/blog/coderabbit-announces-16m-series-a-funding-led-by-crv — Confirms $16M Series A announced August 15, 2024 led by CRV; Reid Christian (CRV General Partner) joined the board. Participants included Tod Sacerdoti (Flex Capital) and Ashmeet Sidana (Engineering Capital).
+
+[^32]: Pulse2, "Browserbase: Web Browser Automation Company Raises $21 Million (Series A)," October 29, 2024. Accessed May 2026. https://pulse2.com/browserbase-web-browser-automation-company-raises-21-million-series-a/ — Confirms $21M Series A announced October 29, 2024 co-led by CRV (Reid Christian) and Kleiner Perkins; Okta Ventures and Reed McGinley-Stempel (Stytch CEO) participated. Founded by Paul Klein.
+
+[^33]: 7AI blog, "Citing the 'Agentic Security Inflection Point,' 7AI Raises Largest Cybersecurity A Round in History to Bring AI Security Agents to Enterprises," December 4, 2025. Accessed May 2026. https://blog.7ai.com/citing-the-agentic-security-inflection-point-7ai-raises-largest-cybersecurity-a-round-in-history-to-bring-ai-security-agents-to-enterprises — $130M Series A announced December 4, 2025, led by Index Ventures with new investor Blackstone Innovations Investments; existing seed investors Greylock, CRV, Spark and others participated. Total raised: $166M.
