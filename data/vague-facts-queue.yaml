@@ -186300,12 +186300,13 @@ vague_facts:
   value: '2008'
 - column: 2
   company: Stripe
-  line: '| Stripe | Series C | 2014 | Fintech / Payments | Private [^23] |'
+  line: '| Stripe | Series C (led) | 2014-01-22 | Fintech / Payments | Private [^23][^52][^53] |'
   priority: low
   profile: firms/founders-fund
   profile_name: Founders Fund
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Stripe Series C announced 2014-01-22, $80M+ at $1.75B valuation, led by Founders Fund with Khosla Ventures, Sequoia, Allen & Co. Verified via TechCrunch 2014-01-22 and FinSMEs 2014-01-23. Added [^52][^53] citations."
   type: year_only_date
   value: '2014'
 - column: 2
@@ -186321,12 +186322,13 @@ vague_facts:
   value: ~2005
 - column: 2
   company: Airbnb
-  line: '| Airbnb | Series C | 2013 | Marketplace | Public (IPO 2020) [^22] |'
+  line: '| Airbnb | Series C (led) | 2013-10-28 | Marketplace | Public (IPO 2020) [^22][^54] |'
   priority: low
   profile: firms/founders-fund
   profile_name: Founders Fund
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Airbnb Series C of $200M led by Founders Fund, publicly confirmed 2013-10-28 by co-founder/CTO Nate Blecharczyk per TechCrunch. Verified via TechCrunch 2013-10-28 article and Airbnb startup profile cross-reference. Added [^54] citation."
   type: year_only_date
   value: '2013'
 - column: 2

@@ -225,7 +225,7 @@ As of February 2026, Stripe's valuation reached $159 billion through an employee
 | Seed | May 2011 | $2M | Peter Thiel | Elon Musk, Sequoia Capital, Andreessen Horowitz, SV Angel, Max Levchin | $20M |
 | Series A | Feb 2012 | $18M | Sequoia Capital | General Catalyst, Peter Thiel, Andreessen Horowitz | $100M |
 | Series B | 2012-07-09 | $20M | General Catalyst | Sequoia Capital, Redpoint, Peter Thiel, Chris Dixon, Aaron Levie, Elad Gil | Not disclosed [^13] |
-| Series C | Jan 2014 | $80M | Founders Fund | Sequoia Capital, Khosla Ventures, Allen & Company | $1.8B |
+| Series C | 2014-01-22 | $80M | Founders Fund | Sequoia Capital, Khosla Ventures, Allen & Company | $1.75B [^17][^18] |
 | Series D | Dec 2016 | $150M | CapitalG (Google) | General Catalyst, Sequoia Capital | $9.2B |
 | Series E | Sep 2019 | $250M | Sequoia Capital | Andreessen Horowitz, General Catalyst | $35B |
 | Series G | Apr 2020 | $600M | Sequoia Capital | Andreessen Horowitz, General Catalyst | $36B |
@@ -267,3 +267,5 @@ Sources: [^2][^5][^6][^7][^8][^9][^10][^13][^14][^15][^16]
 [^14]: Stripe Newsroom, "Stripe publishes 2025 annual letter and announces tender offer to provide liquidity to current and former employees," February 24, 2026. https://stripe.com/newsroom/news/stripe-2025-update
 [^15]: CNBC, "Stripe valued at $159 billion after tender offer for employees, shareholders," February 24, 2026. https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html
 [^16]: TechCrunch, "Stripe's valuation soars 74% to $159 billion," February 24, 2026. https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/
+[^17]: TechCrunch, "Eyeing International Growth, Stripe Raises $80M From Founders Fund, Khosla And Sequoia At A $1.75B Valuation," January 22, 2014. Accessed May 2026. https://techcrunch.com/2014/01/22/with-an-eye-to-international-growth-payments-company-stripe-raises-80m-from-peter-thiel-khosla-and-sequoia-at-a-1-25b-valuation/
+[^18]: FinSMEs, "Stripe Raises $80M in Series C Funding," January 23, 2014. Accessed May 2026. https://www.finsmes.com/2014/01/stripe-raises-80m-in-series-c-fundingstripe-raises-80m-in-series-c-funding.html

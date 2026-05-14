@@ -119,8 +119,8 @@ The following analysis is based on the 61 portfolio companies listed on Founders
 ### Sector Allocation (computed from 61 verified portfolio entries on foundersfund.com)
 
 - **Defense / Aerospace / Autonomous**: 10 companies (16%) -- SpaceX, Anduril, Varda, General Matter, Impulse, ARQ, PsiQuantum, Boring Company, Applied Intuition (via Founders Fund portfolio page reference), Hadrian
-- **AI / Machine Learning**: 8 companies (13%) -- OpenAI, DeepMind, Cognition, Neuralink, Scale, Crusoe (AI cloud computing), Netic, Until
-- **Fintech / Payments / Banking**: 10 companies (16%) -- Stripe, Ramp, Nubank, Trade Republic, Affirm, Aven, Found, Paxos, Monaco, Polymarket
+- **AI / Machine Learning**: 9 companies (15%) -- OpenAI, DeepMind, Cognition, Neuralink, Scale, Crusoe (AI cloud computing), Netic, Until, Monaco (AI sales platform)
+- **Fintech / Payments / Banking**: 9 companies (15%) -- Stripe, Ramp, Nubank, Trade Republic, Affirm, Aven, Found, Paxos, Polymarket
 - **Enterprise SaaS / Software**: 7 companies (11%) -- Palantir, Rippling, Figma, Asana, BuildOps, Persona, Workrise
 - **Consumer Internet / Marketplace**: 7 companies (11%) -- Facebook, Airbnb, Lyft, Wish, Postmates, Faire, The Athletic
 - **Health / Biotech**: 4 companies (7%) -- Oscar, Solugen, Cedar, Sword Health
@@ -176,9 +176,9 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | SpaceX | Series A | 2008 | Aerospace | Private [^1][^2] |
 | Palantir | Series A | ~2005 (founded) | Enterprise / Data Intelligence | Public (IPO 2020) [^1] |
 | Anduril | Seed→Series H (participated through every round; led Series F, G; participated in Series H) | 2017-08 (Seed); 2018-06 (Series A); 2026-05-13 (Series H) | Defense Tech | Private (valued at $61B post Series H) [^28][^30][^48][^49] |
-| Stripe | Series C | 2014 | Fintech / Payments | Private [^23] |
+| Stripe | Series C (led) | 2014-01-22 | Fintech / Payments | Private [^23][^52][^53] |
 | Facebook | Angel/Early | ~2005 | Consumer Internet / Social | Public (IPO 2012) [^1] |
-| Airbnb | Series C | 2013 | Marketplace | Public (IPO 2020) [^22] |
+| Airbnb | Series C (led) | 2013-10-28 | Marketplace | Public (IPO 2020) [^22][^54] |
 | Ramp | Growth | ~2019 (founded) | Fintech | Private [^20] |
 | Neuralink | Early | ~2016 (founded) | Biotech / Neural Interface | Private [^20] |
 | OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
@@ -211,7 +211,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Twilio | Early | ~2008 (founded) | Developer Tools / Communications | Public (IPO 2016) [^20] |
 | Credit Karma | Growth | ~2007 (founded) | Consumer Fintech | Acquired by Intuit (2020) [^20] |
 | Netic | Early | ~2023 (founded) | Enterprise | Private [^20] |
-| Monaco | Early | ~2023 (founded) | Fintech | Private [^20] |
+| Monaco | Series B (participated; returning investor "tripling down") | 2026-05-12 | AI / Sales / SaaS | Private [^55] |
 | Oscar | Early | ~2012 (founded) | Health Insurance | Public (IPO 2021) [^20] |
 | Solugen | Growth | ~2016 (founded) | Biotech / Chemicals | Private [^20] |
 | Wave | Growth | ~2018 (founded) | Fintech / Mobile Money (Africa) | Private [^20] |
@@ -380,3 +380,11 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^50]: Tech.eu, "UK AI chip startup Fractile raises $220M to tackle the growing inference bottleneck," May 13, 2026. Accessed May 2026. https://tech.eu/2026/05/13/uk-ai-chip-startup-fractile-raises-220m-to-tackle-the-growing-inference-bottleneck/ — $220M Series B co-led by Accel, Factorial Funds, and Founders Fund with participation from Conviction, Gigascale, O1A, Felicis, Buckley Ventures, and 8VC.
 
 [^51]: Sifted, "Accel and Thiel's Founders Fund back Fractile in $220m raise," May 13, 2026. Accessed May 2026. https://sifted.eu/articles/fractile-220m-accel — Independent confirmation of $220M Series B closing May 13, 2026 led by Accel, Factorial Funds, and Founders Fund.
+
+[^52]: TechCrunch, "Eyeing International Growth, Stripe Raises $80M From Founders Fund, Khosla And Sequoia At A $1.75B Valuation," January 22, 2014. Accessed May 2026. https://techcrunch.com/2014/01/22/with-an-eye-to-international-growth-payments-company-stripe-raises-80m-from-peter-thiel-khosla-and-sequoia-at-a-1-25b-valuation/ — Stripe Series C announced January 22, 2014; $80M+ at $1.75B valuation; Founders Fund led with Khosla Ventures (new), Sequoia (existing), and Allen & Co. participating.
+
+[^53]: FinSMEs, "Stripe Raises $80M in Series C Funding," January 23, 2014. Accessed May 2026. https://www.finsmes.com/2014/01/stripe-raises-80m-in-series-c-fundingstripe-raises-80m-in-series-c-funding.html — Independent confirmation of $80M+ Stripe Series C led by Founders Fund with Khosla Ventures, Sequoia, and Allen & Co. participating.
+
+[^54]: TechCrunch, "Airbnb's Nate Blecharczyk Confirms It Raised A $200M Round Led By Founders Fund," October 28, 2013. Accessed May 2026. https://techcrunch.com/2013/10/28/airbnb-200m/ — Airbnb Series C of $200M confirmed by co-founder/CTO Nate Blecharczyk; led by Founders Fund — at the time, Founders Fund's largest deal to date.
+
+[^55]: GlobeNewsWire, "Monaco Secures $50 Million in Series B Funding to Grow AI-Powered Sales Platform Amid Strong Customer Demand," May 12, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html — $50M Series B led by Benchmark with Founders Fund (returning investor "tripling down"), Human Capital, Alt Cap, Mantis, Saga VC, and angels Garry Tan, Neil Mehta, John Collison, Patrick Collison.
