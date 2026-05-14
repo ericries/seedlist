@@ -127,7 +127,7 @@ Notion is a productivity and collaboration platform founded in 2013 by Ivan Zhao
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| Mar 2013 | Seed | $2M | First Round Capital | — [^1] |
+| 2013-03 | Seed | $2M | First Round Capital | SV Angel, Naval Ravikant [^1][^7] |
 | Apr 2019 | Series A | $10M | Sequoia Capital | Ram Shriram (Sherpalo Ventures) [^4] |
 | Apr 2020 | Series B | $50M | Index Ventures | Elad Gil, Daniel Gross, Lachy Groom [^5] |
 | Oct 2021 | Series C | $275M | Coatue Management, Sequoia Capital (co-lead) | Base10 Partners, Andreessen Horowitz [^2] |
@@ -151,3 +151,5 @@ No independently sourced founder testimonials found.
 [^4]: Sequoia Capital, "Notion CEO Ivan Zhao: Augmenting Human Intellect," accessed March 2026. https://sequoiacap.com/article/notion-spotlight/
 [^5]: TechCrunch, "Notion hits $2 billion valuation in new raise," April 1, 2020, accessed March 2026. https://techcrunch.com/2020/04/01/notion-hits-2-billion-valuation-in-new-raise/
 [^6]: Tracxn, "Notion - 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/notion/__LQ8wyN9zLT-OwulhqbMYvw0Ayznneiugbu_OaKuGD4U/funding-and-investors
+
+[^7]: First Round Capital, "Notion" portfolio company page, accessed May 2026. https://www.firstround.com/companies/notion

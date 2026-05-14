@@ -110,7 +110,7 @@ Despite Kopelman's stated focus on "the first 24 months," First Round Capital ha
 | Uber | 2010 | Seed | Transportation/Marketplace | [^2][^5] |
 | Square | ~2009 | Seed | Fintech/Payments | [^5][^11] |
 | Roblox | ~2005 | Seed | Gaming/Platform | [^5][^11] |
-| Notion | ~2013 | Seed | Productivity | [^1][^14] |
+| Notion | 2013-03 | Seed | Productivity | [^1][^14] |
 | Warby Parker | ~2010 | Seed | Consumer/E-commerce | [^5][^11] |
 | Flatiron Health | 2013 | Series A | Healthcare/Data | [^12][^13] |
 | Upstart | 2012 | Seed | Fintech/AI Lending | [^1][^15] |
@@ -121,7 +121,7 @@ Despite Kopelman's stated focus on "the first 24 months," First Round Capital ha
 | Clover Health | ~2014 | Seed | Health Insurance | [^1][^2] |
 | Ring | ~2013 | Seed | Consumer Electronics/IoT | [^5] |
 | OnDeck Capital | ~2007 | Seed | Fintech/Lending | [^1] |
-| Verkada | ~2016 | Seed | Security/IoT | [^5][^11] |
+| Verkada | 2017-09-21 | Seed | Security/IoT | [^5][^11] |
 | Five Below | ~2005 | Seed | Retail | [^1] |
 | GOAT | ~2015 | Seed | Consumer/Marketplace | [^10] |
 | HotelTonight | ~2010 | Seed | Travel/Consumer | [^10] |

@@ -9186,9 +9186,10 @@ vague_facts:
   profile: firms/first-round-capital
   profile_name: First Round Capital
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^1][^7]'
+  resolution: "Notion seed: 2013-03, $2M, led by First Round Capital (Kopelman wrote biggest check); confirmed via First Round own page, Contrary Research, Feather, Tracxn"
 - column: 5
   company: Looker
   line: '| Looker | Seed | 2013 | Data analytics | Acquired (Google, $2.6B, 2020)
@@ -9197,9 +9198,10 @@ vague_facts:
   profile: firms/first-round-capital
   profile_name: First Round Capital
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^1]'
+  resolution: "Looker seed: 2013-03-06, $2M, led by First Round Capital with PivotNorth; confirmed via TechCrunch 2013-03-06, TechCrunch 2013-08-13, Wikipedia"
 - column: 5
   company: Verkada
   line: '| Verkada | Seed | 2017 | Physical security | Active (valued $5.8B, Dec 2025)
@@ -9208,9 +9210,10 @@ vague_facts:
   profile: firms/first-round-capital
   profile_name: First Round Capital
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^1]'
+  resolution: "Verkada seed: 2017-09-21, $3.9M, led by First Round Capital with angel investors incl. Hector Garcia-Molina; confirmed via GlobeNewswire press release, FinSMEs, vcnewsdaily"
 - column: 5
   company: Warby Parker
   line: '| Warby Parker | Seed | ~2010 | E-commerce / DTC | IPO | [^2] |'

@@ -115,9 +115,9 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Uber | Seed | 2010 | Ridesharing | IPO | [^1][^8] |
 | Square | Seed | ~2009 | Payments | IPO | [^1] |
 | Roblox | Seed | ~2013 | Gaming / Metaverse | IPO | [^1] |
-| Notion | Seed | ~2016 | Productivity | Active (unicorn) | [^1][^7] |
-| Looker | Seed | 2013 | Data analytics | Acquired (Google, $2.6B, 2020) | [^1] |
-| Verkada | Seed | 2017 | Physical security | Active (valued $5.8B, Dec 2025) | [^1] |
+| Notion | Seed | 2013-03 | Productivity | Active (unicorn) | [^1][^7][^13] |
+| Looker | Seed | 2013-03-06 | Data analytics | Acquired (Google, $2.6B, 2020) | [^1][^14][^15] |
+| Verkada | Seed | 2017-09-21 | Physical security | Active (valued $5.8B, Dec 2025) | [^1][^16][^17] |
 | Warby Parker | Seed | ~2010 | E-commerce / DTC | IPO | [^2] |
 | Flatiron Health | Seed | ~2012 | Healthcare data | Acquired | [^3] |
 | Upstart | Seed | ~2014 | Fintech / Lending | IPO | [^3] |
@@ -171,3 +171,13 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^11]: fal blog, "Generative media needs speed. fal has raised $23M to accelerate," September 18, 2024. https://blog.fal.ai/generative-media-needs-speed-fal-has-raised-23m-to-accelerate/
 
 [^12]: TechCrunch, "Together raises $20M to build open source generative AI models," May 15, 2023. https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/
+
+[^13]: First Round Capital, "Notion" portfolio company page, accessed May 2026. https://www.firstround.com/companies/notion
+
+[^14]: TechCrunch, "Looker Takes $2M From First Round And PivotNorth To Build 'A Sequel To SQL' For Business Intelligence," March 6, 2013, accessed May 2026. https://techcrunch.com/2013/03/06/looker-takes-2m-from-first-round-and-pivotnorth-to-build-a-sequel-to-sql-for-business-intelligence/
+
+[^15]: TechCrunch, "Business Intelligence Startup Looker Raises $16M From Redpoint, First Round," August 13, 2013, accessed May 2026. https://techcrunch.com/2013/08/13/business-intelligence-startup-looker-raises-16m-from-redpoint-first-round/
+
+[^16]: GlobeNewswire, "Verkada Launches To Modernize Video Security Systems for Enterprise Use," September 21, 2017, accessed May 2026. https://www.globenewswire.com/news-release/2017/09/21/1125814/0/en/Verkada-Launches-To-Modernize-Video-Security-Systems-for-Enterprise-Use.html
+
+[^17]: VCNewsDaily, "Verkada Nabs $3.9M Seed Round," September 2017, accessed May 2026. https://vcnewsdaily.com/verkada/venture-capital-funding/mgpsfnmwtf

@@ -106,7 +106,7 @@ Trenchard's stated interest in "Climate Moonshots" has zero representation in th
 | Slide | ~2009 | Angel | [^1][^3] |
 | Tapulous | ~2009 | Angel | [^1][^3] |
 | AdRoll | ~2009 | Angel | [^1][^3] |
-| Looker | 2012 | Seed | [^2][^13] |
+| Looker | 2013-03-06 | Seed | [^2][^13] |
 | Sift | 2013 | Series A | [^1][^17] |
 | Flexport | 2014 | Seed | [^11] |
 | Kentik | 2014 | Seed | [^18] |
@@ -118,7 +118,7 @@ Trenchard's stated interest in "Climate Moonshots" has zero representation in th
 | Gyft | ~2013 | Angel | [^4] |
 | Topsy | ~2012 | Angel | [^4] |
 | Legion | 2016 | Seed | [^1][^20] |
-| Verkada | 2017 | Seed | [^1][^12] |
+| Verkada | 2017-09-21 | Seed | [^1][^12] |
 | Labelbox | 2018 | Seed | [^14] |
 | Crossbeam | 2018 | Seed | [^16] |
 | Airbase | ~2018 | Seed | [^1][^15] |
