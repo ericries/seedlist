@@ -106,7 +106,7 @@ Discord is a communication platform originally built for gamers, founded by Jaso
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
 | Series A | Nov 2013 | $8.2M | Benchmark | Accel, IDG Capital, General Catalyst, WarnerMedia [^3] [^4] | -- |
-| Series B | Feb 2015 | Undisclosed | Tencent | Benchmark, Studio 9+ [^4] | -- |
+| Series B | 2015-02-10 | Undisclosed | Tencent | Benchmark, YouWeb's 9+ [^10][^11][^12] | -- |
 | Series C | Jan 2016 | $20M | Greylock | Tencent, YouWeb, Benchmark [^4] | -- |
 | Series C (ext) | Jun 2017 | $50M | Index Ventures | IVP, Greylock, Benchmark, Spark Capital [^4] | $725M |
 | Series D | Dec 2018 | $150M | Greenoaks Capital | Tencent, Index Ventures, Technology Opportunity Partners, FirstMark, IVP [^5] | $2.05B |
@@ -133,3 +133,6 @@ No independently sourced founder testimonials found.
 [^7]: Global Venturing, "Discord draws $100m in series H funding," December 21, 2020. https://globalventuring.com/blog/2020/12/21/discord-draws-100m-in-series-h-funding/
 [^8]: Silicon Republic, "Popular chat app Discord raises $500m led by Dragoneer," September 2021. https://www.siliconrepublic.com/start-ups/discord-investment-15bn-valuation
 [^9]: CNBC, "Discord doubles valuation to $15 billion in new funding round," September 22, 2021. https://www.cnbc.com/2021/09/22/discord-doubles-valuation-to-15-billion-in-new-funding-round.html
+[^10]: TechCrunch, "Fates Forever-Maker Hammer & Chisel Raises Additional Funding From Tencent, Benchmark," February 10, 2015. https://techcrunch.com/2015/02/10/fates-forever-maker-hammer-chisel-raises-additional-funding-from-tencent-benchmark/
+[^11]: PocketGamer.biz, "Tencent leads investment in Hammer & Chisel's Series B," February 2015. https://www.pocketgamer.biz/tencent-leads-hammer-and-chisel-series-b/
+[^12]: Yahoo Finance / Business Wire press release, "Hammer & Chisel Raises Series B Investment After Launching Award Winning iPad Game Fates Forever," February 10, 2015. https://finance.yahoo.com/news/hammer-chisel-raises-series-b-140000836.html

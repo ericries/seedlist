@@ -136898,9 +136898,10 @@ vague_facts:
   profile: startups/discord
   profile_name: Discord
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  note: 'Confirmed via 3 primary sources (TechCrunch 2015-02-10, PocketGamer.biz, Business Wire press release). Date upgraded from "Feb 2015" to 2015-02-10. Amount remains undisclosed (Citron declined to disclose per TC). Tencent led, Benchmark and YouWeb 9+ participated. Profile updated.'
 - column: 5
   company: Series C
   line: '| Series C | Jan 2016 | $20M | Greylock | Tencent, YouWeb, Benchmark [^4]
@@ -137508,9 +137509,10 @@ vague_facts:
   profile: startups/hadrian
   profile_name: Hadrian
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  note: 'Confirmed undisclosed by 3 primary sources (Hadrian PR Newswire release, Washington Technology, Tectonic Defense). Company did not disclose. $1.6B valuation confirmed. Added Finsmes and Pulse2 as additional citations.'
 - column: 4
   company: Apr 2018
   line: '| Apr 2018 | Series A-1 | $40M | IVP, Redpoint Ventures | — [^5] |'
@@ -137529,9 +137531,10 @@ vague_facts:
   profile: startups/hims-and-hers
   profile_name: Hims & Hers Health
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  note: 'Confirmed via 3 primary sources (TechCrunch 2019-01-28, BeautyMatter, Wikipedia). Hims intentionally declined to name the lead investor (TechCrunch: "a growth-stage investor that had not previously invested in Hims"). Date upgraded from Jan 2019 to 2019-01-28. Valuation: $1B pre-money. Added BeautyMatter citation.'
 - column: 4
   company: May 2018
   line: '| May 2018 | Seed | $4M | Ronny Conway | — [^4] |'
@@ -138488,9 +138491,10 @@ vague_facts:
   profile: startups/plaid
   profile_name: Plaid
   section: Funding History
-  status: pending
+  status: unresolvable
   type: unknown_value
   value: --
+  note: 'Sources conflict — Wikipedia lists Nov 15 2014, Spark Capital (the co-investor) says "in 2015," Tracxn shows both Nov 2014 and Jan 2015. No contemporaneous press release found. Leaving year-only.'
 - column: 5
   company: Series B
   line: '| Series B | Jun 2016 | $44M | Goldman Sachs Investment Partners | NEA, Spark

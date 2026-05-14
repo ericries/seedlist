@@ -104,7 +104,7 @@ Hims & Hers Health is a telehealth and direct-to-consumer wellness company found
 | Nov 2017 | Seed (Series A) | $7M | Thrive Capital | Forerunner Ventures, SV Angel, MC Partners, Harry's, Amity Supply [^4] |
 | Apr 2018 | Series A-1 | $40M | IVP, Redpoint Ventures | — [^5] |
 | Jun 2018 | Series B | $50M | IVP | Forerunner Ventures, Thrive Capital, Maverick Capital, Redpoint Ventures [^6][^7] |
-| Jan 2019 | Series C | $100M | Undisclosed | Founders Fund, 8VC, Forerunner Ventures, Redpoint Ventures, Maverick Capital, IVP, Thrive Capital [^8][^9] |
+| 2019-01-28 | Series C | $100M (at $1B pre-money) | Undisclosed (per company) | Founders Fund, 8VC, Forerunner Ventures, Redpoint Ventures, Maverick Capital, IVP, Thrive Capital [^8][^9][^12] |
 | Jan 2021 | SPAC / IPO | ~$280M | Oaktree Acquisition Corp. | Franklin Templeton (PIPE) [^3] |
 
 Total private funding raised: approximately $197M across 5 rounds from 17 investors [^10]. The SPAC deal delivered up to $280M in cash through Oaktree's trust account (~$205M) and a $75M PIPE at $10/share [^3].
@@ -132,3 +132,4 @@ Total private funding raised: approximately $197M across 5 rounds from 17 invest
 [^9]: Crunchbase, "Series C - Hims & Hers - 2019-01-28," accessed March 2026. https://www.crunchbase.com/funding_round/hims-series-c--6b5d29a5
 [^10]: Crunchbase, "Hims & Hers — Funding, Financials, Valuation & Investors," accessed March 2026. https://www.crunchbase.com/organization/hims
 [^11]: IPO Edge, "Hims & Hers CEO Andrew Dudum on Going Public and the Future of Telehealth," accessed March 2026. https://ipo-edge.com/hims-hers-ceo-andrew-dudum-on-going-public-and-the-future-of-telehealth/
+[^12]: BeautyMatter, "Hims Raises $100MM Investment in Series C," February 2019. https://beautymatter.com/articles/hims-raises-100mm-investment-in-series-c

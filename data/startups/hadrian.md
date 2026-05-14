@@ -126,9 +126,9 @@ Hadrian operates a 100,000-square-foot facility in Torrance, California ("Factor
 | 2022-03 | Series A | $90M | Andreessen Horowitz, Lux Capital | Founders Fund, Construct Capital, Caffeinated Capital, Lachy Groom, 137 Ventures [^8][^2] |
 | 2023-12 | Series B | $117M | Construct Capital | RTX Ventures, WCM Investment Management, Caffeinated Capital, Andreessen Horowitz, Founders Fund, Lux Capital [^9][^10] |
 | 2025-07-17 | Series C | $260M (incl. $150M debt via Morgan Stanley) | Founders Fund, Lux Capital | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Andreessen Horowitz, Construct Capital [^3][^11] |
-| 2026-01-09 | Series D | Undisclosed | T. Rowe Price Associates | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Founders Fund, Lux Capital, Andreessen Horowitz, Construct Capital [^12] |
+| 2026-01-09 | Series D | Undisclosed (at $1.6B valuation) | T. Rowe Price Associates | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Founders Fund, Lux Capital, Andreessen Horowitz, Construct Capital [^12][^13][^16][^17] |
 
-Total funding raised: approximately $611 million [^13]. Valuation as of January 2026: $1.6 billion [^12].
+Total funding raised: approximately $611 million [^13]. Valuation as of January 2026: $1.6 billion (Series D); Hadrian did not disclose the amount raised in the Series D round [^12][^13][^16].
 
 ## What Investors Say
 
@@ -167,3 +167,5 @@ Total funding raised: approximately $611 million [^13]. Valuation as of January 
 [^13]: Washington Technology, "Andreessen Horowitz, Hadrian and Valinor detail their newest capital raises," January 2026. https://www.washingtontechnology.com/companies/2026/01/andreesen-horowitz-hadrian-and-valinor-detail-their-newest-capital-raises/410613/
 [^14]: Andreessen Horowitz, "Investing in Hadrian," 2022. https://a16z.com/announcement/investing-in-hadrian/
 [^15]: Not Boring by Packy McCormick, "Hadrian: Ex Machina Ad Lunam," 2022. https://www.notboring.co/p/hadrian-ex-machina-ad-lunam
+[^16]: Finsmes, "Hadrian Raises Funding at $1.6 Billion Valuation," January 2026. https://www.finsmes.com/2026/01/hadrian-raises-funding-at-1-6-billion-valuation.html
+[^17]: Pulse 2.0, "Hadrian Raises Funding At $1.6 Billion Valuation To Scale New U.S. Factories," January 2026. https://pulse2.com/hadrian-raises-funding-at-1-6-billion-valuation-to-scale-new-u-s-factories/
