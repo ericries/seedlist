@@ -144,7 +144,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Carrot Fertility | Series A | ~2020 | Enterprise/Health | Active [^9] |
 | Squire | Series A | ~2020 | Consumer/SaaS | Active [^9] |
 | Factorial | Series A | ~2021 | Enterprise/HR | Active [^9] |
-| CodeRabbit | Series A | 2024 | Developer Tools/AI | Active [^28] |
+| CodeRabbit | Series A (led, $16M) | 2024-08-15 | Developer Tools/AI | Active [^28][^31] |
 | Browserbase | Series A | 2024 | Developer Tools/AI | Active [^29] |
 | Protege | Seed | 2024 | AI/Data | Active [^10] |
 | Napkin AI | Seed | 2024 | AI/Consumer | Active [^10] |
@@ -230,3 +230,5 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^29]: "#PowerToTheDeveloper Building the Web Infrastructure for AI Agents and CRV's Investment in Browserbase," CRV Medium, 2024. https://medium.com/crv-insights/powertothedeveloper-building-the-web-infrastructure-for-ai-agents-and-crvs-investment-in-86b7689a56cc
 
 [^30]: PRNewsWire, "Joyful Health Raises $22M to Help Healthcare Providers Recover Billions in Unpaid Insurance Claims," April 16, 2026. https://www.prnewswire.com/news-releases/joyful-health-raises-22m-to-help-healthcare-providers-recover-billions-in-unpaid-insurance-claims-302743785.html
+
+[^31]: CodeRabbit blog, "CodeRabbit Announces $16M Series-A Funding Led by CRV," August 15, 2024. Accessed May 2026. https://www.coderabbit.ai/blog/coderabbit-announces-16m-series-a-funding-led-by-crv — Confirms $16M Series A announced August 15, 2024 led by CRV; Reid Christian (CRV General Partner) joined the board. Participants included Tod Sacerdoti (Flex Capital) and Ashmeet Sidana (Engineering Capital).

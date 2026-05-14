@@ -102,8 +102,8 @@ Based on verified sources, the following represents Uncork Capital's portfolio. 
 | GPTZero | Seed | 2023 | AI | Early | [^1][^22] |
 | Numeral | Seed | 2023 | Fintech / Tax | Early | [^1] |
 | Ivo | Seed | 2023 | AI / Legal | Early | [^1] |
-| Inertia | Seed | 2026 | Energy / Fusion | Early | [^1] |
-| Knit Health | Seed | 2026 | Healthcare / Clinical AI | Early | [^23] |
+| Inertia | Series A | 2026-02-11 | Energy / Fusion | Early | [^1][^24] |
+| Knit Health | Seed (co-led, $11.6M) | 2026-05-12 | Healthcare / Clinical AI | Early | [^23] |
 | Wildfire | Seed | ~2009 | AdTech | Acquired by Google | [^2] |
 | DocSend | Seed | ~2013 | SaaS | Acquired by Dropbox | [^2] |
 | Vungle | Seed | ~2011 | AdTech / Mobile | Acquired by Blackstone | [^2] |
@@ -168,3 +168,5 @@ No additional independently sourced founder testimonials found beyond company pr
 [^21]: Amy Saper, "Investing in Gamma (again!)," Uncork Capital on Medium, accessed April 2026. https://medium.com/uncorkcapital/investing-in-gamma-again-34fe72c72aff
 [^22]: Fast Company, "GPTZero raised $3.5 million to check the internet for AI-created work," May 2023, accessed April 2026. https://www.fastcompany.com/90892747/this-ai-detection-tool-raised-3-5-million-to-check-the-internet-for-computer-generated-work
 [^23]: Business Wire, "Knit Health Launches with $11.6M Seed to Build Clinical Intelligence AI for Healthcare," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512133959/en/Knit-Health-Launches-with-$11.6M-Seed-to-Build-Clinical-Intelligence-AI-for-Healthcare
+
+[^24]: GlobeNewsWire, "Inertia raises $450 million to commercialize the only proven fusion science," February 11, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/02/11/3236274/0/en/Inertia-raises-450-million-to-commercialize-the-only-proven-fusion-science.html — $450M Series A announced February 11, 2026, led by Bessemer Venture Partners; Uncork Capital among the participants alongside GV, Modern Capital, Threshold Ventures, and others. Founded by Jeff Lawson (Twilio co-founder) with Annie Kritcher and Mike Dunne.
