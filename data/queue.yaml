@@ -18727,7 +18727,7 @@ queue:
 - name: Rehan Yar Khan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Orios Venture Partners (Ola angel)
   discovered_from: anupam-mittal
@@ -22010,7 +22010,7 @@ queue:
 - name: Ghazal Alagh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Honasa Consumer
   discovered_from: namita-thapar
@@ -22778,3 +22778,201 @@ queue:
   firm: Secludy
   discovered_from: secludy
   source: Founder & CEO of Secludy (raised $4M Seed, 2026-05-13)
+- name: Honasa Consumer
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: BlissClub
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Wishlink
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Leap.club
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Uvi Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Crib
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: unScript.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: FS Life
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: P-TAL
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Dressfolk
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Outzidr
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Kidbea
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Underneat
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: True Diamond
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Eternal Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Sofina Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ghazal-alagh
+- name: Madhav Tandan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Orios Venture Partners
+  discovered_from: rehan-yar-khan
+- name: Sukhmani Bedi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Orios Venture Partners
+  discovered_from: rehan-yar-khan
+- name: Stellaris Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: Country Delight
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: Battery Smart
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: Ola Cabs
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: ixigo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: Nazara Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: HexaHealth
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: CarDekho
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: Zostel
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: GoMechanic
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rehan-yar-khan
+- name: Bhavish Aggarwal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ola / Krutrim
+  discovered_from: rehan-yar-khan
+- name: Jaspreet Singh
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Druva
+  discovered_from: rehan-yar-khan
+- name: Chakradhar Gade
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Country Delight
+  discovered_from: rehan-yar-khan
+- name: Pulkit Khurana
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Battery Smart
+  discovered_from: rehan-yar-khan

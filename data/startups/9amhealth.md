@@ -1,26 +1,32 @@
 ---
-name: 9amHealth
-slug: 9amhealth
-type: startup
-website: https://9am.health/
-location: San Diego, CA
+firms:
+- round: Series A
+  slug: 7wire-ventures
+  year: 2022
 founded: 2021
-status_company: active
+founders:
+- name: Frank Westermann
+  role: Co-Founder & CEO
+investors:
+- round: Series A
+  slug: lee-shapiro
+  year: 2022
+last_researched: 2026-05-13
+location: San Diego, CA
+name: 9amHealth
 sector:
 - healthcare
 - digital-health
 - virtual-care
 - chronic-disease
 - ai
+slug: 9amhealth
 stage_latest: Series B
-total_raised: $52M
-investors: []
-firms: []
-founders:
-- name: Frank Westermann
-  role: Co-Founder & CEO
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: $52M
+type: startup
+website: https://9am.health/
 ---
 
 ## About
