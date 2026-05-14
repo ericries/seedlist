@@ -80,7 +80,7 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 | Vaudit | Seed ($7.3M, led) | Jul 2025 | Ad-Tech / AI | Active | [^23] |
 | SkyfireAI | Seed ($11M, led) | 2026-04-28 | Defense / Drones / AI | Active | [^34] [^35] [^36] |
 | Bild | Series A | 2025 | Construction / PropTech | Active | [^6] |
-| Orion Sleep | Seed | 2025 | Consumer | Active | [^6] |
+| Orion Sleep | Seed (led, $17.5M) | 2025-12-11 | Consumer / Sleep Tech | Active | [^6][^37] |
 | Linq | Seed | 2026 | Hardware | Active | [^6] |
 | Freestyle | Seed | 2026 | Consumer Products | Active | [^6] |
 | Papaya | Seed | ~2017 | Fintech / Payments | Active (raised $50M Series B, Dec 2021) | [^32] |
@@ -160,3 +160,5 @@ Note: The above founder quotes are sourced from the Mucker Capital website and m
 [^34]: sUAS News, "SkyfireAI Raises $11 Million Seed to Advance Autonomous Multi-Ship Drone Operations for First Responders and Defense," April 2026, accessed May 2026. https://www.suasnews.com/2026/04/skyfireai-raises-11-million-seed-to-advance-autonomous-multi-ship-drone-operations-for-first-responders-and-defense/
 [^35]: SiliconANGLE, "SkyfireAI lands $11M to bring AI autonomy to public safety and defense drones," April 28, 2026, accessed May 2026. https://siliconangle.com/2026/04/28/skyfireai-lands-11m-bring-ai-autonomy-public-safety-defense-drones/
 [^36]: DroneDJ, "SkyfireAI raises $11M for autonomous drone coordination," May 1, 2026, accessed May 2026. https://dronedj.com/2026/05/01/skyfireai-autonomous-drone-seed-funding/
+
+[^37]: PR Newswire, "Orion Sleep Launches Next-Gen AI-Powered Smart Mattress Cover Following $18M Seed Raise," December 11, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/orion-sleep-launches-next-gen-ai-powered-smart-mattress-cover-following-18m-seed-raise-302638856.html — $17.5M Seed (rounded to $18M in headline) announced December 11, 2025, led by Mucker Capital with participation from Browder Capital, Second Sight Ventures, and operator/founder angels. Founders include Harry Gestetner, Jonathan Zwiebel, Scott Cohen, and Daniel Gestetner.

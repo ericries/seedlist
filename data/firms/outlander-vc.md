@@ -125,9 +125,9 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Tryby AI | Seed | ~2024 | Voice AI agents | [^11] |
 | DiffuseDrive | Seed (co-led) | 2025-05-14 | Generative AI for robotics | [^13][^19] |
 | Catalyx Space | Seed (led, $5.4M) | 2025-10-30 | Orbital logistics/space | [^14][^20] |
-| Flock AI | Pre-seed | 2025 | AI visual commerce/fashion | [^15] |
+| Flock AI | Pre-seed (led, $1.5M) | 2024-06-18 | AI visual commerce/fashion | [^15][^23] |
 | Material Hybrid Manufacturing | Seed (co-led, $7.1M) | 2026-01-12 | 3D-printed batteries/energy | [^16] |
-| Flock AI (follow-on) | Seed | 2026 | AI visual commerce/fashion | [^15] |
+| Flock AI (follow-on) | Seed (participated, $6M) | 2026-02-05 | AI visual commerce/fashion | [^15] |
 | Havoc | Series A | 2026-05-12 | Maritime/multi-domain autonomy/defense | [^21] |
 
 Note: Investments dated 2010-2018 were made through Paige Craig's personal angel portfolio and Arena Ventures (Fund I Archimedes), which preceded the formal Outlander VC entity. Dates for the angel-era investments (2010-2015) are verified via Signal NFX investor profile [^4], which records specific start months for Wish (Oct 2010), Twitter (Sep 2010), AngelList (Jan 2011), Postmates (Nov 2011), Gusto (Apr 2012), and Lyft (Oct 2012). Remaining "~" dates for angel-era investments are approximate based on company founding years; Craig's angel investing period ran from 2008 to 2015 [^4]. This table represents a subset of the firm's 150+ claimed investments.
@@ -192,3 +192,5 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^21]: WorkBoat, "Autonomous systems startup Havoc raises $100 million," May 12, 2026. Accessed May 2026. https://www.workboat.com/autonomous-systems-startup-havoc-raises-100-million — Havoc (founded 2024, Providence RI) announced a $100M Series A on May 12, 2026 with Outlander VC participating alongside returning investors Scout VC, B Capital, Lockheed Martin, Taiwania Capital, UP.Partners, The Veteran Fund, Vanderbilt University and new investors CCM Capital Markets, Clear Street, Cobalt Capital, Boardman Bay, Meet Perry, Mute Ventures, Soren Ventures, SAIC, JA Green. Total raised since founding: ~$200M.
 
 [^22]: GlobeNewswire, "VCs Deliver $5.5M to Lula Delivery," February 3, 2022. Accessed May 2026. https://www.globenewswire.com/news-release/2022/02/03/2378536/0/en/VCs-Deliver-5-5M-to-Lula-Delivery.html — Lula (Philadelphia, PA) announced a $5.5M seed round on February 3, 2022 co-led by Ripple Ventures, Outlander VC, and Up.Partners, with participation from SOSV, simple.capital, NZVC, Stonks.com, EasyPost, Park City Angels, Alumni Ventures, Broad Street Angels, Ben Franklin Technology Partners, and additional angels. Brings total to $6.5M following a $1M pre-seed in summer 2021.
+
+[^23]: Yahoo Finance / Sourcing Journal, "Exclusive: Early-Stage Startup Using AI for Visual Commerce Scores Pre-Seed Round," June 18, 2024. Accessed May 2026. https://finance.yahoo.com/news/exclusive-early-stage-startup-using-130000616.html — Flock AI announced $1.5M pre-seed on June 18, 2024, led by Outlander VC; Red Swan Ventures, F4 Fund, Hustle Fund, and Dorm Room Fund participated. Cross-referenced with Orrick news, "Flock AI Raises $6 Million Seed Round to Advance AI-Generated Visual Commerce," February 5, 2026. https://www.orrick.com/en/News/2026/03/Flock-AI-Raises-$6-Million-Seed-Round-to-Advance-AI-Generated-Visual-Commerce — $6M Seed led by Work-Bench; Outlander VC participated as follow-on. Total raised: $7.5M.

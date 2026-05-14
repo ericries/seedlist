@@ -101,7 +101,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Certify | Seed | 2025 | Healthcare/APIs | Active [^19] |
 | Elfie | Seed | 2025 | Healthcare/Wellness | Active [^19] |
 | Fusepay | Pre-Seed | 2025 | Fintech | Active [^7] |
-| Pavewise | Seed | 2025 | Construction/IT | Active [^19] |
+| Pavewise | Seed (participated, $2.5M) | 2025-10-22 | Construction/IT | Active [^19][^28] |
 | MidLyr | Pre-Seed | 2025 | Financial Services/AI | Active [^19] |
 | Mappa.ai | Seed | 2025 | HR/Recruiting | Active [^19] |
 | CoverRight | Seed | 2025 | Fintech/Insurance | Active [^19] |
@@ -171,3 +171,5 @@ Hustle Fund reports a Net Promoter Score (NPS) of 93 with its portfolio founders
 [^25]: Crunchbase, "Eric Bahn - General Partner & Co-Founder @ Hustle Fund," accessed April 2026. https://www.crunchbase.com/person/eric-bahn
 [^26]: Asian Tech Collective, "Meet Eric Bahn, Founding Partner at the Hustle Fund," accessed April 2026. https://www.asiantechcollective.com/post/meet-eric-bahn-founding-partner-at-the-hustle-fund
 [^27]: BusinessWire, "Keebler Health Raises $16M to Unlock Unstructured Clinical Data," April 15, 2026. https://www.businesswire.com/news/home/20260415896518/en/Keebler-Health-Raises-$16M-to-Unlock-Unstructured-Clinical-Data-for-the-Next-Generation-of-Risk-Adjustment-Population-Health-and-RADV-Audit-Readiness
+
+[^28]: GlobeNewsWire, "Pavewise Announces $2.5 Million Seed Funding Round," October 22, 2025. Accessed May 2026. https://www.globenewswire.com/news-release/2025/10/22/3171190/0/en/Pavewise-Announces-2-5-Million-Seed-Funding-Round.html — $2.5M Seed announced October 22, 2025, led by C2 Ventures with participation from Connectic, Service Provider Capital, Geoff Judge, Tom Stemm (ex-Ryvit CEO), M25, gener8tor 1889, Broadwater Capital, and additional investors. Hustle Fund is listed as a participating investor in this round per Tracxn.
