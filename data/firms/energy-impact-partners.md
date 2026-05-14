@@ -108,9 +108,9 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 |---------|-------|------|--------|--------|
 | Arcadia | Series A | 2017 | Clean energy platform | [^18] |
 | Electric Hydrogen | Series A | 2021 | Green hydrogen | [^16] |
-| Form Energy | Series F (follow-on) | 2024 | Long-duration energy storage | [^19] |
-| Quilt | Series B | 2025 | Heat pumps | [^17] |
-| Heron Power | Series A | 2025 | Grid power electronics | [^20] |
+| Form Energy | Series F (follow-on, $405M) | 2024-10-09 | Long-duration energy storage | [^19] |
+| Quilt | Series B (co-led, $20M) | 2025-12-08 | Heat pumps | [^17] |
+| Heron Power | Series A (participated) | 2025-05-29 | Grid power electronics | [^20][^26] |
 | Rondo Energy | Series A | 2022 | Industrial thermal storage | [^21] |
 | Zap Energy | Series C | 2022 | Fusion energy | [^21] |
 | Singularity Energy | Seed | 2022 | Grid decarbonization data | [^21] |
@@ -180,3 +180,6 @@ No additional independently sourced founder testimonials found beyond press rele
 [^23]: TechCrunch, "Noetic Cyber emerges from stealth with $20M led by Energy Impact Partners," July 28, 2021. https://techcrunch.com/2021/07/28/noetic-cyber-emerges-from-stealth-with-20m-led-by-energy-impact-partners/
 [^24]: BusinessWire, "Enterprise Security Startup Oort Raises $15M in Series A Funding to Stop Identity-Based Cyber Attacks," October 6, 2022. https://www.businesswire.com/news/home/20221006005254/en/Enterprise-Security-Startup-Oort-Raises-%2415M-in-Series-A-Funding-to-Stop-Identity-Based-Cyber-Attacks
 [^25]: Morningstar / Business Wire, "Martha Stewart Announces Hint, a New Home Management Platform Built on Human Expertise and AI," May 12, 2026. Accessed May 2026. https://www.morningstar.com/news/business-wire/20260512987617/martha-stewart-announces-hint-a-new-home-management-platform-built-on-human-expertise-and-ai
+
+[^26]: GlobeNewsWire, "Heron Power Raises $38M Series A to Accelerate an All-Electric Future," May 29, 2025. Accessed May 2026. https://www.globenewswire.com/news-release/2025/05/29/3090121/0/en/Heron-Power-Raises-38M-Series-A-to-Accelerate-an-All-Electric-Future.html — $38M Series A announced May 29, 2025, led by Capricorn Investment Group; Energy Impact Partners participated alongside Breakthrough Energy Ventures, Gigascale Capital, Powerhouse Ventures, Valor Equity Partners, JB Straubel, and Zach Kirkhorn.
+

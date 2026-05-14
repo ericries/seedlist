@@ -27,10 +27,6 @@ priority:
     type: firm
     reason: "led gaiia Series B (2026-05-12, $40M) — may need new profile"
     added: 2026-05-14
-  - slug: energy-impact-partners
-    type: firm
-    reason: "participated in Hint Seed (2026-05-13, $10M) — Martha Stewart AI home platform"
-    added: 2026-05-13
   - slug: sparx-asset-management
     type: firm
     reason: "led Oishii Series C (2026-05-13, $150M) — no profile yet"
