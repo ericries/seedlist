@@ -103,6 +103,7 @@ Based on verified sources, the following represents Uncork Capital's portfolio. 
 | Numeral | Seed | 2023 | Fintech / Tax | Early | [^1] |
 | Ivo | Seed | 2023 | AI / Legal | Early | [^1] |
 | Inertia | Seed | 2026 | Energy / Fusion | Early | [^1] |
+| Knit Health | Seed | 2026 | Healthcare / Clinical AI | Early | [^23] |
 | Wildfire | Seed | ~2009 | AdTech | Acquired by Google | [^2] |
 | DocSend | Seed | ~2013 | SaaS | Acquired by Dropbox | [^2] |
 | Vungle | Seed | ~2011 | AdTech / Mobile | Acquired by Blackstone | [^2] |
@@ -166,3 +167,4 @@ No additional independently sourced founder testimonials found beyond company pr
 [^20]: Tracxn, "Tailscale — 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/tailscale/__HoO0OVaODdbZEsDLJ7_OTsp344lrcNrb7eGx_aw5Lrk/funding-and-investors
 [^21]: Amy Saper, "Investing in Gamma (again!)," Uncork Capital on Medium, accessed April 2026. https://medium.com/uncorkcapital/investing-in-gamma-again-34fe72c72aff
 [^22]: Fast Company, "GPTZero raised $3.5 million to check the internet for AI-created work," May 2023, accessed April 2026. https://www.fastcompany.com/90892747/this-ai-detection-tool-raised-3-5-million-to-check-the-internet-for-computer-generated-work
+[^23]: Business Wire, "Knit Health Launches with $11.6M Seed to Build Clinical Intelligence AI for Healthcare," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512133959/en/Knit-Health-Launches-with-$11.6M-Seed-to-Build-Clinical-Intelligence-AI-for-Healthcare

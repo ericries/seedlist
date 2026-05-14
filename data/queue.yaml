@@ -22615,3 +22615,166 @@ queue:
   firm: Dil Foods
   discovered_from: dil-foods
   source: Founder of Dil Foods (₹72 Cr Series B, 2026-05-13)
+- name: Link Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anomaly-insights
+  source: participated in Anomaly Insights $17M (2026-05-13)
+- name: Redesign Health
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anomaly-insights
+  source: participated in Anomaly Insights $17M (2026-05-13)
+- name: Mike Desjadon
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Anomaly Insights
+  discovered_from: anomaly-insights
+  source: CEO of Anomaly Insights (raised $17M, 2026-05-13)
+- name: Juliette Bolea
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sound Ventures
+  discovered_from: anomaly-insights
+  source: Sound Ventures partner on Anomaly Insights $17M (2026-05-13)
+- name: Abbott
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nvision-quantum
+  source: led NVision Series B $55M (2026-05-13) — strategic diagnostic investor
+- name: Playground Global
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nvision-quantum
+  source: participated in NVision Series B $55M (2026-05-13)
+- name: Entrée Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nvision-quantum
+  source: participated in NVision Series B $55M (2026-05-13)
+- name: Matterwave Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nvision-quantum
+  source: participated in NVision Series B $55M (2026-05-13)
+- name: CDP Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nvision-quantum
+  source: participated in NVision Series B $55M (2026-05-13)
+- name: Sella Brosh
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: NVision Quantum
+  discovered_from: nvision-quantum
+  source: CEO & Co-Founder of NVision (raised $55M Series B, 2026-05-13)
+- name: Powerhouse Ventures (India)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: swishx
+  source: participated in SwishX Seed $2.2M (2026-05-12) — distinct from US climate-tech
+    Powerhouse Ventures
+- name: Sadev Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: swishx
+  source: participated in SwishX Seed $2.2M (2026-05-12)
+- name: Atrium Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: swishx
+  source: participated in SwishX Seed $2.2M (2026-05-12)
+- name: Dushyant Sapre
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: SwishX
+  discovered_from: swishx
+  source: Founder & CEO of SwishX (raised $2.2M Seed, 2026-05-12)
+- name: SignalFire
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vector-ai
+  source: co-led Vector Series A $10M (2026-05-13)
+- name: Joshua Perk
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Vector
+  discovered_from: vector-ai
+  source: CEO & Co-Founder of Vector (raised $10M Series A, 2026-05-13)
+- name: Adam Coccari
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: HubSpot Ventures
+  discovered_from: vector-ai
+  source: HubSpot Ventures partner on Vector Series A (2026-05-13)
+- name: Varun Ramakrishnan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SignalFire
+  discovered_from: vector-ai
+  source: SignalFire partner on Vector Series A (2026-05-13)
+- name: Impression Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: secludy
+  source: led Secludy Seed $4M (2026-05-13) — fintech-focused VC
+- name: Wedbush Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: secludy
+  source: participated in Secludy Seed $4M (2026-05-13)
+- name: Script Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: secludy
+  source: participated in Secludy Seed $4M (2026-05-13)
+- name: Ben Cerchio
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Secludy
+  discovered_from: secludy
+  source: Founder & CEO of Secludy (raised $4M Seed, 2026-05-13)

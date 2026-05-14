@@ -51,3 +51,23 @@ priority:
     type: firm
     reason: "co-led Knit Health Seed (2026-05-12, $11.6M) — may need new profile"
     added: 2026-05-14
+  - slug: sound-ventures
+    type: firm
+    reason: "led Anomaly Insights $17M (2026-05-13) — may need new profile"
+    added: 2026-05-14
+  - slug: blume-ventures
+    type: firm
+    reason: "participated in SwishX Seed (2026-05-12, $2.2M) — may need new profile"
+    added: 2026-05-14
+  - slug: hubspot-ventures
+    type: firm
+    reason: "co-led Vector Series A (2026-05-13, $10M) — may need new profile"
+    added: 2026-05-14
+  - slug: impression-ventures
+    type: firm
+    reason: "led Secludy Seed (2026-05-13, $4M) — fintech privacy AI"
+    added: 2026-05-14
+  - slug: abbott
+    type: firm
+    reason: "led NVision Series B (2026-05-13, $55M) — strategic diagnostic investor"
+    added: 2026-05-14
