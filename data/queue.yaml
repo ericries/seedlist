@@ -22976,3 +22976,108 @@ queue:
   added: '2026-03-17'
   firm: Battery Smart
   discovered_from: rehan-yar-khan
+- name: Nava Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Nava Ventures
+  discovered_from: wirestock
+- name: Freddie Martignetti
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Nava Ventures
+  discovered_from: wirestock
+- name: SBVP
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SBVP
+  discovered_from: wirestock
+- name: Sheryl Sandberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SBVP
+  discovered_from: wirestock
+- name: Formula VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Formula VC
+  discovered_from: wirestock
+- name: I2BF Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: I2BF Ventures
+  discovered_from: wirestock
+- name: Korea Investment Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Korea Investment Partners
+  discovered_from: xpanner
+- name: Sangjoon Park
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Korea Investment Partners
+  discovered_from: xpanner
+- name: KB Investment Co.
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: KB Investment Co.
+  discovered_from: xpanner
+- name: Brewer Lane Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Brewer Lane Ventures
+  discovered_from: novella
+- name: Chris Downer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brewer Lane Ventures
+  discovered_from: novella
+- name: Crystal Venture Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Crystal Venture Partners
+  discovered_from: novella
+- name: Avid Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Avid Ventures
+  discovered_from: novella
+- name: Verissimo Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Verissimo Ventures
+  discovered_from: novella
+- name: Blank Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Blank Ventures
+  discovered_from: novella

@@ -107,6 +107,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Novella | Series A | 2026-05-14 | Insurtech | Active [^novella2026] |
 | Plaid | Seed | 2013-09-19 | Fintech | Active (valued at $13B+) [^2][^20] |
 | Ramp | Seed | 2019-08-08 | Fintech | Active (valued at $16B+) [^11] |
 | Cursor (Anysphere) | Early | ~2023 | Developer Tools | Active [^6] |
@@ -225,3 +226,5 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^21]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV with BoxGroup, Lerer Hippeau, and Shine Capital participating. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
 [^22]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
 [^23]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms BoxGroup participated as an existing investor in the $50M Series B led by Thrive Capital on April 30, 2025. Cross-referenced with FinTech Global, "Financial AI innovator Rogo raises $50m in Series B round led by Thrive Capital." https://fintech.global/2025/05/02/financial-ai-innovator-rogo-raises-50m-in-series-b-round-led-by-thrive-capital/
+
+[^novella2026]: Reinsurance News, "AI-powered wholesale broker Novella raises $21m for US expansion," May 14, 2026. Accessed May 2026. https://www.reinsurancene.ws/ai-powered-wholesale-broker-novella-raises-21m-for-us-expansion/ — Novella's $21M Series A on May 14, 2026 was led by Brewer Lane Ventures with BoxGroup, Crystal Venture Partners, SV Angel, Avid Ventures, Verissimo Ventures, Blank Ventures, and Arch participating.
