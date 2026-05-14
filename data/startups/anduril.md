@@ -255,7 +255,7 @@ slug: anduril
 stage_latest: Series H
 status: published
 status_company: active
-total_raised: $10B+
+total_raised: $11B+
 type: startup
 website: https://www.anduril.com
 ---
@@ -266,7 +266,7 @@ Anduril Industries is an American defense technology company founded in 2017 by 
 
 ## Funding History
 
-Anduril has raised over $10 billion across eight rounds since its 2017 founding [^2][^4][^5].
+Anduril has raised over $11 billion across eight rounds since its 2017 founding [^2][^4][^5][^15].
 
 | Date | Round | Amount | Valuation | Lead | Co-investors |
 |------|-------|--------|-----------|------|-------------|
@@ -278,9 +278,9 @@ Anduril has raised over $10 billion across eight rounds since its 2017 founding 
 | Dec 2022 | Series E | $1.48B | $8.48B post | Valor Equity Partners | Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, WCM Investment Management, MVP Ventures, Lightspeed Venture Partners, US Innovative Technology Fund (Thomas Tull) [^9][^10] |
 | Aug 2024 | Series F | $1.5B | $14B post | Founders Fund, Sands Capital | Fidelity Management & Research, Counterpoint Global, Baillie Gifford, Altimeter Capital, Franklin Venture Partners [^3][^11] |
 | Jun 2025 | Series G | $2.5B | $30.5B post | Founders Fund ($1B) | — [^2][^4] |
-| Mar 2026 | Series H | ~$4B (reported) | ~$60B (reported) | Thrive Capital, Andreessen Horowitz | Founders Fund, Lux Capital [^5][^12] |
+| 2026-05-13 | Series H | $5B | $61B post | Thrive Capital, Andreessen Horowitz | Founders Fund, Lux Capital [^5][^12][^15][^16][^17] |
 
-Note: The Series H round was reported in early March 2026 but had not been confirmed as closed at the time of research [^5].
+Note: The Series H was first reported in March 2026 with a target of $4B at $60B [^5][^12]; the round closed on May 13, 2026 at $5B and a $61B post-money valuation [^15][^16][^17].
 
 ## What Investors Say
 
@@ -312,3 +312,9 @@ Trae Stephens on Anduril's strategic positioning: "We will look more like Lockhe
 [^12]: Axios, "Anduril raising $4 billion at a $60 billion valuation," March 4, 2026, accessed March 2026. https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation
 [^13]: Deciphr AI, "20VC Anduril Founder, Palmer Luckey" (podcast transcript), accessed March 2026. https://www.deciphr.ai/podcast/20vc-anduril-founder-palmer-luckey-i-am-here-to-build-a-50bn-company-how-palmer-evaluates-his-relationship-to-money-pre--post-oculus-23bn-exit--why-the-us-dod-needs-to-be-more-like-china-in-its-approach
 [^14]: The Generalist, "How Anduril is reimagining the defense industry: Trae Stephens," accessed March 2026. https://www.generalist.com/p/how-anduril-is-reimagining-the-defense-industry-trae-stephens
+
+[^15]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/
+
+[^16]: SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026. Accessed May 2026. https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/
+
+[^17]: Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026. Accessed May 2026. https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/

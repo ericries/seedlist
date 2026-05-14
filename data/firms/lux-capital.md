@@ -96,7 +96,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Anduril | Seed | 2017 | Defense | Active (valued at $30.5B) | [^4][^11] |
+| Anduril | Seed (also Series C, D, E, H) | 2017 (Seed); 2026-05-13 (Series H) | Defense | Active (valued at $61B post Series H) | [^4][^11][^16] |
 | Applied Intuition | Seed | 2017 | Autonomous vehicles/Defense | Active (valued at $15B) | [^4][^12] |
 | Hugging Face | Series A | 2019 | AI/ML | Active | [^7][^13] |
 | Runway | Seed | 2018 | AI/Creative tools | Active | [^4][^14] |
@@ -161,3 +161,5 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^13]: TechCrunch, "Hugging Face raises $15 million to build the definitive natural language processing library," December 17, 2019. https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
 [^14]: Tracxn, "Runway — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/runway/__YJRXAM3_qhw8sHb_MGKQpeME5TjwsPw8p7TiYBSHHgM/funding-and-investors
 [^15]: Tracxn, "Ramp — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/ramp/__mMFluFx9yKyt9DXRq5KzSGK2frbsYq5y9jc9XK9-g9E
+
+[^16]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Series H of $5B at $61B post-money led by Thrive Capital and Andreessen Horowitz; existing investors Founders Fund and Lux Capital also participated (per Axios reporting on the round formation).

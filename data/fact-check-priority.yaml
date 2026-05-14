@@ -7,10 +7,6 @@ priority:
     type: firm
     reason: "led Elliptic Series D (2026-05-12, $120M at $670M val) — may need new profile"
     added: 2026-05-13
-  - slug: founders-fund
-    type: firm
-    reason: "co-led Fractile Series B (2026-05-13, $220M); participated in Anduril Series H (2026-05-13)"
-    added: 2026-05-13
   - slug: buckley-ventures
     type: firm
     reason: "participated in Fractile Series B (2026-05-13, $220M) — may need new profile"

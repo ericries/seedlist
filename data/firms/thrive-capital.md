@@ -159,7 +159,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | OpenAI | Growth | 2024-10-02 | AI | Private [^1][^14] |
 | Scale AI | Series F ($1B, $13.8B post, led by Accel) | 2024-05-21 | AI / Data | Private [^13][^22][^25] |
 | Ramp | Growth | ~2021 | Fintech / Corporate Cards | Private [^3] |
-| Anduril Industries | Growth | ~2020 | Defense Tech | Private [^3][^18] |
+| Anduril Industries | Growth (Series E→H; co-led Series H) | 2022 (Series E); 2026-05-13 (Series H, co-led at $61B post) | Defense Tech | Private [^3][^18][^40] |
 | NuBank | Growth | ~2018 | Fintech / Banking | Public [^8] |
 | Opendoor | Growth | ~2018 | Real Estate / Tech | Public [^3] |
 | OpenGov | Growth | ~2017 | Enterprise / GovTech | Acquired by Cox Enterprises (2024) [^13] |
@@ -348,3 +348,5 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^38]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B announced July 15, 2025; GV and Kleiner Perkins co-led; Thrive participated.
 
 [^39]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B with Thrive Capital participation.
+
+[^40]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money, co-led by Thrive Capital and Andreessen Horowitz. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.

@@ -210,7 +210,7 @@ The following table includes a16z investments verified through the firm's own po
 | Duolingo | Growth | 2020 | EdTech / Consumer | Public [^10] |
 | OpenAI | Growth | 2023 | AI | Private [^10] |
 | Anthropic | Growth | 2023 | AI | Private [^10] |
-| Anduril | Growth | 2020 | Defense Tech | Private [^10] |
+| Anduril | Growth (Series B→H; co-led Series H) | 2019 (Series B); 2026-05-13 (Series H, co-led at $61B) | Defense Tech | Private [^10][^47] |
 | Applied Intuition | Growth | 2021 | Autonomous / Simulation | Private [^10] |
 | Rippling | Growth | 2022 | HR / Enterprise | Private [^10] |
 | Deel | Growth | 2022 | HR / Payroll | Private [^10] |
@@ -415,3 +415,5 @@ The following table includes a16z investments verified through the firm's own po
 [^45]: TechCrunch, "Substack raises $100M from Chernin Group, Andreessen Horowitz, Skims CEO, and more," July 17, 2025. Accessed May 2026. https://techcrunch.com/2025/07/17/substack-raises-100m-from-chernin-group-andreessen-horowitz-skims-ceo-and-more/ — Substack's $100M Series C announced July 17, 2025 at $1.1B valuation; co-led by BOND and The Chernin Group with Andreessen Horowitz, Rich Paul, and Jens Grede participating.
 
 [^46]: Aerodome blog, "Aerodome Raises $21.5M in Series A Funding Led by CRV," May 22, 2024. Accessed May 2026. https://www.aerodome.com/blog/series-a/ — $21.5M Series A announced May 22, 2024, led by CRV; Andreessen Horowitz, Karman Ventures, Immad Akhund, and Ford Street Ventures participated. Drone-as-first-responder platform; subsequently acquired by Flock Safety in October 2024 for over $300M.
+
+[^47]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money valuation, co-led by Thrive Capital and Andreessen Horowitz. Existing investors Founders Fund and Lux Capital also participated. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.

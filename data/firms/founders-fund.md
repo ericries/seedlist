@@ -175,7 +175,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 |---------|-------|------|--------|--------|
 | SpaceX | Series A | 2008 | Aerospace | Private [^1][^2] |
 | Palantir | Series A | ~2005 (founded) | Enterprise / Data Intelligence | Public (IPO 2020) [^1] |
-| Anduril | Series A | ~2017 (founded) | Defense Tech | Private [^28][^30] |
+| Anduril | Seed→Series H (participated through every round; led Series F, G; participated in Series H) | 2017-08 (Seed); 2018-06 (Series A); 2026-05-13 (Series H) | Defense Tech | Private (valued at $61B post Series H) [^28][^30][^48][^49] |
 | Stripe | Series C | 2014 | Fintech / Payments | Private [^23] |
 | Facebook | Angel/Early | ~2005 | Consumer Internet / Social | Public (IPO 2012) [^1] |
 | Airbnb | Series C | 2013 | Marketplace | Public (IPO 2020) [^22] |
@@ -237,6 +237,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | EnduroSat | Growth | ~2015 (founded) | Aerospace / Satellite | Private [^20] |
 | Anthropic | Series G (co-lead) | 2026-02-12 | AI | Private [^26][^43][^44] |
 | Nominal | Series B Extension (led, $80M at $1B valuation) | 2026-03-05 | Defense Tech / Hardware | Private [^35][^42] |
+| Fractile | Series B (co-led, $220M) | 2026-05-13 | AI / Inference Hardware (UK) | Private [^50][^51] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -371,3 +372,11 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^46]: Enter newsroom, "Enter raises $100M+ to become Latin America's first AI unicorn," May 5, 2026. Accessed May 2026. https://www.getenter.ai/en/news/enter-levanta-mais-de-us-100-milhoes-e-se-torna-o-primeiro-unicornio-de-ia-da-america-latina — São Paulo-based Enter announced $100M+ Series B at $1.2B valuation on May 5, 2026, led by Founders Fund with Sequoia Capital, Ribbit Capital, ONEVC, Atlantico, and Kaszek participating; Latin America's first AI unicorn.
 
 [^47]: PR Newswire, "Greenberg Traurig Represents Enter in $100M Series B, Creating Latin America's First AI Unicorn," May 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/greenberg-traurig-represents-enter-in-100m-series-b-creating-latin-americas-first-ai-unicorn-302767169.html
+
+[^48]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Series H closed May 13, 2026 at $5B / $61B post-money led by Thrive Capital and Andreessen Horowitz; Founders Fund (existing) also participated.
+
+[^49]: SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026. Accessed May 2026. https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ — Independent confirmation of $5B Series H at $61B post-money. Cross-referenced with Axios (March 2026) reporting Founders Fund and Lux Capital as existing investors participating: https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation
+
+[^50]: Tech.eu, "UK AI chip startup Fractile raises $220M to tackle the growing inference bottleneck," May 13, 2026. Accessed May 2026. https://tech.eu/2026/05/13/uk-ai-chip-startup-fractile-raises-220m-to-tackle-the-growing-inference-bottleneck/ — $220M Series B co-led by Accel, Factorial Funds, and Founders Fund with participation from Conviction, Gigascale, O1A, Felicis, Buckley Ventures, and 8VC.
+
+[^51]: Sifted, "Accel and Thiel's Founders Fund back Fractile in $220m raise," May 13, 2026. Accessed May 2026. https://sifted.eu/articles/fractile-220m-accel — Independent confirmation of $220M Series B closing May 13, 2026 led by Accel, Factorial Funds, and Founders Fund.
