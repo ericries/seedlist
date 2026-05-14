@@ -1,30 +1,42 @@
 ---
-name: Mind Robotics
-slug: mind-robotics
-type: startup
-website: https://www.mindrobotics.ai/
-location: Palo Alto, CA
+firms:
+- date: 2026-05-13
+  round: growth
+  slug: kleiner-perkins
+  year: 2026
+- round: Early
+  slug: bessemer-venture-partners
+  year: 2024
+- round: Seed ($115M)
+  slug: index-ventures
+  year: 2025
 founded: 2024
-status_company: active
+founders:
+- name: RJ Scaringe
+  role: Chairman (Rivian CEO)
+investors:
+- round: Early
+  slug: byron-deeter
+  year: 2024
+- round: Seed ($115M)
+  slug: mike-volpi
+  year: 2025
+last_researched: 2026-05-13
+location: Palo Alto, CA
+name: Mind Robotics
 sector:
 - robotics
 - industrial-robotics
 - ai
 - hardware
 - manufacturing
+slug: mind-robotics
 stage_latest: Growth
-total_raised: $1B+
-investors: []
-firms:
-- slug: kleiner-perkins
-  round: growth
-  year: 2026
-  date: 2026-05-13
-founders:
-- name: RJ Scaringe
-  role: Chairman (Rivian CEO)
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: $1B+
+type: startup
+website: https://www.mindrobotics.ai/
 ---
 
 ## About

@@ -18706,14 +18706,14 @@ queue:
 - name: Peyush Bansal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lenskart / Shark Tank India
   discovered_from: anupam-mittal
 - name: Ashneer Grover
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Independent (formerly BharatPe) / Shark Tank India S1
   discovered_from: anupam-mittal
@@ -22255,3 +22255,180 @@ queue:
   added: '2026-03-17'
   discovered_from: mind-robotics
   source: participated in Mind Robotics $400M (2026-05-13)
+- name: Lenskart
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Amit Chaudhary
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lenskart
+  discovered_from: peyush-bansal
+- name: Sumeet Kapahi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lenskart
+  discovered_from: peyush-bansal
+- name: Neha Bansal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lenskart
+  discovered_from: peyush-bansal
+- name: DailyObjects
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: inFeedo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Smiles.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: NOOE
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Neso Brands
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Premji Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Kedaara Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Alpha Wave Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peyush-bansal
+- name: Shashvat Nakrani
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: BharatPe
+  discovered_from: ashneer-grover
+- name: BharatPe
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: Third Unicorn
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: Aseem Ghavri
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Third Unicorn
+  discovered_from: ashneer-grover
+- name: Madhuri Jain Grover
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Third Unicorn
+  discovered_from: ashneer-grover
+- name: Albinder Dhindsa
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blinkit
+  discovered_from: ashneer-grover
+- name: Bhavik Koladiya
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: BharatPe
+  discovered_from: ashneer-grover
+- name: Sanjeev Bajaj
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bajaj Finserv
+  discovered_from: ashneer-grover
+- name: Tagz Foods
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: BluSmart
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: Lorien Finance
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: The Whole Truth Foods
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: Pocket FM
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: Zeta
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: CrickPe
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
+- name: ZeroPe
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashneer-grover
