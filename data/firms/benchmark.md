@@ -204,8 +204,9 @@ The following table includes 45 Benchmark investments verified through press cov
 | Persona | Early | ~2021 | Enterprise / Identity | Private [^10] |
 | Ironclad | Early | ~2021 | Enterprise / Legal | Private [^10] |
 | LangChain | Seed | 2023 | AI / Developer Tools | Private [^18] |
-| Exa Labs | Series B | 2025 | AI / Search | Private [^19] |
-| Reducto | Series B | 2025 | AI / Document Intelligence | Private [^20] |
+| Exa Labs | Series B (led, $85M at $700M val) | 2025-09-03 | AI / Search | Private [^19][^41] |
+| Monaco | Series B (led, $50M) | 2026-05-12 | AI / Sales | Private [^42] |
+| Reducto | Series B (participated) | 2025-10-14 | AI / Document Intelligence | Private [^20][^43] |
 | Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |
 | Forge | Early | ~2025 | AI | Private [^1] |
 | FOMO | Early | 2026 | Financial Services | Private [^9] |
@@ -345,3 +346,9 @@ The following table includes 45 Benchmark investments verified through press cov
 [^38]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from existing investors Benchmark, Sequoia Capital, and Greenoaks Capital. Benchmark co-led the prior Sierra Seed (Feb 2024) with Sequoia.
 [^39]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
 [^40]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
+
+[^41]: Exa blog, "Exa Raises $85M to Build the Search Engine for AIs," September 3, 2025. Accessed May 2026. https://exa.ai/blog/announcing-series-b — Confirms $85M Series B announced September 3, 2025, led by Benchmark at $700M valuation; Peter Fenton joined the board. Lightspeed, Y Combinator, and NVentures (NVIDIA's venture arm) participated. Cross-referenced with Latham & Watkins, "Advises Exa in US$85 Million Series B Financing With Benchmark and Lightspeed," September 2025. https://www.lw.com/en/news/2025/09/latham-watkins-advises-exa-in-us85-million-series-b-financing-with-benchmark-and-lightspeed
+
+[^42]: GlobeNewsWire, "Monaco Secures $50 Million in Series B Funding to Grow AI-Powered Sales Platform Amid Strong Customer Demand," May 12, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html — $50M Series B led by Benchmark on May 12, 2026 (Jack Altman general partner provided term sheet two hours after product preview); Founders Fund, Human Capital, Alt Cap, Mantis, Saga VC, Garry Tan, Neil Mehta, John Collison, Patrick Collison participated. Total funding >$85M.
+
+[^43]: PR Newswire, "Reducto Raises $75M Series B to Define the Future of AI Document Intelligence," October 14, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/reducto-raises-75m-series-b-to-define-the-future-of-ai-document-intelligence-302581462.html — $75M Series B led by Andreessen Horowitz on October 14, 2025; Benchmark, First Round Capital, BoxGroup, and Y Combinator participated. Total funding $108M.
