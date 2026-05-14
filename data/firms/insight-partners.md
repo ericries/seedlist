@@ -127,8 +127,8 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Kaseya | Growth | 2013 | IT Management | Active | [^31] |
 | Optimizely | Buyout | 2018 | Enterprise Software | Active | [^2] |
 | Ayar Labs | Series E ($500M, participated; Neuberger Berman led) | 2026-03-03 | Semiconductors / AI Infrastructure | Active | [^11][^33] |
-| Rocketlane | Series C | 2026 | SaaS / Customer Onboarding | Active | [^12] |
-| Linx Security | Series B | 2026 | Cybersecurity / Identity | Active | [^13] |
+| Rocketlane | Series C ($60M, led) | 2026-03-25 | SaaS / Customer Onboarding | Active | [^12][^34][^35] |
+| Linx Security | Series B ($50M, led) | 2026-03-31 | Cybersecurity / Identity | Active | [^13][^36][^37] |
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
@@ -168,8 +168,8 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^9]: Tracxn, "Insight Partners - 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/insightpartners/__vMkyI0dd9GF_tuKqUz00X4gV84On-vRd5koq9TV1wbg
 [^10]: Calcalist, "Insight Partners Backs SentinelOne in $200 Million Investment," February 2020. https://www.calcalistech.com/ctech/articles/0,7340,L-3794593,00.html
 [^11]: "Ayar Labs Raises $500M Series E," BusinessWire, March 3, 2026. https://www.businesswire.com/news/home/20260303005001/en/Ayar-Labs-Raises-500M-Series-E
-[^12]: Rocketlane $60M Series C backed by Insight Partners, March 2026.
-[^13]: Linx Security Blog, "Linx Security Raises $50M Series B," March 31, 2026. https://www.linx.security/blog/linx-security-raises-50m-series-b
+[^12]: Rocketlane press release, "Rocketlane Raises $60 Million Series C to Redefine Professional Services for the AI Era," March 25, 2026. Accessed May 2026. https://www.rocketlane.com/press/rocketlane-raises-series-c
+[^13]: Linx Security Blog, "Linx Security Raises $50M Series B," March 31, 2026. Accessed May 2026. https://www.linx.security/blog/linx-security-raises-50m-series-b
 [^14]: VC Cafe, "Israeli startup Wix Raises $40 Million," March 2011. https://www.vccafe.com/2011/03/28/israeli-startup-wix-raises-40-million-wants-to-become-a-large-company-in-israel/
 [^15]: Wellfound, "Twitter Funding Rounds, Valuation & Investors," accessed April 2026. https://wellfound.com/company/twitter/funding
 [^16]: Shopify HulkApps, "Shopify Venture Capital History," accessed April 2026. https://www.hulkapps.com/blogs/shopify-hub/shopify-venture-capital-history
@@ -190,3 +190,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^31]: Insight Partners, "Insight Venture Partners Makes Investment in Kaseya," June 2013. https://www.insightpartners.com/ideas/insight-venture-partners-makes-investment-in-kaseya/
 [^32]: BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV with participation from existing investors Insight Partners and Obvious Ventures. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research
 [^33]: Ayar Labs press release, "Ayar Labs Closes $500M Series E, Accelerates Volume Production of Co-Packaged Optics," March 3, 2026. Series E led by Neuberger Berman; new investors include Insight Partners. https://ayarlabs.com/news/ayar-labs-closes-500m-series-e-accelerates-volume-production-of-co-packaged-optics/
+[^34]: PR Newswire, "Rocketlane Raises $60 Million Series C to Redefine Professional Services for the AI Era," March 25, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/rocketlane-raises-60-million-series-c-to-redefine-professional-services-for-the-ai-era-302723180.html
+[^35]: Insight Partners, "Rocketlane Raises $60 Million Series C to Redefine Professional Services for the AI Era," March 25, 2026. Accessed May 2026. https://www.insightpartners.com/ideas/rocketlane-raises-60-million-series-c-to-redefine-professional-services-for-the-ai-era/
+[^36]: Insight Partners, "Linx Security Raises $50M Series B as Identity Becomes Security's Biggest Failure Point," March 31, 2026. Accessed May 2026. https://www.insightpartners.com/ideas/linx-security-raises-50m-series-b-as-identity-becomes-securitys-biggest-failure-point/
+[^37]: Finsmes, "Linx Security Raises $50M in Series B Funding," April 2026. Accessed May 2026. https://www.finsmes.com/2026/04/linx-security-raises-50m-in-series-b-funding.html

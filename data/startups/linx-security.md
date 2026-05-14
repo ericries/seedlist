@@ -52,7 +52,7 @@ Linx Security is a 100-person identity security startup founded in 2023 and head
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-03-31 | Series B | $50M | Insight Partners | Cyberstarts, Index Ventures [^1][^2] |
+| 2026-03-31 | Series B | $50M | Insight Partners | Cyberstarts, Index Ventures [^1][^2][^3] |
 
 Total raised to date: $83M [^1].
 
@@ -66,5 +66,6 @@ No verified founder quotes available at this time.
 
 ## Sources
 
-[^1]: Linx Security Blog, "Linx Security Raises $50M Series B," March 31, 2026. https://www.linx.security/blog/linx-security-raises-50m-series-b
+[^1]: Linx Security Blog, "Linx Security Raises $50M Series B," March 31, 2026. Accessed May 2026. https://www.linx.security/blog/linx-security-raises-50m-series-b
 [^2]: SiliconANGLE, "Linx Security raises $50M in new funding to grow identity and access platform," March 31, 2026. https://siliconangle.com/2026/03/31/linx-security-raises-50m-new-funding-grow-identity-access-platform/
+[^3]: Insight Partners, "Linx Security Raises $50M Series B as Identity Becomes Security's Biggest Failure Point," March 31, 2026. Accessed May 2026. https://www.insightpartners.com/ideas/linx-security-raises-50m-series-b-as-identity-becomes-securitys-biggest-failure-point/
