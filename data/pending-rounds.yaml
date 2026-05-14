@@ -179,6 +179,16 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: SPAC vehicle, not a startup round
+- title: Slovenia’s DDD Invoices secures €1.31 million to tackle fragmented global
+    e-invoicing compliance
+  url: https://www.eu-startups.com/2026/05/slovenias-ddd-invoices-secures-e1-31-million-to-tackle-fragmented-global-e-invoicing-compliance/
+  source: eu-startups
+  date_found: '2026-05-14'
+  parsed_company: Slovenia’s DDD Invoices
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  skip_reason: small €1.31M seed for Slovenian e-invoicing compliance; could not access EU-Startups (403) or confirm lead investor via independent primary source per "when in doubt, leave it out"
 - title: 'AI for the workers it can’t replace: Italy’s Gyver raises €1.4 million to
     empower electricians'
   url: https://www.eu-startups.com/2026/05/ai-for-the-workers-it-cant-replace-italys-gyver-raises-e1-4-million-to-empower-electricians/
@@ -1048,12 +1058,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: parsing artifact ("It most recently" is not a company name)
-- title: u003e. It most recently raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-05'
-  parsed_company: u003e. It most recently
-  parsed_amount: $250M
-  parsed_round: null
-  status: skipped
-  skip_reason: parsing artifact (HTML entity u003e)
