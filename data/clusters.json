@@ -9222,7 +9222,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 34,
+      "size": 38,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9392,6 +9392,26 @@
           "slug": "tom-glocer",
           "name": "Tom Glocer",
           "firm": "Angelic Ventures"
+        },
+        {
+          "slug": "peyush-bansal",
+          "name": "Peyush Bansal",
+          "firm": null
+        },
+        {
+          "slug": "ashneer-grover",
+          "name": "Ashneer Grover",
+          "firm": "third-unicorn"
+        },
+        {
+          "slug": "ghazal-alagh",
+          "name": "Ghazal Alagh",
+          "firm": null
+        },
+        {
+          "slug": "rehan-yar-khan",
+          "name": "Rehan Yar Khan",
+          "firm": "orios-venture-partners"
         }
       ]
     },
@@ -9833,7 +9853,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 48,
+      "size": 49,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10074,6 +10094,11 @@
           "slug": "namita-thapar",
           "name": "Namita Thapar",
           "firm": "Emcure Pharmaceuticals"
+        },
+        {
+          "slug": "ghazal-alagh",
+          "name": "Ghazal Alagh",
+          "firm": null
         }
       ]
     },
@@ -11271,7 +11296,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 12,
+      "size": 16,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11331,6 +11356,26 @@
           "slug": "aman-gupta",
           "name": "Aman Gupta",
           "firm": "boAt Lifestyle"
+        },
+        {
+          "slug": "peyush-bansal",
+          "name": "Peyush Bansal",
+          "firm": null
+        },
+        {
+          "slug": "ashneer-grover",
+          "name": "Ashneer Grover",
+          "firm": "third-unicorn"
+        },
+        {
+          "slug": "ghazal-alagh",
+          "name": "Ghazal Alagh",
+          "firm": null
+        },
+        {
+          "slug": "rehan-yar-khan",
+          "name": "Rehan Yar Khan",
+          "firm": "orios-venture-partners"
         }
       ]
     },
@@ -11677,7 +11722,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11733,6 +11778,11 @@
           "slug": "vineeta-singh",
           "name": "Vineeta Singh",
           "firm": "SUGAR Cosmetics"
+        },
+        {
+          "slug": "ashneer-grover",
+          "name": "Ashneer Grover",
+          "firm": "third-unicorn"
         }
       ],
       "id": "curated-48"
@@ -11741,7 +11791,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 10,
+      "size": 13,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -11792,9 +11842,68 @@
           "slug": "aman-gupta",
           "name": "Aman Gupta",
           "firm": "boAt Lifestyle"
+        },
+        {
+          "slug": "peyush-bansal",
+          "name": "Peyush Bansal",
+          "firm": null
+        },
+        {
+          "slug": "ashneer-grover",
+          "name": "Ashneer Grover",
+          "firm": "third-unicorn"
+        },
+        {
+          "slug": "ghazal-alagh",
+          "name": "Ghazal Alagh",
+          "firm": null
         }
       ],
       "id": "curated-49"
+    },
+    {
+      "id": "curated-50",
+      "name": "Shark Tank India Sharks",
+      "tagline": "Operator-judges from India's smash-hit reality show, writing real angel checks beyond on-air commitments.",
+      "type": "curated",
+      "size": 7,
+      "members": [
+        {
+          "slug": "aman-gupta",
+          "name": "Aman Gupta",
+          "firm": "boat-lifestyle"
+        },
+        {
+          "slug": "namita-thapar",
+          "name": "Namita Thapar",
+          "firm": "emcure-pharmaceuticals"
+        },
+        {
+          "slug": "vineeta-singh",
+          "name": "Vineeta Singh",
+          "firm": "sugar-cosmetics"
+        },
+        {
+          "slug": "anupam-mittal",
+          "name": "Anupam Mittal",
+          "firm": "people-group"
+        },
+        {
+          "slug": "peyush-bansal",
+          "name": "Peyush Bansal",
+          "firm": null
+        },
+        {
+          "slug": "ashneer-grover",
+          "name": "Ashneer Grover",
+          "firm": "third-unicorn"
+        },
+        {
+          "slug": "ghazal-alagh",
+          "name": "Ghazal Alagh",
+          "firm": null
+        }
+      ]
     }
   ]
 }
