@@ -23207,3 +23207,111 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: jon-callaghan
+- name: Ajax Health
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uromems
+- name: Barclays Climate Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: iceotope
+- name: Mohamed Oueida
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Stitch
+  discovered_from: stitch-saudi
+- name: Arbor Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stitch-saudi
+- name: COTU Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stitch-saudi
+- name: Raed Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stitch-saudi
+- name: SVC (Saudi Venture Capital)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stitch-saudi
+- name: Ian Crosby
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Synthetic
+  discovered_from: synthetic
+- name: Jon Chu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Khosla Ventures
+  discovered_from: synthetic
+- name: Misbah Uraizee
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Nectar Social
+  discovered_from: nectar-social
+- name: Farah Uraizee
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Nectar Social
+  discovered_from: nectar-social
+- name: Kinship Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nectar-social
+- name: Anthology Fund (Menlo Ventures x Anthropic)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nectar-social
+- name: Curql
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equipifi
+- name: PHX Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equipifi
+- name: HC9 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: optura
+- name: Matrix Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: optura
+  source: different from already-profiled Matrix Capital Management (hedge fund)

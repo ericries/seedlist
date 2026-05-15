@@ -118,6 +118,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Qualified Health | Series B (participated, Anthology Fund) | 2026-03-25 | Healthcare/AI | Private [^11][^18] |
 | Manifest OS | Series A (led, $60M at $750M val) | 2026-04-28 | LegalTech / AI | Private [^12][^19] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Private [^13] |
+| Nectar Social | Series A (led, Anthology Fund) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^20] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -152,3 +153,5 @@ No independently sourced founder testimonials found.
 [^18]: The SaaS News, "Qualified Health Secures $125M in Series B," March 26, 2026, accessed May 2026. https://www.thesaasnews.com/news/qualified-health-secures-125m-in-series-b
 
 [^19]: BusinessWire, "Manifest OS Raises $60M to Scale the World's First AI-Native Law Firm Model," April 28, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model — $60M Series A announced April 28, 2026 at $750M valuation; led by Menlo Ventures with Kleiner Perkins, First Round Capital, and Quiet Capital participating. Largest Series A in legal tech history. Cross-referenced with Menlo Ventures, "Manifest OS: AI-Powered Legal Services for Every Business," April 28, 2026. https://menlovc.com/perspective/manifest-os-ai-powered-legal-services-for-every-business/
+
+[^20]: Menlo Ventures, "Nectar Social: Rewriting the Modern Marketing Playbook," May 14, 2026. Accessed May 2026. https://menlovc.com/perspective/nectar-social-rewriting-the-modern-marketing-playbook/ — $30M Series A announced May 14, 2026, led by Menlo Ventures and its Anthology Fund (created with Anthropic), with True Ventures, GV, and Kinship Ventures participating. Cross-referenced with Business Wire press release, https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing.

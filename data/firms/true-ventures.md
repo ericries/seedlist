@@ -69,6 +69,7 @@ Notable investments where the firm or a named True partner participated:
 | Daydream | Seed | 2024-06 | Jon Callaghan | AI | Active [^15] |
 | Ernesta | Series A → B | 2022 / 2026 | Jon Callaghan | Consumer | Active [^15] |
 | Sandbar | Early | 2025 | — | Voice/wearable | Active [^8] |
+| Nectar Social | Seed → Series A | 2025-06 / 2026-05-14 | — | AI / MarTech / Social Commerce | Active [^16] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -113,3 +114,5 @@ No additional independently sourced founder testimonials specifically about work
 [^13]: ma.tt (Matt Mullenweg) venture-capital tag, Automattic Series A April 2007 (Polaris, True Ventures, Radar Partners, CNET), accessed May 2026. https://ma.tt/tag/venture-capital/
 [^14]: Peloton Interactive investor relations, "Jon Callaghan — Board Member" (board service through January 2025), accessed May 2026. https://investor.onepeloton.com/board-member/jon-callaghan/
 [^15]: Signal NFX, "Jon Callaghan's Investing Profile," accessed May 2026. https://signal.nfx.com/investors/jon-callaghan
+
+[^16]: True Ventures, "The Social Marketing Playbook Has Changed — Why We Backed Nectar Social," June 2025. Accessed May 2026. https://www.trueventures.com/blog/the-social-marketing-playbook-has-changed-why-we-backed-nectar-social — True Ventures co-led Nectar Social's $10.6M seed in June 2025 with GV. Cross-referenced with Business Wire press release for the $30M Series A on May 14, 2026 (True Ventures participated), https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing.

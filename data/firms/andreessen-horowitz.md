@@ -264,8 +264,9 @@ The following table includes a16z investments verified through the firm's own po
 | Ethos | Series A (led) | 2026-05-06 | AI / Expert Network / HR Tech | Private [^39] |
 | Pit | Seed (led) | 2026-05-07 | AI / Enterprise Operations | Private [^41] |
 | Tessera Labs | Series A (led) | 2026-05-06 | AI / ERP / Enterprise Software | Private [^42] |
+| Stitch (Saudi Arabia) | Series A (led; a16z's first GCC investment) | 2026-05-14 | Fintech / Core Banking Infrastructure | Private [^49] |
 
-*Note: This table includes 73 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 74 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -419,3 +420,5 @@ The following table includes a16z investments verified through the firm's own po
 [^47]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money valuation, co-led by Thrive Capital and Andreessen Horowitz. Existing investors Founders Fund and Lux Capital also participated. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.
 
 [^48]: Y Combinator blog, "Coinbase (YC S12) Raises $25M Led By Andreessen Horowitz," December 12, 2013. Accessed May 2026. https://www.ycombinator.com/blog/coinbase-yc-s12-raises-25m-led-by-andreessen-horowitz/ — Confirms a16z (Chris Dixon) led Coinbase's $25M Series B on December 12, 2013, with USV and Ribbit Capital participating. Cross-referenced with CoinDesk, "Coinbase Raises $25 Million in Bitcoin's Biggest Ever Funding Deal," December 12, 2013, https://www.coindesk.com/markets/2013/12/12/coinbase-raises-25-million-in-bitcoins-biggest-ever-funding-deal
+
+[^49]: Stitch press release via Business Wire, "Stitch Raises $25M Series A Led by Andreessen Horowitz," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514070694/en/Stitch-Raises-$25M-Series-A-Led-by-Andreessen-Horowitz — Saudi fintech Stitch closed $25M Series A on May 14, 2026, led by Andreessen Horowitz; this is a16z's first investment in the GCC. Existing investors Arbor Ventures, COTU Ventures, Raed Ventures, and SVC participated. Cross-referenced with PYMNTS, https://www.pymnts.com/news/fintech-investments/2026/saudi-fintech-stitch-raises-25-million-to-replace-fragmented-bank-cores/ and Wamda, https://www.wamda.com/2026/05/a16z-backs-saudi-fintech-stitch-gcc-deal.

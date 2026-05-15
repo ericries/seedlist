@@ -125,6 +125,7 @@ Based on GV's verified portfolio and public data:
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Private [^8] |
 | Sierra | Series E (co-led with Tiger Global) | 2026-05-04 | AI / Customer Service | Private [^9][^10][^11] |
 | MOTHER.Tech | Seed (led) | 2026-05-05 | AI / Creator Economy | Private [^12][^13] |
+| Nectar Social | Series A (participated; previously led Seed) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^17] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -163,3 +164,5 @@ No independently sourced founder testimonials found.
 [^15]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led.
 
 [^16]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Confirms July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation.
+
+[^17]: Nectar Social press release via Business Wire, "Nectar Social Raises $30M Series A to Build the Agentic Operating System for Modern Marketing," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing — $30M Series A led by Menlo Ventures and its Anthology Fund, with True Ventures, GV, and Kinship Ventures participating. GV previously co-led the $10.6M seed in June 2025 alongside True Ventures (Fortune, https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/).

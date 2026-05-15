@@ -130,6 +130,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Rocketlane | Series C ($60M, led) | 2026-03-25 | SaaS / Customer Onboarding | Active | [^12][^34][^35] |
 | Linx Security | Series B ($50M, led) | 2026-03-31 | Cybersecurity / Identity | Active | [^13][^36][^37] |
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
+| GovWell | Series A ($25M, led) | 2026-05-14 | GovTech / AI / Public Sector | Active | [^38][^39] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -194,3 +195,5 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^35]: Insight Partners, "Rocketlane Raises $60 Million Series C to Redefine Professional Services for the AI Era," March 25, 2026. Accessed May 2026. https://www.insightpartners.com/ideas/rocketlane-raises-60-million-series-c-to-redefine-professional-services-for-the-ai-era/
 [^36]: Insight Partners, "Linx Security Raises $50M Series B as Identity Becomes Security's Biggest Failure Point," March 31, 2026. Accessed May 2026. https://www.insightpartners.com/ideas/linx-security-raises-50m-series-b-as-identity-becomes-securitys-biggest-failure-point/
 [^37]: Finsmes, "Linx Security Raises $50M in Series B Funding," April 2026. Accessed May 2026. https://www.finsmes.com/2026/04/linx-security-raises-50m-in-series-b-funding.html
+[^38]: Yahoo Finance / GlobeNewsWire, "GovWell Raises $25M Series A Led by Insight Partners to Build the AI Operating System for Modern Government," May 14, 2026. Accessed May 2026. https://finance.yahoo.com/sectors/technology/articles/govwell-raises-25m-series-led-140000699.html
+[^39]: InfotechLead, "GovWell Raises $25 mn to Modernize Government Permitting With AI Platform," May 2026. Accessed May 2026. https://infotechlead.com/tech/govwell-raises-25-mn-to-modernize-government-permitting-with-ai-platform-95841
