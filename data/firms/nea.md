@@ -163,7 +163,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Salesforce | Series A | 1999 | Enterprise/CRM | IPO [^8][^12] |
 | Workday | Series E | 2009 | Enterprise/HR | IPO [^13][^14] |
 | Cloudflare | Series B | 2011 | Infrastructure/Security | IPO [^9][^15] |
-| Databricks | Series B | 2014 | Data/AI | Unicorn [^10][^16] |
+| Databricks | Series B (led, $33M) | 2014-06-30 | Data/AI | Unicorn [^10][^16][^20] |
 | Robinhood | Series B | 2015 | Fintech | IPO [^17] |
 | 3Com | Seed | 1981 | Networking | Acquired [^2] |
 | ElevenLabs | Series C | 2025 | AI/Voice | Active [^7] |
@@ -210,3 +210,5 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^18]: PR Newswire, "Bluefish Raises $43 Million Series B to Power Agentic Marketing for the Fortune 500," April 14, 2026. https://www.prnewswire.com/news-releases/bluefish-raises-43-million-series-b-to-power-agentic-marketing-for-the-fortune-500-302741124.html
 
 [^19]: Crunchbase News, "Exclusive: Repeat Founders Raise $20M For Spektr, A Fintech Compliance Startup, In NEA-Led Series A," April 16, 2026. https://news.crunchbase.com/venture/fintech-compliance-founders-20m-seriesa-spektr/
+
+[^20]: Databricks blog, "Databricks Unveils Apache Spark-Based Cloud Platform; Announces Series B Funding," June 30, 2014, accessed May 2026. https://www.databricks.com/blog/2014/06/30/databricks-unveils-spark-based-cloud-platform.html — Company's own announcement confirming NEA led the $33M Series B on June 30, 2014 with Andreessen Horowitz follow-on. Cross-referenced with TechCrunch, "Databricks Snags $33M In Series B," June 30, 2014, https://techcrunch.com/2014/06/30/databricks-snags-33m-in-series-b-and-debuts-cloud-platform-for-processing-big-data/

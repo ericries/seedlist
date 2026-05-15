@@ -179,7 +179,7 @@ Anthropic is an American artificial intelligence company founded in 2021 by Dari
 | Series C | 2023-05-23 | $450M | N/A | Spark Capital | Google, Salesforce Ventures, Sound Ventures, Zoom Ventures [^7][^17][^18][^19] |
 | Amazon Investment (Tranche 1) | Sep 2023 | $1.25B | N/A | Amazon | N/A [^8] |
 | Google Investment (Extension) | Oct 2023 | $500M+ | N/A | Google | N/A [^6] |
-| Amazon Investment (Tranche 2) | Mar 2024 | $2.75B | N/A | Amazon | N/A [^9] |
+| Amazon Investment (Tranche 2) | 2024-03-27 | $2.75B | N/A | Amazon | — [^9][^20][^21] |
 | Series D | Feb 2024 | $750M | $18.1B (post) | Menlo Ventures | N/A [^7] |
 | Amazon Investment (Extension) | Nov 2024 | $4B | N/A | Amazon | N/A [^9] |
 | Series E | Mar 2025 | $3.5B | $61.5B (post) | Lightspeed Venture Partners | Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures [^10] |
@@ -223,3 +223,7 @@ Dario Amodei has stated that Anthropic exists because its founders believed AI s
 [^18]: TechCrunch, "Anthropic raises $450M to build next-gen AI assistants," May 23, 2023, accessed May 2026. https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/ — Contemporaneous press confirming $450M Series C led by Spark Capital with Google, Salesforce, Sound Ventures, and Zoom Ventures participating.
 
 [^19]: VentureBeat, "Anthropic secures $450M in Series C funding from Google, Salesforce and others," May 23, 2023, accessed May 2026. https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/ — Third independent confirmation of the Series C participants.
+
+[^20]: TechCrunch, "Amazon doubles down on Anthropic, completing its planned $4B investment," March 27, 2024, accessed May 2026. https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/ — Confirms the $2.75B Tranche 2 closed March 27, 2024 (with Amazon exercising option before end-of-Q1 deadline), bringing total Amazon investment to $4B.
+
+[^21]: Bloomberg, "Amazon (AMZN) Invests Additional $2.75 Billion in Anthropic," March 27, 2024, accessed May 2026. https://www.bloomberg.com/news/articles/2024-03-27/amazon-invests-additional-2-75-billion-in-ai-startup-anthropic — Contemporaneous press confirming the $2.75B additional investment date.

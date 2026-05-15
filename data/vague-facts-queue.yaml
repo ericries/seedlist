@@ -135978,9 +135978,10 @@ vague_facts:
   profile: startups/anthropic
   profile_name: Anthropic
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: N/A
+  resolution_note: 'Date refined to 2024-03-27 (Amazon exercised option before end-of-Q1 deadline, completing the $4B commitment from Sep 2023). Sources: TechCrunch (March 27, 2024), Bloomberg (March 27, 2024), CNBC (March 27, 2024). Strategic investment from Amazon (no other co-investors); valuation not disclosed.'
 - column: 5
   company: Series D
   line: '| Series D | Feb 2024 | $750M | $18.1B (post) | Menlo Ventures | N/A [^7]
@@ -136507,9 +136508,10 @@ vague_facts:
   profile: startups/coinbase
   profile_name: Coinbase
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: N/A
+  resolution_note: 'Date refined to 2013-12-12. Sources: TechCrunch (Dec 12, 2013), Y Combinator blog (Dec 12, 2013), CoinDesk (Dec 12, 2013). Updated Coinbase startup and a16z firm profiles.'
 - column: 2
   company: IPO (Direct Listing)
   line: '| IPO (Direct Listing) | Apr 2021 | N/A | $47B (reference) | N/A | Public
@@ -136664,9 +136666,10 @@ vague_facts:
   profile: startups/databricks
   profile_name: Databricks
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: N/A
+  resolution_note: 'Date refined to 2014-06-30; co-investor Andreessen Horowitz (follow-on) confirmed. Sources: Databricks blog (June 30, 2014), TechCrunch (June 30, 2014), Crunchbase funding-round profile. Updated Databricks startup and NEA firm profiles.'
 - column: 3
   company: Series C
   line: '| Series C | Dec 2016 | $60M | N/A | New Enterprise Associates (NEA) | Andreessen

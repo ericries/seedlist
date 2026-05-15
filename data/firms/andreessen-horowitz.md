@@ -193,7 +193,7 @@ The following table includes a16z investments verified through the firm's own po
 | Pinterest | Growth | 2012 | Consumer / Social | Public (IPO 2019) [^10] |
 | Okta | Series A | 2012 | Enterprise SaaS / Identity | Public (IPO 2017) [^10] |
 | Lyft | Series C | 2013 | Marketplace / Transportation | Public (IPO 2019) [^10] |
-| Coinbase | Series B | 2013 | Crypto / Fintech | Public (IPO 2021) [^10][^20] |
+| Coinbase | Series B (led, $25M) | 2013-12-12 | Crypto / Fintech | Public (IPO 2021) [^10][^20][^48] |
 | Slack | Series A | 2014 | Enterprise SaaS | Acquired by Salesforce (2021, $27.7B) [^10] |
 | Stripe | Growth | 2014 | Fintech / Payments | Private [^10] |
 | Databricks | Series A | 2013 | Enterprise / Data & AI | Private [^10] |
@@ -417,3 +417,5 @@ The following table includes a16z investments verified through the firm's own po
 [^46]: Aerodome blog, "Aerodome Raises $21.5M in Series A Funding Led by CRV," May 22, 2024. Accessed May 2026. https://www.aerodome.com/blog/series-a/ — $21.5M Series A announced May 22, 2024, led by CRV; Andreessen Horowitz, Karman Ventures, Immad Akhund, and Ford Street Ventures participated. Drone-as-first-responder platform; subsequently acquired by Flock Safety in October 2024 for over $300M.
 
 [^47]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money valuation, co-led by Thrive Capital and Andreessen Horowitz. Existing investors Founders Fund and Lux Capital also participated. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.
+
+[^48]: Y Combinator blog, "Coinbase (YC S12) Raises $25M Led By Andreessen Horowitz," December 12, 2013. Accessed May 2026. https://www.ycombinator.com/blog/coinbase-yc-s12-raises-25m-led-by-andreessen-horowitz/ — Confirms a16z (Chris Dixon) led Coinbase's $25M Series B on December 12, 2013, with USV and Ribbit Capital participating. Cross-referenced with CoinDesk, "Coinbase Raises $25 Million in Bitcoin's Biggest Ever Funding Deal," December 12, 2013, https://www.coindesk.com/markets/2013/12/12/coinbase-raises-25-million-in-bitcoins-biggest-ever-funding-deal

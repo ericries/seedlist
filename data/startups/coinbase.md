@@ -37,9 +37,10 @@ firms:
 - round: ~2015
   slug: draper-associates
   year: 2015
-- round: '2013'
+- round: Series B
   slug: andreessen-horowitz
   year: 2013
+  date: 2013-12-12
 - round: Series A
   slug: union-square-ventures
   year: 2013
@@ -114,9 +115,10 @@ investors:
 - round: ~2015
   slug: tim-draper
   year: 2015
-- round: '2013'
+- round: Series B (Lead)
   slug: chris-dixon
   year: 2013
+  date: 2013-12-12
 - round: Series A
   slug: fred-wilson
   year: 2013
@@ -133,6 +135,7 @@ investors:
 - round: Series B (a16z led $25M)
   slug: marc-andreessen
   year: 2013
+  date: 2013-12-12
 - round: Series D (Lead)
   slug: tom-loverro
   year: 2017
@@ -190,7 +193,7 @@ Coinbase was founded in June 2012 by Brian Armstrong and Fred Ehrsam in San Fran
 |-------|------|--------|-----------|---------------|------------------|
 | Seed | Sep 2012 | $600K | N/A | Y Combinator ($150K) | FundersClub ($269K from 61 members), IDG Ventures, SV Angel, Adam Draper [^2] [^5] |
 | Series A | 2013-05-08 | $5M | ~$20M | Union Square Ventures (Fred Wilson) | Ribbit Capital, SV Angel, FundersClub [^6][^13][^14] |
-| Series B | Dec 2013 | $25M | N/A | Andreessen Horowitz | Union Square Ventures, Ribbit Capital [^7] |
+| Series B | 2013-12-12 | $25M | N/A | Andreessen Horowitz | Union Square Ventures, Ribbit Capital [^7][^15] |
 | Series C | Jan 2015 | $75M | ~$500M | DFJ Growth | Andreessen Horowitz, Union Square Ventures, Ribbit Capital, NYSE, USAA, BBVA, DoCoMo Capital [^8] |
 | Series D | Aug 2017 | $100M | $1.6B | IVP | Spark Capital, Greylock Partners, Battery Ventures, Section 32, Draper Associates [^9] |
 | Series E | Oct 2018 | $300M | $8B | Tiger Global | Y Combinator Continuity, Wellington Management, Andreessen Horowitz, Polychain [^10] |
@@ -231,3 +234,5 @@ Armstrong has spoken about recognizing early on that someone needed to build a c
 [^13]: Union Square Ventures, "Coinbase," by Fred Wilson, May 8, 2013, accessed May 2026. https://www.usv.com/writing/2013/05/coinbase/ — USV's announcement of its Coinbase investment, naming Ribbit Capital, SV Angel, and Funders Club as co-investors in the Series A.
 
 [^14]: Coinbase blog, "Coinbase raises $5m in Series A funding," May 22, 2013, accessed May 2026. https://www.coinbase.com/blog/coinbase-raises-usd5m-in-series-a-funding — Company's own announcement of the $5M Series A from USV with Ribbit Capital, SV Angel, and FundersClub participating.
+
+[^15]: Y Combinator blog, "Coinbase (YC S12) Raises $25M Led By Andreessen Horowitz," December 12, 2013, accessed May 2026. https://www.ycombinator.com/blog/coinbase-yc-s12-raises-25m-led-by-andreessen-horowitz/ — YC's announcement of Coinbase's Series B, confirming the $25M amount, December 12, 2013 date, and participation by Union Square Ventures and Ribbit Capital alongside lead Andreessen Horowitz.

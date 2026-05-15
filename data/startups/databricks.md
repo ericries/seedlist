@@ -135,7 +135,7 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
 | Series A | Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A [^6] |
-| Series B | Jun 2014 | $33M | N/A | New Enterprise Associates (NEA) | N/A [^7] |
+| Series B | 2014-06-30 | $33M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^7][^21][^22] |
 | Series C | Dec 2016 | $60M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^8] |
 | Series D | Aug 2017 | $140M | N/A | Andreessen Horowitz | NEA, Battery Ventures [^9] |
 | Series E | Feb 2019 | $250M | $2.75B | Andreessen Horowitz | Coatue Management, Microsoft, NEA, Battery Ventures, Green Bay Ventures, Geodesic [^10] |
@@ -184,3 +184,7 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^18]: Fortune, "How Databricks became an A.I. sensation," March 2023. https://fortune.com/2023/03/02/databricks-ben-horowitz-data-cloud-startup/
 [^19]: PR Newswire, "Databricks is Raising $10B Series J Investment at $62B Valuation," December 17, 2024. https://www.prnewswire.com/news-releases/databricks-is-raising-10b-series-j-investment-at-62b-valuation-302333822.html
 [^20]: Fenwick & West, "Fenwick Represents Databricks in its $10B Series J Financing," December 2024. https://www.fenwick.com/insights/experience/fenwick-represents-databricks-in-its-10-billion-series-j-financing
+
+[^21]: Databricks blog, "Databricks Unveils Apache Spark-Based Cloud Platform; Announces Series B Funding," June 30, 2014, accessed May 2026. https://www.databricks.com/blog/2014/06/30/databricks-unveils-spark-based-cloud-platform.html — Company's own announcement confirming the $33M Series B led by NEA with Andreessen Horowitz follow-on, dated June 30, 2014.
+
+[^22]: TechCrunch, "Databricks Snags $33M In Series B And Debuts Cloud Platform For Processing Big Data," June 30, 2014, accessed May 2026. https://techcrunch.com/2014/06/30/databricks-snags-33m-in-series-b-and-debuts-cloud-platform-for-processing-big-data/ — Contemporaneous press confirming $33M Series B led by NEA with Andreessen Horowitz participation, on June 30, 2014.
