@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation
+  url: https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: UK EdTech Multiverse
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Valencia-based Fresh People raises €2.6 million to scale Booster, its AI
+    leadership copilot
+  url: https://www.eu-startups.com/2026/05/valencia-based-fresh-people-raises-e2-6-million-to-scale-booster-its-ai-leadership-copilot/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: Valencia-based Fresh People
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s PANTA raises €3.4 million to modernise how financial indices are
+    built and managed
+  url: https://www.eu-startups.com/2026/05/londons-panta-raises-e3-4-million-to-modernise-how-financial-indices-are-built-and-managed/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: London’s PANTA
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios Fervo Energy raised $1.9B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1040,30 +1066,3 @@ pending_rounds:
   parsed_round: Seed
   status: skipped
   skip_reason: small ($7M)
-- title: Davis raised $5.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: Davis
-  parsed_amount: $5.5M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate; already skipped (couldn't verify)
-- title: Corvera raised $4.2M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: Corvera
-  parsed_amount: $4.2M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small ($4.2M)
-- title: MSICS Pharma raised $3.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: MSICS Pharma
-  parsed_amount: $3.6M
-  parsed_round: null
-  status: skipped
-  skip_reason: small ($3.6M)
