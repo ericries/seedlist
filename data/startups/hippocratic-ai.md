@@ -1,31 +1,46 @@
 ---
-name: Hippocratic AI
-slug: hippocratic-ai
-type: startup
-location: Palo Alto, CA
-founded: 2023
-status_company: active
-sector:
-  - healthcare
-  - ai
-  - digital-health
-stage_latest: Series C
-total_raised: "$245M+"
-founders:
-  - name: Munjal Shah
-    role: Co-Founder & CEO
 firms:
-  - slug: andreessen-horowitz
-    round: seed
-    year: 2023
-    date: 2023-05-16
-  - slug: sv-angel
-    round: series-a
-    year: 2024
-    date: 2024-03-18
-investors: []
-status: published
+- date: 2023-05-16
+  round: seed
+  slug: andreessen-horowitz
+  year: 2023
+- date: 2024-03-18
+  round: series-a
+  slug: sv-angel
+  year: 2024
+- round: Seed (co-led)
+  slug: general-catalyst
+  year: 2023
+- round: Series C
+  slug: kleiner-perkins
+  year: 2025
+founded: 2023
+founders:
+- name: Munjal Shah
+  role: Co-Founder & CEO
+investors:
+- round: Seed (co-led)
+  slug: hemant-taneja
+  year: 2023
+- round: Series C
+  slug: john-doerr
+  year: 2025
+- round: '2023'
+  slug: julie-yoo
+  year: 2023
 last_researched: 2026-05-14
+location: Palo Alto, CA
+name: Hippocratic AI
+sector:
+- healthcare
+- ai
+- digital-health
+slug: hippocratic-ai
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $245M+
+type: startup
 ---
 
 ## About

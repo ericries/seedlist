@@ -18824,7 +18824,7 @@ queue:
 - name: Mark Thompson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Independent (former CEO NYT/BBC/CNN)
   discovered_from: edward-tian
@@ -18933,7 +18933,7 @@ queue:
 - name: Jon Callaghan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: True Ventures
   discovered_from: brad-feld
@@ -23081,3 +23081,129 @@ queue:
   added: '2026-03-17'
   firm: Blank Ventures
   discovered_from: novella
+- name: David Zaslav
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Warner Bros. Discovery
+  discovered_from: mark-thompson
+- name: Deborah Liu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ancestry
+  discovered_from: mark-thompson
+- name: Meredith Kopit Levien
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: The New York Times Company
+  discovered_from: mark-thompson
+- name: Maria Ressa
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Rappler
+  discovered_from: mark-thompson
+- name: Ancestry
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mark-thompson
+- name: Phil Black
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: John Burke
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Tony Conrad
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Adam D'Augelli
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Toni Schneider
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Puneet Agarwal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Om Malik
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Amy Errett
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: True Ventures
+  discovered_from: jon-callaghan
+- name: Automattic
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jon-callaghan
+- name: Aisera
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jon-callaghan
+- name: Pipedream
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jon-callaghan
+- name: Ernesta
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jon-callaghan
+- name: Sandbar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jon-callaghan
+- name: Madison Reed
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jon-callaghan

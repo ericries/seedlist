@@ -4,10 +4,16 @@ firms:
   round: Series A
   slug: first-round-capital
   year: 2026
+- round: Seed ($50M)
+  slug: true-ventures
+  year: 2024
 founders: []
 investors:
 - round: '2024'
   slug: todd-jackson
+  year: 2024
+- round: Seed ($50M)
+  slug: jon-callaghan
   year: 2024
 last_researched: 2026-04-03
 location: San Francisco, CA
