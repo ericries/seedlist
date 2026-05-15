@@ -46,6 +46,41 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: FTAI Aviation Announces Full Redemption of Outstanding 8.25% Fixed-Rate Reset
+    Series C Cumulative Perpetual Redeemable Preferred Shares
+  url: https://www.globenewswire.com/news-release/2026/05/15/3295679/35538/en/FTAI-Aviation-Announces-Full-Redemption-of-Outstanding-8-25-Fixed-Rate-Reset-Series-C-Cumulative-Perpetual-Redeemable-Preferred-Shares.html
+  source: globenewswire
+  date_found: '2026-05-15'
+  parsed_company: FTAI Aviation
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Indian Uber rival Rapido raises $240M at $3B valuation
+  url: https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/
+  source: techcrunch
+  date_found: '2026-05-15'
+  parsed_company: Indian Uber rival Rapido
+  parsed_amount: $240M
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (May 11–May 15)
+  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-11-may-15/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based Elephant Company raises over €5 million to bring AI-powered
+    training to frontline workers
+  url: https://www.eu-startups.com/2026/05/berlin-based-elephant-company-raises-over-e5-million-to-bring-ai-powered-training-to-frontline-workers/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: Berlin-based Elephant Company
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios Fervo Energy raised $1.9B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1030,39 +1065,3 @@ pending_rounds:
   parsed_round: Series A
   status: skipped
   skip_reason: duplicate (already covered earlier as copilotkit.md)
-- title: Lithosquare raised $25M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: Lithosquare
-  parsed_amount: $25M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: duplicate (already covered earlier as lithosquare.md)
-- title: District raised $14.7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: District
-  parsed_amount: $14.7M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small ($14.7M); sector unverified
-- title: Illoca raised $13M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: Illoca
-  parsed_amount: $13M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small ($13M); sector unverified
-- title: Altara raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-07'
-  parsed_company: Altara
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: small ($7M)
