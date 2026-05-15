@@ -52,9 +52,9 @@ Notable investments where the firm or a named True partner participated:
 | Automattic | Series A | 2007 | (firm participated; Toni Schneider later joined as CEO) | Open-source/SaaS | Active [^13] |
 | Fitbit | First external round | 2008 | Jon Callaghan | Wearables | IPO 2015; acq. Google 2021 [^12] |
 | Peloton | Early | ~2014-2015 | Jon Callaghan | Connected fitness | IPO 2019 [^1][^14] |
-| MakerBot | Early | ~2011 | — | 3D printing | Acq. Stratasys 2013 [^7] |
+| MakerBot | Series A ($10M; Foundry Group led) | 2011-08-23 | — | 3D printing | Acq. Stratasys 2013 [^7][^17][^18] |
 | HashiCorp | Seed (first investor) | 2013-04 | Adam D'Augelli | Cloud infrastructure | IPO 2021; acq. IBM 2024 [^11] |
-| Duo Security | Early | — | — | Security (MFA) | Acq. Cisco 2018 (~$2.35B) [^1][^7] |
+| Duo Security | Series A ($5M; Google Ventures led) | 2012-02-28 | — | Security (MFA) | Acq. Cisco 2018 (~$2.35B) [^1][^7][^19][^20] |
 | Ring | Series A (lead) | 2014-04 | Jon Callaghan | Smart home | Acq. Amazon 2018 [^9] |
 | Blue Bottle Coffee | Early | — | — | Consumer/coffee | Acq. Nestlé 2017 [^7] |
 | Glowforge | Series A | 2015 | (co-led with Foundry Group) | Hardware/3D laser | Active [^10] |
@@ -116,3 +116,11 @@ No additional independently sourced founder testimonials specifically about work
 [^15]: Signal NFX, "Jon Callaghan's Investing Profile," accessed May 2026. https://signal.nfx.com/investors/jon-callaghan
 
 [^16]: True Ventures, "The Social Marketing Playbook Has Changed — Why We Backed Nectar Social," June 2025. Accessed May 2026. https://www.trueventures.com/blog/the-social-marketing-playbook-has-changed-why-we-backed-nectar-social — True Ventures co-led Nectar Social's $10.6M seed in June 2025 with GV. Cross-referenced with Business Wire press release for the $30M Series A on May 14, 2026 (True Ventures participated), https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing.
+
+[^17]: TechCrunch, "MakerBot Takes $10 Million In Funding From Foundry Group, Angels," August 23, 2011. Accessed May 2026. https://techcrunch.com/2011/08/23/makerbot-takes-10-million-in-funding-from-foundry-group-angels/ — MakerBot's $10M Series A announced August 23, 2011, led by Foundry Group with Bezos Expeditions, True Ventures, and RRE Ventures participating alongside a dozen angels.
+
+[^18]: AllThingsD, "MakerBot Raises $10 Million for 3D Printers," August 23, 2011. Accessed May 2026. https://allthingsd.com/20110823/makerbot-raises-10-million-for-3d-printers — Confirms $10M Series A led by Foundry Group with RRE Ventures, True Ventures, and Bezos Expeditions participating.
+
+[^19]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating. Quote from GV partner Karim Faris included.
+
+[^20]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012 with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.

@@ -191,7 +191,7 @@ The following table includes a16z investments verified through the firm's own po
 | Airbnb | Series B | 2011 | Marketplace | Public (IPO 2020) [^10][^19] |
 | GitHub | Series A | 2012 | Developer Tools | Acquired by Microsoft (2018) [^10] |
 | Pinterest | Growth | 2012 | Consumer / Social | Public (IPO 2019) [^10] |
-| Okta | Series A | 2012 | Enterprise SaaS / Identity | Public (IPO 2017) [^10] |
+| Okta | Series A (led, $10M) | 2010-07-13 | Enterprise SaaS / Identity | Public (IPO 2017) [^10][^50][^51] |
 | Lyft | Series C | 2013 | Marketplace / Transportation | Public (IPO 2019) [^10] |
 | Coinbase | Series B (led, $25M) | 2013-12-12 | Crypto / Fintech | Public (IPO 2021) [^10][^20][^48] |
 | Slack | Series A | 2014 | Enterprise SaaS | Acquired by Salesforce (2021, $27.7B) [^10] |
@@ -422,3 +422,7 @@ The following table includes a16z investments verified through the firm's own po
 [^48]: Y Combinator blog, "Coinbase (YC S12) Raises $25M Led By Andreessen Horowitz," December 12, 2013. Accessed May 2026. https://www.ycombinator.com/blog/coinbase-yc-s12-raises-25m-led-by-andreessen-horowitz/ — Confirms a16z (Chris Dixon) led Coinbase's $25M Series B on December 12, 2013, with USV and Ribbit Capital participating. Cross-referenced with CoinDesk, "Coinbase Raises $25 Million in Bitcoin's Biggest Ever Funding Deal," December 12, 2013, https://www.coindesk.com/markets/2013/12/12/coinbase-raises-25-million-in-bitcoins-biggest-ever-funding-deal
 
 [^49]: Stitch press release via Business Wire, "Stitch Raises $25M Series A Led by Andreessen Horowitz," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514070694/en/Stitch-Raises-$25M-Series-A-Led-by-Andreessen-Horowitz — Saudi fintech Stitch closed $25M Series A on May 14, 2026, led by Andreessen Horowitz; this is a16z's first investment in the GCC. Existing investors Arbor Ventures, COTU Ventures, Raed Ventures, and SVC participated. Cross-referenced with PYMNTS, https://www.pymnts.com/news/fintech-investments/2026/saudi-fintech-stitch-raises-25-million-to-replace-fragmented-bank-cores/ and Wamda, https://www.wamda.com/2026/05/a16z-backs-saudi-fintech-stitch-gcc-deal.
+
+[^50]: TechCrunch, "Why Former Loudcloud CEO Ben Horowitz Invested $10 Million In Cloud Identity Startup Okta," July 13, 2010. Accessed May 2026. https://techcrunch.com/2010/07/13/horowitz-cloud-okta/ — Okta's $10M Series A announced July 13, 2010, led by Andreessen Horowitz. a16z's first cloud investment; Ben Horowitz joined Okta's board.
+
+[^51]: VentureBeat, "Cloud application startup Okta raises $10M from Andreessen Horowitz," July 14, 2010. Accessed May 2026. https://venturebeat.com/2010/07/14/cloud-application-startup-okta-raises-10m-from-andreessen-horowitz/ — Confirms $10M Series A led by Andreessen Horowitz with Ben Horowitz joining the board.

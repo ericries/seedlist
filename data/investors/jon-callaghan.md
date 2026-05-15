@@ -71,9 +71,9 @@ The table below lists notable investments where Callaghan personally led, was na
 | Automattic | 2007 | Series A | Open-source/SaaS | Active (private) | [^18] |
 | Fitbit | 2008 | First external round | Wearables | IPO 2015; acq. Google 2021 | [^14] |
 | Peloton | ~2014-2015 | Early | Connected fitness hardware | IPO 2019 (NASDAQ: PTON); Callaghan board seat through Jan 2025 | [^1][^7] |
-| MakerBot | ~2011 | Early | 3D printing (hardware) | Acq. Stratasys 2013 (~$403-604M) | [^10] |
+| MakerBot | 2011-08-23 | Series A ($10M; Foundry Group led) | 3D printing (hardware) | Acq. Stratasys 2013 (~$403-604M) | [^10][^19][^20] |
 | HashiCorp | 2013-04 | Seed (first investor) | Cloud infrastructure | IPO 2021 (NASDAQ: HCP); acq. IBM 2024 | [^15] |
-| Duo Security | — | Early | Security (MFA) | Acq. Cisco 2018 (~$2.35B) | [^1][^10] |
+| Duo Security | 2012-02-28 | Series A ($5M; Google Ventures led; True participated) | Security (MFA) | Acq. Cisco 2018 (~$2.35B) | [^1][^10][^21][^22] |
 | Ring | 2014-04 | Series A (lead) | Smart home hardware | Acq. Amazon 2018 | [^11] |
 | Blue Bottle Coffee | — | Early | Consumer/coffee | Acq. Nestlé 2017 (majority stake) | [^10] |
 | Glowforge | 2015 | Series A | Hardware/3D laser | Active | [^13] |
@@ -198,3 +198,11 @@ No additional independently sourced founder testimonials specifically about work
 [^16]: GeekWire, "How this reluctant Fitbit investor almost missed a $1.6 billion windfall" (Foundry Group co-investor in Fitbit Series B 2010 alongside True Ventures), 2017. https://www.geekwire.com/2017/reluctant-fitbit-investor-almost-missed-1-6-billion-windfall/
 [^17]: True Ventures team page (full team listing), accessed May 2026. https://trueventures.com/team/
 [^18]: Matt Mullenweg / Automattic press coverage of Series A (April 2007, Polaris Venture Partners, True Ventures, Radar Partners, CNET), accessed May 2026. https://ma.tt/tag/venture-capital/
+
+[^19]: TechCrunch, "MakerBot Takes $10 Million In Funding From Foundry Group, Angels," August 23, 2011. Accessed May 2026. https://techcrunch.com/2011/08/23/makerbot-takes-10-million-in-funding-from-foundry-group-angels/ — MakerBot's $10M Series A announced August 23, 2011, led by Foundry Group with Bezos Expeditions, True Ventures, and RRE Ventures participating alongside a dozen angel investors.
+
+[^20]: AllThingsD, "MakerBot Raises $10 Million for 3D Printers," August 23, 2011. Accessed May 2026. https://allthingsd.com/20110823/makerbot-raises-10-million-for-3d-printers — Confirms $10M Series A on August 23, 2011 led by Foundry Group; RRE Ventures, True Ventures, and Bezos Expeditions participated.
+
+[^21]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating.
+
+[^22]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012 with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.

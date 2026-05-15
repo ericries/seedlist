@@ -86,7 +86,7 @@ Investments where Ben Horowitz personally led the deal or took a board seat:
 |---------|------|-------|--------|
 | Skype | 2009 | Late-stage (secondary) | [^15] |
 | Apptio | 2009 | Early | [^15] |
-| Okta | 2010 | Seed/Series A | [^12][^17] |
+| Okta | 2010-07-13 | Series A (led, $10M) | [^12][^17][^32][^33] |
 | Foursquare | 2010 | Series B | [^18] |
 | Nicira | ~2010 | Series A | [^19] |
 | NationBuilder | 2012 | Series A | [^20] |
@@ -188,3 +188,7 @@ Diishan Imira, founder of Mayvenn, described how after investing, Horowitz email
 [^29]: "Why We're Investing in Anyscale," Andreessen Horowitz, December 2019, accessed March 2026. https://a16z.com/announcement/why-were-investing-in-anyscale/
 [^30]: "What You Do Is Who You Are Quotes," Goodreads, accessed March 2026. https://www.goodreads.com/work/quotes/68514322-what-you-do-is-who-you-are
 [^31]: "Mayvenn CEO Diishan Imira On GHOGH Podcast Part 2," Moguldom, accessed March 2026. https://moguldom.com/197776/full-transcript-mayvenn-ceo-diishan-imira-on-ghogh-podcast-part-2/
+
+[^32]: TechCrunch, "Why Former Loudcloud CEO Ben Horowitz Invested $10 Million In Cloud Identity Startup Okta," July 13, 2010. Accessed May 2026. https://techcrunch.com/2010/07/13/horowitz-cloud-okta/ — Okta's $10M Series A announced July 13, 2010, led by Andreessen Horowitz (a16z's first cloud investment). Ben Horowitz joined Okta's board.
+
+[^33]: VentureBeat, "Cloud application startup Okta raises $10M from Andreessen Horowitz," July 14, 2010. Accessed May 2026. https://venturebeat.com/2010/07/14/cloud-application-startup-okta-raises-10m-from-andreessen-horowitz/ — Confirms Okta's $10M Series A on July 13-14, 2010, led by Andreessen Horowitz; Ben Horowitz joined the board.

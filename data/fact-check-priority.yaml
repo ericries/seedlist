@@ -1,8 +1,4 @@
 priority:
-  - slug: andreessen-horowitz
-    type: firm
-    reason: "led Stitch Series A (Saudi, first GCC investment, 2026-05-14)"
-    added: 2026-05-15
   - slug: khosla-ventures
     type: firm
     reason: "led Synthetic seed (2026-05-14)"
@@ -10,12 +6,4 @@ priority:
   - slug: menlo-ventures
     type: firm
     reason: "led Nectar Social Series A via Anthology Fund (2026-05-14)"
-    added: 2026-05-15
-  - slug: gv
-    type: firm
-    reason: "participated in Nectar Social Series A (2026-05-14)"
-    added: 2026-05-15
-  - slug: true-ventures
-    type: firm
-    reason: "participated in Nectar Social Series A (2026-05-14)"
     added: 2026-05-15

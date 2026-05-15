@@ -132,7 +132,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Instacart | Seed | ~2012 | Consumer / Delivery | Public (IPO 2023) [^22][^24] |
 | Block (Square) | Series A | 2009 | Fintech | Public (IPO 2015) [^22][^25] |
 | Stripe | Early | ~2012 | Fintech / Payments | Private [^12][^22] |
-| Okta | Series B | 2011 | Enterprise SaaS | Public (IPO 2017) [^22][^26] |
+| Okta | Series B ($16.5M; w/ Greylock, a16z, Floodgate) | 2011-08-08 | Enterprise SaaS | Public (IPO 2017) [^22][^26][^44] |
 | Nutanix | Series B | ~2011 | Enterprise / Infrastructure | Public (IPO 2016) [^22][^16] |
 | GitLab | Series A | 2015 | Developer Tools | Public (IPO 2021) [^22][^6] |
 | Affirm | Series A | 2014 | Fintech | Public (IPO 2021) [^22][^10][^37] |
@@ -354,3 +354,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^42]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms Khosla Ventures participated as an existing investor in the $50M Series B led by Thrive Capital on April 30, 2025. Cross-referenced with Wilson Sonsini, "Wilson Sonsini Advises J.P. Morgan Growth Equity Partners on Rogo's $50 Million Series B." https://www.wsgr.com/en/insights/wilson-sonsini-advises-jp-morgan-growth-equity-partners-on-rogos-dollar50-million-series-b.html
 
 [^43]: TechCrunch, "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded," May 14, 2026. Accessed May 2026. https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/ — Synthetic announced a $10M seed on May 14, 2026 led by Khosla Ventures (Jon Chu partnered), with Basis Set Ventures and operator-investors including Tobi Lütke (Shopify) and Kaz Nejatian (Opendoor) participating. Cross-referenced with Business Wire press release, https://www.businesswire.com/news/home/20260514241304/en/Synthetic-Raises-$10M-Seed-Led-by-Khosla-Ventures.
+
+[^44]: TechCrunch, "Khosla, Greylock, Andreessen Horowitz Put $16.5M In Enterprise Cloud App Management Startup Okta," August 8, 2011. Accessed May 2026. https://techcrunch.com/2011/08/08/khosla-greylock-andreessen-horowitz-put-16-5m-in-enterprise-cloud-app-management-startup-okta/ — Okta's $16.5M Series B announced August 8, 2011 with Khosla Ventures, Greylock Partners, Andreessen Horowitz, and Floodgate participating. Ben Horowitz had led the earlier Series A in July 2010.

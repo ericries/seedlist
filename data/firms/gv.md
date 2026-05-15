@@ -105,7 +105,7 @@ Based on GV's verified portfolio and public data:
 | Nest | Early | ~2012 | Consumer Hardware | Acquired by Google ($3.2B) [^1] |
 | Slack | Early | ~2014 | Enterprise | IPO [^2] |
 | GitLab | Growth | ~2018 | Developer Tools | IPO [^2] |
-| Duo Security | Early | ~2015 | Cybersecurity | Acquired by Cisco [^2] |
+| Duo Security | Series A (led, $5M) | 2012-02-28 | Cybersecurity | Acquired by Cisco 2018 (~$2.35B) [^2][^18][^19] |
 | Flatiron Health | Early | ~2013 | Healthcare | Acquired by Roche ($1.9B) [^1] |
 | One Medical | Early | ~2013 | Healthcare | IPO / Acquired by Amazon [^2] |
 | Stripe | Growth | ~2019 | Fintech | Private [^2] |
@@ -166,3 +166,7 @@ No independently sourced founder testimonials found.
 [^16]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Confirms July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation.
 
 [^17]: Nectar Social press release via Business Wire, "Nectar Social Raises $30M Series A to Build the Agentic Operating System for Modern Marketing," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing — $30M Series A led by Menlo Ventures and its Anthology Fund, with True Ventures, GV, and Kinship Ventures participating. GV previously co-led the $10.6M seed in June 2025 alongside True Ventures (Fortune, https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/).
+
+[^18]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating. GV partner Karim Faris quoted: Duo "is committed to democratizing strong authentication and bringing this previously" enterprise-focused security "to every Internet user."
+
+[^19]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.

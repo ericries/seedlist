@@ -38102,7 +38102,8 @@ vague_facts:
   profile: investors/ben-horowitz
   profile_name: Ben Horowitz
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Okta Series A: 2010-07-13, $10M, led by Andreessen Horowitz (a16z's first cloud investment). Sources: TechCrunch 2010-07-13, VentureBeat 2010-07-14."
   type: unknown_value
   value: '[^12][^17]'
 - column: 3

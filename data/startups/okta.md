@@ -86,8 +86,8 @@ Okta went public on the NASDAQ on April 7, 2017, under the ticker OKTA, pricing 
 | Round | Date | Amount | Lead Investor | Notable Co-Investors |
 |-------|------|--------|---------------|---------------------|
 | Seed | Sep 2009 | $1.2M | Andreessen Horowitz | — [^1][^7] |
-| Series A | Jul 2010 | $10M | Andreessen Horowitz | — [^7][^8] |
-| Series B | Aug 2011 | $16.5M | Greylock Partners | Khosla Ventures, Floodgate, Andreessen Horowitz [^9][^10] |
+| Series A | 2010-07-13 | $10M | Andreessen Horowitz | — [^7][^8][^15][^16] |
+| Series B | 2011-08-08 | $16.5M | Greylock Partners | Khosla Ventures, Floodgate, Andreessen Horowitz [^9][^10][^17] |
 | Series C | Dec 2012 | $25M | Sequoia Capital | Andreessen Horowitz, Greylock Partners, Khosla Ventures [^8][^10] |
 | Series D | Sep 2013 | $27M | Andreessen Horowitz | Greylock Partners, Khosla Ventures, Sequoia Capital [^8][^11] |
 | Series E | Jun 2014 | $75M | Sequoia Capital | Andreessen Horowitz, Greylock Partners, Khosla Ventures, Altimeter Capital, Janus Capital Group [^12][^13] |
@@ -126,3 +126,9 @@ Kerrest on investor selection: "We tried to put folks around the table who were 
 [^12]: "Okta Scores $75M In Final Round Of Funding," TechCrunch, June 2014, accessed March 2026. https://techcrunch.com/2014/06/09/okta-scores-75m-in-final-round-of-funding-hopes-to-go-public-in-a-couple-of-years/
 [^13]: "Okta Secures $75 Million to Drive Product Innovation," Okta press release, June 2014, accessed March 2026. https://www.okta.com/press-room/press-releases/okta-secures-75-million-to-drive-product-innovation-and-growth-of-enterprise-identity-network/
 [^14]: "Identity management firm Okta raises $75m Series F on $1.2b unicorn valuation," SiliconANGLE, September 2015, accessed March 2026. https://siliconangle.com/2015/09/09/identity-management-firm-okta-raises-75m-series-f-on-1-2b-unicorn-valuation/
+
+[^15]: TechCrunch, "Why Former Loudcloud CEO Ben Horowitz Invested $10 Million In Cloud Identity Startup Okta," July 13, 2010. Accessed May 2026. https://techcrunch.com/2010/07/13/horowitz-cloud-okta/ — Okta's $10M Series A announced July 13, 2010, led by Andreessen Horowitz. Described as a16z's first cloud investment.
+
+[^16]: VentureBeat, "Cloud application startup Okta raises $10M from Andreessen Horowitz," July 14, 2010. Accessed May 2026. https://venturebeat.com/2010/07/14/cloud-application-startup-okta-raises-10m-from-andreessen-horowitz/ — Confirms Okta's $10M Series A on July 13-14, 2010, led by Andreessen Horowitz; Ben Horowitz joined the board.
+
+[^17]: TechCrunch, "Khosla, Greylock, Andreessen Horowitz Put $16.5M In Enterprise Cloud App Management Startup Okta," August 8, 2011. Accessed May 2026. https://techcrunch.com/2011/08/08/khosla-greylock-andreessen-horowitz-put-16-5m-in-enterprise-cloud-app-management-startup-okta/ — Confirms Okta's $16.5M Series B on August 8, 2011 with Khosla Ventures, Greylock Partners, Andreessen Horowitz, and Floodgate participating.
