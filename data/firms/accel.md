@@ -223,6 +223,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Nova Intelligence | Series A (participated) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^54] |
 | Rapido | Growth Primary ($240M, participated; led by Prosus) | 2026-05-15 | Mobility / Ride-hailing / India | [^70][^71] |
 | Forus | Growth ($160M, participated; Thrive Capital led at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | [^72] |
+| Sprouts.ai | Pre-Series A (co-led with True Global Ventures, $9M) | 2026-05-15 | AI / Sales / B2B Revenue Agents | [^73][^74] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -353,3 +354,7 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^71]: YourStory, "Rapido raises $240M in primary funding led by Prosus at $3B valuation," May 15, 2026. Accessed May 2026. https://yourstory.com/2026/05/rapido-raises-240m-in-primary-funding-led-by-prosus-at-3b-valuation — Cross-references Accel as participating existing investor in Rapido's May 15, 2026 round, bringing total raised to $730M.
 
 [^72]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms Accel participated in Forus's $160M growth round on May 12, 2026, led by Thrive Capital at $1B post-money. General Catalyst, Bain Capital Ventures, Redpoint, BoxGroup, and Pear VC also participated.
+
+[^73]: PR Newswire, "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises," May 15, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/sproutsai-raises-9m-pre-series-a-led-by-true-global-ventures-and-accel-to-scale-revenue-agents-with-differentiated-data-for-b2b-enterprises-302772512.html — Confirms $9M Pre-Series A on May 15, 2026 co-led by True Global Ventures and Accel; brings total funding to $14M. Palo Alto-based.
+
+[^74]: Pulse2, "Sprouts.ai: $9 Million Pre-Series A Raised To Scale AI Revenue Agents For B2B Enterprises," May 15, 2026. Accessed May 2026. https://pulse2.com/sprouts-ai-9-million-pre-series-a-raised-to-scale-ai-revenue-agents-for-b2b-enterprises/amp/ — Independent confirmation of Sprouts.ai $9M Pre-Series A co-led by TGV and Accel on May 15, 2026.
