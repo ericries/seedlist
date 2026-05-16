@@ -153,6 +153,14 @@ pending_rounds:
   status: skipped
   processed: '2026-05-16'
   notes: parse error or community-funded (no VC participation)
+- title: Marketing operating system Nectar Social raises $30M Series A led by Menlo
+  url: https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/
+  source: techcrunch
+  date_found: '2026-05-16'
+  parsed_company: Marketing operating system Nectar Social
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: pending
 - title: UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation
   url: https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
   source: eu-startups
@@ -1082,14 +1090,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: small €1.3M Delft quantum pre-seed below typical Seedlist threshold
-- title: UK semiconductor startup Quinas Technology secures investment approval from
-    Malta Government Venture Capital
-  url: https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/
-  source: eu-startups
-  date_found: '2026-05-08'
-  parsed_company: UK semiconductor startup Quinas Technology
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: vague "investment approval" headline (Malta govt VC); amount/round
-    unclear
