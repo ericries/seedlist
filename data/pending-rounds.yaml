@@ -111,8 +111,8 @@ pending_rounds:
   processed: '2026-05-16'
   slug: flick
   notes: created startup profile flick.md; True Ventures-led $6M seed (2026-05-14)
-    with GV, Y Combinator, Lightspeed, Formosa, Pioneer Fund, Olive Tree, N1;
-    updated true-ventures.md and gv.md portfolios
+    with GV, Y Combinator, Lightspeed, Formosa, Pioneer Fund, Olive Tree, N1; updated
+    true-ventures.md and gv.md portfolios
 - title: Ouinex raised $3.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -120,7 +120,9 @@ pending_rounds:
   parsed_company: Ouinex
   parsed_amount: $3.5M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-16'
+  notes: parse error or community-funded (no VC participation)
 - title: Chromie Health raised $2M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -148,7 +150,9 @@ pending_rounds:
   parsed_company: u003e
   parsed_amount: $120M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-16'
+  notes: parse error or community-funded (no VC participation)
 - title: UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation
   url: https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
   source: eu-startups
@@ -230,7 +234,9 @@ pending_rounds:
   parsed_company: Berlin-based Elephant Company
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: elephant-company
 - title: 'The Week’s 10 Biggest Funding Rounds: Anduril Leads Varied Lineup Of Large
     Deals'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-voltagrid-mind-robotics/
