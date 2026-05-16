@@ -23353,3 +23353,66 @@ queue:
   added: '2026-03-17'
   firm: Patriot Boot Camp
   discovered_from: jared-polis
+- name: SBI Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fasset
+- name: Expeditions Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: twin-prime
+- name: Sky Ecosystem
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: osero
+- name: Sangeen Zeb
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: GV
+  discovered_from: flick
+  source: led Flick $6M seed (2026-05-14); quoted in announcement
+- name: Zoey Zhang
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Flick
+  discovered_from: flick
+  source: co-founder of Flick; quoted in $6M seed announcement (2026-05-14)
+- name: Ray Wang
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Flick
+  discovered_from: flick
+  source: co-founder of Flick; founding engineer Instagram Stories
+- name: Formosa Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flick
+  source: participated in Flick $6M seed (2026-05-14)
+- name: Olive Tree Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flick
+  source: participated in Flick $6M seed (2026-05-14)
+- name: N1
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flick
+  source: participated in Flick $6M seed (2026-05-14)

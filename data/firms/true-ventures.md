@@ -70,6 +70,7 @@ Notable investments where the firm or a named True partner participated:
 | Ernesta | Series A → B | 2022 / 2026 | Jon Callaghan | Consumer | Active [^15] |
 | Sandbar | Early | 2025 | — | Voice/wearable | Active [^8] |
 | Nectar Social | Seed → Series A | 2025-06 / 2026-05-14 | — | AI / MarTech / Social Commerce | Active [^16] |
+| Flick | Seed (lead) | 2026-05-14 | — | AI / Filmmaking | Active [^21] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -124,3 +125,5 @@ No additional independently sourced founder testimonials specifically about work
 [^19]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating. Quote from GV partner Karim Faris included.
 
 [^20]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012 with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.
+
+[^21]: BusinessWire, "Flick Raises $6M Seed Round to Redefine How AI Films Are Created," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514408256/en/Flick-Raises-$6M-Seed-Round-to-Redefine-How-AI-Films-Are-Created — True Ventures led Flick's $6M seed announced May 14, 2026, with participation from GV, Y Combinator, Lightspeed, Formosa Capital, Pioneer Fund, Olive Tree Capital, and N1.

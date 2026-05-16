@@ -126,6 +126,7 @@ Based on GV's verified portfolio and public data:
 | Sierra | Series E (co-led with Tiger Global) | 2026-05-04 | AI / Customer Service | Private [^9][^10][^11] |
 | MOTHER.Tech | Seed (led) | 2026-05-05 | AI / Creator Economy | Private [^12][^13] |
 | Nectar Social | Series A (participated; previously led Seed) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^17] |
+| Flick | Seed (participated; True Ventures led) | 2026-05-14 | AI / Filmmaking | Private [^20] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -170,3 +171,5 @@ No independently sourced founder testimonials found.
 [^18]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating. GV partner Karim Faris quoted: Duo "is committed to democratizing strong authentication and bringing this previously" enterprise-focused security "to every Internet user."
 
 [^19]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.
+
+[^20]: BusinessWire, "Flick Raises $6M Seed Round to Redefine How AI Films Are Created," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514408256/en/Flick-Raises-$6M-Seed-Round-to-Redefine-How-AI-Films-Are-Created — GV (Sangeen Zeb) participated in Flick's $6M seed announced May 14, 2026; round was led by True Ventures with Y Combinator, Lightspeed, Formosa Capital, Pioneer Fund, Olive Tree Capital, and N1 also participating. Quote attributed to Sangeen Zeb, General Partner at GV.

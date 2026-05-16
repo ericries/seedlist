@@ -107,7 +107,12 @@ pending_rounds:
   parsed_company: Flick
   parsed_amount: $6M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: flick
+  notes: created startup profile flick.md; True Ventures-led $6M seed (2026-05-14)
+    with GV, Y Combinator, Lightspeed, Formosa, Pioneer Fund, Olive Tree, N1;
+    updated true-ventures.md and gv.md portfolios
 - title: Ouinex raised $3.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

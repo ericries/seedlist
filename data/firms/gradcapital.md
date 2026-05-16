@@ -74,9 +74,9 @@ Based on 12 verified investments (approximately 35% of the firm's claimed 34 por
 |---------|-------|------|--------|--------|
 | Zepto (fka KiranaKart) | Pre-seed (equity-free cohort) | 2021 | Quick commerce | Active (unicorn) [^5] |
 | Humit | Pre-seed (pilot) | ~2021 | Consumer/Music | Acquired (Mission Uncrossable, 2024) [^4][^14] |
-| Codedamn | Pre-seed (pilot) | ~2021 | Edtech | Unknown [^4] |
-| Valerio Electric | Pre-seed (pilot) | ~2021 | EV charging | Unknown [^4] |
-| Neuralastic | Pre-seed (pilot) | ~2021 | AI/ML | Unknown [^4] |
+| Codedamn | Pre-seed (pilot) | ~2021 | Edtech | Active [^4][^17] |
+| Valerio Electric | Pre-seed (pilot) | ~2021 | EV charging | Active [^4][^18] |
+| Neuralastic | Pre-seed (pilot) | ~2021 | AI/ML | ~unknown [^4] |
 | Stimuler | Pre-seed | ~2022 | AI/speech tech | Active [^1][^5] |
 | Nudgenow | Pre-seed | ~2022 | Consumer/SaaS | Active [^1] |
 | Airbound | Pre-seed | ~2022 | Drone delivery | Active [^13] |
@@ -129,3 +129,5 @@ No additional independently sourced founder testimonials found beyond the BioCom
 [^14]: Mission Uncrossable, "Mission Uncrossable Joins Forces with Humit," August 2024. https://missionuncrossabledemo.com/acquired-humit-app/
 [^15]: Tracxn, "Fragmynt — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/fragmynt/__xEDir0rcVLYIPxHlyOhPjtr9XCmha1PYkCKrEdmDY0Q/funding-and-investors
 [^16]: Tracxn, "Fragmynt — 2026 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/fragmynt/__xEDir0rcVLYIPxHlyOhPjtr9XCmha1PYkCKrEdmDY0Q
+[^17]: codedamn website, accessed May 2026. https://codedamn.com/ — Operating interactive coding education platform with 100+ courses, AI assistant "Jarvis," and 26 employees (per Tracxn, July 2024); annual revenue ₹1.01 Cr as of March 2025, confirming active status.
+[^18]: Inc42, "Valerio Electric Startup Profile," accessed May 2026. https://inc42.com/company/valerio-electric/ — Delhi-based EV charging platform founded 2020 by Aniket Vardhan; profile updated in 2025-2026 confirming active status with operational charging-station discovery and pre-booking app.
