@@ -23469,3 +23469,54 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: dan-siroker
+- name: True Global Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sprouts-ai
+  source: co-led Sprouts.ai Pre-Series A (2026-05-15) with Accel
+- name: Karan Chaudhry
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Sprouts.ai
+  discovered_from: sprouts-ai
+  source: Co-founder of Sprouts.ai
+- name: TitletownTech
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avant-genomics
+  source: lead investor in Avant Genomics seed (2026-05-13)
+- name: Halyard Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avant-genomics
+  source: participant in Avant Genomics seed (2026-05-13)
+- name: Virginia Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avant-genomics
+  source: participant in Avant Genomics seed (2026-05-13)
+- name: Global Impact Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avant-genomics
+  source: participant in Avant Genomics seed (2026-05-13)
+- name: Rachelle Turiello
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Avant Genomics
+  discovered_from: avant-genomics
+  source: Co-founder & CEO of Avant Genomics (UVA spin-out)
