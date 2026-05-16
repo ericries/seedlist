@@ -9222,7 +9222,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 40,
+      "size": 43,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9422,6 +9422,21 @@
           "slug": "jon-callaghan",
           "name": "Jon Callaghan",
           "firm": "true-ventures"
+        },
+        {
+          "slug": "trip-adler",
+          "name": "Trip Adler",
+          "firm": "created-by-humans"
+        },
+        {
+          "slug": "dan-siroker",
+          "name": "Dan Siroker",
+          "firm": "limitless"
+        },
+        {
+          "slug": "steve-huffman",
+          "name": "Steve Huffman",
+          "firm": "reddit"
         }
       ]
     },
@@ -10550,7 +10565,7 @@
       "name": "The YC Alumni Network",
       "tagline": "They built companies through Y Combinator, then crossed to the investor side. The YC network is the most powerful alumni network in startups \u2014 and they're proof.",
       "type": "curated",
-      "size": 28,
+      "size": 31,
       "members": [
         {
           "slug": "alexis-ohanian",
@@ -10691,6 +10706,21 @@
           "slug": "todd-goldberg",
           "name": "Todd Goldberg",
           "firm": "todd-and-rahul-capital"
+        },
+        {
+          "slug": "trip-adler",
+          "name": "Trip Adler",
+          "firm": "created-by-humans"
+        },
+        {
+          "slug": "dan-siroker",
+          "name": "Dan Siroker",
+          "firm": "limitless"
+        },
+        {
+          "slug": "steve-huffman",
+          "name": "Steve Huffman",
+          "firm": "reddit"
         }
       ]
     },
