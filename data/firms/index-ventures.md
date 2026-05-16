@@ -145,6 +145,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Cowboy Space Corporation | Series B (led, $275M at $2B val) | 2026-05-11 | Space Tech/AI Infrastructure | [^41][^42][^43] |
 | Frame Security | Stealth-exit ($50M, co-led) | 2026-05-11 | Cybersecurity / Human Risk | [^44][^45] |
 | Adfin | Series A (led, $18M / €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
+| Multiverse | Growth (participated, €60M / $70M at €2.1B val) | 2026-05-15 | EdTech / AI Workforce Training | [^48][^49] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -223,4 +224,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^46]: Tech Funding News, "Index Ventures leads $18M round in UK fintech Adfin to help SMEs get paid faster," May 12, 2026. Accessed May 2026. https://techfundingnews.com/index-ventures-leads-18m-round-in-uk-fintech-adfin-to-help-smes-get-paid-faster/ — Confirms $18M Series A led by Index Ventures with Visionaries Club, Stéphane Kurgan, Andrey Khusid; total funding to $30M in under two years.
 
 [^47]: EU-Startups, "Index Ventures backed-Adfin raises €15.3 million to help businesses automate revenue collection with AI," May 12, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/
+
+[^48]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. Accessed May 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, BOND, and StepStone Group.
+
+[^49]: Silicon Republic, "Euan Blair's edtech Multiverse valued at $2.1bn after $70m raise," May 15, 2026. Accessed May 2026. https://www.siliconrepublic.com/start-ups/euan-blairs-edtech-multiverse-valued-at-2-1bn-after-70m-raise — Independent contemporaneous confirmation of Multiverse's $70M raise at $2.1B valuation led by Schroders Capital, with Index Ventures and other existing investors participating.
 

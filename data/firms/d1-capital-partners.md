@@ -112,9 +112,9 @@ The following table represents verified private market investments by D1 Capital
 | Groq | Series C | 2021 | AI / Semiconductors | Active | [^24] |
 | Provi | Series C | 2021 | E-commerce / Alcohol marketplace | Active | [^25] |
 | Collectors Holdings | Follow-on | 2022 | Consumer / Collectibles | Active | [^26] |
-| Anthropic | Series E | 2025 | AI / Research | Active | [^27] |
-| Ramp | Series E | 2025 | Fintech / Corporate cards | Active | [^17] |
-| Groq | Series C+ | 2025 | AI / Semiconductors | Active | [^28] |
+| Anthropic | Series E (participated, $3.5B at $61.5B val) | 2025-03-03 | AI / Research | Active | [^27] |
+| Ramp | Series E (participated, $200M at $16B val) | 2025-06-17 | Fintech / Corporate cards | Active | [^17][^36] |
+| Groq | Growth (participated, $750M at $6.9B val) | 2025-09-17 | AI / Semiconductors | Active | [^28][^37] |
 | Beacon Software | Series B | 2025 | AI / Enterprise software | Active | [^29] |
 | Hadrian | Growth | 2026 | Defense / Manufacturing | Active | [^30] |
 | Anthropic | Series G | 2026 | AI / Research | Active | [^31] |
@@ -181,3 +181,7 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 [^34]: Crunchbase, "Series F — Instacart — 2018-10-16," accessed March 2026. https://www.crunchbase.com/funding_round/instacart-series-f--494d246c
 
 [^35]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. Accessed May 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, BOND, and StepStone Group. Cross-referenced with EU-Startups, "UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation," May 15, 2026. https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
+
+[^36]: PR Newswire, "Ramp Raises $200M Series E at $16B Valuation as Companies of All Sizes Choose AI-Powered Finance Platform," June 17, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/ramp-raises-200m-series-e-at-16b-valuation-as-companies-of-all-sizes-choose-ai-powered-finance-platform-302483377.html — Confirms $200M Series E announced June 17, 2025 led by Founders Fund at $16B post-money valuation; D1 Capital Partners participated alongside Thrive Capital, General Catalyst, GIC, ICONIQ Growth, Khosla Ventures, Sands Capital, 8VC, Lux Capital, Stripes, 137 Ventures, Avenir Growth, and Definition Capital.
+
+[^37]: Groq newsroom, "Groq Raises $750 Million as Inference Demand Surges," September 17, 2025. Accessed May 2026. https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges — Confirms $750M growth round announced September 17, 2025 led by Disruptive at $6.9B valuation; D1 Capital Partners participated alongside BlackRock, Neuberger Berman, DTCP, Samsung, Cisco, Altimeter, 1789 Capital, and Infinitum. Cross-referenced with Bloomberg, "AI Chip Startup Groq Raises $750 Million at $6.9 Billion Valuation," September 17, 2025. https://www.bloomberg.com/news/articles/2025-09-17/ai-chip-startup-groq-raises-750-million-at-6-9-billion-valuation
