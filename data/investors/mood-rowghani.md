@@ -88,7 +88,7 @@ Note: With only 17 verified individual-attribution investments out of a firm por
 ~unknown| **Active investments (confirmed on BOND profile page)** | | | | |
 | Canva | ~2019 | Growth | Design/Consumer | [^2][^5] |
 | Cockroach Labs | ~2021 | Series F | Developer Tools/Database | [^2] |
-| Ironclad | ~2020 | Growth | Legal Tech / Enterprise SaaS | [^2] |
+| Ironclad | 2021-01-14 | Series D ($100M, BOND led) | Legal Tech / Enterprise SaaS | [^2][^7] |
 | Kalshi | ~2024 | Series C | Fintech / Prediction Markets | [^2] |
 | Revolut | ~2021 | Series E | Fintech / Neobanking | [^2] |
 | SpaceX | ~2021 | Growth | Aerospace | [^2] |
@@ -134,3 +134,4 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^4]: VCSheet, "Mood Rowghani (Bond)," accessed March 2026. https://www.vcsheet.com/who/mood-rowghani
 [^5]: Fortune, "Mary Meeker Makes First Investment Out of Bond Capital," May 21, 2019. https://fortune.com/2019/05/21/mary-meeker-canva-bond/
 [^6]: Twitter/X profile @moodrowghani, accessed March 2026. https://x.com/moodrowghani
+[^7]: PR Newswire, "Ironclad Raises $100 Million Series D Funding Round to Scale the New Standard for Business Contracts," January 14, 2021. Accessed May 2026. https://www.prnewswire.com/news-releases/ironclad-raises-100-million-series-d-funding-round-to-scale-the-new-standard-for-business-contracts-301208177.html — Confirms $100M Series D led by BOND on January 14, 2021. Per The Information, "Mary Meeker's VC Firm Bond Invests in Ironclad at Nearly $1 Billion Valuation," January 2021 (https://www.theinformation.com/articles/mary-meekers-vc-firm-bond-invests-in-ironclad-at-nearly-1-billion-valuation), the round valued Ironclad at ~$950M post-money. Cross-referenced with Fenwick & West, "Fenwick Represents Ironclad in $100 Million Series D Financing." https://www.fenwick.com/insights/experience/fenwick-represents-ironclad-in-100-million-series-d-financing
