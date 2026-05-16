@@ -92,7 +92,7 @@ The analysis below is based on 11 verified investments attributed to Chan from a
 | Knowable | Seed | ~2020 | Audio/Education | Active | [^9] |
 | Whatnot | Series A | 2021 | Livestream Commerce | Active | [^6] |
 | Cider | Series A | ~2021 | Fashion E-commerce | Active | [^10] |
-| Beacons | -- | ~2021 | Creator Economy | Active | [^1] |
+| Beacons | Seed (led, $6M) | 2021-05-24 | Creator Economy | Active | [^1][^12] |
 | NewNew | -- | ~2021 | Social/Community | Active | [^1] |
 | Reface.ai | -- | ~2021 | AI/Consumer | Active | [^1] |
 | Glorify | -- | ~2022 | Community/Faith | Active | [^4] |
@@ -130,3 +130,4 @@ Ben Horowitz, co-founder of a16z, noted that everyone connected with Chan — "f
 [^9]: Andreessen Horowitz, "Knowable and Audio Startups" investment announcement, accessed March 2026. https://a16z.com/announcement/knowable-and-audio-startups/
 [^10]: Andreessen Horowitz, "Investing in Cider" announcement, accessed March 2026. https://a16z.com/announcement/investing-in-cider/
 [^11]: Connie Chan (@conniechan), X/Twitter post, January 2024. https://x.com/conniechan/status/1749812389414051999
+[^12]: BusinessWire, "Beacons Raises $6M Seed Round Led by Andreessen Horowitz to Help Creators Build and Monetize Their Brand," May 24, 2021. Accessed May 2026. https://www.businesswire.com/news/home/20210524005214/en/Beacons-Raises-$6M-Seed-Round-Led-by-Andreessen-Horowitz-to-Help-Creators-Build-and-Monetize-Their-Brand — Confirms $6M Seed round led by Andreessen Horowitz on May 24, 2021. Founders: Neal Jean (CEO), David Zeng (CTO), Jesse Zhang (CPO), Greg Luppescu (Founding Engineer).

@@ -3,9 +3,9 @@ check_size: $500K-$200M
 firm: greylock
 last_researched: 2026-03-20
 last_verified_investment:
-  company: LlamaIndex
-  date: 2023-05
-  round: Seed
+  company: WarpStream
+  date: 2024-03-14
+  round: Series A
 location: Menlo Park, CA
 name: Jerry Chen
 role: Partner
@@ -89,7 +89,7 @@ The analysis below is based on 15 verified investments attributed to Chen from h
 ~unknown| atSpoke | -- | -- | Enterprise SaaS | Acquired (Okta) | [^1] |
 ~unknown| Attic Labs | -- | -- | Infrastructure | Acquired (Salesforce) | [^1] |
 ~unknown| Truera | -- | -- | AI/ML | Acquired (Snowflake) | [^1] |
-| WarpStream | -- | ~2023 | Data Infrastructure | Acquired (Confluent) | [^11] |
+| WarpStream | Series A (led, $20M) | 2024-03-14 | Data Infrastructure | Acquired (Confluent) | [^11][^12][^13] |
 | LlamaIndex | Seed | 2023 | AI Infrastructure | Active | [^8] |
 ~unknown| Onehouse | -- | -- | Data Infrastructure | Active | [^1] |
 ~unknown| Mandolin | -- | -- | AI | Active | [^1] |
@@ -121,3 +121,7 @@ No independently sourced founder testimonials found.
 [^9]: Signal by NFX, "Jerry Chen's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/jerry-chen
 [^10]: TechCrunch, "Chronosphere launches with $11M Series A to build scalable, cloud-native monitoring tool," November 2019. https://techcrunch.com/2019/11/05/chronosphere-launches-with-11m-series-a-to-build-scalable-cloud-native-monitoring-tool/
 [^11]: Greylock Partners, "Congrats, WarpStream and Confluent on Joining Forces," 2024. https://greylock.com/portfolio-news/congrats-warpstream-and-confluent-on-joining-forces/
+
+[^12]: Greylock Partners, "Streaming Data for Everyone," March 14, 2024. Accessed May 2026. https://greylock.com/portfolio-news/warpstream/ — Greylock's announcement of leading WarpStream's Series A on March 14, 2024, after the company raised an initial seed round from Amplify Partners.
+
+[^13]: BusinessWire, "WarpStream Labs Raises $20M to Modernize Data Streaming with a Cloud Native Replacement for Apache Kafka," March 13, 2024. Accessed May 2026. https://www.businesswire.com/news/home/20240313224497/en/WarpStream-Labs-Raises-%2420M-to-Modernize-Data-Streaming-with-a-Cloud-Native-Replacement-for-Apache-Kafka — Confirms $20M Series A led by Greylock and Amplify Partners; angel investors include Ben Sigelman (Lightstep CEO), Spencer Kimball (CockroachDB CEO), and Barry McCardel (Hex CEO). Jerry Chen of Greylock joined the board.

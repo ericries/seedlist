@@ -48542,9 +48542,12 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-16'
+  resolution_note: Beacons Seed $6M led by a16z (Connie Chan) on 2021-05-24 per BusinessWire
+    announcement.
 - column: 1
   company: NewNew
   line: '| NewNew | -- | ~2021 | Social/Community | Active | [^1] |'
@@ -78040,9 +78043,13 @@ vague_facts:
   profile: investors/jerry-chen
   profile_name: Jerry Chen
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-16'
+  resolution_note: WarpStream Series A $20M led by Greylock (Jerry Chen) on 2024-03-14
+    per Greylock and BusinessWire announcements. Prior seed round was led by Amplify
+    Partners.
 - column: 5
   company: LlamaIndex
   line: '| LlamaIndex | Seed | 2023 | AI Infrastructure | Active | [^8] |'
@@ -161724,9 +161731,13 @@ vague_facts:
   profile: investors/jerry-chen
   profile_name: Jerry Chen
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2023
+  resolved: '2026-05-16'
+  resolution_note: WarpStream Series A $20M led by Greylock (Jerry Chen) on 2024-03-14
+    per Greylock and BusinessWire announcements. Prior seed round was led by Amplify
+    Partners.
 - column: 2
   company: LlamaIndex
   line: '| LlamaIndex | Seed | 2023 | AI Infrastructure | Active | [^8] |'
@@ -228549,9 +228560,12 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2021
+  resolved: '2026-05-16'
+  resolution_note: Beacons Seed $6M led by a16z (Connie Chan) on 2021-05-24 per BusinessWire
+    announcement.
 - column: 2
   company: NewNew
   line: '| NewNew | -- | ~2021 | Social/Community | Active | [^1] |'
