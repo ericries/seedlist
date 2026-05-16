@@ -1,11 +1,17 @@
 ---
-name: GridCARE
-slug: gridcare
-type: startup
-website: https://www.gridcare.com/
-location: Menlo Park, CA
+firms:
+- round: Seed
+  slug: sherpalo-ventures
+  year: 2025
 founded: 2023
-status_company: active
+founders: []
+investors:
+- round: Seed
+  slug: ram-shriram
+  year: 2025
+last_researched: 2026-05-16
+location: Menlo Park, CA
+name: GridCARE
 sector:
 - energy
 - ai-infrastructure
@@ -13,13 +19,13 @@ sector:
 - grid
 - data-centers
 - deep-tech
+slug: gridcare
 stage_latest: Series A
-total_raised: $64M+
-investors: []
-firms: []
-founders: []
-last_researched: 2026-05-16
 status: published
+status_company: active
+total_raised: $64M+
+type: startup
+website: https://www.gridcare.com/
 ---
 
 ## About

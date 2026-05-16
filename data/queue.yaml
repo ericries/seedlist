@@ -18608,14 +18608,14 @@ queue:
 - name: Trip Adler
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Rebel Fund
   discovered_from: steve-huffman
 - name: Dan Siroker
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Rebel Fund
   discovered_from: steve-huffman
@@ -23416,3 +23416,56 @@ queue:
   added: '2026-03-17'
   discovered_from: flick
   source: participated in Flick $6M seed (2026-05-14)
+- name: Tikhon Bernstam
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: trip-adler
+- name: Created by Humans
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: trip-adler
+- name: Jonathan Hirsch
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Paradigm
+  discovered_from: trip-adler
+- name: Walter Isaacson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: trip-adler
+- name: Giant Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: trip-adler
+- name: Pete Koomen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Y Combinator
+  discovered_from: dan-siroker
+- name: Brett Bejcek
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Limitless
+  discovered_from: dan-siroker
+- name: Limitless
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dan-siroker
