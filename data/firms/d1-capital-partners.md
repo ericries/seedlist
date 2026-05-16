@@ -1,7 +1,7 @@
 ---
 founded: 2018
 fund_size: $24.5B AUM (October 2025); ~60% private, ~40% public
-last_researched: 2026-03-22
+last_researched: 2026-05-15
 location: New York, NY
 name: D1 Capital Partners
 sector_focus:
@@ -119,6 +119,7 @@ The following table represents verified private market investments by D1 Capital
 | Hadrian | Growth | 2026 | Defense / Manufacturing | Active | [^30] |
 | Anthropic | Series G | 2026 | AI / Research | Active | [^31] |
 | Ualá | Growth | 2026 | Fintech / Neobank | Active | [^32] |
+| Multiverse | Growth (participated, €60M / $70M at €2.1B val) | 2026-05-15 | EdTech / AI Workforce Training | Active | [^35] |
 
 ## In Their Own Words
 
@@ -178,3 +179,5 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 [^32]: Fintech Futures, "Ualá hits $3.2bn valuation following $195m investment," March 2026. https://www.fintechfutures.com/challenger-banks/uala-hits-3-2bn-valuation-following-195m-investment
 [^33]: TechCrunch, "Instacart raises another $600M at a $7.6B valuation," October 16, 2018. https://techcrunch.com/2018/10/16/instacart-raises-another-600m-at-a-7-6b-valuation/
 [^34]: Crunchbase, "Series F — Instacart — 2018-10-16," accessed March 2026. https://www.crunchbase.com/funding_round/instacart-series-f--494d246c
+
+[^35]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. Accessed May 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, BOND, and StepStone Group. Cross-referenced with EU-Startups, "UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation," May 15, 2026. https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/

@@ -1,1 +1,17 @@
-priority: []
+priority:
+- slug: general-catalyst
+  type: firm
+  reason: "participated in Multiverse $70M / €60M growth round (2026-05-15)"
+  added: 2026-05-15
+- slug: bond
+  type: firm
+  reason: "participated in Multiverse $70M / €60M growth round (2026-05-15)"
+  added: 2026-05-15
+- slug: index-ventures
+  type: firm
+  reason: "participated in Multiverse $70M / €60M growth round (2026-05-15)"
+  added: 2026-05-15
+- slug: d1-capital-partners
+  type: firm
+  reason: "participated in Multiverse $70M / €60M growth round (2026-05-15)"
+  added: 2026-05-15

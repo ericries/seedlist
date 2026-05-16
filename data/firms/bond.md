@@ -1,7 +1,7 @@
 ---
 founded: 2019
 fund_size: $5.75B total across three funds
-last_researched: 2026-03-20
+last_researched: 2026-05-15
 location: San Francisco, CA
 name: BOND
 sector_focus:
@@ -96,7 +96,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 ~unknown| Intercom | Growth | — | Enterprise SaaS | Active | [^3] |
 ~unknown| Ironclad | Growth | — | Legal Tech | Active | [^3] |
 ~unknown| Material Bank | Growth | — | Marketplace | Active | [^3] |
-~unknown| Multiverse | Growth | — | EdTech/Workforce | Active | [^3] |
+| Multiverse | Growth (participated) | 2026-05-15 | EdTech / AI Workforce Training | Active ($2.1B valuation) | [^3][^18] |
 ~unknown| Nextdoor | Growth | — | Consumer/Social | Active (Public) | [^3] |
 | OpenEvidence | Series C (participated, $200M) | 2025-10-20 | AI/Healthcare | Active ($6B valuation) | [^3][^15][^16][^17] |
 ~unknown| Outschool | Growth | — | EdTech | Active | [^3] |
@@ -140,3 +140,5 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^16]: SiliconANGLE, "Medical search engine startup OpenEvidence closes $200M investment led by GV," October 20, 2025, accessed May 2026. https://siliconangle.com/2025/10/20/medical-search-engine-startup-openevidence-closes-200m-investment-led-gv/ — Independent confirmation of $200M Series C at $6B valuation, GV lead, BOND among participants.
 
 [^17]: Fierce Healthcare, "HLTH25: OpenEvidence valuation hits $6B with $200M series C," October 20, 2025, accessed May 2026. https://www.fiercehealthcare.com/ai-and-machine-learning/hlth25-3-months-after-series-b-round-openevidence-raises-lands-200m — Independent contemporaneous confirmation; round announced at HLTH25 conference; BOND named among participants.
+
+[^18]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, BOND, and StepStone Group. Cross-referenced with EU-Startups, "UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation," May 15, 2026. https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/

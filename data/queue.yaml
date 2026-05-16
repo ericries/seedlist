@@ -23315,3 +23315,34 @@ queue:
   added: '2026-03-17'
   discovered_from: optura
   source: different from already-profiled Matrix Capital Management (hedge fund)
+- name: Euan Blair
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Multiverse
+  discovered_from: multiverse
+  source: Co-Founder & CEO of Multiverse
+- name: Archipiélago Next
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fresh-people
+  source: co-lead on Fresh People €2.6M Seed 2026-05-15
+- name: Fuel Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: panta
+  source: lead on PANTA £3M Seed 2026-05-14; UK early-stage VC since 2014, £246M+
+    deployed
+- name: Tobias Sproehnle
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: PANTA
+  discovered_from: panta
+  source: Co-Founder & CEO of PANTA; ex-Markit, Thomson Reuters, LSE, Morningstar

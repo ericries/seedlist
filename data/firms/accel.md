@@ -221,6 +221,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | OpenFX | Series A ($94M, co-led) | 2026-03-31 | Fintech/Stablecoin/FX | [^45][^46][^47] |
 | RadixArk | Seed (led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^51][^52][^53] |
 | Nova Intelligence | Series A (participated) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^54] |
+| Rapido | Growth Primary ($240M, participated; led by Prosus) | 2026-05-15 | Mobility / Ride-hailing / India | [^70][^71] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -345,3 +346,7 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^68]: TechCrunch, "Data security startup Cyera lands a $100M investment," June 27, 2023. Accessed May 2026. https://techcrunch.com/2023/06/27/data-security-startup-cyera-lands-a-100m-investment/ — Contemporaneous press; confirms $100M Series B led by Accel with Sequoia, Cyberstarts, and Redpoint Ventures participating.
 
 [^69]: PR Newswire, "Cyera Secures $100 Million Series B Investment to Become the Data Security Platform Enabling the AI Revolution," June 27, 2023. Accessed May 2026. https://www.prnewswire.com/news-releases/cyera-secures-100-million-series-b-investment-to-become-the-data-security-platform-enabling-the-ai-revolution-301863568.html — Independent wire confirmation; $100M Series B led by Accel; Sequoia, Cyberstarts existing investors plus Redpoint new participant; $500M post-money valuation.
+
+[^70]: TechCrunch, "Indian Uber rival Rapido raises $240M at $3B valuation," May 15, 2026. Accessed May 2026. https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/ — Confirms Accel participated in Rapido's $240M primary round led by Prosus at $3B valuation alongside existing investor WestBridge Capital.
+
+[^71]: YourStory, "Rapido raises $240M in primary funding led by Prosus at $3B valuation," May 15, 2026. Accessed May 2026. https://yourstory.com/2026/05/rapido-raises-240m-in-primary-funding-led-by-prosus-at-3b-valuation — Cross-references Accel as participating existing investor in Rapido's May 15, 2026 round, bringing total raised to $730M.

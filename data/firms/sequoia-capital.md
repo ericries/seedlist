@@ -229,6 +229,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Parallel Web Systems | Series B (led) | 2026-04-29 | AI / Web Infrastructure | Private [^43] |
 | Standard Intelligence | Series A (co-led with Spark) | 2026-04-30 | AI / Foundation Models | Private [^46][^47][^48] |
 | Astrocade | Series B (led) | 2026-05-05 | AI / Gaming / Consumer | Private [^59][^60] |
+| Turnkey | Strategic ($12.5M, participated; co-led by Archetype and Circle Ventures) | 2026-05-14 | Crypto / Wallet Infrastructure | Private [^69][^70] |
 | Ricursive Intelligence | Seed (participated); Series A (participated) | 2025-12 / 2026-01-26 | AI / Semiconductor Design | Private [^66][^67][^68] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
@@ -431,3 +432,7 @@ The following table includes Sequoia Capital investments verified through the fi
 [^67]: TechCrunch, "AI chip startup Ricursive hits $4B valuation 2 months after launch," January 26, 2026. Accessed May 2026. https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/ — Confirms $300M Series A led by Lightspeed and notes Sequoia participation; also references prior seed round.
 
 [^68]: Crunchbase News, "AI Lab Ricursive Intelligence Lands $300M Series A At $4B Valuation Less than Two Months After Launch," January 26, 2026. Accessed May 2026. https://news.crunchbase.com/venture/startup-ai-lab-ricursive-seriesa-unicorn/ — Confirms seed round of $35M at $750M valuation in early December 2025, then $300M Series A at $4B valuation on January 26, 2026.
+
+[^69]: CoinDesk, "Turnkey raises $12.5 million in round backed by Circle Ventures and Sequoia Capital," May 6, 2026. Accessed May 2026. https://www.coindesk.com/business/2026/05/06/turnkey-raises-usd12-5-million-in-round-backed-by-circle-ventures-and-sequoia-capital — Confirms Sequoia Capital participated in Turnkey's $12.5M strategic round announced May 14, 2026, co-led by Archetype and Circle Ventures.
+
+[^70]: Crypto Briefing, "Turnkey raises $12.5M to expand verifiable cloud infrastructure for crypto wallets," May 2026. Accessed May 2026. https://cryptobriefing.com/turnkey-verifiable-cloud-infrastructure-crypto-wallets/ — Cross-references Sequoia Capital alongside Bain Capital Crypto, Lightspeed Faction, Galaxy Ventures, and Variant as participants.

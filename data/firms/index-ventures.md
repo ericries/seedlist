@@ -2,7 +2,7 @@
 founded: 1996
 fund_size: '$2.3B (2024: $800M venture + $1.5B growth); $15B total capital raised;
   $3.1B (2021)'
-last_researched: 2026-05-11
+last_researched: 2026-05-15
 location: San Francisco, CA
 name: Index Ventures
 sector_focus:

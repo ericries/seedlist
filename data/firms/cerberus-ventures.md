@@ -88,6 +88,7 @@ Based on 12 verified portfolio companies from the firm's portfolio page [^6]:
 | Virchow Medical | Seed | 2024 | Biotech / Diagnostics | Acquired | [^6] |
 | DG Matrix | Seed | 2023 | Energy Infrastructure | Acquired | [^6] |
 | Ferveret | Seed | 2024 | Liquid Cooling / Energy | Acquired | [^6] |
+| Star Catcher Industries | Series A ($65M, co-led with B Capital and Shield Capital) | 2026-05-12 | Space / Power / Orbital Infrastructure | Active | [^8][^9] |
 
 ## In Their Own Words
 
@@ -106,3 +107,5 @@ No independently sourced founder testimonials found.
 [^5]: Cerberus Ventures people page, accessed April 2026. https://cerberus-ventures.com/people
 [^6]: Cerberus Ventures portfolio page, accessed April 2026. https://cerberus-ventures.com/portfolio
 [^7]: The Quantum Insider, "Maybell Quantum Announces $25 Million Series A Funding Led by Cerberus," March 4, 2024. https://thequantuminsider.com/2024/03/04/maybell-quantum-announces-25-million-series-a-funding-led-by-cerberus/
+[^8]: PR Newswire, "Star Catcher Raises $65 Million to Build the First Power Grid in Space," May 12, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/star-catcher-raises-65-million-to-build-the-first-power-grid-in-space-302769128.html — $65M Series A led by B Capital with Cerberus Ventures and Shield Capital co-leading; GreatPoint Ventures, Helena, Oceans Ventures, and MVP Ventures participated. Gen. John "Jay" Raymond (Cerberus) joined Star Catcher's board.
+[^9]: Payload, "Star Catcher Closes $65M Series A," May 12, 2026. Accessed May 2026. https://payloadspace.com/star-catcher-closes-65m-series-a/ — Confirms Series A close, total capital raised $88M, planned in-orbit power-beaming demonstration in 2026.

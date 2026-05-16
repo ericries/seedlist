@@ -1,7 +1,7 @@
 ---
 founded: 2000
 fund_size: $8B (Fund XII, 2024); $4.6B (Fund XI, 2022)
-last_researched: 2026-05-04
+last_researched: 2026-05-15
 location: Cambridge, MA
 name: General Catalyst
 sector_focus:
@@ -205,7 +205,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Zepto | Growth | ~2021 (founded) | Consumer / Quick Commerce | Private [^29] |
 | Deliveroo | Growth | ~2013 (founded) | Consumer / Delivery | Public (IPO 2021) [^3] |
 | Grammarly | Growth | ~2009 (founded) | Enterprise / AI Writing | Private [^29] |
-| Multiverse | Growth | ~2016 (founded) | EdTech / Apprenticeships | Private [^3] |
+| Multiverse | Growth (participated) | 2026-05-15 | EdTech / AI Workforce Training | Private [^3][^59] |
 | Clover Health | Early Stage | ~2014 (founded) | Healthcare / Insurance | Public (IPO 2021) [^3] |
 | Affirm | Early Stage | ~2012 (founded) | Fintech / BNPL | Public (IPO 2021) [^3] |
 | Rapyd | Growth | ~2016 (founded) | Fintech / Payments | Private [^33] |
@@ -386,4 +386,6 @@ No independently sourced founder testimonials were found in this research pass. 
 [^57]: Anthropic press release, "Anthropic raises $3.5 billion to advance our mission of building safer, more capable AI systems," March 3, 2025. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e — $3.5B Series E announced March 3, 2025 at $61.5B post-money valuation, led by Lightspeed Venture Partners. General Catalyst participated alongside Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, Jane Street, Menlo Ventures, Salesforce Ventures, Wellington Management, and others. Cross-referenced with TechCrunch, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025. https://techcrunch.com/2025/03/03/anthropic-raises-series-e-at-61-5b-post-money-valuation/
 
 [^58]: GlobeNewsWire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html — Confirms March 5, 2026 announcement; $80M Series B Extension led by Founders Fund at $1B valuation with Sequoia, Lux, General Catalyst, Lightspeed, and Red Glass participating.
+
+[^59]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, Bond, and StepStone Group. Cross-referenced with EU-Startups, "UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation," May 15, 2026. https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
 
