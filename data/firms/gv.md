@@ -105,14 +105,14 @@ Based on GV's verified portfolio and public data:
 | Nest | Early | ~2012 | Consumer Hardware | Acquired by Google ($3.2B) [^1] |
 | Slack | Early | ~2014 | Enterprise | IPO [^2] |
 | GitLab | Growth | ~2018 | Developer Tools | IPO [^2] |
-| Duo Security | Series A (led, $5M) | 2012-02-28 | Cybersecurity | Acquired by Cisco 2018 (~$2.35B) [^2][^18][^19] |
+| Duo Security | Series A (led, $5M) | 2012-02-28 | Cybersecurity | Acquired by Cisco 2018 (~$2.35B) [^2][^17][^18] |
 | Flatiron Health | Early | ~2013 | Healthcare | Acquired by Roche ($1.9B) [^1] |
 | One Medical | Early | ~2013 | Healthcare | IPO / Acquired by Amazon [^2] |
 | Stripe | Growth | ~2019 | Fintech | Private [^2] |
 | Lemonade | Early | ~2016 | Insurtech | IPO [^2] |
 | Verve Therapeutics | Early | ~2019 | Life Sciences | Public [^2] |
 | Harvey | Growth | ~2024 | Legal AI | Private ($5B valuation) [^5] |
-| OpenEvidence | Series B (co-led, $210M) | 2025-07-15 | Healthcare AI | Private ($3.5B valuation) [^5][^14][^15][^16] |
+| OpenEvidence | Series B (co-led, $210M) | 2025-07-15 | Healthcare AI | Private ($3.5B valuation) [^5][^13][^14][^15] |
 | Synthesia | Growth | ~2023 | Generative Video | Private [^5] |
 | Modular | Seed | ~2022 | AI Infrastructure | Private [^5] |
 | Snorkel AI | Early | ~2020 | AI/ML | Private [^5] |
@@ -120,13 +120,12 @@ Based on GV's verified portfolio and public data:
 | Thinking Machines Lab | Seed | ~2025 | AI Foundation Model | Private ($12B valuation) [^5] |
 | PostHog | Early | ~2020 | Developer Tools | Private (Unicorn 2025) [^4] |
 | Cockroach Labs | Early | ~2017 | Data Infrastructure | Private [^2] |
-| Wealth.com | Series B | 2026 | Fintech / Wealthtech | Private [^6] |
-| nEye.ai | Series C | 2026 | AI / Data Center | Private [^7] |
-| Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Private [^8] |
-| Sierra | Series E (co-led with Tiger Global) | 2026-05-04 | AI / Customer Service | Private [^9][^10][^11] |
-| MOTHER.Tech | Seed (led) | 2026-05-05 | AI / Creator Economy | Private [^12][^13] |
-| Nectar Social | Series A (participated; previously led Seed) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^17] |
-| Flick | Seed (participated; True Ventures led) | 2026-05-14 | AI / Filmmaking | Private [^20] |
+| Wealth.com | Series B (participated; $65M oversubscribed) | 2026-04-16 | Fintech / Wealthtech | Private [^6][^20][^21] |
+| Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Private [^7] |
+| Sierra | Series E (co-led with Tiger Global) | 2026-05-04 | AI / Customer Service | Private [^8][^9][^10] |
+| MOTHER.Tech | Seed (led) | 2026-05-05 | AI / Creator Economy | Private [^11][^12] |
+| Nectar Social | Series A (participated; previously led Seed) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^16] |
+| Flick | Seed (participated; True Ventures led) | 2026-05-14 | AI / Filmmaking | Private [^19] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -152,24 +151,27 @@ No independently sourced founder testimonials found.
 [^4]: Tracxn, "Google Ventures — 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/google-ventures/__KCopzcGnI6gw2XIpBQRF0eQrZKBzn2fQfqj1a2H3SfU
 [^5]: Crunchbase News, "GV Bets Big On 'AI Magic' — Even When It Competes With Alphabet," 2024. https://news.crunchbase.com/ai/venture-goog-munichiello-hulme-gv/
 [^6]: Fintech Global, "Wealth.com raises $65m Series B for AI wealth planning," April 16, 2026. https://fintech.global/2026/04/16/wealth-com-raises-65m-series-b-for-ai-wealth-planning/
-[^7]: BusinessWire, "nEye.ai Secures $80 Million Series C to Scale Optical Circuit Switching for AI Infrastructure," April 14, 2026. https://www.businesswire.com/news/home/20260414407496/en/nEye.ai-Secures-$80-Million-Series-C-to-Scale-Optical-Circuit-Switching-for-AI-Infrastructure
-[^8]: BusinessWire / BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV; GV's Anthony Philippakis joined as board observer. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research
-[^9]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from Benchmark, Sequoia Capital, and Greenoaks Capital.
-[^10]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
-[^11]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
-[^12]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV (Sangeen Zeb) with Lerer Hippeau, BoxGroup, and Shine Capital. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
-[^13]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
+[^7]: BusinessWire / BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV; GV's Anthony Philippakis joined as board observer. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research
+[^8]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from Benchmark, Sequoia Capital, and Greenoaks Capital.
+[^9]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
+[^10]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
+[^11]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV (Sangeen Zeb) with Lerer Hippeau, BoxGroup, and Shine Capital. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
+[^12]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
 
-[^14]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by Google Ventures and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
+[^13]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by Google Ventures and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
 
-[^15]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led.
+[^14]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led.
 
-[^16]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Confirms July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation.
+[^15]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Confirms July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation.
 
-[^17]: Nectar Social press release via Business Wire, "Nectar Social Raises $30M Series A to Build the Agentic Operating System for Modern Marketing," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing — $30M Series A led by Menlo Ventures and its Anthology Fund, with True Ventures, GV, and Kinship Ventures participating. GV previously co-led the $10.6M seed in June 2025 alongside True Ventures (Fortune, https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/).
+[^16]: Nectar Social press release via Business Wire, "Nectar Social Raises $30M Series A to Build the Agentic Operating System for Modern Marketing," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing — $30M Series A led by Menlo Ventures and its Anthology Fund, with True Ventures, GV, and Kinship Ventures participating. GV previously co-led the $10.6M seed in June 2025 alongside True Ventures (Fortune, https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/).
 
-[^18]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating. GV partner Karim Faris quoted: Duo "is committed to democratizing strong authentication and bringing this previously" enterprise-focused security "to every Internet user."
+[^17]: AnnArbor.com, "Ann Arbor startup Duo Security lands $5 million from investment group including Google," February 28, 2012. Accessed May 2026. https://www.annarbor.com/business-review/ann-arbor-startup-duo-security-lands-5-million-from-investment-group-including-google/ — Duo Security's $5M Series A announced February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners participating. GV partner Karim Faris quoted: Duo "is committed to democratizing strong authentication and bringing this previously" enterprise-focused security "to every Internet user."
 
-[^19]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.
+[^18]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012, led by Google Ventures with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.
 
-[^20]: BusinessWire, "Flick Raises $6M Seed Round to Redefine How AI Films Are Created," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514408256/en/Flick-Raises-$6M-Seed-Round-to-Redefine-How-AI-Films-Are-Created — GV (Sangeen Zeb) participated in Flick's $6M seed announced May 14, 2026; round was led by True Ventures with Y Combinator, Lightspeed, Formosa Capital, Pioneer Fund, Olive Tree Capital, and N1 also participating. Quote attributed to Sangeen Zeb, General Partner at GV.
+[^19]: BusinessWire, "Flick Raises $6M Seed Round to Redefine How AI Films Are Created," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514408256/en/Flick-Raises-$6M-Seed-Round-to-Redefine-How-AI-Films-Are-Created — GV (Sangeen Zeb) participated in Flick's $6M seed announced May 14, 2026; round was led by True Ventures with Y Combinator, Lightspeed, Formosa Capital, Pioneer Fund, Olive Tree Capital, and N1 also participating. Quote attributed to Sangeen Zeb, General Partner at GV.
+
+[^20]: Wealth.com press release, "Wealth.com Raises $65 Million Series B to Power AI Future of Wealth Management," April 16, 2026. Accessed May 2026. https://www.wealth.com/resources/press/wealth-com-raises-65-million-series-b-to-power-ai-future-of-wealth-management/ — Oversubscribed $65M Series B announced April 16, 2026; new investors Titanium Ventures, Pruven Capital, The K Fund, Dynasty Financial Partners; existing investors Charles Schwab, GV, Citi Ventures, 53 Stations, Anthos Capital, Alumni Ventures. GV led the prior Series A in September 2024.
+
+[^21]: InvestmentNews, "Wealth.com raises $65M Series B as AI adoption accelerates across firms," April 16, 2026. Accessed May 2026. https://www.investmentnews.com/fintech/wealthcom-raises-65m-series-b-as-ai-adoption-accelerates-across-firms/266175 — Independent confirmation of $65M Series B announced April 16, 2026 with GV among returning investors.

@@ -1,24 +1,4 @@
 priority:
-- slug: sbi-group
-  type: firm
-  reason: "led Fasset Series B $51M (2026-05-14) — may need new profile"
-  added: 2026-05-16
-- slug: expeditions-fund
-  type: firm
-  reason: "led Twin Prime $10M pre-seed (2026-05-14) — may need new profile"
-  added: 2026-05-16
-- slug: sky-ecosystem
-  type: firm
-  reason: "co-led Osero $13.5M seed (2026-05-12) — may need new profile"
-  added: 2026-05-16
-- slug: true-ventures
-  type: firm
-  reason: "led Flick $6M seed (2026-05-14)"
-  added: 2026-05-16
-- slug: gv
-  type: firm
-  reason: "participated in Flick $6M seed (2026-05-14); Sangeen Zeb quoted"
-  added: 2026-05-16
 - slug: sutter-hill-ventures
   type: firm
   reason: "led GridCARE $64M Series A (2026-05-14) — may need new profile"

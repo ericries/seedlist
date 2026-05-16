@@ -139,6 +139,7 @@ Based on 48 verified investments in the portfolio table below:
 | Duna | Series A | 2026 | Enterprise/Identity | Active | [^29] |
 | Bedrock Robotics | Growth | 2026 | AI/Robotics | Active | [^27] |
 | Nibol | Growth | 2026 | Enterprise/SaaS | Active | [^27] |
+| nEye.ai | Series C ($80M; Sutter Hill Ventures led) | 2026-04-14 | AI / Data Center / Optical Switching | Active | [^56][^57][^58] |
 
 *This table represents approximately 48 verified investments. CapitalG's total portfolio includes approximately 76 organizations per Crunchbase [^30], so this table covers roughly 63% of known investments. Years marked with ~ are approximate, based on founding year proxies or portfolio page listing dates.*
 
@@ -227,3 +228,9 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^53]: Business Wire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 2026, accessed April 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future
 [^54]: TechCrunch, "Base Power raises $1B to deploy home batteries everywhere," October 2025, accessed April 2026. https://techcrunch.com/2025/10/08/base-power-raises-1b-to-deploy-home-batteries-everywhere/
 [^55]: CNBC, "Nvidia and Alphabet VC arms back vibe coding startup Lovable at $6.6 billion valuation," December 2025, accessed April 2026. https://www.cnbc.com/2025/12/18/google-and-n.html
+
+[^56]: BusinessWire, "nEye.ai Secures $80 Million Series C to Scale Optical Circuit Switching for AI Infrastructure," April 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260414407496/en/nEye.ai-Secures-$80-Million-Series-C-to-Scale-Optical-Circuit-Switching-for-AI-Infrastructure — Primary press release: $80M Series C led by Sutter Hill Ventures with CapitalG, M12, and Socratic Partners participating.
+
+[^57]: nEye.ai company website, accessed May 2026. https://www.neye.ai/ — Company-published confirmation of $80M Series C led by Sutter Hill Ventures on April 14, 2026; total funding raised to $152M.
+
+[^58]: TechStartups, "nEye.ai raises $80M to scale optical circuit switching for AI data centers," April 14, 2026. Accessed May 2026. https://techstartups.com/2026/04/14/neye-ai-raises-80m-to-scale-optical-circuit-switching-for-ai-data-centers/ — Independent press confirmation listing CapitalG and M12 as Alphabet/Microsoft participants alongside Sutter Hill Ventures (lead) and Socratic Partners.

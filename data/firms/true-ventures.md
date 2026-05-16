@@ -57,13 +57,13 @@ Notable investments where the firm or a named True partner participated:
 | Duo Security | Series A ($5M; Google Ventures led) | 2012-02-28 | — | Security (MFA) | Acq. Cisco 2018 (~$2.35B) [^1][^7][^19][^20] |
 | Ring | Series A (lead) | 2014-04 | Jon Callaghan | Smart home | Acq. Amazon 2018 [^9] |
 | Blue Bottle Coffee | Early | — | — | Consumer/coffee | Acq. Nestlé 2017 [^7] |
-| Glowforge | Series A | 2015 | (co-led with Foundry Group) | Hardware/3D laser | Active [^10] |
+| Glowforge | Series A ($9M; Foundry Group led) | 2015-05-20 | (co-led with Foundry Group) | Hardware/3D laser | Active [^10][^22][^23][^24] |
 | Goodreads | Early | — | — | Consumer/books | Acq. Amazon 2013 [^7] |
 | BrightRoll | Early | — | — | Ad-tech | Acq. Yahoo 2014 (~$640M) [^7] |
-~unknown| Evident.io | Early | — | — | Cloud security | Acq. Palo Alto Networks [^7] |
+| Evident.io | Series A (participated, $9.85M; Bain Capital Ventures led) | 2014-11 | — | Cloud security | Acq. Palo Alto Networks (2018, $300M) [^7][^25] |
 | Zymergen | Early/Select | — | — | Biotech | IPO 2021 (subsequently delisted) [^7] |
-~unknown| Madison Reed | Early/Select | — | (Amy Errett, venture partner) | Consumer/beauty | Active [^3][^7] |
-~unknown| WeFarm | Fund V investment | — | — | Agriculture/marketplace | Active [^7] |
+| Madison Reed | Series A ($4M, co-led with Maveron) | 2013-04 | (Amy Errett, venture partner) | Consumer/beauty | Active [^3][^7][^26] |
+| WeFarm | Seed (led, $5M) + Series A (led, $13M) | 2018-03, 2019-10 | — | Agriculture/marketplace | Active [^7][^27][^28] |
 | Aisera | Series C/D | 2020-2022 | Jon Callaghan | Enterprise AI | Active [^15] |
 | Pipedream | Series A | 2022-05 | Jon Callaghan | Developer tools | Active [^1][^15] |
 | Daydream | Seed | 2024-06 | Jon Callaghan | AI | Active [^15] |
@@ -127,3 +127,17 @@ No additional independently sourced founder testimonials specifically about work
 [^20]: PE Hub, "Duo Security Seals $5M," February 28, 2012. Accessed May 2026. https://www.pehub.com/duo-security-seals-5m/ — Confirms Duo Security $5M Series A on February 28, 2012 with True Ventures and Resonant Venture Partners as prior backers in the 2010 seed round.
 
 [^21]: BusinessWire, "Flick Raises $6M Seed Round to Redefine How AI Films Are Created," May 14, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260514408256/en/Flick-Raises-$6M-Seed-Round-to-Redefine-How-AI-Films-Are-Created — True Ventures led Flick's $6M seed announced May 14, 2026, with participation from GV, Y Combinator, Lightspeed, Formosa Capital, Pioneer Fund, Olive Tree Capital, and N1.
+
+[^22]: Business Wire, "Glowforge Raises $9 Million Series A to Bring 3D Laser Printer to Consumers," May 20, 2015. Accessed May 2026. https://www.businesswire.com/news/home/20150520005310/en/Glowforge-Raises-9-Million-Series-A-to-Bring-3D-Laser-Printer-to-Consumers — Glowforge $9M Series A announced May 20, 2015, led by Foundry Group and True Ventures, with participation from Bre Pettis and Jenny Lawton (both of MakerBot).
+
+[^23]: TechCrunch, "Seattle's Glowforge Is Building A Maker Machine To Challenge Amazon Prime," May 20, 2015. Accessed May 2026. https://techcrunch.com/2015/05/20/glowforge-series-a/ — Contemporaneous coverage confirming Glowforge's $9M Series A on May 20, 2015 led by Foundry Group with True Ventures co-leading.
+
+[^24]: True Ventures blog, "Welcoming Glowforge," May 2015. Accessed May 2026. https://trueventures.com/blog/welcoming-glowforge — True Ventures' announcement of its Series A investment in Glowforge alongside Foundry Group (Brad Feld), citing prior MakerBot experience.
+
+[^25]: Bain Capital Ventures, "Evident.io Closes $9.85 Million in Series A to Expand Its Vision for Continuous Cloud-Centric Security," November 2014. Accessed May 2026. https://www.baincapital.com/news/evidentio-closes-985-million-series-expand-its-vision-continuous-cloud-centric-security — Confirms Evident.io's $9.85M Series A in November 2014 led by Bain Capital Ventures with True Ventures participation; Puneet Agarwal (True Ventures) quoted. Evident.io was subsequently acquired by Palo Alto Networks for $300M in March 2018.
+
+[^26]: PR Newswire, "Hair Color Innovator Madison Reed Raises Over $50 Million to Continue Omnichannel Expansion," March 2021. Accessed May 2026. https://www.prnewswire.com/news-releases/hair-color-innovator-madison-reed-raises-over-50-million-to-continue-omnichannel-expansion-301234446.html — Documents Madison Reed funding history including the April 2013 Series A ($4M co-led by True Ventures and Maveron), 2014 Series B ($12M led by Norwest Venture Partners), and subsequent rounds totaling $130.8M.
+
+[^27]: BusinessWire, "AgTech Startup Wefarm Secures New Financing Round Led by True Ventures," March 13, 2018. Accessed May 2026. https://www.businesswire.com/news/home/20180313006119/en/AgTech-Startup-Wefarm-Secures-New-Financing-Round-Led-by-True-Ventures — Confirms WeFarm's $5M seed round led by True Ventures in March 2018, with Skype founder Niklas Zennström, WordPress founder Matt Mullenweg, Bryan Meehan (Blue Bottle), Norrsken Foundation, LocalGlobe, and Accelerated Digital Ventures participating.
+
+[^28]: UKTN, "Wefarm secures $13m Series A funding," November 1, 2019. Accessed May 2026. https://www.uktech.news/funding/vc-funding/wefarm-secures-13m-series-a-funding-20191101 — Confirms WeFarm's $13M Series A in October/November 2019 led by True Ventures, with AgFunder, June Fund, LocalGlobe, ADV, and Norrsken Foundation participating.
