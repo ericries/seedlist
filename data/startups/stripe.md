@@ -230,7 +230,7 @@ As of February 2026, Stripe's valuation reached $159 billion through an employee
 | Series E | Sep 2019 | $250M | Sequoia Capital | Andreessen Horowitz, General Catalyst | $35B |
 | Series G | Apr 2020 | $600M | Sequoia Capital | Andreessen Horowitz, General Catalyst | $36B |
 | Series H | Mar 2021 | $600M | Sequoia Capital | Fidelity, NTMA (Ireland) | $95B |
-| Series I | Mar 2023 | $6.5B | Andreessen Horowitz, Thrive Capital | GIC, Goldman Sachs, Temasek, Founders Fund, General Catalyst, Baillie Gifford | $50B |
+| Series I | 2023-03-15 | $6.5B | Andreessen Horowitz, Thrive Capital | GIC, Goldman Sachs, Temasek, Founders Fund, General Catalyst, Baillie Gifford, MSD Partners | $50B [^8][^19][^20] |
 | Tender Offer | 2026-02-24 | Not disclosed | Thrive Capital | Coatue, Andreessen Horowitz | $159B [^14][^15][^16] |
 
 Sources: [^2][^5][^6][^7][^8][^9][^10][^13][^14][^15][^16]
@@ -269,3 +269,5 @@ Sources: [^2][^5][^6][^7][^8][^9][^10][^13][^14][^15][^16]
 [^16]: TechCrunch, "Stripe's valuation soars 74% to $159 billion," February 24, 2026. https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/
 [^17]: TechCrunch, "Eyeing International Growth, Stripe Raises $80M From Founders Fund, Khosla And Sequoia At A $1.75B Valuation," January 22, 2014. Accessed May 2026. https://techcrunch.com/2014/01/22/with-an-eye-to-international-growth-payments-company-stripe-raises-80m-from-peter-thiel-khosla-and-sequoia-at-a-1-25b-valuation/
 [^18]: FinSMEs, "Stripe Raises $80M in Series C Funding," January 23, 2014. Accessed May 2026. https://www.finsmes.com/2014/01/stripe-raises-80m-in-series-c-fundingstripe-raises-80m-in-series-c-funding.html
+[^19]: CNBC, "Stripe slashes valuation to $50 billion in new $6.5 billion funding round," March 15, 2023. Accessed May 2026. https://www.cnbc.com/2023/03/15/stripe-raises-series-i-billion-at-sharply-reduced-50-billion-valuation.html — Confirms March 15, 2023 announcement of $6.5B Series I at $50B valuation; General Catalyst listed among existing investors with a16z, Baillie Gifford, Founders Fund, MSD Partners, Thrive; new investors GIC, Goldman Sachs Asset and Wealth Management, Temasek.
+[^20]: TechCrunch, "Stripe now valued at $50B following $6.5B raise," March 15, 2023. Accessed May 2026. https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5b-raise/ — Independent confirmation of $6.5B Series I announced March 15, 2023; same investor list including General Catalyst as existing investor.

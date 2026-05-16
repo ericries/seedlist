@@ -186,7 +186,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Isomorphic Labs | Series A (led, $600M) | 2025-03-31 | AI / Drug Discovery | Private [^9][^19][^31] |
 | Isomorphic Labs | Series B (led, $2.1B) | 2026-05-12 | AI / Drug Discovery | Private [^32] |
 | Lila Sciences | Seed | 2025 | AI / Scientific | Private [^19] |
-| Formation Bio | Series D | 2024 | Biotech / AI | Private [^13] |
+| Formation Bio | Series D (participated, $372M) | 2024-06-26 | Biotech / AI | Private [^13][^43][^44][^45] |
 | Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^23] |
 | Base Power | Growth | ~2024 | Energy | Private [^8] |
 | Alsym Energy | Growth | ~2023 | Energy / Batteries | Private [^3] |
@@ -355,3 +355,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^41]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms Thrive Capital led the $160M round announced May 12, 2026 at $1B valuation; General Catalyst, Accel, Bain Capital Ventures, Redpoint, BoxGroup, and Pear VC participated. Forus is the renamed company formerly known as Tandem. Kareem Zaki (Thrive partner) quoted.
 
 [^42]: General Catalyst, "Doubling Down on Forus," May 12, 2026. Accessed May 2026. https://www.generalcatalyst.com/stories/doubling-down-on-forus — Investor announcement cross-referencing Thrive Capital's lead role in the $160M round.
+
+[^43]: PR Newswire, "Formation Bio secures $372MM Series D funding to grow drug pipeline and continue expanding AI-driven drug development platform," June 26, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/formation-bio-secures-372mm-series-d-funding-to-grow-drug-pipeline-and-continue-expanding-ai-driven-drug-development-platform-302182347.html — Primary press release. $372M Series D announced June 26, 2024; led by Andreessen Horowitz with significant participation from Sanofi; other participants: Sequoia, Thrive Capital, Emerson Collective, Lachy Groom, SV Angel Growth, FPV Ventures. Thrive partner Kareem Zaki joined as a board observer.
+
+[^44]: TechCrunch, "Formation Bio raises $372M to boost drug development with AI," June 26, 2024. Accessed May 2026. https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/ — Independent confirmation of June 26, 2024 Series D, $372M, a16z lead, Thrive Capital participant.
+
+[^45]: FierceBiotech, "AI-focused Formation secures Sanofi-backed $372M series D to license more drugs," June 26, 2024. Accessed May 2026. https://www.fiercebiotech.com/biotech/ai-focused-formation-secures-sanofi-backed-372m-series-d-license-more-drugs — Contemporaneous biotech-industry press confirming June 26, 2024 Series D, $372M, a16z-led with Thrive among participants.

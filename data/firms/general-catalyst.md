@@ -156,7 +156,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Stripe | Series D (co-led) | 2016 | Fintech / Payments | Private [^21] |
 | Stripe | Series E | 2019 | Fintech / Payments | Private [^26] |
 | Stripe | Series G Extension | 2020 | Fintech / Payments | Private [^26] |
-| Stripe | Series I | 2023 | Fintech / Payments | Private [^26] |
+| Stripe | Series I (participated, $6.5B) | 2023-03-15 | Fintech / Payments | Private [^26][^60][^61][^62] |
 | Warby Parker | Series B | 2013 | Consumer / E-commerce | Public (IPO 2021) [^3][^44] |
 | Samsara | Series C (led) | 2017 | Enterprise / IoT | Public (IPO 2021) [^27] |
 | Samsara | Growth | 2018 | Enterprise / IoT | Public (IPO 2021) [^28] |
@@ -388,4 +388,10 @@ No independently sourced founder testimonials were found in this research pass. 
 [^58]: GlobeNewsWire, "Nominal Valued at $1B as Founders Fund Leads $80M Acceleration Round," March 5, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/Nominal-Valued-at-1B-as-Founders-Fund-Leads-80M-Acceleration-Round.html — Confirms March 5, 2026 announcement; $80M Series B Extension led by Founders Fund at $1B valuation with Sequoia, Lux, General Catalyst, Lightspeed, and Red Glass participating.
 
 [^59]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, Bond, and StepStone Group. Cross-referenced with EU-Startups, "UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation," May 15, 2026. https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
+
+[^60]: Stripe Newsroom, "Stripe announces new round of funding and plan to provide employee liquidity," March 15, 2023. Accessed May 2026. https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity — Primary source press release. $6.5B Series I at $50B valuation announced March 15, 2023. Existing investors participating: Andreessen Horowitz, Baillie Gifford, Founders Fund, General Catalyst, MSD Partners, Thrive Capital. New investors: GIC, Goldman Sachs Asset and Wealth Management, Temasek.
+
+[^61]: CNBC, "Stripe slashes valuation to $50 billion in new $6.5 billion funding round," March 15, 2023. Accessed May 2026. https://www.cnbc.com/2023/03/15/stripe-raises-series-i-billion-at-sharply-reduced-50-billion-valuation.html — Independent confirmation of March 15, 2023 announcement, $6.5B raise at $50B valuation, General Catalyst as existing investor.
+
+[^62]: TechCrunch, "Stripe now valued at $50B following $6.5B raise," March 15, 2023. Accessed May 2026. https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5b-raise/ — Contemporaneous press confirmation of March 15, 2023 Series I; same investor list including General Catalyst.
 
