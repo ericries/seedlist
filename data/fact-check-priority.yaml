@@ -1,1 +1,13 @@
-priority: []
+priority:
+- slug: sbi-group
+  type: firm
+  reason: "led Fasset Series B $51M (2026-05-14) — may need new profile"
+  added: 2026-05-16
+- slug: expeditions-fund
+  type: firm
+  reason: "led Twin Prime $10M pre-seed (2026-05-14) — may need new profile"
+  added: 2026-05-16
+- slug: sky-ecosystem
+  type: firm
+  reason: "co-led Osero $13.5M seed (2026-05-12) — may need new profile"
+  added: 2026-05-16

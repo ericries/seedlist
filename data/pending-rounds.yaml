@@ -27,7 +27,9 @@ pending_rounds:
   parsed_company: Elliptic
   parsed_amount: $120M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: elliptic
 - title: Fasset raised $51M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -35,7 +37,9 @@ pending_rounds:
   parsed_company: Fasset
   parsed_amount: $51M
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: fasset
 - title: Crew Carbon raised $25M equity and grant
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -53,7 +57,9 @@ pending_rounds:
   parsed_company: Stitch
   parsed_amount: $25M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: stitch-saudi
 - title: Butterfly Medical raised $21M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -61,7 +67,9 @@ pending_rounds:
   parsed_company: Butterfly Medical
   parsed_amount: $21M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: butterfly-medical
 - title: Osero raised $13.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -69,7 +77,9 @@ pending_rounds:
   parsed_company: Osero
   parsed_amount: $13.5M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: osero
 - title: Twin Prime raised $10M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -77,7 +87,9 @@ pending_rounds:
   parsed_company: Twin Prime
   parsed_amount: $10M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: twin-prime
 - title: Origin Lab raised $8M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -85,7 +97,9 @@ pending_rounds:
   parsed_company: Origin Lab
   parsed_amount: $8M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: origin-lab
 - title: Flick raised $6M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -109,7 +123,9 @@ pending_rounds:
   parsed_company: Chromie Health
   parsed_amount: $2M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: chromie-health
 - title: Lightrock raised $500M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -117,7 +133,9 @@ pending_rounds:
   parsed_company: Lightrock
   parsed_amount: $500M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-16'
+  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
 - title: u003e raised $120M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -175,7 +193,9 @@ pending_rounds:
   parsed_company: FTAI Aviation
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: skipped
+  processed: '2026-05-16'
+  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
 - title: Indian Uber rival Rapido raises $240M at $3B valuation
   url: https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/
   source: techcrunch
@@ -194,7 +214,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-16'
+  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
 - title: Berlin-based Elephant Company raises over €5 million to bring AI-powered
     training to frontline workers
   url: https://www.eu-startups.com/2026/05/berlin-based-elephant-company-raises-over-e5-million-to-bring-ai-powered-training-to-frontline-workers/
