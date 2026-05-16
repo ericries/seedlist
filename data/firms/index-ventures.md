@@ -144,8 +144,8 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Adfin | Series A (led) | 2026-05-12 | Fintech / AI Agents / SME | [^46][^47] |
 | Cowboy Space Corporation | Series B (led, $275M at $2B val) | 2026-05-11 | Space Tech/AI Infrastructure | [^41][^42][^43] |
 | Frame Security | Stealth-exit ($50M, co-led) | 2026-05-11 | Cybersecurity / Human Risk | [^44][^45] |
-| Adfin | Series A (led, $18M / €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
-| Multiverse | Growth (participated, €60M / $70M at €2.1B val) | 2026-05-15 | EdTech / AI Workforce Training | [^48][^49] |
+| Adfin | Series A (led, €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
+| Multiverse | Growth (participated, €60M at €1.8B val) | 2026-05-15 | EdTech / AI Workforce Training | [^48][^49] |
 
 This table represents a subset of Index Ventures' portfolio.
 
