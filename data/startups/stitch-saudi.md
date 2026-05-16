@@ -1,30 +1,36 @@
 ---
-name: Stitch
-slug: stitch-saudi
-type: startup
-website: https://stitch.money/
-location: Riyadh, Saudi Arabia
+firms:
+- date: 2026-05-14
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- round: Seed
+  slug: independent
+  year: 2021
 founded: 2022
-status_company: active
+founders:
+- name: Mohamed Oueida
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: iqram-magdon-ismail
+  year: 2021
+last_researched: 2026-05-15
+location: Riyadh, Saudi Arabia
+name: Stitch
 sector:
 - fintech
 - banking-infrastructure
 - core-banking
 - payments
 - mena
+slug: stitch-saudi
 stage_latest: Series A
-total_raised: $35M
-investors: []
-firms:
-- slug: andreessen-horowitz
-  round: series-a
-  year: 2026
-  date: 2026-05-14
-founders:
-- name: Mohamed Oueida
-  role: Founder & CEO
-last_researched: 2026-05-15
 status: published
+status_company: active
+total_raised: $35M
+type: startup
+website: https://stitch.money/
 ---
 
 ## About

@@ -18926,7 +18926,7 @@ queue:
 - name: Jared Polis
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Independent / Techstars co-founder
   discovered_from: brad-feld
@@ -23346,3 +23346,10 @@ queue:
   firm: PANTA
   discovered_from: panta
   source: Co-Founder & CEO of PANTA; ex-Markit, Thomson Reuters, LSE, Morningstar
+- name: Taylor McLemore
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Patriot Boot Camp
+  discovered_from: jared-polis

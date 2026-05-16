@@ -1,39 +1,46 @@
 ---
-name: "Multiverse"
-slug: multiverse
-type: startup
-website: "https://www.multiverse.io"
-location: "London, UK"
-founded: 2016
-status_company: active
-sector: [edtech, ai-ml, workforce-training, enterprise-saas]
-stage_latest: "Growth"
-total_raised: "~$570M"
-investors:
-founders:
-  - name: "Euan Blair"
-    role: "Co-Founder & CEO"
-  - name: "Sophie Adelman"
-    role: "Co-Founder"
 firms:
-  - slug: general-catalyst
-    round: growth
-    year: 2026
-    date: 2026-05-15
-  - slug: d1-capital-partners
-    round: growth
-    year: 2026
-    date: 2026-05-15
-  - slug: index-ventures
-    round: growth
-    year: 2026
-    date: 2026-05-15
-  - slug: bond
-    round: growth
-    year: 2026
-    date: 2026-05-15
-status: published
+- date: 2026-05-15
+  round: growth
+  slug: general-catalyst
+  year: 2026
+- date: 2026-05-15
+  round: growth
+  slug: d1-capital-partners
+  year: 2026
+- date: 2026-05-15
+  round: growth
+  slug: index-ventures
+  year: 2026
+- date: 2026-05-15
+  round: growth
+  slug: bond
+  year: 2026
+founded: 2016
+founders:
+- name: Euan Blair
+  role: Co-Founder & CEO
+- name: Sophie Adelman
+  role: Co-Founder
+investors:
+- round: Series C
+  slug: mary-meeker
+  year: 2021
 last_researched: 2026-05-15
+location: London, UK
+name: Multiverse
+sector:
+- edtech
+- ai-ml
+- workforce-training
+- enterprise-saas
+slug: multiverse
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: ~$570M
+type: startup
+website: https://www.multiverse.io
 ---
 
 ## About

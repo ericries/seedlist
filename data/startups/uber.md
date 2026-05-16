@@ -148,6 +148,9 @@ firms:
 - round: Techstars Ventures angel round
   slug: techstars
   year: 2009
+- round: Angel ($1K–$15K range)
+  slug: independent
+  year: 2013
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -278,6 +281,9 @@ investors:
 - round: Techstars Ventures angel round
   slug: david-cohen
   year: 2009
+- round: Angel ($1K–$15K range)
+  slug: jared-polis
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

@@ -1,11 +1,25 @@
 ---
-name: Turnkey
-slug: turnkey
-type: startup
-website: https://www.turnkey.com/
-location: New York, NY
+firms:
+- date: 2026-05-14
+  round: strategic
+  slug: sequoia-capital
+  year: 2026
+- round: Series B ($30M round)
+  slug: galaxy-digital
+  year: 2025
 founded: 2022
-status_company: active
+founders:
+- name: Bryce Ferguson
+  role: Co-Founder & CEO
+- name: Jack Kearney
+  role: Co-Founder & CTO
+investors:
+- round: Series B ($30M round)
+  slug: mike-novogratz
+  year: 2025
+last_researched: 2026-05-15
+location: New York, NY
+name: Turnkey
 sector:
 - crypto
 - web3
@@ -13,21 +27,13 @@ sector:
 - wallets
 - developer-tools
 - fintech
+slug: turnkey
 stage_latest: Strategic
-total_raised: $65M+
-investors: []
-firms:
-- slug: sequoia-capital
-  round: strategic
-  year: 2026
-  date: 2026-05-14
-founders:
-- name: Bryce Ferguson
-  role: Co-Founder & CEO
-- name: Jack Kearney
-  role: Co-Founder & CTO
-last_researched: 2026-05-15
 status: published
+status_company: active
+total_raised: $65M+
+type: startup
+website: https://www.turnkey.com/
 ---
 
 ## About
