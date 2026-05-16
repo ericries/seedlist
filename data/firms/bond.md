@@ -67,11 +67,11 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 
 ## Inferred Thesis
 
-*Based on 16 verified current portfolio companies from BOND's website [^3] and additional sources. Sample size is modest relative to the firm's 130 total investments.*
+*Based on 15 verified current portfolio companies from BOND's website [^3] and additional sources. Sample size is modest relative to the firm's 130 total investments. Note: Intercom is associated with Mary Meeker's prior Kleiner Perkins Digital Growth Fund tenure and is not counted as a BOND investment per the exclusion noted below.*
 
 **Stage distribution:** BOND is primarily a late-stage investor, majoring in Series C and Series D rounds [^8]. The firm's check size range of $100K-$25M [^6] suggests flexibility but with a growth-stage center of gravity.
 
-**Sector breakdown (based on 16 verified portfolio companies):** The portfolio spans enterprise software (Applied Intuition, Intercom, Ironclad, Sentry — 4 of 16, 25%), consumer platforms (Canva, Hipcamp, Nextdoor, Outschool — 4 of 16, 25%), fintech (Plaid, Block/Square — 2 of 16, 13%), AI/deep tech (OpenEvidence, ElevenLabs — 2 of 16, 13%), workforce/HR (Multiverse, Seso, Checkr — 3 of 16, 19%), and marketplace/commerce (Material Bank — 1 of 16, 6%) [^3].
+**Sector breakdown (based on 15 verified portfolio companies):** The portfolio spans enterprise software (Applied Intuition, Ironclad, Sentry — 3 of 15, 20%), consumer platforms (Canva, Hipcamp, Nextdoor, Outschool — 4 of 15, 27%), fintech (Plaid, Block/Square — 2 of 15, 13%), AI/deep tech (OpenEvidence, ElevenLabs — 2 of 15, 13%), workforce/HR (Multiverse, Seso, Checkr — 3 of 15, 20%), and marketplace/commerce (Material Bank — 1 of 15, 7%) [^3].
 
 **Geographic patterns:** Portfolio companies are predominantly US-based, with notable exceptions including Canva (Australia) and Multiverse (UK) [^3].
 
@@ -93,15 +93,14 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 | ElevenLabs | Growth | 2026 | AI | Active | [^8] |
 ~unknown| Genies | Growth | — | Digital Avatars | Active | [^3] |
 ~unknown| Hipcamp | Growth | — | Consumer/Travel | Active | [^3] |
-~unknown| Intercom | Growth | — | Enterprise SaaS | Active | [^3] |
-~unknown| Ironclad | Growth | — | Legal Tech | Active | [^3] |
+| Ironclad | Series D (lead, $100M) | 2021-01-14 | Legal Tech | Active (~$950M post-money) | [^3][^19][^20][^21] |
 ~unknown| Material Bank | Growth | — | Marketplace | Active | [^3] |
 | Multiverse | Growth (participated) | 2026-05-15 | EdTech / AI Workforce Training | Active ($2.1B valuation) | [^3][^18] |
 ~unknown| Nextdoor | Growth | — | Consumer/Social | Active (Public) | [^3] |
 | OpenEvidence | Series C (participated, $200M) | 2025-10-20 | AI/Healthcare | Active ($6B valuation) | [^3][^15][^16][^17] |
 ~unknown| Outschool | Growth | — | EdTech | Active | [^3] |
 ~unknown| Plaid | Growth | — | Fintech | Active | [^3] |
-~unknown| Sentry | Growth | — | Developer Tools | Active | [^6] |
+| Sentry | Series D (participated, $60M; later co-led $90M Series E on 2022-05-04) | 2021-02-18 | Developer Tools | Active (~$3B+ valuation) | [^6][^22][^23][^24] |
 ~unknown| Seso | Growth | — | Workforce/AgTech | Active | [^3] |
 
 *This table represents approximately 14% of BOND's 130 total investments [^8]. Many investments lack publicly confirmed investment years. Prior investments made through Kleiner Perkins Digital Growth Fund (including Airbnb, DocuSign, Instacart, Meta, Pinterest, Snap, Spotify) are not included as they predate BOND's formation.*
@@ -142,3 +141,15 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^17]: Fierce Healthcare, "HLTH25: OpenEvidence valuation hits $6B with $200M series C," October 20, 2025, accessed May 2026. https://www.fiercehealthcare.com/ai-and-machine-learning/hlth25-3-months-after-series-b-round-openevidence-raises-lands-200m — Independent contemporaneous confirmation; round announced at HLTH25 conference; BOND named among participants.
 
 [^18]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, BOND, and StepStone Group. Cross-referenced with EU-Startups, "UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation," May 15, 2026. https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
+
+[^19]: PR Newswire, "Ironclad Raises $100 Million Series D Funding Round to Scale the New Standard for Business Contracts," January 14, 2021. Accessed May 2026. https://www.prnewswire.com/news-releases/ironclad-raises-100-million-series-d-funding-round-to-scale-the-new-standard-for-business-contracts-301208177.html — Confirms January 14, 2021 announcement of $100M Series D led by BOND with new investor Lux Capital and existing investors Accel, Sequoia Capital, Y Combinator Continuity, and Emergence Capital participating. BOND general partners Mary Meeker and Mood Rowghani joined as board observers.
+
+[^20]: The Information, "Mary Meeker's VC Firm Bond Invests in Ironclad at Nearly $1 Billion Valuation," January 2021. Accessed May 2026. https://www.theinformation.com/articles/mary-meekers-vc-firm-bond-invests-in-ironclad-at-nearly-1-billion-valuation — Independent contemporaneous confirmation; reports post-money valuation of more than $950 million.
+
+[^21]: Fenwick & West, "Fenwick Represents Ironclad in $100 Million Series D Financing," 2021. Accessed May 2026. https://www.fenwick.com/insights/experience/fenwick-represents-ironclad-in-100-million-series-d-financing — Third independent primary source: outside counsel announcement confirming $100M Series D led by BOND in January 2021.
+
+[^22]: Sentry, "Sentry Raises $60 Million in Series D Funding at $1 Billion Valuation," press release, February 18, 2021. Accessed May 2026. https://sentry.io/about/press-releases/sentry-raises-60-million-in-series-d-funding-at-1-billion-valuation/ — Primary source: Sentry's own announcement confirming $60M Series D led by Accel with NEA (existing) and BOND (new) participating, at $1B post-money valuation.
+
+[^23]: TechCrunch, "App monitoring platform Sentry gets $60 million Series D at $1 billion valuation," February 18, 2021. Accessed May 2026. https://techcrunch.com/2021/02/18/app-monitoring-platform-sentry-gets-60-million-series-d-at-1-billion-valuation/ — Independent contemporaneous press confirmation of $60M Series D on February 18, 2021, led by Accel, with BOND joining as new investor.
+
+[^24]: Crunchbase News, "Sentry Triples Unicorn Valuation With New $90M Raise," May 4, 2022. Accessed May 2026. https://news.crunchbase.com/enterprise/sentry-unicorn-funding-bond-accel/ — Confirms BOND's continued participation: Sentry's $90M Series E on May 4, 2022 was co-led by BOND and Accel at a valuation of more than $3 billion, with NEA (existing) and K5 Global (new) participating.
