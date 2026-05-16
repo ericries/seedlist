@@ -152,6 +152,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Rogo | Series B (participated, $50M; led by Thrive Capital) | 2025-04-30 | AI / Fintech | Active [^23] |
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Active [^19] |
 | MOTHER.Tech | Seed (participated) | 2026-05-05 | AI / Creator Economy | Active [^21][^22] |
+| Forus | Growth (participated, $160M; Thrive led at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Active [^24] |
 
 ## In Their Own Words
 
@@ -228,3 +229,5 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^23]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms BoxGroup participated as an existing investor in the $50M Series B led by Thrive Capital on April 30, 2025. Cross-referenced with FinTech Global, "Financial AI innovator Rogo raises $50m in Series B round led by Thrive Capital." https://fintech.global/2025/05/02/financial-ai-innovator-rogo-raises-50m-in-series-b-round-led-by-thrive-capital/
 
 [^novella2026]: Reinsurance News, "AI-powered wholesale broker Novella raises $21m for US expansion," May 14, 2026. Accessed May 2026. https://www.reinsurancene.ws/ai-powered-wholesale-broker-novella-raises-21m-for-us-expansion/ — Novella's $21M Series A on May 14, 2026 was led by Brewer Lane Ventures with BoxGroup, Crystal Venture Partners, SV Angel, Avid Ventures, Verissimo Ventures, Blank Ventures, and Arch participating.
+
+[^24]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms BoxGroup participated in Forus's $160M growth round on May 12, 2026 at $1B valuation; round led by Thrive Capital with General Catalyst, Accel, Bain Capital Ventures, Redpoint, and Pear VC also participating.

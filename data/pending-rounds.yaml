@@ -160,7 +160,10 @@ pending_rounds:
   parsed_company: Marketing operating system Nectar Social
   parsed_amount: $30M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-16'
+  slug: nectar-social
+  notes: already in profile from prior round monitoring
 - title: UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation
   url: https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
   source: eu-startups

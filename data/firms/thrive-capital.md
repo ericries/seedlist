@@ -209,6 +209,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Nourish | Growth | ~2024 | Health Tech | Private [^8] |
 | OpenEvidence | Series B (participated, $210M) | 2025-07-15 | AI / Health | Private ($3.5B valuation) [^8][^37][^38][^39] |
 | Figma | Growth | ~2020 | Developer Tools / Design | Public (IPO 2025) [^8] |
+| Forus | Growth (led, $160M at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Private [^41][^42] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
 
@@ -350,3 +351,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^39]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B with Thrive Capital participation.
 
 [^40]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money, co-led by Thrive Capital and Andreessen Horowitz. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.
+
+[^41]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms Thrive Capital led the $160M round announced May 12, 2026 at $1B valuation; General Catalyst, Accel, Bain Capital Ventures, Redpoint, BoxGroup, and Pear VC participated. Forus is the renamed company formerly known as Tandem. Kareem Zaki (Thrive partner) quoted.
+
+[^42]: General Catalyst, "Doubling Down on Forus," May 12, 2026. Accessed May 2026. https://www.generalcatalyst.com/stories/doubling-down-on-forus — Investor announcement cross-referencing Thrive Capital's lead role in the $160M round.

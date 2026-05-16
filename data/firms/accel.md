@@ -222,6 +222,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | RadixArk | Seed (led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^51][^52][^53] |
 | Nova Intelligence | Series A (participated) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^54] |
 | Rapido | Growth Primary ($240M, participated; led by Prosus) | 2026-05-15 | Mobility / Ride-hailing / India | [^70][^71] |
+| Forus | Growth ($160M, participated; Thrive Capital led at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | [^72] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -350,3 +351,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^70]: TechCrunch, "Indian Uber rival Rapido raises $240M at $3B valuation," May 15, 2026. Accessed May 2026. https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/ — Confirms Accel participated in Rapido's $240M primary round led by Prosus at $3B valuation alongside existing investor WestBridge Capital.
 
 [^71]: YourStory, "Rapido raises $240M in primary funding led by Prosus at $3B valuation," May 15, 2026. Accessed May 2026. https://yourstory.com/2026/05/rapido-raises-240m-in-primary-funding-led-by-prosus-at-3b-valuation — Cross-references Accel as participating existing investor in Rapido's May 15, 2026 round, bringing total raised to $730M.
+
+[^72]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms Accel participated in Forus's $160M growth round on May 12, 2026, led by Thrive Capital at $1B post-money. General Catalyst, Bain Capital Ventures, Redpoint, BoxGroup, and Pear VC also participated.

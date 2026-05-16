@@ -1,1 +1,25 @@
-priority: []
+priority:
+- slug: thrive-capital
+  type: firm
+  reason: "led Forus $160M growth at $1B val (2026-05-12)"
+  added: 2026-05-16
+- slug: general-catalyst
+  type: firm
+  reason: "participated in Forus $160M growth (2026-05-12)"
+  added: 2026-05-16
+- slug: redpoint
+  type: firm
+  reason: "participated in Forus $160M growth (2026-05-12) — may need new profile"
+  added: 2026-05-16
+- slug: bain-capital-ventures
+  type: firm
+  reason: "participated in Forus $160M growth (2026-05-12) — may need new profile"
+  added: 2026-05-16
+- slug: apis-partners
+  type: firm
+  reason: "co-led Paymentology $175M growth (2026-05-12) — may need new profile"
+  added: 2026-05-16
+- slug: accel
+  type: firm
+  reason: "co-led Sprouts.ai Pre-Series A (2026-05-15)"
+  added: 2026-05-16
