@@ -81,9 +81,9 @@ Based on 30 verified investments below, Harrison Metal's actual portfolio reveal
 | Xoopit | ~2008 | Seed | Email | Acquired by Yahoo ($20M) | [^3] |
 | Mixer Labs / GeoAPI | ~2009 | Seed | Location Services | Acquired by Twitter | [^3] |
 | CafePress | ~2008 | Early | Ecommerce | Public (delisted) | [^3] |
-| Widgetbox | ~2008 | Early | Web Tools | -- | [^3] |
+| Widgetbox | ~2008 | Early | Web Tools | Rebranded to Flite (2011); platform discontinued (2014-03-28) | [^3][^27] |
 | DocVerse | ~2008 | Seed | Productivity | Acquired by Google | [^3] |
-| FanSnap | ~2008 | Seed | Ticketing | -- | [^3] |
+| FanSnap | ~2008 | Seed | Ticketing | Acquired by NexTag (Dec 2011), then by SeatGeek (Nov 2013) and shut down | [^3][^28][^29] |
 | Lumos Labs | ~2008 | Seed | Consumer / Gaming | -- | [^3] |
 | Polyvore | ~2008 | Seed | Fashion / Consumer | Acquired by Yahoo | [^3] |
 | Doostang | ~2008 | Seed | Recruiting | -- | [^3] |
@@ -179,3 +179,9 @@ This table represents approximately 30 of 107 known investments (~28%). The anal
 [^24]: Michael Dearing on Twitter, "Convertible debt. Yuck..." September 2015. https://twitter.com/mcgd/status/644032308765298688
 [^25]: Michael Dearing on Twitter, "More convinced than ever that gross margin..." April 2016. https://twitter.com/mcgd/status/719712667531804677
 [^26]: Grace Science Foundation, "Michael Dearing," accessed March 2026. https://www.gracescience.org/people/michael-dearing
+
+[^27]: Wikipedia, "Widgetbox," accessed May 2026. https://en.wikipedia.org/wiki/Widgetbox — San Francisco-based widget platform founded 2006; rebranded to Flite in February 2011 to focus on advertising; platform formally discontinued March 28, 2014 per November 13, 2013 announcement.
+
+[^28]: TicketNews, "Nextag acquires ticket search engine FanSnap," December 2011. Accessed May 2026. https://www.ticketnews.com/2011/12/nextag-acquires-ticket-search-engine-fansnap/ — Confirms FanSnap's initial acquisition by NexTag in December 2011.
+
+[^29]: TechCrunch, "With $2.2M In New Funding, SeatGeek Acquires And Shuts Down Ticketing Competitor FanSnap," December 19, 2013. Accessed May 2026. https://techcrunch.com/2013/12/19/seatgeek-acquires-fansnap/ — Confirms SeatGeek's acquisition of FanSnap from NexTag/Wize Commerce in November 2013, with the FanSnap service subsequently discontinued.

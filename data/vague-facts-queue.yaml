@@ -74034,9 +74034,12 @@ vague_facts:
   profile: investors/jaimin-rangwalla
   profile_name: Jaimin Rangwalla
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  resolved: '2026-05-17'
+  resolution_note: Scanner queue outdated — current profile already specifies Verse
+    2023 Seed (Led, $5.75M) Clean Energy / AI Active per PR Newswire [^22].
 - column: 4
   company: Solana
   line: '| Solana | ~2019 | Early | L1 Blockchain | [^6] |'
@@ -97697,9 +97700,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Widgetbox rebranded to Flite (Feb 2011); platform discontinued
+    2014-03-28. Per Wikipedia.
 - column: 5
   company: DocVerse
   line: '| DocVerse | ~2008 | Seed | Productivity | Acquired by Google | [^3] |'
@@ -97717,9 +97723,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: FanSnap acquired by NexTag (Dec 2011), then by SeatGeek (Nov 2013)
+    and shut down. Per TicketNews + TechCrunch.
 - column: 4
   company: Lumos Labs
   line: '| Lumos Labs | ~2008 | Seed | Consumer / Gaming | -- | [^3] |'
@@ -161380,9 +161389,12 @@ vague_facts:
   profile: investors/jaimin-rangwalla
   profile_name: Jaimin Rangwalla
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2023'
+  resolved: '2026-05-17'
+  resolution_note: Scanner queue outdated — current profile already specifies Verse
+    2023 Seed (Led, $5.75M) Clean Energy / AI Active per PR Newswire [^22].
 - column: 1
   company: Manta Network
   line: '| Manta Network | 2023 | Series A | Privacy/L2 | [^23] |'
@@ -269810,9 +269822,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2008
+  resolved: '2026-05-17'
+  resolution_note: Widgetbox rebranded to Flite (Feb 2011); platform discontinued
+    2014-03-28. Per Wikipedia.
 - column: 1
   company: DocVerse
   line: '| DocVerse | ~2008 | Seed | Productivity | Acquired by Google | [^3] |'
@@ -269830,9 +269845,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2008
+  resolved: '2026-05-17'
+  resolution_note: FanSnap acquired by NexTag (Dec 2011), then by SeatGeek (Nov 2013)
+    and shut down. Per TicketNews + TechCrunch.
 - column: 1
   company: Lumos Labs
   line: '| Lumos Labs | ~2008 | Seed | Consumer / Gaming | -- | [^3] |'
