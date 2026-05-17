@@ -23835,3 +23835,38 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: george-ruan
+- name: Singularity Early Opportunities Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: legend-of-toys
+  source: led Legend of Toys pre-Series A (2026-05-15)
+- name: Veltis Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: legend-of-toys
+  source: co-lead Legend of Toys pre-Series A (2026-05-15)
+- name: Enzia Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: legend-of-toys
+  source: Legend of Toys pre-Series A participant (2026-05-15)
+- name: DeVC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: legend-of-toys
+  source: Legend of Toys pre-Series A participant (2026-05-15)
+- name: Stride
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: legend-of-toys
+  source: Legend of Toys pre-Series A participant (2026-05-15)
