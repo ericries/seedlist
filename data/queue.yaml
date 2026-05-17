@@ -23705,3 +23705,15 @@ queue:
   firm: Harken Sweets
   discovered_from: harken-sweets
   source: Founder of Harken Sweets
+- name: SUI Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nof1
+- name: Karatage Opportunities
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nof1
