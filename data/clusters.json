@@ -9438,8 +9438,12 @@
           "name": "Steve Huffman",
           "firm": "reddit"
         },
-        "sebastian-mejia",
-        "jared-heyman"
+        {
+          "slug": "sebastian-mejia"
+        },
+        {
+          "slug": "jared-heyman"
+        }
       ]
     },
     {
@@ -11429,7 +11433,9 @@
           "name": "Rehan Yar Khan",
           "firm": "orios-venture-partners"
         },
-        "sebastian-mejia"
+        {
+          "slug": "sebastian-mejia"
+        }
       ]
     },
     {
@@ -11963,11 +11969,21 @@
       "name": "Rebel Fund",
       "tagline": "YC alumni who turned their exits into a syndicate \u2014 investing back into every YC batch via SAFE notes, run by Jared Heyman's data-driven Rebel Theorem.",
       "members": [
-        "trip-adler",
-        "dan-siroker",
-        "steve-huffman",
-        "sebastian-mejia",
-        "jared-heyman"
+        {
+          "slug": "trip-adler"
+        },
+        {
+          "slug": "dan-siroker"
+        },
+        {
+          "slug": "steve-huffman"
+        },
+        {
+          "slug": "sebastian-mejia"
+        },
+        {
+          "slug": "jared-heyman"
+        }
       ],
       "size": 5
     }
