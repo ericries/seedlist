@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: sui-group
+  type: firm
+  reason: "co-led Nof1 $15M seed (2026-05-15) — may need new profile"
+  added: 2026-05-17
+- slug: karatage-opportunities
+  type: firm
+  reason: "co-led Nof1 $15M seed (2026-05-15) — may need new profile"
+  added: 2026-05-17
