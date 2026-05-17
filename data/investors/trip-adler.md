@@ -1,6 +1,6 @@
 ---
 check_size: Undisclosed (angel + Rebel Fund partner)
-firm: created-by-humans
+firm: rebel-fund
 last_researched: 2026-05-01
 last_verified_investment:
   company: Tracer Bio

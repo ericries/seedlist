@@ -18622,14 +18622,14 @@ queue:
 - name: Sebastian Mejia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Rebel Fund
   discovered_from: steve-huffman
 - name: Jared Heyman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Rebel Fund
   discovered_from: steve-huffman
@@ -23520,3 +23520,64 @@ queue:
   firm: Avant Genomics
   discovered_from: avant-genomics
   source: Co-founder & CEO of Avant Genomics (UVA spin-out)
+- name: Simón Borrero
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rappi
+  discovered_from: sebastian-mejia
+- name: Felipe Villamarín
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rappi
+  discovered_from: sebastian-mejia
+- name: Carlos García Ottati
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kavak
+  discovered_from: sebastian-mejia
+- name: Daniel Vogel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bitso
+  discovered_from: sebastian-mejia
+- name: Florian Hagenbuch
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Loft
+  discovered_from: sebastian-mejia
+- name: Latitud Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sebastian-mejia
+- name: Justin Hilliard
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: jared-heyman
+- name: Luis Fortuño
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Fund
+  discovered_from: jared-heyman
+- name: CrowdMed
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jared-heyman
