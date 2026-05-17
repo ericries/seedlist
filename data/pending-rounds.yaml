@@ -20,6 +20,17 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 5/18/26'
+  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
+  source: alleywatch
+  date_found: '2026-05-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-17'
+  notes: Weekly NYC roundup — all named rounds (GovWell, Turnkey, Anomaly Insights)
+    already in profiles from prior cycles
 - title: Elliptic raised $120M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1083,13 +1094,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-08'
   notes: covered by kohort.md (€6M / $7M Series A 2026-05-07 Raine Group-led)
-- title: Delft-based FrostByte secures a cool €1.3 million to scale cryogenic electronics
-    for quantum computing
-  url: https://www.eu-startups.com/2026/05/delft-based-frostbyte-secures-a-cool-e1-3-million-to-scale-cryogenic-electronics-for-quantum-computing/
-  source: eu-startups
-  date_found: '2026-05-08'
-  parsed_company: Delft-based FrostByte
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: small €1.3M Delft quantum pre-seed below typical Seedlist threshold
