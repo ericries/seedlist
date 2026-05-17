@@ -23587,3 +23587,121 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: hrdwyr
+- name: JB Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: led WIRobotics Series B (May 2026) — Korean VC
+- name: InterVest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026) — Korean VC
+- name: Hana Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026) — Korean VC
+- name: Smilegate Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026) — Korean VC
+- name: SBVA
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026)
+- name: NH Investment & Securities
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026)
+- name: Company K Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026) — Korean VC
+- name: GU Investment
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026)
+- name: FuturePlay
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wirobotics
+  source: co-investor in WIRobotics Series B (May 2026) — Korean VC, prior Series
+    A investor
+- name: Yeonbaek Lee
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: WIRobotics
+  discovered_from: wirobotics
+  source: Co-CEO & Co-Founder of WIRobotics
+- name: Yongjae Kim
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: WIRobotics
+  discovered_from: wirobotics
+  source: Co-CEO & Co-Founder of WIRobotics
+- name: Taste Tomorrow Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harken-sweets
+  source: led Harken Sweets seed (May 2026) — $30M debut fund focused on better-for-you
+    food/CPG
+- name: Danny Stepper
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Taste Tomorrow Ventures
+  discovered_from: harken-sweets
+  source: Co-Founder/GP of Taste Tomorrow Ventures; quoted on Harken Sweets seed
+- name: Selva
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harken-sweets
+  source: co-investor in Harken Sweets seed (May 2026)
+- name: GRTSHT
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harken-sweets
+  source: co-investor in Harken Sweets seed (May 2026)
+- name: Katie Lefkowitz
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Harken Sweets
+  discovered_from: harken-sweets
+  source: Founder of Harken Sweets
