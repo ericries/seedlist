@@ -136300,9 +136300,15 @@ vague_facts:
   profile: startups/armorblox
   profile_name: Armorblox
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolution_note: 'Date refined to 2022-09-21 (S Ventures launch date with Armorblox
+    named as initial portfolio company). Amount remains undisclosed; per S Ventures
+    fund parameters, individual checks are $1M-$5M, but specific Armorblox check
+    not publicly disclosed across 3 primary sources (SentinelOne blog, SentinelOne
+    press release, TechCrunch coverage). Added [^7] and [^8] primary-source citations.
+    Round type relabeled "Strategic" (no equity round designation given). 2026-05-16.'
 - column: 5
   company: Seed
   line: '| Seed | Apr 2009 | $1.2M | Angel round | Ron Conway, Peter Thiel, Mitch

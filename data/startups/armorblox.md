@@ -54,9 +54,9 @@ Armorblox was a cybersecurity company that used natural language understanding (
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| Feb 2019 | Series A | $16.5M | General Catalyst | Point72 Ventures, A Capital, SV Angel (Ron Conway), Robin Vasan, John Thompson, Gerhard Eschelbeck, Oliver Friedrichs, DJ Patil [^1][^4] |
-| Feb 2021 | Series B | $30M | Next47 | Polaris Partners, Unusual Ventures, General Catalyst [^3] |
-| Sep 2022 | Venture | Undisclosed | S Ventures (SentinelOne) | — [^6] |
+| 2019-02-20 | Series A | $16.5M | General Catalyst | Point72 Ventures, A Capital, SV Angel (Ron Conway), Robin Vasan, John Thompson, Gerhard Eschelbeck, Oliver Friedrichs, DJ Patil [^1][^4] |
+| 2021-02-23 | Series B | $30M | Next47 | Polaris Partners, Unusual Ventures, General Catalyst [^3] |
+| 2022-09-21 | Strategic | Undisclosed (S Ventures fund range: $1M–$5M) | S Ventures (SentinelOne) | — [^6][^7][^8] |
 
 Total raised: $46.5M [^3].
 
@@ -78,3 +78,5 @@ CEO DJ Sampath on Armorblox's ambition: "The next Palo Alto Networks is going to
 [^4]: Business Wire, "Armorblox Brings Textual Understanding to Security, Protecting Against Hackers and Human Error," February 2019. https://www.businesswire.com/news/home/20190220005375/en/Armorblox-Brings-Textual-Understanding-Security-Protecting-Hackers
 [^5]: Cisco Blogs, "Furthering the AI-First Security Cloud: Cisco Announces Intent to Acquire Armorblox," accessed March 2026. https://blogs.cisco.com/news/cisco-announces-intent-to-acquire-armorblox
 [^6]: SentinelOne Blog, "S Ventures Invests in Armorblox to Combat Email Threats Using Natural Language Understanding and AI," September 2022. https://www.sentinelone.com/blog/s-ventures-invests-in-armorblox-to-combat-email-threats-using-natural-language-understanding-and-ai/
+[^7]: SentinelOne press release, "SentinelOne Launches S Ventures Fund," September 21, 2022. Accessed May 2026. https://www.sentinelone.com/press/sentinelone-launches-s-ventures-fund/ — Names Armorblox among the initial S Ventures portfolio investments at fund launch on September 21, 2022. Individual check amounts not disclosed.
+[^8]: TechCrunch, "SentinelOne launches $100M fund to invest in enterprise cybersecurity startups," September 21, 2022. Accessed May 2026. https://techcrunch.com/2022/09/21/sentinelone-s-ventures-fund/ — Independent contemporaneous coverage confirming Armorblox is among the named S Ventures fund initial portfolio companies as of fund launch on September 21, 2022; fund makes individual investments between approximately $1M and $5M; specific Armorblox check size not publicly disclosed.

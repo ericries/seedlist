@@ -77,7 +77,7 @@ The following analysis is based on 80 verified portfolio companies compiled from
 ### Sector Allocation (computed from 80 verified portfolio entries)
 
 - **Enterprise SaaS / Developer Tools / Infrastructure**: 22 companies (28%) — Slack, Airtable, Greenhouse Software, Benchling, OpenGov, Lattice, Retool, Airplane.dev, Ramp, Compass, Codegen, ClassPass, Vimeo, Pleo, Parafin, Rightway Healthcare, Crete Professionals Alliance, Shield Technology Partners, Revel, Nava, Scope Security, Cadence
-- **AI / Machine Learning**: 16 companies (20%) — OpenAI, Anthropic, Anysphere (Cursor), Physical Intelligence, Scale AI, Essential AI, Hugging Face, ElevenLabs, Isomorphic Labs, Lila Sciences, Rogo, HeyGen, Formation Bio (AI-driven), ThriveAI, Cerebras (if invested), Decagon
+- **AI / Machine Learning**: 12 companies (15%) — OpenAI, Anthropic, Anysphere (Cursor), Physical Intelligence, Scale AI, Essential AI, Isomorphic Labs, Rogo, HeyGen, Formation Bio (AI-driven), ThriveAI, Decagon
 - **Fintech / Payments / Insurance**: 12 companies (15%) — Stripe, Affirm, Robinhood, Plaid, Lemonade, Oscar Health, Trade Republic, Melio, Clair, NuBank, Cedar, Mercury
 - **Consumer Internet / Social / Media**: 11 companies (14%) — Instagram, Spotify, Twitch, A24, Fanatics, Glossier, Skims, Warby Parker, GroupMe, Kickstarter, Hot Potato
 - **Health / Biotech**: 6 companies (8%) — Oscar Health, Rightway Healthcare, Medivis, Formation Bio, Isomorphic Labs, Hippocratic AI
@@ -139,7 +139,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Kickstarter | Early | ~2012 (founded) | Consumer / Crowdfunding | Private [^3] |
 | Twitch | Growth | ~2014 | Consumer / Media | Acquired by Amazon (2014) [^2][^3] |
 | Stripe | Growth | ~2016 | Fintech / Payments | Private [^1][^3] |
-| Robinhood | Series C | 2017-04-26 | Fintech / Investing | Public (IPO 2021) [^1][^21] |
+| Robinhood | Series C | 2017-04-26 | Fintech / Investing | Public (IPO 2021) [^1][^20] |
 | Slack | Growth | ~2015 | Enterprise SaaS | Acquired by Salesforce (2021) [^3] |
 | Affirm | Growth | ~2016 (founded) | Fintech / BNPL | Public (IPO 2021) [^8] |
 | ClassPass | Growth | ~2016 | Consumer / Fitness | Acquired by Mindbody [^3] |
@@ -157,9 +157,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Instacart | Growth | ~2018 | Marketplace / Delivery | Public (IPO 2023) [^3] |
 | Databricks | Growth | ~2019 | Enterprise / Data & AI | Private [^3] |
 | OpenAI | Growth | 2024-10-02 | AI | Private [^1][^14] |
-| Scale AI | Series F ($1B, $13.8B post, led by Accel) | 2024-05-21 | AI / Data | Private [^13][^22][^25] |
+| Scale AI | Series F ($1B, $13.8B post, led by Accel) | 2024-05-21 | AI / Data | Private [^13][^21][^24] |
 | Ramp | Growth | ~2021 | Fintech / Corporate Cards | Private [^3] |
-| Anduril Industries | Growth (Series E→H; co-led Series H) | 2022 (Series E); 2026-05-13 (Series H, co-led at $61B post) | Defense Tech | Private [^3][^18][^40] |
+| Anduril Industries | Growth (Series E→H; co-led Series H) | 2022 (Series E); 2026-05-13 (Series H, co-led at $61B post) | Defense Tech | Private [^3][^18][^39] |
 | NuBank | Growth | ~2018 | Fintech / Banking | Public [^8] |
 | Opendoor | Growth | ~2018 | Real Estate / Tech | Public [^3] |
 | OpenGov | Growth | ~2017 | Enterprise / GovTech | Acquired by Cox Enterprises (2024) [^13] |
@@ -177,17 +177,14 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Rightway Healthcare | Growth | ~2019 | Health Tech | Private [^3] |
 | Medivis | Early | ~2017 (founded) | Health Tech / AR | Private [^3] |
 | SpaceX | Growth | ~2022 | Aerospace | Private [^4] |
-| Neuralink | Series E | 2025-06-02 | Neurotechnology | Private ($650M Series E at ~$9B pre-money valuation; Sequoia Capital, Founders Fund, ARK Invest, Lightspeed, Thrive participated) [^18][^26][^27] |
+| Neuralink | Series E | 2025-06-02 | Neurotechnology | Private ($650M Series E at ~$9B pre-money valuation; Sequoia Capital, Founders Fund, ARK Invest, Lightspeed, Thrive participated) [^18][^25][^26] |
 | Physical Intelligence | Growth | ~2024 | AI / Robotics | Private [^3] |
-| Anysphere (Cursor) | Series C | 2025-06-05 | AI / Developer Tools | Private [^8][^24] |
-| Anthropic | Series E | 2025-03-03 | AI | Private ($3.5B Series E at $61.5B post-money valuation, led by Lightspeed; Bessemer, Cisco, D1, Fidelity, General Catalyst, Jane Street, Menlo, Salesforce Ventures, and Thrive participated) [^19][^28][^29][^30] |
-| ElevenLabs | Series B | 2025 | AI / Voice | Private [^19] |
-| Hugging Face | Series D | 2023 | AI / ML Platform | Private [^19] |
-| Isomorphic Labs | Series A (led, $600M) | 2025-03-31 | AI / Drug Discovery | Private [^9][^19][^31] |
-| Isomorphic Labs | Series B (led, $2.1B) | 2026-05-12 | AI / Drug Discovery | Private [^32] |
-| Lila Sciences | Seed | 2025 | AI / Scientific | Private [^19] |
-| Formation Bio | Series D (participated, $372M) | 2024-06-26 | Biotech / AI | Private [^13][^43][^44][^45] |
-| Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^23] |
+| Anysphere (Cursor) | Series C | 2025-06-05 | AI / Developer Tools | Private [^8][^23] |
+| Anthropic | Series E | 2025-03-03 | AI | Private ($3.5B Series E at $61.5B post-money valuation, led by Lightspeed; Bessemer, Cisco, D1, Fidelity, General Catalyst, Jane Street, Menlo, Salesforce Ventures, and Thrive participated) [^27][^28][^29] |
+| Isomorphic Labs | Series A (led, $600M) | 2025-03-31 | AI / Drug Discovery | Private [^9][^30] |
+| Isomorphic Labs | Series B (led, $2.1B) | 2026-05-12 | AI / Drug Discovery | Private [^31] |
+| Formation Bio | Series D (participated, $372M) | 2024-06-26 | Biotech / AI | Private [^13][^42][^43][^44] |
+| Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^22] |
 | Base Power | Growth | ~2024 | Energy | Private [^8] |
 | Alsym Energy | Growth | ~2023 | Energy / Batteries | Private [^3] |
 | Clair | Early | ~2021 | Fintech / Payroll | Private [^3] |
@@ -198,18 +195,18 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Fab | Early | ~2013 | Consumer / E-commerce | Shut down [^1] |
 | Juicero | Early | ~2016 | Consumer / Hardware | Shut down [^1] |
 | Visible Ideas | Early | ~2012 (founded) | Enterprise | Private [^3] |
-| Codegen | Seed (led, $16M at $60M post-money) | 2023-11-16 | AI / Developer Tools | Private [^34][^35][^36] |
+| Codegen | Seed (led, $16M at $60M post-money) | 2023-11-16 | AI / Developer Tools | Private [^33][^34][^35] |
 | Revel | Growth | ~2024 | Enterprise | Private [^8] |
 | Scope Security | Incubated | ~2017 | Enterprise / Security | Private [^11] |
 | Cadence | Incubated | ~2018 | Enterprise | Private [^11] |
-| Shield Technology Partners | Growth | 2025 | AI / IT Services | Private [^19] |
-| Rogo | Series B (led, $50M) | 2025-04-30 | AI / Finance | Private [^19][^33] |
-| Rogo (follow-on) | Series D ($160M, participated; led by Kleiner Perkins) | 2026-04-29 | AI / Finance | Private [^20] |
+| Shield Technology Partners | Launch / Growth ($100M+ initial; $100M follow-on Feb 2026) | 2025-06-05 | AI / IT Services | Private [^45][^46] |
+| Rogo | Series B (led, $50M) | 2025-04-30 | AI / Finance | Private [^32] |
+| Rogo (follow-on) | Series D ($160M, participated; led by Kleiner Perkins) | 2026-04-29 | AI / Finance | Private [^19] |
 | Crete Professionals Alliance | Growth | ~2023 | Enterprise / Services | Private [^3] |
 | Nourish | Growth | ~2024 | Health Tech | Private [^8] |
-| OpenEvidence | Series B (participated, $210M) | 2025-07-15 | AI / Health | Private ($3.5B valuation) [^8][^37][^38][^39] |
+| OpenEvidence | Series B (participated, $210M) | 2025-07-15 | AI / Health | Private ($3.5B valuation) [^8][^36][^37][^38] |
 | Figma | Growth | ~2020 | Developer Tools / Design | Public (IPO 2025) [^8] |
-| Forus | Growth (led, $160M at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Private [^41][^42] |
+| Forus | Growth (led, $160M at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Private [^40][^41] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
 
@@ -314,50 +311,53 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 
 [^18]: Neuralink (@neuralink), X post, 2025. https://x.com/neuralink/status/1929604804411904096
 
-[^19]: "Thrive Capital Portfolio: AI Startups Backed by Thrive (2026 Tracker)." FeedTheAI, accessed March 2026. https://www.feedtheai.com/thrive-capital-portfolio-ai-startups-backed-by-thrive-2025-tracker/
-[^20]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+[^19]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
 
-[^21]: "Robinhood stock-trading app confirms $110M raise at $1.3B valuation." TechCrunch, April 26, 2017. https://techcrunch.com/2017/04/26/robincorn/
+[^20]: "Robinhood stock-trading app confirms $110M raise at $1.3B valuation." TechCrunch, April 26, 2017. https://techcrunch.com/2017/04/26/robincorn/
 
-[^22]: "Data-labeling startup Scale AI raises $1B as valuation doubles to $13.8B." TechCrunch, May 21, 2024. https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/
+[^21]: "Data-labeling startup Scale AI raises $1B as valuation doubles to $13.8B." TechCrunch, May 21, 2024. https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/
 
-[^23]: "Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions." TechCrunch, May 7, 2024. https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/
+[^22]: "Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions." TechCrunch, May 7, 2024. https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/
 
-[^24]: "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR." TechCrunch, June 5, 2025. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/
+[^23]: "Cursor's Anysphere nabs $9.9B valuation, soars past $500M ARR." TechCrunch, June 5, 2025. https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/
 
-[^25]: BusinessWire, "Scale AI Raises $1 Billion Series F to Push The Frontier of AI Data," May 21, 2024. https://www.businesswire.com/news/home/20240521674964/en/Scale-AI-Raises-$1-Billion-Series-F-to-Push-The-Frontier-of-AI-Data
-[^26]: TechCrunch, "Elon Musk's Neuralink closes a $650M Series E," June 2, 2025, accessed May 2026. https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/
-[^27]: SiliconANGLE, "Neuralink raises $650M at reported $9B pre-money valuation," June 2, 2025, accessed May 2026. https://siliconangle.com/2025/06/02/neuralink-raises-another-650m-reported-9b-pre-money-valuation/
-[^28]: Anthropic, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025, accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
-[^29]: TechCrunch, "Anthropic raises $3.5B to fuel its AI ambitions," March 3, 2025, accessed May 2026. https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/
-[^30]: Lightspeed Venture Partners, "Lightspeed Announces Lead Investment in Anthropic's $3.5B Series E Financing," March 3, 2025, accessed May 2026. https://lsvp.com/stories/lightspeed-announces-lead-investment-in-anthropics-3-5b-series-e-financing/
+[^24]: BusinessWire, "Scale AI Raises $1 Billion Series F to Push The Frontier of AI Data," May 21, 2024. https://www.businesswire.com/news/home/20240521674964/en/Scale-AI-Raises-$1-Billion-Series-F-to-Push-The-Frontier-of-AI-Data
+[^25]: TechCrunch, "Elon Musk's Neuralink closes a $650M Series E," June 2, 2025, accessed May 2026. https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/
+[^26]: SiliconANGLE, "Neuralink raises $650M at reported $9B pre-money valuation," June 2, 2025, accessed May 2026. https://siliconangle.com/2025/06/02/neuralink-raises-another-650m-reported-9b-pre-money-valuation/
+[^27]: Anthropic, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025, accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
+[^28]: TechCrunch, "Anthropic raises $3.5B to fuel its AI ambitions," March 3, 2025, accessed May 2026. https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/
+[^29]: Lightspeed Venture Partners, "Lightspeed Announces Lead Investment in Anthropic's $3.5B Series E Financing," March 3, 2025, accessed May 2026. https://lsvp.com/stories/lightspeed-announces-lead-investment-in-anthropics-3-5b-series-e-financing/
 
-[^31]: Isomorphic Labs, "Isomorphic Labs announces $600m external investment round," March 31, 2025. Accessed May 2026. https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round — Confirms March 31, 2025 announcement; $600M first external funding led by Thrive Capital with GV participating and Alphabet (existing investor) following on. Cross-referenced with TechCrunch, "Alphabet's AI drug discovery platform Isomorphic Labs raises $600M from Thrive," March 31, 2025. https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/
+[^30]: Isomorphic Labs, "Isomorphic Labs announces $600m external investment round," March 31, 2025. Accessed May 2026. https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round — Confirms March 31, 2025 announcement; $600M first external funding led by Thrive Capital with GV participating and Alphabet (existing investor) following on. Cross-referenced with TechCrunch, "Alphabet's AI drug discovery platform Isomorphic Labs raises $600M from Thrive," March 31, 2025. https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/
 
-[^32]: Isomorphic Labs, "Isomorphic Labs announces Series B investment round," May 12, 2026. Accessed May 2026. https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round — $2.1B Series B announced May 12, 2026, led by Thrive Capital with Alphabet and GV continuing, and MGX, Temasek, CapitalG, and UK Sovereign AI Fund joining as new investors.
+[^31]: Isomorphic Labs, "Isomorphic Labs announces Series B investment round," May 12, 2026. Accessed May 2026. https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round — $2.1B Series B announced May 12, 2026, led by Thrive Capital with Alphabet and GV continuing, and MGX, Temasek, CapitalG, and UK Sovereign AI Fund joining as new investors.
 
-[^33]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms $50M Series B announced April 30, 2025, led by Thrive Capital at $350M post-money; J.P. Morgan Growth Equity Partners, Tiger Global, and Positive Sum Ventures participated.
+[^32]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms $50M Series B announced April 30, 2025, led by Thrive Capital at $350M post-money; J.P. Morgan Growth Equity Partners, Tiger Global, and Positive Sum Ventures participated.
 
-[^34]: TechCrunch, "Codegen raises new cash to automate software engineering tasks," November 16, 2023. Accessed May 2026. https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/ — Confirms November 16, 2023 announcement; $16M seed round led by Thrive Capital at $60M post-money valuation; angel participants include Quora CEO Adam D'Angelo and Instagram co-founder Mike Krieger. Quote from Thrive's Philip Clark on AI agent thesis.
+[^33]: TechCrunch, "Codegen raises new cash to automate software engineering tasks," November 16, 2023. Accessed May 2026. https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/ — Confirms November 16, 2023 announcement; $16M seed round led by Thrive Capital at $60M post-money valuation; angel participants include Quora CEO Adam D'Angelo and Instagram co-founder Mike Krieger. Quote from Thrive's Philip Clark on AI agent thesis.
 
-[^35]: The SaaS News, "Codegen Closes $16 Million in Seed Round," November 23, 2023. Accessed May 2026. https://www.thesaasnews.com/news/codegen-closes-16-million-in-seed-round — Contemporaneous coverage confirming $16M seed, Thrive Capital lead, San Francisco-based, angel participation from D'Angelo and Krieger.
+[^34]: The SaaS News, "Codegen Closes $16 Million in Seed Round," November 23, 2023. Accessed May 2026. https://www.thesaasnews.com/news/codegen-closes-16-million-in-seed-round — Contemporaneous coverage confirming $16M seed, Thrive Capital lead, San Francisco-based, angel participation from D'Angelo and Krieger.
 
-[^36]: Picus Capital, LinkedIn post sharing Codegen funding news, November 2023. Accessed May 2026. https://www.linkedin.com/posts/picus-capital_codegen-raises-new-cash-to-automate-software-activity-7131608858925412353-O_P_ — Independent confirmation of $16M seed round led by Thrive Capital with D'Angelo and Krieger as angels.
+[^35]: Picus Capital, LinkedIn post sharing Codegen funding news, November 2023. Accessed May 2026. https://www.linkedin.com/posts/picus-capital_codegen-raises-new-cash-to-automate-software-activity-7131608858925412353-O_P_ — Independent confirmation of $16M seed round led by Thrive Capital with D'Angelo and Krieger as angels.
 
-[^37]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by GV and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
+[^36]: PR Newswire, "OpenEvidence, the Fastest-Growing Application for Physicians in History, Announces $210 Million Round at $3.5 Billion Valuation," July 15, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html — Primary press release confirming July 15, 2025 announcement; $210M Series B at $3.5B valuation co-led by GV and Kleiner Perkins, with Sequoia, Coatue, Conviction, and Thrive participating.
 
-[^38]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B announced July 15, 2025; GV and Kleiner Perkins co-led; Thrive participated.
+[^37]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B announced July 15, 2025; GV and Kleiner Perkins co-led; Thrive participated.
 
-[^39]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B with Thrive Capital participation.
+[^38]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B with Thrive Capital participation.
 
-[^40]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money, co-led by Thrive Capital and Andreessen Horowitz. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.
+[^39]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Anduril's $5B Series H closed May 13, 2026 at $61B post-money, co-led by Thrive Capital and Andreessen Horowitz. Cross-referenced with SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026, https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/ and Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026, https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/.
 
-[^41]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms Thrive Capital led the $160M round announced May 12, 2026 at $1B valuation; General Catalyst, Accel, Bain Capital Ventures, Redpoint, BoxGroup, and Pear VC participated. Forus is the renamed company formerly known as Tandem. Kareem Zaki (Thrive partner) quoted.
+[^40]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms Thrive Capital led the $160M round announced May 12, 2026 at $1B valuation; General Catalyst, Accel, Bain Capital Ventures, Redpoint, BoxGroup, and Pear VC participated. Forus is the renamed company formerly known as Tandem. Kareem Zaki (Thrive partner) quoted.
 
-[^42]: General Catalyst, "Doubling Down on Forus," May 12, 2026. Accessed May 2026. https://www.generalcatalyst.com/stories/doubling-down-on-forus — Investor announcement cross-referencing Thrive Capital's lead role in the $160M round.
+[^41]: General Catalyst, "Doubling Down on Forus," May 12, 2026. Accessed May 2026. https://www.generalcatalyst.com/stories/doubling-down-on-forus — Investor announcement cross-referencing Thrive Capital's lead role in the $160M round.
 
-[^43]: PR Newswire, "Formation Bio secures $372MM Series D funding to grow drug pipeline and continue expanding AI-driven drug development platform," June 26, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/formation-bio-secures-372mm-series-d-funding-to-grow-drug-pipeline-and-continue-expanding-ai-driven-drug-development-platform-302182347.html — Primary press release. $372M Series D announced June 26, 2024; led by Andreessen Horowitz with significant participation from Sanofi; other participants: Sequoia, Thrive Capital, Emerson Collective, Lachy Groom, SV Angel Growth, FPV Ventures. Thrive partner Kareem Zaki joined as a board observer.
+[^42]: PR Newswire, "Formation Bio secures $372MM Series D funding to grow drug pipeline and continue expanding AI-driven drug development platform," June 26, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/formation-bio-secures-372mm-series-d-funding-to-grow-drug-pipeline-and-continue-expanding-ai-driven-drug-development-platform-302182347.html — Primary press release. $372M Series D announced June 26, 2024; led by Andreessen Horowitz with significant participation from Sanofi; other participants: Sequoia, Thrive Capital, Emerson Collective, Lachy Groom, SV Angel Growth, FPV Ventures. Thrive partner Kareem Zaki joined as a board observer.
 
-[^44]: TechCrunch, "Formation Bio raises $372M to boost drug development with AI," June 26, 2024. Accessed May 2026. https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/ — Independent confirmation of June 26, 2024 Series D, $372M, a16z lead, Thrive Capital participant.
+[^43]: TechCrunch, "Formation Bio raises $372M to boost drug development with AI," June 26, 2024. Accessed May 2026. https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/ — Independent confirmation of June 26, 2024 Series D, $372M, a16z lead, Thrive Capital participant.
 
-[^45]: FierceBiotech, "AI-focused Formation secures Sanofi-backed $372M series D to license more drugs," June 26, 2024. Accessed May 2026. https://www.fiercebiotech.com/biotech/ai-focused-formation-secures-sanofi-backed-372m-series-d-license-more-drugs — Contemporaneous biotech-industry press confirming June 26, 2024 Series D, $372M, a16z-led with Thrive among participants.
+[^44]: FierceBiotech, "AI-focused Formation secures Sanofi-backed $372M series D to license more drugs," June 26, 2024. Accessed May 2026. https://www.fiercebiotech.com/biotech/ai-focused-formation-secures-sanofi-backed-372m-series-d-license-more-drugs — Contemporaneous biotech-industry press confirming June 26, 2024 Series D, $372M, a16z-led with Thrive among participants.
+
+[^45]: BusinessWire, "Thrive Holdings & ZBS Partners Launch Shield Technology Partners, an AI-enabled Platform for IT Services Businesses, with over $100M in Initial Funding," June 5, 2025. Accessed May 2026. https://www.businesswire.com/news/home/20250605512954/en/Thrive-Holdings-ZBS-Partners-Launch-Shield-Technology-Partners-an-AI-enabled-Platform-for-IT-Services-Businesses-with-over-$100M-in-Initial-Funding — Primary launch announcement confirming Thrive Holdings co-founded Shield Technology Partners with ZBS Partners on June 5, 2025, with over $100M initial funding.
+
+[^46]: BusinessWire, "Shield Raises $100 Million From Thrive Holdings to Accelerate the Growth of its IT Services Platform," February 2, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260202196878/en/Shield-Raises-$100-Million-From-Thrive-Holdings-to-Accelerate-the-Growth-of-its-IT-Services-Platform — Follow-on $100M from Thrive Holdings announced February 2, 2026.
