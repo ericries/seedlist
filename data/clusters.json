@@ -9222,7 +9222,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 43,
+      "size": 45,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9437,7 +9437,9 @@
           "slug": "steve-huffman",
           "name": "Steve Huffman",
           "firm": "reddit"
-        }
+        },
+        "sebastian-mejia",
+        "jared-heyman"
       ]
     },
     {
@@ -11346,7 +11348,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 16,
+      "size": 17,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11426,7 +11428,8 @@
           "slug": "rehan-yar-khan",
           "name": "Rehan Yar Khan",
           "firm": "orios-venture-partners"
-        }
+        },
+        "sebastian-mejia"
       ]
     },
     {
@@ -11954,6 +11957,19 @@
           "firm": null
         }
       ]
+    },
+    {
+      "id": "curated-51",
+      "name": "Rebel Fund",
+      "tagline": "YC alumni who turned their exits into a syndicate \u2014 investing back into every YC batch via SAFE notes, run by Jared Heyman's data-driven Rebel Theorem.",
+      "members": [
+        "trip-adler",
+        "dan-siroker",
+        "steve-huffman",
+        "sebastian-mejia",
+        "jared-heyman"
+      ],
+      "size": 5
     }
   ]
 }

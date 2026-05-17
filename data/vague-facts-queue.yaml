@@ -72786,8 +72786,8 @@ vague_facts:
     valuation, led by Founders Fund with Hanabi Capital among new investors. Sources:
     Cognition official blog post (Sept 8, 2025) and The AI Insider (Sept 9, 2025).
     Wikipedia notes round designation not specified in primary sources (Series A=$21M
-    early 2024, Series B=$175M April 2024). Updated Ishani Thakur portfolio with
-    YYYY-MM-DD date and added source [^13]. Hanabi Capital firm profile also updated.'
+    early 2024, Series B=$175M April 2024). Updated Ishani Thakur portfolio with YYYY-MM-DD
+    date and added source [^13]. Hanabi Capital firm profile also updated.'
   type: unknown_value
   value: '[^7]'
 - column: 4
@@ -72801,8 +72801,8 @@ vague_facts:
   resolved_note: 'LiveKit Series B resolved to 2025-04-10, $45M at $345M post-money,
     led by Altimeter with Redpoint and Hanabi Capital participating (TechCrunch Apr
     10 2025; FinSMEs Apr 11 2025). Citation [^9] in Thakur profile was actually a
-    Series C blog (livekit.com/blog/livekit-series-c, Jan 22, 2026, $100M led by
-    Index Ventures), so split into two rows: Series B (2025-04-10) and Series C (2026-01-22).
+    Series C blog (livekit.com/blog/livekit-series-c, Jan 22, 2026, $100M led by Index
+    Ventures), so split into two rows: Series B (2025-04-10) and Series C (2026-01-22).
     Added sources [^14] (TechCrunch) and [^15] (FinSMEs). Hanabi Capital firm profile
     portfolio table also updated with both Series B and Series C rows.'
   type: unknown_value
@@ -82741,9 +82741,12 @@ vague_facts:
   profile: investors/julian-robertson
   profile_name: Julian Robertson
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown [^8]
+  resolved: '2026-05-17'
+  resolution_note: Tiger Shark Management closed 2015, returned ~$100M. Cited ValueWalk
+    + Institutional Investor.
 - column: 4
   company: Emerging Sovereign Group
   line: '| Emerging Sovereign Group | J. Kevin Kenny Jr. | 2002 | Tiger Seed | Unknown
@@ -82752,9 +82755,12 @@ vague_facts:
   profile: investors/julian-robertson
   profile_name: Julian Robertson
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown [^8]
+  resolved: '2026-05-17'
+  resolution_note: ESG wind-down began Sept 2018, returned $1.3B. Cited Pensions &
+    Investments.
 - column: 4
   company: Tiger Consumer Partners
   line: '| Tiger Consumer Partners | Patrick McCormack | 2001 | Tiger Seed | Unknown
@@ -82763,9 +82769,12 @@ vague_facts:
   profile: investors/julian-robertson
   profile_name: Julian Robertson
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown [^8]
+  resolved: '2026-05-17'
+  resolution_note: Tiger Consumer closed March 2015, returned ~$1.4B. Cited Bloomberg
+    + CNBC.
 - column: 4
   company: US Airways
   line: '| US Airways | ~1996 | Airlines | Tiger held ~25% of the company; significant
@@ -134304,12 +134313,12 @@ vague_facts:
   profile_name: Yasmin Razavi
   section: Portfolio
   status: resolved
-  resolved_note: 'Adept Series B confirmed 2023-03-14 ($350M, Spark+General Catalyst
+  resolved_note: Adept Series B confirmed 2023-03-14 ($350M, Spark+General Catalyst
     co-led) per TechCrunch March 15, 2023. Acquirer corrected from "Meta" to "Amazon"
     — Amazon acqui-hire announced June 28, 2024 (TechCrunch, CNBC, Semafor); David
     Luan, Augustus Odena and other co-founders joined Amazon; technology licensed
     non-exclusively; Zach Brock became CEO of remaining entity. Razavi profile row
-    was already correct on date/stage; acquirer wording fixed and source [^21] added.'
+    was already correct on date/stage; acquirer wording fixed and source [^21] added.
   type: unknown_value
   value: Unknown
 - column: 5
@@ -257727,9 +257736,12 @@ vague_facts:
   profile: investors/julian-robertson
   profile_name: Julian Robertson
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2001'
+  resolved: '2026-05-17'
+  resolution_note: Tiger Shark Management closed 2015, returned ~$100M. Cited ValueWalk
+    + Institutional Investor.
 - column: 2
   company: Emerging Sovereign Group
   line: '| Emerging Sovereign Group | J. Kevin Kenny Jr. | 2002 | Tiger Seed | Unknown
@@ -257738,9 +257750,12 @@ vague_facts:
   profile: investors/julian-robertson
   profile_name: Julian Robertson
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2002'
+  resolved: '2026-05-17'
+  resolution_note: ESG wind-down began Sept 2018, returned $1.3B. Cited Pensions &
+    Investments.
 - column: 2
   company: Tiger Consumer Partners
   line: '| Tiger Consumer Partners | Patrick McCormack | 2001 | Tiger Seed | Unknown
@@ -257749,9 +257764,12 @@ vague_facts:
   profile: investors/julian-robertson
   profile_name: Julian Robertson
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2001'
+  resolved: '2026-05-17'
+  resolution_note: Tiger Consumer closed March 2015, returned ~$1.4B. Cited Bloomberg
+    + CNBC.
 - column: 2
   company: Argonaut Capital Management
   line: '| Argonaut Capital Management | David Gerstenhaber | ~2000 | Tiger Cub |
