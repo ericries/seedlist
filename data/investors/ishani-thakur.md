@@ -49,7 +49,7 @@ Based on 7 verified investments associated with Hanabi Capital (where Thakur is 
 
 ### Stage Distribution
 
-The verified investments span seed through Series C. LiveKit was a Series B [^9], Cognition AI raised over $400M (growth stage) [^7], BRINC Drones was a $75M Series B [^11], and Applied Compute was a Series A [^10]. Traversal was a seed round [^8]. This suggests the firm invests across early to growth stages.
+The verified investments span seed through Series C. Hanabi backed LiveKit in both its $45M Series B (April 2025) and $100M Series C (January 2026) [^14][^9], Cognition AI raised over $400M (growth stage, $10.2B valuation, September 2025) [^7][^13], BRINC Drones was a $75M Series B [^11], and Applied Compute was a Series A [^10]. Traversal was a seed round [^8]. This suggests the firm invests across early to growth stages and writes follow-on checks.
 
 ### Geographic Concentration
 
@@ -63,8 +63,9 @@ Based on verified deals, frequent co-investors include Founders Fund (Cognition 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Cognition AI | Growth ($400M+) | 2025 | AI coding agents | [^7] |
-| LiveKit | Series B | 2025 | Real-time infrastructure | [^9] |
+| Cognition AI | Growth ($400M+, $10.2B valuation) | 2025-09-08 | AI coding agents | [^7][^13] |
+| LiveKit | Series B ($45M) | 2025-04-10 | Real-time infrastructure | [^14][^15] |
+| LiveKit | Series C ($100M, $1B valuation) | 2026-01-22 | Real-time infrastructure | [^9] |
 | BRINC Drones | Series B ($75M) | 2025 | Public safety drones | [^11] |
 | Netic | Series A ($20M) | 2025 | AI for home services | [^12] |
 | Applied Compute | Series A | 2025 | Compute infrastructure | [^10] |
@@ -95,3 +96,6 @@ No independently sourced founder testimonials found.
 [^10]: PitchBook, "Hanabi Capital Fund I: Performance," accessed March 2026. https://pitchbook.com/profiles/fund/27174-61F
 [^11]: BNN Bloomberg, "Venture Capital Partners Are Leaving Big Firms in Droves," December 2024. https://www.bnnbloomberg.ca/business/2024/12/23/venture-capital-partners-are-leaving-big-firms-in-droves/
 [^12]: Menlo Times, "Founders Fund Invests in Netic - AI Platform for Plumbers and Roofers," accessed March 2026. https://www.menlotimes.com/post/founders-fund-invests-in-netic-ai-platform-for-plumbers-and-roofers
+[^13]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025, accessed May 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/ — Founders Fund led; corroborates the Cognition blog dated September 8, 2025 listing Hanabi Capital among new investors alongside Bain Capital Ventures and D1 Capital.
+[^14]: TechCrunch, "LiveKit's tools power real-time communications, including OpenAI's Voice Mode," April 10, 2025, accessed May 2026. https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/ — LiveKit raised $45M Series B led by Altimeter with Redpoint Ventures and Hanabi Capital.
+[^15]: FinSMEs, "LiveKit Raises $45M in Series B at $345M Valuation," April 11, 2025, accessed May 2026. https://www.finsmes.com/2025/04/livekit-raises-45m-in-series-b-at-a-345m-valuation.html — Confirms $45M Series B at $345M post-money valuation; Altimeter Capital led, Redpoint and Hanabi participated; total capital raised to $83M.

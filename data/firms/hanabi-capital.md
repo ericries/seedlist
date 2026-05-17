@@ -46,7 +46,7 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 
 **Sector breakdown:** The portfolio is heavily concentrated in AI and infrastructure. Of 18 verified investments: AI/ML companies (Cerebras, Cognition, Cartesia, Flora, Simile, Netic, ArchiBoost AI — 7 companies, 39%); infrastructure and developer tools (ClickHouse, LiveKit, Traversal, Applied Compute, Arcade, Periodic Labs — 6 companies, 33%); robotics and hardware (Mind Robotics, Brinc Drones — 2 companies, 11%); other (Onodrim, Parahelp, Cursor — 3 companies, 17%). Sample size is small (18 companies) so percentages should be treated as directional.
 
-**Stage distribution:** Based on disclosed round information, Hanabi participates across seed through Series B stages. The firm invested in LiveKit's Series B round [^10] and Cognition's $400M+ round at $10.2B valuation [^11], suggesting it can participate in later rounds as well as early-stage deals.
+**Stage distribution:** Based on disclosed round information, Hanabi participates across seed through Series C stages. The firm invested in LiveKit's $45M Series B (April 2025) [^10][^30] and LiveKit's $100M Series C (January 2026) [^31], as well as Cognition's $400M+ round at $10.2B valuation (September 2025) [^11][^17][^29], suggesting it follows on into later rounds as well as early-stage deals.
 
 **Check size:** Investment range of $100K to $2.0M, with a sweet spot around $1M [^12].
 
@@ -67,10 +67,11 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 | Cartesia | Series A | 2025 | AI | [^15] |
 | Cerebras | Undisclosed | 2024-2025 | AI/Chips | [^9] |
 | ClickHouse | Series C | 2025 | Data Infrastructure | [^16] |
-| Cognition | Growth | 2025 | AI | [^17] |
+| Cognition | Growth ($400M+, $10.2B valuation) | 2025-09-08 | AI | [^17][^29] |
 | Cursor | Undisclosed | 2024-2025 | Developer Tools | [^9][^20] |
 | Flora | Seed | 2025 | AI/Creative Tools | [^9][^21] |
-| LiveKit | Series B | 2025 | Infrastructure | [^10] |
+| LiveKit | Series B ($45M, $345M valuation) | 2025-04-10 | Infrastructure | [^10][^30] |
+| LiveKit | Series C ($100M, $1B valuation) | 2026-01-22 | Infrastructure | [^31] |
 | Mind Robotics | Seed | 2025 | Robotics | [^4][^9][^22] |
 | Netic | Series A | 2025 | AI/Home Services | [^9][^23] |
 | Onodrim | Seed | 2025-2026 | Defence Tech | [^9][^24] |
@@ -127,3 +128,6 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 [^26]: TechCrunch, "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science," September 30, 2025. https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/
 [^27]: SiliconANGLE, "AI digital twin startup Simile raises $100M in funding," February 12, 2026. https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/
 [^28]: Fortune, "Traversal emerges from stealth with $48 million from Sequoia and Kleiner Perkins," June 18, 2025. https://fortune.com/2025/06/18/traversal-emerges-from-stealth-with-48-million-from-sequoia-and-kleiner-perkins-to-reimagine-site-reliability-in-the-ai-era/
+[^29]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025, accessed May 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/ — Confirms Founders Fund led; lists Bain Capital Ventures, Hanabi Capital, D1 Capital as new investors alongside Lux, 8VC, Neo, Elad Gil, Definition Capital, Swish VC.
+[^30]: TechCrunch, "LiveKit's tools power real-time communications, including OpenAI's Voice Mode," April 10, 2025, accessed May 2026. https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/ — $45M Series B led by Altimeter with Redpoint Ventures and Hanabi Capital.
+[^31]: LiveKit blog, "LiveKit's Series C: Towards the voice-driven era of computing," January 22, 2026, accessed May 2026. https://livekit.com/blog/livekit-series-c/ — $100M Series C at $1B valuation led by Index Ventures with Salesforce Ventures, Hanabi Capital, Altimeter, and Redpoint Ventures.
