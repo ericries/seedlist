@@ -18940,7 +18940,7 @@ queue:
 - name: Greg Gottesman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pioneer Square Labs (formerly Madrona Venture Group)
   discovered_from: brad-feld
@@ -19478,7 +19478,7 @@ queue:
 - name: George Ruan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Honey (co-founder, angel)
   discovered_from: round-monitoring-2026-04-30
@@ -23717,3 +23717,121 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: nof1
+- name: Mike Galgon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs
+  discovered_from: greg-gottesman
+- name: Geoff Entress
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs
+  discovered_from: greg-gottesman
+- name: Ben Gilbert
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs
+  discovered_from: greg-gottesman
+- name: T.A. McCann
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs
+  discovered_from: greg-gottesman
+- name: Vivek Ladsariya
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs
+  discovered_from: greg-gottesman
+- name: Julie Sandler
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Pioneer Square Labs
+  discovered_from: greg-gottesman
+- name: Pioneer Square Labs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Smash Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Decibel Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Read AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Dropzone AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Boundless
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Arrived
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greg-gottesman
+- name: Tomasz Tunguz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Theory Ventures
+  discovered_from: greg-gottesman
+- name: Vivek Ramaswami
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Madrona Venture Group
+  discovered_from: greg-gottesman
+- name: Ryan Hudson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Honey
+  discovered_from: george-ruan
+- name: Will Hsu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mucker Capital
+  discovered_from: george-ruan
+- name: Anthos Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: george-ruan

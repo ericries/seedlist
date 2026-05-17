@@ -1,20 +1,30 @@
 ---
-name: "Certifyde"
+firms:
+- round: Seed ($2M, with K5 Global, Flamingo Capital Partners)
+  slug: independent
+  year: 2026
+founders:
+- name: Skylar Hauswirth
+  role: Co-Founder & CEO
+investors:
+- round: Seed ($2M, with K5 Global, Flamingo Capital Partners)
+  slug: george-ruan
+  year: 2026
+last_researched: 2026-04-30
+location: New York, NY
+name: Certifyde
+sector:
+- ai
+- enterprise-software
+- productivity
+- workforce
 slug: certifyde
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $2M
 type: startup
 website: null
-location: "New York, NY"
-status_company: active
-sector: [ai, enterprise-software, productivity, workforce]
-stage_latest: "Seed"
-total_raised: "$2M"
-firms: []
-investors: []
-founders:
-  - name: "Skylar Hauswirth"
-    role: "Co-Founder & CEO"
-status: published
-last_researched: 2026-04-30
 ---
 
 ## About
