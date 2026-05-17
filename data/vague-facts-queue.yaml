@@ -72854,8 +72854,9 @@ vague_facts:
   profile: investors/ishani-thakur
   profile_name: Ishani Thakur
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: unknown_value
+  resolution: "Stealth-stage; funding details (amount, date, round) are confidential per founders' own confirmation. Investors confirmed: a16z + Hanabi Capital. Founded 2025, Newark DE."
   value: Unknown
 - column: 5
   company: Life360
@@ -83763,7 +83764,8 @@ vague_facts:
   profile: investors/kara-nortman
   profile_name: Kara Nortman
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Stale queue entry — wrong Endgame. Kara's Endgame is product-led sales (2021 Seed led by Upfront, $5M + $12.25M Series A led by Menlo). Profile already correctly shows 2021 entry with citations [^24][^25]."
   type: unknown_value
   value: Undisclosed
 - column: 5
@@ -87619,7 +87621,8 @@ vague_facts:
   profile: investors/krishna-yeshwant
   profile_name: Krishna Yeshwant
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Stale queue entry — profile already shows '| Freenome | 2017 | Series A | Diagnostics | [^21][^27] |'. Series A was $65M led by Andreessen Horowitz, March 1, 2017 (BusinessWire)."
   type: unknown_value
   value: —
 - column: 3
@@ -137532,9 +137535,10 @@ vague_facts:
   profile: startups/faire
   profile_name: Faire
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolution: "Updated to 2023-09-27 with $12.59B valuation noted. Amount remains officially undisclosed by Shopify/Faire. Added Tech Startups citation [^17]."
 - column: 5
   company: Seed
   line: '| Seed | Jun 2013 | $3.87M | Index Ventures | Terrence Rohan, Jeff Weiner,
