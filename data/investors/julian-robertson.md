@@ -89,9 +89,9 @@ Julian Robertson was not a venture capital investor with a traditional startup p
 | Discovery Capital Management | Rob Citrone | 1999 | Tiger Cub | Active [^10] |
 | Hoplite Capital Management | John Lykouretzos | 2001 | Tiger Cub | Active [^10] |
 | Pantera Capital | Dan Morehead | 2003 | Tiger Cub | Active [^10] |
-| Tiger Shark Management | Thomas Facciola | 2001 | Tiger Seed | Unknown [^8] |
-| Emerging Sovereign Group | J. Kevin Kenny Jr. | 2002 | Tiger Seed | Unknown [^8] |
-| Tiger Consumer Partners | Patrick McCormack | 2001 | Tiger Seed | Unknown [^8] |
+| Tiger Shark Management | Thomas Facciola | 2001 | Tiger Seed | Closed 2015 (returned ~$100M) [^8][^11] |
+| Emerging Sovereign Group | J. Kevin Kenny Jr. | 2002 | Tiger Seed | Wind-down began 2018 ($1.3B returned) [^8][^12] |
+| Tiger Consumer Partners | Patrick McCormack | 2001 | Tiger Seed | Closed March 2015 ($1.4B returned) [^8][^13] |
 | Argonaut Capital Management | David Gerstenhaber | ~2000 | Tiger Cub | Active [^10] |
 | Matrix Capital Management | David Goel | ~2000 | Tiger Cub | Active [^10] |
 | Bridger Management | Roberto Mignone | ~2000 | Tiger Cub | Active [^10] |
@@ -218,3 +218,9 @@ No independently sourced testimonials from startup founders were found, as Rober
 [^9]: Wall Street Prep, "Tiger Cubs | Hedge Funds List + Julian Robertson Legacy," accessed March 2026. https://www.wallstreetprep.com/knowledge/tiger-cubs/
 
 [^10]: Grokipedia, "List of Tiger Cubs (finance)," accessed March 2026. https://grokipedia.com/page/List_of_Tiger_Cubs_(finance)
+
+[^11]: ValueWalk, "TigerShark Management, An Early Tiger Cub, To Close Doors," 2015. Accessed May 2026. https://www.valuewalk.com/tigershark-management/ — Confirms Tiger Shark Management (founded by Thomas Facciola and Michael Sears in 2001) closed and returned approximately $100M to investors by end of February 2015 after 14 years. Cross-referenced with Institutional Investor, "Another Tiger Seed Falls with TigerShark Closure," https://www.institutionalinvestor.com/article/2bsv0avjraxpatjynvchs/premium/another-tiger-seed-falls-with-tigershark-closure.
+
+[^12]: Pensions & Investments, "Emerging Sovereign Group to return $1.3 billion after 17 years in business," September 21, 2018. Accessed May 2026. https://www.pionline.com/article/20180921/ONLINE/180929963/emerging-sovereign-group-to-return-1-3-billion-after-17-years-in-business/ — Confirms ESG (founded 2002 by Kevin Kenny Jr., Mete Tuncel, and Jason Kirschner with Robertson seed) began wind-down returning $1.3B to investors after 17 years.
+
+[^13]: Bloomberg, "Tiger Cub Patrick McCormack to Shut Consumer Hedge Fund Firm," March 5, 2015. Accessed May 2026. https://www.bloomberg.com/news/articles/2026-05-17/tiger-cub-patrick-mccormack-to-shutter-consumer-hedge-fund-firm — Tiger Consumer Management (founded 2000 by Patrick McCormack with Robertson seed) shut down March 2015 returning approximately $1.4B; cross-referenced with CNBC, "McCormack's 'Tiger' hedge fund to shutter," March 5, 2015. https://www.cnbc.com/2015/03/05/mccormacks-tiger-hedge-fund-to-shutter.html.
