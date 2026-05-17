@@ -48555,9 +48555,13 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: NewNew funding round amount/date not publicly disclosed; PitchBook
+    cites $3.8M+ total but no specific announcement date. Per when-in-doubt-leave-it-out,
+    leaving as-is.
 - column: 1
   company: Reface.ai
   line: '| Reface.ai | -- | ~2021 | AI/Consumer | Active | [^1] |'
@@ -48565,9 +48569,12 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Reface seed $5.5M led by a16z (Connie Chan) on 2020-12-08 per TechCrunch
+    announcement.
 - column: 1
   company: Glorify
   line: '| Glorify | -- | ~2022 | Community/Faith | Active | [^4] |'
@@ -48575,9 +48582,12 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Glorify Series A $40M led by Connie Chan at a16z on 2021-12-02
+    per PR Newswire and a16z announcement.
 - column: 3
   company: Kickstarter
   line: '| Kickstarter | 2010 | Seed | [^5] |'
@@ -136303,12 +136313,12 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: Undisclosed
-  resolution_note: 'Date refined to 2022-09-21 (S Ventures launch date with Armorblox
+  resolution_note: Date refined to 2022-09-21 (S Ventures launch date with Armorblox
     named as initial portfolio company). Amount remains undisclosed; per S Ventures
-    fund parameters, individual checks are $1M-$5M, but specific Armorblox check
-    not publicly disclosed across 3 primary sources (SentinelOne blog, SentinelOne
-    press release, TechCrunch coverage). Added [^7] and [^8] primary-source citations.
-    Round type relabeled "Strategic" (no equity round designation given). 2026-05-16.'
+    fund parameters, individual checks are $1M-$5M, but specific Armorblox check not
+    publicly disclosed across 3 primary sources (SentinelOne blog, SentinelOne press
+    release, TechCrunch coverage). Added [^7] and [^8] primary-source citations. Round
+    type relabeled "Strategic" (no equity round designation given). 2026-05-16.
 - column: 5
   company: Seed
   line: '| Seed | Apr 2009 | $1.2M | Angel round | Ron Conway, Peter Thiel, Mitch
@@ -228579,9 +228589,13 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: year_only_date
   value: ~2021
+  resolved: '2026-05-17'
+  resolution_note: NewNew funding round amount/date not publicly disclosed; PitchBook
+    cites $3.8M+ total but no specific announcement date. Per when-in-doubt-leave-it-out,
+    leaving as-is.
 - column: 2
   company: Reface.ai
   line: '| Reface.ai | -- | ~2021 | AI/Consumer | Active | [^1] |'
@@ -228589,9 +228603,12 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2021
+  resolved: '2026-05-17'
+  resolution_note: Reface seed $5.5M led by a16z (Connie Chan) on 2020-12-08 per TechCrunch
+    announcement.
 - column: 2
   company: Glorify
   line: '| Glorify | -- | ~2022 | Community/Faith | Active | [^4] |'
@@ -228599,9 +228616,12 @@ vague_facts:
   profile: investors/connie-chan
   profile_name: Connie Chan
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2022
+  resolved: '2026-05-17'
+  resolution_note: Glorify Series A $40M led by Connie Chan at a16z on 2021-12-02
+    per PR Newswire and a16z announcement.
 - column: 1
   company: Kickstarter
   line: '| Kickstarter | 2010 | Seed | [^5] |'

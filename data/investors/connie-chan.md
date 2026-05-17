@@ -94,8 +94,8 @@ The analysis below is based on 11 verified investments attributed to Chan from a
 | Cider | Series A | ~2021 | Fashion E-commerce | Active | [^10] |
 | Beacons | Seed (led, $6M) | 2021-05-24 | Creator Economy | Active | [^1][^12] |
 | NewNew | -- | ~2021 | Social/Community | Active | [^1] |
-| Reface.ai | -- | ~2021 | AI/Consumer | Active | [^1] |
-| Glorify | -- | ~2022 | Community/Faith | Active | [^4] |
+| Reface.ai | Seed (led, $5.5M) | 2020-12-08 | AI/Consumer | Active | [^1][^13] |
+| Glorify | Series A (led, $40M) | 2021-12-02 | Community/Faith | Active | [^4][^14][^15] |
 
 *This table represents 11 verified investments. Chan's full portfolio at a16z likely includes additional investments where she contributed to sourcing and diligence but was not the named lead. Years marked with ~ are estimates based on available information.*
 
@@ -131,3 +131,6 @@ Ben Horowitz, co-founder of a16z, noted that everyone connected with Chan — "f
 [^10]: Andreessen Horowitz, "Investing in Cider" announcement, accessed March 2026. https://a16z.com/announcement/investing-in-cider/
 [^11]: Connie Chan (@conniechan), X/Twitter post, January 2024. https://x.com/conniechan/status/1749812389414051999
 [^12]: BusinessWire, "Beacons Raises $6M Seed Round Led by Andreessen Horowitz to Help Creators Build and Monetize Their Brand," May 24, 2021. Accessed May 2026. https://www.businesswire.com/news/home/20210524005214/en/Beacons-Raises-$6M-Seed-Round-Led-by-Andreessen-Horowitz-to-Help-Creators-Build-and-Monetize-Their-Brand — Confirms $6M Seed round led by Andreessen Horowitz on May 24, 2021. Founders: Neal Jean (CEO), David Zeng (CTO), Jesse Zhang (CPO), Greg Luppescu (Founding Engineer).
+[^13]: TechCrunch, "Reface grabs $5.5M seed led by A16z to stoke its viral face-swap video app," December 8, 2020. Accessed May 2026. https://techcrunch.com/2020/12/08/reface-grabs-5-5m-seed-led-by-a16z-to-stoke-its-viral-face-swap-video-app/ — Confirms Reface $5.5M seed announced December 8, 2020 led by Andreessen Horowitz with angels including Ilkka Paananen (Supercell CEO), David Helgason (Unity founder), Scooter Braun, Adam Leber, Matt Stone, Trey Parker, Peter Serafinowicz, K5 Global, Natalia Vodianova, Josh Elman, and Sriram Krishnan. Connie Chan quoted on a16z's investment thesis.
+[^14]: PR Newswire, "Glorify Announces $40M In Series A Funding From a16z, Softbank Latin America Fund, Kris Jenner, Michael Bublé, Michael Ovitz, Jason Derulo And More," December 2, 2021. Accessed May 2026. https://www.prnewswire.com/news-releases/glorify-announces-40m-in-series-a-funding-from-a16z-softbank-latin-america-fund-kris-jenner-michael-buble-michael-ovitz-jason-derulo-and-more-301435773.html — Confirms Glorify $40M Series A on December 2, 2021 led by Connie Chan at Andreessen Horowitz with participation from SoftBank Latin America Fund, K5 Global, Kris Jenner, Corey Gamble, Michael Ovitz, Michael Bublé, Jason Derulo, and Candy Crush founders.
+[^15]: Andreessen Horowitz, "Investing in Glorify," December 2, 2021. Accessed May 2026. https://a16z.com/announcement/investing-in-glorify/ — a16z's own announcement of the Glorify Series A investment.
