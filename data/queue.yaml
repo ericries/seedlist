@@ -23581,3 +23581,9 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: jared-heyman
+- name: Ideaspring Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hrdwyr
