@@ -96,7 +96,7 @@ Despite GGV's historical strength in consumer internet and gaming (particularly 
 | Coinbase | Series B | ~2013 | Crypto exchange | Public (COIN) | [^1][^2] |
 | Evolv OnDemand | Growth (led) | ~2012 | HR analytics | Acquired (Cornerstone, 2014) | [^1][^2] |
 | HotelTonight | Series A (led) | ~2011 | Travel marketplace | Acquired (Airbnb, 2019) | [^1][^2] |
-| Tile | Series A | ~2014 | Consumer IoT | Acquired (Life360, COIN:LIF) | [^1][^2] |
+| Tile | Series A (led) | 2014-10-01 | Consumer IoT | Acquired (Life360, COIN:LIF) | [^1][^2][^tc-tile] |
 | Brightwheel | Series A (led) | ~2017 | EdTech/vertical SaaS | Active | [^1][^2][^8] |
 | Gladly | Series B | ~2018 | Customer service SaaS | Active | [^1][^2] |
 | Handshake | Series B | ~2018 | Career marketplace | Active | [^1][^2] |
@@ -142,3 +142,4 @@ No additional independently sourced verbatim founder testimonials with full attr
 [^6]: TechCrunch, "GGV's Jeff Richards: 'There is a level of resiliency in Silicon Valley that we did not have 10 years ago,'" July 2020. https://techcrunch.com/2020/07/03/ggvs-jeff-richards-there-is-a-level-of-resiliency-in-silicon-valley-that-we-did-not-have-10-years-ago/
 [^7]: VCSheet, "Jeff Richards (GGV Capital)," accessed March 2026. https://www.vcsheet.com/who/jeff-richards
 [^8]: LinkedIn, Dave Vasen post thanking Jeff Richards, accessed March 2026. https://www.linkedin.com/posts/davevasen_thank-you-and-credit-to-jeff-richards-the-activity-7237232237354569728-ERn3
+[^tc-tile]: TechCrunch, "Lost-Item Tracker Tile Raises $13 Million To Fund International Expansion, Android Release," October 1, 2014. https://techcrunch.com/2014/10/01/lost-item-tracker-tile-raises-13-million-to-fund-international-expansion-android-release/

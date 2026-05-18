@@ -47650,9 +47650,10 @@ vague_facts:
   profile: investors/chris-hulls
   profile_name: Chris Hulls
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^5][^7]'
+  notes: "TechCrunch 2014-10-01 confirms Tile $13M round with Hulls as seed participant"
 - column: 4
   company: Credible
   line: '| Credible | ~2014 | Angel/Seed | Fintech (Student Loans) | [^7] |'
@@ -72911,9 +72912,10 @@ vague_facts:
   profile: investors/itamar-novick
   profile_name: Itamar Novick
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^1][^4]'
+  notes: "TechCrunch 2014-10-01 confirms Tile $13M round; corrected date from ~2015 to 2014-10-01"
 - column: 5
   company: Siftery
   line: '| Siftery | ~2015 (founded) | Seed | SaaS | Acquired by G2 (2018) | [^1][^12]
@@ -227792,9 +227794,10 @@ vague_facts:
   profile: investors/chris-hulls
   profile_name: Chris Hulls
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2014
+  notes: "Resolved with Tile fact specificity sweep (2014-10-01)"
 - column: 1
   company: Credible
   line: '| Credible | ~2014 | Angel/Seed | Fintech (Student Loans) | [^7] |'
@@ -248863,9 +248866,10 @@ vague_facts:
   profile: investors/itamar-novick
   profile_name: Itamar Novick
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2015
+  notes: "Resolved with Tile fact specificity sweep — corrected to 2014-10-01"
 - column: 1
   company: Zendrive
   line: '| Zendrive | ~2015 | Seed | Data / Mobility | Active | [^1][^4] |'
@@ -252001,9 +252005,10 @@ vague_facts:
   profile: investors/jeff-richards
   profile_name: Jeff Richards
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2014
+  notes: "TechCrunch 2014-10-01 confirms GGV led Tile Series A; date now 2014-10-01"
 - column: 2
   company: Brightwheel
   line: '| Brightwheel | Series A (led) | ~2017 | EdTech/vertical SaaS | Active |

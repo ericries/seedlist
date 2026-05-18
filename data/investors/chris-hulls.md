@@ -92,7 +92,7 @@ Multiple portfolio companies have had significant exits: Ring was acquired by Am
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Ring | ~2013 | Angel/Seed | Consumer Hardware (Smart Doorbell) | [^7] |
-| Tile | ~2014 | Seed | Consumer Hardware (Item Tracker) | [^5][^7] |
+| Tile | 2014-10-01 | Seed | Consumer Hardware (Item Tracker) | [^5][^7][^tc-tile] |
 | Credible | ~2014 | Angel/Seed | Fintech (Student Loans) | [^7] |
 | Automatic | ~2013 | Angel/Seed | Automotive / Connected Car | [^7] |
 | Honk | ~2014 | Angel/Seed | Roadside Assistance | [^7] |
@@ -168,3 +168,4 @@ Clarity.fm user reviews describe him as providing "a great understanding of the 
 [^14]: LinkedIn, testimonial on Chris Hulls' profile from a board member, accessed March 2026. https://www.linkedin.com/in/chrishulls
 [^15]: Sub Club podcast, "Freemium Done Right: Lessons From a Multi-Billion-Dollar App — Chris Hulls, Life360," accessed March 2026. https://subclub.com/episode/freemium-done-right-lessons-from-a-multi-billion-dollar-app-chris-hulls-life360
 [^16]: Point Reyes Light, "Preserving what matters in Point Reyes," accessed March 2026. https://www.ptreyeslight.com/opinion/preserving-what-matters-in-point-reyes/
+[^tc-tile]: TechCrunch, "Lost-Item Tracker Tile Raises $13 Million To Fund International Expansion, Android Release," October 1, 2014. https://techcrunch.com/2014/10/01/lost-item-tracker-tile-raises-13-million-to-fund-international-expansion-android-release/

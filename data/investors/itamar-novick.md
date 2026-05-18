@@ -80,7 +80,7 @@ Despite claiming 100+ investments, only 22 can be publicly verified, making the 
 | Credible | ~2014 | Seed | Fintech | IPO (ASX, 2017) | [^1] |
 | MileIQ | ~2014 | Seed | Fintech / Data | Acquired by Microsoft (2015) | [^1][^4] |
 | Automatic Labs | ~2014 | Seed | Consumer / IoT | Acquired by SiriusXM (2017) | [^1][^11] |
-| Tile | ~2015 | Seed | Consumer / Hardware | Acquired by Life360 (2021) | [^1][^4] |
+| Tile | 2014-10-01 | Seed | Consumer / Hardware | Acquired by Life360 (2021) | [^1][^4][^tc-tile] |
 | Siftery | ~2015 (founded) | Seed | SaaS | Acquired by G2 (2018) | [^1][^12] |
 | Peerspace | ~2014 (founded) | Seed | Marketplace | Active | [^4] |
 | Zendrive | ~2015 | Seed | Data / Mobility | Active | [^1][^4] |
@@ -165,3 +165,4 @@ Despite claiming 100+ investments, only 22 can be publicly verified, making the 
 [^14]: "Vancouver and California-based Datajoy Acquired by Databricks," T-Net News, October 21, 2022. https://www.bctechnology.com/news/2022/10/21/Vancouver-and-California-based-Datajoy-Acquired-by-Databricks.cfm
 
 [^15]: "Here's Who Made Money On Ring's $1B+ Purchase," Crunchbase News, accessed March 2026. https://news.crunchbase.com/startups/heres-made-money-rings-1b-purchase/
+[^tc-tile]: TechCrunch, "Lost-Item Tracker Tile Raises $13 Million To Fund International Expansion, Android Release," October 1, 2014. https://techcrunch.com/2014/10/01/lost-item-tracker-tile-raises-13-million-to-fund-international-expansion-android-release/
