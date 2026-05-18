@@ -1,1 +1,17 @@
-priority: []
+priority:
+- slug: maveron
+  type: firm
+  reason: "led Kin Health $9M seed (2026-05-18)"
+  added: 2026-05-18
+- slug: princeville-capital
+  type: firm
+  reason: "led Sigma Computing $80M Series E at $3B val (2026-05-18) — may need new profile"
+  added: 2026-05-18
+- slug: sequoia-capital
+  type: firm
+  reason: "co-led Dust $40M Series B (2026-05-18)"
+  added: 2026-05-18
+- slug: headline
+  type: firm
+  reason: "led Searchable $14M (2026-05-18) — may need new profile"
+  added: 2026-05-18

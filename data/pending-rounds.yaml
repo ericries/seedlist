@@ -80,7 +80,13 @@ pending_rounds:
   parsed_company: Kin Health
   parsed_amount: $9M
   parsed_round: null
+<<<<<<< Updated upstream
   status: pending
+=======
+  status: processed
+  processed: '2026-05-18'
+  slug: kin-health
+>>>>>>> Stashed changes
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/18/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-18-2026/
   source: alleywatch
@@ -88,7 +94,113 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
+<<<<<<< Updated upstream
   status: pending
+=======
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Palo Alto-based Playground previously raised $410M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Palo Alto-based Playground previously
+  parsed_amount: $410M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Sigma raised $80M Series E
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Sigma
+  parsed_amount: $80M
+  parsed_round: Series E
+  status: processed
+  processed: '2026-05-18'
+  slug: sigma-computing
+- title: Dust raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Dust
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-18'
+  slug: dust
+- title: Searchable raised $14M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Searchable
+  parsed_amount: $14M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-18'
+  slug: searchable
+- title: StitcherAI raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: StitcherAI
+  parsed_amount: $3M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Berto Acquisition II raised $274M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Berto Acquisition II
+  parsed_amount: $274M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Energy Transition Special Opportunities raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Energy Transition Special Opportunities
+  parsed_amount: $150M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Iron Dome Acquisition I raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Iron Dome Acquisition I
+  parsed_amount: $150M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Patriot Acquisition raised $160M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Patriot Acquisition
+  parsed_amount: $160M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: u003e Palo Alto-based Playground previously raised $410M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: u003e Palo Alto-based Playground previously
+  parsed_amount: $410M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+>>>>>>> Stashed changes
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
@@ -976,6 +1088,7 @@ pending_rounds:
   slug: dessn
   notes: covered by dessn.md (€5M / $6M Seed 2026-05-12 led by Connect Ventures with
     Betaworks and N49P)
+<<<<<<< Updated upstream
 - title: Rotterdam’s Ditto raises €7.6 million to make “what did the doctor say?”
     easier to answer
   url: https://www.eu-startups.com/2026/05/rotterdams-ditto-raises-e7-6-million-to-make-what-did-the-doctor-say-easier-to-answer/
@@ -1092,3 +1205,5 @@ pending_rounds:
   status: processed
   processed: '2026-05-11'
   notes: weekly aggregator; created darkhive.md ($30M Series B 2026-05-07 RTX Ventures-led)
+=======
+>>>>>>> Stashed changes

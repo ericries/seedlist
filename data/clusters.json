@@ -9008,7 +9008,9 @@
           "name": "Vani Kola",
           "firm": "kalaari-capital"
         },
-        "brian-omalley"
+        {
+          "slug": "brian-omalley"
+        }
       ]
     },
     {
@@ -9445,11 +9447,21 @@
         {
           "slug": "jared-heyman"
         },
-        "brian-omalley",
-        "zishaan-hayath",
-        "mike-rosengarten",
-        "greg-gottesman",
-        "george-ruan"
+        {
+          "slug": "brian-omalley"
+        },
+        {
+          "slug": "zishaan-hayath"
+        },
+        {
+          "slug": "mike-rosengarten"
+        },
+        {
+          "slug": "greg-gottesman"
+        },
+        {
+          "slug": "george-ruan"
+        }
       ]
     },
     {
@@ -9819,7 +9831,9 @@
           "name": "Jon Callaghan",
           "firm": "true-ventures"
         },
-        "greg-gottesman"
+        {
+          "slug": "greg-gottesman"
+        }
       ]
     },
     {
@@ -10143,7 +10157,9 @@
           "name": "Ghazal Alagh",
           "firm": null
         },
-        "anna-garcia"
+        {
+          "slug": "anna-garcia"
+        }
       ]
     },
     {
@@ -10513,7 +10529,9 @@
           "name": "Rich Barton",
           "firm": "benchmark"
         },
-        "greg-gottesman"
+        {
+          "slug": "greg-gottesman"
+        }
       ]
     },
     {
@@ -11354,7 +11372,9 @@
           "name": "Jared Polis",
           "firm": "independent"
         },
-        "mike-rosengarten"
+        {
+          "slug": "mike-rosengarten"
+        }
       ]
     },
     {
@@ -11446,7 +11466,9 @@
         {
           "slug": "sebastian-mejia"
         },
-        "zishaan-hayath"
+        {
+          "slug": "zishaan-hayath"
+        }
       ]
     },
     {
@@ -11854,7 +11876,9 @@
           "name": "Ashneer Grover",
           "firm": "third-unicorn"
         },
-        "zishaan-hayath"
+        {
+          "slug": "zishaan-hayath"
+        }
       ],
       "id": "curated-48"
     },
@@ -11929,7 +11953,9 @@
           "name": "Ghazal Alagh",
           "firm": null
         },
-        "zishaan-hayath"
+        {
+          "slug": "zishaan-hayath"
+        }
       ],
       "id": "curated-49"
     },
