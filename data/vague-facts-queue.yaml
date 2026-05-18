@@ -28880,9 +28880,11 @@ vague_facts:
   profile: investors/adam-rothenberg
   profile_name: Adam Rothenberg
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^10]'
+  resolution_note: 'Coast March 21, 2024 $25M equity round (part of $92M total with debt); BoxGroup confirmed as participating existing investor per official press release (prnewswire.com). Round was not officially labeled but was an extension/venture round between Series A and Series B.'
+  resolved: 2026-05-18
 - column: 4
   company: Kustomer
   line: '| Kustomer | 2018 | Series B | Enterprise | [^5] |'
@@ -30758,9 +30760,11 @@ vague_facts:
   profile: investors/alex-felix
   profile_name: Alex Felix
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^2]'
+  resolution_note: 'Prime Intellect April 23, 2024 $5.5M Seed round co-led by Distributed Global and CoinFund per official press release (prnewswire.com).'
+  resolved: 2026-05-18
 - column: 4
   company: Gunzilla Games
   line: '| Gunzilla Games | 2024 | Private | Gaming | [^18] |'
@@ -151424,9 +151428,11 @@ vague_facts:
   profile: investors/adam-rothenberg
   profile_name: Adam Rothenberg
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: 'Resolved to 2024-03-21 via Coast official press release.'
+  resolved: 2026-05-18
 - column: 1
   company: Gen Phoenix
   line: '| Gen Phoenix | 2023 | Growth (led) | [^17] |'
@@ -151704,9 +151710,11 @@ vague_facts:
   profile: investors/alex-felix
   profile_name: Alex Felix
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution_note: 'Resolved to 2024-04-23 via Prime Intellect official press release.'
+  resolved: 2026-05-18
 - column: 1
   company: Gunzilla Games
   line: '| Gunzilla Games | 2024 | Private | Gaming | [^18] |'
