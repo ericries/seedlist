@@ -78,7 +78,7 @@ Based on 10 verified investments and advisory roles below, Dudum's portfolio rev
 | TalkIQ | Seed | ~2016 | Enterprise/AI | Acquired (Dialpad) | [^4] |
 | Terminal | Seed | ~2017 | HR Tech/Remote Work | Active | [^4] |
 | Summer Health | Seed | 2022 | Healthcare/Pediatrics | Active | [^6] |
-| Dutch | Seed | 2021 | Healthcare/Pet Telehealth | Active | [^6][^7][^8] |
+| Dutch | Seed ($5M) | 2021-07-01 | Healthcare/Pet Telehealth | Active | [^6][^7][^8] |
 | Front of the Pack | Series A | 2021 | Healthcare/Pet Wellness | Active | [^6][^9][^10] |
 | Cherubic Ventures | Advisor | ~2018 | Venture Capital | Active | [^4] |
 | Stable Auto | Advisor | ~2019 | Automotive/EV Charging | Active | [^4] |

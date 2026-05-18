@@ -59,9 +59,10 @@ vague_facts:
   profile: firms/10100
   profile_name: '10100'
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^14]'
+  resolution: "Upgraded to Venture Round ($20M), 2020-02-09. Added Crunchbase source. Verified via PYMNTS and search confirming $20M from Kalanick, Steiner, Mateen, Turakhia."
 - column: 5
   company: FoodStars
   line: '| FoodStars | Acquisition (via CloudKitchens) | 2018 | Ghost kitchens (UK)
@@ -34269,6 +34270,7 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: Unknown
+  resolution: "Upgraded date to 2021-07-01, stage to Seed ($5M). Verified via TechCrunch and PYMNTS (Forerunner-led $5M seed, July 2021 launch)."
 - column: 1
   company: Front of the Pack
   line: '| Front of the Pack | Unknown | ~2021 | Healthcare/Pet Wellness | Active
