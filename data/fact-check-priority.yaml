@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: qic-ventures
+  type: firm
+  reason: "led Arkeus $18M Series A (2026-05-15) — may need new profile"
+  added: 2026-05-17
+- slug: chailease
+  type: firm
+  reason: "led Exponent $7.5M Series A (2026-05-14) — may need new profile"
+  added: 2026-05-17
