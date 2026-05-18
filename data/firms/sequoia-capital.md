@@ -231,6 +231,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Astrocade | Series B (led) | 2026-05-05 | AI / Gaming / Consumer | Private [^59][^60] |
 | Turnkey | Strategic ($12.5M, participated; co-led by Archetype and Circle Ventures) | 2026-05-14 | Crypto / Wallet Infrastructure | Private [^69][^70] |
 | Ricursive Intelligence | Seed (participated); Series A (participated) | 2025-12 / 2026-01-26 | AI / Semiconductor Design | Private [^66][^67][^68] |
+| Dust | Series B (co-led with Abstract, $40M) | 2026-05-18 | AI / Enterprise / Agentic | Private [^71][^72] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -436,3 +437,7 @@ The following table includes Sequoia Capital investments verified through the fi
 [^69]: CoinDesk, "Turnkey raises $12.5 million in round backed by Circle Ventures and Sequoia Capital," May 6, 2026. Accessed May 2026. https://www.coindesk.com/business/2026/05/06/turnkey-raises-usd12-5-million-in-round-backed-by-circle-ventures-and-sequoia-capital — Confirms Sequoia Capital participated in Turnkey's $12.5M strategic round announced May 14, 2026, co-led by Archetype and Circle Ventures.
 
 [^70]: Crypto Briefing, "Turnkey raises $12.5M to expand verifiable cloud infrastructure for crypto wallets," May 2026. Accessed May 2026. https://cryptobriefing.com/turnkey-verifiable-cloud-infrastructure-crypto-wallets/ — Cross-references Sequoia Capital alongside Bain Capital Crypto, Lightspeed Faction, Galaxy Ventures, and Variant as participants.
+
+[^71]: Tech.eu, "Dust raises $40M Series B to build the 'multiplayer' operating system for enterprise AI," May 18, 2026. Accessed May 2026. https://tech.eu/2026/05/18/dust-raises-40m-series-b-to-build-the-multiplayer-operating-system-for-enterprise-ai/ — Confirms Sequoia Capital co-led Dust's $40M Series B with Abstract on May 18, 2026; Snowflake Ventures and Datadog participated.
+
+[^72]: Tech Funding News, "Sequoia backs Paris AI startup Dust with $40M to fix the enterprise AI productivity gap," May 18, 2026. Accessed May 2026. https://techfundingnews.com/dust-40m-series-b-collaborai-ai-enterprise-workspaces-sequoia/ — Cross-references Sequoia + Abstract co-leading Paris-based Dust's $40M Series B; 3,000+ organizations with 300,000+ AI agents deployed.

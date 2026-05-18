@@ -24212,3 +24212,15 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: brian-omalley
+- name: Princeville Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sigma-computing
+- name: Headline
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: searchable

@@ -80,13 +80,9 @@ pending_rounds:
   parsed_company: Kin Health
   parsed_amount: $9M
   parsed_round: null
-<<<<<<< Updated upstream
-  status: pending
-=======
   status: processed
   processed: '2026-05-18'
   slug: kin-health
->>>>>>> Stashed changes
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/18/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-18-2026/
   source: alleywatch
@@ -94,9 +90,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-<<<<<<< Updated upstream
-  status: pending
-=======
   status: skipped
   processed: '2026-05-18'
   notes: SPAC or aggregator or parse error
@@ -200,7 +193,6 @@ pending_rounds:
   status: skipped
   processed: '2026-05-18'
   notes: SPAC or aggregator or parse error
->>>>>>> Stashed changes
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
@@ -1088,7 +1080,6 @@ pending_rounds:
   slug: dessn
   notes: covered by dessn.md (€5M / $6M Seed 2026-05-12 led by Connect Ventures with
     Betaworks and N49P)
-<<<<<<< Updated upstream
 - title: Rotterdam’s Ditto raises €7.6 million to make “what did the doctor say?”
     easier to answer
   url: https://www.eu-startups.com/2026/05/rotterdams-ditto-raises-e7-6-million-to-make-what-did-the-doctor-say-easier-to-answer/
@@ -1205,5 +1196,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-11'
   notes: weekly aggregator; created darkhive.md ($30M Series B 2026-05-07 RTX Ventures-led)
-=======
->>>>>>> Stashed changes

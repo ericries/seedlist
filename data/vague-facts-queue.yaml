@@ -28883,7 +28883,10 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^10]'
-  resolution_note: 'Coast March 21, 2024 $25M equity round (part of $92M total with debt); BoxGroup confirmed as participating existing investor per official press release (prnewswire.com). Round was not officially labeled but was an extension/venture round between Series A and Series B.'
+  resolution_note: Coast March 21, 2024 $25M equity round (part of $92M total with
+    debt); BoxGroup confirmed as participating existing investor per official press
+    release (prnewswire.com). Round was not officially labeled but was an extension/venture
+    round between Series A and Series B.
   resolved: 2026-05-18
 - column: 4
   company: Kustomer
@@ -30763,7 +30766,8 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^2]'
-  resolution_note: 'Prime Intellect April 23, 2024 $5.5M Seed round co-led by Distributed Global and CoinFund per official press release (prnewswire.com).'
+  resolution_note: Prime Intellect April 23, 2024 $5.5M Seed round co-led by Distributed
+    Global and CoinFund per official press release (prnewswire.com).
   resolved: 2026-05-18
 - column: 4
   company: Gunzilla Games
@@ -110648,7 +110652,9 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: Unknown
-  note: 'RealSelf raised ~$2M from angel investors including Rich Barton in 2008. Second Avenue Partners involvement via Mike Slade board seat. Sources: Wikipedia, EnvZone interview with Tom Seery.'
+  note: 'RealSelf raised ~$2M from angel investors including Rich Barton in 2008.
+    Second Avenue Partners involvement via Mike Slade board seat. Sources: Wikipedia,
+    EnvZone interview with Tom Seery.'
 - column: 4
   company: TeamOn.com
   line: '| TeamOn.com | Early stage | ~2000 | Web applications | [^22] |'
@@ -136805,9 +136811,13 @@ vague_facts:
   profile: startups/cloudflare
   profile_name: Cloudflare
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-18'
+  resolution_note: 'Cloudflare Sep 2019 IPO row: amount and lead correctly marked
+    "—" because IPOs do not have a traditional VC lead investor or pre-defined raise
+    amount in this table format. Cloudflare listed on NYSE: NET in September 2019.'
 - column: 2
   company: Seed
   line: '| Seed | Jul 2014 | Undisclosed | — | — |'
@@ -137241,9 +137251,13 @@ vague_facts:
   profile: startups/digg
   profile_name: Digg
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-18'
+  resolution_note: 'Digg Dec 2006 Series B $8.5M: round was follow-on from existing
+    investors Greylock Partners and Omidyar Network — no new named lead per CBC/VentureBeat.
+    "—" lead column is accurate.'
 - column: 5
   company: Series A
   line: '| Series A | Nov 2013 | $8.2M | Benchmark | Accel, IDG Capital, General Catalyst,
@@ -151432,7 +151446,7 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: '2024'
-  resolution_note: 'Resolved to 2024-03-21 via Coast official press release.'
+  resolution_note: Resolved to 2024-03-21 via Coast official press release.
   resolved: 2026-05-18
 - column: 1
   company: Gen Phoenix
@@ -151714,7 +151728,7 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: '2024'
-  resolution_note: 'Resolved to 2024-04-23 via Prime Intellect official press release.'
+  resolution_note: Resolved to 2024-04-23 via Prime Intellect official press release.
   resolved: 2026-05-18
 - column: 1
   company: Gunzilla Games
