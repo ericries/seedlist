@@ -8931,7 +8931,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9007,7 +9007,8 @@
           "slug": "vani-kola",
           "name": "Vani Kola",
           "firm": "kalaari-capital"
-        }
+        },
+        "brian-omalley"
       ]
     },
     {
@@ -9222,7 +9223,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 45,
+      "size": 50,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9443,7 +9444,12 @@
         },
         {
           "slug": "jared-heyman"
-        }
+        },
+        "brian-omalley",
+        "zishaan-hayath",
+        "mike-rosengarten",
+        "greg-gottesman",
+        "george-ruan"
       ]
     },
     {
@@ -9692,7 +9698,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 24,
+      "size": 25,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9812,7 +9818,8 @@
           "slug": "jon-callaghan",
           "name": "Jon Callaghan",
           "firm": "true-ventures"
-        }
+        },
+        "greg-gottesman"
       ]
     },
     {
@@ -9889,7 +9896,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 49,
+      "size": 50,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10135,7 +10142,8 @@
           "slug": "ghazal-alagh",
           "name": "Ghazal Alagh",
           "firm": null
-        }
+        },
+        "anna-garcia"
       ]
     },
     {
@@ -10473,7 +10481,7 @@
       "name": "The Pacific Northwest",
       "tagline": "Seattle, Portland, Vancouver \u2014 the other coast of West Coast tech. Amazon, Microsoft, and a growing startup ecosystem that doesn't need Sand Hill Road.",
       "type": "curated",
-      "size": 6,
+      "size": 7,
       "members": [
         {
           "slug": "boris-wertz",
@@ -10504,7 +10512,8 @@
           "slug": "rich-barton",
           "name": "Rich Barton",
           "firm": "benchmark"
-        }
+        },
+        "greg-gottesman"
       ]
     },
     {
@@ -11298,7 +11307,7 @@
       "name": "The Beltway Disruptors",
       "tagline": "DC-based investors who bet that the most regulated industries are the most ripe for disruption \u2014 defense, healthcare, govtech, and national security.",
       "type": "curated",
-      "size": 9,
+      "size": 10,
       "members": [
         {
           "slug": "grant-verstandig",
@@ -11344,7 +11353,8 @@
           "slug": "jared-polis",
           "name": "Jared Polis",
           "firm": "independent"
-        }
+        },
+        "mike-rosengarten"
       ]
     },
     {
@@ -11352,7 +11362,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 17,
+      "size": 18,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11435,7 +11445,8 @@
         },
         {
           "slug": "sebastian-mejia"
-        }
+        },
+        "zishaan-hayath"
       ]
     },
     {
@@ -11781,7 +11792,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11842,7 +11853,8 @@
           "slug": "ashneer-grover",
           "name": "Ashneer Grover",
           "firm": "third-unicorn"
-        }
+        },
+        "zishaan-hayath"
       ],
       "id": "curated-48"
     },
@@ -11850,7 +11862,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 13,
+      "size": 14,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -11916,7 +11928,8 @@
           "slug": "ghazal-alagh",
           "name": "Ghazal Alagh",
           "firm": null
-        }
+        },
+        "zishaan-hayath"
       ],
       "id": "curated-49"
     },
