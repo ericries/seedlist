@@ -97793,9 +97793,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: MocoSpace remains active mobile social platform (founded 2005);
+    acquired Geocade. Per Wikipedia + GameDeveloper.
 - column: 5
   company: Heroku
   line: '| Heroku | 2010 | Series A | Developer Tools | Acquired by Salesforce ($212M,
@@ -109155,9 +109158,12 @@ vague_facts:
   profile: investors/paul-copplestone
   profile_name: Paul Copplestone
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Mooncake acquired by Databricks 2025-09-30. Per PitchBook + Tracxn
+    portfolio.
 - column: 5
   company: ClassDojo
   line: '| ClassDojo | Seed | 2012 | EdTech | Active (unicorn) | [^10] |'
@@ -126586,9 +126592,14 @@ vague_facts:
   profile: investors/stewart-butterfield
   profile_name: Stewart Butterfield
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Sprig's most recent disclosed round was Aug 2022 ($30M, a16z+Accel+First
+    Round+Elad Gil+Figma Ventures). Stewart Butterfield is not named as a participant
+    in primary press for any specific 2023 round; unable to verify the angel investment
+    date/round per when-in-doubt-leave-it-out.
 - column: 4
   company: Panobi
   line: '| Panobi | 2023 | Seed | Growth analytics | [^14] |'
@@ -138865,8 +138876,8 @@ vague_facts:
   type: unknown_value
   value: Undisclosed
   note: Date pinned to 2021-08-17 (PYMNTS, plaid.com blog). Amount remains officially
-    undisclosed per multiple sources (PYMNTS, Plaid blog, American Banker, Bloomberg) —
-    valuation unchanged at $13.4B. Added PYMNTS citation. Resolved 2026-05-17.
+    undisclosed per multiple sources (PYMNTS, Plaid blog, American Banker, Bloomberg)
+    — valuation unchanged at $13.4B. Added PYMNTS citation. Resolved 2026-05-17.
 - column: 4
   company: Jul 2025
   line: '| Jul 2025 | Series E-2 | $500M | ICONIQ Growth | — [^10] |'
@@ -168680,9 +168691,12 @@ vague_facts:
   profile: investors/paul-copplestone
   profile_name: Paul Copplestone
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2025
+  resolved: '2026-05-17'
+  resolution_note: Mooncake acquired by Databricks 2025-09-30. Per PitchBook + Tracxn
+    portfolio.
 - column: 2
   company: Wordware
   line: '| Wordware | Seed | 2024 | AI/Developer Tools | Active | [^13] |'
@@ -172259,9 +172273,14 @@ vague_facts:
   profile: investors/stewart-butterfield
   profile_name: Stewart Butterfield
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: year_only_date
   value: '2023'
+  resolved: '2026-05-17'
+  resolution_note: Sprig's most recent disclosed round was Aug 2022 ($30M, a16z+Accel+First
+    Round+Elad Gil+Figma Ventures). Stewart Butterfield is not named as a participant
+    in primary press for any specific 2023 round; unable to verify the angel investment
+    date/round per when-in-doubt-leave-it-out.
 - column: 1
   company: Panobi
   line: '| Panobi | 2023 | Seed | Growth analytics | [^14] |'
@@ -269935,9 +269954,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2008
+  resolved: '2026-05-17'
+  resolution_note: MocoSpace remains active mobile social platform (founded 2005);
+    acquired Geocade. Per Wikipedia + GameDeveloper.
 - column: 1
   company: Heroku
   line: '| Heroku | 2010 | Series A | Developer Tools | Acquired by Salesforce ($212M,

@@ -91,7 +91,7 @@ Based on 26 verified investments (out of approximately 50 total), the following 
 ~unknown| tldraw | -- | -- | [^22] |
 ~unknown| Cap.so | -- | -- | [^1] |
 ~unknown| Charm | -- | -- | [^1] |
-| Mooncake (exit) | ~2025 | -- | [^2] |
+| Mooncake | 2025-09-30 | Acquired by Databricks | [^2][^24] |
 ~unknown| PeerDB (exit) | -- | -- | [^2] |
 
 This table represents approximately 54% of the ~50 claimed investments. For 14 of 27 entries, exact investment year and round could not be independently verified; these are listed with "--" and sourced from aggregator profiles.
@@ -141,3 +141,5 @@ No independently sourced founder testimonials found about Paul Copplestone's rol
 [^21]: Cal.com blog, "Cal.com raises $7.4m Seed," September 2022. https://cal.com/blog/seed
 [^22]: Premier Alternatives, "Paul Copplestone - ANGEL Profile, Portfolio & Investments," accessed March 2026. https://www.premieralts.com/investors/paul-copplestone
 [^23]: Accel podcast, "Supabase's Paul Copplestone on the difference between 'playing startup' and strategy," accessed March 2026. https://www.accel.com/podcast-episodes/supabases-paul-copplestone-on-the-difference-between-playing-startup-and-strategy
+
+[^24]: PitchBook, "Mooncake — 2026 Company Profile: Valuation, Investors, Acquisition," accessed May 2026. https://pitchbook.com/profiles/company/688600-27 — Confirms Mooncake was acquired by Databricks on September 30, 2025; Paul Copplestone listed as angel investor per Tracxn portfolio [^22].

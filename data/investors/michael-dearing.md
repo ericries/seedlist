@@ -88,7 +88,7 @@ Based on 30 verified investments below, Harrison Metal's actual portfolio reveal
 | Polyvore | ~2008 | Seed | Fashion / Consumer | Acquired by Yahoo | [^3] |
 | Doostang | ~2008 | Seed | Recruiting | Acquired by Universum (2011-07-12) | [^3][^31] |
 | BloomSpot | ~2009 | Seed | Local Commerce | Acquired by JPMorgan Chase (2012-12-20); promotional business wound down by 2013-08 | [^3][^32][^33] |
-| MocoSpace | ~2008 | Early | Mobile Social | -- | [^3] |
+| MocoSpace | ~2008 | Early | Mobile Social | Active (acquired Geocade) | [^3][^34] |
 | Heroku | 2010 | Series A | Developer Tools | Acquired by Salesforce ($212M, 2010) | [^16] |
 | MoPub | 2010 | Seed | Mobile Advertising | Acquired by Twitter ($350M, 2013) | [^14] |
 | PagerDuty | ~2010 | Seed | DevOps / Incident Mgmt | IPO (NYSE, 2019) | [^5][^17] |
@@ -193,3 +193,5 @@ This table represents approximately 30 of 107 known investments (~28%). The anal
 [^32]: TechCrunch, "Chase Acquires Local Offers Startup Bloomspot," December 20, 2012. Accessed May 2026. https://techcrunch.com/2012/12/20/chase-acquires-local-offers-startup-bloomspot/ — Confirms JPMorgan Chase acquired BloomSpot in December 2012 to power Chase's offers-focused products.
 
 [^33]: AllThingsD, "One Less Groupon Clone. J.P. Morgan Chase Acquires Bloomspot," December 20, 2012. Accessed May 2026. https://allthingsd.com/20121220/one-less-groupon-clone-j-p-morgan-chase-acquires-bloomspot/ — Independent contemporaneous confirmation of JPMorgan Chase acquisition; BloomSpot wound down standalone email/app product by August 2013 after integration into Chase's offers business.
+
+[^34]: Wikipedia, "MocoSpace," accessed May 2026. https://en.wikipedia.org/wiki/MocoSpace — Confirms MocoSpace (founded 2005 by Jamie Hall and Justin Siegel) remains an active mobile-first social networking platform; the company acquired location-based games platform Geocade (per Game Developer, https://www.gamedeveloper.com/business/mocospace-acquires-location-based-games-platform-geocade).
