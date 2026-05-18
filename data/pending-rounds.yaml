@@ -73,6 +73,14 @@ pending_rounds:
   skip_reason: retail crowdfunding campaign launch (€45k crowdfunding target plus
     separate €300k mixed funding for sustainable seagrass textile pre-commercial pilot),
     not a VC equity round per Round Feed spec
+- title: Kin Health raises $9M to build an AI notetaker for patients
+  url: https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/
+  source: techcrunch
+  date_found: '2026-05-18'
+  parsed_company: Kin Health
+  parsed_amount: $9M
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
@@ -1089,14 +1097,3 @@ pending_rounds:
   slug: fifth-dimension-ai
   notes: created fifth-dimension-ai.md (€22M / $26M Series A 2026-05-11 led by HV
     Capital with Prudence, Mercia, MMC, AFG, Speedinvest, Seedcamp, Anthemis)
-- title: Quantum software startup Algorithmiq raises €18 million and moves global
-    HQ from Helsinki to Milan
-  url: https://www.eu-startups.com/2026/05/quantum-software-startup-algorithmiq-raises-e18-million-and-moves-global-hq-from-helsinki-to-milan/
-  source: eu-startups
-  date_found: '2026-05-11'
-  parsed_company: Quantum software startup Algorithmiq
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-11'
-  slug: algorithmiq
