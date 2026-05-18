@@ -45,6 +45,24 @@ pending_rounds:
   status: processed
   processed: '2026-05-18'
   slug: alcolase
+- title: Milan-based Cosmico raises €12 million, acquires Flatmates to expand Future
+    of Work platform
+  url: https://www.eu-startups.com/2026/05/milan-based-cosmico-raises-e12-million-acquires-flatmates-to-expand-future-of-work-platform/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Milan-based Cosmico
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Malmö-based Salt & Fiber secures €300k to turn seagrass into sustainable
+    textile yarns; launches crowdfunding campaign
+  url: https://www.eu-startups.com/2026/05/malmo-based-salt-launches-crowdfunding-campaign/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Malmö-based Salt & Fiber
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
@@ -1072,28 +1090,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-11'
   slug: algorithmiq
-- title: Nscale extends funding momentum with €670 million for Norway AI infrastructure
-    project
-  url: https://www.eu-startups.com/2026/05/nscale-extends-funding-momentum-with-e670-million-for-norway-ai-infrastructure-project/
-  source: eu-startups
-  date_found: '2026-05-11'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: not a venture equity round — $790M (~€670M) project debt financing
-    for Narvik AI data center (uncommitted accordion) committed by ABN AMRO, DNB,
-    Eksfin, Nordea, SEB; Nscale's $2B Series C was March 2026, separate from this
-    facility
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/11/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-11-2026/
-  source: alleywatch
-  date_found: '2026-05-11'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-11'
-  notes: daily NYC aggregator; created econcrete.md ($14M 2026-05-11 Builders Vision-led);
-    Sandstone $39.6M SEC filing only — no primary press, skipped per "when in doubt,
-    leave it out"
