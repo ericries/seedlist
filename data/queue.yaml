@@ -24027,3 +24027,81 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: exponent-franchise
+- name: Ada Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alcolase
+- name: Motive Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lawx
+  source: led €7.5M LawX Seed (2026-05-18)
+- name: WENVEST Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lawx
+  source: co-investor in LawX Seed (2026-05-18)
+- name: xdeck
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lawx
+  source: co-investor in LawX Seed (2026-05-18)
+- name: SIVentures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lawx
+  source: co-investor in LawX Seed (2026-05-18)
+- name: Christoph Cordes
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Flink
+  discovered_from: lawx
+  source: angel in LawX Seed (2026-05-18); Flink co-founder
+- name: Ralph Müller
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lawx
+  source: angel in LawX Seed (2026-05-18); former Deutsche Bank board member
+- name: Manigoff Invest
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alcolase
+  source: co-investor in Alcolase Seed (2026-05-18)
+- name: VERBUND
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greenpixie
+  source: led Greenpixie £4.7M growth round (2026-05-18); corporate VC arm of Austrian
+    hydropower utility
+- name: Octopus Energy
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greenpixie
+  source: co-investor in Greenpixie £4.7M growth round (2026-05-18)
+- name: Ascension
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: greenpixie
+  source: led Greenpixie £250K Pre-Seed (2022-07-11)

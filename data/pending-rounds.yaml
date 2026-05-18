@@ -26,12 +26,14 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-05-18'
   parsed_company: Berlin-based LawX
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
+  parsed_amount: €7.5M
+  parsed_round: Seed
+  status: processed
   processed: '2026-05-18'
-  notes: eu-startups 403 paywall; round details (date, lead, full roster) not findable
-    via secondary press — when in doubt, leave it out
+  slug: lawx
+  notes: created lawx.md; €7.5M Seed led by Motive Partners with WENVEST Capital,
+    xdeck, SIVentures and angels (Christoph Cordes, Ralph Müller); founders Norman
+    Koschmieder, Torben Rabe, Sara Brinkmann (per Tech Funding News May 18 coverage)
 - title: Copenhagen’s Alcolase secures €1.5 million to develop enzyme-based remedy
     for alcohol flush
   url: https://www.eu-startups.com/2026/05/copenhagens-alcolase-secures-e1-5-million-to-develop-enzyme-based-remedy-for-alcohol-flush/

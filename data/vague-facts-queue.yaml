@@ -47653,7 +47653,7 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^5][^7]'
-  notes: "TechCrunch 2014-10-01 confirms Tile $13M round with Hulls as seed participant"
+  notes: TechCrunch 2014-10-01 confirms Tile $13M round with Hulls as seed participant
 - column: 4
   company: Credible
   line: '| Credible | ~2014 | Angel/Seed | Fintech (Student Loans) | [^7] |'
@@ -72915,7 +72915,8 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^1][^4]'
-  notes: "TechCrunch 2014-10-01 confirms Tile $13M round; corrected date from ~2015 to 2014-10-01"
+  notes: TechCrunch 2014-10-01 confirms Tile $13M round; corrected date from ~2015
+    to 2014-10-01
 - column: 5
   company: Siftery
   line: '| Siftery | ~2015 (founded) | Seed | SaaS | Acquired by G2 (2018) | [^1][^12]
@@ -136225,9 +136226,13 @@ vague_facts:
   profile: startups/anduril-industries
   profile_name: Anduril Industries
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: — [^1]
+  resolved: '2026-05-18'
+  resolution_note: Anduril Aug 2017 Seed $17.5M led by Founders Fund (Brian Singerman)
+    per Clay/Grokipedia + TechCrunch; co-investors not disclosed in primary press.
+    Confirmed - private syndicate.
 - column: 4
   company: Jul 2020
   line: '| Jul 2020 | Series C | $200M | Andreessen Horowitz | — [^4] |'
@@ -138264,9 +138269,13 @@ vague_facts:
   profile: startups/ngmoco
   profile_name: ngmoco
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolved: '2026-05-18'
+  resolution_note: ngmoco Jul 2008 Series A amount confirmed Undisclosed per TechCrunch
+    and VentureBeat original announcements; Kleiner Perkins iFund led with Maples
+    Investments and Bing Gordon angel. Primary-source confirmation; cannot fill amount.
 - column: 4
   company: Oct 2010
   line: '| Oct 2010 | Acquisition | $400M (up to) | DeNA | — [^2] |'
@@ -140039,9 +140048,12 @@ vague_facts:
   profile: startups/twitch
   profile_name: Twitch
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  resolved: '2026-05-18'
+  resolution_note: 'Twitch (Justin.tv) W07 batch: $20K YC + $250K total first seed
+    at $3M pre-money valuation per Justin Kan blog + Wikipedia. Updated profile.'
 - column: 4
   company: Series A
   line: '| Series A | 2012 | $15M | Bessemer Venture Partners | — [^12][^13] |'
@@ -227797,7 +227809,7 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: ~2014
-  notes: "Resolved with Tile fact specificity sweep (2014-10-01)"
+  notes: Resolved with Tile fact specificity sweep (2014-10-01)
 - column: 1
   company: Credible
   line: '| Credible | ~2014 | Angel/Seed | Fintech (Student Loans) | [^7] |'
@@ -248869,7 +248881,7 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: ~2015
-  notes: "Resolved with Tile fact specificity sweep — corrected to 2014-10-01"
+  notes: Resolved with Tile fact specificity sweep — corrected to 2014-10-01
 - column: 1
   company: Zendrive
   line: '| Zendrive | ~2015 | Seed | Data / Mobility | Active | [^1][^4] |'
@@ -252008,7 +252020,7 @@ vague_facts:
   status: resolved
   type: year_only_date
   value: ~2014
-  notes: "TechCrunch 2014-10-01 confirms GGV led Tile Series A; date now 2014-10-01"
+  notes: TechCrunch 2014-10-01 confirms GGV led Tile Series A; date now 2014-10-01
 - column: 2
   company: Brightwheel
   line: '| Brightwheel | Series A (led) | ~2017 | EdTech/vertical SaaS | Active |
