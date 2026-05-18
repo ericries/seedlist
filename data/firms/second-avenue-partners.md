@@ -82,11 +82,11 @@ Based on 22 verified portfolio investments, the following patterns emerge. Note:
 | Qliance | Seed | ~2007 | Healthcare / Direct Primary Care | Shut down [^19] |
 | Seeq | Series A (Lead) | 2013 | Industrial Analytics Software | Active; raised through Series D ($130M+ total) [^20][^21] |
 | Pike13 | Seed (Lead) | ~2012 | SaaS / Business Management | Active [^22] |
-| WISErg | Series B (Lead) | 2015 | AgTech / Composting | Acquired by Plant Response (2021) [^23] |
+| WISErg | Series B (Lead, $11M) | 2015-03-24 | AgTech / Composting | Acquired by Plant Response (2021) [^23][^31] |
 | Flexe | Seed | 2015 | Logistics / Warehousing | Active; unicorn ($1B+ valuation, 2022) [^24][^25] |
 | Modumetal | Early Stage | ~2010 | Advanced Materials / Manufacturing | Active [^4][^7] |
 | IUNU | Seed | 2017 | AgTech / Indoor Farming | Active [^26] |
-| RealSelf | Early Stage | ~2010 | Consumer Health / Marketplace | Active [^4][^9] |
+| RealSelf | Angel | 2008 | Consumer Health / Marketplace | Active [^4][^9][^32] |
 | Knock | Early Stage | ~2015 | PropTech / CRM | Acquired by RealPage (2022) [^27] |
 | Uplevel | Seed | ~2020 | Engineering Intelligence Software | Active [^28] |
 | FitOn | Series B | 2021 | Consumer Fitness App | Active [^29] |
@@ -147,3 +147,5 @@ No independently sourced founder testimonials found. The firm's website and pres
 [^28]: GeekWire, "Madrona Venture Labs spinout Uplevel raises $7.5M to measure engineering teams' productivity," January 2020. https://www.geekwire.com/2020/madrona-venture-labs-spinout-uplevel-raises-7-5m-measure-engineering-teams-productivity/
 [^29]: TechCrunch, "FitOn pumps up its fitness platform with $18M in Delta-v Capital-led funding," October 2021. https://techcrunch.com/2021/10/12/fiton-pumps-up-its-fitness-platform-with-18m-in-delta-v-capital-led-funding/
 [^30]: Singju Post, "Beware, Fellow Plutocrats, The Pitchforks Are Coming by Nick Hanauer (Transcript)," TED Talk, 2014. https://singjupost.com/beware-fellow-plutocrats-the-pitchforks-are-coming-by-nick-hanauer-transcript/
+[^31]: Yahoo Finance / BusinessWire, "WISErg Announces $11 Million Series B Funding," March 24, 2015. https://finance.yahoo.com/news/wiserg-announces-11-million-series-140000278.html
+[^32]: Wikipedia, "RealSelf," accessed May 2026. https://en.wikipedia.org/wiki/RealSelf

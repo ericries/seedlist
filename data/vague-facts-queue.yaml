@@ -110639,15 +110639,16 @@ vague_facts:
   type: unknown_value
   value: '[^3]'
 - column: 3
-  company: ~unknown
-  line: ~unknown| RealSelf | Early stage | Unknown | Consumer health | [^7] |
+  company: RealSelf
+  line: '| RealSelf | Angel | 2008 | Consumer health | [^7][^23][^24] |'
   priority: high
   profile: investors/pete-higgins
   profile_name: Pete Higgins
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  note: 'RealSelf raised ~$2M from angel investors including Rich Barton in 2008. Second Avenue Partners involvement via Mike Slade board seat. Sources: Wikipedia, EnvZone interview with Tom Seery.'
 - column: 4
   company: TeamOn.com
   line: '| TeamOn.com | Early stage | ~2000 | Web applications | [^22] |'

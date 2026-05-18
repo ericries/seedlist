@@ -98,10 +98,10 @@ Based on 22 verified investments through Second Avenue Partners where Higgins is
 | Insitu | Early stage | ~2001 | Unmanned aircraft | [^2] |
 | Bocada | Series C | ~2005 | Data backup software | [^21] |
 | Terabeam | Early stage | ~2001 | Broadband telecom | [^3] |
-~unknown| RealSelf | Early stage | Unknown | Consumer health | [^7] |
+| RealSelf | Angel | 2008 | Consumer health | [^7][^23][^24] |
 ~unknown| Uplevel | Early stage | Unknown | Engineering analytics | [^7] |
 ~unknown| Pike13 | Early stage | Unknown | SaaS / fitness mgmt | [^7] |
-~unknown| WISErg | Early stage | Unknown | Clean tech / composting | [^6] |
+| WISErg | Series B ($11M) | 2015-03-24 | Clean tech / composting | [^6][^25][^26] |
 | TeamOn.com | Early stage | ~2000 | Web applications | [^22] |
 
 *This table represents approximately 56% of Second Avenue Partners' estimated 39 total investments [^7]. Years marked with ~ are estimates based on company founding dates or approximate investment periods.*
@@ -146,3 +146,7 @@ No additional independently sourced founder testimonials specifically about Pete
 [^20]: Ad Age, "'Sports Illustrated' Buys FanNation.com," February 2007. https://adage.com/article/media/sports-illustrated-buys-fannation/114670/
 [^21]: CB Insights, "Bocada — Stock Price, Funding, Valuation, Revenue & Financial Statements," accessed March 2026. https://www.cbinsights.com/company/bocada/financials
 [^22]: The Seattle Times, "Mentors of fledgling ventures," April 25, 2000. https://archive.seattletimes.com/archive/?date=20000425&slug=4017340
+[^23]: Wikipedia, "RealSelf," accessed May 2026. https://en.wikipedia.org/wiki/RealSelf
+[^24]: EnvZone, "Tom Seery's RealSelf: Why You Should Not Take the First Money Offered?," accessed May 2026. https://envzone.com/tom-seery-goodwill-to-raise-and-good-partner-to-grow-business/
+[^25]: Yahoo Finance / BusinessWire, "WISErg Announces $11 Million Series B Funding," March 24, 2015. https://finance.yahoo.com/news/wiserg-announces-11-million-series-140000278.html
+[^26]: FinSMEs, "WISErg Raises $11M in Series B Funding," March 24, 2015. https://www.finsmes.com/2015/03/wiserg-raises-11m-in-series-b-funding.html
