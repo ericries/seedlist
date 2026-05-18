@@ -1,42 +1,46 @@
 ---
-name: "Forerunner Ventures"
-slug: forerunner-ventures
-type: firm
-website: "https://www.forerunnerventures.com"
-location: "San Francisco, CA"
 founded: 2012
-fund_size: "$3B total AUM across 7+ funds (Fund VII: $500M, Fund VI: $1B across two vehicles)"
-stage_focus:
-  - seed
-  - series-a
-sector_focus:
-  - consumer
-  - dtc
-  - commerce
-  - fintech
-  - health-wellness
-  - marketplaces
-team:
-  - name: Kirsten Green
-    role: Founder & Partner
-    slug: kirsten-green
-  - name: Eurie Kim
-    role: Partner
-    slug: eurie-kim
-  - name: Nicole Johnson
-    role: Partner
-    slug: nicole-johnson
-  - name: Jason Bornstein
-    role: Partner, Head of Research
-    slug: jason-bornstein
-  - name: Fawzi Itani
-    role: Principal
-    slug: fawzi-itani
-  - name: Jennifer Mariska
-    role: Partner, COO
-    slug: jennifer-mariska
-status: published
+fund_size: '$3B total AUM across 7+ funds (Fund VII: $500M, Fund VI: $1B across two
+  vehicles)'
 last_researched: 2026-04-30
+location: San Francisco, CA
+name: Forerunner Ventures
+sector_focus:
+- consumer
+- dtc
+- commerce
+- fintech
+- health-wellness
+- marketplaces
+slug: forerunner-ventures
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- name: Kirsten Green
+  role: Founder & Partner
+  slug: kirsten-green
+- name: Eurie Kim
+  role: Partner
+  slug: eurie-kim
+- name: Nicole Johnson
+  role: Partner
+  slug: nicole-johnson
+- name: Jason Bornstein
+  role: Partner, Head of Research
+  slug: jason-bornstein
+- name: Fawzi Itani
+  role: Principal
+  slug: fawzi-itani
+- name: Jennifer Mariska
+  role: Partner, COO
+  slug: jennifer-mariska
+- name: Brian O'Malley
+  role: Board Partner, Forerunner Ventures; Founder & Managing Partner, Tactile Ventures
+  slug: brian-omalley
+type: firm
+website: https://www.forerunnerventures.com
 ---
 
 ## About

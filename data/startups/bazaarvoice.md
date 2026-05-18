@@ -13,6 +13,9 @@ firms:
 - round: Seed
   slug: floodgate
   year: 2005
+- round: Early (Battery) - led
+  slug: forerunner-ventures
+  year: 2007
 founded: 2005
 founders:
 - name: Brett Hurt
@@ -23,6 +26,9 @@ investors:
 - round: Seed
   slug: mike-maples
   year: 2005
+- round: Early (Battery) - led
+  slug: brian-omalley
+  year: 2007
 last_researched: 2026-03-24
 location: Austin, TX
 name: Bazaarvoice

@@ -19590,7 +19590,7 @@ queue:
 - name: Anna Garcia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Runway Venture Partners
   discovered_from: marc-michel
@@ -24128,3 +24128,87 @@ queue:
   discovered_from: cosmico
   source: CEO and co-founder of Cosmico (founder, not investor — only research if
     pivots to investing)
+- name: Altari Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anna-garcia
+- name: Trumid
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anna-garcia
+- name: NewRoad Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anna-garcia
+- name: Spider Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anna-garcia
+- name: Valor Siren Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anna-garcia
+- name: Tactile Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Topline Pro
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Arrived Homes
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Fora Travel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Atticus
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Canal
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Narvar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: Prenuvo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
+- name: '222'
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-omalley
