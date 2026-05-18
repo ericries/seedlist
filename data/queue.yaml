@@ -18734,7 +18734,7 @@ queue:
 - name: Zishaan Hayath
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Powai Lake Ventures / Toppr (Ola angel)
   discovered_from: anupam-mittal
@@ -19015,7 +19015,7 @@ queue:
 - name: Mike Rosengarten
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenGov
   discovered_from: round-monitoring-2026-04-29
@@ -23870,3 +23870,148 @@ queue:
   added: '2026-03-17'
   discovered_from: legend-of-toys
   source: Legend of Toys pre-Series A participant (2026-05-15)
+- name: Hemanth Goteti
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Toppr
+  discovered_from: zishaan-hayath
+- name: Powai Lake Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Saurabh Saxena
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Powai Lake Ventures
+  discovered_from: zishaan-hayath
+- name: Vaibhav Puranik
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Powai Lake Ventures
+  discovered_from: zishaan-hayath
+- name: TDV Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Ujwal Sutaria
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: TDV Partners
+  discovered_from: zishaan-hayath
+- name: Bharat Founders Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Foundation Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Kaizen Private Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Eight Roads Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Toppr
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Housing.com
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Fynd
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Chaayos
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: EVEARA
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zishaan-hayath
+- name: Builders VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mike-rosengarten
+- name: Jim Kim
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Builders VC
+  discovered_from: mike-rosengarten
+- name: Nate Levine
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: OpenGov
+  discovered_from: mike-rosengarten
+- name: Dakin Sloss
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Prime Movers Lab
+  discovered_from: mike-rosengarten
+- name: Knapsack
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mike-rosengarten
+- name: Augment
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mike-rosengarten
+- name: Crosslink Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mike-rosengarten
+- name: Golden Section
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mike-rosengarten
