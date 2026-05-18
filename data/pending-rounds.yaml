@@ -20,6 +20,29 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
+    for notaries and law firms
+  url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Berlin-based LawX
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: eu-startups 403 paywall; round details (date, lead, full roster) not findable
+    via secondary press — when in doubt, leave it out
+- title: Copenhagen’s Alcolase secures €1.5 million to develop enzyme-based remedy
+    for alcohol flush
+  url: https://www.eu-startups.com/2026/05/copenhagens-alcolase-secures-e1-5-million-to-develop-enzyme-based-remedy-for-alcohol-flush/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Copenhagen’s Alcolase
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-18'
+  slug: alcolase
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
@@ -1072,25 +1095,3 @@ pending_rounds:
   notes: daily NYC aggregator; created econcrete.md ($14M 2026-05-11 Builders Vision-led);
     Sandstone $39.6M SEC filing only — no primary press, skipped per "when in doubt,
     leave it out"
-- title: Copenhagen’s Reel raises €15 million to make renewable energy predictable
-    for businesses and profitable for producers
-  url: https://www.eu-startups.com/2026/05/copenhagens-reel-raises-e15-million-to-make-renewable-energy-predictable-for-businesses-and-profitable-for-producers/
-  source: eu-startups
-  date_found: '2026-05-08'
-  parsed_company: Copenhagen’s Reel
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-08'
-  notes: covered by reel.md (€15M Series A 2026-05-07 Future Energy Ventures-led)
-- title: London’s Kohort raises €6 million Series A to build AI user acquisition agents
-    for mobile game studios
-  url: https://www.eu-startups.com/2026/05/londons-kohort-raises-e6-million-series-a-to-build-ai-user-acquisition-agents-for-mobile-game-studios/
-  source: eu-startups
-  date_found: '2026-05-08'
-  parsed_company: London’s Kohort
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-08'
-  notes: covered by kohort.md (€6M / $7M Series A 2026-05-07 Raine Group-led)

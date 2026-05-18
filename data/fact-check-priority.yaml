@@ -1,1 +1,9 @@
-priority: []
+priority:
+- slug: ada-ventures
+  type: firm
+  reason: "participated in Alcolase €1.5M seed (2026-05-18); also leading UK life sciences expansion"
+  added: 2026-05-18
+- slug: antler
+  type: firm
+  reason: "participated in Alcolase €1.5M seed (2026-05-18)"
+  added: 2026-05-18
