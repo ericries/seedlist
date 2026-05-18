@@ -24105,3 +24105,26 @@ queue:
   added: '2026-03-17'
   discovered_from: greenpixie
   source: led Greenpixie £250K Pre-Seed (2022-07-11)
+- name: P101 SGR
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cosmico
+  source: led Cosmico €12M Series B (2026-05-18)
+- name: Prana Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cosmico
+  source: participated in Cosmico €12M Series B (2026-05-18) as existing investor
+- name: Francesco Marino
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Cosmico
+  discovered_from: cosmico
+  source: CEO and co-founder of Cosmico (founder, not investor — only research if
+    pivots to investing)

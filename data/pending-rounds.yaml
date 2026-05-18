@@ -51,18 +51,28 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-05-18'
   parsed_company: Milan-based Cosmico
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €12M
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-18'
+  slug: cosmico
+  notes: created cosmico.md (€12M Series B equity+debt 2026-05-18 led by P101 SGR
+    with Prana Ventures; Milan Talent-as-a-Service; finalized Flatmates 100% acquisition
+    two years ahead of plan; founders Francesco Marino, Simone Tornabene, Matteo Roversi);
+    queued P101 SGR and Prana Ventures as new firms
 - title: Malmö-based Salt & Fiber secures €300k to turn seagrass into sustainable
     textile yarns; launches crowdfunding campaign
   url: https://www.eu-startups.com/2026/05/malmo-based-salt-launches-crowdfunding-campaign/
   source: eu-startups
   date_found: '2026-05-18'
   parsed_company: Malmö-based Salt & Fiber
-  parsed_amount: null
+  parsed_amount: €300K
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-18'
+  skip_reason: retail crowdfunding campaign launch (€45k crowdfunding target plus
+    separate €300k mixed funding for sustainable seagrass textile pre-commercial pilot),
+    not a VC equity round per Round Feed spec
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
