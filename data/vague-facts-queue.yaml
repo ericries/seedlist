@@ -62,7 +62,9 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^14]'
-  resolution: "Upgraded to Venture Round ($20M), 2020-02-09. Added Crunchbase source. Verified via PYMNTS and search confirming $20M from Kalanick, Steiner, Mateen, Turakhia."
+  resolution: Upgraded to Venture Round ($20M), 2020-02-09. Added Crunchbase source.
+    Verified via PYMNTS and search confirming $20M from Kalanick, Steiner, Mateen,
+    Turakhia.
 - column: 5
   company: FoodStars
   line: '| FoodStars | Acquisition (via CloudKitchens) | 2018 | Ghost kitchens (UK)
@@ -34270,7 +34272,8 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: Unknown
-  resolution: "Upgraded date to 2021-07-01, stage to Seed ($5M). Verified via TechCrunch and PYMNTS (Forerunner-led $5M seed, July 2021 launch)."
+  resolution: Upgraded date to 2021-07-01, stage to Seed ($5M). Verified via TechCrunch
+    and PYMNTS (Forerunner-led $5M seed, July 2021 launch).
 - column: 1
   company: Front of the Pack
   line: '| Front of the Pack | Unknown | ~2021 | Healthcare/Pet Wellness | Active
@@ -136963,9 +136966,13 @@ vague_facts:
   profile: startups/cruise
   profile_name: Cruise
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-18'
+  resolution_note: 'Cruise Apr 2021 $2.75B: Extension of January 2021 round originally
+    led by Microsoft. April extension added Walmart pushing total to $2.75B at $30B+
+    val; no formal lead for the extension per TechCrunch + CNBC.'
 - column: 4
   company: Jun 2024
   line: '| Jun 2024 | Corporate Round | $850M | GM | — [^13] |'
@@ -137661,9 +137668,14 @@ vague_facts:
   profile: startups/flexport
   profile_name: Flexport
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-18'
+  resolution_note: 'Flexport Sep 2016 Series B $65M: per Flexport blog and TechCrunch,
+    no single lead — round was filled by existing investors (Founders Fund, Bloomberg
+    Beta, Felicis, First Round, Susa, Yuri Milner) doubling down. Trae Stephens of
+    Founders Fund joined board.'
 - column: 4
   company: Jan 2024
   line: '| Jan 2024 | Convertible Note | $260M | Shopify | — [^7] |'
@@ -137946,9 +137958,13 @@ vague_facts:
   profile: startups/instagram
   profile_name: Instagram
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-18'
+  resolution_note: 'Instagram Mar 2010 Seed: $500K split evenly between Baseline Ventures
+    (Steve Anderson) and Andreessen Horowitz ($250K each) — no additional co-investors.
+    Per Entrepreneur magazine + TechCrunch + body text in profile.'
 - column: 4
   company: Apr 2012
   line: '| Apr 2012 | Acquisition | $1B | Facebook | — [^4][^5] |'
