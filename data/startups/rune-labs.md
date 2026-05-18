@@ -22,7 +22,7 @@ founders:
   - name: "Miro Kotzev"
     role: "CTO & Co-Founder"
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-05-17
 ---
 
 ## About
@@ -40,7 +40,7 @@ As of early 2026, Amy Gordon Franzen serves as CEO, with Brian Pepin serving as 
 | 2020-10-27 | Seed | $5M | DigiTx Partners | TruVenturo, Moment Ventures, Loup Ventures, Sabbatical Ventures [^5] |
 | 2021-09-16 | Series A | $22.8M | Eclipse Ventures | DigiTx Partners, Moment Ventures [^2] |
 | 2024-01-11 | Strategic | $12M | Nexus NeuroTech Ventures | Eclipse, DigiTx Partners, Moment Ventures, TruVenturo [^3][^6] |
-| ~2025-06 | Series B | $11.2M | Undisclosed | DigiTx Partners [^7] |
+| 2025-06-30 | Series B-II | $11.22M | Not disclosed | DigiTx Partners, Eclipse, Nexus NeuroTech Ventures, TruVenturo [^7][^9] |
 
 Additional investors listed on the company website include Village Global and City Light Capital [^1]. Other known investors across rounds include Samsung NEXT Ventures, 468 Capital, UCSF Rosenman Institute, and Daybreak Partners [^7].
 
@@ -74,3 +74,4 @@ Brian Pepin, on the Strategic round, stated the company will use the funds to pu
 [^6]: Longevity.Technology, "Rune Labs bags $12m to advance adoption of Parkinson's technologies," January 12, 2024. https://longevity.technology/news/rune-labs-bags-12m-to-advance-adoption-of-parkinsons-technologies/
 [^7]: Clay, "How Much Did Rune Labs Raise? Funding & Key Investors," accessed March 2026. https://www.clay.com/dossier/rune-labs-funding
 [^8]: STAT News, "Rune Labs, which makes an app to track Parkinson's symptoms, raises $12 million," January 11, 2024. https://www.statnews.com/2024/01/11/parkinsons-symptoms-app-strive-pd-rune-labs/
+[^9]: CB Insights, "Rune Labs — Financials," accessed May 2026. https://www.cbinsights.com/company/rune-labs/financials

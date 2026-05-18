@@ -145,7 +145,7 @@ Plaid is a fintech infrastructure company founded in 2013 by Zach Perret and Wil
 | Series B | Jun 2016 | $44M | Goldman Sachs Investment Partners | NEA, Spark Capital [^5] | -- |
 | Series C | Dec 2018 | $250M | Mary Meeker / Kleiner Perkins | Andreessen Horowitz, Index Ventures, Goldman Sachs, NEA, Spark Capital [^6] | $2.65B |
 | Series D | Apr 2021 | $425M | Altimeter Capital | Silver Lake, Ribbit Capital, Andreessen Horowitz, Index Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital [^7] | $13.4B |
-| Series D (ext) | Aug 2021 | Undisclosed | J.P. Morgan Private Capital, Amex Ventures | -- [^8] | -- |
+| Series D (ext) | 2021-08-17 | Undisclosed | J.P. Morgan Private Capital, Amex Ventures | [^8][^10] | $13.4B (unchanged) |
 | Series E | Apr 2025 | $575M | Franklin Templeton | Fidelity, BlackRock, NEA, Ribbit Capital [^9] | $6.1B |
 
 ## What Investors Say
@@ -167,3 +167,4 @@ No independently sourced founder testimonials found.
 [^7]: TechCrunch, "Plaid raises $425M Series D from Altimeter as it charts a post-Visa future," April 7, 2021. https://techcrunch.com/2021/04/07/plaid-raises-425m-series-d-from-altimeter-as-it-charts-a-post-visa-future/
 [^8]: Plaid Blog, "Plaid announces additional Series D funding," August 2021. https://plaid.com/blog/plaid-announces-additional-series-d-funding/
 [^9]: TechCrunch, "Fintech Plaid raises $575M at a $6.1B valuation, says it will not go public in 2025," April 3, 2025. https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/
+[^10]: PYMNTS, "Plaid Raises Additional Series D Funding Led By J.P. Morgan Private Capital, Amex," August 17, 2021. https://www.pymnts.com/news/investment-tracker/2021/plaid-raises-additional-series-d-funding-led-by-jpmorgan-amex/

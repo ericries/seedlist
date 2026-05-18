@@ -86,7 +86,7 @@ Note: Dataminr (real-time AI for breaking news/government) spans both defense/na
 | Interos | 2020 | Series B | AI / Supply Chain Risk | [^18] |
 | Vanilla | 2021 | Series A | Wealthtech / Estate Planning | [^19] |
 | Rebellion Defense | 2021 | Series B | Defense AI | [^20] |
-| Moment | ~2023 | Undisclosed (board seat April 2023) | Fintech / Fixed Income | [^21] |
+| Moment | 2023-09-14 | Series A ($17M, a16z-led; Venrock participated) | Fintech / Fixed Income | [^21][^27] |
 | FINNY | 2025 | Series A | Wealthtech / AI Prospecting | [^13] |
 | Syllo | 2025 | Growth | Legal AI | [^22] |
 
@@ -215,3 +215,5 @@ Jennifer Bisceglie, CEO of Interos, described the appeal of Beim and his co-inve
 [^25]: Federal News Network, "Venture capitalist warns US could lose technology race with China," July 20, 2020. https://federalnewsnetwork.com/leaders-and-legends/2020/07/venture-capitalist-warns-us-is-losing-technology-race-with-china/
 
 [^26]: Crunchbase News, "Interos Raises $17.5M Series B In Venrock-Led Round," March 2020. https://news.crunchbase.com/startups/interos-raises-17-5m-series-b-in-venrock-led-round/
+
+[^27]: Andreessen Horowitz, "Investing in Moment," September 14, 2023. https://a16z.com/announcement/investing-in-moment/

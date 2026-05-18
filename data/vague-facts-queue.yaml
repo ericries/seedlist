@@ -105525,9 +105525,13 @@ vague_facts:
   profile: investors/nick-beim
   profile_name: Nick Beim
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^21]'
+  note: Resolved to Moment Series A on 2023-09-14, $17M led by a16z with Venrock participating
+    (a16z announcement post + WealthManagement.com). Nick Beim board seat dates from
+    April 2023 (Venrock podcast notes), preceding the Series A announcement. Added
+    a16z announcement citation [^27]. Resolved 2026-05-17.
 - column: 4
   company: FINNY
   line: '| FINNY | 2025 | Series A | Wealthtech / AI Prospecting | [^13] |'
@@ -138857,9 +138861,12 @@ vague_facts:
   profile: startups/plaid
   profile_name: Plaid
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  note: Date pinned to 2021-08-17 (PYMNTS, plaid.com blog). Amount remains officially
+    undisclosed per multiple sources (PYMNTS, Plaid blog, American Banker, Bloomberg) —
+    valuation unchanged at $13.4B. Added PYMNTS citation. Resolved 2026-05-17.
 - column: 4
   company: Jul 2025
   line: '| Jul 2025 | Series E-2 | $500M | ICONIQ Growth | — [^10] |'
@@ -139205,9 +139212,12 @@ vague_facts:
   profile: startups/rune-labs
   profile_name: Rune Labs
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: Undisclosed
+  note: Date pinned to 2025-06-30, amount $11.22M, Series B-II per CB Insights. Lead
+    not officially disclosed; participants include DigiTx Partners, Eclipse, Nexus
+    NeuroTech Ventures, TruVenturo. Added CB Insights citation. Resolved 2026-05-17.
 - column: 4
   company: '2026-03-27'
   line: '| 2026-03-27 | Growth Capital | $50M | Trinity Capital | — [^1] |'
@@ -167464,9 +167474,10 @@ vague_facts:
   profile: investors/nick-beim
   profile_name: Nick Beim
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2023
+  note: Pinned to 2023-09-14 (a16z announcement). Resolved 2026-05-17.
 - column: 1
   company: FINNY
   line: '| FINNY | 2025 | Series A | Wealthtech / AI Prospecting | [^13] |'
