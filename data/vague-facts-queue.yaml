@@ -72856,7 +72856,9 @@ vague_facts:
   section: Portfolio
   status: unresolvable
   type: unknown_value
-  resolution: "Stealth-stage; funding details (amount, date, round) are confidential per founders' own confirmation. Investors confirmed: a16z + Hanabi Capital. Founded 2025, Newark DE."
+  resolution: 'Stealth-stage; funding details (amount, date, round) are confidential
+    per founders'' own confirmation. Investors confirmed: a16z + Hanabi Capital. Founded
+    2025, Newark DE.'
   value: Unknown
 - column: 5
   company: Life360
@@ -83765,7 +83767,9 @@ vague_facts:
   profile_name: Kara Nortman
   section: Portfolio
   status: resolved
-  resolution: "Stale queue entry — wrong Endgame. Kara's Endgame is product-led sales (2021 Seed led by Upfront, $5M + $12.25M Series A led by Menlo). Profile already correctly shows 2021 entry with citations [^24][^25]."
+  resolution: Stale queue entry — wrong Endgame. Kara's Endgame is product-led sales
+    (2021 Seed led by Upfront, $5M + $12.25M Series A led by Menlo). Profile already
+    correctly shows 2021 entry with citations [^24][^25].
   type: unknown_value
   value: Undisclosed
 - column: 5
@@ -87622,7 +87626,9 @@ vague_facts:
   profile_name: Krishna Yeshwant
   section: Portfolio
   status: resolved
-  resolution: "Stale queue entry — profile already shows '| Freenome | 2017 | Series A | Diagnostics | [^21][^27] |'. Series A was $65M led by Andreessen Horowitz, March 1, 2017 (BusinessWire)."
+  resolution: Stale queue entry — profile already shows '| Freenome | 2017 | Series
+    A | Diagnostics | [^21][^27] |'. Series A was $65M led by Andreessen Horowitz,
+    March 1, 2017 (BusinessWire).
   type: unknown_value
   value: —
 - column: 3
@@ -97739,9 +97745,11 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Active; LumosityRx FDA-cleared 2025-12 (FierceBiotech).
 - column: 5
   company: Polyvore
   line: '| Polyvore | ~2008 | Seed | Fashion / Consumer | Acquired by Yahoo | [^3]
@@ -97760,9 +97768,11 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Acquired by Universum 2011-07-12 (Workology / Tracxn).
 - column: 4
   company: BloomSpot
   line: '| BloomSpot | ~2009 | Seed | Local Commerce | -- | [^3] |'
@@ -97770,9 +97780,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-17'
+  resolution_note: Acquired by JPMorgan Chase 2012-12-20; standalone product wound
+    down by 2013-08 (TechCrunch + AllThingsD).
 - column: 4
   company: MocoSpace
   line: '| MocoSpace | ~2008 | Early | Mobile Social | -- | [^3] |'
@@ -137538,7 +137551,8 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: Undisclosed
-  resolution: "Updated to 2023-09-27 with $12.59B valuation noted. Amount remains officially undisclosed by Shopify/Faire. Added Tech Startups citation [^17]."
+  resolution: Updated to 2023-09-27 with $12.59B valuation noted. Amount remains officially
+    undisclosed by Shopify/Faire. Added Tech Startups citation [^17].
 - column: 5
   company: Seed
   line: '| Seed | Jun 2013 | $3.87M | Index Ventures | Terrence Rohan, Jeff Weiner,
@@ -269862,9 +269876,11 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2008
+  resolved: '2026-05-17'
+  resolution_note: Active; LumosityRx FDA-cleared 2025-12 (FierceBiotech).
 - column: 1
   company: Polyvore
   line: '| Polyvore | ~2008 | Seed | Fashion / Consumer | Acquired by Yahoo | [^3]
@@ -269883,9 +269899,11 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2008
+  resolved: '2026-05-17'
+  resolution_note: Acquired by Universum 2011-07-12 (Workology / Tracxn).
 - column: 1
   company: BloomSpot
   line: '| BloomSpot | ~2009 | Seed | Local Commerce | -- | [^3] |'
@@ -269893,9 +269911,12 @@ vague_facts:
   profile: investors/michael-dearing
   profile_name: Michael Dearing
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2009
+  resolved: '2026-05-17'
+  resolution_note: Acquired by JPMorgan Chase 2012-12-20; standalone product wound
+    down by 2013-08 (TechCrunch + AllThingsD).
 - column: 1
   company: MocoSpace
   line: '| MocoSpace | ~2008 | Early | Mobile Social | -- | [^3] |'

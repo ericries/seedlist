@@ -84,10 +84,10 @@ Based on 30 verified investments below, Harrison Metal's actual portfolio reveal
 | Widgetbox | ~2008 | Early | Web Tools | Rebranded to Flite (2011); platform discontinued (2014-03-28) | [^3][^27] |
 | DocVerse | ~2008 | Seed | Productivity | Acquired by Google | [^3] |
 | FanSnap | ~2008 | Seed | Ticketing | Acquired by NexTag (Dec 2011), then by SeatGeek (Nov 2013) and shut down | [^3][^28][^29] |
-| Lumos Labs | ~2008 | Seed | Consumer / Gaming | -- | [^3] |
+| Lumos Labs | ~2008 | Seed | Consumer / Gaming | Active (Lumosity Rx FDA-cleared 2025-12) | [^3][^30] |
 | Polyvore | ~2008 | Seed | Fashion / Consumer | Acquired by Yahoo | [^3] |
-| Doostang | ~2008 | Seed | Recruiting | -- | [^3] |
-| BloomSpot | ~2009 | Seed | Local Commerce | -- | [^3] |
+| Doostang | ~2008 | Seed | Recruiting | Acquired by Universum (2011-07-12) | [^3][^31] |
+| BloomSpot | ~2009 | Seed | Local Commerce | Acquired by JPMorgan Chase (2012-12-20); promotional business wound down by 2013-08 | [^3][^32][^33] |
 | MocoSpace | ~2008 | Early | Mobile Social | -- | [^3] |
 | Heroku | 2010 | Series A | Developer Tools | Acquired by Salesforce ($212M, 2010) | [^16] |
 | MoPub | 2010 | Seed | Mobile Advertising | Acquired by Twitter ($350M, 2013) | [^14] |
@@ -185,3 +185,11 @@ This table represents approximately 30 of 107 known investments (~28%). The anal
 [^28]: TicketNews, "Nextag acquires ticket search engine FanSnap," December 2011. Accessed May 2026. https://www.ticketnews.com/2011/12/nextag-acquires-ticket-search-engine-fansnap/ — Confirms FanSnap's initial acquisition by NexTag in December 2011.
 
 [^29]: TechCrunch, "With $2.2M In New Funding, SeatGeek Acquires And Shuts Down Ticketing Competitor FanSnap," December 19, 2013. Accessed May 2026. https://techcrunch.com/2013/12/19/seatgeek-acquires-fansnap/ — Confirms SeatGeek's acquisition of FanSnap from NexTag/Wize Commerce in November 2013, with the FanSnap service subsequently discontinued.
+
+[^30]: FierceBiotech, "FDA clears Lumosity brain training games as a prescription app for adult ADHD," December 2025. Accessed May 2026. https://www.fiercebiotech.com/medtech/fda-clears-lumos-labs-prescription-digital-therapy-treat-adhd-adults — Confirms Lumos Labs (founded 2005) is active with FDA 510(k) clearance for LumosityRx digital therapeutic in December 2025; over 100 million registered Lumosity users.
+
+[^31]: Workology, "Doostang Acquires Jobfox," 2011. Accessed May 2026. https://workology.com/doostang-acquires-jobfox/ — Doostang acquired Jobfox in 2011. Cross-referenced with Tracxn, https://tracxn.com/d/companies/doostang/__oitQ8H9_zkhlY5lXQ1ZtmTjIJ9R-OXcInLWcUp9c_8s, confirming Doostang itself was acquired by Universum on July 12, 2011 after raising $5.75M from Shasta Ventures.
+
+[^32]: TechCrunch, "Chase Acquires Local Offers Startup Bloomspot," December 20, 2012. Accessed May 2026. https://techcrunch.com/2012/12/20/chase-acquires-local-offers-startup-bloomspot/ — Confirms JPMorgan Chase acquired BloomSpot in December 2012 to power Chase's offers-focused products.
+
+[^33]: AllThingsD, "One Less Groupon Clone. J.P. Morgan Chase Acquires Bloomspot," December 20, 2012. Accessed May 2026. https://allthingsd.com/20121220/one-less-groupon-clone-j-p-morgan-chase-acquires-bloomspot/ — Independent contemporaneous confirmation of JPMorgan Chase acquisition; BloomSpot wound down standalone email/app product by August 2013 after integration into Chase's offers business.
