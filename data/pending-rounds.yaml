@@ -81,6 +81,14 @@ pending_rounds:
   parsed_amount: $9M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/18/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-18-2026/
+  source: alleywatch
+  date_found: '2026-05-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 5/18/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
   source: alleywatch
@@ -1084,16 +1092,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-11'
   notes: weekly aggregator; created darkhive.md ($30M Series B 2026-05-07 RTX Ventures-led)
-- title: London’s Fifth Dimension raises €22 million to scale AI-powered decision
-    intelligence for real assets
-  url: https://www.eu-startups.com/2026/05/londons-fifth-dimension-raises-e22-million-to-scale-ai-powered-decision-intelligence-for-real-assets/
-  source: eu-startups
-  date_found: '2026-05-11'
-  parsed_company: London’s Fifth Dimension
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-11'
-  slug: fifth-dimension-ai
-  notes: created fifth-dimension-ai.md (€22M / $26M Series A 2026-05-11 led by HV
-    Capital with Prudence, Mercia, MMC, AFG, Speedinvest, Seedcamp, Anthemis)
