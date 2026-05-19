@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Munich’s Feldwerke secures €12 million revolving credit facility to build
+    100 MW agri-PV portfolio in 18 months
+  url: https://www.eu-startups.com/2026/05/munichs-feldwerke-secures-e12-million-revolving-credit-facility-to-build-100-mw-agri-pv-portfolio-in-18-months/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Munich’s Feldwerke
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based Mouro Capital secures €343.4 million first close for third fund
+    backed by Santander
+  url: https://www.eu-startups.com/2026/05/london-based-mouro-capital-secures-e343-4-million-first-close-for-third-fund-backed-by-santander/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: London-based Mouro Capital
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Italian AI LegalTech startup Lexroom raises €42.9 million Series B eight
+    months after €16.2 million Series A
+  url: https://www.eu-startups.com/2026/05/italian-ai-legaltech-startup-lexroom-raises-e42-9-million-series-b-eight-months-after-e16-2-million-series-a/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Italian AI LegalTech startup Lexroom
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
+- title: Ghent-based Exhibitly raises €1.4 million to bring AI personalisation to
+    B2B events
+  url: https://www.eu-startups.com/2026/05/ghent-based-exhibitly-raises-e1-4-million-to-bring-ai-personalisation-to-b2b-events/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Ghent-based Exhibitly
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
     for notaries and law firms
   url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
@@ -1035,50 +1071,3 @@ pending_rounds:
   status: skipped
   skip_reason: already shipped 2026-05-11 as fifth-dimension-ai.md (with original
     €22M figure; Axios used $26M USD conversion)
-- title: Compass Gas e Energia raised $650M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-12'
-  parsed_company: Compass Gas e Energia
-  parsed_amount: $650M
-  parsed_round: null
-  status: skipped
-  skip_reason: Brazilian natural gas distributor (Cosan subsidiary) $650M IPO on B3,
-    not a startup VC round
-- title: Skinos Ventures raised $26M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-12'
-  parsed_company: Skinos Ventures
-  parsed_amount: $26M
-  parsed_round: null
-  status: skipped
-  skip_reason: new cybersecurity VC fund formed by Shlomo Kramer + Yishay Yovel (already
-    backed Spectrum Security $19M seed), not a startup round
-- title: Index Ventures backed-Adfin raises €15.3 million to help businesses automate
-    revenue collection with AI
-  url: https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/
-  source: eu-startups
-  date_found: '2026-05-12'
-  parsed_company: Index Ventures backed-Adfin
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-12'
-  slug: adfin
-  notes: covered by adfin.md (€15.3M / $18M Series A 2026-05-12 led by Index Ventures
-    with Visionaries Club, Stéphane Kurgan, Andrey Khusid); updated index-ventures.md
-    portfolio
-- title: London’s Dessn raises €5 million to help product teams design and prototype
-    inside real codebases
-  url: https://www.eu-startups.com/2026/05/londons-dessn-raises-e5-million-to-help-product-teams-design-and-prototype-inside-real-codebases/
-  source: eu-startups
-  date_found: '2026-05-12'
-  parsed_company: London’s Dessn
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-12'
-  slug: dessn
-  notes: covered by dessn.md (€5M / $6M Seed 2026-05-12 led by Connect Ventures with
-    Betaworks and N49P)
