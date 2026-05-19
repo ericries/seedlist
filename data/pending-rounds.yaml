@@ -90,9 +90,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: skipped
+  status: processed
   processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
+  notes: "AlleyWatch daily aggregator; extracted Geni ($1.84M, SEC filing, screen-free AI toy) into new startup profile geni.md. Nof1 already profiled. Violet Therapeutics $4.75M Seed Extension also shipped (separate primary source)."
 - title: Palo Alto-based Playground previously raised $410M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

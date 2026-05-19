@@ -24224,3 +24224,56 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: searchable
+- name: Lifespan Vision Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: violet-therapeutics
+  source: led Violet Therapeutics $4.75M Seed Extension (2026-05-18)
+- name: Dementia Discovery Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: violet-therapeutics
+  source: co-investor in Violet Therapeutics Seed Extension (2026-05-18)
+- name: UTEC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: violet-therapeutics
+  source: co-investor in Violet Therapeutics Seed Extension (2026-05-18); University
+    of Tokyo Edge Capital Partners
+- name: Ono Venture Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: violet-therapeutics
+  source: co-investor in Violet Therapeutics Seed Extension (2026-05-18); Ono Pharmaceutical
+    CVC
+- name: Mass General Brigham Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: violet-therapeutics
+  source: co-investor in Violet Therapeutics Seed Extension (2026-05-18)
+- name: Meredith Fisher
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mass General Brigham Ventures
+  discovered_from: violet-therapeutics
+  source: Partner at MGB Ventures; CEO of Violet Therapeutics
+- name: Altar Munis
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Lifespan Vision Ventures
+  discovered_from: violet-therapeutics
+  source: Associate at Lifespan Vision Ventures; quoted on Violet Therapeutics financing
