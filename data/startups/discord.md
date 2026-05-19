@@ -110,7 +110,7 @@ Discord is a communication platform originally built for gamers, founded by Jaso
 | Series C | Jan 2016 | $20M | Greylock | Tencent, YouWeb, Benchmark [^4] | -- |
 | Series C (ext) | Jun 2017 | $50M | Index Ventures | IVP, Greylock, Benchmark, Spark Capital [^4] | $725M |
 | Series D | Dec 2018 | $150M | Greenoaks Capital | Tencent, Index Ventures, Technology Opportunity Partners, FirstMark, IVP [^5] | $2.05B |
-| Series G | Jun 2020 | $100M | -- | -- [^2] | $3.5B |
+| Series G | 2020-06-30 | $100M | Index Ventures (Danny Rimer) | IVP [^2][^13] | $3.5B |
 | Series H | Dec 2020 | $100M | Greenoaks Capital | Index Ventures, Sony [^6] [^7] | $7B |
 | Series I | Sep 2021 | $500M | Dragoneer | Baillie Gifford, Coatue, Fidelity, Franklin Templeton, Sony [^8] [^9] | $15B |
 
@@ -136,3 +136,5 @@ No independently sourced founder testimonials found.
 [^10]: TechCrunch, "Fates Forever-Maker Hammer & Chisel Raises Additional Funding From Tencent, Benchmark," February 10, 2015. https://techcrunch.com/2015/02/10/fates-forever-maker-hammer-chisel-raises-additional-funding-from-tencent-benchmark/
 [^11]: PocketGamer.biz, "Tencent leads investment in Hammer & Chisel's Series B," February 2015. https://www.pocketgamer.biz/tencent-leads-hammer-and-chisel-series-b/
 [^12]: Yahoo Finance / Business Wire press release, "Hammer & Chisel Raises Series B Investment After Launching Award Winning iPad Game Fates Forever," February 10, 2015. https://finance.yahoo.com/news/hammer-chisel-raises-series-b-140000836.html
+
+[^13]: TechCrunch, "Discord now has a $3.5B valuation and $100M for a sales pitch lighter on the gaming," June 30, 2020. Accessed May 2026. https://techcrunch.com/2020/06/30/discord-now-has-a-3-5b-valuation-and-100m-for-a-sales-pitch-lighter-on-the-gaming/ — Confirms Index Ventures (led by Danny Rimer) led Discord's June 30, 2020 $100M Series G at $3.5B valuation, with new investor IVP participating. Cross-referenced with Crunchbase, https://www.crunchbase.com/funding_round/discord-series-g--8eab3a51.

@@ -65,7 +65,7 @@ Centivo is a health plan administrator for self-funded employers, founded in 201
 | Series B | Dec 2020 | $34M | B Capital Group | Define Ventures, HarbourVest Partners, Nassau Street Ventures, Bain Capital Ventures, Company Ventures, F-Prime Capital, Maverick Ventures, Ingleside Investors, Rand Capital [^4][^5] |
 | Series C | Sep 2021 | $51M | B Capital Group, Maverick Ventures | Bain Capital Ventures, Company Ventures, Define Ventures, F-Prime Capital, HarbourVest Partners, Ingleside Investors, Nassau Street Ventures [^6] |
 | Series B-1 Extension | Jul 2022 | $30M | Morgan Health (JPMorgan Chase) | — [^7] |
-| Series D | Sep 2024 | $75M (equity + debt) | — | B Capital, Cox Enterprises, F-Prime Capital, Ingleside Investors, Morgan Health, Cone Health Ventures, MemorialCare Innovation Fund; debt from Trinity Capital and JPMorgan Chase [^3][^8] |
+| Series D | 2024-09-24 | $75M ($25M equity + $50M debt) | Cone Health Ventures | MemorialCare Innovation Fund, B Capital, Cox Enterprises, F-Prime Capital, Ingleside Investors, Morgan Health; debt from Trinity Capital and JPMorgan Chase [^3][^8][^9] |
 
 Sources: [^1][^3][^4][^5][^6][^7][^8]
 
@@ -93,3 +93,5 @@ Sources: [^1][^3][^4][^5][^6][^7][^8]
 [^6]: Centivo, "Centivo raises $51 million," September 2021. https://centivo.com/centivo-raises-51-million-as-more-employers-seek-affordable-quality-healthcare-for-their-employees/
 [^7]: JPMorgan Chase, "Morgan Health Announces New Investment in Centivo," July 2022. https://www.jpmorganchase.com/newsroom/press-releases/2022/new-investment-in-centivo
 [^8]: Business Wire, "Centivo Raises $75 Million to Fix America's Broken Healthcare Model," September 2024. https://www.businesswire.com/news/home/20240924454675/en/Centivo-Raises-$75-Million-to-Fix-Americas-Broken-Healthcare-Model
+
+[^9]: Tracxn, "Centivo — 2025 Funding Rounds & List of Investors," accessed May 2026. https://tracxn.com/d/companies/centivo/__oLfXUlj_nC0OukoUgsF9FMsUQYmbUQWFQ8IDQVCZmxE/funding-and-investors — Confirms September 24, 2024 Series D was led by Cone Health Ventures with MemorialCare Innovation Fund as the other new strategic investor; B Capital, Cox Enterprises, F-Prime Capital, Ingleside Investors, and Morgan Health (JPMorgan) participated as existing investors. The $75M total comprised $25M equity and $50M debt (Trinity Capital + JPMorgan Chase debt facilities).

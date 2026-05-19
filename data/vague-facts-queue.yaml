@@ -136710,9 +136710,13 @@ vague_facts:
   profile: startups/centivo
   profile_name: Centivo
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-19'
+  resolution_note: Centivo Sep 24, 2024 Series D $75M ($25M equity + $50M debt) led
+    by Cone Health Ventures with MemorialCare Innovation Fund + existing investors
+    B Capital, Cox Enterprises, F-Prime, Ingleside, Morgan Health. Per Tracxn + BusinessWire.
 - column: 3
   company: Dec 2021
   line: '| Dec 2021 | Seed | $43M | — | Elad Gil, SV Angel, A Capital [^6][^7] |'
@@ -137309,9 +137313,12 @@ vague_facts:
   profile: startups/discord
   profile_name: Discord
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-19'
+  resolution_note: Discord Jun 30, 2020 Series G $100M led by Index Ventures (Danny
+    Rimer) at $3.5B valuation, with new investor IVP. Per TechCrunch + Crunchbase.
 - column: 4
   company: Seed
   line: '| Seed | Summer 2013 | $120K | Y Combinator | — |'
@@ -137525,9 +137532,13 @@ vague_facts:
   profile: startups/eventbrite
   profile_name: Eventbrite
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-19'
+  resolution_note: 'Eventbrite Sep 1, 2017 Series G $134M: lead investor not publicly
+    disclosed per Crunchbase + Skift; Sequoia Capital, T. Rowe Price, and Tiger Global
+    confirmed as participants. "—" lead is accurate.'
 - column: 4
   company: IPO
   line: '| IPO | Sep 2018 | $230M | NYSE: EB at $23/share | — [^3][^4] |'
