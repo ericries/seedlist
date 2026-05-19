@@ -56,6 +56,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Forget the feed: Status AI raises $17M to turn social media into interactive
+    entertainment'
+  url: https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/
+  source: techcrunch
+  date_found: '2026-05-19'
+  parsed_company: 'Forget the feed: Status AI'
+  parsed_amount: $17M
+  parsed_round: null
+  status: pending
+- title: Stilta raises $10.5M from a16z and YC to help companies rediscover the patents
+    they forgot they had
+  url: https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/
+  source: techcrunch
+  date_found: '2026-05-19'
+  parsed_company: Stilta
+  parsed_amount: $10.5M
+  parsed_round: null
+  status: pending
+- title: Berlin-based bunch bags €30.1 million Series B to modernise Europe’s private
+    markets infrastructure
+  url: https://www.eu-startups.com/2026/05/berlin-based-bunch-bags-e30-1-million-series-b-to-modernise-europes-private-markets-infrastructure/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Berlin-based bunch
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
 - title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
     for notaries and law firms
   url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
@@ -1039,35 +1066,3 @@ pending_rounds:
   notes: created holmes.md (€1.1M Pre-Seed 2026-05-12 led by Syndicate One with Aikido
     founders Roeland Delrue + Willem Delbare, Showpad's Louis Jonckheere, Thomas Van
     Overbeke, NewSchool, RDY, 100IN)
-- title: Grand Games raised $70M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-12'
-  parsed_company: Grand Games
-  parsed_amount: $70M
-  parsed_round: Series B
-  status: skipped
-  skip_reason: already shipped 2026-05-11 as grand-games.md
-- title: Frame Security raised $50M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-12'
-  parsed_company: Frame Security
-  parsed_amount: $50M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-12'
-  slug: frame-security
-  notes: created frame-security.md ($50M stealth-exit 2026-05-11 co-led by Index Ventures,
-    Team8, Picture Capital with Cerca Partners, Tesonet, Assaf Rappaport, Elad Gil);
-    updated index-ventures.md, elad-gil.md, assaf-rappaport.md portfolios
-- title: Fifth Dimension raised $26M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-12'
-  parsed_company: Fifth Dimension
-  parsed_amount: $26M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: already shipped 2026-05-11 as fifth-dimension-ai.md (with original
-    €22M figure; Axios used $26M USD conversion)
