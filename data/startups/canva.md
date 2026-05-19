@@ -30,6 +30,9 @@ firms:
 - round: Seed
   slug: 500-global
   year: 2013
+- round: '2015-10-06'
+  slug: felicis
+  year: 2015
 founded: 2013
 founders:
 - name: Melanie Perkins

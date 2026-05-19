@@ -18011,7 +18011,7 @@ queue:
 - name: Yoni Rechtman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Slow Ventures
   discovered_from: jordan-nof
@@ -24277,3 +24277,79 @@ queue:
   firm: Lifespan Vision Ventures
   discovered_from: violet-therapeutics
   source: Associate at Lifespan Vision Ventures; quoted on Violet Therapeutics financing
+- name: Kevin Colleran
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: yoni-rechtman
+- name: Will Quist
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: yoni-rechtman
+- name: Megan Lightcap
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: yoni-rechtman
+- name: Clay Robbins
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: yoni-rechtman
+- name: Superdial
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yoni-rechtman
+- name: Heave
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yoni-rechtman
+- name: Alice & Bob
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: francois-robinet
+- name: Veesual
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: francois-robinet
+- name: Bpifrance
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: francois-robinet
+- name: Future French Champions
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: francois-robinet
+- name: Elaia Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: francois-robinet
+- name: Breega
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: francois-robinet

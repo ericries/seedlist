@@ -1,11 +1,21 @@
 ---
-name: Geni
-slug: geni
-type: startup
-website: https://www.playgeni.com/
-location: ""
+firms:
+- round: Series A
+  slug: founders-fund
+  year: 2007
 founded: 2025
-status_company: active
+founders:
+- name: Kevin Tang
+  role: Co-Founder
+- name: Marcelo Coelho
+  role: Co-Founder
+investors:
+- round: Series A
+  slug: ken-howery
+  year: 2007
+last_researched: 2026-05-18
+location: ''
+name: Geni
 sector:
 - consumer
 - ai
@@ -13,17 +23,13 @@ sector:
 - edtech
 - toys
 - kids
+slug: geni
 stage_latest: Seed
-total_raised: $1.84M
-investors: []
-firms: []
-founders:
-- name: Kevin Tang
-  role: Co-Founder
-- name: Marcelo Coelho
-  role: Co-Founder
-last_researched: 2026-05-18
 status: published
+status_company: active
+total_raised: $1.84M
+type: startup
+website: https://www.playgeni.com/
 ---
 
 ## About

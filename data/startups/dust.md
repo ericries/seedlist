@@ -1,11 +1,21 @@
 ---
-name: Dust
-slug: dust
-type: startup
-website: https://dust.tt/
-location: Paris, France
+firms:
+- date: 2026-05-18
+  round: series-b
+  slug: sequoia-capital
+  year: 2026
+- round: '2023'
+  slug: datadog
+  year: 2023
 founded: 2022
-status_company: active
+founders: []
+investors:
+- round: '2023'
+  slug: olivier-pomel
+  year: 2023
+last_researched: 2026-05-18
+location: Paris, France
+name: Dust
 sector:
 - ai
 - enterprise-software
@@ -13,17 +23,13 @@ sector:
 - saas
 - developer-tools
 - workplace
+slug: dust
 stage_latest: Series B
-total_raised: $60M+
-investors: []
-firms:
-- slug: sequoia-capital
-  round: series-b
-  year: 2026
-  date: 2026-05-18
-founders: []
-last_researched: 2026-05-18
 status: published
+status_company: active
+total_raised: $60M+
+type: startup
+website: https://dust.tt/
 ---
 
 ## About
