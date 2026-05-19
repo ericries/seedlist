@@ -28870,9 +28870,11 @@ vague_facts:
   profile: investors/adam-rothenberg
   profile_name: Adam Rothenberg
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^14]'
+  resolution: Date updated to 2024-07-22 and amount to $9M. TechCrunch July 22, 2024
+    confirms BoxGroup participated alongside Jack Altman, Avid Ventures, others.
 - column: 4
   company: Coast
   line: '| Coast | 2024 | Seed | Fintech | [^10] |'
@@ -136724,9 +136726,13 @@ vague_facts:
   profile: startups/character-ai
   profile_name: Character.AI
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-19'
+  resolution_note: 'Character.ai Dec 2021 Seed $43M: no formal lead per CNBC/Crunchbase
+    — Elad Gil, SV Angel, A Capital, and Nat Friedman participated as angels. "—"
+    lead is accurate.'
 - column: 4
   company: Aug 2024
   line: '| Aug 2024 | Google licensing deal | $2.7B | Google (non-exclusive license)
@@ -137895,9 +137901,13 @@ vague_facts:
   profile: startups/gusto
   profile_name: Gusto
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-19'
+  resolution_note: Gusto Dec 21, 2015 Series B-2 $50M at $1B val co-led by Google
+    Capital (CapitalG) and General Catalyst, per TechCrunch + Global Venturing. Obvious/Slow/WME
+    participated.
 - column: 4
   company: May 2022
   line: '| May 2022 | Series E Extension | ~$55M | T. Rowe Price | — [^13] |'
@@ -138232,9 +138242,13 @@ vague_facts:
   profile: startups/mixpanel
   profile_name: Mixpanel
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-19'
+  resolution_note: Mixpanel Feb 11, 2010 Seed $500K from Max Levchin (Slide/PayPal)
+    and Michael Birch (Bebo) as angel investors per VentureBeat + TechCrunch — no
+    formal VC lead. "—" lead is accurate.
 - column: 4
   company: Dec 2014
   line: '| Dec 2014 | Series B | $65M | Andreessen Horowitz | — [^7] |'

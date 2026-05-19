@@ -55,12 +55,6 @@ firms:
   slug: pear-vc
   year: 2012
 - round: Seed
-  slug: stripe
-  year: 2012
-- round: Early
-  slug: owl-capital
-  year: 2015
-- round: Seed
   slug: sv-angel
   year: 2012
 - round: ~2012
@@ -75,39 +69,24 @@ firms:
 - round: ~2011
   slug: obvious-ventures
   year: 2011
-- round: Growth (observer)
-  slug: avra
-  year: 2018
-- round: Growth
-  slug: first-harmonic
-  year: 2017
 - round: Seed
   slug: a-star-capital
   year: 2012
 - round: Angel
   slug: nfdg
   year: 2015
-- round: Early stage
-  slug: independent
-  year: 2014
 - round: ~2019
   slug: altimeter-capital
   year: 2019
 - round: ~2013
   slug: craft-ventures
   year: 2013
-- round: Early stage
-  slug: gil-capital
-  year: 2014
 - round: Early
   slug: goat-capital
   year: 2017
 - round: Angel
   slug: outlander-vc
   year: 2012
-- round: Early Stage
-  slug: af-square
-  year: 2015
 - round: Series B
   slug: capitalg
   year: 2015
@@ -127,32 +106,8 @@ founders:
 - name: Edward Kim
   role: CTO & Co-Founder
 investors:
-- round: Founder
-  slug: josh-reeves
-  year: 2012
-- round: Founder
-  slug: tomer-london
-  year: 2012
-- round: Founder
-  slug: edward-kim
-  year: 2012
-- round: Seed
-  slug: aaron-levie
-  year: 2012
 - round: Seed
   slug: david-sacks
-  year: 2012
-- round: Seed
-  slug: drew-houston
-  year: 2012
-- round: Seed
-  slug: jawed-karim
-  year: 2012
-- round: Seed
-  slug: jeremy-stoppelman
-  year: 2012
-- round: Seed
-  slug: tien-tzuo
   year: 2012
 - round: Seed
   slug: pejman-nozad
@@ -268,7 +223,8 @@ Gusto (formerly ZenPayroll) is an HR, payroll, and benefits platform for small b
 | Dec 2012 | Seed | $6.1M | General Catalyst | Google Ventures, Y Combinator, Sherpalo Ventures, DCVC, Aaron Levie, David Sacks, Drew Houston, Jawed Karim, Jeremy Stoppelman, Tien Tzuo, Larry Augustin [^1][^5] |
 | Feb 2014 | Series A | $20M | General Catalyst, Kleiner Perkins (co-lead) | — [^6] |
 | Apr 2015 | Series B | $60M | Google Capital (CapitalG) | Google Ventures, Emergence Capital, Ribbit Capital, General Catalyst, Kleiner Perkins, Glynn Capital, Felicis Ventures [^7][^8] |
-| Dec 2015 | Series B-2 | $50M | — | Google Capital, General Catalyst, Obvious Ventures, Slow Ventures, WME Ventures [^2][^5] |
+| 2015-12-21 | Series B-2 | $50M (at $1B val) | Google Capital (now CapitalG), General Catalyst (co-leads) | Obvious Ventures, Slow Ventures, WME Ventures [^2][^5][^14] |
+
 | Jul 2018 | Series C | $140M | T. Rowe Price, MSD Capital, Dragoneer, YC Continuity (co-lead) | General Catalyst, CapitalG, Kleiner Perkins, 137 Ventures, Emergence Capital [^9] |
 | Jul 2019 | Series D | $200M | Fidelity, Generation Investment Management (co-lead) | T. Rowe Price, Dragoneer, General Catalyst [^10][^11] |
 | Aug 2021 | Series E | $175M | T. Rowe Price | Fidelity, Sands Capital, Durable Capital Partners, Generation Investment Management, Emerson Collective, Glynn Capital, Friends & Family Capital, Cross Creek, 137 Ventures, General Catalyst, Emergence Capital, Dragoneer, Franklin Templeton, Acrew Diversify Capital Fund [^12] |
@@ -322,3 +278,5 @@ Total equity raised: approximately $746 million [^3]. Valued at $9.5 billion at 
 [^11]: Generation Investment Management, "Serving the underserved — Gusto raises $200 million to significantly improve the status quo for small businesses in America," July 2019, accessed March 2026. https://www.generationim.com/our-thinking/news/serving-the-underserved-gusto-raises-200-million-to-significantly-improve-the-status-quo-for-small-businesses-in-america/
 [^12]: Global Venturing, "Gusto goes with $175m series E round," August 2021, accessed March 2026. https://globalventuring.com/corporate/gusto-goes-with-175m-series-e-round/
 [^13]: TechCrunch, "Gusto raises an extension round, following Faire as unicorns react to a changing market," May 12, 2022, accessed March 2026. https://techcrunch.com/2022/05/12/gusto-raises-an-extension-round-following-faire-as-unicorns-react-to-a-changing-market/
+
+[^14]: Global Venturing, "Gusto stays on Google Capital payroll to raise $50m," December 23, 2015. Accessed May 2026. https://globalventuring.com/blog/2015/12/23/gusto-stays-on-google-capital-payroll-to-raise-50m/ — Independent confirmation: Gusto's December 2015 $50M Series B-2 was led by Google Capital (now CapitalG) and General Catalyst at $1B valuation. Other participants included Obvious Ventures, Slow Ventures, and WME Ventures.
