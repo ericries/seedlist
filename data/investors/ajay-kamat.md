@@ -81,7 +81,7 @@ The following investments represent cases where Ajay Kamat's individual involvem
 | The Coterie | ~2021 | Seed | Enterprise / Fintech | Acquired (Allocate) | [^15] |
 | Recora | ~2020 | Pre-seed / Seed | Digital Health | Active (Series A) | [^6] |
 | Honey Homes | 2021 | Seed | Proptech / Consumer Services | Active (Series A-1) | [^7] |
-| Burst | 2026 | Seed | Healthtech / Fintech | Active | [^8] |
+| Burst | 2026-02-25 | Seed ($2.1M, led by Pear VC) | Healthtech / Fintech | Active | [^8] |
 
 Notes:
 - Instaread year is based on Tracxn-reported seed round date of May 2016 [^10]; board seat confirmed in Pear VC team page [^1].

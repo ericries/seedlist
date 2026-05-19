@@ -30270,7 +30270,9 @@ vague_facts:
   profile: investors/ajay-kamat
   profile_name: Ajay Kamat
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: Date updated to 2026-02-25, amount $2.1M led by Pear VC. Source [^8]
+    confirms (Retail Technology Innovation Hub, Feb 25 2026).
   type: unknown_value
   value: '[^8]'
 - column: 3
@@ -30585,9 +30587,13 @@ vague_facts:
   profile: investors/alex-davidov
   profile_name: Alex Davidov
   section: Portfolio
-  status: pending
+  status: unresolvable
   type: unknown_value
   value: '[^9]'
+  resolution: 'Tracxn-listed entry but cannot confirm Abstract Ventures was a participant
+    in any Legora round via primary sources. Legora seed (May 2024) named YC, Hummingbird
+    and SV Angel; Series B/C/D had different leads. Recommend removing Legora from
+    Davidov portfolio table until primary source confirms.'
 - column: 4
   company: Ethereum
   line: '| Ethereum | ~2013 | Seed | L1 Protocol | [^1] |'

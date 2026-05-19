@@ -61,7 +61,7 @@ The following table represents investments where Rothenberg's involvement is con
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
 | Ramp | 2019 | Seed | Fintech | [^13] |
-| Fragment | 2024 | Seed | Fintech | [^14] |
+| Fragment | 2024-07-22 | Seed ($9M) | Fintech | [^14] |
 | Coast | 2024-03-21 | Equity round ($25M) | Fintech | [^10][^18] |
 | Kustomer | 2018 | Series B | Enterprise | [^5] |
 | CrowdTangle | 2014 | Venture | Media/Analytics | [^5] |
