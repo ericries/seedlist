@@ -136670,9 +136670,13 @@ vague_facts:
   profile: startups/canva
   profile_name: Canva
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-18'
+  resolution_note: Canva Oct 2019 Series D tranche 2 $85M led by Bond Capital (Mary
+    Meeker) per Bloomberg + AVCJ; General Catalyst, Bessemer, Blackbird, Sequoia China
+    participated.
 - column: 3
   company: Series E (extension)
   line: '| Series E (extension) | Jun 2020 | $60M | -- | Bond, General Catalyst, Sequoia
@@ -136681,9 +136685,12 @@ vague_facts:
   profile: startups/canva
   profile_name: Canva
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-18'
+  resolution_note: Canva Jun 2020 $60M Series E extension co-led by Blackbird Ventures
+    and Sequoia Capital China at $6B val per TechCrunch; Bond + Felicis participated.
 - column: 4
   company: Series B-1 Extension
   line: '| Series B-1 Extension | Jul 2022 | $30M | Morgan Health (JPMorgan Chase)
@@ -138801,9 +138808,13 @@ vague_facts:
   profile: startups/pinterest
   profile_name: Pinterest
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-18'
+  resolution_note: Pinterest Seed Dec 2010 $700K led by FirstMark Capital with Highline
+    Ventures and angel investors — scanner flagged col=5 valuation "—" which is legitimately
+    undisclosed for an early seed.
 - column: 4
   company: Series A
   line: '| Series A | Sep 2011 | $10M | Bessemer Venture Partners | — [^6] | $40M

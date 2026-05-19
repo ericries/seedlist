@@ -24,9 +24,6 @@ firms:
 - round: Angel
   slug: recursive-ventures
   year: 2013
-- round: ~2013
-  slug: felicis
-  year: 2013
 - round: Growth ($200M round)
   slug: greenoaks
   year: 2021
@@ -98,9 +95,9 @@ Canva is an online graphic design platform founded on January 1, 2013, in Sydney
 | Series B | Sep 2016 | $15M | Blackbird Ventures | -- [^7] | -- |
 | Series C | Jan 2018 | A$40M | Sequoia Capital | Blackbird Ventures, Felicis Ventures [^8] | A$1B |
 | Series D (tranche 1) | May 2019 | $70M | Bond, General Catalyst | Felicis Ventures, Blackbird Ventures [^9] | $2.5B |
-| Series D (tranche 2) | Oct 2019 | $85M | -- | Bond, General Catalyst, Bessemer Venture Partners, Blackbird, Sequoia China [^10] | $3.2B |
+| Series D (tranche 2) | Oct 2019 | $85M | Bond Capital | General Catalyst, Bessemer Venture Partners, Blackbird, Sequoia China [^10][^12] | $3.2B |
 | Series E | Apr 2021 | $71M | Dragoneer, T. Rowe Price | Blackbird Ventures, Skip Enterprises [^11] | $15B |
-| Series E (extension) | Jun 2020 | $60M | -- | Bond, General Catalyst, Sequoia Capital China, Felicis Ventures, Blackbird [^3] | $6B |
+| Series E (extension) | Jun 2020 | $60M | Blackbird Ventures, Sequoia Capital China | Bond, Felicis Ventures [^3][^13] | $6B |
 | Series F | Sep 2021 | $200M | T. Rowe Price | Franklin Templeton, Sequoia Capital Global Equities, Bessemer Venture Partners, Greenoaks Capital, Dragoneer, Blackbird, Felicis, AirTree Ventures [^4] | $40B |
 
 ## What Investors Say
@@ -124,3 +121,7 @@ No independently sourced founder testimonials found.
 [^9]: TechCrunch, "Graphic design platform Canva valued at $2.5B with new funds," May 20, 2019. https://techcrunch.com/2019/05/20/graphic-design-platform-canva-valued-at-2-5b-with-new-funds/
 [^10]: TechCrunch, "Canva, now valued at $3.2 billion, launches an enterprise product," October 16, 2019. https://techcrunch.com/2019/10/16/canva-now-valued-at-3-2-billion-launches-an-enterprise-product/
 [^11]: MarketScreener, "Canva receives $71 million in funding from Skip Enterprises, T. Rowe Price, Blackbird Ventures, Dragoneer," accessed March 2026. https://www.marketscreener.com/quote/stock/T-ROWE-PRICE-GROUP-INC-40311214/news/Canva-Inc-announced-that-it-has-received-71-million-in-funding-from-Skip-Enterprises-Pty-Limited-33448377/
+
+[^12]: Bloomberg, "Melanie Perkins Startup Canva Gets $3.2B Valuation," October 16, 2019. Accessed May 2026. https://www.bloomberg.com/news/articles/2019-10-16/32-year-old-female-ceo-s-startup-gets-3-2-billion-valuation — Confirms Bond Capital (Mary Meeker's firm) led Canva's October 2019 Series D tranche 2 at $3.2B valuation. Cross-referenced with AVCJ, "Australia's Canva raises $85m at $3.2b valuation," https://www.avcj.com/avcj/news/3016866/australia-s-canva-raises-usd85m-at-usd32b-valuation.
+
+[^13]: Global Venturing, "Canva designs $60m round," June 25, 2020. Accessed May 2026. https://globalventuring.com/canva-designs-60m-round/ — Independent confirmation: Canva's June 2020 $60M round was co-led by Blackbird Ventures and Sequoia Capital China at $6B valuation, with existing investors Bond and Felicis Ventures participating. Round was 10x oversubscribed.
