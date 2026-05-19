@@ -1,1 +1,17 @@
-priority: []
+priority:
+- slug: general-catalyst
+  type: firm
+  reason: "led Status AI $17M Seed+Series A (2026-05-19)"
+  added: 2026-05-19
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Stilta $10.5M Seed (2026-05-19)"
+  added: 2026-05-19
+- slug: left-lane-capital
+  type: firm
+  reason: "led Lexroom €42.9M Series B (2026-05-19) — may need new profile"
+  added: 2026-05-19
+- slug: portage
+  type: firm
+  reason: "led bunch €30.1M Series B (2026-05-19) — may need new profile"
+  added: 2026-05-19
