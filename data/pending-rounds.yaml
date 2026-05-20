@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Brookfield Office Properties Announces Redemption of Class AAA Preference
+    Shares, Series CC
+  url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
+  source: globenewswire
+  date_found: '2026-05-20'
+  parsed_company: Brookfield Office Properties
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich’s Feldwerke secures €12 million revolving credit facility to build
     100 MW agri-PV portfolio in 18 months
   url: https://www.eu-startups.com/2026/05/munichs-feldwerke-secures-e12-million-revolving-credit-facility-to-build-100-mw-agri-pv-portfolio-in-18-months/
@@ -28,7 +37,9 @@ pending_rounds:
   parsed_company: Munich’s Feldwerke
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-19'
+  skip_reason: revolving credit facility = debt, not a startup VC equity round
 - title: London-based Mouro Capital secures €343.4 million first close for third fund
     backed by Santander
   url: https://www.eu-startups.com/2026/05/london-based-mouro-capital-secures-e343-4-million-first-close-for-third-fund-backed-by-santander/
@@ -37,7 +48,9 @@ pending_rounds:
   parsed_company: London-based Mouro Capital
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-19'
+  skip_reason: VC fund first close (Mouro Capital is a VC firm), not a startup round
 - title: Italian AI LegalTech startup Lexroom raises €42.9 million Series B eight
     months after €16.2 million Series A
   url: https://www.eu-startups.com/2026/05/italian-ai-legaltech-startup-lexroom-raises-e42-9-million-series-b-eight-months-after-e16-2-million-series-a/
@@ -46,16 +59,27 @@ pending_rounds:
   parsed_company: Italian AI LegalTech startup Lexroom
   parsed_amount: null
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-05-19'
+  slug: lexroom
+  notes: already shipped as lexroom.md (€42.9M Series B 2026-05-19 Left Lane Capital-led
+    with Base10 Partners, Eurazeo, Acurio Ventures, Entourage, View Different); removed
+    USD parenthetical per currency rule
 - title: Ghent-based Exhibitly raises €1.4 million to bring AI personalisation to
     B2B events
   url: https://www.eu-startups.com/2026/05/ghent-based-exhibitly-raises-e1-4-million-to-bring-ai-personalisation-to-b2b-events/
   source: eu-startups
   date_found: '2026-05-19'
   parsed_company: Ghent-based Exhibitly
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €1.4M
+  parsed_round: Pre-Seed
+  status: processed
+  processed: '2026-05-19'
+  slug: exhibitly
+  notes: created exhibitly.md (€1.4M Pre-Seed 2026-05-19 led by New School VC with
+    100IN, Allusion Ventures and angels Louis Jonckheere, Jeroen De Wit, Pieter Vanermen,
+    Tanguy Serraes; Ghent EventTech AI personalisation for B2B events; founders Hendrik
+    Franck + Brent Coppens; 114 events signed in first nine months)
 - title: 'Forget the feed: Status AI raises $17M to turn social media into interactive
     entertainment'
   url: https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/
@@ -64,7 +88,11 @@ pending_rounds:
   parsed_company: 'Forget the feed: Status AI'
   parsed_amount: $17M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-19'
+  slug: status-ai
+  notes: already shipped as status-ai.md ($17M combined Seed+Series A 2026-05-19 led
+    by General Catalyst with Y Combinator, LightShed Partners, Abstract)
 - title: Stilta raises $10.5M from a16z and YC to help companies rediscover the patents
     they forgot they had
   url: https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/
@@ -72,16 +100,33 @@ pending_rounds:
   date_found: '2026-05-19'
   parsed_company: Stilta
   parsed_amount: $10.5M
-  parsed_round: null
-  status: pending
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-19'
+  slug: stilta
+  notes: already shipped as stilta.md ($10.5M Seed 2026-05-19 led by Andreessen Horowitz
+    with Y Combinator and operator-angels from OpenAI, Legora, Lovable)
 - title: Berlin-based bunch bags €30.1 million Series B to modernise Europe’s private
     markets infrastructure
   url: https://www.eu-startups.com/2026/05/berlin-based-bunch-bags-e30-1-million-series-b-to-modernise-europes-private-markets-infrastructure/
   source: eu-startups
   date_found: '2026-05-19'
   parsed_company: Berlin-based bunch
-  parsed_amount: null
+  parsed_amount: €30.1M
   parsed_round: Series B
+  status: processed
+  processed: '2026-05-19'
+  slug: bunch
+  notes: already shipped as bunch.md (€30.1M Series B 2026-05-19 led by Portage with
+    Illuminate Financial new, plus follow-ons from Motive Partners, Cherry Ventures,
+    FinTech Collective); removed USD parenthetical per currency rule
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/19/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-19-2026/
+  source: alleywatch
+  date_found: '2026-05-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
   status: pending
 - title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
     for notaries and law firms
@@ -1041,28 +1086,3 @@ pending_rounds:
   status: skipped
   skip_reason: already shipped 2026-05-13 as anduril-industries.md update ($5B Series
     H, Thrive+a16z co-led at $61B val)
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/13/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-13-2026/
-  source: alleywatch
-  date_found: '2026-05-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-13'
-  notes: daily aggregator; primary rounds already covered (Mind Robotics, Origin Lab,
-    Anduril)
-- title: Belgium’s Holmes launches with €1.1 million pre-Seed to catch software bugs
-    before they reach users
-  url: https://www.eu-startups.com/2026/05/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/
-  source: eu-startups
-  date_found: '2026-05-12'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: processed
-  processed: '2026-05-12'
-  slug: holmes
-  notes: created holmes.md (€1.1M Pre-Seed 2026-05-12 led by Syndicate One with Aikido
-    founders Roeland Delrue + Willem Delbare, Showpad's Louis Jonckheere, Thomas Van
-    Overbeke, NewSchool, RDY, 100IN)

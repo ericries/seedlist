@@ -24359,3 +24359,31 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: bunch
+- name: New School VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: exhibitly
+  source: Lead investor on Exhibitly €1.4M Pre-Seed (2026-05-19)
+- name: Allusion Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: exhibitly
+  source: Co-investor on Exhibitly €1.4M Pre-Seed (2026-05-19)
+- name: Jeroen De Wit
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: exhibitly
+  source: Angel on Exhibitly Pre-Seed (Teamleader co-founder)
+- name: Illuminate Financial
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bunch
+  source: Co-investor on bunch €30.1M Series B (2026-05-19)

@@ -14,7 +14,7 @@ sector:
 - enterprise-software
 - infrastructure
 stage_latest: Series B
-total_raised: $50M+
+total_raised: €30.1M + $15.5M prior
 investors: []
 firms: []
 founders: []
@@ -24,13 +24,13 @@ status: published
 
 ## About
 
-bunch is a Berlin-based AI-native fund operations platform building the backbone of private markets infrastructure — serving 150+ fund managers and 12,000+ limited partners across major European jurisdictions [^1][^2][^3]. Annual recurring revenue grew 300% in 2025 with net revenue retention at 156% [^1]. The €30.1M (~$35M) Series B announced May 19, 2026 was led by Portage with new investor Illuminate Financial joining follow-on commitments from existing backers Motive Partners, Cherry Ventures, FinTech Collective, and angel investors; proceeds will fund commercial growth across Europe, advance the platform's automation and AI capabilities, and extend reach into new geographies, asset classes, and operational workflows [^1][^2][^3].
+bunch is a Berlin-based AI-native fund operations platform building the backbone of private markets infrastructure — serving 150+ fund managers and 12,000+ limited partners across major European jurisdictions [^1][^2][^3]. Annual recurring revenue grew 300% in 2025 with net revenue retention at 156% [^1]. The €30.1M Series B announced May 19, 2026 was led by Portage with new investor Illuminate Financial joining follow-on commitments from existing backers Motive Partners, Cherry Ventures, FinTech Collective, and angel investors; proceeds will fund commercial growth across Europe, advance the platform's automation and AI capabilities, and extend reach into new geographies, asset classes, and operational workflows [^1][^2][^3].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-19 | Series B | €30.1M (~$35M) | Portage | Illuminate Financial, Motive Partners, Cherry Ventures, FinTech Collective [^1][^2][^3] |
+| 2026-05-19 | Series B | €30.1M | Portage | Illuminate Financial, Motive Partners, Cherry Ventures, FinTech Collective [^1][^2][^3] |
 | 2024-07-25 | Series A | $15.5M | — | Motive Partners, Cherry Ventures, FinTech Collective [^4] |
 
 ## What Investors Say

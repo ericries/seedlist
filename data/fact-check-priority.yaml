@@ -1,1 +1,13 @@
-priority: []
+priority:
+- slug: lexroom
+  type: startup
+  reason: "currency rule fix — removed USD parentheticals (2026-05-19)"
+  added: 2026-05-19
+- slug: bunch
+  type: startup
+  reason: "currency rule fix — removed USD parentheticals (2026-05-19)"
+  added: 2026-05-19
+- slug: exhibitly
+  type: startup
+  reason: "new Pre-Seed profile created (2026-05-19)"
+  added: 2026-05-19
