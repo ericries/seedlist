@@ -10,8 +10,8 @@ sector:
 - fintech
 - compliance
 - regtech
-stage_latest: Seed
-total_raised: $7.2M
+stage_latest: Series A
+total_raised: $17.2M+
 firms: []
 founders:
 - name: Allen Osgood
@@ -31,6 +31,7 @@ Eisen is a New York-based fintech startup that automates escheatment compliance 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-04-07 | Funding round | $7.2M (of $10.5M offering) | — | 6 investors [^1] |
+| 2026-05-19 | Series A | $10M | MissionOG | — [^2] |
 
 ## What Investors Say
 
@@ -43,3 +44,4 @@ No verified founder quotes available at this time.
 ## Sources
 
 [^1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 4/7/2026," April 7, 2026. https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-7-2026/
+[^2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 5/19/2026," May 19, 2026. Accessed May 2026. https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-19-2026/ — Confirms Eisen's $10M Series A led by MissionOG on May 19, 2026.

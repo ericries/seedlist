@@ -65,7 +65,7 @@ Based on 22 verified investments listed below, Calacanis's actual portfolio reve
 |---------|------|-------|--------|
 | Uber | ~2009 | Angel | [^1] |
 | Calm | 2014 | Seed | [^16] |
-~unknown| Robinhood | — | Angel | [^1] |
+| Robinhood | 2013 | Seed | [^1] [^23] |
 ~unknown| Wealthfront | — | Angel | [^1] |
 ~unknown| Desktop Metal | — | Angel | [^1] |
 ~unknown| DataStax | — | Early Stage | [^1] |
@@ -147,3 +147,4 @@ Paul Richards, founder of Recall, went through the LAUNCH Accelerator where Reca
 [^20]: "LAUNCH Accelerator with Aisha Chottani," Boring Business Nerd podcast, accessed March 2026. https://www.boringbusinessnerd.com/post/what-its-like-to-work-with-jason-calacanis-in-the-launch-accelerator-with-aisha-chottani
 [^21]: "Thoughts on completing the Launch Accelerator," Chris Federspiel on Medium, accessed March 2026. https://medium.com/@chrisfed/thoughts-on-completing-the-launch-accelerator-2007a0c756f9
 [^22]: "Letter #219: Travis Kalanick and Jason Calacanis (2024)," A Letter A Day on Substack, accessed March 2026. https://aletteraday.substack.com/p/letter-219-travis-kalanick-and-jason
+[^23]: "Robinhood App Will Offer Zero-Commission Stock Trades Thanks To $3M Seed From Index And A16Z," TechCrunch, December 18, 2013, accessed May 2026. https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/
