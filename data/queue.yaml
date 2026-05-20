@@ -24405,3 +24405,74 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: radar
+- name: Valley Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nanoco
+  source: led NanoCo $12M Seed (2026-05-20)
+- name: Clem Delangue
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hugging Face
+  discovered_from: nanoco
+  source: angel investor in NanoCo $12M Seed (2026-05-20)
+- name: 20VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prelude
+  source: led Prelude €17.2M Series A (2026-05-20)
+- name: Singular
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prelude
+  source: co-investor on Prelude €17.2M Series A (2026-05-20)
+- name: FDJ Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prelude
+  source: co-investor on Prelude €17.2M Series A (2026-05-20)
+- name: EBRD Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remotepass
+  source: led RemotePass $17.4M Series B (2026-05-20)
+- name: Oraseya Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remotepass
+  source: co-investor on RemotePass $17.4M Series B (2026-05-20)
+- name: 212 VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remotepass
+  source: co-investor on RemotePass $17.4M Series B (2026-05-20)
+- name: Access Bridge Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remotepass
+  source: co-investor on RemotePass $17.4M Series B (2026-05-20)
+- name: Khwarizmi Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remotepass
+  source: co-investor on RemotePass $17.4M Series B (2026-05-20)
