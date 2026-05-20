@@ -121,8 +121,9 @@ Notable portfolio companies with verified investment data:
 | eFishery | Seed | ~2015 | AgriTech | Active | [^6] |
 | Mejuri | Seed | ~2016 | DTC/E-commerce | Active | [^6] |
 | DeepInfra | Series B (co-led, $107M) | 2026-05-04 | AI Inference / Cloud Infrastructure | Active | [^31][^32][^33] |
+| RemotePass | Series B ($17.4M, EBRD-led) | 2026-05-20 | Fintech / Global Payroll / HR Tech | Active | [^34][^35] |
 
-*Note: This table represents approximately 24 of the firm's 35+ unicorns and a small fraction of its 2,900+ total investments. Many investment years are approximate, based on company founding years, as exact 500 Global entry dates are not always publicly disclosed. All stages listed as "Seed" reflect the firm's primary investment mode through its accelerator and early-stage funds.*
+*Note: This table represents approximately 25 of the firm's 35+ unicorns and a small fraction of its 2,900+ total investments. Many investment years are approximate, based on company founding years, as exact 500 Global entry dates are not always publicly disclosed. All stages listed as "Seed" reflect the firm's primary investment mode through its accelerator and early-stage funds.*
 
 ## In Their Own Words
 
@@ -190,3 +191,7 @@ Notable portfolio companies with verified investment data:
 [^32]: SiliconANGLE, "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models," May 4, 2026. Accessed May 2026. https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/ — Independently confirms 500 Global and Georges Harik co-led the $107M Series B; details participation from Nvidia, Samsung Next, Supermicro, A.Capital Ventures, Crescent Cove, Felicis, Peak6, and Upper90.
 
 [^33]: GlobeNewsWire, "DeepInfra Closes $107M Series B to Power Production-Scale AI Inference," May 4, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/04/3286977/0/en/deepinfra-closes-107m-series-b-to-power-production-scale-ai-inference.html — Primary press release wire confirming round details and 500 Global Managing Partner Tony Wang's statement: "we believe purpose-built inference infrastructure will be fundamental to the next phase of AI as compute was to the last."
+
+[^34]: PR Newswire, "RemotePass Raises $17.4M Series B Led by EBRD Venture Capital as Global Employment and Fintech Converge," May 20, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/remotepass-raises-17-4m-series-b-led-by-ebrd-venture-capital-as-global-employment-and-fintech-converge-302777193.html — Primary press release confirming 500 Global participated in RemotePass's $17.4M Series B on May 20, 2026, led by EBRD Venture Capital with Oraseya Capital, 212 VC, Access Bridge Ventures, and Khwarizmi Ventures. Includes Amjad Ahmad (Managing Partner, 500 Global) quote.
+
+[^35]: Tech.eu, "RemotePass raises $17.4M to scale global payroll and hiring platform," May 20, 2026. Accessed May 2026. https://tech.eu/2026/05/20/remotepass-raises-174m-to-scale-global-payroll-and-hiring-platform/ — Independent press confirmation of $17.4M Series B, EBRD Venture Capital lead, and 500 Global participation.

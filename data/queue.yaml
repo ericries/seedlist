@@ -24476,3 +24476,9 @@ queue:
   added: '2026-03-17'
   discovered_from: remotepass
   source: co-investor on RemotePass $17.4M Series B (2026-05-20)
+- name: VoLo Earth Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: texture
