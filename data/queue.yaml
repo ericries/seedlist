@@ -24387,3 +24387,21 @@ queue:
   added: '2026-03-17'
   discovered_from: bunch
   source: Co-investor on bunch €30.1M Series B (2026-05-19)
+- name: Sofina
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: primer
+- name: Gideon Strategic Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: radar
+- name: Nimble Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: radar

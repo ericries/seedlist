@@ -224,6 +224,8 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Rapido | Growth Primary ($240M, participated; led by Prosus) | 2026-05-15 | Mobility / Ride-hailing / India | [^70][^71] |
 | Forus | Growth ($160M, participated; Thrive Capital led at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | [^72] |
 | Sprouts.ai | Pre-Series A (co-led with True Global Ventures, $9M) | 2026-05-15 | AI / Sales / B2B Revenue Agents | [^73][^74] |
+| Viktor | Series A (led, €64.7M) | 2026-05-20 | AI / Enterprise / Workplace | [^75][^76] |
+| Primer | Series A (led, £14M); Series C participated ($100M, Sofina-led) | 2020-11-29; 2026-05-20 | Fintech / Payments Infrastructure | [^77][^78] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -358,3 +360,11 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^73]: PR Newswire, "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises," May 15, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/sproutsai-raises-9m-pre-series-a-led-by-true-global-ventures-and-accel-to-scale-revenue-agents-with-differentiated-data-for-b2b-enterprises-302772512.html — Confirms $9M Pre-Series A on May 15, 2026 co-led by True Global Ventures and Accel; brings total funding to $14M. Palo Alto-based.
 
 [^74]: Pulse2, "Sprouts.ai: $9 Million Pre-Series A Raised To Scale AI Revenue Agents For B2B Enterprises," May 15, 2026. Accessed May 2026. https://pulse2.com/sprouts-ai-9-million-pre-series-a-raised-to-scale-ai-revenue-agents-for-b2b-enterprises/amp/ — Independent confirmation of Sprouts.ai $9M Pre-Series A co-led by TGV and Accel on May 15, 2026.
+
+[^75]: Fortune, "Exclusive: AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams," May 19, 2026. Accessed May 2026. https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive/ — Confirms Accel led Viktor's €64.7M ($75M) Series A on May 20, 2026; Bek Ventures, Kaya VC, Inovo VC, Tenacity Capital participated alongside angel investors including Stewart Butterfield, Cal Henderson, Guillermo Rauch, Victor Riparbelli, Alex Bouaziz.
+
+[^76]: Wilson Sonsini, "Firm Advises Viktor on $75 Million Series A," May 2026. Accessed May 2026. https://www.wsgr.com/en/insights/firm-advises-viktor-on-dollar75-million-series-a.html — Outside counsel confirmation of Accel-led Series A.
+
+[^77]: TechCrunch, "Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A," November 29, 2020. Accessed May 2026. https://techcrunch.com/2020/11/29/primed-for-accel/ — Confirms Accel led Primer's £14M Series A on November 29, 2020 with Balderton Capital, Seedcamp, and Speedinvest participating.
+
+[^78]: Sifted, "Balderton-backed payments startup Primer raises $100m Series C," May 2026. Accessed May 2026. https://sifted.eu/articles/primer-raises-100m-series-c — Confirms Accel participated in Primer's $100M Series C on May 20, 2026 led by Sofina; Peak XV Partners, Balderton, ICONIQ, Tencent, Speedinvest also participated. Total funding $170M.
