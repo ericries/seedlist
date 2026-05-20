@@ -11,3 +11,19 @@ priority:
   type: startup
   reason: "new Pre-Seed profile created (2026-05-19)"
   added: 2026-05-19
+- slug: accel
+  type: firm
+  reason: "led Viktor €64.7M Series A (2026-05-20); led Primer Series A 2020-11-29 + participated Series C 2026-05-20"
+  added: 2026-05-20
+- slug: sofina
+  type: firm
+  reason: "led Primer $100M Series C (2026-05-20) — may need new profile"
+  added: 2026-05-20
+- slug: gideon-strategic-partners
+  type: firm
+  reason: "co-led RADAR $170M Series B (2026-05-20) — may need new profile"
+  added: 2026-05-20
+- slug: nimble-partners
+  type: firm
+  reason: "co-led RADAR $170M Series B (2026-05-20) — may need new profile"
+  added: 2026-05-20
