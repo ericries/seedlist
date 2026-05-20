@@ -28,7 +28,7 @@ pending_rounds:
   parsed_company: Brookfield Office Properties
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
 - title: AI coworker startup Viktor raises €64.7 million Series A after hitting €12.9
     million revenue run rate within 10 weeks of launch
   url: https://www.eu-startups.com/2026/05/ai-coworker-startup-viktor-raises-e64-7-million-series-a-after-hitting-e12-9-million-revenue-run-rate-within-10-weeks-of-launch/
@@ -37,7 +37,7 @@ pending_rounds:
   parsed_company: AI coworker startup Viktor
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Zurich-based AVIAN raises €2.2 million to prevent industrial fires with always-on
     AI thermal monitoring
   url: https://www.eu-startups.com/2026/05/zurich-based-avian-raises-e2-2-million-to-prevent-industrial-fires-with-always-on-ai-thermal-monitoring/
@@ -46,7 +46,7 @@ pending_rounds:
   parsed_company: Zurich-based AVIAN
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
 - title: Qurie secures €2.2 million to develop cost-effective refrigeration systems
     without compressors or refrigerants
   url: https://www.eu-startups.com/2026/05/freiburgs-qurie-secures-e2-2-million-to-develop-economically-viable-refrigeration-systems-without-compressors-or-refrigerants/
@@ -54,6 +54,160 @@ pending_rounds:
   date_found: '2026-05-20'
   parsed_company: Qurie
   parsed_amount: null
+  parsed_round: null
+  status: processed
+- title: NanoClaw creator turns down $20M buyout offer, raises $12M seed instead
+  url: https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/
+  source: techcrunch
+  date_found: '2026-05-20'
+  parsed_company: NanoClaw creator turns down $20M buyout offer,
+  parsed_amount: $20M
+  parsed_round: Seed
+  status: pending
+- title: Embodied AI Fuels Record Robotics Funding In China As IPO Momentum Builds
+  url: https://news.crunchbase.com/robotics/embodied-ai-fuels-record-funding-china-ipo-momentum-builds/
+  source: crunchbase
+  date_found: '2026-05-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Prelude raises €17.2 million Series A to scale its onboarding
+    and trust infrastructure platform
+  url: https://www.eu-startups.com/2026/05/paris-based-prelude-raises-e17-2-million-series-a-to-scale-its-onboarding-and-trust-infrastructure-platform/
+  source: eu-startups
+  date_found: '2026-05-20'
+  parsed_company: Paris-based Prelude
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: UK payments startup Primer raises €86.2 million Series C to expand AI capabilities
+    and accelerate US growth
+  url: https://www.eu-startups.com/2026/05/uk-payments-startup-primer-raises-e86-2-million-series-c-to-expand-ai-capabilities-and-accelerate-us-growth/
+  source: eu-startups
+  date_found: '2026-05-20'
+  parsed_company: UK payments startup Primer
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Radar raised $170M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Radar
+  parsed_amount: $170M
+  parsed_round: Series B
+  status: pending
+- title: an NYC-based maker of health care AI agents raised $145M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: an NYC-based maker of health care AI agents
+  parsed_amount: $145M
+  parsed_round: null
+  status: pending
+- title: Ocean raised $28M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Ocean
+  parsed_amount: $28M
+  parsed_round: null
+  status: pending
+- title: RemotePass raised $17.4M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: RemotePass
+  parsed_amount: $17.4M
+  parsed_round: Series B
+  status: pending
+- title: Status AI raised $17M combined seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Status AI
+  parsed_amount: $17M
+  parsed_round: Combined Seed And Series A
+  status: pending
+- title: Texture raised $12.5M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Texture
+  parsed_amount: $12.5M
+  parsed_round: Series A
+  status: pending
+- title: Tribal raised $10M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Tribal
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: pending
+- title: Century Health raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Century Health
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Stilta raised $10.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Stilta
+  parsed_amount: $10.5M
+  parsed_round: Seed
+  status: pending
+- title: Infrawatch raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Infrawatch
+  parsed_amount: $3M
+  parsed_round: null
+  status: pending
+- title: Lincoln International raised $421M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Lincoln International
+  parsed_amount: $421M
+  parsed_round: null
+  status: pending
+- title: a Montreal-based biopharma AI company that had raised $13.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: a Montreal-based biopharma AI company that had
+  parsed_amount: $13.5M
+  parsed_round: null
+  status: pending
+- title: Mach Industries raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Mach Industries
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Shamrock Capital raised $813M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Shamrock Capital
+  parsed_amount: $813M
+  parsed_round: null
+  status: pending
+- title: Stellus Capital Management raised $1.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Stellus Capital Management
+  parsed_amount: $1.5B
   parsed_round: null
   status: pending
 - title: Munich’s Feldwerke secures €12 million revolving credit facility to build
@@ -154,7 +308,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: All notable rounds (Nourish, Moment, Ocean Security, Eisen) already shipped; smaller rounds skipped.
 - title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
     for notaries and law firms
   url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
@@ -873,206 +1028,3 @@ pending_rounds:
   processed: '2026-05-14'
   notes: created iceotope.md ($26M Series B 2026-05-14 co-led by Two Seas Capital
     and Barclays Climate Ventures; Sheffield UK liquid cooling)
-- title: GovWell raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: GovWell
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-14'
-  notes: created govwell.md ($25M Series A 2026-05-14 Insight Partners-led with Work-Bench,
-    Bienville Capital; AI for local government)
-- title: Anomaly Insights raised $17M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Anomaly Insights
-  parsed_amount: $17M
-  parsed_round: null
-  status: skipped
-  skip_reason: no primary press found beyond Axios listing per "when in doubt, leave
-    it out"
-- title: Outmarket AI raised $17M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Outmarket AI
-  parsed_amount: $17M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: already shipped 2026-05-13 as outmarket-ai.md ($17M Series A Permanent
-    Capital Ventures-led)
-- title: Synthetic raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Synthetic
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: no primary press found beyond Axios listing per "when in doubt, leave
-    it out"
-- title: Furientis raised $5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Furientis
-  parsed_amount: $5M
-  parsed_round: null
-  status: skipped
-  skip_reason: no primary press found beyond Axios listing per "when in doubt, leave
-    it out"
-- title: Zerops raised $2M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Zerops
-  parsed_amount: $2M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: already shipped 2026-05-14 as zerops.md (€1.7M / $2M Seed Gi21 Capital-led)
-- title: Blackstone Digital Infrastructure Trust raised $1.75B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Blackstone Digital Infrastructure Trust
-  parsed_amount: $1.75B
-  parsed_round: null
-  status: skipped
-  skip_reason: infrastructure trust, not a startup VC round
-- title: EagleRock Land raised $320M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: EagleRock Land
-  parsed_amount: $320M
-  parsed_round: null
-  status: skipped
-  skip_reason: land/real estate, not a startup round
-- title: GSR V Acquisition Corp. raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: GSR V Acquisition Corp.
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC vehicle, not a startup round
-- title: M33 raised $780M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: M33
-  parsed_amount: $780M
-  parsed_round: null
-  status: skipped
-  skip_reason: VC fund (Boldstart Ventures predecessor or similar), not a startup
-    round
-- title: u003eM33 raised $780M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: u003eM33
-  parsed_amount: $780M
-  parsed_round: null
-  status: skipped
-  skip_reason: duplicate parsing artifact of M33 listing above
-- title: 'AI for the workers it can’t replace: Italy’s Gyver raises €1.4 million to
-    empower electricians'
-  url: https://www.eu-startups.com/2026/05/ai-for-the-workers-it-cant-replace-italys-gyver-raises-e1-4-million-to-empower-electricians/
-  source: eu-startups
-  date_found: '2026-05-13'
-  parsed_company: 'AI for the workers it can’t replace: Italy’s Gyver'
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: already shipped today as gyver.md (€1.4M Pre-Seed 2026-05-13 Brighteye-led)
-- title: Bucharest’s DesignVerse raises over €4.6 million Seed funding after supporting
-    EUROCONTROL software upgrade
-  url: https://www.eu-startups.com/2026/05/bucharest-based-designverse-raises-over-e4-6-million-seed-funding-after-supporting-eurocontrol-software-upgrade/
-  source: eu-startups
-  date_found: '2026-05-13'
-  parsed_company: Bucharest’s DesignVerse
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-13'
-  slug: designverse
-  notes: created designverse.md (€4.6M / $5.5M Seed 2026-05-13; Begin Capital, Gapminder
-    VC, Underline Ventures + Adobe/LSEG/UiPath angels; modernized EUROCONTROL legacy
-    software)
-- title: Anduril raises $5B, doubles valuation to $61B
-  url: https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/
-  source: techcrunch
-  date_found: '2026-05-13'
-  parsed_company: Anduril
-  parsed_amount: $5B
-  parsed_round: null
-  status: processed
-  processed: '2026-05-13'
-  slug: anduril-industries
-  notes: updated anduril-industries.md ($5B Series H 2026-05-13 co-led by Thrive Capital
-    and Andreessen Horowitz at $61B val; corrected from prior rumored Mar 2026 $4B
-    entry)
-- title: 'Exclusive: Physician-Founded Saile Raises $2.2M To Help Doctors Find Side
-    Jobs Using AI'
-  url: https://news.crunchbase.com/health-wellness-biotech/saile-doctors-side-jobs-central-platform-credentials/
-  source: crunchbase
-  date_found: '2026-05-13'
-  parsed_company: Physician-Founded Saile
-  parsed_amount: $2.2M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-13'
-  slug: saile
-  notes: created saile.md ($2.2M Pre-Seed 2026-05-13 led by Matchstick Ventures with
-    Headwater Ventures; NYC physician credentialing/shift marketplace; founders Marc
-    Ayoub + Taylor Hakes)
-- title: 'Sector Snapshot: Agtech Startups Face A Drier Funding Climate'
-  url: https://news.crunchbase.com/agtech-foodtech/startup-vc-funding-ai-automation-data/
-  source: crunchbase
-  date_found: '2026-05-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: sector roundup/trend article, not a specific round
-- title: The April 2026 US Venture Capital Funding Report
-  url: https://alleywatch.com/2026/05/us-venture-capital-statistics-april-2026/
-  source: alleywatch
-  date_found: '2026-05-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: monthly VC statistics report, not a specific round
-- title: France’s Mantle8 raises €31 million to fund the world’s most advanced natural
-    hydrogen exploration and drilling campaign
-  url: https://www.eu-startups.com/2026/05/frances-mantle8-raises-e31-million-to-fund-the-worlds-most-advanced-natural-hydrogen-exploration-and-drilling-campaign/
-  source: eu-startups
-  date_found: '2026-05-13'
-  parsed_company: France’s Mantle8
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-13'
-  slug: mantle8
-  notes: created mantle8.md (€31M Series A 2026-05-13 led by Sandwater; Breakthrough
-    Energy Ventures, Ecotechnologies 2, IP Group, Wind Capital, Calderion participated;
-    Grenoble natural hydrogen)
-- title: Barcelona’s Dolfin raises €2.1 million Seed round to scale its AI-native
-    platform for sales compensation
-  url: https://www.eu-startups.com/2026/05/barcelonas-dolfin-raises-e2-1-million-seed-round-to-scale-its-ai-native-platform-for-sales-compensation/
-  source: eu-startups
-  date_found: '2026-05-13'
-  parsed_company: Barcelona’s Dolfin
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-13'
-  slug: dolfin
-  notes: created dolfin.md (€2.1M Seed 2026-05-13 led by Swanlaab with Archipelago
-    Next, Inveready, Dozen; founders Daniel Seror + Antoni Bardina; Barcelona AI sales
-    compensation)
