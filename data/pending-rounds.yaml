@@ -309,7 +309,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: All notable rounds (Nourish, Moment, Ocean Security, Eisen) already shipped; smaller rounds skipped.
+  notes: All notable rounds (Nourish, Moment, Ocean Security, Eisen) already shipped;
+    smaller rounds skipped.
 - title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
     for notaries and law firms
   url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
