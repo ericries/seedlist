@@ -29,6 +29,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: AI coworker startup Viktor raises €64.7 million Series A after hitting €12.9
+    million revenue run rate within 10 weeks of launch
+  url: https://www.eu-startups.com/2026/05/ai-coworker-startup-viktor-raises-e64-7-million-series-a-after-hitting-e12-9-million-revenue-run-rate-within-10-weeks-of-launch/
+  source: eu-startups
+  date_found: '2026-05-20'
+  parsed_company: AI coworker startup Viktor
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Zurich-based AVIAN raises €2.2 million to prevent industrial fires with always-on
+    AI thermal monitoring
+  url: https://www.eu-startups.com/2026/05/zurich-based-avian-raises-e2-2-million-to-prevent-industrial-fires-with-always-on-ai-thermal-monitoring/
+  source: eu-startups
+  date_found: '2026-05-20'
+  parsed_company: Zurich-based AVIAN
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Qurie secures €2.2 million to develop cost-effective refrigeration systems
+    without compressors or refrigerants
+  url: https://www.eu-startups.com/2026/05/freiburgs-qurie-secures-e2-2-million-to-develop-economically-viable-refrigeration-systems-without-compressors-or-refrigerants/
+  source: eu-startups
+  date_found: '2026-05-20'
+  parsed_company: Qurie
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich’s Feldwerke secures €12 million revolving credit facility to build
     100 MW agri-PV portfolio in 18 months
   url: https://www.eu-startups.com/2026/05/munichs-feldwerke-secures-e12-million-revolving-credit-facility-to-build-100-mw-agri-pv-portfolio-in-18-months/
@@ -1049,40 +1076,3 @@ pending_rounds:
   notes: created dolfin.md (€2.1M Seed 2026-05-13 led by Swanlaab with Archipelago
     Next, Inveready, Dozen; founders Daniel Seror + Antoni Bardina; Barcelona AI sales
     compensation)
-- title: Rivian spinoff Mind Robotics raises another $400M
-  url: https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/
-  source: techcrunch
-  date_found: '2026-05-13'
-  parsed_company: Rivian spinoff Mind Robotics
-  parsed_amount: $400M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-13'
-  slug: mind-robotics
-  notes: created mind-robotics.md ($400M Growth 2026-05-13 led by Kleiner Perkins
-    with Volkswagen and Salesforce Ventures; >$3B valuation; Rivian spinoff industrial
-    robotics; RJ Scaringe chairman); updated kleiner-perkins.md portfolio
-- title: Origin Lab raises $8M to help video game companies sell data to world-model
-    builders
-  url: https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/
-  source: techcrunch
-  date_found: '2026-05-13'
-  parsed_company: Origin Lab
-  parsed_amount: $8M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-13'
-  slug: origin-lab
-  notes: created origin-lab.md ($8M Seed 2026-05-13 led by Lightspeed Ventures; SV
-    Angel, Eniac, Seven Stars, FPV + angels Kevin Lin and Kyle Vogt; video game data
-    marketplace for AI world models)
-- title: Anduril Raises Another $5B As Defense Tech Startups Shatter Funding Records
-  url: https://news.crunchbase.com/defense-tech/anduril-5b-valuation-vc-funding-record-data/
-  source: crunchbase
-  date_found: '2026-05-13'
-  parsed_company: Anduril
-  parsed_amount: $5B
-  parsed_round: null
-  status: skipped
-  skip_reason: already shipped 2026-05-13 as anduril-industries.md update ($5B Series
-    H, Thrive+a16z co-led at $61B val)
