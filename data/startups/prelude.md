@@ -16,7 +16,7 @@ sector:
 - ai
 - enterprise-software
 stage_latest: Series A
-total_raised: $27M
+total_raised: €24.8M
 investors: []
 firms: []
 founders:
@@ -30,7 +30,7 @@ status: published
 
 ## About
 
-Prelude is a Paris-based onboarding and trust infrastructure platform that helps companies verify and protect users across their lifecycle by combining telecom data, behavioural signals, and machine learning to enable continuous trust decisions that improve conversion while reducing fraud [^1][^2]. Founded in 2023 by Matias Berny and Quentin Le Bras, the company reports 6x year-over-year revenue and customer growth and now works with one of the largest global social media platforms as well as Suno, BeReal, Sunday, and Voodoo [^1][^2]. The €17.2 million Series A announced on May 20, 2026 brings total funding to $27 million and will fund expansion from phone verification into a full-stack trust platform including new Auth API and Intel API products [^1][^2].
+Prelude is a Paris-based onboarding and trust infrastructure platform that helps companies verify and protect users across their lifecycle by combining telecom data, behavioural signals, and machine learning to enable continuous trust decisions that improve conversion while reducing fraud [^1][^2]. Founded in 2023 by Matias Berny and Quentin Le Bras, the company reports 6x year-over-year revenue and customer growth and now works with one of the largest global social media platforms as well as Suno, BeReal, Sunday, and Voodoo [^1][^2]. The €17.2 million Series A announced on May 20, 2026 brings total funding to €24.8 million and will fund expansion from phone verification into a full-stack trust platform including new Auth API and Intel API products [^1][^2].
 
 ## Funding History
 
