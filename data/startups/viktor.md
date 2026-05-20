@@ -39,13 +39,13 @@ status: published
 
 ## About
 
-Viktor is a Rotterdam-based AI startup building an AI coworker that lives inside Slack and Microsoft Teams, founded by former Meta engineers [^1][^2]. The company launched publicly in February 2026 and within 10 weeks reached a €12.9 million ($15 million) revenue run rate, with usage across more than 2,000 organisations globally [^1][^3]. On May 19, 2026, Viktor announced a €64.7 million ($75 million) Series A led by Accel, with participation from Bek Ventures, Kaya VC, Inovo VC, and Tenacity Capital, plus angels including Slack co-founders Stewart Butterfield and Cal Henderson, Vercel CEO Guillermo Rauch, Synthesia CEO Victor Riparbelli, Framer co-founders Koen Bok and Jorn van Dijk, Deel CEO Alex Bouaziz, Lenny Rachitsky, Harry Stebbings, and executives from DeepMind, Figma, and Lovable [^1][^2][^3][^4].
+Viktor is a Rotterdam-based AI startup building an AI coworker that lives inside Slack and Microsoft Teams, founded by former Meta engineers [^1][^2]. The company launched publicly in February 2026 and within 10 weeks reached a €12.9 million revenue run rate, with usage across more than 2,000 organisations globally [^1][^3]. On May 19, 2026, Viktor announced a €64.7 million Series A led by Accel, with participation from Bek Ventures, Kaya VC, Inovo VC, and Tenacity Capital, plus angels including Slack co-founders Stewart Butterfield and Cal Henderson, Vercel CEO Guillermo Rauch, Synthesia CEO Victor Riparbelli, Framer co-founders Koen Bok and Jorn van Dijk, Deel CEO Alex Bouaziz, Lenny Rachitsky, Harry Stebbings, and executives from DeepMind, Figma, and Lovable [^1][^2][^3][^4].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-19 | Series A | €64.7M ($75M) | Accel | Bek Ventures, Kaya VC, Inovo VC, Tenacity Capital, Stewart Butterfield, Cal Henderson, Guillermo Rauch, Victor Riparbelli, Koen Bok, Jorn van Dijk, Alex Bouaziz, Lenny Rachitsky, Harry Stebbings [^1][^2][^3][^4] |
+| 2026-05-19 | Series A | €64.7M | Accel | Bek Ventures, Kaya VC, Inovo VC, Tenacity Capital, Stewart Butterfield, Cal Henderson, Guillermo Rauch, Victor Riparbelli, Koen Bok, Jorn van Dijk, Alex Bouaziz, Lenny Rachitsky, Harry Stebbings [^1][^2][^3][^4] |
 
 ## What Investors Say
 

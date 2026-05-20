@@ -28,13 +28,13 @@ status: published
 
 ## About
 
-AVIAN is a Zurich-based industrial AI company that deploys always-on thermal cameras and AI vision software to detect fire risk at paper, wood, recycling, food, and gas facilities — continuously monitoring the components that most often become ignition points (motors, bearings, conveyors, presses, electrical cabinets) and learning what "normal" looks like at each specific plant [^1][^2][^3]. Founded in 2023 by Drew Hanover and Thomas Laengle, the company was profitable and entirely bootstrapped for two years before raising capital, and is on track to surpass $1 million in ARR in 2026 while operating at roughly 50 sites across 9 countries [^1][^2][^3]. On May 20, 2026, AVIAN announced a $2.6 million (CHF ~2M / €2.2M) pre-seed round led by Founderful, which will fund expansion of engineering and deployment capacity and growth beyond wood products into recycling, chemical processing, oil and gas, and maritime [^1][^2][^3].
+AVIAN is a Zurich-based industrial AI company that deploys always-on thermal cameras and AI vision software to detect fire risk at paper, wood, recycling, food, and gas facilities — continuously monitoring the components that most often become ignition points (motors, bearings, conveyors, presses, electrical cabinets) and learning what "normal" looks like at each specific plant [^1][^2][^3]. Founded in 2023 by Drew Hanover and Thomas Laengle, the company was profitable and entirely bootstrapped for two years before raising capital, and is on track to surpass $1 million in ARR in 2026 while operating at roughly 50 sites across 9 countries [^1][^2][^3]. On May 20, 2026, AVIAN announced a $2.6 million pre-seed round led by Founderful, which will fund expansion of engineering and deployment capacity and growth beyond wood products into recycling, chemical processing, oil and gas, and maritime [^1][^2][^3].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-20 | Pre-Seed | $2.6M (~CHF 2M / €2.2M) | Founderful | [^1][^2][^3] |
+| 2026-05-20 | Pre-Seed | $2.6M | Founderful | [^1][^2][^3] |
 
 ## What Investors Say
 
