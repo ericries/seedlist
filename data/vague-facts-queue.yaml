@@ -908,7 +908,8 @@ vague_facts:
   priority: high
   profile: firms/a-star-capital
   profile_name: A*
-  resolution: 'Resolved 2026-05-21: Series A on 2024-09-18, $32M led by Benchmark, $250M valuation. Sources: techstartups.com.'
+  resolution: 'Resolved 2026-05-21: Series A on 2024-09-18, $32M led by Benchmark,
+    $250M valuation. Sources: techstartups.com.'
   section: Portfolio
   status: resolved
   type: unknown_value
@@ -30591,10 +30592,10 @@ vague_facts:
   status: unresolvable
   type: unknown_value
   value: '[^9]'
-  resolution: 'Tracxn-listed entry but cannot confirm Abstract Ventures was a participant
+  resolution: Tracxn-listed entry but cannot confirm Abstract Ventures was a participant
     in any Legora round via primary sources. Legora seed (May 2024) named YC, Hummingbird
     and SV Angel; Series B/C/D had different leads. Recommend removing Legora from
-    Davidov portfolio table until primary source confirms.'
+    Davidov portfolio table until primary source confirms.
 - column: 4
   company: Ethereum
   line: '| Ethereum | ~2013 | Seed | L1 Protocol | [^1] |'
@@ -139094,9 +139095,13 @@ vague_facts:
   profile: startups/rippling
   profile_name: Rippling
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-21'
+  resolution_note: 'Rippling Mar 2017 Seed $7M: valuation not publicly disclosed per
+    CNBC/Initialized Capital announcements; Initialized Capital + Hydrazine Capital
+    co-led with Y Combinator. "--" valuation is accurate (undisclosed).'
 - column: 3
   company: Apr 2019
   line: '| Apr 2019 | Series A | $45M | -- | Kleiner Perkins (Mamoon Hamid) | Initialized
@@ -139105,9 +139110,12 @@ vague_facts:
   profile: startups/rippling
   profile_name: Rippling
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-21'
+  resolution_note: 'Rippling Apr 2019 Series A: $45M at $270M post-money per Techmeme/TechCrunch;
+    Kleiner Perkins led (Mamoon Hamid).'
 - column: 3
   company: Aug 2020
   line: '| Aug 2020 | Series B | $145M | -- | Founders Fund | Greenoaks Capital, Coatue
@@ -139116,9 +139124,12 @@ vague_facts:
   profile: startups/rippling
   profile_name: Rippling
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: --
+  resolved: '2026-05-21'
+  resolution_note: 'Rippling Aug 2020 Series B: $145M at $1.35B post-money per Crunchbase
+    News; Founders Fund led, Rippling reached unicorn status.'
 - column: 5
   company: Seed
   line: '| Seed | Dec 2013 | $3M | Index Ventures | Andreessen Horowitz, Google Ventures,
