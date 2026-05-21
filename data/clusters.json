@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 22,
+      "size": 23,
       "members": [
         {
           "slug": "angela-tran",
@@ -8128,7 +8128,8 @@
           "slug": "david-hirsch",
           "name": "David Hirsch",
           "firm": "compound-ventures"
-        }
+        },
+        "ben-kohlmann"
       ]
     },
     {
@@ -9225,7 +9226,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 50,
+      "size": 51,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9461,7 +9462,8 @@
         },
         {
           "slug": "george-ruan"
-        }
+        },
+        "ben-kohlmann"
       ]
     },
     {
@@ -11325,7 +11327,7 @@
       "name": "The Beltway Disruptors",
       "tagline": "DC-based investors who bet that the most regulated industries are the most ripe for disruption \u2014 defense, healthcare, govtech, and national security.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "grant-verstandig",
@@ -11374,7 +11376,8 @@
         },
         {
           "slug": "mike-rosengarten"
-        }
+        },
+        "ben-kohlmann"
       ]
     },
     {
@@ -11555,7 +11558,7 @@
       "name": "The Defense Tech Vanguard",
       "tagline": "They bet on Anduril before it was cool \u2014 investors who saw defense tech as venture-scale before the geopolitical shift made it obvious.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "palmer-luckey",
@@ -11616,7 +11619,8 @@
           "slug": "eric-schmidt",
           "name": "Eric Schmidt",
           "firm": "innovation-endeavors"
-        }
+        },
+        "ben-kohlmann"
       ]
     },
     {
