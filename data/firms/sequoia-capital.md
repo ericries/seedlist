@@ -232,6 +232,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Turnkey | Strategic ($12.5M, participated; co-led by Archetype and Circle Ventures) | 2026-05-14 | Crypto / Wallet Infrastructure | Private [^69][^70] |
 | Ricursive Intelligence | Seed (participated); Series A (participated) | 2025-12 / 2026-01-26 | AI / Semiconductor Design | Private [^66][^67][^68] |
 | Dust | Series B (co-led with Abstract, $40M) | 2026-05-18 | AI / Enterprise / Agentic | Private [^71][^72] |
+| Mercury | Series C (led, $300M at $3.5B val) → Series D (participated, $200M at $5.2B val; TCV led) | 2025-03-26; 2026-05-20 | Fintech / Digital Banking | Private [^73] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -441,3 +442,5 @@ The following table includes Sequoia Capital investments verified through the fi
 [^71]: Tech.eu, "Dust raises $40M Series B to build the 'multiplayer' operating system for enterprise AI," May 18, 2026. Accessed May 2026. https://tech.eu/2026/05/18/dust-raises-40m-series-b-to-build-the-multiplayer-operating-system-for-enterprise-ai/ — Confirms Sequoia Capital co-led Dust's $40M Series B with Abstract on May 18, 2026; Snowflake Ventures and Datadog participated.
 
 [^72]: Tech Funding News, "Sequoia backs Paris AI startup Dust with $40M to fix the enterprise AI productivity gap," May 18, 2026. Accessed May 2026. https://techfundingnews.com/dust-40m-series-b-collaborai-ai-enterprise-workspaces-sequoia/ — Cross-references Sequoia + Abstract co-leading Paris-based Dust's $40M Series B; 3,000+ organizations with 300,000+ AI agents deployed.
+
+[^73]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Sequoia Capital participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C, which Sequoia led per TechCrunch https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/). TCV led; a16z, Coatue, CRV, Sapphire Ventures, and Spark Capital also participated.

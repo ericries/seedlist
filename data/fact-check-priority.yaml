@@ -1,13 +1,1 @@
-priority:
-- slug: andreessen-horowitz
-  type: firm
-  reason: "participated in Mercury $200M Series D (2026-05-20)"
-  added: 2026-05-21
-- slug: sequoia-capital
-  type: firm
-  reason: "participated in Mercury $200M Series D (2026-05-20)"
-  added: 2026-05-21
-- slug: coatue-management
-  type: firm
-  reason: "participated in Mercury $200M Series D (2026-05-20)"
-  added: 2026-05-21
+priority: []

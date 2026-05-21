@@ -186,6 +186,7 @@ The following table includes Coatue investments verified through the firm's port
 | Step | Series B (Led) | 2020 | Fintech / Teen Banking | Private [^38] |
 | Spotify | Growth (Public) | ~2018 | Consumer / Music | Public [^5] |
 | Silverflow | Series B (participated) | 2026-03-05 | Fintech / Payments | Private [^40][^54] |
+| Mercury | Series D (participated, $200M at $5.2B val; TCV led) | 2026-05-20 | Fintech / Digital Banking | Private [^55] |
 
 *Note: This table includes 36 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
 
@@ -334,3 +335,5 @@ No independently sourced negative or critical founder testimonials were found in
 [^53]: Euronews, "OpenAI secures $300bn valuation in funding round led by SoftBank," April 1, 2025, accessed May 2026. https://www.euronews.com/business/2025/04/01/openai-secures-300bn-valuation-in-funding-round-led-by-softbank — Independent confirmation that Coatue participated alongside Microsoft, Altimeter, and Thrive at $300B valuation. Cross-referenced with TechCrunch, "OpenAI will reportedly close its SoftBank-led $40 billion round soon," March 26, 2025. https://techcrunch.com/2025/03/26/openai-will-reportedly-close-its-softbank-led-40-billion-round-soon/ — pre-announcement reporting also names Coatue Management, Magnetar Capital, Founders Fund, and Altimeter Capital as committed co-investors.
 
 [^54]: Silverflow blog, "Silverflow Closes $40 Million Series B as It Nears One Billion Transactions Annually," March 5, 2026. Accessed May 2026. https://www.silverflow.com/blog/silverflow-closes-usd40-million-series-b — Amsterdam-based Silverflow's €37M ($40M) Series B announced March 5, 2026, led by Picus Capital with participation from Coatue (existing investor), Rabo Ventures, Inkef, Global PayTech Ventures, and Crane Venture Partners. Cross-referenced with Tech.eu, "Silverflow raises $40M Series B to expand cloud-native payments platform," March 5, 2026. https://tech.eu/2026/03/05/silverflow-raises-40m-series-b-to-expand-cloud-native-payments-platform/
+
+[^55]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Coatue participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C); TCV led; existing investors a16z, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital also participated.
