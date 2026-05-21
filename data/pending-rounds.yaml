@@ -31,6 +31,49 @@ pending_rounds:
   processed: '2026-05-21'
   slug: imperagen
   notes: already shipped as imperagen.md (£5M+ seed, Manchester UK enzyme engineering)
+- title: Hark raises $700M Series A for its secretive “universal” AI interface
+  url: https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/
+  source: techcrunch
+  date_found: '2026-05-21'
+  parsed_company: Hark
+  parsed_amount: $700M
+  parsed_round: Series A
+  status: pending
+- title: Munich-based ClearOps raises €8.6 million Series A to build AI operating
+    system for industrial after-sales
+  url: https://www.eu-startups.com/2026/05/munich-based-clearops-raises-e8-6-million-series-a-to-build-ai-operating-system-for-industrial-after-sales/
+  source: eu-startups
+  date_found: '2026-05-21'
+  parsed_company: Munich-based ClearOps
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Finnish SpaceTech company ICEYE secures €300 million revolving credit facility
+  url: https://www.eu-startups.com/2026/05/finnish-spacetech-company-iceye-secures-e300-million-revolving-credit-facility/
+  source: eu-startups
+  date_found: '2026-05-21'
+  parsed_company: Finnish SpaceTech company ICEYE
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Searchable raises €11.9 million at €72.1 million valuation to help
+    brands boost visibility across AI-led search
+  url: https://www.eu-startups.com/2026/05/londons-searchable-raises-e11-9-million-at-e72-1-million-valuation-to-help-brands-boost-visibility-across-ai-led-search/
+  source: eu-startups
+  date_found: '2026-05-21'
+  parsed_company: London’s Searchable
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Manchester Imperagen raises €5.8 million Seed to scale AI and quantum-powered
+    enzyme engineering
+  url: https://www.eu-startups.com/2026/05/manchester-imperagen-raises-e5-8-million-seed-to-scale-ai-and-quantum-powered-enzyme-engineering/
+  source: eu-startups
+  date_found: '2026-05-21'
+  parsed_company: Manchester Imperagen
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -179,7 +222,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: status-ai
-  notes: already shipped as status-ai.md ($17M Series A 2026-05-19 led by General Catalyst)
+  notes: already shipped as status-ai.md ($17M Series A 2026-05-19 led by General
+    Catalyst)
 - title: Texture raised $12.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -190,8 +234,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: texture
-  notes: already shipped as texture.md ($12.5M Series A 2026-05-20 co-led by VoLo Earth
-    Ventures and Equal Ventures with Lerer Hippeau and Abstract Ventures)
+  notes: already shipped as texture.md ($12.5M Series A 2026-05-20 co-led by VoLo
+    Earth Ventures and Equal Ventures with Lerer Hippeau and Abstract Ventures)
 - title: Tribal raised $10M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -202,8 +246,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: tribal
-  notes: already shipped as tribal.md ($10M Seed 2026-05-20 led by Team8 with DYDX Capital
-    and Salesforce ecosystem angels)
+  notes: already shipped as tribal.md ($10M Seed 2026-05-20 led by Team8 with DYDX
+    Capital and Salesforce ecosystem angels)
 - title: Century Health raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -215,9 +259,9 @@ pending_rounds:
   processed: '2026-05-21'
   slug: century-health
   notes: created century-health.md ($5M Seed 2026-05-19 led by Origin Ventures with
-    InnovateHealth Ventures, 25madison, Next Play Ventures, 2048 Ventures, Alumni Ventures,
-    angel Zorba Lieberman; NYC real-world evidence / clinical data AI; founder Vish
-    Srivastava)
+    InnovateHealth Ventures, 25madison, Next Play Ventures, 2048 Ventures, Alumni
+    Ventures, angel Zorba Lieberman; NYC real-world evidence / clinical data AI; founder
+    Vish Srivastava)
 - title: Stilta raised $10.5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -239,9 +283,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: infrawatch
-  notes: created infrawatch.md (£2.2M Pre-Seed 2026-05-20 co-led by Outward VC and Triple
-    Point Ventures with Portfolio Ventures and angels; London cybersecurity infrastructure
-    intelligence; founder Lloyd Davies)
+  notes: created infrawatch.md (£2.2M Pre-Seed 2026-05-20 co-led by Outward VC and
+    Triple Point Ventures with Portfolio Ventures and angels; London cybersecurity
+    infrastructure intelligence; founder Lloyd Davies)
 - title: Lincoln International raised $421M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -251,8 +295,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   processed: '2026-05-21'
-  skip_reason: investment bank / advisory firm minority equity transaction, not a startup
-    venture round
+  skip_reason: investment bank / advisory firm minority equity transaction, not a
+    startup venture round
 - title: a Montreal-based biopharma AI company that had raised $13.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1036,56 +1080,3 @@ pending_rounds:
   notes: created resurrect-bio.md ($10.3M Series A final close 2026-05-13 led by Corteva
     Agriscience; Calculus Capital, Pymwymic, UKI2S, SynBioVen, AgFunder participated;
     London AI plant disease resistance)
-- title: Wirestock raises $23M to supply creative multi-modal data to AI labs
-  url: https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/
-  source: techcrunch
-  date_found: '2026-05-14'
-  parsed_company: Wirestock
-  parsed_amount: $23M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-14'
-  slug: wirestock
-  notes: created wirestock.md ($23M Series A 2026-05-14 led by Nava Ventures with
-    SBVP, Formula VC, I2BF Ventures; Glendale CA multi-modal data for AI labs; Mikayel
-    Khachatryan CEO)
-- title: Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO
-    of 2026
-  url: https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/
-  source: techcrunch
-  date_found: '2026-05-14'
-  parsed_company: Cerebras
-  parsed_amount: $5.5B
-  parsed_round: null
-  status: skipped
-  skip_reason: IPO ($5.5B raise at $56.4B fully-diluted; AI chip company), not a startup
-    VC round
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/14/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-14-2026/
-  source: alleywatch
-  date_found: '2026-05-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-14'
-  notes: daily NYC aggregator; covered by individual round profiles for 2026-05-14
-- title: confirmed that it raised $650M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: confirmed that it
-  parsed_amount: $650M
-  parsed_round: null
-  status: skipped
-  skip_reason: unparseable Axios fragment
-- title: Fractile raised $220M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Fractile
-  parsed_amount: $220M
-  parsed_round: Series B
-  status: skipped
-  skip_reason: already shipped 2026-05-13 as fractile.md ($220M Series B Accel/Factorial
-    Funds/Founders Fund co-led)
