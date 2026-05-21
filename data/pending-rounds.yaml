@@ -38,7 +38,10 @@ pending_rounds:
   parsed_company: Hark
   parsed_amount: $700M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: hark
+  notes: shipped hark.md ($700M Series A led by Parkway Venture Capital at $6B val; Brett Adcock founder; multimodal AI + custom hardware)
 - title: Munich-based ClearOps raises €8.6 million Series A to build AI operating
     system for industrial after-sales
   url: https://www.eu-startups.com/2026/05/munich-based-clearops-raises-e8-6-million-series-a-to-build-ai-operating-system-for-industrial-after-sales/
@@ -47,7 +50,10 @@ pending_rounds:
   parsed_company: Munich-based ClearOps
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: clearops
+  notes: shipped clearops.md (€8.6M Series A led by Hitachi Ventures w/ Schoeller Group, Barkawi Group; Munich industrial after-sales AI OS)
 - title: Finnish SpaceTech company ICEYE secures €300 million revolving credit facility
   url: https://www.eu-startups.com/2026/05/finnish-spacetech-company-iceye-secures-e300-million-revolving-credit-facility/
   source: eu-startups
@@ -55,7 +61,8 @@ pending_rounds:
   parsed_company: Finnish SpaceTech company ICEYE
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: revolving credit facility (debt instrument), not a VC equity round
 - title: London’s Searchable raises €11.9 million at €72.1 million valuation to help
     brands boost visibility across AI-led search
   url: https://www.eu-startups.com/2026/05/londons-searchable-raises-e11-9-million-at-e72-1-million-valuation-to-help-brands-boost-visibility-across-ai-led-search/
@@ -64,7 +71,10 @@ pending_rounds:
   parsed_company: London’s Searchable
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: searchable
+  notes: duplicate of already-shipped searchable.md Series A (same $14M / €11.9M round led by Headline at $85M / €72.1M val, 2026-05-18)
 - title: Manchester Imperagen raises €5.8 million Seed to scale AI and quantum-powered
     enzyme engineering
   url: https://www.eu-startups.com/2026/05/manchester-imperagen-raises-e5-8-million-seed-to-scale-ai-and-quantum-powered-enzyme-engineering/
@@ -73,7 +83,10 @@ pending_rounds:
   parsed_company: Manchester Imperagen
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: imperagen
+  notes: duplicate of already-shipped imperagen.md (same Seed round, EU-Startups reports €5.8M vs TechCrunch £5M for same round)
 - title: Convective Capital raises an $85 million fund to build disaster resilience
   url: https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/
   source: techcrunch
@@ -81,7 +94,8 @@ pending_rounds:
   parsed_company: Convective Capital
   parsed_amount: $85M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: VC fund raise (LP commitments to Convective Capital fund), not a startup operating-company round
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html

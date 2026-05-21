@@ -267,6 +267,7 @@ The following table includes a16z investments verified through the firm's own po
 | Stitch (Saudi Arabia) | Series A (led; a16z's first GCC investment) | 2026-05-14 | Fintech / Core Banking Infrastructure | Private [^49] |
 | Stilta | Seed (led, $10.5M) | 2026-05-19 | AI / Legal Tech / IP | Private [^52] |
 | Mercury | Series D (participated, $200M at $5.2B val; TCV led) | 2026-05-20 | Fintech / Digital Banking | Private [^53] |
+| Exa Labs | Series C (led, $250M at $2.2B val) | 2026-05-20 | AI / Search Infrastructure | Private [^54] |
 
 *Note: This table includes 74 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -432,3 +433,5 @@ The following table includes a16z investments verified through the firm's own po
 [^52]: TechCrunch, "Legal tech Stilta announces $10M seed backed by YC and a16z months after launch," May 19, 2026. Accessed May 2026. https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/ — Confirms Andreessen Horowitz led Stilta's $10.5M Seed round on May 19, 2026, with Y Combinator and operator-investors from OpenAI, Legora, and Lovable participating. Stilta automates IP research with AI agents that search conflicting patents and compile filing/court histories.
 
 [^53]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Andreessen Horowitz participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C); TCV led; existing investors CRV, Sapphire Ventures, Sequoia Capital, Spark Capital, and Coatue also participated.
+
+[^54]: Exa Blog, "Exa Raises $250M Series C to Build the Search Engine for AIs," May 2026. Accessed May 2026. https://exa.ai/blog/announcing-series-c — Confirms Andreessen Horowitz led Exa Labs' $250M Series C on May 20, 2026 at $2.2B valuation. Cross-referenced with Bloomberg, "Andreessen-Backed AI Search Startup Exa Valued at $2.2 Billion," May 20, 2026. https://www.bloomberg.com/news/articles/2026-05-20/andreessen-backed-ai-search-startup-exa-valued-at-2-2-billion — Exa powers search for Cursor, Cognition, HubSpot, OpenRouter, Monday.com, and 400,000+ developers.

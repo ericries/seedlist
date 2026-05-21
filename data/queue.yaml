@@ -24625,3 +24625,67 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: ben-kohlmann
+- name: Parkway Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hark
+- name: Hitachi Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clearops
+  source: led ClearOps €8.6M Series A (2026-05-21)
+- name: Brett Adcock
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hark
+  discovered_from: hark
+  source: Founder & CEO of Hark; previously founded Figure and Archer Aviation; $700M
+    Series A 2026-05-21
+- name: Align Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hark
+  source: co-investor in Hark $700M Series A (2026-05-21)
+- name: Nvidia (NVentures)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hark
+  source: co-investor in Hark $700M Series A (2026-05-21)
+- name: Brookfield
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hark
+  source: co-investor in Hark $700M Series A (2026-05-21)
+- name: Tamarack Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hark
+  source: co-investor in Hark $700M Series A (2026-05-21)
+- name: Schoeller Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clearops
+  source: co-investor in ClearOps €8.6M Series A (2026-05-21)
+- name: Barkawi Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clearops
+  source: co-investor in ClearOps €8.6M Series A (2026-05-21)
