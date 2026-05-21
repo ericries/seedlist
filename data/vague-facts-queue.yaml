@@ -908,8 +908,9 @@ vague_facts:
   priority: high
   profile: firms/a-star-capital
   profile_name: A*
+  resolution: 'Resolved 2026-05-21: Series A on 2024-09-18, $32M led by Benchmark, $250M valuation. Sources: techstartups.com.'
   section: Portfolio
-  status: unresolvable
+  status: resolved
   type: unknown_value
   value: —
 - column: 4

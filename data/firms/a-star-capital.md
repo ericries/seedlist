@@ -86,7 +86,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Flock Safety | Series C | 2020 | Public Safety | Active [^20] |
 ~unknown| Krea | — | — | AI/Creative Tools | Active [^1] |
 ~unknown| Mach Industries | — | — | Defense/Drones | Active [^15] |
-| Mercor | Firm-level (undisclosed) | ~2024 | AI/HR Marketplace | Active [^12] |
+| Mercor | Series A (Benchmark led) | 2024-09-18 | AI/HR Marketplace | Active [^12][^31] |
 ~unknown| Multiply | — | — | AI/Fintech | Active [^15] |
 ~unknown| Fifteenth | — | — | AI/Tax | Active [^15] |
 | Notion | Series B+ | ~2021 | Productivity/SaaS | Active [^2] |
@@ -179,3 +179,5 @@ No independently sourced founder testimonials found. The firm's website does not
 [^29]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming $18M seed funding for Sauron home security per Washington Post.
 
 [^30]: Futurism, "Home Security Startup Sauron Secures Funding for All-Seeing Eye," December 12, 2024, accessed May 2026. https://futurism.com/the-byte/sauron-secures-funding — Contemporaneous press; confirms $18M raise, Palantir executive participation. CEO Kevin Hartz quoted on deterrence pods.
+
+[^31]: Tech Startups, "AI-powered hiring platform startup Mercor raises $30M in Series A funding led by Benchmark," September 18, 2024, accessed May 2026. https://techstartups.com/2024/09/18/ai-powered-hiring-platform-startup-mercor-raises-30m-in-series-a-funding-led-by-benchmark/ — Confirms Mercor's $32M Series A on September 18, 2024, led by Benchmark at $250M valuation; co-investors include Peter Thiel, Jack Dorsey, Adam D'Angelo, Larry Summers.
