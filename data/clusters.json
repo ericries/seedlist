@@ -8129,7 +8129,9 @@
           "name": "David Hirsch",
           "firm": "compound-ventures"
         },
-        "ben-kohlmann"
+        {
+          "slug": "ben-kohlmann"
+        }
       ]
     },
     {
@@ -9463,7 +9465,9 @@
         {
           "slug": "george-ruan"
         },
-        "ben-kohlmann"
+        {
+          "slug": "ben-kohlmann"
+        }
       ]
     },
     {
@@ -11377,7 +11381,9 @@
         {
           "slug": "mike-rosengarten"
         },
-        "ben-kohlmann"
+        {
+          "slug": "ben-kohlmann"
+        }
       ]
     },
     {
@@ -11620,7 +11626,9 @@
           "name": "Eric Schmidt",
           "firm": "innovation-endeavors"
         },
-        "ben-kohlmann"
+        {
+          "slug": "ben-kohlmann"
+        }
       ]
     },
     {
