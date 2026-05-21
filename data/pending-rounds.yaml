@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
+  url: https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/
+  source: techcrunch
+  date_found: '2026-05-21'
+  parsed_company: Imperagen
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -1050,14 +1058,3 @@ pending_rounds:
   status: skipped
   skip_reason: already shipped 2026-05-13 as fractile.md ($220M Series B Accel/Factorial
     Funds/Founders Fund co-led)
-- title: UroMems raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: UroMems
-  parsed_amount: $60M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-14'
-  notes: created uromems.md ($60M Growth strategic 2026-05-13 Ajax Health Fund I;
-    Grenoble France urology smart implant)
