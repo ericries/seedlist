@@ -24482,3 +24482,76 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: texture
+- name: InnovateHealth Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: century-health
+  source: co-investor Century Health $5M Seed (2026-05-19)
+- name: 25madison
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: century-health
+  source: co-investor Century Health $5M Seed (2026-05-19)
+- name: Next Play Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: century-health
+  source: co-investor Century Health $5M Seed (2026-05-19)
+- name: 2048 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: century-health
+  source: co-investor Century Health $5M Seed (2026-05-19)
+- name: Prashant Shukla
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Origin Ventures
+  discovered_from: century-health
+  source: quoted in Century Health $5M Seed (2026-05-19)
+- name: Vish Srivastava
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Century Health
+  discovered_from: century-health
+  source: Co-Founder & CEO, Century Health (founder)
+- name: Outward VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: infrawatch
+  source: co-led Infrawatch £2.2M Pre-Seed (2026-05-20)
+- name: Triple Point Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: infrawatch
+  source: co-led Infrawatch £2.2M Pre-Seed (2026-05-20)
+- name: Portfolio Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: infrawatch
+  source: co-investor Infrawatch £2.2M Pre-Seed (2026-05-20)
+- name: Andi Kazeroonian
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Outward VC
+  discovered_from: infrawatch
+  source: quoted in Infrawatch £2.2M Pre-Seed (2026-05-20)

@@ -27,25 +27,10 @@ pending_rounds:
   parsed_company: Imperagen
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: London’s Searchable raises €11.9 million at €72.1 million valuation to help
-    brands boost visibility across AI-led search
-  url: https://www.eu-startups.com/2026/05/londons-searchable-raises-e11-9-million-at-e72-1-million-valuation-to-help-brands-boost-visibility-across-ai-led-search/
-  source: eu-startups
-  date_found: '2026-05-21'
-  parsed_company: London’s Searchable
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Manchester Imperagen raises €5.8 million Seed to scale AI and quantum-powered
-    enzyme engineering
-  url: https://www.eu-startups.com/2026/05/manchester-imperagen-raises-e5-8-million-seed-to-scale-ai-and-quantum-powered-enzyme-engineering/
-  source: eu-startups
-  date_found: '2026-05-21'
-  parsed_company: Manchester Imperagen
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: imperagen
+  notes: already shipped as imperagen.md (£5M+ seed, Manchester UK enzyme engineering)
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -191,7 +176,10 @@ pending_rounds:
   parsed_company: Status AI
   parsed_amount: $17M
   parsed_round: Combined Seed And Series A
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: status-ai
+  notes: already shipped as status-ai.md ($17M Series A 2026-05-19 led by General Catalyst)
 - title: Texture raised $12.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -199,7 +187,11 @@ pending_rounds:
   parsed_company: Texture
   parsed_amount: $12.5M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: texture
+  notes: already shipped as texture.md ($12.5M Series A 2026-05-20 co-led by VoLo Earth
+    Ventures and Equal Ventures with Lerer Hippeau and Abstract Ventures)
 - title: Tribal raised $10M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -207,7 +199,11 @@ pending_rounds:
   parsed_company: Tribal
   parsed_amount: $10M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: tribal
+  notes: already shipped as tribal.md ($10M Seed 2026-05-20 led by Team8 with DYDX Capital
+    and Salesforce ecosystem angels)
 - title: Century Health raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -215,7 +211,13 @@ pending_rounds:
   parsed_company: Century Health
   parsed_amount: $5M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: century-health
+  notes: created century-health.md ($5M Seed 2026-05-19 led by Origin Ventures with
+    InnovateHealth Ventures, 25madison, Next Play Ventures, 2048 Ventures, Alumni Ventures,
+    angel Zorba Lieberman; NYC real-world evidence / clinical data AI; founder Vish
+    Srivastava)
 - title: Stilta raised $10.5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -223,7 +225,10 @@ pending_rounds:
   parsed_company: Stilta
   parsed_amount: $10.5M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: stilta
+  notes: already shipped as stilta.md ($10.5M Seed 2026-05-19, AI legal/IP)
 - title: Infrawatch raised $3M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -231,7 +236,12 @@ pending_rounds:
   parsed_company: Infrawatch
   parsed_amount: $3M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-21'
+  slug: infrawatch
+  notes: created infrawatch.md (£2.2M Pre-Seed 2026-05-20 co-led by Outward VC and Triple
+    Point Ventures with Portfolio Ventures and angels; London cybersecurity infrastructure
+    intelligence; founder Lloyd Davies)
 - title: Lincoln International raised $421M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -239,7 +249,10 @@ pending_rounds:
   parsed_company: Lincoln International
   parsed_amount: $421M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-21'
+  skip_reason: investment bank / advisory firm minority equity transaction, not a startup
+    venture round
 - title: a Montreal-based biopharma AI company that had raised $13.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1057,3 +1070,22 @@ pending_rounds:
   status: processed
   processed: '2026-05-14'
   notes: daily NYC aggregator; covered by individual round profiles for 2026-05-14
+- title: confirmed that it raised $650M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-14'
+  parsed_company: confirmed that it
+  parsed_amount: $650M
+  parsed_round: null
+  status: skipped
+  skip_reason: unparseable Axios fragment
+- title: Fractile raised $220M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-14'
+  parsed_company: Fractile
+  parsed_amount: $220M
+  parsed_round: Series B
+  status: skipped
+  skip_reason: already shipped 2026-05-13 as fractile.md ($220M Series B Accel/Factorial
+    Funds/Founders Fund co-led)
