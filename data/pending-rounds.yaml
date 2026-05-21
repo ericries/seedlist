@@ -74,6 +74,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: Convective Capital raises an $85 million fund to build disaster resilience
+  url: https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/
+  source: techcrunch
+  date_found: '2026-05-21'
+  parsed_company: Convective Capital
+  parsed_amount: $85M
+  parsed_round: null
+  status: pending
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -1066,17 +1074,3 @@ pending_rounds:
   slug: zerops
   notes: created zerops.md (€1.7M / $2M Seed 2026-05-14 led by Gi21 Capital; Prague
     PaaS for AI-driven development)
-- title: UK AgriBioTech startup Resurrect Bio closes €8.8 million Series A to develop
-    disease-resistant crops
-  url: https://www.eu-startups.com/2026/05/uk-agribiotech-startup-resurrect-bio-closes-e8-8-million-series-a-to-develop-disease-resistant-crops/
-  source: eu-startups
-  date_found: '2026-05-14'
-  parsed_company: UK AgriBioTech startup Resurrect Bio
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-14'
-  slug: resurrect-bio
-  notes: created resurrect-bio.md ($10.3M Series A final close 2026-05-13 led by Corteva
-    Agriscience; Calculus Capital, Pymwymic, UKI2S, SynBioVen, AgFunder participated;
-    London AI plant disease resistance)
