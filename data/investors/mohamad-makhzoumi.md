@@ -96,7 +96,7 @@ Based on 22 verified investments (current and past), Makhzoumi's actual investme
 | DSI Renal | 2011 | Buyout/Formation (acquired 30 dialysis clinics) | [^23] |
 | DaVita NephroLife | 2011 | Growth Equity (India dialysis) | [^28] |
 | Elements Behavioral Health | ~2011 | Growth Equity (co-invested with Frazier) | [^29] |
-| CHG Healthcare | ~2011 | Unknown (past) | [^4] |
+| CHG Healthcare | 1998 | Early-stage (NEA initial investment; exited via JW Childs acquisition) | [^33] |
 | Bravo Health | ~2008 | Unknown (past) | [^4] |
 | SCI Solutions | 2011 | Recapitalization (with Wicks Group) | [^30] |
 | Vantage Oncology | ~2011 | Unknown (past) | [^4] |
@@ -164,3 +164,4 @@ No independently sourced founder testimonials found. While Makhzoumi has long-st
 [^30]: PR Newswire, "SCI Solutions Gets Backing from Wicks, NEA," August 2011. Founder statement: "retiring some loyal, longtime investors, and have partnered with Wicks and NEA" — a recapitalization. https://www.pehub.com/2011/08/sci-solutions-gets-backing-from-wicks-nea/
 [^31]: NEA Portfolio page, "Comprehensive Pharmacy Services," accessed April 2026 (NEA first invested 2019, acquired by UnitedHealth Group). https://www.nea.com/portfolio/comprehensive-pharmacy-services
 [^32]: YourStory, "Nova Medical Centers raises funding for phase I from NEA and GTI," May 2010 ($16M Series A from GTI Group and NEA in Bangalore-based day-surgery chain). https://yourstory.com/2010/05/nova-medical-centers-raises-funding-for-phase-i-from-nea-and-gti
+[^33]: NEA portfolio page, "CHG Healthcare," accessed May 2026 (NEA initial investment 1998, early-stage; company subsequently acquired by JW Childs; Mohamad Makhzoumi listed as NEA team contact). https://www.nea.com/portfolio/chg-healthcare

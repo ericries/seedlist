@@ -79,7 +79,7 @@ Based on Array's publicly listed portfolio of approximately 52 active investment
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Mobilize | Seed | 2015 | Community Management | [^5] |
+| Mobilize | Series A (participant; Trinity Ventures led, $6.5M) | 2016-09-22 | Community Management | [^9] |
 | Simility | Seed | ~2016 | Fraud/Security | Acquired by PayPal [^1] |
 | Placer.ai | Pre-seed | ~2017 | Data Analytics | Unicorn [^7] |
 | Solugen | Pre-seed | ~2017 | Climate/Materials | Unicorn [^1] |
@@ -126,3 +126,4 @@ No independently sourced founder testimonials found. Array Ventures' website inc
 [^6]: "Shruti Gandhi Investment Thesis (2025): What Array Ventures Backs in B2B SaaS and AI Infrastructure," Capitaly, accessed March 2026. https://www.capitaly.vc/blog/shruti-gandhi-investment-thesis-2025-array-ventures-b2b-saas-ai-infrastructure
 [^7]: Array Ventures, Tracxn profile, accessed March 2026. https://tracxn.com/d/venture-capital/array-ventures/__-SCV6PdMw3oXaB0rCxGtDfGqapnonJh8kayxrv83D5g
 [^8]: "Shruti Gandhi, '12," University of Chicago Booth School of Business, Distinguished Alumni Award, accessed March 2026. https://www.chicagobooth.edu/alumni/distinguished-alumni-award/honorees/shruti-gandhi
+[^9]: TechSeen, "Mobilize raises $6.5M, appoints Laura Yecies as new COO," September 22, 2016, accessed May 2026. https://techseen.com/2016/09/22/mobilize-6-5m-appoints-laura-yecies-coo/ — Mobilize's $6.5M Series A on 2016-09-22 was led by Trinity Ventures with participation from Floodgate Ventures, Hillsven Capital, Array Ventures, UpWest Labs, and SaaS angels (Eoghan McCabe, Sanjay Subhedar). Array Ventures did not participate in the November 2014 seed round (Hillsven Capital, UpWest Labs, Eddy Shalev) per Vator News, "Mobilize raises $1.2M in seed funding," November 25, 2014. https://vator.tv/2014-11-25-mobilize-raises-12m-in-seed-funding/

@@ -2946,9 +2946,10 @@ vague_facts:
   profile: firms/array-ventures
   profile_name: Array Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^5]'
+  resolution: "TechSeen (2016-09-22) confirms Array Ventures participated in Mobilize Series A ($6.5M led by Trinity Ventures); not in the 2014 seed (Hillsven, UpWest Labs, Eddy Shalev per Vator News). Corrected row to 'Series A (participant) | 2016-09-22' with new citation [^9]."
 - column: 4
   company: Wabi
   line: '| Wabi | Pre-seed | ~2020s | AI | [^1] |'
@@ -101912,9 +101913,10 @@ vague_facts:
   profile: investors/mohamad-makhzoumi
   profile_name: Mohamad Makhzoumi
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^4]'
+  resolution: "NEA portfolio page confirms initial investment 1998 (early-stage); exited via JW Childs acquisition. Updated row to '1998 | Early-stage' with new citation [^33]."
 - column: 3
   company: Bravo Health
   line: '| Bravo Health | ~2008 | Unknown (past) | [^4] |'
@@ -139674,9 +139676,10 @@ vague_facts:
   profile: startups/smule
   profile_name: Smule
   section: Funding History
-  status: pending
+  status: unresolvable
   type: unknown_value
   value: Undisclosed [^7]
+  resolution: "Crunchbase summary confirms 6 investors total in Series G, 2016-06-16, but specific participant list beyond Adams Street Partners not surfaced in primary sources accessible to research (TechCrunch 2017 article re Series H names Adams Street, Bessemer, Floodgate, Franklin Templeton, Shasta as existing investors but does not confirm specific Series G participation). Round remains undisclosed pending a primary source listing Series G participants."
 - column: 4
   company: Oct 2018
   line: '| Oct 2018 | Series I | $20M | Times Bridge | — [^8] |'
