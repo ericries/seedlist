@@ -136,7 +136,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Automox | Series A | ~2017 | Cybersecurity | Active [^21] |
 | Blockchain.com | Series A | ~2017 | Fintech/Crypto | Active [^21] |
 | Niantic | Series C | 2019 | Consumer/Gaming | Active [^22] |
-| Mercury | Series A | 2019 | Fintech | Active [^23] |
+| Mercury | Series A (led, 2019) → Series D participated ($200M, TCV led at $5.2B val) | 2019; 2026-05-20 | Fintech | Active [^23][^34] |
 | Postman | Series B | 2019 | Developer Tools | Active [^24] |
 | Datadog | Growth | 2020 | Enterprise/Infrastructure | IPO (2019) [^25] |
 | ActiveFence | Series B | 2021 | Enterprise/Security | Active [^26] |
@@ -236,3 +236,5 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^32]: Pulse2, "Browserbase: Web Browser Automation Company Raises $21 Million (Series A)," October 29, 2024. Accessed May 2026. https://pulse2.com/browserbase-web-browser-automation-company-raises-21-million-series-a/ — Confirms $21M Series A announced October 29, 2024 co-led by CRV (Reid Christian) and Kleiner Perkins; Okta Ventures and Reed McGinley-Stempel (Stytch CEO) participated. Founded by Paul Klein.
 
 [^33]: 7AI blog, "Citing the 'Agentic Security Inflection Point,' 7AI Raises Largest Cybersecurity A Round in History to Bring AI Security Agents to Enterprises," December 4, 2025. Accessed May 2026. https://blog.7ai.com/citing-the-agentic-security-inflection-point-7ai-raises-largest-cybersecurity-a-round-in-history-to-bring-ai-security-agents-to-enterprises — $130M Series A announced December 4, 2025, led by Index Ventures with new investor Blackstone Innovations Investments; existing seed investors Greylock, CRV, Spark and others participated. Total raised: $166M.
+
+[^34]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms CRV participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C); TCV led; existing investors a16z, Coatue, Sapphire Ventures, Sequoia Capital, and Spark Capital also participated.

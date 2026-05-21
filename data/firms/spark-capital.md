@@ -123,7 +123,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Tumblr | Series A | 2007 | Consumer/Social | [^1] |
 | Snap | Series F | 2016 | Consumer/Social | [^9][^20] |
 | Ramp | Series C | 2021 | Fintech | [^9][^21] |
-| Mercury | Series C | 2025-03-26 | Fintech | [^9][^22] |
+| Mercury | Series C ($300M, Sequoia led) → Series D ($200M, TCV led at $5.2B val) | 2025-03-26; 2026-05-20 | Fintech | [^9][^22][^50] |
 | Trello | Series A | 2014 | Productivity | [^9][^23] |
 | Postmates | Series B | 2014 | Consumer/Delivery | [^9][^24] |
 | Niantic | Series B | 2017 | Gaming/AR | [^9][^25] |
@@ -227,3 +227,5 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^48]: TechCrunch, "Cruise founder Kyle Vogt is back with a robot startup," May 13, 2024. Accessed May 2026. https://techcrunch.com/2024/05/13/cruise-founder-kyle-vogt-is-back-with-a-robot-startup/ — Confirms The Bot Company announced $150M round on May 13, 2024, with Nabeel Hyatt (Spark Capital general partner) among the named investors alongside Nat Friedman, Daniel Gross, Patrick Collison, John Collison, and Quiet Capital. Cross-referenced with Sacra, "The Bot Company valuation, funding & news," accessed May 2026. https://sacra.com/c/the-bot-company/ — which characterizes the subsequent March 2025 $150M round at $2B valuation as Series B, supporting Series A designation for the May 2024 round.
 
 [^49]: Anthropic, "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products," May 23, 2023, accessed May 2026. https://www.anthropic.com/news/anthropic-series-c — Primary announcement confirming Spark Capital led the $450M Series C; participants Google, Salesforce Ventures, Sound Ventures, Zoom Ventures. Cross-referenced with TechCrunch, "Anthropic raises $450M to build next-gen AI assistants," May 23, 2023. https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/ and VentureBeat, "Anthropic secures $450M in Series C funding from Google, Salesforce and others," May 23, 2023. https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/
+
+[^50]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Spark Capital participated in Mercury's Series D on May 20, 2026 at $5.2B valuation; TCV led with existing investors a16z, Coatue, CRV, Sapphire Ventures, and Sequoia Capital also participating.
