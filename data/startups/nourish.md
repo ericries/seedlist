@@ -1,11 +1,48 @@
 ---
-name: Nourish
-slug: nourish
-type: startup
-website: https://www.usenourish.com/
-location: New York, NY
+firms:
+- date: 2026-05-19
+  round: series-c
+  slug: menlo-ventures
+  year: 2026
+- date: 2026-05-19
+  round: series-c
+  slug: thrive-capital
+  year: 2026
+- date: 2026-05-19
+  round: series-c
+  slug: index-ventures
+  year: 2026
+- date: 2026-05-19
+  round: series-c
+  slug: boxgroup
+  year: 2026
+- round: 2024–2025
+  slug: maverick-ventures
+  year: 2024
+- round: Seed
+  slug: operator-partners
+  year: 2021
 founded: 2021
-status_company: active
+founders: []
+investors:
+- round: ~2020
+  slug: martin-mignot
+  year: 2020
+- round: 2024–2025
+  slug: david-singer
+  year: 2024
+- round: '2024'
+  slug: ambar-bhattacharyya
+  year: 2024
+- round: Seed
+  slug: amit-avner
+  year: 2021
+- round: Seed
+  slug: zach-weinberg
+  year: 2023
+last_researched: 2026-05-19
+location: New York, NY
+name: Nourish
 sector:
 - healthcare
 - digital-health
@@ -13,29 +50,13 @@ sector:
 - nutrition
 - metabolic-health
 - telemedicine
+slug: nourish
 stage_latest: Series C
-total_raised: $215M+
-investors: []
-firms:
-- slug: menlo-ventures
-  round: series-c
-  year: 2026
-  date: 2026-05-19
-- slug: thrive-capital
-  round: series-c
-  year: 2026
-  date: 2026-05-19
-- slug: index-ventures
-  round: series-c
-  year: 2026
-  date: 2026-05-19
-- slug: boxgroup
-  round: series-c
-  year: 2026
-  date: 2026-05-19
-founders: []
-last_researched: 2026-05-19
 status: published
+status_company: active
+total_raised: $215M+
+type: startup
+website: https://www.usenourish.com/
 ---
 
 ## About

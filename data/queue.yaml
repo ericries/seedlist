@@ -18060,7 +18060,7 @@ queue:
 - name: Ben Kohlmann
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cubit Capital
   discovered_from: jordan-nof
@@ -24555,3 +24555,73 @@ queue:
   firm: Outward VC
   discovered_from: infrawatch
   source: quoted in Infrawatch £2.2M Pre-Seed (2026-05-20)
+- name: Trevor R. Rees-Jones
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cubit Capital
+  discovered_from: ben-kohlmann
+- name: Philip Carson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cubit Capital
+  discovered_from: ben-kohlmann
+- name: Guilherme Hadlich
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cubit Capital
+  discovered_from: ben-kohlmann
+- name: Thomas Kincaid
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cubit Capital
+  discovered_from: ben-kohlmann
+- name: Venus Aerospace
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann
+- name: Firestorm
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann
+- name: Vatn Systems
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann
+- name: Chariot Defense
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann
+- name: Albedo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann
+- name: Overland AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann
+- name: Firehawk Aerospace
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ben-kohlmann

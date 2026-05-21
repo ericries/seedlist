@@ -97,6 +97,24 @@ firms:
   slug: quiet-capital
   year: 2014
 - slug: dcvc
+- round: Seed
+  slug: stripe
+  year: 2012
+- round: Early
+  slug: owl-capital
+  year: 2015
+- round: Growth (observer)
+  slug: avra
+  year: 2018
+- round: Growth
+  slug: first-harmonic
+  year: 2017
+- round: Early stage
+  slug: gil-capital
+  year: 2014
+- round: Early Stage
+  slug: af-square
+  year: 2015
 founded: 2012
 founders:
 - name: Josh Reeves

@@ -1,11 +1,37 @@
 ---
-name: Moment
-slug: moment
-type: startup
-website: https://moment.dev/
-location: New York, NY
+firms:
+- date: 2026-05-19
+  round: series-c
+  slug: index-ventures
+  year: 2026
+- date: 2026-05-19
+  round: series-c
+  slug: andreessen-horowitz
+  year: 2026
+- round: '2022'
+  slug: neo
+  year: 2022
+- round: Series A ($17M, a16z-led; Venrock participated)
+  slug: venrock
+  year: 2023
 founded: 2022
-status_company: active
+founders: []
+investors:
+- round: '2022'
+  slug: emily-cohen
+  year: 2022
+- round: Seed
+  slug: ali-partovi
+  year: 2023
+- round: Series A ($17M, a16z-led; Venrock participated)
+  slug: nick-beim
+  year: 2023
+- round: '2025'
+  slug: jan-hammer
+  year: 2025
+last_researched: 2026-05-19
+location: New York, NY
+name: Moment
 sector:
 - fintech
 - ai
@@ -13,21 +39,13 @@ sector:
 - enterprise-software
 - saas
 - investment-management
+slug: moment
 stage_latest: Series C
-total_raised: $134M+
-investors: []
-firms:
-- slug: index-ventures
-  round: series-c
-  year: 2026
-  date: 2026-05-19
-- slug: andreessen-horowitz
-  round: series-c
-  year: 2026
-  date: 2026-05-19
-founders: []
-last_researched: 2026-05-19
 status: published
+status_company: active
+total_raised: $134M+
+type: startup
+website: https://moment.dev/
 ---
 
 ## About

@@ -52,6 +52,9 @@ firms:
   slug: iconiq-growth
   year: 2019
 - slug: d1-capital-partners
+- round: Seed
+  slug: launch
+  year: 2013
 founded: 2013
 founders:
 - name: Vlad Tenev
@@ -118,6 +121,9 @@ investors:
   year: 2013
 - round: Seed
   slug: gary-benitt
+  year: 2013
+- round: Seed
+  slug: jason-calacanis
   year: 2013
 last_researched: 2026-03-19
 location: Menlo Park, CA

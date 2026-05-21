@@ -1,11 +1,94 @@
 ---
-name: Mercury
-slug: mercury
-type: startup
-website: https://mercury.com/
-location: San Francisco, CA
+firms:
+- date: 2026-05-20
+  round: series-d
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-05-20
+  round: series-d
+  slug: coatue-management
+  year: 2026
+- date: 2026-05-20
+  round: series-d
+  slug: crv
+  year: 2026
+- date: 2026-05-20
+  round: series-d
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-05-20
+  round: series-d
+  slug: spark-capital
+  year: 2026
+- round: ~2019
+  slug: better-tomorrow-ventures
+  year: 2019
+- round: Series B
+  slug: independent
+  year: 2021
+- round: ~2018
+  slug: homebrew
+  year: 2018
+- round: Angel
+  slug: benchmark
+  year: 2024
+- round: Series A
+  slug: a-star-capital
+  year: 2019
+- round: Early
+  slug: goat-capital
+  year: 2021
+- round: Seed
+  slug: y-combinator
+  year: 2019
+- round: Seed
+  slug: 500-global
+  year: 2021
 founded: 2017
-status_company: active
+founders: []
+investors:
+- round: ~2019
+  slug: jake-gibson
+  year: 2019
+- round: Series C
+  slug: sonya-huang
+  year: 2025
+- round: Series A
+  slug: saar-gur
+  year: 2019
+- round: Series B
+  slug: dylan-field
+  year: 2021
+- round: Series B
+  slug: dan-rose
+  year: 2022
+- round: ~2018
+  slug: satya-patel
+  year: 2018
+- round: Angel
+  slug: jack-altman
+  year: 2024
+- round: Series A
+  slug: kevin-hartz
+  year: 2019
+- round: Seed
+  slug: hunter-walk
+  year: 2019
+- round: Early
+  slug: justin-kan
+  year: 2021
+- round: Seed
+  slug: jared-friedman
+  year: 2019
+- round: ~2019
+  slug: sheel-mohnot
+  year: 2019
+- round: Seed
+  slug: christine-tsai
+  year: 2021
+last_researched: 2026-05-21
+location: San Francisco, CA
+name: Mercury
 sector:
 - fintech
 - banking
@@ -13,33 +96,13 @@ sector:
 - saas
 - ai
 - enterprise-software
+slug: mercury
 stage_latest: Series D
-total_raised: $500M+
-investors: []
-firms:
-- slug: andreessen-horowitz
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-- slug: coatue-management
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-- slug: crv
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-- slug: sequoia-capital
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-- slug: spark-capital
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-founders: []
-last_researched: 2026-05-21
 status: published
+status_company: active
+total_raised: $500M+
+type: startup
+website: https://mercury.com/
 ---
 
 ## About

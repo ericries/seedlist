@@ -16,6 +16,9 @@ firms:
   round: series-d
   slug: paradigm
   year: 2026
+- round: Early-stage defense/space
+  slug: cubit-capital
+  year: 2023
 founded: 2022
 founders:
 - name: Even Rogers
@@ -25,6 +28,9 @@ founders:
 investors:
 - round: Early
   slug: matt-murphy
+- round: Early-stage defense/space
+  slug: ben-kohlmann
+  year: 2023
 last_researched: 2026-05-01
 location: Centennial, CO
 name: True Anomaly

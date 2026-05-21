@@ -1,40 +1,43 @@
 ---
+firms:
+- date: 2026-03-25
+  round: series-b
+  slug: cubit-capital
+  year: 2026
+- date: 2026-03-25
+  round: series-b
+  slug: idea-fund-partners
+  year: 2026
+- date: 2026-03-25
+  round: series-b
+  slug: waterstone-impact-fund
+  year: 2026
+- date: 2026-03-25
+  round: series-b
+  slug: front-porch-ventures
+  year: 2026
+founders:
+- name: Andrew Ashur
+  role: CEO
+- name: Vic Pellicano
+  role: President
+investors:
+- round: Automated cleaning robotics
+  slug: ben-kohlmann
+  year: 2024
+last_researched: 2026-03-28
+location: Charlotte, NC
 name: Lucid Bots
+sector:
+- robotics
+- hardware
 slug: lucid-bots
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $34M
 type: startup
 website: https://lucidbots.com
-location: Charlotte, NC
-status_company: active
-sector:
-  - robotics
-  - hardware
-stage_latest: Series B
-total_raised: $34M
-firms:
-  - slug: cubit-capital
-    round: series-b
-    year: 2026
-    date: 2026-03-25
-  - slug: idea-fund-partners
-    round: series-b
-    year: 2026
-    date: 2026-03-25
-  - slug: waterstone-impact-fund
-    round: series-b
-    year: 2026
-    date: 2026-03-25
-  - slug: front-porch-ventures
-    round: series-b
-    year: 2026
-    date: 2026-03-25
-investors: []
-founders:
-  - name: Andrew Ashur
-    role: CEO
-  - name: Vic Pellicano
-    role: President
-status: published
-last_researched: 2026-03-28
 ---
 
 ## About

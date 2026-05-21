@@ -13,6 +13,9 @@ firms:
   slug: andreessen-horowitz
   year: 2026
 - slug: bessemer-venture-partners
+- round: Series A ($55M, Caffeinated Capital led)
+  slug: cubit-capital
+  year: 2023
 founded: 2022
 founders:
 - name: Dino Legal
@@ -28,6 +31,9 @@ investors:
   slug: drew-oetting
   year: 2022
 - slug: elad-gil
+- round: Series A ($55M, Caffeinated Capital led)
+  slug: ben-kohlmann
+  year: 2023
 last_researched: 2026-04-02
 location: Austin, Texas
 name: Saronic

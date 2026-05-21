@@ -1,11 +1,84 @@
 ---
-name: Primer
-slug: primer
-type: startup
-website: https://primer.io/
-location: London, United Kingdom
+firms:
+- date: 2026-05-20
+  round: series-c
+  slug: accel
+  year: 2026
+- round: Early
+  slug: dcvc
+  year: 2016
+- round: Early
+  slug: lux-capital
+  year: 2018
+- round: Seed
+  slug: amplify-partners
+  year: 2016
+- round: Seed
+  slug: balderton-capital
+  year: 2020
+- round: Series D
+  slug: us-innovative-technology-fund
+  year: 2023
+- round: Education
+  slug: cubit-capital
+  year: 2023
+- round: Series A ($15M)
+  slug: khosla-ventures
+  year: 2022
+- round: ~2021
+  slug: banana-capital
+  year: 2021
+- round: Series C ($110M, led)
+  slug: addition
+  year: 2021
+- round: Seed
+  slug: worklife-ventures
+  year: 2020
+- round: Angel
+  slug: angellist
+  year: 2020
 founded: 2020
-status_company: active
+founders: []
+investors:
+- round: ~2021
+  slug: sonali-de-rycker
+  year: 2021
+- round: Early
+  slug: matthew-ocko
+  year: 2016
+- round: Early
+  slug: brandon-reeves
+  year: 2018
+- round: Seed
+  slug: mike-dauber
+  year: 2016
+- round: Seed
+  slug: rob-moffat
+  year: 2020
+- round: Series D
+  slug: peter-tague
+  year: 2023
+- round: Education
+  slug: ben-kohlmann
+  year: 2023
+- round: Series A ($15M)
+  slug: samir-kaul
+  year: 2022
+- round: ~2021
+  slug: turner-novak
+  year: 2021
+- round: Series C ($110M, led)
+  slug: lee-fixel
+  year: 2021
+- round: Seed
+  slug: brianne-kimmel
+  year: 2020
+- round: Angel
+  slug: naval-ravikant
+  year: 2020
+last_researched: 2026-05-20
+location: London, United Kingdom
+name: Primer
 sector:
 - fintech
 - payments
@@ -13,17 +86,13 @@ sector:
 - ai
 - saas
 - enterprise-software
+slug: primer
 stage_latest: Series C
-total_raised: $170M+
-investors: []
-firms:
-- slug: accel
-  round: series-c
-  year: 2026
-  date: 2026-05-20
-founders: []
-last_researched: 2026-05-20
 status: published
+status_company: active
+total_raised: $170M+
+type: startup
+website: https://primer.io/
 ---
 
 ## About

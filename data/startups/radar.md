@@ -1,11 +1,25 @@
 ---
-name: RADAR
-slug: radar
-type: startup
-website: https://radar.com/
-location: New York, NY
+firms:
+- round: Seed
+  slug: heavybit
+  year: 2017
+- round: Seed
+  slug: expa
+  year: 2016
 founded: 2018
-status_company: active
+founders:
+- name: Spencer Hewett
+  role: CEO & Founder
+investors:
+- round: Seed
+  slug: tom-drummond
+  year: 2017
+- round: Seed
+  slug: garrett-camp
+  year: 2016
+last_researched: 2026-05-20
+location: New York, NY
+name: RADAR
 sector:
 - retail-tech
 - ai
@@ -13,15 +27,13 @@ sector:
 - enterprise-software
 - inventory
 - rfid
+slug: radar
 stage_latest: Series B
-total_raised: $170M+
-investors: []
-firms: []
-founders:
-- name: Spencer Hewett
-  role: CEO & Founder
-last_researched: 2026-05-20
 status: published
+status_company: active
+total_raised: $170M+
+type: startup
+website: https://radar.com/
 ---
 
 ## About

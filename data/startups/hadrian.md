@@ -63,6 +63,9 @@ firms:
 - round: Karman era (defense manufacturing)
   slug: karman-ventures
   year: 2024
+- round: Growth/late-stage (year per Cubit listing)
+  slug: cubit-capital
+  year: 2023
 founded: 2020
 founders:
 - name: Chris Power
@@ -93,6 +96,9 @@ investors:
 - round: Karman era (defense manufacturing)
   slug: william-barnes
   year: 2024
+- round: Growth/late-stage (year per Cubit listing)
+  slug: ben-kohlmann
+  year: 2023
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian
