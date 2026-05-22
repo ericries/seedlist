@@ -18594,7 +18594,7 @@ queue:
 - name: Daniel Kan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Rebel Fund
   discovered_from: steve-huffman
@@ -24721,3 +24721,22 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: muybridge
+- name: Harj Taggar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Y Combinator
+  discovered_from: daniel-kan
+- name: Hona
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-kan
+- name: Fathom
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-kan

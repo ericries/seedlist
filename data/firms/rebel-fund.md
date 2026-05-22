@@ -1,19 +1,28 @@
 ---
-name: "Rebel Fund"
-slug: rebel-fund
-type: firm
-website: "https://www.rebelfund.vc/"
-location: "San Francisco, California"
 founded: 2019
-stage_focus: [seed]
-sector_focus: [yc-ecosystem, ai, fintech, enterprise, devtools]
-team:
-  - slug: jared-heyman
-    role: Founder & Managing Partner
-  - slug: trip-adler
-    role: Partner
-status: published
 last_researched: 2026-05-01
+location: San Francisco, California
+name: Rebel Fund
+sector_focus:
+- yc-ecosystem
+- ai
+- fintech
+- enterprise
+- devtools
+slug: rebel-fund
+stage_focus:
+- seed
+status: published
+team:
+- role: Founder & Managing Partner
+  slug: jared-heyman
+- role: Partner
+  slug: trip-adler
+- name: Daniel Kan
+  role: Partner, Rebel Fund; Co-Founder, Cruise (former COO/CPO)
+  slug: daniel-kan
+type: firm
+website: https://www.rebelfund.vc/
 ---
 
 ## About

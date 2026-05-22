@@ -1,11 +1,43 @@
 ---
-name: Socket
-slug: socket
-type: startup
-website: https://socket.dev/
-location: San Francisco, CA
+firms:
+- date: 2026-05-20
+  round: series-c
+  slug: thrive-capital
+  year: 2026
+- date: 2026-05-20
+  round: series-c
+  slug: andreessen-horowitz
+  year: 2026
+- round: '2024'
+  slug: independent
+  year: 2024
+- round: Series B
+  slug: sierra-ai
+  year: 2024
+- round: Early
+  slug: a-star-capital
+  year: 2023
+- round: Series B
+  slug: replit
+  year: 2024
 founded: 2020
-status_company: active
+founders: []
+investors:
+- round: '2024'
+  slug: tobi-lutke
+  year: 2024
+- round: Series B
+  slug: bret-taylor
+  year: 2024
+- round: Early
+  slug: kevin-hartz
+  year: 2023
+- round: Series B
+  slug: amjad-masad
+  year: 2024
+last_researched: 2026-05-21
+location: San Francisco, CA
+name: Socket
 sector:
 - cybersecurity
 - developer-tools
@@ -13,21 +45,13 @@ sector:
 - ai
 - saas
 - open-source
+slug: socket
 stage_latest: Series C
-total_raised: $60M+
-investors: []
-firms:
-- slug: thrive-capital
-  round: series-c
-  year: 2026
-  date: 2026-05-20
-- slug: andreessen-horowitz
-  round: series-c
-  year: 2026
-  date: 2026-05-20
-founders: []
-last_researched: 2026-05-21
 status: published
+status_company: active
+total_raised: $60M+
+type: startup
+website: https://socket.dev/
 ---
 
 ## About
