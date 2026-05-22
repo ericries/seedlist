@@ -27,7 +27,11 @@ pending_rounds:
   parsed_company: Exa Labs
   parsed_amount: $250M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: exa-labs
+  notes: already shipped as exa-labs.md ($250M Series C 2026-05-20 a16z-led at $2.2B
+    val); Axios fragment is a duplicate
 - title: Mercury raised $200M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -35,7 +39,11 @@ pending_rounds:
   parsed_company: Mercury
   parsed_amount: $200M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: mercury
+  notes: already shipped as mercury.md ($200M Series D 2026-05-20 TCV-led at $5.2B
+    val); Axios fragment is a duplicate
 - title: Kalshi raised $200M Series F extension
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -43,7 +51,12 @@ pending_rounds:
   parsed_company: Kalshi
   parsed_amount: $200M
   parsed_round: Series F Extension
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: kalshi
+  notes: kalshi.md already covers the $1B Series F on 2026-05-07 (Coatue-led; Sequoia,
+    a16z, IVP, Paradigm); the $200M Series F extension is a top-up of the same round
+    already on file
 - title: per Bloomberg. It previously raised $1B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -51,7 +64,10 @@ pending_rounds:
   parsed_company: per Bloomberg. It previously
   parsed_amount: $1B
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-22'
+  skip_reason: unparseable Axios Pro Rata fragment — no company identifiable; per
+    "when in doubt, leave it out"
 - title: Primer raised $100M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -59,7 +75,11 @@ pending_rounds:
   parsed_company: Primer
   parsed_amount: $100M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: primer
+  notes: already shipped as primer.md (€86.2M Series C 2026-05-20 Sofina/Accel-led);
+    Axios $100M is the USD conversion of the same round
 - title: Moment raised $78M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -67,7 +87,11 @@ pending_rounds:
   parsed_company: Moment
   parsed_amount: $78M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: moment
+  notes: already shipped as moment.md ($78M Series C 2026-05-19 Index Ventures-led
+    with a16z and Avra)
 - title: Scapia raised $63M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -75,7 +99,11 @@ pending_rounds:
   parsed_company: Scapia
   parsed_amount: $63M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: scapia
+  notes: already shipped as scapia.md ($63M Series C 2026-05-21 General Catalyst-led
+    with Peak XV and Z47 at $500M+ val); Bengaluru travel fintech
 - title: Socket raised $60M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -83,7 +111,11 @@ pending_rounds:
   parsed_company: Socket
   parsed_amount: $60M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: socket
+  notes: already shipped as socket.md ($60M Series C 2026-05-20 Thrive Capital-led
+    with a16z, Abstract Ventures, Capital One Ventures at $1B val)
 - title: Variational raised $50M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -178,6 +210,15 @@ pending_rounds:
   date_found: '2026-05-22'
   parsed_company: Convective Capital
   parsed_amount: $85M
+  parsed_round: null
+  status: pending
+- title: Ghent-based Harmoney secures €10 million to scale AI-driven Counterparty
+    Risk Management platform
+  url: https://www.eu-startups.com/2026/05/ghent-based-harmoney-secures-e10-million-to-scale-ai-driven-counterparty-risk-management-platform/
+  source: eu-startups
+  date_found: '2026-05-22'
+  parsed_company: Ghent-based Harmoney
+  parsed_amount: null
   parsed_round: null
   status: pending
 - title: Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
@@ -1034,217 +1075,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-15'
   slug: rapido
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (May 11–May 15)
-  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-11-may-15/
-  source: eu-startups
-  date_found: '2026-05-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-16'
-  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
-- title: Berlin-based Elephant Company raises over €5 million to bring AI-powered
-    training to frontline workers
-  url: https://www.eu-startups.com/2026/05/berlin-based-elephant-company-raises-over-e5-million-to-bring-ai-powered-training-to-frontline-workers/
-  source: eu-startups
-  date_found: '2026-05-15'
-  parsed_company: Berlin-based Elephant Company
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-16'
-  slug: elephant-company
-- title: 'The Week’s 10 Biggest Funding Rounds: Anduril Leads Varied Lineup Of Large
-    Deals'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-voltagrid-mind-robotics/
-  source: crunchbase
-  date_found: '2026-05-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-15'
-  notes: aggregator article — individual rounds processed separately
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/15/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-15-2026/
-  source: alleywatch
-  date_found: '2026-05-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-15'
-  notes: aggregator article — individual rounds processed separately
-- title: Axios Fervo Energy raised $1.9B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Axios Fervo Energy
-  parsed_amount: $1.9B
-  parsed_round: null
-  status: skipped
-  skip_reason: public IPO ($1.89B raise on NYSE May 13, 2026), not a startup VC round
-- title: Anduril raised $5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Anduril
-  parsed_amount: $5B
-  parsed_round: null
-  status: skipped
-  skip_reason: already shipped 2026-05-13 as anduril-industries.md update ($5B Series
-    H, Thrive+a16z co-led at $61B val)
-- title: Isomorphic Labs raised $2.1B Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Isomorphic Labs
-  parsed_amount: $2.1B
-  parsed_round: Series B
-  status: skipped
-  skip_reason: already shipped 2026-05-12 as isomorphic-labs.md ($2.1B Series B Thrive-led)
-- title: Exaforce raised $125M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Exaforce
-  parsed_amount: $125M
-  parsed_round: Series B
-  status: skipped
-  skip_reason: already shipped 2026-05-12 as exaforce.md ($125M Series B, HarbourVest/Peak
-    XV/Mayfield/Khosla/Seligman)
-- title: NVision raised $55M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: NVision
-  parsed_amount: $55M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-14'
-  notes: created nvision-quantum.md ($55M Series B 2026-05-13 led by Abbott with CDP
-    Venture Capital, Playground Global, Matterwave, Entree Capital, EIB)
-- title: Monaco raised $50M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Monaco
-  parsed_amount: $50M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-14'
-  notes: created monaco-ai.md ($50M Series B 2026-05-12 led by Benchmark with Founders
-    Fund, Human Capital, Alt Cap, Mantis, Saga VC, Garry Tan, Collison brothers; SF
-    AI sales platform; Sam Blond CEO)
-- title: Gaiia raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Gaiia
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: skipped
-  skip_reason: already shipped as gaiia.md ($40M Series B 2026-05-12 JMI Equity-led
-    with Inovia; Montreal CSP OSS/BSS)
-- title: Judgment Labs raised $32M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Judgment Labs
-  parsed_amount: $32M
-  parsed_round: Seed And Series A
-  status: skipped
-  skip_reason: already shipped 2026-05-12 as judgment-labs.md ($32M Seed+Series A
-    Lightspeed-led)
-- title: amHealth raised $26M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: amHealth
-  parsed_amount: $26M
-  parsed_round: Series B
-  status: skipped
-  skip_reason: no primary press found beyond Axios listing per "when in doubt, leave
-    it out"
-- title: Webidoo raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Webidoo
-  parsed_amount: $25M
-  parsed_round: null
-  status: skipped
-  skip_reason: already shipped as webidoo.md ($25M growth 2026-05-12 IXC3/Azimut-led)
-- title: Basata raised $21M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Basata
-  parsed_amount: $21M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: already shipped 2026-05-08 as basata.md ($21M Series A Basis Set Ventures-led)
-- title: Outmarket raised $17M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Outmarket
-  parsed_amount: $17M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-14'
-  notes: created outmarket-ai.md ($17M Series A 2026-05-13 Permanent Capital Ventures-led
-    with SignalFire, Fika Ventures, TTV Capital, Dash Fund; insurance AI)
-- title: Greenboard raised $15.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Greenboard
-  parsed_amount: $15.5M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: already shipped 2026-05-12 as greenboard.md ($15.5M Series A Base10
-    Partners-led)
-- title: Hint raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Hint
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: no primary press found beyond Axios listing per "when in doubt, leave
-    it out"
-- title: DesignVerse raised $5.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: DesignVerse
-  parsed_amount: $5.5M
-  parsed_round: Seed
-  status: skipped
-  skip_reason: already shipped 2026-05-13 as designverse.md (€4.6M / $5.5M Seed Begin
-    Capital/Gapminder VC/Underline Ventures)
-- title: Breeze Acquisition II raised $125M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-14'
-  parsed_company: Breeze Acquisition II
-  parsed_amount: $125M
-  parsed_round: null
-  status: skipped
-  skip_reason: SPAC vehicle, not a startup round
-- title: Slovenia’s DDD Invoices secures €1.31 million to tackle fragmented global
-    e-invoicing compliance
-  url: https://www.eu-startups.com/2026/05/slovenias-ddd-invoices-secures-e1-31-million-to-tackle-fragmented-global-e-invoicing-compliance/
-  source: eu-startups
-  date_found: '2026-05-14'
-  parsed_company: Slovenia’s DDD Invoices
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: small €1.31M seed for Slovenian e-invoicing compliance; could not access
-    EU-Startups (403) or confirm lead investor via independent primary source per
-    "when in doubt, leave it out"
