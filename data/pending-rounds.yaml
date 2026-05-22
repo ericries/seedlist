@@ -230,6 +230,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (May 18 – May 22)
+  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-18-may-22/
+  source: eu-startups
+  date_found: '2026-05-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
   url: https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/
   source: techcrunch
@@ -1063,14 +1072,3 @@ pending_rounds:
   slug: panta
   notes: created panta.md (£3M / €3.4M Seed 2026-05-14 led by Fuel Ventures with Innovate
     UK Innovation Loan; London SaaS for financial index management)
-- title: FTAI Aviation Announces Full Redemption of Outstanding 8.25% Fixed-Rate Reset
-    Series C Cumulative Perpetual Redeemable Preferred Shares
-  url: https://www.globenewswire.com/news-release/2026/05/15/3295679/35538/en/FTAI-Aviation-Announces-Full-Redemption-of-Outstanding-8-25-Fixed-Rate-Reset-Series-C-Cumulative-Perpetual-Redeemable-Preferred-Shares.html
-  source: globenewswire
-  date_found: '2026-05-15'
-  parsed_company: FTAI Aviation
-  parsed_amount: null
-  parsed_round: Series C
-  status: skipped
-  processed: '2026-05-16'
-  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
