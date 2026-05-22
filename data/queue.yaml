@@ -24752,3 +24752,59 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: harmoney
+- name: Galaxy Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: checker
+  source: co-lead on Checker $8M seed (2026-05-21) — stablecoin infrastructure
+- name: Al Mada Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: checker
+  source: co-lead on Checker $8M seed (2026-05-21) — stablecoin infrastructure
+- name: Framework Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: checker
+  source: co-lead on Checker $8M seed (2026-05-21) — stablecoin infrastructure
+- name: DFS Lab
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: checker
+  source: Africa-focused fintech investor in Checker $8M seed
+- name: Onigiri Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: checker
+  source: Asia-focused crypto investor in Checker $8M seed
+- name: SNZ Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: checker
+  source: Asia-focused crypto investor in Checker $8M seed
+- name: Waterline Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cvrd-health
+  source: co-investor on CVRD Health $5M seed (2026-05-21) — healthtech/benefits
+- name: Distributed Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cvrd-health
+  source: co-investor on CVRD Health $5M seed (2026-05-21) — healthtech/benefits

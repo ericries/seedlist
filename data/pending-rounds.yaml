@@ -123,7 +123,11 @@ pending_rounds:
   parsed_company: Variational
   parsed_amount: $50M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: variational
+  notes: already shipped as variational.md (~$50M Series A 2026-05-20 Dragonfly-led
+    with Bain Capital Crypto, Coinbase Ventures); Axios fragment is a duplicate
 - title: Pivot raised $40M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -131,7 +135,11 @@ pending_rounds:
   parsed_company: Pivot
   parsed_amount: $40M
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: pivot
+  notes: already shipped as pivot.md ($40M Series B 2026-05-21 co-led Forestay Capital
+    and Notion Capital with Greyhound, Hedosophia, Visionaries Club, Emblem)
 - title: Eisen raised $18.5M seed and Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -139,7 +147,11 @@ pending_rounds:
   parsed_company: Eisen
   parsed_amount: $18.5M
   parsed_round: Seed And Series A
-  status: pending
+  status: skipped
+  processed: '2026-05-22'
+  slug: eisen
+  skip_reason: already shipped as eisen.md ($18.5M combined seed+Series A 2026-05-19);
+    Axios fragment is a duplicate
 - title: Muybridge raised $16M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -147,7 +159,11 @@ pending_rounds:
   parsed_company: Muybridge
   parsed_amount: $16M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: muybridge
+  notes: already shipped as muybridge.md ($16M Series A 2026-05-21 co-led Investinor,
+    Fairpoint, Idekapital, RunwayFBU); Axios fragment is a duplicate
 - title: NanoCo raised $12M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -155,7 +171,11 @@ pending_rounds:
   parsed_company: NanoCo
   parsed_amount: $12M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  processed: '2026-05-22'
+  slug: nanoco
+  skip_reason: already shipped as nanoco.md ($12M seed 2026-05-20); Axios fragment
+    is a duplicate
 - title: Quantum Bridge Technologies raised $8M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -163,7 +183,11 @@ pending_rounds:
   parsed_company: Quantum Bridge Technologies
   parsed_amount: $8M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: quantum-bridge-technologies
+  notes: already shipped as quantum-bridge-technologies.md ($8M Series A 2026-05-20
+    Primo Capital SGR-led with Wayra, Cadenza VC, HPE, Bacchus)
 - title: Checker raised $8M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -171,7 +195,11 @@ pending_rounds:
   parsed_company: Checker
   parsed_amount: $8M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: checker
+  notes: created startup profile checker.md ($8M pre-seed+seed 2026-05-21 co-led
+    Galaxy Ventures, Al Mada Ventures, Framework Ventures); stablecoin infrastructure
 - title: CVRD Health raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -179,7 +207,12 @@ pending_rounds:
   parsed_company: CVRD Health
   parsed_amount: $5M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-22'
+  slug: cvrd-health
+  notes: created startup profile cvrd-health.md ($5M seed 2026-05-21 Upfront Ventures-led
+    with Waterline Ventures, Distributed Ventures); federal contractor benefits/ICHRA;
+    updated upfront-ventures.md portfolio
 - title: Sorted Wallet raised $4.4M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -234,6 +267,15 @@ pending_rounds:
     this week (May 18 – May 22)
   url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-18-may-22/
   source: eu-startups
+  date_found: '2026-05-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Massive Deals For Medical Devices,
+    Futuristic AI Gadgets And Frontier Labs Lead'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/
+  source: crunchbase
   date_found: '2026-05-22'
   parsed_company: null
   parsed_amount: null
@@ -1059,16 +1101,3 @@ pending_rounds:
   notes: created fresh-people.md (€2.6M Seed 2026-05-15 co-led by Inveready and Archipiélago
     Next with Successful Fund I FCRE; Valencia AI leadership copilot rebranding to
     Booster)
-- title: London’s PANTA raises €3.4 million to modernise how financial indices are
-    built and managed
-  url: https://www.eu-startups.com/2026/05/londons-panta-raises-e3-4-million-to-modernise-how-financial-indices-are-built-and-managed/
-  source: eu-startups
-  date_found: '2026-05-15'
-  parsed_company: London’s PANTA
-  parsed_amount: £3M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-15'
-  slug: panta
-  notes: created panta.md (£3M / €3.4M Seed 2026-05-14 led by Fuel Ventures with Innovate
-    UK Innovation Loan; London SaaS for financial index management)

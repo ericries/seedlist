@@ -108,6 +108,7 @@ This table represents approximately 17% of the firm's 200+ known investments.
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| CVRD Health | Seed (lead) | 2026-05-21 | Healthcare benefits / federal contractor compliance | [PR Newswire](https://www.prnewswire.com/news-releases/cvrd-health-announces-5m-seed-round-led-by-upfront-ventures-to-modernize-benefits-compliance-for-federal-government-contractors-302779218.html) |
 | Ring | Seed | 2013 | Smart home / IoT | [^8] |
 | Maker Studios | Series A | 2011 | Digital media | [^2] |
 | TrueCar | Series E | 2009 | Automotive marketplace | [^19] |
