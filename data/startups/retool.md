@@ -104,7 +104,7 @@ Retool is a developer platform for building internal tools, founded in 2017 by D
 | Aug 2017 | Seed | $1M | Y Combinator | Daniel Gross, John Collison, Nat Friedman [^3] |
 | Oct 2019 | Series A | $25M | Sequoia Capital | — [^4] |
 | Oct 2020 | Series B | $50M | Sequoia Capital | — [^1] |
-| Dec 2021 | Series C | $20M | — | Sequoia Capital, Elad Gil, Nat Friedman, Daniel Gross, John Collison, Patrick Collison [^5] |
+| 2021-12-22 | Series C | $20M (at $1.85B val) | Sequoia Capital | Elad Gil, Nat Friedman, Daniel Gross, John Collison, Patrick Collison [^5][^6] |
 | Jul 2022 | Series C2 | $45M | Sequoia Capital | John Collison, Patrick Collison, Nat Friedman, Elad Gil, Daniel Gross, Caryn Marooney [^2] |
 
 Total raised: approximately $141M across 5 rounds [^3]. Valued at $3.2B as of Series C2 [^2].
@@ -124,3 +124,5 @@ No independently sourced founder testimonials found.
 [^3]: Clay, "How Much Did Retool Raise? Funding & Key Investors," accessed March 2026. https://www.clay.com/dossier/retool-funding
 [^4]: Crunchbase, "Series A - Retool," accessed March 2026. https://www.crunchbase.com/funding_round/retool-series-a--2e764926
 [^5]: Retool Newsroom, "Series C: Raising less money at lower valuations," December 2021, accessed March 2026. https://retool.com/newsroom/series-c
+
+[^6]: SalesTools, "Retool raises $45M Series C at $3.2B," accessed May 2026. https://salestools.io/en/report/retool-45m-series-c — Cross-reference confirming Retool's December 22, 2021 Series C was $20M led by Sequoia Capital at $1.85B valuation; the $45M was a subsequent Series C2 round in July 2022 at $3.2B valuation. Cross-referenced with Crunchbase, "Series C - Retool," https://www.crunchbase.com/funding_round/retool-series-c--37200e17 (date and lead).

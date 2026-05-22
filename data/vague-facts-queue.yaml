@@ -2949,7 +2949,10 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^5]'
-  resolution: "TechSeen (2016-09-22) confirms Array Ventures participated in Mobilize Series A ($6.5M led by Trinity Ventures); not in the 2014 seed (Hillsven, UpWest Labs, Eddy Shalev per Vator News). Corrected row to 'Series A (participant) | 2016-09-22' with new citation [^9]."
+  resolution: TechSeen (2016-09-22) confirms Array Ventures participated in Mobilize
+    Series A ($6.5M led by Trinity Ventures); not in the 2014 seed (Hillsven, UpWest
+    Labs, Eddy Shalev per Vator News). Corrected row to 'Series A (participant) |
+    2016-09-22' with new citation [^9].
 - column: 4
   company: Wabi
   line: '| Wabi | Pre-seed | ~2020s | AI | [^1] |'
@@ -101916,7 +101919,9 @@ vague_facts:
   status: resolved
   type: unknown_value
   value: '[^4]'
-  resolution: "NEA portfolio page confirms initial investment 1998 (early-stage); exited via JW Childs acquisition. Updated row to '1998 | Early-stage' with new citation [^33]."
+  resolution: NEA portfolio page confirms initial investment 1998 (early-stage); exited
+    via JW Childs acquisition. Updated row to '1998 | Early-stage' with new citation
+    [^33].
 - column: 3
   company: Bravo Health
   line: '| Bravo Health | ~2008 | Unknown (past) | [^4] |'
@@ -138423,9 +138428,12 @@ vague_facts:
   profile: startups/nubank
   profile_name: Nubank
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-21'
+  resolution_note: 'Nubank Dec 9, 2021 IPO $2.6B: NYSE listing at $9/share, $41.5B
+    valuation. IPOs do not have a VC lead. "—" is accurate.'
 - column: 4
   company: ~2024
   line: '| ~2024 | Earlier rounds | $75M | Sequoia Capital, Cyberstarts, Accel | —
@@ -139061,9 +139069,13 @@ vague_facts:
   profile: startups/retool
   profile_name: Retool
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-21'
+  resolution_note: Retool Dec 22, 2021 Series C $20M led by Sequoia Capital at $1.85B
+    valuation per SalesTools + Crunchbase. Lead column updated from "—" to Sequoia
+    Capital.
 - column: 4
   company: Aug 2024
   line: '| Aug 2024 | Secondary | ~$500M | Coatue, D1 Capital, Tiger Global | — [^8]
@@ -139423,9 +139435,13 @@ vague_facts:
   profile: startups/sentinelone
   profile_name: SentinelOne
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-21'
+  resolution_note: 'SentinelOne Jun 2021 IPO $1.2B: IPOs do not have a single VC "lead"
+    — underwriters Goldman, Morgan Stanley, Barclays are correctly listed. "—" is
+    accurate.'
 - column: 3
   company: '2018'
   line: '| 2018 | Series A | $10.5M | — | Andreessen Horowitz, Silicon Valley Bank
@@ -139679,7 +139695,12 @@ vague_facts:
   status: unresolvable
   type: unknown_value
   value: Undisclosed [^7]
-  resolution: "Crunchbase summary confirms 6 investors total in Series G, 2016-06-16, but specific participant list beyond Adams Street Partners not surfaced in primary sources accessible to research (TechCrunch 2017 article re Series H names Adams Street, Bessemer, Floodgate, Franklin Templeton, Shasta as existing investors but does not confirm specific Series G participation). Round remains undisclosed pending a primary source listing Series G participants."
+  resolution: Crunchbase summary confirms 6 investors total in Series G, 2016-06-16,
+    but specific participant list beyond Adams Street Partners not surfaced in primary
+    sources accessible to research (TechCrunch 2017 article re Series H names Adams
+    Street, Bessemer, Floodgate, Franklin Templeton, Shasta as existing investors
+    but does not confirm specific Series G participation). Round remains undisclosed
+    pending a primary source listing Series G participants.
 - column: 4
   company: Oct 2018
   line: '| Oct 2018 | Series I | $20M | Times Bridge | — [^8] |'
