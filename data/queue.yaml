@@ -17125,7 +17125,7 @@ queue:
 - name: Vic Hu
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Brev
   discovered_from: round-monitoring-2026-04-25
@@ -24689,3 +24689,23 @@ queue:
   added: '2026-03-17'
   discovered_from: clearops
   source: co-investor in ClearOps €8.6M Series A (2026-05-21)
+- name: Nader Khalil
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NVIDIA (former Brev.dev)
+  discovered_from: vic-hu
+- name: Alec Fong
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NVIDIA (former Brev.dev)
+  discovered_from: vic-hu
+- name: Nama Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vic-hu

@@ -1,11 +1,21 @@
 ---
-name: Exa Labs
-slug: exa-labs
-type: startup
-website: https://exa.ai/
-location: San Francisco, CA
+firms:
+- date: 2026-05-20
+  round: series-c
+  slug: andreessen-horowitz
+  year: 2026
+- round: Series B ($85M)
+  slug: benchmark
+  year: 2025
 founded: 2021
-status_company: active
+founders: []
+investors:
+- round: Series B ($85M)
+  slug: peter-fenton
+  year: 2025
+last_researched: 2026-05-21
+location: San Francisco, CA
+name: Exa Labs
 sector:
 - ai
 - search
@@ -13,17 +23,13 @@ sector:
 - enterprise-software
 - infrastructure
 - saas
+slug: exa-labs
 stage_latest: Series C
-total_raised: $250M+
-investors: []
-firms:
-- slug: andreessen-horowitz
-  round: series-c
-  year: 2026
-  date: 2026-05-20
-founders: []
-last_researched: 2026-05-21
 status: published
+status_company: active
+total_raised: $250M+
+type: startup
+website: https://exa.ai/
 ---
 
 ## About
