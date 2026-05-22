@@ -1,17 +1,1 @@
-priority:
-- slug: thrive-capital
-  type: firm
-  reason: "led Socket $60M Series C at $1B val (2026-05-20)"
-  added: 2026-05-22
-- slug: andreessen-horowitz
-  type: firm
-  reason: "participated in Socket $60M Series C (2026-05-20)"
-  added: 2026-05-22
-- slug: dragonfly
-  type: firm
-  reason: "led Variational ~$50M Series A (2026-05-20) — may need new profile"
-  added: 2026-05-22
-- slug: notion-capital
-  type: firm
-  reason: "co-led Pivot $40M Series B (2026-05-21) — may need new profile"
-  added: 2026-05-22
+priority: []

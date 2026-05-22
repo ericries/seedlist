@@ -20,6 +20,166 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Exa Labs raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Exa Labs
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: Mercury raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Mercury
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: Kalshi raised $200M Series F extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Kalshi
+  parsed_amount: $200M
+  parsed_round: Series F Extension
+  status: pending
+- title: per Bloomberg. It previously raised $1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: per Bloomberg. It previously
+  parsed_amount: $1B
+  parsed_round: null
+  status: pending
+- title: Primer raised $100M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Primer
+  parsed_amount: $100M
+  parsed_round: Series C
+  status: pending
+- title: Moment raised $78M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Moment
+  parsed_amount: $78M
+  parsed_round: Series C
+  status: pending
+- title: Scapia raised $63M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Scapia
+  parsed_amount: $63M
+  parsed_round: null
+  status: pending
+- title: Socket raised $60M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Socket
+  parsed_amount: $60M
+  parsed_round: Series C
+  status: pending
+- title: Variational raised $50M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Variational
+  parsed_amount: $50M
+  parsed_round: Series A
+  status: pending
+- title: Pivot raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Pivot
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: pending
+- title: Eisen raised $18.5M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Eisen
+  parsed_amount: $18.5M
+  parsed_round: Seed And Series A
+  status: pending
+- title: Muybridge raised $16M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Muybridge
+  parsed_amount: $16M
+  parsed_round: Series A
+  status: pending
+- title: NanoCo raised $12M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: NanoCo
+  parsed_amount: $12M
+  parsed_round: Seed
+  status: pending
+- title: Quantum Bridge Technologies raised $8M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Quantum Bridge Technologies
+  parsed_amount: $8M
+  parsed_round: Series A
+  status: pending
+- title: Checker raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Checker
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: pending
+- title: CVRD Health raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: CVRD Health
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Sorted Wallet raised $4.4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Sorted Wallet
+  parsed_amount: $4.4M
+  parsed_round: Seed
+  status: pending
+- title: Avian raised $2.6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Avian
+  parsed_amount: $2.6M
+  parsed_round: null
+  status: pending
+- title: MidOcean Energy raised $120M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: MidOcean Energy
+  parsed_amount: $120M
+  parsed_round: null
+  status: pending
+- title: Convective Capital raised $85M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-22'
+  parsed_company: Convective Capital
+  parsed_amount: $85M
+  parsed_round: null
+  status: pending
 - title: Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
   url: https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/
   source: techcrunch
