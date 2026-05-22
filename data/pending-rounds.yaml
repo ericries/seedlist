@@ -41,7 +41,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: hark
-  notes: shipped hark.md ($700M Series A led by Parkway Venture Capital at $6B val; Brett Adcock founder; multimodal AI + custom hardware)
+  notes: shipped hark.md ($700M Series A led by Parkway Venture Capital at $6B val;
+    Brett Adcock founder; multimodal AI + custom hardware)
 - title: Munich-based ClearOps raises €8.6 million Series A to build AI operating
     system for industrial after-sales
   url: https://www.eu-startups.com/2026/05/munich-based-clearops-raises-e8-6-million-series-a-to-build-ai-operating-system-for-industrial-after-sales/
@@ -53,7 +54,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: clearops
-  notes: shipped clearops.md (€8.6M Series A led by Hitachi Ventures w/ Schoeller Group, Barkawi Group; Munich industrial after-sales AI OS)
+  notes: shipped clearops.md (€8.6M Series A led by Hitachi Ventures w/ Schoeller
+    Group, Barkawi Group; Munich industrial after-sales AI OS)
 - title: Finnish SpaceTech company ICEYE secures €300 million revolving credit facility
   url: https://www.eu-startups.com/2026/05/finnish-spacetech-company-iceye-secures-e300-million-revolving-credit-facility/
   source: eu-startups
@@ -74,7 +76,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: searchable
-  notes: duplicate of already-shipped searchable.md Series A (same $14M / €11.9M round led by Headline at $85M / €72.1M val, 2026-05-18)
+  notes: duplicate of already-shipped searchable.md Series A (same $14M / €11.9M round
+    led by Headline at $85M / €72.1M val, 2026-05-18)
 - title: Manchester Imperagen raises €5.8 million Seed to scale AI and quantum-powered
     enzyme engineering
   url: https://www.eu-startups.com/2026/05/manchester-imperagen-raises-e5-8-million-seed-to-scale-ai-and-quantum-powered-enzyme-engineering/
@@ -86,7 +89,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-21'
   slug: imperagen
-  notes: duplicate of already-shipped imperagen.md (same Seed round, EU-Startups reports €5.8M vs TechCrunch £5M for same round)
+  notes: duplicate of already-shipped imperagen.md (same Seed round, EU-Startups reports
+    €5.8M vs TechCrunch £5M for same round)
 - title: Convective Capital raises an $85 million fund to build disaster resilience
   url: https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/
   source: techcrunch
@@ -95,7 +99,16 @@ pending_rounds:
   parsed_amount: $85M
   parsed_round: null
   status: skipped
-  skip_reason: VC fund raise (LP commitments to Convective Capital fund), not a startup operating-company round
+  skip_reason: VC fund raise (LP commitments to Convective Capital fund), not a startup
+    operating-company round
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/20/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-20-2026-2/
+  source: alleywatch
+  date_found: '2026-05-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -1075,16 +1088,3 @@ pending_rounds:
   skip_reason: small €1.31M seed for Slovenian e-invoicing compliance; could not access
     EU-Startups (403) or confirm lead investor via independent primary source per
     "when in doubt, leave it out"
-- title: Prague’s Zerops raises €1.7 million to close the gap between development
-    and production in cloud infrastructure
-  url: https://www.eu-startups.com/2026/05/pragues-zerops-raises-e1-7-million-to-close-the-gap-between-development-and-production-in-cloud-infrastructure/
-  source: eu-startups
-  date_found: '2026-05-14'
-  parsed_company: Prague’s Zerops
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-14'
-  slug: zerops
-  notes: created zerops.md (€1.7M / $2M Seed 2026-05-14 led by Gi21 Capital; Prague
-    PaaS for AI-driven development)
