@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 23,
+      "size": 24,
       "members": [
         {
           "slug": "angela-tran",
@@ -8131,6 +8131,9 @@
         },
         {
           "slug": "ben-kohlmann"
+        },
+        {
+          "slug": "daniel-kan"
         }
       ]
     },
@@ -9228,7 +9231,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 51,
+      "size": 52,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9467,6 +9470,9 @@
         },
         {
           "slug": "ben-kohlmann"
+        },
+        {
+          "slug": "daniel-kan"
         }
       ]
     },
@@ -12034,9 +12040,12 @@
         },
         {
           "slug": "jared-heyman"
+        },
+        {
+          "slug": "daniel-kan"
         }
       ],
-      "size": 5
+      "size": 6
     }
   ]
 }
