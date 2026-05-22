@@ -24740,3 +24740,15 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: daniel-kan
+- name: Primo Capital SGR
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantum-bridge-technologies
+- name: Smile Sail
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harmoney

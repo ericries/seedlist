@@ -146,6 +146,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Frame Security | Stealth-exit ($50M, co-led) | 2026-05-11 | Cybersecurity / Human Risk | [^44][^45] |
 | Adfin | Series A (led, €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
 | Multiverse | Growth (participated, €60M at €1.8B val) | 2026-05-15 | EdTech / AI Workforce Training | [^48][^49] |
+| Scope | Series A (led, €17.3M / ~$20M) | 2026-05-22 | AI / Industrial Inspection / TIC | [^50][^51] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -228,4 +229,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^48]: Tech.eu, "Euan Blair's Multiverse raises $70M at $2.1BN valuation," May 15, 2026. Accessed May 2026. https://tech.eu/2026/05/15/euan-blair-s-multiverse-raises-70m-at-2-1bn-valuation/ — Multiverse's €60M / $70M growth round on May 15, 2026 at €1.8B / $2.1B valuation was led by Schroders Capital with participation from General Catalyst, Lightspeed Venture Partners, D1 Capital Partners, Index Ventures, BOND, and StepStone Group.
 
 [^49]: Silicon Republic, "Euan Blair's edtech Multiverse valued at $2.1bn after $70m raise," May 15, 2026. Accessed May 2026. https://www.siliconrepublic.com/start-ups/euan-blairs-edtech-multiverse-valued-at-2-1bn-after-70m-raise — Independent contemporaneous confirmation of Multiverse's $70M raise at $2.1B valuation led by Schroders Capital, with Index Ventures and other existing investors participating.
+
+[^50]: Sifted, "Exclusive: Index Ventures leads $20m round in AI inspection startup Scope," May 2026. Accessed May 2026. https://sifted.eu/articles/index-ventures-20m-scope — Confirms Index Ventures led Scope's €17.3M (~$20M) Series A on May 22, 2026; participation from Susa Ventures, Entrepreneurs First, Syndicate 1, plus angels Mehdi Ghissassi (Ai71, ex-DeepMind), Cedric Pech (MongoDB), Naren Shaam (Omio), and Andy Szybalski (Microsoft AI).
+
+[^51]: Vestbee, "Scope secures $20M led by Index Ventures to transform industrial inspection," May 2026. Accessed May 2026. https://www.vestbee.com/insights/articles/scope-secures-20-m — Independent confirmation: Scope (founded 2024, London) serves inspectors from 6 of top 10 global TIC inspection companies; 9x ARR growth since July 2025 launch with 100% pilot conversion rate.
 
