@@ -224,6 +224,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Ethos | Series A (participated) | 2026-05-06 | AI / Expert Network / HR Tech | Private [^55] |
 | Greenboard | Series A (participated) | 2026-05-12 | Regtech / Compliance AI | Private [^56] |
 | Status AI | Seed + Series A (led, $17M combined) | 2026-05-19 | AI / Consumer / Social Networking | Private [^63] |
+| Scapia | Series C (led, $63M at $500M+ val) | 2026-05-21 | Fintech / Travel / India | Private [^64] |
 
 *Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -397,4 +398,6 @@ No independently sourced founder testimonials were found in this research pass. 
 [^62]: TechCrunch, "Stripe now valued at $50B following $6.5B raise," March 15, 2023. Accessed May 2026. https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5b-raise/ — Contemporaneous press confirmation of March 15, 2023 Series I; same investor list including General Catalyst.
 
 [^63]: TechCrunch, "Forget the feed: Status AI announces $17M funding to help usher in new era of social networking," May 19, 2026. Accessed May 2026. https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/ — Confirms General Catalyst led Status AI's combined $17M Seed + Series A round on May 19, 2026, with Y Combinator, LightShed Partners, and Abstract participating. Status has 13M generated worlds and 5M character profiles.
+
+[^64]: TechCrunch, "General Catalyst just led a $63M bet on India's travel payments market," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/ — Confirms General Catalyst led Scapia's $63M Series C on May 21, 2026 at $500M+ post-money valuation (up from $200M in April 2025); Peak XV Partners and Z47 participated. Cross-referenced with Business Standard, https://www.business-standard.com/companies/news/scapia-raises-63-million-in-series-c-round-led-by-general-catalyst-126052100896_1.html.
 

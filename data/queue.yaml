@@ -24715,3 +24715,9 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: variational
+- name: Investinor
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: muybridge
