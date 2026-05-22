@@ -101,7 +101,7 @@ The analysis below is based on 22 verified investments personally led by or attr
 | Osmo | Seed | ~2013 | EdTech/Hardware | Acquired (Byju's, 2019) | [^1][^2] |
 | Tact | Seed | ~2014 | SaaS/Enterprise | Active | [^1][^2] |
 | uBeam | Seed | ~2014 | Hardware/Energy | Active | [^1][^2] |
-| Density | Seed | ~2016 | SaaS/IoT | Active | [^16] |
+| Density | Series A | 2016-07-27 | SaaS/IoT | Active | [^16][^25] |
 | GoodRx | Early Stage | ~2012 | Fintech/Healthcare | IPO (2020) | [^4] |
 | Goat | Early Stage | ~2016 | Consumer/Marketplace | Active | [^4] |
 | Modern Animal | Seed | 2019 | Healthcare/Veterinary | Active | [^18] |
@@ -182,3 +182,4 @@ No additional independently sourced founder testimonials found. Suster's reputat
 [^22]: Upfront Ventures, "ThredUp portfolio page," accessed March 2026. https://upfront.com/portfolio/thredup
 [^23]: Future Startup, "5 Brilliant Quotes From Mark Suster: Insight From An Entrepreneur Turned VC," March 2016. https://futurestartup.com/2016/03/08/mark-susters-ama-5-brilliant-quotes-entrepreneur-turned-vc-upfront-ventures/
 [^24]: TechCrunch, "Now a co-managing partner, Upfront's Kara Nortman is one of the first women promoted to a leadership role in VC," October 2020. https://techcrunch.com/2020/10/26/now-a-co-managing-partner-upfronts-kara-nortman-is-one-of-the-first-women-promoted-to-a-leadership-role-in-vc/
+[^25]: "Density raises $4 million to track crowds at the DMV, theme parks and corporate campuses," TechCrunch, July 27, 2016. Accessed May 2026. https://techcrunch.com/2016/07/27/density-series-a/ — $4M Series A led by Mark Suster (Upfront Ventures) with participation from Ludlow Ventures, Jason Calacanis, Dawn Patrol, Hiten Shah, and Arjun Sethi.

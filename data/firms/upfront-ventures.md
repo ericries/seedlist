@@ -125,13 +125,13 @@ This table represents approximately 17% of the firm's 200+ known investments.
 | Modern Animal | Seed | 2019 | Veterinary / pet health | [^28] |
 | Rula | Series A | 2020 | Mental health / teletherapy | [^29] |
 | Bionaut Labs | Seed | 2021 | Medical robotics | [^30] |
-| Daytona | Seed | 2023 | Developer tools | [^31] |
+| Daytona | Seed | 2024-06-25 | Developer tools | [^31][^39] |
 | Fortastra | Seed | 2025 | Space / defense | [^32] |
 | AnySignal | Series A | 2025 | Enterprise software | [^33] |
 | Clair | Seed | 2020 | Fintech / payroll | [^7] |
 | Writer | Series A | 2017 | AI / enterprise | [^34] |
 | Zeitview | Series B | 2018 | Drone inspection / computer vision | [^34] |
-| Density | Seed | 2015 | Workplace analytics / IoT | [^3] |
+| Density | Series A | 2016-07-27 | Workplace analytics / IoT | [^38] |
 | MakeSpace | Seed | 2013 | Consumer services / storage | [^3] |
 | FabFitFun | Seed | 2015 | Consumer / subscription commerce | [^34] |
 | Cordial | Series A | 2017 | Martech / SaaS | [^34] |
@@ -213,3 +213,7 @@ No additional independently sourced founder testimonials found beyond the Dayton
 [^36]: Podcast transcript: Mark Suster, Upfront Ventures, on Venture Unlocked with Samir Kaji. https://sajithpai.com/podcast-transcript-mark-suster-upfront-ventures-on-venture-unlocked-w-samir-kaji/
 
 [^37]: PR Newswire, "Apex Raises $95M in Series B Funding to Increase Productized Satellite Bus Manufacturing," June 12, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/apex-raises-95m-in-series-b-funding-to-increase-productized-satellite-bus-manufacturing-302170161.html — $95M Series B announced June 12, 2024, led by XYZ Venture Capital and co-led by CRV. Upfront Ventures participated as a new investor alongside 8VC, Toyota Ventures, Point72 Ventures, Mirae Asset Capital, Outsiders Fund, GSBackers; existing investors a16z, Shield Capital, J2 Ventures, and Ravelin continued.
+
+[^38]: "Density raises $4 million to track crowds at the DMV, theme parks and corporate campuses," TechCrunch, July 27, 2016. Accessed May 2026. https://techcrunch.com/2016/07/27/density-series-a/ — $4M Series A led by Upfront Ventures (Mark Suster) with participation from Ludlow Ventures, Jason Calacanis, Dawn Patrol, Hiten Shah, and Arjun Sethi.
+
+[^39]: "Daytona Secures $5M to Simplify Development Environments," PR Newswire, June 25, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/daytona-secures-5m-to-simplify-development-environments-302181407.html — $5M seed round led by Upfront Ventures with participation from existing investor 500 EE/500 Global.
