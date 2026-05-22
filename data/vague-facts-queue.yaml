@@ -96536,9 +96536,13 @@ vague_facts:
   profile: investors/matt-rogers
   profile_name: Matt Rogers
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  resolution: Refined to "2020-07-08 | Series B ($32M, Incite via Swati Mylavarapu)".
+    Confirmed via Kindbody Series B press release (July 8, 2020, $32M led by Perceptive
+    Advisors) and Kindbody $100M 2023 announcement acknowledging Swati Mylavarapu/Incite
+    community support. Added [^23] and [^24] citations.
 - column: 4
   company: Quilt
   line: '| Quilt | ~2023 | Seed | Climate / HVAC | [^7][^18] |'
@@ -112974,9 +112978,13 @@ vague_facts:
   profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: Unknown
+  resolution: Refined to "Seed (angel) | 2017-07". Confirmed via First Round Review
+    ("Material Security's Path to Product-Market Fit") that Ryan Noon, Abhishek Agrawal,
+    and Chris Park co-founded the company in 2017 and angel investors wrote their
+    first checks in July 2017. Added [^34] First Round Review citation.
 - column: 4
   company: Faire
   line: '| Faire | 2020 | Series E ($170M) | Marketplace | [^11] |'

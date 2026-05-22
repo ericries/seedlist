@@ -79,7 +79,7 @@ The following is a selection of verified investments from Incite's portfolio pag
 | AMP Robotics | ~2020 | Growth (Series B/C) | Climate / Recycling | [^12][^16][^20] |
 | Heirloom Carbon | ~2022 | Seed/Series A | Climate / Carbon Removal | [^12][^14] |
 | Charm Industrial | 2019 | Seed | Climate / Carbon Removal | [^12][^17][^21] |
-| Kindbody | ~2020 | Growth (Series B/C) | Healthcare / Fertility | [^12][^22] |
+| Kindbody | 2020-07-08 | Series B ($32M, Incite via Swati Mylavarapu) | Healthcare / Fertility | [^12][^22][^23][^24] |
 ~unknown| Gusto | Unknown | Unknown | Enterprise / HR | [^12] |
 ~unknown| Ellevest | Unknown | Unknown | Fintech | [^12] |
 | Quilt | ~2023 | Seed | Climate / HVAC | [^7][^18] |
@@ -160,3 +160,5 @@ This table represents approximately 20 of 76 verified portfolio companies (26%).
 [^20]: BusinessWire, "AMP Robotics Raises $91 Million in Series C Financing," November 2, 2022. https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-%2491-Million-in-Series-C-Financing
 [^21]: Crunchbase, "Charm Industrial Seed Round, 2019-01-01," accessed April 2026. https://www.crunchbase.com/funding_round/charm-industrial-seed--c1e2e457
 [^22]: Crunchbase, "Swati Mylavarapu (Managing Partner, Incite) investor profile — Kindbody investment," accessed April 2026. https://www.crunchbase.com/person/swati-mylavarapu
+[^23]: PR Newswire, "Kindbody Raises $32 Million in Series B Funding to Grow Employer Benefits Solution and Fuel U.S. Expansion," July 8, 2020, accessed May 2026. https://www.prnewswire.com/news-releases/kindbody-raises-32-million-in-series-b-funding-to-grow-employer-benefits-solution-and-fuel-us-expansion-301090458.html — Series B led by Perceptive Advisors with existing investors RRE, GV, Freemark Capital, plus new investors Rock Springs Capital, Goodgrower, Claritas Capital, and NFP Ventures.
+[^24]: Kindbody press, "Kindbody Announces $100 Million in New Funding to Further Accelerate Growth," March 2, 2023, accessed May 2026. https://kindbody.com/kindbody-announces-100-million-in-new-funding-to-further-accelerate-growth/ — Acknowledges Swati Mylavarapu / Incite community support, with Perceptive Advisors providing the $100M to reach a $1.8B valuation.

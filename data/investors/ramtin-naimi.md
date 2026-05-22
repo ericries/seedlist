@@ -113,7 +113,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | Truffle Security | Series B | 2025 | Security / Cybersecurity | [^20] |
 | MagicPath | Seed | 2025 | AI / Design Tools | [^23] |
 | Coworker AI | Seed ($13M, participated) | 2025-05-20 | AI / Enterprise | [^24][^32][^33] |
-| Material Security | Seed | 2017 | Security / Cybersecurity | [^7][^29] |
+| Material Security | Seed (angel) | 2017-07 | Security / Cybersecurity | [^7][^29][^34] |
 ~unknown| Polymarket | Unknown | Unknown | Crypto / Prediction Markets | [^10] |
 ~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
 ~unknown| Avalanche | Unknown | Unknown | Crypto / Blockchain | [^7] |
@@ -212,3 +212,4 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^31]: Techloy, "INFOGRAPHIC: Startup Funding in LATAM—Week 43, 2025," October 24, 2025, accessed May 2026. https://www.techloy.com/infographic-startup-funding-in-latam-week-43-2025/ — Third independent confirmation of Telepatia's $9M seed round (Week 43, 2025) led by A-Star with backing from Canary, Picus, Abstract, SV Angel, and Nido.
 [^32]: Finsmes, "Coworker.ai Raises $13M in Seed Funding," May 21, 2025, accessed May 2026. https://www.finsmes.com/2025/05/coworker-ai-raises-13m-in-seed-funding.html — Independent confirmation that Ramtin Naimi (Abstract Ventures) participated in Coworker.ai's $13M seed round, led by Jeff Huber at Triatomic Capital, alongside Operator Collective, Eniac Ventures, and K2 Access Fund.
 [^33]: The SaaS News, "Coworker.ai Raises $13 Million in Seed Round," May 21, 2025, accessed May 2026. https://www.thesaasnews.com/news/coworker-ai-raises-13-million-in-seed-round — Third independent source confirming Coworker.ai $13M seed announced May 20-21, 2025 with Abstract Ventures (Ramtin Naimi) participating; lead Jeff Huber (Triatomic Capital).
+[^34]: First Round Review, "Material Security's Path to Product-Market Fit," accessed May 2026. https://review.firstround.com/material-securitys-path-to-product-market-fit/ — Confirms Material Security was co-founded in 2017 by Ryan Noon, Abhishek Agrawal, and Chris Park; angel investors wrote their first checks in July 2017 before the team had built an MVP.
