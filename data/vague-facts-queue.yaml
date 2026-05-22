@@ -137871,9 +137871,13 @@ vague_facts:
   profile: startups/github
   profile_name: GitHub
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-22'
+  resolution_note: 'GitHub Oct 2018 acquisition $7.5B by Microsoft: acquisition entry,
+    not a funding round — Microsoft was the acquirer, not investor, and "—" co-investors
+    column is correctly empty.'
 - column: 4
   company: IPO
   line: '| IPO | Aug 2004 | $1.67B | Public offering (NASDAQ: GOOG) | — [^2][^5] |'
@@ -138092,9 +138096,12 @@ vague_facts:
   profile: startups/klaviyo
   profile_name: Klaviyo
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-22'
+  resolution_note: 'Klaviyo Sep 2023 IPO $576M at $30/share (NYSE: KVYO): IPOs do
+    not have a single VC "lead" investor — only underwriters. "—" lead is correct.'
 - column: 3
   company: ~2025
   line: '| ~2025 | Pre-Seed/Seed | $3M | — | — [^2] |'
@@ -138340,9 +138347,14 @@ vague_facts:
   profile: startups/nebius
   profile_name: Nebius
   section: Funding History
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolved: '2026-05-22'
+  resolution_note: 'Nebius convertible senior notes closed 2026-03-20 ($4.3375B aggregate:
+    1.25%/2031 + 2.625%/2033), upsized from $3.75B initial offering. Rule 144A QIB
+    private offering — no single VC lead applies. Date corrected from ~Feb to 2026-03-20
+    per SEC 6-K filings.'
 - column: 4
   company: Mar 2026
   line: '| Mar 2026 | Strategic Investment | $2B | NVIDIA | — [^1] |'
