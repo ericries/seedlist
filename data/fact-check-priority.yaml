@@ -1,1 +1,13 @@
-priority: []
+priority:
+- slug: index-ventures
+  type: firm
+  reason: "led Scope €17.3M Series A (2026-05-22)"
+  added: 2026-05-22
+- slug: primo-capital-sgr
+  type: firm
+  reason: "led Quantum Bridge Technologies $8M Series A (2026-05-20) — may need new profile"
+  added: 2026-05-22
+- slug: smile-sail
+  type: firm
+  reason: "made minority growth investment in Harmoney €10M (2026-05-22) — may need new profile"
+  added: 2026-05-22
