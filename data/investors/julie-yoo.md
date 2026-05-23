@@ -93,7 +93,7 @@ Based on 20 verified investments, Yoo's actual portfolio reveals a strong focus 
 | Tennr | Series C | 2024 | Healthcare AI automation | [^26] |
 | Alchemy | Seed | 2024 | In-house pharmacy infrastructure | [^27] |
 | Counsel Health | Seed | 2024 | AI-powered medical care | [^28] |
-| Pearl Health | Series B (a16z led) | 2023 | Value-based care software | [^5][^32] |
+| Pearl Health | Series B (a16z led) | 2023-01-26 | Value-based care software | [^5][^32] |
 | Aradigm | Series A | 2025 | Health insurance infrastructure | [^29] |
 | Counsel Health | Series A | 2025 | AI-powered medical care | [^30] |
 | TrueMed | Series A | 2025 | Preventative health fintech | [^9] |

@@ -162948,14 +162948,15 @@ vague_facts:
   value: '2024'
 - column: 2
   company: Pearl Health
-  line: '| Pearl Health | Unknown | ~2023 | Value-based care software | [^5] |'
+  line: '| Pearl Health | Series B (a16z led) | 2023-01-26 | Value-based care software | [^5][^32] |'
   priority: normal
   profile: investors/julie-yoo
   profile_name: Julie Yoo
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
-  value: ~2023
+  value: 2023-01-26
+  resolution_notes: "Series B $75M ($55M equity + $20M credit) co-led by a16z Growth Fund + Viking Global, announced 2023-01-26 per PR Newswire. Profile updated with exact date."
 - column: 2
   company: Aradigm
   line: '| Aradigm | Series A | 2025 | Health insurance infrastructure | [^29] |'
@@ -165355,14 +165356,15 @@ vague_facts:
   value: '2024'
 - column: 2
   company: Tracer
-  line: '| Tracer | Unknown | 2023 | E-Commerce Analytics | Active | [^13] |'
+  line: '| Tracer | Series A (via VCP Ventures) | 2023-08-10 | E-Commerce Analytics | Active | [^13][^15] |'
   priority: normal
   profile: investors/marc-lore
   profile_name: Marc Lore
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
-  value: '2023'
+  value: 2023-08-10
+  resolution_notes: "Series A $18.1M co-led by NewRoad Capital Partners, Progress Ventures, BDMI; announced 2023-08-10 per PR Newswire. Marc Lore via VCP Ventures participated. Profile updated with exact date."
 - column: 1
   company: Anthropic
   line: '| Anthropic | 2026 | Series G (co-lead) | [^14] |'

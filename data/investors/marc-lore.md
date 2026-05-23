@@ -75,7 +75,7 @@ This table includes 8 verified investments. Lore's portfolio is small relative t
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Mealplanet | Seed | 2024 | Food Tech | Active | [^12] |
-| Tracer | Series A (via VCP Ventures) | 2023 | E-Commerce Analytics | Active | [^13][^15] |
+| Tracer | Series A (via VCP Ventures) | 2023-08-10 | E-Commerce Analytics | Active | [^13][^15] |
 | Archer Aviation | PIPE/Growth | 2021 | eVTOL / Aerospace | Active (NYSE: ACHR) | [^9] |
 | Tornado (Mojo) | Seed | 2021 | Sports Fintech | Active | [^1] |
 | NOW//with | Seed | 2021 | E-Commerce / Social | Active | [^5] |
