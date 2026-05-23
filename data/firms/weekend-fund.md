@@ -16,7 +16,7 @@ team:
     slug: vedika-jain
     role: General Partner
 status: published
-last_researched: 2026-04-02
+last_researched: 2026-05-23
 ---
 
 ## About
@@ -121,6 +121,7 @@ The firm invests globally, which is unusual for a fund of this size [^1].
 | Vaya | Seed | 2025 | Enterprise | [^13] |
 | Splash | Seed | 2024 | Consumer | [^12] |
 | TrueMed | Seed | 2022 | Consumer Health | [^1] |
+| Clouted | Seed | 2026 | AI/Marketing/Video | [^17] |
 
 *This table represents approximately 49 of ~76 known investments (~64%). Investment years are anchored to fund vintages: Fund I (2017-2018), Fund II (2019-2020), Fund III (2021+). Dates for 2023-2025 investments are sourced from Tracxn and f4.fund. Weekend Fund writes $100K-$300K checks, so individual investment press coverage is limited; most entries are verified via aggregator sources (Tracxn, Weekend Fund website, and TechCrunch fund announcement articles).*
 
@@ -170,3 +171,4 @@ The firm invests globally, which is unusual for a fund of this size [^1].
 [^14]: Mercury blog, "Ryan Hoover errs on the side of curiosity," accessed April 2026. https://mercury.com/blog/ryan-hoover
 [^15]: Weekend Fund website, "Founder Manual," accessed April 2026. https://www.weekend.fund/founder-manual
 [^16]: YourStory, "Funding alert: Web3 treasury management startup Coinshift picks up $15M from Tiger, Sequoia India, Ryan Hoover, others," 2022. https://yourstory.com/the-decrypting-story/funding-alert-coinshift-tiger-sequoia-investment
+[^17]: TechCrunch, "Clouted wants to take the guesswork out of making short videos go viral," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/

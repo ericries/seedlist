@@ -1,16 +1,4 @@
 priority:
-- slug: weekend-fund
-  type: firm
-  reason: "appeared in Clouted seed (2026-05-21)"
-  added: 2026-05-23
-- slug: hustle-fund
-  type: firm
-  reason: "appeared in Clouted seed (2026-05-21)"
-  added: 2026-05-23
-- slug: gokul-rajaram
-  type: investor
-  reason: "appeared in Clouted seed (2026-05-21)"
-  added: 2026-05-23
 - slug: slow-ventures
   type: firm
   reason: "led Clouted seed (2026-05-20)"

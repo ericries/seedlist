@@ -42,7 +42,7 @@ team:
     role: CFO/COO
     slug: elaine-lamsus
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-05-23
 ---
 
 ## About
@@ -113,6 +113,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Uniblock | Seed | 2026 | Web3/Blockchain | Active [^19] |
 | Sage Haven | Pre-Seed | 2026 | Consumer/Kids Safety | Active [^7] |
 | Keebler Health | Series A | 2026 | Healthcare/AI | Active [^27] |
+| Clouted | Seed (participant) | 2026-05-20 | AI/Marketing/Video | Active [^29] |
 
 The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
 
@@ -173,3 +174,5 @@ Hustle Fund reports a Net Promoter Score (NPS) of 93 with its portfolio founders
 [^27]: BusinessWire, "Keebler Health Raises $16M to Unlock Unstructured Clinical Data," April 15, 2026. https://www.businesswire.com/news/home/20260415896518/en/Keebler-Health-Raises-$16M-to-Unlock-Unstructured-Clinical-Data-for-the-Next-Generation-of-Risk-Adjustment-Population-Health-and-RADV-Audit-Readiness
 
 [^28]: GlobeNewsWire, "Pavewise Announces $2.5 Million Seed Funding Round," October 22, 2025. Accessed May 2026. https://www.globenewswire.com/news-release/2025/10/22/3171190/0/en/Pavewise-Announces-2-5-Million-Seed-Funding-Round.html — $2.5M Seed announced October 22, 2025, led by C2 Ventures with participation from Connectic, Service Provider Capital, Geoff Judge, Tom Stemm (ex-Ryvit CEO), M25, gener8tor 1889, Broadwater Capital, and additional investors. Hustle Fund is listed as a participating investor in this round per Tracxn.
+
+[^29]: TechCrunch, "Clouted wants to take the guesswork out of making short videos go viral," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/

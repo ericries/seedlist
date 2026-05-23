@@ -1,10 +1,10 @@
 ---
 check_size: $25K-$1M (angel); fund investments larger via Marathon
 firm: marathon-management-partners
-last_researched: 2026-03-20
+last_researched: 2026-05-23
 last_verified_investment:
-  company: Mirai
-  date: 2026-02-19
+  company: Clouted
+  date: 2026-05-20
   round: Seed
 location: San Francisco, CA
 name: Gokul Rajaram
@@ -127,8 +127,9 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 | Atlas Card | Series B Lead | 2024 | Fintech | PR Newswire [^10] |
 | Boon | Series A Lead | 2024 | AI/Logistics | Marathon [^7] |
 | Niural | Series A Lead | 2025 | Payroll/Finance | PR Newswire [^11] |
+| Clouted | Seed (participant) | 2026-05-20 | AI/Marketing/Video | TechCrunch [^12] |
 
-*This table represents a subset of Rajaram's 300+ angel investments and Marathon fund investments. Only 34 of 300+ investments are listed; many others are unverified or undisclosed [^1][^2].*
+*This table represents a subset of Rajaram's 300+ angel investments and Marathon fund investments. Only 35 of 300+ investments are listed; many others are unverified or undisclosed [^1][^2].*
 
 ## In Their Own Words
 
@@ -159,3 +160,4 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 [^9]: Signal by NFX, "Gokul Rajaram's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/gokul-rajaram
 [^10]: PR Newswire, "Atlas Card Raises Fresh Capital and Announces Major Company Milestones," December 2024. https://www.prnewswire.com/news-releases/atlas-card-raises-fresh-capital-and-announces-major-company-milestones-302328649.html
 [^11]: PR Newswire, "Niural raises $31M to Transform Global CFO and People Operations," June 2025. https://www.prnewswire.com/news-releases/niural-raises-31m-to-transform-global-cfo-and-people-operations-302492603.html
+[^12]: TechCrunch, "Clouted wants to take the guesswork out of making short videos go viral," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/
