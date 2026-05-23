@@ -16,26 +16,28 @@ firms:
     year: 2026
     date: 2026-03-25
 investors: []
-founders: []
+founders:
+  - name: Srikrishnan Ganesan
+    role: Co-Founder & CEO
 status: published
-last_researched: 2026-05-14
+last_researched: 2026-05-23
 ---
 
 ## About
 
-Rocketlane is a SaaS platform for customer onboarding, helping professional services teams deliver faster, more consistent implementations [^1]. The company is based in Chennai, India and was founded in 2020.
+Rocketlane is a Chennai, India-based SaaS platform for customer onboarding and professional services delivery, founded in 2020 and led by co-founder and CEO Srikrishnan Ganesan [^1][^3]. The $60M Series C announced March 25, 2026 was led by Insight Partners with no other participating investors disclosed; the round brings Rocketlane's total capital raised to $105 million and follows a year in which the company more than doubled revenue [^1][^2][^3].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-03-25 | Series C | $60M | Insight Partners | [^1][^2][^3] |
-
-This brought Rocketlane's total capital raised to $105 million [^1].
+| 2026-03-25 | Series C | $60M | Insight Partners | — [^1][^2][^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found.
+> "Professional services teams are crucial engines of enterprise software and help turn signed contracts into real business outcomes. Rocketlane's AI-first platform enables professional services teams to scale their impact without scaling headcount."
+>
+> — Apoorva Goyal, Principal, Insight Partners [^3]
 
 ## What Founders Say
 
