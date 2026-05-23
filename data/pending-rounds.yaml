@@ -27,7 +27,11 @@ pending_rounds:
   parsed_company: Modal
   parsed_amount: $355M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-05-23'
+  slug: modal-labs
+  notes: already shipped as modal-labs.md ($355M Series C 2026-05-21 at $4.65B val,
+    GC/Redpoint led)
 - title: Farther raised $150M Series D
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -35,7 +39,11 @@ pending_rounds:
   parsed_company: Farther
   parsed_amount: $150M
   parsed_round: Series D
-  status: pending
+  status: processed
+  processed: '2026-05-23'
+  slug: farther
+  notes: already shipped as farther.md ($150M Series D 2026-05-20 General Atlantic
+    led, unicorn val)
 - title: Fresha raised $80M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -43,7 +51,10 @@ pending_rounds:
   parsed_company: Fresha
   parsed_amount: $80M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-23'
+  slug: fresha
+  notes: already shipped as fresha.md ($80M Growth 2026-05-21 KKR led, $1B unicorn val)
 - title: SignalPlus raised $40M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -51,7 +62,8 @@ pending_rounds:
   parsed_company: SignalPlus
   parsed_amount: $40M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: already shipped today as signalplus.md
 - title: Oorja Bio raised $30M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -59,7 +71,8 @@ pending_rounds:
   parsed_company: Oorja Bio
   parsed_amount: $30M
   parsed_round: Series A
-  status: pending
+  status: skipped
+  skip_reason: already shipped today as oorja-bio.md
 - title: The Path raised $14.3M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -67,7 +80,11 @@ pending_rounds:
   parsed_company: The Path
   parsed_amount: $14.3M
   parsed_round: Seed
-  status: pending
+  status: processed
+  processed: '2026-05-23'
+  slug: the-path
+  notes: created startup profile the-path.md; $14.3M seed 2026-05-21 led by Prime
+    Movers Lab, founded by Tony Robbins + Calm alums
 - title: Clouted raised $7M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -75,7 +92,11 @@ pending_rounds:
   parsed_company: Clouted
   parsed_amount: $7M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-23'
+  slug: clouted
+  notes: created startup profile clouted.md; $7M seed 2026-05-21 led by Slow Ventures,
+    LA AI virality engine for brands
 - title: Cycles raised $6.4M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -83,7 +104,11 @@ pending_rounds:
   parsed_company: Cycles
   parsed_amount: $6.4M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-23'
+  slug: cycles
+  notes: created startup profile cycles.md; $6.4M seed 2026-05-21 led by Blockchange
+    Ventures, Cosmos co-founder Ethan Buchman's crypto clearing network
 - title: Foundation raised $6.4M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -115,6 +140,14 @@ pending_rounds:
   parsed_company: Oceanhawk Acquisition
   parsed_amount: $160M
   parsed_round: null
+  status: pending
+- title: u003e raised $355M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-23'
+  parsed_company: u003e
+  parsed_amount: $355M
+  parsed_round: Series C
   status: pending
 - title: Exa Labs raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -1084,13 +1117,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-15'
   slug: crew-carbon
-- title: Stitch raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Stitch
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-16'
-  slug: stitch-saudi

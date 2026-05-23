@@ -24941,3 +24941,119 @@ queue:
   discovered_from: signalplus
   source: Lead investor in SignalPlus $40M strategic (2026-05-20); HashKey Group asset
     mgmt arm
+- name: Livspace
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramakant-sharma
+- name: Jungle Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramakant-sharma
+- name: CoinSwitch
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramakant-sharma
+- name: Purplle
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramakant-sharma
+- name: Material Depot
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramakant-sharma
+- name: AITS
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ramakant-sharma
+- name: Designer Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: the-path
+  source: participated in The Path $14.3M seed (2026-05-21)
+- name: Gold House Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clouted
+  source: participated in Clouted $7M seed (2026-05-21)
+- name: Gondor Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clouted
+  source: participated in Clouted $7M seed (2026-05-21)
+- name: Iterative
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clouted
+  source: participated in Clouted $7M seed (2026-05-21)
+- name: AppWorks
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clouted
+  source: participated in Clouted $7M seed (2026-05-21)
+- name: Blockchange Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cycles
+  source: led $6.4M seed in Cycles (2026-05-21)
+- name: Compound VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cycles
+  source: participated in Cycles $6.4M seed (2026-05-21)
+- name: Primitive Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cycles
+  source: participated in Cycles $6.4M seed (2026-05-21)
+- name: Ethan Buchman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cycles
+  discovered_from: cycles
+  source: founder of Cycles, co-founder of Cosmos
+- name: Tony Robbins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: The Path
+  discovered_from: the-path
+  source: co-founder of The Path (mental health AI)
+- name: Anson Whitmer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: The Path
+  discovered_from: the-path
+  source: co-founder of The Path, Calm alum
