@@ -18601,7 +18601,7 @@ queue:
 - name: Max Mullen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Rebel Fund
   discovered_from: steve-huffman
@@ -24808,3 +24808,53 @@ queue:
   added: '2026-03-17'
   discovered_from: cvrd-health
   source: co-investor on CVRD Health $5M seed (2026-05-21) — healthtech/benefits
+- name: Brandon Leonardo
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: max-mullen
+- name: Apoorva Mehta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: max-mullen
+- name: Stedi
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-mullen
+- name: ChampAI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-mullen
+- name: Multiply
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-mullen
+- name: Anomalo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-mullen
+- name: Owner
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-mullen
+- name: Ashby
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: max-mullen

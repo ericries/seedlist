@@ -21,6 +21,9 @@ team:
 - name: Daniel Kan
   role: Partner, Rebel Fund; Co-Founder, Cruise (former COO/CPO)
   slug: daniel-kan
+- name: Max Mullen
+  role: Partner, Rebel Fund; Co-Founder, Instacart
+  slug: max-mullen
 type: firm
 website: https://www.rebelfund.vc/
 ---
