@@ -24913,3 +24913,15 @@ queue:
   firm: Sorted
   discovered_from: sorted-wallet
   source: CEO and founder of Sorted, Hong Kong-based crypto wallet for feature phones
+- name: General Atlantic
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: farther
+- name: KKR
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fresha
