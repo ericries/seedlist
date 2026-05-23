@@ -79,9 +79,9 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 |---------|-------|------|--------|--------|
 | Aligned Marketplace | Seed ($8M, co-led with Maverick) | 2024-04-03 | Healthcare | Active [^19][^25][^26] |
 | Apollo | Firm-level (undisclosed) | ~2022 | Sales/Marketing SaaS | Active [^1] |
-| Cape | Seed/Early | 2025 | Telecommunications/Security | Active [^12] |
+| Cape | Series B extension ($15M equity) | 2025-03-19 | Telecommunications/Security | Active [^12][^27] |
 | Decagon | Series A | 2024-06-18 | AI/Customer Support | Active [^18][^23][^24] |
-| EyeTell | Seed | 2023 | AI/Video | Active [^17] |
+| EyeTell | Seed (led, amount undisclosed) | 2023-11-14 | AI/Video | Active [^17] |
 | Faire | Series B+ | ~2021 | Wholesale Marketplace | Active [^2] |
 | Flock Safety | Series C | 2020 | Public Safety | Active [^20] |
 ~unknown| Krea | — | — | AI/Creative Tools | Active [^1] |
@@ -171,6 +171,8 @@ No independently sourced founder testimonials found. The firm's website does not
 [^25]: Aligned Marketplace, "What Is Advanced Primary Care and Why It Works," April 3, 2024 (company website republication of launch press release), accessed May 2026. https://www.alignedmarketplace.com/insights/aligned-marketplace-launches-to-make-advanced-primary-care-more-accessible-to-employers — Company's own announcement confirming April 3, 2024 launch, $8M seed co-led by A* Capital and Maverick Ventures, participation from Box Group, EPIC Ventures, Liquid2 Ventures, SV Angel.
 
 [^26]: FinSMEs, "Aligned Marketplace Raises $8M in Seed Funding," April 2024, accessed May 2026. https://www.finsmes.com/2024/04/aligned-marketplace-raises-8m-in-seed-funding.html — Third-party press confirmation of $8M seed round.
+
+[^27]: "Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M," TechCrunch, March 19, 2025. https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/ — Series B extension: $15M equity (A*, Costanoa, Point72 Ventures, XYZ Ventures) + $15M debt (SVB).
 
 [^27]: BostonBrandMedia, "Paraform...has secured a substantial $3.6 million in its seed funding round," April 15, 2024, accessed May 2026. https://www.bostonbrandmedia.com/news/paraform-a-startup-dedicated-to-bridging-the-gap-between-startups-and-recruiter-networks-has-secured-a-substantial-3-6-million-in-its-seed-funding-round — Third-party press confirmation of $3.6M seed led by A* Capital on April 15, 2024.
 

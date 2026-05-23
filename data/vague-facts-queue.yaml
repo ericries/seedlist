@@ -140823,9 +140823,12 @@ vague_facts:
   profile: firms/a-star-capital
   profile_name: A*
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2025'
+  resolution: Resolved to 2025-03-19. Cape raised $30M Series B extension ($15M equity
+    from A*, Costanoa, Point72 Ventures, XYZ Ventures + $15M debt from SVB). Source
+    TechCrunch March 19, 2025.
 - column: 2
   company: Decagon
   line: '| Decagon | Series A | 2024 | AI/Customer Support | Active [^18] |'
@@ -140846,9 +140849,11 @@ vague_facts:
   profile: firms/a-star-capital
   profile_name: A*
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2023'
+  resolution: Resolved to 2023-11-14. A* Capital led EyeTell seed round with SV Angel
+    participation. Amount undisclosed. Source Tech Startups November 14, 2023.
 - column: 2
   company: Mercor
   line: '| Mercor | — | 2024 | AI/HR Marketplace | Active [^12] |'
