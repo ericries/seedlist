@@ -34,7 +34,9 @@ SignalPlus is a Hong Kong-based crypto derivatives trading platform [^1][^2][^3]
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "We are very pleased to further offer a deeper capital commitment and reach this cooperation with SignalPlus. Currently, global institutional capital is accelerating its convergence into the crypto derivatives [market]..."
+>
+> — Dr. Xiao Feng, Chairman and CEO, HashKey Group [^4]
 
 ## What Founders Say
 
@@ -45,3 +47,4 @@ No independently sourced founder quotes found at this time.
 [^1]: PR Newswire UK, "HashKey Capital Fund Announces $40M Strategic Investment in SignalPlus," May 20, 2026. Accessed May 2026. https://www.prnewswire.co.uk/news-releases/hashkey-capital-fund-announces-40m-strategic-investment-in-signalplus-302778031.html
 [^2]: Investing.com, "HashKey Capital invests $40m in crypto platform SignalPlus," May 20, 2026. Accessed May 2026. https://www.investing.com/news/company-news/hashkey-capital-invests-40m-in-crypto-platform-signalplus-93CH-4701978
 [^3]: VentureBurn, "SignalPlus Raises $40M to Expand Crypto Trading Tools," May 2026. Accessed May 2026. https://ventureburn.com/signalplus-raises-40m-to-expand-crypto-trading-tools/
+[^4]: HashKey Group Newsroom, "HashKey Announced That It Has Finalized a $40 Million Investment Agreement and Established a Comprehensive Strategic Partnership with SignalPlus," May 20, 2026. Accessed May 2026. https://group.hashkey.com/en/newsroom/hashkey-announced-that-it-has-finalized-a-40-million-investment-agreement-with-signalplus

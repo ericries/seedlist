@@ -38,7 +38,9 @@ Oorja Bio is a Houston, TX-based clinical-stage biopharmaceutical company develo
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Oorja Bio's founding team is very well positioned to accelerate promising drug assets and open up a new chapter for treating IPF and other fibrotic diseases — an area of long-standing challenge for drug development that lacks disease modifying therapies. We look forward to continuing to work with the Oorja Bio team as they advance ORJ-001 in the clinic and build a pipeline to bring new therapies that can redefine the standard of care for patients with IPF and fibrotic diseases."
+>
+> — Beth Seidenberg, Founding Managing Director, Westlake BioPartners [^1]
 
 ## What Founders Say
 
