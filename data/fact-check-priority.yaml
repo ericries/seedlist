@@ -11,3 +11,27 @@ priority:
   type: investor
   reason: "appeared in Clouted seed (2026-05-21)"
   added: 2026-05-23
+- slug: slow-ventures
+  type: firm
+  reason: "led Clouted seed (2026-05-20)"
+  added: 2026-05-23
+- slug: laidlaw-and-company
+  type: firm
+  reason: "led Vêtir Series A first close (2026-05-21)"
+  added: 2026-05-23
+- slug: prime-movers-lab
+  type: firm
+  reason: "led The Path seed (2026-05-21)"
+  added: 2026-05-23
+- slug: fulgur-ventures
+  type: firm
+  reason: "led Foundation Devices growth round (2026-05-21)"
+  added: 2026-05-23
+- slug: blockchange-ventures
+  type: firm
+  reason: "led Cycles seed (2026-05-21)"
+  added: 2026-05-23
+- slug: crucible-capital
+  type: firm
+  reason: "led Shatterdome Energy pre-seed (2026-05-21)"
+  added: 2026-05-23
