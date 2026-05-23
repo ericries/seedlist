@@ -24858,3 +24858,58 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: max-mullen
+- name: Tether
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sorted-wallet
+  source: co-lead of Sorted Wallet $4.4M seed (2026-05-20); stablecoin issuer with
+    strategic investing arm
+- name: Gnosis
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sorted-wallet
+  source: co-lead of Sorted Wallet $4.4M seed (2026-05-20); Gnosis VC arm investing
+    in stablecoin distribution
+- name: Movement
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sorted-wallet
+  source: participant in Sorted Wallet $4.4M seed (2026-05-20)
+- name: Angel Invest Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sorted-wallet
+  source: participant in Sorted Wallet $4.4M seed (2026-05-20)
+- name: Paolo Ardoino
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tether
+  discovered_from: sorted-wallet
+  source: CEO of Tether, quoted in Sorted Wallet $4.4M seed announcement (2026-05-20)
+- name: Daniele Pinna
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gnosis
+  discovered_from: sorted-wallet
+  source: General Partner at Gnosis VC, quoted in Sorted Wallet $4.4M seed announcement
+    (2026-05-20)
+- name: Stephen Browne
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sorted
+  discovered_from: sorted-wallet
+  source: CEO and founder of Sorted, Hong Kong-based crypto wallet for feature phones
