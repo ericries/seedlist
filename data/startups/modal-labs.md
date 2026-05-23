@@ -1,11 +1,29 @@
 ---
-name: Modal Labs
-slug: modal-labs
-type: startup
-website: https://modal.com/
-location: New York, NY
+firms:
+- date: 2026-05-21
+  round: series-c
+  slug: general-catalyst
+  year: 2026
+- date: 2026-05-21
+  round: series-c
+  slug: menlo-ventures
+  year: 2026
+- date: 2026-05-21
+  round: series-c
+  slug: accel
+  year: 2026
+- round: Seed
+  slug: amplify-partners
+  year: 2022
 founded: 2021
-status_company: active
+founders: []
+investors:
+- round: Seed
+  slug: sarah-catanzaro
+  year: 2022
+last_researched: 2026-05-23
+location: New York, NY
+name: Modal Labs
 sector:
 - ai-infrastructure
 - serverless
@@ -13,25 +31,13 @@ sector:
 - cloud
 - gpu
 - enterprise-software
+slug: modal-labs
 stage_latest: Series C
-total_raised: $355M+
-investors: []
-firms:
-- slug: general-catalyst
-  round: series-c
-  year: 2026
-  date: 2026-05-21
-- slug: menlo-ventures
-  round: series-c
-  year: 2026
-  date: 2026-05-21
-- slug: accel
-  round: series-c
-  year: 2026
-  date: 2026-05-21
-founders: []
-last_researched: 2026-05-23
 status: published
+status_company: active
+total_raised: $355M+
+type: startup
+website: https://modal.com/
 ---
 
 ## About

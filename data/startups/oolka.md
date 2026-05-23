@@ -1,25 +1,36 @@
 ---
-name: "Oolka"
-slug: oolka
-type: startup
-website: "https://oolka.in"
-location: "Bengaluru, India"
-founded: 2024
-status_company: active
-sector: [fintech, ai, credit, consumer-finance, india]
-stage_latest: "Series A"
-total_raised: "$21M"
 firms:
-  - slug: accel
-    round: series-a
-    year: 2026
-    date: 2026-04-30
-investors: []
+- date: 2026-04-30
+  round: series-a
+  slug: accel
+  year: 2026
+- round: Seed ($7M)
+  slug: livspace
+  year: 2025
+founded: 2024
 founders:
-  - name: "Utkrishta Kumar"
-    role: "Founder & CEO"
-status: published
+- name: Utkrishta Kumar
+  role: Founder & CEO
+investors:
+- round: Seed ($7M)
+  slug: ramakant-sharma
+  year: 2025
 last_researched: 2026-05-03
+location: Bengaluru, India
+name: Oolka
+sector:
+- fintech
+- ai
+- credit
+- consumer-finance
+- india
+slug: oolka
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $21M
+type: startup
+website: https://oolka.in
 ---
 
 ## About
