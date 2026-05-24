@@ -135,7 +135,8 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Secoda | Angel-Seed | ~2021 | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
 | Noma Security | Series B | 2025 | Enterprise/Security | Active [^7] |
 | Upwind Security | Series B | 2024 | Enterprise/Security | Active [^7] |
-| Unframe AI | Series A | 2025 | Enterprise/AI | Active [^7] |
+| Unframe AI | Series A | 2025-04 | Enterprise/AI | Active [^7] |
+| Unframe | Series B (participant) | 2026-05-19 | Enterprise/AI | Active [^13] |
 | Oasis Security | Series B (led) | 2026 | Enterprise/Cybersecurity | Active [^10] |
 | ComfyUI | Series A (led) | 2026 | AI / Generative Media | Active [^12] |
 
@@ -177,3 +178,4 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^10]: "Oasis Security raises $120 million Series B to secure the rise of AI agents." Calcalist Tech, March 19, 2026. https://www.calcalistech.com/ctechnews/article/ske4mstcwl
 [^11]: Craft Ventures website, "Portfolio — Affirm," accessed March 2026. https://www.craftventures.com/portfolio/affirm
 [^12]: TechCrunch, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media," April 24, 2026. https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/
+[^13]: SiliconANGLE, "Enterprise AI startup Unframe raises $50M after booking $100M in contract value in year one," May 19, 2026. Accessed May 2026. https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/

@@ -27,10 +27,6 @@ priority:
   type: firm
   reason: "led Unframe Series B (2026-05-19)"
   added: 2026-05-24
-- slug: craft-ventures
-  type: firm
-  reason: "participated in Unframe Series B (2026-05-19)"
-  added: 2026-05-24
 - slug: enlightened-hospitality-investments
   type: firm
   reason: "led Blink $17M growth round (2026-05-18)"
@@ -42,10 +38,6 @@ priority:
 - slug: radical-ventures
   type: firm
   reason: "led Decart $300M (2026-05-18)"
-  added: 2026-05-24
-- slug: sequoia-capital
-  type: firm
-  reason: "participated in Decart $300M (2026-05-18)"
   added: 2026-05-24
 - slug: benchmark
   type: firm
@@ -62,10 +54,6 @@ priority:
 - slug: blackrock
   type: firm
   reason: "co-led Armada Series B $230M (2026-05-19)"
-  added: 2026-05-24
-- slug: founders-fund
-  type: firm
-  reason: "participated in Armada Series B (2026-05-19)"
   added: 2026-05-24
 - slug: felicis
   type: firm
