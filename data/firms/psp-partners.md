@@ -81,7 +81,7 @@ Based on 21 verified venture/growth investments by PSP Growth and PSP Partners i
 | Ellevest | Growth round | 2019 | Fintech for women investors | [^20] |
 | Higharc | Series B | 2024 | Construction / homebuilding software | [^21] |
 | PassiveLogic | Series C | 2025 | Autonomous building management | [^22] |
-| QA Wolf | Series A | 2022 | Automated software testing | [^23] |
+| QA Wolf | Series A ($20M) | 2022-09-07 | Automated software testing | [^23][^32][^33] |
 | Pronto Housing | Strategic (via PSP Growth) | 2022-02-22 | Affordable housing software | [^24][^29] |
 | Air Space Intelligence | Series A | 2021 | Aerospace & defense software | [^25] |
 | Nominal | Series B | 2025 | Industrial data platform | [^26] |
@@ -160,3 +160,5 @@ Note: The founder quotes above are primarily from PSP Capital (buyout) portfolio
 [^29]: PR Newswire, "Pronto Housing brings total funding to $9.5MM with Strategic Investment from Affordable Housing Leaders," accessed May 2026. https://www.prnewswire.com/news-releases/pronto-housing-brings-total-funding-to-9-5mm-with-strategic-investment-from-affordable-housing-leaders-302072742.html — Independent confirmation of February 22, 2022 Strategic Partnerships announcement bringing total funding to $4.5M (later $9.5M after subsequent rounds); PSP Growth, Fifth Wall, Alate Partners, Valley National Bank, and Noho Ventures participated.
 [^30]: TechCrunch, "Adept, a startup training AI to use existing software and APIs, raises $350M," March 15, 2023, accessed May 2026. Lists PSP Growth among Series B participants alongside General Catalyst (co-lead), Spark Capital (co-lead), Addition, Greylock, Atlassian Ventures, Microsoft, Nvidia, Workday Ventures, Caterina Fake, Frontiers Capital, SV Angel, and A.Capital. https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/
 [^31]: Adept Labs, "Press Release: Adept announces $350M of new capital," March 14, 2023, accessed May 2026. Official Adept Series B announcement co-led by General Catalyst and Spark Capital with PSP Growth participation. https://www.adept.ai/press/press-release-series-b/
+[^32]: TechCrunch, "QA Wolf exits stealth with an end-to-end service for software testing," September 7, 2022, accessed May 2026. Confirms $20M Series A led by Inspired Capital with participation from Thiel Capital, Notation Capital, CoFound Partners, Operator Partners. https://techcrunch.com/2022/09/07/qa-wolf-exits-stealth-with-an-end-to-end-service-for-software-testing/
+[^33]: PR Newswire, "QA Wolf Launches with over 20 Million Dollars to Bring Zero-Effort Automated QA to Developers at Scale," September 7, 2022, accessed May 2026. Official $20M Series A announcement. https://www.prnewswire.com/news-releases/qa-wolf-launches-with-over-20-million-dollars-to-bring-zero-effort-automated-qa-to-developers-at-scale-301619339.html

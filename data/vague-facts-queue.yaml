@@ -31551,12 +31551,14 @@ vague_facts:
   value: '[^18]'
 - column: 4
   company: QA Wolf
-  line: '| QA Wolf | 2024 | Series B | Enterprise / Testing | [^19] |'
+  line: '| QA Wolf | 2024-07-23 | Series B ($36M) | Enterprise / Testing | [^19] |'
   priority: high
   profile: investors/alexa-von-tobel
   profile_name: Alexa von Tobel
   section: Portfolio
-  status: pending
+  status: resolved
+  resolved: '2026-05-24'
+  resolution_notes: Series B was $36M led by Scale Venture Partners on 2024-07-23; existing investors Inspired Capital and Notation Capital participated; added exact date and amount.
   type: unknown_value
   value: '[^19]'
 - column: 4

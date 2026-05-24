@@ -104,7 +104,7 @@ This table represents approximately 35 of an estimated 68+ total investments (pe
 | Arcade | 2025 | Funding | AI / Consumer | [^18] |
 | CredCore | 2025 | Seed | Fintech | [^18] |
 | Frontera Health | 2025 | Funding | Healthcare | [^18] |
-| QA Wolf | 2024 | Series B | Enterprise / Testing | [^19] |
+| QA Wolf | 2024-07-23 | Series B ($36M) | Enterprise / Testing | [^19] |
 | Duckbill | ~2024 | Seed | AI / Consumer | [^9] |
 | Kalepa | ~2023 | Series A (led) | Fintech / Insurance | [^20] |
 | Suno | ~2023 | Early-stage | AI / Music | [^8] |

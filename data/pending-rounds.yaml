@@ -117,7 +117,10 @@ pending_rounds:
   parsed_company: Foundation
   parsed_amount: $6.4M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-24'
+  slug: foundation-devices
+  notes: already shipped as foundation-devices.md ($6.4M Growth 2026-05-22 Fulgur Ventures led)
 - title: tir raised $5.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -125,7 +128,10 @@ pending_rounds:
   parsed_company: tir
   parsed_amount: $5.5M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-05-24'
+  slug: vetir
+  notes: Axios fragment "tir" is the truncated "Vêtir"; already shipped as vetir.md ($5.5M Series A 2026-05-21 Laidlaw led)
 - title: Shatterdome Energy raised $3.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -133,7 +139,10 @@ pending_rounds:
   parsed_company: Shatterdome Energy
   parsed_amount: $3.5M
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-05-24'
+  slug: shatterdome-energy
+  notes: already shipped as shatterdome-energy.md ($3.5M Pre-Seed 2026-05-21 Crucible Capital led)
 - title: Oceanhawk Acquisition raised $160M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -141,7 +150,9 @@ pending_rounds:
   parsed_company: Oceanhawk Acquisition
   parsed_amount: $160M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: SPAC (Oceanhawk Acquisition Corp) IPO/trust raise, not a startup venture round
 - title: u003e raised $355M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -149,7 +160,9 @@ pending_rounds:
   parsed_company: u003e
   parsed_amount: $355M
   parsed_round: Series C
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: HTML-encoded fragment of Modal Labs $355M Series C (already shipped as modal-labs.md)
 - title: Exa Labs raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -759,7 +772,9 @@ pending_rounds:
   parsed_company: a Montreal-based biopharma AI company that had
   parsed_amount: $13.5M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: refers to Reliant AI ($13.5M total raised in 2024) in context of Cohere's May 2026 acquisition; not a new funding round
 - title: Mach Industries raised $100M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -767,7 +782,9 @@ pending_rounds:
   parsed_company: Mach Industries
   parsed_amount: $100M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: stale Axios fragment referencing Mach Industries $100M Series B from June 2025, not a new round
 - title: Shamrock Capital raised $813M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
