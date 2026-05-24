@@ -39,10 +39,6 @@ priority:
   type: firm
   reason: "led Decart $300M (2026-05-18)"
   added: 2026-05-24
-- slug: benchmark
-  type: firm
-  reason: "participated in Decart $300M (2026-05-18)"
-  added: 2026-05-24
 - slug: caffeinated-capital
   type: firm
   reason: "led Amca Series B $300M (2026-05-20)"

@@ -213,6 +213,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
 | Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
+| Decart | Growth (participated, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference | Private [^44] |
 
 *Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
@@ -352,3 +353,5 @@ The following table includes 45 Benchmark investments verified through press cov
 [^42]: GlobeNewsWire, "Monaco Secures $50 Million in Series B Funding to Grow AI-Powered Sales Platform Amid Strong Customer Demand," May 12, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html — $50M Series B led by Benchmark on May 12, 2026 (Jack Altman general partner provided term sheet two hours after product preview); Founders Fund, Human Capital, Alt Cap, Mantis, Saga VC, Garry Tan, Neil Mehta, John Collison, Patrick Collison participated. Total funding >$85M.
 
 [^43]: PR Newswire, "Reducto Raises $75M Series B to Define the Future of AI Document Intelligence," October 14, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/reducto-raises-75m-series-b-to-define-the-future-of-ai-document-intelligence-302581462.html — $75M Series B led by Andreessen Horowitz on October 14, 2025; Benchmark, First Round Capital, BoxGroup, and Y Combinator participated. Total funding $108M.
+
+[^44]: Decart, "Decart Raises $300M: Tech Leaders Back the Company as Both Customers and Investors," May 18, 2026. Accessed May 2026. https://decart.ai/publications/decart-raises-300m-tech-leaders-back-the-company-as-both-customers-and-investors — Confirms Benchmark as returning investor in Decart's $300M round at $4B valuation led by Radical Ventures on May 18, 2026; new investors Nvidia, Atreides Management, Valor Equity Partners, Adobe Ventures, Toyota Ventures, eBay Ventures joined alongside returning backer Sequoia Capital.
