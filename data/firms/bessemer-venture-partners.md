@@ -153,6 +153,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Blue Apron | Series A ($3M), Series B ($5M, led) | 2013 | Consumer | [^9] |
 | Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | [^15] |
 | Zenskar | Series A | 2026 | Fintech/Billing | [^9] |
+| Unframe | Series B (participant) | 2026-05-19 | AI/Enterprise | [^19] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -203,3 +204,5 @@ However, founder experiences are not universally positive. One founder reported 
 [^17]: Bessemer Venture Partners, "Shopify Investment Memo," accessed March 2026. BVP invested $5M at $25M pre-money. https://www.bvp.com/memos/shopify
 
 [^18]: Anthropic press release, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation — $3.5B Series E announced March 3, 2025 at $61.5B post-money valuation; led by Lightspeed Venture Partners. Bessemer Venture Partners participated alongside Cisco Investments, D1 Capital, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures, and Wellington Management.
+
+[^19]: SiliconANGLE, "Enterprise AI startup Unframe raises $50M after booking $100M in contract value in year one," May 19, 2026. Accessed May 2026. https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/

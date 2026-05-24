@@ -269,6 +269,7 @@ The following table includes a16z investments verified through the firm's own po
 | Mercury | Series D (participated, $200M at $5.2B val; TCV led) | 2026-05-20 | Fintech / Digital Banking | Private [^53] |
 | Exa Labs | Series C (led, $250M at $2.2B val) | 2026-05-20 | AI / Search Infrastructure | Private [^54] |
 | Socket | Series C (participated, $60M at $1B val; Thrive Capital led) | 2026-05-20 | Cybersecurity / Software Supply Chain | Private [^55] |
+| Amca | Series B (participant, $300M at $1B+ val; Caffeinated Capital led) | 2026-05-20 | Aerospace & Defense / Manufacturing | Private [^56] |
 
 *Note: This table includes 74 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -438,3 +439,5 @@ The following table includes a16z investments verified through the firm's own po
 [^54]: Exa Blog, "Exa Raises $250M Series C to Build the Search Engine for AIs," May 2026. Accessed May 2026. https://exa.ai/blog/announcing-series-c — Confirms Andreessen Horowitz led Exa Labs' $250M Series C on May 20, 2026 at $2.2B valuation. Cross-referenced with Bloomberg, "Andreessen-Backed AI Search Startup Exa Valued at $2.2 Billion," May 20, 2026. https://www.bloomberg.com/news/articles/2026-05-20/andreessen-backed-ai-search-startup-exa-valued-at-2-2-billion — Exa powers search for Cursor, Cognition, HubSpot, OpenRouter, Monday.com, and 400,000+ developers.
 
 [^55]: Socket Blog, "Socket Raises $60M Series C at a $1B Valuation to Help Enterprises Build Securely With AI," May 20, 2026. Accessed May 2026. https://socket.dev/blog/socket-raises-60m-series-c-press-release — Confirms Andreessen Horowitz participated in Socket's $60M Series C on May 20, 2026 at $1B valuation led by Thrive Capital; Abstract Ventures and Capital One Ventures also participated.
+
+[^56]: PR Newswire, "Amca Closes $300M Series B at $1B+ Valuation to Strengthen America's Critical Component Supply Chain," May 20, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/amca-closes-300m-series-b-at-1b-valuation-to-strengthen-americas-critical-component-supply-chain-302776943.html — Confirms Andreessen Horowitz participated in Amca's $300M Series B on May 20, 2026 at $1B+ valuation; Caffeinated Capital led; Lightspeed Venture Partners, Lux Capital, Construct Capital, House Capital also participated.

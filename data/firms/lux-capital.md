@@ -123,6 +123,8 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Nominal | Series B Extension | 2026 | Defense Tech / Hardware | Active | [^8] |
 | Cloaked | Series A | 2022 | Consumer / Privacy | Active | [^9] |
 | Cognichip | Seed + Series A | 2024 | AI / Semiconductors | Active | [^10] |
+| Amca | Series B (participant) | 2026-05-20 | Aerospace & Defense / Manufacturing | Active | [^17] |
+| Armada | Series B (participant) | 2026-05-19 | AI Infrastructure / Edge | Active | [^18] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -163,3 +165,7 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^15]: Tracxn, "Ramp — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/ramp/__mMFluFx9yKyt9DXRq5KzSGK2frbsYq5y9jc9XK9-g9E
 
 [^16]: TechCrunch, "Anduril raises $5B, doubles valuation to $61B," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/ — Series H of $5B at $61B post-money led by Thrive Capital and Andreessen Horowitz; existing investors Founders Fund and Lux Capital also participated (per Axios reporting on the round formation).
+
+[^17]: PR Newswire, "Amca Closes $300M Series B at $1B+ Valuation to Strengthen America's Critical Component Supply Chain," May 20, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/amca-closes-300m-series-b-at-1b-valuation-to-strengthen-americas-critical-component-supply-chain-302776943.html
+
+[^18]: PR Newswire, "Armada Announces Agreement with Johnson Controls for Galleon Forge One; Raises $230M in Oversubscribed Series B," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/armada-announces-agreement-with-johnson-controls-for-galleon-forge-one-raises-230m-in-oversubscribed-series-b-with-a-pre-money-valuation-of-2b-to-accelerate-deployment-of-the-us-ai-stack-and-support-explosive-customer-demand--302775720.html

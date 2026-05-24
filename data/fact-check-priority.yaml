@@ -27,10 +27,6 @@ priority:
   type: firm
   reason: "led Unframe Series B (2026-05-19)"
   added: 2026-05-24
-- slug: bessemer-venture-partners
-  type: firm
-  reason: "participated in Unframe Series B (2026-05-19)"
-  added: 2026-05-24
 - slug: craft-ventures
   type: firm
   reason: "participated in Unframe Series B (2026-05-19)"
@@ -62,14 +58,6 @@ priority:
 - slug: lightspeed-venture-partners
   type: firm
   reason: "participated in Amca Series B (2026-05-20)"
-  added: 2026-05-24
-- slug: andreessen-horowitz
-  type: firm
-  reason: "participated in Amca Series B (2026-05-20)"
-  added: 2026-05-24
-- slug: lux-capital
-  type: firm
-  reason: "participated in Amca Series B & Armada Series B (2026-05-19/20)"
   added: 2026-05-24
 - slug: blackrock
   type: firm
