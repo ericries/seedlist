@@ -38,9 +38,12 @@ vague_facts:
   profile: firms/10100
   profile_name: '10100'
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^12]'
+  resolution: Date already upgraded to 2019-06-03 in current profile. Verified seed
+    round $9M led by Bill Gates / Neo / Gigafund, announced June 3-4 2019. Citation
+    [^12] (CNBC article) valid; queue entry was a false positive on bracketed source.
 - column: 1
   company: Spotahome
   line: '| Spotahome | Unknown | 2018 | Rental housing platform | Active | [^13] |'
@@ -73,9 +76,11 @@ vague_facts:
   profile: firms/10100
   profile_name: '10100'
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^5]'
+  resolution: Date upgraded to 2018-06 (Companies House filings reported June 2018
+    acquisition per City AM, March 2019). Added second citation [^20] (City AM).
 - column: 4
   company: Luminar Technologies
   line: '| Luminar Technologies | Pre-Seed | 2015 | LiDAR / Autonomous Vehicles |
