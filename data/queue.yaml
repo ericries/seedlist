@@ -17923,14 +17923,14 @@ queue:
 - name: Anuj Srivastava
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Livspace
   discovered_from: naveen-tewari
 - name: Rajesh Yabaji
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Blackbuck
   discovered_from: naveen-tewari
@@ -25057,3 +25057,83 @@ queue:
   firm: The Path
   discovered_from: the-path
   source: co-founder of The Path, Calm alum
+- name: Swish Club
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anuj-srivastava
+- name: NirogStreet
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anuj-srivastava
+- name: MarketWolf
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anuj-srivastava
+- name: Nestasia
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anuj-srivastava
+- name: Brick & Bolt
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anuj-srivastava
+- name: Chanakya Hridaya
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BlackBuck
+  discovered_from: rajesh-yabaji
+- name: Ramasubramaniam B
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BlackBuck
+  discovered_from: rajesh-yabaji
+- name: BlackBuck
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rajesh-yabaji
+- name: Flent
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rajesh-yabaji
+- name: 4amFresh
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rajesh-yabaji
+- name: Captain Fresh
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rajesh-yabaji
+- name: Log9 Materials
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rajesh-yabaji
+- name: VOGO
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rajesh-yabaji

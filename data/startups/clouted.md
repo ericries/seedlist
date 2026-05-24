@@ -1,11 +1,26 @@
 ---
-name: Clouted
-slug: clouted
-type: startup
-website: https://clouted.com/
-location: Los Angeles, CA
+firms:
+- date: 2026-05-21
+  round: seed
+  slug: weekend-fund
+  year: 2026
+- date: 2026-05-21
+  round: seed
+  slug: hustle-fund
+  year: 2026
+- round: '2026-05-20'
+  slug: marathon-management-partners
+  year: 2026
 founded: 2024
-status_company: active
+founders: []
+investors:
+- date: 2026-05-21
+  round: seed
+  slug: gokul-rajaram
+  year: 2026
+last_researched: 2026-05-23
+location: Los Angeles, CA
+name: Clouted
 sector:
 - ai
 - martech
@@ -13,25 +28,13 @@ sector:
 - creator-economy
 - saas
 - video
+slug: clouted
 stage_latest: Seed
-total_raised: $7M
-investors:
-- slug: gokul-rajaram
-  round: seed
-  year: 2026
-  date: 2026-05-21
-firms:
-- slug: weekend-fund
-  round: seed
-  year: 2026
-  date: 2026-05-21
-- slug: hustle-fund
-  round: seed
-  year: 2026
-  date: 2026-05-21
-founders: []
-last_researched: 2026-05-23
 status: published
+status_company: active
+total_raised: $7M
+type: startup
+website: https://clouted.com/
 ---
 
 ## About

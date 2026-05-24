@@ -1,11 +1,24 @@
 ---
-name: Amca
-slug: amca
-type: startup
-website: https://www.amca.us/
-location: El Segundo, CA
+firms:
+- round: Series A
+  slug: construct-capital
+  year: 2025
 founded: 2024
-status_company: active
+founders:
+- name: Jai Malik
+  role: Co-Founder & CEO
+- name: Eli Giovanetti
+  role: Co-Founder & COO
+investors:
+- round: Series A
+  slug: dayna-grayson
+  year: 2025
+- round: Series A
+  slug: rachel-holt
+  year: 2025
+last_researched: 2026-05-24
+location: El Segundo, CA
+name: Amca
 sector:
 - aerospace
 - defense
@@ -14,17 +27,13 @@ sector:
 - ai
 - hardware
 - industrial
+slug: amca
 stage_latest: Series B
-total_raised: $376.5M+
-investors: []
-firms: []
-founders:
-- name: Jai Malik
-  role: Co-Founder & CEO
-- name: Eli Giovanetti
-  role: Co-Founder & COO
-last_researched: 2026-05-24
 status: published
+status_company: active
+total_raised: $376.5M+
+type: startup
+website: https://www.amca.us/
 ---
 
 ## About

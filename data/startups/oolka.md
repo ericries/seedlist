@@ -7,6 +7,9 @@ firms:
 - round: Seed ($7M)
   slug: livspace
   year: 2025
+- round: Seed ($7M)
+  slug: blackbuck
+  year: 2025
 founded: 2024
 founders:
 - name: Utkrishta Kumar
@@ -14,6 +17,9 @@ founders:
 investors:
 - round: Seed ($7M)
   slug: ramakant-sharma
+  year: 2025
+- round: Seed ($7M)
+  slug: rajesh-yabaji
   year: 2025
 last_researched: 2026-05-03
 location: Bengaluru, India

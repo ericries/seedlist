@@ -1,11 +1,27 @@
 ---
-name: Decart
-slug: decart
-type: startup
-website: https://decart.ai/
-location: Israel
+firms:
+- round: Series A
+  slug: benchmark
+  year: 2024
+- round: Seed ($21M)
+  slug: sequoia-capital
+  year: 2024
 founded: 2023
-status_company: active
+founders:
+- name: Dean Leitersdorf
+  role: Co-Founder & CEO
+- name: Moshe Shalev
+  role: Co-Founder & CPO
+investors:
+- round: Series A
+  slug: victor-lazarte
+  year: 2024
+- round: Seed ($21M)
+  slug: shaun-maguire
+  year: 2024
+last_researched: 2026-05-24
+location: Israel
+name: Decart
 sector:
 - ai
 - world-models
@@ -14,17 +30,13 @@ sector:
 - physical-ai
 - generative-video
 - enterprise-software
+slug: decart
 stage_latest: Growth
-total_raised: $450M+
-investors: []
-firms: []
-founders:
-- name: Dean Leitersdorf
-  role: Co-Founder & CEO
-- name: Moshe Shalev
-  role: Co-Founder & CPO
-last_researched: 2026-05-24
 status: published
+status_company: active
+total_raised: $450M+
+type: startup
+website: https://decart.ai/
 ---
 
 ## About
