@@ -86,7 +86,7 @@ This table includes 17 verified investments. Sources indicate Krieger may have m
 | Scale AI | Series C | ~2019 | AI/Data | Active | [^10] |
 | ElevenLabs | Series A | 2023 | AI/Voice | Active | [^12][^13] |
 | Supabase | Series B | ~2022 | Developer Tools | Active | [^12] |
-| Mirage | Series C | ~2024 | AI | Active | [^12][^14] |
+| Mirage | Series C ($60M) | 2024-07-09 | AI | Active | [^12][^14] |
 | incident.io | Series A | ~2022 | Developer Tools | Active | [^12][^15] |
 | Opal Camera | Series A | 2023 | Consumer Electronics | Active | [^12][^16] |
 | Portola | Seed | 2025 | Fintech | Active | [^12] |
@@ -98,7 +98,7 @@ This table includes 17 verified investments. Sources indicate Krieger may have m
 | Loom | Series B | ~2019 | Video/Productivity | Acquired (Atlassian, $975M) | [^10] |
 | Loft | Series B | ~2020 | Real Estate | Active | [^10] |
 | mmhmm | Seed | 2020 | Video/Productivity | Active | [^9] |
-| CodeCrafters | Seed | 2024 | Developer Education | Active | [^11] |
+| CodeCrafters | Seed ($1.8M) | 2024-11-19 | Developer Education | Active | [^11][^22] |
 
 *Years marked with ~ are approximate based on round timing data; exact investment dates could not be independently confirmed for all entries.*
 
@@ -153,3 +153,4 @@ No independently sourced founder testimonials found. CodeCrafters' seed announce
 [^19]: TechCrunch, "a16z-backed Rooms.xyz," May 2023, accessed April 2026. https://techcrunch.com/2023/05/16/a16z-backed-rooms-xyz-lets-you-build-interactive-3d-rooms-and-simple-games-in-your-browser/
 [^20]: TechCrunch, "VCs love using the AI meeting notepad Granola, so they gave it $20M," October 23, 2024, accessed May 2026. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/ — Identifies prior $4.25M seed round led by Lightspeed (Michael Mignano), with Mike Krieger named as a participating angel.
 [^21]: Tracxn, "Granola - 2026 Funding Rounds & List of Investors," accessed May 2026. https://tracxn.com/d/companies/granola/__20Jmr-YEndDiNQ5Kx3GcTFiYnHr6bnFCf_X_nMg5ay8/funding-and-investors — Records Granola's seed round on May 8, 2023, with 11 institutional investors and 22 angels including Mike Krieger.
+[^22]: TechCrunch, "Codecrafters wants to challenge seasoned developers with hard-to-build projects," November 19, 2024, accessed May 2026. https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/ — Confirms $1.8M seed round announced November 19, 2024, with Mike Krieger listed among participating angels.

@@ -166490,9 +166490,12 @@ vague_facts:
   profile: investors/mike-krieger
   profile_name: Mike Krieger
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2023
+  resolution: Mirage (fka Captions) Series C $60M led by Index Ventures announced
+    2024-07-09. Profile updated to "Series C ($60M) | 2024-07-09". Source [^14]
+    (indexventures.com) confirms date and amount.
 - column: 2
   company: incident.io
   line: '| incident.io | Unknown | ~2023 | Developer Tools | Active | [^12] |'
@@ -166554,9 +166557,12 @@ vague_facts:
   profile: investors/mike-krieger
   profile_name: Mike Krieger
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: '2024'
+  resolution: CodeCrafters $1.8M seed round announced 2024-11-19. Profile updated
+    to "Seed ($1.8M) | 2024-11-19" with new citation [^22] (TechCrunch). Krieger
+    confirmed as participating angel.
 - column: 1
   company: GK8
   line: '| GK8 | 2023 | Acquisition ($44M, from Celsius bankruptcy) | [^20] |'
