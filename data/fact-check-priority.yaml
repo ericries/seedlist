@@ -23,3 +23,19 @@ priority:
   type: firm
   reason: "led Shatterdome Energy pre-seed (2026-05-21)"
   added: 2026-05-23
+- slug: highland-europe
+  type: firm
+  reason: "led Unframe Series B (2026-05-19)"
+  added: 2026-05-24
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "participated in Unframe Series B (2026-05-19)"
+  added: 2026-05-24
+- slug: craft-ventures
+  type: firm
+  reason: "participated in Unframe Series B (2026-05-19)"
+  added: 2026-05-24
+- slug: enlightened-hospitality-investments
+  type: firm
+  reason: "led Blink $17M growth round (2026-05-18)"
+  added: 2026-05-24
