@@ -54,7 +54,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-23'
   slug: fresha
-  notes: already shipped as fresha.md ($80M Growth 2026-05-21 KKR led, $1B unicorn val)
+  notes: already shipped as fresha.md ($80M Growth 2026-05-21 KKR led, $1B unicorn
+    val)
 - title: SignalPlus raised $40M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
