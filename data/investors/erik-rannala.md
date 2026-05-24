@@ -79,7 +79,7 @@ This table represents approximately 14% of Mucker's 169 reported investments. Mu
 |---------|------|-------|--------|
 | Honey (acq. PayPal, $4B) | 2014 | Seed | [^14] |
 | ServiceTitan (NASDAQ IPO, Dec 2024, $5.31B) | 2014 | Seed | [^6][^15] |
-~unknown| AuditBoard | — | Seed | [^6] |
+| AuditBoard | 2015 | Seed | [^6][^25] |
 ~unknown| Surf Air (NASDAQ IPO, $982M) | — | Seed | [^10][^6] |
 ~unknown| Thrive Market | — | Seed | [^6] |
 ~unknown| The Black Tux | — | Seed | [^10] |
@@ -156,3 +156,4 @@ No independently sourced founder testimonials found with verifiable attribution.
 [^22]: SiliconANGLE, "SkyfireAI lands $11M to bring AI autonomy to public safety and defense drones," April 28, 2026, accessed May 2026. https://siliconangle.com/2026/04/28/skyfireai-lands-11m-bring-ai-autonomy-public-safety-defense-drones/
 [^23]: DroneDJ, "SkyfireAI raises $11M for autonomous drone coordination," May 1, 2026, accessed May 2026. https://dronedj.com/2026/05/01/skyfireai-autonomous-drone-seed-funding/
 [^24]: PRNewswire, "Handl Health secures $2.5M in Seed Funding to drive innovation for the employer-sponsored benefits ecosystem," April 24, 2024, accessed May 2026. https://www.prnewswire.com/news-releases/handl-health-secures-2-5m-in-seed-funding-to-drive-innovation-for-the-employer-sponsored-benefits-ecosystem-302124817.html
+[^25]: Crunchbase, "AuditBoard - Seed Round (2015-09-01)," accessed May 2026. https://www.crunchbase.com/funding_round/auditboard-seed--fd432a44

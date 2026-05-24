@@ -60259,15 +60259,16 @@ vague_facts:
   type: unknown_value
   value: '[^6][^15]'
 - column: 2
-  company: ~unknown
+  company: AuditBoard
   line: ~unknown| AuditBoard | — | Seed | [^6] |
   priority: high
   profile: investors/erik-rannala
   profile_name: Erik Rannala
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: —
+  resolution: 'Seed round 2015-09-01 per Crunchbase; updated to 2015. Co-investors: Mucker Capital, Wavemaker, Act One Ventures.'
 - column: 3
   company: Emotive ($50M Series B)
   line: '| Emotive ($50M Series B) | 2021 | Seed | [^16] |'
