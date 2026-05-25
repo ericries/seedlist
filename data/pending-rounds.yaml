@@ -26,27 +26,36 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-05-25'
   parsed_company: Lithuania’s Backoffice
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €150K
+  parsed_round: Pre-seed
+  status: processed
+  processed: '2026-05-26'
+  slug: backoffice
+  notes: created startup profile backoffice.md; FIRSTPICK and Lost Astronaut led pre-seed
 - title: Tequipy, founded by Revolut’s former IT chief, raises over €3 million to
     automate global device logistics
   url: https://www.eu-startups.com/2026/05/tequipy-founded-by-revoluts-former-it-chief-raises-over-e3-million-to-automate-global-device-logistics/
   source: eu-startups
   date_found: '2026-05-25'
-  parsed_company: Tequipy, founded by Revolut’s former IT chief,
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_company: Tequipy
+  parsed_amount: €3M+
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-26'
+  slug: tequipy
+  notes: created startup profile tequipy.md; Smedvig Ventures led, Manta Ray and Unfold.vc participated
 - title: Perplant raises €1 million to equip tractors with AI “eyes” to cut herbicide
     use and boost profits for farmers
   url: https://www.eu-startups.com/2026/05/perplant-raises-e1-million-to-equip-tractors-with-ai-eyes-to-cut-herbicide-use-and-boost-profits-for-farmers/
   source: eu-startups
   date_found: '2026-05-25'
   parsed_company: Perplant
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €1M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-26'
+  slug: perplant
+  notes: created startup profile perplant.md; Jytte Rosenmaj and Kræn Østergaard Nielsen led, Antler/Footprint Firm prior backers
 - title: 'The Weekly Notable Startup Funding Report: 5/25/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-25-26/
   source: alleywatch
@@ -54,7 +63,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-26'
+  skip_reason: weekly roundup aggregating already-shipped rounds (Modal, Farther, Fresha, etc.)
 - title: Modal raised $355M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
