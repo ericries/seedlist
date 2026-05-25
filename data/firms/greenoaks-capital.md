@@ -88,7 +88,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 | OYO | Series A | 2014 | Hospitality | Active | [^16] |
 | Deliveroo | Series C | 2015 | Food delivery | Public (LSE) | [^16] |
 | Robinhood | Series C | 2017 | Fintech | Public (NASDAQ: HOOD) | [^38] |
-| Brex | Series C | 2018 | Fintech | Active | [^20] |
+| Brex | Series C ($125M) | 2018-10-05 | Fintech | Active | [^20] |
 | Discord | Series H | 2020 | Consumer/gaming | Active | [^21] |
 | Motive (KeepTruckin) | Series D | 2019 | Fleet management | Active | [^22] |
 | Stripe | Growth | ~2019 | Fintech/payments | Active | [^6] |

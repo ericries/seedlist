@@ -129,7 +129,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Twilio | Seed ($125K), then Series B ($12M, led) | 2009, 2010 | Developer/Cloud | [^9] |
 | Anthropic | Series E (participated) | 2025-03-03 | AI | [^12][^18] |
 | Canva | Growth | 2018 | Consumer/Design | [^12] |
-| Ramp | Series E | 2025 | Fintech | [^12] |
+| Ramp | Series E ($300M primary) | 2025-11-17 | Fintech | [^12][^20] |
 | Perplexity | Series B ($250M) | 2024 | AI | [^12] |
 | ServiceTitan | Series A ($18M, led) | 2015 | Vertical Software | [^9] |
 | Toast | Series A, then Series B ($30M, led) | 2015, 2016 | Vertical Software | [^9] |
@@ -206,3 +206,5 @@ However, founder experiences are not universally positive. One founder reported 
 [^18]: Anthropic press release, "Anthropic raises Series E at $61.5B post-money valuation," March 3, 2025. Accessed May 2026. https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation — $3.5B Series E announced March 3, 2025 at $61.5B post-money valuation; led by Lightspeed Venture Partners. Bessemer Venture Partners participated alongside Cisco Investments, D1 Capital, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures, and Wellington Management.
 
 [^19]: SiliconANGLE, "Enterprise AI startup Unframe raises $50M after booking $100M in contract value in year one," May 19, 2026. Accessed May 2026. https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/
+
+[^20]: PR Newswire, "Ramp Reaches $32 Billion Valuation, Doubling Revenue and Customers in Past Year," November 17, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/ramp-reaches-32-billion-valuation-doubling-revenue-and-customers-in-past-year-302616510.html — Confirms $300M primary financing round closed November 17, 2025 with Bessemer Venture Partners among new investors (alongside Alpha Wave Global, Robinhood Ventures, 1789 Capital, Epicenter Capital, Coral Capital).

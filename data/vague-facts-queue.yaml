@@ -4012,9 +4012,10 @@ vague_facts:
   profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^12]'
+  resolution: 'Updated to Series E ($300M primary) on 2025-11-17 per PR Newswire press release citing Ramp at $32B valuation [^20]. Bessemer joined Ramp as new investor in this round, not 2021.'
 - column: 4
   company: Perplexity
   line: '| Perplexity | Early | 2023 | AI | [^12] |'
@@ -10509,9 +10510,10 @@ vague_facts:
   profile: firms/greenoaks-capital
   profile_name: Greenoaks Capital
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^20]'
+  resolution: 'Updated to Series C ($125M) on 2018-10-05 per Brex press release cited in profile [^20].'
 - column: 5
   company: Discord
   line: '| Discord | Series H | 2020 | Consumer/gaming | Active | [^21] |'
