@@ -95,7 +95,7 @@ This table includes 57 verified investments (41 active + 16 alumni) from Kleiner
 | Figma | Series B (led) | ~2016 | Design/Productivity | Public (IPO 2025) | [^1] [^3] |
 | Slack | Series A (led) | ~2013 | Enterprise SaaS | Acquired (Salesforce, $27.7B) | [^2] (Social Capital) |
 | Rippling | Series A (led) | 2019 | Enterprise SaaS/HR | Active ($11B+ valuation) | [^4] |
-~unknown| Glean | — | — | AI/Enterprise Search | Active | [^1] |
+| Glean | Series A ($15M, co-led with Lightspeed) | 2019-03 | AI/Enterprise Search | Active | [^1] [^11] [^12] |
 ~unknown| Anthropic | — | — | AI | Active | [^1] |
 ~unknown| Harvey | — | — | AI/Legal | Active | [^1] |
 | Modern Health | Series A (led) | 2019 | Healthcare | Active | [^9] |
@@ -180,3 +180,5 @@ Dylan Field, co-founder and CEO of Figma, has said of Hamid: "He understood our 
 [^8]: Signal by NFX, "Mamoon Hamid's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/mamoon-hamid
 [^9]: PR Newswire, "Modern Health Raises a $9M Series A Round Led by Kleiner Perkins," May 23, 2019, accessed March 2026. https://www.prnewswire.com/news-releases/modern-health-raises-a-9m-series-a-round-led-by-kleiner-perkins-300855797.html
 [^10]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c
+[^11]: Kleiner Perkins, "Glean — Case Study" by Mamoon Hamid, September 15, 2021, accessed May 2026. https://www.kleinerperkins.com/case-study/glean/ (Kleiner led Glean's Series A and has invested in every subsequent round)
+[^12]: Wikipedia, "Glean Technologies," accessed May 2026. https://en.wikipedia.org/wiki/Glean_Technologies (Series A: $15M, March 2019, led by Kleiner Perkins and Lightspeed with Slack Fund participation)

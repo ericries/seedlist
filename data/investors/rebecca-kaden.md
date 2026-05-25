@@ -79,7 +79,7 @@ This table includes 14 verified investments. USV uses a partnership model where 
 | Outschool | Series A | 2019 | EdTech | Active | [^9] |
 | Stash | Series D | 2018-02-13 | Fintech | Active | [^14] |
 | Dolls Kill | Series A | 2014 | Consumer (Maveron) | Active | [^4] |
-~unknown| Duolingo | Series A | 2011-10 | EdTech | Public (NASDAQ: DUOL) | [^15] |
+| Duolingo | Series A ($3.3M, led) | 2011-10 | EdTech | Public (NASDAQ: DUOL) | [^15][^16] |
 ~unknown| Quizlet | — | — | EdTech | Active | [^8] |
 ~unknown| Fiveable | — | — | EdTech | Active | [^8] |
 ~unknown| Coinbase | — | — | Crypto/Fintech | Public (NASDAQ: COIN) | [^8] |
@@ -123,3 +123,4 @@ No independently sourced founder testimonials found. Kaden's Outschool investmen
 [^13]: Built In NYC, "The General Intelligence Company Raises $8.7M to Fully Automate Businesses," December 12, 2025, accessed April 2026. https://www.builtinnyc.com/articles/general-intelligence-company-raises-8m-seed-20251212
 [^14]: FinTech Global, "Stash picks up $37.5m Series D led by Union Square," February 13, 2018, accessed April 2026. https://fintech.global/2018/02/13/stash-picks-up-37-5m-series-d-led-by-union-square/
 [^15]: Union Square Ventures, "Duolingo," June 18, 2012, accessed April 2026. https://www.usv.com/writing/2012/06/duolingo/ (USV led Duolingo's $3.3M Series A announced October 2011; per Duolingo's Wikipedia-referenced funding history and USV's 2012 post)
+[^16]: TechCrunch, "Duolingo Raises $15M Series B Round Led By NEA, Will Expand To More Languages And To Mobile Soon," September 17, 2012, accessed May 2026. https://techcrunch.com/2012/09/17/duolingo-raises-15m-series-b-round-lead-by-nea-will-expand-to-more-languages-and-to-mobile-soon/ (confirms Series A: $3.3M, October 2011, led by Union Square Ventures with Ashton Kutcher and Tim Ferriss)
