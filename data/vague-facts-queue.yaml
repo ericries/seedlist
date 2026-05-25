@@ -4264,9 +4264,10 @@ vague_facts:
   profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^1]'
+  note: "Basis seed $3.6M led by BTV in Oct 2023; now Series B at $1.15B (Feb 2026)"
 - column: 5
   company: InScope
   line: '| InScope | Seed | 2022 | Accounting/Reporting | Active (Series A) | [^1]

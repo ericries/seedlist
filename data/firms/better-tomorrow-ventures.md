@@ -75,7 +75,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 | Unit | Seed (co-led) | 2020 | Infrastructure/Embedded Finance | Active (Series B) | [^1][^10] |
 | Coast | Seed | 2020 | Payments/Fleet Management | Active (Series B) | [^1] |
 | Relay | Seed | 2020 | Banking/SMB Neobank | Active (Series B) | [^1] |
-| Basis | Seed | 2023 | Accounting/AI | Active | [^1] |
+| Basis | Seed (led, $3.6M) | 2023-10 | Accounting/AI | Active (Series B, $1.15B valuation) | [^1][^13][^14] |
 | InScope | Seed | 2022 | Accounting/Reporting | Active (Series A) | [^1] |
 | Layer | Seed | 2023 | Accounting/Embedded | Active | [^1] |
 | Mendel | Seed | 2022 | Cards/Expense Management | Active (Series A) | [^1] |
@@ -122,3 +122,5 @@ Note: These testimonials are sourced from BTV's own website and marketing materi
 [^10]: The Spl.it podcast, "Sheel Mohnot on Building Two Fintechs, Starting Better Tomorrow Ventures." Confirms BTV co-led Unit seed round, committed in Sep 2019. https://www.thespl.it/p/sheel-mohnot-on-building-two-fintechs
 [^11]: GlobeNewswire, "InstaSwitch launches account activation infrastructure for business banking and announces $4.7M in funding," May 5, 2026. $4.7M seed led by Chicago Ventures with 8-Bit Capital, Better Tomorrow Ventures, and Panache Ventures participating. https://www.globenewswire.com/news-release/2026/05/05/3287812/0/en/InstaSwitch-launches-account-activation-infrastructure-for-business-banking-and-announces-4-7M-in-funding.html
 [^12]: Tech Funding News, "InstaSwitch lands $4.7M from Chicago Ventures, 8-Bit Capital to fix inactive business bank accounts with AI," May 5, 2026. https://techfundingnews.com/instaswitch-lands-4-7m-from-chicago-ventures-8-bit-capital-to-fix-inactive-business-bank-accounts-with-ai/
+[^13]: PR Newswire, "Basis Secures $3.6 Million to Bring AI to Accounting Firms," October 2023. https://www.prnewswire.com/news-releases/basis-secures-3-6-million-to-bring-ai-to-accounting-firms-301964975.html
+[^14]: SiliconANGLE, "AI accounting startup Basis secures $100M at $1.15B valuation as firms adopt agent-based workflows," February 24, 2026. https://siliconangle.com/2026/02/24/ai-accounting-startup-basis-secures-100m-1-15b-valuation-firms-adopt-agent-based-workflows/

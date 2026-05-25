@@ -25186,3 +25186,17 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: martin-varsavsky
+- name: Ondine Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aboard
+  source: co-lead on Aboard Pre-Series A (2026-05-21)
+- name: Llama Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aboard
+  source: co-lead on Aboard Pre-Series A (2026-05-21)
