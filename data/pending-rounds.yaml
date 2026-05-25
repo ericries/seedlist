@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Lithuania’s Backoffice secures €150k to build the operating system for European
+    hospitality
+  url: https://www.eu-startups.com/2026/05/lithuanias-backoffice-secures-e150k-to-build-the-operating-system-for-european-hospitality/
+  source: eu-startups
+  date_found: '2026-05-25'
+  parsed_company: Lithuania’s Backoffice
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Tequipy, founded by Revolut’s former IT chief, raises over €3 million to
+    automate global device logistics
+  url: https://www.eu-startups.com/2026/05/tequipy-founded-by-revoluts-former-it-chief-raises-over-e3-million-to-automate-global-device-logistics/
+  source: eu-startups
+  date_found: '2026-05-25'
+  parsed_company: Tequipy, founded by Revolut’s former IT chief,
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Modal raised $355M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1138,23 +1156,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: elliptic
-- title: Fasset raised $51M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Fasset
-  parsed_amount: $51M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-16'
-  slug: fasset
-- title: Crew Carbon raised $25M equity and grant
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Crew Carbon
-  parsed_amount: $25M
-  parsed_round: Equity And Grant
-  status: processed
-  processed: '2026-05-15'
-  slug: crew-carbon
