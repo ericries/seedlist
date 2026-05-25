@@ -20220,7 +20220,7 @@ queue:
 - name: Martin Varsavsky
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: david-karp
 - name: Marco Arment
@@ -25137,3 +25137,52 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: rajesh-yabaji
+- name: Dina Radenkovic
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gameto
+  discovered_from: martin-varsavsky
+- name: Overture Life
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
+- name: Prelude Fertility
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
+- name: Goggo Network
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
+- name: Lee Equity Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
+- name: VAS Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
+- name: Ample
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
+- name: Daye
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: martin-varsavsky
