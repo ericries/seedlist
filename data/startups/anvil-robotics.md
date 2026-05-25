@@ -19,7 +19,7 @@ founders:
 - name: Vijay Pradeep
   role: CTO
 status: published
-last_researched: 2026-04-02
+last_researched: 2026-05-25
 ---
 
 ## About
@@ -31,7 +31,7 @@ Anvil Robotics is an eight-month-old startup that builds customizable robots des
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2025 | Pre-Seed | $1M | Matter Venture Partners | — [^1] |
-| 2026-04-02 | Seed | $5.5M | Matter Venture Partners, Humba Ventures | DNX Ventures, Spacecadet Ventures, Position Ventures, Vivek Sodera [^1] |
+| 2026-04-02 | Seed | $5.5M | Matter Venture Partners, Humba Ventures | DNX Ventures, Spacecadet Ventures, Position Ventures, Vivek Sodera [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -48,3 +48,5 @@ Mike Xia on the platform's appeal: "If you work with Anvil, you're not locked in
 ## Sources
 
 [^1]: Crunchbase News, "Exclusive: Anvil Robotics Raises $5.5M to Build 'Legos for Robots' Platform For Physical AI Teams," April 2, 2026. https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/
+[^2]: AI Insider, "Anvil Robotics Raises $6.5M in Funding for Composable Modules Physical AI Platform," April 3, 2026. Accessed May 2026. https://theaiinsider.tech/2026/04/03/anvil-robotics-raises-6-5m-in-funding-for-composable-modules-physical-ai-platform/
+[^3]: Humanoids Daily, "Anvil Robotics Secures $6.5M to Build a Composable 'Physical AI' Stack," April 2, 2026. Accessed May 2026. https://www.humanoidsdaily.com/news/anvil-robotics-secures-6-5m-to-build-a-composable-physical-ai-stack
