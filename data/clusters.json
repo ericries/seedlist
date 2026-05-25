@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 24,
+      "size": 25,
       "members": [
         {
           "slug": "angela-tran",
@@ -8134,6 +8134,9 @@
         },
         {
           "slug": "daniel-kan"
+        },
+        {
+          "slug": "jeff-hammerbacher"
         }
       ]
     },
@@ -9231,7 +9234,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 52,
+      "size": 59,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9473,6 +9476,27 @@
         },
         {
           "slug": "daniel-kan"
+        },
+        {
+          "slug": "jeff-hammerbacher"
+        },
+        {
+          "slug": "chris-stolte"
+        },
+        {
+          "slug": "martin-varsavsky"
+        },
+        {
+          "slug": "anuj-srivastava"
+        },
+        {
+          "slug": "rajesh-yabaji"
+        },
+        {
+          "slug": "ramakant-sharma"
+        },
+        {
+          "slug": "max-mullen"
         }
       ]
     },
@@ -9722,7 +9746,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 25,
+      "size": 29,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9845,6 +9869,18 @@
         },
         {
           "slug": "greg-gottesman"
+        },
+        {
+          "slug": "jeff-hammerbacher"
+        },
+        {
+          "slug": "martin-varsavsky"
+        },
+        {
+          "slug": "ramakant-sharma"
+        },
+        {
+          "slug": "max-mullen"
         }
       ]
     },
@@ -11397,7 +11433,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 18,
+      "size": 22,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11483,6 +11519,18 @@
         },
         {
           "slug": "zishaan-hayath"
+        },
+        {
+          "slug": "martin-varsavsky"
+        },
+        {
+          "slug": "anuj-srivastava"
+        },
+        {
+          "slug": "rajesh-yabaji"
+        },
+        {
+          "slug": "ramakant-sharma"
         }
       ]
     },
@@ -11832,7 +11880,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 13,
+      "size": 16,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11896,6 +11944,15 @@
         },
         {
           "slug": "zishaan-hayath"
+        },
+        {
+          "slug": "anuj-srivastava"
+        },
+        {
+          "slug": "rajesh-yabaji"
+        },
+        {
+          "slug": "ramakant-sharma"
         }
       ],
       "id": "curated-48"
@@ -11904,7 +11961,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 14,
+      "size": 17,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -11973,6 +12030,15 @@
         },
         {
           "slug": "zishaan-hayath"
+        },
+        {
+          "slug": "anuj-srivastava"
+        },
+        {
+          "slug": "rajesh-yabaji"
+        },
+        {
+          "slug": "ramakant-sharma"
         }
       ],
       "id": "curated-49"
@@ -12043,9 +12109,12 @@
         },
         {
           "slug": "daniel-kan"
+        },
+        {
+          "slug": "max-mullen"
         }
       ],
-      "size": 6
+      "size": 7
     }
   ]
 }
