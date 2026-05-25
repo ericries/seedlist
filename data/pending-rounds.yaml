@@ -541,7 +541,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: AlleyWatch daily roundup duplicate; notable NYC rounds from 5/20 already shipped (Mercury, Exa, etc.)
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -792,7 +794,9 @@ pending_rounds:
   parsed_company: Shamrock Capital
   parsed_amount: $813M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: VC fund close (Shamrock Capital fund LP commitments), not a startup operating-company round
 - title: Stellus Capital Management raised $1.5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -800,7 +804,9 @@ pending_rounds:
   parsed_company: Stellus Capital Management
   parsed_amount: $1.5B
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: PE/credit fund close (Stellus Capital Management direct lending fund), not a startup operating-company round
 - title: Digital Banking Startup Mercury Lands $200M At $5.2B Valuation Amid Fintech
     Funding Uptick
   url: https://news.crunchbase.com/venture/fintech-funding-digital-banking-startup-mercury-lands-200m/
@@ -809,7 +815,10 @@ pending_rounds:
   parsed_company: Digital Banking Startup Mercury
   parsed_amount: $200M
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  slug: mercury
+  skip_reason: already shipped as mercury.md ($200M Series D 2026-05-20 TCV-led at $5.2B val); Crunchbase article is a duplicate
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/20/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-20-2026/
   source: alleywatch
@@ -817,7 +826,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-24'
+  skip_reason: AlleyWatch daily roundup; top NYC rounds from 5/20 already shipped (Mercury, Exa, etc.)
 - title: Munich’s Feldwerke secures €12 million revolving credit facility to build
     100 MW agri-PV portfolio in 18 months
   url: https://www.eu-startups.com/2026/05/munichs-feldwerke-secures-e12-million-revolving-credit-facility-to-build-100-mw-agri-pv-portfolio-in-18-months/
