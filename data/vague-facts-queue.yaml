@@ -191313,7 +191313,8 @@ vague_facts:
   profile: firms/initialized-capital
   profile_name: Initialized Capital
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Updated to 2014-07-07 per TechCrunch announcement (footnote 13)"
   type: year_only_date
   value: '2014'
 - column: 2
@@ -191323,7 +191324,8 @@ vague_facts:
   profile: firms/initialized-capital
   profile_name: Initialized Capital
   section: Portfolio
-  status: pending
+  status: resolved
+  resolution: "Updated to 2013-08-02 per Tracxn funding history"
   type: year_only_date
   value: '2013'
 - column: 2
