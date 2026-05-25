@@ -23,7 +23,7 @@ investors:
 - round: Sweat Equity
   slug: dan-portillo
   year: 2022
-last_researched: 2026-04-24
+last_researched: 2026-05-25
 location: San Francisco, California
 name: Afresh
 sector:
@@ -51,7 +51,7 @@ Afresh is a San Francisco-based AI platform for the grocery industry, focused on
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2022-08-04 | Series B | $115M | Spark Capital | Insight Partners, VMG Partners, Bright Pixel Capital, Maersk Growth, High Sage Ventures, Innovation Endeavors, S2G Ventures [^3] |
-| 2026-04-21 | Growth | $34M | Just Climate, High Sage Ventures | [^1][^2] |
+| 2026-04-21 | Growth | $34M | Just Climate, High Sage Ventures | — [^1][^2][^4] |
 
 ## What Investors Say
 
@@ -59,10 +59,13 @@ No independently sourced investor quotes found.
 
 ## What Founders Say
 
-No independently sourced founder quotes found.
+> "The decisions AI makes in grocery aren't about optimizing pixels on a screen — they're about physical products with shelf lives measured in days."
+>
+> — Matt Schwartz, Co-Founder & CEO, Afresh [^1]
 
 ## Sources
 
 [^1]: Afresh, "Afresh Raises $34M to Scale AI Across the Grocery Industry," April 21, 2026, accessed April 2026. https://www.afresh.com/resources/afresh-raises-34m
 [^2]: PR Newswire, "Afresh Raises $34M to Scale AI Across the Grocery Industry -- Driving Fresher Food, Stronger Margins, and Less Waste," April 21, 2026, accessed April 2026. https://www.prnewswire.com/news-releases/afresh-raises-34m-to-scale-ai-across-the-grocery-industry--driving-fresher-food-stronger-margins-and-less-waste-302747794.html
 [^3]: Insight Partners, "Afresh Secures $115 Million in Series B Funding and Rolls Out its Fresh Food Technology to Thousands of Stores Across the US," August 4, 2022, accessed April 2026. https://www.insightpartners.com/ideas/afresh-secures-115-million-in-series-b-funding-and-rolls-out-its-fresh-food-technology-to-thousands-of-stores-across-the-us/
+[^4]: Tech Startups, "Afresh raises $34M to bring AI to grocery supply chains and cut food waste," April 21, 2026. Accessed May 2026. https://techstartups.com/2026/04/21/afresh-raises-34m-to-bring-ai-to-grocery-supply-chains-and-cut-food-waste/

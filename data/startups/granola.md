@@ -33,8 +33,12 @@ firms:
 - round: Seed round participant ($4.25M led by Lightspeed)
   slug: betaworks
   year: 2023
-founded: ~2023
-founders: []
+founded: 2023
+founders:
+- name: Chris Pedregal
+  role: Co-Founder & CEO
+- name: Sam Stephenson
+  role: Co-Founder & Head of Design
 investors:
 - round: series-c
   slug: danny-rimer
@@ -67,7 +71,7 @@ investors:
 - round: Seed round participant ($4.25M led by Lightspeed)
   slug: john-borthwick
   year: 2023
-last_researched: 2026-03-28
+last_researched: 2026-05-25
 location: London, United Kingdom
 name: Granola
 sector:
@@ -85,7 +89,7 @@ website: https://granola.ai
 
 ## About
 
-Granola is a London-based AI meeting notes platform that has expanded into enterprise AI [^1]. The company raised a $125M Series C at a $1.5B valuation in March 2026, led by Danny Rimer at Index Ventures [^1]. Previously, Granola raised a $43M Series B led by NFDG (Nat Friedman and Daniel Gross) in May 2025 at a $250M valuation [^2].
+Granola is a London-based AI meeting-notes platform founded in 2023 by CEO Chris Pedregal (former Google PM who founded Socratic, acquired by Google in 2018) and Head of Design Sam Stephenson (formerly Ideaflow), expanding from individual meeting notes into broader enterprise AI [^1][^9]. The $125M Series C announced March 25, 2026 was led by Danny Rimer at Index Ventures at a $1.5B valuation, making Granola a unicorn less than three years after launch; Kleiner Perkins (Mamoon Hamid), Lightspeed, Spark Capital, and NFDG (Nat Friedman / Daniel Gross) also participated [^1][^3][^4][^5]. Granola previously raised a $43M Series B led by NFDG in May 2025 at a $250M valuation [^2].
 
 ## Funding History
 
@@ -114,3 +118,4 @@ No independently sourced founder testimonials found.
 [^6]: Granola blog, "Granola raises $20M to build the AI notepad that makes you smarter," October 23, 2024, accessed May 2026. https://www.granola.ai/blog/series-a — $20M Series A led by Spark Capital, with AI Grant, Lightspeed, Betaworks, Firstminute Capital, and others participating.
 [^7]: TechCrunch, "VCs love using the AI meeting notepad Granola, so they gave it $20M," October 23, 2024, accessed May 2026. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/ — Confirms $20M Series A led by Spark (Nabeel Hyatt) and identifies prior $4.25M seed round; names Mike Krieger as a seed-round angel.
 [^8]: Tracxn, "Granola - Funding Rounds & List of Investors," accessed May 2026. https://tracxn.com/d/companies/granola/__20Jmr-YEndDiNQ5Kx3GcTFiYnHr6bnFCf_X_nMg5ay8/funding-and-investors — Seed round date: May 8, 2023; led by Lightspeed Venture Partners and Betaworks.
+[^9]: BusinessCloud, "Granola, founded in 2023, becomes latest UK unicorn," March 2026. Accessed May 2026. https://businesscloud.co.uk/news/granola-founded-in-2023-becomes-latest-uk-unicorn/ — Confirms founders Chris Pedregal (CEO, former Google PM and Socratic founder) and Sam Stephenson (Head of Design, former Ideaflow); London-headquartered; founded 2023.
