@@ -47,6 +47,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Weekly Notable Startup Funding Report: 5/25/26'
+  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-25-26/
+  source: alleywatch
+  date_found: '2026-05-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Modal raised $355M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -1144,14 +1152,3 @@ pending_rounds:
   status: skipped
   processed: '2026-05-18'
   notes: SPAC or aggregator or parse error
-- title: 'The Weekly Notable Startup Funding Report: 5/18/26'
-  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
-  source: alleywatch
-  date_found: '2026-05-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-17'
-  notes: Weekly NYC roundup — all named rounds (GovWell, Turnkey, Anomaly Insights)
-    already in profiles from prior cycles
