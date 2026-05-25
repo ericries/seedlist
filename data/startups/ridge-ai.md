@@ -6,6 +6,9 @@ firms:
 - round: Pre-seed
   slug: snowflake
   year: 2026
+- round: Pre-seed
+  slug: independent
+  year: 2026
 founded: 2025
 founders:
 - name: Ellie Fields
@@ -15,6 +18,9 @@ founders:
 investors:
 - round: Pre-seed
   slug: adrien-treuille
+  year: 2026
+- round: Pre-seed
+  slug: chris-stolte
   year: 2026
 last_researched: 2026-04-07
 location: Seattle, Washington

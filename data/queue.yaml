@@ -20308,7 +20308,7 @@ queue:
 - name: Chris Stolte
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tableau
   discovered_from: adrien-treuille
@@ -20322,7 +20322,7 @@ queue:
 - name: Jeff Hammerbacher
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cloudera
   discovered_from: adrien-treuille
@@ -25200,3 +25200,116 @@ queue:
   added: '2026-03-17'
   discovered_from: aboard
   source: co-lead on Aboard Pre-Series A (2026-05-21)
+- name: Halle Tecco
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Techammer
+  discovered_from: jeff-hammerbacher
+- name: Techammer
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeff-hammerbacher
+- name: Amr Awadallah
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cloudera
+  discovered_from: jeff-hammerbacher
+- name: Mike Olson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cloudera
+  discovered_from: jeff-hammerbacher
+- name: Christophe Bisciglia
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cloudera
+  discovered_from: jeff-hammerbacher
+- name: Related Sciences
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeff-hammerbacher
+- name: Open Athena AI Foundation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeff-hammerbacher
+- name: Datavant
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeff-hammerbacher
+- name: Christian Chabot
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: chris-stolte
+- name: Pat Hanrahan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: chris-stolte
+- name: Elissa Fink
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: chris-stolte
+- name: Dan Wright
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: DataRobot
+  discovered_from: chris-stolte
+- name: Paul Holland
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundation Capital
+  discovered_from: chris-stolte
+- name: Tim Porter
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Madrona Venture Group
+  discovered_from: chris-stolte
+- name: Mark Nelson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Madrona Venture Group
+  discovered_from: chris-stolte
+- name: PixieBrix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chris-stolte
+- name: TheFounderVC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chris-stolte
