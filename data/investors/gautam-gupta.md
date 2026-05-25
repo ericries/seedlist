@@ -96,7 +96,7 @@ Gupta brings specific expertise in subscription models and consumer unit economi
 | Apollo | Seed | ~2022 | Enterprise/Go-to-Market | [^1] |
 | Landbase | Seed | ~2022 | Enterprise/Sales | [^1] |
 | Juicer Energy | Seed | ~2022 | Energy | [^1] |
-| Krea | Seed | ~2023 | AI/Creative Tools | [^1] |
+| Krea | Seed ($3M, led by Pebblebed) | 2023 | AI/Creative Tools | [^1][^21][^22] |
 | Sesame | Seed | ~2023 | AI/Companion | [^1] |
 | Whop | Seed | ~2023 | Consumer/eCommerce | [^1] |
 | Recharge | Seed | ~2022 | Subscription Commerce | [^1] |
@@ -164,3 +164,7 @@ No independently sourced founder testimonials found. Gupta's portfolio company f
 [^18]: Index Ventures, "Fonoa raises $25 million to expand its global tax automation platform," November 2021. https://www.indexventures.com/perspectives/fonoa-raises-25-million-to-expand-its-global-tax-automation-platform/
 [^19]: Gunderson Dettmer, "Gunderson Dettmer Advises TCV in its $60M Series D financing of Instawork," accessed March 2026. https://www.gunder.com/en/news-insights/client-news/tcv-leads-instawork-60m-series-d
 [^20]: Gautam Gupta (@gRamblings), X post, accessed March 2026. https://x.com/gRamblings/status/1937148248306942260
+
+[^21]: TechCrunch, "Krea's founders snubbed postgrad grants from the king of Spain to build their AI startup, now it's valued at $500M," April 7, 2025, accessed May 2026. https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/ — Confirms Krea funding history: $3M seed (Pebblebed lead), $33M Series A (a16z lead), $47M Series B April 2025 ($500M valuation, Bain Capital Ventures lead).
+
+[^22]: Contrary Research, "Krea Business Breakdown & Founding Story," accessed May 2026. https://research.contrary.com/company/krea — Confirms A* participated in Krea's $3M seed round (early 2023).

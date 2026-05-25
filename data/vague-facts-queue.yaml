@@ -64001,9 +64001,11 @@ vague_facts:
   profile: investors/gautam-gupta
   profile_name: Gautam Gupta
   section: Portfolio
-  status: pending
+  status: resolved
   type: unknown_value
   value: '[^1]'
+  resolved: 2026-05-24
+  resolution: 'Krea seed round was early 2023, $3M led by Pebblebed; A* participated alongside HF0, Abstract Ventures, Gradient Ventures. Upgraded entry on gautam-gupta and a-star-capital profiles with stage detail and added TechCrunch + Contrary Research citations.'
 - column: 4
   company: Sesame
   line: '| Sesame | Seed | ~2023 | AI/Companion | [^1] |'
@@ -159234,9 +159236,11 @@ vague_facts:
   profile: investors/gautam-gupta
   profile_name: Gautam Gupta
   section: Portfolio
-  status: pending
+  status: resolved
   type: year_only_date
   value: ~2023
+  resolved: 2026-05-24
+  resolution: 'Krea seed was early 2023 ($3M led by Pebblebed). Could not pin to exact day from primary sources, but year confirmed and stage detail added. See firms/a-star-capital footnotes [^32][^33].'
 - column: 2
   company: Sesame
   line: '| Sesame | Seed | ~2023 | AI/Companion | [^1] |'
