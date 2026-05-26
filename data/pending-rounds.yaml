@@ -38,6 +38,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Amazon fulfillment competitor Stord raises $250M at $3B valuation
+  url: https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/
+  source: techcrunch
+  date_found: '2026-05-26'
+  parsed_company: Amazon fulfillment competitor Stord
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: 'In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall
+    Dramatically'
+  url: https://news.crunchbase.com/seed/data-bigger-deals-longer-seriesa-2026/
+  source: crunchbase
+  date_found: '2026-05-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Belgian DeepTech startup D-CRBN raises €17.5 million to turn industrial CO₂
+    emissions into circular carbon molecules
+  url: https://www.eu-startups.com/2026/05/belgian-deeptech-startup-d-crbn-raises-e17-5-million-to-turn-industrial-co%E2%82%82-emissions-into-circular-carbon-molecules/
+  source: eu-startups
+  date_found: '2026-05-26'
+  parsed_company: Belgian DeepTech startup D-CRBN
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Lithuania’s Backoffice secures €150k to build the operating system for European
     hospitality
   url: https://www.eu-startups.com/2026/05/lithuanias-backoffice-secures-e150k-to-build-the-operating-system-for-european-hospitality/
@@ -1130,36 +1156,6 @@ pending_rounds:
   date_found: '2026-05-18'
   parsed_company: StitcherAI
   parsed_amount: $3M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Berto Acquisition II raised $274M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Berto Acquisition II
-  parsed_amount: $274M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Energy Transition Special Opportunities raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Energy Transition Special Opportunities
-  parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Iron Dome Acquisition I raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Iron Dome Acquisition I
-  parsed_amount: $150M
   parsed_round: null
   status: skipped
   processed: '2026-05-18'
