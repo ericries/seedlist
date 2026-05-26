@@ -32,7 +32,7 @@ founders:
   - name: Kushal Negi
     role: Co-Founder
 status: published
-last_researched: 2026-03-27
+last_researched: 2026-05-26
 ---
 
 ## About
@@ -43,7 +43,7 @@ Glimpse is an AI-native platform that automates retail dispute management for CP
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025 | Seed | $10M | 8VC | Y Combinator [^1] |
+| 2025-04-08 | Seed (originally called "Series A" at the time; later rebranded as Seed) | $10M | 8VC | Y Combinator, Origin Ventures, Informed Ventures, Allison Pickens [^1][^2][^3] |
 | 2026-03-25 | Series A | $35M | Andreessen Horowitz | 8VC, Y Combinator [^1] |
 
 Total raised: $52M (including pre-pivot funding) [^1].
@@ -59,3 +59,5 @@ No independently sourced founder testimonials found.
 ## Sources
 
 [^1]: "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z," TechCrunch, March 25, 2026. https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/
+[^2]: GlobeNewsWire, "Glimpse Secures $10M to Automate Deduction Management for CPG Brands," April 8, 2025. Accessed May 2026. https://www.globenewswire.com/news-release/2025/04/08/3057557/0/en/Glimpse-Secures-10M-to-Automate-Deduction-Management-for-CPG-Brands.html
+[^3]: 8VC, "Glimpse's $10M Series A to Rescue CPG Margins," April 2025. Accessed May 2026. https://www.8vc.com/resources/glimpses-10m-series-a-to-rescue-cpg-margins
