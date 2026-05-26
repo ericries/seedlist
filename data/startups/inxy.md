@@ -21,7 +21,7 @@ founders:
 - name: Ruslan Zholik
   role: Founder & CEO
 status: published
-last_researched: 2026-04-08
+last_researched: 2026-05-26
 ---
 
 ## About
@@ -32,8 +32,8 @@ INXY is a Cyprus-based, EU-authorised cross-border payment infrastructure provid
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025 | Seed | $3M | Undisclosed | Undisclosed [^1] |
-| 2026-04 | Seed | $4M | Flashpoint | Undisclosed [^1][^2] |
+| 2025-02-13 | Seed (initial) | $3M | Flashpoint VC | — [^1][^3] |
+| 2026-04-06 | Seed (extension) | $4M | Flashpoint VC | — [^1][^2] |
 
 ## What Investors Say
 
@@ -47,3 +47,4 @@ No verified founder quotes available at this time.
 
 [^1]: Cyprus Mail, "INXY raises $7m to expand global payments platform," April 6, 2026. https://cyprus-mail.com/2026/04/06/inxy-raises-7m-to-expand-global-payments-platform
 [^2]: Finextra, "Stablecoin startup Inxy raises $4 million," accessed April 2026. https://www.finextra.com/pressarticle/109383/stablecoin-startup-inxy-raises-4-million
+[^3]: Cyprus Mail, "Cyprus-based INXY Payments secures $3 million from Flashpoint VC," February 13, 2025. Accessed May 2026. https://cyprus-mail.com/2025/02/13/cyprus-based-inxy-payments-secures-3-million-from-flashpoint-vc
