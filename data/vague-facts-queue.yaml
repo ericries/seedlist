@@ -56936,7 +56936,8 @@ vague_facts:
   line: ~unknown| Navattic | Undisclosed | Angel | [^12] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution: "Resolved via Crunchbase funding round page: Navattic seed closed 2022-03-17, $4.25M, led by Canvas with 645 Ventures, Y Combinator, Dan Siroker, Ben Thompson. Updated portfolio row to 2022 / Seed ($4.25M, lead Canvas). Added citation [^14]."
 - profile: investors/dan-sundheim
   profile_name: Dan Sundheim
   company: SpaceX

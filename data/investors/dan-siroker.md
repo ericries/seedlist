@@ -62,7 +62,7 @@ This table includes only investments with independent source confirmation. Tracx
 | June | 2021 | Seed ($2.36M) | [^11] |
 | MindPortal | 2021 | Seed ($5M) | [^11] |
 | ClearBrain | Pre-2020 | Angel (acquired 2020) | [^11] |
-~unknown| Navattic | Undisclosed | Angel | [^12] |
+| Navattic | 2022 | Seed ($4.25M, lead Canvas) | [^12][^14] |
 
 Two additional Tracxn portfolio entries are reported but not disclosed by name in publicly accessible records.
 
@@ -125,3 +125,4 @@ No independently sourced founder testimonials found.
 [^11]: Tracxn, "Dan Siroker — portfolio and founded companies," accessed May 2026. https://tracxn.com/d/people/dan-siroker/__xaT1DJdJiOFLYVd2JTmo0yrTOwA4KFa8BZTmnMFibcQ
 [^12]: Crunchbase, "Dan Siroker — Co-Founder & CEO @ Limitless AI (formerly Rewind AI)," accessed May 2026. https://www.crunchbase.com/person/dan-siroker
 [^13]: Y Combinator, "Pete Koomen: YC Partner," accessed May 2026. https://www.ycombinator.com/people/pete-koomen
+[^14]: Crunchbase, "Seed Round - Navattic," seed round closed March 17, 2022, led by Canvas with participation from 645 Ventures, Y Combinator, Dan Siroker, and Ben Thompson, accessed May 2026. https://www.crunchbase.com/funding_round/navattic-seed--26a2d296
