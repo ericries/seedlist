@@ -18,7 +18,7 @@ founders:
 - name: George Church
   role: Co-Founder
 status: published
-last_researched: 2026-04-08
+last_researched: 2026-05-26
 ---
 
 ## About
@@ -29,8 +29,8 @@ Astromech is a Dallas-based AI-biotech company spun out of Colossal Biosciences,
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025-09 | Seed | $30M | Undisclosed | Undisclosed [^2] |
-| 2026 | Seed Extension | $10.5M | Undisclosed | Undisclosed [^1] |
+| 2025-09-23 | Seed | $30M | Undisclosed | Undisclosed [^2][^3] |
+| 2026-03 | Seed Extension (per D Magazine reporting) | $10.5M | Undisclosed | Undisclosed [^1] |
 
 ## What Investors Say
 
@@ -44,3 +44,4 @@ No verified founder quotes available at this time.
 
 [^1]: D CEO Magazine, "Astromech, the New AI Startup from Ben Lamm of Colossal Biosciences," March 2026. https://www.dmagazine.com/business-economy/2026/03/ben-lamm-astromech-colossal/
 [^2]: FinSMEs, "Ben Lamm Teams with George Church for $30M AI Company Astromech," September 2025. https://www.finsmes.com/2025/09/ben-lamm-teams-with-george-church-for-30m-ai-company-astromech.html
+[^3]: Yahoo Finance, "Ben Lamm's Astromech Secures $30 Million to Advance AI-Biotechnology Innovation," September 23, 2025. Accessed May 2026. https://finance.yahoo.com/news/ben-lamms-astromech-secures-30-174000113.html

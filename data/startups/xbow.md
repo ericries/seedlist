@@ -20,7 +20,7 @@ investors:
 - round: Series A (co-led); Series B ($75M) participant
   slug: nat-friedman
   year: 2023
-last_researched: 2026-05-07
+last_researched: 2026-05-26
 last_verified_investment:
   company: XBOW
   date: 2026-05-06
@@ -51,7 +51,7 @@ XBOW is a Seattle-based autonomous offensive security company founded in January
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-05-06 | Series C extension | $35M | — | Accenture Ventures, DNX Ventures, Liberty Global Tech Ventures, NVentures, Samsung Ventures, SentinelOne S Ventures [^1][^2] |
-| 2026 | Series C | $120M | DFJ Growth, Northzone | Sofina, Alkeon Capital [^3] |
+| 2026-03-18 | Series C | $120M | DFJ Growth, Northzone | Sofina, Alkeon Capital, Altimeter, NFDG Ventures, Sequoia Capital [^3] |
 
 ## What Investors Say
 

@@ -9782,7 +9782,8 @@ vague_facts:
     discovery | [^20][^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution: "Gordian's Series A closed on 2021-11-01 (amount undisclosed) per Crunchbase. The $60M total and 2024 date reflected the April 2024 platform-launch announcement summing all rounds raised to date. Updated both Gigafund and Stephen Oskoui profiles to reflect 2021 Series A round, added Crunchbase Series A citation [^34] in gigafund / [^28] in stephen-oskoui."
 - profile: firms/gigafund
   profile_name: Gigafund
   company: Sunroom Rentals

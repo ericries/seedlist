@@ -25486,3 +25486,49 @@ queue:
   added: '2026-03-17'
   discovered_from: neurosoft-bioelectronics
   source: Participated in Neurosoft Bioelectronics seed (2026-05-20)
+- name: B&C Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quanscient
+  source: Co-led Quanscient €10M Series A (2026-05-26); Austrian industrial investor
+- name: Maki.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quanscient
+  source: Re-participation in Quanscient €10M Series A (2026-05-26); Finnish early-stage
+    VC
+- name: Crowberry Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quanscient
+  source: Led Quanscient seed (2024); re-participation in Series A (2026-05-26); Nordic
+    seed VC
+- name: QAI Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quanscient
+  source: Re-participation in Quanscient €10M Series A (2026-05-26); quantum-focused
+    VC
+- name: First Fellow Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quanscient
+  source: Re-participation in Quanscient €10M Series A (2026-05-26)
+- name: Juha Riippi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Quanscient
+  discovered_from: quanscient
+  source: Co-founder & CEO of Quanscient (multiphysics simulation, €10M Series A 2026-05-26)

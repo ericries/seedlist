@@ -94,7 +94,7 @@ Based on 18 verified investments, Oskoui's actual portfolio reveals a highly con
 ~unknown| LabGenius | — | Venture | Biotech/ML | [^2] |
 | Atomic Machines | 2023 | Series A | Atomically precise manufacturing | [^25] |
 | Last Energy | 2025 | Series C | Nuclear energy | [^18] |
-| Gordian Biotechnology | 2024 | Venture | Drug discovery/longevity | [^26] |
+| Gordian Biotechnology | 2021 | Series A | Drug discovery/longevity | [^26][^28] |
 ~unknown| Panthalassa | — | Series A | Ocean energy/green hydrogen | [^27] |
 
 This table represents approximately 20 investments. Tracxn reports 28 total Gigafund investments as of December 2024 [^19], suggesting this table captures roughly 71% of known investments.
@@ -161,3 +161,4 @@ No additional independently sourced founder testimonials found beyond these two 
 [^25]: Atomic Machines Crunchbase profile, accessed March 2026. https://www.crunchbase.com/organization/atomic-machines
 [^26]: "Gordian launches with $60m and platform that predicts outcomes in age-related diseases," Longevity Technology, April 2024. https://longevity.technology/news/gordian-launches-with-60m-and-platform-that-predicts-outcomes-in-age-related-diseases/
 [^27]: Premier Alternatives Gigafund portfolio page, accessed March 2026. https://www.premieralts.com/investors/gigafund/portfolio
+[^28]: Crunchbase, "Series A — Gordian Biotechnology — November 1, 2021," accessed May 2026. https://www.crunchbase.com/funding_round/gordian-biotechnology-series-a--bd841201

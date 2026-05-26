@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: YC-backed French preventive health platform Lucis raises €17.3 million Series
+    A led by Singular
+  url: https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/
+  source: eu-startups
+  date_found: '2026-05-26'
+  parsed_company: YC-backed French preventive health platform Lucis
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Finland’s Quanscient raises €10 million to scale its multiphysics simulation
+    platform for the AI era
+  url: https://www.eu-startups.com/2026/05/finlands-quanscient-raises-e10-million-to-scale-its-multiphysics-simulation-platform-for-the-ai-era/
+  source: eu-startups
+  date_found: '2026-05-26'
+  parsed_company: Finland’s Quanscient
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Lithuania’s Backoffice secures €150k to build the operating system for European
     hospitality
   url: https://www.eu-startups.com/2026/05/lithuanias-backoffice-secures-e150k-to-build-the-operating-system-for-european-hospitality/
@@ -1142,26 +1160,6 @@ pending_rounds:
   date_found: '2026-05-18'
   parsed_company: Iron Dome Acquisition I
   parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Patriot Acquisition raised $160M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Patriot Acquisition
-  parsed_amount: $160M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: u003e Palo Alto-based Playground previously raised $410M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: u003e Palo Alto-based Playground previously
-  parsed_amount: $410M
   parsed_round: null
   status: skipped
   processed: '2026-05-18'

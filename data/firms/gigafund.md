@@ -78,7 +78,7 @@ Based on 18 verified portfolio investments, Gigafund's actual investment behavio
 | Emerald Cloud Lab | Multiple rounds | ~2018 | Biotech/lab automation | [^1][^27] |
 | Atomic Machines | Series A | 2023 | Atomically precise manufacturing | [^28] |
 | LabGenius | Series A ($10M) | 2019 | AI-driven protein therapeutics | [^29] |
-| Gordian Biotechnology | Undisclosed ($60M total) | 2024 | Longevity/drug discovery | [^20][^30] |
+| Gordian Biotechnology | Series A (2021-11-01, amount undisclosed; $60M total raised across rounds by 2024) | 2021 | Longevity/drug discovery | [^20][^30][^34] |
 | Sunroom Rentals | Series A ($11M) | 2021 | Proptech | [^21] |
 | Gauntlet AI | Early stage | ~2024 | AI education | [^1] |
 | SWTCH | Series B ($27.2M) | 2024 | Energy/EV charging | [^31] |
@@ -161,3 +161,4 @@ No additional independently sourced founder testimonials found beyond the above.
 [^31]: BusinessWire, "SWTCH Energy Secures $27.2M in Series B Funding to Eliminate EV Charging Gaps in Buildings," April 18, 2024. https://www.businesswire.com/news/home/20240418701249/en/SWTCH-Energy-Secures-$27.2M-in-Series-B-Funding-to-Eliminate-EV-Charging-Gaps-in-Buildings
 [^32]: PR Newswire, "Golden Raises $5M Seed Round with Andreessen Horowitz, Gigafund, Founders Fund, and SV Angel," April 30, 2019. https://www.prnewswire.com/news-releases/golden-raises-5m-seed-round-with-andreessen-horowitz-gigafund-founders-fund-and-sv-angel-to-build-first-self-constructing-knowledge-database-combining-artificial-and-human-intelligence-300841004.html
 [^33]: PR Newswire, "Synthego Raises $200 Million to Accelerate the Field of CRISPR-Based Medicines," February 17, 2022. https://www.prnewswire.com/news-releases/synthego-raises-200-million-to-accelerate-the-field-of-crispr-based-medicines-from-early-phase-research-to-the-clinic-301484417.html
+[^34]: Crunchbase, "Series A — Gordian Biotechnology — November 1, 2021," accessed May 2026. https://www.crunchbase.com/funding_round/gordian-biotechnology-series-a--bd841201
