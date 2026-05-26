@@ -14,7 +14,7 @@ total_raised: $225M
 firms: []
 founders: []
 status: published
-last_researched: 2026-04-06
+last_researched: 2026-05-26
 ---
 
 ## About
@@ -25,7 +25,7 @@ Xoople is a Spain-based Earth intelligence company developing a satellite conste
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025 | Series A | ~$95M | | CDTI [^2] |
+| 2025-05-14 | Series A (€115M stealth-exit) | ~$95M (€115M) | Undisclosed | CDTI, AXIS (ICO) [^2] |
 | 2026-04-06 | Series B | $130M | Nazca Capital | MCH Private Equity, CDTI, Buenavista Equity Partners, Endeavor Catalyst [^1] |
 
 Total raised to date: ~$225M [^1]. The company is reported to be "in unicorn territory" in terms of valuation [^1].

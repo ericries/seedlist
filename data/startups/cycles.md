@@ -33,7 +33,7 @@ Cycles is a crypto infrastructure startup founded by Cosmos co-founder Ethan Buc
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-05-21 | Seed | $6.4M | Blockchange Ventures | Coinbase Ventures, Compound VC, Primitive Ventures [^1][^2][^3] |
-| 2025 | Pre-Seed | $2.3M | — | — [^2] |
+| 2025-05 | Pre-Seed | $2.3M | CMCC Global, Maven 11 | — [^4] |
 
 ## What Investors Say
 
@@ -48,3 +48,4 @@ No independently sourced founder quotes found at this time.
 [^1]: PR Newswire, "Cycles Raises $6.4M to Build the Open Clearing Network for On-Chain Finance," May 21, 2026. Accessed May 2026. https://www.prnewswire.com/in/news-releases/cycles-raises-6-4m-to-build-the-open-clearing-network-for-on-chain-finance-302778594.html
 [^2]: Crypto Briefing, "Cosmos co-founder's Cycles raises $6.4 million backed by Blockchange Ventures, Coinbase Ventures," May 2026. Accessed May 2026. https://cryptobriefing.com/cycles-raises-funding-backed-blockchange-ventures-coinbase/
 [^3]: Crypto.news, "Cycles raises $6.4M to build private crypto clearing network," May 2026. Accessed May 2026. https://crypto.news/cycles-raises-6-4m-to-build-private-crypto-clearing-network/
+[^4]: Cryptonews, "Cosmos Co-Founder Ethan Buchman's Cycles Launches Clearing App, Raises Pre-Seed Round," May 2025. Accessed May 2026. https://cryptonews.com/news/cosmos-co-founder-ethan-buchmans-cycles-raises-pre-seed-round-launches-clearing-app/ — Cycles raised a $2.3M pre-seed in May 2025 co-led by CMCC Global and Maven 11.

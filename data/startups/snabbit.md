@@ -18,7 +18,7 @@ founders:
 - name: "Aayush Agarwal"
   role: "Founder & CEO"
 status: published
-last_researched: 2026-04-30
+last_researched: 2026-05-26
 ---
 
 ## About
@@ -29,8 +29,8 @@ Snabbit is a Bengaluru-based on-demand home services startup founded in 2024 by 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2024 | Seed | $959K | Nexus Venture Partners | [^5] |
-| 2025 | Series A | $5.5M | Elevation Capital | Nexus Venture Partners [^5] |
+| 2024-05 | Seed | $959K | Nexus Venture Partners | — [^5] |
+| 2025-01-21 | Series A | $5.5M | Elevation Capital | Nexus Venture Partners, Vidit Aatrey, Sanjeev Barnwal, Gaurav Munjal, Niraj Singh [^5][^6] |
 | 2025-05-28 | Series B | $19M | Lightspeed | Elevation Capital, Nexus Venture Partners [^3] |
 | 2025-10-30 | Series C | $30M | Bertelsmann India Investments | Lightspeed, Elevation Capital, Nexus Venture Partners [^4] |
 | 2026-04-27 | Series D | $56M | Susquehanna Venture Capital, Mirae Asset Venture Investments, Bertelsmann India Investments | Nexus Venture Partners, Lightspeed, FJ Labs [^1][^2] |
@@ -50,3 +50,4 @@ No independently sourced founder quotes found.
 [^3]: TechCrunch, "Lightspeed backs Indian home services startup Snabbit as the next big consumer trend," May 28, 2025. https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/
 [^4]: Business Standard, "Snabbit raises $30 mn Series C to expand into child, elder and cooking care," October 30, 2025. https://www.business-standard.com/companies/start-ups/snabbit-series-c-funding-bertelsmann-expansion-childcare-eldercare-125103000195_1.html
 [^5]: StartupTalky, "Snabbit Raises $56 Million Series D, Bringing Total Capital to $112 Million as India's Quick-Service Home Help Category Goes Mainstream," April 28, 2026. https://startuptalky.com/news/snabbit-raises-56-million-series-d-bringing-total-capital-to-112-million-as-indias-quick-service-home-help-category-goes-mainstream/
+[^6]: IndianWeb2, "Snabbit, India's First Quick-Service App, raises $5.5 Million from Elevation Capital and Nexus Venture Partners," January 21, 2025. Accessed May 2026. https://www.indianweb2.com/2025/01/snabbit-indias-first-quick-service-app.html — Series A led by Elevation Capital with participation from Nexus Venture Partners and angels Vidit Aatrey, Sanjeev Barnwal, Gaurav Munjal, and Niraj Singh.
