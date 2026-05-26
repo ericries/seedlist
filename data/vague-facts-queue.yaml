@@ -31247,7 +31247,8 @@ vague_facts:
   line: '| Cerebras Systems | Angel | Undisclosed | AI Chips | Active | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution: "Updated to ~2017 per CNBC IPO reporting and AIFundingTracker; D'Angelo grouped with OpenAI-affiliated angels (Altman, Brockman, Sutskever) whose personal stakes date to 2017. Added citations [^19][^20]. Status updated to IPO (NASDAQ, May 2026)."
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
   company: Replit
@@ -31257,7 +31258,8 @@ vague_facts:
   line: '| Replit | Angel | Undisclosed | Developer Tools | Active | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution: "Replit Crunchbase/Tracxn investor lists do not surface D'Angelo. Only Premier Alternatives [^9] mentions the investment without round/date specifics. Insufficient primary source confirmation to date the round."
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
   company: Lambda
@@ -62233,7 +62235,8 @@ vague_facts:
   line: '| Teero | ~2023 | Unknown | Dental staffing | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution: "Updated stage from Unknown to Seed. Crunchbase and Tracxn confirm Construct Capital as an early investor; the 2024 Series A was led by Firstminute Capital, so Construct's participation maps to the earlier seed round. Added citation [^45]."
 - profile: investors/dayna-grayson
   profile_name: Dayna Grayson
   company: Desktop Metal

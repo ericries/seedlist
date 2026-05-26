@@ -109,7 +109,7 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Mandrel | 2023 | Pre-Seed | Inventory accounting | [^1][^25] |
 | Woflow | 2022 | Series A (co-led) | Merchant data onboarding | [^1][^39] |
 | Impilo | 2024 | Series A (led) | Remote patient monitoring logistics | [^1][^41] |
-| Teero | ~2023 | Unknown | Dental staffing | [^1] |
+| Teero | ~2023 | Seed | Dental staffing | [^1][^45] |
 
 Note: This table represents approximately 36 of an estimated 57-69 total investments (52-63%) [^10][^25]. Entries marked with "~" for year use approximate founding year as a proxy; entries marked "Unknown" for stage indicate the specific round type could not be independently verified.
 
@@ -211,3 +211,4 @@ No other independently sourced founder testimonials found. Firm website does not
 [^42]: TechCrunch, "How Advex creates synthetic data to improve machine vision for manufacturers," October 28, 2024. https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/ — $3.1M Seed closed December 2023; total $3.6M with November 2024 extension. Construct Capital, Pear VC, and Emerson Collective participated.
 [^43]: TechCrunch, "Human composting and timber marketplaces: Talking 'industrial' VC with investor Dayna Grayson," May 4, 2024. https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/ — Construct Capital led TimberEye's seed round.
 [^44]: BusinessWire, "Nauta Raises $7M to Modernize Global Logistics with AI," August 25, 2025. https://www.businesswire.com/news/home/20250825792600/en/Nauta-Raises-$7M-to-Modernize-Global-Logistics-with-AI — Seed co-led by Construct Capital and Predictive.
+[^45]: Crunchbase, "Teero - Company Profile & Funding," accessed May 2026. https://www.crunchbase.com/organization/teero — Confirms Construct Capital as an investor alongside 1984 Ventures and Firstminute Capital; total raised $10.9M across seed and a 2024 Series A (Firstminute lead). Construct's participation maps to the earlier seed round.

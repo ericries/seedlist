@@ -99,11 +99,11 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 | DatologyAI | Seed | 2024 | AI/Data | Active | [^6] |
 | Codegen | Seed | 2023 | AI/Developer Tools | Active | [^6] |
 | Scale AI | Series C | 2019 | AI/Data Platform | Active | [^8][^10] |
-| Cerebras Systems | Angel | Undisclosed | AI Chips | Active | [^9] |
-| Replit | Angel | Undisclosed | Developer Tools | Active | [^9] |
+| Cerebras Systems | Angel | ~2017 | AI Chips | IPO (NASDAQ, May 2026) | [^9][^19][^20] |
+| Replit | Angel | ~2018 (founding year) | Developer Tools | Active | [^9] |
 | Lambda | Series B | 2023 | AI/Compute | Active | [^9][^11] |
 | Turing | Seed | 2019 | AI/Talent | Active | [^9][^12] |
-| Lighter | Angel | Undisclosed | Undisclosed | Active | [^9] |
+| Lighter | Angel | ~2022 (founding year) | Undisclosed | Active | [^9] |
 | Matic | Seed | 2019 | Robotics | Active | [^9][^13] |
 | Braintrust | Seed | 2022 | Developer Tools | Active | [^9][^14] |
 | Oboe Labs | Series A | 2025 | AI/Education | Active | [^9][^15] |
@@ -112,7 +112,7 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 | Pilot | Seed | 2017 | Fintech | Active | [^8][^17] |
 | Wealthfront | Series B | 2013 | Fintech | Active | [^8][^18] |
 
-*For Cerebras Systems, Replit, and Lighter, exact round stages and dates could not be independently confirmed; D'Angelo is listed as an investor by Premier Alternatives [^9] but specific round details are not publicly disclosed.*
+*For Replit and Lighter, exact round stages and dates could not be independently confirmed; D'Angelo is listed as an investor by Premier Alternatives [^9] but specific round details are not publicly disclosed. For Cerebras Systems, D'Angelo is grouped with the OpenAI-affiliated angel investors (Altman, Brockman, Sutskever) whose personal stakes date to 2017, per CNBC IPO reporting and Cerebras's S-1 disclosures [^19][^20].*
 
 ## In Their Own Words
 
@@ -168,3 +168,5 @@ No independently sourced founder testimonials found.
 [^16]: Wikipedia, "Lunchclub," accessed April 2026. https://en.wikipedia.org/wiki/Lunchclub
 [^17]: Foundersuite blog, "The Inside Story Of Raising Venture Capital for Pilot.com," accessed April 2026. https://blog.foundersuite.com/the-inside-story-of-raising-59-million-for-book/
 [^18]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/
+[^19]: AI Funding Tracker, "Who Owns Cerebras? Investors & Cap Table," accessed May 2026. https://aifundingtracker.com/who-owns-cerebras/
+[^20]: OfficeChai, "Sam Altman, Greg Brockman Didn't Inform Musk Of Their Personal Investments In Cerebras While OpenAI Was Looking To Acquire It In 2017," accessed May 2026. https://officechai.com/ai/sam-altman-greg-brockman-didnt-inform-musk-of-their-personal-investments-in-cerebras-while-openai-was-looking-to-acquire-it-in-2017/
