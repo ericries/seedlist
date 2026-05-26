@@ -20329,7 +20329,7 @@ queue:
 - name: Carlos Guestrin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Stanford
   discovered_from: adrien-treuille
@@ -20417,7 +20417,7 @@ queue:
 - name: Peter Rive
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Angel
   discovered_from: online-oceans
@@ -25313,3 +25313,112 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: chris-stolte
+- name: Lyndon Rive
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: peter-rive
+- name: SolarCycle
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peter-rive
+- name: Sofar Ocean
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peter-rive
+- name: Bellwether Coffee
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peter-rive
+- name: Enpal
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peter-rive
+- name: ZOLA Electric
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: peter-rive
+- name: Bo Li
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Virtue AI
+  discovered_from: carlos-guestrin
+- name: Dawn Song
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: UC Berkeley
+  discovered_from: carlos-guestrin
+- name: Sanmi Koyejo
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Stanford CS
+  discovered_from: carlos-guestrin
+- name: Virtue AI
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-guestrin
+- name: Visual Layer
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-guestrin
+- name: OctoAI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-guestrin
+- name: Turi
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-guestrin
+- name: Walden Catalyst Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-guestrin
+- name: Lip-Bu Tan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Walden International
+  discovered_from: carlos-guestrin
+- name: Chris Re
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Stanford
+  discovered_from: carlos-guestrin
+- name: Daphne Koller
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: insitro
+  discovered_from: carlos-guestrin

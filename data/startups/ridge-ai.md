@@ -22,6 +22,9 @@ investors:
 - round: Pre-seed
   slug: chris-stolte
   year: 2026
+- round: Angel (Pre-seed)
+  slug: carlos-guestrin
+  year: 2026
 last_researched: 2026-04-07
 location: Seattle, Washington
 name: Ridge AI

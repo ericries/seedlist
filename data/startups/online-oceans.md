@@ -1,23 +1,34 @@
 ---
-name: "Online Oceans"
-slug: online-oceans
-type: startup
-website: "https://onlineoceans.com"
-location: "United Kingdom"
+firms:
+- round: Seed
+  slug: independent
+  year: 2026
 founded: 2025
-status_company: active
-sector: [defense, maritime, autonomous-vehicles, govtech, deep-tech]
-stage_latest: "Seed"
-total_raised: "£4M"
-investors: []
-firms: []
 founders:
-  - name: "George Morton"
-    role: "CEO & Co-Founder"
-  - name: "Alistair Douglas"
-    role: "Co-Founder"
-status: published
+- name: George Morton
+  role: CEO & Co-Founder
+- name: Alistair Douglas
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: peter-rive
+  year: 2026
 last_researched: 2026-05-02
+location: United Kingdom
+name: Online Oceans
+sector:
+- defense
+- maritime
+- autonomous-vehicles
+- govtech
+- deep-tech
+slug: online-oceans
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: £4M
+type: startup
+website: https://onlineoceans.com
 ---
 
 ## About
