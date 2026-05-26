@@ -30,7 +30,8 @@ pending_rounds:
   parsed_round: Series A
   status: skipped
   processed: '2026-05-27'
-  skip_reason: EU-Startups article had stale data; real round was Dec 2025 €7.2M Seed, already too old to be a fresh feed item
+  skip_reason: EU-Startups article had stale data; real round was Dec 2025 €7.2M Seed,
+    already too old to be a fresh feed item
 - title: Finland’s Quanscient raises €10 million to scale its multiphysics simulation
     platform for the AI era
   url: https://www.eu-startups.com/2026/05/finlands-quanscient-raises-e10-million-to-scale-its-multiphysics-simulation-platform-for-the-ai-era/
@@ -53,7 +54,9 @@ pending_rounds:
   status: processed
   processed: '2026-05-27'
   slug: stord
-  notes: created stord.md ($250M Series F 2026-05-26 led by Strike Capital at $3B val with Kleiner Perkins, Founders Fund, Franklin Templeton, Baillie Gifford, G Squared, Bond; Atlanta e-commerce fulfillment; founders Sean Henry + Jacob Boudreau)
+  notes: created stord.md ($250M Series F 2026-05-26 led by Strike Capital at $3B
+    val with Kleiner Perkins, Founders Fund, Franklin Templeton, Baillie Gifford,
+    G Squared, Bond; Atlanta e-commerce fulfillment; founders Sean Henry + Jacob Boudreau)
 - title: 'In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall
     Dramatically'
   url: https://news.crunchbase.com/seed/data-bigger-deals-longer-seriesa-2026/
@@ -76,7 +79,16 @@ pending_rounds:
   status: processed
   processed: '2026-05-27'
   slug: d-crbn
-  notes: created d-crbn.md (€17.5M Series A 2026-05-26 led by Astaia with SFPIM and EIC Fund; Antwerp Belgium plasma CO2 utilisation deeptech; co-founder David Ziegler)
+  notes: created d-crbn.md (€17.5M Series A 2026-05-26 led by Astaia with SFPIM and
+    EIC Fund; Antwerp Belgium plasma CO2 utilisation deeptech; co-founder David Ziegler)
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/26/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-26-2026/
+  source: alleywatch
+  date_found: '2026-05-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Lithuania’s Backoffice secures €150k to build the operating system for European
     hospitality
   url: https://www.eu-startups.com/2026/05/lithuanias-backoffice-secures-e150k-to-build-the-operating-system-for-european-hospitality/
@@ -1163,13 +1175,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-18'
   slug: searchable
-- title: StitcherAI raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: StitcherAI
-  parsed_amount: $3M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
