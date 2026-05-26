@@ -75,8 +75,8 @@ The platform enables merchants of all sizes to build, manage, and grow online st
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2011-08-01 | Series A | $15M | General Catalyst | — [^4][^14] |
-| Sep 2012 | Series B | $20M | General Catalyst | Floodgate |
-| Jul 2013 | Series C | $40M | Revolution Growth | General Catalyst |
+| 2012-09-05 | Series B | $20M | General Catalyst | Floodgate |
+| 2013-07-25 | Series C | $40M | Revolution Growth | General Catalyst |
 | Nov 2014 | Series D | $50M | SoftBank Capital | Telstra Ventures, American Express, General Catalyst, Revolution Growth |
 | May 2016 | Series E | $30M | GGV Capital | General Catalyst, Revolution Growth, SoftBank Capital, Tenaya Capital, Split Rock Partners, Telstra Ventures, American Express Ventures, Floodgate |
 | Apr 2018 | Series F | $64M | Goldman Sachs | General Catalyst, GGV Capital, Tenaya Capital |

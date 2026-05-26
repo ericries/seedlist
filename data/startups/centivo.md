@@ -37,7 +37,7 @@ investors:
 - round: Series B
   slug: karen-page
   year: 2020
-last_researched: 2026-03-24
+last_researched: 2026-05-25
 location: Buffalo, NY
 name: Centivo
 sector:
@@ -61,10 +61,10 @@ Centivo is a health plan administrator for self-funded employers, founded in 201
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors |
 |-------|------|--------|-------------------|------------------|
-| Series A | Jul 2018 | $34M | Bain Capital Ventures | F-Prime Capital, Maverick Ventures, Bessemer Venture Partners, Ingleside Investors, Rand Capital, Grand Central Tech Ventures, Oxeon Investments [^1] |
-| Series B | Dec 2020 | $34M | B Capital Group | Define Ventures, HarbourVest Partners, Nassau Street Ventures, Bain Capital Ventures, Company Ventures, F-Prime Capital, Maverick Ventures, Ingleside Investors, Rand Capital [^4][^5] |
-| Series C | Sep 2021 | $51M | B Capital Group, Maverick Ventures | Bain Capital Ventures, Company Ventures, Define Ventures, F-Prime Capital, HarbourVest Partners, Ingleside Investors, Nassau Street Ventures [^6] |
-| Series B-1 Extension | Jul 2022 | $30M | Morgan Health (JPMorgan Chase) | — [^7] |
+| Series A | 2018-07-18 | $34M | Bain Capital Ventures | F-Prime Capital, Maverick Ventures, Bessemer Venture Partners, Ingleside Investors, Rand Capital, Grand Central Tech Ventures, Oxeon Investments [^1] |
+| Series B | 2020-12-07 | $34M | B Capital Group | Define Ventures, HarbourVest Partners, Nassau Street Ventures, Bain Capital Ventures, Company Ventures, F-Prime Capital, Maverick Ventures, Ingleside Investors, Rand Capital [^4][^5] |
+| Series C | 2021-09-22 | $51M | B Capital Group, Maverick Ventures | Bain Capital Ventures, Company Ventures, Define Ventures, F-Prime Capital, HarbourVest Partners, Ingleside Investors, Nassau Street Ventures [^6] |
+| Series B-1 Extension | 2022-07-19 | $30M | Morgan Health (JPMorgan Chase) | — [^7] |
 | Series D | 2024-09-24 | $75M ($25M equity + $50M debt) | Cone Health Ventures | MemorialCare Innovation Fund, B Capital, Cox Enterprises, F-Prime Capital, Ingleside Investors, Morgan Health; debt from Trinity Capital and JPMorgan Chase [^3][^8][^9] |
 
 Sources: [^1][^3][^4][^5][^6][^7][^8]
