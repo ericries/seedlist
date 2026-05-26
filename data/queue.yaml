@@ -20315,7 +20315,7 @@ queue:
 - name: Jeff Heer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Trifacta
   discovered_from: adrien-treuille
@@ -20503,7 +20503,7 @@ queue:
 - name: Sean Neville
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Catena Labs
   discovered_from: kevin-lin
@@ -25532,3 +25532,64 @@ queue:
   firm: Quanscient
   discovered_from: quanscient
   source: Co-founder & CEO of Quanscient (multiphysics simulation, €10M Series A 2026-05-26)
+- name: Ellie Fields
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ridge AI
+  discovered_from: jeff-heer
+- name: Joe Hellerstein
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: UC Berkeley
+  discovered_from: jeff-heer
+- name: Sean Kandel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Trifacta
+  discovered_from: jeff-heer
+- name: Mike Bostock
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Observable
+  discovered_from: jeff-heer
+- name: Jeremy Allaire
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Circle Internet Group
+  discovered_from: sean-neville
+- name: Matt Venables
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Catena Labs
+  discovered_from: sean-neville
+- name: Circle Internet Group
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sean-neville
+- name: Circle Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sean-neville
+- name: Sam Palmisano
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: sean-neville

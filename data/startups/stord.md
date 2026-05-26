@@ -1,35 +1,54 @@
 ---
-name: "Stord"
-slug: stord
-type: startup
-website: "https://www.stord.com"
-location: "Atlanta, Georgia"
-founded: 2015
-status_company: active
-sector: [logistics, supply-chain, e-commerce, fulfillment]
-stage_latest: "Series F"
-total_raised: "$590M+"
-investors: []
 firms:
-  - slug: kleiner-perkins
-    round: series-f
-    year: 2026
-    date: 2026-05-26
-  - slug: founders-fund
-    round: series-f
-    year: 2026
-    date: 2026-05-26
-  - slug: bond
-    round: series-f
-    year: 2026
-    date: 2026-05-26
+- date: 2026-05-26
+  round: series-f
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-05-26
+  round: series-f
+  slug: founders-fund
+  year: 2026
+- date: 2026-05-26
+  round: series-f
+  slug: bond
+  year: 2026
+- round: ~2021
+  slug: benchmark
+  year: 2021
+- round: Growth
+  slug: revolution
+  year: 2020
+founded: 2015
 founders:
-  - name: "Sean Henry"
-    role: "Co-Founder & CEO"
-  - name: "Jacob Boudreau"
-    role: "Co-Founder & CTO"
-status: published
+- name: Sean Henry
+  role: Co-Founder & CEO
+- name: Jacob Boudreau
+  role: Co-Founder & CTO
+investors:
+- round: ~2021
+  slug: everett-randle
+  year: 2021
+- round: Growth
+  slug: steve-case
+  year: 2020
+- round: Series A
+  slug: ilya-fushman
+  year: 2020
 last_researched: 2026-05-27
+location: Atlanta, Georgia
+name: Stord
+sector:
+- logistics
+- supply-chain
+- e-commerce
+- fulfillment
+slug: stord
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $590M+
+type: startup
+website: https://www.stord.com
 ---
 
 ## About

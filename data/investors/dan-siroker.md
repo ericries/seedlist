@@ -1,22 +1,28 @@
 ---
-name: "Dan Siroker"
-slug: dan-siroker
-type: individual
+check_size: Undisclosed (angel)
 firm: limitless
-role: "Co-Founder & CEO, Limitless; Partner, Rebel Fund"
-location: "Denver, Colorado"
-stage_focus: [seed]
-sector_focus: [ai, developer-tools, productivity, saas, consumer]
-check_size: "Undisclosed (angel)"
-last_verified_investment:
-  date: 2021-08-18
-  company: "Milk Video"
-  round: "Seed"
-social:
-  twitter: "@dsiroker"
-  linkedin: "linkedin.com/in/dsiroker"
-status: published
 last_researched: 2026-05-01
+last_verified_investment:
+  company: Navattic
+  date: ~2022
+  round: Seed ($4.25M, lead Canvas)
+location: Denver, Colorado
+name: Dan Siroker
+role: Co-Founder & CEO, Limitless; Partner, Rebel Fund
+sector_focus:
+- ai
+- developer-tools
+- productivity
+- saas
+- consumer
+slug: dan-siroker
+social:
+  linkedin: linkedin.com/in/dsiroker
+  twitter: '@dsiroker'
+stage_focus:
+- seed
+status: published
+type: individual
 ---
 
 ## Background
