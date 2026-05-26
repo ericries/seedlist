@@ -43,7 +43,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-26'
   slug: tequipy
-  notes: created startup profile tequipy.md; Smedvig Ventures led, Manta Ray and Unfold.vc participated
+  notes: created startup profile tequipy.md; Smedvig Ventures led, Manta Ray and Unfold.vc
+    participated
 - title: Perplant raises €1 million to equip tractors with AI “eyes” to cut herbicide
     use and boost profits for farmers
   url: https://www.eu-startups.com/2026/05/perplant-raises-e1-million-to-equip-tractors-with-ai-eyes-to-cut-herbicide-use-and-boost-profits-for-farmers/
@@ -55,7 +56,8 @@ pending_rounds:
   status: processed
   processed: '2026-05-26'
   slug: perplant
-  notes: created startup profile perplant.md; Jytte Rosenmaj and Kræn Østergaard Nielsen led, Antler/Footprint Firm prior backers
+  notes: created startup profile perplant.md; Jytte Rosenmaj and Kræn Østergaard Nielsen
+    led, Antler/Footprint Firm prior backers
 - title: 'The Weekly Notable Startup Funding Report: 5/25/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-25-26/
   source: alleywatch
@@ -65,7 +67,8 @@ pending_rounds:
   parsed_round: null
   status: skipped
   processed: '2026-05-26'
-  skip_reason: weekly roundup aggregating already-shipped rounds (Modal, Farther, Fresha, etc.)
+  skip_reason: weekly roundup aggregating already-shipped rounds (Modal, Farther,
+    Fresha, etc.)
 - title: Modal raised $355M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

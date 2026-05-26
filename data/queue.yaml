@@ -25422,3 +25422,67 @@ queue:
   added: '2026-03-17'
   firm: insitro
   discovered_from: carlos-guestrin
+- name: VMG Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brami
+  source: Led BRAMI $33M Series B (2026-05-19)
+- name: Pentland Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brami
+  source: Participated in BRAMI Series B (2026-05-19)
+- name: Gather Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brami
+  source: Participated in BRAMI Series B (2026-05-19)
+- name: Aaron Gatti
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: BRAMI
+  discovered_from: brami
+  source: Founder & CEO of BRAMI
+- name: Unbundled Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: findd
+  source: Led Findd $21M growth round (2026-05-20)
+- name: Skybound Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neurosoft-bioelectronics
+  source: Led Neurosoft Bioelectronics $7.5M seed (2026-05-20)
+- name: PL Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neurosoft-bioelectronics
+  source: Participated in Neurosoft Bioelectronics seed (2026-05-20)
+- name: IAG Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neurosoft-bioelectronics
+  source: Participated in Neurosoft Bioelectronics seed (2026-05-20)
+- name: Connecticut Innovations
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neurosoft-bioelectronics
+  source: Participated in Neurosoft Bioelectronics seed (2026-05-20)
