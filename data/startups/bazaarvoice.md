@@ -63,7 +63,7 @@ On February 1, 2018, Marlin Equity Partners completed a take-private acquisition
 | IPO | 2012-02-23 | $114M | Morgan Stanley | Deutsche Bank Securities, Credit Suisse [^2][^7] |
 | Follow-On Offering | 2012-07-17 | $130.9M | Morgan Stanley | Deutsche Bank Securities, Credit Suisse [^8] |
 | Post-IPO Equity | Nov 2012 | $6.7M | — | — [^4] |
-| Take-Private | Feb 2018 | ~$521M | Marlin Equity Partners | — [^3] |
+| Take-Private | 2018-02-01 | ~$521M | Marlin Equity Partners | — [^3] |
 
 Bazaarvoice priced its IPO on February 23, 2012 at $12 per share (9,484,296 shares), above the proposed $8-$10 range; shares opened at $16 on February 24, 2012 on NASDAQ under ticker BV [^2][^7]. The July 2012 follow-on offering priced 8,500,000 shares at $15.40 — 2,350,000 new shares from the company and 6,150,000 shares from selling stockholders — for gross proceeds of approximately $130.9M (of which approximately $36.2M went to Bazaarvoice) [^8]. Crunchbase records this round as "Post-IPO Equity" with a June 25, 2012 date corresponding to the prospectus filing [^4].
 

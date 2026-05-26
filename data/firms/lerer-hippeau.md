@@ -130,6 +130,7 @@ Based on publicly available data from the firm's website, Crunchbase, and press 
 | AIR Platforms | Seed | 2025 | Fintech | Active | [^17] |
 | Board | Seed | ~2025 | Hardware/Gaming | Active | [^17] |
 | MOTHER.Tech | Seed (participated) | 2026-05-05 | AI/Creator Economy | Active | [^44][^45] |
+| BRAMI | Series B (participated) | 2026-05-19 | Consumer / Food / High-Protein Pasta | Active | [^46] |
 
 *This table represents approximately 6% of the firm's 447 reported investments [^13]. Entries are ordered by investment year. Most years have been verified against Crunchbase, Tracxn, and press sources; remaining ~ entries could not be independently confirmed.*
 
@@ -206,3 +207,5 @@ No independently sourced founder testimonials found. Despite dedicated searches,
 [^43]: Tracxn, "Zipline — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/zipline/__6x5NxFrGLSb7l6JEaoCLk-PwFJ_8f9pCM6oy1lX01kM/funding-and-investors
 [^44]: AlleyWatch, "MOTHER.Tech Raises $15M to Launch Degen, an AI App That Creates Professional Content Without Prompt Engineering," May 5, 2026. $15M seed led by GV with Lerer Hippeau, BoxGroup, and Shine Capital participating. https://www.alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/
 [^45]: Tech Funding News, "GV leads $15M seed in MOTHER.tech as it launches one-tap AI creative app Degen," May 5, 2026. https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/
+
+[^46]: PR Newswire, "BRAMI Raises $33 Million Series B Led by VMG Partners to Scale Italian Protein Pasta," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/brami-raises-33-million-series-b-led-by-vmg-partners-to-scale-italian-protein-pasta-302776240.html — Confirms Lerer Hippeau as existing investor in BRAMI's $33M Series B led by VMG Partners on May 19, 2026; La Molisana, Pentland Ventures, and Gather Ventures also participated as existing investors.

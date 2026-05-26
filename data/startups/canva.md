@@ -93,9 +93,9 @@ Canva is an online graphic design platform founded on January 1, 2013, in Sydney
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Mar 2013 | $3M | Matrix Partners, InterWest Partners | 500 Startups, Bill Tai, Lars Rasmussen, Ken Goldman [^5] | -- |
-| Series A | Oct 2015 | $15M | Felicis Ventures | Matrix Partners, Blackbird Ventures, VaynerRSE [^6] | $165M |
-| Series B | Sep 2016 | $15M | Blackbird Ventures | -- [^7] | -- |
+| Seed | 2013-03-20 | $3M | Matrix Partners, InterWest Partners | 500 Startups, Bill Tai, Lars Rasmussen, Ken Goldman [^5] | — |
+| Series A | 2015-10-06 | $15M | Felicis Ventures | Matrix Partners, Blackbird Ventures, VaynerRSE [^6] | $165M |
+| Series B | 2016-09-14 | $15M | Blackbird Ventures | — [^7] | — |
 | Series C | Jan 2018 | A$40M | Sequoia Capital | Blackbird Ventures, Felicis Ventures [^8] | A$1B |
 | Series D (tranche 1) | May 2019 | $70M | Bond, General Catalyst | Felicis Ventures, Blackbird Ventures [^9] | $2.5B |
 | Series D (tranche 2) | Oct 2019 | $85M | Bond Capital | General Catalyst, Bessemer Venture Partners, Blackbird, Sequoia China [^10][^12] | $3.2B |
