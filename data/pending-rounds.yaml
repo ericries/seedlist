@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Pacifico Biolabs raises €7 million Series A to turn idle German breweries
+    into alternative protein factories
+  url: https://www.eu-startups.com/2026/05/pacifico-biolabs-raises-e7-million-series-a-to-turn-idle-german-breweries-into-alternative-protein-factories/
+  source: eu-startups
+  date_found: '2026-05-27'
+  parsed_company: Pacifico Biolabs
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: YC-backed French preventive health platform Lucis raises €17.3 million Series
     A led by Singular
   url: https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/
@@ -1184,18 +1193,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-18'
   slug: alcolase
-- title: Milan-based Cosmico raises €12 million, acquires Flatmates to expand Future
-    of Work platform
-  url: https://www.eu-startups.com/2026/05/milan-based-cosmico-raises-e12-million-acquires-flatmates-to-expand-future-of-work-platform/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Milan-based Cosmico
-  parsed_amount: €12M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-18'
-  slug: cosmico
-  notes: created cosmico.md (€12M Series B equity+debt 2026-05-18 led by P101 SGR
-    with Prana Ventures; Milan Talent-as-a-Service; finalized Flatmates 100% acquisition
-    two years ahead of plan; founders Francesco Marino, Simone Tornabene, Matteo Roversi);
-    queued P101 SGR and Prana Ventures as new firms

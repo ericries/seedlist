@@ -1,4 +1,8 @@
 priority:
+- slug: stray-dog-capital
+  type: firm
+  reason: "led Pacifico Biolabs Series A €7M (2026-05-27)"
+  added: 2026-05-27
 - slug: sofinnova-partners
   type: firm
   reason: "led P2 Science $23M up round (2026-05-26)"
