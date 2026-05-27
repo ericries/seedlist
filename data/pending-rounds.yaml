@@ -29,6 +29,41 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: Airbnb-backed WeRoad raises $58M to take its group travel platform to the
+    US
+  url: https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/
+  source: techcrunch
+  date_found: '2026-05-27'
+  parsed_company: Airbnb-backed WeRoad
+  parsed_amount: $58M
+  parsed_round: null
+  status: pending
+- title: Bristol’s female-founded BioTech startup Mykor raises €4.6 million to grow
+    low-carbon construction materials from waste
+  url: https://www.eu-startups.com/2026/05/bristols-female-founded-biotech-startup-mykor-raises-e4-6-million-to-grow-low-carbon-construction-materials-from-waste/
+  source: eu-startups
+  date_found: '2026-05-27'
+  parsed_company: Bristol’s female-founded BioTech startup Mykor
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Munich’s allO raises €12 million Series A to expand its AI operating system
+    for restaurants across Europe
+  url: https://www.eu-startups.com/2026/05/munichs-allo-raises-e12-million-series-a-to-expand-its-ai-operating-system-for-restaurants-across-europe/
+  source: eu-startups
+  date_found: '2026-05-27'
+  parsed_company: Munich’s allO
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Airbnb leads €49 million Series C in Italian adventure travel company WeRoad
+  url: https://www.eu-startups.com/2026/05/airbnb-leads-e49-million-series-c-in-italian-adventure-travel-company-weroad/
+  source: eu-startups
+  date_found: '2026-05-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
 - title: YC-backed French preventive health platform Lucis raises €17.3 million Series
     A led by Singular
   url: https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/
@@ -1144,52 +1179,3 @@ pending_rounds:
   slug: stilta
   notes: already shipped as stilta.md ($10.5M Seed 2026-05-19 led by Andreessen Horowitz
     with Y Combinator and operator-angels from OpenAI, Legora, Lovable)
-- title: Berlin-based bunch bags €30.1 million Series B to modernise Europe’s private
-    markets infrastructure
-  url: https://www.eu-startups.com/2026/05/berlin-based-bunch-bags-e30-1-million-series-b-to-modernise-europes-private-markets-infrastructure/
-  source: eu-startups
-  date_found: '2026-05-19'
-  parsed_company: Berlin-based bunch
-  parsed_amount: €30.1M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-19'
-  slug: bunch
-  notes: already shipped as bunch.md (€30.1M Series B 2026-05-19 led by Portage with
-    Illuminate Financial new, plus follow-ons from Motive Partners, Cherry Ventures,
-    FinTech Collective); removed USD parenthetical per currency rule
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/19/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-19-2026/
-  source: alleywatch
-  date_found: '2026-05-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: All notable rounds (Nourish, Moment, Ocean Security, Eisen) already shipped;
-    smaller rounds skipped.
-- title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
-    for notaries and law firms
-  url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Berlin-based LawX
-  parsed_amount: €7.5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-18'
-  slug: lawx
-  notes: created lawx.md; €7.5M Seed led by Motive Partners with WENVEST Capital,
-    xdeck, SIVentures and angels (Christoph Cordes, Ralph Müller); founders Norman
-    Koschmieder, Torben Rabe, Sara Brinkmann (per Tech Funding News May 18 coverage)
-- title: Copenhagen’s Alcolase secures €1.5 million to develop enzyme-based remedy
-    for alcohol flush
-  url: https://www.eu-startups.com/2026/05/copenhagens-alcolase-secures-e1-5-million-to-develop-enzyme-based-remedy-for-alcohol-flush/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Copenhagen’s Alcolase
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  slug: alcolase
