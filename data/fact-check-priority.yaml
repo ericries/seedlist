@@ -1,4 +1,8 @@
 priority:
+- slug: sofinnova-partners
+  type: firm
+  reason: "led P2 Science $23M up round (2026-05-26)"
+  added: 2026-05-27
 - slug: capitalg
   type: firm
   reason: "led OpenRouter Series B (2026-05-26)"
