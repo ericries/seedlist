@@ -3,7 +3,7 @@ name: InsightFinder
 slug: insightfinder
 type: startup
 website: https://insightfinder.com
-location: null
+location: Durham, NC
 founded: 2016
 status_company: active
 sector:
@@ -18,7 +18,7 @@ founders:
 - name: Helen Gu
   role: CEO
 status: published
-last_researched: 2026-04-16
+last_researched: 2026-05-27
 ---
 
 ## About
@@ -29,7 +29,7 @@ InsightFinder is a predictive AI observability platform that has been using mach
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-16 | Series B | $15M | Yu Galaxy | — [^1] |
+| 2026-04-16 | Series B | $15M | Yu Galaxy | — [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -42,3 +42,5 @@ No verified founder quotes available at this time.
 ## Sources
 
 [^1]: TechCrunch, "InsightFinder raises $15M to help companies figure out where AI agents go wrong," April 16, 2026. https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/
+[^2]: InsightFinder, "AI Observability Breakthrough: InsightFinder Secures $15M to Solve Critical AI Agent Failures," April 16, 2026. Accessed May 2026. https://insightfinder.com/blog/ai-observability-breakthrough-insightfinder-secures-15m-to-solve-critical-ai-agent-failures/
+[^3]: The SaaS News, "InsightFinder AI Raises $15M Series B," April 2026. Accessed May 2026. https://www.thesaasnews.com/news/insightfinder-ai-raises-15m-series-b

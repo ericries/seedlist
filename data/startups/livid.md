@@ -25,7 +25,7 @@ founders:
 - name: Dan Briggs
   role: Co-Founder
 status: published
-last_researched: 2026-04-14
+last_researched: 2026-05-27
 ---
 
 ## About
@@ -36,7 +36,7 @@ Livid is an ad-free video hosting platform for creators and small businesses, fo
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-08 | Seed | $10M | Geige Vandentop, Dan Briggs (self-funded) | -- [^1] |
+| 2026-04-08 | Seed | $10M | Geige Vandentop, Dan Briggs (self-funded) | — [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -44,8 +44,12 @@ No verified investor quotes available at this time.
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+> "It was brutal to watch Bending Spoons acquire our parent company, fire virtually all the employees, raise prices and upset a lot of users. When they acquired Vimeo, it was clear this was going to happen again."
+>
+> — Geige Vandentop, Co-Founder, Livid [^2]
 
 ## Sources
 
 [^1]: Las Vegas Sun / AP, "StreamYard Founders Put $10 Million Behind Livid, the Startup Helping Vimeo Users Escape Before the Next Round of Price Increases," April 8, 2026. https://lasvegassun.com/news/2026/apr/08/streamyard-founders-put-10-million-behind-livid-th/
+[^2]: Yahoo Finance (BusinessWire), "StreamYard Founders Put $10 Million Behind Livid, the Startup Helping Vimeo Users Escape Before the Next Round of Price Increases," April 8, 2026. Accessed May 2026. https://finance.yahoo.com/sectors/technology/articles/streamyard-founders-put-10-million-130000526.html
+[^3]: NetInfluencer, "Video Startup Livid Raises $10M From StreamYard Founders, Targets Vimeo Users With New Hosting Platform," April 2026. Accessed May 2026. https://www.netinfluencer.com/video-startup-livid-raises-10m-usd-from-streamyard-founders-targets-vimeo-users-with-new-hosting-platform/
