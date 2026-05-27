@@ -3,21 +3,9 @@ priority:
   type: firm
   reason: "led P2 Science $23M up round (2026-05-26)"
   added: 2026-05-27
-- slug: capitalg
-  type: firm
-  reason: "led OpenRouter Series B (2026-05-26)"
-  added: 2026-05-27
 - slug: andreessen-horowitz
   type: firm
   reason: "led Arc QSR seed (2026-05-26); follow-on OpenRouter Series B (2026-05-26)"
-  added: 2026-05-27
-- slug: menlo-ventures
-  type: firm
-  reason: "follow-on OpenRouter Series B (2026-05-26)"
-  added: 2026-05-27
-- slug: accel
-  type: firm
-  reason: "led Perceptic seed (2026-05-26)"
   added: 2026-05-27
 - slug: y-combinator
   type: firm

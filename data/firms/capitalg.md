@@ -140,6 +140,7 @@ Based on 48 verified investments in the portfolio table below:
 | Bedrock Robotics | Growth | 2026 | AI/Robotics | Active | [^27] |
 | Nibol | Growth | 2026 | Enterprise/SaaS | Active | [^27] |
 | nEye.ai | Series C ($80M; Sutter Hill Ventures led) | 2026-04-14 | AI / Data Center / Optical Switching | Active | [^56][^57][^58] |
+| OpenRouter | Series B (led, $113M at $1.3B val) | 2026-05-26 | AI / LLM Infrastructure | Active | [^59] |
 
 *This table represents approximately 48 verified investments. CapitalG's total portfolio includes approximately 76 organizations per Crunchbase [^30], so this table covers roughly 63% of known investments. Years marked with ~ are approximate, based on founding year proxies or portfolio page listing dates.*
 
@@ -234,3 +235,5 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^57]: nEye.ai company website, accessed May 2026. https://www.neye.ai/ — Company-published confirmation of $80M Series C led by Sutter Hill Ventures on April 14, 2026; total funding raised to $152M.
 
 [^58]: TechStartups, "nEye.ai raises $80M to scale optical circuit switching for AI data centers," April 14, 2026. Accessed May 2026. https://techstartups.com/2026/04/14/neye-ai-raises-80m-to-scale-optical-circuit-switching-for-ai-data-centers/ — Independent press confirmation listing CapitalG and M12 as Alphabet/Microsoft participants alongside Sutter Hill Ventures (lead) and Socratic Partners.
+
+[^59]: Axios Pro Rata, "OpenRouter raises $113M at $1.3B valuation led by CapitalG," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms CapitalG led OpenRouter's $113M Series B on May 26, 2026 at $1.3B valuation; Andreessen Horowitz and Menlo Ventures participated as follow-on investors.

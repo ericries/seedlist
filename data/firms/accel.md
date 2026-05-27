@@ -226,6 +226,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Sprouts.ai | Pre-Series A (co-led with True Global Ventures, $9M) | 2026-05-15 | AI / Sales / B2B Revenue Agents | [^73][^74] |
 | Viktor | Series A (led, €64.7M) | 2026-05-20 | AI / Enterprise / Workplace | [^75][^76] |
 | Primer | Series A (led, £14M); Series C participated ($100M, Sofina-led) | 2020-11-29; 2026-05-20 | Fintech / Payments Infrastructure | [^77][^78] |
+| Perceptic | Seed (led, $12M) | 2026-05-26 | AI / Robotics | [^79] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -368,3 +369,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^77]: TechCrunch, "Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A," November 29, 2020. Accessed May 2026. https://techcrunch.com/2020/11/29/primed-for-accel/ — Confirms Accel led Primer's £14M Series A on November 29, 2020 with Balderton Capital, Seedcamp, and Speedinvest participating.
 
 [^78]: Sifted, "Balderton-backed payments startup Primer raises $100m Series C," May 2026. Accessed May 2026. https://sifted.eu/articles/primer-raises-100m-series-c — Confirms Accel participated in Primer's $100M Series C on May 20, 2026 led by Sofina; Peak XV Partners, Balderton, ICONIQ, Tencent, Speedinvest also participated. Total funding $170M.
+
+[^79]: Axios Pro Rata, "Perceptic raises $12M seed from Accel, Air Street Capital, and Elder Gull," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Accel led Perceptic's $12M seed on May 26, 2026 with Air Street Capital and Elder Gull participating.
