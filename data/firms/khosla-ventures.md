@@ -198,6 +198,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Private [^35] |
 | Exaforce | Series B | 2026-05-12 | Cybersecurity / AI / SOC | Private ($725M val) [^40] |
 | Synthetic | Seed (led) | 2026-05-14 | AI / Fintech / Autonomous Bookkeeping | Private [^43] |
+| NavigateAI | Seed (participated, $25M; Elad Gil led) | 2026-05-26 | AI / Construction / Real Estate | Private [^45] |
 
 *Note: This table includes 67 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -356,3 +357,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^43]: TechCrunch, "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded," May 14, 2026. Accessed May 2026. https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/ — Synthetic announced a $10M seed on May 14, 2026 led by Khosla Ventures (Jon Chu partnered), with Basis Set Ventures and operator-investors including Tobi Lütke (Shopify) and Kaz Nejatian (Opendoor) participating. Cross-referenced with Business Wire press release, https://www.businesswire.com/news/home/20260514241304/en/Synthetic-Raises-$10M-Seed-Led-by-Khosla-Ventures.
 
 [^44]: TechCrunch, "Khosla, Greylock, Andreessen Horowitz Put $16.5M In Enterprise Cloud App Management Startup Okta," August 8, 2011. Accessed May 2026. https://techcrunch.com/2011/08/08/khosla-greylock-andreessen-horowitz-put-16-5m-in-enterprise-cloud-app-management-startup-okta/ — Okta's $16.5M Series B announced August 8, 2011 with Khosla Ventures, Greylock Partners, Andreessen Horowitz, and Floodgate participating. Ben Horowitz had led the earlier Series A in July 2010.
+
+[^45]: GlobeNewsWire, "NavigateAI Launches to Build the AI Copilot for the Physical World," May 26, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/26/3301425/0/en/navigateai-launches-to-build-the-ai-copilot-for-the-physical-world.html — Confirms Khosla Ventures participated in NavigateAI's $25M seed on May 26, 2026, led by Elad Gil with Fifth Wall, Lennar, Tishman Speyer, Helix Electric, and 11 named angel investors.

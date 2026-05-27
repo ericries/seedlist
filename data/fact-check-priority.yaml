@@ -7,14 +7,6 @@ priority:
   type: firm
   reason: "led allO $14M Series A (2026-05-27)"
   added: 2026-05-27
-- slug: elad-gil
-  type: investor
-  reason: "led NavigateAI $25M Seed (2026-05-26)"
-  added: 2026-05-27
-- slug: khosla-ventures
-  type: firm
-  reason: "participated in NavigateAI $25M Seed (2026-05-26)"
-  added: 2026-05-27
 - slug: psg-equity
   type: firm
   reason: "led Airis Labs $31M Series B (2026-05-27)"

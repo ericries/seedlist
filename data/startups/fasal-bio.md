@@ -11,8 +11,11 @@ stage_latest: "Growth Equity"
 total_raised: "€7M+"
 firms: []
 investors: []
+founders:
+- name: Krešimir Hagljan
+  role: Founder
 status: published
-last_researched: 2026-04-23
+last_researched: 2026-05-27
 ---
 
 ## About
@@ -23,7 +26,7 @@ Fasal Bio is a Zagreb-based renewable materials company founded in 2012 by Kreš
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-23 | Growth Equity | €7M | BlackPeak Capital | [^1][^2] |
+| 2026-04-23 | Growth Equity | €7M | BlackPeak Capital | — [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -37,3 +40,4 @@ No independently sourced founder quotes found.
 
 [^1]: Vestbee, "BlackPeak Capital invests €7M in Fasal Bio to accelerate its renewable materials platform," April 2026. https://www.vestbee.com/insights/articles/7-m-in-fasal-bio
 [^2]: EU-Startups, "Zagreb-based Fasal Bio secures €7 million to replace plastics with renewable raw materials," April 23, 2026. https://www.eu-startups.com/2026/04/zagreb-based-fasal-bio-secures-e7-million-to-replace-plastics-with-renewable-raw-materials/
+[^3]: SeeNews, "Bulgaria's BlackPeak Capital invests 7 mln euro in Croatia's Fasal Bio," April 23, 2026. Accessed May 2026. https://seenews.com/news/bulgarias-blackpeak-capital-invests-7-mln-euro-in-croatias-fasal-bio-1293564 — Confirms BlackPeak Capital's first direct investment in Croatia; final investment from BlackPeak Southeast Europe Growth Equity Fund I.
