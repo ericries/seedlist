@@ -25593,3 +25593,205 @@ queue:
   added: '2026-03-17'
   firm: independent
   discovered_from: sean-neville
+- name: Alex Atallah
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: OpenRouter
+  discovered_from: openrouter
+  source: CEO & co-founder of OpenRouter, raised $113M Series B from CapitalG (2026-05-26);
+    also OpenSea co-founder
+- name: ServiceNow Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: openrouter
+  source: co-investor on OpenRouter $113M Series B (2026-05-26)
+- name: MongoDB Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: openrouter
+  source: co-investor on OpenRouter $113M Series B (2026-05-26)
+- name: Databricks Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: openrouter
+  source: co-investor on OpenRouter $113M Series B (2026-05-26)
+- name: Maxime Berthelot
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lucis
+  discovered_from: lucis
+  source: co-founder Lucis (preventive health, Paris)
+- name: Baptiste Debever
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lucis
+  discovered_from: lucis
+  source: co-founder Lucis (preventive health, Paris)
+- name: Air Street Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: perceptic
+  source: co-invested Perceptic $12M seed (2026-05-26); UK AI/life sciences VC, runs
+    The Air Street Press
+- name: Elder Gull
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: perceptic
+  source: co-invested Perceptic $12M seed (2026-05-26)
+- name: Tilman Flock
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Perceptic
+  discovered_from: perceptic
+  source: CEO & co-founder Perceptic, ex-Palantir Life Sciences (7 years)
+- name: Olivia Moore
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: arc-qsr
+  source: led a16z's Arc QSR $10.76M seed (2026-05-26); a16z AI Partner focused on
+    consumer/voice AI
+- name: Adverb Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arc-qsr
+  source: co-invested Arc QSR seed (2026-05-26)
+- name: Mike MacLennan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Arc
+  discovered_from: arc-qsr
+  source: co-founder Arc QSR, ex-Block/Square/Cash App
+- name: Ali Hussain
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Arc
+  discovered_from: arc-qsr
+  source: co-founder Arc QSR, ex-Block/Square/Cash App
+- name: Sarah Friar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenAI
+  discovered_from: arc-qsr
+  source: angel in Arc QSR seed (2026-05-26); OpenAI CFO; ex-Nextdoor CEO, ex-Square
+    CFO
+- name: Saumil Mehta
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Ticketmaster
+  discovered_from: arc-qsr
+  source: angel in Arc QSR seed (2026-05-26); Ticketmaster President
+- name: Orange Collective
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: didit
+  source: co-invested Didit $6M seed extension (2026-05-26); YC alumni angel collective
+- name: Founders Future
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: didit
+  source: co-invested Didit $6M seed extension (2026-05-26)
+- name: Phosphor Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: didit
+  source: co-invested Didit $6M seed extension (2026-05-26)
+- name: SaaSholic
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: didit
+  source: co-invested Didit $6M seed extension (2026-05-26)
+- name: Tomer London
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gusto
+  discovered_from: didit
+  source: angel in Didit seed extension (2026-05-26); Gusto co-founder
+- name: Taro Fukuyama
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fond
+  discovered_from: didit
+  source: angel in Didit seed extension (2026-05-26); Fond founder
+- name: Alberto Rosas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Didit
+  discovered_from: didit
+  source: co-founder Didit (identity / fraud, AI-native)
+- name: Alejandro Rosas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Didit
+  discovered_from: didit
+  source: co-founder Didit (identity / fraud, AI-native)
+- name: Improbable
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: otomato
+  source: led Otomato $2M strategic round (2026-05-26); first external investment
+    in AI+web3 focus post-Somnia L1 launch
+- name: Dylan Breugne
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Otomato
+  discovered_from: otomato
+  source: co-founder Otomato (DeFi intelligence)
+- name: Clément Hecquet
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Otomato
+  discovered_from: otomato
+  source: co-founder Otomato (DeFi intelligence)

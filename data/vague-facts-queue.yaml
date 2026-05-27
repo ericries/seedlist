@@ -9777,13 +9777,12 @@ vague_facts:
   company: Gordian Biotechnology
   section: Portfolio
   column: 4
-  value: '[^20][^30]'
-  line: '| Gordian Biotechnology | Undisclosed ($60M total) | 2024 | Longevity/drug
-    discovery | [^20][^30] |'
+  value: '[^20][^30][^34]'
+  line: '| Gordian Biotechnology | Series A (2021-11-01, amount undisclosed; $60M
+    total raised across rounds by 2024) | 2021 | Lo'
   priority: high
   type: unknown_value
-  status: resolved
-  resolution: "Gordian's Series A closed on 2021-11-01 (amount undisclosed) per Crunchbase. The $60M total and 2024 date reflected the April 2024 platform-launch announcement summing all rounds raised to date. Updated both Gigafund and Stephen Oskoui profiles to reflect 2021 Series A round, added Crunchbase Series A citation [^34] in gigafund / [^28] in stephen-oskoui."
+  status: pending
 - profile: firms/gigafund
   profile_name: Gigafund
   company: Sunroom Rentals
@@ -16738,6 +16737,17 @@ vague_facts:
   value: '[^44][^45]'
   line: '| MOTHER.Tech | Seed (participated) | 2026-05-05 | AI/Creator Economy | Active
     | [^44][^45] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: firms/lerer-hippeau
+  profile_name: Lerer Hippeau
+  company: BRAMI
+  section: Portfolio
+  column: 5
+  value: '[^46]'
+  line: '| BRAMI | Series B (participated) | 2026-05-19 | Consumer / Food / High-Protein
+    Pasta | Active | [^46] |'
   priority: high
   type: unknown_value
   status: pending
@@ -31243,24 +31253,24 @@ vague_facts:
   profile_name: Adam D'Angelo
   company: Cerebras Systems
   section: Portfolio
-  column: 2
-  value: Undisclosed
-  line: '| Cerebras Systems | Angel | Undisclosed | AI Chips | Active | [^9] |'
+  column: 5
+  value: '[^9][^19][^20]'
+  line: '| Cerebras Systems | Angel | ~2017 | AI Chips | IPO (NASDAQ, May 2026) |
+    [^9][^19][^20] |'
   priority: high
   type: unknown_value
-  status: resolved
-  resolution: "Updated to ~2017 per CNBC IPO reporting and AIFundingTracker; D'Angelo grouped with OpenAI-affiliated angels (Altman, Brockman, Sutskever) whose personal stakes date to 2017. Added citations [^19][^20]. Status updated to IPO (NASDAQ, May 2026)."
+  status: pending
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
   company: Replit
   section: Portfolio
-  column: 2
-  value: Undisclosed
-  line: '| Replit | Angel | Undisclosed | Developer Tools | Active | [^9] |'
+  column: 5
+  value: '[^9]'
+  line: '| Replit | Angel | ~2018 (founding year) | Developer Tools | Active | [^9]
+    |'
   priority: high
   type: unknown_value
-  status: unresolvable
-  resolution: "Replit Crunchbase/Tracxn investor lists do not surface D'Angelo. Only Premier Alternatives [^9] mentions the investment without round/date specifics. Insufficient primary source confirmation to date the round."
+  status: pending
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
   company: Lambda
@@ -31285,9 +31295,9 @@ vague_facts:
   profile_name: Adam D'Angelo
   company: Lighter
   section: Portfolio
-  column: 2
+  column: 3
   value: Undisclosed
-  line: '| Lighter | Angel | Undisclosed | Undisclosed | Active | [^9] |'
+  line: '| Lighter | Angel | ~2022 (founding year) | Undisclosed | Active | [^9] |'
   priority: high
   type: unknown_value
   status: pending
@@ -51233,6 +51243,57 @@ vague_facts:
   priority: high
   type: unknown_value
   status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Turi (formerly GraphLab / Dato)
+  section: Portfolio
+  column: 3
+  value: '[^1][^4]'
+  line: '| Turi (formerly GraphLab / Dato) | 2013 | Co-founder & CEO (acq. Apple,
+    2016, ~$200M) | [^1][^4] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: OctoML / OctoAI
+  section: Portfolio
+  column: 3
+  value: '[^3][^6]'
+  line: '| OctoML / OctoAI | 2019 | Board Member (acq. Nvidia, 2024) | [^3][^6] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Visual Layer
+  section: Portfolio
+  column: 3
+  value: '[^3]'
+  line: '| Visual Layer | 2022 | Chief Scientist | [^3] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Virtue AI
+  section: Portfolio
+  column: 3
+  value: '[^3][^5]'
+  line: '| Virtue AI | 2024 | Co-founder & Chief Scientist | [^3][^5] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Ridge AI
+  section: Portfolio
+  column: 3
+  value: '[^7][^8]'
+  line: '| Ridge AI | 2026-04-07 | Angel (Pre-seed) | [^7][^8] |'
+  priority: high
+  type: unknown_value
+  status: pending
 - profile: investors/cat-lee
   profile_name: Cat Lee
   company: Lovevery (Maveron, board observer)
@@ -56929,15 +56990,14 @@ vague_facts:
   status: pending
 - profile: investors/dan-siroker
   profile_name: Dan Siroker
-  company: ~unknown
+  company: Navattic
   section: Portfolio
-  column: 2
-  value: Undisclosed
-  line: ~unknown| Navattic | Undisclosed | Angel | [^12] |
+  column: 3
+  value: '[^12][^14]'
+  line: '| Navattic | 2022 | Seed ($4.25M, lead Canvas) | [^12][^14] |'
   priority: high
   type: unknown_value
-  status: resolved
-  resolution: "Resolved via Crunchbase funding round page: Navattic seed closed 2022-03-17, $4.25M, led by Canvas with 645 Ventures, Y Combinator, Dan Siroker, Ben Thompson. Updated portfolio row to 2022 / Seed ($4.25M, lead Canvas). Added citation [^14]."
+  status: pending
 - profile: investors/dan-sundheim
   profile_name: Dan Sundheim
   company: SpaceX
@@ -62232,13 +62292,12 @@ vague_facts:
   profile_name: Dayna Grayson
   company: Teero
   section: Portfolio
-  column: 2
-  value: Unknown
-  line: '| Teero | ~2023 | Unknown | Dental staffing | [^1] |'
+  column: 4
+  value: '[^1][^45]'
+  line: '| Teero | ~2023 | Seed | Dental staffing | [^1][^45] |'
   priority: high
   type: unknown_value
-  status: resolved
-  resolution: "Updated stage from Unknown to Seed. Crunchbase and Tracxn confirm Construct Capital as an early investor; the 2024 Series A was led by Firstminute Capital, so Construct's participation maps to the earlier seed round. Added citation [^45]."
+  status: pending
 - profile: investors/dayna-grayson
   profile_name: Dayna Grayson
   company: Desktop Metal
@@ -86528,6 +86587,27 @@ vague_facts:
   column: 4
   value: '[^4]'
   line: '| Upverter | ~2011 | Seed | Acquired by Altium | [^4] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/jeff-heer
+  profile_name: Jeff Heer
+  company: Trifacta (co-founder)
+  section: Portfolio
+  column: 3
+  value: '[^2][^3]'
+  line: '| Trifacta (co-founder) | 2012-10 | Series A → Series D (acq. Alteryx, 2022)
+    | [^2][^3] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/jeff-heer
+  profile_name: Jeff Heer
+  company: Ridge AI (co-founder)
+  section: Portfolio
+  column: 3
+  value: '[^4][^5][^6]'
+  line: '| Ridge AI (co-founder) | 2026-04-07 | Pre-seed | [^4][^5][^6] |'
   priority: high
   type: unknown_value
   status: pending
@@ -127150,6 +127230,88 @@ vague_facts:
   priority: high
   type: unknown_value
   status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: SolarCity
+  section: Portfolio
+  column: 4
+  value: '[^4]'
+  line: '| SolarCity | 2006 | Co-founder | Solar | [^4] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Bellwether Coffee
+  section: Portfolio
+  column: 4
+  value: '[^10]'
+  line: '| Bellwether Coffee | 2018–2019 | Series A/B | Climate consumer (electric
+    coffee roasters) | [^10] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Sofar Ocean
+  section: Portfolio
+  column: 4
+  value: '[^10]'
+  line: '| Sofar Ocean | 2019 | Series A | Ocean / climate hardware | [^10] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: ZOLA Electric
+  section: Portfolio
+  column: 4
+  value: '[^8][^10]'
+  line: '| ZOLA Electric | 2019 | Advisor + investment | Off-grid solar (Africa) |
+    [^8][^10] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Enpal
+  section: Portfolio
+  column: 4
+  value: '[^12]'
+  line: '| Enpal | 2021 | Series C | Residential solar (Germany) | [^12] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Dequency
+  section: Portfolio
+  column: 4
+  value: '[^10]'
+  line: '| Dequency | 2022 | Seed | Music / web3 | [^10] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: SolarCycle
+  section: Portfolio
+  column: 4
+  value: '[^9][^13]'
+  line: '| SolarCycle | 2022 | Seed (board) | Solar-panel recycling | [^9][^13] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Online Oceans
+  section: Portfolio
+  column: 4
+  value: '[^10]'
+  line: '| Online Oceans | 2026 | Seed | Ocean tech | [^10] |'
+  priority: high
+  type: unknown_value
+  status: pending
 - profile: investors/peter-tague
   profile_name: Peter Tague
   company: Shield AI
@@ -138319,6 +138481,28 @@ vague_facts:
   priority: high
   type: unknown_value
   status: pending
+- profile: investors/sean-neville
+  profile_name: Sean Neville
+  company: Circle Internet Group (co-founder, board director)
+  section: Portfolio
+  column: 3
+  value: '[^1] [^5]'
+  line: '| Circle Internet Group (co-founder, board director) | 2013-present | Founded
+    2013; IPO June 4, 2025 (NYSE) | [^1] [^5] '
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: investors/sean-neville
+  profile_name: Sean Neville
+  company: Catena Labs (co-founder & CEO)
+  section: Portfolio
+  column: 3
+  value: '[^2] [^7] [^8]'
+  line: '| Catena Labs (co-founder & CEO) | 2024-present | Seed $18M (May 20, 2025,
+    led by a16z crypto); Series A $30M (May 20, 2'
+  priority: high
+  type: unknown_value
+  status: pending
 - profile: investors/sean-parker
   profile_name: Sean Parker
   company: Napster
@@ -143395,8 +143579,8 @@ vague_facts:
   company: Gordian Biotechnology
   section: Portfolio
   column: 4
-  value: '[^26]'
-  line: '| Gordian Biotechnology | 2024 | Venture | Drug discovery/longevity | [^26]
+  value: '[^26][^28]'
+  line: '| Gordian Biotechnology | 2021 | Series A | Drug discovery/longevity | [^26][^28]
     |'
   priority: high
   type: unknown_value
@@ -157775,21 +157959,22 @@ vague_facts:
   status: pending
 - profile: startups/astromech
   profile_name: Astromech
-  company: 2025-09
+  company: '2025-09-23'
   section: Funding History
   column: 3
   value: Undisclosed
-  line: '| 2025-09 | Seed | $30M | Undisclosed | Undisclosed [^2] |'
+  line: '| 2025-09-23 | Seed | $30M | Undisclosed | Undisclosed [^2][^3] |'
   priority: high
   type: unknown_value
   status: pending
 - profile: startups/astromech
   profile_name: Astromech
-  company: '2026'
+  company: 2026-03
   section: Funding History
   column: 3
   value: Undisclosed
-  line: '| 2026 | Seed Extension | $10.5M | Undisclosed | Undisclosed [^1] |'
+  line: '| 2026-03 | Seed Extension (per D Magazine reporting) | $10.5M | Undisclosed
+    | Undisclosed [^1] |'
   priority: high
   type: unknown_value
   status: pending
@@ -157883,7 +158068,7 @@ vague_facts:
   section: Funding History
   column: 4
   value: — [^3]
-  line: '| Take-Private | Feb 2018 | ~$521M | Marlin Equity Partners | — [^3] |'
+  line: '| Take-Private | 2018-02-01 | ~$521M | Marlin Equity Partners | — [^3] |'
   priority: high
   type: unknown_value
   status: pending
@@ -157895,16 +158080,6 @@ vague_facts:
   value: — [^1][^2][^3]
   line: '| 2026-04-15 | Series A | $300M | Bain Capital Life Sciences | — [^1][^2][^3]
     |'
-  priority: high
-  type: unknown_value
-  status: pending
-- profile: startups/bethog
-  profile_name: BetHog
-  company: '2025-11-24'
-  section: Funding History
-  column: 4
-  value: '[^4][^5]'
-  line: '| 2025-11-24 | Series A | $10.4M (~€8.5M) | 6th Man Ventures | [^4][^5] |'
   priority: high
   type: unknown_value
   status: pending
@@ -158106,9 +158281,9 @@ vague_facts:
   company: Seed
   section: Funding History
   column: 5
-  value: --
-  line: '| Seed | Mar 2013 | $3M | Matrix Partners, InterWest Partners | 500 Startups,
-    Bill Tai, Lars Rasmussen, Ken Goldman [^5]'
+  value: —
+  line: '| Seed | 2013-03-20 | $3M | Matrix Partners, InterWest Partners | 500 Startups,
+    Bill Tai, Lars Rasmussen, Ken Goldman [^'
   priority: high
   type: unknown_value
   status: pending
@@ -158117,8 +158292,8 @@ vague_facts:
   company: Series B
   section: Funding History
   column: 4
-  value: -- [^7]
-  line: '| Series B | Sep 2016 | $15M | Blackbird Ventures | -- [^7] | -- |'
+  value: — [^7]
+  line: '| Series B | 2016-09-14 | $15M | Blackbird Ventures | — [^7] | — |'
   priority: high
   type: unknown_value
   status: pending
@@ -158149,7 +158324,7 @@ vague_facts:
   section: Funding History
   column: 4
   value: — [^7]
-  line: '| Series B-1 Extension | Jul 2022 | $30M | Morgan Health (JPMorgan Chase)
+  line: '| Series B-1 Extension | 2022-07-19 | $30M | Morgan Health (JPMorgan Chase)
     | — [^7] |'
   priority: high
   type: unknown_value
@@ -158451,11 +158626,11 @@ vague_facts:
   status: pending
 - profile: startups/cycles
   profile_name: Cycles
-  company: '2025'
+  company: 2025-05
   section: Funding History
-  column: 3
-  value: —
-  line: '| 2025 | Pre-Seed | $2.3M | — | — [^2] |'
+  column: 4
+  value: — [^4]
+  line: '| 2025-05 | Pre-Seed | $2.3M | CMCC Global, Maven 11 | — [^4] |'
   priority: high
   type: unknown_value
   status: pending
@@ -159097,6 +159272,16 @@ vague_facts:
   priority: high
   type: unknown_value
   status: pending
+- profile: startups/findd
+  profile_name: Findd
+  company: '2026-05-20'
+  section: Funding History
+  column: 4
+  value: '[^1] [^2]'
+  line: '| 2026-05-20 | Growth | $21M | Unbundled Capital | [^1] [^2] |'
+  priority: high
+  type: unknown_value
+  status: pending
 - profile: startups/flatiron-health
   profile_name: Flatiron Health
   company: Acquisition
@@ -159490,21 +159675,21 @@ vague_facts:
   status: pending
 - profile: startups/inxy
   profile_name: INXY
-  company: '2025'
+  company: '2025-02-13'
   section: Funding History
-  column: 3
-  value: Undisclosed
-  line: '| 2025 | Seed | $3M | Undisclosed | Undisclosed [^1] |'
+  column: 4
+  value: — [^1][^3]
+  line: '| 2025-02-13 | Seed (initial) | $3M | Flashpoint VC | — [^1][^3] |'
   priority: high
   type: unknown_value
   status: pending
 - profile: startups/inxy
   profile_name: INXY
-  company: 2026-04
+  company: '2026-04-06'
   section: Funding History
   column: 4
-  value: Undisclosed [^1][^2]
-  line: '| 2026-04 | Seed | $4M | Flashpoint | Undisclosed [^1][^2] |'
+  value: — [^1][^2]
+  line: '| 2026-04-06 | Seed (extension) | $4M | Flashpoint VC | — [^1][^2] |'
   priority: high
   type: unknown_value
   status: pending
@@ -159769,21 +159954,22 @@ vague_facts:
   status: pending
 - profile: startups/mind-robotics
   profile_name: Mind Robotics
-  company: 2026-03
+  company: '2026-03-11'
   section: Funding History
-  column: 3
-  value: —
-  line: '| 2026-03 | Series A | $500M | — | — [^1] |'
+  column: 4
+  value: — [^1][^2]
+  line: '| 2026-03-11 | Series A | $500M | Accel, Andreessen Horowitz | — [^1][^2]
+    |'
   priority: high
   type: unknown_value
   status: pending
 - profile: startups/mind-robotics
   profile_name: Mind Robotics
-  company: '2025'
+  company: '2025-11-04'
   section: Funding History
   column: 4
-  value: — [^1]
-  line: '| 2025 | Early | $115M | Eclipse | — [^1] |'
+  value: — [^1][^3]
+  line: '| 2025-11-04 | Seed | $115M | Eclipse | — [^1][^3] |'
   priority: high
   type: unknown_value
   status: pending
@@ -160563,16 +160749,6 @@ vague_facts:
   priority: high
   type: unknown_value
   status: pending
-- profile: startups/poke
-  profile_name: Poke
-  company: 2026-04
-  section: Funding History
-  column: 3
-  value: —
-  line: '| 2026-04 | Seed extension | $10M | — | — [^1] |'
-  priority: high
-  type: unknown_value
-  status: pending
 - profile: startups/portal-space-systems
   profile_name: Portal Space Systems
   company: ~2025
@@ -161001,11 +161177,11 @@ vague_facts:
   status: pending
 - profile: startups/searchable
   profile_name: Searchable
-  company: '2025'
+  company: '2025-12-02'
   section: Funding History
-  column: 3
-  value: —
-  line: '| 2025 | Seed | $4M (at $40M val) | — | — [^1] |'
+  column: 4
+  value: — [^2][^3]
+  line: '| 2025-12-02 | Seed | $4M (at $40M val) | Freestyle | — [^2][^3] |'
   priority: high
   type: unknown_value
   status: pending
@@ -161292,11 +161468,11 @@ vague_facts:
   status: pending
 - profile: startups/snabbit
   profile_name: Snabbit
-  company: '2024'
+  company: 2024-05
   section: Funding History
   column: 4
-  value: '[^5]'
-  line: '| 2024 | Seed | $959K | Nexus Venture Partners | [^5] |'
+  value: — [^5]
+  line: '| 2024-05 | Seed | $959K | Nexus Venture Partners | — [^5] |'
   priority: high
   type: unknown_value
   status: pending
@@ -162137,6 +162313,17 @@ vague_facts:
   column: 3
   value: '[^1]'
   line: '| 2026-03-27 | Growth | $170M | | [^1] |'
+  priority: high
+  type: unknown_value
+  status: pending
+- profile: startups/xoople
+  profile_name: Xoople
+  company: '2025-05-14'
+  section: Funding History
+  column: 3
+  value: Undisclosed
+  line: '| 2025-05-14 | Series A (€115M stealth-exit) | ~$95M (€115M) | Undisclosed
+    | CDTI, AXIS (ICO) [^2] |'
   priority: high
   type: unknown_value
   status: pending
@@ -165459,17 +165646,6 @@ vague_facts:
   value: '2023'
   line: '| Atomic Machines | Series A | 2023 | Atomically precise manufacturing |
     [^28] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: firms/gigafund
-  profile_name: Gigafund
-  company: Gordian Biotechnology
-  section: Portfolio
-  column: 2
-  value: '2024'
-  line: '| Gordian Biotechnology | Undisclosed ($60M total) | 2024 | Longevity/drug
-    discovery | [^20][^30] |'
   priority: normal
   type: year_only_date
   status: pending
@@ -175755,6 +175931,16 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Virtue AI
+  section: Portfolio
+  column: 1
+  value: '2024'
+  line: '| Virtue AI | 2024 | Co-founder & Chief Scientist | [^3][^5] |'
+  priority: normal
+  type: year_only_date
+  status: pending
 - profile: investors/carmichael-roberts
   profile_name: Carmichael Roberts
   company: Amperesand
@@ -178028,7 +178214,7 @@ vague_facts:
   section: Portfolio
   column: 1
   value: ~2023
-  line: '| Teero | ~2023 | Unknown | Dental staffing | [^1] |'
+  line: '| Teero | ~2023 | Seed | Dental staffing | [^1][^45] |'
   priority: normal
   type: year_only_date
   status: pending
@@ -190680,6 +190866,16 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Online Oceans
+  section: Portfolio
+  column: 1
+  value: '2026'
+  line: '| Online Oceans | 2026 | Seed | Ocean tech | [^10] |'
+  priority: normal
+  type: year_only_date
+  status: pending
 - profile: investors/peter-tague
   profile_name: Peter Tague
   company: Primer
@@ -193882,17 +194078,6 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
-- profile: investors/stephen-oskoui
-  profile_name: Stephen Oskoui
-  company: Gordian Biotechnology
-  section: Portfolio
-  column: 1
-  value: '2024'
-  line: '| Gordian Biotechnology | 2024 | Venture | Drug discovery/longevity | [^26]
-    |'
-  priority: normal
-  type: year_only_date
-  status: pending
 - profile: investors/steve-anderson
   profile_name: Steve Anderson
   company: Rekord
@@ -196483,16 +196668,6 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
-- profile: startups/astromech
-  profile_name: Astromech
-  company: '2026'
-  section: Funding History
-  column: 0
-  value: '2026'
-  line: '| 2026 | Seed Extension | $10.5M | Undisclosed | Undisclosed [^1] |'
-  priority: normal
-  type: year_only_date
-  status: pending
 - profile: startups/avoca
   profile_name: Avoca
   company: '2023'
@@ -196533,16 +196708,6 @@ vague_facts:
   value: '2023'
   line: '| 2023 | Seed | $5.3M | Counteract | Connecticut Innovations, ANIMO Ventures,
     Ponderosa Ventures, Echo River Capital [^3'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/cycles
-  profile_name: Cycles
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Pre-Seed | $2.3M | — | — [^2] |'
   priority: normal
   type: year_only_date
   status: pending
@@ -196619,16 +196784,6 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
-- profile: startups/glimpse
-  profile_name: Glimpse
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Seed | $10M | 8VC | Y Combinator [^1] |'
-  priority: normal
-  type: year_only_date
-  status: pending
 - profile: startups/greenboard
   profile_name: Greenboard
   company: '2024'
@@ -196651,16 +196806,6 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
-- profile: startups/inxy
-  profile_name: INXY
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Seed | $3M | Undisclosed | Undisclosed [^1] |'
-  priority: normal
-  type: year_only_date
-  status: pending
 - profile: startups/kestra
   profile_name: Kestra
   company: ~2024
@@ -196678,16 +196823,6 @@ vague_facts:
   column: 0
   value: ~2025
   line: '| ~2025 | Pre-Seed/Seed | $3M | — | — [^2] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/mind-robotics
-  profile_name: Mind Robotics
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Early | $115M | Eclipse | — [^1] |'
   priority: normal
   type: year_only_date
   status: pending
@@ -196723,17 +196858,6 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
-- profile: startups/poke
-  profile_name: Poke
-  company: '2026'
-  section: Funding History
-  column: 0
-  value: '2026'
-  line: '| 2026 | Seed | $15M | General Catalyst | Village Global, Earlybird, angels
-    from Stripe, Dropbox, OpenAI [^2] |'
-  priority: normal
-  type: year_only_date
-  status: pending
 - profile: startups/portal-space-systems
   profile_name: Portal Space Systems
   company: ~2025
@@ -196761,16 +196885,6 @@ vague_facts:
   column: 0
   value: '2024'
   line: '| 2024 | Series C | $600M | N/A | 8VC, Andreessen Horowitz, others [^1] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/searchable
-  profile_name: Searchable
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Seed | $4M (at $40M val) | — | — [^1] |'
   priority: normal
   type: year_only_date
   status: pending
@@ -196805,27 +196919,6 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: pending
-- profile: startups/snabbit
-  profile_name: Snabbit
-  company: '2024'
-  section: Funding History
-  column: 0
-  value: '2024'
-  line: '| 2024 | Seed | $959K | Nexus Venture Partners | [^5] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/snabbit
-  profile_name: Snabbit
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Series A | $5.5M | Elevation Capital | Nexus Venture Partners [^5]
-    |'
-  priority: normal
-  type: year_only_date
-  status: pending
 - profile: startups/standing-ovation
   profile_name: Standing Ovation
   company: ~2023
@@ -196833,17 +196926,6 @@ vague_facts:
   column: 0
   value: ~2023
   line: '| ~2023 | Series A | EUR 16M | — | — [^1] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/syneron-bio
-  profile_name: Syneron Bio
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Series A/A+ | ~$100M | | AstraZeneca, LAV, Sinovation Capital, 5Y
-    Capital, GL Ventures, Biotech Development Fun'
   priority: normal
   type: year_only_date
   status: pending
@@ -196897,27 +196979,6 @@ vague_facts:
   value: ~2025
   line: '| ~2025 | Series A | $100M | Index Ventures | IVP, Bessemer Venture Partners,
     Vine Ventures [^1] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/xbow
-  profile_name: XBOW
-  company: '2026'
-  section: Funding History
-  column: 0
-  value: '2026'
-  line: '| 2026 | Series C | $120M | DFJ Growth, Northzone | Sofina, Alkeon Capital
-    [^3] |'
-  priority: normal
-  type: year_only_date
-  status: pending
-- profile: startups/xoople
-  profile_name: Xoople
-  company: '2025'
-  section: Funding History
-  column: 0
-  value: '2025'
-  line: '| 2025 | Series A | ~$95M | | CDTI [^2] |'
   priority: normal
   type: year_only_date
   status: pending
@@ -211055,6 +211116,17 @@ vague_facts:
   value: '2019'
   line: '| LabGenius | Series A ($10M) | 2019 | AI-driven protein therapeutics | [^29]
     |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: firms/gigafund
+  profile_name: Gigafund
+  company: Gordian Biotechnology
+  section: Portfolio
+  column: 2
+  value: '2021'
+  line: '| Gordian Biotechnology | Series A (2021-11-01, amount undisclosed; $60M
+    total raised across rounds by 2024) | 2021 | Lo'
   priority: low
   type: year_only_date
   status: pending
@@ -237822,6 +237894,17 @@ vague_facts:
   status: pending
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
+  company: Cerebras Systems
+  section: Portfolio
+  column: 2
+  value: ~2017
+  line: '| Cerebras Systems | Angel | ~2017 | AI Chips | IPO (NASDAQ, May 2026) |
+    [^9][^19][^20] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/adam-dangelo
+  profile_name: Adam D'Angelo
   company: Turing
   section: Portfolio
   column: 2
@@ -252244,6 +252327,37 @@ vague_facts:
   priority: low
   type: year_only_date
   status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Turi (formerly GraphLab / Dato)
+  section: Portfolio
+  column: 1
+  value: '2013'
+  line: '| Turi (formerly GraphLab / Dato) | 2013 | Co-founder & CEO (acq. Apple,
+    2016, ~$200M) | [^1][^4] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: OctoML / OctoAI
+  section: Portfolio
+  column: 1
+  value: '2019'
+  line: '| OctoML / OctoAI | 2019 | Board Member (acq. Nvidia, 2024) | [^3][^6] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/carlos-guestrin
+  profile_name: Carlos Guestrin
+  company: Visual Layer
+  section: Portfolio
+  column: 1
+  value: '2022'
+  line: '| Visual Layer | 2022 | Chief Scientist | [^3] |'
+  priority: low
+  type: year_only_date
+  status: pending
 - profile: investors/carmichael-roberts
   profile_name: Carmichael Roberts
   company: 6K (now 6K Energy)
@@ -257083,6 +257197,16 @@ vague_facts:
   column: 1
   value: '2021'
   line: '| MindPortal | 2021 | Seed ($5M) | [^11] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/dan-siroker
+  profile_name: Dan Siroker
+  company: Navattic
+  section: Portfolio
+  column: 1
+  value: '2022'
+  line: '| Navattic | 2022 | Seed ($4.25M, lead Canvas) | [^12][^14] |'
   priority: low
   type: year_only_date
   status: pending
@@ -313061,6 +313185,67 @@ vague_facts:
   priority: low
   type: year_only_date
   status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: SolarCity
+  section: Portfolio
+  column: 1
+  value: '2006'
+  line: '| SolarCity | 2006 | Co-founder | Solar | [^4] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Sofar Ocean
+  section: Portfolio
+  column: 1
+  value: '2019'
+  line: '| Sofar Ocean | 2019 | Series A | Ocean / climate hardware | [^10] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: ZOLA Electric
+  section: Portfolio
+  column: 1
+  value: '2019'
+  line: '| ZOLA Electric | 2019 | Advisor + investment | Off-grid solar (Africa) |
+    [^8][^10] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Enpal
+  section: Portfolio
+  column: 1
+  value: '2021'
+  line: '| Enpal | 2021 | Series C | Residential solar (Germany) | [^12] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: Dequency
+  section: Portfolio
+  column: 1
+  value: '2022'
+  line: '| Dequency | 2022 | Seed | Music / web3 | [^10] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/peter-rive
+  profile_name: Peter Rive
+  company: SolarCycle
+  section: Portfolio
+  column: 1
+  value: '2022'
+  line: '| SolarCycle | 2022 | Seed (board) | Solar-panel recycling | [^9][^13] |'
+  priority: low
+  type: year_only_date
+  status: pending
 - profile: investors/peter-tague
   profile_name: Peter Tague
   company: Shield AI
@@ -324738,6 +324923,17 @@ vague_facts:
   column: 1
   value: '2022'
   line: '| Angel Studios | 2022 | Growth (lead) | Media/entertainment | [^14] |'
+  priority: low
+  type: year_only_date
+  status: pending
+- profile: investors/stephen-oskoui
+  profile_name: Stephen Oskoui
+  company: Gordian Biotechnology
+  section: Portfolio
+  column: 1
+  value: '2021'
+  line: '| Gordian Biotechnology | 2021 | Series A | Drug discovery/longevity | [^26][^28]
+    |'
   priority: low
   type: year_only_date
   status: pending

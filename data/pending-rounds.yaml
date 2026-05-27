@@ -88,7 +88,106 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  processed: '2026-05-27'
+  skip_reason: AlleyWatch daily roundup; major rounds from 5/26 (Stord, OpenRouter,
+    Perceptic, Arc QSR) already covered via individual sources
+- title: Stord raised $250M Series F
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: Stord
+  parsed_amount: $250M
+  parsed_round: Series F
+  status: skipped
+  processed: '2026-05-27'
+  slug: stord
+  skip_reason: already shipped today as stord.md ($250M Series F 2026-05-26 Strike
+    Capital-led)
+- title: OpenRouter raised $113M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: OpenRouter
+  parsed_amount: $113M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-27'
+  slug: openrouter
+  notes: created openrouter.md ($113M Series B 2026-05-26 CapitalG-led at $1.3B val
+    with NVentures, ServiceNow Ventures, MongoDB Ventures, Snowflake Ventures, Databricks
+    Ventures, a16z, Menlo Ventures; NYC AI model exchange; Alex Atallah CEO/founder;
+    25T tokens/week)
+- title: Lucis raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: Lucis
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-05-27'
+  slug: lucis
+  notes: created lucis.md (€17.1M Series A 2026-05-26 Singular-led with General Catalyst,
+    Y Combinator, Céline Lazorthes (Resilience), Manu Lecomte; Paris preventive health
+    blood biomarker AI; founders Maxime Berthelot + Baptiste Debever; preserved EUR
+    not the $20M USD per currency rule). NB previous Lucis pending entry skip note
+    was wrong — this IS the real fresh round.
+- title: Perceptic raised $12M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: Perceptic
+  parsed_amount: $12M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-27'
+  slug: perceptic
+  notes: created perceptic.md ($12M Seed 2026-05-26 Accel-led with Air Street Capital,
+    Elder Gull; London end-to-end AI drug development OS; ex-Palantir Life Sciences
+    team led by CEO Tilman Flock; CSL named customer)
+- title: Arc raised $10.8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: Arc
+  parsed_amount: $10.8M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-27'
+  slug: arc-qsr
+  notes: created arc-qsr.md ($10.76M Seed 2026-05-26 a16z-led [Olivia Moore] with
+    Adverb Ventures, Broadway Restaurant Group, UTA, Sarah Friar (OpenAI CFO), Saumil
+    Mehta (Ticketmaster); AI drive-thru for QSR; founders Mike MacLennan + Ali Hussain
+    (ex-Block/Square/Cash App); slug arc-qsr to disambiguate from other "Arc" startups
+- title: Didit raised $6M new seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: Didit
+  parsed_amount: $6M
+  parsed_round: New Seed
+  status: processed
+  processed: '2026-05-27'
+  slug: didit
+  notes: created didit.md ($6M Seed extension 2026-05-26 with Y Combinator, Pioneer
+    Fund, Orange Collective, Founders Future, Phosphor Capital, SaaSholic, Rebel Fund,
+    Tomer London (Gusto), Taro Fukuyama (Fond); total seed $7.5M; AI-native identity/fraud
+    infra; YC W26; founders Alberto + Alejandro Rosas (twins); 2000+ customers, 30%
+    MoM)
+- title: Otomato raised $2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-26'
+  parsed_company: Otomato
+  parsed_amount: $2M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-27'
+  slug: otomato
+  notes: created otomato.md ($2M strategic 2026-05-26 Improbable-led; portfolio-aware
+    DeFi intelligence layer; founders Dylan Breugne + Clément Hecquet; Improbable's
+    first external invest under AI+web3 focus post-Somnia L1 launch)
 - title: Lithuania’s Backoffice secures €150k to build the operating system for European
     hospitality
   url: https://www.eu-startups.com/2026/05/lithuanias-backoffice-secures-e150k-to-build-the-operating-system-for-european-hospitality/
@@ -1100,78 +1199,3 @@ pending_rounds:
     with Prana Ventures; Milan Talent-as-a-Service; finalized Flatmates 100% acquisition
     two years ahead of plan; founders Francesco Marino, Simone Tornabene, Matteo Roversi);
     queued P101 SGR and Prana Ventures as new firms
-- title: Malmö-based Salt & Fiber secures €300k to turn seagrass into sustainable
-    textile yarns; launches crowdfunding campaign
-  url: https://www.eu-startups.com/2026/05/malmo-based-salt-launches-crowdfunding-campaign/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Malmö-based Salt & Fiber
-  parsed_amount: €300K
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  skip_reason: retail crowdfunding campaign launch (€45k crowdfunding target plus
-    separate €300k mixed funding for sustainable seagrass textile pre-commercial pilot),
-    not a VC equity round per Round Feed spec
-- title: Kin Health raises $9M to build an AI notetaker for patients
-  url: https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/
-  source: techcrunch
-  date_found: '2026-05-18'
-  parsed_company: Kin Health
-  parsed_amount: $9M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  slug: kin-health
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/18/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-18-2026/
-  source: alleywatch
-  date_found: '2026-05-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  notes: AlleyWatch daily aggregator; extracted Geni ($1.84M, SEC filing, screen-free
-    AI toy) into new startup profile geni.md. Nof1 already profiled. Violet Therapeutics
-    $4.75M Seed Extension also shipped (separate primary source).
-- title: Palo Alto-based Playground previously raised $410M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Palo Alto-based Playground previously
-  parsed_amount: $410M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Sigma raised $80M Series E
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Sigma
-  parsed_amount: $80M
-  parsed_round: Series E
-  status: processed
-  processed: '2026-05-18'
-  slug: sigma-computing
-- title: Dust raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Dust
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-18'
-  slug: dust
-- title: Searchable raised $14M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Searchable
-  parsed_amount: $14M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  slug: searchable
