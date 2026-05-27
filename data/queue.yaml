@@ -20213,7 +20213,7 @@ queue:
 - name: Fred Seibert
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Frederator
   discovered_from: david-karp
@@ -25795,3 +25795,22 @@ queue:
   firm: Otomato
   discovered_from: otomato
   source: co-founder Otomato (DeFi intelligence)
+- name: Greg Galant
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Sawhorse Media
+  discovered_from: fred-seibert
+- name: Storybird
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fred-seibert
+- name: Sawhorse Media
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fred-seibert
