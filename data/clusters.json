@@ -8017,7 +8017,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 28,
+      "size": 23,
       "members": [
         {
           "slug": "angela-tran",
@@ -8131,21 +8131,6 @@
         },
         {
           "slug": "ben-kohlmann"
-        },
-        {
-          "slug": "daniel-kan"
-        },
-        {
-          "slug": "jeff-hammerbacher"
-        },
-        {
-          "slug": "jeff-heer"
-        },
-        {
-          "slug": "peter-rive"
-        },
-        {
-          "slug": "carlos-guestrin"
         }
       ]
     },
@@ -8154,7 +8139,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 13,
+      "size": 12,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8215,9 +8200,6 @@
           "slug": "tom-glocer",
           "name": "Tom Glocer",
           "firm": "Angelic Ventures"
-        },
-        {
-          "slug": "sean-neville"
         }
       ]
     },
@@ -8226,7 +8208,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 19,
+      "size": 18,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8317,9 +8299,6 @@
           "slug": "sonya-huang",
           "name": "Sonya Huang",
           "firm": "sequoia-capital"
-        },
-        {
-          "slug": "carlos-guestrin"
         }
       ]
     },
@@ -8328,7 +8307,7 @@
       "name": "Crypto Conviction",
       "tagline": "HODLing through every winter. They kept backing blockchain and crypto infrastructure when everyone else ran.",
       "type": "curated",
-      "size": 13,
+      "size": 12,
       "members": [
         {
           "slug": "boris-wertz",
@@ -8389,9 +8368,6 @@
           "slug": "shayon-sengupta",
           "name": "Shayon Sengupta",
           "firm": "multicoin-capital"
-        },
-        {
-          "slug": "sean-neville"
         }
       ]
     },
@@ -9252,7 +9228,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 63,
+      "size": 51,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9491,42 +9467,6 @@
         },
         {
           "slug": "ben-kohlmann"
-        },
-        {
-          "slug": "daniel-kan"
-        },
-        {
-          "slug": "jeff-hammerbacher"
-        },
-        {
-          "slug": "chris-stolte"
-        },
-        {
-          "slug": "martin-varsavsky"
-        },
-        {
-          "slug": "anuj-srivastava"
-        },
-        {
-          "slug": "rajesh-yabaji"
-        },
-        {
-          "slug": "ramakant-sharma"
-        },
-        {
-          "slug": "max-mullen"
-        },
-        {
-          "slug": "jeff-heer"
-        },
-        {
-          "slug": "sean-neville"
-        },
-        {
-          "slug": "peter-rive"
-        },
-        {
-          "slug": "carlos-guestrin"
         }
       ]
     },
@@ -9742,7 +9682,7 @@
       "name": "The Climate Vanguard",
       "tagline": "Betting the energy transition is the biggest investment opportunity of the century. These investors actually back the hard science, not just the marketing.",
       "type": "curated",
-      "size": 6,
+      "size": 5,
       "members": [
         {
           "slug": "angela-tran",
@@ -9768,9 +9708,6 @@
           "slug": "zachary-bogue",
           "name": "Zachary Bogue",
           "firm": "dcvc"
-        },
-        {
-          "slug": "peter-rive"
         }
       ]
     },
@@ -9779,7 +9716,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 29,
+      "size": 25,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9902,18 +9839,6 @@
         },
         {
           "slug": "greg-gottesman"
-        },
-        {
-          "slug": "jeff-hammerbacher"
-        },
-        {
-          "slug": "martin-varsavsky"
-        },
-        {
-          "slug": "ramakant-sharma"
-        },
-        {
-          "slug": "max-mullen"
         }
       ]
     },
@@ -11466,7 +11391,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 22,
+      "size": 18,
       "members": [
         {
           "slug": "kunal-shah",
@@ -11552,18 +11477,6 @@
         },
         {
           "slug": "zishaan-hayath"
-        },
-        {
-          "slug": "martin-varsavsky"
-        },
-        {
-          "slug": "anuj-srivastava"
-        },
-        {
-          "slug": "rajesh-yabaji"
-        },
-        {
-          "slug": "ramakant-sharma"
         }
       ]
     },
@@ -11913,7 +11826,7 @@
       "name": "The IIT Pipeline",
       "tagline": "Engineering degrees from India's most selective institute, now writing checks across two continents.",
       "type": "curated",
-      "size": 16,
+      "size": 13,
       "members": [
         {
           "slug": "vinod-khosla",
@@ -11977,15 +11890,6 @@
         },
         {
           "slug": "zishaan-hayath"
-        },
-        {
-          "slug": "anuj-srivastava"
-        },
-        {
-          "slug": "rajesh-yabaji"
-        },
-        {
-          "slug": "ramakant-sharma"
         }
       ],
       "id": "curated-48"
@@ -11994,7 +11898,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 17,
+      "size": 14,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -12063,15 +11967,6 @@
         },
         {
           "slug": "zishaan-hayath"
-        },
-        {
-          "slug": "anuj-srivastava"
-        },
-        {
-          "slug": "rajesh-yabaji"
-        },
-        {
-          "slug": "ramakant-sharma"
         }
       ],
       "id": "curated-49"
@@ -12139,15 +12034,9 @@
         },
         {
           "slug": "jared-heyman"
-        },
-        {
-          "slug": "daniel-kan"
-        },
-        {
-          "slug": "max-mullen"
         }
       ],
-      "size": 7
+      "size": 5
     }
   ]
 }

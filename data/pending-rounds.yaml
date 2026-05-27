@@ -20,818 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Pacifico Biolabs raises €7 million Series A to turn idle German breweries
-    into alternative protein factories
-  url: https://www.eu-startups.com/2026/05/pacifico-biolabs-raises-e7-million-series-a-to-turn-idle-german-breweries-into-alternative-protein-factories/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Pacifico Biolabs
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Airbnb-backed WeRoad raises $58M to take its group travel platform to the
-    US
-  url: https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/
-  source: techcrunch
-  date_found: '2026-05-27'
-  parsed_company: Airbnb-backed WeRoad
-  parsed_amount: $58M
-  parsed_round: null
-  status: pending
-- title: Bristol’s female-founded BioTech startup Mykor raises €4.6 million to grow
-    low-carbon construction materials from waste
-  url: https://www.eu-startups.com/2026/05/bristols-female-founded-biotech-startup-mykor-raises-e4-6-million-to-grow-low-carbon-construction-materials-from-waste/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Bristol’s female-founded BioTech startup Mykor
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Munich’s allO raises €12 million Series A to expand its AI operating system
-    for restaurants across Europe
-  url: https://www.eu-startups.com/2026/05/munichs-allo-raises-e12-million-series-a-to-expand-its-ai-operating-system-for-restaurants-across-europe/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Munich’s allO
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Airbnb leads €49 million Series C in Italian adventure travel company WeRoad
-  url: https://www.eu-startups.com/2026/05/airbnb-leads-e49-million-series-c-in-italian-adventure-travel-company-weroad/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
-- title: Transition Ventures raises €128 million Fund II for early-stage companies
-    at the intersection of AI and the physical world
-  url: https://www.eu-startups.com/2026/05/transition-ventures-raises-e128-million-fund-ii-for-early-stage-companies-at-the-intersection-of-ai-and-the-physical-world/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Transition Ventures
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: WeRoad raised $58M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: WeRoad
-  parsed_amount: $58M
-  parsed_round: Series C
-  status: pending
-- title: Pace raised $46M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Pace
-  parsed_amount: $46M
-  parsed_round: Series B
-  status: pending
-- title: Airis Labs raised $31M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Airis Labs
-  parsed_amount: $31M
-  parsed_round: Series B
-  status: pending
-- title: NavigateAI raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: NavigateAI
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: RevEng.AI raised $15M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: RevEng.AI
-  parsed_amount: $15M
-  parsed_round: Series A
-  status: pending
-- title: Stride raised $15M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Stride
-  parsed_amount: $15M
-  parsed_round: Series B
-  status: pending
-- title: AllO raised $14M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: AllO
-  parsed_amount: $14M
-  parsed_round: Series A
-  status: pending
-- title: Olyzon raised $10M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Olyzon
-  parsed_amount: $10M
-  parsed_round: Series A
-  status: pending
-- title: Iconic raised $6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Iconic
-  parsed_amount: $6M
-  parsed_round: null
-  status: pending
-- title: Go Swag raised $5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Go Swag
-  parsed_amount: $5M
-  parsed_round: null
-  status: pending
-- title: Certo raised $4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Certo
-  parsed_amount: $4M
-  parsed_round: Seed
-  status: pending
-- title: Disciplined Growth Acquisition raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-27'
-  parsed_company: Disciplined Growth Acquisition
-  parsed_amount: $150M
-  parsed_round: null
-  status: pending
-- title: AI coding startup Cognition raises $1B at $25B pre-money valuation
-  url: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
-  source: techcrunch
-  date_found: '2026-05-27'
-  parsed_company: AI coding startup Cognition
-  parsed_amount: $1B
-  parsed_round: null
-  status: pending
-- title: YC-backed French preventive health platform Lucis raises €17.3 million Series
-    A led by Singular
-  url: https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/
-  source: eu-startups
-  date_found: '2026-05-26'
-  parsed_company: YC-backed French preventive health platform Lucis
-  parsed_amount: null
-  parsed_round: Series A
-  status: skipped
-  processed: '2026-05-27'
-  skip_reason: EU-Startups article had stale data; real round was Dec 2025 €7.2M Seed,
-    already too old to be a fresh feed item
-- title: Finland’s Quanscient raises €10 million to scale its multiphysics simulation
-    platform for the AI era
-  url: https://www.eu-startups.com/2026/05/finlands-quanscient-raises-e10-million-to-scale-its-multiphysics-simulation-platform-for-the-ai-era/
-  source: eu-startups
-  date_found: '2026-05-26'
-  parsed_company: Finland’s Quanscient
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-27'
-  slug: quanscient
-  skip_reason: already shipped as quanscient.md
-- title: Amazon fulfillment competitor Stord raises $250M at $3B valuation
-  url: https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/
-  source: techcrunch
-  date_found: '2026-05-26'
-  parsed_company: Amazon fulfillment competitor Stord
-  parsed_amount: $250M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-27'
-  slug: stord
-  notes: created stord.md ($250M Series F 2026-05-26 led by Strike Capital at $3B
-    val with Kleiner Perkins, Founders Fund, Franklin Templeton, Baillie Gifford,
-    G Squared, Bond; Atlanta e-commerce fulfillment; founders Sean Henry + Jacob Boudreau)
-- title: 'In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall
-    Dramatically'
-  url: https://news.crunchbase.com/seed/data-bigger-deals-longer-seriesa-2026/
-  source: crunchbase
-  date_found: '2026-05-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  processed: '2026-05-27'
-  skip_reason: Crunchbase News charts/trend article, not a specific startup round
-- title: Belgian DeepTech startup D-CRBN raises €17.5 million to turn industrial CO₂
-    emissions into circular carbon molecules
-  url: https://www.eu-startups.com/2026/05/belgian-deeptech-startup-d-crbn-raises-e17-5-million-to-turn-industrial-co%E2%82%82-emissions-into-circular-carbon-molecules/
-  source: eu-startups
-  date_found: '2026-05-26'
-  parsed_company: Belgian DeepTech startup D-CRBN
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-27'
-  slug: d-crbn
-  notes: created d-crbn.md (€17.5M Series A 2026-05-26 led by Astaia with SFPIM and
-    EIC Fund; Antwerp Belgium plasma CO2 utilisation deeptech; co-founder David Ziegler)
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/26/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-26-2026/
-  source: alleywatch
-  date_found: '2026-05-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-27'
-  skip_reason: AlleyWatch daily roundup; major rounds from 5/26 (Stord, OpenRouter,
-    Perceptic, Arc QSR) already covered via individual sources
-- title: Stord raised $250M Series F
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: Stord
-  parsed_amount: $250M
-  parsed_round: Series F
-  status: skipped
-  processed: '2026-05-27'
-  slug: stord
-  skip_reason: already shipped today as stord.md ($250M Series F 2026-05-26 Strike
-    Capital-led)
-- title: OpenRouter raised $113M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: OpenRouter
-  parsed_amount: $113M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-27'
-  slug: openrouter
-  notes: created openrouter.md ($113M Series B 2026-05-26 CapitalG-led at $1.3B val
-    with NVentures, ServiceNow Ventures, MongoDB Ventures, Snowflake Ventures, Databricks
-    Ventures, a16z, Menlo Ventures; NYC AI model exchange; Alex Atallah CEO/founder;
-    25T tokens/week)
-- title: Lucis raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: Lucis
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-27'
-  slug: lucis
-  notes: created lucis.md (€17.1M Series A 2026-05-26 Singular-led with General Catalyst,
-    Y Combinator, Céline Lazorthes (Resilience), Manu Lecomte; Paris preventive health
-    blood biomarker AI; founders Maxime Berthelot + Baptiste Debever; preserved EUR
-    not the $20M USD per currency rule). NB previous Lucis pending entry skip note
-    was wrong — this IS the real fresh round.
-- title: Perceptic raised $12M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: Perceptic
-  parsed_amount: $12M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-27'
-  slug: perceptic
-  notes: created perceptic.md ($12M Seed 2026-05-26 Accel-led with Air Street Capital,
-    Elder Gull; London end-to-end AI drug development OS; ex-Palantir Life Sciences
-    team led by CEO Tilman Flock; CSL named customer)
-- title: Arc raised $10.8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: Arc
-  parsed_amount: $10.8M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-27'
-  slug: arc-qsr
-  notes: created arc-qsr.md ($10.76M Seed 2026-05-26 a16z-led [Olivia Moore] with
-    Adverb Ventures, Broadway Restaurant Group, UTA, Sarah Friar (OpenAI CFO), Saumil
-    Mehta (Ticketmaster); AI drive-thru for QSR; founders Mike MacLennan + Ali Hussain
-    (ex-Block/Square/Cash App); slug arc-qsr to disambiguate from other "Arc" startups
-- title: Didit raised $6M new seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: Didit
-  parsed_amount: $6M
-  parsed_round: New Seed
-  status: processed
-  processed: '2026-05-27'
-  slug: didit
-  notes: created didit.md ($6M Seed extension 2026-05-26 with Y Combinator, Pioneer
-    Fund, Orange Collective, Founders Future, Phosphor Capital, SaaSholic, Rebel Fund,
-    Tomer London (Gusto), Taro Fukuyama (Fond); total seed $7.5M; AI-native identity/fraud
-    infra; YC W26; founders Alberto + Alejandro Rosas (twins); 2000+ customers, 30%
-    MoM)
-- title: Otomato raised $2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-26'
-  parsed_company: Otomato
-  parsed_amount: $2M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-27'
-  slug: otomato
-  notes: created otomato.md ($2M strategic 2026-05-26 Improbable-led; portfolio-aware
-    DeFi intelligence layer; founders Dylan Breugne + Clément Hecquet; Improbable's
-    first external invest under AI+web3 focus post-Somnia L1 launch)
-- title: Lithuania’s Backoffice secures €150k to build the operating system for European
-    hospitality
-  url: https://www.eu-startups.com/2026/05/lithuanias-backoffice-secures-e150k-to-build-the-operating-system-for-european-hospitality/
-  source: eu-startups
-  date_found: '2026-05-25'
-  parsed_company: Lithuania’s Backoffice
-  parsed_amount: €150K
-  parsed_round: Pre-seed
-  status: processed
-  processed: '2026-05-26'
-  slug: backoffice
-  notes: created startup profile backoffice.md; FIRSTPICK and Lost Astronaut led pre-seed
-- title: Tequipy, founded by Revolut’s former IT chief, raises over €3 million to
-    automate global device logistics
-  url: https://www.eu-startups.com/2026/05/tequipy-founded-by-revoluts-former-it-chief-raises-over-e3-million-to-automate-global-device-logistics/
-  source: eu-startups
-  date_found: '2026-05-25'
-  parsed_company: Tequipy
-  parsed_amount: €3M+
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-26'
-  slug: tequipy
-  notes: created startup profile tequipy.md; Smedvig Ventures led, Manta Ray and Unfold.vc
-    participated
-- title: Perplant raises €1 million to equip tractors with AI “eyes” to cut herbicide
-    use and boost profits for farmers
-  url: https://www.eu-startups.com/2026/05/perplant-raises-e1-million-to-equip-tractors-with-ai-eyes-to-cut-herbicide-use-and-boost-profits-for-farmers/
-  source: eu-startups
-  date_found: '2026-05-25'
-  parsed_company: Perplant
-  parsed_amount: €1M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-26'
-  slug: perplant
-  notes: created startup profile perplant.md; Jytte Rosenmaj and Kræn Østergaard Nielsen
-    led, Antler/Footprint Firm prior backers
-- title: 'The Weekly Notable Startup Funding Report: 5/25/26'
-  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-25-26/
-  source: alleywatch
-  date_found: '2026-05-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-26'
-  skip_reason: weekly roundup aggregating already-shipped rounds (Modal, Farther,
-    Fresha, etc.)
-- title: Modal raised $355M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Modal
-  parsed_amount: $355M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-23'
-  slug: modal-labs
-  notes: already shipped as modal-labs.md ($355M Series C 2026-05-21 at $4.65B val,
-    GC/Redpoint led)
-- title: Farther raised $150M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Farther
-  parsed_amount: $150M
-  parsed_round: Series D
-  status: processed
-  processed: '2026-05-23'
-  slug: farther
-  notes: already shipped as farther.md ($150M Series D 2026-05-20 General Atlantic
-    led, unicorn val)
-- title: Fresha raised $80M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Fresha
-  parsed_amount: $80M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-23'
-  slug: fresha
-  notes: already shipped as fresha.md ($80M Growth 2026-05-21 KKR led, $1B unicorn
-    val)
-- title: SignalPlus raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: SignalPlus
-  parsed_amount: $40M
-  parsed_round: null
-  status: skipped
-  skip_reason: already shipped today as signalplus.md
-- title: Oorja Bio raised $30M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Oorja Bio
-  parsed_amount: $30M
-  parsed_round: Series A
-  status: skipped
-  skip_reason: already shipped today as oorja-bio.md
-- title: The Path raised $14.3M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: The Path
-  parsed_amount: $14.3M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-23'
-  slug: the-path
-  notes: created startup profile the-path.md; $14.3M seed 2026-05-21 led by Prime
-    Movers Lab, founded by Tony Robbins + Calm alums
-- title: Clouted raised $7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Clouted
-  parsed_amount: $7M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-23'
-  slug: clouted
-  notes: created startup profile clouted.md; $7M seed 2026-05-21 led by Slow Ventures,
-    LA AI virality engine for brands
-- title: Cycles raised $6.4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Cycles
-  parsed_amount: $6.4M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-23'
-  slug: cycles
-  notes: created startup profile cycles.md; $6.4M seed 2026-05-21 led by Blockchange
-    Ventures, Cosmos co-founder Ethan Buchman's crypto clearing network
-- title: Foundation raised $6.4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Foundation
-  parsed_amount: $6.4M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-24'
-  slug: foundation-devices
-  notes: already shipped as foundation-devices.md ($6.4M Growth 2026-05-22 Fulgur
-    Ventures led)
-- title: tir raised $5.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: tir
-  parsed_amount: $5.5M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-24'
-  slug: vetir
-  notes: Axios fragment "tir" is the truncated "Vêtir"; already shipped as vetir.md
-    ($5.5M Series A 2026-05-21 Laidlaw led)
-- title: Shatterdome Energy raised $3.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Shatterdome Energy
-  parsed_amount: $3.5M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-24'
-  slug: shatterdome-energy
-  notes: already shipped as shatterdome-energy.md ($3.5M Pre-Seed 2026-05-21 Crucible
-    Capital led)
-- title: Oceanhawk Acquisition raised $160M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: Oceanhawk Acquisition
-  parsed_amount: $160M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-24'
-  skip_reason: SPAC (Oceanhawk Acquisition Corp) IPO/trust raise, not a startup venture
-    round
-- title: u003e raised $355M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-23'
-  parsed_company: u003e
-  parsed_amount: $355M
-  parsed_round: Series C
-  status: skipped
-  processed: '2026-05-24'
-  skip_reason: HTML-encoded fragment of Modal Labs $355M Series C (already shipped
-    as modal-labs.md)
-- title: Exa Labs raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Exa Labs
-  parsed_amount: $250M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-22'
-  slug: exa-labs
-  notes: already shipped as exa-labs.md ($250M Series C 2026-05-20 a16z-led at $2.2B
-    val); Axios fragment is a duplicate
-- title: Mercury raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Mercury
-  parsed_amount: $200M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-22'
-  slug: mercury
-  notes: already shipped as mercury.md ($200M Series D 2026-05-20 TCV-led at $5.2B
-    val); Axios fragment is a duplicate
-- title: Kalshi raised $200M Series F extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Kalshi
-  parsed_amount: $200M
-  parsed_round: Series F Extension
-  status: processed
-  processed: '2026-05-22'
-  slug: kalshi
-  notes: kalshi.md already covers the $1B Series F on 2026-05-07 (Coatue-led; Sequoia,
-    a16z, IVP, Paradigm); the $200M Series F extension is a top-up of the same round
-    already on file
-- title: per Bloomberg. It previously raised $1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: per Bloomberg. It previously
-  parsed_amount: $1B
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-22'
-  skip_reason: unparseable Axios Pro Rata fragment — no company identifiable; per
-    "when in doubt, leave it out"
-- title: Primer raised $100M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Primer
-  parsed_amount: $100M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-22'
-  slug: primer
-  notes: already shipped as primer.md (€86.2M Series C 2026-05-20 Sofina/Accel-led);
-    Axios $100M is the USD conversion of the same round
-- title: Moment raised $78M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Moment
-  parsed_amount: $78M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-22'
-  slug: moment
-  notes: already shipped as moment.md ($78M Series C 2026-05-19 Index Ventures-led
-    with a16z and Avra)
-- title: Scapia raised $63M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Scapia
-  parsed_amount: $63M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-22'
-  slug: scapia
-  notes: already shipped as scapia.md ($63M Series C 2026-05-21 General Catalyst-led
-    with Peak XV and Z47 at $500M+ val); Bengaluru travel fintech
-- title: Socket raised $60M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Socket
-  parsed_amount: $60M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-22'
-  slug: socket
-  notes: already shipped as socket.md ($60M Series C 2026-05-20 Thrive Capital-led
-    with a16z, Abstract Ventures, Capital One Ventures at $1B val)
-- title: Variational raised $50M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Variational
-  parsed_amount: $50M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-22'
-  slug: variational
-  notes: already shipped as variational.md (~$50M Series A 2026-05-20 Dragonfly-led
-    with Bain Capital Crypto, Coinbase Ventures); Axios fragment is a duplicate
-- title: Pivot raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Pivot
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-22'
-  slug: pivot
-  notes: already shipped as pivot.md ($40M Series B 2026-05-21 co-led Forestay Capital
-    and Notion Capital with Greyhound, Hedosophia, Visionaries Club, Emblem)
-- title: Eisen raised $18.5M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Eisen
-  parsed_amount: $18.5M
-  parsed_round: Seed And Series A
-  status: skipped
-  processed: '2026-05-22'
-  slug: eisen
-  skip_reason: already shipped as eisen.md ($18.5M combined seed+Series A 2026-05-19);
-    Axios fragment is a duplicate
-- title: Muybridge raised $16M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Muybridge
-  parsed_amount: $16M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-22'
-  slug: muybridge
-  notes: already shipped as muybridge.md ($16M Series A 2026-05-21 co-led Investinor,
-    Fairpoint, Idekapital, RunwayFBU); Axios fragment is a duplicate
-- title: NanoCo raised $12M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: NanoCo
-  parsed_amount: $12M
-  parsed_round: Seed
-  status: skipped
-  processed: '2026-05-22'
-  slug: nanoco
-  skip_reason: already shipped as nanoco.md ($12M seed 2026-05-20); Axios fragment
-    is a duplicate
-- title: Quantum Bridge Technologies raised $8M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Quantum Bridge Technologies
-  parsed_amount: $8M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-22'
-  slug: quantum-bridge-technologies
-  notes: already shipped as quantum-bridge-technologies.md ($8M Series A 2026-05-20
-    Primo Capital SGR-led with Wayra, Cadenza VC, HPE, Bacchus)
-- title: Checker raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Checker
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-22'
-  slug: checker
-  notes: created startup profile checker.md ($8M pre-seed+seed 2026-05-21 co-led Galaxy
-    Ventures, Al Mada Ventures, Framework Ventures); stablecoin infrastructure
-- title: CVRD Health raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: CVRD Health
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-22'
-  slug: cvrd-health
-  notes: created startup profile cvrd-health.md ($5M seed 2026-05-21 Upfront Ventures-led
-    with Waterline Ventures, Distributed Ventures); federal contractor benefits/ICHRA;
-    updated upfront-ventures.md portfolio
-- title: Sorted Wallet raised $4.4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Sorted Wallet
-  parsed_amount: $4.4M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-22'
-  slug: sorted-wallet
-  notes: created startup profile sorted-wallet.md ($4.4M seed 2026-05-20 Tether and
-    Gnosis co-led; Movement, Angel Invest Group, Vox Solutions strategic, RWA.io founders;
-    Hong Kong-based crypto wallet for feature phones, 500K downloads)
-- title: Avian raised $2.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Avian
-  parsed_amount: $2.6M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-22'
-  slug: avian
-  notes: already shipped as avian.md on 2026-05-20; Axios fragment is a duplicate
-- title: MidOcean Energy raised $120M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: MidOcean Energy
-  parsed_amount: $120M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-22'
-  skip_reason: PE-backed oil/gas operating company (EIG-backed LNG portfolio), not
-    a startup VC round
-- title: Convective Capital raised $85M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-22'
-  parsed_company: Convective Capital
-  parsed_amount: $85M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-22'
-  skip_reason: VC fund raise (LP commitments to Convective Capital fund), not a startup
-    round; duplicate of later entry
-- title: Ghent-based Harmoney secures €10 million to scale AI-driven Counterparty
-    Risk Management platform
-  url: https://www.eu-startups.com/2026/05/ghent-based-harmoney-secures-e10-million-to-scale-ai-driven-counterparty-risk-management-platform/
-  source: eu-startups
-  date_found: '2026-05-22'
-  parsed_company: Ghent-based Harmoney
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-22'
-  slug: harmoney
-  notes: already shipped as harmoney.md (€10M growth/minority from Smile Sail, Ghent
-    Belgium counterparty risk SaaS)
-- title: UK AI startup Scope raises €17.3 million funding led by Index Ventures to
-    speed up industrial inspection workflows
-  url: https://www.eu-startups.com/2026/05/uk-ai-startup-scope-raises-e17-3-million-funding-led-by-index-ventures-to-speed-up-industrial-inspection-workflows/
-  source: eu-startups
-  date_found: '2026-05-22'
-  parsed_company: UK AI startup Scope
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-22'
-  slug: scope
-  notes: already shipped as scope.md (€17.3M Series A Index Ventures-led with Susa,
-    EF, Syndicate 1, angels; updated index-ventures.md portfolio)
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (May 18 – May 22)
-  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-18-may-22/
-  source: eu-startups
-  date_found: '2026-05-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-22'
-  skip_reason: weekly roundup article (paywalled CLUB content); individual rounds
-    (Harmoney, Scope, ClearOps) already shipped via their direct EU-Startups articles
-- title: 'The Week’s 10 Biggest Funding Rounds: Massive Deals For Medical Devices,
-    Futuristic AI Gadgets And Frontier Labs Lead'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/
-  source: crunchbase
-  date_found: '2026-05-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-22'
-  skip_reason: weekly roundup article; top rounds (Mirus, Frontier Labs / Exa, Mercury,
-    Hark, Modal, Primer, Moment) already covered by individual profiles or upstream
-    Axios entries
 - title: Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
   url: https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/
   source: techcrunch
@@ -850,11 +38,7 @@ pending_rounds:
   parsed_company: Hark
   parsed_amount: $700M
   parsed_round: Series A
-  status: processed
-  processed: '2026-05-21'
-  slug: hark
-  notes: shipped hark.md ($700M Series A led by Parkway Venture Capital at $6B val;
-    Brett Adcock founder; multimodal AI + custom hardware)
+  status: pending
 - title: Munich-based ClearOps raises €8.6 million Series A to build AI operating
     system for industrial after-sales
   url: https://www.eu-startups.com/2026/05/munich-based-clearops-raises-e8-6-million-series-a-to-build-ai-operating-system-for-industrial-after-sales/
@@ -863,11 +47,7 @@ pending_rounds:
   parsed_company: Munich-based ClearOps
   parsed_amount: null
   parsed_round: Series A
-  status: processed
-  processed: '2026-05-21'
-  slug: clearops
-  notes: shipped clearops.md (€8.6M Series A led by Hitachi Ventures w/ Schoeller
-    Group, Barkawi Group; Munich industrial after-sales AI OS)
+  status: pending
 - title: Finnish SpaceTech company ICEYE secures €300 million revolving credit facility
   url: https://www.eu-startups.com/2026/05/finnish-spacetech-company-iceye-secures-e300-million-revolving-credit-facility/
   source: eu-startups
@@ -875,8 +55,7 @@ pending_rounds:
   parsed_company: Finnish SpaceTech company ICEYE
   parsed_amount: null
   parsed_round: null
-  status: skipped
-  skip_reason: revolving credit facility (debt instrument), not a VC equity round
+  status: pending
 - title: London’s Searchable raises €11.9 million at €72.1 million valuation to help
     brands boost visibility across AI-led search
   url: https://www.eu-startups.com/2026/05/londons-searchable-raises-e11-9-million-at-e72-1-million-valuation-to-help-brands-boost-visibility-across-ai-led-search/
@@ -885,11 +64,7 @@ pending_rounds:
   parsed_company: London’s Searchable
   parsed_amount: null
   parsed_round: null
-  status: processed
-  processed: '2026-05-21'
-  slug: searchable
-  notes: duplicate of already-shipped searchable.md Series A (same $14M / €11.9M round
-    led by Headline at $85M / €72.1M val, 2026-05-18)
+  status: pending
 - title: Manchester Imperagen raises €5.8 million Seed to scale AI and quantum-powered
     enzyme engineering
   url: https://www.eu-startups.com/2026/05/manchester-imperagen-raises-e5-8-million-seed-to-scale-ai-and-quantum-powered-enzyme-engineering/
@@ -898,11 +73,7 @@ pending_rounds:
   parsed_company: Manchester Imperagen
   parsed_amount: null
   parsed_round: Seed
-  status: processed
-  processed: '2026-05-21'
-  slug: imperagen
-  notes: duplicate of already-shipped imperagen.md (same Seed round, EU-Startups reports
-    €5.8M vs TechCrunch £5M for same round)
+  status: pending
 - title: Convective Capital raises an $85 million fund to build disaster resilience
   url: https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/
   source: techcrunch
@@ -910,20 +81,167 @@ pending_rounds:
   parsed_company: Convective Capital
   parsed_amount: $85M
   parsed_round: null
-  status: skipped
-  skip_reason: VC fund raise (LP commitments to Convective Capital fund), not a startup
-    operating-company round
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/20/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-20-2026-2/
-  source: alleywatch
+  status: pending
+- title: Exa Labs raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
   date_found: '2026-05-21'
-  parsed_company: null
-  parsed_amount: null
+  parsed_company: Exa Labs
+  parsed_amount: $250M
   parsed_round: null
-  status: skipped
-  processed: '2026-05-24'
-  skip_reason: AlleyWatch daily roundup duplicate; notable NYC rounds from 5/20 already
-    shipped (Mercury, Exa, etc.)
+  status: pending
+- title: Mercury raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Mercury
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: Kalshi raised $200M Series F extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Kalshi
+  parsed_amount: $200M
+  parsed_round: Series F Extension
+  status: pending
+- title: per Bloomberg. It previously raised $1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: per Bloomberg. It previously
+  parsed_amount: $1B
+  parsed_round: null
+  status: pending
+- title: Primer raised $100M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Primer
+  parsed_amount: $100M
+  parsed_round: Series C
+  status: pending
+- title: Moment raised $78M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Moment
+  parsed_amount: $78M
+  parsed_round: Series C
+  status: pending
+- title: Scapia raised $63M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Scapia
+  parsed_amount: $63M
+  parsed_round: null
+  status: pending
+- title: Socket raised $60M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Socket
+  parsed_amount: $60M
+  parsed_round: Series C
+  status: pending
+- title: Variational raised $50M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Variational
+  parsed_amount: $50M
+  parsed_round: Series A
+  status: pending
+- title: Pivot raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Pivot
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: pending
+- title: Eisen raised $18.5M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Eisen
+  parsed_amount: $18.5M
+  parsed_round: Seed And Series A
+  status: pending
+- title: Muybridge raised $16M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Muybridge
+  parsed_amount: $16M
+  parsed_round: Series A
+  status: pending
+- title: NanoCo raised $12M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: NanoCo
+  parsed_amount: $12M
+  parsed_round: Seed
+  status: pending
+- title: Quantum Bridge Technologies raised $8M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Quantum Bridge Technologies
+  parsed_amount: $8M
+  parsed_round: Series A
+  status: pending
+- title: Checker raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Checker
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: pending
+- title: CVRD Health raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: CVRD Health
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Sorted Wallet raised $4.4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Sorted Wallet
+  parsed_amount: $4.4M
+  parsed_round: Seed
+  status: pending
+- title: Avian raised $2.6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Avian
+  parsed_amount: $2.6M
+  parsed_round: null
+  status: pending
+- title: MidOcean Energy raised $120M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: MidOcean Energy
+  parsed_amount: $120M
+  parsed_round: null
+  status: pending
+- title: Convective Capital raised $85M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-21'
+  parsed_company: Convective Capital
+  parsed_amount: $85M
+  parsed_round: null
+  status: pending
 - title: Brookfield Office Properties Announces Redemption of Class AAA Preference
     Shares, Series CC
   url: https://www.globenewswire.com/news-release/2026/05/19/3298001/0/en/Brookfield-Office-Properties-Announces-Redemption-of-Class-AAA-Preference-Shares-Series-CC.html
@@ -1123,3 +441,591 @@ pending_rounds:
   processed: '2026-05-21'
   slug: stilta
   notes: already shipped as stilta.md ($10.5M Seed 2026-05-19, AI legal/IP)
+- title: Infrawatch raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Infrawatch
+  parsed_amount: $3M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-21'
+  slug: infrawatch
+  notes: created infrawatch.md (£2.2M Pre-Seed 2026-05-20 co-led by Outward VC and
+    Triple Point Ventures with Portfolio Ventures and angels; London cybersecurity
+    infrastructure intelligence; founder Lloyd Davies)
+- title: Lincoln International raised $421M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Lincoln International
+  parsed_amount: $421M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-21'
+  skip_reason: investment bank / advisory firm minority equity transaction, not a
+    startup venture round
+- title: a Montreal-based biopharma AI company that had raised $13.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: a Montreal-based biopharma AI company that had
+  parsed_amount: $13.5M
+  parsed_round: null
+  status: pending
+- title: Mach Industries raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Mach Industries
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Shamrock Capital raised $813M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Shamrock Capital
+  parsed_amount: $813M
+  parsed_round: null
+  status: pending
+- title: Stellus Capital Management raised $1.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-20'
+  parsed_company: Stellus Capital Management
+  parsed_amount: $1.5B
+  parsed_round: null
+  status: pending
+- title: Digital Banking Startup Mercury Lands $200M At $5.2B Valuation Amid Fintech
+    Funding Uptick
+  url: https://news.crunchbase.com/venture/fintech-funding-digital-banking-startup-mercury-lands-200m/
+  source: crunchbase
+  date_found: '2026-05-20'
+  parsed_company: Digital Banking Startup Mercury
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/20/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-20-2026/
+  source: alleywatch
+  date_found: '2026-05-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Munich’s Feldwerke secures €12 million revolving credit facility to build
+    100 MW agri-PV portfolio in 18 months
+  url: https://www.eu-startups.com/2026/05/munichs-feldwerke-secures-e12-million-revolving-credit-facility-to-build-100-mw-agri-pv-portfolio-in-18-months/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Munich’s Feldwerke
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-19'
+  skip_reason: revolving credit facility = debt, not a startup VC equity round
+- title: London-based Mouro Capital secures €343.4 million first close for third fund
+    backed by Santander
+  url: https://www.eu-startups.com/2026/05/london-based-mouro-capital-secures-e343-4-million-first-close-for-third-fund-backed-by-santander/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: London-based Mouro Capital
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-19'
+  skip_reason: VC fund first close (Mouro Capital is a VC firm), not a startup round
+- title: Italian AI LegalTech startup Lexroom raises €42.9 million Series B eight
+    months after €16.2 million Series A
+  url: https://www.eu-startups.com/2026/05/italian-ai-legaltech-startup-lexroom-raises-e42-9-million-series-b-eight-months-after-e16-2-million-series-a/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Italian AI LegalTech startup Lexroom
+  parsed_amount: null
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-19'
+  slug: lexroom
+  notes: already shipped as lexroom.md (€42.9M Series B 2026-05-19 Left Lane Capital-led
+    with Base10 Partners, Eurazeo, Acurio Ventures, Entourage, View Different); removed
+    USD parenthetical per currency rule
+- title: Ghent-based Exhibitly raises €1.4 million to bring AI personalisation to
+    B2B events
+  url: https://www.eu-startups.com/2026/05/ghent-based-exhibitly-raises-e1-4-million-to-bring-ai-personalisation-to-b2b-events/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Ghent-based Exhibitly
+  parsed_amount: €1.4M
+  parsed_round: Pre-Seed
+  status: processed
+  processed: '2026-05-19'
+  slug: exhibitly
+  notes: created exhibitly.md (€1.4M Pre-Seed 2026-05-19 led by New School VC with
+    100IN, Allusion Ventures and angels Louis Jonckheere, Jeroen De Wit, Pieter Vanermen,
+    Tanguy Serraes; Ghent EventTech AI personalisation for B2B events; founders Hendrik
+    Franck + Brent Coppens; 114 events signed in first nine months)
+- title: 'Forget the feed: Status AI raises $17M to turn social media into interactive
+    entertainment'
+  url: https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/
+  source: techcrunch
+  date_found: '2026-05-19'
+  parsed_company: 'Forget the feed: Status AI'
+  parsed_amount: $17M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-19'
+  slug: status-ai
+  notes: already shipped as status-ai.md ($17M combined Seed+Series A 2026-05-19 led
+    by General Catalyst with Y Combinator, LightShed Partners, Abstract)
+- title: Stilta raises $10.5M from a16z and YC to help companies rediscover the patents
+    they forgot they had
+  url: https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/
+  source: techcrunch
+  date_found: '2026-05-19'
+  parsed_company: Stilta
+  parsed_amount: $10.5M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-19'
+  slug: stilta
+  notes: already shipped as stilta.md ($10.5M Seed 2026-05-19 led by Andreessen Horowitz
+    with Y Combinator and operator-angels from OpenAI, Legora, Lovable)
+- title: Berlin-based bunch bags €30.1 million Series B to modernise Europe’s private
+    markets infrastructure
+  url: https://www.eu-startups.com/2026/05/berlin-based-bunch-bags-e30-1-million-series-b-to-modernise-europes-private-markets-infrastructure/
+  source: eu-startups
+  date_found: '2026-05-19'
+  parsed_company: Berlin-based bunch
+  parsed_amount: €30.1M
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-19'
+  slug: bunch
+  notes: already shipped as bunch.md (€30.1M Series B 2026-05-19 led by Portage with
+    Illuminate Financial new, plus follow-ons from Motive Partners, Cherry Ventures,
+    FinTech Collective); removed USD parenthetical per currency rule
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/19/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-19-2026/
+  source: alleywatch
+  date_found: '2026-05-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  notes: All notable rounds (Nourish, Moment, Ocean Security, Eisen) already shipped;
+    smaller rounds skipped.
+- title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
+    for notaries and law firms
+  url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Berlin-based LawX
+  parsed_amount: €7.5M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-18'
+  slug: lawx
+  notes: created lawx.md; €7.5M Seed led by Motive Partners with WENVEST Capital,
+    xdeck, SIVentures and angels (Christoph Cordes, Ralph Müller); founders Norman
+    Koschmieder, Torben Rabe, Sara Brinkmann (per Tech Funding News May 18 coverage)
+- title: Copenhagen’s Alcolase secures €1.5 million to develop enzyme-based remedy
+    for alcohol flush
+  url: https://www.eu-startups.com/2026/05/copenhagens-alcolase-secures-e1-5-million-to-develop-enzyme-based-remedy-for-alcohol-flush/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Copenhagen’s Alcolase
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-18'
+  slug: alcolase
+- title: Milan-based Cosmico raises €12 million, acquires Flatmates to expand Future
+    of Work platform
+  url: https://www.eu-startups.com/2026/05/milan-based-cosmico-raises-e12-million-acquires-flatmates-to-expand-future-of-work-platform/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Milan-based Cosmico
+  parsed_amount: €12M
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-18'
+  slug: cosmico
+  notes: created cosmico.md (€12M Series B equity+debt 2026-05-18 led by P101 SGR
+    with Prana Ventures; Milan Talent-as-a-Service; finalized Flatmates 100% acquisition
+    two years ahead of plan; founders Francesco Marino, Simone Tornabene, Matteo Roversi);
+    queued P101 SGR and Prana Ventures as new firms
+- title: Malmö-based Salt & Fiber secures €300k to turn seagrass into sustainable
+    textile yarns; launches crowdfunding campaign
+  url: https://www.eu-startups.com/2026/05/malmo-based-salt-launches-crowdfunding-campaign/
+  source: eu-startups
+  date_found: '2026-05-18'
+  parsed_company: Malmö-based Salt & Fiber
+  parsed_amount: €300K
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  skip_reason: retail crowdfunding campaign launch (€45k crowdfunding target plus
+    separate €300k mixed funding for sustainable seagrass textile pre-commercial pilot),
+    not a VC equity round per Round Feed spec
+- title: Kin Health raises $9M to build an AI notetaker for patients
+  url: https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/
+  source: techcrunch
+  date_found: '2026-05-18'
+  parsed_company: Kin Health
+  parsed_amount: $9M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-18'
+  slug: kin-health
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/18/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-18-2026/
+  source: alleywatch
+  date_found: '2026-05-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-18'
+  notes: AlleyWatch daily aggregator; extracted Geni ($1.84M, SEC filing, screen-free
+    AI toy) into new startup profile geni.md. Nof1 already profiled. Violet Therapeutics
+    $4.75M Seed Extension also shipped (separate primary source).
+- title: Palo Alto-based Playground previously raised $410M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Palo Alto-based Playground previously
+  parsed_amount: $410M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Sigma raised $80M Series E
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Sigma
+  parsed_amount: $80M
+  parsed_round: Series E
+  status: processed
+  processed: '2026-05-18'
+  slug: sigma-computing
+- title: Dust raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Dust
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-18'
+  slug: dust
+- title: Searchable raised $14M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Searchable
+  parsed_amount: $14M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-18'
+  slug: searchable
+- title: StitcherAI raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: StitcherAI
+  parsed_amount: $3M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Berto Acquisition II raised $274M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Berto Acquisition II
+  parsed_amount: $274M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Energy Transition Special Opportunities raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Energy Transition Special Opportunities
+  parsed_amount: $150M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Iron Dome Acquisition I raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Iron Dome Acquisition I
+  parsed_amount: $150M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: Patriot Acquisition raised $160M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: Patriot Acquisition
+  parsed_amount: $160M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: u003e Palo Alto-based Playground previously raised $410M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-18'
+  parsed_company: u003e Palo Alto-based Playground previously
+  parsed_amount: $410M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-18'
+  notes: SPAC or aggregator or parse error
+- title: 'The Weekly Notable Startup Funding Report: 5/18/26'
+  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
+  source: alleywatch
+  date_found: '2026-05-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-17'
+  notes: Weekly NYC roundup — all named rounds (GovWell, Turnkey, Anomaly Insights)
+    already in profiles from prior cycles
+- title: Elliptic raised $120M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Elliptic
+  parsed_amount: $120M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: elliptic
+- title: Fasset raised $51M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Fasset
+  parsed_amount: $51M
+  parsed_round: Series B
+  status: processed
+  processed: '2026-05-16'
+  slug: fasset
+- title: Crew Carbon raised $25M equity and grant
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Crew Carbon
+  parsed_amount: $25M
+  parsed_round: Equity And Grant
+  status: processed
+  processed: '2026-05-15'
+  slug: crew-carbon
+- title: Stitch raised $25M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Stitch
+  parsed_amount: $25M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-05-16'
+  slug: stitch-saudi
+- title: Butterfly Medical raised $21M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Butterfly Medical
+  parsed_amount: $21M
+  parsed_round: Series C
+  status: processed
+  processed: '2026-05-16'
+  slug: butterfly-medical
+- title: Osero raised $13.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Osero
+  parsed_amount: $13.5M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: osero
+- title: Twin Prime raised $10M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Twin Prime
+  parsed_amount: $10M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: twin-prime
+- title: Origin Lab raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Origin Lab
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-16'
+  slug: origin-lab
+- title: Flick raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Flick
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-16'
+  slug: flick
+  notes: created startup profile flick.md; True Ventures-led $6M seed (2026-05-14)
+    with GV, Y Combinator, Lightspeed, Formosa, Pioneer Fund, Olive Tree, N1; updated
+    true-ventures.md and gv.md portfolios
+- title: Ouinex raised $3.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Ouinex
+  parsed_amount: $3.5M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-16'
+  notes: parse error or community-funded (no VC participation)
+- title: Chromie Health raised $2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Chromie Health
+  parsed_amount: $2M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: chromie-health
+- title: Lightrock raised $500M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Lightrock
+  parsed_amount: $500M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-16'
+  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
+- title: u003e raised $120M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: u003e
+  parsed_amount: $120M
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-16'
+  notes: parse error or community-funded (no VC participation)
+- title: Marketing operating system Nectar Social raises $30M Series A led by Menlo
+  url: https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/
+  source: techcrunch
+  date_found: '2026-05-16'
+  parsed_company: Marketing operating system Nectar Social
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: processed
+  processed: '2026-05-16'
+  slug: nectar-social
+  notes: already in profile from prior round monitoring
+- title: UK EdTech Multiverse lands €60 million funding round at €1.8 billion valuation
+  url: https://www.eu-startups.com/2026/05/uk-edtech-multiverse-lands-e60-million-funding-round-at-e1-8-billion-valuation/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: UK EdTech Multiverse
+  parsed_amount: €60M
+  parsed_round: Growth
+  status: processed
+  processed: '2026-05-15'
+  slug: multiverse
+  notes: created multiverse.md (€60M / $70M Growth 2026-05-15 at €1.8B / $2.1B val;
+    led by Schroders Capital with General Catalyst, Lightspeed, D1, Index Ventures,
+    BOND, StepStone Group); updated general-catalyst.md, bond.md, index-ventures.md,
+    d1-capital-partners.md portfolios
+- title: Valencia-based Fresh People raises €2.6 million to scale Booster, its AI
+    leadership copilot
+  url: https://www.eu-startups.com/2026/05/valencia-based-fresh-people-raises-e2-6-million-to-scale-booster-its-ai-leadership-copilot/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: Valencia-based Fresh People
+  parsed_amount: €2.6M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-15'
+  slug: fresh-people
+  notes: created fresh-people.md (€2.6M Seed 2026-05-15 co-led by Inveready and Archipiélago
+    Next with Successful Fund I FCRE; Valencia AI leadership copilot rebranding to
+    Booster)
+- title: London’s PANTA raises €3.4 million to modernise how financial indices are
+    built and managed
+  url: https://www.eu-startups.com/2026/05/londons-panta-raises-e3-4-million-to-modernise-how-financial-indices-are-built-and-managed/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: London’s PANTA
+  parsed_amount: £3M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-15'
+  slug: panta
+  notes: created panta.md (£3M / €3.4M Seed 2026-05-14 led by Fuel Ventures with Innovate
+    UK Innovation Loan; London SaaS for financial index management)
+- title: FTAI Aviation Announces Full Redemption of Outstanding 8.25% Fixed-Rate Reset
+    Series C Cumulative Perpetual Redeemable Preferred Shares
+  url: https://www.globenewswire.com/news-release/2026/05/15/3295679/35538/en/FTAI-Aviation-Announces-Full-Redemption-of-Outstanding-8-25-Fixed-Rate-Reset-Series-C-Cumulative-Perpetual-Redeemable-Preferred-Shares.html
+  source: globenewswire
+  date_found: '2026-05-15'
+  parsed_company: FTAI Aviation
+  parsed_amount: null
+  parsed_round: Series C
+  status: skipped
+  processed: '2026-05-16'
+  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
+- title: Indian Uber rival Rapido raises $240M at $3B valuation
+  url: https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/
+  source: techcrunch
+  date_found: '2026-05-15'
+  parsed_company: Indian Uber rival Rapido
+  parsed_amount: $240M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-15'
+  slug: rapido
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (May 11–May 15)
+  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-11-may-15/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: skipped
+  processed: '2026-05-16'
+  notes: not a startup fundraise (IPO/redemption/aggregator/fund close)
+- title: Berlin-based Elephant Company raises over €5 million to bring AI-powered
+    training to frontline workers
+  url: https://www.eu-startups.com/2026/05/berlin-based-elephant-company-raises-over-e5-million-to-bring-ai-powered-training-to-frontline-workers/
+  source: eu-startups
+  date_found: '2026-05-15'
+  parsed_company: Berlin-based Elephant Company
+  parsed_amount: null
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: elephant-company

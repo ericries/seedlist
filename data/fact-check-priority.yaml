@@ -1,81 +1,9 @@
 priority:
-- slug: airbnb
+- slug: andreessen-horowitz
   type: firm
-  reason: "led WeRoad $58M Series C (2026-05-27)"
-  added: 2026-05-27
-- slug: zigg-capital
+  reason: "led Exa Labs $250M Series C at $2.2B val (2026-05-20)"
+  added: 2026-05-21
+- slug: parkway-venture-capital
   type: firm
-  reason: "led allO $14M Series A (2026-05-27)"
-  added: 2026-05-27
-- slug: psg-equity
-  type: firm
-  reason: "led Airis Labs $31M Series B (2026-05-27)"
-  added: 2026-05-27
-- slug: tlv-partners
-  type: firm
-  reason: "participated in Airis Labs Series B (2026-05-27)"
-  added: 2026-05-27
-- slug: stray-dog-capital
-  type: firm
-  reason: "led Pacifico Biolabs Series A €7M (2026-05-27)"
-  added: 2026-05-27
-- slug: sofinnova-partners
-  type: firm
-  reason: "led P2 Science $23M up round (2026-05-26)"
-  added: 2026-05-27
-- slug: slow-ventures
-  type: firm
-  reason: "led Clouted seed (2026-05-20)"
-  added: 2026-05-23
-- slug: laidlaw-and-company
-  type: firm
-  reason: "led Vêtir Series A first close (2026-05-21)"
-  added: 2026-05-23
-- slug: prime-movers-lab
-  type: firm
-  reason: "led The Path seed (2026-05-21)"
-  added: 2026-05-23
-- slug: fulgur-ventures
-  type: firm
-  reason: "led Foundation Devices growth round (2026-05-21)"
-  added: 2026-05-23
-- slug: blockchange-ventures
-  type: firm
-  reason: "led Cycles seed (2026-05-21)"
-  added: 2026-05-23
-- slug: crucible-capital
-  type: firm
-  reason: "led Shatterdome Energy pre-seed (2026-05-21)"
-  added: 2026-05-23
-- slug: highland-europe
-  type: firm
-  reason: "led Unframe Series B (2026-05-19)"
-  added: 2026-05-24
-- slug: enlightened-hospitality-investments
-  type: firm
-  reason: "led Blink $17M growth round (2026-05-18)"
-  added: 2026-05-24
-- slug: boston-scientific
-  type: firm
-  reason: "$1.5B strategic investment in MiRus (2026-05-18)"
-  added: 2026-05-24
-- slug: radical-ventures
-  type: firm
-  reason: "led Decart $300M (2026-05-18)"
-  added: 2026-05-24
-- slug: caffeinated-capital
-  type: firm
-  reason: "led Amca Series B $300M (2026-05-20)"
-  added: 2026-05-24
-- slug: lightspeed-venture-partners
-  type: firm
-  reason: "participated in Amca Series B (2026-05-20)"
-  added: 2026-05-24
-- slug: blackrock
-  type: firm
-  reason: "co-led Armada Series B $230M (2026-05-19)"
-  added: 2026-05-24
-- slug: felicis
-  type: firm
-  reason: "participated in Armada Series B (2026-05-19)"
-  added: 2026-05-24
+  reason: "led Hark $700M Series A at $6B val (2026-05-21) — may need new profile"
+  added: 2026-05-21
