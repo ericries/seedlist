@@ -270,6 +270,8 @@ The following table includes a16z investments verified through the firm's own po
 | Exa Labs | Series C (led, $250M at $2.2B val) | 2026-05-20 | AI / Search Infrastructure | Private [^54] |
 | Socket | Series C (participated, $60M at $1B val; Thrive Capital led) | 2026-05-20 | Cybersecurity / Software Supply Chain | Private [^55] |
 | Amca | Series B (participant, $300M at $1B+ val; Caffeinated Capital led) | 2026-05-20 | Aerospace & Defense / Manufacturing | Private [^56] |
+| Arc QSR | Seed (led, $10.8M) | 2026-05-26 | AI / Robotics | Private [^57] |
+| OpenRouter | Series B (participant, $113M at $1.3B val; CapitalG led) | 2026-05-26 | AI / LLM Infrastructure | Private [^57] |
 
 *Note: This table includes 74 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -441,3 +443,5 @@ The following table includes a16z investments verified through the firm's own po
 [^55]: Socket Blog, "Socket Raises $60M Series C at a $1B Valuation to Help Enterprises Build Securely With AI," May 20, 2026. Accessed May 2026. https://socket.dev/blog/socket-raises-60m-series-c-press-release — Confirms Andreessen Horowitz participated in Socket's $60M Series C on May 20, 2026 at $1B valuation led by Thrive Capital; Abstract Ventures and Capital One Ventures also participated.
 
 [^56]: PR Newswire, "Amca Closes $300M Series B at $1B+ Valuation to Strengthen America's Critical Component Supply Chain," May 20, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/amca-closes-300m-series-b-at-1b-valuation-to-strengthen-americas-critical-component-supply-chain-302776943.html — Confirms Andreessen Horowitz participated in Amca's $300M Series B on May 20, 2026 at $1B+ valuation; Caffeinated Capital led; Lightspeed Venture Partners, Lux Capital, Construct Capital, House Capital also participated.
+
+[^57]: Axios Pro Rata, "May 26, 2026 venture deals: Arc raises $10.8M seed led by a16z; OpenRouter raises $113M at $1.3B valuation led by CapitalG with a16z and Menlo Ventures follow-on," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Andreessen Horowitz led Arc QSR's $10.8M seed on May 26, 2026 and participated as follow-on investor in OpenRouter's $113M Series B on the same date (CapitalG led; Menlo Ventures also participated).

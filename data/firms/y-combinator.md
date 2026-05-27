@@ -294,6 +294,8 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Corgi | S24 | 2024 | Insurtech / AI | Private ($1.3B) [^34][^35] |
 | Fazeshift | S24 | 2024 | AI / Finance Ops / Vertical SaaS | Private (Series A) [^36][^37] |
 | Greenboard | W24 | 2024 | Regtech / Compliance AI | Private (Series A 2026-05-12) [^38] |
+| Lucis | S25 | 2025 | Healthtech / Preventive Health AI | Private (Series A $20M 2026-05-26) [^39] |
+| Didit | S22 | 2022 | Fintech / Identity Verification | Private (Seed extension $6M 2026-05-26) [^39] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -434,3 +436,5 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^37]: "Fazeshift," Y Combinator company directory. https://www.ycombinator.com/companies/fazeshift. Accessed May 2026. (Listed as Summer 2024 / S24 batch; founders Caitlin Leksana and Timmy Galvin; founded 2023.)
 
 [^38]: Fortune, "Greenboard raises $15.5 million Series A to keep compliance from slowing down business," May 12, 2026. Accessed May 2026. https://fortune.com/2026/05/12/greenboard-raises-15-5-million-series-a-to-keep-compliance-from-slowing-down-business/ — Greenboard (YC W24 batch; founders Dave Feldman, Ed Schembor) announced a $15.5M Series A on May 12, 2026 led by Base10 Partners with participation from Y Combinator, General Catalyst (via Wayfinder), Commerce Ventures, Transpose Platform, and Liquid2 Ventures, bringing total raised to $20M.
+
+[^39]: Axios Pro Rata, "May 26, 2026 venture deals: Lucis $20M Series A led by Singular; Didit $6M seed extension from YC and others," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Y Combinator participated as follow-on investor in Lucis's $20M Series A on May 26, 2026 (Singular led; General Catalyst and angels also participated; Lucis is a Paris-based preventive-health platform and YC alumnus); also confirms Y Combinator participated in Didit's $6M seed extension on May 26, 2026 alongside Rebel Fund and other participants.

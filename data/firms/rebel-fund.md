@@ -64,6 +64,7 @@ Founder Jared Heyman has described the underlying approach as follows (Medium, J
 | Serif Health | Seed | ~2022 | — | Healthtech (price transparency) | Active [^5] |
 | Writesonic | Seed | ~2021 | — | AI writing | Active [^5] |
 | EARTH AI | Seed | ~2022 | — | Mining / AI | Active [^5] |
+| Didit | Seed extension ($6M; YC + Rebel + others) | 2026-05-26 | — | Fintech / Identity Verification | Active [^6] |
 
 The table above is a representative sample of named investments confirmed in public coverage [^5]. Rebel does not publish a full portfolio list; the canonical count of 128 companies comes from Tracxn [^3].
 
@@ -87,4 +88,6 @@ No independently sourced founder testimonials about working with Rebel Fund were
 [^2]: "Designing a Diversified Seed Portfolio of YC Startups," Rebel Fund blog, accessed May 2026. https://www.rebelfund.vc/blog-posts/designing-diversified-seed-portfolio-yc-startups-monte-carlo-irr-benchmarks
 [^3]: Rebel Fund — Investor Profile, Tracxn, accessed May 2026. https://tracxn.com/d/venture-capital/rebelfund/__9LKEvRR6aOKp7LrB9ffURxW7s_q4DUE1AX4zKxZnBMY
 [^4]: Jared Heyman, "On Rebel Theorem 4.0," Medium, June 19, 2025, accessed May 2026. https://jaredheyman.medium.com/on-rebel-theorem-4-0-55d04b0732e3
+
+[^6]: Axios Pro Rata, "Didit $6M seed funding from YC and others," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Rebel Fund participated in Didit's $6M seed extension on May 26, 2026 alongside Y Combinator and other participants.
 [^5]: Rebel Fund Portfolio Companies, Crunchbase Hub, accessed May 2026. https://www.crunchbase.com/hub/rebel-fund-portfolio-companies

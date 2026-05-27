@@ -7,18 +7,6 @@ priority:
   type: firm
   reason: "led P2 Science $23M up round (2026-05-26)"
   added: 2026-05-27
-- slug: andreessen-horowitz
-  type: firm
-  reason: "led Arc QSR seed (2026-05-26); follow-on OpenRouter Series B (2026-05-26)"
-  added: 2026-05-27
-- slug: y-combinator
-  type: firm
-  reason: "participated Lucis Series A and Didit seed extension (2026-05-26)"
-  added: 2026-05-27
-- slug: rebel-fund
-  type: firm
-  reason: "participated Didit seed extension (2026-05-26)"
-  added: 2026-05-27
 - slug: slow-ventures
   type: firm
   reason: "led Clouted seed (2026-05-20)"
