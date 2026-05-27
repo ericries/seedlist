@@ -23,7 +23,7 @@ founders:
   role: Co-Founder
 - name: Merlijn van Breugel
   role: Co-Founder
-last_researched: 2026-05-12
+last_researched: 2026-05-26
 status: published
 ---
 
@@ -35,7 +35,7 @@ Ditto Care is a Rotterdam-based healthtech startup founded in 2025 by Tobias Pol
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-12 | Seed | €7.6M | Heal Capital | — [^1][^2] |
+| 2026-05-12 | Seed | €7.6M | Heal Capital | Optiverder, Rubio Impact Ventures [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -49,3 +49,4 @@ No independently sourced founder quotes found at this time.
 
 [^1]: Versicherungswirtschaft-heute, "Millioneninvestment in Ditto: Heal Capital wettet auf 'Google-Maps-Effekt' für Patienten," May 12, 2026. Accessed May 2026. https://versicherungswirtschaft-heute.de/schlaglicht/2026-05-12/millioneninvestment-in-ditto-heal-capital-wettet-auf-google-maps-effekt-fuer-patienten/
 [^2]: EU-Startups, "Rotterdam's Ditto raises €7.6 million to make 'what did the doctor say' easier to answer," May 12, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/rotterdams-ditto-raises-e7-6-million-to-make-what-did-the-doctor-say-easier-to-answer/
+[^3]: Tech.eu, "Dutch healthtech Ditto raises €7.6M to bring AI-powered patient support across Europe," May 12, 2026. Accessed May 2026. https://tech.eu/2026/05/12/dutch-healthtech-ditto-raises-eur76m-to-bring-ai-powered-patient-support-across-europe/

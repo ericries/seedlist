@@ -12,7 +12,7 @@ total_raised: "£3.8M"
 firms: []
 investors: []
 status: published
-last_researched: 2026-04-24
+last_researched: 2026-05-26
 ---
 
 ## About
@@ -23,7 +23,7 @@ Cerca Magnetics is a UK-based medical device company developing wearable quantum
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-21 | Series A | £3.8M (~€4.3M) | Guinness Ventures | [^1][^2] |
+| 2026-04-21 | Series A | £3.8M (~€4.3M) | Guinness Ventures | — [^1][^2][^3] |
 
 ## What Investors Say
 

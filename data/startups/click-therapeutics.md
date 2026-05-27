@@ -14,7 +14,7 @@ investors:
 - round: Board seat
   slug: lee-shapiro
   year: 2021
-last_researched: 2026-04-14
+last_researched: 2026-05-26
 location: New York, NY
 name: Click Therapeutics
 sector:
@@ -37,7 +37,7 @@ Click Therapeutics develops and commercializes software as prescription medical 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-09 | Series D | $50M | Boehringer Ingelheim | -- [^1] |
+| 2026-04-09 | Series D | $50M | Boehringer Ingelheim | — [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -45,8 +45,12 @@ No verified investor quotes available at this time.
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+> "Boehringer Ingelheim's selection of Click to deliver CT-155 to patients is powerful validation of our vision and the capabilities we have spent over a decade building."
+>
+> — David Benshoof Klein, CEO & Founder, Click Therapeutics [^2]
 
 ## Sources
 
 [^1]: GlobeNewsWire, "Click Therapeutics and Boehringer Ingelheim Announce Series D Investment and Funding to Advance Commercialization of CT-155," April 9, 2026. https://www.globenewswire.com/news-release/2026/04/09/3270771/0/en/Click-Therapeutics-and-Boehringer-Ingelheim-Announce-Series-D-Investment-and-Funding-to-Advance-Commercialization-of-CT-155.html
+[^2]: Click Therapeutics, "Click Therapeutics and Boehringer Ingelheim Announce Series D Investment and Funding to Advance Commercialization of CT-155," April 9, 2026. Accessed May 2026. https://www.clicktherapeutics.com/news/click-therapeutics-and-boehringer-ingelheim-announce-series-d-investment-and-funding-to-advance-commercialization-of-ct-155
+[^3]: BioSpace, "Click Therapeutics and Boehringer Ingelheim Announce Series D Investment and Funding to Advance Commercialization of CT-155," April 9, 2026. Accessed May 2026. https://www.biospace.com/press-releases/click-therapeutics-and-boehringer-ingelheim-announce-series-d-investment-and-funding-to-advance-commercialization-of-ct-155
