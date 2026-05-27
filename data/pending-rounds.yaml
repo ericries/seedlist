@@ -169,6 +169,14 @@ pending_rounds:
   parsed_amount: $150M
   parsed_round: null
   status: pending
+- title: AI coding startup Cognition raises $1B at $25B pre-money valuation
+  url: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
+  source: techcrunch
+  date_found: '2026-05-27'
+  parsed_company: AI coding startup Cognition
+  parsed_amount: $1B
+  parsed_round: null
+  status: pending
 - title: YC-backed French preventive health platform Lucis raises €17.3 million Series
     A led by Singular
   url: https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/
@@ -1115,16 +1123,3 @@ pending_rounds:
   processed: '2026-05-21'
   slug: stilta
   notes: already shipped as stilta.md ($10.5M Seed 2026-05-19, AI legal/IP)
-- title: Infrawatch raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Infrawatch
-  parsed_amount: $3M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-21'
-  slug: infrawatch
-  notes: created infrawatch.md (£2.2M Pre-Seed 2026-05-20 co-led by Outward VC and
-    Triple Point Ventures with Portfolio Ventures and angels; London cybersecurity
-    infrastructure intelligence; founder Lloyd Davies)
