@@ -1,17 +1,5 @@
 priority:
-- slug: altimeter-capital
-  type: firm
-  reason: "co-led Anthropic Series H $65B at $965B post-money (2026-05-28)"
-  added: 2026-05-28
 - slug: dragoneer
-  type: firm
-  reason: "co-led Anthropic Series H $65B (2026-05-28)"
-  added: 2026-05-28
-- slug: greenoaks-capital
-  type: firm
-  reason: "co-led Anthropic Series H $65B (2026-05-28)"
-  added: 2026-05-28
-- slug: sequoia-capital
   type: firm
   reason: "co-led Anthropic Series H $65B (2026-05-28)"
   added: 2026-05-28

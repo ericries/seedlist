@@ -115,6 +115,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Tempo | Series A (co-led) | 2025-10-17 | Blockchain/payments | Active | [^36] |
 | Cyera | Series F | 2026-01-08 | Cybersecurity/AI | Active | [^41] |
 | Sierra | Series E (participated) | 2026-05-04 | AI/agents | Active | [^42][^43][^44] |
+| Anthropic | Series H (co-led, $65B at $965B post-money) | 2026-05-28 | AI / Frontier Models | Active | [^45] |
 
 This table represents approximately 30% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
 
@@ -186,3 +187,5 @@ No additional independently sourced founder testimonials from portfolio company 
 [^42]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from existing investors Benchmark, Sequoia Capital, and Greenoaks Capital.
 [^43]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
 [^44]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
+
+[^45]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Greenoaks Capital co-led Anthropic's Series H on May 28, 2026 at $965B post-money with Altimeter Capital, Dragoneer, and Sequoia Capital; Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron participated; incorporates $15B in previously committed hyperscaler investments including Amazon's $5B pledge.

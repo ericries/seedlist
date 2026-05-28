@@ -114,7 +114,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Pine Labs | Series B | 2018 | Payments / Fintech | Public (IPO 2025) | [^24] |
 | CoreWeave | Series C (participated; Coatue led) | 2024-05-01 | AI Infrastructure | Public (IPO 2025) | [^25][^26][^33] |
 | OpenAI | Growth | ~2023 | AI | Active | [^17] |
-| Anthropic | Series F | 2025 | AI | Active | [^17] |
+| Anthropic | Series F (2025); Series H (co-led, $65B at $965B post-money) 2026-05-28 | 2025; 2026-05-28 | AI / Frontier Models | Active | [^17][^38] |
 | Anduril | Growth | ~2023 | Defense Tech | Active | [^7] |
 | SpaceX | Secondary/Growth | ~2023 | Aerospace | Active | [^7] |
 | K2 Space | Growth | ~2024 | Aerospace | Active | [^7] |
@@ -243,3 +243,5 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^36]: SiliconANGLE, "Profluent Bio raises $106M from Jeff Bezos and others to accelerate protein design with AI," November 20, 2025, accessed April 2026. https://siliconangle.com/2025/11/20/profluent-bio-raises-106m-jeff-bezos-others-accelerate-protein-design-ai/ — Confirms Series B co-led by Altimeter Capital and Bezos Expeditions; Spark Capital, Insight Partners, and Air Street Capital participated.
 
 [^37]: CRISPR Medicine News press release service, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 19, 2025, accessed April 2026. https://crisprmedicinenews.com/press-release-service/card/profluent-raises-106m-to-scale-frontier-ai-models-for-programmable-biology/ — Confirms November 19, 2025 announcement date; Altimeter Capital and Bezos Expeditions co-led; total funding to date $150M.
+
+[^38]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Altimeter Capital co-led Anthropic's Series H on May 28, 2026 at $965B post-money with Dragoneer, Greenoaks, and Sequoia Capital; Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron participated; round incorporates $15B in previously committed hyperscaler investments including Amazon's $5B pledge.

@@ -217,7 +217,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Clay | Series A (lead) | 2023 | AI / Sales | Private [^13][^41] |
 | Sierra | Seed (co-led with Benchmark) | 2024-02-13 | AI / Customer Service | Private [^13][^42] |
 | Sierra | Series E (participated, follow-on) | 2026-05-04 | AI / Customer Service | Private [^56][^57][^58] |
-| Anthropic | Series G (participated) | 2026-02-12 | AI | Private [^20][^61] |
+| Anthropic | Series G (participated) 2026-02-12; Series H (co-led, $65B at $965B post-money) 2026-05-28 | 2026-02-12; 2026-05-28 | AI / Frontier Models | Private [^20][^61][^75] |
 | Nominal | Series B (led) | 2025-06-12 | Defense Tech / Hardware | Private [^25][^49][^50][^51] |
 | Oasis Security | Series A (led) | 2024-01-31 | Cybersecurity / Identity | Private [^26][^52][^53] |
 | Grow Therapy | Series C (led) | 2024-04-08 | Healthcare / Mental Health | Private [^27][^54][^55] |
@@ -447,3 +447,5 @@ The following table includes Sequoia Capital investments verified through the fi
 [^73]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Sequoia Capital participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C, which Sequoia led per TechCrunch https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/). TCV led; a16z, Coatue, CRV, Sapphire Ventures, and Spark Capital also participated.
 
 [^74]: Decart, "Decart Raises $300M: Tech Leaders Back the Company as Both Customers and Investors," May 18, 2026. Accessed May 2026. https://decart.ai/publications/decart-raises-300m-tech-leaders-back-the-company-as-both-customers-and-investors — Confirms Sequoia Capital as returning investor in Decart's $300M round at $4B valuation led by Radical Ventures on May 18, 2026; new investors Nvidia, Atreides Management, Valor Equity Partners, Adobe Ventures, Toyota Ventures, eBay Ventures joined alongside returning backers Benchmark and Zeev Ventures.
+
+[^75]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Sequoia Capital co-led Anthropic's Series H on May 28, 2026 at $965B post-money valuation with Altimeter Capital, Dragoneer, and Greenoaks; Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron participated; incorporates $15B previously committed hyperscaler investments including Amazon's $5B pledge.
