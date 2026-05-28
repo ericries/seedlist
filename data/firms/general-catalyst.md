@@ -226,6 +226,8 @@ The following table includes 65 verified investments sourced from General Cataly
 | Status AI | Seed + Series A (led, $17M combined) | 2026-05-19 | AI / Consumer / Social Networking | Private [^63] |
 | Scapia | Series C (led, $63M at $500M+ val) | 2026-05-21 | Fintech / Travel / India | Private [^64] |
 | Modal Labs | Series C (co-led with Redpoint, $355M at $4.65B val) | 2026-05-21 | AI Infrastructure / Serverless / GPU | Private [^65] |
+| Cognition | $1B+ growth (co-led with Lux Capital and 8VC at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^66] |
+| Geordie AI | Series A (follow-on, $30M at ~$180M post-money; Balderton led) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Private [^67] |
 
 *Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -403,4 +405,8 @@ No independently sourced founder testimonials were found in this research pass. 
 [^64]: TechCrunch, "General Catalyst just led a $63M bet on India's travel payments market," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/ — Confirms General Catalyst led Scapia's $63M Series C on May 21, 2026 at $500M+ post-money valuation (up from $200M in April 2025); Peak XV Partners and Z47 participated. Cross-referenced with Business Standard, https://www.business-standard.com/companies/news/scapia-raises-63-million-in-series-c-round-led-by-general-catalyst-126052100896_1.html.
 
 [^65]: Modal Blog, "Modal's Series C: Raising $355M at a $4.65B valuation," May 21, 2026. Accessed May 2026. https://modal.com/blog/modal-series-c — Confirms General Catalyst co-led Modal Labs' $355M Series C with Redpoint on May 21, 2026 at $4.65B valuation. Cross-referenced with SiliconANGLE, https://siliconangle.com/2026/05/21/serverless-ai-infrastructure-startup-modal-labs-seals-355m-funding-round/ — Menlo Ventures, Bain Capital Ventures, and Accel joined as new investors. Revenue grew from $60M to $300M ARR in 8 months.
+
+[^66]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms General Catalyst co-led Cognition's $1B+ round on May 27, 2026 at $26B post-money with Lux Capital and 8VC; Founders Fund, Elad Gil, Soma Capital, Omri Casspi, Ribbit Capital, Atreides, and Layer Global participated.
+
+[^67]: Fortune, "Exclusive: Geordie AI, cybersecurity startup for AI agents, raises $30 million Series A round," May 28, 2026. Accessed May 2026. https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/ — Confirms General Catalyst as follow-on investor in Geordie AI's $30M Series A on May 28, 2026 led by Balderton Capital at ~$180M post-money valuation; Crosspoint Capital (new) and Ten Eleven Ventures (follow-on) participated.
 

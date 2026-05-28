@@ -101,7 +101,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Hugging Face | Series A | 2019 | AI/ML | Active | [^7][^13] |
 | Runway | Seed | 2018 | AI/Creative tools | Active | [^4][^14] |
 | Databricks | Growth | 2021 | Data infrastructure | Active | [^7] |
-| Cognition | Early | 2024 | AI/Developer tools | Active | [^7] |
+| Cognition | Early (2024); $1B+ growth co-led at $26B post-money | 2024; 2026-05-27 | AI / Developer Tools / Coding Agents | Active | [^7][^19] |
 | Physical Intelligence | Early | 2024 | Robotics/AI | Active | [^7] |
 | Eikon Therapeutics | Early | 2019 | Biotech | Active | [^7] |
 | Recursion Pharma | Early | 2016 | Biotech | Public (RXRX) | [^1][^7] |
@@ -169,3 +169,5 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^17]: PR Newswire, "Amca Closes $300M Series B at $1B+ Valuation to Strengthen America's Critical Component Supply Chain," May 20, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/amca-closes-300m-series-b-at-1b-valuation-to-strengthen-americas-critical-component-supply-chain-302776943.html
 
 [^18]: PR Newswire, "Armada Announces Agreement with Johnson Controls for Galleon Forge One; Raises $230M in Oversubscribed Series B," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/armada-announces-agreement-with-johnson-controls-for-galleon-forge-one-raises-230m-in-oversubscribed-series-b-with-a-pre-money-valuation-of-2b-to-accelerate-deployment-of-the-us-ai-stack-and-support-explosive-customer-demand--302775720.html
+
+[^19]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms Lux Capital co-led Cognition's $1B+ round on May 27, 2026 at $26B post-money valuation with General Catalyst and 8VC; Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, and Layer Global participated.

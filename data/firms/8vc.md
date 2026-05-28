@@ -115,6 +115,7 @@ Based on 8VC's verified portfolio and public data:
 | Rilian | Seed (co-led, $17.5M) | 2026-04-23 | AI/Cybersecurity/Defense | Private [^13][^28] |
 | Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^18][^19] |
 | Sauron | Seed (participated, $18M) | 2024-12-05 | Home Security / AI | Private [^20][^21][^22] |
+| Cognition | $1B+ growth (co-led with Lux Capital and General Catalyst at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^29] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -178,3 +179,5 @@ No independently sourced founder testimonials found.
 
 
 [^28]: BusinessWire, "Rilian Secures $17.5 Million in Seed Funding to Advance Agentic AI for Cyber and Defense Operations," April 23, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260423773644/en/Rilian-Secures-$17.5-Million-in-Seed-Funding-to-Advance-Agentic-AI-for-Cyber-and-Defense-Operations — $17.5M Seed announced April 23, 2026, co-led by 8VC, First In, and Tamarack Global; participation from 8090 Industries, Liquid 2 Ventures, Perot Jain, and Protego Ventures. McLean, VA-based agentic AI for cyber and defense.
+
+[^29]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms 8VC co-led Cognition's $1B+ round on May 27, 2026 at $26B post-money with Lux Capital and General Catalyst; Founders Fund, Elad Gil, Soma Capital, Omri Casspi, Ribbit Capital, Atreides, and Layer Global participated.
