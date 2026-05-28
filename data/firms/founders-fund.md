@@ -183,7 +183,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Neuralink | Early | ~2016 (founded) | Biotech / Neural Interface | Private [^20] |
 | OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
 | Enter | Series B (led) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^46][^47] |
-| Cognition | Series A (led) | 2024-03-12 | AI / Developer Tools | Private [^20][^36][^37][^38] |
+| Cognition | Series A (led) 2024-03-12; $1B+ growth (participant at $26B post-money; Lux/General Catalyst/8VC co-led) 2026-05-27 | 2024-03-12; 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^20][^36][^37][^38][^53] |
 | Nubank | Series C | ~2014 | Fintech / Banking | Public (IPO 2021) [^2] |
 | Trade Republic | Growth | ~2019 (founded) | Fintech / Brokerage | Private [^20] |
 | Spotify | Growth | ~2008 (founded) | Consumer / Music Streaming | Public (IPO 2018) [^20] |
@@ -391,3 +391,5 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^55]: GlobeNewsWire, "Monaco Secures $50 Million in Series B Funding to Grow AI-Powered Sales Platform Amid Strong Customer Demand," May 12, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html — $50M Series B led by Benchmark with Founders Fund (returning investor "tripling down"), Human Capital, Alt Cap, Mantis, Saga VC, and angels Garry Tan, Neil Mehta, John Collison, Patrick Collison.
 
 [^52]: PR Newswire, "Armada Announces Agreement with Johnson Controls for Galleon Forge One; Raises $230M in Oversubscribed Series B with a Pre-Money Valuation of $2B," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/armada-announces-agreement-with-johnson-controls-for-galleon-forge-one-raises-230m-in-oversubscribed-series-b-with-a-pre-money-valuation-of-2b-to-accelerate-deployment-of-the-us-ai-stack-and-support-explosive-customer-demand--302775720.html — Confirms Founders Fund participated in Armada's $230M Series B on May 19, 2026 at $2B pre-money valuation; round co-led by Overmatch, BlackRock, and 8090 Industries with new strategic investors Johnson Controls, NightDragon, Mitsui, and Singtel Innov8 alongside existing investors Felicis, Marlinspike, Shield Capital, Lux Capital, Silent Ventures, Veriten, and Gladebrook.
+
+[^53]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms Founders Fund participated in Cognition's $1B+ round on May 27, 2026 at $26B post-money; Lux Capital, General Catalyst, and 8VC co-led; Elad Gil, Soma Capital, Omri Casspi, Ribbit Capital, Atreides, and Layer Global also participated.
