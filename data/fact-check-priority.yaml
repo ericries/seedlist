@@ -1,4 +1,28 @@
 priority:
+- slug: lux-capital
+  type: firm
+  reason: "co-led Cognition $1B+ round at $26B post-money (2026-05-27)"
+  added: 2026-05-28
+- slug: general-catalyst
+  type: firm
+  reason: "co-led Cognition $1B+ round (2026-05-27); follow-on Geordie AI Series A (2026-05-28)"
+  added: 2026-05-28
+- slug: 8vc
+  type: firm
+  reason: "co-led Cognition $1B+ round (2026-05-27)"
+  added: 2026-05-28
+- slug: founders-fund
+  type: firm
+  reason: "participated in Cognition $1B+ round (2026-05-27)"
+  added: 2026-05-28
+- slug: balderton-capital
+  type: firm
+  reason: "led Geordie AI $30M Series A (2026-05-28)"
+  added: 2026-05-28
+- slug: graduate-ventures
+  type: firm
+  reason: "co-led Eddy Grid €7.5M (2026-05-28)"
+  added: 2026-05-28
 - slug: andreessen-horowitz
   type: firm
   reason: "led Exa Labs $250M Series C at $2.2B val (2026-05-20)"

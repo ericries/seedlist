@@ -1,0 +1,54 @@
+---
+name: Cognition
+slug: cognition
+type: startup
+website: https://cognition.ai/
+location: San Francisco, CA
+founded: 2023
+status_company: active
+sector:
+- ai
+- coding
+- developer-tools
+- ai-agents
+- enterprise-software
+- code-generation
+stage_latest: Growth
+total_raised: $1.4B+
+investors: []
+firms: []
+founders:
+- name: Scott Wu
+  role: Co-Founder & CEO
+- name: Steven Hao
+  role: Co-Founder
+- name: Walden Yan
+  role: Co-Founder
+last_researched: 2026-05-28
+status: published
+---
+
+## About
+
+Cognition is a San Francisco-based AI coding company founded in 2023 by CEO Scott Wu, Steven Hao, and Walden Yan — all gold medalists at the International Olympiad in Informatics — and is the maker of Devin, the autonomous AI software engineer first demoed in March 2024 [^1][^2][^3]. The company reports $492M in annualized revenue run-rate and enterprise usage of Devin growing 50% month-over-month for six months; named customers include Mercedes-Benz, NASA, Goldman Sachs, and Santander [^1][^2]. The $1B+ round announced May 27, 2026 was co-led by Lux Capital, General Catalyst, and 8VC at a $25B pre-money / $26B post-money valuation with participation from Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, and Layer Global; the round more than doubles the $10.2B valuation from Cognition's $400M September 2025 round [^1][^2][^3].
+
+## Funding History
+
+| Date | Round | Amount | Lead | Co-investors |
+|------|-------|--------|------|--------------|
+| 2026-05-27 | Growth | $1B+ (at $26B post-money) | Lux Capital, General Catalyst, 8VC | Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, Layer Global [^1][^2][^3] |
+| 2025-09 | Growth | $400M (at $10.2B post-money) | — | — [^1] |
+
+## What Investors Say
+
+No independently sourced investor quotes found at this time.
+
+## What Founders Say
+
+No independently sourced founder quotes found at this time.
+
+## Sources
+
+[^1]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
+[^2]: Cognition AI, "Cognition AI," Wikipedia, accessed May 2026. https://en.wikipedia.org/wiki/Cognition_AI
+[^3]: Contrary Research, "Report: Cognition Business Breakdown & Founding Story," accessed May 2026. https://research.contrary.com/company/cognition

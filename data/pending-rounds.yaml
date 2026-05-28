@@ -20,6 +20,33 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce
+    Despite AI Funding Boom'
+  url: https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
+  source: crunchbase
+  date_found: '2026-05-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based Geordie AI secures €25 million to help enterprises govern AI
+    agents
+  url: https://www.eu-startups.com/2026/05/london-based-geordie-ai-secures-e25-million-to-help-enterprises-govern-ai-agents/
+  source: eu-startups
+  date_found: '2026-05-28'
+  parsed_company: London-based Geordie AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Zurich’s Stellar Alpina raises €3.8 million to build detonation-based propulsion
+    for in-space mobility
+  url: https://www.eu-startups.com/2026/05/zurichs-stellar-alpina-raises-e3-8-million-to-build-detonation-based-propulsion-for-in-space-mobility/
+  source: eu-startups
+  date_found: '2026-05-28'
+  parsed_company: Zurich’s Stellar Alpina
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Cash-flow positive Dutch EnergyTech startup Eddy Grid raises €7.5 million
     after nearly 900% revenue growth
   url: https://www.eu-startups.com/2026/05/cash-flow-positive-dutch-energytech-startup-eddy-grid-raises-e7-5-million-after-nearly-900-revenue-growth/
@@ -46,15 +73,6 @@ pending_rounds:
   parsed_amount: $1B
   parsed_round: null
   status: pending
-- title: Airbnb-backed WeRoad raises $58M to take its group travel platform to the
-    US
-  url: https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/
-  source: techcrunch
-  date_found: '2026-05-27'
-  parsed_company: Airbnb-backed WeRoad
-  parsed_amount: $58M
-  parsed_round: null
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 5/27/2026'
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-27-2026/
   source: alleywatch
@@ -62,50 +80,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Transition Ventures raises €128 million Fund II for early-stage companies
-    at the intersection of AI and the physical world
-  url: https://www.eu-startups.com/2026/05/transition-ventures-raises-e128-million-fund-ii-for-early-stage-companies-at-the-intersection-of-ai-and-the-physical-world/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Transition Ventures
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bristol’s female-founded Mykor raises €4.6 million to grow low-carbon construction
-    materials from waste
-  url: https://www.eu-startups.com/2026/05/bristols-female-founded-biotech-startup-mykor-raises-e4-6-million-to-grow-low-carbon-construction-materials-from-waste/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Bristol’s female-founded Mykor
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Munich’s allO raises €12 million Series A to expand its AI operating system
-    for restaurants across Europe
-  url: https://www.eu-startups.com/2026/05/munichs-allo-raises-e12-million-series-a-to-expand-its-ai-operating-system-for-restaurants-across-europe/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Munich’s allO
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Airbnb leads €49 million Series C in Italian adventure travel company WeRoad
-  url: https://www.eu-startups.com/2026/05/airbnb-leads-e49-million-series-c-in-italian-adventure-travel-company-weroad/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
-- title: Pacifico Biolabs raises €7 million Series A to turn idle German breweries
-    into alternative protein factories
-  url: https://www.eu-startups.com/2026/05/pacifico-biolabs-raises-e7-million-series-a-to-turn-idle-german-breweries-into-alternative-protein-factories/
-  source: eu-startups
-  date_found: '2026-05-27'
-  parsed_company: Pacifico Biolabs
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
 - title: 'In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall
     Dramatically'
@@ -121,15 +95,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-05-26'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Belgian DeepTech startup D-CRBN raises €17.5 million to turn industrial CO₂
-    emissions into circular carbon molecules
-  url: https://www.eu-startups.com/2026/05/belgian-deeptech-startup-d-crbn-raises-e17-5-million-to-turn-industrial-co%E2%82%82-emissions-into-circular-carbon-molecules/
-  source: eu-startups
-  date_found: '2026-05-26'
-  parsed_company: Belgian DeepTech startup D-CRBN
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -989,3 +954,46 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: butterfly-medical
+- title: Osero raised $13.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Osero
+  parsed_amount: $13.5M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: osero
+- title: Twin Prime raised $10M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Twin Prime
+  parsed_amount: $10M
+  parsed_round: null
+  status: processed
+  processed: '2026-05-16'
+  slug: twin-prime
+- title: Origin Lab raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Origin Lab
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-16'
+  slug: origin-lab
+- title: Flick raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-16'
+  parsed_company: Flick
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: processed
+  processed: '2026-05-16'
+  slug: flick
+  notes: created startup profile flick.md; True Ventures-led $6M seed (2026-05-14)
+    with GV, Y Combinator, Lightspeed, Formosa, Pioneer Fund, Olive Tree, N1; updated
+    true-ventures.md and gv.md portfolios
