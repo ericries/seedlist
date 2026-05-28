@@ -82,6 +82,14 @@ pending_rounds:
   parsed_amount: $65B
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/28/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-28-2026/
+  source: alleywatch
+  date_found: '2026-05-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AI coding startup Cognition raises $1B at $25B pre-money valuation
   url: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
   source: techcrunch
@@ -981,13 +989,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: osero
-- title: Twin Prime raised $10M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Twin Prime
-  parsed_amount: $10M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-16'
-  slug: twin-prime
