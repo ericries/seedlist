@@ -65,6 +65,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Anthropic raises $65 Billion, nears $1T valuation ahead of IPO
+  url: https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
+  source: techcrunch
+  date_found: '2026-05-28'
+  parsed_company: Anthropic
+  parsed_amount: $65B
+  parsed_round: null
+  status: pending
+- title: Anthropic Nears $1T Valuation And Leapfrogs OpenAI On Unicorn Board With
+    $65B Funding Round
+  url: https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/
+  source: crunchbase
+  date_found: '2026-05-28'
+  parsed_company: null
+  parsed_amount: $65B
+  parsed_round: null
+  status: pending
 - title: AI coding startup Cognition raises $1B at $25B pre-money valuation
   url: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
   source: techcrunch
@@ -974,26 +991,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: twin-prime
-- title: Origin Lab raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Origin Lab
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-16'
-  slug: origin-lab
-- title: Flick raised $6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Flick
-  parsed_amount: $6M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-16'
-  slug: flick
-  notes: created startup profile flick.md; True Ventures-led $6M seed (2026-05-14)
-    with GV, Y Combinator, Lightspeed, Formosa, Pioneer Fund, Olive Tree, N1; updated
-    true-ventures.md and gv.md portfolios

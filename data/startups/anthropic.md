@@ -149,7 +149,7 @@ investors:
 - round: Series F (co-lead)
   slug: divesh-makan
   year: 2025
-last_researched: 2026-05-04
+last_researched: 2026-05-28
 location: San Francisco, CA
 name: Anthropic
 sector:
@@ -157,10 +157,10 @@ sector:
 - ai-safety
 - machine-learning
 slug: anthropic
-stage_latest: Series G
+stage_latest: Series H
 status: published
 status_company: active
-total_raised: $67.3B
+total_raised: $132B+
 type: startup
 website: https://www.anthropic.com
 ---
@@ -185,6 +185,7 @@ Anthropic is an American artificial intelligence company founded in 2021 by Dari
 | Series E | Mar 2025 | $3.5B | $61.5B (post) | Lightspeed Venture Partners | Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures [^10] |
 | Series F | Sep 2025 | $13B | $183B (post) | ICONIQ | Fidelity, Lightspeed Venture Partners, Goldman Sachs [^11] |
 | Series G | 2026-02-12 | $30B | $380B (post) | GIC, Coatue (co-led) | D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX (co-leads); Accel, Altimeter, Baillie Gifford, Bessemer, BlackRock, Blackstone, D1 Capital, Fidelity, General Catalyst, Greenoaks, Goldman Sachs Alternatives, Insight Partners, Jane Street, JPMorganChase, Lightspeed, Menlo Ventures, Morgan Stanley, Qatar Investment Authority, Sands, Sequoia, Temasek, TPG [^12][^15][^16] |
+| Series H | 2026-05-28 | $65B | $965B (post) | Altimeter Capital, Dragoneer, Greenoaks, Sequoia Capital (co-led) | Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, Micron; incorporates $15B hyperscaler commitments including Amazon's $5B pledge [^22] |
 
 ## What Investors Say
 
@@ -227,3 +228,5 @@ Dario Amodei has stated that Anthropic exists because its founders believed AI s
 [^20]: TechCrunch, "Amazon doubles down on Anthropic, completing its planned $4B investment," March 27, 2024, accessed May 2026. https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/ — Confirms the $2.75B Tranche 2 closed March 27, 2024 (with Amazon exercising option before end-of-Q1 deadline), bringing total Amazon investment to $4B.
 
 [^21]: Bloomberg, "Amazon (AMZN) Invests Additional $2.75 Billion in Anthropic," March 27, 2024, accessed May 2026. https://www.bloomberg.com/news/articles/2024-03-27/amazon-invests-additional-2-75-billion-in-ai-startup-anthropic — Contemporaneous press confirming the $2.75B additional investment date.
+
+[^22]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Anthropic raised $65B Series H on May 28, 2026 at $965B post-money valuation; round co-led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital with Capital Group, Coatue, and D1 Capital Partners; participants include Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron; incorporates $15B in previously committed hyperscaler investments including Amazon's $5B pledge. Cross-referenced with Crunchbase News, https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/.

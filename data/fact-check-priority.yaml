@@ -1,4 +1,24 @@
 priority:
+- slug: altimeter-capital
+  type: firm
+  reason: "co-led Anthropic Series H $65B at $965B post-money (2026-05-28)"
+  added: 2026-05-28
+- slug: dragoneer
+  type: firm
+  reason: "co-led Anthropic Series H $65B (2026-05-28)"
+  added: 2026-05-28
+- slug: greenoaks-capital
+  type: firm
+  reason: "co-led Anthropic Series H $65B (2026-05-28)"
+  added: 2026-05-28
+- slug: sequoia-capital
+  type: firm
+  reason: "co-led Anthropic Series H $65B (2026-05-28)"
+  added: 2026-05-28
+- slug: founderful
+  type: firm
+  reason: "led Stellar Alpina CHF 3.5M pre-seed (2026-05-28)"
+  added: 2026-05-28
 - slug: founders-fund
   type: firm
   reason: "participated in Cognition $1B+ round (2026-05-27)"
