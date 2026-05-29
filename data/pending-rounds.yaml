@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: MokN raises €12.9 million to combat credential theft as GV makes its first
+    investment in a French startup
+  url: https://www.eu-startups.com/2026/05/mokn-raises-e12-9-million-to-combat-credential-theft-as-gv-makes-its-first-investment-in-a-french-startup/
+  source: eu-startups
+  date_found: '2026-05-29'
+  parsed_company: MokN
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce
     Despite AI Funding Boom'
   url: https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
@@ -978,13 +987,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: stitch-saudi
-- title: Butterfly Medical raised $21M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Butterfly Medical
-  parsed_amount: $21M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-16'
-  slug: butterfly-medical
