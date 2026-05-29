@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Barcelona’s Mafer AI raises €2 million to build an AI operating system for
+    R&D teams in formulation industries
+  url: https://www.eu-startups.com/2026/05/barcelonas-mafer-ai-raises-e2-million-to-build-an-ai-operating-system-for-rd-teams-in-formulation-industries/
+  source: eu-startups
+  date_found: '2026-05-29'
+  parsed_company: Barcelona’s Mafer AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce
     Despite AI Funding Boom'
   url: https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
@@ -979,13 +988,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: butterfly-medical
-- title: Osero raised $13.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Osero
-  parsed_amount: $13.5M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-16'
-  slug: osero
