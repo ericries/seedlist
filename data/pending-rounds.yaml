@@ -73,6 +73,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Anthropic Dominates In An Otherwise
+    Slower Week For Megarounds'
+  url: https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/
+  source: crunchbase
+  date_found: '2026-05-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/29/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-29-2026/
+  source: alleywatch
+  date_found: '2026-05-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce
     Despite AI Funding Boom'
   url: https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
@@ -961,24 +978,3 @@ pending_rounds:
   status: skipped
   processed: '2026-05-18'
   notes: SPAC or aggregator or parse error
-- title: u003e Palo Alto-based Playground previously raised $410M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: u003e Palo Alto-based Playground previously
-  parsed_amount: $410M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: 'The Weekly Notable Startup Funding Report: 5/18/26'
-  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-18-26/
-  source: alleywatch
-  date_found: '2026-05-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-17'
-  notes: Weekly NYC roundup — all named rounds (GovWell, Turnkey, Anomaly Insights)
-    already in profiles from prior cycles
