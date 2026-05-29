@@ -1,4 +1,16 @@
 priority:
+- slug: kfund
+  type: firm
+  reason: "led Mafer AI €2M pre-seed (2026-05-29)"
+  added: 2026-05-29
+- slug: xtx-ventures
+  type: firm
+  reason: "co-led Kopa.ai €2M seed (2026-05-28)"
+  added: 2026-05-29
+- slug: practica-capital
+  type: firm
+  reason: "co-led Kopa.ai €2M seed (2026-05-28)"
+  added: 2026-05-29
 - slug: headline
   type: firm
   reason: "led Fonoa $110M Series C (2026-05-28)"
