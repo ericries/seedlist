@@ -126,6 +126,7 @@ Based on GV's verified portfolio and public data:
 | MOTHER.Tech | Seed (led) | 2026-05-05 | AI / Creator Economy | Private [^11][^12] |
 | Nectar Social | Series A (participated; previously led Seed) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^16] |
 | Flick | Seed (participated; True Ventures led) | 2026-05-14 | AI / Filmmaking | Private [^19] |
+| MokN | Series A (led, €12.9M / $15M) | 2026-05-28 | Cybersecurity / Credential Theft / Identity | Private [^22] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -175,3 +176,5 @@ No independently sourced founder testimonials found.
 [^20]: Wealth.com press release, "Wealth.com Raises $65 Million Series B to Power AI Future of Wealth Management," April 16, 2026. Accessed May 2026. https://www.wealth.com/resources/press/wealth-com-raises-65-million-series-b-to-power-ai-future-of-wealth-management/ — Oversubscribed $65M Series B announced April 16, 2026; new investors Titanium Ventures, Pruven Capital, The K Fund, Dynasty Financial Partners; existing investors Charles Schwab, GV, Citi Ventures, 53 Stations, Anthos Capital, Alumni Ventures. GV led the prior Series A in September 2024.
 
 [^21]: InvestmentNews, "Wealth.com raises $65M Series B as AI adoption accelerates across firms," April 16, 2026. Accessed May 2026. https://www.investmentnews.com/fintech/wealthcom-raises-65m-series-b-as-ai-adoption-accelerates-across-firms/266175 — Independent confirmation of $65M Series B announced April 16, 2026 with GV among returning investors.
+
+[^22]: EU-Startups, "MokN raises €12.9 million to combat credential theft as GV makes its first investment in a French startup," May 29, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/mokn-raises-e12-9-million-to-combat-credential-theft-as-gv-makes-its-first-investment-in-a-french-startup/ — Confirms GV led MokN's €12.9M / $15M Series A on May 28, 2026 (GV's first investment in a French startup); Datadog, Moonfire, and OVNI Capital participated.

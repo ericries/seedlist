@@ -15,14 +15,6 @@ priority:
   type: firm
   reason: "led Fonoa $110M Series C (2026-05-28)"
   added: 2026-05-29
-- slug: index-ventures
-  type: firm
-  reason: "follow-on Fonoa Series C (2026-05-28)"
-  added: 2026-05-29
-- slug: gv
-  type: firm
-  reason: "led MokN €12.9M Series A — first French investment (2026-05-28)"
-  added: 2026-05-29
 - slug: dragoneer
   type: firm
   reason: "co-led Anthropic Series H $65B (2026-05-28)"
@@ -30,10 +22,6 @@ priority:
 - slug: founderful
   type: firm
   reason: "led Stellar Alpina CHF 3.5M pre-seed (2026-05-28)"
-  added: 2026-05-28
-- slug: founders-fund
-  type: firm
-  reason: "participated in Cognition $1B+ round (2026-05-27)"
   added: 2026-05-28
 - slug: graduate-ventures
   type: firm
