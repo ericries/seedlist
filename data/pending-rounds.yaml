@@ -64,6 +64,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (May 25 – May 29)
+  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-25-may-29/
+  source: eu-startups
+  date_found: '2026-05-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce
     Despite AI Funding Boom'
   url: https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
@@ -973,13 +982,3 @@ pending_rounds:
   processed: '2026-05-17'
   notes: Weekly NYC roundup — all named rounds (GovWell, Turnkey, Anomaly Insights)
     already in profiles from prior cycles
-- title: Elliptic raised $120M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Elliptic
-  parsed_amount: $120M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-16'
-  slug: elliptic
