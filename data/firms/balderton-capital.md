@@ -143,6 +143,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | ComplyAdvantage | Series A | 2017 | Fintech/Regtech | Active [^6] |
 | Lovefilm | Early stage | 2004 | Consumer/Entertainment | Acquired by Amazon [^2] |
 | Grand Games | Series A (led, $30M, 2025-01-09) → Series B (led, $70M Growth Fund, 2026-05-11) | 2025-01-09 | Gaming/Mobile Hybrid Casual | Active [^19][^20][^21] |
+| Geordie AI | Series A (led, $30M at ~$180M post-money) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Active [^22] |
 
 This table represents approximately 50 of 275+ known investments (~18%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
@@ -209,3 +210,5 @@ No additional independently sourced founder testimonials found beyond those publ
 [^20]: Balderton Capital, "Grand Games raises $30M Series A to build genre-defining mobile games," January 9, 2025. Accessed May 2026. https://www.balderton.com/news/grand-games-raises-30m-series-a-to-build-genre-defining-mobile-games/ — Confirms Balderton led the $30M Series A on January 9, 2025 (via Early Stage Fund) with Bek Ventures, Laton Ventures, and angel investor Mert Gür participating. Grand Games achieved this 9 months after founding.
 
 [^21]: Tech.eu, "Grand Games raises $70M Series B to scale hybrid casual mobile games," May 11, 2026. Accessed May 2026. https://tech.eu/2026/05/11/grand-games-raises-70m-series-b-to-scale-hybrid-casual-mobile-games/ — Independently confirms Balderton led both the Series A (via Early Stage Fund) and Series B (via Growth Fund), with same set of co-investors participating in both rounds.
+
+[^22]: Fortune, "Exclusive: Geordie AI, cybersecurity startup for AI agents, raises $30 million Series A round," May 28, 2026. Accessed May 2026. https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/ — Confirms Balderton Capital led Geordie AI's $30M Series A on May 28, 2026 at ~$180M post-money valuation; Crosspoint Capital (new) and existing backers General Catalyst and Ten Eleven Ventures participated. Believed to be the largest Series A round for a cybersecurity startup in Europe to date.

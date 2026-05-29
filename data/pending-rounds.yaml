@@ -20,14 +20,31 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Barcelona’s Mafer AI raises €2 million to build an AI operating system for
-    R&D teams in formulation industries
-  url: https://www.eu-startups.com/2026/05/barcelonas-mafer-ai-raises-e2-million-to-build-an-ai-operating-system-for-rd-teams-in-formulation-industries/
-  source: eu-startups
+- title: Navigating The DPI Crunch And Startup Funding
+  url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
+  source: crunchbase
   date_found: '2026-05-29'
-  parsed_company: Barcelona’s Mafer AI
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
+  status: pending
+- title: Oslo-based Cloudgeni raises €858k to build reliable AI agents for secure
+    cloud infrastructure
+  url: https://www.eu-startups.com/2026/05/oslo-based-cloudgeni-raises-e858k-to-build-reliable-ai-agents-for-secure-cloud-infrastructure/
+  source: eu-startups
+  date_found: '2026-05-29'
+  parsed_company: Oslo-based Cloudgeni
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Dublin’s AI TaxTech startup Fonoa raises €94.4 million Series C and buys
+    PwC’s tax platform
+  url: https://www.eu-startups.com/2026/05/dublins-ai-taxtech-startup-fonoa-raises-e94-4-million-series-c-and-buys-pwcs-tax-platform/
+  source: eu-startups
+  date_found: '2026-05-29'
+  parsed_company: Dublin’s AI TaxTech startup Fonoa
+  parsed_amount: null
+  parsed_round: Series C
   status: pending
 - title: MokN raises €12.9 million to combat credential theft as GV makes its first
     investment in a French startup
@@ -35,6 +52,15 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-05-29'
   parsed_company: MokN
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona’s Mafer AI raises €2 million to build an AI operating system for
+    R&D teams in formulation industries
+  url: https://www.eu-startups.com/2026/05/barcelonas-mafer-ai-raises-e2-million-to-build-an-ai-operating-system-for-rd-teams-in-formulation-industries/
+  source: eu-startups
+  date_found: '2026-05-29'
+  parsed_company: Barcelona’s Mafer AI
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -957,33 +983,3 @@ pending_rounds:
   status: processed
   processed: '2026-05-16'
   slug: elliptic
-- title: Fasset raised $51M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Fasset
-  parsed_amount: $51M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-16'
-  slug: fasset
-- title: Crew Carbon raised $25M equity and grant
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Crew Carbon
-  parsed_amount: $25M
-  parsed_round: Equity And Grant
-  status: processed
-  processed: '2026-05-15'
-  slug: crew-carbon
-- title: Stitch raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-16'
-  parsed_company: Stitch
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-16'
-  slug: stitch-saudi

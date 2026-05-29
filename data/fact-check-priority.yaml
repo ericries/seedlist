@@ -1,4 +1,16 @@
 priority:
+- slug: headline
+  type: firm
+  reason: "led Fonoa $110M Series C (2026-05-28)"
+  added: 2026-05-29
+- slug: index-ventures
+  type: firm
+  reason: "follow-on Fonoa Series C (2026-05-28)"
+  added: 2026-05-29
+- slug: gv
+  type: firm
+  reason: "led MokN €12.9M Series A — first French investment (2026-05-28)"
+  added: 2026-05-29
 - slug: dragoneer
   type: firm
   reason: "co-led Anthropic Series H $65B (2026-05-28)"
@@ -10,10 +22,6 @@ priority:
 - slug: founders-fund
   type: firm
   reason: "participated in Cognition $1B+ round (2026-05-27)"
-  added: 2026-05-28
-- slug: balderton-capital
-  type: firm
-  reason: "led Geordie AI $30M Series A (2026-05-28)"
   added: 2026-05-28
 - slug: graduate-ventures
   type: firm
