@@ -1,22 +1,33 @@
 ---
-name: Cognition
-slug: cognition
-type: startup
-website: https://cognition.ai/
-location: San Francisco, CA
+firms:
+- round: ~2023
+  slug: neo
+  year: 2023
+- round: Series C ($400M)
+  slug: index-ventures
+  year: 2025
+- round: Early
+  slug: lux-capital
+  year: 2024
+- round: Series A
+  slug: stripe
+  year: 2024
+- round: Early
+  slug: khosla-ventures
+  year: 2023
+- round: ~2023
+  slug: abstract-ventures
+  year: 2023
+- round: Early
+  slug: conversion-capital
+  year: 2023
+- round: Seed
+  slug: pear-vc
+  year: 2023
+- round: ~2023
+  slug: conviction
+  year: 2023
 founded: 2023
-status_company: active
-sector:
-- ai
-- coding
-- developer-tools
-- ai-agents
-- enterprise-software
-- code-generation
-stage_latest: Growth
-total_raised: $1.4B+
-investors: []
-firms: []
 founders:
 - name: Scott Wu
   role: Co-Founder & CEO
@@ -24,8 +35,57 @@ founders:
   role: Co-Founder
 - name: Walden Yan
   role: Co-Founder
+investors:
+- round: ~2023
+  slug: emily-cohen
+  year: 2023
+- round: Series C ($400M)
+  slug: mike-volpi
+  year: 2025
+- round: Early
+  slug: brandon-reeves
+  year: 2024
+- round: Series A
+  slug: patrick-collison
+  year: 2024
+- round: Early
+  slug: vinod-khosla
+  year: 2023
+- round: '2024'
+  slug: josh-wolfe
+  year: 2024
+- round: Seed
+  slug: ali-partovi
+  year: 2023
+- round: ~2023
+  slug: ramtin-naimi
+  year: 2023
+- round: Early
+  slug: christian-lawless
+  year: 2023
+- round: Seed
+  slug: mar-hershenson
+  year: 2023
+- round: ~2023
+  slug: sarah-guo
+  year: 2023
 last_researched: 2026-05-28
+location: San Francisco, CA
+name: Cognition
+sector:
+- ai
+- coding
+- developer-tools
+- ai-agents
+- enterprise-software
+- code-generation
+slug: cognition
+stage_latest: Growth
 status: published
+status_company: active
+total_raised: $1.4B+
+type: startup
+website: https://cognition.ai/
 ---
 
 ## About

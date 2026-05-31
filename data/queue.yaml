@@ -20489,7 +20489,7 @@ queue:
 - name: Randy Lee
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lifelike Capital
   discovered_from: kevin-lin
@@ -25814,3 +25814,51 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: fred-seibert
+- name: Ironwood Studios
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Lockwood Publishing
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Offworld Industries
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Wonderstorm
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Klei Entertainment
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Dead Astronauts
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Red Rover Interactive
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee
+- name: Wolfhaus Games
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: randy-lee

@@ -1,11 +1,21 @@
 ---
-name: Focused Energy
-slug: focused-energy
-type: startup
-website: https://www.focused-energy.co/
-location: Darmstadt, Germany
+firms:
+- round: Early
+  slug: a-rod-corp
+  year: 2022
 founded: 2021
-status_company: active
+founders:
+- name: Thomas Forner
+  role: Co-Founder & CEO
+- name: Markus Roth
+  role: Co-Founder & CSO
+investors:
+- round: Early
+  slug: alex-rodriguez
+  year: 2022
+last_researched: 2026-05-30
+location: Darmstadt, Germany
+name: Focused Energy
 sector:
 - energy
 - fusion
@@ -13,17 +23,13 @@ sector:
 - climate-tech
 - laser-fusion
 - power-generation
+slug: focused-energy
 stage_latest: Series A
-total_raised: $240M+
-investors: []
-firms: []
-founders:
-- name: Thomas Forner
-  role: Co-Founder & CEO
-- name: Markus Roth
-  role: Co-Founder & CSO
-last_researched: 2026-05-30
 status: published
+status_company: active
+total_raised: $240M+
+type: startup
+website: https://www.focused-energy.co/
 ---
 
 ## About

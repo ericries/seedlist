@@ -1,11 +1,21 @@
 ---
-name: NavigateAI
-slug: navigateai
-type: startup
-website: https://www.navigateai.com/
-location: San Francisco, CA
+firms:
+- round: Seed (led, $25M; Khosla Ventures, Fifth Wall, Lennar, Tishman Speyer, Helix
+    Electric participated)
+  slug: gil-capital
+  year: 2026
 founded: 2025
-status_company: active
+founders:
+- name: Eric Wu
+  role: Co-Founder & CEO
+investors:
+- round: Seed (led, $25M; Khosla Ventures, Fifth Wall, Lennar, Tishman Speyer, Helix
+    Electric participated)
+  slug: elad-gil
+  year: 2026
+last_researched: 2026-05-27
+location: San Francisco, CA
+name: NavigateAI
 sector:
 - ai
 - construction
@@ -14,15 +24,13 @@ sector:
 - workforce
 - ai-agents
 - enterprise-software
+slug: navigateai
 stage_latest: Seed
-total_raised: $25M
-investors: []
-firms: []
-founders:
-- name: Eric Wu
-  role: Co-Founder & CEO
-last_researched: 2026-05-27
 status: published
+status_company: active
+total_raised: $25M
+type: startup
+website: https://www.navigateai.com/
 ---
 
 ## About

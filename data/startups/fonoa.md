@@ -1,11 +1,29 @@
 ---
-name: Fonoa
-slug: fonoa
-type: startup
-website: https://www.fonoa.com/
-location: Dublin, Ireland
+firms:
+- round: '2021'
+  slug: a-star-capital
+  year: 2021
+- round: Moving Capital era
+  slug: karman-ventures
+  year: 2021
 founded: 2019
-status_company: active
+founders:
+- name: Davor Tremac
+  role: Co-Founder & CEO
+- name: Filip Sturman
+  role: Co-Founder
+- name: Ivan Ivankovi
+  role: Co-Founder
+investors:
+- round: '2021'
+  slug: gautam-gupta
+  year: 2021
+- round: Moving Capital era
+  slug: william-barnes
+  year: 2021
+last_researched: 2026-05-29
+location: Dublin, Ireland
+name: Fonoa
 sector:
 - fintech
 - taxtech
@@ -14,19 +32,13 @@ sector:
 - compliance
 - vat
 - regtech
+slug: fonoa
 stage_latest: Series C
-total_raised: $130M+
-investors: []
-firms: []
-founders:
-- name: Davor Tremac
-  role: Co-Founder & CEO
-- name: Filip Sturman
-  role: Co-Founder
-- name: Ivan Ivankovi
-  role: Co-Founder
-last_researched: 2026-05-29
 status: published
+status_company: active
+total_raised: $130M+
+type: startup
+website: https://www.fonoa.com/
 ---
 
 ## About
