@@ -1,4 +1,12 @@
 priority:
+- slug: cvs-health-ventures
+  type: firm
+  reason: "led H1 $40M growth round (2026-05-28)"
+  added: 2026-05-31
+- slug: silicon-road-ventures
+  type: firm
+  reason: "led Rep AI $6.2M Series A extension (2026-05-28)"
+  added: 2026-05-31
 - slug: renown-capital-partners
   type: firm
   reason: "led Utilidata Series C extension $40M (2026-05-28)"
