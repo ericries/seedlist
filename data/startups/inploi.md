@@ -17,7 +17,7 @@ founders:
   - name: "Alex Hanson-Smith"
     role: "Co-founder"
 status: published
-last_researched: 2026-04-21
+last_researched: 2026-05-30
 ---
 
 ## About
@@ -28,7 +28,7 @@ inploi is a London-based candidate-experience platform focused on enterprises wi
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-21 | Growth | £3M (~€3.4M) | YFM Equity Partners | — [^1] |
+| 2026-04-21 | Growth | £3M (~€3.4M) | YFM Equity Partners | — [^1][^4][^5] |
 | 2023-07-25 | Seed | £1.35M | — | Chris Nelson, Julia Ross and others [^3] |
 
 ## What Investors Say
@@ -44,3 +44,5 @@ No independently sourced founder quotes found.
 [^1]: "Peek inside the pitch deck inploi used to raise £3M from YFM Equity Partners for AI hiring agents," Tech Funding News, April 2026. Accessed April 2026. https://techfundingnews.com/inploi-3m-funding-ai-hiring-agents-workday-sap/
 [^2]: "Matthew de la Hey, co-founder and CEO of inploi," EnSpire Oxford. Accessed April 2026. https://enspire.ox.ac.uk/article/matthew-de-la-hey-co-founder-and-ceo-of-inploi
 [^3]: "Recruitment startup inploi raises £1.35 million as it fixes the world of hiring," Tech.eu, July 25, 2023. Accessed April 2026. https://tech.eu/2023/07/25/recruitment-startup-inploi-raises-ps135-million-as-it-fixes-the-world-of-hiring/
+[^4]: BusinessCloud, "YFM leads £3m funding into talent tech innovator inploi," April 21, 2026. Accessed May 2026. https://businesscloud.co.uk/news/yfm-leads-3m-funding-into-talent-tech-innovator-inploi/ — Confirms YFM Equity Partners-led £3M growth round on April 21, 2026 for inploi's AI hiring agents platform.
+[^5]: UKTN, "Talent recruitment platform inploi raises £3m," April 21, 2026. Accessed May 2026. https://www.uktech.news/news/investment-news/talent-recruitment-platform-inploi-raises-3m-20260421 — Independent confirmation of inploi's £3M growth round on April 21, 2026; customers include Compass Group, Wagamama, Gail's, PureGym, and multiple NHS trusts.

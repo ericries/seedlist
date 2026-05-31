@@ -19,7 +19,7 @@ founders:
   - name: "Jack Jia"
     role: "Founder & CEO"
 status: published
-last_researched: 2026-04-30
+last_researched: 2026-05-30
 ---
 
 ## About
@@ -33,7 +33,7 @@ As of the May 2026 financing announcement, Musely reported having served more th
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
 | 2014 | Seed/Early | $20M | DCM | Other investors (undisclosed) [^1] |
-| 2026-05-01 | Non-Dilutive Growth (CVF) | $360M+ | General Catalyst (Customer Value Fund) |  [^1][^2] |
+| 2026-05-01 | Non-Dilutive Growth (CVF) | $360M+ | General Catalyst (Customer Value Fund) | — [^1][^2] |
 
 ## What Investors Say
 
