@@ -18,7 +18,7 @@ total_raised: $15M+
 investors: []
 firms: []
 founders: []
-last_researched: 2026-05-17
+last_researched: 2026-05-31
 status: published
 ---
 

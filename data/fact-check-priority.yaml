@@ -1,12 +1,4 @@
 priority:
-- slug: tcv
-  type: firm
-  reason: "led Corgi Series B1 $106M at $2.6B val (2026-05-28)"
-  added: 2026-05-31
-- slug: index-ventures
-  type: firm
-  reason: "led Garner Health Series E $100M at $2.74B val (2026-05-29)"
-  added: 2026-05-31
 - slug: renown-capital-partners
   type: firm
   reason: "led Utilidata Series C extension $40M (2026-05-28)"

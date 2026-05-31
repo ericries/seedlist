@@ -123,7 +123,7 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Strava | Growth | 2020s | Consumer/Fitness | Private [^7] |
 | Grow Therapy | Series B (led), D (co-led) | 2022-09-29, 2026-03-03 | Healthcare/Mental Health | Private [^9][^11] |
 | Actively | Series B (co-led) | 2026 | AI/Sales | Private [^10] |
-| Corgi | Series B (led) | 2026-05-06 | Insurtech | Private ($1.3B valuation) [^13] |
+| Corgi | Series B (led) 2026-05-06; Series B1 (led, $106M at $2.6B val) 2026-05-28 | 2026-05-06; 2026-05-28 | Insurtech | Private ($2.6B valuation) [^13][^16] |
 | Mercury | Series D (led, $200M) | 2026-05-20 | Fintech / Digital Banking | Private ($5.2B valuation) [^14][^15] |
 
 This table represents a small fraction of TCV's 350+ total investments [^4]. The firm's portfolio page lists over 100 current and former portfolio companies [^7].
@@ -166,3 +166,5 @@ No independently sourced founder testimonials found. TCV's portfolio founders ha
 [^14]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms TCV led Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C). Existing investors a16z, Coatue, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital participated.
 
 [^15]: CNBC, "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months," May 20, 2026. Accessed May 2026. https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html — Independent confirmation of TCV's lead role; notes Mercury plans to pursue federal bank charter and has 300,000+ customers including 1/3 of early-stage startups.
+
+[^16]: TechCrunch, "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/ — Confirms TCV led Corgi's $106M Series B1 on May 28, 2026 at $2.6B valuation (double the $1.3B Series B valuation from May 6, 2026). Existing investors Prime Capital, Zone 2 Ventures, Oliver Jung, Leblon Capital, Kindred Ventures, Quadri Ventures, First Order Fund, Vocal Ventures, Nordstar, GSBackers, Repeat Ventures, and 8188 Capital participated. Cross-referenced with PR Newswire, https://www.prnewswire.com/news-releases/corgi-reaches-2-6b-valuation-with-106m-series-b1-three-weeks-after-160m-unicorn-round-302784796.html.

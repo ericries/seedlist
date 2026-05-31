@@ -29,7 +29,7 @@ founders:
 - name: Amine Mohamed Aboussalah
   role: Co-Founder
 status: published
-last_researched: 2026-05-05
+last_researched: 2026-05-31
 ---
 
 ## About
@@ -41,7 +41,7 @@ Nace.AI is a Palo Alto-based AI company building "MetaModel," a system that dyna
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2025-03-24 | Seed | $5M | General Catalyst | .406 Ventures, AICONIC Ventures, Coalition Operators, MA7 Ventures [^1][^3][^2] |
-| 2026-03-31 | Seed | $21.5M (cumulative) | General Catalyst | [^4] |
+| 2026-05-05 | Seed | $21.5M (cumulative) | Walden Catalyst | General Catalyst, AME Cloud Ventures, AICONIC Ventures, .406 Ventures, Jerry Yang, MA7 Ventures [^4][^6][^7] |
 
 ## What Investors Say
 
@@ -58,3 +58,5 @@ Dos Bahá, CEO: "AI should work for enterprises, not the other way around. Our M
 [^3]: TechFundingNews, "Google, Meta alums' Nace.AI emerges from stealth with $5M to develop task-specific AI models for enterprises," March 2025. Accessed May 2026. https://techfundingnews.com/google-meta-alums-nace-ai-emerges-from-stealth-with-5m-to-develop-task-specific-ai-models-for-enterprises/
 [^4]: UA News, "A startup from Kazakhstan has raised $21.5 million," March 31, 2026. Accessed May 2026. https://ua.news/en/world/startap-z-korinniam-u-kazakhstani-pidniav-21-5-mln
 [^5]: General Catalyst on X, post quoting Quentin Clark on Nace.AI's MetaModel platform, March 24, 2025. Accessed May 2026. https://x.com/generalcatalyst/status/1904218763857428498
+[^6]: BusinessWire, "Nace.AI Secures $21.5M to Build a Metamodel That Autonomously Runs Enterprise Workflows, With Experts Providing Final Validation," May 5, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260505315897/en/Nace.AI-Secures-$21.5M-to-Build-a-Metamodel-That-Autonomously-Runs-Enterprise-Workflows-With-Experts-Providing-Final-Validation — Walden Catalyst led the $21.5M seed announced May 5, 2026; General Catalyst, AME Cloud Ventures, AICONIC Ventures, .406 Ventures, Jerry Yang, and MA7 Ventures participated.
+[^7]: CityBiz, "Nace.AI Raises $21.5M From Walden Catalyst, General Catalyst and Others," May 2026. Accessed May 2026. https://www.citybiz.co/article/842449/nace-ai-raises-21-5m-from-walden-catalyst-general-catalyst-and-others/
