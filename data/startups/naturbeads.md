@@ -12,7 +12,7 @@ total_raised: "£7.8M + €4.1M grant"
 firms: []
 investors: []
 status: published
-last_researched: 2026-04-23
+last_researched: 2026-05-31
 ---
 
 ## About
@@ -23,7 +23,7 @@ Naturbeads is a Bath, UK-based materials startup, spun out of the University of 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2024-11 | Series A | £7.8M | | Eos Advisory, Progress Tech Transfer, CDP Venture Capital [^1][^2] |
+| 2024-11-15 | Series A | £7.8M | Eos Advisory | Progress Tech Transfer, CDP Venture Capital (Corporate Partners I Fund), PI-NB, Paragon Capital Management (Paragon Ventures I) [^1][^2][^3] |
 | 2026-04-23 | EU Grant | €4.1M | European Union | [^1][^2] |
 
 ## What Investors Say
@@ -38,3 +38,4 @@ No independently sourced founder quotes found.
 
 [^1]: Tech Funding News, "Bath University spinout replacing microplastics with plant beads just got €4.1M to open its Italian factory," April 2026. https://techfundingnews.com/naturbeads-eu-grant-puglia-commercial-plant-biodegradable-microspheres/
 [^2]: University of Bath announcement, "Bath-founded startup Naturbeads receives major new funding for factory," April 2026. https://www.bath.ac.uk/announcements/bath-founded-startup-naturbeads-receives-major-new-funding-for-factory/
+[^3]: BusinessWire, "UK Startup Naturbeads Secures Series A Round to Further Pioneering Technology That Addresses Worldwide Microplastic Pollution," November 14, 2024. Accessed May 2026. https://www.businesswire.com/news/home/20241114197195/en/UK-Startup-Naturbeads-Secures-Series-A-Round-to-Further-Pioneering-Technology-That-Addresses-Worldwide-Microplastic-Pollution — Confirms Eos Advisory led £7.8M Series A on November 15, 2024; existing investor Progress Tech Transfer plus new investors CDP Venture Capital (Corporate Partners I Fund), PI-NB, and Paragon Capital Management (Paragon Ventures I) participated.

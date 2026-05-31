@@ -17,8 +17,10 @@ stage_latest: Growth
 total_raised: $175M+
 investors: []
 firms: []
-founders: []
-last_researched: 2026-05-16
+founders:
+- name: Abe Smith
+  role: CEO
+last_researched: 2026-05-31
 status: published
 ---
 

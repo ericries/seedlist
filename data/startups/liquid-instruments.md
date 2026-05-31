@@ -8,11 +8,14 @@ founded: 2014
 status_company: active
 sector: [hardware, ai, test-measurement, semiconductors, aerospace, deeptech]
 stage_latest: "Series C"
-total_raised: "$50M+"
+total_raised: "$100M+"
 firms: []
 investors: []
+founders:
+- name: Daniel Shaddock
+  role: Co-Founder & CEO
 status: published
-last_researched: 2026-04-29
+last_researched: 2026-05-31
 ---
 
 ## About
@@ -23,7 +26,7 @@ Liquid Instruments is a software-defined test and measurement company that conso
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-28 | Series C | $50M | Keysight Technologies, Australia's National Reconstruction Fund Corporation | [^1][^2] |
+| 2026-04-28 | Series C | $50M | Keysight Technologies, Australia's National Reconstruction Fund Corporation | — [^1][^2] |
 
 ## What Investors Say
 
@@ -31,7 +34,9 @@ No independently sourced investor quotes found.
 
 ## What Founders Say
 
-No independently sourced founder quotes found.
+> "Keysight has long set the standard for precision, innovation and trust in its solutions for the most complex engineering challenges, and its investment is a strong validation of our approach."
+>
+> — Daniel Shaddock, Co-Founder & CEO, Liquid Instruments [^2]
 
 ## Sources
 
