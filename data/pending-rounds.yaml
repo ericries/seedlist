@@ -172,6 +172,15 @@ pending_rounds:
   parsed_amount: $974M
   parsed_round: null
   status: pending
+- title: Black founders raise highest amount of quarterly funding since 2022, but
+    there’s a catch
+  url: https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/
+  source: techcrunch
+  date_found: '2026-05-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Navigating The DPI Crunch And Startup Funding
   url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
   source: crunchbase
@@ -900,18 +909,3 @@ pending_rounds:
   notes: already shipped as lexroom.md (€42.9M Series B 2026-05-19 Left Lane Capital-led
     with Base10 Partners, Eurazeo, Acurio Ventures, Entourage, View Different); removed
     USD parenthetical per currency rule
-- title: Ghent-based Exhibitly raises €1.4 million to bring AI personalisation to
-    B2B events
-  url: https://www.eu-startups.com/2026/05/ghent-based-exhibitly-raises-e1-4-million-to-bring-ai-personalisation-to-b2b-events/
-  source: eu-startups
-  date_found: '2026-05-19'
-  parsed_company: Ghent-based Exhibitly
-  parsed_amount: €1.4M
-  parsed_round: Pre-Seed
-  status: processed
-  processed: '2026-05-19'
-  slug: exhibitly
-  notes: created exhibitly.md (€1.4M Pre-Seed 2026-05-19 led by New School VC with
-    100IN, Allusion Ventures and angels Louis Jonckheere, Jeroen De Wit, Pieter Vanermen,
-    Tanguy Serraes; Ghent EventTech AI personalisation for B2B events; founders Hendrik
-    Franck + Brent Coppens; 114 events signed in first nine months)
