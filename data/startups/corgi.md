@@ -16,6 +16,10 @@ firms:
   round: series-b
   slug: tcv
   year: 2026
+- date: 2026-05-28
+  round: series-b1
+  slug: tcv
+  year: 2026
 - round: Seed
   slug: kindred-ventures
   year: 2024
@@ -37,7 +41,7 @@ investors:
 - round: Seed/Series A
   slug: eric-tarczynski
   year: 2026
-last_researched: 2026-04-30
+last_researched: 2026-05-31
 location: San Francisco, California
 name: Corgi
 sector:
@@ -45,10 +49,10 @@ sector:
 - fintech
 - AI
 slug: corgi
-stage_latest: Series B
+stage_latest: Series B1
 status: published
 status_company: active
-total_raised: $268M
+total_raised: $378M
 type: startup
 website: https://corgi.com
 ---
@@ -63,8 +67,9 @@ Corgi is a San Francisco-based AI-native, full-stack insurance carrier built for
 |------|-------|--------|------|--------------|
 | 2026-01-09 | Series A (incl. seed) | $108M | Y Combinator | Kindred Ventures, Contrary, Oliver Jung, Glade Brook Capital Partners, Seven Stars, Leblon Capital, Fellows Fund, Alumni Ventures, Quadri Ventures, Vocal Ventures, Phosphor Capital, SV Angel [^1] |
 | 2026-05-06 | Series B | $160M | TCV | Oliver Jung, Leblon Capital, Kindred Ventures, Repeat VC, Zone 2 Ventures, Audeo Ventures, Quadri Ventures, First Order Fund, Vocal Ventures, Maiora Ventures, Nordstar, Seven Stars Ventures, Hexa Capital, Alpha Square Group, GSBackers, OurCrowd, Alumni Ventures, Global Growth Fund [^2][^3] |
+| 2026-05-28 | Series B1 | $106M | TCV | Prime Capital, Zone 2 Ventures, Oliver Jung, Leblon Capital, Kindred Ventures, Quadri Ventures, First Order Fund, Vocal Ventures, Nordstar, GSBackers, Repeat Ventures, 8188 Capital [^5][^6] |
 
-The Series A round valued Corgi at $630M [^4]. The Series B round, announced approximately four months after the Series A, valued Corgi at $1.3B [^2].
+The Series A round valued Corgi at $630M [^4]. The Series B round announced May 6, 2026 valued Corgi at $1.3B [^2]. The Series B1 announced May 28, 2026 — just three weeks later — doubled the valuation to $2.6B with substantially the same investor set as the Series B [^5][^6].
 
 ## What Investors Say
 
@@ -88,3 +93,5 @@ The Series A round valued Corgi at $630M [^4]. The Series B round, announced app
 [^2]: TechCrunch, "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A," May 6, 2026, accessed April 2026. https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/
 [^3]: Yahoo Finance, "Corgi Raises $160 Million Series B to Continue Expanding Its Full-Stack Insurance Platform Into New Verticals," May 6, 2026, accessed April 2026. https://finance.yahoo.com/sectors/technology/articles/corgi-raises-160-million-series-160000034.html
 [^4]: Axios Pro Fintech Deals, "Startup insurer Corgi raises $108 million," January 8, 2026, accessed April 2026. https://www.axios.com/pro/fintech-deals/2026/01/08/startup-insurer-corgi-108-million-630-million-valuation
+[^5]: TechCrunch, "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/
+[^6]: PR Newswire, "Corgi Reaches $2.6B Valuation With $106M Series B1 Three Weeks After $160M Unicorn Round," May 28, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/corgi-reaches-2-6b-valuation-with-106m-series-b1-three-weeks-after-160m-unicorn-round-302784796.html
