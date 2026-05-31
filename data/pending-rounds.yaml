@@ -20,6 +20,158 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Axios Anthropic has raised $65B Series H
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Axios Anthropic has
+  parsed_amount: $65B
+  parsed_round: Series H
+  status: pending
+- title: Focused Energy raised $240M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Focused Energy
+  parsed_amount: $240M
+  parsed_round: Series A
+  status: pending
+- title: Corgi raised $106M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Corgi
+  parsed_amount: $106M
+  parsed_round: null
+  status: pending
+- title: Garner Health raised $100M Series E
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Garner Health
+  parsed_amount: $100M
+  parsed_round: Series E
+  status: pending
+- title: Observable Space raised $90M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Observable Space
+  parsed_amount: $90M
+  parsed_round: null
+  status: pending
+- title: Reactor raised $59M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Reactor
+  parsed_amount: $59M
+  parsed_round: null
+  status: pending
+- title: Inherent raised $50M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Inherent
+  parsed_amount: $50M
+  parsed_round: Seed
+  status: pending
+- title: Gray Swan raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Gray Swan
+  parsed_amount: $40M
+  parsed_round: null
+  status: pending
+- title: H1 raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: H1
+  parsed_amount: $40M
+  parsed_round: null
+  status: pending
+- title: Utilidata raised $40M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Utilidata
+  parsed_amount: $40M
+  parsed_round: Series C
+  status: pending
+- title: LightTable raised $22M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: LightTable
+  parsed_amount: $22M
+  parsed_round: Series A
+  status: pending
+- title: MokN raised $15M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: MokN
+  parsed_amount: $15M
+  parsed_round: Series A
+  status: pending
+- title: Rep AI raised $6.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Rep AI
+  parsed_amount: $6.2M
+  parsed_round: null
+  status: pending
+- title: Modiqo raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Modiqo
+  parsed_amount: $3M
+  parsed_round: null
+  status: pending
+- title: Tribeca Strategic Acquisition raised $175M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: Tribeca Strategic Acquisition
+  parsed_amount: $175M
+  parsed_round: null
+  status: pending
+- title: NextEnergy Capital of London raised $974M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: NextEnergy Capital of London
+  parsed_amount: $974M
+  parsed_round: null
+  status: pending
+- title: of London raised $974M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: of London
+  parsed_amount: $974M
+  parsed_round: null
+  status: pending
+- title: u003e raised $240M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: u003e
+  parsed_amount: $240M
+  parsed_round: Series A
+  status: pending
+- title: u003e of London raised $974M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-05-31'
+  parsed_company: u003e of London
+  parsed_amount: $974M
+  parsed_round: null
+  status: pending
 - title: Navigating The DPI Crunch And Startup Funding
   url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
   source: crunchbase
@@ -77,6 +229,14 @@ pending_rounds:
     Slower Week For Megarounds'
   url: https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/
   source: crunchbase
+  date_found: '2026-05-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 5/29/2026'
+  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-29-2026/
+  source: alleywatch
   date_found: '2026-05-29'
   parsed_company: null
   parsed_amount: null
@@ -755,228 +915,3 @@ pending_rounds:
     100IN, Allusion Ventures and angels Louis Jonckheere, Jeroen De Wit, Pieter Vanermen,
     Tanguy Serraes; Ghent EventTech AI personalisation for B2B events; founders Hendrik
     Franck + Brent Coppens; 114 events signed in first nine months)
-- title: 'Forget the feed: Status AI raises $17M to turn social media into interactive
-    entertainment'
-  url: https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/
-  source: techcrunch
-  date_found: '2026-05-19'
-  parsed_company: 'Forget the feed: Status AI'
-  parsed_amount: $17M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-19'
-  slug: status-ai
-  notes: already shipped as status-ai.md ($17M combined Seed+Series A 2026-05-19 led
-    by General Catalyst with Y Combinator, LightShed Partners, Abstract)
-- title: Stilta raises $10.5M from a16z and YC to help companies rediscover the patents
-    they forgot they had
-  url: https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/
-  source: techcrunch
-  date_found: '2026-05-19'
-  parsed_company: Stilta
-  parsed_amount: $10.5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-19'
-  slug: stilta
-  notes: already shipped as stilta.md ($10.5M Seed 2026-05-19 led by Andreessen Horowitz
-    with Y Combinator and operator-angels from OpenAI, Legora, Lovable)
-- title: Berlin-based bunch bags €30.1 million Series B to modernise Europe’s private
-    markets infrastructure
-  url: https://www.eu-startups.com/2026/05/berlin-based-bunch-bags-e30-1-million-series-b-to-modernise-europes-private-markets-infrastructure/
-  source: eu-startups
-  date_found: '2026-05-19'
-  parsed_company: Berlin-based bunch
-  parsed_amount: €30.1M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-19'
-  slug: bunch
-  notes: already shipped as bunch.md (€30.1M Series B 2026-05-19 led by Portage with
-    Illuminate Financial new, plus follow-ons from Motive Partners, Cherry Ventures,
-    FinTech Collective); removed USD parenthetical per currency rule
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/19/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-19-2026/
-  source: alleywatch
-  date_found: '2026-05-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: All notable rounds (Nourish, Moment, Ocean Security, Eisen) already shipped;
-    smaller rounds skipped.
-- title: Berlin-based LawX raises €7.5 million to build an AI-powered operating system
-    for notaries and law firms
-  url: https://www.eu-startups.com/2026/05/berlin-based-lawx-raises-e7-5-million-to-build-an-ai-powered-operating-system-for-notaries-and-law-firms/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Berlin-based LawX
-  parsed_amount: €7.5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-18'
-  slug: lawx
-  notes: created lawx.md; €7.5M Seed led by Motive Partners with WENVEST Capital,
-    xdeck, SIVentures and angels (Christoph Cordes, Ralph Müller); founders Norman
-    Koschmieder, Torben Rabe, Sara Brinkmann (per Tech Funding News May 18 coverage)
-- title: Copenhagen’s Alcolase secures €1.5 million to develop enzyme-based remedy
-    for alcohol flush
-  url: https://www.eu-startups.com/2026/05/copenhagens-alcolase-secures-e1-5-million-to-develop-enzyme-based-remedy-for-alcohol-flush/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Copenhagen’s Alcolase
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  slug: alcolase
-- title: Milan-based Cosmico raises €12 million, acquires Flatmates to expand Future
-    of Work platform
-  url: https://www.eu-startups.com/2026/05/milan-based-cosmico-raises-e12-million-acquires-flatmates-to-expand-future-of-work-platform/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Milan-based Cosmico
-  parsed_amount: €12M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-18'
-  slug: cosmico
-  notes: created cosmico.md (€12M Series B equity+debt 2026-05-18 led by P101 SGR
-    with Prana Ventures; Milan Talent-as-a-Service; finalized Flatmates 100% acquisition
-    two years ahead of plan; founders Francesco Marino, Simone Tornabene, Matteo Roversi);
-    queued P101 SGR and Prana Ventures as new firms
-- title: Malmö-based Salt & Fiber secures €300k to turn seagrass into sustainable
-    textile yarns; launches crowdfunding campaign
-  url: https://www.eu-startups.com/2026/05/malmo-based-salt-launches-crowdfunding-campaign/
-  source: eu-startups
-  date_found: '2026-05-18'
-  parsed_company: Malmö-based Salt & Fiber
-  parsed_amount: €300K
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  skip_reason: retail crowdfunding campaign launch (€45k crowdfunding target plus
-    separate €300k mixed funding for sustainable seagrass textile pre-commercial pilot),
-    not a VC equity round per Round Feed spec
-- title: Kin Health raises $9M to build an AI notetaker for patients
-  url: https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/
-  source: techcrunch
-  date_found: '2026-05-18'
-  parsed_company: Kin Health
-  parsed_amount: $9M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  slug: kin-health
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/18/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-18-2026/
-  source: alleywatch
-  date_found: '2026-05-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  notes: AlleyWatch daily aggregator; extracted Geni ($1.84M, SEC filing, screen-free
-    AI toy) into new startup profile geni.md. Nof1 already profiled. Violet Therapeutics
-    $4.75M Seed Extension also shipped (separate primary source).
-- title: Palo Alto-based Playground previously raised $410M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Palo Alto-based Playground previously
-  parsed_amount: $410M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Sigma raised $80M Series E
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Sigma
-  parsed_amount: $80M
-  parsed_round: Series E
-  status: processed
-  processed: '2026-05-18'
-  slug: sigma-computing
-- title: Dust raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Dust
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-18'
-  slug: dust
-- title: Searchable raised $14M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Searchable
-  parsed_amount: $14M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-18'
-  slug: searchable
-- title: StitcherAI raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: StitcherAI
-  parsed_amount: $3M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Berto Acquisition II raised $274M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Berto Acquisition II
-  parsed_amount: $274M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Energy Transition Special Opportunities raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Energy Transition Special Opportunities
-  parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Iron Dome Acquisition I raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Iron Dome Acquisition I
-  parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: Patriot Acquisition raised $160M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: Patriot Acquisition
-  parsed_amount: $160M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error
-- title: u003e Palo Alto-based Playground previously raised $410M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-18'
-  parsed_company: u003e Palo Alto-based Playground previously
-  parsed_amount: $410M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-18'
-  notes: SPAC or aggregator or parse error

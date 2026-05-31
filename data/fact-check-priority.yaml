@@ -1,4 +1,20 @@
 priority:
+- slug: lightspeed-venture-partners
+  type: firm
+  reason: "led Reactor $59M Series A (2026-05-28)"
+  added: 2026-05-30
+- slug: wing-venture-capital
+  type: firm
+  reason: "co-led Gray Swan $40M Series A at $200M val (2026-05-28)"
+  added: 2026-05-30
+- slug: madrona
+  type: firm
+  reason: "co-led Gray Swan $40M Series A (2026-05-28)"
+  added: 2026-05-30
+- slug: innovation-endeavors
+  type: firm
+  reason: "led LightTable $22M Series A (2026-05-27)"
+  added: 2026-05-30
 - slug: rwe
   type: firm
   reason: "led Focused Energy $240M Series A — largest in fusion (2026-05-27)"
