@@ -7,17 +7,9 @@ priority:
   type: firm
   reason: "follow-on Focused Energy Series A (2026-05-27)"
   added: 2026-05-30
-- slug: lux-capital
-  type: firm
-  reason: "led Observable Space $90M Series A (2026-05-28)"
-  added: 2026-05-30
 - slug: rtx-ventures
   type: firm
   reason: "co-led Observable Space Series A (2026-05-28)"
-  added: 2026-05-30
-- slug: index-ventures
-  type: firm
-  reason: "co-led Inherent $50M seed (2026-05-28)"
   added: 2026-05-30
 - slug: radical-ventures
   type: firm

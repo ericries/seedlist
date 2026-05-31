@@ -125,6 +125,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Cognichip | Seed + Series A | 2024 | AI / Semiconductors | Active | [^10] |
 | Amca | Series B (participant) | 2026-05-20 | Aerospace & Defense / Manufacturing | Active | [^17] |
 | Armada | Series B (participant) | 2026-05-19 | AI Infrastructure / Edge | Active | [^18] |
+| Observable Space | Series A (led, $90M) | 2026-05-28 | Space / Defense / Lasercom | Active | [^20] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -171,3 +172,5 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^18]: PR Newswire, "Armada Announces Agreement with Johnson Controls for Galleon Forge One; Raises $230M in Oversubscribed Series B," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/armada-announces-agreement-with-johnson-controls-for-galleon-forge-one-raises-230m-in-oversubscribed-series-b-with-a-pre-money-valuation-of-2b-to-accelerate-deployment-of-the-us-ai-stack-and-support-explosive-customer-demand--302775720.html
 
 [^19]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms Lux Capital co-led Cognition's $1B+ round on May 27, 2026 at $26B post-money valuation with General Catalyst and 8VC; Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, and Layer Global participated.
+
+[^20]: Observable Space, "Observable Space Closes $90 Million Series A to Scale Manufacturing and Turnkey Lasercom Platform, Announces $94 Million U.S. Space Force Contract," May 28, 2026. Accessed May 2026. https://observable.space/news/observable-space-closes-90-million-series-a-to-scale-manufacturing-and-turnkey-lasercom-platform-announces-94-million-u-s-space-force-contract/ — Confirms Lux Capital led Observable Space's $90M Series A on May 28, 2026; RTX Ventures, Upfront Ventures, Detroit Venture Partners, and Island Green Capital were co-leads; BRV Capital, Fathom Fund, and Venrex also participated. Observable Space simultaneously announced a $94M Space Force contract.

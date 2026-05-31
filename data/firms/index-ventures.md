@@ -148,6 +148,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Multiverse | Growth (participated, €60M at €1.8B val) | 2026-05-15 | EdTech / AI Workforce Training | [^48][^49] |
 | Scope | Series A (led, €17.3M / ~$20M) | 2026-05-22 | AI / Industrial Inspection / TIC | [^50][^51] |
 | Fonoa | Series C (follow-on, $110M; Headline led) | 2026-05-28 | Fintech / TaxTech / AI Compliance | [^52] |
+| Inherent | Seed (co-led with Radical Ventures, $50M) | 2026-05-28 | AI / Research / Scientific Discovery | [^53] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -236,4 +237,6 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^51]: Vestbee, "Scope secures $20M led by Index Ventures to transform industrial inspection," May 2026. Accessed May 2026. https://www.vestbee.com/insights/articles/scope-secures-20-m — Independent confirmation: Scope (founded 2024, London) serves inspectors from 6 of top 10 global TIC inspection companies; 9x ARR growth since July 2025 launch with 100% pilot conversion rate.
 
 [^52]: EU-Startups, "Dublin's AI TaxTech startup Fonoa raises €94.4 million Series C and buys PwC's tax platform," May 29, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/dublins-ai-taxtech-startup-fonoa-raises-e94-4-million-series-c-and-buys-pwcs-tax-platform/ — Confirms Index Ventures as existing investor participating in Fonoa's $110M (€94.4M) Series C on May 28, 2026; Headline led; Eurazeo and Forestay Capital joined as new investors alongside existing backers OMERS, Coatue, and Dawn Capital. Fonoa simultaneously acquired Indirect Tax Edge from PwC.
+
+[^53]: Index Ventures, "Inherent: Designing for Discovery," May 28, 2026. Accessed May 2026. https://www.indexventures.com/perspectives/inherent-designing-for-discovery/ — Confirms Index Ventures co-led Inherent's $50M seed with Radical Ventures on May 28, 2026; NVentures (NVIDIA), Ex/Ante, Metaplanet, Macroscopic Ventures, and Mythos Ventures participated. London-based AI research lab building Faraday system; co-founders Tantum Collins, Edward Hughes, Louis Kirsch (ex-DeepMind) and Kaloyan Aleksiev (ex-Reka, Microsoft).
 
