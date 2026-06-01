@@ -162429,7 +162429,8 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: "Resolved to 2023-06 (Finsmes 2023-06 announcement; TechCrunch 2023-10-04 references seed ~4 months prior). Added citation [^45]."
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Rainmaker
@@ -162449,7 +162450,8 @@ vague_facts:
   line: '| Marathon Fusion | Seed (co-lead) | 2024 | Fusion Energy | [^22] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: "Resolved to 2024-07-18 via PR Newswire announcement (existing citation [^22] confirms exact date)."
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Solideon
