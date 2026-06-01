@@ -11,9 +11,13 @@ stage_latest: "Growth"
 total_raised: "$21M+"
 investors: []
 firms: []
-founders: []
+founders:
+- name: Tom Loveland
+  role: Co-Founder
+- name: Ryan Johnson
+  role: Co-Founder
 status: published
-last_researched: 2026-05-26
+last_researched: 2026-05-31
 ---
 
 ## About
@@ -24,7 +28,7 @@ Findd is an AI-native workforce management platform purpose-built for frontline 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-20 | Growth | $21M | Unbundled Capital | [^1] [^2] |
+| 2026-05-20 | Growth | $21M | Unbundled Capital | — [^1][^2] |
 
 ## What Investors Say
 
@@ -32,7 +36,9 @@ No independently sourced investor commentary found at this time beyond press-rel
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+> "Frontline workers represent roughly 80% of the global workforce, yet they remain one of the most underserved segments."
+>
+> — Tom Loveland, Co-Founder, Findd [^1]
 
 ## Sources
 
