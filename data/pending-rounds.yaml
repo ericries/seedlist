@@ -181,6 +181,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Weekly Notable Startup Funding Report: 6/1/26'
+  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-6-1-26/
+  source: alleywatch
+  date_found: '2026-05-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Navigating The DPI Crunch And Startup Funding
   url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
   source: crunchbase
@@ -895,17 +903,3 @@ pending_rounds:
   status: skipped
   processed: '2026-05-19'
   skip_reason: VC fund first close (Mouro Capital is a VC firm), not a startup round
-- title: Italian AI LegalTech startup Lexroom raises €42.9 million Series B eight
-    months after €16.2 million Series A
-  url: https://www.eu-startups.com/2026/05/italian-ai-legaltech-startup-lexroom-raises-e42-9-million-series-b-eight-months-after-e16-2-million-series-a/
-  source: eu-startups
-  date_found: '2026-05-19'
-  parsed_company: Italian AI LegalTech startup Lexroom
-  parsed_amount: null
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-19'
-  slug: lexroom
-  notes: already shipped as lexroom.md (€42.9M Series B 2026-05-19 Left Lane Capital-led
-    with Base10 Partners, Eurazeo, Acurio Ventures, Entourage, View Different); removed
-    USD parenthetical per currency rule
