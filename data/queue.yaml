@@ -20496,7 +20496,7 @@ queue:
 - name: Jason Lin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lifelike Capital
   discovered_from: kevin-lin
@@ -25862,3 +25862,27 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: randy-lee
+- name: Super Capital Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jason-lin
+- name: AUM Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jason-lin
+- name: Softmax
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jason-lin
+- name: SweGAN
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jason-lin

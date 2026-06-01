@@ -15,8 +15,10 @@ stage_latest: Series D
 total_raised: $41M+
 investors: []
 firms: []
-founders: []
-last_researched: 2026-05-24
+founders:
+- name: Peter Schneider
+  role: Co-Founder & Chief Medical Advisor
+last_researched: 2026-06-01
 status: published
 ---
 

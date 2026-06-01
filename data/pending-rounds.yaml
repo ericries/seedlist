@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: $24M
   parsed_round: null
   status: pending
+- title: UK-based Circular11 secures €2.7 million to turn low-grade plastic waste
+    into building materials
+  url: https://www.eu-startups.com/2026/06/uk-based-circular11-secures-e2-7-million-to-turn-low-grade-plastic-waste-into-building-materials/
+  source: eu-startups
+  date_found: '2026-06-01'
+  parsed_company: UK-based Circular11
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich-based encosa raises €25 million to bring battery storage to German
     SMEs
   url: https://www.eu-startups.com/2026/06/munich-based-encosa-raises-e25-million-to-bring-battery-storage-to-german-smes/
@@ -890,13 +899,5 @@ pending_rounds:
   date_found: '2026-05-20'
   parsed_company: Shamrock Capital
   parsed_amount: $813M
-  parsed_round: null
-  status: pending
-- title: Stellus Capital Management raised $1.5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Stellus Capital Management
-  parsed_amount: $1.5B
   parsed_round: null
   status: pending
