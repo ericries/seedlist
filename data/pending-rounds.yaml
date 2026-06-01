@@ -65,6 +65,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Zigging when most are zagging, ex-Meta CTO raises $250M climate fund
+  url: https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/
+  source: techcrunch
+  date_found: '2026-06-01'
+  parsed_company: Zigging when most are zagging, ex-Meta CTO
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
 - title: Axios Anthropic has raised $65B Series H
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -891,13 +899,5 @@ pending_rounds:
   date_found: '2026-05-20'
   parsed_company: Mach Industries
   parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: Shamrock Capital raised $813M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Shamrock Capital
-  parsed_amount: $813M
   parsed_round: null
   status: pending
