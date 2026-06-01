@@ -9228,7 +9228,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 51,
+      "size": 54,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9467,6 +9467,15 @@
         },
         {
           "slug": "ben-kohlmann"
+        },
+        {
+          "slug": "jason-lin"
+        },
+        {
+          "slug": "randy-lee"
+        },
+        {
+          "slug": "fred-seibert"
         }
       ]
     },
@@ -10395,7 +10404,7 @@
       "name": "The Entertainment Tech Investors",
       "tagline": "Gaming, streaming, social, and the creator economy. They understand attention, engagement, and what people do when they're not working.",
       "type": "curated",
-      "size": 13,
+      "size": 15,
       "members": [
         {
           "slug": "bijan-sabet",
@@ -10461,6 +10470,12 @@
           "slug": "kevin-lin",
           "name": "Kevin Lin",
           "firm": "metatheory"
+        },
+        {
+          "slug": "jason-lin"
+        },
+        {
+          "slug": "randy-lee"
         }
       ]
     },
