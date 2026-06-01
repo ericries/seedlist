@@ -108,6 +108,7 @@ Based on 18 verified investments in the portfolio table below, the following pat
 | Toss Bank | Growth | ~2023 | Fintech | Active (unicorn) [^13] |
 | PermitFlow | Series A | 2024 | Construction Tech/SaaS | Active [^24] |
 | PureSpace | Series A | 2025 | PropTech | Active [^13] |
+| Unastella | Series B | 2026 | Aerospace/Rocket Launch | Active [^28] |
 
 Note: This table represents approximately 7% of Altos Ventures' claimed ~250 investments. Years marked with ~ are approximations based on founding year or available context. Altos has invested in many additional companies across the U.S. and South Korea that are not captured here due to limited public data on individual round participation.
 
@@ -166,3 +167,4 @@ No additional independently sourced founder testimonials were found through dedi
 [^25]: Liberty RPF, "Interview with Ho Nam of Altos Ventures," accessed March 2026. https://www.libertyrpf.com/p/interview-with-ho-nam-of-altos-ventures
 [^26]: CNBC, "Why investor Altos Ventures backed Toss' failed entrepreneur founder," September 26, 2019, accessed March 2026. https://www.cnbc.com/2019/09/26/why-investor-altos-ventures-backed-toss-failed-entrepreneur-founder.html
 [^27]: InvestKOREA, "When Opportunity Knocks: Interview with Altos Ventures," accessed March 2026. https://www.investkorea.org/ik-en/bbs/i-5004/detail.do?ntt_sn=490802
+[^28]: Rebecca Bellan, "Unastella, a South Korean rocket startup that launched from home, raises $24M," TechCrunch, June 1, 2026, accessed June 2026. https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
