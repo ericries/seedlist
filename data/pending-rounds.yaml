@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Unastella, a South Korean rocket startup that launched from home, raises
+    $24M
+  url: https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
+  source: techcrunch
+  date_found: '2026-06-01'
+  parsed_company: Unastella, a South Korean rocket startup that launched from home,
+  parsed_amount: $24M
+  parsed_round: null
+  status: pending
+- title: Munich-based encosa raises €25 million to bring battery storage to German
+    SMEs
+  url: https://www.eu-startups.com/2026/06/munich-based-encosa-raises-e25-million-to-bring-battery-storage-to-german-smes/
+  source: eu-startups
+  date_found: '2026-06-01'
+  parsed_company: Munich-based encosa
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: ASML spin-out Invisix raises €20 million Seed round to help chipmakers build
+    what they “can’t yet see”
+  url: https://www.eu-startups.com/2026/06/asml-spin-out-invisix-raises-e20-million-seed-round-to-help-chipmakers-build-what-they-cant-yet-see/
+  source: eu-startups
+  date_found: '2026-06-01'
+  parsed_company: ASML spin-out Invisix
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Lune & Wild raises €2.3 million to scale female-founded, chef-led baby and
+    children’s food brand
+  url: https://www.eu-startups.com/2026/06/lune-wild-raises-e2-3-million-to-scale-female-founded-chef-led-baby-and-childrens-food-brand/
+  source: eu-startups
+  date_found: '2026-06-01'
+  parsed_company: Lune & Wild
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios Anthropic has raised $65B Series H
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -864,42 +900,3 @@ pending_rounds:
   parsed_amount: $1.5B
   parsed_round: null
   status: pending
-- title: Digital Banking Startup Mercury Lands $200M At $5.2B Valuation Amid Fintech
-    Funding Uptick
-  url: https://news.crunchbase.com/venture/fintech-funding-digital-banking-startup-mercury-lands-200m/
-  source: crunchbase
-  date_found: '2026-05-20'
-  parsed_company: Digital Banking Startup Mercury
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/20/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-20-2026/
-  source: alleywatch
-  date_found: '2026-05-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Munich’s Feldwerke secures €12 million revolving credit facility to build
-    100 MW agri-PV portfolio in 18 months
-  url: https://www.eu-startups.com/2026/05/munichs-feldwerke-secures-e12-million-revolving-credit-facility-to-build-100-mw-agri-pv-portfolio-in-18-months/
-  source: eu-startups
-  date_found: '2026-05-19'
-  parsed_company: Munich’s Feldwerke
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-19'
-  skip_reason: revolving credit facility = debt, not a startup VC equity round
-- title: London-based Mouro Capital secures €343.4 million first close for third fund
-    backed by Santander
-  url: https://www.eu-startups.com/2026/05/london-based-mouro-capital-secures-e343-4-million-first-close-for-third-fund-backed-by-santander/
-  source: eu-startups
-  date_found: '2026-05-19'
-  parsed_company: London-based Mouro Capital
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-19'
-  skip_reason: VC fund first close (Mouro Capital is a VC firm), not a startup round
