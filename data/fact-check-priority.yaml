@@ -75,3 +75,11 @@ priority:
   type: firm
   reason: "led Hark $700M Series A at $6B val (2026-05-21) — may need new profile"
   added: 2026-05-21
+- slug: gigascale-capital
+  type: firm
+  reason: "$250M Fund I close 2026-06-01 — newly created profile, verify portfolio claims"
+  added: 2026-06-01
+- slug: mike-schroepfer
+  type: individual
+  reason: "Gigascale Capital Fund I announcement 2026-06-01 — newly created profile"
+  added: 2026-06-01

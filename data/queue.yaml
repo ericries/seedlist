@@ -25911,3 +25911,12 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: auren-hoffman
+- name: Victoria Beasley
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gigascale Capital
+  discovered_from: gigascale-capital
+  source: General Partner at Gigascale Capital alongside founder Mike Schroepfer;
+    named in $250M Fund I announcement
