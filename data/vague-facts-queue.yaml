@@ -162517,7 +162517,8 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: "Resolved to 2026-02-02 via FinSMEs announcement (existing citation [^48] confirms exact date)."
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Truvian Sciences
@@ -162528,7 +162529,8 @@ vague_facts:
     [^11][^50] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: "Resolved to 2024-07-17 via BusinessWire announcement (existing citation [^50] confirms exact date)."
 - profile: firms/a-star-capital
   profile_name: A*
   company: Krea
