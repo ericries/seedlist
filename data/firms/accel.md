@@ -203,7 +203,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | True Anomaly | Series D ($650M) | 2026-04-28 | Space/Defense | [^9][^44] |
 | True Anomaly | Series C (led, $260M) | 2025-04-30 | Space/Defense | [^9][^60] |
 | Anthropic | Growth | 2024 | AI | [^9] |
-| Nebius Group | Growth | 2024 | AI Infrastructure | [^9] |
+| Nebius Group | Strategic Equity ($700M, oversubscribed) | 2024-12-02 | AI Infrastructure | [^9][^80][^81] |
 | n8n | Series C ($180M, led) | 2025-10-09 | AI/Automation | [^9][^60][^61] |
 | Synthesia | Series C ($90M, led, $1B valuation) | 2023-06-13 | AI/Video | [^62][^63][^64] |
 | Synthesia | Series E ($200M, participated) | 2026-01-26 | AI/Video | [^65][^66] |
@@ -213,7 +213,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Vox Media | Early | 2011 | Media | [^6] |
 | MoPub | Early | 2010 | Advertising | [^6] |
 
-| Oasis Security | Series A | 2024 | Cybersecurity/Identity | [^14] |
+| Oasis Security | Series A Extension ($35M) | 2024-05-01 | Cybersecurity/Identity | [^14][^82][^83] |
 | Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
 | Legora | Series D (led, $550M, $5.55B post) | 2026-03-10 | AI/Legal Tech | [^16] |
 | Oolka | Series A (led, ₹130 Cr, ₹730 Cr post-money valuation) | 2026-04-30 | Fintech/AI/India | [^37][^48][^49][^50] |
@@ -371,3 +371,11 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^78]: Sifted, "Balderton-backed payments startup Primer raises $100m Series C," May 2026. Accessed May 2026. https://sifted.eu/articles/primer-raises-100m-series-c — Confirms Accel participated in Primer's $100M Series C on May 20, 2026 led by Sofina; Peak XV Partners, Balderton, ICONIQ, Tencent, Speedinvest also participated. Total funding $170M.
 
 [^79]: Axios Pro Rata, "Perceptic raises $12M seed from Accel, Air Street Capital, and Elder Gull," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Accel led Perceptic's $12M seed on May 26, 2026 with Air Street Capital and Elder Gull participating.
+
+[^80]: Nebius newsroom, "Nebius announces oversubscribed strategic equity financing of USD 700 million to accelerate roll-out of full-stack AI infrastructure," December 2, 2024. Accessed June 2026. https://nebius.com/newsroom/nebius-announces-oversubscribed-strategic-equity-financing-of-usd-700-million-to-accelerate-roll-out-of-full-stack-ai-infrastructure — Confirms $700M private placement closed December 2, 2024 with Accel, NVIDIA, and Orbis Investments participating; Accel's Matt Weigand granted board observer rights with intent to nominate as director.
+
+[^81]: TechCrunch, "European AI infrastructure company Nebius nabs $700M from Nvidia, Accel, others," December 2, 2024. Accessed June 2026. https://techcrunch.com/2024/12/02/european-ai-infrastructure-company-nebius-nabs-700m-from-nvidia-accel-others/ — Contemporaneous press confirmation of December 2, 2024 announcement date and Accel participation.
+
+[^82]: SecurityWeek, "Oasis Security Raises $35 Million to Tackle Non-Human Identity Management," May 1, 2024. Accessed June 2026. https://www.securityweek.com/oasis-security-raises-35-million-to-tackle-non-human-identity-management/ — Confirms Oasis Security's $35M Series A Extension announced May 1, 2024, led by existing investors Accel, Sequoia Capital, and Cyberstarts.
+
+[^83]: Bloomberg, "Sequoia-Backed Oasis Security Raises $35 Million for Emerging Credentials Threat," May 1, 2024. Accessed June 2026. https://www.bloomberg.com/news/articles/2024-05-01/sequoia-backed-oasis-security-raises-35-million-for-emerging-credentials-threat — Contemporaneous Bloomberg confirmation of May 1, 2024 announcement.
