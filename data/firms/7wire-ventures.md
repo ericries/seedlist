@@ -102,7 +102,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | Jasper Health | Seed | 2021 | Oncology care navigation | Active | [^25][^36] |
 | Zerigo Health | Early | 2014 | Dermatology / phototherapy | Active | [^20][^37] |
 | FOLX Health | Series B | 2022 | LGBTQIA+ virtual care | Active | [^21][^38] |
-| Parsley Health | Growth | 2023 | Chronic disease virtual clinic | Active | [^26][^5] |
+| Parsley Health | Growth | 2023-10 | Chronic disease virtual clinic | Active | [^26][^5] |
 | PayZen | Series A | 2021 | Healthcare affordability | Active | [^18][^39] |
 | Homethrive | Series A | 2020 | Caregiving / aging in place | Active | [^19][^24] |
 | MedArrive | Series A | 2021 | At-home care delivery | Active | [^22][^40] |

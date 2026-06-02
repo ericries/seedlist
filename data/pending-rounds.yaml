@@ -28,7 +28,9 @@ pending_rounds:
   parsed_company: London’s DEScycle
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: GRANT funding (non-dilutive), not VC equity round
+  processed_date: '2026-06-02'
 - title: Used by Desigual, AWWG and Fútbol Emotion, Spanish AI fashion platform Modelia
     raises €1.03 million
   url: https://www.eu-startups.com/2026/06/used-by-desigual-awwg-and-futbol-emotion-spanish-ai-fashion-platform-modelia-raises-e1-03-million/
@@ -36,9 +38,11 @@ pending_rounds:
   date_found: '2026-06-02'
   parsed_company: Used by Desigual, AWWG and Fútbol Emotion, Spanish AI fashion platform
     Modelia
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €1.03M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile modelia.md (€1.03M Seed 2026-06-02 led by Next Tier with Rapid Scale and Archipelago Next)
+  processed_date: '2026-06-02'
 - title: Board, the new game startup from Mirror founder Brynn Putnam, raises $20M,
     has already sold thousands
   url: https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/
@@ -388,7 +392,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: trend/aggregator article, not a single startup round
+  processed_date: '2026-06-02'
 - title: 'The Weekly Notable Startup Funding Report: 6/1/26'
   url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-6-1-26/
   source: alleywatch
@@ -396,7 +402,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: weekly aggregator roundup; constituent rounds captured via direct daily processing
+  processed_date: '2026-06-02'
 - title: Navigating The DPI Crunch And Startup Funding
   url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
   source: crunchbase
@@ -404,25 +412,31 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: trend/analysis article, not a single startup round
+  processed_date: '2026-06-02'
 - title: Oslo-based Cloudgeni raises €858k to build reliable AI agents for secure
     cloud infrastructure
   url: https://www.eu-startups.com/2026/05/oslo-based-cloudgeni-raises-e858k-to-build-reliable-ai-agents-for-secure-cloud-infrastructure/
   source: eu-startups
   date_found: '2026-05-29'
   parsed_company: Oslo-based Cloudgeni
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €858K
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created startup profile cloudgeni.md (€858K Pre-Seed 2026-05-29 led by byFounders Angel Collective with Startuplab, Antler, and angels)
+  processed_date: '2026-06-02'
 - title: Dublin’s AI TaxTech startup Fonoa raises €94.4 million Series C and buys
     PwC’s tax platform
   url: https://www.eu-startups.com/2026/05/dublins-ai-taxtech-startup-fonoa-raises-e94-4-million-series-c-and-buys-pwcs-tax-platform/
   source: eu-startups
   date_found: '2026-05-29'
   parsed_company: Dublin’s AI TaxTech startup Fonoa
-  parsed_amount: null
+  parsed_amount: €94.4M
   parsed_round: Series C
-  status: pending
+  status: processed
+  notes: fonoa.md already published with 2026-05-28 Series C €94.4M ($110M) led by Headline with Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital
+  processed_date: '2026-06-02'
 - title: MokN raises €12.9 million to combat credential theft as GV makes its first
     investment in a French startup
   url: https://www.eu-startups.com/2026/05/mokn-raises-e12-9-million-to-combat-credential-theft-as-gv-makes-its-first-investment-in-a-french-startup/
@@ -440,9 +454,11 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-05-29'
   parsed_company: Barcelona’s Mafer AI
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €2M
+  parsed_round: Pre-Seed
+  status: processed
+  notes: mafer-ai.md already published with 2026-05-29 Pre-Seed €2M led by Kfund with 4Founders Capital, Masia, Lavanda Ventures, and angels
+  processed_date: '2026-06-02'
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (May 25 – May 29)
   url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-25-may-29/

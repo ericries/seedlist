@@ -162518,7 +162518,8 @@ vague_facts:
     | [^26][^41] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: Refined "2023" to "2023-10" per MedCity News and FierceHealthcare; 7wireVentures' $217M Growth & Opportunity Fund closed October 2023 and named Parsley Health as a follow-on investment from that fund.
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: When Insurance

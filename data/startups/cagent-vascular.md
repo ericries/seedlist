@@ -30,7 +30,7 @@ Cagent Vascular is a Pennsylvania-based medical device company developing the Se
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-19 | Series D | $41M | US Venture Partners, Astoria Health Investors | [^1][^2] |
+| 2026-05-19 | Series D | $41M | U.S. Venture Partners, Astoria Health Investors | — [^1][^2] |
 
 ## What Investors Say
 
