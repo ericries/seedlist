@@ -39,6 +39,57 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Board, the new game startup from Mirror founder Brynn Putnam, raises $20M,
+    has already sold thousands
+  url: https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/
+  source: techcrunch
+  date_found: '2026-06-02'
+  parsed_company: Board, the new game startup from Mirror founder Brynn Putnam,
+  parsed_amount: $20M
+  parsed_round: null
+  status: pending
+- title: Meta tests ‘Series’ for episodic Reels on Instagram and Facebook
+  url: https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/
+  source: techcrunch
+  date_found: '2026-06-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: ZeroDrift raises $10M to protect AI models from themselves
+  url: https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/
+  source: techcrunch
+  date_found: '2026-06-02'
+  parsed_company: ZeroDrift
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Rocket engine startup Impulse raises $500 million to hire people, not AI
+  url: https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
+  source: techcrunch
+  date_found: '2026-06-02'
+  parsed_company: Rocket engine startup Impulse
+  parsed_amount: $500M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Defense Startup Funding Hits An All-Time Record As VCs
+    Begin To Eye Exits'
+  url: https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/
+  source: crunchbase
+  date_found: '2026-06-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona’s Zazume raises €2.5 million to scale its AI-powered rental management
+    platform
+  url: https://www.eu-startups.com/2026/06/barcelonas-zazume-raises-e2-5-million-to-scale-its-ai-powered-rental-management-platform/
+  source: eu-startups
+  date_found: '2026-06-02'
+  parsed_company: Barcelona’s Zazume
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Unastella, a South Korean rocket startup that launched from home, raises
     $24M
   url: https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
@@ -873,77 +924,3 @@ pending_rounds:
   notes: created remotepass.md ($17.4M Series B 2026-05-20 led by EBRD Venture Capital
     with 500 Global, Oraseya Capital, 212 VC, Access Bridge Ventures, Khwarizmi Ventures;
     London global payroll/employment fintech; founders Kamal Reggad + Karim Nadi)
-- title: Status AI raised $17M combined seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Status AI
-  parsed_amount: $17M
-  parsed_round: Combined Seed And Series A
-  status: processed
-  processed: '2026-05-21'
-  slug: status-ai
-  notes: already shipped as status-ai.md ($17M Series A 2026-05-19 led by General
-    Catalyst)
-- title: Texture raised $12.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Texture
-  parsed_amount: $12.5M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-21'
-  slug: texture
-  notes: already shipped as texture.md ($12.5M Series A 2026-05-20 co-led by VoLo
-    Earth Ventures and Equal Ventures with Lerer Hippeau and Abstract Ventures)
-- title: Tribal raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Tribal
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-21'
-  slug: tribal
-  notes: already shipped as tribal.md ($10M Seed 2026-05-20 led by Team8 with DYDX
-    Capital and Salesforce ecosystem angels)
-- title: Century Health raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Century Health
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-21'
-  slug: century-health
-  notes: created century-health.md ($5M Seed 2026-05-19 led by Origin Ventures with
-    InnovateHealth Ventures, 25madison, Next Play Ventures, 2048 Ventures, Alumni
-    Ventures, angel Zorba Lieberman; NYC real-world evidence / clinical data AI; founder
-    Vish Srivastava)
-- title: Stilta raised $10.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Stilta
-  parsed_amount: $10.5M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-21'
-  slug: stilta
-  notes: already shipped as stilta.md ($10.5M Seed 2026-05-19, AI legal/IP)
-- title: Infrawatch raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Infrawatch
-  parsed_amount: $3M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-21'
-  slug: infrawatch
-  notes: created infrawatch.md (£2.2M Pre-Seed 2026-05-20 co-led by Outward VC and
-    Triple Point Ventures with Portfolio Ventures and angels; London cybersecurity
-    infrastructure intelligence; founder Lloyd Davies)
