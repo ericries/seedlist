@@ -11,7 +11,7 @@ sector_focus: [climate-tech, energy, grid-infrastructure, critical-minerals, ind
 team:
   - slug: mike-schroepfer
     role: Founder & Managing Partner
-  - name: "Victoria Beasley"
+  - slug: victoria-beasley
     role: General Partner
 status: published
 last_researched: 2026-06-01
