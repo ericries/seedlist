@@ -162418,7 +162418,8 @@ vague_facts:
   line: '| Positron AI | Seed | 2024 | AI Inference Hardware | [^4][^35] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: "Resolved to 2025-02-11 via Reuters/Yahoo Finance announcement of $23.5M seed (1517 Fund listed as participant). Note: the original '2024' year was incorrect — public seed announcement was Feb 11, 2025. Added citation [^46]."
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Mach Industries
@@ -162440,7 +162441,8 @@ vague_facts:
   line: '| Rainmaker | Seed | 2024 | Climate Tech / Cloud Seeding | [^4][^37] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: "Resolved to 2024-05-07 via Fortune announcement (existing citation [^37] confirms exact date)."
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Marathon Fusion
