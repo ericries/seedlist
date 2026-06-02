@@ -47,7 +47,7 @@ No independently sourced investor quotes found at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+"The rapid adoption by major companies and the results achieved with our first solution have confirmed one thing: this approach must go further. Today, we are laying the groundwork for Active Identity Recovery by extending proactive recovery to all forms of identity, with the ambition of making it a new global standard for identity protection." — Gautier Bugeon, CEO and co-founder, MokN, May 2026 [^3]
 
 ## Sources
 

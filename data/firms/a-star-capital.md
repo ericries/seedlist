@@ -84,7 +84,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | EyeTell | Seed (led, amount undisclosed) | 2023-11-14 | AI/Video | Active [^17] |
 | Faire | Series B+ | ~2021 | Wholesale Marketplace | Active [^2] |
 | Flock Safety | Series C | 2020 | Public Safety | Active [^20] |
-| Krea | Seed ($3M, led by Pebblebed) | 2023 | AI/Creative Tools | Active [^1][^32][^33] |
+| Krea | Seed ($3M, led by Pebblebed) | 2023-03 | AI/Creative Tools | Active [^1][^32][^33] |
 ~unknown| Mach Industries | — | — | Defense/Drones | Active [^15] |
 | Mercor | Series A (Benchmark led) | 2024-09-18 | AI/HR Marketplace | Active [^12][^31] |
 ~unknown| Multiply | — | — | AI/Fintech | Active [^15] |

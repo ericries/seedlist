@@ -37,11 +37,13 @@ Rep AI is an AI operating system for e-commerce led by CEO and co-founder Yoav O
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+"Brands are seeking scalable, revenue-driving agentic AI infrastructure rather than isolated point solutions." — Sid Mookerji, Silicon Road Ventures, May 2026 [^1]
+
+"True AI integration in retail requires more than a chatbot; it requires deep understanding of shopper behavior." — Adrian McDermott, CTO, Zendesk, May 2026 [^1]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+"This funding validates our vision of building a unified AI operating system for ecommerce." — Yoav Oz, Co-Founder and CEO, Rep AI, May 2026 [^1]
 
 ## Sources
 
