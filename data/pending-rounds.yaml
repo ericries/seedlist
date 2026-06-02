@@ -90,6 +90,39 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Verizon announces pricing terms of its tender offers and consent solicitations
+    for 20 series of Verizon and certain of its subsidiaries’ notes
+  url: https://www.globenewswire.com/news-release/2026/06/02/3305526/0/en/Verizon-announces-pricing-terms-of-its-tender-offers-and-consent-solicitations-for-20-series-of-Verizon-and-certain-of-its-subsidiaries-notes.html
+  source: globenewswire
+  date_found: '2026-06-02'
+  parsed_company: Verizon
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Ex-Anduril engineer raises $42M to build the Amazon of composite parts
+  url: https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/
+  source: techcrunch
+  date_found: '2026-06-02'
+  parsed_company: Ex-Anduril engineer
+  parsed_amount: $42M
+  parsed_round: null
+  status: pending
+- title: Focused Energy raises whopping $240M Series A for laser-powered fusion tech
+  url: https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/
+  source: techcrunch
+  date_found: '2026-06-02'
+  parsed_company: Focused Energy
+  parsed_amount: $240M
+  parsed_round: Series A
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/2/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-2-2026/
+  source: alleywatch
+  date_found: '2026-06-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Unastella, a South Korean rocket startup that launched from home, raises
     $24M
   url: https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
@@ -874,53 +907,3 @@ pending_rounds:
   processed: '2026-05-20'
   slug: primer
   notes: already shipped earlier today as primer.md (Series C Accel-led 2026-05-20)
-- title: Radar raised $170M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Radar
-  parsed_amount: $170M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-20'
-  slug: radar
-  notes: already shipped earlier today as radar.md (RADAR $170M Series B 2026-05-20
-    led by Gideon Strategic Partners and Nimble Partners; NYC retail AI / RFID sensors;
-    Spencer Hewett CEO)
-- title: an NYC-based maker of health care AI agents raised $145M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: an NYC-based maker of health care AI agents
-  parsed_amount: $145M
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-20'
-  skip_reason: could not identify specific company from Axios Pro Rata fragment; no
-    primary press confirmed per "when in doubt, leave it out"
-- title: Ocean raised $28M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: Ocean
-  parsed_amount: $28M
-  parsed_round: null
-  status: processed
-  processed: '2026-05-20'
-  slug: ocean-security
-  notes: already shipped as ocean-security.md ($28M venture 2026-05-19 led by Lightspeed
-    with Picture Capital and Cerca Partners; AI-native email security launching from
-    stealth)
-- title: RemotePass raised $17.4M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-20'
-  parsed_company: RemotePass
-  parsed_amount: $17.4M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-05-20'
-  slug: remotepass
-  notes: created remotepass.md ($17.4M Series B 2026-05-20 led by EBRD Venture Capital
-    with 500 Global, Oraseya Capital, 212 VC, Access Bridge Ventures, Khwarizmi Ventures;
-    London global payroll/employment fintech; founders Kamal Reggad + Karim Nadi)
