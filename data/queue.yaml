@@ -20627,7 +20627,7 @@ queue:
 - name: Auren Hoffman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: SafeGraph
   discovered_from: brad-garlinghouse
@@ -25886,3 +25886,28 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: jason-lin
+- name: Brad Flora
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Y Combinator
+  discovered_from: auren-hoffman
+- name: Protege
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: auren-hoffman
+- name: Turnstile
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: auren-hoffman
+- name: Heron Data
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: auren-hoffman

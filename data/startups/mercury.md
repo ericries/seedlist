@@ -44,6 +44,9 @@ firms:
 - round: Seed
   slug: 500-global
   year: 2021
+- round: Series C ($300M round)
+  slug: safegraph
+  year: 2025
 founded: 2017
 founders: []
 investors:
@@ -86,6 +89,9 @@ investors:
 - round: Seed
   slug: christine-tsai
   year: 2021
+- round: Series C ($300M round)
+  slug: auren-hoffman
+  year: 2025
 last_researched: 2026-05-21
 location: San Francisco, CA
 name: Mercury
