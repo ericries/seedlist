@@ -97,8 +97,8 @@ pending_rounds:
   parsed_amount: $65B
   parsed_round: Series H
   status: processed
-  notes: anthropic.md already covers extensive funding history; Series H details
-    handled in prior research cycle
+  notes: anthropic.md already covers extensive funding history; Series H details handled
+    in prior research cycle
 - title: Focused Energy raised $240M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -107,7 +107,8 @@ pending_rounds:
   parsed_amount: $240M
   parsed_round: Series A
   status: processed
-  notes: focused-energy.md already published with 2026-05-27 Series A $240M led by RWE
+  notes: focused-energy.md already published with 2026-05-27 Series A $240M led by
+    RWE
 - title: Corgi raised $106M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -125,7 +126,8 @@ pending_rounds:
   parsed_amount: $100M
   parsed_round: Series E
   status: processed
-  notes: garner-health.md already includes 2026-05-29 Series E $100M led by Index Ventures
+  notes: garner-health.md already includes 2026-05-29 Series E $100M led by Index
+    Ventures
 - title: Observable Space raised $90M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -134,7 +136,8 @@ pending_rounds:
   parsed_amount: $90M
   parsed_round: null
   status: processed
-  notes: observable-space.md already published with 2026-05-28 Series A $90M led by Lux Capital
+  notes: observable-space.md already published with 2026-05-28 Series A $90M led by
+    Lux Capital
 - title: Reactor raised $59M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -179,7 +182,8 @@ pending_rounds:
   parsed_amount: $40M
   parsed_round: Series C
   status: processed
-  notes: utilidata.md already published with 2026-05-28 Series C extension $40M led by Renown Capital Partners
+  notes: utilidata.md already published with 2026-05-28 Series C extension $40M led
+    by Renown Capital Partners
 - title: LightTable raised $22M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -188,7 +192,8 @@ pending_rounds:
   parsed_amount: $22M
   parsed_round: Series A
   status: processed
-  notes: lighttable.md already published with 2026-05-27 Series A $22M led by Innovation Endeavors
+  notes: lighttable.md already published with 2026-05-27 Series A $22M led by Innovation
+    Endeavors
 - title: MokN raised $15M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
