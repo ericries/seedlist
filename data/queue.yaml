@@ -20574,7 +20574,7 @@ queue:
 - name: Jordan Crook
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Betaworks
   discovered_from: john-borthwick
@@ -25920,3 +25920,29 @@ queue:
   discovered_from: gigascale-capital
   source: General Partner at Gigascale Capital alongside founder Mike Schroepfer;
     named in $250M Fund I announcement
+- name: Hopscotch Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jordan-crook
+- name: Tato
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jordan-crook
+- name: Jon Chin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Betaworks
+  discovered_from: jordan-crook
+- name: Analisa Svehaug
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Betaworks
+  discovered_from: jordan-crook

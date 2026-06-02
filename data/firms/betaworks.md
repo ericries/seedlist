@@ -1,18 +1,30 @@
 ---
-name: "Betaworks"
-slug: betaworks
-type: firm
-website: "https://www.betaworks.com"
-location: "New York, New York"
 founded: 2007
-fund_size: "$66M (Fund III, 2025); $46M (Fund II, 2020); $48M (Fund I, 2016)"
-stage_focus: [pre-seed, seed]
-sector_focus: [AI, agents, ai-interfaces, consumer, media, social, developer-tools]
-team:
-  - slug: john-borthwick
-    role: Founder, CEO & Managing Partner
-status: published
+fund_size: $66M (Fund III, 2025); $46M (Fund II, 2020); $48M (Fund I, 2016)
 last_researched: 2026-05-01
+location: New York, New York
+name: Betaworks
+sector_focus:
+- AI
+- agents
+- ai-interfaces
+- consumer
+- media
+- social
+- developer-tools
+slug: betaworks
+stage_focus:
+- pre-seed
+- seed
+status: published
+team:
+- role: Founder, CEO & Managing Partner
+  slug: john-borthwick
+- name: Jordan Crook
+  role: Partner, Betaworks
+  slug: jordan-crook
+type: firm
+website: https://www.betaworks.com
 ---
 
 ## About

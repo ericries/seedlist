@@ -49,10 +49,10 @@ investors:
 - round: series-b
   slug: nat-friedman
   year: 2025
-- round: seed
+- date: 2023-05-08
+  round: seed
   slug: mike-krieger
   year: 2023
-  date: 2023-05-08
 - round: '2025'
   slug: tobi-lutke
   year: 2025
@@ -70,6 +70,10 @@ investors:
   year: 2025
 - round: Seed round participant ($4.25M led by Lightspeed)
   slug: john-borthwick
+  year: 2023
+- round: Seed participant ($4.25M led by Lightspeed); Crook named as Betaworks partner
+    on the deal
+  slug: jordan-crook
   year: 2023
 last_researched: 2026-05-25
 location: London, United Kingdom
