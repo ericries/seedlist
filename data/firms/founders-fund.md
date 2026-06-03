@@ -195,7 +195,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Figma | Series C | 2019 | Design / Developer Tools | Private [^24] |
 | Varda | Early | ~2021 (founded) | Aerospace / Space Manufacturing | Private [^20] |
 | General Matter | Early | ~2025 (founded) | Nuclear Fuel | Private [^20] |
-| Impulse | Early | ~2021 (founded) | Aerospace / Propulsion | Private [^20] |
+| Impulse Space | Early (~2021); Series D (participant, $500M at $4.26B post-money; 137 Ventures and BANNER VC co-led) | ~2021; 2026-06-02 | Aerospace / In-Space Mobility | Private [^20][^56] |
 | Hadrian | Growth | ~2020 (founded) | Advanced Manufacturing | Private [^20] |
 | Enter | Early | ~2023 (founded) | Construction / Robotics | Private [^20] |
 | ARQ | Early | ~2023 (founded) | Defense / Aerospace | Private [^20] |
@@ -393,3 +393,5 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^52]: PR Newswire, "Armada Announces Agreement with Johnson Controls for Galleon Forge One; Raises $230M in Oversubscribed Series B with a Pre-Money Valuation of $2B," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/armada-announces-agreement-with-johnson-controls-for-galleon-forge-one-raises-230m-in-oversubscribed-series-b-with-a-pre-money-valuation-of-2b-to-accelerate-deployment-of-the-us-ai-stack-and-support-explosive-customer-demand--302775720.html — Confirms Founders Fund participated in Armada's $230M Series B on May 19, 2026 at $2B pre-money valuation; round co-led by Overmatch, BlackRock, and 8090 Industries with new strategic investors Johnson Controls, NightDragon, Mitsui, and Singtel Innov8 alongside existing investors Felicis, Marlinspike, Shield Capital, Lux Capital, Silent Ventures, Veriten, and Gladebrook.
 
 [^53]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms Founders Fund participated in Cognition's $1B+ round on May 27, 2026 at $26B post-money; Lux Capital, General Catalyst, and 8VC co-led; Elad Gil, Soma Capital, Omri Casspi, Ribbit Capital, Atreides, and Layer Global also participated.
+
+[^56]: TechCrunch, "Rocket engine startup Impulse raises $500 million to hire people, not AI," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/ — Confirms Founders Fund participated in Impulse Space's $500M Series D on June 2, 2026 at $4.26B post-money valuation; 137 Ventures and BANNER VC co-led; Lux Capital and Linse Capital also participated.

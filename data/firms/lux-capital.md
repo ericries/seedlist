@@ -126,6 +126,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Amca | Series B (participant) | 2026-05-20 | Aerospace & Defense / Manufacturing | Active | [^17] |
 | Armada | Series B (participant) | 2026-05-19 | AI Infrastructure / Edge | Active | [^18] |
 | Observable Space | Series A (led, $90M) | 2026-05-28 | Space / Defense / Lasercom | Active | [^20] |
+| Impulse Space | Series D (participant, $500M at $4.26B post-money; 137 Ventures + BANNER VC co-led) | 2026-06-02 | Aerospace / In-Space Mobility | Active | [^21] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -174,3 +175,5 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^19]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms Lux Capital co-led Cognition's $1B+ round on May 27, 2026 at $26B post-money valuation with General Catalyst and 8VC; Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, and Layer Global participated.
 
 [^20]: Observable Space, "Observable Space Closes $90 Million Series A to Scale Manufacturing and Turnkey Lasercom Platform, Announces $94 Million U.S. Space Force Contract," May 28, 2026. Accessed May 2026. https://observable.space/news/observable-space-closes-90-million-series-a-to-scale-manufacturing-and-turnkey-lasercom-platform-announces-94-million-u-s-space-force-contract/ — Confirms Lux Capital led Observable Space's $90M Series A on May 28, 2026; RTX Ventures, Upfront Ventures, Detroit Venture Partners, and Island Green Capital were co-leads; BRV Capital, Fathom Fund, and Venrex also participated. Observable Space simultaneously announced a $94M Space Force contract.
+
+[^21]: TechCrunch, "Rocket engine startup Impulse raises $500 million to hire people, not AI," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/ — Confirms Lux Capital participated in Impulse Space's $500M Series D on June 2, 2026 at $4.26B post-money valuation; 137 Ventures and BANNER VC co-led; Founders Fund and Linse Capital also participated.

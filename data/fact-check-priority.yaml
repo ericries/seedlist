@@ -87,18 +87,6 @@ priority:
   type: firm
   reason: "co-led Impulse Space Series D $500M at $4.26B val (2026-06-02)"
   added: 2026-06-03
-- slug: founders-fund
-  type: firm
-  reason: "participated in Impulse Space Series D (2026-06-02)"
-  added: 2026-06-03
-- slug: lux-capital
-  type: firm
-  reason: "participated in Impulse Space Series D (2026-06-02)"
-  added: 2026-06-03
-- slug: union-square-ventures
-  type: firm
-  reason: "led Board $20M Series A (2026-06-02) — Michael Mignano's first USV investment"
-  added: 2026-06-03
 - slug: a16z-speedrun
   type: firm
   reason: "led ZeroDrift $10M seed (2026-06-02)"

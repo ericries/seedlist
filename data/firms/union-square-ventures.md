@@ -94,6 +94,7 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 | Behance | Series A | 2012 | Creative Tools | Acquired (2012) | [^4][^23] |
 | Carta | Series A | 2014 | Fintech | Active | [^2][^24] |
 | Helium | Series C | 2019 | Crypto/IoT | Active | [^7][^25] |
+| Board | Series A (led, $20M) | 2026-06-02 | Consumer / Gaming / Hardware | Active | [^26] |
 
 *This table represents approximately 17 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
@@ -140,3 +141,5 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^23]: TechCrunch, "Adobe Acquired Portfolio Service Behance For More Than $150 Million In Cash And Stock," December 21, 2012, accessed April 2026. https://techcrunch.com/2012/12/21/adobe-acquired-portfolio-service-behance-for-more-than-150-million-in-cash-and-stock/
 [^24]: Crunchbase, "Series A - Carta," October 2014, accessed April 2026. https://www.crunchbase.com/funding_round/eshares-series-a--d5468783
 [^25]: Crowdfund Insider, "P2P Networking Platform For IoT Devices Helium Secures $15 Million Through Series C Funding Round Led By Union Square Ventures & Multicoin Capital," June 2019, accessed April 2026. https://www.crowdfundinsider.com/2019/06/148386-p2p-networking-platform-for-iot-devices-helium-secures-15-million-through-series-c-funding-round-led-by-union-square-ventures-multicoin-capital/
+
+[^26]: TechCrunch, "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/ — Confirms Union Square Ventures led Board's $20M Series A on June 2, 2026; this represented Michael Mignano's first investment as USV General Partner (Mignano joining Board's board of directors); angels Biz Stone, Tim Ferriss, and Scott Belsky also participated. Board's connected-screen gaming device is deployed in tens of thousands of homes/schools/hospitals/restaurants across all 50 states.
