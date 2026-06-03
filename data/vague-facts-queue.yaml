@@ -162651,7 +162651,9 @@ vague_facts:
   line: '| Era | Seed | 2026 | AI / Consumer Hardware | Active [^16] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: Updated to 2026-04-23 from TechCrunch announcement; round was $9M seed
+    co-led by Abstract Ventures and BoxGroup (resolved 2026-06-03)
 - profile: firms/accel
   profile_name: Accel
   company: Anthropic
@@ -162661,7 +162663,10 @@ vague_facts:
   line: '| Anthropic | Growth | 2024 | AI | [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: Per accel.com/companies/anthropic, Accel first invested Jan 1, 2025;
+    participation in Series G (announced 2026-02-12). Original 2024 was inaccurate.
+    (resolved 2026-06-03)
 - profile: firms/accel
   profile_name: Accel
   company: Nebius Group

@@ -114,7 +114,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Natural | Seed ($9.8M, co-led) | 2025-10-23 | Fintech / AI Agent Payments | Active [^42][^43][^44] |
 | Telepatia | Seed (participated, $9M) | 2025-10-16 | Healthcare/AI (LatAm) | Active [^36][^37][^38] |
 | Coworker AI | Seed ($13M, participated) | 2025-05-21 | AI / Enterprise | Active [^15][^39][^40][^41] |
-| Era | Seed | 2026 | AI / Consumer Hardware | Active [^16] |
+| Era | Seed (co-led, $9M) | 2026-04-23 | AI / Consumer Hardware | Active [^16] |
 
 Note: Many investment years are approximate, marked with "~", based on company founding years or first known funding rounds. This table represents approximately 7% of Abstract's 500+ total investments. Tracxn reports 192 companies tracked with 83 seed-stage investments averaging $5.52M round sizes [^5].
 

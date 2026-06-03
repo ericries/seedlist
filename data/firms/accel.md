@@ -202,7 +202,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Lovable | Series A ($200M, led, $1.8B valuation) | 2025-07-17 | AI / App Builder | [^9][^38][^39][^40] |
 | True Anomaly | Series D ($650M) | 2026-04-28 | Space/Defense | [^9][^44] |
 | True Anomaly | Series C (led, $260M) | 2025-04-30 | Space/Defense | [^9][^60] |
-| Anthropic | Growth | 2024 | AI | [^9] |
+| Anthropic | Series G (participated) | 2026-02-12 | AI | [^9][^84] |
 | Nebius Group | Strategic Equity ($700M, oversubscribed) | 2024-12-02 | AI Infrastructure | [^9][^80][^81] |
 | n8n | Series C ($180M, led) | 2025-10-09 | AI/Automation | [^9][^60][^61] |
 | Synthesia | Series C ($90M, led, $1B valuation) | 2023-06-13 | AI/Video | [^62][^63][^64] |
@@ -379,3 +379,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^82]: SecurityWeek, "Oasis Security Raises $35 Million to Tackle Non-Human Identity Management," May 1, 2024. Accessed June 2026. https://www.securityweek.com/oasis-security-raises-35-million-to-tackle-non-human-identity-management/ — Confirms Oasis Security's $35M Series A Extension announced May 1, 2024, led by existing investors Accel, Sequoia Capital, and Cyberstarts.
 
 [^83]: Bloomberg, "Sequoia-Backed Oasis Security Raises $35 Million for Emerging Credentials Threat," May 1, 2024. Accessed June 2026. https://www.bloomberg.com/news/articles/2024-05-01/sequoia-backed-oasis-security-raises-35-million-for-emerging-credentials-threat — Contemporaneous Bloomberg confirmation of May 1, 2024 announcement.
+
+[^84]: Accel companies page, "Anthropic," accessed June 2026. https://www.accel.com/companies/anthropic — Lists Accel's first investment in Anthropic as January 1, 2025. Cross-referenced with Tracxn (https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors) confirming Accel participated in the Series G round at $183B valuation (announced February 12, 2026; round may have started accruing commitments earlier).

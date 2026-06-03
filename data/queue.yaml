@@ -20634,7 +20634,7 @@ queue:
 - name: Jon Oringer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Pier 47 Ventures
   discovered_from: brad-garlinghouse
@@ -25999,3 +25999,75 @@ queue:
   added: '2026-03-17'
   discovered_from: zazume
   source: Participated in Zazume €2.5M round via conversion (2026-06-02)
+- name: Atomico
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: factorial
+  source: co-invested Factorial Series D 2026-06-03
+- name: Four Rivers
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: factorial
+  source: co-invested Factorial Series D 2026-06-03
+- name: Bullhound Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oxford-quantum-circuits
+  source: led Oxford Quantum Circuits Series C 2026-06-03 (largest EU quantum round)
+- name: Alpha Edison
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oxford-quantum-circuits
+  source: participated OQC Series C 2026-06-03
+- name: Oxford Science Enterprises
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oxford-quantum-circuits
+  source: follow-on OQC Series C 2026-06-03
+- name: STMicroelectronics Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quobly
+  source: co-led Quobly Series A €115M 2026-06-03
+- name: SEALSQ
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quobly
+  source: co-led Quobly Series A €115M 2026-06-03 via $200M quantum fund
+- name: Innovacom
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quobly
+  source: follow-on Quobly Series A 2026-06-03
+- name: Maud Vinet
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Quobly
+  discovered_from: quobly
+  source: CEO/co-founder Quobly (€115M Series A 2026-06-03)
+- name: Jordi Romero
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Factorial
+  discovered_from: factorial
+  source: co-CEO/co-founder Factorial ($150M Series D 2026-06-03)

@@ -20,6 +20,9 @@ investors:
 - round: 2023-05
   slug: yahya-mokhtarzada
   year: 2023
+- round: Seed
+  slug: jon-oringer
+  year: 2023
 last_researched: 2026-04-28
 location: New York, NY
 name: Zamp
