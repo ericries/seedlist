@@ -162475,7 +162475,10 @@ vague_facts:
   line: '| Solideon | Seed | 2024 | Deep Tech / 3D Printing | [^23][^39] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2024-10-28 via TechCrunch announcement [^39] (article
+    publish date confirms 1517 Fund participation in seed round; no earlier announcement
+    found).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Ceragen
@@ -162485,7 +162488,9 @@ vague_facts:
   line: '| Ceragen | Seed | 2024 | Biotech | [^24][^40] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2024-07-16 via Crunchbase funding round profile [^40]
+    (explicit round date in URL slug).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Miist Therapeutics
@@ -162496,7 +162501,10 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-02-04 via TechCrunch announcement [^41] (article
+    confirms $7M seed with 1517 Fund participation alongside Refactor Capital and
+    Freeflow Ventures).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Rainmaker (Series A follow-on)
@@ -162507,7 +162515,10 @@ vague_facts:
     Seeding | [^24][^37] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-05-05 via Crunchbase Series A round profile and
+    FinSMEs/LA Business Journal coverage. Lowercarbon Capital led $25M with 1517 Fund
+    participating. Added citation [^47].'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Parsley Health
