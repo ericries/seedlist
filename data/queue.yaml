@@ -26071,3 +26071,46 @@ queue:
   firm: Factorial
   discovered_from: factorial
   source: co-CEO/co-founder Factorial ($150M Series D 2026-06-03)
+- name: Highland Europe
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wordsmith
+  source: led Wordsmith €60.2M Series B (June 2026)
+- name: Guinness Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lune-wild
+  source: led Lune & Wild £2M Series A (June 2026)
+- name: Jean Tardy-Joubert
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Highland Europe
+  discovered_from: wordsmith
+  source: Partner, Highland Europe — led Wordsmith Series B
+- name: Ross McNairn
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wordsmith
+  source: Co-Founder & CEO, Wordsmith (legal AI)
+- name: Dr. Rupy Aujla
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lune-wild
+  source: angel investor — Lune & Wild Series A; The Doctor's Kitchen founder
+- name: Doug Struthers
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lune-wild
+  source: angel investor and chairman — Lune & Wild; former Ella's Kitchen MD

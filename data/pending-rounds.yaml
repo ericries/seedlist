@@ -88,7 +88,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: trend/opinion article, not a funding round
 - title: Edinburgh-based Wordsmith raises €60.2 million Series B to scale legal AI
     platform for in-house teams
   url: https://www.eu-startups.com/2026/06/edinburgh-based-wordsmith-raises-e60-2-million-series-b-to-scale-legal-ai-platform-for-in-house-teams/
@@ -97,7 +98,8 @@ pending_rounds:
   parsed_company: Edinburgh-based Wordsmith
   parsed_amount: null
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-06-03'
 - title: London’s DEScycle secures over €10 million in grant funding to scale critical
     metals recovery platform
   url: https://www.eu-startups.com/2026/06/londons-descycle-secures-over-e10-million-in-grant-funding-to-scale-critical-metals-recovery-platform/
