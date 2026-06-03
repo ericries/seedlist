@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
+    As Exit Market Reopened
+  url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
+  source: crunchbase
+  date_found: '2026-06-03'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK’s Oxford Quantum Circuits raises €301 million Series C to scale Quantum-AI
+    data-centre platform
+  url: https://www.eu-startups.com/2026/06/uks-oxford-quantum-circuits-raises-e301-million-series-c-to-scale-quantum-ai-data-centre-platform/
+  source: eu-startups
+  date_found: '2026-06-03'
+  parsed_company: UK’s Oxford Quantum Circuits
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Factorial raises €129 million, reaching €2.1 billion valuation to become
+    on of Europe’s most valuable scale-ups
+  url: https://www.eu-startups.com/2026/06/factorial-raises-e129-million-reaching-e2-1-billion-valuation-to-become-on-of-europes-most-valuable-scale-ups/
+  source: eu-startups
+  date_found: '2026-06-03'
+  parsed_company: Factorial
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: CEA-Leti and CNRS spin-off Quobly raises €115 million to industrialise silicon-based
+    quantum computers
+  url: https://www.eu-startups.com/2026/06/cea-leti-and-cnrs-spin-off-quobly-raises-e115-million-to-industrialise-silicon-based-quantum-computers/
+  source: eu-startups
+  date_found: '2026-06-03'
+  parsed_company: CEA-Leti and CNRS spin-off Quobly
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London’s DEScycle secures over €10 million in grant funding to scale critical
     metals recovery platform
   url: https://www.eu-startups.com/2026/06/londons-descycle-secures-over-e10-million-in-grant-funding-to-scale-critical-metals-recovery-platform/
@@ -876,55 +912,3 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-- title: NanoClaw creator turns down $20M buyout offer, raises $12M seed instead
-  url: https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/
-  source: techcrunch
-  date_found: '2026-05-20'
-  parsed_company: NanoClaw creator turns down $20M buyout offer,
-  parsed_amount: $12M
-  parsed_round: Seed
-  status: processed
-  processed: '2026-05-20'
-  slug: nanoco
-  notes: created nanoco.md ($12M Seed 2026-05-20 led by Valley Capital Partners with
-    Docker, Vercel, Monday.com, Slow Ventures and angels including Clem Delangue;
-    founders Gavriel + Lazer Cohen turned down ~$20M acquisition offers)
-- title: Embodied AI Fuels Record Robotics Funding In China As IPO Momentum Builds
-  url: https://news.crunchbase.com/robotics/embodied-ai-fuels-record-funding-china-ipo-momentum-builds/
-  source: crunchbase
-  date_found: '2026-05-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  processed: '2026-05-20'
-  skip_reason: trend/aggregator article on China robotics funding, not a single startup
-    round
-- title: Paris-based Prelude raises €17.2 million Series A to scale its onboarding
-    and trust infrastructure platform
-  url: https://www.eu-startups.com/2026/05/paris-based-prelude-raises-e17-2-million-series-a-to-scale-its-onboarding-and-trust-infrastructure-platform/
-  source: eu-startups
-  date_found: '2026-05-20'
-  parsed_company: Paris-based Prelude
-  parsed_amount: €17.2M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-05-20'
-  slug: prelude
-  notes: created prelude.md (€17.2M Series A 2026-05-20 led by 20VC with Singular,
-    Seedcamp, Deel, FDJ Ventures and angels Steffen Tjerrild, Willem Delbare, Antoine
-    Le Nel, Felix Blossier, George Arison, Barney Hussey-Yeo, Will Wu; Paris trust
-    infrastructure / onboarding fraud prevention; founders Matias Berny + Quentin
-    Le Bras)
-- title: UK payments startup Primer raises €86.2 million Series C to expand AI capabilities
-    and accelerate US growth
-  url: https://www.eu-startups.com/2026/05/uk-payments-startup-primer-raises-e86-2-million-series-c-to-expand-ai-capabilities-and-accelerate-us-growth/
-  source: eu-startups
-  date_found: '2026-05-20'
-  parsed_company: UK payments startup Primer
-  parsed_amount: €86.2M
-  parsed_round: Series C
-  status: processed
-  processed: '2026-05-20'
-  slug: primer
-  notes: already shipped earlier today as primer.md (Series C Accel-led 2026-05-20)
