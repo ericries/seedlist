@@ -41,7 +41,8 @@ pending_rounds:
   parsed_amount: €1.03M
   parsed_round: Seed
   status: processed
-  notes: created startup profile modelia.md (€1.03M Seed 2026-06-02 led by Next Tier with Rapid Scale and Archipelago Next)
+  notes: created startup profile modelia.md (€1.03M Seed 2026-06-02 led by Next Tier
+    with Rapid Scale and Archipelago Next)
   processed_date: '2026-06-02'
 - title: Board, the new game startup from Mirror founder Brynn Putnam, raises $20M,
     has already sold thousands
@@ -403,7 +404,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: weekly aggregator roundup; constituent rounds captured via direct daily processing
+  skip_reason: weekly aggregator roundup; constituent rounds captured via direct daily
+    processing
   processed_date: '2026-06-02'
 - title: Navigating The DPI Crunch And Startup Funding
   url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
@@ -424,7 +426,8 @@ pending_rounds:
   parsed_amount: €858K
   parsed_round: Pre-Seed
   status: processed
-  notes: created startup profile cloudgeni.md (€858K Pre-Seed 2026-05-29 led by byFounders Angel Collective with Startuplab, Antler, and angels)
+  notes: created startup profile cloudgeni.md (€858K Pre-Seed 2026-05-29 led by byFounders
+    Angel Collective with Startuplab, Antler, and angels)
   processed_date: '2026-06-02'
 - title: Dublin’s AI TaxTech startup Fonoa raises €94.4 million Series C and buys
     PwC’s tax platform
@@ -435,7 +438,8 @@ pending_rounds:
   parsed_amount: €94.4M
   parsed_round: Series C
   status: processed
-  notes: fonoa.md already published with 2026-05-28 Series C €94.4M ($110M) led by Headline with Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital
+  notes: fonoa.md already published with 2026-05-28 Series C €94.4M ($110M) led by
+    Headline with Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital
   processed_date: '2026-06-02'
 - title: MokN raises €12.9 million to combat credential theft as GV makes its first
     investment in a French startup
@@ -457,7 +461,8 @@ pending_rounds:
   parsed_amount: €2M
   parsed_round: Pre-Seed
   status: processed
-  notes: mafer-ai.md already published with 2026-05-29 Pre-Seed €2M led by Kfund with 4Founders Capital, Masia, Lavanda Ventures, and angels
+  notes: mafer-ai.md already published with 2026-05-29 Pre-Seed €2M led by Kfund with
+    4Founders Capital, Masia, Lavanda Ventures, and angels
   processed_date: '2026-06-02'
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (May 25 – May 29)
