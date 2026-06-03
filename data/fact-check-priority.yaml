@@ -91,3 +91,23 @@ priority:
   type: firm
   reason: "led ZeroDrift $10M seed (2026-06-02)"
   added: 2026-06-03
+- slug: bond-capital
+  type: firm
+  reason: "led Suno Series D $400M at $5.4B val (2026-06-03)"
+  added: 2026-06-03
+- slug: ivp
+  type: firm
+  reason: "participated in Suno Series D (2026-06-03)"
+  added: 2026-06-03
+- slug: union-square-ventures
+  type: firm
+  reason: "participated in Suno Series D (2026-06-03)"
+  added: 2026-06-03
+- slug: advent
+  type: firm
+  reason: "co-led Coralogix Series F $200M at $1.6B val (2026-06-03)"
+  added: 2026-06-03
+- slug: cppib
+  type: firm
+  reason: "co-led Coralogix Series F (2026-06-03)"
+  added: 2026-06-03
