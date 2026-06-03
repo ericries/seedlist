@@ -8,11 +8,17 @@ firms:
     including Garlinghouse, Yahya Mokhtarzada, Zac Bookman, Jon Oringer)
   slug: ripple
   year: 2023
+- round: 2023-05
+  slug: rocket-money
+  year: 2023
 founded: 2022
 investors:
 - round: Seed (>$4M; Valor Equity Partners, Soma Capital, Day One Ventures + angels
     including Garlinghouse, Yahya Mokhtarzada, Zac Bookman, Jon Oringer)
   slug: brad-garlinghouse
+  year: 2023
+- round: 2023-05
+  slug: yahya-mokhtarzada
   year: 2023
 last_researched: 2026-04-28
 location: New York, NY

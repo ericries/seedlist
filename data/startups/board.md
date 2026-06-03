@@ -1,26 +1,32 @@
 ---
-name: Board
-slug: board
-type: startup
-website: https://playboard.com/
-location: New York, NY
+firms:
+- round: Seed
+  slug: lerer-hippeau
+  year: 2024
 founded: 2023
-status_company: active
+founders:
+- name: Brynn Putnam
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: ben-lerer
+  year: 2024
+last_researched: 2026-06-03
+location: New York, NY
+name: Board
 sector:
 - consumer
 - gaming
 - hardware
 - consumer-electronics
 - family-tech
+slug: board
 stage_latest: Series A
-total_raised: $20M+
-investors: []
-firms: []
-founders:
-- name: Brynn Putnam
-  role: Founder & CEO
-last_researched: 2026-06-03
 status: published
+status_company: active
+total_raised: $20M+
+type: startup
+website: https://playboard.com/
 ---
 
 ## About

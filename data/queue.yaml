@@ -20641,7 +20641,7 @@ queue:
 - name: Yahya Mokhtarzada
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Truebill
   discovered_from: brad-garlinghouse
@@ -25946,3 +25946,56 @@ queue:
   added: '2026-03-17'
   firm: Betaworks
   discovered_from: jordan-crook
+- name: Brynn Putnam
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Board
+  discovered_from: board
+  source: Founder & CEO of Board, raised $20M Series A from USV (2026-06-02); previously
+    founded Mirror (sold to Lululemon for $500M)
+- name: Zack Eakin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Layup Parts
+  discovered_from: layup-parts
+  source: Ex-Anduril engineer, founder of Layup Parts ($42M Series A from Marlinspike,
+    2026-06-02)
+- name: Marlinspike
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: layup-parts
+  source: Led Layup Parts $42M Series A (2026-06-02)
+- name: Pinegrove Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: layup-parts
+  source: Co-invested in Layup Parts $42M Series A (2026-06-02)
+- name: Nordstar
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zazume
+  source: Co-led Zazume €2.5M round (2026-06-02); London-based VC
+- name: GTV Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zazume
+  source: Co-led Zazume €2.5M round (2026-06-02); Spanish family office
+- name: Sabadell Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zazume
+  source: Participated in Zazume €2.5M round via conversion (2026-06-02)

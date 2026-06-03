@@ -162519,7 +162519,9 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution: Refined "2023" to "2023-10" per MedCity News and FierceHealthcare; 7wireVentures' $217M Growth & Opportunity Fund closed October 2023 and named Parsley Health as a follow-on investment from that fund.
+  resolution: Refined "2023" to "2023-10" per MedCity News and FierceHealthcare; 7wireVentures'
+    $217M Growth & Opportunity Fund closed October 2023 and named Parsley Health as
+    a follow-on investment from that fund.
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: When Insurance
@@ -171182,7 +171184,8 @@ vague_facts:
   line: '| Town | Seed | 2025 | AI | Active | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: Town seed = 2025-03-16 per Tracxn
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
   company: Lovable
@@ -171192,7 +171195,8 @@ vague_facts:
   line: '| Lovable | Seed | 2025 | AI/Developer Tools | Active | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: Lovable Series A = 2025-07-17 per TechCrunch/Lovable blog
 - profile: investors/adam-dangelo
   profile_name: Adam D'Angelo
   company: Basis

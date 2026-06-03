@@ -1,11 +1,19 @@
 ---
-name: Impulse Space
-slug: impulse-space
-type: startup
-website: https://www.impulsespace.com/
-location: Redondo Beach, CA
+firms:
+- round: Series B
+  slug: dcvc
+  year: 2024
 founded: 2021
-status_company: active
+founders:
+- name: Tom Mueller
+  role: Founder & CEO
+investors:
+- round: Series B
+  slug: matthew-ocko
+  year: 2024
+last_researched: 2026-06-03
+location: Redondo Beach, CA
+name: Impulse Space
 sector:
 - space
 - aerospace
@@ -14,15 +22,13 @@ sector:
 - propulsion
 - orbital-transfer-vehicles
 - deeptech
+slug: impulse-space
 stage_latest: Series D
-total_raised: $1B+
-investors: []
-firms: []
-founders:
-- name: Tom Mueller
-  role: Founder & CEO
-last_researched: 2026-06-03
 status: published
+status_company: active
+total_raised: $1B+
+type: startup
+website: https://www.impulsespace.com/
 ---
 
 ## About

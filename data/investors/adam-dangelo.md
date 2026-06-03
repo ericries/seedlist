@@ -65,8 +65,8 @@ Based on 22 verified investments compiled from Evalyze.ai, Premier Alternatives,
 *Note: Some companies span multiple categories; each is counted once in its primary category.*
 
 **Stage distribution (9 investments with confirmed round data):**
-- Seed: 5 of 9 (56%) — DatologyAI, Codegen, Protege, Lovable, Town
-- Series A: 3 of 9 (33%) — Basis, MatX, Mercor
+- Seed: 4 of 9 (44%) — DatologyAI, Codegen, Protege, Town
+- Series A: 4 of 9 (44%) — Basis, MatX, Mercor, Lovable
 - Series B: 1 of 9 (11%) — Pika
 
 D'Angelo invests predominantly at seed stage, consistent with his stated check size of $10K-$500K [^7].
@@ -89,8 +89,8 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Town | Seed | 2025 | AI | Active | [^6] |
-| Lovable | Seed | 2025 | AI/Developer Tools | Active | [^6] |
+| Town | Seed | 2025-03-16 | AI/Tax | Active | [^6][^21] |
+| Lovable | Series A | 2025-07-17 | AI/Developer Tools | Active | [^6][^22][^23] |
 | Basis | Series A | 2024 | Fintech | Active | [^6] |
 | MatX | Series A | 2024 | AI Chips | Active | [^6] |
 | Mercor | Series A | 2024 | AI/Talent | Active | [^6] |
@@ -170,3 +170,6 @@ No independently sourced founder testimonials found.
 [^18]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/
 [^19]: AI Funding Tracker, "Who Owns Cerebras? Investors & Cap Table," accessed May 2026. https://aifundingtracker.com/who-owns-cerebras/
 [^20]: OfficeChai, "Sam Altman, Greg Brockman Didn't Inform Musk Of Their Personal Investments In Cerebras While OpenAI Was Looking To Acquire It In 2017," accessed May 2026. https://officechai.com/ai/sam-altman-greg-brockman-didnt-inform-musk-of-their-personal-investments-in-cerebras-while-openai-was-looking-to-acquire-it-in-2017/
+[^21]: Tracxn, "Adam D'Angelo — 2025 Portfolio," accessed June 2026. Town seed round dated March 16, 2025. https://tracxn.com/d/people/adam-dangelo/__knoVDIS4udvDAteXAG6Wo1ccGFVDxca-awyTYRCZNzk
+[^22]: TechCrunch, "Lovable becomes a unicorn with $200M Series A just 8 months after launch," July 17, 2025. Accessed June 2026. https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/
+[^23]: Lovable, "Lovable Raises $200M, Valued at $1.8B, Just Eight Months After Launch," July 17, 2025. Accessed June 2026. https://lovable.dev/blog/200m-series-a-fundraise
