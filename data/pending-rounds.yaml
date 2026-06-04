@@ -305,6 +305,24 @@ pending_rounds:
   parsed_amount: $250M
   parsed_round: null
   status: pending
+- title: Ramp raises $750M at $44B valuation as investors hunger for fintechs with
+    an AI story
+  url: https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
+  source: techcrunch
+  date_found: '2026-06-04'
+  parsed_company: Ramp
+  parsed_amount: $750M
+  parsed_round: null
+  status: pending
+- title: London’s Fuse Energy secures €25 million Series B extension as it plans 32,000
+    sq ft London HQ
+  url: https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/
+  source: eu-startups
+  date_found: '2026-06-04'
+  parsed_company: London’s Fuse Energy
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
 - title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
     As Exit Market Reopened
   url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
@@ -887,24 +905,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-05-28'
   parsed_company: Zurich’s Stellar Alpina
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Cash-flow positive Dutch EnergyTech startup Eddy Grid raises €7.5 million
-    after nearly 900% revenue growth
-  url: https://www.eu-startups.com/2026/05/cash-flow-positive-dutch-energytech-startup-eddy-grid-raises-e7-5-million-after-nearly-900-revenue-growth/
-  source: eu-startups
-  date_found: '2026-05-28'
-  parsed_company: Cash-flow positive Dutch EnergyTech startup Eddy Grid
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Lithuania’s Kopa.ai raises €2 million to scale its agentic AI co-pilot for
-    e-commerce teams
-  url: https://www.eu-startups.com/2026/05/lithuanias-kopa-ai-raises-e2-million-to-scale-its-agentic-ai-co-pilot-for-e-commerce-teams/
-  source: eu-startups
-  date_found: '2026-05-28'
-  parsed_company: Lithuania’s Kopa.ai
   parsed_amount: null
   parsed_round: null
   status: pending
