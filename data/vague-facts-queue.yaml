@@ -220346,7 +220346,8 @@ vague_facts:
   line: '| Masterschool | Seed | 2022 | EdTech | [^15] [^31] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2022-05-19 via PR Newswire announcement. Group 11 led $100M seed; Pitango Ventures, Target Global, Dynamic Loop Capital, Sir Ronald Cohen participated. Confirmed by TechCrunch (May 18, 2022). Added citation [^51]. (resolved 2026-06-04)'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Logz.io
