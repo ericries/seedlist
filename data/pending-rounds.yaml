@@ -20,6 +20,102 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: NewLimit raised $435M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: NewLimit
+  parsed_amount: $435M
+  parsed_round: null
+  status: pending
+- title: AlphaSense raised $350M Series G
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: AlphaSense
+  parsed_amount: $350M
+  parsed_round: Series G
+  status: pending
+- title: Cyera raised $300M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Cyera
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
+- title: Coralogix raised $200M Series
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Coralogix
+  parsed_amount: $200M
+  parsed_round: Series
+  status: pending
+- title: Factorial raised $150M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Factorial
+  parsed_amount: $150M
+  parsed_round: Series D
+  status: pending
+- title: Town raised $55M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Town
+  parsed_amount: $55M
+  parsed_round: Series A
+  status: pending
+- title: Adaptive Innovations raised $50M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Adaptive Innovations
+  parsed_amount: $50M
+  parsed_round: Series A
+  status: pending
+- title: Forage raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Forage
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: pending
+- title: Centrical raised $39M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Centrical
+  parsed_amount: $39M
+  parsed_round: Series D
+  status: pending
+- title: Apoha raised $36M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Apoha
+  parsed_amount: $36M
+  parsed_round: null
+  status: pending
+- title: Findigs raised $32M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Findigs
+  parsed_amount: $32M
+  parsed_round: Series C
+  status: pending
+- title: Plot raised $10M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Plot
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: pending
 - title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
     As Exit Market Reopened
   url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
@@ -815,100 +911,4 @@ pending_rounds:
   parsed_company: Socket
   parsed_amount: $60M
   parsed_round: Series C
-  status: pending
-- title: Variational raised $50M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Variational
-  parsed_amount: $50M
-  parsed_round: Series A
-  status: pending
-- title: Pivot raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Pivot
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: pending
-- title: Eisen raised $18.5M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Eisen
-  parsed_amount: $18.5M
-  parsed_round: Seed And Series A
-  status: pending
-- title: Muybridge raised $16M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Muybridge
-  parsed_amount: $16M
-  parsed_round: Series A
-  status: pending
-- title: NanoCo raised $12M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: NanoCo
-  parsed_amount: $12M
-  parsed_round: Seed
-  status: pending
-- title: Quantum Bridge Technologies raised $8M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Quantum Bridge Technologies
-  parsed_amount: $8M
-  parsed_round: Series A
-  status: pending
-- title: Checker raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Checker
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: pending
-- title: CVRD Health raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: CVRD Health
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: pending
-- title: Sorted Wallet raised $4.4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Sorted Wallet
-  parsed_amount: $4.4M
-  parsed_round: Seed
-  status: pending
-- title: Avian raised $2.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Avian
-  parsed_amount: $2.6M
-  parsed_round: null
-  status: pending
-- title: MidOcean Energy raised $120M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: MidOcean Energy
-  parsed_amount: $120M
-  parsed_round: null
-  status: pending
-- title: Convective Capital raised $85M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Convective Capital
-  parsed_amount: $85M
-  parsed_round: null
   status: pending

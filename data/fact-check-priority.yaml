@@ -103,3 +103,95 @@ priority:
   type: firm
   reason: "co-led Coralogix Series F (2026-06-03)"
   added: 2026-06-03
+- slug: founders-fund
+  type: firm
+  reason: "led NewLimit $435M Series C at $3.1B (2026-06-02)"
+  added: 2026-06-04
+- slug: thrive-capital
+  type: firm
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: greenoaks-capital
+  type: firm
+  reason: "joined NewLimit and Cyera rounds (2026-06-02)"
+  added: 2026-06-04
+- slug: kleiner-perkins
+  type: firm
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: quiet-capital
+  type: firm
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: valor-equity-partners
+  type: firm
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: abstract-ventures
+  type: firm
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: nat-friedman
+  type: investor
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: daniel-gross
+  type: investor
+  reason: "joined NewLimit Series C (2026-06-02)"
+  added: 2026-06-04
+- slug: capitalg
+  type: firm
+  reason: "joined AlphaSense Series G $350M at $7.5B (2026-06-03)"
+  added: 2026-06-04
+- slug: accel
+  type: firm
+  reason: "joined Cyera $300M at $12B (2026-06-02)"
+  added: 2026-06-04
+- slug: coatue-management
+  type: firm
+  reason: "joined Cyera $300M (2026-06-02)"
+  added: 2026-06-04
+- slug: redpoint-ventures
+  type: firm
+  reason: "joined Cyera $300M (2026-06-02)"
+  added: 2026-06-04
+- slug: sequoia-capital
+  type: firm
+  reason: "joined Cyera $300M (2026-06-02)"
+  added: 2026-06-04
+- slug: spark-capital
+  type: firm
+  reason: "joined Cyera $300M (2026-06-02)"
+  added: 2026-06-04
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Town $55M Series A (2026-06-03)"
+  added: 2026-06-04
+- slug: forerunner-ventures
+  type: firm
+  reason: "joined Town Series A (2026-06-03)"
+  added: 2026-06-04
+- slug: first-round-capital
+  type: firm
+  reason: "joined Town Series A (2026-06-03)"
+  added: 2026-06-04
+- slug: conviction
+  type: firm
+  reason: "joined Town and Adaptive Innovations rounds (2026-06-02/03)"
+  added: 2026-06-04
+- slug: boxgroup
+  type: firm
+  reason: "joined Adaptive Innovations Series A (2026-06-02)"
+  added: 2026-06-04
+- slug: sv-angel
+  type: firm
+  reason: "joined Adaptive Innovations Series A (2026-06-02)"
+  added: 2026-06-04
+- slug: long-journey-ventures
+  type: firm
+  reason: "joined Forage Series B (2026-06-03)"
+  added: 2026-06-04
+- slug: fj-labs
+  type: firm
+  reason: "joined Forage Series B (2026-06-03)"
+  added: 2026-06-04
