@@ -142,6 +142,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series C
   status: pending
+- title: Dutch startup New Dawn Bio raises €2.1 million to grow wood from tree stem
+    cells in bioreactors
+  url: https://www.eu-startups.com/2026/06/dutch-startup-new-dawn-bio-raises-e2-1-million-to-grow-wood-from-tree-stem-cells-in-bioreactors/
+  source: eu-startups
+  date_found: '2026-06-04'
+  parsed_company: Dutch startup New Dawn Bio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
     As Exit Market Reopened
   url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
@@ -905,12 +914,4 @@ pending_rounds:
   parsed_company: Kalshi
   parsed_amount: $200M
   parsed_round: Series F Extension
-  status: pending
-- title: per Bloomberg. It previously raised $1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: per Bloomberg. It previously
-  parsed_amount: $1B
-  parsed_round: null
   status: pending
