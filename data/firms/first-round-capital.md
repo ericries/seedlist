@@ -135,6 +135,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Actively | Series B | 2026 | AI / Sales | Active | [^9] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Active | [^10] |
 | Town | Series A | 2026-06-03 | AI / Consumer | Active (participated; led by a16z) | [^18][^19] |
+| Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -186,3 +187,5 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^18]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026, accessed June 2026. https://a16z.com/announcement/investing-in-town/
 
 [^19]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html
+
+[^20]: Crunchbase News, "Scotch raises AI funding for liquor retail tech," June 4, 2026. Accessed June 2026. https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/

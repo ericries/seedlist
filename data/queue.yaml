@@ -26472,3 +26472,83 @@ queue:
   firm: Lassie
   discovered_from: lassie
   source: Co-founder of Lassie; first product hire at Superhuman
+- name: Toba Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: scotch
+  source: Participated in Scotch Series A (2026-06-04)
+- name: Carle Stenmark
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: VMG Partners
+  discovered_from: scotch
+  source: Quoted on Scotch Series A (2026-06-04)
+- name: Jake Bolling
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Scotch
+  discovered_from: scotch
+  source: CEO and co-founder, Scotch ($20M Series A, 2026-06-04)
+- name: DN Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airspeed
+  source: Led Airspeed Series A (€17.2M, 2026-06-04)
+- name: Vi Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airspeed
+  source: Participated in Airspeed Series A (2026-06-04)
+- name: Framework Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airspeed
+  source: Participated in Airspeed Series A (2026-06-04)
+- name: Atlassian Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airspeed
+  source: Participated in Airspeed Series A (2026-06-04)
+- name: Devang Agrawal
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Airspeed
+  discovered_from: airspeed
+  source: Co-founder of Airspeed (ex-DeepMind); €17.2M Series A 2026-06-04
+- name: CapitalT
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: new-dawn-bio
+  source: Led New Dawn Bio pre-seed (€2.1M, 2026-06-04)
+- name: Ontdekkers Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: new-dawn-bio
+  source: Participated in New Dawn Bio pre-seed (2026-06-04)
+- name: Jelle Prins
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: new-dawn-bio
+  source: Angel investor in New Dawn Bio pre-seed (2026-06-04)

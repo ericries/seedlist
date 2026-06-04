@@ -150,7 +150,7 @@ pending_rounds:
   parsed_company: Dutch startup New Dawn Bio
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
 - title: 'Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech
     With AI'
   url: https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/
@@ -165,10 +165,10 @@ pending_rounds:
   url: https://www.eu-startups.com/2026/06/londons-airspeed-raises-e17-2-million-series-a-to-build-ai-powered-execution-layer-for-revenue-teams/
   source: eu-startups
   date_found: '2026-06-04'
-  parsed_company: London’s Airspeed
+  parsed_company: Airspeed
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Ramp raised $750M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -224,7 +224,7 @@ pending_rounds:
   parsed_company: Airspeed
   parsed_amount: $20M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Scotch raised $20M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -232,7 +232,7 @@ pending_rounds:
   parsed_company: Scotch
   parsed_amount: $20M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Uncover raised $16M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
