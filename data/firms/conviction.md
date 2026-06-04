@@ -93,6 +93,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Onyx Security | Series A (co-led, $35M) | 2026-03-12 | AI Security / Agentic Control Plane | Active | [^32][^33][^34][^35] |
 | Listen Labs | Seed + Series A (participated, $27M combined) | 2025-04-23 | AI Customer Research | Active | [^3][^36][^37][^38] |
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
+| Town | Series A (participated, $55M total) | 2026-06-03 | Consumer AI / Personal Assistant | Active | [^53][^54] |
 
 Note: Investment years are approximate based on company founding timelines. This table represents approximately 18 of ~32 total investments (~56%); the remainder are in stealth or undisclosed [^3][^5].
 
@@ -172,6 +173,10 @@ No independently sourced founder testimonials found. The firm's website describe
 [^42]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent contemporaneous press source confirming the November 23, 2022 announcement of Harvey's $5M seed round led by OpenAI Startup Fund.
 
 [^52]: Sequoia Capital, "Partnering with Mithril: AI Compute, On Demand," March 21, 2024, accessed May 2026. https://sequoiacap.com/article/partnering-with-mithril-ai-compute-on-demand/ — Sequoia's own post confirming participation in Mithril's seed (September 2022) and co-leading the Series A announced March 21, 2024.
+
+[^53]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026, accessed June 2026. https://a16z.com/announcement/investing-in-town/ — Primary source confirming Conviction's participation in Town's $55M Series A led by a16z, alongside Forerunner, First Round, and Alt Capital.
+
+[^54]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html — Independent press confirmation of $55M Series A on June 3, 2026; Conviction listed among participants with Forerunner, First Round, and Alt Capital.
 
 [^43]: Baseten blog, "Announcing Baseten's $300M Series E," accessed May 2026. https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/ — Company's own announcement of the $300M Series E at a $5B valuation; round led by IVP and CapitalG with participation from 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock, and NVIDIA. NVIDIA contributed $150M of the total.
 

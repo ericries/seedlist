@@ -95,18 +95,6 @@ priority:
   type: firm
   reason: "co-led Coralogix Series F (2026-06-03)"
   added: 2026-06-03
-- slug: quiet-capital
-  type: firm
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
-- slug: valor-equity-partners
-  type: firm
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
-- slug: abstract-ventures
-  type: firm
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
 - slug: nat-friedman
   type: investor
   reason: "joined NewLimit Series C (2026-06-02)"
@@ -139,21 +127,9 @@ priority:
   type: firm
   reason: "joined Cyera $300M (2026-06-02)"
   added: 2026-06-04
-- slug: andreessen-horowitz
-  type: firm
-  reason: "led Town $55M Series A (2026-06-03)"
-  added: 2026-06-04
-- slug: forerunner-ventures
-  type: firm
-  reason: "joined Town Series A (2026-06-03)"
-  added: 2026-06-04
-- slug: first-round-capital
-  type: firm
-  reason: "joined Town Series A (2026-06-03)"
-  added: 2026-06-04
 - slug: conviction
   type: firm
-  reason: "joined Town and Adaptive Innovations rounds (2026-06-02/03)"
+  reason: "joined Adaptive Innovations round (2026-06-02) — Town added 2026-06-04"
   added: 2026-06-04
 - slug: boxgroup
   type: firm

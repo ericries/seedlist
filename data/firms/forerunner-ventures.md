@@ -104,6 +104,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Decagon | Series C | 2025-06-23 | AI/Infrastructure | [^1][^8] |
 | Agentio | Seed | ~2024 | AI/Advertising | [^1] |
 | Wonder | Growth | ~2022 | Consumer/Food | [^1] |
+| Town | Series A | 2026-06-03 | AI/Consumer | $55M co-led with a16z [^9][^10] |
 
 *This table represents approximately 14% of 161 known investments. Many early-stage investments are not individually documented in press sources.*
 
@@ -134,3 +135,7 @@ No independently sourced founder testimonials found from third-party sources. Fo
 [^7]: Fortune, "Unilever Buys Dollar Shave Club for $1 Billion," July 19, 2016. https://fortune.com/2016/07/19/unilever-buys-dollar-shave-club-for-1-billion/
 
 [^8]: Faire press release, "Announcing $12M in Series A Financing from Forerunner and Khosla Ventures," February 22, 2018. https://news.faire.com/2018/02/22/announcing-12m-in-series-a-financing/
+
+[^9]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026, accessed June 2026. https://a16z.com/announcement/investing-in-town/
+
+[^10]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html

@@ -134,6 +134,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Omni | Seed | ~2023 | Enterprise | Active | [^1] |
 | Actively | Series B | 2026 | AI / Sales | Active | [^9] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Active | [^10] |
+| Town | Series A | 2026-06-03 | AI / Consumer | Active (participated; led by a16z) | [^18][^19] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -181,3 +182,7 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^16]: GlobeNewswire, "Verkada Launches To Modernize Video Security Systems for Enterprise Use," September 21, 2017, accessed May 2026. https://www.globenewswire.com/news-release/2017/09/21/1125814/0/en/Verkada-Launches-To-Modernize-Video-Security-Systems-for-Enterprise-Use.html
 
 [^17]: VCNewsDaily, "Verkada Nabs $3.9M Seed Round," September 2017, accessed May 2026. https://vcnewsdaily.com/verkada/venture-capital-funding/mgpsfnmwtf
+
+[^18]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026, accessed June 2026. https://a16z.com/announcement/investing-in-town/
+
+[^19]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html
