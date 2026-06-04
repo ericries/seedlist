@@ -171,3 +171,19 @@ priority:
   type: firm
   reason: "joined NewLimit Series C (2026-06-02) — needs year backfill on 37 pre-existing portfolio rows before NewLimit can be added"
   added: 2026-06-04
+- slug: iconiq-growth
+  type: firm
+  reason: "co-led Ramp Series F $750M at $44B val (2026-06-04)"
+  added: 2026-06-04
+- slug: insight-partners
+  type: firm
+  reason: "joined Ramp Series F (2026-06-04)"
+  added: 2026-06-04
+- slug: redpoint-ventures
+  type: firm
+  reason: "led Collate Series B $95M at ~$1B (2026-06-03)"
+  added: 2026-06-04
+- slug: accel
+  type: firm
+  reason: "joined FirstClub Series B $55M at $255M val (2026-06-03)"
+  added: 2026-06-04

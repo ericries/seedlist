@@ -87,6 +87,50 @@ firms:
 - round: Growth
   slug: iconiq-growth
   year: 2025
+- round: Series F
+  slug: iconiq-growth
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: insight-partners
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: founders-fund
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: lightspeed-venture-partners
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: d1-capital-partners
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: general-catalyst
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: thrive-capital
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: coatue-management
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: khosla-ventures
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: boxgroup
+  year: 2026
+  date: 2026-06-04
+- round: Series F
+  slug: 8vc
+  year: 2026
+  date: 2026-06-04
 - round: '2021'
   slug: contrary
   year: 2021
@@ -192,10 +236,10 @@ sector:
 - corporate-cards
 - spend-management
 slug: ramp
-stage_latest: Series E
+stage_latest: Series F
 status: published
 status_company: active
-total_raised: $2.3B
+total_raised: $3B+
 type: startup
 website: https://ramp.com
 ---
@@ -208,6 +252,7 @@ Ramp is a corporate card and spend management platform founded in 2019 by Eric G
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2026-06-04 | Series F | $750M | ICONIQ, GIC, Ontario Teachers' Pension Plan | Goldman Sachs Alternatives, D.E. Shaw & Co., Morgan Stanley Investment Management, Generation Investment Management, Insight Partners, BroadLight Capital, Founders Fund, Lightspeed Venture Partners, D1 Capital Partners, T. Rowe Price, General Catalyst, Alpha Wave Global, 137 Ventures, Thrive Capital, Coatue, Sands Capital, Khosla Ventures, 1789 Capital, Avenir Growth, BoxGroup, 8VC, Pinegrove Venture Partners, Definition Capital, Stripes [^11][^12] |
 | Aug 2019 | Seed | $7M | Keith Rabois (Founders Fund) | BoxGroup, Coatue Management [^1] |
 | Feb 2020 | Series A | $25M | Founders Fund | BoxGroup, Coatue, Conversion Capital [^3] |
 | Apr 2021 | Series B | $115M | D1 Capital Partners, Stripe (co-lead) | Thrive Capital, Redpoint Ventures, Goldman Sachs, Founders Fund [^4] |
@@ -219,7 +264,7 @@ Ramp is a corporate card and spend management platform founded in 2019 by Eric G
 | Jul 2025 | Series E-2 | $500M | ICONIQ Growth | — [^10] |
 | Nov 2025 | Series E-3 | $300M | Lightspeed Venture Partners | Founders Fund, Khosla Ventures, General Catalyst, Bessemer Venture Partners [^2] |
 
-Total equity raised: approximately $2.3 billion [^2]. Valued at $32 billion as of November 2025 [^2].
+Total equity raised: over $3 billion [^11]. Valued at $44 billion as of June 4, 2026 [^11][^12].
 
 ## What Investors Say
 
@@ -241,3 +286,5 @@ No independently sourced founder testimonials found.
 [^8]: TechCrunch, "Ramp raises another $150M co-led by Khosla and Founders Fund at a $7.65B valuation," April 17, 2024, accessed March 2026. https://techcrunch.com/2024/04/17/ramp-raises-another-150-million-co-led-by-khosla-founders-fund-at-a-7-65b-valuation/
 [^9]: PR Newswire, "Ramp Raises $200M Series E at $16B Valuation," June 2025, accessed March 2026. https://www.prnewswire.com/news-releases/ramp-raises-200m-series-e-at-16b-valuation-as-companies-of-all-sizes-choose-ai-powered-finance-platform-302483377.html
 [^10]: Sacra, "Ramp revenue, valuation & funding," accessed March 2026. https://sacra.com/c/ramp/
+[^11]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html
+[^12]: Bloomberg, "Ramp Notches $44 Billion Valuation in New Funding Round," June 4, 2026, accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round

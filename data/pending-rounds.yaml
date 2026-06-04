@@ -151,6 +151,160 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech
+    With AI'
+  url: https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/
+  source: crunchbase
+  date_found: '2026-06-04'
+  parsed_company: Scotch
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: London’s Airspeed raises €17.2 million Series A to build AI-powered execution
+    layer for revenue teams
+  url: https://www.eu-startups.com/2026/06/londons-airspeed-raises-e17-2-million-series-a-to-build-ai-powered-execution-layer-for-revenue-teams/
+  source: eu-startups
+  date_found: '2026-06-04'
+  parsed_company: London’s Airspeed
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Ramp raised $750M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Ramp
+  parsed_amount: $750M
+  parsed_round: null
+  status: pending
+- title: Collate raised $95M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Collate
+  parsed_amount: $95M
+  parsed_round: null
+  status: pending
+- title: FirstClub raised $55M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: FirstClub
+  parsed_amount: $55M
+  parsed_round: Series B
+  status: pending
+- title: Honeycomb raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Honeycomb
+  parsed_amount: $40M
+  parsed_round: null
+  status: pending
+- title: Lassie raised $35M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Lassie
+  parsed_amount: $35M
+  parsed_round: Series A
+  status: pending
+- title: Fuse Energy raised $30M Series B extension
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Fuse Energy
+  parsed_amount: $30M
+  parsed_round: Series B Extension
+  status: pending
+- title: Airspeed raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Airspeed
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: Scotch raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Scotch
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: Uncover raised $16M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Uncover
+  parsed_amount: $16M
+  parsed_round: Series A
+  status: pending
+- title: Kodesage raised $6.6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Kodesage
+  parsed_amount: $6.6M
+  parsed_round: Seed
+  status: pending
+- title: AethexAI raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: AethexAI
+  parsed_amount: $3M
+  parsed_round: null
+  status: pending
+- title: m. Scrunch had raised $19M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: m. Scrunch had
+  parsed_amount: $19M
+  parsed_round: null
+  status: pending
+- title: Innio raised $2.4B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Innio
+  parsed_amount: $2.4B
+  parsed_round: null
+  status: pending
+- title: Refining raised $270M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Refining
+  parsed_amount: $270M
+  parsed_round: null
+  status: pending
+- title: Aeon Acquisition I raised $125M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Aeon Acquisition I
+  parsed_amount: $125M
+  parsed_round: null
+  status: pending
+- title: AmperCap Acquisition raised $125M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: AmperCap Acquisition
+  parsed_amount: $125M
+  parsed_round: null
+  status: pending
+- title: Keystone Acquisition raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-04'
+  parsed_company: Keystone Acquisition
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
 - title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
     As Exit Market Reopened
   url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
@@ -753,165 +907,4 @@ pending_rounds:
   parsed_company: Lithuania’s Kopa.ai
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Anthropic raises $65 Billion, nears $1T valuation ahead of IPO
-  url: https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
-  source: techcrunch
-  date_found: '2026-05-28'
-  parsed_company: Anthropic
-  parsed_amount: $65B
-  parsed_round: null
-  status: pending
-- title: Anthropic Nears $1T Valuation And Leapfrogs OpenAI On Unicorn Board With
-    $65B Funding Round
-  url: https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/
-  source: crunchbase
-  date_found: '2026-05-28'
-  parsed_company: null
-  parsed_amount: $65B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/28/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-28-2026/
-  source: alleywatch
-  date_found: '2026-05-28'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: AI coding startup Cognition raises $1B at $25B pre-money valuation
-  url: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
-  source: techcrunch
-  date_found: '2026-05-27'
-  parsed_company: AI coding startup Cognition
-  parsed_amount: $1B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/27/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-27-2026/
-  source: alleywatch
-  date_found: '2026-05-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'In Charts: Seed Deals Keep Getting Bigger As Odds Of Reaching Series A Fall
-    Dramatically'
-  url: https://news.crunchbase.com/seed/data-bigger-deals-longer-seriesa-2026/
-  source: crunchbase
-  date_found: '2026-05-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/26/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-26-2026/
-  source: alleywatch
-  date_found: '2026-05-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 5/25/26'
-  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-5-25-26/
-  source: alleywatch
-  date_found: '2026-05-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Massive Deals For Medical Devices,
-    Futuristic AI Gadgets And Frontier Labs Lead'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/
-  source: crunchbase
-  date_found: '2026-05-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
-  url: https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/
-  source: techcrunch
-  date_found: '2026-05-21'
-  parsed_company: Imperagen
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed: '2026-05-21'
-  slug: imperagen
-  notes: already shipped as imperagen.md (£5M+ seed, Manchester UK enzyme engineering)
-- title: Hark raises $700M Series A for its secretive “universal” AI interface
-  url: https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/
-  source: techcrunch
-  date_found: '2026-05-21'
-  parsed_company: Hark
-  parsed_amount: $700M
-  parsed_round: Series A
-  status: pending
-- title: Munich-based ClearOps raises €8.6 million Series A to build AI operating
-    system for industrial after-sales
-  url: https://www.eu-startups.com/2026/05/munich-based-clearops-raises-e8-6-million-series-a-to-build-ai-operating-system-for-industrial-after-sales/
-  source: eu-startups
-  date_found: '2026-05-21'
-  parsed_company: Munich-based ClearOps
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Finnish SpaceTech company ICEYE secures €300 million revolving credit facility
-  url: https://www.eu-startups.com/2026/05/finnish-spacetech-company-iceye-secures-e300-million-revolving-credit-facility/
-  source: eu-startups
-  date_found: '2026-05-21'
-  parsed_company: Finnish SpaceTech company ICEYE
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Searchable raises €11.9 million at €72.1 million valuation to help
-    brands boost visibility across AI-led search
-  url: https://www.eu-startups.com/2026/05/londons-searchable-raises-e11-9-million-at-e72-1-million-valuation-to-help-brands-boost-visibility-across-ai-led-search/
-  source: eu-startups
-  date_found: '2026-05-21'
-  parsed_company: London’s Searchable
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Manchester Imperagen raises €5.8 million Seed to scale AI and quantum-powered
-    enzyme engineering
-  url: https://www.eu-startups.com/2026/05/manchester-imperagen-raises-e5-8-million-seed-to-scale-ai-and-quantum-powered-enzyme-engineering/
-  source: eu-startups
-  date_found: '2026-05-21'
-  parsed_company: Manchester Imperagen
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Convective Capital raises an $85 million fund to build disaster resilience
-  url: https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/
-  source: techcrunch
-  date_found: '2026-05-21'
-  parsed_company: Convective Capital
-  parsed_amount: $85M
-  parsed_round: null
-  status: pending
-- title: Exa Labs raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Exa Labs
-  parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: Mercury raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Mercury
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: Kalshi raised $200M Series F extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-21'
-  parsed_company: Kalshi
-  parsed_amount: $200M
-  parsed_round: Series F Extension
   status: pending
