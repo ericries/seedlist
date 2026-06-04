@@ -103,10 +103,6 @@ priority:
   type: firm
   reason: "co-led Coralogix Series F (2026-06-03)"
   added: 2026-06-03
-- slug: founders-fund
-  type: firm
-  reason: "led NewLimit $435M Series C at $3.1B (2026-06-02)"
-  added: 2026-06-04
 - slug: thrive-capital
   type: firm
   reason: "joined NewLimit Series C (2026-06-02)"
