@@ -102,11 +102,11 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | DraftKings | Early Stage | ~2015 | Gaming / Sports | IPO (NASDAQ: DKNG) [^5] |
 | Braintrust | Early Stage | ~2020 | Enterprise / Web3 | Public (BTRST) [^15] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Active [^10][^22] |
-| Muon Space | Series B | 2024 | Aerospace / Satellites | Active [^16] |
-| Conceivable | Series A | 2025 | Digital Health / IVF | Active [^17] |
+| Muon Space | Series B | 2024-08-05 | Aerospace / Satellites | Active [^16] |
+| Conceivable | Series A | 2025-01-14 | Digital Health / IVF | Active [^17][^23] |
 | Canopy | Early Stage | 2025 | Healthcare Safety | Active [^17] |
 | Tia | Series A/B | ~2020 | Women's Health | Active [^18] |
-| Decagon | Series B | ~2024 | AI / Customer Support | Active [^11] |
+| Decagon | Series B | 2024-10-15 | AI / Customer Support | Active [^11][^24] |
 | Partiful | Series A | ~2023 | Consumer / Events | Active [^11] |
 | Savage X Fenty | Growth | ~2020 | Consumer / Fashion | Active [^11] |
 | Reshape Bio | Series A | 2024 | Lab Automation / Biotech | Active [^19] |
@@ -193,3 +193,7 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^21]: The Next Web, "Norwegian defence startup Stendr raises $5.4M," April 2026. https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence
 
 [^22]: BusinessWire, "True Anomaly Raises $650 Million Series D Financing to Accelerate Space Superiority at Scale," April 28, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260428626943/en/True-Anomaly-Raises-$650-Million-Series-D-Financing-to-Accelerate-Space-Superiority-at-Scale
+
+[^23]: BioSpace press release, "Conceivable Life Sciences Closes $18 Million Series A Financing to Advance Development and Commercialization of the World's First AI-Powered Automated IVF Lab," January 14, 2025, accessed June 2026. https://www.biospace.com/press-releases/conceivable-life-sciences-closes-18-million-series-a-financing-to-advance-development-and-commercialization-of-the-worlds-first-ai-powered-automated-ivf-lab — Primary source confirming $18M Series A close on January 14, 2025, led by ARTIS Ventures with new investors Atlantic Health Venture Studio, Muse Capital, and Scrub Capital; ACME Capital named as existing investor alongside Black Opal Ventures, Cadence Healthcare Ventures, Future Positive Capital, Stride.VC, and Time BioVentures.
+
+[^24]: PRNewswire, "Muon Space Secures $56M Series B Funding, Surpasses $100M in Customer Contracts in 2024 including Landmark Agreement with SNC," August 5, 2024, accessed June 2026. https://www.prnewswire.com/news-releases/muon-space-secures-56m-series-b-funding-surpasses-100m-in-customer-contracts-in-2024-including-landmark-agreement-with-snc-302212700.html — Primary source confirming the Muon Space $56M Series B announcement on August 5, 2024, led by Activate Capital with new participant Acme Capital and existing investors Costanoa Ventures, Radical Ventures, and Congruent Ventures.

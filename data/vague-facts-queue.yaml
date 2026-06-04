@@ -159606,7 +159606,8 @@ vague_facts:
   line: '| Muon Space | Series B | 2024 | Aerospace / Satellites | Active [^16] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2024-08-05 via PRNewswire/Muon Space press release confirming $56M Series B led by Activate Capital with Acme Capital as new participating investor. Added citation [^24].'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Conceivable
@@ -159616,7 +159617,8 @@ vague_facts:
   line: '| Conceivable | Series A | 2025 | Digital Health / IVF | Active [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-01-14 via BioSpace press release confirming Conceivable Life Sciences $18M Series A close led by ARTIS Ventures; ACME Capital named as existing investor. Added citation [^23].'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Canopy
@@ -159636,7 +159638,8 @@ vague_facts:
   line: '| Decagon | Series B | ~2024 | AI / Customer Support | Active [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2024-10-15 via Decagon company blog (existing citation [^11]) confirming $65M Series B led by Bain Capital Ventures with ACME Capital among named participants (Elad Gil, A*, Accel, BOND Capital, ACME Capital).'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Partiful

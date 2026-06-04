@@ -185,7 +185,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Isomorphic Labs | Series B (led, $2.1B) | 2026-05-12 | AI / Drug Discovery | Private [^31] |
 | Formation Bio | Series D (participated, $372M) | 2024-06-26 | Biotech / AI | Private [^13][^42][^43][^44] |
 | Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^22] |
-| Base Power | Growth | ~2024 | Energy | Private [^8] |
+| Base Power | Series B (participated, $200M co-led by Addition, a16z, Lightspeed, Valor) | 2025-04-08 | Energy | Private [^8][^51] |
 | Alsym Energy | Growth | ~2023 | Energy / Batteries | Private [^3] |
 | Clair | Early | ~2021 | Fintech / Payroll | Private [^3] |
 | Mercury | Growth | ~2022 | Fintech / Banking | Private [^3] |
@@ -196,14 +196,15 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Juicero | Early | ~2016 | Consumer / Hardware | Shut down [^1] |
 | Visible Ideas | Early | ~2012 (founded) | Enterprise | Private [^3] |
 | Codegen | Seed (led, $16M at $60M post-money) | 2023-11-16 | AI / Developer Tools | Private [^33][^34][^35] |
-| Revel | Growth | ~2024 | Enterprise | Private [^8] |
+| Revel | Series A (led, $23.1M) | 2025-04-17 | Hardware Test / Engineering | Private [^8][^52] |
+| Revel (follow-on) | Series B ($150M, participated; led by Index Ventures) | 2026-02-26 | Hardware Test / Engineering | Private ($1B+ val) [^53] |
 | Scope Security | Incubated | ~2017 | Enterprise / Security | Private [^11] |
 | Cadence | Incubated | ~2018 | Enterprise | Private [^11] |
 | Shield Technology Partners | Launch / Growth ($100M+ initial; $100M follow-on Feb 2026) | 2025-06-05 | AI / IT Services | Private [^45][^46] |
 | Rogo | Series B (led, $50M) | 2025-04-30 | AI / Finance | Private [^32] |
 | Rogo (follow-on) | Series D ($160M, participated; led by Kleiner Perkins) | 2026-04-29 | AI / Finance | Private [^19] |
 | Crete Professionals Alliance | Growth | ~2023 | Enterprise / Services | Private [^3] |
-| Nourish | Growth | ~2024 | Health Tech | Private [^8] |
+| Nourish | Series B ($70M, participated; led by J.P. Morgan Private Capital) | 2025-04-23 | Health Tech / Nutrition | Private [^8][^54] |
 | OpenEvidence | Series B (participated, $210M) | 2025-07-15 | AI / Health | Private ($3.5B valuation) [^8][^36][^37][^38] |
 | Figma | Growth | ~2020 | Developer Tools / Design | Public (IPO 2025) [^8] |
 | Forus | Growth (led, $160M at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Private [^40][^41] |
@@ -371,3 +372,11 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^49]: STAT News, "Longevity startup NewLimit raises $435 million ahead of first clinical trial," June 2, 2026. Accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/ — Independent confirmation: $435M Series C led by Founders Fund; ~$3.1B post-money valuation; Thrive Capital among participants.
 
 [^50]: Endpoints News, "Anti-aging startup NewLimit raises $435M at $3B+ valuation, eyes clinic in 2027," June 2, 2026. Accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third independent confirmation of $435M Series C at $3.1B valuation with Thrive Capital as new investor.
+
+[^51]: Yahoo Finance / BusinessWire, "Base Power Raises $200M Series B to Reinforce the Texas Power Grid, Accelerate National Expansion, and Build American Manufacturing Capabilities," April 8, 2025. Accessed June 2026. https://finance.yahoo.com/news/power-raises-200m-series-b-170400264.html — $200M Series B announced April 8, 2025, co-led by Addition, Andreessen Horowitz, Lightspeed Venture Partners, and Valor Equity Partners with Thrive Capital, Altimeter, Terrain, and Trust participating. Cross-referenced with a16z investment announcement https://a16z.com/announcement/investing-in-base-power/ and Wilson Sonsini deal advisory https://www.wsgr.com/en/insights/wilson-sonsini-advises-base-power-on-dollar200-million-series-b.html.
+
+[^52]: Fortune, "Exclusive: Revel emerges from stealth with $30 million to prevent your critical hardware from exploding—literally," April 17, 2025. Accessed June 2026. https://fortune.com/2025/04/17/exclusive-revel-emerges-from-stealth-with-30-million-to-prevent-your-critical-hardware-from-exploding-literally/ — Revel emerged from stealth April 17, 2025 with $30M total; Thrive Capital led the $23.1M Series A (Miles Grimshaw); Felicis and Abstract Ventures led seed.
+
+[^53]: BusinessWire, "Revel Raises $150M Series B to Modernize the Software Layer Behind Hardware Test and Control," February 26, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260226807932/en/Revel-Raises-$150M-Series-B-to-Modernize-the-Software-Layer-Behind-Hardware-Test-and-Control — $150M Series B announced February 26, 2026, led by Index Ventures with major participation from Redpoint Ventures and returning investors Thrive Capital, Felicis, and Abstract Ventures, at $1B+ valuation.
+
+[^54]: BusinessWire, "Nourish Raises $70M Series B to Tackle Chronic Disease with AI-Powered Nutrition Care," April 23, 2025. Accessed June 2026. https://www.businesswire.com/news/home/20250423010679/en/Nourish-Raises-$70M-Series-B-to-Tackle-Chronic-Disease-with-AI-Powered-Nutrition-Care — $70M Series B announced April 23, 2025, led by J.P. Morgan Private Capital's Growth Equity Partners with Thrive Capital, Index Ventures, Y Combinator, Maverick Ventures, BoxGroup, Atomico, G Squared, and Pinegrove Opportunity Partners participating.

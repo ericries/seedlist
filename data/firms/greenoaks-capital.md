@@ -116,6 +116,8 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Cyera | Series F | 2026-01-08 | Cybersecurity/AI | Active | [^41] |
 | Sierra | Series E (participated) | 2026-05-04 | AI/agents | Active | [^42][^43][^44] |
 | Anthropic | Series H (co-led, $65B at $965B post-money) | 2026-05-28 | AI / Frontier Models | Active | [^45] |
+| NewLimit | Series C ($435M) | 2026-06-02 | Longevity / Biotech | Active | [^46][^47] |
+| Cyera | Growth ($300M at $12B post-money) | 2026-06-02 | Cybersecurity/AI | Active | [^48][^49] |
 
 This table represents approximately 30% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
 
@@ -189,3 +191,11 @@ No additional independently sourced founder testimonials from portfolio company 
 [^44]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
 
 [^45]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Greenoaks Capital co-led Anthropic's Series H on May 28, 2026 at $965B post-money with Altimeter Capital, Dragoneer, and Sequoia Capital; Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron participated; incorporates $15B in previously committed hyperscaler investments including Amazon's $5B pledge.
+
+[^46]: NewLimit blog, "NewLimit raises $435M, led by Founders Fund," June 2, 2026. Accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders — Series C of $435M led by Founders Fund with new investors Thrive Capital, Greenoaks, and Quiet Capital, plus returning investors Kleiner Perkins, Abstract, Nat Friedman/Daniel Gross, Valor Equity Partners, Eli Lilly Ventures, and Human Capital.
+
+[^47]: STAT News, "Longevity startup NewLimit announces $435 million clinical trial financing," June 2, 2026. Accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/
+
+[^48]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — $300M round at $12B post-money valuation led by Evolution Equity Partners with participation from Georgian, Greenoaks, Lightspeed, Sequoia, Sapphire, Redpoint, Cyberstarts, Coatue, Accel, and Spark Capital.
+
+[^49]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/

@@ -95,18 +95,6 @@ priority:
   type: firm
   reason: "co-led Coralogix Series F (2026-06-03)"
   added: 2026-06-03
-- slug: thrive-capital
-  type: firm
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
-- slug: greenoaks-capital
-  type: firm
-  reason: "joined NewLimit and Cyera rounds (2026-06-02)"
-  added: 2026-06-04
-- slug: kleiner-perkins
-  type: firm
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
 - slug: quiet-capital
   type: firm
   reason: "joined NewLimit Series C (2026-06-02)"
