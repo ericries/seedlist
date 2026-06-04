@@ -20595,7 +20595,7 @@ queue:
 - name: Michael Mignano
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lightspeed Venture Partners
   discovered_from: john-borthwick
@@ -20962,7 +20962,7 @@ queue:
 - name: Thomas Wolf
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hugging Face
   discovered_from: cal-henderson
@@ -26114,3 +26114,170 @@ queue:
   added: '2026-03-17'
   discovered_from: lune-wild
   source: angel investor and chairman — Lune & Wild; former Ella's Kitchen MD
+- name: Nir Zicherman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Oboe
+  discovered_from: michael-mignano
+- name: TollBit
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-mignano
+- name: Macroscope
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-mignano
+- name: Oboe
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-mignano
+- name: Lightfield
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: michael-mignano
+- name: Nathan Wu
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Lightspeed Venture Partners
+  discovered_from: michael-mignano
+- name: Faraz Fatemi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Lightspeed Venture Partners
+  discovered_from: michael-mignano
+- name: Mikey Shulman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Suno
+  discovered_from: michael-mignano
+- name: Chris Pedregal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Granola
+  discovered_from: michael-mignano
+- name: Clement Delangue
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hugging Face
+  discovered_from: thomas-wolf
+- name: Julien Chaumond
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hugging Face
+  discovered_from: thomas-wolf
+- name: Neuralk-AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Alinia AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Flowstep
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Bioptimus
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Umony
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Light
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: AISLE
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Qutwo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Charles Gorintin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Alan
+  discovered_from: thomas-wolf
+- name: Philippe Corrot
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mirakl
+  discovered_from: thomas-wolf
+- name: Markus Villig
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bolt
+  discovered_from: thomas-wolf
+- name: Ilkka Paananen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Supercell
+  discovered_from: thomas-wolf
+- name: Cathay Innovation
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: IQ Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf
+- name: Speedinvest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-wolf

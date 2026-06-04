@@ -1,10 +1,30 @@
 ---
-name: Coralogix
-slug: coralogix
-type: startup
-website: https://coralogix.com/
+firms:
+- round: Growth
+  slug: elevation-partners
+  year: 2025
+- round: Series A
+  slug: aleph
+  year: 2019
+founders:
+- name: Ariel Assaraf
+  role: Co-Founder & CEO
+investors:
+- round: Growth
+  slug: avie-tevanian
+  year: 2025
+- round: Growth
+  slug: fred-anderson
+  year: 2025
+- round: Series A
+  slug: eden-shochat
+  year: 2019
+- round: Series A
+  slug: michael-eisenberg
+  year: 2019
+last_researched: 2026-06-03
 location: Boston, MA
-status_company: active
+name: Coralogix
 sector:
 - observability
 - ai
@@ -13,15 +33,13 @@ sector:
 - monitoring
 - ai-agents
 - infrastructure
+slug: coralogix
 stage_latest: Series F
-total_raised: $550M+
-investors: []
-firms: []
-founders:
-- name: Ariel Assaraf
-  role: Co-Founder & CEO
-last_researched: 2026-06-03
 status: published
+status_company: active
+total_raised: $550M+
+type: startup
+website: https://coralogix.com/
 ---
 
 ## About

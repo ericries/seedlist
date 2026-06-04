@@ -3,6 +3,9 @@ firms:
 - round: Seed
   slug: lerer-hippeau
   year: 2024
+- round: Series A (led, $20M, 2026-06-02; board seat; first USV investment)
+  slug: union-square-ventures
+  year: 2026
 founded: 2023
 founders:
 - name: Brynn Putnam
@@ -11,6 +14,9 @@ investors:
 - round: Seed
   slug: ben-lerer
   year: 2024
+- round: Series A (led, $20M, 2026-06-02; board seat; first USV investment)
+  slug: michael-mignano
+  year: 2026
 last_researched: 2026-06-03
 location: New York, NY
 name: Board

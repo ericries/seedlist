@@ -1,18 +1,25 @@
 ---
-name: "Rivan"
-slug: rivan
-type: startup
-website: "https://rivan.com"
-location: "London, UK"
-founded: 2024
-status_company: active
-sector: [climate, energy, synthetic-fuels, deeptech]
-stage_latest: "Growth Round"
-total_raised: "~$46M"
 firms: []
-investors: []
-status: published
+founded: 2024
+investors:
+- round: $34M round led by IQ Capital
+  slug: thomas-wolf
+  year: 2026
 last_researched: 2026-04-21
+location: London, UK
+name: Rivan
+sector:
+- climate
+- energy
+- synthetic-fuels
+- deeptech
+slug: rivan
+stage_latest: Growth Round
+status: published
+status_company: active
+total_raised: ~$46M
+type: startup
+website: https://rivan.com
 ---
 
 ## About

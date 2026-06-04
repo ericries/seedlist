@@ -33,6 +33,9 @@ firms:
 - round: Seed round participant ($4.25M led by Lightspeed)
   slug: betaworks
   year: 2023
+- round: Seed (led, $4.25M, 2023-05-08)
+  slug: union-square-ventures
+  year: 2023
 founded: 2023
 founders:
 - name: Chris Pedregal
@@ -74,6 +77,9 @@ investors:
 - round: Seed participant ($4.25M led by Lightspeed); Crook named as Betaworks partner
     on the deal
   slug: jordan-crook
+  year: 2023
+- round: Seed (led, $4.25M, 2023-05-08)
+  slug: michael-mignano
   year: 2023
 last_researched: 2026-05-25
 location: London, United Kingdom

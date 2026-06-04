@@ -1,11 +1,43 @@
 ---
-name: Suno
-slug: suno
-type: startup
-website: https://suno.com/
-location: Cambridge, MA
+firms:
+- round: Early-stage
+  slug: inspired-capital
+  year: 2023
+- round: Early stage
+  slug: psp-partners
+  year: 2023
+- round: Seed
+  slug: founder-collective
+  year: 2023
+- round: Series B ($125M, 2024-05-21, Lightspeed lead)
+  slug: union-square-ventures
+  year: 2024
+- round: Series B ($125M, co-led with Daniel Gross)
+  slug: nfdg
+  year: 2024
 founded: 2024
-status_company: active
+founders:
+- name: Mikey Shulman
+  role: Co-Founder & CEO
+investors:
+- round: Early-stage
+  slug: alexa-von-tobel
+  year: 2023
+- round: Early stage
+  slug: penny-pritzker
+  year: 2023
+- round: Seed
+  slug: david-frankel
+  year: 2023
+- round: Series B ($125M, 2024-05-21, Lightspeed lead)
+  slug: michael-mignano
+  year: 2024
+- round: Series B ($125M, co-led with Daniel Gross)
+  slug: nat-friedman
+  year: 2024
+last_researched: 2026-06-03
+location: Cambridge, MA
+name: Suno
 sector:
 - ai
 - music
@@ -14,15 +46,13 @@ sector:
 - creator-tools
 - audio
 - media
+slug: suno
 stage_latest: Series D
-total_raised: $1B+
-investors: []
-firms: []
-founders:
-- name: Mikey Shulman
-  role: Co-Founder & CEO
-last_researched: 2026-06-03
 status: published
+status_company: active
+total_raised: $1B+
+type: startup
+website: https://suno.com/
 ---
 
 ## About

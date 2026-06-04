@@ -1,40 +1,54 @@
 ---
-name: "Union Square Ventures"
-slug: union-square-ventures
-type: firm
-website: "https://www.usv.com"
-location: "New York, NY"
 founded: 2003
-fund_size: "$275M (core fund, 2022); $1B+ total under management across seven funds"
-stage_focus: [seed, series-a]
-sector_focus: [networks, marketplaces, fintech, crypto, climate, consumer, developer-tools, education, healthcare]
-team:
-  - slug: fred-wilson
-    role: "Partner"
-    name: "Fred Wilson"
-  - slug: brad-burnham
-    role: "Co-Founder and Venture Partner"
-    name: "Brad Burnham"
-  - slug: albert-wenger
-    role: "Partner"
-    name: "Albert Wenger"
-  - slug: rebecca-kaden
-    role: "Partner"
-    name: "Rebecca Kaden"
-  - slug: andy-weissman
-    role: "Partner"
-    name: "Andy Weissman"
-  - slug: nick-grossman
-    role: "Partner"
-    name: "Nick Grossman"
-  - slug: jared-hecht
-    role: "Venture Partner"
-    name: "Jared Hecht"
-  - slug: john-buttrick
-    role: "Venture Partner"
-    name: "John Buttrick"
-status: published
+fund_size: $275M (core fund, 2022); $1B+ total under management across seven funds
 last_researched: 2026-03-20
+location: New York, NY
+name: Union Square Ventures
+sector_focus:
+- networks
+- marketplaces
+- fintech
+- crypto
+- climate
+- consumer
+- developer-tools
+- education
+- healthcare
+slug: union-square-ventures
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- name: Fred Wilson
+  role: Partner
+  slug: fred-wilson
+- name: Brad Burnham
+  role: Co-Founder and Venture Partner
+  slug: brad-burnham
+- name: Albert Wenger
+  role: Partner
+  slug: albert-wenger
+- name: Rebecca Kaden
+  role: Partner
+  slug: rebecca-kaden
+- name: Andy Weissman
+  role: Partner
+  slug: andy-weissman
+- name: Nick Grossman
+  role: Partner
+  slug: nick-grossman
+- name: Jared Hecht
+  role: Venture Partner
+  slug: jared-hecht
+- name: John Buttrick
+  role: Venture Partner
+  slug: john-buttrick
+- name: Michael Mignano
+  role: General Partner
+  slug: michael-mignano
+type: firm
+website: https://www.usv.com
 ---
 
 ## About
