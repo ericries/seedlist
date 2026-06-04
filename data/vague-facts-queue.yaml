@@ -165342,7 +165342,8 @@ vague_facts:
   line: '| AAI Technologies | Seed | 2024 | Generative AI | [^7] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-05 via Globes article (May 18, 2025) reporting AA-I seed round closed "at the start of May" alongside AI21 Labs $300M raise. Dell Technologies Capital led, with BRM Capital and Pitango First participating. Original 2024 year was incorrect — round actually closed May 2025. Added citation [^52]. (resolved 2026-06-04)'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Altesa Biosciences

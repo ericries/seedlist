@@ -2,7 +2,7 @@
 founded: 1983
 fund_size: $9.6B current fund size; $19.56B total raised across all funds; $4B growth
   fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)
-last_researched: 2026-05-03
+last_researched: 2026-06-03
 location: Palo Alto, CA
 name: Accel
 sector_focus:
@@ -214,7 +214,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | MoPub | Early | 2010 | Advertising | [^6] |
 
 | Oasis Security | Series A Extension ($35M) | 2024-05-01 | Cybersecurity/Identity | [^14][^82][^83] |
-| Dash0 | Series A, B | 2024, 2026 | Observability/AI | [^15] |
+| Dash0 | Seed ($9.5M, led); Series A ($35M, co-led with Cherry Ventures); Series B ($110M, Balderton-led, participated) | 2024-11-04; 2025-10-02; 2026-03-23 | Observability/AI | [^15][^91][^92] |
 | Legora | Series D (led, $550M, $5.55B post) | 2026-03-10 | AI/Legal Tech | [^16] |
 | Oolka | Series A (led, ₹130 Cr, ₹730 Cr post-money valuation) | 2026-04-30 | Fintech/AI/India | [^37][^48][^49][^50] |
 | Sahi | Series A (led), Series B (led, $33M) | 2025, 2026-04-29 | Fintech/Broking/India | [^41][^42][^43] |
@@ -227,6 +227,8 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Viktor | Series A (led, €64.7M) | 2026-05-20 | AI / Enterprise / Workplace | [^75][^76] |
 | Primer | Series A (led, £14M); Series C participated ($100M, Sofina-led) | 2020-11-29; 2026-05-20 | Fintech / Payments Infrastructure | [^77][^78] |
 | Perceptic | Seed (led, $12M) | 2026-05-26 | AI / Robotics | [^79] |
+| Cyera | Series G ($300M, participated; Evolution Equity Partners led at $12B post-money) | 2026-06-02 | Cybersecurity / Data Security | [^85][^86][^87] |
+| FirstClub | Series B ($55M, participated; Peak XV and Sofina co-led at $255M val) | 2026-06-03 | E-commerce / Quick Commerce / India | [^88][^89][^90] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -381,3 +383,19 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^83]: Bloomberg, "Sequoia-Backed Oasis Security Raises $35 Million for Emerging Credentials Threat," May 1, 2024. Accessed June 2026. https://www.bloomberg.com/news/articles/2024-05-01/sequoia-backed-oasis-security-raises-35-million-for-emerging-credentials-threat — Contemporaneous Bloomberg confirmation of May 1, 2024 announcement.
 
 [^84]: Accel companies page, "Anthropic," accessed June 2026. https://www.accel.com/companies/anthropic — Lists Accel's first investment in Anthropic as January 1, 2025. Cross-referenced with Tracxn (https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors) confirming Accel participated in the Series G round at $183B valuation (announced February 12, 2026; round may have started accruing commitments earlier).
+
+[^85]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ — Confirms $300M round at $12B valuation led by Evolution Equity Partners with Accel, Coatue, Lightspeed, Redpoint, Sapphire, Sequoia, Cyberstarts participating.
+
+[^86]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Contemporaneous press; confirms full participant list including Georgian, Greenoaks, Lightspeed, Sequoia, Sapphire, Redpoint, Cyberstarts, Coatue, Accel, and Spark Capital.
+
+[^87]: Dealroom.co, "Cyera Raises $300M at $12B Valuation in Series G, Led by Evolution Equity Partners," June 2026. Accessed June 2026. https://app.dealroom.co/news/note/cyera-raises-300m-at-12b-valuation-in-series-g-led-by-evolution-equity-partners — Identifies the round as Series G.
+
+[^88]: TechCrunch, "Quick commerce FirstClub doubles valuation to $255M in nine months," by Manish Singh, June 3, 2026. Accessed June 2026. https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/ — Confirms $55M Series B co-led by Peak XV and Sofina at $255M valuation with Accel, RTP Global, and Paramark Ventures participating.
+
+[^89]: Entrackr, "Former Flipkart executive's startup FirstClub raises $55 Mn led by Peak XV and Sofina," June 2026. Accessed June 2026. https://entrackr.com/news/former-flipkart-executives-startup-firstclub-raises-55-mn-led-by-peak-xv-and-sofina-11999444 — Confirms participants including Accel and existing investors.
+
+[^90]: Inc42, "FirstClub Nets $55 Mn To Expand Store Footprint, Widen Product Range," June 2026. Accessed June 2026. https://inc42.com/buzz/firstclub-nets-55-mn-to-expand-store-footprint-widen-product-range/ — Independent confirmation of $55M Series B led by Peak XV and Sofina with Accel participation.
+
+[^91]: Dash0 blog, "Dash0 announces $9.5M seed financing, led by Accel," November 4, 2024. Accessed June 2026. https://www.dash0.com/blog/dash0-seed-financing — Confirms Accel led the $9.5M seed; participants Dig Ventures plus angels Guy Podjarny and Guillermo Rauch.
+
+[^92]: Dash0 blog, "Dash0 Raises $35 Million Series A to Build the First AI-Native Observability Platform," October 2, 2025. Accessed June 2026. https://www.dash0.com/blog/dash0-raises-usd35-million-series-a — Confirms Series A co-led by Accel and Cherry Ventures with DIG Ventures participating.

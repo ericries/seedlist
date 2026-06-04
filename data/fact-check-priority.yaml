@@ -95,14 +95,6 @@ priority:
   type: firm
   reason: "co-led Coralogix Series F (2026-06-03)"
   added: 2026-06-03
-- slug: accel
-  type: firm
-  reason: "joined Cyera $300M at $12B (2026-06-02)"
-  added: 2026-06-04
-- slug: coatue-management
-  type: firm
-  reason: "joined Cyera $300M (2026-06-02)"
-  added: 2026-06-04
 - slug: redpoint-ventures
   type: firm
   reason: "RESOLVED 2026-06-04 — Cyera $300M participation added to portfolio"
@@ -110,8 +102,9 @@ priority:
   status: resolved
 - slug: sequoia-capital
   type: firm
-  reason: "joined Cyera $300M (2026-06-02)"
+  reason: "RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led) added to portfolio; vague dates on Rogo, Ineffable, Ricursive seed resolved"
   added: 2026-06-04
+  status: resolved
 - slug: spark-capital
   type: firm
   reason: "joined Cyera $300M (2026-06-02)"
@@ -173,10 +166,6 @@ priority:
   reason: "RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led, participated) and Collate $95M Series B (2026-06-03, led) added; Twilio corrected from Series A 2009 to Series D 2013-06-12 (led)"
   added: 2026-06-04
   status: resolved
-- slug: accel
-  type: firm
-  reason: "joined FirstClub Series B $55M at $255M val (2026-06-03)"
-  added: 2026-06-04
 - slug: balderton-capital
   type: firm
   reason: "follow-on Fuse Energy Series B Extension €25M (2026-06-04)"

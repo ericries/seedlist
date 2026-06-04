@@ -179,14 +179,15 @@ The following table includes Coatue investments verified through the firm's port
 | Bitso | Growth | ~2021 | Crypto / Exchange | Private [^12] |
 | BharatPe | Growth | ~2021 | Fintech (India) | Private [^12] |
 | ClickHouse | Growth | ~2022 | Data Infrastructure | Private [^33] |
-| Stripe | Growth | ~2023 | Fintech / Payments | Private [^34] |
-| Island | Series E (Led) | ~2024 | Enterprise / Security | Private [^35] |
+| Stripe | Tender Offer (participated) | 2026-02-24 | Fintech / Payments | Private [^34] |
+| Island | Series E (Led) | 2025-03-26 | Enterprise / Security | Private [^35] |
 | Knowde | Series B (Led) | 2021 | Marketplace / Chemicals | Private [^36] |
 | Commerce Layer | Series B (Led) | ~2022 | E-Commerce / API | Private [^37] |
 | Step | Series B (Led) | 2020 | Fintech / Teen Banking | Private [^38] |
 | Spotify | Growth (Public) | ~2018 | Consumer / Music | Public [^5] |
 | Silverflow | Series B (participated) | 2026-03-05 | Fintech / Payments | Private [^40][^54] |
 | Mercury | Series D (participated, $200M at $5.2B val; TCV led) | 2026-05-20 | Fintech / Digital Banking | Private [^55] |
+| Cyera | Growth (participated, $300M at $12B val; Evolution Equity led) | 2026-06-02 | Cybersecurity / Data Security | Private [^56][^57] |
 
 *Note: This table includes 36 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
 
@@ -337,3 +338,7 @@ No independently sourced negative or critical founder testimonials were found in
 [^54]: Silverflow blog, "Silverflow Closes $40 Million Series B as It Nears One Billion Transactions Annually," March 5, 2026. Accessed May 2026. https://www.silverflow.com/blog/silverflow-closes-usd40-million-series-b — Amsterdam-based Silverflow's €37M ($40M) Series B announced March 5, 2026, led by Picus Capital with participation from Coatue (existing investor), Rabo Ventures, Inkef, Global PayTech Ventures, and Crane Venture Partners. Cross-referenced with Tech.eu, "Silverflow raises $40M Series B to expand cloud-native payments platform," March 5, 2026. https://tech.eu/2026/03/05/silverflow-raises-40m-series-b-to-expand-cloud-native-payments-platform/
 
 [^55]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Coatue participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C); TCV led; existing investors a16z, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital also participated.
+
+[^56]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Evolution Equity Partners led the $300M round at $12B post-money valuation; named participating investors include Georgian, Greenoaks, Lightspeed Venture Partners, Sequoia Capital, Sapphire Ventures, Redpoint Ventures, Cyberstarts, Coatue, Accel, and Spark Capital.
+
+[^57]: Calcalist, "Cyera raises $300 million at $12 billion valuation, extending its rapid ascent," June 2, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/w1j2xejw4 — Independent confirmation of Evolution Equity Partners-led $300M round at $12B valuation with Coatue as a participating existing investor. Cross-referenced with TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/

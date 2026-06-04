@@ -224,16 +224,17 @@ The following table includes Sequoia Capital investments verified through the fi
 | Ayar Labs | Series E (participated via Sequoia Global Equities) | 2026-03-03 | Semiconductors / AI Infrastructure | Private [^28][^62] |
 | Auctor | Series A (led) | 2026-04-15 | AI / Enterprise Software | Private [^29][^63] |
 | Enter | Series B (participated) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^64][^65] |
-| Ineffable Intelligence | Seed (co-led) | 2026 | AI / Foundation Models | Private [^30] |
-| Rogo | Series D | 2026 | AI / Fintech | Private [^34] |
+| Ineffable Intelligence | Seed (co-led with Lightspeed, $1.1B at $5.1B val) | 2026-04-27 | AI / Foundation Models | Private [^30] |
+| Rogo | Series D (participated, $160M; Kleiner Perkins led) | 2026-04-29 | AI / Fintech | Private [^34] |
 | Parallel Web Systems | Series B (led) | 2026-04-29 | AI / Web Infrastructure | Private [^43] |
 | Standard Intelligence | Series A (co-led with Spark) | 2026-04-30 | AI / Foundation Models | Private [^46][^47][^48] |
 | Astrocade | Series B (led) | 2026-05-05 | AI / Gaming / Consumer | Private [^59][^60] |
 | Turnkey | Strategic ($12.5M, participated; co-led by Archetype and Circle Ventures) | 2026-05-14 | Crypto / Wallet Infrastructure | Private [^69][^70] |
-| Ricursive Intelligence | Seed (participated); Series A (participated) | 2025-12 / 2026-01-26 | AI / Semiconductor Design | Private [^66][^67][^68] |
+| Ricursive Intelligence | Seed (participated); Series A (participated) | 2025-12-02 / 2026-01-26 | AI / Semiconductor Design | Private [^66][^67][^68] |
 | Dust | Series B (co-led with Abstract, $40M) | 2026-05-18 | AI / Enterprise / Agentic | Private [^71][^72] |
 | Mercury | Series C (led, $300M at $3.5B val) → Series D (participated, $200M at $5.2B val; TCV led) | 2025-03-26; 2026-05-20 | Fintech / Digital Banking | Private [^73] |
 | Decart | Growth (participant, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference Infrastructure | Private [^74] |
+| Cyera | Growth (participated, $300M at $12B post-money; Evolution Equity Partners led) | 2026-06-02 | Cybersecurity / Data Security Posture Management | Private [^76][^77][^78] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -449,3 +450,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^74]: Decart, "Decart Raises $300M: Tech Leaders Back the Company as Both Customers and Investors," May 18, 2026. Accessed May 2026. https://decart.ai/publications/decart-raises-300m-tech-leaders-back-the-company-as-both-customers-and-investors — Confirms Sequoia Capital as returning investor in Decart's $300M round at $4B valuation led by Radical Ventures on May 18, 2026; new investors Nvidia, Atreides Management, Valor Equity Partners, Adobe Ventures, Toyota Ventures, eBay Ventures joined alongside returning backers Benchmark and Zeev Ventures.
 
 [^75]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Sequoia Capital co-led Anthropic's Series H on May 28, 2026 at $965B post-money valuation with Altimeter Capital, Dragoneer, and Greenoaks; Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron participated; incorporates $15B previously committed hyperscaler investments including Amazon's $5B pledge.
+
+[^76]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Confirms $300M round at $12B post-money valuation announced June 2, 2026, led by Evolution Equity Partners with Sequoia Capital, Georgian, Greenoaks, Lightspeed Venture Partners, Sapphire Ventures, Redpoint Ventures, Cyberstarts, Coatue, Accel, and Spark Capital participating.
+
+[^77]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ — Cross-references the $300M round at $12B valuation, noting the doubling of valuation within five months of the January 2026 $400M Series F at $9B led by Blackstone.
+
+[^78]: Finsmes, "Cyera Raises $300M in Additional Funding at $12 Billion Post-Money Valuation," June 2, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/cyera-raises-300m-in-additional-funding-at-12-billion-post-money-valuation.html — Third independent confirmation of round amount, valuation, lead investor, and Sequoia Capital participation.

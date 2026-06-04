@@ -110,7 +110,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | ForeScout | Series B | 2001 | Cyber Security | [^15] [^26] |
 | PsiQuantum | Growth | 2019 | Quantum Computing | [^15] |
 | Quantum Source | Seed | 2021 | Quantum Computing | [^15] |
-| AAI Technologies | Seed | 2024 | Generative AI | [^7] |
+| AAI Technologies | Seed | 2025-05 | Generative AI | [^7] [^52] |
 | Finout | Seed | 2021 | Cloud & Infrastructure | [^15] |
 | Frontegg | Seed | 2020 | DevOps | [^15] [^27] |
 | Komodor | Seed | 2020 | DevOps | [^15] [^28] |
@@ -118,7 +118,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Optibus | Series A | 2017 | Mobility & Smart City | [^15] [^29] |
 | QuantHealth | Seed | 2021 | Digital Health | [^14] |
 | Variantyx | Series A | 2019 | Medical Devices | [^15] [^30] |
-| Masterschool | Seed | 2022 | EdTech | [^15] [^31] |
+| Masterschool | Seed | 2022-05-19 | EdTech | [^15] [^31] [^51] |
 | Logz.io | Series E | 2020 | DevOps | [^15] [^32] |
 | Swimm | Seed | 2019 | DevOps | [^15] |
 | Mend | Series D | 2021 | DevOps | [^15] [^33] |
@@ -156,7 +156,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Celeno Communications | Early Stage | 2005 | Semiconductors | [^2] |
 | Anobit | Series A | 2007 | Storage Technology | [^15] [^45] |
 | Graphcore | Series B | 2017 | AI Chips | [^15] [^46] |
-| Adaptive6 | Series A | 2026 | Software | [^6] |
+| Adaptive6 | Series A | 2026-01-28 | Software | [^6] [^50] |
 | Borderfree | Series B | 2012 | Retail & e-Commerce | [^15] [^47] |
 | Jinko Solar | Early Stage | 2007 | Climatech | [^15] |
 | Retalix | Early Stage | 1998 | Retail & e-Commerce | [^15] |
@@ -256,3 +256,6 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^47]: Tracxn, "Borderfree - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/borderfree/__Tr5RSHvsLZHjx-sF7ZrMB4LX9nbXgYsTftEIpbTFnd4
 [^48]: TechCrunch, "IBM Buys HTML5 App Development Company WorkLight For $70M," January 2012, accessed April 2026. https://techcrunch.com/2012/01/31/ibm-buys-html5-app-development-company-worklight-to-expand-mobile-enterprise-services/
 [^49]: Tracxn, "Via - Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/via/__uWA28hf4xS_-93FRIx__4akCNox6LKn3KFlCsnXnBtc/funding-and-investors
+[^50]: PR Newswire, "Adaptive6 emerges from stealth with $44M to detect and remediate cloud waste, bringing the cybersecurity playbook to cloud cost governance," January 28, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/adaptive6-emerges-from-stealth-with-44m-to-detect-and-remediate-cloud-waste-bringing-the-cybersecurity-playbook-to-cloud-cost-governance-302672554.html
+[^51]: PR Newswire, "Masterschool announces $100 million Seed round to build the largest network of career schools in the world," May 19, 2022, accessed June 2026. https://www.prnewswire.com/il/news-releases/masterschool-announces-100-million-seed-round-to-build-the-largest-network-of-career-schools-in-the-world-301551189.html
+[^52]: Globes, "Shashua's artificial expert intelligence co AA-I completes seed round," May 18, 2025, accessed June 2026. https://en.globes.co.il/en/article-shashuas-artificial-expert-intelligence-co-aa-i-completes-seed-round-1001510682
