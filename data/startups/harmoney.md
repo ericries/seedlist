@@ -17,8 +17,12 @@ stage_latest: Growth
 total_raised: €10M+
 investors: []
 firms: []
-founders: []
-last_researched: 2026-05-22
+founders:
+- name: Thomas Van Maele
+  role: Co-Founder & CEO
+- name: Wouter Haerick
+  role: Co-Founder
+last_researched: 2026-06-03
 status: published
 ---
 

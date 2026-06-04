@@ -146,6 +146,7 @@ Based on 120+ verified investments from the firm's portfolio page, the following
 | Chainguard | Series B | ~2024 | Cybersecurity | Active | [^9] |
 | LangChain | Series A | ~2024 | AI/Developer Tools | Active | [^9] |
 | Vercel | Growth | ~2023 | Developer Tools | Active | [^9] |
+| Suno | Series D (participant, $400M at $5.4B val; Bond Capital led) | 2026-06-03 | AI / Generative Music / Consumer | Active | [^13] |
 
 *This table represents approximately 30% of 400+ total investments over 44 years. Earlier vintage investments (pre-2000) are less well documented in current sources.*
 
@@ -179,3 +180,5 @@ No independently sourced founder testimonials found from third-party sources at 
 [^11]: PR Newswire, "AppDynamics Secures $50 Million Financing Round; Kicks Off 2013 with 300 Percent Growth," January 23, 2013. https://www.prnewswire.com/news-releases/appdynamics-secures-50-million-financing-round-kicks-off-2013-with-300-percent-growth-188006041.html — AppDynamics' $50M Series D announced January 23, 2013 was led by new investor IVP, with existing investors Greylock Partners, Kleiner Perkins Caufield & Byers, and Lightspeed Venture Partners also participating. Accessed May 2026.
 
 [^12]: IVP press release, "AppDynamics Secures $50 Million Financing Round; Kicks Off 2013 with 300 Percent Growth." https://www.ivp.com/news/press-release/appdynamics-secures--50-million-financing-round--kicks-off-2013-with-300-percent-growth/ — IVP's own announcement of the January 23, 2013 Series D investment. Accessed May 2026.
+
+[^13]: TechCrunch, "Still facing copyright lawsuits, AI music generator Suno raises another $400M," June 3, 2026. Accessed June 2026. https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/ — Confirms IVP participated in Suno's $400M Series D on June 3, 2026 at $5.4B valuation; Bond Capital led; Forerunner Ventures, Union Square Ventures, Alkeon, and Quiet Capital also participated alongside returning Matrix Partners, Lightspeed Venture Partners, Menlo Ventures, and Schroders Capital.
