@@ -8221,7 +8221,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool — and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 18,
+      "size": 21,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8312,6 +8312,20 @@
           "slug": "sonya-huang",
           "name": "Sonya Huang",
           "firm": "sequoia-capital"
+        },
+        {
+          "slug": "michael-mignano",
+          "name": "Michael Mignano",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "thomas-wolf",
+          "name": "Thomas Wolf"
+        },
+        {
+          "slug": "jordan-crook",
+          "name": "Jordan Crook",
+          "firm": "betaworks"
         }
       ]
     },
@@ -9108,7 +9122,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 19,
+      "size": 23,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9204,6 +9218,25 @@
           "slug": "alice-bentinck",
           "name": "Alice Bentinck",
           "firm": "entrepreneurs-first"
+        },
+        {
+          "slug": "taavet-hinrikus",
+          "name": "Taavet Hinrikus",
+          "firm": "plural"
+        },
+        {
+          "slug": "andrey-khusid",
+          "name": "Andrey Khusid",
+          "firm": "s16vc"
+        },
+        {
+          "slug": "thomas-wolf",
+          "name": "Thomas Wolf"
+        },
+        {
+          "slug": "martin-varsavsky",
+          "name": "Martín Varsavsky",
+          "firm": "independent"
         }
       ]
     },
@@ -9212,7 +9245,7 @@
       "name": "The Biotech Believers",
       "tagline": "From CRISPR to synthetic biology to computational drug discovery. They bet on the biological century.",
       "type": "curated",
-      "size": 8,
+      "size": 9,
       "members": [
         {
           "slug": "eddie-eltoukhy",
@@ -9253,6 +9286,11 @@
           "slug": "zach-weinberg",
           "name": "Zach Weinberg",
           "firm": "operator-partners"
+        },
+        {
+          "slug": "martin-varsavsky",
+          "name": "Martín Varsavsky",
+          "firm": "independent"
         }
       ]
     },
@@ -9261,7 +9299,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 63,
+      "size": 69,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9552,6 +9590,35 @@
           "slug": "brian-singerman",
           "name": "Brian Singerman",
           "firm": "gpx"
+        },
+        {
+          "slug": "taavet-hinrikus",
+          "name": "Taavet Hinrikus",
+          "firm": "plural"
+        },
+        {
+          "slug": "andrey-khusid",
+          "name": "Andrey Khusid",
+          "firm": "s16vc"
+        },
+        {
+          "slug": "michael-mignano",
+          "name": "Michael Mignano",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "thomas-wolf",
+          "name": "Thomas Wolf"
+        },
+        {
+          "slug": "yahya-mokhtarzada",
+          "name": "Yahya Mokhtarzada",
+          "firm": "rocket-money"
+        },
+        {
+          "slug": "martin-varsavsky",
+          "name": "Martín Varsavsky",
+          "firm": "independent"
         }
       ]
     },
@@ -9801,7 +9868,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios — they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 26,
+      "size": 27,
       "members": [
         {
           "slug": "boris-wertz",
@@ -9927,6 +9994,11 @@
         },
         {
           "slug": "auren-hoffman"
+        },
+        {
+          "slug": "taavet-hinrikus",
+          "name": "Taavet Hinrikus",
+          "firm": "plural"
         }
       ]
     },
@@ -11083,7 +11155,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors — they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 24,
+      "size": 25,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -11204,6 +11276,10 @@
           "slug": "sarah-guo",
           "name": "Sarah Guo",
           "firm": "conviction"
+        },
+        {
+          "slug": "thomas-wolf",
+          "name": "Thomas Wolf"
         }
       ]
     },
@@ -11374,7 +11450,7 @@
       "name": "The Podcast VCs",
       "tagline": "They build in public — on microphones. Through All-In, Masters of Scale, No Priors, and more, they've made venture capital a spectator sport.",
       "type": "curated",
-      "size": 9,
+      "size": 10,
       "members": [
         {
           "slug": "bill-gurley",
@@ -11420,6 +11496,11 @@
           "slug": "turner-novak",
           "name": "Turner Novak",
           "firm": "banana-capital"
+        },
+        {
+          "slug": "auren-hoffman",
+          "name": "Auren Hoffman",
+          "firm": "safegraph"
         }
       ]
     },
@@ -11870,7 +11951,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves — but founders read their writing before pitching.",
       "type": "curated",
-      "size": 11,
+      "size": 13,
       "members": [
         {
           "slug": "paul-graham",
@@ -11926,6 +12007,16 @@
           "slug": "sam-hinkie",
           "name": "Sam Hinkie",
           "firm": "87-capital"
+        },
+        {
+          "slug": "michael-mignano",
+          "name": "Michael Mignano",
+          "firm": "union-square-ventures"
+        },
+        {
+          "slug": "auren-hoffman",
+          "name": "Auren Hoffman",
+          "firm": "safegraph"
         }
       ]
     },
