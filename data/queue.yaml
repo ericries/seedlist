@@ -26354,3 +26354,121 @@ queue:
   firm: Apoha
   discovered_from: apoha
   source: Co-founder and CEO of Apoha
+- name: UL Invest
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: innovorder
+  source: Lead investor in Innovorder €20M growth round (June 2026); family office
+    of tech entrepreneur Laurent Useldinger
+- name: Evolem
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: innovorder
+  source: Co-investor (since 2019) in Innovorder €20M growth round (June 2026); Lyon-based
+    family office
+- name: Jérôme Varnier
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Innovorder
+  discovered_from: innovorder
+  source: Co-founder and CEO of Innovorder
+- name: Laurent Useldinger
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: UL Invest
+  discovered_from: innovorder
+  source: Founder of UL Invest family office; tech entrepreneur; lead investor in
+    Innovorder June 2026 round
+- name: Alto Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: innovorder
+  source: Led Innovorder €10M Series A in 2019
+- name: 4DX Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aethexai
+  source: Lead investor in AethexAI $3M pre-seed (June 2026); Africa/MENA-focused
+    VC
+- name: Enza Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aethexai
+  source: Co-investor in AethexAI $3M pre-seed (June 2026); Africa-focused early-stage
+    VC
+- name: Mojo Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aethexai
+  source: Co-investor in AethexAI $3M pre-seed (June 2026)
+- name: Mariama Diallo
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: AethexAI
+  discovered_from: aethexai
+  source: Co-founder & CEO of AethexAI; ex-Goldman Sachs
+- name: Ayooluwa Odemuyiwa
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: AethexAI
+  discovered_from: aethexai
+  source: Co-founder & CTO of AethexAI; ex-Meta
+- name: Night Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lassie
+  source: Co-investor in Lassie $35M Series A (June 2026)
+- name: Alex Rampell
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: lassie
+  source: a16z general partner; Affirm co-founder; joined Lassie board June 2026
+- name: Brian Balfour
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Reforge
+  discovered_from: lassie
+  source: Reforge CEO; angel investor in Lassie $35M Series A (June 2026)
+- name: Steijn Pelle
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Lassie
+  discovered_from: lassie
+  source: Co-founder & CEO of Lassie; ex-Robinhood, ex-Coinbase PM
+- name: Frédéric Renken
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Lassie
+  discovered_from: lassie
+  source: Co-founder of Lassie; first product hire at Superhuman
