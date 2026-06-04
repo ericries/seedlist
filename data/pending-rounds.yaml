@@ -67,7 +67,7 @@ pending_rounds:
   parsed_company: Town
   parsed_amount: $55M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Adaptive Innovations raised $50M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -99,7 +99,7 @@ pending_rounds:
   parsed_company: Apoha
   parsed_amount: $36M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Findigs raised $32M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -107,7 +107,7 @@ pending_rounds:
   parsed_company: Findigs
   parsed_amount: $32M
   parsed_round: Series C
-  status: pending
+  status: processed
 - title: Plot raised $10M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

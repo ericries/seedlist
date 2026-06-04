@@ -26281,3 +26281,76 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: thomas-wolf
+- name: Draper Associates
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoha
+  source: Participant in Apoha $36M Series A (2026-06-03)
+- name: Redalpine
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoha
+  source: Seed investor in Apoha; participated in $36M Series A (2026-06-03)
+- name: Wilbe
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoha
+  source: Seed investor in Apoha; participated in $36M Series A (2026-06-03)
+- name: Nucleus
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoha
+  source: Seed investor in Apoha; participated in $36M Series A (2026-06-03)
+- name: RPM Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: findigs
+  source: Lead investor in Findigs $32M Series C (2026-06-02)
+- name: Marc Weiser
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: RPM Ventures
+  discovered_from: findigs
+  source: Managing Director at RPM Ventures, led Findigs $32M Series C (2026-06-02)
+- name: Frontier Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: findigs
+  source: Existing investor in Findigs $32M Series C (2026-06-02)
+- name: Western Technology Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: findigs
+  source: Existing investor in Findigs $32M Series C (2026-06-02)
+- name: Steve Carroll
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Findigs
+  discovered_from: findigs
+  source: Co-founder and CEO of Findigs
+- name: Shamit Shrivastava
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Apoha
+  discovered_from: apoha
+  source: Co-founder and CEO of Apoha
