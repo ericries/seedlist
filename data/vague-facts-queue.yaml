@@ -165373,7 +165373,8 @@ vague_facts:
   line: '| Adaptive6 | Series A | 2026 | Software | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2026-01-28 via PR Newswire stealth-emergence announcement. USVP led $28M Series A, with Pitango VC, New Era Capital Partners, Forgepoint Capital, and Vertex Ventures participating; total funding $44M. Added citation [^50]. (resolved 2026-06-04)'
 - profile: firms/powerhouse-ventures
   profile_name: Powerhouse Ventures
   company: ThinkLabs AI
