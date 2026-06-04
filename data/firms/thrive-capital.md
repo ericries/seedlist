@@ -208,6 +208,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Figma | Growth | ~2020 | Developer Tools / Design | Public (IPO 2025) [^8] |
 | Forus | Growth (led, $160M at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Private [^40][^41] |
 | Socket | Series C (led, $60M at $1B val) | 2026-05-20 | Cybersecurity / Software Supply Chain | Private [^47] |
+| NewLimit | Series C (participated, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^48][^49][^50] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
 
@@ -364,3 +365,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^46]: BusinessWire, "Shield Raises $100 Million From Thrive Holdings to Accelerate the Growth of its IT Services Platform," February 2, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260202196878/en/Shield-Raises-$100-Million-From-Thrive-Holdings-to-Accelerate-the-Growth-of-its-IT-Services-Platform — Follow-on $100M from Thrive Holdings announced February 2, 2026.
 
 [^47]: Socket Blog, "Socket Raises $60M Series C at a $1B Valuation to Help Enterprises Build Securely With AI," May 20, 2026. Accessed May 2026. https://socket.dev/blog/socket-raises-60m-series-c-press-release — Confirms Thrive Capital led Socket's $60M Series C on May 20, 2026 at $1B valuation; a16z, Abstract Ventures, and Capital One Ventures participated. Cross-referenced with SiliconANGLE, "Code security startup Socket raises $60M in funding," https://siliconangle.com/2026/05/20/code-security-startup-socket-raises-60m-funding/ and SecurityWeek, "Socket Raises $60 Million at $1 Billion Valuation," https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/.
+
+[^48]: NewLimit blog, "NewLimit raises $435M led by Founders Fund to bring longevity medicines to human trials," June 2, 2026. Accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders — $435M Series C led by Founders Fund; Thrive Capital among new investors alongside Greenoaks and Quiet Capital.
+
+[^49]: STAT News, "Longevity startup NewLimit raises $435 million ahead of first clinical trial," June 2, 2026. Accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/ — Independent confirmation: $435M Series C led by Founders Fund; ~$3.1B post-money valuation; Thrive Capital among participants.
+
+[^50]: Endpoints News, "Anti-aging startup NewLimit raises $435M at $3B+ valuation, eyes clinic in 2027," June 2, 2026. Accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third independent confirmation of $435M Series C at $3.1B valuation with Thrive Capital as new investor.

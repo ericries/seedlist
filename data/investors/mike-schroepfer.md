@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, early-stage]
 sector_focus: [climate-tech, energy, fusion, nuclear, grid-infrastructure, critical-minerals, industrial, deeptech]
 check_size: "Unknown"
 last_verified_investment:
-  date: 2026-06-01
-  company: "Gigascale Capital Fund I (firm-level)"
-  round: "Fund close $250M"
+  date: 2026-02-18
+  company: "Heron Power"
+  round: "Series B"
 social:
   twitter: "@schrep"
   linkedin: "linkedin.com/in/mschroepfer"
@@ -48,17 +48,17 @@ Sample size is small relative to the full portfolio; percentages are not compute
 
 See [Gigascale Capital firm portfolio](../firms/gigascale-capital.md) for the consolidated list. Schroepfer is the founding partner on all Gigascale investments.
 
-| Company | Year | Stage | Source |
+| Company | Date | Stage | Source |
 |---|---|---|---|
-| Commonwealth Fusion Systems | 2023+ | (participant) | [^1] |
-| Xcimer Energy | 2023+ | (participant) | [^4] |
-| Radiant Nuclear | 2023+ | (participant) | [^4] |
-| Arbor Energy | 2023+ | (participant) | [^4] |
-| Heron Power | 2023+ | (participant) | [^1] |
-| Form Energy | 2023+ | (participant) | [^1] |
-| Dioxycle | 2023+ | (participant) | [^4] |
-| Mill | 2023+ | (participant) | [^1] |
-| Solcoa | 2023+ | (participant) | [^1] |
+| Commonwealth Fusion Systems | 2025-08-28 | Series B2 ($863M) — participant | [^5] |
+| Xcimer Energy | 2024-06-04 | Series A ($100M) — participant | [^6] |
+| Radiant Nuclear | 2025-05 | Series C ($165M close) — participant | [^12] |
+| Arbor Energy | 2025-10-21 | Series A ($55M) — participant | [^7] |
+| Heron Power | 2026-02-18 | Series B ($140M) — participant | [^8] |
+| Form Energy | 2024-10-10 | Series F ($405M) — participant | [^9] |
+| Dioxycle | 2023-07-26 | Series A ($17M) — participant | [^10] |
+| Mill | 2023+ | Participant (round date unresolvable) | [^11] |
+| Solcoa | 2025+ | Participant (round date unresolvable) | [^1] |
 
 ## In Their Own Words
 
@@ -80,3 +80,11 @@ No independently sourced founder testimonials found at time of profile creation.
 [^2]: BusinessWire, "Gigascale Capital Raises $250 Million Fund to Back Companies Rebuilding the Physical Economy for Climate Impact," June 1, 2026. https://www.businesswire.com/news/home/20260601079849/en/Gigascale-Capital-Raises-$250-Million-Fund-to-Back-Companies-Rebuilding-the-Physical-Economy-for-Climate-Impact
 [^3]: Axios, "Gigascale Capital announces $250 million fund for rebuilding physical economy," June 1, 2026. https://www.axios.com/2026/06/01/gigascale-capital-schroepfer-250-million-fund
 [^4]: ESG Today, "Gigascale Capital Launches $250 Million Early-Stage Climate Tech Fund," June 1, 2026. https://www.esgtoday.com/gigascale-capital-launches-250-million-early-stage-climate-tech-fund/
+[^5]: Commonwealth Fusion Systems press release, "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy," August 28, 2025. https://www.cfs.energy/news-and-media/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy/
+[^6]: Xcimer Energy press release, "$100 Million Raised to Advance Inertial Fusion Energy Toward Commercialization," June 4, 2024. https://xcimer.energy/xcimer-raises-100-million-to-put-inertial-fusion-energy-on-path-to-commercialization/
+[^7]: BusinessWire, "Arbor Energy Raises $55 Million Series A to Scale Abundant Clean Power for the AI Economy," October 21, 2025. https://www.businesswire.com/news/home/20251021233233/en/Arbor-Energy-Raises-$55-Million-Series-A-to-Scale-Abundant-Clean-Power-for-the-AI-Economy
+[^8]: TechCrunch, "Heron Power raises $140M to ramp production of grid-altering tech," February 18, 2026. https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/
+[^9]: Form Energy press release, "Form Energy Secures $405M in Series F Financing to Expand Iron-Air Battery Business and Operations," October 10, 2024. https://formenergy.com/form-energy-secures-405m-in-series-f-financing-to-expand-iron-air-battery-business-and-operations/
+[^10]: Dioxycle press release, "Dioxycle raises $17m to turn CO2 emissions into sustainable chemicals," July 26, 2023. https://dioxycle.com/dioxycle-raises-17m-to-turn-co%e2%82%82-emissions-into-sustainable-chemicals/
+[^11]: Gigascale Capital portfolio profile, "Mill: Recycling Food Waste," accessed June 2026. https://gigascale.com/profiles/mill-changing-food-waste-habits/
+[^12]: Radiant Nuclear blog, "Radiant closes $165 Million Series C with additional funding from Giant Ventures, StepStone, ARK Venture Fund, and others," May 2025. https://www.radiantnuclear.com/blog/series-c-close/

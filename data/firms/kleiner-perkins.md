@@ -203,6 +203,7 @@ The following table includes notable investments verified through multiple sourc
 | Rogo | Series D | 2026 | AI / Fintech | Private [^33] |
 | Parallel Web Systems | Series B | 2026-04-29 | AI / Web Infrastructure | Private [^40] |
 | Mind Robotics | Growth (lead, $400M) | 2026-05-13 | Robotics / Industrial | Private [^45] |
+| NewLimit | Series C (returning investor, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^46][^47][^48] |
 
 *Note: This table includes 62 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -346,3 +347,9 @@ No independently sourced founder testimonials with direct quotes about the exper
 
 [^44]: BusinessWire, "Manifest OS Raises $60M to Scale the World's First AI-Native Law Firm Model," April 28, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model — $60M Series A announced April 28, 2026 at $750M valuation; led by Menlo Ventures with Kleiner Perkins, First Round Capital, and Quiet Capital participating.
 [^45]: TechCrunch, "Rivian spinoff Mind Robotics raises another $400M," May 13, 2026. Accessed May 2026. https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/ — Kleiner Perkins led Mind Robotics' $400M round on May 13, 2026, at a valuation of more than $3 billion; Volkswagen Group's venture arm and Salesforce Ventures also participated. Mind Robotics is a Rivian-spinoff industrial robotics company chaired by Rivian CEO RJ Scaringe.
+
+[^46]: NewLimit blog, "NewLimit raises $435M led by Founders Fund to bring longevity medicines to human trials," June 2, 2026. Accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders — $435M Series C led by Founders Fund; Kleiner Perkins among returning investors.
+
+[^47]: STAT News, "Longevity startup NewLimit raises $435 million ahead of first clinical trial," June 2, 2026. Accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/ — Independent confirmation: $435M Series C; ~$3.1B post-money valuation; Kleiner Perkins listed among existing investors.
+
+[^48]: Endpoints News, "Anti-aging startup NewLimit raises $435M at $3B+ valuation, eyes clinic in 2027," June 2, 2026. Accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third independent confirmation of $435M Series C at $3.1B valuation with Kleiner Perkins among returning investors.
