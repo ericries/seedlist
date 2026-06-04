@@ -94,14 +94,15 @@ The following is a partial list of verified portfolio companies. Quiet Capital's
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Mach9 | Seed | 2024 | AI / Geospatial | Geo Week News [^24] |
-| Standard Bots | Series B | 2024 | Robotics | GlobeNewsWire [^26] |
+| NewLimit | Series C | 2026-06-02 | Longevity / Biotech | NewLimit blog [^29], STAT News [^30] |
+| Mach9 | Seed | 2024-11-14 | AI / Geospatial | Geo Week News [^24] |
+| Standard Bots | Series B | 2024-07-12 | Robotics | GlobeNewsWire [^26] |
 | The Bot Company | — | ~2024 | Robotics | Fortune [^12] |
 | Airhouse | Pre-Seed | 2018 | Logistics | Signal by NFX [^25] |
 | Mirror Emoji Keyboard | Venture | 2017 | Consumer | Signal by NFX [^25] |
 | Color | Series A | 2015 | Healthcare | Signal by NFX [^25] |
 | Reddit | Series C | ~2014 | Consumer / Social | Crunchbase News [^22] |
-| ElevenLabs | Series B | 2024 | AI / Voice | Wikipedia [^27] |
+| ElevenLabs | Series B | 2024-01-22 | AI / Voice | TechCrunch [^27] |
 ~unknown| OpenAI | — | — | AI | Quiet Capital website [^1] |
 ~unknown| Sanas | — | — | AI / Voice | Quiet Capital website [^1] |
 ~unknown| Mercury | — | — | Fintech | Quiet Capital website [^1] |
@@ -148,7 +149,7 @@ The following is a partial list of verified portfolio companies. Quiet Capital's
 ~unknown| Castelion | — | — | Defense | Quiet Capital website [^1] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Press release [^28] |
 
-*Note: This table represents approximately 50 of 262 companies listed on Quiet Capital's portfolio page. Most entries lack specific investment year and stage because the firm's website and public sources do not attribute precise dates to individual investments. Only 4 investments have independently verified years and stages from press or regulatory sources.*
+*Note: This table represents approximately 50 of 262 companies listed on Quiet Capital's portfolio page. Most entries lack specific investment year and stage because the firm's website and public sources do not attribute precise dates to individual investments. Only 5 investments have independently verified years and stages from press or regulatory sources.*
 
 ## In Their Own Words
 
@@ -194,5 +195,7 @@ No independently sourced founder testimonials found. Quiet Capital maintains a d
 [^24]: Geo Week News, "Mach9 Raises $12 Million Led by Quiet Capital to Scale AI-Powered Geospatial Mapping Solutions," November 15, 2024. https://www.geoweeknews.com/news/mach9-raises-12-million-led-by-quiet-capital-to-scale-ai-powered-geospatial-mapping-solutions
 [^25]: Signal by NFX, "Lee Linden's Investing Profile," accessed April 2026. https://signal.nfx.com/investors/lee-linden
 [^26]: GlobeNewsWire, "Standard Bots Secures $63M in Funding to Propel American Manufacturing Forward with AI-Driven Robotics," July 12, 2024. https://www.globenewswire.com/news-release/2024/07/12/2912514/0/en/Standard-Bots-Secures-63M-in-Funding-to-Propel-American-Manufacturing-Forward-with-AI-Driven-Robotics.html
-[^27]: Wikipedia, "ElevenLabs," accessed April 2026. https://en.wikipedia.org/wiki/ElevenLabs
+[^27]: TechCrunch, "Voice cloning startup ElevenLabs lands $80M, achieves unicorn status," January 22, 2024. https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/
 [^28]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/
+[^29]: NewLimit blog, "NewLimit raises $435M led by Founders Fund," June 2, 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders
+[^30]: STAT News, "Longevity startup NewLimit announces $435 million clinical trial financing," June 2, 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/

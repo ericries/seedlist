@@ -54,9 +54,9 @@ Naimi takes upwards of 30 pitch meetings per week to build his "frame of referen
 
 ## Inferred Thesis
 
-Based on 38 verified investments from the portfolio table below (a sample representing approximately 7% of the firm's 500+ claimed investments — too small for reliable sector percentages):
+Based on 39 verified investments from the portfolio table below (a sample representing approximately 7% of the firm's 500+ claimed investments — too small for reliable sector percentages):
 
-**Stage distribution:** The firm invests primarily at seed and Series A, consistent with its stated focus. Of the 38 verified investments, the majority are seed-stage, with some pre-seed and Series A rounds.
+**Stage distribution:** The firm invests primarily at seed and Series A, consistent with its stated focus. Of the 39 verified investments, the majority are seed-stage, with some pre-seed and Series A rounds.
 
 **Sector patterns:** The portfolio shows significant concentration in enterprise software and AI (companies like Hebbia, Cognition, LangChain, Replit, 11x, WorkOS), fintech (Wise, Petal, Alpaca, Cherry), and crypto/web3 (Solana, Compound Labs, Polymarket). Despite claiming to be sector-agnostic, Tracxn data reports 104 enterprise application investments and 48 high-tech investments out of 192 tracked companies, suggesting enterprise software is the dominant sector at approximately 54% [^5].
 
@@ -115,6 +115,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Telepatia | Seed (participated, $9M) | 2025-10-16 | Healthcare/AI (LatAm) | Active [^36][^37][^38] |
 | Coworker AI | Seed ($13M, participated) | 2025-05-21 | AI / Enterprise | Active [^15][^39][^40][^41] |
 | Era | Seed (co-led, $9M) | 2026-04-23 | AI / Consumer Hardware | Active [^16] |
+| NewLimit | Series C ($435M, returning investor) | 2026-06-02 | Biotech / Longevity | Active [^48][^49][^50] |
 
 Note: Many investment years are approximate, marked with "~", based on company founding years or first known funding rounds. This table represents approximately 7% of Abstract's 500+ total investments. Tracxn reports 192 companies tracked with 83 seed-stage investments averaging $5.52M round sizes [^5].
 
@@ -194,3 +195,9 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^46]: International Mining, "Aether receives financial backing, targets lithium extraction opportunities," August 16, 2023, accessed May 2026. https://im-mining.com/2023/08/16/aether-receives-financial-backing-targets-lithium-extraction-opportunities/ — Independent confirmation of the $49M Series A on August 16, 2023; quotes Trevor Zimmerman of Unless as a lead investor. Aether is a Menlo Park-based synthetic biology company using AI and robotic laboratory automation to engineer enzymes for industrial applications including sustainable lithium extraction.
 
 [^47]: Finsmes, "Aether Raises $49M in Series A Funding," August 2023, accessed May 2026. https://www.finsmes.com/2023/08/aether-raises-49m-in-series-a-funding.html — Third source dating the Series A round to August 2023 with Natural Capital (Jay Zaveri) and Unless (Trevor Zimmerman) co-leading. Aether Bio's only Series A round to date; the December 3, 2025 follow-on $15M was characterized as a Series A1 extension led by Tribe Capital with existing investors Natural Capital, Unless, 4DX, and Radicle Impact participating.
+
+[^48]: NewLimit blog, "NewLimit raises $435M led by Founders Fund to bring longevity medicines to human trials," June 2, 2026, accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders — Primary source: announces $435M Series C led by Founders Fund with new investors Thrive Capital, Greenoaks, and Quiet Capital, alongside returning investors Kleiner Perkins, Abstract, Nat Friedman/Daniel Gross, Valor Equity Partners, Eli Lilly Ventures, Human Capital, and others. Abstract Ventures explicitly named as returning investor.
+
+[^49]: STAT News, "Longevity startup NewLimit announces $435 million clinical trial financing," June 2, 2026, accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/ — Independent confirmation of June 2, 2026 Series C announcement at $3.1B post-money valuation. NewLimit plans first clinical trial of a liver medicine; third funding announcement in approximately one year (following $130M Series B in May 2025 and $45M round in October 2025).
+
+[^50]: Endpoints News, "Anti-aging biotech NewLimit raises $435M at $3B valuation," June 2, 2026, accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third source confirming the $435M Series C; valuation of $3.1B (post-money) representing roughly 3x increase over prior year. Clinical trials targeted for 2027.

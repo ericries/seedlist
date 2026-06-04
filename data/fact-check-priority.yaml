@@ -167,3 +167,7 @@ priority:
   type: investor
   reason: "joined Plot seed via Seven Seven Six (2026-06-02)"
   added: 2026-06-04
+- slug: valor-equity-partners
+  type: firm
+  reason: "joined NewLimit Series C (2026-06-02) — needs year backfill on 37 pre-existing portfolio rows before NewLimit can be added"
+  added: 2026-06-04
