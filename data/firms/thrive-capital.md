@@ -128,6 +128,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Helion Energy | Series G (Lead) | 2026 | Fusion / Energy | Private [^helion1] |
 | Instagram | Series B | 2012 | Consumer / Social | Acquired by Facebook (2012) [^1][^2] |
 | Warby Parker | Series A | ~2011 | Consumer / E-commerce | Public (IPO 2021) [^1][^2] |
 | GroupMe | Seed | ~2010 (founded) | Consumer / Messaging | Acquired by Skype/Microsoft (2011) [^1] |
@@ -277,6 +278,8 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 *Note: The Systrom, Lightcap, Wanstrath, Altman, and Miller quotes all come from a single Fortune profile of Kushner based on 35+ interviews. No independently sourced negative or critical founder testimonials were found in this research pass.*
 
 ## Sources
+
+[^helion1]: Helion Energy press release, "Helion Raises $465 Million Series G Funding Round to Meet Surging Global Demand for Power," June 4, 2026. Accessed June 2026. https://www.helionenergy.com/newsroom/helion-raises-465-million-series-g-funding-round-to-meet-surging-global-demand-for-power
 
 [^1]: "How Josh Kushner built Thrive Capital and became a billionaire startup investor." Fortune, 2024. https://fortune.com/longform/josh-kushner-net-worth-thrive-capital-investments-openai-100-billion-valuation/
 

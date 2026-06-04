@@ -26707,3 +26707,119 @@ queue:
   firm: ElevenLabs
   discovered_from: andrey-khusid
   source: ElevenLabs CEO; co-angel with Khusid on CodeWords $9M seed
+- name: Cloud9 Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncover
+  source: Lead investor in Uncover Series A (2026-06-02)
+- name: ABSeed Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncover
+  source: Co-investor in Uncover Series A (2026-06-02)
+- name: Endeavor Catalyst
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncover
+  source: Co-investor in Uncover Series A (2026-06-02)
+- name: Daniel Guinezi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Uncover
+  discovered_from: uncover
+  source: Co-Founder & Co-CEO of Uncover (Brazilian MMM startup)
+- name: Pedro Reiss
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncover
+  source: Strategic investor and board member, Uncover Series A (2026-06-02)
+- name: Celso Ribeiro
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncover
+  source: Strategic investor and board member, Uncover Series A (2026-06-02)
+- name: Guilherme Bressane
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncover
+  source: Strategic investor and board member, Uncover Series A (2026-06-02)
+- name: Alta Park Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: helion-energy
+  source: Participated in Helion Energy Series G (2026-06-04)
+- name: Anti Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: helion-energy
+  source: Participated in Helion Energy Series G (2026-06-04)
+- name: Mithril Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: helion-energy
+  source: Existing investor in Helion Energy (Series G 2026-06-04)
+- name: Capricorn Technology Impact Funds
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: helion-energy
+  source: Existing investor in Helion Energy (Series G 2026-06-04)
+- name: Good Ventures Foundation
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: helion-energy
+  source: Existing investor in Helion Energy (Series G 2026-06-04), Dustin Moskovitz
+    family office
+- name: David Kirtley
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Helion Energy
+  discovered_from: helion-energy
+  source: Co-Founder & CEO of Helion Energy
+- name: VentureFriends
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kodesage
+  source: Lead investor in Kodesage Seed (2026-06-04), Athens-based VC
+- name: Portfolion
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kodesage
+  source: Pre-seed lead, also Kodesage Seed follow-on (2026-06-04)
+- name: Christian Szegedy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: xAI
+  discovered_from: kodesage
+  source: Angel investor in Kodesage Seed (2026-06-04), xAI co-founder

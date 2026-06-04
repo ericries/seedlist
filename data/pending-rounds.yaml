@@ -248,7 +248,7 @@ pending_rounds:
   parsed_company: Kodesage
   parsed_amount: $6.6M
   parsed_round: Seed
-  status: pending
+  status: processed
 - title: AethexAI raised $3M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -331,7 +331,7 @@ pending_rounds:
   parsed_company: Helion, the Sam Altman-backed fusion startup,
   parsed_amount: $465M
   parsed_round: null
-  status: pending
+  status: processed
 - title: 'The AlleyWatch Startup Daily Funding Report: 6/4/2026'
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-4-2026/
   source: alleywatch

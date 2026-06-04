@@ -96,6 +96,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Helion Energy | Series G | 2026-06-04 | Fusion / Energy | Active ($15.5B valuation) | [^helion1] |
 | Anduril | Seed (also Series C, D, E, H) | 2017 (Seed); 2026-05-13 (Series H) | Defense | Active (valued at $61B post Series H) | [^4][^11][^16] |
 | Applied Intuition | Seed | 2017 | Autonomous vehicles/Defense | Active (valued at $15B) | [^4][^12] |
 | Hugging Face | Series A | 2019 | AI/ML | Active | [^7][^13] |
@@ -149,6 +150,8 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 No independently sourced founder testimonials found. Lux Capital's portfolio companies have spoken positively about the firm's hands-on advisory approach and network access [^1], but specific verified founder quotes attributable to named individuals could not be independently confirmed at this time.
 
 ## Sources
+
+[^helion1]: Helion Energy press release, "Helion Raises $465 Million Series G Funding Round to Meet Surging Global Demand for Power," June 4, 2026. Accessed June 2026. https://www.helionenergy.com/newsroom/helion-raises-465-million-series-g-funding-round-to-meet-surging-global-demand-for-power
 
 [^1]: Sparkco, "Lux Capital: A Comprehensive Investor Profile," accessed March 2026. https://sparkco.ai/blog/lux-capital
 [^2]: Newcomer, "Ignored, Obscure, Obscure, Obscure," accessed March 2026. https://www.newcomer.co/p/ignored-obscure-obscure-obscure

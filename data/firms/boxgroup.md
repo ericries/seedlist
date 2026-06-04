@@ -107,6 +107,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Helion Energy | Series G | 2026-06-04 | Fusion / Energy | Active ($15.5B valuation) [^helion2026] |
 | Novella | Series A | 2026-05-14 | Insurtech | Active [^novella2026] |
 | Plaid | Seed | 2013-09-19 | Fintech | Active (valued at $13B+) [^2][^20] |
 | Ramp | Seed | 2019-08-08 | Fintech | Active (valued at $16B+) [^11] |
@@ -203,6 +204,8 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 No independently sourced founder testimonials found. BoxGroup's website does not feature public founder testimonials. While BoxGroup's approach of being a "favorite investor" and maintaining long-term relationships with portfolio founders like those at Clay and ID.me is well documented in firm communications [^6], no direct quotes from portfolio founders about their experience working with BoxGroup were found through dedicated searching of Twitter/X, podcast transcripts, Product Hunt launches, and press coverage.
 
 ## Sources
+
+[^helion2026]: Helion Energy press release, "Helion Raises $465 Million Series G Funding Round to Meet Surging Global Demand for Power," June 4, 2026. Accessed June 2026. https://www.helionenergy.com/newsroom/helion-raises-465-million-series-g-funding-round-to-meet-surging-global-demand-for-power
 
 [^1]: BoxGroup website, "About," accessed March 2026. https://www.boxgroup.com/about
 [^2]: Startup Savant, "BoxGroup to Close $255M as First Investor in FinTech Plaid," 2021, accessed March 2026. https://startupsavant.com/news/boxgroup-unicorn-plaid
