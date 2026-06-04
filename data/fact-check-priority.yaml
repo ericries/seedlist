@@ -95,18 +95,6 @@ priority:
   type: firm
   reason: "co-led Coralogix Series F (2026-06-03)"
   added: 2026-06-03
-- slug: nat-friedman
-  type: investor
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
-- slug: daniel-gross
-  type: investor
-  reason: "joined NewLimit Series C (2026-06-02)"
-  added: 2026-06-04
-- slug: capitalg
-  type: firm
-  reason: "joined AlphaSense Series G $350M at $7.5B (2026-06-03)"
-  added: 2026-06-04
 - slug: accel
   type: firm
   reason: "joined Cyera $300M at $12B (2026-06-02)"
@@ -117,8 +105,9 @@ priority:
   added: 2026-06-04
 - slug: redpoint-ventures
   type: firm
-  reason: "joined Cyera $300M (2026-06-02)"
+  reason: "RESOLVED 2026-06-04 — Cyera $300M participation added to portfolio"
   added: 2026-06-04
+  status: resolved
 - slug: sequoia-capital
   type: firm
   reason: "joined Cyera $300M (2026-06-02)"
@@ -181,8 +170,9 @@ priority:
   added: 2026-06-04
 - slug: redpoint-ventures
   type: firm
-  reason: "led Collate Series B $95M at ~$1B (2026-06-03)"
+  reason: "RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led, participated) and Collate $95M Series B (2026-06-03, led) added; Twilio corrected from Series A 2009 to Series D 2013-06-12 (led)"
   added: 2026-06-04
+  status: resolved
 - slug: accel
   type: firm
   reason: "joined FirstClub Series B $55M at $255M val (2026-06-03)"

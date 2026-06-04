@@ -1,7 +1,7 @@
 ---
 founded: 1999
 fund_size: $650M (Fund X, 2025); ~$4.5B total AUM
-last_researched: 2026-03-20
+last_researched: 2026-06-04
 location: Menlo Park, CA
 name: Redpoint Ventures
 sector_focus:
@@ -111,7 +111,7 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | Stripe | Series B | 2012 | Fintech/Payments | Active | TechCrunch [^3] |
 | Nubank | Series A | 2014 | Fintech | Public | Tracxn [^2] |
 | Snowflake | Series A | 2014 | Data/Cloud | Public (IPO 2020) | Sparkco [^3] |
-| Twilio | Series A | 2009 | Cloud communications | Public (IPO 2016) | Sparkco [^3] |
+| Twilio | Series D (led) | 2013-06-12 | Cloud communications | Public (IPO 2016) | PR Newswire [^16] |
 | HashiCorp | Series A | 2014 | Infrastructure software | Acquired (IBM, $6.4B) | Sparkco [^3] |
 | Netflix | Early | 2000 | Streaming/Media | Public | Wikipedia [^1], Sparkco [^3] |
 | Zendesk | Series A | 2009 | Customer support SaaS | Public (acquired 2022) | Sparkco [^3] |
@@ -127,6 +127,9 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | AcuityMD | Series C | 2026 | Healthcare/MedTech AI | Active | BusinessWire [^9] |
 | Omni | Series C | 2026 | AI/Analytics | Active | BusinessWire [^10] |
 | Golden Child | Seed + Series A (led) | 2026 | Consumer / Pet Food | Active | Refresh Miami [^12] |
+| Collate | Seed (led, $30M) | 2025-01-21 | AI / Life Sciences | Active | American Bazaar [^17] |
+| Collate | Series B (led, $95M) | 2026-06-03 | AI / Life Sciences | Active | RamaOnHealthcare [^18] |
+| Cyera | Late Stage ($300M, participated) | 2026-06-02 | Cybersecurity / DSPM | Active | SiliconANGLE [^19], TechCrunch [^20] |
 
 *This table represents a small fraction of Redpoint's 615+ portfolio companies [^3]. Years are approximate based on publicly available data.*
 
@@ -157,3 +160,8 @@ No independently sourced founder testimonials found. The firm's content platform
 [^13]: Newcomer, "Former GitHub CTO Jason Warner Raises $26 Million for Foundation Model Code Startup," May 24, 2023. Accessed May 2026. https://www.newcomer.co/p/former-github-cto-jason-warner-raises — Primary source on Poolside's $26M seed round announced May 24, 2023. Redpoint Ventures led, contributing $20M; Redpoint partners Erica Brescia and Jacob Effron led the investment, with Brescia taking a board seat. Co-founders: Jason Warner (ex-GitHub CTO) and Eiso Kant.
 [^14]: Crunchbase, "Seed Round - Poolside - 2023-05-14," accessed May 2026. https://lb.crunchbase.com/funding_round/poolside-4f90-seed--150974ec — Funding round profile confirming Redpoint-led seed.
 [^15]: Sifted, "US AI startup Poolside raises $126m seed round and relocates to France," August 2023. Accessed May 2026. https://sifted.eu/articles/poolside-raises-126m-relocated-france-news — Confirms Redpoint led the May 2023 $26M seed; the subsequent $126M extension in August 2023 was led by Xavier Niel and Felicis (Redpoint did not participate in the extension).
+[^16]: PR Newswire, "Twilio Announces $70 Million in Series D Funding, Redpoint Ventures and Draper Fisher Jurvetson Join as Investors," June 12, 2013. Accessed June 2026. https://www.prnewswire.com/news-releases/twilio-announces-70-million-in-series-d-funding-redpoint-ventures-and-draper-fisher-jurvetson-join-as-investors-211238191.html — Primary source confirming Redpoint led Twilio's $70M Series D on 2013-06-12; Scott Raney joined Twilio's board.
+[^17]: American Bazaar, "Biotech startup Collate secures $30 million seed fund to automate paperwork," January 21, 2025. Accessed June 2026. https://americanbazaaronline.com/2025/01/21/biotech-startup-collate-secures-30-million-seed-fund-to-automate-paperwork458548/ — Confirms $30M seed led by Redpoint at $100M+ valuation, January 2025.
+[^18]: RamaOnHealthcare, "AI Startup Collate Raises $95 Million To Automate Life Sciences Paperwork," June 3, 2026. Accessed June 2026. https://ramaonhealthcare.com/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/ — Confirms $95M Series B led by Redpoint at ~$1B valuation, total funding $125M.
+[^19]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Confirms Redpoint among participants in $300M round led by Evolution Equity Partners.
+[^20]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ — Confirms $300M round at $12B post-money valuation.

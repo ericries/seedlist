@@ -3,9 +3,9 @@ check_size: $1M-$100M
 firm: nfdg
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Granola
-  date: ~2026
-  round: Series C ($125M, NFDG participated)
+  company: NewLimit
+  date: 2026-06-02
+  round: Series C ($435M, NFDG participated)
 location: San Francisco, CA
 name: Nat Friedman
 role: Angel Investor; VP of Product, Meta Superintelligence Labs; Former CEO, GitHub
@@ -81,7 +81,7 @@ Based on analysis of 26 unique companies with verified investments in the table 
 - AI & machine learning: 16 of 26 (62%) — Perplexity, Character.ai, Safe Superintelligence, ElevenLabs, Pika, Magic, Suno, EvolutionaryScale, The Bot Company, Keen Technologies, Pulse, Anysphere (Cursor), Distyl AI, Recraft, XBOW, Granola [^4][^12][^14][^15][^17][^18][^19][^20][^21]
 - Developer tools & infrastructure: 5 of 26 (19%) — Retool, Vercel, Weights & Biases, Streamlit, ggml.ai [^11][^12][^13]
 - Enterprise SaaS: 3 of 26 (12%) — Scale AI, Basis, Sumble [^11][^22][^23]
-- Other (biotech, climate): 2 of 26 (8%) — NewLimit, Terraform Industries [^12][^24][^11]
+- Other (biotech, climate): 2 of 26 (8%) — NewLimit (Series B 2025, Series C 2026), Terraform Industries [^12][^24][^11][^35]
 
 **Note:** This sample represents approximately 27% of Friedman's 97+ investments, so percentages are indicative. However, the heavy AI concentration (62% of verified investments) strongly reflects NFDG's explicit AI focus and Friedman's personal conviction.
 
@@ -126,12 +126,13 @@ Based on analysis of 26 unique companies with verified investments in the table 
 | The Bot Company | ~2024 | Early stage | [^4] |
 | Basis | 2024 | Series A ($34M) | [^22] |
 | Magic | 2024 | Series D ($320M) | [^29] |
-| Recraft | 2025 | Series B ($30M) | [^30] |
-| NewLimit | 2025 | Series B ($130M, NFDG participated) | [^24] |
-| Granola | 2025 | Series B ($43M, led by NFDG) | [^31] |
+| Recraft | 2025-05-06 | Series B ($30M, led by Accel) | [^30] |
+| NewLimit | 2025-05-06 | Series B ($130M, led by Kleiner Perkins; NFDG participated) | [^24] |
+| Granola | 2025-05-14 | Series B ($43M, led by NFDG at $250M valuation) | [^31] |
 | Granola | 2026 | Series C ($125M, NFDG participated) | [^34] |
-| Pulse | 2025 | Early stage ($3.9M) | [^6] |
-| Sumble | 2025 | Series A ($38.5M) | [^23] |
+| NewLimit | 2026-06-02 | Series C ($435M, led by Founders Fund; NFDG participated at $3B valuation) | [^35][^36] |
+| Pulse | 2025-02-19 | Seed ($3.9M, led by NFDG) | [^6][^37] |
+| Sumble | 2025-10-22 | Series A ($30M; angel participant alongside Marc Benioff) | [^23] |
 | Retool | ~2021 | Series C2 (co-invested with Sequoia, Collisons, Daniel Gross) | [^32] |
 | Scale AI | ~2021 | Growth | [^11] |
 | Vercel | ~2021 | Growth | [^11] |
@@ -204,3 +205,6 @@ No other independently sourced founder testimonials found. Friedman is widely re
 [^32]: "Retool Raised $45 Million in Series C2," The SaaS News, accessed March 2026. https://www.thesaasnews.com/news/retool-raised-45-million-in-series-c2
 [^33]: "XBOW: Taking the Top Hacker in the US to New Heights: XBOW Raises $75M Series B," XBOW blog, accessed March 2026. https://xbow.com/blog/series-b
 [^34]: TechCrunch, "Granola Series C," March 25, 2026, accessed March 2026. https://techcrunch.com/2026/03/25/granola-series-c
+[^35]: "NewLimit raises $435M led by Founders Fund," NewLimit blog, June 2, 2026, accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders
+[^36]: "Longevity startup NewLimit announces $435 million clinical trial financing," STAT News, June 2, 2026, accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/
+[^37]: "Announcing our $3.9M Seed Round," Pulse AI blog, February 19, 2025, accessed June 2026. https://www.runpulse.com/blog/pulse-seed-nfdg-venture

@@ -3,9 +3,9 @@ check_size: $1M-$100M (via NFDG); angel checks vary
 firm: nfdg
 last_researched: 2026-03-19
 last_verified_investment:
-  company: Pulse
-  date: 2025-02
-  round: Seed
+  company: NewLimit
+  date: 2026-06-02
+  round: Series C
 location: San Francisco, CA
 name: Daniel Gross
 role: Co-Founder
@@ -92,6 +92,8 @@ Notable pattern: Gross has consistently invested in companies that become platfo
 | Safe Superintelligence | 2024 | Series A (co-founder) | AI/Research | [^1][^5] |
 | Groq | ~2023 | Growth | AI Infrastructure | [^8] |
 | SpaceX | ~2020 | Growth | Aerospace | [^8] |
+| Suno | 2024-05-21 | Series B (via NFDG) | AI/Music | [^10][^11] |
+| NewLimit | 2026-06-02 | Series C (returning, via NFDG) | Longevity/Biotech | [^12][^13][^14] |
 
 Notes:
 - Angel investment years marked with ~ are proxies based on company founding year or known early funding rounds; exact Gross investment dates are not independently confirmed for most early deals.
@@ -155,3 +157,13 @@ No independently sourced founder testimonials naming Daniel Gross as an individu
 [^8]: Daniel Gross personal website, accessed March 2026. https://danielgross.com/
 
 [^9]: CB Insights, "Nat Friedman and Daniel Gross Portfolio Investments," accessed March 2026. https://www.cbinsights.com/investor/nat-friedman-and-daniel-gross
+
+[^10]: Suno blog, "Fundraising Announcement," May 21, 2024. https://suno.com/blog/fundraising-announcement-may-2024
+
+[^11]: Billboard, "AI Music Company Suno Raises $125M in New Funding Round," May 2024. https://www.billboard.com/business/tech/ai-music-company-suno-raises-new-funding-round-1235688773/
+
+[^12]: NewLimit blog, "NewLimit raises $435M led by Founders Fund," June 2, 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders
+
+[^13]: STAT News, "Longevity startup NewLimit announces $435 million clinical trial financing," June 2, 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/
+
+[^14]: Endpoints News, "Anti-aging biotech NewLimit raises $435M at $3B valuation," June 2, 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/

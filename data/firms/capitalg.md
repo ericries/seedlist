@@ -46,7 +46,7 @@ team:
     role: Partner
     slug: mo-jomaa
 status: published
-last_researched: 2026-03-30
+last_researched: 2026-06-03
 ---
 
 ## About
@@ -120,11 +120,11 @@ Based on 48 verified investments in the portfolio table below:
 | Whatnot | Series C | 2021 | Consumer/Marketplace | Active | [^42] |
 | Armis | Growth | 2025 | Security | Active | [^43] |
 | Expel | Series D | 2020 | Security | Active | [^44] |
-| Cribl | Series E | 2024 | Data/Infrastructure | Active | [^45] |
-| Clio | Series F | 2024 | Enterprise/LegalTech | Active | [^46] |
-| Grafana | Series D ext. | 2024 | Data/Infrastructure | Active | [^47] |
+| Cribl | Series E | 2024-08-27 | Data/Infrastructure | Active | [^45] |
+| Clio | Series F | 2024-07-23 | Enterprise/LegalTech | Active | [^46] |
+| Grafana | Series D ext. | 2024-08-21 | Data/Infrastructure | Active | [^47] |
 | Farther | Series C | 2024 | Fintech/WealthMgmt | Active | [^26] |
-| Odoo | Secondary | 2024 | Enterprise/ERP | Active | [^48] |
+| Odoo | Secondary | 2024-11-20 | Enterprise/ERP | Active | [^48] |
 | Monzo | Growth | 2024 | Fintech/Banking | Active | [^49] |
 | DTEX | Series E | 2024 | Security | Active | [^50] |
 | Canva | Growth | ~2024 | Enterprise/Design | Active | [^6] |
@@ -141,6 +141,7 @@ Based on 48 verified investments in the portfolio table below:
 | Nibol | Growth | 2026 | Enterprise/SaaS | Active | [^27] |
 | nEye.ai | Series C ($80M; Sutter Hill Ventures led) | 2026-04-14 | AI / Data Center / Optical Switching | Active | [^56][^57][^58] |
 | OpenRouter | Series B (led, $113M at $1.3B val) | 2026-05-26 | AI / LLM Infrastructure | Active | [^59] |
+| AlphaSense | Series G ($350M at $7.5B val) | 2026-06-03 | Enterprise/AI | Active | [^60][^61][^62] |
 
 *This table represents approximately 48 verified investments. CapitalG's total portfolio includes approximately 76 organizations per Crunchbase [^30], so this table covers roughly 63% of known investments. Years marked with ~ are approximate, based on founding year proxies or portfolio page listing dates.*
 
@@ -237,3 +238,9 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^58]: TechStartups, "nEye.ai raises $80M to scale optical circuit switching for AI data centers," April 14, 2026. Accessed May 2026. https://techstartups.com/2026/04/14/neye-ai-raises-80m-to-scale-optical-circuit-switching-for-ai-data-centers/ — Independent press confirmation listing CapitalG and M12 as Alphabet/Microsoft participants alongside Sutter Hill Ventures (lead) and Socratic Partners.
 
 [^59]: Axios Pro Rata, "OpenRouter raises $113M at $1.3B valuation led by CapitalG," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms CapitalG led OpenRouter's $113M Series B on May 26, 2026 at $1.3B valuation; Andreessen Horowitz and Menlo Ventures participated as follow-on investors.
+
+[^60]: AlphaSense press release, "AlphaSense Raises $350M at $7.5B Valuation, and Surpasses $600M in Annual Recurring Revenue," June 3, 2026. Accessed June 2026. https://www.alpha-sense.com/press/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue/ — Confirms $350M round at $7.5B valuation led by Vitruvian Partners, Accenture Ventures, and J.P. Morgan Asset Management with CapitalG participating as an existing investor.
+
+[^61]: GlobeNewswire, "AlphaSense Raises $350M at $7.5B Valuation, and Surpasses $600M in Annual Recurring Revenue," June 3, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/AlphaSense-Raises-350M-at-7-5B-Valuation-and-Surpasses-600M-in-Annual-Recurring-Revenue.html — Wire-distributed press release confirming June 3, 2026 announcement with CapitalG listed among existing investors.
+
+[^62]: FinSMEs, "AlphaSense Raises $350M, at $7.5B Valuation," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/alphasense-raises-350m-at-7-5b-valuation.html — Independent press confirmation listing CapitalG, Goldman Sachs Alternatives, and Viking Global Investors as existing investors participating in the round.
