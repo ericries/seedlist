@@ -177,3 +177,15 @@ priority:
   type: firm
   reason: "joined FirstClub Series B $55M at $255M val (2026-06-03)"
   added: 2026-06-04
+- slug: balderton-capital
+  type: firm
+  reason: "follow-on Fuse Energy Series B Extension €25M (2026-06-04)"
+  added: 2026-06-04
+- slug: lowercarbon-capital
+  type: firm
+  reason: "follow-on Fuse Energy Series B Extension (2026-06-04)"
+  added: 2026-06-04
+- slug: collaborative-fund
+  type: firm
+  reason: "co-led Fuse Energy Series B Extension €25M (2026-06-04)"
+  added: 2026-06-04

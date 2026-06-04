@@ -323,6 +323,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series B
   status: pending
+- title: Helion, the Sam Altman-backed fusion startup, raises $465M to build a power
+    plant for Microsoft
+  url: https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/
+  source: techcrunch
+  date_found: '2026-06-04'
+  parsed_company: Helion, the Sam Altman-backed fusion startup,
+  parsed_amount: $465M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/4/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-4-2026/
+  source: alleywatch
+  date_found: '2026-06-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
     As Exit Market Reopened
   url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
@@ -887,24 +904,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-05-28'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London-based Geordie AI secures €25 million to help enterprises govern AI
-    agents
-  url: https://www.eu-startups.com/2026/05/london-based-geordie-ai-secures-e25-million-to-help-enterprises-govern-ai-agents/
-  source: eu-startups
-  date_found: '2026-05-28'
-  parsed_company: London-based Geordie AI
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Zurich’s Stellar Alpina raises €3.8 million to build detonation-based propulsion
-    for in-space mobility
-  url: https://www.eu-startups.com/2026/05/zurichs-stellar-alpina-raises-e3-8-million-to-build-detonation-based-propulsion-for-in-space-mobility/
-  source: eu-startups
-  date_found: '2026-05-28'
-  parsed_company: Zurich’s Stellar Alpina
   parsed_amount: null
   parsed_round: null
   status: pending
