@@ -1,47 +1,81 @@
 ---
-name: "Cyera"
-slug: cyera
-type: startup
-website: "https://www.cyera.com"
-location: "New York, NY"
-founded: 2021
-status_company: active
-sector: [cybersecurity, data-security, dspm, ai]
-stage_latest: "Late Stage"
-total_raised: "$1.6B+"
-investors: []
 firms:
-  - slug: accel
-    round: late-stage
-    year: 2026
-    date: 2026-06-02
-  - slug: coatue-management
-    round: late-stage
-    year: 2026
-    date: 2026-06-02
-  - slug: greenoaks-capital
-    round: late-stage
-    year: 2026
-    date: 2026-06-02
-  - slug: redpoint-ventures
-    round: late-stage
-    year: 2026
-    date: 2026-06-02
-  - slug: sequoia-capital
-    round: late-stage
-    year: 2026
-    date: 2026-06-02
-  - slug: spark-capital
-    round: late-stage
-    year: 2026
-    date: 2026-06-02
+- date: 2026-06-02
+  round: late-stage
+  slug: accel
+  year: 2026
+- date: 2026-06-02
+  round: late-stage
+  slug: coatue-management
+  year: 2026
+- date: 2026-06-02
+  round: late-stage
+  slug: greenoaks-capital
+  year: 2026
+- date: 2026-06-02
+  round: late-stage
+  slug: redpoint-ventures
+  year: 2026
+- date: 2026-06-02
+  round: late-stage
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-06-02
+  round: late-stage
+  slug: spark-capital
+  year: 2026
+- round: Seed
+  slug: cyberstarts
+  year: 2021
+- round: Series E (co-led)
+  slug: greenoaks
+  year: 2025
+founded: 2021
 founders:
-  - name: "Yotam Segev"
-    role: "CEO & Co-Founder"
-  - name: "Tamar Bar-Ilan"
-    role: "CTO & Co-Founder"
-status: published
+- name: Yotam Segev
+  role: CEO & Co-Founder
+- name: Tamar Bar-Ilan
+  role: CTO & Co-Founder
+investors:
+- round: ~2022
+  slug: logan-bartlett
+  year: 2022
+- round: Series A ($60M)
+  slug: doug-leone
+  year: 2022
+- round: Seed
+  slug: hila-zigman
+  year: 2021
+- round: Seed
+  slug: emily-heath
+  year: 2021
+- round: Series A
+  slug: bogomil-balkansky
+  year: 2022
+- round: Seed
+  slug: lior-simon
+  year: 2020
+- round: Series E (co-led)
+  slug: benny-peretz
+  year: 2025
+- round: '2021'
+  slug: gili-raanan
+  year: 2021
 last_researched: 2026-06-03
+location: New York, NY
+name: Cyera
+sector:
+- cybersecurity
+- data-security
+- dspm
+- ai
+slug: cyera
+stage_latest: Late Stage
+status: published
+status_company: active
+total_raised: $1.6B+
+type: startup
+website: https://www.cyera.com
 ---
 
 ## About

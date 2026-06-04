@@ -1,23 +1,34 @@
 ---
-name: "CodeWords"
-slug: codewords
-type: startup
-website: "https://www.codewords.ai"
-location: "London, United Kingdom"
+firms:
+- round: $9M Seed (Khusid personal angel)
+  slug: s16vc
+  year: 2026
 founded: 2024
-status_company: active
-sector: [ai, automation, ai-agents, productivity, saas]
-stage_latest: "Seed"
-total_raised: "~$13M (across two seed rounds)"
-investors: []
-firms: []
 founders:
-  - name: "Aymeric Zhuo"
-    role: "Co-Founder"
-  - name: "Osman Ramadan"
-    role: "Co-Founder"
-status: published
+- name: Aymeric Zhuo
+  role: Co-Founder
+- name: Osman Ramadan
+  role: Co-Founder
+investors:
+- round: $9M Seed (Khusid personal angel)
+  slug: andrey-khusid
+  year: 2026
 last_researched: 2026-05-07
+location: London, United Kingdom
+name: CodeWords
+sector:
+- ai
+- automation
+- ai-agents
+- productivity
+- saas
+slug: codewords
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: ~$13M (across two seed rounds)
+type: startup
+website: https://www.codewords.ai
 ---
 
 ## About

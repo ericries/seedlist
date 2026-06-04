@@ -6319,7 +6319,7 @@ queue:
     EU angel'
   discovered_from: cluster-gap-analysis
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-23'
 - name: Ken Howery
   type: individual
@@ -21225,7 +21225,7 @@ queue:
 - name: Andrey Khusid
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Miro
   discovered_from: adfin
@@ -26552,3 +26552,158 @@ queue:
   added: '2026-03-17'
   discovered_from: new-dawn-bio
   source: Angel investor in New Dawn Bio pre-seed (2026-06-04)
+- name: Plural
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Plural Platform — operator-led VC firm co-founded by Taavet Hinrikus; €500M
+    Fund II in 2024
+- name: Sten Tamkivi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Plural
+  discovered_from: taavet-hinrikus
+  source: Co-founding partner at Plural; Taavet+Sten investment partnership; Teleport
+    co-founder
+- name: Ian Hogarth
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Plural
+  discovered_from: taavet-hinrikus
+  source: Co-founding partner at Plural; Songkick co-founder; UK AI Safety Institute
+    chair
+- name: Khaled Helioui
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Plural
+  discovered_from: taavet-hinrikus
+  source: Co-founding partner at Plural; former Bigpoint CEO
+- name: Carina Namih
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Plural
+  discovered_from: taavet-hinrikus
+  source: Partner at Plural (joined later); health tech veteran
+- name: Veriff
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Estonian identity verification; Taavet sits on board; Series A led by Mosaic
+    Ventures
+- name: Lightyear
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Estonian commission-free trading app founded by ex-Wise employees; Series
+    B 2025-07-24
+- name: Bolt
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Estonian ride-hailing/mobility unicorn; Taavet angel investor
+- name: Starship Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Estonian autonomous delivery robots; Plural portfolio
+- name: Isometric
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: UK carbon-removal startup; Plural Fund II portfolio; $25M round
+- name: Monumental
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Construction robotics; Plural Fund II portfolio
+- name: Ampler Bikes
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taavet-hinrikus
+  source: Estonian e-bike startup; Taavet angel investor
+- name: Oleg Bibergan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: S16VC
+  discovered_from: andrey-khusid
+  source: Co-founder of S16VC; 13 years at Goldman Sachs leading tech investments
+    in CIS
+- name: Aleks Shamis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: S16VC
+  discovered_from: andrey-khusid
+  source: Co-founder of S16VC; serial entrepreneur with four exits
+- name: TravelPerk
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrey-khusid
+  source: Corporate travel SaaS (Barcelona); S16VC portfolio; raised $200M at $2.7B
+    valuation in Jan 2025
+- name: People.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrey-khusid
+  source: Revenue operations AI; S16VC portfolio company
+- name: Juro
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrey-khusid
+  source: UK contract management SaaS; S16VC portfolio company
+- name: Printify
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrey-khusid
+  source: Print-on-demand commerce platform; $45M Series A led by Index Ventures Sept
+    2021; S16VC portfolio
+- name: Melio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrey-khusid
+  source: B2B payments; S16VC portfolio company
+- name: Mati Staniszewski
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: ElevenLabs
+  discovered_from: andrey-khusid
+  source: ElevenLabs CEO; co-angel with Khusid on CodeWords $9M seed

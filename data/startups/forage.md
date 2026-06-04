@@ -1,31 +1,46 @@
 ---
-name: "Forage"
-slug: forage
-type: startup
-website: "https://www.joinforage.com"
-location: "San Francisco, CA"
-founded: 2020
-status_company: active
-sector: [fintech, payments, government-benefits]
-stage_latest: "Series B"
-total_raised: "$75M"
-investors: []
 firms:
-  - slug: long-journey-ventures
-    round: series-b
-    year: 2026
-    date: 2026-06-03
-  - slug: fj-labs
-    round: series-b
-    year: 2026
-    date: 2026-06-03
+- date: 2026-06-03
+  round: series-b
+  slug: long-journey-ventures
+  year: 2026
+- date: 2026-06-03
+  round: series-b
+  slug: fj-labs
+  year: 2026
+- round: Moving Capital era
+  slug: karman-ventures
+  year: 2022
+- round: ~2021
+  slug: banana-capital
+  year: 2021
+founded: 2020
 founders:
-  - name: "Ofek Lavian"
-    role: "Co-Founder & CEO"
-  - name: "Victor E. Fimbres"
-    role: "Co-Founder & CTO"
-status: published
+- name: Ofek Lavian
+  role: Co-Founder & CEO
+- name: Victor E. Fimbres
+  role: Co-Founder & CTO
+investors:
+- round: Moving Capital era
+  slug: william-barnes
+  year: 2022
+- round: ~2021
+  slug: turner-novak
+  year: 2021
 last_researched: 2026-06-03
+location: San Francisco, CA
+name: Forage
+sector:
+- fintech
+- payments
+- government-benefits
+slug: forage
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $75M
+type: startup
+website: https://www.joinforage.com
 ---
 
 ## About

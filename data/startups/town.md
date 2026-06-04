@@ -1,38 +1,57 @@
 ---
-name: "Town"
-slug: town
-type: startup
-website: "https://town.com"
-location: "San Francisco, CA"
-status_company: active
-sector: [ai, productivity, consumer-ai, ai-assistants]
-stage_latest: "Series A"
-total_raised: "$55M+"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-06-03
-  - slug: forerunner-ventures
-    round: series-a
-    year: 2026
-    date: 2026-06-03
-  - slug: first-round-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-03
-  - slug: conviction
-    round: series-a
-    year: 2026
-    date: 2026-06-03
+- date: 2026-06-03
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-06-03
+  round: series-a
+  slug: forerunner-ventures
+  year: 2026
+- date: 2026-06-03
+  round: series-a
+  slug: first-round-capital
+  year: 2026
+- date: 2026-06-03
+  round: series-a
+  slug: conviction
+  year: 2026
+- round: '2025-03-16'
+  slug: quora
+  year: 2025
+- round: Seed (First Round led)
+  slug: column
+  year: 2025
 founders:
-  - name: "Jean-Denis Greze"
-    role: "Co-Founder"
-  - name: "Tony Vincent"
-    role: "Co-Founder"
-status: published
+- name: Jean-Denis Greze
+  role: Co-Founder
+- name: Tony Vincent
+  role: Co-Founder
+investors:
+- round: '2025-03-16'
+  slug: adam-dangelo
+  year: 2025
+- round: ~2024
+  slug: todd-jackson
+  year: 2024
+- round: Seed (First Round led)
+  slug: william-hockey
+  year: 2025
 last_researched: 2026-06-03
+location: San Francisco, CA
+name: Town
+sector:
+- ai
+- productivity
+- consumer-ai
+- ai-assistants
+slug: town
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $55M+
+type: startup
+website: https://town.com
 ---
 
 ## About

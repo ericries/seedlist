@@ -35,6 +35,9 @@ investors:
 - round: Series B ($125M, co-led with Daniel Gross)
   slug: nat-friedman
   year: 2024
+- round: Series B (via NFDG)
+  slug: daniel-gross
+  year: 2024
 last_researched: 2026-06-03
 location: Cambridge, MA
 name: Suno

@@ -1,42 +1,45 @@
 ---
 firms:
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: founders-fund
   year: 2026
-  date: 2026-06-02
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: thrive-capital
   year: 2026
-  date: 2026-06-02
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: greenoaks-capital
   year: 2026
-  date: 2026-06-02
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: quiet-capital
   year: 2026
-  date: 2026-06-02
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: kleiner-perkins
   year: 2026
-  date: 2026-06-02
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: abstract-ventures
   year: 2026
-  date: 2026-06-02
-- round: Series C
+- date: 2026-06-02
+  round: Series C
   slug: valor-equity-partners
   year: 2026
-  date: 2026-06-02
-investors:
-- round: Series C
-  slug: nat-friedman
+- round: Series B
+  slug: stripe
+  year: 2025
+- round: Series A (angel)
+  slug: y-combinator
+  year: 2023
+- round: Series C (returning, via NFDG)
+  slug: nfdg
   year: 2026
-  date: 2026-06-02
-- round: Series C
-  slug: daniel-gross
-  year: 2026
-  date: 2026-06-02
+- round: Co-founder
+  slug: gil-capital
+  year: 2023
 founded: 2021
 founders:
 - name: Jacob Kimmel
@@ -45,6 +48,30 @@ founders:
   role: Co-Founder
 - name: Blake Byers
   role: Co-Founder
+investors:
+- date: 2026-06-02
+  round: Series C
+  slug: nat-friedman
+  year: 2026
+- date: 2026-06-02
+  round: Series C
+  slug: daniel-gross
+  year: 2026
+- round: Series B
+  slug: patrick-collison
+  year: 2025
+- round: Series A (angel)
+  slug: garry-tan
+  year: 2023
+- round: Co-founder
+  slug: elad-gil
+  year: 2023
+- round: Growth ($130M Series B)
+  slug: john-collison
+  year: 2023
+- round: Series A
+  slug: ilya-fushman
+  year: 2024
 last_researched: 2026-06-03
 location: South San Francisco, CA
 name: NewLimit

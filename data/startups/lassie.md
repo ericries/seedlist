@@ -1,37 +1,49 @@
 ---
-name: "Lassie"
-slug: lassie
-type: startup
-location: "San Francisco, CA"
-status_company: active
-sector: [ai, healthcare, dental-tech, small-business, automation, vertical-saas]
-stage_latest: "Series A"
-total_raised: "$47M"
-investors:
-  - slug: rahul-vohra
-    round: series-a
-    year: 2026
-    date: 2026-06-03
-  - slug: zach-perrett
-    round: series-a
-    year: 2026
-    date: 2026-06-03
-  - slug: gokul-rajaram
-    round: series-a
-    year: 2026
-    date: 2026-06-03
 firms:
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-06-03
+- date: 2026-06-03
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- round: Series B
+  slug: balderton-capital
+  year: 2023
 founders:
-  - name: "Steijn Pelle"
-    role: "Co-Founder & CEO"
-  - name: "Frédéric Renken"
-    role: "Co-Founder"
-status: published
+- name: Steijn Pelle
+  role: Co-Founder & CEO
+- name: Frédéric Renken
+  role: Co-Founder
+investors:
+- date: 2026-06-03
+  round: series-a
+  slug: rahul-vohra
+  year: 2026
+- date: 2026-06-03
+  round: series-a
+  slug: zach-perrett
+  year: 2026
+- date: 2026-06-03
+  round: series-a
+  slug: gokul-rajaram
+  year: 2026
+- round: Series B
+  slug: rob-moffat
+  year: 2023
 last_researched: 2026-06-04
+location: San Francisco, CA
+name: Lassie
+sector:
+- ai
+- healthcare
+- dental-tech
+- small-business
+- automation
+- vertical-saas
+slug: lassie
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $47M
+type: startup
 ---
 
 ## About

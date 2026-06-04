@@ -1,25 +1,42 @@
 ---
-name: "Centrical"
-slug: centrical
-type: startup
-website: "https://centrical.com"
-location: "New York, NY"
-founded: 2013
-status_company: active
-sector: [enterprise-software, saas, ai, workforce-management, hr-tech]
-stage_latest: "Series D"
-total_raised: "~$100M"
-investors: []
 firms:
-  - slug: jerusalem-venture-partners
-    round: series-d
-    year: 2026
-    date: 2026-06-02
+- date: 2026-06-02
+  round: series-d
+  slug: jerusalem-venture-partners
+  year: 2026
+- round: Growth
+  slug: aleph
+  year: 2018
+founded: 2013
 founders:
-  - name: "Gal Rimon"
-    role: "Founder & CEO"
-status: published
+- name: Gal Rimon
+  role: Founder & CEO
+investors:
+- round: Growth
+  slug: erel-margalit
+  year: 2012
+- round: Growth
+  slug: eden-shochat
+  year: 2018
+- round: Early
+  slug: michael-eisenberg
+  year: 2019
 last_researched: 2026-06-03
+location: New York, NY
+name: Centrical
+sector:
+- enterprise-software
+- saas
+- ai
+- workforce-management
+- hr-tech
+slug: centrical
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: ~$100M
+type: startup
+website: https://centrical.com
 ---
 
 ## About

@@ -1,27 +1,53 @@
 ---
-name: "AlphaSense"
-slug: alphasense
-type: startup
-website: "https://www.alpha-sense.com"
-location: "New York, NY"
-founded: 2011
-status_company: active
-sector: [ai, market-intelligence, fintech, enterprise-software, search]
-stage_latest: "Series G"
-total_raised: "$1.7B+"
-investors: []
 firms:
-  - slug: capitalg
-    round: series-g
-    year: 2026
-    date: 2026-06-03
+- date: 2026-06-03
+  round: series-g
+  slug: capitalg
+  year: 2026
+- round: Series E
+  slug: bond
+  year: 2023
+- round: Series B (lead)
+  slug: innovation-endeavors
+  year: 2019
+- round: Series A entry per Aretë
+  slug: angelic-ventures
+  year: 2017
+founded: 2011
 founders:
-  - name: "Jack Kokko"
-    role: "CEO & Co-Founder"
-  - name: "Raj Neervannan"
-    role: "CTO & Co-Founder"
-status: published
+- name: Jack Kokko
+  role: CEO & Co-Founder
+- name: Raj Neervannan
+  role: CTO & Co-Founder
+investors:
+- round: Series E
+  slug: mary-meeker
+  year: 2023
+- round: Series B (lead)
+  slug: dror-berman
+  year: 2019
+- round: Series A entry per Aretë
+  slug: tom-glocer
+  year: 2017
+- round: Series B
+  slug: eric-schmidt
+  year: 2019
 last_researched: 2026-06-03
+location: New York, NY
+name: AlphaSense
+sector:
+- ai
+- market-intelligence
+- fintech
+- enterprise-software
+- search
+slug: alphasense
+stage_latest: Series G
+status: published
+status_company: active
+total_raised: $1.7B+
+type: startup
+website: https://www.alpha-sense.com
 ---
 
 ## About
