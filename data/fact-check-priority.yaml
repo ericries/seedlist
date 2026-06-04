@@ -183,3 +183,23 @@ priority:
   type: firm
   reason: "joined Forage Series B (2026-06-03)"
   added: 2026-06-04
+- slug: jerusalem-venture-partners
+  type: firm
+  reason: "follow-on Centrical Series D $39M (2026-06-02)"
+  added: 2026-06-04
+- slug: mischief
+  type: firm
+  reason: "co-led Plot $10M seed follow-on (2026-06-02)"
+  added: 2026-06-04
+- slug: seven-seven-six
+  type: firm
+  reason: "joined Plot $10M seed (2026-06-02)"
+  added: 2026-06-04
+- slug: acme-capital
+  type: firm
+  reason: "joined Plot $10M seed (2026-06-02)"
+  added: 2026-06-04
+- slug: alexis-ohanian
+  type: investor
+  reason: "joined Plot seed via Seven Seven Six (2026-06-02)"
+  added: 2026-06-04

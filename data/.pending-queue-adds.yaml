@@ -1,0 +1,27 @@
+- name: "UL Invest"
+  type: firm
+  source: "Lead investor in Innovorder €20M growth round (June 2026); family office of tech entrepreneur Laurent Useldinger"
+  discovered_from: innovorder
+  priority: high
+- name: "Evolem"
+  type: firm
+  source: "Co-investor (since 2019) in Innovorder €20M growth round (June 2026); Lyon-based family office"
+  discovered_from: innovorder
+  priority: high
+- name: "Jérôme Varnier"
+  type: individual
+  firm: "Innovorder"
+  source: "Co-founder and CEO of Innovorder"
+  discovered_from: innovorder
+  priority: low
+- name: "Laurent Useldinger"
+  type: individual
+  firm: "UL Invest"
+  source: "Founder of UL Invest family office; tech entrepreneur; lead investor in Innovorder June 2026 round"
+  discovered_from: innovorder
+  priority: high
+- name: "Alto Invest"
+  type: firm
+  source: "Led Innovorder €10M Series A in 2019"
+  discovered_from: innovorder
+  priority: normal
