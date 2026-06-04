@@ -9,7 +9,7 @@ status_company: active
 sector: [retail-tech, ai, vertical-saas, payments]
 stage_latest: "Series A"
 total_raised: "$20M"
-investors:
+firms:
   - slug: first-round-capital
     round: series-a
     year: 2026
