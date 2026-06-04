@@ -84,7 +84,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Solace | Series A+ | 2024 | Healthcare | Active | [^14] |
+| Solace | Series A | 2024-08-22 | Healthcare | Active | [^14][^34] |
 | Stand | Seed | 2024 | Insurtech / Fintech | Active | [^13] |
 | Scowtt | Series A | 2025 | AI / Advertising | Active | [^13] |
 | BrightAI | Early | 2024 | AI / Industrial | Active | [^13] |
@@ -99,8 +99,8 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |
 | Habi | Series A | 2020 | Real Estate / Fintech | Active | [^21] |
 | Good Inside | Early | 2021 | Consumer / Education | Active | [^13] |
-| Paytient | Series B | 2023 | Healthcare / Fintech | Active | [^22] |
-| ShopMy | Series A | 2024 | B2B / Creator Economy | Active | [^23] |
+| Paytient | Series B | 2023-01-10 | Healthcare / Fintech | Active | [^22][^35] |
+| ShopMy | Series A | 2024-03-14 | B2B / Creator Economy | Active | [^23] |
 | Propel | Growth | 2020 | Consumer Fintech | Active | [^13] |
 | Public | Growth | 2020 | Consumer Fintech | Active | [^6] |
 | Chief | Growth | 2020 | Consumer / Labor | Active | [^6] |
@@ -225,3 +225,5 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^31]: TechCrunch, "Paragon wants to be the Plaid of SaaS apps," July 27, 2022. https://techcrunch.com/2022/07/27/paragon-wants-to-be-the-plaid-of-saas-apps/
 [^32]: PRNewswire, "Regal.io raises $38.5M Series A from Emergence Capital," September 2022. https://www.prnewswire.com/news-releases/regalio-which-offers-event-driven-branded-phone-calls-for-online-brands-raises-38-5m-series-a-from-emergence-capital-301618957.html
 [^33]: PR Newswire, "Windmill, the AI Company That Bets on Humans, Raises $12M," April 28, 2026. https://www.prnewswire.com/news-releases/windmill-the-ai-company-that-bets-on-humans-raises-12m-302755153.html
+[^34]: BusinessWire, "Solace Raises $14M to Empower Patients through Healthcare Advocates," August 22, 2024. https://www.businesswire.com/news/home/20240822742962/en/Solace-Raises-$14M-to-Empower-Patients-through-Healthcare-Advocates
+[^35]: Paytient blog, "Paytient Raises $55.5 Million to Help Americans Access and Afford Healthcare," January 10, 2023. https://www.paytient.com/blog/paytient-raises-55-million-to-help-americans-access-and-afford-healthcare
