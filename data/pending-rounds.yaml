@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Lugano’s GR3N closes €15.5 million Series B to build the world’s first microwave-assisted
+    PET recycling plant in Spain
+  url: https://www.eu-startups.com/2026/06/luganos-gr3n-closes-e15-5m-series-b-to-build-the-worlds-first-microwave-assisted-pet-recycling-plant-in-spain/
+  source: eu-startups
+  date_found: '2026-06-05'
+  parsed_company: Lugano’s GR3N
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
 - title: NewLimit raised $435M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -894,15 +903,6 @@ pending_rounds:
   url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-29-2026/
   source: alleywatch
   date_found: '2026-05-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce
-    Despite AI Funding Boom'
-  url: https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
-  source: crunchbase
-  date_found: '2026-05-28'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
