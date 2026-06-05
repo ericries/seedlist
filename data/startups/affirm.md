@@ -94,6 +94,9 @@ investors:
   slug: brian-singerman
   year: 2015
 - slug: max-levchin
+- round: Co-founder; a16z board
+  slug: alex-rampell
+  year: 2012
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Affirm

@@ -1,23 +1,33 @@
 ---
-name: "Honeycomb Insurance"
-slug: honeycomb-insurance
-type: startup
-website: "https://honeycombinsurance.com"
-location: "Chicago, Illinois"
+firms:
+- round: Series B
+  slug: zeev-ventures
+  year: 2024
 founded: 2019
-status_company: active
-sector: [insurtech, fintech, ai, property-insurance]
-stage_latest: "Growth"
-total_raised: "$95M"
-investors: []
-firms: []
 founders:
-  - name: "Itai Ben-Zaken"
-    role: "CEO & Co-Founder"
-  - name: "Nimrod Sadot"
-    role: "CTO & Co-Founder"
-status: published
+- name: Itai Ben-Zaken
+  role: CEO & Co-Founder
+- name: Nimrod Sadot
+  role: CTO & Co-Founder
+investors:
+- round: Series B
+  slug: oren-zeev
+  year: 2024
 last_researched: 2026-06-03
+location: Chicago, Illinois
+name: Honeycomb Insurance
+sector:
+- insurtech
+- fintech
+- ai
+- property-insurance
+slug: honeycomb-insurance
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $95M
+type: startup
+website: https://honeycombinsurance.com
 ---
 
 ## About

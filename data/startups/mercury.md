@@ -92,6 +92,9 @@ investors:
 - round: Series C ($300M round)
   slug: auren-hoffman
   year: 2025
+- round: Series D
+  slug: alex-rampell
+  year: 2026
 last_researched: 2026-05-21
 location: San Francisco, CA
 name: Mercury

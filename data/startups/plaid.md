@@ -116,6 +116,9 @@ investors:
 - round: Seed (Spark led)
   slug: william-hockey
   year: 2013
+- round: Series C
+  slug: alex-rampell
+  year: 2018
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Plaid

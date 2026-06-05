@@ -26443,7 +26443,7 @@ queue:
 - name: Alex Rampell
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: lassie
@@ -26451,7 +26451,7 @@ queue:
 - name: Brian Balfour
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Reforge
   discovered_from: lassie
@@ -26823,3 +26823,164 @@ queue:
   firm: xAI
   discovered_from: kodesage
   source: Angel investor in Kodesage Seed (2026-06-04), xAI co-founder
+- name: Reforge
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Reforge
+  discovered_from: brian-balfour
+  source: Brian Balfour's firm; acquired by Miro March 2026; Reforge Learning continues
+    independently
+- name: Edelweiss.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Edelweiss.vc
+  discovered_from: brian-balfour
+  source: Angel fund co-founded by Brian Balfour, Lee Jacobs, Elaine Wherry, Todd
+    Masonis (2015)
+- name: Elaine Wherry
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Edelweiss.vc
+  discovered_from: brian-balfour
+  source: Edelweiss.vc co-founder; Meebo co-founder, Dandelion Chocolate
+- name: Todd Masonis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Edelweiss.vc / Dandelion Chocolate
+  discovered_from: brian-balfour
+  source: Edelweiss.vc co-founder; Dandelion Chocolate co-founder
+- name: Mem0
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-balfour
+  source: Balfour angel investment; $24M Series A Oct 2025, led by Basis Set Ventures
+- name: Lassie (AI for SMB ops)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-balfour
+  source: Balfour angel investment; $35M Series A June 3 2026, led by a16z
+- name: Loops.ai
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-balfour
+  source: Balfour seed investment; $14M seed Nov 2022, led by Scale Venture Partners
+- name: Grain
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-balfour
+  source: Balfour seed investment Apr 2020
+- name: Softr
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brian-balfour
+  source: Balfour Series A investment Jan 2022; Berlin/Paris no-code
+- name: Immad Akhund
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mercury
+  discovered_from: alex-rampell
+  source: Mercury CEO/co-founder; Rampell is board observer at Mercury
+- name: Brightside
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Rampell board director; financial wellness; Series A 2020, Series B 2022
+- name: Divvy Homes
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Rampell board director; rent-to-own proptech
+- name: Earnin
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Formerly Activehours; Rampell board director; a16z-led $39M round (2017)
+- name: Flock Homes
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Rampell board director; SFR proptech; Series A 2022, Series B 2025
+- name: FlyHomes
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Rampell board director; proptech
+- name: Loft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Brazil proptech; a16z-led $175M Series C Jan 2020; Rampell board director
+- name: Point
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Home equity marketplace; Rampell co-founded and serves as board director
+- name: Propel
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Rampell board director; food-stamp/benefits app; a16z seed
+- name: VGS (Very Good Security)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Rampell board director; data tokenization/security infra
+- name: Rocket Companies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Public (NYSE:RKT); Rampell board director Feb 2024
+- name: Rillet
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: AI accounting; Series B $70M Aug 2025; Rampell-led a16z
+- name: dub
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-rampell
+  source: Seed Feb 2024 ($15M), Series A May 2025 ($25M); Rampell-led a16z

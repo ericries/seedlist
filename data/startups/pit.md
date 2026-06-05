@@ -1,25 +1,32 @@
 ---
-name: "Pit"
-slug: pit
-type: startup
-website: "https://pit.com"
-location: "Stockholm, Sweden"
-founded: 2025
-status_company: active
-sector: [ai, enterprise-software, agentic-ai, saas]
-stage_latest: "Seed"
-total_raised: "€13.6M"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: seed
-    year: 2026
-    date: 2026-05-07
+- date: 2026-05-07
+  round: seed
+  slug: andreessen-horowitz
+  year: 2026
+founded: 2025
 founders:
-  - name: "Adam Jafer"
-    role: "CEO & Co-Founder"
-status: published
+- name: Adam Jafer
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: alex-rampell
+  year: 2026
 last_researched: 2026-05-07
+location: Stockholm, Sweden
+name: Pit
+sector:
+- ai
+- enterprise-software
+- agentic-ai
+- saas
+slug: pit
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: €13.6M
+type: startup
+website: https://pit.com
 ---
 
 ## About

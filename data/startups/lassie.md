@@ -7,6 +7,9 @@ firms:
 - round: Series B
   slug: balderton-capital
   year: 2023
+- round: Series A
+  slug: reforge
+  year: 2026
 founders:
 - name: Steijn Pelle
   role: Co-Founder & CEO
@@ -28,6 +31,9 @@ investors:
 - round: Series B
   slug: rob-moffat
   year: 2023
+- round: Series A
+  slug: brian-balfour
+  year: 2026
 last_researched: 2026-06-04
 location: San Francisco, CA
 name: Lassie

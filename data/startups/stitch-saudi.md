@@ -15,6 +15,9 @@ investors:
 - round: Seed
   slug: iqram-magdon-ismail
   year: 2021
+- round: Series A
+  slug: alex-rampell
+  year: 2026
 last_researched: 2026-05-15
 location: Riyadh, Saudi Arabia
 name: Stitch

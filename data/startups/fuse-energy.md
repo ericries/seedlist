@@ -1,43 +1,63 @@
 ---
-name: "Fuse Energy"
-slug: fuse-energy
-type: startup
-website: "https://www.fuseenergy.com/"
-location: "London, UK"
-founded: 2022
-status_company: active
-sector: [energy, cleantech, climate-tech, renewable-energy, vertical-saas]
-stage_latest: "Series B Extension"
-total_raised: "€214M (~$250M)"
-investors: []
 firms:
-  - slug: balderton-capital
-    round: series-b-extension
-    year: 2026
-    date: 2026-06-04
-  - slug: lowercarbon-capital
-    round: series-b-extension
-    year: 2026
-    date: 2026-06-04
-  - slug: collaborative-fund
-    round: series-b-extension
-    year: 2026
-    date: 2026-06-04
-  - slug: balderton-capital
-    round: series-b
-    year: 2025
-    date: 2025-12
-  - slug: lowercarbon-capital
-    round: series-b
-    year: 2025
-    date: 2025-12
+- date: 2026-06-04
+  round: series-b-extension
+  slug: balderton-capital
+  year: 2026
+- date: 2026-06-04
+  round: series-b-extension
+  slug: lowercarbon-capital
+  year: 2026
+- date: 2026-06-04
+  round: series-b-extension
+  slug: collaborative-fund
+  year: 2026
+- date: 2025-12
+  round: series-b
+  slug: balderton-capital
+  year: 2025
+- date: 2025-12
+  round: series-b
+  slug: lowercarbon-capital
+  year: 2025
+- round: Series B
+  slug: quantumlight
+  year: 2025
+founded: 2022
 founders:
-  - name: "Alan Chang"
-    role: "Co-Founder & CEO"
-  - name: "Charles Orr"
-    role: "Co-Founder"
-status: published
+- name: Alan Chang
+  role: Co-Founder & CEO
+- name: Charles Orr
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: daniel-waterhouse
+  year: 2022
+- round: Series B
+  slug: ilya-kondrashov
+  year: 2025
+- round: '2025'
+  slug: nikolay-storonsky
+  year: 2025
+- round: Series B
+  slug: tommaso-conca
+  year: 2025
 last_researched: 2026-06-04
+location: London, UK
+name: Fuse Energy
+sector:
+- energy
+- cleantech
+- climate-tech
+- renewable-energy
+- vertical-saas
+slug: fuse-energy
+stage_latest: Series B Extension
+status: published
+status_company: active
+total_raised: €214M (~$250M)
+type: startup
+website: https://www.fuseenergy.com/
 ---
 
 ## About

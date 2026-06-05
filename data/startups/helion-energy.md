@@ -1,45 +1,58 @@
 ---
-name: "Helion Energy"
-slug: helion-energy
-type: startup
-website: "https://www.helionenergy.com"
-location: "Everett, Washington"
-founded: 2013
-status_company: active
-sector: [fusion, energy, climate, deeptech]
-stage_latest: "Series G"
-total_raised: "$1.5B"
-investors:
-  - slug: thrive-capital
-    round: series-g
-    year: 2026
-    date: 2026-06-04
-  - slug: lux-capital
-    round: series-g
-    year: 2026
-    date: 2026-06-04
-  - slug: boxgroup
-    round: series-g
-    year: 2026
-    date: 2026-06-04
 firms:
-  - slug: thrive-capital
-    round: series-g
-    year: 2026
-    date: 2026-06-04
-  - slug: lux-capital
-    round: series-g
-    year: 2026
-    date: 2026-06-04
-  - slug: boxgroup
-    round: series-g
-    year: 2026
-    date: 2026-06-04
+- date: 2026-06-04
+  round: series-g
+  slug: thrive-capital
+  year: 2026
+- date: 2026-06-04
+  round: series-g
+  slug: lux-capital
+  year: 2026
+- date: 2026-06-04
+  round: series-g
+  slug: boxgroup
+  year: 2026
+- round: Series E
+  slug: sherpa-capital
+  year: 2021
+founded: 2013
 founders:
-  - name: "David Kirtley"
-    role: "Co-Founder & CEO"
-status: published
+- name: David Kirtley
+  role: Co-Founder & CEO
+investors:
+- date: 2026-06-04
+  round: series-g
+  slug: thrive-capital
+  year: 2026
+- date: 2026-06-04
+  round: series-g
+  slug: lux-capital
+  year: 2026
+- date: 2026-06-04
+  round: series-g
+  slug: boxgroup
+  year: 2026
+- round: Series E
+  slug: shervin-pishevar
+  year: 2021
+- round: Series E ($375M)
+  slug: sam-altman
+  year: 2021
 last_researched: 2026-06-04
+location: Everett, Washington
+name: Helion Energy
+sector:
+- fusion
+- energy
+- climate
+- deeptech
+slug: helion-energy
+stage_latest: Series G
+status: published
+status_company: active
+total_raised: $1.5B
+type: startup
+website: https://www.helionenergy.com
 ---
 
 ## About
