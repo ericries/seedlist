@@ -73,6 +73,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise
+    Software, AI, And Space Tech'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/
+  source: crunchbase
+  date_found: '2026-06-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/5/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-5-2026/
+  source: alleywatch
+  date_found: '2026-06-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: NewLimit raised $435M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -877,28 +894,4 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: trend/analysis article, not a single startup round
-  processed_date: '2026-06-02'
-- title: Oslo-based Cloudgeni raises €858k to build reliable AI agents for secure
-    cloud infrastructure
-  url: https://www.eu-startups.com/2026/05/oslo-based-cloudgeni-raises-e858k-to-build-reliable-ai-agents-for-secure-cloud-infrastructure/
-  source: eu-startups
-  date_found: '2026-05-29'
-  parsed_company: Oslo-based Cloudgeni
-  parsed_amount: €858K
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created startup profile cloudgeni.md (€858K Pre-Seed 2026-05-29 led by byFounders
-    Angel Collective with Startuplab, Antler, and angels)
-  processed_date: '2026-06-02'
-- title: Dublin’s AI TaxTech startup Fonoa raises €94.4 million Series C and buys
-    PwC’s tax platform
-  url: https://www.eu-startups.com/2026/05/dublins-ai-taxtech-startup-fonoa-raises-e94-4-million-series-c-and-buys-pwcs-tax-platform/
-  source: eu-startups
-  date_found: '2026-05-29'
-  parsed_company: Dublin’s AI TaxTech startup Fonoa
-  parsed_amount: €94.4M
-  parsed_round: Series C
-  status: processed
-  notes: fonoa.md already published with 2026-05-28 Series C €94.4M ($110M) led by
-    Headline with Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital
   processed_date: '2026-06-02'

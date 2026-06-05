@@ -183,3 +183,47 @@ priority:
   type: firm
   reason: "joined Supabase Series F (2026-06-04)"
   added: 2026-06-04
+- slug: lux-capital
+  type: firm
+  reason: "co-led Flourish AI $500M at $2.5B val (2026-06-04)"
+  added: 2026-06-05
+- slug: gv
+  type: firm
+  reason: "co-led Flourish AI $500M (2026-06-04)"
+  added: 2026-06-05
+- slug: union-square-ventures
+  type: firm
+  reason: "joined Flourish AI $500M (2026-06-04); led Board $20M (2026-06-02)"
+  added: 2026-06-05
+- slug: 8vc
+  type: firm
+  reason: "joined Flourish AI $500M (2026-06-04)"
+  added: 2026-06-05
+- slug: spark-capital
+  type: firm
+  reason: "joined Flourish AI $500M (2026-06-04)"
+  added: 2026-06-05
+- slug: nfdg
+  type: firm
+  reason: "joined Flourish AI $500M (2026-06-04)"
+  added: 2026-06-05
+- slug: ribbit-capital
+  type: firm
+  reason: "co-led Mach Industries Series C $300M at $1.8B val (2026-06-02)"
+  added: 2026-06-05
+- slug: sequoia-capital
+  type: firm
+  reason: "joined Mach Industries Series C (2026-06-02)"
+  added: 2026-06-05
+- slug: khosla-ventures
+  type: firm
+  reason: "joined Mach Industries Series C (2026-06-02)"
+  added: 2026-06-05
+- slug: bedrock-capital
+  type: firm
+  reason: "joined Mach Industries Series C (2026-06-02)"
+  added: 2026-06-05
+- slug: naval-ravikant
+  type: investor
+  reason: "angel in Generalist AI $400M (2026-06-04)"
+  added: 2026-06-05
