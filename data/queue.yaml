@@ -27026,3 +27026,53 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: thomas-dohmke
+- name: SyndicateRoom
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joyvie-health
+  source: co-investor in Joyvié Health pre-seed (2026-06-05)
+- name: Lavender Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joyvie-health
+  source: co-investor in Joyvié Health pre-seed (2026-06-05)
+- name: HERmesa Angels
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joyvie-health
+  source: co-investor in Joyvié Health pre-seed (2026-06-05)
+- name: Zoe Robson
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Joyvié Health
+  discovered_from: joyvie-health
+  source: Founder & CEO of Joyvié Health
+- name: Division Q
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sensie
+  source: lead investor in Sensie pre-seed (2026-06-05)
+- name: NewSchool.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sensie
+  source: co-investor in Sensie pre-seed (2026-06-05)
+- name: Percival Participations
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sensie
+  source: co-investor in Sensie pre-seed (2026-06-05)

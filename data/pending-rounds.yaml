@@ -36,7 +36,8 @@ pending_rounds:
   parsed_company: Volatus Aerospace
   parsed_amount: $34.5M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: public-company bought-deal secondary offering, not a venture round
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (June 01 – June 05)
   url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-01-june-05/
@@ -52,18 +53,20 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-05'
   parsed_company: Founded after personal loss, Joyvié Health
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €897K
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created joyvie-health.md; queued SyndicateRoom, Lavender Ventures, HERmesa Angels
 - title: Ghent-based Sensie raises €500k to bring real-time plant intelligence to
     greenhouse growers
   url: https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/
   source: eu-startups
   date_found: '2026-06-05'
   parsed_company: Ghent-based Sensie
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €500K
+  parsed_round: Pre-Seed
+  status: processed
+  notes: created sensie.md; led by Division Q with NewSchool.vc and Percival Participations
 - title: Paris-based Innovafeed secures €51 million to scale sustainable insect-based
     ingredients for animal and plant nutrition
   url: https://www.eu-startups.com/2026/06/paris-based-innovafeed-secures-e51-million-to-scale-sustainable-insect-based-ingredients-for-animal-and-plant-nutrition/
