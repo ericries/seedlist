@@ -117,6 +117,7 @@ FJ Labs has invested in 1,192 unique companies with 355 exits as of early 2025 [
 | Odeko | Early Stage | ~2020 | B2B Marketplace | Active [^16] |
 | Snackpass | Early Stage | ~2020 | Food / Marketplace | Active [^16] |
 | Snabbit | Series D ($56M, participated) | 2026-04-27 | Home Services / India | Active [^17][^18][^19] |
+| Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | Active [^22][^23] |
 
 *Note: This table represents approximately 2.5% of FJ Labs' 1,192 verified investments. Many entries use approximate years based on available sourcing. The firm's portfolio page lists 900+ companies across all sectors and geographies [^14].*
 
@@ -172,3 +173,7 @@ No independently sourced founder testimonials found. FJ Labs' website and market
 [^20]: Fabrice Grinda, "Introducing the latest FJ Labs incubation: Midas," March 2024, accessed May 2026. https://fabricegrinda.com/introducing-the-latest-fj-labs-incubation-midas/
 
 [^21]: Leland blog, "Announcing our $12M Series A Led by Forerunner Ventures," June 13, 2025, accessed May 2026. https://www.joinleland.com/library/a/announcing-our-12m-series-a-led-by-forerunner-ventures
+
+[^22]: PRNewswire, "Forage raises additional $40M to help low-income families save on groceries," June 3, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/forage-raises-additional-40m-to-help-low-income-families-save-on-groceries-302789551.html
+
+[^23]: citybiz, "Forage Raises $40M to Expand SNAP Infrastructure and Consumer Savings Platform," June 2026, accessed June 2026. https://www.citybiz.co/article/854835/forage-raises-40m-to-expand-snap-infrastructure-and-consumer-savings-platform/

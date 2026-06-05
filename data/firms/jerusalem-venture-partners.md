@@ -40,7 +40,7 @@ team:
     role: Head of Investor Relations
     slug: lauren-kiel
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-06-04
 ---
 
 ## About
@@ -107,13 +107,13 @@ Based on 30 verified portfolio companies and exits, the following patterns emerg
 | Pyramid Analytics | Growth | 2020 | Business Intelligence | Active (unicorn) | [^18][^34] |
 | Morphisec | Seed | 2014 | Cybersecurity | Active | [^18][^35] |
 | Appdome | Seed | 2013 | Cybersecurity/Mobile | Active | [^18][^36] |
-| Centrical | Series B | 2019 | Enterprise SaaS | Active | [^1][^18][^37] |
+| Centrical | Series D | 2026-06-02 | Enterprise SaaS | Active ($39M Series D, follow-on as largest shareholder; led by Leeds Illuminate & Kingfisher Investment) | [^1][^18][^37][^45][^46][^47] |
 | Secret Double Octopus | Series A | 2017 | Cybersecurity | Active | [^20][^38] |
 | Akeyless | Series A | 2021 | Cybersecurity | Active | [^18][^39] |
 | Quali | Series C | 2019 | Cloud Infrastructure | Active | [^18][^40] |
 | AnyClip | Growth | 2021 | AI/Media | Active | [^21][^41] |
-| Datricks | Series A | 2024 | AI/Data | Active | [^15] |
-| Hyperspace | Seed | 2024 | AI/Search | Active ($9.5M round) | [^15] |
+| Datricks | Series A | 2024-09-11 | AI/Data | Active ($15M Series A led by Team8, with SAP & JVP) | [^15][^48] |
+| Hyperspace | Seed | 2024-08-06 | AI/Search | Active ($9.5M seed led by MizMaa, with JVP & toDay Ventures) | [^15][^49] |
 | GreenEye Technology | Seed | 2020 | Agtech/Climate | Active | [^21][^42] |
 | Allot Communications | Early | 1996 | Cybersecurity/Networking | IPO (exited) | [^2][^43] |
 | Jacada | Early | 1990 | Enterprise Software | Acquired by Uniphore (2021) | [^2][^44] |
@@ -200,3 +200,8 @@ However, not all founder experiences have been positive. One founder review desc
 [^42]: NoCamels, "JVP Leads $7M Seed Round In AI-Powered, Weed-Busting Agtech Startup," May 2020. https://nocamels.com/2020/05/jvp-funding-ai-weed-busting-agtech-startup/
 [^43]: Renaissance Capital, "Allot Communications: ALLT IPO," accessed April 2026. https://www.renaissancecapital.com/Profile/ALLT/Allot-Communicatio/IPO
 [^44]: Wikipedia, "Jacada," accessed April 2026. https://en.wikipedia.org/wiki/Jacada
+[^45]: GlobeNewswire, "Centrical Raises $39M to Transform Frontline Performance for the AI Era Workforce," June 2, 2026. https://www.globenewswire.com/news-release/2026/06/02/3305090/0/en/Centrical-Raises-39M-to-Transform-Frontline-Performance-for-the-AI-Era-Workforce.html
+[^46]: Globes, "Performance intelligence co Centrical raises $39m," June 2026. https://en.globes.co.il/en/article-performance-intelligence-co-centrical-raises-39m-1001544691
+[^47]: Ynetnews, "Centrical raises $39M to expand AI frontline performance platform," June 2026. https://www.ynetnews.com/business/article/hynukm3emx
+[^48]: Datricks press release, "Datricks raises $15M Series A led by Team8 with participation from SAP and JVP," September 11, 2024. https://datricks.com/press-release/datricks-raises-15m-series-a-led-by-team8-with-participation-from-sap-and-jvp/
+[^49]: TechCrunch, "Hyperspace is using 'domain-specific computing' to accelerate database searches," August 6, 2024. https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/

@@ -43,7 +43,7 @@ team:
     role: "Advisor"
     name: "Andrew Look"
 status: published
-last_researched: 2026-04-02
+last_researched: 2026-06-04
 ---
 
 ## About
@@ -169,6 +169,7 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 | Volteras | Seed | ~2024 | Energy/EV | [^13] |
 | Dream Park | Seed | 2025 | Gaming | [^10] |
 | Unusual | Seed | 2026 | -- | [^10] |
+| Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | [^26] [^27] [^28] |
 
 *This table represents approximately 60 of ~130 known investments (46%). Many early investments were made as personal angel investments by partners (Scott and Cyan Banister) before the fund formalized. Years marked with "~" indicate approximate dates based on founding year or earliest known investment date; verified years have specific source citations.*
 
@@ -225,3 +226,6 @@ No independently sourced founder testimonials found from founders outside the Lo
 [^23]: Crunchbase, "Seed Round - Checkr - 2014-07-16," accessed April 2026. https://www.crunchbase.com/funding_round/checkr-seed--f2dcf4d7
 [^24]: Crunchbase, "Seed Round - Loom - 2016-06-01," accessed April 2026. https://www.crunchbase.com/funding_round/loom-seed--808e1d2b
 [^25]: Crunchbase, "Seed Round - Notion," accessed April 2026. https://www.crunchbase.com/funding_round/notion-2-seed--4bfd6e2c
+[^26]: "Forage raises an additional $40M to help low-income families save on groceries," Forage Newsroom, June 3, 2026, accessed June 2026. https://www.joinforage.com/newsroom/forage-series-b-40m-funding
+[^27]: PRNewswire, "Forage raises additional $40M to help low-income families save on groceries," June 3, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/forage-raises-additional-40m-to-help-low-income-families-save-on-groceries-302789551.html
+[^28]: citybiz, "Forage Raises $40M to Expand SNAP Infrastructure and Consumer Savings Platform," June 2026, accessed June 2026. https://www.citybiz.co/article/854835/forage-raises-40m-to-expand-snap-infrastructure-and-consumer-savings-platform/

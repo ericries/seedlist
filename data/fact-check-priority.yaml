@@ -112,16 +112,9 @@ priority:
   status: resolved
 - slug: long-journey-ventures
   type: firm
-  reason: "joined Forage Series B (2026-06-03)"
+  reason: "RESOLVED 2026-06-04 — Forage Series B $40M (2026-06-03, Mouro-led, participated) added to portfolio with 3 primary citations (Forage newsroom, PRNewswire, citybiz); fj-labs already had Forage entry"
   added: 2026-06-04
-- slug: fj-labs
-  type: firm
-  reason: "joined Forage Series B (2026-06-03)"
-  added: 2026-06-04
-- slug: jerusalem-venture-partners
-  type: firm
-  reason: "follow-on Centrical Series D $39M (2026-06-02)"
-  added: 2026-06-04
+  status: resolved
 - slug: mischief
   type: firm
   reason: "co-led Plot $10M seed follow-on (2026-06-02)"
