@@ -70,11 +70,11 @@ By December 2025, Fuse supplied roughly 200,000 UK households, having launched p
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-04 | Series B Extension | €25M (~$30M) | 20VC, Collaborative Fund | Balderton Capital, Lowercarbon Capital [^2] |
+| 2026-06-04 | Series B Extension | €25M | 20VC, Collaborative Fund | Balderton Capital, Lowercarbon Capital [^2] |
 | 2025-12 | Series B | $70M | Balderton Capital, Lowercarbon Capital | [^1][^3] |
 | 2022 | Seed | $78M | Balderton Capital, Lakestar | Lowercarbon Capital, Accel, Creandum, Ribbit Capital, BoxGroup, Nico Rosberg [^1] |
 
-The Series B Extension brings total funding to date to approximately €214M ($250M) [^2]. The December 2025 Series B valued the company at approximately $5 billion [^1].
+The Series B Extension brings total funding to date to approximately €214M [^2]. The December 2025 Series B valued the company at approximately $5 billion [^1].
 
 ## What Investors Say
 

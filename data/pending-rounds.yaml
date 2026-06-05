@@ -27,7 +27,7 @@ pending_rounds:
   parsed_company: NewLimit
   parsed_amount: $435M
   parsed_round: null
-  status: pending
+  status: processed
 - title: AlphaSense raised $350M Series G
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -35,7 +35,7 @@ pending_rounds:
   parsed_company: AlphaSense
   parsed_amount: $350M
   parsed_round: Series G
-  status: pending
+  status: processed
 - title: Cyera raised $300M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -43,7 +43,7 @@ pending_rounds:
   parsed_company: Cyera
   parsed_amount: $300M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Coralogix raised $200M Series
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -51,7 +51,7 @@ pending_rounds:
   parsed_company: Coralogix
   parsed_amount: $200M
   parsed_round: Series
-  status: pending
+  status: processed
 - title: Factorial raised $150M Series D
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -59,7 +59,7 @@ pending_rounds:
   parsed_company: Factorial
   parsed_amount: $150M
   parsed_round: Series D
-  status: pending
+  status: processed
 - title: Town raised $55M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -75,7 +75,7 @@ pending_rounds:
   parsed_company: Adaptive Innovations
   parsed_amount: $50M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Forage raised $40M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -83,7 +83,7 @@ pending_rounds:
   parsed_company: Forage
   parsed_amount: $40M
   parsed_round: Series B
-  status: pending
+  status: processed
 - title: Centrical raised $39M Series D
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -91,7 +91,7 @@ pending_rounds:
   parsed_company: Centrical
   parsed_amount: $39M
   parsed_round: Series D
-  status: pending
+  status: processed
 - title: Apoha raised $36M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -115,7 +115,7 @@ pending_rounds:
   parsed_company: Plot
   parsed_amount: $10M
   parsed_round: Seed
-  status: pending
+  status: processed
 - title: Benchmark raises its first-ever growth fund as part of $2B capital raise
   url: https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/
   source: techcrunch
@@ -123,7 +123,7 @@ pending_rounds:
   parsed_company: Benchmark
   parsed_amount: $2B
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Profitable French scale-up Innovorder raises €20 million to accelerate AI-first
     restaurant digitalisation
   url: https://www.eu-startups.com/2026/06/profitable-french-scale-up-innovorder-raises-e20-million-to-accelerate-ai-first-restaurant-digitalisation/
@@ -132,7 +132,7 @@ pending_rounds:
   parsed_company: Profitable French scale-up Innovorder
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
 - title: London’s Semble raises €34.7 million Series C to scale its healthcare management
     platform for outpatient providers
   url: https://www.eu-startups.com/2026/06/londons-semble-raises-e34-7-million-series-c-to-scale-its-healthcare-management-platform-for-outpatient-providers/
@@ -141,7 +141,7 @@ pending_rounds:
   parsed_company: London’s Semble
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: skipped
 - title: Dutch startup New Dawn Bio raises €2.1 million to grow wood from tree stem
     cells in bioreactors
   url: https://www.eu-startups.com/2026/06/dutch-startup-new-dawn-bio-raises-e2-1-million-to-grow-wood-from-tree-stem-cells-in-bioreactors/
@@ -159,7 +159,7 @@ pending_rounds:
   parsed_company: Scotch
   parsed_amount: $20M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: London’s Airspeed raises €17.2 million Series A to build AI-powered execution
     layer for revenue teams
   url: https://www.eu-startups.com/2026/06/londons-airspeed-raises-e17-2-million-series-a-to-build-ai-powered-execution-layer-for-revenue-teams/
@@ -176,7 +176,7 @@ pending_rounds:
   parsed_company: Ramp
   parsed_amount: $750M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Collate raised $95M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -184,7 +184,7 @@ pending_rounds:
   parsed_company: Collate
   parsed_amount: $95M
   parsed_round: null
-  status: pending
+  status: processed
 - title: FirstClub raised $55M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -192,7 +192,7 @@ pending_rounds:
   parsed_company: FirstClub
   parsed_amount: $55M
   parsed_round: Series B
-  status: pending
+  status: processed
 - title: Honeycomb raised $40M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -200,7 +200,7 @@ pending_rounds:
   parsed_company: Honeycomb
   parsed_amount: $40M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Lassie raised $35M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -208,7 +208,7 @@ pending_rounds:
   parsed_company: Lassie
   parsed_amount: $35M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Fuse Energy raised $30M Series B extension
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -216,7 +216,7 @@ pending_rounds:
   parsed_company: Fuse Energy
   parsed_amount: $30M
   parsed_round: Series B Extension
-  status: pending
+  status: processed
 - title: Airspeed raised $20M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -240,7 +240,7 @@ pending_rounds:
   parsed_company: Uncover
   parsed_amount: $16M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: Kodesage raised $6.6M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -256,7 +256,7 @@ pending_rounds:
   parsed_company: AethexAI
   parsed_amount: $3M
   parsed_round: null
-  status: pending
+  status: processed
 - title: m. Scrunch had raised $19M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -264,7 +264,7 @@ pending_rounds:
   parsed_company: m. Scrunch had
   parsed_amount: $19M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Innio raised $2.4B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -272,7 +272,7 @@ pending_rounds:
   parsed_company: Innio
   parsed_amount: $2.4B
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Refining raised $270M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -280,7 +280,7 @@ pending_rounds:
   parsed_company: Refining
   parsed_amount: $270M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Aeon Acquisition I raised $125M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -288,7 +288,7 @@ pending_rounds:
   parsed_company: Aeon Acquisition I
   parsed_amount: $125M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: AmperCap Acquisition raised $125M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -296,7 +296,7 @@ pending_rounds:
   parsed_company: AmperCap Acquisition
   parsed_amount: $125M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Keystone Acquisition raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -304,7 +304,7 @@ pending_rounds:
   parsed_company: Keystone Acquisition
   parsed_amount: $250M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Ramp raises $750M at $44B valuation as investors hunger for fintechs with
     an AI story
   url: https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
@@ -313,7 +313,7 @@ pending_rounds:
   parsed_company: Ramp
   parsed_amount: $750M
   parsed_round: null
-  status: pending
+  status: processed
 - title: London’s Fuse Energy secures €25 million Series B extension as it plans 32,000
     sq ft London HQ
   url: https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/
@@ -322,7 +322,7 @@ pending_rounds:
   parsed_company: London’s Fuse Energy
   parsed_amount: null
   parsed_round: Series B
-  status: pending
+  status: skipped
 - title: Helion, the Sam Altman-backed fusion startup, raises $465M to build a power
     plant for Microsoft
   url: https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/
@@ -357,7 +357,7 @@ pending_rounds:
   parsed_company: UK’s Oxford Quantum Circuits
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: skipped
 - title: Factorial raises €129 million, reaching €2.1 billion valuation to become
     on of Europe’s most valuable scale-ups
   url: https://www.eu-startups.com/2026/06/factorial-raises-e129-million-reaching-e2-1-billion-valuation-to-become-on-of-europes-most-valuable-scale-ups/
@@ -366,7 +366,7 @@ pending_rounds:
   parsed_company: Factorial
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
 - title: CEA-Leti and CNRS spin-off Quobly raises €115 million to industrialise silicon-based
     quantum computers
   url: https://www.eu-startups.com/2026/06/cea-leti-and-cnrs-spin-off-quobly-raises-e115-million-to-industrialise-silicon-based-quantum-computers/
@@ -375,7 +375,7 @@ pending_rounds:
   parsed_company: CEA-Leti and CNRS spin-off Quobly
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Still facing copyright lawsuits, AI music generator Suno raises another $400M
   url: https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/
   source: techcrunch
@@ -383,7 +383,7 @@ pending_rounds:
   parsed_company: Still facing copyright lawsuits, AI music generator Suno
   parsed_amount: $400M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Coralogix raises $200M on bet that someone needs to watch the AI agents
   url: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
   source: techcrunch
@@ -391,7 +391,7 @@ pending_rounds:
   parsed_company: Coralogix
   parsed_amount: $200M
   parsed_round: null
-  status: pending
+  status: processed
 - title: The AlleyWatch May 2026 New York Venture Capital Funding Report
   url: https://alleywatch.com/2026/06/new-york-venture-capital-may-2026/
   source: alleywatch
@@ -476,7 +476,7 @@ pending_rounds:
   parsed_company: ZeroDrift
   parsed_amount: $10M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Rocket engine startup Impulse raises $500 million to hire people, not AI
   url: https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
   source: techcrunch
@@ -484,7 +484,7 @@ pending_rounds:
   parsed_company: Rocket engine startup Impulse
   parsed_amount: $500M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: 'Sector Snapshot: Defense Startup Funding Hits An All-Time Record As VCs
     Begin To Eye Exits'
   url: https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/
@@ -502,7 +502,7 @@ pending_rounds:
   parsed_company: Barcelona’s Zazume
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Verizon announces pricing terms of its tender offers and consent solicitations
     for 20 series of Verizon and certain of its subsidiaries’ notes
   url: https://www.globenewswire.com/news-release/2026/06/02/3305526/0/en/Verizon-announces-pricing-terms-of-its-tender-offers-and-consent-solicitations-for-20-series-of-Verizon-and-certain-of-its-subsidiaries-notes.html
@@ -511,7 +511,7 @@ pending_rounds:
   parsed_company: Verizon
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Ex-Anduril engineer raises $42M to build the Amazon of composite parts
   url: https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/
   source: techcrunch
@@ -519,7 +519,7 @@ pending_rounds:
   parsed_company: Ex-Anduril engineer
   parsed_amount: $42M
   parsed_round: null
-  status: pending
+  status: skipped
 - title: Focused Energy raises whopping $240M Series A for laser-powered fusion tech
   url: https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/
   source: techcrunch
@@ -527,7 +527,7 @@ pending_rounds:
   parsed_company: Focused Energy
   parsed_amount: $240M
   parsed_round: Series A
-  status: pending
+  status: processed
 - title: 'The AlleyWatch Startup Daily Funding Report: 6/2/2026'
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-2-2026/
   source: alleywatch

@@ -26984,3 +26984,19 @@ queue:
   added: '2026-03-17'
   discovered_from: alex-rampell
   source: Seed Feb 2024 ($15M), Series A May 2025 ($25M); Rampell-led a16z
+- name: Ted Xiao
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: mecka-ai
+  source: Angel investor in Mecka AI Series A (2026-06-01); former Google DeepMind
+- name: Josh Gao
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Mecka AI
+  discovered_from: mecka-ai
+  source: Co-founder & CEO of Mecka AI
