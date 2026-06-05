@@ -130,6 +130,7 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Adaptive Innovations | Series A (participated, $50M; led by Felicis and Bain Capital Ventures) | 2026-06-02 | Healthcare / AI / Home Health | Active [^adaptive2026] |
 | Novella | Series A | 2026-05-14 | Insurtech | Active [^novella2026] |
 | Google | Angel | 1998 | Consumer Internet | Public (IPO 2004) [^3][^33] |
 | Meta (Facebook) | Seed | ~2005 | Consumer Internet / Social | Public (IPO 2012) [^3][^4] |
@@ -435,3 +436,5 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 
 [^40]: Alliance of Chief Executives, "Munjal Shah's Hippocratic AI Reaches $500 Million Valuation," accessed May 2026. https://www.allianceofceos.com/news_member/detail/munjal-shahs-hippocratic-ai-reaches-500-million-valuation — Confirms SV Angel participated in Hippocratic AI's $53M Series A at $500M valuation alongside General Catalyst, Premji Invest, and Andreessen Horowitz.
 [^novella2026]: Reinsurance News, "AI-powered wholesale broker Novella raises $21m for US expansion," May 14, 2026. Accessed May 2026. https://www.reinsurancene.ws/ai-powered-wholesale-broker-novella-raises-21m-for-us-expansion/ — Novella's $21M Series A on May 14, 2026 was led by Brewer Lane Ventures with BoxGroup, Crystal Venture Partners, SV Angel, Avid Ventures, Verissimo Ventures, Blank Ventures, and Arch participating.
+
+[^adaptive2026]: Adaptive Innovations blog, "Introducing Adaptive Innovations and $60M raised in Series A and Seed," June 2, 2026. Accessed June 2026. https://www.adaptive.co/blog/introducing-adaptive-innovations/ — Confirms SV Angel participated in Adaptive Innovations' $50M Series A on June 2, 2026; round led by Felicis and Bain Capital Ventures with Optum Ventures, Sunflower Capital, Conviction, BoxGroup, Dorm Room Fund, and Constellation also participating. Cross-referenced with FinSMEs, "Adaptive Innovations Raises $50M in Series A Funding," June 2026. https://www.finsmes.com/2026/06/adaptive-innovations-raises-50m-in-series-a-funding.html and Home Health Care News, "AI-Powered Home Health Provider Adaptive Innovations Lands $50M Series A," June 2026. https://homehealthcarenews.com/2026/06/ai-powered-home-health-provider-adaptive-innovations-lands-50m-series-a/

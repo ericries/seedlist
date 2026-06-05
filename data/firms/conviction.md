@@ -94,8 +94,9 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Listen Labs | Seed + Series A (participated, $27M combined) | 2025-04-23 | AI Customer Research | Active | [^3][^36][^37][^38] |
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
 | Town | Series A (participated, $55M total) | 2026-06-03 | Consumer AI / Personal Assistant | Active | [^53][^54] |
+| Adaptive Innovations | Series A (participated, $50M total) | 2026-06-02 | Healthcare AI / Home Health | Active | [^55][^56][^57] |
 
-Note: Investment years are approximate based on company founding timelines. This table represents approximately 18 of ~32 total investments (~56%); the remainder are in stealth or undisclosed [^3][^5].
+Note: Investment years are approximate based on company founding timelines. This table represents approximately 21 of ~32 total investments (~66%); the remainder are in stealth or undisclosed [^3][^5].
 
 ## In Their Own Words
 
@@ -195,3 +196,9 @@ No independently sourced founder testimonials found. The firm's website describe
 [^50]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led; Sequoia (Series A lead), Coatue, Conviction, and Thrive participated.
 
 [^51]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation, with Coatue, Conviction, and Thrive Capital participating. Establishes the round sequence: Series A (Feb 2025, $75M, Sequoia-led, $1B val), Series B (July 2025), Series C (Oct 2025, $200M, $6B val), Series D (Jan 2026, $250M, $12B val).
+
+[^55]: Adaptive Innovations blog, "Introducing Adaptive Innovations," June 2, 2026, accessed June 2026. https://www.adaptive.co/blog/introducing-adaptive-innovations/ — Company's own announcement of $50M Series A co-led by Felicis and Bain Capital Ventures, with participation from Optum Ventures, Sunflower Capital, Conviction, BoxGroup, SV Angels, Dorm Room Fund, Constellation, and healthcare angels. Also disclosed a previously unannounced $10M seed round (total $60M raised). Co-CEOs Alex Wendland and Logan Stinson, CTO Ryan Tolsma, COO Hunter Stinson.
+
+[^56]: FinSMEs, "Adaptive Innovations Raises $50M in Series A Funding," June 2026, accessed June 2026. https://www.finsmes.com/2026/06/adaptive-innovations-raises-50m-in-series-a-funding.html — Independent press confirmation of the $50M Series A led by Felicis and Bain Capital Ventures with Conviction among participants. NYC- and Dallas-based AI-native home healthcare operating system.
+
+[^57]: CXO Digital Pulse, "Adaptive Innovations Raises $50M Series A to Build AI-Native Healthcare Agency," June 3, 2026, accessed June 2026. https://www.cxodigitalpulse.com/adaptive-innovations-raises-50m-series-a-to-build-ai-native-healthcare-agency/ — Third independent confirmation of $50M Series A led by Felicis with Bain Capital Ventures, Optum Ventures, Sunflower Capital, Conviction, BoxGroup, Dorm Room Fund, and Constellation participating.

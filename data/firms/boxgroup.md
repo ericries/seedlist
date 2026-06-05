@@ -107,6 +107,8 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Ramp | Series F (participated, $750M; led by ICONIQ, GIC, Ontario Teachers') | 2026-06-04 | Fintech | Active ($44B valuation) [^ramp2026f] |
+| Adaptive Innovations | Series A (participated, $50M; led by Felicis and Bain Capital Ventures) | 2026-06-02 | Healthcare / AI | Active [^adaptive2026] |
 | Helion Energy | Series G | 2026-06-04 | Fusion / Energy | Active ($15.5B valuation) [^helion2026] |
 | Novella | Series A | 2026-05-14 | Insurtech | Active [^novella2026] |
 | Plaid | Seed | 2013-09-19 | Fintech | Active (valued at $13B+) [^2][^20] |
@@ -234,3 +236,7 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^novella2026]: Reinsurance News, "AI-powered wholesale broker Novella raises $21m for US expansion," May 14, 2026. Accessed May 2026. https://www.reinsurancene.ws/ai-powered-wholesale-broker-novella-raises-21m-for-us-expansion/ — Novella's $21M Series A on May 14, 2026 was led by Brewer Lane Ventures with BoxGroup, Crystal Venture Partners, SV Angel, Avid Ventures, Verissimo Ventures, Blank Ventures, and Arch participating.
 
 [^24]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms BoxGroup participated in Forus's $160M growth round on May 12, 2026 at $1B valuation; round led by Thrive Capital with General Catalyst, Accel, Bain Capital Ventures, Redpoint, and Pear VC also participating.
+
+[^adaptive2026]: Adaptive Innovations blog, "Introducing Adaptive Innovations," June 2, 2026. Accessed June 2026. https://www.adaptive.co/blog/introducing-adaptive-innovations/ — Confirms BoxGroup participated in Adaptive Innovations' $50M Series A on June 2, 2026; round led by Felicis and Bain Capital Ventures, with Optum Ventures, Sunflower Capital, Conviction, SV Angel, Dorm Room Fund, and Constellation also participating.
+
+[^ramp2026f]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html — Confirms BoxGroup participated as a returning investor in Ramp's $750M Series F on June 4, 2026 at $44B valuation; round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Cross-referenced with TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/

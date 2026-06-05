@@ -3,9 +3,9 @@ check_size: $500K-$5M
 firm: seven-seven-six
 last_researched: 2026-03-19
 last_verified_investment:
-  company: LambdaVision
-  date: 2025-11-05
-  round: Series B
+  company: Plot
+  date: 2026-06-02
+  round: Seed (follow-on)
 location: San Francisco, California
 name: Alexis Ohanian
 role: Founder
@@ -75,6 +75,7 @@ Based on publicly identified portfolio companies (approximately 56 companies con
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Plot | 2026-06-02 | Seed follow-on ($10M; XYZ VC and Mischief co-led; via Seven Seven Six) | [^11][^12][^13] |
 | Axie Infinity | ~2021 | Seed/Early | [^1] |
 | Pipe | ~2021 | Early Stage | [^1] |
 | Alt | ~2021 | Early Stage | [^1] |
@@ -120,3 +121,9 @@ No independently sourced founder testimonials found.
 [^8]: Entrepreneur, "9 Quotes on Entrepreneurship and Starting a Business from Reddit Co-Founder Alexis Ohanian," accessed March 2026. https://www.entrepreneur.com/leadership/9-quotes-on-entrepreneurship-and-starting-a-business-from/311494
 [^9]: MSNBC / Know Your Value, "Investor Alexis Ohanian is often the outsider in the room. He likes it that way," accessed March 2026. https://www.ms.now/know-your-value/events-experiences/investor-alexis-ohanian-often-outsider-room-likes-way-rcna195381
 [^10]: Sportico, "Ohanian: A Women's Sports Team Will Be Worth $1B by 2030," accessed March 2026. https://www.sportico.com/leagues/other-sports/2024/womens-sports-team-values-alexis-ohanian-1234803810/
+
+[^11]: PR Newswire, "Plot Raises $10M to Scale Social Video Intelligence for Marketing Teams at Fortune 500 Brands," June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/plot-raises-10m-to-scale-social-video-intelligence-for-marketing-teams-at-fortune-500-brands-302787693.html — Confirms Seven Seven Six participated in Plot's $10M seed follow-on round on June 2, 2026, co-led by XYZ Venture Capital and Mischief Ventures, with Acme Capital also participating.
+
+[^12]: Net Influencer, "Social Video Intelligence Startup Plot Raises $10M As Enterprise Demand Surges," June 3, 2026. Accessed June 2026. https://www.netinfluencer.com/social-video-intelligence-startup-plot-raises-10m-usd-as-enterprise-demand-surges/ — Independent confirmation of the $10M seed follow-on co-led by XYZ Venture Capital and Mischief Ventures with Seven Seven Six and Acme Capital participating.
+
+[^13]: Adweek, "Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," June 2026. Accessed June 2026. https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/ — Third independent press confirmation of Plot's $10M seed follow-on with Seven Seven Six participating, founded by Megan Duong (ex-Apple, ex-Gap).

@@ -105,22 +105,11 @@ priority:
   reason: "RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led) added to portfolio; vague dates on Rogo, Ineffable, Ricursive seed resolved"
   added: 2026-06-04
   status: resolved
-- slug: spark-capital
-  type: firm
-  reason: "joined Cyera $300M (2026-06-02)"
-  added: 2026-06-04
-- slug: conviction
-  type: firm
-  reason: "joined Adaptive Innovations round (2026-06-02) — Town added 2026-06-04"
-  added: 2026-06-04
-- slug: boxgroup
-  type: firm
-  reason: "joined Adaptive Innovations Series A (2026-06-02)"
-  added: 2026-06-04
 - slug: sv-angel
   type: firm
-  reason: "joined Adaptive Innovations Series A (2026-06-02)"
+  reason: "RESOLVED 2026-06-04 — Adaptive Innovations Series A row added to portfolio with 3 primary citations (adaptive.co blog, FinSMEs, Home Health Care News)"
   added: 2026-06-04
+  status: resolved
 - slug: long-journey-ventures
   type: firm
   reason: "joined Forage Series B (2026-06-03)"
@@ -147,8 +136,9 @@ priority:
   added: 2026-06-04
 - slug: alexis-ohanian
   type: investor
-  reason: "joined Plot seed via Seven Seven Six (2026-06-02)"
+  reason: "RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio; last_verified_investment updated from LambdaVision 2025-11-05 to Plot 2026-06-02; 3 primary citations added"
   added: 2026-06-04
+  status: resolved
 - slug: valor-equity-partners
   type: firm
   reason: "joined NewLimit Series C (2026-06-02) — needs year backfill on 37 pre-existing portfolio rows before NewLimit can be added"

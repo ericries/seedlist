@@ -135,12 +135,12 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Lightmatter | Series A | 2018 | AI/Hardware | [^9][^29] |
 | Baseten | Series B | 2022 | AI Infrastructure | [^9][^30] |
 | Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |
-| Crusoe | Series E | 2025-10 | AI Infrastructure | [^9][^39] |
+| Crusoe | Series E | 2025-10-24 | AI Infrastructure | [^9][^39] |
 | Chainguard | Series B | 2023 | Cybersecurity | [^9][^32] |
 | The Bot Company | Series A | 2024-05-13 | AI/Robotics | [^10][^48] |
 | Fireblocks | Series D | 2021 | Crypto/Fintech | [^9][^33] |
 | Framework | Series A | 2022 | Hardware | [^9][^34] |
-| Cyera | Series C | 2024-04-09 | Cybersecurity | [^9][^35] |
+| Cyera | Series C → additional round ($300M, Evolution-led, $12B post-money) | 2024-04-09; 2026-06-02 | Cybersecurity | [^9][^35][^51] |
 | Headway | Series C | 2023-10-05 | Healthcare | [^9][^36] |
 | Handshake | Series B | 2016 | Consumer/Jobs | [^9][^37] |
 | Granola | Series A | 2024-10-23 | AI/Productivity | [^9][^38] |
@@ -229,3 +229,5 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^49]: Anthropic, "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products," May 23, 2023, accessed May 2026. https://www.anthropic.com/news/anthropic-series-c — Primary announcement confirming Spark Capital led the $450M Series C; participants Google, Salesforce Ventures, Sound Ventures, Zoom Ventures. Cross-referenced with TechCrunch, "Anthropic raises $450M to build next-gen AI assistants," May 23, 2023. https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/ and VentureBeat, "Anthropic secures $450M in Series C funding from Google, Salesforce and others," May 23, 2023. https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/
 
 [^50]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Spark Capital participated in Mercury's Series D on May 20, 2026 at $5.2B valuation; TCV led with existing investors a16z, Coatue, CRV, Sapphire Ventures, and Sequoia Capital also participating.
+
+[^51]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026, accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Confirms Spark Capital participated in Cyera's $300M round led by Evolution Equity Partners at $12B post-money valuation, alongside Georgian, Greenoaks, Lightspeed, Sequoia, Sapphire, Redpoint, Cyberstarts, Coatue, and Accel. Cross-referenced with TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ and Calcalist Tech, "Cyera raises $300 million at $12 billion valuation," June 2, 2026. https://www.calcalistech.com/ctechnews/article/w1j2xejw4
