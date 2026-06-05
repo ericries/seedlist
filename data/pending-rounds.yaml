@@ -29,6 +29,50 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series B
   status: pending
+- title: Volatus Aerospace Closes $34.5M Bought Deal Public Offering
+  url: https://www.globenewswire.com/news-release/2026/06/05/3307375/0/en/Volatus-Aerospace-Closes-34-5M-Bought-Deal-Public-Offering.html
+  source: globenewswire
+  date_found: '2026-06-05'
+  parsed_company: Volatus Aerospace
+  parsed_amount: $34.5M
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (June 01 – June 05)
+  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-01-june-05/
+  source: eu-startups
+  date_found: '2026-06-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Founded after personal loss, Joyvié Health raises €897k to rethink continence
+    underwear
+  url: https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/
+  source: eu-startups
+  date_found: '2026-06-05'
+  parsed_company: Founded after personal loss, Joyvié Health
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Ghent-based Sensie raises €500k to bring real-time plant intelligence to
+    greenhouse growers
+  url: https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/
+  source: eu-startups
+  date_found: '2026-06-05'
+  parsed_company: Ghent-based Sensie
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Innovafeed secures €51 million to scale sustainable insect-based
+    ingredients for animal and plant nutrition
+  url: https://www.eu-startups.com/2026/06/paris-based-innovafeed-secures-e51-million-to-scale-sustainable-insect-based-ingredients-for-animal-and-plant-nutrition/
+  source: eu-startups
+  date_found: '2026-06-05'
+  parsed_company: Paris-based Innovafeed
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: NewLimit raised $435M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -858,52 +902,3 @@ pending_rounds:
   notes: fonoa.md already published with 2026-05-28 Series C €94.4M ($110M) led by
     Headline with Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital
   processed_date: '2026-06-02'
-- title: MokN raises €12.9 million to combat credential theft as GV makes its first
-    investment in a French startup
-  url: https://www.eu-startups.com/2026/05/mokn-raises-e12-9-million-to-combat-credential-theft-as-gv-makes-its-first-investment-in-a-french-startup/
-  source: eu-startups
-  date_found: '2026-05-29'
-  parsed_company: MokN
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: Round added to data/startups/mokn.md with quotes
-  processed_date: '2026-06-02'
-- title: Barcelona’s Mafer AI raises €2 million to build an AI operating system for
-    R&D teams in formulation industries
-  url: https://www.eu-startups.com/2026/05/barcelonas-mafer-ai-raises-e2-million-to-build-an-ai-operating-system-for-rd-teams-in-formulation-industries/
-  source: eu-startups
-  date_found: '2026-05-29'
-  parsed_company: Barcelona’s Mafer AI
-  parsed_amount: €2M
-  parsed_round: Pre-Seed
-  status: processed
-  notes: mafer-ai.md already published with 2026-05-29 Pre-Seed €2M led by Kfund with
-    4Founders Capital, Masia, Lavanda Ventures, and angels
-  processed_date: '2026-06-02'
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (May 25 – May 29)
-  url: https://www.eu-startups.com/2026/05/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-may-25-may-29/
-  source: eu-startups
-  date_found: '2026-05-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Anthropic Dominates In An Otherwise
-    Slower Week For Megarounds'
-  url: https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/
-  source: crunchbase
-  date_found: '2026-05-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 5/29/2026'
-  url: https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-29-2026/
-  source: alleywatch
-  date_found: '2026-05-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
