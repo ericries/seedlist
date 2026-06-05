@@ -138,8 +138,9 @@ priority:
   added: 2026-06-04
 - slug: iconiq-growth
   type: firm
-  reason: "co-led Ramp Series F $750M at $44B val (2026-06-04)"
+  reason: "RESOLVED 2026-06-04 — Ramp Series F $750M at $44B (2026-06-04, co-led with GIC + OTPP) added to portfolio with 3 primary citations (PRNewswire, TechCrunch, OTPP); also resolved vague dates on Sierra (2024-10-28), DX (2025-03-05), Omni (2026-04-23), AcuityMD Series B (2024-06-04), Series C (2026-04-21)"
   added: 2026-06-04
+  status: resolved
 - slug: insight-partners
   type: firm
   reason: "joined Ramp Series F (2026-06-04)"

@@ -112,6 +112,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Reprise | Series B ($62M) | 2021 | Enterprise SaaS | Active | [^23] |
 | NinjaOne | Series C ($231.5M, lead) | 2024 | Enterprise SaaS/IT Management | Active | [^14] |
 | Ramp | Series E-2 ($500M, lead, $22.5B valuation) | 2025-07-30 | Fintech | Active | [^3] [^39] |
+| Ramp | Series F ($750M, co-lead, $44B valuation) | 2026-06-04 | Fintech | Active | [^43] [^44] [^45] |
 | ElevenLabs | Series C ($180M, co-lead, $3.3B valuation) | 2024 | AI/Voice | Active | [^24] [^33] |
 | ElevenLabs | Series D ($500M, $11B valuation) | 2025 | AI/Voice | Active | [^24] [^34] |
 | Anthropic | Series G (co-lead) | 2026-02-12 | AI/Foundation Models | Active | [^10] [^3] |
@@ -123,11 +124,11 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Oura | Series E | 2025 | Consumer/Health | Active | [^10] |
 | Statsig | Series C | 2025 | Enterprise SaaS | Acquired by OpenAI | [^10] |
 | Tennr | Series C | 2025 | AI/Healthcare | Active | [^10] |
-| Sierra | Series C ($175M) | 2024 | AI/Customer Experience | Active | [^25] |
-| DX | Growth | 2025 | Enterprise SaaS/DevTools | Active | [^26] |
-| Omni | Series C (lead, $1.5B valuation) | 2026 | AI / Analytics | Active | [^36] |
-| AcuityMD | Series B (led) | 2024 | Healthcare / MedTech AI | Active | [^38] |
-| AcuityMD | Series C | 2026 | Healthcare / MedTech AI | Active | [^37] |
+| Sierra | Series C ($175M, Greenoaks-led, participated) | 2024-10-28 | AI/Customer Experience | Active | [^25] |
+| DX | Growth (participation) | 2025-03-05 | Enterprise SaaS/DevTools | Active | [^26] |
+| Omni | Series C (lead, $1.5B valuation) | 2026-04-23 | AI / Analytics | Active | [^36] |
+| AcuityMD | Series B (led) | 2024-06-04 | Healthcare / MedTech AI | Active | [^38] |
+| AcuityMD | Series C ($80M) | 2026-04-21 | Healthcare / MedTech AI | Active | [^37] |
 | Airbnb | Growth | ~2014 | Consumer Internet | Public (2020, NASDAQ) | [^4] |
 | Alibaba | Growth | ~2014 | Consumer Internet | Public (2014, NYSE) | [^4] |
 | DocuSign | Growth | ~2015 | Enterprise SaaS | Public (2018, NASDAQ) | [^4] |
@@ -267,3 +268,9 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^41]: Glean press release, "Glean Announces Over $200M Series D to Accelerate Secure Deployment of Generative AI in the Enterprise," BusinessWire, February 27, 2024. https://www.businesswire.com/news/home/20240227101592/en/Glean-Announces-Over-%24200M-Series-D-to-Accelerate-Secure-Deployment-of-Generative-AI-in-the-Enterprise
 
 [^42]: Databricks press release, "Databricks is Raising $10B Series J Investment at $62B Valuation," December 17, 2024. https://www.databricks.com/company/newsroom/press-releases/databricks-raising-10b-series-j-investment-62b-valuation — ICONIQ Growth named as a new investor in the Series J. Cross-referenced with PR Newswire, https://www.prnewswire.com/news-releases/databricks-is-raising-10b-series-j-investment-at-62b-valuation-302333822.html.
+
+[^43]: Ramp press release, "Ramp Raises Series F at $44 Billion Valuation," PR Newswire, June 4, 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html — $750M Series F co-led by ICONIQ, GIC, and Ontario Teachers' Pension Plan.
+
+[^44]: TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
+
+[^45]: Ontario Teachers' Pension Plan, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/
