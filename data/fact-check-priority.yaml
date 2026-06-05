@@ -112,7 +112,7 @@ priority:
   status: resolved
 - slug: long-journey-ventures
   type: firm
-  reason: "RESOLVED 2026-06-04 — Forage Series B $40M (2026-06-03, Mouro-led, participated) added to portfolio with 3 primary citations (Forage newsroom, PRNewswire, citybiz); fj-labs already had Forage entry"
+  reason: "RESOLVED 2026-06-04 — Forage Series B $40M (2026-06-03, Mouro-led, participated) added to portfolio with 3 primary citations (Forage newsroom, PRNewswire, citybiz); also resolved vague dates on 5 portfolio entries: Titan Dynamics (2026-01-29), Flora (2025-03-02, renamed from Flora Fauna), Rainmaker (2024-05-07, $6.3M), Volteras (2025-05-29, Series A $11.1M follow-on), DreamPark (2025-05-29, led $1.1M); General Matter LJV participation unverifiable — left as-is"
   added: 2026-06-04
   status: resolved
 - slug: mischief

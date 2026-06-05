@@ -162,12 +162,12 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 | Ziina | Seed | ~2023 | Payments | [^1] |
 | PayJoy | Seed | ~2023 | Mobile finance | [^1] |
 | Valence | Seed | ~2023 | Battery/cleantech | [^1] |
-| Titan Dynamics | Seed | ~2024 | Aerospace/defense | [^1] |
+| Titan Dynamics | Seed ($9M) | 2026-01-29 | Aerospace/defense | [^1] [^29] |
 | General Matter | Seed | ~2024 | Legal tech | [^1] |
-| Flora Fauna | Seed | ~2024 | Agriculture AI | [^1] |
-| Rainmaker | Seed | ~2024 | Weather tech | [^1] |
-| Volteras | Seed | ~2024 | Energy/EV | [^13] |
-| Dream Park | Seed | 2025 | Gaming | [^10] |
+| Flora (FLORA) | Seed | 2025-03-02 | AI creative tools | [^1] [^30] |
+| Rainmaker | Seed ($6.3M) | 2024-05-07 | Weather tech | [^1] [^31] |
+| Volteras | Series A ($11.1M, follow-on) | 2025-05-29 | Energy/EV | [^13] [^32] |
+| DreamPark | Seed ($1.1M, led) | 2025-05-29 | Gaming/XR | [^10] [^33] |
 | Unusual | Seed | 2026 | -- | [^10] |
 | Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | [^26] [^27] [^28] |
 
@@ -229,3 +229,8 @@ No independently sourced founder testimonials found from founders outside the Lo
 [^26]: "Forage raises an additional $40M to help low-income families save on groceries," Forage Newsroom, June 3, 2026, accessed June 2026. https://www.joinforage.com/newsroom/forage-series-b-40m-funding
 [^27]: PRNewswire, "Forage raises additional $40M to help low-income families save on groceries," June 3, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/forage-raises-additional-40m-to-help-low-income-families-save-on-groceries-302789551.html
 [^28]: citybiz, "Forage Raises $40M to Expand SNAP Infrastructure and Consumer Savings Platform," June 2026, accessed June 2026. https://www.citybiz.co/article/854835/forage-raises-40m-to-expand-snap-infrastructure-and-consumer-savings-platform/
+[^29]: ExitStack, "Titan Dynamics Raises US$9Mn to Scale Advanced sUAS Platforms," January 29, 2026, accessed June 2026. https://www.exitstack.co/posts/titan-dynamics-raises-us-9mn-to-scale-advanced-suas-platforms
+[^30]: TechCrunch, "Flora is building an AI-powered 'infinite canvas' for creative professionals," March 2, 2025, accessed June 2026. https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/
+[^31]: Fortune, "Cloud seeding startup Rainmaker raises $6.3 million," May 7, 2024, accessed June 2026. https://fortune.com/2024/05/07/cloud-seeding-startup-rainmaker-raises-6-million/
+[^32]: Volteras blog, "Volteras closes $11.1 million Series A to transform energy data streaming," May 29, 2025, accessed June 2026. https://blog.volteras.com/post/Volteras_raises_series_A_funding
+[^33]: BusinessWire, "DreamPark Secures $1.1M Seed Funding to Transform Real-World Spaces into Mixed Reality Theme Parks," May 29, 2025, accessed June 2026. https://www.businesswire.com/news/home/20250529418603/en/DreamPark-Secures-$1.1M-Seed-Funding-to-Transform-Real-World-Spaces-into-Mixed-Reality-Theme-Parks
