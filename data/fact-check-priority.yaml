@@ -146,8 +146,9 @@ priority:
   status: resolved
 - slug: balderton-capital
   type: firm
-  reason: "follow-on Fuse Energy Series B Extension €25M (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Fuse Energy Series B Extension €25M (2026-06-04, follow-on) added with 3 primary citations (EU-Startups, BeBeez, Balderton); also added prior Fuse Energy rounds (Seed 2022 co-led $78M, Series B 2025-12-18 co-led $70M); resolved vague dates on Checkly (2024-07-31), Quantum Systems (Series C 2025-05-06 + Extension 2025-11-27), Proxima Fusion (2025-06-11), Cino (2025-03-04)"
   added: 2026-06-04
+  status: resolved
 - slug: lowercarbon-capital
   type: firm
   reason: "follow-on Fuse Energy Series B Extension (2026-06-04)"
