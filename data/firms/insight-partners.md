@@ -1,7 +1,7 @@
 ---
 founded: 1995
 fund_size: $90B+ AUM; Fund XIII at $12.5B
-last_researched: 2026-05-01
+last_researched: 2026-06-04
 location: New York, NY
 name: Insight Partners
 sector_focus:
@@ -131,6 +131,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Linx Security | Series B ($50M, led) | 2026-03-31 | Cybersecurity / Identity | Active | [^13][^36][^37] |
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
 | GovWell | Series A ($25M, led) | 2026-05-14 | GovTech / AI / Public Sector | Active | [^38][^39] |
+| Ramp | Series F ($750M at $44B post; new investor, ICONIQ/GIC/Ontario Teachers' co-led) | 2026-06-04 | Fintech / Spend Management | Active | [^40][^41][^42] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -197,3 +198,6 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^37]: Finsmes, "Linx Security Raises $50M in Series B Funding," April 2026. Accessed May 2026. https://www.finsmes.com/2026/04/linx-security-raises-50m-in-series-b-funding.html
 [^38]: Yahoo Finance / GlobeNewsWire, "GovWell Raises $25M Series A Led by Insight Partners to Build the AI Operating System for Modern Government," May 14, 2026. Accessed May 2026. https://finance.yahoo.com/sectors/technology/articles/govwell-raises-25m-series-led-140000699.html
 [^39]: InfotechLead, "GovWell Raises $25 mn to Modernize Government Permitting With AI Platform," May 2026. Accessed May 2026. https://infotechlead.com/tech/govwell-raises-25-mn-to-modernize-government-permitting-with-ai-platform-95841
+[^40]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Insight Partners listed among new investors; round co-led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html
+[^41]: TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. Accessed June 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
+[^42]: Ontario Teachers' Pension Plan, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/

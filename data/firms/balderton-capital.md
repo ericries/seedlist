@@ -131,12 +131,13 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Truecaller | Early stage | 2013 | Consumer/Telecom | IPO 2021 [^2] |
 | SOPHiA Genetics | Early stage | 2015 | Digital Health | IPO 2021 [^2] |
 | Flywire | Early stage | 2014 | Fintech | IPO 2021 [^2] |
-| Checkly | Series B | 2024 | Enterprise/DevOps | Active [^6] |
+| Checkly | Series B (led, $20M) | 2024-07-31 | Enterprise/DevOps | Active [^6][^23] |
 | The Exploration Company | Series B (co-led) | 2024-11-18 | Deep Tech/Aerospace | Active [^6][^18] |
 | Writer | Seed | 2020 | AI/Enterprise | Active [^3] |
-| Quantum Systems | Series C | 2025 | Defence Tech/Drones | Active [^14] |
-| Proxima Fusion | Series A | 2025 | Deep Tech/Fusion | Active [^6] |
-| Cino | Seed | 2025 | Fintech | Active [^6] |
+| Quantum Systems | Series C (led, €160M, 2025-05-06) → Series C Extension (led, €180M, 2025-11-27) | 2025-05-06 | Defence Tech/Drones | Active [^14][^24] |
+| Proxima Fusion | Series A (co-led, €130M with Cherry Ventures) | 2025-06-11 | Deep Tech/Fusion | Active [^6][^25] |
+| Cino | Seed (led, €3.5M) | 2025-03-04 | Fintech | Active [^6][^26] |
+| Fuse Energy | Seed (co-led, $78M with Lakestar) → Series B (co-led, $70M with Lowercarbon, 2025-12-18) → Series B Extension ($25M/$30M, follow-on, 2026-06-04) | 2022 | Climate Tech/Energy | Active [^27][^28][^29] |
 | Wagestream | Series A | 2019 | Fintech/HR | Active [^6] |
 | Peakon | Series A | 2016 | Enterprise/HR | Acquired by Workday [^3] |
 | Frontier Car Group | Series A | 2017 | Consumer/Marketplace | Acquired [^6] |
@@ -145,7 +146,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Grand Games | Series A (led, $30M, 2025-01-09) → Series B (led, $70M Growth Fund, 2026-05-11) | 2025-01-09 | Gaming/Mobile Hybrid Casual | Active [^19][^20][^21] |
 | Geordie AI | Series A (led, $30M at ~$180M post-money) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Active [^22] |
 
-This table represents approximately 50 of 275+ known investments (~18%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
+This table represents approximately 51 of 275+ known investments (~19%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
 ## In Their Own Words
 
@@ -212,3 +213,17 @@ No additional independently sourced founder testimonials found beyond those publ
 [^21]: Tech.eu, "Grand Games raises $70M Series B to scale hybrid casual mobile games," May 11, 2026. Accessed May 2026. https://tech.eu/2026/05/11/grand-games-raises-70m-series-b-to-scale-hybrid-casual-mobile-games/ — Independently confirms Balderton led both the Series A (via Early Stage Fund) and Series B (via Growth Fund), with same set of co-investors participating in both rounds.
 
 [^22]: Fortune, "Exclusive: Geordie AI, cybersecurity startup for AI agents, raises $30 million Series A round," May 28, 2026. Accessed May 2026. https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/ — Confirms Balderton Capital led Geordie AI's $30M Series A on May 28, 2026 at ~$180M post-money valuation; Crosspoint Capital (new) and existing backers General Catalyst and Ten Eleven Ventures participated. Believed to be the largest Series A round for a cybersecurity startup in Europe to date.
+
+[^23]: Balderton Capital, "Checkly secures $20M Series B," July 31, 2024. Accessed June 2026. https://www.balderton.com/news/checkly-secures-20m-to-slash-website-downtime-via-code-based-monitoring/ — Confirms Balderton led Checkly's $20M Series B on July 31, 2024 with participation from Accel, CRV, and Paul H. Müller. Colin Hanna joined the board. Cross-referenced with Tech.eu, "Checkly secures $20M Series B for code error detection," August 1, 2024. https://tech.eu/2024/08/01/checkly-secures-20m-series-b-for-code-error-detection/ and Crunchbase funding round profile (date 2024-07-31).
+
+[^24]: Quantum Systems press release, "Quantum Systems triples valuation — €180 million Series C Extension," November 27, 2025. https://quantum-systems.com/wp-content/uploads/2025/11/251127_PR_Series_C_Extension_ENG-1.pdf — Confirms €180M Series C Extension on November 27, 2025 led by Balderton Capital, bringing 2025 total to €340M (combined with €160M initial Series C on May 6, 2025). Cross-referenced with Balderton Capital, "Quantum Systems triples valuation," November 2025. https://www.balderton.com/news/quantum-systems-triples-valuation/ and Quantum Systems, "Quantum Systems raises €160M in Series C," May 6, 2025. https://quantum-systems.com/us/news/quantum-systems-raises-euro160m/
+
+[^25]: Proxima Fusion press release, "Proxima Fusion raises €130M Series A to build world's first stellarator-based fusion power plant in the 2030s," June 11, 2025. https://www.proximafusion.com/press-news/proxima-fusion-raises-eu130m-series-a-to-build-worlds-first-stellarator-based-fusion-power-plant — Confirms €130M Series A co-led by Cherry Ventures and Balderton Capital on June 11, 2025. Cross-referenced with TechCrunch, "Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A," June 10, 2025. https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/ and Balderton Capital, "Proxima Fusion raises €130M Series A," accessed June 2026. https://www.balderton.com/news/proxima-fusion-raises-e130m-series-a-to-build-worlds-first-stellarator-based-fusion-power-plant-in-the-2030s/
+
+[^26]: Balderton Capital, "Cino raises €3.5M to revolutionise shared payments," March 4, 2025. Accessed June 2026. https://www.balderton.com/news/cino-raises-e3-5m-to-revolutionise-shared-payments-with-the-first-virtual-card-that-splits-and-pays-group-bills-instantly/ — Confirms Balderton led Cino's €3.5M seed on March 4, 2025 with Connect Ventures, Tera Ventures, and angels including Barney Hussey-Yeo (Cleo founder). Cross-referenced with TechCrunch, "Cino cracks bill-splitting at the moment of payment, raises seed round," March 4, 2025. https://techcrunch.com/2025/03/04/cino-has-cracked-bill-splitting-at-the-moment-of-payment-raises-seed/
+
+[^27]: Balderton Capital, "Fuse Energy hits $5bn valuation in its third year," December 18, 2025. Accessed June 2026. https://www.balderton.com/news/fuse-energy-hits-5bn-valuation-in-its-third-year/ — Confirms $70M Series B led by Balderton Capital and Lowercarbon Capital, valuing Fuse Energy at $5B. Notes Balderton invested at pre-seed (seed) in 2022.
+
+[^28]: Mercom Capital Group, "Fuse Energy Secures $70 Million in Series B Funding," December 22, 2025. Accessed June 2026. https://mercomcapital.com/fuse-energy-secures-70-million-in-series-b-funding/ — Independently confirms $70M Series B led by Balderton and Lowercarbon at $5B valuation. Confirms prior 2022 round of $78M led by Balderton and Lakestar with participation from Accel, Creandum, Lowercarbon, Ribbit, and BoxGroup, plus strategic angels. Cross-referenced with Fuse Energy Wikipedia entry, accessed June 2026. https://en.wikipedia.org/wiki/Fuse_Energy
+
+[^29]: EU-Startups, "London's Fuse Energy secures €25 million Series B extension as it plans 32,000 sq ft London HQ," June 4, 2026. Accessed June 2026. https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ — Confirms €25M ($30M) Series B Extension on June 4, 2026 with new investors 20VC and Collaborative Fund joining existing backers Balderton Capital and Lowercarbon Capital. Total funding to date: €214M ($250M). Cross-referenced with BeBeez International, "London's Fuse Energy secures €25 million Series B extension," June 4, 2026. https://bebeez.eu/2026/06/04/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/

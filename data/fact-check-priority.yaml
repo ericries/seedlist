@@ -122,8 +122,9 @@ priority:
   status: resolved
 - slug: acme-capital
   type: firm
-  reason: "joined Plot $10M seed (2026-06-02)"
+  reason: "RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio with 3 primary citations (PRNewswire, Net Influencer, Adweek); Stendr pre-seed date resolved to 2026-04-15 (co-led with RainFall and SkyFall)"
   added: 2026-06-04
+  status: resolved
 - slug: alexis-ohanian
   type: investor
   reason: "RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio; last_verified_investment updated from LambdaVision 2025-11-05 to Plot 2026-06-02; 3 primary citations added"
@@ -138,10 +139,6 @@ priority:
   reason: "RESOLVED 2026-06-04 — Ramp Series F $750M at $44B (2026-06-04, co-led with GIC + OTPP) added to portfolio with 3 primary citations (PRNewswire, TechCrunch, OTPP); also resolved vague dates on Sierra (2024-10-28), DX (2025-03-05), Omni (2026-04-23), AcuityMD Series B (2024-06-04), Series C (2026-04-21)"
   added: 2026-06-04
   status: resolved
-- slug: insight-partners
-  type: firm
-  reason: "joined Ramp Series F (2026-06-04)"
-  added: 2026-06-04
 - slug: redpoint-ventures
   type: firm
   reason: "RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led, participated) and Collate $95M Series B (2026-06-03, led) added; Twilio corrected from Series A 2009 to Series D 2013-06-12 (led)"
@@ -185,12 +182,14 @@ priority:
   added: 2026-06-04
 - slug: lux-capital
   type: firm
-  reason: "co-led Flourish AI $500M at $2.5B val (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Flourish $500M co-led (2026-06-04, with GV at $2.5B post-money) added to portfolio with 3 primary citations (SiliconANGLE, AlleyWatch, citybiz)"
   added: 2026-06-05
+  status: resolved
 - slug: gv
   type: firm
-  reason: "co-led Flourish AI $500M (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Flourish $500M co-led (2026-06-04, with Lux Capital at $2.5B post-money) added to portfolio with 3 primary citations (SiliconANGLE, citybiz, AlleyWatch)"
   added: 2026-06-05
+  status: resolved
 - slug: union-square-ventures
   type: firm
   reason: "joined Flourish AI $500M (2026-06-04); led Board $20M (2026-06-02)"

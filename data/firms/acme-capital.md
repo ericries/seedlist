@@ -42,7 +42,7 @@ team:
     slug: katera-mujadidi
 tldr: "Frontier tech venture firm ($1.5B aggregate commitments) co-founded by Hany Nada (ex-GGV Capital) and Scott Stanford (ex-Goldman Sachs Internet banking head). Invests $5-10M at seed through Series B in technologies 'before they are mainstream.' Portfolio (31 verified) is 29% enterprise/AI, 23% digital health, 13% aerospace/defense, 13% quantum/semiconductors. Notable exits: IonQ (IPO), Astra (IPO via SPAC). Leads 80% of investments. Over 60% of recent investments in diverse-founder companies."
 status: published
-last_researched: 2026-05-01
+last_researched: 2026-06-04
 ---
 
 ## About
@@ -130,7 +130,8 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Camber | Early Stage | ~2023 | Healthcare Billing / AI | Active [^15] |
 | Uhnder | Early Stage | ~2019 | Autonomous Vehicles / Radar | Active [^4] |
 | Arya | Early Stage | ~2024 | Healthcare AI | Active [^15] |
-| Stendr | Pre-Seed | 2026 | Defense Tech / Drones | Active [^21] |
+| Stendr | Pre-Seed (co-led) | 2026-04-15 | Defense Tech / Drones | Active [^21] |
+| Plot | Seed follow-on | 2026-06-02 | AI / Marketing / Social Video | Active [^25] |
 
 *Note: This table represents approximately 35 of an estimated 127–207 total investments. Many investments, particularly those made under the Sherpa Capital name (Uber, Airbnb, Robinhood, Slack, Opendoor, Rent the Runway, Wag), are not included as they predate the ACME Capital branding. Years marked with ~ are approximations based on available data.*
 
@@ -197,3 +198,5 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^23]: BioSpace press release, "Conceivable Life Sciences Closes $18 Million Series A Financing to Advance Development and Commercialization of the World's First AI-Powered Automated IVF Lab," January 14, 2025, accessed June 2026. https://www.biospace.com/press-releases/conceivable-life-sciences-closes-18-million-series-a-financing-to-advance-development-and-commercialization-of-the-worlds-first-ai-powered-automated-ivf-lab — Primary source confirming $18M Series A close on January 14, 2025, led by ARTIS Ventures with new investors Atlantic Health Venture Studio, Muse Capital, and Scrub Capital; ACME Capital named as existing investor alongside Black Opal Ventures, Cadence Healthcare Ventures, Future Positive Capital, Stride.VC, and Time BioVentures.
 
 [^24]: PRNewswire, "Muon Space Secures $56M Series B Funding, Surpasses $100M in Customer Contracts in 2024 including Landmark Agreement with SNC," August 5, 2024, accessed June 2026. https://www.prnewswire.com/news-releases/muon-space-secures-56m-series-b-funding-surpasses-100m-in-customer-contracts-in-2024-including-landmark-agreement-with-snc-302212700.html — Primary source confirming the Muon Space $56M Series B announcement on August 5, 2024, led by Activate Capital with new participant Acme Capital and existing investors Costanoa Ventures, Radical Ventures, and Congruent Ventures.
+
+[^25]: PRNewswire, "Plot Raises $10M to Scale Social Video Intelligence for Marketing Teams at Fortune 500 Brands," June 2, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/plot-raises-10m-to-scale-social-video-intelligence-for-marketing-teams-at-fortune-500-brands-302787693.html — Primary source confirming Plot's $10M seed follow-on co-led by XYZ Venture Capital and Mischief Ventures, with participation from Seven Seven Six and Acme Capital. Also corroborated by Net Influencer ("Social Video Intelligence Startup Plot Raises $10M As Enterprise Demand Surges," https://www.netinfluencer.com/social-video-intelligence-startup-plot-raises-10m-usd-as-enterprise-demand-surges/) and Adweek ("Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/).

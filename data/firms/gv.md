@@ -127,6 +127,7 @@ Based on GV's verified portfolio and public data:
 | Nectar Social | Series A (participated; previously led Seed) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^16] |
 | Flick | Seed (participated; True Ventures led) | 2026-05-14 | AI / Filmmaking | Private [^19] |
 | MokN | Series A (led, €12.9M / $15M) | 2026-05-28 | Cybersecurity / Credential Theft / Identity | Private [^22] |
+| Flourish | Venture (co-led with Lux Capital, $500M at $2.5B post-money) | 2026-06-04 | AI / Neuroscience / Connectomics | Private [^flourish1][^flourish2][^flourish3] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -178,3 +179,7 @@ No independently sourced founder testimonials found.
 [^21]: InvestmentNews, "Wealth.com raises $65M Series B as AI adoption accelerates across firms," April 16, 2026. Accessed May 2026. https://www.investmentnews.com/fintech/wealthcom-raises-65m-series-b-as-ai-adoption-accelerates-across-firms/266175 — Independent confirmation of $65M Series B announced April 16, 2026 with GV among returning investors.
 
 [^22]: EU-Startups, "MokN raises €12.9 million to combat credential theft as GV makes its first investment in a French startup," May 29, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/mokn-raises-e12-9-million-to-combat-credential-theft-as-gv-makes-its-first-investment-in-a-french-startup/ — Confirms GV led MokN's €12.9M / $15M Series A on May 28, 2026 (GV's first investment in a French startup); Datadog, Moonfire, and OVNI Capital participated.
+
+[^flourish1]: Maria Deutscher, "AI startup Flourish reportedly raises $500M round backed by Jeff Bezos," SiliconANGLE, June 4, 2026. Accessed June 2026. https://siliconangle.com/2026/06/04/ai-startup-flourish-reportedly-raises-500m-round-backed-jeff-bezos/ — Confirms GV co-led Flourish's $500M round on June 4, 2026 at $2.5B post-money valuation with Lux Capital; Catalio Capital Management and Jeff Bezos also participated.
+[^flourish2]: "Catalio's Neuroscience Startup Flourish Emerges With Funding from Bezos, Google Ventures," citybiz, June 2026. Accessed June 2026. https://www.citybiz.co/article/856404/catalios-neuroscience-startup-flourish-emerges-with-funding-from-bezos-google-ventures/
+[^flourish3]: "The AlleyWatch Startup Daily Funding Report: 6/5/2026," AlleyWatch, June 5, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-5-2026/
