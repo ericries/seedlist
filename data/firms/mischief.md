@@ -1,7 +1,7 @@
 ---
 founded: 2021
 fund_size: $110M+ total AUM; Fund I $30M (2021); Fund II $80M (2024)
-last_researched: 2026-03-30
+last_researched: 2026-06-04
 location: San Francisco, CA
 name: Mischief
 sector_focus:
@@ -13,6 +13,7 @@ sector_focus:
 - climate
 - consumer
 - saas
+- marketing-tech
 slug: mischief
 stage_focus:
 - pre-seed
@@ -57,11 +58,11 @@ Mischief publicly covers six sector areas on its website: healthcare, climate, c
 
 ## Inferred Thesis
 
-Based on 20 verified investments below, Mischief's actual portfolio reveals the following patterns:
+Based on 21 verified investments below, Mischief's actual portfolio reveals the following patterns:
 
-**Sector breakdown:** Fintech dominates with 7 of 20 investments (35%) — Cardless, Propel, Found, Rutter, Gravy, Backpack, and Friday Harbor. Crypto/web3 accounts for 4 of 20 (20%) — Blackbird, Farcaster, Rainbow, and Rain. Infrastructure and security account for 3 of 20 (15%) — iVerify, Polar, and Hamming. Healthcare represents 2 of 20 (10%) — Flychain and Tivara. Developer tools account for 2 of 20 (10%) — Crafting and Twenty. Climate/energy accounts for 1 of 20 (5%) — Light Energy. Consumer accounts for 1 of 20 (5%) — Alpharun.
+**Sector breakdown:** Fintech dominates with 7 of 21 investments (33%) — Cardless, Propel, Found, Rutter, Gravy, Backpack, and Friday Harbor. Crypto/web3 accounts for 4 of 21 (19%) — Blackbird, Farcaster, Rainbow, and Rain. Infrastructure and security account for 3 of 21 (14%) — iVerify, Polar, and Hamming. Healthcare represents 2 of 21 (10%) — Flychain and Tivara. Developer tools account for 2 of 21 (10%) — Crafting and Twenty. Climate/energy accounts for 1 of 21 (5%) — Light Energy. Consumer accounts for 1 of 21 (5%) — Alpharun. Marketing tech / social video accounts for 1 of 21 (5%) — Plot.
 
-**Stage distribution:** The vast majority of verified investments are at seed stage, consistent with the firm's stated focus. Based on available data, at least 14 of 20 verified investments (70%) were seed-stage, with a smaller number at Series A and growth stages.
+**Stage distribution:** The vast majority of verified investments are at seed stage, consistent with the firm's stated focus. Based on available data, at least 15 of 21 verified investments (71%) were seed-stage, with a smaller number at Series A and growth stages.
 
 **Check size:** Typically $1–4 million for seed investments, with the ability to invest up to $5 million [^1] [^6]. The firm has transitioned to leading rounds more frequently after recognizing portfolio founders' desire for deeper involvement [^3].
 
@@ -77,11 +78,12 @@ Based on 20 verified investments below, Mischief's actual portfolio reveals the 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Hamming | Seed (Lead, $3.8M) | 2024 | AI / Infrastructure | [^7] |
-| Cardless | Growth ($30M round) | 2024 | Fintech | [^9] |
-| Polar | Seed ($10M round) | 2025 | Infrastructure / Developer Tools | [^8] |
-| iVerify | Seed (Lead, $4M) | 2023 | Cybersecurity | [^10] |
-| iVerify | Series A | 2024 | Cybersecurity | [^10] |
+| Plot | Seed follow-on ($10M co-led with XYZ VC) | 2026-06-02 | Marketing Tech / AI / Social Video | [^22] [^23] [^24] |
+| Hamming | Seed (Lead, $3.8M) | 2024-12-18 | AI / Infrastructure | [^7] |
+| Cardless | Growth ($30M round, Activant-led) | 2024-11-26 | Fintech | [^9] |
+| Polar | Seed ($10M round) | 2025-06 | Infrastructure / Developer Tools | [^8] |
+| iVerify | Seed (Lead, $4M) | 2023-08 | Cybersecurity | [^10] |
+| iVerify | Series A ($12M, Shine Capital-led) | 2024-06-26 | Cybersecurity | [^25] |
 | Farcaster | Seed ($30M round) | 2022 | Crypto / Social | [^12] |
 | Blackbird | Seed ($11M round) | 2022 | Crypto / Restaurant Tech | [^13] |
 | Rainbow | Series A ($18M round) | 2022 | Crypto / Wallet | [^14] |
@@ -89,15 +91,15 @@ Based on 20 verified investments below, Mischief's actual portfolio reveals the 
 | Rutter | Series A ($27M round) | 2022 | Fintech / Commerce API | [^11] |
 | Found | Seed ($12.75M round) | May 2021 | Fintech / Banking | [^16] |
 | Flychain | Seed | ~2022 | Healthcare / Fintech | [^17] |
-| Tivara | Seed ($3.6M) | 2024 | Healthcare / AI | [^18] |
-| Friday Harbor | Seed ($6M) | 2025 | Fintech / Mortgage Tech | [^19] |
-| Crafting | Seed ($5.5M, led) | 2026 | Developer Tools / AI | [^20] |
-| Twenty | Seed ($5M) | 2024 | SaaS / CRM | [^21] |
-| Gravy | Seed | -- | Fintech | [^1] |
-| Backpack | Seed | -- | Fintech | [^1] |
-| Rain | Seed | -- | Crypto | [^1] |
-| Alpharun | Seed | -- | Consumer / AI | [^1] |
-| Light Energy | Seed | -- | Climate / Energy | [^1] |
+| Tivara | Seed ($3.6M) | 2026-01 | Healthcare / AI | [^18] |
+| Friday Harbor | Seed ($6M, Abstract-led) | 2025-04-15 | Fintech / Mortgage Tech | [^19] |
+| Crafting | Seed ($5.5M, led) | 2026-03-09 | Developer Tools / AI | [^20] |
+| Twenty | Seed ($5M, Runa-led) | 2024-11-19 | SaaS / CRM | [^21] |
+| Gravy | Seed | ~2024 | Fintech | [^1] |
+| Backpack | Seed | ~2024 | Fintech | [^1] |
+| Rain | Seed | ~2024 | Crypto | [^1] |
+| Alpharun | Seed | ~2024 | Consumer / AI | [^1] |
+| Light Energy | Seed | ~2024 | Climate / Energy | [^1] |
 
 Note: Entries marked with -- have investment dates that could not be independently verified; these companies appear on the Mischief website portfolio page [^1] but no press coverage of the specific funding rounds was found. Mischief's website lists 39 portfolio companies including Faire, Figma, Coinbase, Ramp, Mercury, and Retool [^1], though some of these may represent personal angel investments by the partners prior to Mischief's formation.
 
@@ -139,4 +141,8 @@ No independently sourced founder testimonials found. The firm's portfolio founde
 [^18]: Business Insider, "Tivara raised a $3.6 million seed round, backed by Mischief VC, Day One Ventures, and Y Combinator," January 2026. https://finance.yahoo.com/news/read-pitch-deck-y-combinator-140001952.html
 [^19]: PR Newswire, "Friday Harbor raises $6M to help community lenders match the speed and efficiency of mortgage giants," 2025. https://www.prnewswire.com/news-releases/friday-harbor-raises-6m-to-help-community-lenders-match-the-speed-and-efficiency-of-mortgage-giants-302428495.html
 [^20]: GlobeNewsWire, "Crafting Announces General Availability of Crafting for Agents and $5.5M Seed Round to Build Infrastructure for AI-Driven Engineering," March 2026. https://www.globenewswire.com/news-release/2026/03/09/3252022/0/en/Crafting-Announces-General-Availability-of-Crafting-for-Agents-and-5-5M-Seed-Round-to-Build-Infrastructure-for-AI-Driven-Engineering.html
-[^21]: TechCrunch, "Twenty is building an open source alternative to Salesforce," November 2024. https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/
+[^21]: TechCrunch, "Twenty is building an open source alternative to Salesforce," November 18, 2024. https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/
+[^22]: PR Newswire, "Plot Raises $10M to Scale Social Video Intelligence for Marketing Teams at Fortune 500 Brands," June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/plot-raises-10m-to-scale-social-video-intelligence-for-marketing-teams-at-fortune-500-brands-302787693.html
+[^23]: Net Influencer, "Social Video Intelligence Startup Plot Raises $10M As Enterprise Demand Surges," June 3, 2026. Accessed June 2026. https://www.netinfluencer.com/social-video-intelligence-startup-plot-raises-10m-usd-as-enterprise-demand-surges/
+[^24]: Adweek, "Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," June 2026. Accessed June 2026. https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/
+[^25]: iVerify press release, "iVerify Announces $12M in Series A Funding to Transform Mobile Security," June 26, 2024. Accessed June 2026. https://iverify.io/press-releases/iverify-announces-12m-in-series-a-funding-to-transform-mobile-security

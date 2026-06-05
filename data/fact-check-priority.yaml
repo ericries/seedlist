@@ -117,12 +117,9 @@ priority:
   status: resolved
 - slug: mischief
   type: firm
-  reason: "co-led Plot $10M seed follow-on (2026-06-02)"
+  reason: "RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio with 3 primary citations (PRNewswire, Net Influencer, Adweek); also resolved vague dates on 7 portfolio entries: Hamming (2024-12-18), Cardless (2024-11-26, Activant-led), iVerify Series A (2024-06-26, $12M Shine-led), Tivara (2026-01), Friday Harbor (2025-04-15, Abstract-led), Crafting (2026-03-09), Twenty (2024-11-19, Runa-led); marketing-tech added to sector_focus; inferred thesis updated from 20 to 21 verified investments"
   added: 2026-06-04
-- slug: seven-seven-six
-  type: firm
-  reason: "joined Plot $10M seed (2026-06-02)"
-  added: 2026-06-04
+  status: resolved
 - slug: acme-capital
   type: firm
   reason: "joined Plot $10M seed (2026-06-02)"

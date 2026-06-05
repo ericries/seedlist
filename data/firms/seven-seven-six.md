@@ -1,7 +1,7 @@
 ---
 founded: 2020
 fund_size: '$900M+ AUM across 3 funds (Fund I: $150M, Fund II: $500M, Kryptos: $177.6M)'
-last_researched: 2026-03-19
+last_researched: 2026-06-04
 location: Austin, TX
 name: Seven Seven Six
 sector_focus:
@@ -76,8 +76,9 @@ Based on 25 verified investments, the following patterns emerge. Note: this repr
 | Stoke Space | Seed | 2021 | Space/Deep Tech | [^6] |
 | Linear | Early | ~2021 | Developer Tools | [^6] |
 | Owner | Early | ~2021 | Restaurant Tech | [^6] |
-| Interlune | Seed (Lead) | 2024 | Space/Resources | [^9] |
-| LambdaVision | Seed (Co-Lead) | 2025 | Biotech | [^7] |
+| Interlune | Seed (Lead) | 2024-03-13 | Space/Resources | [^9] |
+| LambdaVision | Seed (Co-Lead) | 2025-11-05 | Biotech | [^7] |
+| Plot | Seed follow-on (Participant) | 2026-06-02 | AI/Marketing | [^11][^12][^13] |
 
 *This table represents approximately 12% of 130 known investments. Many investments, particularly in crypto tokens via the Kryptos fund, are not individually documented in public sources.*
 
@@ -107,3 +108,6 @@ No independently sourced founder testimonials found. The firm's website and mark
 [^8]: Refresh Miami, "SoftBank-backed QuickNode raises $5.3M seed round, led by Alexis Ohanian," May 2021, accessed March 2026. https://refreshmiami.com/news/softbank-backed-quicknode-raises-5-3m-seed-round-led-by-alexis-ohanian/
 [^9]: Female VC Lab, "Katelin Holloway, Founding Partner, 776: From Operator to VC Trailblazer," accessed March 2026. https://www.femalevclab.com/p/katelin-holloway-founding-partner-776-from-operator-to-vc-trailblazer
 [^10]: BrainyQuote, "Alexis Ohanian Quotes," accessed March 2026. https://www.brainyquote.com/authors/alexis-ohanian-quotes
+[^11]: PR Newswire, "Plot Raises $10M to Scale Social Video Intelligence for Marketing Teams at Fortune 500 Brands," June 2, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/plot-raises-10m-to-scale-social-video-intelligence-for-marketing-teams-at-fortune-500-brands-302787693.html
+[^12]: Adweek, "Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," June 2026, accessed June 2026. https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/
+[^13]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/2/2026," June 2, 2026, accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-2-2026/
