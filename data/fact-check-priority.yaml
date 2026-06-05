@@ -168,3 +168,27 @@ priority:
   type: firm
   reason: "co-led Fuse Energy Series B Extension €25M (2026-06-04)"
   added: 2026-06-04
+- slug: mayfield-fund
+  type: firm
+  reason: "led Scrunch seed (2025-03), acquired by Sitecore $225M (2026-06-03)"
+  added: 2026-06-04
+- slug: homebrew
+  type: firm
+  reason: "joined Scrunch Series A (2025-07-22)"
+  added: 2026-06-04
+- slug: accel
+  type: firm
+  reason: "joined Supabase Series F $500M at $10.5B val (2026-06-04)"
+  added: 2026-06-04
+- slug: y-combinator
+  type: firm
+  reason: "joined Supabase Series F (2026-06-04)"
+  added: 2026-06-04
+- slug: craft-ventures
+  type: firm
+  reason: "joined Supabase Series F (2026-06-04)"
+  added: 2026-06-04
+- slug: coatue-management
+  type: firm
+  reason: "joined Supabase Series F (2026-06-04)"
+  added: 2026-06-04
