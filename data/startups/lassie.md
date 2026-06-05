@@ -10,6 +10,9 @@ firms:
 - round: Series A
   slug: reforge
   year: 2026
+- round: Series A
+  slug: long-journey-ventures
+  year: 2026
 founders:
 - name: Steijn Pelle
   role: Co-Founder & CEO

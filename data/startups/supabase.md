@@ -1,41 +1,100 @@
 ---
-name: "Supabase"
-slug: supabase
-type: startup
-website: "https://supabase.com"
-location: "San Francisco, CA"
-founded: 2020
-status_company: active
-sector: [developer-tools, infrastructure, open-source, ai, databases]
-stage_latest: "Series F"
-total_raised: "$1B+"
-investors:
-  - slug: paul-copplestone
-    round: founder
-    year: 2020
 firms:
-  - slug: y-combinator
-    round: pre-seed
-    year: 2020
-  - slug: accel
-    round: series-f
-    year: 2026
-    date: 2026-06-04
-  - slug: craft-ventures
-    round: series-f
-    year: 2026
-    date: 2026-06-04
-  - slug: coatue-management
-    round: series-f
-    year: 2026
-    date: 2026-06-04
+- round: pre-seed
+  slug: y-combinator
+  year: 2020
+- date: 2026-06-04
+  round: series-f
+  slug: accel
+  year: 2026
+- date: 2026-06-04
+  round: series-f
+  slug: craft-ventures
+  year: 2026
+- date: 2026-06-04
+  round: series-f
+  slug: coatue-management
+  year: 2026
+- round: ~2022
+  slug: anthropic
+  year: 2022
+- round: Series C
+  slug: avra
+  year: 2024
+- round: ~2022
+  slug: felicis
+  year: 2022
+- round: Series D
+  slug: vercel
+  year: 2025
+- round: Series A
+  slug: dagger
+  year: 2021
+- round: Series E
+  slug: peak-xv-partners
+  year: 2025
+- round: Seed
+  slug: worklife-ventures
+  year: 2020
+- round: '2021'
+  slug: preston-werner-ventures
+  year: 2021
+- round: ~2020
+  slug: marathon-management-partners
+  year: 2020
+founded: 2020
 founders:
-  - name: "Paul Copplestone"
-    role: "CEO & Co-Founder"
-  - name: "Ant Wilson"
-    role: "CTO & Co-Founder"
-status: published
+- name: Paul Copplestone
+  role: CEO & Co-Founder
+- name: Ant Wilson
+  role: CTO & Co-Founder
+investors:
+- round: founder
+  slug: paul-copplestone
+  year: 2020
+- round: ~2022
+  slug: mike-krieger
+  year: 2022
+- round: Series C
+  slug: anu-hariharan
+  year: 2024
+- round: ~2022
+  slug: aydin-senkut
+  year: 2022
+- round: Series D
+  slug: guillermo-rauch
+  year: 2025
+- round: Series A
+  slug: solomon-hykes
+  year: 2021
+- round: Series E
+  slug: shailendra-singh
+  year: 2025
+- round: Seed
+  slug: brianne-kimmel
+  year: 2020
+- round: '2021'
+  slug: tom-preston-werner
+  year: 2021
+- round: ~2020
+  slug: gokul-rajaram
+  year: 2020
 last_researched: 2026-06-03
+location: San Francisco, CA
+name: Supabase
+sector:
+- developer-tools
+- infrastructure
+- open-source
+- ai
+- databases
+slug: supabase
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $1B+
+type: startup
+website: https://supabase.com
 ---
 
 ## About

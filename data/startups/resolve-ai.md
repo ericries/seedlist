@@ -4,6 +4,9 @@ firms:
   slug: greylock
   year: 2024
 - slug: dst-global
+- round: Seed
+  slug: entire
+  year: 2024
 founded: null
 founders:
 - name: Spiros Xanthos
@@ -13,6 +16,9 @@ founders:
 investors:
 - round: Seed ($35M, led)
   slug: saam-motamedi
+  year: 2024
+- round: Seed
+  slug: thomas-dohmke
   year: 2024
 last_researched: 2026-04-16
 location: San Francisco, CA

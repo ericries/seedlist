@@ -114,7 +114,7 @@ The following table includes investments made both through Acrew Capital funds (
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Aembit | Series A (led, $25M) | 2024 | Data & Security | Active | [^15] |
+| Aembit | Series A (led, $25M) | 2024-09-12 | Data & Security | Active | [^15] |
 | Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
 | Alix | Series A (led, $20M) | 2025 | Fintech / Estate Settlement | Active | [^23][^24] |
 | AltoIRA | Series A (participated) | 2021 | Fintech | Active | [^12][^26] |

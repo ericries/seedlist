@@ -20969,7 +20969,7 @@ queue:
 - name: Thomas Dohmke
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: cal-henderson
@@ -27000,3 +27000,29 @@ queue:
   firm: Mecka AI
   discovered_from: mecka-ai
   source: Co-founder & CEO of Mecka AI
+- name: Entire
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-dohmke
+- name: Avery Pennarun
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tailscale
+  discovered_from: thomas-dohmke
+- name: Mårten Mickos
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent
+  discovered_from: thomas-dohmke
+- name: Tangled
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: thomas-dohmke
