@@ -19,10 +19,6 @@ firms:
     round: series-b-extension
     year: 2026
     date: 2026-06-04
-  - slug: boxgroup
-    round: series-b-extension
-    year: 2026
-    date: 2026-06-04
 founders:
   - name: "Umaimah Khan"
     role: "Co-Founder"
@@ -38,7 +34,8 @@ Opal Security is a San Francisco-based identity and access governance platform t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-04 | Series B Extension | $23M | Greylock, Battery Ventures | Cambium Capital, BoxGroup, SVCI [^1][^2][^3] |
+| 2026-06-04 | Series B Extension | $23M | Greylock, Battery Ventures | Cambium Capital [^1][^2][^3] |
+| 2023-12-07 | Series B | $22M | Battery Ventures | Greylock, BoxGroup [^4] |
 
 Total raised to date: $59M [^1].
 
@@ -55,3 +52,4 @@ No independently sourced founder testimonials found at this time.
 [^1]: "Opal Security Raises $23M and Expands Leadership Team to Unify Identity Governance Across Human, Non-Human, and Agentic AI," FinancialContent (Business Wire), June 4, 2026. Accessed June 2026. https://www.financialcontent.com/article/bizwire-2026-6-4-opal-security-raises-23m-and-expands-leadership-team-to-unify-identity-governance-across-human-non-human-and-agentic-ai
 [^2]: "Opal Security Raises $23 Million And Expands Leadership Team," Pulse 2.0, June 2026. Accessed June 2026. https://pulse2.com/opal-security-raises-23-million-and-expands-leadership-team/
 [^3]: "Opal Security Raises $23M in New Funding Led by Greylock," StartupRise, June 5, 2026. Accessed June 2026. https://startuprise.io/opal-security-raises-23m-in-new-funding-led-by-greylock/
+[^4]: "Announcing our $22M Series B," Opal Security blog (Umaimah Khan), December 7, 2023. Accessed June 2026. https://www.opal.dev/blog/series-b

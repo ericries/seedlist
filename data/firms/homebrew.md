@@ -87,6 +87,7 @@ Based on 93+ active portfolio companies from Homebrew's portfolio page, the foll
 | Orum (acq. by Stripe) | Seed | ~2019 | Fintech/Payments | [^5][^25] |
 | data.world (acq. by ServiceNow) | Seed | ~2016 | Data Platform | [^5][^26] |
 | SchoolAI | Seed | 2023 | EdTech/AI | [^5][^27] |
+| Scrunch AI (acq. by Sitecore, ~$225M, 2026-06-03) | Series A | 2025-07-22 | AI/Marketing (GEO) | [^28][^29][^30] |
 
 *This table represents approximately 12% of 172 known investments. Homebrew's concentrated approach means most investments are at seed stage [^6]. Investment years and stages sourced from Crunchbase, Homebrew blog posts, and press coverage where available.*
 
@@ -139,3 +140,6 @@ No additional independently sourced founder testimonials with verbatim quotes fo
 [^25]: Homebrew blog, "Orum Joins Stripe to Help Money Move Faster," July 2025. https://homebrew.co/blog/2025/07/21/orum-joins-stripe-to-help-money-move-faster
 [^26]: TechCrunch, "ServiceNow acquires Data.World months after snatching up Moveworks," May 7, 2025. https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/
 [^27]: GlobeNewsWire, "SchoolAI Secures $25 Million to Help Teachers and Schools Reach Every Student," April 2, 2025. https://www.globenewswire.com/news-release/2025/04/02/3054126/0/en/SchoolAI-Secures-25-Million-to-Help-Teachers-and-Schools-Reach-Every-Student.html
+[^28]: PR Newswire, "Scrunch AI Raises $15 Million Series A to Rebuild the Internet for AI Consumption," July 22, 2025, accessed June 2026. https://www.prnewswire.com/news-releases/scrunch-ai-raises-15-million-series-a-to-rebuild-the-internet-for-ai-consumption-302510915.html
+[^29]: PR Newswire, "Sitecore Acquires Scrunch to Help Brands Influence Discovery and Buying Decisions in the AI-Search Era," June 3, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/sitecore-acquires-scrunch-to-help-brands-influence-discovery-and-buying-decisions-in-the-ai-search-era-302790214.html
+[^30]: Adweek, "Sitecore Snaps Up GEO Startup Scrunch for an Alleged $225M," June 3, 2026, accessed June 2026. https://www.adweek.com/media/sitecore-snaps-up-geo-startup-scrunch-for-225m/

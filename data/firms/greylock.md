@@ -220,6 +220,8 @@ The following table includes companies identified from Greylock's website portfo
 | Nextdoor | Series A | ~2011 (founded) | Consumer | Public (SPAC 2021) [^8] |
 | Notion | Series A | ~2018 | SaaS | Private [^8] |
 | Okta | Series B | 2011 | Enterprise SaaS / Identity | Public (IPO 2017) [^8][^20] |
+| Opal Security | Series B (existing investor) | 2023-12-07 | Cybersecurity / Identity | Private [^31] |
+| Opal Security | Series B Extension (co-led, $23M) | 2026-06-04 | Cybersecurity / Identity | Private [^32][^33][^34] |
 | Palo Alto Networks | Seed | ~2005 (founded) | Cybersecurity | Public (IPO 2012) [^8][^15] |
 | Pandora | Series F | 2009 | Consumer / Music | Acquired by SiriusXM (2019) [^2][^8] |
 | Plaid | Growth | ~2018 | Fintech | Private [^8] |
@@ -364,3 +366,11 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^29]: Fortune, "Self-Driving Startup Aurora Raises $90 Million, LinkedIn Boss Onboard," February 28, 2018. https://fortune.com/2018/02/28/aurora-self-driving-cars-investment/ — Aurora's Series A of $90M was co-led by Greylock Partners and Index Ventures, announced February 28, 2018. Reid Hoffman (Greylock) and Mike Volpi (Index) joined Aurora's board. Accessed May 2026.
 
 [^30]: Fenwick & West press release, "Fenwick Represents Index Ventures and Greylock Partners in Leading Aurora's Series A Financing." https://www.fenwick.com/insights/experience/fenwick-represents-index-ventures-and-greylock-partners-in-leading-auroras-series-a-financing — Confirms Greylock and Index Ventures co-led Aurora's $90M Series A in February 2018. Accessed May 2026.
+
+[^31]: "Announcing our $22M Series B," Opal Security blog (Umaimah Khan), December 7, 2023. https://www.opal.dev/blog/series-b — Confirms Greylock as existing investor participating in $22M Series B led by Battery Ventures. Accessed June 2026.
+
+[^32]: "Opal Security Raises $23M and Expands Leadership Team to Unify Identity Governance Across Human, Non-Human, and Agentic AI," FinancialContent (Business Wire), June 4, 2026. https://www.financialcontent.com/article/bizwire-2026-6-4-opal-security-raises-23m-and-expands-leadership-team-to-unify-identity-governance-across-human-non-human-and-agentic-ai — Confirms $23M Series B Extension co-led by Greylock and Battery Ventures with participation from Cambium Capital. Accessed June 2026.
+
+[^33]: Pulse 2.0, "Opal Security Raises $23 Million And Expands Leadership Team," June 2026. https://pulse2.com/opal-security-raises-23-million-and-expands-leadership-team/ — Independent confirmation: "The funding round was led by Greylock and Battery Ventures, with participation from Cambium Capital." Accessed June 2026.
+
+[^34]: StartupRise, "Opal Security Raises $23M in New Funding Led by Greylock," June 5, 2026. https://startuprise.io/opal-security-raises-23m-in-new-funding-led-by-greylock/ — Third independent confirmation of $23M new funding round co-led by Greylock and Battery Ventures with Cambium Capital. Accessed June 2026.

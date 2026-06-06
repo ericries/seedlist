@@ -164,22 +164,20 @@ priority:
   reason: "RESOLVED 2026-06-03 — Scrunch AI seed (2025-03-04, led $4M, acquired by Sitecore ~$225M 2026-06-03) added with 4 primary citations (TechCrunch, Scrunch blog, PRNewswire Series A, Sitecore/PRNewswire + Adweek confirmation); also resolved vague dates on Gruve (Series A 2025-04-30, led $20M), NeuBird (2026-04-08, $19.3M Xora-led), Inception Labs (2025-11-06, $50M Menlo-led seed), ProRata.ai (2024-08-06, led $25M seed)"
   added: 2026-06-04
   status: resolved
-- slug: homebrew
-  type: firm
-  reason: "joined Scrunch Series A (2025-07-22)"
-  added: 2026-06-04
 - slug: accel
   type: firm
   reason: "joined Supabase Series F $500M at $10.5B val (2026-06-04)"
   added: 2026-06-04
 - slug: y-combinator
   type: firm
-  reason: "joined Supabase Series F (2026-06-04)"
+  reason: "RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led, participant) row updated with 3 primary citations (Supabase blog, PRNewswire, FinSMEs); Collate $95M Series B (2026-06-03, Redpoint-led) added — YC did not participate in Series B but participated in prior $30M Seed (2025-01-21) with 3 citations (TheSaaSNews, Techmeme/Forbes, American Bazaar/Surbhi Sarna X)"
   added: 2026-06-04
+  status: resolved
 - slug: craft-ventures
   type: firm
-  reason: "joined Supabase Series F (2026-06-04)"
+  reason: "RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led, participant) added with 3 primary citations (PRNewswire, CNBC, TechCrunch); also resolved vague dates on Noma Security (2025-07-31), Upwind Security (2024-12-02, $100M Craft-led), Oasis Security (2026-03-19), ComfyUI (2026-04-24)"
   added: 2026-06-04
+  status: resolved
 - slug: coatue-management
   type: firm
   reason: "joined Supabase Series F (2026-06-04)"

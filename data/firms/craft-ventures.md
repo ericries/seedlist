@@ -133,12 +133,13 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Replit | Growth | ~2023 | Developer Tools | Active [^8] |
 | Vanta | Series B | ~2022 | Enterprise/Security | Unicorn [^8] |
 | Secoda | Angel-Seed | ~2021 | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
-| Noma Security | Series B | 2025 | Enterprise/Security | Active [^7] |
-| Upwind Security | Series B | 2024 | Enterprise/Security | Active [^7] |
+| Noma Security | Series B (participant) | 2025-07-31 | Enterprise/Security | Active — $100M, Evolution Equity-led [^7][^17] |
+| Upwind Security | Series B (led) | 2024-12-02 | Enterprise/Security | Active — $100M at ~$900M val [^7][^18] |
 | Unframe AI | Series A | 2025-04 | Enterprise/AI | Active [^7] |
 | Unframe | Series B (participant) | 2026-05-19 | Enterprise/AI | Active [^13] |
-| Oasis Security | Series B (led) | 2026 | Enterprise/Cybersecurity | Active [^10] |
-| ComfyUI | Series A (led) | 2026 | AI / Generative Media | Active [^12] |
+| Oasis Security | Series B (led) | 2026-03-19 | Enterprise/Cybersecurity | Active — $120M [^10] |
+| ComfyUI | Series A (led) | 2026-04-24 | AI / Generative Media | Active — $30M at $500M val [^12] |
+| Supabase | Series F (participant) | 2026-06-04 | Enterprise/Developer Tools (Database) | Active — $500M at $10.5B post-money, GIC led [^14][^15][^16] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -179,3 +180,8 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^11]: Craft Ventures website, "Portfolio — Affirm," accessed March 2026. https://www.craftventures.com/portfolio/affirm
 [^12]: TechCrunch, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media," April 24, 2026. https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/
 [^13]: SiliconANGLE, "Enterprise AI startup Unframe raises $50M after booking $100M in contract value in year one," May 19, 2026. Accessed May 2026. https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/
+[^14]: PRNewswire, "Supabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html
+[^15]: CNBC, "Vibe-coding phenomenon lifts AI startup Supabase to $10.5 billion valuation," June 4, 2026. Accessed June 2026. https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html
+[^16]: TechCrunch, "Supabase doubles valuation to $10B in 8 months," June 5, 2026. Accessed June 2026. https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
+[^17]: Noma Security blog, "Noma Security Raises $100M to Drive Adoption of AI Agent Security," July 31, 2025. Accessed June 2026. https://noma.security/blog/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security/
+[^18]: TechCrunch, "Cloud security specialist Upwind confirms it raised $100M at a $900M valuation," December 2, 2024. Accessed June 2026. https://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation/

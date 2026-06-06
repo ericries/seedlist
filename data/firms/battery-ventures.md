@@ -111,6 +111,8 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |
 | Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |
 | Blitzy | Growth (participated, $200M, $1.4B valuation) | 2026-05-05 | AI / Autonomous Software Development | Active | [^16][^17] |
+| Opal Security | Series B (led, $22M) | 2023-12-07 | Cybersecurity / Identity | Active | [^18] |
+| Opal Security | Series B Extension (co-led, $23M) | 2026-06-04 | Cybersecurity / Identity | Active | [^19][^20][^21] |
 
 *This table represents approximately 28 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
@@ -151,3 +153,11 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^16]: BusinessWire, "Blitzy Raises $200 Million at $1.4 Billion Valuation to Advance Autonomous Software Development for the Enterprise," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505342338/en/Blitzy-Raises-$200-Million-at-$1.4-Billion-Valuation-to-Advance-Autonomous-Software-Development-for-the-Enterprise
 
 [^17]: Crunchbase News, "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development," May 5, 2026, accessed May 2026. https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/
+
+[^18]: "Announcing our $22M Series B," Opal Security blog (Umaimah Khan), December 7, 2023. https://www.opal.dev/blog/series-b — Confirms Battery Ventures led $22M Series B with participation from existing investors Greylock and BoxGroup. Accessed June 2026.
+
+[^19]: "Opal Security Raises $23M and Expands Leadership Team to Unify Identity Governance Across Human, Non-Human, and Agentic AI," FinancialContent (Business Wire), June 4, 2026. https://www.financialcontent.com/article/bizwire-2026-6-4-opal-security-raises-23m-and-expands-leadership-team-to-unify-identity-governance-across-human-non-human-and-agentic-ai — Confirms $23M Series B Extension co-led by Greylock and Battery Ventures with participation from Cambium Capital. Accessed June 2026.
+
+[^20]: Pulse 2.0, "Opal Security Raises $23 Million And Expands Leadership Team," June 2026. https://pulse2.com/opal-security-raises-23-million-and-expands-leadership-team/ — Independent confirmation: "The funding round was led by Greylock and Battery Ventures, with participation from Cambium Capital." Accessed June 2026.
+
+[^21]: StartupRise, "Opal Security Raises $23M in New Funding Led by Greylock," June 5, 2026. https://startuprise.io/opal-security-raises-23m-in-new-funding-led-by-greylock/ — Third independent confirmation. Accessed June 2026.
