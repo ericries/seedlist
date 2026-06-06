@@ -27368,3 +27368,41 @@ queue:
   firm: Endra
   discovered_from: endra
   source: Co-Founder/CEO of Endra
+- name: Nicole Quinn
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Connect Ventures
+  discovered_from: sekai
+- name: Connect Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sekai
+- name: Lucky Zhang
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Sekai
+  discovered_from: sekai
+- name: 359 Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sekai
+- name: Parable VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sekai
+- name: MVP Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sekai

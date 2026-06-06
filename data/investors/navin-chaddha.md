@@ -3,9 +3,9 @@ check_size: $500K-$15M
 firm: mayfield-fund
 last_researched: 2026-03-20
 last_verified_investment:
-  company: AI Garage (Mayfield initiative)
-  date: 2024-09
-  round: Seed/Inception
+  company: "Sekai"
+  date: 2026-06-03
+  round: "Seed"
 location: Menlo Park, CA
 name: Navin Chaddha
 role: Managing Partner
@@ -110,8 +110,9 @@ Based on 28 verified investments below (18 IPOs and 10 acquisitions identified b
 | NeuBird | Seed | 2024 | AI/IT Operations | Active | [^4][^5] |
 | Docket | Seed | ~2024 | AI/Sales | Active | [^4] |
 | Balbix | Early | ~2017 | AI/Security | Active | [^4] |
+| Sekai | Seed (lead) | 2026 | AI/Consumer | Active | [^12] |
 
-*This table represents 28 of 60+ known investments. Investment years marked with ~ are approximate based on company founding dates or public reporting; exact investment dates were not independently verified for all entries.*
+*This table represents 29 of 60+ known investments. Investment years marked with ~ are approximate based on company founding dates or public reporting; exact investment dates were not independently verified for all entries.*
 
 ## In Their Own Words
 
@@ -148,3 +149,4 @@ No additional independently sourced founder testimonials found beyond Mayfield's
 [^9]: Crunchbase News, "Chaddha From Mayfield Fund On The Cognitive Economy," accessed March 2026. https://news.crunchbase.com/ai/navin-chaddha-mayfield-fund-cognitive-economy/
 [^10]: Signal by NFX, "Navin Chaddha's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/navin-chaddha
 [^11]: Mayfield, "How A Mid-Career Bet On Entrepreneurship Turned Into Industry Defining Success" (CloudGenix founder story), accessed March 2026. https://www.mayfield.com/founder-stories/how-a-mid-career-bet-on-entrepreneurship-turned-into-industry-defining-success/
+[^12]: GlobeNewswire, "Sekai Raises $26M in Seed and Series A as Users Create, Play, and Remix 15 Million Mini-Apps," June 3, 2026. https://www.globenewswire.com/news-release/2026/06/03/3306441/0/en/Sekai-Raises-26M-in-Seed-and-Series-A-as-Users-Create-Play-and-Remix-15-Million-Mini-Apps.html

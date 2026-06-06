@@ -108,7 +108,8 @@ pending_rounds:
   parsed_company: u003e
   parsed_amount: $500M
   parsed_round: Series F
-  status: pending
+  status: skipped
+  notes: malformed scraper entry (HTML entity) - axios newsletter URL not specific
 - title: Lugano’s GR3N closes €15.5 million Series B to build the world’s first microwave-assisted
     PET recycling plant in Spain
   url: https://www.eu-startups.com/2026/06/luganos-gr3n-closes-e15-5m-series-b-to-build-the-worlds-first-microwave-assisted-pet-recycling-plant-in-spain/
