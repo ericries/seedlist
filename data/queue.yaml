@@ -27300,3 +27300,71 @@ queue:
   added: '2026-03-17'
   discovered_from: immad-akhund
   source: $10M seed Oct 2025 AI; Immad Akhund participated
+- name: Hetz Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willow
+  source: Led Willow $7M seed (June 2026)
+- name: Guy Fighel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hetz Ventures
+  discovered_from: willow
+  source: Partner at Hetz Ventures, led Willow seed
+- name: Avishai Abrahami
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Wix
+  discovered_from: willow
+  source: Wix Co-Founder/CEO, angel in Willow seed
+- name: Nir Zohar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Wix
+  discovered_from: willow
+  source: Wix President, angel in Willow seed
+- name: Redstone
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inxm
+  source: Co-led INXM €5.7M pre-seed (2026-06-03)
+- name: Angel Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inxm
+  source: Participated in INXM pre-seed (2026-06-03)
+- name: Alex Oelling
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: INXM
+  discovered_from: inxm
+  source: Co-Founder/CEO of INXM, former CDO of Isar Aerospace and Volocopter
+- name: Norrsken VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: endra
+  source: Participated in Endra $50M Series A (2026-06-01)
+- name: Niklas Lindgren
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Endra
+  discovered_from: endra
+  source: Co-Founder/CEO of Endra

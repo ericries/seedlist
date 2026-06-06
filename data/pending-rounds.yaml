@@ -27,7 +27,8 @@ pending_rounds:
   parsed_company: Supabase
   parsed_amount: $500M
   parsed_round: Series F
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: Generalist raised $400M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -35,7 +36,8 @@ pending_rounds:
   parsed_company: Generalist
   parsed_amount: $400M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: Opal Security raised $23M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -43,7 +45,8 @@ pending_rounds:
   parsed_company: Opal Security
   parsed_amount: $23M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: Offroad AI raised $7M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -51,7 +54,8 @@ pending_rounds:
   parsed_company: Offroad AI
   parsed_amount: $7M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: Willow raised $7M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -59,7 +63,8 @@ pending_rounds:
   parsed_company: Willow
   parsed_amount: $7M
   parsed_round: Seed
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: FutureCorp Space Acquisition 1 raised $200M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -67,7 +72,8 @@ pending_rounds:
   parsed_company: FutureCorp Space Acquisition 1
   parsed_amount: $200M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: InterPrivate Investment Partners V raised $175M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -75,7 +81,8 @@ pending_rounds:
   parsed_company: InterPrivate Investment Partners V
   parsed_amount: $175M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Long Table Growth raised $150M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -83,7 +90,8 @@ pending_rounds:
   parsed_company: Long Table Growth
   parsed_amount: $150M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: u003eIt raised $837M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -91,7 +99,8 @@ pending_rounds:
   parsed_company: u003eIt
   parsed_amount: $837M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Lugano’s GR3N closes €15.5 million Series B to build the world’s first microwave-assisted
     PET recycling plant in Spain
   url: https://www.eu-startups.com/2026/06/luganos-gr3n-closes-e15-5m-series-b-to-build-the-worlds-first-microwave-assisted-pet-recycling-plant-in-spain/
@@ -100,7 +109,8 @@ pending_rounds:
   parsed_company: Lugano’s GR3N
   parsed_amount: null
   parsed_round: Series B
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: Volatus Aerospace Closes $34.5M Bought Deal Public Offering
   url: https://www.globenewswire.com/news-release/2026/06/05/3307375/0/en/Volatus-Aerospace-Closes-34-5M-Bought-Deal-Public-Offering.html
   source: globenewswire
@@ -118,7 +128,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Founded after personal loss, Joyvié Health raises €897k to rethink continence
     underwear
   url: https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/
@@ -148,7 +159,8 @@ pending_rounds:
   parsed_company: Paris-based Innovafeed
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: 'The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise
     Software, AI, And Space Tech'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/
@@ -157,7 +169,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: 'The AlleyWatch Startup Daily Funding Report: 6/5/2026'
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-5-2026/
   source: alleywatch
@@ -165,7 +178,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: NewLimit raised $435M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -485,7 +499,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
     As Exit Market Reopened
   url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
@@ -494,7 +509,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: UK’s Oxford Quantum Circuits raises €301 million Series C to scale Quantum-AI
     data-centre platform
   url: https://www.eu-startups.com/2026/06/uks-oxford-quantum-circuits-raises-e301-million-series-c-to-scale-quantum-ai-data-centre-platform/
@@ -545,7 +561,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Why your funding announcement is not the PR win you think it is – and why
     speaking at events is
   url: https://www.eu-startups.com/2026/06/why-your-funding-announcement-is-not-the-pr-win-you-think-it-is-and-why-speaking-at-events-is/
@@ -573,7 +590,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: London’s DEScycle secures over €10 million in grant funding to scale critical
     metals recovery platform
   url: https://www.eu-startups.com/2026/06/londons-descycle-secures-over-e10-million-in-grant-funding-to-scale-critical-metals-recovery-platform/
@@ -606,7 +624,8 @@ pending_rounds:
   parsed_company: Board, the new game startup from Mirror founder Brynn Putnam,
   parsed_amount: $20M
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: already in skip list / profile exists
 - title: Meta tests ‘Series’ for episodic Reels on Instagram and Facebook
   url: https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/
   source: techcrunch
@@ -614,7 +633,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: ZeroDrift raises $10M to protect AI models from themselves
   url: https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/
   source: techcrunch
@@ -639,7 +659,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Barcelona’s Zazume raises €2.5 million to scale its AI-powered rental management
     platform
   url: https://www.eu-startups.com/2026/06/barcelonas-zazume-raises-e2-5-million-to-scale-its-ai-powered-rental-management-platform/
@@ -681,7 +702,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: aggregator/weekly digest - rounds covered or unrelated
 - title: Unastella, a South Korean rocket startup that launched from home, raises
     $24M
   url: https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/

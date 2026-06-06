@@ -273,8 +273,9 @@ The following table includes a16z investments verified through the firm's own po
 | Arc QSR | Seed (led, $10.8M) | 2026-05-26 | AI / Robotics | Private [^57] |
 | OpenRouter | Series B (participant, $113M at $1.3B val; CapitalG led) | 2026-05-26 | AI / LLM Infrastructure | Private [^57] |
 | Town | Series A (led, $55M; co-led with Forerunner) | 2026-06-03 | Consumer AI / Personal Assistant | Private [^58] |
+| Endra | Series A (led, $50M) | 2026-06-01 | AI / Construction Tech / MEP Engineering | Private [^59] |
 
-*Note: This table includes 75 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 76 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -448,3 +449,5 @@ The following table includes a16z investments verified through the firm's own po
 [^57]: Axios Pro Rata, "May 26, 2026 venture deals: Arc raises $10.8M seed led by a16z; OpenRouter raises $113M at $1.3B valuation led by CapitalG with a16z and Menlo Ventures follow-on," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Andreessen Horowitz led Arc QSR's $10.8M seed on May 26, 2026 and participated as follow-on investor in OpenRouter's $113M Series B on the same date (CapitalG led; Menlo Ventures also participated).
 
 [^58]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026. Accessed June 2026. https://a16z.com/announcement/investing-in-town/ — Primary source: a16z led Town's $55M Series A on June 3, 2026, co-led with Forerunner Ventures, with First Round Capital, Alt Capital, and Conviction also participating. Cross-referenced with GlobeNewswire/Yahoo Finance, "Town Raises $55M Series A From a16z and Forerunner," June 3, 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html and Fortune, "Andreessen Horowitz and Forerunner are betting $55 million on Town's deeply personal AI assistants," June 3, 2026. https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/
+
+[^59]: Andreessen Horowitz, "Investing in Endra," June 1, 2026. Accessed June 2026. https://a16z.com/announcement/investing-in-endra/ — Primary source: a16z led Stockholm-based Endra's $50M Series A on June 1, 2026, with Notion Capital and Norrsken VC also participating, bringing total raised to $75M. Endra is an AI platform that automates the design work of mechanical, electrical, and plumbing (MEP) consultants. Cross-referenced with FinSMEs, "Endra Raises $50M in Series A Funding," June 2026. https://www.finsmes.com/2026/06/endra-raises-50m-in-series-a-funding.html and Notion Capital, "Congratulations to Endra on their $50m Series A led by A16Z," June 2026. https://www.notioncapital.com/resources/congratulations-endra-50m-series-a-led-by-a16z
