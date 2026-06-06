@@ -94,12 +94,12 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | InfluxData | Series A | 2013 | Enterprise/Data | Active | [^7] |
 | BigPanda | Series A | 2014 | Enterprise/IT Ops | Active | [^7] |
 | Aurascape | Seed (led, $12.8M) | 2024-08-06 | AI/Security | Active | [^7][^15][^16] |
-| Gruve | Seed | 2024 | AI/Infrastructure | Active | [^7] |
-| NeuBird | Series D | 2025 | AI/Enterprise | Active | [^4] |
+| Gruve | Series A (led, $20M) | 2025-04-30 | AI/Infrastructure | Active | [^7][^21] |
+| NeuBird | $19.3M round | 2026-04-08 | AI/Enterprise | Active | [^4][^22] |
 | Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
 | Scrunch AI | Seed (led, $4M) | 2025-03-04 | AI/GEO/Marketing | Acquired by Sitecore (~$225M, 2026-06-03) | [^17][^18][^19][^20] |
-| Inception Labs | Seed | 2024 | AI/Models | Active | [^7] |
-| ProRata.ai | Seed | 2024 | AI/Media | Active | [^7] |
+| Inception Labs | Seed ($50M, Menlo-led) | 2025-11-06 | AI/Models | Active | [^7][^23] |
+| ProRata.ai | Seed (led, $25M) | 2024-08-06 | AI/Media | Active | [^7][^24] |
 | DuploCloud | Seed | 2021 | AI/DevOps | Active | [^7] |
 | MindsDB | Seed | 2020 | AI/Data | Active | [^7] |
 | Auradine | Seed | 2022 | Infrastructure/Blockchain | Active | [^7] |
@@ -160,3 +160,11 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^19]: PR Newswire, "Scrunch AI Raises $15 Million Series A to Rebuild the Internet for AI Consumption," July 22, 2025. Accessed June 2026. https://www.prnewswire.com/news-releases/scrunch-ai-raises-15-million-series-a-to-rebuild-the-internet-for-ai-consumption-302510915.html — $15M Series A led by Decibel with Mayfield and Homebrew participating; Scrunch headquartered in Salt Lake City; CEO Chris Andrew.
 
 [^20]: PR Newswire / Sitecore, "Sitecore Acquires Scrunch to Help Brands Influence Discovery and Buying Decisions in the AI-Search Era," June 3, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/sitecore-acquires-scrunch-to-help-brands-influence-discovery-and-buying-decisions-in-the-ai-search-era-302790214.html — Sitecore announced acquisition of Scrunch on June 3, 2026; Bloomberg reported $225M price (Adweek confirms ~$225M, https://www.adweek.com/media/sitecore-snaps-up-geo-startup-scrunch-for-225m/, Scrunch had raised $26M total).
+
+[^21]: Gruve.ai newsroom, "Gruve.AI Secures $37.5M to Deliver Outcome-Based AI for Enterprise Services at Scale," April 30, 2025. Accessed June 2026. https://gruve.ai/news/gruve-ai-secures-37-5m-to-deliver-outcome-based-ai-for-enterprise-services-at-scale/ — Gruve announced a $20M Series A led by Mayfield with Cisco Investments participating on April 30, 2025, bringing total funding to $37.5M (including a previously unannounced $17.5M seed). TechCrunch corroborates (https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/).
+
+[^22]: TechNode Global, "Temasek's Xora Innovation leads NeuBird AI's $19.3M funding," April 8, 2026. Accessed June 2026. https://technode.global/2026/04/08/temaseks-xora-innovation-leads-neubird-ais-19-3m-funding/ — NeuBird announced $19.3M oversubscribed round on April 8, 2026, led by Xora Innovation with Mayfield, StepStone Group, Prosperity7 Ventures, and M12 participating. Round type not formally specified by company.
+
+[^23]: TechCrunch, "Inception raises $50 million to build diffusion models for code and text," November 6, 2025. Accessed June 2026. https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/ — Inception Labs announced a $50M seed round led by Menlo Ventures on November 6, 2025, with Mayfield participating alongside Innovation Endeavors, M12, NVentures, Snowflake Ventures, Databricks Investment, and angels Andrew Ng and Andrej Karpathy.
+
+[^24]: Axios, "Exclusive: AI startup raises $25M, inks deals with major media companies," August 6, 2024. Accessed June 2026. https://www.axios.com/2024/08/06/news-outlets-ink-deals-with-new-ai-startup-prorataai — ProRata.ai announced $25M raise on August 6, 2024, led by Mayfield. Mayfield's own blog (https://www.mayfield.com/genai-momentum-continues-with-pro-rata-ai/) classifies the round as seed; some press refer to it as Series A. Other participants: Revolution Ventures, Prime Movers Lab, Idealab Studio.

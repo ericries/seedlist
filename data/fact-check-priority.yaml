@@ -156,12 +156,14 @@ priority:
   status: resolved
 - slug: collaborative-fund
   type: firm
-  reason: "co-led Fuse Energy Series B Extension €25M (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Fuse Energy Series B Extension €25M ($30M, 2026-06-04, co-led with 20VC; Balderton + Lowercarbon participated) added to portfolio with 3 primary citations (EU-Startups, BeBeez, Mercom Capital Group); also resolved vague dates on Phaidra (2025-10-01, $50M+ Series B led), Acceleron Fusion (2024-12-03, $24M Series A co-led with Lowercarbon), MoldCo (corrected Early→Seed, 2025-09-18, $8M co-led with Cantos)"
   added: 2026-06-04
+  status: resolved
 - slug: mayfield-fund
   type: firm
-  reason: "led Scrunch seed (2025-03), acquired by Sitecore $225M (2026-06-03)"
+  reason: "RESOLVED 2026-06-03 — Scrunch AI seed (2025-03-04, led $4M, acquired by Sitecore ~$225M 2026-06-03) added with 4 primary citations (TechCrunch, Scrunch blog, PRNewswire Series A, Sitecore/PRNewswire + Adweek confirmation); also resolved vague dates on Gruve (Series A 2025-04-30, led $20M), NeuBird (2026-04-08, $19.3M Xora-led), Inception Labs (2025-11-06, $50M Menlo-led seed), ProRata.ai (2024-08-06, led $25M seed)"
   added: 2026-06-04
+  status: resolved
 - slug: homebrew
   type: firm
   reason: "joined Scrunch Series A (2025-07-22)"
