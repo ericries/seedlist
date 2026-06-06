@@ -7799,7 +7799,7 @@
       "name": "The OGs",
       "tagline": "Investing since before the dot-com bubble burst. They've seen every cycle and are still writing checks.",
       "type": "curated",
-      "size": 22,
+      "size": 24,
       "members": [
         {
           "slug": "andy-rachleff",
@@ -7910,6 +7910,14 @@
           "slug": "tom-dyal",
           "name": "Tom Dyal",
           "firm": "redpoint-ventures"
+        },
+        {
+          "slug": "naval-ravikant",
+          "name": "Naval Ravikant"
+        },
+        {
+          "slug": "navin-chaddha",
+          "name": "Navin Chaddha"
         }
       ]
     },
@@ -7918,7 +7926,7 @@
       "name": "The Original Super Angels",
       "tagline": "The 2005-2012 wave that proved individual investors could compete with big firms. They invented the angel-at-scale model.",
       "type": "curated",
-      "size": 18,
+      "size": 19,
       "members": [
         {
           "slug": "bill-trenchard",
@@ -8009,6 +8017,10 @@
           "slug": "steve-anderson",
           "name": "Steve Anderson",
           "firm": "baseline-ventures"
+        },
+        {
+          "slug": "naval-ravikant",
+          "name": "Naval Ravikant"
         }
       ]
     },
@@ -8221,7 +8233,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 22,
+      "size": 23,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8330,6 +8342,10 @@
         {
           "slug": "thomas-dohmke",
           "name": "Thomas Dohmke"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
         }
       ]
     },
@@ -8407,7 +8423,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 18,
+      "size": 19,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8496,6 +8512,10 @@
         {
           "slug": "taavet-hinrikus",
           "name": "Taavet Hinrikus"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
         }
       ]
     },
@@ -8618,7 +8638,7 @@
       "name": "The Solo GPs",
       "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
       "type": "curated",
-      "size": 13,
+      "size": 15,
       "members": [
         {
           "slug": "dan-scheinman",
@@ -8684,6 +8704,14 @@
           "slug": "sam-shank",
           "name": "Sam Shank",
           "firm": "independent"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
+        },
+        {
+          "slug": "bryce-roberts",
+          "name": "Bryce Roberts"
         }
       ]
     },
@@ -8692,7 +8720,7 @@
       "name": "The Unicorn Collectors",
       "tagline": "Five or more unicorns in a single portfolio. These investors have an uncanny ability to pick winners \u2014 or the dealflow to never miss.",
       "type": "curated",
-      "size": 17,
+      "size": 19,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8777,6 +8805,14 @@
         {
           "slug": "alexis-ohanian",
           "name": "Alexis Ohanian"
+        },
+        {
+          "slug": "navin-chaddha",
+          "name": "Navin Chaddha"
+        },
+        {
+          "slug": "scott-stanford",
+          "name": "Scott Stanford"
         }
       ]
     },
@@ -8785,7 +8821,7 @@
       "name": "The First Check Club",
       "tagline": "They wrote the seed check that started a unicorn \u2014 and did it more than once. The rarest skill in venture: picking winners before anyone else sees them.",
       "type": "curated",
-      "size": 15,
+      "size": 18,
       "members": [
         {
           "slug": "bill-trenchard",
@@ -8860,6 +8896,18 @@
         {
           "slug": "bryce-roberts",
           "name": "Bryce Roberts"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
+        },
+        {
+          "slug": "naval-ravikant",
+          "name": "Naval Ravikant"
+        },
+        {
+          "slug": "zach-weinberg",
+          "name": "Zach Weinberg"
         }
       ]
     },
@@ -9323,7 +9371,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 73,
+      "size": 79,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9659,6 +9707,30 @@
         {
           "slug": "bryce-roberts",
           "name": "Bryce Roberts"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
+        },
+        {
+          "slug": "nikhil-kamath",
+          "name": "Nikhil Kamath"
+        },
+        {
+          "slug": "naval-ravikant",
+          "name": "Naval Ravikant"
+        },
+        {
+          "slug": "navin-chaddha",
+          "name": "Navin Chaddha"
+        },
+        {
+          "slug": "scott-stanford",
+          "name": "Scott Stanford"
+        },
+        {
+          "slug": "vijay-pande",
+          "name": "Vijay Pande"
         }
       ]
     },
@@ -9761,7 +9833,7 @@
       "name": "The YC Network",
       "tagline": "Y Combinator partners and the investors who consistently back YC's best. When a YC company raises, these names are on the cap table.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9811,6 +9883,10 @@
         {
           "slug": "alexis-ohanian",
           "name": "Alexis Ohanian"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
         }
       ]
     },
@@ -9912,7 +9988,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 28,
+      "size": 31,
       "members": [
         {
           "slug": "boris-wertz",
@@ -10047,6 +10123,18 @@
         {
           "slug": "alexis-ohanian",
           "name": "Alexis Ohanian"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
+        },
+        {
+          "slug": "naval-ravikant",
+          "name": "Naval Ravikant"
+        },
+        {
+          "slug": "lee-linden",
+          "name": "Lee Linden"
         }
       ]
     },
@@ -10482,7 +10570,7 @@
       "name": "The IPO Whisperers",
       "tagline": "Three or more portfolio companies that went public. These investors don't just pick winners \u2014 they pick companies that reach the finish line.",
       "type": "curated",
-      "size": 17,
+      "size": 18,
       "members": [
         {
           "slug": "alfred-lin",
@@ -10568,6 +10656,10 @@
           "slug": "yuri-milner",
           "name": "Yuri Milner",
           "firm": "dst-global"
+        },
+        {
+          "slug": "navin-chaddha",
+          "name": "Navin Chaddha"
         }
       ]
     },
@@ -10833,7 +10925,7 @@
       "name": "The YC Alumni Network",
       "tagline": "They built companies through Y Combinator, then crossed to the investor side. The YC network is the most powerful alumni network in startups \u2014 and they're proof.",
       "type": "curated",
-      "size": 31,
+      "size": 32,
       "members": [
         {
           "slug": "alexis-ohanian",
@@ -10989,6 +11081,10 @@
           "slug": "steve-huffman",
           "name": "Steve Huffman",
           "firm": "reddit"
+        },
+        {
+          "slug": "immad-akhund",
+          "name": "Immad Akhund"
         }
       ]
     },
@@ -11172,7 +11268,7 @@
       "name": "Authors Who Invest",
       "tagline": "They wrote the books founders actually read \u2014 then started writing checks. Venture capitalists who shaped startup thinking through bestsellers.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "ben-horowitz",
@@ -11223,6 +11319,10 @@
           "slug": "tim-draper",
           "name": "Tim Draper",
           "firm": "draper-associates"
+        },
+        {
+          "slug": "alexis-ohanian",
+          "name": "Alexis Ohanian"
         }
       ]
     },
@@ -12039,7 +12139,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves \u2014 but founders read their writing before pitching.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "paul-graham",
@@ -12113,6 +12213,10 @@
         {
           "slug": "brian-balfour",
           "name": "Brian Balfour"
+        },
+        {
+          "slug": "naval-ravikant",
+          "name": "Naval Ravikant"
         }
       ]
     },
@@ -12192,7 +12296,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 14,
+      "size": 15,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -12261,6 +12365,10 @@
         },
         {
           "slug": "zishaan-hayath"
+        },
+        {
+          "slug": "nikhil-kamath",
+          "name": "Nikhil Kamath"
         }
       ],
       "id": "curated-49"
