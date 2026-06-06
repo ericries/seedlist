@@ -94,6 +94,9 @@ investors:
 - round: '2025'
   slug: arjun-sethi
   year: 2025
+- round: ~2017 (founding year)
+  slug: immad-akhund
+  year: 2017
 last_researched: 2026-03-17
 location: Mountain View, CA
 name: Applied Intuition

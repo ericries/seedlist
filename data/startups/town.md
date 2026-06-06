@@ -37,6 +37,9 @@ investors:
 - round: Seed (First Round led)
   slug: william-hockey
   year: 2025
+- round: 2025-03
+  slug: immad-akhund
+  year: 2025
 last_researched: 2026-06-03
 location: San Francisco, CA
 name: Town

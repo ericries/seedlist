@@ -1,37 +1,63 @@
 ---
-name: "Mach Industries"
-slug: mach-industries
-type: startup
-website: "https://machindustries.com"
-location: "Huntington Beach, California"
-founded: 2023
-status_company: active
-sector: [defense, defense-tech, manufacturing, robotics, autonomous-systems]
-stage_latest: "Series C"
-total_raised: "$400M+"
-investors: []
 firms:
-  - slug: ribbit-capital
-    round: series-c
-    year: 2026
-    date: 2026-06-02
-  - slug: bedrock-capital
-    round: series-c
-    year: 2026
-    date: 2026-06-02
-  - slug: sequoia-capital
-    round: series-c
-    year: 2026
-    date: 2026-06-02
-  - slug: khosla-ventures
-    round: series-c
-    year: 2026
-    date: 2026-06-02
+- date: 2026-06-02
+  round: series-c
+  slug: ribbit-capital
+  year: 2026
+- date: 2026-06-02
+  round: series-c
+  slug: bedrock-capital
+  year: 2026
+- date: 2026-06-02
+  round: series-c
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-06-02
+  round: series-c
+  slug: khosla-ventures
+  year: 2026
+- round: Seed
+  slug: 1517-fund
+  year: 2020
+founded: 2023
 founders:
-  - name: "Ethan Thornton"
-    role: "Founder & CEO"
-status: published
+- name: Ethan Thornton
+  role: Founder & CEO
+investors:
+- round: ~2023
+  slug: geoff-lewis
+  year: 2023
+- round: Early
+  slug: vinod-khosla
+  year: 2021
+- round: Early
+  slug: shaun-maguire
+  year: 2024
+- round: Seed
+  slug: stephanie-zhan
+  year: 2023
+- round: Seed
+  slug: danielle-strachman
+  year: 2020
+- round: Seed
+  slug: michael-gibson
+  year: 2022
 last_researched: 2026-06-03
+location: Huntington Beach, California
+name: Mach Industries
+sector:
+- defense
+- defense-tech
+- manufacturing
+- robotics
+- autonomous-systems
+slug: mach-industries
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $400M+
+type: startup
+website: https://machindustries.com
 ---
 
 ## About

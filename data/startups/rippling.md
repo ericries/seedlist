@@ -110,6 +110,9 @@ investors:
 - round: '2022'
   slug: geoff-lewis
   year: 2022
+- round: ~2017 (founding year)
+  slug: immad-akhund
+  year: 2017
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

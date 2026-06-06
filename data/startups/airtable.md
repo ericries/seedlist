@@ -102,6 +102,9 @@ investors:
 - round: Seed
   slug: adam-rothenberg
   year: 2013
+- round: ~2013 (founding year)
+  slug: immad-akhund
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

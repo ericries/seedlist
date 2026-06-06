@@ -21955,7 +21955,7 @@ queue:
 - name: Nikhil Kamath
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gruhas
   discovered_from: aman-gupta
@@ -26895,7 +26895,7 @@ queue:
 - name: Immad Akhund
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mercury
   discovered_from: alex-rampell
@@ -27076,3 +27076,227 @@ queue:
   added: '2026-03-17'
   discovered_from: sensie
   source: co-investor in Sensie pre-seed (2026-06-05)
+- name: Gruhas
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: co-founded by Nikhil Kamath and Abhijeet Pai; SEBI Category II AIF; ~50+
+    portfolio companies in PropTech/climate/AI/consumer
+- name: WTFund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: non-equity grant fund for under-25 founders, founded by Nikhil Kamath April
+    2024; 2 cohorts (24 startups) to date
+- name: Abhijeet Pai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gruhas
+  discovered_from: nikhil-kamath
+  source: co-founder of Gruhas alongside Nikhil Kamath
+- name: Rainmatter Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Zerodha-affiliated fund mentioned in Nikhil Kamath's Giving Pledge letter
+- name: Brigade Enterprises (Earth Fund)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: partner with Gruhas on the ₹300 Cr Earth Fund for PropTech and sustainability
+- name: Nirupa Shankar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Brigade Enterprises
+  discovered_from: nikhil-kamath
+  source: Joint MD Brigade Enterprises, leads Earth Fund with Gruhas
+- name: True Beacon
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: AIF for UHNW investors co-founded by Nikhil Kamath in 2020
+- name: Subko Coffee Roasters
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: $10M round led by Nikhil Kamath, March 2024; specialty coffee/cacao
+- name: Rare Rabbit
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: ₹500 Cr round with Nikhil Kamath + Modi family office + A91 Partners
+- name: SolarSquare
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Series B with Zerodha, Gruhas, Lowercarbon Capital, Good Capital
+- name: Strata
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Gruhas portfolio (PropTech)
+- name: Ossus Biorenewables
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Gruhas portfolio (climate/biorenewables)
+- name: Basic Home Loans
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Gruhas portfolio (PropTech/fintech)
+- name: One Percent Club
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Gruhas portfolio (consumer fintech/education)
+- name: InCred Holdings
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: ₹250 Cr minority investment from Nikhil Kamath (fintech)
+- name: Third Wave Coffee
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: Nikhil Kamath angel investment (specialty coffee)
+- name: Good Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: co-investor with Gruhas in SolarSquare Series B
+- name: Blume Founders Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: co-investor with Nikhil Kamath in Subko $10M round
+- name: Ananth Narayanan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mensa Brands
+  discovered_from: nikhil-kamath
+  source: WTFund mentor; founder of Mensa Brands; appeared on WTF podcast
+- name: Mensa Brands
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nikhil-kamath
+  source: founded by Ananth Narayanan (WTFund mentor)
+- name: Aprameya Radhakrishna
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Good Capital (operating partner) / Koo founder
+  discovered_from: nikhil-kamath
+  source: WTF podcast guest; co-founder of TaxiForSure and Koo
+- name: Yash Doshi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Immad Akhund Fund
+  discovered_from: immad-akhund
+  source: partner at Immad Akhund's $26M fund; early Mercury investor
+- name: Axiom Trust
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: $15M seed March 2026; Immad Akhund participated
+- name: Gecko Robotics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: industrial robotics; Immad Akhund named portfolio
+- name: AtoB
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: fintech mobility SF; Immad Akhund angel
+- name: Vitable Health
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: healthcare Philadelphia; Immad Akhund angel
+- name: Pair Team
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: healthcare SF; Immad Akhund angel
+- name: Thirty Madison
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: healthcare NYC; Immad Akhund angel
+- name: Eloquent AI
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: $8M seed Sept 2025 AI; Immad Akhund participated
+- name: ego AI
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: $7M seed Oct 2025 AI; Immad Akhund participated
+- name: Natural
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immad-akhund
+  source: $10M seed Oct 2025 AI; Immad Akhund participated
