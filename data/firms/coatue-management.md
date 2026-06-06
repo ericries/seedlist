@@ -188,6 +188,7 @@ The following table includes Coatue investments verified through the firm's port
 | Silverflow | Series B (participated) | 2026-03-05 | Fintech / Payments | Private [^40][^54] |
 | Mercury | Series D (participated, $200M at $5.2B val; TCV led) | 2026-05-20 | Fintech / Digital Banking | Private [^55] |
 | Cyera | Growth (participated, $300M at $12B val; Evolution Equity led) | 2026-06-02 | Cybersecurity / Data Security | Private [^56][^57] |
+| Supabase | Series F (participated, $500M at $10.5B val; GIC led) | 2026-06-04 | AI Infrastructure / Database | Private [^58][^59][^60] |
 
 *Note: This table includes 36 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
 
@@ -342,3 +343,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^56]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Evolution Equity Partners led the $300M round at $12B post-money valuation; named participating investors include Georgian, Greenoaks, Lightspeed Venture Partners, Sequoia Capital, Sapphire Ventures, Redpoint Ventures, Cyberstarts, Coatue, Accel, and Spark Capital.
 
 [^57]: Calcalist, "Cyera raises $300 million at $12 billion valuation, extending its rapid ascent," June 2, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/w1j2xejw4 — Independent confirmation of Evolution Equity Partners-led $300M round at $12B valuation with Coatue as a participating existing investor. Cross-referenced with TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
+
+[^58]: PR Newswire, "Supabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html — GIC led the $500M Series F at $10.5B post-money valuation; existing investors Accel, Y Combinator, Craft, Felicis, Peak XV, and Coatue all participated; Stripe doubled down with a second investment; Salesforce Ventures joined as a new investor.
+
+[^59]: Supabase blog, "Supabase Series F," June 4, 2026. Accessed June 2026. https://supabase.com/blog/supabase-series-f — Official Supabase announcement of the $500M Series F led by GIC at $10.5B post-money valuation; total capital raised over $1 billion; round comes seven months after Series E.
+
+[^60]: The SaaS News, "Supabase Raises $500M Series F," June 4, 2026. Accessed June 2026. https://www.thesaasnews.com/news/supabase-raises-500m-series-f/ — Independent confirmation of GIC-led $500M Series F at $10.5B valuation with Coatue named among existing-backer participants alongside Accel, Y Combinator, Craft, Felicis, and Peak XV; Stripe and Salesforce Ventures named as new investors.

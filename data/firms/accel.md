@@ -229,6 +229,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Perceptic | Seed (led, $12M) | 2026-05-26 | AI / Robotics | [^79] |
 | Cyera | Series G ($300M, participated; Evolution Equity Partners led at $12B post-money) | 2026-06-02 | Cybersecurity / Data Security | [^85][^86][^87] |
 | FirstClub | Series B ($55M, participated; Peak XV and Sofina co-led at $255M val) | 2026-06-03 | E-commerce / Quick Commerce / India | [^88][^89][^90] |
+| Supabase | Series F ($500M, participated; GIC led at $10.5B post-money) | 2026-06-04 | Developer Tools / Postgres / Agentic Infrastructure | [^93][^94][^95] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -399,3 +400,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^91]: Dash0 blog, "Dash0 announces $9.5M seed financing, led by Accel," November 4, 2024. Accessed June 2026. https://www.dash0.com/blog/dash0-seed-financing — Confirms Accel led the $9.5M seed; participants Dig Ventures plus angels Guy Podjarny and Guillermo Rauch.
 
 [^92]: Dash0 blog, "Dash0 Raises $35 Million Series A to Build the First AI-Native Observability Platform," October 2, 2025. Accessed June 2026. https://www.dash0.com/blog/dash0-raises-usd35-million-series-a — Confirms Series A co-led by Accel and Cherry Ventures with DIG Ventures participating.
+
+[^93]: Supabase blog, "Supabase Series F," June 4, 2026. Accessed June 2026. https://supabase.com/blog/supabase-series-f — Company's official Series F announcement: $500M led by GIC at $10B pre-money / $10.5B post-money; all existing investors participated alongside new investors Stripe (second investment), Georgian, and Salesforce Ventures.
+
+[^94]: PR Newswire, "Supabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html — Independent wire confirmation explicitly listing Accel, Y Combinator, Craft, Felicis, Peak XV, Coatue, Stripe, and Salesforce Ventures as participants in the GIC-led Series F.
+
+[^95]: TechCrunch, "Supabase doubles valuation to $10B in 8 months," June 5, 2026. Accessed June 2026. https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/ — Contemporaneous press confirmation of the $500M Series F at $10.5B post-money led by GIC.

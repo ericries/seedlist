@@ -4,6 +4,10 @@ fund_size: ~$12B AUM across 10+ funds
 last_researched: 2026-03-20
 location: Palo Alto, CA
 name: Ribbit Capital
+last_verified_investment:
+  date: 2026-06-02
+  company: Mach Industries
+  round: Series C
 sector_focus:
 - fintech
 - insurtech
@@ -11,6 +15,7 @@ sector_focus:
 - payments
 - lending
 - banking
+- defense-tech
 slug: ribbit-capital
 stage_focus:
 - seed
@@ -117,8 +122,11 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 | Kavak | Series D | 2021 | Auto Marketplace | Active | [^18] |
 | One (Walmart) | Growth | 2021 | Digital Banking | Active | [^2] |
 | Slash | Series C | 2026 | Fintech / Banking | Active | [^19] |
+| Mach Industries | Series C (co-led, $300M) | 2026-06-02 | Defense-tech / Manufacturing | Active | [^20][^21][^22] |
 
-*This table represents approximately 7% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
+*This table represents approximately 8% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
+
+*Note: Mach Industries (June 2026) marks Ribbit's first publicly verified defense-tech investment — a departure from its decade-long exclusive fintech focus. Malka described the rationale as Ribbit's standard pattern of backing teams "disrupting the status quo," extended to a new sector [^20].*
 
 ## In Their Own Words
 
@@ -137,6 +145,8 @@ Malka on culture: "Our culture has been to bring in amazing people, no assholes,
 Malka on restraint: "Restrainment is an important component of success. Infinite of anything is not good" and "Fewer decisions is best" [^9].
 
 Ribbit's mantra: "The future belongs to the rebels" [^8].
+
+Malka on Ribbit's investment in defense-tech (Mach Industries, June 2026): "At Ribbit, we partner with teams disrupting the status quo, who see the cracks before anyone else and have the conviction to build something better" [^20]. He added: "We're proud to co-lead this Series C as they build a defining company" [^21].
 
 ## What Founders Say
 
@@ -163,3 +173,6 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^17]: TechCrunch, "African fintech startup Chipper Cash raises $30M backed by Jeff Bezos," November 18, 2020. https://techcrunch.com/2020/11/18/african-fintech-startup-chipper-cash-raises-30m-backed-by-jeff-bezos/
 [^18]: TechCrunch, "Mexican unicorn Kavak raises a $485M Series D at a $4B valuation," April 7, 2021. https://techcrunch.com/2021/04/07/mexican-unicorn-kavak-raises-a-485m-series-d-at-a-4b-valuation/
 [^19]: SiliconANGLE, "Slash raises $100M at a $1.4B valuation to expand AI-powered banking platform for online businesses," April 16, 2026. https://siliconangle.com/2026/04/16/slash-raises-100m-1-4b-valuation-expand-ai-powered-banking-platform-online-businesses/
+[^20]: "Mach Industries Raises $300 Million in Series C Funding," PR Newswire press release, June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html
+[^21]: Brianna Wessling, "Autonomous defense manufacturer Mach Industries raises $300M," The Robot Report, June 2026. Accessed June 2026. https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/
+[^22]: "MIT dropout's Mach Industries bags $300M at $1.8B valuation as defence manufacturing enters a new era," Tech Funding News, June 2026. Accessed June 2026. https://techfundingnews.com/mit-dropouts-mach-industries-bags-300m-at-1-8b-valuation-as-defence-manufacturing-enters-a-new-era/

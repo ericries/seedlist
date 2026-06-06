@@ -3,9 +3,9 @@ check_size: $50K-$5M
 firm: angellist
 last_researched: 2026-03-23
 last_verified_investment:
-  company: Quill
-  date: 2026-02-25
-  round: Seed
+  company: Generalist AI
+  date: 2026-06-04
+  round: Growth
 location: San Francisco, CA
 name: Naval Ravikant
 role: Co-Founder & Chairman
@@ -119,6 +119,7 @@ The table below represents approximately 15% of Ravikant's 200+ reported investm
 | Tako | 2024 | Seed | [^13] |
 | Tera AI | 2025 | Seed | [^13] |
 | Quill | 2026 | Seed | [^4] |
+| Generalist AI | 2026 | Growth (Angel) | [^20][^21][^22] |
 | Opendoor | ~2014 | Angel | [^8] |
 | Primer | ~2020 | Angel | [^15] |
 | Alchemy | ~2021 | Angel | [^15] |
@@ -208,3 +209,6 @@ Tim Ferriss, while not a portfolio founder, has publicly called Ravikant "the pe
 [^17]: NexHealth, "NexHealth Raises $15 Million in Series A Funding," accessed March 2026. https://www.nexhealth.com/resources/nexhealth-raises-15-million-in-series-a-funding
 [^18]: Elad Gil, "An interview with Naval Ravikant — High Growth Handbook," accessed March 2026. https://growth.eladgil.com/book/chapter-8-financing-and-valuation/hacking-late-stage-funding-an-interview-with-naval-ravikant-part-2/
 [^19]: Naval Ravikant, "How to Get Rich," nav.al, accessed March 2026. https://nav.al/rich
+[^20]: Brianna Wessling, "Generalist raises $400M to scale its general-purpose AI models," The Robot Report, June 4, 2026. Accessed June 2026. https://www.therobotreport.com/generalist-raises-400m-to-scale-its-general-purpose-ai-models/
+[^21]: "Generalist AI Raises $400M in New Funding to Develop Physical AGI," The AI Insider, June 4, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/04/generalist-ai-raises-400m-in-new-funding-to-develop-physical-agi/
+[^22]: "Generalist AI raises $400M at $2B valuation, backed by Nvidia," Yahoo Finance (citing Bloomberg), June 4, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/generalist-ai-raises-400m-2b-141522962.html

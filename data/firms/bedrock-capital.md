@@ -8,6 +8,10 @@ founded: 2017
 fund_size: "$2B+ AUM across four funds (Fund I: $125M, Fund II: $350M, Fund III: $350M, Fund IV: $400M)"
 stage_focus: [seed, series-a, series-b, series-c]
 sector_focus: [ai, defense, infrastructure, fintech, digital-assets, public-safety, developer-tools]
+last_verified_investment:
+  date: 2026-06-02
+  company: Mach Industries
+  round: Series C
 team:
   - slug: geoff-lewis
     role: "Founder & Managing Partner"
@@ -68,7 +72,7 @@ Based on 28 unique verified portfolio companies. Bedrock has approximately 75 to
 | Rippling | Series B, C, D | 2020-2022 | HR/IT Software | Active [^17][^11] |
 | Flock Safety | Series A-1, C, D, F | 2018-2025 | Public Safety | Active [^10][^18] |
 | Vercel | Series B, C, D, E | 2020-2024 | Developer Tools | Active [^12][^13][^12][^12] |
-| Mach Industries | Series A, B | 2023-2025 | Defense Tech | Active [^14][^19] |
+| Mach Industries | Series A, B, C | 2023-2026-06-02 | Defense Tech | Active [^14][^19][^29] |
 | Epirus | Series B, C | 2020-2022 | Defense Tech | Active [^20][^12] |
 | Workrise (fka RigUp) | Seed through Series E | 2019-2021 | Labor Marketplace | Active [^21][^22] |
 | The Athletic | Series D | 2018-2020 | Sports Media | Acquired (NYT) [^12] |
@@ -139,3 +143,4 @@ No other independently sourced founder testimonials found. The Bedrock website r
 [^26]: GlobeNewswire, "SoleSavy Announces $12.5M in Series A Funding," June 21, 2021. https://www.globenewswire.com/news-release/2021/06/21/2250237/0/en/SoleSavy-Announces-12-5M-in-Series-A-Funding.html
 [^27]: TechCrunch, "Former Uber exec Andrew Chapin takes the wraps off his stealth mental health startup," October 4, 2018. https://techcrunch.com/2018/10/04/former-uber-exec-andrew-chapin-takes-the-wraps-off-his-stealth-mental-health-startup/
 [^28]: FinSMEs, "Basis Raises $3.75M in Funding," October 2018. https://www.finsmes.com/2018/10/basis-raises-3-75m-in-funding.html
+[^29]: "Mach Industries Raises $300 Million in Series C Funding," PR Newswire press release, June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html

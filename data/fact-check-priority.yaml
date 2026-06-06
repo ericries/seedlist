@@ -166,8 +166,9 @@ priority:
   status: resolved
 - slug: accel
   type: firm
-  reason: "joined Supabase Series F $500M at $10.5B val (2026-06-04)"
+  reason: "RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led, participant) added to portfolio with 3 primary citations (Supabase blog, PRNewswire, TechCrunch); FirstClub Series B $55M (2026-06-03, Peak XV/Sofina co-led) already in portfolio with 3 primary citations [^88][^89][^90]"
   added: 2026-06-04
+  status: resolved
 - slug: y-combinator
   type: firm
   reason: "RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led, participant) row updated with 3 primary citations (Supabase blog, PRNewswire, FinSMEs); Collate $95M Series B (2026-06-03, Redpoint-led) added — YC did not participate in Series B but participated in prior $30M Seed (2025-01-21) with 3 citations (TheSaaSNews, Techmeme/Forbes, American Bazaar/Surbhi Sarna X)"
@@ -180,8 +181,9 @@ priority:
   status: resolved
 - slug: coatue-management
   type: firm
-  reason: "joined Supabase Series F (2026-06-04)"
+  reason: "RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led, participant) added to portfolio with 3 primary citations (PRNewswire, Supabase blog, The SaaS News)"
   added: 2026-06-04
+  status: resolved
 - slug: lux-capital
   type: firm
   reason: "RESOLVED 2026-06-05 — Flourish $500M co-led (2026-06-04, with GV at $2.5B post-money) added to portfolio with 3 primary citations (SiliconANGLE, AlleyWatch, citybiz)"
@@ -214,8 +216,9 @@ priority:
   status: unresolvable
 - slug: ribbit-capital
   type: firm
-  reason: "co-led Mach Industries Series C $300M at $1.8B val (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Mach Industries Series C $300M at $1.8B (2026-06-02, co-led with Infinite Capital) added to portfolio with 3 primary citations (PRNewswire, Robot Report, Tech Funding News); Malka quote added (first publicly verified defense-tech investment for Ribbit); last_verified_investment set; defense-tech added to sector_focus"
   added: 2026-06-05
+  status: resolved
 - slug: sequoia-capital
   type: firm
   reason: "joined Mach Industries Series C (2026-06-02)"
@@ -226,12 +229,14 @@ priority:
   added: 2026-06-05
 - slug: bedrock-capital
   type: firm
-  reason: "joined Mach Industries Series C (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Mach Industries Series C $300M (2026-06-02, Ribbit/Infinite-led, Bedrock follow-on) added to existing portfolio row (now Series A, B, C); PRNewswire citation [^31] added; last_verified_investment set to Mach Industries 2026-06-02"
   added: 2026-06-05
+  status: resolved
 - slug: naval-ravikant
   type: investor
-  reason: "angel in Generalist AI $400M (2026-06-04)"
+  reason: "RESOLVED 2026-06-06 — Naval Ravikant VERIFIED as angel investor in Generalist AI $400M Growth round (2026-06-04) by 3 independent primary sources (The Robot Report, The AI Insider, Yahoo Finance/Bloomberg). Added Generalist AI to portfolio table with 3 citations; last_verified_investment updated from Quill 2026-02-25 to Generalist AI 2026-06-04."
   added: 2026-06-05
+  status: resolved
 - slug: greylock
   type: firm
   reason: "RESOLVED 2026-06-05 — Opal Security Series B Extension $23M (2026-06-04, co-led with Battery Ventures; Cambium Capital participated) added to portfolio with 3 primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise); also added prior Opal Series B (2023-12-07, $22M, Battery-led, Greylock existing) with opal.dev blog citation"
