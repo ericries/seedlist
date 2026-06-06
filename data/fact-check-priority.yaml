@@ -259,3 +259,15 @@ priority:
   type: firm
   reason: "joined Tilt $26M venture round (2026-06-02)"
   added: 2026-06-06
+- slug: khosla-ventures
+  type: firm
+  reason: "led Terra AI $20M Series A (2026-06-03)"
+  added: 2026-06-06
+- slug: vinod-khosla
+  type: investor
+  reason: "led Terra AI Series A via Khosla (2026-06-03)"
+  added: 2026-06-06
+- slug: gv
+  type: firm
+  reason: "joined Contraline Series B $92.5M (2026-06-02)"
+  added: 2026-06-06
