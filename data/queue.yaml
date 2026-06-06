@@ -27443,3 +27443,25 @@ queue:
   firm: TrueFan AI
   discovered_from: truefan-ai
   source: Co-Founder & CEO, TrueFan AI
+- name: Time BioVentures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: waypoint-bio
+  source: co-invested in Waypoint Bio Series A (2026-06-01)
+- name: Mitsui Global Investments
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: waypoint-bio
+  source: co-invested in Waypoint Bio Series A (2026-06-01)
+- name: Elliot Hershberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Amplify Partners
+  discovered_from: waypoint-bio
+  source: joined Waypoint Bio board after leading Series A (2026-06-01)
