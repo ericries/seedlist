@@ -222,8 +222,9 @@ priority:
   status: resolved
 - slug: sequoia-capital
   type: firm
-  reason: "joined Mach Industries Series C (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Mach Industries Series C $300M at $1.8B (2026-06-02, Infinite Capital and Ribbit Capital co-led) added to portfolio with 3 primary citations (PRNewswire press release [^79], Tech Funding News [^80], Pulse 2.0 [^81]). All 3 sources explicitly confirm Sequoia Capital as a longstanding existing backer participating in the round alongside Bedrock Capital and Khosla Ventures."
   added: 2026-06-05
+  status: resolved
 - slug: khosla-ventures
   type: firm
   reason: "RESOLVED 2026-06-06 — Khosla Ventures VERIFIED as existing investor in Mach Industries Series C $300M at $1.8B (2026-06-02, co-led by Infinite Capital and Ribbit Capital) by 3 independent primary sources (PR Newswire press release naming KV as longstanding backer, TechCrunch, Tech Funding News). Updated portfolio row from 'Early ~2021 (founded)' to Series C with full details; citation [^46] added with cross-references."

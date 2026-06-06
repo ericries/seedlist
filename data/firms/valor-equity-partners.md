@@ -7,7 +7,11 @@ location: "Chicago, IL"
 founded: 2001
 fund_size: "$17.5B AUM; Fund VI at $2.35B (2024)"
 stage_focus: [growth, late-stage]
-sector_focus: [aerospace, defense, ai, robotics, sustainability, food-tech, fintech, health-wellness, cybersecurity, crypto]
+sector_focus: [aerospace, defense, ai, robotics, sustainability, food-tech, fintech, health-wellness, cybersecurity, crypto, biotech, longevity]
+last_verified_investment:
+  date: 2026-06-02
+  company: "NewLimit"
+  round: "Series C"
 team:
   - slug: antonio-gracias
     role: "Founder, CEO & CIO"
@@ -54,7 +58,7 @@ Valor describes its focus as investing in "technology and technology-enabled com
 
 ## Inferred Thesis
 
-Based on 58 verified current growth portfolio investments and 22 realized investments listed on the Valor website [^12]:
+Based on 59 verified current growth portfolio investments and 22 realized investments listed on the Valor website [^12][^39]:
 
 **Stage distribution:** Valor primarily invests at growth stage, taking minority stakes in high-growth companies at operational inflection points [^6]. The firm shifted from traditional private equity buyouts to growth equity minority positions over its history [^6]. Its Early Stage Relationship Capital vehicle makes smaller "R&D investments" in early-stage companies to build pipeline relationships [^7]. Typical check sizes range widely: the Crain's profile from 2016 noted $220 million deployed in SpaceX across Funds II and III [^6], while the firm's early-stage vehicle deploys substantially smaller amounts.
 
@@ -62,7 +66,7 @@ Based on 58 verified current growth portfolio investments and 22 realized invest
 - Aerospace/defense/government: 5 of 58 (9%) — SpaceX, Anduril, Zipline, Strider, Chaos [^12]
 - AI/data infrastructure: 7 of 58 (12%) — xAI, WEKA, Dataminr, Crusoe, Compscience, Mode, Mythic [^12]
 - Food/consumer: 8 of 58 (14%) — Fooda, Misfits Market, GoPuff, Little Spoon, Wow Bao, Roti, Manduka, Spot & Tango [^12]
-- Health/biotech: 6 of 58 (10%) — K Health, Castle Creek Biosciences, Emalex, Evozyne, Eight Sleep, Aescape [^12]
+- Health/biotech: 7 of 59 (12%) — K Health, Castle Creek Biosciences, Emalex, Evozyne, Eight Sleep, Aescape, NewLimit [^12][^39]
 - Cybersecurity/fintech/crypto: 8 of 58 (14%) — HackerOne, Coalition, Counterpart, BitGo, Unchained, Lightning Labs, Polymarket, Addepar [^12]
 - Sustainability/climate: 4 of 58 (7%) — AMP Robotics, Redwood Materials, Remora, Pangaia [^12]
 - Other tech/SaaS: 20 of 58 (34%) — Reddit, AgentSync, Solink, Sonder, MagicSchool, Neuralink, and others [^12]
@@ -84,103 +88,109 @@ Based on 58 verified current growth portfolio investments and 22 realized invest
 | Company | Sector | Year | Source |
 |---------|--------|------|--------|
 | Addepar | Financial software | 2017 | [^12][^25] |
-| Aescape | Wellness technology | — | [^12] |
 | AgentSync | Insurance software | 2021 | [^16][^26] |
-| AMP Robotics | Recycling automation | 2021 | [^13][^27] |
-| Anduril | Defense technology | 2020 | [^2][^28] |
-| Athena | — | — | [^12] |
-| Atmosphere | — | — | [^12] |
-| Base Power | Energy infrastructure | — | [^12] |
-| BitGo | Crypto security | — | [^12] |
-| Brightloom | Restaurant software | — | [^12] |
-| Castle Creek Biosciences | Biosciences | — | [^12] |
-| Chaos | Defense/radar technology | 2025 | [^17][^29] |
-| Cloud9 | Esports | — | [^12] |
-| Coalition | Cyber insurance | 2020 | [^2][^30] |
-| Compscience | — | — | [^12] |
-| Counterpart | — | — | [^12] |
-| Crusoe | AI data centers | 2021 | [^18][^31] |
-| Dataminr | Data intelligence | — | [^12] |
-| David | — | — | [^12] |
-| Eight Sleep | Sleep technology | 2021 | [^19][^32] |
-| Emalex | Biosciences | — | [^12] |
-| Evozyne | Biotechnology | — | [^12] |
-| Fooda | Food/dining platform | — | [^6][^12] |
-| Genvid | Gaming/streaming | — | [^12] |
-| GoPuff | On-demand delivery | 2018 | [^2][^33] |
-| HackerOne | Cybersecurity | 2019 | [^14][^34] |
-| K Health | AI-powered healthcare | 2020 | [^20][^35] |
-| Lightning Labs | — | — | [^12] |
-| Little Spoon | Baby food/nutrition | — | [^12] |
-| MagicSchool | Education technology | — | [^12] |
-| Manduka | Yoga/wellness products | — | [^1][^12] |
-| Misfits Market | Grocery marketplace | 2020 | [^21][^36] |
-| Mode | Analytics/BI | — | [^12] |
-| Mythic | AI semiconductors | — | [^12] |
-| Neuralink | Neural technology | — | [^12][^22] |
-| Nirvana | — | — | [^12] |
-| Pangaia | Sustainable fashion | — | [^12] |
-| Polymarket | Prediction markets | — | [^12] |
-| Redacted | — | — | [^12] |
-| Reddit | Social media | — | [^12] |
-| Redwood Materials | Battery recycling | — | [^12] |
-| Remora | Carbon removal | — | [^12] |
-| Republic | — | — | [^12] |
-| Roti | Fast casual dining | — | [^12] |
-| Solink | Business operations software | — | [^12] |
-| Sonder | Hospitality/short-term rentals | 2019 | [^21][^37] |
+| AMP Robotics | Recycling automation | 2021 | [^13][^13] |
+| Anduril | Defense technology | 2020 | [^2][^27] |
+| Chaos | Defense/radar technology | 2025 | [^17][^28] |
+| Coalition | Cyber insurance | 2020 | [^2][^29] |
+| Crusoe | AI data centers | 2021 | [^18][^30] |
+| Eight Sleep | Sleep technology | 2021 | [^19][^31] |
+| GoPuff | On-demand delivery | 2018 | [^2][^32] |
+| HackerOne | Cybersecurity | 2019 | [^14][^33] |
+| K Health | AI-powered healthcare | 2020 | [^20][^20] |
+| Misfits Market | Grocery marketplace | 2020 | [^21][^34] |
+| NewLimit | Longevity / epigenetic reprogramming | 2025 (Series B), 2026 (Series C) | [^39][^40][^41][^42] |
+| Sonder | Hospitality/short-term rentals | 2019 | [^21][^35] |
 | SpaceX | Aerospace | 2015 | [^6][^23] |
-| Spot & Tango | Pet food | — | [^12] |
-| Strider | — | — | [^12] |
-| Unchained | Cryptocurrency | — | [^12] |
-| WEKA | AI data platform | 2024 | [^15][^38] |
-| Wow Bao | Asian fast casual | — | [^1][^12] |
-| xAI | Artificial intelligence | 2024 | [^17][^39] |
-| Xsight Labs | — | — | [^12] |
-| Zellerfeld | — | — | [^12] |
-| Zeitview | — | — | [^12] |
-| Zipline | Drone delivery | 2026 | [^24][^40] |
-| Z League | Gaming/esports | — | [^12] |
+| WEKA | AI data platform | 2024 | [^15][^36] |
+| xAI | Artificial intelligence | 2024 | [^17][^37] |
+| Zipline | Drone delivery | 2026 | [^24][^38] |
+
+#### Other Current Growth Portfolio Companies (year not yet verified from primary sources)
+
+Sourced from Valor's website portfolio page [^12]. Cross-references where noted:
+
+- Aescape (Wellness technology)
+- Athena
+- Atmosphere
+- Base Power (Energy infrastructure)
+- BitGo (Crypto security)
+- Brightloom (Restaurant software)
+- Castle Creek Biosciences (Biosciences)
+- Cloud9 (Esports)
+- Compscience
+- Counterpart
+- Dataminr (Data intelligence)
+- David
+- Emalex (Biosciences)
+- Evozyne (Biotechnology)
+- Fooda (Food/dining platform; also referenced in Crain's 2016 profile [^6])
+- Genvid (Gaming/streaming)
+- Lightning Labs
+- Little Spoon (Baby food/nutrition)
+- MagicSchool (Education technology)
+- Manduka (Yoga/wellness products; also referenced on Valor homepage [^1])
+- Mode (Analytics/BI)
+- Mythic (AI semiconductors)
+- Neuralink (Neural technology; Series E announcement cited [^22])
+- Nirvana
+- Pangaia (Sustainable fashion)
+- Polymarket (Prediction markets)
+- Redacted
+- Reddit (Social media)
+- Redwood Materials (Battery recycling)
+- Remora (Carbon removal)
+- Republic
+- Roti (Fast casual dining)
+- Solink (Business operations software)
+- Spot & Tango (Pet food)
+- Strider
+- Unchained (Cryptocurrency)
+- Wow Bao (Asian fast casual; also referenced on Valor homepage [^1])
+- Xsight Labs
+- Zellerfeld
+- Zeitview
+- Z League (Gaming/esports)
 
 ### Realized Investments (Exits)
 
-| Company | Sector | Source |
-|---------|--------|--------|
-| Tesla | Electric vehicles | [^12] |
-| SolarCity | Solar energy | [^12] |
-| Bird | Vehicle sharing | [^12] |
-| Porch | Home services | [^12] |
-| Harmony Biosciences | Pharmaceuticals | [^12] |
-| Marathon Pharmaceuticals | Pharmaceuticals | [^12] |
-| Uptake | Industrial analytics | [^12] |
-| ErisX | Crypto exchange | [^12] |
-| Harbor | Tokenized securities | [^12] |
-| Premise | Data analytics | [^6][^12] |
-| 21Shares | Crypto ETFs | [^12] |
-| Sizzling Platter | Restaurant operator | [^12] |
-| North American Coatings | Manufacturing | [^12] |
-| Smith Gas Field Services | Energy services | [^12] |
-| Family Home Health Services | Healthcare | [^12] |
-| Qlarity Imaging | Medical imaging | [^12] |
-| Benchmark Analytics | Analytics | [^12] |
-| Subspace | Networking | [^12] |
-| Akadian | — | [^12] |
-| All Smiles | — | [^12] |
-| Roti | Fast casual dining | [^12] |
-| Thrivepoint Financial Holdings | Financial services | [^12] |
+Year-specific investment dates for the following realized investments are not yet verified from primary sources. Sourced from Valor's website portfolio page [^12]; Premise also cited in Crain's 2016 profile [^6]:
+
+- Tesla (Electric vehicles)
+- SolarCity (Solar energy)
+- Bird (Vehicle sharing)
+- Porch (Home services)
+- Harmony Biosciences (Pharmaceuticals)
+- Marathon Pharmaceuticals (Pharmaceuticals)
+- Uptake (Industrial analytics)
+- ErisX (Crypto exchange)
+- Harbor (Tokenized securities)
+- Premise (Data analytics)
+- 21Shares (Crypto ETFs)
+- Sizzling Platter (Restaurant operator)
+- North American Coatings (Manufacturing)
+- Smith Gas Field Services (Energy services)
+- Family Home Health Services (Healthcare)
+- Qlarity Imaging (Medical imaging)
+- Benchmark Analytics (Analytics)
+- Subspace (Networking)
+- Akadian
+- All Smiles
+- Roti (Fast casual dining)
+- Thrivepoint Financial Holdings (Financial services)
 
 ### Selected Early Stage Relationship Capital Investments
 
-| Company | Sector | Source |
-|---------|--------|--------|
-| Uber | Ride-hailing | [^7] |
-| Slack | Business messaging | [^7] |
-| Palantir | Data analytics | [^7] |
-| Flexport | Logistics | [^7] |
-| EasyPost | Shipping API | [^7] |
-| Houzz | Home design | [^7] |
-| Rigetti Computing | Quantum computing | [^7] |
-| Sourcegraph | Code search | [^7] |
+Year-specific investment dates for the following early-stage investments are not yet verified from primary sources. Sourced from Valor's Early Stage Relationship Capital page [^7]:
+
+- Uber (Ride-hailing)
+- Slack (Business messaging)
+- Palantir (Data analytics)
+- Flexport (Logistics)
+- EasyPost (Shipping API)
+- Houzz (Home design)
+- Rigetti Computing (Quantum computing)
+- Sourcegraph (Code search)
 
 ## In Their Own Words
 
@@ -244,17 +254,19 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 [^24]: TechCrunch, "Zipline charts drone delivery expansion with $600M in new funding," January 2026. https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/
 [^25]: Addepar, "Addepar Raises $140 Million To Build First Unified Platform for the Financial World," June 2017. https://addepar.com/newsroom/addepar-raises-usd140-million-to-build-first-unified-platform-for-the-financial-world
 [^26]: PRNewswire, "AgentSync Secures $75M at a $1.2B Unicorn Valuation to Power Growth Across the Insurance Industry," December 2021. https://www.prnewswire.com/news-releases/agentsync-secures-75m-at-a-1-2b-unicorn-valuation-to-power-growth-across-the-insurance-industry-301439043.html
-[^27]: AMP Robotics, "AMP Robotics Raises $55 Million from XN, Valor Equity Partners, GV, and Existing Investors," January 2021. https://ampsortation.com/articles/new-investment-will-help-amp-accelerate-innovation
-[^28]: Tracxn, "Anduril — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors
-[^29]: BusinessWire, "CHAOS Industries Raises $510 Million Led by Valor Equity Partners to Accelerate Next-Generation Defense Systems," November 2025. https://www.businesswire.com/news/home/20251113579391/en/CHAOS-Industries-Raises-$510-Million-Led-by-Valor-Equity-Partners-to-Accelerate-Next-Generation-Defense-Systems
-[^30]: Coalition, "Coalition Raises $90 Million in Funding to Build the Future of Cyber Insurance," May 2020. https://www.coalitioninc.com/announcements/coalition-raises-90m-in-funding-to-build-the-future-of-cyber-insurance
-[^31]: Crusoe, "Crusoe achieves operational milestones and closes $128 million Series B financing," 2021. https://www.crusoe.ai/resources/newsroom/crusoe-series-b
-[^32]: TechCrunch, "Eight Sleep raises $86M as its smart mattress and 'sleep fitness' technology approach $500M valuation," August 2021. https://techcrunch.com/2021/08/30/eight-sleep-raises-86m-as-its-smart-mattress-and-sleep-fitness-technology-approach-500m-valuation/
-[^33]: GoPuff/Valor Equity Partners, "goPuff — Company Profile," accessed April 2026. https://www.valorep.com/gopuff-company-profile
-[^34]: TechCrunch, "HackerOne just closed a new round of funding that brings its total funding to $110 million," September 2019. https://techcrunch.com/2019/09/08/hackerone-just-closed-a-new-round-of-funding-that-brings-its-total-funding-to-110-million/
-[^35]: HIT Consultant, "K Health Collabs with Mayo Clinic, Raises $42M Series D from Valor Equity Partners," November 2020. https://hitconsultant.net/2020/11/18/k-health-collabs-with-mayo-clinic-funding/
-[^36]: TechCrunch/Technical.ly, "Misfits Market raises $85M Series B led by Valor Equity Partners," July 2020. https://technical.ly/philly/2020/07/22/ugly-produce-delivery-startup-misfits-market-raised-85-million-series-b-hiring-abhi-ramesh/
-[^37]: BetaKit, "Sonder raises $210 million USD, surpassing $1 billion valuation," July 2019. https://betakit.com/sonder-raises-210-million-usd-surpassing-1-billion-valuation/
-[^38]: WEKA, "WEKA Nets $140M in Series E Funding at $1.6B Valuation," May 2024. https://www.weka.io/company/weka-newsroom/press-releases/weka-nets-140m-in-series-e-funding-at-1-6b-valuation/
-[^39]: xAI, "Series B funding round," May 2024. https://x.ai/news/series-b
-[^40]: DroneXL, "Zipline Reaches $7.6 Billion Valuation As Valor Equity Partners Leads $600 Million Funding Round," January 2026. https://dronexl.co/2026/01/20/zipline-reaches-7-6-billion-valuation-drone/
+[^27]: Tracxn, "Anduril — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors
+[^28]: BusinessWire, "CHAOS Industries Raises $510 Million Led by Valor Equity Partners to Accelerate Next-Generation Defense Systems," November 2025. https://www.businesswire.com/news/home/20251113579391/en/CHAOS-Industries-Raises-$510-Million-Led-by-Valor-Equity-Partners-to-Accelerate-Next-Generation-Defense-Systems
+[^29]: Coalition, "Coalition Raises $90 Million in Funding to Build the Future of Cyber Insurance," May 2020. https://www.coalitioninc.com/announcements/coalition-raises-90m-in-funding-to-build-the-future-of-cyber-insurance
+[^30]: Crusoe, "Crusoe achieves operational milestones and closes $128 million Series B financing," 2021. https://www.crusoe.ai/resources/newsroom/crusoe-series-b
+[^31]: TechCrunch, "Eight Sleep raises $86M as its smart mattress and 'sleep fitness' technology approach $500M valuation," August 2021. https://techcrunch.com/2021/08/30/eight-sleep-raises-86m-as-its-smart-mattress-and-sleep-fitness-technology-approach-500m-valuation/
+[^32]: GoPuff/Valor Equity Partners, "goPuff — Company Profile," accessed April 2026. https://www.valorep.com/gopuff-company-profile
+[^33]: TechCrunch, "HackerOne just closed a new round of funding that brings its total funding to $110 million," September 2019. https://techcrunch.com/2019/09/08/hackerone-just-closed-a-new-round-of-funding-that-brings-its-total-funding-to-110-million/
+[^34]: TechCrunch/Technical.ly, "Misfits Market raises $85M Series B led by Valor Equity Partners," July 2020. https://technical.ly/philly/2020/07/22/ugly-produce-delivery-startup-misfits-market-raised-85-million-series-b-hiring-abhi-ramesh/
+[^35]: BetaKit, "Sonder raises $210 million USD, surpassing $1 billion valuation," July 2019. https://betakit.com/sonder-raises-210-million-usd-surpassing-1-billion-valuation/
+[^36]: WEKA, "WEKA Nets $140M in Series E Funding at $1.6B Valuation," May 2024. https://www.weka.io/company/weka-newsroom/press-releases/weka-nets-140m-in-series-e-funding-at-1-6b-valuation/
+[^37]: xAI, "Series B funding round," May 2024. https://x.ai/news/series-b
+[^38]: DroneXL, "Zipline Reaches $7.6 Billion Valuation As Valor Equity Partners Leads $600 Million Funding Round," January 2026. https://dronexl.co/2026/01/20/zipline-reaches-7-6-billion-valuation-drone/
+[^39]: NewLimit company blog, "NewLimit raises $130 million Series B led by Kleiner Perkins alongside NFDG, Khosla Ventures, Human Capital and others," May 6, 2025. Accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-130-million-series
+[^40]: NewLimit company blog, "NewLimit raises $435M led by Founders Fund to bring longevity medicines to human trials," June 2, 2026. Accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders
+[^41]: Yahoo Finance, "NewLimit raises $435M Series C, valuation hits $3.1B," June 3, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/healthcare/articles/newlimit-raises-435m-series-c-145642833.html
+[^42]: Bitcoin.com News, "Coinbase CEO Brian Armstrong's Newlimit Raises $435 Million, Tripling Valuation to $3.1 Billion," June 2026. Accessed June 2026. https://news.bitcoin.com/newlimit-435-million-series-c-brian-armstrong/
