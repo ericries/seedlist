@@ -180,7 +180,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Blue River Technology | Early | ~2011 (founded) | AgTech / AI | Acquired by John Deere (2017) [^22] |
 | ThoughtSpot | Early | ~2012 (founded) | Enterprise / Analytics | Private [^22] |
 | Vectra | Early | ~2012 (founded) | Enterprise / Security | Private [^22] |
-| Mach Industries | Early | ~2021 (founded) | Defense Tech | Private [^22] |
+| Mach Industries | Series C ($300M, $1.8B post-money; existing investor; led by Infinite Capital and Ribbit Capital) | 2026-06-02 | Defense Tech | Private [^22][^46] |
 | Worldcoin | Early | ~2019 (founded) | Crypto / Identity | Private [^22] |
 | AtBay | Early | ~2016 (founded) | Insurtech | Private [^22] |
 | Fundbox | Early | ~2013 (founded) | Fintech / Lending | Private [^22] |
@@ -359,3 +359,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^44]: TechCrunch, "Khosla, Greylock, Andreessen Horowitz Put $16.5M In Enterprise Cloud App Management Startup Okta," August 8, 2011. Accessed May 2026. https://techcrunch.com/2011/08/08/khosla-greylock-andreessen-horowitz-put-16-5m-in-enterprise-cloud-app-management-startup-okta/ — Okta's $16.5M Series B announced August 8, 2011 with Khosla Ventures, Greylock Partners, Andreessen Horowitz, and Floodgate participating. Ben Horowitz had led the earlier Series A in July 2010.
 
 [^45]: GlobeNewsWire, "NavigateAI Launches to Build the AI Copilot for the Physical World," May 26, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/26/3301425/0/en/navigateai-launches-to-build-the-ai-copilot-for-the-physical-world.html — Confirms Khosla Ventures participated in NavigateAI's $25M seed on May 26, 2026, led by Elad Gil with Fifth Wall, Lennar, Tishman Speyer, Helix Electric, and 11 named angel investors.
+
+[^46]: PR Newswire, "Mach Industries Raises $300 Million in Series C Funding," June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html — Confirms Khosla Ventures' participation in Mach Industries' $300M Series C at $1.8B valuation. Press release states: "The new investors join longstanding backers including Bedrock Capital, Sequoia Capital, and Khosla Ventures, an investor group that has supported Mach Industries across multiple stages of its growth." Round led by Infinite Capital and Ribbit Capital. Cross-referenced with TechCrunch, "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year," June 1, 2026, https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/ and Tech Funding News, https://techfundingnews.com/mit-dropouts-mach-industries-bags-300m-at-1-8b-valuation-as-defence-manufacturing-enters-a-new-era/ which both name Khosla Ventures as a participating investor.

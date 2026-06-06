@@ -132,8 +132,9 @@ priority:
   status: resolved
 - slug: valor-equity-partners
   type: firm
-  reason: "joined NewLimit Series C (2026-06-02) — needs year backfill on 37 pre-existing portfolio rows before NewLimit can be added"
+  reason: "RESOLVED 2026-06-06 — NewLimit Series C $435M (2026-06-02, Founders Fund-led, Valor returning) added to portfolio with 4 primary citations (NewLimit blog Series B + Series C, Yahoo Finance, Bitcoin.com); also added prior NewLimit Series B (2025-05-06, $130M, Kleiner Perkins-led, Valor as new investor); last_verified_investment set to NewLimit 2026-06-02; biotech and longevity added to sector_focus; inferred thesis updated from 58 to 59 verified investments. Note: year backfill on remaining 37 pre-existing rows still pending."
   added: 2026-06-04
+  status: resolved
 - slug: iconiq-growth
   type: firm
   reason: "RESOLVED 2026-06-04 — Ramp Series F $750M at $44B (2026-06-04, co-led with GIC + OTPP) added to portfolio with 3 primary citations (PRNewswire, TechCrunch, OTPP); also resolved vague dates on Sierra (2024-10-28), DX (2025-03-05), Omni (2026-04-23), AcuityMD Series B (2024-06-04), Series C (2026-04-21)"
@@ -225,8 +226,9 @@ priority:
   added: 2026-06-05
 - slug: khosla-ventures
   type: firm
-  reason: "joined Mach Industries Series C (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Khosla Ventures VERIFIED as existing investor in Mach Industries Series C $300M at $1.8B (2026-06-02, co-led by Infinite Capital and Ribbit Capital) by 3 independent primary sources (PR Newswire press release naming KV as longstanding backer, TechCrunch, Tech Funding News). Updated portfolio row from 'Early ~2021 (founded)' to Series C with full details; citation [^46] added with cross-references."
   added: 2026-06-05
+  status: resolved
 - slug: bedrock-capital
   type: firm
   reason: "RESOLVED 2026-06-06 — Mach Industries Series C $300M (2026-06-02, Ribbit/Infinite-led, Bedrock follow-on) added to existing portfolio row (now Series A, B, C); PRNewswire citation [^31] added; last_verified_investment set to Mach Industries 2026-06-02"

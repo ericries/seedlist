@@ -43,6 +43,7 @@ investors:
   slug: michael-gibson
   year: 2022
 last_researched: 2026-06-03
+verified_investors: true
 location: Huntington Beach, California
 name: Mach Industries
 sector:

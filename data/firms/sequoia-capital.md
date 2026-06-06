@@ -235,6 +235,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Mercury | Series C (led, $300M at $3.5B val) → Series D (participated, $200M at $5.2B val; TCV led) | 2025-03-26; 2026-05-20 | Fintech / Digital Banking | Private [^73] |
 | Decart | Growth (participant, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference Infrastructure | Private [^74] |
 | Cyera | Growth (participated, $300M at $12B post-money; Evolution Equity Partners led) | 2026-06-02 | Cybersecurity / Data Security Posture Management | Private [^76][^77][^78] |
+| Mach Industries | Series C (existing investor, $300M at $1.8B post-money; Infinite Capital and Ribbit Capital led) | 2026-06-02 | Defense Tech / Hardware | Private [^79][^80][^81] |
 
 *Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -456,3 +457,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^77]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ — Cross-references the $300M round at $12B valuation, noting the doubling of valuation within five months of the January 2026 $400M Series F at $9B led by Blackstone.
 
 [^78]: Finsmes, "Cyera Raises $300M in Additional Funding at $12 Billion Post-Money Valuation," June 2, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/cyera-raises-300m-in-additional-funding-at-12-billion-post-money-valuation.html — Third independent confirmation of round amount, valuation, lead investor, and Sequoia Capital participation.
+
+[^79]: PR Newswire, "Mach Industries Raises $300M Series C to Build the Future of Defense Manufacturing," June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300m-series-c-302787250.html — Official press release naming Sequoia Capital as a longstanding existing investor in the $300M Series C at $1.8B post-money.
+
+[^80]: Tech Funding News, "Mach Industries lands $300M Series C to scale defense manufacturing," June 2026. Accessed June 2026. https://techfundingnews.com/mach-industries-300m-series-c/ — Independent confirmation: "The round was led by Infinite Capital and Ribbit Capital, with participation from existing investor Bedrock Capital, Sequoia Capital, and Khosla Ventures."
+
+[^81]: Pulse 2.0, "Mach Industries Closes $300M Series C," June 2026. Accessed June 2026. https://pulse2.com/mach-industries-300m-series-c/ — Third independent source confirming Sequoia Capital among existing backers.
