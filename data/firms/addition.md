@@ -104,11 +104,11 @@ The firm skews more growth-stage than its stated one-third early-stage allocatio
 | Chronosphere | Series C | 2021 | Cloud Observability | Active [^24] |
 | Hugging Face | Series C (follow-on) | 2022 | AI/ML | Active [^25] |
 | SuperOps.ai | Series A (led) | 2022 | Enterprise SaaS | Active [^26] |
-| Adept AI | Series B | 2023 | AI | Acquired by Amazon 2024 [^27] |
-| OneChronos | Series B (led) | 2023 | AI/Fintech | Active [^28] |
-| Snorkel AI | Series D (led) | 2025 | AI/ML | Active [^29] |
-| Base Power | Series B (co-led) | 2025 | Energy/Climate | Active [^30] |
-| Base Power | Series C (led) | 2025 | Energy/Climate | Active [^30] |
+| Adept AI | Series B | 2023-03-14 | AI | Acquired by Amazon 2024 [^27] |
+| OneChronos | Series B (led) | 2023-09-29 | AI/Fintech | Active [^28] |
+| Snorkel AI | Series D (led) | 2025-05-29 | AI/ML | Active [^29] |
+| Base Power | Series B (co-led) | 2025-04-09 | Energy/Climate | Active [^30] |
+| Base Power | Series C (led) | 2025-10-08 | Energy/Climate | Active [^30][^34] |
 | Render | Series C (follow-on) | 2025 | Cloud Infrastructure | Active [^31] |
 | Airwallex | Series G (led) | 2025 | Fintech/Payments | Active [^32] |
 | Hello Vet | Series A | 2025 | Healthcare | Active [^33] |
@@ -168,3 +168,4 @@ Chase Gilbert, Co-founder and CEO of Built Technologies (portfolio company), sta
 [^31]: BusinessWire, "Render Secures $80M Series C Funding," January 21, 2025. https://www.businesswire.com/news/home/20250121967005/en/Render-Secures-$80M-Series-C-Funding-to-Bring-The-Next-Billion-Applications-Online
 [^32]: Airwallex, "Airwallex raises $330M Series G at $8B valuation," December 2025. https://www.airwallex.com/newsroom/awx-raises-usd330m-series-g-at-usd8b-valuation-establishes-sf-as-dual-global-hq
 [^33]: Vet Times, "Hello Vet announces expansion plans after £21 million investment," December 2025. https://www.vettimes.com/news/business/practice-developments/hello-vet-announces-expansion-plans-after-21-million-investment
+[^34]: BusinessWire, "Base Power Raises $1 Billion Series C to Build the Future of American Power," October 8, 2025. https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-$1-Billion-Series-C-to-Build-the-Future-of-American-Power

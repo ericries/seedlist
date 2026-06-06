@@ -8,11 +8,7 @@ status_company: active
 sector: [ai, mining, climate, energy, deeptech]
 stage_latest: "Series A"
 total_raised: "$23.4M"
-investors:
-  - slug: vinod-khosla
-    round: series-a
-    year: 2026
-    date: 2026-06-03
+investors: []
 firms:
   - slug: khosla-ventures
     round: series-a
