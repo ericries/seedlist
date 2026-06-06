@@ -156,6 +156,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Active [^19] |
 | MOTHER.Tech | Seed (participated) | 2026-05-05 | AI / Creator Economy | Active [^21][^22] |
 | Forus | Growth (participated, $160M; Thrive led at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Active [^24] |
+| Opal Security | Series B (participated, $22M; Battery led) | 2023-12-07 | Cybersecurity / Identity | Active [^25] |
 
 ## In Their Own Words
 
@@ -240,3 +241,5 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^adaptive2026]: Adaptive Innovations blog, "Introducing Adaptive Innovations," June 2, 2026. Accessed June 2026. https://www.adaptive.co/blog/introducing-adaptive-innovations/ — Confirms BoxGroup participated in Adaptive Innovations' $50M Series A on June 2, 2026; round led by Felicis and Bain Capital Ventures, with Optum Ventures, Sunflower Capital, Conviction, SV Angel, Dorm Room Fund, and Constellation also participating.
 
 [^ramp2026f]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html — Confirms BoxGroup participated as a returning investor in Ramp's $750M Series F on June 4, 2026 at $44B valuation; round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Cross-referenced with TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
+
+[^25]: "Announcing our $22M Series B," Opal Security blog (Umaimah Khan), December 7, 2023. https://www.opal.dev/blog/series-b — Confirms BoxGroup participated as existing investor in $22M Series B led by Battery Ventures with Greylock and BoxGroup. Cross-referenced with FinancialContent (Business Wire), "Opal Security Raises $23M..." June 4, 2026, which confirms BoxGroup was a prior investor but did NOT participate in the June 2026 $23M extension. https://www.financialcontent.com/article/bizwire-2026-6-4-opal-security-raises-23m-and-expands-leadership-team-to-unify-identity-governance-across-human-non-human-and-agentic-ai — Accessed June 2026.

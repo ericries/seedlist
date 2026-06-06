@@ -234,13 +234,16 @@ priority:
   added: 2026-06-05
 - slug: greylock
   type: firm
-  reason: "co-led Opal Security $23M Series B Ext (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Opal Security Series B Extension $23M (2026-06-04, co-led with Battery Ventures; Cambium Capital participated) added to portfolio with 3 primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise); also added prior Opal Series B (2023-12-07, $22M, Battery-led, Greylock existing) with opal.dev blog citation"
   added: 2026-06-06
+  status: resolved
 - slug: battery-ventures
   type: firm
-  reason: "co-led Opal Security $23M Series B Ext (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Opal Security Series B Extension $23M (2026-06-04, co-led with Greylock; Cambium Capital participated) added to portfolio with 3 primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise); also added prior Opal Series B (2023-12-07, $22M Battery-led)"
   added: 2026-06-06
+  status: resolved
 - slug: boxgroup
   type: firm
-  reason: "joined Opal Security Series B Ext (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — BoxGroup did NOT participate in Opal Security $23M Series B Extension (2026-06-04) per all 3 primary sources (FinancialContent, Pulse 2.0, StartupRise); only Greylock, Battery Ventures, and Cambium Capital participated. However, BoxGroup did participate in the original $22M Series B (2023-12-07, Battery-led) per Opal blog — added that round to portfolio. Removed BoxGroup from Opal Security startup profile's June 2026 round."
   added: 2026-06-06
+  status: resolved
