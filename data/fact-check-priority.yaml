@@ -257,8 +257,9 @@ priority:
   status: resolved
 - slug: balderton-capital
   type: firm
-  reason: "joined Tilt $26M venture round (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Tilt $26M venture round (2026-06-02, Vinted Ventures-led, Balderton participated as existing investor) added to portfolio with 3 primary citations (TheNextWeb, Retail Tech Innovation Hub, Sifted); also resolved vague 2022 date on Fuse Energy seed (now 2022-09-07 per Balderton blog + Nordic9 + Crunchbase)"
   added: 2026-06-06
+  status: resolved
 - slug: khosla-ventures
   type: firm
   reason: "led Terra AI $20M Series A (2026-06-03)"
@@ -269,5 +270,6 @@ priority:
   added: 2026-06-06
 - slug: gv
   type: firm
-  reason: "joined Contraline Series B $92.5M (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Contraline Series B $92.5M (2026-06-02, co-led by BVF Partners and RA Capital Management; GV participated with Lumira Ventures and Invus) added to portfolio with 3 primary citations (BusinessWire Contraline press release, Lumira Ventures own announcement, BioSpace). Also resolved vague date on Harvey: corrected from 'Growth ~2024' to 'Series C (led, $100M) 2024-07-23' with Harvey blog + CNBC ($11B val 2026-03-25) citations."
   added: 2026-06-06
+  status: resolved

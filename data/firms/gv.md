@@ -111,7 +111,7 @@ Based on GV's verified portfolio and public data:
 | Stripe | Growth | ~2019 | Fintech | Private [^2] |
 | Lemonade | Early | ~2016 | Insurtech | IPO [^2] |
 | Verve Therapeutics | Early | ~2019 | Life Sciences | Public [^2] |
-| Harvey | Growth | ~2024 | Legal AI | Private ($5B valuation) [^5] |
+| Harvey | Series C (led, $100M) | 2024-07-23 | Legal AI | Private ($11B valuation as of 2026-03-25) [^5][^harvey1][^harvey2] |
 | OpenEvidence | Series B (co-led, $210M) | 2025-07-15 | Healthcare AI | Private ($3.5B valuation) [^5][^13][^14][^15] |
 | Synthesia | Growth | ~2023 | Generative Video | Private [^5] |
 | Modular | Seed | ~2022 | AI Infrastructure | Private [^5] |
@@ -128,6 +128,7 @@ Based on GV's verified portfolio and public data:
 | Flick | Seed (participated; True Ventures led) | 2026-05-14 | AI / Filmmaking | Private [^19] |
 | MokN | Series A (led, €12.9M / $15M) | 2026-05-28 | Cybersecurity / Credential Theft / Identity | Private [^22] |
 | Flourish | Venture (co-led with Lux Capital, $500M at $2.5B post-money) | 2026-06-04 | AI / Neuroscience / Connectomics | Private [^flourish1][^flourish2][^flourish3] |
+| Contraline | Series B (participated; BVF Partners and RA Capital Management co-led, $92.5M) | 2026-06-02 | Life Sciences / Male Contraceptive / Biopharma | Private [^contraline1][^contraline2][^contraline3] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -183,3 +184,10 @@ No independently sourced founder testimonials found.
 [^flourish1]: Maria Deutscher, "AI startup Flourish reportedly raises $500M round backed by Jeff Bezos," SiliconANGLE, June 4, 2026. Accessed June 2026. https://siliconangle.com/2026/06/04/ai-startup-flourish-reportedly-raises-500m-round-backed-jeff-bezos/ — Confirms GV co-led Flourish's $500M round on June 4, 2026 at $2.5B post-money valuation with Lux Capital; Catalio Capital Management and Jeff Bezos also participated.
 [^flourish2]: "Catalio's Neuroscience Startup Flourish Emerges With Funding from Bezos, Google Ventures," citybiz, June 2026. Accessed June 2026. https://www.citybiz.co/article/856404/catalios-neuroscience-startup-flourish-emerges-with-funding-from-bezos-google-ventures/
 [^flourish3]: "The AlleyWatch Startup Daily Funding Report: 6/5/2026," AlleyWatch, June 5, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-5-2026/
+
+[^contraline1]: BusinessWire, "Contraline Announces $92.5 Million Series B Financing to Advance NES/T Male Contraceptive into Late-Stage Development," June 2, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260602516189/en/Contraline-Announces-$92.5-Million-Series-B-Financing-to-Advance-NEST-Male-Contraceptive-into-Late-Stage-Development — Contraline's official press release confirming $92.5M Series B co-led by BVF Partners L.P. and RA Capital Management, with participation from GV (Google Ventures), Lumira Ventures, Invus, and other new and existing investors.
+[^contraline2]: Lumira Ventures, "Lumira Announces New Fund V Investment with Contraline's $92.5 Million Series B Financing to Advance NES/T Male Contraceptive into Late-Stage Development," June 2026. Accessed June 2026. https://www.lumiraventures.com/news/lumira-announces-new-fund-v-investment-with-contralines-92-5-million-series-b-financing-to-advance-nes-t-male-contraceptive-into-late-stage-development/ — Independent confirmation from participating investor Lumira Ventures of GV's participation in the $92.5M Series B closed June 2, 2026.
+[^contraline3]: BioSpace, "Contraline Announces $92.5 Million Series B Financing to Advance NES/T Male Contraceptive into Late-Stage Development," June 2, 2026. Accessed June 2026. https://www.biospace.com/press-releases/contraline-announces-92-5-million-series-b-financing-to-advance-nes-t-male-contraceptive-into-late-stage-development — Independent press confirmation of $92.5M Series B co-led by BVF Partners and RA Capital Management with GV participating.
+
+[^harvey1]: Harvey, "Harvey Raises Series C from Google Ventures, OpenAI, Kleiner Perkins, Sequoia Capital, Elad Gil, and SV Angel," July 23, 2024. Accessed June 2026. https://www.harvey.ai/blog/harvey-raises-series-c — Harvey's own announcement confirming GV (Google Ventures) led the $100M Series C on July 23, 2024 at $1.5B valuation.
+[^harvey2]: CNBC, "Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies," March 25, 2026. Accessed June 2026. https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html — Confirms $11B valuation as of March 25, 2026.

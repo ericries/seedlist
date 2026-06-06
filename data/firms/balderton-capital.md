@@ -137,7 +137,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Quantum Systems | Series C (led, €160M, 2025-05-06) → Series C Extension (led, €180M, 2025-11-27) | 2025-05-06 | Defence Tech/Drones | Active [^14][^24] |
 | Proxima Fusion | Series A (co-led, €130M with Cherry Ventures) | 2025-06-11 | Deep Tech/Fusion | Active [^6][^25] |
 | Cino | Seed (led, €3.5M) | 2025-03-04 | Fintech | Active [^6][^26] |
-| Fuse Energy | Seed (co-led, $78M with Lakestar) → Series B (co-led, $70M with Lowercarbon, 2025-12-18) → Series B Extension ($25M/$30M, follow-on, 2026-06-04) | 2022 | Climate Tech/Energy | Active [^27][^28][^29] |
+| Fuse Energy | Seed (co-led, $78M with Lakestar, 2022-09-07) → Series B (co-led, $70M with Lowercarbon, 2025-12-18) → Series B Extension ($25M/$30M, follow-on, 2026-06-04) | 2022-09-07 | Climate Tech/Energy | Active [^27][^28][^29] |
 | Wagestream | Series A | 2019 | Fintech/HR | Active [^6] |
 | Peakon | Series A | 2016 | Enterprise/HR | Acquired by Workday [^3] |
 | Frontier Car Group | Series A | 2017 | Consumer/Marketplace | Acquired [^6] |
@@ -145,6 +145,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Lovefilm | Early stage | 2004 | Consumer/Entertainment | Acquired by Amazon [^2] |
 | Grand Games | Series A (led, $30M, 2025-01-09) → Series B (led, $70M Growth Fund, 2026-05-11) | 2025-01-09 | Gaming/Mobile Hybrid Casual | Active [^19][^20][^21] |
 | Geordie AI | Series A (led, $30M at ~$180M post-money) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Active [^22] |
+| Tilt | Venture ($26M, follow-on; Vinted Ventures led) | 2026-06-02 | Consumer/Live Commerce | Active [^30] |
 
 This table represents approximately 51 of 275+ known investments (~19%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
@@ -227,3 +228,5 @@ No additional independently sourced founder testimonials found beyond those publ
 [^28]: Mercom Capital Group, "Fuse Energy Secures $70 Million in Series B Funding," December 22, 2025. Accessed June 2026. https://mercomcapital.com/fuse-energy-secures-70-million-in-series-b-funding/ — Independently confirms $70M Series B led by Balderton and Lowercarbon at $5B valuation. Confirms prior 2022 round of $78M led by Balderton and Lakestar with participation from Accel, Creandum, Lowercarbon, Ribbit, and BoxGroup, plus strategic angels. Cross-referenced with Fuse Energy Wikipedia entry, accessed June 2026. https://en.wikipedia.org/wiki/Fuse_Energy
 
 [^29]: EU-Startups, "London's Fuse Energy secures €25 million Series B extension as it plans 32,000 sq ft London HQ," June 4, 2026. Accessed June 2026. https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ — Confirms €25M ($30M) Series B Extension on June 4, 2026 with new investors 20VC and Collaborative Fund joining existing backers Balderton Capital and Lowercarbon Capital. Total funding to date: €214M ($250M). Cross-referenced with BeBeez International, "London's Fuse Energy secures €25 million Series B extension," June 4, 2026. https://bebeez.eu/2026/06/04/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/
+
+[^30]: TheNextWeb, "Vinted Ventures backs Tilt's $26M live-commerce round as Whatnot pressure mounts," June 2, 2026. Accessed June 2026. https://thenextweb.com/news/tilt-26m-vinted-ventures-live-commerce — Confirms Tilt's $26M round on June 2, 2026, led by Vinted Ventures (new investor) with participation from existing backers Balderton Capital, TQ Ventures, Earlybird, and Seedcamp. Founders Abhi Thanendran (CEO, former Revolut data scientist) and Neil Shah (Revolut's fifth employee). Total funding to date: $50M+. Cross-referenced with Retail Tech Innovation Hub, "Live selling app Tilt bags $26 million in funding with Vinted Ventures joining as a new investor," June 2, 2026. https://retailtechinnovationhub.com/home/2026/6/2/live-selling-app-tilt-bags-26-million-in-funding-with-vinted-ventures-joining-as-a-new-investor and Sifted, "Exclusive: Vinted Ventures backs Revolut mafia duo in $26m raise," June 2, 2026. https://sifted.eu/articles/vinted-ventures-revolut-founders-tilt-funding-round — all three independently confirm Balderton's participation.
