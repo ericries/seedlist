@@ -101,6 +101,14 @@ pending_rounds:
   parsed_round: null
   status: skipped
   notes: aggregator/weekly digest - rounds covered or unrelated
+- title: u003e raised $500M Series F
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: u003e
+  parsed_amount: $500M
+  parsed_round: Series F
+  status: pending
 - title: Lugano’s GR3N closes €15.5 million Series B to build the world’s first microwave-assisted
     PET recycling plant in Spain
   url: https://www.eu-startups.com/2026/06/luganos-gr3n-closes-e15-5m-series-b-to-build-the-worlds-first-microwave-assisted-pet-recycling-plant-in-spain/
@@ -890,14 +898,4 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   notes: Round added to data/startups/mokn.md with quotes
-  processed_date: '2026-06-02'
-- title: Rep AI raised $6.2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Rep AI
-  parsed_amount: $6.2M
-  parsed_round: null
-  status: processed
-  notes: Round added to data/startups/rep-ai.md with quotes
   processed_date: '2026-06-02'

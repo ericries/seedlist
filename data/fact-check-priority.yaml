@@ -247,3 +247,7 @@ priority:
   reason: "RESOLVED 2026-06-05 — BoxGroup did NOT participate in Opal Security $23M Series B Extension (2026-06-04) per all 3 primary sources (FinancialContent, Pulse 2.0, StartupRise); only Greylock, Battery Ventures, and Cambium Capital participated. However, BoxGroup did participate in the original $22M Series B (2023-12-07, Battery-led) per Opal blog — added that round to portfolio. Removed BoxGroup from Opal Security startup profile's June 2026 round."
   added: 2026-06-06
   status: resolved
+- slug: balderton-capital
+  type: firm
+  reason: "joined Tilt $26M venture round (2026-06-02)"
+  added: 2026-06-06
