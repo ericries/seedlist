@@ -234,3 +234,15 @@ priority:
   type: investor
   reason: "angel in Generalist AI $400M (2026-06-04)"
   added: 2026-06-05
+- slug: greylock
+  type: firm
+  reason: "co-led Opal Security $23M Series B Ext (2026-06-04)"
+  added: 2026-06-06
+- slug: battery-ventures
+  type: firm
+  reason: "co-led Opal Security $23M Series B Ext (2026-06-04)"
+  added: 2026-06-06
+- slug: boxgroup
+  type: firm
+  reason: "joined Opal Security Series B Ext (2026-06-04)"
+  added: 2026-06-06

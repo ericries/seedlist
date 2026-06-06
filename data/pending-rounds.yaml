@@ -20,6 +20,78 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Supabase raised $500M Series F
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: Supabase
+  parsed_amount: $500M
+  parsed_round: Series F
+  status: pending
+- title: Generalist raised $400M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: Generalist
+  parsed_amount: $400M
+  parsed_round: null
+  status: pending
+- title: Opal Security raised $23M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: Opal Security
+  parsed_amount: $23M
+  parsed_round: null
+  status: pending
+- title: Offroad AI raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: Offroad AI
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: pending
+- title: Willow raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: Willow
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: pending
+- title: FutureCorp Space Acquisition 1 raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: FutureCorp Space Acquisition 1
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: InterPrivate Investment Partners V raised $175M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: InterPrivate Investment Partners V
+  parsed_amount: $175M
+  parsed_round: null
+  status: pending
+- title: Long Table Growth raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: Long Table Growth
+  parsed_amount: $150M
+  parsed_round: null
+  status: pending
+- title: u003eIt raised $837M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-06'
+  parsed_company: u003eIt
+  parsed_amount: $837M
+  parsed_round: null
+  status: pending
 - title: Lugano’s GR3N closes €15.5 million Series B to build the world’s first microwave-assisted
     PET recycling plant in Spain
   url: https://www.eu-startups.com/2026/06/luganos-gr3n-closes-e15-5m-series-b-to-build-the-worlds-first-microwave-assisted-pet-recycling-plant-in-spain/
@@ -806,96 +878,4 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: Round added to data/startups/rep-ai.md with quotes
-  processed_date: '2026-06-02'
-- title: Modiqo raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Modiqo
-  parsed_amount: $3M
-  parsed_round: null
-  status: processed
-  notes: Created data/startups/modiqo.md
-  processed_date: '2026-06-02'
-- title: Tribeca Strategic Acquisition raised $175M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Tribeca Strategic Acquisition
-  parsed_amount: $175M
-  parsed_round: null
-  status: skipped
-  notes: SPAC vehicle - not VC round
-  processed_date: '2026-06-02'
-- title: NextEnergy Capital of London raised $974M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: NextEnergy Capital of London
-  parsed_amount: $974M
-  parsed_round: null
-  status: skipped
-  notes: PE/infra fund close - not VC round
-  processed_date: '2026-06-02'
-- title: of London raised $974M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: of London
-  parsed_amount: $974M
-  parsed_round: null
-  status: skipped
-  notes: Duplicate of NextEnergy fund close
-  processed_date: '2026-06-02'
-- title: u003e raised $240M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: u003e
-  parsed_amount: $240M
-  parsed_round: Series A
-  status: skipped
-  notes: HTML-encoded duplicate (Focused Energy backlog)
-  processed_date: '2026-06-02'
-- title: u003e of London raised $974M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: u003e of London
-  parsed_amount: $974M
-  parsed_round: null
-  status: skipped
-  notes: HTML-encoded duplicate of NextEnergy
-  processed_date: '2026-06-02'
-- title: Black founders raise highest amount of quarterly funding since 2022, but
-    there’s a catch
-  url: https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/
-  source: techcrunch
-  date_found: '2026-05-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: trend/aggregator article, not a single startup round
-  processed_date: '2026-06-02'
-- title: 'The Weekly Notable Startup Funding Report: 6/1/26'
-  url: https://alleywatch.com/2026/05/the-weekly-notable-startup-funding-report-6-1-26/
-  source: alleywatch
-  date_found: '2026-05-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: weekly aggregator roundup; constituent rounds captured via direct daily
-    processing
-  processed_date: '2026-06-02'
-- title: Navigating The DPI Crunch And Startup Funding
-  url: https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/
-  source: crunchbase
-  date_found: '2026-05-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: trend/analysis article, not a single startup round
   processed_date: '2026-06-02'

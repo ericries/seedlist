@@ -1,0 +1,23 @@
+- name: "Hetz Ventures"
+  type: firm
+  priority: high
+  discovered_from: willow
+  source: "Led Willow $7M seed (June 2026)"
+- name: "Guy Fighel"
+  type: individual
+  firm: "Hetz Ventures"
+  priority: high
+  discovered_from: willow
+  source: "Partner at Hetz Ventures, led Willow seed"
+- name: "Avishai Abrahami"
+  type: individual
+  firm: "Wix"
+  priority: high
+  discovered_from: willow
+  source: "Wix Co-Founder/CEO, angel in Willow seed"
+- name: "Nir Zohar"
+  type: individual
+  firm: "Wix"
+  priority: high
+  discovered_from: willow
+  source: "Wix President, angel in Willow seed"
