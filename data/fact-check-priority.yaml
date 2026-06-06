@@ -151,8 +151,9 @@ priority:
   status: resolved
 - slug: lowercarbon-capital
   type: firm
-  reason: "follow-on Fuse Energy Series B Extension (2026-06-04)"
+  reason: "RESOLVED 2026-06-05 — Fuse Energy Series B Extension €25M (2026-06-04, follow-on) added with 3 primary citations (EU-Startups, BeBeez, TechFundingNews); also added prior Fuse Energy rounds (Series B 2025-12-22 co-led $70M, Seed 2022)"
   added: 2026-06-04
+  status: resolved
 - slug: collaborative-fund
   type: firm
   reason: "co-led Fuse Energy Series B Extension €25M (2026-06-04)"
@@ -193,20 +194,24 @@ priority:
   status: resolved
 - slug: union-square-ventures
   type: firm
-  reason: "joined Flourish AI $500M (2026-06-04); led Board $20M (2026-06-02)"
+  reason: "RESOLVED 2026-06-05 — Board $20M Series A led (2026-06-02) already in portfolio with 3 citations (TechCrunch, Yahoo/BusinessWire, Lerer Hippeau Medium); Suno Series D participation already in portfolio with TechCrunch citation; FLOURISH CLAIM INCORRECT — primary source (SiliconANGLE) confirms only Bezos, GV, Lux Capital, and Catalio participated, not USV. last_verified_investment frontmatter added (Suno 2026-06-03)."
   added: 2026-06-05
+  status: resolved
 - slug: 8vc
   type: firm
-  reason: "joined Flourish AI $500M (2026-06-04)"
+  reason: "UNRESOLVABLE 2026-06-05 — Flourish AI $500M participation claim NOT supported by primary source (SiliconANGLE June 4, 2026), which lists only Bezos, GV, Lux Capital, and Catalio. No 8VC involvement found in 3+ press sources (SiliconANGLE, AlleyWatch, citybiz). Claim appears to be a hallucination — not adding to portfolio."
   added: 2026-06-05
+  status: unresolvable
 - slug: spark-capital
   type: firm
-  reason: "joined Flourish AI $500M (2026-06-04)"
+  reason: "UNRESOLVABLE 2026-06-05 — Flourish AI $500M participation claim NOT supported by primary source (SiliconANGLE June 4, 2026), which lists only Bezos, GV, Lux Capital, and Catalio. No Spark Capital involvement found in 3+ press sources. Claim appears to be a hallucination — not adding to portfolio."
   added: 2026-06-05
+  status: unresolvable
 - slug: nfdg
   type: firm
-  reason: "joined Flourish AI $500M (2026-06-04)"
+  reason: "UNRESOLVABLE 2026-06-05 — Flourish AI $500M participation claim NOT supported by primary source (SiliconANGLE June 4, 2026), which lists only Bezos, GV, Lux Capital, and Catalio. No NFDG involvement found in 3+ press sources. Claim appears to be a hallucination — not adding to portfolio."
   added: 2026-06-05
+  status: unresolvable
 - slug: ribbit-capital
   type: firm
   reason: "co-led Mach Industries Series C $300M at $1.8B val (2026-06-02)"

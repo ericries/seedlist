@@ -106,7 +106,7 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 | AMP Robotics | Early | ~2020 | Energy | [^17] |
 | Seed (health company) | Early | ~2020 | Health | [^17] |
 | Brimstone | Early | ~2021 | Energy | [^8] |
-| Phaidra | Series B | 2025 | AI | [^20] |
+| Phaidra | Series B | 2025-10-01 | AI | [^25] |
 | Speak | Early | ~2021 | AI | [^2] |
 | Loyal | Early | ~2021 | Health | [^17] |
 | Osmo | Early | ~2022 | AI | [^17] |
@@ -118,8 +118,9 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 | Amogy | Early | ~2022 | Energy | [^17] |
 | WeaveGrid | Early | ~2021 | Energy | [^17] |
 | Kula Bio | Early | ~2021 | Energy | [^14] |
-| Acceleron Fusion | Series A | 2024 | Energy | [^20] |
-| MoldCo | Early | 2025 | Health | [^20] |
+| Acceleron Fusion | Series A | 2024-12-03 | Energy | [^26] |
+| MoldCo | Seed | 2025-09-18 | Health | [^27] |
+| Fuse Energy | Series B Extension | 2026-06-04 | Energy | [^28] |
 | Highlight | Early | ~2023 | AI | [^17] |
 | Tagomi (acquired by Coinbase) | Early | ~2018 | Money | [^17] |
 | Era | Seed | 2026 | AI / Consumer Hardware | [^24] |
@@ -178,3 +179,7 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 [^22]: Tracxn, "Whoop Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/whoop/__mG8pDMm_crUH9HckmN4Kw7ZEHu-NiVNU_cywdWMo-aA/funding-and-investors
 [^23]: Business Wire, "Geothermal Startup, Dandelion, Raises $2 Million Seed Round, Led by Collaborative Fund," July 2017, accessed April 2026. https://www.businesswire.com/news/home/20170706005986/en/Geothermal-Startup-Dandelion-Raises-2-Million-Seed-Round-Led-by-Collaborative-Fund
 [^24]: TechCrunch, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/
+[^25]: PRNewswire, "Collaborative Fund Leads Phaidra's $50M+ Series B to Build the AI Factories of the Future," October 1, 2025, accessed June 2026. https://www.prnewswire.com/news-releases/collaborative-fund-leads-phaidras-50m-series-b-to-build-the-ai-factories-of-the-future-302572418.html
+[^26]: PRWeb, "Acceleron Fusion Secures $24M Series A Led by Lowercarbon Capital and Collaborative Fund," December 3, 2024, accessed June 2026. https://www.prweb.com/releases/acceleron-fusion-secures-24m-series-a-led-by-lowercarbon-capital-and-collaborative-fund-to-revolutionize-clean-energy-with-muon-catalyzed-fusion-302319341.html
+[^27]: PRNewswire, "MoldCo Raises $8M to Address Mold & Environmental Toxins Health Crisis," September 18, 2025, accessed June 2026. https://www.prnewswire.com/news-releases/moldco-raises-8m-to-address-mold--environmental-toxins-health-crisis-standardize-mold-detox-as-routine-preventative-care-302560136.html
+[^28]: EU-Startups, "London's Fuse Energy secures €25 million Series B extension as it plans 32,000 sq ft London HQ," June 4, 2026, accessed June 2026. https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ ; BeBeez International, June 4, 2026. https://bebeez.eu/2026/06/04/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ ; Mercom Capital Group, December 22, 2025 (original Series B). https://mercomcapital.com/fuse-energy-secures-70-million-in-series-b-funding/

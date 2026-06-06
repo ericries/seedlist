@@ -18,6 +18,10 @@ slug: union-square-ventures
 stage_focus:
 - seed
 - series-a
+last_verified_investment:
+  date: 2026-06-03
+  company: Suno
+  round: Series D
 status: published
 team:
 - name: Fred Wilson

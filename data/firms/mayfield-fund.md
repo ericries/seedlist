@@ -97,6 +97,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | Gruve | Seed | 2024 | AI/Infrastructure | Active | [^7] |
 | NeuBird | Series D | 2025 | AI/Enterprise | Active | [^4] |
 | Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
+| Scrunch AI | Seed (led, $4M) | 2025-03-04 | AI/GEO/Marketing | Acquired by Sitecore (~$225M, 2026-06-03) | [^17][^18][^19][^20] |
 | Inception Labs | Seed | 2024 | AI/Models | Active | [^7] |
 | ProRata.ai | Seed | 2024 | AI/Media | Active | [^7] |
 | DuploCloud | Seed | 2021 | AI/DevOps | Active | [^7] |
@@ -151,3 +152,11 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^15]: GlobeNewswire, "Aurascape AI Secures $12.8 Million in Oversubscribed Seed Funding to Revolutionize Cybersecurity for the AI Era," August 6, 2024. Accessed May 2026. https://www.globenewswire.com/news-release/2024/08/06/2925087/0/en/Aurascape-AI-Secures-12-8-Million-in-Oversubscribed-Seed-Funding-to-Revolutionize-Cybersecurity-for-the-AI-Era.html — Aurascape AI announced $12.8M oversubscribed seed funding on August 6, 2024, led by Mayfield Fund with participation from Celesta Capital, StepStone Group, AISpace, and Mark McLaughlin (former Chairman and CEO of Palo Alto Networks).
 
 [^16]: Mayfield, "Partnering with Aurascape.ai to Transform Cybersecurity for Generative AI," September 2024. Accessed May 2026. https://www.mayfield.com/partnering-with-aurascape-ai/ — Mayfield blog post announcing its lead investment in Aurascape's $12.8M seed round.
+
+[^17]: TechCrunch, "Scrunch AI is helping companies stand out in AI search," March 4, 2025. Accessed June 2026. https://techcrunch.com/2025/03/04/scrunch-ai-is-helping-companies-stand-out-in-ai-search/ — Scrunch AI announced a $4M seed round led by Mayfield on March 4, 2025, with participation from Clara Shih, TJ Parker, and Bryant Chou. CEO Chris Andrew; company founded fall 2023.
+
+[^18]: Scrunch blog, "Scrunch AI launches out of beta to help more businesses win in the AI Search era," March 2025. Accessed June 2026. https://scrunch.com/blog/2025-03-scrunch-ai-launches-out-of-beta-to-help-more-businesses-win-in-the-ai-search-era — Scrunch's own announcement confirming the $4M Mayfield-led seed and commercial launch.
+
+[^19]: PR Newswire, "Scrunch AI Raises $15 Million Series A to Rebuild the Internet for AI Consumption," July 22, 2025. Accessed June 2026. https://www.prnewswire.com/news-releases/scrunch-ai-raises-15-million-series-a-to-rebuild-the-internet-for-ai-consumption-302510915.html — $15M Series A led by Decibel with Mayfield and Homebrew participating; Scrunch headquartered in Salt Lake City; CEO Chris Andrew.
+
+[^20]: PR Newswire / Sitecore, "Sitecore Acquires Scrunch to Help Brands Influence Discovery and Buying Decisions in the AI-Search Era," June 3, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/sitecore-acquires-scrunch-to-help-brands-influence-discovery-and-buying-decisions-in-the-ai-search-era-302790214.html — Sitecore announced acquisition of Scrunch on June 3, 2026; Bloomberg reported $225M price (Adweek confirms ~$225M, https://www.adweek.com/media/sitecore-snaps-up-geo-startup-scrunch-for-225m/, Scrunch had raised $26M total).
