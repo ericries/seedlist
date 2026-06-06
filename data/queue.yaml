@@ -27406,3 +27406,40 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sekai
+- name: Baring Private Equity Partners India
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: truefan-ai
+  source: Led TrueFan AI $10M Series A (2026-06-04)
+- name: Z3Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: truefan-ai
+  source: Co-led TrueFan AI $10M Series A (2026-06-04)
+- name: 3Lines Venture Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: truefan-ai
+  source: Participated in TrueFan AI $10M Series A (2026-06-04)
+- name: Arul Mehra
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Baring Private Equity Partners India
+  discovered_from: truefan-ai
+  source: Partner at Baring PE India, led TrueFan AI Series A (2026-06-04)
+- name: Nimish Goel
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: TrueFan AI
+  discovered_from: truefan-ai
+  source: Co-Founder & CEO, TrueFan AI
