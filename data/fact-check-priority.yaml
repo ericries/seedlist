@@ -291,3 +291,15 @@ priority:
   reason: "RESOLVED 2026-06-03 — Novellia Series A $18M (2026-06-02, Spark Capital-led, Acrew participated) added to portfolio with 3 primary citations (PR Newswire press release, SiliconANGLE, MedCity News). All 3 sources independently confirm Acrew Capital as a participant alongside Khosla Ventures, Bling Capital, and TMV. Also tightened dates on Alix (2025-07-22) and Zamp (2026-04-28) portfolio rows."
   added: 2026-06-06
   status: resolved
+- slug: insight-partners
+  type: firm
+  reason: "co-led Auger Series A $200M (2026-06-03)"
+  added: 2026-06-07
+- slug: founders-fund
+  type: firm
+  reason: "prior Binti backer; round led by SJF (2026-06)"
+  added: 2026-06-07
+- slug: first-round-capital
+  type: firm
+  reason: "prior Binti backer (2026-06)"
+  added: 2026-06-07
