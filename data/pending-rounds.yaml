@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 6/8/26'
+  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
+  source: alleywatch
+  date_found: '2026-06-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Supabase raised $500M Series F
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -890,13 +898,3 @@ pending_rounds:
   status: processed
   notes: lighttable.md already published with 2026-05-27 Series A $22M led by Innovation
     Endeavors
-- title: MokN raised $15M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: MokN
-  parsed_amount: $15M
-  parsed_round: Series A
-  status: processed
-  notes: Round added to data/startups/mokn.md with quotes
-  processed_date: '2026-06-02'
