@@ -330,3 +330,15 @@ priority:
   type: firm
   reason: "joined Westmag Seed (2026-06-02)"
   added: 2026-06-07
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "co-led DriveNets Series D $410M (2026-06-01)"
+  added: 2026-06-07
+- slug: d1-capital-partners
+  type: firm
+  reason: "joined DriveNets Series D (2026-06-01)"
+  added: 2026-06-07
+- slug: pitango-venture-capital
+  type: firm
+  reason: "joined DriveNets Series D (2026-06-01)"
+  added: 2026-06-07
