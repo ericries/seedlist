@@ -17,14 +17,14 @@ sector_focus:
 - engineering-tools
 check_size: "Angel checks; specific size not publicly disclosed"
 last_verified_investment:
-  date: 2026-04-22
-  company: "Realm"
-  round: "Seed"
+  date: 2026-05-19
+  company: "Viktor"
+  round: "Series A"
 social:
   twitter: "@iamcal"
   linkedin: "linkedin.com/in/iamcal"
 status: published
-last_researched: 2026-05-01
+last_researched: 2026-06-07
 ---
 
 ## Background
@@ -49,7 +49,7 @@ In a long-form interview at buildingslack.com, Henderson described the founding 
 
 ## Inferred Thesis
 
-**Sample size caveat: this profile identifies five primary-source-confirmed angel investments by Henderson within the research window (Brightband, Swarmia, Realm, Dedalus Labs, Pally). Aggregator profiles indicate ~15 total angel investments [^13] [^14], but most are not independently confirmable from contemporaneous press. The analysis below is qualitative.**
+**Sample size caveat: this profile identifies six primary-source-confirmed angel investments by Henderson within the research window (Brightband, Swarmia, Realm, Dedalus Labs, Pally, Viktor). Aggregator profiles indicate ~15–16 total angel investments [^13] [^14], but most are not independently confirmable from contemporaneous press. The analysis below is qualitative.**
 
 The five verified deals cluster tightly around themes consistent with Henderson's operating background:
 
@@ -59,7 +59,7 @@ The five verified deals cluster tightly around themes consistent with Henderson'
 - **International founders alongside US founders.** Swarmia is a Finnish company [^16] [^17]; the broader portfolio mixes US, UK, and European founders, consistent with Henderson's UK origins and aggregator-reported geographic spread [^13].
 - **Co-investor pattern: operator angels, not lead funds.** In the Dedalus Labs seed round, Henderson appeared alongside Thomas Wolf (Hugging Face), Ant Wilson (Supabase), and Thomas Dohmke (former GitHub CEO) [^15]. In Pally's round he appeared alongside Thomas Wolf again, Karim Atiyeh (Ramp), and Andrew Johnstone (Superhuman) [^19]. In Swarmia's Series A he appeared alongside Romain Huët (OpenAI Head of Developer Experience) and Alex Plugaru (Gorgias CTO/co-founder) [^16] [^17]. In Brightband he co-invested with Adrien Treuille (Streamlit co-founder) [^20] [^21]. His most frequent co-investing cohort is other developer-tools and AI-infrastructure operators, not specific venture firms.
 
-**Active investor signal: strong.** Henderson's most recent verified investment is Realm's $4.5M seed round on April 22, 2026 [^18], and he announced three new investments within the prior 12 months. He is investing actively post-Slack, with a clear concentration in developer tools and AI applied to workflow.
+**Active investor signal: strong.** Henderson's most recent verified investment is Viktor's $75M Series A on May 19, 2026 [^23] [^24] — an AI "coworker" agent that lives inside Slack and Teams, alongside Slack co-founder Stewart Butterfield, Daniel Gross, Nat Friedman, and Accel as lead. He announced four new investments within the prior 12 months and is investing actively post-Slack, with a clear concentration in developer tools and AI applied to workflow.
 
 ## Portfolio
 
@@ -70,6 +70,7 @@ The five verified deals cluster tightly around themes consistent with Henderson'
 | Dedalus Labs | 2025 | Seed | [^15] |
 | Pally | 2025 | Seed | [^19] |
 | Realm | 2026-04-22 | Seed | [^18] |
+| Viktor | 2026-05-19 | Series A | [^23] [^24] |
 
 This table represents five primary-source-confirmed angel investments. Aggregator profiles list approximately 15 total investments by Henderson [^13] [^14] but most additional company names are not publicly listed or are gated behind paywalls; only the five rows above could be confirmed against contemporaneous press or company announcements within the research window. Future research may extend this list.
 
@@ -124,6 +125,8 @@ No independently sourced founder testimonials specifically about working with Ca
 - **Co-investor: Romain Huët (OpenAI Head of Developer Experience)** — co-invested in Swarmia Series A [^16] [^17]
 - **Co-investor: Alex Plugaru (Gorgias co-founder/CTO)** — co-invested in Swarmia Series A [^16] [^17]
 - **Co-investor: Alex Bouaziz (Deel co-founder)** — co-invested in Realm seed, April 2026 [^18]
+- **Co-investor: Stewart Butterfield (Slack co-founder)** — Henderson's longtime collaborator at Flickr/Tiny Speck/Slack; co-invested in Viktor Series A, May 2026 [^23] [^24]
+- **Co-investor: Daniel Gross, Nat Friedman** — co-invested in Viktor Series A, May 2026 [^23] [^24]
 - **Conference speaker** — featured speaker at Slush 2024 (Helsinki) on "Workplace Productivity & Organizational Alignment" [^6] [^22]
 - **Recognition** — 2019 World Economic Forum Young Global Leader; Fortune "40 under 40" [^8]
 - **Education: Birmingham City University** — BSc in software engineering, 2002 [^1]
@@ -152,3 +155,5 @@ No independently sourced founder testimonials specifically about working with Ca
 [^20]: Brightband, "Introducing Brightband," company news, September 19, 2024, accessed May 2026. https://www.brightband.com/company/news/introducing-brightband
 [^21]: TechCrunch, "Brightband sees a bright (and open source) future for AI-powered weather forecasting," September 19, 2024, accessed May 2026. https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/
 [^22]: Slush 2024, "Cal Henderson: Co-founder @Slack, Workplace Productivity & Organizational Alignment," YouTube, published November 29, 2024, accessed May 2026. https://www.youtube.com/watch?v=xErQcjk4WwI
+[^23]: Fortune, "Exclusive: AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams," May 19, 2026, accessed June 2026. https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive/
+[^24]: Wilson Sonsini, "Firm Advises Viktor on $75 Million Series A," May 2026, accessed June 2026. https://www.wsgr.com/en/insights/firm-advises-viktor-on-dollar75-million-series-a.html

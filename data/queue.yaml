@@ -27586,3 +27586,11 @@ queue:
   added: '2026-03-17'
   discovered_from: daloopa
   source: Participated in Daloopa Series C (2026-05-28)
+- name: Victor Riparbelli
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Synthesia
+  discovered_from: cal-henderson
+  source: co-investor with Cal Henderson on Viktor Series A; Synthesia CEO
