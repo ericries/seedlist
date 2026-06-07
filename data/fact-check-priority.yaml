@@ -307,3 +307,23 @@ priority:
   reason: "RESOLVED 2026-06-03 — First Round VERIFIED as Binti backer via 3+ independent primary sources: (1) First Round's own The Review confirms First Round LED Binti's $2M seed round in 2015 (review.firstround.com); (2) Binti's official About page (binti.com/about/) lists First Round Capital among top investors alongside Founders Fund, Kapor Capital, Michael Dell, Lachy Groom; (3) ImpactAlpha article on SJF Ventures' June 2026 $6M round names First Round Capital as a prior backer. Crunchbase corroborates 2015-03-09 seed date (~$2.7M). Added Binti seed row (Seed led, 2015-03-09) to portfolio table with citations [^21][^22][^23]. Also tightened Actively (Series B) and Manifest OS (Series A) dates from year-only to 2026-04-28 per existing citation source dates."
   added: 2026-06-07
   status: resolved
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Westmag $11M Seed (2026-06-02)"
+  added: 2026-06-07
+- slug: founders-fund
+  type: firm
+  reason: "joined Westmag Seed (2026-06-02)"
+  added: 2026-06-07
+- slug: lux-capital
+  type: firm
+  reason: "joined Westmag Seed (2026-06-02)"
+  added: 2026-06-07
+- slug: nfdg
+  type: firm
+  reason: "joined Westmag Seed (2026-06-02)"
+  added: 2026-06-07
+- slug: menlo-ventures
+  type: firm
+  reason: "joined Westmag Seed (2026-06-02)"
+  added: 2026-06-07
