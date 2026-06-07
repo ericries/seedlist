@@ -1,7 +1,7 @@
 ---
 founded: 2019
 fund_size: $5.75B total across three funds
-last_researched: 2026-05-15
+last_researched: 2026-06-07
 location: San Francisco, CA
 name: BOND
 sector_focus:
@@ -102,8 +102,9 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 ~unknown| Plaid | Growth | — | Fintech | Active | [^3] |
 | Sentry | Series D (participated, $60M; later co-led $90M Series E on 2022-05-04) | 2021-02-18 | Developer Tools | Active (~$3B+ valuation) | [^6][^22][^23][^24] |
 ~unknown| Seso | Growth | — | Workforce/AgTech | Active | [^3] |
+| Suno | Series D (lead, $400M at $5.4B val) | 2026-06-03 | AI / Generative Music | Active | [^25][^26][^27] |
 
-*This table represents approximately 14% of BOND's 130 total investments [^8]. Many investments lack publicly confirmed investment years. Prior investments made through Kleiner Perkins Digital Growth Fund (including Airbnb, DocuSign, Instacart, Meta, Pinterest, Snap, Spotify) are not included as they predate BOND's formation.*
+*This table represents approximately 15% of BOND's 130 total investments [^8]. Many investments lack publicly confirmed investment years. Prior investments made through Kleiner Perkins Digital Growth Fund (including Airbnb, DocuSign, Instacart, Meta, Pinterest, Snap, Spotify) are not included as they predate BOND's formation.*
 
 ## In Their Own Words
 
@@ -153,3 +154,9 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^23]: TechCrunch, "App monitoring platform Sentry gets $60 million Series D at $1 billion valuation," February 18, 2021. Accessed May 2026. https://techcrunch.com/2021/02/18/app-monitoring-platform-sentry-gets-60-million-series-d-at-1-billion-valuation/ — Independent contemporaneous press confirmation of $60M Series D on February 18, 2021, led by Accel, with BOND joining as new investor.
 
 [^24]: Crunchbase News, "Sentry Triples Unicorn Valuation With New $90M Raise," May 4, 2022. Accessed May 2026. https://news.crunchbase.com/enterprise/sentry-unicorn-funding-bond-accel/ — Confirms BOND's continued participation: Sentry's $90M Series E on May 4, 2022 was co-led by BOND and Accel at a valuation of more than $3 billion, with NEA (existing) and K5 Global (new) participating.
+
+[^25]: TechCrunch, "Still facing copyright lawsuits, AI music generator Suno raises another $400M," June 3, 2026. Accessed June 2026. https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/ — Primary press source confirming June 3, 2026 announcement of $400M Series D at $5.4B valuation led by Bond Capital with IVP, Forerunner, Union Square Ventures, Alkeon, Quiet, Matrix, Lightspeed, Menlo Ventures, and Schroders Capital participating.
+
+[^26]: Variety, "AI Music Company Suno Raises $400 Million at $5.4 Billion Valuation," June 3, 2026. Accessed June 2026. https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/ — Independent contemporaneous confirmation; CEO Mikey Shulman quote: "This funding will help us accelerate what matters most: helping more people express themselves through music."
+
+[^27]: SiliconANGLE, "Generative AI music startup Suno AI raises over $400M at a $5.4B valuation," June 3, 2026. Accessed June 2026. https://siliconangle.com/2026/06/03/generative-ai-music-startup-suno-ai-raises-400m-5-4b-valuation/ — Third independent primary source confirming Bond Capital-led $400M Series D at $5.4B valuation.

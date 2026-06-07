@@ -86,8 +86,9 @@ priority:
   added: 2026-06-03
 - slug: bond-capital
   type: firm
-  reason: "led Suno Series D $400M at $5.4B val (2026-06-03)"
+  reason: "RESOLVED 2026-06-07 — Suno Series D $400M at $5.4B val (2026-06-03, Bond-led) added to bond.md portfolio with 3 primary citations (TechCrunch, Variety, SiliconANGLE); participants confirmed: IVP, Forerunner, USV, Alkeon, Quiet, Matrix, Lightspeed, Menlo, Schroders. Suno startup frontmatter now references bond slug for the Series D round."
   added: 2026-06-03
+  status: resolved
 - slug: advent
   type: firm
   reason: "co-led Coralogix Series F $200M at $1.6B val (2026-06-03)"

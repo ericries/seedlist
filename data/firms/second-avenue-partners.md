@@ -90,7 +90,7 @@ Based on 22 verified portfolio investments, the following patterns emerge. Note:
 | Knock | Early Stage | ~2015 | PropTech / CRM | Acquired by RealPage (2022) [^27] |
 | Uplevel | Seed | ~2020 | Engineering Intelligence Software | Active [^28] |
 | FitOn | Series B | 2021 | Consumer Fitness App | Active [^29] |
-| Iota Software | Series A | 2024 | Enterprise Software | Active [^11] |
+| IOTA Software | Series A2 (existing investor) | 2024-10-31 | Industrial Software / Energy | Active; $10.4M Series A2 led by Altira Group [^33][^34][^35] |
 | Bocada | Early Stage | ~2001 | Enterprise Software / Backup | Active [^2] |
 | Coolspotters | Early Stage | ~2008 | Consumer Internet | Active [^4] |
 | Fantasy Moguls | Early Stage | ~2008 | Sports / Gaming | Active [^4][^9] |
@@ -149,3 +149,6 @@ No independently sourced founder testimonials found. The firm's website and pres
 [^30]: Singju Post, "Beware, Fellow Plutocrats, The Pitchforks Are Coming by Nick Hanauer (Transcript)," TED Talk, 2014. https://singjupost.com/beware-fellow-plutocrats-the-pitchforks-are-coming-by-nick-hanauer-transcript/
 [^31]: Yahoo Finance / BusinessWire, "WISErg Announces $11 Million Series B Funding," March 24, 2015. https://finance.yahoo.com/news/wiserg-announces-11-million-series-140000278.html
 [^32]: Wikipedia, "RealSelf," accessed May 2026. https://en.wikipedia.org/wiki/RealSelf
+[^33]: GlobeNewswire, "IOTA Software Inc. Announces $10.4 Million Series A2 Funding Led by Altira Group," October 31, 2024. https://www.globenewswire.com/news-release/2024/10/31/2972870/0/en/IOTA-Software-Inc-Announces-10-4-Million-Series-A2-Funding-Led-by-Altira-Group.html
+[^34]: IOTA Software, "IOTA Software Inc. Announces $10.4 Million Series A2 Funding Led by Altira Group," October 31, 2024. https://www.iotasoft.com/post/iota-software-inc-announces-10-4-million-series-a2-funding-led-by-altira-group
+[^35]: IOTA Software, "Investors," accessed June 2026. https://www.iotasoft.com/about/investors

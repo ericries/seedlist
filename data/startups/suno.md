@@ -1,5 +1,9 @@
 ---
 firms:
+- date: '2026-06-03'
+  round: Series D (lead, $400M at $5.4B val)
+  slug: bond
+  year: 2026
 - round: Early-stage
   slug: inspired-capital
   year: 2023
