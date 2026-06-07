@@ -27572,3 +27572,17 @@ queue:
   discovered_from: brynn-putnam
   source: Investor in Intus Care second seed (Apr 2022) — Black healthcare-focused
     fund
+- name: Brighton Park Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daloopa
+  source: Led Daloopa Series C (2026-05-28)
+- name: Squarepoint Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daloopa
+  source: Participated in Daloopa Series C (2026-05-28)
