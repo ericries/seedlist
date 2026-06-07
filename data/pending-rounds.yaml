@@ -27,7 +27,13 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: aggregate roundup; most companies (Ramp, Cyera, AlphaSense, Mach, Supabase,
+    Suno, Helion, Town, Scotch, Layup Parts, Forage, Generalist AI, Findigs, Sekai,
+    Terra AI, Auger, Plot, Subtle Medical, Novellia, Honeycomb Insurance, Binti, Axiom
+    Space, Highland Electric Fleets, Impulse Space) already in feed or in skip list;
+    created veritas-aortic-solutions startup profile for the $12M Seed (2026-06-01,
+    Costa Mesa medical devices)
 - title: Supabase raised $500M Series F
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
