@@ -171,6 +171,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Runway | Early | ~2022 | AI & Intelligent Apps | Active [^4] |
 | Temporal | Seed | 2020 | Developer Platforms & Tools | Active [^23] |
 | Ridge AI | Pre-Seed | 2026 | AI & Intelligent Apps | Active [^30] |
+| Gray Swan | Series A | 2026-05-28 | Security (AI Safety) | Active ($40M Series A at $200M val, co-led with Wing Venture Capital; Vivek Ramaswami quoted; Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, Magarac Venture Partners participated) [^72][^73][^74] |
 
 ## In Their Own Words
 
@@ -282,3 +283,6 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^69]: Entire press release, "Former GitHub CEO Thomas Dohmke launches Entire with a landmark $60 million seed round to build the world's next developer platform for the era of AI," February 10, 2026, accessed May 2026. https://entire.io/news/former-github-ceo-thomas-dohmke-raises-60-million-seed-round
 [^70]: TechCrunch, "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation," February 10, 2026, accessed May 2026. https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/
 [^71]: The AI Insider, "Entire Secures $60M Seed Round to Build Infrastructure for AI-Generated Code Collaboration," February 13, 2026, accessed May 2026. https://theaiinsider.tech/2026/02/13/entire-secures-60m-seed-round-to-build-infrastructure-for-ai-generated-code-collaboration/
+[^72]: Gray Swan, "Gray Swan Announces Series A," May 28, 2026, accessed June 2026. https://www.grayswan.ai/news/gray-swan-announces-series-a
+[^73]: NatLawReview / EIN Press, "Gray Swan, The AI Security Company Trusted by Every Major Frontier Lab, Raises $40M Series A," May 28, 2026, accessed June 2026. https://natlawreview.com/press-releases/gray-swan-ai-security-company-trusted-every-major-frontier-lab-raises-40m
+[^74]: Technical.ly, "AI security startup Gray Swan raises $40M Series A with plans to grow its team," May 28, 2026, accessed June 2026. https://technical.ly/entrepreneurship/gray-swan-ai-security-40m-series-a/

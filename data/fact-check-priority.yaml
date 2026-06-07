@@ -21,8 +21,9 @@ priority:
   added: 2026-05-30
 - slug: madrona
   type: firm
-  reason: "co-led Gray Swan $40M Series A (2026-05-28)"
+  reason: "RESOLVED 2026-06-06 — Gray Swan $40M Series A at $200M val (2026-05-28, co-led with Wing Venture Capital; Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, Magarac Venture Partners participated) added to madrona-venture-group.md portfolio with 3 primary citations (grayswan.ai, NatLawReview/EIN, Technical.ly). Vivek Ramaswami was Madrona spokesperson. Gray Swan startup profile firms[] frontmatter linked to madrona-venture-group."
   added: 2026-05-30
+  status: resolved
 - slug: innovation-endeavors
   type: firm
   reason: "led LightTable $22M Series A (2026-05-27)"
@@ -277,13 +278,16 @@ priority:
   status: resolved
 - slug: spark-capital
   type: firm
-  reason: "led Novellia Series A $18M (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Novellia Series A $18M (2026-06-02, lead) added to portfolio with 3 primary citations (PR Newswire press release, SiliconANGLE, MedCity News). All 3 sources independently confirm Spark Capital led with participation from Khosla Ventures, Acrew Capital, Bling Capital, TMV. Alex Finkelstein (Spark GP) quoted. Co-founders: Shashi Shankar (CEO), Elliot Katz (CTO). NY-based. Recent 10 portfolio entries (2024+) all have full YYYY-MM-DD dates — no vague facts found."
   added: 2026-06-06
+  status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "joined Novellia Series A (2026-06-02)"
+  reason: "RESOLVED 2026-06-06 — Novellia Series A $18M (2026-06-02, Spark Capital led; Khosla, Acrew, Bling, TMV participated) verified via 3 independent primary sources (PR Newswire press release, SiliconANGLE, MedCity News). Row added to portfolio table with [^48] citation. Recent 10 portfolio entries (Nov 2024+) all have full YYYY-MM-DD dates — no vague facts found in recent entries."
   added: 2026-06-06
+  status: resolved
 - slug: acrew-capital
   type: firm
-  reason: "joined Novellia Series A (2026-06-02)"
+  reason: "RESOLVED 2026-06-03 — Novellia Series A $18M (2026-06-02, Spark Capital-led, Acrew participated) added to portfolio with 3 primary citations (PR Newswire press release, SiliconANGLE, MedCity News). All 3 sources independently confirm Acrew Capital as a participant alongside Khosla Ventures, Bling Capital, and TMV. Also tightened dates on Alix (2025-07-22) and Zamp (2026-04-28) portfolio rows."
   added: 2026-06-06
+  status: resolved

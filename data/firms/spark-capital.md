@@ -148,6 +148,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Standard Intelligence | Series A (co-led with Sequoia) | 2026-04-30 | AI / Foundation Models | [^40][^41][^42] |
 | Profluent | Series B (existing investor) | 2025-11-19 | AI / Programmable Biology | [^43][^44] |
 | RadixArk | Seed (co-led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^45][^46][^47] |
+| Novellia | Series A (lead, $18M; Khosla, Acrew, Bling, TMV participated) | 2026-06-02 | Healthcare / Real-World Data | [^52][^53][^54] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -231,3 +232,9 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^50]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms Spark Capital participated in Mercury's Series D on May 20, 2026 at $5.2B valuation; TCV led with existing investors a16z, Coatue, CRV, Sapphire Ventures, and Sequoia Capital also participating.
 
 [^51]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026, accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Confirms Spark Capital participated in Cyera's $300M round led by Evolution Equity Partners at $12B post-money valuation, alongside Georgian, Greenoaks, Lightspeed, Sequoia, Sapphire, Redpoint, Cyberstarts, Coatue, and Accel. Cross-referenced with TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ and Calcalist Tech, "Cyera raises $300 million at $12 billion valuation," June 2, 2026. https://www.calcalistech.com/ctechnews/article/w1j2xejw4
+
+[^52]: PR Newswire, "Novellia Secures $18M Series A to Scale Patient-Powered Data Platform, Solving Pharma's $50B Problem," June 2, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/novellia-secures-18m-series-a-to-scale-patient-powered-data-platform-solving-pharmas-50b-problem-302788565.html — Primary announcement confirming Spark Capital led the $18M Series A with participation from Khosla Ventures, Acrew Capital, Bling Capital, and TMV. Alex Finkelstein, General Partner at Spark Capital, quoted. Co-founder/CEO Shashi Shankar.
+
+[^53]: SiliconANGLE, "Novellia raises $18M to scale patient-controlled medical data platform," June 2, 2026, accessed June 2026. https://siliconangle.com/2026/06/02/novellia-raises-18m-scale-patient-controlled-medical-data-platform/ — Confirms Spark Capital lead, participants Khosla Ventures, Acrew Capital, Bling Capital, TMV. New York-based. Alex Finkelstein quoted.
+
+[^54]: MedCity News, "Novellia Snags $18M for Its Real-World Data Platform," June 3, 2026, accessed June 2026. https://medcitynews.com/2026/06/novellia-data-healthcare-pharma/ — Confirms Spark-led $18M Series A with Khosla Ventures, TMV, Acrew Capital, Bling Capital. Co-founders Shashi Shankar (CEO) and Elliot Katz (CTO).

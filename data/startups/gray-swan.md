@@ -16,7 +16,11 @@ sector:
 stage_latest: Series A
 total_raised: $40M+
 investors: []
-firms: []
+firms:
+- slug: madrona-venture-group
+  round: series-a
+  year: 2026
+  date: 2026-05-28
 founders:
 - name: Matt Fredrikson
   role: Co-Founder & CEO

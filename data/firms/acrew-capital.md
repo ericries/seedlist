@@ -116,7 +116,7 @@ The following table includes investments made both through Acrew Capital funds (
 |---------|-------|------|--------|--------|--------|
 | Aembit | Series A (led, $25M) | 2024-09-12 | Data & Security | Active | [^15] |
 | Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
-| Alix | Series A (led, $20M) | 2025 | Fintech / Estate Settlement | Active | [^23][^24] |
+| Alix | Series A (led, $20M) | 2025-07-22 | Fintech / Estate Settlement | Active | [^23][^24] |
 | AltoIRA | Series A (participated) | 2021 | Fintech | Active | [^12][^26] |
 | Amino | Early | ~2019 | Health | Active | [^12] |
 | Aqua Security | Growth | 2021 | Data & Security | Active | [^12] |
@@ -182,7 +182,8 @@ The following table includes investments made both through Acrew Capital funds (
 | Trustar | Early | ~2019 | Data & Security | Active | [^12] |
 | Vanta | Growth | ~2022 | Data & Security | Active | [^12] |
 | Writer | Early–Growth | ~2021 | Data & Security / AI | Active (Unicorn 2024) | [^13] |
-| Zamp | Growth ($30M, led) | 2026 | Fintech / Sales Tax | Active | [^25] |
+| Zamp | Growth ($30M, led) | 2026-04-28 | Fintech / Sales Tax | Active | [^25] |
+| Novellia | Series A (participated, $18M) | 2026-06-02 | Health / Real-World Data | Active | [^28][^29][^30] |
 
 Note: Years marked with "~" are approximate, based on founding year or estimated investment timing. Many investments originated at Aspect Ventures (pre-2019) and were continued at Acrew. This table represents approximately 46% of Tracxn's reported 142 investments; the remainder could not be independently verified from public sources.
 
@@ -247,3 +248,9 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^26]: PR Newswire, "Alto Closes $17 Million Series A Funding Round to Accelerate Development of Next-Generation Alternative Investment IRA Platform," April 20, 2021. https://www.prnewswire.com/news-releases/alto-closes-17-million-series-a-funding-round-to-accelerate-development-of-next-generation-alternative-investment-ira-platform-301272753.html — Series A led by Unusual Ventures with Acrew Capital as participating existing investor.
 
 [^27]: CoinDesk, "Bitcoin Self-Custody Company Casa Raises $21M," May 10, 2022. https://www.coindesk.com/business/2022/05/10/bitcoin-self-custody-company-casa-raises-21m-series-a — Series A led by Acrew Capital (round closed December 2021, announced May 2022) with Positive Sum, Avon Ventures, Tioga Capital, Stillmark, Castle Island Ventures, Lerer Hippeau, Naval Ravikant, Scott Belsky, and others.
+
+[^28]: PR Newswire, "Novellia Secures $18M Series A to Scale Patient-Powered Data Platform, Solving Pharma's $50B Problem," June 2, 2026. https://www.prnewswire.com/news-releases/novellia-secures-18m-series-a-to-scale-patient-powered-data-platform-solving-pharmas-50b-problem-302788565.html — Series A led by Spark Capital with participation from Khosla Ventures, Acrew Capital, Bling Capital, and TMV.
+
+[^29]: SiliconANGLE, "Novellia raises $18M to scale patient-controlled medical data platform," June 2, 2026. https://siliconangle.com/2026/06/02/novellia-raises-18m-scale-patient-controlled-medical-data-platform/ — Confirms Spark Capital lead with Khosla Ventures, Acrew Capital, Bling Capital, TMV participating.
+
+[^30]: MedCity News, "Novellia Snags $18M for Its Real-World Data Platform," June 2026. https://medcitynews.com/2026/06/novellia-data-healthcare-pharma/ — Confirms Acrew Capital among participants alongside Khosla Ventures, TMV, Bling Capital; Spark Capital led.
