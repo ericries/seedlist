@@ -132,7 +132,7 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | Ethos Space | Seed | ~2022 | Aerospace | [^12] |
 | Blockstream | Seed | 2014 | Blockchain / Infrastructure | [^12] |
 | Swave Photonics | Seed | 2023 | Semiconductors | [^12] |
-| Corintis | Series A | 2025 | Infrastructure | [^6] |
+| Corintis | Series A | 2025-09-25 | Infrastructure | [^6][^17][^18][^19] |
 | Wish | Seed | 2011 | E-Commerce | [^12][^13] |
 | OpenCare | Seed | ~2015 | Healthcare Marketplace | [^12] |
 | 7bridges | Seed | ~2017 | Logistics / AI | [^12] |
@@ -193,3 +193,6 @@ No independently sourced founder testimonials found. The firm's website and publ
 [^14]: GeekWire, "Seattle's newest unicorn: Rec Room raises $100M as social gaming popularity fuels big growth," 2021. https://www.geekwire.com/2021/seattles-newest-unicorn-rec-room-raises-100m-social-gaming-popularity-fuels-big-growth/
 [^15]: VIP Graphics, "Supernormal pitch deck: $10M for AI meeting notes," accessed March 2026. https://vip.graphics/supernormal-pitch-deck/
 [^16]: GeekWire, "Seattle startup Griptape acquired by creative software firm Foundry," 2026. https://www.geekwire.com/2026/seattle-startup-griptape-acquired-by-creative-software-firm-foundry/
+[^17]: GlobeNewswire, "Corintis raises $24M to target the next AI bottleneck, and collaborates with Microsoft for chip cooling breakthrough," September 25, 2025. Accessed June 2026. https://www.globenewswire.com/news-release/2025/09/25/3156314/0/en/Corintis-raises-24M-to-target-the-next-AI-bottleneck-and-collaborates-with-Microsoft-for-chip-cooling-breakthrough.html
+[^18]: Axios Pro Rata, "Exclusive: Chip cooling startup Corintis raises a $24M Series A," September 25, 2025. Accessed June 2026. https://www.axios.com/pro/enterprise-software-deals/2025/09/25/chip-cooling-startup-corintis-24-million-series-a
+[^19]: GGBa Switzerland, "Corintis raises USD 24 million to accelerate chip cooling innovation," September 29, 2025. Accessed June 2026. https://ggba.swiss/en/corintis-raises-usd-24-million-to-accelerate-chip-cooling-innovation/

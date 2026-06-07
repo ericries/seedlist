@@ -1701,7 +1701,8 @@ vague_facts:
   line: '| Corintis | Series A | 2025 | Infrastructure | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved_note: "Corintis Series A confirmed 2025-09-25 via GlobeNewswire, Axios Pro Rata, GGBa; added 3 citations to acequia-capital profile"
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Wish
@@ -162759,7 +162760,8 @@ vague_facts:
   line: '| Corintis | Series A | 2025 | Infrastructure | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  resolved_note: "Resolved to 2025-09-25 via GlobeNewswire/Axios/GGBa"
+  status: resolved
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Muon Space

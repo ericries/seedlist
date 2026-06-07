@@ -262,12 +262,14 @@ priority:
   status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "led Terra AI $20M Series A (2026-06-03)"
+  reason: "RESOLVED 2026-06-06 — Terra AI Series A $20M (2026-06-03) verified via PR Newswire press release; Rajesh Swaminathan was Khosla partner spokesperson; row added to portfolio table with [^47] citation"
   added: 2026-06-06
+  status: resolved
 - slug: vinod-khosla
   type: investor
-  reason: "led Terra AI Series A via Khosla (2026-06-03)"
+  reason: "RESOLVED 2026-06-06 — Vinod Khosla was NOT personally named in Terra AI Series A; only Rajesh Swaminathan (Khosla Ventures Partner) quoted in PR Newswire press release. No claim added to vinod-khosla.md profile (correctly omitted)."
   added: 2026-06-06
+  status: resolved
 - slug: gv
   type: firm
   reason: "RESOLVED 2026-06-06 — Contraline Series B $92.5M (2026-06-02, co-led by BVF Partners and RA Capital Management; GV participated with Lumira Ventures and Invus) added to portfolio with 3 primary citations (BusinessWire Contraline press release, Lumira Ventures own announcement, BioSpace). Also resolved vague date on Harvey: corrected from 'Growth ~2024' to 'Series C (led, $100M) 2024-07-23' with Harvey blog + CNBC ($11B val 2026-03-25) citations."

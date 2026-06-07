@@ -84,10 +84,10 @@ Based on 28 verified portfolio investments from publicly available sources:
 | Anduril | Early | — | Defense | [^1] |
 | Anchorage Digital | Early | — | Crypto/Fintech | [^12] |
 | Aven | Seed | — | Fintech | [^1] |
-| Bland AI | Series A | 2024 | AI | [^13] |
+| Bland AI | Series A | 2024-08-28 | AI | [^13][^18] |
 | Blend | Early | — | Fintech | [^12] |
 | Bolt Threads | Early | — | Biotech | [^12] |
-| Brex | Series B | 2018 | Fintech | [^1][^3] |
+| Brex | Series B | 2018-06-19 | Fintech | [^1][^3][^19] |
 | Capchase | Early | — | Fintech | [^1] |
 | ClearTax | Early | — | Fintech | [^12] |
 | Clipboard Health | Early | — | Healthcare | [^2] |
@@ -95,7 +95,7 @@ Based on 28 verified portfolio investments from publicly available sources:
 | Coinbase | Early | — | Crypto | [^12] |
 | Collective Health | Early | — | Healthcare | [^12] |
 | Color | Early | — | Healthcare/Genomics | [^12] |
-| Empora Title | Series A | 2021 | Fintech/Real Estate | [^14] |
+| Empora Title | Series A | 2021-12-01 | Fintech/Real Estate | [^14][^20] |
 | Folio | Series A | 2025 | Fintech/Hospitality | [^15] |
 | Loft | Series A | 2018 | Real Estate/Fintech | [^1][^16] |
 | Maihem AI | Early | — | AI | [^1] |
@@ -113,7 +113,7 @@ Based on 28 verified portfolio investments from publicly available sources:
 | Synthego | Early | — | Biotech/Genomics | [^12] |
 | Uber | Early | — | Transportation | [^1][^7] |
 | Unity | Early | — | Gaming/Dev Tools | [^7] |
-| Virta Health | Series B | 2018 | Healthcare | [^17] |
+| Virta Health | Series B | 2018-04-04 | Healthcare | [^17][^21] |
 | Wise (TransferWise) | Early | — | Fintech | [^3][^12] |
 | Workstream | Early | — | HR/Marketplace | [^12] |
 | Zymergen | Early | — | Biotech | [^12] |
@@ -159,3 +159,7 @@ Note: These three testimonials are sourced from the SciFi VC website and therefo
 [^15]: Fintech Global, "Folio raises $14m to boost AI spend tools for hotels," July 2025. https://fintech.global/2025/07/18/folio-raises-14m-to-boost-ai-spend-tools-for-hotels/
 [^16]: TechCrunch, "How two-year-old Loft nabbed $175M led by Andreessen Horowitz," January 2020. https://techcrunch.com/2020/01/03/how-two-year-old-loft-nabbed-175m-led-by-andreessen-horowitz/
 [^17]: Virta Health blog, "With $45 million of new capital, Virta is ready to accelerate its growth," April 2018. https://www.virtahealth.com/blog/with-45-million-of-new-capital-virta-is-ready-to-accelerate-its-growth
+[^18]: Bland AI on X, "Today, marks a major milestone for us. We've closed our series A...," August 28, 2024. https://x.com/usebland/status/1828882563588612233
+[^19]: Fortune, "Meet Y Combinator's Favorite Credit Card Startup—Which Just Raised $50M from PayPal Founders," June 19, 2018. https://fortune.com/crypto/2018/06/19/paypal-peter-thiel-y-combinator-brex/
+[^20]: Empora Title blog, "Funding of $24.6 million to reinvent the title industry for real estate investors," December 1, 2021. https://www.emporatitle.com/blog/empora-title-raises-series-a-bringing-total-funding-to-24-6-million
+[^21]: Virta Health press release, "Virta Health Raises $45 Million to Expand Treatment for Type 2 Diabetes Reversal," April 4, 2018. https://www.virtahealth.com/press/virta-health-raises-45-million-to-expand-treatment-for-type-2-diabetes-reversal
