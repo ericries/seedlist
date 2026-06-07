@@ -120,6 +120,7 @@ Based on Menlo Ventures' verified portfolio data:
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Private [^13] |
 | Nectar Social | Series A (led, Anthology Fund) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^20] |
 | OpenRouter | Series B (follow-on, $113M at $1.3B val; CapitalG led) | 2026-05-26 | AI / LLM Infrastructure | Private [^21] |
+| Westmag | Seed (participated, $11M; Andreessen Horowitz led) | 2026-06-02 | Hardware / Robotics / Drones | Private [^22][^23][^24][^25] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -158,3 +159,11 @@ No independently sourced founder testimonials found.
 [^20]: Menlo Ventures, "Nectar Social: Rewriting the Modern Marketing Playbook," May 14, 2026. Accessed May 2026. https://menlovc.com/perspective/nectar-social-rewriting-the-modern-marketing-playbook/ — $30M Series A announced May 14, 2026, led by Menlo Ventures and its Anthology Fund (created with Anthropic), with True Ventures, GV, and Kinship Ventures participating. Cross-referenced with Business Wire press release, https://www.businesswire.com/news/home/20260513604281/en/Nectar-Social-Raises-$30M-Series-A-to-Build-the-Agentic-Operating-System-for-Modern-Marketing.
 
 [^21]: Axios Pro Rata, "OpenRouter raises $113M at $1.3B valuation led by CapitalG," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Menlo Ventures participated as follow-on investor in OpenRouter's $113M Series B on May 26, 2026; CapitalG led; Andreessen Horowitz also participated.
+
+[^22]: BusinessWire, "Westmag Emerges With $11 Million Seed Led By Andreessen Horowitz to Build America's Drone Motor and Robot Actuator Industry," June 2, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260602552448/en/Westmag-Emerges-With-$11-Million-Seed-Led-By-Andreessen-Horowitz-to-Build-Americas-Drone-Motor-and-Robot-Actuator-Industry — Primary press release; names Menlo Ventures among participating investors alongside Founders Fund, Lux Capital, and NFDG.
+
+[^23]: Andreessen Horowitz, "Investing in Westmag," by Erin Price-Wright and Oliver Hsu, June 2, 2026. Accessed June 2026. https://a16z.com/announcement/investing-in-westmag/ — a16z's own announcement explicitly names Lux Capital, Menlo Ventures, and Founders Fund as co-investors in Westmag's $11M seed round.
+
+[^24]: DroneXL, "Westmag Raises $11M To Build American Drone Motors, Betting Scale Beats China On Price," June 3, 2026. Accessed June 2026. https://dronexl.co/2026/06/03/westmag-11m-american-drone-motors-fcc-ban/ — Independent press confirmation: "The round was led by Andreessen Horowitz, with Founders Fund, Lux Capital, NFDG, and Menlo Ventures participating."
+
+[^25]: The AI Insider, "Westmag Emerges From Stealth With $11M in Seed Funding for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Independent press confirmation of Menlo Ventures participation alongside Founders Fund, Lux Capital, and NFDG.

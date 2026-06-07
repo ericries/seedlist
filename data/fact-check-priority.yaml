@@ -324,16 +324,19 @@ priority:
   status: resolved
 - slug: nfdg
   type: firm
-  reason: "joined Westmag Seed (2026-06-02)"
+  reason: "RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, Andreessen Horowitz led; NFDG participated alongside Founders Fund, Lux Capital, Menlo Ventures) added to portfolio with 3 independent primary citations (BusinessWire via Yahoo Finance [^8], DroneXL [^9], The AI Insider [^10]). All 3 sources independently confirm NFDG participation; a16z's own announcement (a16z.com/announcement/investing-in-westmag) names only itself but corroborates round/co-founders. Note added that Friedman/Gross joined Meta in mid-2025 but NFDG is investor of record. Recent portfolio entries are ~2023/2024 (pre-NFDG-launch deployment era, year-only is consistent with fund's known launch timeline); did not retroactively backfill those without primary source dates."
   added: 2026-06-07
+  status: resolved
 - slug: menlo-ventures
   type: firm
-  reason: "joined Westmag Seed (2026-06-02)"
+  reason: "RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, Andreessen Horowitz led; Founders Fund, Lux Capital, NFDG, Menlo Ventures participated) added to portfolio with 4 independent primary citations: (1) BusinessWire press release [^22], (2) a16z's own announcement by Erin Price-Wright and Oliver Hsu [^23] explicitly naming Menlo Ventures, (3) DroneXL [^24], (4) The AI Insider [^25]. All 4 sources independently confirm Menlo Ventures participated. Co-founders: David Hansen (CEO), Jordan Sanders (COO). South San Francisco HQ (Factory 01). Recent 10 portfolio entries (Grow Therapy 2026-03-03 through Westmag 2026-06-02) all have full YYYY-MM-DD dates — no vague facts found in recent entries. Older entries (Anthropic ~2023, Roku ~2008, etc.) use approximate year proxies but are pre-2020 historical."
   added: 2026-06-07
+  status: resolved
 - slug: bessemer-venture-partners
   type: firm
-  reason: "co-led DriveNets Series D $410M (2026-06-01)"
+  reason: "RESOLVED 2026-06-07 — DriveNets Series D $410M (2026-06-01, co-led with Atreides Management; new investors AMD and Red Dot Capital; existing Pitango and D1 Capital Partners participated; $8.5B valuation) added to portfolio with 3 independent primary citations (PR Newswire press release [^21], HPCwire [^22], Silicon Report [^23]). Recent 10 portfolio entries reviewed: Anthropic 2025-03-03, Ramp 2025-11-17, Legora 2026-03-10, Unframe 2026-05-19, DriveNets 2026-06-01 have full YYYY-MM-DD dates. Older entries (Zenskar 2026, ClickHouse 2025, Perplexity 2024, Abridge 2023, Hinge Health 2020) remain year-only — outside scope of this sweep."
   added: 2026-06-07
+  status: resolved
 - slug: d1-capital-partners
   type: firm
   reason: "joined DriveNets Series D (2026-06-01)"

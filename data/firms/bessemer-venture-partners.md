@@ -154,6 +154,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | [^15] |
 | Zenskar | Series A | 2026 | Fintech/Billing | [^9] |
 | Unframe | Series B (participant) | 2026-05-19 | AI/Enterprise | [^19] |
+| DriveNets | Series D ($410M, co-led with Atreides Management) | 2026-06-01 | AI Networking Infrastructure | [^21][^22][^23] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -208,3 +209,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^19]: SiliconANGLE, "Enterprise AI startup Unframe raises $50M after booking $100M in contract value in year one," May 19, 2026. Accessed May 2026. https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/
 
 [^20]: PR Newswire, "Ramp Reaches $32 Billion Valuation, Doubling Revenue and Customers in Past Year," November 17, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/ramp-reaches-32-billion-valuation-doubling-revenue-and-customers-in-past-year-302616510.html — Confirms $300M primary financing round closed November 17, 2025 with Bessemer Venture Partners among new investors (alongside Alpha Wave Global, Robinhood Ventures, 1789 Capital, Epicenter Capital, Coral Capital).
+
+[^21]: PR Newswire, "DriveNets Secures $410M Series D to Meet Surging Demand for Ethernet Fabric in Large-Scale AI Deployments," June 1, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/drivenets-secures-410m-series-d-to-meet-surging-demand-for-ethernet-fabric-in-large-scale-ai-deployments-302787577.html — Confirms $410M Series D announced June 1, 2026, co-led by Bessemer Venture Partners and Atreides Management; new investors AMD and Red Dot Capital; existing investors Pitango and D1 Capital Partners participated.
+
+[^22]: HPCwire, "DriveNets Raises $410M Series D to Scale Ethernet AI Fabric and Heterogeneous AI Infrastructure," June 1, 2026. Accessed June 2026. https://www.hpcwire.com/off-the-wire/drivenets-raises-410m-series-d-to-scale-ethernet-ai-fabric-and-heterogeneous-ai-infrastructure/
+
+[^23]: Silicon Report, "DriveNets raises $410M Series D with Bessemer, Atreides, AMD," June 2026. Accessed June 2026. https://www.siliconreport.com/drivenets-raises-410m-series-d-with-bessemer-atreides-amd-bfce482b3965922c — $8.5B valuation; Bessemer and Atreides Capital co-led with AMD participation.

@@ -75,8 +75,11 @@ Based on NFDG's verified portfolio data:
 | The Bot Company | Seed | ~2024 | AI Robotics | Private [^5] |
 | Keen Technologies | Seed | ~2023 | AI | Private [^5] |
 | Weights & Biases | Growth | ~2023 | ML Infrastructure | Acquired by CoreWeave [^1] |
+| Westmag | Seed ($11M, a16z-led) | 2026-06-02 | Drone Motors / Robot Actuators | Private [^8][^9][^10] |
 
 *This table represents the publicly known NFDG portfolio. The fund deployed approximately $550M of its $1.1B commitment [^1].*
+
+*Note: NFDG's GPs Friedman and Gross joined Meta in mid-2025 (see About). The Westmag round closed in 2025 and was publicly announced June 2, 2026; NFDG remains listed as a participating investor of record in the press release.*
 
 ## In Their Own Words
 
@@ -97,3 +100,6 @@ No independently sourced founder testimonials found.
 [^5]: DigiDAI, "Daniel Gross: AI Pioneer Fund & Meta," November 28, 2025. https://digidai.github.io/2025/11/28/daniel-gross-ai-pioneer-fund-jerusalem-to-meta-superintelligence-deep-analysis/
 [^6]: AI Grant website, accessed March 2026. https://aigrant.org/
 [^7]: TechCrunch, "Ilya Sutskever's startup, Safe Superintelligence, raises $1B," September 4, 2024. Accessed May 2026. https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/ — Confirms SSI's $1B Series A announced September 4, 2024 at $5B valuation; investors named: NFDG, Andreessen Horowitz, Sequoia Capital, DST Global, and SV Angel. Cross-referenced with Axios, "Former OpenAI Chief Scientist Ilya Sutskever raises $1 billion for Safe Superintelligence," September 5, 2024. https://www.axios.com/2024/09/05/ilya-sutskevers-ai-startup-raise
+[^8]: BusinessWire (via Yahoo Finance), "Westmag Emerges With $11 Million Seed Led By Andreessen Horowitz to Build America's Drone Motor and Robot Actuator Industry," June 2, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/westmag-emerges-11-million-seed-160000328.html — Confirms NFDG participated alongside Founders Fund, Lux Capital, Menlo Ventures with a16z leading.
+[^9]: DroneXL, "Westmag Raises $11M To Build American Drone Motors, Betting Scale Beats China On Price," June 3, 2026. Accessed June 2026. https://dronexl.co/2026/06/03/westmag-11m-american-drone-motors-fcc-ban/ — Independently confirms NFDG as participant.
+[^10]: The AI Insider, "Westmag Emerges From Stealth With $11 Million Seed in Funding Led by Andreessen Horowitz for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Independently confirms NFDG participation.
