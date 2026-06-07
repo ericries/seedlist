@@ -275,3 +275,15 @@ priority:
   reason: "RESOLVED 2026-06-06 — Contraline Series B $92.5M (2026-06-02, co-led by BVF Partners and RA Capital Management; GV participated with Lumira Ventures and Invus) added to portfolio with 3 primary citations (BusinessWire Contraline press release, Lumira Ventures own announcement, BioSpace). Also resolved vague date on Harvey: corrected from 'Growth ~2024' to 'Series C (led, $100M) 2024-07-23' with Harvey blog + CNBC ($11B val 2026-03-25) citations."
   added: 2026-06-06
   status: resolved
+- slug: spark-capital
+  type: firm
+  reason: "led Novellia Series A $18M (2026-06-02)"
+  added: 2026-06-06
+- slug: khosla-ventures
+  type: firm
+  reason: "joined Novellia Series A (2026-06-02)"
+  added: 2026-06-06
+- slug: acrew-capital
+  type: firm
+  reason: "joined Novellia Series A (2026-06-02)"
+  added: 2026-06-06
