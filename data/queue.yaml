@@ -20976,7 +20976,7 @@ queue:
 - name: Ant Wilson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Supabase
   discovered_from: cal-henderson
@@ -25949,7 +25949,7 @@ queue:
 - name: Brynn Putnam
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Board
   discovered_from: board
@@ -27465,3 +27465,110 @@ queue:
   firm: Amplify Partners
   discovered_from: waypoint-bio
   source: joined Waypoint Bio board after leading Series A (2026-06-01)
+- name: Tri Dao
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Together AI
+  discovered_from: ant-wilson
+  source: Co-angel with Ant Wilson in Dedalus Labs seed (Oct 2025); Together AI Chief
+    Scientist, FlashAttention creator
+- name: Elad Hazan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Google DeepMind / Princeton
+  discovered_from: ant-wilson
+  source: Co-angel with Ant Wilson in Dedalus Labs seed (Oct 2025); academic AI researcher
+- name: Ben Sigelman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: (formerly Lightstep)
+  discovered_from: ant-wilson
+  source: Co-angel with Ant Wilson in Laminar seed (Mar 2026); OpenTelemetry co-creator
+- name: Saga Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ant-wilson
+  source: Co-led Dedalus Labs seed alongside Kindred Ventures (Oct 2025)
+- name: Atlantic.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ant-wilson
+  source: Led Laminar seed (Mar 2026) — AI observability
+- name: Laminar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ant-wilson
+  source: Ant Wilson angel investment — AI agent observability, $3M seed Mar 2026
+- name: knownwell
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brynn-putnam
+  source: Brynn Putnam angel investment — weight-inclusive healthcare; $4.5M seed
+    Jan 2023 led by Flare Capital
+- name: Intus Care
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brynn-putnam
+  source: Brynn Putnam angel investment — geriatric care analytics; $3.1M second seed
+    Apr 2022; acquired Apr 2026
+- name: Lydia Gilbert
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dia & Co
+  discovered_from: brynn-putnam
+  source: Co-angel with Brynn Putnam in knownwell seed (Jan 2023); Dia & Co co-founder
+- name: Varsha Rao
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Nurx
+  discovered_from: brynn-putnam
+  source: Co-angel with Brynn Putnam in knownwell seed (Jan 2023); former Nurx CEO
+- name: Flare Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brynn-putnam
+  source: Led knownwell seed (Jan 2023) — healthcare-focused VC
+- name: Preface Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brynn-putnam
+  source: Investor in Intus Care second seed (Apr 2022)
+- name: Collab Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brynn-putnam
+  source: Investor in Intus Care second seed (Apr 2022)
+- name: Jumpstart Nova
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brynn-putnam
+  source: Investor in Intus Care second seed (Apr 2022) — Black healthcare-focused
+    fund
