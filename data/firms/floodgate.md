@@ -174,7 +174,7 @@ Note: Some companies span multiple categories. Totals may exceed 120 due to over
 | TextIQ | Seed | ~2014 (founded) | Data/Enterprise | Active [^9] |
 | LTSE | Seed | ~2015 (founded) | Financial Services | IPO [^9] |
 | Rappi | Seed | ~2016 | Marketplace | Active [^6] |
-| Applied Intuition | Seed | ~2017 (founded) | AI/Autonomous Vehicles | Active [^6] |
+| Applied Intuition | Series A | 2018-09-12 | AI/Autonomous Vehicles | Active [^6][^31][^32] |
 | Messari | Seed | ~2018 (founded) | Crypto | Active [^9] |
 | Tango Card | Seed | ~2010 (founded) | Fintech | M&A [^9] |
 | Keepsafe | Seed | ~2012 (founded) | Consumer | Active [^9] |
@@ -189,11 +189,11 @@ Note: Some companies span multiple categories. Totals may exceed 120 due to over
 | Starkware | Seed | ~2018 (founded) | Crypto | Active [^9] |
 | Inscopix | Seed | ~2011 (founded) | Biotech | M&A [^9] |
 | Living Carbon | Seed | ~2019 (founded) | Climate/Biotech | Active [^9] |
-| Hebbia | Seed | ~2020 (founded) | AI | Active [^9] |
+| Hebbia | Pre-Seed (lead) | 2020-10-28 | AI | Active [^9][^33] |
 | Hadrian | Seed | ~2020 (founded) | Manufacturing | Active [^9] |
-| SmarterDx | Seed | ~2020 (founded) | AI/Healthcare | Active [^9] |
-| Terradot | Seed | ~2022 (founded) | Climate | Active [^9] |
-| Counsel | Seed | ~2023 (founded) | AI/Healthcare | Active [^9] |
+| SmarterDx | Seed (co-lead) | 2022 | AI/Healthcare | Active [^9][^34] |
+| Terradot | Seed/Series A | 2024-12-12 (launch) | Climate | Active [^9][^36] |
+| Counsel Health | Seed | 2024-10-22 | AI/Healthcare | Active [^9][^35] |
 | Bot MD | Seed | ~2018 (founded) | Healthcare | Active [^9] |
 | Aible | Seed | ~2018 (founded) | AI/Enterprise | Active [^9] |
 | Harmonic AI | Seed | ~2022 (founded) | AI | Active [^9] |
@@ -309,3 +309,9 @@ No additional independently sourced founder testimonials about working with Floo
 [^28]: "Floodgate's Open: VC Ann Miura-Ko Will Rise With Lyft." NBC Bay Area, accessed March 2026. https://www.nbcbayarea.com/news/local/floodgates-open-vc-ann-miura-ko-will-rise-with-lyft/174305/
 [^29]: "The Man Who Taught Me How to Invest — Mike Maples (#286)." The Tim Ferriss Show, accessed March 2026. https://tim.blog/2017/12/16/the-man-who-taught-me-how-to-invest/
 [^30]: "Ann Miura-Ko — The Path from Shyness to World-Class Debater and Investor (#331)." The Tim Ferriss Show, accessed March 2026. https://tim.blog/2018/08/02/ann-miura-ko/
+[^31]: "Self-driving car startup launches amid funding boom." PitchBook, September 12, 2018. https://pitchbook.com/news/articles/self-driving-car-startup-launches-amid-funding-boom
+[^32]: "Applied Intuition raises $40 million for autonomous vehicle simulation tools." VentureBeat, September 12, 2019 (references prior Series A from September 2018 with Andreessen Horowitz lead and Floodgate participation). https://venturebeat.com/technology/applied-intuition-raises-40-million-for-autonomous-vehicle-simulation-tools
+[^33]: "Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI." TechCrunch, October 28, 2020. Confirms Ann Miura-Ko / Floodgate led the $1.1M pre-seed round joined by Naval Ravikant, Peter Thiel, Kevin Hartz, Michael Fertik, Cory Levy. https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/
+[^34]: "From Seed to Hyperscale in 3 Years: How SmarterDx Is Cracking the Healthcare AI Code." Flare Capital Partners (seed co-investor), accessed June 2026. Confirms SmarterDx raised seed funding in 2022 with Flare Capital and Floodgate. https://www.flarecapital.com/insight/from-seed-to-hyperscale-in-3-years-how-smarterdx-is-cracking-the-healthcare-ai-code-2/
+[^35]: "Counsel Health Launches with $11M in Seed Funding to Deliver Physician-Led, AI-Powered Medical Advice." PR Newswire, October 22, 2024. Seed led by Andreessen Horowitz Bio + Health; Floodgate Fund, Asymmetric Capital Partners, and Pear VC participated. https://www.prnewswire.com/news-releases/counsel-health-launches-with-11m-in-seed-funding-to-deliver-physician-led-ai-powered-medical-advice-302280740.html
+[^36]: "With $58.2M in Funding & Landmark Carbon Removal Deals, Terradot Launches with Bold Plan to Scale CO2 Removal this Decade." BusinessWire, December 12, 2024. $58.2M comprises $4.2M seed and $54M Series A; investors include John Doerr (lead), Floodgate, Kleiner Perkins, Microsoft Climate Innovation Fund, Google, Cisco, Acre, Gigascale, Valor, Ponderosa. https://www.businesswire.com/news/home/20241212215501/en/With-$58.2M-in-Funding-Landmark-Carbon-Removal-Deals-Terradot-Launches-with-Bold-Plan-to-Scale-CO2-Removal-this-Decade
