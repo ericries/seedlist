@@ -136,7 +136,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Manifest OS | Series A | 2026-04-28 | LegalTech / AI | Active | [^10] |
 | Town | Series A | 2026-06-03 | AI / Consumer | Active (participated; led by a16z) | [^18][^19] |
 | Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
-| Binti | Seed (led) | 2015-03-09 | Govtech / Child welfare SaaS | Active (raised Series B 2021, $6M follow-on from SJF Ventures June 2026) | [^21][^22][^23] |
+| Binti | Seed (led) | 2015-03 | Govtech / Child welfare SaaS | Active (raised Series B 2021-08, $6M follow-on from SJF Ventures 2026-06) | [^21][^22][^23] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
