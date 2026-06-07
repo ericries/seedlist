@@ -121,12 +121,12 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Hammerspace | Series B (lead, $100M at $500M+ valuation) | 2025-04-16 | AI Data Infrastructure | Active | [^27][^34][^35] |
 | Profluent | Series B (co-lead with Bezos Expeditions, $106M) | 2025-11-19 | AI / Biotech | Active | [^28][^36][^37] |
 | Boom Supersonic | Series B (participated; Darsana led) | 2025-12-09 | Aerospace / Energy | Active | [^29][^32] |
-| Castelion | Series B | 2025 | Defense Tech | Active | [^13] |
+| Castelion | Series B (co-lead, $350M with Lightspeed) | 2025-12-05 | Defense Tech / Hypersonics | Active | [^13][^39][^40][^41] |
 | Parloa | Series B (lead) | ~2023 | AI / Customer Service | Active | [^30] |
 | Parloa | Series C | ~2024 | AI / Customer Service | Active | [^30] |
 | Parloa | Series D | 2026 | AI / Customer Service | Active | [^30] |
 | Cerebras | Series H | ~2025 | AI Chips | Active | [^13] |
-| LiveKit | Series C | 2026 | AI / Real-time Infrastructure | Active | [^13] |
+| LiveKit | Series C (participated, $100M led by Index at $1B val) | 2026-01-22 | AI / Real-time Infrastructure | Active | [^13][^42][^43][^44] |
 | Nexthop AI | Growth | 2026 | AI Networking | Active | [^13] |
 | ByteDance | Secondary/Growth | ~2020 | Consumer Internet | Active | [^7] |
 | Bridge | Seed | ~2022 | Fintech | Acquired by Stripe (2024) | [^7] |
@@ -245,3 +245,15 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^37]: CRISPR Medicine News press release service, "Profluent Raises $106M to Scale Frontier AI Models for Programmable Biology," November 19, 2025, accessed April 2026. https://crisprmedicinenews.com/press-release-service/card/profluent-raises-106m-to-scale-frontier-ai-models-for-programmable-biology/ — Confirms November 19, 2025 announcement date; Altimeter Capital and Bezos Expeditions co-led; total funding to date $150M.
 
 [^38]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/ — Confirms Altimeter Capital co-led Anthropic's Series H on May 28, 2026 at $965B post-money with Dragoneer, Greenoaks, and Sequoia Capital; Capital Group, Coatue, D1 Capital Partners, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity, Samsung, SK Hynix, and Micron participated; round incorporates $15B in previously committed hyperscaler investments including Amazon's $5B pledge.
+
+[^39]: Castelion press release, "Castelion Closes $350 Million Series B to Mass Produce U.S. Hypersonic Weapons," December 5, 2025, accessed June 2026. https://www.castelion.com/news/series-b/ — Primary source. Confirms $350M Series B co-led by Altimeter Capital and Lightspeed Venture Partners with Lavrock Ventures, Andreessen Horowitz, General Catalyst, First In, Space VC, Cantos, BlueYard, Avenir, Champion Hill, and Interlagos participating.
+
+[^40]: PR Newswire, "Castelion Closes $350 Million Series B to Mass Produce U.S. Hypersonic Weapons," December 5, 2025, accessed June 2026. https://www.prnewswire.com/news-releases/castelion-closes-350-million-series-b-to-mass-produce-us-hypersonic-weapons-302633732.html — Confirms December 5, 2025 announcement, $350M Series B, Altimeter Capital and Lightspeed co-leading.
+
+[^41]: SpaceNews, "Castelion raises $350 million to scale hypersonic missile production," December 2025, accessed June 2026. https://spacenews.com/castelion-raises-350-million-to-scale-hypersonic-missile-production/ — Independent press confirmation of Castelion $350M Series B led by Altimeter and Lightspeed.
+
+[^42]: LiveKit blog, "LiveKit's Series C: Towards the voice-driven era of computing," January 22, 2026, accessed June 2026. https://livekit.com/blog/livekit-series-c — Primary source. Confirms $100M Series C at $1B valuation led by Index Ventures with Salesforce Ventures, Hanabi Capital, Altimeter, and Redpoint Ventures participating.
+
+[^43]: SiliconANGLE, "LiveKit raises $100M at $1B valuation to scale real-time AI and media platform," January 22, 2026, accessed June 2026. https://siliconangle.com/2026/01/22/livekit-raises-100m-1b-valuation-scale-real-time-ai-media-platform/ — Confirms January 22, 2026 announcement, $100M at $1B valuation, Index Ventures led; Salesforce Ventures, Hanabi Capital, Altimeter Capital, and Redpoint Ventures participated.
+
+[^44]: FinSMEs, "LiveKit Raises $100M in Series C Funding at a $1 Billion Valuation," January 22, 2026, accessed June 2026. https://www.finsmes.com/2026/01/livekit-raises-100m-in-series-c-funding-at-a-1-billion-valuation.html — Independent press confirmation of LiveKit $100M Series C at $1B valuation; Index Ventures led with Altimeter participating as returning investor.

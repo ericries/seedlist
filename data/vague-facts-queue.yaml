@@ -163197,7 +163197,11 @@ vague_facts:
   line: '| Castelion | Series B | 2025 | Defense Tech | Active | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-12-05 via Castelion press release [^39], PR Newswire
+    [^40], and SpaceNews [^41]. $350M Series B co-led by Altimeter Capital and Lightspeed
+    Venture Partners with a16z, General Catalyst, Lavrock, First In, Space VC, Cantos,
+    BlueYard, Avenir, Champion Hill, Interlagos participating.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Parloa
@@ -163229,7 +163233,11 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2026-01-22 via LiveKit blog [^42], SiliconANGLE [^43],
+    and FinSMEs [^44]. $100M Series C at $1B valuation led by Index Ventures; Altimeter
+    participated as returning investor alongside Salesforce Ventures, Hanabi Capital,
+    Redpoint.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Nexthop AI

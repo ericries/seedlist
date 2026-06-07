@@ -129,6 +129,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Observable Space | Series A (led, $90M) | 2026-05-28 | Space / Defense / Lasercom | Active | [^20] |
 | Impulse Space | Series D (participant, $500M at $4.26B post-money; 137 Ventures + BANNER VC co-led) | 2026-06-02 | Aerospace / In-Space Mobility | Active | [^21] |
 | Flourish | Venture (co-led, $500M at $2.5B post-money; with GV) | 2026-06-04 | AI / Neuroscience / Connectomics | Active | [^flourish1][^flourish2][^flourish3] |
+| Westmag | Seed (participant, $11M; a16z led) | 2026-06-02 | Defense / Robotics / Drone Motors / Actuators | Active | [^westmag1][^westmag2][^westmag3] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -157,6 +158,10 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^flourish1]: Maria Deutscher, "AI startup Flourish reportedly raises $500M round backed by Jeff Bezos," SiliconANGLE, June 4, 2026. Accessed June 2026. https://siliconangle.com/2026/06/04/ai-startup-flourish-reportedly-raises-500m-round-backed-jeff-bezos/ — Confirms Lux Capital and GV co-led Flourish's $500M round on June 4, 2026 at $2.5B post-money valuation; Catalio Capital Management and Jeff Bezos also participated.
 [^flourish2]: "The AlleyWatch Startup Daily Funding Report: 6/5/2026," AlleyWatch, June 5, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-5-2026/
 [^flourish3]: "Catalio's Neuroscience Startup Flourish Emerges With Funding from Bezos, Google Ventures," citybiz, June 2026. Accessed June 2026. https://www.citybiz.co/article/856404/catalios-neuroscience-startup-flourish-emerges-with-funding-from-bezos-google-ventures/
+
+[^westmag1]: BusinessWire (via Las Vegas Sun), "Westmag Emerges With $11 Million Seed Led By Andreessen Horowitz to Build America's Drone Motor and Robot Actuator Industry," June 2, 2026. Accessed June 2026. https://lasvegassun.com/news/2026/jun/02/westmag-emerges-with-11-million-seed-led-by-andree/ — Confirms Andreessen Horowitz led; Founders Fund, Lux Capital, NFDG, and Menlo Ventures participated. Erin Price-Wright (a16z GP) quoted.
+[^westmag2]: The AI Insider, "Westmag Emerges From Stealth With $11M in Seed Funding for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Independently confirms Lux Capital participation alongside Founders Fund, NFDG, and Menlo Ventures.
+[^westmag3]: DroneXL, "Westmag Raises $11M To Build American Drone Motors, Betting Scale Beats China On Price," June 3, 2026. Accessed June 2026. https://dronexl.co/2026/06/03/westmag-11m-american-drone-motors-fcc-ban/ — Third independent confirmation: "the round was led by Andreessen Horowitz, with participation from Founders Fund, Lux Capital, NFDG and Menlo Ventures."
 
 [^1]: Sparkco, "Lux Capital: A Comprehensive Investor Profile," accessed March 2026. https://sparkco.ai/blog/lux-capital
 [^2]: Newcomer, "Ignored, Obscure, Obscure, Obscure," accessed March 2026. https://www.newcomer.co/p/ignored-obscure-obscure-obscure

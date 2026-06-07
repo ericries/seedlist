@@ -309,16 +309,19 @@ priority:
   status: resolved
 - slug: andreessen-horowitz
   type: firm
-  reason: "led Westmag $11M Seed (2026-06-02)"
+  reason: "RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, led) added to portfolio with 4 primary citations (a16z.com/announcement/investing-in-westmag authored by Erin Price-Wright and Oliver Hsu, BusinessWire June 2 2026, DroneXL June 3 2026, The AI Insider June 3 2026). All sources independently confirm a16z led with Founders Fund, Lux Capital, NFDG, and Menlo Ventures participating. Co-founders: David Hansen (CEO) and Jordan Sanders (COO). South San Francisco HQ (Factory 01). Recent 10 portfolio entries (Stilta 2026-05-19 through Westmag 2026-06-02) all have full YYYY-MM-DD dates — no vague facts found."
   added: 2026-06-07
+  status: resolved
 - slug: founders-fund
   type: firm
-  reason: "joined Westmag Seed (2026-06-02)"
+  reason: "RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, Andreessen Horowitz led; Founders Fund, Lux Capital, NFDG, Menlo Ventures participated) added to portfolio with 3 independent primary citations (BusinessWire press release [^64] cross-referenced via Yahoo Finance, DroneXL [^65], The AI Insider [^66]). All 3 sources independently confirm Founders Fund as participant. South San Francisco-based Western Magnetics Company; co-founded by David Hansen (CEO) and Jordan Sanders (COO). Recent 5 portfolio entries (Westmag 2026-06-02, Binti 2015-03, NewLimit 2026-06-02, Impulse Space 2026-06-02, Armada 2026-05-19) all have full dates — no vague facts found in recent entries."
   added: 2026-06-07
+  status: resolved
 - slug: lux-capital
   type: firm
-  reason: "joined Westmag Seed (2026-06-02)"
+  reason: "RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, a16z-led, participated) added to portfolio with 3 independent primary citations (BusinessWire/Las Vegas Sun, The AI Insider, DroneXL). All 3 sources independently confirm Lux Capital participated alongside Founders Fund, NFDG, and Menlo Ventures; Erin Price-Wright (a16z GP) was the lead's spokesperson. Recent 10 portfolio entries (Cognichip → Westmag) all have full YYYY-MM-DD dates — no vague facts found."
   added: 2026-06-07
+  status: resolved
 - slug: nfdg
   type: firm
   reason: "joined Westmag Seed (2026-06-02)"
