@@ -132,10 +132,11 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Reducto | Seed | ~2023 | AI | Active | [^1] |
 | Rillet | Seed | ~2023 | Accounting SaaS | Active | [^1] |
 | Omni | Seed | ~2023 | Enterprise | Active | [^1] |
-| Actively | Series B | 2026 | AI / Sales | Active | [^9] |
-| Manifest OS | Series A | 2026 | LegalTech / AI | Active | [^10] |
+| Actively | Series B | 2026-04-28 | AI / Sales | Active | [^9] |
+| Manifest OS | Series A | 2026-04-28 | LegalTech / AI | Active | [^10] |
 | Town | Series A | 2026-06-03 | AI / Consumer | Active (participated; led by a16z) | [^18][^19] |
 | Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
+| Binti | Seed (led) | 2015-03-09 | Govtech / Child welfare SaaS | Active (raised Series B 2021, $6M follow-on from SJF Ventures June 2026) | [^21][^22][^23] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -189,3 +190,9 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^19]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html
 
 [^20]: Crunchbase News, "Scotch raises AI funding for liquor retail tech," June 4, 2026. Accessed June 2026. https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/
+
+[^21]: First Round Review, "Binti's Path to Product-Market Fit — Lessons in Immersive User Research," accessed June 2026. https://review.firstround.com/bintis-path-to-product-market-fit---8212--lessons-in-immersive-user-research/ — confirms First Round led Binti's $2M seed round in 2015.
+
+[^22]: Binti official "About" page, accessed June 2026. https://binti.com/about/ — lists First Round Capital among its top investors alongside Founders Fund, Kapor Capital, Michael Dell, and Lachy Groom.
+
+[^23]: ImpactAlpha, "SJF Ventures backs Binti with $6 million to upgrade child welfare casework," accessed June 2026. https://impactalpha.com/sjf-ventures-backs-binti-with-6-million-to-upgrade-child-welfare-casework/ — names First Round Capital, Founders Fund, Kapor Capital, and Pivotal Ventures as prior backers in the SJF-led June 2026 round.

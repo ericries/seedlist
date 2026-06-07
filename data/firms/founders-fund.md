@@ -240,6 +240,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Fractile | Series B (co-led, $220M) | 2026-05-13 | AI / Inference Hardware (UK) | Private [^50][^51] |
 | Armada | Series B (participant, $230M at $2B val; Overmatch, BlackRock, 8090 co-led) | 2026-05-19 | AI Infrastructure / Edge / Defense | Private [^60] |
 | NewLimit | Series C (led, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^57][^58][^59] |
+| Binti | Seed (participated) | 2015-03 | Govtech / Child Welfare SaaS | Private [^62][^63] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -402,3 +403,7 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^58]: STAT News, "Longevity startup NewLimit raises $435 million ahead of first clinical trial," June 2, 2026. Accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/ — Independent confirmation: $435M Series C led by Founders Fund; ~$3.1B post-money valuation; South San Francisco-based; participants include Thrive Capital, Lilly Ventures, Nat Friedman, Daniel Gross.
 
 [^59]: Endpoints News, "Anti-aging startup NewLimit raises $435M at $3B+ valuation, eyes clinic in 2027," June 2, 2026. Accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third independent confirmation of $435M Series C at $3.1B valuation led by Founders Fund.
+
+[^62]: Binti, "About," accessed June 2026. https://binti.com/about/ — Binti's own About page states the company "raised over $60M from top investors including Founders Fund, First Round Capital, Kapor Capital, Michael Dell, Lachy Groom and others." Founders Fund is named explicitly by Binti as a prior backer.
+
+[^63]: StartupIntros, "Binti: Funding, Team & Investors," accessed June 2026. https://startupintros.com/orgs/binti — Lists Founders Fund as participant in Binti's March 2015 Seed round ($2M), with follow-on rounds Series A (April 2019, $10M) and Series B (August 2021, $45M). Founders Fund did NOT participate in the June 2026 $6M round led by SJF Ventures.

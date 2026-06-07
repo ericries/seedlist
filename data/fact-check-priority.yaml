@@ -293,13 +293,16 @@ priority:
   status: resolved
 - slug: insight-partners
   type: firm
-  reason: "co-led Auger Series A $200M (2026-06-03)"
+  reason: "RESOLVED 2026-06-07 — Auger Series A $200M (2026-06-03, co-led with Oak HC/FT) added to portfolio table with 3 independent primary citations (The SaaS News, Newnex, AlleyWatch Weekly Funding Report 6/8/26). All 3 sources independently confirm Oak HC/FT and Insight Partners as co-leads. Auger total equity funding now $300M ($100M from Oak HC/FT at 2024-10 launch + $200M Series A). Founded 2024 by Dave Clark (ex-Flexport CEO, ex-Amazon), HQ Bellevue WA. Recent 10 portfolio entries (Ayar Labs through Auger) all have full YYYY-MM-DD dates — no vague facts found."
   added: 2026-06-07
+  status: resolved
 - slug: founders-fund
   type: firm
-  reason: "prior Binti backer; round led by SJF (2026-06)"
+  reason: "RESOLVED 2026-06-07 — Founders Fund VERIFIED as prior Binti backer (Seed round, March 2015) by 3 independent primary sources: (1) Binti's own About page (binti.com/about/) explicitly names Founders Fund among top investors, (2) StartupIntros lists Founders Fund as Seed round 2015-03 participant, (3) AlleyWatch Weekly Notable Funding Report 6/8/26 confirms current $63M total raised. Founders Fund did NOT participate in 2026-06 SJF Ventures-led $6M round. Added Binti Seed (2015-03) row to portfolio table with citations [^62][^63]. Recent 5 portfolio entries (NewLimit 2026-06-02, Impulse Space 2026-06-02, Armada 2026-05-19, Fractile 2026-05-13, Cognition 2026-05-27) all have full YYYY-MM-DD dates — no vague facts found."
   added: 2026-06-07
+  status: resolved
 - slug: first-round-capital
   type: firm
-  reason: "prior Binti backer (2026-06)"
+  reason: "RESOLVED 2026-06-03 — First Round VERIFIED as Binti backer via 3+ independent primary sources: (1) First Round's own The Review confirms First Round LED Binti's $2M seed round in 2015 (review.firstround.com); (2) Binti's official About page (binti.com/about/) lists First Round Capital among top investors alongside Founders Fund, Kapor Capital, Michael Dell, Lachy Groom; (3) ImpactAlpha article on SJF Ventures' June 2026 $6M round names First Round Capital as a prior backer. Crunchbase corroborates 2015-03-09 seed date (~$2.7M). Added Binti seed row (Seed led, 2015-03-09) to portfolio table with citations [^21][^22][^23]. Also tightened Actively (Series B) and Manifest OS (Series A) dates from year-only to 2026-04-28 per existing citation source dates."
   added: 2026-06-07
+  status: resolved

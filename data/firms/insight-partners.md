@@ -132,6 +132,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
 | GovWell | Series A ($25M, led) | 2026-05-14 | GovTech / AI / Public Sector | Active | [^38][^39] |
 | Ramp | Series F ($750M at $44B post; new investor, ICONIQ/GIC/Ontario Teachers' co-led) | 2026-06-04 | Fintech / Spend Management | Active | [^40][^41][^42] |
+| Auger | Series A ($200M, co-led with Oak HC/FT) | 2026-06-03 | Supply Chain AI | Active | [^43][^44][^45] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -201,3 +202,6 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^40]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Insight Partners listed among new investors; round co-led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html
 [^41]: TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. Accessed June 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
 [^42]: Ontario Teachers' Pension Plan, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/
+[^43]: The SaaS News, "Auger Raises $200M Series A," June 2026. Series A backed by lead investors Oak HC/FT and Insight Partners; closed June 3, 2026. Accessed June 2026. https://www.thesaasnews.com/news/auger-raises-200m-series-a/
+[^44]: Newnex, "Auger Raises $200M Series A to Build an Autonomous AI Operating System for Global Supply Chains," June 2026. Confirms $200M Series A co-led by Oak HC/FT and Insight Partners. Accessed June 2026. https://www.newnex.io/feed/auger-raises-200m-series-a-to-build-an-autonomous-ai-operating-system-for-global-supply-chains
+[^45]: AlleyWatch, "The Weekly Notable Startup Funding Report: 6/8/26," June 8, 2026. Lists Auger $200M with Insight Partners and Oak HC/FT as named investors; total equity funding now $300M. Accessed June 2026. https://www.alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
