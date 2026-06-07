@@ -76,17 +76,17 @@ Based on 22 verified portfolio investments, the following patterns emerge. Note:
 |---------|-------|------|--------|--------|
 | Insitu | Early Stage | ~2003 | Aerospace / Unmanned Systems | Acquired by Boeing for $400M (2008) [^13][^14] |
 | Market Leader | Early Stage | ~2001 | Real Estate SaaS | IPO (NASDAQ: LEDR); acquired by Trulia for $355M (2013) [^15] |
-| Newsvine | Seed | ~2005 | Digital Media | Acquired by MSNBC.com (2007) [^16] |
+| Newsvine | Seed | 2005-11 | Digital Media | Acquired by MSNBC.com (2007) [^16][^37] |
 | FanNation | Early Stage | ~2006 | Sports Media | Acquired by Sports Illustrated (2007) [^4][^17] |
 | Azaleos | Early Stage | ~2004 | Enterprise IT / Managed Services | Acquired by Avanade (2012) [^18] |
 | Qliance | Seed | ~2007 | Healthcare / Direct Primary Care | Shut down [^19] |
 | Seeq | Series A (Lead) | 2013 | Industrial Analytics Software | Active; raised through Series D ($130M+ total) [^20][^21] |
-| Pike13 | Seed (Lead) | ~2012 | SaaS / Business Management | Active [^22] |
+| Pike13 (Front Desk) | Seed (Lead, $3.2M) | 2013-09 | SaaS / Business Management | Active [^22][^36] |
 | WISErg | Series B (Lead, $11M) | 2015-03-24 | AgTech / Composting | Acquired by Plant Response (2021) [^23][^31] |
 | Flexe | Seed | 2015 | Logistics / Warehousing | Active; unicorn ($1B+ valuation, 2022) [^24][^25] |
 | Modumetal | Early Stage | ~2010 | Advanced Materials / Manufacturing | Active [^4][^7] |
 | IUNU | Seed | 2017 | AgTech / Indoor Farming | Active [^26] |
-| RealSelf | Angel | 2008 | Consumer Health / Marketplace | Active [^4][^9][^32] |
+| RealSelf | Angel (~$2M round) | 2008 | Consumer Health / Marketplace | Active; Mike Slade serves on board [^4][^9][^32] |
 | Knock | Early Stage | ~2015 | PropTech / CRM | Acquired by RealPage (2022) [^27] |
 | Uplevel | Seed | ~2020 | Engineering Intelligence Software | Active [^28] |
 | FitOn | Series B | 2021 | Consumer Fitness App | Active [^29] |
@@ -152,3 +152,5 @@ No independently sourced founder testimonials found. The firm's website and pres
 [^33]: GlobeNewswire, "IOTA Software Inc. Announces $10.4 Million Series A2 Funding Led by Altira Group," October 31, 2024. https://www.globenewswire.com/news-release/2024/10/31/2972870/0/en/IOTA-Software-Inc-Announces-10-4-Million-Series-A2-Funding-Led-by-Altira-Group.html
 [^34]: IOTA Software, "IOTA Software Inc. Announces $10.4 Million Series A2 Funding Led by Altira Group," October 31, 2024. https://www.iotasoft.com/post/iota-software-inc-announces-10-4-million-series-a2-funding-led-by-altira-group
 [^35]: IOTA Software, "Investors," accessed June 2026. https://www.iotasoft.com/about/investors
+[^36]: FinSMEs, "Front Desk Raises $3.2M in Seed Financing," September 2013. https://www.finsmes.com/2013/09/front-desk-raises-3-2m-seed-financing.html
+[^37]: Mike Industries (Mike Davidson blog), "Unstealth! Get Ready For Newsvine," November 9, 2005. https://mikeindustries.com/blog/archive/2005/11/get-ready-for-newsvine

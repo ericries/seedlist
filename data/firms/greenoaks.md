@@ -98,7 +98,7 @@ The firm describes its approach as seeking "generational founders" and building 
 | Robinhood | Series C | 2017 | Fintech | Public (NASDAQ: HOOD) | [^13] |
 | Toast | Series F | 2020 | Fintech/Restaurant Tech | Public (NYSE: TOST) | [^14] |
 | Stripe | Growth | ~2019 | Payments/Fintech | Active | [^4] |
-| Figma | Series F | 2024 | Design Software | Public (NYSE) | [^8] |
+| Figma | Secondary tender | 2024-07 | Design Software | Public (NYSE) | [^23][^24] |
 | Wiz | Series B | 2021 | Cybersecurity | Acquired (Google, $32B) | [^15] |
 | Scale AI | Series E | 2021 | AI Infrastructure | Active | [^16] |
 | Discord | Series H | 2020 | Consumer/Social | Active | [^17] |
@@ -108,7 +108,7 @@ The firm describes its approach as seeking "generational founders" and building 
 | Canva | Series F | 2021 | Design Software | Active | [^18] |
 | Klaviyo | Growth | ~2021 | Marketing Tech | Public (NYSE: KVYO) | [^10] |
 | Navan | Convertible | 2020 | Corporate Travel | Public (NASDAQ) | [^8] |
-| Kavak | Growth | 2020 | Auto Marketplace | Active | [^19] |
+| Kavak | Series C | 2020-10 | Auto Marketplace | Active | [^19][^25] |
 | Misfits Market | Series C | 2021 | E-commerce/Food | Active | [^2] |
 | Personio | Series E | 2022 | HR Software | Active | [^20] |
 | Motive (KeepTruckin) | Series D | 2019 | Fleet Management | Active | [^21] |
@@ -154,3 +154,6 @@ No independently sourced founder testimonials found. Greenoaks maintains a minim
 [^20]: Personio, "Personio raises $200M in second Series E to drive expansion," 2022. https://www.personio.com/about-personio/press/personio-raises-200m-second-series-e/
 [^21]: Transport Topics, "KeepTruckin Gets $149 Million Investment From Greenoaks Capital," 2019. https://www.ttnews.com/articles/keeptruckin-gets-149-million-investment-greenoaks-capital
 [^22]: TechCrunch, "Bret Taylor's Sierra raises $350M at a $10B valuation," September 4, 2025. https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/
+[^23]: SiliconANGLE, "Figma confirms undisclosed funding round that brings its value to $12.5B," July 17, 2024. https://siliconangle.com/2024/07/17/figma-confirms-undisclosed-funding-round-brings-value-12-5b/
+[^24]: Axios, "Figma launches tender offer for employees, investors," May 16, 2024. https://www.axios.com/2024/05/16/figma-tender-12-billion
+[^25]: Clay, "Kavak Funding Rounds (Series C, October 2020, $225M, led by DST Global and Greenoaks)," accessed June 2026. https://www.clay.com/dossier/kavak-funding

@@ -74,11 +74,11 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 | LiveKit | Series C ($100M, $1B valuation) | 2026-01-22 | Infrastructure | [^31] |
 | Mind Robotics | Seed | 2025 | Robotics | [^4][^9][^22] |
 | Netic | Series A | 2025 | AI/Home Services | [^9][^23] |
-| Onodrim | Seed | 2025-2026 | Defence Tech | [^9][^24] |
-| Parahelp | Seed / Series A | 2024-2025 | AI/Customer Support | [^9][^25] |
+| Onodrim | Seed (€40M) | 2026-02-13 | Defence Tech | [^9][^24][^32] |
+| Parahelp | Series A ($18M) | 2025-09-11 | AI/Customer Support | [^9][^25] |
 | Periodic Labs | Seed | 2025 | AI/Science | [^9][^26] |
-| Simile | Series A | 2026 | AI/Simulation | [^9][^27] |
-| Traversal | Seed / Series A | 2025 | Developer Tools | [^4][^9][^28] |
+| Simile | Series A ($100M) | 2026-02-12 | AI/Simulation | [^9][^27][^33] |
+| Traversal | Seed + Series A ($48M total) | 2025-06-18 | Developer Tools | [^4][^9][^28] |
 
 Note: The firm's portfolio page lists 18 companies [^9]. Some investment dates are approximate because specific round dates were not publicly disclosed. Applied Compute's $20M seed round predated its later $80M round [^13][^18]. Brinc Drones' round was reported as Series C based on prior funding history [^14]. Mike Volpi invested personally in Brinc; Hanabi is listed as an investor via the firm's portfolio page [^9][^14]. For ArchiBoost AI and Cerebras, Hanabi's specific round participation could not be independently confirmed; the firm is listed on the portfolio page [^9] and on Tracxn [^4]. For Cursor, Hanabi is listed as a portfolio company but which specific round the firm participated in is not publicly disclosed [^9][^20].
 
@@ -131,3 +131,5 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 [^29]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025, accessed May 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/ — Confirms Founders Fund led; lists Bain Capital Ventures, Hanabi Capital, D1 Capital as new investors alongside Lux, 8VC, Neo, Elad Gil, Definition Capital, Swish VC.
 [^30]: TechCrunch, "LiveKit's tools power real-time communications, including OpenAI's Voice Mode," April 10, 2025, accessed May 2026. https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/ — $45M Series B led by Altimeter with Redpoint Ventures and Hanabi Capital.
 [^31]: LiveKit blog, "LiveKit's Series C: Towards the voice-driven era of computing," January 22, 2026, accessed May 2026. https://livekit.com/blog/livekit-series-c/ — $100M Series C at $1B valuation led by Index Ventures with Salesforce Ventures, Hanabi Capital, Altimeter, and Redpoint Ventures.
+[^32]: Nordic9, "Onodrim Industries raised €40 million in seed funding round led by Founders Fund, Lakestar and General Catalyst, joined by Air Street Capital and angels," February 2026, accessed June 2026. https://nordic9.com/news/onodrim-industries-raised-40-million-in-seed-funding-round-led-by-founders-fund-lakestar-and-general-catalyst-joined-by-air-street-capital-and-angels/ — confirms announcement date 2026-02-13.
+[^33]: Ventureburn, "Simile Raises $100M to Predict Human Behavior With AI," February 2026, accessed June 2026. https://ventureburn.com/simile-raises-100m-to-predict-human-behavior-with-ai/ — $100M Series A led by Index Ventures with participation from Bain Capital Ventures, A*, Hanabi Capital, Fei-Fei Li, and Andrej Karpathy.
