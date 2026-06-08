@@ -27594,3 +27594,54 @@ queue:
   firm: Synthesia
   discovered_from: cal-henderson
   source: co-investor with Cal Henderson on Viktor Series A; Synthesia CEO
+- name: Zed Industries
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rahul-vohra
+  source: Series A $13M Mar 2023 with Rahul Vohra; collaborative code editor
+- name: Double
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rahul-vohra
+  source: Series A $7M Dec 2025 with Rahul Vohra
+- name: howie
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rahul-vohra
+  source: Seed $6M Sep 2025 with Rahul Vohra
+- name: Taurus
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rahul-vohra
+  source: Seed $4M Apr 2025 with Rahul Vohra
+- name: Quest Portal
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rahul-vohra
+  source: Seed $8M Oct 2023 with Rahul Vohra
+- name: Pioneer
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-gross
+  source: Remote-first accelerator founded by Daniel Gross 2018; 150+ companies funded
+    across 50+ countries; backed by Marc Andreessen and Patrick Collison
+- name: Daniel Levy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Safe Superintelligence
+  discovered_from: daniel-gross
+  source: Co-founded SSI with Ilya Sutskever and Daniel Gross (June 2024)
