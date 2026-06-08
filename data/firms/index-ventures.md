@@ -141,7 +141,6 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Trainline (Captain Train) | Seed | 2012 | Travel | [^36] |
 | Granola | Series C (led, $125M, $1.5B val) | 2026-03-25 | AI/Enterprise | [^13][^38][^39][^40] |
 | Ineffable Intelligence | Seed (participated) | 2026-04-27 | AI / Foundation Models | [^37] |
-| Adfin | Series A (led) | 2026-05-12 | Fintech / AI Agents / SME | [^46][^47] |
 | Cowboy Space Corporation | Series B (led, $275M at $2B val) | 2026-05-11 | Space Tech/AI Infrastructure | [^41][^42][^43] |
 | Frame Security | Stealth-exit ($50M, co-led) | 2026-05-11 | Cybersecurity / Human Risk | [^44][^45] |
 | Adfin | Series A (led, €15.3M); seed (co-led, €8M, Feb 2025) | 2026-05-12 | Fintech / AI / SMB Payments | [^46][^47] |
@@ -150,6 +149,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Fonoa | Series C (follow-on, $110M; Headline led) | 2026-05-28 | Fintech / TaxTech / AI Compliance | [^52] |
 | Inherent | Seed (co-led with Radical Ventures, $50M) | 2026-05-28 | AI / Research / Scientific Discovery | [^53] |
 | Garner Health | Series E (led, $100M at $2.74B val) | 2026-05-29 | Healthcare / Care Navigation | [^54] |
+| PointFive | Series B (participated, $60M; Accel led) | 2026-06-08 | FinOps / Cloud Cost / AI Efficiency | [^55][^56][^57] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -242,4 +242,10 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^53]: Index Ventures, "Inherent: Designing for Discovery," May 28, 2026. Accessed May 2026. https://www.indexventures.com/perspectives/inherent-designing-for-discovery/ — Confirms Index Ventures co-led Inherent's $50M seed with Radical Ventures on May 28, 2026; NVentures (NVIDIA), Ex/Ante, Metaplanet, Macroscopic Ventures, and Mythos Ventures participated. London-based AI research lab building Faraday system; co-founders Tantum Collins, Edward Hughes, Louis Kirsch (ex-DeepMind) and Kaloyan Aleksiev (ex-Reka, Microsoft).
 
 [^54]: Index Ventures, "Garner: Bringing Intelligence to Healthcare's Hardest Choice," May 29, 2026. Accessed May 2026. https://www.indexventures.com/perspectives/garner-bringing-intelligence-to-healthcares-hardest-choice/ — Confirms Index Ventures led Garner Health's $100M Series E on May 29, 2026 at $2.74B valuation. Existing investors Kleiner Perkins, Redpoint, Thrive Capital, Sequoia Capital, Founders Fund, and Kaiser Permanente Ventures participated. Cross-referenced with PR Newswire, https://www.prnewswire.com/news-releases/garner-health-closes-100-million-series-e-at-a-2-74b-valuation-to-continue-addressing-the-healthcare-quality-and-cost-gap-302783840.html — Garner partners with 800 customers including USA Today, Paylocity, University of Oklahoma; ~$200M gross ARR; more than 2x growth for 5 consecutive years.
+
+[^55]: Globes, "Israeli AI efficiency co PointFive raises $60m," June 8, 2026. Accessed June 2026. https://en.globes.co.il/en/article-israeli-ai-efficiency-co-pointfive-raises-60m-1001545301 — Confirms PointFive's $60M Series B announced June 8, 2026, led by Accel with participation from Index Ventures, Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, and angels (Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar). Total funding to $96M.
+
+[^56]: FinSMEs, "PointFive Raises $60M in Series B Funding," June 8, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/pointfive-raises-60m-in-series-b-funding.html — Independent confirmation of $60M Series B led by Accel with Index Ventures, Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, and Sheva Ventures participating. PointFive founded by Alon Arvatz, Amir Hozez, and Gal Ben David; customers include Nubank, E.ON, Hertz, Fanatics, Swiss Post, NICE.
+
+[^57]: Calcalistech (Ctech), "PointFive raises $60 million Series B to help companies survive the AI cost explosion," June 8, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/sjpjbnnwzl — Third independent confirmation of Index Ventures participation in PointFive's $60M Series B on June 8, 2026; Accel led.
 

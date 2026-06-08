@@ -364,16 +364,19 @@ priority:
   status: resolved
 - slug: accel
   type: firm
-  reason: "led PointFive Series B $60M (2026-06-08)"
+  reason: "RESOLVED 2026-06-08 — PointFive Series B $60M (2026-06-08, led) added to portfolio with 3 independent primary citations (FinSMEs, Calcalistech, Globes). All 3 sources confirm Accel led with Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, Index Ventures participating, plus angels Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar. Founders: Alon Arvatz, Gal Ben-David, Amir Hozez. Recent 10 portfolio entries (Supabase through PointFive) all have full YYYY-MM-DD dates — no vague facts found in recent entries."
   added: 2026-06-08
+  status: resolved
 - slug: index-ventures
   type: firm
-  reason: "joined PointFive Series B (2026-06-08)"
+  reason: "RESOLVED 2026-06-08 — PointFive Series B $60M (2026-06-08, Accel-led, Index participated) added to portfolio with 3 independent primary citations (Globes [^55], FinSMEs [^56], Calcalistech [^57]). All 3 sources independently confirm Index Ventures participated alongside Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, plus angels Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar. PointFive total funding now $96M; Index portfolio page confirms ongoing relationship (Juriaan Duizendstraal Index team lead). Recent 10 portfolio entries (Granola 2026-03-25 through PointFive 2026-06-08) all have full YYYY-MM-DD dates — no vague facts found. Removed duplicate Adfin row."
   added: 2026-06-08
+  status: resolved
 - slug: mickey-boodaei
   type: investor
-  reason: "angel PointFive Series B (2026-06-08)"
+  reason: "RESOLVED 2026-06-08 — Mickey Boodaei VERIFIED as angel investor in PointFive Series B $60M (2026-06-08, Accel-led; Index Ventures, Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures participated; angels Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar named) by 3 independent primary sources (Calcalist/CTech [^26], Globes [^27], FinSMEs [^28]); all 3 explicitly name Boodaei. Portfolio row added; last_verified_investment updated from PointFive Series A 2024-11-12 to PointFive Series B 2026-06-08; Seed date tightened to 2024-06-18 and Series A to 2024-11-12 (per PointFive blog bylines); inferred thesis stage distribution updated. Recent 10 portfolio entries reviewed: Neosec 2021, Silk Security 2023, PointFive 2024 — only PointFive 2024 rows had year-only dates, now resolved."
   added: 2026-06-08
+  status: resolved
 - slug: techstars
   type: firm
   reason: "follow-on Volteum Series A €2.5M (2026-06-08)"

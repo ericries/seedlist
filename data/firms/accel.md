@@ -230,6 +230,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Cyera | Series G ($300M, participated; Evolution Equity Partners led at $12B post-money) | 2026-06-02 | Cybersecurity / Data Security | [^85][^86][^87] |
 | FirstClub | Series B ($55M, participated; Peak XV and Sofina co-led at $255M val) | 2026-06-03 | E-commerce / Quick Commerce / India | [^88][^89][^90] |
 | Supabase | Series F ($500M, participated; GIC led at $10.5B post-money) | 2026-06-04 | Developer Tools / Postgres / Agentic Infrastructure | [^93][^94][^95] |
+| PointFive | Series B ($60M, led) | 2026-06-08 | AI / Cloud Cost Optimization / FinOps | [^96][^97][^98] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -406,3 +407,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^94]: PR Newswire, "Supabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html — Independent wire confirmation explicitly listing Accel, Y Combinator, Craft, Felicis, Peak XV, Coatue, Stripe, and Salesforce Ventures as participants in the GIC-led Series F.
 
 [^95]: TechCrunch, "Supabase doubles valuation to $10B in 8 months," June 5, 2026. Accessed June 2026. https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/ — Contemporaneous press confirmation of the $500M Series F at $10.5B post-money led by GIC.
+
+[^96]: FinSMEs, "PointFive Raises $60M in Series B Funding," June 8, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/pointfive-raises-60m-in-series-b-funding.html — Confirms $60M Series B led by Accel with Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, and Index Ventures participating. Founders: Alon Arvatz (CEO), Gal Ben-David (CPO), Amir Hozez (CTO). Tel Aviv / London / US. Total funding to $96M.
+
+[^97]: Calcalistech (Ctech), "PointFive raises $60 million Series B to help companies survive the AI cost explosion," June 8, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/sjpjbnnwzl — Independent confirmation of Accel-led $60M Series B; participants Index Ventures, Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures; angels Mickey Boodaei (Transmit Security/Trusteer/Imperva), Guy Podjarny (Snyk/Tessl), Yasmin Lukatz (ICON), Amiram Shachar (Spot/Upwind).
+
+[^98]: Globes, "Israeli AI efficiency co PointFive raises $60m," June 8, 2026. Accessed June 2026. https://en.globes.co.il/en/article-israeli-ai-efficiency-co-pointfive-raises-60m-1001545301 — Third independent confirmation of $60M Series B led by Accel; participants Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, Index Ventures. Founders Alon Arvatz, Gal Ben David, Amir Hozez.

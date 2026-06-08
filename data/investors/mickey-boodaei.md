@@ -4,8 +4,8 @@ firm: transmit-security
 last_researched: 2026-03-22
 last_verified_investment:
   company: PointFive
-  date: 2024-11-12
-  round: Series A
+  date: 2026-06-08
+  round: Series B
 location: Tel Aviv, Israel
 name: Mickey Boodaei
 role: Co-Founder & CEO
@@ -61,9 +61,10 @@ Based on 20 verified investments compiled from Crunchbase, Tracxn, CTech, WireX 
 
 *Note: Fireblocks (blockchain security) and PointFive (cloud cost optimization) straddle categories; each counted once in primary category. PointFive is counted under cybersecurity due to its cloud infrastructure security connections, though it is primarily a FinOps company.*
 
-**Stage distribution (14 investments with confirmed round data):**
-- Seed: 9 of 14 (64%) — Armis, Fireblocks, Silk Security, Aorato, Hyperwise, Lacoon, Skyfence, vEyE Security, PointFive (seed round)
-- Series A: 5 of 14 (36%) — FireGlass, Preempt Security, TopSpin Security, WireX Systems, PointFive (Series A)
+**Stage distribution (15 round-level entries with confirmed round data across 14 companies):**
+- Seed: 9 of 15 (60%) — Armis, Fireblocks, Silk Security, Aorato, Hyperwise, Lacoon, Skyfence, vEyE Security, PointFive (seed round)
+- Series A: 5 of 15 (33%) — FireGlass, Preempt Security, TopSpin Security, WireX Systems, PointFive (Series A)
+- Series B: 1 of 15 (7%) — PointFive (Series B follow-on)
 
 Boodaei invests predominantly at the earliest stages, often as a founding or seed-round angel.
 
@@ -100,8 +101,9 @@ Boodaei invests predominantly at the earliest stages, often as a founding or see
 | Insert | Angel | ~2017 | Mobile Engagement | [^2] |
 | Neosec | Series A | 2021 | Cybersecurity (API Security) | [^23] |
 | Silk Security | Seed | 2023 | Cybersecurity (Risk Resolution) | [^14] |
-| PointFive | Seed | 2024 | Cloud Cost Optimization | [^24] |
-| PointFive | Series A | 2024 | Cloud Cost Optimization | [^25] |
+| PointFive | Seed | 2024-06-18 | Cloud Cost Optimization | [^24] |
+| PointFive | Series A | 2024-11-12 | Cloud Cost Optimization | [^25] |
+| PointFive | Series B | 2026-06-08 | Cloud Cost Optimization (FinOps) | [^26][^27][^28] |
 
 *Note: Years marked with ~ are estimates based on company founding dates or earliest known funding rounds, as exact investment dates are not publicly confirmed. Boodaei's investments in Aorato, Hyperwise, Lacoon, Skyfence, and Watchdox are confirmed but exact years are estimated as 2013 based on the WireX investor bio stating he has been investing "since 2008" and that these were early investments [^4].*
 
@@ -159,4 +161,7 @@ No other independently sourced founder testimonials found. Boodaei maintains a l
 [^22]: WireX Systems, "Press Release: WireX Closes $9.3 Million Round," accessed March 2026. https://wirexsystems.com/resource/wirex-closes-9-3-million-round/
 [^23]: CTech (Calcalist), "Cybersecurity startup Neosec comes out of stealth with $15 million Series A," September 2021, accessed March 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3917881,00.html
 [^24]: PointFive Blog, "PointFive Raises $16M in Seed Funding To Enable Continuous Cloud Cost Optimization," June 2024, accessed March 2026. https://www.pointfive.co/blog/pointfive-raises-16m-in-seed-funding-to-enable-continuous-cloud-cost-optimization
-[^25]: PointFive Blog, "PointFive Secures $20M In Series A Funding to Accelerate Multi-Cloud Support," November 2024, accessed March 2026. https://www.pointfive.co/blog/pointfive-secures-20m-in-series-a-funding-to-accelerate-cloud-cost-optimization-with-multi-cloud-support
+[^25]: PointFive Blog, "PointFive Secures $20M In Series A Funding to Accelerate Multi-Cloud Support," November 12, 2024, accessed June 2026. https://www.pointfive.co/blog/pointfive-secures-20m-in-series-a-funding-to-accelerate-cloud-cost-optimization-with-multi-cloud-support
+[^26]: Calcalist (CTech), "PointFive raises $60 million Series B to help companies survive the AI cost explosion," June 8, 2026, accessed June 2026. https://www.calcalistech.com/ctechnews/article/sjpjbnnwzl
+[^27]: Globes, "Israeli AI efficiency co PointFive raises $60m," June 8, 2026, accessed June 2026. https://en.globes.co.il/en/article-israeli-ai-efficiency-co-pointfive-raises-60m-1001545301
+[^28]: FinSMEs, "PointFive Raises $60M in Series B Funding," June 8, 2026, accessed June 2026. https://www.finsmes.com/2026/06/pointfive-raises-60m-in-series-b-funding.html
