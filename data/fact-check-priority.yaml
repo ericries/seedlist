@@ -347,3 +347,11 @@ priority:
   reason: "RESOLVED 2026-06-07 — DriveNets Series D $410M (2026-06-01, co-led by Bessemer + Atreides; AMD and Red Dot Capital as new investors; Pitango and D1 Capital Partners as existing investors; $8.5B valuation) added to portfolio with 3 independent primary citations (PR Newswire press release [^53], Silicon Report [^54], The SaaS News [^55]). All 3 sources independently confirm Pitango as existing investor. Recent 10 portfolio entries reviewed: DriveNets 2026-06-01 and Adaptive6 2026-01-28 have full YYYY-MM-DD; AAI Technologies 2025-05 has month-level; older entries (2024 Altesa, 2023 Surge, 2022 Visby/Lumen, 2021 Quantum Source/Finout/Aquant) remain year-only — pre-existing condition outside scope of this round-driven sweep."
   added: 2026-06-07
   status: resolved
+- slug: craft-ventures
+  type: firm
+  reason: "joined Allen Control Systems Series B $200M at $2.2B val (2026-06-05)"
+  added: 2026-06-07
+- slug: inspired-capital
+  type: firm
+  reason: "joined Allen Control Systems Series B (2026-06-05)"
+  added: 2026-06-07
