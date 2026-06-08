@@ -90,7 +90,7 @@ Lindzon has emphasized disciplined pricing as a core strategy, and Matt Ober sta
 | SyntheticFi | Seed | 2024 | Fintech | Active [^2] |
 | Tabflows | Pre-Seed | 2024 | Healthcare/AI | Active [^2] |
 | Archive Intel | Series A | ~2022 | Fintech | Active [^2][^10] |
-| beehiiv | Series B | 2021 | SaaS | Active [^2][^11] |
+| beehiiv | Seed (led) → Series A → Series B follow-on | 2021-10-06 (Seed), 2023-06-21 (Series A), 2024-04-30 (Series B) | SaaS | Active [^2][^11][^15][^16] |
 | Birdwatch | Seed | ~2022 | Consumer/Proptech | Active [^2] |
 | Commonwealth | Seed | ~2022 | Fintech | Active [^2] |
 | Construct CRM | Seed | ~2022 | Proptech/AI | Active [^2] |
@@ -217,3 +217,5 @@ Naval Ravikant, CEO of AngelList, has highlighted the firm's commitment to growt
 [^12]: Howard Lindzon blog, "Fund II Portfolio Company Kustomer Acquired By Facebook Parent Company Meta," accessed March 2026. https://howardlindzon.com/fund-ii-portfolio-company-kustomer-acquired-by-facebook-parent-company-meta/
 [^13]: Fintech Leaders Substack, "Howard Lindzon: The Rise of the Degenerate Economy," February 2025, accessed March 2026. https://fintechleaders.substack.com/p/howard-lindzon-the-rise-of-the-degenerate
 [^14]: Howard Lindzon blog, "Panic with Friends - Paul Tran - Founder, CEO, and Visionary Behind Manscaped," accessed March 2026. https://www.howardlindzon.com/p/panic-friends-paul-tran-founder-ceo-visionary-behind-manscaped
+[^15]: TechCrunch, "beehiiv, a newsletter platform, gets $12.5M in its inbox," June 21, 2023, accessed June 2026. https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/
+[^16]: TechCrunch, "beehiiv attracts $33M to make its newsletter publishing platform more sticky," April 30, 2024, accessed June 2026. https://techcrunch.com/2024/04/30/beehiiv-newsletters/
