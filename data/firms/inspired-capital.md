@@ -24,7 +24,7 @@ team:
   - slug: chris-brown
     role: Partner
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-06-07
 ---
 
 ## About
@@ -108,7 +108,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Canvas Medical | Series A | 2021 | Healthcare / B2B | Active | [^25] |
 | Treeswift | Early | 2022 | Frontier / Robotics | Active | [^13] |
 | Scythe | Series A | 2021 | Industrial | Exited | [^26] |
-| Day.ai | Seed | 2024 | AI / CRM | Active | [^27] |
+| Day.ai | Seed | 2024-06-20 | AI / CRM | Active | [^27][^39] |
 | Axion | Early | 2023 | AI / Industrial | Active | [^13] |
 | Edia | Early | 2022 | Education | Active | [^13] |
 | Kalepa | Series A | 2021 | Insurtech / AI | Active | [^28] |
@@ -137,7 +137,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Umbrella | Early | 2022 | Consumer | Exited | [^13] |
 | Sheer Health | Early | 2023 | Healthcare | Active | [^13] |
 | Zaya | Early | 2023 | Healthcare | Active | [^13] |
-| Allen Control Systems | Early | 2023 | Industrial / Defense | Active | [^13] |
+| Allen Control Systems | Series B | 2026-06-05 | Industrial / Defense | Active | [^13][^36][^37][^38] |
 | Class 8 | Early | 2022 | Industrial / Logistics | Active | [^13] |
 | Compass Regulatory | Early | 2023 | Industrial / Ag | Active | [^13] |
 | Syndica | Early | 2022 | Crypto / Infra | Active | [^13] |
@@ -227,3 +227,7 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^33]: PR Newswire, "Windmill, the AI Company That Bets on Humans, Raises $12M," April 28, 2026. https://www.prnewswire.com/news-releases/windmill-the-ai-company-that-bets-on-humans-raises-12m-302755153.html
 [^34]: BusinessWire, "Solace Raises $14M to Empower Patients through Healthcare Advocates," August 22, 2024. https://www.businesswire.com/news/home/20240822742962/en/Solace-Raises-$14M-to-Empower-Patients-through-Healthcare-Advocates
 [^35]: Paytient blog, "Paytient Raises $55.5 Million to Help Americans Access and Afford Healthcare," January 10, 2023. https://www.paytient.com/blog/paytient-raises-55-million-to-help-americans-access-and-afford-healthcare
+[^36]: BusinessWire, "Allen Control Systems Raises $200 Million Series B at $2.2 Billion Post-Money Valuation to Scale Manufacturing and Accelerate Deployment of Bullfrog," June 5, 2026. https://www.businesswire.com/news/home/20260526638233/en/Allen-Control-Systems-Raises-$200-Million-Series-B-at-$2.2-Billion-Post-Money-Valuation-to-Scale-Manufacturing-and-Accelerate-Deployment-of-Bullfrog
+[^37]: Pulse 2.0, "Allen Control Systems Raises $200 Million Series B At $2.2 Billion Valuation To Scale Bullfrog Autonomous Weapon Systems," June 5, 2026. https://pulse2.com/allen-control-systems-raises-200-million-series-b-at-2-2-billion-valuation-to-scale-bullfrog-autonomous-weapon-systems/
+[^38]: VCNewsDaily, "Allen Control Systems Scoops Up $200M Series B," accessed June 2026. https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz
+[^39]: TechCrunch, "Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia," June 20, 2024. https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/

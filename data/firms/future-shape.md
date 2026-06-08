@@ -92,15 +92,15 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Aectual | Growth | ~2019 | 3D printing / sustainability | [^6] |
 | Ambient Photonics | Series A | 2022 | Low-light solar cells | [^19] |
 | Carbice | Series A | 2020 | Carbon nanotube manufacturing | [^4][^31] |
-~unknown| Diamond Foundry | — | — | Synthetic diamonds / materials | [^6] |
+| Diamond Foundry | Growth | 2021-04-27 | Synthetic diamonds / materials | [^6][^36][^37] |
 | Edda | Seed | 2022 | PE/VC management software | [^21] |
 | Hodinkee | Series B | 2020 | Watch media / e-commerce | [^17] |
 ~unknown| Impossible Foods | — | — | Alternative protein / food tech | [^6][^11] |
 | Ledger | Series C extension | 2023 | Crypto hardware wallet | [^13][^32] |
-~unknown| Lightship | — | — | Electric RV | [^4] |
+| Lightship | Seed | 2021 | Electric RV | [^38][^39] |
 | Lumafield | Series B | 2022 | Desktop CT scanner | [^2] |
 | Mantle | Series A | 2021 | Metal 3D printing / tooling | [^22] |
-~unknown| Menlo Micro | — | — | Microelectronic switches | [^11] |
+| Menlo Micro | Series C | 2022-03-09 | Microelectronic switches | [^40][^41] |
 | mmhmm | Seed | 2020 | Video / presentation tools | [^10] |
 | MycoWorks | Series B | 2020 | Bio-materials / alternative leather | [^11][^33] |
 | Nabla | Series C | 2025 | Healthcare AI / ambient documentation | [^23] |
@@ -108,14 +108,14 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Nothing | Series B | 2022 | Consumer electronics / smartphones | [^24] |
 | Orionis Biosciences | Series C | 2022 | Biotech / cancer immunotherapy | [^16][^34] |
 ~unknown| Phononic | — | — | Solid-state cooling / climate | [^11] |
-~unknown| Prenuvo | — | — | Full-body MRI screening | [^8] |
+| Prenuvo | Series A | 2022-10-18 | Full-body MRI screening | [^42] |
 | Remedy Robotics | Series A | 2025 | Surgical robotics | [^25] |
 | RightHand Robotics | Series C | 2022 | Warehouse robotics | [^26] |
 ~unknown| Rohinni | — | — | Micro LED technology | [^11] |
 | Simbe Robotics | Series A | ~2019 | Retail robotics / automation | [^14] |
 | Smartex | Series A | 2022 | AI textile quality / sustainability | [^18] |
 | Sweep | Series B | 2022 | Carbon accounting / climate tech | [^27] |
-~unknown| Turntide | — | — | Digital motors / energy efficiency | [^11] |
+| Turntide | Series B | 2020-09-24 | Digital motors / energy efficiency | [^11][^43] |
 | Turvo | Series A | 2017 | Logistics management | [^3][^35] |
 ~unknown| WiTricity | — | — | Wireless charging / transportation | [^4] |
 | XpertSea | Series B | 2021 | Aquaculture / ag-tech | [^28] |
@@ -230,4 +230,20 @@ No additional independently sourced founder testimonials were found beyond the e
 [^34]: Crunchbase, "Series C - Orionis Biosciences - 2022-10-19," accessed April 2026. https://www.crunchbase.com/funding_round/orionis-biosciences-series-c--6135aa5d
 
 [^35]: TechCrunch, "Logistics startup Turvo zooms out of stealth with $25 million in Series A funding," March 28, 2017. https://techcrunch.com/2017/03/28/logistics-startup-turvo-emerges-from-stealth-with-25-million-in-series-a-funding/
+
+[^36]: Diamond Foundry, "Fidelity Invests $200m in Diamond Foundry," April 27, 2021. https://www.df.com/insights/fidelity-invests-200m-in-diamond-foundry
+
+[^37]: Technowize, "Diamond Foundry valued at $1.8 billion following $200 million investment," April 2021. https://www.technowize.com/diamond-foundry-valued-at-1-8-billion-following-200-million-investment/
+
+[^38]: BusinessWire, "Announcing the Lightship L1: The First Purpose-built All-electric RV," March 8, 2023. https://www.businesswire.com/news/home/20230308005302/en/Announcing-the-Lightship-L1-The-First-Purpose-built-All-electric-RV
+
+[^39]: Obvious Ventures (Andrew Beebe), "RVs Get Electrified: Investing in Lightship," July 27, 2021. https://medium.com/obvious-ventures/rvs-get-electrified-investing-in-lightship-d05e0eee0c0b
+
+[^40]: Menlo Micro, "Menlo Micro Announces $150 Million in Series C Funding as Ideal Switch Technology Accelerates the Electrification of Everything," March 9, 2022. https://menlomicro.com/newsroom/menlo-micro-announces-150-million-in-series-c-funding-as-ideal-switch-technology-accelerates-the-electrification-of-everything
+
+[^41]: Private Equity Wire, "Menlo Micro secures USD150m in Series C round led by Vertical Venture Partners and Future Shape," March 2022. https://www.privateequitywire.co.uk/menlo-micro-secures-usd150m-series-c-round-led-vertical-venture-partners-and/
+
+[^42]: Prenuvo, "Prenuvo Raises $70M Series A Led By Felicis to Reimagine Preventive Healthcare," October 18, 2022. https://prenuvo.com/announcements/prenuvo-raises-70m-series-a-led-by-felicis-to-reimagine-preventive
+
+[^43]: PR Newswire, "Turntide Technologies Brings Change to Global Power Consumption with World's First Digital, Intelligent and Sustainable Electric Motor, Raises $33M Including Investment from Amazon Climate Pledge Fund," September 24, 2020. https://www.prnewswire.com/news-releases/turntide-technologies-brings-change-to-global-power-consumption-with-worlds-first-digital-intelligent-and-sustainable-electric-motor-raises-33m-including-investment-from-amazon-climate-pledge-fund-301137423.html
 
