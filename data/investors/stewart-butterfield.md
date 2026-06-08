@@ -106,17 +106,17 @@ Butterfield invests predominantly at seed and Series A, with occasional particip
 | Venue | 2022 | Seed | Productivity software | [^4] |
 | BigSpring | 2022 | Later Stage | Enterprise software | [^4] |
 | Dovetail | 2022 | Series A | User research | [^5] |
-| Rise | ~2022 | Seed | Team calendar | [^15] |
+| Rise | 2022-01-18 | Pre-Seed | Team calendar | [^15] |
 | 1Password | 2021 | Series B | Security | [^11] |
 | Netlify | 2018 | Series B | Developer tools | [^23] |
 | Front | 2016 | Series A | Team email | [^24] |
 | Intercom | 2016 | Series C | Customer communications | [^20] |
 | Tandem | ~2019 | Seed | Virtual office | [^9] |
 ~unknown| Assembled | -- | -- | Workforce management | [^9] |
-~unknown| Etsy | -- | -- | Marketplace | [^4] |
-~unknown| Away | -- | -- | Consumer/travel | [^21] |
+| Etsy | ~2007 | Early angel | Marketplace | [^29] |
+| Away | 2019-05-14 | Series D | Consumer/travel | [^21] [^28] |
 
-*This table represents approximately 63% of an estimated 35 total investments [^4]. Several early investments (Etsy, Away, Kickstarter) lack confirmed round and year data from available sources. Assembled and Tandem are sourced from secondary aggregators only [^9].*
+*This table represents approximately 63% of an estimated 35 total investments [^4]. Kickstarter lacks confirmed round and year data from available sources. Assembled, Tandem, Sprig, and BigSpring rows reflect aggregator listings only ([^4], [^9]) — primary press announcements for these rounds do not name Butterfield as a participant, so the specific round and year remain unverified.*
 
 ## In Their Own Words
 
@@ -143,7 +143,7 @@ No independently sourced founder testimonials found. Butterfield is a low-profil
 ## Connections
 
 **Co-investors (most frequent verified):**
-- **Lachy Groom** -- co-invested in Rise (2021) [^15] and Humaans (2022) [^16]
+- **Lachy Groom** -- co-invested in Rise (2022) [^15] and Humaans (2022) [^16]
 - **Tobi Lutke** (Shopify) -- co-invested in 1Password (2021) [^11], Humaans (2022) [^16], and Neo Financial (2024) [^12]
 - **Cal Henderson** (Slack CTO) -- co-invested in Noded AI (2024) [^13] and Panobi (2023) [^14]
 - **Accel** -- co-invested in ModernLoop (2022) [^18], Linear (2023) [^17], and Dovetail (2022) [^5]
@@ -189,3 +189,5 @@ No independently sourced founder testimonials found. Butterfield is a low-profil
 [^25]: Bloomberg, "Transcript: Stewart Butterfield on VCs, AI, and Software," May 25, 2023. https://www.bloomberg.com/news/articles/2023-05-25/transcript-stewart-butterfield-on-vcs-ai-and-software
 [^26]: Lenny's Newsletter, "Slack founder: Mental models for building products people love ft. Stewart Butterfield," November 2025. https://www.lennysnewsletter.com/p/slack-founder-stewart-butterfield
 [^27]: Masters of Scale, "The Big Pivot, with Stewart Butterfield," accessed March 2026. https://mastersofscale.com/stewart-butterfield-the-big-pivot/
+[^28]: TechCrunch, "Trendy luggage brand Away packs on $100M, rolls past $1.4B valuation," May 14, 2019. https://techcrunch.com/2019/05/14/away-packs-on-100m/
+[^29]: TechCrunch, "Etsy Raises $27 Million; Accel's Jim Breyer Joins Board," January 30, 2008. Confirms Stewart Butterfield, Caterina Fake, Joshua Schachter, and Albert Wenger as early angel investors who collectively contributed $4.6M before the Series D. https://techcrunch.com/2008/01/30/etsy-raises-27-million-accels-jim-breyer-joins-board/

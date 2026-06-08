@@ -74,10 +74,10 @@ He describes his investment framework in terms of long-term conviction: "Almost 
 
 | Company | Year | Stage | Sector | Status | Source |
 |---|---|---|---|---|---|
-| Beddit | ~2014 | Seed | Sleep tracking / consumer health | Acquired by Apple (May 2017) | [^9] |
-| Augmedix | 2014 | Seed | Clinical AI / ambient documentation | Public (AUGX, acquired by Commure 2023) | [^13] |
+| Beddit | 2014-09-04 | Seed | Sleep tracking / consumer health | Acquired by Apple (May 2017) | [^9][^17] |
+| Augmedix | 2014-03-19 | Seed | Clinical AI / ambient documentation | Public (AUGX, acquired by Commure 2023) | [^13][^18] |
 | MyFitnessPal | ~2013 | Seed/Angel | Fitness & nutrition software | Acquired by Under Armour 2015; divested 2020 | [^5] |
-| Lantern | ~2015 | Seed | Mental health / behavioral wellness | Acquired by Castlight Health 2017 | [^5] |
+| Lantern | ~2015 | Seed | Mental health / behavioral wellness | Wound down July 2018; IP licensed to Spring Health, Omada, Ginger (2019) | [^5][^19] |
 | Rise | ~2014 | Seed | Sleep coaching app | Active | [^5][^16] |
 | WayBetter | ~2014 | Seed | Behavioral wellness / gamified health | Active | [^14] |
 | Edamam | ~2015 | Seed | Food & nutrition data API | Active | [^14] |
@@ -149,3 +149,9 @@ No independently sourced founder testimonials found. Sami Inkinen's angel invest
 [^15]: Fortune, "CEO of $2 billion health firm felt rich after paying $100K in debt—but his joy disappeared in days," January 25, 2026, accessed March 2026. https://fortune.com/2026/01/25/ceo-of-2-billion-healthcare-company-virta-health-sami-inkinen-felt-rich-100k-student-debt-joy-disappeared/
 
 [^16]: Rise Science, "About Us," accessed May 2026. https://www.risescience.com/about-us — Confirms Rise Science (sleep coaching app) is actively operating in 2026, with 75,829 app ratings and "One of Apple's Best Apps of 2026" recognition. Cross-referenced with Rise Science homepage, accessed May 2026. https://www.risescience.com/ and Crunchbase News, "Get Out Of Sleep Debt: Rise Science Secures $15.5M For App To Boost Energy Levels," 2021. https://news.crunchbase.com/health-wellness-biotech/get-out-of-sleep-debt-rise-science-secures-15-5m-for-app-to-boost-energy-levels/ — Series A $10M led by Goodwater Capital announced June 2021.
+
+[^17]: BusinessWire, "Beddit Sleep Monitor Closes Funding From Inventure; To-Date Totals $8 Million," September 4, 2014, accessed June 2026. https://www.businesswire.com/news/home/20140904006517/en/Beddit-Sleep-Monitor-Closes-Funding-Inventure-To-Date — Confirms Beddit seed round closed September 4, 2014, with Inventure, Finnvera Venture Capital, Michael Widenius, and Sami Inkinen as investors; brings total funding to $8M including $3.5M seed.
+
+[^18]: PRNewswire, "Healthcare Startup Augmedix Announces $3.2 Million in Venture Funding," March 19, 2014, accessed June 2026. https://www.prnewswire.com/news-releases/healthcare-startup-augmedix-announces-32-million-in-venture-funding-250945491.html — Confirms $3.2M seed round announced March 19, 2014 (closed August 31, 2013), led by DCM and Emergence Capital Partners. Note: press release does not name angel investors; Inkinen's participation is confirmed via Crunchbase [^13] and Rock Health [^5].
+
+[^19]: TechCrunch, "Mental health startup Lantern will continue to live through IP licensing deals," February 12, 2019, accessed June 2026. https://techcrunch.com/2019/02/12/mental-health-startup-lantern-will-continue-to-live-through-ip-licensing-deals/ — Confirms Lantern wound down consumer operations in July 2018 (was NOT acquired by Castlight Health) and licensed IP to Omada Health, Spring Health, Ginger, and two other providers in 2019. Cross-referenced with TechCrunch, "Mental health startup Lantern winds down its customer operations," July 24, 2018. https://techcrunch.com/2018/07/24/mental-health-startup-lantern-winds-down-its-customer-operations/

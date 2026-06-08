@@ -4,8 +4,8 @@ firm: rebel-fund
 last_researched: 2026-05-01
 last_verified_investment:
   company: Tracer Bio
-  date: ~2024
-  round: Series A ($10M) — listed on Tracxn; not confirmed in contemporaneous press
+  date: 2024-12-19
+  round: Series A ($10M, led by GKCC)
 location: San Francisco, California
 name: Trip Adler
 role: Co-founder & CEO, Created by Humans; Partner, Rebel Fund
@@ -62,8 +62,8 @@ The verified pattern from publicly sourced deals:
 
 - **YC alignment is the dominant signal.** Adler's most recent confirmed deal (Atla, December 2023) was a YC-backed seed round in which Adler participated via Rebel Fund [^9] [^10]. His earliest documented angel check, Swiftype (August 2013), was a YC W12 alumnus [^11]. Both Scribd's founding and his subsequent investing activity sit inside the YC alumni network.
 - **Operator-stage involvement, not full-time investing.** Adler ran Scribd as CEO until October 2023 and is currently CEO of Created by Humans (2024-present) [^1] [^2] [^3]. Like other Rebel Partners, his investing is a side activity layered on top of an operating role, which constrains deal volume.
-- **Recent deal cadence is sparse.** Public records confirm angel activity in 2013 (Swiftype), occasional later checks summarized but not detailed on aggregator sites [^12], and 2023 participation in Atla via Rebel Fund [^9]. Tracxn additionally lists a Tracer Bio Series A in December 2024 [^13]; this is not corroborated by contemporaneous press and should be treated as unverified.
-- **Sector pattern: AI, developer tools, and publishing/content-adjacent.** Atla is an AI safety/evaluation company [^9]. Swiftype was a search infrastructure / developer tools company acquired by Elastic in 2017 [^11]. Both sit close to Adler's operator domains (content infrastructure, AI).
+- **Recent deal cadence is sparse.** Public records confirm angel activity in 2013 (Swiftype), occasional later checks summarized but not detailed on aggregator sites [^12], 2023 participation in Atla via Rebel Fund [^9], and a December 2024 angel check into Tracer Bio's $10M Series A (lead: GKCC) alongside Balaji Srinivasan, Nat Turner, Edward Lando, and Noam Ohana [^15] [^16].
+- **Sector pattern: AI, developer tools, publishing/content-adjacent, and one biotech check.** Atla is an AI safety/evaluation company [^9]. Swiftype was a search infrastructure / developer tools company acquired by Elastic in 2017 [^11]. Tracer Bio is a ctDNA / cancer monitoring biotech [^15]. The biotech check is the outlier and reads more as YC-network / co-investor (Nat Turner, Edward Lando) participation than a sector thesis signal.
 
 **Active investor signal: weak-to-moderate.** A founder evaluating Adler as an angel today should anticipate that direct personal checks are rare; the more reliable path is through Rebel Fund, which writes checks into YC-batch companies systematically [^6]. Adler is also building Created by Humans full-time, which further limits his personal angel bandwidth.
 
@@ -73,7 +73,7 @@ The verified pattern from publicly sourced deals:
 |---------|------|-------|--------|
 | Swiftype | 2013 | Seed ($1.7M) — acquired by Elastic in 2017 | [^11] [^12] |
 | Atla | 2023-12-07 | Seed ($5M, led by Creandum) — participated via Rebel Fund | [^9] [^10] |
-| Tracer Bio | 2024-12-20 | Series A ($10M) — listed on Tracxn; not confirmed in contemporaneous press | [^13] |
+| Tracer Bio | 2024-12-19 | Series A ($10M, led by GKCC) — Adler listed among angel participants alongside Balaji Srinivasan, Edward Lando, Nat Turner, and Noam Ohana | [^13] [^15] [^16] |
 
 CB Insights lists Adler as having made 4 total investments, of which only the Atla 2023 entry is fully disclosed publicly; three older entries (2013, 2014, 2019) are paywalled and could not be independently confirmed [^12]. Tracxn lists 2 angel investments (Swiftype and Tracer Bio) [^13]. The table above lists every publicly traceable row; readers should assume the true portfolio is somewhat larger than what aggregators expose.
 
@@ -126,3 +126,5 @@ No independently sourced founder testimonials about working with Trip Adler as a
 [^12]: Trip Adler — Investor Profile, CB Insights, accessed May 2026. https://www.cbinsights.com/investor/trip-adler-investments
 [^13]: Trip Adler — Portfolio & Founded Companies, Tracxn, accessed May 2026. https://tracxn.com/d/people/trip-adler/__sgTuPbS5jB4e0yQQAbCAaImO56AaVJ1JpRuRkxemUaw
 [^14]: "Authors Guild Partners with Created by Humans to Empower Authors in the AI Era," Authors Guild press release, October 9, 2024, accessed May 2026. https://authorsguild.org/news/ag-partners-with-created-by-humans-to-empower-authors-in-ai-era/
+[^15]: "Tracer 2.0 — Tracer announces partnership with AstraZeneca and Series A financing," Tracer Biotechnologies company blog, December 19, 2024, accessed June 2026. https://www.tracerbio.com/blog-posts/tracer-announces-partnership-with-astrazeneca-and-series-a-financing
+[^16]: Tracer Biotechnologies Series A funding round profile (closing date 2024-12-12; $10M led by GKCC with Trip Adler listed among angel participants), Crunchbase, accessed June 2026. https://www.crunchbase.com/funding_round/tracer-biotechnologies-series-a--1b38e7ad
