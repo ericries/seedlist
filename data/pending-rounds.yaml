@@ -20,6 +20,33 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: UK-based NewOrbit raises €16 million to build commercial satellites for very
+    low Earth orbit (VLEO)
+  url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
+  source: eu-startups
+  date_found: '2026-06-08'
+  parsed_company: UK-based NewOrbit
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Ghent’s Companion.energy raises €7.8 million to help large enterprises manage
+    energy in real time
+  url: https://www.eu-startups.com/2026/06/ghents-companion-energy-raises-e7-8-million-to-help-large-enterprises-manage-energy-in-real-time/
+  source: eu-startups
+  date_found: '2026-06-08'
+  parsed_company: Ghent’s Companion.energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Profitable German heat pump platform GALVANY closes €10 million Seed round
+    after sevenfold revenue growth
+  url: https://www.eu-startups.com/2026/06/profitable-german-heat-pump-platform-galvany-closes-e10-million-seed-round-after-sevenfold-revenue-growth/
+  source: eu-startups
+  date_found: '2026-06-08'
+  parsed_company: Profitable German heat pump platform GALVANY
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/8/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
   source: alleywatch
@@ -875,32 +902,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: gray-swan.md already published with 2026-05-28 Series A $40M co-led by Wing+Madrona
-- title: H1 raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: H1
-  parsed_amount: $40M
-  parsed_round: null
-  status: processed
-  notes: h1.md already published with 2026-05-28 Growth $40M led by CVS Health Ventures
-- title: Utilidata raised $40M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Utilidata
-  parsed_amount: $40M
-  parsed_round: Series C
-  status: processed
-  notes: utilidata.md already published with 2026-05-28 Series C extension $40M led
-    by Renown Capital Partners
-- title: LightTable raised $22M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: LightTable
-  parsed_amount: $22M
-  parsed_round: Series A
-  status: processed
-  notes: lighttable.md already published with 2026-05-27 Series A $22M led by Innovation
-    Endeavors
