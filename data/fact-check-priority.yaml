@@ -349,9 +349,11 @@ priority:
   status: resolved
 - slug: craft-ventures
   type: firm
-  reason: "joined Allen Control Systems Series B $200M at $2.2B val (2026-06-05)"
+  reason: "RESOLVED 2026-06-07 — Allen Control Systems Series B $200M at $2.2B post-money val (2026-06-05, Smash Capital led; Craft Ventures, Rally Ventures, Inspired Capital participated) added to craft-ventures portfolio with 3 independent primary citations (Yahoo Finance/BusinessWire [^19], Pulse 2.0 [^20], VCNewsDaily [^21]); Defense Daily confirmed round + lead. Most recent 10 portfolio entries checked — Unframe AI tightened from 2025-04 to 2025-04-03 per SiliconANGLE; Supabase, ComfyUI, Oasis, Unframe Series B, Upwind, Noma all have full YYYY-MM-DD dates."
   added: 2026-06-07
+  status: resolved
 - slug: inspired-capital
   type: firm
-  reason: "joined Allen Control Systems Series B (2026-06-05)"
+  reason: "RESOLVED 2026-06-07 — Allen Control Systems Series B $200M at $2.2B post-money (2026-06-05, Smash Capital-led; Craft Ventures, Rally Ventures, Inspired Capital existing investors) row updated in portfolio (previously 'Early 2023') with 3 independent primary citations: (1) BusinessWire press release [^36], (2) Pulse 2.0 [^37], (3) VCNewsDaily [^38]. All 3 sources independently confirm Inspired Capital as existing/return investor. Also resolved vague date on Day.ai seed (was '2024', now 2024-06-20 per TechCrunch [^39] — Sequoia-led $4M)."
   added: 2026-06-07
+  status: resolved

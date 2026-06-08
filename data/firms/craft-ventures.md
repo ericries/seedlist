@@ -135,11 +135,12 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Secoda | Angel-Seed | ~2021 | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
 | Noma Security | Series B (participant) | 2025-07-31 | Enterprise/Security | Active — $100M, Evolution Equity-led [^7][^17] |
 | Upwind Security | Series B (led) | 2024-12-02 | Enterprise/Security | Active — $100M at ~$900M val [^7][^18] |
-| Unframe AI | Series A | 2025-04 | Enterprise/AI | Active [^7] |
+| Unframe AI | Series A (participant) | 2025-04-03 | Enterprise/AI | Active — $50M, Bessemer co-led [^7] |
 | Unframe | Series B (participant) | 2026-05-19 | Enterprise/AI | Active [^13] |
 | Oasis Security | Series B (led) | 2026-03-19 | Enterprise/Cybersecurity | Active — $120M [^10] |
 | ComfyUI | Series A (led) | 2026-04-24 | AI / Generative Media | Active — $30M at $500M val [^12] |
 | Supabase | Series F (participant) | 2026-06-04 | Enterprise/Developer Tools (Database) | Active — $500M at $10.5B post-money, GIC led [^14][^15][^16] |
+| Allen Control Systems | Series B (participant) | 2026-06-05 | Defense Tech / Counter-Drone | Active — $200M at $2.2B post-money, Smash Capital led; Rally Ventures, Inspired Capital also participated [^19][^20][^21] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -185,3 +186,6 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^16]: TechCrunch, "Supabase doubles valuation to $10B in 8 months," June 5, 2026. Accessed June 2026. https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
 [^17]: Noma Security blog, "Noma Security Raises $100M to Drive Adoption of AI Agent Security," July 31, 2025. Accessed June 2026. https://noma.security/blog/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security/
 [^18]: TechCrunch, "Cloud security specialist Upwind confirms it raised $100M at a $900M valuation," December 2, 2024. Accessed June 2026. https://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation/
+[^19]: BusinessWire/Yahoo Finance, "Allen Control Systems Raises $200 Million Series B at $2.2 Billion Post-Money Valuation to Scale Manufacturing and Accelerate Deployment of Bullfrog," June 5, 2026. Accessed June 2026. https://sg.finance.yahoo.com/news/allen-control-systems-raises-200-141300911.html
+[^20]: Pulse 2.0, "Allen Control Systems Raises $200 Million Series B At $2.2 Billion Valuation To Scale Bullfrog Autonomous Weapon Systems," June 5, 2026. Accessed June 2026. https://pulse2.com/allen-control-systems-raises-200-million-series-b-at-2-2-billion-valuation-to-scale-bullfrog-autonomous-weapon-systems/
+[^21]: VCNewsDaily, "Allen Control Systems Scoops Up $200M Series B," June 2026. Accessed June 2026. https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz
