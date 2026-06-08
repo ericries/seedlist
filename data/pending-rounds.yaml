@@ -47,6 +47,46 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/8/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-8-2026/
+  source: alleywatch
+  date_found: '2026-06-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: PhysicsX raised $300M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-08'
+  parsed_company: PhysicsX
+  parsed_amount: $300M
+  parsed_round: Series C
+  status: pending
+- title: RLeXtw A raised $47M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-08'
+  parsed_company: RLeXtw A
+  parsed_amount: $47M
+  parsed_round: null
+  status: pending
+- title: Blnk raised $12.5M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-08'
+  parsed_company: Blnk
+  parsed_amount: $12.5M
+  parsed_round: Series A
+  status: pending
+- title: BeatpulseLabs raised $1.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-08'
+  parsed_company: BeatpulseLabs
+  parsed_amount: $1.8M
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/8/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
   source: alleywatch
@@ -855,50 +895,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: corgi.md already includes 2026-05-28 Series B1 $106M led by TCV
-- title: Garner Health raised $100M Series E
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Garner Health
-  parsed_amount: $100M
-  parsed_round: Series E
-  status: processed
-  notes: garner-health.md already includes 2026-05-29 Series E $100M led by Index
-    Ventures
-- title: Observable Space raised $90M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Observable Space
-  parsed_amount: $90M
-  parsed_round: null
-  status: processed
-  notes: observable-space.md already published with 2026-05-28 Series A $90M led by
-    Lux Capital
-- title: Reactor raised $59M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Reactor
-  parsed_amount: $59M
-  parsed_round: null
-  status: processed
-  notes: reactor.md already published with 2026-05-28 Series A $59M led by Lightspeed
-- title: Inherent raised $50M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Inherent
-  parsed_amount: $50M
-  parsed_round: Seed
-  status: processed
-  notes: inherent.md already published with 2026-05-28 Seed $50M co-led by Index/Radical
-- title: Gray Swan raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Gray Swan
-  parsed_amount: $40M
-  parsed_round: null
-  status: processed
-  notes: gray-swan.md already published with 2026-05-28 Series A $40M co-led by Wing+Madrona
