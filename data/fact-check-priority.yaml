@@ -359,8 +359,9 @@ priority:
   status: resolved
 - slug: general-catalyst
   type: firm
-  reason: "follow-on PhysicsX Series C $300M at $2.4B val (2026-06-08)"
+  reason: "RESOLVED 2026-06-08 — PhysicsX Series C $300M at $2.4B val (2026-06-08, Temasek-led, GC participated as existing investor) row updated from 'Growth ~2019 (founded)' to full Series C details with 3 independent primary citations (PhysicsX press release [^69], Tech.eu, Pulse 2.0). All 3 sources confirm GC participation alongside Applied Materials, Atomico, July Fund, NGP, NVIDIA, Radius, Siemens; new investors M&G and Intrepid Growth Partners."
   added: 2026-06-08
+  status: resolved
 - slug: accel
   type: firm
   reason: "led PointFive Series B $60M (2026-06-08)"

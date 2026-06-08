@@ -198,7 +198,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Collaborative Robotics | Growth | ~2022 (founded) | Robotics | Private [^29] |
 | Nominal | Series B Extension (participated) | 2026-03-05 | Defense Tech / Hardware / Data | Private [^29][^36][^58] |
 | Cloaked | Series B (co-led) | 2026-03-19 | Consumer / Privacy | Private [^36][^50] |
-| PhysicsX | Growth | ~2019 (founded) | AI / Simulation | Private [^29] |
+| PhysicsX | Series C (participated) | 2026-06-08 | AI / Industrial Simulation | Private ($2.4B val) [^29][^69] |
 | Charm Industrial | Growth | ~2018 (founded) | Climate / Carbon Removal | Private [^29] |
 | Pacific Fusion | Series A (led) | 2024-10-25 | Energy / Fusion | Private [^29][^49] |
 | Alsym Energy | Growth | ~2015 (founded) | Energy / Batteries | Private [^29] |
@@ -412,4 +412,6 @@ No independently sourced founder testimonials were found in this research pass. 
 [^67]: Fortune, "Exclusive: Geordie AI, cybersecurity startup for AI agents, raises $30 million Series A round," May 28, 2026. Accessed May 2026. https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/ — Confirms General Catalyst as follow-on investor in Geordie AI's $30M Series A on May 28, 2026 led by Balderton Capital at ~$180M post-money valuation; Crosspoint Capital (new) and Ten Eleven Ventures (follow-on) participated.
 
 [^68]: "Factorial Raises $150M Series D, Reaches $2.5 Billion Valuation to Become One of the Most Valuable AI Scale-Ups in Europe," PR Newswire, June 3, 2026. Accessed June 2026. https://www.prnewswire.co.uk/news-releases/factorial-raises-150m-series-d-reaches-2-5-billion-valuation-to-become-one-of-the-most-valuable-ai-scale-ups-in-europe-302789078.html — Confirms General Catalyst led Factorial's $150M Series D on June 3, 2026 at $2.5B valuation; Atomico and Four Rivers participated. GC additionally committed up to $540M via its Customer Value Fund.
+
+[^69]: PhysicsX press release, "PhysicsX Announces $300M Series C to Accelerate Physics AI for Industrial Engineering," June 8, 2026. Accessed June 2026. https://www.physicsx.ai/newsroom/physicsx-announces-300m-series-c-to-accelerate-physics-ai-for-industrial-engineering — $300M Series C announced June 8, 2026 at ~$2.4B valuation, led by Temasek; General Catalyst participated as an existing investor alongside Applied Materials, Atomico, July Fund, NGP, NVIDIA, Radius, and Siemens. New investors: M&G Investments and Intrepid Growth Partners. Cross-referenced with Tech.eu, "PhysicsX raises $300M at $2.4BN valuation," June 8, 2026. https://tech.eu/2026/06/08/physicsx-raises-300m-at-24bn-valuation/ and Pulse 2.0, "PhysicsX Raises $300 Million Series C To Advance Physics AI For Industrial Engineering," June 8, 2026. https://pulse2.com/physicsx-raises-300-million-series-c-to-advance-physics-ai-for-industrial-engineering/
 
