@@ -1,11 +1,11 @@
 ---
 check_size: $300K–$500K
 firm: todd-and-rahul-capital
-last_researched: 2026-03-19
+last_researched: 2026-06-07
 last_verified_investment:
-  company: Clubhouse
-  date: 2021
-  round: Early
+  company: Lassie
+  date: 2026-06
+  round: Series A
 location: San Francisco, CA
 name: Rahul Vohra
 role: Co-GP / Angel Investor
@@ -111,8 +111,18 @@ The fund writes $300K-$500K checks, focused on pre-seed and seed stages, occasio
 ~unknown| Charthop | Early | Seed | [^9] |
 ~unknown| EasyPost | Early | Seed | [^2] |
 ~unknown| Seam | Early | Seed | [^6] |
+| Lassie | 2026 | Series A ($35M) | [^11] |
+| Double | 2025 | Series A ($7M) | [^11] |
+| Function Health | 2025 | Series B ($300M) | [^11] |
+| howie | 2025 | Seed ($6M) | [^11] |
+| Taurus | 2025 | Seed ($4M) | [^11] |
+| Quest Portal | 2023 | Seed ($8M) | [^11] |
+| Zed Industries | 2023 | Series A ($13M) | [^11] |
+| NexHealth | 2022 | Series C ($130M) | [^11] |
+| NexHealth | 2021 | Series B ($31M) | [^11] |
+| NexHealth | 2020 | Series A ($15M) | [^11] |
 
-*Note: Specific investment years are not publicly available for most of Todd & Rahul's investments. The fund confirms 120+ investments total [^6]; this table represents roughly 27% of that portfolio.*
+*Note: Specific investment years are not publicly available for most of Todd & Rahul's investments. The fund confirms 120+ investments total [^6]; this table represents roughly 30% of that portfolio. Dated entries (2020-2026) come from Signal NFX [^11].*
 
 ## In Their Own Words
 
@@ -150,4 +160,4 @@ Another testimonial described their involvement as "game-changing," calling them
 [^8]: TechCrunch, "Todd and Rahul's Angel Fund closes new $24 million fund," June 2021, accessed March 2026. https://techcrunch.com/2021/06/09/todd-and-rahuls-angel-fund-closes-new-24-million-fund/
 [^9]: Todd Goldberg personal website, "Involvement," accessed March 2026. https://toddgoldberg.com/involvement.html
 [^10]: AngelList Blog, "Why Founders Want to Raise from Peers: An Interview with Todd Goldberg," accessed March 2026. https://www.angellist.com/blog/why-founders-want-to-raise-from-peers-an-interview-with-todd-goldberg
-[^11]: NFX Signal, "Rahul Vohra's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/rahul-vohra
+[^11]: Signal by NFX, "Rahul Vohra's Investing Profile" (2025-2026 round data), accessed June 2026. https://signal.nfx.com/investors/rahul-vohra

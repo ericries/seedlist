@@ -92,7 +92,7 @@ The firm skews more growth-stage than its stated one-third early-stage allocatio
 | Snyk | Series D (led) | 2020 | Cybersecurity | Active [^13] |
 | Lyra Health | Series D (led) | 2020 | Digital Health | Active [^14] |
 | dLocal | Growth | 2020 | Fintech/Payments | IPO 2021 [^10] |
-| Inshorts | Series (led) | 2020 | Media/Content | Active [^15] |
+| Inshorts | Growth (led) | 2020-09-30 | Media/Content | Active [^15] |
 | Chainalysis | Series C (led) | 2020 | Blockchain Analytics | Active [^16] |
 | Hugging Face | Series B (led) | 2021 | AI/ML | Active [^17] |
 | Alchemy | Series B (co-led) | 2021 | Blockchain/Developer Tools | Active [^18] |
@@ -109,9 +109,9 @@ The firm skews more growth-stage than its stated one-third early-stage allocatio
 | Snorkel AI | Series D (led) | 2025-05-29 | AI/ML | Active [^29] |
 | Base Power | Series B (co-led) | 2025-04-09 | Energy/Climate | Active [^30] |
 | Base Power | Series C (led) | 2025-10-08 | Energy/Climate | Active [^30][^34] |
-| Render | Series C (follow-on) | 2025 | Cloud Infrastructure | Active [^31] |
-| Airwallex | Series G (led) | 2025 | Fintech/Payments | Active [^32] |
-| Hello Vet | Series A | 2025 | Healthcare | Active [^33] |
+| Render | Series C (follow-on) | 2025-01-21 | Cloud Infrastructure | Active [^31][^35] |
+| Airwallex | Series G (led) | 2025-12-08 | Fintech/Payments | Active [^32] |
+| Hello Vet | Series A | 2025-12-11 | Healthcare | Active [^33][^36] |
 
 *This table represents approximately 23 unique companies out of an estimated 73+ total portfolio companies (~32% coverage). The remaining investments could not be independently verified with round-level detail.*
 
@@ -169,3 +169,5 @@ Chase Gilbert, Co-founder and CEO of Built Technologies (portfolio company), sta
 [^32]: Airwallex, "Airwallex raises $330M Series G at $8B valuation," December 2025. https://www.airwallex.com/newsroom/awx-raises-usd330m-series-g-at-usd8b-valuation-establishes-sf-as-dual-global-hq
 [^33]: Vet Times, "Hello Vet announces expansion plans after £21 million investment," December 2025. https://www.vettimes.com/news/business/practice-developments/hello-vet-announces-expansion-plans-after-21-million-investment
 [^34]: BusinessWire, "Base Power Raises $1 Billion Series C to Build the Future of American Power," October 8, 2025. https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-$1-Billion-Series-C-to-Build-the-Future-of-American-Power
+[^35]: Render blog, "$80M to reimagine the cloud for the AI era," January 21, 2025. https://render.com/blog/series-c
+[^36]: Tech.eu, "£15M boost for Hello Vet as it reimagines the future of veterinary care," December 11, 2025. https://tech.eu/2025/12/11/ps15m-boost-for-hello-vet-as-it-reimagines-the-future-of-veterinary-care/

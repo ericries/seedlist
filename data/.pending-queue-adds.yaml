@@ -1,0 +1,41 @@
+- name: "Lassie"
+  type: startup
+  source: "Series A $35M Jun 2026 with Rahul Vohra; European pet health"
+  discovered_from: rahul-vohra
+  priority: normal
+- name: "Function Health"
+  type: startup
+  source: "Series B $300M Nov 2025 with Rahul Vohra; consumer health diagnostics"
+  discovered_from: rahul-vohra
+  priority: normal
+- name: "Zed Industries"
+  type: startup
+  source: "Series A $13M Mar 2023 with Rahul Vohra; collaborative code editor"
+  discovered_from: rahul-vohra
+  priority: normal
+- name: "Double"
+  type: startup
+  source: "Series A $7M Dec 2025 with Rahul Vohra"
+  discovered_from: rahul-vohra
+  priority: low
+- name: "howie"
+  type: startup
+  source: "Seed $6M Sep 2025 with Rahul Vohra"
+  discovered_from: rahul-vohra
+  priority: low
+- name: "Taurus"
+  type: startup
+  source: "Seed $4M Apr 2025 with Rahul Vohra"
+  discovered_from: rahul-vohra
+  priority: low
+- name: "Quest Portal"
+  type: startup
+  source: "Seed $8M Oct 2023 with Rahul Vohra"
+  discovered_from: rahul-vohra
+  priority: low
+- name: "Todd Goldberg"
+  type: individual
+  firm: "Todd & Rahul Capital"
+  source: "Co-GP with Rahul Vohra; previously founded Eventjoy"
+  discovered_from: rahul-vohra
+  priority: high

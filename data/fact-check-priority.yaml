@@ -339,9 +339,11 @@ priority:
   status: resolved
 - slug: d1-capital-partners
   type: firm
-  reason: "joined DriveNets Series D (2026-06-01)"
+  reason: "RESOLVED 2026-06-03 — DriveNets Series D $410M at $8.5B (2026-06-01, Bessemer + Atreides co-led; AMD and Red Dot Capital new; Pitango and D1 Capital Partners existing) added to portfolio with 3 independent primary citations (PR Newswire press release [^38], The SaaS News [^39], Pulse 2.0 [^40]). Also tightened vague dates on 4 most recent portfolio entries: Beacon Software (2025-11-04 co-led $250M Series B at $1B val), Hadrian (2026-01-25 T. Rowe Price-led at $1.6B val), Anthropic Series G (2026-02-12 $30B at $380B val), Ualá (2026-03-04 $195M Allianz X-led at $3.2B val)."
   added: 2026-06-07
+  status: resolved
 - slug: pitango-venture-capital
   type: firm
-  reason: "joined DriveNets Series D (2026-06-01)"
+  reason: "RESOLVED 2026-06-07 — DriveNets Series D $410M (2026-06-01, co-led by Bessemer + Atreides; AMD and Red Dot Capital as new investors; Pitango and D1 Capital Partners as existing investors; $8.5B valuation) added to portfolio with 3 independent primary citations (PR Newswire press release [^53], Silicon Report [^54], The SaaS News [^55]). All 3 sources independently confirm Pitango as existing investor. Recent 10 portfolio entries reviewed: DriveNets 2026-06-01 and Adaptive6 2026-01-28 have full YYYY-MM-DD; AAI Technologies 2025-05 has month-level; older entries (2024 Altesa, 2023 Surge, 2022 Visby/Lumen, 2021 Quantum Source/Finout/Aquant) remain year-only — pre-existing condition outside scope of this round-driven sweep."
   added: 2026-06-07
+  status: resolved

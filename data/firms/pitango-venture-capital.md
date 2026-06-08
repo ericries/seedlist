@@ -99,6 +99,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| DriveNets | Series D | 2026-06-01 | Cloud & Infrastructure | [^17] [^53] [^54] [^55] |
 | DriveNets | Series A | 2018 | Cloud & Infrastructure | [^17] |
 | Via | Series B | 2015 | Mobility & Smart City | [^15] [^49] |
 | Tomorrow.io | Growth | 2018 | Climatech | [^15] |
@@ -259,3 +260,6 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^50]: PR Newswire, "Adaptive6 emerges from stealth with $44M to detect and remediate cloud waste, bringing the cybersecurity playbook to cloud cost governance," January 28, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/adaptive6-emerges-from-stealth-with-44m-to-detect-and-remediate-cloud-waste-bringing-the-cybersecurity-playbook-to-cloud-cost-governance-302672554.html
 [^51]: PR Newswire, "Masterschool announces $100 million Seed round to build the largest network of career schools in the world," May 19, 2022, accessed June 2026. https://www.prnewswire.com/il/news-releases/masterschool-announces-100-million-seed-round-to-build-the-largest-network-of-career-schools-in-the-world-301551189.html
 [^52]: Globes, "Shashua's artificial expert intelligence co AA-I completes seed round," May 18, 2025, accessed June 2026. https://en.globes.co.il/en/article-shashuas-artificial-expert-intelligence-co-aa-i-completes-seed-round-1001510682
+[^53]: PR Newswire, "DriveNets Secures $410M Series D to Meet Surging Demand for Ethernet Fabric in Large-Scale AI Deployments," June 1, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/drivenets-secures-410m-series-d-to-meet-surging-demand-for-ethernet-fabric-in-large-scale-ai-deployments-302787589.html
+[^54]: Silicon Report, "DriveNets raises $410M Series D with Bessemer, Atreides, AMD," June 2026, accessed June 2026. https://www.siliconreport.com/drivenets-raises-410m-series-d-with-bessemer-atreides-amd-bfce482b3965922c
+[^55]: The SaaS News, "DriveNets Raises $410M Series D," June 2026, accessed June 2026. https://www.thesaasnews.com/news/drivenets-raises-410m-series-d/

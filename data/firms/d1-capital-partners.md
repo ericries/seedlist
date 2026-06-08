@@ -1,7 +1,7 @@
 ---
 founded: 2018
 fund_size: $24.5B AUM (October 2025); ~60% private, ~40% public
-last_researched: 2026-05-15
+last_researched: 2026-06-03
 location: New York, NY
 name: D1 Capital Partners
 sector_focus:
@@ -115,11 +115,12 @@ The following table represents verified private market investments by D1 Capital
 | Anthropic | Series E (participated, $3.5B at $61.5B val) | 2025-03-03 | AI / Research | Active | [^27] |
 | Ramp | Series E (participated, $200M at $16B val) | 2025-06-17 | Fintech / Corporate cards | Active | [^17][^36] |
 | Groq | Growth (participated, $750M at $6.9B val) | 2025-09-17 | AI / Semiconductors | Active | [^28][^37] |
-| Beacon Software | Series B | 2025 | AI / Enterprise software | Active | [^29] |
-| Hadrian | Growth | 2026 | Defense / Manufacturing | Active | [^30] |
-| Anthropic | Series G | 2026 | AI / Research | Active | [^31] |
-| Ualá | Growth | 2026 | Fintech / Neobank | Active | [^32] |
+| Beacon Software | Series B (co-led, $250M at $1B val) | 2025-11-04 | AI / Enterprise software | Active | [^29] |
+| Hadrian | Growth (participated, T. Rowe Price-led at $1.6B val) | 2026-01-25 | Defense / Manufacturing | Active | [^30] |
+| Anthropic | Series G (participated, $30B at $380B val) | 2026-02-12 | AI / Research | Active | [^31] |
+| Ualá | Growth (participated, $195M at $3.2B val) | 2026-03-04 | Fintech / Neobank | Active | [^32] |
 | Multiverse | Growth (participated, €60M / $70M at €2.1B val) | 2026-05-15 | EdTech / AI Workforce Training | Active | [^35] |
+| DriveNets | Series D (participated, $410M at $8.5B val) | 2026-06-01 | Networking / AI infrastructure | Active | [^38][^39][^40] |
 
 ## In Their Own Words
 
@@ -185,3 +186,9 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 [^36]: PR Newswire, "Ramp Raises $200M Series E at $16B Valuation as Companies of All Sizes Choose AI-Powered Finance Platform," June 17, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/ramp-raises-200m-series-e-at-16b-valuation-as-companies-of-all-sizes-choose-ai-powered-finance-platform-302483377.html — Confirms $200M Series E announced June 17, 2025 led by Founders Fund at $16B post-money valuation; D1 Capital Partners participated alongside Thrive Capital, General Catalyst, GIC, ICONIQ Growth, Khosla Ventures, Sands Capital, 8VC, Lux Capital, Stripes, 137 Ventures, Avenir Growth, and Definition Capital.
 
 [^37]: Groq newsroom, "Groq Raises $750 Million as Inference Demand Surges," September 17, 2025. Accessed May 2026. https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges — Confirms $750M growth round announced September 17, 2025 led by Disruptive at $6.9B valuation; D1 Capital Partners participated alongside BlackRock, Neuberger Berman, DTCP, Samsung, Cisco, Altimeter, 1789 Capital, and Infinitum. Cross-referenced with Bloomberg, "AI Chip Startup Groq Raises $750 Million at $6.9 Billion Valuation," September 17, 2025. https://www.bloomberg.com/news/articles/2025-09-17/ai-chip-startup-groq-raises-750-million-at-6-9-billion-valuation
+
+[^38]: PR Newswire, "DriveNets Secures $410M Series D to Meet Surging Demand for Ethernet Fabric in Large-Scale AI Deployments," June 1, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/drivenets-secures-410m-series-d-to-meet-surging-demand-for-ethernet-fabric-in-large-scale-ai-deployments-302787577.html — Primary press release confirming $410M Series D at $8.5B valuation, co-led by Bessemer Venture Partners and Atreides Management; new investors AMD and Red Dot Capital joined existing investors Pitango and D1 Capital Partners; brings DriveNets' total capital raised to $1B.
+
+[^39]: The SaaS News, "DriveNets Raises $410M Series D," June 2, 2026. Accessed June 2026. https://www.thesaasnews.com/news/drivenets-raises-410m-series-d/ — Independently confirms participating investors included "AMD, Red Dot Capital, Pitango, and D1 Capital Partners" in the Bessemer/Atreides-led $410M Series D.
+
+[^40]: Pulse 2.0, "DriveNets Raises $410 Million Series D To Scale Ethernet Fabric For Large-Scale AI Infrastructure," June 2, 2026. Accessed June 2026. https://pulse2.com/drivenets-raises-410-million-series-d/ — Third independent confirmation of D1 Capital Partners participation as an existing investor in the $410M Series D round bringing DriveNets to $1B total capital raised.
