@@ -28,7 +28,8 @@ pending_rounds:
   parsed_company: UK-based NewOrbit
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: already covered in neworbit.md
 - title: Ghent’s Companion.energy raises €7.8 million to help large enterprises manage
     energy in real time
   url: https://www.eu-startups.com/2026/06/ghents-companion-energy-raises-e7-8-million-to-help-large-enterprises-manage-energy-in-real-time/
@@ -37,7 +38,8 @@ pending_rounds:
   parsed_company: Ghent’s Companion.energy
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: already covered in companion-energy.md
 - title: Profitable German heat pump platform GALVANY closes €10 million Seed round
     after sevenfold revenue growth
   url: https://www.eu-startups.com/2026/06/profitable-german-heat-pump-platform-galvany-closes-e10-million-seed-round-after-sevenfold-revenue-growth/
@@ -46,7 +48,8 @@ pending_rounds:
   parsed_company: Profitable German heat pump platform GALVANY
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: processed
+  notes: already covered in galvany.md
 - title: 'The AlleyWatch Startup Daily Funding Report: 6/8/2026'
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-8-2026/
   source: alleywatch
@@ -54,7 +57,9 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created edge-markets.md ($29.2M Series A, 2026-06-08, CoinFund led); updated
+    coinfund.md portfolio
 - title: PhysicsX raised $300M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -62,7 +67,8 @@ pending_rounds:
   parsed_company: PhysicsX
   parsed_amount: $300M
   parsed_round: Series C
-  status: pending
+  status: processed
+  notes: already covered in physicsx.md
 - title: RLeXtw A raised $47M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -70,7 +76,8 @@ pending_rounds:
   parsed_company: RLeXtw A
   parsed_amount: $47M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: garbled company name from axios parsing; cannot identify
 - title: Blnk raised $12.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -78,7 +85,8 @@ pending_rounds:
   parsed_company: Blnk
   parsed_amount: $12.5M
   parsed_round: Series A
-  status: pending
+  status: processed
+  notes: already covered in blnk.md
 - title: BeatpulseLabs raised $1.8M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -86,7 +94,8 @@ pending_rounds:
   parsed_company: BeatpulseLabs
   parsed_amount: $1.8M
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: very small round, no profile pipeline benefit at this size
 - title: 'The Weekly Notable Startup Funding Report: 6/8/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
   source: alleywatch

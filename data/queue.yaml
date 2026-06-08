@@ -27750,3 +27750,54 @@ queue:
   added: '2026-03-17'
   discovered_from: baiju-bhatt
   source: Actor; angel in Aetherflux Series A ($50M, Apr 2025)
+- name: Algebra Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: blnk
+  source: Led Blnk $12.5M Series A (June 2026)
+- name: SANAD Fund for MSME
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: blnk
+  source: Co-investor in Blnk Series A (June 2026)
+- name: Emirates International Investment Company
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: blnk
+  source: Co-investor in Blnk Series A (June 2026)
+- name: Karim Hussein
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Algebra Ventures
+  discovered_from: blnk
+  source: Quoted on Blnk Series A; partner at Algebra Ventures (un-profiled firm)
+- name: Indicator Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edge-markets
+  source: Co-investor in EDGE Markets $29.2M Series A (2026-06-08)
+- name: Bullpen Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edge-markets
+  source: Co-investor in EDGE Markets $29.2M Series A (2026-06-08)
+- name: Seni Thomas
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: EDGE Markets
+  discovered_from: edge-markets
+  source: Founder & CEO of EDGE Markets
