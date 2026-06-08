@@ -82,14 +82,14 @@ The portfolio is heavily UK/London-focused, reflecting Khan's base in London. In
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Spotify | Angel/Advisor | ~2008 | Music Streaming | IPO (NYSE: SPOT) | [^3][^4] |
-| BitPay | Angel | ~2013 | Crypto / Payments | Active | [^4][^5] |
+| BitPay | Seed | 2013-01 | Crypto / Payments | Active | [^4][^5][^8] |
 | CoinDesk | Founded | 2013 | Crypto / Media | Acquired (Bullish) | [^5] |
 | Summly | Angel/Mentor | ~2012 | Media / AI | Acquired (Yahoo, 2013) | [^3] |
-| Motorway | Angel | ~2018 | Marketplace / Automotive | Active | [^1] |
-| Monese | Angel | ~2015 | Fintech / Banking | Exited (Oct 2024) | [^1] |
+| Motorway | Seed | 2018-06-05 | Marketplace / Automotive | Active | [^1][^9][^10] |
+| Monese | Seed | 2015-05-27 | Fintech / Banking | Exited (Oct 2024) | [^1][^11] |
 | Thread | Angel | ~2012 | Consumer / Fashion | Exited | [^1] |
-| YPlan | Angel | ~2013 | Marketplace / Events | Shut down | [^1][^4] |
-| Thingtesting | Angel | ~2019 | E-commerce / Reviews | Active | [^1] |
+| YPlan | Series A | 2013-06-04 | Marketplace / Events | Shut down | [^1][^4][^12] |
+| Thingtesting | Pre-Seed | 2019-09-19 | E-commerce / Reviews | Active | [^1][^13] |
 | Otta | Angel | ~2019 | HR Tech / Jobs | Exited | [^1] |
 | Skift | Angel | ~2012 | Media / Travel | Active | [^4] |
 | Duedil | Angel | ~2012 | Data / Business Info | Active | [^4] |
@@ -131,3 +131,9 @@ No independently sourced founder testimonials found about Shakil Khan as an ange
 [^5]: "Angel Investor, Spotify Fixer Shakil Khan Launches Coindesk, A Bitcoin Resource," TechCrunch, May 1, 2013. https://techcrunch.com/2013/05/01/coindesk/
 [^6]: "About -- Prima Materia," Prima Materia website, accessed March 2026. https://primamateria.com/about/
 [^7]: "Shakil Khan: Bitcoin can be 'money over IP', but services must get more intuitive," CoinDesk, August 1, 2013. https://www.coindesk.com/markets/2013/08/01/shakil-khan-bitcoin-can-be-money-over-ip-but-services-must-get-more-intuitive
+[^8]: "Peter Thiel & Founders Fund lead $2 Million funding round in BitPay," CoinDesk, May 16, 2013 (confirms Shakil Khan participated in BitPay's January 2013 seed round of $510,000). https://www.coindesk.com/markets/2013/05/16/peter-thiel-founders-fund-lead-2-million-funding-round-in-bitpay
+[^9]: "Motorway raises £2.75M seed funding to help you sell your car," TechCrunch, June 5, 2018 (names Shakil Khan as angel co-investor alongside LocalGlobe and Marchmont Ventures lead). https://techcrunch.com/2018/06/05/motorway/
+[^10]: "Motorway raises £2.75m in seed funding from LocalGlobe and Marchmont Ventures to revolutionise selling your car online," Motorway press release, June 5, 2018. https://motorway.co.uk/blog/2018/06/05/motorway-seed-funding
+[^11]: "Mobile Banking Startup Monese Picks Up Backing From Seedcamp, SmartCap, And Spotify's Shakil Khan," TechCrunch, May 27, 2015. https://techcrunch.com/2015/05/27/monese/
+[^12]: "With $12M Burning A Hole In Its Pocket, London's YPlan Wants New York To Be More Socially Spontaneous," TechCrunch, June 4, 2013 (names Shakil Khan in Series A round led by General Catalyst). https://techcrunch.com/2013/06/04/yplan-series-a/
+[^13]: "'The best VC on Instagram' is now VC-backed," TechCrunch, September 19, 2019 (names Shakil Khan in Thingtesting $300K pre-seed led by Hunter Walk/Homebrew). https://techcrunch.com/2019/09/19/thingtesting/

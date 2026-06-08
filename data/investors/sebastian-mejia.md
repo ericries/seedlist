@@ -71,9 +71,9 @@ Pattern from publicly traceable deals:
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
 | Jeeves | 2021-06-02 | Series B angel participation (alongside David Vélez, Carlos García, Daniel Vogel, William Hockey, et al.; round led by a16z) | [^10] |
-| Latitud | ~2022 | Seed ($11.5M); also LP in Latitud Ventures | [^12] [^7] |
-| Examedi | ~2022 | Angel (Chilean home medical services) | [^7] |
-| Clara | ~2021-2022 | Angel (Latam corporate spend) | [^7] |
+| Latitud | 2022-03-28 | Seed ($11.5M, co-led by a16z and NFX); also LP in Latitud Ventures | [^12] [^7] [^15] [^16] |
+| Examedi | 2022-06-22 | Series A ($17M, led by General Catalyst) — Chilean home medical services | [^7] [^17] [^18] |
+| Clara | ~2021-2022 | Angel (Latam corporate spend; primary sources do not individually name Mejia in Clara's seed/Series A/B announcements) | [^7] |
 | Beek | 2023-02-02 | Series A ($13M) — Tracxn-listed | [^11] |
 | Bia | 2022-07-27 | Seed ($6M) — Tracxn-listed | [^11] |
 | LitHealth | 2022-11-09 | Seed ($4.07M) — Tracxn-listed | [^11] |
@@ -136,3 +136,7 @@ No independently sourced founder testimonials specifically about working with Se
 [^12]: "Latitud Secures $11.5 Million in Seed Funding to Scale Next Generation of Tech Startups in Latin America," PR Newswire, accessed May 2026. https://www.prnewswire.com/news-releases/latitud-secures-11-5-million-in-seed-funding-to-scale-next-generation-of-tech-startups-in-latin-america-301511383.html
 [^13]: "Fireside chat with Brian Requarth and Sebastian Mejia at Vamos Latam Summit," Latitud Podcast #162, accessed May 2026. https://latitud.com/podcast/brian-requarth-sebastian-mejia-rappi-vamos-latam-summit
 [^14]: "Sebastian Mejia — Mastering On-Demand Convenience," Invest Like the Best with Patrick O'Shaughnessy, July 29, 2021, accessed May 2026. https://podcasts.apple.com/us/podcast/sebastian-mejia-mastering-on/id1154105909?i=1000530377704
+[^15]: "Latitud First Round Is a $11.5 Million A16z-led Seed," Bloomberg Línea, March 28, 2022, accessed June 2026. https://www.bloomberglinea.com/2022/03/28/latitud-first-round-is-a-115-million-a16z-led-seed/
+[^16]: "a16z, NFX back Latitud's effort to become 'the operating system for every venture-backed company in LatAm'," TechCrunch, March 28, 2022, accessed June 2026. https://techcrunch.com/2022/03/28/a16z-nfx-back-latituds-effort-to-become-the-operating-system-for-every-venture-backed-company-in-latam/
+[^17]: "Chilena Examedi levanta US$17 millones en Serie A liderada por General Catalyst," Bloomberg Línea, June 22, 2022, accessed June 2026. https://www.bloomberglinea.com/2022/06/22/chilena-examedi-levanta-us17-millones-en-serie-a-liderada-por-general-catalyst/
+[^18]: "Examedi Raises $17M in Series A Funding to Improve LATAM Healthcare," Examedi blog, June 22, 2022, accessed June 2026. https://examedi.cl/blog/post/examedi-series-a-english

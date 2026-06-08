@@ -31,7 +31,7 @@ Dohmke has not published a written angel investing thesis. His public commentary
 
 The independently verifiable angel portfolio is small — five companies tracked by third-party aggregators [^4][^5]. With this sample size, qualitative description is more honest than percentages.
 
-- **Stage:** All verified checks are seed-stage. No participation in growth or late-stage rounds has been disclosed.
+- **Stage:** Verified checks span seed (Resolve AI, Tangled) and Series A (Doppler). No participation in growth or late-stage rounds has been disclosed.
 - **Sector:** Every verified investment is in developer tooling or developer-adjacent infrastructure: Resolve AI (AI for production incident response), Doppler (secrets management), and Tangled (code collaboration / open-source GitHub alternative) [^4][^5][^6][^7].
 - **Geography:** Mixed — US (Resolve, Doppler) and Europe (Tangled, headquartered in Finland) [^6][^7].
 - **Co-investor pattern (small sample):** On Tangled, Dohmke appeared alongside byFounders (lead), Bain Capital Crypto, Antler, Avery Pennarun (Tailscale CEO), and Mårten Mickos [^6][^7].
@@ -43,8 +43,8 @@ This analysis is based on 3 independently verified investments plus aggregator c
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Resolve AI | 2024-10 | Seed | [^4][^8] |
-| Doppler | ~2022 (founding-period angel) | Seed/Series A | [^4][^5] |
+| Resolve AI | 2024-10-01 | Seed ($35M, led by Greylock) | [^4][^8][^9][^10] |
+| Doppler | 2022-04-26 | Series A ($20M, led by CRV) | [^4][^5][^11][^12][^13] |
 | Tangled | 2026-03-02 | Seed (€3.8M) | [^6][^7] |
 
 Aggregators list two additional unnamed investments that could not be independently verified in primary sources and are therefore excluded [^4][^5].
@@ -75,3 +75,8 @@ No independently sourced founder testimonials about working with Thomas Dohmke a
 [^6]: The Next Web, "Tangled raises €3.8M from byFounders and GitHub's ex-CEO," March 2026. https://thenextweb.com/news/europes-tangled-raises-e3-8m-from-byfounders-and-githubs-ex-ceo
 [^7]: Finsmes, "Tangled Raises €3.8M in Seed Funding," March 2026. https://www.finsmes.com/2026/03/tangled-raises-e3-8m-in-seed-funding.html
 [^8]: ThoughtCred, "Resolve AI's $1B Valuation: The Great, Good, and Concerning About Hitting Unicorn Status on $4M ARR," 2026. https://thoughtcred.com/dailybrief/resolve-ais-1b-valuation-the-great-good-and-concerning-about-hitting-unicorn-status-on-4m-arr
+[^9]: TechStartups, "Generative AI startup Resolve AI secures $35M in seed funding to become your go-to AI production engineer," October 1, 2024. https://techstartups.com/2024/10/01/generative-ai-startup-resolve-ai-secures-35m-in-seed-funding-to-become-your-go-to-ai-production-engineer/
+[^10]: U.S. News / Reuters, "Greylock-Backed Resolve AI Raises $35 Million in Seed Funding to Help Engineers," October 1, 2024. https://www.usnews.com/news/technology/articles/2024-10-01/greylock-backed-resolve-ai-raises-35-million-in-seed-funding-to-help-engineers
+[^11]: Doppler blog, "$20m Series A to build the first SecretOps Platform," April 26, 2022. https://www.doppler.com/blog/series-a-announcement
+[^12]: TechCrunch, "Doppler lands $20M to help companies manage their app secrets," April 27, 2022. https://techcrunch.com/2022/04/27/doppler-lands-20m-to-help-companies-manage-their-app-secrets/
+[^13]: TechStartups, "Doppler raises $20M led by CRV to help developers seamlessly manage and secure application secrets at scale," April 27, 2022. https://techstartups.com/2022/04/27/doppler-raises-20-million-led-crv-help-developers-seamlessly-manage-secure-application-secrets-scale/
