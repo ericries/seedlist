@@ -1,20 +1,29 @@
 ---
-name: "Daloopa"
-slug: daloopa
-type: startup
-website: "https://daloopa.com"
-location: "New York, NY"
-status_company: active
-sector: [fintech, ai, data-infrastructure]
-stage_latest: "Series C"
-total_raised: "$100M+"
-investors: []
-firms: []
+firms:
+- round: Seed
+  slug: operator-partners
+  year: 2021
 founders:
-  - name: "Thomas Li"
-    role: "CEO & Co-Founder"
-status: published
+- name: Thomas Li
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: zach-weinberg
+  year: 2021
 last_researched: 2026-06-06
+location: New York, NY
+name: Daloopa
+sector:
+- fintech
+- ai
+- data-infrastructure
+slug: daloopa
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://daloopa.com
 ---
 
 ## About

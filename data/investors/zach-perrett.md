@@ -102,7 +102,7 @@ This table includes 16 verified investments. Crunchbase reports up to 34 total i
 | Metronome | Series A | 2022 | Enterprise software | Active | [^20] |
 | CoinTracker | Seed | 2018 | Crypto / fintech | Active | [^21] |
 | Lowkey | Series A | 2021 | Gaming / consumer | Acquired | [^22] |
-| Cohere.io | Seed | ~2021 | Customer support AI | Acquired | [^23] |
+| Cohere.io | Seed | 2021-03-17 | Customer support AI | Acquired | [^27] |
 | SentiLink | Series A | 2019 | Fintech / fraud detection | Active | [^24] |
 | Warp | Seed | ~2021 | Developer tools | Active | [^25] |
 | Flychain | Seed | ~2023 | Healthcare fintech | Active | [^8] |
@@ -171,3 +171,4 @@ Lauren Farleigh, Perret's Mischief co-founder, has spoken publicly about portfol
 [^24]: FinSMEs, "SentiLink Raises $14M Series A Funding," March 2019, accessed March 2026. https://www.finsmes.com/2019/03/sentilink-raises-14m-series-a-funding.html
 [^25]: TechCrunch, "Warp raises $23M to build a better terminal," April 5, 2022, accessed March 2026. https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/
 [^26]: Deciphr.ai, "20VC: Plaid's Zach Perret on Why You Have To Hire For Spikes," podcast transcript summary, accessed March 2026. https://www.deciphr.ai/podcast/20vc-plaids-zach-perret-on-why-you-have-to-hire-for-spikes-and-what-that-really-means-fintech-predictions-from-incumbent-entrants-to-the-rise-of-europe--the-2-big-questions-that-ceos-should-ask-themselves
+[^27]: TechCrunch, "Cohere raises $3.1 million for its remote control solution for web apps," March 17, 2021, accessed June 2026. https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/

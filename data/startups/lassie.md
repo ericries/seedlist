@@ -13,6 +13,9 @@ firms:
 - round: Series A
   slug: long-journey-ventures
   year: 2026
+- round: Series A ($35M)
+  slug: todd-and-rahul-capital
+  year: 2026
 founders:
 - name: Steijn Pelle
   role: Co-Founder & CEO

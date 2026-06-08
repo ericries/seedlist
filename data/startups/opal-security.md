@@ -1,29 +1,36 @@
 ---
-name: "Opal Security"
-slug: opal-security
-type: startup
-website: "https://opal.dev"
-location: "San Francisco, CA"
-founded: 2020
-status_company: active
-sector: [cybersecurity, identity, infrastructure, enterprise-software]
-stage_latest: "Series B Extension"
-total_raised: "$59M"
-investors: []
 firms:
-  - slug: greylock
-    round: series-b-extension
-    year: 2026
-    date: 2026-06-04
-  - slug: battery-ventures
-    round: series-b-extension
-    year: 2026
-    date: 2026-06-04
+- date: 2026-06-04
+  round: series-b-extension
+  slug: greylock
+  year: 2026
+- date: 2026-06-04
+  round: series-b-extension
+  slug: battery-ventures
+  year: 2026
+founded: 2020
 founders:
-  - name: "Umaimah Khan"
-    role: "Co-Founder"
-status: published
+- name: Umaimah Khan
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: saam-motamedi
+  year: 2021
 last_researched: 2026-06-03
+location: San Francisco, CA
+name: Opal Security
+sector:
+- cybersecurity
+- identity
+- infrastructure
+- enterprise-software
+slug: opal-security
+stage_latest: Series B Extension
+status: published
+status_company: active
+total_raised: $59M
+type: startup
+website: https://opal.dev
 ---
 
 ## About

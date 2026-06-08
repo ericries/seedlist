@@ -1,40 +1,43 @@
 ---
-name: Viktor
-slug: viktor
-type: startup
-website: https://viktor.ai/
-location: Rotterdam, Netherlands
+firms:
+- date: 2026-05-19
+  round: series-a
+  slug: accel
+  year: 2026
+- round: Series A
+  slug: independent
+  year: 2026
 founded: 2025
-status_company: active
+founders: []
+investors:
+- date: 2026-05-19
+  round: series-a
+  slug: stewart-butterfield
+  year: 2026
+- date: 2026-05-19
+  round: series-a
+  slug: cal-henderson
+  year: 2026
+- date: 2026-05-19
+  round: series-a
+  slug: guillermo-rauch
+  year: 2026
+last_researched: 2026-05-20
+location: Rotterdam, Netherlands
+name: Viktor
 sector:
 - ai
 - enterprise-software
 - saas
 - productivity
 - collaboration
+slug: viktor
 stage_latest: Series A
-total_raised: €64.7M
-investors:
-- slug: stewart-butterfield
-  round: series-a
-  year: 2026
-  date: 2026-05-19
-- slug: cal-henderson
-  round: series-a
-  year: 2026
-  date: 2026-05-19
-- slug: guillermo-rauch
-  round: series-a
-  year: 2026
-  date: 2026-05-19
-firms:
-- slug: accel
-  round: series-a
-  year: 2026
-  date: 2026-05-19
-founders: []
-last_researched: 2026-05-20
 status: published
+status_company: active
+total_raised: €64.7M
+type: startup
+website: https://viktor.ai/
 ---
 
 ## About

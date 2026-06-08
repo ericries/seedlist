@@ -1,35 +1,41 @@
 ---
-name: "DriveNets"
-slug: drivenets
-type: startup
-website: "https://drivenets.com"
-location: "Ra'anana, Israel"
-founded: 2015
-status_company: active
-sector: [ai-infrastructure, networking, enterprise-software]
-stage_latest: "Series D"
-total_raised: "$1B+"
-investors: []
 firms:
-  - slug: bessemer-venture-partners
-    round: series-d
-    year: 2026
-    date: 2026-06-01
-  - slug: d1-capital-partners
-    round: series-d
-    year: 2026
-    date: 2026-06-01
-  - slug: pitango-venture-capital
-    round: series-d
-    year: 2026
-    date: 2026-06-01
+- date: 2026-06-01
+  round: series-d
+  slug: bessemer-venture-partners
+  year: 2026
+- date: 2026-06-01
+  round: series-d
+  slug: d1-capital-partners
+  year: 2026
+- date: 2026-06-01
+  round: series-d
+  slug: pitango-venture-capital
+  year: 2026
+founded: 2015
 founders:
-  - name: "Ido Susan"
-    role: "CEO & Co-Founder"
-  - name: "Hillel Kobrinsky"
-    role: "Chief Strategy Officer & Co-Founder"
-status: published
+- name: Ido Susan
+  role: CEO & Co-Founder
+- name: Hillel Kobrinsky
+  role: Chief Strategy Officer & Co-Founder
+investors:
+- round: Series A
+  slug: chemi-peres
+  year: 2019
 last_researched: 2026-06-03
+location: Ra'anana, Israel
+name: DriveNets
+sector:
+- ai-infrastructure
+- networking
+- enterprise-software
+slug: drivenets
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $1B+
+type: startup
+website: https://drivenets.com
 ---
 
 ## About

@@ -1,49 +1,55 @@
 ---
-name: "Generalist AI"
-slug: generalist-ai
-type: startup
-website: "https://generalist.ai"
-location: "San Mateo, California"
-founded: 2024
-status_company: active
-sector: [artificial-intelligence, robotics, foundation-models]
-stage_latest: "Growth"
-total_raised: "$500M+"
-investors:
-  - slug: naval-ravikant
-    round: growth
-    year: 2026
-    date: 2026-06-04
 firms:
-  - slug: 8vc
-    round: growth
-    year: 2026
-    date: 2026-06-04
-  - slug: union-square-ventures
-    round: growth
-    year: 2026
-    date: 2026-06-04
-  - slug: hanabi-capital
-    round: growth
-    year: 2026
-    date: 2026-06-04
-  - slug: spark-capital
-    round: growth
-    year: 2026
-    date: 2026-06-04
-  - slug: nfdg
-    round: growth
-    year: 2026
-    date: 2026-06-04
+- date: 2026-06-04
+  round: growth
+  slug: 8vc
+  year: 2026
+- date: 2026-06-04
+  round: growth
+  slug: union-square-ventures
+  year: 2026
+- date: 2026-06-04
+  round: growth
+  slug: hanabi-capital
+  year: 2026
+- date: 2026-06-04
+  round: growth
+  slug: spark-capital
+  year: 2026
+- date: 2026-06-04
+  round: growth
+  slug: nfdg
+  year: 2026
+- round: Growth (Angel)
+  slug: angellist
+  year: 2026
+founded: 2024
 founders:
-  - name: "Pete Florence"
-    role: "CEO & Co-Founder"
-  - name: "Andy Zeng"
-    role: "Chief Scientist & Co-Founder"
-  - name: "Andrew Barry"
-    role: "CTO & Co-Founder"
-status: published
+- name: Pete Florence
+  role: CEO & Co-Founder
+- name: Andy Zeng
+  role: Chief Scientist & Co-Founder
+- name: Andrew Barry
+  role: CTO & Co-Founder
+investors:
+- date: 2026-06-04
+  round: growth
+  slug: naval-ravikant
+  year: 2026
 last_researched: 2026-06-03
+location: San Mateo, California
+name: Generalist AI
+sector:
+- artificial-intelligence
+- robotics
+- foundation-models
+slug: generalist-ai
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $500M+
+type: startup
+website: https://generalist.ai
 ---
 
 ## About

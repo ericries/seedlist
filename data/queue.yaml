@@ -20793,7 +20793,7 @@ queue:
 - name: Baiju Bhatt
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Cowboy Space Corporation
   discovered_from: cowboy-space-corporation
@@ -21934,7 +21934,7 @@ queue:
 - name: Ritesh Agarwal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OYO
   discovered_from: aman-gupta
@@ -27645,3 +27645,108 @@ queue:
   firm: Safe Superintelligence
   discovered_from: daniel-gross
   source: Co-founded SSI with Ilya Sutskever and Daniel Gross (June 2024)
+- name: Aroa Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Ritesh Agarwal's Singapore family office / VC vehicle (45 investments, ~₹418
+    Cr AUM)
+- name: Gaurav Gulati
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Aroa Ventures
+  discovered_from: ritesh-agarwal
+  source: Heads Aroa Ventures; former COO of Innov8 (acquired by OYO)
+- name: Deepinder Goyal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Zomato
+  discovered_from: ritesh-agarwal
+  source: Co-investor with Aroa in Unacademy Series H; prolific angel
+- name: Carl Pei
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Nothing
+  discovered_from: ritesh-agarwal
+  source: Co-investor with Ritesh in Dukaan pre-Series A
+- name: Magicpin
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Ritesh led $3M round via RA Holdings SPV at $165M val (Aug 2021)
+- name: Easy Eat AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Aroa Ventures invested in $5M seed (Jul 2021); SEA foodtech
+- name: Dukaan
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Ritesh + Carl Pei invested in $11M pre-Series A (Sep 2021)
+- name: Nas Academy
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Aroa Ventures portfolio; Singapore-based
+- name: Nektar.ai
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Aroa Ventures portfolio; B2B sales SaaS
+- name: RA Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ritesh-agarwal
+  source: Ritesh Agarwal's personal investment SPV (separate from Aroa Ventures)
+- name: Vlad Tenev
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Robinhood
+  discovered_from: baiju-bhatt
+  source: Robinhood co-founder; long-time partner of Baiju Bhatt
+- name: Reflect Orbital
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baiju-bhatt
+  source: Bhatt angel investment; $6.5M seed (Sep 2024) w/ Sequoia, Starship Ventures;
+    orbital sunlight reflection
+- name: Apex
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baiju-bhatt
+  source: Bhatt angel investment; Series B May 2024; satellite bus manufacturer; supplier
+    to Cowboy Space
+- name: Jared Leto
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baiju-bhatt
+  source: Actor; angel in Aetherflux Series A ($50M, Apr 2025)

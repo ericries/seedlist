@@ -65,7 +65,7 @@ Based on **10 verified angel investments** drawn from press announcements (sampl
 |---|---|---|---|
 | Lovable | 2025-02 | Pre-Series A (€14.3M, led by Creandum) | [^11] |
 | Neuralk-AI | 2025-02-03 | Seed ($4M, led by Fly Ventures) | [^10][^12] |
-| Alinia AI | 2025 | Pre-seed ($2.4M / €2.2M, led by Speedinvest & Precursor) | [^13] |
+| Alinia AI | 2024-06-06 | Pre-seed ($2.4M / €2.2M, led by Speedinvest & Precursor Ventures) | [^13][^20][^21] |
 | Flowstep | 2025-06 | Seed ($2.6M / €2.2M) | [^14] |
 | Bioptimus | 2025-01-14 | Funding round ($41M, led by Cathay Innovation; total raised to $76M) | [^17] |
 | Umony | 2025-09-30 | Series A ($15M, led by Notion Capital) — Wolf also joined the advisory board | [^18] |
@@ -119,3 +119,5 @@ No independently sourced founder testimonials about working with Thomas Wolf as 
 [^17]: Bioptimus, "Bioptimus hits $76M funding milestone and prepares to launch groundbreaking foundation model for biology," January 14, 2025, accessed June 2026. https://www.bioptimus.com/news/bioptimus-hits-76m-funding
 [^18]: GlobeNewswire / Umony press release, "Umony Assembles Powerhouse Advisory Board with Former FCA Chief, Hugging Face Co-Founder and Regulation Luminaries," September 30, 2025, accessed June 2026. https://www.globenewswire.com/news-release/2025/09/30/3158313/0/en/Umony-Assembles-Powerhouse-Advisory-Board-with-Former-FCA-Chief-Hugging-Face-Co-Founder-and-Regulation-Luminaries.html
 [^19]: Sifted, "Silo founder raises €25m for 'Palantir of quantum computing'," May 2026, accessed June 2026. https://sifted.eu/articles/qutwo-hugging-face-legora-funding-round
+[^20]: IT News Online, "Alinia AI Raises $2.4M in Pre-Seed Funding to Enable Safe & Controlled Deployment of Generative AI," June 6, 2024, accessed June 2026. https://www.itnewsonline.com/news/Alinia-AI-Raises-USD2.4M-in-Pre-Seed-Funding-to-Enable-Safe--Controlled-Deployment-of-Generative-AI/23487
+[^21]: AccessNewswire, "Alinia AI Raises $2.4M in Pre-Seed Funding to Enable Safe & Controlled Deployment of Generative AI," June 6, 2024, accessed June 2026. https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/alinia-ai-raises-24m-in-pre-seed-funding-to-enable-safe-controlled-872690

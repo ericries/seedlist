@@ -1,32 +1,35 @@
 ---
-name: Tilt
-slug: tilt
-type: startup
-website: https://tilt.live/
-location: London, UK
+firms:
+- date: 2026-06-02
+  round: venture
+  slug: balderton-capital
+  year: 2026
 founded: 2021
-status_company: active
+founders:
+- name: Abhi Thanendran
+  role: CEO & Co-Founder
+- name: Neil Shah
+  role: Co-Founder
+investors:
+- round: Series A
+  slug: daniel-waterhouse
+  year: 2024
+last_researched: 2026-06-06
+location: London, UK
+name: Tilt
 sector:
 - consumer
 - e-commerce
 - marketplace
 - ai
 - live-commerce
+slug: tilt
 stage_latest: Venture
-total_raised: "$50M+"
-investors: []
-firms:
-  - slug: balderton-capital
-    round: venture
-    year: 2026
-    date: 2026-06-02
-founders:
-  - name: Abhi Thanendran
-    role: CEO & Co-Founder
-  - name: Neil Shah
-    role: Co-Founder
-last_researched: 2026-06-06
 status: published
+status_company: active
+total_raised: $50M+
+type: startup
+website: https://tilt.live/
 ---
 
 ## About

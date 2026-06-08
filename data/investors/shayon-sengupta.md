@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [crypto, defi, depin, blockchain-infrastructure, ai, web3, payments, robotics]
 check_size: "$100K-$5M"
 last_verified_investment:
-  date: 2025-02-25
-  company: "Geodnet"
-  round: "Strategic"
+  date: 2026-05-01
+  company: "fun.xyz"
+  round: "Series A"
 social:
   twitter: "@shayonsengupta"
   linkedin: "linkedin.com/in/shayon-sengupta-5496aa158"
@@ -71,16 +71,16 @@ The following investments are attributed to Sengupta personally through Multicoi
 |---------|------|-------|--------|
 | Solana | 2018-2019 | Seed / Series A | [^1] |
 | Helium | 2019 | Series C | [^1] |
-| Dune | ~2021 | Unknown | [^1] |
+| Dune | 2021-08-12 | Series A ($8M, USV led; Multicoin follow-on from seed) | [^1] [^23] [^24] |
 | Render | ~2021 | Strategic | [^1] |
 | Drift | 2024 | Series B ($25M, Multicoin led) | [^1] [^15] |
 | Lore | 2023 | Seed ($4M, Multicoin led) | [^16] |
 | io.net | 2023-2024 | Seed + Series A ($30M) | [^13] |
-| Jito | ~2023 | Unknown | [^1] [^17] |
-| Sei | ~2022 | Unknown | [^1] |
-| Hyperliquid | ~2022 | Unknown | [^1] |
-| Kamino | ~2023 | Unknown | [^1] |
-| fun.xyz | ~2023 | Unknown | [^1] |
+| Jito | 2022-08-11 | Series A ($10M, Multicoin & Framework co-led) | [^1] [^17] [^25] [^26] |
+| Sei | 2022-08-31 | Seed ($5M, Multicoin led) | [^1] [^27] |
+| Hyperliquid | ~2022 | Unknown (no traditional VC round; team rejected outside funding) | [^1] |
+| Kamino | 2022-03 | Seed ($6.1M; Multicoin participated, Solana Ventures led) | [^1] [^28] |
+| fun.xyz | 2026-05-01 | Series A ($72M, Multicoin & SignalFire co-led; prior $3.9M seed in 2022) | [^1] [^29] [^30] |
 | Fuse | ~2023 | Unknown | [^1] |
 | Geodnet | 2025 | Strategic ($8M, Multicoin led) | [^10] [^18] |
 | LI.FI | 2025 | Series A Extension ($29M, Multicoin co-led) | [^1] |
@@ -152,3 +152,11 @@ No independently sourced founder testimonials about Shayon Sengupta specifically
 [^20]: Multicoin Capital, "The DeFi Stack," November 24, 2020. https://multicoin.capital/2020/11/24/the-defi-stack/
 [^21]: Blockworks, "Lightspeed Podcast: The Ultimate Jito Thesis | Shayon Sengupta," March 28, 2025. https://blockworks.co/podcast/lightspeed/55282ebe-0b70-11f0-b921-4b9c955a6267
 [^22]: ChainCatcher, "Multicoin Capital: Why We Invested in io.net," March 2024. https://www.chaincatcher.com/en/article/2127913
+[^23]: Multicoin Capital, "The Future of Finance is Real-Time Reporting (Dune Series A)," August 12, 2021. https://multicoin.capital/2021/08/12/dune-series-a/
+[^24]: CoinDesk, "Dune Analytics, Home of DIY Data Dashboards, Raises $8M in USV-Led Series A," August 12, 2021. https://www.coindesk.com/business/2021/08/12/dune-analytics-home-of-diy-data-dashboards-raises-8m-in-usv-led-series-a
+[^25]: Jito Labs, "Announcing our $10M Raise," August 11, 2022. https://www.jito.wtf/blog/announcing-our-10m-raise/
+[^26]: The Block, "Solana MEV infrastructure developer Jito Labs raises $10 million," August 11, 2022. https://www.theblock.co/post/163011/jito-labs-raises-funding-solana-mev-infrastructure
+[^27]: GlobeNewswire, "Update: Sei Raises $5M Led by Multicoin Capital to Build the First Layer 1 Blockchain Optimized for DeFi," August 31, 2022. https://www.globenewswire.com/news-release/2022/08/31/2507547/0/en/Update-Sei-Raises-5M-Led-by-Multicoin-Capital-to-Build-the-First-Layer-1-Blockchain-Optimized-for-DeFi.html
+[^28]: Crunchbase, "Pre-Seed Round - Kamino - 2022-03-15," accessed June 2026. https://www.crunchbase.com/funding_round/kamino-d6de-pre-seed--299c041d
+[^29]: Fun, "Fun Announces $72M Series A," May 1, 2026. https://fun.xyz/news/series-a
+[^30]: The Block, "Crypto onramping solution Fun raises $72 million Series A co-led by Multicoin Capital and SignalFire," May 1, 2026. https://www.theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire

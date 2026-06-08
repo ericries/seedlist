@@ -1,30 +1,37 @@
 ---
-name: "Allen Control Systems"
-slug: allen-control-systems
-type: startup
-website: "https://www.allencontrolsystems.com/"
-location: "Austin, Texas"
-status_company: active
-sector: [defense, robotics, counter-drone, autonomous-weapons]
-stage_latest: "Series B"
-total_raised: "$200M+"
-investors: []
 firms:
-  - slug: craft-ventures
-    round: series-b
-    year: 2026
-    date: 2026-06-05
-  - slug: inspired-capital
-    round: series-b
-    year: 2026
-    date: 2026-06-05
+- date: 2026-06-05
+  round: series-b
+  slug: craft-ventures
+  year: 2026
+- date: 2026-06-05
+  round: series-b
+  slug: inspired-capital
+  year: 2026
 founders:
-  - name: "Steve Simoni"
-    role: "Co-Founder & President"
-  - name: "Mike Wior"
-    role: "Co-Founder & CEO"
-status: published
+- name: Steve Simoni
+  role: Co-Founder & President
+- name: Mike Wior
+  role: Co-Founder & CEO
+investors:
+- round: Series A
+  slug: alexa-von-tobel
+  year: 2025
 last_researched: 2026-06-03
+location: Austin, Texas
+name: Allen Control Systems
+sector:
+- defense
+- robotics
+- counter-drone
+- autonomous-weapons
+slug: allen-control-systems
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $200M+
+type: startup
+website: https://www.allencontrolsystems.com/
 ---
 
 ## About
