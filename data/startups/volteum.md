@@ -7,13 +7,17 @@ location: "Budapest, Hungary"
 founded: 2022
 status_company: active
 sector: [mobility, climate, fleet-management, electric-vehicles, saas]
-stage_latest: "Series A"
+stage_latest: "Seed"
 total_raised: "€3.75M"
 investors: []
 firms:
   - slug: techstars
     round: pre-seed
     year: 2023
+  - slug: techstars
+    round: seed
+    year: 2026
+    date: 2026-06-08
 founders:
   - name: "Zsófia Tóth"
     role: "Co-Founder & CEO"
@@ -23,13 +27,13 @@ last_researched: 2026-06-08
 
 ## About
 
-Volteum is a Budapest-based software platform that helps fleet managers operate mixed electric and combustion vehicle fleets, consolidating charging, mileage, and maintenance data without requiring additional hardware installations [^1][^2]. Co-founded by Zsófia Tóth, the company counts Royal Mail, Bolt, and Schneider Electric among customers using the platform to manage mixed EV fleets [^3]. Volteum was a Techstars participant prior to its 2026 Series A [^2].
+Volteum is a Budapest-based software platform that helps fleet managers operate mixed electric and combustion vehicle fleets, consolidating charging, mileage, and maintenance data without requiring additional hardware installations [^1][^2]. Co-founded by Zsófia Tóth, the company counts Royal Mail, Bolt, and Schneider Electric among customers using the platform to manage mixed EV fleets [^3]. Volteum was a Techstars participant prior to its 2026 Seed round [^2].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-08 | Series A | €2.5M | Movens Capital | WakeUp Capital, Aidiom, Day One Capital, Techstars, Nesprit [^1][^2][^4] |
+| 2026-06-08 | Seed | €2.5M | Movens Capital | WakeUp Capital, Aidiom, Day One Capital, Techstars, Nesprit [^1][^2][^4] |
 
 Total funding to date: €3.75M, including a €1.25M pre-seed round [^2][^4].
 

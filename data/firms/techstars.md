@@ -71,8 +71,9 @@ A complete list of Techstars' 4,000+ portfolio companies is published at techsta
 ~unknown| Alloy | — | Techstars portfolio | Unicorn; active | [^4] |
 | Bench Accounting | — | Techstars portfolio | Restructured 2024-2025 | [^1] |
 | Sketchfab | — | Techstars NYC | Acq. Epic Games 2021 | [^1] |
+| Volteum | 2023 (program); follow-on seed 2026-06-08 | Techstars London | Active; €2.5M Seed led by Movens Capital | [^15][^16][^17] |
 
-*This table is a curated subset; Techstars maintains the full portfolio listing on its corporate site [^4]. The "first eleven Techstars unicorns" are documented in Cohen's September 2020 retrospective and serve as the primary source for the 2009-2013 entries [^11].*
+*This table is a curated subset; Techstars maintains the full portfolio listing on its corporate site [^4]. The "first eleven Techstars unicorns" are documented in Cohen's September 2020 retrospective and serve as the primary source for the 2009-2013 entries [^11]. Recent follow-on rounds where Techstars participated are also tracked here as confirmed signals of active alumni support.*
 
 ## In Their Own Words
 
@@ -114,3 +115,6 @@ No independently sourced founder testimonials of the quality this section requir
 [^12]: KoreaTechDesk, "Techstars David Cohen: The investor who believed in success of startups like Uber, Twilio, Sphero," accessed May 2026. https://www.koreatechdesk.com/techstars-david-cohen-the-investor-who-believed-in-success-of-startups-like-uber-twilio-sphero/
 [^13]: davidgcohen.com, "Give First… Build First… or Both?", September 30, 2021. https://davidgcohen.com/2021/09/30/give-first-build-first-or-both/
 [^14]: Feld Thoughts, "Give Before You Get," January 2013. https://feld.com/archives/2013/01/give-before-you-get/
+[^15]: FinSMEs, "Volteum Raises €2.5M in Funding," June 8, 2026. https://www.finsmes.com/2026/06/volteum-raises-e2-5m-in-funding.html
+[^16]: Tech.eu, "Volteum bags €2.5M to power EV and mixed fleet operations," June 8, 2026. https://tech.eu/2026/06/08/volteum-bags-eur25m-to-power-ev-and-mixed-fleet-operations/
+[^17]: Pulse 2.0, "Volteum Raises €2.5 Million To Expand EV And Mixed Fleet Management Platform Across Europe," June 8, 2026. https://pulse2.com/volteum-raises-e2-5-million-to-expand-ev-and-mixed-fleet-management-platform-across-europe/
