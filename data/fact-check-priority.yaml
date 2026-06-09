@@ -389,6 +389,6 @@ priority:
   status: resolved
 - slug: yotam-segev
   type: investor
-  reason: "RESOLVED 2026-06-08 — A Security Seed + Series A $37M combined (2026-06-08, Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A) added to yotam-segev portfolio table with 3 independent primary citations (Calcalist/CTech headline explicitly names Segev; SecurityWeek; GlobeNewswire/Manila Times). last_verified_investment updated from Daylight Security 2026-02-02 to A Security 2026-06-08."
+  reason: "RESOLVED 2026-06-08 — A Security Seed + Series A $37M combined (2026-06-08, Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A) verified via 3 independent primary sources (Calcalist/CTech headline explicitly names Segev; SecurityWeek; GlobeNewswire/Manila Times) and present in portfolio table. last_verified_investment confirmed at A Security 2026-06-08. RE-VERIFIED 2026-06-03 — additionally tightened 3 vague portfolio dates: Daylight Security Seed (2026-02-02, daylight.ai blog), Daylight Security Series A (2025-11-04, SiliconANGLE + Yahoo Finance/Access Newswire press release added as [^16][^17] both naming Segev as Cyera angel alongside Tamar Bar-Ilan), Spirit (2026-01-06, Calcalist confirms Segev angel alongside Rappaport and Dibrov). All 4 portfolio rows now have full YYYY-MM-DD dates."
   added: 2026-06-08
   status: resolved

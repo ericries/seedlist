@@ -68,9 +68,9 @@ Based on 3 verified angel investments, the sample size is too small for reliable
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | A Security | Seed + Series A ($37M combined; Cyberstarts-led Seed, Lightspeed + Cyberstarts-led Series A; angel participation alongside Assaf Rappaport, Cerca Partners, Merav Bahat) | 2026-06-08 | Cybersecurity / Offensive Security | [^13][^14][^15] |
-| Daylight Security | Seed | 2026 | Cybersecurity / AI-native MDR | [^11] |
-| Daylight Security | Series A | 2025 | Cybersecurity / AI-native MDR | [^9] |
-| Spirit | Seed | 2026 | Cybersecurity / Enterprise Security | [^10] |
+| Daylight Security | Seed ($7M, Bain Capital Ventures-led; Maple VC + Israeli angels) | 2026-02-02 | Cybersecurity / AI-native MDR | [^11] |
+| Daylight Security | Series A ($33M, Craft Ventures-led; Bain Capital Ventures, Maple VC, Israeli angels) | 2025-11-04 | Cybersecurity / AI-native MDR | [^9][^16][^17] |
+| Spirit | Seed-stage round ($50M at $400M val; Cyberstarts + Sequoia-led) | 2026-01-06 | Cybersecurity / Enterprise Security | [^10] |
 
 This table represents Segev's entire verified angel portfolio. Tracxn lists 2 portfolio companies [^12]. Only investments with confirmed sources are included. Segev's primary professional activity is as CEO of Cyera, not as an investor.
 
@@ -116,3 +116,7 @@ No independently sourced founder testimonials found about Yotam Segev as an ange
 [^14]: SecurityWeek, "A Security Raises $37 Million for Autonomous Offensive Security Platform," June 8, 2026. Accessed June 2026. https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/ — Independent confirmation of Segev's angel participation.
 
 [^15]: GlobeNewswire / Manila Times syndication, "A Security Emerges from Stealth with $37M in Funding to Outpace Weaponized AI," June 8, 2026. Accessed June 2026. https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/a-security-emerges-from-stealth-with-37m-in-funding-to-outpace-weaponized-ai/2360758 — Official press release naming Yotam Segev among the angel participants in A Security's $37M financing.
+
+[^16]: SiliconANGLE, "Daylight Security raises $33M to expand AI-driven managed detection and response," November 4, 2025. Accessed June 2026. https://siliconangle.com/2025/11/04/daylight-security-raises-33m-expand-ai-driven-managed-detection-response/ — Independent confirmation of Yotam Segev's angel participation in Daylight Series A.
+
+[^17]: Yahoo Finance / Access Newswire, "Daylight Secures $40 Million to Redefine Managed Security Services in the Agentic AI Era," November 4, 2025. Accessed June 2026. https://finance.yahoo.com/news/daylight-secures-40-million-redefine-140000681.html — Press release confirming Yotam Segev (Cyera) among angel investors in Daylight Series A.
