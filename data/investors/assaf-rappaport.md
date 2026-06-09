@@ -77,9 +77,9 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Clover Security | Series A ($30M; led by Notable Capital; Team8, SVCI, and Rappaport participated as angel; $36M total with Seed) | 2025-11-25 | Cybersecurity | Active | [^5][^20][^21] |
-| Daylight | Series A | 2025 | Enterprise | Active | [^4] |
-| Atero | Seed | 2024 | AI infrastructure | Exited (Crusoe, Aug 2025) | [^10] |
-| Twine Security | Seed | 2024 | Cybersecurity | Active | [^7] |
+| Daylight | Series A ($33M; Craft Ventures-led; Bain Capital Ventures, Maple VC participated; angels Assaf Rappaport, Ofer Smadari, Leonid Belkind, Eldad Livni) | 2025-11-04 | Cybersecurity | Active | [^4] [^25] |
+| Atero | Seed ($12M; Primary Ventures-led with lool Ventures; Rappaport, Amit Agarwal/Datadog, Thomas Dohmke/GitHub, others as angels; round disclosed at Aug 2025 Crusoe acquisition) | 2024 (founded July 2024) | AI infrastructure | Exited (Crusoe, Aug 2025) | [^10] |
+| Twine Security | Seed ($12M; co-led by Ten Eleven Ventures and Dell Technologies Capital; Wiz founders Rappaport and Roy Reznik as angels) | 2024-11-20 | Cybersecurity | Active | [^7] [^26] |
 | Descope | Seed | 2023-02-15 | Identity / auth | Active | [^11] |
 | Demostack | Seed + Series A | 2020-12 / 2021-03-09 | Enterprise / sales | Active | [^12] [^13] |
 | Eureka | Seed | 2022-01-12 | Cybersecurity | Exited | [^14] |
@@ -142,3 +142,7 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^23]: SecurityWeek, "A Security Raises $37 Million for Autonomous Offensive Security Platform," June 8, 2026. Accessed June 2026. https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/ — Independent confirmation of A Security's $37M financing and angel participation by Rappaport.
 
 [^24]: GlobeNewswire / Manila Times syndication, "A Security Emerges from Stealth with $37M in Funding to Outpace Weaponized AI," June 8, 2026. Accessed June 2026. https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/a-security-emerges-from-stealth-with-37m-in-funding-to-outpace-weaponized-ai/2360758 — Official press release confirming Lightspeed and Cyberstarts lead with Cerca Partners, Assaf Rappaport, Yotam Segev, and Merav Bahat as angel investors.
+
+[^25]: SiliconANGLE, "Daylight Security raises $33M to expand AI-driven managed detection and response," November 4, 2025. Accessed June 2026. https://siliconangle.com/2025/11/04/daylight-security-raises-33m-expand-ai-driven-managed-detection-response/ — Confirms Daylight Series A $33M led by Craft Ventures with Bain Capital Ventures and Maple VC; individual investors include Assaf Rappaport (Wiz), Ofer Smadari, Leonid Belkind, Eldad Livni (Torq).
+
+[^26]: BusinessWire, "Twine Attracts Top Investors for a $12M Seed Round to Create Digital Cybersecurity Employees," November 20, 2024. Accessed June 2026. https://www.businesswire.com/news/home/20241120830422/en/Twine-Attracts-Top-Investors-for-a-$12M-Seed-Round-to-Create-Digital-Cybersecurity-Employees — Confirms Twine Security $12M Seed announced November 20, 2024, co-led by Ten Eleven Ventures and Dell Technologies Capital, with Wiz founders Assaf Rappaport and Roy Reznik participating as angels.
