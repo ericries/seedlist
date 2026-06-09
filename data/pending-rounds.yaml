@@ -75,6 +75,118 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Beacon raised $225M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Beacon
+  parsed_amount: $225M
+  parsed_round: Series C
+  status: pending
+- title: PointFive raised $60M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: PointFive
+  parsed_amount: $60M
+  parsed_round: Series B
+  status: pending
+- title: Stepful raised $55M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Stepful
+  parsed_amount: $55M
+  parsed_round: Series C
+  status: pending
+- title: Edge Markets raised $29.2M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Edge Markets
+  parsed_amount: $29.2M
+  parsed_round: Series A
+  status: pending
+- title: Vinyl Equity raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Vinyl Equity
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: NewOrbit raised $18.5M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: NewOrbit
+  parsed_amount: $18.5M
+  parsed_round: Series A
+  status: pending
+- title: Zaro.ai raised $5.1M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Zaro.ai
+  parsed_amount: $5.1M
+  parsed_round: null
+  status: pending
+- title: Lexful raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Lexful
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: pending
+- title: Clear Robotics raised $1.75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Clear Robotics
+  parsed_amount: $1.75M
+  parsed_round: null
+  status: pending
+- title: WhiteHawk Minerals raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: WhiteHawk Minerals
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: Ocean Capital Acquisition raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Ocean Capital Acquisition
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Snow Rothschild Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Snow Rothschild Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: b in cash. Firefly had raised $94M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: b in cash. Firefly had
+  parsed_amount: $94M
+  parsed_round: null
+  status: pending
+- title: Future Standard raised $3B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-09'
+  parsed_company: Future Standard
+  parsed_amount: $3B
+  parsed_round: null
+  status: pending
 - title: UK-based NewOrbit raises €16 million to build commercial satellites for very
     low Earth orbit (VLEO)
   url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
@@ -770,132 +882,3 @@ pending_rounds:
   notes: created startup profile modelia.md (€1.03M Seed 2026-06-02 led by Next Tier
     with Rapid Scale and Archipelago Next)
   processed_date: '2026-06-02'
-- title: Board, the new game startup from Mirror founder Brynn Putnam, raises $20M,
-    has already sold thousands
-  url: https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/
-  source: techcrunch
-  date_found: '2026-06-02'
-  parsed_company: Board, the new game startup from Mirror founder Brynn Putnam,
-  parsed_amount: $20M
-  parsed_round: null
-  status: skipped
-  notes: already in skip list / profile exists
-- title: Meta tests ‘Series’ for episodic Reels on Instagram and Facebook
-  url: https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/
-  source: techcrunch
-  date_found: '2026-06-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: ZeroDrift raises $10M to protect AI models from themselves
-  url: https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/
-  source: techcrunch
-  date_found: '2026-06-02'
-  parsed_company: ZeroDrift
-  parsed_amount: $10M
-  parsed_round: null
-  status: processed
-- title: Rocket engine startup Impulse raises $500 million to hire people, not AI
-  url: https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
-  source: techcrunch
-  date_found: '2026-06-02'
-  parsed_company: Rocket engine startup Impulse
-  parsed_amount: $500M
-  parsed_round: null
-  status: skipped
-- title: 'Sector Snapshot: Defense Startup Funding Hits An All-Time Record As VCs
-    Begin To Eye Exits'
-  url: https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/
-  source: crunchbase
-  date_found: '2026-06-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: Barcelona’s Zazume raises €2.5 million to scale its AI-powered rental management
-    platform
-  url: https://www.eu-startups.com/2026/06/barcelonas-zazume-raises-e2-5-million-to-scale-its-ai-powered-rental-management-platform/
-  source: eu-startups
-  date_found: '2026-06-02'
-  parsed_company: Barcelona’s Zazume
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-- title: Verizon announces pricing terms of its tender offers and consent solicitations
-    for 20 series of Verizon and certain of its subsidiaries’ notes
-  url: https://www.globenewswire.com/news-release/2026/06/02/3305526/0/en/Verizon-announces-pricing-terms-of-its-tender-offers-and-consent-solicitations-for-20-series-of-Verizon-and-certain-of-its-subsidiaries-notes.html
-  source: globenewswire
-  date_found: '2026-06-02'
-  parsed_company: Verizon
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-- title: Ex-Anduril engineer raises $42M to build the Amazon of composite parts
-  url: https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/
-  source: techcrunch
-  date_found: '2026-06-02'
-  parsed_company: Ex-Anduril engineer
-  parsed_amount: $42M
-  parsed_round: null
-  status: skipped
-- title: Focused Energy raises whopping $240M Series A for laser-powered fusion tech
-  url: https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/
-  source: techcrunch
-  date_found: '2026-06-02'
-  parsed_company: Focused Energy
-  parsed_amount: $240M
-  parsed_round: Series A
-  status: processed
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/2/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-2-2026/
-  source: alleywatch
-  date_found: '2026-06-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: Unastella, a South Korean rocket startup that launched from home, raises
-    $24M
-  url: https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
-  source: techcrunch
-  date_found: '2026-06-01'
-  parsed_company: Unastella, a South Korean rocket startup that launched from home,
-  parsed_amount: $24M
-  parsed_round: null
-  status: processed
-  notes: created startup profile unastella.md; Series B $24M led by Altos Ventures
-- title: UK-based Circular11 secures €2.7 million to turn low-grade plastic waste
-    into building materials
-  url: https://www.eu-startups.com/2026/06/uk-based-circular11-secures-e2-7-million-to-turn-low-grade-plastic-waste-into-building-materials/
-  source: eu-startups
-  date_found: '2026-06-01'
-  parsed_company: UK-based Circular11
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: EU-Startups blocked (403); conflicting earlier £1.1M July 2025 report;
-    insufficient primary source verification
-- title: Munich-based encosa raises €25 million to bring battery storage to German
-    SMEs
-  url: https://www.eu-startups.com/2026/06/munich-based-encosa-raises-e25-million-to-bring-battery-storage-to-german-smes/
-  source: eu-startups
-  date_found: '2026-06-01'
-  parsed_company: Munich-based encosa
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created encosa.md; Seed €25M (equity+debt) led by Bayern Kapital
-- title: ASML spin-out Invisix raises €20 million Seed round to help chipmakers build
-    what they “can’t yet see”
-  url: https://www.eu-startups.com/2026/06/asml-spin-out-invisix-raises-e20-million-seed-round-to-help-chipmakers-build-what-they-cant-yet-see/
-  source: eu-startups
-  date_found: '2026-06-01'
-  parsed_company: ASML spin-out Invisix
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  notes: created invisix.md; Seed €20M led by Hitachi Ventures

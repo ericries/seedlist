@@ -397,3 +397,31 @@ priority:
   reason: "RESOLVED 2026-06-09 — ICEYE Series F primary €450M (2026-06-09, General Atlantic-led at €10B+ valuation; TCV participated alongside Solidium, Tesi, Varma, Ilmarinen, Lifeline Ventures, Nokia, and Qatar Investment Authority) added to tcv.md portfolio with 3 independent primary citations: (1) ICEYE press release [^17], (2) General Atlantic announcement [^18], (3) Tech.eu [^19]. All 3 sources independently name TCV. Total Series F including secondary placement exceeded €1B. ICEYE startup profile already published with TCV in firms[] frontmatter."
   added: 2026-06-09
   status: resolved
+- slug: sequoia-capital
+  type: firm
+  reason: "led Sandstone Seed $10M (2026-01-13)"
+  added: 2026-06-09
+- slug: sv-angel
+  type: firm
+  reason: "joined Sandstone Series A $30M (2026-06-09)"
+  added: 2026-06-09
+- slug: operator-partners
+  type: firm
+  reason: "joined Sandstone Series A (2026-06-09)"
+  added: 2026-06-09
+- slug: general-catalyst
+  type: firm
+  reason: "co-led Beacon Software Series C $225M (2026-06-09)"
+  added: 2026-06-09
+- slug: addition
+  type: firm
+  reason: "follow-on Beacon Software Series C (2026-06-09)"
+  added: 2026-06-09
+- slug: hemant-taneja
+  type: investor
+  reason: "led Beacon Software Series C via General Catalyst (2026-06-09)"
+  added: 2026-06-09
+- slug: y-combinator
+  type: firm
+  reason: "follow-on Stepful Series C $55M (2026-06-08)"
+  added: 2026-06-09
