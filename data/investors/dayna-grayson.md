@@ -80,13 +80,13 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Telegraph | 2021 | Seed | Freight rail logistics | [^15] |
 | Verve Motion | 2021 | Series A | Industrial wearables | [^16] |
 | Impulse Labs | 2021 | Seed | Home appliances/electrification | [^17] |
-| The Rounds | ~2021 | Seed | Consumer delivery (acquired) | [^1] |
+| The Rounds | 2021 | Seed ($4M, co-led) | Consumer delivery (acquired) | [^1][^46] |
 | Arkestro | 2022 | Series A | AI procurement | [^18] |
 | Hadrian | 2022 | Series A | Aerospace/defense manufacturing | [^12] |
 | Chef Robotics | 2023 | Seed | Food production automation | [^19] |
 | ReadyOn | 2023 | Seed | Hourly worker scheduling | [^20] |
 | Hadrian | 2023 | Series B (led) | Aerospace/defense manufacturing | [^21] |
-| Monaire | ~2023 | Seed | HVAC/refrigeration | [^10] |
+| Monaire | 2024-03-20 | Seed ($3.5M, led) | HVAC/refrigeration | [^47] |
 | DBOS | 2024 | Seed (co-led) | Cloud-native OS | [^22] |
 | Aetherflux | 2024 | Seed | Space-based solar power | [^23] |
 | Nexxa AI | 2026 | Seed (led) | AI agents for heavy industry | [^24] |
@@ -212,3 +212,5 @@ No other independently sourced founder testimonials found. Firm website does not
 [^43]: TechCrunch, "Human composting and timber marketplaces: Talking 'industrial' VC with investor Dayna Grayson," May 4, 2024. https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/ — Construct Capital led TimberEye's seed round.
 [^44]: BusinessWire, "Nauta Raises $7M to Modernize Global Logistics with AI," August 25, 2025. https://www.businesswire.com/news/home/20250825792600/en/Nauta-Raises-$7M-to-Modernize-Global-Logistics-with-AI — Seed co-led by Construct Capital and Predictive.
 [^45]: Crunchbase, "Teero - Company Profile & Funding," accessed May 2026. https://www.crunchbase.com/organization/teero — Confirms Construct Capital as an investor alongside 1984 Ventures and Firstminute Capital; total raised $10.9M across seed and a 2024 Series A (Firstminute lead). Construct's participation maps to the earlier seed round.
+[^46]: TechCrunch, "The Rounds raises $38M Series A for its sustainable 'household restocking' service," October 6, 2022. https://techcrunch.com/2022/10/06/the-rounds-raises-38m-series-a-for-its-sustainable-household-restocking-service/ — Article states the Series A "came after a $4 million seed led by Rachel Holt at Construct Capital and Hayley Barna at local firm First Round Capital." Cross-referenced with Technical.ly coverage at https://technical.ly/startups/the-rounds-series-a/ confirming the same $4M seed co-led by Construct Capital and First Round Capital.
+[^47]: Monaire press release via PRWeb, "Monaire raises $3.5M to help small commercial buildings transition to sustainable heating and cooling using AI," March 20, 2024. https://www.prweb.com/releases/monaire-raises-3-5m-to-help-small-commercial-buildings-transition-to-sustainable-heating-and-cooling-using-ai-302094414.html — Confirms $3.5M seed round announced March 20, 2024, led by Construct Capital with participation from Workshop Ventures and angels Steve Fredette (Toast) and Tom Kuo (A-Street). Cross-referenced with FinSMEs (https://www.finsmes.com/2024/03/monaire-raises-3-5m-in-seed-funding.html) and Climate Insider (https://climateinsider.com/2024/03/23/boston-based-monaire-raises-3-5m-for-sustainable-hvac-solutions/).

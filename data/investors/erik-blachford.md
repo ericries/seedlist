@@ -95,8 +95,8 @@ Sample size is 19; Blachford has reportedly made 30 total investments (Ascension
 | Farecast | 2007 | Series C | [^4] |
 | Zillow | ~2005 | Board/early | [^15] |
 | Liftopia | ~2010 | Angel (pre-2011) | [^16] |
-| Hipmunk | 2011 | Series A | [^17] |
-| HotelTonight | 2011 | Angel | [^18] |
+| Hipmunk | 2011-02-03 | Series A | [^17] |
+| HotelTonight | 2011-05-10 | Series A | [^18][^32] |
 | Ostrovok | 2012 | Angel round | [^19] |
 | TourRadar | 2013 | Angel | [^20] |
 | Vacatia | 2013 | Seed | [^21] |
@@ -110,7 +110,7 @@ Sample size is 19; Blachford has reportedly made 30 total investments (Ascension
 | Busbud | 2018 | Series B | [^27] |
 | Traveling Spoon | ~2015 | Angel | [^28] |
 | Mosaic (solar) | ~2013 | Angel | [^29] |
-| Otto | 2024 | Seed | [^30] |
+| Otto | 2024-08-22 | Seed ($6M, led by Madrona) | [^30][^33] |
 | Hipcamp | 2025 | Board (investor) | [^8] |
 
 **Exits (confirmed):** HotelTonight (acquired by Airbnb), Tripping.com, Bloomspot, Uplift (acquired July 2023), Hipmunk (acquired by Concur, later shut down), Glassdoor (acquired by Recruit Holdings for ~$1.2B) [^1].
@@ -211,3 +211,7 @@ Additionally, industry reporting noted that Blachford's early angel involvement 
 [^30]: Skift, "Concur Founder, Former Expedia Execs Back Business Travel AI Startup: Otto," August 22, 2024, accessed March 2026. https://skift.com/2024/08/22/concur-founder-former-expedia-execs-back-business-travel-ai-startup-otto/
 
 [^31]: Trending Topics EU, "TourRadar: Inside the 50 Million Dollar Deal," 2018, accessed March 2026. https://www.trendingtopics.eu/tourradar-inside-the-50-million-dollar-deal/
+
+[^32]: Business Wire, "HotelTonight Secures $3.25 Million Series A Funding from Battery Ventures, Accel Partners and First Round Capital," May 10, 2011, accessed June 2026. https://www.businesswire.com/news/home/20110510005978/en/HotelTonight-Secures-3.25-Million-Series-Funding-Battery (lists Erik Blachford among travel-industry angel participants)
+
+[^33]: TechCrunch, "Former Expedia exec's startup uses AI to help smaller companies book travel," August 22, 2024, accessed June 2026. https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/ (Otto $6M seed led by Madrona Ventures, announced August 22, 2024; Direct Travel plus former Expedia/Orbitz/Uber/Farecast C-suite angels — Blachford named in FinTech Global and Skift coverage of same round)

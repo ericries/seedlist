@@ -155,8 +155,8 @@ Note: Some companies span multiple categories. Totals may exceed 120 due to over
 | Spiceworks | Seed | ~2008 | Enterprise IT | Active [^6] |
 | Smule | Series A | ~2008 (founded) | Consumer/Social | Active [^9] |
 | Sharethrough | Seed | ~2008 (founded) | Advertising | Active [^19] |
-| BigCommerce | Seed | ~2009 (founded) | E-commerce | IPO [^9] |
-| TaskRabbit | Seed | ~2009 | Marketplace | Acquired by IKEA [^2][^24] |
+| BigCommerce | Series B | 2012-09-05 | E-commerce | IPO [^9][^39] |
+| TaskRabbit | Seed (Oct 2009) / Series A | 2011-05-04 | Marketplace | Acquired by IKEA [^2][^24][^41] |
 | Okta | Seed/Early | ~2009 | Enterprise Security | IPO [^6][^18] |
 | IFTTT | Seed | ~2010 (founded) | Consumer Tech | M&A [^9] |
 | Lyft (via Zimride) | Seed | ~2010 | Marketplace/Transport | IPO [^6][^25] |
@@ -164,16 +164,16 @@ Note: Some companies span multiple categories. Totals may exceed 120 due to over
 | Refinery29 | Seed | ~2011 | Media | M&A [^2] |
 | Xamarin | Series A | ~2011 (founded) | Developer Tools | M&A (Microsoft) [^9] |
 | Mighty Networks | Seed | ~2011 (founded) | Social/Enterprise | Active [^9] |
-| Clever | Seed | ~2012 | Education | M&A [^9] |
+| Clever | Seed | 2012-10-22 | Education | M&A [^9][^38] |
 | The Zebra | Seed | ~2012 (founded) | Insurance | Active [^9] |
 | Thinkful | Seed | ~2012 (founded) | Education | M&A [^9] |
 | Lob | Seed | ~2013 (founded) | Enterprise SaaS | Active [^9] |
 | OhmConnect | Seed | ~2014 (founded) | Energy | M&A [^9] |
 | Clover Health | Seed | ~2014 (founded) | Healthcare | IPO [^6] |
-| Outreach | Seed | ~2014 | Enterprise SaaS | Active [^6] |
+| Outreach | Seed | 2015-05-04 | Enterprise SaaS | Active [^6][^37] |
 | TextIQ | Seed | ~2014 (founded) | Data/Enterprise | Active [^9] |
 | LTSE | Seed | ~2015 (founded) | Financial Services | IPO [^9] |
-| Rappi | Seed | ~2016 | Marketplace | Active [^6] |
+| Rappi | Series A | 2016-11-10 | Marketplace | Active [^6][^40] |
 | Applied Intuition | Series A | 2018-09-12 | AI/Autonomous Vehicles | Active [^6][^31][^32] |
 | Messari | Seed | ~2018 (founded) | Crypto | Active [^9] |
 | Tango Card | Seed | ~2010 (founded) | Fintech | M&A [^9] |
@@ -315,3 +315,8 @@ No additional independently sourced founder testimonials about working with Floo
 [^34]: "From Seed to Hyperscale in 3 Years: How SmarterDx Is Cracking the Healthcare AI Code." Flare Capital Partners (seed co-investor), accessed June 2026. Confirms SmarterDx raised seed funding in 2022 with Flare Capital and Floodgate. https://www.flarecapital.com/insight/from-seed-to-hyperscale-in-3-years-how-smarterdx-is-cracking-the-healthcare-ai-code-2/
 [^35]: "Counsel Health Launches with $11M in Seed Funding to Deliver Physician-Led, AI-Powered Medical Advice." PR Newswire, October 22, 2024. Seed led by Andreessen Horowitz Bio + Health; Floodgate Fund, Asymmetric Capital Partners, and Pear VC participated. https://www.prnewswire.com/news-releases/counsel-health-launches-with-11m-in-seed-funding-to-deliver-physician-led-ai-powered-medical-advice-302280740.html
 [^36]: "With $58.2M in Funding & Landmark Carbon Removal Deals, Terradot Launches with Bold Plan to Scale CO2 Removal this Decade." BusinessWire, December 12, 2024. $58.2M comprises $4.2M seed and $54M Series A; investors include John Doerr (lead), Floodgate, Kleiner Perkins, Microsoft Climate Innovation Fund, Google, Cisco, Acre, Gigascale, Valor, Ponderosa. https://www.businesswire.com/news/home/20241212215501/en/With-$58.2M-in-Funding-Landmark-Carbon-Removal-Deals-Terradot-Launches-with-Bold-Plan-to-Scale-CO2-Removal-this-Decade
+[^37]: "Outreach Raises $2.3M in Seed Funding." FinSMEs, May 4, 2015. Confirms seed announced May 4, 2015; backers include Mike Maples (Floodgate), Mark Sugarman (MHS Capital), Version One Ventures, and former LinkedIn execs Sarah Imbach and Ellen Levy. https://www.finsmes.com/2015/05/outreach-raises-2-3m-in-seed-funding.html
+[^38]: "Twilio For Education Data, Clever, Lands $3M From Kevin Rose, Mike Maples & Ashton Kutcher, Now In 2K Schools." TechCrunch, October 22, 2012. Confirms $3M seed announced October 22, 2012; investors include SV Angel, Mike Maples (Floodgate), Jeff Clavier (SoftTech VC), Google Ventures, Bessemer Venture Partners, Mitch Kapor, Ben Parr, Ashton Kutcher, and most YC partners. https://techcrunch.com/2012/10/22/clever-seed/
+[^39]: "Bigcommerce Secures $20 Million Series B Financing To Expand E-Commerce Platform." BusinessWire, September 5, 2012. Confirms $20M Series B led by General Catalyst with Floodgate participating. https://www.businesswire.com/news/home/20120905005307/en/Bigcommerce-Secures-20-Million-Series-B-Financing-To-Expand-E-Commerce-Platform
+[^40]: "Series A - Rappi - 2016-11-10." Crunchbase Funding Round Profile, accessed June 2026. $9M Series A led by Andreessen Horowitz; Floodgate listed among earlier seed investors per LAVCA coverage from April 2016. https://www.crunchbase.com/funding_round/rappi-series-a--2bf5ceeb
+[^41]: "TaskRabbit Gets $5M From Shasta Ventures, First Round And Others To Help People Get Stuff Done." TechCrunch, May 4, 2011. Confirms Series A led by Shasta Ventures with FLOODGATE, First Round Capital, Baseline Ventures, Collaborative Fund, 500 Startups, and Lisa Gansky. Floodgate also participated in earlier $1M seed round in October 2009. https://techcrunch.com/2011/05/04/taskrabbit-gets-5m-to-help-people-get-stuff-done/
