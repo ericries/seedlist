@@ -4,7 +4,7 @@ slug: daniel-ek
 tldr: "Founder of Spotify and Prima Materia, a personal investment vehicle with €1B focused on European deep tech. Portfolio of 7 verified investments is 29% healthcare/longevity, 29% climate/green infrastructure, with major bets in Helsing ($694M defense AI), Northvolt (exited), and Neko Health. Takes board seats as an active owner rather than passive angel."
 type: individual
 firm: prima-materia
-role: "Founder & CEO, Spotify; Founder, Prima Materia"
+role: "Executive Chairman, Spotify; Founder, Prima Materia"
 location: "Stockholm, Sweden"
 stage_focus: [growth, late-stage]
 sector_focus: [deep-tech, healthcare, climate, defense]
@@ -17,7 +17,7 @@ social:
   twitter: "@eldsjansen"
   linkedin: "linkedin.com/in/daniel-ek-1b52093a"
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-06-09
 ---
 
 ## Background
@@ -26,7 +26,7 @@ Daniel Georg Ek was born on February 21, 1983, and grew up in the Ragsved distri
 
 Ek worked at Jajja, a search engine optimization firm, and held a senior role at Nordic auction company Tradera, which was acquired by eBay in 2006 [^1]. He was also CTO of Stardoll and later started Advertigo, an online advertising company [^1].
 
-In 2006, Ek co-founded Spotify AB with Martin Lorentzon in Stockholm, launching the music streaming service in October 2008 [^1]. As of 2026, Spotify is a publicly traded company with a market capitalization exceeding $100 billion.
+In 2006, Ek co-founded Spotify AB with Martin Lorentzon in Stockholm, launching the music streaming service in October 2008 [^1]. As of 2026, Spotify is a publicly traded company with a market capitalization exceeding $100 billion. On September 30, 2025, Ek announced he would step down as CEO and transition to Executive Chairman effective January 1, 2026, with Gustav Söderström and Alex Norström taking over as co-CEOs [^11]. The transition allows Ek to focus on long-term strategy, capital allocation, and his investment activities through Prima Materia [^11].
 
 In 2016, Ek launched Prima Materia, his personal investment vehicle, with approximately EUR 1 billion of his own capital [^2]. He co-founded Prima Materia with Shakil Khan, a longtime Spotify investor [^3]. Prima Materia describes itself as "not investors but builders and active owners to a small number of companies building great businesses for the long term" [^4]. In 2018, Ek co-founded the medical technology company Neko Health with engineer Hjalmar Nilsonne [^5].
 
@@ -99,3 +99,4 @@ No independently sourced founder testimonials found for Ek's investment activiti
 [^8]: CNBC, "Spotify CEO backs Tesla rival Northvolt in $600 million funding round," September 2020. https://www.cnbc.com/2020/09/29/spotify-ceo-backs-tesla-rival-northvolt.html
 [^9]: NordSIP, "Will Stegra go the Way of Northvolt?" October 2025. https://nordsip.com/2025/10/24/will-stegra-go-the-way-of-northvolt/
 [^10]: A-Z Quotes, "Top 25 Quotes by Daniel Ek," accessed March 2026. https://www.azquotes.com/author/33014-Daniel_Ek
+[^11]: CNBC, "Spotify founder Daniel Ek stepping down as CEO, company names co-CEOs to replace him," September 30, 2025. https://www.cnbc.com/2025/09/30/spotify-founder-daniel-ek-stepping-down.html

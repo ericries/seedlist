@@ -27949,3 +27949,19 @@ queue:
   firm: Invisible-Light Labs
   discovered_from: invisible-light-labs
   source: CEO & Co-Founder of Invisible-Light Labs
+- name: Spencer Hyman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Prima Materia
+  discovered_from: daniel-ek
+  source: co-led Helsing Series D ($694M, 2025) with Daniel Ek via Prima Materia
+- name: Cursor (Anysphere)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pieter-levels
+  source: Pieter Levels publicly disclosed angel investment in Cursor on X (July 2025)
+    and in Cheeky Pint interview
