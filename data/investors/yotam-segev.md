@@ -3,9 +3,9 @@ check_size: Unknown (angel)
 firm: cyera
 last_researched: 2026-03-22
 last_verified_investment:
-  company: Daylight Security
-  date: 2026-02-02
-  round: Seed
+  company: A Security
+  date: 2026-06-08
+  round: Seed + Series A ($37M)
 location: New York, NY / Tel Aviv, Israel
 name: Yotam Segev
 role: Co-Founder & CEO
@@ -67,6 +67,7 @@ Based on 3 verified angel investments, the sample size is too small for reliable
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| A Security | Seed + Series A ($37M combined; Cyberstarts-led Seed, Lightspeed + Cyberstarts-led Series A; angel participation alongside Assaf Rappaport, Cerca Partners, Merav Bahat) | 2026-06-08 | Cybersecurity / Offensive Security | [^13][^14][^15] |
 | Daylight Security | Seed | 2026 | Cybersecurity / AI-native MDR | [^11] |
 | Daylight Security | Series A | 2025 | Cybersecurity / AI-native MDR | [^9] |
 | Spirit | Seed | 2026 | Cybersecurity / Enterprise Security | [^10] |
@@ -109,3 +110,9 @@ No independently sourced founder testimonials found about Yotam Segev as an ange
 [^10]: Calcalist/CTech, "Just three months after launch, cyber startup Spirit valued at $400 million in $50 million raise," January 6, 2026, accessed March 2026. https://www.calcalistech.com/ctechnews/article/b1gts4qnzg
 [^11]: Daylight AI blog, "Daylight Security raises $7M in Seed funding to combine AI agents and human experts in cyber defense," February 2, 2026, accessed March 2026. https://daylight.ai/blog/daylight-security-raises-7m-in-seed-funding-to-combine-ai-agents-and-human-experts-in-cyber-defense
 [^12]: Tracxn, "Yotam Segev - 2025 Portfolio & Founded Companies," accessed March 2026. https://tracxn.com/d/people/yotam-segev/__FuDTA5NlxorniF3_k6bAtLKPafk6OLlE0Arxbsx_V0w
+
+[^13]: Calcalist (CTech), "A Security raises $37 million backed by Wiz CEO Assaf Rappaport and Cyera CEO Yotam Segev," June 8, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/sj3rrxnbzx — Headline explicitly confirms Segev as A Security angel investor; round breakdown $5M Seed + $32M Series A both led by Cyberstarts with Lightspeed joining the Series A.
+
+[^14]: SecurityWeek, "A Security Raises $37 Million for Autonomous Offensive Security Platform," June 8, 2026. Accessed June 2026. https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/ — Independent confirmation of Segev's angel participation.
+
+[^15]: GlobeNewswire / Manila Times syndication, "A Security Emerges from Stealth with $37M in Funding to Outpace Weaponized AI," June 8, 2026. Accessed June 2026. https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/a-security-emerges-from-stealth-with-37m-in-funding-to-outpace-weaponized-ai/2360758 — Official press release naming Yotam Segev among the angel participants in A Security's $37M financing.

@@ -384,9 +384,11 @@ priority:
   status: resolved
 - slug: assaf-rappaport
   type: investor
-  reason: "angel A Security $37M (2026-06-08)"
+  reason: "RESOLVED 2026-06-08 — A Security Seed + Series A $37M combined (2026-06-08, Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A; Cerca Partners, Assaf Rappaport, Yotam Segev, Merav Bahat angels) added to assaf-rappaport portfolio table with 3 independent primary citations (Calcalist/CTech, SecurityWeek, GlobeNewswire/Manila Times). last_verified_investment updated from Frame Security 2026-05-11 to A Security 2026-06-08."
   added: 2026-06-08
+  status: resolved
 - slug: yotam-segev
   type: investor
-  reason: "angel A Security $37M (2026-06-08)"
+  reason: "RESOLVED 2026-06-08 — A Security Seed + Series A $37M combined (2026-06-08, Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A) added to yotam-segev portfolio table with 3 independent primary citations (Calcalist/CTech headline explicitly names Segev; SecurityWeek; GlobeNewswire/Manila Times). last_verified_investment updated from Daylight Security 2026-02-02 to A Security 2026-06-08."
   added: 2026-06-08
+  status: resolved

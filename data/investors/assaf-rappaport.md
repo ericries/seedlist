@@ -3,9 +3,9 @@ check_size: $5K-$50K
 firm: wiz
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Frame Security
-  date: 2026-05-11
-  round: Stealth-exit funding ($50M)
+  company: A Security
+  date: 2026-06-08
+  round: Seed + Series A ($37M)
 location: Tel Aviv, Israel / New York, NY
 name: Assaf Rappaport
 role: Co-Founder & CEO
@@ -87,6 +87,7 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 | Talon Cyber Security | Seed | 2021-04 | Cybersecurity | Exited (Palo Alto Networks, Nov 2023) | [^4] |
 | Spirit | Seed ($50M at $400M val; co-led by Cyberstarts and Sequoia Capital; Rappaport participated as angel) | 2026-01-06 | Cybersecurity | Active | [^6][^18][^19] |
 | Frame Security | Stealth-exit ($50M) | 2026-05-11 | Cybersecurity / Human Risk | Active | [^16][^17] |
+| A Security | Seed + Series A ($37M combined; Cyberstarts-led seed, Lightspeed + Cyberstarts-led Series A; Cerca Partners, Yotam Segev, Merav Bahat, Rappaport participated as angels) | 2026-06-08 | Cybersecurity / Offensive Security | Active | [^22][^23][^24] |
 
 ## In Their Own Words
 
@@ -135,3 +136,9 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^20]: Axios, "Clover Security lands $36M for AI security agents from Notable, Wiz, Team8," November 25, 2025. Accessed May 2026. https://www.axios.com/2025/11/25/clover-security-funding-wiz-crowdstrike-notable-capital — Confirms Clover Security's $30M Series A on November 25, 2025 led by Notable Capital with Team8 and SVCI participating; $36M total includes prior Seed funding. Angel investors include Assaf Rappaport and Yinon Costica (Wiz), Shlomo Kramer (Cato Networks), and senior executives from Snyk, CrowdStrike, Palo Alto Networks, Atlassian, and Google.
 
 [^21]: SecurityWeek, "Clover Security Raises $36 Million to Secure Software by Design," November 26, 2025. Accessed May 2026. https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/ — Independent confirmation of Clover Security's $36M combined Seed + Series A financing with Notable Capital, Team8, and SVCI as the primary backers.
+
+[^22]: Calcalist (CTech), "A Security raises $37 million backed by Wiz CEO Assaf Rappaport and Cyera CEO Yotam Segev," June 8, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/sj3rrxnbzx — Confirms A Security $37M total ($5M Seed + $32M Series A) led by Cyberstarts and Lightspeed Venture Partners; Cerca Partners, Assaf Rappaport (Wiz), Yotam Segev (Cyera), and Merav Bahat (Dazz) participated as angels.
+
+[^23]: SecurityWeek, "A Security Raises $37 Million for Autonomous Offensive Security Platform," June 8, 2026. Accessed June 2026. https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/ — Independent confirmation of A Security's $37M financing and angel participation by Rappaport.
+
+[^24]: GlobeNewswire / Manila Times syndication, "A Security Emerges from Stealth with $37M in Funding to Outpace Weaponized AI," June 8, 2026. Accessed June 2026. https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/a-security-emerges-from-stealth-with-37m-in-funding-to-outpace-weaponized-ai/2360758 — Official press release confirming Lightspeed and Cyberstarts lead with Cerca Partners, Assaf Rappaport, Yotam Segev, and Merav Bahat as angel investors.
