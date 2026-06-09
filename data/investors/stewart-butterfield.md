@@ -20,14 +20,14 @@ sector_focus:
   - fintech
 check_size: "Unknown"
 last_verified_investment:
-  date: 2025-10-29
-  company: "Beside"
+  date: 2026-05-19
+  company: "Viktor"
   round: "Series A"
 social:
   twitter: "@stewart"
   linkedin: "linkedin.com/in/butterfield"
 status: published
-last_researched: 2026-03-25
+last_researched: 2026-06-08
 ---
 
 ## Background
@@ -54,25 +54,25 @@ Analysis of his portfolio suggests he invests where he has genuine operational e
 
 ## Inferred Thesis
 
-Based on 22 verified investments compiled from Arete Index, PitchBook references, Signal by NFX, press announcements, and multiple aggregator sources. Multiple sources indicate Butterfield has made approximately 35 total investments [^4] [^9]; this analysis covers approximately 63% of his estimated total.
+Based on 23 verified investments compiled from Arete Index, PitchBook references, Signal by NFX, press announcements, and multiple aggregator sources. Multiple sources indicate Butterfield has made approximately 35 total investments [^4] [^9]; this analysis covers approximately 66% of his estimated total.
 
-**Sector distribution (22 verified investments):**
-- Business/productivity software and collaboration tools: 10 of 22 (45%) -- Front, Linear, Noded AI, Panobi, Assembled, ModernLoop, Venue, Rise, Tandem, Beside
-- Developer tools/infrastructure: 3 of 22 (14%) -- Netlify, Unblocked, Vectara
-- Consumer/marketplace: 3 of 22 (14%) -- Etsy, Away, Kickstarter
-- Customer communications: 1 of 22 (5%) -- Intercom
-- HR/people operations: 1 of 22 (5%) -- Humaans
-- Fintech: 1 of 22 (5%) -- Neo Financial
-- Security: 1 of 22 (5%) -- 1Password
-- User research: 1 of 22 (5%) -- Sprig
-- Enterprise software: 1 of 22 (5%) -- BigSpring
+**Sector distribution (23 verified investments):**
+- Business/productivity software and collaboration tools: 11 of 23 (48%) -- Front, Linear, Noded AI, Panobi, Assembled, ModernLoop, Venue, Rise, Tandem, Beside, Viktor
+- Developer tools/infrastructure: 3 of 23 (13%) -- Netlify, Unblocked, Vectara
+- Consumer/marketplace: 3 of 23 (13%) -- Etsy, Away, Kickstarter
+- Customer communications: 1 of 23 (4%) -- Intercom
+- HR/people operations: 1 of 23 (4%) -- Humaans
+- Fintech: 1 of 23 (4%) -- Neo Financial
+- Security: 1 of 23 (4%) -- 1Password
+- User research: 1 of 23 (4%) -- Sprig
+- Enterprise software: 1 of 23 (4%) -- BigSpring
 
-The dominant pattern is clear: nearly half of all verified investments (10 of 22, 45%) are in productivity and collaboration software, the category where Butterfield has the deepest operational experience from building Slack.
+The dominant pattern is clear: nearly half of all verified investments (11 of 23, 48%) are in productivity and collaboration software, the category where Butterfield has the deepest operational experience from building Slack. His May 2026 angel investment in Viktor — an AI "coworker" agent that lives inside Slack and Microsoft Teams — is a near-perfect distillation of this pattern [^30].
 
-**Stage distribution (15 investments with confirmed round data):**
-- Seed: 7 of 15 (47%) -- Noded AI, Panobi, Unblocked, Vectara, Rise, Venue, Tandem
-- Series A: 5 of 15 (33%) -- Front, Humaans, ModernLoop, Beside, Dovetail
-- Series B: 3 of 15 (20%) -- Linear, Netlify, 1Password
+**Stage distribution (16 investments with confirmed round data):**
+- Seed: 7 of 16 (44%) -- Noded AI, Panobi, Unblocked, Vectara, Rise, Venue, Tandem
+- Series A: 6 of 16 (38%) -- Front, Humaans, ModernLoop, Beside, Dovetail, Viktor
+- Series B: 3 of 16 (19%) -- Linear, Netlify, 1Password
 
 Butterfield invests predominantly at seed and Series A, with occasional participation in larger Series B rounds for companies in his areas of expertise. He also participates in select later-stage rounds (Neo Financial Series D in 2024, Intercom's $50M round in 2016).
 
@@ -93,6 +93,7 @@ Butterfield invests predominantly at seed and Series A, with occasional particip
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
+| Viktor | 2026-05-19 | Series A | AI coworker / collaboration | [^30] |
 | Beside | 2025 | Series A | AI voice/productivity | [^19] |
 | Neo Financial | 2024 | Series D | Fintech | [^12] |
 | Noded AI | 2024 | Seed | Productivity software | [^13] |
@@ -116,7 +117,7 @@ Butterfield invests predominantly at seed and Series A, with occasional particip
 | Etsy | ~2007 | Early angel | Marketplace | [^29] |
 | Away | 2019-05-14 | Series D | Consumer/travel | [^21] [^28] |
 
-*This table represents approximately 63% of an estimated 35 total investments [^4]. Kickstarter lacks confirmed round and year data from available sources. Assembled, Tandem, Sprig, and BigSpring rows reflect aggregator listings only ([^4], [^9]) — primary press announcements for these rounds do not name Butterfield as a participant, so the specific round and year remain unverified.*
+*This table represents approximately 66% of an estimated 35 total investments [^4]. Kickstarter lacks confirmed round and year data from available sources. Assembled, Tandem, Sprig, and BigSpring rows reflect aggregator listings only ([^4], [^9]) — primary press announcements for these rounds do not name Butterfield as a participant, so the specific round and year remain unverified.*
 
 ## In Their Own Words
 
@@ -145,7 +146,7 @@ No independently sourced founder testimonials found. Butterfield is a low-profil
 **Co-investors (most frequent verified):**
 - **Lachy Groom** -- co-invested in Rise (2022) [^15] and Humaans (2022) [^16]
 - **Tobi Lutke** (Shopify) -- co-invested in 1Password (2021) [^11], Humaans (2022) [^16], and Neo Financial (2024) [^12]
-- **Cal Henderson** (Slack CTO) -- co-invested in Noded AI (2024) [^13] and Panobi (2023) [^14]
+- **Cal Henderson** (Slack CTO) -- co-invested in Noded AI (2024) [^13], Panobi (2023) [^14], and Viktor (2026) [^30]
 - **Accel** -- co-invested in ModernLoop (2022) [^18], Linear (2023) [^17], and Dovetail (2022) [^5]
 - **Index Ventures** -- co-invested in Beside (2025) [^19] and Intercom (2016) [^20]
 
@@ -191,3 +192,4 @@ No independently sourced founder testimonials found. Butterfield is a low-profil
 [^27]: Masters of Scale, "The Big Pivot, with Stewart Butterfield," accessed March 2026. https://mastersofscale.com/stewart-butterfield-the-big-pivot/
 [^28]: TechCrunch, "Trendy luggage brand Away packs on $100M, rolls past $1.4B valuation," May 14, 2019. https://techcrunch.com/2019/05/14/away-packs-on-100m/
 [^29]: TechCrunch, "Etsy Raises $27 Million; Accel's Jim Breyer Joins Board," January 30, 2008. Confirms Stewart Butterfield, Caterina Fake, Joshua Schachter, and Albert Wenger as early angel investors who collectively contributed $4.6M before the Series D. https://techcrunch.com/2008/01/30/etsy-raises-27-million-accels-jim-breyer-joins-board/
+[^30]: Fortune, "Exclusive: AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams," May 19, 2026. Confirms Stewart Butterfield and Cal Henderson as angel investors in Viktor's $75M Series A led by Accel. https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive/

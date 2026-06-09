@@ -27801,3 +27801,24 @@ queue:
   firm: EDGE Markets
   discovered_from: edge-markets
   source: Founder & CEO of EDGE Markets
+- name: Kaya VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stewart-butterfield
+  source: Co-investor in Viktor Series A (2026-05-19) with Stewart Butterfield
+- name: Inovo VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stewart-butterfield
+  source: Co-investor in Viktor Series A (2026-05-19) with Stewart Butterfield
+- name: Tenacity Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stewart-butterfield
+  source: Co-investor in Viktor Series A (2026-05-19) with Stewart Butterfield
