@@ -59,6 +59,22 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed_note: already-published; round added to profile
+- title: Sandstone raises $30M to bring AI to in-house legal teams
+  url: https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/
+  source: techcrunch
+  date_found: '2026-06-09'
+  parsed_company: Sandstone
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: UK-based Rem3dy Health raises €16 million to support expansion into key markets
+  url: https://www.eu-startups.com/2026/06/uk-based-rem3dy-health-raises-e16-million-to-support-expansion-into-key-markets/
+  source: eu-startups
+  date_found: '2026-06-09'
+  parsed_company: UK-based Rem3dy Health
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: UK-based NewOrbit raises €16 million to build commercial satellites for very
     low Earth orbit (VLEO)
   url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
@@ -883,23 +899,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: created invisix.md; Seed €20M led by Hitachi Ventures
-- title: Lune & Wild raises €2.3 million to scale female-founded, chef-led baby and
-    children’s food brand
-  url: https://www.eu-startups.com/2026/06/lune-wild-raises-e2-3-million-to-scale-female-founded-chef-led-baby-and-childrens-food-brand/
-  source: eu-startups
-  date_found: '2026-06-01'
-  parsed_company: Lune & Wild
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created lune-and-wild.md; Series A £2M (€2.3M) led by Guinness Ventures
-- title: Zigging when most are zagging, ex-Meta CTO raises $250M climate fund
-  url: https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/
-  source: techcrunch
-  date_found: '2026-06-01'
-  parsed_company: Zigging when most are zagging, ex-Meta CTO
-  parsed_amount: $250M
-  parsed_round: null
-  status: processed
-  notes: created firm profile gigascale-capital.md and investor profile mike-schroepfer.md;
-    $250M Fund I close announced 2026-06-01; firm-level event (not startup round)
