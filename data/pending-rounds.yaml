@@ -37,6 +37,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Finnish Skyfora raises €6.5 million to quicken deployment of atmospheric
+    sensing network
+  url: https://www.eu-startups.com/2026/06/finnish-skyfora-raises-e6-5-million-to-quicken-deployment-of-atmospheric-sensing-network/
+  source: eu-startups
+  date_found: '2026-06-09'
+  parsed_company: Finnish Skyfora
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Finland’s ICEYE raises €450 million in landmark round for Europe’s dual-use
+    SpaceTech sector
+  url: https://www.eu-startups.com/2026/06/finlands-iceye-raises-e450-million-in-landmark-round-for-europes-dual-use-spacetech-sector/
+  source: eu-startups
+  date_found: '2026-06-09'
+  parsed_company: Finland’s ICEYE
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: UK-based NewOrbit raises €16 million to build commercial satellites for very
     low Earth orbit (VLEO)
   url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
@@ -881,24 +899,3 @@ pending_rounds:
   status: processed
   notes: created firm profile gigascale-capital.md and investor profile mike-schroepfer.md;
     $250M Fund I close announced 2026-06-01; firm-level event (not startup round)
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/1/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-1-2026/
-  source: alleywatch
-  date_found: '2026-06-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: 'AlleyWatch 6/1 daily: SpeedLabs ($6.5M Seed) and Ficus ($2.4M Pre-Seed)
-    profiles created'
-  processed_date: '2026-06-02'
-- title: Axios Anthropic has raised $65B Series H
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Axios Anthropic has
-  parsed_amount: $65B
-  parsed_round: Series H
-  status: processed
-  notes: anthropic.md already covers extensive funding history; Series H details handled
-    in prior research cycle

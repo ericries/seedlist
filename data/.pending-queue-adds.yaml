@@ -1,0 +1,42 @@
+- name: "Eviny Ventures"
+  type: firm
+  source: "investor in Skyfora €6.5M (2026-06-09)"
+  discovered_from: skyfora
+  priority: normal
+- name: "Ugly Duckling Ventures"
+  type: firm
+  source: "led Skyfora €4M seed (2025-03); participated in €6.5M (2026-06-09)"
+  discovered_from: skyfora
+  priority: high
+- name: "LUMO Labs"
+  type: firm
+  source: "investor in Skyfora €6.5M (2026-06-09)"
+  discovered_from: skyfora
+  priority: normal
+- name: "EIC Fund"
+  type: firm
+  source: "European Innovation Council Fund investor in Skyfora €6.5M (2026-06-09)"
+  discovered_from: skyfora
+  priority: normal
+- name: "Voima Ventures"
+  type: firm
+  source: "led Skyfora €600K pre-seed"
+  discovered_from: skyfora
+  priority: normal
+- name: "Icebreaker.vc"
+  type: firm
+  source: "co-investor in Skyfora pre-seed"
+  discovered_from: skyfora
+  priority: normal
+- name: "Lars Jacob Sjaastad"
+  type: individual
+  firm: "Eviny Ventures"
+  source: "quoted in Skyfora €6.5M announcement (2026-06-09)"
+  discovered_from: skyfora
+  priority: high
+- name: "Svante Henriksson"
+  type: individual
+  firm: "Skyfora"
+  source: "Co-Founder & CEO of Skyfora"
+  discovered_from: skyfora
+  priority: low
