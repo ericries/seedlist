@@ -382,3 +382,11 @@ priority:
   reason: "RESOLVED 2026-06-08 — Volteum Seed €2.5M (2026-06-08, Movens Capital-led; WakeUp Capital and Aidiom new; Techstars, Day One Capital, Nesprit follow-on) added to portfolio with 3 independent primary citations (FinSMEs, Tech.eu, Pulse 2.0). Note: round was originally queued as 'Series A' but 5 of 6 sources do not label it Series A and Startupmag URL slug says 'seed-funding' (€2.5M after €1.25M pre-seed is conventional Seed sizing). Corrected to Seed in volteum.md (stage_latest, frontmatter firms[] entry with date 2026-06-08, funding history table, About section). techstars.md portfolio gained one new row tracking active follow-on participation."
   added: 2026-06-08
   status: resolved
+- slug: assaf-rappaport
+  type: investor
+  reason: "angel A Security $37M (2026-06-08)"
+  added: 2026-06-08
+- slug: yotam-segev
+  type: investor
+  reason: "angel A Security $37M (2026-06-08)"
+  added: 2026-06-08
