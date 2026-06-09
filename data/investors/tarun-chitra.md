@@ -11,7 +11,7 @@ check_size: "$100K-$1M"
 last_verified_investment:
   date: 2025-09-25
   company: "Divine"
-  round: "Unknown"
+  round: "Seed"
 social:
   twitter: "@tarunchitra"
   linkedin: "linkedin.com/in/tarunchitra"
@@ -85,10 +85,11 @@ The following table lists Tarun Chitra's verified personal/angel investments as 
 | Zama | 2024 | Series A | [^18][^21] |
 | Sonic (Fantom) | 2024 | Strategic | [^18][^21] |
 | Conduit | 2024 | Series A | [^18][^21] |
-| Dora | 2024 | Unknown | [^21] |
-| ETHZilla | 2025 | PIPE | [^18] |
-| Forward Industries | 2025 | Unknown | [^18] |
-| Divine | 2025 | Unknown | [^18] |
+| Dora | 2024-07-09 | Seed (co-led by Dragonfly + Lemniscap, $5.5M) | [^21][^27] |
+| Ammalgam | 2024-11-08 | Extended Seed | [^18][^28] |
+| ETHZilla (180 Life Sciences) | 2025-08-04 | PIPE ($425M, led by Electric Capital + Harbour Island) | [^18][^29] |
+| Forward Industries | 2025-09-11 | PIPE ($1.65B, anchored by Multicoin/Jump/Galaxy; Chitra as angel) | [^18][^30] |
+| Divine | 2025-09-25 | Seed ($6.6M, led by Paradigm) | [^18][^31][^32] |
 
 Note: This table represents Chitra's personal/angel investments only. As co-GP of Robot Ventures, he is also involved in the fund's 160+ investments listed in the Robert Leshner profile [^19].
 
@@ -153,3 +154,9 @@ No independently sourced founder testimonials found. Tarun Chitra is widely desc
 [^24]: CoinDesk, "DeFi Gigabrain Tarun Chitra on ETH Staking, Restaking and Why 'Financial Nihilism' Is a Real Consumer Product," May 13, 2024. https://www.coindesk.com/opinion/2024/05/13/defi-gigabrain-tarun-chitra-on-eth-staking-restaking-and-why-financial-nihilism-is-a-real-consumer-product
 [^25]: a16z crypto, "Building and Running a DAO: Why Governance Matters," Tarun Chitra, October 2021. https://a16zcrypto.com/team/tarun-chitra/
 [^26]: YouTube, "Breakpoint 2023: Power Talk: Tarun Chitra CEO & Founder of Gauntlet," 2023. https://www.youtube.com/watch?v=DE9ujwX7KM8
+[^27]: Chainwire, "Dora Announces Close of $5.5M Early Stage Funding Round co-led by Dragonfly and Lemniscap," July 9, 2024. https://chainwire.org/2024/07/09/dora-announces-close-of-5-5m-early-stage-funding-round-co-led-by-dragonfly-and-lemniscap/
+[^28]: CryptoRank, "Ammalgam Funding Rounds," accessed June 2026. https://cryptorank.io/ico/ammalgam
+[^29]: PR Newswire, "180 Life Sciences Closes $425 Million Private Placement to Advance its Ethereum Treasury Strategy," August 4, 2025. https://www.prnewswire.com/news-releases/180-life-sciences-closes-425-million-private-placement-to-advance-its-ethereum-treasury-strategy-302521381.html
+[^30]: Multicoin Capital, "Creating The World's Leading Solana Treasury Company," September 11, 2025. https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company/
+[^31]: Blockworks, "Divine raises $6.6M to expand Credit lending protocol," September 25, 2025. https://blockworks.co/news/divine-raises-6-6m-to-expand-credit-lending-protocol
+[^32]: Phemex News, "Divine Secures $6.6M Seed Funding Led by Paradigm," September 25, 2025. https://phemex.com/news/article/blockchain-microfinance-firm-divine-raises-66-million-in-seed-funding-21298

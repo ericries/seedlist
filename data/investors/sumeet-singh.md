@@ -42,9 +42,7 @@ Until verified investments appear in primary press, this profile should be read 
 
 No publicly verified angel investments found as of May 2026. The "Sumeet Singh" angel profile appearing on PitchBook and Tracxn (Glaucus Logistics, Massive Mobility, ZAAMO) is a different individual (Delhi, India) [^8].
 
-| Company | Year | Stage | Source |
-|---------|------|-------|--------|
-~unknown| — | — | — | — |
+No verified investments to list at this time.
 
 ## In Their Own Words
 

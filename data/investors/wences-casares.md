@@ -20,7 +20,7 @@ sector_focus:
 check_size: Unknown (angel)
 last_verified_investment:
   company: Meanwhile
-  date: 2025-04
+  date: 2025-04-10
   round: Series A
 social:
   twitter: '@wences'
@@ -86,8 +86,8 @@ Note: Some companies span multiple categories (e.g., Meanwhile is both fintech a
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-~unknown| Tiaxa | — | Angel | Mobile financial services | [^14] |
-~unknown| Popego | — | Angel | Social | [^14] |
+| Tiaxa | ~2010s | Angel | Mobile financial services / nano-credit | [^14][^25] |
+| Popego | ~2007 | Angel | Social | [^14] |
 | Searchify | 2011 | Seed | Enterprise search | [^15][^16] |
 | Gengo | ~2010 | Seed | Translation services | [^14][^15] |
 | Nuvemshop | ~2011 | Angel | E-commerce platform | [^14][^17] |
@@ -95,10 +95,10 @@ Note: Some companies span multiple categories (e.g., Meanwhile is both fintech a
 | Pago Rural | 2012 | Pre-Seed | Agricultural fintech | [^16][^17] |
 | Cornershop | 2015 | Angel | On-demand grocery delivery | [^14][^18] |
 | Enigma | 2021 | Pre-Seed | Blockchain / privacy | [^15][^17] |
-| BoulderTech | ~2025 | Early-stage | Fintech | [^17] |
-| Alpen Labs | 2025 | Strategic | Bitcoin scaling / ZK proofs | [^21] |
-| Meanwhile | 2025 | Series A | Bitcoin life insurance | [^22] |
-~unknown| Tril | — | Angel | Unknown | [^14] |
+| BoulderTech | 2024-11-11 | Early-stage | Fintech | [^17][^26] |
+| Alpen Labs | 2025-01-09 | Strategic | Bitcoin scaling / ZK proofs | [^21][^27] |
+| Meanwhile | 2025-04-10 | Series A ($40M, led by Framework Ventures and Fulgur Ventures) | Bitcoin life insurance | [^22][^28][^29] |
+| Tril | ~2007 | Angel | Unknown | [^14] |
 
 This table represents 13 known investments. Given Casares's extensive network and three decades in technology entrepreneurship, his actual angel portfolio is likely larger than what is publicly tracked.
 
@@ -186,3 +186,8 @@ No independently sourced founder testimonials found. Casares is more widely disc
 [^22]: Meanwhile on X, Series A announcement with Wences Casares participation, April 10, 2025. https://x.com/meanwhilelife/status/1910324398936264897
 [^23]: American HODL on X, quoting Digital Gold book, December 2023. https://x.com/americanhodl8/status/1737499606890783040
 [^24]: Stanford eCorner, "Wences Casares" contributor page, accessed March 2026. https://stvp.stanford.edu/contributor/wences-casares/
+[^25]: Crunchbase, "Tiaxa - Company Profile & Funding," accessed June 2026. https://www.crunchbase.com/organization/tiaxa
+[^26]: Crunchbase, BoulderTech investment dated November 11, 2024 (see also [^16]).
+[^27]: Alpen Labs blog, "Alpen Labs raises a strategic round," January 9, 2025. https://www.alpenlabs.io/blog/strategic-round
+[^28]: Fortune, "Exclusive: Crypto startup Meanwhile, which collects and pays out life insurance policies in Bitcoin, raises $40 million," April 10, 2025. https://fortune.com/crypto/2025/04/10/meanwhile-life-insurance-policies-bitcoin-40-million/
+[^29]: CoinDesk, "Bitcoin Life Insurance Firm Meanwhile Raises $40M to Expand Globally," April 10, 2025. https://www.coindesk.com/business/2025/04/10/bitcoin-life-insurance-firm-meanwhile-raises-usd40m-to-expand-globally
