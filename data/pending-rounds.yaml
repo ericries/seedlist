@@ -66,7 +66,8 @@ pending_rounds:
   parsed_company: Sandstone
   parsed_amount: $30M
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: already-published; Series A added to existing profile
 - title: UK-based Rem3dy Health raises €16 million to support expansion into key markets
   url: https://www.eu-startups.com/2026/06/uk-based-rem3dy-health-raises-e16-million-to-support-expansion-into-key-markets/
   source: eu-startups
@@ -74,7 +75,8 @@ pending_rounds:
   parsed_company: UK-based Rem3dy Health
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: created profile rem3dy-health; £14M growth round
 - title: Beacon raised $225M Series C
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -114,7 +116,8 @@ pending_rounds:
   parsed_company: Vinyl Equity
   parsed_amount: $20M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed_note: created profile vinyl-equity; Jump Capital led
 - title: NewOrbit raised $18.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

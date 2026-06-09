@@ -27965,3 +27965,161 @@ queue:
   discovered_from: pieter-levels
   source: Pieter Levels publicly disclosed angel investment in Cursor on X (July 2025)
     and in Cheeky Pint interview
+- name: Oak HC/FT
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Led Stepful Series B (2024-11) and Series C (2026-06)
+- name: Vig Chandramouli
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oak HC/FT
+  discovered_from: stepful
+  source: Partner at Oak HC/FT who led Stepful Series C
+- name: Foresite Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: New investor in Stepful Series C 2026-06
+- name: Hearst Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: New investor in Stepful Series C 2026-06
+- name: Citi Impact Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: New investor in Stepful Series C 2026-06
+- name: SemperVirens
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Existing Stepful investor (Series B, Series C)
+- name: Intermountain Health Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Existing Stepful investor (Series B, Series C)
+- name: ECMC Education Impact Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Existing Stepful investor (Series B, Series C)
+- name: Jomayra Herrera
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Reach Capital
+  discovered_from: stepful
+  source: Reach Capital partner working with Stepful since day one
+- name: AlleyCorp
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Stepful Series B participant
+- name: Company Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Stepful Series B participant
+- name: Green Sands Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Stepful Series B participant
+- name: Cedar Pine
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stepful
+  source: Stepful Series B participant
+- name: Carl Madi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Stepful
+  discovered_from: stepful
+  source: CEO and Co-Founder of Stepful
+- name: Jump Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinyl-equity
+  source: Led Vinyl Equity Series A 2026-06
+- name: Yelena Shkolnik
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Jump Capital
+  discovered_from: vinyl-equity
+  source: Partner at Jump Capital who led Vinyl Equity Series A
+- name: MUFG Innovation Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinyl-equity
+  source: Participated in Vinyl Equity Series A 2026-06
+- name: Infinity Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinyl-equity
+  source: Participated in Vinyl Equity Series A 2026-06
+- name: Cambrian Fintech
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinyl-equity
+  source: Participated in Vinyl Equity Series A 2026-06
+- name: Future Planet Capital Regional
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rem3dy-health
+  source: Participated in Rem3dy Health £14M growth round 2026-06
+- name: Suntory
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rem3dy-health
+  source: Strategic investor in Rem3dy Health 2026-06
+- name: Apollo Hospitals
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rem3dy-health
+  source: Strategic investor in Rem3dy Health 2026-06
