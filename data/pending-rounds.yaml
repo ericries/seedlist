@@ -27,7 +27,8 @@ pending_rounds:
   parsed_company: Evotrex
   parsed_amount: $30M
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: already-published; round added to profile
 - title: Austrian DeepTech startup Invisible-Light Labs raises €1.5 million to identify
     sub-micron particles
   url: https://www.eu-startups.com/2026/06/austrian-deeptech-startup-invisible-light-labs-raises-e1-5-million-to-identify-sub-micron-particles/
@@ -36,7 +37,8 @@ pending_rounds:
   parsed_company: Austrian DeepTech startup Invisible-Light Labs
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: profile created (invisible-light-labs)
 - title: Finnish Skyfora raises €6.5 million to quicken deployment of atmospheric
     sensing network
   url: https://www.eu-startups.com/2026/06/finnish-skyfora-raises-e6-5-million-to-quicken-deployment-of-atmospheric-sensing-network/
@@ -45,7 +47,8 @@ pending_rounds:
   parsed_company: Finnish Skyfora
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: already-published; round added to profile
 - title: Finland’s ICEYE raises €450 million in landmark round for Europe’s dual-use
     SpaceTech sector
   url: https://www.eu-startups.com/2026/06/finlands-iceye-raises-e450-million-in-landmark-round-for-europes-dual-use-spacetech-sector/
@@ -54,7 +57,8 @@ pending_rounds:
   parsed_company: Finland’s ICEYE
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: already-published; round added to profile
 - title: UK-based NewOrbit raises €16 million to build commercial satellites for very
     low Earth orbit (VLEO)
   url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/

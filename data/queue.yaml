@@ -27854,3 +27854,98 @@ queue:
   firm: Upstream
   discovered_from: upstream
   source: founder & CEO of Upstream
+- name: Eviny Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skyfora
+  source: investor in Skyfora €6.5M (2026-06-09)
+- name: Ugly Duckling Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skyfora
+  source: led Skyfora €4M seed (2025-03); participated in €6.5M (2026-06-09)
+- name: LUMO Labs
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skyfora
+  source: investor in Skyfora €6.5M (2026-06-09)
+- name: EIC Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skyfora
+  source: European Innovation Council Fund investor in Skyfora €6.5M (2026-06-09)
+- name: Voima Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skyfora
+  source: led Skyfora €600K pre-seed
+- name: Icebreaker.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skyfora
+  source: co-investor in Skyfora pre-seed
+- name: Lars Jacob Sjaastad
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Eviny Ventures
+  discovered_from: skyfora
+  source: quoted in Skyfora €6.5M announcement (2026-06-09)
+- name: Svante Henriksson
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Skyfora
+  discovered_from: skyfora
+  source: Co-Founder & CEO of Skyfora
+- name: XISTA Science Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: invisible-light-labs
+  source: co-led Invisible-Light Labs €1.5M pre-seed (2026-06-09)
+- name: aws Gründungsfonds
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: invisible-light-labs
+  source: co-led Invisible-Light Labs €1.5M pre-seed (2026-06-09)
+- name: Fund F
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: invisible-light-labs
+  source: co-investor in Invisible-Light Labs €1.5M pre-seed (2026-06-09)
+- name: Alexander Schwartz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: XISTA Science Ventures
+  discovered_from: invisible-light-labs
+  source: Partner at XISTA Science Ventures; quoted in Invisible-Light Labs round
+- name: Josiane P. Lafleur
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Invisible-Light Labs
+  discovered_from: invisible-light-labs
+  source: CEO & Co-Founder of Invisible-Light Labs
