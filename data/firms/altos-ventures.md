@@ -105,9 +105,9 @@ Based on 18 verified investments in the portfolio table below, the following pat
 | SOCAR | Early stage | ~2018 | Mobility/Car Sharing | Public (KRX, $682M market cap) [^22] |
 | Chowbus | Early stage | ~2019 | Food Delivery | Active [^14] |
 | Neo Financial | Series B | 2021 | Fintech | Active (unicorn) [^23] |
-| Toss Bank | Growth | ~2023 | Fintech | Active (unicorn) [^13] |
-| PermitFlow | Series A | 2024 | Construction Tech/SaaS | Active [^24] |
-| PureSpace | Series A | 2025 | PropTech | Active [^13] |
+| Toss Bank | Series D | 2023-03 | Fintech | Active (unicorn) [^13][^29] |
+| PermitFlow | Series B | 2025-12-02 | Construction Tech/SaaS | Active [^24][^30] |
+| PureSpace | Series A | 2025-12-16 | Food Tech (Fresh Food Shelf-life) | Active [^31][^32] |
 | Unastella | Series B | 2026 | Aerospace/Rocket Launch | Active [^28] |
 
 Note: This table represents approximately 7% of Altos Ventures' claimed ~250 investments. Years marked with ~ are approximations based on founding year or available context. Altos has invested in many additional companies across the U.S. and South Korea that are not captured here due to limited public data on individual round participation.
@@ -168,3 +168,7 @@ No additional independently sourced founder testimonials were found through dedi
 [^26]: CNBC, "Why investor Altos Ventures backed Toss' failed entrepreneur founder," September 26, 2019, accessed March 2026. https://www.cnbc.com/2019/09/26/why-investor-altos-ventures-backed-toss-failed-entrepreneur-founder.html
 [^27]: InvestKOREA, "When Opportunity Knocks: Interview with Altos Ventures," accessed March 2026. https://www.investkorea.org/ik-en/bbs/i-5004/detail.do?ntt_sn=490802
 [^28]: Rebecca Bellan, "Unastella, a South Korean rocket startup that launched from home, raises $24M," TechCrunch, June 1, 2026, accessed June 2026. https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
+[^29]: TechCrunch, "South Korea's digital lender Toss Bank in advanced talks to close $154M funding at a valuation of $2.1B," August 3, 2023, accessed June 2026. (Article confirms Toss Bank closed a $154M Series D in March 2023 at $1.6B valuation with Altos Ventures among the investors before the subsequent August 2023 round.) https://techcrunch.com/2023/08/03/south-koreas-digital-lender-toss-bank-in-advanced-talks-to-close-150m-funding-at-a-valuation-of-2-1b/
+[^30]: PermitFlow blog, "PermitFlow Raises $54 Million Series B," accessed June 2026. (Series B led by Accel with participation from Kleiner Perkins, Felicis, Initialized Capital, Altos Ventures, Y Combinator; announced via BusinessWire on December 2, 2025.) https://www.permitflow.com/blog/permitflow-series-b
+[^31]: VentureSquare, "PureSpace Secures 6 Billion Won Investment from Altos Ventures," December 16, 2025, accessed June 2026. https://www.venturesquare.net/en/1020013
+[^32]: WowTale, "PURESPACE Raises $4.1M Series A to Enhance Fresh Food Shelf-life Extension Technology and Expand Globally," December 17, 2025, accessed June 2026. https://en.wowtale.net/2025/12/17/233082/

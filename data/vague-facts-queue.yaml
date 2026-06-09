@@ -160125,7 +160125,8 @@ vague_facts:
   line: '| Toss Bank | Growth | ~2023 | Fintech | Active (unicorn) [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2023-03 (Series D, $154M at $1.6B val) per TechCrunch 2023-08-03 retrospective citing March 2023 round; Altos Ventures listed among Series D investors per Tracxn. Stage corrected from "Growth" to "Series D". Citation [^29] added.'
 - profile: firms/altos-ventures
   profile_name: Altos Ventures
   company: PermitFlow
@@ -160135,7 +160136,8 @@ vague_facts:
   line: '| PermitFlow | Series A | 2024 | Construction Tech/SaaS | Active [^24] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-12-02 (Series B, $54M led by Accel) per BusinessWire/PermitFlow blog/Finsmes. Existing footnote [^24] already cited Dec 2025 reporting; row had wrong stage (Series A) and year (2024) — corrected to Series B / 2025-12-02. Citation [^30] added.'
 - profile: firms/altos-ventures
   profile_name: Altos Ventures
   company: PureSpace
@@ -160145,7 +160147,8 @@ vague_facts:
   line: '| PureSpace | Series A | 2025 | PropTech | Active [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-12-16 (Series A, KRW 6B / ~$4.1M, Altos Ventures sole lead) per VentureSquare and WowTale. Sector corrected from PropTech to Food Tech (fresh-food shelf-life extension). Citations [^31][^32] added.'
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Cartography Biosciences
