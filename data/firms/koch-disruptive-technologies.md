@@ -131,11 +131,11 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Celestial AI | Series A | 2022 | Semiconductors / Photonics | [^17] |
 | Celestial AI | Series B | 2023 | Semiconductors / Photonics | [^17] |
 | Celestial AI | Series C | 2024 | Semiconductors / Photonics | [^17] |
-| Sidecar Health | Series D | 2024 | Healthcare / Insurance | [^10] |
-| Rivos | Series A-3 | 2024 | Semiconductors / AI Chips | [^18] |
-| Outrider | Series D | 2024 | Supply Chain / Autonomous Yard | [^19] |
-| Rhino.ai | Series A | 2025 | Enterprise Software / AI | [^8] |
-| Lucidean | Seed | 2025 | Semiconductors / Optical | [^9] |
+| Sidecar Health | Series D | 2024-06-26 | Healthcare / Insurance | [^10] |
+| Rivos | Series A-3 | 2024-04-16 | Semiconductors / AI Chips | [^18] |
+| Outrider | Series D | 2024-10-24 | Supply Chain / Autonomous Yard | [^19] |
+| Rhino.ai | Series A | 2025-01-21 | Enterprise Software / AI | [^8] |
+| Lucidean | Seed | 2025-12-23 | Semiconductors / Optical | [^9] |
 | Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |
 | Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |
 | Beyond Identity | ~2020 | -- | Cybersecurity / Identity | [^5] |
