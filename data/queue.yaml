@@ -27822,3 +27822,35 @@ queue:
   added: '2026-03-17'
   discovered_from: stewart-butterfield
   source: Co-investor in Viktor Series A (2026-05-19) with Stewart Butterfield
+- name: Visible Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Visible Ventures
+  discovered_from: archestra-ai
+  source: co-investor in Archestra.AI Seed (2026-06-02)
+- name: Roosh Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Roosh Ventures
+  discovered_from: upstream
+  source: co-investor in Upstream pre-seed (2026-06-03)
+- name: Matvey Kukuy
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Archestra.AI
+  discovered_from: archestra-ai
+  source: founder & CEO of Archestra.AI
+- name: Louis Lecat
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Upstream
+  discovered_from: upstream
+  source: founder & CEO of Upstream
