@@ -419,8 +419,9 @@ priority:
   added: 2026-06-09
 - slug: hemant-taneja
   type: investor
-  reason: "led Beacon Software Series C via General Catalyst (2026-06-09)"
+  reason: "UNRESOLVABLE 2026-06-09 — Hemant Taneja NOT personally attributed to Beacon Software Series C $225M (2026-06-09, General Catalyst + HarbourVest-led) by any primary source. General Catalyst's own portfolio page (generalcatalyst.com/companies/beacon-software) names Marc Bhargava, Christopher Kauffman, and Sarah Ascherman as the GC team for Beacon. TNW and citybiz Series C announcements name only the firm, not Taneja. Removed hemant-taneja from beacon-software.md investors[] frontmatter (was incorrectly attributed). Queued marc-bhargava, christopher-kauffman, sarah-ascherman as new investor leads."
   added: 2026-06-09
+  status: unresolvable
 - slug: y-combinator
   type: firm
   reason: "follow-on Stepful Series C $55M (2026-06-08)"

@@ -1,0 +1,15 @@
+- name: "Marc Bhargava"
+  type: individual
+  firm: "General Catalyst"
+  priority: normal
+  discovered_from: beacon-software
+- name: "Christopher Kauffman"
+  type: individual
+  firm: "General Catalyst"
+  priority: normal
+  discovered_from: beacon-software
+- name: "Sarah Ascherman"
+  type: individual
+  firm: "General Catalyst"
+  priority: normal
+  discovered_from: beacon-software

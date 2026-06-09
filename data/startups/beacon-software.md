@@ -9,11 +9,7 @@ status_company: active
 sector: [vertical-saas, ai, software-rollup]
 stage_latest: "Series C"
 total_raised: "$550M"
-investors:
-  - slug: hemant-taneja
-    round: series-c
-    year: 2026
-    date: 2026-06-09
+investors: []
 firms:
   - slug: general-catalyst
     round: series-c
