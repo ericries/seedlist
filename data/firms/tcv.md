@@ -122,7 +122,7 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Trade Republic | Series C (participated; led by Sequoia) | 2021-05-20 | Fintech | Private [^3][^12] |
 | Strava | Growth | 2020s | Consumer/Fitness | Private [^7] |
 | Grow Therapy | Series B (led), D (co-led) | 2022-09-29, 2026-03-03 | Healthcare/Mental Health | Private [^9][^11] |
-| Actively | Series B (co-led) | 2026 | AI/Sales | Private [^10] |
+| Actively | Series B (co-led with First Harmonic; $45M) | 2026-04-28 | AI/Sales | Private [^10] |
 | Corgi | Series B (led) 2026-05-06; Series B1 (led, $106M at $2.6B val) 2026-05-28 | 2026-05-06; 2026-05-28 | Insurtech | Private ($2.6B valuation) [^13][^16] |
 | Mercury | Series D (led, $200M) | 2026-05-20 | Fintech / Digital Banking | Private ($5.2B valuation) [^14][^15] |
 | ICEYE | Series F (participated; led by General Atlantic) | 2026-06-09 | SpaceTech / SAR Satellites / Defense | Private (€10B+ valuation) [^17][^18][^19] |
