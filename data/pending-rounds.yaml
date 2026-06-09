@@ -20,6 +20,23 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Evotrex raises $30M to build the RV that doesn’t need a charging station
+  url: https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/
+  source: techcrunch
+  date_found: '2026-06-09'
+  parsed_company: Evotrex
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Austrian DeepTech startup Invisible-Light Labs raises €1.5 million to identify
+    sub-micron particles
+  url: https://www.eu-startups.com/2026/06/austrian-deeptech-startup-invisible-light-labs-raises-e1-5-million-to-identify-sub-micron-particles/
+  source: eu-startups
+  date_found: '2026-06-09'
+  parsed_company: Austrian DeepTech startup Invisible-Light Labs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: UK-based NewOrbit raises €16 million to build commercial satellites for very
     low Earth orbit (VLEO)
   url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
@@ -885,22 +902,3 @@ pending_rounds:
   status: processed
   notes: anthropic.md already covers extensive funding history; Series H details handled
     in prior research cycle
-- title: Focused Energy raised $240M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Focused Energy
-  parsed_amount: $240M
-  parsed_round: Series A
-  status: processed
-  notes: focused-energy.md already published with 2026-05-27 Series A $240M led by
-    RWE
-- title: Corgi raised $106M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-05-31'
-  parsed_company: Corgi
-  parsed_amount: $106M
-  parsed_round: null
-  status: processed
-  notes: corgi.md already includes 2026-05-28 Series B1 $106M led by TCV
