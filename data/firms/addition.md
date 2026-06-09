@@ -72,8 +72,7 @@ Based on 18 unique companies with verified, cited portfolio entries (see Portfol
 - Series C: 3 of 18 (17%) — Chainalysis, Chronosphere, Built Technologies
 - Series D: 4 of 18 (22%) — Snyk, Lyra Health, Applied Intuition, Snorkel AI
 - Series E and later: 2 of 18 (11%) — Navan/TripActions, Airwallex
-- Growth/Pre-IPO: 2 of 18 (11%) — dLocal, Delhivery
-- Undisclosed stage: 1 of 18 (6%) — Inshorts
+- Growth/Pre-IPO: 3 of 18 (17%) — dLocal, Delhivery, Inshorts
 
 The firm skews more growth-stage than its stated one-third early-stage allocation would suggest. Only 2 of 18 verified first investments (11%) were at Series A, while 11 of 18 (61%) were Series C or later. This is consistent with Fixel's Tiger Global background in growth-stage investing.
 

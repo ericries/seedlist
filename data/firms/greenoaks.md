@@ -99,9 +99,9 @@ The firm describes its approach as seeking "generational founders" and building 
 | Toast | Series F | 2020 | Fintech/Restaurant Tech | Public (NYSE: TOST) | [^14] |
 | Stripe | Growth | ~2019 | Payments/Fintech | Active | [^4] |
 | Figma | Secondary tender | 2024-07 | Design Software | Public (NYSE) | [^23][^24] |
-| Wiz | Series B | 2021 | Cybersecurity | Acquired (Google, $32B) | [^15] |
+| Wiz | Series C | 2021-10-12 | Cybersecurity | Acquired (Google, $32B) | [^15] |
 | Scale AI | Series E | 2021 | AI Infrastructure | Active | [^16] |
-| Discord | Series H | 2020 | Consumer/Social | Active | [^17] |
+| Discord | Series H | 2020-12-17 | Consumer/Social | Active | [^17][^28] |
 | Rippling | Growth | 2020 | HR/Enterprise SaaS | Active | [^4] |
 | Carvana | Public market | ~2022 | E-commerce/Auto | Public (NYSE: CVNA) | [^4] |
 | Databricks | Series G | 2021 | Data/AI Infrastructure | Active | [^10] |
@@ -109,10 +109,10 @@ The firm describes its approach as seeking "generational founders" and building 
 | Klaviyo | Growth | ~2021 | Marketing Tech | Public (NYSE: KVYO) | [^10] |
 | Navan | Convertible | 2020 | Corporate Travel | Public (NASDAQ) | [^8] |
 | Kavak | Series C | 2020-10 | Auto Marketplace | Active | [^19][^25] |
-| Misfits Market | Series C | 2021 | E-commerce/Food | Active | [^2] |
-| Personio | Series E | 2022 | HR Software | Active | [^20] |
+| Misfits Market | Series C | 2021-04-21 | E-commerce/Food | Active | [^2][^26] |
+| Personio | Series E | 2022-06-22 | HR Software | Active | [^20][^27] |
 | Motive (KeepTruckin) | Series D | 2019 | Fleet Management | Active | [^21] |
-| Sierra | Growth | 2025 | AI | Active | [^22] |
+| Sierra | Growth | 2025-09-04 | AI | Active | [^22] |
 
 *This table represents approximately 18% of Greenoaks' 114 total investments [^8]. Investment years are based on primary press sources where available.*
 
@@ -157,3 +157,6 @@ No independently sourced founder testimonials found. Greenoaks maintains a minim
 [^23]: SiliconANGLE, "Figma confirms undisclosed funding round that brings its value to $12.5B," July 17, 2024. https://siliconangle.com/2024/07/17/figma-confirms-undisclosed-funding-round-brings-value-12-5b/
 [^24]: Axios, "Figma launches tender offer for employees, investors," May 16, 2024. https://www.axios.com/2024/05/16/figma-tender-12-billion
 [^25]: Clay, "Kavak Funding Rounds (Series C, October 2020, $225M, led by DST Global and Greenoaks)," accessed June 2026. https://www.clay.com/dossier/kavak-funding
+[^26]: TechCrunch, "Discount grocery startup Misfits Market raises $200M," April 21, 2021. https://techcrunch.com/2021/04/21/misfits-market-series-c/
+[^27]: Milbank, "Milbank Advises Personio on Its $200M Second Series E Financing Round Led by Greenoaks," June 22, 2022. https://www.milbank.com/en/news/milbank-advises-personio-on-its-dollar-200-million-dollar-second-series-e-financing-round-led-by-greenoaks.html
+[^28]: TechCrunch, "Discord confirms raising $100M at a valuation of $7B," December 17, 2020. https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/

@@ -71,18 +71,18 @@ Through Rebel Fund, his stated thesis is access-driven rather than sector-driven
 |---------|------|-------|--------|
 | Optimizely | 2010-11 | Angel/Seed | [^19] |
 | Hipmunk *(co-founder, not angel)* | 2010 | Founder | [^3] |
-| Dapper Labs | ~2018 | Early Stage | [^14] |
+| Movity | 2010 (acq. by Trulia 2010-12-21) | Angel/Seed | [^14] [^23] |
+| Dapper Labs | 2018 (pre-Series A) | Angel | [^14] [^24] |
 | Nothing | 2020-10 | Initial raise (~$7M) | [^20] |
-| Fathom | 2022-01 | Seed | [^14] |
+| Payflow | 2021 (YC S21, via Rebel Fund) | Seed | [^14] [^25] |
+| Fathom | 2022-01-24 | Seed ($4.7M) | [^26] |
 | JustPaid | 2023-06 | Seed | [^18] |
 | Atla | 2023-12 | Seed (via Rebel Fund) | [^17] |
 | Valid | 2025-02 | Seed | [^15] |
 | Series | 2025-04 | Pre-Seed | [^16] |
-| The Coterie | exited 2025-07 (acq. by Allocate) | Angel | [^15] |
-~unknown| Payflow | exit (date undisclosed) | Angel | [^14] |
-~unknown| Movity | exit (date undisclosed) | Angel | [^14] |
+| The Coterie | 2021–2025 (acq. by Allocate 2025-07-23) | Angel | [^15] [^27] |
 
-*Note: This represents approximately 8–10 of an estimated 11–14 publicly tracked angel investments. Exact dates for several entries (Dapper Labs, Payflow, Movity) are not independently confirmed; aggregator data is paywalled. The "Hipmunk" row is a founder credit, not an angel check, and is included for context.*
+*Note: This represents approximately 10–12 of an estimated 11–14 publicly tracked angel investments. Investment dates for Dapper Labs and Payflow are bracketed by company press releases (Dapper Labs pre-Nov 2018 $15M; Payflow via Rebel Fund's YC S21 batch). The "Hipmunk" row is a founder credit, not an angel check, and is included for context.*
 
 ## In Their Own Words
 
@@ -144,3 +144,8 @@ No independently sourced founder testimonials about Huffman as an angel investor
 [^20]: "Nothing (company)," Wikipedia, accessed April 2026. https://en.wikipedia.org/wiki/Nothing_(company)
 [^21]: "Reddit CEO Steve Huffman on IPO debut: The best investors of Reddit are people who use Reddit," CNBC video, March 21, 2024, accessed April 2026. https://www.cnbc.com/video/2024/03/21/reddit-ceo-steve-huffman-on-ipo-debut-the-best-investors-of-reddit-are-people-who-use-reddit.html
 [^22]: "Transcript of Reddit CEO Steve Huffman on the IPO," On with Kara Swisher, March 2024, accessed April 2026. https://podcasts.happyscribe.com/on-with-kara-swisher/reddit-ceo-steve-huffman-on-the-ipo
+[^23]: "Acquisition roundup: Heroku, Etacts, & Movity," VatorNews, December 22, 2010, accessed June 2026. https://vator.tv/2010-12-22-acquisition-roundup-heroku-etacts-movity/
+[^24]: "Dapper Labs, the Company Behind CryptoKitties, Raises $15M in Financing to Drive Consumer Adoption of Blockchain Technology," PR Newswire, November 1, 2018, accessed June 2026. https://www.prnewswire.com/news-releases/dapper-labs-the-company-behind-cryptokitties-raises-15m-in-financing-to-drive-consumer-adoption-of-blockchain-technology-300741850.html
+[^25]: "Spain's Payflow, a salary advance startup, banks $9.1M to expand its earned wage access service," TechCrunch, January 17, 2022, accessed June 2026. https://techcrunch.com/2022/01/17/payflow-series-a/
+[^26]: "Fathom raises $4.7M for its AI notetaker," TechCrunch, January 24, 2022, accessed June 2026. https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/
+[^27]: "Allocate Announces Strategic Asset Acquisition of The Coterie's Platform, Advancing the Vision for the Operating System of Private Markets," BusinessWire, July 23, 2025, accessed June 2026. https://www.businesswire.com/news/home/20250723951275/en/Allocate-Announces-Strategic-Asset-Acquisition-of-The-Coteries-Platform-Advancing-the-Vision-for-the-Operating-System-of-Private-Markets
