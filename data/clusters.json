@@ -9371,7 +9371,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 81,
+      "size": 89,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9739,6 +9739,46 @@
         {
           "slug": "ritesh-agarwal",
           "name": "Ritesh Agarwal"
+        },
+        {
+          "slug": "daniel-ek",
+          "name": "Daniel Ek",
+          "firm": "prima-materia"
+        },
+        {
+          "slug": "stewart-butterfield",
+          "name": "Stewart Butterfield",
+          "firm": "independent"
+        },
+        {
+          "slug": "wences-casares",
+          "name": "Wences Casares",
+          "firm": "independent"
+        },
+        {
+          "slug": "tarun-chitra",
+          "name": "Tarun Chitra",
+          "firm": "robot-ventures"
+        },
+        {
+          "slug": "yotam-segev",
+          "name": "Yotam Segev",
+          "firm": "cyera"
+        },
+        {
+          "slug": "assaf-rappaport",
+          "name": "Assaf Rappaport",
+          "firm": "wiz"
+        },
+        {
+          "slug": "sumeet-singh",
+          "name": "Sumeet Singh",
+          "firm": "lighthouseai"
+        },
+        {
+          "slug": "erik-blachford",
+          "name": "Erik Blachford",
+          "firm": "independent"
         }
       ]
     },
@@ -9841,7 +9881,7 @@
       "name": "The YC Network",
       "tagline": "Y Combinator partners and the investors who consistently back YC's best. When a YC company raises, these names are on the cap table.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9895,6 +9935,11 @@
         {
           "slug": "immad-akhund",
           "name": "Immad Akhund"
+        },
+        {
+          "slug": "steve-huffman",
+          "name": "Steve Huffman",
+          "firm": "reddit"
         }
       ]
     },
@@ -10578,7 +10623,7 @@
       "name": "The IPO Whisperers",
       "tagline": "Three or more portfolio companies that went public. These investors don't just pick winners \u2014 they pick companies that reach the finish line.",
       "type": "curated",
-      "size": 18,
+      "size": 20,
       "members": [
         {
           "slug": "alfred-lin",
@@ -10668,6 +10713,16 @@
         {
           "slug": "navin-chaddha",
           "name": "Navin Chaddha"
+        },
+        {
+          "slug": "steve-huffman",
+          "name": "Steve Huffman",
+          "firm": "reddit"
+        },
+        {
+          "slug": "stewart-butterfield",
+          "name": "Stewart Butterfield",
+          "firm": "independent"
         }
       ]
     },
@@ -11105,7 +11160,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 35,
+      "size": 38,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11276,6 +11331,21 @@
         {
           "slug": "cal-henderson",
           "name": "Cal Henderson"
+        },
+        {
+          "slug": "daniel-ek",
+          "name": "Daniel Ek",
+          "firm": "prima-materia"
+        },
+        {
+          "slug": "stewart-butterfield",
+          "name": "Stewart Butterfield",
+          "firm": "independent"
+        },
+        {
+          "slug": "assaf-rappaport",
+          "name": "Assaf Rappaport",
+          "firm": "wiz"
         }
       ]
     },
@@ -11955,7 +12025,7 @@
       "name": "The Defense Tech Vanguard",
       "tagline": "They bet on Anduril before it was cool \u2014 investors who saw defense tech as venture-scale before the geopolitical shift made it obvious.",
       "type": "curated",
-      "size": 14,
+      "size": 15,
       "members": [
         {
           "slug": "palmer-luckey",
@@ -12024,6 +12094,11 @@
           "slug": "brian-singerman",
           "name": "Brian Singerman",
           "firm": "gpx"
+        },
+        {
+          "slug": "daniel-ek",
+          "name": "Daniel Ek",
+          "firm": "prima-materia"
         }
       ]
     },
