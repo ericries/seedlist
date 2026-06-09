@@ -125,6 +125,7 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Actively | Series B (co-led) | 2026 | AI/Sales | Private [^10] |
 | Corgi | Series B (led) 2026-05-06; Series B1 (led, $106M at $2.6B val) 2026-05-28 | 2026-05-06; 2026-05-28 | Insurtech | Private ($2.6B valuation) [^13][^16] |
 | Mercury | Series D (led, $200M) | 2026-05-20 | Fintech / Digital Banking | Private ($5.2B valuation) [^14][^15] |
+| ICEYE | Series F (participated; led by General Atlantic) | 2026-06-09 | SpaceTech / SAR Satellites / Defense | Private (€10B+ valuation) [^17][^18][^19] |
 
 This table represents a small fraction of TCV's 350+ total investments [^4]. The firm's portfolio page lists over 100 current and former portfolio companies [^7].
 
@@ -168,3 +169,9 @@ No independently sourced founder testimonials found. TCV's portfolio founders ha
 [^15]: CNBC, "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months," May 20, 2026. Accessed May 2026. https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html — Independent confirmation of TCV's lead role; notes Mercury plans to pursue federal bank charter and has 300,000+ customers including 1/3 of early-stage startups.
 
 [^16]: TechCrunch, "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago," May 28, 2026. Accessed May 2026. https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/ — Confirms TCV led Corgi's $106M Series B1 on May 28, 2026 at $2.6B valuation (double the $1.3B Series B valuation from May 6, 2026). Existing investors Prime Capital, Zone 2 Ventures, Oliver Jung, Leblon Capital, Kindred Ventures, Quadri Ventures, First Order Fund, Vocal Ventures, Nordstar, GSBackers, Repeat Ventures, and 8188 Capital participated. Cross-referenced with PR Newswire, https://www.prnewswire.com/news-releases/corgi-reaches-2-6b-valuation-with-106m-series-b1-three-weeks-after-160m-unicorn-round-302784796.html.
+
+[^17]: ICEYE press release, "ICEYE leads a new era of sovereign intelligence from space with €1B funding round," June 9, 2026. Accessed June 2026. https://www.iceye.com/newsroom/press-releases/iceye-leads-a-new-era-of-sovereign-intelligence-from-space-with-1b-funding-round — Names TCV among participating investors alongside Solidium, Tesi, Varma, Ilmarinen, Lifeline Ventures, Nokia, and Qatar Investment Authority in the General Atlantic-led €450M primary Series F at €10B+ valuation.
+
+[^18]: General Atlantic, "ICEYE leads a new era of sovereign intelligence from space with €1Bn fundraising round," June 9, 2026. Accessed June 2026. https://www.generalatlantic.com/media-article/iceye-leads-a-new-era-of-sovereign-intelligence-from-space-with-e1bn-fundraising-round/ — Independently confirms TCV as participating investor in General Atlantic-led €450M primary Series F (total round including secondary exceeds €1B).
+
+[^19]: Tech.eu, "ICEYE raises €450M at €10B+ valuation as demand for sovereign space intelligence accelerates," June 9, 2026. Accessed June 2026. https://tech.eu/2026/06/09/iceye-raises-eur450m-at-eur10b-valuation-as-demand-for-sovereign-space-intelligence-accelerates/ — Third independent confirmation of TCV as named participant in the General Atlantic-led €450M Series F at €10B+ valuation; Nokia identified as new strategic investor.
