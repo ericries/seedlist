@@ -91,7 +91,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Daily.dev | Seed | 2022 | Developer Tools | Active | [^9] |
 | Daisy | Series A | ~2019 | Real Estate | Active | [^9] |
 | Decart | Series B | 2025 | AI | Active (Unicorn, $3.1B) | [^16] |
-| Dream | Seed | 2023 | Cybersecurity | Active | [^9] |
+| Dream | Series A | 2023-11-21 | Cybersecurity | Active ($1.1B valuation) | [^9] [^18] [^19] |
 | Embed | Seed | 2022 | Logistics | Active | [^9] |
 | Empathy | Seed | 2020 | Legal / Services | Active | [^9] |
 | Fabric | Seed | ~2016 | Logistics / Deep Tech | Active | [^9] |
@@ -122,12 +122,12 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Reeco | Seed | 2024 | Hospitality | Active | [^9] |
 | RiseUp | Seed | ~2017 | Fintech / Education | Active | [^9] |
 | SecuriThings | Series A | ~2020 | Cybersecurity | Active | [^9] |
-| Sequence | Seed | 2023 | Fintech | Active | [^9] |
+| Sequence | Seed Extension | 2025-05-27 | Fintech | Active | [^9] [^20] [^21] |
 | Sightful | Seed | 2022 | Developer Tools / Hardware | Active | [^9] |
 | Simply | Seed | ~2014 | Education / Music | Active | [^9] |
 | SparkBeyond | Series A | ~2018 | Data Infrastructure / AI | Active | [^9] |
 | SphereX | Seed | 2022 | Web3 / Security | Active | [^9] |
-| Spines | Seed | 2023 | Education / Publishing | Active | [^9] |
+| Spines | Seed | 2024-04-09 | Education / Publishing | Active | [^9] [^22] |
 | Superlegal | Seed | ~2018 | Legal Tech | Active | [^9] |
 | Svix | Seed | 2022 | Developer Tools | Active | [^9] |
 | TheGist | Seed | 2022 | Data Infrastructure / AI | Active | [^9] |
@@ -138,7 +138,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Umbrella | Seed | ~2016 | Data Infrastructure | Active | [^9] |
 | Uniper | Seed | 2020 | Fintech / Energy | Active | [^9] |
 | Unit | Seed | 2020 | Fintech / Banking-as-a-Service | Active | [^9] |
-| Waltz | Seed | 2024 | Real Estate | Active | [^9] |
+| Waltz | Series A | 2024-07-17 | Real Estate | Active | [^9] [^23] [^24] |
 | WeWork | Series A | ~2014 | Real Estate / Co-working | IPO: NYSE WE (delisted) | [^9] |
 | Windward | Seed | ~2013 | Logistics / AI | Acquired by FTV Capital | [^9] |
 | Workiz | Seed | ~2018 | SaaS / SMB | Active | [^9] |
@@ -204,3 +204,17 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^16]: Fortune, "Exclusive: Decart raises $100 million at a $3.1 billion valuation," August 2025, accessed March 2026. https://fortune.com/2025/08/07/exclusive-decart-raises-100-million-at-a-3-1-billion-valuation-chasing-the-future-of-real-time-creative-ai/
 
 [^17]: The SaaS News, "Jiga Raises $12 Million in Series A Funding," November 2025, accessed March 2026. https://www.thesaasnews.com/news/jiga-raises-12-million-in-series-a-funding
+
+[^18]: Crunchbase, "Dream Security Series A — 2023-11-21," accessed June 2026. https://www.crunchbase.com/funding_round/dream-security-bc59-seed--8a0948f2
+
+[^19]: Globes, "Ex-NSO execs raise $35m for Dream Security," November 2023, accessed June 2026. https://en.globes.co.il/en/article-ex-nso-execs-raise-35m-for-dream-security-1001462971
+
+[^20]: Sidley Austin LLP, "Sidley Represents Sequence in Its US$7.5 Million Series Seed Extension Financing," May 2025, accessed June 2026. https://www.sidley.com/en/newslanding/newsannouncements/2025/05/sidley-represents-sequence-in-its-us-7-million-series-seed-extension-financing
+
+[^21]: CTech, "Fintech startup Sequence raises $7.5M to automate consumer and SMB finances," May 2025, accessed June 2026. https://www.calcalistech.com/ctechnews/article/s19u8uxfee
+
+[^22]: SiliconANGLE, "AI book publishing platform Spines raises $6.5M to disrupt centuries-old industry," April 9, 2024, accessed June 2026. https://siliconangle.com/2024/04/09/ai-book-publishing-platform-spines-raises-6-5m-disrupt-centuries-old-industry/
+
+[^23]: Crunchbase, "Waltz Series A — 2024-07-17," accessed June 2026. https://www.crunchbase.com/funding_round/waltz-1c13-series-a--f2a821e2
+
+[^24]: CTech, "Waltz nets $12.5 million Series A to help foreign investors purchase real estate in the US," July 2024, accessed June 2026. https://www.calcalistech.com/ctechnews/article/b1gas4h00r
