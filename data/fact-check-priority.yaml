@@ -408,8 +408,9 @@ priority:
   added: 2026-06-09
 - slug: operator-partners
   type: firm
-  reason: "joined Sandstone Series A (2026-06-09)"
+  reason: "RESOLVED 2026-06-10 — Sandstone Series A $30M (2026-06-09, Lightspeed-led; Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity Ventures participated) added to operator-partners.md portfolio with 3 independent primary citations (TechCrunch, Artificial Lawyer, PYMNTS). All 3 sources explicitly name Operator Partners as participant; Lightspeed's own blog post confirms round date/amount but does not enumerate participants. last_verified_investment added (Sandstone 2026-06-09). Sandstone startup profile already published with operator-partners in firms[] frontmatter."
   added: 2026-06-09
+  status: resolved
 - slug: general-catalyst
   type: firm
   reason: "RESOLVED 2026-06-09 — Beacon Software Series C $225M at $1.4B+ val (2026-06-09, co-led with HarbourVest) added to general-catalyst.md portfolio row [^70] with 3 independent primary citations (BusinessWire press release, TheNextWeb, SiliconANGLE). All 3 sources confirm GC + HarbourVest co-lead; participants Lightspeed, Intrepid Growth Partners, Valiant Peregrine, BDT & MSD Partners affiliated funds, Journey LP, Sator Grove confirmed via BusinessWire. Hemant Taneja NOT personally attributed in any primary source — GC team per portfolio page is Marc Bhargava, Christopher Kauffman, Sarah Ascherman (matches the separate hemant-taneja unresolvable entry). Recent 10 portfolio entries (Musely 2026-05-01 through Beacon 2026-06-09) all have full YYYY-MM-DD dates; no vague facts found in recent entries."

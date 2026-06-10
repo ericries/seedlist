@@ -36,8 +36,12 @@ team:
   - name: Olivia Benjamin
     role: Partner
     slug: olivia-benjamin
+last_verified_investment:
+  date: 2026-06-09
+  company: "Sandstone"
+  round: "Series A"
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-06-10
 ---
 
 ## About
@@ -82,6 +86,7 @@ This table represents a sample of verified investments. Operator Partners report
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Sandstone | Series A | 2026-06-09 | Legal Tech/AI | [^38][^39][^40] |
 | Apella | Series B | 2026 | Healthcare/AI | [^20] |
 | Serval | Series A | 2025 | IT Automation/AI | [^24] |
 | Estuary | Series A | 2025 | Data Infrastructure | [^25] |
@@ -176,3 +181,6 @@ No independently sourced founder testimonials found. The firm's website describe
 [^35]: "Unit raises $18.6M to offer banking features as a service," TechCrunch, December 8, 2020, accessed April 2026. https://techcrunch.com/2020/12/08/unit-raises-18-6m-to-offer-banking-features-as-a-service/
 [^36]: Tracxn, "Marker Learning - 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/marker-learning/__No3jzae5gdt8mWOLg2gD4azdszq552eOgTID5rfdGP0
 [^37]: Tracxn, "Landis - 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/landis/__PYEXJYbTkRPR6tR81tDkME81Ps-dYkIZyeBZ-pT-Ank
+[^38]: Marina Temkin, "Sandstone raises $30M to bring AI to in-house legal teams," TechCrunch, June 9, 2026, accessed June 2026. https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/
+[^39]: "Sandstone Raises $30m For AI-Native Inhouse Teams," Artificial Lawyer, June 9, 2026, accessed June 2026. https://www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams/
+[^40]: "Sandstone Raises $30 Million to Expand Legal Tech Offering," PYMNTS, June 9, 2026, accessed June 2026. https://www.pymnts.com/news/investment-tracker/2026/sandstone-raises-30-million-to-expand-legal-tech-offering/
