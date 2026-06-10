@@ -133,7 +133,8 @@ pending_rounds:
   parsed_company: Zaro.ai
   parsed_amount: $5.1M
   parsed_round: null
-  status: pending
+  status: processed
+  processed_slug: zaro
 - title: Lexful raised $7M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -149,7 +150,8 @@ pending_rounds:
   parsed_company: Clear Robotics
   parsed_amount: $1.75M
   parsed_round: null
-  status: pending
+  status: processed
+  processed_slug: clear-robotics
 - title: WhiteHawk Minerals raised $200M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

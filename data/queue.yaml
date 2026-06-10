@@ -28203,3 +28203,59 @@ queue:
   added: '2026-03-17'
   firm: Warp (Founder & CEO); angel investor
   discovered_from: romain-huet
+- name: Mandeep Singh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zaro
+  source: angel in Zaro pre-seed (2026-06-09)
+- name: Marvin Purtorab
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zaro
+  source: Zaro co-founder, ex-Convergence/Agentforce; angel
+- name: Andy Toulis
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zaro
+  source: Zaro co-founder, ex-Convergence/Agentforce; angel
+- name: Shipsfocus Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clear-robotics
+  source: led Clear Robotics $1.75M Pre-Series A (2026-06-08)
+- name: Katapult Ocean
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clear-robotics
+  source: co-investor in Clear Robotics Pre-Series A
+- name: SGInnovate
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clear-robotics
+  source: co-investor in Clear Robotics Pre-Series A (Singapore)
+- name: M7 Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clear-robotics
+  source: co-investor in Clear Robotics Pre-Series A
+- name: MGS Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clear-robotics
+  source: co-investor in Clear Robotics Pre-Series A
