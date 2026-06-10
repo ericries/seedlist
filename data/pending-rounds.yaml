@@ -37,6 +37,40 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Jedify raises $24M to help companies arm AI agents with context on their
+    business
+  url: https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/
+  source: techcrunch
+  date_found: '2026-06-10'
+  parsed_company: Jedify
+  parsed_amount: $24M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Semiconductor Startup Funding Still Running Hot'
+  url: https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/
+  source: crunchbase
+  date_found: '2026-06-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Romanian eCommerce startup Naratix raises €1 million to accelerate market
+    growth
+  url: https://www.eu-startups.com/2026/06/romanian-ecommerce-startup-naratix-raises-e1-million-to-accelerate-growth/
+  source: eu-startups
+  date_found: '2026-06-10'
+  parsed_company: Romanian eCommerce startup Naratix
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Polish FinTech paymove secures €2.12 million to drive European expansion
+  url: https://www.eu-startups.com/2026/06/polish-fintech-paymove-secures-e2-12-million-to-drive-european-expansion/
+  source: eu-startups
+  date_found: '2026-06-10'
+  parsed_company: Polish FinTech paymove
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Evotrex raises $30M to build the RV that doesn’t need a charging station
   url: https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/
   source: techcrunch
@@ -842,40 +876,3 @@ pending_rounds:
   parsed_amount: $400M
   parsed_round: null
   status: skipped
-- title: Coralogix raises $200M on bet that someone needs to watch the AI agents
-  url: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
-  source: techcrunch
-  date_found: '2026-06-03'
-  parsed_company: Coralogix
-  parsed_amount: $200M
-  parsed_round: null
-  status: processed
-- title: The AlleyWatch May 2026 New York Venture Capital Funding Report
-  url: https://alleywatch.com/2026/06/new-york-venture-capital-may-2026/
-  source: alleywatch
-  date_found: '2026-06-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: Why your funding announcement is not the PR win you think it is – and why
-    speaking at events is
-  url: https://www.eu-startups.com/2026/06/why-your-funding-announcement-is-not-the-pr-win-you-think-it-is-and-why-speaking-at-events-is/
-  source: eu-startups
-  date_found: '2026-06-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: trend/opinion article, not a funding round
-- title: Edinburgh-based Wordsmith raises €60.2 million Series B to scale legal AI
-    platform for in-house teams
-  url: https://www.eu-startups.com/2026/06/edinburgh-based-wordsmith-raises-e60-2-million-series-b-to-scale-legal-ai-platform-for-in-house-teams/
-  source: eu-startups
-  date_found: '2026-06-03'
-  parsed_company: Edinburgh-based Wordsmith
-  parsed_amount: null
-  parsed_round: Series B
-  status: processed
-  processed: '2026-06-03'
