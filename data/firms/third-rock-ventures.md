@@ -98,7 +98,7 @@ Based on 73 verified portfolio companies from the firm's website [^1], Third Roc
 
 **Therapeutic area breakdown:** Among the ~55 therapeutics companies: oncology represents the largest focus area with approximately 18 of 55 (33%) including Agios, Blueprint Medicines, Jounce Therapeutics, Tango Therapeutics, CytomX, Neon Therapeutics, Flare Therapeutics, Faze Medicines, MOMA Therapeutics, Synnovation Therapeutics, and others. Neuroscience/CNS is the second-largest area with approximately 8 of 55 (15%) including Sage Therapeutics, Seaport Therapeutics, Syremis Therapeutics, Trace Neuroscience, Rapport Therapeutics, Decibel Therapeutics, and Afferent Pharmaceuticals. Rare/genetic disease represents approximately 8 of 55 (15%) including Global Blood Therapeutics, Rhythm Pharmaceuticals, Fulcrum Therapeutics, Allena Pharmaceuticals, and Edimer Pharmaceuticals. Immunology/autoimmune accounts for approximately 7 of 55 (13%) including Rheos Medicines, Abata Therapeutics, Merida Biosciences, Clasp Therapeutics, and Candid Therapeutics. Cardiovascular is approximately 4 of 55 (7%) including MyoKardia, Corvia Medical, and Element Science [^1].
 
-**Stage focus:** Third Rock operates almost exclusively at the company creation and Series A stage. The firm typically provides initial Series A financing when it launches a company, with check sizes ranging from $25M to $165M. Recent examples include Syremis Therapeutics ($165M Series A, 2025) [^13], Seaport Therapeutics ($100M Series A, April 2024 — co-led with ARCH Venture Partners and Sofinnova Investments alongside founder PureTech Health; Seaport priced its Nasdaq IPO in April 2026, raising $254.9M) [^14][^53][^54], Relay Therapeutics ($57M Series A, 2016) [^15], and Tango Therapeutics ($55M Series A) [^16]. The firm also provides follow-on capital for subsequent rounds [^5].
+**Stage focus:** Third Rock operates almost exclusively at the company creation and Series A stage. The firm typically provides initial Series A financing when it launches a company, with check sizes ranging from $25M to $165M. Recent examples include Syremis Therapeutics ($165M Series A, December 2025) [^13], Seaport Therapeutics ($100M Series A, April 2024 — co-led with ARCH Venture Partners and Sofinnova Investments alongside founder PureTech Health; Seaport priced its Nasdaq IPO in April 2026, raising $254.9M) [^14][^53][^54], Relay Therapeutics ($57M Series A, 2016) [^15], and Tango Therapeutics ($55M Series A) [^16]. The firm also provides follow-on capital for subsequent rounds [^5].
 
 **Geographic concentration:** The vast majority of portfolio companies are based in the Boston/Cambridge, Massachusetts area, consistent with the firm's headquarters and the region's concentration of academic medical research institutions. A smaller number are based in the San Francisco Bay Area [^1] [^10].
 
@@ -114,16 +114,16 @@ The following table includes selected portfolio companies. This represents a sub
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Syremis Therapeutics | Series A ($165M) | 2025 | Neuropsychiatry | Active | [^13] |
+| Syremis Therapeutics | Series A ($165M) | 2025-12-18 | Neuropsychiatry | Active | [^13] |
 | Azalea Therapeutics | Series A | 2025 | Oncology/Immunotherapy | Active | [^1] |
 | Candid Therapeutics | Series A | 2025 | Immunology | Active | [^1] |
 | Seaport Therapeutics | Series A ($100M) | 2024-04-09 | Neuropsychiatry | Public (IPO, Apr 2026) | [^14][^53][^54] |
-| Clasp Therapeutics | Series A ($150M) | 2024 | Immunology/Oncology | Active | [^21] |
-| Synnovation Therapeutics | Series A ($102M) | 2024 | Oncology | Active | [^22] |
-| ArtBio | Series A ($90M) | 2023 | Oncology/Radiopharmaceutical | Active | [^23] |
-| Trace Neuroscience | Series A ($101M) | 2024 | Neuroscience/ALS | Active | [^24] |
-| Marea Therapeutics | Series A+B ($190M) | 2024 | Cardiometabolic | Active | [^25] |
-| Rapport Therapeutics | Series A ($100M) | 2023 | Neuroscience | Active | [^26] |
+| Clasp Therapeutics | Series A ($150M) | 2024-03 | Immunology/Oncology | Active | [^21] |
+| Synnovation Therapeutics | Series A ($102M) | 2024-01 | Oncology | Active | [^22] |
+| ArtBio | Series A ($90M) | 2023-12 | Oncology/Radiopharmaceutical | Active | [^23] |
+| Trace Neuroscience | Series A ($101M) | 2024-11-12 | Neuroscience/ALS | Active | [^24] |
+| Marea Therapeutics | Series A+B ($190M) | 2024-06-17 | Cardiometabolic | Active | [^25] |
+| Rapport Therapeutics | Series A ($100M) | 2023-03-07 | Neuroscience | Active | [^26] |
 | Terremoto Biosciences | Series A ($75M) | 2022 | Drug Discovery | Active | [^27] |
 | Septerna | Series A ($100M) | 2022 | Drug Discovery/GPCR | Public (IPO, Jan 2025) | [^28] |
 | Abata Therapeutics | Series A ($95M) | 2021 | Immunology/Neuroinflammation | Active | [^29] |
