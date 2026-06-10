@@ -28348,3 +28348,45 @@ queue:
   discovered_from: sameer-mehta
   source: D2C instant noodles/food; $6.5M Series B Oct 2024 led by Ashish Kacholia;
     Mehta prior angel
+- name: S Capital VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jedify
+  source: co-invested Jedify Series A 2026-06-10
+- name: Frst
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncovr
+  source: co-invested Uncovr seed 2026-06-10
+- name: No Label Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncovr
+  source: co-invested Uncovr seed 2026-06-10
+- name: Jean Nehme
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncovr
+  source: angel in Uncovr seed; founder Digital Surgery (acq. Medtronic)
+- name: Othman Laraki
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: uncovr
+  source: angel in Uncovr seed; CEO Color Health
+- name: Assaf Henkin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jedify
+  source: Co-founder/CEO of Jedify

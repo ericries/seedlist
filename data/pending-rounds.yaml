@@ -26,9 +26,10 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-10'
   parsed_company: French surgical AI startup Uncovr
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €6M
+  parsed_round: seed
+  status: processed
+  processed_slug: uncovr
 - title: Raising money? Here’s what that funding round could really cost your business
   url: https://www.eu-startups.com/2026/06/raising-money-heres-what-that-funding-round-could-really-cost-your-business/
   source: eu-startups
@@ -44,8 +45,9 @@ pending_rounds:
   date_found: '2026-06-10'
   parsed_company: Jedify
   parsed_amount: $24M
-  parsed_round: null
-  status: pending
+  parsed_round: series-a
+  status: processed
+  processed_slug: jedify
 - title: 'Sector Snapshot: Semiconductor Startup Funding Still Running Hot'
   url: https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/
   source: crunchbase
