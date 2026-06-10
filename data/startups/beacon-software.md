@@ -10,14 +10,7 @@ firms:
   year: 2025
 - date: 2025-11-04
   round: series-b
-  slug: lightspeed-venture-partners
-  year: 2025
-- date: 2025-11-04
-  round: series-b
   slug: d1-capital-partners
-  year: 2025
-- round: '2025'
-  slug: ramp
   year: 2025
 founded: 2024
 founders:
