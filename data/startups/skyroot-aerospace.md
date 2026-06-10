@@ -1,28 +1,31 @@
 ---
-name: Skyroot Aerospace
-slug: skyroot-aerospace
-type: startup
-website: https://skyroot.in/
-location: Hyderabad, India
+firms: []
 founded: 2018
-status_company: active
+founders:
+- name: Pawan Kumar Chandana
+  role: Co-Founder & CEO
+- name: Naga Bharath Daka
+  role: Co-Founder & COO
+investors:
+- round: Early (angel + board)
+  slug: mukesh-bansal
+  year: 2019
+last_researched: 2026-05-11
+location: Hyderabad, India
+name: Skyroot Aerospace
 sector:
 - aerospace
 - space-tech
 - launch-vehicles
 - deep-tech
 - defense
+slug: skyroot-aerospace
 stage_latest: Growth
-total_raised: $60M+
-investors: []
-firms: []
-founders:
-- name: Pawan Kumar Chandana
-  role: Co-Founder & CEO
-- name: Naga Bharath Daka
-  role: Co-Founder & COO
-last_researched: 2026-05-11
 status: published
+status_company: active
+total_raised: $60M+
+type: startup
+website: https://skyroot.in/
 ---
 
 ## About

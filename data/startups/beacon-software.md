@@ -1,35 +1,44 @@
 ---
-name: "Beacon Software"
-slug: beacon-software
-type: startup
-website: "https://beaconsoftware.com"
-location: "Toronto, Canada / San Francisco, CA"
-founded: 2024
-status_company: active
-sector: [vertical-saas, ai, software-rollup]
-stage_latest: "Series C"
-total_raised: "$550M"
-investors: []
 firms:
-  - slug: general-catalyst
-    round: series-c
-    year: 2026
-    date: 2026-06-09
-  - slug: general-catalyst
-    round: series-b
-    year: 2025
-    date: 2025-11-04
-  - slug: addition
-    round: series-b
-    year: 2025
-    date: 2025-11-04
+- date: 2026-06-09
+  round: series-c
+  slug: general-catalyst
+  year: 2026
+- date: 2025-11-04
+  round: series-b
+  slug: general-catalyst
+  year: 2025
+- date: 2025-11-04
+  round: series-b
+  slug: addition
+  year: 2025
+- round: '2025'
+  slug: ramp
+  year: 2025
+founded: 2024
 founders:
-  - name: "Nilam Ganenthiran"
-    role: "Co-Founder & CEO"
-  - name: "Divya Gupta"
-    role: "Co-Founder"
-status: published
+- name: Nilam Ganenthiran
+  role: Co-Founder & CEO
+- name: Divya Gupta
+  role: Co-Founder
+investors:
+- round: '2025'
+  slug: karim-atiyeh
+  year: 2025
 last_researched: 2026-06-03
+location: Toronto, Canada / San Francisco, CA
+name: Beacon Software
+sector:
+- vertical-saas
+- ai
+- software-rollup
+slug: beacon-software
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $550M
+type: startup
+website: https://beaconsoftware.com
 ---
 
 ## About

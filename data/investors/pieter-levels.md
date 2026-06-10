@@ -1,30 +1,42 @@
 ---
-name: "Pieter Levels"
-slug: pieter-levels
-type: individual
-firm:
-role: "Indie Hacker, Founder of Nomad List"
-location: "Lisbon, Portugal"
-stage_focus: []
-sector_focus: [ai, developer-tools]
-check_size: "Unknown (selective angel)"
-last_verified_investment:
-  date: 2024
-  company: "Cursor (Anysphere)"
-  round: "Undisclosed"
-social:
-  twitter: "@levelsio"
-status: flagged
-review_notes: |
-  Pieter Levels is primarily an operator-bootstrapper, not a venture-style investor.
-  He has publicly stated he does not run an active angel portfolio and prefers ETFs
-  for the majority of his capital. Only one angel investment (Cursor / Anysphere) is
-  independently verified from his own first-person disclosure as of June 2026. Profile
-  is published as `flagged` per Seedlist convention for operator-investors with thin
-  verifiable portfolios — his public commentary on bootstrapping, AI, and the indie
-  hacker movement remains valuable signal for founders even though the directory's
-  thesis-inference apparatus cannot meaningfully analyze a one-investment portfolio.
+check_size: Unknown (selective angel)
+firm: null
 last_researched: 2026-06-09
+last_verified_investment:
+  company: Cursor (Anysphere)
+  date: ~2025
+  round: Undisclosed
+location: Lisbon, Portugal
+name: Pieter Levels
+review_notes: 'Pieter Levels is primarily an operator-bootstrapper, not a venture-style
+  investor.
+
+  He has publicly stated he does not run an active angel portfolio and prefers ETFs
+
+  for the majority of his capital. Only one angel investment (Cursor / Anysphere)
+  is
+
+  independently verified from his own first-person disclosure as of June 2026. Profile
+
+  is published as `flagged` per Seedlist convention for operator-investors with thin
+
+  verifiable portfolios — his public commentary on bootstrapping, AI, and the indie
+
+  hacker movement remains valuable signal for founders even though the directory''s
+
+  thesis-inference apparatus cannot meaningfully analyze a one-investment portfolio.
+
+  '
+role: Indie Hacker, Founder of Nomad List
+sector_focus:
+- ai
+- developer-tools
+slug: pieter-levels
+social:
+  twitter: '@levelsio'
+stage_focus: []
+status: flagged
+type: individual
 ---
 
 ## Background

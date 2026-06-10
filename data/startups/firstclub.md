@@ -1,25 +1,32 @@
 ---
-name: "FirstClub"
-slug: firstclub
-type: startup
-website: "https://firstclub.in"
-location: "Bengaluru, India"
-founded: 2025
-status_company: active
-sector: [quick-commerce, ecommerce, grocery, consumer]
-stage_latest: "Series B"
-total_raised: "$86M"
-investors: []
 firms:
-  - slug: accel
-    round: series-b
-    year: 2026
-    date: 2026-06-03
+- date: 2026-06-03
+  round: series-b
+  slug: accel
+  year: 2026
+founded: 2025
 founders:
-  - name: "Ayyappan R"
-    role: "Founder & CEO"
-status: published
+- name: Ayyappan R
+  role: Founder & CEO
+investors:
+- round: Seed (angel)
+  slug: mukesh-bansal
+  year: 2024
 last_researched: 2026-06-03
+location: Bengaluru, India
+name: FirstClub
+sector:
+- quick-commerce
+- ecommerce
+- grocery
+- consumer
+slug: firstclub
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $86M
+type: startup
+website: https://firstclub.in
 ---
 
 ## About

@@ -27,14 +27,14 @@ firms:
 - round: —
   slug: hanabi-capital
   year: 2025
-- round: series-c
+- date: 2025-06-05
+  round: series-c
   slug: accel
   year: 2025
-  date: 2025-06-05
-- round: series-d
+- date: 2025-11-13
+  round: series-d
   slug: accel
   year: 2025
-  date: 2025-11-13
 - round: Angel
   slug: first-harmonic
   year: 2023
@@ -127,6 +127,9 @@ investors:
 - round: Seed ($8M, led)
   slug: brad-lightcap
   year: 2023
+- round: Undisclosed
+  slug: pieter-levels
+  year: 2024
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Cursor (Anysphere)

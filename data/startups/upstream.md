@@ -1,32 +1,43 @@
 ---
-name: "Upstream"
-slug: upstream
-type: startup
-website: "https://upstream.so/"
-location: "Paris, France"
-status_company: active
-sector: [ai, productivity, email, collaboration, agentic-ai]
-stage_latest: "Pre-seed"
-total_raised: "$3M"
-investors:
-  - slug: xavier-niel
-    round: pre-seed
-    year: 2026
-    date: 2026-06-03
 firms:
-  - slug: y-combinator
-    round: pre-seed
-    year: 2026
-    date: 2026-06-03
-  - slug: kima-ventures
-    round: pre-seed
-    year: 2026
-    date: 2026-06-03
+- date: 2026-06-03
+  round: pre-seed
+  slug: y-combinator
+  year: 2026
+- date: 2026-06-03
+  round: pre-seed
+  slug: kima-ventures
+  year: 2026
+- round: '2022'
+  slug: cyberstarts
+  year: 2022
 founders:
-  - name: "Louis Lecat"
-    role: "CEO & Co-Founder"
-status: published
+- name: Louis Lecat
+  role: CEO & Co-Founder
+investors:
+- date: 2026-06-03
+  round: pre-seed
+  slug: xavier-niel
+  year: 2026
+- round: '2022'
+  slug: michael-shaulov
+  year: 2022
 last_researched: 2026-06-08
+location: Paris, France
+name: Upstream
+sector:
+- ai
+- productivity
+- email
+- collaboration
+- agentic-ai
+slug: upstream
+stage_latest: Pre-seed
+status: published
+status_company: active
+total_raised: $3M
+type: startup
+website: https://upstream.so/
 ---
 
 ## About

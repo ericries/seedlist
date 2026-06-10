@@ -20990,7 +20990,7 @@ queue:
 - name: Romain Huet
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenAI
   discovered_from: cal-henderson
@@ -21446,7 +21446,7 @@ queue:
 - name: Mukesh Bansal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sparx
   discovered_from: vani-kola
@@ -28123,3 +28123,83 @@ queue:
   added: '2026-03-17'
   discovered_from: rem3dy-health
   source: Strategic investor in Rem3dy Health 2026-06
+- name: Marc Bhargava
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: beacon-software
+- name: Christopher Kauffman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: beacon-software
+- name: Sarah Ascherman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: beacon-software
+- name: Mohit Gupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lyskraft (CEO); ex-Zomato co-founder
+  discovered_from: mukesh-bansal
+- name: Deep Kalra
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: MakeMyTrip (Founder); angel investor
+  discovered_from: mukesh-bansal
+- name: Meraki Labs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Meraki Labs
+  discovered_from: mukesh-bansal
+- name: Nurix AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mukesh-bansal
+- name: Lyskraft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mukesh-bansal
+- name: Lago
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-huet
+- name: PromptLayer
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-huet
+- name: Karri Saarinen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Linear (Co-founder & CEO); angel investor
+  discovered_from: romain-huet
+- name: Zach Lloyd
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Warp (Founder & CEO); angel investor
+  discovered_from: romain-huet

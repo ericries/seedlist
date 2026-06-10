@@ -81,6 +81,9 @@ investors:
 - round: Seed (led, $4.25M, 2023-05-08)
   slug: michael-mignano
   year: 2023
+- round: Series B ($43M, led by NFDG)
+  slug: romain-huet
+  year: 2025
 last_researched: 2026-05-25
 location: London, United Kingdom
 name: Granola

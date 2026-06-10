@@ -1,31 +1,41 @@
 ---
-name: "A Security"
-slug: a-security
-type: startup
-location: "Israel"
-status_company: active
-sector: [cybersecurity, ai, enterprise-software, offensive-security]
-stage_latest: "Series A"
-total_raised: "$37M"
-investors:
-  - slug: assaf-rappaport
-    round: series-a
-    year: 2026
-    date: 2026-06-08
-  - slug: yotam-segev
-    round: series-a
-    year: 2026
-    date: 2026-06-08
-firms: []
+firms:
+- round: '2026-06-08'
+  slug: wiz
+  year: 2026
+- round: '2026-06-08'
+  slug: cyera
+  year: 2026
 founders:
-  - name: "Yossi Torati"
-    role: "CEO & Co-Founder"
-  - name: "Omer Gull"
-    role: "CPO & Co-Founder"
-  - name: "Yuval Itzchakov"
-    role: "CTO & Co-Founder"
-status: published
+- name: Yossi Torati
+  role: CEO & Co-Founder
+- name: Omer Gull
+  role: CPO & Co-Founder
+- name: Yuval Itzchakov
+  role: CTO & Co-Founder
+investors:
+- date: 2026-06-08
+  round: series-a
+  slug: assaf-rappaport
+  year: 2026
+- date: 2026-06-08
+  round: series-a
+  slug: yotam-segev
+  year: 2026
 last_researched: 2026-06-09
+location: Israel
+name: A Security
+sector:
+- cybersecurity
+- ai
+- enterprise-software
+- offensive-security
+slug: a-security
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $37M
+type: startup
 ---
 
 ## About

@@ -1,37 +1,44 @@
 ---
-name: "PointFive"
-slug: pointfive
-type: startup
-website: "https://www.pointfive.co"
-location: "New York, NY"
-founded: 2023
-status_company: active
-sector: [cloud-infrastructure, ai, devtools, fintech]
-stage_latest: "Series B"
-total_raised: "$96M"
-investors:
-  - slug: mickey-boodaei
-    round: series-b
-    year: 2026
-    date: 2026-06-08
 firms:
-  - slug: accel
-    round: series-b
-    year: 2026
-    date: 2026-06-08
-  - slug: index-ventures
-    round: series-b
-    year: 2026
-    date: 2026-06-08
+- date: 2026-06-08
+  round: series-b
+  slug: accel
+  year: 2026
+- date: 2026-06-08
+  round: series-b
+  slug: index-ventures
+  year: 2026
+- round: '2024-06-18'
+  slug: transmit-security
+  year: 2024
+founded: 2023
 founders:
-  - name: "Alon Arvatz"
-    role: "Co-Founder & CEO"
-  - name: "Gal Ben-David"
-    role: "Co-Founder & CPO"
-  - name: "Amir Hozez"
-    role: "Co-Founder & CTO"
-status: published
+- name: Alon Arvatz
+  role: Co-Founder & CEO
+- name: Gal Ben-David
+  role: Co-Founder & CPO
+- name: Amir Hozez
+  role: Co-Founder & CTO
+investors:
+- date: 2026-06-08
+  round: series-b
+  slug: mickey-boodaei
+  year: 2026
 last_researched: 2026-06-08
+location: New York, NY
+name: PointFive
+sector:
+- cloud-infrastructure
+- ai
+- devtools
+- fintech
+slug: pointfive
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $96M
+type: startup
+website: https://www.pointfive.co
 ---
 
 ## About

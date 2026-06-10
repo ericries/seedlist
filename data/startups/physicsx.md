@@ -1,26 +1,34 @@
 ---
-name: "PhysicsX"
-slug: physicsx
-type: startup
-website: "https://www.physicsx.ai"
-location: "London, United Kingdom"
-status_company: active
-sector: [ai, industrial-ai, deep-tech, simulation, engineering-software]
-stage_latest: "Series C"
-total_raised: "~$500M"
-investors: []
 firms:
-  - slug: general-catalyst
-    round: series-c
-    year: 2026
-    date: 2026-06-08
+- date: 2026-06-08
+  round: series-c
+  slug: general-catalyst
+  year: 2026
 founders:
-  - name: "Jacomo Corbo"
-    role: "Co-Founder & CEO"
-  - name: "Robin Tuluie"
-    role: "Co-Founder & Chairman"
-status: published
+- name: Jacomo Corbo
+  role: Co-Founder & CEO
+- name: Robin Tuluie
+  role: Co-Founder & Chairman
+investors:
+- round: Series A
+  slug: larry-bohn
+  year: 2023
 last_researched: 2026-06-03
+location: London, United Kingdom
+name: PhysicsX
+sector:
+- ai
+- industrial-ai
+- deep-tech
+- simulation
+- engineering-software
+slug: physicsx
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: ~$500M
+type: startup
+website: https://www.physicsx.ai
 ---
 
 ## About
