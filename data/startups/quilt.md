@@ -1,37 +1,45 @@
 ---
-name: "Quilt"
-slug: quilt
-type: startup
-website: "https://quilt.com"
-location: "Oakland, California"
-founded: 2022
-status_company: active
-sector: [climate, climate-tech, hardware, smart-home, hvac]
-stage_latest: "Series B"
-total_raised: "$62M"
-investors: []
 firms:
-  - slug: incite-ventures
-    round: seed
-    year: 2023
-    date: 2023-05-16
-  - slug: incite-ventures
-    round: series-a
-    year: 2024
-    date: 2024-04-16
-  - slug: incite-ventures
-    round: series-b
-    year: 2025
-    date: 2025-12-08
+- date: 2023-05-16
+  round: seed
+  slug: incite-ventures
+  year: 2023
+- date: 2024-04-16
+  round: series-a
+  slug: incite-ventures
+  year: 2024
+- date: 2025-12-08
+  round: series-b
+  slug: incite-ventures
+  year: 2025
+founded: 2022
 founders:
-  - name: "Paul Lambert"
-    role: "Co-Founder & CEO"
-  - name: "Bill Kee"
-    role: "Co-Founder"
-  - name: "Matthew Knoll"
-    role: "Co-Founder"
-status: published
+- name: Paul Lambert
+  role: Co-Founder & CEO
+- name: Bill Kee
+  role: Co-Founder
+- name: Matthew Knoll
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: matt-rogers
+  year: 2023
 last_researched: 2026-06-10
+location: Oakland, California
+name: Quilt
+sector:
+- climate
+- climate-tech
+- hardware
+- smart-home
+- hvac
+slug: quilt
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $62M
+type: startup
+website: https://quilt.com
 ---
 
 ## About

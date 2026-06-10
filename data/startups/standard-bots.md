@@ -1,24 +1,34 @@
 ---
-name: "Standard Bots"
-slug: standard-bots
-type: startup
-website: "https://standardbots.com"
-location: "Glen Cove, NY"
-status_company: active
-sector: [robotics, ai, manufacturing, industrial]
-stage_latest: "Series C"
-total_raised: "$263M+"
-investors: []
 firms:
-  - slug: general-catalyst
-    round: series-c
-    year: 2026
-    date: 2026-06-09
+- date: 2026-06-09
+  round: series-c
+  slug: general-catalyst
+  year: 2026
+- round: Series B
+  slug: quiet-capital
+  year: 2024
 founders:
-  - name: "Evan Beard"
-    role: "CEO"
-status: published
+- name: Evan Beard
+  role: CEO
+investors:
+- round: Series B
+  slug: lee-linden
+  year: 2024
 last_researched: 2026-06-10
+location: Glen Cove, NY
+name: Standard Bots
+sector:
+- robotics
+- ai
+- manufacturing
+- industrial
+slug: standard-bots
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $263M+
+type: startup
+website: https://standardbots.com
 ---
 
 ## About

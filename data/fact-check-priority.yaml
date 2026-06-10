@@ -399,8 +399,9 @@ priority:
   status: resolved
 - slug: sequoia-capital
   type: firm
-  reason: "led Sandstone Seed $10M (2026-01-13)"
+  reason: "RESOLVED 2026-06-03 — Sandstone Seed $10M (2026-01-13, led) added to portfolio with 3 independent primary citations (Sequoia's own Bogomil Balkansky post [^82], Artificial Lawyer [^83], Sandstone company blog [^84] cross-referenced with TechCrunch Series A article). All 3 sources independently confirm Sequoia led the Seed. TechCrunch and Artificial Lawyer Series A articles explicitly confirm Sequoia did NOT participate in the June 9 2026 $30M Series A led by Lightspeed (Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity Ventures participated). Co-founders verified: Nick Fleisher (CEO, ex-McKinsey legal tech) + Jarryd Strydom (COO, ex-in-house counsel). Liam Germain not mentioned in primary sources. Recent 10 portfolio entries all have full YYYY-MM-DD dates — no vague facts found."
   added: 2026-06-09
+  status: resolved
 - slug: sv-angel
   type: firm
   reason: "joined Sandstone Series A $30M (2026-06-09)"
@@ -411,12 +412,14 @@ priority:
   added: 2026-06-09
 - slug: general-catalyst
   type: firm
-  reason: "co-led Beacon Software Series C $225M (2026-06-09)"
+  reason: "RESOLVED 2026-06-09 — Beacon Software Series C $225M at $1.4B+ val (2026-06-09, co-led with HarbourVest) added to general-catalyst.md portfolio row [^70] with 3 independent primary citations (BusinessWire press release, TheNextWeb, SiliconANGLE). All 3 sources confirm GC + HarbourVest co-lead; participants Lightspeed, Intrepid Growth Partners, Valiant Peregrine, BDT & MSD Partners affiliated funds, Journey LP, Sator Grove confirmed via BusinessWire. Hemant Taneja NOT personally attributed in any primary source — GC team per portfolio page is Marc Bhargava, Christopher Kauffman, Sarah Ascherman (matches the separate hemant-taneja unresolvable entry). Recent 10 portfolio entries (Musely 2026-05-01 through Beacon 2026-06-09) all have full YYYY-MM-DD dates; no vague facts found in recent entries."
   added: 2026-06-09
+  status: resolved
 - slug: addition
   type: firm
-  reason: "follow-on Beacon Software Series C (2026-06-09)"
+  reason: "UNRESOLVABLE 2026-06-10 — Addition NOT a verified participant in Beacon Software Series C $225M (2026-06-09) per 5 independent primary sources (TNW, SiliconANGLE, BetaKit, Pulse 2.0, Globe and Mail) — Series C lead: General Catalyst + HarbourVest; participants: Lightspeed, Intrepid Growth Partners, Valiant Peregrine, BDT & MSD, Journey LP, Sator Grove. Also discovered FABRICATED claim that Addition led/joined Beacon's Series B (2025-11-04, $250M) — verified Series B leads were General Catalyst + Lightspeed + D1 Capital per BetaKit, TechStartups, The AI Insider, Globe and Mail; participants: BDT & MSD, Sator Grove + angels Rogers/Varma/Simo/Glyman/Atiyeh/Wu/Xu/Corrales/Farber. No Beacon row in addition.md portfolio (good — fabrication never propagated to Addition profile). beacon-software.md startup profile corrected: removed Addition slug from firms[] frontmatter, replaced hallucinated Inovia Capital + Golden Ventures co-investors in Series B funding history table with actual lead/co-investor list. Recent 10 Addition portfolio entries (Snorkel AI 2025-05-29 through Hello Vet 2025-12-11) all have full YYYY-MM-DD dates; SuperOps.ai Series A (2022) and Adept AI Series B (2023-03-14) are the only older entries without complete dates — outside scope of this sweep."
   added: 2026-06-09
+  status: unresolvable
 - slug: hemant-taneja
   type: investor
   reason: "UNRESOLVABLE 2026-06-09 — Hemant Taneja NOT personally attributed to Beacon Software Series C $225M (2026-06-09, General Catalyst + HarbourVest-led) by any primary source. General Catalyst's own portfolio page (generalcatalyst.com/companies/beacon-software) names Marc Bhargava, Christopher Kauffman, and Sarah Ascherman as the GC team for Beacon. TNW and citybiz Series C announcements name only the firm, not Taneja. Removed hemant-taneja from beacon-software.md investors[] frontmatter (was incorrectly attributed). Queued marc-bhargava, christopher-kauffman, sarah-ascherman as new investor leads."

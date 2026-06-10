@@ -10,7 +10,11 @@ firms:
   year: 2025
 - date: 2025-11-04
   round: series-b
-  slug: addition
+  slug: lightspeed-venture-partners
+  year: 2025
+- date: 2025-11-04
+  round: series-b
+  slug: d1-capital-partners
   year: 2025
 - round: '2025'
   slug: ramp
@@ -54,7 +58,7 @@ In conjunction with the Series C, Beacon hired Mark Schaaf (former CTO of Instac
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-06-09 | Series C | $225M | General Catalyst, HarbourVest | Lightspeed, Intrepid Growth Partners, Valiant Peregrine, BDT & MSD Partners affiliated funds, Journey LP, Sator Grove [^1][^2] |
-| 2025-11-04 | Series B | $250M | General Catalyst | Addition, Lightspeed, Inovia Capital, Golden Ventures [^4][^5] |
+| 2025-11-04 | Series B | $250M | General Catalyst, Lightspeed Venture Partners, D1 Capital | BDT & MSD Partners, Sator Grove; angels Chris Rogers, Amar Varma, Fidji Simo, Eric Glyman, Karim Atiyeh, Scott Wu, Tony Xu, Rafael Corrales, Darren Farber [^4][^5] |
 
 ## What Investors Say
 

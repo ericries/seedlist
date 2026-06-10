@@ -21927,7 +21927,7 @@ queue:
 - name: Sameer Mehta
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: boAt Lifestyle
   discovered_from: aman-gupta
@@ -28259,3 +28259,92 @@ queue:
   added: '2026-03-17'
   discovered_from: clear-robotics
   source: co-investor in Clear Robotics Pre-Series A
+- name: Better Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: led Wyld pre-seed (2022) alongside Mehta and Aman Gupta
+- name: Merak Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: led NeoSapien seed round (Dec 2025) alongside Mehta
+- name: Wipro Consumer Care Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: led Anveshan Series A (Apr 2024) alongside Mehta
+- name: Vertex Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: led Anveshan Series B (2025) alongside Mehta
+- name: Sauce.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: participated in Perfora pre-seed (2021) alongside Mehta
+- name: Anveshan
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: D2C Ayurvedic food brand; Series A 2024 (Wipro lead), Series B 2025 (Vertex
+    lead); Mehta angel
+- name: NeoSapien
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: Consumer AI wearable; $2M seed Dec 2025 led by Merak Ventures; Mehta + multiple
+    celebrity angels
+- name: Perfora
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: D2C oral care; pre-seed 2021 with Mehta; Series A 2024 (~$4.7M)
+- name: WickedGud
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: D2C healthy food; $340K pre-seed Sep 2021 led by Titan Capital; Mehta angel
+- name: Wyld
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: Consumer fintech / social currency card; $350K pre-seed Mar 2022 led by
+    Better Capital
+- name: Chargeup
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: EV battery swapping; $2.5M pre-Series A Feb 2022; boAt founders participated
+    per press
+- name: Yu Foods
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-mehta
+  source: D2C instant noodles/food; $6.5M Series B Oct 2024 led by Ashish Kacholia;
+    Mehta prior angel
