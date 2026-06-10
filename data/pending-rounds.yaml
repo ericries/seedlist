@@ -192,6 +192,14 @@ pending_rounds:
   parsed_amount: $3B
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/9/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-9-2026/
+  source: alleywatch
+  date_found: '2026-06-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: UK-based NewOrbit raises €16 million to build commercial satellites for very
     low Earth orbit (VLEO)
   url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
@@ -873,17 +881,4 @@ pending_rounds:
   parsed_round: null
   status: skipped
   skip_reason: GRANT funding (non-dilutive), not VC equity round
-  processed_date: '2026-06-02'
-- title: Used by Desigual, AWWG and Fútbol Emotion, Spanish AI fashion platform Modelia
-    raises €1.03 million
-  url: https://www.eu-startups.com/2026/06/used-by-desigual-awwg-and-futbol-emotion-spanish-ai-fashion-platform-modelia-raises-e1-03-million/
-  source: eu-startups
-  date_found: '2026-06-02'
-  parsed_company: Used by Desigual, AWWG and Fútbol Emotion, Spanish AI fashion platform
-    Modelia
-  parsed_amount: €1.03M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile modelia.md (€1.03M Seed 2026-06-02 led by Next Tier
-    with Rapid Scale and Archipelago Next)
   processed_date: '2026-06-02'
