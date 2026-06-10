@@ -404,8 +404,9 @@ priority:
   status: resolved
 - slug: sv-angel
   type: firm
-  reason: "joined Sandstone Series A $30M (2026-06-09)"
+  reason: "RESOLVED 2026-06-10 — Sandstone Series A $30M (2026-06-09, Lightspeed-led; Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity Ventures participated) added to sv-angel.md portfolio with 3 independent primary citations (TechCrunch, Artificial Lawyer, Today's Startup News). Prior Sandstone Seed $10M (2026-01-13, Sequoia-led) also added as separate portfolio row. Recent 10 portfolio entries (Sandstone Series A, Sandstone Seed, Adaptive Innovations, Novella, Lio, Corgi, Hippocratic AI, plus historical) all have full YYYY-MM-DD dates or clearly-marked founding-year proxies — no vague facts in recent entries."
   added: 2026-06-09
+  status: resolved
 - slug: operator-partners
   type: firm
   reason: "RESOLVED 2026-06-10 — Sandstone Series A $30M (2026-06-09, Lightspeed-led; Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity Ventures participated) added to operator-partners.md portfolio with 3 independent primary citations (TechCrunch, Artificial Lawyer, PYMNTS). All 3 sources explicitly name Operator Partners as participant; Lightspeed's own blog post confirms round date/amount but does not enumerate participants. last_verified_investment added (Sandstone 2026-06-09). Sandstone startup profile already published with operator-partners in firms[] frontmatter."
@@ -428,8 +429,9 @@ priority:
   status: unresolvable
 - slug: y-combinator
   type: firm
-  reason: "follow-on Stepful Series C $55M (2026-06-08)"
+  reason: "RESOLVED 2026-06-09 — Stepful Series C $55M (2026-06-08, Oak HC/FT-led; Y Combinator existing follow-on participant) added to portfolio with 3 independent primary citations (TheNextWeb [^43], citybiz [^44], JustAINews [^45]). All 3 sources independently confirm YC as existing investor alongside Intermountain Health, SemperVirens, ECMC Education Impact Fund; new investors Foresite Capital, Hearst Ventures, Citi Impact Fund. Stepful is W21 YC batch. Recent 10 portfolio entries reviewed (Avoca through Stepful) — batch year entries (Avoca W23, Corgi S24, Fazeshift S24, Legora W24) correctly use YC batch designation with round dates fully specified in citations [^32]-[^37]; no vague facts found in recent entries."
   added: 2026-06-09
+  status: resolved
 - slug: incite-ventures
   type: firm
   reason: "RESOLVED 2026-06-10 — Heirloom Carbon Seed date tightened from 2021 to 2021-05-26 per MIT Technology Review primary source (Breakthrough Energy Ventures, Lowercarbon Capital, Prelude Ventures led; Incite confirmed early backer per Incite.org/story/heirloom). Quilt Seed tightened from 2023 to 2023-05-16 per TechCrunch + BusinessWire + FinSMEs (Lowercarbon Capital + Gradient Ventures co-led $9M; Incite participated with MCJ Collective, Garage Capital, Climate Capital, Spacecadet). Quilt status row extended with Series A 2024-04-16 (Energy Impact Partners + Galvanize co-led $33M) and Series B 2025-12-08 (Energy Impact Partners + Galvanize co-led $20M) per TechCrunch articles for each round; Incite participated in all three. Created lean quilt startup profile with full funding history."

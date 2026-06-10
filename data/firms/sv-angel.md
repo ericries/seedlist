@@ -130,6 +130,8 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Sandstone | Series A (participated, $30M; led by Lightspeed Venture Partners) | 2026-06-09 | Legal Tech / AI / Vertical SaaS | Active [^sandstone2026a][^sandstone2026b][^sandstone2026c] |
+| Sandstone | Seed (participated, $10M; led by Sequoia Capital) | 2026-01-13 | Legal Tech / AI / Vertical SaaS | Active [^sandstone2026a][^sandstone2026b] |
 | Adaptive Innovations | Series A (participated, $50M; led by Felicis and Bain Capital Ventures) | 2026-06-02 | Healthcare / AI / Home Health | Active [^adaptive2026] |
 | Novella | Series A | 2026-05-14 | Insurtech | Active [^novella2026] |
 | Google | Angel | 1998 | Consumer Internet | Public (IPO 2004) [^3][^33] |
@@ -438,3 +440,9 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^novella2026]: Reinsurance News, "AI-powered wholesale broker Novella raises $21m for US expansion," May 14, 2026. Accessed May 2026. https://www.reinsurancene.ws/ai-powered-wholesale-broker-novella-raises-21m-for-us-expansion/ — Novella's $21M Series A on May 14, 2026 was led by Brewer Lane Ventures with BoxGroup, Crystal Venture Partners, SV Angel, Avid Ventures, Verissimo Ventures, Blank Ventures, and Arch participating.
 
 [^adaptive2026]: Adaptive Innovations blog, "Introducing Adaptive Innovations and $60M raised in Series A and Seed," June 2, 2026. Accessed June 2026. https://www.adaptive.co/blog/introducing-adaptive-innovations/ — Confirms SV Angel participated in Adaptive Innovations' $50M Series A on June 2, 2026; round led by Felicis and Bain Capital Ventures with Optum Ventures, Sunflower Capital, Conviction, BoxGroup, Dorm Room Fund, and Constellation also participating. Cross-referenced with FinSMEs, "Adaptive Innovations Raises $50M in Series A Funding," June 2026. https://www.finsmes.com/2026/06/adaptive-innovations-raises-50m-in-series-a-funding.html and Home Health Care News, "AI-Powered Home Health Provider Adaptive Innovations Lands $50M Series A," June 2026. https://homehealthcarenews.com/2026/06/ai-powered-home-health-provider-adaptive-innovations-lands-50m-series-a/
+
+[^sandstone2026a]: Marina Temkin, "Sandstone raises $30M to bring AI to in-house legal teams," TechCrunch, June 9, 2026. Accessed June 2026. https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/ — Confirms SV Angel participated in Sandstone's $30M Series A on June 9, 2026, led by Lightspeed Venture Partners with Mantis VC, Operator Partners, Kearny Jackson, Daybreak Ventures, and Litquidity Ventures. Also confirms SV Angel participated in the prior $10M seed round (January 2026) led by Sequoia Capital.
+
+[^sandstone2026b]: "Sandstone Raises $30m For AI-Native Inhouse Teams," Artificial Lawyer, June 9, 2026. Accessed June 2026. https://www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams/ — Independently confirms SV Angel as a participant in Sandstone's $30M Series A led by Lightspeed.
+
+[^sandstone2026c]: "Sandstone Raises $30 Million Series A Led by Lightspeed," Today's Startup News, June 2026. Accessed June 2026. https://www.todaysstartupnews.com/funding/sandstone-raises-30-million-series-a-lightspeed-ai-in-house-legal-teams-workflow — Third independent confirmation of SV Angel's participation in the Sandstone Series A.

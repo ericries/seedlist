@@ -87,11 +87,11 @@ This table represents a sample of verified investments. Operator Partners report
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Sandstone | Series A | 2026-06-09 | Legal Tech/AI | [^38][^39][^40] |
-| Apella | Series B | 2026 | Healthcare/AI | [^20] |
-| Serval | Series A | 2025 | IT Automation/AI | [^24] |
-| Estuary | Series A | 2025 | Data Infrastructure | [^25] |
-| Composio | Series A | 2025 | Developer Tools/AI | [^26] |
-| 1Fort | Series A | 2025 | Cybersecurity | [^27] |
+| Apella | Series B | 2026-01-08 | Healthcare/AI | [^20] |
+| Serval | Series A | 2025-10-21 | IT Automation/AI | [^24] |
+| Estuary | Series A | 2025-10-21 | Data Infrastructure | [^25] |
+| Composio | Series A | 2025-07-22 | Developer Tools/AI | [^26] |
+| 1Fort | Series A | 2025-04-17 | Cybersecurity | [^27] |
 | Spring Health | Series B | 2020 | Digital Health | [^19] |
 | Whatnot | Seed | 2020 | E-commerce/Marketplace | [^28] |
 | Plaid | Seed | 2013 | Fintech | [^29] |
