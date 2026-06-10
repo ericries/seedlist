@@ -93,11 +93,11 @@ Based on 75 verified venture investments from Incite's portfolio page [^8], the 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Heirloom Carbon | Seed | 2021 | Carbon removal | Active (raised $150M Series B, 2024) | [^8][^9][^10] |
+| Heirloom Carbon | Seed | 2021-05-26 | Carbon removal | Active (raised $150M Series B, 2024) | [^8][^9][^10][^14] |
 | AMP Robotics | Early | ~2018 | Recycling robotics | Active | [^8] |
 | Charm Industrial | Early | ~2020 | Carbon removal | Active | [^8] |
 | Mill | Seed | ~2022 | Food waste | Active (founded by Incite co-founder Matt Rogers) | [^8][^11] |
-| Quilt | Seed ($9M round) | 2023 | Heat pumps | Active (raised $33M Series A, $20M Series B) | [^8][^12] |
+| Quilt | Seed ($9M round) | 2023-05-16 | Heat pumps | Active (raised $33M Series A 2024-04-16, $20M Series B 2025-12-08) | [^8][^12][^15][^16] |
 | Gradient | Early | ~2020 | HVAC/climate | Active | [^8] |
 | Antora Energy | Early | ~2019 | Thermal energy storage | Active | [^8] |
 | Windfall Bio | Early | ~2021 | Methane conversion | Active | [^8] |
@@ -218,3 +218,6 @@ No additional independently sourced founder testimonials found beyond Incite's o
 [^11]: Incite.org, "Mill — Portfolio Story," accessed April 2026. https://www.incite.org/story/mill/
 [^12]: TechCrunch, "Quilt raises $9M seed round to become the Nest of heat pumps," May 2023. https://techcrunch.com/2023/05/16/quilt-smart-heat-pumps-seed-funding/
 [^13]: Causeartist, "Monarch Tractor Secures Record-Breaking $133M Series C Funding in Agricultural Robotics," 2024. https://www.causeartist.com/monarch-tractor-secures-record-breaking-133m-series-c-funding-in-agricultural-robotics/
+[^14]: MIT Technology Review, "A startup using minerals to draw down CO2 has scored funding – and its first buyer," May 26, 2021. https://www.technologyreview.com/2021/05/26/1025402/heirloom-stripe-breakthrough-energy-lowercarbon-carbon-removal/
+[^15]: BusinessWire, "Lowercarbon Capital and Gradient Ventures Invest $9M in Quilt for Advanced Residential Heat Pump System," May 16, 2023. https://www.businesswire.com/news/home/20230516005499/en/Lowercarbon-Capital-and-Gradient-Ventures-Invest-%249M-in-Quilt-for-Advanced-Residential-Heat-Pump-System
+[^16]: TechCrunch, "Heat pump startup Quilt raises $20M Series B to expand sales," December 8, 2025. https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/
