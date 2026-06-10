@@ -160126,7 +160126,8 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution_note: 'Resolved to 2023-03 (Series D, $154M at $1.6B val) per TechCrunch 2023-08-03 retrospective citing March 2023 round; Altos Ventures listed among Series D investors per Tracxn. Stage corrected from "Growth" to "Series D". Citation [^29] added.'
+  resolution_note: Resolved to 2023-03 (Series D, $154M at $1.6B val) per TechCrunch 2023-08-03 retrospective citing March 2023 round; Altos Ventures listed among Series D investors per Tracxn. Stage corrected
+    from "Growth" to "Series D". Citation [^29] added.
 - profile: firms/altos-ventures
   profile_name: Altos Ventures
   company: PermitFlow
@@ -160137,7 +160138,8 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution_note: 'Resolved to 2025-12-02 (Series B, $54M led by Accel) per BusinessWire/PermitFlow blog/Finsmes. Existing footnote [^24] already cited Dec 2025 reporting; row had wrong stage (Series A) and year (2024) — corrected to Series B / 2025-12-02. Citation [^30] added.'
+  resolution_note: Resolved to 2025-12-02 (Series B, $54M led by Accel) per BusinessWire/PermitFlow blog/Finsmes. Existing footnote [^24] already cited Dec 2025 reporting; row had wrong stage (Series A)
+    and year (2024) — corrected to Series B / 2025-12-02. Citation [^30] added.
 - profile: firms/altos-ventures
   profile_name: Altos Ventures
   company: PureSpace
@@ -160148,7 +160150,8 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution_note: 'Resolved to 2025-12-16 (Series A, KRW 6B / ~$4.1M, Altos Ventures sole lead) per VentureSquare and WowTale. Sector corrected from PropTech to Food Tech (fresh-food shelf-life extension). Citations [^31][^32] added.'
+  resolution_note: Resolved to 2025-12-16 (Series A, KRW 6B / ~$4.1M, Altos Ventures sole lead) per VentureSquare and WowTale. Sector corrected from PropTech to Food Tech (fresh-food shelf-life extension).
+    Citations [^31][^32] added.
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Cartography Biosciences
@@ -160158,7 +160161,9 @@ vague_facts:
   line: '| Cartography Biosciences | Series B | 2025 | Oncology biotech | Active [^14] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-06-10'
+  note: Cartography Biosciences Series B 2025-10-02 confirmed via BusinessWire and FinSMEs; $67M led by Pfizer with AME Cloud Ventures as existing investor. AME Cloud Ventures portfolio table updated.
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Flint
@@ -160408,7 +160413,9 @@ vague_facts:
   line: '| Exowatt | Series A | 2024 | Energy | Active [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-06-10'
+  note: Exowatt Seed 2024-04-22 confirmed via BusinessWire and exowatt.com blog; Atomic participated in $20M Seed led by a16z with Sam Altman. Atomic portfolio table updated.
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: AppFlowy

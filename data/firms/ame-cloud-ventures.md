@@ -104,7 +104,7 @@ Based on 17 independently verified portfolio investments (out of 252–395 repor
 | Evernote | Early | ~2012 | Productivity software | Active [^3] |
 | Wattpad | Early | ~2013 | Content platform | Acquired by Naver 2021 [^3] |
 | Tango | Early | ~2012 | Video messaging | Inactive [^3] |
-| Cartography Biosciences | Series B | 2025 | Oncology biotech | Active [^14] |
+| Cartography Biosciences | Series B | 2025-10-02 | Oncology biotech | Active [^14][^17][^18] |
 | Flint | Series A | 2025 | AI / EdTech | Active [^7] |
 
 *Note: Most early investments (2012–2014) lack confirmed round dates — years marked ~YYYY are inferred from company founding and fundraising timelines. This table represents approximately 7% of a reported 252+ investments; it is not a complete portfolio record.*
@@ -149,3 +149,7 @@ No additional independently sourced testimonials from AME Cloud Ventures portfol
 [^14]: VCNewsDaily, "Cartography Biosciences Inks $67M Series B," October 2, 2025. https://vcnewsdaily.com/cartography-biosciences/venture-capital-funding/pnfvkmdnbv
 [^15]: New Atlas, "Planet Labs raises $52 million for fleet of satellites," December 18, 2013. https://newatlas.com/planet-labs-satellite-funding/30180/
 [^16]: TechCrunch, "Under the hood on Zoom's IPO, with founder and CEO Eric Yuan," May 17, 2019. https://techcrunch.com/2019/05/17/under-the-hood-on-zooms-ipo-with-founder-and-ceo-eric-yuan/
+
+[^17]: BusinessWire, "Cartography Secures $67 Million Series B Financing to Advance Differentiated Oncology Pipeline of Antibody-Based Therapies into the Clinic," October 2, 2025. Accessed June 2026. https://www.businesswire.com/news/home/20251002482177/en/Cartography-Secures-$67-Million-Series-B-Financing-to-Advance-Differentiated-Oncology-Pipeline-of-Antibody-Based-Therapies-into-the-Clinic — Confirms Pfizer-led $67M Series B with AME Cloud Ventures as participating existing investor; announcement date October 2, 2025.
+
+[^18]: FinSMEs, "Cartography Raises $67M in Series B Funding," October 2, 2025. Accessed June 2026. https://www.finsmes.com/2025/10/cartography-raises-67m-in-series-b-funding.html — Independent confirmation of Series B amount, lead investor (Pfizer), and AME Cloud Ventures participation.

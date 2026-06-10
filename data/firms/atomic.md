@@ -102,7 +102,7 @@ Based on 18 verified portfolio companies from Atomic's website [^6]:
 | Bungalow | Series C | 2016 | Real Estate | Active [^6] |
 | Butter | Series A | 2020 | FinTech | Active [^6] |
 | Elly | Seed | 2023 | AI | Active [^6] |
-| Exowatt | Series A | 2024 | Energy | Active [^6] |
+| Exowatt | Seed | 2024-04-22 | Energy | Active [^6][^10][^11] |
 | Found | Series B | 2020 | Healthcare | Active [^6] |
 | Hims & Hers | IPO (NYSE: HIMS) | 2017 | Healthcare | Public [^6] |
 | Homebound | Series C | 2017 | Real Estate | Active [^6] |
@@ -148,3 +148,7 @@ Note: The above founder quotes are sourced from Atomic's own website and should 
 [^8]: The Register, "Palantir and Anduril form partnership, as Sauron funded," December 9, 2024, accessed May 2026. https://www.theregister.com/2024/12/09/palantir_anduril_alliance/ — Contemporaneous press confirming Sauron's $18M seed.
 
 [^9]: TechCrunch, "Sauron, the high-end home security startup for 'super premium' customers, plucks a new CEO out of Sonos," December 28, 2025, accessed May 2026. https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/ — Reports $24M total raised by late 2025 from executives at Flock Safety and Palantir, 8VC, Atomic, and A*.
+
+[^10]: BusinessWire, "Exowatt Launches with $20 Million to Modernize Data Center Power for the AI Era," April 22, 2024, accessed June 2026. https://www.businesswire.com/news/home/20240422640698/en/Exowatt-Launches-with-$20-Million-to-Modernize-Data-Center-Power-for-the-AI-Era — Confirms $20M Seed led by Andreessen Horowitz with participation from Atomic and Sam Altman, announced April 22, 2024.
+
+[^11]: Exowatt, "Exowatt Secures $20M to Power the AI Era with Next-Gen Renewable Energy," April 22, 2024, accessed June 2026. https://www.exowatt.com/blog/exowatt-secures-20m-to-power-the-ai-era-with-next-generation-renewable-energy — Company's own announcement confirming seed round date and investor list (a16z, Atomic, Sam Altman).
