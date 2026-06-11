@@ -470,3 +470,15 @@ priority:
   reason: "RESOLVED 2026-06-11 — Aryon Security Series A $29M (2026-06-10, Brightmind Partners led with Skinos Ventures co-leading per CTech; Datadog Ventures, Blumberg Capital, Viola Ventures participated; angels include Yevgeny Dibrov, Nadir Izrael, George Kurtz) VERIFIED via 2 independent primary sources: BusinessWire press release (via WebSearch summary) and CTech (calcalistech.com/ctechnews/article/rjg0xcubmg). Pi Series A $25M (2026-06-10, Third Point Ventures led; Brightmind Partners participated; angels Yevgeny Dibrov, Nadir Izrael, George Kurtz) VERIFIED via 2 independent primary sources: Yahoo Finance (Pi press release) and CTech (calcalistech.com/ctechnews/article/hyu11dri11fg). Note: Pi $10M Seed (early 2025) was led by Brightmind Partners — Dibrov participation in seed not confirmed by primary sources, so only Series A row added. Both portfolio rows added with citations [^22][^23][^24][^25]. last_verified_investment updated from Spirit 2026-01 to Aryon Security 2026-06-10. Inferred Thesis updated from 10 to 12 verified investments; stage distribution now Seed 83%, Series A 17%; cybersecurity concentration up to 75% (9/12)."
   added: 2026-06-11
   status: resolved
+- slug: air-street-capital
+  type: firm
+  reason: "led Alta Ares Series A €50M (2026-06-09) — firm not yet profiled"
+  added: 2026-06-11
+- slug: viking-global-investors
+  type: firm
+  reason: "led GT Medical Technologies Series E $100M (2026-06-09) — firm not yet profiled"
+  added: 2026-06-11
+- slug: molten-ventures
+  type: firm
+  reason: "led Isar Aerospace Series D €270M (2026-06-09) — firm not yet profiled"
+  added: 2026-06-11
