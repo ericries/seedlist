@@ -98,10 +98,10 @@ This table represents a selection of Bloomberg Beta's 360+ investments. Sample d
 | On Deck | Seed | ~2020 | Professional Network | Active [^9] |
 | Chef Robotics | Seed | ~2021 | Robotics/AI | Active [^9] |
 | Chroma | Seed | ~2022 | AI Infrastructure | Active [^9] |
-| Guardrails AI | Seed | ~2023 | AI Safety | Active [^9] |
+| Guardrails AI | Seed | 2024-02-15 | AI Safety | Active [^15] |
 | Useful Sensors | Seed | ~2022 | Hardware/AI | Active [^9] |
 | Airspace Intelligence | Seed | ~2020 | AI/Aviation | Active [^9] |
-| Armstrong Robotics | Seed | ~2023 | Robotics | Active [^9] |
+| Armstrong Robotics | Seed | 2025-10-16 | Robotics | Active [^16] |
 | Bluesky | Seed | 2025 | Social Media | Active [^9] |
 
 *Note: Many years shown are approximate, based on founding year as proxy where exact investment date is unavailable. This table represents approximately 7% of Bloomberg Beta's 360+ total investments. Years marked with ~ indicate founding year used as proxy.*
@@ -154,3 +154,5 @@ Ryan Petersen, founder and CEO of Flexport: "I listened to Roy, and I really app
 [^12]: Crunchbase News, "The Future Of Work (May) Come To You Courtesy Of Bloomberg Beta," accessed March 2026. https://news.crunchbase.com/venture/future-work-may-come-courtesy-bloomberg-beta/
 [^13]: Multiple interviews with Roy Bahat, including Aspen Institute and Colony Medium, accessed March 2026. https://www.aspeninstitute.org/blog-posts/empowering-the-workforce-roy-bahat-on-the-future-of-work/
 [^14]: Bloomberg L.P., "Bloomberg Beta" page, accessed March 2026. https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/
+[^15]: GlobeNewswire, "Guardrails AI is Solving the LLM Reliability Problem for AI Developers With $7.5 Million in Seed Funding," February 15, 2024, accessed June 2026. https://www.globenewswire.com/news-release/2024/02/15/2830261/0/en/Guardrails-AI-is-Solving-the-LLM-Reliability-Problem-for-AI-Developers-With-7-5-Million-in-Seed-Funding.html
+[^16]: Newswire, "Armstrong Raises $12M to Bring General-Purpose Robots to Kitchens," October 16, 2025, accessed June 2026. https://www.newswire.com/news/armstrong-raises-12m-to-bring-general-purpose-robots-to-kitchens-22659296

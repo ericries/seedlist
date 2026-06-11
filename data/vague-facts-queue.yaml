@@ -160720,7 +160720,8 @@ vague_facts:
   line: '| Guardrails AI | Seed | ~2023 | AI Safety | Active [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: 2024-02-15 seed $7.5M led by Zetta Venture Partners; Bloomberg Beta participated. Verified GlobeNewswire press release + finsmes + SaaS News.
 - profile: firms/bloomberg-beta
   profile_name: Bloomberg Beta
   company: Armstrong Robotics
@@ -160730,7 +160731,8 @@ vague_facts:
   line: '| Armstrong Robotics | Seed | ~2023 | Robotics | Active [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: 2025-10-16 seed $12M; Bloomberg Beta participated. Verified Newswire press release + AI Insider + finsmes.
 - profile: firms/bloomberg-beta
   profile_name: Bloomberg Beta
   company: Bluesky
