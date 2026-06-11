@@ -2,7 +2,7 @@
 founded: 2014
 fund_size: '$1B+ AUM across five funds (OV1: $123M, OV2: $192M, OV3: $272M, OV4: $355M,
   OV5: $360M)'
-last_researched: 2026-05-01
+last_researched: 2026-06-03
 location: San Francisco, CA
 name: Obvious Ventures
 sector_focus:
@@ -74,14 +74,14 @@ The firm organizes investments across three pillars [^1][^3]:
 
 ## Inferred Thesis
 
-Based on the 35 verified portfolio companies below, Obvious Ventures' actual investment behavior closely aligns with its stated thesis — a rarity in venture capital.
+Based on the 36 verified portfolio companies below, Obvious Ventures' actual investment behavior closely aligns with its stated thesis — a rarity in venture capital.
 
 **Stage focus:** The firm primarily leads Seed and Series A rounds, though its portfolio also includes later-stage entries such as Beyond Meat (Series D) and Gusto (Series C) [^10][^12]. Early in its history, the firm had limited ownership stakes, but has since shifted to leading rounds to improve venture economics [^3]. Check sizes range from $250K to $6M [^8].
 
-**Sector distribution (based on 35 verified companies):**
-- Planetary Health: 14 of 35 (40%) — including climate tech, energy, transportation, agriculture
-- Human Health: 11 of 35 (31%) — including healthcare delivery, biotech, digital health
-- Economic Health: 10 of 35 (29%) — including fintech, SMB software, insurance, workforce
+**Sector distribution (based on 36 verified companies):**
+- Planetary Health: 14 of 36 (39%) — including climate tech, energy, transportation, agriculture
+- Human Health: 11 of 36 (31%) — including healthcare delivery, biotech, digital health
+- Economic Health: 11 of 36 (31%) — including fintech, SMB software, insurance, workforce, AI security
 
 The distribution is relatively balanced across the three pillars, with a slight tilt toward planetary health — consistent with the firm's early marquee bets in Beyond Meat, Diamond Foundry, and Proterra.
 
@@ -131,10 +131,11 @@ The distribution is relatively balanced across the three pillars, with a slight 
 | Arbor | Seed | 2020 | Planetary Health / Carbon | Active | [^1] |
 | Aifleet | Seed | 2020 | Planetary Health / Logistics | Active | [^1] |
 | Bakpax | Seed | 2017 | Economic Health / EdTech | Acquired | [^1] |
-| All In Food | Seed | 2025 | Human Health / Food | Active | [^1] |
+| All In Food | Seed (led, $4M) | 2025-06-18 | Human Health / Food | Active | [^1][^18][^19][^20] |
 | Iterative Health | Series C | 2026-04-30 | Human Health / Clinical Trials AI | Active | [^14] |
+| Gray Swan | Series A | 2026-05-28 | Economic Health / AI Security | Active | [^15][^16][^17] |
 
-*This table represents 35 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
+*This table represents 36 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
 
 ## In Their Own Words
 
@@ -164,3 +165,9 @@ No independently sourced founder testimonials were found during this research pa
 [^12]: Tracxn, "Gusto - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/gusto/__r39qcho5DsYzXK9T9DN30891FFAcpuYHRjgMN3eqRlo/funding-and-investors
 [^13]: Tracxn, "Devoted Health - 2026 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/devoted-health/__nmiBadft21nnUP-nWEEAloTvR_grXaYBipctTJsUys4/funding-and-investors
 [^14]: BioSpace, "Iterative Health Closes $77 Million Series C to Accelerate the Future of Clinical Research," April 30, 2026. Series C co-led by Intrepid Growth Partners and GV with participation from existing investors including Obvious Ventures. https://www.biospace.com/press-releases/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research
+[^15]: Gray Swan, "Gray Swan Announces Series A," May 28, 2026. Co-led by Wing Venture Capital and Madrona with participation from Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, and Magarac Venture Partners. Accessed June 2026. https://www.grayswan.ai/news/gray-swan-announces-series-a
+[^16]: NatLawReview (EIN Press), "Gray Swan, The AI Security Company Trusted by Every Major Frontier Lab, Raises $40M Series A," May 2026. Accessed June 2026. https://natlawreview.com/press-releases/gray-swan-ai-security-company-trusted-every-major-frontier-lab-raises-40m
+[^17]: Technical.ly, "AI security startup Gray Swan raises $40M Series A with plans to grow its team," May 2026. Accessed June 2026. https://technical.ly/entrepreneurship/gray-swan-ai-security-40m-series-a/
+[^18]: PR Newswire, "All In Food Closes $4M Led by Obvious Ventures and Launches In Retail," June 18, 2025. Accessed June 2026. https://www.prnewswire.com/news-releases/all-in-food-closes-4m-led-by-obvious-ventures-and-launches-in-retail-302484492.html
+[^19]: All In Food company blog, "All In Food Closes $4M Led by Obvious Ventures and Launches at Starbucks," June 2025. Accessed June 2026. https://allinfood.com/blogs/partners/all-in-food-closes-4m-led-by-obvious-ventures-and-launches-at-starbucks
+[^20]: FinSMEs, "All In Foods Raises $4M in Funding," June 2025. Accessed June 2026. https://www.finsmes.com/2025/06/all-in-foods-raises-4m-in-funding.html

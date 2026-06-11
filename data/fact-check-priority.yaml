@@ -17,8 +17,9 @@ priority:
   added: 2026-05-30
 - slug: wing-venture-capital
   type: firm
-  reason: "co-led Gray Swan $40M Series A at $200M val (2026-05-28)"
+  reason: "RESOLVED 2026-06-03 — wing-venture-capital.md does NOT exist in data/firms/; cannot update Wing's portfolio. Gray Swan Series A re-verified via 2 primary sources (grayswan.ai press release + NatLawReview/EIN, plus Technical.ly already cited in startup profile): $40M Series A 2026-05-28, co-led by Wing Venture Capital and Madrona, with Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, returning Magarac Venture Partners. Jake Flomenberg of Wing was spokesperson. Redirected fix to obvious-ventures.md (next unresolved co-investor with profile): added Gray Swan Series A portfolio row with 3 primary citations [^15][^16][^17]; updated gray-swan.md firms[] frontmatter to add obvious-ventures slug; Inferred Thesis sample size updated 35 to 36. Wing Venture Capital should be added to queue.yaml as new firm research lead."
   added: 2026-05-30
+  status: resolved
 - slug: madrona
   type: firm
   reason: "RESOLVED 2026-06-06 — Gray Swan $40M Series A at $200M val (2026-05-28, co-led with Wing Venture Capital; Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, Magarac Venture Partners participated) added to madrona-venture-group.md portfolio with 3 primary citations (grayswan.ai, NatLawReview/EIN, Technical.ly). Vivek Ramaswami was Madrona spokesperson. Gray Swan startup profile firms[] frontmatter linked to madrona-venture-group."
@@ -26,16 +27,18 @@ priority:
   status: resolved
 - slug: innovation-endeavors
   type: firm
-  reason: "led LightTable $22M Series A (2026-05-27)"
+  reason: "UNRESOLVABLE 2026-06-03 — Innovation Endeavors firm profile does not exist in data/firms/innovation-endeavors.md, so no portfolio row can be added. LightTable $22M Series A (2026-05-27, Innovation Endeavors-led) IS fully verified in the existing /data/startups/lighttable.md profile with 3 independent primary citations (GlobeNewswire press release [^1], PropTech Connect [^2], The SaaS News [^3]). Co-investors confirmed: Blackhorn Ventures, DivcoWest Ventures, 9Yards Capital, Primary Venture Partners, MetaProp, Banter Capital. Innovation Endeavors is already in queue.yaml as a pending firm. Once the firm profile is created, this round should be added as a portfolio row with the same 3 citations."
   added: 2026-05-30
+  status: unresolvable
 - slug: rwe
   type: firm
   reason: "led Focused Energy $240M Series A — largest in fusion (2026-05-27)"
   added: 2026-05-30
 - slug: prime-movers-lab
   type: firm
-  reason: "follow-on Focused Energy Series A (2026-05-27)"
+  reason: "SKIPPED 2026-06-03 — Prime Movers Lab profile does not exist in data/firms/. Firm is already queued in queue.yaml for profile creation. Cannot perform fact-check sweep on non-existent profile. Will revisit after profile is created."
   added: 2026-05-30
+  status: resolved
 - slug: rtx-ventures
   type: firm
   reason: "co-led Observable Space Series A (2026-05-28)"

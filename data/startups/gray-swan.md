@@ -21,6 +21,10 @@ firms:
   round: series-a
   year: 2026
   date: 2026-05-28
+- slug: obvious-ventures
+  round: series-a
+  year: 2026
+  date: 2026-05-28
 founders:
 - name: Matt Fredrikson
   role: Co-Founder & CEO
