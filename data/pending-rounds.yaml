@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden
+    with AI
+  url: https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/
+  source: eu-startups
+  date_found: '2026-06-11'
+  parsed_company: Amsterdam’s OurMind
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: CameraMatics secures up to €49 million to scale AI-powered fleet intelligence
+    platform across Europe and the US
+  url: https://www.eu-startups.com/2026/06/dublins-cameramatics-secures-up-to-e49-million-to-scale-ai-powered-fleet-intelligence-platform-across-europe-and-the-us/
+  source: eu-startups
+  date_found: '2026-06-11'
+  parsed_company: CameraMatics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: French surgical AI startup Uncovr raises €6 million to turn surgical video
     into clinical records
   url: https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/
@@ -863,22 +881,4 @@ pending_rounds:
   parsed_company: UK’s Oxford Quantum Circuits
   parsed_amount: null
   parsed_round: Series C
-  status: skipped
-- title: Factorial raises €129 million, reaching €2.1 billion valuation to become
-    on of Europe’s most valuable scale-ups
-  url: https://www.eu-startups.com/2026/06/factorial-raises-e129-million-reaching-e2-1-billion-valuation-to-become-on-of-europes-most-valuable-scale-ups/
-  source: eu-startups
-  date_found: '2026-06-03'
-  parsed_company: Factorial
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-- title: CEA-Leti and CNRS spin-off Quobly raises €115 million to industrialise silicon-based
-    quantum computers
-  url: https://www.eu-startups.com/2026/06/cea-leti-and-cnrs-spin-off-quobly-raises-e115-million-to-industrialise-silicon-based-quantum-computers/
-  source: eu-startups
-  date_found: '2026-06-03'
-  parsed_company: CEA-Leti and CNRS spin-off Quobly
-  parsed_amount: null
-  parsed_round: null
   status: skipped
