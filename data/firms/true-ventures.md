@@ -71,6 +71,7 @@ Notable investments where the firm or a named True partner participated:
 | Sandbar | Early | 2025 | — | Voice/wearable | Active [^8] |
 | Nectar Social | Seed → Series A | 2025-06 / 2026-05-14 | — | AI / MarTech / Social Commerce | Active [^16] |
 | Flick | Seed (lead) | 2026-05-14 | — | AI / Filmmaking | Active [^21] |
+| Concentrate AI | Pre-Seed (co-led with RRE Ventures) | 2026-06-10 | — | AI / LLM infrastructure | Active [^29] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -141,3 +142,5 @@ No additional independently sourced founder testimonials specifically about work
 [^27]: BusinessWire, "AgTech Startup Wefarm Secures New Financing Round Led by True Ventures," March 13, 2018. Accessed May 2026. https://www.businesswire.com/news/home/20180313006119/en/AgTech-Startup-Wefarm-Secures-New-Financing-Round-Led-by-True-Ventures — Confirms WeFarm's $5M seed round led by True Ventures in March 2018, with Skype founder Niklas Zennström, WordPress founder Matt Mullenweg, Bryan Meehan (Blue Bottle), Norrsken Foundation, LocalGlobe, and Accelerated Digital Ventures participating.
 
 [^28]: UKTN, "Wefarm secures $13m Series A funding," November 1, 2019. Accessed May 2026. https://www.uktech.news/funding/vc-funding/wefarm-secures-13m-series-a-funding-20191101 — Confirms WeFarm's $13M Series A in October/November 2019 led by True Ventures, with AgFunder, June Fund, LocalGlobe, ADV, and Norrsken Foundation participating.
+
+[^29]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/10/2026," June 10, 2026. Accessed June 11, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-10-2026/ — Confirms Concentrate AI's $5.1M pre-seed round co-led by True Ventures and RRE Ventures on June 10, 2026.

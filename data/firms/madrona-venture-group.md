@@ -172,6 +172,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Temporal | Seed | 2020 | Developer Platforms & Tools | Active [^23] |
 | Ridge AI | Pre-Seed | 2026 | AI & Intelligent Apps | Active [^30] |
 | Gray Swan | Series A | 2026-05-28 | Security (AI Safety) | Active ($40M Series A at $200M val, co-led with Wing Venture Capital; Vivek Ramaswami quoted; Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, Magarac Venture Partners participated) [^72][^73][^74] |
+| Golden Analytics | Seed Extension | 2026-06-09 | AI & Intelligent Apps | Active ($14M seed extension led by Insight Partners; NEA and Madrona re-upped; brings total seed to $21M) [^75][^76] |
 
 ## In Their Own Words
 
@@ -286,3 +287,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^72]: Gray Swan, "Gray Swan Announces Series A," May 28, 2026, accessed June 2026. https://www.grayswan.ai/news/gray-swan-announces-series-a
 [^73]: NatLawReview / EIN Press, "Gray Swan, The AI Security Company Trusted by Every Major Frontier Lab, Raises $40M Series A," May 28, 2026, accessed June 2026. https://natlawreview.com/press-releases/gray-swan-ai-security-company-trusted-every-major-frontier-lab-raises-40m
 [^74]: Technical.ly, "AI security startup Gray Swan raises $40M Series A with plans to grow its team," May 28, 2026, accessed June 2026. https://technical.ly/entrepreneurship/gray-swan-ai-security-40m-series-a/
+
+[^75]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Confirms Madrona re-upped in Insight-led $14M seed extension alongside NEA. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
+
+[^76]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html

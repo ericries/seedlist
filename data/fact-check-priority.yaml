@@ -445,3 +445,23 @@ priority:
   reason: "RESOLVED 2026-06-10 — Tightened 7 year-only portfolio dates using existing primary-source citations (BusinessWire URL slugs encode YYYYMMDD; Goodwin Law header date verified via WebFetch). Updates: Syremis Therapeutics Series A $165M (2025 → 2025-12-18, Goodwin Law 2025-12-19 release [^13]); Clasp Therapeutics Series A $150M (2024 → 2024-03, Fierce Biotech March 2024 [^21]); Synnovation Therapeutics Series A $102M (2024 → 2024-01, BioSpace January 2024 [^22]); ArtBio Series A $90M (2023 → 2023-12, PR Newswire December 2023 [^23]); Trace Neuroscience Series A $101M (2024 → 2024-11-12, BusinessWire URL 20241112 [^24]); Marea Therapeutics Series A+B $190M (2024 → 2024-06-17, BusinessWire URL 20240617 [^25]); Rapport Therapeutics Series A $100M (2023 → 2023-03-07, BusinessWire URL 20230307 [^26]). Inferred Thesis text updated from 'Syremis 2025' to 'December 2025'. No new citations added — all resolutions derived from dates already encoded in existing source URLs/headers."
   added: 2026-06-10
   status: resolved
+- slug: insight-partners
+  type: firm
+  reason: "led Golden Analytics $14M seed extension (2026-06-09)"
+  added: 2026-06-11
+- slug: nea
+  type: firm
+  reason: "participated in Golden Analytics seed extension (2026-06-09)"
+  added: 2026-06-11
+- slug: madrona-venture-group
+  type: firm
+  reason: "participated in Golden Analytics seed extension (2026-06-09)"
+  added: 2026-06-11
+- slug: true-ventures
+  type: firm
+  reason: "co-led Concentrate AI $5.1M pre-seed (2026-06-10)"
+  added: 2026-06-11
+- slug: yevgeny-dibrov
+  type: investor
+  reason: "angel-invested in Aryon Security and Pi $35M (2026-06-10)"
+  added: 2026-06-11
