@@ -183,6 +183,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Neuralink | Early | ~2016 (founded) | Biotech / Neural Interface | Private [^20] |
 | OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
 | Enter | Series B (led) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^46][^47] |
+| Endurance Energy | Series A (led) | 2026-06-11 | Energy / Geothermal / Climate | Private [^67] |
 | Cognition | Series A (led) 2024-03-12; $1B+ growth (participant at $26B post-money; Lux/General Catalyst/8VC co-led) 2026-05-27 | 2024-03-12; 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^20][^36][^37][^38][^61] |
 | Nubank | Series C | ~2014 | Fintech / Banking | Public (IPO 2021) [^2] |
 | Trade Republic | Growth | ~2019 (founded) | Fintech / Brokerage | Private [^20] |
@@ -414,3 +415,5 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^65]: DroneXL, "Westmag Raises $11M To Build American Drone Motors, Betting Scale Beats China On Price," June 3, 2026. Accessed June 2026. https://dronexl.co/2026/06/03/westmag-11m-american-drone-motors-fcc-ban/ — Independent confirmation of $11M Seed led by Andreessen Horowitz with participation from Founders Fund, Lux Capital, NFDG, and Menlo Ventures.
 
 [^66]: The AI Insider, "Westmag Emerges From Stealth With $11M in Seed Funding for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Third independent confirmation of $11M Seed led by Andreessen Horowitz with participation from Founders Fund, Lux Capital, NFDG, and Menlo Ventures.
+
+[^67]: Marina Temkin, "Endurance Energy raises $54M to harness a massive untapped energy source," TechCrunch, June 11, 2026. Accessed June 2026. https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/ — Confirms Founders Fund led Endurance Energy's $54M Series A on June 11, 2026, with participation from Ascend, Construct Capital, Felicis Ventures, First Round Capital, Point72 Ventures, Riot Ventures, and Voyager Ventures. Endurance is developing offshore geothermal power plants; founder/CEO Andrew Redd is a former SpaceX engineer.

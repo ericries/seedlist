@@ -28642,3 +28642,25 @@ queue:
   discovered_from: willem-delbare
   source: Flemish public investment vehicle; co-invested with Delbare on journy.io
     Feb 2021
+- name: Voyager Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: endurance-energy
+  source: co-investor in Endurance Energy Series A (2026-06-11) - climate-focused
+- name: Ascend
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: endurance-energy
+  source: co-investor in Endurance Energy Series A (2026-06-11)
+- name: Andrew Redd
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Endurance Energy
+  discovered_from: endurance-energy
+  source: Founder/CEO of Endurance Energy; former SpaceX engineer (Dragon, Starship)

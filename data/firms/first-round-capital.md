@@ -133,6 +133,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Rillet | Seed | ~2023 | Accounting SaaS | Active | [^1] |
 | Omni | Seed | ~2023 | Enterprise | Active | [^1] |
 | Actively | Series B | 2026-04-28 | AI / Sales | Active | [^9] |
+| Endurance Energy | Series A | 2026-06-11 | Energy / Geothermal | Active | [^24] |
 | Manifest OS | Series A | 2026-04-28 | LegalTech / AI | Active | [^10] |
 | Town | Series A | 2026-06-03 | AI / Consumer | Active (participated; led by a16z) | [^18][^19] |
 | Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
@@ -196,3 +197,5 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^22]: Binti official "About" page, accessed June 2026. https://binti.com/about/ — lists First Round Capital among its top investors alongside Founders Fund, Kapor Capital, Michael Dell, and Lachy Groom.
 
 [^23]: ImpactAlpha, "SJF Ventures backs Binti with $6 million to upgrade child welfare casework," accessed June 2026. https://impactalpha.com/sjf-ventures-backs-binti-with-6-million-to-upgrade-child-welfare-casework/ — names First Round Capital, Founders Fund, Kapor Capital, and Pivotal Ventures as prior backers in the SJF-led June 2026 round.
+
+[^24]: Marina Temkin, "Endurance Energy raises $54M to harness a massive untapped energy source," TechCrunch, June 11, 2026, accessed June 2026. https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/ — Confirms First Round Capital participated in Endurance Energy's $54M Series A on June 11, 2026, led by Founders Fund with Ascend, Construct Capital, Felicis Ventures, Point72 Ventures, Riot Ventures, and Voyager Ventures.

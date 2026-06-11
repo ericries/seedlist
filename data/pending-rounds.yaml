@@ -55,8 +55,10 @@ pending_rounds:
   date_found: '2026-06-11'
   parsed_company: Endurance Energy
   parsed_amount: $54M
-  parsed_round: null
-  status: pending
+  parsed_round: Series A
+  status: processed
+  processed_date: '2026-06-11'
+  notes: 'Created endurance-energy.md; updated founders-fund and first-round-capital portfolios'
 - title: Barcelona-based THEKER raises €73 million Series A to accelerate AI robotics
     deployment
   url: https://www.eu-startups.com/2026/06/barcelona-based-theker-raises-e73-million-series-a-to-accelerate-ai-robotics-deployment/
