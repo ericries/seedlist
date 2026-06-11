@@ -3,9 +3,9 @@ check_size: $5K-$50K
 firm: armis
 last_researched: 2026-03-22
 last_verified_investment:
-  company: Spirit
-  date: 2026-01
-  round: Seed
+  company: Aryon Security
+  date: 2026-06-10
+  round: Series A
 location: Palo Alto, CA
 name: Yevgeny Dibrov
 role: Co-Founder & CEO
@@ -51,19 +51,20 @@ On his own entrepreneurial philosophy, Dibrov has said: "Most people would come 
 
 ## Inferred Thesis
 
-Based on 10 verified angel investments. Dibrov invests small checks ($5K–$50K, with a typical check around $25K) [^10] and often co-invests with his Armis co-founder Nadir Izrael.
+Based on 12 verified angel investments. Dibrov invests small checks ($5K–$50K, with a typical check around $25K) [^10] and often co-invests with his Armis co-founder Nadir Izrael.
 
-**Sector distribution (10 verified investments):**
-- Cybersecurity: 7 of 10 (70%) — Talon Cyber Security, Atmosec, Axiom Security, Wiz, Otterize, Spirit, Daylight
-- AI / MLOps: 1 of 10 (10%) — Aporia
-- Cloud infrastructure / observability: 1 of 10 (10%) — Epsagon
-- Sales tech: 1 of 10 (10%) — Winn.ai
+**Sector distribution (12 verified investments):**
+- Cybersecurity: 9 of 12 (75%) — Talon Cyber Security, Atmosec, Axiom Security, Wiz, Otterize, Spirit, Daylight, Aryon Security, Pi
+- AI / MLOps: 1 of 12 (8%) — Aporia
+- Cloud infrastructure / observability: 1 of 12 (8%) — Epsagon
+- Sales tech: 1 of 12 (8%) — Winn.ai
 
-**Stage distribution (10 verified investments):**
-- Seed: 10 of 10 (100%) — all verified investments are at seed stage
+**Stage distribution (12 verified investments):**
+- Seed: 10 of 12 (83%)
+- Series A: 2 of 12 (17%) — Aryon Security, Pi (both June 2026)
 
 **Geographic focus:**
-- Israel-based startups: 10 of 10 (100%)
+- Israel-based startups: 12 of 12 (100%)
 
 **Founder profile patterns:**
 - Israeli military intelligence veterans (Unit 81, Unit 8200, Talpiot): the vast majority of portfolio companies were founded by alumni of elite military units
@@ -96,6 +97,8 @@ Based on 10 verified angel investments. Dibrov invests small checks ($5K–$50K,
 | Otterize | Seed | 2023 | Cybersecurity (access control) | [^19] |
 | Spirit | Seed | 2026 | Cybersecurity (AI threat detection) | [^20] |
 | Daylight | Seed | 2025 | Cybersecurity (MDR) | [^21] |
+| Aryon Security | Series A | 2026-06-10 | Cybersecurity (cloud security) | [^22][^23] |
+| Pi | Series A | 2026-06-10 | Cybersecurity (agentic AI security) | [^24][^25] |
 
 This table represents approximately 10 verified investments. Tracxn and CB Insights report a portfolio of 6 companies [^10]; the discrepancy is likely because some aggregators do not capture all angel investments, particularly those in very early or undisclosed rounds.
 
@@ -146,3 +149,7 @@ No independently sourced founder testimonials found. Dibrov's angel investing is
 [^19]: PRWeb, "Otterize Emerges Out of Stealth With $11.5M in Seed Funding," April 2023, accessed March 2026. https://www.prweb.com/releases/otterize-emerges-out-of-stealth-with-11-5m-in-seed-funding-and-a-first-of-its-kind-offering-for-developers-automating-secure-service-to-service-access-825023664.html
 [^20]: CTech, "Just three months after launch, cyber startup Spirit valued at $400 million in $50 million raise," January 2026, accessed March 2026. https://www.calcalistech.com/ctechnews/article/b1gts4qnzg
 [^21]: Yahoo Finance, "Daylight Secures $40 Million to Redefine Managed Security Services in the Agentic AI Era," November 2025, accessed March 2026. https://finance.yahoo.com/news/daylight-secures-40-million-redefine-140000681.html
+[^22]: BusinessWire, "Aryon Security Raises $29 Million in Series A Funding to Bring Preventive Enforcement to Modern Cloud Security," June 10, 2026, accessed June 2026. https://www.businesswire.com/news/home/20260610103874/en/Aryon-Security-Raises-29-Million-in-Series-A-Funding-to-Bring-Preventive-Enforcement-to-Modern-Cloud-Security
+[^23]: CTech, "Aryon Security raises $25 million Series A backed by Shlomo Kramer, George Kurtz and Datadog Ventures," June 2026, accessed June 2026. https://www.calcalistech.com/ctechnews/article/rjg0xcubmg
+[^24]: Yahoo Finance, "Pi Raises $35M to Make Security Scale as Fast as Code," June 10, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/pi-raises-35m-security-scale-130000495.html
+[^25]: CTech, "Former Microsoft and Tesla security leaders emerge with $35 million for Pi," June 2026, accessed June 2026. https://www.calcalistech.com/ctechnews/article/hyu11dri11fg

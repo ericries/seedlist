@@ -1,7 +1,7 @@
 ---
 check_size: $100K-$5M
 firm: mischief
-last_researched: 2026-03-23
+last_researched: 2026-06-03
 last_verified_investment:
   company: Tivara
   date: ~2026
@@ -54,25 +54,24 @@ Perret has stated that Mischief's approach is "hyper people-driven" — they "wa
 
 ## Inferred Thesis
 
-Based on 16 verified investments attributed to Zach Perret personally (angel) and Mischief (fund), compiled from Tracxn, press releases, and TechCrunch articles. Tracxn reports 12 personal angel investments; Crunchbase reports up to 34 total investments [^10] [^11]. This analysis covers approximately 47% of the Crunchbase-reported total.
+Based on 14 verified investments attributed to Zach Perret personally (angel) and Mischief (fund), compiled from Tracxn, press releases, and TechCrunch articles. Tracxn reports 12 personal angel investments; Crunchbase reports up to 34 total investments [^10] [^11]. This analysis covers approximately 41% of the Crunchbase-reported total.
 
-**Sector distribution (16 verified investments):**
-- Fintech / financial infrastructure: 6 of 16 (38%) — SentiLink, Metronome, Fragment, Comulate, CoinTracker, Cardless
-- Healthcare: 3 of 16 (19%) — NexHealth, Tivara, Flychain
-- Developer tools / enterprise software: 3 of 16 (19%) — Warp, Hamming AI, iVerify
-- Consumer / gaming: 2 of 16 (13%) — Lowkey, Cohere.io
-- Crypto / web3: 1 of 16 (6%) — CoinTracker (also counted in fintech above; counted once here as crypto)
-- Climate / energy: 1 of 16 (6%) — Light Energy
+**Sector distribution (14 verified investments):**
+- Fintech / financial infrastructure: 6 of 14 (43%) — SentiLink, Metronome, Fragment, Comulate, CoinTracker, Cardless
+- Healthcare: 3 of 14 (21%) — NexHealth, Tivara, Flychain
+- Developer tools / enterprise software: 2 of 14 (14%) — Hamming AI, iVerify
+- Consumer / gaming: 2 of 14 (14%) — Lowkey, Cohere.io
+- Climate / energy: 1 of 14 (7%) — Light Energy
 
 *Note: CoinTracker spans fintech and crypto; counted once under fintech for the primary total.*
 
-**Stage distribution (16 verified investments):**
-- Seed: 10 of 16 (63%) — Fragment, Hamming AI, Tivara, CoinTracker, Lowkey, Cohere.io, Warp, Light Energy, Cardless, Flychain
-- Series A: 3 of 16 (19%) — SentiLink, iVerify, Metronome
-- Series B: 2 of 16 (13%) — Comulate, NexHealth
-- Unknown: 1 of 16 (6%)
+**Stage distribution (14 verified investments):**
+- Seed: 8 of 14 (57%) — Fragment, Hamming AI, Tivara, CoinTracker, Lowkey, Cohere.io, Light Energy, Flychain
+- Series A: 3 of 14 (21%) — SentiLink, iVerify, Metronome
+- Series B: 2 of 14 (14%) — Comulate, NexHealth
+- Growth: 1 of 14 (7%) — Cardless
 
-The overwhelming concentration at seed stage (63%) is consistent with Mischief's stated focus on first checks.
+The strong concentration at seed stage (57%) is consistent with Mischief's stated focus on first checks.
 
 **Check size:** NFX Signal reports a range of $100K to $10M with a sweet spot of $1M [^12]. Mischief's stated range is $1-5M for fund investments [^9]; earlier angel investments were likely smaller.
 
@@ -82,32 +81,30 @@ The overwhelming concentration at seed stage (63%) is consistent with Mischief's
 
 **Co-investor patterns:** Andreessen Horowitz appears across multiple investments (SentiLink, Lowkey, Metronome). Other frequent co-investors include BoxGroup, Y Combinator, and Day One Ventures.
 
-**Notable alignment between stated and inferred thesis:** Perret claims to focus on healthcare, climate, and enterprise software, and the portfolio does show meaningful healthcare exposure (19%). However, the strongest signal is fintech and financial infrastructure (38%), which he does not specifically call out — likely because it is so closely tied to his Plaid identity that it goes without saying.
+**Notable alignment between stated and inferred thesis:** Perret claims to focus on healthcare, climate, and enterprise software, and the portfolio does show meaningful healthcare exposure (21%). However, the strongest signal is fintech and financial infrastructure (43%), which he does not specifically call out — likely because it is so closely tied to his Plaid identity that it goes without saying.
 
-**Notable gap:** Despite Mischief listing crypto/web3 as a focus area on its website, only 1 of 16 verified personal investments (CoinTracker) is crypto-focused. The fund-level portfolio (not all attributable to Perret individually) may show more crypto exposure.
+**Notable gap:** Despite Mischief listing crypto/web3 as a focus area on its website, only 1 of 14 verified personal investments (CoinTracker) is crypto-focused. The fund-level portfolio (not all attributable to Perret individually) may show more crypto exposure.
 
 ## Portfolio
 
-This table includes 16 verified investments. Crunchbase reports up to 34 total investments [^11]; this represents approximately 47% of the reported total.
+This table includes 14 verified investments. Crunchbase reports up to 34 total investments [^11]; this represents approximately 41% of the reported total. Prior versions included Warp and Faire, which subsequent verification could not confirm as Perret-attributed investments — Warp's funding article [^25] names other angels but not Perret, and the Axios profile [^3] attributes Faire to Lauren Farleigh's personal angel portfolio, not Perret's.
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Comulate | Series B | 2025 | Insurance / fintech | Active | [^13] |
 | Tivara | Seed | 2026 | Healthcare AI | Active | [^14] |
 | Fragment | Seed | 2024 | Fintech infrastructure | Active | [^15] |
-| Hamming AI | Seed | 2024 | AI / developer tools | Active | [^16] |
-| iVerify | Series A | 2024 | Cybersecurity | Active | [^17] |
-| Cardless | Growth | 2024 | Fintech | Active | [^18] |
+| Hamming AI | Seed | 2024-12-18 | AI / developer tools | Active | [^16] |
+| iVerify | Series A | 2024-06-26 | Cybersecurity | Active | [^17] |
+| Cardless | Growth | 2024-11-26 | Fintech | Active | [^18] |
 | NexHealth | Series B | 2021 | Healthcare | Active | [^19] |
 | Metronome | Series A | 2022 | Enterprise software | Active | [^20] |
 | CoinTracker | Seed | 2018 | Crypto / fintech | Active | [^21] |
 | Lowkey | Series A | 2021 | Gaming / consumer | Acquired | [^22] |
 | Cohere.io | Seed | 2021-03-17 | Customer support AI | Acquired | [^27] |
 | SentiLink | Series A | 2019 | Fintech / fraud detection | Active | [^24] |
-| Warp | Seed | ~2021 | Developer tools | Active | [^25] |
 | Flychain | Seed | ~2023 | Healthcare fintech | Active | [^8] |
 | Light Energy | Seed | ~2024 | Climate / energy | Active | [^8] |
-| Faire | Seed | ~2018 | Marketplace | Active | [^3] |
 
 *Years marked with ~ are estimates based on company founding year or round timing where exact investment date is not confirmed.*
 
@@ -160,9 +157,9 @@ Lauren Farleigh, Perret's Mischief co-founder, has spoken publicly about portfol
 [^13]: PR Newswire, "Comulate adds BOND and Workday in $20M Series B to Transform Insurance with AI," February 11, 2025, accessed March 2026. https://www.prnewswire.com/news-releases/comulate-adds-bond-and-workday-in-20m-series-b-to-transform-insurance-with-ai-302373362.html
 [^14]: Business Insider via X, "Tivara raised a $3.6 million seed round, backed by Mischief VC, Day One Ventures, and Y Combinator," January 2026, accessed March 2026. https://x.com/BusinessInsider/status/2009264021371789808
 [^15]: TechCrunch, "Fintech Fragment eases ledger problems, nabs $9M from Jack Altman, BoxGroup, others," July 22, 2024, accessed March 2026. https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/
-[^16]: BusinessWire, "Hamming.ai Announces $3.8 Million Seed Led by Mischief," December 18, 2024, accessed March 2026. https://www.businesswire.com/news/home/20241218104943/en/Hamming.ai-Announces-$3.8-Million-Seed-Led-by-Mischief
-[^17]: iVerify, "iVerify Announces $12M in Series A Funding to Transform Mobile Security," June 2024, accessed March 2026. https://iverify.io/press-releases/iverify-announces-12m-in-series-a-funding-to-transform-mobile-security
-[^18]: PR Newswire, "Cardless Raises $30 Million in Latest Funding Round, Backed By Leading Fintech VCs," accessed March 2026. https://www.prnewswire.com/news-releases/cardless-raises-30-million-in-latest-funding-round-backed-by-leading-fintech-vcs-302316015.html
+[^16]: BusinessWire, "Hamming.ai Announces $3.8 Million Seed Led by Mischief," December 18, 2024, accessed June 2026. https://www.businesswire.com/news/home/20241218104943/en/Hamming.ai-Announces-$3.8-Million-Seed-Led-by-Mischief
+[^17]: iVerify press release, "iVerify Announces $12M in Series A Funding to Transform Mobile Security," June 26, 2024, accessed June 2026. https://iverify.io/press-releases/iverify-announces-12m-in-series-a-funding-to-transform-mobile-security
+[^18]: PR Newswire, "Cardless Raises $30 Million in Latest Funding Round, Backed By Leading Fintech VCs," November 26, 2024, accessed June 2026. https://www.prnewswire.com/news-releases/cardless-raises-30-million-in-latest-funding-round-backed-by-leading-fintech-vcs-302316015.html
 [^19]: NexHealth, "NexHealth raises $31M to accelerate healthcare innovation," accessed March 2026. https://www.nexhealth.com/resources/nexhealth-raises-31m-to-accelerate-healthcare-innovation
 [^20]: TechCrunch, "Metronome raises $30M to help software companies shift to usage-based pricing models," February 1, 2022, accessed March 2026. https://techcrunch.com/2022/02/01/metronome-raises-30m-to-help-software-companies-shift-to-usage-based-pricing-models/
 [^21]: BusinessWire, "CoinTracker Raises $100 Million Series A at a $1.3 Billion Valuation," January 27, 2022, accessed March 2026. https://www.businesswire.com/news/home/20220127005388/en/CoinTracker-Raises-%24100-Million-Series-A-at-a-%241.3-Billion-Valuation-to-Power-Consumers-Cryptocurrency-Tax-Compliance-and-Portfolio-Tracking
