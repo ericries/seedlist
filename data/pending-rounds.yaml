@@ -62,17 +62,19 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-10'
   parsed_company: Romanian eCommerce startup Naratix
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €1M
+  parsed_round: seed
+  status: processed
+  processed_slug: naratix
 - title: Polish FinTech paymove secures €2.12 million to drive European expansion
   url: https://www.eu-startups.com/2026/06/polish-fintech-paymove-secures-e2-12-million-to-drive-european-expansion/
   source: eu-startups
   date_found: '2026-06-10'
   parsed_company: Polish FinTech paymove
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €2.12M
+  parsed_round: seed
+  status: processed
+  processed_slug: paymove
 - title: 'The AlleyWatch Startup Daily Funding Report: 6/10/2026'
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-10-2026/
   source: alleywatch
@@ -80,7 +82,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_note: created f2.md ($14M seed, 2026-06-10, HighlandX led with NFX/YC/Left Lane/Torch); Concentrate AI pre-seed deferred
 - title: Evotrex raises $30M to build the RV that doesn’t need a charging station
   url: https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/
   source: techcrunch
