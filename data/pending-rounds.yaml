@@ -58,7 +58,8 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   processed_date: '2026-06-11'
-  notes: 'Created endurance-energy.md; updated founders-fund and first-round-capital portfolios'
+  notes: Created endurance-energy.md; updated founders-fund and first-round-capital
+    portfolios
 - title: Barcelona-based THEKER raises €73 million Series A to accelerate AI robotics
     deployment
   url: https://www.eu-startups.com/2026/06/barcelona-based-theker-raises-e73-million-series-a-to-accelerate-ai-robotics-deployment/
@@ -76,6 +77,14 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Seed
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/11/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
+  source: alleywatch
+  date_found: '2026-06-11'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
   status: pending
 - title: French surgical AI startup Uncovr raises €6 million to turn surgical video
     into clinical records
@@ -875,12 +884,3 @@ pending_rounds:
   parsed_amount: $750M
   parsed_round: null
   status: processed
-- title: London’s Fuse Energy secures €25 million Series B extension as it plans 32,000
-    sq ft London HQ
-  url: https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/
-  source: eu-startups
-  date_found: '2026-06-04'
-  parsed_company: London’s Fuse Energy
-  parsed_amount: null
-  parsed_round: Series B
-  status: skipped
