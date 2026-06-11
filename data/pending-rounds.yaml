@@ -49,6 +49,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Endurance Energy raises $54M to harness a massive untapped energy source
+  url: https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/
+  source: techcrunch
+  date_found: '2026-06-11'
+  parsed_company: Endurance Energy
+  parsed_amount: $54M
+  parsed_round: null
+  status: pending
+- title: Barcelona-based THEKER raises €73 million Series A to accelerate AI robotics
+    deployment
+  url: https://www.eu-startups.com/2026/06/barcelona-based-theker-raises-e73-million-series-a-to-accelerate-ai-robotics-deployment/
+  source: eu-startups
+  date_found: '2026-06-11'
+  parsed_company: Barcelona-based THEKER
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Berlin-based Angel Invest close €40 million Fund III targeting angel to Seed
+    stages
+  url: https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/
+  source: eu-startups
+  date_found: '2026-06-11'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: French surgical AI startup Uncovr raises €6 million to turn surgical video
     into clinical records
   url: https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/
@@ -856,31 +882,3 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series B
   status: skipped
-- title: Helion, the Sam Altman-backed fusion startup, raises $465M to build a power
-    plant for Microsoft
-  url: https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/
-  source: techcrunch
-  date_found: '2026-06-04'
-  parsed_company: Helion, the Sam Altman-backed fusion startup,
-  parsed_amount: $465M
-  parsed_round: null
-  status: processed
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/4/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-4-2026/
-  source: alleywatch
-  date_found: '2026-06-04'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: Anthropic Funding Pushed Startup Investment To Near-Record Levels In May
-    As Exit Market Reopened
-  url: https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/
-  source: crunchbase
-  date_found: '2026-06-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
