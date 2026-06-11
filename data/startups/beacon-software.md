@@ -12,6 +12,9 @@ firms:
   round: series-b
   slug: d1-capital-partners
   year: 2025
+- round: '2025'
+  slug: ramp
+  year: 2025
 founded: 2024
 founders:
 - name: Nilam Ganenthiran

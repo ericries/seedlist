@@ -27672,7 +27672,7 @@ queue:
 - name: Carl Pei
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Nothing
   discovered_from: ritesh-agarwal
@@ -28390,3 +28390,47 @@ queue:
   added: '2026-03-17'
   discovered_from: jedify
   source: Co-founder/CEO of Jedify
+- name: Pete Lau
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: OnePlus / Oppo
+  discovered_from: carl-pei
+  source: Carl Pei's co-founder at OnePlus; smartphone industry operator
+- name: Dance
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carl-pei
+  source: Carl Pei portfolio; Berlin e-bike subscription, 2023 round; Carl Pei's most
+    recent verified angel investment
+- name: Mendi
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carl-pei
+  source: Carl Pei portfolio; consumer neurofeedback wearable; Stockholm
+- name: Steep
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carl-pei
+  source: Carl Pei portfolio; pre-seed productivity software 2022
+- name: Stacked
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carl-pei
+  source: Carl Pei portfolio; creator economy platform, Series A 2022, exited
+- name: Alex Asseily
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carl-pei
+  source: Co-investor with Carl Pei on Dance (2023); Jawbone co-founder, Lilium
