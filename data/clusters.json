@@ -8524,7 +8524,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 21,
+      "size": 22,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8630,6 +8630,10 @@
           "slug": "aman-gupta",
           "name": "Aman Gupta",
           "firm": "boAt Lifestyle"
+        },
+        {
+          "slug": "carl-pei",
+          "name": "Carl Pei"
         }
       ]
     },
@@ -9190,7 +9194,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 24,
+      "size": 26,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9309,6 +9313,14 @@
         {
           "slug": "thomas-dohmke",
           "name": "Thomas Dohmke"
+        },
+        {
+          "slug": "willem-delbare",
+          "name": "Willem Delbare"
+        },
+        {
+          "slug": "carl-pei",
+          "name": "Carl Pei"
         }
       ]
     },
@@ -9371,7 +9383,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 91,
+      "size": 93,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9789,6 +9801,14 @@
           "slug": "mukesh-bansal",
           "name": "Mukesh Bansal",
           "firm": "nurix-ai"
+        },
+        {
+          "slug": "willem-delbare",
+          "name": "Willem Delbare"
+        },
+        {
+          "slug": "carl-pei",
+          "name": "Carl Pei"
         }
       ]
     },
@@ -10535,7 +10555,7 @@
       "name": "The Dev Tools Obsessives",
       "tagline": "They back the picks and shovels every developer reaches for. Open source, infrastructure, and the building blocks of modern software.",
       "type": "curated",
-      "size": 18,
+      "size": 19,
       "members": [
         {
           "slug": "dalton-caldwell",
@@ -10625,6 +10645,10 @@
         {
           "slug": "thomas-dohmke",
           "name": "Thomas Dohmke"
+        },
+        {
+          "slug": "willem-delbare",
+          "name": "Willem Delbare"
         }
       ]
     },
@@ -11427,7 +11451,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors — they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 29,
+      "size": 30,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -11568,6 +11592,10 @@
         {
           "slug": "cal-henderson",
           "name": "Cal Henderson"
+        },
+        {
+          "slug": "willem-delbare",
+          "name": "Willem Delbare"
         }
       ]
     },
