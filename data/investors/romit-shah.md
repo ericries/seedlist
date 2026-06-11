@@ -73,10 +73,10 @@ Note: As of March 2026, the fund is less than one year old and no 13F filings ar
 
 Tensor Edge Capital is a long/short public equity fund. Its private investment activity is limited based on available records. The sole verified private investment is from Shah's tenure at Matrix Capital Management:
 
-| Company | Year | Stage | Source |
+| Company | Date | Stage | Source |
 |---------|------|-------|--------|
-| Rivos Inc. | 2021 | Seed/Series A (founding round) | [^9] |
-| Rivos Inc. (follow-on) | 2024 | Series A-3 ($250M round, led by Matrix) | [^16] |
+| Rivos Inc. | 2021-09 | Seed/founding round (anchor: Walden Catalyst; participating: Matrix Capital, Dell Technologies Capital) | [^9] |
+| Rivos Inc. (follow-on) | 2024-04-16 | Series A-3 ($250M+, led by Matrix Capital Management) | [^16][^18][^19] |
 
 **Notes on portfolio completeness:** Tensor Edge Capital's public equity long/short positions are not yet reflected in SEC 13F filings, which will become available after the firm has been registered for a full quarter. This table will require significant updating once those filings are available. The above represents only verified private investment activity from Shah's prior role at Matrix Capital Management.
 
@@ -141,3 +141,7 @@ No independently sourced founder testimonials found. Shah's primary relationship
 [^16]: MarketScreener, "Rivos Inc. announced that it has received $250 million in funding from a group of investors," April 2024, accessed March 2026. https://www.marketscreener.com/quote/stock/DELL-TECHNOLOGIES-INC-50061235/news/Rivos-Inc-announced-that-it-has-received-250-million-in-funding-from-a-group-of-investors-46450571/
 
 [^17]: Romit Shah LinkedIn Post, "I am honored to begin a new role as a Board Member at Rivos Inc.," April 23, 2024, accessed March 2026. https://www.linkedin.com/posts/romit-shah-63592bb7_i-am-honored-to-begin-a-new-role-as-a-board-activity-7188600422134087680-qQaO
+
+[^18]: BusinessWire / Rivos Inc. press release, "Rivos Raises More Than $250M Targeting Data Analytics and Generative AI Markets," April 16, 2024, accessed June 2026. https://www.businesswire.com/news/home/20240416215878/en/Rivos-Raises-More-Than-%24250M-Targeting-Data-Analytics-and-Generative-AI-Markets
+
+[^19]: The Register, "RISC-V AI chip startup Rivos nabs $250M in series A funding," April 17, 2024, accessed June 2026. https://www.theregister.com/2024/04/17/riscv_ai_startup_rivos_funded/

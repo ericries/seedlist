@@ -71,11 +71,11 @@ Based on 75 verified portfolio companies across three funds [^10], Weekend Fund'
 |---------|------|-------|--------|
 ~unknown| Intercom | — | Seed | [^9] |
 | Deel | ~2018 | Seed | [^9] [^14] |
-~unknown| Pipe | — | Seed | [^9] [^14] |
+| Pipe | 2020-02-25 | Seed | [^9] [^14] [^20] |
 ~unknown| MoonPay | — | Seed | [^9] |
 ~unknown| HeadSpin | — | Early | [^14] |
 ~unknown| FaZe Clan | — | Seed | [^14] [^17] |
-~unknown| Voiceflow | — | Seed | [^14] [^17] |
+| Voiceflow | 2019-04-23 | Seed | [^14] [^17] [^21] |
 ~unknown| TTYL | — | Seed | [^14] |
 ~unknown| YOLO | — | Seed | [^14] |
 ~unknown| Secfi | — | Seed | [^14] |
@@ -87,11 +87,11 @@ Based on 75 verified portfolio companies across three funds [^10], Weekend Fund'
 ~unknown| TrueMed | — | Seed | [^9] |
 ~unknown| Blueland | — | Seed | [^9] |
 ~unknown| Function Health | — | Seed | [^5] [^9] |
-~unknown| Coinshift | — | Seed | [^9] |
+| Coinshift | 2022-05-17 | Series A | [^9] [^22] |
 ~unknown| Extropic | — | Seed | [^9] |
 ~unknown| Certn | — | Seed | [^9] |
 ~unknown| JustPoint | — | Seed | [^9] |
-~unknown| Atlys | — | Seed | [^9] |
+| Atlys | 2023-09-22 | Series A | [^9] [^24] |
 ~unknown| InVideo | — | Seed | [^9] |
 ~unknown| Syndicate | — | Seed | [^9] |
 ~unknown| thirdweb | — | Seed | [^5] |
@@ -107,7 +107,7 @@ Based on 75 verified portfolio companies across three funds [^10], Weekend Fund'
 ~unknown| Kin | — | Seed | [^5] |
 ~unknown| Adaptive | — | Seed | [^5] |
 ~unknown| Flyby Robotics | — | Seed | [^5] |
-~unknown| Mainframe | — | Seed | [^9] |
+| Mainframe | 2024-12-10 | Seed | [^9] [^23] |
 ~unknown| Rail | — | Seed | [^9] |
 ~unknown| OnlyAlt | — | Seed | [^9] |
 ~unknown| Outset | — | Seed | [^9] |
@@ -166,3 +166,8 @@ No independently sourced founder testimonials found. Weekend Fund's website and 
 [^17]: Best Pitch Deck, "Weekend Fund 3.0 Pitch Deck," accessed March 2026. https://bestpitchdeck.com/weekend-fund-3.0
 [^18]: Mercury blog, "Ryan Hoover errs on the side of curiosity," accessed March 2026. https://mercury.com/blog/ryan-hoover
 [^19]: Weekend Fund, "We're hiring a Community Builder at Weekend Fund," accessed March 2026. https://www.weekend.fund/hiring-a-community-builder
+[^20]: PR Newswire, "Pipe Raises $6M to Launch New SaaS Financing Platform," February 25, 2020, accessed June 2026. https://www.prnewswire.com/news-releases/pipe-raises-6m-to-launch-new-saas-financing-platform-301009328.html
+[^21]: PR Newswire, "Voiceflow Closes $3.5 Million Seed Funding Round Led by True Ventures," April 23, 2019, accessed June 2026. https://www.prnewswire.com/news-releases/voiceflow-closes-3-5-million-seed-funding-round-led-by-true-ventures-300836480.html
+[^22]: PR Newswire, "Coinshift Closes $15 Million Series A Led by Tiger Global, Sequoia Capital India, Alameda Ventures," May 17, 2022, accessed June 2026. https://www.prnewswire.com/news-releases/coinshift-closes-15-million-series-a-led-by-tiger-global-sequoia-capital-india-alameda-ventures-301549021.html
+[^23]: Tracxn, "Mainframe Funding Rounds & List of Investors," accessed June 2026. https://tracxn.com/d/companies/mainframe/__GZmkp1kFUJmKF7f0kYiIqHsyaSzW_zSTxVkvRW0YWw4/funding-and-investors
+[^24]: TechCrunch / Business Standard, "Visa application startup Atlys raises $12 million in series A funding," September 21-22, 2023, accessed June 2026. https://www.business-standard.com/companies/start-ups/visa-application-startup-atlys-raises-12-million-in-series-a-funding-123092100136_1.html

@@ -9,9 +9,9 @@ stage_focus: [pre-seed, seed, series-a]
 sector_focus: [consumer, d2c, consumer-electronics, food-beverage, mobility, web3]
 check_size: "Undisclosed (angel-scale, typically pre-seed to Series A)"
 last_verified_investment:
-  date: 2025-12-13
-  company: "NeoSapien"
-  round: "Seed"
+  date: 2026-05-28
+  company: "Anveshan"
+  round: "Series B"
 social:
   linkedin: "linkedin.com/in/sameer-mehta-16233318"
 status: published
@@ -32,7 +32,7 @@ Mehta does not publish a formal angel thesis. Aggregator listings classify his a
 
 Based on **8 independently verified angel investments** in press announcements (Anveshan, NeoSapien, Perfora, Shiprocket, WickedGud, Wyld, Yu Foods, and — with attribution caveat — Chargeup), the pattern is concentrated and operator-driven:
 
-- **Stage**: Predominantly pre-seed and seed. 5 of 8 verified rounds are explicitly pre-seed, seed, or pre-Series A (WickedGud pre-seed [^5], Perfora pre-seed [^9], Wyld pre-seed [^7], NeoSapien seed [^6], Chargeup pre-Series A [^10]). One Series A/B follow-on (Anveshan) [^11][^12]; one late growth round (Shiprocket Series E) [^13]. Sample skews early.
+- **Stage**: Predominantly pre-seed and seed. 5 of 8 verified rounds are explicitly pre-seed, seed, or pre-Series A (WickedGud pre-seed [^5], Perfora pre-seed [^9], Wyld pre-seed [^7], NeoSapien seed [^6], Chargeup pre-Series A [^10]). One Series A and one Series B follow-on (Anveshan, 2025 and 2026) [^11][^12][^17][^18]; one late growth round (Shiprocket Series E) [^13]. Sample skews early.
 - **Sector concentration — consumer brands and D2C**: 6 of 8 verified investments are consumer-facing D2C or commerce companies: Anveshan (D2C food/Ayurvedic) [^11], NeoSapien (consumer AI wearable) [^6], Perfora (D2C oral care) [^9], WickedGud (D2C healthy food) [^5], Wyld (consumer fintech/social) [^7], Yu Foods (D2C instant food) [^14]. One mobility/cleantech (Chargeup, EV battery swapping) [^10]. One commerce infrastructure (Shiprocket) [^13].
 - **Geography**: India-only across all verified rounds. All portfolio companies are based in India (Gurugram, Mumbai, Delhi NCR, Bengaluru).
 - **Co-investor pattern**: Aman Gupta (boAt co-founder) appears alongside Mehta in at least 5 of the 8 verified rounds (Anveshan, NeoSapien, Perfora, Wyld, WickedGud) [^5][^6][^7][^11]. They appear to function as a paired operator-angel ticket. Titan Capital is a recurring institutional co-investor (WickedGud lead [^5]; Anveshan Series B participant [^12]).
@@ -50,8 +50,8 @@ Sample size is small (8 independently verified rounds; aggregators list 11–53 
 | Perfora | 2021 | Pre-Seed | [^9] |
 | Wyld | 2022-03-02 | Pre-Seed | [^7] |
 | Chargeup | 2022-02-22 | Pre-Series A | [^10] |
-| Anveshan | 2024-04 | Series A | [^11] |
-| Anveshan | 2025 | Series B | [^12] |
+| Anveshan | 2025-04-30 | Series A | [^11][^17] |
+| Anveshan | 2026-05-28 | Series B | [^12][^18] |
 | Yu Foods | ~2023 (angel) | Angel/Seed | [^14] |
 | NeoSapien | 2025-12-13 | Seed | [^6] |
 
@@ -86,9 +86,11 @@ No independently sourced founder testimonials about working with Sameer Mehta as
 [^8]: Razorpay Rize, "List of Startups Funded by Sameer Mehta," accessed June 2026. https://razorpay.com/rize/investors-list/sameer-mehta
 [^9]: APN News, "D2C oral care brand 'Perfora' raises $260,000 in Pre-Seed round from Sauce.vc, Huddle & others," December 2021, accessed June 2026. https://www.apnnews.com/d2c-oral-care-brand-perfora-raises-260000-in-pre-seed-round-from-sauce-vc-huddle-others/
 [^10]: EMobility+, "Battery Swapping Network, Chargeup, Raises USD 2.5 Million In Pre-Series A Round Led By Capital A and Anicut Capital," February 22, 2022, accessed June 2026. https://emobilityplus.com/2022/02/22/battery-swapping-network-chargeup-raises-usd-2-5-million-in-pre-series-a-round-led-by-capital-a-and-anicut-capital/
-[^11]: Inc42, "Anveshan Bags INR 48 Cr In Series A Funding," April 2024, accessed June 2026. https://inc42.com/buzz/d2c-food-brand-anveshan-bags-inr-48-cr-led-by-wipro-consumer-care-ventures/
-[^12]: Indian Retailer, "Anveshan Raises Rs 121 Cr in Series B Round Led by Vertex Ventures," 2025, accessed June 2026. https://www.indianretailer.com/news/funding-alert-anveshan-raises-rs-121-cr-series-b-round-led-vertex-ventures
+[^11]: Inc42, "Anveshan Bags INR 48 Cr In Series A Funding," April 30, 2025, accessed June 2026. https://inc42.com/buzz/d2c-food-brand-anveshan-bags-inr-48-cr-led-by-wipro-consumer-care-ventures/
+[^12]: Indian Retailer, "Anveshan Raises Rs 121 Cr in Series B Round Led by Vertex Ventures," May 2026, accessed June 2026. https://www.indianretailer.com/news/funding-alert-anveshan-raises-rs-121-cr-series-b-round-led-vertex-ventures
 [^13]: Avendus, "Avendus Capital advises Shiprocket as it inks an agreement for USD 185 million Series E funding, co-led by Zomato, Temasek and Lightrock India," 2021, accessed June 2026. https://www.avendus.com/india/transaction/avendus-capital-advises-shiprocket-as-it-inks-an-agreement-for-usd-185-million-series-e-funding-co-led-by-zomato-ltd-temasek-and-lightrock-india
 [^14]: Inc42, "Yu Foods Nets $6.5 Mn Led By Ashish Kacholia, Asian Paints Promoter Group," October 18, 2024, accessed June 2026. https://inc42.com/buzz/yu-foods-nets-6-5-mn-led-by-ashish-kacholia-asian-paints-promoter-group/
 [^15]: Crunchbase, "Sameer Mehta — Co-Founder & Chief Product Officer @ boAt," accessed June 2026. https://www.crunchbase.com/person/sameer-mehta-55d2
 [^16]: StartupTalky, "Sameer Mehta: The Visionary Behind boAt & India's Tech Revolution," accessed June 2026. https://startuptalky.com/sameer-mehta-success-story/
+[^17]: Entrepreneur India, "Anveshan Secures INR 48 Cr Funding Led by Wipro Consumer Care Ventures to Expand Farm-to-Kitchen Platform," April 30, 2025, accessed June 2026. https://india.entrepreneur.com/news-and-trends/anveshan-secures-inr-48-cr-funding-from-wipro-consumer-care/490847
+[^18]: Entrackr, "Exclusive: Anveshan raises Rs 121 Cr from Vertex Ventures, IFC, Titan Capital, Aman Gupta, and others," May 28, 2026, accessed June 2026. https://entrackr.com/exclusive/exclusive-anveshan-raises-rs-121-cr-from-vertex-ventures-ifc-aman-gupta-sri-harsha-majety-and-others-11883630
