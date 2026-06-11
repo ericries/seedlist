@@ -149,8 +149,9 @@ The following table includes DST Global investments verified through press cover
 | Gojek | Growth | ~2018 | Marketplace / Transportation | Merged with Tokopedia (GoTo, IPO 2022) [^1] |
 | Quince | Series E | 2026 | E-commerce / Consumer | Private [^6][^24] |
 | Ricursive Intelligence | Series A (participated) | 2026-01-26 | AI / Semiconductor Design | Private [^31][^32][^33] |
+| Prometheus | Series B (participated) | 2026-06-11 | AI / Industrial AI | Private [^34][^35][^36] |
 
-*Note: This table includes 33 companies out of 214 total (~15%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
+*Note: This table includes 34 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
 ## In Their Own Words
 
@@ -266,3 +267,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^32]: TechCrunch, "AI chip startup Ricursive hits $4B valuation 2 months after launch," January 26, 2026. Accessed May 2026. https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/
 
 [^33]: Crunchbase News, "AI Lab Ricursive Intelligence Lands $300M Series A At $4B Valuation Less than Two Months After Launch," January 26, 2026. Accessed May 2026. https://news.crunchbase.com/venture/startup-ai-lab-ricursive-seriesa-unicorn/
+
+[^34]: Axios, "Prometheus, the industrial AI startup from Jeff Bezos, is now worth $41 billion," June 11, 2026. Accessed June 2026. https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai — $12B Series B at $41B valuation; backers include JPMorgan, BlackRock, Goldman Sachs, DST Global, and Arch Venture Partners.
+
+[^35]: Semafor, "Jeff Bezos raises $12B for AI that builds things," June 11, 2026. Accessed June 2026. https://www.semafor.com/article/06/11/2026/jeff-bezos-raises-12b-for-ai-that-builds-things — Confirms DST Global as a Series B backer alongside JPMorgan, BlackRock, Goldman Sachs, and Arch Venture Partners.
+
+[^36]: Benzinga, "Jeff Bezos' AI Startup Prometheus Hits $41 Billion As Investors Back Industrial AI," June 11, 2026. Accessed June 2026. https://www.benzinga.com/markets/private-markets/26/06/53151499/jeff-bezos-ai-startup-prometheus-hits-41-billion-as-investors-back-industrial-ai — Confirms DST Global as Series B participant.

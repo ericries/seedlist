@@ -1,8 +1,9 @@
 priority:
 - slug: dst-global
   type: firm
-  reason: "co-invested Prometheus $12B Series B (2026-06-11)"
+  reason: "RESOLVED 2026-06-11 — Prometheus Series B $12B at $41B val (2026-06-11, Bezos personal lead; backers JPMorgan, BlackRock, Goldman Sachs, DST Global, ARCH Venture Partners) added to dst-global.md portfolio with 3 independent primary citations: (1) Axios article (axios.com/2026/06/11/prometheus-bezos-industrial-ai) [^34], (2) Semafor article (semafor.com/article/06/11/2026/jeff-bezos-raises-12b-for-ai-that-builds-things) [^35] which explicitly names 'venture-capital firms DST Global and Arch Venture Partners', (3) Benzinga article [^36] which states 'Backers in the Series B include JPMorgan, BlackRock, Goldman Sachs, DST Global and Arch Venture Partners'. All 3 sources independently confirm DST Global as Series B participant. Prometheus startup profile already has dst-global in firms[] frontmatter. Portfolio note updated from 33→34 companies (~16%)."
   added: 2026-06-12
+  status: resolved
 - slug: cvs-health-ventures
   type: firm
   reason: "led H1 $40M growth round (2026-05-28)"
