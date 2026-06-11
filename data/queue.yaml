@@ -28434,3 +28434,33 @@ queue:
   added: '2026-03-17'
   discovered_from: carl-pei
   source: Co-investor with Carl Pei on Dance (2023); Jawbone co-founder, Lilium
+- name: Magnetar Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tensorwave
+- name: Good Growth Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tensorwave
+- name: RA Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cellares
+- name: Janus Henderson
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cellares
+- name: Andera Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cellares
