@@ -28,7 +28,8 @@ pending_rounds:
   parsed_company: Amsterdam’s OurMind
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_slug: ourmind
 - title: CameraMatics secures up to €49 million to scale AI-powered fleet intelligence
     platform across Europe and the US
   url: https://www.eu-startups.com/2026/06/dublins-cameramatics-secures-up-to-e49-million-to-scale-ai-powered-fleet-intelligence-platform-across-europe-and-the-us/
@@ -37,7 +38,8 @@ pending_rounds:
   parsed_company: CameraMatics
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_slug: cameramatics
 - title: French surgical AI startup Uncovr raises €6 million to turn surgical video
     into clinical records
   url: https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/

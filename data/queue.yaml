@@ -28464,3 +28464,46 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: cellares
+- name: 4impact capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ourmind
+  source: led OurMind seed round (€2.1M, 2026-06-11)
+- name: Blume Equity
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cameramatics
+  source: led CameraMatics €49M growth round (2026-06-11)
+- name: Ireland Strategic Investment Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cameramatics
+  source: co-invested in CameraMatics €49M (2026-06-11)
+- name: Goodbody Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AIB
+  discovered_from: cameramatics
+  source: co-invested in CameraMatics €49M (2026-06-11)
+- name: Puma Growth Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cameramatics
+  source: existing investor CameraMatics; participated through €49M round (2026-06-11)
+- name: Sure Valley Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cameramatics
+  source: existing investor CameraMatics; participated through €49M round (2026-06-11)
