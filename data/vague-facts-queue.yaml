@@ -160196,7 +160196,8 @@ vague_facts:
   line: '| Positive Development | Series C | 2025 | Behavioral health / autism care | Active [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_note: "2026-06-11 — $51.5M Series C announced 2025-08-06 (co-led aMoon, B Capital, Flare Capital Partners; Digitalis Ventures, Healthworx). Updated amoon.md row to 2025-08-06; added [^28] MedCity. Set last_verified_investment."
 - profile: firms/amoon
   profile_name: aMoon
   company: Character Biosciences
@@ -160206,7 +160207,8 @@ vague_facts:
   line: '| Character Biosciences | Early | 2025 | Biotech | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_note: "2026-06-11 — $93M Series B announced 2025-03-25 (co-led aMoon and Luma Group; Bausch + Lomb, Jefferson Life Sciences, Innovation Endeavors, Catalio, S32, KdT Ventures participated). Updated amoon.md row to Series B 2025-03-25; added [^29] BusinessWire and [^30] Latham & Watkins."
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: OpenAI

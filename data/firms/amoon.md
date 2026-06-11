@@ -3,6 +3,10 @@ founded: 2016
 fund_size: $1.3B+ AUM; $200M Fund I (2016); $660M Fund II / aMoon Growth (2019); $60M+
   aMoon Velocity (2020); $340M+ aMoon Growth II (interim close 2024, targeting $750M)
 last_researched: 2026-04-01
+last_verified_investment:
+  company: Positive Development
+  date: 2025-08-06
+  round: Series C
 location: Ra'anana, Israel
 name: aMoon
 sector_focus:
@@ -144,8 +148,8 @@ Based on 43 verified portfolio companies from the aMoon website [^14] and cross-
 | Lutris Pharma | Early | ~2023 | Pharmaceutical | Active [^14] |
 | Adcytherix | Early | ~2023 | Biotech / antibody-drug conjugates | Active [^14] |
 | MetaSight | Growth | ~2020 | Diagnostics | Acquired by Guardant Health (NASDAQ: GH) [^14] |
-| Positive Development | Series C | 2025 | Behavioral health / autism care | Active [^26] |
-| Character Biosciences | Early | 2025 | Biotech | Active [^15] |
+| Positive Development | Series C | 2025-08-06 | Behavioral health / autism care | Active [^26][^28] |
+| Character Biosciences | Series B | 2025-03-25 | Biotech / precision medicine | Active [^15][^29][^30] |
 
 This table represents 43 of 43 companies listed on aMoon's portfolio page [^14], plus 2 additional companies identified through Crunchbase [^15]. Many year estimates (marked with ~) are based on founding dates or approximate investment timing and should be verified.
 
@@ -206,3 +210,6 @@ No additional independently sourced founder testimonials found. The quotes above
 [^25]: TechCrunch, "Omada Health IPO signals healthier market, avoids 'down-round' trend," June 2025, accessed April 2026. https://techcrunch.com/2025/06/06/omada-health-ipo-signals-healthier-market-avoids-down-round-trend/
 [^26]: Behavioral Health Business, "Positive Development Hauls in Monster $51.5M Round on Promised Cost-Savings and an Alternative to ABA," August 2025, accessed April 2026. https://bhbusiness.com/2025/08/06/positive-development-hauls-in-monster-51-5m-round-on-promised-cost-savings-and-an-alternative-to-aba/
 [^27]: MDClone news, "'Covid Put Everything On Steroids,' Says Prominent Healthtech Investor," accessed April 2026. https://www.mdclone.com/news-press/articles/covid-put-everything-on-steroids-says-prominent-healthtech-investor
+[^28]: MedCity News, "Positive Development Rakes In $51.5M To Grow Developmental Therapy Model for Autism," August 6, 2025, accessed June 2026. https://medcitynews.com/2025/08/positive-development-autism-funding/
+[^29]: BusinessWire, "Character Biosciences Raises $93 Million Series B to Advance Precision Medicine for Progressive Eye Diseases," March 25, 2025, accessed June 2026. https://www.businesswire.com/news/home/20250325445846/en/Character-Biosciences-Raises-$93-Million-Series-B-to-Advance-Precision-Medicine-for-Progressive-Eye-Diseases
+[^30]: Latham & Watkins, "Latham & Watkins Advises Character Biosciences in US$93 Million Series B Financing Round," March 2025, accessed June 2026. https://www.lw.com/en/news/2025/03/latham-watkins-advises-character-biosciences-in-us93-million-series-b-financing-round
