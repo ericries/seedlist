@@ -4,7 +4,7 @@ firm: union-square-ventures
 last_researched: 2026-03-25
 last_verified_investment:
   company: Viam
-  date: 2025-03
+  date: 2025-03-03
   round: Series C
 location: New York, NY
 name: Albert Wenger
@@ -104,7 +104,7 @@ Based on 20 verified investments with confirmed Wenger board involvement, source
 | Top Hat | 2017 | Growth (Opportunity Fund) | Education | [^14] |
 | Shapeways | ~2011 | Early | 3D Printing/Marketplace | [^4] |
 | Zanskar | 2022 | Early | Climate/Geothermal | [^28] |
-| Viam | 2025 | Series C ($30M, led by USV) | Robotics/AI | [^29] |
+| Viam | 2025-03-03 | Series C ($30M, led by USV) | Robotics/AI | [^29][^32][^36] |
 
 *This table represents approximately 19 verified investments with confirmed Wenger board involvement. USV's full portfolio across all partners includes 130+ companies [^30].*
 
@@ -197,3 +197,4 @@ On USV's climate fund: "The USV Climate Fund is a straight up venture fund. We b
 [^33]: TechCrunch, "Lessons from Shippo's Series A," October 2016, accessed March 2026. https://techcrunch.com/2016/10/04/lessons-from-shippos-series-a/
 [^34]: Allen Lau, LinkedIn post, "It feels like it's been ages since we were last here! In 2011, Union…," accessed March 2026. https://www.linkedin.com/posts/notallenlau_it-feels-like-its-been-ages-since-we-were-activity-7104780206053224448-Eqgg
 [^35]: FinSMEs, "10gen Completes $3.4M Series B Round of Financing," November 2009 — citing Albert Wenger joining the board of 10gen (MongoDB), accessed March 2026. https://www.finsmes.com/2009/11/10gen-completes-3-4m-series-b-round-of-financing.html
+[^36]: Viam, "Announcing Viam's $30M Series C fundraise," company blog, March 3, 2025, accessed June 2026. https://www.viam.com/post/series-c

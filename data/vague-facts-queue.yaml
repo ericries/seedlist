@@ -168252,7 +168252,8 @@ vague_facts:
   line: '| Viam | 2025 | Series C ($30M, led by USV) | Robotics/AI | [^29] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved to 2025-03-03 via 3 independent primary sources: (1) PR Newswire announcement [^29] dated March 3, 2025 09:00 ET; (2) Viam company blog post "Announcing Viam''s $30M Series C fundraise" [^36] dated March 3, 2025; (3) Fortune exclusive article [^32] published 2025-03-03. All three confirm $30M Series C led by Union Square Ventures, with participation from Battery Ventures and Neurone (European co-lead). Updated portfolio row, last_verified_investment date, and added new citation [^36] to viam.com blog.'
 - profile: investors/alex-davidov
   profile_name: Alex Davidov
   company: EarnBetter
