@@ -71,7 +71,7 @@ Notable investments where the firm or a named True partner participated:
 | Sandbar | Early | 2025 | — | Voice/wearable | Active [^8] |
 | Nectar Social | Seed → Series A | 2025-06 / 2026-05-14 | — | AI / MarTech / Social Commerce | Active [^16] |
 | Flick | Seed (lead) | 2026-05-14 | — | AI / Filmmaking | Active [^21] |
-| Concentrate AI | Pre-Seed (co-led with RRE Ventures) | 2026-06-10 | — | AI / LLM infrastructure | Active [^29] |
+| Concentrate AI | Pre-Seed (co-led with RRE Ventures) | 2026-06-10 | — | AI / LLM infrastructure | Active [^29][^30][^31] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -143,4 +143,8 @@ No additional independently sourced founder testimonials specifically about work
 
 [^28]: UKTN, "Wefarm secures $13m Series A funding," November 1, 2019. Accessed May 2026. https://www.uktech.news/funding/vc-funding/wefarm-secures-13m-series-a-funding-20191101 — Confirms WeFarm's $13M Series A in October/November 2019 led by True Ventures, with AgFunder, June Fund, LocalGlobe, ADV, and Norrsken Foundation participating.
 
-[^29]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/10/2026," June 10, 2026. Accessed June 11, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-10-2026/ — Confirms Concentrate AI's $5.1M pre-seed round co-led by True Ventures and RRE Ventures on June 10, 2026.
+[^29]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/10/2026," June 10, 2026. Accessed June 11, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-10-2026/ — Confirms Concentrate AI's $5.1M pre-seed round co-led by True Ventures and RRE Ventures on June 10, 2026. Founders: Ari Jacoby (CEO) and Todd Lieberman.
+
+[^30]: Let's Data Science, "AI-routing Startups See Major Venture Funding," June 10, 2026. Accessed June 11, 2026. https://letsdatascience.com/news/ai-routing-startups-see-major-venture-funding-59587828 — Confirms Concentrate AI emerged from stealth on/around June 10, 2026 with more than $5 million in initial funding; CEO Ari Jacoby quoted ("The model landscape is so fragmented, it's so hard to track").
+
+[^31]: Ari Jacoby LinkedIn profile, "CEO, Concentrate AI," accessed June 11, 2026. https://www.linkedin.com/in/arijacoby — Confirms Ari Jacoby's role as CEO of Concentrate AI; cross-referenced with Todd Lieberman's LinkedIn (https://www.linkedin.com/in/liebermantodd/) confirming co-founding team.

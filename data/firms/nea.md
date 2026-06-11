@@ -171,7 +171,8 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Qualified Health | Series B (led, $125M) | 2026-03-25 | Healthcare/AI | Active [^11] |
 | Bluefish | Series B | 2026 | AI/Marketing Tech | Active [^18] |
 | Spektr | Series A | 2026 | Fintech/Compliance | Active [^19] |
-| Golden Analytics | Seed → Seed Extension | 2026-04 / 2026-06-09 | AI/Business Intelligence | Active ($7M seed co-led with Madrona; re-upped in $14M seed extension led by Insight Partners) [^21][^22] |
+| Golden Analytics | Seed (co-led, $7M) | 2026-04-07 | AI/Business Intelligence | Active [^21] |
+| Golden Analytics | Seed Extension ($14M, Insight Partners led) | 2026-06-09 | AI/Business Intelligence | Active (re-upped as existing investor) [^22][^23][^24] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -216,4 +217,8 @@ No independently sourced founder testimonials found. NEA's website describes the
 
 [^21]: Intelligence360, "Golden Analytics Debuts with $7M Seed Funding from NEA and Madrona to Build AI-Native Business Intelligence," April 2026. Confirms NEA and Madrona co-led the original $7M seed. Accessed June 11, 2026. https://www.intelligence360.news/golden-analytics-debuts-with-7m-seed-funding-from-nea-and-madrona-to-build-ai-native-business-intelligence/
 
-[^22]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Confirms NEA and Madrona re-upped in $14M seed extension led by Insight Partners. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html
+[^22]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Confirms NEA and Madrona re-upped as existing investors in $14M seed extension led by Insight Partners. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html
+
+[^23]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Confirms $14M seed extension led by Insight Partners with existing backers NEA and Madrona re-upping; Ganesh Bell (Insight MD) takes Golden board seat. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
+
+[^24]: The SaaS News, "Golden Analytics Raises $14M Seed Extension," June 9, 2026. States: "This round was led by Insight Partners, with participation from existing investors NEA and Madrona." Accessed June 11, 2026. https://www.thesaasnews.com/news/golden-analytics-raises-14m-seed-extension/

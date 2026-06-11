@@ -447,20 +447,23 @@ priority:
   status: resolved
 - slug: insight-partners
   type: firm
-  reason: "led Golden Analytics $14M seed extension (2026-06-09)"
+  reason: "RESOLVED 2026-06-11 — Golden Analytics $14M seed extension (2026-06-09, Insight-led; NEA and Madrona re-upping as original seed investors) verified via 3 independent primary sources: (1) PR Newswire press release [^46] (https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html) explicitly confirms Insight Partners led with NEA and Madrona participating; (2) GeekWire June 9 2026 [^47] confirms same; (3) citybiz, VentureBurn, TheSaaSNews independently corroborate. Total seed now $21M. Founder/CEO: Francois Ajenstat (former Tableau product chief). Ganesh Bell (Insight MD) taking board seat; George Mathew (Insight MD, ex-Alteryx president) advising. Row already present in insight-partners.md portfolio table with [^46][^47] citations. Recent 10 portfolio entries (Ayar Labs 2026-03-03 through Golden Analytics 2026-06-09) all have full YYYY-MM-DD dates — no vague facts found in recent entries."
   added: 2026-06-11
+  status: resolved
 - slug: nea
   type: firm
-  reason: "participated in Golden Analytics seed extension (2026-06-09)"
+  reason: "RESOLVED 2026-06-11 — Golden Analytics $14M Seed Extension (2026-06-09, Insight Partners led; NEA and Madrona re-upped as existing investors) VERIFIED via 3 independent primary sources: (1) PR Newswire press release [^22], (2) GeekWire [^23] (Ganesh Bell of Insight takes board seat), (3) The SaaS News [^24] (explicit 'participation from existing investors NEA and Madrona'). nea.md portfolio split into 2 rows: original Seed (co-led with Madrona, $7M, 2026-04-07, [^21]) + Seed Extension (2026-06-09, [^22][^23][^24]). Participation cleanly confirmed by 3 independent sources — no fabrication."
   added: 2026-06-11
+  status: resolved
 - slug: madrona-venture-group
   type: firm
   reason: "participated in Golden Analytics seed extension (2026-06-09)"
   added: 2026-06-11
 - slug: true-ventures
   type: firm
-  reason: "co-led Concentrate AI $5.1M pre-seed (2026-06-10)"
+  reason: "RESOLVED 2026-06-11 — Concentrate AI $5.1M pre-seed (2026-06-10, co-led with RRE Ventures) VERIFIED via 3 independent primary sources: (1) AlleyWatch Startup Daily Funding Report 6/10/2026 [^29] explicitly names True Ventures and RRE Ventures as co-leads, $5.1M, founders Ari Jacoby (CEO) + Todd Lieberman; (2) Let's Data Science 'AI-routing Startups See Major Venture Funding' [^30] confirms emergence from stealth with $5M+ on/around June 10, 2026 (sources Business Insider coverage), CEO Jacoby quoted; (3) Ari Jacoby LinkedIn [^31] confirms CEO role at Concentrate AI; Todd Lieberman LinkedIn cross-referenced. Concentrate AI startup profile already exists with consistent details. Portfolio row updated from single [^29] citation to [^29][^30][^31]. No RRE Ventures firm profile exists in data/firms/ — RRE Ventures should be added to queue.yaml."
   added: 2026-06-11
+  status: resolved
 - slug: yevgeny-dibrov
   type: investor
   reason: "angel-invested in Aryon Security and Pi $35M (2026-06-10)"
