@@ -1,4 +1,8 @@
 priority:
+- slug: dst-global
+  type: firm
+  reason: "co-invested Prometheus $12B Series B (2026-06-11)"
+  added: 2026-06-12
 - slug: cvs-health-ventures
   type: firm
   reason: "led H1 $40M growth round (2026-05-28)"
