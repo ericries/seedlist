@@ -1,16 +1,10 @@
 ---
 firms:
 - round: equity
-  slug: fin-capital
-  year: 2026
-- round: equity
   slug: mac-venture-capital
   year: 2026
 - round: Early
   slug: uncorrelated-ventures
-  year: 2020
-- round: Seed
-  slug: independent
   year: 2020
 - round: Public (PIPE)
   slug: tcv
@@ -21,15 +15,15 @@ firms:
 - round: Seed
   slug: worklife-ventures
   year: 2020
-- round: Seed
-  slug: angellist
-  year: 2020
 - round: '2020'
   slug: craft-ventures
   year: 2020
 - round: Venture
   slug: time-ventures
   year: 2021
+- round: Seed
+  slug: weekend-fund
+  year: 2020
 founded: 2019
 founders:
 - name: Harry Hurst
@@ -64,6 +58,9 @@ investors:
 - round: Venture
   slug: marc-benioff
   year: 2021
+- round: Seed
+  slug: ryan-hoover
+  year: 2020
 last_researched: 2026-04-13
 location: San Francisco, California
 name: Pipe

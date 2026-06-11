@@ -1,11 +1,18 @@
 ---
-name: Prelude
-slug: prelude
-type: startup
-website: https://prelude.so/
-location: Paris, France
+firms: []
 founded: 2023
-status_company: active
+founders:
+- name: Matias Berny
+  role: Co-Founder
+- name: Quentin Le Bras
+  role: Co-Founder
+investors:
+- round: Series A ($20M)
+  slug: willem-delbare
+  year: 2026
+last_researched: 2026-05-20
+location: Paris, France
+name: Prelude
 sector:
 - fintech
 - security
@@ -15,17 +22,13 @@ sector:
 - saas
 - ai
 - enterprise-software
+slug: prelude
 stage_latest: Series A
-total_raised: €24.8M
-investors: []
-firms: []
-founders:
-- name: Matias Berny
-  role: Co-Founder
-- name: Quentin Le Bras
-  role: Co-Founder
-last_researched: 2026-05-20
 status: published
+status_company: active
+total_raised: €24.8M
+type: startup
+website: https://prelude.so/
 ---
 
 ## About

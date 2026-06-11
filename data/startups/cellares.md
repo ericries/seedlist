@@ -1,21 +1,32 @@
 ---
-name: "Cellares"
-slug: cellares
-type: startup
-website: "https://cellares.com"
-location: "Burlingame, California"
-founded: 2019
-status_company: active
-sector: [biotech, healthcare, cell-therapy, manufacturing]
-stage_latest: "Series D"
-total_raised: "~$632M"
 firms:
-  - slug: nea
-    round: series-d
-    year: 2026
-    date: 2026-06-10
-status: published
+- date: 2026-06-10
+  round: series-d
+  slug: nea
+  year: 2026
+- round: (board seat)
+  slug: koch-disruptive-technologies
+  year: 2022
+founded: 2019
+investors:
+- round: (board seat)
+  slug: byron-knight
+  year: 2022
 last_researched: 2026-06-11
+location: Burlingame, California
+name: Cellares
+sector:
+- biotech
+- healthcare
+- cell-therapy
+- manufacturing
+slug: cellares
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: ~$632M
+type: startup
+website: https://cellares.com
 ---
 
 ## About

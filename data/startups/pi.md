@@ -1,26 +1,35 @@
 ---
-name: "Pi"
-slug: pi
-type: startup
-website: "https://pi.security"
-location: "San Francisco, CA / Tel Aviv, Israel"
+firms:
+- round: '2026-06-10'
+  slug: armis
+  year: 2026
 founded: 2025
-status_company: active
-sector: [cybersecurity, ai, developer-tools, application-security, enterprise-software]
-stage_latest: "Series A"
-total_raised: "$35M"
-investors:
-  - slug: yevgeny-dibrov
-    round: series-a
-    year: 2026
-    date: 2026-06-10
 founders:
-  - name: "Guy Arazi"
-    role: "Co-Founder & CEO"
-  - name: "Yoni Ramon"
-    role: "Co-Founder & CPO"
-status: published
+- name: Guy Arazi
+  role: Co-Founder & CEO
+- name: Yoni Ramon
+  role: Co-Founder & CPO
+investors:
+- date: 2026-06-10
+  round: series-a
+  slug: yevgeny-dibrov
+  year: 2026
 last_researched: 2026-06-11
+location: San Francisco, CA / Tel Aviv, Israel
+name: Pi
+sector:
+- cybersecurity
+- ai
+- developer-tools
+- application-security
+- enterprise-software
+slug: pi
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $35M
+type: startup
+website: https://pi.security
 ---
 
 ## About

@@ -21173,7 +21173,7 @@ queue:
 - name: Willem Delbare
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Aikido
   discovered_from: holmes
@@ -27722,7 +27722,7 @@ queue:
 - name: Vlad Tenev
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Robinhood
   discovered_from: baiju-bhatt
@@ -28507,3 +28507,138 @@ queue:
   added: '2026-03-17'
   discovered_from: cameramatics
   source: existing investor CameraMatics; participated through €49M round (2026-06-11)
+- name: Tudor Achim
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Harmonic
+  discovered_from: vlad-tenev
+  source: Co-founder & CEO of Harmonic (mathematical AI), former CTO of Helm.ai
+- name: Aetherflux
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vlad-tenev
+  source: Space-based solar power startup by Baiju Bhatt; $50M Series A April 2025
+    co-led by Index Ventures & Interlagos with a16z, NEA, Breakthrough Energy Ventures,
+    Tenev
+- name: NALA
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vlad-tenev
+  source: Tanzanian/cross-border payments fintech; $40M Series A July 2024 led by
+    Acrew Capital; angels include Tenev, Ryan King (Chime)
+- name: Emerson Collective
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vlad-tenev
+  source: New investor in Harmonic Series C (Nov 2025); Laurene Powell Jobs' investment
+    firm
+- name: Benjamin Fernandes
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: NALA
+  discovered_from: vlad-tenev
+  source: Founder & CEO of NALA cross-border payments
+- name: Felix Garriau
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Aikido Security
+  discovered_from: willem-delbare
+  source: Co-founder & CMO of Aikido Security (Ghent)
+- name: Madeline Lawrence
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aikido Security
+  discovered_from: willem-delbare
+  source: Co-founder & CGO of Aikido; formerly Peak Capital (Amsterdam); cross-fund/angel
+    connector in Benelux SaaS scene
+- name: Pieterjan Bouten
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Showpad
+  discovered_from: willem-delbare
+  source: Showpad co-founder/CEO; Belgian operator-angel; co-invested in Aikido pre-seed
+    (Jan 2023)
+- name: Aikido Security
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Ghent-based developer-first security platform; €2M pre-seed Jan 2023, $5M
+    seed late 2023, $17M Series A May 2024 led by Singular w/ Notion Capital & Connect
+    Ventures; ~$85M total raised by 2026
+- name: Teamleader
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Ghent SaaS CRM/PM/invoicing for SMBs; founded 2012 by Delbare, De Wit, De
+    Loore; acquired by Visma
+- name: journy.io
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Belgian customer-data/CRM-integration SaaS; €450K seed Feb 2021 from PMV,
+    Peak Capital, Willem Delbare
+- name: StoryChief
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Belgian content-marketing SaaS; seed 2018; Delbare is advisor/angel
+- name: Salesflare
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Belgian B2B SaaS CRM; seed 2018 (~$410K); Delbare angel
+- name: Belfort
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Seed 2025 ($6M); Delbare angel — per Signal/NFX
+- name: Donna
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Pre-seed 2024 ($2M); Delbare angel — per Signal/NFX
+- name: Peak Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Amsterdam-based VC; co-invested with Delbare on journy.io seed Feb 2021
+- name: PMV
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: willem-delbare
+  source: Flemish public investment vehicle; co-invested with Delbare on journy.io
+    Feb 2021

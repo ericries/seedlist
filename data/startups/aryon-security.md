@@ -1,28 +1,36 @@
 ---
-name: "Aryon Security"
-slug: aryon-security
-type: startup
-website: "https://aryon.security"
-location: "Tel Aviv, Israel"
+firms:
+- round: '2026-06-10'
+  slug: armis
+  year: 2026
 founded: 2024
-status_company: active
-sector: [cybersecurity, cloud-security, enterprise-software, ai]
-stage_latest: "Series A"
-total_raised: "$38M"
-investors:
-  - slug: yevgeny-dibrov
-    round: series-a
-    year: 2026
-    date: 2026-06-10
 founders:
-  - name: "Ron Arbel"
-    role: "Co-Founder & CEO"
-  - name: "Ariel Litmanovich"
-    role: "Co-Founder & CTO"
-  - name: "Yair Ladizhensky"
-    role: "Co-Founder & CPO"
-status: published
+- name: Ron Arbel
+  role: Co-Founder & CEO
+- name: Ariel Litmanovich
+  role: Co-Founder & CTO
+- name: Yair Ladizhensky
+  role: Co-Founder & CPO
+investors:
+- date: 2026-06-10
+  round: series-a
+  slug: yevgeny-dibrov
+  year: 2026
 last_researched: 2026-06-11
+location: Tel Aviv, Israel
+name: Aryon Security
+sector:
+- cybersecurity
+- cloud-security
+- enterprise-software
+- ai
+slug: aryon-security
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $38M
+type: startup
+website: https://aryon.security
 ---
 
 ## About

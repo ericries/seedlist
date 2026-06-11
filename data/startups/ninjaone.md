@@ -1,21 +1,35 @@
 ---
-name: "NinjaOne"
-slug: ninjaone
-type: startup
-website: "https://www.ninjaone.com"
-location: "Austin, Texas"
-founded: 2013
-status_company: active
-sector: [it-management, cybersecurity, saas, enterprise-software]
-stage_latest: "Series F"
-total_raised: "$400M+ (Series F)"
 firms:
-  - slug: iconiq-growth
-    round: series-f
-    year: 2026
-    date: 2026-06-09
-status: published
+- date: 2026-06-09
+  round: series-f
+  slug: iconiq-growth
+  year: 2026
+founded: 2013
+investors:
+- round: Series C (lead)
+  slug: will-griffith
+  year: 2024
+- round: Series C (lead)
+  slug: divesh-makan
+  year: 2024
+- round: '2024'
+  slug: matt-jacobson
+  year: 2024
 last_researched: 2026-06-11
+location: Austin, Texas
+name: NinjaOne
+sector:
+- it-management
+- cybersecurity
+- saas
+- enterprise-software
+slug: ninjaone
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $400M+ (Series F)
+type: startup
+website: https://www.ninjaone.com
 ---
 
 ## About

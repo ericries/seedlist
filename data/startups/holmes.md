@@ -1,19 +1,6 @@
 ---
-name: Holmes
-slug: holmes
-type: startup
-location: Belgium
-founded: 2025
-status_company: active
-sector:
-- ai
-- developer-tools
-- software-testing
-- qa
-stage_latest: Pre-Seed
-total_raised: €1.1M
-investors: []
 firms: []
+founded: 2025
 founders:
 - name: Robin Praet
   role: Co-Founder
@@ -21,8 +8,24 @@ founders:
   role: Co-Founder
 - name: Sofie Buyse
   role: Co-Founder
+investors:
+- round: Pre-seed ($1M)
+  slug: willem-delbare
+  year: 2026
 last_researched: 2026-05-12
+location: Belgium
+name: Holmes
+sector:
+- ai
+- developer-tools
+- software-testing
+- qa
+slug: holmes
+stage_latest: Pre-Seed
 status: published
+status_company: active
+total_raised: €1.1M
+type: startup
 ---
 
 ## About
