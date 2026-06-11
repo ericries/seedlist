@@ -100,7 +100,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Berbix | Pre-Seed | 2018 | Identity/Security | Active [^13] |
 | Certify | Seed | 2025 | Healthcare/APIs | Active [^19] |
 | Elfie | Seed | 2025 | Healthcare/Wellness | Active [^19] |
-| Fusepay | Pre-Seed | 2025 | Fintech | Active [^7] |
+| Fusepay | Pre-Seed (led, $350K) | 2025-08-05 | Fintech (Seychelles, frontier markets) | Active [^30][^31][^32] |
 | Pavewise | Seed (participated, $2.5M) | 2025-10-22 | Construction/IT | Active [^19][^28] |
 | MidLyr | Pre-Seed | 2025 | Financial Services/AI | Active [^19] |
 | Mappa.ai | Seed | 2025 | HR/Recruiting | Active [^19] |
@@ -176,3 +176,9 @@ Hustle Fund reports a Net Promoter Score (NPS) of 93 with its portfolio founders
 [^28]: GlobeNewsWire, "Pavewise Announces $2.5 Million Seed Funding Round," October 22, 2025. Accessed May 2026. https://www.globenewswire.com/news-release/2025/10/22/3171190/0/en/Pavewise-Announces-2-5-Million-Seed-Funding-Round.html — $2.5M Seed announced October 22, 2025, led by C2 Ventures with participation from Connectic, Service Provider Capital, Geoff Judge, Tom Stemm (ex-Ryvit CEO), M25, gener8tor 1889, Broadwater Capital, and additional investors. Hustle Fund is listed as a participating investor in this round per Tracxn.
 
 [^29]: TechCrunch, "Clouted wants to take the guesswork out of making short videos go viral," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/
+
+[^30]: Fusepay blog, "Fusepay Raises $350K in Pre-Seed Funding from Global Early-Stage Investors," August 5, 2025. Accessed June 2026. https://www.fusepay.app/blog-posts/fusepay-preseed-announcement — Confirms $350K pre-seed round led by Hustle Fund with participation from Everywhere Ventures, First Check Ventures, Startup Istanbul, and angel investor Ryan Nesbitt.
+
+[^31]: TechCabal, "Fusepay launches in Seychelles to replace paper cheques with digital payments," November 21, 2025. Accessed June 2026. https://techcabal.com/2025/11/21/fusepay-takes-aim-at-seychelles-slow-paper-heavy-payments-system/ — Confirms August 2025 pre-seed with Hustle Fund as lead.
+
+[^32]: allAfrica/Dabafinance, "Seychelles: Fusepay Launches Payments Platform in Seychelles After $350k Pre-Seed," November 27, 2025. Accessed June 2026. https://allafrica.com/stories/202511270434.html — Confirms $350K pre-seed backed by Hustle Fund, Everywhere Ventures, First Check Ventures, Startup Istanbul, and Ryan Nesbitt.

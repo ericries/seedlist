@@ -162938,7 +162938,9 @@ vague_facts:
   line: '| Fusepay | Pre-Seed | 2025 | Fintech | Active [^7] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-06-10'
+  resolution_note: "Resolved to 2025-08-05 via 3 independent primary sources: (1) Fusepay's own blog post 'Fusepay Raises $350K in Pre-Seed Funding from Global Early-Stage Investors' dated August 5, 2025; (2) TechCabal article 2025-11-21; (3) allAfrica/Dabafinance 2025-11-27. Round was $350K pre-seed LED by Hustle Fund with participation from Everywhere Ventures, First Check Ventures, Startup Istanbul, and angel investor Ryan Nesbitt. Updated portfolio row from year-only '2025' to '2025-08-05' with full lead/amount details and added citations [^30][^31][^32]."
 - profile: firms/hustle-fund
   profile_name: Hustle Fund
   company: MidLyr
