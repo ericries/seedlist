@@ -105,10 +105,11 @@ Based on 38 verified investments compiled from Tribe Capital's portfolio page, C
 | Relativity Space | Early stage | ~2017 | Space | [^4] |
 | CloudKitchens | Early stage | ~2017 | Food Tech | [^4] |
 | Slack | Early stage | ~2016 | Enterprise | [^1] |
-~unknown| Republic | — | — | Fintech | [^15] |
-~unknown| Apollo.io | — | — | SaaS | [^7] |
-~unknown| Shiprocket | — | — | Logistics | [^7] |
-~unknown| Blackbuck | — | — | Logistics | [^15] |
+| Republic | Series B | 2021-10-19 | Fintech | [^26] [^27] |
+| Apollo.io | Series B (lead) | 2021-11-01 | SaaS | [^28] [^29] |
+| Shiprocket | Series C | 2020-05-11 | Logistics | [^30] |
+| Shiprocket | Series C3 (co-lead) | 2021-02-18 | Logistics | [^31] |
+| Blackbuck | Series E (co-lead) | 2021-07-21 | Logistics | [^32] [^33] |
 ~unknown| MoonPay | — | — | Crypto | [^7] |
 ~unknown| Chipper Cash | — | — | Fintech | [^8] |
 ~unknown| Momentus | — | — | Space | [^7] |
@@ -188,3 +189,11 @@ No independently sourced founder testimonials found. Docker CEO Scott Johnston d
 [^23]: Applied Intuition, "Applied Intuition hits $15B valuation with $600M Series F fundraising and tender offer," June 17, 2025, accessed April 2026. Tribe Capital listed as existing investor participating in the Series F. https://www.appliedintuition.com/news/series-f
 [^24]: TechCrunch, "Customer communication startup Intercom raises $50M," April 7, 2016, accessed April 2026. Social Capital listed as participating investor in $50M round led by Index Ventures. https://techcrunch.com/2016/04/07/intercom-funding/
 [^25]: Tech.eu, "Intercom raises an additional $50 million to expand product and double workforce," April 7, 2016, accessed April 2026. https://tech.eu/2016/04/07/intercom-50-million/
+[^26]: PR Newswire, "Republic Announces a $150 Million Series B Round," October 19, 2021, accessed June 2026. Valor Equity Partners led; Tribe Capital participated as returning Series A investor. https://www.prnewswire.com/news-releases/republic-announces-a-150-million-series-b-round-301403740.html
+[^27]: TechCrunch, "Republic may build a secondary exchange for digital securities, fueled by $150 million in new funding," October 19, 2021, accessed June 2026. https://techcrunch.com/2021/10/19/republic-may-build-a-secondary-exchange-for-digital-securities-fueled-by-150-million-in-new-funding/
+[^28]: PR Newswire, "Apollo.io Raises $32M in Series B Funding," November 1, 2021, accessed June 2026. Tribe Capital led the round; NewView Capital and Nexus Venture Partners participated; Sri Pangulur of Tribe joined Apollo.io's board. https://www.prnewswire.com/news-releases/apolloio-raises-32m-in-series-b-funding-to-make-b2b-sales-prospecting-more-intelligent-automated-and-accessible-301413143.html
+[^29]: Apollo.io, "Apollo.io Raises $32M in Series B to Make GTM More Intelligent and Accessible," November 2021, accessed June 2026. https://www.apollo.io/magazine/apolloio-raises-32m-in-series-b-to-make-gtm-more-intelligent-and-accessible
+[^30]: Crunchbase, "Shiprocket Series C funding round, May 11, 2020," accessed June 2026. Tribe Capital led $13M Series C with Innoven Capital and Bertelsmann India Investments. https://www.crunchbase.com/funding_round/shiprocket-series-c--b7a6f1f8
+[^31]: Business Standard, "Shiprocket raises $27 mn from Silicon Valley's Tribe Capital, March Capital," February 18, 2021, accessed June 2026. https://www.business-standard.com/article/companies/shiprocket-raises-27-mn-from-silicon-valley-s-tribe-capital-march-capital-121021800420_1.html
+[^32]: TechCrunch, "India's BlackBuck valued at $1 billion in $67 million fundraise," July 21, 2021, accessed June 2026. Tribe Capital, IFC Emerging Asia Fund, and VEF co-led the Series E. https://techcrunch.com/2021/07/21/indias-blackbuck-valued-at-1-billion-in-67-million-fundraise/
+[^33]: Crunchbase, "Blackbuck Series E funding round, July 22, 2021," accessed June 2026. https://www.crunchbase.com/funding_round/zinka-logistics-series-e--e64eae5c

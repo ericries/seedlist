@@ -91,12 +91,12 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 |---------|-------|------|--------|--------|--------|
 | Town | Seed | 2025-03-16 | AI/Tax | Active | [^6][^21] |
 | Lovable | Series A | 2025-07-17 | AI/Developer Tools | Active | [^6][^22][^23] |
-| Basis | Series A | 2024 | Fintech | Active | [^6] |
-| MatX | Series A | 2024 | AI Chips | Active | [^6] |
-| Mercor | Series A | 2024 | AI/Talent | Active | [^6] |
-| Protege | Seed | 2024 | Education | Active | [^6] |
+| Basis | Series A | 2024-12-17 | Fintech | Active | [^6][^24][^25] |
+| MatX | Series A | 2024-11-22 | AI Chips | Active | [^6][^26] |
+| Mercor | Series A | 2024-09-19 | AI/Talent | Active | [^6][^27][^28] |
+| Protege | Seed | 2024-09-10 | Education | Active | [^6][^29][^30] |
 | Pika | Series B | 2023 | AI/Video | Active | [^6] |
-| DatologyAI | Seed | 2024 | AI/Data | Active | [^6] |
+| DatologyAI | Seed | 2024-02-22 | AI/Data | Active | [^6][^31][^32] |
 | Codegen | Seed | 2023 | AI/Developer Tools | Active | [^6] |
 | Scale AI | Series C | 2019 | AI/Data Platform | Active | [^8][^10] |
 | Cerebras Systems | Angel | ~2017 | AI Chips | IPO (NASDAQ, May 2026) | [^9][^19][^20] |
@@ -173,3 +173,12 @@ No independently sourced founder testimonials found.
 [^21]: Tracxn, "Adam D'Angelo — 2025 Portfolio," accessed June 2026. Town seed round dated March 16, 2025. https://tracxn.com/d/people/adam-dangelo/__knoVDIS4udvDAteXAG6Wo1ccGFVDxca-awyTYRCZNzk
 [^22]: TechCrunch, "Lovable becomes a unicorn with $200M Series A just 8 months after launch," July 17, 2025. Accessed June 2026. https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/
 [^23]: Lovable, "Lovable Raises $200M, Valued at $1.8B, Just Eight Months After Launch," July 17, 2025. Accessed June 2026. https://lovable.dev/blog/200m-series-a-fundraise
+[^24]: Basis, "Basis Raises $34m Series A Led by Khosla Ventures," December 17, 2024. Accessed June 2026. https://www.getbasis.ai/blogs/basis-raises-a-34m-series-a-led-by-khosla-ventures
+[^25]: Fintech Global, "Basis raises $34m to transform accounting with AI-powered software," December 18, 2024. Accessed June 2026. https://fintech.global/2024/12/18/basis-raises-34m-to-transform-accounting-with-ai-powered-software/
+[^26]: TechCrunch, "AI chip startup MatX, founded by Google alums, raises Series A at $300M+ valuation, sources say," November 22, 2024. Accessed June 2026. https://techcrunch.com/2024/11/22/ai-chip-startup-matx-founded-by-google-alums-raises-series-a-at-300m-valuation-sources-say/
+[^27]: PR Newswire, "Mercor Raises $30M Series A at a $250M Valuation to Create Jobs with AI," September 19, 2024. Accessed June 2026. https://www.prnewswire.com/news-releases/mercor-raises-30m-series-a-at-a-250m-valuation-to-create-jobs-with-ai-302252449.html
+[^28]: Tech Startups, "AI-powered hiring platform startup Mercor raises $30M in Series A funding led by Benchmark," September 18, 2024. Accessed June 2026. https://techstartups.com/2024/09/18/ai-powered-hiring-platform-startup-mercor-raises-30m-in-series-a-funding-led-by-benchmark/
+[^29]: PR Newswire, "Protege Raises $10 Million and Launches Platform for AI Training Data," September 10, 2024. Accessed June 2026. https://www.prnewswire.com/news-releases/protege-raises-10-million-and-launches-platform-for-ai-training-data-302244064.html
+[^30]: FinSMEs, "Protege Raises $10M in Seed Funding," September 2024. Accessed June 2026. https://www.finsmes.com/2024/09/protege-raises-10m-in-seed-funding.html
+[^31]: SiliconANGLE, "DatologyAI raises $11.65M to automate data curation for more efficient AI training," February 22, 2024. Accessed June 2026. https://siliconangle.com/2024/02/22/datologyai-raises-11-65m-automate-data-curation-efficient-ai-training/
+[^32]: The SaaS News, "DatalogyAI Raises $11.65 Million in Seed Round," February 2024. Accessed June 2026. https://www.thesaasnews.com/news/datalogyai-raises-11-65-million-in-seed-round
