@@ -106,9 +106,9 @@ This table includes 30 verified investments. Sources indicate Rauch may have mad
 | tldraw | 2023 | Extension | [^19] |
 | Perplexity AI | 2024 | Series B | [^20] |
 | Resend | 2024 | Series A | [^21] |
-| Mastra | 2025 | Seed | [^13] |
+| Mastra | 2025-10-08 | Seed | [^13] [^25] |
 | Supabase | 2025 | Series D | [^22] |
-| Black Forest Labs | 2025 | Series B | [^23] |
+| Black Forest Labs | 2025-12-01 | Series B | [^23] [^26] |
 | Luminal | 2025 | Seed | [^24] |
 | Applied Labs AI | 2025 | Seed | [^21] |
 | Sanity | 2025 | Series C | [^21] |
@@ -180,3 +180,5 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^22]: "Exclusive: Supabase raises $200 million Series D at $2 billion valuation," Fortune, April 2025, accessed March 2026. https://fortune.com/2025/04/22/exclusive-supabase-raises-200-million-series-d-at-2-billion-valuation/
 [^23]: "Black Forest Labs Announces Series B Investment to Accelerate Frontier Visual Intelligence," GlobeNewsWire, December 2025, accessed March 2026. https://www.globenewswire.com/news-release/2025/12/01/3197140/0/en/UPDATE-Black-Forest-Labs-Announces-Series-B-Investment-to-Accelerate-Frontier-Visual-Intelligence.html
 [^24]: "Luminal raises $5.3 million to build a better GPU code framework," TechCrunch, November 2025, accessed March 2026. https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/
+[^25]: "Mastra Raises $13M Seed for TypeScript AI Framework," TechNews180, October 8, 2025, accessed June 2026. https://technews180.com/funding-news/mastra-raises-13m-seed-for-typescript-ai-framework/
+[^26]: "Black Forest Labs raises $300M at $3.25B valuation," TechCrunch, December 1, 2025, accessed June 2026. https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation/
