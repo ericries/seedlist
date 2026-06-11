@@ -3,9 +3,9 @@ check_size: $25K–$100K (angel/seed); $5M–$20M (growth fund, Series B/C)
 firm: sv-angel
 last_researched: 2026-03-13
 last_verified_investment:
-  company: Sierra
-  date: ~2023
-  round: Seed
+  company: Anthropic
+  date: 2023-05-23
+  round: Series C
 location: San Francisco, CA
 name: Ron Conway
 role: Founder & Managing Partner
@@ -133,10 +133,10 @@ Conway is known for making decisions extremely quickly -- by the time he meets f
 | Faire | ~2017 (founded) | Seed | [^9] |
 | OpenAI | ~2015 | Seed | [^9][^13] |
 | Vercel | ~2015 (founded) | Seed | [^9] |
-| ElevenLabs | ~2022 (founded) | Seed | [^9] |
-| Harvey | ~2022 (founded) | Seed | [^9] |
+| ElevenLabs | 2023-06-20 | Series A ($19M; led by Nat Friedman, Daniel Gross, a16z) | [^9][^26] |
+| Harvey | 2023-04-27 | Series A ($21M; led by Sequoia) | [^9][^27][^28] |
 | Sierra | ~2023 (founded) | Seed | [^9] |
-| Anthropic | ~2021 (founded) | Seed | [^9] |
+| Anthropic | 2023-05-23 | Series C ($450M; led by Spark Capital) | [^9][^31][^32] |
 | Hugging Face | ~2016 (founded) | Seed | [^9] |
 | Character.AI | ~2021 (founded) | Seed | [^9] |
 | Mistral AI | ~2023 (founded) | Seed | [^9] |
@@ -148,7 +148,7 @@ Conway is known for making decisions extremely quickly -- by the time he meets f
 | Boom | ~2014 (founded) | Seed | [^9] |
 | Armorblox | 2019 | Series A | [^12] |
 | StockX | 2018 | Series B | [^12] |
-| Kumo.AI | 2022 | Series B | [^3] |
+| Kumo.AI | 2022-09-27 | Series B ($18M; led by Sequoia) | [^3][^29][^30] |
 
 *Note: Many exact investment dates are not publicly disclosed. Years marked "~YYYY (founded)" use the company's founding year as a proxy where the specific investment year is unknown. Companies listed on SV Angel's portfolio page are sourced to [^9].*
 
@@ -265,3 +265,17 @@ Conway is known for making decisions extremely quickly -- by the time he meets f
 [^24]: "Ron Conway." All American Speakers biography. https://www.allamericanspeakers.com/celebritytalentbios/Ron+Conway/385694. Accessed 2026-03-24.
 
 [^25]: "The Economic Innovation Group Launches to Engage Entrepreneurs and Investors in Addressing America's Economic Challenges." Economic Innovation Group. https://eig.org/news/the-economic-innovation-group-launches-to-engage-entrepreneurs-and-investors-in-addressing-americas-economic-challenges-2. Accessed 2026-03-24.
+
+[^26]: "ElevenLabs Announces $19m Series A Round." ElevenLabs blog, June 20, 2023. https://elevenlabs.io/blog/elevenlabs-launches-new-generative-voice-ai-products-and-announces-19m-series-a-round-led-by-nat-friedman-daniel-gross-and-andreessen-horowitz. Accessed 2026-06-03.
+
+[^27]: "Harvey raises $21m Series A and Dori comes 'out of stealth mode' with $2m seed raise." Legal IT Insider, April 27, 2023. https://legaltechnology.com/2023/04/27/investment-harvey-raises-21m-series-a-and-dori-comes-out-of-stealth-mode-with-2m-seed-raise/. Accessed 2026-06-03.
+
+[^28]: "Legal AI-focused firm Harvey raises $21M led by Sequoia." SiliconANGLE, April 27, 2023. https://siliconangle.com/2023/04/27/legal-ai-focused-firm-harvey-raises-21m-led-sequoia/. Accessed 2026-06-03.
+
+[^29]: "Predictive AI Startup Kumo Raises $18 Million in Series B Funding Led By Sequoia Capital." BusinessWire, September 27, 2022. https://www.businesswire.com/news/home/20220927005002/en/Predictive-AI-Startup-Kumo-Raises-$18-Million-in-Series-B-Funding-Led-By-Sequoia-Capital-Will-Broadly-Roll-Out-First-Version-of-Its-Product-on-October-16. Accessed 2026-06-03.
+
+[^30]: "Kumo aims to bring predictive AI to the enterprise with $18M in fresh capital." TechCrunch, September 27, 2022. https://techcrunch.com/2022/09/27/kumo-aims-to-bring-predictive-ai-to-the-enterprise-with-18m-in-fresh-capital/. Accessed 2026-06-03.
+
+[^31]: "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products." Anthropic, May 23, 2023. https://www.anthropic.com/news/anthropic-series-c. Accessed 2026-06-03.
+
+[^32]: "Anthropic - 2026 Funding Rounds & List of Investors." Tracxn (SV Angel listed as Series C participant). https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors. Accessed 2026-06-03.

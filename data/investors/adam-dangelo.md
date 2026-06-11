@@ -3,9 +3,9 @@ check_size: $10K-$500K
 firm: quora
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Cerebras Systems
-  date: ~2026
-  round: ~2017
+  company: Oboe
+  date: 2025-12-10
+  round: Series A
 location: Palo Alto, CA
 name: Adam D'Angelo
 role: Co-Founder & CEO
@@ -65,9 +65,8 @@ Based on 22 verified investments compiled from Evalyze.ai, Premier Alternatives,
 *Note: Some companies span multiple categories; each is counted once in its primary category.*
 
 **Stage distribution (9 investments with confirmed round data):**
-- Seed: 4 of 9 (44%) — DatologyAI, Codegen, Protege, Town
+- Seed: 5 of 9 (56%) — DatologyAI, Codegen, Protege, Town, Pika
 - Series A: 4 of 9 (44%) — Basis, MatX, Mercor, Lovable
-- Series B: 1 of 9 (11%) — Pika
 
 D'Angelo invests predominantly at seed stage, consistent with his stated check size of $10K-$500K [^7].
 
@@ -95,18 +94,18 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 | MatX | Series A | 2024-11-22 | AI Chips | Active | [^6][^26] |
 | Mercor | Series A | 2024-09-19 | AI/Talent | Active | [^6][^27][^28] |
 | Protege | Seed | 2024-09-10 | Education | Active | [^6][^29][^30] |
-| Pika | Series B | 2023 | AI/Video | Active | [^6] |
+| Pika | Seed | 2023-11-28 | AI/Video | Active | [^6][^33][^34] |
 | DatologyAI | Seed | 2024-02-22 | AI/Data | Active | [^6][^31][^32] |
-| Codegen | Seed | 2023 | AI/Developer Tools | Active | [^6] |
+| Codegen | Seed | 2023-11-16 | AI/Developer Tools | Active | [^6][^35] |
 | Scale AI | Series C | 2019 | AI/Data Platform | Active | [^8][^10] |
 | Cerebras Systems | Angel | ~2017 | AI Chips | IPO (NASDAQ, May 2026) | [^9][^19][^20] |
 | Replit | Angel | ~2018 (founding year) | Developer Tools | Active | [^9] |
-| Lambda | Series B | 2023 | AI/Compute | Active | [^9][^11] |
+| Lambda | Series B | 2023-03-21 | AI/Compute | Active | [^9][^11] |
 | Turing | Seed | 2019 | AI/Talent | Active | [^9][^12] |
 | Lighter | Angel | ~2022 (founding year) | Undisclosed | Active | [^9] |
 | Matic | Seed | 2019 | Robotics | Active | [^9][^13] |
-| Braintrust | Seed | 2022 | Developer Tools | Active | [^9][^14] |
-| Oboe Labs | Series A | 2025 | AI/Education | Active | [^9][^15] |
+| Braintrust | Seed | 2023-09-28 | Developer Tools | Active | [^9][^14] |
+| Oboe Labs | Series A | 2025-12-10 | AI/Education | Active | [^9][^15] |
 | Instagram | Angel | ~2011 | Consumer Social | Acquired (Meta, $1B, 2012) | [^1] |
 | Lunchclub | Seed | 2019 | AI/Networking | Active | [^2][^16] |
 | Pilot | Seed | 2017 | Fintech | Active | [^8][^17] |
@@ -182,3 +181,6 @@ No independently sourced founder testimonials found.
 [^30]: FinSMEs, "Protege Raises $10M in Seed Funding," September 2024. Accessed June 2026. https://www.finsmes.com/2024/09/protege-raises-10m-in-seed-funding.html
 [^31]: SiliconANGLE, "DatologyAI raises $11.65M to automate data curation for more efficient AI training," February 22, 2024. Accessed June 2026. https://siliconangle.com/2024/02/22/datologyai-raises-11-65m-automate-data-curation-efficient-ai-training/
 [^32]: The SaaS News, "DatalogyAI Raises $11.65 Million in Seed Round," February 2024. Accessed June 2026. https://www.thesaasnews.com/news/datalogyai-raises-11-65-million-in-seed-round
+[^33]: TechCrunch, "Pika Labs, which is building AI tools to generate and edit videos, raises $55M," November 28, 2023. Accessed June 2026. https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/
+[^34]: BusinessWire, "AI Company Pika Raises $55M to Redesign Video Making and Editing," November 27, 2023. Accessed June 2026. https://www.businesswire.com/news/home/20231127388431/en/AI-Company-Pika-Raises-%2455M-to-Redesign-Video-Making-and-Editing
+[^35]: TechCrunch, "Codegen raises new cash to automate software engineering tasks," November 16, 2023. Accessed June 2026. https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/
