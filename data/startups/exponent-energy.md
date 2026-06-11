@@ -30,7 +30,7 @@ On June 10, 2026, Exponent Energy announced ₹200 crore (approximately $21.1 mi
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-10 | Series B2 | ₹200 Cr | 360 ONE Asset, TDK Ventures | Hitachi Ventures, Eight Roads Ventures, Lightspeed, 3one4 Capital, AdvantEdge VC, YourNest [^1][^2] |
+| 2026-06-10 | Series B2 | ₹200 Cr | 360 ONE Asset, TDK Ventures | Hitachi Ventures, Eight Roads Ventures, Lightspeed, 3one4 Capital, AdvantEdge VC, YourNest [^1][^2][^3] |
 
 ## What Investors Say
 
