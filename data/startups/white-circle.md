@@ -1,26 +1,29 @@
 ---
-name: White Circle
-slug: white-circle
-type: startup
-website: https://whitecircle.ai/
-location: Paris, France
+firms: []
 founded: 2024
-status_company: active
+founders:
+- name: Denis Shilov
+  role: Co-Founder
+investors:
+- round: Seed ($11M)
+  slug: romain-huet
+  year: 2026
+last_researched: 2026-05-12
+location: Paris, France
+name: White Circle
 sector:
 - ai
 - ai-safety
 - cybersecurity
 - enterprise-software
 - developer-tools
+slug: white-circle
 stage_latest: Seed
-total_raised: $11M
-investors: []
-firms: []
-founders:
-- name: Denis Shilov
-  role: Co-Founder
-last_researched: 2026-05-12
 status: published
+status_company: active
+total_raised: $11M
+type: startup
+website: https://whitecircle.ai/
 ---
 
 ## About

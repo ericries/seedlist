@@ -24,6 +24,12 @@ firms:
 - round: Seed
   slug: weekend-fund
   year: 2020
+- round: Seed
+  slug: independent
+  year: 2020
+- round: Seed
+  slug: angellist
+  year: 2020
 founded: 2019
 founders:
 - name: Harry Hurst

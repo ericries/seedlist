@@ -1,12 +1,15 @@
 ---
-name: "Armis"
-slug: armis
-type: firm
-website: "https://www.armis.com"
-location: "San Francisco, CA"
-team: []
-status: published
 last_researched: 2026-06-11
+location: San Francisco, CA
+name: Armis
+slug: armis
+status: published
+team:
+- name: Yevgeny Dibrov
+  role: Co-Founder & CEO
+  slug: yevgeny-dibrov
+type: firm
+website: https://www.armis.com
 ---
 
 ## About

@@ -21181,7 +21181,7 @@ queue:
 - name: Louis Jonckheere
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Showpad
   discovered_from: holmes
@@ -21293,7 +21293,7 @@ queue:
 - name: Durk Kingma
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Anthropic (formerly OpenAI cofounder)
   discovered_from: white-circle
@@ -28664,3 +28664,134 @@ queue:
   firm: Endurance Energy
   discovered_from: endurance-energy
   source: Founder/CEO of Endurance Energy; former SpaceX engineer (Dragon, Starship)
+- name: Lorenz Bogaert
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Ghent operator-angel; frequent co-investor (Netlog, Rydoo, StarApps) with
+    Louis Jonckheere
+- name: Joris Van Der Gucht
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Silverfin / Ravical
+  discovered_from: louis-jonckheere
+  source: Ghent operator-angel; co-invests with Louis Jonckheere
+- name: Matthias Geeroms
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lighthouse
+  discovered_from: louis-jonckheere
+  source: Ghent operator-angel; co-invests with Louis Jonckheere in Eagl, BetterPic
+- name: Showpad
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Sales enablement platform; co-founded by Louis Jonckheere; acquired by Vector
+    Capital + Insight Partners 2025
+- name: Spendesk
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Unicorn in Louis Jonckheere portfolio; Paris-based corporate spend mgmt
+- name: Henchman
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: AI legal contract drafting; acquired 2024; Louis Jonckheere portfolio
+- name: Eagl
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Ghent AI fin-ops platform; seed €825K Sep 2025; Louis Jonckheere participated
+- name: BetterPic
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Ghent AI imaging SaaS; seed $2.5M Aug 2025; Louis Jonckheere participated
+- name: Rookoo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Angel round $1.05M Nov 2025; Louis Jonckheere portfolio
+- name: Dalton (Getdalton)
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Seed $1.16M Sep 2025; Louis Jonckheere portfolio
+- name: IntelliProve
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Healthcare AI seed Jan 2025; Louis Jonckheere portfolio
+- name: Predikt
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Pre-seed 2025; Louis Jonckheere portfolio
+- name: DESelect
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Salesforce data viz; acquired Oct 2025; Louis Jonckheere portfolio exit
+- name: CHILI publish
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Graphic creation SaaS; Louis Jonckheere on board since Oct 2020
+- name: In The Pocket
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: louis-jonckheere
+  source: Ghent mobile dev agency; Louis Jonckheere co-founder and board member
+- name: CuspAI
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: durk-kingma
+  source: Cambridge AI materials-discovery startup; seed $30M (2024) + Series A $100M+
+    (Sep 2025) co-led NEA/Temasek; Durk Kingma angel
+- name: Hoxton Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: durk-kingma
+  source: European VC; CuspAI investor alongside Durk Kingma
+- name: Samsung Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: durk-kingma
+  source: Samsung corporate VC; CuspAI Series A co-investor

@@ -12,6 +12,9 @@ investors:
 - round: Pre-seed ($1M)
   slug: willem-delbare
   year: 2026
+- round: Pre-Seed
+  slug: louis-jonckheere
+  year: 2026
 last_researched: 2026-05-12
 location: Belgium
 name: Holmes

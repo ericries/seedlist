@@ -3,9 +3,9 @@ check_size: $10K-$500K
 firm: quora
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Oboe
-  date: 2025-12-10
-  round: Series A
+  company: Cerebras Systems
+  date: ~2026
+  round: ~2017
 location: Palo Alto, CA
 name: Adam D'Angelo
 role: Co-Founder & CEO
