@@ -66,6 +66,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: Leverage Shares by Themes Closing Capped Accelerated Single-Stock ETF Series
+    Due to Lack of Assets
+  url: https://www.globenewswire.com/news-release/2026/06/12/3311069/0/en/Leverage-Shares-by-Themes-Closing-Capped-Accelerated-Single-Stock-ETF-Series-Due-to-Lack-of-Assets.html
+  source: globenewswire
+  date_found: '2026-06-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Profitable Oslo-based AI startup Mimir raises €518.3k pre-Seed to automate
+    e-commerce operations
+  url: https://www.eu-startups.com/2026/06/profitable-oslo-based-ai-startup-mimir-raises-e518-3k-pre-seed-to-automate-e-commerce-operations/
+  source: eu-startups
+  date_found: '2026-06-12'
+  parsed_company: Profitable Oslo-based AI startup Mimir
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (June 08 – June 12)
+  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-08-june-12/
+  source: eu-startups
+  date_found: '2026-06-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden
     with AI
   url: https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/
@@ -872,27 +899,3 @@ pending_rounds:
   parsed_amount: $6.6M
   parsed_round: Seed
   status: processed
-- title: AethexAI raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: AethexAI
-  parsed_amount: $3M
-  parsed_round: null
-  status: processed
-- title: m. Scrunch had raised $19M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: m. Scrunch had
-  parsed_amount: $19M
-  parsed_round: null
-  status: skipped
-- title: Innio raised $2.4B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Innio
-  parsed_amount: $2.4B
-  parsed_round: null
-  status: skipped
