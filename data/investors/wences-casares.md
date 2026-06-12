@@ -26,7 +26,7 @@ social:
   twitter: '@wences'
   linkedin: linkedin.com/in/wcasares
 status: published
-last_researched: 2026-03-25
+last_researched: 2026-06-03
 ---
 
 ## Background
@@ -86,19 +86,19 @@ Note: Some companies span multiple categories (e.g., Meanwhile is both fintech a
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Tiaxa | ~2010s | Angel | Mobile financial services / nano-credit | [^14][^25] |
+| Tiaxa | ~2010s | Angel (aggregator-listed; no primary source confirms participation) | Mobile financial services / nano-credit | [^14][^25] |
 | Popego | ~2007 | Angel | Social | [^14] |
 | Searchify | 2011 | Seed | Enterprise search | [^15][^16] |
-| Gengo | ~2010 | Seed | Translation services | [^14][^15] |
-| Nuvemshop | ~2011 | Angel | E-commerce platform | [^14][^17] |
+| Gengo | 2011-06-20 | Seed ($1M, Point Nine-led; with Mitch Kapor) | Translation services | [^14][^15][^30] |
+| Nuvemshop | 2011 | Angel (~$300K; with NXTP Labs, Alec Oxenford, Fabrice Grinda) | E-commerce platform | [^14][^17][^31] |
 | VivaReal | 2012 | Angel | Real estate marketplace | [^14][^20] |
 | Pago Rural | 2012 | Pre-Seed | Agricultural fintech | [^16][^17] |
-| Cornershop | 2015 | Angel | On-demand grocery delivery | [^14][^18] |
+| Cornershop | 2015-07-02 | Seed ($2.5M; with Ariel Poler, Oscar Salazar) | On-demand grocery delivery | [^14][^18][^32] |
 | Enigma | 2021 | Pre-Seed | Blockchain / privacy | [^15][^17] |
 | BoulderTech | 2024-11-11 | Early-stage | Fintech | [^17][^26] |
 | Alpen Labs | 2025-01-09 | Strategic | Bitcoin scaling / ZK proofs | [^21][^27] |
 | Meanwhile | 2025-04-10 | Series A ($40M, led by Framework Ventures and Fulgur Ventures) | Bitcoin life insurance | [^22][^28][^29] |
-| Tril | ~2007 | Angel | Unknown | [^14] |
+| Tril | ~2007 | Angel (aggregator-listed; sector unverified) | Unverified | [^14] |
 
 This table represents 13 known investments. Given Casares's extensive network and three decades in technology entrepreneurship, his actual angel portfolio is likely larger than what is publicly tracked.
 
@@ -191,3 +191,6 @@ No independently sourced founder testimonials found. Casares is more widely disc
 [^27]: Alpen Labs blog, "Alpen Labs raises a strategic round," January 9, 2025. https://www.alpenlabs.io/blog/strategic-round
 [^28]: Fortune, "Exclusive: Crypto startup Meanwhile, which collects and pays out life insurance policies in Bitcoin, raises $40 million," April 10, 2025. https://fortune.com/crypto/2025/04/10/meanwhile-life-insurance-policies-bitcoin-40-million/
 [^29]: CoinDesk, "Bitcoin Life Insurance Firm Meanwhile Raises $40M to Expand Globally," April 10, 2025. https://www.coindesk.com/business/2025/04/10/bitcoin-life-insurance-firm-meanwhile-raises-usd40m-to-expand-globally
+[^30]: TechCrunch, "MyGengo Raises $1 Million To 'Own' Translation," June 20, 2011. Accessed June 2026. https://techcrunch.com/2011/06/20/mygengo-raises-1-million-to-own-translation/ — Confirms Wences Casares as a participant in the $1M seed round alongside Point Nine and Mitch Kapor.
+[^31]: Crunchbase News, "Nuvemshop Bags $30M Series C To Scale Latam Online Businesses," accessed June 2026. https://news.crunchbase.com/startups/nuvemshop-bags-30m-series-c-to-scale-latam-online-businesses/ — Background reference for Nuvemshop's early angel round (~$300K, 2011) listing Wences Casares, NXTP Labs, Alec Oxenford, and Fabrice Grinda among early backers.
+[^32]: Crunchbase Funding Round, "Cornershop Seed Round, 2015-07-02 ($2.5M)," accessed June 2026. https://www.crunchbase.com/funding_round/cornershop-seed--87b2d0da — Confirms Cornershop's seed round date and amount; corroborated by TechStartups coverage [^18].

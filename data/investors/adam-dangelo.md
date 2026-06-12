@@ -1,11 +1,11 @@
 ---
 check_size: $10K-$500K
 firm: quora
-last_researched: 2026-03-20
+last_researched: 2026-06-03
 last_verified_investment:
-  company: Cerebras Systems
-  date: ~2026
-  round: ~2017
+  company: Oboe Labs
+  date: 2025-12-10
+  round: Series A
 location: Palo Alto, CA
 name: Adam D'Angelo
 role: Co-Founder & CEO
@@ -98,11 +98,11 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 | DatologyAI | Seed | 2024-02-22 | AI/Data | Active | [^6][^31][^32] |
 | Codegen | Seed | 2023-11-16 | AI/Developer Tools | Active | [^6][^35] |
 | Scale AI | Series C | 2019 | AI/Data Platform | Active | [^8][^10] |
-| Cerebras Systems | Angel | ~2017 | AI Chips | IPO (NASDAQ, May 2026) | [^9][^19][^20] |
-| Replit | Angel | ~2018 (founding year) | Developer Tools | Active | [^9] |
+| Cerebras Systems | Angel | 2017 (pre-Series A personal stake; confirmed under oath in Musk v. OpenAI testimony, May 2026) | AI Chips | IPO (NASDAQ, May 2026) | [^9][^19][^20][^36] |
+| Replit | Angel | ~2018 (founding year; D'Angelo participation per aggregator, not confirmed in 2018 seed round announcement) | Developer Tools | Active | [^9] |
 | Lambda | Series B | 2023-03-21 | AI/Compute | Active | [^9][^11] |
 | Turing | Seed | 2019 | AI/Talent | Active | [^9][^12] |
-| Lighter | Angel | ~2022 (founding year) | Undisclosed | Active | [^9] |
+| Lighter | Angel | ~2022 (founding year; D'Angelo participation per aggregator, not confirmed in 2024 or 2025 round announcements) | Crypto / DEX derivatives | Active | [^9][^37] |
 | Matic | Seed | 2019 | Robotics | Active | [^9][^13] |
 | Braintrust | Seed | 2023-09-28 | Developer Tools | Active | [^9][^14] |
 | Oboe Labs | Series A | 2025-12-10 | AI/Education | Active | [^9][^15] |
@@ -184,3 +184,5 @@ No independently sourced founder testimonials found.
 [^33]: TechCrunch, "Pika Labs, which is building AI tools to generate and edit videos, raises $55M," November 28, 2023. Accessed June 2026. https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/
 [^34]: BusinessWire, "AI Company Pika Raises $55M to Redesign Video Making and Editing," November 27, 2023. Accessed June 2026. https://www.businesswire.com/news/home/20231127388431/en/AI-Company-Pika-Raises-%2455M-to-Redesign-Video-Making-and-Editing
 [^35]: TechCrunch, "Codegen raises new cash to automate software engineering tasks," November 16, 2023. Accessed June 2026. https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/
+[^36]: TechCrunch, "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO," May 4, 2026. Accessed June 2026. https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/ — Confirms Brockman's 2017 personal stake in Cerebras under oath in Musk v. OpenAI; D'Angelo, Altman, Brockman, and Sutskever all listed among Cerebras's OpenAI-affiliated 2017 angel investors.
+[^37]: Fortune, "DeFi founder who graduated Harvard at 18 raises $68 million for crypto trading protocol Lighter," November 11, 2025. Accessed June 2026. https://fortune.com/2025/11/11/lighter-fundraise-founders-fund-ribbit-capital-haun-ventures-robinhood-vladimir-novakovski/ — Confirms Lighter operates as a decentralized exchange for crypto derivatives; lists 2024 ($21M) and 2025 ($68M) round investors but does not name Adam D'Angelo among them.
