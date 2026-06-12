@@ -160460,7 +160460,8 @@ vague_facts:
   line: '| Brigad | Series B | 2023 | Enterprise/Marketplace | Active [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Resolved to 2023-02-16 via Balderton Capital press release [^31] (€33M Series B led by Balderton with Wendel Group, Serena Capital, and Square Capital). Cross-referenced with Tech.eu and FinSMEs. Added citation [^31].
 - profile: firms/balderton-capital
   profile_name: Balderton Capital
   company: 32Co
@@ -160490,7 +160491,8 @@ vague_facts:
   line: '| Checkly | Series B | 2024 | Enterprise/DevOps | Active [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Already resolved in profile to 2024-07-31 via Balderton press release [^23] ($20M Series B led by Balderton with Accel, CRV, Paul H. Müller). Existing citation confirms exact date.
 - profile: firms/balderton-capital
   profile_name: Balderton Capital
   company: Quantum Systems
