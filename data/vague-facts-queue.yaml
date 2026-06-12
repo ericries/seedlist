@@ -194377,7 +194377,9 @@ vague_facts:
   line: '| Flock Safety | Series C | 2020 | Public Safety | Active [^20] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-12
+  resolution_note: "Resolved to 2020-11-02 via GlobeNewswire press release [^34]. Series C was $47M led by Meritech Capital; A* participation via Kevin and Julia Hartz (angels). Existing Flock Safety blog citation [^20] confirms round details."
 - profile: firms/a-star-capital
   profile_name: A*
   company: Notion

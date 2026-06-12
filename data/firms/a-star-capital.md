@@ -83,7 +83,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Decagon | Series A | 2024-06-18 | AI/Customer Support | Active [^18][^23][^24] |
 | EyeTell | Seed (led, amount undisclosed) | 2023-11-14 | AI/Video | Active [^17] |
 | Faire | Series B+ | ~2021 | Wholesale Marketplace | Active [^2] |
-| Flock Safety | Series C | 2020 | Public Safety | Active [^20] |
+| Flock Safety | Series C ($47M, led by Meritech) | 2020-11-02 | Public Safety | Active [^20][^34] |
 | Krea | Seed ($3M, led by Pebblebed) | 2023-03 | AI/Creative Tools | Active [^1][^32][^33] |
 ~unknown| Mach Industries | — | — | Defense/Drones | Active [^15] |
 | Mercor | Series A (Benchmark led) | 2024-09-18 | AI/HR Marketplace | Active [^12][^31] |
@@ -187,3 +187,5 @@ No independently sourced founder testimonials found. The firm's website does not
 [^32]: TechCrunch, "Krea's founders snubbed postgrad grants from the king of Spain to build their AI startup, now it's valued at $500M," April 7, 2025, accessed May 2026. https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/ — Confirms Krea funding history: $3M seed, $33M Series A, $47M Series B (April 2025) at $500M valuation. Lead investors: Pebblebed (seed), Andreessen Horowitz (Series A), Bain Capital Ventures (Series B).
 
 [^33]: Contrary Research, "Krea Business Breakdown & Founding Story," accessed May 2026. https://research.contrary.com/company/krea — Confirms A* participated in Krea's $3M seed round (early 2023) alongside Pebblebed (lead), HF0, Abstract Ventures, and Gradient Ventures.
+
+[^34]: GlobeNewswire, "FLOCK SAFETY RAISES $47M IN SERIES C FUNDING TO ELIMINATE CRIME WITHIN A PRIVACY-FIRST FRAMEWORK," November 2, 2020, accessed June 2026. https://www.globenewswire.com/en/news-release/2020/11/02/2118747/0/en/FLOCK-SAFETY-RAISES-47M-IN-SERIES-C-FUNDING-TO-ELIMINATE-CRIME-WITHIN-A-PRIVACY-FIRST-FRAMEWORK.html — Press release confirming exact announcement date 2020-11-02. Round led by Meritech Capital; participants include Initialized Capital, Axon, Bedrock Capital, Matrix Partners, Founders Fund, Y-Combinator, plus angel investors Kevin and Julia Hartz, and Zac Bookman.
