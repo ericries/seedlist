@@ -368,7 +368,9 @@ vague_facts:
   line: '| Twilio | Seed | 2010 | Communications | IPO (2016, NYSE) | [^12][^16][^23] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-12
+  resolution_note: "Tightened: Twilio's actual seed was 2009-03 ($600K led by Founders Fund and Mitch Kapor; 500's Dave McClure participated as an angel with $50K). 500 Startups (firm) launched a dedicated $250K Twilio Fund on 2010-12-21 to invest in companies built on Twilio's API. Updated portfolio row to reflect 2009 seed plus the 2010-12-21 Twilio Fund context. Added citation [^36] (TechCrunch 2010-12-21)."
 - profile: firms/500-global
   profile_name: 500 Global
   company: Wildfire
@@ -408,7 +410,9 @@ vague_facts:
   line: '| Credit Karma | Series B | 2013 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12][^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-12
+  resolution_note: "Resolved to 2013-04-02. Credit Karma's $30M Series B was announced April 2, 2013, co-led by Ribbit Capital and Susquehanna Growth Equity, with Felicis Ventures participating. Verified via 3 primary sources: TechCrunch (2013-04-02), Credit Karma own press release (creditkarma.com/about/releases/credit-karma-seriesb-funding), and Susquehanna Growth Equity announcement (sgep.com). Added citation [^37]. Updated portfolio row with full date and lead investors."
 - profile: firms/500-global
   profile_name: 500 Global
   company: Viki

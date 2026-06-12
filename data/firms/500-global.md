@@ -96,11 +96,11 @@ Notable portfolio companies with verified investment data:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Twilio | Seed | 2010 | Communications | IPO (2016, NYSE) | [^12][^16][^23] |
+| Twilio | Seed (Dave McClure $50K angel; 500 Startups later launched a dedicated $250K "Twilio Fund" for startups on Twilio's API on 2010-12-21) | 2009 | Communications | IPO (2016, NYSE) | [^12][^16][^23][^36] |
 | Wildfire | Seed | 2011 | Marketing | Acquired by Google ($350M) | [^16][^2] |
 | MakerBot | Seed | 2011 | Hardware | Acquired by Stratasys ($403M) | [^16][^2] |
 | Udemy | Seed | 2011 | EdTech | IPO (2021, NASDAQ) | [^16][^2] |
-| Credit Karma | Series B | 2013 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12][^24] |
+| Credit Karma | Series B ($30M, co-led by Ribbit Capital and Susquehanna Growth Equity; Felicis Ventures also participated) | 2013-04-02 | Fintech | Acquired by Intuit ($7.1B) | [^6][^12][^24][^37] |
 | Viki | Series A | 2010 | Media | Acquired by Rakuten ($200M) | [^16][^25] |
 | Simple | Seed | ~2012 | Fintech | Acquired by BBVA ($117M) | [^16] |
 | Canva | Seed | 2013 | Design/SaaS | Active ($40B valuation) | [^12][^17][^26] |
@@ -195,3 +195,7 @@ Notable portfolio companies with verified investment data:
 [^34]: PR Newswire, "RemotePass Raises $17.4M Series B Led by EBRD Venture Capital as Global Employment and Fintech Converge," May 20, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/remotepass-raises-17-4m-series-b-led-by-ebrd-venture-capital-as-global-employment-and-fintech-converge-302777193.html — Primary press release confirming 500 Global participated in RemotePass's $17.4M Series B on May 20, 2026, led by EBRD Venture Capital with Oraseya Capital, 212 VC, Access Bridge Ventures, and Khwarizmi Ventures. Includes Amjad Ahmad (Managing Partner, 500 Global) quote.
 
 [^35]: Tech.eu, "RemotePass raises $17.4M to scale global payroll and hiring platform," May 20, 2026. Accessed May 2026. https://tech.eu/2026/05/20/remotepass-raises-174m-to-scale-global-payroll-and-hiring-platform/ — Independent press confirmation of $17.4M Series B, EBRD Venture Capital lead, and 500 Global participation.
+
+[^36]: TechCrunch, "500 Startups Announces First Winners Of Its $250K Twilio Micro-Fund," December 21, 2010. Accessed June 2026. https://techcrunch.com/2010/12/21/500-startups-announces-first-winners-of-its-250k-twilio-micro-fund/ — Confirms the 500 Startups Twilio Fund was announced in 2010 as a $250K micro-fund investing $10K in companies building on Twilio's API. Twilio's actual seed round occurred in March 2009 ($600K led by Founders Fund and Mitch Kapor) and 500 founder Dave McClure participated as an angel; 500 Startups (the firm) did not lead Twilio's company seed but had an early relationship via McClure's angel investment and the dedicated Twilio Fund.
+
+[^37]: TechCrunch, "Credit Karma Raises $30 Million Series B, Becomes More Like Mint As It Expands Beyond Credit Monitoring," April 2, 2013. Accessed June 2026. https://techcrunch.com/2013/04/02/credit-karma-raises-30-million-series-b-becomes-more-like-mint-as-it-expands-beyond-credit-monitoring/ — Primary press confirmation of Credit Karma's $30M Series B on April 2, 2013, co-led by Ribbit Capital and Susquehanna Growth Equity, with participation from existing investor Felicis Ventures. Cross-referenced with Credit Karma's own press release at https://www.creditkarma.com/about/releases/credit-karma-seriesb-funding and Susquehanna Growth Equity's announcement at https://www.sgep.com/news/credit-karma-secures-30-million-in-series-b-funding (3 primary sources).
