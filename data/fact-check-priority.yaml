@@ -44,10 +44,16 @@ priority:
   type: firm
   reason: "led Niteshift $7M seed (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-12
+  resolution_note: "Verified Niteshift $7M seed led by Greylock (Jerry Chen) on 2026-06-10 via 3 primary sources (TechCrunch, PressRelease.com, AlleyWatch). Added Niteshift to Greylock portfolio with citations [^35][^36][^37]. Co-investors: Amplify Partners, BoxGroup, SV Angel, plus angels Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin."
 - slug: jerry-chen
   type: investor
   reason: "led Niteshift seed via Greylock (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-12
+  resolution_note: "Verified Jerry Chen led Niteshift $7M seed on 2026-06-10 via 3 primary sources (TechCrunch, PressRelease.com, AlleyWatch). Added Niteshift row to portfolio with citations [^14][^15][^16]. Updated last_verified_investment to Niteshift Seed 2026-06-10 (replacing WarpStream 2024-03-14)."
 - slug: boxgroup
   type: firm
   reason: "participated in Niteshift seed (2026-06-10)"

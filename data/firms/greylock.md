@@ -218,6 +218,7 @@ The following table includes companies identified from Greylock's website portfo
 | Lyft | Series A | ~2012 (founded) | Consumer / Marketplace | Public (IPO 2019) [^8] |
 | Medium | Seed | ~2012 (founded) | Consumer / Media | Private [^8] |
 | Nextdoor | Series A | ~2011 (founded) | Consumer | Public (SPAC 2021) [^8] |
+| Niteshift | Seed (led, $7M) | 2026-06-10 | AI / Developer Tools / Cloud Infrastructure | Private [^35][^36][^37] |
 | Notion | Series A | ~2018 | SaaS | Private [^8] |
 | Okta | Series B | 2011 | Enterprise SaaS / Identity | Public (IPO 2017) [^8][^20] |
 | Opal Security | Series B (existing investor) | 2023-12-07 | Cybersecurity / Identity | Private [^31] |
@@ -374,3 +375,9 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^33]: Pulse 2.0, "Opal Security Raises $23 Million And Expands Leadership Team," June 2026. https://pulse2.com/opal-security-raises-23-million-and-expands-leadership-team/ — Independent confirmation: "The funding round was led by Greylock and Battery Ventures, with participation from Cambium Capital." Accessed June 2026.
 
 [^34]: StartupRise, "Opal Security Raises $23M in New Funding Led by Greylock," June 5, 2026. https://startuprise.io/opal-security-raises-23m-in-new-funding-led-by-greylock/ — Third independent confirmation of $23M new funding round co-led by Greylock and Battery Ventures with Cambium Capital. Accessed June 2026.
+
+[^35]: TechCrunch, "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in," June 10, 2026. https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/ — Confirms Niteshift's $7M seed round was led by Greylock partner Jerry Chen on June 10, 2026, with participation from Amplify Partners, BoxGroup, SV Angel, and angels including Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, and Misha Laskin. Accessed June 2026.
+
+[^36]: PressRelease.com, "Niteshift Raises $7 Million Seed Round to Power the Cloud Platform for AI Coding Agents," June 10, 2026. https://www.pressrelease.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding — Independent confirmation of $7M seed round led by Greylock on June 10, 2026. Includes Jerry Chen quote: "Sajid and Conor have been at the forefront of developer tools their entire careers." Accessed June 2026.
+
+[^37]: AlleyWatch Startup Daily Funding Report, June 11, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/ — Third independent listing of Niteshift's $7M seed led by Greylock. Accessed June 2026.
