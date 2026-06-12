@@ -116,6 +116,8 @@ Based on 8VC's verified portfolio and public data:
 | Latus Bio | Series A Extension (led) | 2026-05-04 | Biotech / Gene Therapy | Private [^18][^19] |
 | Sauron | Seed (participated, $18M) | 2024-12-05 | Home Security / AI | Private [^20][^21][^22] |
 | Cognition | $1B+ growth (co-led with Lux Capital and General Catalyst at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^29] |
+| Minerva | Seed ($20M, participated) | 2026-06-09 | AI / Consumer Marketing | Private [^30][^31][^32] |
+| Coram AI | Series B ($35M, participated; Battery + Ansa Capital co-led) | 2026-06-10 | AI / Physical Security | Private [^33][^34][^35] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -181,3 +183,15 @@ No independently sourced founder testimonials found.
 [^28]: BusinessWire, "Rilian Secures $17.5 Million in Seed Funding to Advance Agentic AI for Cyber and Defense Operations," April 23, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260423773644/en/Rilian-Secures-$17.5-Million-in-Seed-Funding-to-Advance-Agentic-AI-for-Cyber-and-Defense-Operations — $17.5M Seed announced April 23, 2026, co-led by 8VC, First In, and Tamarack Global; participation from 8090 Industries, Liquid 2 Ventures, Perot Jain, and Protego Ventures. McLean, VA-based agentic AI for cyber and defense.
 
 [^29]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/ — Confirms 8VC co-led Cognition's $1B+ round on May 27, 2026 at $26B post-money with Lux Capital and General Catalyst; Founders Fund, Elad Gil, Soma Capital, Omri Casspi, Ribbit Capital, Atreides, and Layer Global participated.
+
+[^30]: BusinessWire, "Minerva Launches AI Platform for Consumer Marketing with $20M from The General Partnership, 8VC, Lingotto Innovation, Topology Ventures and NBA Investments, Alongside OpenAI Collaboration," June 9, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260609135497/en/Minerva-Launches-AI-Platform-for-Consumer-Marketing-with-$20M-from-The-General-Partnership-8VC-Lingotto-Innovation-Topology-Ventures-and-NBA-Investments-Alongside-OpenAI-Collaboration — Primary press-wire announcement confirming Minerva's $20M seed round led by The General Partnership with 8VC, Lingotto Innovation, Topology Ventures, and NBA Investments participating, alongside an OpenAI collaboration.
+
+[^31]: Pulse2, "Minerva Raises $20 Million And Launches AI Marketing Platform In Collaboration With OpenAI," June 2026. Accessed June 2026. https://pulse2.com/minerva-raises-20-million-and-launches-ai-marketing-platform-in-collaboration-with-openai/ — Independent confirmation of $20M seed with 8VC participating; Brooklyn-based startup; lead investor The General Partnership (Phin Barnes quoted).
+
+[^32]: PPC Land, "Minerva raises $20M and an OpenAI deal to fix marketers' broken first-party data," June 2026. Accessed June 2026. https://ppc.land/minerva-raises-20m-and-an-openai-deal-to-fix-marketers-broken-first-party-data/ — Third independent confirmation of Minerva's $20M seed funding with 8VC among participants.
+
+[^33]: BusinessWire, "Coram AI Raises $35 Million Series B to Accelerate the Future of AI-Native Physical Security," June 10, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260610812247/en/Coram-AI-Raises-$35-Million-Series-B-to-Accelerate-the-Future-of-AI-Native-Physical-Security — Primary press-wire announcement confirming Coram AI's $35M Series B co-led by Battery Ventures and new investor Ansa Capital, with UP Partners, 8VC, and Mosaic Ventures participating.
+
+[^34]: The Next Web, "Coram raises $35M to turn cameras into AI detectives," June 2026. Accessed June 2026. https://thenextweb.com/news/coram-35m-series-b-ai-physical-security — Independent press confirmation of Coram AI's $35M Series B with 8VC among participating investors.
+
+[^35]: TechStartups, "Coram AI raises $35M to bring autonomous AI agents to physical security," June 11, 2026. Accessed June 2026. https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/ — Third independent confirmation of Coram AI Series B with 8VC participation.

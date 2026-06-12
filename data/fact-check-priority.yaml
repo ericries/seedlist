@@ -3,10 +3,16 @@ priority:
   type: investor
   reason: "appeared in KOHO Series E C$130M (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Verified Tobi Lutke in KOHO Series E (C$130M, 2026-06-11) via 3 primary sources (BetaKit, Globe and Mail, The Logic). Added KOHO row to portfolio with citations [^13][^14][^15]. Updated last_verified_investment to KOHO Series E 2026-06-11. Also tightened Sundial date to 2025-07-08 and Neo Financial Series D to 2024-11-11 with new citation [^16]."
 - slug: 8vc
   type: firm
   reason: "participated in Minerva $20M Seed (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Verified 8VC participation in Minerva $20M seed (2026-06-09, led by The General Partnership; Lingotto Innovation, Topology Ventures, NBA Investments also joined) via 3 primary sources (BusinessWire, Pulse2, PPC Land). Added portfolio row with citations [^30][^31][^32]. Note: actual announcement date was 2026-06-09, not 2026-06-11."
 - slug: battery-ventures
   type: firm
   reason: "co-led Coram AI Series B $35M (2026-06-11)"
@@ -15,6 +21,9 @@ priority:
   type: firm
   reason: "participated in Coram AI Series B (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Verified 8VC participation in Coram AI $35M Series B (2026-06-10, co-led by Battery Ventures + Ansa Capital; UP Partners and Mosaic Ventures also joined) via 3 primary sources (BusinessWire, The Next Web, TechStartups). Added portfolio row with citations [^33][^34][^35]."
 - slug: kleiner-perkins
   type: firm
   reason: "led Poetic Series A $50M (2026-06-10)"

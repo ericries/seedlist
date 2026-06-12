@@ -3,9 +3,9 @@ check_size: $5K-$50K
 firm: independent
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Manifold Labs
-  date: 2025-07-28
-  round: Series A
+  company: KOHO
+  date: 2026-06-11
+  round: Series E
 location: Ottawa, Ontario, Canada
 name: Tobi Lutke
 role: Co-Founder & CEO, Shopify
@@ -94,11 +94,12 @@ This table includes 14 verified investments. Sources indicate Lutke has made 22-
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| KOHO | Series E (C$130M, participated; new investor) | 2026-06-11 | Fintech / Challenger Bank | Active | [^13][^14][^15] |
 | Manifold Labs | Series A | 2025 | AI infrastructure | Active | [^3] |
-| Sundial | Series A | 2025 | AI analytics | Active | [^9] |
+| Sundial | Series A ($23M, participated) | 2025-07-08 | AI analytics | Active | [^9] |
 | Polar | Seed ($10M, Accel-led) | 2025-06-17 | Fintech / Payments infra | Active | [^3][^11][^12] |
 | Granola | Series B | 2025 | AI productivity | Active | [^8] |
-| Neo Financial | Series D | 2024 | Fintech | Active | [^4] |
+| Neo Financial | Series D (C$360M) | 2024-11-11 | Fintech | Active | [^4][^16] |
 | Butler | Seed | 2024 | Security / enterprise | Active | [^3] |
 | Socket | Series B | 2024 | Open source security | Active | [^10] |
 | Perplexity | Series B | 2024 | AI search | Active | [^7] |
@@ -138,3 +139,11 @@ No independently sourced founder testimonials found for Lutke's angel investing 
 [^10]: GlobeNewsWire, "Socket secures $40M to combat next-generation software supply chain security attacks," October 2024. https://www.globenewswire.com/news-release/2024/10/22/2967115/0/en/Socket-secures-40M-to-combat-next-generation-software-supply-chain-security-attacks-led-by-industry-titans-Abstract-Ventures-Elad-Gil-and-a16z.html
 [^11]: Polar blog, "Announcing our $10M Seed Round," June 17, 2025. https://polar.sh/blog/polar-seed-announcement
 [^12]: Accel, "Our Investment in Polar: The Future of Global Payments for AI-Native Developers," June 18, 2025. https://www.accel.com/noteworthies/our-investment-in-polar-the-future-of-global-payments-for-ai-native-developers
+
+[^13]: BetaKit, "Koho becomes Canada's latest unicorn following $130-million Series E round," June 11, 2026. Accessed June 2026. https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/ — Confirms KOHO's C$130M Series E at C$1.33B post-money on June 11, 2026; new investors Mubadala, Savano Capital, and Tobi Lutke joined; existing investors Portage, BDC Capital, HOOPP, Drive Capital, and Eldridge participated.
+
+[^14]: The Globe and Mail, "Koho raises $130-million, bolstering its case to become a bank," June 11, 2026. Accessed June 2026. https://www.theglobeandmail.com/business/article-koho-raises-130-million-banking-licence/ — Independent contemporaneous Canadian press confirming KOHO's C$130M Series E with Tobi Lutke as a new investor.
+
+[^15]: The Logic, "Abu Dhabi's Mubadala invests in Koho, valuing the fintech at $1.33B," June 11, 2026. Accessed June 2026. https://thelogic.co/news/koho-mubadala-fundraise-fintech-banking/ — Third independent confirmation of KOHO Series E with Tobi Lutke participation.
+
+[^16]: BusinessWire, "Neo Financial Raises $360M to Accelerate Growth and Position Itself as Leading Challenger to Banks in Canada," November 11, 2024. Accessed June 2026. https://www.businesswire.com/news/home/20241111234055/en/Neo-Financial-Raises-$360M-to-Accelerate-Growth-and-Position-Itself-as-Leading-Challenger-to-Banks-in-Canada — Primary press-wire announcement of Neo Financial's C$360M Series D dated November 11, 2024, with Tobi Lutke listed among investors alongside Stewart Butterfield, David Baszucki, and Mike Wessinger.
