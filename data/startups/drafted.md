@@ -1,0 +1,66 @@
+---
+name: "Drafted"
+slug: drafted
+type: startup
+website: "https://drafted.com"
+location: "San Francisco, CA"
+status_company: active
+sector: [ai, proptech, generative-ai, consumer, design]
+stage_latest: "Seed"
+total_raised: "$16M"
+investors:
+  - slug: ben-silbermann
+    round: seed
+    year: 2026
+    date: 2026-05-29
+  - slug: patrick-collison
+    round: seed
+    year: 2026
+    date: 2026-05-29
+  - slug: jack-altman
+    round: seed
+    year: 2026
+    date: 2026-05-29
+  - slug: charlie-songhurst
+    round: seed
+    year: 2026
+    date: 2026-05-29
+firms:
+  - slug: buckley-ventures
+    round: seed
+    year: 2026
+    date: 2026-05-29
+  - slug: y-combinator
+    round: seed
+    year: 2026
+    date: 2026-05-29
+founders:
+  - name: "Nick Donahue"
+    role: "CEO & Founder"
+status: published
+last_researched: 2026-06-13
+---
+
+## About
+
+Drafted is a San Francisco-based AI home design platform that lets users create custom floor plans and 3D home layouts using natural language prompts, targeting homebuyers, architects, builders, and developers [^1] [^2]. The company was founded by Nick Donahue, who previously built Atmos, a custom home design startup that raised $20 million from Khosla Ventures and Sam Altman before shutting down when rising interest rates collapsed client demand [^2]. Drafted is building multimodal generative models for residential architecture and spatial design, and reports that 120,000 users generated more than 325,000 floor plans through word-of-mouth alone in a single month prior to the funding announcement [^2].
+
+## Funding History
+
+| Date | Round | Amount | Lead | Co-investors |
+|------|-------|--------|------|--------------|
+| 2026-05-29 | Seed | $16M | Buckley Ventures | Y Combinator, Ben Silbermann, Patrick Collison, Jack Altman, Charlie Songhurst, Ryan Tedder, Convective Capital, Samsung, Starship Ventures, Evan Moore, Moses Moody, Alex Blania, Kevin Mahaffey [^1] [^2] [^3] |
+
+## What Investors Say
+
+No independently sourced investor quotes found at the time of profile creation.
+
+## What Founders Say
+
+No independently sourced founder testimonials found at the time of profile creation.
+
+## Sources
+
+[^1]: "Drafted Raises $16M Seed," The SaaS News, May 2026. Accessed June 2026. https://www.thesaasnews.com/news/drafted-raises-16m-seed/
+[^2]: "Drafted Raises $17.5M to Build AI Home Design Platform After 120,000 Users Generated 325,000 Floor Plans in One Month," AI Business Weekly, 2026. Accessed June 2026. https://aibusinessweekly.net/p/drafted-ai-home-design-funding-floor-plans
+[^3]: "Drafted: Design your home instantly with AI," Y Combinator company directory. Accessed June 2026. https://www.ycombinator.com/companies/drafted

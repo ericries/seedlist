@@ -577,3 +577,35 @@ priority:
   reason: "UNRESOLVABLE 2026-06-12 — leaps-by-bayer.md firm profile does NOT exist in data/firms/. Cannot add Leaf $13M Series B (~2026-06-10, Leaps by Bayer-led, San Francisco agtech data infrastructure, CEO G. Bailey Stockdale) portfolio row to non-existent profile. Per CLAUDE.md fact specificity workflow, marking unresolvable. Leaps by Bayer should be added to queue.yaml as a firm research lead. When the firm profile is created, the Leaf Series B round should be verified against 3+ independent primary sources (Morningstar/PRNewswire, AgNavigator, FinSMEs) and added as a portfolio row."
   added: 2026-06-12
   status: unresolvable
+- slug: nea
+  type: firm
+  reason: "led Corca $7.8M Seed (2026-06-10)"
+  added: 2026-06-13
+- slug: bloomberg-beta
+  type: firm
+  reason: "participated in Corca $7.8M Seed (2026-06-10)"
+  added: 2026-06-13
+- slug: buckley-ventures
+  type: firm
+  reason: "led Drafted $16M Seed (2026-05-29)"
+  added: 2026-06-13
+- slug: y-combinator
+  type: firm
+  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  added: 2026-06-13
+- slug: ben-silbermann
+  type: investor
+  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  added: 2026-06-13
+- slug: patrick-collison
+  type: investor
+  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  added: 2026-06-13
+- slug: jack-altman
+  type: investor
+  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  added: 2026-06-13
+- slug: gokul-rajaram
+  type: investor
+  reason: "participated in Maneva $27M Series A (2026-06-10)"
+  added: 2026-06-13
