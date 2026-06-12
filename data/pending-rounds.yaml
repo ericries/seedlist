@@ -20,6 +20,23 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Equal AI raises $30M to screen calls so Indians don’t have to
+  url: https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/
+  source: techcrunch
+  date_found: '2026-06-12'
+  parsed_company: Equal AI
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’
+    for the physical world
+  url: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
+  source: techcrunch
+  date_found: '2026-06-12'
+  parsed_company: Jeff Bezos’s Prometheus
+  parsed_amount: $12B
+  parsed_round: null
+  status: pending
 - title: Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden
     with AI
   url: https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/
@@ -70,7 +87,10 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   processed_date: '2026-06-11'
-  notes: "Created startup profile theker.md; added round to CRV firm portfolio. €73M (~$85M) Series A led by CRV with Samsung, LVMH, Cathay Innovation, 20VC, Henkel Ventures, Korelya, Bright Pixel, Inditex, Kibo. Europe's largest robotics Series A."
+  notes: Created startup profile theker.md; added round to CRV firm portfolio. €73M
+    (~$85M) Series A led by CRV with Samsung, LVMH, Cathay Innovation, 20VC, Henkel
+    Ventures, Korelya, Bright Pixel, Inditex, Kibo. Europe's largest robotics Series
+    A.
 - title: Berlin-based Angel Invest close €40 million Fund III targeting angel to Seed
     stages
   url: https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/
@@ -869,20 +889,3 @@ pending_rounds:
   parsed_amount: $125M
   parsed_round: null
   status: skipped
-- title: Keystone Acquisition raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Keystone Acquisition
-  parsed_amount: $250M
-  parsed_round: null
-  status: skipped
-- title: Ramp raises $750M at $44B valuation as investors hunger for fintechs with
-    an AI story
-  url: https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
-  source: techcrunch
-  date_found: '2026-06-04'
-  parsed_company: Ramp
-  parsed_amount: $750M
-  parsed_round: null
-  status: processed
