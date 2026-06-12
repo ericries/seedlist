@@ -1,4 +1,12 @@
 priority:
+- slug: tobi-lutke
+  type: investor
+  reason: "appeared in KOHO Series E C$130M (2026-06-11)"
+  added: 2026-06-12
+- slug: 8vc
+  type: firm
+  reason: "participated in Minerva $20M Seed (2026-06-11)"
+  added: 2026-06-12
 - slug: battery-ventures
   type: firm
   reason: "co-led Coram AI Series B $35M (2026-06-11)"
