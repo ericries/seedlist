@@ -23,6 +23,10 @@ team:
     name: "Angela Martin"
 status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  date: 2026-06-10
+  company: "Corca"
+  round: "Seed"
 ---
 
 ## About
@@ -103,6 +107,7 @@ This table represents a selection of Bloomberg Beta's 360+ investments. Sample d
 | Airspace Intelligence | Seed | ~2020 | AI/Aviation | Active [^9] |
 | Armstrong Robotics | Seed | 2025-10-16 | Robotics | Active [^16] |
 | Bluesky | Seed | 2025 | Social Media | Active [^9] |
+| Corca | Seed (NEA led, $7.8M) | 2026-06-10 | AI/Scientific Computing | Active [^17][^18][^19] |
 
 *Note: Many years shown are approximate, based on founding year as proxy where exact investment date is unavailable. This table represents approximately 7% of Bloomberg Beta's 360+ total investments. Years marked with ~ indicate founding year used as proxy.*
 
@@ -156,3 +161,9 @@ Ryan Petersen, founder and CEO of Flexport: "I listened to Roy, and I really app
 [^14]: Bloomberg L.P., "Bloomberg Beta" page, accessed March 2026. https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/
 [^15]: GlobeNewswire, "Guardrails AI is Solving the LLM Reliability Problem for AI Developers With $7.5 Million in Seed Funding," February 15, 2024, accessed June 2026. https://www.globenewswire.com/news-release/2024/02/15/2830261/0/en/Guardrails-AI-is-Solving-the-LLM-Reliability-Problem-for-AI-Developers-With-7-5-Million-in-Seed-Funding.html
 [^16]: Newswire, "Armstrong Raises $12M to Bring General-Purpose Robots to Kitchens," October 16, 2025, accessed June 2026. https://www.newswire.com/news/armstrong-raises-12m-to-bring-general-purpose-robots-to-kitchens-22659296
+
+[^17]: The SaaS News, "Corca Raises $7.8M in Funding," June 10, 2026. Confirms NEA led $7.8M round with Bloomberg Beta, Daft Capital, NVentures participating. Accessed June 13, 2026. https://www.thesaasnews.com/news/corca-raises-7-8m-in-funding/
+
+[^18]: Tech Startups, "Corca raises $7.8M to build an AI-powered 'Cursor for math' and replace decades-old workflows," June 10, 2026. Independently confirms Bloomberg Beta as a participant in NEA-led $7.8M Corca seed. Accessed June 13, 2026. https://techstartups.com/2026/06/10/corca-raises-7-8m-to-build-an-ai-powered-cursor-for-math-and-replace-decades-old-workflows/
+
+[^19]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/11/2026," June 11, 2026. Third independent source confirming Bloomberg Beta participation alongside Daft Capital and NVentures. Accessed June 13, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/

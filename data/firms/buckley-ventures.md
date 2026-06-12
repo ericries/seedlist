@@ -33,6 +33,10 @@ team:
   slug: paul-barnes-buckley
 type: firm
 website: https://www.buckleyventures.com
+last_verified_investment:
+  date: 2026-05-29
+  company: "Drafted"
+  round: "Seed (led)"
 ---
 
 ## About
@@ -104,6 +108,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 ~unknown| Toku | Board | — | Compensation/Crypto | Active | [^3] |
 | Golden | Early | ~2019 | Knowledge/Consumer | Active | [^12] |
 | Truework | Early | ~2018 | Verification/Fintech | Active | [^12] |
+| Drafted | Seed (led, $16M) | 2026-05-29 | AI/Proptech/Generative Design | Active | [^16][^17][^18] |
 
 *Note: This table represents a partial list. Crunchbase reports 49 investments for Josh Buckley [^12]. Many entries lack specific investment years; dates marked with "~" are approximations based on Crunchbase funding round dates. Entries marked "—" have no independently verified investment date.*
 
@@ -140,3 +145,9 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^13]: Deciphr AI transcript, "20VC: Why The Best Entrepreneurs Are Cockroaches with Josh Buckley," accessed March 2026. https://www.deciphr.ai/podcast/20vc-why-the-best-entrepreneurs-are-cockroaches-what-everyone-underestimates-about-customer-acquisition--what-you-dont-but-need-to-know-about-payback-periods-with-josh-buckley-founder--chairman--mino-games
 [^14]: Rippling blog, "Rippling Raises $45M Series A Led by Kleiner Perkins," April 2019, accessed March 2026. https://www.rippling.com/blog/rippling-45m-series-a-kleiner-perkins
 [^15]: Tracxn, "Applied Intuition Funding Rounds & Investors," accessed April 2026 — documents Applied Intuition's September 2018 Series A ($11.5M) led by Marc Andreessen (Andreessen Horowitz) with angel participation, consistent with Josh Buckley's self-described early-investor status and typical ~$300K angel check pattern. https://tracxn.com/d/companies/appliedintuition/__ED2WNDlvCijCE4b8Xo7YLVacaW9Rpk3KM93vjy61lIE/funding-and-investors
+
+[^16]: The SaaS News, "Drafted Raises $16M Seed," May 29, 2026. Confirms Buckley Ventures-led $16M seed with Y Combinator, Ben Silbermann, Ryan Tedder participating. Accessed June 13, 2026. https://www.thesaasnews.com/news/drafted-raises-16m-seed/
+
+[^17]: AI Business Weekly, "Drafted Raises Funding to Build AI Home Design Platform After 120,000 Users Generated 325,000 Floor Plans in One Month," June 1, 2026. Lists Buckley Ventures as lead with Y Combinator, Patrick Collison, Evan Moore, Convective Capital, Ben Silbermann, Jack Altman, Samsung, Starship Ventures, Charlie Songhurst, Ryan Tedder, Moses Moody, Alex Blania, Kevin Mahaffey participating. Accessed June 13, 2026. https://aibusinessweekly.net/p/drafted-ai-home-design-funding-floor-plans
+
+[^18]: NewsBeep, "Drafted Secures $16M in Funding to Reshape Home Design With AI," June 4, 2026. Third independent confirmation of $16M seed with Buckley Ventures, Y Combinator, Ben Silbermann, Ryan Tedder participating. Accessed June 13, 2026. https://www.newsbeep.com/us/683266/

@@ -3,9 +3,9 @@ check_size: Angel
 firm: stripe
 last_researched: 2026-03-19
 last_verified_investment:
-  company: MatX
-  date: 2026-02-24
-  round: Series B
+  company: Drafted
+  date: 2026-05-29
+  round: Seed
 location: San Francisco, CA
 name: Patrick Collison
 role: Co-Founder & CEO (angel investor)
@@ -103,6 +103,7 @@ Note: Each company is counted once in its primary category. Companies spanning m
 | TruckSmarter | ~2023 | — | Trucking/Logistics | [^7] |
 | Fundamental Research Labs | 2025-08-01 | Series A | Research | [^7][^24] |
 | MatX | 2026 | Series B | AI Hardware | [^15] |
+| Drafted | 2026-05-29 | Seed (Buckley Ventures led) | AI/Proptech/Generative Design | [^25][^26][^27] |
 
 *This table represents approximately 19 of 50+ reported investments. Many investments were made jointly with John Collison. Years marked with ~ are approximate based on company funding timelines when exact Collison participation dates could not be independently confirmed. TruckSmarter round type could not be resolved — Collison participation is reported by aggregator sources [^7] but is not confirmed in any primary round announcement, so the specific round cannot be identified.*
 
@@ -158,3 +159,9 @@ No independently sourced founder testimonials specific to Patrick Collison's rol
 [^22]: TechCrunch, "NewLimit, founded by Coinbase CEO Brian Armstrong, raises $130M to develop age-reversing treatments," May 6, 2025, accessed April 2026. https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstrong-raises-130m-to-develop-age-reversing-therapies/
 [^23]: Meter Newsroom, "Meter Secures $38M Series B led by Sequoia and Lachy Groom to turn internet infrastructure into a utility," May 23, 2022, accessed April 2026. https://www.meter.com/newsroom/series-b
 [^24]: TechCrunch, "Fundamental Research Labs nabs $30M+ to build AI agents across verticals," August 1, 2025, accessed April 2026. https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/
+
+[^25]: AI Business Weekly, "Drafted Raises Funding to Build AI Home Design Platform After 120,000 Users Generated 325,000 Floor Plans in One Month," June 1, 2026. Explicitly lists Patrick Collison among investors in Drafted seed round led by Buckley Ventures. Accessed June 13, 2026. https://aibusinessweekly.net/p/drafted-ai-home-design-funding-floor-plans
+
+[^26]: TechCrunch, "This founder just landed backing for a second go at the same problem: affordable custom home design," December 23, 2025. Confirms Patrick Collison participated in Drafted's prior $1.65M round at $35M post-money valuation alongside Bill Clerico, Jack Altman, Josh Buckley, Moses Moody. Accessed June 13, 2026. https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/
+
+[^27]: Stockpil, "AI Custom Home Design Startup Drafted Secures $1.65M in Bold Second Attempt to Democratize Architecture," December 2025. Independently confirms Patrick Collison among investors in initial Drafted round. Accessed June 13, 2026. https://stockpil.com/drafted-ai-custom-home-funding/

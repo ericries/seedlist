@@ -579,32 +579,39 @@ priority:
   status: unresolvable
 - slug: nea
   type: firm
-  reason: "led Corca $7.8M Seed (2026-06-10)"
+  reason: "RESOLVED 2026-06-13 — Corca $7.8M Seed (2026-06-10, NEA led; Bloomberg Beta, Daft Capital, NVentures participating) VERIFIED via 3 independent primary sources: (1) The SaaS News [^25], (2) Tech Startups [^26], (3) AlleyWatch Daily Funding Report 6/11/2026 [^27]. nea.md portfolio updated with new row; last_verified_investment frontmatter advanced to 2026-06-10 Corca."
   added: 2026-06-13
+  status: resolved
 - slug: bloomberg-beta
   type: firm
-  reason: "participated in Corca $7.8M Seed (2026-06-10)"
+  reason: "RESOLVED 2026-06-13 — Corca $7.8M Seed (2026-06-10, NEA led, Bloomberg Beta participated) VERIFIED via 3 independent primary sources: (1) The SaaS News [^17], (2) Tech Startups [^18], (3) AlleyWatch Daily Funding Report 6/11/2026 [^19]. bloomberg-beta.md portfolio updated with new Corca row; last_verified_investment frontmatter added/advanced to 2026-06-10 Corca."
   added: 2026-06-13
+  status: resolved
 - slug: buckley-ventures
   type: firm
-  reason: "led Drafted $16M Seed (2026-05-29)"
+  reason: "RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led) VERIFIED via 3 independent primary sources: (1) The SaaS News [^16], (2) AI Business Weekly [^17], (3) NewsBeep [^18]. AI Business Weekly's $17.5M figure appears to roll up $1.65M prior + $16M new; majority of sources confirm $16M for the new seed. buckley-ventures.md portfolio updated; last_verified_investment frontmatter added/advanced to 2026-05-29 Drafted."
   added: 2026-06-13
+  status: resolved
 - slug: y-combinator
   type: firm
-  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  reason: "RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led; Y Combinator participated as existing investor — Drafted is a YC portfolio company per ycombinator.com/companies/drafted) VERIFIED via 3 independent primary sources: (1) The SaaS News [^46], (2) AI Business Weekly [^47], (3) YC Companies Directory [^48]. y-combinator.md portfolio updated with Drafted row."
   added: 2026-06-13
+  status: resolved
 - slug: ben-silbermann
   type: investor
-  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  reason: "UNRESOLVABLE 2026-06-13 — Ben Silbermann does not yet have a profile in data/investors/. Drafted seed participation (2026-05-29, $16M, Buckley Ventures led) is documented in drafted.md startup profile with 3 independent citations. Queue Ben Silbermann for profile creation separately; no investor-side profile update possible until profile exists."
   added: 2026-06-13
+  status: unresolvable
 - slug: patrick-collison
   type: investor
-  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  reason: "RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led; Patrick Collison participated) VERIFIED via 3 independent sources: (1) AI Business Weekly [^25] lists Patrick Collison in May 2026 round, (2) TechCrunch Dec 23 2025 [^26] confirms prior $1.65M round participation (Collison was existing investor), (3) Stockpil [^27] corroborates. Patrick Collison portfolio table updated with Drafted row; last_verified_investment frontmatter advanced from MatX 2026-02-24 to Drafted 2026-05-29."
   added: 2026-06-13
+  status: resolved
 - slug: jack-altman
   type: investor
-  reason: "participated in Drafted $16M Seed (2026-05-29)"
+  reason: "RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led; Jack Altman participated) VERIFIED via 3 independent sources: (1) AI Business Weekly [^17] lists Jack Altman in May 2026 round, (2) TechCrunch Dec 23 2025 [^18] confirms prior $1.65M round participation (Altman was existing investor), (3) The SaaS News [^19] corroborates Buckley-led seed. jack-altman portfolio table updated with Drafted row; last_verified_investment frontmatter advanced from Pursuit 2026-04-29 to Drafted 2026-05-29."
   added: 2026-06-13
+  status: resolved
 - slug: gokul-rajaram
   type: investor
   reason: "participated in Maneva $27M Series A (2026-06-10)"

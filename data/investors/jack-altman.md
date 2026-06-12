@@ -10,9 +10,9 @@ stage_focus: [seed, series-a]
 sector_focus: [enterprise-software, ai, developer-tools, fintech, health-tech]
 check_size: "$500K-$10M (Alt Capital); institutional at Benchmark"
 last_verified_investment:
-  date: 2026-04-29
-  company: "Pursuit"
-  round: "Series A"
+  date: 2026-05-29
+  company: "Drafted"
+  round: "Seed"
 social:
   twitter: "@jaltma"
   linkedin: "linkedin.com/in/jackealtman"
@@ -106,6 +106,7 @@ Altman claims a generalist approach but his portfolio reveals a strong B2B enter
 | Basis | 2026-02-25 | Series B | [^10] |
 | Pursuit | 2026-04-29 | Series A | [^15] |
 | Rogo | 2026-04-29 | Series D | [^16] |
+| Drafted | 2026-05-29 | Seed (Buckley Ventures led) | [^17][^18][^19] |
 
 This table represents approximately 29 of an estimated 90+ total investments. Angel investment dates prior to Alt Capital's founding in 2024 could not be individually verified and are listed as "Pre-2024."
 
@@ -157,4 +158,10 @@ No independently sourced founder testimonials found. Altman is a relatively new 
 [^14]: Boring Business Nerd, "Jack Altman — Investor Profile," accessed March 2026. https://www.boringbusinessnerd.com/investor/jack-altman
 [^15]: TechCrunch, "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government," April 29, 2026. https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/
 [^16]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html
+
+[^17]: AI Business Weekly, "Drafted Raises Funding to Build AI Home Design Platform After 120,000 Users Generated 325,000 Floor Plans in One Month," June 1, 2026. Explicitly lists Jack Altman among investors in Drafted seed round led by Buckley Ventures. Accessed June 13, 2026. https://aibusinessweekly.net/p/drafted-ai-home-design-funding-floor-plans
+
+[^18]: TechCrunch, "This founder just landed backing for a second go at the same problem: affordable custom home design," December 23, 2025. Confirms Jack Altman participated in Drafted's prior $1.65M round alongside Bill Clerico, Patrick Collison, Josh Buckley, Moses Moody. Accessed June 13, 2026. https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/
+
+[^19]: The SaaS News, "Drafted Raises $16M Seed," May 29, 2026. Confirms Buckley Ventures-led $16M seed; Jack Altman is among investors per AI Business Weekly cross-reference. Accessed June 13, 2026. https://www.thesaasnews.com/news/drafted-raises-16m-seed/
 [^17]: TechCrunch, "Cohere raises $3.1 million for its remote control solution for web apps," March 17, 2021. https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/

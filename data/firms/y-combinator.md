@@ -298,6 +298,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Didit | S22 | 2022 | Fintech / Identity Verification | Private (Seed extension $6M 2026-05-26) [^39] |
 | Collate | n/a | 2024 | Healthtech / Life Sciences AI | Private ($1B post-money, Series B 2026-06-03; YC participated in $30M Seed 2025-01-21) [^41][^42] |
 | Stepful | W21 | 2021 | Healthtech / Workforce Training | Private (Series C $55M 2026-06-08, Oak HC/FT-led; YC follow-on) [^43][^44][^45] |
+| Drafted | n/a | 2025-2026 | AI / Proptech / Generative Design | Private ($16M Seed 2026-05-29, Buckley Ventures-led; YC participated) [^46][^47][^48] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -452,3 +453,9 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^44]: citybiz, "Stepful Raises $55 Million Series C to Expand AI-Powered Healthcare Workforce Training Platform," June 9, 2026. https://www.citybiz.co/article/857175/stepful-raises-55-million-series-c-to-expand-ai-powered-healthcare-workforce-training-platform/. Accessed June 2026. Confirms Y Combinator as existing/returning investor in the $55M Series C; Oak HC/FT led, with Foresite Capital, Hearst Ventures, Citi Impact Fund as new investors and Y Combinator and Intermountain Health as existing investors.
 
 [^45]: JustAINews, "Stepful Raises $55M to Scale AI Healthcare Training," June 2026. https://justainews.com/industries/healthcare-and-medical/stepful-raises-55m-to-scale-ai-healthcare-training/. Accessed June 2026. Independently confirms all returning investors: Oak HC/FT, SemperVirens, Y Combinator, Intermountain Health, ECMC Education Impact Fund; new investors: Foresite Capital, Hearst Ventures, Citi Impact Fund. Stepful is W21 YC batch.
+
+[^46]: The SaaS News, "Drafted Raises $16M Seed," May 29, 2026. https://www.thesaasnews.com/news/drafted-raises-16m-seed/. Accessed June 13, 2026. Confirms Buckley Ventures-led $16M seed with Y Combinator, Ben Silbermann, Ryan Tedder participating.
+
+[^47]: AI Business Weekly, "Drafted Raises Funding to Build AI Home Design Platform After 120,000 Users Generated 325,000 Floor Plans in One Month," June 1, 2026. https://aibusinessweekly.net/p/drafted-ai-home-design-funding-floor-plans. Accessed June 13, 2026. Independently confirms Y Combinator participation in Drafted seed round led by Buckley Ventures.
+
+[^48]: Y Combinator Companies Directory, "Drafted: Design your home instantly with AI." https://www.ycombinator.com/companies/drafted. Accessed June 13, 2026. Confirms Drafted is a YC portfolio company.

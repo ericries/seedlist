@@ -114,6 +114,10 @@ team:
   slug: patrick-kerins
 type: firm
 website: https://www.nea.com
+last_verified_investment:
+  date: 2026-06-10
+  company: "Corca"
+  round: "Seed (led)"
 ---
 
 ## About
@@ -173,6 +177,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Spektr | Series A | 2026 | Fintech/Compliance | Active [^19] |
 | Golden Analytics | Seed (co-led, $7M) | 2026-04-07 | AI/Business Intelligence | Active [^21] |
 | Golden Analytics | Seed Extension ($14M, Insight Partners led) | 2026-06-09 | AI/Business Intelligence | Active (re-upped as existing investor) [^22][^23][^24] |
+| Corca | Seed (led, $7.8M) | 2026-06-10 | AI/Scientific Computing | Active [^25][^26][^27] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -222,3 +227,9 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^23]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Confirms $14M seed extension led by Insight Partners with existing backers NEA and Madrona re-upping; Ganesh Bell (Insight MD) takes Golden board seat. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
 
 [^24]: The SaaS News, "Golden Analytics Raises $14M Seed Extension," June 9, 2026. States: "This round was led by Insight Partners, with participation from existing investors NEA and Madrona." Accessed June 11, 2026. https://www.thesaasnews.com/news/golden-analytics-raises-14m-seed-extension/
+
+[^25]: The SaaS News, "Corca Raises $7.8M in Funding," June 10, 2026. Confirms NEA led $7.8M round with Bloomberg Beta, Daft Capital, NVentures participating. Accessed June 13, 2026. https://www.thesaasnews.com/news/corca-raises-7-8m-in-funding/
+
+[^26]: Tech Startups, "Corca raises $7.8M to build an AI-powered 'Cursor for math' and replace decades-old workflows," June 10, 2026. Independently confirms NEA-led $7.8M round, Bloomberg Beta, Daft Capital, NVentures participating, founders Anton Gladkoborodov and Oleg Shevlyagin. Accessed June 13, 2026. https://techstartups.com/2026/06/10/corca-raises-7-8m-to-build-an-ai-powered-cursor-for-math-and-replace-decades-old-workflows/
+
+[^27]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/11/2026," June 11, 2026. Third independent source confirming $7.8M venture funding led by NEA with Bloomberg Beta, Daft Capital, NVentures. Accessed June 13, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
