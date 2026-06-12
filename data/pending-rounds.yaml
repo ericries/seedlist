@@ -93,6 +93,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: CORRECTION - Leverage Shares by Themes Closing Capped Accelerated Single-Stock
+    ETF Series Due to Lack of Assets
+  url: https://www.globenewswire.com/news-release/2026/06/12/3311206/0/en/CORRECTION-Leverage-Shares-by-Themes-Closing-Capped-Accelerated-Single-Stock-ETF-Series-Due-to-Lack-of-Assets.html
+  source: globenewswire
+  date_found: '2026-06-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: NinjaOne Leads With $400M As Large
+    Deals Also Go To Blockchain, Cloud Infrastructure, Biotech And Robotics'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/
+  source: crunchbase
+  date_found: '2026-06-12'
+  parsed_company: null
+  parsed_amount: $400M
+  parsed_round: null
+  status: pending
 - title: Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden
     with AI
   url: https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/
@@ -882,20 +900,4 @@ pending_rounds:
   parsed_company: Scotch
   parsed_amount: $20M
   parsed_round: Series A
-  status: processed
-- title: Uncover raised $16M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Uncover
-  parsed_amount: $16M
-  parsed_round: Series A
-  status: processed
-- title: Kodesage raised $6.6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Kodesage
-  parsed_amount: $6.6M
-  parsed_round: Seed
   status: processed
