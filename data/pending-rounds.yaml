@@ -68,7 +68,9 @@ pending_rounds:
   parsed_company: Barcelona-based THEKER
   parsed_amount: null
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed_date: '2026-06-11'
+  notes: "Created startup profile theker.md; added round to CRV firm portfolio. €73M (~$85M) Series A led by CRV with Samsung, LVMH, Cathay Innovation, 20VC, Henkel Ventures, Korelya, Bright Pixel, Inditex, Kibo. Europe's largest robotics Series A."
 - title: Berlin-based Angel Invest close €40 million Fund III targeting angel to Seed
     stages
   url: https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/

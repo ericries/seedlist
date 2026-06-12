@@ -28795,3 +28795,51 @@ queue:
   added: '2026-03-17'
   discovered_from: durk-kingma
   source: Samsung corporate VC; CuspAI Series A co-investor
+- name: LVMH Luxury Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: LVMH
+  discovered_from: theker
+  source: Co-investor in THEKER Series A (June 2026, with CRV)
+- name: Henkel Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Henkel Ventures
+  discovered_from: theker
+  source: Co-investor in THEKER Series A (June 2026, with CRV)
+- name: Korelya Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Korelya Capital
+  discovered_from: theker
+  source: Co-investor in THEKER Series A (June 2026, with CRV)
+- name: Bright Pixel Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bright Pixel Capital
+  discovered_from: theker
+  source: Co-investor in THEKER Series A (June 2026, with CRV)
+- name: Kibo Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kibo Ventures
+  discovered_from: theker
+  source: Existing investor in THEKER Series A (June 2026); Spanish VC
+- name: Inditex
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Inditex
+  discovered_from: theker
+  source: Strategic investor in THEKER Series A (June 2026)

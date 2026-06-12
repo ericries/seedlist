@@ -162,6 +162,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Careforce | Seed | ~2024 | AI/Health | Active [^21] |
 | Capy | Seed | ~2024 | AI | Active [^21] |
 | Joyful Health | Series A (led, $17M) | 2026-04-16 | Healthcare / AI | Active [^30] |
+| THEKER | Series A (led, €73M / ~$85M) | 2026-06-11 | Robotics / AI | Active [^35] |
 
 ## In Their Own Words
 
@@ -238,3 +239,5 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^33]: 7AI blog, "Citing the 'Agentic Security Inflection Point,' 7AI Raises Largest Cybersecurity A Round in History to Bring AI Security Agents to Enterprises," December 4, 2025. Accessed May 2026. https://blog.7ai.com/citing-the-agentic-security-inflection-point-7ai-raises-largest-cybersecurity-a-round-in-history-to-bring-ai-security-agents-to-enterprises — $130M Series A announced December 4, 2025, led by Index Ventures with new investor Blackstone Innovations Investments; existing seed investors Greylock, CRV, Spark and others participated. Total raised: $166M.
 
 [^34]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms CRV participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C); TCV led; existing investors a16z, Coatue, Sapphire Ventures, Sequoia Capital, and Spark Capital also participated.
+
+[^35]: Cathay Capital, "THEKER raises $85M in Europe's largest ever robotics Series A, led by CRV with backing from Samsung and LVMH," June 11, 2026. Accessed June 2026. https://www.cathaycapital.com/theker-raises-85m-in-europes-largest-ever-robotics-series-a-led-by-crv-with-backing-from-samsung-and-lvmh/ — Confirms €73M (~$85M) Series A on June 11, 2026 led by CRV with Samsung, LVMH, Cathay Innovation, 20VC, Henkel Ventures, Korelya Capital, Bright Pixel Capital, Inditex, and Kibo Ventures participating. Reported as Europe's largest robotics Series A and CRV's first investment in Spain.
