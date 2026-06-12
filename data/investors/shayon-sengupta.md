@@ -72,10 +72,10 @@ The following investments are attributed to Sengupta personally through Multicoi
 | Solana | 2018-2019 | Seed / Series A | [^1] |
 | Helium | 2019 | Series C | [^1] |
 | Dune | 2021-08-12 | Series A ($8M, USV led; Multicoin follow-on from seed) | [^1] [^23] [^24] |
-| Render | ~2021 | Strategic | [^1] |
-| Drift | 2024 | Series B ($25M, Multicoin led) | [^1] [^15] |
-| Lore | 2023 | Seed ($4M, Multicoin led) | [^16] |
-| io.net | 2023-2024 | Seed + Series A ($30M) | [^13] |
+| Render | 2021-12-21 | Strategic / Token Round ($30M, Multicoin led; Alameda Ventures, Sfermion, Solana Foundation participated) | [^1] [^31] [^32] |
+| Drift | 2024-09-19 | Series B ($25M, Multicoin led; Blockchain Capital, Primitive Ventures, Folius Ventures participated) | [^1] [^15] [^33] |
+| Lore | 2023-04-06 | Strategic ($4M, Multicoin led; North Island Ventures, Seed Club Ventures, Balaji Srinivasan participated) | [^16] [^34] |
+| io.net | 2024-03-05 | Series A ($30M, Hack VC led; Multicoin, 6th Man Ventures, Solana Labs participated) | [^13] |
 | Jito | 2022-08-11 | Series A ($10M, Multicoin & Framework co-led) | [^1] [^17] [^25] [^26] |
 | Sei | 2022-08-31 | Seed ($5M, Multicoin led) | [^1] [^27] |
 | Hyperliquid | ~2022 | Unknown (no traditional VC round; team rejected outside funding) | [^1] |
@@ -160,3 +160,7 @@ No independently sourced founder testimonials about Shayon Sengupta specifically
 [^28]: Crunchbase, "Pre-Seed Round - Kamino - 2022-03-15," accessed June 2026. https://www.crunchbase.com/funding_round/kamino-d6de-pre-seed--299c041d
 [^29]: Fun, "Fun Announces $72M Series A," May 1, 2026. https://fun.xyz/news/series-a
 [^30]: The Block, "Crypto onramping solution Fun raises $72 million Series A co-led by Multicoin Capital and SignalFire," May 1, 2026. https://www.theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire
+[^31]: Multicoin Capital, "Rendering the Metaverse," December 21, 2021. https://multicoin.capital/2021/12/21/rendering-the-metaverse/
+[^32]: Render Network, "The Next Phase of The Render Network: Building The Open Metaverse with Multicoin Capital," Medium, December 2021. https://medium.com/render-token/the-next-phase-of-the-render-network-building-the-open-metaverse-with-multicoin-capital-f34368458ee9
+[^33]: Drift, "Drift Announces $25M Series B Raise," September 19, 2024. https://www.drift.trade/updates/drift-raises-25m-in-series-b-funding-led-by-multicoin
+[^34]: CoinDesk, "Multicoin Leads $4M Strategic Round for Web3 Co-Ownership Platform Lore," April 6, 2023. https://www.coindesk.com/business/2023/04/06/multicoin-leads-4m-strategic-round-for-web3-co-ownership-platform-lore

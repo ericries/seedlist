@@ -94,14 +94,14 @@ Stack's career has been predominantly early-stage, with the vast majority of her
 | Evidation Health | ~2015 | Founded at GE Ventures | [^7][^8] |
 | Vineti | 2017 | Founded at GE Ventures | [^8][^17] |
 | Menlo Micro | 2016 | Co-founder (spun out of GE) | [^7][^8][^18] |
-| Drawbridge Health | ~2017 | Founded at GE Ventures | [^7][^8] |
+| Drawbridge Health | 2017-11-29 | Founded at GE Ventures (Seed round, public launch) | [^7][^8][^21] |
 | Avitas Systems | ~2016 | Founded at GE Ventures | [^7][^8] |
 | NuVera Medical | ~2016 | Spun out of GE Ventures | [^10] |
 | Metagenomi | ~2021 | Board director | [^13] |
 | PinkDx | 2023 | Board member; BEVC investor (Series A, $45M total) | [^9][^13][^16] |
 | Dextera Biosciences | 2022 | Board director (TPB portfolio) | [^14] |
 | Supergut | 2019 | TPB portfolio (co-founded by TPB) | [^2] |
-| EarthOptics | ~2020 | TPB portfolio ($24M round, 2024) | [^2] |
+| EarthOptics | 2024-11-19 | $24M financing co-led by The Production Board and Conti Ventures (TPB portfolio) | [^2][^19][^20] |
 
 *This table represents 22 verified investments and company-building roles. Stack has stated involvement in the early operations, financing, and development of over 50 companies [^5]; only those with independent sourcing are listed. Years marked with ~ are approximate based on founding year or earliest public mention. Investments at Kleiner Perkins (~2003-2013) lack precise year data for individual deals.*
 
@@ -143,3 +143,6 @@ No independently sourced founder testimonials found. Stack's career has been pri
 [^16]: PR Newswire, "PinkDx Announces Second Close of Upsized Series A Financing with New Investors Blue Venture Fund, Sandbox Clinical Ventures and BEVC," January 23, 2025, accessed April 2026. https://www.prnewswire.com/news-releases/pinkdx-announces-second-close-of-upsized-series-a-financing-with-new-investors-blue-venture-fund-sandbox-clinical-ventures-and-bevc-302358490.html
 [^17]: GlobeNewswire, "GE Ventures, Mayo Clinic Ventures and DFJ Invest $13.75M in First Software Platform to Accelerate Cancer Cure Process and Delivery," June 20, 2017, accessed April 2026. https://www.globenewswire.com/news-release/2017/06/20/1026209/0/en/GE-Ventures-Mayo-Clinic-Ventures-and-DFJ-Invest-13-75M-in-First-Software-Platform-to-Accelerate-Cancer-Cure-Process-and-Delivery.html
 [^18]: GE News, "GE Ventures, Microsemi and Corning Partner to Launch Menlo Micro and Next Generation of Electronic Switching," December 6, 2016, accessed April 2026. https://www.ge.com/news/press-releases/ge-ventures-microsemi-and-corning-partner-launch-menlo-micro-and-next-generation
+[^19]: EarthOptics press release, "EarthOptics Secures $24 Million in Financing to Drive Expansion and Revolutionize Soil Digitization," November 19, 2024, accessed June 2026. https://earthoptics.com/news-insights/earthoptics-secures-24-million-in-financing-to-drive-expansion-and-revolutionize-soil-digitization
+[^20]: GlobeNewswire, "EarthOptics Secures $24 Million in Financing to Drive Expansion and Revolutionize Soil Digitization," November 19, 2024, accessed June 2026. https://www.globenewswire.com/news-release/2024/11/19/2983505/0/en/EarthOptics-Secures-24-Million-in-Financing-to-Drive-Expansion-and-Revolutionize-Soil-Digitization.html
+[^21]: TechCrunch, "GE Ventures unveils new blood collection startup Drawbridge Health," November 29, 2017, accessed June 2026. https://techcrunch.com/2017/11/29/ge-ventures-unveils-new-blood-collection-startup-drawbridge-health/

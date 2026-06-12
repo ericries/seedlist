@@ -9,19 +9,19 @@ stage_focus: [seed, series-a]
 sector_focus: [developer-tools, ai, devtools, saas, infrastructure]
 check_size: "Undisclosed"
 last_verified_investment:
-  date: 2025-06-18
-  company: "Swarmia"
-  round: "Series A"
+  date: 2026-05-12
+  company: "White Circle"
+  round: "Seed"
 social:
   twitter: "@romainhuet"
   linkedin: "linkedin.com/in/romainhuet"
 status: flagged
 review_notes: |
-  - Only 4 angel investments independently verified via primary press sources (Lago, PromptLayer, Granola, Swarmia). Below the 5-investment threshold for confident inferred-thesis analysis.
-  - Check size not disclosed in any cited source; left as "Undisclosed."
+  - 5 angel investments independently verified via primary press sources (Lago, PromptLayer, Granola, Swarmia, White Circle). At the 5-investment threshold for cautious inferred-thesis analysis.
+  - Check size not disclosed in any cited source; left as "Undisclosed." Confirmed unresolvable after 2026-06 sweep — no public statement of check range surfaced.
   - No independently sourced founder quotes about Huet's involvement as an investor found; "What Founders Say" notes the gap rather than padding.
   - Primary identity is operator (OpenAI DevEx, ex-Stripe). Angel record is real but narrow.
-last_researched: 2026-06-09
+last_researched: 2026-06-03
 ---
 
 ## Background
@@ -38,15 +38,15 @@ Huet has not published a formal investment thesis. His public communication cons
 
 ## Inferred Thesis
 
-**Sample size: 4 verified angel investments. Too small for percentage breakdowns; qualitative observations only.**
+**Sample size: 5 verified angel investments. Small but at the threshold for cautious qualitative analysis.**
 
-Across the four independently verified rounds (Lago, PromptLayer, Granola, Swarmia), three clear patterns emerge:
+Across the five independently verified rounds (Lago, PromptLayer, Granola, Swarmia, White Circle), three clear patterns emerge:
 
-- **Developer and builder tooling without exception.** Every verified investment serves software developers or technical teams: Lago (open-source billing infrastructure for SaaS) [^6], PromptLayer (prompt management and AI app development tooling) [^7], Granola (AI note-taking for technical teams) [^8], and Swarmia (software engineering intelligence) [^9].
-- **Predominantly seed and Series A.** PromptLayer was a $4.8M seed [^7]; Lago combined a $7M seed and $15M Series A [^6]; Swarmia was an $11M Series A [^9]; Granola's Series B was the latest checked round [^8].
-- **Co-investing alongside other developer-platform operators.** In Granola's Series B, Huet appeared alongside Guillermo Rauch (Vercel), Amjad Masad (Replit), Tobi Lutke (Shopify), Karri Saarinen (Linear), Des Traynor (Intercom), Karim Atiyeh (Ramp), and Zach Lloyd (Warp) [^8]. In Swarmia he invested alongside Cal Henderson (ex-Slack CTO) and Alex Plugaru (Gorgias CTO) [^9]. The pattern: operator-angels with deep developer-platform experience clustering on the same deals.
+- **Developer, AI infrastructure, and builder tooling without exception.** Every verified investment serves software developers, AI builders, or technical teams: Lago (open-source billing infrastructure for SaaS) [^6], PromptLayer (prompt management and AI app development tooling) [^7], Granola (AI note-taking for technical teams) [^8], Swarmia (software engineering intelligence) [^9], and White Circle (AI control and safety platform for enterprise AI) [^12].
+- **Predominantly seed and Series A.** PromptLayer was a $4.8M seed [^7]; Lago combined a $7M seed and $15M Series A [^6]; Swarmia was an $11M Series A [^9]; White Circle was an $11M seed [^12]; Granola's Series B was the latest checked round [^8].
+- **Co-investing alongside other developer-platform and AI-platform operators.** In Granola's Series B, Huet appeared alongside Guillermo Rauch (Vercel), Amjad Masad (Replit), Tobi Lutke (Shopify), Karri Saarinen (Linear), Des Traynor (Intercom), Karim Atiyeh (Ramp), and Zach Lloyd (Warp) [^8]. In Swarmia he invested alongside Cal Henderson (ex-Slack CTO) and Alex Plugaru (Gorgias CTO) [^9]. In White Circle, his co-investors included Durk Kingma (Anthropic, ex-OpenAI), Guillaume Lample (Mistral), Thomas Wolf (Hugging Face), Olivier Pomel (Datadog), François Chollet (Keras), Paige Bailey (DeepMind), and David Cramer (Sentry) [^12]. The pattern: operator-angels from the developer-platform and frontier-AI worlds clustering on the same deals.
 
-Geographic spread is transatlantic: Lago is Paris/UK-based [^6], Swarmia is Finnish [^9], Granola is London-based [^8], and PromptLayer is US-based [^7]. This is consistent with Huet's own French background and his SF base.
+Geographic spread is transatlantic, with a French throughline: Lago is Paris/UK-based [^6], Swarmia is Finnish [^9], Granola is London-based [^8], White Circle is Paris-based [^12], and PromptLayer is US-based [^7]. This is consistent with Huet's own French background and his SF base.
 
 Notable gap: no verified consumer, fintech-payments, or hardware investments in the surfaced record despite his Stripe payments background. His angel checks track his current AI/developer-tooling vantage point at OpenAI rather than his prior fintech operating history.
 
@@ -58,8 +58,9 @@ Notable gap: no verified consumer, fintech-payments, or hardware investments in 
 | Granola | 2025-05-14 | Series B ($43M, led by NFDG) | [^8] |
 | PromptLayer | 2025-02-07 | Seed ($4.8M) | [^7] |
 | Swarmia | 2025-06-18 | Series A ($11M) | [^9] |
+| White Circle | 2026-05-12 | Seed ($11M) | [^12] |
 
-Only four investments could be independently verified via primary press sources. Aggregator sites list additional companies, but those entries were not corroborated by a contemporaneous press source citing Huet by name, so they are not included here.
+Only five investments could be independently verified via primary press sources. Aggregator sites list additional companies, but those entries were not corroborated by a contemporaneous press source citing Huet by name, so they are not included here.
 
 ## In Their Own Words
 
@@ -98,3 +99,4 @@ No independently sourced founder testimonials about Huet's involvement as an ang
 [^9]: Swarmia blog, "We raised an $11M Series A to take software engineering intelligence mainstream," June 18, 2025. https://www.swarmia.com/blog/series-a-funding/
 [^10]: Romain Huet, "Excited to share I've joined OpenAI to lead Developer Experience!" LinkedIn post, September 2023. https://www.linkedin.com/posts/romainhuet_excited-to-share-ive-joined-openai-to-lead-activity-7110687027699879936-sfvY
 [^11]: swyx and Alessio, "The new OpenAI Agents Platform" with Romain Huet and Nikunj Handa, Latent Space podcast, March 11, 2025. https://www.latent.space/p/openai-agents-platform
+[^12]: Cate Lawrence, "White Circle lands $11M to help companies secure AI systems," Tech.eu, May 12, 2026. https://tech.eu/2026/05/12/white-circle-lands-11m-to-help-companies-secure-ai-systems/ ; Sharon Goldman, "Exclusive: White Circle raises $11 million to stop AI models from going rogue," Fortune, May 12, 2026. https://fortune.com/2026/05/12/exclusive-white-circle-raises-11-million-to-stop-ai-models-from-going-rogue-in-the-workplace/ ; "White Circle Raises $11 Million for AI Control Platform," SecurityWeek, May 12, 2026. https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/
