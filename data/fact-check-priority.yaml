@@ -1,4 +1,48 @@
 priority:
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Digital Asset $355M (2026-06-11) and participated in Current Series E (2026-06-11)"
+  added: 2026-06-12
+- slug: greylock
+  type: firm
+  reason: "led Niteshift $7M seed (2026-06-10)"
+  added: 2026-06-12
+- slug: jerry-chen
+  type: investor
+  reason: "led Niteshift seed via Greylock (2026-06-10)"
+  added: 2026-06-12
+- slug: boxgroup
+  type: firm
+  reason: "participated in Niteshift seed (2026-06-10)"
+  added: 2026-06-12
+- slug: sv-angel
+  type: firm
+  reason: "participated in Niteshift seed (2026-06-10)"
+  added: 2026-06-12
+- slug: tiger-global-management
+  type: firm
+  reason: "participated in Current Series E (2026-06-11)"
+  added: 2026-06-12
+- slug: general-catalyst
+  type: firm
+  reason: "participated in Current Series E (2026-06-11)"
+  added: 2026-06-12
+- slug: qed-investors
+  type: firm
+  reason: "participated in Current Series E (2026-06-11)"
+  added: 2026-06-12
+- slug: founders-fund
+  type: firm
+  reason: "participated in Current Series E (2026-06-11)"
+  added: 2026-06-12
+- slug: reid-hoffman
+  type: investor
+  reason: "angel in Niteshift seed (2026-06-10)"
+  added: 2026-06-12
+- slug: olivier-pomel
+  type: investor
+  reason: "angel in Niteshift seed (2026-06-10)"
+  added: 2026-06-12
 - slug: dst-global
   type: firm
   reason: "RESOLVED 2026-06-11 — Prometheus Series B $12B at $41B val (2026-06-11, Bezos personal lead; backers JPMorgan, BlackRock, Goldman Sachs, DST Global, ARCH Venture Partners) added to dst-global.md portfolio with 3 independent primary citations: (1) Axios article (axios.com/2026/06/11/prometheus-bezos-industrial-ai) [^34], (2) Semafor article (semafor.com/article/06/11/2026/jeff-bezos-raises-12b-for-ai-that-builds-things) [^35] which explicitly names 'venture-capital firms DST Global and Arch Venture Partners', (3) Benzinga article [^36] which states 'Backers in the Series B include JPMorgan, BlackRock, Goldman Sachs, DST Global and Arch Venture Partners'. All 3 sources independently confirm DST Global as Series B participant. Prometheus startup profile already has dst-global in firms[] frontmatter. Portfolio note updated from 33→34 companies (~16%)."
