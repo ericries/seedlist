@@ -9194,7 +9194,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 26,
+      "size": 28,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9321,6 +9321,14 @@
         {
           "slug": "carl-pei",
           "name": "Carl Pei"
+        },
+        {
+          "slug": "karri-saarinen",
+          "name": "Karri Saarinen"
+        },
+        {
+          "slug": "louis-jonckheere",
+          "name": "Louis Jonckheere"
         }
       ]
     },
@@ -9383,7 +9391,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 93,
+      "size": 95,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9809,6 +9817,14 @@
         {
           "slug": "carl-pei",
           "name": "Carl Pei"
+        },
+        {
+          "slug": "karri-saarinen",
+          "name": "Karri Saarinen"
+        },
+        {
+          "slug": "louis-jonckheere",
+          "name": "Louis Jonckheere"
         }
       ]
     },
@@ -10555,7 +10571,7 @@
       "name": "The Dev Tools Obsessives",
       "tagline": "They back the picks and shovels every developer reaches for. Open source, infrastructure, and the building blocks of modern software.",
       "type": "curated",
-      "size": 19,
+      "size": 20,
       "members": [
         {
           "slug": "dalton-caldwell",
@@ -10649,6 +10665,10 @@
         {
           "slug": "willem-delbare",
           "name": "Willem Delbare"
+        },
+        {
+          "slug": "karri-saarinen",
+          "name": "Karri Saarinen"
         }
       ]
     },
@@ -11451,7 +11471,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors — they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 30,
+      "size": 31,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -11596,6 +11616,10 @@
         {
           "slug": "willem-delbare",
           "name": "Willem Delbare"
+        },
+        {
+          "slug": "karri-saarinen",
+          "name": "Karri Saarinen"
         }
       ]
     },
