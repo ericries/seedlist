@@ -1,4 +1,24 @@
 priority:
+- slug: battery-ventures
+  type: firm
+  reason: "co-led Coram AI Series B $35M (2026-06-11)"
+  added: 2026-06-12
+- slug: 8vc
+  type: firm
+  reason: "participated in Coram AI Series B (2026-06-11)"
+  added: 2026-06-12
+- slug: kleiner-perkins
+  type: firm
+  reason: "led Poetic Series A $50M (2026-06-10)"
+  added: 2026-06-12
+- slug: founders-fund
+  type: firm
+  reason: "participated in Poetic Series A (2026-06-10)"
+  added: 2026-06-12
+- slug: openai-startup-fund
+  type: firm
+  reason: "participated in Poetic Series A (2026-06-10)"
+  added: 2026-06-12
 - slug: andreessen-horowitz
   type: firm
   reason: "led Digital Asset $355M (2026-06-11) and participated in Current Series E (2026-06-11)"
