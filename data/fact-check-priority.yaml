@@ -49,8 +49,9 @@ priority:
   added: 2026-06-12
 - slug: qed-investors
   type: firm
-  reason: "participated in Current Series E (2026-06-11)"
+  reason: "RESOLVED 2026-06-12 — Current Series E ($80M led by Springcoast Partners, 2026-06-11) added to qed-investors.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^40], (2) Paul Hastings LLP advisor announcement [^41], (3) AlleyWatch Startup Daily Funding Report [^42]. All three independently confirm QED as Series E participant. Portfolio note updated to 27 entries."
   added: 2026-06-12
+  status: resolved
 - slug: founders-fund
   type: firm
   reason: "participated in Current Series E (2026-06-11)"

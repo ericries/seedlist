@@ -2,7 +2,7 @@
 founded: 2007
 fund_size: $4B+ AUM; Fund VIII ($650M early-stage, 2023); Growth II ($275M, 2023);
   Fund VII ($550M early-stage, 2021); Growth I ($500M, 2021); Fund VI ($350M, 2020)
-last_researched: 2026-03-30
+last_researched: 2026-06-12
 location: Alexandria, VA
 name: QED Investors
 sector_focus:
@@ -145,6 +145,7 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | Kin Insurance | Series A | 2018 | Insurtech | Active (Unicorn) | [^26] |
 | QuintoAndar | Series C | 2018 | Proptech | Active (Unicorn) | [^27] |
 | Current | Series A | 2017 | Consumer Finance | Active | [^28] |
+| Current | Series E | 2026-06-11 | Consumer Finance | Active | [^40][^41][^42] |
 | Caribou | Incubation | 2016 | Lending/Auto | Active (Unicorn) | [^29] |
 | Mission Lane | Series A | 2019 | Lending | Active | [^30] |
 | Ocrolus | Series A | 2018 | Infrastructure | Active | [^31] |
@@ -157,7 +158,7 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | Capchase | Series A (Led) | 2021 | Lending | Active | [^38] |
 | Moniepoint | Pre-Series C (Co-led) | 2022 | Payments | Active (Unicorn) | [^9] |
 
-This table represents 26 of QED's 250+ claimed investments (~10%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
+This table represents 26 portfolio companies (27 entries including the Current Series E follow-on, June 11, 2026 [^40][^41][^42]) of QED's 250+ claimed investments (~10%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
 
 ## In Their Own Words
 
@@ -234,3 +235,6 @@ This table represents 26 of QED's 250+ claimed investments (~10%). The full port
 [^37]: QED Investors website, "OneCard," accessed March 2026. https://www.qedinvestors.com/companies/onecard
 [^38]: QED Investors website, "Capchase," accessed March 2026. https://www.qedinvestors.com/companies/capchase
 [^39]: Fintech Leaders (Substack), "Nigel Morris, QED & Capital One Co-Founder - Transforming Financial Services for a Billion People," accessed March 2026. https://fintechleaders.substack.com/p/nigel-morris-qed-and-capital-one-be9
+[^40]: Current press release via PR Newswire, "Current Secures $80 Million Series E at $1.5 Billion Valuation Following Third Consecutive Year of 70%+ Growth," June 11, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/current-secures-80-million-series-e-at-1-5-billion-valuation-following-third-consecutive-year-of-70-growth-302797260.html
+[^41]: Paul Hastings LLP, "Paul Hastings Advises Current on Its Series E Financing Led by Springcoast Partners," June 2026, accessed June 2026. https://www.paulhastings.com/news/paul-hastings-advises-current-on-its-series-e-financing-led-by-springcoast-partners
+[^42]: AlleyWatch Startup Daily Funding Report, June 11, 2026, accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
