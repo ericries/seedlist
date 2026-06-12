@@ -37,6 +37,33 @@ pending_rounds:
   parsed_amount: $12B
   parsed_round: null
   status: pending
+- title: Slovakia’s Nordics rebrands as Definic, raises €2.5 million to scale its
+    vendor intelligence platform
+  url: https://www.eu-startups.com/2026/06/slovakias-nordics-rebrands-as-definic-raises-e2-5-million-to-scale-its-vendor-intelligence-platform/
+  source: eu-startups
+  date_found: '2026-06-12'
+  parsed_company: Slovakia’s Nordics rebrands as Definic,
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Germany’s NEURA Robotics raises up to €1.2 billion in Series C round to build
+    Physical AI from Europe
+  url: https://www.eu-startups.com/2026/06/germanys-neura-robotics-raises-up-to-e1-2-billion-in-series-c-round-to-build-physical-ai-from-europe/
+  source: eu-startups
+  date_found: '2026-06-12'
+  parsed_company: Germany’s NEURA Robotics
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Gothenburg’s Arkeon closes €594.2k Seed round to boost precision in quantum
+    chip production
+  url: https://www.eu-startups.com/2026/06/gothenburgs-arkeon-closes-e594-2k-seed-round-to-boost-precision-in-quantum-chip-production/
+  source: eu-startups
+  date_found: '2026-06-12'
+  parsed_company: Gothenburg’s Arkeon
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden
     with AI
   url: https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/
@@ -865,29 +892,5 @@ pending_rounds:
   date_found: '2026-06-04'
   parsed_company: Innio
   parsed_amount: $2.4B
-  parsed_round: null
-  status: skipped
-- title: Refining raised $270M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Refining
-  parsed_amount: $270M
-  parsed_round: null
-  status: skipped
-- title: Aeon Acquisition I raised $125M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Aeon Acquisition I
-  parsed_amount: $125M
-  parsed_round: null
-  status: skipped
-- title: AmperCap Acquisition raised $125M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: AmperCap Acquisition
-  parsed_amount: $125M
   parsed_round: null
   status: skipped
