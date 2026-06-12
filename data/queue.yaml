@@ -28843,3 +28843,75 @@ queue:
   firm: Inditex
   discovered_from: theker
   source: Strategic investor in THEKER Series A (June 2026)
+- name: Gresham House Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 01health
+  source: Led 01Health €12.9M Series A (2026-06-11)
+- name: Eka Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 01health
+  source: Co-investor in 01Health Series A
+- name: Wavemaker360
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 01health
+  source: Co-investor in 01Health Series A
+- name: Nicolas Cary
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blockchain.com (co-founder)
+  discovered_from: 01health
+  source: Angel co-investor in 01Health Series A
+- name: Sonia Szamocki
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: 01Health
+  discovered_from: 01health
+  source: Founder/CEO of 01Health
+- name: Piton Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cardnexus
+  source: Led CardNexus €3.5M Pre-Seed (2026-06-11)
+- name: Motier Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cardnexus
+  source: Co-investor in CardNexus Pre-Seed
+- name: FSJ
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cardnexus
+  source: Co-investor in CardNexus Pre-Seed
+- name: OPRTRS
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cardnexus
+  source: Co-investor in CardNexus Pre-Seed
+- name: Aquiti Gestion
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cardnexus
+  source: Co-investor in CardNexus Pre-Seed

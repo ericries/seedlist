@@ -65,7 +65,8 @@ pending_rounds:
   parsed_company: French trading card game platform CardNexus
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed_slug: cardnexus
 - title: Endurance Energy raises $54M to harness a massive untapped energy source
   url: https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/
   source: techcrunch
@@ -253,7 +254,8 @@ pending_rounds:
   parsed_company: Stepful
   parsed_amount: $55M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed_slug: stepful
 - title: Edge Markets raised $29.2M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
