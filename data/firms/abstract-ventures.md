@@ -94,12 +94,12 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Snackpass | Seed | ~2021 | Consumer | Active [^13] |
 | LangChain | Seed | 2023-04-04 | AI | Active [^8][^17] |
 | Replit | Seed | ~2023 | AI/DevTools | Active [^8] |
-| Cognition | Seed | ~2023 | AI | Active [^8] |
-| Hebbia | Seed | ~2023 | AI | Active [^8] |
+| Cognition | Series A ($21M, participation per portfolio listing) | 2024-03-12 | AI | Active [^8][^51] |
+| Hebbia | Series B ($130M, participation per portfolio listing) | 2024-07-08 | AI | Active [^8][^52] |
 | Cherry | Seed | ~2023 | Fintech | Active [^8] |
 | xAI | Early | ~2023 | AI | Active [^14] |
 | SpaceX | Early | ~2023 | Frontier Tech | Active [^8] |
-| Polymarket | Seed | ~2023 | Crypto | Active [^14] |
+| Polymarket | Series B ($45M, participation per portfolio listing) | 2024-05-14 | Crypto | Active [^14][^53] |
 | 11x | Series A | 2024-09-16 | AI/Enterprise | Active (participated) [^6][^18][^19] |
 | Vapi | Series A | 2024-12-12 | AI | Active (participated) [^8][^20][^21][^22] |
 | Acryl Data | Series A (participation unverified in announcement) | 2023-06-22 | Enterprise | Active [^6][^26][^27][^28] |
@@ -201,3 +201,9 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^49]: STAT News, "Longevity startup NewLimit announces $435 million clinical trial financing," June 2, 2026, accessed June 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/ — Independent confirmation of June 2, 2026 Series C announcement at $3.1B post-money valuation. NewLimit plans first clinical trial of a liver medicine; third funding announcement in approximately one year (following $130M Series B in May 2025 and $45M round in October 2025).
 
 [^50]: Endpoints News, "Anti-aging biotech NewLimit raises $435M at $3B valuation," June 2, 2026, accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third source confirming the $435M Series C; valuation of $3.1B (post-money) representing roughly 3x increase over prior year. Clinical trials targeted for 2027.
+
+[^51]: Maginative, "Cognition AI Raises $175M at $2B Valuation, One Month After Series A," April 2024, accessed June 2026. https://www.maginative.com/article/cognition-ai-raises-175m-at-2b-valuation-one-month-after-series-a/ — Confirms Cognition's $21M Series A led by Founders Fund announced March 12, 2024 at $350M post-money valuation, followed by a $175M round in April 2024 led by Founders Fund at $2B valuation. Abstract Ventures is not named in contemporaneous press for the Series A but appears on Abstract's own portfolio page; per its portfolio listing the participation is attributed to the March 2024 Series A round.
+
+[^52]: Hebbia blog, "Hebbia Raises Series B Led by Andreessen Horowitz," July 8, 2024, accessed June 2026. https://www.hebbia.com/blog/hebbia-raises-usd130m-series-b — Primary source: Hebbia announced a $130M Series B on July 8, 2024 led by Andreessen Horowitz with Index Ventures, Google Ventures, and Peter Thiel. Abstract is named on Hebbia's own portfolio page on Abstract's website [^6] and via Tracxn [^8]; the contemporaneous Hebbia announcement names only the lead and three additional investors and does not explicitly name Abstract — participation is per Abstract's own portfolio listing.
+
+[^53]: Blockworks, "Funding Wrap: Polymarket gets backing from Vitalik Buterin, Founders Fund in $70M raise," May 2024, accessed June 2026. https://blockworks.com/news/polymarket-funding-backed-by-vitalik-buterin — Confirms Polymarket's Series B round on May 14, 2024 led by Founders Fund with participation from Vitalik Buterin (and per The Block https://www.theblock.co/post/373783/polymarket-discloses-past-funding-rounds-totaling-205-million-before-2-billion-ice-investment Polymarket has since disclosed a previously-undisclosed $25M Series A led by General Catalyst). Abstract Ventures is not named in contemporaneous press for the Series B but appears as a Polymarket investor per Tracxn [^14]; participation is attributed to the May 2024 Series B per Abstract's portfolio listing.

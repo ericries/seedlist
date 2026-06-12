@@ -159449,7 +159449,9 @@ vague_facts:
   line: '| Cognition | Seed | ~2023 | AI | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-06-03'
+  resolution: Refined to Series A 2024-03-12 ($21M led by Founders Fund) per Maginative/cognition.ai primary sources [^51]
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Hebbia
@@ -159459,7 +159461,9 @@ vague_facts:
   line: '| Hebbia | Seed | ~2023 | AI | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-06-03'
+  resolution: Refined to Series B 2024-07-08 ($130M led by a16z) per Hebbia blog primary source [^52]
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Cherry
@@ -159499,7 +159503,9 @@ vague_facts:
   line: '| Polymarket | Seed | ~2023 | Crypto | Active [^14] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-06-03'
+  resolution: Refined to Series B 2024-05-14 ($45M led by Founders Fund) per Blockworks primary source [^53]
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Legora
