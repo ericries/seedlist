@@ -68,7 +68,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 |---------|------|-------|--------|--------|
 | Figma | 2018 | Seed | Design tools | [^1] |
 | Lattice | ~2017 | Early stage | HR/Performance management | [^3] |
-| Notion | 2019 | Series A | Productivity | [^1] |
+| Notion | 2019-07-25 | Series A ($10M at $800M val) | Productivity | [^1][^40] |
 | Ramp | ~2019 | Seed | Fintech/Corporate cards | [^3] |
 | Deel | 2019 | Seed | HR/Global payroll | [^14] |
 | Vise | 2020 | Series A | Fintech/Wealth management | [^15] |
@@ -79,7 +79,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Rupa Health | 2022 | Series A | Healthcare/Lab testing | [^19] |
 | Ethena | 2022 | Series B (lead) | HR/Compliance training | [^20] |
 | Humaans | 2022 | Series A (lead) | HR/People operations | [^21] |
-| Pipe | ~2020 | Seed | Fintech/Revenue-based financing | [^22] |
+| Pipe | 2020-06-24 | Seed extension ($60M, Fin VC-led) | Fintech/Revenue-based financing | [^22][^41] |
 | SWORD Health | ~2020 | Series A | Healthcare/Digital physiotherapy | [^16] |
 | Vital Biosciences | 2023 | Series A (lead) | Healthcare/Diagnostics | [^23] |
 | Speak | 2023 | Series B-2 (lead) | AI/Edtech | [^12] |
@@ -88,7 +88,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Superhuman | ~2021 | Unknown | Productivity/Email | [^15] |
 | Replicate | ~2022 | Unknown | AI/ML infrastructure | [^15] |
 | Metronome | 2022-02-01 | Series A | Fintech/Usage-based billing | [^36][^37] |
-| Anduril | ~2022 | Late stage | Defense technology | [^25] |
+| Anduril | 2022-12-02 | Series E ($1.48B at $8.48B val; Valor-led) | Defense technology | [^25][^42] |
 | OpenAI | ~2023 | Late stage | AI | [^25] |
 | Alt Carbon | 2025 | Seed (lead) | Climate tech/Carbon removal | [^13] |
 | turbopuffer | 2025 | Pre-seed | AI/Search infrastructure | [^26] |
@@ -172,3 +172,6 @@ Sam Altman, CEO of OpenAI, posted on X: "lachy is one of four people i ask for c
 [^37]: Lachy Groom LinkedIn post announcing Metronome's $30M Series A led by a16z, February 2022. https://www.linkedin.com/posts/lachy-groom-b218895_were-excited-to-announce-our-30m-series-activity-6894541534285438976-J3fZ
 [^38]: The Irish Times, "New York-based Irish firm Imprint raises $75m in funding round," November 13, 2023. https://www.irishtimes.com/business/2023/11/13/irish-founded-imprint-raises-75m-in-new-funding-round/
 [^39]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 11/13/2023," November 13, 2023. https://www.alleywatch.com/2023/11/the-alleywatch-startup-daily-funding-report-11-13-2023/
+[^40]: Pulse2, "Notion: $10 Million Funding At $800 Million Valuation," July 25, 2019, accessed June 2026. https://pulse2.com/notion-10-million-funding-at-800-million-valuation/ — Confirms Lachy Groom among Notion Series A angel investors.
+[^41]: dot.LA, "Pipe Taps $60 Million Seed Extension," June 24, 2020, accessed June 2026. https://dot.la/pipe-taps-60-million-seed-extension-2646245409.html — Confirms Lachy Groom's participation in Pipe's $60M seed extension led by Fin VC.
+[^42]: Washington Technology, "Anduril fetches $1.48B in latest funding round," December 2, 2022, accessed June 2026. https://www.washingtontechnology.com/companies/2022/12/anduril-fetches-148b-latest-funding-round/380409/ — Confirms Lachy Groom as Series E participant.

@@ -98,8 +98,8 @@ The analysis below is based on 26 verified investments personally attributed to 
 | Reddit | Angel / Board | 2012 | Consumer / Social | Public (NYSE: RDDT) | [^3] |
 | Udemy | Angel | ~2012 | Education / Marketplace | Public (NASDAQ: UDMY) | [^3] |
 | Wish | Angel | ~2013 | E-commerce | Public (NASDAQ: WISH) | [^1] |
-| Opendoor | Seed (co-founder) | 2014 | Real Estate Tech | Public (NASDAQ: OPEN) | [^3][^9] |
-| DoorDash | Seed | ~2014 | Marketplace / Delivery | Public (NYSE: DASH) | [^3][^4] |
+| Opendoor | Seed (co-founder; $9.95M, Khosla-led) | 2014-07-07 | Real Estate Tech | Public (NASDAQ: OPEN) | [^3][^9][^21] |
+| DoorDash | Seed ($2.4M, Khosla-led with Charles River) | 2013-09-30 | Marketplace / Delivery | Public (NYSE: DASH) | [^3][^4][^22] |
 | Affirm | Series A | ~2014 | Fintech / BNPL | Public (NASDAQ: AFRM) | [^3][^4] |
 | Stripe | Early stage | ~2014 | Fintech / Payments | Active | [^3][^4] |
 | ThoughtSpot | Series B | ~2015 | Enterprise / Analytics | Active | [^4] |
@@ -107,11 +107,11 @@ The analysis below is based on 26 verified investments personally attributed to 
 | HealthTap | Series B | ~2016 | Healthcare / Telemedicine | Active | [^4] |
 | Piazza | Series B | ~2016 | Education / Social | Active | [^4] |
 | Teespring | Series B | ~2016 | E-commerce / Print | Active | [^4] |
-| Webflow | Seed | ~2016 | Developer Tools / No-code | Active | [^4] |
+| Webflow | Seed ($1.5M, Khosla + Draper) | 2014-03-11 | Developer Tools / No-code | Active | [^4][^23] |
 | Faire | Seed | ~2017 | Marketplace / Wholesale | Active | [^3][^4] |
 | Homebase | Series A | ~2017 | SMB / Workforce | Active | [^4] |
 | Scribd | Series C | ~2017 | Consumer / Reading | Active | [^4] |
-| Ramp | Series A | ~2020 | Fintech / Corporate Cards | Active | [^3] |
+| Ramp | Series A ($15M, Founders Fund-led; $25M total) | 2020-02-12 | Fintech / Corporate Cards | Active | [^3][^24] |
 | Trade Republic | Growth | ~2021 | Fintech / Brokerage | Active | [^3] |
 | Aven | Series A | ~2021 | Fintech / Credit | Active | [^3] |
 | Lava | Series A | 2024 | Fintech / Bitcoin Lending | Active | [^14] |
@@ -170,3 +170,7 @@ No independently sourced founder testimonials found. Rabois is widely recognized
 [^18]: SaaStr, "Keith Rabois (Khosla Ventures): Building Amazing Teams (Video + Transcript)," accessed March 2026. https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/
 [^19]: TechCrunch, "Factory hits $1.5B valuation to build AI coding for enterprises," April 16, 2026. https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/
 [^20]: GlobeNewswire, "Sekai Raises $26M in Seed and Series A as Users Create, Play, and Remix 15 Million Mini-Apps," June 3, 2026. https://www.globenewswire.com/news-release/2026/06/03/3306441/0/en/Sekai-Raises-26M-in-Seed-and-Series-A-as-Users-Create-Play-and-Remix-15-Million-Mini-Apps.html
+[^21]: TechCrunch, "Keith Rabois' Homebuying Startup OpenDoor Raises $9.95M From Everyone," July 7, 2014, accessed June 2026. https://techcrunch.com/2014/07/07/opendoor/ — Confirms Opendoor seed close date and Khosla-led $9.95M round.
+[^22]: TechCrunch, "DoorDash Raises $2.4M To Improve Food Delivery," September 30, 2013, accessed June 2026. https://techcrunch.com/2013/09/30/door-dash-raises-2-4m/ — Confirms DoorDash seed at $2.4M led by Khosla Ventures (Rabois) and Charles River Ventures.
+[^23]: TechCrunch, "Responsive Website Builder Webflow Raises $1.5 Million From Khosla, Tim Draper & Others," March 11, 2014, accessed June 2026. https://techcrunch.com/2014/03/11/responsive-website-builder-webflow-raises-1-5-million-from-khosla-tim-draper-others/ — Confirms Webflow seed date and Khosla Ventures participation (Rabois + Ben Ling led at Khosla per Rabois Medium).
+[^24]: Ramp press release via PRWeb, "Ramp Launches the First Corporate Card that Helps Companies Spend Less," February 12, 2020, accessed June 2026. https://www.prweb.com/releases/ramp_launches_the_first_corporate_card_that_helps_companies_spend_less/prweb16901844.htm — Confirms $15M Series A led by Founders Fund (Keith Rabois) with $25M total raised at launch.

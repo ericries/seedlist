@@ -4,8 +4,8 @@ firm: mischief
 last_researched: 2026-06-03
 last_verified_investment:
   company: Tivara
-  date: ~2026
-  round: '2026'
+  date: 2026-01-12
+  round: Seed
 location: San Francisco, CA
 name: Zach Perret
 role: Co-Founder & Managing Director
@@ -92,7 +92,7 @@ This table includes 14 verified investments. Crunchbase reports up to 34 total i
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Comulate | Series B | 2025 | Insurance / fintech | Active | [^13] |
-| Tivara | Seed | 2026 | Healthcare AI | Active | [^14] |
+| Tivara | Seed | 2026-01-12 | Healthcare AI | Active | [^14][^28] |
 | Fragment | Seed | 2024 | Fintech infrastructure | Active | [^15] |
 | Hamming AI | Seed | 2024-12-18 | AI / developer tools | Active | [^16] |
 | iVerify | Series A | 2024-06-26 | Cybersecurity | Active | [^17] |
@@ -103,7 +103,7 @@ This table includes 14 verified investments. Crunchbase reports up to 34 total i
 | Lowkey | Series A | 2021 | Gaming / consumer | Acquired | [^22] |
 | Cohere.io | Seed | 2021-03-17 | Customer support AI | Acquired | [^27] |
 | SentiLink | Series A | 2019 | Fintech / fraud detection | Active | [^24] |
-| Flychain | Seed | ~2023 | Healthcare fintech | Active | [^8] |
+| Flychain | Seed | 2023-04 | Healthcare fintech | Active | [^8][^29] |
 | Light Energy | Seed | ~2024 | Climate / energy | Active | [^8] |
 
 *Years marked with ~ are estimates based on company founding year or round timing where exact investment date is not confirmed.*
@@ -169,3 +169,5 @@ Lauren Farleigh, Perret's Mischief co-founder, has spoken publicly about portfol
 [^25]: TechCrunch, "Warp raises $23M to build a better terminal," April 5, 2022, accessed March 2026. https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/
 [^26]: Deciphr.ai, "20VC: Plaid's Zach Perret on Why You Have To Hire For Spikes," podcast transcript summary, accessed March 2026. https://www.deciphr.ai/podcast/20vc-plaids-zach-perret-on-why-you-have-to-hire-for-spikes-and-what-that-really-means-fintech-predictions-from-incumbent-entrants-to-the-rise-of-europe--the-2-big-questions-that-ceos-should-ask-themselves
 [^27]: TechCrunch, "Cohere raises $3.1 million for its remote control solution for web apps," March 17, 2021, accessed June 2026. https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/
+[^28]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 1/12/2026," January 12, 2026, accessed June 2026. https://www.alleywatch.com/2026/01/the-alleywatch-startup-daily-funding-report-1-12-2026/ — Confirms Tivara $3.6M seed announcement date with Mischief, Day One Ventures, Y Combinator, and Kulveer Taggar among investors.
+[^29]: Jaime Deverall (Flychain CEO), "Reflecting on our seed fundraise," Meditations Substack, 2023, accessed June 2026. https://jaimedeverall.substack.com/p/reflecting-on-our-seed-fundraise — Founder confirms Flychain closed seed round in April 2023.
