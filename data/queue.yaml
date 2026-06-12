@@ -28915,3 +28915,47 @@ queue:
   added: '2026-03-17'
   discovered_from: cardnexus
   source: Co-investor in CardNexus Pre-Seed
+- name: Prosus Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equal-ai
+  source: lead investor in Equal AI Series B (June 2026)
+- name: Tomales Bay Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equal-ai
+  source: co-lead investor in Equal AI Series B (June 2026)
+- name: Think Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equal-ai
+  source: participant in Equal AI Series B (June 2026)
+- name: Valiant Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equal-ai
+  source: participant in Equal AI Series B (June 2026)
+- name: Sameer Nigam
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: PhonePe (founder)
+  discovered_from: equal-ai
+  source: angel investor in Equal AI Series B (June 2026)
+- name: Anshu Sharma
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Skyflow AI (co-founder)
+  discovered_from: equal-ai
+  source: angel investor in Equal AI Series B (June 2026)

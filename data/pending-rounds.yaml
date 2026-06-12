@@ -26,8 +26,10 @@ pending_rounds:
   date_found: '2026-06-12'
   parsed_company: Equal AI
   parsed_amount: $30M
-  parsed_round: null
-  status: pending
+  parsed_round: Series B
+  status: processed
+  processed: '2026-06-12'
+  startup_slug: equal-ai
 - title: Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’
     for the physical world
   url: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
