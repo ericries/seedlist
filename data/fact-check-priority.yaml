@@ -616,3 +616,7 @@ priority:
   type: investor
   reason: "participated in Maneva $27M Series A (2026-06-10)"
   added: 2026-06-13
+- slug: true-ventures
+  type: firm
+  reason: "participated in Flux $5M Seed (2026-06-10)"
+  added: 2026-06-13
