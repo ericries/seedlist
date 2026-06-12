@@ -14,19 +14,7 @@ investors:
     round: series-a
     year: 2026
     date: 2026-06-10
-firms:
-  - slug: us-venture-partners
-    round: series-a
-    year: 2026
-    date: 2026-06-10
-  - slug: bling-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-10
-  - slug: freestyle-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-10
+firms: []
 founders:
   - name: "Rae Jeong"
     role: "CEO & Co-Founder"
@@ -44,9 +32,9 @@ Maneva is a Palo Alto-based industrial AI company that builds a "video-to-action
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-10 | Series A | $27M | U.S. Venture Partners | Bling Capital, Freestyle Capital, Gokul Rajaram [^1] [^2] [^3] |
+| 2026-06-10 | Series A | $27M | U.S. Venture Partners | Bling Capital, Freestyle Capital, Gokul Rajaram [^1] [^2] [^3] [^4] |
 
-The Series A brings Maneva's total capital raised to $38.4 million [^1] [^2].
+The Series A brings Maneva's total capital raised to $38.4 million [^1] [^2] [^4].
 
 ## What Investors Say
 

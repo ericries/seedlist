@@ -9,15 +9,7 @@ status_company: active
 sector: [ai, productivity, developer-tools, scientific-computing]
 stage_latest: "Seed"
 total_raised: "$7.8M"
-investors:
-  - slug: nea
-    round: seed
-    year: 2026
-    date: 2026-06-10
-  - slug: bloomberg-beta
-    round: seed
-    year: 2026
-    date: 2026-06-10
+investors: []
 firms:
   - slug: nea
     round: seed

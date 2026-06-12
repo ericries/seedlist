@@ -9,10 +9,6 @@ sector: [ai, proptech, generative-ai, consumer, design]
 stage_latest: "Seed"
 total_raised: "$16M"
 investors:
-  - slug: ben-silbermann
-    round: seed
-    year: 2026
-    date: 2026-05-29
   - slug: patrick-collison
     round: seed
     year: 2026
