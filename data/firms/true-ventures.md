@@ -72,6 +72,7 @@ Notable investments where the firm or a named True partner participated:
 | Nectar Social | Seed → Series A | 2025-06 / 2026-05-14 | — | AI / MarTech / Social Commerce | Active [^16] |
 | Flick | Seed (lead) | 2026-05-14 | — | AI / Filmmaking | Active [^21] |
 | Concentrate AI | Pre-Seed (co-led with RRE Ventures) | 2026-06-10 | — | AI / LLM infrastructure | Active [^29][^30][^31] |
+| Flux (Boston engineering intelligence) | Seed (existing investor; Calibrate Ventures led) | 2026-06-10 | — | Developer Tools / AI | Active [^32][^33][^34] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -148,3 +149,9 @@ No additional independently sourced founder testimonials specifically about work
 [^30]: Let's Data Science, "AI-routing Startups See Major Venture Funding," June 10, 2026. Accessed June 11, 2026. https://letsdatascience.com/news/ai-routing-startups-see-major-venture-funding-59587828 — Confirms Concentrate AI emerged from stealth on/around June 10, 2026 with more than $5 million in initial funding; CEO Ari Jacoby quoted ("The model landscape is so fragmented, it's so hard to track").
 
 [^31]: Ari Jacoby LinkedIn profile, "CEO, Concentrate AI," accessed June 11, 2026. https://www.linkedin.com/in/arijacoby — Confirms Ari Jacoby's role as CEO of Concentrate AI; cross-referenced with Todd Lieberman's LinkedIn (https://www.linkedin.com/in/liebermantodd/) confirming co-founding team.
+
+[^32]: PR Newswire, "Flux Raises $5M to Give Engineering Leaders Ground-Truth Visibility in the Age of AI," June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/flux-raises-5m-to-give-engineering-leaders-ground-truth-visibility-in-the-age-of-ai-302796320.html — Confirms Flux (Boston engineering intelligence platform; founder/CEO Ted Julian) closed $5M seed on June 10, 2026 led by Calibrate Ventures with participation from existing investors True Ventures and Glasswing Ventures.
+
+[^33]: The SaaS News, "Flux Raises $5M Seed," June 10, 2026. Accessed June 2026. https://www.thesaasnews.com/news/flux-raises-5m-seed/ — Independently confirms Flux $5M seed on June 10, 2026, Calibrate Ventures led, True Ventures and Glasswing Ventures participated.
+
+[^34]: Pulse2, "Flux Raises $5 Million to Expand AI-Powered Engineering Intelligence Platform," June 11, 2026. Accessed June 2026. https://pulse2.com/flux-raises-5-million-to-expand-ai-powered-engineering-intelligence-platform/ — Third independent confirmation; describes True Ventures and Glasswing Ventures as "existing investors" participating in Calibrate-led seed.

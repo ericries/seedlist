@@ -114,9 +114,9 @@ The analysis below is based on 26 verified investments personally attributed to 
 | Ramp | Series A ($15M, Founders Fund-led; $25M total) | 2020-02-12 | Fintech / Corporate Cards | Active | [^3][^24] |
 | Trade Republic | Growth | ~2021 | Fintech / Brokerage | Active | [^3] |
 | Aven | Series A | ~2021 | Fintech / Credit | Active | [^3] |
-| Lava | Series A | 2024 | Fintech / Bitcoin Lending | Active | [^14] |
-| Factory | Series C (board) | 2026 | AI / Developer Tools | Active | [^19] |
-| Sekai | Series A (co-lead) | 2026 | AI / Consumer / Developer Tools | Active | [^20] |
+| Lava | Series A ($10M, Khosla + Founders Fund co-led) | 2024-12-09 | Fintech / Bitcoin Lending | Active | [^14][^25][^26] |
+| Factory | Series C ($150M, Khosla led; board seat) | 2026-04-16 | AI / Developer Tools | Active | [^19][^27] |
+| Sekai | Series A ($20M, co-led with Connect Ventures) | 2026-06-03 | AI / Consumer / Developer Tools | Active | [^20][^28] |
 
 ## In Their Own Words
 
@@ -174,3 +174,7 @@ No independently sourced founder testimonials found. Rabois is widely recognized
 [^22]: TechCrunch, "DoorDash Raises $2.4M To Improve Food Delivery," September 30, 2013, accessed June 2026. https://techcrunch.com/2013/09/30/door-dash-raises-2-4m/ — Confirms DoorDash seed at $2.4M led by Khosla Ventures (Rabois) and Charles River Ventures.
 [^23]: TechCrunch, "Responsive Website Builder Webflow Raises $1.5 Million From Khosla, Tim Draper & Others," March 11, 2014, accessed June 2026. https://techcrunch.com/2014/03/11/responsive-website-builder-webflow-raises-1-5-million-from-khosla-tim-draper-others/ — Confirms Webflow seed date and Khosla Ventures participation (Rabois + Ben Ling led at Khosla per Rabois Medium).
 [^24]: Ramp press release via PRWeb, "Ramp Launches the First Corporate Card that Helps Companies Spend Less," February 12, 2020, accessed June 2026. https://www.prweb.com/releases/ramp_launches_the_first_corporate_card_that_helps_companies_spend_less/prweb16901844.htm — Confirms $15M Series A led by Founders Fund (Keith Rabois) with $25M total raised at launch.
+[^25]: Lava blog, "We've Raised Our $10M Series A from Founders Fund and Khosla Ventures," accessed June 2026. https://www.lava.xyz/blog/announcing-our-series-a — Lava's own announcement of the $10M Series A co-led by Khosla Ventures (Keith Rabois) and Founders Fund, December 9, 2024. Additional angels: Vinod Khosla, Joey Krug, Jon Chu, Peter Thiel.
+[^26]: Crunchbase, "Series A — Lava," accessed June 2026. https://www.crunchbase.com/funding_round/lava-ede8-series-a--7c04eb9e — Cross-reference confirming December 9, 2024 Lava Series A.
+[^27]: The AI Insider, "Factory Raises $150M at $1.5B Valuation to Scale AI Coding Agents for Enterprises," April 17, 2026. Accessed June 2026. https://theaiinsider.tech/2026/04/17/factory-raises-150m-at-1-5b-valuation-to-scale-ai-coding-agents-for-enterprises/ — Confirms Factory $150M Series C April 16-17, 2026 led by Khosla Ventures, with Sequoia, Insight Partners, Blackstone participating; Keith Rabois joined board.
+[^28]: Yahoo Finance/GlobeNewswire, "Sekai Raises $26M in Seed and Series A as Users Create, Play, and Remix 15 Million Mini-Apps," June 3, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/sekai-raises-26m-seed-series-213200757.html — Confirms Sekai Series A $20M co-led by Keith Rabois (Khosla Ventures) and Nicole Quinn (Connect Ventures), with 359 Capital, Parable VC, 645 Ventures participating.

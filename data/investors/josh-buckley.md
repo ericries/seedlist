@@ -72,29 +72,29 @@ Buckley typically writes $300K checks at seed and Series A stages [^2][^8]. He t
 
 ## Portfolio
 
-| Company | Year | Stage | Source |
-|---------|------|-------|--------|
-~unknown| Figma | Early | Seed | [^1] |
-~unknown| Rippling | Early | Seed | [^1] |
-~unknown| Applied Intuition | Early | Seed | [^1] |
-~unknown| Physical Intelligence | Early | Seed | [^1] |
-~unknown| Flock Safety | Early | Seed | [^1] |
-~unknown| Vercel | Early | Seed | [^1] |
-~unknown| Boom Supersonic | Early | Seed | [^1] |
-~unknown| Gecko Robotics | Early | Seed | [^1] |
-~unknown| Athelas | Early | Seed | [^1] |
-~unknown| Solugen | Early | Seed | [^1] |
-~unknown| Mercury | Early | Seed | [^1] |
-~unknown| Astranis | Early | Seed | [^1] |
-~unknown| Relativity Space | Early | Seed | [^1] |
-~unknown| WorkOS | Early | Seed | [^1] |
-~unknown| Retool | Early | Seed | [^1] |
-~unknown| Speak | Early | Seed | [^1] |
+| Company | Year (founding/proxy) | Stage | Source |
+|---------|-----------------------|-------|--------|
+| Figma | ~2012 (founding year) | Early/Seed | [^1] |
+| Rippling | ~2016 (founding year) | Early/Seed | [^1] |
+| Applied Intuition | ~2017 (founding year) | Early/Seed | [^1] |
+| Physical Intelligence | ~2024 (founding year) | Early/Seed | [^1] |
+| Flock Safety | ~2017 (founding year) | Early/Seed | [^1] |
+| Vercel | ~2015 (founding year) | Early/Seed | [^1] |
+| Boom Supersonic | ~2014 (founding year) | Early/Seed | [^1] |
+| Gecko Robotics | ~2013 (founding year) | Early/Seed | [^1] |
+| Athelas | ~2016 (founding year) | Early/Seed | [^1] |
+| Solugen | ~2016 (founding year) | Early/Seed | [^1] |
+| Mercury | ~2017 (founding year) | Early/Seed | [^1] |
+| Astranis | ~2015 (founding year) | Early/Seed | [^1] |
+| Relativity Space | ~2015 (founding year) | Early/Seed | [^1] |
+| WorkOS | ~2019 (founding year) | Early/Seed | [^1] |
+| Retool | ~2017 (founding year) | Early/Seed | [^1] |
+| Speak | ~2016 (founding year) | Early/Seed | [^1] |
 | Clearbit | ~2014 | Early | [^1][^2] |
-~unknown| ClassDojo | Early | Seed | [^2] |
-~unknown| Lattice | Early | Seed | [^2] |
-~unknown| NexHealth | Early | Seed | [^2] |
-~unknown| Placer.ai | Early | Seed | [^2][^3] |
+| ClassDojo | ~2011 (founding year) | Early/Seed | [^2] |
+| Lattice | ~2015 (founding year) | Early/Seed | [^2] |
+| NexHealth | ~2017 (founding year) | Early/Seed | [^2] |
+| Placer.ai | ~2016 (founding year) | Early/Seed | [^2][^3] |
 
 *Note: Specific investment years are not publicly available for most of Buckley's investments. His personal website and fund materials confirm him as an "early investor" without specifying dates. This table represents roughly 30-43% of his 49-67 reported investments [^7].*
 

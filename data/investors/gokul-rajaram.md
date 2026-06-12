@@ -128,6 +128,7 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 | Boon | Series A Lead | 2024 | AI/Logistics | Marathon [^7] |
 | Niural | Series A Lead | 2025 | Payroll/Finance | PR Newswire [^11] |
 | Clouted | Seed (participant) | 2026-05-20 | AI/Marketing/Video | TechCrunch [^12] |
+| Maneva | Seed (participant) | 2025-03-07 | AI/Manufacturing Vision | BetaKit [^13]; SignalBase [^14] |
 
 *This table represents a subset of Rajaram's 300+ angel investments and Marathon fund investments. Only 35 of 300+ investments are listed; many others are unverified or undisclosed [^1][^2].*
 
@@ -161,3 +162,5 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 [^10]: PR Newswire, "Atlas Card Raises Fresh Capital and Announces Major Company Milestones," December 2024. https://www.prnewswire.com/news-releases/atlas-card-raises-fresh-capital-and-announces-major-company-milestones-302328649.html
 [^11]: PR Newswire, "Niural raises $31M to Transform Global CFO and People Operations," June 2025. https://www.prnewswire.com/news-releases/niural-raises-31m-to-transform-global-cfo-and-people-operations-302492603.html
 [^12]: TechCrunch, "Clouted wants to take the guesswork out of making short videos go viral," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/
+[^13]: BetaKit, "Maneva raises $27-million USD Series A to expand AI vision in manufacturing," June 10, 2026. Accessed June 2026. Notes Maneva "has seen early seed funding support from Bay area investors like Gokul Rajaram." https://betakit.com/maneva-raises-27-million-usd-series-a-to-expand-ai-vision-in-manufacturing/
+[^14]: SignalBase, "Maneva AI Secures $10M Seed Round to Revolutionize Manufacturing with a Superhuman Digital Workforce," accessed June 2026. Seed closed 2025-03-07. https://www.trysignalbase.com/news/funding/maneva-ai-secures-10m-seed-round-to-revolutionize-manufacturing-with-a-superhuman-digital-workforce

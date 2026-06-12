@@ -614,9 +614,11 @@ priority:
   status: resolved
 - slug: gokul-rajaram
   type: investor
-  reason: "participated in Maneva $27M Series A (2026-06-10)"
+  reason: "RESOLVED 2026-06-03 — Priority entry stated 'Series A' participation, but verification against 3 sources (BetaKit primary article, SignalBase, Tracxn) confirms Gokul Rajaram participated in the Maneva $10M Seed (2025-03-07), NOT the Series A. BetaKit explicitly: 'has seen early seed funding support from Bay area investors like Gokul Rajaram.' Series A participants per BetaKit are USVP (lead), Bling Capital (returning), Freestyle Capital (returning), Seguin Ventures, N49P, Prem Kalevar SPV. Tracxn listed him in Series A but is unreliable per CLAUDE.md. Added Maneva Seed row to portfolio with citations [^13][^14]. last_verified_investment unchanged (Clouted 2026-05-20 still more recent than Maneva seed)."
   added: 2026-06-13
+  status: resolved
 - slug: true-ventures
   type: firm
-  reason: "participated in Flux $5M Seed (2026-06-10)"
+  reason: "RESOLVED 2026-06-03 — Flux $5M Seed (2026-06-10, Calibrate Ventures led; True Ventures and Glasswing Ventures participated as existing investors) VERIFIED via 3 independent primary sources: (1) PR Newswire press release [^32] (Boston-based engineering intelligence platform, founder/CEO Ted Julian), (2) The SaaS News [^33], (3) Pulse2 [^34]. Added Flux row to portfolio. Boston-based, not the Houston FluxWorks company also raising $5M same week (distinct entity)."
   added: 2026-06-13
+  status: resolved
