@@ -28192,7 +28192,7 @@ queue:
 - name: Karri Saarinen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Linear (Co-founder & CEO); angel investor
   discovered_from: romain-huet
@@ -28959,3 +28959,65 @@ queue:
   firm: Skyflow AI (co-founder)
   discovered_from: equal-ai
   source: angel investor in Equal AI Series B (June 2026)
+- name: Raycast
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: karri-saarinen
+  source: Karri Saarinen Series A investment (2021-11-30)
+- name: Foxglove
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: karri-saarinen
+  source: Karri Saarinen seed investment (2022-01)
+- name: Tuomas Artman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Linear
+  discovered_from: karri-saarinen
+  source: Linear co-founder & CTO; potential angel investor
+- name: Jori Lallo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Linear
+  discovered_from: karri-saarinen
+  source: Linear co-founder & CPO; potential angel investor
+- name: Koen Bok
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Framer
+  discovered_from: karri-saarinen
+  source: Co-angel with Karri Saarinen in Raycast Series A
+- name: David Cramer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sentry
+  discovered_from: karri-saarinen
+  source: Co-angel with Karri Saarinen in Raycast Series A
+- name: Tobi Lütke
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Shopify
+  discovered_from: karri-saarinen
+  source: Co-angel with Karri Saarinen in Granola Series B
+- name: Des Traynor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Intercom
+  discovered_from: karri-saarinen
+  source: Co-angel with Karri Saarinen in Granola Series B

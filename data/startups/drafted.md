@@ -1,40 +1,51 @@
 ---
-name: "Drafted"
-slug: drafted
-type: startup
-website: "https://drafted.com"
-location: "San Francisco, CA"
-status_company: active
-sector: [ai, proptech, generative-ai, consumer, design]
-stage_latest: "Seed"
-total_raised: "$16M"
-investors:
-  - slug: patrick-collison
-    round: seed
-    year: 2026
-    date: 2026-05-29
-  - slug: jack-altman
-    round: seed
-    year: 2026
-    date: 2026-05-29
-  - slug: charlie-songhurst
-    round: seed
-    year: 2026
-    date: 2026-05-29
 firms:
-  - slug: buckley-ventures
-    round: seed
-    year: 2026
-    date: 2026-05-29
-  - slug: y-combinator
-    round: seed
-    year: 2026
-    date: 2026-05-29
+- date: 2026-05-29
+  round: seed
+  slug: buckley-ventures
+  year: 2026
+- date: 2026-05-29
+  round: seed
+  slug: y-combinator
+  year: 2026
+- round: Seed (Buckley Ventures led)
+  slug: stripe
+  year: 2026
+- round: Seed (Buckley Ventures led)
+  slug: benchmark
+  year: 2026
 founders:
-  - name: "Nick Donahue"
-    role: "CEO & Founder"
-status: published
+- name: Nick Donahue
+  role: CEO & Founder
+investors:
+- date: 2026-05-29
+  round: seed
+  slug: patrick-collison
+  year: 2026
+- date: 2026-05-29
+  round: seed
+  slug: jack-altman
+  year: 2026
+- date: 2026-05-29
+  round: seed
+  slug: charlie-songhurst
+  year: 2026
 last_researched: 2026-06-13
+location: San Francisco, CA
+name: Drafted
+sector:
+- ai
+- proptech
+- generative-ai
+- consumer
+- design
+slug: drafted
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $16M
+type: startup
+website: https://drafted.com
 ---
 
 ## About

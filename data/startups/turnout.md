@@ -1,10 +1,16 @@
 ---
-firms: []
+firms:
+- round: Seed
+  slug: shine-capital
+  year: 2025
 founded: 2024
 founders:
 - name: Itai Hirsch
   role: Founder & CEO
-investors: []
+investors:
+- round: Seed
+  slug: ethan-daly
+  year: 2025
 last_researched: 2026-06-12
 location: San Diego, CA
 name: Turnout

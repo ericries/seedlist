@@ -1,39 +1,59 @@
 ---
-name: "Current"
-slug: current
-type: startup
-website: "https://current.com"
-location: "New York, NY"
-status_company: active
-sector: [fintech, consumer-fintech, banking, payments]
-stage_latest: "Series E"
-total_raised: "$80M (Series E)"
-investors:
-  - slug: andreessen-horowitz
-    round: series-e
-    year: 2026
-    date: 2026-06-11
-  - slug: tiger-global-management
-    round: series-e
-    year: 2026
-    date: 2026-06-11
-  - slug: general-catalyst
-    round: series-e
-    year: 2026
-    date: 2026-06-11
-  - slug: qed-investors
-    round: series-e
-    year: 2026
-    date: 2026-06-11
-  - slug: founders-fund
-    round: series-e
-    year: 2026
-    date: 2026-06-11
+firms:
+- round: Seed
+  slug: qed-investors
+  year: 2017
+- round: Seed
+  slug: expa
+  year: 2015
 founders:
-  - name: "Stuart Sopp"
-    role: "Co-Founder & CEO"
-status: published
+- name: Stuart Sopp
+  role: Co-Founder & CEO
+investors:
+- date: 2026-06-11
+  round: series-e
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-06-11
+  round: series-e
+  slug: tiger-global-management
+  year: 2026
+- date: 2026-06-11
+  round: series-e
+  slug: general-catalyst
+  year: 2026
+- date: 2026-06-11
+  round: series-e
+  slug: qed-investors
+  year: 2026
+- date: 2026-06-11
+  round: series-e
+  slug: founders-fund
+  year: 2026
+- round: Seed
+  slug: nigel-morris
+  year: 2017
+- round: Seed
+  slug: garrett-camp
+  year: 2015
+- round: Series A
+  slug: frank-rotman
+  year: 2017
 last_researched: 2026-06-12
+location: New York, NY
+name: Current
+sector:
+- fintech
+- consumer-fintech
+- banking
+- payments
+slug: current
+stage_latest: Series E
+status: published
+status_company: active
+total_raised: $80M (Series E)
+type: startup
+website: https://current.com
 ---
 
 ## About

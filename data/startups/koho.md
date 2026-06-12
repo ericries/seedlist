@@ -1,25 +1,32 @@
 ---
-name: "KOHO"
-slug: koho
-type: startup
-website: "https://koho.ca"
-location: "Toronto / Vancouver, Canada"
+firms:
+- round: '2026-06-11'
+  slug: independent
+  year: 2026
 founded: 2014
-status_company: active
-sector: [fintech, neobank, consumer-fintech, payments]
-stage_latest: "Series E"
-total_raised: "$507M CAD"
-investors:
-  - slug: tobi-lutke
-    round: series-e
-    year: 2026
-    date: 2026-06-11
-firms: []
 founders:
-  - name: "Daniel Eberhard"
-    role: "Co-Founder & CEO"
-status: published
+- name: Daniel Eberhard
+  role: Co-Founder & CEO
+investors:
+- date: 2026-06-11
+  round: series-e
+  slug: tobi-lutke
+  year: 2026
 last_researched: 2026-06-12
+location: Toronto / Vancouver, Canada
+name: KOHO
+sector:
+- fintech
+- neobank
+- consumer-fintech
+- payments
+slug: koho
+stage_latest: Series E
+status: published
+status_company: active
+total_raised: $507M CAD
+type: startup
+website: https://koho.ca
 ---
 
 ## About

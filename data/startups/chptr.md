@@ -1,21 +1,31 @@
 ---
-name: "Chptr"
-slug: chptr
-type: startup
-website: "https://chptr.com"
-location: "New York, NY"
+firms:
+- round: Seed
+  slug: ganas-ventures
+  year: 2023
 founded: 2021
-status_company: active
-sector: [media, ai, broadcast, consumer]
-stage_latest: "Series A"
-total_raised: "$7M+"
-investors: []
-firms: []
 founders:
-  - name: "Rehan Choudhry"
-    role: "Founder & CEO"
-status: published
+- name: Rehan Choudhry
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: lolita-taub
+  year: 2023
 last_researched: 2026-06-12
+location: New York, NY
+name: Chptr
+sector:
+- media
+- ai
+- broadcast
+- consumer
+slug: chptr
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $7M+
+type: startup
+website: https://chptr.com
 ---
 
 ## About
