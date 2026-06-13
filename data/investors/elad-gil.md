@@ -123,7 +123,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Retool | ~2018 | Early stage | [^3][^21] |
 | Anduril | ~2018 | Early stage; led Series D (2021) | [^1][^3][^27] |
 | Benchling | ~2019 | Early stage | [^21] |
-| Digits | 2019 | Series A | [^16] |
+| Digits | 2019-11-06 | Series A (Benchmark-led $10.5M; aggregator-listed angel participation) | [^16][^45] |
 | dbt Labs | ~2019 | Early stage | [^3] |
 | Front | ~2019 | Early stage | [^21] |
 | Rippling | ~2019 | Early stage (later Series G) | [^1][^18] |
@@ -143,7 +143,7 @@ Despite claiming to be "more product market centric than founder centric," the d
 | Decagon | 2024-06-18 | Series A ($30M, participated; $5M Seed + $30M Series A combined raise) | [^14][^31][^32][^33] |
 | RunSybil | 2026-03-18 | Series A ($40M, participated; led by Khosla Ventures) | [^23] |
 | Atlas Card | 2026-04-14 | Series C ($40M, co-led at $420M valuation; co-led with Verified Capital; 01 Advisors and Marathon Management Partners participated) | [^30][^39][^40] |
-| Frame Security | 2026-05-11 | Stealth-exit ($50M, participated; co-led by Index Ventures, Team8, Picture Capital) | [^37][^38] |
+| Frame Security | 2026-05-11 | Series A ($50M, participated; co-led by Index Ventures, Team8, Picture Capital) | [^37][^38][^44] |
 | NavigateAI | 2026-05-26 | Seed (led, $25M; Khosla Ventures, Fifth Wall, Lennar, Tishman Speyer, Helix Electric participated) | [^43] |
 
 *Note: Many investment years are approximate, based on company founding dates or general reporting. Gil's blog states he has invested in over 200 companies with approximately 40 valued at $1B+ each [^1][^3]. This table represents approximately 20% of his reported total investments. Specific round details are unavailable for many early angel investments. Years marked with "~" indicate estimates based on company founding year or earliest known funding round.*
@@ -297,3 +297,5 @@ Qasar Younis, CEO of Applied Intuition, described Gil as an "old friend" and cha
 [^42]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent confirmation of November 23, 2022 announcement date.
 
 [^43]: GlobeNewsWire, "NavigateAI Launches to Build the AI Copilot for the Physical World," May 26, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/26/3301425/0/en/navigateai-launches-to-build-the-ai-copilot-for-the-physical-world.html — Confirms Elad Gil led NavigateAI's $25M seed on May 26, 2026; Khosla Ventures, Fifth Wall, Lennar, Tishman Speyer, Helix Electric, and 11 named angel investors participated. Founded by Opendoor co-founder Eric Wu. Elad Gil quote: "AI copilots for the physical world is the kind of application that will define the next era of AI."
+[^44]: The SaaS News, "Frame Security Raises $50M Series A," May 12, 2026. Accessed June 2026. https://www.thesaasnews.com/news/frame-security-raises-50m-series-a/ — Third independent primary source confirming Frame Security's $50M was a Series A (not undisclosed stealth round) co-led by Index Ventures, Team8, and Picture Capital; participants include Wiz CEO Assaf Rappaport and Elad Gil (Gil Capital). Resolves prior "Stealth-exit" round type designation.
+[^45]: TechCrunch, "Stealth fintech startup Digits raises $10.5 million Series A from Benchmark and others," November 6, 2019, accessed June 2026. https://techcrunch.com/2019/11/06/stealth-fintech-startup-digits-raises-10-5-million-series-a-from-benchmark-and-others — Primary source confirming Digits' $10.5M Series A on November 6, 2019 led by Benchmark with 70+ named angels. Elad Gil is not named in TechCrunch's list; aggregator [^16] lists Gil as participant but primary source does not corroborate — entry retained with note.

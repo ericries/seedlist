@@ -124,10 +124,10 @@ This table covers investments where Marc Andreessen had personal involvement (an
 | Airbnb | 2009 | Angel ($600K personal) | [^5] |
 | Skype | 2011 | Growth (a16z) | [^2] |
 | GitHub | 2012 | Series A (a16z, $100M) | [^19] |
-| Coinbase | 2013 | Series B (a16z led $25M) | [^20] |
+| Coinbase | 2013-12-12 | Series B (a16z led $25M) | [^20] |
 | Oculus VR | 2013 | Series B (a16z led $75M) | [^19] |
-| Samsara | 2015 | Seed (a16z, board seat) | [^8] |
-| Applied Intuition | ~2017 | Series A (a16z, board seat) | [^18] |
+| Samsara | 2015-05-19 | Seed/First-round (a16z led $25M, board seat) | [^8][^28] |
+| Applied Intuition | 2018-09-12 | Series A (a16z led, board seat) | [^18][^29] |
 | Dialpad | ~2018 | Growth (board seat) | [^9] |
 | Honor | ~2018 | Growth (board seat) | [^9] |
 | OpenGov | ~2018 | Growth (board seat) | [^9] |
@@ -269,3 +269,7 @@ This table covers investments where Marc Andreessen had personal involvement (an
 [^26]: "Ep 98: Sanjit Biswas on Building to $20B." The Logan Bartlett Show. https://www.theloganbartlettshow.com/archive/ep-98-sanjit-biswas-on-building-to-20b-the-ceo-behind-one-of-the-fastest-growing-startups-ever. Accessed March 2026.
 
 [^27]: "a16z: The Power Brokers." Not Boring by Packy McCormick. https://www.notboring.co/p/a16z-the-power-brokers. Accessed March 2026.
+
+[^28]: "Meraki founders get $25M from Andreessen Horowitz for sensor startup," Fortune, May 19, 2015, accessed June 2026. https://fortune.com/2015/05/19/meraki-founders-score-25-million-from-andreessen-horowitz-for-sensor-startup/ — Primary source confirms Samsara's $25M first-round funding announced May 19, 2015 led by Andreessen Horowitz with Marc Andreessen joining the board.
+
+[^29]: "Applied Intuition: Making Self-Driving Cars Safe for the World, Through Simulation," Andreessen Horowitz, September 12, 2018, accessed June 2026. https://a16z.com/announcement/applied-intuition-making-self-driving-cars-safe-for-the-world-through-simulation/ — Primary source confirms a16z led Applied Intuition's Series A on September 12, 2018 with Marc Andreessen joining the board ("I'm really excited to personally be on their board and to work with them to fulfill the autonomy dream").

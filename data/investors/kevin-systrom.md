@@ -64,12 +64,12 @@ Based on 13 publicly identified investments [^4] [^7], the following patterns em
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Convoy | ~2016 | Angel | Logistics/Freight | [^4] |
-| Monzo | 2017 | Series C | Fintech/Banking | [^8] |
+| Convoy | 2016-03-22 | Series A (Greylock-led $16M; Systrom participated) | Logistics/Freight | [^4] [^17] [^18] |
+| Monzo | 2017-02 | Series C (via Kevin Systrom Revocable Trust; disclosed Nov 2017) | Fintech/Banking | [^8] |
 | Superhuman | ~2018 | Early stage | Consumer/Email | [^5] |
 | Clubhouse | ~2020 | Early stage | Consumer/Social Audio | [^5] |
 | Sandbox VR | 2019 | Angel/Strategic | Consumer/VR | [^5] [^12] |
-| Loom | ~2020 | Series B | Enterprise/Video | [^10] |
+| Loom | 2019-11-27 | Series B (Sequoia-led $30M; Systrom + Krieger new investors) | Enterprise/Video | [^10] |
 | Scale AI | 2019 | Series C | AI/Data Labeling | [^9] |
 | Airtime (mmhmm) | 2020-10-07 | Series A | Consumer/Video Tools | [^13] [^14] |
 | Geneva | 2020-08-03 | Seed | Consumer/Communities | [^15] [^16] |
@@ -113,3 +113,5 @@ No independently sourced founder testimonials found regarding Systrom's angel in
 [^14]: "mmhmm Raises $31M in Funding," FinSMEs, October 7, 2020. https://www.finsmes.com/2020/10/mmhmm-raises-31m-in-funding.html
 [^15]: "Bumble buys community building app Geneva to expand further into friendships," TechCrunch, May 20, 2024 — names Kevin Systrom and Mike Krieger among Geneva's notable backers. https://techcrunch.com/2024/05/20/bumble-buys-community-building-app-geneva-to-expand-further-into-friendships/
 [^16]: "Seed Round - Geneva - 2020-08-03," Crunchbase, accessed April 2026. https://www.crunchbase.com/funding_round/geneva-seed--e399fe0c
+[^17]: "Convoy Raises $16 Million Series A Led by Greylock Partners," Business Wire, March 22, 2016, accessed June 2026. https://www.businesswire.com/news/home/20160322006652/en/Convoy-Raises-16-Million-Series-Led-Greylock — Press release confirms Convoy's $16M Series A on March 22, 2016 led by Greylock Partners with participation from new investors Jeff Wilke, Kevin Systrom, Gary Chartrand, and Mike Gamson plus prior seed investors. Reid Hoffman (Greylock) joined the board.
+[^18]: "Greylock leads $16M round for on-demand trucking startup Convoy; Reid Hoffman joins board," GeekWire, March 22, 2016, accessed June 2026. https://www.geekwire.com/2016/greylock-leads-16m-round-demand-trucking-startup-convoy-reid-hoffman-joins-board/ — Independent confirmation of March 22, 2016 Series A announcement with Kevin Systrom among new investors alongside Jeff Wilke (Amazon) and Mike Gamson (LinkedIn).
