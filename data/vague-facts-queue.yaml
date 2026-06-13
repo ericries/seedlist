@@ -3551,7 +3551,9 @@ vague_facts:
   line: '| Blumira | Seed | ~2019 | Security | [^1][^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-13
+  resolution_note: "Same Blumira row as year_only_date entry. Updated with status text 'Seed (M25 led, $2.6M; Array participated)' on 2020-08-11."
 - profile: firms/array-ventures
   profile_name: Array Ventures
   company: CandorIQ
@@ -198059,7 +198061,9 @@ vague_facts:
   line: '| Blumira | Seed | ~2019 | Security | [^1][^7] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-13
+  resolution_note: "Duplicate of array-ventures Blumira row. Resolved as 2020-08-11 with M25 lead, $2.6M, citations [^10][^11][^12]."
 - profile: firms/atomic
   profile_name: Atomic
   company: Adentro

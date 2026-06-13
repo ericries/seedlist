@@ -89,7 +89,7 @@ Based on Array's publicly listed portfolio of approximately 52 active investment
 | Sotto | Pre-seed | ~2020s | AI | [^1] |
 | BlazeAI | Pre-seed | ~2020s | AI | [^1] |
 | Blendid | Pre-seed | ~2020s | Robotics | [^1] |
-| Blumira | Seed | ~2019 | Security | [^1][^7] |
+| Blumira | Seed (M25 led, $2.6M; Array participated) | 2020-08-11 | Security | [^1][^7][^10][^11][^12] |
 | CandorIQ | Pre-seed | ~2020s | Enterprise SaaS | [^1] |
 | Capsule | Pre-seed | ~2020s | Enterprise SaaS | [^1] |
 | Cast | Pre-seed | ~2020s | Enterprise SaaS | [^1] |
@@ -127,3 +127,6 @@ No independently sourced founder testimonials found. Array Ventures' website inc
 [^7]: Array Ventures, Tracxn profile, accessed March 2026. https://tracxn.com/d/venture-capital/array-ventures/__-SCV6PdMw3oXaB0rCxGtDfGqapnonJh8kayxrv83D5g
 [^8]: "Shruti Gandhi, '12," University of Chicago Booth School of Business, Distinguished Alumni Award, accessed March 2026. https://www.chicagobooth.edu/alumni/distinguished-alumni-award/honorees/shruti-gandhi
 [^9]: TechSeen, "Mobilize raises $6.5M, appoints Laura Yecies as new COO," September 22, 2016, accessed May 2026. https://techseen.com/2016/09/22/mobilize-6-5m-appoints-laura-yecies-coo/ — Mobilize's $6.5M Series A on 2016-09-22 was led by Trinity Ventures with participation from Floodgate Ventures, Hillsven Capital, Array Ventures, UpWest Labs, and SaaS angels (Eoghan McCabe, Sanjay Subhedar). Array Ventures did not participate in the November 2014 seed round (Hillsven Capital, UpWest Labs, Eddy Shalev) per Vator News, "Mobilize raises $1.2M in seed funding," November 25, 2014. https://vator.tv/2014-11-25-mobilize-raises-12m-in-seed-funding/
+[^10]: PRNewswire, "Blumira Raises New Round of Funding For Threat Detection & Response," August 11, 2020, accessed June 2026. https://www.prnewswire.com/news-releases/blumira-raises-new-round-of-funding-for-threat-detection--response-301109106.html — Confirms Blumira's $2.6M seed round on 2020-08-11, led by M25 with participation from Array Ventures.
+[^11]: Blumira blog, "Blumira Raises New Round of Funding For Threat Detection & Response," August 11, 2020, accessed June 2026. https://www.blumira.com/blog/blumira-raises-funding-threat-detection-response — Company's own announcement confirming $2.6M seed led by M25 with Array Ventures participating.
+[^12]: TechStartups, "Blumira emerges from stealth with $2.6 million in funding to offer automated threat detection and response to organizations," August 11, 2020, accessed June 2026. https://techstartups.com/2020/08/11/blumira-emerges-stealth-2-6-million-funding-offer-automated-threat-detection-response-organiztions/ — Contemporaneous tech press coverage confirming round details.
