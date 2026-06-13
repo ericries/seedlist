@@ -71,7 +71,8 @@ pending_rounds:
   parsed_company: Gothenburg’s Arkeon
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: processed
+  startup_slug: arkeon
 - title: Leverage Shares by Themes Closing Capped Accelerated Single-Stock ETF Series
     Due to Lack of Assets
   url: https://www.globenewswire.com/news-release/2026/06/12/3311069/0/en/Leverage-Shares-by-Themes-Closing-Capped-Accelerated-Single-Stock-ETF-Series-Due-to-Lack-of-Assets.html

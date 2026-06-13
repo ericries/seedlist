@@ -29171,3 +29171,24 @@ queue:
   added: '2026-03-17'
   discovered_from: shashvat-nakrani
   source: Led WTF Gyms seed Jul 2024 alongside Shashvat Nakrani
+- name: Chalmers Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arkeon
+  source: Lead investor in Arkeon Seed (€594.2K, 2026-06-12)
+- name: Navigare Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arkeon
+  source: Co-investor in Arkeon Seed (€594.2K, 2026-06-12)
+- name: Almi Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arkeon
+  source: Co-investor in Arkeon Seed (€594.2K, 2026-06-12)
