@@ -29021,3 +29021,24 @@ queue:
   firm: Intercom
   discovered_from: karri-saarinen
   source: Co-angel with Karri Saarinen in Granola Series B
+- name: J&T Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: definic
+  source: Lead investor in Definic (Nordics rebrand) seed (2026-06-12)
+- name: Seed Starter ČS
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: definic
+  source: Participant in Definic seed (2026-06-12), Česká spořitelna seed program
+- name: Slovak Investment Holding
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: definic
+  source: Participant in Definic seed (2026-06-12)

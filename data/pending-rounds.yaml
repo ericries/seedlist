@@ -38,7 +38,9 @@ pending_rounds:
   parsed_company: Jeff Bezos’s Prometheus
   parsed_amount: $12B
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-06-12'
+  startup_slug: prometheus
 - title: Slovakia’s Nordics rebrands as Definic, raises €2.5 million to scale its
     vendor intelligence platform
   url: https://www.eu-startups.com/2026/06/slovakias-nordics-rebrands-as-definic-raises-e2-5-million-to-scale-its-vendor-intelligence-platform/
@@ -47,7 +49,9 @@ pending_rounds:
   parsed_company: Slovakia’s Nordics rebrands as Definic,
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-06-12'
+  startup_slug: definic
 - title: Germany’s NEURA Robotics raises up to €1.2 billion in Series C round to build
     Physical AI from Europe
   url: https://www.eu-startups.com/2026/06/germanys-neura-robotics-raises-up-to-e1-2-billion-in-series-c-round-to-build-physical-ai-from-europe/
@@ -56,7 +60,9 @@ pending_rounds:
   parsed_company: Germany’s NEURA Robotics
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed: '2026-06-12'
+  startup_slug: neura-robotics
 - title: Gothenburg’s Arkeon closes €594.2k Seed round to boost precision in quantum
     chip production
   url: https://www.eu-startups.com/2026/06/gothenburgs-arkeon-closes-e594-2k-seed-round-to-boost-precision-in-quantum-chip-production/
