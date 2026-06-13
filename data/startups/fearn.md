@@ -1,0 +1,59 @@
+---
+name: "Fearn"
+slug: fearn
+type: startup
+location: "San Francisco, California"
+founded: 2025
+status_company: active
+sector: [ai, legaltech, vertical-saas]
+stage_latest: "Seed"
+total_raised: "$5.5M"
+investors:
+  - slug: steve-jang
+    round: seed
+    year: 2026
+    date: 2026-06-10
+firms:
+  - slug: andreessen-horowitz
+    round: seed
+    year: 2026
+    date: 2026-06-10
+founders:
+  - name: "Han Kim"
+    role: "CEO & Co-Founder"
+  - name: "Angela Gao"
+    role: "CTO & Co-Founder"
+status: published
+last_researched: 2026-06-13
+---
+
+## About
+
+Fearn is an AI-native patent platform headquartered in San Francisco. The company uses custom IP-specific models to help inventors draft patents in minutes rather than hours, with the goal of reducing patent drafting costs by up to 96% and democratizing access to high-quality patent drafting [^1][^2]. Fearn was founded in 2025 by Han Kim (CEO) and Angela Gao (CTO). According to the company, its platform is used by engineers and scientists at companies including Unity, Dandelion Energy, Serova Bio, Capsule, Syncere, Sans Strings, Taya, and Cainex [^1].
+
+## Funding History
+
+| Date | Round | Amount | Lead | Co-investors |
+|---|---|---|---|---|
+| 2026-06-10 | Seed | $5.5M | Kindred Ventures | a16z speedrun, Designer Fund, Essence VC [^1][^2] |
+
+## What Investors Say
+
+> "Fearn is developing custom IP-specific models for deeptech, biotech, and hardware companies to quicken and accelerate their drafting and enforceability."
+
+— Steve Jang, Founder & Managing Partner, Kindred Ventures [^1]
+
+## What Founders Say
+
+> "Patents are how inventors turn ideas into lasting value, but in a first-to-file system, the priority date is everything."
+
+— Han Kim, CEO & Co-Founder, Fearn [^1]
+
+> "Fearn changed the game for us, turning our engineering explanations into high-quality drafts in minutes and a fraction of the usual cost."
+
+— Aaron Tan, CEO, Syncere (customer testimonial) [^1]
+
+## Sources
+
+[^1]: "Fearn Raises $5.5 Million Seed to End the Two-Tier Patent System," PRNewswire, June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/fearn-raises-5-5-million-seed-to-end-the-two-tier-patent-system-302796012.html
+[^2]: "Kindred Ventures - Crunchbase Company Profile & Funding," Crunchbase, accessed June 2026. https://www.crunchbase.com/organization/kindred-ventures-2

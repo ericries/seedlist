@@ -634,3 +634,15 @@ priority:
   reason: "RESOLVED 2026-06-03 — Flux $5M Seed (2026-06-10, Calibrate Ventures led; True Ventures and Glasswing Ventures participated as existing investors) VERIFIED via 3 independent primary sources: (1) PR Newswire press release [^32] (Boston-based engineering intelligence platform, founder/CEO Ted Julian), (2) The SaaS News [^33], (3) Pulse2 [^34]. Added Flux row to portfolio. Boston-based, not the Houston FluxWorks company also raising $5M same week (distinct entity)."
   added: 2026-06-13
   status: resolved
+- slug: true-ventures
+  type: firm
+  reason: "appeared in ChatSee.ai Seed $6.5M (2026-06-12, led the round)"
+  added: 2026-06-13
+- slug: steve-jang
+  type: investor
+  reason: "appeared in Fearn Seed $5.5M (2026-06-10, Kindred Ventures led; Steve Jang quoted)"
+  added: 2026-06-13
+- slug: andreessen-horowitz
+  type: firm
+  reason: "appeared in Fearn Seed $5.5M (2026-06-10, a16z speedrun participated)"
+  added: 2026-06-13
