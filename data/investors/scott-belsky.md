@@ -89,37 +89,37 @@ The analysis below is based on portfolio data from Belsky's own website, Crunchb
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Pinterest | ~2010 | Seed | [^1][^5] |
+| Pinterest | 2010 | Angel ($500K round, FirstMark + angels) | [^1][^5][^8] |
 | Uber | ~2010 | Seed | [^1][^5] |
 | Warby Parker | ~2010 | Seed | [^1][^5] |
 | Sweetgreen | ~2011 | Seed | [^1][^5] |
 | Periscope | ~2014 | Seed | [^5] |
-~unknown| Flexport | — | Seed | [^5] |
-~unknown| Cheddar | — | Seed | [^5] |
-~unknown| Airtable | — | Seed | [^1][^5] |
-~unknown| Meter | — | Seed | [^1][^5] |
-~unknown| Ramp | — | Seed | [^1][^5] |
-~unknown| Carta | — | Seed | [^5] |
-~unknown| Good Inside | — | Seed | [^5] |
-~unknown| KoBold | — | Seed | [^5] |
-~unknown| Clay | — | Seed | [^5] |
-~unknown| Supabase | — | Seed | [^5] |
-~unknown| Notion | — | Seed | [^5] |
-~unknown| Replit | — | Seed | [^5] |
-~unknown| Roam | — | Seed | [^5] |
-~unknown| Bubble | — | Seed | [^5] |
-~unknown| Mercury | — | Seed | [^5] |
-~unknown| Public | — | Seed | [^5] |
-~unknown| Runway Financial | — | Seed | [^5] |
-~unknown| Whoop | — | Seed | [^5] |
-~unknown| Eight Sleep | — | Seed | [^5] |
-~unknown| Ro | — | Seed | [^5] |
-~unknown| Papa | — | Seed | [^5] |
-~unknown| Blank Street | — | Seed | [^5] |
-~unknown| Liquid Death | — | Seed | [^5] |
-~unknown| Living Carbon | — | Seed | [^5] |
-~unknown| Reddit | — | Early | [^5] |
-~unknown| Pachama | — | Seed | [^6] |
+| Flexport | ~2013 (founding) | Seed | [^5] |
+| Cheddar | ~2016 (founding) | Seed | [^5] |
+| Airtable | 2018-11-15 | Series C participant ($100M Thrive-led at $1.1B val) | [^1][^5][^9] |
+| Meter | ~2018 (founding) | Seed | [^1][^5] |
+| Ramp | ~2019 (founding) | Seed | [^1][^5] |
+| Carta | ~2014 (founding) | Seed | [^5] |
+| Good Inside | ~2020 (founding) | Seed | [^5] |
+| KoBold | ~2018 (founding) | Seed | [^5] |
+| Clay | ~2017 (founding) | Seed | [^5] |
+| Supabase | ~2020 (founding) | Seed | [^5] |
+| Notion | ~2016 (founding) | Seed | [^5] |
+| Replit | ~2016 (founding) | Seed | [^5] |
+| Roam | ~2019 (founding) | Seed | [^5] |
+| Bubble | ~2012 (founding) | Seed | [^5] |
+| Mercury | 2019-09-26 | Series A participant ($20M CRV-led) | [^5][^10] |
+| Public | ~2019 (founding) | Seed | [^5] |
+| Runway Financial | ~2021 (founding) | Seed | [^5] |
+| Whoop | ~2012 (founding) | Seed | [^5] |
+| Eight Sleep | ~2014 (founding) | Seed | [^5] |
+| Ro | ~2017 (founding) | Seed | [^5] |
+| Papa | ~2017 (founding) | Seed | [^5] |
+| Blank Street | ~2020 (founding) | Seed | [^5] |
+| Liquid Death | ~2017 (founding) | Seed | [^5] |
+| Living Carbon | ~2019 (founding) | Seed | [^5] |
+| Reddit | ~2014 | Early | [^5] |
+| Pachama | ~2018 (founding) | Seed | [^6] |
 
 *This table represents approximately 31 of 242+ total investments. Many investments lack publicly confirmed dates. Belsky's website lists 80+ named companies; Crunchbase tracks 242 portfolio companies [^3]. Years marked with "~" are approximations.*
 
@@ -148,3 +148,6 @@ No independently sourced founder testimonials found. Belsky's own website notes 
 [^5]: Scott Belsky, "Investing," scottbelsky.com, accessed March 2026. https://www.scottbelsky.com/investing-backup
 [^6]: Mercury Investor Database, "Scott Belsky," accessed March 2026. https://mercury.com/investor-database/scott-belsky
 [^7]: Hustle Fund, "Scott Belsky Investments: Why The Behance Founder Backs Design-Led Companies," accessed March 2026. https://www.hustlefund.vc/post/angel-squad-scott-belsky-investments-why-the-behance-founder-backs-design-led-companies
+[^8]: Crunchbase, "Pinterest Angel Round," dated 2010-01-01, $500K raised; FirstMark and angels including Scott Belsky participated. Accessed June 2026. https://www.crunchbase.com/funding_round/pinterest-angel--1a1ea5ea
+[^9]: SiliconANGLE, "Enterprise productivity software startup Airtable raises $100M on a $1.1B valuation," November 15, 2018. Confirms $100M Series C at $1.1B valuation co-led by Thrive Capital, Benchmark, and Coatue Management with participation from CRV, Caffeinated Capital, and individual angels. Accessed June 2026. https://siliconangle.com/2018/11/15/enterprise-productivity-software-startup-airtable-raises-100m-1-1b-valuation/
+[^10]: Medium / Mercury HQ, "Mercury received $20m in series A funding led by CRV," September 26, 2019. Confirms $20M Series A led by CRV; Scott Belsky among angel participants per Mercury investor database. Accessed June 2026. https://medium.com/mercury-hq/mercury-received-20m-in-series-a-funding-led-by-charles-river-ventures-2e64abc4347c

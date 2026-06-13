@@ -70,7 +70,7 @@ Kushner has described Thrive's investment philosophy in several interviews:
 Based on analysis of 22 verified investments in the table below, from Thrive Capital's portfolio of hundreds of investments across its funds:
 
 **Stage focus:**
-- Thrive operates a barbell strategy: early-stage seed investments plus growth rounds in breakout companies [^3]. The firm's largest bets are growth-stage: $1B in OpenAI (2026), $1B in Stripe's Series I (2024), and $130M in OpenAI's first round (2022) [^5][^8][^9].
+- Thrive operates a barbell strategy: early-stage seed investments plus growth rounds in breakout companies [^3]. The firm's largest bets are growth-stage: $1B in OpenAI (2026), $1B contribution to Stripe's $6.5B Series I (2023-03-15) [^14], and $130M in OpenAI's first round (2022) [^5][^8][^9].
 
 **Sector concentration (of 22 verified investments):**
 - Enterprise software & developer tools: 5 companies (23%) — Airtable, GitHub, Benchling, Databricks, Anysphere/Cursor [^2][^3][^8]
@@ -104,10 +104,10 @@ Based on analysis of 22 verified investments in the table below, from Thrive Cap
 | Twitch | ~2013 | Early stage | [^3] |
 | GitHub | ~2014 | Multiple rounds (~10% stake) | [^2] |
 | Codecademy | ~2014 | Early stage | [^3] |
-| Robinhood | 2014 | Series C (2017) | [^3] |
+| Robinhood | 2017-04-26 | Series C ($110M, DST-led; Thrive new investor at $1.3B val) | [^3][^12][^13] |
 | Slack | ~2015 | Growth | [^3] |
-| Stripe | ~2016 | Multiple rounds ($1B in Series I, 2024) | [^8][^9] |
-| Airtable | 2018 | Series C ($100M, lead) | [^11] |
+| Stripe | 2023-03-15 | Series I ($6.5B, Thrive participated as existing investor at $50B val) | [^8][^9][^14] |
+| Airtable | 2018-11-15 | Series C ($100M, co-led with Benchmark + Coatue at $1.1B val) | [^11][^15] |
 | Benchling | ~2019 | Multiple rounds (~10% stake) | [^2] |
 | Skims | ~2020 | Growth | [^2] |
 | A24 | ~2021 | Growth | [^1] |
@@ -116,7 +116,7 @@ Based on analysis of 22 verified investments in the table below, from Thrive Cap
 | Ramp | ~2022 | Growth | [^8] |
 | Databricks | ~2022 | Growth | [^8] |
 | Anduril | ~2022 | Growth | [^8] |
-| Anysphere (Cursor) | 2024 | Series B ($105M at $2.5B, co-lead) | [^10] |
+| Anysphere (Cursor) | 2024-12 | Series B ($105M at $2.5B, co-led with a16z) | [^10][^16] |
 | Physical Intelligence | ~2024 | Growth | [^3] |
 | Isomorphic Labs | ~2024 | Growth | [^8] |
 
@@ -157,3 +157,8 @@ The Fortune profile noted that across more than 35 interviews, no one cited a ho
 [^9]: "Thrive Capital contributed $1 billion during Stripe's Series I financing round," search results, accessed March 2026. https://www.advisorperspectives.com/articles/2026/02/17/josh-kushners-thrive-capital-raises-10-billion
 [^10]: "Anysphere's 'vibe-coding' tool nabs $9.9B valuation," The Rundown AI, 2025, accessed March 2026. https://www.rundown.ai/articles/vibe-coding-startup-skyrockets-to-9-9b
 [^11]: Joshua Kushner investing profile, Signal by NFX, accessed March 2026. https://signal.nfx.com/investors/joshua-kushner
+[^12]: TechCrunch, "Robinhood stock-trading app confirms $110M raise at $1.3B valuation," April 26, 2017. Confirms DST Global led, with Thrive Capital and Greenoaks participating as new investors alongside existing NEA, Index, Ribbit. Accessed June 2026. https://techcrunch.com/2017/04/26/robincorn/
+[^13]: Index Ventures, "Robinhood Announces $110 Million in Funding," April 26, 2017. Accessed June 2026. https://www.indexventures.com/perspectives/robinhood-announces-110-million-in-funding/
+[^14]: Stripe newsroom, "Stripe announces new round of funding and plan to provide employee liquidity," March 15, 2023. Confirms $6.5B Series I at $50B valuation; Thrive Capital named as participating existing shareholder; Josh Kushner quoted ("first invested in Stripe in 2014, and why we are proud to deepen our partnership"). Accessed June 2026. https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity
+[^15]: SiliconANGLE, "Enterprise productivity software startup Airtable raises $100M on a $1.1B valuation," November 15, 2018. Confirms Series C lead trio of Thrive Capital, Benchmark, and Coatue Management. Accessed June 2026. https://siliconangle.com/2018/11/15/enterprise-productivity-software-startup-airtable-raises-100m-1-1b-valuation/
+[^16]: Analytics India Magazine, "Anysphere Raises $105M in Series B," December 2024. Confirms Series B at $2.5B valuation co-led by Thrive Capital and Andreessen Horowitz, with Benchmark participating. Accessed June 2026. https://analyticsindiamag.com/ai-news-updates/anysphere-raises-105m-in-series-b/

@@ -65,16 +65,16 @@ Based on 16 verified portfolio investments, the following patterns emerge. Note:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Instagram | Seed ($500K, co-invested with a16z) | 2010-03 | Photo sharing | Acquired (Facebook, $1B, 2012) | [^2][^6][^7] |
+| Instagram | Seed ($500K, co-invested with a16z) | 2010-03 | Photo sharing | Acquired (Facebook, $1B, 2012) | [^1][^2][^6] |
 | Twitter | Seed | ~2007 | Social media | IPO | [^2] |
-| Heroku | Seed | 2008 | Developer tools | Acquired (Salesforce) | [^2][^8][^9] |
+| Heroku | Seed + Series B participant ($10M Ignition-led, 2010-05-10) | 2008 | Developer tools | Acquired (Salesforce) | [^2][^7][^8][^12] |
 | ExactTarget | Seed | ~2008 | Marketing SaaS | Acquired (Salesforce) | [^2][^5] |
 | Crashlytics | Seed | ~2011 | Developer tools | Acquired (Twitter) | [^2] |
-| Weebly | Seed | 2007 | Website builder | Acquired (Square) | [^2][^8] |
-| TaskRabbit | Seed | 2009-10-30 | Marketplace | Acquired (IKEA) | [^2][^10] |
-| Stitch Fix | Seed ($750K) | 2011-04 | E-commerce | IPO (SFIX) | [^1][^11] |
-| PagerDuty | Seed | ~2010 | DevOps | IPO | [^1] |
-| SoFi | Series A | 2011 | Fintech | IPO | [^1][^12] |
+| Weebly | Seed | 2007 | Website builder | Acquired (Square) | [^2][^7] |
+| TaskRabbit | Seed | 2009-10-30 | Marketplace | Acquired (IKEA) | [^2][^9] |
+| Stitch Fix | Seed ($750K, led) | 2011-04 | E-commerce | IPO (SFIX) | [^1][^10] |
+| PagerDuty | Seed ($1.9M, participant) + Series A participant ($10.7M a16z-led, 2013-01-31) | 2010-09-29 | DevOps | IPO | [^1][^13][^14] |
+| SoFi | Series A | 2011 | Fintech | IPO | [^1][^11] |
 | Expensify | Seed | ~2009 | Fintech SaaS | IPO | [^1] |
 | WeWork | Seed | ~2011 | Co-working | IPO | [^1] |
 | Figure | Seed | ~2018 | Fintech | Active | [^1] |
@@ -106,9 +106,11 @@ No independently sourced founder testimonials found. Anderson's portfolio founde
 [^4]: VCSheet, "Steve Anderson (Baseline Ventures)," accessed March 2026. https://www.vcsheet.com/who/steve-anderson
 [^5]: Bold Business, "Bold Leader Spotlight: Steven Anderson, Founder Baseline Ventures," accessed March 2026. https://insights.boldbusiness.com/human-achievement/bold-leader-spotlight-steven-anderson-founder-baseline-ventures
 [^6]: TechCrunch, "Andreessen Horowitz Made $78M Off $250,000 Investment in Instagram," April 22, 2012. Confirms $500K seed round split between Baseline and a16z (March 2010). https://techcrunch.com/2012/04/22/andreessen-horowitz-made-78m-off-250000-investment-in-instagram/
-[^7]: Baseline Ventures founder page, confirms "seed investor in Instagram," accessed March 2026. https://www.baselinev.com/founder/
-[^8]: TechCrunch, "Founder Stories: Baseline Ventures, Steve Anderson: On Why He Invested In Heroku And Weebly," October 25, 2011. Confirms Anderson participated in Heroku's seed round in 2008 and led Weebly investment in 2007. https://techcrunch.com/2011/10/25/founder-stories-baseline-ventures-steve-anderson-on-why-he-invested-in-heroku-and-weebly/
-[^9]: Crunchbase, "Heroku Seed Round," dated 2008-01-01. Lists Baseline Ventures as participant. https://www.crunchbase.com/funding_round/heroku-seed--6f177c5b
-[^10]: Crunchbase, "Taskrabbit Seed Round," dated October 30, 2009. Lists Baseline Ventures as participant alongside First Round Capital and Floodgate. https://www.crunchbase.com/funding_round/taskrabbit-seed--10aa71ca
-[^11]: Poets & Quants, "The Harvard MBA Behind Stitch Fix," August 28, 2014. States "In April 2011, Lake received $750,000 from Baseline Venture's Steve Anderson." https://poetsandquants.com/2014/08/28/the-harvard-mba-behind-stitch-fix/
-[^12]: Tracxn, "SoFi Funding Rounds & Investors," accessed June 2026. Confirms Baseline Ventures' first investment in SoFi was Series A in 2011 (not seed). https://tracxn.com/d/companies/sofi/__cHGYhdzQEdiwCQlsGyE0NXlFwVHnVsZOtiGHlaf0NRc/funding-and-investors
+[^7]: TechCrunch, "Founder Stories: Baseline Ventures, Steve Anderson: On Why He Invested In Heroku And Weebly," October 25, 2011. Confirms Anderson participated in Heroku's seed round in 2008 and led Weebly investment in 2007. https://techcrunch.com/2011/10/25/founder-stories-baseline-ventures-steve-anderson-on-why-he-invested-in-heroku-and-weebly/
+[^8]: Crunchbase, "Heroku Seed Round," dated 2008-01-01. Lists Baseline Ventures as participant. https://www.crunchbase.com/funding_round/heroku-seed--6f177c5b
+[^9]: Crunchbase, "Taskrabbit Seed Round," dated October 30, 2009. Lists Baseline Ventures as participant alongside First Round Capital and Floodgate. https://www.crunchbase.com/funding_round/taskrabbit-seed--10aa71ca
+[^10]: Poets & Quants, "The Harvard MBA Behind Stitch Fix," August 28, 2014. States "In April 2011, Lake received $750,000 from Baseline Venture's Steve Anderson." https://poetsandquants.com/2014/08/28/the-harvard-mba-behind-stitch-fix/
+[^11]: Tracxn, "SoFi Funding Rounds & Investors," accessed June 2026. Confirms Baseline Ventures' first investment in SoFi was Series A in 2011 (not seed). https://tracxn.com/d/companies/sofi/__cHGYhdzQEdiwCQlsGyE0NXlFwVHnVsZOtiGHlaf0NRc/funding-and-investors
+[^12]: TechCrunch, "Former Microsoft Execs Lead $10 Million Round In Ruby On Rails Startup Heroku," May 10, 2010. Confirms Heroku Series B of $10M led by Ignition Partners with existing investors Redpoint Ventures, Baseline Ventures, and Harrison Metal Capital participating. Accessed June 2026. https://techcrunch.com/2010/05/10/former-microsoft-execs-lead-10-million-round-in-ruby-on-rails-startup-heroku/
+[^13]: Tracxn, "PagerDuty Funding Rounds & Investors," accessed June 2026. Confirms $1.9M Seed round dated 2010-09-29 with Baseline Ventures, Andreessen Horowitz, and Harrison Metal as participants. https://tracxn.com/d/companies/pagerduty/__rK9VqMbFGMED31mcW4ShoKwAG0ukqH24TRB_In2c2RQ
+[^14]: TechCrunch, "PagerDuty Raises $10.7M Round From Andreessen Horowitz For IT Alert Service Modeled On AWS System," January 31, 2013. Confirms $10.7M Series A led by Andreessen Horowitz with existing seed investors Harrison Metal, Baseline Ventures and Ignition Partners participating. Accessed June 2026. https://techcrunch.com/2013/01/31/pagerduty-raises-10-2m-round-from-andreessen-horowitz-for-it-alert-service-modeled-on-aws-system/
