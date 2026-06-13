@@ -113,7 +113,7 @@ The following table represents 25 verified investments. This is a partial sample
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Coinbase | 2012 | Seed | [^5][^10] |
+| Coinbase | 2012-09-12 | Seed | [^5][^10][^24] |
 | Instacart | 2012 | Seed | [^6][^7] |
 | Cruise Automation | ~2013 | Seed | [^6][^7] |
 | Opendoor | ~2013 | Seed | [^6][^7] |
@@ -123,7 +123,7 @@ The following table represents 25 verified investments. This is a partial sample
 | Zenefits | ~2013 | Seed | [^6][^14] |
 | Reddit | ~2014 | Early | [^6] |
 | Goat Group | ~2016 | Seed | [^6] |
-| Rippling | 2017 | Seed | [^13][^13] |
+| Rippling | 2017-03 | Seed | [^13][^25] |
 | Flock Safety | 2017 | Seed | [^15] |
 | Athelas | ~2017 | Seed | [^6] |
 | Ro | ~2017 | Seed | [^6] |
@@ -240,3 +240,7 @@ The following table represents 25 verified investments. This is a partial sample
 [^22]: NewLimit blog, "NewLimit raises $130 million Series B led by Kleiner Perkins alongside NFDG, Khosla Ventures, Human Capital and others," May 6, 2025 (listing Garry Tan among angel investors in Series B, and among the Series A "angels who have supported the company over the first two years"). https://blog.newlimit.com/p/newlimit-raises-130-million-series
 
 [^23]: NewLimit blog, "NewLimit secures $40 million in venture funding from Dimension Capital, Founders Fund, Kleiner Perkins and other investors" (Series A announcement naming Garry Tan among participating angel investors alongside Eric Schmidt, Elad Gil, and Fred Ehrsam), May 2023. https://blog.newlimit.com/p/newlimit-series-a
+
+[^24]: Crunchbase, "Seed Round - Coinbase - 2012-09-12," accessed June 2026. https://www.crunchbase.com/funding_round/coinbase-seed--59a33b3a
+
+[^25]: TheVCNotebook, "Rippling: The Compounding Machine" (notes Rippling's $7M seed round announced in March 2017 led by Initialized Capital and Hydrazine), accessed June 2026. https://medium.com/@vcnewsfr/rippling-the-compounding-machine-de5c68d4b3b1

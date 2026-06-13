@@ -250,10 +250,10 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | 0xbow | 2025 | Seed | [^17] |
 | Project Eleven | 2026 | Series A | [^17] |
 | ZODL | 2026 | Seed | [^17] |
-| Perplexity | ~2024 | Series B | [^25] |
-| Benchling | ~2013 | Seed | [^2][^3] |
-| OpenGov | ~2013 | Seed | [^2][^6] |
-| Omada Health | ~2013 | Seed | [^2][^6] |
+| Perplexity | 2024-01-04 | Series B | [^25][^26] |
+| Benchling | 2014-02-20 | Seed | [^2][^3][^27] |
+| OpenGov | 2012 | Seed | [^2][^6][^28] |
+| Omada Health | 2013-03-21 | Series A | [^2][^6][^29] |
 
 *Note: This table represents 136 of approximately 297 reported angel investments [^18]. The crypto-focused investments (133 entries) are sourced from Crypto-Fundraising.info with verified dates. Non-crypto investments from his personal website lack specific investment dates. Only 3 additional non-crypto investments with approximate dates are included; the full non-crypto portfolio (Anduril, Replit, Superhuman, Stedi, DigitalOcean, Varda, CoinTracker, Luma, Orchid Health, Paradigm, Polychain, Prospera, Nucleus Genomics, etc.) is confirmed on his personal website [^2] but specific investment years could not be independently verified.*
 
@@ -329,3 +329,11 @@ No independently sourced founder testimonials found. Despite dedicated searches 
 [^24]: "Catena Labs raised $18M Seed Funding on May 20, 2025." CypherHunter. Accessed March 2026. https://www.cypherhunter.com/en/e/catena-labs-raised-funding-2025-05-20/
 
 [^25]: "Perplexity raises Series B funding round." Perplexity Blog. Accessed March 2026. https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round
+
+[^26]: "Perplexity raises $73M Series B off reported $520M valuation for AI-powered search engine" (Series B announced January 4, 2024, led by IVP with Balaji Srinivasan among participants). Cointelegraph, January 2024. Accessed June 2026. https://cointelegraph.com/news/perplexity-artificial-intelligence-raises-73-m-series-b-off-520-m-valuation-ai-powered-search-engine
+
+[^27]: Crunchbase, Benchling Seed Round (February 20, 2014). Accessed June 2026. https://www.crunchbase.com/funding_round/benchling-seed--15be63d4
+
+[^28]: "OpenGov: The Startup Analyzing $50B in Spending" (notes OpenGov's $3M seed round in 2012 followed by 2014 Series B led by a16z). a16z announcement. Accessed June 2026. https://a16z.com/announcement/opengov-the-startup-analyzing-50b-in-spending/
+
+[^29]: PitchBook, "Omada Health Series A" (Omada raised $4.7M Series A led by U.S. Venture Partners on March 21, 2013; Andreessen Horowitz invested in the April 2014 Series B). Accessed June 2026. https://pitchbook.com/newsletter/andreessen-horowitz-leads-23m-series-b-for-omada-health
