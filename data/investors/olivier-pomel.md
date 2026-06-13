@@ -3,8 +3,8 @@ check_size: Undisclosed
 firm: datadog
 last_researched: 2026-05-05
 last_verified_investment:
-  company: RadixArk
-  date: 2026-05-05
+  company: Niteshift
+  date: 2026-06-10
   round: Seed
 location: New York, NY
 name: Olivier Pomel
@@ -76,6 +76,7 @@ This table includes 21 verified investments. Sources indicate Pomel may have mad
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Niteshift | Seed ($7M, angel) | 2026-06-10 | Developer tools / AI coding | Active | [^13][^14] |
 | RadixArk | Seed (angel) | 2026-05-05 | AI Infrastructure | Active | [^11][^12] |
 | Entire | Seed | 2026 | Automation / workflow | Active | [^4] |
 | Gradium | Seed | 2025 | Infrastructure | Active | [^4] |
@@ -135,3 +136,7 @@ No independently sourced founder testimonials found for Pomel's angel investing 
 [^11]: BusinessWire (via Yahoo Finance), "RadixArk Launches with $100 Million in Seed Funding Led by Accel to Grow SGLang and Democratize Frontier AI Infrastructure," May 5, 2026, accessed May 2026. https://finance.yahoo.com/sectors/technology/articles/radixark-launches-100-million-seed-130000663.html — Lists Olivier Pomel (Datadog Co-Founder) among angel investors in $100M seed round.
 
 [^12]: BusinessWire, "RadixArk Launches with $100 Million in Seed Funding Led by Accel to Grow SGLang and Democratize Frontier AI Infrastructure," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505077157/en/RadixArk-Launches-with-$100-Million-in-Seed-Funding-Led-by-Accel-to-Grow-SGLang-and-Democratize-Frontier-AI-Infrastructure
+
+[^13]: TechCrunch, "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in," June 10, 2026, accessed June 2026. https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/ — names Olivier Pomel among angel backers in the $7M seed.
+
+[^14]: PressRelease.com, "Niteshift Raises $7 Million Seed Round to Power the Cloud Platform for AI Coding Agents," June 10, 2026, accessed June 2026. https://www.pressrelease.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding — official announcement lists Olivier Pomel and Alexis Le-Quoc of Datadog among angel backers.
