@@ -8423,7 +8423,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 19,
+      "size": 20,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8516,6 +8516,10 @@
         {
           "slug": "immad-akhund",
           "name": "Immad Akhund"
+        },
+        {
+          "slug": "karim-atiyeh",
+          "name": "Karim Atiyeh"
         }
       ]
     },
@@ -9194,7 +9198,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 28,
+      "size": 29,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9329,6 +9333,10 @@
         {
           "slug": "louis-jonckheere",
           "name": "Louis Jonckheere"
+        },
+        {
+          "slug": "pieterjan-bouten",
+          "name": "Pieterjan Bouten"
         }
       ]
     },
@@ -9391,7 +9399,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 95,
+      "size": 97,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9825,6 +9833,14 @@
         {
           "slug": "louis-jonckheere",
           "name": "Louis Jonckheere"
+        },
+        {
+          "slug": "pieterjan-bouten",
+          "name": "Pieterjan Bouten"
+        },
+        {
+          "slug": "karim-atiyeh",
+          "name": "Karim Atiyeh"
         }
       ]
     },
@@ -10571,7 +10587,7 @@
       "name": "The Dev Tools Obsessives",
       "tagline": "They back the picks and shovels every developer reaches for. Open source, infrastructure, and the building blocks of modern software.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "dalton-caldwell",
@@ -10669,6 +10685,10 @@
         {
           "slug": "karri-saarinen",
           "name": "Karri Saarinen"
+        },
+        {
+          "slug": "karim-atiyeh",
+          "name": "Karim Atiyeh"
         }
       ]
     },
