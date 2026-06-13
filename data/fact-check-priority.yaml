@@ -66,6 +66,9 @@ priority:
   type: firm
   reason: "participated in Current Series E (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-13
+  resolution_note: "Verified Tiger Global participation in Current $80M Series E (2026-06-11, led by Springcoast Partners at $1.5B valuation) via 3 primary citations already in Current startup profile: (1) PR Newswire press release [^37], (2) Paul Hastings LLP advisor announcement [^38], (3) AlleyWatch Startup Daily Funding Report [^39]. Added Current row to tiger-global-management.md portfolio table with full citations."
 - slug: general-catalyst
   type: firm
   reason: "participated in Current Series E (2026-06-11)"

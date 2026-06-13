@@ -88,6 +88,7 @@ Tiger Global's portfolio reveals an investor that operates at massive global sca
 | Hologram | Series B ($65M) | 2021-08-10 | IoT | Active | [^15] |
 | Rogo | Series B ($50M) | 2025-04-30 | AI | Active | [^4][^33] |
 | Sierra | Series E (co-led with GV) | 2026-05-04 | AI / Customer Service | Private | [^34][^35][^36] |
+| Current | Series E ($80M, led by Springcoast Partners) | 2026-06-11 | Fintech / Consumer Banking | Active | [^37][^38][^39] |
 
 *This table represents a small fraction of Tiger Global's approximately 791 portfolio companies [^4]. During 2020-2021 alone, the firm backed roughly 315 startups [^8].*
 
@@ -145,3 +146,6 @@ Beerud Sheth, founder of Gupshup, noted that while Tiger's partners don't demand
 [^34]: TechCrunch, "Sierra raises $950M as the race to own enterprise AI gets serious," May 4, 2026. https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/ — $950M Series E at $15.8B post-money valuation, co-led by Tiger Global and GV with participation from Benchmark, Sequoia Capital, and Greenoaks Capital.
 [^35]: Yahoo Finance, "Sierra raises $950M at $15.8B valuation, led by Tiger and GV," May 4, 2026. https://finance.yahoo.com/markets/stocks/articles/sierra-raises-950m-15-8b-154125641.html
 [^36]: CNBC via Techmeme, "Bret Taylor's Sierra raises nearly $1 billion months after last capital push," May 4, 2026. https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html
+[^37]: PR Newswire, "Current Secures $80 Million Series E at $1.5 Billion Valuation Following Third Consecutive Year of 70%+ Growth," June 11, 2026. https://www.prnewswire.com/news-releases/current-secures-80-million-series-e-at-1-5-billion-valuation-following-third-consecutive-year-of-70-growth-302797260.html
+[^38]: Paul Hastings LLP, "Paul Hastings Advises Current on Its Series E Financing Led by Springcoast Partners," June 2026. https://www.paulhastings.com/news/paul-hastings-advises-current-on-its-series-e-financing-led-by-springcoast-partners
+[^39]: AlleyWatch, "Startup Daily Funding Report — Current Series E," June 11, 2026. https://www.alleywatch.com/2026/06/alleywatch-startup-daily-funding-report-current-series-e/
