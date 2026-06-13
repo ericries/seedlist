@@ -87,50 +87,50 @@ firms:
 - round: Growth
   slug: iconiq-growth
   year: 2025
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: iconiq-growth
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: insight-partners
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: founders-fund
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: lightspeed-venture-partners
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: d1-capital-partners
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: general-catalyst
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: thrive-capital
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: coatue-management
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: khosla-ventures
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: boxgroup
   year: 2026
-  date: 2026-06-04
-- round: Series F
+- date: 2026-06-04
+  round: Series F
   slug: 8vc
   year: 2026
-  date: 2026-06-04
 - round: '2021'
   slug: contrary
   year: 2021
@@ -138,6 +138,9 @@ firms:
   slug: conversion-capital
   year: 2019
 - slug: 8vc
+- round: Seed
+  slug: a24
+  year: 2019
 founded: 2019
 founders:
 - name: Eric Glyman
@@ -227,6 +230,9 @@ investors:
   year: 2019
 - round: Seed
   slug: christian-lawless
+  year: 2019
+- round: Seed
+  slug: scott-belsky
   year: 2019
 last_researched: 2026-03-20
 location: New York, NY

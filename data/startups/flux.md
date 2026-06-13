@@ -1,24 +1,34 @@
 ---
-name: "Flux"
-slug: flux
-type: startup
-website: "https://askflux.com"
-location: "Boston, Massachusetts"
-status_company: active
-sector: [developer-tools, ai, engineering-intelligence, devops]
-stage_latest: "Seed"
-total_raised: "$5M"
-investors: []
 firms:
-  - slug: true-ventures
-    round: seed
-    year: 2026
-    date: 2026-06-10
+- date: 2026-06-10
+  round: seed
+  slug: true-ventures
+  year: 2026
+- round: Seed
+  slug: amplify-partners
+  year: 2018
 founders:
-  - name: "Ted Julian"
-    role: "CEO & Founder"
-status: published
+- name: Ted Julian
+  role: CEO & Founder
+investors:
+- round: Seed
+  slug: sunil-dhaliwal
+  year: 2018
 last_researched: 2026-06-13
+location: Boston, Massachusetts
+name: Flux
+sector:
+- developer-tools
+- ai
+- engineering-intelligence
+- devops
+slug: flux
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5M
+type: startup
+website: https://askflux.com
 ---
 
 ## About

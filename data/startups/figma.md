@@ -9,10 +9,10 @@ firms:
 - round: Series C
   slug: coatue-management
   year: 2019
-- round: Secondary / Tender (participated)
+- date: 2024-07-17
+  round: Secondary / Tender (participated)
   slug: coatue-management
   year: 2024
-  date: 2024-07-17
 - round: Series C ($40M, led)
   slug: sequoia-capital
   year: 2019
@@ -66,6 +66,9 @@ firms:
   year: 2013
 - slug: founders-fund
 - slug: general-catalyst
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2012
 founded: 2012
 founders:
 - name: Dylan Field
@@ -139,6 +142,9 @@ investors:
 - round: Seed
   slug: divesh-makan
   year: 2013
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2012
 last_researched: 2026-05-04
 location: San Francisco, CA
 name: Figma

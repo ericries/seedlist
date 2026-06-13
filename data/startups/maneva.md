@@ -1,27 +1,35 @@
 ---
-name: "Maneva"
-slug: maneva
-type: startup
-website: "https://www.maneva.ai"
-location: "Palo Alto, CA"
+firms:
+- round: '2025-03-07'
+  slug: marathon-management-partners
+  year: 2025
 founded: 2021
-status_company: active
-sector: [ai, manufacturing, computer-vision, industrial-ai, physical-ai]
-stage_latest: "Series A"
-total_raised: "$38.4M"
-investors:
-  - slug: gokul-rajaram
-    round: series-a
-    year: 2026
-    date: 2026-06-10
-firms: []
 founders:
-  - name: "Rae Jeong"
-    role: "CEO & Co-Founder"
-  - name: "Kelvin Chan"
-    role: "CTO & Co-Founder"
-status: published
+- name: Rae Jeong
+  role: CEO & Co-Founder
+- name: Kelvin Chan
+  role: CTO & Co-Founder
+investors:
+- date: 2026-06-10
+  round: series-a
+  slug: gokul-rajaram
+  year: 2026
 last_researched: 2026-06-13
+location: Palo Alto, CA
+name: Maneva
+sector:
+- ai
+- manufacturing
+- computer-vision
+- industrial-ai
+- physical-ai
+slug: maneva
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $38.4M
+type: startup
+website: https://www.maneva.ai
 ---
 
 ## About

@@ -60,6 +60,9 @@ firms:
 - round: '2021'
   slug: bedrock
   year: 2021
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2015
 founded: 2015
 founders:
 - name: Guillermo Rauch
@@ -102,6 +105,9 @@ investors:
 - round: Series A
   slug: reid-christian
   year: 2020
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2015
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Vercel

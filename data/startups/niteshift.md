@@ -1,45 +1,53 @@
 ---
-name: "Niteshift"
-slug: niteshift
-type: startup
-website: "https://niteshift.com"
-location: "New York, NY"
-status_company: active
-sector: [ai, developer-tools, infrastructure, cloud]
-stage_latest: "Seed"
-total_raised: "$7M"
-investors:
-  - slug: greylock
-    round: seed
-    year: 2026
-    date: 2026-06-10
-  - slug: jerry-chen
-    round: seed
-    year: 2026
-    date: 2026-06-10
-  - slug: boxgroup
-    round: seed
-    year: 2026
-    date: 2026-06-10
-  - slug: sv-angel
-    round: seed
-    year: 2026
-    date: 2026-06-10
-  - slug: reid-hoffman
-    round: seed
-    year: 2026
-    date: 2026-06-10
-  - slug: olivier-pomel
-    round: seed
-    year: 2026
-    date: 2026-06-10
+firms:
+- round: '2026-06-10'
+  slug: greylock
+  year: 2026
 founders:
-  - name: "Sajid Mehmood"
-    role: "Co-Founder & CEO"
-  - name: "Conor Branagan"
-    role: "Co-Founder"
-status: published
+- name: Sajid Mehmood
+  role: Co-Founder & CEO
+- name: Conor Branagan
+  role: Co-Founder
+investors:
+- date: 2026-06-10
+  round: seed
+  slug: greylock
+  year: 2026
+- date: 2026-06-10
+  round: seed
+  slug: jerry-chen
+  year: 2026
+- date: 2026-06-10
+  round: seed
+  slug: boxgroup
+  year: 2026
+- date: 2026-06-10
+  round: seed
+  slug: sv-angel
+  year: 2026
+- date: 2026-06-10
+  round: seed
+  slug: reid-hoffman
+  year: 2026
+- date: 2026-06-10
+  round: seed
+  slug: olivier-pomel
+  year: 2026
 last_researched: 2026-06-12
+location: New York, NY
+name: Niteshift
+sector:
+- ai
+- developer-tools
+- infrastructure
+- cloud
+slug: niteshift
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $7M
+type: startup
+website: https://niteshift.com
 ---
 
 ## About

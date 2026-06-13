@@ -42,6 +42,9 @@ firms:
 - round: Early Stage
   slug: hustle-fund
   year: 2018
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2014
 founded: 2014
 founders:
 - name: Blake Scholl
@@ -68,6 +71,9 @@ investors:
 - round: Early Stage
   slug: elizabeth-yin
   year: 2018
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2014
 last_researched: 2026-03-24
 location: Denver, CO
 name: Boom Supersonic

@@ -22333,7 +22333,7 @@ queue:
 - name: Shashvat Nakrani
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: BharatPe
   discovered_from: ashneer-grover
@@ -28568,7 +28568,7 @@ queue:
 - name: Pieterjan Bouten
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Showpad
   discovered_from: willem-delbare
@@ -29049,3 +29049,125 @@ queue:
   added: '2026-03-17'
   discovered_from: mimir
   source: Lead investor in Mimir pre-seed (2026-06-12)
+- name: Entourage
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pieterjan-bouten
+  source: Pieterjan Bouten founder/GP; $30M Ghent B2B SaaS venture studio + fund launched
+    March 2024
+- name: Peter Minne
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Showpad (co-founder); angel
+  discovered_from: pieterjan-bouten
+  source: Showpad co-founder; LP/angel in Entourage; Ghent operator-angel cluster
+- name: Maarten Mortier
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Entourage
+  discovered_from: pieterjan-bouten
+  source: Co-founder Entourage Studio with Pieterjan Bouten
+- name: Evert Beeckman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Entourage
+  discovered_from: pieterjan-bouten
+  source: Partner, Entourage Capital
+- name: Stijn Christiaens
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Collibra (co-founder); angel
+  discovered_from: pieterjan-bouten
+  source: Entourage LP; Belgian SaaS operator-angel
+- name: Jan Hollez
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Deliverect (co-founder); angel
+  discovered_from: pieterjan-bouten
+  source: Entourage LP; Ghent operator-angel
+- name: Zhong Xu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Deliverect (co-founder); angel
+  discovered_from: pieterjan-bouten
+  source: Entourage LP; Ghent operator-angel
+- name: Tim Vandecasteele
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Silverfin (co-founder); angel
+  discovered_from: pieterjan-bouten
+  source: Entourage LP; Ghent operator-angel
+- name: NineID
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pieterjan-bouten
+  source: Entourage Capital portfolio; access control/contractor management
+- name: Tekst
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pieterjan-bouten
+  source: Entourage Studio-built; AI enterprise support automation; Series A 2026
+    ($14M)
+- name: Introw
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pieterjan-bouten
+  source: Pieterjan Bouten angel investment; Belgian AI partner sales; $3M seed 2025
+- name: Dezerv
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shashvat-nakrani
+  source: Shashvat Nakrani angel portfolio; Indian wealth management fintech
+- name: WTF Gyms
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shashvat-nakrani
+  source: Shashvat Nakrani angel seed Jul 2024; led by Dholakia Ventures; Indian fitness
+    tech
+- name: NewsReach
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shashvat-nakrani
+  source: Shashvat Nakrani angel portfolio; AI media
+- name: Anar
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shashvat-nakrani
+  source: Shashvat Nakrani angel portfolio; Indian B2B commerce
+- name: Dholakia Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shashvat-nakrani
+  source: Led WTF Gyms seed Jul 2024 alongside Shashvat Nakrani

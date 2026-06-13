@@ -47,6 +47,12 @@ firms:
 - round: Series C ($300M round)
   slug: safegraph
   year: 2025
+- round: Series A participant ($20M CRV-led)
+  slug: a24
+  year: 2019
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2017
 founded: 2017
 founders: []
 investors:
@@ -95,6 +101,12 @@ investors:
 - round: Series D
   slug: alex-rampell
   year: 2026
+- round: Series A participant ($20M CRV-led)
+  slug: scott-belsky
+  year: 2019
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2017
 last_researched: 2026-05-21
 location: San Francisco, CA
 name: Mercury

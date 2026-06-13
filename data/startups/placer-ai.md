@@ -54,6 +54,9 @@ firms:
 - round: Seed
   slug: recursive-ventures
   year: 2018
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2016
 founded: 2018
 founders:
 - name: Noam Ben-Zvi

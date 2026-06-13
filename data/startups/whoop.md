@@ -12,6 +12,9 @@ firms:
 - round: Series C
   slug: independent
   year: 2018
+- round: Seed
+  slug: a24
+  year: 2012
 founded: 2012
 founders:
 - name: Will Ahmed
@@ -32,6 +35,9 @@ investors:
 - round: Seed
   slug: craig-shapiro
   year: 2013
+- round: Seed
+  slug: scott-belsky
+  year: 2012
 last_researched: 2026-04-03
 location: Boston, Massachusetts
 name: WHOOP

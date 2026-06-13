@@ -42,6 +42,9 @@ firms:
 - round: ~2020
   slug: marathon-management-partners
   year: 2020
+- round: Seed
+  slug: a24
+  year: 2020
 founded: 2020
 founders:
 - name: Paul Copplestone
@@ -78,6 +81,9 @@ investors:
   year: 2021
 - round: ~2020
   slug: gokul-rajaram
+  year: 2020
+- round: Seed
+  slug: scott-belsky
   year: 2020
 last_researched: 2026-06-03
 location: San Francisco, CA

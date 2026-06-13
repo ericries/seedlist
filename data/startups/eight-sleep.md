@@ -1,21 +1,4 @@
 ---
-name: Eight Sleep
-slug: eight-sleep
-type: startup
-website: https://www.eightsleep.com/
-location: New York, NY
-founded: 2014
-status_company: active
-sector:
-- consumer
-- consumer-health
-- sleep-tech
-- ai
-- digital-health
-- hardware
-- iot
-stage_latest: Strategic
-total_raised: $310M+
 firms:
 - date: 2026-03-04
   round: strategic
@@ -46,6 +29,17 @@ firms:
 - round: ~2021
   slug: craft-ventures
   year: 2021
+- round: Seed
+  slug: a24
+  year: 2014
+founded: 2014
+founders:
+- name: Matteo Franceschetti
+  role: Co-Founder & CEO
+- name: Massimo Andreasi Bassi
+  role: Co-Founder & CTO
+- name: Alex Zatarain
+  role: Co-Founder & VP of Brand and Marketing
 investors:
 - round: Strategic round
   slug: kyle-vogt
@@ -71,15 +65,27 @@ investors:
 - round: ~2021
   slug: david-sacks
   year: 2021
-founders:
-- name: Matteo Franceschetti
-  role: Co-Founder & CEO
-- name: Massimo Andreasi Bassi
-  role: Co-Founder & CTO
-- name: Alex Zatarain
-  role: Co-Founder & VP of Brand and Marketing
+- round: Seed
+  slug: scott-belsky
+  year: 2014
 last_researched: 2026-05-24
+location: New York, NY
+name: Eight Sleep
+sector:
+- consumer
+- consumer-health
+- sleep-tech
+- ai
+- digital-health
+- hardware
+- iot
+slug: eight-sleep
+stage_latest: Strategic
 status: published
+status_company: active
+total_raised: $310M+
+type: startup
+website: https://www.eightsleep.com/
 ---
 
 ## About

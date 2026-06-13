@@ -36,6 +36,9 @@ firms:
 - round: ~2017
   slug: standard-capital
   year: 2017
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2017
 founded: 2017
 founders:
 - name: David Hsu
@@ -77,6 +80,9 @@ investors:
 - round: Early
   slug: justin-kan
   year: 2018
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2017
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Retool

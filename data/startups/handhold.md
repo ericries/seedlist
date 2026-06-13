@@ -1,32 +1,39 @@
 ---
-name: Handhold
-slug: handhold
-type: startup
-website: "https://handhold.io"
-location: Estonia
+firms:
+- round: seed
+  slug: entourage-capital
+  year: 2026
+- round: seed
+  slug: inovia-capital
+  year: 2026
+- round: seed
+  slug: e2vc
+  year: 2026
+- round: Seed
+  slug: entourage
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Georg Vooglaid
+  role: Co-Founder & CEO
+investors:
+- round: Seed
+  slug: pieterjan-bouten
+  year: 2026
+last_researched: 2026-04-08
+location: Estonia
+name: Handhold
 sector:
 - AI
 - sales-automation
 - SaaS
+slug: handhold
 stage_latest: Seed
-total_raised: "€3M"
-firms:
-- slug: entourage-capital
-  round: seed
-  year: 2026
-- slug: inovia-capital
-  round: seed
-  year: 2026
-- slug: e2vc
-  round: seed
-  year: 2026
-founders:
-- name: Georg Vooglaid
-  role: Co-Founder & CEO
 status: published
-last_researched: 2026-04-08
+status_company: active
+total_raised: €3M
+type: startup
+website: https://handhold.io
 ---
 
 ## About

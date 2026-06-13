@@ -1,27 +1,37 @@
 ---
-name: "Genspark"
-slug: genspark
-type: startup
-website: "https://www.genspark.ai"
-location: "Palo Alto, California"
+firms:
+- round: Early stage
+  slug: emergence-capital
+  year: 2024
 founded: 2023
-status_company: active
-sector: [ai, enterprise-software, agentic-ai, productivity]
-stage_latest: "Series B Extension"
-total_raised: "$645M+"
-investors: []
-firms: []
 founders:
-  - name: "Eric Jing"
-    role: "Co-Founder & CEO"
-  - name: "Wen Sang"
-    role: "Co-Founder & COO"
-  - name: "Jiakai Justin Liu"
-    role: "Co-Founder"
-  - name: "Kay Zhu"
-    role: "Co-Founder"
-status: published
+- name: Eric Jing
+  role: Co-Founder & CEO
+- name: Wen Sang
+  role: Co-Founder & COO
+- name: Jiakai Justin Liu
+  role: Co-Founder
+- name: Kay Zhu
+  role: Co-Founder
+investors:
+- round: Early stage
+  slug: gordon-ritter
+  year: 2024
 last_researched: 2026-06-13
+location: Palo Alto, California
+name: Genspark
+sector:
+- ai
+- enterprise-software
+- agentic-ai
+- productivity
+slug: genspark
+stage_latest: Series B Extension
+status: published
+status_company: active
+total_raised: $645M+
+type: startup
+website: https://www.genspark.ai
 ---
 
 ## About

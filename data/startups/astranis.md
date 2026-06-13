@@ -19,6 +19,9 @@ firms:
 - round: Series C
   slug: metaplanet
   year: 2021
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2015
 founded: 2015
 founders:
 - name: John Gedmark
@@ -45,6 +48,9 @@ investors:
 - round: Series C
   slug: jaan-tallinn
   year: 2021
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2015
 last_researched: 2026-05-07
 location: San Francisco, CA
 name: Astranis

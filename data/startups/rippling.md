@@ -55,6 +55,9 @@ firms:
   slug: bedrock-capital
   year: 2022
 - slug: initialized-capital
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2016
 founded: 2016
 founders:
 - name: Parker Conrad
@@ -113,6 +116,9 @@ investors:
 - round: ~2017 (founding year)
   slug: immad-akhund
   year: 2017
+- round: Early/Seed
+  slug: josh-buckley
+  year: 2016
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

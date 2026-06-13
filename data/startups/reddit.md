@@ -72,6 +72,9 @@ firms:
 - round: Seed
   slug: collaborative-fund
   year: 2011
+- round: Early
+  slug: a24
+  year: 2014
 founded: 2005
 founders:
 - name: Steve Huffman
@@ -144,6 +147,9 @@ investors:
 - round: Seed
   slug: craig-shapiro
   year: 2011
+- round: Early
+  slug: scott-belsky
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

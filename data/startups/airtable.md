@@ -45,6 +45,9 @@ firms:
 - slug: d1-capital-partners
 - slug: dcvc
 - slug: iconiq-growth
+- round: Series C participant ($100M Thrive-led at $1.1B val)
+  slug: a24
+  year: 2018
 founded: 2012
 founders:
 - name: Howie Liu
@@ -105,6 +108,9 @@ investors:
 - round: ~2013 (founding year)
   slug: immad-akhund
   year: 2013
+- round: Series C participant ($100M Thrive-led at $1.1B val)
+  slug: scott-belsky
+  year: 2018
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

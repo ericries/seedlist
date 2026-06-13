@@ -93,6 +93,9 @@ firms:
 - round: Angel
   slug: long-journey-ventures
   year: 2014
+- round: Seed
+  slug: a24
+  year: 2013
 founded: 2013
 founders:
 - name: Ryan Petersen
@@ -167,6 +170,9 @@ investors:
 - round: Seed
   slug: leif-danielsen
   year: 2015
+- round: Seed
+  slug: scott-belsky
+  year: 2013
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Flexport

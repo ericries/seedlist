@@ -48,6 +48,9 @@ firms:
 - round: Early Stage
   slug: long-journey-ventures
   year: 2020
+- round: Seed
+  slug: a24
+  year: 2016
 founded: 2013
 founders:
 - name: Ivan Zhao
@@ -103,6 +106,9 @@ investors:
 - round: Early Stage
   slug: cyan-banister
   year: 2020
+- round: Seed
+  slug: scott-belsky
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Notion

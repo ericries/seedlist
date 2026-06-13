@@ -42,6 +42,9 @@ firms:
 - round: Early
   slug: gpx
   year: 2018
+- round: Early/Seed
+  slug: buckley-ventures
+  year: 2017
 founded: 2017
 founders:
 - name: Qasar Younis
@@ -96,6 +99,9 @@ investors:
   year: 2025
 - round: ~2017 (founding year)
   slug: immad-akhund
+  year: 2017
+- round: Early/Seed
+  slug: josh-buckley
   year: 2017
 last_researched: 2026-03-17
 location: Mountain View, CA
