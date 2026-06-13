@@ -35,7 +35,7 @@ Fearn is an AI-native patent platform headquartered in San Francisco. The compan
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-10 | Seed | $5.5M | Kindred Ventures | a16z speedrun, Designer Fund, Essence VC [^1][^2] |
+| 2026-06-10 | Seed | $5.5M | Kindred Ventures | a16z speedrun, Designer Fund, Essence VC [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -56,4 +56,5 @@ Fearn is an AI-native patent platform headquartered in San Francisco. The compan
 ## Sources
 
 [^1]: "Fearn Raises $5.5 Million Seed to End the Two-Tier Patent System," PRNewswire, June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/fearn-raises-5-5-million-seed-to-end-the-two-tier-patent-system-302796012.html
-[^2]: "Kindred Ventures - Crunchbase Company Profile & Funding," Crunchbase, accessed June 2026. https://www.crunchbase.com/organization/kindred-ventures-2
+[^2]: "Fearn Raises $5.5 Million Seed Round To Accelerate AI-Powered Patent Drafting Platform," Pulse 2.0, June 11, 2026. Accessed June 2026. https://pulse2.com/fearn-raises-5-5-million-seed-round-to-accelerate-ai-powered-patent-drafting-platform/ — Independently confirms $5.5M seed led by Kindred Ventures with a16z speedrun, Designer Fund, and Essence VC participating; Steve Jang quote attributed.
+[^3]: a16z speedrun portfolio page, "Fearn," batch 005, accessed June 2026. https://speedrun.a16z.com/companies/fearn — Confirms Fearn is in a16z speedrun (batch 005) portfolio; co-founders Han Kim (CEO) and Angela Gao (CTO); San Francisco; "data sovereign AI solution for IP."

@@ -638,11 +638,20 @@ priority:
   type: firm
   reason: "appeared in ChatSee.ai Seed $6.5M (2026-06-12, led the round)"
   added: 2026-06-13
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — ChatSee.ai $6.5M Seed (2026-06-12, True Ventures led; First Rays Venture Partners and Seven Hill Ventures participated) added to true-ventures.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^35] quoting Puneet Agarwal (True Ventures Partner); (2) SiliconANGLE June 12 2026 [^36] independently confirming lead, amount, and 157-category failure taxonomy; (3) Pulse 2.0 [^37] independently confirming lead and co-investors. Co-founders Sekhar Sarukkai (ex-Skyhigh Networks, Securent, Confluent Software) and Sanjay Agrawal PhD. San Francisco HQ. Note: chatsee-ai.md startup profile already exists with consistent details; no edits needed there. Recent portfolio entries (Flux 2026-06-10, Concentrate AI 2026-06-10, Flick 2026-05-14, Nectar Social 2026-05-14) all have full YYYY-MM-DD dates — no vague facts in recent entries."
 - slug: steve-jang
   type: investor
   reason: "appeared in Fearn Seed $5.5M (2026-06-10, Kindred Ventures led; Steve Jang quoted)"
   added: 2026-06-13
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Fearn $5.5M Seed (2026-06-10, Kindred Ventures led; a16z speedrun, Designer Fund, Essence VC participated) added to steve-jang.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^25] explicitly quoting Steve Jang ('Fearn is developing custom IP-specific models for deeptech, biotech, and hardware companies to quicken and accelerate their drafting and enforceability.'); (2) FinSMEs June 10 2026 [^26]; (3) Pulse 2.0 June 11 2026 [^27]. last_verified_investment updated from Causal Labs 2025-03-12 to Fearn 2026-06-10. Co-founders Han Kim (CEO, ex-Morrison Foerster, ex-Caltech) and Angela Gao (CTO, ex-Google Research, Caltech PhD). San Francisco. Recent portfolio entries all have year-level dates from prior reviews — no vague facts in recent entries."
 - slug: andreessen-horowitz
   type: firm
   reason: "appeared in Fearn Seed $5.5M (2026-06-10, a16z speedrun participated)"
   added: 2026-06-13
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Fearn $5.5M Seed (2026-06-10, Kindred Ventures led; a16z speedrun batch 005, Designer Fund, Essence VC participated) added to andreessen-horowitz.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^61] explicitly naming a16z speedrun as participant; (2) a16z speedrun's own portfolio page [^62] confirming Fearn in batch 005; (3) Pulse 2.0 [^63] independently confirming a16z speedrun participation. Portfolio count updated from 76 to 77. Recent portfolio entries (Westmag 2026-06-02, Endra 2026-06-01, Town 2026-06-03) all have full YYYY-MM-DD dates — no vague facts in recent entries. fearn.md startup profile already exists with andreessen-horowitz in firms[] frontmatter."

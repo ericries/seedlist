@@ -9,8 +9,8 @@ stage_focus: [pre-seed, seed]
 sector_focus: [AI, consumer, crypto-web3, fintech, climate-tech, mobility, health-wellness]
 check_size: "$250K-$3M"
 last_verified_investment:
-  date: 2025-03-12
-  company: "Causal Labs"
+  date: 2026-06-10
+  company: "Fearn"
   round: "Seed"
 social:
   twitter: "@stevejang"
@@ -112,6 +112,7 @@ Based on 40 verified investments across Jang's career (both personal angel inves
 | Animoto | ~2018 | Growth | [^9] |
 | StepChange Labs | 2025 | Seed (co-led) | [^20] |
 | Causal Labs | 2025 | Seed (led) | [^21] |
+| Fearn | 2026-06-10 | Seed (led, $5.5M) | [^25][^26][^27] |
 
 *This table represents approximately 43 of 164 total investments (26%). Many early angel investments and recent deals are not publicly documented. Years marked with ~ are estimates based on founding year or fund vintage.*
 
@@ -177,3 +178,9 @@ No additional independently sourced founder testimonials found. The firm's websi
 [^22]: Tim Ferriss Blog, "Steve Jang on Korea's Exploding 'Soft Power' (#707)," November 30, 2023, accessed March 2026. https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/
 [^23]: The Ringer, "So You Wanna Be a Seed-Stage Investor? With Steve Jang," The Dave Chang Show, March 4, 2024, accessed March 2026. https://www.theringer.com/podcasts/the-dave-chang-show/2024/03/04/so-you-wanna-be-a-seed-stage-investor-with-steve-jang
 [^24]: HumanX, "Meet Steve Jang, speaker at HumanX 2026," accessed March 2026. https://www.humanx.co/speakers/steve-jang
+
+[^25]: PR Newswire, "Fearn Raises $5.5 Million Seed to End the Two-Tier Patent System," June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/fearn-raises-5-5-million-seed-to-end-the-two-tier-patent-system-302796012.html — Primary press release: Fearn (San Francisco, AI-native patent platform) closed $5.5M seed led by Kindred Ventures with a16z speedrun, Designer Fund, and Essence VC participating. Steve Jang (Founder & Managing Partner, Kindred Ventures) quoted: "Fearn is developing custom IP-specific models for deeptech, biotech, and hardware companies to quicken and accelerate their drafting and enforceability." Co-founders Han Kim (CEO, ex-Morrison Foerster) and Angela Gao (CTO, ex-Google Research).
+
+[^26]: FinSMEs, "Fearn Raises $5.5M in Seed Funding," June 10, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/fearn-raises-5-5m-in-seed-funding.html — Independently confirms $5.5M seed led by Kindred Ventures (Steve Jang) with a16z speedrun, Designer Fund, and Essence VC.
+
+[^27]: Pulse 2.0, "Fearn Raises $5.5 Million Seed Round To Accelerate AI-Powered Patent Drafting Platform," June 11, 2026. Accessed June 2026. https://pulse2.com/fearn-raises-5-5-million-seed-round-to-accelerate-ai-powered-patent-drafting-platform/ — Third independent confirmation; Kindred Ventures led with a16z speedrun, Designer Fund, Essence VC.

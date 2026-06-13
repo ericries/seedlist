@@ -73,6 +73,7 @@ Notable investments where the firm or a named True partner participated:
 | Flick | Seed (lead) | 2026-05-14 | — | AI / Filmmaking | Active [^21] |
 | Concentrate AI | Pre-Seed (co-led with RRE Ventures) | 2026-06-10 | — | AI / LLM infrastructure | Active [^29][^30][^31] |
 | Flux (Boston engineering intelligence) | Seed (existing investor; Calibrate Ventures led) | 2026-06-10 | — | Developer Tools / AI | Active [^32][^33][^34] |
+| ChatSee.ai | Seed (led, $6.5M) | 2026-06-12 | Puneet Agarwal | AI / Enterprise / AI Agent Observability | Active [^35][^36][^37] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -155,3 +156,9 @@ No additional independently sourced founder testimonials specifically about work
 [^33]: The SaaS News, "Flux Raises $5M Seed," June 10, 2026. Accessed June 2026. https://www.thesaasnews.com/news/flux-raises-5m-seed/ — Independently confirms Flux $5M seed on June 10, 2026, Calibrate Ventures led, True Ventures and Glasswing Ventures participated.
 
 [^34]: Pulse2, "Flux Raises $5 Million to Expand AI-Powered Engineering Intelligence Platform," June 11, 2026. Accessed June 2026. https://pulse2.com/flux-raises-5-million-to-expand-ai-powered-engineering-intelligence-platform/ — Third independent confirmation; describes True Ventures and Glasswing Ventures as "existing investors" participating in Calibrate-led seed.
+
+[^35]: PR Newswire, "ChatSee.ai Raises $6.5M led by True Ventures to Tackle the Growing Problem of AI Agent Failures," June 12, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/chatseeai-raises-6-5m-led-by-true-ventures-to-tackle-the-growing-problem-of-ai-agent-failures-302798743.html — Primary press release: ChatSee.ai (San Francisco) $6.5M seed led by True Ventures with First Rays Venture Partners and Seven Hill Ventures participating. Puneet Agarwal (Partner, True Ventures) quoted: "AI agents are quickly becoming operational infrastructure inside enterprises. But companies still lack tools to understand when those agents behave incorrectly in production and how to correct these failures at scale. ChatSee is addressing this critical gap in the emerging AI stack." Co-founders Sekhar Sarukkai (previously Skyhigh Networks, Securent, Confluent Software) and Sanjay Agrawal, PhD.
+
+[^36]: SiliconANGLE, "ChatSee raises $6.5M to build 'failure memory' for enterprise AI agents," June 12, 2026. Accessed June 2026. https://siliconangle.com/2026/06/12/chatsee-raises-6-5m-build-failure-memory-enterprise-ai-agents/ — Independently confirms $6.5M seed led by True Ventures with First Rays Venture Partners and Seven Hills Ventures. Describes ChatSee's failure taxonomy of 10,000+ enterprise agent failure examples classified into 157 categories spanning tool-call, scoping, reasoning, and execution failures.
+
+[^37]: Pulse 2.0, "ChatSee Raises $6.5 Million To Help Enterprises Identify And Prevent AI Agent Failures," June 2026. Accessed June 2026. https://pulse2.com/chatsee-raises-6-5-million-to-help-enterprises-identify-and-prevent-ai-agent-failures/ — Third independent confirmation; True Ventures led with First Rays Venture Partners and Seven Hill Ventures; Puneet Agarwal (True Ventures Partner) quoted.
