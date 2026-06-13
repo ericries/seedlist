@@ -17,6 +17,9 @@ priority:
   type: firm
   reason: "co-led Coram AI Series B $35M (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Verified Battery Ventures co-led Coram AI $35M Series B (2026-06-10) with Ansa Capital; UP Partners, 8VC, Mosaic Ventures participated. Confirmed via 3 primary sources (BusinessWire press release, The Next Web, TechStartups). Added portfolio row to battery-ventures with citations [^22][^23][^24]. Also corrected Coram AI startup profile date from 2026-06-11 to 2026-06-10 (BusinessWire press release date) and added TechStartups as third citation."
 - slug: 8vc
   type: firm
   reason: "participated in Coram AI Series B (2026-06-11)"

@@ -113,8 +113,9 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Blitzy | Growth (participated, $200M, $1.4B valuation) | 2026-05-05 | AI / Autonomous Software Development | Active | [^16][^17] |
 | Opal Security | Series B (led, $22M) | 2023-12-07 | Cybersecurity / Identity | Active | [^18] |
 | Opal Security | Series B Extension (co-led, $23M) | 2026-06-04 | Cybersecurity / Identity | Active | [^19][^20][^21] |
+| Coram AI | Series B (co-led, $35M) | 2026-06-10 | AI / Physical Security | Active | [^22][^23][^24] |
 
-*This table represents approximately 28 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 29 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -161,3 +162,9 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^20]: Pulse 2.0, "Opal Security Raises $23 Million And Expands Leadership Team," June 2026. https://pulse2.com/opal-security-raises-23-million-and-expands-leadership-team/ — Independent confirmation: "The funding round was led by Greylock and Battery Ventures, with participation from Cambium Capital." Accessed June 2026.
 
 [^21]: StartupRise, "Opal Security Raises $23M in New Funding Led by Greylock," June 5, 2026. https://startuprise.io/opal-security-raises-23m-in-new-funding-led-by-greylock/ — Third independent confirmation. Accessed June 2026.
+
+[^22]: BusinessWire, "Coram AI Raises $35 Million Series B to Accelerate the Future of AI-Native Physical Security," June 10, 2026. https://www.businesswire.com/news/home/20260610812247/en/Coram-AI-Raises-$35-Million-Series-B-to-Accelerate-the-Future-of-AI-Native-Physical-Security — Primary press-wire announcement confirming Battery Ventures co-led $35M Series B with new investor Ansa Capital; UP Partners, 8VC, and Mosaic Ventures participated. Accessed June 2026.
+
+[^23]: The Next Web, "Coram raises $35M to turn cameras into AI detectives," June 11, 2026. https://thenextweb.com/news/coram-35m-series-b-ai-physical-security — Independent press confirmation of Battery Ventures co-leading the Coram AI Series B. Accessed June 2026.
+
+[^24]: TechStartups, "Coram AI raises $35M to bring autonomous AI agents to physical security," June 11, 2026. https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/ — Third independent confirmation of Battery Ventures Coram AI Series B co-lead. Accessed June 2026.

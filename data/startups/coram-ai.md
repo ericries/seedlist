@@ -11,16 +11,16 @@ total_raised: "$66M"
 investors:
   - round: series-b
     year: 2026
-    date: 2026-06-11
+    date: 2026-06-10
 firms:
   - slug: battery-ventures
     round: series-b
     year: 2026
-    date: 2026-06-11
+    date: 2026-06-10
   - slug: 8vc
     round: series-b
     year: 2026
-    date: 2026-06-11
+    date: 2026-06-10
 founders:
   - name: "Ashesh Jain"
     role: "CEO & Co-Founder"
@@ -38,7 +38,7 @@ Coram AI is a San Francisco-based physical security platform that uses AI agents
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-11 | Series B | $35M | Ansa Capital, Battery Ventures | UP Partners, 8VC, Mosaic Ventures [^1][^2] |
+| 2026-06-10 | Series B | $35M | Ansa Capital, Battery Ventures | UP Partners, 8VC, Mosaic Ventures [^1][^2][^3] |
 
 The Series B brings total funding to $66M, following a $13.8M Series A raised the previous year [^1].
 
@@ -54,3 +54,4 @@ No independently sourced founder testimonials beyond the announcement found at t
 
 [^1]: The Next Web, "Coram raises $35M to turn cameras into AI detectives," June 11, 2026. https://thenextweb.com/news/coram-35m-series-b-ai-physical-security
 [^2]: Business Wire, "Coram AI Raises $35 Million Series B to Accelerate the Future of AI-Native Physical Security," June 10, 2026. https://www.businesswire.com/news/home/20260610812247/en/Coram-AI-Raises-$35-Million-Series-B-to-Accelerate-the-Future-of-AI-Native-Physical-Security
+[^3]: TechStartups, "Coram AI raises $35M to bring autonomous AI agents to physical security," June 11, 2026. https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/
