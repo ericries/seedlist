@@ -29042,3 +29042,10 @@ queue:
   added: '2026-03-17'
   discovered_from: definic
   source: Participant in Definic seed (2026-06-12)
+- name: Sondo Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mimir
+  source: Lead investor in Mimir pre-seed (2026-06-12)

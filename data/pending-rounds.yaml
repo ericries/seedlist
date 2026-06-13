@@ -89,7 +89,7 @@ pending_rounds:
   parsed_company: Profitable Oslo-based AI startup Mimir
   parsed_amount: null
   parsed_round: Pre-Seed
-  status: pending
+  status: processed
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (June 08 – June 12)
   url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-08-june-12/
