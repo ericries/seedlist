@@ -29256,3 +29256,10 @@ queue:
   added: '2026-03-17'
   discovered_from: andrew-johnstone
   source: Reported Andrew Johnston / Craft Ventures scout investment (unverified)
+- name: W Health Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hoola-health
+  source: participated in Hoola Health Seed $5M (2026-06-10) alongside Peak XV's Surge
