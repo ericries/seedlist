@@ -9198,7 +9198,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 29,
+      "size": 32,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9337,6 +9337,18 @@
         {
           "slug": "pieterjan-bouten",
           "name": "Pieterjan Bouten"
+        },
+        {
+          "slug": "ian-hogarth",
+          "name": "Ian Hogarth"
+        },
+        {
+          "slug": "marten-mickos",
+          "name": "Mårten Mickos"
+        },
+        {
+          "slug": "sten-tamkivi",
+          "name": "Sten Tamkivi"
         }
       ]
     },
@@ -9399,7 +9411,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 97,
+      "size": 100,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9841,6 +9853,18 @@
         {
           "slug": "karim-atiyeh",
           "name": "Karim Atiyeh"
+        },
+        {
+          "slug": "ian-hogarth",
+          "name": "Ian Hogarth"
+        },
+        {
+          "slug": "marten-mickos",
+          "name": "Mårten Mickos"
+        },
+        {
+          "slug": "sten-tamkivi",
+          "name": "Sten Tamkivi"
         }
       ]
     },
@@ -10103,7 +10127,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios — they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 31,
+      "size": 32,
       "members": [
         {
           "slug": "boris-wertz",
@@ -10250,6 +10274,10 @@
         {
           "slug": "lee-linden",
           "name": "Lee Linden"
+        },
+        {
+          "slug": "marten-mickos",
+          "name": "Mårten Mickos"
         }
       ]
     },
@@ -11869,7 +11897,7 @@
       "name": "The Beltway Disruptors",
       "tagline": "DC-based investors who bet that the most regulated industries are the most ripe for disruption — defense, healthcare, govtech, and national security.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "grant-verstandig",
@@ -11921,6 +11949,10 @@
         },
         {
           "slug": "ben-kohlmann"
+        },
+        {
+          "slug": "ian-hogarth",
+          "name": "Ian Hogarth"
         }
       ]
     },
@@ -12316,7 +12348,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves — but founders read their writing before pitching.",
       "type": "curated",
-      "size": 16,
+      "size": 17,
       "members": [
         {
           "slug": "paul-graham",
@@ -12394,6 +12426,10 @@
         {
           "slug": "naval-ravikant",
           "name": "Naval Ravikant"
+        },
+        {
+          "slug": "ian-hogarth",
+          "name": "Ian Hogarth"
         }
       ]
     },
