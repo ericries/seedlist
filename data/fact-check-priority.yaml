@@ -31,14 +31,23 @@ priority:
   type: firm
   reason: "led Poetic Series A $50M (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Poetic Series A $50M at $500M val (2026-06-10, Kleiner Perkins led; Founders Fund, First Harmonic, OpenAI Startup Fund participated) added to kleiner-perkins.md portfolio with 3 independent primary citations [^50][^51][^52] (PR Newswire press release, The Next Web, Benzinga). Founder/CEO Markie Wagner (ex-Google, ex-Waymo). SF-based enterprise AI automation."
 - slug: founders-fund
   type: firm
   reason: "participated in Poetic Series A (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Poetic Series A $50M at $500M val (2026-06-10, Kleiner Perkins led, Founders Fund participated alongside First Harmonic and OpenAI Startup Fund) added to founders-fund.md portfolio with 3 independent primary citations [^68][^69][^70] (PR Newswire, The Next Web, Benzinga)."
 - slug: openai-startup-fund
   type: firm
   reason: "participated in Poetic Series A (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Poetic Series A $50M at $500M val (2026-06-10, Kleiner Perkins led, OpenAI Startup Fund participated alongside Founders Fund and First Harmonic) added to openai-startup-fund.md portfolio with 3 independent primary citations [^32][^33][^34] (PR Newswire, Bloomberg, The Next Web)."
 - slug: andreessen-horowitz
   type: firm
   reason: "led Digital Asset $355M (2026-06-11) and participated in Current Series E (2026-06-11)"

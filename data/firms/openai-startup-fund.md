@@ -92,6 +92,7 @@ Based on 18 verified investments, the OpenAI Startup Fund's actual portfolio rev
 | Mem | Series A ($23.5M, led) | 2022 | Productivity | Active [^2] |
 | Milo | Pre-seed/Seed | 2024 | Consumer AI | Active [^12] |
 | Physical Intelligence | Seed ($70M) + Series A ($400M) | 2024 | Robotics | Active [^12] |
+| Poetic | Series A ($50M at $500M post-money, participated; Kleiner Perkins led) | 2026-06-10 | AI / Enterprise Automation | Active [^32][^33][^34] |
 | Speak | Series B ($27M, led) + Series C ($78M, led) | 2022-2024 | EdTech/Language | Active [^15] [^16] |
 | Thrive AI Health | Series A ($8M) | 2024 | Health/Wellness AI | Active [^17] |
 | Unify | Seed/Series A ($19M) | 2024 | Sales Tech | Active [^6] |
@@ -157,3 +158,9 @@ Andrew Mason, CEO of Descript, noted that seeing an early version of ChatGPT ins
 [^30]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022, accessed May 2026. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Contemporaneous press confirming OpenAI Startup Fund led Harvey's $5M seed on November 23, 2022, alongside Jeff Dean (Google AI), Elad Gil (Mixer Labs co-founder), and other angel backers.
 
 [^31]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022, accessed May 2026. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Independent contemporaneous press source confirming the November 23, 2022 announcement of Harvey's $5M seed round led by the OpenAI Startup Fund.
+
+[^32]: PR Newswire, "Poetic Raises $50M Series A to Automate the World's Most Complex Enterprise Processes with Reliable AI," June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html — Kleiner Perkins-led $50M Series A on June 10, 2026 at $500M valuation; Founders Fund, First Harmonic, and OpenAI Startup Fund participated.
+
+[^33]: Bloomberg, "OpenAI Invests in Poetic to Automate Compliance, Underwriting With AI," June 10, 2026. Accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-10/openai-backs-ai-startup-fielding-compliance-underwriting-tasks — Independent confirmation of OpenAI Startup Fund participation in Poetic's $50M Series A.
+
+[^34]: The Next Web, "OpenAI backs Poetic to automate underwriting and compliance," June 10, 2026. Accessed June 2026. https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting — Third independent confirmation of OpenAI Startup Fund participation in Poetic Series A.

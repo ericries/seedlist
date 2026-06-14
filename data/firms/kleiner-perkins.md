@@ -204,6 +204,7 @@ The following table includes notable investments verified through multiple sourc
 | Parallel Web Systems | Series B | 2026-04-29 | AI / Web Infrastructure | Private [^40] |
 | Mind Robotics | Growth (lead, $400M) | 2026-05-13 | Robotics / Industrial | Private [^45] |
 | NewLimit | Series C (returning investor, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^46][^47][^48] |
+| Poetic | Series A (lead, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^50][^51][^52] |
 
 *Note: This table includes 62 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -355,3 +356,9 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^48]: Endpoints News, "Anti-aging startup NewLimit raises $435M at $3B+ valuation, eyes clinic in 2027," June 2, 2026. Accessed June 2026. https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/ — Third independent confirmation of $435M Series C at $3.1B valuation with Kleiner Perkins among returning investors.
 
 [^49]: PR Newswire, "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance," April 29, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html — Kleiner Perkins led Rogo's $160M Series D announced April 29, 2026; participants included Sequoia, Thrive Capital, Khosla Ventures, J.P. Morgan Growth Equity Partners, BoxGroup, Mantis VC, Jack Altman, Evantic, and Positive Sum. Total funding to date: $300M+. Cross-referenced with Rogo, "Our $160M Series D and the Road Ahead," April 29, 2026. https://rogo.ai/news/series-d
+
+[^50]: PR Newswire, "Poetic Raises $50M Series A to Automate the World's Most Complex Enterprise Processes with Reliable AI," June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html — Kleiner Perkins led Poetic's $50M Series A on June 10, 2026 at a $500M valuation; Founders Fund, First Harmonic, and OpenAI also participated. Founder/CEO: Markie Wagner (ex-Google, ex-Waymo).
+
+[^51]: The Next Web, "OpenAI backs Poetic to automate underwriting and compliance," June 10, 2026. Accessed June 2026. https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting — Independent confirmation of Kleiner Perkins-led $50M Series A at $500M valuation with Founders Fund and OpenAI participating.
+
+[^52]: Benzinga, "Poetic Raises $50 Million From Investors At $500 Million Valuation, Led By Kleiner Perkins," June 10, 2026. Accessed June 2026. https://www.benzinga.com/markets/private-markets/26/06/53127581/poetic-raises-50-million-from-investors-at-500-million-valuation-led-by-kleiner-perkins — Third independent confirmation: Kleiner Perkins led, with OpenAI, Founders Fund, and First Harmonic participating.

@@ -243,6 +243,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | NewLimit | Series C (led, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^57][^58][^59] |
 | Binti | Seed (participated) | 2015-03 | Govtech / Child Welfare SaaS | Private [^62][^63] |
 | Westmag | Seed (participated; a16z led) | 2026-06-02 | Drone Motors / Robot Actuators / Hard Tech | Private [^64][^65][^66] |
+| Poetic | Series A (participated; Kleiner Perkins led, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^68][^69][^70] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -417,3 +418,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^66]: The AI Insider, "Westmag Emerges From Stealth With $11M in Seed Funding for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Third independent confirmation of $11M Seed led by Andreessen Horowitz with participation from Founders Fund, Lux Capital, NFDG, and Menlo Ventures.
 
 [^67]: Marina Temkin, "Endurance Energy raises $54M to harness a massive untapped energy source," TechCrunch, June 11, 2026. Accessed June 2026. https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/ — Confirms Founders Fund led Endurance Energy's $54M Series A on June 11, 2026, with participation from Ascend, Construct Capital, Felicis Ventures, First Round Capital, Point72 Ventures, Riot Ventures, and Voyager Ventures. Endurance is developing offshore geothermal power plants; founder/CEO Andrew Redd is a former SpaceX engineer.
+
+[^68]: PR Newswire, "Poetic Raises $50M Series A to Automate the World's Most Complex Enterprise Processes with Reliable AI," June 10, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html — Kleiner Perkins-led $50M Series A on June 10, 2026 at $500M valuation; Founders Fund, First Harmonic, and OpenAI participated.
+
+[^69]: The Next Web, "OpenAI backs Poetic to automate underwriting and compliance," June 10, 2026. Accessed June 2026. https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting — Independent confirmation of Founders Fund participation in Poetic's $50M Series A.
+
+[^70]: Benzinga, "Poetic Raises $50 Million From Investors At $500 Million Valuation, Led By Kleiner Perkins," June 10, 2026. Accessed June 2026. https://www.benzinga.com/markets/private-markets/26/06/53127581/poetic-raises-50-million-from-investors-at-500-million-valuation-led-by-kleiner-perkins — Third independent confirmation: "Its backers include OpenAI, Peter Thiel's Founders Fund, and Kleiner Perkins."
