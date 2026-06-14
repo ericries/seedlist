@@ -697,19 +697,34 @@ priority:
   type: firm
   reason: "led Handshake Seed $3.2M (2026-06-01)"
   added: 2026-06-13
+  status: unresolvable
+  resolved: 2026-06-03
+  resolution_note: "UNRESOLVABLE 2026-06-03 — triple-point-ventures.md firm profile does NOT exist in data/firms/. Queued for profile creation. Once profile exists, Handshake Seed $3.2M (2026-06-01) should be added with primary citations."
 - slug: glasswing-ventures
   type: firm
   reason: "led Enlaye Seed $5M (2026-06-10)"
   added: 2026-06-13
+  status: unresolvable
+  resolved: 2026-06-03
+  resolution_note: "UNRESOLVABLE 2026-06-03 — glasswing-ventures.md firm profile does NOT exist in data/firms/. Queued for profile creation. Once profile exists, Enlaye Seed $5M (2026-06-10) should be added with primary citations."
 - slug: link-ventures
   type: firm
   reason: "co-led Enlaye Seed $5M (2026-06-10)"
   added: 2026-06-13
+  status: unresolvable
+  resolved: 2026-06-03
+  resolution_note: "UNRESOLVABLE 2026-06-03 — link-ventures.md firm profile does NOT exist in data/firms/. Queued for profile creation. Once profile exists, Enlaye Seed $5M (2026-06-10) co-lead should be added with primary citations."
 - slug: y-combinator
   type: firm
   reason: "participated SyntheticFi $13M (2026-06-09)"
   added: 2026-06-13
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — SyntheticFi $13M Venture round (2026-06-09; YC, Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund as syndicate participants, no specific lead identified) added to y-combinator.md portfolio with 3 independent primary citations [^49][^50][^51]: (1) The SaaS News, (2) BusinessWire press release, (3) YC Companies Directory confirming SyntheticFi as S23 batch. Co-founders Tony Yang and Joseph Wang. San Francisco. Total $2B+ regulatory AUM milestone confirmed. Portfolio note remains ~2.1% of YC's 5,668 investments."
 - slug: social-leverage
   type: firm
   reason: "participated SyntheticFi $13M (2026-06-09)"
   added: 2026-06-13
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — SyntheticFi $13M Venture round (2026-06-09; Social Leverage, YC, NextGen VP/Brown Advisory, The Compound Capital Fund as syndicate participants, no specific lead identified) added as follow-on note to existing SyntheticFi Seed 2024 portfolio row with 3 independent primary citations [^17][^18][^19]: (1) The SaaS News, (2) BusinessWire press release, (3) Pulse 2.0. Sector updated to Fintech / RIA Tech."

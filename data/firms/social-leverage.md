@@ -87,7 +87,7 @@ Lindzon has emphasized disciplined pricing as a core strategy, and Matt Ober sta
 | Newcase | Pre-Seed | 2024 | Legal/AI | Active [^2] |
 | Parfour | Pre-Seed | 2024 | Consumer | Active [^2] |
 | SlashExperts | Seed | 2024 | SaaS | Active [^2] |
-| SyntheticFi | Seed | 2024 | Fintech | Active [^2] |
+| SyntheticFi | Seed → Venture follow-on | 2024 (Seed); 2026-06-09 (Venture $13M; Y Combinator, NextGen VP, The Compound Capital Fund participated) | Fintech / RIA Tech | Active [^2][^17][^18][^19] |
 | Tabflows | Pre-Seed | 2024 | Healthcare/AI | Active [^2] |
 | Archive Intel | Series A | ~2022 | Fintech | Active [^2][^10] |
 | beehiiv | Seed (led) → Series A → Series B follow-on | 2021-10-06 (Seed), 2023-06-21 (Series A), 2024-04-30 (Series B) | SaaS | Active [^2][^11][^15][^16] |
@@ -219,3 +219,6 @@ Naval Ravikant, CEO of AngelList, has highlighted the firm's commitment to growt
 [^14]: Howard Lindzon blog, "Panic with Friends - Paul Tran - Founder, CEO, and Visionary Behind Manscaped," accessed March 2026. https://www.howardlindzon.com/p/panic-friends-paul-tran-founder-ceo-visionary-behind-manscaped
 [^15]: TechCrunch, "beehiiv, a newsletter platform, gets $12.5M in its inbox," June 21, 2023, accessed June 2026. https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/
 [^16]: TechCrunch, "beehiiv attracts $33M to make its newsletter publishing platform more sticky," April 30, 2024, accessed June 2026. https://techcrunch.com/2024/04/30/beehiiv-newsletters/
+[^17]: The SaaS News, "SyntheticFi Raises $13M in Funding," June 9, 2026. https://www.thesaasnews.com/news/syntheticfi-raises-13m-other/. Accessed June 2026. Confirms $13M Venture round on June 9, 2026 with Y Combinator, Social Leverage, NextGen VP (Brown Advisory subsidiary), and The Compound Capital Fund as syndicate participants; no specific lead identified.
+[^18]: BusinessWire, "SyntheticFi Raises $13M and Exceeds $2B in Regulatory AUM," June 9, 2026. https://www.businesswire.com/news/home/20260609454833/en/SyntheticFi-Raises-$13M-and-Exceeds-$2B-in-Regulatory-AUM. Accessed June 2026. Press release confirms $13M raise, $2B+ regulatory AUM milestone, and Social Leverage participation alongside Y Combinator, NextGen VP, and The Compound Capital Fund; San Francisco; CEO Tony Yang.
+[^19]: Pulse 2.0, "SyntheticFi Raises $13 Million And Surpasses $2 Billion In Regulatory Assets Under Management," June 9, 2026. https://pulse2.com/syntheticfi-raises-13-million-and-surpasses-2-billion-in-regulatory-assets-under-management/. Accessed June 2026. Independently confirms $13M, June 9 2026, and Social Leverage participation in syndicate.
