@@ -665,7 +665,13 @@ priority:
   type: firm
   reason: "led Hoola Health Seed $5M (2026-06-10)"
   added: 2026-06-14
+  status: unresolvable
+  resolved: 2026-06-13
+  resolution_note: "UNRESOLVABLE 2026-06-13 — peak-xv-partners.md firm profile does NOT exist in data/firms/. Cannot add Hoola Health $5M Seed (2026-06-10, Peak XV's Surge led; W Health Ventures, Ashish Gupta, Abhishek Goyal, Bijou Kurien participated) portfolio row to non-existent profile. Round IS fully verified in /data/startups/hoola-health.md with 3 independent primary citations (Inc42 [^1], YourStory [^2], Business Standard [^3]). Additional independent corroboration found via WebSearch: StartupFox, BioSpectrum India, Indian Startup Times, VOH Network. Peak XV Partners queued for firm profile creation. Once profile exists, this round should be added with the same 3 citations."
 - slug: w-health-ventures
   type: firm
   reason: "participated in Hoola Health Seed $5M (2026-06-10)"
   added: 2026-06-14
+  status: unresolvable
+  resolved: 2026-06-13
+  resolution_note: "UNRESOLVABLE 2026-06-13 — w-health-ventures.md firm profile does NOT exist in data/firms/. Cannot add Hoola Health $5M Seed (2026-06-10, Peak XV's Surge led; W Health Ventures participated as existing institutional investor; angels Ashish Gupta/Abhishek Goyal/Bijou Kurien) portfolio row to non-existent profile. Round IS fully verified in /data/startups/hoola-health.md with 3 independent primary citations (Inc42 [^1], YourStory [^2], Business Standard [^3]). Additional independent corroboration found via WebSearch (StartupFox, BioSpectrum India, Indian Startup Times). W Health Ventures queued for firm profile creation. Once profile exists, this round should be added with the same 3 citations."
