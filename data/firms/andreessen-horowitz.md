@@ -276,8 +276,10 @@ The following table includes a16z investments verified through the firm's own po
 | Endra | Series A (led, $50M) | 2026-06-01 | AI / Construction Tech / MEP Engineering | Private [^59] |
 | Westmag | Seed (led, $11M) | 2026-06-02 | American Dynamism / Drone Motors / Robot Actuators | Private [^60] |
 | Fearn | Seed (a16z speedrun batch 005; Kindred Ventures led $5.5M) | 2026-06-10 | AI / Legal Tech / Patents | Private [^61][^62][^63] |
+| Digital Asset | Growth (led, $355M at ~$2B val; a16z crypto contributed $100M) | 2026-06-11 | Crypto / Capital Markets Infrastructure / Canton Network | Private [^64][^65][^66] |
+| Current | Series E (participant, $80M at $1.5B val; Springcoast Partners led) | 2026-06-11 | Fintech / Consumer Banking / Neobank | Private [^67][^68][^69] |
 
-*Note: This table includes 77 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 79 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -461,3 +463,15 @@ The following table includes a16z investments verified through the firm's own po
 [^62]: a16z speedrun portfolio page, "Fearn," batch 005, accessed June 2026. https://speedrun.a16z.com/companies/fearn — Primary source from a16z confirming Fearn is in a16z speedrun (batch 005) portfolio; co-founders Han Kim (CEO) and Angela Gao (CTO); San Francisco; described as "the only data sovereign AI solution for IP."
 
 [^63]: Pulse 2.0, "Fearn Raises $5.5 Million Seed Round To Accelerate AI-Powered Patent Drafting Platform," June 11, 2026. Accessed June 2026. https://pulse2.com/fearn-raises-5-5-million-seed-round-to-accelerate-ai-powered-patent-drafting-platform/ — Independently confirms a16z speedrun participated in $5.5M seed led by Kindred Ventures alongside Designer Fund and Essence VC.
+
+[^64]: PR Newswire, "Digital Asset Raises $355 Million to Accelerate Canton's Role as Onchain Infrastructure for Capital Markets," June 11, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/digital-asset-raises-355-million-to-accelerate-cantons-role-as-onchain-infrastructure-for-capital-markets-302797427.html — Primary press release: Digital Asset (CEO Yuval Rooz) raised $355M led by a16z crypto on June 11, 2026. Participants include 7RIDGE, ABN Amro, Abu Dhabi Investment Authority, Alumni Ventures, Apollo Funds, BNP Paribas, Broadridge, Citadel Securities, CME Ventures, Coinbase Ventures, Greenwulf, Hanwha, HSBC, iCapital, Liberty City Ventures, Optiver, Polychain, R136 Ventures, S&P Global, SBI Group, Smash Capital, SoFi, Tradeweb, William Blair.
+
+[^65]: Decrypt, "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round," June 11, 2026. Accessed June 2026. https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round — Independently confirms a16z crypto led the $355M round on June 11, 2026.
+
+[^66]: FX News Group, "Digital Asset announces $355M funding round led by a16z crypto," June 11, 2026. Accessed June 2026. https://fxnewsgroup.com/forex-news/cryptocurrency/digital-asset-announces-355m-funding-round-led-by-a16z-crypto/ — Independently confirms a16z crypto led the $355M round; valuation ~$2B; a16z contributed $100M.
+
+[^67]: PR Newswire / Yahoo Finance, "Current Secures $80 Million Series E at $1.5 Billion Valuation Following Third Consecutive Year of 70%+ Growth," June 11, 2026. Accessed June 2026. https://finance.yahoo.com/markets/stocks/articles/current-secures-80-million-series-123200965.html — Primary press release: Current raised $80M Series E at $1.5B valuation on June 11, 2026, led by Springcoast Partners. Existing investors include Andreessen Horowitz, Tiger Global Management, Avenir, Foundation Capital, Wellington Management, Sapphire Ventures, General Catalyst, Cross River, and QED Investors.
+
+[^68]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/11/2026," June 11, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/ — Independently confirms Current's $80M Series E at $1.5B valuation led by Springcoast Partners with a16z among existing backers.
+
+[^69]: TheNextWeb, "Current Series E values the neobank below its 2021 peak," June 11, 2026. Accessed June 2026. https://thenextweb.com/news/current-series-e-1-5bn-down-round — Independently confirms $80M Series E at $1.5B valuation; notes a16z had valued Current at $2.2B in 2021 round.

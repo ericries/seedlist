@@ -52,6 +52,9 @@ priority:
   type: firm
   reason: "led Digital Asset $355M (2026-06-11) and participated in Current Series E (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Digital Asset $355M growth round (2026-06-11, a16z crypto led; $100M a16z contribution at ~$2B val) added to andreessen-horowitz.md portfolio with 3 independent primary citations [^64][^65][^66] (PR Newswire press release naming CEO Yuval Rooz, Decrypt, FX News Group). Participants include 7RIDGE, ABN Amro, ADIA, Apollo, BNP Paribas, Broadridge, Citadel Securities, CME Ventures, Coinbase Ventures, HSBC, Optiver, Polychain, S&P Global, SBI, SoFi, Tradeweb, William Blair, et al. Current Series E $80M at $1.5B val (2026-06-11, Springcoast Partners led) added with 3 primary citations [^67][^68][^69] (Yahoo/PR Newswire press release, AlleyWatch, TheNextWeb)."
 - slug: greylock
   type: firm
   reason: "led Niteshift $7M seed (2026-06-10)"
@@ -85,6 +88,9 @@ priority:
   type: firm
   reason: "participated in Current Series E (2026-06-11)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Current Series E $80M at $1.5B val (2026-06-11, Springcoast Partners led; General Catalyst named as existing investor) added to general-catalyst.md portfolio with 3 independent primary citations [^71][^72][^73] (Yahoo/PR Newswire press release explicitly naming General Catalyst, AlleyWatch Daily Funding Report 6/11/2026, TheNextWeb). Co-existing investors: a16z, Tiger Global, Avenir, Foundation Capital, Wellington, Sapphire Ventures, Cross River, QED Investors."
 - slug: qed-investors
   type: firm
   reason: "RESOLVED 2026-06-12 — Current Series E ($80M led by Springcoast Partners, 2026-06-11) added to qed-investors.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^40], (2) Paul Hastings LLP advisor announcement [^41], (3) AlleyWatch Startup Daily Funding Report [^42]. All three independently confirm QED as Series E participant. Portfolio note updated to 27 entries."
@@ -94,6 +100,9 @@ priority:
   type: firm
   reason: "participated in Current Series E (2026-06-11)"
   added: 2026-06-12
+  status: unresolvable
+  resolved: 2026-06-03
+  resolution_note: "UNRESOLVABLE 2026-06-03 — Founders Fund NOT mentioned in Current Series E primary source (Yahoo/PR Newswire press release, 2026-06-11). Verified existing investor list: Andreessen Horowitz, Tiger Global, Avenir, Foundation Capital, Wellington Management, Sapphire Ventures, General Catalyst, Cross River, QED Investors. Founders Fund is absent. Claim appears to be a hallucination — not adding to portfolio."
 - slug: reid-hoffman
   type: investor
   reason: "angel in Niteshift seed (2026-06-10)"
