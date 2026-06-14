@@ -3,9 +3,9 @@ check_size: $500K-$20M
 firm: greylock
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Convoy
-  date: ~2023
-  round: ~2017
+  company: Niteshift
+  date: 2026-06-10
+  round: Seed
 location: Menlo Park, CA
 name: Reid Hoffman
 role: Partner
@@ -101,8 +101,8 @@ Hoffman invests across all stages, from angel through growth. Of 20 verified inv
 | Zynga | Angel | ~2007 | Gaming/Social | Public (ZNGA), Acquired by Take-Two | [^1] |
 | Groupon | Angel | ~2008 | Marketplace/Commerce | Public (GRPN) | [^1] |
 | Airbnb | Growth | ~2010 | Marketplace/Travel | Public (ABNB) | [^2][^9] |
-| Aurora | Series A+ | ~2017 | Autonomous Vehicles | Public (AUR) | [^2] |
-| Convoy | Growth | ~2017 | Logistics/Trucking | Shut down (2023) | [^10] |
+| Aurora | Series A ($90M co-led with Index Ventures; Hoffman + Mike Volpi joined board) | 2018-02-28 | Autonomous Vehicles | Public (AUR) | [^2][^12][^13] |
+| Convoy | Series A ($16M led by Greylock; Hoffman + Simon Rothman joined board) | 2016-03-23 | Logistics/Trucking | Shut down (2023) | [^10][^14][^15] |
 | Nauto | Series A | ~2017 | AI/Driver Behavior | Active | [^2] |
 | Joby Aviation | Growth | ~2019 | Electric Aviation | Public (JOBY) | [^10] |
 | Xapo | Series A | 2014 | Crypto/Fintech | Active | [^10] |
@@ -113,6 +113,7 @@ Hoffman invests across all stages, from angel through growth. Of 20 verified inv
 | Inflection AI | Co-Founder | 2022 | AI/Consumer | Active (restructured) | [^5] |
 | Coda | Growth | ~2019 | Productivity/Docs | Acquired | [^2] |
 | SocialNet | Founder | 1997 | Social Network | Shut down | [^3] |
+| Niteshift | Seed ($7M, Greylock-led with Jerry Chen; Hoffman participated as angel alongside Amplify Partners, BoxGroup, SV Angel, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin) | 2026-06-10 | AI/Developer tools | Active | [^16][^17][^18] |
 
 *Note: This table represents 20 verified investments. Hoffman has reportedly made angel investments in more than 80 technology startups; only those with specific sourced confirmation are included. His investments through Greylock's institutional fund are not separately enumerated.*
 
@@ -149,3 +150,10 @@ No additional independently sourced founder testimonials from portfolio company 
 [^9]: The Twenty Minute VC, "20VC: Reid Hoffman on Investing in Airbnb and Passing on Stripe," accessed March 2026. https://www.thetwentyminutevc.com/reidhoffman
 [^10]: Hustle Fund, "Reid Hoffman Investments: The Network Effects Master Who Built LinkedIn and Backed Facebook," accessed March 2026. https://www.hustlefund.vc/post/reid-hoffman-investments-the-network-effects-master-who-built-linkedin-and-backed-facebook
 [^11]: Masters of Scale, "Do things that don't scale, with Brian Chesky," accessed March 2026. https://mastersofscale.com/brian-chesky/
+[^12]: Fortune, "Self-Driving Startup Aurora Raises $90 Million, LinkedIn Boss Onboard," February 28, 2018. Confirms Aurora $90M Series A co-led by Greylock and Index Ventures, with Reid Hoffman joining board. Accessed June 2026. https://fortune.com/2018/02/28/aurora-self-driving-cars-investment/
+[^13]: Greylock, "Congrats, Aurora!," portfolio news. Confirms Greylock led Series A in 2018 and Hoffman led the investment through Aurora's SPAC merger and public listing (Nasdaq: AUR). Accessed June 2026. https://greylock.com/portfolio-news/congrats-aurora/
+[^14]: Business Wire, "Convoy Raises $16 Million Series A Led by Greylock Partners," March 22, 2016. Confirms $16M Series A led by Greylock with Reid Hoffman and Simon Rothman joining the board. Accessed June 2026. https://www.businesswire.com/news/home/20160322006652/en/Convoy-Raises-16-Million-Series-Led-Greylock
+[^15]: TechCrunch, "In a first deal of its kind, Convoy lands $62 million led by YC's Continuity Fund," July 25, 2017. Confirms Hoffman and Greylock as prior backers of Convoy participating in $62M Series B led by YC Continuity Fund alongside Bezos, Gates, Omidyar, Kravis, Diller. Accessed June 2026. https://techcrunch.com/2017/07/25/in-a-first-deal-of-its-kind-convoy-lands-62-million-led-by-ycs-continuity-fund/
+[^16]: TechCrunch, "Niteshift raises $7M seed led by Greylock," June 10, 2026. Confirms Niteshift $7M seed (2026-06-10) led by Greylock (Jerry Chen) with Amplify Partners, BoxGroup, SV Angel and angels Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin participating. Accessed June 2026.
+[^17]: PressRelease.com, "Niteshift Emerges from Stealth with $7M Seed Funding Led by Greylock," June 10, 2026. Independent primary source confirming the round, participants including Reid Hoffman as angel. Accessed June 2026.
+[^18]: AlleyWatch Daily Funding Report, June 10, 2026. Independent primary source confirming Niteshift $7M seed with Greylock as lead and Hoffman as angel participant. Accessed June 2026.

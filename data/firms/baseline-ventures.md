@@ -69,16 +69,16 @@ Based on 16 verified portfolio investments, the following patterns emerge. Note:
 | Twitter | Seed | ~2007 | Social media | IPO | [^2] |
 | Heroku | Seed + Series B participant ($10M Ignition-led, 2010-05-10) | 2008 | Developer tools | Acquired (Salesforce) | [^2][^7][^8][^12] |
 | ExactTarget | Seed | ~2008 | Marketing SaaS | Acquired (Salesforce) | [^2][^5] |
-| Crashlytics | Seed | ~2011 | Developer tools | Acquired (Twitter) | [^2] |
+| Crashlytics | Seed ($1M, co-led with Flybridge Capital Partners) | 2011-10-13 | Developer tools | Acquired (Twitter) | [^2][^16] |
 | Weebly | Seed | 2007 | Website builder | Acquired (Square) | [^2][^7] |
 | TaskRabbit | Seed | 2009-10-30 | Marketplace | Acquired (IKEA) | [^2][^9] |
 | Stitch Fix | Seed ($750K, led) | 2011-04 | E-commerce | IPO (SFIX) | [^1][^10] |
 | PagerDuty | Seed ($1.9M, participant) + Series A participant ($10.7M a16z-led, 2013-01-31) | 2010-09-29 | DevOps | IPO | [^1][^13][^14] |
 | SoFi | Series A | 2011 | Fintech | IPO | [^1][^11] |
-| Expensify | Seed | ~2009 | Fintech SaaS | IPO | [^1] |
+| Expensify | Seed ($1M, co-invested with Hillsven Capital and Travis Kalanick) | 2009-05 | Fintech SaaS | IPO | [^1][^15] |
 | WeWork | Seed | ~2011 | Co-working | IPO | [^1] |
 | Figure | Seed | ~2018 | Fintech | Active | [^1] |
-| Pocket | Seed | ~2010 | Content curation | Acquired (Mozilla) | [^2] |
+| Pocket (Read It Later) | First institutional round ($2.5M, Foundation Capital-led; co-investors Google Ventures, Founder Collective) | 2011-07-26 | Content curation | Acquired (Mozilla) | [^2][^17] |
 | Dishcraft | Seed | ~2017 | Robotics | Active | [^2] |
 | Dusty Robotics | Seed | ~2018 | Construction robotics | Active | [^3] |
 
@@ -114,3 +114,6 @@ No independently sourced founder testimonials found. Anderson's portfolio founde
 [^12]: TechCrunch, "Former Microsoft Execs Lead $10 Million Round In Ruby On Rails Startup Heroku," May 10, 2010. Confirms Heroku Series B of $10M led by Ignition Partners with existing investors Redpoint Ventures, Baseline Ventures, and Harrison Metal Capital participating. Accessed June 2026. https://techcrunch.com/2010/05/10/former-microsoft-execs-lead-10-million-round-in-ruby-on-rails-startup-heroku/
 [^13]: Tracxn, "PagerDuty Funding Rounds & Investors," accessed June 2026. Confirms $1.9M Seed round dated 2010-09-29 with Baseline Ventures, Andreessen Horowitz, and Harrison Metal as participants. https://tracxn.com/d/companies/pagerduty/__rK9VqMbFGMED31mcW4ShoKwAG0ukqH24TRB_In2c2RQ
 [^14]: TechCrunch, "PagerDuty Raises $10.7M Round From Andreessen Horowitz For IT Alert Service Modeled On AWS System," January 31, 2013. Confirms $10.7M Series A led by Andreessen Horowitz with existing seed investors Harrison Metal, Baseline Ventures and Ignition Partners participating. Accessed June 2026. https://techcrunch.com/2013/01/31/pagerduty-raises-10-2m-round-from-andreessen-horowitz-for-it-alert-service-modeled-on-aws-system/
+[^15]: PR Newswire, "Expensify 'Expense reports that don't suck!' Announces $5.7M Series A Financing, 100K Users," 2010. Confirms $1M seed (May 2009) with Hillsven Capital, Baseline Capital, and Travis Kalanick — all participating again in Series A. Accessed June 2026. https://www.prnewswire.com/news-releases/expensify-expense-reports-that-dont-suck-announces-57m-series-a-financing-100k-users-102443404.html
+[^16]: TechCrunch, "Crashlytics, A Crash-Reporting Solution For Mobile Developers, Raises $1 Million," October 13, 2011. Confirms $1M seed co-led by Flybridge Capital Partners and Baseline Ventures, with multiple angel participants. Accessed June 2026. https://techcrunch.com/2011/10/13/crashlytics-a-crash-reporting-solution-for-mobile-developers-raises-1-million/
+[^17]: TechCrunch, "Read It Later Raises $2.5 Million, Wants To Become The Dropbox Of Content," July 26, 2011. Confirms first institutional round of $2.5M with Foundation Capital lead and Baseline Ventures, Google Ventures, Founder Collective as participants. Accessed June 2026. https://techcrunch.com/2011/07/26/read-it-later-raises-2-5-million-wants-to-become-the-dropbox-of-content/
