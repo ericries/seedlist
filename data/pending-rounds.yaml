@@ -20,6 +20,62 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: s company yesterday raised $75B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: s company yesterday
+  parsed_amount: $75B
+  parsed_round: null
+  status: pending
+- title: Climate First Bancorp raised $67M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: Climate First Bancorp
+  parsed_amount: $67M
+  parsed_round: null
+  status: pending
+- title: Endurance Energy raised $54M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: Endurance Energy
+  parsed_amount: $54M
+  parsed_round: Series A
+  status: pending
+- title: Dapple raised $30M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: Dapple
+  parsed_amount: $30M
+  parsed_round: Seed
+  status: pending
+- title: Equal AI raised $30M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: Equal AI
+  parsed_amount: $30M
+  parsed_round: Series B
+  status: pending
+- title: Remedy raised $19M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: Remedy
+  parsed_amount: $19M
+  parsed_round: Series A
+  status: pending
+- title: Enera raised $2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-14'
+  parsed_company: Enera
+  parsed_amount: $2M
+  parsed_round: null
+  status: pending
 - title: Equal AI raises $30M to screen calls so Indians don’t have to
   url: https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/
   source: techcrunch
@@ -851,60 +907,4 @@ pending_rounds:
   parsed_company: Ramp
   parsed_amount: $750M
   parsed_round: null
-  status: processed
-- title: Collate raised $95M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Collate
-  parsed_amount: $95M
-  parsed_round: null
-  status: processed
-- title: FirstClub raised $55M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: FirstClub
-  parsed_amount: $55M
-  parsed_round: Series B
-  status: processed
-- title: Honeycomb raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Honeycomb
-  parsed_amount: $40M
-  parsed_round: null
-  status: processed
-- title: Lassie raised $35M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Lassie
-  parsed_amount: $35M
-  parsed_round: Series A
-  status: processed
-- title: Fuse Energy raised $30M Series B extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Fuse Energy
-  parsed_amount: $30M
-  parsed_round: Series B Extension
-  status: processed
-- title: Airspeed raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Airspeed
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-- title: Scotch raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Scotch
-  parsed_amount: $20M
-  parsed_round: Series A
   status: processed

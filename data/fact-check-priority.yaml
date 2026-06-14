@@ -728,3 +728,11 @@ priority:
   status: resolved
   resolved: 2026-06-03
   resolution_note: "RESOLVED 2026-06-03 — SyntheticFi $13M Venture round (2026-06-09; Social Leverage, YC, NextGen VP/Brown Advisory, The Compound Capital Fund as syndicate participants, no specific lead identified) added as follow-on note to existing SyntheticFi Seed 2024 portfolio row with 3 independent primary citations [^17][^18][^19]: (1) The SaaS News, (2) BusinessWire press release, (3) Pulse 2.0. Sector updated to Fintech / RIA Tech."
+- slug: founders-fund
+  type: firm
+  reason: "led Endurance Energy Series A $54M (2026-06-11)"
+  added: 2026-06-14
+- slug: first-round-capital
+  type: firm
+  reason: "participated in Endurance Energy Series A $54M (2026-06-11)"
+  added: 2026-06-14
