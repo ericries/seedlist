@@ -160594,7 +160594,9 @@ vague_facts:
   line: '| LangChain | Seed | 2023 | AI / Developer Tools | Private [^18] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-06-03'
+  resolution_note: 'Resolved to 2023-04-04 via primary source (LangChain blog post announcement date) confirming Benchmark led $10M seed. Cross-verified with Contrary Research and Sacra. Added citation [^45].'
 - profile: firms/benchmark
   profile_name: Benchmark
   company: Applied Compute

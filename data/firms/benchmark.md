@@ -203,7 +203,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | dbt Labs | Early | ~2020 | Enterprise / Data | Private [^10] |
 | Persona | Early | ~2021 | Enterprise / Identity | Private [^10] |
 | Ironclad | Early | ~2021 | Enterprise / Legal | Private [^10] |
-| LangChain | Seed | 2023 | AI / Developer Tools | Private [^18] |
+| LangChain | Seed (led, $10M) | 2023-04-04 | AI / Developer Tools | Private [^18][^45] |
 | Exa Labs | Series B (led, $85M at $700M val) | 2025-09-03 | AI / Search | Private [^19][^41] |
 | Monaco | Series B (led, $50M) | 2026-05-12 | AI / Sales | Private [^42] |
 | Reducto | Series B (participated) | 2025-10-14 | AI / Document Intelligence | Private [^20][^43] |
@@ -355,3 +355,5 @@ The following table includes 45 Benchmark investments verified through press cov
 [^43]: PR Newswire, "Reducto Raises $75M Series B to Define the Future of AI Document Intelligence," October 14, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/reducto-raises-75m-series-b-to-define-the-future-of-ai-document-intelligence-302581462.html — $75M Series B led by Andreessen Horowitz on October 14, 2025; Benchmark, First Round Capital, BoxGroup, and Y Combinator participated. Total funding $108M.
 
 [^44]: Decart, "Decart Raises $300M: Tech Leaders Back the Company as Both Customers and Investors," May 18, 2026. Accessed May 2026. https://decart.ai/publications/decart-raises-300m-tech-leaders-back-the-company-as-both-customers-and-investors — Confirms Benchmark as returning investor in Decart's $300M round at $4B valuation led by Radical Ventures on May 18, 2026; new investors Nvidia, Atreides Management, Valor Equity Partners, Adobe Ventures, Toyota Ventures, eBay Ventures joined alongside returning backer Sequoia Capital.
+
+[^45]: LangChain blog, "Announcing our $10M seed round led by Benchmark," April 4, 2023. Accessed June 2026. https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark — Primary source confirming Benchmark led LangChain's $10M seed on 2023-04-04. Cross-referenced with Contrary Research (https://research.contrary.com/company/langchain) and Sacra (https://sacra.com/c/langchain/), both confirming April 2023 timing.
