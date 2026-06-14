@@ -661,3 +661,11 @@ priority:
   status: resolved
   resolved: 2026-06-03
   resolution_note: "RESOLVED 2026-06-03 — Fearn $5.5M Seed (2026-06-10, Kindred Ventures led; a16z speedrun batch 005, Designer Fund, Essence VC participated) added to andreessen-horowitz.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^61] explicitly naming a16z speedrun as participant; (2) a16z speedrun's own portfolio page [^62] confirming Fearn in batch 005; (3) Pulse 2.0 [^63] independently confirming a16z speedrun participation. Portfolio count updated from 76 to 77. Recent portfolio entries (Westmag 2026-06-02, Endra 2026-06-01, Town 2026-06-03) all have full YYYY-MM-DD dates — no vague facts in recent entries. fearn.md startup profile already exists with andreessen-horowitz in firms[] frontmatter."
+- slug: peak-xv-partners
+  type: firm
+  reason: "led Hoola Health Seed $5M (2026-06-10)"
+  added: 2026-06-14
+- slug: w-health-ventures
+  type: firm
+  reason: "participated in Hoola Health Seed $5M (2026-06-10)"
+  added: 2026-06-14
