@@ -205705,7 +205705,8 @@ vague_facts:
   line: '| Sleeper | Seed | 2017 | Fantasy Sports | Active [^24] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Resolved to 2017-08-11 via 3 independent primary sources — TechCrunch August 11 2017 [^34] (announcing $2M Birchmere VC + Expa seed), FinSMEs August 2017 [^35] ($2M seed confirmed), NewsCenter.io August 22 2017 [^36] ("Birchmere Ventures and Expa Capital participated in the round"). Portfolio row updated with date, $2M amount, and co-investor Birchmere.
 - profile: firms/expa
   profile_name: Expa
   company: Radar

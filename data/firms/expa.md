@@ -108,7 +108,7 @@ Based on 30 verified portfolio companies drawn from Expa's portfolio page and pu
 | Metabase | Seed (studio) | 2014 | Developer Tools/Analytics | Active; 80K+ companies [^22] |
 | Cmd | Seed (studio) | 2016 | Cybersecurity | Acquired by Elastic, 2021 [^10] |
 | Statespace (Aim Lab) | Pre-seed | 2017 | Esports/AI Training | Active; Riot minority stake [^23] |
-| Sleeper | Seed | 2017 | Fantasy Sports | Active [^24] |
+| Sleeper | Seed (~$2M, with Birchmere) | 2017-08-11 | Fantasy Sports | Active [^24][^34][^35][^36] |
 | Radar | Seed | 2017 | Location Infrastructure | Active; Series C $55M [^25] |
 | Aero | Seed (studio) | ~2018 | Premium Aviation | Active; $65M Series B (2022) [^18] |
 | Beacon | Seed | 2018 | Freight Forwarding | Active; $50M raised [^19] |
@@ -225,3 +225,6 @@ Based on 30 verified portfolio companies drawn from Expa's portfolio page and pu
 [^32]: Expa website, "Founder Spotlight: Aero," accessed March 2026. https://www.expa.com/news/founder-spotlight-aero
 
 [^33]: Expa website, "Founder Spotlight: Sleeper," accessed March 2026. https://www.expa.com/news/founder-spotlight-sleeper
+[^34]: TechCrunch, "Sleeper is the best place to host your fantasy football league this season," August 11, 2017, accessed June 2026. https://techcrunch.com/2017/08/11/sleeperbot-is-the-best-place-to-host-your-fantasy-football-league-this-season/
+[^35]: FinSMEs, "Sleeperbot Raises Approx. $2M in Seed Funding," August 2017, accessed June 2026. https://www.finsmes.com/2017/08/sleeperbot-raises-approx-2m-in-seed-funding.html
+[^36]: NewsCenter.io, "Sleeperbot Secures $2 Million," August 22, 2017, accessed June 2026. https://newscenter.io/2017/08/sleeperbot-secures-2-million/
