@@ -107,6 +107,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Niteshift | Seed (participated, $7M; led by Greylock/Jerry Chen) | 2026-06-10 | AI / Developer Tools / Cloud | Active [^niteshift2026a][^niteshift2026b][^niteshift2026c] |
 | Ramp | Series F (participated, $750M; led by ICONIQ, GIC, Ontario Teachers') | 2026-06-04 | Fintech | Active ($44B valuation) [^ramp2026f] |
 | Adaptive Innovations | Series A (participated, $50M; led by Felicis and Bain Capital Ventures) | 2026-06-02 | Healthcare / AI | Active [^adaptive2026] |
 | Helion Energy | Series G | 2026-06-04 | Fusion / Energy | Active ($15.5B valuation) [^helion2026] |
@@ -239,6 +240,12 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^24]: BusinessWire, "Forus Raises $160M to Build the Foundation for Modern Medicine," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine — Confirms BoxGroup participated in Forus's $160M growth round on May 12, 2026 at $1B valuation; round led by Thrive Capital with General Catalyst, Accel, Bain Capital Ventures, Redpoint, and Pear VC also participating.
 
 [^adaptive2026]: Adaptive Innovations blog, "Introducing Adaptive Innovations," June 2, 2026. Accessed June 2026. https://www.adaptive.co/blog/introducing-adaptive-innovations/ — Confirms BoxGroup participated in Adaptive Innovations' $50M Series A on June 2, 2026; round led by Felicis and Bain Capital Ventures, with Optum Ventures, Sunflower Capital, Conviction, SV Angel, Dorm Room Fund, and Constellation also participating.
+
+[^niteshift2026a]: TechCrunch, "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in," June 10, 2026. Accessed June 2026. https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/ — Confirms BoxGroup participated in Niteshift's $7M seed on 2026-06-10, led by Greylock (Jerry Chen), with Amplify Partners and SV Angel also participating; angels included Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin.
+
+[^niteshift2026b]: PressRelease.com, "Niteshift Raises $7 Million Seed Round to Power the Cloud Platform for AI Coding Agents," June 10, 2026. Accessed June 2026. https://www.pressrelease.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding — Official announcement confirms BoxGroup participation alongside Greylock (lead), Amplify Partners, and SV Angel.
+
+[^niteshift2026c]: Pulse 2.0, "Niteshift Raises $7 Million Seed Round To Build Cloud Infrastructure For AI Coding Agents," June 10, 2026. Accessed June 2026. https://pulse2.com/niteshift-raises-7-million-seed-round-to-build-cloud-infrastructure-for-ai-coding-agents/ — Independent third confirmation of BoxGroup participation.
 
 [^ramp2026f]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html — Confirms BoxGroup participated as a returning investor in Ramp's $750M Series F on June 4, 2026 at $44B valuation; round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Cross-referenced with TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
 

@@ -73,10 +73,16 @@ priority:
   type: firm
   reason: "participated in Niteshift seed (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Niteshift Seed $7M (2026-06-10, Greylock/Jerry Chen led; Amplify Partners, BoxGroup, SV Angel participating; angels Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin) added to boxgroup.md portfolio with 3 independent primary citations [^niteshift2026a][^niteshift2026b][^niteshift2026c]: (1) TechCrunch, (2) PressRelease.com official announcement, (3) Pulse 2.0."
 - slug: sv-angel
   type: firm
   reason: "participated in Niteshift seed (2026-06-10)"
   added: 2026-06-12
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Niteshift Seed $7M (2026-06-10, Greylock/Jerry Chen led; Amplify Partners, BoxGroup, SV Angel participating; angels Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin) added to sv-angel.md portfolio with 3 independent primary citations [^niteshift2026a][^niteshift2026b][^niteshift2026c]: (1) TechCrunch, (2) PressRelease.com official announcement, (3) Pulse 2.0."
 - slug: tiger-global-management
   type: firm
   reason: "participated in Current Series E (2026-06-11)"
@@ -732,7 +738,13 @@ priority:
   type: firm
   reason: "led Endurance Energy Series A $54M (2026-06-11)"
   added: 2026-06-14
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Endurance Energy Series A $54M (2026-06-11, Founders Fund led; Ascend, Construct Capital, Felicis Ventures, First Round Capital, Point72 Ventures, Riot Ventures, Voyager Ventures participating) already present in founders-fund.md portfolio with TechCrunch citation [^67] (Marina Temkin, June 11, 2026). Re-verified via TechCrunch primary source; investor list matches. No edits needed — entry was added in a prior sweep."
 - slug: first-round-capital
   type: firm
   reason: "participated in Endurance Energy Series A $54M (2026-06-11)"
   added: 2026-06-14
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Endurance Energy Series A $54M (2026-06-11, Founders Fund led; First Round Capital + Ascend, Construct Capital, Felicis, Point72 Ventures, Riot Ventures, Voyager Ventures participating) already present in first-round-capital.md portfolio (row at line 136) with TechCrunch citation [^24] (Marina Temkin, June 11, 2026). Re-verified via TechCrunch primary source. No edits needed — entry was added in a prior sweep."
