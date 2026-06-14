@@ -1,30 +1,36 @@
 ---
-name: "Fearn"
-slug: fearn
-type: startup
-location: "San Francisco, California"
-founded: 2025
-status_company: active
-sector: [ai, legaltech, vertical-saas]
-stage_latest: "Seed"
-total_raised: "$5.5M"
-investors:
-  - slug: steve-jang
-    round: seed
-    year: 2026
-    date: 2026-06-10
 firms:
-  - slug: andreessen-horowitz
-    round: seed
-    year: 2026
-    date: 2026-06-10
+- date: 2026-06-10
+  round: seed
+  slug: andreessen-horowitz
+  year: 2026
+- round: Seed (led, $5.5M)
+  slug: kindred-ventures
+  year: 2026
+founded: 2025
 founders:
-  - name: "Han Kim"
-    role: "CEO & Co-Founder"
-  - name: "Angela Gao"
-    role: "CTO & Co-Founder"
-status: published
+- name: Han Kim
+  role: CEO & Co-Founder
+- name: Angela Gao
+  role: CTO & Co-Founder
+investors:
+- date: 2026-06-10
+  round: seed
+  slug: steve-jang
+  year: 2026
 last_researched: 2026-06-13
+location: San Francisco, California
+name: Fearn
+sector:
+- ai
+- legaltech
+- vertical-saas
+slug: fearn
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5.5M
+type: startup
 ---
 
 ## About

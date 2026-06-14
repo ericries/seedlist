@@ -20983,7 +20983,7 @@ queue:
 - name: Andrew Johnstone
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Superhuman
   discovered_from: cal-henderson
@@ -26563,7 +26563,7 @@ queue:
 - name: Sten Tamkivi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Plural
   discovered_from: taavet-hinrikus
@@ -29192,3 +29192,67 @@ queue:
   added: '2026-03-17'
   discovered_from: arkeon
   source: Co-investor in Arkeon Seed (€594.2K, 2026-06-12)
+- name: Heartcore Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sten-tamkivi
+  source: Co-investor in IXI Series A with Plural
+- name: SmartCap
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sten-tamkivi
+  source: LP in Plural Fund II; co-investor in Frankenburg Series A
+- name: Frankenburg Technologies
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sten-tamkivi
+  source: Plural-led €30M Series A 2026-02-27; European missile manufacturing
+- name: IXI
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sten-tamkivi
+  source: Plural-led $36.5M Series A 2025-04-29; Finnish autofocus smart glasses
+- name: Skaala
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sten-tamkivi
+  source: Tamkivi+Hinrikus family-office/investment partnership (evolved from Taavet+Sten)
+- name: Ambient Sound Investments
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sten-tamkivi
+  source: Estonian holding co founded by Skype founding engineers; Tamkivi chairs
+    supervisory board
+- name: Second Rodeo
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-johnstone
+  source: Andrew Johnston's Boulder CO accelerator/fund, co-founded April 2025
+- name: Stashpad
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-johnstone
+  source: Reported Andrew Johnston / Craft Ventures scout investment (unverified)
+- name: Sifthub
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andrew-johnstone
+  source: Reported Andrew Johnston / Craft Ventures scout investment (unverified)
