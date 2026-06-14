@@ -98,7 +98,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | Genius | Early | ~2012 | Media / Music | [^3] |
 | Telegram | Early | ~2018 | Messaging | [^3] |
 | AppFlowy | Seed | 2023 | Developer Tools / Open Source | [^18] |
-| Mindset Health | Series A | 2023 | Digital Health | [^12] |
+| Mindset Health | Series A | 2023-03-21 | Digital Health | [^12] [^24] [^25] |
 | Spiraldot Health | Seed | 2025 | Healthcare | [^19] |
 | Scorbit | Seed | 2025 | Gaming / Hardware | [^20] |
 | Decrypt | Series A | 2022 | Media / Crypto | [^19] |
@@ -153,3 +153,5 @@ No independently sourced founder testimonials found. Audrey Capital's website do
 [^21]: Matt Mullenweg, "Are Investors Bad?" ma.tt blog, September 2024, accessed March 2026. https://ma.tt/2024/09/are-investors-bad/
 [^22]: Matt Mullenweg, "On the Evolution of Investing," ma.tt blog, January 25, 2012, accessed March 2026. https://ma.tt/2012/01/on-the-evolution-of-investing/
 [^23]: WP Tavern, "GitLab Raises $20 Million Series C Round, Adds Matt Mullenweg to Board of Directors," October 2017, accessed March 2026. https://wptavern.com/gitlab-raises-20-million-series-c-round-adds-matt-mullenweg-to-board-of-directors
+[^24]: PR Newswire, "Mindset Health raises US$12m to expand digital hypnotherapy apps & scale distribution," March 21, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/mindset-health-raises-us12m-to-expand-digital-hypnotherapy-apps--scale-distribution-301776991.html
+[^25]: MobiHealthNews, "Digital therapeutics startup Mindset Health scores $12M in Series A funding," March 22, 2023, accessed June 2026. https://www.mobihealthnews.com/news/anz/digital-therapeutics-startup-mindset-health-scores-12m-series-funding

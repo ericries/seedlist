@@ -3844,7 +3844,9 @@ vague_facts:
   line: '| Mindset Health | Series A | 2023 | Digital Health | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-14
+  resolution_note: "Verified Mindset Health Series A US$12M led by King River Capital, with Matt Mullenweg/Audrey Capital and Banana Capital among participants. Exact announcement date 2023-03-21 via PR Newswire press release; corroborated by MobiHealthNews (Mar 22) and AFR coverage already cited. Updated audrey-capital.md and banana-capital.md portfolio dates from 2023/~2021 to 2023-03-21, added [^24][^25] citations to audrey-capital and [^16][^17] to banana-capital."
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Spiraldot Health
@@ -3994,7 +3996,9 @@ vague_facts:
   line: '| Mindset Health | Seed | ~2021 | Health/Digital Therapeutics | Active | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-14
+  resolution_note: "Corrected — Banana Capital actually participated in Mindset Health's Series A (US$12M, 2023-03-21, led by King River Capital), not a 2021 Seed. Updated line to Series A 2023-03-21 with PR Newswire and MobiHealthNews citations [^16][^17]."
 - profile: firms/banana-capital
   profile_name: Banana Capital
   company: Forage
