@@ -1,19 +1,30 @@
 ---
-name: "Valor"
-slug: valor
-type: startup
-website: "https://www.onevalor.com"
-location: "Fort Worth, TX"
-status_company: active
-sector: [energy, oil-and-gas, vertical-saas, enterprise-software, ai]
-stage_latest: "Series B"
-investors: []
-firms: []
+firms:
+- round: Seed
+  slug: transition-vc
+  year: 2024
 founders:
-  - name: "Clifton DuBose"
-    role: "Co-Founder and Co-CEO"
-status: published
+- name: Clifton DuBose
+  role: Co-Founder and Co-CEO
+investors:
+- round: Seed
+  slug: david-helgason
+  year: 2024
 last_researched: 2026-06-14
+location: Fort Worth, TX
+name: Valor
+sector:
+- energy
+- oil-and-gas
+- vertical-saas
+- enterprise-software
+- ai
+slug: valor
+stage_latest: Series B
+status: published
+status_company: active
+type: startup
+website: https://www.onevalor.com
 ---
 
 ## About

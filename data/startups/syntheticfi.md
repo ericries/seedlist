@@ -1,29 +1,38 @@
 ---
-name: "SyntheticFi"
-slug: syntheticfi
-type: startup
-website: "https://syntheticfi.com"
-location: "San Francisco, CA"
-founded: 2023
-status_company: active
-sector: [fintech, wealth-management, ria-tech]
-stage_latest: "Venture"
-total_raised: "$13M (this round)"
-investors: []
 firms:
-  - slug: y-combinator
-    round: venture
-    year: 2026
-    date: 2026-06-09
-  - slug: social-leverage
-    round: venture
-    year: 2026
-    date: 2026-06-09
+- date: 2026-06-09
+  round: venture
+  slug: y-combinator
+  year: 2026
+- date: 2026-06-09
+  round: venture
+  slug: social-leverage
+  year: 2026
+founded: 2023
 founders:
-  - name: "Tony Yang"
-    role: "CEO & Co-Founder"
-status: published
+- name: Tony Yang
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: matt-ober
+  year: 2024
+- round: Seed
+  slug: tom-peterson
+  year: 2024
 last_researched: 2026-06-13
+location: San Francisco, CA
+name: SyntheticFi
+sector:
+- fintech
+- wealth-management
+- ria-tech
+slug: syntheticfi
+stage_latest: Venture
+status: published
+status_company: active
+total_raised: $13M (this round)
+type: startup
+website: https://syntheticfi.com
 ---
 
 ## About

@@ -26572,7 +26572,7 @@ queue:
 - name: Ian Hogarth
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Plural
   discovered_from: taavet-hinrikus
@@ -29263,3 +29263,81 @@ queue:
   added: '2026-03-17'
   discovered_from: hoola-health
   source: participated in Hoola Health Seed $5M (2026-06-10) alongside Peak XV's Surge
+- name: Plural Platform
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hogarth
+  source: Ian Hogarth's firm; co-founded 2021 by Hinrikus, Tamkivi, Helioui, Hogarth;
+    €250M fund
+- name: Oriole Networks
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hogarth
+  source: UCL spinout; photonics for AI compute; Plural-led £16.9M round Oct 2024
+- name: Phasecraft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hogarth
+  source: Quantum algorithms startup; Hogarth is Chair
+- name: Kheiron Medical
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hogarth
+  source: Radiology AI; Hogarth angel investor
+- name: Unitary
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hogarth
+  source: AI content moderation; Hogarth director per gov.uk filing
+- name: Supercritical
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ian-hogarth
+  source: Carbon removal startup; CEO is Hogarth's spouse per gov.uk filing
+- name: Jakamo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marten-mickos
+  source: Finnish B2B supplier collaboration; Mickos seed + advisor 2015
+- name: Erply
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marten-mickos
+  source: Estonian retail/POS software; Mickos angel 2010 Series A
+- name: Aiforia (Fimmic)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marten-mickos
+  source: Finnish AI pathology/imaging; Mickos angel 2015 €1.5M with Tekes
+- name: HackerOne
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marten-mickos
+  source: Bug bounty platform; Mickos CEO 2015-2024, now strategic advisor
+- name: Sami Honkonen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marten-mickos
+  source: Finnish angel; co-investor with Mickos in Tangled seed 2026-03-02

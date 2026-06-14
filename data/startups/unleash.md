@@ -1,23 +1,27 @@
 ---
-name: "Unleash"
-slug: unleash
-type: startup
-website: "https://www.getunleash.io"
-location: "Oslo, Norway"
-founded: 2019
-status_company: active
-sector:
-- developer-tools
-- open-source
-stage_latest: "Series B"
-total_raised: "$51.5M"
 firms:
 - round: series-b
   slug: spark-capital
   year: 2026
+founded: 2019
 founders: []
-status: published
+investors:
+- round: Early-stage
+  slug: marten-mickos
+  year: 2021
 last_researched: 2026-03-27
+location: Oslo, Norway
+name: Unleash
+sector:
+- developer-tools
+- open-source
+slug: unleash
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $51.5M
+type: startup
+website: https://www.getunleash.io
 ---
 
 ## About

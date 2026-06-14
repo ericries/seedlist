@@ -55,6 +55,9 @@ firms:
 - round: Series H
   slug: durable-capital-partners
   year: 2021
+- round: Angel (exited via IPO)
+  slug: independent
+  year: 2014
 founded: 2013
 founders:
 - name: Will Shu
@@ -77,6 +80,9 @@ investors:
 - round: Series H
   slug: henry-ellenbogen
   year: 2021
+- round: Angel (exited via IPO)
+  slug: ian-hogarth
+  year: 2014
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Deliveroo

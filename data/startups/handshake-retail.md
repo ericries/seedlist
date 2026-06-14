@@ -1,29 +1,44 @@
 ---
-name: "Handshake"
-slug: handshake-retail
-type: startup
-website: "https://handshake.deals"
-location: "London, UK"
-founded: 2024
-status_company: active
-sector: [retail, ai, enterprise-software]
-stage_latest: "Seed"
-total_raised: "$3.2M"
-investors:
-  - round: seed
-    year: 2026
-    date: 2026-06-01
 firms:
-  - round: seed
-    year: 2026
-    date: 2026-06-01
+- date: 2026-06-01
+  round: seed
+  year: 2026
+- round: Early
+  slug: long-journey-ventures
+  year: 2016
+- round: ~2018
+  slug: notable-capital
+  year: 2018
+founded: 2024
 founders:
-  - name: "Alex Lindsay"
-    role: "Co-Founder"
-  - name: "Peter Welch"
-    role: "Co-Founder"
-status: published
+- name: Alex Lindsay
+  role: Co-Founder
+- name: Peter Welch
+  role: Co-Founder
+investors:
+- date: 2026-06-01
+  round: seed
+  year: 2026
+- round: Early
+  slug: arielle-zuckerberg
+  year: 2016
+- round: ~2018
+  slug: jeff-richards
+  year: 2018
 last_researched: 2026-06-13
+location: London, UK
+name: Handshake
+sector:
+- retail
+- ai
+- enterprise-software
+slug: handshake-retail
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $3.2M
+type: startup
+website: https://handshake.deals
 ---
 
 ## About

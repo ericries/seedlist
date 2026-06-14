@@ -115,6 +115,9 @@ firms:
 - round: Early Stage
   slug: af-square
   year: 2015
+- round: Growth
+  slug: incite-ventures
+  year: 2011
 founded: 2012
 founders:
 - name: Josh Reeves
@@ -214,6 +217,9 @@ investors:
 - round: Seed
   slug: matt-humphrey
   year: 2014
+- round: Growth
+  slug: matt-rogers
+  year: 2011
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Gusto

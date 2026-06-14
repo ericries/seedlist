@@ -6,20 +6,20 @@ firms:
 - round: Growth
   slug: sequoia-capital
   year: 2023
-- round: Series G (Co-Led)
+- date: 2026-02-12
+  round: Series G (Co-Led)
   slug: coatue-management
   year: 2026
-  date: 2026-02-12
 - round: '2025'
   slug: d1-capital-partners
   year: 2025
 - round: Series G ($30B)
   slug: greenoaks-capital
   year: 2026
-- round: Series C
+- date: 2023-05-23
+  round: Series C
   slug: spark-capital
   year: 2023
-  date: 2023-05-23
 - round: Series D/E (Board Observer)
   slug: menlo-ventures
   year: 2023
@@ -59,6 +59,9 @@ firms:
 - round: Growth
   slug: general-catalyst
   year: 2024
+- round: Early angel
+  slug: independent
+  year: 2021
 founded: 2021
 founders:
 - name: Dario Amodei
@@ -84,20 +87,20 @@ investors:
 - round: Growth
   slug: sonya-huang
   year: 2023
-- round: Series G (Co-Led)
+- date: 2026-02-12
+  round: Series G (Co-Led)
   slug: philippe-laffont
   year: 2026
-  date: 2026-02-12
 - round: '2025'
   slug: dan-sundheim
   year: 2025
 - round: Series G ($30B)
   slug: neil-mehta
   year: 2026
-- round: Series C
+- date: 2023-05-23
+  round: Series C
   slug: yasmin-razavi
   year: 2023
-  date: 2023-05-23
 - round: Series D/E (Board Observer)
   slug: matt-murphy
   year: 2023
@@ -149,6 +152,9 @@ investors:
 - round: Series F (co-lead)
   slug: divesh-makan
   year: 2025
+- round: Early angel
+  slug: ian-hogarth
+  year: 2021
 last_researched: 2026-05-28
 location: San Francisco, CA
 name: Anthropic
