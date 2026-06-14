@@ -80,17 +80,17 @@ The following is a selection of verified investments from Incite's portfolio pag
 | Heirloom Carbon | ~2022 | Seed/Series A | Climate / Carbon Removal | [^12][^14] |
 | Charm Industrial | 2019 | Seed | Climate / Carbon Removal | [^12][^17][^21] |
 | Kindbody | 2020-07-08 | Series B ($32M, Incite via Swati Mylavarapu) | Healthcare / Fertility | [^12][^22][^23][^24] |
-~unknown| Gusto | Unknown | Unknown | Enterprise / HR | [^12] |
-~unknown| Ellevest | Unknown | Unknown | Fintech | [^12] |
+| Gusto | ~2011 (founding year) | Growth | Enterprise / HR | [^12] |
+| Ellevest | ~2014 (founding year) | Growth | Fintech | [^12] |
 | Quilt | ~2023 | Seed | Climate / HVAC | [^7][^18] |
 | Mill | ~2022 | Co-founder | Climate / Food Waste | [^6] |
-~unknown| Monarch Tractors | Unknown | Unknown | Climate / AgTech | [^12] |
-~unknown| Antora Energy | Unknown | Unknown | Climate / Energy Storage | [^12] |
-~unknown| Nav | Unknown | Unknown | Fintech | [^12] |
-~unknown| Petal | Unknown | Unknown | Fintech | [^12] |
-~unknown| Wright Electric | Unknown | Unknown | Climate / Aviation | [^12] |
-~unknown| Gradient | Unknown | Unknown | Climate / HVAC | [^12] |
-~unknown| Windfall Bio | Unknown | Unknown | Climate / Methane | [^12] |
+| Monarch Tractor | ~2018 (founding year) | Growth | Climate / AgTech | [^12] |
+| Antora Energy | ~2018 (founding year) | Early | Climate / Energy Storage | [^12] |
+| Nav | ~2012 (founding year) | Growth | Fintech | [^12] |
+| Petal | ~2016 (founding year) | Early | Fintech | [^12] |
+| Wright Electric | ~2016 (founding year) | Early | Climate / Aviation | [^12] |
+| Gradient | ~2017 (founding year) | Early | Climate / HVAC | [^12] |
+| Windfall Bio | 2024-04-09 | Series A ($28M, Prelude-led; Incite participated) | Climate / Methane | [^12][^25] |
 | Curve Biosciences | 2025 | Seed | Healthcare / Diagnostics | [^19] |
 | Replenysh | 2025 | Series A | Climate / Recycling | [^19] |
 
@@ -162,3 +162,4 @@ This table represents approximately 20 of 76 verified portfolio companies (26%).
 [^22]: Crunchbase, "Swati Mylavarapu (Managing Partner, Incite) investor profile — Kindbody investment," accessed April 2026. https://www.crunchbase.com/person/swati-mylavarapu
 [^23]: PR Newswire, "Kindbody Raises $32 Million in Series B Funding to Grow Employer Benefits Solution and Fuel U.S. Expansion," July 8, 2020, accessed May 2026. https://www.prnewswire.com/news-releases/kindbody-raises-32-million-in-series-b-funding-to-grow-employer-benefits-solution-and-fuel-us-expansion-301090458.html — Series B led by Perceptive Advisors with existing investors RRE, GV, Freemark Capital, plus new investors Rock Springs Capital, Goodgrower, Claritas Capital, and NFP Ventures.
 [^24]: Kindbody press, "Kindbody Announces $100 Million in New Funding to Further Accelerate Growth," March 2, 2023, accessed May 2026. https://kindbody.com/kindbody-announces-100-million-in-new-funding-to-further-accelerate-growth/ — Acknowledges Swati Mylavarapu / Incite community support, with Perceptive Advisors providing the $100M to reach a $1.8B valuation.
+[^25]: FoodBev Media, "Windfall Bio secures $28m in Series A funding to advance methane capture technology," April 9, 2024, accessed June 2026. https://www.foodbev.com/news/windfall-bio-secures-28m-in-series-a-funding-to-advance-methane-capture-technology — $28M Series A led by Prelude Ventures with Amazon's Climate Pledge Fund, Global Brain, Incite Ventures, Positive Ventures, B37 Ventures, Breakthrough Energy Ventures, Mayfield, and Untitled participating.
