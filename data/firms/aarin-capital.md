@@ -68,7 +68,7 @@ This table lists 14 named Aarin Capital portfolio investments confirmed by conte
 | Faircent | Early | ~2014 | — | Fintech/Lending | Active [^5] |
 | Vyome Biosciences | Early | ~2014 | — | Life Sciences | Active [^5] |
 | TripFactory | Series A | 2015 | Mohandas Pai | Travel | Active [^12] |
-| KleverKid | Early | 2015-05 | Mohandas Pai | EdTech | — [^13] |
+| KleverKid | Seed ($500K) | 2015-05-07 | Mohandas Pai | EdTech | Deadpooled (Dec 2016) [^13][^15] |
 | YourStory | Early | ~2014-2015 | — | Media | Active [^5][^14] |
 | Praxify | Early | ~2013 | — | HealthTech/SaaS | Acquired [^5] |
 | HomeLane | Early | ~2016 | — | Interior Design / Home | Active [^5] |
@@ -106,3 +106,4 @@ No independently sourced founder testimonials about Aarin Capital (as distinct f
 [^12]: YourStory, "TripFactory raises Series A funding from Aarin Capital," July 2015. https://yourstory.com/2015/07/tripfactory-funding
 [^13]: YourStory, "KleverKid, platform for tutors, raises funding from Mohandas Pai's Aarin Capital and others," May 2015. https://yourstory.com/2015/05/aarin-capital-funding-kleverkid
 [^14]: Planify, "Mohandas Pai Portfolio, Shareholdings & Investments," accessed May 2026. https://www.planify.in/investors/mohandas-pai/
+[^15]: Tracxn, "KleverKid - 2025 Company Profile, Funding & Competitors," accessed June 2026. Confirms 2015-05-07 seed round of $500K total with 4 investors (Aarin Capital, Sunil Kaul, Ananda Kallugadde, Maina Sahi); company deadpooled December 2016. https://tracxn.com/d/companies/kleverkid/__8d53zJyin86Q0xpUZsgeHqDZZiA07Bh0ZxWl9U6dUq0

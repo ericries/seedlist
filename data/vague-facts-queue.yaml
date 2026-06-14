@@ -942,7 +942,8 @@ vague_facts:
   line: '| KleverKid | Early | 2015-05 | Mohandas Pai | EdTech | — [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: "Resolved 2026-06-14 — KleverKid Seed $500K, 2015-05-07, Aarin Capital + 3 angel investors (Sunil Kaul, Ananda Kallugadde, Maina Sahi). Company deadpooled December 2016. Confirmed via Tracxn (https://tracxn.com/d/companies/kleverkid) and prior YourStory article [^13]. Updated portfolio row with exact date, amount, and status; added Tracxn citation [^15]."
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: YourStory
