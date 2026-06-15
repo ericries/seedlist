@@ -72,6 +72,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Sarvam becomes India’s newest AI unicorn with $234 million funding round
+    led by HCLTech
+  url: https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
+  source: techcrunch
+  date_found: '2026-06-15'
+  parsed_company: null
+  parsed_amount: $234M
+  parsed_round: null
+  status: pending
 - title: s company yesterday raised $75B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -902,11 +911,3 @@ pending_rounds:
   parsed_amount: $10M
   parsed_round: Seed
   status: processed
-- title: Benchmark raises its first-ever growth fund as part of $2B capital raise
-  url: https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/
-  source: techcrunch
-  date_found: '2026-06-04'
-  parsed_company: Benchmark
-  parsed_amount: $2B
-  parsed_round: null
-  status: skipped

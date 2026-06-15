@@ -770,3 +770,18 @@ priority:
   reason: "co-led Qorelo seed €3M (2026-06-15)"
   added: 2026-06-03
   status: pending
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "participated in Sarvam AI Series B \$234M (2026-06-15)"
+  added: 2026-06-03
+  status: pending
+- slug: khosla-ventures
+  type: firm
+  reason: "participated in Sarvam AI Series B \$234M (2026-06-15)"
+  added: 2026-06-03
+  status: pending
+- slug: techstars
+  type: firm
+  reason: "led Bestie Bite seed \$700K (2025-12-03)"
+  added: 2026-06-03
+  status: pending
