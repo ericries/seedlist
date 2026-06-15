@@ -146,6 +146,14 @@ pending_rounds:
   parsed_amount: $60M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/15/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-15-2026/
+  source: alleywatch
+  date_found: '2026-06-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: s company yesterday raised $75B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -903,12 +911,4 @@ pending_rounds:
   parsed_company: Cyera
   parsed_amount: $300M
   parsed_round: null
-  status: processed
-- title: Coralogix raised $200M Series
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Coralogix
-  parsed_amount: $200M
-  parsed_round: Series
   status: processed
