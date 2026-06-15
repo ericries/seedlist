@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: $21M
   parsed_round: null
   status: pending
+- title: Berlin’s Qorelo raises €3 million five months after launch to tackle SAP’s
+    2027 transformation crunch
+  url: https://www.eu-startups.com/2026/06/berlins-qorelo-raises-e3-million-five-months-after-launch-to-tackle-saps-2027-transformation-crunch/
+  source: eu-startups
+  date_found: '2026-06-15'
+  parsed_company: Berlin’s Qorelo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: s company yesterday raised $75B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -45,7 +54,8 @@ pending_rounds:
   parsed_amount: $67M
   parsed_round: null
   status: processed
-  notes: 'Created data/startups/climate-first-bancorp.md (2026-06-09, $67M strategic, Wellington + AllianceBernstein)'
+  notes: Created data/startups/climate-first-bancorp.md (2026-06-09, $67M strategic,
+    Wellington + AllianceBernstein)
 - title: Endurance Energy raised $54M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -899,14 +909,5 @@ pending_rounds:
   date_found: '2026-06-04'
   parsed_company: Scotch
   parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-- title: London’s Airspeed raises €17.2 million Series A to build AI-powered execution
-    layer for revenue teams
-  url: https://www.eu-startups.com/2026/06/londons-airspeed-raises-e17-2-million-series-a-to-build-ai-powered-execution-layer-for-revenue-teams/
-  source: eu-startups
-  date_found: '2026-06-04'
-  parsed_company: Airspeed
-  parsed_amount: null
   parsed_round: Series A
   status: processed
