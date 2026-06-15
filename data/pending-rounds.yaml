@@ -38,6 +38,40 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: The AI Startup Funding Boom Is Not A Global Phenomenon
+  url: https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/
+  source: crunchbase
+  date_found: '2026-06-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 6/15/26'
+  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-15-26/
+  source: alleywatch
+  date_found: '2026-06-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Madrid’s Orbio raises €18.09 million Series A to scale AI workforce platform
+    for frontline teams
+  url: https://www.eu-startups.com/2026/06/madrids-orbio-raises-e18-09-million-series-a-to-scale-ai-workforce-platform-for-frontline-teams/
+  source: eu-startups
+  date_found: '2026-06-15'
+  parsed_company: Madrid’s Orbio
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Italy’s female-founded HospitalityTech startup Bestie Bite raises €1.5 million
+    to expand its video review app in the US
+  url: https://www.eu-startups.com/2026/06/italys-female-founded-hospitalitytech-startup-bestie-bite-raises-e1-5-million-to-expand-its-video-review-app-in-the-us/
+  source: eu-startups
+  date_found: '2026-06-15'
+  parsed_company: Italy’s female-founded HospitalityTech startup Bestie Bite
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: s company yesterday raised $75B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -875,39 +909,3 @@ pending_rounds:
   parsed_amount: $2B
   parsed_round: null
   status: skipped
-- title: Profitable French scale-up Innovorder raises €20 million to accelerate AI-first
-    restaurant digitalisation
-  url: https://www.eu-startups.com/2026/06/profitable-french-scale-up-innovorder-raises-e20-million-to-accelerate-ai-first-restaurant-digitalisation/
-  source: eu-startups
-  date_found: '2026-06-04'
-  parsed_company: Profitable French scale-up Innovorder
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-- title: London’s Semble raises €34.7 million Series C to scale its healthcare management
-    platform for outpatient providers
-  url: https://www.eu-startups.com/2026/06/londons-semble-raises-e34-7-million-series-c-to-scale-its-healthcare-management-platform-for-outpatient-providers/
-  source: eu-startups
-  date_found: '2026-06-04'
-  parsed_company: London’s Semble
-  parsed_amount: null
-  parsed_round: Series C
-  status: skipped
-- title: Dutch startup New Dawn Bio raises €2.1 million to grow wood from tree stem
-    cells in bioreactors
-  url: https://www.eu-startups.com/2026/06/dutch-startup-new-dawn-bio-raises-e2-1-million-to-grow-wood-from-tree-stem-cells-in-bioreactors/
-  source: eu-startups
-  date_found: '2026-06-04'
-  parsed_company: Dutch startup New Dawn Bio
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-- title: 'Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech
-    With AI'
-  url: https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/
-  source: crunchbase
-  date_found: '2026-06-04'
-  parsed_company: Scotch
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
