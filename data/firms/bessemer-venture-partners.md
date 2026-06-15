@@ -155,6 +155,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Zenskar | Series A | 2026 | Fintech/Billing | [^9] |
 | Unframe | Series B (participant) | 2026-05-19 | AI/Enterprise | [^19] |
 | DriveNets | Series D ($410M, co-led with Atreides Management) | 2026-06-01 | AI Networking Infrastructure | [^21][^22][^23] |
+| Sarvam AI | Series B (participant; $234M first close of $300M round) | 2026-06-15 | AI / India | [^24][^25][^26] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -215,3 +216,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^22]: HPCwire, "DriveNets Raises $410M Series D to Scale Ethernet AI Fabric and Heterogeneous AI Infrastructure," June 1, 2026. Accessed June 2026. https://www.hpcwire.com/off-the-wire/drivenets-raises-410m-series-d-to-scale-ethernet-ai-fabric-and-heterogeneous-ai-infrastructure/
 
 [^23]: Silicon Report, "DriveNets raises $410M Series D with Bessemer, Atreides, AMD," June 2026. Accessed June 2026. https://www.siliconreport.com/drivenets-raises-410m-series-d-with-bessemer-atreides-amd-bfce482b3965922c — $8.5B valuation; Bessemer and Atreides Capital co-led with AMD participation.
+
+[^24]: TechCrunch, "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech," June 15, 2026. Accessed June 2026. https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/ — Confirms Bessemer Venture Partners participated in Sarvam AI's $234M Series B (first close of $300M round) led by HCLTech ($150M) at $1.5B post-money valuation. Existing backers Khosla Ventures and Peak XV Partners also participated.
+
+[^25]: BusinessToday, "Sarvam AI becomes unicorn with $234 million funding; HCLTech leads with $150 million," June 15, 2026. Accessed June 2026. https://www.businesstoday.in/technology/story/sarvam-ai-becomes-unicorn-with-234-million-funding-hcltech-leads-with-150-million-537017-2026-06-15 — Independent confirmation Bessemer Venture Partners participated alongside HCLTech (lead), Khosla Ventures, and Peak XV Partners.
+
+[^26]: TheNextWeb, "Sarvam is India's newest AI unicorn after a $234m round," June 15, 2026. Accessed June 2026. https://thenextweb.com/news/sarvam-india-ai-unicorn-234-million-hcltech — Third independent confirmation of Bessemer's participation.

@@ -72,6 +72,7 @@ A complete list of Techstars' 4,000+ portfolio companies is published at techsta
 | Bench Accounting | — | Techstars portfolio | Restructured 2024-2025 | [^1] |
 | Sketchfab | — | Techstars NYC | Acq. Epic Games 2021 | [^1] |
 | Volteum | 2023 (program); follow-on seed 2026-06-08 | Techstars London | Active; €2.5M Seed led by Movens Capital | [^15][^16][^17] |
+| Bestie Bite | Seed (Techstars led, $700K) 2025-12-03 | Techstars (Italy/Rome) | Active | [^18][^19][^20] |
 
 *This table is a curated subset; Techstars maintains the full portfolio listing on its corporate site [^4]. The "first eleven Techstars unicorns" are documented in Cohen's September 2020 retrospective and serve as the primary source for the 2009-2013 entries [^11]. Recent follow-on rounds where Techstars participated are also tracked here as confirmed signals of active alumni support.*
 
@@ -118,3 +119,9 @@ No independently sourced founder testimonials of the quality this section requir
 [^15]: FinSMEs, "Volteum Raises €2.5M in Funding," June 8, 2026. https://www.finsmes.com/2026/06/volteum-raises-e2-5m-in-funding.html
 [^16]: Tech.eu, "Volteum bags €2.5M to power EV and mixed fleet operations," June 8, 2026. https://tech.eu/2026/06/08/volteum-bags-eur25m-to-power-ev-and-mixed-fleet-operations/
 [^17]: Pulse 2.0, "Volteum Raises €2.5 Million To Expand EV And Mixed Fleet Management Platform Across Europe," June 8, 2026. https://pulse2.com/volteum-raises-e2-5-million-to-expand-ev-and-mixed-fleet-management-platform-across-europe/
+
+[^18]: Tech.eu, "Bestie Bite raises $700K to reinvent restaurant choices with AI gamification," December 3, 2025. Accessed June 2026. https://tech.eu/2025/12/03/bestie-bite-raises-700k-to-reinvent-restaurant-choices-with-ai-gamification/ — Confirms Techstars led $700K seed round for Rome-based Bestie Bite on December 3, 2025, with Zooga VC, Mamba Ventures, and angels Christian Marcon, Angelo La Rocca, and Claudio Vaccaro participating. Founded 2024 by Carlotta Robbe Di Lorenzo and Caterina Vertefeuille.
+
+[^19]: Vestbee, "Italian firm Bestie Bite secures $700k led by Techstars," December 2025. Accessed June 2026. https://www.vestbee.com/insights/articles/bestie-bite-secures-700k — Independent confirmation Techstars led the $700K round.
+
+[^20]: Startup Weekly, "Italian startup Bestie Bite lands $700k to revamp restaurant discovery with AI and gamification," December 2025. Accessed June 2026. https://startup-weekly.com/Italian-startup-Bestie-Bite-lands-700k-to-revamp-restaurant-discovery-with-AI-and-gamification/ — Third independent confirmation of Techstars-led round.

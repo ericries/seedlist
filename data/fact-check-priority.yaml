@@ -772,16 +772,16 @@ priority:
   status: pending
 - slug: bessemer-venture-partners
   type: firm
-  reason: "participated in Sarvam AI Series B \$234M (2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — Sarvam AI Series B $234M (2026-06-15, HCLTech-led $150M of $300M round, $1.5B valuation) verified via 3 independent primary sources (TechCrunch [^24], BusinessToday [^25], TheNextWeb [^26]). Row added to portfolio table with full citations."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "participated in Sarvam AI Series B \$234M (2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — Sarvam AI Series B $234M (2026-06-15, HCLTech-led; Khosla named as existing investor) verified via 3 independent primary sources (TechCrunch [^49], BusinessToday [^50], TheNextWeb [^51]). Row added to portfolio table."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: techstars
   type: firm
-  reason: "led Bestie Bite seed \$700K (2025-12-03)"
+  reason: "RESOLVED 2026-06-03 — Bestie Bite seed $700K (2025-12-03, Techstars led; Zooga VC, Mamba Ventures, angels Christian Marcon/Angelo La Rocca/Claudio Vaccaro participated) verified via 3 independent primary sources (Tech.eu [^18], Vestbee [^19], Startup Weekly [^20]). Rome-based, founded 2024 by Carlotta Robbe Di Lorenzo and Caterina Vertefeuille. Row added to portfolio table."
   added: 2026-06-03
-  status: pending
+  status: resolved
