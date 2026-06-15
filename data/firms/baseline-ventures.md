@@ -66,7 +66,7 @@ Based on 16 verified portfolio investments, the following patterns emerge. Note:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Instagram | Seed ($500K, co-invested with a16z) | 2010-03 | Photo sharing | Acquired (Facebook, $1B, 2012) | [^1][^2][^6] |
-| Twitter | Seed | ~2007 | Social media | IPO | [^2] |
+| Twitter | Seed | 2007-01 | Social media | IPO | [^2][^18] |
 | Heroku | Seed + Series B participant ($10M Ignition-led, 2010-05-10) | 2008 | Developer tools | Acquired (Salesforce) | [^2][^7][^8][^12] |
 | ExactTarget | Seed | ~2008 | Marketing SaaS | Acquired (Salesforce) | [^2][^5] |
 | Crashlytics | Seed ($1M, co-led with Flybridge Capital Partners) | 2011-10-13 | Developer tools | Acquired (Twitter) | [^2][^16] |
@@ -76,11 +76,11 @@ Based on 16 verified portfolio investments, the following patterns emerge. Note:
 | PagerDuty | Seed ($1.9M, participant) + Series A participant ($10.7M a16z-led, 2013-01-31) | 2010-09-29 | DevOps | IPO | [^1][^13][^14] |
 | SoFi | Series A | 2011 | Fintech | IPO | [^1][^11] |
 | Expensify | Seed ($1M, co-invested with Hillsven Capital and Travis Kalanick) | 2009-05 | Fintech SaaS | IPO | [^1][^15] |
-| WeWork | Seed | ~2011 | Co-working | IPO | [^1] |
+| WeWork | Seed (participant, $1M round) | 2011-10-25 | Co-working | IPO | [^1][^19] |
 | Figure | Seed | ~2018 | Fintech | Active | [^1] |
 | Pocket (Read It Later) | First institutional round ($2.5M, Foundation Capital-led; co-investors Google Ventures, Founder Collective) | 2011-07-26 | Content curation | Acquired (Mozilla) | [^2][^17] |
-| Dishcraft | Seed | ~2017 | Robotics | Active | [^2] |
-| Dusty Robotics | Seed | ~2018 | Construction robotics | Active | [^3] |
+| Dishcraft Robotics | Series A ($25M+, co-led with First Round Capital and Lemnos) | 2019-06-18 | Robotics | Active | [^2][^20] |
+| Dusty Robotics | Seed (participant, returning investor in $5M extension led by NextGen Venture Partners) | 2019-12-16 | Construction robotics | Active | [^3][^21] |
 
 Note: Years marked with "~" are approximate based on company founding dates and Baseline's investment timing. This represents approximately 16% of 100+ claimed investments.
 
@@ -117,3 +117,7 @@ No independently sourced founder testimonials found. Anderson's portfolio founde
 [^15]: PR Newswire, "Expensify 'Expense reports that don't suck!' Announces $5.7M Series A Financing, 100K Users," 2010. Confirms $1M seed (May 2009) with Hillsven Capital, Baseline Capital, and Travis Kalanick — all participating again in Series A. Accessed June 2026. https://www.prnewswire.com/news-releases/expensify-expense-reports-that-dont-suck-announces-57m-series-a-financing-100k-users-102443404.html
 [^16]: TechCrunch, "Crashlytics, A Crash-Reporting Solution For Mobile Developers, Raises $1 Million," October 13, 2011. Confirms $1M seed co-led by Flybridge Capital Partners and Baseline Ventures, with multiple angel participants. Accessed June 2026. https://techcrunch.com/2011/10/13/crashlytics-a-crash-reporting-solution-for-mobile-developers-raises-1-million/
 [^17]: TechCrunch, "Read It Later Raises $2.5 Million, Wants To Become The Dropbox Of Content," July 26, 2011. Confirms first institutional round of $2.5M with Foundation Capital lead and Baseline Ventures, Google Ventures, Founder Collective as participants. Accessed June 2026. https://techcrunch.com/2011/07/26/read-it-later-raises-2-5-million-wants-to-become-the-dropbox-of-content/
+[^18]: Crunchbase, "Seed Round - Twitter - 2007-01-01," accessed June 2026. Lists Twitter's seed round dated January 2007 with Baseline Ventures among early backers. https://www.crunchbase.com/funding_round/twitter-seed--b58b178d
+[^19]: Crunchbase, "Seed Round - WeWork - 2011-10-25," accessed June 2026. Lists $1M seed round dated October 25, 2011. https://www.crunchbase.com/funding_round/wework-seed--118b348e
+[^20]: TechCrunch, "Dishcraft launches with a massive robotics-powered dishwashing system," June 18, 2019. Confirms >$25M round with Baseline Ventures, First Round Capital, and Lemnos as lead investors; quotes Steve Anderson on his investment rationale. Accessed June 2026. https://techcrunch.com/2019/06/18/dishcraft-launches-with-a-massive-robotics-powered-dishwashing-system/
+[^21]: PRWeb, "Dusty Robotics Raises $5M in Strategic Seed Funding," December 16, 2019. Confirms $5M seed extension led by NextGen Venture Partners with Baseline Ventures, Root Ventures, and Cantos Ventures as returning investors; brought total to $7.2M. Accessed June 2026. https://www.prweb.com/releases/dusty-robotics-raises-5m-in-strategic-seed-funding-812594556.html

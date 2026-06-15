@@ -111,10 +111,11 @@ Based on 38 verified investments compiled from Tribe Capital's portfolio page, C
 | Shiprocket | Series C3 (co-lead) | 2021-02-18 | Logistics | [^31] |
 | Blackbuck | Series E (co-lead) | 2021-07-21 | Logistics | [^32] [^33] |
 ~unknown| MoonPay | — | — | Crypto | [^7] |
-~unknown| Chipper Cash | — | — | Fintech | [^8] |
+| Chipper Cash | Series C | 2021-05-31 | Fintech | [^34] |
+| Chipper Cash | Series C extension | 2021-11-01 | Fintech | [^35] |
 ~unknown| Momentus | — | — | Space | [^7] |
-~unknown| Saildrone | — | — | Robotics | [^7] |
-~unknown| Commure/Athelas | — | — | Healthcare | [^7] |
+| Saildrone | Series C | 2021-10-18 | Robotics/Ocean Intelligence | [^36] |
+| Athelas (now Commure) | Series A (co-lead) | 2022-01-31 | Healthcare | [^37] |
 ~unknown| Binance.US | — | — | Crypto | [^7] |
 ~unknown| Airtable | — | — | SaaS | [^15] |
 | Digital Currency Group | Undisclosed (via Social Capital) | ~2016 | Crypto | [^1] |
@@ -197,3 +198,7 @@ No independently sourced founder testimonials found. Docker CEO Scott Johnston d
 [^31]: Business Standard, "Shiprocket raises $27 mn from Silicon Valley's Tribe Capital, March Capital," February 18, 2021, accessed June 2026. https://www.business-standard.com/article/companies/shiprocket-raises-27-mn-from-silicon-valley-s-tribe-capital-march-capital-121021800420_1.html
 [^32]: TechCrunch, "India's BlackBuck valued at $1 billion in $67 million fundraise," July 21, 2021, accessed June 2026. Tribe Capital, IFC Emerging Asia Fund, and VEF co-led the Series E. https://techcrunch.com/2021/07/21/indias-blackbuck-valued-at-1-billion-in-67-million-fundraise/
 [^33]: Crunchbase, "Blackbuck Series E funding round, July 22, 2021," accessed June 2026. https://www.crunchbase.com/funding_round/zinka-logistics-series-e--e64eae5c
+[^34]: TechPoint, "Chipper Cash raises $100 Million in a Series C funding round," May 31, 2021, accessed June 2026. SVB Capital led; Tribe Capital among existing backers participating. https://techpointmag.com/chipper-cash-raises-100-million-in-funding-round/
+[^35]: TechCrunch, "Chipper Cash gets $2B valuation with $150M extension round led by FTX," November 1, 2021, accessed June 2026. FTX led; Tribe Capital among existing investors participating. https://techcrunch.com/2021/11/01/chipper-cash-gets-2b-valuation-with-150m-extension-round-led-by-ftx/
+[^36]: Saildrone press release, "Saildrone Closes $100 Million Series C Funding Round to Advance Ocean Intelligence Products," October 18, 2021, accessed June 2026. BOND led; Tribe Capital listed as participating previous investor. https://www.saildrone.com/media-room/press-releases/saildrone-announces-series-c-funding
+[^37]: Tracxn, "Athelas funding rounds and investors — $132M Series A January 31, 2022, co-led by General Catalyst and Tribe Capital at $1.5B valuation," accessed June 2026. https://tracxn.com/d/companies/athelas/__VOvKsAvbtJYG9FCjH3tiMaJBSWsJABL9gFkjxwJ9ako/funding-and-investors

@@ -4118,7 +4118,8 @@ vague_facts:
   line: '| Twitter | Seed | ~2007 | Social media | IPO | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Updated to 2007-01 with Crunchbase Twitter seed round citation [^18]'
 - profile: firms/baseline-ventures
   profile_name: Baseline Ventures
   company: Heroku
@@ -4218,7 +4219,8 @@ vague_facts:
   line: '| WeWork | Seed | ~2011 | Co-working | IPO | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Updated to 2011-10-25 with Crunchbase WeWork seed round citation [^19]'
 - profile: firms/baseline-ventures
   profile_name: Baseline Ventures
   company: Figure
@@ -4248,7 +4250,8 @@ vague_facts:
   line: '| Dishcraft | Seed | ~2017 | Robotics | Active | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Updated to Series A 2019-06-18 ($25M+, co-led with First Round and Lemnos) with TechCrunch citation [^20]'
 - profile: firms/baseline-ventures
   profile_name: Baseline Ventures
   company: Dusty Robotics
@@ -4258,7 +4261,8 @@ vague_facts:
   line: '| Dusty Robotics | Seed | ~2018 | Construction robotics | Active | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Updated to seed extension 2019-12-16 ($5M led by NextGen Venture Partners with Baseline as returning investor) with PRWeb citation [^21]'
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Coinbase
