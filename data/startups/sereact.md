@@ -1,18 +1,26 @@
 ---
-name: "Sereact"
-slug: sereact
-type: startup
-website: "https://sereact.ai"
-location: "Stuttgart, Germany"
-founded: 2021
-status_company: active
-sector: [ai, robotics, vision-language-action, industrial, deeptech]
-stage_latest: "Series B"
-total_raised: "$140M+"
 firms: []
-investors: []
-status: published
+founded: 2021
+investors:
+- round: Series A
+  slug: nathan-benaich
+  year: 2024
 last_researched: 2026-04-27
+location: Stuttgart, Germany
+name: Sereact
+sector:
+- ai
+- robotics
+- vision-language-action
+- industrial
+- deeptech
+slug: sereact
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $140M+
+type: startup
+website: https://sereact.ai
 ---
 
 ## About

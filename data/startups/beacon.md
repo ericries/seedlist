@@ -1,25 +1,46 @@
 ---
-name: "Beacon"
-slug: beacon
-type: startup
-website: "https://beacon.com"
-location: "Toronto, Canada / San Francisco, CA"
-founded: 2024
-status_company: active
-sector: [AI, enterprise-software, vertical-saas]
-stage_latest: "Series C"
-total_raised: "$500M+"
-investors: []
 firms:
-  - slug: general-catalyst
-    round: series-c
-    year: 2026
-    date: 2026-06-09
+- date: 2026-06-09
+  round: series-c
+  slug: general-catalyst
+  year: 2026
+- round: Seed
+  slug: expa
+  year: 2018
+- round: Angel
+  slug: 10100
+  year: 2019
+- round: '2025'
+  slug: ramp
+  year: 2025
+founded: 2024
 founders:
-  - name: "Nilam Ganenthiran"
-    role: "Founder & CEO"
-status: published
+- name: Nilam Ganenthiran
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: garrett-camp
+  year: 2018
+- round: Angel
+  slug: travis-kalanick
+  year: 2019
+- round: '2025'
+  slug: eric-glyman
+  year: 2025
 last_researched: 2026-06-15
+location: Toronto, Canada / San Francisco, CA
+name: Beacon
+sector:
+- AI
+- enterprise-software
+- vertical-saas
+slug: beacon
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $500M+
+type: startup
+website: https://beacon.com
 ---
 
 ## About

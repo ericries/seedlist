@@ -148,6 +148,9 @@ investors:
 - round: Early (Seed/Series A)
   slug: lee-linden
   year: 2023
+- round: Seed/Series A
+  slug: nathan-benaich
+  year: 2022
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

@@ -4844,7 +4844,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Niko Bonatsos
   type: individual
@@ -29533,3 +29533,40 @@ queue:
   firm: Beacon
   discovered_from: beacon
   source: founder & CEO of Beacon
+- name: Black Forest Labs
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nathan-benaich
+  source: Air Street portfolio; FLUX text-to-image models; founded by ex-Stability
+    AI Stable Diffusion creators
+- name: Poolside
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nathan-benaich
+  source: Air Street portfolio; AI coding foundation model company
+- name: Profluent
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nathan-benaich
+  source: Air Street portfolio; AI protein design; founded by Ali Madani (ex-Salesforce
+    Research)
+- name: Delian Alliance Industries
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nathan-benaich
+  source: Air Street portfolio; AI-first defense
+- name: Enveda Biosciences
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nathan-benaich
+  source: Air Street portfolio; techbio / drug discovery
