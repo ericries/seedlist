@@ -785,3 +785,33 @@ priority:
   reason: "RESOLVED 2026-06-03 — Bestie Bite seed $700K (2025-12-03, Techstars led; Zooga VC, Mamba Ventures, angels Christian Marcon/Angelo La Rocca/Claudio Vaccaro participated) verified via 3 independent primary sources (Tech.eu [^18], Vestbee [^19], Startup Weekly [^20]). Rome-based, founded 2024 by Carlotta Robbe Di Lorenzo and Caterina Vertefeuille. Row added to portfolio table."
   added: 2026-06-03
   status: resolved
+- slug: emergence-capital
+  type: firm
+  reason: "led Radical Numerics $50M Seed (2026-06-15)"
+  added: 2026-06-03
+  status: pending
+- slug: obvious-ventures
+  type: firm
+  reason: "participated in Radical Numerics $50M Seed (2026-06-15)"
+  added: 2026-06-03
+  status: pending
+- slug: patrick-collison
+  type: investor
+  reason: "pre-seed investor in Radical Numerics (2025)"
+  added: 2026-06-03
+  status: pending
+- slug: index-ventures
+  type: firm
+  reason: "co-led NewCore pre-seed and participated in expanded seed ($66M total, 2026-06-15)"
+  added: 2026-06-03
+  status: pending
+- slug: assaf-rappaport
+  type: investor
+  reason: "angel investor in NewCore expanded seed (2026-06-15)"
+  added: 2026-06-03
+  status: pending
+- slug: yotam-segev
+  type: investor
+  reason: "angel investor in NewCore expanded seed (2026-06-15)"
+  added: 2026-06-03
+  status: pending

@@ -81,6 +81,71 @@ pending_rounds:
   parsed_amount: $234M
   parsed_round: null
   status: pending
+- title: Undo secures €31 million to bring runtime context to AI-assisted software
+    engineering
+  url: https://www.eu-startups.com/2026/06/undo-secures-e31-million-to-bring-runtime-context-to-ai-assisted-software-engineering/
+  source: eu-startups
+  date_found: '2026-06-15'
+  parsed_company: Undo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Radical Numerics raised $50M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: Radical Numerics
+  parsed_amount: $50M
+  parsed_round: Seed
+  status: pending
+- title: NewCore raised $66M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: NewCore
+  parsed_amount: $66M
+  parsed_round: null
+  status: pending
+- title: Orbio raised $21M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: Orbio
+  parsed_amount: $21M
+  parsed_round: Series A
+  status: pending
+- title: Podium Automation raised $18M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: Podium Automation
+  parsed_amount: $18M
+  parsed_round: Series A
+  status: pending
+- title: ChatSee.ai raised $6.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: ChatSee.ai
+  parsed_amount: $6.5M
+  parsed_round: Seed
+  status: pending
+- title: Qorelo raised $3.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: Qorelo
+  parsed_amount: $3.5M
+  parsed_round: Seed
+  status: pending
+- title: m. Messari had raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-15'
+  parsed_company: m. Messari had
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
 - title: s company yesterday raised $75B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -846,68 +911,4 @@ pending_rounds:
   parsed_company: Coralogix
   parsed_amount: $200M
   parsed_round: Series
-  status: processed
-- title: Factorial raised $150M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Factorial
-  parsed_amount: $150M
-  parsed_round: Series D
-  status: processed
-- title: Town raised $55M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Town
-  parsed_amount: $55M
-  parsed_round: Series A
-  status: processed
-- title: Adaptive Innovations raised $50M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Adaptive Innovations
-  parsed_amount: $50M
-  parsed_round: Series A
-  status: processed
-- title: Forage raised $40M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Forage
-  parsed_amount: $40M
-  parsed_round: Series B
-  status: processed
-- title: Centrical raised $39M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Centrical
-  parsed_amount: $39M
-  parsed_round: Series D
-  status: processed
-- title: Apoha raised $36M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Apoha
-  parsed_amount: $36M
-  parsed_round: null
-  status: processed
-- title: Findigs raised $32M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Findigs
-  parsed_amount: $32M
-  parsed_round: Series C
-  status: processed
-- title: Plot raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: Plot
-  parsed_amount: $10M
-  parsed_round: Seed
   status: processed
