@@ -145,6 +145,9 @@ investors:
 - round: Early/Seed
   slug: josh-buckley
   year: 2012
+- round: Early
+  slug: sahil-lavingia
+  year: 2013
 last_researched: 2026-05-04
 location: San Francisco, CA
 name: Figma

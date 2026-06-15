@@ -108,6 +108,9 @@ investors:
 - round: Early/Seed
   slug: josh-buckley
   year: 2015
+- round: Early
+  slug: sahil-lavingia
+  year: 2020
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Vercel

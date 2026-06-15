@@ -109,6 +109,9 @@ investors:
 - round: Seed
   slug: scott-belsky
   year: 2016
+- round: Early
+  slug: sahil-lavingia
+  year: 2016
 last_researched: 2026-03-19
 location: San Francisco, California
 name: Notion

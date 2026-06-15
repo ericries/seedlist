@@ -27009,7 +27009,7 @@ queue:
 - name: Avery Pennarun
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tailscale
   discovered_from: thomas-dohmke
@@ -29341,3 +29341,56 @@ queue:
   added: '2026-03-17'
   discovered_from: marten-mickos
   source: Finnish angel; co-investor with Mickos in Tangled seed 2026-03-02
+- name: Sonoma Brands Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: remedy
+  source: participant in Remedy Series A $20M (2026-06-11)
+- name: SHL Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sahil-lavingia
+  source: Sahil Lavingia's rolling fund on AngelList ($5M/year, B2B/SaaS/devtools)
+- name: Gumroad
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sahil-lavingia
+  source: Sahil Lavingia's company; Kleiner Perkins Series A 2012, $350M+ paid to
+    creators
+- name: Verifiable
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sahil-lavingia
+  source: Sahil Lavingia angel portfolio company
+- name: Brad Fitzpatrick
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tailscale
+  discovered_from: avery-pennarun
+  source: Tailscale co-founder, ex-Google, creator of LiveJournal/memcached
+- name: David Crawshaw
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tailscale
+  discovered_from: avery-pennarun
+  source: Tailscale co-founder, ex-Google
+- name: David Carney
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tailscale
+  discovered_from: avery-pennarun
+  source: Tailscale co-founder, ex-Google

@@ -107,6 +107,9 @@ investors:
 - round: Early/Seed
   slug: josh-buckley
   year: 2017
+- round: Early
+  slug: sahil-lavingia
+  year: 2019
 last_researched: 2026-05-21
 location: San Francisco, CA
 name: Mercury
