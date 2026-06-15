@@ -8233,7 +8233,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool — and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 23,
+      "size": 24,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8346,6 +8346,10 @@
         {
           "slug": "immad-akhund",
           "name": "Immad Akhund"
+        },
+        {
+          "slug": "nathan-benaich",
+          "name": "Nathan Benaich"
         }
       ]
     },
@@ -9198,7 +9202,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 32,
+      "size": 33,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9349,6 +9353,10 @@
         {
           "slug": "sten-tamkivi",
           "name": "Sten Tamkivi"
+        },
+        {
+          "slug": "nathan-benaich",
+          "name": "Nathan Benaich"
         }
       ]
     },
@@ -9411,7 +9419,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 100,
+      "size": 101,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9865,6 +9873,10 @@
         {
           "slug": "sten-tamkivi",
           "name": "Sten Tamkivi"
+        },
+        {
+          "slug": "sahil-lavingia",
+          "name": "Sahil Lavingia"
         }
       ]
     },
@@ -11456,7 +11468,7 @@
       "name": "Authors Who Invest",
       "tagline": "They wrote the books founders actually read — then started writing checks. Venture capitalists who shaped startup thinking through bestsellers.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "ben-horowitz",
@@ -11511,6 +11523,10 @@
         {
           "slug": "alexis-ohanian",
           "name": "Alexis Ohanian"
+        },
+        {
+          "slug": "sahil-lavingia",
+          "name": "Sahil Lavingia"
         }
       ]
     },
@@ -12348,7 +12364,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves — but founders read their writing before pitching.",
       "type": "curated",
-      "size": 17,
+      "size": 19,
       "members": [
         {
           "slug": "paul-graham",
@@ -12430,6 +12446,14 @@
         {
           "slug": "ian-hogarth",
           "name": "Ian Hogarth"
+        },
+        {
+          "slug": "nathan-benaich",
+          "name": "Nathan Benaich"
+        },
+        {
+          "slug": "sahil-lavingia",
+          "name": "Sahil Lavingia"
         }
       ]
     },
