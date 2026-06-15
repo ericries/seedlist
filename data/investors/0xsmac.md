@@ -65,7 +65,7 @@ This analysis is based on Compound Crypto's publicly listed crypto portfolio [^7
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
 | The Graph | 2019 | Seed | [^16] |
-| Livepeer | 2019 | Series A | [Dempsey profile] |
+| Livepeer | 2019-06-17 | Series A ($8M, led by Northzone) | [^22][^23][^24] |
 | Stacks (Blockstack) | 2017–2018 | Token sale / early | [Dempsey profile] |
 | Casa | 2021-02-03 | Seed (existing investor, follow-on) | [^17] |
 | Casa | 2022-05-10 | Series A | [^18] |
@@ -140,3 +140,6 @@ No independently sourced founder testimonials found. Public sources confirm Comp
 [^19]: 0xSmac & Knower (Compound Writing), "DePIN's Imperfect Present & Promising Future: A Deep Dive," September 12, 2024. https://www.compound.vc/writing/depin
 [^20]: Blockworks, "0xResearch Podcast: Hyperliquid, Crypto AI, Cycle Dynamics, and Optimal Exits | 0xSmac, Tervo & Tolks," November 14, 2024. https://blockworks.co/podcast/0xresearch/f06d4fae-a1fc-11ef-9beb-d3e2e5617736
 [^21]: BuidlersTribe (LinkedIn), "What does the crypto future look like? | 0xSmac, CompoundVC," August 2023. https://www.linkedin.com/posts/buidlerstribe_what-does-the-crypto-future-look-like-activity-7094250242304348161-zvCU
+[^22]: Doug Petkanics (Livepeer Blog / Medium), "Announcing Livepeer's Series A, First Video Product, and Pilot Program," June 17, 2019. https://medium.com/livepeer-blog/announcing-livepeers-series-a-first-video-product-and-pilot-program-393dde0d1a05
+[^23]: TechCrunch, "Decentralized video infrastructure platform Livepeer raises $8M Series A," June 17, 2019. https://techcrunch.com/2019/06/17/decentralized-video-infrastructure-platform-livepeer-raises-8m-series-a/
+[^24]: Northzone, "Ethereum-Based Decentralized Video Streaming Startup Livepeer Raises $8M," June 19, 2019. https://northzone.com/2019/06/19/ethereum-based-decentralized-video-streaming-startup-livepeer-raises-8m/

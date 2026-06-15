@@ -59029,7 +59029,7 @@ vague_facts:
   line: '| Livepeer | 2019 | Series A | [^21] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
 - profile: investors/david-hirsch
   profile_name: David Hirsch
   company: Bionaut Labs
@@ -110339,7 +110339,7 @@ vague_facts:
   line: '| Livepeer | 2019 | Series A | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
 - profile: investors/michael-dempsey
   profile_name: Michael Dempsey
   company: Bionaut Labs
@@ -233214,7 +233214,7 @@ vague_facts:
   line: '| Livepeer | 2019 | Series A | [Dempsey profile] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
 - profile: investors/abhay-singhal
   profile_name: Abhay Singhal
   company: Razorpay
@@ -255094,7 +255094,7 @@ vague_facts:
   line: '| Livepeer | 2019 | Series A | [^21] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
 - profile: investors/david-hirsch
   profile_name: David Hirsch
   company: Bionaut Labs
@@ -296064,7 +296064,7 @@ vague_facts:
   line: '| Livepeer | 2019 | Series A | [^14] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
 - profile: investors/michael-dempsey
   profile_name: Michael Dempsey
   company: Bionaut Labs

@@ -71,7 +71,7 @@ This analysis is based on 11 verified investments in which Compound's participat
 | Stacks (Blockstack) | 2017-2018 | Token sale / early | [^18] |
 | Wayve | 2018 | Seed | [^19] |
 | The Graph | 2019 | Seed | [^20] |
-| Livepeer | 2019 | Series A | [^21] |
+| Livepeer | 2019-06-17 | Series A ($8M, led by Northzone) | [^21] |
 | Bionaut Labs | 2019 | Early stage | [^22] |
 | Talkspace | 2019 | Series D | [^23] |
 | Tia | 2020-05 | Series A | [^14] |

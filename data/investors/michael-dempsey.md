@@ -61,7 +61,7 @@ This analysis is based on 13 verified investments where Dempsey or Compound part
 | Stacks (Blockstack) | 2017-2018 | Token sale / early | [^7] |
 | Wayve | 2018 | Seed (co-led) | [^11] |
 | The Graph | 2019 | Seed | [^13] |
-| Livepeer | 2019 | Series A | [^14] |
+| Livepeer | 2019-06-17 | Series A ($8M, led by Northzone) | [^14] |
 | Bionaut Labs | 2019 | Early stage ($20M total) | [^15] |
 | Talkspace | 2019 | Series D | [^16] |
 | Tia | 2020-05 | Series A | [^17] |
