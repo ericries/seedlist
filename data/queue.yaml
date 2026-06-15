@@ -29570,3 +29570,17 @@ queue:
   added: '2026-03-17'
   discovered_from: nathan-benaich
   source: Air Street portfolio; techbio / drug discovery
+- name: LiveOak Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: artis
+  source: Lead investor in Artis $7.3M seed round (2026-06-12)
+- name: Capital Factory
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: artis
+  source: Co-investor in Artis $7.3M seed round (2026-06-12)
