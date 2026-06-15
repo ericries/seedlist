@@ -141,7 +141,7 @@ Based on startup profiles in this database, General Catalyst frequently co-inves
 
 ## Portfolio
 
-The following table includes 65 verified investments sourced from General Catalyst's portfolio page, press coverage, Crunchbase, and startup profiles in this database.
+The following table includes 72 verified investments sourced from General Catalyst's portfolio page, press coverage, Crunchbase, and startup profiles in this database.
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
@@ -201,6 +201,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | PhysicsX | Series C (participated) | 2026-06-08 | AI / Industrial Simulation | Private ($2.4B val) [^29][^69] |
 | Beacon Software | Series C (co-led with HarbourVest, $225M at $1.4B+ val) | 2026-06-09 | AI / Vertical SaaS / Roll-up | Private [^70] |
 | Current | Series E (participant, $80M at $1.5B val; Springcoast Partners led) | 2026-06-11 | Fintech / Consumer Banking / Neobank | Private [^71][^72][^73] |
+| Rylo (Nagish) | Growth (co-led via Customer Value Fund with Canaan, $85M at ~$500M val) | 2026-06-09 | AI / Accessibility / Communication | Private [^74][^75][^76] |
 | Charm Industrial | Growth | ~2018 (founded) | Climate / Carbon Removal | Private [^29] |
 | Pacific Fusion | Series A (led) | 2024-10-25 | Energy / Fusion | Private [^29][^49] |
 | Alsym Energy | Growth | ~2015 (founded) | Energy / Batteries | Private [^29] |
@@ -232,7 +233,7 @@ The following table includes 65 verified investments sourced from General Cataly
 | Cognition | $1B+ growth (co-led with Lux Capital and 8VC at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^66] |
 | Geordie AI | Series A (follow-on, $30M at ~$180M post-money; Balderton led) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Private [^67] |
 
-*Note: This table includes 71 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
+*Note: This table includes 72 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
 ## In Their Own Words
 
@@ -424,4 +425,10 @@ No independently sourced founder testimonials were found in this research pass. 
 [^72]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/11/2026," June 11, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/ — Independently confirms Current's $80M Series E at $1.5B valuation led by Springcoast Partners with General Catalyst among existing backers.
 
 [^73]: TheNextWeb, "Current Series E values the neobank below its 2021 peak," June 11, 2026. Accessed June 2026. https://thenextweb.com/news/current-series-e-1-5bn-down-round — Independently confirms $80M Series E at $1.5B valuation; General Catalyst among existing investor list.
+
+[^74]: BusinessWire / Yahoo Finance, "Rylo Launches Next Chapter With $85 Million in New Funding to Expand AI Communication Tools for the Deaf and Hard-of-Hearing Community," June 9, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/rylo-launches-next-chapter-85-130000268.html — Primary announcement: $85M growth round led by General Catalyst's Customer Value Fund and Canaan, with Vertex Ventures and Contour participating. Company rebranded from Nagish to Rylo.
+
+[^75]: Calcalist (CTech), "Rylo raises $85 million at $500 million valuation, targets $1 billion revenue by 2028," June 9, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/rjgulkbbgx — Independent confirmation: $85M raise at ~$500M valuation; total funding to $101M. Lead investors General Catalyst and Canaan; additional participants Cardumen, Vertex Precursor, K5.
+
+[^76]: news.fundsforngos.org, "Rylo Surpasses $100M in Total Funding with New $85M Growth Round Led by General Catalyst," June 10, 2026. Accessed June 2026. https://news.fundsforngos.org/2026/06/10/rylo-surpasses-100m-in-total-funding-with-new-85m-growth-round-led-by-general-catalyst/ — Confirms growth round led by General Catalyst Customer Value Fund with Canaan, Vertex Ventures, and Contour participating.
 

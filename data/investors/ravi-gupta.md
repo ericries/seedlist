@@ -9,9 +9,9 @@ stage_focus: [series-b, growth]
 sector_focus: [consumer, fintech, marketplaces, ai, infrastructure]
 check_size: "$10M-$200M"
 last_verified_investment:
-  date: 2023
-  company: "Sierra"
-  round: "Series A"
+  date: 2024-04-16
+  company: "Ramp"
+  round: "Series D-2"
 social:
   twitter: "@GuptaRK22"
   linkedin: "linkedin.com/in/ravi-gupta-9ba27856"
@@ -88,8 +88,8 @@ This table represents Gupta's verified investments. According to Signal by NFX, 
 | Fireblocks | 2021 | Series D ($310M) | Crypto/Fintech | [^14] |
 | Meter | 2022 | Series B ($38M) | Infrastructure | [^15] |
 | Fireblocks | 2022 | Series E ($550M) | Crypto/Fintech | [^14] |
-| Ramp | 2023 | Growth | Fintech | [^9] |
-| Sierra | 2023 | Series A | AI | [^9] |
+| Ramp | 2024-04-16 | Series D-2 ($150M; Khosla + Founders Fund led; Sequoia joined as new investor) | Fintech | [^9][^22] |
+| Sierra | 2024-02-13 | Series A ($110M total: $25M Benchmark + $85M Sequoia) | AI | [^9][^23][^24] |
 | Instacart | 2023 | Board seat (public) | Consumer/Marketplace | [^3] |
 | Benchling | 2021-04-14 | Series E (Sequoia Global Equities led, $200M) | Life Sciences SaaS | [^16][^19][^20][^21] |
 | Front | ~2020 | Growth | Enterprise | [^1] |
@@ -173,3 +173,9 @@ No additional independently sourced founder testimonials specifically about Ravi
 [^19]: Benchling press release, "Benchling Raises $200M Series E To Accelerate Biotech R&D," April 14, 2021, accessed May 2026. https://www.benchling.com/news/benchling-raises-200m-series-e-to-accelerate-biotech-rd — $200M Series E led by Sequoia Capital Global Equities; new investors Altimeter Capital, Byers Capital, and Elad Gil; existing investors Thrive Capital, Benchmark, Menlo Ventures, Alkeon Capital, ICONIQ, Lux Capital, Spark Capital, Lead Edge Capital.
 [^20]: PR Newswire, "Benchling Raises $200M Series E To Accelerate Biotech R&D," April 14, 2021, accessed May 2026. https://www.prnewswire.com/news-releases/benchling-raises-200m-series-e-to-accelerate-biotech-rd-301268494.html
 [^21]: CB Insights, "Sequoia-Backed Benchling Raises $200M To Accelerate Cloud-Powered R&D In Life Sciences," April 2021, accessed May 2026. https://www.cbinsights.com/research/benchling-series-e-funding/ — confirms $4B valuation at Series E.
+
+[^22]: Ramp Blog, "Ramp announces Series D-2 capital raise," April 16, 2024. Accessed June 2026. https://ramp.com/blog/ramp-april-2024-funding — Primary source: $150M Series D-2 at $7.65B valuation on April 16, 2024, co-led by Khosla Ventures and Founders Fund. Sequoia Capital joined as a new investor alongside Greylock and 8VC; existing investors Thrive Capital, General Catalyst, Sands Capital, D1 Capital, Lux Capital, ICONIQ Growth, Definition Capital, Contrary Capital doubled down.
+
+[^23]: Fortune, "Exclusive: Ex-Salesforce Co-CEO Bret Taylor and longtime Googler Clay Bavor raised $110 million to bring AI 'agents' to business," February 13, 2024. Accessed June 2026. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/ — Sierra launched February 13, 2024 with $110M raised; Sequoia Capital and Benchmark led.
+
+[^24]: Ravi Gupta on X (@GuptaRK22), February 13, 2024. Accessed June 2026. https://x.com/GuptaRK22/status/1757437303616856285 — Gupta personally congratulated Bret Taylor and Clay Bavor on Sierra's launch, noting he is "on the journey with Bret, Clay and @peterfenton" (Peter Fenton of Benchmark). Confirms Gupta as Sequoia's board representative.

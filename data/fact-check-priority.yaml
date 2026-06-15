@@ -752,4 +752,6 @@ priority:
   type: firm
   reason: "participated in Rylo $85M growth round (2026-06-09)"
   added: 2026-06-03
-  status: pending
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "RESOLVED 2026-06-03 — Rylo (formerly Nagish) $85M growth round (2026-06-09, co-led by GC Customer Value Fund + Canaan at ~$500M val; Vertex Ventures and Contour participating) added to general-catalyst.md portfolio with 3 independent citations [^74][^75][^76] (BusinessWire/Yahoo press release, Calcalist CTech, fundsforngos.org). Total raised by Rylo now $101M. Startup profile already exists at data/startups/rylo.md."
