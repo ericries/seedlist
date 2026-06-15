@@ -29409,3 +29409,127 @@ queue:
   firm: Climate First Bancorp
   discovered_from: climate-first-bancorp
   source: Founder & CEO of Climate First Bancorp; raised $67M strategic round 2026-06-09
+- name: Dawn Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: orbio
+  source: led Orbio Series A $21M (2026-06-14)
+- name: Visionaries
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: orbio
+  source: participated in Orbio Series A $21M (2026-06-14); prior investor
+- name: 2100 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: orbio
+  source: participated in Orbio Series A $21M (2026-06-14); prior investor
+- name: Sergi Bastardas
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Orbio
+  discovered_from: orbio
+  source: co-founder of Orbio
+- name: Nacho Travesí
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Orbio
+  discovered_from: orbio
+  source: co-founder of Orbio
+- name: Antonio Melé
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Orbio
+  discovered_from: orbio
+  source: co-founder of Orbio
+- name: HPI Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qorelo
+  source: co-led Qorelo seed €3M (2026-06-15); shaped by Hasso Plattner (SAP co-founder)
+- name: Caesar Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qorelo
+  source: co-led Qorelo seed €3M (2026-06-15)
+- name: 10x Founders
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qorelo
+  source: participated in Qorelo seed €3M (2026-06-15)
+- name: Adesso Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qorelo
+  source: participated in Qorelo seed €3M (2026-06-15)
+- name: Nicholas Torabi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Qorelo
+  discovered_from: qorelo
+  source: co-founder of Qorelo
+- name: Intrepid Growth Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon
+  source: participated in Beacon Series C $225M (2026-06-09)
+- name: Valiant Peregrine
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon
+  source: participated in Beacon Series C $225M (2026-06-09)
+- name: BDT & MSD Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon
+  source: participated in Beacon Series C $225M (2026-06-09)
+- name: Journey LP
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon
+  source: participated in Beacon Series C $225M (2026-06-09)
+- name: Sator Grove
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon
+  source: participated in Beacon Series C $225M (2026-06-09)
+- name: Nilam Ganenthiran
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Beacon
+  discovered_from: beacon
+  source: founder & CEO of Beacon

@@ -429,7 +429,8 @@ pending_rounds:
   parsed_company: Beacon
   parsed_amount: $225M
   parsed_round: Series C
-  status: pending
+  status: processed
+  processed_note: created profile beacon; Series C led by General Catalyst & HarbourVest
 - title: PointFive raised $60M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
