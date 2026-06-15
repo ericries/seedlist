@@ -73,7 +73,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Unit | Seed (co-led) | 2020 | Infrastructure/Embedded Finance | Active (Series B) | [^1][^10] |
-| Coast | Seed | 2020 | Payments/Fleet Management | Active (Series B) | [^1] |
+| Coast | Seed (led, $6M) | 2021-07-07 | Payments/Fleet Management | Active (Series B) | [^1][^15][^16] |
 | Relay | Seed | 2020 | Banking/SMB Neobank | Active (Series B) | [^1] |
 | Basis | Seed (led, $3.6M) | 2023-10 | Accounting/AI | Active (Series B, $1.15B valuation) | [^1][^13][^14] |
 | InScope | Seed | 2022 | Accounting/Reporting | Active (Series A) | [^1] |
@@ -124,3 +124,5 @@ Note: These testimonials are sourced from BTV's own website and marketing materi
 [^12]: Tech Funding News, "InstaSwitch lands $4.7M from Chicago Ventures, 8-Bit Capital to fix inactive business bank accounts with AI," May 5, 2026. https://techfundingnews.com/instaswitch-lands-4-7m-from-chicago-ventures-8-bit-capital-to-fix-inactive-business-bank-accounts-with-ai/
 [^13]: PR Newswire, "Basis Secures $3.6 Million to Bring AI to Accounting Firms," October 2023. https://www.prnewswire.com/news-releases/basis-secures-3-6-million-to-bring-ai-to-accounting-firms-301964975.html
 [^14]: SiliconANGLE, "AI accounting startup Basis secures $100M at $1.15B valuation as firms adopt agent-based workflows," February 24, 2026. https://siliconangle.com/2026/02/24/ai-accounting-startup-basis-secures-100m-1-15b-valuation-firms-adopt-agent-based-workflows/
+[^15]: TechCrunch, "After selling Bread last year for over $500M, this founder just raised millions for his new fintech startup," July 7, 2021. Confirms Coast's $6M seed led by Better Tomorrow Ventures with participation from Avid Ventures, Bessemer Venture Partners, BoxGroup, Foundation Capital, Greycroft, SciFi VC. https://techcrunch.com/2021/07/07/after-selling-bread-last-year-for-over-500m-founder-sets-out-to-build-the-financial-platform-for-the-future-of-transportation/
+[^16]: FinLedger, "Fleet financing startup Coast raises $6 million seed round," July 7, 2021. https://finledger.com/articles/fleet-financing-startup-coast-raises-6-million-seed-round/

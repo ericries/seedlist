@@ -4872,7 +4872,9 @@ vague_facts:
   line: '| Coast | Seed | 2020 | Payments/Fleet Management | Active (Series B) | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Coast $6M Seed was actually 2021-07-07 (not 2020), led by Better Tomorrow Ventures with Avid, Bessemer, BoxGroup, Foundation, Greycroft, SciFi VC. Verified via TechCrunch (2021-07-07), FinLedger (2021-07-07), Gaebler VC DB (2021-07-08). Updated portfolio row with exact date and citations [^15][^16]."
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Relay
