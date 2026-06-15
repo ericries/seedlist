@@ -748,3 +748,8 @@ priority:
   status: resolved
   resolved: 2026-06-03
   resolution_note: "RESOLVED 2026-06-03 — Endurance Energy Series A $54M (2026-06-11, Founders Fund led; First Round Capital + Ascend, Construct Capital, Felicis, Point72 Ventures, Riot Ventures, Voyager Ventures participating) already present in first-round-capital.md portfolio (row at line 136) with TechCrunch citation [^24] (Marina Temkin, June 11, 2026). Re-verified via TechCrunch primary source. No edits needed — entry was added in a prior sweep."
+- slug: general-catalyst
+  type: firm
+  reason: "participated in Rylo $85M growth round (2026-06-09)"
+  added: 2026-06-03
+  status: pending
