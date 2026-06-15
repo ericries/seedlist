@@ -67,7 +67,7 @@ This table includes only investments with independent source confirmation. Tracx
 | Haystack | 2021 | Seed ($1.2M) | [^11] |
 | June | 2021 | Seed ($2.36M) | [^11] |
 | MindPortal | 2021 | Seed ($5M) | [^11] |
-| ClearBrain | Pre-2020 | Angel (acquired 2020) | [^11] |
+| ClearBrain | 2018-02-08 | Seed ($1.2M, acquired by Amplitude 2020-03-10) | [^11][^15][^16] |
 | Navattic | 2022 | Seed ($4.25M, lead Canvas) | [^12][^14] |
 
 Two additional Tracxn portfolio entries are reported but not disclosed by name in publicly accessible records.
@@ -132,3 +132,5 @@ No independently sourced founder testimonials found.
 [^12]: Crunchbase, "Dan Siroker — Co-Founder & CEO @ Limitless AI (formerly Rewind AI)," accessed May 2026. https://www.crunchbase.com/person/dan-siroker
 [^13]: Y Combinator, "Pete Koomen: YC Partner," accessed May 2026. https://www.ycombinator.com/people/pete-koomen
 [^14]: Crunchbase, "Seed Round - Navattic," seed round closed March 17, 2022, led by Canvas with participation from 645 Ventures, Y Combinator, Dan Siroker, and Ben Thompson, accessed May 2026. https://www.crunchbase.com/funding_round/navattic-seed--26a2d296
+[^15]: Amplitude, "Amplitude Acquires Predictive Analytics Pioneer ClearBrain," March 10, 2020, accessed June 2026. https://amplitude.com/press/amplitude-acquires-clearbrain
+[^16]: Crunchbase, "Amplitude acquires ClearBrain," acquisition closed March 10, 2020; ClearBrain Seed round February 8, 2018 ($1.2M, 6 institutional + 2 angel investors), accessed June 2026. https://www.crunchbase.com/acquisition/amplitude-acquires-clearbrain--3ea0f28b
