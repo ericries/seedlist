@@ -104,7 +104,7 @@ Hugging Face is an open-source AI and machine learning platform founded in 2016 
 | May 2018 | Seed | $4M | Ronny Conway | — [^4] |
 | December 2019 | Series A | $15M | Lux Capital | A.Capital, Betaworks, Richard Socher, Greg Brockman [^5][^6] |
 | March 2021 | Series B | $40M | Addition | Lux Capital, A.Capital, Betaworks [^7] |
-| May 2022 | Series C | $100M | Lux Capital | Sequoia, Coatue, Addition, A.Capital, SV Angel, Betaworks, AIX Ventures, Kevin Durant, Olivier Pomel [^2] |
+| 2022-05-09 | Series C | $100M | Lux Capital | Sequoia, Coatue, Addition, A.Capital, SV Angel, Betaworks, AIX Ventures, Kevin Durant, Olivier Pomel [^2] |
 | August 2023 | Series D | $235M | Salesforce Ventures | Google, Amazon, Nvidia, Intel, AMD, Qualcomm, IBM, Sound Ventures [^8][^9] |
 
 The Series D round valued Hugging Face at $4.5 billion, doubling its valuation from the Series C [^8][^9].

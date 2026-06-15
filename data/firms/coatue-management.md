@@ -171,7 +171,7 @@ The following table includes Coatue investments verified through the firm's port
 | Anthropic | Series G (Co-Led) | 2026-02-12 | AI | Private [^23][^48][^49] |
 | Cursor (Anysphere) | Series D (Co-Led) | 2025-11-13 | AI / Developer Tools | Private [^24][^46][^47] |
 | AI21 Labs | Growth | ~2022 | AI / NLP | Private [^12] |
-| Hugging Face | Growth | ~2023 | AI / Open Source | Private [^12] |
+| Hugging Face | Series C | 2022-05-09 | AI / Open Source | Private [^12][^61][^62][^63] |
 | Alan | Growth | ~2021 | Healthcare / Insurance | Private [^12] |
 | Figma | Secondary / Tender (participated) | 2024-07-17 | Design / Developer Tools | Public (IPO 2025) [^32][^50][^51] |
 | BeReal | Growth | ~2022 | Consumer / Social | Private [^12] |
@@ -349,3 +349,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^59]: Supabase blog, "Supabase Series F," June 4, 2026. Accessed June 2026. https://supabase.com/blog/supabase-series-f — Official Supabase announcement of the $500M Series F led by GIC at $10.5B post-money valuation; total capital raised over $1 billion; round comes seven months after Series E.
 
 [^60]: The SaaS News, "Supabase Raises $500M Series F," June 4, 2026. Accessed June 2026. https://www.thesaasnews.com/news/supabase-raises-500m-series-f/ — Independent confirmation of GIC-led $500M Series F at $10.5B valuation with Coatue named among existing-backer participants alongside Accel, Y Combinator, Craft, Felicis, and Peak XV; Stripe and Salesforce Ventures named as new investors.
+
+[^61]: Hugging Face blog, "We Raised $100 Million for Open & Collaborative Machine Learning," May 9, 2022. Accessed June 2026. https://huggingface.co/blog/series-c — Official Hugging Face announcement of $100M Series C funding round led by Lux Capital with Coatue as a named participating investor alongside Sequoia, Addition, a_capital, SV Angel, Betaworks, AIX Ventures, Kevin Durant, Rich Kleiman (Thirty Five Ventures), and Olivier Pomel.
+
+[^62]: TechCrunch, "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning," May 9, 2022. Accessed June 2026. https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/ — Independent confirmation of $100M Series C announced May 9, 2022 at $2B valuation; round led by Lux Capital; Sequoia, Coatue, and Addition named as participants.
+
+[^63]: SiliconANGLE, "AI startup Hugging Face raises $100M in funding at $2B valuation," May 9, 2022. Accessed June 2026. https://siliconangle.com/2022/05/09/ai-startup-hugging-face-raises-100m-funding-2b-valuation/ — Third independent confirmation of Hugging Face Series C on May 9, 2022 led by Lux Capital with Coatue named as a participating investor.

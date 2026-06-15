@@ -161397,7 +161397,9 @@ vague_facts:
   line: '| Hugging Face | Growth | ~2023 | AI / Open Source | Private [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-15
+  resolution_note: "Verified Coatue participated in Hugging Face Series C (not Series D). $100M Series C announced 2022-05-09, led by Lux Capital, with Coatue, Sequoia, Addition, A.Capital, SV Angel, Betaworks, AIX Ventures, Kevin Durant, and Olivier Pomel participating. Confirmed via 3 primary sources: Hugging Face official blog [^61], TechCrunch [^62], SiliconANGLE [^63]. Updated portfolio row to 'Series C | 2022-05-09' with three new citations. Also corrected Hugging Face startup profile date from 'May 2022' to '2022-05-09'."
 - profile: firms/coatue-management
   profile_name: Coatue Management
   company: Stripe
