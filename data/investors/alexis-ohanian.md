@@ -85,9 +85,9 @@ Based on publicly identified portfolio companies (approximately 56 companies con
 | CoinTracker | ~2021 | Early Stage | [^7] |
 | Lolli | ~2021 | Early Stage | [^7] |
 | Angel City FC | 2020 | Growth/Sports | [^4] |
-| LOVB (Los Angeles volleyball) | 2024 | Growth/Sports | [^4] |
-| Chelsea Women (minority stake) | 2024 | Growth/Sports | [^4] |
-| LambdaVision | 2025 | Series B | [^7] |
+| LOVB Los Angeles (expansion team, Seven Seven Six leads ownership group) | 2025-10-15 | Growth/Sports | [^14][^15] |
+| Chelsea Women (minority stake, ~10% for ~£20M) | 2025-05-14 | Growth/Sports | [^16][^17][^18] |
+| LambdaVision (co-led with Aurelia Foundry Fund) | 2025-11-05 | Seed | [^19][^20] |
 
 *Note: This table represents only ~8% of 776's reported 147 investments. The firm's full portfolio is not publicly disclosed. Dates marked with "~" are approximate based on the firm's founding timeline and reporting context.*
 
@@ -127,3 +127,17 @@ No independently sourced founder testimonials found.
 [^12]: Net Influencer, "Social Video Intelligence Startup Plot Raises $10M As Enterprise Demand Surges," June 3, 2026. Accessed June 2026. https://www.netinfluencer.com/social-video-intelligence-startup-plot-raises-10m-usd-as-enterprise-demand-surges/ — Independent confirmation of the $10M seed follow-on co-led by XYZ Venture Capital and Mischief Ventures with Seven Seven Six and Acme Capital participating.
 
 [^13]: Adweek, "Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," June 2026. Accessed June 2026. https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/ — Third independent press confirmation of Plot's $10M seed follow-on with Seven Seven Six participating, founded by Megan Duong (ex-Apple, ex-Gap).
+
+[^14]: CNBC, "Alexis Ohanian backs League One Volleyball, further expanding his women's sports portfolio," October 15, 2025. Accessed June 2026. https://www.cnbc.com/2025/10/15/alexis-ohanian-backs-league-one-volleyball.html — Confirms Seven Seven Six leads ownership group of LOVB Los Angeles expansion team announced October 15, 2025; LA team debuts January 2027.
+
+[^15]: Sportico, "LOVB Expansion: Alexis Ohanian Buys New Los Angeles Volleyball Team," October 15, 2025. Accessed June 2026. https://www.sportico.com/personalities/owners/2025/lovb-expansion-los-angeles-alexis-ohanian-volleyball-team-1234873662/ — Independent confirmation of LOVB Los Angeles ownership announcement, seventh team in the league.
+
+[^16]: CNN, "Alexis Ohanian: Reddit co-founder buys minority stake in Chelsea women's team," May 15, 2025. Accessed June 2026. https://www.cnn.com/2025/05/15/sport/alexis-ohanian-chelsea-womens-investment-spt-intl — Reports Ohanian taking minority stake in Chelsea Women, announced May 14, 2025; deal values club at over £200M, includes board seat.
+
+[^17]: CNBC, "Reddit co-founder Alexis Ohanian takes minority stake in Chelsea FC women's team," May 14, 2025. Accessed June 2026. https://www.cnbc.com/2025/05/14/reddit-co-founder-alexis-ohanian-takes-stake-in-chelsea-fc-women.html — Independent confirmation of May 14, 2025 announcement; Katelin Holloway involved via Seven Seven Six.
+
+[^18]: Chelsea FC official announcement, "Chelsea FC Women is proud to announce that Alexis Ohanian... joins the club as a minority investor." Accessed June 2026. https://www.chelseafc.com/en/news/article/chelsea-fc-women-announces-new-minority-investor — Primary club source confirming the minority investment.
+
+[^19]: LambdaVision press release, "LambdaVision Raises $7M Seed Round to Revolutionize Blindness Treatment Using Space-Based Manufacturing," November 5, 2025. Accessed June 2026. https://www.lambdavision.com/lambdavision-raises-7m-seed-round-to-revolutionize-blindness-treatment-using-space-based-manufacturing/ — Primary company source: $7M Seed round on November 5, 2025, co-led by Seven Seven Six and Aurelia Foundry Fund with Seraphim Space participating. (Note: corrects prior "Series B" classification — company classifies as Seed.)
+
+[^20]: Hartford Business Journal, "CT biotech LambdaVision raises $7M to advance space-made artificial retina," November 2025. Accessed June 2026. https://hartfordbusiness.com/article/ct-biotech-lambdavision-raises-7m-to-advance-space-made-artificial-retina/ — Independent confirmation of $7M raise co-led by Seven Seven Six and Aurelia Foundry Fund.

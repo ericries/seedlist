@@ -104,9 +104,9 @@ Note: Some companies span multiple categories. The sector concentration in AI/de
 | Kong | ~2019 | Early | API Infrastructure | [^25] |
 | Atom Computing (follow-on) | 2022 | Series B | Quantum Computing | [^23] |
 | Inflection AI | 2023 | Growth | AI / Consumer | [^15] |
-| Gradium | 2025 | Seed | Voice AI | [^14] |
-| Reflection AI | 2025 | Series B | Frontier AI | [^26] |
-| Goodfire | 2026 | Series B | AI Interpretability | [^27] |
+| Gradium | 2025-12-02 | Seed ($70M, co-led FirstMark/Eurazeo) | Voice AI | [^14][^29] |
+| Reflection AI | 2025-10-09 | Series B ($2B, NVIDIA-led, $8B valuation) | Frontier AI | [^26][^30] |
+| Goodfire | 2026-02-05 | Series B ($150M, B Capital-led, $1.25B valuation) | AI Interpretability | [^27][^31][^32] |
 | Dosu | ~2023 | Early | AI / Developer Tools | [^25] |
 | Vicarious Surgical | ~2020 | Early | Robotics / Surgery | [^25] |
 
@@ -211,3 +211,11 @@ No additional independently sourced founder testimonials found. Innovation Endea
 [^27]: Family Office Hub, "Eric Schmidt family office invests in Goodfire," accessed March 2026. https://familyofficehub.io/blog/schmidt-family-office-invests-in-goodfire/ (Goodfire Series B announced February 5, 2026)
 
 [^28]: Innovation Endeavors, "Introducing Fund IV," accessed March 2026. https://www.innovationendeavors.com/insights/introducing-fund-iv
+
+[^29]: TechCrunch, "Paris-based AI voice startup Gradium nabs $70M seed," December 2, 2025. Accessed June 2026. https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed — Confirms $70M seed announced December 2, 2025, co-led by FirstMark Capital and Eurazeo, with Eric Schmidt and Xavier Niel among participants.
+
+[^30]: Wilson Sonsini, "Wilson Sonsini Advises Reflection AI on $2 Billion Funding Round," October 2025. Accessed June 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-reflection-ai-on-dollar2-billion-funding-round.html — Legal counsel confirmation of $2B Series B led by NVIDIA at $8B valuation, with Eric Schmidt participating.
+
+[^31]: PR Newswire, "AI Lab Goodfire Raises $150M at $1.25B Valuation to Design Models with Interpretability," February 5, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/ai-lab-goodfire-raises-150m-at-1-25b-valuation-to-design-models-with-interpretability-302680120.html — Primary press release: $150M Series B led by B Capital on February 5, 2026; Eric Schmidt named among investors.
+
+[^32]: Goodfire blog, "Understanding, Learning From, and Designing AI: Our Series B," February 5, 2026. Accessed June 2026. https://www.goodfire.ai/blog/our-series-b — Company's own announcement confirming February 5, 2026 Series B; B Capital lead; Eric Schmidt among participants.
