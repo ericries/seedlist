@@ -3,9 +3,9 @@ check_size: $10K-$50K
 firm: null
 last_researched: 2026-06-11
 last_verified_investment:
-  company: Holmes
-  date: ~2026
-  round: Pre-Seed
+  company: Aikido Security
+  date: 2026-01-14
+  round: Series B
 location: Ghent, Belgium
 name: Louis Jonckheere
 role: Co-founder, Showpad; General Manager US, Aikido Security; Angel Investor
@@ -57,14 +57,14 @@ Sample is small — readers should treat the above as descriptive of confirmed i
 
 | Company | Year | Stage | Source |
 |---|---|---|---|
-| Rookoo | 2025 | Angel ($1.05M) | [^4] |
-| Eagl | 2025 | Seed (€825K) | [^9] |
-| Dalton | 2025 | Seed ($1.16M) | [^4] |
-| BetterPic | 2025 | Seed ($2.5M) | [^10] |
-| Predikt | 2025 | Pre-Seed | [^8] |
-| IntelliProve | 2025 | Seed | [^8] |
+| Rookoo | 2025-11-14 | Angel (€900K) | [^11][^12] |
+| Eagl | 2025-09-19 | Seed (€825K) | [^9][^13] |
+| Dalton | 2025-09-05 | Pre-Seed (€1M / ~$1.16M) | [^14][^15] |
+| BetterPic | 2025-08-18 | Seed ($2.5M) | [^10][^16] |
+| Predikt | 2024-11-07 | Pre-Seed (€750K) | [^17][^18] |
+| IntelliProve | 2025-01-22 | Seed (€1.25M) | [^19][^20] |
 | Holmes | 2026 | Pre-Seed | [^8] |
-| Aikido Security | 2026 | Series B ($60M) | [^6][^8] |
+| Aikido Security | 2026-01-14 | Series B ($60M, led by DST Global, $1B valuation) | [^6][^8] |
 | Spendesk | ~2017 (founding 2016) | Early-stage | [^4] |
 | Henchman | ~2020 (acquired 2024) | Seed | [^4] |
 | DESelect | ~2019 (acquired 2025) | Seed | [^4] |
@@ -105,3 +105,13 @@ No independently sourced founder testimonials about working with Louis Jonckheer
 [^8]: Signal by NFX, "Louis Jonckheere — Investing Profile," accessed June 2026. https://signal.nfx.com/investors/louis-jonckheere
 [^9]: The SaaS News, "Eagl Raises €825,000 in Seed Round," September 2025, accessed June 2026. https://www.thesaasnews.com/news/eagl-raises-825-000-in-seed-round
 [^10]: The SaaS News, "BetterPic Raises $2.5 Million in Seed Round," August 2025, accessed June 2026. https://www.thesaasnews.com/news/betterpic-raises-2-5-million-in-seed-round
+[^11]: EU-Startups, "Rookoo, out of Belgium, raises €900k to help the global event industry escape administrative chaos," November 14, 2025, accessed June 2026. https://www.eu-startups.com/2025/11/rookoo-out-of-belgium-raises-e900k-to-help-the-global-event-industry-escape-administrative-chaos/
+[^12]: Fundz, "Rookoo €900,000 seed 2025-11-15," accessed June 2026. https://app.fundz.net/fundings/rookoo-funding-round-d9fdbd
+[^13]: Tech.eu, "Eagl raises €825K to bring AI-native automation to finance teams," September 18, 2025, accessed June 2026. https://tech.eu/2025/09/18/eagl-raises-eur825k-to-bring-ai-native-automation-to-finance-teams/
+[^14]: EU-Startups, "Ghent's Dalton raises €1 million to turn websites into AI-powered growth engines," September 5, 2025, accessed June 2026. https://www.eu-startups.com/2025/09/ghents-dalton-raises-e1-million-to-turn-websites-into-ai-powered-growth-engines/
+[^15]: Tech.eu, "Dalton raises €1M to turn static websites into self-improving growth engines," September 5, 2025, accessed June 2026. https://tech.eu/2025/09/05/dalton-raises-eur1m-to-turn-static-websites-into-self-improving-growth-engines/
+[^16]: Crunchbase, "Seed Round - BetterPic - 2025-08-18," accessed June 2026. https://www.crunchbase.com/funding_round/betterpic-seed--ed4fb0d7
+[^17]: Tech.eu, "Belgian-Swiss startup Predikt raises €750K for AI-driven financial forecasting," November 7, 2024, accessed June 2026. https://tech.eu/2024/11/07/belgian-swiss-startup-predikt-raises-750k-for-ai-driven-financial-forecasting/
+[^18]: FinSMEs, "Predikt Raises €750K in Funding," November 2024, accessed June 2026. https://www.finsmes.com/2024/11/predikt-raises-e750k-in-funding.html
+[^19]: Tech.eu, "IntelliProve secures €1.25M for 'biopsies' by smartphone camera," January 22, 2025, accessed June 2026. https://tech.eu/2025/01/22/intelliprove-secures-1-25m-for-biopsies-by-smartphone-camera/
+[^20]: IntelliProve, "IntelliProve secures €1.25M to revolutionize health monitoring tech," company press release, January 2025, accessed June 2026. https://intelliprove.com/article/intelliprove-secures-1-25m-to-revolutionize-health-monitoring-tech

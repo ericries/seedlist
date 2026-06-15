@@ -59,7 +59,7 @@ Across the three publicly verified angel checks, every company shares a tightly 
 |---|---|---|---|
 | Raycast | 2021 | Series A ($15M, led by Accel & Coatue) | [^7] |
 | Foxglove | 2022 | Seed ($3.7M, led by Amplify Partners) | [^8] |
-| Granola | 2025 | Series B ($43M, led by NFDG) | [^10][^11] |
+| Granola | 2025-05-14 | Series B ($43M, led by NFDG, $250M valuation) | [^10][^11][^13] |
 
 Aggregators list a fourth disclosed investment in Dot Product (2024), but the round was undisclosed and no contemporaneous press release naming Saarinen could be located at the time of research [^6]. Excluded from the table pending primary-source verification.
 

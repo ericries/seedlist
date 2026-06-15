@@ -94,30 +94,30 @@ The following table represents a subset of Songhurst's approximately 500 claimed
 | Mirror Emoji Keyboard | 2017 | Venture | [^1] |
 | CodeSignal | 2015 | Seed | [^1] |
 | Formlabs | 2011 | Seed | [^9][^20] |
-~unknown| Rigetti Computing | Early | Seed | [^9] |
-~unknown| Convoy | Early | Seed | [^9] |
-~unknown| Tractable | Early | Seed | [^9] |
-~unknown| Karat | Early | Seed | [^9] |
-~unknown| Side | Early | Seed | [^9] |
-~unknown| ClassPass | Early | Seed | [^9] |
-~unknown| Grove Collaborative | Early | Seed | [^9] |
-~unknown| Entrepreneurs First | Early | Seed | [^16] |
-~unknown| Beauhurst | Early | Seed | [^15] |
-~unknown| accuRx | Early | Seed | [^9] |
-~unknown| Koru Kids | Early | Seed | [^9] |
-~unknown| Bit Bio | Early | Seed | [^9] |
-~unknown| Bear Robotics | Early | Seed | [^8] |
-~unknown| Invisible Technologies | Early | Seed | [^8] |
-~unknown| Open Cosmos | Early | Seed | [^14] |
-~unknown| nPlan | Early | Seed | [^14] |
-~unknown| Stacker | Early | Seed | [^14] |
-~unknown| STOKE Space Technologies | Early | Seed | [^14] |
-~unknown| Portify | Early | Seed | [^14] |
-~unknown| Everlance | Early | Seed | [^14] |
-~unknown| CloudNC | Early | Seed | [^14] |
-~unknown| LabGenius | Early | Seed | [^14] |
-~unknown| deepset | Early | Seed | [^14] |
-~unknown| Causaly | Early | Seed | [^14] |
+| Rigetti Computing | 2014-04-15 | Seed ($2.5M) | [^9][^21] |
+| Convoy | 2015-10 | Seed ($2.5M) | [^9][^22] |
+| Tractable | ~2014 (founding year) | Seed | [^9] |
+| Karat | ~2014 (founding year) | Seed | [^9] |
+| Side | ~2017 (founding year) | Seed | [^9] |
+| ClassPass | 2014-03 | Seed ($2M) | [^9][^23] |
+| Grove Collaborative | ~2012 (founding year, then ePantry) | Seed | [^9] |
+| Entrepreneurs First | ~2011 (founding year) | Seed | [^16] |
+| Beauhurst | ~2010s (early-stage) | Seed | [^15] |
+| accuRx | ~2016 (founding year) | Seed | [^9] |
+| Koru Kids | ~2016 (founding year) | Seed | [^9] |
+| Bit Bio | ~2016 (founding year) | Seed | [^9] |
+| Bear Robotics | ~2017 (founding year) | Seed | [^8] |
+| Invisible Technologies | ~2015 (founding year) | Seed | [^8] |
+| Open Cosmos | ~2015 (founding year) | Seed | [^14] |
+| nPlan | ~2017 (founding year) | Seed | [^14] |
+| Stacker | ~2017 (founding year) | Seed | [^14] |
+| STOKE Space Technologies | ~2020 (founding year) | Seed | [^14] |
+| Portify | ~2017 (founding year) | Seed | [^14] |
+| Everlance | ~2015 (founding year) | Seed | [^14] |
+| CloudNC | ~2015 (founding year) | Seed | [^14] |
+| LabGenius | ~2012 (founding year) | Seed | [^14] |
+| deepset | ~2018 (founding year) | Seed | [^14] |
+| Causaly | ~2018 (founding year) | Seed | [^14] |
 
 This table represents approximately 55 of an estimated 500+ total investments. The majority of Songhurst's angel investments are not publicly tracked.
 
@@ -175,3 +175,6 @@ No additional independently sourced founder testimonials found beyond EF's co-fo
 [^18]: Nordic9, "Forgent raised €4.3 million in pre-seed funding led by Cherry Ventures, joined by angel investors including Charlie Songhurst," accessed April 2026. https://nordic9.com/news/forgent-raised-43-million-in-pre-seed-funding-led-by-cherry-ventures-joined-by-angel-investors-including-charlie-songhurst-and-katrin-suder/
 [^19]: Matt Clifford on X, "If I were raising a seed round and could choose just one person to be involved, it would be Charlie Songhurst...," accessed April 2026. https://x.com/matthewclifford/status/2033893593794887682
 [^20]: 3D Printing Journal, "11-23-2011: a brand-new startup, Formlabs, raised $500,000 in its initial funding round," accessed April 2026. https://www.3dprintingjournal.com/p/11-23-2011-a-brand-new-startup-formlabs
+[^21]: Crunchbase, "Seed Round - Rigetti Computing - 2014-04-15," accessed June 2026. https://www.crunchbase.com/funding_round/rigetti-computing-seed--509d63f2
+[^22]: FinSMEs, "Convoy Raises $2.5m in Seed Funding," October 2015, accessed June 2026. https://www.finsmes.com/2015/10/convoy-raises-2-5m-in-seed-funding.html
+[^23]: VCNewsDaily, "ClassPass Raises $2M," March 2014, accessed June 2026. https://www.vcnewsdaily.com/classpass/venture-capital-funding/tfnpdgnzpn
