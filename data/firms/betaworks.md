@@ -69,7 +69,7 @@ This table is a curated, source-cited slice of Betaworks' total activity. The fi
 |---------|-------|------|--------------|--------|--------|
 | Bitly (built) | Studio | 2008 | John Borthwick | Link infrastructure | Sold to Spectrum Equity [^1] |
 | Chartbeat (built) | Studio | 2009 | John Borthwick | Media analytics | Active [^1] |
-| Tumblr | Series A | 2007 | John Borthwick (as angel) | Social/blogging | Acq. Yahoo 2013 ($1.1B) [^12] |
+| Tumblr | Series A | 2007-10-31 | John Borthwick (as angel) | Social/blogging | Acq. Yahoo 2013 ($1.1B) [^12][^17][^18] |
 | Twitter | Early | pre-IPO | (firm investment) | Social | Public 2013 [^1] |
 | Kickstarter | Early | ~2009 | (firm investment) | Crowdfunding | Active [^2][^6][^16] |
 | Tweetdeck (built) | Studio | ~2008 | John Borthwick | Twitter client | Acq. Twitter 2011 [^1] |
@@ -130,3 +130,5 @@ Independently sourced founder testimonials specifically about Betaworks the firm
 [^15]: "VCs love using the AI meeting notepad Granola, so they gave it $20M," TechCrunch, October 23, 2024, accessed May 2026. https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/
 
 [^16]: Union Square Ventures, "Kickstarter," March 17, 2011 (USV's post-quiet-period disclosure of its Kickstarter investment). Accessed May 2026. https://www.usv.com/writing/2011/03/kickstarter/ — USV met Kickstarter's founding team in fall 2009 and made its investment in late 2009; AllThingsD reports Betaworks was a co-investor in the seed round alongside Union Square Ventures and angels Jack Dorsey, Zach Klein, and Caterina Fake. Cross-referenced with AllThingsD, "Kickstarter Discloses Funding From Union Square, Betaworks, Angels," March 17, 2011. https://allthingsd.com/20110317/kickstarter-fesses-up-the-crowd-sourced-funding-startup-has-funding-too/
+[^17]: "Series A - Tumblr - 2007-10-31 - Crunchbase Funding Round Profile," Crunchbase, accessed June 2026. https://www.crunchbase.com/funding_round/tumblr-series-a--1a15d93c
+[^18]: Erick Schonfeld, "Tumblr Pulls In $4.5 Million In Funding, Puts Out Premium Services," TechCrunch, December 11, 2008, accessed June 2026. https://techcrunch.com/2008/12/11/tumblr-pulls-in-45-million-in-funding-puts-out-premium-services/ — references the $750K initial Series A from Union Square Ventures and Spark Capital, and Borthwick joining the board with Series B.

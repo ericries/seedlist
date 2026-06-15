@@ -200254,7 +200254,9 @@ vague_facts:
   line: '| Tumblr | Series A | 2007 | John Borthwick (as angel) | Social/blogging | Acq. Yahoo 2013 ($1.1B) [^12] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Resolved 2026-06-03 — Tumblr Series A date specified as 2007-10-31 in betaworks.md portfolio table. Verified via 3 independent sources: Crunchbase Funding Round Profile (2007-10-31), TechCrunch (Erick Schonfeld 2008-12-11 references the $750K initial round), MediaShift (Mark Glaser 2013 confirms October 2007 seed with Borthwick as angel alongside USV/Spark/Fred Seibert/Jake Lodwick). Added [^17] Crunchbase and [^18] TechCrunch citations."
 - profile: firms/betaworks
   profile_name: Betaworks
   company: Kickstarter
