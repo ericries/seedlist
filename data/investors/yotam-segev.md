@@ -3,9 +3,9 @@ check_size: Unknown (angel)
 firm: cyera
 last_researched: 2026-03-22
 last_verified_investment:
-  company: A Security
-  date: 2026-06-08
-  round: Seed + Series A ($37M)
+  company: NewCore
+  date: 2026-06-15
+  round: Pre-Seed + Seed ($66M)
 location: New York, NY / Tel Aviv, Israel
 name: Yotam Segev
 role: Co-Founder & CEO
@@ -68,6 +68,7 @@ Based on 3 verified angel investments, the sample size is too small for reliable
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | A Security | Seed + Series A ($37M combined; Cyberstarts-led Seed, Lightspeed + Cyberstarts-led Series A; angel participation alongside Assaf Rappaport, Cerca Partners, Merav Bahat) | 2026-06-08 | Cybersecurity / Offensive Security | [^13][^14][^15] |
+| NewCore | Pre-Seed + expanded Seed ($66M total at $300M val; Index Ventures + Cyberstarts co-led pre-seed; Evolution Equity Partners led expanded seed; Segev participated as angel alongside Assaf Rappaport, Yevgeny Dibrov, Ofer Ben-Noon, Ofir Ehrlich, Sharin Fisher Dibrov) | 2026-06-15 | Cybersecurity / Agentic Identity | [^18][^19][^20] |
 | Daylight Security | Seed ($7M, Bain Capital Ventures-led; Maple VC + Israeli angels) | 2026-02-02 | Cybersecurity / AI-native MDR | [^11] |
 | Daylight Security | Series A ($33M, Craft Ventures-led; Bain Capital Ventures, Maple VC, Israeli angels) | 2025-11-04 | Cybersecurity / AI-native MDR | [^9][^16][^17] |
 | Spirit | Seed-stage round ($50M at $400M val; Cyberstarts + Sequoia-led) | 2026-01-06 | Cybersecurity / Enterprise Security | [^10] |
@@ -120,3 +121,9 @@ No independently sourced founder testimonials found about Yotam Segev as an ange
 [^16]: SiliconANGLE, "Daylight Security raises $33M to expand AI-driven managed detection and response," November 4, 2025. Accessed June 2026. https://siliconangle.com/2025/11/04/daylight-security-raises-33m-expand-ai-driven-managed-detection-response/ — Independent confirmation of Yotam Segev's angel participation in Daylight Series A.
 
 [^17]: Yahoo Finance / Access Newswire, "Daylight Secures $40 Million to Redefine Managed Security Services in the Agentic AI Era," November 4, 2025. Accessed June 2026. https://finance.yahoo.com/news/daylight-secures-40-million-redefine-140000681.html — Press release confirming Yotam Segev (Cyera) among angel investors in Daylight Series A.
+
+[^18]: Calcalistech (CTech), "One-year-old cyber startup NewCore emerges from stealth with $66M raised and a $300M valuation," June 15, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/rjznsdtbfl — Names Yotam Segev (Cyera) explicitly as an angel investor in NewCore's expanded seed; total $66M at $300M valuation. Pre-seed of $16M co-led by Index Ventures + Cyberstarts; expanded seed led by Evolution Equity Partners.
+
+[^19]: TheNextWeb, "NewCore raises $66m to give AI agents a corporate identity," June 15, 2026. Accessed June 2026. https://thenextweb.com/news/newcore-66-million-ai-agent-identity-security — Independent confirmation Segev joined as angel in NewCore expanded seed alongside other Israeli security founders.
+
+[^20]: SiliconANGLE, "NewCore launches security-first identities for AI agents after closing $66M seed funding round," June 15, 2026. Accessed June 2026. https://siliconangle.com/2026/06/15/newcore-launches-security-first-identities-ai-agents-closing-66m-seed-funding-round/ — Third independent confirmation of NewCore $66M financing with Cyberstarts, Index Ventures, and Evolution Equity Partners as institutional backers.

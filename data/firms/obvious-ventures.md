@@ -134,8 +134,9 @@ The distribution is relatively balanced across the three pillars, with a slight 
 | All In Food | Seed (led, $4M) | 2025-06-18 | Human Health / Food | Active | [^1][^18][^19][^20] |
 | Iterative Health | Series C | 2026-04-30 | Human Health / Clinical Trials AI | Active | [^14] |
 | Gray Swan | Series A | 2026-05-28 | Economic Health / AI Security | Active | [^15][^16][^17] |
+| Radical Numerics | Seed (participated, $50M; Emergence Capital led) | 2026-06-15 | Human Health / AI / Biological Intelligence | Active | [^21][^22][^23] |
 
-*This table represents 36 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
+*This table represents 37 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
 
 ## In Their Own Words
 
@@ -171,3 +172,6 @@ No independently sourced founder testimonials were found during this research pa
 [^18]: PR Newswire, "All In Food Closes $4M Led by Obvious Ventures and Launches In Retail," June 18, 2025. Accessed June 2026. https://www.prnewswire.com/news-releases/all-in-food-closes-4m-led-by-obvious-ventures-and-launches-in-retail-302484492.html
 [^19]: All In Food company blog, "All In Food Closes $4M Led by Obvious Ventures and Launches at Starbucks," June 2025. Accessed June 2026. https://allinfood.com/blogs/partners/all-in-food-closes-4m-led-by-obvious-ventures-and-launches-at-starbucks
 [^20]: FinSMEs, "All In Foods Raises $4M in Funding," June 2025. Accessed June 2026. https://www.finsmes.com/2025/06/all-in-foods-raises-4m-in-funding.html
+[^21]: BusinessWire, "AI Lab Radical Numerics Launches with $50M Seed Round To Build General Biological Intelligence," June 15, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260615558179/en/AI-Lab-Radical-Numerics-Launches-with-$50M-Seed-Round-To-Build-General-Biological-Intelligence — Confirms Obvious Ventures participated in Radical Numerics $50M seed alongside lead Emergence Capital and co-investors Triatomic Capital, Factory, First Spark Ventures.
+[^22]: Fortune (via Yahoo Finance), "Exclusive: The researchers who built AI-generated DNA just raised $50 million to reinvent biology," June 15, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/healthcare/articles/exclusive-researchers-built-ai-generated-120000788.html — Independent confirmation of Obvious Ventures participation in Radical Numerics seed.
+[^23]: FinSMEs, "Radical Numerics Raises $50M in Seed Funding," June 15, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/radical-numerics-raises-50m-in-seed-funding.html — Third independent confirmation of Obvious Ventures in Radical Numerics seed.

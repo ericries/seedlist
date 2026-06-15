@@ -3,9 +3,9 @@ check_size: $5K-$50K
 firm: wiz
 last_researched: 2026-03-20
 last_verified_investment:
-  company: A Security
-  date: 2026-06-08
-  round: Seed + Series A ($37M)
+  company: NewCore
+  date: 2026-06-15
+  round: Pre-Seed + Seed ($66M)
 location: Tel Aviv, Israel / New York, NY
 name: Assaf Rappaport
 role: Co-Founder & CEO
@@ -88,6 +88,7 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 | Spirit | Seed ($50M at $400M val; co-led by Cyberstarts and Sequoia Capital; Rappaport participated as angel) | 2026-01-06 | Cybersecurity | Active | [^6][^18][^19] |
 | Frame Security | Stealth-exit ($50M) | 2026-05-11 | Cybersecurity / Human Risk | Active | [^16][^17] |
 | A Security | Seed + Series A ($37M combined; Cyberstarts-led seed, Lightspeed + Cyberstarts-led Series A; Cerca Partners, Yotam Segev, Merav Bahat, Rappaport participated as angels) | 2026-06-08 | Cybersecurity / Offensive Security | Active | [^22][^23][^24] |
+| NewCore | Pre-Seed + expanded Seed ($66M total at $300M val; Index Ventures + Cyberstarts co-led pre-seed; Evolution Equity Partners led expanded seed; Rappaport participated as angel alongside Yevgeny Dibrov, Ofer Ben-Noon, Ofir Ehrlich, Sharin Fisher Dibrov, Yotam Segev) | 2026-06-15 | Cybersecurity / Agentic Identity | Active | [^27][^28][^29] |
 
 ## In Their Own Words
 
@@ -146,3 +147,9 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^25]: SiliconANGLE, "Daylight Security raises $33M to expand AI-driven managed detection and response," November 4, 2025. Accessed June 2026. https://siliconangle.com/2025/11/04/daylight-security-raises-33m-expand-ai-driven-managed-detection-response/ — Confirms Daylight Series A $33M led by Craft Ventures with Bain Capital Ventures and Maple VC; individual investors include Assaf Rappaport (Wiz), Ofer Smadari, Leonid Belkind, Eldad Livni (Torq).
 
 [^26]: BusinessWire, "Twine Attracts Top Investors for a $12M Seed Round to Create Digital Cybersecurity Employees," November 20, 2024. Accessed June 2026. https://www.businesswire.com/news/home/20241120830422/en/Twine-Attracts-Top-Investors-for-a-$12M-Seed-Round-to-Create-Digital-Cybersecurity-Employees — Confirms Twine Security $12M Seed announced November 20, 2024, co-led by Ten Eleven Ventures and Dell Technologies Capital, with Wiz founders Assaf Rappaport and Roy Reznik participating as angels.
+
+[^27]: Calcalistech (CTech), "One-year-old cyber startup NewCore emerges from stealth with $66M raised and a $300M valuation," June 15, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/rjznsdtbfl — Names Assaf Rappaport (Wiz) explicitly as an angel investor in NewCore's expanded seed; total $66M with $300M valuation. $16M pre-seed co-led by Index Ventures and Cyberstarts; expanded seed led by Evolution Equity Partners.
+
+[^28]: TheNextWeb, "NewCore raises $66m to give AI agents a corporate identity," June 15, 2026. Accessed June 2026. https://thenextweb.com/news/newcore-66-million-ai-agent-identity-security — Independent confirmation Rappaport joined as angel in NewCore's expanded seed alongside other Israeli security founders.
+
+[^29]: SiliconANGLE, "NewCore launches security-first identities for AI agents after closing $66M seed funding round," June 15, 2026. Accessed June 2026. https://siliconangle.com/2026/06/15/newcore-launches-security-first-identities-ai-agents-closing-66m-seed-funding-round/ — Third independent confirmation of NewCore's $66M closing with Cyberstarts, Index Ventures, and Evolution Equity Partners as institutional backers.

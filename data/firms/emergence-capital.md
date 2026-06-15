@@ -128,6 +128,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 | Cline | Seed | ~2024 | AI/Developer Tools | [^9] |
 | Oyster | Series A | ~2021 | Enterprise/HR | [^9] |
 | Bolt | Early | ~2023 | AI/Development | [^9] |
+| Radical Numerics | Seed (led, $50M) | 2026-06-15 | AI / Biological Intelligence | [^14][^15][^16] |
 
 *This table represents approximately 25% of 133 known investments. The firm's earliest investments (2003-2010) are well documented, but mid-vintage investments are less comprehensively covered in public sources.*
 
@@ -166,3 +167,6 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 [^11]: Emergence Capital, "In the Corner of Founders Everywhere," accessed March 2026. https://www.emcap.com/thoughts/in-the-corner-of-founders-everywhere/
 [^12]: Emergence Capital, "Salesforce — Portfolio," accessed March 2026. https://www.emcap.com/portfolio/salesforce/
 [^13]: Clay, "How Much Did Salesforce Raise? Funding & Key Investors," accessed March 2026. https://www.clay.com/dossier/salesforce-funding
+[^14]: BusinessWire, "AI Lab Radical Numerics Launches with $50M Seed Round To Build General Biological Intelligence," June 15, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260615558179/en/AI-Lab-Radical-Numerics-Launches-with-$50M-Seed-Round-To-Build-General-Biological-Intelligence — Confirms $50M seed led by Emergence Capital with participation from Obvious Ventures, Triatomic Capital, Factory, and First Spark Ventures; Patrick Collison among pre-seed backers.
+[^15]: Fortune (via Yahoo Finance), "Exclusive: The researchers who built AI-generated DNA just raised $50 million to reinvent biology," June 15, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/healthcare/articles/exclusive-researchers-built-ai-generated-120000788.html — Independent confirmation Emergence Capital led $50M seed; Obvious Ventures, Triatomic Capital, Factory, First Spark Ventures participated; Patrick Collison was a pre-seed investor.
+[^16]: FinSMEs, "Radical Numerics Raises $50M in Seed Funding," June 15, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/radical-numerics-raises-50m-in-seed-funding.html — Third independent confirmation of Radical Numerics $50M seed led by Emergence Capital.

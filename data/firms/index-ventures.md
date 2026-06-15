@@ -150,6 +150,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Inherent | Seed (co-led with Radical Ventures, $50M) | 2026-05-28 | AI / Research / Scientific Discovery | [^53] |
 | Garner Health | Series E (led, $100M at $2.74B val) | 2026-05-29 | Healthcare / Care Navigation | [^54] |
 | PointFive | Series B (participated, $60M; Accel led) | 2026-06-08 | FinOps / Cloud Cost / AI Efficiency | [^55][^56][^57] |
+| NewCore | Pre-Seed (co-led with Cyberstarts, $16M of $66M total) | 2026-06-15 | Cybersecurity / Agentic Identity | [^58][^59][^60] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -248,4 +249,10 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^56]: FinSMEs, "PointFive Raises $60M in Series B Funding," June 8, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/pointfive-raises-60m-in-series-b-funding.html — Independent confirmation of $60M Series B led by Accel with Index Ventures, Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, and Sheva Ventures participating. PointFive founded by Alon Arvatz, Amir Hozez, and Gal Ben David; customers include Nubank, E.ON, Hertz, Fanatics, Swiss Post, NICE.
 
 [^57]: Calcalistech (Ctech), "PointFive raises $60 million Series B to help companies survive the AI cost explosion," June 8, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/sjpjbnnwzl — Third independent confirmation of Index Ventures participation in PointFive's $60M Series B on June 8, 2026; Accel led.
+
+[^58]: Calcalistech (CTech), "One-year-old cyber startup NewCore emerges from stealth with $66M raised and a $300M valuation," June 15, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/rjznsdtbfl — Confirms NewCore $66M total fundraise: $16M pre-Seed co-led by Index Ventures and Cyberstarts, plus expanded Seed led by Evolution Equity Partners. $300M valuation. Angels Assaf Rappaport (Wiz), Yevgeny Dibrov (Armis), Ofer Ben-Noon (Palo Alto), Ofir Ehrlich (Eon), Sharin Fisher Dibrov (Startpoint), Yotam Segev (Cyera).
+
+[^59]: TheNextWeb, "NewCore raises $66m to give AI agents a corporate identity," June 15, 2026. Accessed June 2026. https://thenextweb.com/news/newcore-66-million-ai-agent-identity-security — Independent confirmation Index Ventures and Cyberstarts co-led pre-seed; Evolution Equity Partners led expanded seed bringing total to $66M.
+
+[^60]: SiliconANGLE, "NewCore launches security-first identities for AI agents after closing $66M seed funding round," June 15, 2026. Accessed June 2026. https://siliconangle.com/2026/06/15/newcore-launches-security-first-identities-ai-agents-closing-66m-seed-funding-round/ — Third independent confirmation listing Cyberstarts, Index Ventures, and Evolution Equity Partners as backers of NewCore's $66M financing.
 

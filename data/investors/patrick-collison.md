@@ -104,6 +104,7 @@ Note: Each company is counted once in its primary category. Companies spanning m
 | Fundamental Research Labs | 2025-08-01 | Series A | Research | [^7][^24] |
 | MatX | 2026 | Series B | AI Hardware | [^15] |
 | Drafted | 2026-05-29 | Seed (Buckley Ventures led) | AI/Proptech/Generative Design | [^25][^26][^27] |
+| Radical Numerics | 2025 (pre-seed) | Pre-Seed | AI / Biological Intelligence | [^28][^29][^30] |
 
 *This table represents approximately 19 of 50+ reported investments. Many investments were made jointly with John Collison. Years marked with ~ are approximate based on company funding timelines when exact Collison participation dates could not be independently confirmed. TruckSmarter round type could not be resolved — Collison participation is reported by aggregator sources [^7] but is not confirmed in any primary round announcement, so the specific round cannot be identified.*
 
@@ -165,3 +166,9 @@ No independently sourced founder testimonials specific to Patrick Collison's rol
 [^26]: TechCrunch, "This founder just landed backing for a second go at the same problem: affordable custom home design," December 23, 2025. Confirms Patrick Collison participated in Drafted's prior $1.65M round at $35M post-money valuation alongside Bill Clerico, Jack Altman, Josh Buckley, Moses Moody. Accessed June 13, 2026. https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/
 
 [^27]: Stockpil, "AI Custom Home Design Startup Drafted Secures $1.65M in Bold Second Attempt to Democratize Architecture," December 2025. Independently confirms Patrick Collison among investors in initial Drafted round. Accessed June 13, 2026. https://stockpil.com/drafted-ai-custom-home-funding/
+
+[^28]: BusinessWire, "AI Lab Radical Numerics Launches with $50M Seed Round To Build General Biological Intelligence," June 15, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260615558179/en/AI-Lab-Radical-Numerics-Launches-with-$50M-Seed-Round-To-Build-General-Biological-Intelligence — Names Patrick Collison among Radical Numerics' pre-seed investors prior to its $50M seed led by Emergence Capital.
+
+[^29]: Fortune (via Yahoo Finance), "Exclusive: The researchers who built AI-generated DNA just raised $50 million to reinvent biology," June 15, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/healthcare/articles/exclusive-researchers-built-ai-generated-120000788.html — Independent confirmation Patrick Collison backed Radical Numerics at pre-seed.
+
+[^30]: FinSMEs, "Radical Numerics Raises $50M in Seed Funding," June 15, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/radical-numerics-raises-50m-in-seed-funding.html — Third independent confirmation of pre-seed investor list including Patrick Collison.

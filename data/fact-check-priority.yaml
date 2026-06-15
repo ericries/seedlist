@@ -787,31 +787,31 @@ priority:
   status: resolved
 - slug: emergence-capital
   type: firm
-  reason: "led Radical Numerics $50M Seed (2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — Radical Numerics $50M Seed (2026-06-15) verified via 3 independent primary sources (BusinessWire [^14], Fortune via Yahoo [^15], FinSMEs [^16]). Emergence Capital led; Obvious Ventures, Triatomic Capital, Factory, First Spark Ventures participated. Row added to portfolio with 3 citations."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: obvious-ventures
   type: firm
-  reason: "participated in Radical Numerics $50M Seed (2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — Radical Numerics $50M Seed (2026-06-15, Emergence Capital-led) verified via 3 independent primary sources (BusinessWire [^21], Fortune via Yahoo [^22], FinSMEs [^23]). Obvious Ventures named as participant alongside Triatomic Capital, Factory, First Spark Ventures. Row added to portfolio; Inferred Thesis sample updated from 36 to 37."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: patrick-collison
   type: investor
-  reason: "pre-seed investor in Radical Numerics (2025)"
+  reason: "RESOLVED 2026-06-03 — Patrick Collison confirmed pre-seed investor in Radical Numerics (prior to 2026-06-15 $50M Seed) via 3 independent primary sources (BusinessWire [^28], Fortune via Yahoo [^29], FinSMEs [^30]). Pre-seed row added; LVI unchanged (Drafted Seed 2026-05-29 is more recent with confirmed date)."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: index-ventures
   type: firm
-  reason: "co-led NewCore pre-seed and participated in expanded seed ($66M total, 2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — NewCore $66M total (2026-06-15) verified via 3 independent primary sources (Calcalistech CTech [^58], TheNextWeb [^59], SiliconANGLE [^60]). Index Ventures co-led $16M pre-seed with Cyberstarts; expanded seed led by Evolution Equity Partners brought total to $66M at $300M valuation. Row added to portfolio."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: assaf-rappaport
   type: investor
-  reason: "angel investor in NewCore expanded seed (2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — NewCore $66M (2026-06-15, Index/Cyberstarts pre-seed co-leads, Evolution Equity Partners-led expanded seed) verified via 3 independent primary sources (Calcalistech CTech [^27], TheNextWeb [^28], SiliconANGLE [^29]). Rappaport confirmed as angel in expanded seed. Row added; LVI updated from A Security 2026-06-08 to NewCore 2026-06-15."
   added: 2026-06-03
-  status: pending
+  status: resolved
 - slug: yotam-segev
   type: investor
-  reason: "angel investor in NewCore expanded seed (2026-06-15)"
+  reason: "RESOLVED 2026-06-03 — NewCore $66M (2026-06-15, Index/Cyberstarts pre-seed co-leads, Evolution Equity Partners-led expanded seed) verified via 3 independent primary sources (Calcalistech CTech [^18], TheNextWeb [^19], SiliconANGLE [^20]). Segev confirmed as angel in expanded seed. Row added; LVI updated from A Security 2026-06-08 to NewCore 2026-06-15."
   added: 2026-06-03
-  status: pending
+  status: resolved
