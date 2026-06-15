@@ -29394,3 +29394,18 @@ queue:
   firm: Tailscale
   discovered_from: avery-pennarun
   source: Tailscale co-founder, ex-Google
+- name: AllianceBernstein
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: climate-first-bancorp
+  source: Co-lead investor in Climate First Bancorp $67M strategic round (2026-06-09)
+- name: Ken LaRoe
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Climate First Bancorp
+  discovered_from: climate-first-bancorp
+  source: Founder & CEO of Climate First Bancorp; raised $67M strategic round 2026-06-09

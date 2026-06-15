@@ -44,7 +44,8 @@ pending_rounds:
   parsed_company: Climate First Bancorp
   parsed_amount: $67M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: 'Created data/startups/climate-first-bancorp.md (2026-06-09, $67M strategic, Wellington + AllianceBernstein)'
 - title: Endurance Energy raised $54M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
