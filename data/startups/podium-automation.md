@@ -11,23 +11,7 @@ stage_latest: "Series A"
 total_raised: "$23M+"
 investors: []
 firms:
-  - slug: construct-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-15
   - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-06-15
-  - slug: transition-ventures
-    round: series-a
-    year: 2026
-    date: 2026-06-15
-  - slug: sunflower-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-15
-  - slug: banter-capital
     round: series-a
     year: 2026
     date: 2026-06-15

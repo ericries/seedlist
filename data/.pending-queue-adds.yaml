@@ -1,0 +1,38 @@
+- name: "Construct Capital"
+  type: firm
+  source: "led Podium Automation $18M Series A (2026-06-15); industrial/American Dynamism focus"
+  discovered_from: podium-automation
+  priority: high
+  added: 2026-06-03
+- name: "Transition Ventures"
+  type: firm
+  source: "participant in Podium Automation $18M Series A (2026-06-15)"
+  discovered_from: podium-automation
+  priority: high
+  added: 2026-06-03
+- name: "Sunflower Capital"
+  type: firm
+  source: "participant in Podium Automation $18M Series A (2026-06-15)"
+  discovered_from: podium-automation
+  priority: high
+  added: 2026-06-03
+- name: "Banter Capital"
+  type: firm
+  source: "participant in Podium Automation $18M Series A (2026-06-15)"
+  discovered_from: podium-automation
+  priority: high
+  added: 2026-06-03
+- name: "Jamie Niu Serota"
+  type: individual
+  firm: "Podium Automation"
+  source: "Co-Founder & CEO of Podium Automation"
+  discovered_from: podium-automation
+  priority: normal
+  added: 2026-06-03
+- name: "Jacob Buser"
+  type: individual
+  firm: "Podium Automation"
+  source: "Co-Founder & CTO of Podium Automation"
+  discovered_from: podium-automation
+  priority: normal
+  added: 2026-06-03
