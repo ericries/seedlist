@@ -99,8 +99,8 @@ Based on 22 verified investments through Second Avenue Partners where Higgins is
 | Bocada | Series C | ~2005 | Data backup software | [^21] |
 | Terabeam | Early stage | ~2001 | Broadband telecom | [^3] |
 | RealSelf | Angel | 2008 | Consumer health | [^7][^23][^24] |
-~unknown| Uplevel | Early stage | Unknown | Engineering analytics | [^7] |
-~unknown| Pike13 | Early stage | Unknown | SaaS / fitness mgmt | [^7] |
+| Uplevel | Seed ($7.5M) | 2020-01-15 | Engineering analytics | [^27][^28] |
+| Pike13 | Seed (led, $3.2M) | 2013-09 | SaaS / fitness mgmt | [^29] |
 | WISErg | Series B ($11M) | 2015-03-24 | Clean tech / composting | [^6][^25][^26] |
 | TeamOn.com | Early stage | ~2000 | Web applications | [^22] |
 
@@ -150,3 +150,6 @@ No additional independently sourced founder testimonials specifically about Pete
 [^24]: EnvZone, "Tom Seery's RealSelf: Why You Should Not Take the First Money Offered?," accessed May 2026. https://envzone.com/tom-seery-goodwill-to-raise-and-good-partner-to-grow-business/
 [^25]: Yahoo Finance / BusinessWire, "WISErg Announces $11 Million Series B Funding," March 24, 2015. https://finance.yahoo.com/news/wiserg-announces-11-million-series-140000278.html
 [^26]: FinSMEs, "WISErg Raises $11M in Series B Funding," March 24, 2015. https://www.finsmes.com/2015/03/wiserg-raises-11m-in-series-b-funding.html
+[^27]: GeekWire, "Madrona Venture Labs spinout Uplevel raises $7.5M to measure engineering teams' productivity," January 15, 2020. https://www.geekwire.com/2020/madrona-venture-labs-spinout-uplevel-raises-7-5m-measure-engineering-teams-productivity/
+[^28]: BuiltIn, "Uplevel Launches and Raises $7.5M to Help Engineers Boost Their Productivity," January 15, 2020. https://builtin.com/articles/uplevel-launch
+[^29]: Pike13 press release, "Pike13 Raises $3.2 Million in Seed Financing to Expand Mobile SaaS Platform for Personal Services Economy," September 2013 (updated July 13, 2017). https://learn.pike13.com/blog/pike13-raises-32-million-in-seed-financing-to-expand-mobile-saas-platform-for-personal-services-economy
