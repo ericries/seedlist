@@ -59,8 +59,8 @@ Sample size is small (9 confirmed) — this analysis describes patterns rather t
 | Granola | 2024 | Series A ($20M, Oct 2024, Lightspeed participated; led by Spark) | [^17] |
 | Macroscope | 2025 | Series A (led, $30M, July 2025) | [^16] |
 | Granola | 2025 | Series B ($43M, May 2025, continued participation; led by NFDG) | [^17] |
-| xAI | ~2024 | Lightspeed participated (Mignano worked on deal) | [^1] [^2] |
-| Neuralink | ~2023 | Lightspeed participated (Mignano worked on deal) | [^1] [^2] |
+| xAI | 2024 | Series B ($6B, May 2024; Lightspeed participated) | [^1] [^20] |
+| Neuralink | 2025 | Series E ($650M, June 2025; Lightspeed participated) | [^1] [^21] |
 | Lightfield | 2023 | Lightspeed (with Nathan Wu) | [^18] |
 | Board | 2026 | Series A (led, $20M, 2026-06-02; board seat; first USV investment) | [^15] |
 
@@ -140,3 +140,7 @@ No independently sourced founder testimonials about working with Mignano were fo
 [^18]: Lightfield, Lightspeed company page, accessed June 2026. https://lsvp.com/company/lightfield/
 
 [^19]: Union Square Ventures team page, accessed June 2026. https://www.usv.com/people/
+
+[^20]: xAI company page, Lightspeed Venture Partners (LSVP Investment: 2024, Series B), accessed June 2026. https://lsvp.com/company/xai/
+
+[^21]: "Elon Musk's Neuralink raises $650 million in Series E funding," American Bazaar, June 4, 2025, accessed June 2026. https://americanbazaaronline.com/2025/06/04/elon-musks-neuralink-raises-650-million-in-series-e-funding-463370/

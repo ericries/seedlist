@@ -56,7 +56,8 @@ The firm has raised eight funds with approximately $500 million in total assets 
 | Fund V | 2014 | $76M [^7] |
 | Fund VI | 2017 | $131M [^7][^8] |
 | Fund VII | 2021 | $146M [^7] |
-| Fund VIII | Unknown | Unknown |
+
+*No publicly disclosed Fund VIII has been confirmed as of June 2026. Floodgate continued making active investments in 2024-2026 (e.g., ZITADEL, Ario, Lume) but neither the firm website nor SEC filings independently verified a Fund VIII close.*
 
 Note: Sources disagree on Fund I size. The Mike Maples investor profile on HBS cites $15M [^5]; Grokipedia cites $10M [^2]. Both figures are included for transparency.
 

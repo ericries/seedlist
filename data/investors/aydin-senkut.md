@@ -104,18 +104,18 @@ Based on 19 verified portfolio companies in the table below. Note: Felicis's ful
 | Rovio | Series A | 2011-03-10 | Gaming/Consumer | Public (acquired by SEGA) | [^1][^12] |
 | Guideline | Series A (lead) | 2017-08-08 | Fintech/Retirement | Private | [^2][^13] |
 | Runway | Series C (lead) | 2022-12-05 | AI/Video | Private | [^2][^7][^14] |
-| Poolside | Early | ~2023 | AI/Developer Tools | Private | [^2] |
-| Weights & Biases | Early | ~2020 | AI/ML Ops | Private | [^2] |
-| Verkada | Early | ~2018 | Security/IoT | Private | [^2] |
-| Semgrep | Early | ~2020 | Developer Tools/Security | Private | [^2] |
+| Poolside | Seed (Felicis co-lead) | 2023-08-25 | AI/Developer Tools | Private | [^2][^16] |
+| Weights & Biases | Series C | 2021-10-13 | AI/ML Ops | Private | [^2][^17] |
+| Verkada | Series C | 2020-01-29 | Security/IoT | Private | [^2][^18] |
+| Semgrep | Series C | 2023-04-18 | Developer Tools/Security | Private | [^2][^19] |
 | n8n | Series B | 2025 | Developer Tools/Automation | Private | [^2] |
-| Skild AI | Early | ~2024 | AI/Robotics | Private | [^2] |
-| Crusoe | Early | ~2021 | Energy/Cloud Computing | Private | [^3] |
-| Supabase | Early | ~2022 | Developer Tools/Database | Private | [^7] |
-| Vannevar Labs | Early | ~2022 | Defense Tech/AI | Private | [^7] |
+| Skild AI | Series A | 2024-07-09 | AI/Robotics | Private | [^2][^20] |
+| Crusoe | Series C | 2022-04-21 | Energy/Cloud Computing | Private | [^3][^21] |
+| Supabase | Series B (Felicis-led) | 2022-05-10 | Developer Tools/Database | Private | [^7][^22] |
+| Vannevar Labs | Series B (Felicis-led) | 2023-01-18 | Defense Tech/AI | Private | [^7][^23] |
 | Blomma | Seed (Felicis-led) | 2026-04-29 | AI/Consumer | Private | [^15] |
 
-*This table represents 20 of 436+ total portfolio companies. Years marked with ~ are approximate based on founding dates or public reporting. The Blomma seed round was led by Felicis GP Viviana Faga, not Aydin Senkut directly, but is included as a firm-level investment by Felicis.*
+*This table represents 20 of 436+ total portfolio companies. The Blomma seed round was led by Felicis GP Viviana Faga, not Aydin Senkut directly, but is included as a firm-level investment by Felicis.*
 
 ## In Their Own Words
 
@@ -148,3 +148,11 @@ No independently sourced founder testimonials found. Felicis publicly describes 
 [^13]: "Guideline raises $15 million led by Felicis to make 401(k)s more widely available," TechCrunch, August 8, 2017, accessed April 2026. https://techcrunch.com/2017/08/08/guideline-15-million/
 [^14]: "Next Generation Content Creation, Powered by AI — Leading Runway's Series C," Felicis blog, December 5, 2022, accessed April 2026. https://www.felicis.com/insight/runway-series-c
 [^15]: "A Coach for the Rest of Us: Our Investment in Blomma," Felicis blog, April 29, 2026, accessed April 2026. https://www.felicis.com/blog/seed-round-blomma
+[^16]: "US AI startup Poolside raises $126m seed round and relocates to France," Sifted, August 25, 2023, accessed June 2026. https://sifted.eu/articles/poolside-raises-126m-relocated-france-news
+[^17]: "Weights & Biases raises $135M Series C to keep building MLOps software," TechCrunch, October 13, 2021, accessed June 2026. https://techcrunch.com/2021/10/13/weights-biases-raises-new-capital-as-developer-tools-remain-a-venture-focus-ml-matures/
+[^18]: Verkada funding rounds, Tracxn (Felicis first investment 2020-01-29 Series C), accessed June 2026. https://tracxn.com/d/companies/verkada/__MabJwkKkg0oIExy7Z4aEaDyJpDpGhLgk1mfJDk_rdQA/funding-and-investors
+[^19]: "Semgrep Announces $53M in Series C Funding to Profoundly Improve Software Security and Reliability," PR Newswire, April 18, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/semgrep-announces-53m-in-series-c-funding-to-profoundly-improve-software-security-and-reliability-301799442.html
+[^20]: "Skild AI Raises $300M Series A To Build A Scalable AI Foundation Model For Robotics," BusinessWire, July 9, 2024, accessed June 2026. https://www.businesswire.com/news/home/20240709306400/en/Skild-AI-Raises-$300M-Series-A-To-Build-A-Scalable-AI-Foundation-Model-For-Robotics
+[^21]: Crusoe funding rounds, Tracxn (Felicis first investment 2022-04-21 Series C), accessed June 2026. https://tracxn.com/d/companies/crusoe/__yyRkgaJgxamAgI3lijDZiChhfKCvnkFGTnaMcmtbFiM/funding-and-investors
+[^22]: "Supabase Announces $80 Million Series B Led by Felicis," PR Newswire, May 10, 2022, accessed June 2026. https://www.prnewswire.com/news-releases/supabase-announces-80-million-series-b-led-by-felicis-301544453.html
+[^23]: "Vannevar Labs Announces $75M Series B Funding Round," PR Newswire, January 18, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/vannevar-labs-announces-75m-series-b-funding-round-301725181.html
