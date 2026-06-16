@@ -9202,7 +9202,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 33,
+      "size": 35,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9357,6 +9357,14 @@
         {
           "slug": "nathan-benaich",
           "name": "Nathan Benaich"
+        },
+        {
+          "slug": "khaled-helioui",
+          "name": "Khaled Helioui"
+        },
+        {
+          "slug": "mathias-geeroms",
+          "name": "Mathias Geeroms"
         }
       ]
     },
@@ -9419,7 +9427,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 101,
+      "size": 103,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9877,6 +9885,14 @@
         {
           "slug": "sahil-lavingia",
           "name": "Sahil Lavingia"
+        },
+        {
+          "slug": "khaled-helioui",
+          "name": "Khaled Helioui"
+        },
+        {
+          "slug": "mathias-geeroms",
+          "name": "Mathias Geeroms"
         }
       ]
     },
