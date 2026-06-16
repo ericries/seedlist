@@ -1,40 +1,50 @@
 ---
-name: "NewCore"
-slug: newcore
-type: startup
-website: ""
-location: "Tel Aviv, Israel / San Francisco, USA"
-founded: 2025
-status_company: active
-sector: [cybersecurity, identity, ai, enterprise-software]
-stage_latest: "Seed (expanded)"
-total_raised: "$66M"
-investors:
-  - slug: assaf-rappaport
-    round: seed
-    year: 2026
-    date: 2026-06-15
-  - slug: yotam-segev
-    round: seed
-    year: 2026
-    date: 2026-06-15
 firms:
-  - slug: index-ventures
-    round: pre-seed
-    year: 2025
-  - slug: index-ventures
-    round: seed
-    year: 2026
-    date: 2026-06-15
+- round: pre-seed
+  slug: index-ventures
+  year: 2025
+- date: 2026-06-15
+  round: seed
+  slug: index-ventures
+  year: 2026
+- round: '2026-06-15'
+  slug: wiz
+  year: 2026
+- round: '2026-06-15'
+  slug: cyera
+  year: 2026
+founded: 2025
 founders:
-  - name: "Zohar Alon"
-    role: "Co-Founder & CEO"
-  - name: "Amihai Neiderman"
-    role: "Co-Founder & CTO"
-  - name: "Erez Yarkoni"
-    role: "Co-Founder & CCO"
-status: published
+- name: Zohar Alon
+  role: Co-Founder & CEO
+- name: Amihai Neiderman
+  role: Co-Founder & CTO
+- name: Erez Yarkoni
+  role: Co-Founder & CCO
+investors:
+- date: 2026-06-15
+  round: seed
+  slug: assaf-rappaport
+  year: 2026
+- date: 2026-06-15
+  round: seed
+  slug: yotam-segev
+  year: 2026
 last_researched: 2026-06-03
+location: Tel Aviv, Israel / San Francisco, USA
+name: NewCore
+sector:
+- cybersecurity
+- identity
+- ai
+- enterprise-software
+slug: newcore
+stage_latest: Seed (expanded)
+status: published
+status_company: active
+total_raised: $66M
+type: startup
+website: ''
 ---
 
 ## About

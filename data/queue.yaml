@@ -26581,7 +26581,7 @@ queue:
 - name: Khaled Helioui
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Plural
   discovered_from: taavet-hinrikus
@@ -29584,3 +29584,40 @@ queue:
   added: '2026-03-17'
   discovered_from: artis
   source: Co-investor in Artis $7.3M seed round (2026-06-12)
+- name: The Exploration Company
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: khaled-helioui
+- name: Jorn Vanysacker
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Henchman
+  discovered_from: mathias-geeroms
+- name: Pitchdrive
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mathias-geeroms
+- name: Lighthouse
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mathias-geeroms
+- name: Jurimesh
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mathias-geeroms
+- name: Driven
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mathias-geeroms

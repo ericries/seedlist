@@ -1,21 +1,30 @@
 ---
-name: "Undo"
-slug: undo
-type: startup
-website: "https://undo.io"
-location: "Cambridge, UK"
+firms:
+- round: Seed
+  slug: metaplanet
+  year: 2014
 founded: 2005
-status_company: active
-sector: [developer-tools, ai, software-debugging]
-stage_latest: "Growth"
-total_raised: "$37M (June 2026 round)"
-investors: []
-firms: []
 founders:
-  - name: "Greg Law"
-    role: "Founder & CEO"
-status: published
+- name: Greg Law
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: jaan-tallinn
+  year: 2014
 last_researched: 2026-06-03
+location: Cambridge, UK
+name: Undo
+sector:
+- developer-tools
+- ai
+- software-debugging
+slug: undo
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $37M (June 2026 round)
+type: startup
+website: https://undo.io
 ---
 
 ## About

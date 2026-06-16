@@ -58,6 +58,9 @@ firms:
 - round: Angel (exited via IPO)
   slug: independent
   year: 2014
+- round: Angel
+  slug: plural
+  year: 2013
 founded: 2013
 founders:
 - name: Will Shu
@@ -83,6 +86,9 @@ investors:
 - round: Angel (exited via IPO)
   slug: ian-hogarth
   year: 2014
+- round: Angel
+  slug: khaled-helioui
+  year: 2013
 last_researched: 2026-03-20
 location: London, United Kingdom
 name: Deliveroo

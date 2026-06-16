@@ -151,6 +151,9 @@ firms:
 - round: Angel ($1K–$15K range)
   slug: independent
   year: 2013
+- round: Angel (first European investor)
+  slug: plural
+  year: 2011
 founded: 2009
 founders:
 - name: Travis Kalanick
@@ -284,6 +287,9 @@ investors:
 - round: Angel ($1K–$15K range)
   slug: jared-polis
   year: 2013
+- round: Angel (first European investor)
+  slug: khaled-helioui
+  year: 2011
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Uber

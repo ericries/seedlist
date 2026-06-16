@@ -1,38 +1,45 @@
 ---
-name: "Radical Numerics"
-slug: radical-numerics
-type: startup
-website: ""
-location: ""
-founded: 2025
-status_company: active
-sector: [ai, biotech, drug-discovery, computational-biology]
-stage_latest: "Seed"
-total_raised: "$50M"
-investors:
-  - slug: patrick-collison
-    round: pre-seed
-    year: 2025
 firms:
-  - slug: emergence-capital
-    round: seed
-    year: 2026
-    date: 2026-06-15
-  - slug: obvious-ventures
-    round: seed
-    year: 2026
-    date: 2026-06-15
+- date: 2026-06-15
+  round: seed
+  slug: emergence-capital
+  year: 2026
+- date: 2026-06-15
+  round: seed
+  slug: obvious-ventures
+  year: 2026
+- round: Pre-Seed
+  slug: stripe
+  year: 2025
+founded: 2025
 founders:
-  - name: "Eric Nguyen"
-    role: "CEO & Co-Founder"
-  - name: "Michael Poli"
-    role: "Chief AI Scientist & Co-Founder"
-  - name: "Stefano Massaroli"
-    role: "President & Co-Founder"
-  - name: "Armin Thomas"
-    role: "CTO & Co-Founder"
-status: published
+- name: Eric Nguyen
+  role: CEO & Co-Founder
+- name: Michael Poli
+  role: Chief AI Scientist & Co-Founder
+- name: Stefano Massaroli
+  role: President & Co-Founder
+- name: Armin Thomas
+  role: CTO & Co-Founder
+investors:
+- round: pre-seed
+  slug: patrick-collison
+  year: 2025
 last_researched: 2026-06-03
+location: ''
+name: Radical Numerics
+sector:
+- ai
+- biotech
+- drug-discovery
+- computational-biology
+slug: radical-numerics
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $50M
+type: startup
+website: ''
 ---
 
 ## About
