@@ -30,7 +30,7 @@ Rocapine is a Paris-based AI-native wellness venture studio that builds and scal
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-16 | Series A | €11.2M | Educapital | Daphni, Ring Capital, Centre Court Capital, Athletico Ventures, Better Angle [^1][^2] |
+| 2026-06-16 | Series A | €11.2M | Educapital | Daphni, Ring Capital, Centre Court Capital, Athletico Ventures, Better Angle [^1][^2][^3] |
 
 Angel participants included Jean-Charles Samuelian-Werve (Alan), Kenneth Schlenker (Opal), the co-founders of Yubo (Marc-Antoine Durand, Sacha Lazimi, Jérémie Aouate), Xavier Mariani (Adikteev), Francescu Santoni (Mojo), Benedict Kurz (Knowunity), Olivier Lemarié (Photoroom), Maxime Demeure (Madbox), Maud Pasturaud (Menoclinic), Naveen Mewani (Homa), Sebastien Borget (The Sandbox), Thibaud Elzière, Amaury Sépulchre, Quentin Nickmans (Hexa), Julien Romanetto (Arianee), Gary Anssen (Alltricks), Justine Hutteau (Respire), and Will Mahon (Outpost) [^1].
 
