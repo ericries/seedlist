@@ -819,4 +819,5 @@ priority:
   type: firm
   reason: "appeared as participant in Podium Automation $18M Series A (2026-06-15, Construct Capital-led). Verify portfolio table includes new row."
   added: 2026-06-03
-  status: pending
+  status: resolved
+  resolution_note: "RESOLVED 2026-06-03 — Podium Automation $18M Series A (2026-06-15, Construct Capital led; Andreessen Horowitz, Transition Ventures, Sunflower Capital, Banter Capital participated) added to andreessen-horowitz.md portfolio with 3 independent primary citations: (1) PR Newswire press release [^70] confirming all participants and Dayna Grayson board seat; (2) AlleyWatch Daily Funding Report 6/15/2026 [^71] independently confirming round details and co-investors; (3) Mann Report [^72] independently confirming. Brooklyn-based industrial automation; total funding now $23M+. Investor profiles for biz-stone and aaron-levie do not exist in repo — sweep skipped per CLAUDE.md (only resolve facts in existing profiles)."
