@@ -81,6 +81,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Pre-Seed
   status: pending
+- title: Barcelona-based Gate2Brain secures €7 million to advance brain tumour candidate
+  url: https://www.eu-startups.com/2026/06/barcelona-based-gate2brain-secures-e7-million-to-advance-brain-tumour-candidate/
+  source: eu-startups
+  date_found: '2026-06-16'
+  parsed_company: Barcelona-based Gate2Brain
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Orbio raises $21 million to automate hiring and onboarding for frontline
     workers
   url: https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
@@ -899,14 +907,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   notes: aggregator/weekly digest - rounds covered or unrelated
-- title: Founded after personal loss, Joyvié Health raises €897k to rethink continence
-    underwear
-  url: https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/
-  source: eu-startups
-  date_found: '2026-06-05'
-  parsed_company: Founded after personal loss, Joyvié Health
-  parsed_amount: €897K
-  parsed_round: Pre-Seed
-  status: processed
-  notes: created joyvie-health.md; queued SyndicateRoom, Lavender Ventures, HERmesa
-    Angels
