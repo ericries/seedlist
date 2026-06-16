@@ -20997,7 +20997,7 @@ queue:
 - name: Alex Plugaru
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gorgias
   discovered_from: cal-henderson
@@ -28510,7 +28510,7 @@ queue:
 - name: Tudor Achim
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Harmonic
   discovered_from: vlad-tenev
@@ -29621,3 +29621,163 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: mathias-geeroms
+- name: Transition Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: podium-automation
+  source: participant in Podium Automation $18M Series A (2026-06-15)
+- name: Banter Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: podium-automation
+  source: participant in Podium Automation $18M Series A (2026-06-15)
+- name: Jamie Niu Serota
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Podium Automation
+  discovered_from: podium-automation
+  source: Co-Founder & CEO of Podium Automation
+- name: Jacob Buser
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Podium Automation
+  discovered_from: podium-automation
+  source: Co-Founder & CTO of Podium Automation
+- name: Camber Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: respond-io
+  source: led Respond.io Series B $62.5M (2026-06-15); software growth equity
+- name: Headline Asia
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: respond-io
+  source: led Respond.io Series A $7M (2022-09)
+- name: Gerardo Salandra
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Respond.io
+  discovered_from: respond-io
+  source: Co-Founder & CEO of Respond.io
+- name: Educapital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocapine
+  source: led Rocapine Series A €11.2M (2026-06-16); EdTech/wellness focus
+- name: Daphni
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocapine
+  source: participant in Rocapine Series A €11.2M (2026-06-16)
+- name: Ring Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocapine
+  source: participant in Rocapine Series A €11.2M (2026-06-16)
+- name: Centre Court Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocapine
+  source: participant in Rocapine Series A €11.2M (2026-06-16)
+- name: Athletico Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocapine
+  source: participant in Rocapine Series A €11.2M (2026-06-16)
+- name: Better Angle
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rocapine
+  source: participant in Rocapine Series A €11.2M (2026-06-16)
+- name: Stanislas Marchand
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Rocapine
+  discovered_from: rocapine
+  source: Co-Founder & CEO of Rocapine
+- name: Helm.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tudor-achim
+  source: Autonomous-driving software co-founded by Tudor Achim (CTO) in 2016; $13M
+    seed 2020
+- name: Charlie Cheever
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tudor-achim
+  source: angel investor in Harmonic Series B (2025-07)
+- name: Romain Lapeyre
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gorgias
+  discovered_from: alex-plugaru
+  source: Co-Founder & CEO of Gorgias; co-invested with Alex Plugaru in Hookdeck pre-seed
+    (2021-09)
+- name: Hookdeck
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-plugaru
+  source: Webhook infrastructure platform; raised pre-seed (2021-09, $320K) and seed
+    (2022-04, $2.4M USD led by Matrix Partners) with Alex Plugaru as angel
+- name: Farhan Thawar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Shopify
+  discovered_from: alex-plugaru
+  source: VP Engineering at Shopify; angel in Hookdeck seed (2022-04) alongside Alex
+    Plugaru
+- name: Ott Kaukver
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Checkout.com
+  discovered_from: alex-plugaru
+  source: CTO at Checkout.com; angel in Hookdeck seed (2022-04) alongside Alex Plugaru
+- name: Chris Nguyen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: LogDNA
+  discovered_from: alex-plugaru
+  source: Co-founder of LogDNA; angel in Hookdeck pre-seed (2021-09) alongside Alex
+    Plugaru
