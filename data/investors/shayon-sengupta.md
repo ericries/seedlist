@@ -78,10 +78,10 @@ The following investments are attributed to Sengupta personally through Multicoi
 | io.net | 2024-03-05 | Series A ($30M, Hack VC led; Multicoin, 6th Man Ventures, Solana Labs participated) | [^13] |
 | Jito | 2022-08-11 | Series A ($10M, Multicoin & Framework co-led) | [^1] [^17] [^25] [^26] |
 | Sei | 2022-08-31 | Seed ($5M, Multicoin led) | [^1] [^27] |
-| Hyperliquid | ~2022 | Unknown (no traditional VC round; team rejected outside funding) | [^1] |
+| Hyperliquid | ~2022 | No outside funding round (team self-funded via co-founder Jeff Yan's prior trading firm; no VC, no presale) | [^1] [^35] |
 | Kamino | 2022-03 | Seed ($6.1M; Multicoin participated, Solana Ventures led) | [^1] [^28] |
 | fun.xyz | 2026-05-01 | Series A ($72M, Multicoin & SignalFire co-led; prior $3.9M seed in 2022) | [^1] [^29] [^30] |
-| Fuse | ~2023 | Unknown | [^1] |
+| Fuse | 2024-09-12 | Strategic ($12M, Multicoin led; Balderton, Lakestar, Accel, Creandum, LowerCarbon, Ribbit, BoxGroup participated) | [^1] [^36] [^37] [^38] |
 | Geodnet | 2025 | Strategic ($8M, Multicoin led) | [^10] [^18] |
 | LI.FI | 2025 | Series A Extension ($29M, Multicoin co-led) | [^1] |
 
@@ -164,3 +164,7 @@ No independently sourced founder testimonials about Shayon Sengupta specifically
 [^32]: Render Network, "The Next Phase of The Render Network: Building The Open Metaverse with Multicoin Capital," Medium, December 2021. https://medium.com/render-token/the-next-phase-of-the-render-network-building-the-open-metaverse-with-multicoin-capital-f34368458ee9
 [^33]: Drift, "Drift Announces $25M Series B Raise," September 19, 2024. https://www.drift.trade/updates/drift-raises-25m-in-series-b-funding-led-by-multicoin
 [^34]: CoinDesk, "Multicoin Leads $4M Strategic Round for Web3 Co-Ownership Platform Lore," April 6, 2023. https://www.coindesk.com/business/2023/04/06/multicoin-leads-4m-strategic-round-for-web3-co-ownership-platform-lore
+[^35]: Yellow, "Hyperliquid Runs No VC Funding And Still Beats Every DEX On Earth," accessed June 2026. https://yellow.com/research/hyperliquid-no-vc-funding-dex-volume-record — Confirms no VC, no presale, no outside investors; co-founder Jeff Yan funded development from his prior market-making firm Chameleon Trading.
+[^36]: Multicoin Capital, "The Great Energy Coordination Problem," September 12, 2024. https://multicoin.capital/2024/09/12/the-great-energy-coordination-problem/ — Multicoin's own announcement of the $12M Fuse investment, dated September 12, 2024.
+[^37]: Decrypt, "Fuse Plugs Solana Token Into Energy Distribution DePIN Play," September 2024. https://decrypt.co/248985/fuse-plugs-solana-token-energy-distribution-depin-play
+[^38]: crypto.news, "Crypto VC funding: Huma Finance raises $38m, Fuse gets $12m," September 13, 2024. https://crypto.news/crypto-vc-funding-huma-financial-38m-fuse-gets-12m/ — Confirms $12M strategic round led by Multicoin Capital announced September 12, 2024.
