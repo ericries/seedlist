@@ -89,6 +89,158 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Cursor raised $3.38B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Cursor
+  parsed_amount: $3.38B
+  parsed_round: null
+  status: pending
+- title: Sarvam raised $234M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Sarvam
+  parsed_amount: $234M
+  parsed_round: null
+  status: pending
+- title: Hydra Host raised $100M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Hydra Host
+  parsed_amount: $100M
+  parsed_round: Series A
+  status: pending
+- title: Arcade.dev raised $60M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Arcade.dev
+  parsed_amount: $60M
+  parsed_round: Series A
+  status: pending
+- title: Bland raised $50M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Bland
+  parsed_amount: $50M
+  parsed_round: Series C
+  status: pending
+- title: Interchecks raised $50M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Interchecks
+  parsed_amount: $50M
+  parsed_round: Series C
+  status: pending
+- title: Undo raised $37M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Undo
+  parsed_amount: $37M
+  parsed_round: null
+  status: pending
+- title: Copia raised $26M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Copia
+  parsed_amount: $26M
+  parsed_round: null
+  status: pending
+- title: Luni raised $14M user acquisition
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Luni
+  parsed_amount: $14M
+  parsed_round: User Acquisition
+  status: pending
+- title: Rocapine raised $13M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Rocapine
+  parsed_amount: $13M
+  parsed_round: Series A
+  status: pending
+- title: Nox Metals raised $11.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Nox Metals
+  parsed_amount: $11.5M
+  parsed_round: Seed
+  status: pending
+- title: Lightbringer raised $10M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Lightbringer
+  parsed_amount: $10M
+  parsed_round: Series A
+  status: pending
+- title: Magnitude raised $10M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Magnitude
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: pending
+- title: El Dorado raised $9M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: El Dorado
+  parsed_amount: $9M
+  parsed_round: Series A
+  status: pending
+- title: Waniwani raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Waniwani
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: pending
+- title: Sloneek raised $6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Sloneek
+  parsed_amount: $6M
+  parsed_round: null
+  status: pending
+- title: Yorkville International Capital raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Yorkville International Capital
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: Gutter Capital raised $75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: Gutter Capital
+  parsed_amount: $75M
+  parsed_round: null
+  status: pending
+- title: u003eCursor raised $3.38B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-16'
+  parsed_company: u003eCursor
+  parsed_amount: $3.38B
+  parsed_round: null
+  status: pending
 - title: Orbio raises $21 million to automate hiring and onboarding for frontline
     workers
   url: https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
@@ -728,182 +880,3 @@ pending_rounds:
   parsed_round: Seed
   status: processed
   notes: already covered in galvany.md
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/8/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-8-2026/
-  source: alleywatch
-  date_found: '2026-06-08'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created edge-markets.md ($29.2M Series A, 2026-06-08, CoinFund led); updated
-    coinfund.md portfolio
-- title: PhysicsX raised $300M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-08'
-  parsed_company: PhysicsX
-  parsed_amount: $300M
-  parsed_round: Series C
-  status: processed
-  notes: already covered in physicsx.md
-- title: RLeXtw A raised $47M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-08'
-  parsed_company: RLeXtw A
-  parsed_amount: $47M
-  parsed_round: null
-  status: skipped
-  skip_reason: garbled company name from axios parsing; cannot identify
-- title: Blnk raised $12.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-08'
-  parsed_company: Blnk
-  parsed_amount: $12.5M
-  parsed_round: Series A
-  status: processed
-  notes: already covered in blnk.md
-- title: BeatpulseLabs raised $1.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-08'
-  parsed_company: BeatpulseLabs
-  parsed_amount: $1.8M
-  parsed_round: null
-  status: skipped
-  skip_reason: very small round, no profile pipeline benefit at this size
-- title: 'The Weekly Notable Startup Funding Report: 6/8/26'
-  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
-  source: alleywatch
-  date_found: '2026-06-07'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: aggregate roundup; most companies (Ramp, Cyera, AlphaSense, Mach, Supabase,
-    Suno, Helion, Town, Scotch, Layup Parts, Forage, Generalist AI, Findigs, Sekai,
-    Terra AI, Auger, Plot, Subtle Medical, Novellia, Honeycomb Insurance, Binti, Axiom
-    Space, Highland Electric Fleets, Impulse Space) already in feed or in skip list;
-    created veritas-aortic-solutions startup profile for the $12M Seed (2026-06-01,
-    Costa Mesa medical devices)
-- title: Supabase raised $500M Series F
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: Supabase
-  parsed_amount: $500M
-  parsed_round: Series F
-  status: skipped
-  notes: already in skip list / profile exists
-- title: Generalist raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: Generalist
-  parsed_amount: $400M
-  parsed_round: null
-  status: skipped
-  notes: already in skip list / profile exists
-- title: Opal Security raised $23M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: Opal Security
-  parsed_amount: $23M
-  parsed_round: null
-  status: skipped
-  notes: already in skip list / profile exists
-- title: Offroad AI raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: Offroad AI
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: skipped
-  notes: already in skip list / profile exists
-- title: Willow raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: Willow
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: skipped
-  notes: already in skip list / profile exists
-- title: FutureCorp Space Acquisition 1 raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: FutureCorp Space Acquisition 1
-  parsed_amount: $200M
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: InterPrivate Investment Partners V raised $175M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: InterPrivate Investment Partners V
-  parsed_amount: $175M
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: Long Table Growth raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: Long Table Growth
-  parsed_amount: $150M
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: u003eIt raised $837M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: u003eIt
-  parsed_amount: $837M
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: u003e raised $500M Series F
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-06'
-  parsed_company: u003e
-  parsed_amount: $500M
-  parsed_round: Series F
-  status: skipped
-  notes: malformed scraper entry (HTML entity) - axios newsletter URL not specific
-- title: Lugano’s GR3N closes €15.5 million Series B to build the world’s first microwave-assisted
-    PET recycling plant in Spain
-  url: https://www.eu-startups.com/2026/06/luganos-gr3n-closes-e15-5m-series-b-to-build-the-worlds-first-microwave-assisted-pet-recycling-plant-in-spain/
-  source: eu-startups
-  date_found: '2026-06-05'
-  parsed_company: Lugano’s GR3N
-  parsed_amount: null
-  parsed_round: Series B
-  status: skipped
-  notes: already in skip list / profile exists
-- title: Volatus Aerospace Closes $34.5M Bought Deal Public Offering
-  url: https://www.globenewswire.com/news-release/2026/06/05/3307375/0/en/Volatus-Aerospace-Closes-34-5M-Bought-Deal-Public-Offering.html
-  source: globenewswire
-  date_found: '2026-06-05'
-  parsed_company: Volatus Aerospace
-  parsed_amount: $34.5M
-  parsed_round: null
-  status: skipped
-  skip_reason: public-company bought-deal secondary offering, not a venture round
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (June 01 – June 05)
-  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-01-june-05/
-  source: eu-startups
-  date_found: '2026-06-05'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated

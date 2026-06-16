@@ -1497,7 +1497,9 @@ vague_facts:
   line: '| Supernormal | Seed | 2023 | AI / Productivity | [^12][^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Supernormal Seed $10M announced 2026-01-26 (press release date per Balderton; TechCrunch reported 2023-01-25). Lead: Balderton Capital. Participants: EQT Ventures, Acequia Capital, byFounders, plus angels (Jehad Affoneh, Nir Eyal, Mick Johnson). Updated Acequia portfolio row to 2023-01-26 with 3 new citations [^20][^21][^22] (TechCrunch, Balderton press release, Voicebot.ai)."
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: deepset
@@ -159584,7 +159586,9 @@ vague_facts:
   line: '| Supernormal | Seed | 2023 | AI / Productivity | [^12][^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Resolved alongside unknown_value entry. Updated to 2023-01-26 (Balderton press release date) with 3 new primary citations."
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Griptape

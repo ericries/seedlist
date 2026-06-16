@@ -118,7 +118,7 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | Rec Room | Seed | 2016 | Gaming | [^12][^14] |
 | Formlabs | Seed | ~2012 | Hardware / 3D Printing | [^12] |
 | Tractable | Seed | ~2015 | AI / Insurance | [^12][^6] |
-| Supernormal | Seed | 2023 | AI / Productivity | [^12][^15] |
+| Supernormal | Seed | 2023-01-26 | AI / Productivity | [^12][^15][^20][^21][^22] |
 | deepset | Series A | 2022 | AI / NLP | [^11] |
 | Griptape | Seed | 2023 | AI / Developer Tools | [^16] |
 | Harbinger Motors | Series A | 2023 | EV / New Industrials | [^10] |
@@ -196,3 +196,6 @@ No independently sourced founder testimonials found. The firm's website and publ
 [^17]: GlobeNewswire, "Corintis raises $24M to target the next AI bottleneck, and collaborates with Microsoft for chip cooling breakthrough," September 25, 2025. Accessed June 2026. https://www.globenewswire.com/news-release/2025/09/25/3156314/0/en/Corintis-raises-24M-to-target-the-next-AI-bottleneck-and-collaborates-with-Microsoft-for-chip-cooling-breakthrough.html
 [^18]: Axios Pro Rata, "Exclusive: Chip cooling startup Corintis raises a $24M Series A," September 25, 2025. Accessed June 2026. https://www.axios.com/pro/enterprise-software-deals/2025/09/25/chip-cooling-startup-corintis-24-million-series-a
 [^19]: GGBa Switzerland, "Corintis raises USD 24 million to accelerate chip cooling innovation," September 29, 2025. Accessed June 2026. https://ggba.swiss/en/corintis-raises-usd-24-million-to-accelerate-chip-cooling-innovation/
+[^20]: TechCrunch, "Supernormal raises $10M to automatically transcribe and summarize meetings," January 25, 2023. Accessed June 2026. https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/
+[^21]: Balderton Capital, "AI note-taking platform Supernormal raises $10 million," January 26, 2023. Accessed June 2026. https://www.balderton.com/news/supernormal-raises-10-million-to-transform-worker-productivity-and-transparency-with-ai-generated-meeting-notes/
+[^22]: Voicebot.ai, "Generative AI Startup Supernormal Raises $10M to Take Meeting Notes With GPT-3," January 26, 2023. Accessed June 2026. https://voicebot.ai/2023/01/26/generative-ai-startup-supernormal-raises-10m-to-take-meeting-notes-with-gpt-3/
