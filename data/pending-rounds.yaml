@@ -241,6 +241,23 @@ pending_rounds:
   parsed_amount: $3.38B
   parsed_round: null
   status: pending
+- title: Brookfield Office Properties Provides Update on Conversion Option for its
+    Class AAA Series N Preference Shares
+  url: https://www.globenewswire.com/news-release/2026/06/16/3313074/0/en/Brookfield-Office-Properties-Provides-Update-on-Conversion-Option-for-its-Class-AAA-Series-N-Preference-Shares.html
+  source: globenewswire
+  date_found: '2026-06-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/16/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-16-2026/
+  source: alleywatch
+  date_found: '2026-06-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Orbio raises $21 million to automate hiring and onboarding for frontline
     workers
   url: https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
@@ -860,23 +877,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: already covered in neworbit.md
-- title: Ghent’s Companion.energy raises €7.8 million to help large enterprises manage
-    energy in real time
-  url: https://www.eu-startups.com/2026/06/ghents-companion-energy-raises-e7-8-million-to-help-large-enterprises-manage-energy-in-real-time/
-  source: eu-startups
-  date_found: '2026-06-08'
-  parsed_company: Ghent’s Companion.energy
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: already covered in companion-energy.md
-- title: Profitable German heat pump platform GALVANY closes €10 million Seed round
-    after sevenfold revenue growth
-  url: https://www.eu-startups.com/2026/06/profitable-german-heat-pump-platform-galvany-closes-e10-million-seed-round-after-sevenfold-revenue-growth/
-  source: eu-startups
-  date_found: '2026-06-08'
-  parsed_company: Profitable German heat pump platform GALVANY
-  parsed_amount: null
-  parsed_round: Seed
-  status: processed
-  notes: already covered in galvany.md
