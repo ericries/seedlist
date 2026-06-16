@@ -38,6 +38,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Berlin-based Cortea raises €12 million Seed round to build AI quality layer
+    for audit firms
+  url: https://www.eu-startups.com/2026/06/berlin-based-cortea-raises-e12-million-seed-round-to-build-ai-quality-layer-for-audit-firms/
+  source: eu-startups
+  date_found: '2026-06-16'
+  parsed_company: Berlin-based Cortea
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Swedish AI patent platform Lightbringer raises €8.6 million to “take on Big
+    Law” and replace existing patent firms
+  url: https://www.eu-startups.com/2026/06/swedish-ai-patent-platform-lightbringer-raises-e8-6-million-to-take-on-big-law-and-replace-existing-patent-firms/
+  source: eu-startups
+  date_found: '2026-06-16'
+  parsed_company: Swedish AI patent platform Lightbringer
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Orbio raises $21 million to automate hiring and onboarding for frontline
     workers
   url: https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
@@ -897,20 +915,3 @@ pending_rounds:
   parsed_round: null
   status: skipped
   notes: aggregator/weekly digest - rounds covered or unrelated
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/5/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-5-2026/
-  source: alleywatch
-  date_found: '2026-06-05'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: aggregator/weekly digest - rounds covered or unrelated
-- title: NewLimit raised $435M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-04'
-  parsed_company: NewLimit
-  parsed_amount: $435M
-  parsed_round: null
-  status: processed
