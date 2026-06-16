@@ -815,3 +815,8 @@ priority:
   reason: "RESOLVED 2026-06-03 — NewCore $66M (2026-06-15, Index/Cyberstarts pre-seed co-leads, Evolution Equity Partners-led expanded seed) verified via 3 independent primary sources (Calcalistech CTech [^18], TheNextWeb [^19], SiliconANGLE [^20]). Segev confirmed as angel in expanded seed. Row added; LVI updated from A Security 2026-06-08 to NewCore 2026-06-15."
   added: 2026-06-03
   status: resolved
+- slug: andreessen-horowitz
+  type: firm
+  reason: "appeared as participant in Podium Automation $18M Series A (2026-06-15, Construct Capital-led). Verify portfolio table includes new row."
+  added: 2026-06-03
+  status: pending
