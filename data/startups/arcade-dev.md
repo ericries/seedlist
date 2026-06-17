@@ -1,25 +1,48 @@
 ---
-name: "Arcade"
-slug: arcade-dev
-type: startup
-website: "https://www.arcade.dev"
-location: "United States"
-founded: 2024
-status_company: active
-sector: [ai, developer-tools, security, infrastructure]
-stage_latest: "Series A"
-total_raised: "$72M"
 firms:
-  - slug: y-combinator
-    round: seed
-    year: 2025
+- round: seed
+  slug: y-combinator
+  year: 2025
+- round: Seed ($12M)
+  slug: index-ventures
+  year: 2025
+- round: Funding
+  slug: inspired-capital
+  year: 2025
+- round: Seed
+  slug: benchmark
+  year: 2025
+founded: 2024
 founders:
-  - name: "Alex Salazar"
-    role: "CEO & Co-Founder"
-  - name: "Sam Partee"
-    role: "CTO & Co-Founder"
-status: published
+- name: Alex Salazar
+  role: CEO & Co-Founder
+- name: Sam Partee
+  role: CTO & Co-Founder
+investors:
+- round: Seed ($12M)
+  slug: mike-volpi
+  year: 2025
+- round: Funding
+  slug: alexa-von-tobel
+  year: 2025
+- round: Seed
+  slug: andy-rachleff
+  year: 2025
 last_researched: 2026-06-16
+location: United States
+name: Arcade
+sector:
+- ai
+- developer-tools
+- security
+- infrastructure
+slug: arcade-dev
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $72M
+type: startup
+website: https://www.arcade.dev
 ---
 
 ## About

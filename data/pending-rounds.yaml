@@ -20,33 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Bolzano-based Soource raises €3 million to help procurement evolve from “copilot”
-    to “autopilot” model
-  url: https://www.eu-startups.com/2026/06/bolzano-based-soource-raises-e3-million-to-help-procurement-evolve-from-copilot-to-autopilot-model/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Bolzano-based Soource
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Drone warfare startup PDKINEMATICS raises €2 million for precision-guidance
-    systems out of Lithuania
-  url: https://www.eu-startups.com/2026/06/drone-warfare-startup-pdkinematics-raises-e2-million-for-precision-guidance-systems-out-of-lithuania/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Drone warfare startup PDKINEMATICS
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Barcelona-based NeuralTrust raises €17.2 million to secure and govern enterprise
-    AI agents
-  url: https://www.eu-startups.com/2026/06/barcelona-based-neuraltrust-raises-e17-2-million-to-secure-and-govern-enterprise-ai-agents/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Barcelona-based NeuralTrust
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Verizon announces expiration and final results of its private exchange offers
     and consent solicitations for 11 series of notes
   url: https://www.globenewswire.com/news-release/2026/06/17/3313350/0/en/Verizon-announces-expiration-and-final-results-of-its-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes.html
@@ -81,6 +54,201 @@ pending_rounds:
   date_found: '2026-06-17'
   parsed_company: Berlin-based NexDash
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bolzano-based Soource raises €3 million to help procurement evolve from “copilot”
+    to “autopilot” model
+  url: https://www.eu-startups.com/2026/06/bolzano-based-soource-raises-e3-million-to-help-procurement-evolve-from-copilot-to-autopilot-model/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Bolzano-based Soource
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Drone warfare startup PDKINEMATICS raises €2 million for precision-guidance
+    systems out of Lithuania
+  url: https://www.eu-startups.com/2026/06/drone-warfare-startup-pdkinematics-raises-e2-million-for-precision-guidance-systems-out-of-lithuania/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Drone warfare startup PDKINEMATICS
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona-based NeuralTrust raises €17.2 million to secure and govern enterprise
+    AI agents
+  url: https://www.eu-startups.com/2026/06/barcelona-based-neuraltrust-raises-e17-2-million-to-secure-and-govern-enterprise-ai-agents/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Barcelona-based NeuralTrust
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The Seattle-based chain raised $160M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: The Seattle-based chain
+  parsed_amount: $160M
+  parsed_round: null
+  status: pending
+- title: DeepSeek raised $7.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: DeepSeek
+  parsed_amount: $7.5B
+  parsed_round: null
+  status: pending
+- title: CuspAI raised $400M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: CuspAI
+  parsed_amount: $400M
+  parsed_round: null
+  status: pending
+- title: Ent raised $100M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Ent
+  parsed_amount: $100M
+  parsed_round: Seed
+  status: pending
+- title: Respond.io raised $62.5M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Respond.io
+  parsed_amount: $62.5M
+  parsed_round: Series B
+  status: pending
+- title: Conduct raised $60M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Conduct
+  parsed_amount: $60M
+  parsed_round: Series A
+  status: pending
+- title: Vedana Therapeutics raised $46M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Vedana Therapeutics
+  parsed_amount: $46M
+  parsed_round: Series A
+  status: pending
+- title: Andera raised $37M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Andera
+  parsed_amount: $37M
+  parsed_round: Series A
+  status: pending
+- title: Rejoni raised $25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Rejoni
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: Limitless Labs raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Limitless Labs
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: NeuralTrust raised $20M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: NeuralTrust
+  parsed_amount: $20M
+  parsed_round: Seed
+  status: pending
+- title: Karta raised $15M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Karta
+  parsed_amount: $15M
+  parsed_round: Series A
+  status: pending
+- title: HighGround raised $6.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: HighGround
+  parsed_amount: $6.5M
+  parsed_round: Seed
+  status: pending
+- title: Tenet Security raised $6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Tenet Security
+  parsed_amount: $6M
+  parsed_round: null
+  status: pending
+- title: Vali Health raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Vali Health
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: pending
+- title: Swsh raised $4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Swsh
+  parsed_amount: $4M
+  parsed_round: Seed
+  status: pending
+- title: Cantor Equity Partners VII raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Cantor Equity Partners VII
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: Align Capital Partners raised $770M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Align Capital Partners
+  parsed_amount: $770M
+  parsed_round: null
+  status: pending
+- title: Clearlake Capital Group raised $14.8B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: Clearlake Capital Group
+  parsed_amount: $14.8B
+  parsed_round: null
+  status: pending
+- title: u003e The Seattle-based chain raised $160M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: u003e The Seattle-based chain
+  parsed_amount: $160M
+  parsed_round: null
+  status: pending
+- title: u003e raised $400M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-17'
+  parsed_company: u003e
+  parsed_amount: $400M
   parsed_round: null
   status: pending
 - title: Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes
@@ -693,192 +861,3 @@ pending_rounds:
   parsed_round: seed
   status: processed
   processed_slug: uncovr
-- title: Raising money? Here’s what that funding round could really cost your business
-  url: https://www.eu-startups.com/2026/06/raising-money-heres-what-that-funding-round-could-really-cost-your-business/
-  source: eu-startups
-  date_found: '2026-06-10'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Jedify raises $24M to help companies arm AI agents with context on their
-    business
-  url: https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/
-  source: techcrunch
-  date_found: '2026-06-10'
-  parsed_company: Jedify
-  parsed_amount: $24M
-  parsed_round: series-a
-  status: processed
-  processed_slug: jedify
-- title: 'Sector Snapshot: Semiconductor Startup Funding Still Running Hot'
-  url: https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/
-  source: crunchbase
-  date_found: '2026-06-10'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Romanian eCommerce startup Naratix raises €1 million to accelerate market
-    growth
-  url: https://www.eu-startups.com/2026/06/romanian-ecommerce-startup-naratix-raises-e1-million-to-accelerate-growth/
-  source: eu-startups
-  date_found: '2026-06-10'
-  parsed_company: Romanian eCommerce startup Naratix
-  parsed_amount: €1M
-  parsed_round: seed
-  status: processed
-  processed_slug: naratix
-- title: Polish FinTech paymove secures €2.12 million to drive European expansion
-  url: https://www.eu-startups.com/2026/06/polish-fintech-paymove-secures-e2-12-million-to-drive-european-expansion/
-  source: eu-startups
-  date_found: '2026-06-10'
-  parsed_company: Polish FinTech paymove
-  parsed_amount: €2.12M
-  parsed_round: seed
-  status: processed
-  processed_slug: paymove
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/10/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-10-2026/
-  source: alleywatch
-  date_found: '2026-06-10'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_note: created f2.md ($14M seed, 2026-06-10, HighlandX led with NFX/YC/Left
-    Lane/Torch); Concentrate AI pre-seed deferred
-- title: Evotrex raises $30M to build the RV that doesn’t need a charging station
-  url: https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/
-  source: techcrunch
-  date_found: '2026-06-09'
-  parsed_company: Evotrex
-  parsed_amount: $30M
-  parsed_round: null
-  status: processed
-  processed_note: already-published; round added to profile
-- title: Austrian DeepTech startup Invisible-Light Labs raises €1.5 million to identify
-    sub-micron particles
-  url: https://www.eu-startups.com/2026/06/austrian-deeptech-startup-invisible-light-labs-raises-e1-5-million-to-identify-sub-micron-particles/
-  source: eu-startups
-  date_found: '2026-06-09'
-  parsed_company: Austrian DeepTech startup Invisible-Light Labs
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_note: profile created (invisible-light-labs)
-- title: Finnish Skyfora raises €6.5 million to quicken deployment of atmospheric
-    sensing network
-  url: https://www.eu-startups.com/2026/06/finnish-skyfora-raises-e6-5-million-to-quicken-deployment-of-atmospheric-sensing-network/
-  source: eu-startups
-  date_found: '2026-06-09'
-  parsed_company: Finnish Skyfora
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_note: already-published; round added to profile
-- title: Finland’s ICEYE raises €450 million in landmark round for Europe’s dual-use
-    SpaceTech sector
-  url: https://www.eu-startups.com/2026/06/finlands-iceye-raises-e450-million-in-landmark-round-for-europes-dual-use-spacetech-sector/
-  source: eu-startups
-  date_found: '2026-06-09'
-  parsed_company: Finland’s ICEYE
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_note: already-published; round added to profile
-- title: Sandstone raises $30M to bring AI to in-house legal teams
-  url: https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/
-  source: techcrunch
-  date_found: '2026-06-09'
-  parsed_company: Sandstone
-  parsed_amount: $30M
-  parsed_round: null
-  status: processed
-  processed_note: already-published; Series A added to existing profile
-- title: UK-based Rem3dy Health raises €16 million to support expansion into key markets
-  url: https://www.eu-startups.com/2026/06/uk-based-rem3dy-health-raises-e16-million-to-support-expansion-into-key-markets/
-  source: eu-startups
-  date_found: '2026-06-09'
-  parsed_company: UK-based Rem3dy Health
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_note: created profile rem3dy-health; £14M growth round
-- title: Beacon raised $225M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Beacon
-  parsed_amount: $225M
-  parsed_round: Series C
-  status: processed
-  processed_note: created profile beacon; Series C led by General Catalyst & HarbourVest
-- title: PointFive raised $60M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: PointFive
-  parsed_amount: $60M
-  parsed_round: Series B
-  status: pending
-- title: Stepful raised $55M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Stepful
-  parsed_amount: $55M
-  parsed_round: Series C
-  status: processed
-  processed_slug: stepful
-- title: Edge Markets raised $29.2M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Edge Markets
-  parsed_amount: $29.2M
-  parsed_round: Series A
-  status: pending
-- title: Vinyl Equity raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Vinyl Equity
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  processed_note: created profile vinyl-equity; Jump Capital led
-- title: NewOrbit raised $18.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: NewOrbit
-  parsed_amount: $18.5M
-  parsed_round: Series A
-  status: pending
-- title: Zaro.ai raised $5.1M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Zaro.ai
-  parsed_amount: $5.1M
-  parsed_round: null
-  status: processed
-  processed_slug: zaro
-- title: Lexful raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Lexful
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: pending
-- title: Clear Robotics raised $1.75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Clear Robotics
-  parsed_amount: $1.75M
-  parsed_round: null
-  status: processed
-  processed_slug: clear-robotics

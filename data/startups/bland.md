@@ -1,29 +1,36 @@
 ---
-name: "Bland"
-slug: bland
-type: startup
-website: "https://www.bland.ai"
-location: "San Francisco, CA"
-founded: 2023
-status_company: active
-sector: [ai, voice-ai, enterprise-software]
-stage_latest: "Series C"
-total_raised: "$100M+"
 firms:
-  - slug: emergence-capital
-    round: prior
-    year: 2024
-  - slug: upfront-ventures
-    round: prior
-    year: 2024
-  - slug: y-combinator
-    round: pre-seed
-    year: 2023
+- round: prior
+  slug: emergence-capital
+  year: 2024
+- round: prior
+  slug: upfront-ventures
+  year: 2024
+- round: pre-seed
+  slug: y-combinator
+  year: 2023
+founded: 2023
 founders:
-  - name: "Isaiah Granet"
-    role: "CEO & Co-Founder"
-status: published
+- name: Isaiah Granet
+  role: CEO & Co-Founder
+investors:
+- round: Series B ($40M, led)
+  slug: gordon-ritter
+  year: 2025
 last_researched: 2026-06-16
+location: San Francisco, CA
+name: Bland
+sector:
+- ai
+- voice-ai
+- enterprise-software
+slug: bland
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://www.bland.ai
 ---
 
 ## About

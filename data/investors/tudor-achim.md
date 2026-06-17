@@ -1,22 +1,32 @@
 ---
-name: "Tudor Achim"
-slug: tudor-achim
-type: individual
-firm:
-role: "Co-Founder & CEO, Harmonic"
-location: "San Francisco Bay Area, California"
-stage_focus: []
-sector_focus: [ai, machine-learning, mathematics]
-check_size:
-social:
-  twitter: "@tachim"
-  linkedin: "linkedin.com/in/tudorachim"
-status: flagged
-review_notes: |
-  Tudor Achim is primarily an operator/founder, not an active angel investor.
-  No independently verifiable angel investments found in public sources.
-  Profile published as an operator/founder reference; angel portfolio left empty.
+check_size: null
+firm: null
 last_researched: 2026-06-16
+last_verified_investment:
+  company: Harmonic
+  date: ~2024
+  round: Co-Founder & CEO
+location: San Francisco Bay Area, California
+name: Tudor Achim
+review_notes: 'Tudor Achim is primarily an operator/founder, not an active angel investor.
+
+  No independently verifiable angel investments found in public sources.
+
+  Profile published as an operator/founder reference; angel portfolio left empty.
+
+  '
+role: Co-Founder & CEO, Harmonic
+sector_focus:
+- ai
+- machine-learning
+- mathematics
+slug: tudor-achim
+social:
+  linkedin: linkedin.com/in/tudorachim
+  twitter: '@tachim'
+stage_focus: []
+status: flagged
+type: individual
 ---
 
 ## Background

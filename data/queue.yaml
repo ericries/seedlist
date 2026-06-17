@@ -26818,7 +26818,7 @@ queue:
 - name: Christian Szegedy
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: xAI
   discovered_from: kodesage
@@ -29832,3 +29832,33 @@ queue:
   added: '2026-03-17'
   firm: Arcade
   discovered_from: arcade-dev
+- name: Mario Gotze
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: christian-szegedy
+  source: Co-angel with Szegedy on Kodesage Seed (2026-06-04); German footballer /
+    World Cup winner
+- name: Morph Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: christian-szegedy
+  source: Szegedy is Chief Scientist and seed angel; AI code quality infra
+- name: Verita AI
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: christian-szegedy
+  source: Szegedy joined as advisor and angel investor (~late 2025)
+- name: Math Inc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: christian-szegedy
+  source: Szegedy's new company (announced 2025-09-11) — autoformalization / verified
+    superintelligence; agent GAUSS

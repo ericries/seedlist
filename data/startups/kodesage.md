@@ -1,25 +1,35 @@
 ---
-name: "Kodesage"
-slug: kodesage
-type: startup
-website: "https://www.kodesage.com"
-location: "London, UK / Budapest, Hungary"
+firms:
+- round: Seed (angel)
+  slug: math-inc
+  year: 2026
 founded: 2024
-status_company: active
-sector: [enterprise-software, ai, devtools, legacy-modernization]
-stage_latest: "Seed"
-total_raised: "$6.6M+"
-investors: []
-firms: []
 founders:
-  - name: "Gergely Dombi"
-    role: "Co-Founder"
-  - name: "Miklos Szurdi"
-    role: "Co-Founder"
-  - name: "Gyorgy Szilagyi"
-    role: "Co-Founder"
-status: published
+- name: Gergely Dombi
+  role: Co-Founder
+- name: Miklos Szurdi
+  role: Co-Founder
+- name: Gyorgy Szilagyi
+  role: Co-Founder
+investors:
+- round: Seed (angel)
+  slug: christian-szegedy
+  year: 2026
 last_researched: 2026-06-04
+location: London, UK / Budapest, Hungary
+name: Kodesage
+sector:
+- enterprise-software
+- ai
+- devtools
+- legacy-modernization
+slug: kodesage
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $6.6M+
+type: startup
+website: https://www.kodesage.com
 ---
 
 ## About
