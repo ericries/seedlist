@@ -825,4 +825,18 @@ priority:
   type: firm
   reason: "appeared as sole lead in Probably $9M seed (2026-06-16). Verify portfolio table includes new row."
   added: 2026-06-03
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-03
+  resolution_note: "UNRESOLVABLE 2026-06-03 — Only 1 primary source available (TechCrunch, 2026-06-16, https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/) — insufficient verification per 3-source rule. No corroborating BusinessWire/PR Newswire press release, no a16z announcement post, no second-tier press article found via WebSearch. Existing probably.md startup profile retains TechCrunch citation but row was NOT added to andreessen-horowitz.md portfolio pending additional sourcing. Re-investigate if a16z publishes an investing announcement post or if a second outlet publishes original reporting (opinionmondiale.com syndication does not count)."
+- slug: andreessen-horowitz
+  type: firm
+  reason: "round-feed touched 2026-06-03 (Probably verification investigation)"
+  added: 2026-06-03
+- slug: githits
+  type: startup
+  reason: "new round-feed profile created 2026-06-16 (€1.5M pre-seed, Vendep Capital led)"
+  added: 2026-06-03
+- slug: gate2brain
+  type: startup
+  reason: "new round-feed profile created 2026-06-16 (€7M Shilpa Biocare strategic investment)"
+  added: 2026-06-03
