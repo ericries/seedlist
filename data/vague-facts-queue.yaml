@@ -159454,7 +159454,9 @@ vague_facts:
   line: '| Replit | Seed | ~2023 | AI/DevTools | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: "Per Tracxn comprehensive funding list [^54], Replit's seed was 2018-10-22 led by a16z; Abstract Ventures NOT named in 2018 seed. Updated Abstract's portfolio row from 'Seed | ~2023' to 'Round undisclosed | 2023-04-25 (Series D)' reflecting most plausible round given the ~2023 listing year — Replit's 2023 Series D was Apr 25, 2023 ($97.4M, a16z lead). Added citation [^54] with full Replit funding history breakdown."
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Cognition
