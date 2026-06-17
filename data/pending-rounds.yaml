@@ -20,6 +20,33 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Bolzano-based Soource raises €3 million to help procurement evolve from “copilot”
+    to “autopilot” model
+  url: https://www.eu-startups.com/2026/06/bolzano-based-soource-raises-e3-million-to-help-procurement-evolve-from-copilot-to-autopilot-model/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Bolzano-based Soource
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Drone warfare startup PDKINEMATICS raises €2 million for precision-guidance
+    systems out of Lithuania
+  url: https://www.eu-startups.com/2026/06/drone-warfare-startup-pdkinematics-raises-e2-million-for-precision-guidance-systems-out-of-lithuania/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Drone warfare startup PDKINEMATICS
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona-based NeuralTrust raises €17.2 million to secure and govern enterprise
+    AI agents
+  url: https://www.eu-startups.com/2026/06/barcelona-based-neuraltrust-raises-e17-2-million-to-secure-and-govern-enterprise-ai-agents/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Barcelona-based NeuralTrust
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes
     acquisitions
   url: https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
@@ -851,29 +878,3 @@ pending_rounds:
   parsed_amount: $94M
   parsed_round: null
   status: pending
-- title: Future Standard raised $3B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Future Standard
-  parsed_amount: $3B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/9/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-9-2026/
-  source: alleywatch
-  date_found: '2026-06-09'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK-based NewOrbit raises €16 million to build commercial satellites for very
-    low Earth orbit (VLEO)
-  url: https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/
-  source: eu-startups
-  date_found: '2026-06-08'
-  parsed_company: UK-based NewOrbit
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: already covered in neworbit.md
