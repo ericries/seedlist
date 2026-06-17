@@ -251,6 +251,24 @@ pending_rounds:
   parsed_amount: $400M
   parsed_round: null
   status: pending
+- title: National Healthcare Properties Announces Preliminary Results of its Series
+    A and Series B Preferred Stock Self Tender Offers
+  url: https://www.globenewswire.com/news-release/2026/06/17/3313808/0/en/National-Healthcare-Properties-Announces-Preliminary-Results-of-its-Series-A-and-Series-B-Preferred-Stock-Self-Tender-Offers.html
+  source: globenewswire
+  date_found: '2026-06-17'
+  parsed_company: National Healthcare Properties
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Warsaw’s Microamp raises €6.5 million to support European 5G and 6G network
+    technology
+  url: https://www.eu-startups.com/2026/06/warsaws-microamp-raises-e6-5-million-to-support-european-5g-and-6g-network-technology/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Warsaw’s Microamp
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes
     acquisitions
   url: https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
@@ -843,21 +861,3 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/11/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
-  source: alleywatch
-  date_found: '2026-06-11'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: French surgical AI startup Uncovr raises €6 million to turn surgical video
-    into clinical records
-  url: https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/
-  source: eu-startups
-  date_found: '2026-06-10'
-  parsed_company: French surgical AI startup Uncovr
-  parsed_amount: €6M
-  parsed_round: seed
-  status: processed
-  processed_slug: uncovr
