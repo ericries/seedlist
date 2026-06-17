@@ -47,6 +47,42 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Verizon announces expiration and final results of its private exchange offers
+    and consent solicitations for 11 series of notes
+  url: https://www.globenewswire.com/news-release/2026/06/17/3313350/0/en/Verizon-announces-expiration-and-final-results-of-its-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes.html
+  source: globenewswire
+  date_found: '2026-06-17'
+  parsed_company: Verizon
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal
+    verification to AI
+  url: https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/
+  source: techcrunch
+  date_found: '2026-06-17'
+  parsed_company: Pramaana Labs
+  parsed_amount: $27M
+  parsed_round: Seed
+  status: pending
+- title: Ex-Palantir team behind Conduct raises €51 million to make enterprise systems
+    AI-ready
+  url: https://www.eu-startups.com/2026/06/ex-palantir-team-behind-conduct-raises-e51-million-to-make-enterprise-systems-ai-ready/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Ex-Palantir team behind Conduct
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based NexDash secures €2.5 million from EIT Urban Mobility to electrify
+    Europe’s road freight
+  url: https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/
+  source: eu-startups
+  date_found: '2026-06-17'
+  parsed_company: Berlin-based NexDash
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes
     acquisitions
   url: https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
@@ -846,35 +882,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed_slug: clear-robotics
-- title: WhiteHawk Minerals raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: WhiteHawk Minerals
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: Ocean Capital Acquisition raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Ocean Capital Acquisition
-  parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: Snow Rothschild Acquisition raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: Snow Rothschild Acquisition
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: b in cash. Firefly had raised $94M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-09'
-  parsed_company: b in cash. Firefly had
-  parsed_amount: $94M
-  parsed_round: null
-  status: pending
