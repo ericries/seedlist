@@ -1,4 +1,12 @@
 priority:
+- slug: kleiner-perkins
+  type: firm
+  reason: co-led CuspAI $400M growth round (2026-06-17)
+  added: 2026-06-03
+- slug: andreessen-horowitz
+  type: firm
+  reason: led Probably $9M seed (2026-06-16); verify row in portfolio table
+  added: 2026-06-03
 - slug: tobi-lutke
   type: investor
   reason: appeared in KOHO Series E C$130M (2026-06-11)
