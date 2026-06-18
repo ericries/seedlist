@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral
+    marine biofuel
+  url: https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/
+  source: eu-startups
+  date_found: '2026-06-18'
+  parsed_company: Copenhagen-based Kvasir Technologies
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Dutch ingredients startup Vivici secures €12.5 million EIC backing to scale
+    animal-free dairy proteins
+  url: https://www.eu-startups.com/2026/06/dutch-ingredients-startup-vivici-secures-e12-5-million-eic-backing-to-scale-animal-free-dairy-proteins/
+  source: eu-startups
+  date_found: '2026-06-18'
+  parsed_company: Dutch ingredients startup Vivici
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Verizon announces expiration and final results of its private exchange offers
     and consent solicitations for 11 series of notes
   url: https://www.globenewswire.com/news-release/2026/06/17/3313350/0/en/Verizon-announces-expiration-and-final-results-of-its-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes.html
@@ -835,28 +853,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed_slug: cardnexus
-- title: Endurance Energy raises $54M to harness a massive untapped energy source
-  url: https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/
-  source: techcrunch
-  date_found: '2026-06-11'
-  parsed_company: Endurance Energy
-  parsed_amount: $54M
-  parsed_round: Series A
-  status: processed
-  processed_date: '2026-06-11'
-  notes: Created endurance-energy.md; updated founders-fund and first-round-capital
-    portfolios
-- title: Barcelona-based THEKER raises €73 million Series A to accelerate AI robotics
-    deployment
-  url: https://www.eu-startups.com/2026/06/barcelona-based-theker-raises-e73-million-series-a-to-accelerate-ai-robotics-deployment/
-  source: eu-startups
-  date_found: '2026-06-11'
-  parsed_company: Barcelona-based THEKER
-  parsed_amount: null
-  parsed_round: Series A
-  status: processed
-  processed_date: '2026-06-11'
-  notes: Created startup profile theker.md; added round to CRV firm portfolio. €73M
-    (~$85M) Series A led by CRV with Samsung, LVMH, Cathay Innovation, 20VC, Henkel
-    Ventures, Korelya, Bright Pixel, Inditex, Kibo. Europe's largest robotics Series
-    A.
