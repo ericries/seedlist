@@ -64,6 +64,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads
+    With $310M In Slower Week For Large Deals'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads/
+  source: crunchbase
+  date_found: '2026-06-18'
+  parsed_company: null
+  parsed_amount: $310M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/18/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-18-2026/
+  source: alleywatch
+  date_found: '2026-06-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Verizon announces expiration and final results of its private exchange offers
     and consent solicitations for 11 series of notes
   url: https://www.globenewswire.com/news-release/2026/06/17/3313350/0/en/Verizon-announces-expiration-and-final-results-of-its-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes.html
@@ -829,23 +846,5 @@ pending_rounds:
   date_found: '2026-06-12'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: CORRECTION - Leverage Shares by Themes Closing Capped Accelerated Single-Stock
-    ETF Series Due to Lack of Assets
-  url: https://www.globenewswire.com/news-release/2026/06/12/3311206/0/en/CORRECTION-Leverage-Shares-by-Themes-Closing-Capped-Accelerated-Single-Stock-ETF-Series-Due-to-Lack-of-Assets.html
-  source: globenewswire
-  date_found: '2026-06-12'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: NinjaOne Leads With $400M As Large
-    Deals Also Go To Blockchain, Cloud Infrastructure, Biotech And Robotics'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/
-  source: crunchbase
-  date_found: '2026-06-12'
-  parsed_company: null
-  parsed_amount: $400M
   parsed_round: null
   status: pending
