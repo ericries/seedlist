@@ -31,7 +31,7 @@ Orbio is an AI-powered workforce management startup founded in 2025 by Sergi Bas
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-14 | Series A | $21M | Dawn Capital | Visionaries, 2100 Ventures [^1][^2] |
+| 2026-06-14 | Series A | $21M | Dawn Capital | Visionaries, 2100 Ventures [^1][^2][^3] |
 
 Orbio has raised $26 million in total funding to date [^1][^2].
 
@@ -47,3 +47,4 @@ No independently sourced founder testimonials found at this time.
 
 [^1]: TechCrunch, "Orbio raises $21 million to automate hiring and onboarding for frontline workers," June 14, 2026. https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
 [^2]: Business Review Live, "Orbio raises $21 Mn Series A to transform frontline workforce management with AI," June 2026. https://businessreviewlive.com/orbio-raises-21-mn-series-a-to-transform-frontline-workforce-management-with-ai/
+[^3]: Tech.eu, "Orbio raises $21M Series A to bring AI workforce management to the world's frontline workers," June 15, 2026. https://tech.eu/2026/06/15/orbio-raises-21m-series-a-to-bring-ai-workforce-management-to-the-worlds-frontline-workers/

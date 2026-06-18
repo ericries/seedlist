@@ -1485,9 +1485,14 @@ priority:
     \ profile already exists at data/startups/rylo.md."
 - slug: dawn-capital
   type: firm
-  reason: led Orbio Series A $21M (2026-06-14)
+  reason: 'RESOLVED 2026-06-18 — Dawn Capital led Orbio $21M Series A verified via
+    3 independent primary sources (TechCrunch 2026-06-14 [^1], Tech.eu 2026-06-15
+    [^3], Pulse2). Exact date confirmed as 2026-06-14. Orbio startup profile already
+    accurate; added Tech.eu as third citation [^3]. Dawn Capital firm profile does
+    not yet exist — queued for research.'
   added: 2026-06-03
-  status: pending
+  status: resolved
+  resolved: 2026-06-18
 - slug: hpi-ventures
   type: firm
   reason: "co-led Qorelo seed \u20AC3M (2026-06-15)"
