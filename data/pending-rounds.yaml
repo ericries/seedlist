@@ -38,6 +38,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: RoboStrategy, Inc. Raises Approximately $28.9 Million Through Private Share
+    Issuances
+  url: https://www.globenewswire.com/news-release/2026/06/18/3314113/0/en/RoboStrategy-Inc-Raises-Approximately-28-9-Million-Through-Private-Share-Issuances.html
+  source: globenewswire
+  date_found: '2026-06-18'
+  parsed_company: RoboStrategy, Inc.
+  parsed_amount: $28.9M
+  parsed_round: null
+  status: pending
+- title: AT&T Ventures’ Head Vikram Taneja On The New Rules of Seed-Stage Defensibility
+  url: https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/
+  source: crunchbase
+  date_found: '2026-06-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Cargofy raises €9.5 million Series A to deploy AI “digital workers” across
+    freight operations
+  url: https://www.eu-startups.com/2026/06/cargofy-raises-e9-5-million-series-a-to-deploy-ai-digital-workers-across-freight-operations/
+  source: eu-startups
+  date_found: '2026-06-18'
+  parsed_company: Cargofy
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Verizon announces expiration and final results of its private exchange offers
     and consent solicitations for 11 series of notes
   url: https://www.globenewswire.com/news-release/2026/06/17/3313350/0/en/Verizon-announces-expiration-and-final-results-of-its-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes.html
@@ -823,33 +849,3 @@ pending_rounds:
   parsed_amount: $400M
   parsed_round: null
   status: pending
-- title: Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden
-    with AI
-  url: https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/
-  source: eu-startups
-  date_found: '2026-06-11'
-  parsed_company: Amsterdam’s OurMind
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_slug: ourmind
-- title: CameraMatics secures up to €49 million to scale AI-powered fleet intelligence
-    platform across Europe and the US
-  url: https://www.eu-startups.com/2026/06/dublins-cameramatics-secures-up-to-e49-million-to-scale-ai-powered-fleet-intelligence-platform-across-europe-and-the-us/
-  source: eu-startups
-  date_found: '2026-06-11'
-  parsed_company: CameraMatics
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_slug: cameramatics
-- title: French trading card game platform CardNexus raises €3.5 million to support
-    team expansion
-  url: https://www.eu-startups.com/2026/06/french-trading-card-game-platform-cardnexus-raises-e3-5-million-to-support-team-expansion/
-  source: eu-startups
-  date_found: '2026-06-11'
-  parsed_company: French trading card game platform CardNexus
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  processed_slug: cardnexus
