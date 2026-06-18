@@ -9202,7 +9202,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 35,
+      "size": 36,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9365,6 +9365,10 @@
         {
           "slug": "mathias-geeroms",
           "name": "Mathias Geeroms"
+        },
+        {
+          "slug": "carina-namih",
+          "name": "Carina Namih"
         }
       ]
     },
@@ -9373,7 +9377,7 @@
       "name": "The Biotech Believers",
       "tagline": "From CRISPR to synthetic biology to computational drug discovery. They bet on the biological century.",
       "type": "curated",
-      "size": 9,
+      "size": 10,
       "members": [
         {
           "slug": "eddie-eltoukhy",
@@ -9419,6 +9423,10 @@
           "slug": "martin-varsavsky",
           "name": "Martín Varsavsky",
           "firm": "independent"
+        },
+        {
+          "slug": "carina-namih",
+          "name": "Carina Namih"
         }
       ]
     },
@@ -9427,7 +9435,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 103,
+      "size": 104,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9893,6 +9901,10 @@
         {
           "slug": "mathias-geeroms",
           "name": "Mathias Geeroms"
+        },
+        {
+          "slug": "carina-namih",
+          "name": "Carina Namih"
         }
       ]
     },
@@ -10383,7 +10395,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital — from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 51,
+      "size": 52,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10635,6 +10647,10 @@
         },
         {
           "slug": "jordan-crook"
+        },
+        {
+          "slug": "carina-namih",
+          "name": "Carina Namih"
         }
       ]
     },
