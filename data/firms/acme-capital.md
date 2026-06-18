@@ -104,7 +104,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Active [^10][^22] |
 | Muon Space | Series B | 2024-08-05 | Aerospace / Satellites | Active [^16] |
 | Conceivable | Series A | 2025-01-14 | Digital Health / IVF | Active [^17][^23] |
-| Canopy | Early Stage | 2025 | Healthcare Safety | Active [^17] |
+| Canopy | Series B (co-lead) | 2026-01-08 | Healthcare Safety | Active [^26][^27][^28] |
 | Tia | Series A/B | ~2020 | Women's Health | Active [^18] |
 | Decagon | Series B | 2024-10-15 | AI / Customer Support | Active [^11][^24] |
 | Partiful | Series A | ~2023 | Consumer / Events | Active [^11] |
@@ -200,3 +200,9 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^24]: PRNewswire, "Muon Space Secures $56M Series B Funding, Surpasses $100M in Customer Contracts in 2024 including Landmark Agreement with SNC," August 5, 2024, accessed June 2026. https://www.prnewswire.com/news-releases/muon-space-secures-56m-series-b-funding-surpasses-100m-in-customer-contracts-in-2024-including-landmark-agreement-with-snc-302212700.html — Primary source confirming the Muon Space $56M Series B announcement on August 5, 2024, led by Activate Capital with new participant Acme Capital and existing investors Costanoa Ventures, Radical Ventures, and Congruent Ventures.
 
 [^25]: PRNewswire, "Plot Raises $10M to Scale Social Video Intelligence for Marketing Teams at Fortune 500 Brands," June 2, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/plot-raises-10m-to-scale-social-video-intelligence-for-marketing-teams-at-fortune-500-brands-302787693.html — Primary source confirming Plot's $10M seed follow-on co-led by XYZ Venture Capital and Mischief Ventures, with participation from Seven Seven Six and Acme Capital. Also corroborated by Net Influencer ("Social Video Intelligence Startup Plot Raises $10M As Enterprise Demand Surges," https://www.netinfluencer.com/social-video-intelligence-startup-plot-raises-10m-usd-as-enterprise-demand-surges/) and Adweek ("Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/).
+
+[^26]: Canopy press release, "Canopy Secures $22M Series B to Define the Standard for Connected Safety and Location Intelligence," January 8, 2026, accessed June 2026. https://www.canopyworks.com/news/canopy-secures-22m-series-b-to-define-the-standard-for-connected-safety-and-location-intelligence — Primary source: $22M Series B co-led by 111° West Capital and ACME Capital with all existing investors participating.
+
+[^27]: FinSMEs, "Canopy Raises $22M in Series B Funding," January 2026, accessed June 2026. https://www.finsmes.com/2026/01/canopy-raises-22m-in-series-b-funding.html
+
+[^28]: Healthcare IT Today, "IMVARIA Announces Strategic Investments | Canopy Secures $22M Series B," January 19, 2026, accessed June 2026. https://www.healthcareittoday.com/2026/01/19/imvaria-announces-strategic-investments-canopy-secures-22m-series-b/

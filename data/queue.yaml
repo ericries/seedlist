@@ -26589,7 +26589,7 @@ queue:
 - name: Carina Namih
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Plural
   discovered_from: taavet-hinrikus
@@ -29862,3 +29862,41 @@ queue:
   discovered_from: christian-szegedy
   source: Szegedy's new company (announced 2025-09-11) — autoformalization / verified
     superintelligence; agent GAUSS
+- name: Ranjan Rajagopalan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Pramaana Labs
+  discovered_from: pramaana-labs
+- name: Jan Philipp Haas
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Conduct
+  discovered_from: conduct
+- name: BoldCap
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pramaana-labs
+- name: Unbound
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pramaana-labs
+- name: Lucid Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: conduct
+- name: Booom
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: conduct

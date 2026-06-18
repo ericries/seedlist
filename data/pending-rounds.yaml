@@ -55,7 +55,7 @@ pending_rounds:
   parsed_company: Pramaana Labs
   parsed_amount: $27M
   parsed_round: Seed
-  status: pending
+  status: processed
 - title: Ex-Palantir team behind Conduct raises €51 million to make enterprise systems
     AI-ready
   url: https://www.eu-startups.com/2026/06/ex-palantir-team-behind-conduct-raises-e51-million-to-make-enterprise-systems-ai-ready/
@@ -64,7 +64,7 @@ pending_rounds:
   parsed_company: Ex-Palantir team behind Conduct
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
 - title: Berlin-based NexDash secures €2.5 million from EIT Urban Mobility to electrify
     Europe’s road freight
   url: https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/
