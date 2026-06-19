@@ -1694,3 +1694,27 @@ priority:
   type: firm
   reason: resolved Canopy Series B fact (2026-01-08)
   added: '2026-06-18'
+- slug: insight-partners
+  type: firm
+  reason: led Gradial Series C $65M (2026-06-18)
+  added: '2026-06-03'
+- slug: madrona-venture-group
+  type: firm
+  reason: participated in Gradial Series C $65M (2026-06-18)
+  added: '2026-06-03'
+- slug: thrive-capital
+  type: firm
+  reason: participated in XDOF $70M stealth launch (2026-06-17)
+  added: '2026-06-03'
+- slug: spark-capital
+  type: firm
+  reason: participated in XDOF $70M stealth launch (2026-06-17)
+  added: '2026-06-03'
+- slug: andreessen-horowitz
+  type: firm
+  reason: participated in XDOF $70M stealth launch (2026-06-17)
+  added: '2026-06-03'
+- slug: lux-capital
+  type: firm
+  reason: participated in XDOF $70M stealth launch (2026-06-17)
+  added: '2026-06-03'
