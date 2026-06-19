@@ -279,6 +279,7 @@ The following table includes a16z investments verified through the firm's own po
 | Digital Asset | Growth (led, $355M at ~$2B val; a16z crypto contributed $100M) | 2026-06-11 | Crypto / Capital Markets Infrastructure / Canton Network | Private [^64][^65][^66] |
 | Current | Series E (participant, $80M at $1.5B val; Springcoast Partners led) | 2026-06-11 | Fintech / Consumer Banking / Neobank | Private [^67][^68][^69] |
 | Podium Automation | Series A (participant, $18M; Construct Capital led) | 2026-06-15 | Industrial Automation / Manufacturing / Control Panels | Private [^70][^71][^72] |
+| Probably | Seed (lead, $9M) | 2026-06-16 | AI / LLM Reliability / Data Science | Private [^73][^74] |
 
 *Note: This table includes 79 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -482,3 +483,7 @@ The following table includes a16z investments verified through the firm's own po
 [^71]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/15/2026," June 15, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-15-2026/ — Independently confirms Podium Automation's $18M Series A led by Construct Capital with a16z, Transition Ventures, Sunflower Capital, and Banter Capital participating.
 
 [^72]: Mann Report, "Podium Automation Raises $18M Series A to Modernize the Backbone of Industrial Automation," June 15, 2026. Accessed June 2026. https://www.mannpublications.com/mannreport/2026/06/15/podium-automation-raises-18m-series-a-to-modernize-the-backbone-of-industrial-automation/ — Independently confirms $18M Series A, lead and co-investors.
+
+[^73]: TechCrunch, "Probably raises $9M to build a more reliable kind of AI," June 16, 2026. Accessed June 2026. https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/ — Primary press coverage: Probably (founder Peter Elias) closed $9M seed led by Andreessen Horowitz on June 16, 2026. Company builds AI reliability tools using a "validator harness" combining LLM outputs with deterministic verification to achieve 99.99% accuracy on smaller models.
+
+[^74]: The SaaS News, "Probably Raises $9M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/probably-raises-9m-seed/ — Independently confirms $9M seed led by Andreessen Horowitz on June 16, 2026 with founder Peter Elias.

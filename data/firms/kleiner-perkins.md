@@ -205,6 +205,7 @@ The following table includes notable investments verified through multiple sourc
 | Mind Robotics | Growth (lead, $400M) | 2026-05-13 | Robotics / Industrial | Private [^45] |
 | NewLimit | Series C (returning investor, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^46][^47][^48] |
 | Poetic | Series A (lead, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^50][^51][^52] |
+| CuspAI | Growth (co-lead with Bezos Expeditions, $400M at $2.6B valuation) | 2026-06-17 | AI / Materials Discovery | Private [^53][^54][^55] |
 
 *Note: This table includes 62 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -362,3 +363,9 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^51]: The Next Web, "OpenAI backs Poetic to automate underwriting and compliance," June 10, 2026. Accessed June 2026. https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting — Independent confirmation of Kleiner Perkins-led $50M Series A at $500M valuation with Founders Fund and OpenAI participating.
 
 [^52]: Benzinga, "Poetic Raises $50 Million From Investors At $500 Million Valuation, Led By Kleiner Perkins," June 10, 2026. Accessed June 2026. https://www.benzinga.com/markets/private-markets/26/06/53127581/poetic-raises-50-million-from-investors-at-500-million-valuation-led-by-kleiner-perkins — Third independent confirmation: Kleiner Perkins led, with OpenAI, Founders Fund, and First Harmonic participating.
+
+[^53]: Tech Startups, "Jeff Bezos backs AI materials startup CuspAI in $400M round at $2.6 billion valuation," June 17, 2026. Accessed June 2026. https://techstartups.com/2026/06/17/jeff-bezos-backs-ai-materials-startup-cuspai-in-400m-round-at-2-6-billion-valuation/ — Cambridge UK-based CuspAI's reported $400M round on June 17, 2026 at $2.6B valuation; co-led by Bezos Expeditions and Kleiner Perkins. Founders: Chad Edwards (CEO, formerly Cambridge Quantum) and Max Welling (CTO, University of Amsterdam). Advisory board: Yann LeCun and Geoffrey Hinton.
+
+[^54]: The Next Web, "CuspAI: Bezos backs $2.6bn materials-AI startup," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/cuspai-bezos-400-million-materials-ai — Independently confirms ~$400M round led by Bezos Expeditions with Kleiner Perkins co-investing at $2.6B valuation; 5x increase from $520M valuation in September 2025; term sheets signed but deal not yet closed.
+
+[^55]: SiliconANGLE, "AI material discovery startup CuspAI reportedly raising $400M round," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/ai-material-discovery-startup-cuspai-reportedly-raising-400m-round/ — Third independent confirmation: Bezos Expeditions and Kleiner Perkins co-lead; $2.6B valuation; UK-based; founders Chad Edwards and Max Welling; advisers Geoffrey Hinton and Yann LeCun.

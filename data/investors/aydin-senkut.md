@@ -95,7 +95,7 @@ Based on 19 verified portfolio companies in the table below. Note: Felicis's ful
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Shopify | Series A | 2010-12-13 | E-commerce/SaaS | Public (NYSE: SHOP) | [^1][^8] |
-| Adyen | Series A | 2011 | Fintech/Payments | Public (AMS: ADYEN) | [^1] |
+| Adyen | Series A | 2011-08-22 | Fintech/Payments | Public (AMS: ADYEN) | [^1][^24] |
 | Canva | Series A (lead) | 2015-10-06 | Design/Consumer | Private ($26B+ valuation) | [^2][^6][^9] |
 | Credit Karma | Series A | 2009-11-04 | Fintech | Acquired (Intuit, $8.1B) | [^1][^10] |
 | Fitbit | Series C | 2012-01-24 | Consumer Electronics/Health | Acquired (Google) | [^2][^11] |
@@ -108,7 +108,7 @@ Based on 19 verified portfolio companies in the table below. Note: Felicis's ful
 | Weights & Biases | Series C | 2021-10-13 | AI/ML Ops | Private | [^2][^17] |
 | Verkada | Series C | 2020-01-29 | Security/IoT | Private | [^2][^18] |
 | Semgrep | Series C | 2023-04-18 | Developer Tools/Security | Private | [^2][^19] |
-| n8n | Series B | 2025 | Developer Tools/Automation | Private | [^2] |
+| n8n | Series B | 2025-03-25 | Developer Tools/Automation | Private | [^2][^25][^26] |
 | Skild AI | Series A | 2024-07-09 | AI/Robotics | Private | [^2][^20] |
 | Crusoe | Series C | 2022-04-21 | Energy/Cloud Computing | Private | [^3][^21] |
 | Supabase | Series B (Felicis-led) | 2022-05-10 | Developer Tools/Database | Private | [^7][^22] |
@@ -156,3 +156,6 @@ No independently sourced founder testimonials found. Felicis publicly describes 
 [^21]: Crusoe funding rounds, Tracxn (Felicis first investment 2022-04-21 Series C), accessed June 2026. https://tracxn.com/d/companies/crusoe/__yyRkgaJgxamAgI3lijDZiChhfKCvnkFGTnaMcmtbFiM/funding-and-investors
 [^22]: "Supabase Announces $80 Million Series B Led by Felicis," PR Newswire, May 10, 2022, accessed June 2026. https://www.prnewswire.com/news-releases/supabase-announces-80-million-series-b-led-by-felicis-301544453.html
 [^23]: "Vannevar Labs Announces $75M Series B Funding Round," PR Newswire, January 18, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/vannevar-labs-announces-75m-series-b-funding-round-301725181.html
+[^24]: "Series A - Adyen - 2011-08-22," Crunchbase Funding Round Profile, accessed June 2026. https://www.crunchbase.com/funding_round/adyen-series-a--0472e962 — Adyen Series A closed August 22, 2011; $16M led by Index Ventures with Felicis as participant.
+[^25]: n8n blog, "Series B: n8n raises €55 million led by Highland Europe," March 25, 2025, accessed June 2026. https://blog.n8n.io/series-b/ — Primary source: n8n closed €55M Series B on March 25, 2025 led by Highland Europe with HV Capital and returning investors Sequoia, Felicis, and Harpoon participating.
+[^26]: Highland Europe, "n8n raises €55 million from Highland Europe to transform workflow automation," March 25, 2025, accessed June 2026. https://www.highlandeurope.com/n8n-raises-e55-million-from-highland-europe-to-transform-workflow-automation-for-technical-teams-by-unifying-ai-code-and-human-building-blocks/ — Independent confirmation of €55M Series B led by Highland Europe with Felicis among returning investors.

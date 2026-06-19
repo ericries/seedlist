@@ -3,9 +3,44 @@ priority:
   type: firm
   reason: co-led CuspAI $400M growth round (2026-06-17)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: Added CuspAI co-lead growth row ($400M at $2.6B valuation, 2026-06-17,
+    co-led with Bezos Expeditions) to kleiner-perkins.md portfolio with 3 primary
+    citations [^53][^54][^55] (Tech Startups, The Next Web, SiliconANGLE). Cambridge
+    UK-based; founders Chad Edwards (CEO) and Max Welling (CTO); advisers Geoffrey
+    Hinton and Yann LeCun.
 - slug: andreessen-horowitz
   type: firm
   reason: led Probably $9M seed (2026-06-16); verify row in portfolio table
+  added: 2026-06-03
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: Added Probably seed lead row ($9M, 2026-06-16) to andreessen-horowitz.md
+    portfolio with 2 primary citations [^73][^74] (TechCrunch, The SaaS News). Founder
+    Peter Elias; AI reliability tools using validator harness for 99.99% accuracy
+    on smaller models.
+- slug: aydin-senkut
+  type: investor
+  reason: Fact specificity sweep on year-only portfolio entries (Adyen 2011, n8n 2025)
+  added: 2026-06-03
+  status: resolved
+  resolved: 2026-06-03
+  resolution_note: Tightened Adyen Series A to 2011-08-22 (Crunchbase funding round
+    profile) and n8n Series B to 2025-03-25 (n8n blog + Highland Europe primary sources).
+    Added citations [^24][^25][^26]. Notion seed 2013 left as year-only; could not
+    locate verified exact date in 3+ sources.
+- slug: vedana-therapeutics
+  type: startup
+  reason: New profile for Vedana Therapeutics $46M Series A (2026-06-17)
+  added: 2026-06-03
+- slug: andera
+  type: startup
+  reason: New profile for Andera $37M Series A (2026-06-17)
+  added: 2026-06-03
+- slug: limitless-labs
+  type: startup
+  reason: New profile for Limitless Labs $20M Series A (2026-06-16)
   added: 2026-06-03
 - slug: tobi-lutke
   type: investor
