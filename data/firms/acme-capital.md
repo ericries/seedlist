@@ -109,7 +109,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Decagon | Series B | 2024-10-15 | AI / Customer Support | Active [^11][^24] |
 | Partiful | Series A | 2022-11-08 | Consumer / Events | Active [^29][^30][^31] |
 | Savage X Fenty | Growth | ~2020 | Consumer / Fashion | Active [^11] |
-| Reshape Bio | Series A | 2024 | Lab Automation / Biotech | Active [^19] |
+| Reshape Bio | Series A | 2024-04-09 | Lab Automation / Biotech | Active [^19][^29] |
 | Forma AI | Early Stage | ~2021 | Enterprise / Sales Comp | Active [^15] |
 | Replika | Early Stage | ~2019 | AI / Consumer | Active [^15] |
 | Sphere Semi | Seed | ~2023 | Semiconductors | Active [^15] |
@@ -206,6 +206,8 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^27]: FinSMEs, "Canopy Raises $22M in Series B Funding," January 2026, accessed June 2026. https://www.finsmes.com/2026/01/canopy-raises-22m-in-series-b-funding.html
 
 [^28]: Healthcare IT Today, "IMVARIA Announces Strategic Investments | Canopy Secures $22M Series B," January 19, 2026, accessed June 2026. https://www.healthcareittoday.com/2026/01/19/imvaria-announces-strategic-investments-canopy-secures-22m-series-b/
+
+[^29]: Crunchbase funding round profile, "Series A — Reshape Biotech — 2024-04-09," accessed June 2026. https://www.crunchbase.com/funding_round/reshape-biotech-series-a--30401454 — Primary source confirming Reshape Biotech Series A close date of April 9, 2024 ($20M, led by Astanor Ventures with continued participation from ACME Capital and Y Combinator). Corroborated by FinSMEs ("Reshape Raises $20M in Series A Funding," April 2024, https://www.finsmes.com/2024/04/reshape-raises-20m-in-series-a-funding.html) and The AI Insider ("Reshape Raises $20M Series A to Scale AI-Powered Imaging and Analysis Platform," April 15, 2024, https://theaiinsider.tech/2024/04/15/reshape-raises-20m-series-a-to-scale-ai-powered-imaging-and-analysis-platform-for-biotech-agriculture-and-food-rd/).
 
 [^29]: Crunchbase, "Series A - Partiful," funding round profile, accessed June 2026. https://www.crunchbase.com/funding_round/partiful-series-a--c30faa26 — Primary source confirming $20M Series A announced November 8, 2022, led by Andreessen Horowitz with participation from Benchmark, Initialized Capital, ACME Capital, and Abstract Ventures.
 
