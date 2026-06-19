@@ -159513,7 +159513,9 @@ vague_facts:
   line: '| xAI | Early | ~2023 | AI | Active [^14] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-06-18'
+  resolution: Refined to 2023-12 (Series A) per Contrary Research xAI breakdown [^55] confirming xAI's first institutional round was a $135M Series A in December 2023 (the only round in 2023 — xAI was founded March 2023). Added citation [^55].
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: SpaceX

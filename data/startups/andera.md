@@ -1,22 +1,32 @@
 ---
-name: "Andera"
-slug: andera
-type: startup
-location: "San Francisco, CA"
+firms:
+- round: Pre-seed (PearX)
+  slug: pear-vc
+  year: 2025
 founded: 2024
-status_company: active
-sector: [enterprise-software, AI, fintech, audit]
-stage_latest: "Series A"
-total_raised: "$37M"
-investors: []
-firms: []
 founders:
-  - name: "Aryo Patel"
-    role: "Co-Founder & CEO"
-  - name: "Tinah Hong"
-    role: "Co-Founder & CTO"
-status: published
+- name: Aryo Patel
+  role: Co-Founder & CEO
+- name: Tinah Hong
+  role: Co-Founder & CTO
+investors:
+- round: Pre-seed (PearX)
+  slug: shravan-reddy
+  year: 2025
 last_researched: 2026-06-03
+location: San Francisco, CA
+name: Andera
+sector:
+- enterprise-software
+- AI
+- fintech
+- audit
+slug: andera
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $37M
+type: startup
 ---
 
 ## About

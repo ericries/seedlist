@@ -1,25 +1,35 @@
 ---
-name: "Dream"
-slug: dream
-type: startup
-website: "https://www.dream.com"
-location: "Tel Aviv, Israel"
+firms:
+- round: Seed
+  slug: aleph
+  year: 2023
 founded: 2023
-status_company: active
-sector: [cybersecurity, ai, defense, government-tech]
-stage_latest: "Growth"
-total_raised: "$412M"
-investors: []
-firms: []
 founders:
-  - name: "Shalev Hulio"
-    role: "Co-Founder & CEO"
-  - name: "Sebastian Kurz"
-    role: "Co-Founder & President"
-  - name: "Gil Dolev"
-    role: "Co-Founder"
-status: published
+- name: Shalev Hulio
+  role: Co-Founder & CEO
+- name: Sebastian Kurz
+  role: Co-Founder & President
+- name: Gil Dolev
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: michael-eisenberg
+  year: 2023
 last_researched: 2026-06-03
+location: Tel Aviv, Israel
+name: Dream
+sector:
+- cybersecurity
+- ai
+- defense
+- government-tech
+slug: dream
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $412M
+type: startup
+website: https://www.dream.com
 ---
 
 ## About

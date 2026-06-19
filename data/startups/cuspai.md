@@ -1,27 +1,40 @@
 ---
-name: "CuspAI"
-slug: cuspai
-type: startup
-website: ""
-location: "Cambridge, UK"
-founded: 2024
-status_company: active
-sector: [ai, materials-science, deep-tech, ai-ml]
-stage_latest: "Growth"
-total_raised: "$400M"
-investors: []
 firms:
-  - slug: kleiner-perkins
-    round: growth
-    year: 2026
-    date: 2026-06-17
+- date: 2026-06-17
+  round: growth
+  slug: kleiner-perkins
+  year: 2026
+- round: Angel
+  slug: pear-vc
+  year: 2023
+founded: 2024
 founders:
-  - name: "Chad Edwards"
-    role: "Co-Founder & CEO"
-  - name: "Max Welling"
-    role: "Co-Founder & CTO"
-status: published
+- name: Chad Edwards
+  role: Co-Founder & CEO
+- name: Max Welling
+  role: Co-Founder & CTO
+investors:
+- round: Seed ($30M)
+  slug: durk-kingma
+  year: 2024
+- round: Angel
+  slug: arash-ferdowsi
+  year: 2023
 last_researched: 2026-06-03
+location: Cambridge, UK
+name: CuspAI
+sector:
+- ai
+- materials-science
+- deep-tech
+- ai-ml
+slug: cuspai
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $400M
+type: startup
+website: ''
 ---
 
 ## About
