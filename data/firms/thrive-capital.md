@@ -129,6 +129,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Helion Energy | Series G (Lead) | 2026 | Fusion / Energy | Private [^helion1] |
+| XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth; co-investors Spark Capital, a16z, Lux Capital, WndrCo) [^55][^56] |
 | Instagram | Series B | 2012 | Consumer / Social | Acquired by Facebook (2012) [^1][^2] |
 | Warby Parker | Series A | ~2011 | Consumer / E-commerce | Public (IPO 2021) [^1][^2] |
 | GroupMe | Seed | ~2010 (founded) | Consumer / Messaging | Acquired by Skype/Microsoft (2011) [^1] |
@@ -383,3 +384,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^53]: BusinessWire, "Revel Raises $150M Series B to Modernize the Software Layer Behind Hardware Test and Control," February 26, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260226807932/en/Revel-Raises-$150M-Series-B-to-Modernize-the-Software-Layer-Behind-Hardware-Test-and-Control — $150M Series B announced February 26, 2026, led by Index Ventures with major participation from Redpoint Ventures and returning investors Thrive Capital, Felicis, and Abstract Ventures, at $1B+ valuation.
 
 [^54]: BusinessWire, "Nourish Raises $70M Series B to Tackle Chronic Disease with AI-Powered Nutrition Care," April 23, 2025. Accessed June 2026. https://www.businesswire.com/news/home/20250423010679/en/Nourish-Raises-$70M-Series-B-to-Tackle-Chronic-Disease-with-AI-Powered-Nutrition-Care — $70M Series B announced April 23, 2025, led by J.P. Morgan Private Capital's Growth Equity Partners with Thrive Capital, Index Ventures, Y Combinator, Maverick Ventures, BoxGroup, Atomico, G Squared, and Pinegrove Opportunity Partners participating.
+
+[^55]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Confirms Thrive Capital among investors in XDOF's $70M launch round alongside Spark Capital, Andreessen Horowitz, Lux Capital, and WndrCo.
+
+[^56]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/

@@ -107,7 +107,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Canopy | Series B (co-lead) | 2026-01-08 | Healthcare Safety | Active [^26][^27][^28] |
 | Tia | Series A/B | ~2020 | Women's Health | Active [^18] |
 | Decagon | Series B | 2024-10-15 | AI / Customer Support | Active [^11][^24] |
-| Partiful | Series A | ~2023 | Consumer / Events | Active [^11] |
+| Partiful | Series A | 2022-11-08 | Consumer / Events | Active [^29][^30][^31] |
 | Savage X Fenty | Growth | ~2020 | Consumer / Fashion | Active [^11] |
 | Reshape Bio | Series A | 2024 | Lab Automation / Biotech | Active [^19] |
 | Forma AI | Early Stage | ~2021 | Enterprise / Sales Comp | Active [^15] |
@@ -206,3 +206,9 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^27]: FinSMEs, "Canopy Raises $22M in Series B Funding," January 2026, accessed June 2026. https://www.finsmes.com/2026/01/canopy-raises-22m-in-series-b-funding.html
 
 [^28]: Healthcare IT Today, "IMVARIA Announces Strategic Investments | Canopy Secures $22M Series B," January 19, 2026, accessed June 2026. https://www.healthcareittoday.com/2026/01/19/imvaria-announces-strategic-investments-canopy-secures-22m-series-b/
+
+[^29]: Crunchbase, "Series A - Partiful," funding round profile, accessed June 2026. https://www.crunchbase.com/funding_round/partiful-series-a--c30faa26 — Primary source confirming $20M Series A announced November 8, 2022, led by Andreessen Horowitz with participation from Benchmark, Initialized Capital, ACME Capital, and Abstract Ventures.
+
+[^30]: Sacra, "Partiful valuation, funding & news," accessed June 2026. https://sacra.com/c/partiful/ — Confirms $20M Series A1 in November 2022 led by Andreessen Horowitz at a $140M valuation; ACME Capital listed as prior seed backer alongside Abstract Ventures, Initialized Capital, and GV.
+
+[^31]: Wikipedia, "Partiful," accessed June 2026. https://en.wikipedia.org/wiki/Partiful — Corroborates $20M Series A in 2022 led by Andreessen Horowitz.

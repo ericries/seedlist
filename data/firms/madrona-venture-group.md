@@ -173,6 +173,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Ridge AI | Pre-Seed | 2026 | AI & Intelligent Apps | Active [^30] |
 | Gray Swan | Series A | 2026-05-28 | Security (AI Safety) | Active ($40M Series A at $200M val, co-led with Wing Venture Capital; Vivek Ramaswami quoted; Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, Magarac Venture Partners participated) [^72][^73][^74] |
 | Golden Analytics | Seed Extension | 2026-06-09 | AI & Intelligent Apps | Active ($14M seed extension led by Insight Partners; NEA and Madrona re-upped; brings total seed to $21M) [^75][^76] |
+| Gradial | Series C | 2026-06-18 | AI & Intelligent Apps | Active ($65M Series C led by Insight Partners at $675M valuation; Madrona participated alongside VMG Partners and PruVen) [^77][^78] |
 
 ## In Their Own Words
 
@@ -291,3 +292,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^75]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Confirms Madrona re-upped in Insight-led $14M seed extension alongside NEA. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
 
 [^76]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html
+
+[^77]: Axios, "Exclusive: Gradial raises $65M for agentic marketing," June 18, 2026. Accessed June 2026. https://www.axios.com/2026/06/18/gradial-ai-agents-marketing — Confirms Madrona participated in Insight-led $65M Series C at $675M valuation.
+
+[^78]: GeekWire, "Gradial raises $65M as startup sees rapid growth around agentic tools for enterprise marketing," June 18, 2026. Accessed June 2026. https://www.geekwire.com/2026/gradial-raises-65m-as-startup-sees-rapid-growth-around-agentic-tools-for-enterprise-marketing/ — Independently confirms Madrona as participant in Gradial Series C.

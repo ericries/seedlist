@@ -159704,7 +159704,9 @@ vague_facts:
   line: '| Partiful | Series A | ~2023 | Consumer / Events | Active [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-19
+  resolution_note: Tightened Partiful Series A from "~2023" to exact 2022-11-08, $20M led by Andreessen Horowitz at $140M valuation. ACME Capital participated (previously a seed backer alongside Abstract Ventures, Initialized Capital, GV). Added 3 primary citations [^29][^30][^31] (Crunchbase funding round profile, Sacra, Wikipedia).
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Reshape Bio

@@ -134,6 +134,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Ramp | Series F ($750M at $44B post; new investor, ICONIQ/GIC/Ontario Teachers' co-led) | 2026-06-04 | Fintech / Spend Management | Active | [^40][^41][^42] |
 | Auger | Series A ($200M, co-led with Oak HC/FT) | 2026-06-03 | Supply Chain AI | Active | [^43][^44][^45] |
 | Golden Analytics | Seed Extension ($14M, led) | 2026-06-09 | AI / Business Intelligence | Active | [^46][^47] |
+| Gradial | Series C ($65M, led) | 2026-06-18 | AI / Agents / Marketing | Active ($675M val) | [^48][^49][^50] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -210,3 +211,9 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^46]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Confirms Insight Partners led the $14M seed extension with NEA and Madrona; Ganesh Bell quoted. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html
 
 [^47]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Independent confirmation of Insight Partners-led seed extension on June 9, 2026. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
+
+[^48]: Axios, "Exclusive: Gradial raises $65M for agentic marketing," June 18, 2026. Accessed June 2026. https://www.axios.com/2026/06/18/gradial-ai-agents-marketing — Confirms Insight Partners led $65M Series C at $675M valuation; VMG Partners, Madrona, and PruVen participated.
+
+[^49]: GeekWire, "Gradial raises $65M as startup sees rapid growth around agentic tools for enterprise marketing," June 18, 2026. Accessed June 2026. https://www.geekwire.com/2026/gradial-raises-65m-as-startup-sees-rapid-growth-around-agentic-tools-for-enterprise-marketing/
+
+[^50]: SiliconANGLE, "Agentic marketing AI startup Gradial grabs $65M in fresh funding," June 18, 2026. Accessed June 2026. https://siliconangle.com/2026/06/18/agentic-marketing-ai-startup-gradial-grabs-65m-fresh-funding/

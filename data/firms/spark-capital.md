@@ -136,6 +136,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Baseten | Series B | 2022 | AI Infrastructure | [^9][^30] |
 | Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |
 | Crusoe | Series E | 2025-10-24 | AI Infrastructure | [^9][^39] |
+| XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | [^55][^56] |
 | Chainguard | Series B | 2023 | Cybersecurity | [^9][^32] |
 | The Bot Company | Series A | 2024-05-13 | AI/Robotics | [^10][^48] |
 | Fireblocks | Series D | 2021 | Crypto/Fintech | [^9][^33] |
@@ -238,3 +239,7 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^53]: SiliconANGLE, "Novellia raises $18M to scale patient-controlled medical data platform," June 2, 2026, accessed June 2026. https://siliconangle.com/2026/06/02/novellia-raises-18m-scale-patient-controlled-medical-data-platform/ — Confirms Spark Capital lead, participants Khosla Ventures, Acrew Capital, Bling Capital, TMV. New York-based. Alex Finkelstein quoted.
 
 [^54]: MedCity News, "Novellia Snags $18M for Its Real-World Data Platform," June 3, 2026, accessed June 2026. https://medcitynews.com/2026/06/novellia-data-healthcare-pharma/ — Confirms Spark-led $18M Series A with Khosla Ventures, TMV, Acrew Capital, Bling Capital. Co-founders Shashi Shankar (CEO) and Elliot Katz (CTO).
+
+[^55]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Confirms Spark Capital among investors in XDOF's $70M launch from stealth.
+
+[^56]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/

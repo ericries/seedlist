@@ -122,6 +122,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Applied Compute | Early | 2024 | AI infrastructure | Active | [^7] |
 | Erebor | Early | 2023 | Technology | Active | [^7] |
 | Nominal | Series B Extension | 2026 | Defense Tech / Hardware | Active | [^8] |
+| XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth with Thrive, Spark, a16z, WndrCo) | [^22][^23] |
 | Cloaked | Series A | 2022 | Consumer / Privacy | Active | [^9] |
 | Cognichip | Seed + Series A | 2024 | AI / Semiconductors | Active | [^10] |
 | Amca | Series B (participant) | 2026-05-20 | Aerospace & Defense / Manufacturing | Active | [^17] |
@@ -190,3 +191,7 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^20]: Observable Space, "Observable Space Closes $90 Million Series A to Scale Manufacturing and Turnkey Lasercom Platform, Announces $94 Million U.S. Space Force Contract," May 28, 2026. Accessed May 2026. https://observable.space/news/observable-space-closes-90-million-series-a-to-scale-manufacturing-and-turnkey-lasercom-platform-announces-94-million-u-s-space-force-contract/ — Confirms Lux Capital led Observable Space's $90M Series A on May 28, 2026; RTX Ventures, Upfront Ventures, Detroit Venture Partners, and Island Green Capital were co-leads; BRV Capital, Fathom Fund, and Venrex also participated. Observable Space simultaneously announced a $94M Space Force contract.
 
 [^21]: TechCrunch, "Rocket engine startup Impulse raises $500 million to hire people, not AI," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/ — Confirms Lux Capital participated in Impulse Space's $500M Series D on June 2, 2026 at $4.26B post-money valuation; 137 Ventures and BANNER VC co-led; Founders Fund and Linse Capital also participated.
+
+[^22]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Names Lux Capital as investor in XDOF's $70M launch from stealth.
+
+[^23]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/

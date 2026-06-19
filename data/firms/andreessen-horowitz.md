@@ -209,6 +209,8 @@ The following table includes a16z investments verified through the firm's own po
 | Navan (TripActions) | Growth | 2019 | Enterprise SaaS / Travel | Public (IPO 2025) [^10] |
 | Duolingo | Growth | 2020 | EdTech / Consumer | Public [^10] |
 | OpenAI | Growth | 2023 | AI | Private [^10] |
+| XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth alongside Thrive, Spark, Lux, WndrCo) [^75][^76] |
+| Convey | Series A (led) | 2026-06-17 | AI / Enterprise | Active ($38M Series A led by a16z; Khosla and Pear VC participated; Joe Schmidt joined board) [^77][^78] |
 | Anthropic | Growth | 2023 | AI | Private [^10] |
 | Anduril | Growth (Series B→H; co-led Series H) | 2019 (Series B); 2026-05-13 (Series H, co-led at $61B) | Defense Tech | Private [^10][^47] |
 | Applied Intuition | Growth | 2021 | Autonomous / Simulation | Private [^10] |
@@ -487,3 +489,11 @@ The following table includes a16z investments verified through the firm's own po
 [^73]: TechCrunch, "Probably raises $9M to build a more reliable kind of AI," June 16, 2026. Accessed June 2026. https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/ — Primary press coverage: Probably (founder Peter Elias) closed $9M seed led by Andreessen Horowitz on June 16, 2026. Company builds AI reliability tools using a "validator harness" combining LLM outputs with deterministic verification to achieve 99.99% accuracy on smaller models.
 
 [^74]: The SaaS News, "Probably Raises $9M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/probably-raises-9m-seed/ — Independently confirms $9M seed led by Andreessen Horowitz on June 16, 2026 with founder Peter Elias.
+
+[^75]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Names Andreessen Horowitz as investor in XDOF's $70M launch round.
+
+[^76]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/
+
+[^77]: SiliconANGLE, "Convey closes on $38M round to help companies automate repetitive work with AI teammates," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/convey-closes-38m-funding-round-help-companies-automate-repetitive-work-ai-teammates/ — Confirms a16z led Convey's $38M Series A with Khosla Ventures and Pear VC; Joe Schmidt of a16z joined board.
+
+[^78]: Just AI News, "Convey Raises $38M Series A Led by Andreessen Horowitz," June 17, 2026. Accessed June 2026. https://justainews.com/companies/funding-news/convey-raises-38m-series-a-led-by-andreessen-horowitz/
