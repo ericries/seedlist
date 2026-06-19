@@ -9210,7 +9210,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 37,
+      "size": 38,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9381,6 +9381,10 @@
         {
           "slug": "roeland-delrue",
           "name": "Roeland Delrue"
+        },
+        {
+          "slug": "jeroen-de-wit",
+          "name": "Jeroen De Wit"
         }
       ]
     },
@@ -9447,7 +9451,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 107,
+      "size": 108,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9929,6 +9933,10 @@
         {
           "slug": "roeland-delrue",
           "name": "Roeland Delrue"
+        },
+        {
+          "slug": "jeroen-de-wit",
+          "name": "Jeroen De Wit"
         }
       ]
     },
