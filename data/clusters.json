@@ -8233,7 +8233,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool — and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 24,
+      "size": 25,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8350,6 +8350,10 @@
         {
           "slug": "nathan-benaich",
           "name": "Nathan Benaich"
+        },
+        {
+          "slug": "christian-szegedy",
+          "name": "Christian Szegedy"
         }
       ]
     },
@@ -8650,7 +8654,7 @@
       "name": "The Solo GPs",
       "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions — often faster than anyone else.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "dan-scheinman",
@@ -8724,6 +8728,10 @@
         {
           "slug": "bryce-roberts",
           "name": "Bryce Roberts"
+        },
+        {
+          "slug": "helen-liang",
+          "name": "Helen Liang"
         }
       ]
     },
@@ -9202,7 +9210,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 36,
+      "size": 37,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9369,6 +9377,10 @@
         {
           "slug": "carina-namih",
           "name": "Carina Namih"
+        },
+        {
+          "slug": "roeland-delrue",
+          "name": "Roeland Delrue"
         }
       ]
     },
@@ -9435,7 +9447,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 104,
+      "size": 107,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9905,6 +9917,18 @@
         {
           "slug": "carina-namih",
           "name": "Carina Namih"
+        },
+        {
+          "slug": "helen-liang",
+          "name": "Helen Liang"
+        },
+        {
+          "slug": "christian-szegedy",
+          "name": "Christian Szegedy"
+        },
+        {
+          "slug": "roeland-delrue",
+          "name": "Roeland Delrue"
         }
       ]
     },
@@ -10395,7 +10419,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital — from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 52,
+      "size": 53,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10651,6 +10675,10 @@
         {
           "slug": "carina-namih",
           "name": "Carina Namih"
+        },
+        {
+          "slug": "helen-liang",
+          "name": "Helen Liang"
         }
       ]
     },
@@ -11567,7 +11595,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors — they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 31,
+      "size": 32,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -11716,6 +11744,10 @@
         {
           "slug": "karri-saarinen",
           "name": "Karri Saarinen"
+        },
+        {
+          "slug": "christian-szegedy",
+          "name": "Christian Szegedy"
         }
       ]
     },
