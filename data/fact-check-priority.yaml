@@ -1760,3 +1760,39 @@ priority:
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
+- slug: trace-finance
+  type: startup
+  reason: new profile created from Series A $32M (2026-06-17, CoinFund led)
+  added: '2026-06-03'
+- slug: critical-energy
+  type: startup
+  reason: new profile created from Seed $19M (2026-06-18, Susa + Upfront led)
+  added: '2026-06-03'
+- slug: boolsi
+  type: startup
+  reason: new profile created from Seed $6M (2026-06-18, Fine Structure Ventures led)
+  added: '2026-06-03'
+- slug: cargofy
+  type: startup
+  reason: new profile created from Series A $6M (2026-06-18, u.ventures + Toloka + Movens led)
+  added: '2026-06-03'
+- slug: coinfund
+  type: firm
+  reason: led Trace Finance Series A $32M (2026-06-17)
+  added: '2026-06-03'
+- slug: haun-ventures
+  type: firm
+  reason: participated in Trace Finance Series A $32M (2026-06-17)
+  added: '2026-06-03'
+- slug: fj-labs
+  type: firm
+  reason: participated in Trace Finance Series A $32M (2026-06-17)
+  added: '2026-06-03'
+- slug: upfront-ventures
+  type: firm
+  reason: co-led Critical Energy Seed $19M (2026-06-18)
+  added: '2026-06-03'
+- slug: mac-venture-capital
+  type: firm
+  reason: participated in Critical Energy Seed $19M (2026-06-18)
+  added: '2026-06-03'
