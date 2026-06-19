@@ -1,26 +1,37 @@
 ---
-name: "Verse"
-slug: verse
-type: startup
-website: "https://www.verse.inc"
-location: "San Francisco, California"
-status_company: active
-sector: [climate, energy, ai, data-infrastructure, enterprise-saas]
-stage_latest: "Series B"
-total_raised: "$54M+"
-investors: []
 firms:
-  - slug: bessemer-venture-partners
-    round: series-b
-    year: 2026
-    date: 2026-06-18
-  - slug: gv
-    round: series-b
-    year: 2026
-    date: 2026-06-18
+- date: 2026-06-18
+  round: series-b
+  slug: bessemer-venture-partners
+  year: 2026
+- date: 2026-06-18
+  round: series-b
+  slug: gv
+  year: 2026
+- round: Seed (Led, $5.75M)
+  slug: coatue-management
+  year: 2023
 founders: []
-status: published
+investors:
+- round: Seed (Led, $5.75M)
+  slug: jaimin-rangwalla
+  year: 2023
 last_researched: 2026-06-03
+location: San Francisco, California
+name: Verse
+sector:
+- climate
+- energy
+- ai
+- data-infrastructure
+- enterprise-saas
+slug: verse
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $54M+
+type: startup
+website: https://www.verse.inc
 ---
 
 ## About

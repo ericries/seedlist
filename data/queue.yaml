@@ -24376,7 +24376,7 @@ queue:
 - name: Jeroen De Wit
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: exhibitly
   source: Angel on Exhibitly Pre-Seed (Teamleader co-founder)

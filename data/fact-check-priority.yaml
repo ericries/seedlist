@@ -1540,12 +1540,16 @@ priority:
   type: firm
   reason: "co-led Qorelo seed \u20AC3M (2026-06-15)"
   added: 2026-06-03
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-18
+  resolution_note: No firm profile exists for hpi-ventures in data/firms/; mention in qorelo.md table is text-only, nothing to update until profile exists.
 - slug: caesar-ventures
   type: firm
   reason: "co-led Qorelo seed \u20AC3M (2026-06-15)"
   added: 2026-06-03
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-18
+  resolution_note: No firm profile exists for caesar-ventures in data/firms/; mention in qorelo.md table is text-only, nothing to update until profile exists.
 - slug: bessemer-venture-partners
   type: firm
   reason: "RESOLVED 2026-06-03 \u2014 Sarvam AI Series B $234M (2026-06-15, HCLTech-led\
