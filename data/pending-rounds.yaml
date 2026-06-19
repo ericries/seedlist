@@ -164,6 +164,15 @@ pending_rounds:
   parsed_amount: $60M
   parsed_round: null
   status: pending
+- title: Vienna’s SOMAREALITY secures over €3 million to power real-time cognitive
+    monitoring through eye tracking
+  url: https://www.eu-startups.com/2026/06/viennas-somareality-secures-over-e3-million-to-power-real-time-cognitive-monitoring-through-eye-tracking/
+  source: eu-startups
+  date_found: '2026-06-19'
+  parsed_company: Vienna’s SOMAREALITY
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral
     marine biofuel
   url: https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/
@@ -821,12 +830,4 @@ pending_rounds:
   parsed_company: Podium Automation
   parsed_amount: $18M
   parsed_round: Series A
-  status: pending
-- title: ChatSee.ai raised $6.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-15'
-  parsed_company: ChatSee.ai
-  parsed_amount: $6.5M
-  parsed_round: Seed
   status: pending
