@@ -191,6 +191,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (June 15 – June 19)
+  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-15-june-19/
+  source: eu-startups
+  date_found: '2026-06-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based Seqana secures €3.2 million to quantify soil health using satellite
+    imagery and machine learning
+  url: https://www.eu-startups.com/2026/06/berlin-based-seqana-secures-e3-2-million-to-quantify-soil-health-using-satellite-imagery-and-machine-learning/
+  source: eu-startups
+  date_found: '2026-06-19'
+  parsed_company: Berlin-based Seqana
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral
     marine biofuel
   url: https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/
@@ -815,21 +833,5 @@ pending_rounds:
   date_found: '2026-06-15'
   parsed_company: Undo
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Radical Numerics raised $50M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-15'
-  parsed_company: Radical Numerics
-  parsed_amount: $50M
-  parsed_round: Seed
-  status: pending
-- title: NewCore raised $66M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-15'
-  parsed_company: NewCore
-  parsed_amount: $66M
   parsed_round: null
   status: pending
