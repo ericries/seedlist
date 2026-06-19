@@ -231,6 +231,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | FirstClub | Series B ($55M, participated; Peak XV and Sofina co-led at $255M val) | 2026-06-03 | E-commerce / Quick Commerce / India | [^88][^89][^90] |
 | Supabase | Series F ($500M, participated; GIC led at $10.5B post-money) | 2026-06-04 | Developer Tools / Postgres / Agentic Infrastructure | [^93][^94][^95] |
 | PointFive | Series B ($60M, led) | 2026-06-08 | AI / Cloud Cost Optimization / FinOps | [^96][^97][^98] |
+| Pramaana Labs | Seed (participated, $27M; Khosla Ventures led) | 2026-06-17 | AI / Formal Verification / LLM Reliability | [^99][^100][^101] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -413,3 +414,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^97]: Calcalistech (Ctech), "PointFive raises $60 million Series B to help companies survive the AI cost explosion," June 8, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/sjpjbnnwzl — Independent confirmation of Accel-led $60M Series B; participants Index Ventures, Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures; angels Mickey Boodaei (Transmit Security/Trusteer/Imperva), Guy Podjarny (Snyk/Tessl), Yasmin Lukatz (ICON), Amiram Shachar (Spot/Upwind).
 
 [^98]: Globes, "Israeli AI efficiency co PointFive raises $60m," June 8, 2026. Accessed June 2026. https://en.globes.co.il/en/article-israeli-ai-efficiency-co-pointfive-raises-60m-1001545301 — Third independent confirmation of $60M Series B led by Accel; participants Salesforce Ventures, Entrée Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, Index Ventures. Founders Alon Arvatz, Gal Ben David, Amir Hozez.
+
+[^99]: TechCrunch, "Pramaana Labs raises $27 million seed round from Khosla Ventures to bring formal verification to AI," June 17, 2026. Accessed June 2026. https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/ — Confirms Accel participated in $27M seed for Pramaana Labs led by Khosla Ventures; other participants BoldCap, Nexus Venture Partners, Premji Invest, Unbound. Palo Alto/SF-based AI formal-verification startup founded 2025.
+
+[^100]: Yahoo Finance, "Pramaana Labs Raises $27M Led by Khosla Ventures to Build the AI Layer That Proves It Is Telling the Truth," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/pramaana-labs-raises-27m-led-194300343.html — Independent confirmation of Accel participation.
+
+[^101]: Crypto Briefing, "Pramaana Labs raises $27M seed round from Khosla Ventures to build a verification layer for AI," June 17, 2026. Accessed June 2026. https://cryptobriefing.com/pramaana-labs-27m-seed-ai-verification/ — Third independent confirmation.

@@ -1678,22 +1678,37 @@ priority:
   type: firm
   reason: led Pramaana Labs Seed ($27M, 2026-06-17)
   added: '2026-06-18'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Verified Khosla Ventures led Pramaana Labs $27M seed (2026-06-17) with Accel, BoldCap, Nexus Venture Partners, Premji Invest, and Unbound participating. Three independent primary sources (TechCrunch, Yahoo Finance/Newswire, Crypto Briefing; cross-ref TechTimes). Palo Alto/SF-based, founded 2025 by IIT Madras alumni Ranjan Rajagopalan, Krishnan Raghavan, Sanjay Ganapathy. LEAN formal-verification layer on top of LLMs for law, tax, drug discovery. Row added to khosla-ventures.md with citations [^52][^53][^54].
 - slug: accel
   type: firm
   reason: participated in Pramaana Labs Seed (2026-06-17)
   added: '2026-06-18'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Verified Accel participated in Pramaana Labs $27M seed (2026-06-17, Khosla Ventures led) via three independent sources (TechCrunch, Yahoo Finance, Crypto Briefing). Row added to accel.md portfolio with citations [^99][^100][^101].
 - slug: index-ventures
   type: firm
   reason: co-led Conduct Series A ($60M, 2026-06-17)
   added: '2026-06-18'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Verified Index Ventures co-led Conduct $60M Series A (2026-06-17) with ICONIQ; SAP strategic investment; existing investors Creandum, Lucid Capital, Booom participated. Total funding to $72M. Three independent sources (Yahoo Finance/Newswire, TheNextWeb, The SaaS News). Founded 2026 by ex-Palantir execs Jan Philipp Haas (CEO), Philipp Hoefer, Henry Thompson. AI operating system for enterprise software (SAP, Salesforce, Oracle, MES, WMS). Row added to index-ventures.md with citations [^61][^62][^63].
 - slug: iconiq-growth
   type: firm
   reason: co-led Conduct Series A ($60M, 2026-06-17)
   added: '2026-06-18'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Verified ICONIQ co-led Conduct $60M Series A (2026-06-17) with Index Ventures. TheNextWeb specifically notes ICONIQ "rarely does early-stage deals" -- significance for an early-stage co-lead. SAP strategic; Creandum, Lucid Capital, Booom participated. Three independent sources. Row added to iconiq-growth.md with citations [^46][^47][^48].
 - slug: creandum
   type: firm
   reason: participated in Conduct Series A (2026-06-17)
   added: '2026-06-18'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Verified Creandum participated as existing investor in Conduct $60M Series A (2026-06-17, co-led by Index Ventures and ICONIQ; SAP strategic). Three independent sources (Yahoo Finance, TheNextWeb, The SaaS News). Row added to creandum.md portfolio with citations [^32][^33][^34].
 - slug: acme-capital
   type: firm
   reason: resolved Canopy Series B fact (2026-01-08)

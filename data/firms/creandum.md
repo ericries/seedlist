@@ -150,6 +150,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Modal | Early stage | ~2022 | AI/Cloud Infrastructure | Active (unicorn) | [^19] |
 | Navan (TripActions) | Early stage | ~2016 | Travel/SaaS | IPO (NASDAQ, 2025) | [^19] |
 | Virta Health | Early stage | ~2018 | Health/Diabetes | Active (unicorn) | [^15] |
+| Conduct | Series A (participated as existing investor; $60M co-led by Index Ventures + ICONIQ; SAP strategic) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^32][^33][^34] |
 
 ## In Their Own Words
 
@@ -217,3 +218,9 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^29]: Nordic 9 / nexos.ai, "nexos.ai Raises €30M Series," accessed March 2026. https://nexos.ai/blog/nexos-funding-announcement/
 [^30]: Nordic 9, "Superscale AI raised $5M in a pre-seed round led by Creandum," accessed March 2026. https://nordic9.com/news/superscale-ai-raised-5m-in-a-pre-seed-round-led-by-creandum-with-participation-from-interface-and-s16vc/
 [^31]: Nordic 9, "Spotify raises series A funding," October 2008, accessed March 2026. https://nordic9.com/news/new-news-news6154549926/
+
+[^32]: Yahoo Finance / Newswire, "Conduct Raises $60 Million Series A Round from Index, ICONIQ, and SAP," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/conduct-raises-60-million-series-121500344.html — Confirms Creandum participated as existing investor in $60M Series A co-led by Index Ventures and ICONIQ; strategic SAP investment; Lucid Capital and Booom also participated. Founded 2026 by ex-Palantir executives Jan Philipp Haas (CEO), Philipp Hoefer, Henry Thompson.
+
+[^33]: TheNextWeb, "Conduct raises $60M Series A from Index, ICONIQ and SAP," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/conduct-60-million-series-a-index-iconiq-sap — Independent confirmation of $60M Series A; total funding ~$72M to date, implying Creandum was in earlier rounds (consistent with "existing investor" framing).
+
+[^34]: The SaaS News, "Conduct Raises $60M Series A," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/conduct-raises-60m-series-a/ — Third independent confirmation listing Creandum as existing-investor participant.

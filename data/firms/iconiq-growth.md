@@ -156,6 +156,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Groww | Growth | 2021 | Fintech | IPO (2025) | [^10] |
 | Monzo | Growth | ~2022 | Fintech/Neobank | Active | [^7] |
 | Moveworks | Growth | ~2022 | AI/Enterprise | Acquired by ServiceNow (2024) | [^10] |
+| Conduct | Series A (co-led with Index Ventures, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^46][^47][^48] |
 
 *Note: Years marked with "~" are approximate, based on founding year proxies or estimated from fund vintage. This table represents approximately 51 of 140+ reported portfolio company partnerships. ICONIQ Growth's website lists over 100 companies [^11].*
 
@@ -274,3 +275,9 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^44]: TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
 
 [^45]: Ontario Teachers' Pension Plan, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/
+
+[^46]: Yahoo Finance / Newswire, "Conduct Raises $60 Million Series A Round from Index, ICONIQ, and SAP," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/conduct-raises-60-million-series-121500344.html — Confirms ICONIQ co-led $60M Series A with Index Ventures; SAP strategic; existing investors Creandum, Lucid Capital, Booom participated. Founded 2026 by ex-Palantir executives Jan Philipp Haas (CEO), Philipp Hoefer, Henry Thompson. AI operating system for enterprise software systems (SAP, Salesforce, Oracle, MES, WMS).
+
+[^47]: TheNextWeb, "Conduct raises $60M Series A from Index, ICONIQ and SAP," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/conduct-60-million-series-a-index-iconiq-sap — Independent confirmation that ICONIQ co-led; notes ICONIQ "rarely does early-stage deals" — significance for an early-stage co-lead.
+
+[^48]: The SaaS News, "Conduct Raises $60M Series A," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/conduct-raises-60m-series-a/ — Third independent confirmation of ICONIQ co-lead alongside Index Ventures with SAP strategic investment.
