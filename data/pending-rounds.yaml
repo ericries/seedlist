@@ -173,6 +173,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Ghent-based Adomate raises €1.4 million to help marketers create AI-powered
+    social media ads at scale
+  url: https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/
+  source: eu-startups
+  date_found: '2026-06-19'
+  parsed_company: Ghent-based Adomate
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Copenhagen-based Festina Finance secures over €25 million to modernise pensions
+    and life insurance platforms
+  url: https://www.eu-startups.com/2026/06/copenhagen-based-festina-finance-secures-over-e25-million-to-modernise-pensions-and-life-insurance-platforms/
+  source: eu-startups
+  date_found: '2026-06-19'
+  parsed_company: Copenhagen-based Festina Finance
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral
     marine biofuel
   url: https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/
@@ -814,20 +832,4 @@ pending_rounds:
   parsed_company: NewCore
   parsed_amount: $66M
   parsed_round: null
-  status: pending
-- title: Orbio raised $21M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-15'
-  parsed_company: Orbio
-  parsed_amount: $21M
-  parsed_round: Series A
-  status: pending
-- title: Podium Automation raised $18M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-15'
-  parsed_company: Podium Automation
-  parsed_amount: $18M
-  parsed_round: Series A
   status: pending
