@@ -1698,23 +1698,65 @@ priority:
   type: firm
   reason: led Gradial Series C $65M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Gradial Series C ($65M, 2026-06-18, $675M val) verified across 3+ independent sources (Axios, GeekWire, SiliconANGLE). Row added to insight-partners.md portfolio with citations [^48][^49][^50].
 - slug: madrona-venture-group
   type: firm
   reason: participated in Gradial Series C $65M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Madrona's participation in Gradial Series C verified by Axios and GeekWire (June 18, 2026). Row added to madrona-venture-group.md portfolio with citations [^77][^78].
 - slug: thrive-capital
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Thrive Capital participation in XDOF $70M stealth launch verified by SiliconANGLE and The AI Insider. Row added to thrive-capital.md portfolio with citations [^55][^56].
 - slug: spark-capital
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Spark Capital participation in XDOF $70M stealth launch verified by SiliconANGLE and The AI Insider. Row added to spark-capital.md portfolio with citations [^55][^56].
 - slug: andreessen-horowitz
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: a16z participation in XDOF $70M verified by SiliconANGLE and The AI Insider. Also added Convey Series A ($38M lead, 2026-06-17) verified by SiliconANGLE, Finsmes, Just AI News. Both rows added to andreessen-horowitz.md portfolio.
 - slug: lux-capital
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
+  added: '2026-06-03'
+  status: resolved
+  resolution_date: '2026-06-03'
+  resolution_note: Lux Capital participation in XDOF $70M stealth launch verified by SiliconANGLE and The AI Insider. Row added to lux-capital.md portfolio with citations [^22][^23].
+- slug: verse
+  type: startup
+  reason: new profile created from Series B $54M (2026-06-18)
+  added: '2026-06-03'
+- slug: convey
+  type: startup
+  reason: new profile created from Series A $38M (2026-06-17)
+  added: '2026-06-03'
+- slug: bessemer-venture-partners
+  type: firm
+  reason: led Verse Series B $54M (2026-06-18)
+  added: '2026-06-03'
+- slug: gv
+  type: firm
+  reason: participated in Verse Series B $54M (2026-06-18)
+  added: '2026-06-03'
+- slug: khosla-ventures
+  type: firm
+  reason: participated in Convey Series A $38M (2026-06-17)
+  added: '2026-06-03'
+- slug: pear-vc
+  type: firm
+  reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
