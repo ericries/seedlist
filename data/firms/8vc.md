@@ -94,7 +94,7 @@ Based on 8VC's verified portfolio and public data:
 | Addepar | Co-founded | ~2009 | Fintech | Private [^3] |
 | OpenGov | Co-founded | ~2012 | GovTech | Acquired ($1.8B) [^3] |
 | Flexport | Early | ~2015 | Logistics | Private [^3] |
-| Joby Aviation | Series B | 2018 | Transportation | Public (JOBY) [^3][^5][^14] |
+| Joby Aviation | Series B | 2018-02-01 | Transportation | Public (JOBY) [^3][^5][^14] |
 | Oculus | Early | ~2013 | Consumer Tech | Acquired by Facebook [^3] |
 | Guardant Health | Early | ~2015 | Healthcare/Diagnostics | Public [^3] |
 | Oscar Health | Early | ~2014 | Healthcare Insurance | Public [^3] |
@@ -151,7 +151,7 @@ No independently sourced founder testimonials found.
 
 [^13]: SiliconANGLE, "Rilian raises $17.5M to automate security software procurement and deployment in the defense sector," April 23, 2026. https://siliconangle.com/2026/04/23/rilian-raises-17-5m-automate-security-software-procurement-deployment-defense-sector/
 
-[^14]: Toyota USA Newsroom and Joby Aviation press, "Joby Aviation Announces Closing of $100 Million Series B," February 1, 2018. https://www.jobyaviation.com/news/joby-aviation-announces-closing-250-million-investment/ — Series B led by Capricorn Investment Group; 8VC participated.
+[^14]: Joby Aviation press release, "Joby Aviation Secures $100M in Series B Funding to Make Electric Vertical Take-off and Landing Transportation a Reality," February 1, 2018. https://www.jobyaviation.com/news/joby-aviation-secures-100m-in-series-b-funding/ — $100M Series B led by Intel Capital; 8VC participated as existing investor. Also Business Wire, February 1, 2018, https://www.businesswire.com/news/home/20180201005422/en/ — confirms date and participants.
 
 [^15]: TechCrunch, "Illumio Raises $100M More For Enterprise Security That Goes Beyond The Firewall," April 14, 2015. https://techcrunch.com/2015/04/14/illumio-raises-100m-more-for-enterprise-security-that-goes-beyond-the-firewall/ — references prior 2014 Series B; Formation 8 (now 8VC) had invested in the October 2014 Series B/extension round per Wikipedia coverage of Formation 8.
 

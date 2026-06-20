@@ -194309,10 +194309,11 @@ vague_facts:
   section: Portfolio
   column: 2
   value: '2018'
-  line: '| Joby Aviation | Series B | 2018 | Transportation | Public (JOBY) [^3][^5][^14] |'
+  line: '| Joby Aviation | Series B | 2018-02-01 | Transportation | Public (JOBY) [^3][^5][^14] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: 'Joby Series B closed 2018-02-01, $100M led by Intel Capital (8VC participated as existing investor). Sources: Joby press release, Business Wire, Santa Cruz Tech Beat.'
 - profile: firms/8vc
   profile_name: 8VC
   company: Oculus
