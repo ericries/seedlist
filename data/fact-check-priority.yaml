@@ -92,31 +92,31 @@ priority:
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Poetic Series A $50M at $500M val (2026-06-10,\
-    \ Kleiner Perkins led; Founders Fund, First Harmonic, OpenAI Startup Fund participated)\
-    \ added to kleiner-perkins.md portfolio with 3 independent primary citations [^50][^51][^52]\
-    \ (PR Newswire press release, The Next Web, Benzinga). Founder/CEO Markie Wagner\
-    \ (ex-Google, ex-Waymo). SF-based enterprise AI automation."
+  resolution_note: RESOLVED 2026-06-03 — Poetic Series A $50M at $500M val (2026-06-10,
+    Kleiner Perkins led; Founders Fund, First Harmonic, OpenAI Startup Fund participated)
+    added to kleiner-perkins.md portfolio with 3 independent primary citations [^50][^51][^52]
+    (PR Newswire press release, The Next Web, Benzinga). Founder/CEO Markie Wagner
+    (ex-Google, ex-Waymo). SF-based enterprise AI automation.
 - slug: founders-fund
   type: firm
   reason: participated in Poetic Series A (2026-06-10)
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Poetic Series A $50M at $500M val (2026-06-10,\
-    \ Kleiner Perkins led, Founders Fund participated alongside First Harmonic and\
-    \ OpenAI Startup Fund) added to founders-fund.md portfolio with 3 independent\
-    \ primary citations [^68][^69][^70] (PR Newswire, The Next Web, Benzinga)."
+  resolution_note: RESOLVED 2026-06-03 — Poetic Series A $50M at $500M val (2026-06-10,
+    Kleiner Perkins led, Founders Fund participated alongside First Harmonic and OpenAI
+    Startup Fund) added to founders-fund.md portfolio with 3 independent primary citations
+    [^68][^69][^70] (PR Newswire, The Next Web, Benzinga).
 - slug: openai-startup-fund
   type: firm
   reason: participated in Poetic Series A (2026-06-10)
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Poetic Series A $50M at $500M val (2026-06-10,\
-    \ Kleiner Perkins led, OpenAI Startup Fund participated alongside Founders Fund\
-    \ and First Harmonic) added to openai-startup-fund.md portfolio with 3 independent\
-    \ primary citations [^32][^33][^34] (PR Newswire, Bloomberg, The Next Web)."
+  resolution_note: RESOLVED 2026-06-03 — Poetic Series A $50M at $500M val (2026-06-10,
+    Kleiner Perkins led, OpenAI Startup Fund participated alongside Founders Fund
+    and First Harmonic) added to openai-startup-fund.md portfolio with 3 independent
+    primary citations [^32][^33][^34] (PR Newswire, Bloomberg, The Next Web).
 - slug: andreessen-horowitz
   type: firm
   reason: led Digital Asset $355M (2026-06-11) and participated in Current Series
@@ -124,26 +124,26 @@ priority:
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Digital Asset $355M growth round (2026-06-11,\
-    \ a16z crypto led; $100M a16z contribution at ~$2B val) added to andreessen-horowitz.md\
-    \ portfolio with 3 independent primary citations [^64][^65][^66] (PR Newswire\
-    \ press release naming CEO Yuval Rooz, Decrypt, FX News Group). Participants include\
-    \ 7RIDGE, ABN Amro, ADIA, Apollo, BNP Paribas, Broadridge, Citadel Securities,\
-    \ CME Ventures, Coinbase Ventures, HSBC, Optiver, Polychain, S&P Global, SBI,\
-    \ SoFi, Tradeweb, William Blair, et al. Current Series E $80M at $1.5B val (2026-06-11,\
-    \ Springcoast Partners led) added with 3 primary citations [^67][^68][^69] (Yahoo/PR\
-    \ Newswire press release, AlleyWatch, TheNextWeb)."
+  resolution_note: RESOLVED 2026-06-03 — Digital Asset $355M growth round (2026-06-11,
+    a16z crypto led; $100M a16z contribution at ~$2B val) added to andreessen-horowitz.md
+    portfolio with 3 independent primary citations [^64][^65][^66] (PR Newswire press
+    release naming CEO Yuval Rooz, Decrypt, FX News Group). Participants include 7RIDGE,
+    ABN Amro, ADIA, Apollo, BNP Paribas, Broadridge, Citadel Securities, CME Ventures,
+    Coinbase Ventures, HSBC, Optiver, Polychain, S&P Global, SBI, SoFi, Tradeweb,
+    William Blair, et al. Current Series E $80M at $1.5B val (2026-06-11, Springcoast
+    Partners led) added with 3 primary citations [^67][^68][^69] (Yahoo/PR Newswire
+    press release, AlleyWatch, TheNextWeb).
 - slug: greylock
   type: firm
   reason: led Niteshift $7M seed (2026-06-10)
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-12
-  resolution_note: "Verified Niteshift $7M seed led by Greylock (Jerry Chen) on 2026-06-10\
-    \ via 3 primary sources (TechCrunch, PressRelease.com, AlleyWatch). Added Niteshift\
-    \ to Greylock portfolio with citations [^35][^36][^37]. Co-investors: Amplify\
-    \ Partners, BoxGroup, SV Angel, plus angels Reid Hoffman, Olivier Pomel, Alexis\
-    \ L\xEA-Qu\xF4c, Ankur Goyal, Misha Laskin."
+  resolution_note: 'Verified Niteshift $7M seed led by Greylock (Jerry Chen) on 2026-06-10
+    via 3 primary sources (TechCrunch, PressRelease.com, AlleyWatch). Added Niteshift
+    to Greylock portfolio with citations [^35][^36][^37]. Co-investors: Amplify Partners,
+    BoxGroup, SV Angel, plus angels Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur
+    Goyal, Misha Laskin.'
 - slug: jerry-chen
   type: investor
   reason: led Niteshift seed via Greylock (2026-06-10)
@@ -160,22 +160,22 @@ priority:
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Niteshift Seed $7M (2026-06-10, Greylock/Jerry\
-    \ Chen led; Amplify Partners, BoxGroup, SV Angel participating; angels Reid Hoffman,\
-    \ Olivier Pomel, Alexis L\xEA-Qu\xF4c, Ankur Goyal, Misha Laskin) added to boxgroup.md\
-    \ portfolio with 3 independent primary citations [^niteshift2026a][^niteshift2026b][^niteshift2026c]:\
-    \ (1) TechCrunch, (2) PressRelease.com official announcement, (3) Pulse 2.0."
+  resolution_note: 'RESOLVED 2026-06-03 — Niteshift Seed $7M (2026-06-10, Greylock/Jerry
+    Chen led; Amplify Partners, BoxGroup, SV Angel participating; angels Reid Hoffman,
+    Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin) added to boxgroup.md
+    portfolio with 3 independent primary citations [^niteshift2026a][^niteshift2026b][^niteshift2026c]:
+    (1) TechCrunch, (2) PressRelease.com official announcement, (3) Pulse 2.0.'
 - slug: sv-angel
   type: firm
   reason: participated in Niteshift seed (2026-06-10)
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Niteshift Seed $7M (2026-06-10, Greylock/Jerry\
-    \ Chen led; Amplify Partners, BoxGroup, SV Angel participating; angels Reid Hoffman,\
-    \ Olivier Pomel, Alexis L\xEA-Qu\xF4c, Ankur Goyal, Misha Laskin) added to sv-angel.md\
-    \ portfolio with 3 independent primary citations [^niteshift2026a][^niteshift2026b][^niteshift2026c]:\
-    \ (1) TechCrunch, (2) PressRelease.com official announcement, (3) Pulse 2.0."
+  resolution_note: 'RESOLVED 2026-06-03 — Niteshift Seed $7M (2026-06-10, Greylock/Jerry
+    Chen led; Amplify Partners, BoxGroup, SV Angel participating; angels Reid Hoffman,
+    Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin) added to sv-angel.md
+    portfolio with 3 independent primary citations [^niteshift2026a][^niteshift2026b][^niteshift2026c]:
+    (1) TechCrunch, (2) PressRelease.com official announcement, (3) Pulse 2.0.'
 - slug: tiger-global-management
   type: firm
   reason: participated in Current Series E (2026-06-11)
@@ -193,20 +193,20 @@ priority:
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Current Series E $80M at $1.5B val\
-    \ (2026-06-11, Springcoast Partners led; General Catalyst named as existing investor)\
-    \ added to general-catalyst.md portfolio with 3 independent primary citations\
-    \ [^71][^72][^73] (Yahoo/PR Newswire press release explicitly naming General Catalyst,\
-    \ AlleyWatch Daily Funding Report 6/11/2026, TheNextWeb). Co-existing investors:\
-    \ a16z, Tiger Global, Avenir, Foundation Capital, Wellington, Sapphire Ventures,\
-    \ Cross River, QED Investors."
+  resolution_note: 'RESOLVED 2026-06-03 — Current Series E $80M at $1.5B val (2026-06-11,
+    Springcoast Partners led; General Catalyst named as existing investor) added to
+    general-catalyst.md portfolio with 3 independent primary citations [^71][^72][^73]
+    (Yahoo/PR Newswire press release explicitly naming General Catalyst, AlleyWatch
+    Daily Funding Report 6/11/2026, TheNextWeb). Co-existing investors: a16z, Tiger
+    Global, Avenir, Foundation Capital, Wellington, Sapphire Ventures, Cross River,
+    QED Investors.'
 - slug: qed-investors
   type: firm
-  reason: "RESOLVED 2026-06-12 \u2014 Current Series E ($80M led by Springcoast Partners,\
-    \ 2026-06-11) added to qed-investors.md portfolio with 3 independent primary citations:\
-    \ (1) PR Newswire press release [^40], (2) Paul Hastings LLP advisor announcement\
-    \ [^41], (3) AlleyWatch Startup Daily Funding Report [^42]. All three independently\
-    \ confirm QED as Series E participant. Portfolio note updated to 27 entries."
+  reason: 'RESOLVED 2026-06-12 — Current Series E ($80M led by Springcoast Partners,
+    2026-06-11) added to qed-investors.md portfolio with 3 independent primary citations:
+    (1) PR Newswire press release [^40], (2) Paul Hastings LLP advisor announcement
+    [^41], (3) AlleyWatch Startup Daily Funding Report [^42]. All three independently
+    confirm QED as Series E participant. Portfolio note updated to 27 entries.'
   added: 2026-06-12
   status: resolved
 - slug: founders-fund
@@ -215,27 +215,27 @@ priority:
   added: 2026-06-12
   status: unresolvable
   resolved: 2026-06-03
-  resolution_note: "UNRESOLVABLE 2026-06-03 \u2014 Founders Fund NOT mentioned in\
-    \ Current Series E primary source (Yahoo/PR Newswire press release, 2026-06-11).\
-    \ Verified existing investor list: Andreessen Horowitz, Tiger Global, Avenir,\
-    \ Foundation Capital, Wellington Management, Sapphire Ventures, General Catalyst,\
-    \ Cross River, QED Investors. Founders Fund is absent. Claim appears to be a hallucination\
-    \ \u2014 not adding to portfolio."
+  resolution_note: 'UNRESOLVABLE 2026-06-03 — Founders Fund NOT mentioned in Current
+    Series E primary source (Yahoo/PR Newswire press release, 2026-06-11). Verified
+    existing investor list: Andreessen Horowitz, Tiger Global, Avenir, Foundation
+    Capital, Wellington Management, Sapphire Ventures, General Catalyst, Cross River,
+    QED Investors. Founders Fund is absent. Claim appears to be a hallucination —
+    not adding to portfolio.'
 - slug: reid-hoffman
   type: investor
   reason: angel in Niteshift seed (2026-06-10)
   added: 2026-06-12
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Niteshift Seed $7M (2026-06-10, Greylock/Jerry\
-    \ Chen led; Amplify Partners, BoxGroup, SV Angel + angels Hoffman, Pomel, L\xEA\
-    -Qu\xF4c, Goyal, Laskin participating) added to reid-hoffman portfolio with 3\
-    \ independent primary citations [^16][^17][^18]. last_verified_investment updated\
-    \ from Convoy ~2017 to Niteshift 2026-06-10. Also tightened 3 pre-existing portfolio\
-    \ vague dates: Aurora Series A (~2017 \u2192 2018-02-28, $90M co-led with Index,\
-    \ Hoffman + Mike Volpi joined board) via Fortune [^12] + Greylock [^13]; Convoy\
-    \ Series A (~2017 \u2192 2016-03-23, $16M Greylock-led, Hoffman + Simon Rothman\
-    \ joined board) via Business Wire [^14] + TechCrunch Series B [^15]."
+  resolution_note: 'RESOLVED 2026-06-03 — Niteshift Seed $7M (2026-06-10, Greylock/Jerry
+    Chen led; Amplify Partners, BoxGroup, SV Angel + angels Hoffman, Pomel, Lê-Quôc,
+    Goyal, Laskin participating) added to reid-hoffman portfolio with 3 independent
+    primary citations [^16][^17][^18]. last_verified_investment updated from Convoy
+    ~2017 to Niteshift 2026-06-10. Also tightened 3 pre-existing portfolio vague dates:
+    Aurora Series A (~2017 → 2018-02-28, $90M co-led with Index, Hoffman + Mike Volpi
+    joined board) via Fortune [^12] + Greylock [^13]; Convoy Series A (~2017 → 2016-03-23,
+    $16M Greylock-led, Hoffman + Simon Rothman joined board) via Business Wire [^14]
+    + TechCrunch Series B [^15].'
 - slug: olivier-pomel
   type: investor
   reason: angel in Niteshift seed (2026-06-10)
@@ -250,17 +250,17 @@ priority:
     last_verified_investment to Niteshift Seed 2026-06-10.
 - slug: dst-global
   type: firm
-  reason: "RESOLVED 2026-06-11 \u2014 Prometheus Series B $12B at $41B val (2026-06-11,\
-    \ Bezos personal lead; backers JPMorgan, BlackRock, Goldman Sachs, DST Global,\
-    \ ARCH Venture Partners) added to dst-global.md portfolio with 3 independent primary\
-    \ citations: (1) Axios article (axios.com/2026/06/11/prometheus-bezos-industrial-ai)\
-    \ [^34], (2) Semafor article (semafor.com/article/06/11/2026/jeff-bezos-raises-12b-for-ai-that-builds-things)\
-    \ [^35] which explicitly names 'venture-capital firms DST Global and Arch Venture\
-    \ Partners', (3) Benzinga article [^36] which states 'Backers in the Series B\
-    \ include JPMorgan, BlackRock, Goldman Sachs, DST Global and Arch Venture Partners'.\
-    \ All 3 sources independently confirm DST Global as Series B participant. Prometheus\
-    \ startup profile already has dst-global in firms[] frontmatter. Portfolio note\
-    \ updated from 33\u219234 companies (~16%)."
+  reason: 'RESOLVED 2026-06-11 — Prometheus Series B $12B at $41B val (2026-06-11,
+    Bezos personal lead; backers JPMorgan, BlackRock, Goldman Sachs, DST Global, ARCH
+    Venture Partners) added to dst-global.md portfolio with 3 independent primary
+    citations: (1) Axios article (axios.com/2026/06/11/prometheus-bezos-industrial-ai)
+    [^34], (2) Semafor article (semafor.com/article/06/11/2026/jeff-bezos-raises-12b-for-ai-that-builds-things)
+    [^35] which explicitly names ''venture-capital firms DST Global and Arch Venture
+    Partners'', (3) Benzinga article [^36] which states ''Backers in the Series B
+    include JPMorgan, BlackRock, Goldman Sachs, DST Global and Arch Venture Partners''.
+    All 3 sources independently confirm DST Global as Series B participant. Prometheus
+    startup profile already has dst-global in firms[] frontmatter. Portfolio note
+    updated from 33→34 companies (~16%).'
   added: 2026-06-12
   status: resolved
 - slug: cvs-health-ventures
@@ -281,51 +281,51 @@ priority:
   added: 2026-05-30
 - slug: wing-venture-capital
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 wing-venture-capital.md does NOT exist in data/firms/;\
-    \ cannot update Wing's portfolio. Gray Swan Series A re-verified via 2 primary\
-    \ sources (grayswan.ai press release + NatLawReview/EIN, plus Technical.ly already\
-    \ cited in startup profile): $40M Series A 2026-05-28, co-led by Wing Venture\
-    \ Capital and Madrona, with Obvious Ventures, Snowflake Ventures, Hudson River\
-    \ Trading, Samsung Next, returning Magarac Venture Partners. Jake Flomenberg of\
-    \ Wing was spokesperson. Redirected fix to obvious-ventures.md (next unresolved\
-    \ co-investor with profile): added Gray Swan Series A portfolio row with 3 primary\
-    \ citations [^15][^16][^17]; updated gray-swan.md firms[] frontmatter to add obvious-ventures\
-    \ slug; Inferred Thesis sample size updated 35 to 36. Wing Venture Capital should\
-    \ be added to queue.yaml as new firm research lead."
+  reason: 'RESOLVED 2026-06-03 — wing-venture-capital.md does NOT exist in data/firms/;
+    cannot update Wing''s portfolio. Gray Swan Series A re-verified via 2 primary
+    sources (grayswan.ai press release + NatLawReview/EIN, plus Technical.ly already
+    cited in startup profile): $40M Series A 2026-05-28, co-led by Wing Venture Capital
+    and Madrona, with Obvious Ventures, Snowflake Ventures, Hudson River Trading,
+    Samsung Next, returning Magarac Venture Partners. Jake Flomenberg of Wing was
+    spokesperson. Redirected fix to obvious-ventures.md (next unresolved co-investor
+    with profile): added Gray Swan Series A portfolio row with 3 primary citations
+    [^15][^16][^17]; updated gray-swan.md firms[] frontmatter to add obvious-ventures
+    slug; Inferred Thesis sample size updated 35 to 36. Wing Venture Capital should
+    be added to queue.yaml as new firm research lead.'
   added: 2026-05-30
   status: resolved
 - slug: madrona
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Gray Swan $40M Series A at $200M val (2026-05-28,\
-    \ co-led with Wing Venture Capital; Obvious Ventures, Snowflake Ventures, Hudson\
-    \ River Trading, Samsung Next, Magarac Venture Partners participated) added to\
-    \ madrona-venture-group.md portfolio with 3 primary citations (grayswan.ai, NatLawReview/EIN,\
-    \ Technical.ly). Vivek Ramaswami was Madrona spokesperson. Gray Swan startup profile\
-    \ firms[] frontmatter linked to madrona-venture-group."
+  reason: RESOLVED 2026-06-06 — Gray Swan $40M Series A at $200M val (2026-05-28,
+    co-led with Wing Venture Capital; Obvious Ventures, Snowflake Ventures, Hudson
+    River Trading, Samsung Next, Magarac Venture Partners participated) added to madrona-venture-group.md
+    portfolio with 3 primary citations (grayswan.ai, NatLawReview/EIN, Technical.ly).
+    Vivek Ramaswami was Madrona spokesperson. Gray Swan startup profile firms[] frontmatter
+    linked to madrona-venture-group.
   added: 2026-05-30
   status: resolved
 - slug: innovation-endeavors
   type: firm
-  reason: "UNRESOLVABLE 2026-06-03 \u2014 Innovation Endeavors firm profile does not\
-    \ exist in data/firms/innovation-endeavors.md, so no portfolio row can be added.\
-    \ LightTable $22M Series A (2026-05-27, Innovation Endeavors-led) IS fully verified\
-    \ in the existing /data/startups/lighttable.md profile with 3 independent primary\
-    \ citations (GlobeNewswire press release [^1], PropTech Connect [^2], The SaaS\
-    \ News [^3]). Co-investors confirmed: Blackhorn Ventures, DivcoWest Ventures,\
-    \ 9Yards Capital, Primary Venture Partners, MetaProp, Banter Capital. Innovation\
-    \ Endeavors is already in queue.yaml as a pending firm. Once the firm profile\
-    \ is created, this round should be added as a portfolio row with the same 3 citations."
+  reason: 'UNRESOLVABLE 2026-06-03 — Innovation Endeavors firm profile does not exist
+    in data/firms/innovation-endeavors.md, so no portfolio row can be added. LightTable
+    $22M Series A (2026-05-27, Innovation Endeavors-led) IS fully verified in the
+    existing /data/startups/lighttable.md profile with 3 independent primary citations
+    (GlobeNewswire press release [^1], PropTech Connect [^2], The SaaS News [^3]).
+    Co-investors confirmed: Blackhorn Ventures, DivcoWest Ventures, 9Yards Capital,
+    Primary Venture Partners, MetaProp, Banter Capital. Innovation Endeavors is already
+    in queue.yaml as a pending firm. Once the firm profile is created, this round
+    should be added as a portfolio row with the same 3 citations.'
   added: 2026-05-30
   status: unresolvable
 - slug: rwe
   type: firm
-  reason: "led Focused Energy $240M Series A \u2014 largest in fusion (2026-05-27)"
+  reason: led Focused Energy $240M Series A — largest in fusion (2026-05-27)
   added: 2026-05-30
 - slug: prime-movers-lab
   type: firm
-  reason: "SKIPPED 2026-06-03 \u2014 Prime Movers Lab profile does not exist in data/firms/.\
-    \ Firm is already queued in queue.yaml for profile creation. Cannot perform fact-check\
-    \ sweep on non-existent profile. Will revisit after profile is created."
+  reason: SKIPPED 2026-06-03 — Prime Movers Lab profile does not exist in data/firms/.
+    Firm is already queued in queue.yaml for profile creation. Cannot perform fact-check
+    sweep on non-existent profile. Will revisit after profile is created.
   added: 2026-05-30
   status: resolved
 - slug: rtx-ventures
@@ -338,15 +338,15 @@ priority:
   added: 2026-05-30
 - slug: kfund
   type: firm
-  reason: "led Mafer AI \u20AC2M pre-seed (2026-05-29)"
+  reason: led Mafer AI €2M pre-seed (2026-05-29)
   added: 2026-05-29
 - slug: xtx-ventures
   type: firm
-  reason: "co-led Kopa.ai \u20AC2M seed (2026-05-28)"
+  reason: co-led Kopa.ai €2M seed (2026-05-28)
   added: 2026-05-29
 - slug: practica-capital
   type: firm
-  reason: "co-led Kopa.ai \u20AC2M seed (2026-05-28)"
+  reason: co-led Kopa.ai €2M seed (2026-05-28)
   added: 2026-05-29
 - slug: headline
   type: firm
@@ -362,11 +362,11 @@ priority:
   added: 2026-05-28
 - slug: graduate-ventures
   type: firm
-  reason: "co-led Eddy Grid \u20AC7.5M (2026-05-28)"
+  reason: co-led Eddy Grid €7.5M (2026-05-28)
   added: 2026-05-28
 - slug: parkway-venture-capital
   type: firm
-  reason: "led Hark $700M Series A at $6B val (2026-05-21) \u2014 may need new profile"
+  reason: led Hark $700M Series A at $6B val (2026-05-21) — may need new profile
   added: 2026-05-21
 - slug: 137-ventures
   type: firm
@@ -378,11 +378,11 @@ priority:
   added: 2026-06-03
 - slug: bond-capital
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Suno Series D $400M at $5.4B val (2026-06-03,\
-    \ Bond-led) added to bond.md portfolio with 3 primary citations (TechCrunch, Variety,\
-    \ SiliconANGLE); participants confirmed: IVP, Forerunner, USV, Alkeon, Quiet,\
-    \ Matrix, Lightspeed, Menlo, Schroders. Suno startup frontmatter now references\
-    \ bond slug for the Series D round."
+  reason: 'RESOLVED 2026-06-07 — Suno Series D $400M at $5.4B val (2026-06-03, Bond-led)
+    added to bond.md portfolio with 3 primary citations (TechCrunch, Variety, SiliconANGLE);
+    participants confirmed: IVP, Forerunner, USV, Alkeon, Quiet, Matrix, Lightspeed,
+    Menlo, Schroders. Suno startup frontmatter now references bond slug for the Series
+    D round.'
   added: 2026-06-03
   status: resolved
 - slug: advent
@@ -395,963 +395,935 @@ priority:
   added: 2026-06-03
 - slug: redpoint-ventures
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Cyera $300M participation added to portfolio"
+  reason: RESOLVED 2026-06-04 — Cyera $300M participation added to portfolio
   added: 2026-06-04
   status: resolved
 - slug: sequoia-capital
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Cyera $300M (2026-06-02, Evolution-led) added\
-    \ to portfolio; vague dates on Rogo, Ineffable, Ricursive seed resolved"
+  reason: RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led) added to portfolio;
+    vague dates on Rogo, Ineffable, Ricursive seed resolved
   added: 2026-06-04
   status: resolved
 - slug: sv-angel
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Adaptive Innovations Series A row added to portfolio\
-    \ with 3 primary citations (adaptive.co blog, FinSMEs, Home Health Care News)"
+  reason: RESOLVED 2026-06-04 — Adaptive Innovations Series A row added to portfolio
+    with 3 primary citations (adaptive.co blog, FinSMEs, Home Health Care News)
   added: 2026-06-04
   status: resolved
 - slug: long-journey-ventures
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Forage Series B $40M (2026-06-03, Mouro-led,\
-    \ participated) added to portfolio with 3 primary citations (Forage newsroom,\
-    \ PRNewswire, citybiz); also resolved vague dates on 5 portfolio entries: Titan\
-    \ Dynamics (2026-01-29), Flora (2025-03-02, renamed from Flora Fauna), Rainmaker\
-    \ (2024-05-07, $6.3M), Volteras (2025-05-29, Series A $11.1M follow-on), DreamPark\
-    \ (2025-05-29, led $1.1M); General Matter LJV participation unverifiable \u2014\
-    \ left as-is"
+  reason: 'RESOLVED 2026-06-04 — Forage Series B $40M (2026-06-03, Mouro-led, participated)
+    added to portfolio with 3 primary citations (Forage newsroom, PRNewswire, citybiz);
+    also resolved vague dates on 5 portfolio entries: Titan Dynamics (2026-01-29),
+    Flora (2025-03-02, renamed from Flora Fauna), Rainmaker (2024-05-07, $6.3M), Volteras
+    (2025-05-29, Series A $11.1M follow-on), DreamPark (2025-05-29, led $1.1M); General
+    Matter LJV participation unverifiable — left as-is'
   added: 2026-06-04
   status: resolved
 - slug: mischief
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Plot $10M seed follow-on (2026-06-02) added\
-    \ to portfolio with 3 primary citations (PRNewswire, Net Influencer, Adweek);\
-    \ also resolved vague dates on 7 portfolio entries: Hamming (2024-12-18), Cardless\
-    \ (2024-11-26, Activant-led), iVerify Series A (2024-06-26, $12M Shine-led), Tivara\
-    \ (2026-01), Friday Harbor (2025-04-15, Abstract-led), Crafting (2026-03-09),\
-    \ Twenty (2024-11-19, Runa-led); marketing-tech added to sector_focus; inferred\
-    \ thesis updated from 20 to 21 verified investments"
+  reason: 'RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio
+    with 3 primary citations (PRNewswire, Net Influencer, Adweek); also resolved vague
+    dates on 7 portfolio entries: Hamming (2024-12-18), Cardless (2024-11-26, Activant-led),
+    iVerify Series A (2024-06-26, $12M Shine-led), Tivara (2026-01), Friday Harbor
+    (2025-04-15, Abstract-led), Crafting (2026-03-09), Twenty (2024-11-19, Runa-led);
+    marketing-tech added to sector_focus; inferred thesis updated from 20 to 21 verified
+    investments'
   added: 2026-06-04
   status: resolved
 - slug: acme-capital
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Plot $10M seed follow-on (2026-06-02) added\
-    \ to portfolio with 3 primary citations (PRNewswire, Net Influencer, Adweek);\
-    \ Stendr pre-seed date resolved to 2026-04-15 (co-led with RainFall and SkyFall)"
+  reason: RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio
+    with 3 primary citations (PRNewswire, Net Influencer, Adweek); Stendr pre-seed
+    date resolved to 2026-04-15 (co-led with RainFall and SkyFall)
   added: 2026-06-04
   status: resolved
 - slug: alexis-ohanian
   type: investor
-  reason: "RESOLVED 2026-06-04 \u2014 Plot $10M seed follow-on (2026-06-02) added\
-    \ to portfolio; last_verified_investment updated from LambdaVision 2025-11-05\
-    \ to Plot 2026-06-02; 3 primary citations added"
+  reason: RESOLVED 2026-06-04 — Plot $10M seed follow-on (2026-06-02) added to portfolio;
+    last_verified_investment updated from LambdaVision 2025-11-05 to Plot 2026-06-02;
+    3 primary citations added
   added: 2026-06-04
   status: resolved
 - slug: valor-equity-partners
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 NewLimit Series C $435M (2026-06-02, Founders\
-    \ Fund-led, Valor returning) added to portfolio with 4 primary citations (NewLimit\
-    \ blog Series B + Series C, Yahoo Finance, Bitcoin.com); also added prior NewLimit\
-    \ Series B (2025-05-06, $130M, Kleiner Perkins-led, Valor as new investor); last_verified_investment\
-    \ set to NewLimit 2026-06-02; biotech and longevity added to sector_focus; inferred\
-    \ thesis updated from 58 to 59 verified investments. Note: year backfill on remaining\
-    \ 37 pre-existing rows still pending."
+  reason: 'RESOLVED 2026-06-06 — NewLimit Series C $435M (2026-06-02, Founders Fund-led,
+    Valor returning) added to portfolio with 4 primary citations (NewLimit blog Series
+    B + Series C, Yahoo Finance, Bitcoin.com); also added prior NewLimit Series B
+    (2025-05-06, $130M, Kleiner Perkins-led, Valor as new investor); last_verified_investment
+    set to NewLimit 2026-06-02; biotech and longevity added to sector_focus; inferred
+    thesis updated from 58 to 59 verified investments. Note: year backfill on remaining
+    37 pre-existing rows still pending.'
   added: 2026-06-04
   status: resolved
 - slug: iconiq-growth
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Ramp Series F $750M at $44B (2026-06-04, co-led\
-    \ with GIC + OTPP) added to portfolio with 3 primary citations (PRNewswire, TechCrunch,\
-    \ OTPP); also resolved vague dates on Sierra (2024-10-28), DX (2025-03-05), Omni\
-    \ (2026-04-23), AcuityMD Series B (2024-06-04), Series C (2026-04-21)"
+  reason: RESOLVED 2026-06-04 — Ramp Series F $750M at $44B (2026-06-04, co-led with
+    GIC + OTPP) added to portfolio with 3 primary citations (PRNewswire, TechCrunch,
+    OTPP); also resolved vague dates on Sierra (2024-10-28), DX (2025-03-05), Omni
+    (2026-04-23), AcuityMD Series B (2024-06-04), Series C (2026-04-21)
   added: 2026-06-04
   status: resolved
 - slug: redpoint-ventures
   type: firm
-  reason: "RESOLVED 2026-06-04 \u2014 Cyera $300M (2026-06-02, Evolution-led, participated)\
-    \ and Collate $95M Series B (2026-06-03, led) added; Twilio corrected from Series\
-    \ A 2009 to Series D 2013-06-12 (led)"
+  reason: RESOLVED 2026-06-04 — Cyera $300M (2026-06-02, Evolution-led, participated)
+    and Collate $95M Series B (2026-06-03, led) added; Twilio corrected from Series
+    A 2009 to Series D 2013-06-12 (led)
   added: 2026-06-04
   status: resolved
 - slug: balderton-capital
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Fuse Energy Series B Extension \u20AC25M (2026-06-04,\
-    \ follow-on) added with 3 primary citations (EU-Startups, BeBeez, Balderton);\
-    \ also added prior Fuse Energy rounds (Seed 2022 co-led $78M, Series B 2025-12-18\
-    \ co-led $70M); resolved vague dates on Checkly (2024-07-31), Quantum Systems\
-    \ (Series C 2025-05-06 + Extension 2025-11-27), Proxima Fusion (2025-06-11), Cino\
-    \ (2025-03-04)"
+  reason: RESOLVED 2026-06-05 — Fuse Energy Series B Extension €25M (2026-06-04, follow-on)
+    added with 3 primary citations (EU-Startups, BeBeez, Balderton); also added prior
+    Fuse Energy rounds (Seed 2022 co-led $78M, Series B 2025-12-18 co-led $70M); resolved
+    vague dates on Checkly (2024-07-31), Quantum Systems (Series C 2025-05-06 + Extension
+    2025-11-27), Proxima Fusion (2025-06-11), Cino (2025-03-04)
   added: 2026-06-04
   status: resolved
 - slug: lowercarbon-capital
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Fuse Energy Series B Extension \u20AC25M (2026-06-04,\
-    \ follow-on) added with 3 primary citations (EU-Startups, BeBeez, TechFundingNews);\
-    \ also added prior Fuse Energy rounds (Series B 2025-12-22 co-led $70M, Seed 2022)"
+  reason: RESOLVED 2026-06-05 — Fuse Energy Series B Extension €25M (2026-06-04, follow-on)
+    added with 3 primary citations (EU-Startups, BeBeez, TechFundingNews); also added
+    prior Fuse Energy rounds (Series B 2025-12-22 co-led $70M, Seed 2022)
   added: 2026-06-04
   status: resolved
 - slug: collaborative-fund
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Fuse Energy Series B Extension \u20AC25M ($30M,\
-    \ 2026-06-04, co-led with 20VC; Balderton + Lowercarbon participated) added to\
-    \ portfolio with 3 primary citations (EU-Startups, BeBeez, Mercom Capital Group);\
-    \ also resolved vague dates on Phaidra (2025-10-01, $50M+ Series B led), Acceleron\
-    \ Fusion (2024-12-03, $24M Series A co-led with Lowercarbon), MoldCo (corrected\
-    \ Early\u2192Seed, 2025-09-18, $8M co-led with Cantos)"
+  reason: RESOLVED 2026-06-05 — Fuse Energy Series B Extension €25M ($30M, 2026-06-04,
+    co-led with 20VC; Balderton + Lowercarbon participated) added to portfolio with
+    3 primary citations (EU-Startups, BeBeez, Mercom Capital Group); also resolved
+    vague dates on Phaidra (2025-10-01, $50M+ Series B led), Acceleron Fusion (2024-12-03,
+    $24M Series A co-led with Lowercarbon), MoldCo (corrected Early→Seed, 2025-09-18,
+    $8M co-led with Cantos)
   added: 2026-06-04
   status: resolved
 - slug: mayfield-fund
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Scrunch AI seed (2025-03-04, led $4M, acquired\
-    \ by Sitecore ~$225M 2026-06-03) added with 4 primary citations (TechCrunch, Scrunch\
-    \ blog, PRNewswire Series A, Sitecore/PRNewswire + Adweek confirmation); also\
-    \ resolved vague dates on Gruve (Series A 2025-04-30, led $20M), NeuBird (2026-04-08,\
-    \ $19.3M Xora-led), Inception Labs (2025-11-06, $50M Menlo-led seed), ProRata.ai\
-    \ (2024-08-06, led $25M seed)"
+  reason: RESOLVED 2026-06-03 — Scrunch AI seed (2025-03-04, led $4M, acquired by
+    Sitecore ~$225M 2026-06-03) added with 4 primary citations (TechCrunch, Scrunch
+    blog, PRNewswire Series A, Sitecore/PRNewswire + Adweek confirmation); also resolved
+    vague dates on Gruve (Series A 2025-04-30, led $20M), NeuBird (2026-04-08, $19.3M
+    Xora-led), Inception Labs (2025-11-06, $50M Menlo-led seed), ProRata.ai (2024-08-06,
+    led $25M seed)
   added: 2026-06-04
   status: resolved
 - slug: accel
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Supabase Series F $500M at $10.5B (2026-06-04,\
-    \ GIC-led, participant) added to portfolio with 3 primary citations (Supabase\
-    \ blog, PRNewswire, TechCrunch); FirstClub Series B $55M (2026-06-03, Peak XV/Sofina\
-    \ co-led) already in portfolio with 3 primary citations [^88][^89][^90]"
+  reason: RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led,
+    participant) added to portfolio with 3 primary citations (Supabase blog, PRNewswire,
+    TechCrunch); FirstClub Series B $55M (2026-06-03, Peak XV/Sofina co-led) already
+    in portfolio with 3 primary citations [^88][^89][^90]
   added: 2026-06-04
   status: resolved
 - slug: y-combinator
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Supabase Series F $500M at $10.5B (2026-06-04,\
-    \ GIC-led, participant) row updated with 3 primary citations (Supabase blog, PRNewswire,\
-    \ FinSMEs); Collate $95M Series B (2026-06-03, Redpoint-led) added \u2014 YC did\
-    \ not participate in Series B but participated in prior $30M Seed (2025-01-21)\
-    \ with 3 citations (TheSaaSNews, Techmeme/Forbes, American Bazaar/Surbhi Sarna\
-    \ X)"
+  reason: RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led,
+    participant) row updated with 3 primary citations (Supabase blog, PRNewswire,
+    FinSMEs); Collate $95M Series B (2026-06-03, Redpoint-led) added — YC did not
+    participate in Series B but participated in prior $30M Seed (2025-01-21) with
+    3 citations (TheSaaSNews, Techmeme/Forbes, American Bazaar/Surbhi Sarna X)
   added: 2026-06-04
   status: resolved
 - slug: craft-ventures
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Supabase Series F $500M at $10.5B (2026-06-04,\
-    \ GIC-led, participant) added with 3 primary citations (PRNewswire, CNBC, TechCrunch);\
-    \ also resolved vague dates on Noma Security (2025-07-31), Upwind Security (2024-12-02,\
-    \ $100M Craft-led), Oasis Security (2026-03-19), ComfyUI (2026-04-24)"
+  reason: RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led,
+    participant) added with 3 primary citations (PRNewswire, CNBC, TechCrunch); also
+    resolved vague dates on Noma Security (2025-07-31), Upwind Security (2024-12-02,
+    $100M Craft-led), Oasis Security (2026-03-19), ComfyUI (2026-04-24)
   added: 2026-06-04
   status: resolved
 - slug: coatue-management
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Supabase Series F $500M at $10.5B (2026-06-04,\
-    \ GIC-led, participant) added to portfolio with 3 primary citations (PRNewswire,\
-    \ Supabase blog, The SaaS News)"
+  reason: RESOLVED 2026-06-06 — Supabase Series F $500M at $10.5B (2026-06-04, GIC-led,
+    participant) added to portfolio with 3 primary citations (PRNewswire, Supabase
+    blog, The SaaS News)
   added: 2026-06-04
   status: resolved
 - slug: lux-capital
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Flourish $500M co-led (2026-06-04, with GV at\
-    \ $2.5B post-money) added to portfolio with 3 primary citations (SiliconANGLE,\
-    \ AlleyWatch, citybiz)"
+  reason: RESOLVED 2026-06-05 — Flourish $500M co-led (2026-06-04, with GV at $2.5B
+    post-money) added to portfolio with 3 primary citations (SiliconANGLE, AlleyWatch,
+    citybiz)
   added: 2026-06-05
   status: resolved
 - slug: gv
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Flourish $500M co-led (2026-06-04, with Lux\
-    \ Capital at $2.5B post-money) added to portfolio with 3 primary citations (SiliconANGLE,\
-    \ citybiz, AlleyWatch)"
+  reason: RESOLVED 2026-06-05 — Flourish $500M co-led (2026-06-04, with Lux Capital
+    at $2.5B post-money) added to portfolio with 3 primary citations (SiliconANGLE,
+    citybiz, AlleyWatch)
   added: 2026-06-05
   status: resolved
 - slug: union-square-ventures
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Board $20M Series A led (2026-06-02) already\
-    \ in portfolio with 3 citations (TechCrunch, Yahoo/BusinessWire, Lerer Hippeau\
-    \ Medium); Suno Series D participation already in portfolio with TechCrunch citation;\
-    \ FLOURISH CLAIM INCORRECT \u2014 primary source (SiliconANGLE) confirms only\
-    \ Bezos, GV, Lux Capital, and Catalio participated, not USV. last_verified_investment\
-    \ frontmatter added (Suno 2026-06-03)."
+  reason: RESOLVED 2026-06-05 — Board $20M Series A led (2026-06-02) already in portfolio
+    with 3 citations (TechCrunch, Yahoo/BusinessWire, Lerer Hippeau Medium); Suno
+    Series D participation already in portfolio with TechCrunch citation; FLOURISH
+    CLAIM INCORRECT — primary source (SiliconANGLE) confirms only Bezos, GV, Lux Capital,
+    and Catalio participated, not USV. last_verified_investment frontmatter added
+    (Suno 2026-06-03).
   added: 2026-06-05
   status: resolved
 - slug: 8vc
   type: firm
-  reason: "UNRESOLVABLE 2026-06-05 \u2014 Flourish AI $500M participation claim NOT\
-    \ supported by primary source (SiliconANGLE June 4, 2026), which lists only Bezos,\
-    \ GV, Lux Capital, and Catalio. No 8VC involvement found in 3+ press sources (SiliconANGLE,\
-    \ AlleyWatch, citybiz). Claim appears to be a hallucination \u2014 not adding\
-    \ to portfolio."
+  reason: UNRESOLVABLE 2026-06-05 — Flourish AI $500M participation claim NOT supported
+    by primary source (SiliconANGLE June 4, 2026), which lists only Bezos, GV, Lux
+    Capital, and Catalio. No 8VC involvement found in 3+ press sources (SiliconANGLE,
+    AlleyWatch, citybiz). Claim appears to be a hallucination — not adding to portfolio.
   added: 2026-06-05
   status: unresolvable
 - slug: spark-capital
   type: firm
-  reason: "UNRESOLVABLE 2026-06-05 \u2014 Flourish AI $500M participation claim NOT\
-    \ supported by primary source (SiliconANGLE June 4, 2026), which lists only Bezos,\
-    \ GV, Lux Capital, and Catalio. No Spark Capital involvement found in 3+ press\
-    \ sources. Claim appears to be a hallucination \u2014 not adding to portfolio."
+  reason: UNRESOLVABLE 2026-06-05 — Flourish AI $500M participation claim NOT supported
+    by primary source (SiliconANGLE June 4, 2026), which lists only Bezos, GV, Lux
+    Capital, and Catalio. No Spark Capital involvement found in 3+ press sources.
+    Claim appears to be a hallucination — not adding to portfolio.
   added: 2026-06-05
   status: unresolvable
 - slug: nfdg
   type: firm
-  reason: "UNRESOLVABLE 2026-06-05 \u2014 Flourish AI $500M participation claim NOT\
-    \ supported by primary source (SiliconANGLE June 4, 2026), which lists only Bezos,\
-    \ GV, Lux Capital, and Catalio. No NFDG involvement found in 3+ press sources.\
-    \ Claim appears to be a hallucination \u2014 not adding to portfolio."
+  reason: UNRESOLVABLE 2026-06-05 — Flourish AI $500M participation claim NOT supported
+    by primary source (SiliconANGLE June 4, 2026), which lists only Bezos, GV, Lux
+    Capital, and Catalio. No NFDG involvement found in 3+ press sources. Claim appears
+    to be a hallucination — not adding to portfolio.
   added: 2026-06-05
   status: unresolvable
 - slug: ribbit-capital
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Mach Industries Series C $300M at $1.8B (2026-06-02,\
-    \ co-led with Infinite Capital) added to portfolio with 3 primary citations (PRNewswire,\
-    \ Robot Report, Tech Funding News); Malka quote added (first publicly verified\
-    \ defense-tech investment for Ribbit); last_verified_investment set; defense-tech\
-    \ added to sector_focus"
+  reason: RESOLVED 2026-06-06 — Mach Industries Series C $300M at $1.8B (2026-06-02,
+    co-led with Infinite Capital) added to portfolio with 3 primary citations (PRNewswire,
+    Robot Report, Tech Funding News); Malka quote added (first publicly verified defense-tech
+    investment for Ribbit); last_verified_investment set; defense-tech added to sector_focus
   added: 2026-06-05
   status: resolved
 - slug: sequoia-capital
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Mach Industries Series C $300M at $1.8B (2026-06-02,\
-    \ Infinite Capital and Ribbit Capital co-led) added to portfolio with 3 primary\
-    \ citations (PRNewswire press release [^79], Tech Funding News [^80], Pulse 2.0\
-    \ [^81]). All 3 sources explicitly confirm Sequoia Capital as a longstanding existing\
-    \ backer participating in the round alongside Bedrock Capital and Khosla Ventures."
+  reason: RESOLVED 2026-06-06 — Mach Industries Series C $300M at $1.8B (2026-06-02,
+    Infinite Capital and Ribbit Capital co-led) added to portfolio with 3 primary
+    citations (PRNewswire press release [^79], Tech Funding News [^80], Pulse 2.0
+    [^81]). All 3 sources explicitly confirm Sequoia Capital as a longstanding existing
+    backer participating in the round alongside Bedrock Capital and Khosla Ventures.
   added: 2026-06-05
   status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Khosla Ventures VERIFIED as existing investor\
-    \ in Mach Industries Series C $300M at $1.8B (2026-06-02, co-led by Infinite Capital\
-    \ and Ribbit Capital) by 3 independent primary sources (PR Newswire press release\
-    \ naming KV as longstanding backer, TechCrunch, Tech Funding News). Updated portfolio\
-    \ row from 'Early ~2021 (founded)' to Series C with full details; citation [^46]\
-    \ added with cross-references."
+  reason: RESOLVED 2026-06-06 — Khosla Ventures VERIFIED as existing investor in Mach
+    Industries Series C $300M at $1.8B (2026-06-02, co-led by Infinite Capital and
+    Ribbit Capital) by 3 independent primary sources (PR Newswire press release naming
+    KV as longstanding backer, TechCrunch, Tech Funding News). Updated portfolio row
+    from 'Early ~2021 (founded)' to Series C with full details; citation [^46] added
+    with cross-references.
   added: 2026-06-05
   status: resolved
 - slug: bedrock-capital
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Mach Industries Series C $300M (2026-06-02,\
-    \ Ribbit/Infinite-led, Bedrock follow-on) added to existing portfolio row (now\
-    \ Series A, B, C); PRNewswire citation [^31] added; last_verified_investment set\
-    \ to Mach Industries 2026-06-02"
+  reason: RESOLVED 2026-06-06 — Mach Industries Series C $300M (2026-06-02, Ribbit/Infinite-led,
+    Bedrock follow-on) added to existing portfolio row (now Series A, B, C); PRNewswire
+    citation [^31] added; last_verified_investment set to Mach Industries 2026-06-02
   added: 2026-06-05
   status: resolved
 - slug: naval-ravikant
   type: investor
-  reason: "RESOLVED 2026-06-06 \u2014 Naval Ravikant VERIFIED as angel investor in\
-    \ Generalist AI $400M Growth round (2026-06-04) by 3 independent primary sources\
-    \ (The Robot Report, The AI Insider, Yahoo Finance/Bloomberg). Added Generalist\
-    \ AI to portfolio table with 3 citations; last_verified_investment updated from\
-    \ Quill 2026-02-25 to Generalist AI 2026-06-04."
+  reason: RESOLVED 2026-06-06 — Naval Ravikant VERIFIED as angel investor in Generalist
+    AI $400M Growth round (2026-06-04) by 3 independent primary sources (The Robot
+    Report, The AI Insider, Yahoo Finance/Bloomberg). Added Generalist AI to portfolio
+    table with 3 citations; last_verified_investment updated from Quill 2026-02-25
+    to Generalist AI 2026-06-04.
   added: 2026-06-05
   status: resolved
 - slug: greylock
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Opal Security Series B Extension $23M (2026-06-04,\
-    \ co-led with Battery Ventures; Cambium Capital participated) added to portfolio\
-    \ with 3 primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise);\
-    \ also added prior Opal Series B (2023-12-07, $22M, Battery-led, Greylock existing)\
-    \ with opal.dev blog citation"
+  reason: RESOLVED 2026-06-05 — Opal Security Series B Extension $23M (2026-06-04,
+    co-led with Battery Ventures; Cambium Capital participated) added to portfolio
+    with 3 primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise);
+    also added prior Opal Series B (2023-12-07, $22M, Battery-led, Greylock existing)
+    with opal.dev blog citation
   added: 2026-06-06
   status: resolved
 - slug: battery-ventures
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 Opal Security Series B Extension $23M (2026-06-04,\
-    \ co-led with Greylock; Cambium Capital participated) added to portfolio with\
-    \ 3 primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise);\
-    \ also added prior Opal Series B (2023-12-07, $22M Battery-led)"
+  reason: RESOLVED 2026-06-05 — Opal Security Series B Extension $23M (2026-06-04,
+    co-led with Greylock; Cambium Capital participated) added to portfolio with 3
+    primary citations (FinancialContent/Business Wire, Pulse 2.0, StartupRise); also
+    added prior Opal Series B (2023-12-07, $22M Battery-led)
   added: 2026-06-06
   status: resolved
 - slug: boxgroup
   type: firm
-  reason: "RESOLVED 2026-06-05 \u2014 BoxGroup did NOT participate in Opal Security\
-    \ $23M Series B Extension (2026-06-04) per all 3 primary sources (FinancialContent,\
-    \ Pulse 2.0, StartupRise); only Greylock, Battery Ventures, and Cambium Capital\
-    \ participated. However, BoxGroup did participate in the original $22M Series\
-    \ B (2023-12-07, Battery-led) per Opal blog \u2014 added that round to portfolio.\
-    \ Removed BoxGroup from Opal Security startup profile's June 2026 round."
+  reason: RESOLVED 2026-06-05 — BoxGroup did NOT participate in Opal Security $23M
+    Series B Extension (2026-06-04) per all 3 primary sources (FinancialContent, Pulse
+    2.0, StartupRise); only Greylock, Battery Ventures, and Cambium Capital participated.
+    However, BoxGroup did participate in the original $22M Series B (2023-12-07, Battery-led)
+    per Opal blog — added that round to portfolio. Removed BoxGroup from Opal Security
+    startup profile's June 2026 round.
   added: 2026-06-06
   status: resolved
 - slug: balderton-capital
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Tilt $26M venture round (2026-06-02, Vinted\
-    \ Ventures-led, Balderton participated as existing investor) added to portfolio\
-    \ with 3 primary citations (TheNextWeb, Retail Tech Innovation Hub, Sifted); also\
-    \ resolved vague 2022 date on Fuse Energy seed (now 2022-09-07 per Balderton blog\
-    \ + Nordic9 + Crunchbase)"
+  reason: RESOLVED 2026-06-06 — Tilt $26M venture round (2026-06-02, Vinted Ventures-led,
+    Balderton participated as existing investor) added to portfolio with 3 primary
+    citations (TheNextWeb, Retail Tech Innovation Hub, Sifted); also resolved vague
+    2022 date on Fuse Energy seed (now 2022-09-07 per Balderton blog + Nordic9 + Crunchbase)
   added: 2026-06-06
   status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Terra AI Series A $20M (2026-06-03) verified\
-    \ via PR Newswire press release; Rajesh Swaminathan was Khosla partner spokesperson;\
-    \ row added to portfolio table with [^47] citation"
+  reason: RESOLVED 2026-06-06 — Terra AI Series A $20M (2026-06-03) verified via PR
+    Newswire press release; Rajesh Swaminathan was Khosla partner spokesperson; row
+    added to portfolio table with [^47] citation
   added: 2026-06-06
   status: resolved
 - slug: vinod-khosla
   type: investor
-  reason: "RESOLVED 2026-06-06 \u2014 Vinod Khosla was NOT personally named in Terra\
-    \ AI Series A; only Rajesh Swaminathan (Khosla Ventures Partner) quoted in PR\
-    \ Newswire press release. No claim added to vinod-khosla.md profile (correctly\
-    \ omitted)."
+  reason: RESOLVED 2026-06-06 — Vinod Khosla was NOT personally named in Terra AI
+    Series A; only Rajesh Swaminathan (Khosla Ventures Partner) quoted in PR Newswire
+    press release. No claim added to vinod-khosla.md profile (correctly omitted).
   added: 2026-06-06
   status: resolved
 - slug: gv
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Contraline Series B $92.5M (2026-06-02, co-led\
-    \ by BVF Partners and RA Capital Management; GV participated with Lumira Ventures\
-    \ and Invus) added to portfolio with 3 primary citations (BusinessWire Contraline\
-    \ press release, Lumira Ventures own announcement, BioSpace). Also resolved vague\
-    \ date on Harvey: corrected from 'Growth ~2024' to 'Series C (led, $100M) 2024-07-23'\
-    \ with Harvey blog + CNBC ($11B val 2026-03-25) citations."
+  reason: 'RESOLVED 2026-06-06 — Contraline Series B $92.5M (2026-06-02, co-led by
+    BVF Partners and RA Capital Management; GV participated with Lumira Ventures and
+    Invus) added to portfolio with 3 primary citations (BusinessWire Contraline press
+    release, Lumira Ventures own announcement, BioSpace). Also resolved vague date
+    on Harvey: corrected from ''Growth ~2024'' to ''Series C (led, $100M) 2024-07-23''
+    with Harvey blog + CNBC ($11B val 2026-03-25) citations.'
   added: 2026-06-06
   status: resolved
 - slug: spark-capital
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Novellia Series A $18M (2026-06-02, lead) added\
-    \ to portfolio with 3 primary citations (PR Newswire press release, SiliconANGLE,\
-    \ MedCity News). All 3 sources independently confirm Spark Capital led with participation\
-    \ from Khosla Ventures, Acrew Capital, Bling Capital, TMV. Alex Finkelstein (Spark\
-    \ GP) quoted. Co-founders: Shashi Shankar (CEO), Elliot Katz (CTO). NY-based.\
-    \ Recent 10 portfolio entries (2024+) all have full YYYY-MM-DD dates \u2014 no\
-    \ vague facts found."
+  reason: 'RESOLVED 2026-06-06 — Novellia Series A $18M (2026-06-02, lead) added to
+    portfolio with 3 primary citations (PR Newswire press release, SiliconANGLE, MedCity
+    News). All 3 sources independently confirm Spark Capital led with participation
+    from Khosla Ventures, Acrew Capital, Bling Capital, TMV. Alex Finkelstein (Spark
+    GP) quoted. Co-founders: Shashi Shankar (CEO), Elliot Katz (CTO). NY-based. Recent
+    10 portfolio entries (2024+) all have full YYYY-MM-DD dates — no vague facts found.'
   added: 2026-06-06
   status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "RESOLVED 2026-06-06 \u2014 Novellia Series A $18M (2026-06-02, Spark Capital\
-    \ led; Khosla, Acrew, Bling, TMV participated) verified via 3 independent primary\
-    \ sources (PR Newswire press release, SiliconANGLE, MedCity News). Row added to\
-    \ portfolio table with [^48] citation. Recent 10 portfolio entries (Nov 2024+)\
-    \ all have full YYYY-MM-DD dates \u2014 no vague facts found in recent entries."
+  reason: RESOLVED 2026-06-06 — Novellia Series A $18M (2026-06-02, Spark Capital
+    led; Khosla, Acrew, Bling, TMV participated) verified via 3 independent primary
+    sources (PR Newswire press release, SiliconANGLE, MedCity News). Row added to
+    portfolio table with [^48] citation. Recent 10 portfolio entries (Nov 2024+) all
+    have full YYYY-MM-DD dates — no vague facts found in recent entries.
   added: 2026-06-06
   status: resolved
 - slug: acrew-capital
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Novellia Series A $18M (2026-06-02, Spark Capital-led,\
-    \ Acrew participated) added to portfolio with 3 primary citations (PR Newswire\
-    \ press release, SiliconANGLE, MedCity News). All 3 sources independently confirm\
-    \ Acrew Capital as a participant alongside Khosla Ventures, Bling Capital, and\
-    \ TMV. Also tightened dates on Alix (2025-07-22) and Zamp (2026-04-28) portfolio\
-    \ rows."
+  reason: RESOLVED 2026-06-03 — Novellia Series A $18M (2026-06-02, Spark Capital-led,
+    Acrew participated) added to portfolio with 3 primary citations (PR Newswire press
+    release, SiliconANGLE, MedCity News). All 3 sources independently confirm Acrew
+    Capital as a participant alongside Khosla Ventures, Bling Capital, and TMV. Also
+    tightened dates on Alix (2025-07-22) and Zamp (2026-04-28) portfolio rows.
   added: 2026-06-06
   status: resolved
 - slug: insight-partners
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Auger Series A $200M (2026-06-03, co-led with\
-    \ Oak HC/FT) added to portfolio table with 3 independent primary citations (The\
-    \ SaaS News, Newnex, AlleyWatch Weekly Funding Report 6/8/26). All 3 sources independently\
-    \ confirm Oak HC/FT and Insight Partners as co-leads. Auger total equity funding\
-    \ now $300M ($100M from Oak HC/FT at 2024-10 launch + $200M Series A). Founded\
-    \ 2024 by Dave Clark (ex-Flexport CEO, ex-Amazon), HQ Bellevue WA. Recent 10 portfolio\
-    \ entries (Ayar Labs through Auger) all have full YYYY-MM-DD dates \u2014 no vague\
-    \ facts found."
+  reason: RESOLVED 2026-06-07 — Auger Series A $200M (2026-06-03, co-led with Oak
+    HC/FT) added to portfolio table with 3 independent primary citations (The SaaS
+    News, Newnex, AlleyWatch Weekly Funding Report 6/8/26). All 3 sources independently
+    confirm Oak HC/FT and Insight Partners as co-leads. Auger total equity funding
+    now $300M ($100M from Oak HC/FT at 2024-10 launch + $200M Series A). Founded 2024
+    by Dave Clark (ex-Flexport CEO, ex-Amazon), HQ Bellevue WA. Recent 10 portfolio
+    entries (Ayar Labs through Auger) all have full YYYY-MM-DD dates — no vague facts
+    found.
   added: 2026-06-07
   status: resolved
 - slug: founders-fund
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Founders Fund VERIFIED as prior Binti backer\
-    \ (Seed round, March 2015) by 3 independent primary sources: (1) Binti's own About\
-    \ page (binti.com/about/) explicitly names Founders Fund among top investors,\
-    \ (2) StartupIntros lists Founders Fund as Seed round 2015-03 participant, (3)\
-    \ AlleyWatch Weekly Notable Funding Report 6/8/26 confirms current $63M total\
-    \ raised. Founders Fund did NOT participate in 2026-06 SJF Ventures-led $6M round.\
-    \ Added Binti Seed (2015-03) row to portfolio table with citations [^62][^63].\
-    \ Recent 5 portfolio entries (NewLimit 2026-06-02, Impulse Space 2026-06-02, Armada\
-    \ 2026-05-19, Fractile 2026-05-13, Cognition 2026-05-27) all have full YYYY-MM-DD\
-    \ dates \u2014 no vague facts found."
+  reason: 'RESOLVED 2026-06-07 — Founders Fund VERIFIED as prior Binti backer (Seed
+    round, March 2015) by 3 independent primary sources: (1) Binti''s own About page
+    (binti.com/about/) explicitly names Founders Fund among top investors, (2) StartupIntros
+    lists Founders Fund as Seed round 2015-03 participant, (3) AlleyWatch Weekly Notable
+    Funding Report 6/8/26 confirms current $63M total raised. Founders Fund did NOT
+    participate in 2026-06 SJF Ventures-led $6M round. Added Binti Seed (2015-03)
+    row to portfolio table with citations [^62][^63]. Recent 5 portfolio entries (NewLimit
+    2026-06-02, Impulse Space 2026-06-02, Armada 2026-05-19, Fractile 2026-05-13,
+    Cognition 2026-05-27) all have full YYYY-MM-DD dates — no vague facts found.'
   added: 2026-06-07
   status: resolved
 - slug: first-round-capital
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 First Round VERIFIED as Binti backer via 3+\
-    \ independent primary sources: (1) First Round's own The Review confirms First\
-    \ Round LED Binti's $2M seed round in 2015 (review.firstround.com); (2) Binti's\
-    \ official About page (binti.com/about/) lists First Round Capital among top investors\
-    \ alongside Founders Fund, Kapor Capital, Michael Dell, Lachy Groom; (3) ImpactAlpha\
-    \ article on SJF Ventures' June 2026 $6M round names First Round Capital as a\
-    \ prior backer. Crunchbase corroborates 2015-03-09 seed date (~$2.7M). Added Binti\
-    \ seed row (Seed led, 2015-03-09) to portfolio table with citations [^21][^22][^23].\
-    \ Also tightened Actively (Series B) and Manifest OS (Series A) dates from year-only\
-    \ to 2026-04-28 per existing citation source dates."
+  reason: 'RESOLVED 2026-06-03 — First Round VERIFIED as Binti backer via 3+ independent
+    primary sources: (1) First Round''s own The Review confirms First Round LED Binti''s
+    $2M seed round in 2015 (review.firstround.com); (2) Binti''s official About page
+    (binti.com/about/) lists First Round Capital among top investors alongside Founders
+    Fund, Kapor Capital, Michael Dell, Lachy Groom; (3) ImpactAlpha article on SJF
+    Ventures'' June 2026 $6M round names First Round Capital as a prior backer. Crunchbase
+    corroborates 2015-03-09 seed date (~$2.7M). Added Binti seed row (Seed led, 2015-03-09)
+    to portfolio table with citations [^21][^22][^23]. Also tightened Actively (Series
+    B) and Manifest OS (Series A) dates from year-only to 2026-04-28 per existing
+    citation source dates.'
   added: 2026-06-07
   status: resolved
 - slug: andreessen-horowitz
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Westmag $11M Seed (2026-06-02, led) added to\
-    \ portfolio with 4 primary citations (a16z.com/announcement/investing-in-westmag\
-    \ authored by Erin Price-Wright and Oliver Hsu, BusinessWire June 2 2026, DroneXL\
-    \ June 3 2026, The AI Insider June 3 2026). All sources independently confirm\
-    \ a16z led with Founders Fund, Lux Capital, NFDG, and Menlo Ventures participating.\
-    \ Co-founders: David Hansen (CEO) and Jordan Sanders (COO). South San Francisco\
-    \ HQ (Factory 01). Recent 10 portfolio entries (Stilta 2026-05-19 through Westmag\
-    \ 2026-06-02) all have full YYYY-MM-DD dates \u2014 no vague facts found."
+  reason: 'RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, led) added to portfolio
+    with 4 primary citations (a16z.com/announcement/investing-in-westmag authored
+    by Erin Price-Wright and Oliver Hsu, BusinessWire June 2 2026, DroneXL June 3
+    2026, The AI Insider June 3 2026). All sources independently confirm a16z led
+    with Founders Fund, Lux Capital, NFDG, and Menlo Ventures participating. Co-founders:
+    David Hansen (CEO) and Jordan Sanders (COO). South San Francisco HQ (Factory 01).
+    Recent 10 portfolio entries (Stilta 2026-05-19 through Westmag 2026-06-02) all
+    have full YYYY-MM-DD dates — no vague facts found.'
   added: 2026-06-07
   status: resolved
 - slug: founders-fund
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Westmag $11M Seed (2026-06-02, Andreessen Horowitz\
-    \ led; Founders Fund, Lux Capital, NFDG, Menlo Ventures participated) added to\
-    \ portfolio with 3 independent primary citations (BusinessWire press release [^64]\
-    \ cross-referenced via Yahoo Finance, DroneXL [^65], The AI Insider [^66]). All\
-    \ 3 sources independently confirm Founders Fund as participant. South San Francisco-based\
-    \ Western Magnetics Company; co-founded by David Hansen (CEO) and Jordan Sanders\
-    \ (COO). Recent 5 portfolio entries (Westmag 2026-06-02, Binti 2015-03, NewLimit\
-    \ 2026-06-02, Impulse Space 2026-06-02, Armada 2026-05-19) all have full dates\
-    \ \u2014 no vague facts found in recent entries."
+  reason: RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, Andreessen Horowitz
+    led; Founders Fund, Lux Capital, NFDG, Menlo Ventures participated) added to portfolio
+    with 3 independent primary citations (BusinessWire press release [^64] cross-referenced
+    via Yahoo Finance, DroneXL [^65], The AI Insider [^66]). All 3 sources independently
+    confirm Founders Fund as participant. South San Francisco-based Western Magnetics
+    Company; co-founded by David Hansen (CEO) and Jordan Sanders (COO). Recent 5 portfolio
+    entries (Westmag 2026-06-02, Binti 2015-03, NewLimit 2026-06-02, Impulse Space
+    2026-06-02, Armada 2026-05-19) all have full dates — no vague facts found in recent
+    entries.
   added: 2026-06-07
   status: resolved
 - slug: lux-capital
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Westmag $11M Seed (2026-06-02, a16z-led, participated)\
-    \ added to portfolio with 3 independent primary citations (BusinessWire/Las Vegas\
-    \ Sun, The AI Insider, DroneXL). All 3 sources independently confirm Lux Capital\
-    \ participated alongside Founders Fund, NFDG, and Menlo Ventures; Erin Price-Wright\
-    \ (a16z GP) was the lead's spokesperson. Recent 10 portfolio entries (Cognichip\
-    \ \u2192 Westmag) all have full YYYY-MM-DD dates \u2014 no vague facts found."
+  reason: RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, a16z-led, participated)
+    added to portfolio with 3 independent primary citations (BusinessWire/Las Vegas
+    Sun, The AI Insider, DroneXL). All 3 sources independently confirm Lux Capital
+    participated alongside Founders Fund, NFDG, and Menlo Ventures; Erin Price-Wright
+    (a16z GP) was the lead's spokesperson. Recent 10 portfolio entries (Cognichip
+    → Westmag) all have full YYYY-MM-DD dates — no vague facts found.
   added: 2026-06-07
   status: resolved
 - slug: nfdg
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Westmag $11M Seed (2026-06-02, Andreessen Horowitz\
-    \ led; NFDG participated alongside Founders Fund, Lux Capital, Menlo Ventures)\
-    \ added to portfolio with 3 independent primary citations (BusinessWire via Yahoo\
-    \ Finance [^8], DroneXL [^9], The AI Insider [^10]). All 3 sources independently\
-    \ confirm NFDG participation; a16z's own announcement (a16z.com/announcement/investing-in-westmag)\
-    \ names only itself but corroborates round/co-founders. Note added that Friedman/Gross\
-    \ joined Meta in mid-2025 but NFDG is investor of record. Recent portfolio entries\
-    \ are ~2023/2024 (pre-NFDG-launch deployment era, year-only is consistent with\
-    \ fund's known launch timeline); did not retroactively backfill those without\
-    \ primary source dates."
+  reason: RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, Andreessen Horowitz
+    led; NFDG participated alongside Founders Fund, Lux Capital, Menlo Ventures) added
+    to portfolio with 3 independent primary citations (BusinessWire via Yahoo Finance
+    [^8], DroneXL [^9], The AI Insider [^10]). All 3 sources independently confirm
+    NFDG participation; a16z's own announcement (a16z.com/announcement/investing-in-westmag)
+    names only itself but corroborates round/co-founders. Note added that Friedman/Gross
+    joined Meta in mid-2025 but NFDG is investor of record. Recent portfolio entries
+    are ~2023/2024 (pre-NFDG-launch deployment era, year-only is consistent with fund's
+    known launch timeline); did not retroactively backfill those without primary source
+    dates.
   added: 2026-06-07
   status: resolved
 - slug: menlo-ventures
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Westmag $11M Seed (2026-06-02, Andreessen Horowitz\
-    \ led; Founders Fund, Lux Capital, NFDG, Menlo Ventures participated) added to\
-    \ portfolio with 4 independent primary citations: (1) BusinessWire press release\
-    \ [^22], (2) a16z's own announcement by Erin Price-Wright and Oliver Hsu [^23]\
-    \ explicitly naming Menlo Ventures, (3) DroneXL [^24], (4) The AI Insider [^25].\
-    \ All 4 sources independently confirm Menlo Ventures participated. Co-founders:\
-    \ David Hansen (CEO), Jordan Sanders (COO). South San Francisco HQ (Factory 01).\
-    \ Recent 10 portfolio entries (Grow Therapy 2026-03-03 through Westmag 2026-06-02)\
-    \ all have full YYYY-MM-DD dates \u2014 no vague facts found in recent entries.\
-    \ Older entries (Anthropic ~2023, Roku ~2008, etc.) use approximate year proxies\
-    \ but are pre-2020 historical."
+  reason: 'RESOLVED 2026-06-07 — Westmag $11M Seed (2026-06-02, Andreessen Horowitz
+    led; Founders Fund, Lux Capital, NFDG, Menlo Ventures participated) added to portfolio
+    with 4 independent primary citations: (1) BusinessWire press release [^22], (2)
+    a16z''s own announcement by Erin Price-Wright and Oliver Hsu [^23] explicitly
+    naming Menlo Ventures, (3) DroneXL [^24], (4) The AI Insider [^25]. All 4 sources
+    independently confirm Menlo Ventures participated. Co-founders: David Hansen (CEO),
+    Jordan Sanders (COO). South San Francisco HQ (Factory 01). Recent 10 portfolio
+    entries (Grow Therapy 2026-03-03 through Westmag 2026-06-02) all have full YYYY-MM-DD
+    dates — no vague facts found in recent entries. Older entries (Anthropic ~2023,
+    Roku ~2008, etc.) use approximate year proxies but are pre-2020 historical.'
   added: 2026-06-07
   status: resolved
 - slug: bessemer-venture-partners
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 DriveNets Series D $410M (2026-06-01, co-led\
-    \ with Atreides Management; new investors AMD and Red Dot Capital; existing Pitango\
-    \ and D1 Capital Partners participated; $8.5B valuation) added to portfolio with\
-    \ 3 independent primary citations (PR Newswire press release [^21], HPCwire [^22],\
-    \ Silicon Report [^23]). Recent 10 portfolio entries reviewed: Anthropic 2025-03-03,\
-    \ Ramp 2025-11-17, Legora 2026-03-10, Unframe 2026-05-19, DriveNets 2026-06-01\
-    \ have full YYYY-MM-DD dates. Older entries (Zenskar 2026, ClickHouse 2025, Perplexity\
-    \ 2024, Abridge 2023, Hinge Health 2020) remain year-only \u2014 outside scope\
-    \ of this sweep."
+  reason: 'RESOLVED 2026-06-07 — DriveNets Series D $410M (2026-06-01, co-led with
+    Atreides Management; new investors AMD and Red Dot Capital; existing Pitango and
+    D1 Capital Partners participated; $8.5B valuation) added to portfolio with 3 independent
+    primary citations (PR Newswire press release [^21], HPCwire [^22], Silicon Report
+    [^23]). Recent 10 portfolio entries reviewed: Anthropic 2025-03-03, Ramp 2025-11-17,
+    Legora 2026-03-10, Unframe 2026-05-19, DriveNets 2026-06-01 have full YYYY-MM-DD
+    dates. Older entries (Zenskar 2026, ClickHouse 2025, Perplexity 2024, Abridge
+    2023, Hinge Health 2020) remain year-only — outside scope of this sweep.'
   added: 2026-06-07
   status: resolved
 - slug: d1-capital-partners
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 DriveNets Series D $410M at $8.5B (2026-06-01,\
-    \ Bessemer + Atreides co-led; AMD and Red Dot Capital new; Pitango and D1 Capital\
-    \ Partners existing) added to portfolio with 3 independent primary citations (PR\
-    \ Newswire press release [^38], The SaaS News [^39], Pulse 2.0 [^40]). Also tightened\
-    \ vague dates on 4 most recent portfolio entries: Beacon Software (2025-11-04\
-    \ co-led $250M Series B at $1B val), Hadrian (2026-01-25 T. Rowe Price-led at\
-    \ $1.6B val), Anthropic Series G (2026-02-12 $30B at $380B val), Ual\xE1 (2026-03-04\
-    \ $195M Allianz X-led at $3.2B val)."
+  reason: 'RESOLVED 2026-06-03 — DriveNets Series D $410M at $8.5B (2026-06-01, Bessemer
+    + Atreides co-led; AMD and Red Dot Capital new; Pitango and D1 Capital Partners
+    existing) added to portfolio with 3 independent primary citations (PR Newswire
+    press release [^38], The SaaS News [^39], Pulse 2.0 [^40]). Also tightened vague
+    dates on 4 most recent portfolio entries: Beacon Software (2025-11-04 co-led $250M
+    Series B at $1B val), Hadrian (2026-01-25 T. Rowe Price-led at $1.6B val), Anthropic
+    Series G (2026-02-12 $30B at $380B val), Ualá (2026-03-04 $195M Allianz X-led
+    at $3.2B val).'
   added: 2026-06-07
   status: resolved
 - slug: pitango-venture-capital
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 DriveNets Series D $410M (2026-06-01, co-led\
-    \ by Bessemer + Atreides; AMD and Red Dot Capital as new investors; Pitango and\
-    \ D1 Capital Partners as existing investors; $8.5B valuation) added to portfolio\
-    \ with 3 independent primary citations (PR Newswire press release [^53], Silicon\
-    \ Report [^54], The SaaS News [^55]). All 3 sources independently confirm Pitango\
-    \ as existing investor. Recent 10 portfolio entries reviewed: DriveNets 2026-06-01\
-    \ and Adaptive6 2026-01-28 have full YYYY-MM-DD; AAI Technologies 2025-05 has\
-    \ month-level; older entries (2024 Altesa, 2023 Surge, 2022 Visby/Lumen, 2021\
-    \ Quantum Source/Finout/Aquant) remain year-only \u2014 pre-existing condition\
-    \ outside scope of this round-driven sweep."
+  reason: 'RESOLVED 2026-06-07 — DriveNets Series D $410M (2026-06-01, co-led by Bessemer
+    + Atreides; AMD and Red Dot Capital as new investors; Pitango and D1 Capital Partners
+    as existing investors; $8.5B valuation) added to portfolio with 3 independent
+    primary citations (PR Newswire press release [^53], Silicon Report [^54], The
+    SaaS News [^55]). All 3 sources independently confirm Pitango as existing investor.
+    Recent 10 portfolio entries reviewed: DriveNets 2026-06-01 and Adaptive6 2026-01-28
+    have full YYYY-MM-DD; AAI Technologies 2025-05 has month-level; older entries
+    (2024 Altesa, 2023 Surge, 2022 Visby/Lumen, 2021 Quantum Source/Finout/Aquant)
+    remain year-only — pre-existing condition outside scope of this round-driven sweep.'
   added: 2026-06-07
   status: resolved
 - slug: craft-ventures
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Allen Control Systems Series B $200M at $2.2B\
-    \ post-money val (2026-06-05, Smash Capital led; Craft Ventures, Rally Ventures,\
-    \ Inspired Capital participated) added to craft-ventures portfolio with 3 independent\
-    \ primary citations (Yahoo Finance/BusinessWire [^19], Pulse 2.0 [^20], VCNewsDaily\
-    \ [^21]); Defense Daily confirmed round + lead. Most recent 10 portfolio entries\
-    \ checked \u2014 Unframe AI tightened from 2025-04 to 2025-04-03 per SiliconANGLE;\
-    \ Supabase, ComfyUI, Oasis, Unframe Series B, Upwind, Noma all have full YYYY-MM-DD\
-    \ dates."
+  reason: RESOLVED 2026-06-07 — Allen Control Systems Series B $200M at $2.2B post-money
+    val (2026-06-05, Smash Capital led; Craft Ventures, Rally Ventures, Inspired Capital
+    participated) added to craft-ventures portfolio with 3 independent primary citations
+    (Yahoo Finance/BusinessWire [^19], Pulse 2.0 [^20], VCNewsDaily [^21]); Defense
+    Daily confirmed round + lead. Most recent 10 portfolio entries checked — Unframe
+    AI tightened from 2025-04 to 2025-04-03 per SiliconANGLE; Supabase, ComfyUI, Oasis,
+    Unframe Series B, Upwind, Noma all have full YYYY-MM-DD dates.
   added: 2026-06-07
   status: resolved
 - slug: inspired-capital
   type: firm
-  reason: "RESOLVED 2026-06-07 \u2014 Allen Control Systems Series B $200M at $2.2B\
-    \ post-money (2026-06-05, Smash Capital-led; Craft Ventures, Rally Ventures, Inspired\
-    \ Capital existing investors) row updated in portfolio (previously 'Early 2023')\
-    \ with 3 independent primary citations: (1) BusinessWire press release [^36],\
-    \ (2) Pulse 2.0 [^37], (3) VCNewsDaily [^38]. All 3 sources independently confirm\
-    \ Inspired Capital as existing/return investor. Also resolved vague date on Day.ai\
-    \ seed (was '2024', now 2024-06-20 per TechCrunch [^39] \u2014 Sequoia-led $4M)."
+  reason: 'RESOLVED 2026-06-07 — Allen Control Systems Series B $200M at $2.2B post-money
+    (2026-06-05, Smash Capital-led; Craft Ventures, Rally Ventures, Inspired Capital
+    existing investors) row updated in portfolio (previously ''Early 2023'') with
+    3 independent primary citations: (1) BusinessWire press release [^36], (2) Pulse
+    2.0 [^37], (3) VCNewsDaily [^38]. All 3 sources independently confirm Inspired
+    Capital as existing/return investor. Also resolved vague date on Day.ai seed (was
+    ''2024'', now 2024-06-20 per TechCrunch [^39] — Sequoia-led $4M).'
   added: 2026-06-07
   status: resolved
 - slug: general-catalyst
   type: firm
-  reason: "RESOLVED 2026-06-08 \u2014 PhysicsX Series C $300M at $2.4B val (2026-06-08,\
-    \ Temasek-led, GC participated as existing investor) row updated from 'Growth\
-    \ ~2019 (founded)' to full Series C details with 3 independent primary citations\
-    \ (PhysicsX press release [^69], Tech.eu, Pulse 2.0). All 3 sources confirm GC\
-    \ participation alongside Applied Materials, Atomico, July Fund, NGP, NVIDIA,\
-    \ Radius, Siemens; new investors M&G and Intrepid Growth Partners."
+  reason: RESOLVED 2026-06-08 — PhysicsX Series C $300M at $2.4B val (2026-06-08,
+    Temasek-led, GC participated as existing investor) row updated from 'Growth ~2019
+    (founded)' to full Series C details with 3 independent primary citations (PhysicsX
+    press release [^69], Tech.eu, Pulse 2.0). All 3 sources confirm GC participation
+    alongside Applied Materials, Atomico, July Fund, NGP, NVIDIA, Radius, Siemens;
+    new investors M&G and Intrepid Growth Partners.
   added: 2026-06-08
   status: resolved
 - slug: accel
   type: firm
-  reason: "RESOLVED 2026-06-08 \u2014 PointFive Series B $60M (2026-06-08, led) added\
-    \ to portfolio with 3 independent primary citations (FinSMEs, Calcalistech, Globes).\
-    \ All 3 sources confirm Accel led with Salesforce Ventures, Entr\xE9e Capital,\
-    \ Perpetual Growth, Vesey Ventures, Sheva Ventures, Index Ventures participating,\
-    \ plus angels Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar. Founders:\
-    \ Alon Arvatz, Gal Ben-David, Amir Hozez. Recent 10 portfolio entries (Supabase\
-    \ through PointFive) all have full YYYY-MM-DD dates \u2014 no vague facts found\
-    \ in recent entries."
+  reason: 'RESOLVED 2026-06-08 — PointFive Series B $60M (2026-06-08, led) added to
+    portfolio with 3 independent primary citations (FinSMEs, Calcalistech, Globes).
+    All 3 sources confirm Accel led with Salesforce Ventures, Entrée Capital, Perpetual
+    Growth, Vesey Ventures, Sheva Ventures, Index Ventures participating, plus angels
+    Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar. Founders: Alon Arvatz,
+    Gal Ben-David, Amir Hozez. Recent 10 portfolio entries (Supabase through PointFive)
+    all have full YYYY-MM-DD dates — no vague facts found in recent entries.'
   added: 2026-06-08
   status: resolved
 - slug: index-ventures
   type: firm
-  reason: "RESOLVED 2026-06-08 \u2014 PointFive Series B $60M (2026-06-08, Accel-led,\
-    \ Index participated) added to portfolio with 3 independent primary citations\
-    \ (Globes [^55], FinSMEs [^56], Calcalistech [^57]). All 3 sources independently\
-    \ confirm Index Ventures participated alongside Salesforce Ventures, Entr\xE9\
-    e Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures, plus angels Mickey\
-    \ Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar. PointFive total funding\
-    \ now $96M; Index portfolio page confirms ongoing relationship (Juriaan Duizendstraal\
-    \ Index team lead). Recent 10 portfolio entries (Granola 2026-03-25 through PointFive\
-    \ 2026-06-08) all have full YYYY-MM-DD dates \u2014 no vague facts found. Removed\
-    \ duplicate Adfin row."
+  reason: RESOLVED 2026-06-08 — PointFive Series B $60M (2026-06-08, Accel-led, Index
+    participated) added to portfolio with 3 independent primary citations (Globes
+    [^55], FinSMEs [^56], Calcalistech [^57]). All 3 sources independently confirm
+    Index Ventures participated alongside Salesforce Ventures, Entrée Capital, Perpetual
+    Growth, Vesey Ventures, Sheva Ventures, plus angels Mickey Boodaei, Guy Podjarny,
+    Yasmin Lukatz, Amiram Shachar. PointFive total funding now $96M; Index portfolio
+    page confirms ongoing relationship (Juriaan Duizendstraal Index team lead). Recent
+    10 portfolio entries (Granola 2026-03-25 through PointFive 2026-06-08) all have
+    full YYYY-MM-DD dates — no vague facts found. Removed duplicate Adfin row.
   added: 2026-06-08
   status: resolved
 - slug: mickey-boodaei
   type: investor
-  reason: "RESOLVED 2026-06-08 \u2014 Mickey Boodaei VERIFIED as angel investor in\
-    \ PointFive Series B $60M (2026-06-08, Accel-led; Index Ventures, Salesforce Ventures,\
-    \ Entr\xE9e Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures participated;\
-    \ angels Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar named) by\
-    \ 3 independent primary sources (Calcalist/CTech [^26], Globes [^27], FinSMEs\
-    \ [^28]); all 3 explicitly name Boodaei. Portfolio row added; last_verified_investment\
-    \ updated from PointFive Series A 2024-11-12 to PointFive Series B 2026-06-08;\
-    \ Seed date tightened to 2024-06-18 and Series A to 2024-11-12 (per PointFive\
-    \ blog bylines); inferred thesis stage distribution updated. Recent 10 portfolio\
-    \ entries reviewed: Neosec 2021, Silk Security 2023, PointFive 2024 \u2014 only\
-    \ PointFive 2024 rows had year-only dates, now resolved."
+  reason: 'RESOLVED 2026-06-08 — Mickey Boodaei VERIFIED as angel investor in PointFive
+    Series B $60M (2026-06-08, Accel-led; Index Ventures, Salesforce Ventures, Entrée
+    Capital, Perpetual Growth, Vesey Ventures, Sheva Ventures participated; angels
+    Mickey Boodaei, Guy Podjarny, Yasmin Lukatz, Amiram Shachar named) by 3 independent
+    primary sources (Calcalist/CTech [^26], Globes [^27], FinSMEs [^28]); all 3 explicitly
+    name Boodaei. Portfolio row added; last_verified_investment updated from PointFive
+    Series A 2024-11-12 to PointFive Series B 2026-06-08; Seed date tightened to 2024-06-18
+    and Series A to 2024-11-12 (per PointFive blog bylines); inferred thesis stage
+    distribution updated. Recent 10 portfolio entries reviewed: Neosec 2021, Silk
+    Security 2023, PointFive 2024 — only PointFive 2024 rows had year-only dates,
+    now resolved.'
   added: 2026-06-08
   status: resolved
 - slug: techstars
   type: firm
-  reason: "RESOLVED 2026-06-08 \u2014 Volteum Seed \u20AC2.5M (2026-06-08, Movens\
-    \ Capital-led; WakeUp Capital and Aidiom new; Techstars, Day One Capital, Nesprit\
-    \ follow-on) added to portfolio with 3 independent primary citations (FinSMEs,\
-    \ Tech.eu, Pulse 2.0). Note: round was originally queued as 'Series A' but 5 of\
-    \ 6 sources do not label it Series A and Startupmag URL slug says 'seed-funding'\
-    \ (\u20AC2.5M after \u20AC1.25M pre-seed is conventional Seed sizing). Corrected\
-    \ to Seed in volteum.md (stage_latest, frontmatter firms[] entry with date 2026-06-08,\
-    \ funding history table, About section). techstars.md portfolio gained one new\
-    \ row tracking active follow-on participation."
+  reason: 'RESOLVED 2026-06-08 — Volteum Seed €2.5M (2026-06-08, Movens Capital-led;
+    WakeUp Capital and Aidiom new; Techstars, Day One Capital, Nesprit follow-on)
+    added to portfolio with 3 independent primary citations (FinSMEs, Tech.eu, Pulse
+    2.0). Note: round was originally queued as ''Series A'' but 5 of 6 sources do
+    not label it Series A and Startupmag URL slug says ''seed-funding'' (€2.5M after
+    €1.25M pre-seed is conventional Seed sizing). Corrected to Seed in volteum.md
+    (stage_latest, frontmatter firms[] entry with date 2026-06-08, funding history
+    table, About section). techstars.md portfolio gained one new row tracking active
+    follow-on participation.'
   added: 2026-06-08
   status: resolved
 - slug: assaf-rappaport
   type: investor
-  reason: "RESOLVED 2026-06-08 \u2014 A Security Seed + Series A $37M combined (2026-06-08,\
-    \ Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A; Cerca Partners,\
-    \ Assaf Rappaport, Yotam Segev, Merav Bahat angels) added to assaf-rappaport portfolio\
-    \ table with 3 independent primary citations (Calcalist/CTech, SecurityWeek, GlobeNewswire/Manila\
-    \ Times). last_verified_investment updated from Frame Security 2026-05-11 to A\
-    \ Security 2026-06-08."
+  reason: RESOLVED 2026-06-08 — A Security Seed + Series A $37M combined (2026-06-08,
+    Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A; Cerca Partners, Assaf
+    Rappaport, Yotam Segev, Merav Bahat angels) added to assaf-rappaport portfolio
+    table with 3 independent primary citations (Calcalist/CTech, SecurityWeek, GlobeNewswire/Manila
+    Times). last_verified_investment updated from Frame Security 2026-05-11 to A Security
+    2026-06-08.
   added: 2026-06-08
   status: resolved
 - slug: yotam-segev
   type: investor
-  reason: "RESOLVED 2026-06-08 \u2014 A Security Seed + Series A $37M combined (2026-06-08,\
-    \ Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A) verified via 3 independent\
-    \ primary sources (Calcalist/CTech headline explicitly names Segev; SecurityWeek;\
-    \ GlobeNewswire/Manila Times) and present in portfolio table. last_verified_investment\
-    \ confirmed at A Security 2026-06-08. RE-VERIFIED 2026-06-03 \u2014 additionally\
-    \ tightened 3 vague portfolio dates: Daylight Security Seed (2026-02-02, daylight.ai\
-    \ blog), Daylight Security Series A (2025-11-04, SiliconANGLE + Yahoo Finance/Access\
-    \ Newswire press release added as [^16][^17] both naming Segev as Cyera angel\
-    \ alongside Tamar Bar-Ilan), Spirit (2026-01-06, Calcalist confirms Segev angel\
-    \ alongside Rappaport and Dibrov). All 4 portfolio rows now have full YYYY-MM-DD\
-    \ dates."
+  reason: 'RESOLVED 2026-06-08 — A Security Seed + Series A $37M combined (2026-06-08,
+    Cyberstarts-led Seed + Lightspeed/Cyberstarts-led Series A) verified via 3 independent
+    primary sources (Calcalist/CTech headline explicitly names Segev; SecurityWeek;
+    GlobeNewswire/Manila Times) and present in portfolio table. last_verified_investment
+    confirmed at A Security 2026-06-08. RE-VERIFIED 2026-06-03 — additionally tightened
+    3 vague portfolio dates: Daylight Security Seed (2026-02-02, daylight.ai blog),
+    Daylight Security Series A (2025-11-04, SiliconANGLE + Yahoo Finance/Access Newswire
+    press release added as [^16][^17] both naming Segev as Cyera angel alongside Tamar
+    Bar-Ilan), Spirit (2026-01-06, Calcalist confirms Segev angel alongside Rappaport
+    and Dibrov). All 4 portfolio rows now have full YYYY-MM-DD dates.'
   added: 2026-06-08
   status: resolved
 - slug: tcv
   type: firm
-  reason: "RESOLVED 2026-06-09 \u2014 ICEYE Series F primary \u20AC450M (2026-06-09,\
-    \ General Atlantic-led at \u20AC10B+ valuation; TCV participated alongside Solidium,\
-    \ Tesi, Varma, Ilmarinen, Lifeline Ventures, Nokia, and Qatar Investment Authority)\
-    \ added to tcv.md portfolio with 3 independent primary citations: (1) ICEYE press\
-    \ release [^17], (2) General Atlantic announcement [^18], (3) Tech.eu [^19]. All\
-    \ 3 sources independently name TCV. Total Series F including secondary placement\
-    \ exceeded \u20AC1B. ICEYE startup profile already published with TCV in firms[]\
-    \ frontmatter."
+  reason: 'RESOLVED 2026-06-09 — ICEYE Series F primary €450M (2026-06-09, General
+    Atlantic-led at €10B+ valuation; TCV participated alongside Solidium, Tesi, Varma,
+    Ilmarinen, Lifeline Ventures, Nokia, and Qatar Investment Authority) added to
+    tcv.md portfolio with 3 independent primary citations: (1) ICEYE press release
+    [^17], (2) General Atlantic announcement [^18], (3) Tech.eu [^19]. All 3 sources
+    independently name TCV. Total Series F including secondary placement exceeded
+    €1B. ICEYE startup profile already published with TCV in firms[] frontmatter.'
   added: 2026-06-09
   status: resolved
 - slug: sequoia-capital
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Sandstone Seed $10M (2026-01-13, led) added\
-    \ to portfolio with 3 independent primary citations (Sequoia's own Bogomil Balkansky\
-    \ post [^82], Artificial Lawyer [^83], Sandstone company blog [^84] cross-referenced\
-    \ with TechCrunch Series A article). All 3 sources independently confirm Sequoia\
-    \ led the Seed. TechCrunch and Artificial Lawyer Series A articles explicitly\
-    \ confirm Sequoia did NOT participate in the June 9 2026 $30M Series A led by\
-    \ Lightspeed (Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak\
-    \ Ventures, Litquidity Ventures participated). Co-founders verified: Nick Fleisher\
-    \ (CEO, ex-McKinsey legal tech) + Jarryd Strydom (COO, ex-in-house counsel). Liam\
-    \ Germain not mentioned in primary sources. Recent 10 portfolio entries all have\
-    \ full YYYY-MM-DD dates \u2014 no vague facts found."
+  reason: 'RESOLVED 2026-06-03 — Sandstone Seed $10M (2026-01-13, led) added to portfolio
+    with 3 independent primary citations (Sequoia''s own Bogomil Balkansky post [^82],
+    Artificial Lawyer [^83], Sandstone company blog [^84] cross-referenced with TechCrunch
+    Series A article). All 3 sources independently confirm Sequoia led the Seed. TechCrunch
+    and Artificial Lawyer Series A articles explicitly confirm Sequoia did NOT participate
+    in the June 9 2026 $30M Series A led by Lightspeed (Mantis VC, SV Angel, Operator
+    Partners, Kearny Jackson, Daybreak Ventures, Litquidity Ventures participated).
+    Co-founders verified: Nick Fleisher (CEO, ex-McKinsey legal tech) + Jarryd Strydom
+    (COO, ex-in-house counsel). Liam Germain not mentioned in primary sources. Recent
+    10 portfolio entries all have full YYYY-MM-DD dates — no vague facts found.'
   added: 2026-06-09
   status: resolved
 - slug: sv-angel
   type: firm
-  reason: "RESOLVED 2026-06-10 \u2014 Sandstone Series A $30M (2026-06-09, Lightspeed-led;\
-    \ Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity\
-    \ Ventures participated) added to sv-angel.md portfolio with 3 independent primary\
-    \ citations (TechCrunch, Artificial Lawyer, Today's Startup News). Prior Sandstone\
-    \ Seed $10M (2026-01-13, Sequoia-led) also added as separate portfolio row. Recent\
-    \ 10 portfolio entries (Sandstone Series A, Sandstone Seed, Adaptive Innovations,\
-    \ Novella, Lio, Corgi, Hippocratic AI, plus historical) all have full YYYY-MM-DD\
-    \ dates or clearly-marked founding-year proxies \u2014 no vague facts in recent\
-    \ entries."
+  reason: RESOLVED 2026-06-10 — Sandstone Series A $30M (2026-06-09, Lightspeed-led;
+    Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity
+    Ventures participated) added to sv-angel.md portfolio with 3 independent primary
+    citations (TechCrunch, Artificial Lawyer, Today's Startup News). Prior Sandstone
+    Seed $10M (2026-01-13, Sequoia-led) also added as separate portfolio row. Recent
+    10 portfolio entries (Sandstone Series A, Sandstone Seed, Adaptive Innovations,
+    Novella, Lio, Corgi, Hippocratic AI, plus historical) all have full YYYY-MM-DD
+    dates or clearly-marked founding-year proxies — no vague facts in recent entries.
   added: 2026-06-09
   status: resolved
 - slug: operator-partners
   type: firm
-  reason: "RESOLVED 2026-06-10 \u2014 Sandstone Series A $30M (2026-06-09, Lightspeed-led;\
-    \ Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity\
-    \ Ventures participated) added to operator-partners.md portfolio with 3 independent\
-    \ primary citations (TechCrunch, Artificial Lawyer, PYMNTS). All 3 sources explicitly\
-    \ name Operator Partners as participant; Lightspeed's own blog post confirms round\
-    \ date/amount but does not enumerate participants. last_verified_investment added\
-    \ (Sandstone 2026-06-09). Sandstone startup profile already published with operator-partners\
-    \ in firms[] frontmatter."
+  reason: RESOLVED 2026-06-10 — Sandstone Series A $30M (2026-06-09, Lightspeed-led;
+    Mantis VC, SV Angel, Operator Partners, Kearny Jackson, Daybreak Ventures, Litquidity
+    Ventures participated) added to operator-partners.md portfolio with 3 independent
+    primary citations (TechCrunch, Artificial Lawyer, PYMNTS). All 3 sources explicitly
+    name Operator Partners as participant; Lightspeed's own blog post confirms round
+    date/amount but does not enumerate participants. last_verified_investment added
+    (Sandstone 2026-06-09). Sandstone startup profile already published with operator-partners
+    in firms[] frontmatter.
   added: 2026-06-09
   status: resolved
 - slug: general-catalyst
   type: firm
-  reason: "RESOLVED 2026-06-09 \u2014 Beacon Software Series C $225M at $1.4B+ val\
-    \ (2026-06-09, co-led with HarbourVest) added to general-catalyst.md portfolio\
-    \ row [^70] with 3 independent primary citations (BusinessWire press release,\
-    \ TheNextWeb, SiliconANGLE). All 3 sources confirm GC + HarbourVest co-lead; participants\
-    \ Lightspeed, Intrepid Growth Partners, Valiant Peregrine, BDT & MSD Partners\
-    \ affiliated funds, Journey LP, Sator Grove confirmed via BusinessWire. Hemant\
-    \ Taneja NOT personally attributed in any primary source \u2014 GC team per portfolio\
-    \ page is Marc Bhargava, Christopher Kauffman, Sarah Ascherman (matches the separate\
-    \ hemant-taneja unresolvable entry). Recent 10 portfolio entries (Musely 2026-05-01\
-    \ through Beacon 2026-06-09) all have full YYYY-MM-DD dates; no vague facts found\
-    \ in recent entries."
+  reason: RESOLVED 2026-06-09 — Beacon Software Series C $225M at $1.4B+ val (2026-06-09,
+    co-led with HarbourVest) added to general-catalyst.md portfolio row [^70] with
+    3 independent primary citations (BusinessWire press release, TheNextWeb, SiliconANGLE).
+    All 3 sources confirm GC + HarbourVest co-lead; participants Lightspeed, Intrepid
+    Growth Partners, Valiant Peregrine, BDT & MSD Partners affiliated funds, Journey
+    LP, Sator Grove confirmed via BusinessWire. Hemant Taneja NOT personally attributed
+    in any primary source — GC team per portfolio page is Marc Bhargava, Christopher
+    Kauffman, Sarah Ascherman (matches the separate hemant-taneja unresolvable entry).
+    Recent 10 portfolio entries (Musely 2026-05-01 through Beacon 2026-06-09) all
+    have full YYYY-MM-DD dates; no vague facts found in recent entries.
   added: 2026-06-09
   status: resolved
 - slug: addition
   type: firm
-  reason: "UNRESOLVABLE 2026-06-10 \u2014 Addition NOT a verified participant in Beacon\
-    \ Software Series C $225M (2026-06-09) per 5 independent primary sources (TNW,\
-    \ SiliconANGLE, BetaKit, Pulse 2.0, Globe and Mail) \u2014 Series C lead: General\
-    \ Catalyst + HarbourVest; participants: Lightspeed, Intrepid Growth Partners,\
-    \ Valiant Peregrine, BDT & MSD, Journey LP, Sator Grove. Also discovered FABRICATED\
-    \ claim that Addition led/joined Beacon's Series B (2025-11-04, $250M) \u2014\
-    \ verified Series B leads were General Catalyst + Lightspeed + D1 Capital per\
-    \ BetaKit, TechStartups, The AI Insider, Globe and Mail; participants: BDT & MSD,\
-    \ Sator Grove + angels Rogers/Varma/Simo/Glyman/Atiyeh/Wu/Xu/Corrales/Farber.\
-    \ No Beacon row in addition.md portfolio (good \u2014 fabrication never propagated\
-    \ to Addition profile). beacon-software.md startup profile corrected: removed\
-    \ Addition slug from firms[] frontmatter, replaced hallucinated Inovia Capital\
-    \ + Golden Ventures co-investors in Series B funding history table with actual\
-    \ lead/co-investor list. Recent 10 Addition portfolio entries (Snorkel AI 2025-05-29\
-    \ through Hello Vet 2025-12-11) all have full YYYY-MM-DD dates; SuperOps.ai Series\
-    \ A (2022) and Adept AI Series B (2023-03-14) are the only older entries without\
-    \ complete dates \u2014 outside scope of this sweep."
+  reason: 'UNRESOLVABLE 2026-06-10 — Addition NOT a verified participant in Beacon
+    Software Series C $225M (2026-06-09) per 5 independent primary sources (TNW, SiliconANGLE,
+    BetaKit, Pulse 2.0, Globe and Mail) — Series C lead: General Catalyst + HarbourVest;
+    participants: Lightspeed, Intrepid Growth Partners, Valiant Peregrine, BDT & MSD,
+    Journey LP, Sator Grove. Also discovered FABRICATED claim that Addition led/joined
+    Beacon''s Series B (2025-11-04, $250M) — verified Series B leads were General
+    Catalyst + Lightspeed + D1 Capital per BetaKit, TechStartups, The AI Insider,
+    Globe and Mail; participants: BDT & MSD, Sator Grove + angels Rogers/Varma/Simo/Glyman/Atiyeh/Wu/Xu/Corrales/Farber.
+    No Beacon row in addition.md portfolio (good — fabrication never propagated to
+    Addition profile). beacon-software.md startup profile corrected: removed Addition
+    slug from firms[] frontmatter, replaced hallucinated Inovia Capital + Golden Ventures
+    co-investors in Series B funding history table with actual lead/co-investor list.
+    Recent 10 Addition portfolio entries (Snorkel AI 2025-05-29 through Hello Vet
+    2025-12-11) all have full YYYY-MM-DD dates; SuperOps.ai Series A (2022) and Adept
+    AI Series B (2023-03-14) are the only older entries without complete dates — outside
+    scope of this sweep.'
   added: 2026-06-09
   status: unresolvable
 - slug: hemant-taneja
   type: investor
-  reason: "UNRESOLVABLE 2026-06-09 \u2014 Hemant Taneja NOT personally attributed\
-    \ to Beacon Software Series C $225M (2026-06-09, General Catalyst + HarbourVest-led)\
-    \ by any primary source. General Catalyst's own portfolio page (generalcatalyst.com/companies/beacon-software)\
-    \ names Marc Bhargava, Christopher Kauffman, and Sarah Ascherman as the GC team\
-    \ for Beacon. TNW and citybiz Series C announcements name only the firm, not Taneja.\
-    \ Removed hemant-taneja from beacon-software.md investors[] frontmatter (was incorrectly\
-    \ attributed). Queued marc-bhargava, christopher-kauffman, sarah-ascherman as\
-    \ new investor leads."
+  reason: UNRESOLVABLE 2026-06-09 — Hemant Taneja NOT personally attributed to Beacon
+    Software Series C $225M (2026-06-09, General Catalyst + HarbourVest-led) by any
+    primary source. General Catalyst's own portfolio page (generalcatalyst.com/companies/beacon-software)
+    names Marc Bhargava, Christopher Kauffman, and Sarah Ascherman as the GC team
+    for Beacon. TNW and citybiz Series C announcements name only the firm, not Taneja.
+    Removed hemant-taneja from beacon-software.md investors[] frontmatter (was incorrectly
+    attributed). Queued marc-bhargava, christopher-kauffman, sarah-ascherman as new
+    investor leads.
   added: 2026-06-09
   status: unresolvable
 - slug: y-combinator
   type: firm
-  reason: "RESOLVED 2026-06-09 \u2014 Stepful Series C $55M (2026-06-08, Oak HC/FT-led;\
-    \ Y Combinator existing follow-on participant) added to portfolio with 3 independent\
-    \ primary citations (TheNextWeb [^43], citybiz [^44], JustAINews [^45]). All 3\
-    \ sources independently confirm YC as existing investor alongside Intermountain\
-    \ Health, SemperVirens, ECMC Education Impact Fund; new investors Foresite Capital,\
-    \ Hearst Ventures, Citi Impact Fund. Stepful is W21 YC batch. Recent 10 portfolio\
-    \ entries reviewed (Avoca through Stepful) \u2014 batch year entries (Avoca W23,\
-    \ Corgi S24, Fazeshift S24, Legora W24) correctly use YC batch designation with\
-    \ round dates fully specified in citations [^32]-[^37]; no vague facts found in\
-    \ recent entries."
+  reason: RESOLVED 2026-06-09 — Stepful Series C $55M (2026-06-08, Oak HC/FT-led;
+    Y Combinator existing follow-on participant) added to portfolio with 3 independent
+    primary citations (TheNextWeb [^43], citybiz [^44], JustAINews [^45]). All 3 sources
+    independently confirm YC as existing investor alongside Intermountain Health,
+    SemperVirens, ECMC Education Impact Fund; new investors Foresite Capital, Hearst
+    Ventures, Citi Impact Fund. Stepful is W21 YC batch. Recent 10 portfolio entries
+    reviewed (Avoca through Stepful) — batch year entries (Avoca W23, Corgi S24, Fazeshift
+    S24, Legora W24) correctly use YC batch designation with round dates fully specified
+    in citations [^32]-[^37]; no vague facts found in recent entries.
   added: 2026-06-09
   status: resolved
 - slug: incite-ventures
   type: firm
-  reason: "RESOLVED 2026-06-10 \u2014 Heirloom Carbon Seed date tightened from 2021\
-    \ to 2021-05-26 per MIT Technology Review primary source (Breakthrough Energy\
-    \ Ventures, Lowercarbon Capital, Prelude Ventures led; Incite confirmed early\
-    \ backer per Incite.org/story/heirloom). Quilt Seed tightened from 2023 to 2023-05-16\
-    \ per TechCrunch + BusinessWire + FinSMEs (Lowercarbon Capital + Gradient Ventures\
-    \ co-led $9M; Incite participated with MCJ Collective, Garage Capital, Climate\
-    \ Capital, Spacecadet). Quilt status row extended with Series A 2024-04-16 (Energy\
-    \ Impact Partners + Galvanize co-led $33M) and Series B 2025-12-08 (Energy Impact\
-    \ Partners + Galvanize co-led $20M) per TechCrunch articles for each round; Incite\
-    \ participated in all three. Created lean quilt startup profile with full funding\
-    \ history."
+  reason: RESOLVED 2026-06-10 — Heirloom Carbon Seed date tightened from 2021 to 2021-05-26
+    per MIT Technology Review primary source (Breakthrough Energy Ventures, Lowercarbon
+    Capital, Prelude Ventures led; Incite confirmed early backer per Incite.org/story/heirloom).
+    Quilt Seed tightened from 2023 to 2023-05-16 per TechCrunch + BusinessWire + FinSMEs
+    (Lowercarbon Capital + Gradient Ventures co-led $9M; Incite participated with
+    MCJ Collective, Garage Capital, Climate Capital, Spacecadet). Quilt status row
+    extended with Series A 2024-04-16 (Energy Impact Partners + Galvanize co-led $33M)
+    and Series B 2025-12-08 (Energy Impact Partners + Galvanize co-led $20M) per TechCrunch
+    articles for each round; Incite participated in all three. Created lean quilt
+    startup profile with full funding history.
   added: 2026-06-10
   status: resolved
 - slug: third-rock-ventures
   type: firm
-  reason: "RESOLVED 2026-06-10 \u2014 Tightened 7 year-only portfolio dates using\
-    \ existing primary-source citations (BusinessWire URL slugs encode YYYYMMDD; Goodwin\
-    \ Law header date verified via WebFetch). Updates: Syremis Therapeutics Series\
-    \ A $165M (2025 \u2192 2025-12-18, Goodwin Law 2025-12-19 release [^13]); Clasp\
-    \ Therapeutics Series A $150M (2024 \u2192 2024-03, Fierce Biotech March 2024\
-    \ [^21]); Synnovation Therapeutics Series A $102M (2024 \u2192 2024-01, BioSpace\
-    \ January 2024 [^22]); ArtBio Series A $90M (2023 \u2192 2023-12, PR Newswire\
-    \ December 2023 [^23]); Trace Neuroscience Series A $101M (2024 \u2192 2024-11-12,\
-    \ BusinessWire URL 20241112 [^24]); Marea Therapeutics Series A+B $190M (2024\
-    \ \u2192 2024-06-17, BusinessWire URL 20240617 [^25]); Rapport Therapeutics Series\
-    \ A $100M (2023 \u2192 2023-03-07, BusinessWire URL 20230307 [^26]). Inferred\
-    \ Thesis text updated from 'Syremis 2025' to 'December 2025'. No new citations\
-    \ added \u2014 all resolutions derived from dates already encoded in existing\
-    \ source URLs/headers."
+  reason: 'RESOLVED 2026-06-10 — Tightened 7 year-only portfolio dates using existing
+    primary-source citations (BusinessWire URL slugs encode YYYYMMDD; Goodwin Law
+    header date verified via WebFetch). Updates: Syremis Therapeutics Series A $165M
+    (2025 → 2025-12-18, Goodwin Law 2025-12-19 release [^13]); Clasp Therapeutics
+    Series A $150M (2024 → 2024-03, Fierce Biotech March 2024 [^21]); Synnovation
+    Therapeutics Series A $102M (2024 → 2024-01, BioSpace January 2024 [^22]); ArtBio
+    Series A $90M (2023 → 2023-12, PR Newswire December 2023 [^23]); Trace Neuroscience
+    Series A $101M (2024 → 2024-11-12, BusinessWire URL 20241112 [^24]); Marea Therapeutics
+    Series A+B $190M (2024 → 2024-06-17, BusinessWire URL 20240617 [^25]); Rapport
+    Therapeutics Series A $100M (2023 → 2023-03-07, BusinessWire URL 20230307 [^26]).
+    Inferred Thesis text updated from ''Syremis 2025'' to ''December 2025''. No new
+    citations added — all resolutions derived from dates already encoded in existing
+    source URLs/headers.'
   added: 2026-06-10
   status: resolved
 - slug: insight-partners
   type: firm
-  reason: "RESOLVED 2026-06-11 \u2014 Golden Analytics $14M seed extension (2026-06-09,\
-    \ Insight-led; NEA and Madrona re-upping as original seed investors) verified\
-    \ via 3 independent primary sources: (1) PR Newswire press release [^46] (https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html)\
-    \ explicitly confirms Insight Partners led with NEA and Madrona participating;\
-    \ (2) GeekWire June 9 2026 [^47] confirms same; (3) citybiz, VentureBurn, TheSaaSNews\
-    \ independently corroborate. Total seed now $21M. Founder/CEO: Francois Ajenstat\
-    \ (former Tableau product chief). Ganesh Bell (Insight MD) taking board seat;\
-    \ George Mathew (Insight MD, ex-Alteryx president) advising. Row already present\
-    \ in insight-partners.md portfolio table with [^46][^47] citations. Recent 10\
-    \ portfolio entries (Ayar Labs 2026-03-03 through Golden Analytics 2026-06-09)\
-    \ all have full YYYY-MM-DD dates \u2014 no vague facts found in recent entries."
+  reason: 'RESOLVED 2026-06-11 — Golden Analytics $14M seed extension (2026-06-09,
+    Insight-led; NEA and Madrona re-upping as original seed investors) verified via
+    3 independent primary sources: (1) PR Newswire press release [^46] (https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html)
+    explicitly confirms Insight Partners led with NEA and Madrona participating; (2)
+    GeekWire June 9 2026 [^47] confirms same; (3) citybiz, VentureBurn, TheSaaSNews
+    independently corroborate. Total seed now $21M. Founder/CEO: Francois Ajenstat
+    (former Tableau product chief). Ganesh Bell (Insight MD) taking board seat; George
+    Mathew (Insight MD, ex-Alteryx president) advising. Row already present in insight-partners.md
+    portfolio table with [^46][^47] citations. Recent 10 portfolio entries (Ayar Labs
+    2026-03-03 through Golden Analytics 2026-06-09) all have full YYYY-MM-DD dates
+    — no vague facts found in recent entries.'
   added: 2026-06-11
   status: resolved
 - slug: nea
   type: firm
-  reason: "RESOLVED 2026-06-11 \u2014 Golden Analytics $14M Seed Extension (2026-06-09,\
-    \ Insight Partners led; NEA and Madrona re-upped as existing investors) VERIFIED\
-    \ via 3 independent primary sources: (1) PR Newswire press release [^22], (2)\
-    \ GeekWire [^23] (Ganesh Bell of Insight takes board seat), (3) The SaaS News\
-    \ [^24] (explicit 'participation from existing investors NEA and Madrona'). nea.md\
-    \ portfolio split into 2 rows: original Seed (co-led with Madrona, $7M, 2026-04-07,\
-    \ [^21]) + Seed Extension (2026-06-09, [^22][^23][^24]). Participation cleanly\
-    \ confirmed by 3 independent sources \u2014 no fabrication."
+  reason: 'RESOLVED 2026-06-11 — Golden Analytics $14M Seed Extension (2026-06-09,
+    Insight Partners led; NEA and Madrona re-upped as existing investors) VERIFIED
+    via 3 independent primary sources: (1) PR Newswire press release [^22], (2) GeekWire
+    [^23] (Ganesh Bell of Insight takes board seat), (3) The SaaS News [^24] (explicit
+    ''participation from existing investors NEA and Madrona''). nea.md portfolio split
+    into 2 rows: original Seed (co-led with Madrona, $7M, 2026-04-07, [^21]) + Seed
+    Extension (2026-06-09, [^22][^23][^24]). Participation cleanly confirmed by 3
+    independent sources — no fabrication.'
   added: 2026-06-11
   status: resolved
 - slug: madrona-venture-group
   type: firm
-  reason: "RESOLVED 2026-06-11 \u2014 Golden Analytics $14M Seed Extension (2026-06-09,\
-    \ Insight Partners led; NEA and Madrona re-upped as existing investors) VERIFIED\
-    \ via 3 independent primary sources: (1) PR Newswire press release [^76] (https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html)\
-    \ explicitly confirms Insight Partners led with NEA and Madrona participating;\
-    \ (2) GeekWire June 9 2026 [^75]; (3) WebSearch corroborated by Ventureburn, SaaS\
-    \ News, and citybiz independently confirming same investor list. Total seed now\
-    \ $21M ($7M original 2026-04-07 + $14M extension). Ganesh Bell (Insight MD) joining\
-    \ board. Original $7M Seed (2026-04-07, co-led by NEA + Madrona, with Breakers)\
-    \ verified via PR Newswire press release. Existing portfolio row in madrona-venture-group.md\
-    \ is accurate \u2014 no edits needed. Recent portfolio entries through Golden\
-    \ Analytics 2026-06-09 all have full YYYY-MM-DD dates."
+  reason: 'RESOLVED 2026-06-11 — Golden Analytics $14M Seed Extension (2026-06-09,
+    Insight Partners led; NEA and Madrona re-upped as existing investors) VERIFIED
+    via 3 independent primary sources: (1) PR Newswire press release [^76] (https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html)
+    explicitly confirms Insight Partners led with NEA and Madrona participating; (2)
+    GeekWire June 9 2026 [^75]; (3) WebSearch corroborated by Ventureburn, SaaS News,
+    and citybiz independently confirming same investor list. Total seed now $21M ($7M
+    original 2026-04-07 + $14M extension). Ganesh Bell (Insight MD) joining board.
+    Original $7M Seed (2026-04-07, co-led by NEA + Madrona, with Breakers) verified
+    via PR Newswire press release. Existing portfolio row in madrona-venture-group.md
+    is accurate — no edits needed. Recent portfolio entries through Golden Analytics
+    2026-06-09 all have full YYYY-MM-DD dates.'
   added: 2026-06-11
   status: resolved
 - slug: true-ventures
   type: firm
-  reason: "RESOLVED 2026-06-11 \u2014 Concentrate AI $5.1M pre-seed (2026-06-10, co-led\
-    \ with RRE Ventures) VERIFIED via 3 independent primary sources: (1) AlleyWatch\
-    \ Startup Daily Funding Report 6/10/2026 [^29] explicitly names True Ventures\
-    \ and RRE Ventures as co-leads, $5.1M, founders Ari Jacoby (CEO) + Todd Lieberman;\
-    \ (2) Let's Data Science 'AI-routing Startups See Major Venture Funding' [^30]\
-    \ confirms emergence from stealth with $5M+ on/around June 10, 2026 (sources Business\
-    \ Insider coverage), CEO Jacoby quoted; (3) Ari Jacoby LinkedIn [^31] confirms\
-    \ CEO role at Concentrate AI; Todd Lieberman LinkedIn cross-referenced. Concentrate\
-    \ AI startup profile already exists with consistent details. Portfolio row updated\
-    \ from single [^29] citation to [^29][^30][^31]. No RRE Ventures firm profile\
-    \ exists in data/firms/ \u2014 RRE Ventures should be added to queue.yaml."
+  reason: 'RESOLVED 2026-06-11 — Concentrate AI $5.1M pre-seed (2026-06-10, co-led
+    with RRE Ventures) VERIFIED via 3 independent primary sources: (1) AlleyWatch
+    Startup Daily Funding Report 6/10/2026 [^29] explicitly names True Ventures and
+    RRE Ventures as co-leads, $5.1M, founders Ari Jacoby (CEO) + Todd Lieberman; (2)
+    Let''s Data Science ''AI-routing Startups See Major Venture Funding'' [^30] confirms
+    emergence from stealth with $5M+ on/around June 10, 2026 (sources Business Insider
+    coverage), CEO Jacoby quoted; (3) Ari Jacoby LinkedIn [^31] confirms CEO role
+    at Concentrate AI; Todd Lieberman LinkedIn cross-referenced. Concentrate AI startup
+    profile already exists with consistent details. Portfolio row updated from single
+    [^29] citation to [^29][^30][^31]. No RRE Ventures firm profile exists in data/firms/
+    — RRE Ventures should be added to queue.yaml.'
   added: 2026-06-11
   status: resolved
 - slug: yevgeny-dibrov
   type: investor
-  reason: "RESOLVED 2026-06-11 \u2014 Aryon Security Series A $29M (2026-06-10, Brightmind\
-    \ Partners led with Skinos Ventures co-leading per CTech; Datadog Ventures, Blumberg\
-    \ Capital, Viola Ventures participated; angels include Yevgeny Dibrov, Nadir Izrael,\
-    \ George Kurtz) VERIFIED via 2 independent primary sources: BusinessWire press\
-    \ release (via WebSearch summary) and CTech (calcalistech.com/ctechnews/article/rjg0xcubmg).\
-    \ Pi Series A $25M (2026-06-10, Third Point Ventures led; Brightmind Partners\
-    \ participated; angels Yevgeny Dibrov, Nadir Izrael, George Kurtz) VERIFIED via\
-    \ 2 independent primary sources: Yahoo Finance (Pi press release) and CTech (calcalistech.com/ctechnews/article/hyu11dri11fg).\
-    \ Note: Pi $10M Seed (early 2025) was led by Brightmind Partners \u2014 Dibrov\
-    \ participation in seed not confirmed by primary sources, so only Series A row\
-    \ added. Both portfolio rows added with citations [^22][^23][^24][^25]. last_verified_investment\
-    \ updated from Spirit 2026-01 to Aryon Security 2026-06-10. Inferred Thesis updated\
-    \ from 10 to 12 verified investments; stage distribution now Seed 83%, Series\
-    \ A 17%; cybersecurity concentration up to 75% (9/12)."
+  reason: 'RESOLVED 2026-06-11 — Aryon Security Series A $29M (2026-06-10, Brightmind
+    Partners led with Skinos Ventures co-leading per CTech; Datadog Ventures, Blumberg
+    Capital, Viola Ventures participated; angels include Yevgeny Dibrov, Nadir Izrael,
+    George Kurtz) VERIFIED via 2 independent primary sources: BusinessWire press release
+    (via WebSearch summary) and CTech (calcalistech.com/ctechnews/article/rjg0xcubmg).
+    Pi Series A $25M (2026-06-10, Third Point Ventures led; Brightmind Partners participated;
+    angels Yevgeny Dibrov, Nadir Izrael, George Kurtz) VERIFIED via 2 independent
+    primary sources: Yahoo Finance (Pi press release) and CTech (calcalistech.com/ctechnews/article/hyu11dri11fg).
+    Note: Pi $10M Seed (early 2025) was led by Brightmind Partners — Dibrov participation
+    in seed not confirmed by primary sources, so only Series A row added. Both portfolio
+    rows added with citations [^22][^23][^24][^25]. last_verified_investment updated
+    from Spirit 2026-01 to Aryon Security 2026-06-10. Inferred Thesis updated from
+    10 to 12 verified investments; stage distribution now Seed 83%, Series A 17%;
+    cybersecurity concentration up to 75% (9/12).'
   added: 2026-06-11
   status: resolved
 - slug: air-street-capital
   type: firm
-  reason: "UNRESOLVABLE 2026-06-11 \u2014 firm profile does not exist yet \u2014 queued\
-    \ for research. Alta Ares \u20AC50M Series A (2026-06-09, Air Street Capital-led;\
-    \ Cherry Ventures, OTB Ventures, Harpoon Ventures participated) VERIFIED via 3\
-    \ independent primary sources: (1) Alta Ares own press release (altaares.com/blog-post/alta-ares-raises-eu50m-to-become-a-leading-european-player-in-air-defense);\
-    \ (2) Aerotime (aerotime.aero/articles/alta-ares-50-million-drone-interceptors);\
-    \ (3) Tectonic Defense (tectonicdefense.com/french-interceptor-startup-alta-ares-raises-e50m-series-a/)\
-    \ \u2014 also corroborated by Sifted and TechFundingNews. Nathan Benaich (Air\
-    \ Street founder) quoted. French defense-tech startup building AI-guided drone\
-    \ interceptors. Total funding now \u20AC52M (after \u20AC2M May 2025 round). Once\
-    \ firm profile is created, this round should be added as portfolio row with these\
-    \ 3 citations."
+  reason: 'UNRESOLVABLE 2026-06-11 — firm profile does not exist yet — queued for
+    research. Alta Ares €50M Series A (2026-06-09, Air Street Capital-led; Cherry
+    Ventures, OTB Ventures, Harpoon Ventures participated) VERIFIED via 3 independent
+    primary sources: (1) Alta Ares own press release (altaares.com/blog-post/alta-ares-raises-eu50m-to-become-a-leading-european-player-in-air-defense);
+    (2) Aerotime (aerotime.aero/articles/alta-ares-50-million-drone-interceptors);
+    (3) Tectonic Defense (tectonicdefense.com/french-interceptor-startup-alta-ares-raises-e50m-series-a/)
+    — also corroborated by Sifted and TechFundingNews. Nathan Benaich (Air Street
+    founder) quoted. French defense-tech startup building AI-guided drone interceptors.
+    Total funding now €52M (after €2M May 2025 round). Once firm profile is created,
+    this round should be added as portfolio row with these 3 citations.'
   added: 2026-06-11
   status: unresolvable
 - slug: viking-global-investors
   type: firm
-  reason: "UNRESOLVABLE 2026-06-11 \u2014 firm profile does not exist yet \u2014 queued\
-    \ for research. GT Medical Technologies $100M Series E (2026-06-09, Viking Global\
-    \ Investors-led; existing investors MVM Partners, Gilde Healthcare, Evidity Health\
-    \ Capital, Medtech Venture Partners, FemHealth Ventures participated) VERIFIED\
-    \ via 3 independent primary sources: (1) PR Newswire press release (prnewswire.com/news-releases/gt-medical-technologies-completes-oversubscribed-100-million-series-e-equity-financing-302794352.html);\
-    \ (2) MedTech Dive (medtechdive.com/news/gt-medical-raises-100m-for-brain-tumor-tech-after-clinical-trial-success/822536/);\
-    \ (3) BioSpace (biospace.com/press-releases/gt-medical-technologies-completes-oversubscribed-100-million-series-e-equity-financing).\
-    \ Round is oversubscribed; proceeds support BRIDGES RCT for newly diagnosed glioblastomas.\
-    \ GammaTile radiotherapy device. Viking Global is a NEW investor (first GT Medical\
-    \ position). Once firm profile is created, this round should be added as portfolio\
-    \ row with these 3 citations."
+  reason: 'UNRESOLVABLE 2026-06-11 — firm profile does not exist yet — queued for
+    research. GT Medical Technologies $100M Series E (2026-06-09, Viking Global Investors-led;
+    existing investors MVM Partners, Gilde Healthcare, Evidity Health Capital, Medtech
+    Venture Partners, FemHealth Ventures participated) VERIFIED via 3 independent
+    primary sources: (1) PR Newswire press release (prnewswire.com/news-releases/gt-medical-technologies-completes-oversubscribed-100-million-series-e-equity-financing-302794352.html);
+    (2) MedTech Dive (medtechdive.com/news/gt-medical-raises-100m-for-brain-tumor-tech-after-clinical-trial-success/822536/);
+    (3) BioSpace (biospace.com/press-releases/gt-medical-technologies-completes-oversubscribed-100-million-series-e-equity-financing).
+    Round is oversubscribed; proceeds support BRIDGES RCT for newly diagnosed glioblastomas.
+    GammaTile radiotherapy device. Viking Global is a NEW investor (first GT Medical
+    position). Once firm profile is created, this round should be added as portfolio
+    row with these 3 citations.'
   added: 2026-06-11
   status: unresolvable
 - slug: molten-ventures
   type: firm
-  reason: "UNRESOLVABLE 2026-06-11 \u2014 firm profile does not exist yet \u2014 queued\
-    \ for research. Isar Aerospace \u20AC270M Series D (2026-06-09, new investors\
-    \ Molten Ventures and Island Green Capital led; existing investors HV Capital,\
-    \ Lakestar, UVC Partners participated alongside co-investor KfW Capital) VERIFIED\
-    \ via 3 independent primary sources: (1) Isar Aerospace press release (isaraerospace.com/press/isar-aerospace-secures-eur-270m-to-provide-sovereign-space-capabilities-globally);\
-    \ (2) SatNews (satnews.com/2026/06/10/isar-aerospace-secures-e270-million-series-d-to-ramp-up-spectrum-launch-vehicle-production/);\
-    \ (3) TechFundingNews (techfundingnews.com/isar-aerospace-funding-270m-molten-ventures/)\
-    \ \u2014 also corroborated by Sifted, MarketScreener, TheNextWeb. Molten contributed\
-    \ \u20AC30M strategic investment. Total Isar funding now ~\u20AC870M. Capital\
-    \ funds Spectrum launch vehicle serial production (up to 40 rockets/yr at Munich\
-    \ facility), plus new Canada launch site. Once firm profile is created, this round\
-    \ should be added as portfolio row with these 3 citations."
+  reason: 'UNRESOLVABLE 2026-06-11 — firm profile does not exist yet — queued for
+    research. Isar Aerospace €270M Series D (2026-06-09, new investors Molten Ventures
+    and Island Green Capital led; existing investors HV Capital, Lakestar, UVC Partners
+    participated alongside co-investor KfW Capital) VERIFIED via 3 independent primary
+    sources: (1) Isar Aerospace press release (isaraerospace.com/press/isar-aerospace-secures-eur-270m-to-provide-sovereign-space-capabilities-globally);
+    (2) SatNews (satnews.com/2026/06/10/isar-aerospace-secures-e270-million-series-d-to-ramp-up-spectrum-launch-vehicle-production/);
+    (3) TechFundingNews (techfundingnews.com/isar-aerospace-funding-270m-molten-ventures/)
+    — also corroborated by Sifted, MarketScreener, TheNextWeb. Molten contributed
+    €30M strategic investment. Total Isar funding now ~€870M. Capital funds Spectrum
+    launch vehicle serial production (up to 40 rockets/yr at Munich facility), plus
+    new Canada launch site. Once firm profile is created, this round should be added
+    as portfolio row with these 3 citations.'
   added: 2026-06-11
   status: unresolvable
 - slug: leaps-by-bayer
   type: firm
-  reason: "UNRESOLVABLE 2026-06-12 \u2014 leaps-by-bayer.md firm profile does NOT\
-    \ exist in data/firms/. Cannot add Leaf $13M Series B (~2026-06-10, Leaps by Bayer-led,\
-    \ San Francisco agtech data infrastructure, CEO G. Bailey Stockdale) portfolio\
-    \ row to non-existent profile. Per CLAUDE.md fact specificity workflow, marking\
-    \ unresolvable. Leaps by Bayer should be added to queue.yaml as a firm research\
-    \ lead. When the firm profile is created, the Leaf Series B round should be verified\
-    \ against 3+ independent primary sources (Morningstar/PRNewswire, AgNavigator,\
-    \ FinSMEs) and added as a portfolio row."
+  reason: UNRESOLVABLE 2026-06-12 — leaps-by-bayer.md firm profile does NOT exist
+    in data/firms/. Cannot add Leaf $13M Series B (~2026-06-10, Leaps by Bayer-led,
+    San Francisco agtech data infrastructure, CEO G. Bailey Stockdale) portfolio row
+    to non-existent profile. Per CLAUDE.md fact specificity workflow, marking unresolvable.
+    Leaps by Bayer should be added to queue.yaml as a firm research lead. When the
+    firm profile is created, the Leaf Series B round should be verified against 3+
+    independent primary sources (Morningstar/PRNewswire, AgNavigator, FinSMEs) and
+    added as a portfolio row.
   added: 2026-06-12
   status: unresolvable
 - slug: nea
   type: firm
-  reason: "RESOLVED 2026-06-13 \u2014 Corca $7.8M Seed (2026-06-10, NEA led; Bloomberg\
-    \ Beta, Daft Capital, NVentures participating) VERIFIED via 3 independent primary\
-    \ sources: (1) The SaaS News [^25], (2) Tech Startups [^26], (3) AlleyWatch Daily\
-    \ Funding Report 6/11/2026 [^27]. nea.md portfolio updated with new row; last_verified_investment\
-    \ frontmatter advanced to 2026-06-10 Corca."
+  reason: 'RESOLVED 2026-06-13 — Corca $7.8M Seed (2026-06-10, NEA led; Bloomberg
+    Beta, Daft Capital, NVentures participating) VERIFIED via 3 independent primary
+    sources: (1) The SaaS News [^25], (2) Tech Startups [^26], (3) AlleyWatch Daily
+    Funding Report 6/11/2026 [^27]. nea.md portfolio updated with new row; last_verified_investment
+    frontmatter advanced to 2026-06-10 Corca.'
   added: 2026-06-13
   status: resolved
 - slug: bloomberg-beta
   type: firm
-  reason: "RESOLVED 2026-06-13 \u2014 Corca $7.8M Seed (2026-06-10, NEA led, Bloomberg\
-    \ Beta participated) VERIFIED via 3 independent primary sources: (1) The SaaS\
-    \ News [^17], (2) Tech Startups [^18], (3) AlleyWatch Daily Funding Report 6/11/2026\
-    \ [^19]. bloomberg-beta.md portfolio updated with new Corca row; last_verified_investment\
-    \ frontmatter added/advanced to 2026-06-10 Corca."
+  reason: 'RESOLVED 2026-06-13 — Corca $7.8M Seed (2026-06-10, NEA led, Bloomberg
+    Beta participated) VERIFIED via 3 independent primary sources: (1) The SaaS News
+    [^17], (2) Tech Startups [^18], (3) AlleyWatch Daily Funding Report 6/11/2026
+    [^19]. bloomberg-beta.md portfolio updated with new Corca row; last_verified_investment
+    frontmatter added/advanced to 2026-06-10 Corca.'
   added: 2026-06-13
   status: resolved
 - slug: buckley-ventures
   type: firm
-  reason: "RESOLVED 2026-06-13 \u2014 Drafted $16M Seed (2026-05-29, Buckley Ventures\
-    \ led) VERIFIED via 3 independent primary sources: (1) The SaaS News [^16], (2)\
-    \ AI Business Weekly [^17], (3) NewsBeep [^18]. AI Business Weekly's $17.5M figure\
-    \ appears to roll up $1.65M prior + $16M new; majority of sources confirm $16M\
-    \ for the new seed. buckley-ventures.md portfolio updated; last_verified_investment\
-    \ frontmatter added/advanced to 2026-05-29 Drafted."
+  reason: 'RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led)
+    VERIFIED via 3 independent primary sources: (1) The SaaS News [^16], (2) AI Business
+    Weekly [^17], (3) NewsBeep [^18]. AI Business Weekly''s $17.5M figure appears
+    to roll up $1.65M prior + $16M new; majority of sources confirm $16M for the new
+    seed. buckley-ventures.md portfolio updated; last_verified_investment frontmatter
+    added/advanced to 2026-05-29 Drafted.'
   added: 2026-06-13
   status: resolved
 - slug: y-combinator
   type: firm
-  reason: "RESOLVED 2026-06-13 \u2014 Drafted $16M Seed (2026-05-29, Buckley Ventures\
-    \ led; Y Combinator participated as existing investor \u2014 Drafted is a YC portfolio\
-    \ company per ycombinator.com/companies/drafted) VERIFIED via 3 independent primary\
-    \ sources: (1) The SaaS News [^46], (2) AI Business Weekly [^47], (3) YC Companies\
-    \ Directory [^48]. y-combinator.md portfolio updated with Drafted row."
+  reason: 'RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led;
+    Y Combinator participated as existing investor — Drafted is a YC portfolio company
+    per ycombinator.com/companies/drafted) VERIFIED via 3 independent primary sources:
+    (1) The SaaS News [^46], (2) AI Business Weekly [^47], (3) YC Companies Directory
+    [^48]. y-combinator.md portfolio updated with Drafted row.'
   added: 2026-06-13
   status: resolved
 - slug: ben-silbermann
   type: investor
-  reason: "UNRESOLVABLE 2026-06-13 \u2014 Ben Silbermann does not yet have a profile\
-    \ in data/investors/. Drafted seed participation (2026-05-29, $16M, Buckley Ventures\
-    \ led) is documented in drafted.md startup profile with 3 independent citations.\
-    \ Queue Ben Silbermann for profile creation separately; no investor-side profile\
-    \ update possible until profile exists."
+  reason: UNRESOLVABLE 2026-06-13 — Ben Silbermann does not yet have a profile in
+    data/investors/. Drafted seed participation (2026-05-29, $16M, Buckley Ventures
+    led) is documented in drafted.md startup profile with 3 independent citations.
+    Queue Ben Silbermann for profile creation separately; no investor-side profile
+    update possible until profile exists.
   added: 2026-06-13
   status: unresolvable
 - slug: patrick-collison
   type: investor
-  reason: "RESOLVED 2026-06-13 \u2014 Drafted $16M Seed (2026-05-29, Buckley Ventures\
-    \ led; Patrick Collison participated) VERIFIED via 3 independent sources: (1)\
-    \ AI Business Weekly [^25] lists Patrick Collison in May 2026 round, (2) TechCrunch\
-    \ Dec 23 2025 [^26] confirms prior $1.65M round participation (Collison was existing\
-    \ investor), (3) Stockpil [^27] corroborates. Patrick Collison portfolio table\
-    \ updated with Drafted row; last_verified_investment frontmatter advanced from\
-    \ MatX 2026-02-24 to Drafted 2026-05-29."
+  reason: 'RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led;
+    Patrick Collison participated) VERIFIED via 3 independent sources: (1) AI Business
+    Weekly [^25] lists Patrick Collison in May 2026 round, (2) TechCrunch Dec 23 2025
+    [^26] confirms prior $1.65M round participation (Collison was existing investor),
+    (3) Stockpil [^27] corroborates. Patrick Collison portfolio table updated with
+    Drafted row; last_verified_investment frontmatter advanced from MatX 2026-02-24
+    to Drafted 2026-05-29.'
   added: 2026-06-13
   status: resolved
 - slug: jack-altman
   type: investor
-  reason: "RESOLVED 2026-06-13 \u2014 Drafted $16M Seed (2026-05-29, Buckley Ventures\
-    \ led; Jack Altman participated) VERIFIED via 3 independent sources: (1) AI Business\
-    \ Weekly [^17] lists Jack Altman in May 2026 round, (2) TechCrunch Dec 23 2025\
-    \ [^18] confirms prior $1.65M round participation (Altman was existing investor),\
-    \ (3) The SaaS News [^19] corroborates Buckley-led seed. jack-altman portfolio\
-    \ table updated with Drafted row; last_verified_investment frontmatter advanced\
-    \ from Pursuit 2026-04-29 to Drafted 2026-05-29."
+  reason: 'RESOLVED 2026-06-13 — Drafted $16M Seed (2026-05-29, Buckley Ventures led;
+    Jack Altman participated) VERIFIED via 3 independent sources: (1) AI Business
+    Weekly [^17] lists Jack Altman in May 2026 round, (2) TechCrunch Dec 23 2025 [^18]
+    confirms prior $1.65M round participation (Altman was existing investor), (3)
+    The SaaS News [^19] corroborates Buckley-led seed. jack-altman portfolio table
+    updated with Drafted row; last_verified_investment frontmatter advanced from Pursuit
+    2026-04-29 to Drafted 2026-05-29.'
   added: 2026-06-13
   status: resolved
 - slug: gokul-rajaram
   type: investor
-  reason: "RESOLVED 2026-06-03 \u2014 Priority entry stated 'Series A' participation,\
-    \ but verification against 3 sources (BetaKit primary article, SignalBase, Tracxn)\
-    \ confirms Gokul Rajaram participated in the Maneva $10M Seed (2025-03-07), NOT\
-    \ the Series A. BetaKit explicitly: 'has seen early seed funding support from\
-    \ Bay area investors like Gokul Rajaram.' Series A participants per BetaKit are\
-    \ USVP (lead), Bling Capital (returning), Freestyle Capital (returning), Seguin\
-    \ Ventures, N49P, Prem Kalevar SPV. Tracxn listed him in Series A but is unreliable\
-    \ per CLAUDE.md. Added Maneva Seed row to portfolio with citations [^13][^14].\
-    \ last_verified_investment unchanged (Clouted 2026-05-20 still more recent than\
-    \ Maneva seed)."
+  reason: 'RESOLVED 2026-06-03 — Priority entry stated ''Series A'' participation,
+    but verification against 3 sources (BetaKit primary article, SignalBase, Tracxn)
+    confirms Gokul Rajaram participated in the Maneva $10M Seed (2025-03-07), NOT
+    the Series A. BetaKit explicitly: ''has seen early seed funding support from Bay
+    area investors like Gokul Rajaram.'' Series A participants per BetaKit are USVP
+    (lead), Bling Capital (returning), Freestyle Capital (returning), Seguin Ventures,
+    N49P, Prem Kalevar SPV. Tracxn listed him in Series A but is unreliable per CLAUDE.md.
+    Added Maneva Seed row to portfolio with citations [^13][^14]. last_verified_investment
+    unchanged (Clouted 2026-05-20 still more recent than Maneva seed).'
   added: 2026-06-13
   status: resolved
 - slug: true-ventures
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Flux $5M Seed (2026-06-10, Calibrate Ventures\
-    \ led; True Ventures and Glasswing Ventures participated as existing investors)\
-    \ VERIFIED via 3 independent primary sources: (1) PR Newswire press release [^32]\
-    \ (Boston-based engineering intelligence platform, founder/CEO Ted Julian), (2)\
-    \ The SaaS News [^33], (3) Pulse2 [^34]. Added Flux row to portfolio. Boston-based,\
-    \ not the Houston FluxWorks company also raising $5M same week (distinct entity)."
+  reason: 'RESOLVED 2026-06-03 — Flux $5M Seed (2026-06-10, Calibrate Ventures led;
+    True Ventures and Glasswing Ventures participated as existing investors) VERIFIED
+    via 3 independent primary sources: (1) PR Newswire press release [^32] (Boston-based
+    engineering intelligence platform, founder/CEO Ted Julian), (2) The SaaS News
+    [^33], (3) Pulse2 [^34]. Added Flux row to portfolio. Boston-based, not the Houston
+    FluxWorks company also raising $5M same week (distinct entity).'
   added: 2026-06-13
   status: resolved
 - slug: true-ventures
@@ -1360,18 +1332,18 @@ priority:
   added: 2026-06-13
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 ChatSee.ai $6.5M Seed (2026-06-12,\
-    \ True Ventures led; First Rays Venture Partners and Seven Hill Ventures participated)\
-    \ added to true-ventures.md portfolio with 3 independent primary citations: (1)\
-    \ PR Newswire press release [^35] quoting Puneet Agarwal (True Ventures Partner);\
-    \ (2) SiliconANGLE June 12 2026 [^36] independently confirming lead, amount, and\
-    \ 157-category failure taxonomy; (3) Pulse 2.0 [^37] independently confirming\
-    \ lead and co-investors. Co-founders Sekhar Sarukkai (ex-Skyhigh Networks, Securent,\
-    \ Confluent Software) and Sanjay Agrawal PhD. San Francisco HQ. Note: chatsee-ai.md\
-    \ startup profile already exists with consistent details; no edits needed there.\
-    \ Recent portfolio entries (Flux 2026-06-10, Concentrate AI 2026-06-10, Flick\
-    \ 2026-05-14, Nectar Social 2026-05-14) all have full YYYY-MM-DD dates \u2014\
-    \ no vague facts in recent entries."
+  resolution_note: 'RESOLVED 2026-06-03 — ChatSee.ai $6.5M Seed (2026-06-12, True
+    Ventures led; First Rays Venture Partners and Seven Hill Ventures participated)
+    added to true-ventures.md portfolio with 3 independent primary citations: (1)
+    PR Newswire press release [^35] quoting Puneet Agarwal (True Ventures Partner);
+    (2) SiliconANGLE June 12 2026 [^36] independently confirming lead, amount, and
+    157-category failure taxonomy; (3) Pulse 2.0 [^37] independently confirming lead
+    and co-investors. Co-founders Sekhar Sarukkai (ex-Skyhigh Networks, Securent,
+    Confluent Software) and Sanjay Agrawal PhD. San Francisco HQ. Note: chatsee-ai.md
+    startup profile already exists with consistent details; no edits needed there.
+    Recent portfolio entries (Flux 2026-06-10, Concentrate AI 2026-06-10, Flick 2026-05-14,
+    Nectar Social 2026-05-14) all have full YYYY-MM-DD dates — no vague facts in recent
+    entries.'
 - slug: steve-jang
   type: investor
   reason: appeared in Fearn Seed $5.5M (2026-06-10, Kindred Ventures led; Steve Jang
@@ -1379,253 +1351,249 @@ priority:
   added: 2026-06-13
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Fearn $5.5M Seed (2026-06-10, Kindred\
-    \ Ventures led; a16z speedrun, Designer Fund, Essence VC participated) added to\
-    \ steve-jang.md portfolio with 3 independent primary citations: (1) PR Newswire\
-    \ press release [^25] explicitly quoting Steve Jang ('Fearn is developing custom\
-    \ IP-specific models for deeptech, biotech, and hardware companies to quicken\
-    \ and accelerate their drafting and enforceability.'); (2) FinSMEs June 10 2026\
-    \ [^26]; (3) Pulse 2.0 June 11 2026 [^27]. last_verified_investment updated from\
-    \ Causal Labs 2025-03-12 to Fearn 2026-06-10. Co-founders Han Kim (CEO, ex-Morrison\
-    \ Foerster, ex-Caltech) and Angela Gao (CTO, ex-Google Research, Caltech PhD).\
-    \ San Francisco. Recent portfolio entries all have year-level dates from prior\
-    \ reviews \u2014 no vague facts in recent entries."
+  resolution_note: 'RESOLVED 2026-06-03 — Fearn $5.5M Seed (2026-06-10, Kindred Ventures
+    led; a16z speedrun, Designer Fund, Essence VC participated) added to steve-jang.md
+    portfolio with 3 independent primary citations: (1) PR Newswire press release
+    [^25] explicitly quoting Steve Jang (''Fearn is developing custom IP-specific
+    models for deeptech, biotech, and hardware companies to quicken and accelerate
+    their drafting and enforceability.''); (2) FinSMEs June 10 2026 [^26]; (3) Pulse
+    2.0 June 11 2026 [^27]. last_verified_investment updated from Causal Labs 2025-03-12
+    to Fearn 2026-06-10. Co-founders Han Kim (CEO, ex-Morrison Foerster, ex-Caltech)
+    and Angela Gao (CTO, ex-Google Research, Caltech PhD). San Francisco. Recent portfolio
+    entries all have year-level dates from prior reviews — no vague facts in recent
+    entries.'
 - slug: andreessen-horowitz
   type: firm
   reason: appeared in Fearn Seed $5.5M (2026-06-10, a16z speedrun participated)
   added: 2026-06-13
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Fearn $5.5M Seed (2026-06-10, Kindred\
-    \ Ventures led; a16z speedrun batch 005, Designer Fund, Essence VC participated)\
-    \ added to andreessen-horowitz.md portfolio with 3 independent primary citations:\
-    \ (1) PR Newswire press release [^61] explicitly naming a16z speedrun as participant;\
-    \ (2) a16z speedrun's own portfolio page [^62] confirming Fearn in batch 005;\
-    \ (3) Pulse 2.0 [^63] independently confirming a16z speedrun participation. Portfolio\
-    \ count updated from 76 to 77. Recent portfolio entries (Westmag 2026-06-02, Endra\
-    \ 2026-06-01, Town 2026-06-03) all have full YYYY-MM-DD dates \u2014 no vague\
-    \ facts in recent entries. fearn.md startup profile already exists with andreessen-horowitz\
-    \ in firms[] frontmatter."
+  resolution_note: 'RESOLVED 2026-06-03 — Fearn $5.5M Seed (2026-06-10, Kindred Ventures
+    led; a16z speedrun batch 005, Designer Fund, Essence VC participated) added to
+    andreessen-horowitz.md portfolio with 3 independent primary citations: (1) PR
+    Newswire press release [^61] explicitly naming a16z speedrun as participant; (2)
+    a16z speedrun''s own portfolio page [^62] confirming Fearn in batch 005; (3) Pulse
+    2.0 [^63] independently confirming a16z speedrun participation. Portfolio count
+    updated from 76 to 77. Recent portfolio entries (Westmag 2026-06-02, Endra 2026-06-01,
+    Town 2026-06-03) all have full YYYY-MM-DD dates — no vague facts in recent entries.
+    fearn.md startup profile already exists with andreessen-horowitz in firms[] frontmatter.'
 - slug: peak-xv-partners
   type: firm
   reason: led Hoola Health Seed $5M (2026-06-10)
   added: 2026-06-14
   status: unresolvable
   resolved: 2026-06-13
-  resolution_note: "UNRESOLVABLE 2026-06-13 \u2014 peak-xv-partners.md firm profile\
-    \ does NOT exist in data/firms/. Cannot add Hoola Health $5M Seed (2026-06-10,\
-    \ Peak XV's Surge led; W Health Ventures, Ashish Gupta, Abhishek Goyal, Bijou\
-    \ Kurien participated) portfolio row to non-existent profile. Round IS fully verified\
-    \ in /data/startups/hoola-health.md with 3 independent primary citations (Inc42\
-    \ [^1], YourStory [^2], Business Standard [^3]). Additional independent corroboration\
-    \ found via WebSearch: StartupFox, BioSpectrum India, Indian Startup Times, VOH\
-    \ Network. Peak XV Partners queued for firm profile creation. Once profile exists,\
-    \ this round should be added with the same 3 citations."
+  resolution_note: 'UNRESOLVABLE 2026-06-13 — peak-xv-partners.md firm profile does
+    NOT exist in data/firms/. Cannot add Hoola Health $5M Seed (2026-06-10, Peak XV''s
+    Surge led; W Health Ventures, Ashish Gupta, Abhishek Goyal, Bijou Kurien participated)
+    portfolio row to non-existent profile. Round IS fully verified in /data/startups/hoola-health.md
+    with 3 independent primary citations (Inc42 [^1], YourStory [^2], Business Standard
+    [^3]). Additional independent corroboration found via WebSearch: StartupFox, BioSpectrum
+    India, Indian Startup Times, VOH Network. Peak XV Partners queued for firm profile
+    creation. Once profile exists, this round should be added with the same 3 citations.'
 - slug: w-health-ventures
   type: firm
   reason: participated in Hoola Health Seed $5M (2026-06-10)
   added: 2026-06-14
   status: unresolvable
   resolved: 2026-06-13
-  resolution_note: "UNRESOLVABLE 2026-06-13 \u2014 w-health-ventures.md firm profile\
-    \ does NOT exist in data/firms/. Cannot add Hoola Health $5M Seed (2026-06-10,\
-    \ Peak XV's Surge led; W Health Ventures participated as existing institutional\
-    \ investor; angels Ashish Gupta/Abhishek Goyal/Bijou Kurien) portfolio row to\
-    \ non-existent profile. Round IS fully verified in /data/startups/hoola-health.md\
-    \ with 3 independent primary citations (Inc42 [^1], YourStory [^2], Business Standard\
-    \ [^3]). Additional independent corroboration found via WebSearch (StartupFox,\
-    \ BioSpectrum India, Indian Startup Times). W Health Ventures queued for firm\
-    \ profile creation. Once profile exists, this round should be added with the same\
-    \ 3 citations."
+  resolution_note: UNRESOLVABLE 2026-06-13 — w-health-ventures.md firm profile does
+    NOT exist in data/firms/. Cannot add Hoola Health $5M Seed (2026-06-10, Peak XV's
+    Surge led; W Health Ventures participated as existing institutional investor;
+    angels Ashish Gupta/Abhishek Goyal/Bijou Kurien) portfolio row to non-existent
+    profile. Round IS fully verified in /data/startups/hoola-health.md with 3 independent
+    primary citations (Inc42 [^1], YourStory [^2], Business Standard [^3]). Additional
+    independent corroboration found via WebSearch (StartupFox, BioSpectrum India,
+    Indian Startup Times). W Health Ventures queued for firm profile creation. Once
+    profile exists, this round should be added with the same 3 citations.
 - slug: triple-point-ventures
   type: firm
   reason: led Handshake Seed $3.2M (2026-06-01)
   added: 2026-06-13
   status: unresolvable
   resolved: 2026-06-03
-  resolution_note: "UNRESOLVABLE 2026-06-03 \u2014 triple-point-ventures.md firm profile\
-    \ does NOT exist in data/firms/. Queued for profile creation. Once profile exists,\
-    \ Handshake Seed $3.2M (2026-06-01) should be added with primary citations."
+  resolution_note: UNRESOLVABLE 2026-06-03 — triple-point-ventures.md firm profile
+    does NOT exist in data/firms/. Queued for profile creation. Once profile exists,
+    Handshake Seed $3.2M (2026-06-01) should be added with primary citations.
 - slug: glasswing-ventures
   type: firm
   reason: led Enlaye Seed $5M (2026-06-10)
   added: 2026-06-13
   status: unresolvable
   resolved: 2026-06-03
-  resolution_note: "UNRESOLVABLE 2026-06-03 \u2014 glasswing-ventures.md firm profile\
-    \ does NOT exist in data/firms/. Queued for profile creation. Once profile exists,\
-    \ Enlaye Seed $5M (2026-06-10) should be added with primary citations."
+  resolution_note: UNRESOLVABLE 2026-06-03 — glasswing-ventures.md firm profile does
+    NOT exist in data/firms/. Queued for profile creation. Once profile exists, Enlaye
+    Seed $5M (2026-06-10) should be added with primary citations.
 - slug: link-ventures
   type: firm
   reason: co-led Enlaye Seed $5M (2026-06-10)
   added: 2026-06-13
   status: unresolvable
   resolved: 2026-06-03
-  resolution_note: "UNRESOLVABLE 2026-06-03 \u2014 link-ventures.md firm profile does\
-    \ NOT exist in data/firms/. Queued for profile creation. Once profile exists,\
-    \ Enlaye Seed $5M (2026-06-10) co-lead should be added with primary citations."
+  resolution_note: UNRESOLVABLE 2026-06-03 — link-ventures.md firm profile does NOT
+    exist in data/firms/. Queued for profile creation. Once profile exists, Enlaye
+    Seed $5M (2026-06-10) co-lead should be added with primary citations.
 - slug: y-combinator
   type: firm
   reason: participated SyntheticFi $13M (2026-06-09)
   added: 2026-06-13
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 SyntheticFi $13M Venture round (2026-06-09;\
-    \ YC, Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund as\
-    \ syndicate participants, no specific lead identified) added to y-combinator.md\
-    \ portfolio with 3 independent primary citations [^49][^50][^51]: (1) The SaaS\
-    \ News, (2) BusinessWire press release, (3) YC Companies Directory confirming\
-    \ SyntheticFi as S23 batch. Co-founders Tony Yang and Joseph Wang. San Francisco.\
-    \ Total $2B+ regulatory AUM milestone confirmed. Portfolio note remains ~2.1%\
-    \ of YC's 5,668 investments."
+  resolution_note: 'RESOLVED 2026-06-03 — SyntheticFi $13M Venture round (2026-06-09;
+    YC, Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund as syndicate
+    participants, no specific lead identified) added to y-combinator.md portfolio
+    with 3 independent primary citations [^49][^50][^51]: (1) The SaaS News, (2) BusinessWire
+    press release, (3) YC Companies Directory confirming SyntheticFi as S23 batch.
+    Co-founders Tony Yang and Joseph Wang. San Francisco. Total $2B+ regulatory AUM
+    milestone confirmed. Portfolio note remains ~2.1% of YC''s 5,668 investments.'
 - slug: social-leverage
   type: firm
   reason: participated SyntheticFi $13M (2026-06-09)
   added: 2026-06-13
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 SyntheticFi $13M Venture round (2026-06-09;\
-    \ Social Leverage, YC, NextGen VP/Brown Advisory, The Compound Capital Fund as\
-    \ syndicate participants, no specific lead identified) added as follow-on note\
-    \ to existing SyntheticFi Seed 2024 portfolio row with 3 independent primary citations\
-    \ [^17][^18][^19]: (1) The SaaS News, (2) BusinessWire press release, (3) Pulse\
-    \ 2.0. Sector updated to Fintech / RIA Tech."
+  resolution_note: 'RESOLVED 2026-06-03 — SyntheticFi $13M Venture round (2026-06-09;
+    Social Leverage, YC, NextGen VP/Brown Advisory, The Compound Capital Fund as syndicate
+    participants, no specific lead identified) added as follow-on note to existing
+    SyntheticFi Seed 2024 portfolio row with 3 independent primary citations [^17][^18][^19]:
+    (1) The SaaS News, (2) BusinessWire press release, (3) Pulse 2.0. Sector updated
+    to Fintech / RIA Tech.'
 - slug: founders-fund
   type: firm
   reason: led Endurance Energy Series A $54M (2026-06-11)
   added: 2026-06-14
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Endurance Energy Series A $54M (2026-06-11,\
-    \ Founders Fund led; Ascend, Construct Capital, Felicis Ventures, First Round\
-    \ Capital, Point72 Ventures, Riot Ventures, Voyager Ventures participating) already\
-    \ present in founders-fund.md portfolio with TechCrunch citation [^67] (Marina\
-    \ Temkin, June 11, 2026). Re-verified via TechCrunch primary source; investor\
-    \ list matches. No edits needed \u2014 entry was added in a prior sweep."
+  resolution_note: RESOLVED 2026-06-03 — Endurance Energy Series A $54M (2026-06-11,
+    Founders Fund led; Ascend, Construct Capital, Felicis Ventures, First Round Capital,
+    Point72 Ventures, Riot Ventures, Voyager Ventures participating) already present
+    in founders-fund.md portfolio with TechCrunch citation [^67] (Marina Temkin, June
+    11, 2026). Re-verified via TechCrunch primary source; investor list matches. No
+    edits needed — entry was added in a prior sweep.
 - slug: first-round-capital
   type: firm
   reason: participated in Endurance Energy Series A $54M (2026-06-11)
   added: 2026-06-14
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Endurance Energy Series A $54M (2026-06-11,\
-    \ Founders Fund led; First Round Capital + Ascend, Construct Capital, Felicis,\
-    \ Point72 Ventures, Riot Ventures, Voyager Ventures participating) already present\
-    \ in first-round-capital.md portfolio (row at line 136) with TechCrunch citation\
-    \ [^24] (Marina Temkin, June 11, 2026). Re-verified via TechCrunch primary source.\
-    \ No edits needed \u2014 entry was added in a prior sweep."
+  resolution_note: RESOLVED 2026-06-03 — Endurance Energy Series A $54M (2026-06-11,
+    Founders Fund led; First Round Capital + Ascend, Construct Capital, Felicis, Point72
+    Ventures, Riot Ventures, Voyager Ventures participating) already present in first-round-capital.md
+    portfolio (row at line 136) with TechCrunch citation [^24] (Marina Temkin, June
+    11, 2026). Re-verified via TechCrunch primary source. No edits needed — entry
+    was added in a prior sweep.
 - slug: general-catalyst
   type: firm
   reason: participated in Rylo $85M growth round (2026-06-09)
   added: 2026-06-03
   status: resolved
   resolved: 2026-06-03
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Rylo (formerly Nagish) $85M growth\
-    \ round (2026-06-09, co-led by GC Customer Value Fund + Canaan at ~$500M val;\
-    \ Vertex Ventures and Contour participating) added to general-catalyst.md portfolio\
-    \ with 3 independent citations [^74][^75][^76] (BusinessWire/Yahoo press release,\
-    \ Calcalist CTech, fundsforngos.org). Total raised by Rylo now $101M. Startup\
-    \ profile already exists at data/startups/rylo.md."
+  resolution_note: RESOLVED 2026-06-03 — Rylo (formerly Nagish) $85M growth round
+    (2026-06-09, co-led by GC Customer Value Fund + Canaan at ~$500M val; Vertex Ventures
+    and Contour participating) added to general-catalyst.md portfolio with 3 independent
+    citations [^74][^75][^76] (BusinessWire/Yahoo press release, Calcalist CTech,
+    fundsforngos.org). Total raised by Rylo now $101M. Startup profile already exists
+    at data/startups/rylo.md.
 - slug: dawn-capital
   type: firm
-  reason: 'RESOLVED 2026-06-18 — Dawn Capital led Orbio $21M Series A verified via
+  reason: RESOLVED 2026-06-18 — Dawn Capital led Orbio $21M Series A verified via
     3 independent primary sources (TechCrunch 2026-06-14 [^1], Tech.eu 2026-06-15
     [^3], Pulse2). Exact date confirmed as 2026-06-14. Orbio startup profile already
     accurate; added Tech.eu as third citation [^3]. Dawn Capital firm profile does
-    not yet exist — queued for research.'
+    not yet exist — queued for research.
   added: 2026-06-03
   status: resolved
   resolved: 2026-06-18
 - slug: hpi-ventures
   type: firm
-  reason: "co-led Qorelo seed \u20AC3M (2026-06-15)"
+  reason: co-led Qorelo seed €3M (2026-06-15)
   added: 2026-06-03
   status: unresolvable
   resolved: 2026-06-18
-  resolution_note: No firm profile exists for hpi-ventures in data/firms/; mention in qorelo.md table is text-only, nothing to update until profile exists.
+  resolution_note: No firm profile exists for hpi-ventures in data/firms/; mention
+    in qorelo.md table is text-only, nothing to update until profile exists.
 - slug: caesar-ventures
   type: firm
-  reason: "co-led Qorelo seed \u20AC3M (2026-06-15)"
+  reason: co-led Qorelo seed €3M (2026-06-15)
   added: 2026-06-03
   status: unresolvable
   resolved: 2026-06-18
-  resolution_note: No firm profile exists for caesar-ventures in data/firms/; mention in qorelo.md table is text-only, nothing to update until profile exists.
+  resolution_note: No firm profile exists for caesar-ventures in data/firms/; mention
+    in qorelo.md table is text-only, nothing to update until profile exists.
 - slug: bessemer-venture-partners
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Sarvam AI Series B $234M (2026-06-15, HCLTech-led\
-    \ $150M of $300M round, $1.5B valuation) verified via 3 independent primary sources\
-    \ (TechCrunch [^24], BusinessToday [^25], TheNextWeb [^26]). Row added to portfolio\
-    \ table with full citations."
+  reason: RESOLVED 2026-06-03 — Sarvam AI Series B $234M (2026-06-15, HCLTech-led
+    $150M of $300M round, $1.5B valuation) verified via 3 independent primary sources
+    (TechCrunch [^24], BusinessToday [^25], TheNextWeb [^26]). Row added to portfolio
+    table with full citations.
   added: 2026-06-03
   status: resolved
 - slug: khosla-ventures
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Sarvam AI Series B $234M (2026-06-15, HCLTech-led;\
-    \ Khosla named as existing investor) verified via 3 independent primary sources\
-    \ (TechCrunch [^49], BusinessToday [^50], TheNextWeb [^51]). Row added to portfolio\
-    \ table."
+  reason: RESOLVED 2026-06-03 — Sarvam AI Series B $234M (2026-06-15, HCLTech-led;
+    Khosla named as existing investor) verified via 3 independent primary sources
+    (TechCrunch [^49], BusinessToday [^50], TheNextWeb [^51]). Row added to portfolio
+    table.
   added: 2026-06-03
   status: resolved
 - slug: techstars
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Bestie Bite seed $700K (2025-12-03, Techstars\
-    \ led; Zooga VC, Mamba Ventures, angels Christian Marcon/Angelo La Rocca/Claudio\
-    \ Vaccaro participated) verified via 3 independent primary sources (Tech.eu [^18],\
-    \ Vestbee [^19], Startup Weekly [^20]). Rome-based, founded 2024 by Carlotta Robbe\
-    \ Di Lorenzo and Caterina Vertefeuille. Row added to portfolio table."
+  reason: RESOLVED 2026-06-03 — Bestie Bite seed $700K (2025-12-03, Techstars led;
+    Zooga VC, Mamba Ventures, angels Christian Marcon/Angelo La Rocca/Claudio Vaccaro
+    participated) verified via 3 independent primary sources (Tech.eu [^18], Vestbee
+    [^19], Startup Weekly [^20]). Rome-based, founded 2024 by Carlotta Robbe Di Lorenzo
+    and Caterina Vertefeuille. Row added to portfolio table.
   added: 2026-06-03
   status: resolved
 - slug: emergence-capital
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Radical Numerics $50M Seed (2026-06-15) verified\
-    \ via 3 independent primary sources (BusinessWire [^14], Fortune via Yahoo [^15],\
-    \ FinSMEs [^16]). Emergence Capital led; Obvious Ventures, Triatomic Capital,\
-    \ Factory, First Spark Ventures participated. Row added to portfolio with 3 citations."
+  reason: RESOLVED 2026-06-03 — Radical Numerics $50M Seed (2026-06-15) verified via
+    3 independent primary sources (BusinessWire [^14], Fortune via Yahoo [^15], FinSMEs
+    [^16]). Emergence Capital led; Obvious Ventures, Triatomic Capital, Factory, First
+    Spark Ventures participated. Row added to portfolio with 3 citations.
   added: 2026-06-03
   status: resolved
 - slug: obvious-ventures
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 Radical Numerics $50M Seed (2026-06-15, Emergence\
-    \ Capital-led) verified via 3 independent primary sources (BusinessWire [^21],\
-    \ Fortune via Yahoo [^22], FinSMEs [^23]). Obvious Ventures named as participant\
-    \ alongside Triatomic Capital, Factory, First Spark Ventures. Row added to portfolio;\
-    \ Inferred Thesis sample updated from 36 to 37."
+  reason: RESOLVED 2026-06-03 — Radical Numerics $50M Seed (2026-06-15, Emergence
+    Capital-led) verified via 3 independent primary sources (BusinessWire [^21], Fortune
+    via Yahoo [^22], FinSMEs [^23]). Obvious Ventures named as participant alongside
+    Triatomic Capital, Factory, First Spark Ventures. Row added to portfolio; Inferred
+    Thesis sample updated from 36 to 37.
   added: 2026-06-03
   status: resolved
 - slug: patrick-collison
   type: investor
-  reason: "RESOLVED 2026-06-03 \u2014 Patrick Collison confirmed pre-seed investor\
-    \ in Radical Numerics (prior to 2026-06-15 $50M Seed) via 3 independent primary\
-    \ sources (BusinessWire [^28], Fortune via Yahoo [^29], FinSMEs [^30]). Pre-seed\
-    \ row added; LVI unchanged (Drafted Seed 2026-05-29 is more recent with confirmed\
-    \ date)."
+  reason: RESOLVED 2026-06-03 — Patrick Collison confirmed pre-seed investor in Radical
+    Numerics (prior to 2026-06-15 $50M Seed) via 3 independent primary sources (BusinessWire
+    [^28], Fortune via Yahoo [^29], FinSMEs [^30]). Pre-seed row added; LVI unchanged
+    (Drafted Seed 2026-05-29 is more recent with confirmed date).
   added: 2026-06-03
   status: resolved
 - slug: index-ventures
   type: firm
-  reason: "RESOLVED 2026-06-03 \u2014 NewCore $66M total (2026-06-15) verified via\
-    \ 3 independent primary sources (Calcalistech CTech [^58], TheNextWeb [^59], SiliconANGLE\
-    \ [^60]). Index Ventures co-led $16M pre-seed with Cyberstarts; expanded seed\
-    \ led by Evolution Equity Partners brought total to $66M at $300M valuation. Row\
-    \ added to portfolio."
+  reason: RESOLVED 2026-06-03 — NewCore $66M total (2026-06-15) verified via 3 independent
+    primary sources (Calcalistech CTech [^58], TheNextWeb [^59], SiliconANGLE [^60]).
+    Index Ventures co-led $16M pre-seed with Cyberstarts; expanded seed led by Evolution
+    Equity Partners brought total to $66M at $300M valuation. Row added to portfolio.
   added: 2026-06-03
   status: resolved
 - slug: assaf-rappaport
   type: investor
-  reason: "RESOLVED 2026-06-03 \u2014 NewCore $66M (2026-06-15, Index/Cyberstarts\
-    \ pre-seed co-leads, Evolution Equity Partners-led expanded seed) verified via\
-    \ 3 independent primary sources (Calcalistech CTech [^27], TheNextWeb [^28], SiliconANGLE\
-    \ [^29]). Rappaport confirmed as angel in expanded seed. Row added; LVI updated\
-    \ from A Security 2026-06-08 to NewCore 2026-06-15."
+  reason: RESOLVED 2026-06-03 — NewCore $66M (2026-06-15, Index/Cyberstarts pre-seed
+    co-leads, Evolution Equity Partners-led expanded seed) verified via 3 independent
+    primary sources (Calcalistech CTech [^27], TheNextWeb [^28], SiliconANGLE [^29]).
+    Rappaport confirmed as angel in expanded seed. Row added; LVI updated from A Security
+    2026-06-08 to NewCore 2026-06-15.
   added: 2026-06-03
   status: resolved
 - slug: yotam-segev
   type: investor
-  reason: "RESOLVED 2026-06-03 \u2014 NewCore $66M (2026-06-15, Index/Cyberstarts\
-    \ pre-seed co-leads, Evolution Equity Partners-led expanded seed) verified via\
-    \ 3 independent primary sources (Calcalistech CTech [^18], TheNextWeb [^19], SiliconANGLE\
-    \ [^20]). Segev confirmed as angel in expanded seed. Row added; LVI updated from\
-    \ A Security 2026-06-08 to NewCore 2026-06-15."
+  reason: RESOLVED 2026-06-03 — NewCore $66M (2026-06-15, Index/Cyberstarts pre-seed
+    co-leads, Evolution Equity Partners-led expanded seed) verified via 3 independent
+    primary sources (Calcalistech CTech [^18], TheNextWeb [^19], SiliconANGLE [^20]).
+    Segev confirmed as angel in expanded seed. Row added; LVI updated from A Security
+    2026-06-08 to NewCore 2026-06-15.
   added: 2026-06-03
   status: resolved
 - slug: andreessen-horowitz
@@ -1634,16 +1602,15 @@ priority:
     Construct Capital-led). Verify portfolio table includes new row.
   added: 2026-06-03
   status: resolved
-  resolution_note: "RESOLVED 2026-06-03 \u2014 Podium Automation $18M Series A (2026-06-15,\
-    \ Construct Capital led; Andreessen Horowitz, Transition Ventures, Sunflower Capital,\
-    \ Banter Capital participated) added to andreessen-horowitz.md portfolio with\
-    \ 3 independent primary citations: (1) PR Newswire press release [^70] confirming\
-    \ all participants and Dayna Grayson board seat; (2) AlleyWatch Daily Funding\
-    \ Report 6/15/2026 [^71] independently confirming round details and co-investors;\
-    \ (3) Mann Report [^72] independently confirming. Brooklyn-based industrial automation;\
-    \ total funding now $23M+. Investor profiles for biz-stone and aaron-levie do\
-    \ not exist in repo \u2014 sweep skipped per CLAUDE.md (only resolve facts in\
-    \ existing profiles)."
+  resolution_note: 'RESOLVED 2026-06-03 — Podium Automation $18M Series A (2026-06-15,
+    Construct Capital led; Andreessen Horowitz, Transition Ventures, Sunflower Capital,
+    Banter Capital participated) added to andreessen-horowitz.md portfolio with 3
+    independent primary citations: (1) PR Newswire press release [^70] confirming
+    all participants and Dayna Grayson board seat; (2) AlleyWatch Daily Funding Report
+    6/15/2026 [^71] independently confirming round details and co-investors; (3) Mann
+    Report [^72] independently confirming. Brooklyn-based industrial automation; total
+    funding now $23M+. Investor profiles for biz-stone and aaron-levie do not exist
+    in repo — sweep skipped per CLAUDE.md (only resolve facts in existing profiles).'
 - slug: andreessen-horowitz
   type: firm
   reason: appeared as sole lead in Probably $9M seed (2026-06-16). Verify portfolio
@@ -1651,31 +1618,34 @@ priority:
   added: 2026-06-03
   status: unresolvable
   resolved: 2026-06-03
-  resolution_note: "UNRESOLVABLE 2026-06-03 \u2014 Only 1 primary source available\
-    \ (TechCrunch, 2026-06-16, https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/)\
-    \ \u2014 insufficient verification per 3-source rule. No corroborating BusinessWire/PR\
-    \ Newswire press release, no a16z announcement post, no second-tier press article\
-    \ found via WebSearch. Existing probably.md startup profile retains TechCrunch\
-    \ citation but row was NOT added to andreessen-horowitz.md portfolio pending additional\
-    \ sourcing. Re-investigate if a16z publishes an investing announcement post or\
-    \ if a second outlet publishes original reporting (opinionmondiale.com syndication\
-    \ does not count)."
+  resolution_note: UNRESOLVABLE 2026-06-03 — Only 1 primary source available (TechCrunch,
+    2026-06-16, https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/)
+    — insufficient verification per 3-source rule. No corroborating BusinessWire/PR
+    Newswire press release, no a16z announcement post, no second-tier press article
+    found via WebSearch. Existing probably.md startup profile retains TechCrunch citation
+    but row was NOT added to andreessen-horowitz.md portfolio pending additional sourcing.
+    Re-investigate if a16z publishes an investing announcement post or if a second
+    outlet publishes original reporting (opinionmondiale.com syndication does not
+    count).
 - slug: andreessen-horowitz
   type: firm
   reason: round-feed touched 2026-06-03 (Probably verification investigation)
   added: 2026-06-03
   status: unresolvable
   resolved: 2026-06-03
-  resolution_note: "UNRESOLVABLE 2026-06-03 — Probably $9M seed sourcing exhausted at 2 primary sources (TechCrunch + The SaaS News). Duplicate of entry above marked unresolvable. No additional independent reporting found; a16z has not published an investing post. Re-investigate if more outlets surface."
+  resolution_note: UNRESOLVABLE 2026-06-03 — Probably $9M seed sourcing exhausted
+    at 2 primary sources (TechCrunch + The SaaS News). Duplicate of entry above marked
+    unresolvable. No additional independent reporting found; a16z has not published
+    an investing post. Re-investigate if more outlets surface.
 - slug: githits
   type: startup
-  reason: "new round-feed profile created 2026-06-16 (\u20AC1.5M pre-seed, Vendep\
-    \ Capital led)"
+  reason: new round-feed profile created 2026-06-16 (€1.5M pre-seed, Vendep Capital
+    led)
   added: 2026-06-03
 - slug: gate2brain
   type: startup
-  reason: "new round-feed profile created 2026-06-16 (\u20AC7M Shilpa Biocare strategic\
-    \ investment)"
+  reason: new round-feed profile created 2026-06-16 (€7M Shilpa Biocare strategic
+    investment)
   added: 2026-06-03
 - slug: khosla-ventures
   type: firm
@@ -1683,171 +1653,243 @@ priority:
   added: '2026-06-18'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Verified Khosla Ventures led Pramaana Labs $27M seed (2026-06-17) with Accel, BoldCap, Nexus Venture Partners, Premji Invest, and Unbound participating. Three independent primary sources (TechCrunch, Yahoo Finance/Newswire, Crypto Briefing; cross-ref TechTimes). Palo Alto/SF-based, founded 2025 by IIT Madras alumni Ranjan Rajagopalan, Krishnan Raghavan, Sanjay Ganapathy. LEAN formal-verification layer on top of LLMs for law, tax, drug discovery. Row added to khosla-ventures.md with citations [^52][^53][^54].
+  resolution_note: Verified Khosla Ventures led Pramaana Labs $27M seed (2026-06-17)
+    with Accel, BoldCap, Nexus Venture Partners, Premji Invest, and Unbound participating.
+    Three independent primary sources (TechCrunch, Yahoo Finance/Newswire, Crypto
+    Briefing; cross-ref TechTimes). Palo Alto/SF-based, founded 2025 by IIT Madras
+    alumni Ranjan Rajagopalan, Krishnan Raghavan, Sanjay Ganapathy. LEAN formal-verification
+    layer on top of LLMs for law, tax, drug discovery. Row added to khosla-ventures.md
+    with citations [^52][^53][^54].
 - slug: accel
   type: firm
   reason: participated in Pramaana Labs Seed (2026-06-17)
   added: '2026-06-18'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Verified Accel participated in Pramaana Labs $27M seed (2026-06-17, Khosla Ventures led) via three independent sources (TechCrunch, Yahoo Finance, Crypto Briefing). Row added to accel.md portfolio with citations [^99][^100][^101].
+  resolution_note: Verified Accel participated in Pramaana Labs $27M seed (2026-06-17,
+    Khosla Ventures led) via three independent sources (TechCrunch, Yahoo Finance,
+    Crypto Briefing). Row added to accel.md portfolio with citations [^99][^100][^101].
 - slug: index-ventures
   type: firm
   reason: co-led Conduct Series A ($60M, 2026-06-17)
   added: '2026-06-18'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Verified Index Ventures co-led Conduct $60M Series A (2026-06-17) with ICONIQ; SAP strategic investment; existing investors Creandum, Lucid Capital, Booom participated. Total funding to $72M. Three independent sources (Yahoo Finance/Newswire, TheNextWeb, The SaaS News). Founded 2026 by ex-Palantir execs Jan Philipp Haas (CEO), Philipp Hoefer, Henry Thompson. AI operating system for enterprise software (SAP, Salesforce, Oracle, MES, WMS). Row added to index-ventures.md with citations [^61][^62][^63].
+  resolution_note: Verified Index Ventures co-led Conduct $60M Series A (2026-06-17)
+    with ICONIQ; SAP strategic investment; existing investors Creandum, Lucid Capital,
+    Booom participated. Total funding to $72M. Three independent sources (Yahoo Finance/Newswire,
+    TheNextWeb, The SaaS News). Founded 2026 by ex-Palantir execs Jan Philipp Haas
+    (CEO), Philipp Hoefer, Henry Thompson. AI operating system for enterprise software
+    (SAP, Salesforce, Oracle, MES, WMS). Row added to index-ventures.md with citations
+    [^61][^62][^63].
 - slug: iconiq-growth
   type: firm
   reason: co-led Conduct Series A ($60M, 2026-06-17)
   added: '2026-06-18'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Verified ICONIQ co-led Conduct $60M Series A (2026-06-17) with Index Ventures. TheNextWeb specifically notes ICONIQ "rarely does early-stage deals" -- significance for an early-stage co-lead. SAP strategic; Creandum, Lucid Capital, Booom participated. Three independent sources. Row added to iconiq-growth.md with citations [^46][^47][^48].
+  resolution_note: Verified ICONIQ co-led Conduct $60M Series A (2026-06-17) with
+    Index Ventures. TheNextWeb specifically notes ICONIQ "rarely does early-stage
+    deals" -- significance for an early-stage co-lead. SAP strategic; Creandum, Lucid
+    Capital, Booom participated. Three independent sources. Row added to iconiq-growth.md
+    with citations [^46][^47][^48].
 - slug: creandum
   type: firm
   reason: participated in Conduct Series A (2026-06-17)
   added: '2026-06-18'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Verified Creandum participated as existing investor in Conduct $60M Series A (2026-06-17, co-led by Index Ventures and ICONIQ; SAP strategic). Three independent sources (Yahoo Finance, TheNextWeb, The SaaS News). Row added to creandum.md portfolio with citations [^32][^33][^34].
+  resolution_note: Verified Creandum participated as existing investor in Conduct
+    $60M Series A (2026-06-17, co-led by Index Ventures and ICONIQ; SAP strategic).
+    Three independent sources (Yahoo Finance, TheNextWeb, The SaaS News). Row added
+    to creandum.md portfolio with citations [^32][^33][^34].
 - slug: acme-capital
   type: firm
   reason: resolved Canopy Series B fact (2026-01-08)
   added: '2026-06-18'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Canopy Series B already verified and present in acme-capital.md portfolio (5 references). No further action required.
+  resolution_note: Canopy Series B already verified and present in acme-capital.md
+    portfolio (5 references). No further action required.
 - slug: insight-partners
   type: firm
   reason: led Gradial Series C $65M (2026-06-18)
   added: '2026-06-03'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Gradial Series C ($65M, 2026-06-18, $675M val) verified across 3+ independent sources (Axios, GeekWire, SiliconANGLE). Row added to insight-partners.md portfolio with citations [^48][^49][^50].
+  resolution_note: Gradial Series C ($65M, 2026-06-18, $675M val) verified across
+    3+ independent sources (Axios, GeekWire, SiliconANGLE). Row added to insight-partners.md
+    portfolio with citations [^48][^49][^50].
 - slug: madrona-venture-group
   type: firm
   reason: participated in Gradial Series C $65M (2026-06-18)
   added: '2026-06-03'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Madrona's participation in Gradial Series C verified by Axios and GeekWire (June 18, 2026). Row added to madrona-venture-group.md portfolio with citations [^77][^78].
+  resolution_note: Madrona's participation in Gradial Series C verified by Axios and
+    GeekWire (June 18, 2026). Row added to madrona-venture-group.md portfolio with
+    citations [^77][^78].
 - slug: thrive-capital
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Thrive Capital participation in XDOF $70M stealth launch verified by SiliconANGLE and The AI Insider. Row added to thrive-capital.md portfolio with citations [^55][^56].
+  resolution_note: Thrive Capital participation in XDOF $70M stealth launch verified
+    by SiliconANGLE and The AI Insider. Row added to thrive-capital.md portfolio with
+    citations [^55][^56].
 - slug: spark-capital
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Spark Capital participation in XDOF $70M stealth launch verified by SiliconANGLE and The AI Insider. Row added to spark-capital.md portfolio with citations [^55][^56].
+  resolution_note: Spark Capital participation in XDOF $70M stealth launch verified
+    by SiliconANGLE and The AI Insider. Row added to spark-capital.md portfolio with
+    citations [^55][^56].
 - slug: andreessen-horowitz
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: a16z participation in XDOF $70M verified by SiliconANGLE and The AI Insider. Also added Convey Series A ($38M lead, 2026-06-17) verified by SiliconANGLE, Finsmes, Just AI News. Both rows added to andreessen-horowitz.md portfolio.
+  resolution_note: a16z participation in XDOF $70M verified by SiliconANGLE and The
+    AI Insider. Also added Convey Series A ($38M lead, 2026-06-17) verified by SiliconANGLE,
+    Finsmes, Just AI News. Both rows added to andreessen-horowitz.md portfolio.
 - slug: lux-capital
   type: firm
   reason: participated in XDOF $70M stealth launch (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolution_date: '2026-06-03'
-  resolution_note: Lux Capital participation in XDOF $70M stealth launch verified by SiliconANGLE and The AI Insider. Row added to lux-capital.md portfolio with citations [^22][^23].
+  resolution_note: Lux Capital participation in XDOF $70M stealth launch verified
+    by SiliconANGLE and The AI Insider. Row added to lux-capital.md portfolio with
+    citations [^22][^23].
 - slug: verse
   type: startup
   reason: new profile created from Series B $54M (2026-06-18)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Profile published with stage_latest Series B, total_raised $54M+, citations for Bessemer (lead) + GV participation. No further verification needed.
+  resolution_note: Profile published with stage_latest Series B, total_raised $54M+,
+    citations for Bessemer (lead) + GV participation. No further verification needed.
 - slug: convey
   type: startup
   reason: new profile created from Series A $38M (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Profile published with stage_latest Series A, total_raised $38M+, citations for Khosla + Pear participation. No further verification needed.
+  resolution_note: Profile published with stage_latest Series A, total_raised $38M+,
+    citations for Khosla + Pear participation. No further verification needed.
 - slug: bessemer-venture-partners
   type: firm
   reason: led Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Verse Series B row already present in bessemer-venture-partners.md portfolio (4 references). Added in prior sweep.
+  resolution_note: Verse Series B row already present in bessemer-venture-partners.md
+    portfolio (4 references). Added in prior sweep.
 - slug: gv
   type: firm
   reason: participated in Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Verse Series B row already present in gv.md portfolio (4 references). Added in prior sweep.
+  resolution_note: Verse Series B row already present in gv.md portfolio (4 references).
+    Added in prior sweep.
 - slug: khosla-ventures
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Convey Series A row already present in khosla-ventures.md portfolio (4 references). Added in prior sweep.
+  resolution_note: Convey Series A row already present in khosla-ventures.md portfolio
+    (4 references). Added in prior sweep.
 - slug: pear-vc
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Convey Series A row already present in pear-vc.md portfolio (4 references). Added in prior sweep.
+  resolution_note: Convey Series A row already present in pear-vc.md portfolio (4
+    references). Added in prior sweep.
 - slug: trace-finance
   type: startup
   reason: new profile created from Series A $32M (2026-06-17, CoinFund led)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Profile published with stage_latest Series A, total_raised $32M+, CoinFund lead recorded. No further verification needed.
+  resolution_note: Profile published with stage_latest Series A, total_raised $32M+,
+    CoinFund lead recorded. No further verification needed.
 - slug: critical-energy
   type: startup
   reason: new profile created from Seed $19M (2026-06-18, Susa + Upfront led)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Profile published with stage_latest Seed, total_raised $22M, Susa + Upfront co-leads recorded. No further verification needed.
+  resolution_note: Profile published with stage_latest Seed, total_raised $22M, Susa
+    + Upfront co-leads recorded. No further verification needed.
 - slug: boolsi
   type: startup
   reason: new profile created from Seed $6M (2026-06-18, Fine Structure Ventures led)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Profile published with stage_latest Seed, total_raised $6M, Fine Structure Ventures lead recorded. No further verification needed.
+  resolution_note: Profile published with stage_latest Seed, total_raised $6M, Fine
+    Structure Ventures lead recorded. No further verification needed.
 - slug: cargofy
   type: startup
-  reason: new profile created from Series A $6M (2026-06-18, u.ventures + Toloka + Movens led)
+  reason: new profile created from Series A $6M (2026-06-18, u.ventures + Toloka +
+    Movens led)
   added: '2026-06-03'
 - slug: coinfund
   type: firm
   reason: led Trace Finance Series A $32M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Verified CoinFund led Trace Finance $32M Series A (2026-06-17).
+    Added portfolio row to coinfund.md with 3 primary citations [^57][^58][^59] (BusinessWire
+    press release, news.bitcoin.com, The SaaS News).
 - slug: haun-ventures
   type: firm
   reason: participated in Trace Finance Series A $32M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Verified Haun Ventures participated in Trace Finance $32M Series
+    A (2026-06-17). Added portfolio row to haun-ventures.md with 3 primary citations
+    [^72][^73][^74].
 - slug: fj-labs
   type: firm
   reason: participated in Trace Finance Series A $32M (2026-06-17)
   added: '2026-06-03'
+  status: unresolvable
+  resolved: '2026-06-03'
+  resolution_note: FJ Labs is NOT listed as a participant in the Trace Finance $32M
+    Series A per BusinessWire primary press release (June 17, 2026) and 2+ independent
+    sources (news.bitcoin.com, The SaaS News). The participant list is CoinFund (lead),
+    Coinbase Ventures, Haun Ventures, Jump Crypto, Valor Capital, Paxos, HOF Capital,
+    Chainlink Labs, SNZ Capital, plus angels. Likely a prior agent error. No portfolio
+    row added.
 - slug: upfront-ventures
   type: firm
   reason: co-led Critical Energy Seed $19M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Verified Upfront Ventures co-led Critical Energy $19M seed (2026-06-17)
+    alongside Susa Ventures. Added portfolio row to upfront-ventures.md with 3 primary
+    citations [^40][^41][^42] (The Next Web, Mezha, Think GeoEnergy).
 - slug: mac-venture-capital
   type: firm
   reason: participated in Critical Energy Seed $19M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Verified MaC Venture Capital participated in Critical Energy $19M
+    seed (2026-06-17). Added portfolio row to mac-venture-capital.md with 3 primary
+    citations [^27][^28][^29] (The Next Web, Business Model Analyst, Mezha).
 - slug: birchway-capital
   type: firm
   reason: led Festina Finance €25M+ growth round (2026-06-19)
@@ -1858,28 +1900,32 @@ priority:
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Duplicate of earlier Verse Series B entry. Row already present in bessemer-venture-partners.md portfolio (4 references).
+  resolution_note: Duplicate of earlier Verse Series B entry. Row already present
+    in bessemer-venture-partners.md portfolio (4 references).
 - slug: gv
   type: firm
   reason: participated in Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Duplicate of earlier Verse Series B entry. Row already present in gv.md portfolio (4 references).
+  resolution_note: Duplicate of earlier Verse Series B entry. Row already present
+    in gv.md portfolio (4 references).
 - slug: khosla-ventures
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Duplicate of earlier Convey Series A entry. Row already present in khosla-ventures.md portfolio (4 references).
+  resolution_note: Duplicate of earlier Convey Series A entry. Row already present
+    in khosla-ventures.md portfolio (4 references).
 - slug: pear-vc
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
   status: resolved
   resolved: '2026-06-03'
-  resolution_note: Duplicate of earlier Convey Series A entry. Row already present in pear-vc.md portfolio (4 references).
+  resolution_note: Duplicate of earlier Convey Series A entry. Row already present
+    in pear-vc.md portfolio (4 references).
 - slug: klipy
   type: startup
   reason: new Seed $3.8M with Google AI Futures Fund (2026-06-17)
@@ -1887,4 +1933,28 @@ priority:
 - slug: turbo-law
   type: startup
   reason: new Seed $3.8M led by Revo Capital (2026-06-18)
+  added: '2026-06-03'
+- slug: somareality
+  type: startup
+  reason: New profile for SOMAREALITY €3M Series A (2026-06-18)
+  added: '2026-06-03'
+- slug: adomate
+  type: startup
+  reason: New profile for Adomate €1.4M Seed (2026-06-19)
+  added: '2026-06-03'
+- slug: coinfund
+  type: firm
+  reason: led Trace Finance $32M Series A (2026-06-17) — portfolio updated
+  added: '2026-06-03'
+- slug: haun-ventures
+  type: firm
+  reason: participated in Trace Finance $32M Series A (2026-06-17) — portfolio updated
+  added: '2026-06-03'
+- slug: upfront-ventures
+  type: firm
+  reason: co-led Critical Energy $19M Seed (2026-06-17) — portfolio updated
+  added: '2026-06-03'
+- slug: mac-venture-capital
+  type: firm
+  reason: participated in Critical Energy $19M Seed (2026-06-17) — portfolio updated
   added: '2026-06-03'

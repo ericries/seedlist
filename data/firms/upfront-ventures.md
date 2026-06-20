@@ -144,6 +144,7 @@ This table represents approximately 17% of the firm's 200+ known investments.
 | Keragon | Seed | 2025 | Healthcare / automation | [^34] |
 | Reveleer | Series A | ~2018 | Healthcare / AI | [^35] |
 | Arcade | Seed | 2022 | Product demos / SaaS | [^34] |
+| Critical Energy | Seed (co-led, $19M) | 2026-06-17 | Modular geothermal turbines | [^40][^41][^42] |
 
 ## In Their Own Words
 
@@ -217,3 +218,9 @@ No additional independently sourced founder testimonials found beyond the Dayton
 [^38]: "Density raises $4 million to track crowds at the DMV, theme parks and corporate campuses," TechCrunch, July 27, 2016. Accessed May 2026. https://techcrunch.com/2016/07/27/density-series-a/ — $4M Series A led by Upfront Ventures (Mark Suster) with participation from Ludlow Ventures, Jason Calacanis, Dawn Patrol, Hiten Shah, and Arjun Sethi.
 
 [^39]: "Daytona Secures $5M to Simplify Development Environments," PR Newswire, June 25, 2024. Accessed May 2026. https://www.prnewswire.com/news-releases/daytona-secures-5m-to-simplify-development-environments-302181407.html — $5M seed round led by Upfront Ventures with participation from existing investor 500 EE/500 Global.
+
+[^40]: The Next Web, "Critical Energy raises $22M for factory-built geothermal," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/critical-energy-22-million-modular-geothermal-turbines — Confirms $19M seed (plus $3M venture debt from SVB) co-led by Susa Ventures and Upfront Ventures, with MaC Venture Capital, Susquehanna Sustainable Investments, Humba Ventures, Scribble Ventures, and Underground Ventures participating. Founded by ex-SpaceX engineer Spencer Jackson.
+
+[^41]: Mezha, "Critical Energy raises $19M seed to build modular geothermal turbines," June 2026. Accessed June 2026. https://mezha.net/eng/bukvy/9c01ba4f_critical_energy_raises/ — Independent confirmation of $19M seed co-led by Susa Ventures and Upfront Ventures.
+
+[^42]: Think GeoEnergy, "Critical Energy raises $22m seed funding for modular geothermal power plants," June 2026. Accessed June 2026. https://www.thinkgeoenergy.com/critical-energy-raises-22m-seed-funding-for-modular-geothermal-power-plants/ — Independent industry trade confirmation of co-lead by Susa Ventures and Upfront Ventures.

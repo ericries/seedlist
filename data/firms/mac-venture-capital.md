@@ -95,6 +95,7 @@ Based on MaC Venture Capital's verified portfolio, the firm operates as a genera
 | Aeon | Seed | 2021 | AI | Active | [^7] |
 | Flexport | Seed | 2014 | Logistics | Active | [^11][^25] |
 | Caffeine | Venture | 2018 | Media/Streaming | Shut down (2024) | [^11][^26] |
+| Critical Energy | Seed (participated, $19M) | 2026-06-17 | Geothermal / energy | Active | [^27][^28][^29] |
 
 *This table represents approximately 20 of MaC's 100+ investments. Note: Some investments (MongoDB, Thrive Market, Flexport, Caffeine) may have been made via predecessor funds Cross Culture Ventures or M Ventures prior to MaC's 2019 formation [^7][^11].*
 
@@ -146,3 +147,6 @@ Armando Diaz of Purestream said: "After one of my first conversations with Marlo
 [^24]: AfroTech, "Former Twitter Employees Raise $2.75M In A Pre-Seed Round For Spill," January 2023. https://afrotech.com/former-twitter-employees-spill-social-media-app
 [^25]: Crunchbase, "Seed Round — Flexport," February 2014. https://www.crunchbase.com/funding_round/flexport-seed--8e048eff
 [^26]: Variety, "Ex-Apple TV Execs Have Raised $46 Million for Live-Broadcasting Startup Caffeine," January 2018. https://variety.com/2018/digital/news/caffeine-apple-tv-execs-funding-live-broadcasting-1202682809/
+[^27]: The Next Web, "Critical Energy raises $22M for factory-built geothermal," June 17, 2026, accessed June 2026. https://thenextweb.com/news/critical-energy-22-million-modular-geothermal-turbines — Lists MaC Venture Capital as participant alongside Susquehanna Sustainable Investments, Humba Ventures, Scribble Ventures, and Underground Ventures in the $19M seed co-led by Susa Ventures and Upfront Ventures.
+[^28]: Business Model Analyst, "SpaceX alum raised $22M to mass-produce geothermal turbines," June 2026, accessed June 2026. https://businessmodelanalyst.com/critical-energy-geothermal-turbines-22m/ — Independent confirmation of MaC Venture Capital participation.
+[^29]: Mezha, "Critical Energy raises $19M seed to build modular geothermal turbines," June 2026, accessed June 2026. https://mezha.net/eng/bukvy/9c01ba4f_critical_energy_raises/ — Independent confirmation of MaC Venture Capital participation in the $19M seed.
