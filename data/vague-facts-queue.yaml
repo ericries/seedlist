@@ -159643,7 +159643,8 @@ vague_facts:
   line: '| Swave Photonics | Seed | 2023 | Semiconductors | [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: "Confirmed seed round announcement date 2023-06-22 via Swave Photonics press release and PR Newswire. Updated to 2023-06-22 with citations [^23][^24]."
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Corintis

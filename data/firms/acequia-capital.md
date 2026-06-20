@@ -131,7 +131,7 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | Atomic Industries | Seed | ~2021 | Manufacturing | [^12] |
 | Ethos Space | Seed | ~2022 | Aerospace | [^12] |
 | Blockstream | Seed | 2014 | Blockchain / Infrastructure | [^12] |
-| Swave Photonics | Seed | 2023 | Semiconductors | [^12] |
+| Swave Photonics | Seed | 2023-06-22 | Semiconductors | [^12][^23][^24] |
 | Corintis | Series A | 2025-09-25 | Infrastructure | [^6][^17][^18][^19] |
 | Wish | Seed | 2011 | E-Commerce | [^12][^13] |
 | OpenCare | Seed | ~2015 | Healthcare Marketplace | [^12] |
@@ -199,3 +199,5 @@ No independently sourced founder testimonials found. The firm's website and publ
 [^20]: TechCrunch, "Supernormal raises $10M to automatically transcribe and summarize meetings," January 25, 2023. Accessed June 2026. https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/
 [^21]: Balderton Capital, "AI note-taking platform Supernormal raises $10 million," January 26, 2023. Accessed June 2026. https://www.balderton.com/news/supernormal-raises-10-million-to-transform-worker-productivity-and-transparency-with-ai-generated-meeting-notes/
 [^22]: Voicebot.ai, "Generative AI Startup Supernormal Raises $10M to Take Meeting Notes With GPT-3," January 26, 2023. Accessed June 2026. https://voicebot.ai/2023/01/26/generative-ai-startup-supernormal-raises-10m-to-take-meeting-notes-with-gpt-3/
+[^23]: Swave Photonics, "Swave Photonics Secures €10M Seed Funding Round to Develop Holographic Augmented Reality," June 22, 2023. Accessed June 2026. https://swave.io/swave-photonics-secures-e10m-seed-funding-round-to-develop-holographic-augmented-reality/
+[^24]: PR Newswire, "Swave Photonics Secures €10M Seed Funding Round to Develop Holographic Augmented Reality," June 22, 2023. Accessed June 2026. https://www.prnewswire.com/news-releases/swave-photonics-secures-10m-seed-funding-round-to-develop-holographic-augmented-reality-301856012.html
