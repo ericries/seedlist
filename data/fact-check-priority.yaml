@@ -1819,3 +1819,27 @@ priority:
   type: firm
   reason: led Festina Finance €25M+ growth round (2026-06-19)
   added: '2026-06-03'
+- slug: bessemer-venture-partners
+  type: firm
+  reason: led Verse Series B $54M (2026-06-18)
+  added: '2026-06-03'
+- slug: gv
+  type: firm
+  reason: participated in Verse Series B $54M (2026-06-18)
+  added: '2026-06-03'
+- slug: khosla-ventures
+  type: firm
+  reason: participated in Convey Series A $38M (2026-06-17)
+  added: '2026-06-03'
+- slug: pear-vc
+  type: firm
+  reason: participated in Convey Series A $38M (2026-06-17)
+  added: '2026-06-03'
+- slug: klipy
+  type: startup
+  reason: new Seed $3.8M with Google AI Futures Fund (2026-06-17)
+  added: '2026-06-03'
+- slug: turbo-law
+  type: startup
+  reason: new Seed $3.8M led by Revo Capital (2026-06-18)
+  added: '2026-06-03'
