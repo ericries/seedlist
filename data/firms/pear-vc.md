@@ -147,6 +147,7 @@ Based on 17 verified portfolio investments, the following patterns emerge. Note:
 | Counsel Health | Seed | 2024 | Healthcare | Active | [^24] |
 | Dealops | Seed | 2025 | Enterprise SaaS | Active | [^25] |
 | Series | Pre-Seed | 2026 | AI / Social | Active | [^26] |
+| Convey | Series A (participated, $38M; a16z led; Khosla Ventures also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Active | [^convey1][^convey2][^convey3] |
 
 Note: This table represents approximately 7% of 260+ claimed investments. All dates have been verified against Crunchbase funding round records and primary announcement sources, except Listen Labs (~2022) which remains approximate.
 
@@ -197,3 +198,9 @@ William Ross, CEO of Federato, has stated: "The extended Pear team has always be
 [^27]: Fortune, "Veteran angel raises new $40 million venture fund," April 3, 2014. https://fortune.com/2014/04/03/veteran-angel-raises-new-40-million-venture-fund/
 [^28]: TechCrunch, "Pejman Mar rebrands as it unveils a $75 million new fund," August 16, 2016. https://techcrunch.com/2016/08/16/pejman-mar-rebrands-as-it-unveils-a-75-million-new-fund/
 [^29]: Pear VC blog (Medium), "We raised $160M to partner with founders at ground zero," December 10, 2019. https://medium.com/@pearvc/we-raised-160m-to-partner-with-founders-at-ground-zero-3de0ab3054fd
+
+[^convey1]: SiliconANGLE, "Convey closes on $38M round to help companies automate repetitive work with AI teammates," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/convey-closes-38m-funding-round-help-companies-automate-repetitive-work-ai-teammates/ — Confirms Andreessen Horowitz led Convey's $38M Series A on June 17, 2026 with continued participation from Khosla Ventures and Pear VC.
+
+[^convey2]: Finsmes, "Convey Raises $38M in Series A Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/convey-raises-38m-in-series-a-funding.html — Independent confirmation Pear VC participated in the $38M Series A.
+
+[^convey3]: Morningstar / BusinessWire, "Convey Raises $38 Million Series A Led by Andreessen Horowitz to Automate Enterprise Operations with AI Teammates," June 17, 2026. Accessed June 2026. https://www.morningstar.com/news/business-wire/20260617486214/convey-raises-38-million-series-a-led-by-andreessen-horowitz-to-automate-enterprise-operations-with-ai-teammates — Third independent confirmation of Pear VC's participation.

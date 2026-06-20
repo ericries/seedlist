@@ -129,6 +129,7 @@ Based on GV's verified portfolio and public data:
 | MokN | Series A (led, €12.9M / $15M) | 2026-05-28 | Cybersecurity / Credential Theft / Identity | Private [^22] |
 | Flourish | Venture (co-led with Lux Capital, $500M at $2.5B post-money) | 2026-06-04 | AI / Neuroscience / Connectomics | Private [^flourish1][^flourish2][^flourish3] |
 | Contraline | Series B (participated; BVF Partners and RA Capital Management co-led, $92.5M) | 2026-06-02 | Life Sciences / Male Contraceptive / Biopharma | Private [^contraline1][^contraline2][^contraline3] |
+| Verse | Series B (participated; Bessemer led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | Private [^verse1][^verse2][^verse3] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -191,3 +192,9 @@ No independently sourced founder testimonials found.
 
 [^harvey1]: Harvey, "Harvey Raises Series C from Google Ventures, OpenAI, Kleiner Perkins, Sequoia Capital, Elad Gil, and SV Angel," July 23, 2024. Accessed June 2026. https://www.harvey.ai/blog/harvey-raises-series-c — Harvey's own announcement confirming GV (Google Ventures) led the $100M Series C on July 23, 2024 at $1.5B valuation.
 [^harvey2]: CNBC, "Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies," March 25, 2026. Accessed June 2026. https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html — Confirms $11B valuation as of March 25, 2026.
+
+[^verse1]: GlobeNewswire, "Verse Raises $54M and Launches 'Dispatch Intelligence' to Accelerate Speed to Power for Data Center Developers in Partnership with Calibrant Energy," June 18, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/18/3314243/0/en/Verse-Raises-54M-and-Launches-Dispatch-Intelligence-to-Accelerate-Speed-to-Power-for-Data-Center-Developers-in-Partnership-with-Calibrant-Energy.html — Primary press release confirming GV participated in Verse's $54M Series B led by Bessemer Venture Partners.
+
+[^verse2]: Data Center Dynamics, "Verse raises $54m in Series B funding round for platform to expedite data center connections," June 2026. Accessed June 2026. https://www.datacenterdynamics.com/en/news/verse-raises-54m-in-series-b-funding-round-for-platform-to-expedite-data-center-connections/ — Independent confirmation GV participated in the $54M Series B.
+
+[^verse3]: TheNextWeb, "Nvidia-backed Verse raises $54M for AI data centre power," June 2026. Accessed June 2026. https://thenextweb.com/news/verse-54m-series-b-ai-data-centre-power — Third independent confirmation of GV's participation.

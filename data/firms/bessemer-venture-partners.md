@@ -156,6 +156,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Unframe | Series B (participant) | 2026-05-19 | AI/Enterprise | [^19] |
 | DriveNets | Series D ($410M, co-led with Atreides Management) | 2026-06-01 | AI Networking Infrastructure | [^21][^22][^23] |
 | Sarvam AI | Series B (participant; $234M first close of $300M round) | 2026-06-15 | AI / India | [^24][^25][^26] |
+| Verse | Series B (led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | [^verse1][^verse2][^verse3] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -222,3 +223,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^25]: BusinessToday, "Sarvam AI becomes unicorn with $234 million funding; HCLTech leads with $150 million," June 15, 2026. Accessed June 2026. https://www.businesstoday.in/technology/story/sarvam-ai-becomes-unicorn-with-234-million-funding-hcltech-leads-with-150-million-537017-2026-06-15 — Independent confirmation Bessemer Venture Partners participated alongside HCLTech (lead), Khosla Ventures, and Peak XV Partners.
 
 [^26]: TheNextWeb, "Sarvam is India's newest AI unicorn after a $234m round," June 15, 2026. Accessed June 2026. https://thenextweb.com/news/sarvam-india-ai-unicorn-234-million-hcltech — Third independent confirmation of Bessemer's participation.
+
+[^verse1]: GlobeNewswire, "Verse Raises $54M and Launches 'Dispatch Intelligence' to Accelerate Speed to Power for Data Center Developers in Partnership with Calibrant Energy," June 18, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/18/3314243/0/en/Verse-Raises-54M-and-Launches-Dispatch-Intelligence-to-Accelerate-Speed-to-Power-for-Data-Center-Developers-in-Partnership-with-Calibrant-Energy.html — Primary press release confirming Bessemer Venture Partners led Verse's $54M Series B with GV, Nvidia, and Norrsken VC participating.
+
+[^verse2]: Data Center Dynamics, "Verse raises $54m in Series B funding round for platform to expedite data center connections," June 2026. Accessed June 2026. https://www.datacenterdynamics.com/en/news/verse-raises-54m-in-series-b-funding-round-for-platform-to-expedite-data-center-connections/ — Independent confirmation Bessemer led the $54M Series B.
+
+[^verse3]: TheNextWeb, "Nvidia-backed Verse raises $54M for AI data centre power," June 2026. Accessed June 2026. https://thenextweb.com/news/verse-54m-series-b-ai-data-centre-power — Third independent confirmation of Bessemer leading the round.

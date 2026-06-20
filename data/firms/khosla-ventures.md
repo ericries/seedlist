@@ -203,6 +203,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Novellia | Series A (participant, $18M; Spark Capital led; Acrew, Bling, TMV participated) | 2026-06-02 | Digital Health / Real-World Data | Private [^48] |
 | Sarvam AI | Series B (existing investor, $234M first close of $300M round; HCLTech led with $150M) | 2026-06-15 | AI / India | Private ($1.5B val) [^49][^50][^51] |
 | Pramaana Labs | Seed (led, $27M; Accel, BoldCap, Nexus Venture Partners, Premji Invest, Unbound participated) | 2026-06-17 | AI / Formal Verification / LLM Reliability | Private [^52][^53][^54] |
+| Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
 
 *Note: This table includes 67 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -381,3 +382,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^53]: Yahoo Finance, "Pramaana Labs Raises $27M Led by Khosla Ventures to Build the AI Layer That Proves It Is Telling the Truth," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/pramaana-labs-raises-27m-led-194300343.html — Independent confirmation of $27M seed led by Khosla Ventures with Accel, BoldCap, Nexus Venture Partners, Premji Invest, and Unbound participating.
 
 [^54]: Crypto Briefing, "Pramaana Labs raises $27M seed round from Khosla Ventures to build a verification layer for AI," June 17, 2026. Accessed June 2026. https://cryptobriefing.com/pramaana-labs-27m-seed-ai-verification/ — Third independent confirmation of $27M Khosla-led seed; notes infrastructure-layer positioning. Cross-referenced with TechTimes, "AI Formal Verification Startup Pramaana Raises $27M: Proof Replaces Probability," June 17, 2026, https://www.techtimes.com/articles/318589/20260617/ai-formal-verification-startup-pramaana-raises-27m-proof-replaces-probability.htm
+
+[^convey1]: SiliconANGLE, "Convey closes on $38M round to help companies automate repetitive work with AI teammates," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/convey-closes-38m-funding-round-help-companies-automate-repetitive-work-ai-teammates/ — Confirms Andreessen Horowitz led Convey's $38M Series A on June 17, 2026 with continued participation from Khosla Ventures and Pear VC. Joe Schmidt (a16z) joined the board.
+
+[^convey2]: Finsmes, "Convey Raises $38M in Series A Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/convey-raises-38m-in-series-a-funding.html — Independent confirmation Khosla Ventures participated in the $38M Series A.
+
+[^convey3]: Morningstar / BusinessWire, "Convey Raises $38 Million Series A Led by Andreessen Horowitz to Automate Enterprise Operations with AI Teammates," June 17, 2026. Accessed June 2026. https://www.morningstar.com/news/business-wire/20260617486214/convey-raises-38-million-series-a-led-by-andreessen-horowitz-to-automate-enterprise-operations-with-ai-teammates — Third independent confirmation of Khosla Ventures' participation.
