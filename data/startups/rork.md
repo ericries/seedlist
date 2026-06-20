@@ -1,21 +1,4 @@
 ---
-name: Rork
-slug: rork
-type: startup
-website: https://www.rork.app
-location: San Francisco, California
-founded: 2025
-status_company: active
-sector:
-- developer-tools
-- AI
-- mobile
-stage_latest: Seed
-total_raised: $15M
-investors:
-- slug: a16z-speedrun
-  round: seed
-  year: 2026
 firms:
 - round: seed
   slug: left-lane-capital
@@ -32,13 +15,33 @@ firms:
 - round: seed
   slug: a16z
   year: 2026
+founded: 2025
 founders:
 - name: Daniel Dhawan
   role: Co-Founder
 - name: Levan Kvirkvelia
   role: Co-Founder
-status: published
+investors:
+- round: seed
+  slug: a16z-speedrun
+  year: 2026
+- round: Seed ($3M)
+  slug: charlie-cheever
+  year: 2025
 last_researched: 2026-04-13
+location: San Francisco, California
+name: Rork
+sector:
+- developer-tools
+- AI
+- mobile
+slug: rork
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $15M
+type: startup
+website: https://www.rork.app
 ---
 
 ## About

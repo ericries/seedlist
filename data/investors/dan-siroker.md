@@ -1,7 +1,7 @@
 ---
 check_size: Undisclosed (angel)
 firm: limitless
-last_researched: 2026-05-01
+last_researched: 2026-06-18
 last_verified_investment:
   company: Navattic
   date: ~2022

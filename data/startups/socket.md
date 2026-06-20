@@ -35,6 +35,9 @@ investors:
 - round: Series B
   slug: amjad-masad
   year: 2024
+- round: Seed ($5M)
+  slug: charlie-cheever
+  year: 2022
 last_researched: 2026-05-21
 location: San Francisco, CA
 name: Socket

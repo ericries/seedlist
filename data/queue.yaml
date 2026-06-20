@@ -29734,7 +29734,7 @@ queue:
 - name: Charlie Cheever
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: tudor-achim
   source: angel investor in Harmonic Series B (2025-07)
@@ -29923,3 +29923,32 @@ queue:
   firm: Festina Finance
   discovered_from: festina-finance
   source: founder of Festina Finance (Copenhagen pensions/life insurance platform)
+- name: MindPortal
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dan-siroker
+  source: Siroker angel investment; brain-computer interface, $5M seed May 2021 led
+    by Learn Capital
+- name: Navattic
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dan-siroker
+  source: Siroker angel investment; $4.25M Seed March 2022 led by Canvas
+- name: Castle
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-cheever
+  source: Charlie Cheever's current project (castle.xyz); interactive mobile scenes/games
+- name: Logseq
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: charlie-cheever
+  source: Open-source knowledge management; $4M seed 2022 — Cheever angel
