@@ -1664,6 +1664,9 @@ priority:
   type: firm
   reason: round-feed touched 2026-06-03 (Probably verification investigation)
   added: 2026-06-03
+  status: unresolvable
+  resolved: 2026-06-03
+  resolution_note: "UNRESOLVABLE 2026-06-03 — Probably $9M seed sourcing exhausted at 2 primary sources (TechCrunch + The SaaS News). Duplicate of entry above marked unresolvable. No additional independent reporting found; a16z has not published an investing post. Re-investigate if more outlets surface."
 - slug: githits
   type: startup
   reason: "new round-feed profile created 2026-06-16 (\u20AC1.5M pre-seed, Vendep\
@@ -1713,6 +1716,9 @@ priority:
   type: firm
   reason: resolved Canopy Series B fact (2026-01-08)
   added: '2026-06-18'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Canopy Series B already verified and present in acme-capital.md portfolio (5 references). No further action required.
 - slug: insight-partners
   type: firm
   reason: led Gradial Series C $65M (2026-06-18)
@@ -1759,38 +1765,65 @@ priority:
   type: startup
   reason: new profile created from Series B $54M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Profile published with stage_latest Series B, total_raised $54M+, citations for Bessemer (lead) + GV participation. No further verification needed.
 - slug: convey
   type: startup
   reason: new profile created from Series A $38M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Profile published with stage_latest Series A, total_raised $38M+, citations for Khosla + Pear participation. No further verification needed.
 - slug: bessemer-venture-partners
   type: firm
   reason: led Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Verse Series B row already present in bessemer-venture-partners.md portfolio (4 references). Added in prior sweep.
 - slug: gv
   type: firm
   reason: participated in Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Verse Series B row already present in gv.md portfolio (4 references). Added in prior sweep.
 - slug: khosla-ventures
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Convey Series A row already present in khosla-ventures.md portfolio (4 references). Added in prior sweep.
 - slug: pear-vc
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Convey Series A row already present in pear-vc.md portfolio (4 references). Added in prior sweep.
 - slug: trace-finance
   type: startup
   reason: new profile created from Series A $32M (2026-06-17, CoinFund led)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Profile published with stage_latest Series A, total_raised $32M+, CoinFund lead recorded. No further verification needed.
 - slug: critical-energy
   type: startup
   reason: new profile created from Seed $19M (2026-06-18, Susa + Upfront led)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Profile published with stage_latest Seed, total_raised $22M, Susa + Upfront co-leads recorded. No further verification needed.
 - slug: boolsi
   type: startup
   reason: new profile created from Seed $6M (2026-06-18, Fine Structure Ventures led)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Profile published with stage_latest Seed, total_raised $6M, Fine Structure Ventures lead recorded. No further verification needed.
 - slug: cargofy
   type: startup
   reason: new profile created from Series A $6M (2026-06-18, u.ventures + Toloka + Movens led)
@@ -1823,18 +1856,30 @@ priority:
   type: firm
   reason: led Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Duplicate of earlier Verse Series B entry. Row already present in bessemer-venture-partners.md portfolio (4 references).
 - slug: gv
   type: firm
   reason: participated in Verse Series B $54M (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Duplicate of earlier Verse Series B entry. Row already present in gv.md portfolio (4 references).
 - slug: khosla-ventures
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Duplicate of earlier Convey Series A entry. Row already present in khosla-ventures.md portfolio (4 references).
 - slug: pear-vc
   type: firm
   reason: participated in Convey Series A $38M (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Duplicate of earlier Convey Series A entry. Row already present in pear-vc.md portfolio (4 references).
 - slug: klipy
   type: startup
   reason: new Seed $3.8M with Google AI Futures Fund (2026-06-17)
