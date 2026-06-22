@@ -26,10 +26,6 @@ investors:
   round: series-e
   slug: qed-investors
   year: 2026
-- date: 2026-06-11
-  round: series-e
-  slug: founders-fund
-  year: 2026
 - round: Seed
   slug: nigel-morris
   year: 2017
