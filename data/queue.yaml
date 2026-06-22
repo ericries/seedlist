@@ -30029,3 +30029,45 @@ queue:
   firm: Syndicate One
   discovered_from: felix-garriau
   source: Founder of Syndicate One
+- name: Lundin Family Office
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cuprum-metals
+  source: Led Cuprum Metals $19.4M Series A (2026-06-18)
+- name: Woodline Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cuprum-metals
+  source: Co-invested Cuprum Metals Series A
+- name: BHP Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cuprum-metals
+  source: Co-invested Cuprum Metals Series A; BHP corporate VC arm
+- name: Gungnir Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: acodyne
+  source: Led Acodyne €2.5M pre-seed (2026-06-22), Danish/Nordic defense VC
+- name: PSV Hafnium
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: acodyne
+  source: Co-invested Acodyne pre-seed; Danish deep-tech fund
+- name: EIFO
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: acodyne
+  source: Export and Investment Fund of Denmark, co-invested Acodyne pre-seed
