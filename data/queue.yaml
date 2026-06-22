@@ -23452,7 +23452,7 @@ queue:
 - name: Pete Koomen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Y Combinator
   discovered_from: dan-siroker
@@ -28551,7 +28551,7 @@ queue:
 - name: Felix Garriau
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Aikido Security
   discovered_from: willem-delbare
@@ -30000,3 +30000,32 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: pdkinematics
+- name: Cerbos
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pete-koomen
+  source: Pete Koomen angel investment; $3.5M seed Nov 2021 led by Crane
+- name: Sublime Security
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pete-koomen
+  source: Pete Koomen angel investment ~Feb 2023
+- name: Milk Video
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pete-koomen
+  source: Pete Koomen angel investment ~2021
+- name: Laurens De Poorter
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Syndicate One
+  discovered_from: felix-garriau
+  source: Founder of Syndicate One

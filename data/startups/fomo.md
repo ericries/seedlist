@@ -1,41 +1,48 @@
 ---
-name: "Fomo"
-slug: fomo
-type: startup
-website: ""
-location: "United States"
-founded: 2024
-status_company: active
-sector: [fintech, consumer, crypto, trading]
-stage_latest: "Series B"
-total_raised: "$75M+"
-investors:
-  - slug: kevin-hartz
-    round: series-b
-    year: 2026
-    date: '2026-06-22'
 firms:
-  - slug: index-ventures
-    round: series-b
-    year: 2026
-    date: '2026-06-22'
-  - slug: union-square-ventures
-    round: series-b
-    year: 2026
-    date: '2026-06-22'
-  - slug: benchmark
-    round: series-b
-    year: 2026
-    date: '2026-06-22'
+- date: '2026-06-22'
+  round: series-b
+  slug: index-ventures
+  year: 2026
+- date: '2026-06-22'
+  round: series-b
+  slug: union-square-ventures
+  year: 2026
+- date: '2026-06-22'
+  round: series-b
+  slug: benchmark
+  year: 2026
+founded: 2024
 founders:
-  - name: "Paul Erlanger"
-    role: "Co-Founder"
-  - name: "Se Yong Park"
-    role: "Co-Founder"
-  - name: "Prashan Dharmasena"
-    role: "Co-Founder"
-status: published
+- name: Paul Erlanger
+  role: Co-Founder
+- name: Se Yong Park
+  role: Co-Founder
+- name: Prashan Dharmasena
+  role: Co-Founder
+investors:
+- date: '2026-06-22'
+  round: series-b
+  slug: kevin-hartz
+  year: 2026
+- round: Pre-Seed
+  slug: balaji-srinivasan
+  year: 2025
 last_researched: '2026-06-22'
+location: United States
+name: Fomo
+sector:
+- fintech
+- consumer
+- crypto
+- trading
+slug: fomo
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $75M+
+type: startup
+website: ''
 ---
 
 ## About
