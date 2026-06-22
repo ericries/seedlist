@@ -9451,7 +9451,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 108,
+      "size": 109,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9937,6 +9937,10 @@
         {
           "slug": "jeroen-de-wit",
           "name": "Jeroen De Wit"
+        },
+        {
+          "slug": "pete-koomen",
+          "name": "Pete Koomen"
         }
       ]
     },
@@ -10039,7 +10043,7 @@
       "name": "The YC Network",
       "tagline": "Y Combinator partners and the investors who consistently back YC's best. When a YC company raises, these names are on the cap table.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "alfred-lin",
@@ -10098,6 +10102,10 @@
           "slug": "steve-huffman",
           "name": "Steve Huffman",
           "firm": "reddit"
+        },
+        {
+          "slug": "pete-koomen",
+          "name": "Pete Koomen"
         }
       ]
     },
@@ -11170,7 +11178,7 @@
       "name": "The YC Alumni Network",
       "tagline": "They built companies through Y Combinator, then crossed to the investor side. The YC network is the most powerful alumni network in startups — and they're proof.",
       "type": "curated",
-      "size": 33,
+      "size": 34,
       "members": [
         {
           "slug": "alexis-ohanian",
@@ -11334,6 +11342,10 @@
         {
           "slug": "lee-linden",
           "name": "Lee Linden"
+        },
+        {
+          "slug": "pete-koomen",
+          "name": "Pete Koomen"
         }
       ]
     },
@@ -12436,7 +12448,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves — but founders read their writing before pitching.",
       "type": "curated",
-      "size": 19,
+      "size": 20,
       "members": [
         {
           "slug": "paul-graham",
@@ -12526,6 +12538,10 @@
         {
           "slug": "sahil-lavingia",
           "name": "Sahil Lavingia"
+        },
+        {
+          "slug": "pete-koomen",
+          "name": "Pete Koomen"
         }
       ]
     },
