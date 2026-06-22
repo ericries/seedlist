@@ -1946,15 +1946,43 @@ priority:
   type: firm
   reason: led Trace Finance $32M Series A (2026-06-17) — portfolio updated
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Confirmed portfolio row in coinfund.md line 121 — Trace Finance
+    Series A (led, $32M) 2026-06-17 with 3 primary citations [^57][^58][^59] (BusinessWire
+    primary press release, news.bitcoin.com, The SaaS News). All 3 sources independently
+    confirm CoinFund led the $32M Series A on 2026-06-17. Duplicate of earlier resolved
+    entry; portfolio update is in place.
 - slug: haun-ventures
   type: firm
   reason: participated in Trace Finance $32M Series A (2026-06-17) — portfolio updated
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Confirmed portfolio row in haun-ventures.md line 110 — Trace Finance
+    Series A (participated, $32M) 2026-06-17 with 3 primary citations [^72][^73][^74]
+    (BusinessWire primary press release, news.bitcoin.com, The SaaS News). All 3 sources
+    list Haun Ventures among participants. Duplicate of earlier resolved entry; portfolio
+    update is in place.
 - slug: upfront-ventures
   type: firm
   reason: co-led Critical Energy $19M Seed (2026-06-17) — portfolio updated
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Confirmed portfolio row in upfront-ventures.md line 147 — Critical
+    Energy Seed (co-led, $19M) 2026-06-17 with 3 primary citations [^40][^41][^42]
+    (The Next Web, Mezha, Think GeoEnergy). All 3 sources confirm Upfront Ventures
+    co-led with Susa Ventures. Duplicate of earlier resolved entry; portfolio update
+    is in place.
 - slug: mac-venture-capital
   type: firm
   reason: participated in Critical Energy $19M Seed (2026-06-17) — portfolio updated
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-06-03'
+  resolution_note: Confirmed portfolio row in mac-venture-capital.md line 98 — Critical
+    Energy Seed (participated, $19M) 2026-06-17 with 3 primary citations [^27][^28][^29]
+    (The Next Web, Business Model Analyst, Mezha). All 3 sources list MaC Venture
+    Capital as participant. Duplicate of earlier resolved entry; portfolio update
+    is in place.

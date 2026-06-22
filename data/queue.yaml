@@ -29952,3 +29952,51 @@ queue:
   added: '2026-03-17'
   discovered_from: charlie-cheever
   source: Open-source knowledge management; $4M seed 2022 — Cheever angel
+- name: The Westly Group
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tenet-security
+- name: MizMaa Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tenet-security
+- name: Next Frontier Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: highground
+- name: Tandem Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: highground
+- name: Fulcrum Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: highground
+- name: Context Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: highground
+- name: Coinvest Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pdkinematics
+- name: Iron Wolf Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pdkinematics
