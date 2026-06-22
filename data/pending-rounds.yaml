@@ -64,6 +64,127 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Seedcamp raises $320M for its new fund to expand its US footprint
+  url: https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/
+  source: techcrunch
+  date_found: '2026-06-22'
+  parsed_company: Seedcamp
+  parsed_amount: $320M
+  parsed_round: null
+  status: pending
+- title: France’s Bionyra Pharma launches with €143 million Series A to advance inflammatory
+    disease biologics
+  url: https://www.eu-startups.com/2026/06/frances-bionyra-pharma-launches-with-e143-million-series-a-to-advance-inflammatory-disease-biologics/
+  source: eu-startups
+  date_found: '2026-06-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Nearfield Instruments raised $380M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Nearfield Instruments
+  parsed_amount: $380M
+  parsed_round: Series D
+  status: pending
+- title: Bionyra Pharma raised $165M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Bionyra Pharma
+  parsed_amount: $165M
+  parsed_round: Series A
+  status: pending
+- title: Twenty raised $100M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Twenty
+  parsed_amount: $100M
+  parsed_round: Series B
+  status: pending
+- title: Fomo raised $75M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Fomo
+  parsed_amount: $75M
+  parsed_round: Series B
+  status: pending
+- title: a London-based industrial certification platform raised $40M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: a London-based industrial certification platform
+  parsed_amount: $40M
+  parsed_round: Series A
+  status: pending
+- title: American Perpetuals Exchange raised $30M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: American Perpetuals Exchange
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Superlight raised $21M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Superlight
+  parsed_amount: $21M
+  parsed_round: Series A
+  status: pending
+- title: Cuprum Metals raised $19.4M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Cuprum Metals
+  parsed_amount: $19.4M
+  parsed_round: Series A
+  status: pending
+- title: TurboFlow raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: TurboFlow
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: pending
+- title: per Axios Pro . Entendre had raised $4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: per Axios Pro . Entendre had
+  parsed_amount: $4M
+  parsed_round: Seed
+  status: pending
+- title: Seedcamp raised $220M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Seedcamp
+  parsed_amount: $220M
+  parsed_round: null
+  status: pending
+- title: Entendre had raised $4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: Entendre had
+  parsed_amount: $4M
+  parsed_round: Seed
+  status: pending
+- title: u003e. Entendre had raised $4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-22'
+  parsed_company: u003e. Entendre had
+  parsed_amount: $4M
+  parsed_round: Seed
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/22/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-22-26/
   source: alleywatch
@@ -710,128 +831,5 @@ pending_rounds:
   date_found: '2026-06-16'
   parsed_company: Copia
   parsed_amount: $26M
-  parsed_round: null
-  status: pending
-- title: Luni raised $14M user acquisition
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Luni
-  parsed_amount: $14M
-  parsed_round: User Acquisition
-  status: pending
-- title: Rocapine raised $13M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Rocapine
-  parsed_amount: $13M
-  parsed_round: Series A
-  status: pending
-- title: Nox Metals raised $11.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Nox Metals
-  parsed_amount: $11.5M
-  parsed_round: Seed
-  status: pending
-- title: Lightbringer raised $10M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Lightbringer
-  parsed_amount: $10M
-  parsed_round: Series A
-  status: pending
-- title: Magnitude raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Magnitude
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: pending
-- title: El Dorado raised $9M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: El Dorado
-  parsed_amount: $9M
-  parsed_round: Series A
-  status: pending
-- title: Waniwani raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Waniwani
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: pending
-- title: Sloneek raised $6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Sloneek
-  parsed_amount: $6M
-  parsed_round: null
-  status: pending
-- title: Yorkville International Capital raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Yorkville International Capital
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: Gutter Capital raised $75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Gutter Capital
-  parsed_amount: $75M
-  parsed_round: null
-  status: pending
-- title: u003eCursor raised $3.38B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: u003eCursor
-  parsed_amount: $3.38B
-  parsed_round: null
-  status: pending
-- title: Brookfield Office Properties Provides Update on Conversion Option for its
-    Class AAA Series N Preference Shares
-  url: https://www.globenewswire.com/news-release/2026/06/16/3313074/0/en/Brookfield-Office-Properties-Provides-Update-on-Conversion-Option-for-its-Class-AAA-Series-N-Preference-Shares.html
-  source: globenewswire
-  date_found: '2026-06-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/16/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-16-2026/
-  source: alleywatch
-  date_found: '2026-06-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Orbio raises $21 million to automate hiring and onboarding for frontline
-    workers
-  url: https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/
-  source: techcrunch
-  date_found: '2026-06-15'
-  parsed_company: Orbio
-  parsed_amount: $21M
-  parsed_round: null
-  status: pending
-- title: Berlin’s Qorelo raises €3 million five months after launch to tackle SAP’s
-    2027 transformation crunch
-  url: https://www.eu-startups.com/2026/06/berlins-qorelo-raises-e3-million-five-months-after-launch-to-tackle-saps-2027-transformation-crunch/
-  source: eu-startups
-  date_found: '2026-06-15'
-  parsed_company: Berlin’s Qorelo
-  parsed_amount: null
   parsed_round: null
   status: pending

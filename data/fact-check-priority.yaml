@@ -1986,3 +1986,40 @@ priority:
     (The Next Web, Business Model Analyst, Mezha). All 3 sources list MaC Venture
     Capital as participant. Duplicate of earlier resolved entry; portfolio update
     is in place.
+- slug: accel
+  type: firm
+  reason: led Twenty Series B $100M (2026-06-17)
+  added: '2026-06-22'
+- slug: index-ventures
+  type: firm
+  reason: led Fomo Series B $75M (2026-06-22)
+  added: '2026-06-22'
+- slug: union-square-ventures
+  type: firm
+  reason: participated in Fomo Series B $75M (2026-06-22)
+  added: '2026-06-22'
+- slug: benchmark
+  type: firm
+  reason: participated in Fomo Series B $75M (2026-06-22)
+  added: '2026-06-22'
+- slug: kevin-hartz
+  type: individual
+  reason: angel in Fomo Series B $75M (2026-06-22)
+  added: '2026-06-22'
+- slug: nearfield-instruments
+  type: startup
+  reason: New profile for $380M Series D (2026-06-22, Fidelity-led)
+  added: '2026-06-22'
+- slug: bionyra-pharma
+  type: startup
+  reason: New profile for $165M Series A (2026-06-22, Sofinnova/Jeito-led)
+  added: '2026-06-22'
+- slug: twenty-cyber
+  type: startup
+  reason: New profile for $100M Series B (2026-06-17, Accel-led)
+  added: '2026-06-22'
+- slug: fomo
+  type: startup
+  reason: New profile for $75M Series B (2026-06-22, Index-led)
+  added: '2026-06-22'
+
