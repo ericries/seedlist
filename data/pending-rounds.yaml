@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 6/22/26'
+  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-22-26/
+  source: alleywatch
+  date_found: '2026-06-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Dream raised $260M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -824,14 +832,5 @@ pending_rounds:
   date_found: '2026-06-15'
   parsed_company: null
   parsed_amount: $234M
-  parsed_round: null
-  status: pending
-- title: Undo secures €31 million to bring runtime context to AI-assisted software
-    engineering
-  url: https://www.eu-startups.com/2026/06/undo-secures-e31-million-to-bring-runtime-context-to-ai-assisted-software-engineering/
-  source: eu-startups
-  date_found: '2026-06-15'
-  parsed_company: Undo
-  parsed_amount: null
   parsed_round: null
   status: pending
