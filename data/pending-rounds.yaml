@@ -185,6 +185,23 @@ pending_rounds:
   parsed_amount: $4M
   parsed_round: Seed
   status: pending
+- title: Brookfield Announces Results of Conversion of its Series 24 Preference Shares
+  url: https://www.globenewswire.com/news-release/2026/06/22/3315630/0/en/Brookfield-Announces-Results-of-Conversion-of-its-Series-24-Preference-Shares.html
+  source: globenewswire
+  date_found: '2026-06-22'
+  parsed_company: Brookfield
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: National Healthcare Properties Announces Final Results of its Series A and
+    Series B Preferred Stock Self Tender Offers
+  url: https://www.globenewswire.com/news-release/2026/06/22/3315606/0/en/National-Healthcare-Properties-Announces-Final-Results-of-its-Series-A-and-Series-B-Preferred-Stock-Self-Tender-Offers.html
+  source: globenewswire
+  date_found: '2026-06-22'
+  parsed_company: National Healthcare Properties
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/22/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-22-26/
   source: alleywatch
@@ -816,20 +833,4 @@ pending_rounds:
   parsed_company: Interchecks
   parsed_amount: $50M
   parsed_round: Series C
-  status: pending
-- title: Undo raised $37M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Undo
-  parsed_amount: $37M
-  parsed_round: null
-  status: pending
-- title: Copia raised $26M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Copia
-  parsed_amount: $26M
-  parsed_round: null
   status: pending
