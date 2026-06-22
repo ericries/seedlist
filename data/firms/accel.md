@@ -232,6 +232,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Supabase | Series F ($500M, participated; GIC led at $10.5B post-money) | 2026-06-04 | Developer Tools / Postgres / Agentic Infrastructure | [^93][^94][^95] |
 | PointFive | Series B ($60M, led) | 2026-06-08 | AI / Cloud Cost Optimization / FinOps | [^96][^97][^98] |
 | Pramaana Labs | Seed (participated, $27M; Khosla Ventures led) | 2026-06-17 | AI / Formal Verification / LLM Reliability | [^99][^100][^101] |
+| Twenty | Series B ($100M, led at $1B val) | 2026-06-17 | Defense / Cybersecurity / AI Cyber Warfare | [^102][^103][^104] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -420,3 +421,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^100]: Yahoo Finance, "Pramaana Labs Raises $27M Led by Khosla Ventures to Build the AI Layer That Proves It Is Telling the Truth," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/pramaana-labs-raises-27m-led-194300343.html — Independent confirmation of Accel participation.
 
 [^101]: Crypto Briefing, "Pramaana Labs raises $27M seed round from Khosla Ventures to build a verification layer for AI," June 17, 2026. Accessed June 2026. https://cryptobriefing.com/pramaana-labs-27m-seed-ai-verification/ — Third independent confirmation.
+
+[^102]: Twenty press release via PR Newswire, "America's First VC-Backed Cyber Warfare Startup Raises $100M Series B at $1B Valuation," June 17, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/americas-first-vc-backed-cyber-warfare-startup-raises-100m-series-b-at-1b-valuation-302802401.html — Confirms Accel led $100M Series B at $1B valuation; Friends & Family Capital, Point72 Ventures, Caffeinated Capital participated.
+
+[^103]: GovCon Wire, "Cyber Warfare Startup Twenty Raises $100M in Series B Funding Round," June 17, 2026. Accessed June 2026. https://www.govconwire.com/articles/twenty-100m-series-b-round-ai-cyber-warfare — Independent confirmation of Accel-led $100M Series B for Arlington-based defense-tech startup Twenty.
+
+[^104]: The SaaS News, "Twenty Raises $100M Series B," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/twenty-raises-100m-series-b/ — Third independent confirmation of Accel-led $100M Series B.

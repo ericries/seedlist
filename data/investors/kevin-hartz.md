@@ -3,9 +3,9 @@ check_size: $100K-$10M
 firm: a-star-capital
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Vigil Labs
-  date: 2025-08-20
-  round: Seed
+  company: Fomo
+  date: 2026-06-22
+  round: Series B
 location: San Francisco, CA
 name: Kevin Hartz
 role: Co-Founder & General Partner
@@ -126,6 +126,7 @@ The table below covers verified investments with sourced records. Hartz's full d
 | Multiply Mortgage | 2025 | Series A | Fintech/Real Estate | [^19] |
 | Vigil Labs | 2025 | Seed | AI/Security | [^7] |
 | Decagon | 2025 | Series C | AI/Customer Service | [^17] |
+| Fomo | 2026-06-22 | Series B | Fintech/Crypto/Consumer Trading | [^23][^24][^25] |
 
 ## In Their Own Words
 
@@ -226,3 +227,9 @@ No independently sourced founder testimonials found. Kevin Hartz is active on Tw
 [^21]: Business Wire, "Polymarket Raises $70M from Thiel's Founders Fund, General Catalyst, Vitalik Buterin," May 13, 2024. https://www.businesswire.com/news/home/20240513090515/en/Polymarket-Raises-$70m-From-Thiels-Founders-Fund-General-Catalyst-Vitalik-Buterin-to-Scale-Global-Prediction-Market
 
 [^22]: Cory Levy on LinkedIn, "10 Quotes From My Interview with Kevin Hartz on OFF RCRD," accessed March 2026. https://www.linkedin.com/pulse/10-quotes-from-my-interview-kevin-hartz-off-rcrd-cory-levy
+
+[^23]: FinSMEs, "fomo Raises $75M in Series B Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/fomo-raises-75m-in-series-b-funding.html — Confirms Kevin Hartz participated in Fomo's $75M Series B led by Index Ventures; Union Square Ventures, Benchmark, Mark Pincus, Humam Sakhnini also participated.
+
+[^24]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation of Kevin Hartz participation.
+
+[^25]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of Kevin Hartz participation.

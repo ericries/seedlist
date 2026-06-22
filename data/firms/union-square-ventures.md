@@ -114,6 +114,7 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 | Helium | Series C | 2019 | Crypto/IoT | Active | [^7][^25] |
 | Board | Series A (led, $20M) | 2026-06-02 | Consumer / Gaming / Hardware | Active | [^26] |
 | Suno | Series D (participant, $400M at $5.4B val; Bond Capital led) | 2026-06-03 | AI / Generative Music / Consumer | Active | [^27] |
+| Fomo | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Active | [^28][^29][^30] |
 
 *This table represents approximately 17 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
@@ -164,3 +165,9 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^26]: TechCrunch, "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/ — Confirms Union Square Ventures led Board's $20M Series A on June 2, 2026; this represented Michael Mignano's first investment as USV General Partner (Mignano joining Board's board of directors); angels Biz Stone, Tim Ferriss, and Scott Belsky also participated. Board's connected-screen gaming device is deployed in tens of thousands of homes/schools/hospitals/restaurants across all 50 states.
 
 [^27]: TechCrunch, "Still facing copyright lawsuits, AI music generator Suno raises another $400M," June 3, 2026. Accessed June 2026. https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/ — Confirms Union Square Ventures participated in Suno's $400M Series D on June 3, 2026 at $5.4B valuation; Bond Capital led; IVP, Forerunner Ventures, Alkeon, and Quiet Capital also participated alongside returning Matrix Partners, Lightspeed Venture Partners, Menlo Ventures, and Schroders Capital.
+
+[^28]: FinSMEs, "fomo Raises $75M in Series B Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/fomo-raises-75m-in-series-b-funding.html — Confirms Union Square Ventures participated in Fomo's $75M Series B led by Index Ventures; Benchmark, Mark Pincus, Kevin Hartz, Humam Sakhnini also participated.
+
+[^29]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation of USV participation in $75M Series B at ~$550M valuation.
+
+[^30]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of USV participation in Fomo's Series B.

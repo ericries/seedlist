@@ -209,7 +209,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Reducto | Series B (participated) | 2025-10-14 | AI / Document Intelligence | Private [^20][^43] |
 | Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |
 | Forge | Early | ~2025 | AI | Private [^1] |
-| FOMO | Early | 2026 | Financial Services | Private [^9] |
+| FOMO | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Private [^9][^46][^47][^48] |
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
 | Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
@@ -357,3 +357,9 @@ The following table includes 45 Benchmark investments verified through press cov
 [^44]: Decart, "Decart Raises $300M: Tech Leaders Back the Company as Both Customers and Investors," May 18, 2026. Accessed May 2026. https://decart.ai/publications/decart-raises-300m-tech-leaders-back-the-company-as-both-customers-and-investors — Confirms Benchmark as returning investor in Decart's $300M round at $4B valuation led by Radical Ventures on May 18, 2026; new investors Nvidia, Atreides Management, Valor Equity Partners, Adobe Ventures, Toyota Ventures, eBay Ventures joined alongside returning backer Sequoia Capital.
 
 [^45]: LangChain blog, "Announcing our $10M seed round led by Benchmark," April 4, 2023. Accessed June 2026. https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark — Primary source confirming Benchmark led LangChain's $10M seed on 2023-04-04. Cross-referenced with Contrary Research (https://research.contrary.com/company/langchain) and Sacra (https://sacra.com/c/langchain/), both confirming April 2023 timing.
+
+[^46]: FinSMEs, "fomo Raises $75M in Series B Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/fomo-raises-75m-in-series-b-funding.html — Confirms Benchmark participated in Fomo's $75M Series B led by Index Ventures.
+
+[^47]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation Benchmark participated at ~$550M valuation.
+
+[^48]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation Benchmark participated.

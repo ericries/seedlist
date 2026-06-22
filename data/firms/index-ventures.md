@@ -152,6 +152,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | PointFive | Series B (participated, $60M; Accel led) | 2026-06-08 | FinOps / Cloud Cost / AI Efficiency | [^55][^56][^57] |
 | NewCore | Pre-Seed (co-led with Cyberstarts, $16M of $66M total) | 2026-06-15 | Cybersecurity / Agentic Identity | [^58][^59][^60] |
 | Conduct | Series A (co-led with ICONIQ, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI / Enterprise Operating System / SAP | [^61][^62][^63] |
+| Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -262,4 +263,10 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^62]: TheNextWeb, "Conduct raises $60M Series A from Index, ICONIQ and SAP," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/conduct-60-million-series-a-index-iconiq-sap — Independent confirmation of $60M Series A co-led by Index Ventures and ICONIQ; total funding ~$72M. Notes ICONIQ "rarely does early-stage deals."
 
 [^63]: The SaaS News, "Conduct Raises $60M Series A," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/conduct-raises-60m-series-a/ — Third independent confirmation of co-leads Index Ventures and ICONIQ with strategic SAP investment; participants Creandum, Lucid Capital, Booom.
+
+[^64]: FinSMEs, "fomo Raises $75M in Series B Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/fomo-raises-75m-in-series-b-funding.html — Confirms Index Ventures led $75M Series B; Union Square Ventures, Benchmark, Mark Pincus, Kevin Hartz, Humam Sakhnini participated.
+
+[^65]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation of Index Ventures-led $75M Series B at ~$550M valuation.
+
+[^66]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of Index Ventures-led Series B for crypto-focused consumer trading app.
 

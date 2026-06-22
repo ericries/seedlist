@@ -1990,22 +1990,45 @@ priority:
   type: firm
   reason: led Twenty Series B $100M (2026-06-17)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-22'
+  resolution_note: Added Twenty Series B ($100M, led at $1B val) 2026-06-17 portfolio
+    row with 3 primary citations [^102][^103][^104] (PR Newswire, GovCon Wire, SaaS
+    News). All 3 confirm Accel led.
 - slug: index-ventures
   type: firm
   reason: led Fomo Series B $75M (2026-06-22)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-22'
+  resolution_note: Added Fomo Series B (led, $75M at ~$550M val) 2026-06-22 portfolio
+    row with 3 primary citations [^64][^65][^66] (FinSMEs, Fortune, Crypto Briefing).
 - slug: union-square-ventures
   type: firm
   reason: participated in Fomo Series B $75M (2026-06-22)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-22'
+  resolution_note: Added Fomo Series B (participated) 2026-06-22 portfolio row with
+    3 primary citations [^28][^29][^30] (FinSMEs, Fortune, Crypto Briefing).
 - slug: benchmark
   type: firm
   reason: participated in Fomo Series B $75M (2026-06-22)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-22'
+  resolution_note: Updated existing FOMO row to Series B (participated, $75M at ~$550M
+    val) 2026-06-22 with 3 new primary citations [^46][^47][^48] (FinSMEs, Fortune,
+    Crypto Briefing) alongside existing [^9].
 - slug: kevin-hartz
   type: individual
   reason: angel in Fomo Series B $75M (2026-06-22)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-22'
+  resolution_note: Added Fomo Series B 2026-06-22 portfolio row with 3 primary citations
+    [^23][^24][^25] (FinSMEs, Fortune, Crypto Briefing); updated last_verified_investment
+    to Fomo 2026-06-22.
 - slug: nearfield-instruments
   type: startup
   reason: New profile for $380M Series D (2026-06-22, Fidelity-led)
