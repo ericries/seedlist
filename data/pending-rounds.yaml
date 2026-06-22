@@ -20,6 +20,50 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To
+    Record Numbers In 2026'
+  url: https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/
+  source: crunchbase
+  date_found: '2026-06-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: European Investor Seedcamp Closes On $320M Across Two Funds To Back Seed
+    Startups And Reaches $1B AUM
+  url: https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/
+  source: crunchbase
+  date_found: '2026-06-22'
+  parsed_company: European Investor Seedcamp
+  parsed_amount: $320M
+  parsed_round: Seed
+  status: pending
+- title: Unmanned cargo aircraft developer Acodyne secures €2.5 million for defence
+    and offshore logistics
+  url: https://www.eu-startups.com/2026/06/unmanned-cargo-aircraft-developer-acodyne-secures-e2-5-million-for-defence-and-offshore-logistics/
+  source: eu-startups
+  date_found: '2026-06-22'
+  parsed_company: Unmanned cargo aircraft developer Acodyne
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: With almost 2,000 active couriers, Grid.online raises €4 million to expand
+    shared last-mile delivery network
+  url: https://www.eu-startups.com/2026/06/with-almost-2000-active-couriers-grid-online-raises-e4-million-to-expand-shared-last-mile-delivery-network/
+  source: eu-startups
+  date_found: '2026-06-22'
+  parsed_company: With almost 2,000 active couriers, Grid.online
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Seedcamp raises €279 million to back Europe’s next generation of global startups
+  url: https://www.eu-startups.com/2026/06/seedcamp-raises-e279-million-to-back-europes-next-generation-of-global-startups/
+  source: eu-startups
+  date_found: '2026-06-22'
+  parsed_company: Seedcamp
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/22/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-22-26/
   source: alleywatch
@@ -789,48 +833,5 @@ pending_rounds:
   date_found: '2026-06-15'
   parsed_company: Berlin’s Qorelo
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: The AI Startup Funding Boom Is Not A Global Phenomenon
-  url: https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/
-  source: crunchbase
-  date_found: '2026-06-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 6/15/26'
-  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-15-26/
-  source: alleywatch
-  date_found: '2026-06-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Madrid’s Orbio raises €18.09 million Series A to scale AI workforce platform
-    for frontline teams
-  url: https://www.eu-startups.com/2026/06/madrids-orbio-raises-e18-09-million-series-a-to-scale-ai-workforce-platform-for-frontline-teams/
-  source: eu-startups
-  date_found: '2026-06-15'
-  parsed_company: Madrid’s Orbio
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Italy’s female-founded HospitalityTech startup Bestie Bite raises €1.5 million
-    to expand its video review app in the US
-  url: https://www.eu-startups.com/2026/06/italys-female-founded-hospitalitytech-startup-bestie-bite-raises-e1-5-million-to-expand-its-video-review-app-in-the-us/
-  source: eu-startups
-  date_found: '2026-06-15'
-  parsed_company: Italy’s female-founded HospitalityTech startup Bestie Bite
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Sarvam becomes India’s newest AI unicorn with $234 million funding round
-    led by HCLTech
-  url: https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
-  source: techcrunch
-  date_found: '2026-06-15'
-  parsed_company: null
-  parsed_amount: $234M
   parsed_round: null
   status: pending
