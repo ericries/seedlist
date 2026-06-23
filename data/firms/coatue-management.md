@@ -189,6 +189,7 @@ The following table includes Coatue investments verified through the firm's port
 | Mercury | Series D (participated, $200M at $5.2B val; TCV led) | 2026-05-20 | Fintech / Digital Banking | Private [^55] |
 | Cyera | Growth (participated, $300M at $12B val; Evolution Equity led) | 2026-06-02 | Cybersecurity / Data Security | Private [^56][^57] |
 | Supabase | Series F (participated, $500M at $10.5B val; GIC led) | 2026-06-04 | AI Infrastructure / Database | Private [^58][^59][^60] |
+| Cadence | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^64][^65][^66] |
 
 *Note: This table includes 36 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
 
@@ -355,3 +356,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^62]: TechCrunch, "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning," May 9, 2022. Accessed June 2026. https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/ — Independent confirmation of $100M Series C announced May 9, 2022 at $2B valuation; round led by Lux Capital; Sequoia, Coatue, and Addition named as participants.
 
 [^63]: SiliconANGLE, "AI startup Hugging Face raises $100M in funding at $2B valuation," May 9, 2022. Accessed June 2026. https://siliconangle.com/2022/05/09/ai-startup-hugging-face-raises-100m-funding-2b-valuation/ — Third independent confirmation of Hugging Face Series C on May 9, 2022 led by Lux Capital with Coatue named as a participating investor.
+
+[^64]: Cadence, "Cadence Raises $100M Series C Led by Spark Capital to Automate Chronic Care," June 23, 2026. Accessed June 2026. https://www.cadence.care/post/cadence-raises-100m-series-c-led-by-spark-capital-to-automate-chronic-care — Primary announcement confirming Coatue participated alongside Thrive Capital, General Catalyst, B Capital, Corewell Health Ventures, Memorial Hermann, and Duke Health in Spark Capital's $100M Series C lead. Coatue had previously led Cadence's December 2021 $100M Series B at $1B valuation.
+
+[^65]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing Coatue as a participant.
+
+[^66]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with Coatue named among participating investors.

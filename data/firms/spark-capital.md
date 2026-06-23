@@ -150,6 +150,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Profluent | Series B (existing investor) | 2025-11-19 | AI / Programmable Biology | [^43][^44] |
 | RadixArk | Seed (co-led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^45][^46][^47] |
 | Novellia | Series A (lead, $18M; Khosla, Acrew, Bling, TMV participated) | 2026-06-02 | Healthcare / Real-World Data | [^52][^53][^54] |
+| Cadence | Series C (led, $100M; Thrive, General Catalyst, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, Duke Health participated) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | [^57][^58][^59] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -243,3 +244,9 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^55]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Confirms Spark Capital among investors in XDOF's $70M launch from stealth.
 
 [^56]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/
+
+[^57]: Cadence, "Cadence Raises $100M Series C Led by Spark Capital to Automate Chronic Care," June 23, 2026. Accessed June 2026. https://www.cadence.care/post/cadence-raises-100m-series-c-led-by-spark-capital-to-automate-chronic-care — Primary announcement confirming Spark Capital led Cadence's $100M Series C on June 23, 2026; Thrive Capital, General Catalyst, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, and Duke Health participated.
+
+[^58]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement.
+
+[^59]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent confirmation of June 23, 2026 Cadence Series C with Spark Capital leading and Thrive, General Catalyst, and Coatue participating.

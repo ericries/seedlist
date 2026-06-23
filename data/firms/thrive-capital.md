@@ -212,6 +212,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Forus | Growth (led, $160M at $1B val) | 2026-05-12 | Healthcare / AI / Pharmacy | Private [^40][^41] |
 | Socket | Series C (led, $60M at $1B val) | 2026-05-20 | Cybersecurity / Software Supply Chain | Private [^47] |
 | NewLimit | Series C (participated, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^48][^49][^50] |
+| Cadence (Care) | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^57][^58][^59] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
 
@@ -388,3 +389,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^55]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Confirms Thrive Capital among investors in XDOF's $70M launch round alongside Spark Capital, Andreessen Horowitz, Lux Capital, and WndrCo.
 
 [^56]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/
+
+[^57]: Cadence, "Cadence Raises $100M Series C Led by Spark Capital to Automate Chronic Care," June 23, 2026. Accessed June 2026. https://www.cadence.care/post/cadence-raises-100m-series-c-led-by-spark-capital-to-automate-chronic-care — Primary announcement confirming Thrive Capital participated alongside General Catalyst, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, and Duke Health in Spark Capital's $100M Series C lead. This Cadence (chronic-care clinical AI) is distinct from the earlier Cadence enterprise company Thrive incubated [^11].
+
+[^58]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing Thrive Capital as a participant.
+
+[^59]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with Thrive Capital named among participating investors.

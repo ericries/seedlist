@@ -232,6 +232,7 @@ The following table includes 72 verified investments sourced from General Cataly
 | Modal Labs | Series C (co-led with Redpoint, $355M at $4.65B val) | 2026-05-21 | AI Infrastructure / Serverless / GPU | Private [^65] |
 | Cognition | $1B+ growth (co-led with Lux Capital and 8VC at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^66] |
 | Geordie AI | Series A (follow-on, $30M at ~$180M post-money; Balderton led) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Private [^67] |
+| Cadence | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^77][^78][^79] |
 
 *Note: This table includes 72 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -431,4 +432,10 @@ No independently sourced founder testimonials were found in this research pass. 
 [^75]: Calcalist (CTech), "Rylo raises $85 million at $500 million valuation, targets $1 billion revenue by 2028," June 9, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/rjgulkbbgx — Independent confirmation: $85M raise at ~$500M valuation; total funding to $101M. Lead investors General Catalyst and Canaan; additional participants Cardumen, Vertex Precursor, K5.
 
 [^76]: news.fundsforngos.org, "Rylo Surpasses $100M in Total Funding with New $85M Growth Round Led by General Catalyst," June 10, 2026. Accessed June 2026. https://news.fundsforngos.org/2026/06/10/rylo-surpasses-100m-in-total-funding-with-new-85m-growth-round-led-by-general-catalyst/ — Confirms growth round led by General Catalyst Customer Value Fund with Canaan, Vertex Ventures, and Contour participating.
+
+[^77]: Cadence, "Cadence Raises $100M Series C Led by Spark Capital to Automate Chronic Care," June 23, 2026. Accessed June 2026. https://www.cadence.care/post/cadence-raises-100m-series-c-led-by-spark-capital-to-automate-chronic-care — Primary announcement confirming General Catalyst participated alongside Thrive Capital, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, and Duke Health in Spark Capital's $100M Series C lead.
+
+[^78]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing General Catalyst as a participant.
+
+[^79]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with General Catalyst named among participating investors.
 

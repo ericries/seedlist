@@ -2064,11 +2064,15 @@ priority:
   added: '2026-06-22'
 - slug: lowercarbon-capital
   type: firm
+  status: resolved
   reason: Participated in Isometric Series A 2026-06-22
+  resolution: Verified — Isometric Series A row already present in lowercarbon-capital.md portfolio with 3 independent citations (Finsmes [^33], UKTN [^34], Carbon Herald [^35]). No additional action needed.
   added: '2026-06-22'
 - slug: john-doerr
   type: investor
+  status: resolved
   reason: Angel in Isometric Series A 2026-06-22
+  resolution: Verified — Isometric Series A row already present in john-doerr.md portfolio with 3 independent citations (Finsmes [^33], UKTN [^34], Carbon Herald [^35]). No additional action needed.
   added: '2026-06-22'
 - slug: cadence
   type: startup
@@ -2080,18 +2084,26 @@ priority:
   added: '2026-06-23'
 - slug: spark-capital
   type: firm
+  status: resolved
   reason: Led Cadence Series C 2026-06-23
+  resolution: Cadence Series C row added to spark-capital.md portfolio with 3 citations — Cadence press release [^57], Cadence engine post cross-ref [^58], BusinessWire funding newsroom [^59]. Primary source confirms Spark led $100M with Thrive, GC, Coatue, B Capital, Corewell, Memorial Hermann, Duke Health participating.
   added: '2026-06-23'
 - slug: thrive-capital
   type: firm
+  status: resolved
   reason: Participated in Cadence Series C 2026-06-23
+  resolution: Cadence (Care) Series C row added to thrive-capital.md portfolio with 3 citations [^57][^58][^59]. Noted distinction from earlier Cadence enterprise company Thrive incubated.
   added: '2026-06-23'
 - slug: general-catalyst
   type: firm
+  status: resolved
   reason: Participated in Cadence Series C 2026-06-23
+  resolution: Cadence Series C row added to general-catalyst.md portfolio with 3 citations — Cadence press release [^77], engine post [^78], BusinessWire funding newsroom [^79].
   added: '2026-06-23'
 - slug: coatue-management
   type: firm
+  status: resolved
   reason: Participated in Cadence Series C 2026-06-23
+  resolution: Cadence Series C row added to coatue-management.md portfolio with 3 citations — Cadence press release [^64], engine post [^65], BusinessWire funding newsroom [^66]. Coatue had previously led the December 2021 Series B at $1B valuation.
   added: '2026-06-23'
 
