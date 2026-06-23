@@ -83,6 +83,95 @@ pending_rounds:
   parsed_amount: $7M
   parsed_round: null
   status: pending
+- title: Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups
+    Across Stages
+  url: https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/
+  source: crunchbase
+  date_found: '2026-06-23'
+  parsed_company: Anthropic Backer Menlo Ventures
+  parsed_amount: $3B
+  parsed_round: null
+  status: pending
+- title: and Karta raised $15M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: and Karta
+  parsed_amount: $15M
+  parsed_round: null
+  status: pending
+- title: Peregrine Technologies raised $250M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Peregrine Technologies
+  parsed_amount: $250M
+  parsed_round: Series D
+  status: pending
+- title: Spiro raised $55M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Spiro
+  parsed_amount: $55M
+  parsed_round: null
+  status: pending
+- title: Probook raised $34M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Probook
+  parsed_amount: $34M
+  parsed_round: Series A
+  status: pending
+- title: Ploy raised $27M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Ploy
+  parsed_amount: $27M
+  parsed_round: Seed
+  status: pending
+- title: Niural raised $21M additional Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Niural
+  parsed_amount: $21M
+  parsed_round: Additional Series A
+  status: pending
+- title: Tetrix raised $15M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Tetrix
+  parsed_amount: $15M
+  parsed_round: null
+  status: pending
+- title: Ladder Health raised $7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: Ladder Health
+  parsed_amount: $7M
+  parsed_round: Seed
+  status: pending
+- title: ChemT raised $4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: ChemT
+  parsed_amount: $4M
+  parsed_round: Seed
+  status: pending
+- title: H3 Zoom raised $3.6M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-23'
+  parsed_company: H3 Zoom
+  parsed_amount: $3.6M
+  parsed_round: Series A
+  status: pending
 - title: 'Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To
     Record Numbers In 2026'
   url: https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/
@@ -744,99 +833,5 @@ pending_rounds:
   date_found: '2026-06-17'
   parsed_company: Clearlake Capital Group
   parsed_amount: $14.8B
-  parsed_round: null
-  status: pending
-- title: u003e The Seattle-based chain raised $160M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: u003e The Seattle-based chain
-  parsed_amount: $160M
-  parsed_round: null
-  status: pending
-- title: u003e raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: u003e
-  parsed_amount: $400M
-  parsed_round: null
-  status: pending
-- title: National Healthcare Properties Announces Preliminary Results of its Series
-    A and Series B Preferred Stock Self Tender Offers
-  url: https://www.globenewswire.com/news-release/2026/06/17/3313808/0/en/National-Healthcare-Properties-Announces-Preliminary-Results-of-its-Series-A-and-Series-B-Preferred-Stock-Self-Tender-Offers.html
-  source: globenewswire
-  date_found: '2026-06-17'
-  parsed_company: National Healthcare Properties
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Warsaw’s Microamp raises €6.5 million to support European 5G and 6G network
-    technology
-  url: https://www.eu-startups.com/2026/06/warsaws-microamp-raises-e6-5-million-to-support-european-5g-and-6g-network-technology/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Warsaw’s Microamp
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/17/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-17-2026/
-  source: alleywatch
-  date_found: '2026-06-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes
-    acquisitions
-  url: https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
-  source: techcrunch
-  date_found: '2026-06-16'
-  parsed_company: Malaysia’s AI agent-powered messaging app Respond.io
-  parsed_amount: $62.5M
-  parsed_round: null
-  status: pending
-- title: Paris-based Rocapine raises €11.2 million to scale wellness apps that “hold
-    instead of hook”
-  url: https://www.eu-startups.com/2026/06/paris-based-rocapine-raises-e11-2-million-to-scale-wellness-apps-that-hold-instead-of-hook/
-  source: eu-startups
-  date_found: '2026-06-16'
-  parsed_company: Paris-based Rocapine
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based Cortea raises €12 million Seed round to build AI quality layer
-    for audit firms
-  url: https://www.eu-startups.com/2026/06/berlin-based-cortea-raises-e12-million-seed-round-to-build-ai-quality-layer-for-audit-firms/
-  source: eu-startups
-  date_found: '2026-06-16'
-  parsed_company: Berlin-based Cortea
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Swedish AI patent platform Lightbringer raises €8.6 million to “take on Big
-    Law” and replace existing patent firms
-  url: https://www.eu-startups.com/2026/06/swedish-ai-patent-platform-lightbringer-raises-e8-6-million-to-take-on-big-law-and-replace-existing-patent-firms/
-  source: eu-startups
-  date_found: '2026-06-16'
-  parsed_company: Swedish AI patent platform Lightbringer
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Probably raises $9M to build a more reliable kind of AI
-  url: https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/
-  source: techcrunch
-  date_found: '2026-06-16'
-  parsed_company: Probably
-  parsed_amount: $9M
-  parsed_round: null
-  status: pending
-- title: The AlleyWatch May 2026 US Venture Capital Funding Report
-  url: https://alleywatch.com/2026/06/us-venture-capital-statistics-may-2026/
-  source: alleywatch
-  date_found: '2026-06-16'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending

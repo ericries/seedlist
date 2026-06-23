@@ -90,7 +90,7 @@ Based on 38 verified investments compiled from Tribe Capital's portfolio page, C
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Kraken | Growth | 2025 | Crypto | [^6] |
+| Kraken | Growth ($800M) | 2025-11-18 | Crypto | [^6] |
 | Aether Biomachines | Series A | 2025 | Biotech | [^14] |
 | Ego AI | Seed (angel) | 2025 | AI/Gaming | [^17] |
 | xAI | Growth | ~2024 | AI | [^15] |
@@ -98,7 +98,7 @@ Based on 38 verified investments compiled from Tribe Capital's portfolio page, C
 | SpaceX | Growth | ~2024 | Space | [^7] |
 | Docker | Series B (lead) | 2021 | Developer Tools | [^13] |
 | Docker | Series C | 2022 | Developer Tools | [^18] |
-| Applied Intuition | Series F | 2025 | Autonomous Vehicles | [^23] |
+| Applied Intuition | Series F | 2025-06-17 | Autonomous Vehicles | [^23] |
 ~unknown| Instabase | — | — | Enterprise AI | [^7] |
 | Carta | Early stage | ~2017 | Fintech | [^4] |
 | Front | Early stage | ~2017 | Enterprise | [^4] |

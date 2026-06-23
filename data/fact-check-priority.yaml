@@ -2107,3 +2107,19 @@ priority:
   resolution: Cadence Series C row added to coatue-management.md portfolio with 3 citations — Cadence press release [^64], engine post [^65], BusinessWire funding newsroom [^66]. Coatue had previously led the December 2021 Series B at $1B valuation.
   added: '2026-06-23'
 
+- slug: alexis-ohanian
+  type: investor
+  reason: "led HaloBraid $7M seed via Seven Seven Six (2026-06-23)"
+  added: 2026-06-23
+- slug: seven-seven-six
+  type: firm
+  reason: "led HaloBraid $7M seed (2026-06-23)"
+  added: 2026-06-23
+- slug: sequoia-capital
+  type: firm
+  reason: "participated in Peregrine $250M Series D (2026-06-23)"
+  added: 2026-06-23
+- slug: arjun-sethi
+  type: investor
+  reason: "resolved Kraken and Applied Intuition portfolio dates"
+  added: 2026-06-23
