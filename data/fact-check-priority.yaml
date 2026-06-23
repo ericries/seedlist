@@ -2061,4 +2061,28 @@ priority:
   type: investor
   reason: Angel in Isometric Series A 2026-06-22
   added: '2026-06-22'
+- slug: cadence
+  type: startup
+  reason: New profile for $100M Series C (2026-06-23, Spark-led)
+  added: '2026-06-23'
+- slug: superlight
+  type: startup
+  reason: New profile for $21M Series A (2026-06-23, Engine Ventures/2150 co-led)
+  added: '2026-06-23'
+- slug: spark-capital
+  type: firm
+  reason: Led Cadence Series C 2026-06-23
+  added: '2026-06-23'
+- slug: thrive-capital
+  type: firm
+  reason: Participated in Cadence Series C 2026-06-23
+  added: '2026-06-23'
+- slug: general-catalyst
+  type: firm
+  reason: Participated in Cadence Series C 2026-06-23
+  added: '2026-06-23'
+- slug: coatue-management
+  type: firm
+  reason: Participated in Cadence Series C 2026-06-23
+  added: '2026-06-23'
 

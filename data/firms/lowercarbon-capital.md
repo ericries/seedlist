@@ -97,6 +97,7 @@ Based on approximately 93-233 investments (sources vary; Tracxn reports 93 as of
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Isometric | Series A | 2026-06-22 | Industrial certification/AI/Climate | Active | [^33][^34][^35] |
 | Fuse Energy | Series B Extension | 2026-06-04 | Energy (vertically integrated) | Active | [^28][^29][^30] |
 | Fuse Energy | Series B (Co-Led) | 2025-12-22 | Energy (vertically integrated) | Active | [^31][^32] |
 | Fuse Energy | Seed | 2022 | Energy (vertically integrated) | Active | [^31][^32] |
@@ -167,3 +168,7 @@ No independently sourced founder testimonials found. The firm's website describe
 [^30]: TechFundingNews, "Fuse Energy hits profitability with $550M revenue run rate as it challenges Britain's energy giants," June 2026. Accessed June 2026. https://techfundingnews.com/fuse-energy-hits-profitability-with-550m-revenue-run-rate-as-it-challenges-britains-energy-giants/ — Independent confirmation that 20VC and Collaborative Fund led the $30M extension with Balderton and Lowercarbon as existing backers participating.
 [^31]: Mercom Capital Group, "Fuse Energy Secures $70 Million in Series B Funding," December 2025. Accessed June 2026. https://mercomcapital.com/fuse-energy-secures-70-million-in-series-b-funding/ — Confirms $70M Series B co-led by Balderton and Lowercarbon Capital at $5B valuation, December 22, 2025. Notes prior 2022 round of $78M with Lowercarbon among participants alongside Balderton (lead), Lakestar (lead), Accel, Creandum, Ribbit, and BoxGroup.
 [^32]: Sifted, "Fuse Energy raises $70m backed by Balderton and Lowercarbon Capital," December 2025. Accessed June 2026. https://sifted.eu/articles/fuse-energy-70m-balderton-lowercarbon-capital — Independently confirms December 2025 Series B co-led by Balderton and Lowercarbon Capital ($70M at $5B valuation) with QuantumLight participating; identifies the 2022 round as the company's seed with Lowercarbon among backers.
+
+[^33]: Finsmes, "Isometric Raises $40M in Series A Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/isometric-raises-40m-in-series-a-funding.html — Confirms $40M Series A on June 22, 2026 led by AVP with Lowercarbon Capital, Plural, John Doerr, and Walter Kortschak participating.
+[^34]: UKTN, "Isometric raises over £30m to expand AI certification platform," June 22, 2026. Accessed June 2026. https://www.uktech.news/ai/isometric-raises-over-30m-to-expand-ai-certification-platform-20260622 — Independent confirmation of June 22, 2026 Series A with Lowercarbon Capital as a backer.
+[^35]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. Accessed June 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/ — Third independent source confirming Lowercarbon Capital participation in the $40M Series A.

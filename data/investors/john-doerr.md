@@ -109,6 +109,7 @@ Total: 25 verified investments. Note: this sample represents a small fraction of
 | Complete Solaria | 2023 | Growth | [^26] |
 | Terradot | 2024-12-12 | Series A (led) | [^27][^31][^32] |
 | Hippocratic AI | 2025 | Series C | [^28] |
+| Isometric | 2026-06-22 | Series A | [^33][^34][^35] |
 
 ## In Their Own Words
 
@@ -233,3 +234,7 @@ No independently sourced founder testimonials about working directly with John D
 [^31]: BusinessWire, "With $58.2M in Funding & Landmark Carbon Removal Deals, Terradot Launches with Bold Plan to Scale CO2 Removal this Decade," December 12, 2024. Accessed May 2026. https://www.businesswire.com/news/home/20241212215501/en/With-$58.2M-in-Funding-Landmark-Carbon-Removal-Deals-Terradot-Launches-with-Bold-Plan-to-Scale-CO2-Removal-this-Decade — Terradot's launch from stealth on December 12, 2024 with $58.2M total funding ($4.2M Seed + $54M Series A). John Doerr led the Series A; co-investors included Kleiner Perkins, Microsoft's Climate Innovation Fund, Google, Cisco, Floodgate, Acre Venture Partners, Gigascale Capital, Valor Capital, Ponderosa Ventures, and individuals Sheryl Sandberg, Tom Bernthal, and George Roberts.
 
 [^32]: LatamList, "Terradot raises $58M series A round," December 2024. Accessed May 2026. https://latamlist.com/terradot-raises-58m-series-a-round/ — Confirms John Doerr (Kleiner Perkins Chairman) led the Series A round.
+
+[^33]: Finsmes, "Isometric Raises $40M in Series A Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/isometric-raises-40m-in-series-a-funding.html — Confirms John Doerr as an angel participant in the $40M Series A led by AVP on June 22, 2026.
+[^34]: UKTN, "Isometric raises over £30m to expand AI certification platform," June 22, 2026. Accessed June 2026. https://www.uktech.news/ai/isometric-raises-over-30m-to-expand-ai-certification-platform-20260622 — Independent UK tech press confirmation of John Doerr's participation.
+[^35]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. Accessed June 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/ — Third independent source confirming John Doerr in the Isometric Series A.
