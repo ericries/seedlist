@@ -172,6 +172,23 @@ pending_rounds:
   parsed_amount: $3.6M
   parsed_round: Series A
   status: pending
+- title: After betting the firm on Anthropic, Menlo Ventures raises victorious $3B
+    fund
+  url: https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/
+  source: techcrunch
+  date_found: '2026-06-23'
+  parsed_company: After betting the firm on Anthropic, Menlo Ventures
+  parsed_amount: $3B
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/23/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-23-2026/
+  source: alleywatch
+  date_found: '2026-06-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To
     Record Numbers In 2026'
   url: https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/
@@ -817,21 +834,5 @@ pending_rounds:
   date_found: '2026-06-17'
   parsed_company: Cantor Equity Partners VII
   parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: Align Capital Partners raised $770M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Align Capital Partners
-  parsed_amount: $770M
-  parsed_round: null
-  status: pending
-- title: Clearlake Capital Group raised $14.8B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Clearlake Capital Group
-  parsed_amount: $14.8B
   parsed_round: null
   status: pending
