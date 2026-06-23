@@ -2698,7 +2698,8 @@ vague_facts:
   line: '| Decart | Series B | 2025 | AI | Active (Unicorn, $3.1B) | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2025-08-07 (Decart Fortune) / 2025-11-18 (Jiga PR Newswire press release)
 - profile: firms/aleph
   profile_name: Aleph
   company: Dream
@@ -2848,7 +2849,8 @@ vague_facts:
   line: '| Jiga | Series A | 2025 | Software / Manufacturing | Active | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2025-08-07 (Decart Fortune) / 2025-11-18 (Jiga PR Newswire press release)
 - profile: firms/aleph
   profile_name: Aleph
   company: Lemonade
@@ -165368,7 +165370,8 @@ vague_facts:
   line: '| Decart | Series B | 2025 | AI | Active (Unicorn, $3.1B) | [^16] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2025-08-07 (Decart Fortune) / 2025-11-18 (Jiga PR Newswire press release)
 - profile: firms/aleph
   profile_name: Aleph
   company: Jiga
@@ -165378,7 +165381,8 @@ vague_facts:
   line: '| Jiga | Series A | 2025 | Software / Manufacturing | Active | [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2025-08-07 (Decart Fortune) / 2025-11-18 (Jiga PR Newswire press release)
 - profile: firms/aleph
   profile_name: Aleph
   company: Ohr

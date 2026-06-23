@@ -90,7 +90,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Coralogix | Series A | ~2019 | Data Infrastructure | Active | [^9] |
 | Daily.dev | Seed | 2022 | Developer Tools | Active | [^9] |
 | Daisy | Series A | ~2019 | Real Estate | Active | [^9] |
-| Decart | Series B | 2025 | AI | Active (Unicorn, $3.1B) | [^16] |
+| Decart | Series B | 2025-08-07 | AI | Active (Unicorn, $3.1B) | [^16] |
 | Dream | Series A | 2023-11-21 | Cybersecurity | Active ($1.1B valuation) | [^9] [^18] [^19] |
 | Embed | Seed | 2022 | Logistics | Active | [^9] |
 | Empathy | Seed | 2020 | Legal / Services | Active | [^9] |
@@ -105,7 +105,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Healthy.io | Series A | ~2018 | Healthcare | Active | [^9] |
 | HoneyBook | Series A | ~2014 | Fintech / SMB | Active (Unicorn) | [^9] |
 | Houseparty | Seed | ~2016 | Consumer | Acquired by Epic Games | [^9] |
-| Jiga | Series A | 2025 | Software / Manufacturing | Active | [^17] |
+| Jiga | Series A | 2025-11-18 | Software / Manufacturing | Active | [^17] |
 | Lemonade | Seed | ~2015 | Insurtech | IPO: NYSE LMND | [^9] |
 | Luminate | Seed | ~2016 | Cybersecurity | Acquired by Symantec | [^9] |
 | Melio | Seed | ~2018 | Fintech / Payments | Acquired by Xero ($2.5B) | [^9] [^10] |

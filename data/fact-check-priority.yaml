@@ -34,14 +34,23 @@ priority:
   type: startup
   reason: New profile for Vedana Therapeutics $46M Series A (2026-06-17)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-06-23
+  resolution_note: Profile already exists at data/startups/vedana-therapeutics.md.
 - slug: andera
   type: startup
   reason: New profile for Andera $37M Series A (2026-06-17)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-06-23
+  resolution_note: Profile already exists at data/startups/andera.md.
 - slug: limitless-labs
   type: startup
   reason: New profile for Limitless Labs $20M Series A (2026-06-16)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-06-23
+  resolution_note: Profile already exists at data/startups/limitless-labs.md.
 - slug: tobi-lutke
   type: investor
   reason: appeared in KOHO Series E C$130M (2026-06-11)

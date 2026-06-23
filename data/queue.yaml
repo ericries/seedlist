@@ -30187,3 +30187,40 @@ queue:
   firm: Y Combinator
   discovered_from: lenny-rachitsky
   source: YC group partner; frequent co-investor with Lenny Rachitsky
+- name: AVP (AXA Venture Partners)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: isometric
+- name: Walter Kortschak
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: isometric
+- name: Eamon Jubbawy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Isometric
+  discovered_from: isometric
+- name: DFF Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grid-online
+- name: Movens Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grid-online
+- name: Reflex Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grid-online
