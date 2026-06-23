@@ -202,6 +202,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/22/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-22-2026/
+  source: alleywatch
+  date_found: '2026-06-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/22/26'
   url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-22-26/
   source: alleywatch
@@ -823,14 +831,6 @@ pending_rounds:
   source: axios-pro-rata
   date_found: '2026-06-16'
   parsed_company: Bland
-  parsed_amount: $50M
-  parsed_round: Series C
-  status: pending
-- title: Interchecks raised $50M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Interchecks
   parsed_amount: $50M
   parsed_round: Series C
   status: pending
