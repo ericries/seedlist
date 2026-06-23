@@ -67,7 +67,7 @@ The following table represents a subset of Songhurst's approximately 500 claimed
 | Trace.Space | 2025 | Seed | [^12] |
 | Tracelight | 2025 | Seed | [^12] |
 | Aidin | 2025 | Venture | [^12] |
-| Refute | 2024 | Seed | [^4] |
+| Refute | 2024-12-13 | Pre-Seed | [^4][^24][^25] |
 | FlyMy.AI | 2024 | Pre-Seed | [^12] |
 | Plato | 2024 | Pre-Seed | [^12] |
 | Auquan | 2024 | Seed | [^12] |
@@ -178,3 +178,5 @@ No additional independently sourced founder testimonials found beyond EF's co-fo
 [^21]: Crunchbase, "Seed Round - Rigetti Computing - 2014-04-15," accessed June 2026. https://www.crunchbase.com/funding_round/rigetti-computing-seed--509d63f2
 [^22]: FinSMEs, "Convoy Raises $2.5m in Seed Funding," October 2015, accessed June 2026. https://www.finsmes.com/2015/10/convoy-raises-2-5m-in-seed-funding.html
 [^23]: VCNewsDaily, "ClassPass Raises $2M," March 2014, accessed June 2026. https://www.vcnewsdaily.com/classpass/venture-capital-funding/tfnpdgnzpn
+[^24]: TechCrunch, "As AI-fueled disinformation explodes, here comes the startup counterattack," December 13, 2024. https://techcrunch.com/2024/12/13/as-ai-fueled-disinformation-explodes-here-comes-the-startup-counterattack/
+[^25]: Crunchbase, "Pre Seed Round - Refute - 2024-12-13," accessed June 2026. https://www.crunchbase.com/funding_round/refute-pre-seed--c6cf77d7

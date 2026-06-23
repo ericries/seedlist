@@ -51650,7 +51650,8 @@ vague_facts:
   line: '| Refute | 2024 | Seed | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution: Refute pre-seed round dated 2024-12-13, £2.3M led by Playfair + Episode 1; Songhurst angel. Updated table to Pre-Seed with exact date, added TC and Crunchbase citations.
 - profile: investors/charlie-songhurst
   profile_name: Charlie Songhurst
   company: FlyMy.AI
@@ -176923,8 +176924,7 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution_note: Dedalus Labs seed $11M confirmed 2025-10-15 from company blog byline (Cathy Di/Windsor Nguyen). Pally pre-seed confirmed 2025-06-30 via Crunchbase funding round profile; seed round with
-    Henderson appears still open per AngelsRound.
+  resolution_note: Dedalus Labs seed $11M confirmed 2025-10-15 from company blog byline (Cathy Di/Windsor Nguyen). Pally pre-seed confirmed 2025-06-30 via Crunchbase funding round profile; seed round with Henderson appears still open per AngelsRound.
 - profile: investors/cal-henderson
   profile_name: Cal Henderson
   company: Pally
@@ -176935,8 +176935,7 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution_note: Dedalus Labs seed $11M confirmed 2025-10-15 from company blog byline (Cathy Di/Windsor Nguyen). Pally pre-seed confirmed 2025-06-30 via Crunchbase funding round profile; seed round with
-    Henderson appears still open per AngelsRound.
+  resolution_note: Dedalus Labs seed $11M confirmed 2025-10-15 from company blog byline (Cathy Di/Windsor Nguyen). Pally pre-seed confirmed 2025-06-30 via Crunchbase funding round profile; seed round with Henderson appears still open per AngelsRound.
 - profile: investors/carina-namih
   profile_name: Carina Namih
   company: Robin AI
@@ -177236,7 +177235,8 @@ vague_facts:
   line: '| Refute | 2024 | Seed | [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: Refute pre-seed round dated 2024-12-13, £2.3M led by Playfair + Episode 1; Songhurst angel. Updated table to Pre-Seed with exact date, added TC and Crunchbase citations.
 - profile: investors/charlie-songhurst
   profile_name: Charlie Songhurst
   company: FlyMy.AI
