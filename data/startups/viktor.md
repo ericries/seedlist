@@ -22,6 +22,9 @@ investors:
   round: series-a
   slug: guillermo-rauch
   year: 2026
+- round: Series A
+  slug: lenny-rachitsky
+  year: 2026
 last_researched: 2026-05-20
 location: Rotterdam, Netherlands
 name: Viktor

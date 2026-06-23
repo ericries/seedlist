@@ -8151,7 +8151,7 @@ queue:
 - name: Harry Stebbings
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 20VC
   discovered_from: prima-materia
@@ -30071,3 +30071,119 @@ queue:
   added: '2026-03-17'
   discovered_from: acodyne
   source: Export and Investment Fund of Denmark, co-invested Acodyne pre-seed
+- name: 20VC Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: Harry Stebbings' solo GP fund; $400M Fund III in 2024, $600M+ AUM
+- name: Stride VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: London seed firm co-founded by Stebbings and Destin in 2018
+- name: Tripledot Studios
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC's largest investment; mobile games unicorn
+- name: Peec AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC-led seed July 2025; Berlin AI search marketing
+- name: ScorePlay
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC-led $13M Series A Feb 2025; AI content
+- name: Pachama
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC portfolio; climate
+- name: Captions.ai
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC portfolio; AI video editing
+- name: Merge
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC portfolio; unified API
+- name: Airwallex
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC portfolio; global payments infrastructure
+- name: Poolside AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harry-stebbings
+  source: 20VC portfolio; AI coding foundation models
+- name: LlamaIndex
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lenny-rachitsky
+  source: AI infra; $8.5M seed led by Greylock May 2023 with Lenny Rachitsky as angel
+- name: Simular
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lenny-rachitsky
+  source: AI agent; seed 2024 + Series A Dec 2025; Lenny Rachitsky angel
+- name: Rewatch
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lenny-rachitsky
+  source: video channel platform; Lenny Rachitsky angel
+- name: Bryan Kim
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: lenny-rachitsky
+  source: frequent co-investor with Lenny Rachitsky; a16z consumer partner
+- name: Lan Xuezhao
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Basis Set Ventures
+  discovered_from: lenny-rachitsky
+  source: frequent co-investor with Lenny Rachitsky; founder/managing partner of Basis
+    Set
+- name: Diana Hu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Y Combinator
+  discovered_from: lenny-rachitsky
+  source: YC group partner; frequent co-investor with Lenny Rachitsky

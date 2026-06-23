@@ -12,6 +12,9 @@ firms:
   round: series-b
   slug: benchmark
   year: 2026
+- round: Series B
+  slug: a-star-capital
+  year: 2026
 founded: 2024
 founders:
 - name: Paul Erlanger

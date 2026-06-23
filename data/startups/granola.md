@@ -87,6 +87,9 @@ investors:
 - round: Series B ($43M, led by NFDG)
   slug: karri-saarinen
   year: 2025
+- round: Series B
+  slug: lenny-rachitsky
+  year: 2025
 last_researched: 2026-05-25
 location: London, United Kingdom
 name: Granola

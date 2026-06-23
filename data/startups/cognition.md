@@ -69,6 +69,9 @@ investors:
 - round: ~2023
   slug: sarah-guo
   year: 2023
+- round: Series A
+  slug: harry-stebbings
+  year: 2024
 last_researched: 2026-05-28
 location: San Francisco, CA
 name: Cognition
