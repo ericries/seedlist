@@ -1,36 +1,44 @@
 ---
-name: "Cadence"
-slug: cadence
-type: startup
-website: "https://www.cadence.care"
-location: "New York, NY"
-status_company: active
-sector: [healthcare, digital-health, ai-ml, chronic-care, remote-patient-monitoring]
-stage_latest: "Series C"
-total_raised: "$244M+"
-investors: []
 firms:
-  - slug: spark-capital
-    round: series-c
-    year: 2026
-    date: 2026-06-23
-  - slug: thrive-capital
-    round: series-c
-    year: 2026
-    date: 2026-06-23
-  - slug: general-catalyst
-    round: series-c
-    year: 2026
-    date: 2026-06-23
-  - slug: coatue-management
-    round: series-c
-    year: 2026
-    date: 2026-06-23
+- date: 2026-06-23
+  round: series-c
+  slug: spark-capital
+  year: 2026
+- date: 2026-06-23
+  round: series-c
+  slug: thrive-capital
+  year: 2026
+- date: 2026-06-23
+  round: series-c
+  slug: general-catalyst
+  year: 2026
+- date: 2026-06-23
+  round: series-c
+  slug: coatue-management
+  year: 2026
 founders:
-  - name: "Chris Altchek"
-    role: "Founder & CEO"
-status: published
+- name: Chris Altchek
+  role: Founder & CEO
+investors:
+- round: Co-founded
+  slug: kareem-zaki
+  year: 2016
 last_researched: 2026-06-23
+location: New York, NY
+name: Cadence
+sector:
+- healthcare
+- digital-health
+- ai-ml
+- chronic-care
+- remote-patient-monitoring
+slug: cadence
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $244M+
+type: startup
+website: https://www.cadence.care
 ---
 
 ## About

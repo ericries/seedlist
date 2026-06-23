@@ -3,9 +3,9 @@ check_size: $10M–$150M (via Kleiner Perkins); $10M individual (e.g., Complete 
 firm: kleiner-perkins
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Hippocratic AI
-  date: 2025-11-03
-  round: Series C
+  company: Isometric
+  date: ~2026
+  round: Series A
 location: Menlo Park, CA
 name: John Doerr
 role: Chairman

@@ -45,6 +45,9 @@ investors:
 - round: Series E (lead)
   slug: divesh-makan
   year: 2026
+- round: Seed
+  slug: lan-xuezhao
+  year: 2019
 last_researched: 2026-03-30
 location: San Francisco, CA
 name: Quince

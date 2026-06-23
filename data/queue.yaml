@@ -23459,7 +23459,7 @@ queue:
 - name: Brett Bejcek
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Limitless
   discovered_from: dan-siroker
@@ -30173,7 +30173,7 @@ queue:
 - name: Lan Xuezhao
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Basis Set Ventures
   discovered_from: lenny-rachitsky
@@ -30224,3 +30224,59 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: grid-online
+- name: Sakana AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: Basis Set seed (Tokyo-based AI lab)
+- name: Path Robotics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: Basis Set seed/Series A
+- name: Workstream
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: Basis Set seed (hourly workforce)
+- name: Ergeon
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: Basis Set seed (residential construction automation)
+- name: DataGrail
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: Basis Set seed (privacy/compliance)
+- name: OpenArt
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: Basis Set seed (generative art)
+- name: Pivotal Ventures (Melinda French Gates)
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lan-xuezhao
+  source: LP in Basis Set Ventures
+- name: Paul Stamatiou
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Limitless
+  discovered_from: brett-bejcek

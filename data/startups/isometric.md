@@ -1,29 +1,53 @@
 ---
-name: "Isometric"
-slug: isometric
-type: startup
-website: "https://isometric.com"
-location: "London, United Kingdom"
-founded: 2022
-status_company: active
-sector: [climate, carbontech, ai, industrial, certification, compliance]
-stage_latest: "Series A"
-total_raised: "$65M+"
-investors:
-  - slug: john-doerr
-    round: series-a
-    year: 2026
-    date: 2026-06-22
 firms:
-  - slug: lowercarbon-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-22
+- date: 2026-06-22
+  round: series-a
+  slug: lowercarbon-capital
+  year: 2026
+- round: Series ($25M, Plural participant)
+  slug: plural
+  year: 2024
+- round: Series A
+  slug: kleiner-perkins
+  year: 2026
+- round: Early stage
+  slug: atomico
+  year: 2023
+founded: 2022
 founders:
-  - name: "Eamon Jubbawy"
-    role: "CEO & Founder"
-status: published
+- name: Eamon Jubbawy
+  role: CEO & Founder
+investors:
+- date: 2026-06-22
+  round: series-a
+  slug: john-doerr
+  year: 2026
+- round: Series ($25M, Plural participant)
+  slug: taavet-hinrikus
+  year: 2024
+- round: Plural
+  slug: khaled-helioui
+  year: 2022
+- round: Early stage
+  slug: niklas-zennstrom
+  year: 2023
 last_researched: 2026-06-22
+location: London, United Kingdom
+name: Isometric
+sector:
+- climate
+- carbontech
+- ai
+- industrial
+- certification
+- compliance
+slug: isometric
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $65M+
+type: startup
+website: https://isometric.com
 ---
 
 ## About

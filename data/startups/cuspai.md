@@ -7,6 +7,9 @@ firms:
 - round: Angel
   slug: pear-vc
   year: 2023
+- round: Seed
+  slug: basis-set-ventures
+  year: 2024
 founded: 2024
 founders:
 - name: Chad Edwards
@@ -20,6 +23,9 @@ investors:
 - round: Angel
   slug: arash-ferdowsi
   year: 2023
+- round: Seed
+  slug: lan-xuezhao
+  year: 2024
 last_researched: 2026-06-03
 location: Cambridge, UK
 name: CuspAI

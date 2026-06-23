@@ -1,18 +1,33 @@
 ---
-name: "VARM"
-slug: varm
-type: startup
-location: "Berlin, Germany"
-sector: [climate, energy-efficiency, construction, climate-tech]
-stage_latest: "Series A"
-total_raised: "€23M+"
+firms:
+- round: '2024'
+  slug: pale-blue-dot
+  year: 2024
 founders:
-  - name: "Christian Grüner"
-    role: "CEO & Co-Founder"
-  - name: "Sebastian Würz"
-    role: "COO & Co-Founder"
-status: published
+- name: Christian Grüner
+  role: CEO & Co-Founder
+- name: Sebastian Würz
+  role: COO & Co-Founder
+investors:
+- round: '2024'
+  slug: joel-larsson
+  year: 2024
+- round: Seed
+  slug: heidi-lindvall
+  year: 2024
 last_researched: 2026-06-23
+location: Berlin, Germany
+name: VARM
+sector:
+- climate
+- energy-efficiency
+- construction
+- climate-tech
+slug: varm
+stage_latest: Series A
+status: published
+total_raised: €23M+
+type: startup
 ---
 
 ## About

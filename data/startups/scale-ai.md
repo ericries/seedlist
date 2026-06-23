@@ -65,6 +65,9 @@ firms:
   year: 2018
 - slug: accel
 - slug: spark-capital
+- round: Seed (personal angel)
+  slug: basis-set-ventures
+  year: 2016
 founded: 2016
 founders:
 - name: Alexandr Wang
@@ -128,6 +131,9 @@ investors:
   year: 2018
 - round: Pre-Seed
   slug: paige-craig
+  year: 2016
+- round: Seed (personal angel)
+  slug: lan-xuezhao
   year: 2016
 last_researched: 2026-03-19
 location: San Francisco, CA
