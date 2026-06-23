@@ -74,6 +74,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon
+    appointment
+  url: https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/
+  source: techcrunch
+  date_found: '2026-06-23'
+  parsed_company: HaloBraid
+  parsed_amount: $7M
+  parsed_round: null
+  status: pending
 - title: 'Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To
     Record Numbers In 2026'
   url: https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/
@@ -830,13 +839,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Open-source startup GitHits closes €1.5 million to in pre-seed funding for
-    product development
-  url: https://www.eu-startups.com/2026/06/open-source-startup-githits-closes-e1-5-million-to-in-pre-seed-funding-for-product-development/
-  source: eu-startups
-  date_found: '2026-06-16'
-  parsed_company: Open-source startup GitHits
-  parsed_amount: null
-  parsed_round: Pre-Seed
   status: pending
