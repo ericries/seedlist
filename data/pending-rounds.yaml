@@ -20,6 +20,51 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Purpose Investments Lists New ETF Series of the Purpose Global Resource Fund
+    (PGRX) on the Toronto Stock Exchange
+  url: https://www.globenewswire.com/news-release/2026/06/23/3315827/0/en/Purpose-Investments-Lists-New-ETF-Series-of-the-Purpose-Global-Resource-Fund-PGRX-on-the-Toronto-Stock-Exchange.html
+  source: globenewswire
+  date_found: '2026-06-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Fika Jobs raises $4M to build a video-first hiring platform where AI agents
+    interview candidates
+  url: https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/
+  source: techcrunch
+  date_found: '2026-06-23'
+  parsed_company: Fika Jobs
+  parsed_amount: $4M
+  parsed_round: null
+  status: pending
+- title: British asset finance platform equipal secures €18.84 million to grow team
+    and lending capacity
+  url: https://www.eu-startups.com/2026/06/british-asset-finance-platform-equipal-secures-e18-84-million-to-grow-team-and-lending-capacity/
+  source: eu-startups
+  date_found: '2026-06-23'
+  parsed_company: British asset finance platform equipal
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bristol’s Astral Systems secures €26 million Series A to support medical
+    isotope commercialisation
+  url: https://www.eu-startups.com/2026/06/bristols-astral-systems-secures-e26-million-series-a-to-support-medical-isotope-commercialisation/
+  source: eu-startups
+  date_found: '2026-06-23'
+  parsed_company: Bristol’s Astral Systems
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Cambridge’s TRIMTECH Therapeutics brings Seed round to €41 million for neurodegenerative
+    disease work
+  url: https://www.eu-startups.com/2026/06/cambridges-trimtech-therapeutics-brings-seed-round-to-e41-million-with-jjdc-and-bgf-backing/
+  source: eu-startups
+  date_found: '2026-06-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: '14 million poorly insulated German homes: VARM raises €17.5 million to expand
     its installer network'
   url: https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/
@@ -794,44 +839,4 @@ pending_rounds:
   parsed_company: Open-source startup GitHits
   parsed_amount: null
   parsed_round: Pre-Seed
-  status: pending
-- title: Barcelona-based Gate2Brain secures €7 million to advance brain tumour candidate
-  url: https://www.eu-startups.com/2026/06/barcelona-based-gate2brain-secures-e7-million-to-advance-brain-tumour-candidate/
-  source: eu-startups
-  date_found: '2026-06-16'
-  parsed_company: Barcelona-based Gate2Brain
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Cursor raised $3.38B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Cursor
-  parsed_amount: $3.38B
-  parsed_round: null
-  status: pending
-- title: Sarvam raised $234M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Sarvam
-  parsed_amount: $234M
-  parsed_round: null
-  status: pending
-- title: Hydra Host raised $100M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Hydra Host
-  parsed_amount: $100M
-  parsed_round: Series A
-  status: pending
-- title: Arcade.dev raised $60M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-16'
-  parsed_company: Arcade.dev
-  parsed_amount: $60M
-  parsed_round: Series A
   status: pending

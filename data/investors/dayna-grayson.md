@@ -100,9 +100,9 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | ChargeLab | 2021 | Seed (led) | EV infrastructure | [^1][^33] |
 | Kinetic | 2023 | Series A (co-led) | Auto repair/maintenance | [^1][^38] |
 | Nauta | 2025 | Seed (co-led) | AI logistics for importers | [^1][^44] |
-| Owlery | ~2023 | Unknown | Logistics automation | [^1] |
+| Owlery | ~2024 | Seed ($3.1M total raised) | Logistics automation | [^1][^49] |
 | TimberEye | ~2024 | Seed (led) | Lumber supply chain | [^1][^43] |
-| WayTrade | ~2023 | Unknown | Renewable fuel trading | [^1] |
+| WayTrade | ~2023 | Seed (co-investor) | Renewable fuel trading | [^1][^50] |
 | Amplio | 2022 | Seed (co-led) | Electronic component supply chain | [^1][^35] |
 | Folio | 2025 | Series A (co-led) | Hospitality marketplace | [^1][^40] |
 | GrailPay | 2025 | Seed (led) | Payments/bank trust | [^1][^36] |
@@ -111,7 +111,7 @@ Based on 36 verified investments across Construct Capital's portfolio (2020-2026
 | Impilo | 2024 | Series A (led) | Remote patient monitoring logistics | [^1][^41] |
 | Teero | ~2023 | Seed | Dental staffing | [^1][^45] |
 
-Note: This table represents approximately 36 of an estimated 57-69 total investments (52-63%) [^10][^25]. Entries marked with "~" for year use approximate founding year as a proxy; entries marked "Unknown" for stage indicate the specific round type could not be independently verified.
+Note: This table represents approximately 36 of an estimated 57-69 total investments (52-63%) [^10][^25]. Entries marked with "~" for year use approximate founding year as a proxy. The US Chemical Technologies row reflects SEC Form D filings ($30M equity offering reported January 23, 2026); the specific round type is not publicly disclosed [^48].
 
 ### NEA (2012-2020)
 
@@ -215,3 +215,5 @@ No other independently sourced founder testimonials found. Firm website does not
 [^46]: TechCrunch, "The Rounds raises $38M Series A for its sustainable 'household restocking' service," October 6, 2022. https://techcrunch.com/2022/10/06/the-rounds-raises-38m-series-a-for-its-sustainable-household-restocking-service/ — Article states the Series A "came after a $4 million seed led by Rachel Holt at Construct Capital and Hayley Barna at local firm First Round Capital." Cross-referenced with Technical.ly coverage at https://technical.ly/startups/the-rounds-series-a/ confirming the same $4M seed co-led by Construct Capital and First Round Capital.
 [^47]: Monaire press release via PRWeb, "Monaire raises $3.5M to help small commercial buildings transition to sustainable heating and cooling using AI," March 20, 2024. https://www.prweb.com/releases/monaire-raises-3-5m-to-help-small-commercial-buildings-transition-to-sustainable-heating-and-cooling-using-ai-302094414.html — Confirms $3.5M seed round announced March 20, 2024, led by Construct Capital with participation from Workshop Ventures and angels Steve Fredette (Toast) and Tom Kuo (A-Street). Cross-referenced with FinSMEs (https://www.finsmes.com/2024/03/monaire-raises-3-5m-in-seed-funding.html) and Climate Insider (https://climateinsider.com/2024/03/23/boston-based-monaire-raises-3-5m-for-sustainable-hvac-solutions/).
 [^48]: Form D filings index for US Chemical Technologies, Inc. (Washington, DC), accessed June 2026. https://www.formds.com/issuers/us-chemical-technologies-inc — Records two SEC Form D filings: $11,000,000 equity offering reported June 10, 2025, and $29,999,967 equity offering reported January 23, 2026. Cross-referenced with intelligence360 (https://www.intelligence360.news/us-chemical-technologies-has-filed-a-notice-of-an-exempt-offering-of-securities-to-raise-29999967-00-in-new-funding/) confirming the February 2026 reporting of the January 23 filing. Construct Capital's participation is sourced from [^25] (CB Insights); the SEC filings themselves do not disclose investor names.
+[^49]: Crunchbase profile for Owlery, accessed June 2026. https://www.crunchbase.com/organization/owlery — Lists total raised of $3.1M Seed; investors include Construct Capital, Haystack Management Company, Recall Capital, and Vectura Ventures. Owlery is an AI-driven Logistics Management Platform; founding team built platforms at Uber Freight, Flexe, and Flock Freight.
+[^50]: MaC Venture Capital portfolio page for WayTrade, accessed June 2026. https://macventurecapital.com/portfolio/waytrade/ — Confirms WayTrade as a portfolio company described as "a trading platform for the renewable fuel economy." Construct Capital's participation cross-referenced via PitchBook profile (https://pitchbook.com/profiles/company/590709-07) listing co-investors Climate Capital, Construct Capital, Feldsmith Capital, Graph Ventures, and MaC Venture Capital.

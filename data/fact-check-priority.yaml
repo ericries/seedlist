@@ -2045,4 +2045,20 @@ priority:
   type: startup
   reason: New profile for $75M Series B (2026-06-22, Index-led)
   added: '2026-06-22'
+- slug: isometric
+  type: startup
+  reason: New profile for $40M Series A (2026-06-22, AVP-led)
+  added: '2026-06-22'
+- slug: grid-online
+  type: startup
+  reason: New profile for €4M seed extension (2026-06-22, DFF/Movens co-led)
+  added: '2026-06-22'
+- slug: lowercarbon-capital
+  type: firm
+  reason: Participated in Isometric Series A 2026-06-22
+  added: '2026-06-22'
+- slug: john-doerr
+  type: investor
+  reason: Angel in Isometric Series A 2026-06-22
+  added: '2026-06-22'
 
