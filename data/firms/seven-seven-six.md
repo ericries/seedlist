@@ -79,6 +79,7 @@ Based on 25 verified investments, the following patterns emerge. Note: this repr
 | Interlune | Seed (Lead) | 2024-03-13 | Space/Resources | [^9] |
 | LambdaVision | Seed (Co-Lead) | 2025-11-05 | Biotech | [^7] |
 | Plot | Seed follow-on (Participant) | 2026-06-02 | AI/Marketing | [^11][^12][^13] |
+| HaloBraid | Seed (Lead, $7M) | 2026-06-23 | Robotics/Beauty Tech/Consumer Hardware | [^14][^15] |
 
 *This table represents approximately 12% of 130 known investments. Many investments, particularly in crypto tokens via the Kryptos fund, are not individually documented in public sources.*
 
@@ -111,3 +112,5 @@ No independently sourced founder testimonials found. The firm's website and mark
 [^11]: PR Newswire, "Plot Raises $10M to Scale Social Video Intelligence for Marketing Teams at Fortune 500 Brands," June 2, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/plot-raises-10m-to-scale-social-video-intelligence-for-marketing-teams-at-fortune-500-brands-302787693.html
 [^12]: Adweek, "Pitch Deck: Ex-Apple Marketer Raises $10M to Scale AI Agents That Decode Social Video," June 2026, accessed June 2026. https://www.adweek.com/social-marketing/pitch-deck-ex-apple-marketer-raises-10m-to-scale-ai-agents-that-decode-social-video/
 [^13]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/2/2026," June 2, 2026, accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-2-2026/
+[^14]: TechCrunch, "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment," June 23, 2026, accessed June 2026. https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/ — Confirms Seven Seven Six led the $7M Seed announced June 23, 2026; AlleyCorp and Bling Capital participated; founder Yinka Ogunbiyi.
+[^15]: WWD, "Halo Raises $7M to Launch Braiding Technology Revolutionizing Salons," June 2026, accessed June 2026. https://wwd.com/beauty-industry-news/hair/hair-tech-startup-halo-raises-7m-seed-round-braiding-1239022331/ — Independent industry press confirmation of the Seed round and Seven Seven Six lead.

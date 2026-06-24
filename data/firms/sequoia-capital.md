@@ -237,8 +237,10 @@ The following table includes Sequoia Capital investments verified through the fi
 | Cyera | Growth (participated, $300M at $12B post-money; Evolution Equity Partners led) | 2026-06-02 | Cybersecurity / Data Security Posture Management | Private [^76][^77][^78] |
 | Mach Industries | Series C (existing investor, $300M at $1.8B post-money; Infinite Capital and Ribbit Capital led) | 2026-06-02 | Defense Tech / Hardware | Private [^79][^80][^81] |
 | Sandstone | Seed (led, $10M) | 2026-01-13 | AI / Legal Tech | Private [^82][^83][^84] |
+| Peregrine Technologies | Series C (led, $190M) → Series D (participated, $250M at $6.8B val; Fifth Down Capital led) | 2024; 2026-06-23 | GovTech / Public Safety / Data | Private [^85][^86][^87] |
+| Probook | Seed (led, $6M) → Series A (participated, $34M; Andreessen Horowitz led) | 2026-06-23 | AI / Vertical SaaS / Home Services | Private [^88][^89][^90] |
 
-*Note: This table includes 40 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
+*Note: This table includes 42 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
 ## In Their Own Words
 
@@ -470,3 +472,15 @@ The following table includes Sequoia Capital investments verified through the fi
 [^83]: Artificial Lawyer, "Sandstone Raises $10m Seed Led By Sequoia For Inhouse AI Agents," January 13, 2026. Accessed June 2026. https://www.artificiallawyer.com/2026/01/13/sandstone-raises-10m-seed-led-by-sequoia-for-inhouse-ai-agents/ — Confirms $10M Seed led by Sequoia on January 13, 2026 with Kearny Jackson, SV Angel, Webb Investment Network, Mantis VC (The Chainsmokers), Antiportfolio Ventures, Daybreak Ventures, Operator Partners, and 20+ general counsels participating; angels include Freddy Kerrest (Okta) and Scott McNealy (Sun Microsystems).
 
 [^84]: Sandstone blog, "Sandstone Launches with $10M Seed Led by Sequoia to Usher in the Era of AI-Native Legal Departments," January 13, 2026. Accessed June 2026. https://sandstone.com/blog/sandstone-launches-with-usd10m-seed-led-by-sequoia-to-usher-in-the-era-of-ai-native-legal — Company's own announcement confirming $10M Seed led by Sequoia; co-founders Nick Fleisher (former McKinsey legal tech practice lead) and Jarryd Strydom (former in-house counsel); Sequoia partner Bogomil Balkansky quoted. Cross-referenced with TechCrunch, "Sandstone raises $30M to bring AI to in-house legal teams," June 9, 2026 https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/ which confirms Sequoia led the $10M Seed in January 2026 and did NOT participate in the June 9, 2026 $30M Series A led by Lightspeed Venture Partners.
+
+[^85]: Peregrine Technologies press release, "Peregrine Technologies Raises $250 Million Series D at $6.8 Billion Valuation," PR Newswire, June 23, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/peregrine-technologies-raises-250-million-series-d-at-6-8-billion-valuation-302808115.html — Confirms $250M Series D on June 23, 2026 at $6.8B valuation, led by Fifth Down Capital with Sequoia Capital, OG Venture Partners, Goldcrest Capital, XYZ Ventures, and Godfrey Capital participating as existing investors.
+
+[^86]: Sequoia Capital, "Peregrine," portfolio company page. Accessed June 2026. https://sequoiacap.com/companies/peregrine/ — Sequoia's own portfolio page confirming Peregrine Technologies as a Sequoia-backed company.
+
+[^87]: Crunchbase News, "Law Enforcement Startup Peregrine Hits $2.5B Valuation Mark," accessed June 2026. https://news.crunchbase.com/venture/law-enforcement-startup-peregrine-unicorn-sequoia/ — Independent confirmation that Sequoia Capital led the prior $190M Series C at $2.5B valuation.
+
+[^88]: GlobeNewswire, "Probook Raises $40M from Andreessen Horowitz and Sequoia to Scale the AI Operating System for Home Services," June 23, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/23/3316215/0/en/probook-raises-40m-from-andreessen-horowitz-and-sequoia-to-scale-the-ai-operating-system-for-home-service — Primary company source confirming Probook raised $40M in total: $6M Seed led by Sequoia Capital and $34M Series A led by Andreessen Horowitz with Sequoia Capital participating, announced June 23, 2026.
+
+[^89]: Andreessen Horowitz, "Investing in Probook," portfolio announcement. Accessed June 2026. https://a16z.com/announcement/investing-in-probook/ — a16z's own announcement confirming it led the $34M Series A and Sequoia led the prior $6M Seed.
+
+[^90]: Tech Funding News, "Built by a tradesman backed by a16z and Sequoia, Probook raises $40M to reinvent dispatch for America's home service businesses," June 23, 2026. Accessed June 2026. https://techfundingnews.com/built-by-a-tradesman-backed-by-a16z-and-sequoia-probook-raises-40m-to-reinvent-dispatch-for-americas-home-service-businesses/ — Independent press confirmation of the $40M total raise (Seed led by Sequoia, Series A led by a16z) and June 23, 2026 announcement date.

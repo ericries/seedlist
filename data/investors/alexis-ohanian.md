@@ -3,9 +3,9 @@ check_size: $500K-$5M
 firm: seven-seven-six
 last_researched: 2026-03-19
 last_verified_investment:
-  company: Plot
-  date: 2026-06-02
-  round: Seed (follow-on)
+  company: HaloBraid
+  date: 2026-06-23
+  round: Seed
 location: San Francisco, California
 name: Alexis Ohanian
 role: Founder
@@ -75,6 +75,7 @@ Based on publicly identified portfolio companies (approximately 56 companies con
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| HaloBraid | 2026-06-23 | Seed ($7M; Seven Seven Six led; AlleyCorp, Bling Capital participated) | [^21][^22] |
 | Plot | 2026-06-02 | Seed follow-on ($10M; XYZ VC and Mischief co-led; via Seven Seven Six) | [^11][^12][^13] |
 | Axie Infinity | ~2021 | Seed/Early | [^1] |
 | Pipe | ~2021 | Early Stage | [^1] |
@@ -141,3 +142,7 @@ No independently sourced founder testimonials found.
 [^19]: LambdaVision press release, "LambdaVision Raises $7M Seed Round to Revolutionize Blindness Treatment Using Space-Based Manufacturing," November 5, 2025. Accessed June 2026. https://www.lambdavision.com/lambdavision-raises-7m-seed-round-to-revolutionize-blindness-treatment-using-space-based-manufacturing/ — Primary company source: $7M Seed round on November 5, 2025, co-led by Seven Seven Six and Aurelia Foundry Fund with Seraphim Space participating. (Note: corrects prior "Series B" classification — company classifies as Seed.)
 
 [^20]: Hartford Business Journal, "CT biotech LambdaVision raises $7M to advance space-made artificial retina," November 2025. Accessed June 2026. https://hartfordbusiness.com/article/ct-biotech-lambdavision-raises-7m-to-advance-space-made-artificial-retina/ — Independent confirmation of $7M raise co-led by Seven Seven Six and Aurelia Foundry Fund.
+
+[^21]: TechCrunch, "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment," June 23, 2026. Accessed June 2026. https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/ — Primary press confirmation of $7M Seed on June 23, 2026, led by Seven Seven Six with AlleyCorp and Bling Capital participating; founder Yinka Ogunbiyi (Harvard MS engineering / MBA).
+
+[^22]: WWD, "Halo Raises $7M to Launch Braiding Technology Revolutionizing Salons," June 2026. Accessed June 2026. https://wwd.com/beauty-industry-news/hair/hair-tech-startup-halo-raises-7m-seed-round-braiding-1239022331/ — Independent industry press confirmation of the $7M Seed round and Seven Seven Six lead.

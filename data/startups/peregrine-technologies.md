@@ -8,11 +8,7 @@ status_company: active
 sector: [govtech, public-safety, data-infrastructure]
 stage_latest: "Series D"
 total_raised: "$443.5M+"
-investors:
-  - slug: alexis-ohanian
-    round: series-d
-    year: 2026
-    date: 2026-06-23
+investors: []
 firms:
   - slug: sequoia-capital
     round: series-c

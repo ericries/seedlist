@@ -2109,17 +2109,49 @@ priority:
 
 - slug: alexis-ohanian
   type: investor
+  status: resolved
   reason: "led HaloBraid $7M seed via Seven Seven Six (2026-06-23)"
+  resolution: HaloBraid Seed row added to alexis-ohanian.md portfolio with TechCrunch [^21] and WWD [^22] citations; last_verified_investment updated to HaloBraid 2026-06-23.
   added: 2026-06-23
 - slug: seven-seven-six
   type: firm
+  status: resolved
   reason: "led HaloBraid $7M seed (2026-06-23)"
+  resolution: HaloBraid Seed row added to seven-seven-six.md portfolio with TechCrunch [^14] and WWD [^15] citations.
   added: 2026-06-23
 - slug: sequoia-capital
   type: firm
-  reason: "participated in Peregrine $250M Series D (2026-06-23)"
+  status: resolved
+  reason: "participated in Peregrine $250M Series D (2026-06-23); led Probook Seed and participated in Series A (2026-06-23)"
+  resolution: Peregrine Series C/D row added with PR Newswire [^85], Sequoia portfolio page [^86], Crunchbase News [^87] citations. Probook Seed+Series A row added with GlobeNewswire [^88], a16z [^89], TFN [^90] citations.
   added: 2026-06-23
 - slug: arjun-sethi
   type: investor
+  status: resolved
   reason: "resolved Kraken and Applied Intuition portfolio dates"
+  added: 2026-06-23
+
+- slug: peregrine-technologies
+  type: startup
+  reason: "Series D 2026-06-23 — corrected investor list (alexis-ohanian was not a participant; lead is Fifth Down Capital)"
+  added: 2026-06-23
+- slug: ploy
+  type: startup
+  reason: "new profile: $27M Seed 2026-06-17, led by First Round Capital with Y Combinator"
+  added: 2026-06-23
+- slug: probook
+  type: startup
+  reason: "new profile: $40M total ($34M Series A by a16z + $6M Seed by Sequoia) 2026-06-23"
+  added: 2026-06-23
+- slug: first-round-capital
+  type: firm
+  reason: "led Ploy $27M Seed (2026-06-17) — verify portfolio row exists"
+  added: 2026-06-23
+- slug: y-combinator
+  type: firm
+  reason: "participated in Ploy $27M Seed (2026-06-17) — verify portfolio row"
+  added: 2026-06-23
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Probook $34M Series A (2026-06-23) — verify portfolio row"
   added: 2026-06-23
