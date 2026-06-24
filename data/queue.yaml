@@ -20854,7 +20854,7 @@ queue:
 - name: Kanwaljit Singh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Fireside Ventures
   discovered_from: mohandas-pai
@@ -28154,7 +28154,7 @@ queue:
 - name: Deep Kalra
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: MakeMyTrip (Founder); angel investor
   discovered_from: mukesh-bansal
@@ -30384,3 +30384,133 @@ queue:
   added: '2026-03-17'
   discovered_from: bryan-kim
   source: Bryan Kim a16z consumer health portfolio
+- name: boAt (Imagine Marketing)
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio unicorn (2022); consumer electronics
+- name: Mamaearth (Honasa Consumer)
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio; BSE/NSE listing Nov 2023
+- name: Yoga Bar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio (first institutional investor)
+- name: The Sleep Company
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio
+- name: Traya
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio (hair wellness D2C)
+- name: Bombay Shaving Company
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio (men's grooming D2C)
+- name: Vahdam Teas
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kanwaljit-singh
+  source: Fireside Ventures portfolio
+- name: Helion Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Helion Venture Partners
+  discovered_from: kanwaljit-singh
+  source: Co-founded by Kanwaljit Singh prior to Fireside
+- name: MakeMyTrip
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Deep Kalra's founding company, NASDAQ-listed Indian online travel
+- name: Scripbox
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Indian wealthtech, Series D led by Accel Jan 2022
+- name: Eka.Care
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Indian digital health platform; angel-heavy syndicate
+- name: PlanetSpark
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Indian K-12 edtech, Series B led by Prime Venture Partners Nov 2021
+- name: Exotel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Indian cloud telephony SaaS
+- name: Park+
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Indian car-services app
+- name: Terra.do
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Climate-tech edtech
+- name: Punt Partners
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deep-kalra
+  source: Indian broking platform, $1.74M seed Dec 2022 with 38+ angels
+- name: Rajesh Magow
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: MakeMyTrip
+  discovered_from: deep-kalra
+  source: MakeMyTrip Group CEO since 2013, potential angel investor
+- name: Ashish Hemrajani
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: BookMyShow
+  discovered_from: deep-kalra
+  source: BookMyShow founder, co-investor with Kalra in Punt Partners 2022 seed; active
+    Indian angel
