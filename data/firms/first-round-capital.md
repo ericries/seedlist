@@ -138,6 +138,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Town | Series A | 2026-06-03 | AI / Consumer | Active (participated; led by a16z) | [^18][^19] |
 | Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
 | Binti | Seed (led) | 2015-03 | Govtech / Child welfare SaaS | Active (raised Series B 2021-08, $6M follow-on from SJF Ventures 2026-06) | [^21][^22][^23] |
+| Ploy | Seed (led, $27M; Y Combinator participated) | 2026-06-17 | AI / Marketing / Vertical SaaS | Active | [^25][^26][^27] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -199,3 +200,9 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^23]: ImpactAlpha, "SJF Ventures backs Binti with $6 million to upgrade child welfare casework," accessed June 2026. https://impactalpha.com/sjf-ventures-backs-binti-with-6-million-to-upgrade-child-welfare-casework/ — names First Round Capital, Founders Fund, Kapor Capital, and Pivotal Ventures as prior backers in the SJF-led June 2026 round.
 
 [^24]: Marina Temkin, "Endurance Energy raises $54M to harness a massive untapped energy source," TechCrunch, June 11, 2026, accessed June 2026. https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/ — Confirms First Round Capital participated in Endurance Energy's $54M Series A on June 11, 2026, led by Founders Fund with Ascend, Construct Capital, Felicis Ventures, Point72 Ventures, Riot Ventures, and Voyager Ventures.
+
+[^25]: Yahoo Finance, "Ploy Raises $27M to Turn Your Company's Website Into Your Hardest-Working Employee," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/small-business/articles/ploy-raises-27m-turn-companys-141900716.html — Confirms First Round Capital led Ploy's $27M seed round on June 17, 2026, with Y Combinator participating. Founder Bryant Chou (ex-Webflow CTO).
+
+[^26]: Dealroom, "Ploy launches out of stealth with $27M seed to run your whole marketing system," June 2026. Accessed June 2026. https://app.dealroom.co/news/note/ploy-launches-out-of-stealth-with-27m-seed-to-run-your-whole-marketing-system — Independently confirms First Round Capital as lead with Y Combinator participating in the $27M seed.
+
+[^27]: The SaaS News, "Ploy Raises $27M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/ploy-raises-27m-seed/ — Independently confirms First Round Capital led the $27M seed round with Y Combinator participating.

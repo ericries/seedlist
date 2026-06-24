@@ -2147,11 +2147,20 @@ priority:
   type: firm
   reason: "led Ploy $27M Seed (2026-06-17) — verify portfolio row exists"
   added: 2026-06-23
+  status: resolved
+  resolved: 2026-06-23
+  resolution_note: "Added Ploy Seed row (led, $27M, 2026-06-17, YC participated) to first-round-capital.md portfolio with 3 independent primary citations: Yahoo Finance, Dealroom, The SaaS News."
 - slug: y-combinator
   type: firm
   reason: "participated in Ploy $27M Seed (2026-06-17) — verify portfolio row"
   added: 2026-06-23
+  status: resolved
+  resolved: 2026-06-23
+  resolution_note: "Added Ploy row (Seed $27M 2026-06-17, First Round Capital-led; YC participated) to y-combinator.md portfolio with 3 independent primary citations: Yahoo Finance, Dealroom, The SaaS News."
 - slug: andreessen-horowitz
   type: firm
   reason: "led Probook $34M Series A (2026-06-23) — verify portfolio row"
   added: 2026-06-23
+  status: resolved
+  resolved: 2026-06-23
+  resolution_note: "Added Probook Series A row (led, $34M, 2026-06-23, Sequoia participated) to andreessen-horowitz.md portfolio with 4 independent primary citations: GlobeNewswire press release, a16z announcement, Tech Funding News, a16z X post."

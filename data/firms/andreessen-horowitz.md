@@ -289,8 +289,9 @@ The following table includes a16z investments verified through the firm's own po
 | Current | Series E (participant, $80M at $1.5B val; Springcoast Partners led) | 2026-06-11 | Fintech / Consumer Banking / Neobank | Private [^67][^68][^69] |
 | Podium Automation | Series A (participant, $18M; Construct Capital led) | 2026-06-15 | Industrial Automation / Manufacturing / Control Panels | Private [^70][^71][^72] |
 | Probably | Seed (lead, $9M) | 2026-06-16 | AI / LLM Reliability / Data Science | Private [^73][^74] |
+| Probook | Series A (led, $34M; Sequoia Capital participated) | 2026-06-23 | AI / Vertical SaaS / Home Services / Dispatch | Private [^79][^80][^81][^82] |
 
-*Note: This table includes 79 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 80 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -504,3 +505,11 @@ The following table includes a16z investments verified through the firm's own po
 [^77]: SiliconANGLE, "Convey closes on $38M round to help companies automate repetitive work with AI teammates," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/convey-closes-38m-funding-round-help-companies-automate-repetitive-work-ai-teammates/ — Confirms a16z led Convey's $38M Series A with Khosla Ventures and Pear VC; Joe Schmidt of a16z joined board.
 
 [^78]: Just AI News, "Convey Raises $38M Series A Led by Andreessen Horowitz," June 17, 2026. Accessed June 2026. https://justainews.com/companies/funding-news/convey-raises-38m-series-a-led-by-andreessen-horowitz/
+
+[^79]: GlobeNewswire, "Probook Raises $40M from Andreessen Horowitz and Sequoia to Scale the AI Operating System for Home Services," June 23, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/23/3316215/0/en/probook-raises-40m-from-andreessen-horowitz-and-sequoia-to-scale-the-ai-operating-system-for-home-service — Primary press release: Probook (NYC; founders George Eliadis CEO, Ben Cervantez, Lewis Zhang CTO) closed a $34M Series A led by Andreessen Horowitz on June 23, 2026, with Sequoia Capital participating; $6M seed previously led by Sequoia.
+
+[^80]: Andreessen Horowitz, "Investing in Probook," June 23, 2026. Accessed June 2026. https://a16z.com/announcement/investing-in-probook/ — Primary source from a16z confirming the firm led Probook's $34M Series A on June 23, 2026 to build an AI operating system for home services centered on dispatch.
+
+[^81]: Tech Funding News, "Built by a tradesman backed by a16z and Sequoia, Probook raises $40M to reinvent dispatch for America's home service businesses," June 23, 2026. Accessed June 2026. https://techfundingnews.com/built-by-a-tradesman-backed-by-a16z-and-sequoia-probook-raises-40m-to-reinvent-dispatch-for-americas-home-service-businesses/ — Independently confirms Andreessen Horowitz led the $34M Series A on June 23, 2026 with Sequoia Capital participating.
+
+[^82]: Andreessen Horowitz on X (Twitter), "We're excited to lead Probook's $34M Series A," June 23, 2026. Accessed June 2026. https://x.com/a16z/status/2069414574999343501 — Independently confirms a16z led the $34M Series A.
