@@ -165413,7 +165413,8 @@ vague_facts:
   line: '| OpenAI | Growth | ~2023 | AI | Active | [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: 'Altimeter participated in OpenAI Growth round at $157B post-money on 2024-10-02 (led by Thrive Capital). Verified via Fortune, SiliconANGLE, and existing Bloomberg [^17]. Updated portfolio entry from ~2023 to 2024-10-02 with citations [^45][^46].'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Anduril

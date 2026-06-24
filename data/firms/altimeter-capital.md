@@ -113,7 +113,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Confluent | Pre-IPO | ~2020 | Data Streaming | Public (IPO 2021); acquired by IBM (2025) | [^23] |
 | Pine Labs | Series B | 2018 | Payments / Fintech | Public (IPO 2025) | [^24] |
 | CoreWeave | Series C (participated; Coatue led) | 2024-05-01 | AI Infrastructure | Public (IPO 2025) | [^25][^26][^33] |
-| OpenAI | Growth | ~2023 | AI | Active | [^17] |
+| OpenAI | Growth ($6.6B at $157B post-money) | 2024-10-02 | AI | Active | [^17][^45][^46] |
 | Anthropic | Series F (2025); Series H (co-led, $65B at $965B post-money) 2026-05-28 | 2025; 2026-05-28 | AI / Frontier Models | Active | [^17][^38] |
 | Anduril | Growth | ~2023 | Defense Tech | Active | [^7] |
 | SpaceX | Secondary/Growth | ~2023 | Aerospace | Active | [^7] |
@@ -257,3 +257,7 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^43]: SiliconANGLE, "LiveKit raises $100M at $1B valuation to scale real-time AI and media platform," January 22, 2026, accessed June 2026. https://siliconangle.com/2026/01/22/livekit-raises-100m-1b-valuation-scale-real-time-ai-media-platform/ — Confirms January 22, 2026 announcement, $100M at $1B valuation, Index Ventures led; Salesforce Ventures, Hanabi Capital, Altimeter Capital, and Redpoint Ventures participated.
 
 [^44]: FinSMEs, "LiveKit Raises $100M in Series C Funding at a $1 Billion Valuation," January 22, 2026, accessed June 2026. https://www.finsmes.com/2026/01/livekit-raises-100m-in-series-c-funding-at-a-1-billion-valuation.html — Independent press confirmation of LiveKit $100M Series C at $1B valuation; Index Ventures led with Altimeter participating as returning investor.
+
+[^45]: Fortune, "OpenAI has raised $6.6 billion in a mega-funding deal that values the ChatGPT maker at $157 billion," October 2, 2024, accessed June 2026. https://fortune.com/2024/10/02/openai-officially-raises-6-6-billion-funding-deal-157-billion-valuation-sam-altman-thrive-capital/ — Confirms October 2, 2024 announcement; $6.6B round led by Thrive Capital at $157B post-money valuation; participants include Altimeter Capital, Microsoft, Nvidia, SoftBank, Khosla Ventures, Fidelity, Tiger Global, and MGX.
+
+[^46]: SiliconANGLE, "OpenAI closes record $6.6B funding round at $157B valuation, plus $4B line of credit," October 2, 2024, accessed June 2026. https://siliconangle.com/2024/10/02/openai-closes-record-6-6b-funding-round-157b-valuation/ — Independent press confirmation of October 2, 2024 announcement; $6.6B at $157B post-money; Altimeter Capital named as participant alongside Microsoft, Nvidia, SoftBank, Khosla Ventures, Fidelity, Tiger Global, and MGX.
