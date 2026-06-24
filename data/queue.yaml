@@ -21420,7 +21420,7 @@ queue:
 - name: Vinod Dham
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Kalaari Capital
   discovered_from: vani-kola
@@ -30165,7 +30165,7 @@ queue:
 - name: Bryan Kim
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: lenny-rachitsky
@@ -30280,3 +30280,107 @@ queue:
   added: '2026-03-17'
   firm: Limitless
   discovered_from: brett-bejcek
+- name: Indo-US Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Vinod Dham's cross-border India-focused VC fund, anchored by NEA (~$189M)
+- name: NewPath Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Vinod Dham's earlier semiconductor-focused cross-border fund (2002)
+- name: Bluehill.VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Chennai-based Rs 350Cr deep-tech VC advised by Vinod Dham; semiconductor
+    focus
+- name: Manu Iyer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bluehill.VC
+  discovered_from: vinod-dham
+  source: General Partner at Bluehill.VC; quoted in DigiTimes 2025 piece on fab-side
+    investing
+- name: Tushar Dave
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: NewPath Ventures
+  discovered_from: vinod-dham
+  source: Co-founded NewPath Ventures with Vinod Dham in 2002
+- name: AlphaICs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Agent-based AI processor company co-founded by Vinod Dham (2016); raised
+    $10.4M
+- name: Sophrosyne Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Bengaluru biosensing SoC startup; $2M seed led by Bluehill.VC (Nov 2025)
+- name: Sensesemi Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Edge AI chip startup backed by Vinod Dham; team from TI/Intel
+- name: Orbo.ai
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: Computer vision/retail AI startup; $1.6M seed (Jul 2019) with Vinod Dham
+    as angel
+- name: Telsima
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vinod-dham
+  source: NewPath portfolio WiMAX semiconductor company
+- name: Cluely
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-kim
+  source: a16z Series A lead by Bryan Kim, Jun 2025 ($15M)
+- name: Hilbert's AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-kim
+  source: a16z Series A lead by Bryan Kim, Apr 2026 ($28M)
+- name: Raspberry AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-kim
+  source: a16z Series A lead by Bryan Kim, Jan 2025 ($24M)
+- name: Slingshot AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bryan-kim
+  source: Bryan Kim a16z consumer health portfolio

@@ -1,12 +1,21 @@
 ---
-name: "Pale Blue Dot"
-slug: pale-blue-dot
-type: firm
-website: "https://www.paleblue.vc"
-location: "Malmö, Sweden"
-team: []
-status: published
 last_researched: 2026-06-23
+location: Malmö, Sweden
+name: Pale Blue Dot
+slug: pale-blue-dot
+status: published
+team:
+- name: Joel Larsson
+  role: General Partner & Co-Founder
+  slug: joel-larsson
+- name: Heidi Lindvall
+  role: General Partner & Co-Founder
+  slug: heidi-lindvall
+- name: Hampus Jakobsson
+  role: General Partner & Co-Founder
+  slug: hampus-jakobsson
+type: firm
+website: https://www.paleblue.vc
 ---
 
 ## About

@@ -151,6 +151,9 @@ investors:
 - round: Seed/Series A
   slug: nathan-benaich
   year: 2022
+- round: Series D ($550M)
+  slug: bryan-kim
+  year: 2026
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

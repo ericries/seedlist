@@ -1,20 +1,22 @@
 ---
-name: Mirage
-slug: mirage
-type: startup
-website: https://captions.ai
-location: New York, NY
+firms:
+- date: 2026-03-24
+  round: growth
+  slug: general-catalyst
+  year: 2026
+- round: ~2023
+  slug: anthropic
+  year: 2023
+- round: ~2023
+  slug: benchmark
+  year: 2023
+- round: Series C ($60M)
+  slug: andreessen-horowitz
+  year: 2024
 founded: 2021
-status_company: active
-sector:
-- ai
-- consumer
-- media
-- video
-- creator-tools
-- marketing
-stage_latest: Growth
-total_raised: $175M+
+founders:
+- name: Gaurav Misra
+  role: Co-Founder & CEO
 investors:
 - round: ~2023
   slug: mike-krieger
@@ -22,22 +24,26 @@ investors:
 - round: ~2023
   slug: everett-randle
   year: 2023
-firms:
-- slug: general-catalyst
-  round: growth
-  year: 2026
-  date: 2026-03-24
-- round: ~2023
-  slug: anthropic
-  year: 2023
-- round: ~2023
-  slug: benchmark
-  year: 2023
-founders:
-- name: Gaurav Misra
-  role: Co-Founder & CEO
+- round: Series C ($60M)
+  slug: bryan-kim
+  year: 2024
 last_researched: 2026-05-23
+location: New York, NY
+name: Mirage
+sector:
+- ai
+- consumer
+- media
+- video
+- creator-tools
+- marketing
+slug: mirage
+stage_latest: Growth
 status: published
+status_company: active
+total_raised: $175M+
+type: startup
+website: https://captions.ai
 ---
 
 ## About

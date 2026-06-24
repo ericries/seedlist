@@ -1,34 +1,18 @@
 ---
-name: District
-slug: district
-type: startup
-website: https://district.so/
-location: San Francisco, CA
-founded: 2022
-status_company: active
-sector:
-- consumer
-- marketplace
-- ai
-- e-commerce
-- community
-- live-commerce
-stage_latest: Seed
-total_raised: $14.7M
-investors: []
 firms:
-- slug: andreessen-horowitz
+- date: 2026-05-06
   round: seed
+  slug: andreessen-horowitz
   year: 2026
-  date: 2026-05-06
-- slug: greylock
+- date: 2026-05-06
   round: seed
+  slug: greylock
   year: 2026
-  date: 2026-05-06
-- slug: sv-angel
+- date: 2026-05-06
   round: seed
+  slug: sv-angel
   year: 2026
-  date: 2026-05-06
+founded: 2022
 founders:
 - name: Eddie Koai
   role: Co-Founder
@@ -36,8 +20,27 @@ founders:
   role: Co-Founder
 - name: Khoi Tran
   role: Co-Founder
+investors:
+- round: Seed ($15M)
+  slug: bryan-kim
+  year: 2026
 last_researched: 2026-05-10
+location: San Francisco, CA
+name: District
+sector:
+- consumer
+- marketplace
+- ai
+- e-commerce
+- community
+- live-commerce
+slug: district
+stage_latest: Seed
 status: published
+status_company: active
+total_raised: $14.7M
+type: startup
+website: https://district.so/
 ---
 
 ## About
