@@ -8029,7 +8029,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 26,
+      "size": 27,
       "members": [
         {
           "slug": "angela-tran",
@@ -8156,6 +8156,10 @@
           "slug": "brian-singerman",
           "name": "Brian Singerman",
           "firm": "gpx"
+        },
+        {
+          "slug": "vinod-dham",
+          "name": "Vinod Dham"
         }
       ]
     },
@@ -8233,7 +8237,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool — and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 27,
+      "size": 28,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8362,6 +8366,10 @@
         {
           "slug": "harry-stebbings",
           "name": "Harry Stebbings"
+        },
+        {
+          "slug": "bryan-kim",
+          "name": "Bryan Kim"
         }
       ]
     },
@@ -8544,7 +8552,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 22,
+      "size": 24,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8654,6 +8662,14 @@
         {
           "slug": "carl-pei",
           "name": "Carl Pei"
+        },
+        {
+          "slug": "kanwaljit-singh",
+          "name": "Kanwaljit Singh"
+        },
+        {
+          "slug": "bryan-kim",
+          "name": "Bryan Kim"
         }
       ]
     },
@@ -9467,7 +9483,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 111,
+      "size": 114,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -9965,6 +9981,18 @@
         {
           "slug": "lenny-rachitsky",
           "name": "Lenny Rachitsky"
+        },
+        {
+          "slug": "kanwaljit-singh",
+          "name": "Kanwaljit Singh"
+        },
+        {
+          "slug": "deep-kalra",
+          "name": "Deep Kalra"
+        },
+        {
+          "slug": "vinod-dham",
+          "name": "Vinod Dham"
         }
       ]
     },
@@ -10841,7 +10869,7 @@
       "name": "The IPO Whisperers",
       "tagline": "Three or more portfolio companies that went public. These investors don't just pick winners — they pick companies that reach the finish line.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "alfred-lin",
@@ -10941,6 +10969,10 @@
           "slug": "stewart-butterfield",
           "name": "Stewart Butterfield",
           "firm": "independent"
+        },
+        {
+          "slug": "deep-kalra",
+          "name": "Deep Kalra"
         }
       ]
     },
@@ -12670,7 +12702,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 18,
+      "size": 21,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -12757,6 +12789,18 @@
           "slug": "mukesh-bansal",
           "name": "Mukesh Bansal",
           "firm": "nurix-ai"
+        },
+        {
+          "slug": "kanwaljit-singh",
+          "name": "Kanwaljit Singh"
+        },
+        {
+          "slug": "deep-kalra",
+          "name": "Deep Kalra"
+        },
+        {
+          "slug": "vinod-dham",
+          "name": "Vinod Dham"
         }
       ],
       "id": "curated-49"
