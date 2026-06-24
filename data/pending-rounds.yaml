@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Austria’s Ora Computing secures €3.5 million to make AI models smaller and
+    faster
+  url: https://www.eu-startups.com/2026/06/austrias-ora-computing-secures-e3-5-million-to-make-ai-models-smaller-and-faster/
+  source: eu-startups
+  date_found: '2026-06-24'
+  parsed_company: Austria’s Ora Computing
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Purpose Investments Lists New ETF Series of the Purpose Global Resource Fund
     (PGRX) on the Toronto Stock Exchange
   url: https://www.globenewswire.com/news-release/2026/06/23/3315827/0/en/Purpose-Investments-Lists-New-ETF-Series-of-the-Purpose-Global-Resource-Fund-PGRX-on-the-Toronto-Stock-Exchange.html
@@ -827,12 +836,4 @@ pending_rounds:
   parsed_company: Swsh
   parsed_amount: $4M
   parsed_round: Seed
-  status: pending
-- title: Cantor Equity Partners VII raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Cantor Equity Partners VII
-  parsed_amount: $250M
-  parsed_round: null
   status: pending
