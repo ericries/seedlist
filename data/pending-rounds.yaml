@@ -38,6 +38,14 @@ pending_rounds:
   parsed_amount: $46M
   parsed_round: Series B
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/24/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-24-2026/
+  source: alleywatch
+  date_found: '2026-06-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Purpose Investments Lists New ETF Series of the Purpose Global Resource Fund
     (PGRX) on the Toronto Stock Exchange
   url: https://www.globenewswire.com/news-release/2026/06/23/3315827/0/en/Purpose-Investments-Lists-New-ETF-Series-of-the-Purpose-Global-Resource-Fund-PGRX-on-the-Toronto-Stock-Exchange.html
@@ -829,12 +837,4 @@ pending_rounds:
   parsed_company: Tenet Security
   parsed_amount: $6M
   parsed_round: null
-  status: pending
-- title: Vali Health raised $6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Vali Health
-  parsed_amount: $6M
-  parsed_round: Seed
   status: pending
