@@ -108,7 +108,7 @@ Based on 18 verified investments in the portfolio table below, the following pat
 | Toss Bank | Series D | 2023-03 | Fintech | Active (unicorn) [^13][^29] |
 | PermitFlow | Series B | 2025-12-02 | Construction Tech/SaaS | Active [^24][^30] |
 | PureSpace | Series A | 2025-12-16 | Food Tech (Fresh Food Shelf-life) | Active [^31][^32] |
-| Unastella | Series B | 2026 | Aerospace/Rocket Launch | Active [^28] |
+| Unastella | Series B | 2026-06-01 | Aerospace/Rocket Launch | Active [^28][^33] |
 
 Note: This table represents approximately 7% of Altos Ventures' claimed ~250 investments. Years marked with ~ are approximations based on founding year or available context. Altos has invested in many additional companies across the U.S. and South Korea that are not captured here due to limited public data on individual round participation.
 
@@ -172,3 +172,4 @@ No additional independently sourced founder testimonials were found through dedi
 [^30]: PermitFlow blog, "PermitFlow Raises $54 Million Series B," accessed June 2026. (Series B led by Accel with participation from Kleiner Perkins, Felicis, Initialized Capital, Altos Ventures, Y Combinator; announced via BusinessWire on December 2, 2025.) https://www.permitflow.com/blog/permitflow-series-b
 [^31]: VentureSquare, "PureSpace Secures 6 Billion Won Investment from Altos Ventures," December 16, 2025, accessed June 2026. https://www.venturesquare.net/en/1020013
 [^32]: WowTale, "PURESPACE Raises $4.1M Series A to Enhance Fresh Food Shelf-life Extension Technology and Expand Globally," December 17, 2025, accessed June 2026. https://en.wowtale.net/2025/12/17/233082/
+[^33]: "Korean Rocket Startup Unastella Raises 33.5 Billion Won in Series B," Seoul Economic Daily, June 2, 2026, accessed June 2026. https://en.sedaily.com/technology/2026/06/02/korean-rocket-startup-unastella-raises-335-billion-won-in

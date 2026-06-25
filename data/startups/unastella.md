@@ -8,7 +8,7 @@ founded: 2022
 status_company: active
 sector: [aerospace, space, rocket-launch, deeptech]
 stage_latest: "Series B"
-total_raised: "$24M"
+total_raised: "$44M"
 investors: []
 firms:
   - slug: altos-ventures
@@ -30,7 +30,7 @@ Unastella is a Seoul-based rocket startup developing small launch vehicles and e
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-01 | Series B | $24M | Altos Ventures | Korea Development Bank, Strong Ventures, Hana Ventures [^1] |
+| 2026-06-01 | Series B | $24M (₩33.5B) | Altos Ventures | Korea Development Bank, Strong Ventures, KDB Capital, Woori Venture Partners, Samho Green Investment, Hana Ventures [^1][^2] |
 
 ## What Investors Say
 
@@ -45,3 +45,4 @@ No independently sourced investor commentary found at this time.
 ## Sources
 
 [^1]: Rebecca Bellan, "Unastella, a South Korean rocket startup that launched from home, raises $24M," TechCrunch, June 1, 2026. Accessed June 2026. https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/
+[^2]: "Korean Rocket Startup Unastella Raises 33.5 Billion Won in Series B," Seoul Economic Daily, June 2, 2026. Accessed June 2026. https://en.sedaily.com/technology/2026/06/02/korean-rocket-startup-unastella-raises-335-billion-won-in

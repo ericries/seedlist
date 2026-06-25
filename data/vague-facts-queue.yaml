@@ -165524,7 +165524,8 @@ vague_facts:
   line: '| Unastella | Series B | 2026 | Aerospace/Rocket Launch | Active [^28] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: 'Confirmed 2026-06-01 announcement via TechCrunch (Bellan) and Seoul Economic Daily. $24M (₩33.5B) Series B led by Altos Ventures with KDB, Strong Ventures, KDB Capital, Woori VP, Samho Green, Hana Ventures. Updated altos-ventures portfolio and unastella startup profile (total_raised $44M, full co-investor list).'
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Flint
