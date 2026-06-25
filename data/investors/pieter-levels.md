@@ -3,9 +3,9 @@ check_size: Unknown (selective angel)
 firm: null
 last_researched: 2026-06-09
 last_verified_investment:
-  company: Cursor (Anysphere)
-  date: ~2025
-  round: Undisclosed
+  company: Zo Computer
+  date: 2026-06
+  round: Seed
 location: Lisbon, Portugal
 name: Pieter Levels
 review_notes: 'Pieter Levels is primarily an operator-bootstrapper, not a venture-style
@@ -59,7 +59,7 @@ On the broader question of venture capital, in the same interview he stated: "Wh
 
 ## Inferred Thesis
 
-**Sample size is too small for meaningful inference.** Only one angel investment — Cursor (Anysphere) — is independently verified from Levels' own first-person disclosure as of June 2026 [^6][^7]. He has stated publicly that he does not run a startup-focused investment portfolio, and that the majority of his investable capital sits in ETFs rather than private companies [^5].
+**Sample size is small but growing.** Seven angel investments are documented on Levels' self-published portfolio page at levels.vc as of June 2026 [^9], spanning AI infrastructure (Replicate, FAL.ai), AI applications (Perplexity, Cursor, Sync.labs), longevity (Blueprint), and personal computing (Zo Computer). He has stated publicly that he does not run a startup-focused investment portfolio in the conventional sense, and that the majority of his investable capital sits in ETFs rather than private companies [^5].
 
 What can be qualitatively inferred from the single confirmed data point and his public commentary:
 
@@ -73,9 +73,15 @@ Founders considering reaching out to Levels should treat him as a high-signal op
 
 | Company | Year | Stage | Source |
 |---|---|---|---|
-| Cursor (Anysphere) | ~2024 | Undisclosed | Self-disclosed on X, July 2025 [^7]; confirmed in Cheeky Pint interview [^6] |
+| Replicate | 2024-03 | Series B | levels.vc disclosure [^9] |
+| FAL.ai | 2024-09 | Series A | levels.vc disclosure [^9] |
+| Perplexity | 2024-11 | Series D | levels.vc disclosure [^9] |
+| Sync.labs | 2024-11 | Seed | levels.vc disclosure [^9] |
+| Cursor (Anysphere) | 2025-03 | Series B | levels.vc disclosure [^9]; self-disclosed on X, July 2025 [^7]; confirmed in Cheeky Pint interview [^6] |
+| Blueprint | 2025-10 | Series A | levels.vc disclosure [^9] |
+| Zo Computer | 2026-06 | Seed | levels.vc disclosure [^9] |
 
-**Note:** This table represents only investments Levels has personally and publicly confirmed. He does not maintain a public portfolio page for angel investments. Additional investments may exist but could not be independently verified at the time of this writing.
+**Note:** This table is built from Levels' self-published angel portfolio at levels.vc [^9]. Check sizes are not disclosed. He does not run a conventional venture portfolio and has stated his investing flows primarily from operator-level access to AI products he uses.
 
 ## In Their Own Words
 
@@ -119,3 +125,4 @@ No independently sourced founder testimonials describing Pieter Levels' work as 
 [^6]: "A Cheeky Pint with serial entrepreneur Pieter Levels (@levelsio)," Cheeky Pint Substack, accessed June 2026. https://cheekypint.substack.com/p/a-cheeky-pint-with-serial-entrepreneur
 [^7]: @levelsio, X (Twitter) post disclosing investment in Cursor, July 31, 2025, accessed June 2026. https://x.com/levelsio/status/1951024995309629718
 [^8]: @levelsio, X (Twitter) post on VC-funded exits, June 13, 2024, accessed June 2026. https://x.com/levelsio/status/1801385998368079880
+[^9]: "levels.vc - my investment fund — @levelsio (Pieter Levels)," levels.io, accessed June 2026. https://levels.io/vc
