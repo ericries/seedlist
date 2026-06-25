@@ -89,7 +89,7 @@ The firm skews more growth-stage than its stated one-third early-stage allocatio
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Snyk | Series D (led) | 2020 | Cybersecurity | Active [^13] |
-| Lyra Health | Series D (led) | 2020 | Digital Health | Active [^14] |
+| Lyra Health | Series D (led, $110M) | 2020-08-25 | Digital Health | Active [^14][^37][^38] |
 | dLocal | Growth | 2020 | Fintech/Payments | IPO 2021 [^10] |
 | Inshorts | Growth (led) | 2020-09-30 | Media/Content | Active [^15] |
 | Chainalysis | Series C (led) | 2020 | Blockchain Analytics | Active [^16] |
@@ -170,3 +170,5 @@ Chase Gilbert, Co-founder and CEO of Built Technologies (portfolio company), sta
 [^34]: BusinessWire, "Base Power Raises $1 Billion Series C to Build the Future of American Power," October 8, 2025. https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-$1-Billion-Series-C-to-Build-the-Future-of-American-Power
 [^35]: Render blog, "$80M to reimagine the cloud for the AI era," January 21, 2025. https://render.com/blog/series-c
 [^36]: Tech.eu, "£15M boost for Hello Vet as it reimagines the future of veterinary care," December 11, 2025. https://tech.eu/2025/12/11/ps15m-boost-for-hello-vet-as-it-reimagines-the-future-of-veterinary-care/
+[^37]: MobiHealthNews, "Lyra Health brings in $110M Series D for digital behavioral health benefits," August 25, 2020. https://www.mobihealthnews.com/news/lyra-health-brings-110m-series-d-digital-behavioral-health-benefits
+[^38]: Behavioral Health Business, "Behavioral Benefits Provider Lyra Health Raises $110 Million," August 25, 2020. https://bhbusiness.com/2020/08/25/behavioral-benefits-provider-lyra-health-raises-110-million-%EF%BB%BF/

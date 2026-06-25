@@ -200878,7 +200878,8 @@ vague_facts:
   line: '| Lyra Health | Series D (led) | 2020 | Digital Health | Active [^14] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2020-08-25, $110M Series D led by Addition. Confirmed by Lyra press release, MobiHealthNews, and BH Business (3 sources).
 - profile: firms/addition
   profile_name: Addition
   company: dLocal
