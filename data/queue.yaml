@@ -28147,7 +28147,7 @@ queue:
 - name: Mohit Gupta
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Lyskraft (CEO); ex-Zomato co-founder
   discovered_from: mukesh-bansal
@@ -30514,3 +30514,56 @@ queue:
   discovered_from: deep-kalra
   source: BookMyShow founder, co-investor with Kalra in Punt Partners 2022 seed; active
     Indian angel
+- name: Naveen Kukreja
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Paisabazaar
+  discovered_from: mohit-gupta
+  source: Co-angel with Mohit Gupta in Elivaas seed (Nov 2023)
+- name: Amit Lakhotia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Park+
+  discovered_from: mohit-gupta
+  source: Co-angel with Mohit Gupta in Elivaas seed; Park+ founder (Mohit Gupta portfolio
+    company)
+- name: Elivaas
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-gupta
+  source: Luxury vacation rental management; $2.5M seed Nov 2023 (Peak XV Surge lead)
+- name: Ultrahuman
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-gupta
+  source: Consumer health/wearables; Mohit Gupta angel investment
+- name: Gabit
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-gupta
+  source: Healthtech wearables; ~$9.5M seed (2023); founded by ex-Zomato exec Gaurav
+    Gupta
+- name: Openhouse
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-gupta
+  source: $2M seed Oct 2025; Mohit Gupta angel participant
+- name: Wellopia
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohit-gupta
+  source: Personal products; $933K seed Jun 2025

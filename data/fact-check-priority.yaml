@@ -1,4 +1,16 @@
 priority:
+- slug: xcures
+  type: startup
+  reason: new startup profile (Series B 2026-06-24, $46M, Innovius Capital lead)
+  added: 2026-06-22
+- slug: spiro
+  type: startup
+  reason: new startup profile (growth equity 2026-06-22, $55M from NewTrails Capital; $270M round total)
+  added: 2026-06-22
+- slug: lachy-groom
+  type: investor
+  reason: marked Superhuman/Replicate rows as "round type unverified" — needs primary source confirmation of Groom's participation
+  added: 2026-06-22
 - slug: kleiner-perkins
   type: firm
   reason: co-led CuspAI $400M growth round (2026-06-17)

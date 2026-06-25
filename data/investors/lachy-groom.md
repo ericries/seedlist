@@ -85,8 +85,8 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Speak | 2023 | Series B-2 (lead) | AI/Edtech | [^12] |
 | Nooks | 2024 | Series A (lead) | AI/Sales platform | [^11] |
 | Ashby | 2024 | Series C (lead) | HR/Recruiting | [^24] |
-| Superhuman | ~2021 | Unknown | Productivity/Email | [^15] |
-| Replicate | ~2022 | Unknown | AI/ML infrastructure | [^15] |
+| Superhuman | ~2021 | Angel (round type unverified) | Productivity/Email | [^15] |
+| Replicate | ~2022 | Angel (round type unverified) | AI/ML infrastructure | [^15] |
 | Metronome | 2022-02-01 | Series A | Fintech/Usage-based billing | [^36][^37] |
 | Anduril | 2022-12-02 | Series E ($1.48B at $8.48B val; Valor-led) | Defense technology | [^25][^42] |
 | OpenAI | ~2023 | Late stage | AI | [^25] |
