@@ -234,7 +234,7 @@ The following table includes a16z investments verified through the firm's own po
 | Shield AI | Series G (participated) | 2026-03-26 | Defense / Drones | Private [^10][^37] |
 | Hadrian | Growth | 2023 | Manufacturing | Private [^10] |
 | Flock Safety | Growth | 2022 | Public Safety | Private [^10] |
-| Abridge | Series B | 2023 | AI / Health | Private [^10] |
+| Abridge | Series E (led) | 2025-06-24 | AI / Health | Private [^83][^84][^85] |
 | Hippocratic AI | Series A | 2023 | AI / Health | Private [^10] |
 | Groq | Growth | 2024 | AI / Chips | Private [^10] |
 | Helion Energy | Growth | 2021 | Climate / Energy | Private [^10] |
@@ -513,3 +513,9 @@ The following table includes a16z investments verified through the firm's own po
 [^81]: Tech Funding News, "Built by a tradesman backed by a16z and Sequoia, Probook raises $40M to reinvent dispatch for America's home service businesses," June 23, 2026. Accessed June 2026. https://techfundingnews.com/built-by-a-tradesman-backed-by-a16z-and-sequoia-probook-raises-40m-to-reinvent-dispatch-for-americas-home-service-businesses/ — Independently confirms Andreessen Horowitz led the $34M Series A on June 23, 2026 with Sequoia Capital participating.
 
 [^82]: Andreessen Horowitz on X (Twitter), "We're excited to lead Probook's $34M Series A," June 23, 2026. Accessed June 2026. https://x.com/a16z/status/2069414574999343501 — Independently confirms a16z led the $34M Series A.
+
+[^83]: Abridge press release, "Abridge Secures $300M Series E Led by a16z to Pioneer a New Paradigm of Care Intelligence," June 24, 2025. Accessed June 2026. https://www.abridge.com/blog/series-e — Primary source: Abridge announced $300M Series E led by Andreessen Horowitz with Khosla Ventures co-investing.
+
+[^84]: Technical.ly, "Abridge lands $300M funding round led by Andreessen Horowitz," June 25, 2025. Accessed June 2026. https://technical.ly/entrepreneurship/abridge-300m-healthtech-ai-funding/ — Independently confirms a16z-led $300M Series E announced June 24, 2025; valuation of roughly $5.3B.
+
+[^85]: Bloomberg, "Andreessen Horowitz in Funding Talks Valuing Abridge AI at $5.3 Billion," May 30, 2025. Accessed June 2026. https://www.bloomberg.com/news/articles/2025-05-30/andreessen-horowitz-in-funding-talks-valuing-abridge-ai-at-5-3-billion — Independently confirms a16z leading Abridge at $5.3B valuation prior to formal June 24, 2025 announcement.

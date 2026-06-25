@@ -165594,7 +165594,8 @@ vague_facts:
   line: '| Abridge | Series B | 2023 | AI / Health | Private [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Original entry was incorrect. a16z did not lead Abridge Series B (2023, Spark Capital led). a16z led Abridge Series E ($300M, 2025-06-24) per Abridge press release, Technical.ly, Bloomberg. Updated portfolio row to Series E (led) 2025-06-24 with footnotes [^83][^84][^85].'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Hippocratic AI
