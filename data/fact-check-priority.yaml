@@ -1,4 +1,16 @@
 priority:
+- slug: taktile
+  type: startup
+  reason: new startup profile (Series C 2026-06-24, $110M led by Goldman Sachs Growth Equity)
+  added: 2026-06-22
+- slug: nebulock
+  type: startup
+  reason: new startup profile (Series A 2026-06-25, $25M led by FirstMark)
+  added: 2026-06-22
+- slug: harry-stebbings
+  type: investor
+  reason: fact-spec sweep — many ~unknown year entries in portfolio; spot-checked Airwallex and Linktree (no firm dates available)
+  added: 2026-06-22
 - slug: niural
   type: startup
   reason: new startup profile (Series A extension 2026-06-23, $21M led by FOG Ventures; total Series A now $52M)

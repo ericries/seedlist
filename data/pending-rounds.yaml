@@ -63,6 +63,166 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/25/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
+  source: alleywatch
+  date_found: '2026-06-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Airwallex raised $320M Series H
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Airwallex
+  parsed_amount: $320M
+  parsed_round: Series H
+  status: pending
+- title: Mirendil raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Mirendil
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: Taktile raised $110M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Taktile
+  parsed_amount: $110M
+  parsed_round: Series C
+  status: pending
+- title: Trase raised $107M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Trase
+  parsed_amount: $107M
+  parsed_round: Seed
+  status: pending
+- title: Sail Research raised $80M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Sail Research
+  parsed_amount: $80M
+  parsed_round: Seed And Series A
+  status: pending
+- title: Warp raised $60M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Warp
+  parsed_amount: $60M
+  parsed_round: Series B
+  status: pending
+- title: Nebulock raised $25M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Nebulock
+  parsed_amount: $25M
+  parsed_round: Series A
+  status: pending
+- title: Runlayer raised $30M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Runlayer
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: pending
+- title: Seltz raised $12.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Seltz
+  parsed_amount: $12.5M
+  parsed_round: Seed
+  status: pending
+- title: Valence AI raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Valence AI
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Kalipso raised $3.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Kalipso
+  parsed_amount: $3.2M
+  parsed_round: null
+  status: pending
+- title: Doncasters raised $919M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Doncasters
+  parsed_amount: $919M
+  parsed_round: null
+  status: pending
+- title: Alpex Acquisition raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Alpex Acquisition
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Cartesian Growth IV raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Cartesian Growth IV
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: per Axios Pro . Homeward had raised $72M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: per Axios Pro . Homeward had
+  parsed_amount: $72M
+  parsed_round: null
+  status: pending
+- title: b in stock. Modular had raised $380M VC
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: b in stock. Modular had
+  parsed_amount: $380M
+  parsed_round: Vc
+  status: pending
+- title: Homeward had raised $72M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: Homeward had
+  parsed_amount: $72M
+  parsed_round: null
+  status: pending
+- title: u003e raised $320M Series H
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: u003e
+  parsed_amount: $320M
+  parsed_round: Series H
+  status: pending
+- title: u003e. Homeward had raised $72M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-25'
+  parsed_company: u003e. Homeward had
+  parsed_amount: $72M
+  parsed_round: null
+  status: pending
 - title: Austria’s Ora Computing secures €3.5 million to make AI models smaller and
     faster
   url: https://www.eu-startups.com/2026/06/austrias-ora-computing-secures-e3-5-million-to-make-ai-models-smaller-and-faster/
@@ -670,174 +830,5 @@ pending_rounds:
   date_found: '2026-06-18'
   parsed_company: RoboStrategy, Inc.
   parsed_amount: $28.9M
-  parsed_round: null
-  status: pending
-- title: AT&T Ventures’ Head Vikram Taneja On The New Rules of Seed-Stage Defensibility
-  url: https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/
-  source: crunchbase
-  date_found: '2026-06-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Cargofy raises €9.5 million Series A to deploy AI “digital workers” across
-    freight operations
-  url: https://www.eu-startups.com/2026/06/cargofy-raises-e9-5-million-series-a-to-deploy-ai-digital-workers-across-freight-operations/
-  source: eu-startups
-  date_found: '2026-06-18'
-  parsed_company: Cargofy
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads
-    With $310M In Slower Week For Large Deals'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads/
-  source: crunchbase
-  date_found: '2026-06-18'
-  parsed_company: null
-  parsed_amount: $310M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/18/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-18-2026/
-  source: alleywatch
-  date_found: '2026-06-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Verizon announces expiration and final results of its private exchange offers
-    and consent solicitations for 11 series of notes
-  url: https://www.globenewswire.com/news-release/2026/06/17/3313350/0/en/Verizon-announces-expiration-and-final-results-of-its-private-exchange-offers-and-consent-solicitations-for-11-series-of-notes.html
-  source: globenewswire
-  date_found: '2026-06-17'
-  parsed_company: Verizon
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal
-    verification to AI
-  url: https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/
-  source: techcrunch
-  date_found: '2026-06-17'
-  parsed_company: Pramaana Labs
-  parsed_amount: $27M
-  parsed_round: Seed
-  status: processed
-- title: Ex-Palantir team behind Conduct raises €51 million to make enterprise systems
-    AI-ready
-  url: https://www.eu-startups.com/2026/06/ex-palantir-team-behind-conduct-raises-e51-million-to-make-enterprise-systems-ai-ready/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Ex-Palantir team behind Conduct
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-- title: Berlin-based NexDash secures €2.5 million from EIT Urban Mobility to electrify
-    Europe’s road freight
-  url: https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Berlin-based NexDash
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bolzano-based Soource raises €3 million to help procurement evolve from “copilot”
-    to “autopilot” model
-  url: https://www.eu-startups.com/2026/06/bolzano-based-soource-raises-e3-million-to-help-procurement-evolve-from-copilot-to-autopilot-model/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Bolzano-based Soource
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Drone warfare startup PDKINEMATICS raises €2 million for precision-guidance
-    systems out of Lithuania
-  url: https://www.eu-startups.com/2026/06/drone-warfare-startup-pdkinematics-raises-e2-million-for-precision-guidance-systems-out-of-lithuania/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Drone warfare startup PDKINEMATICS
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Barcelona-based NeuralTrust raises €17.2 million to secure and govern enterprise
-    AI agents
-  url: https://www.eu-startups.com/2026/06/barcelona-based-neuraltrust-raises-e17-2-million-to-secure-and-govern-enterprise-ai-agents/
-  source: eu-startups
-  date_found: '2026-06-17'
-  parsed_company: Barcelona-based NeuralTrust
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: The Seattle-based chain raised $160M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: The Seattle-based chain
-  parsed_amount: $160M
-  parsed_round: null
-  status: pending
-- title: DeepSeek raised $7.5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: DeepSeek
-  parsed_amount: $7.5B
-  parsed_round: null
-  status: pending
-- title: CuspAI raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: CuspAI
-  parsed_amount: $400M
-  parsed_round: null
-  status: pending
-- title: Ent raised $100M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Ent
-  parsed_amount: $100M
-  parsed_round: Seed
-  status: pending
-- title: Respond.io raised $62.5M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Respond.io
-  parsed_amount: $62.5M
-  parsed_round: Series B
-  status: pending
-- title: Conduct raised $60M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Conduct
-  parsed_amount: $60M
-  parsed_round: Series A
-  status: pending
-- title: Vedana Therapeutics raised $46M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Vedana Therapeutics
-  parsed_amount: $46M
-  parsed_round: Series A
-  status: pending
-- title: Andera raised $37M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Andera
-  parsed_amount: $37M
-  parsed_round: Series A
-  status: pending
-- title: Rejoni raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Rejoni
-  parsed_amount: $25M
   parsed_round: null
   status: pending
