@@ -130,7 +130,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Anthropic | Series E (participated) | 2025-03-03 | AI | [^12][^18] |
 | Canva | Growth | 2018 | Consumer/Design | [^12] |
 | Ramp | Series E ($300M primary) | 2025-11-17 | Fintech | [^12][^20] |
-| Perplexity | Series B ($250M) | 2024 | AI | [^12] |
+| Perplexity | $250M round (led) | 2024-06 | AI | [^12] |
 | ServiceTitan | Series A ($18M, led) | 2015 | Vertical Software | [^9] |
 | Toast | Series A, then Series B ($30M, led) | 2015, 2016 | Vertical Software | [^9] |
 | Procore | Series C ($15M) | 2014 | Vertical Software | [^9] |
