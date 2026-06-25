@@ -30508,7 +30508,7 @@ queue:
 - name: Ashish Hemrajani
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: BookMyShow
   discovered_from: deep-kalra
@@ -30567,3 +30567,91 @@ queue:
   added: '2026-03-17'
   discovered_from: mohit-gupta
   source: Personal products; $933K seed Jun 2025
+- name: Sandeep Tandon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kunal-shah
+  source: Co-founder of FreeCharge with Kunal Shah; active angel investor in India
+- name: Pankaj Chaddah
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kunal-shah
+  source: Co-investor with Kunal Shah on Helium (Apr 2026); Zomato co-founder, Indian
+    founder-angel
+- name: Magical Nest
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kunal-shah
+  source: Raised $439K Seed Mar 2026 with Kunal Shah; AI interior design (Raanro)
+- name: ZILO
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kunal-shah
+  source: Raised $15.3M Series A Feb 2026 with Kunal Shah, Peak XV, Info Edge Ventures
+- name: Ringg AI
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kunal-shah
+  source: Raised $5.5M Series A Jan 2026 with Kunal Shah, Arkam Ventures, White Venture
+    Capital
+- name: Juspay
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-hemrajani
+  source: Unicorn payments infra; Ashish Hemrajani angel/seed backer
+- name: Pazcare
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-hemrajani
+  source: Series A 2022 with Ashish Hemrajani; employee benefits/insurtech
+- name: Instahyre
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-hemrajani
+  source: Nov 2024 round with Ashish Hemrajani; HR/talent platform
+- name: Invideo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-hemrajani
+  source: Video creation SaaS; Ashish Hemrajani angel
+- name: Jupiter
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-hemrajani
+  source: Indian neobank; Ashish Hemrajani angel
+- name: Parikshit Dar
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: BookMyShow
+  discovered_from: ashish-hemrajani
+  source: BookMyShow co-founder with Ashish Hemrajani
+- name: Rajesh Balpande
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: BookMyShow
+  discovered_from: ashish-hemrajani
+  source: BookMyShow co-founder with Ashish Hemrajani

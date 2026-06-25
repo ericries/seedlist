@@ -1,23 +1,39 @@
 ---
-name: "Niural"
-slug: niural
-type: startup
-website: "https://niural.com"
-location: "New York, New York"
+firms:
+- round: Series A
+  slug: hustle-fund
+  year: 2025
+- round: '2025'
+  slug: marathon-management-partners
+  year: 2025
 founded: 2022
-status_company: active
-sector: [fintech, payroll, AI, hr-tech]
-stage_latest: "Series A"
-total_raised: "$52M"
-investors: []
-firms: []
 founders:
-  - name: "Nami Baral"
-    role: "Co-Founder & CEO"
-  - name: "Nabin Banskota"
-    role: "Co-Founder & President"
-status: published
+- name: Nami Baral
+  role: Co-Founder & CEO
+- name: Nabin Banskota
+  role: Co-Founder & President
+investors:
+- round: Series A
+  slug: elizabeth-yin
+  year: 2025
+- round: '2025'
+  slug: gokul-rajaram
+  year: 2025
 last_researched: 2026-06-25
+location: New York, New York
+name: Niural
+sector:
+- fintech
+- payroll
+- AI
+- hr-tech
+slug: niural
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $52M
+type: startup
+website: https://niural.com
 ---
 
 ## About

@@ -3,7 +3,7 @@ name: "Kunal Shah"
 slug: kunal-shah
 type: individual
 firm: null
-role: "Founder & CEO, CRED / Angel Investor"
+role: "Global Head, WhatsApp (Meta); Founder & Shareholder, CRED; Angel Investor"
 location: "Mumbai, India"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, payments, insurtech, edtech, consumer, healthtech, saas, proptech, gaming, creator-economy]
@@ -17,7 +17,7 @@ social:
   twitter: "@kunalb11"
   linkedin: "linkedin.com/in/kunalshah1"
 status: published
-last_researched: 2026-04-06
+last_researched: 2026-06-25
 ---
 
 ## Background
@@ -31,6 +31,8 @@ After his FreeCharge exit, Shah served as an advisor to Sequoia Capital India (2
 In April 2018, Shah founded CRED (Dreamplug Technologies Pvt. Ltd.), a members-only credit card bill payment platform that rewards creditworthy users [^1] [^2]. CRED reached a valuation of $6.4 billion as of June 2023, with investors including DST Global, Sequoia Capital, and Tiger Global [^1]. Shah holds an estimated 10.8-12.17% stake in CRED [^3].
 
 Shah was recognized in the Fortune 40 under 40 list (2016) and the Economic Times 40 under 40 list (2016) [^1].
+
+In June 2026, Meta appointed Shah as global head of WhatsApp, succeeding Will Cathcart who had led the platform since 2019 [^31] [^32]. The appointment coincided with Meta's reported $900 million investment in CRED, securing approximately a 20% stake at a $4.5 billion post-money valuation [^32]. Shah indicated he was stepping back from the operating role at CRED while continuing as a shareholder [^33].
 
 ## Stated Thesis
 
@@ -139,6 +141,8 @@ No additional independently sourced founder testimonials with verbatim quotes we
 
 ## Connections
 
+- **Global Head, WhatsApp / Meta** (June 2026-present) — succeeded Will Cathcart [^31] [^32]
+- **Founder & Shareholder, CRED** (founded 2018; stepped back from operating role June 2026) [^1] [^33]
 - **Independent Director, Syrma SGS Technology Limited** (since November 2021) [^1] [^30]
 - **Independent Director, Pine Labs** (since August 2021) [^1] [^30]
 - **Advisor to the Board, Bennett Coleman and Co. Ltd. (Times Group)** (since October 2017) [^5]
@@ -181,3 +185,6 @@ No additional independently sourced founder testimonials with verbatim quotes we
 [^28]: Indian Startup News, "'Startups need war time people, not peace time people', says CRED CEO Kunal Shah," September 17, 2024. https://indianstartupnews.com/news/startups-need-war-time-people-not-peace-time-people-says-cred-ceo-kunal-shah-7074833
 [^29]: Startuppedia, "'In 10 years, a lot more people will want to build startups, work at startups, invest in startups' says CRED Founder Kunal Shah," November 11, 2025. https://startuppedia.in/trending/trending/in-10-years-a-lot-more-people-will-want-to-build-startups-work-at-startups-invest-in-startups-says-cred-founder-kunal-shah-10647954
 [^30]: MarketScreener, "Kunal Naresh Shah: Positions, Relations and Network," accessed April 2026. https://www.marketscreener.com/insider/KUNAL-NARESH-SHAH-A1F1V5/
+[^31]: Outlook Business, "WhatsApp's New Chief Kunal Shah: Inside His Net Worth, Start-up Portfolio and Investment Bets," accessed June 2026. https://www.outlookbusiness.com/news/whatsapps-new-chief-kunal-shah-inside-his-net-worth-start-up-portfolio-and-investment-bets
+[^32]: Khaleej Times, "Meta's WhatsApp to be led by CRED founder Kunal Shah," accessed June 2026. https://www.khaleejtimes.com/business/tech/metas-whatsapp-to-be-led-by-indian-startup-founder-kunal-shah
+[^33]: Business Today, "From CRED to WhatsApp: Inside Kunal Shah's net worth, startup fortune and investments," 2026-06-23. https://www.businesstoday.in/technology/news/story/kunal-shah-net-worth-cred-founder-takes-charge-of-whatsapp-globally-inside-his-wealth-investments-more-538706-2026-06-23
