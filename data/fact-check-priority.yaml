@@ -1,16 +1,33 @@
 priority:
+- slug: niural
+  type: startup
+  reason: new startup profile (Series A extension 2026-06-23, $21M led by FOG Ventures; total Series A now $52M)
+  added: 2026-06-25
+- slug: tetrix
+  type: startup
+  reason: new startup profile (Series A 2026-06-23, $15M co-led by White Star Capital and Innovation Endeavors)
+  added: 2026-06-25
 - slug: xcures
   type: startup
   reason: new startup profile (Series B 2026-06-24, $46M, Innovius Capital lead)
   added: 2026-06-22
+  status: resolved
+  resolved: 2026-06-25
+  resolution_note: Profile already has 3 primary citations (Crunchbase News, citybiz, advfn release). Funding row at 2026-06-24, $46M Series B, Innovius Capital lead, iGrow + Spring Mountain Capital co-investors. CEO Mika Newton quote sourced. Valuation $127M post-money confirmed. No changes needed.
 - slug: spiro
   type: startup
   reason: new startup profile (growth equity 2026-06-22, $55M from NewTrails Capital; $270M round total)
   added: 2026-06-22
+  status: resolved
+  resolved: 2026-06-25
+  resolution_note: Profile already has 3 primary citations (APO Group/Africa Newsroom, The Next Web, Disrupt Africa). $55M tranche from NewTrails Capital on 2026-06-22 confirmed; total round $270M with Impact Fund Denmark, Equitane, FEDA. No changes needed.
 - slug: lachy-groom
   type: investor
   reason: marked Superhuman/Replicate rows as "round type unverified" — needs primary source confirmation of Groom's participation
   added: 2026-06-22
+  status: unresolvable
+  resolved: 2026-06-25
+  resolution_note: Hustle Fund article (the most cited Groom primary profile) mentions only Figma, Notion, Ramp, Lattice — neither Superhuman nor Replicate. No other primary source confirms either round type or participation date beyond aggregator data (Tracxn, Dealroom, Bitget summary). Current "Angel (round type unverified)" labeling with aggregator-sourced disclosure is accurate; no change recommended.
 - slug: kleiner-perkins
   type: firm
   reason: co-led CuspAI $400M growth round (2026-06-17)
