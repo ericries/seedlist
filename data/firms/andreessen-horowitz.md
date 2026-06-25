@@ -290,8 +290,9 @@ The following table includes a16z investments verified through the firm's own po
 | Podium Automation | Series A (participant, $18M; Construct Capital led) | 2026-06-15 | Industrial Automation / Manufacturing / Control Panels | Private [^70][^71][^72] |
 | Probably | Seed (lead, $9M) | 2026-06-16 | AI / LLM Reliability / Data Science | Private [^73][^74] |
 | Probook | Series A (led, $34M; Sequoia Capital participated) | 2026-06-23 | AI / Vertical SaaS / Home Services / Dispatch | Private [^79][^80][^81][^82] |
+| Netris | Series A (led, $15M) | 2026-06-25 | AI Infrastructure / Networking / Neoclouds | Private [^86] |
 
-*Note: This table includes 80 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 81 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -519,3 +520,5 @@ The following table includes a16z investments verified through the firm's own po
 [^84]: Technical.ly, "Abridge lands $300M funding round led by Andreessen Horowitz," June 25, 2025. Accessed June 2026. https://technical.ly/entrepreneurship/abridge-300m-healthtech-ai-funding/ — Independently confirms a16z-led $300M Series E announced June 24, 2025; valuation of roughly $5.3B.
 
 [^85]: Bloomberg, "Andreessen Horowitz in Funding Talks Valuing Abridge AI at $5.3 Billion," May 30, 2025. Accessed June 2026. https://www.bloomberg.com/news/articles/2025-05-30/andreessen-horowitz-in-funding-talks-valuing-abridge-ai-at-5-3-billion — Independently confirms a16z leading Abridge at $5.3B valuation prior to formal June 24, 2025 announcement.
+
+[^86]: TechCrunch, "Netris raises $15M Series A from a16z to help AI neoclouds go live faster," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/ — Primary source: a16z led $15M Series A in Netris on June 25, 2026; partner Guido Appenzeller joined the board.

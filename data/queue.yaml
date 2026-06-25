@@ -30655,3 +30655,39 @@ queue:
   firm: BookMyShow
   discovered_from: ashish-hemrajani
   source: BookMyShow co-founder with Ashish Hemrajani
+- name: blisce/
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: almetra
+  source: led Almetra €16.3M Series A (2026-06-25); known Spotify/Pinterest backer
+- name: Merantix Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: almetra
+  source: co-investor Almetra €16.3M Series A (2026-06-25)
+- name: Robin Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: almetra
+  source: co-investor Almetra €16.3M Series A (2026-06-25)
+- name: Critical Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: almetra
+  source: co-investor Almetra €16.3M Series A (2026-06-25)
+- name: Guido Appenzeller
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: netris
+  source: joined Netris board after a16z-led $15M Series A (2026-06-25)
