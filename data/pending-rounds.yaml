@@ -20,6 +20,49 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Netris raises $15M Series A from a16z to help AI neoclouds go live faster
+  url: https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
+  source: techcrunch
+  date_found: '2026-06-25'
+  parsed_company: Netris
+  parsed_amount: $15M
+  parsed_round: Series A
+  status: pending
+- title: Apple raises Mac and iPad prices, spares iPhone for now
+  url: https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/
+  source: techcrunch
+  date_found: '2026-06-25'
+  parsed_company: Apple
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bosch and Siemens Energy partner Almetra raises €16 million Series A for
+    manufacturing intelligence platform
+  url: https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/
+  source: eu-startups
+  date_found: '2026-06-25'
+  parsed_company: Bosch and Siemens Energy partner Almetra
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Amid a €500-700 million SME HRTech opportunity, Ireland’s HR Duo secures
+    €1.6 million for growth
+  url: https://www.eu-startups.com/2026/06/amid-a-e500-700-million-sme-hrtech-opportunity-irelands-hr-duo-secures-e1-6-million-for-growth/
+  source: eu-startups
+  date_found: '2026-06-25'
+  parsed_company: Amid a €500-700 million SME HRTech opportunity, Ireland’s HR Duo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Leyden Labs secures €40 million to develop intranasal protection against
+    influenza and coronaviruses
+  url: https://www.eu-startups.com/2026/06/leyden-labs-secures-e40-million-to-develop-intranasal-protection-against-influenza-and-coronaviruses/
+  source: eu-startups
+  date_found: '2026-06-25'
+  parsed_company: Leyden Labs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Austria’s Ora Computing secures €3.5 million to make AI models smaller and
     faster
   url: https://www.eu-startups.com/2026/06/austrias-ora-computing-secures-e3-5-million-to-make-ai-models-smaller-and-faster/
@@ -796,45 +839,5 @@ pending_rounds:
   date_found: '2026-06-17'
   parsed_company: Rejoni
   parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: Limitless Labs raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Limitless Labs
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: pending
-- title: NeuralTrust raised $20M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: NeuralTrust
-  parsed_amount: $20M
-  parsed_round: Seed
-  status: pending
-- title: Karta raised $15M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Karta
-  parsed_amount: $15M
-  parsed_round: Series A
-  status: pending
-- title: HighGround raised $6.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: HighGround
-  parsed_amount: $6.5M
-  parsed_round: Seed
-  status: pending
-- title: Tenet Security raised $6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-17'
-  parsed_company: Tenet Security
-  parsed_amount: $6M
   parsed_round: null
   status: pending
