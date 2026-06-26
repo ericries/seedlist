@@ -56,6 +56,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: AI Drives Another Spree Of Megadeals'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/
+  source: crunchbase
+  date_found: '2026-06-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Netris raises $15M Series A from a16z to help AI neoclouds go live faster
   url: https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
   source: techcrunch
@@ -820,15 +828,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-19'
   parsed_company: Copenhagen-based Festina Finance
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (June 15 – June 19)
-  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-15-june-19/
-  source: eu-startups
-  date_found: '2026-06-19'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
