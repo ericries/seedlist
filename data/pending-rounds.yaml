@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
+    Due 2029
+  url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
+  source: globenewswire
+  date_found: '2026-06-26'
+  parsed_company: Robinhood
+  parsed_amount: $2.2B
+  parsed_round: null
+  status: pending
 - title: Netris raises $15M Series A from a16z to help AI neoclouds go live faster
   url: https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
   source: techcrunch
@@ -821,14 +830,5 @@ pending_rounds:
   date_found: '2026-06-18'
   parsed_company: Dutch ingredients startup Vivici
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: RoboStrategy, Inc. Raises Approximately $28.9 Million Through Private Share
-    Issuances
-  url: https://www.globenewswire.com/news-release/2026/06/18/3314113/0/en/RoboStrategy-Inc-Raises-Approximately-28-9-Million-Through-Private-Share-Issuances.html
-  source: globenewswire
-  date_found: '2026-06-18'
-  parsed_company: RoboStrategy, Inc.
-  parsed_amount: $28.9M
   parsed_round: null
   status: pending
