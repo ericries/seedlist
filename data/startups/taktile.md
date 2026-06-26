@@ -1,34 +1,49 @@
 ---
-name: "Taktile"
-slug: taktile
-type: startup
-website: "https://taktile.com"
-location: "New York, NY"
-sector: [fintech, ai, decisioning, banking, insurtech]
-stage_latest: "Series C"
-total_raised: "$184M"
 firms:
-  - slug: balderton-capital
-    round: series-c
-    year: 2026
-    date: 2026-06-24
-  - slug: index-ventures
-    round: series-c
-    year: 2026
-    date: 2026-06-24
-  - slug: tiger-global
-    round: series-c
-    year: 2026
-    date: 2026-06-24
-  - slug: y-combinator
-    round: series-c
-    year: 2026
-    date: 2026-06-24
+- date: 2026-06-24
+  round: series-c
+  slug: balderton-capital
+  year: 2026
+- date: 2026-06-24
+  round: series-c
+  slug: index-ventures
+  year: 2026
+- date: 2026-06-24
+  round: series-c
+  slug: tiger-global
+  year: 2026
+- date: 2026-06-24
+  round: series-c
+  slug: y-combinator
+  year: 2026
+- round: Listed as angel
+  slug: angelic-ventures
+  year: 2024
 founders:
-  - name: "Maik Taro Wehmeyer"
-    role: "CEO & Co-Founder"
-status: published
+- name: Maik Taro Wehmeyer
+  role: CEO & Co-Founder
+investors:
+- round: Series B
+  slug: rob-moffat
+  year: 2025
+- round: Listed as angel
+  slug: tom-glocer
+  year: 2024
 last_researched: 2026-06-22
+location: New York, NY
+name: Taktile
+sector:
+- fintech
+- ai
+- decisioning
+- banking
+- insurtech
+slug: taktile
+stage_latest: Series C
+status: published
+total_raised: $184M
+type: startup
+website: https://taktile.com
 ---
 
 ## About

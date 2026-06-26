@@ -30517,7 +30517,7 @@ queue:
 - name: Naveen Kukreja
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Paisabazaar
   discovered_from: mohit-gupta
@@ -30577,7 +30577,7 @@ queue:
 - name: Pankaj Chaddah
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: kunal-shah
   source: Co-investor with Kunal Shah on Helium (Apr 2026); Zomato co-founder, Indian
@@ -30691,3 +30691,136 @@ queue:
   firm: Andreessen Horowitz
   discovered_from: netris
   source: joined Netris board after a16z-led $15M Series A (2026-06-25)
+- name: Binny Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Flipkart / xto10x
+  discovered_from: pankaj-chaddah
+  source: Led $6M Mindhouse/Shyft seed round (2021); active Indian angel
+- name: Pooja Khanna
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Shyft
+  discovered_from: pankaj-chaddah
+  source: Co-founder of Mindhouse/Shyft with Pankaj Chaddah; former Zomato chief of
+    staff
+- name: Shyft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: Pankaj Chaddah's wellness startup (formerly Mindhouse); $6M seed led by
+    Binny Bansal
+- name: UrbanPiper
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: Restaurant SaaS, $24M Series B (Apr 2022); Pankaj Chaddah angel investor
+- name: Vahdam
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: D2C tea brand, Series C; Pankaj Chaddah portfolio company
+- name: Threado
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: Community SaaS; Pankaj Chaddah angel investor
+- name: Infra.Market
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: Construction materials unicorn; Pankaj Chaddah portfolio company
+- name: MCaffeine
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: D2C personal care brand; Pankaj Chaddah portfolio company
+- name: Huddle Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: Co-invested with Pankaj Chaddah in Cumin seed (Jan 2026)
+- name: Kwaish Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pankaj-chaddah
+  source: Participated in Mindhouse/Shyft $6M seed (Nov 2021)
+- name: Yashish Dahiya
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: PB Fintech / Policybazaar
+  discovered_from: naveen-kukreja
+  source: Co-founder of Paisabazaar and PB Fintech with Naveen Kukreja
+- name: Alok Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: PB Fintech / Policybazaar
+  discovered_from: naveen-kukreja
+  source: Co-founder of Paisabazaar and PB Fintech with Naveen Kukreja
+- name: TransBnk
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-kukreja
+  source: Banking infrastructure fintech; Naveen Kukreja Series A (Aug 2024)
+- name: CheQ
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-kukreja
+  source: Credit management fintech; Naveen Kukreja seed VC-II (Apr 2024)
+- name: TartanHQ
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-kukreja
+  source: Fintech infra; Naveen Kukreja portfolio
+- name: Paisabazaar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-kukreja
+  source: PB Fintech subsidiary; co-founded by Naveen Kukreja, Yashish Dahiya, Alok
+    Bansal (2014)
+- name: PB Fintech
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-kukreja
+  source: Parent of Policybazaar and Paisabazaar; listed Nov 2021
+- name: Peak XV Partners (Surge)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: naveen-kukreja
+  source: Led ELIVAAS $2.5M seed where Naveen Kukreja co-invested; major India fund

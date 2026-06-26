@@ -1,28 +1,31 @@
 ---
-name: Nivasa Finance
-slug: nivasa-finance
-type: startup
-website: https://www.nivasafinance.com/
-location: India
+firms: []
 founded: 2024
-status_company: active
+founders:
+- name: Samit Shetty
+  role: Co-Founder
+- name: Hitesh Saraf
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: naveen-kukreja
+  year: 2025
+last_researched: 2026-05-13
+location: India
+name: Nivasa Finance
 sector:
 - fintech
 - lending
 - housing
 - india
 - financial-inclusion
+slug: nivasa-finance
 stage_latest: Seed
-total_raised: "₹25 Cr"
-investors: []
-firms: []
-founders:
-- name: Samit Shetty
-  role: Co-Founder
-- name: Hitesh Saraf
-  role: Co-Founder
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: ₹25 Cr
+type: startup
+website: https://www.nivasafinance.com/
 ---
 
 ## About
