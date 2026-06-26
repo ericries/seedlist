@@ -75,7 +75,7 @@ Based on 17 independently verified portfolio investments (out of 252–395 repor
 
 **Pattern diverging from stated thesis:** Despite the stated "avoid consumer internet" rule, AME's early portfolio (2012–2014) included consumer-facing investments such as Wish, Evernote, Wattpad, and Tango — all listed on the firm's website [^3]. This suggests the anti-consumer rule became more strictly applied after the fund matured, or that these early investments pre-date the formal codification of the three-rule framework.
 
-**Stage distribution:** AME invests across the full spectrum from seed through Series B+. Verified investments include seed rounds (Capella Space 2016 [^3], Savioke 2014 [^4]), Series A (Zoom 2013 [^8], Recursion 2016 [^9], Embark 2017 [^10], Flint 2025 [^7]), Series B (Nervana 2015 [^11], Synthego 2017 [^12], Rigetti 2017 [^13]), and later-stage follow-ons (Cartography Biosciences Series B 2025 [^14], Recursion Series C 2019 [^9]). Typical check size: $1M–$10M [^2].
+**Stage distribution:** AME invests across the full spectrum from seed through Series B+. Verified investments include seed rounds (Capella Space 2016 [^3], Savioke 2014 [^4]), Series A (Zoom 2013 [^8], Recursion 2016 [^9], Embark 2017 [^10], Flint 2025-11-06 [^7]), Series B (Nervana 2015 [^11], Synthego 2017 [^12], Rigetti 2017 [^13]), and later-stage follow-ons (Cartography Biosciences Series B 2025 [^14], Recursion Series C 2019 [^9]). Typical check size: $1M–$10M [^2].
 
 **Geographic focus:** Predominantly US-based companies, concentrated in Silicon Valley. Yang's Asia connections (particularly China via Alibaba) create some cross-Pacific deal flow, but the verified portfolio is predominantly US-headquartered.
 
@@ -105,7 +105,7 @@ Based on 17 independently verified portfolio investments (out of 252–395 repor
 | Wattpad | Early | ~2013 | Content platform | Acquired by Naver 2021 [^3] |
 | Tango | Early | ~2012 | Video messaging | Inactive [^3] |
 | Cartography Biosciences | Series B | 2025-10-02 | Oncology biotech | Active [^14][^17][^18] |
-| Flint | Series A | 2025 | AI / EdTech | Active [^7] |
+| Flint | Series A | 2025-11-06 | AI / EdTech | Active [^7][^19][^20] |
 
 *Note: Most early investments (2012–2014) lack confirmed round dates — years marked ~YYYY are inferred from company founding and fundraising timelines. This table represents approximately 7% of a reported 252+ investments; it is not a complete portfolio record.*
 
@@ -153,3 +153,7 @@ No additional independently sourced testimonials from AME Cloud Ventures portfol
 [^17]: BusinessWire, "Cartography Secures $67 Million Series B Financing to Advance Differentiated Oncology Pipeline of Antibody-Based Therapies into the Clinic," October 2, 2025. Accessed June 2026. https://www.businesswire.com/news/home/20251002482177/en/Cartography-Secures-$67-Million-Series-B-Financing-to-Advance-Differentiated-Oncology-Pipeline-of-Antibody-Based-Therapies-into-the-Clinic — Confirms Pfizer-led $67M Series B with AME Cloud Ventures as participating existing investor; announcement date October 2, 2025.
 
 [^18]: FinSMEs, "Cartography Raises $67M in Series B Funding," October 2, 2025. Accessed June 2026. https://www.finsmes.com/2025/10/cartography-raises-67m-in-series-b-funding.html — Independent confirmation of Series B amount, lead investor (Pfizer), and AME Cloud Ventures participation.
+
+[^19]: Yahoo Finance / AccessWire, "Flint Raises $15M Series A to Personalize Learning for the AI-Native Generation," November 6, 2025. Accessed June 2026. https://finance.yahoo.com/news/flint-raises-15m-series-personalize-170000926.html — Confirms Series A announcement date of November 6, 2025; co-led by Basis Set Ventures and Patron; participants include USC Viterbi, AME Cloud Ventures, Afore Capital, and Y Combinator.
+
+[^20]: The AI Insider, "Flint Raises $15M Series A to Personalize Learning for the AI-Native Generation," November 27, 2025. Accessed June 2026. https://theaiinsider.tech/2025/11/27/flint-raises-15m-series-15m-series-a-to-personalize-learning-for-the-ai-native-generation/ — Independent press confirmation of Flint's $15M Series A with AME Cloud Ventures participation.
