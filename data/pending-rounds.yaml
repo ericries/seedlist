@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: $2.2B
   parsed_round: null
   status: pending
+- title: UK BioTech Thalia Therapeutics raises €3.1 million and acquires Sanmirna
+    Therapeutics
+  url: https://www.eu-startups.com/2026/06/uk-biotech-thalia-therapeutics-raises-e3-1-million-and-acquires-sanmirna-therapeutics/
+  source: eu-startups
+  date_found: '2026-06-26'
+  parsed_company: UK BioTech Thalia Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Netris raises $15M Series A from a16z to help AI neoclouds go live faster
   url: https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
   source: techcrunch
@@ -820,15 +829,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-18'
   parsed_company: Copenhagen-based Kvasir Technologies
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Dutch ingredients startup Vivici secures €12.5 million EIC backing to scale
-    animal-free dairy proteins
-  url: https://www.eu-startups.com/2026/06/dutch-ingredients-startup-vivici-secures-e12-5-million-eic-backing-to-scale-animal-free-dairy-proteins/
-  source: eu-startups
-  date_found: '2026-06-18'
-  parsed_company: Dutch ingredients startup Vivici
   parsed_amount: null
   parsed_round: null
   status: pending
