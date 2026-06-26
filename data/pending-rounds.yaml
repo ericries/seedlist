@@ -38,6 +38,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (June 22 – June 26)
+  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-22-june-26/
+  source: eu-startups
+  date_found: '2026-06-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Lab-free testing moves closer to home as Germany’s Intu Diagnostics raises
+    €1.1 million
+  url: https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/
+  source: eu-startups
+  date_found: '2026-06-26'
+  parsed_company: Lab-free testing moves closer to home as Germany’s Intu Diagnostics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Netris raises $15M Series A from a16z to help AI neoclouds go live faster
   url: https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
   source: techcrunch
@@ -811,24 +829,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-19'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based Seqana secures €3.2 million to quantify soil health using satellite
-    imagery and machine learning
-  url: https://www.eu-startups.com/2026/06/berlin-based-seqana-secures-e3-2-million-to-quantify-soil-health-using-satellite-imagery-and-machine-learning/
-  source: eu-startups
-  date_found: '2026-06-19'
-  parsed_company: Berlin-based Seqana
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral
-    marine biofuel
-  url: https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/
-  source: eu-startups
-  date_found: '2026-06-18'
-  parsed_company: Copenhagen-based Kvasir Technologies
   parsed_amount: null
   parsed_round: null
   status: pending
