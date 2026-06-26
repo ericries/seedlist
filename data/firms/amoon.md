@@ -4,9 +4,9 @@ fund_size: $1.3B+ AUM; $200M Fund I (2016); $660M Fund II / aMoon Growth (2019);
   aMoon Velocity (2020); $340M+ aMoon Growth II (interim close 2024, targeting $750M)
 last_researched: 2026-04-01
 last_verified_investment:
-  company: Positive Development
-  date: 2025-08-06
-  round: Series C
+  company: Adcytherix
+  date: 2025-10-16
+  round: Series A
 location: Ra'anana, Israel
 name: aMoon
 sector_focus:
@@ -146,7 +146,7 @@ Based on 43 verified portfolio companies from the aMoon website [^14] and cross-
 | PrognomIQ | Early | ~2022 | Proteomics diagnostics / AI | Active (spun out of Seer) [^14] |
 | Iantrek | Early | ~2022 | Ophthalmology medtech | Active [^14] |
 | Lutris Pharma | Early | ~2023 | Pharmaceutical | Active [^14] |
-| Adcytherix | Early | ~2023 | Biotech / antibody-drug conjugates | Active [^14] |
+| Adcytherix | Series A | 2025-10-16 | Biotech / antibody-drug conjugates | Active (€105M Series A led by Bpifrance) [^14][^31][^32][^33] |
 | MetaSight | Growth | ~2020 | Diagnostics | Acquired by Guardant Health (NASDAQ: GH) [^14] |
 | Positive Development | Series C | 2025-08-06 | Behavioral health / autism care | Active [^26][^28] |
 | Character Biosciences | Series B | 2025-03-25 | Biotech / precision medicine | Active [^15][^29][^30] |
@@ -213,3 +213,6 @@ No additional independently sourced founder testimonials found. The quotes above
 [^28]: MedCity News, "Positive Development Rakes In $51.5M To Grow Developmental Therapy Model for Autism," August 6, 2025, accessed June 2026. https://medcitynews.com/2025/08/positive-development-autism-funding/
 [^29]: BusinessWire, "Character Biosciences Raises $93 Million Series B to Advance Precision Medicine for Progressive Eye Diseases," March 25, 2025, accessed June 2026. https://www.businesswire.com/news/home/20250325445846/en/Character-Biosciences-Raises-$93-Million-Series-B-to-Advance-Precision-Medicine-for-Progressive-Eye-Diseases
 [^30]: Latham & Watkins, "Latham & Watkins Advises Character Biosciences in US$93 Million Series B Financing Round," March 2025, accessed June 2026. https://www.lw.com/en/news/2025/03/latham-watkins-advises-character-biosciences-in-us93-million-series-b-financing-round
+[^31]: GlobeNewswire (Adcytherix press release), "Adcytherix Raises EUR 105M Series A to Accelerate Breakthrough Antibody-Drug Conjugate Pipeline with Strategic Focus on Novel Payloads," October 16, 2025, accessed June 2026. https://www.globenewswire.com/news-release/2025/10/16/3167678/0/en/Adcytherix-Raises-EUR-105M-Series-A-to-Accelerate-Breakthrough-Antibody-Drug-Conjugate-Pipeline-with-Strategic-Focus-on-Novel-Payloads.html
+[^32]: BioSpace, "Adcytherix Raises EUR 105M Series A to Accelerate Breakthrough Antibody-Drug Conjugate Pipeline with Strategic Focus on Novel Payloads," October 16, 2025, accessed June 2026. https://www.biospace.com/press-releases/adcytherix-raises-eur-105m-series-a-to-accelerate-breakthrough-antibody-drug-conjugate-pipeline-with-strategic-focus-on-novel-payloads
+[^33]: Pharmaceutical Technology, "Adcytherix secures $122m in funding to propel ADC development," October 2025, accessed June 2026. https://www.pharmaceutical-technology.com/news/adcytherix-adc-development/

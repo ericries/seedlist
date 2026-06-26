@@ -169047,7 +169047,11 @@ vague_facts:
     [^14] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: 2025-10-16 — aMoon participated in Adcytherix's €105M Series A (lead Bpifrance,
+    co-led by Kurma Partners, Andera Partners, Angelini Ventures). Confirmed via Adcytherix
+    press release (GlobeNewswire), BioSpace, and Pharmaceutical Technology. Updated
+    last_verified_investment to Adcytherix Series A 2025-10-16.
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: OpenAI
