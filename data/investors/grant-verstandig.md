@@ -23,8 +23,8 @@ sector_focus:
   - neurotech
 check_size: "$3M-$200M (across Red Cell incubation + follow-on)"
 last_verified_investment:
-  date: 2026-03-19
-  company: "Claros"
+  date: 2026-06-25
+  company: "Trase"
   round: "Seed"
 social:
   twitter: "@grantverstandig"

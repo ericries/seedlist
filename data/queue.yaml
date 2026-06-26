@@ -30824,3 +30824,11 @@ queue:
   added: '2026-03-17'
   discovered_from: naveen-kukreja
   source: Led ELIVAAS $2.5M seed where Naveen Kukreja co-invested; major India fund
+- name: Baskar Sridharan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Trase
+  discovered_from: trase
+  source: President of Trase (portfolio founder); ex-Microsoft
