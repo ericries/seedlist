@@ -56,7 +56,7 @@ On June 23, 2026, Niural announced an additional $21M in strategic capital, brin
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+"Niural AI Labs is our bet on the hardest problem in AI: agents you can trust with work where the margin for error is zero." — Nami Baral, Co-Founder & CEO, in the June 23, 2026 PR Newswire announcement [^1]
 
 ## Sources
 

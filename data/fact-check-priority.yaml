@@ -3,10 +3,16 @@ priority:
   type: startup
   reason: new startup profile (Series C 2026-06-24, $110M led by Goldman Sachs Growth Equity)
   added: 2026-06-22
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Taktile Series C $110M on 2026-06-24, lead Growth Equity at Goldman Sachs Alternatives, participants Balderton Capital, Index Ventures, Tiger Global, Y Combinator, Dig Ventures via 3 primary sources (PYMNTS [^1], The SaaS News [^2], FinTech Futures [^3]). Total raised $184M. Founder Maik Taro Wehmeyer confirmed. No changes needed — profile already accurate.'
 - slug: nebulock
   type: startup
   reason: new startup profile (Series A 2026-06-25, $25M led by FirstMark)
   added: 2026-06-22
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Nebulock $25M Series A on 2026-06-25 led by FirstMark, with Bain Capital Ventures, Decibel, Zetta Venture Partners, Step Function participating, via 5 independent primary sources (BusinessWire press release [^1], LinkedIn founder post [^2], SiliconANGLE [^3], Pulse 2.0 [^6], SecurityWeek [^7]). Replaced dead Dealroom citation with SiliconANGLE. Added founder quote from Damien Lewke ("Breaches used to take months; now they take tokens") and investor quote from FirstMark Partner David Waltcher.'
 - slug: harry-stebbings
   type: investor
   reason: fact-spec sweep — many ~unknown year entries in portfolio; spot-checked Airwallex and Linktree (no firm dates available)
@@ -15,6 +21,9 @@ priority:
   type: startup
   reason: new startup profile (Series A extension 2026-06-23, $21M led by FOG Ventures; total Series A now $52M)
   added: 2026-06-25
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Niural Series A extension $21M on 2026-06-23 with FOG Ventures and NewView Capital leading, plus existing investors, bringing total Series A to $52M, via 3 primary sources (PR Newswire press release [^1], Niural blog [^2], The SaaS News [^3]). Original Series A of $31M in 2025 led by Marathon Management Partners (Chase Packard, Gokul Rajaram) with M13, Inspired Capital, Newform Capital, Hustle Fund, Alliance confirmed. Added founder quote from Nami Baral on Niural AI Labs.'
 - slug: tetrix
   type: startup
   reason: new startup profile (Series A 2026-06-23, $15M co-led by White Star Capital and Innovation Endeavors)
