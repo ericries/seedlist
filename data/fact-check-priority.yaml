@@ -406,12 +406,28 @@ priority:
   type: firm
   reason: co-led Anthropic Series H $65B (2026-05-28)
   added: 2026-05-28
-  status: investigating
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Dragoneer as co-lead of Anthropic Series H $65B at $965B
+    post-money on 2026-05-28 via 3 primary sources: Anthropic''s own press release
+    (anthropic.com/news/series-h), TechCrunch, and CNBC. Added Anthropic press release
+    [^23] and CNBC [^24] citations to anthropic.md. Clarified Series H row to include
+    additional co-leads (Capital Group, Coatue, D1 Capital Partners, GIC, ICONIQ,
+    XN) per the official announcement, plus full participant list (AMP PBC, Lightspeed,
+    MGX, NTTVC, NX1, T. Rowe Price, etc.). No firm profile for Dragoneer exists yet
+    — already in queue.
 - slug: founderful
   type: firm
   reason: led Stellar Alpina CHF 3.5M pre-seed (2026-05-28)
   added: 2026-05-28
-  status: investigating
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Founderful led Stellar Alpina CHF 3.5M pre-seed on 2026-05-28
+    with LP&E participating via 4 primary sources: GlobeNewsWire press release [^1],
+    EU-Startups [^2], Payload Space [^3], and Startupticker.ch [^4] (newly added).
+    Founder quotes from Victor Elliesen added to "What Founders Say" section sourced
+    from Payload. Currency preserved as CHF 3.5M. No firm profile for Founderful
+    exists yet.'
 - slug: graduate-ventures
   type: firm
   reason: co-led Eddy Grid €7.5M (2026-05-28)
@@ -420,7 +436,16 @@ priority:
   type: firm
   reason: led Hark $700M Series A at $6B val (2026-05-21) — may need new profile
   added: 2026-05-21
-  status: investigating
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Parkway Venture Capital led Hark $700M Series A at $6B
+    post-money on 2026-05-21 via 4 primary sources already in hark.md: TechCrunch
+    [^1], Bloomberg [^2], BusinessWire press release [^3], The Next Web [^4]. All
+    sources agree on date, amount, valuation, lead, and full participant list (Nvidia,
+    Align Ventures, AMD Ventures, ARK Invest, Brookfield, Greycroft, Intel Capital,
+    Prime Movers Lab, Qualcomm Ventures, Salesforce Ventures, Tamarack Global). Hark
+    profile already fully cited — no changes needed. Parkway Venture Capital already
+    in queue.yaml for firm profile creation.
 - slug: 137-ventures
   type: firm
   reason: co-led Impulse Space Series D $500M at $4.26B val (2026-06-02)

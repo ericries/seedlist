@@ -38,7 +38,7 @@ Stellar Alpina is a Zurich-based space-propulsion company building compact rotat
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-28 | Pre-Seed | CHF 3.5M (~€3.8M / ~$4.5M) | Founderful | LP&E [^1][^2][^3] |
+| 2026-05-28 | Pre-Seed | CHF 3.5M (~€3.8M / ~$4.5M) | Founderful | LP&E [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -46,10 +46,17 @@ No independently sourced investor quotes found at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "Our way to commercialization is to talk to as many customers as possible, figure out where the current pain points [are]—where the high maneuver is needed."
+>
+> — Victor Elliesen, Co-Founder, on the company's go-to-market approach [^3]
+
+> "There is a race, which is establishing: Who's going to figure out how much more efficient are RDREs? Who says the first RDRE can't come from Europe?"
+>
+> — Victor Elliesen, Co-Founder, on European RDRE leadership [^3]
 
 ## Sources
 
 [^1]: GlobeNewsWire, "Stellar Alpina Raises CHF 3.5M to Build Detonation-Based Propulsion for Mobility After Launch," May 28, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/05/28/3302542/0/en/stellar-alpina-raises-chf-3-5m-to-build-detonation-based-propulsion-for-mobility-after-launch.html
 [^2]: EU-Startups, "Zurich's Stellar Alpina raises €3.8 million to build detonation-based propulsion for in-space mobility," May 28, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/zurichs-stellar-alpina-raises-e3-8-million-to-build-detonation-based-propulsion-for-in-space-mobility
-[^3]: Payload, "Exclusive: Stellar Alpina Raises $4.5M to Build Rotating Detonation Engines," May 2026. Accessed May 2026. https://payloadspace.com/exclusive-stellar-alpina-raises-4-5m-to-build-rotating-detonation-engines/
+[^3]: Payload, "Exclusive: Stellar Alpina Raises $4.5M to Build Rotating Detonation Engines," May 2026. Accessed May 2026. https://payloadspace.com/exclusive-stellar-alpina-raises-4-5m-to-build-rotating-detonation-engines/ — Confirms CHF 3.5M ($4.5M) pre-seed led by Founderful with LP&E participating, announced May 28, 2026; quotes co-founder Victor Elliesen.
+[^4]: Startupticker, "CHF 3.5M to Build Stellar Alpina Detonation-Based Propulsion for Mobility After Launch," May 28, 2026. Accessed June 2026. https://www.startupticker.ch/en/news/chf-3-5m-to-build-stellar-alpina-detonation-based-propulsion-for-mobility-after-launch — Swiss startup press confirming CHF 3.5M pre-seed led by Founderful with LP&E and other strategic deep-tech investors; lists all four founders (Wespi, Elliesen, Röthlisberger, Egli) and Innovation Park Zurich HQ.
