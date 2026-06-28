@@ -406,10 +406,12 @@ priority:
   type: firm
   reason: co-led Anthropic Series H $65B (2026-05-28)
   added: 2026-05-28
+  status: investigating
 - slug: founderful
   type: firm
   reason: led Stellar Alpina CHF 3.5M pre-seed (2026-05-28)
   added: 2026-05-28
+  status: investigating
 - slug: graduate-ventures
   type: firm
   reason: co-led Eddy Grid €7.5M (2026-05-28)
@@ -418,6 +420,7 @@ priority:
   type: firm
   reason: led Hark $700M Series A at $6B val (2026-05-21) — may need new profile
   added: 2026-05-21
+  status: investigating
 - slug: 137-ventures
   type: firm
   reason: co-led Impulse Space Series D $500M at $4.26B val (2026-06-02)

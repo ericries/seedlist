@@ -204,8 +204,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Sarvam AI | Series B (existing investor, $234M first close of $300M round; HCLTech led with $150M) | 2026-06-15 | AI / India | Private ($1.5B val) [^49][^50][^51] |
 | Pramaana Labs | Seed (led, $27M; Accel, BoldCap, Nexus Venture Partners, Premji Invest, Unbound participated) | 2026-06-17 | AI / Formal Verification / LLM Reliability | Private [^52][^53][^54] |
 | Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
+| Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3] |
 
-*Note: This table includes 67 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
+*Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
 ## In Their Own Words
 
@@ -388,3 +389,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^convey2]: Finsmes, "Convey Raises $38M in Series A Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/convey-raises-38m-in-series-a-funding.html — Independent confirmation Khosla Ventures participated in the $38M Series A.
 
 [^convey3]: Morningstar / BusinessWire, "Convey Raises $38 Million Series A Led by Andreessen Horowitz to Automate Enterprise Operations with AI Teammates," June 17, 2026. Accessed June 2026. https://www.morningstar.com/news/business-wire/20260617486214/convey-raises-38-million-series-a-led-by-andreessen-horowitz-to-automate-enterprise-operations-with-ai-teammates — Third independent confirmation of Khosla Ventures' participation.
+
+[^runlayer1]: Fortune, "Exclusive: Vinod Khosla wanted 'every available dollar' of Runlayer's funding round. It just raised $30 million to govern the agent workforce," June 24, 2026. Accessed June 2026. https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/ — Primary source: Felicis led Runlayer's $30M Series A on June 24, 2026 with Khosla Ventures participating; Khosla Ventures (Keith Rabois) had led the prior $11M seed in 2025; Vinod Khosla personally championed the Series A.
+
+[^runlayer2]: SecurityWeek, "Runlayer Raises $30 Million in Series A Funding," June 25, 2026. Accessed June 2026. https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/ — Independently confirms Felicis-led $30M Series A with Khosla Ventures participating.
+
+[^runlayer3]: The SaaS News, "Runlayer Raises $30M Series A," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runlayer-raises-30m-series-a/ — Third independent confirmation of Felicis-led $30M Series A with Khosla Ventures.
