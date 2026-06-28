@@ -97,7 +97,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | NPM | Seed | ~2014 | Developer Tools | [^5] |
 | Genius | Early | ~2012 | Media / Music | [^3] |
 | Telegram | Early | ~2018 | Messaging | [^3] |
-| AppFlowy | Seed | 2023 | Developer Tools / Open Source | [^18] |
+| AppFlowy | Seed ($6.4M, OSS Capital led) | 2023-11-20 | Developer Tools / Open Source | [^18] [^26] |
 | Mindset Health | Series A | 2023-03-21 | Digital Health | [^12] [^24] [^25] |
 | Spiraldot Health | Seed | 2025 | Healthcare | [^19] |
 | Scorbit | Seed | 2025 | Gaming / Hardware | [^20] |
@@ -155,3 +155,4 @@ No independently sourced founder testimonials found. Audrey Capital's website do
 [^23]: WP Tavern, "GitLab Raises $20 Million Series C Round, Adds Matt Mullenweg to Board of Directors," October 2017, accessed March 2026. https://wptavern.com/gitlab-raises-20-million-series-c-round-adds-matt-mullenweg-to-board-of-directors
 [^24]: PR Newswire, "Mindset Health raises US$12m to expand digital hypnotherapy apps & scale distribution," March 21, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/mindset-health-raises-us12m-to-expand-digital-hypnotherapy-apps--scale-distribution-301776991.html
 [^25]: MobiHealthNews, "Digital therapeutics startup Mindset Health scores $12M in Series A funding," March 22, 2023, accessed June 2026. https://www.mobihealthnews.com/news/anz/digital-therapeutics-startup-mindset-health-scores-12m-series-funding
+[^26]: AppFlowy, "Announcing AppFlowy $6.4M Seed Funding," November 16, 2023, accessed June 2026. https://appflowy.com/blog/seed — Company's own announcement confirming $6.4M Seed led by OSS Capital with participation from Matt Mullenweg (Automattic), Bob Young (Red Hat), Steve Chen (YouTube), Tom Preston-Werner (GitHub), Amr Awadallah (Cloudera).

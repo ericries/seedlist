@@ -169250,7 +169250,10 @@ vague_facts:
   line: '| Elly | Seed | 2023 | AI | Active [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2026-02-25 Pre-Seed ($8M) led by Sorenson Capital with
+    Atomic and Next Wave Capital. Confirmed via PR Newswire press release and Gunderson
+    Dettmer legal counsel announcement. Added footnotes [^12][^13] to atomic profile.
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: AppFlowy
@@ -169260,7 +169263,11 @@ vague_facts:
   line: '| AppFlowy | Seed | 2023 | Developer Tools / Open Source | [^18] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: Updated to 2023-11-20 Seed ($6.4M) led by OSS Capital. Matt Mullenweg
+    (Audrey Capital principal) participated alongside Steve Chen, Tom Preston-Werner,
+    Bob Young, Amr Awadallah. Confirmed via AppFlowy company blog (Nov 16, 2023),
+    TechCrunch article (Nov 20, 2023). Added footnote [^26].
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Spiraldot Health

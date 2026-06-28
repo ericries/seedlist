@@ -30130,7 +30130,7 @@ queue:
 - name: Airwallex
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: harry-stebbings
   source: 20VC portfolio; global payments infrastructure
@@ -30570,7 +30570,7 @@ queue:
 - name: Sandeep Tandon
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: kunal-shah
   source: Co-founder of FreeCharge with Kunal Shah; active angel investor in India
@@ -30832,3 +30832,40 @@ queue:
   firm: Trase
   discovered_from: trase
   source: President of Trase (portfolio founder); ex-Microsoft
+- name: Baillie Gifford
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airwallex
+- name: T. Rowe Price
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: airwallex
+- name: Vine Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sail-research
+- name: John Hennessy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sail-research
+- name: Anshu Prasher
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Whiteboard Capital
+  discovered_from: sandeep-tandon
+- name: Tandon Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sandeep-tandon

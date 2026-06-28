@@ -101,7 +101,7 @@ Based on 18 verified portfolio companies from Atomic's website [^6]:
 | BoomPop | Series A | 2020 | AI/Events | Active [^6] |
 | Bungalow | Series C | 2016 | Real Estate | Active [^6] |
 | Butter | Series A | 2020 | FinTech | Active [^6] |
-| Elly | Seed | 2023 | AI | Active [^6] |
+| Elly | Pre-Seed ($8M) | 2026-02-25 | AI / Hiring | Active [^6][^12][^13] |
 | Exowatt | Seed | 2024-04-22 | Energy | Active [^6][^10][^11] |
 | Found | Series B | 2020 | Healthcare | Active [^6] |
 | Hims & Hers | IPO (NYSE: HIMS) | 2017 | Healthcare | Public [^6] |
@@ -152,3 +152,7 @@ Note: The above founder quotes are sourced from Atomic's own website and should 
 [^10]: BusinessWire, "Exowatt Launches with $20 Million to Modernize Data Center Power for the AI Era," April 22, 2024, accessed June 2026. https://www.businesswire.com/news/home/20240422640698/en/Exowatt-Launches-with-$20-Million-to-Modernize-Data-Center-Power-for-the-AI-Era — Confirms $20M Seed led by Andreessen Horowitz with participation from Atomic and Sam Altman, announced April 22, 2024.
 
 [^11]: Exowatt, "Exowatt Secures $20M to Power the AI Era with Next-Gen Renewable Energy," April 22, 2024, accessed June 2026. https://www.exowatt.com/blog/exowatt-secures-20m-to-power-the-ai-era-with-next-generation-renewable-energy — Company's own announcement confirming seed round date and investor list (a16z, Atomic, Sam Altman).
+
+[^12]: PR Newswire, "Elly Debuts AI-Native Hiring Platform and Raises Funding Led by Sorenson Capital," February 25, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/elly-debuts-ai-native-hiring-platform-and-raises-funding-led-by-sorenson-capital-302696511.html — Confirms $8M Pre-Seed announced February 25, 2026; lead Sorenson Capital with participation from Atomic and Next Wave Capital; Elly created as part of Atomic venture studio.
+
+[^13]: Gunderson Dettmer, "Elly Launches With $8 Million Pre-Seed Financing," February 2026, accessed June 2026. https://www.gunder.com/en/news-insights/client-news/elly-launches-with-8-million-usd-pre-seed-financing — Independent legal counsel announcement confirming $8M Pre-Seed and Atomic's role as co-founder.

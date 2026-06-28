@@ -1,29 +1,68 @@
 ---
-name: Warp
-slug: warp
-type: startup
-website: https://warp.co
+firms:
+- date: 2026-06-25
+  round: series-b
+  slug: battery-ventures
+  year: 2026
+- date: 2026-06-25
+  round: series-b
+  slug: y-combinator
+  year: 2026
+- round: Series A (led)
+  slug: independent
+  year: 2022
+- round: Series B
+  slug: sequoia-capital
+  year: 2023
+- round: ~2022
+  slug: homebrew
+  year: 2022
+- round: Seed
+  slug: boxgroup
+  year: 2022
+- round: Angel
+  slug: pear-vc
+  year: 2021
+- round: Series B
+  slug: time-ventures
+  year: 2023
+investors:
+- round: Series A (led)
+  slug: dylan-field
+  year: 2022
+- round: Series B
+  slug: andrew-reed
+  year: 2023
+- round: ~2022
+  slug: satya-patel
+  year: 2022
+- round: Seed
+  slug: david-tisch
+  year: 2022
+- round: Seed
+  slug: adam-rothenberg
+  year: 2020
+- round: Angel
+  slug: arash-ferdowsi
+  year: 2021
+- round: Series B
+  slug: marc-benioff
+  year: 2023
+last_researched: 2026-06-26
 location: New York, NY
-status_company: active
+name: Warp
 sector:
 - hr-tech
 - payroll
 - ai
 - fintech
+slug: warp
 stage_latest: Series B
-total_raised: $85M
-firms:
-- slug: battery-ventures
-  round: series-b
-  year: 2026
-  date: 2026-06-25
-- slug: y-combinator
-  round: series-b
-  year: 2026
-  date: 2026-06-25
-investors: []
-last_researched: 2026-06-26
 status: published
+status_company: active
+total_raised: $85M
+type: startup
+website: https://warp.co
 ---
 
 ## About
