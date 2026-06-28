@@ -1,11 +1,12 @@
 ---
-name: GovWell
-slug: govwell
-type: startup
-website: https://govwell.com/
-location: New York, NY
+firms:
+- slug: insight-partners
 founded: 2023
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-05-14
+location: New York, NY
+name: GovWell
 sector:
 - govtech
 - ai
@@ -13,13 +14,13 @@ sector:
 - saas
 - enterprise-software
 - public-sector
+slug: govwell
 stage_latest: Series A
-total_raised: $34.5M
-investors: []
-firms: []
-founders: []
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $34.5M
+type: startup
+website: https://govwell.com/
 ---
 
 ## About

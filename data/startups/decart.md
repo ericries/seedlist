@@ -6,6 +6,7 @@ firms:
 - round: Seed ($21M)
   slug: sequoia-capital
   year: 2024
+- slug: valor-equity-partners
 founded: 2023
 founders:
 - name: Dean Leitersdorf

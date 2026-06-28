@@ -1,21 +1,7 @@
 ---
-name: Origin Lab
-slug: origin-lab
-type: startup
-website: https://www.originlab.ai/
-location: San Francisco, CA
+firms:
+- slug: sv-angel
 founded: 2024
-status_company: active
-sector:
-- ai
-- ai-data
-- gaming
-- world-models
-- data-marketplace
-stage_latest: Seed
-total_raised: $8M
-investors: []
-firms: []
 founders:
 - name: Anne-Margot Rodde
   role: Co-Founder & Co-CEO
@@ -23,8 +9,25 @@ founders:
   role: Co-Founder
 - name: Colin Carrier
   role: Co-Founder
+investors:
+- slug: kevin-lin
+- slug: kyle-vogt
 last_researched: 2026-05-13
+location: San Francisco, CA
+name: Origin Lab
+sector:
+- ai
+- ai-data
+- gaming
+- world-models
+- data-marketplace
+slug: origin-lab
+stage_latest: Seed
 status: published
+status_company: active
+total_raised: $8M
+type: startup
+website: https://www.originlab.ai/
 ---
 
 ## About

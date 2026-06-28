@@ -13,6 +13,7 @@ firms:
 - round: Angel / Board
   slug: long-journey-ventures
   year: 1998
+- slug: sequoia-capital
 founded: 1998
 founders:
 - name: Peter Thiel

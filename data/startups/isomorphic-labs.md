@@ -4,6 +4,7 @@ firms:
   round: series-b
   slug: thrive-capital
   year: 2026
+- slug: capitalg
 founded: 2021
 founders:
 - name: Demis Hassabis

@@ -20,6 +20,7 @@ firms:
 - round: Series B
   slug: replit
   year: 2024
+- slug: abstract-ventures
 founded: 2020
 founders: []
 investors:

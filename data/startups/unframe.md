@@ -1,22 +1,8 @@
 ---
-name: Unframe
-slug: unframe
-type: startup
-website: https://unframe.ai/
-location: Cupertino, CA
+firms:
+- slug: bessemer-venture-partners
+- slug: craft-ventures
 founded: 2024
-status_company: active
-sector:
-- ai
-- enterprise-software
-- saas
-- ai-agents
-- managed-services
-- ai-infrastructure
-stage_latest: Series B
-total_raised: $100M
-investors: []
-firms: []
 founders:
 - name: Shay Levi
   role: Co-Founder & CEO
@@ -24,8 +10,24 @@ founders:
   role: Co-Founder & COO
 - name: Adi Azarya
   role: Co-Founder & VP R&D
+investors: []
 last_researched: 2026-05-24
+location: Cupertino, CA
+name: Unframe
+sector:
+- ai
+- enterprise-software
+- saas
+- ai-agents
+- managed-services
+- ai-infrastructure
+slug: unframe
+stage_latest: Series B
 status: published
+status_company: active
+total_raised: $100M
+type: startup
+website: https://unframe.ai/
 ---
 
 ## About

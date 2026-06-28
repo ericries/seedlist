@@ -1,10 +1,16 @@
 ---
-name: Armada
-slug: armada
-type: startup
-website: https://armada.ai/
+firms:
+- slug: founders-fund
+- slug: lux-capital
+founders:
+- name: Dan Wright
+  role: Co-Founder & CEO
+- name: John Runyan
+  role: Co-Founder
+investors: []
+last_researched: 2026-05-24
 location: San Francisco, CA
-status_company: active
+name: Armada
 sector:
 - ai-infrastructure
 - edge-computing
@@ -14,17 +20,13 @@ sector:
 - satellite
 - modular-infrastructure
 - ai
+slug: armada
 stage_latest: Series B
-total_raised: $500M
-investors: []
-firms: []
-founders:
-- name: Dan Wright
-  role: Co-Founder & CEO
-- name: John Runyan
-  role: Co-Founder
-last_researched: 2026-05-24
 status: published
+status_company: active
+total_raised: $500M
+type: startup
+website: https://armada.ai/
 ---
 
 ## About

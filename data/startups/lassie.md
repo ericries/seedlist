@@ -40,6 +40,7 @@ investors:
 - round: Series A
   slug: brian-balfour
   year: 2026
+- slug: taavet-hinrikus
 last_researched: 2026-06-04
 location: San Francisco, CA
 name: Lassie

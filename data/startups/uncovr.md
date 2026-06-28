@@ -1,32 +1,37 @@
 ---
-name: "Uncovr"
-slug: uncovr
-type: startup
-website: "https://uncovr.ai"
-location: "Paris, France"
-founded: 2025
-status_company: active
-sector: [healthcare, surgical-ai, ai, medtech]
-stage_latest: "Seed"
-total_raised: "€6M"
-investors:
-  - round: seed
-    year: 2026
-    date: 2026-06-10
 firms:
-  - slug: index-ventures
-    round: seed
-    year: 2026
-    date: 2026-06-10
+- date: 2026-06-10
+  round: seed
+  slug: index-ventures
+  year: 2026
+founded: 2025
 founders:
-  - name: "Ines Iraki"
-    role: "CEO & Co-Founder"
-  - name: "Johann Diep"
-    role: "CTO & Co-Founder"
-  - name: "Eric Vibert"
-    role: "Medical Co-Founder"
-status: published
+- name: Ines Iraki
+  role: CEO & Co-Founder
+- name: Johann Diep
+  role: CTO & Co-Founder
+- name: Eric Vibert
+  role: Medical Co-Founder
+investors:
+- date: 2026-06-10
+  round: seed
+  year: 2026
+- slug: charlie-songhurst
 last_researched: 2026-06-10
+location: Paris, France
+name: Uncovr
+sector:
+- healthcare
+- surgical-ai
+- ai
+- medtech
+slug: uncovr
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: €6M
+type: startup
+website: https://uncovr.ai
 ---
 
 ## About

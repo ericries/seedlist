@@ -1,25 +1,30 @@
 ---
-name: Eisen
-slug: eisen
-type: startup
-website: "https://www.witheisen.com"
-location: New York, New York
+firms:
+- slug: cowboy-ventures
+- slug: first-round-capital
+- slug: homebrew
+- slug: index-ventures
 founded: 2022
-status_company: active
-sector:
-- fintech
-- compliance
-- regtech
-stage_latest: Series A
-total_raised: $18.5M
-firms: []
 founders:
 - name: Allen Osgood
   role: Co-Founder
 - name: Stephanie Mertz
   role: Co-Founder
-status: published
+investors: []
 last_researched: 2026-05-27
+location: New York, New York
+name: Eisen
+sector:
+- fintech
+- compliance
+- regtech
+slug: eisen
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $18.5M
+type: startup
+website: https://www.witheisen.com
 ---
 
 ## About

@@ -6,6 +6,8 @@ firms:
 - round: '2026-06-10'
   slug: datadog
   year: 2026
+- slug: boxgroup
+- slug: sv-angel
 founders:
 - name: Sajid Mehmood
   role: Co-Founder & CEO

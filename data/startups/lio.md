@@ -17,7 +17,8 @@ founders:
   role: Co-Founder
 - name: Till Wagner
   role: Co-Founder
-investors: []
+investors:
+- slug: harry-stebbings
 last_researched: 2026-03-24
 location: Germany
 name: Lio

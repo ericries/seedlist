@@ -7,6 +7,7 @@ firms:
 - round: Seed ($50M)
   slug: true-ventures
   year: 2024
+- slug: basis-set-ventures
 founders: []
 investors:
 - round: '2024'

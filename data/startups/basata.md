@@ -1,22 +1,8 @@
 ---
-name: Basata
-slug: basata
-type: startup
-website: https://www.basata.ai/
-location: Phoenix, AZ
+firms:
+- slug: basis-set-ventures
+- slug: cowboy-ventures
 founded: 2024
-status_company: active
-sector:
-- healthtech
-- ai
-- ai-agents
-- healthcare-it
-- workflow-automation
-- digital-health
-stage_latest: Series A
-total_raised: $24.5M
-investors: []
-firms: []
 founders:
 - name: Kaled Alhanafi
   role: Co-Founder & CEO
@@ -24,8 +10,24 @@ founders:
   role: Co-Founder & President
 - name: Vivin
   role: Co-Founder
+investors: []
 last_researched: 2026-05-12
+location: Phoenix, AZ
+name: Basata
+sector:
+- healthtech
+- ai
+- ai-agents
+- healthcare-it
+- workflow-automation
+- digital-health
+slug: basata
+stage_latest: Series A
 status: published
+status_company: active
+total_raised: $24.5M
+type: startup
+website: https://www.basata.ai/
 ---
 
 ## About

@@ -1,26 +1,11 @@
 ---
-name: Status AI
-slug: status-ai
-type: startup
-website: https://status.fun/
-location: United States
-founded: 2024
-status_company: active
-sector:
-- ai
-- consumer
-- social
-- gaming
-- creator-economy
-- generative-ai
-stage_latest: Series A
-total_raised: $17M+
-investors: []
 firms:
-- slug: general-catalyst
+- date: 2026-05-19
   round: series-a
+  slug: general-catalyst
   year: 2026
-  date: 2026-05-19
+- slug: y-combinator
+founded: 2024
 founders:
 - name: Fai Nur
   role: Co-Founder
@@ -28,8 +13,24 @@ founders:
   role: Co-Founder
 - name: Pritesh Kadiwala
   role: Co-Founder
+investors: []
 last_researched: 2026-05-19
+location: United States
+name: Status AI
+sector:
+- ai
+- consumer
+- social
+- gaming
+- creator-economy
+- generative-ai
+slug: status-ai
+stage_latest: Series A
 status: published
+status_company: active
+total_raised: $17M+
+type: startup
+website: https://status.fun/
 ---
 
 ## About

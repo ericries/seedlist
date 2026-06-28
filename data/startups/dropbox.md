@@ -36,6 +36,7 @@ firms:
 - round: Angel
   slug: af-square
   year: 2012
+- slug: greylock
 founded: 2007
 founders:
 - name: Drew Houston

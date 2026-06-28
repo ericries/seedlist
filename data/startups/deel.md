@@ -54,6 +54,7 @@ firms:
 - round: Growth
   slug: neo
   year: 2021
+- slug: uncork-capital
 founded: 2019
 founders:
 - name: Alex Bouaziz
@@ -107,6 +108,8 @@ investors:
   slug: ali-partovi
   year: 2021
 - slug: alexis-ohanian
+- slug: nat-friedman
+- slug: william-hockey
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Deel

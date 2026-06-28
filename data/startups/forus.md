@@ -1,11 +1,27 @@
 ---
-name: Forus
-slug: forus
-type: startup
-website: https://forus.health/
-location: New York, NY
+firms:
+- date: 2026-05-12
+  round: growth
+  slug: thrive-capital
+  year: 2026
+- date: 2026-05-12
+  round: growth
+  slug: accel
+  year: 2026
+- date: 2026-05-12
+  round: growth
+  slug: boxgroup
+  year: 2026
+- slug: general-catalyst
+- slug: pear-vc
 founded: 2023
-status_company: active
+founders:
+- name: Sahir Jaggi
+  role: Founder & CEO
+investors: []
+last_researched: 2026-05-16
+location: New York, NY
+name: Forus
 sector:
 - healthcare
 - healthtech
@@ -13,27 +29,13 @@ sector:
 - pharmacy
 - prescription
 - saas
+slug: forus
 stage_latest: Growth
-total_raised: $160M+
-investors: []
-firms:
-- slug: thrive-capital
-  round: growth
-  year: 2026
-  date: 2026-05-12
-- slug: accel
-  round: growth
-  year: 2026
-  date: 2026-05-12
-- slug: boxgroup
-  round: growth
-  year: 2026
-  date: 2026-05-12
-founders:
-- name: Sahir Jaggi
-  role: Founder & CEO
-last_researched: 2026-05-16
 status: published
+status_company: active
+total_raised: $160M+
+type: startup
+website: https://forus.health/
 ---
 
 ## About

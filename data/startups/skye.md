@@ -6,6 +6,8 @@ firms:
 - round: Seed
   slug: transition-vc
   year: 2024
+- slug: andreessen-horowitz
+- slug: true-ventures
 founded: 2025
 investors:
 - round: Seed

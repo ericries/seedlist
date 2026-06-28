@@ -1,26 +1,32 @@
 ---
-name: "Ineffable Intelligence"
-slug: ineffable-intelligence
-type: startup
-website: ""
-location: "United Kingdom"
-founded: 2025
-status_company: active
-sector: [ai, deeptech, foundation-models, reinforcement-learning, agi]
-stage_latest: "Seed"
-total_raised: "$1.1B"
 firms:
-  - slug: sequoia-capital
-    round: seed
-    year: 2026
-    date: 2026-04-27
-  - slug: index-ventures
-    round: seed
-    year: 2026
-    date: 2026-04-27
+- date: 2026-04-27
+  round: seed
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-04-27
+  round: seed
+  slug: index-ventures
+  year: 2026
+- slug: dst-global
+founded: 2025
 investors: []
-status: published
 last_researched: 2026-04-27
+location: United Kingdom
+name: Ineffable Intelligence
+sector:
+- ai
+- deeptech
+- foundation-models
+- reinforcement-learning
+- agi
+slug: ineffable-intelligence
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $1.1B
+type: startup
+website: ''
 ---
 
 ## About

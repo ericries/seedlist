@@ -3,6 +3,8 @@ firms:
 - round: Series B
   slug: dcvc
   year: 2024
+- slug: founders-fund
+- slug: lux-capital
 founded: 2021
 founders:
 - name: Tom Mueller

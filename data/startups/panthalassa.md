@@ -1,11 +1,46 @@
 ---
-name: Panthalassa
-slug: panthalassa
-type: startup
-website: https://panthalassa.com/
-location: Portland, Oregon
+firms:
+- date: 2026-05-05
+  round: series-b
+  slug: founders-fund
+  year: 2026
+- date: 2026-05-05
+  round: series-b
+  slug: time-ventures
+  year: 2026
+- date: 2026-05-05
+  round: series-b
+  slug: scifi-vc
+  year: 2026
+- date: 2026-05-05
+  round: series-b
+  slug: lowercarbon-capital
+  year: 2026
+- slug: gigascale-capital
 founded: 2016
-status_company: active
+founders:
+- name: Garth Sheldon-Coulson
+  role: Co-Founder & CEO
+investors:
+- date: 2026-05-05
+  round: series-b
+  slug: john-doerr
+  year: 2026
+- date: 2026-05-05
+  round: series-b
+  slug: marc-benioff
+  year: 2026
+- date: 2026-05-05
+  round: series-b
+  slug: max-levchin
+  year: 2026
+- date: 2026-05-05
+  round: series-b
+  slug: dylan-field
+  year: 2026
+last_researched: 2026-05-10
+location: Portland, Oregon
+name: Panthalassa
 sector:
 - climate-tech
 - energy
@@ -13,47 +48,13 @@ sector:
 - data-centers
 - ocean-energy
 - wave-power
+slug: panthalassa
 stage_latest: Series B
-total_raised: $210M
-investors:
-- slug: john-doerr
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-- slug: marc-benioff
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-- slug: max-levchin
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-- slug: dylan-field
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-firms:
-- slug: founders-fund
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-- slug: time-ventures
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-- slug: scifi-vc
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-- slug: lowercarbon-capital
-  round: series-b
-  year: 2026
-  date: 2026-05-05
-founders:
-- name: Garth Sheldon-Coulson
-  role: Co-Founder & CEO
-last_researched: 2026-05-10
 status: published
+status_company: active
+total_raised: $210M
+type: startup
+website: https://panthalassa.com/
 ---
 
 ## About

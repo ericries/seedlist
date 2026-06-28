@@ -24,6 +24,7 @@ investors:
 - round: Seed ($15M)
   slug: bryan-kim
   year: 2026
+- slug: gokul-rajaram
 last_researched: 2026-05-10
 location: San Francisco, CA
 name: District

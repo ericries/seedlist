@@ -23,6 +23,10 @@ firms:
 - round: Series B
   slug: quantumlight
   year: 2025
+- slug: accel
+- slug: boxgroup
+- slug: creandum
+- slug: ribbit-capital
 founded: 2022
 founders:
 - name: Alan Chang

@@ -1,21 +1,7 @@
 ---
-name: Quantum Motion
-slug: quantum-motion
-type: startup
-website: https://quantummotion.com/
-location: London, United Kingdom
+firms:
+- slug: dcvc
 founded: 2017
-status_company: active
-sector:
-- quantum-computing
-- deep-tech
-- semiconductors
-- silicon-cmos
-- hardware
-stage_latest: Series C
-total_raised: $160M+
-investors: []
-firms: []
 founders:
 - name: James Palles-Dimmock
   role: CEO
@@ -23,8 +9,23 @@ founders:
   role: CTO
 - name: Simon Benjamin
   role: CSO
+investors: []
 last_researched: 2026-05-10
+location: London, United Kingdom
+name: Quantum Motion
+sector:
+- quantum-computing
+- deep-tech
+- semiconductors
+- silicon-cmos
+- hardware
+slug: quantum-motion
+stage_latest: Series C
 status: published
+status_company: active
+total_raised: $160M+
+type: startup
+website: https://quantummotion.com/
 ---
 
 ## About

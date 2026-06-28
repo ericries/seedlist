@@ -1,11 +1,18 @@
 ---
-name: Synthetic
-slug: synthetic
-type: startup
-website: https://synthetic.com/
-location: United States
+firms:
+- date: 2026-05-14
+  round: seed
+  slug: khosla-ventures
+  year: 2026
+- slug: basis-set-ventures
 founded: 2025
-status_company: active
+founders:
+- name: Ian Crosby
+  role: Founder & CEO
+investors: []
+last_researched: 2026-05-15
+location: United States
+name: Synthetic
 sector:
 - ai
 - fintech
@@ -13,19 +20,13 @@ sector:
 - bookkeeping
 - ai-agents
 - saas
+slug: synthetic
 stage_latest: Seed
-total_raised: $10M
-investors: []
-firms:
-- slug: khosla-ventures
-  round: seed
-  year: 2026
-  date: 2026-05-14
-founders:
-- name: Ian Crosby
-  role: Founder & CEO
-last_researched: 2026-05-15
 status: published
+status_company: active
+total_raised: $10M
+type: startup
+website: https://synthetic.com/
 ---
 
 ## About

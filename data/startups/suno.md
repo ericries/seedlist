@@ -19,6 +19,10 @@ firms:
 - round: Series B ($125M, co-led with Daniel Gross)
   slug: nfdg
   year: 2024
+- slug: forerunner-ventures
+- slug: ivp
+- slug: menlo-ventures
+- slug: quiet-capital
 founded: 2024
 founders:
 - name: Mikey Shulman

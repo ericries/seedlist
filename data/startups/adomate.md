@@ -1,23 +1,28 @@
 ---
-name: "Adomate"
-slug: adomate
-type: startup
-website: "https://www.adomate.com"
-location: "Ghent, Belgium"
-founded: 2024
-status_company: active
-sector: [ai, marketing, saas, adtech]
-stage_latest: "Seed"
-total_raised: "€1.4M"
-investors: []
 firms: []
+founded: 2024
 founders:
-  - name: "Simon Logghe"
-    role: "Co-Founder & CEO"
-  - name: "Lucas Desard"
-    role: "Co-Founder & CTO"
-status: published
+- name: Simon Logghe
+  role: Co-Founder & CEO
+- name: Lucas Desard
+  role: Co-Founder & CTO
+investors:
+- slug: jeroen-de-wit
 last_researched: 2026-06-03
+location: Ghent, Belgium
+name: Adomate
+sector:
+- ai
+- marketing
+- saas
+- adtech
+slug: adomate
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: €1.4M
+type: startup
+website: https://www.adomate.com
 ---
 
 ## About

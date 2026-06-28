@@ -1,37 +1,42 @@
 ---
-name: "Lucis"
-slug: lucis
-type: startup
-website: "https://www.lucis.life"
-location: "Paris, France"
-founded: 2025
-status_company: active
-sector: [healthcare, digital-health, preventive-health, ai]
-stage_latest: "Series A"
-total_raised: "€24M"
-investors:
-  - slug: y-combinator
-    round: seed
-    year: 2025
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-05-26
 firms:
-  - slug: y-combinator
-    round: seed
-    year: 2025
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-05-26
+- round: seed
+  slug: y-combinator
+  year: 2025
+- date: 2026-05-26
+  round: series-a
+  slug: y-combinator
+  year: 2026
+- slug: general-catalyst
+founded: 2025
 founders:
-  - name: "Maxime Berthelot"
-    role: "Co-Founder"
-  - name: "Baptiste Debever"
-    role: "Co-Founder"
-status: published
+- name: Maxime Berthelot
+  role: Co-Founder
+- name: Baptiste Debever
+  role: Co-Founder
+investors:
+- round: seed
+  slug: y-combinator
+  year: 2025
+- date: 2026-05-26
+  round: series-a
+  slug: y-combinator
+  year: 2026
 last_researched: 2026-05-27
+location: Paris, France
+name: Lucis
+sector:
+- healthcare
+- digital-health
+- preventive-health
+- ai
+slug: lucis
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: €24M
+type: startup
+website: https://www.lucis.life
 ---
 
 ## About

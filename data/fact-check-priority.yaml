@@ -2205,3 +2205,43 @@ priority:
   status: resolved
   resolved: 2026-06-23
   resolution_note: "Added Probook Series A row (led, $34M, 2026-06-23, Sequoia participated) to andreessen-horowitz.md portfolio with 4 independent primary citations: GlobeNewswire press release, a16z announcement, Tech Funding News, a16z X post."
+- slug: andreessen-horowitz
+  type: firm
+  reason: "co-led Mirendil $200M Seed (2026-06-24) — verify portfolio row"
+  added: 2026-06-28
+- slug: kleiner-perkins
+  type: firm
+  reason: "co-led Mirendil $200M Seed (2026-06-24) — verify portfolio row"
+  added: 2026-06-28
+- slug: khosla-ventures
+  type: firm
+  reason: "participated in Runlayer $30M Series A (2026-06-24, Felicis-led); led prior $11M seed — verify portfolio row"
+  added: 2026-06-28
+- slug: vinod-khosla
+  type: investor
+  reason: "championed Runlayer Series A (2026-06-24, $30M) — verify portfolio row"
+  added: 2026-06-28
+- slug: keith-rabois
+  type: investor
+  reason: "led Runlayer $11M Seed (2025) and continued via Khosla Ventures in Series A (2026-06-24) — verify portfolio row"
+  added: 2026-06-28
+- slug: mirendil
+  type: startup
+  reason: "new startup profile (Seed 2026-06-24, $200M co-led by a16z and Kleiner Perkins; NVIDIA participated)"
+  added: 2026-06-28
+- slug: runlayer
+  type: startup
+  reason: "new startup profile (Series A 2026-06-24, $30M led by Felicis; Khosla Ventures participated)"
+  added: 2026-06-28
+- slug: leyden-labs
+  type: startup
+  reason: "new startup profile (Growth 2026-06-25, €40M from EIC Fund, Invest-NL, Gates Foundation, ClavystBio)"
+  added: 2026-06-28
+- slug: thalia-therapeutics
+  type: startup
+  reason: "new startup profile (Placing 2026-06-24, £2.75M/~€3.1M from Premier Miton and directors; alongside Sanmirna acquisition)"
+  added: 2026-06-28
+- slug: intu-diagnostics
+  type: startup
+  reason: "new startup profile (Bridge 2026-06-26, €1.1M from BSV Ventures and SAB)"
+  added: 2026-06-28

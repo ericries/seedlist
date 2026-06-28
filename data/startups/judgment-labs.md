@@ -1,21 +1,8 @@
 ---
-name: Judgment Labs
-slug: judgment-labs
-type: startup
-website: https://www.judgmentlabs.ai/
-location: San Francisco, CA
+firms:
+- slug: sv-angel
+- slug: valor-equity-partners
 founded: 2025
-status_company: active
-sector:
-- ai
-- ai-agents
-- developer-tools
-- evaluation
-- infrastructure
-stage_latest: Series A
-total_raised: $32M
-investors: []
-firms: []
 founders:
 - name: Alex Shan
   role: Co-Founder & CEO
@@ -23,8 +10,23 @@ founders:
   role: Co-Founder & Chief Scientist
 - name: Joseph Camyre
   role: Co-Founder & CTO
+investors: []
 last_researched: 2026-05-13
+location: San Francisco, CA
+name: Judgment Labs
+sector:
+- ai
+- ai-agents
+- developer-tools
+- evaluation
+- infrastructure
+slug: judgment-labs
+stage_latest: Series A
 status: published
+status_company: active
+total_raised: $32M
+type: startup
+website: https://www.judgmentlabs.ai/
 ---
 
 ## About

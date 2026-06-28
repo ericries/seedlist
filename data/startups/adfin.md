@@ -1,11 +1,20 @@
 ---
-name: Adfin
-slug: adfin
-type: startup
-website: https://adfin.com/
-location: London, United Kingdom
+firms:
+- date: 2026-05-12
+  round: series-a
+  slug: index-ventures
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Tom Pope
+  role: Co-Founder
+- name: Ciprian Diaconasu
+  role: Co-Founder
+investors:
+- slug: andrey-khusid
+last_researched: 2026-05-12
+location: London, United Kingdom
+name: Adfin
 sector:
 - fintech
 - ai
@@ -13,21 +22,13 @@ sector:
 - payments
 - sme
 - revenue-automation
+slug: adfin
 stage_latest: Series A
-total_raised: $30M
-investors: []
-firms:
-- slug: index-ventures
-  round: series-a
-  year: 2026
-  date: 2026-05-12
-founders:
-- name: Tom Pope
-  role: Co-Founder
-- name: Ciprian Diaconasu
-  role: Co-Founder
-last_researched: 2026-05-12
 status: published
+status_company: active
+total_raised: $30M
+type: startup
+website: https://adfin.com/
 ---
 
 ## About

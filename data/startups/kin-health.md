@@ -1,22 +1,7 @@
 ---
-name: Kin Health
-slug: kin-health
-type: startup
-website: https://www.kinhealth.ai/
-location: United States
+firms:
+- slug: pear-vc
 founded: 2024
-status_company: active
-sector:
-- healthcare
-- ai
-- digital-health
-- consumer-health
-- ai-agents
-- notetaking
-stage_latest: Seed
-total_raised: $9M+
-investors: []
-firms: []
 founders:
 - name: Arpan Parikh
   role: Co-Founder
@@ -24,8 +9,24 @@ founders:
   role: Co-Founder
 - name: Kyle Alwyn
   role: Co-Founder
+investors: []
 last_researched: 2026-05-18
+location: United States
+name: Kin Health
+sector:
+- healthcare
+- ai
+- digital-health
+- consumer-health
+- ai-agents
+- notetaking
+slug: kin-health
+stage_latest: Seed
 status: published
+status_company: active
+total_raised: $9M+
+type: startup
+website: https://www.kinhealth.ai/
 ---
 
 ## About

@@ -1,11 +1,20 @@
 ---
-name: Sigma Computing
-slug: sigma-computing
-type: startup
-website: https://www.sigmacomputing.com/
-location: San Francisco, CA
+firms:
+- date: 2026-05-18
+  round: series-e
+  slug: spark-capital
+  year: 2026
+- date: 2026-05-18
+  round: series-e
+  slug: d1-capital-partners
+  year: 2026
+- slug: altimeter-capital
 founded: 2014
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-05-18
+location: San Francisco, CA
+name: Sigma Computing
 sector:
 - enterprise-software
 - analytics
@@ -13,21 +22,13 @@ sector:
 - data-warehouse
 - bi
 - saas
+slug: sigma-computing
 stage_latest: Series E
-total_raised: $80M+
-investors: []
-firms:
-- slug: spark-capital
-  round: series-e
-  year: 2026
-  date: 2026-05-18
-- slug: d1-capital-partners
-  round: series-e
-  year: 2026
-  date: 2026-05-18
-founders: []
-last_researched: 2026-05-18
 status: published
+status_company: active
+total_raised: $80M+
+type: startup
+website: https://www.sigmacomputing.com/
 ---
 
 ## About

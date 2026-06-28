@@ -1,24 +1,25 @@
 ---
-name: Mantle8
-slug: mantle8
-type: startup
-website: https://mantle8.com/
-location: Grenoble, France
+firms:
+- slug: breakthrough-energy-ventures
 founded: 2023
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-05-13
+location: Grenoble, France
+name: Mantle8
 sector:
 - climate-tech
 - energy
 - natural-hydrogen
 - deep-tech
 - geology
+slug: mantle8
 stage_latest: Series A
-total_raised: €37M
-investors: []
-firms: []
-founders: []
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: €37M
+type: startup
+website: https://mantle8.com/
 ---
 
 ## About

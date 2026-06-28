@@ -1,22 +1,8 @@
 ---
-name: Geordie AI
-slug: geordie-ai
-type: startup
-website: https://www.geordie.ai/
-location: London, UK
+firms:
+- slug: balderton-capital
+- slug: general-catalyst
 founded: 2025
-status_company: active
-sector:
-- cybersecurity
-- ai
-- ai-agents
-- governance
-- enterprise-software
-- ai-safety
-stage_latest: Series A
-total_raised: $36.5M
-investors: []
-firms: []
 founders:
 - name: Henry Comfort
   role: Co-Founder & CEO
@@ -24,8 +10,24 @@ founders:
   role: Co-Founder & Chief AI and Product Officer
 - name: Benji Weber
   role: Co-Founder & CTO
+investors: []
 last_researched: 2026-05-28
+location: London, UK
+name: Geordie AI
+sector:
+- cybersecurity
+- ai
+- ai-agents
+- governance
+- enterprise-software
+- ai-safety
+slug: geordie-ai
+stage_latest: Series A
 status: published
+status_company: active
+total_raised: $36.5M
+type: startup
+website: https://www.geordie.ai/
 ---
 
 ## About

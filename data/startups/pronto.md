@@ -1,11 +1,14 @@
 ---
-name: Pronto
-slug: pronto
-type: startup
-website: https://prontohelp.in/
-location: Bengaluru, India
+firms: []
 founded: 2025
-status_company: active
+founders:
+- name: Anjali Sardana
+  role: Founder & CEO
+investors:
+- slug: lachy-groom
+last_researched: 2026-05-11
+location: Bengaluru, India
+name: Pronto
 sector:
 - consumer
 - marketplace
@@ -13,15 +16,13 @@ sector:
 - on-demand
 - gig-economy
 - india
+slug: pronto
 stage_latest: Series B
-total_raised: $45M
-investors: []
-firms: []
-founders:
-- name: Anjali Sardana
-  role: Founder & CEO
-last_researched: 2026-05-11
 status: published
+status_company: active
+total_raised: $45M
+type: startup
+website: https://prontohelp.in/
 ---
 
 ## About

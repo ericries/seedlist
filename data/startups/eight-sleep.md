@@ -32,6 +32,7 @@ firms:
 - round: Seed
   slug: a24
   year: 2014
+- slug: valor-equity-partners
 founded: 2014
 founders:
 - name: Matteo Franceschetti

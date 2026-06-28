@@ -151,6 +151,7 @@ investors:
 - round: Series (via GV)
   slug: kevin-rose
   year: 2013
+- slug: marc-andreessen
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Slack

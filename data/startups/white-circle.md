@@ -8,6 +8,8 @@ investors:
 - round: Seed ($11M)
   slug: romain-huet
   year: 2026
+- slug: durk-kingma
+- slug: thomas-wolf
 last_researched: 2026-05-12
 location: Paris, France
 name: White Circle

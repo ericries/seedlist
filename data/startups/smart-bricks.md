@@ -4,6 +4,7 @@ firms:
   slug: andreessen-horowitz
   year: 2026
 - slug: 500-global
+- slug: techstars
 founded: 2024
 founders:
 - name: Mohamed Mohamed

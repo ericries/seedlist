@@ -1,11 +1,17 @@
 ---
-name: Secludy
-slug: secludy
-type: startup
-website: https://secludy.com/
-location: San Francisco, CA
+firms:
+- slug: hustle-fund
+- slug: launch
 founded: 2024
-status_company: active
+founders:
+- name: Ben Cerchio
+  role: Founder & CEO
+- name: Ming He
+  role: Co-Founder & CTO
+investors: []
+last_researched: 2026-05-14
+location: San Francisco, CA
+name: Secludy
 sector:
 - ai
 - privacy
@@ -13,17 +19,13 @@ sector:
 - fintech
 - enterprise-software
 - data-infrastructure
+slug: secludy
 stage_latest: Seed
-total_raised: $4M
-investors: []
-firms: []
-founders:
-- name: Ben Cerchio
-  role: Founder & CEO
-- name: Ming He
-  role: Co-Founder & CTO
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $4M
+type: startup
+website: https://secludy.com/
 ---
 
 ## About

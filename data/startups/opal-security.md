@@ -8,6 +8,7 @@ firms:
   round: series-b-extension
   slug: battery-ventures
   year: 2026
+- slug: boxgroup
 founded: 2020
 founders:
 - name: Umaimah Khan

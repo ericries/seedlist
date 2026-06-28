@@ -75,6 +75,7 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2016
+- slug: sv-angel
 founded: 2009
 founders:
 - name: Alex Solomon

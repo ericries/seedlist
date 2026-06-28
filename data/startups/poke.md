@@ -1,34 +1,40 @@
 ---
-name: Poke
-slug: poke
-type: startup
-website: https://www.poke.com
-location: Palo Alto, California
-founded: 2024
-status_company: active
-sector:
-- AI
-- consumer
-- messaging
-stage_latest: Seed
-total_raised: $25M
 firms:
-- slug: general-catalyst
-  round: seed
+- round: seed
+  slug: general-catalyst
   year: 2026
-- slug: village-global
-  round: seed
+- round: seed
+  slug: village-global
   year: 2026
-- slug: earlybird
-  round: seed
+- round: seed
+  slug: earlybird
   year: 2026
+- slug: spark-capital
+founded: 2024
 founders:
 - name: Marvin von Hagen
   role: Co-Founder
 - name: Felix Schlegel
   role: Co-Founder
-status: published
+investors:
+- slug: arash-ferdowsi
+- slug: guillermo-rauch
+- slug: ken-howery
+- slug: thomas-wolf
 last_researched: 2026-05-26
+location: Palo Alto, California
+name: Poke
+sector:
+- AI
+- consumer
+- messaging
+slug: poke
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $25M
+type: startup
+website: https://www.poke.com
 ---
 
 ## About

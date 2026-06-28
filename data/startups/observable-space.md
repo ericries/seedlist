@@ -1,11 +1,15 @@
 ---
-name: Observable Space
-slug: observable-space
-type: startup
-website: https://observable.space/
-location: Los Angeles, CA
+firms:
+- slug: lux-capital
+- slug: upfront-ventures
 founded: 2025
-status_company: active
+founders:
+- name: Dan Roelker
+  role: Co-Founder & CEO
+investors: []
+last_researched: 2026-05-30
+location: Los Angeles, CA
+name: Observable Space
 sector:
 - space
 - aerospace
@@ -14,15 +18,13 @@ sector:
 - space-domain-awareness
 - deeptech
 - optical-systems
+slug: observable-space
 stage_latest: Series A
-total_raised: $90M
-investors: []
-firms: []
-founders:
-- name: Dan Roelker
-  role: Co-Founder & CEO
-last_researched: 2026-05-30
 status: published
+status_company: active
+total_raised: $90M
+type: startup
+website: https://observable.space/
 ---
 
 ## About

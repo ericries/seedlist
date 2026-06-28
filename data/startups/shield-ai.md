@@ -27,6 +27,7 @@ firms:
 - round: Karman era (defense AI)
   slug: karman-ventures
   year: 2024
+- slug: bloomberg-beta
 founded: 2015
 founders:
 - name: Ryan Tseng

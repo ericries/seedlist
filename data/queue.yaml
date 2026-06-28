@@ -9605,7 +9605,7 @@ queue:
 - name: Assort Health
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: matt-humphrey
 - name: Sunil Dhaliwal
@@ -11342,7 +11342,7 @@ queue:
 - name: Baseten
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: mary-meeker
   source: 'portfolio company of 7 investors: mary-meeker, dylan-field, eric-liaw'
@@ -30869,3 +30869,69 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sandeep-tandon
+- name: Tau Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: assort-health
+- name: JP Sanday
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Menlo Ventures
+  discovered_from: assort-health
+- name: Jon Wang
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Assort Health (founder)
+  discovered_from: assort-health
+- name: Jeffery Liu
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Assort Health (founder)
+  discovered_from: assort-health
+- name: Ali Yahya
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: ornn
+- name: 01A
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baseten
+- name: Blackbird Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baseten
+- name: D. E. Shaw Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baseten
+- name: Tuhin Srivastava
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Baseten (founder)
+  discovered_from: baseten
+- name: Apoorv Agrawal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Altimeter Capital
+  discovered_from: baseten

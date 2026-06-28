@@ -4,6 +4,7 @@ firms:
   round: series-f
   slug: iconiq-growth
   year: 2026
+- slug: sequoia-capital
 founded: 2013
 investors:
 - round: Series C (lead)

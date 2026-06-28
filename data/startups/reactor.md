@@ -1,10 +1,15 @@
 ---
-name: Reactor
-slug: reactor
-type: startup
-website: https://reactor.com/
+firms:
+- slug: abstract-ventures
+founders:
+- name: Alberto Taiuti
+  role: Co-Founder & CEO
+- name: Bryce Schmidtchen
+  role: Co-Founder & CTO
+investors: []
+last_researched: 2026-05-30
 location: San Francisco, CA
-status_company: active
+name: Reactor
 sector:
 - ai
 - generative-video
@@ -13,17 +18,13 @@ sector:
 - ai-infrastructure
 - physical-ai
 - entertainment
+slug: reactor
 stage_latest: Series A
-total_raised: $59M
-investors: []
-firms: []
-founders:
-- name: Alberto Taiuti
-  role: Co-Founder & CEO
-- name: Bryce Schmidtchen
-  role: Co-Founder & CTO
-last_researched: 2026-05-30
 status: published
+status_company: active
+total_raised: $59M
+type: startup
+website: https://reactor.com/
 ---
 
 ## About

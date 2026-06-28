@@ -62,6 +62,7 @@ firms:
 - round: Early angel
   slug: independent
   year: 2021
+- slug: altimeter-capital
 founded: 2021
 founders:
 - name: Dario Amodei

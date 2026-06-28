@@ -1,11 +1,13 @@
 ---
-name: Texture
-slug: texture
-type: startup
-website: https://texture.energy/
-location: United States
+firms:
+- slug: abstract-ventures
+- slug: lerer-hippeau
 founded: 2022
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-05-20
+location: United States
+name: Texture
 sector:
 - energy
 - climate-tech
@@ -13,13 +15,13 @@ sector:
 - utilities
 - saas
 - der
+slug: texture
 stage_latest: Series A
-total_raised: $23M+
-investors: []
-firms: []
-founders: []
-last_researched: 2026-05-20
 status: published
+status_company: active
+total_raised: $23M+
+type: startup
+website: https://texture.energy/
 ---
 
 ## About

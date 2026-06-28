@@ -1,11 +1,18 @@
 ---
-name: Airis Labs
-slug: airis-labs
-type: startup
-website: https://www.airis-labs.com/
-location: Tel Aviv, Israel
+firms: []
 founded: 2023
-status_company: active
+founders:
+- name: Noam Friedman
+  role: Co-Founder & CEO
+- name: Rotem Abeles
+  role: Co-Founder & CPO
+- name: Amos Lahav
+  role: Co-Founder & GM US
+investors:
+- slug: jeff-horing
+last_researched: 2026-05-27
+location: Tel Aviv, Israel
+name: Airis Labs
 sector:
 - ai
 - defense
@@ -14,19 +21,13 @@ sector:
 - government
 - security
 - visual-data
+slug: airis-labs
 stage_latest: Series B
-total_raised: $60M
-investors: []
-firms: []
-founders:
-- name: Noam Friedman
-  role: Co-Founder & CEO
-- name: Rotem Abeles
-  role: Co-Founder & CPO
-- name: Amos Lahav
-  role: Co-Founder & GM US
-last_researched: 2026-05-27
 status: published
+status_company: active
+total_raised: $60M
+type: startup
+website: https://www.airis-labs.com/
 ---
 
 ## About

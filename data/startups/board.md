@@ -17,6 +17,7 @@ investors:
 - round: Series A (led, $20M, 2026-06-02; board seat; first USV investment)
   slug: michael-mignano
   year: 2026
+- slug: scott-belsky
 last_researched: 2026-06-03
 location: New York, NY
 name: Board

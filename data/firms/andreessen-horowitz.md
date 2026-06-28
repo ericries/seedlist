@@ -291,8 +291,9 @@ The following table includes a16z investments verified through the firm's own po
 | Probably | Seed (lead, $9M) | 2026-06-16 | AI / LLM Reliability / Data Science | Private [^73][^74] |
 | Probook | Series A (led, $34M; Sequoia Capital participated) | 2026-06-23 | AI / Vertical SaaS / Home Services / Dispatch | Private [^79][^80][^81][^82] |
 | Netris | Series A (led, $15M) | 2026-06-25 | AI Infrastructure / Networking / Neoclouds | Private [^86] |
+| Mirendil | Seed (co-led, $200M at ~$1B valuation; Kleiner Perkins co-led, NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^87][^88] |
 
-*Note: This table includes 81 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 82 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -522,3 +523,7 @@ The following table includes a16z investments verified through the firm's own po
 [^85]: Bloomberg, "Andreessen Horowitz in Funding Talks Valuing Abridge AI at $5.3 Billion," May 30, 2025. Accessed June 2026. https://www.bloomberg.com/news/articles/2025-05-30/andreessen-horowitz-in-funding-talks-valuing-abridge-ai-at-5-3-billion — Independently confirms a16z leading Abridge at $5.3B valuation prior to formal June 24, 2025 announcement.
 
 [^86]: TechCrunch, "Netris raises $15M Series A from a16z to help AI neoclouds go live faster," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/ — Primary source: a16z led $15M Series A in Netris on June 25, 2026; partner Guido Appenzeller joined the board.
+
+[^87]: TechFundingNews, "One year at Anthropic, then $200M at $1B: The researchers who just closed one of AI's largest-ever seed rounds," June 2026. Accessed June 2026. https://techfundingnews.com/ex-anthropic-researchers-raise-200m-just-weeks-after-quitting-to-build-ai-that-creates-better-ai/ — Andreessen Horowitz and Kleiner Perkins co-led Mirendil's $200M seed at ~$1B valuation announced June 24, 2026 with NVIDIA participating.
+
+[^88]: The SaaS News, "Mirendil Raises $200M Seed," June 24, 2026. Accessed June 2026. https://www.thesaasnews.com/news/mirendil-raises-200m-seed/ — Independently confirms a16z and Kleiner Perkins co-led Mirendil's $200M seed on June 24, 2026.

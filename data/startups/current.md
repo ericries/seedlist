@@ -6,6 +6,9 @@ firms:
 - round: Seed
   slug: expa
   year: 2015
+- slug: andreessen-horowitz
+- slug: general-catalyst
+- slug: tiger-global
 founders:
 - name: Stuart Sopp
   role: Co-Founder & CEO

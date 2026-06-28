@@ -17,6 +17,7 @@ investors:
 - round: Series B ($40M, led)
   slug: gordon-ritter
   year: 2025
+- slug: max-levchin
 last_researched: 2026-06-16
 location: San Francisco, CA
 name: Bland

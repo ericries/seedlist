@@ -4,6 +4,7 @@ firms:
   round: series-b
   slug: accel
   year: 2026
+- slug: rtp-ventures
 founded: 2025
 founders:
 - name: Ayyappan R

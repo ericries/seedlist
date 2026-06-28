@@ -1,30 +1,16 @@
 ---
-name: Enter
-slug: enter
-type: startup
-website: https://www.getenter.ai/en
-location: São Paulo, Brazil
-founded: 2023
-status_company: active
-sector:
-- ai
-- ai-agents
-- legal-tech
-- legaltech
-- vertical-saas
-- latin-america
-stage_latest: Series B
-total_raised: $100M+
-investors: []
 firms:
-- slug: founders-fund
+- date: 2026-05-05
   round: series-b
+  slug: founders-fund
   year: 2026
-  date: 2026-05-05
-- slug: sequoia-capital
+- date: 2026-05-05
   round: series-b
+  slug: sequoia-capital
   year: 2026
-  date: 2026-05-05
+- slug: kaszek-ventures
+- slug: ribbit-capital
+founded: 2023
 founders:
 - name: Mateus Costa-Ribeiro
   role: Co-Founder & CEO
@@ -32,8 +18,24 @@ founders:
   role: Co-Founder
 - name: Henrique Vaz
   role: Co-Founder
+investors: []
 last_researched: 2026-05-12
+location: São Paulo, Brazil
+name: Enter
+sector:
+- ai
+- ai-agents
+- legal-tech
+- legaltech
+- vertical-saas
+- latin-america
+slug: enter
+stage_latest: Series B
 status: published
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://www.getenter.ai/en
 ---
 
 ## About

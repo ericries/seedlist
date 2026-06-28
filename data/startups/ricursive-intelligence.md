@@ -1,32 +1,33 @@
 ---
 firms:
-- round: Seed
+- date: 2025-12
+  round: Seed
   slug: sequoia-capital
   year: 2025
-  date: 2025-12
-- round: Series A
+- date: 2026-01-26
+  round: Series A
   slug: lightspeed-venture-partners
   year: 2026
-  date: 2026-01-26
-- round: Series A
+- date: 2026-01-26
+  round: Series A
   slug: felicis-ventures
   year: 2026
-  date: 2026-01-26
-- round: Series A
+- date: 2026-01-26
+  round: Series A
   slug: sequoia-capital
   year: 2026
-  date: 2026-01-26
+- slug: dst-global
 founders:
-- name: "Anna Goldie"
-  role: "Co-Founder & CEO"
-- name: "Azalia Mirhoseini"
-  role: "Co-Founder & CTO"
+- name: Anna Goldie
+  role: Co-Founder & CEO
+- name: Azalia Mirhoseini
+  role: Co-Founder & CTO
 investors:
 - round: Seed
   slug: stephanie-zhan
   year: 2025
 last_researched: 2026-05-11
-location: "Palo Alto, CA"
+location: Palo Alto, CA
 name: Ricursive Intelligence
 sector:
 - ai

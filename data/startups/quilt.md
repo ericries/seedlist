@@ -12,6 +12,9 @@ firms:
   round: series-b
   slug: incite-ventures
   year: 2025
+- slug: energy-impact-partners
+- slug: garage-capital
+- slug: lowercarbon-capital
 founded: 2022
 founders:
 - name: Paul Lambert

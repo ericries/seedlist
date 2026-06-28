@@ -10,6 +10,8 @@ firms:
 - round: Seed ($115M)
   slug: index-ventures
   year: 2025
+- slug: accel
+- slug: andreessen-horowitz
 founded: 2024
 founders:
 - name: RJ Scaringe

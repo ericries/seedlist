@@ -18,6 +18,8 @@ investors:
 - round: '2024'
   slug: gokul-rajaram
   year: 2024
+- slug: eric-schmidt
+- slug: olaf-carlson-wee
 last_researched: 2026-04-20
 location: New York, New York
 name: Atlas Card

@@ -1,11 +1,30 @@
 ---
-name: Layup Parts
-slug: layup-parts
-type: startup
-website: https://layupparts.com/
-location: Huntington Beach, CA
+firms:
+- date: 2026-06-02
+  round: series-a
+  slug: founders-fund
+  year: 2026
+- date: 2026-06-02
+  round: series-a
+  slug: lux-capital
+  year: 2026
+- slug: cerberus-ventures
 founded: 2024
-status_company: active
+founders:
+- name: Zack Eakin
+  role: Founder & CEO
+investors:
+- date: 2026-06-02
+  round: series-a
+  slug: founders-fund
+  year: 2026
+- date: 2026-06-02
+  round: series-a
+  slug: lux-capital
+  year: 2026
+last_researched: 2026-06-03
+location: Huntington Beach, CA
+name: Layup Parts
 sector:
 - manufacturing
 - advanced-manufacturing
@@ -13,31 +32,13 @@ sector:
 - defense
 - aerospace
 - industrial
+slug: layup-parts
 stage_latest: Series A
-total_raised: "$42M"
-investors:
-  - slug: founders-fund
-    round: series-a
-    year: 2026
-    date: 2026-06-02
-  - slug: lux-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-02
-firms:
-  - slug: founders-fund
-    round: series-a
-    year: 2026
-    date: 2026-06-02
-  - slug: lux-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-02
-founders:
-  - name: Zack Eakin
-    role: Founder & CEO
-last_researched: 2026-06-03
 status: published
+status_company: active
+total_raised: $42M
+type: startup
+website: https://layupparts.com/
 ---
 
 ## About

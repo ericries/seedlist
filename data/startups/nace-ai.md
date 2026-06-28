@@ -1,24 +1,11 @@
 ---
-name: Nace.AI
-slug: nace-ai
-type: startup
-website: "https://nace.ai/"
-location: "Palo Alto, CA"
-founded: 2024
-status_company: active
-sector:
-- AI
-- enterprise
-- ai-agents
-- audit-compliance
-stage_latest: Seed
-total_raised: "$21.5M"
 firms:
-- slug: general-catalyst
+- date: 2026-03-31
   round: seed
+  slug: general-catalyst
   year: 2026
-  date: 2026-03-31
-investors: []
+- slug: ame-cloud-ventures
+founded: 2024
 founders:
 - name: Dos Bahá
   role: CEO & Co-Founder
@@ -28,8 +15,23 @@ founders:
   role: Co-Founder
 - name: Amine Mohamed Aboussalah
   role: Co-Founder
-status: published
+investors:
+- slug: jerry-yang
 last_researched: 2026-05-31
+location: Palo Alto, CA
+name: Nace.AI
+sector:
+- AI
+- enterprise
+- ai-agents
+- audit-compliance
+slug: nace-ai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $21.5M
+type: startup
+website: https://nace.ai/
 ---
 
 ## About

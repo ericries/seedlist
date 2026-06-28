@@ -30,6 +30,7 @@ investors:
   round: seed
   slug: yotam-segev
   year: 2026
+- slug: yevgeny-dibrov
 last_researched: 2026-06-03
 location: Tel Aviv, Israel / San Francisco, USA
 name: NewCore

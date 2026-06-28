@@ -1,11 +1,14 @@
 ---
-name: Knit Health
-slug: knit-health
-type: startup
-website: https://www.knithealth.com/
-location: Berkeley, CA
+firms:
+- slug: uncork-capital
 founded: 2025
-status_company: active
+founders:
+- name: Jonathan Kolstad
+  role: Co-Founder & CEO
+investors: []
+last_researched: 2026-05-14
+location: Berkeley, CA
+name: Knit Health
 sector:
 - healthtech
 - ai
@@ -13,15 +16,13 @@ sector:
 - digital-health
 - clinical-intelligence
 - emr
+slug: knit-health
 stage_latest: Seed
-total_raised: $11.6M
-investors: []
-firms: []
-founders:
-- name: Jonathan Kolstad
-  role: Co-Founder & CEO
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $11.6M
+type: startup
+website: https://www.knithealth.com/
 ---
 
 ## About

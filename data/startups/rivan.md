@@ -1,10 +1,14 @@
 ---
-firms: []
+firms:
+- slug: nfdg
 founded: 2024
 investors:
 - round: $34M round led by IQ Capital
   slug: thomas-wolf
   year: 2026
+- slug: john-collison
+- slug: matt-clifford
+- slug: patrick-collison
 last_researched: 2026-04-21
 location: London, UK
 name: Rivan

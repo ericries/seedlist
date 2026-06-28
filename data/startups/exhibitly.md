@@ -1,11 +1,16 @@
 ---
-name: Exhibitly
-slug: exhibitly
-type: startup
-website: https://exhibitly.ai/
-location: Ghent, Belgium
+firms: []
 founded: 2025
-status_company: active
+founders:
+- name: Hendrik Franck
+  role: Co-Founder
+- name: Brent Coppens
+  role: Co-Founder
+investors:
+- slug: jeroen-de-wit
+last_researched: 2026-05-19
+location: Ghent, Belgium
+name: Exhibitly
 sector:
 - ai
 - eventtech
@@ -13,17 +18,13 @@ sector:
 - b2b
 - europe
 - personalization
+slug: exhibitly
 stage_latest: Pre-Seed
-total_raised: €1.4M
-investors: []
-firms: []
-founders:
-- name: Hendrik Franck
-  role: Co-Founder
-- name: Brent Coppens
-  role: Co-Founder
-last_researched: 2026-05-19
 status: published
+status_company: active
+total_raised: €1.4M
+type: startup
+website: https://exhibitly.ai/
 ---
 
 ## About

@@ -1,5 +1,6 @@
 ---
-firms: []
+firms:
+- slug: creandum
 founded: 2021
 investors:
 - round: Series A

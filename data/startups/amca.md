@@ -3,6 +3,8 @@ firms:
 - round: Series A
   slug: construct-capital
   year: 2025
+- slug: andreessen-horowitz
+- slug: lux-capital
 founded: 2024
 founders:
 - name: Jai Malik

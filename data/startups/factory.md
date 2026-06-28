@@ -17,6 +17,8 @@ firms:
   round: series-c
   slug: insight-partners
   year: 2026
+- slug: abstract-ventures
+- slug: lux-capital
 founded: 2023
 founders:
 - name: Matan Grinberg

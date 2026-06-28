@@ -25,6 +25,7 @@ investors:
 - round: '2025'
   slug: karim-atiyeh
   year: 2025
+- slug: eric-glyman
 last_researched: 2026-06-03
 location: Toronto, Canada / San Francisco, CA
 name: Beacon Software

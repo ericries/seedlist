@@ -1,11 +1,34 @@
 ---
-name: Cowboy Space Corporation
-slug: cowboy-space-corporation
-type: startup
-website: https://cowboyspace.com/
-location: San Carlos, CA
+firms:
+- date: 2026-05-11
+  round: series-b
+  slug: index-ventures
+  year: 2026
+- date: 2026-05-11
+  round: series-b
+  slug: ivp
+  year: 2026
+- date: 2026-05-11
+  round: series-b
+  slug: breakthrough-energy-ventures
+  year: 2026
+- date: 2026-05-11
+  round: series-b
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-05-11
+  round: series-b
+  slug: nea
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Baiju Bhatt
+  role: Founder & CEO
+investors:
+- slug: baiju-bhatt
+last_researched: 2026-05-11
+location: San Carlos, CA
+name: Cowboy Space Corporation
 sector:
 - space-tech
 - aerospace
@@ -13,35 +36,13 @@ sector:
 - data-centers
 - deep-tech
 - climate-tech
+slug: cowboy-space-corporation
 stage_latest: Series B
-total_raised: $275M+
-investors: []
-firms:
-- slug: index-ventures
-  round: series-b
-  year: 2026
-  date: 2026-05-11
-- slug: ivp
-  round: series-b
-  year: 2026
-  date: 2026-05-11
-- slug: breakthrough-energy-ventures
-  round: series-b
-  year: 2026
-  date: 2026-05-11
-- slug: andreessen-horowitz
-  round: series-b
-  year: 2026
-  date: 2026-05-11
-- slug: nea
-  round: series-b
-  year: 2026
-  date: 2026-05-11
-founders:
-- name: Baiju Bhatt
-  role: Founder & CEO
-last_researched: 2026-05-11
 status: published
+status_company: active
+total_raised: $275M+
+type: startup
+website: https://cowboyspace.com/
 ---
 
 ## About

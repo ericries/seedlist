@@ -8,6 +8,7 @@ firms:
   round: series-c
   slug: iconiq-growth
   year: 2026
+- slug: benchmark
 founded: 2020
 investors:
 - round: ~2022

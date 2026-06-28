@@ -1,22 +1,7 @@
 ---
-name: Stilta
-slug: stilta
-type: startup
-website: https://stilta.com/
-location: United States
+firms:
+- slug: andreessen-horowitz
 founded: 2025
-status_company: active
-sector:
-- ai
-- legal-tech
-- ip
-- ai-agents
-- enterprise-software
-- saas
-stage_latest: Seed
-total_raised: $10.5M+
-investors: []
-firms: []
 founders:
 - name: Oskar Block
   role: Co-Founder & CEO
@@ -26,8 +11,24 @@ founders:
   role: Co-Founder
 - name: Oscar Adamsson
   role: Co-Founder
+investors: []
 last_researched: 2026-05-19
+location: United States
+name: Stilta
+sector:
+- ai
+- legal-tech
+- ip
+- ai-agents
+- enterprise-software
+- saas
+slug: stilta
+stage_latest: Seed
 status: published
+status_company: active
+total_raised: $10.5M+
+type: startup
+website: https://stilta.com/
 ---
 
 ## About

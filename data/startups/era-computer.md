@@ -1,30 +1,35 @@
 ---
-name: "Era Computer"
-slug: era-computer
-type: startup
-website: "https://www.era.computer/"
-location: "United States"
-founded: 2025
-status_company: active
-sector: [ai, consumer-hardware, developer-tools, consumer]
-stage_latest: "Seed"
-total_raised: "$11M"
 firms:
-  - slug: abstract-ventures
-    round: seed
-    year: 2026
-    date: 2026-04-23
-  - slug: boxgroup
-    round: seed
-    year: 2026
-    date: 2026-04-23
-  - slug: collaborative-fund
-    round: seed
-    year: 2026
-    date: 2026-04-23
+- date: 2026-04-23
+  round: seed
+  slug: abstract-ventures
+  year: 2026
+- date: 2026-04-23
+  round: seed
+  slug: boxgroup
+  year: 2026
+- date: 2026-04-23
+  round: seed
+  slug: collaborative-fund
+  year: 2026
+- slug: betaworks
+founded: 2025
 investors: []
-status: published
 last_researched: 2026-04-23
+location: United States
+name: Era Computer
+sector:
+- ai
+- consumer-hardware
+- developer-tools
+- consumer
+slug: era-computer
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $11M
+type: startup
+website: https://www.era.computer/
 ---
 
 ## About

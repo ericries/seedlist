@@ -9,6 +9,7 @@ firms:
 - round: Series A (co-led); Series B ($75M) participant
   slug: nfdg
   year: 2023
+- slug: sequoia-capital
 founded: 2024
 founders:
 - name: Oege de Moor

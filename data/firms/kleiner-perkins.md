@@ -206,8 +206,9 @@ The following table includes notable investments verified through multiple sourc
 | NewLimit | Series C (returning investor, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^46][^47][^48] |
 | Poetic | Series A (lead, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^50][^51][^52] |
 | CuspAI | Growth (co-lead with Bezos Expeditions, $400M at $2.6B valuation) | 2026-06-17 | AI / Materials Discovery | Private [^53][^54][^55] |
+| Mirendil | Seed (co-led with Andreessen Horowitz, $200M at ~$1B valuation; NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^56][^57] |
 
-*Note: This table includes 62 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
+*Note: This table includes 63 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
 ## In Their Own Words
 

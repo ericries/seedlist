@@ -1,22 +1,7 @@
 ---
-name: Inherent
-slug: inherent
-type: startup
-website: https://inherent.ai/
-location: London, UK
+firms:
+- slug: index-ventures
 founded: 2025
-status_company: active
-sector:
-- ai
-- ai-research
-- scientific-discovery
-- foundation-models
-- frontier-research
-- deeptech
-stage_latest: Seed
-total_raised: $50M
-investors: []
-firms: []
 founders:
 - name: Tantum Collins
   role: Co-Founder
@@ -26,8 +11,24 @@ founders:
   role: Co-Founder
 - name: Kaloyan Aleksiev
   role: Co-Founder
+investors: []
 last_researched: 2026-05-30
+location: London, UK
+name: Inherent
+sector:
+- ai
+- ai-research
+- scientific-discovery
+- foundation-models
+- frontier-research
+- deeptech
+slug: inherent
+stage_latest: Seed
 status: published
+status_company: active
+total_raised: $50M
+type: startup
+website: https://inherent.ai/
 ---
 
 ## About

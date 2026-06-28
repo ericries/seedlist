@@ -11,6 +11,7 @@ firms:
 - round: 2023-05
   slug: rocket-money
   year: 2023
+- slug: valor-equity-partners
 founded: 2022
 investors:
 - round: Seed (>$4M; Valor Equity Partners, Soma Capital, Day One Ventures + angels

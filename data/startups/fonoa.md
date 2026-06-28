@@ -6,6 +6,7 @@ firms:
 - round: Moving Capital era
   slug: karman-ventures
   year: 2021
+- slug: index-ventures
 founded: 2019
 founders:
 - name: Davor Tremac

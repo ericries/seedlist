@@ -6,6 +6,7 @@ firms:
 - round: '2025'
   slug: marathon-management-partners
   year: 2025
+- slug: inspired-capital
 founded: 2022
 founders:
 - name: Nami Baral

@@ -1,23 +1,27 @@
 ---
-name: "Turbo Law"
-slug: turbo-law
-type: startup
-website: "https://turbolaw.ai"
-location: "United States"
-founded: 2025
-status_company: active
-sector: [ai, legal-tech, vertical-saas]
-stage_latest: "Seed"
-total_raised: "$3.8M"
-investors: []
 firms: []
+founded: 2025
 founders:
-  - name: "Jay Sarmaz"
-    role: "CEO & Co-Founder"
-  - name: "Ozgur Bora Gevrek"
-    role: "CTO & Co-Founder"
-status: published
+- name: Jay Sarmaz
+  role: CEO & Co-Founder
+- name: Ozgur Bora Gevrek
+  role: CTO & Co-Founder
+investors:
+- slug: gokul-rajaram
 last_researched: 2026-06-03
+location: United States
+name: Turbo Law
+sector:
+- ai
+- legal-tech
+- vertical-saas
+slug: turbo-law
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $3.8M
+type: startup
+website: https://turbolaw.ai
 ---
 
 ## About

@@ -1,22 +1,7 @@
 ---
-name: MokN
-slug: mokn
-type: startup
-website: https://www.mokn.io/
-location: France
+firms:
+- slug: gv
 founded: 2024
-status_company: active
-sector:
-- cybersecurity
-- ai
-- credential-theft
-- identity
-- enterprise-software
-- phish-back
-stage_latest: Series A
-total_raised: $17.6M
-investors: []
-firms: []
 founders:
 - name: Gautier Bugeon
   role: Co-Founder & CEO
@@ -26,8 +11,24 @@ founders:
   role: Co-Founder
 - name: Adrien Casteleiro
   role: Co-Founder
+investors: []
 last_researched: 2026-05-29
+location: France
+name: MokN
+sector:
+- cybersecurity
+- ai
+- credential-theft
+- identity
+- enterprise-software
+- phish-back
+slug: mokn
+stage_latest: Series A
 status: published
+status_company: active
+total_raised: $17.6M
+type: startup
+website: https://www.mokn.io/
 ---
 
 ## About

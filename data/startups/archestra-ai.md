@@ -1,21 +1,27 @@
 ---
-name: "Archestra.AI"
-slug: archestra-ai
-type: startup
-website: "https://archestra.ai/"
-location: "London, UK"
-founded: 2025
-status_company: active
-sector: [ai, enterprise-ai, security, open-source, data-infrastructure]
-stage_latest: "Seed"
-total_raised: "$13.5M"
-investors: []
 firms: []
+founded: 2025
 founders:
-  - name: "Matvey Kukuy"
-    role: "Founder & CEO"
-status: published
+- name: Matvey Kukuy
+  role: Founder & CEO
+investors:
+- slug: olivier-pomel
 last_researched: 2026-06-08
+location: London, UK
+name: Archestra.AI
+sector:
+- ai
+- enterprise-ai
+- security
+- open-source
+- data-infrastructure
+slug: archestra-ai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $13.5M
+type: startup
+website: https://archestra.ai/
 ---
 
 ## About

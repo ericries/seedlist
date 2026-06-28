@@ -13,6 +13,7 @@ investors:
 - round: $9M Seed (Khusid personal angel)
   slug: andrey-khusid
   year: 2026
+- slug: olivier-pomel
 last_researched: 2026-05-07
 location: London, United Kingdom
 name: CodeWords

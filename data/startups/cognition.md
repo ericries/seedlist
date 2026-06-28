@@ -27,6 +27,10 @@ firms:
 - round: ~2023
   slug: conviction
   year: 2023
+- slug: 8vc
+- slug: founders-fund
+- slug: general-catalyst
+- slug: ribbit-capital
 founded: 2023
 founders:
 - name: Scott Wu
@@ -72,6 +76,7 @@ investors:
 - round: Series A
   slug: harry-stebbings
   year: 2024
+- slug: elad-gil
 last_researched: 2026-05-28
 location: San Francisco, CA
 name: Cognition

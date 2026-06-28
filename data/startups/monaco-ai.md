@@ -1,11 +1,25 @@
 ---
-name: Monaco
-slug: monaco-ai
-type: startup
-website: https://www.monaco.ai/
-location: San Francisco, CA
+firms:
+- date: 2026-05-12
+  round: series-b
+  slug: benchmark
+  year: 2026
+- date: 2026-05-12
+  round: series-b
+  slug: founders-fund
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Sam Blond
+  role: Founder & CEO
+investors:
+- slug: garry-tan
+- slug: john-collison
+- slug: neil-mehta
+- slug: patrick-collison
+last_researched: 2026-05-14
+location: San Francisco, CA
+name: Monaco
 sector:
 - ai
 - ai-agents
@@ -13,23 +27,13 @@ sector:
 - saas
 - enterprise-software
 - vertical-saas
+slug: monaco-ai
 stage_latest: Series B
-total_raised: $85M+
-investors: []
-firms:
-- slug: benchmark
-  round: series-b
-  year: 2026
-  date: 2026-05-12
-- slug: founders-fund
-  round: series-b
-  year: 2026
-  date: 2026-05-12
-founders:
-- name: Sam Blond
-  role: Founder & CEO
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $85M+
+type: startup
+website: https://www.monaco.ai/
 ---
 
 ## About

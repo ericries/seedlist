@@ -4,6 +4,7 @@ firms:
     Electric participated)
   slug: gil-capital
   year: 2026
+- slug: khosla-ventures
 founded: 2025
 founders:
 - name: Eric Wu

@@ -1,25 +1,30 @@
 ---
-name: "Innovorder"
-slug: innovorder
-type: startup
-website: "https://www.innovorder.com"
-location: "Paris, France"
+firms:
+- slug: fj-labs
 founded: 2014
-status_company: active
-sector: [restaurant-tech, vertical-saas, ai, foodtech]
-stage_latest: "Growth"
-total_raised: "€30M+"
-investors: []
-firms: []
 founders:
-  - name: "Jérôme Varnier"
-    role: "Co-Founder & CEO"
-  - name: "Romain Melloul"
-    role: "Co-Founder & General Manager"
-  - name: "Olivier Loverde"
-    role: "Co-Founder & CTO"
-status: published
+- name: Jérôme Varnier
+  role: Co-Founder & CEO
+- name: Romain Melloul
+  role: Co-Founder & General Manager
+- name: Olivier Loverde
+  role: Co-Founder & CTO
+investors: []
 last_researched: 2026-06-03
+location: Paris, France
+name: Innovorder
+sector:
+- restaurant-tech
+- vertical-saas
+- ai
+- foodtech
+slug: innovorder
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: €30M+
+type: startup
+website: https://www.innovorder.com
 ---
 
 ## About

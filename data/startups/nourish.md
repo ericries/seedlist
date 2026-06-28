@@ -22,6 +22,7 @@ firms:
 - round: Seed
   slug: operator-partners
   year: 2021
+- slug: y-combinator
 founded: 2021
 founders: []
 investors:

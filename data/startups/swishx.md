@@ -1,11 +1,16 @@
 ---
-name: SwishX
-slug: swishx
-type: startup
-website: https://www.swishx.ai/
-location: Bengaluru, India
+firms:
+- slug: powerhouse-ventures
 founded: 2025
-status_company: active
+founders:
+- name: Dushyant Sapre
+  role: Founder & CEO
+- name: Jai Anand
+  role: Co-Founder
+investors: []
+last_researched: 2026-05-14
+location: Bengaluru, India
+name: SwishX
 sector:
 - ai
 - ai-agents
@@ -14,17 +19,13 @@ sector:
 - healthcare
 - enterprise-software
 - vertical-saas
+slug: swishx
 stage_latest: Seed
-total_raised: $2.2M
-investors: []
-firms: []
-founders:
-- name: Dushyant Sapre
-  role: Founder & CEO
-- name: Jai Anand
-  role: Co-Founder
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $2.2M
+type: startup
+website: https://www.swishx.ai/
 ---
 
 ## About
