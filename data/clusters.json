@@ -8545,7 +8545,11 @@
           "slug": "karim-atiyeh",
           "name": "Karim Atiyeh"
         },
-        "sandeep-tandon"
+        {
+          "slug": "sandeep-tandon",
+          "name": "Sandeep Tandon",
+          "firm": "whiteboard-capital"
+        }
       ]
     },
     {
@@ -10007,7 +10011,11 @@
           "slug": "mohit-gupta",
           "name": "Mohit Gupta"
         },
-        "sandeep-tandon"
+        {
+          "slug": "sandeep-tandon",
+          "name": "Sandeep Tandon",
+          "firm": "whiteboard-capital"
+        }
       ]
     },
     {
@@ -12824,7 +12832,11 @@
           "slug": "mohit-gupta",
           "name": "Mohit Gupta"
         },
-        "sandeep-tandon"
+        {
+          "slug": "sandeep-tandon",
+          "name": "Sandeep Tandon",
+          "firm": "whiteboard-capital"
+        }
       ],
       "id": "curated-49"
     },
