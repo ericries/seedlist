@@ -39,11 +39,13 @@ Reactor is a San Francisco-based real-time generative-video infrastructure compa
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Real-time video models are currently inaccessible to developers due to a lack of infrastructure that can reliably serve them. Alberto, Bryce, and the team bring a rare combination of real-time systems expertise and product vision to this problem." — Bucky Moore, Partner at Lightspeed Venture Partners [^1][^2]
+
+> "I was incredibly impressed, if not astounded, by just how innovative their approach is to storytelling tools. The real opportunity lies in making these technologies usable at scale. Reactor is building the platform that can enable a new generation of storytelling." — Jeffrey Katzenberg, WndrCo [^1][^2]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "World models are redefining what AI can do, moving from systems that generate content in isolation, to ones that perceive and respond in real time. We are building the critical layer between the model labs and the developers who want to create with them." — Alberto Taiuti, Co-Founder & CEO of Reactor [^1][^2]
 
 ## Sources
 

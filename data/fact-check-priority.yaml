@@ -28,6 +28,9 @@ priority:
   type: startup
   reason: new startup profile (Series A 2026-06-23, $15M co-led by White Star Capital and Innovation Endeavors)
   added: 2026-06-25
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Tetrix $15M Series A on 2026-06-23 co-led by White Star Capital and Innovation Endeavors via 4 independent primary sources (BusinessWire press release [^1], BetaKit [^2], Pulse 2.0 [^4], The SaaS News [^5]). Added Pulse 2.0 and The SaaS News as citations [^4][^5]. Identified one named angel: Ben Choi (Next Legacy). Added founder quote from Olivier Babin ("Alternative markets are an over $20 trillion asset class running on 100 million PDFs.") and investor quotes from Christophe Bourque (White Star GP) and Harpinder Singh (Innovation Endeavors). USD figure: $15M (BetaKit also reported $21M CAD). White Star Capital and Innovation Endeavors firm profiles do not yet exist.'
 - slug: xcures
   type: startup
   reason: new startup profile (Series B 2026-06-24, $46M, Innovius Capital lead)
@@ -338,6 +341,9 @@ priority:
   type: firm
   reason: led Reactor $59M Series A (2026-05-28)
   added: 2026-05-30
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified Lightspeed Venture Partners led Reactor $59M Series A on 2026-05-28 via 3 primary sources already in reactor.md: PR Newswire press release [^1], Variety [^2], AWS Press Center [^3]. All three independently confirm date, amount, lead, and participants (WndrCo, Amplify Partners, Sky9 Capital, FPV Ventures, Abstract Ventures). Added Lightspeed Partner Bucky Moore investor quote and Jeffrey Katzenberg/WndrCo quote to "What Investors Say"; added founder quote from CEO Alberto Taiuti to "What Founders Say". Lightspeed Venture Partners firm profile does not yet exist in data/firms/ — already queued.'
 - slug: wing-venture-capital
   type: firm
   reason: 'RESOLVED 2026-06-03 — wing-venture-capital.md does NOT exist in data/firms/;
@@ -380,6 +386,9 @@ priority:
   type: firm
   reason: led Focused Energy $240M Series A — largest in fusion (2026-05-27)
   added: 2026-05-30
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified RWE led Focused Energy $240M (€206M) Series A on 2026-05-27 via 5 primary sources: Focused Energy press release [^1], ChemEurope [^2], FusionXInvest [^3], RWE AG press release [^4] (newly added), Clean Energy Wire [^5] (newly added). RWE contribution corrected from "$60M" to "€60 million" per RWE''s own announcement (currency-preservation rule). Added 2 new primary citations [^4][^5]. Added 3 quotes: Markus Krebber (RWE CEO) to "What Investors Say"; Thomas Forner and Markus Roth (co-founders) to "What Founders Say". Total $240M / €206M figures both reported. RWE firm profile does not yet exist.'
 - slug: prime-movers-lab
   type: firm
   reason: SKIPPED 2026-06-03 — Prime Movers Lab profile does not exist in data/firms/.
