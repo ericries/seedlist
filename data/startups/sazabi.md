@@ -32,17 +32,24 @@ Sazabi is a San Francisco-based AI-native observability platform for fast-moving
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-25 | Seed | $8M | J2 Ventures, Village Global, Y Combinator | Orange Collective and 60+ angels from Vercel, Cursor, LangChain, OpenAI, Anthropic, GitHub, Replit, Browserbase [^1][^2] |
+| 2026-06-25 | Seed | $8M | J2 Ventures, Village Global, Y Combinator | Orange Collective and 60+ angels from Vercel, Cursor, LangChain, OpenAI, Anthropic, GitHub, Replit, Browserbase [^1][^2][^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "If Datadog defined observability during the cloud-native era, Sazabi is defining it for the AI-native one." — Christine Keung, General Partner, J2 Ventures, quoted in the June 25, 2026 announcement [^1][^2]
+
+> "Sherwood is the kind of founder I back without hesitation. A technical, second-time founder with clear product vision and deep subject-matter expertise." — Hunter Walk, Founding Partner, Homebrew, quoted in the June 25, 2026 announcement [^2]
 
 ## What Founders Say
 
-> "AI has changed how software gets written. Now it is changing how software gets operated." — Sherwood Callaway, Founder & CEO, Sazabi, quoted in the company's June 25, 2026 announcement [^1][^2]
+> "AI has changed how software gets written. Now it is changing how software gets operated. Sazabi is rebuilding observability from first principles for a world where agents are part of every engineering team." — Sherwood Callaway, Founder & CEO, Sazabi, quoted in the June 25, 2026 announcement [^1][^2]
+
+A Sazabi customer commented on the alpha experience:
+
+> "Sazabi caught issues we otherwise would have missed and fixed them before customers noticed. It's like having an extra engineer on call who reads every logline." — Liam Germain, CTO, Sandstone, quoted in the June 25, 2026 announcement [^2]
 
 ## Sources
 
 [^1]: Morningstar (via PR Newswire), "Sazabi Raises $8 Million Seed Round to Build the AI-Native Observability Platform for Fast-Moving Engineering Teams," June 25, 2026. Accessed June 2026. https://www.morningstar.com/news/pr-newswire/20260625ny91904/sazabi-raises-8-million-seed-round-to-build-the-ai-native-observability-platform-for-fast-moving-engineering-teams
 [^2]: Pulse 2.0, "Sazabi Raises $8 Million Seed Round To Build AI-Native Observability Platform," June 25, 2026. Accessed June 2026. https://pulse2.com/sazabi-raises-8-million-seed-round-to-build-ai-native-observability-platform/
+[^3]: VC News Daily, "Sazabi Raises $8M Seed Round," June 25, 2026. Accessed June 2026. https://vcnewsdaily.com/sazabi/venture-capital-funding/ksqdpwnllg — Independent confirmation of $8M Seed on June 25, 2026 co-led by J2 Ventures, Village Global, and Y Combinator, with Orange Collective and 60+ angels participating.

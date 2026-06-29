@@ -2394,14 +2394,23 @@ priority:
   type: investor
   reason: "appeared in General Intuition Series A ($320M at $2.3B, 2026-06-25)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Eric Schmidt's participation in General Intuition Series A ($320M, $2.3B post-money, 2026-06-25 led by Khosla Ventures) already present in eric-schmidt.md portfolio with 2 primary citations (TechCrunch [^33], GamesBeat [^34]). Round was previously cross-verified during khosla-ventures sweep with TechCrunch + Tech Funding News + GamesBeat. last_verified_investment frontmatter already set to General Intuition Series A 2026-06-25. No additional changes needed — profile is current."
 - slug: andreessen-horowitz
   type: firm
   reason: "appeared in Jarvie AI Seed (2026-06-23, $8.3M)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Andreessen Horowitz, Base10 Partners, and Lightspeed as co-leads of Jarvie AI $8.3M Seed on 2026-06-23 via 3 independent sources: TheSaaSNews [^90], Ken Chong (Founder & CEO) LinkedIn announcement post [^92] (founder-primary), and aggregator coverage. Press coverage is limited but founder LinkedIn provides verbatim confirmation: 'With an $8.3M Seed from Andreessen Horowitz, Base10 Partners, and Lightspeed to bring AI Agents to the everyday consumer.' Added [^92] to a16z Jarvie AI portfolio row. Updated jarvie-ai.md startup profile with founders (Ken Chong CEO, Matt Sawchuk Co-Founder), founder quote, and 3rd citation."
 - slug: y-combinator
   type: firm
   reason: "co-led Sazabi Seed (2026-06-25, $8M)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Y Combinator co-led Sazabi $8M Seed on 2026-06-25 alongside J2 Ventures and Village Global via 3 independent primary sources: Morningstar/PR Newswire press release [^55], Pulse 2.0 [^56], and VC News Daily [^57] (newly added). Added VC News Daily as 3rd citation to YC Sazabi portfolio row. Updated sazabi.md startup profile with 3rd citation, plus 3 new attributed quotes from the press release: Christine Keung (J2 Ventures GP — 'If Datadog defined observability during the cloud-native era, Sazabi is defining it for the AI-native one'), Hunter Walk (Homebrew Founding Partner), and Sandstone customer Liam Germain. Founder Sherwood Callaway quote expanded with full sentence from press release."
 - slug: accel
   type: firm
   reason: "participated in Tomo Seed (2026-06-25, $5M)"

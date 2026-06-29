@@ -218,7 +218,7 @@ The following table includes a16z investments verified through the firm's own po
 | OpenAI | Growth | 2023 | AI | Private [^10] |
 | XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth alongside Thrive, Spark, Lux, WndrCo) [^75][^76] |
 | Convey | Series A (led) | 2026-06-17 | AI / Enterprise | Active ($38M Series A led by a16z; Khosla and Pear VC participated; Joe Schmidt joined board) [^77][^78] |
-| Jarvie AI | Seed | 2026-06-23 | AI / Consumer / Messaging | Active ($8.3M Seed alongside Base10 Partners and Lightspeed) [^90] |
+| Jarvie AI | Seed | 2026-06-23 | AI / Consumer / Messaging | Active ($8.3M Seed alongside Base10 Partners and Lightspeed) [^90][^92] |
 | Anthropic | Growth | 2023 | AI | Private [^10] |
 | Anduril | Growth (Series B→H; co-led Series H) | 2019 (Series B); 2026-05-13 (Series H, co-led at $61B) | Defense Tech | Private [^10][^47] |
 | Applied Intuition | Growth | 2021 | Autonomous / Simulation | Private [^10] |
@@ -534,3 +534,5 @@ The following table includes a16z investments verified through the firm's own po
 [^90]: The SaaS News, "Jarvie AI Raises $8.3M in Seed Funding," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/jarvie-ai-raises-8-3m-in-seed-funding/ — Andreessen Horowitz, Base10 Partners, and Lightspeed listed as investors in Jarvie AI's $8.3M seed announced June 23, 2026.
 
 [^91]: Andreessen Horowitz announcement, "Investing in Mirendil," by Matt Bornstein and Malika Aubakirova, June 24, 2026. Accessed June 2026. https://a16z.com/announcement/investing-in-mirendil/ — Official a16z investment announcement page confirms leading Mirendil seed round. Quote: "They are working on one of the biggest possible problems in AI, and they are one of the few teams who have experience and strong priors about how to make the end-to-end system work."
+
+[^92]: Ken Chong (Founder & CEO, Jarvie AI), LinkedIn announcement post, June 23, 2026. Accessed June 2026. https://www.linkedin.com/in/knkchong — Founder-primary confirmation of $8.3M Seed round. Quote: "Super duper excited to share something new I've been working on! With an $8.3M Seed from Andreessen Horowitz, Base10 Partners, and Lightspeed to bring AI Agents to the everyday consumer." Co-founder identified as Matt Sawchuk in companion posts.
