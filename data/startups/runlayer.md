@@ -43,21 +43,29 @@ Runlayer is an AI enablement and control platform that functions as a secure con
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-24 | Series A | $30M | Felicis | Khosla Ventures [^1][^2][^3] |
+| 2026-06-24 | Series A | $30M | Felicis | Khosla Ventures [^1][^2][^3][^4][^5] |
 | 2025 | Seed | $11M | Khosla Ventures | Felicis [^2] |
 
-Total raised to date: $42M [^1][^2]. Keith Rabois at Khosla Ventures led the prior $11M seed; Vinod Khosla personally championed the Series A [^2].
+Total raised to date: $42M [^1][^2][^4][^5]. Keith Rabois at Khosla Ventures led the prior $11M seed; Vinod Khosla personally championed the Series A [^2]. Felicis GP Jake Storm and Khosla Ventures Partner Jon Chu led their firms' investments in both rounds [^4][^5].
 
 ## What Investors Say
 
-No independently sourced investor quotes incorporated at this time.
+Jake Storm, General Partner at Felicis: "This is the right team, in the right market, at the right time, which is why Felicis pre-empted this round" [^5].
+
+Jon Chu, Partner at Khosla Ventures: "Runlayer is one of those rare companies where the consequences of success are so large that almost nothing else matters" [^5].
+
+Vinod Khosla, Co-founder of Khosla Ventures: "Runlayer has the potential to become that foundational layer for the AI-enabled enterprise that every company must inevitably become to stay relevant" [^5].
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+Andrew Berman, Co-founder and CEO: "Every employee will delegate their work to swarms of agents... The challenge is that most companies still do not have a secure, scalable way to make that possible" [^5].
+
+Andy Berman in Runlayer's launch post: "Enterprises are ready to stop treating AI like an experiment and start making it part of their core strategy" [^4].
 
 ## Sources
 
 [^1]: SecurityWeek, "Runlayer Raises $30 Million in Series A Funding," June 25, 2026. Accessed June 2026. https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/
 [^2]: Fortune, "Exclusive: Vinod Khosla wanted 'every available dollar' of Runlayer's funding round," June 24, 2026. Accessed June 2026. https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/
 [^3]: The SaaS News, "Runlayer Raises $30M Series A," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runlayer-raises-30m-series-a/
+[^4]: Runlayer blog, "Runlayer raises $30M Series A to go all in on AI," by Andy Berman, June 24, 2026. Accessed June 2026. https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla
+[^5]: PR Newswire press release, "Runlayer Raises $30M Series A to Help Enterprises Go All In On AI," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runlayer-raises-30m-series-a-to-help-enterprises-go-all-in-on-ai-302809271.html

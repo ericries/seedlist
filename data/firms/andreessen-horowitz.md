@@ -292,7 +292,7 @@ The following table includes a16z investments verified through the firm's own po
 | Probably | Seed (lead, $9M) | 2026-06-16 | AI / LLM Reliability / Data Science | Private [^73][^74] |
 | Probook | Series A (led, $34M; Sequoia Capital participated) | 2026-06-23 | AI / Vertical SaaS / Home Services / Dispatch | Private [^79][^80][^81][^82] |
 | Netris | Series A (led, $15M) | 2026-06-25 | AI Infrastructure / Networking / Neoclouds | Private [^86] |
-| Mirendil | Seed (co-led, $200M at ~$1B valuation; Kleiner Perkins co-led, NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^87][^88][^89] |
+| Mirendil | Seed (co-led, $200M at ~$1B valuation; Kleiner Perkins co-led, NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^87][^88][^89][^91] |
 
 *Note: This table includes 82 companies out of 1,076+ total portfolio companies (~7%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -532,3 +532,5 @@ The following table includes a16z investments verified through the firm's own po
 [^89]: Unite.AI, "Former Anthropic Researchers Launch Mirendil at $1 Billion Valuation With $200M Seed Round," June 25, 2026. Accessed June 2026. https://www.unite.ai/former-anthropic-researchers-launch-mirendil-at-1-billion-valuation-with-200-m-seed-round/ — Third independent primary source confirms Andreessen Horowitz and Kleiner Perkins co-led Mirendil's $200M seed at $1B valuation announced June 25, 2026, with NVIDIA participating. "One of the largest seed financings ever announced by an AI startup."
 
 [^90]: The SaaS News, "Jarvie AI Raises $8.3M in Seed Funding," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/jarvie-ai-raises-8-3m-in-seed-funding/ — Andreessen Horowitz, Base10 Partners, and Lightspeed listed as investors in Jarvie AI's $8.3M seed announced June 23, 2026.
+
+[^91]: Andreessen Horowitz announcement, "Investing in Mirendil," by Matt Bornstein and Malika Aubakirova, June 24, 2026. Accessed June 2026. https://a16z.com/announcement/investing-in-mirendil/ — Official a16z investment announcement page confirms leading Mirendil seed round. Quote: "They are working on one of the biggest possible problems in AI, and they are one of the few teams who have experience and strong priors about how to make the end-to-end system work."

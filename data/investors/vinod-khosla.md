@@ -169,7 +169,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 | Synchron | ~2016 (founded) | Early | MedTech / BCI | [^11] |
 | eGenesis | ~2014 (founded) | Early | Therapeutics / Xenotransplant | [^11] |
 | HiO AI | 2025 | Seed | AI / Productivity | [^19] |
-| Runlayer | 2026-06-24 | Series A (participated; Felicis led $30M; Vinod Khosla personally championed) | AI / Enterprise AI Governance / Security | [^27][^28][^29] |
+| Runlayer | 2026-06-24 | Series A (participated; Felicis led $30M; Vinod Khosla personally championed) | AI / Enterprise AI Governance / Security | [^27][^28][^29][^30][^31] |
 
 *Note: This table represents a curated selection from approximately 710 total firm investments per Crunchbase [^12]. The Khosla Ventures portfolio page lists approximately 163 highlighted companies [^11]; this table covers approximately 38 of those.*
 
@@ -309,3 +309,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 [^28]: SecurityWeek, "Runlayer Raises $30 Million in Series A Funding," June 25, 2026. Accessed June 2026. https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/ — Independently confirms Felicis-led $30M Series A on June 24, 2026 with Khosla Ventures participating.
 
 [^29]: The SaaS News, "Runlayer Raises $30M Series A," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runlayer-raises-30m-series-a/ — Third independent confirmation of Felicis-led $30M Series A with Khosla Ventures participating; total raised to date $42M.
+
+[^30]: Runlayer blog, "Runlayer raises $30M Series A to go all in on AI," by Andy Berman, June 24, 2026. Accessed June 2026. https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla — Company's own primary announcement confirms Felicis and Khosla Ventures led the $30M Series A on June 24, 2026.
+
+[^31]: PR Newswire press release, "Runlayer Raises $30M Series A to Help Enterprises Go All In On AI," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runlayer-raises-30m-series-a-to-help-enterprises-go-all-in-on-ai-302809271.html — Includes Vinod Khosla quote verbatim: "Runlayer has the potential to become that foundational layer for the AI-enabled enterprise that every company must inevitably become to stay relevant."

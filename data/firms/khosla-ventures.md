@@ -204,7 +204,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Sarvam AI | Series B (existing investor, $234M first close of $300M round; HCLTech led with $150M) | 2026-06-15 | AI / India | Private ($1.5B val) [^49][^50][^51] |
 | Pramaana Labs | Seed (led, $27M; Accel, BoldCap, Nexus Venture Partners, Premji Invest, Unbound participated) | 2026-06-17 | AI / Formal Verification / LLM Reliability | Private [^52][^53][^54] |
 | Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
-| Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3] |
+| Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025; Vinod Khosla and Jon Chu personally championed) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3][^runlayer4][^runlayer5] |
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 
 *Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
@@ -396,6 +396,10 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^runlayer2]: SecurityWeek, "Runlayer Raises $30 Million in Series A Funding," June 25, 2026. Accessed June 2026. https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/ — Independently confirms Felicis-led $30M Series A with Khosla Ventures participating.
 
 [^runlayer3]: The SaaS News, "Runlayer Raises $30M Series A," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runlayer-raises-30m-series-a/ — Third independent confirmation of Felicis-led $30M Series A with Khosla Ventures.
+
+[^runlayer4]: Runlayer blog, "Runlayer raises $30M Series A to go all in on AI," by Andy Berman, June 24, 2026. Accessed June 2026. https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla — Company's own announcement confirms Felicis and Khosla Ventures led the $30M Series A on June 24, 2026, bringing total capital to $42M.
+
+[^runlayer5]: PR Newswire press release, "Runlayer Raises $30M Series A to Help Enterprises Go All In On AI," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runlayer-raises-30m-series-a-to-help-enterprises-go-all-in-on-ai-302809271.html — Official press release confirms Felicis led the $30M Series A with Khosla Ventures participating. Includes verbatim quote from Vinod Khosla: "Runlayer has the potential to become that foundational layer for the AI-enabled enterprise that every company must inevitably become to stay relevant." Jon Chu (Khosla Ventures Partner): "Runlayer is one of those rare companies where the consequences of success are so large that almost nothing else matters."
 
 [^genint1]: TechCrunch, "General Intuition's $2.3B bet that video games can train AI agents for the real world," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/ — Confirms Khosla Ventures led General Intuition's $320M Series A at a $2.3B post-money valuation; General Catalyst, Jeff Bezos, Eric Schmidt, and Nico Rosberg participated.
 

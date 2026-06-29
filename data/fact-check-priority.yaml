@@ -28,6 +28,9 @@ priority:
   type: startup
   reason: new startup profile (Series B 2026-06-17, $100M led by Accel)
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Twenty Series B $100M on 2026-06-17 led by Accel at $1B valuation, with Friends & Family Capital, Point72 Ventures, Caffeinated Capital participating, via 5 independent primary sources (PR Newswire company press release [^1], GovCon Wire [^2], TheSaaSNews [^3], SiliconANGLE [^4], The Next Web [^5]). Added SiliconANGLE and The Next Web as 4th/5th citations. Added Jonathan Turner (Accel Partner) and Colin Anderson (Friends & Family Capital Founding Partner) investor quotes from press release. Added second Joe Lin quote from press release. Total raised confirmed at $138M.'
 - slug: taktile
   type: startup
   reason: new startup profile (Series C 2026-06-24, $110M led by Goldman Sachs Growth Equity)
@@ -2319,10 +2322,16 @@ priority:
   type: startup
   reason: "new startup profile (Seed 2026-06-24, $200M co-led by a16z and Kleiner Perkins; NVIDIA participated)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Mirendil $200M Seed on 2026-06-24 co-led by a16z and Kleiner Perkins at ~$1B valuation with NVIDIA participating, via 6 independent sources including a16z official announcement page (primary investor source) [^4], SiliconANGLE [^5], Unite.AI [^6], plus existing TFN/SaaSNews/Crypto Briefing [^1][^2][^3]. Added Matt Bornstein & Malika Aubakirova (a16z) investor quote to "What Investors Say" from a16z announcement page. Also added a16z primary source citation [^91] to andreessen-horowitz.md portfolio row. Confirmed founding team of ~20 researchers/engineers from Anthropic, OpenAI, Google DeepMind, and xAI. Note: secondary sources show announcement dates ranging from June 24 (a16z official page) to June 25-26 (press coverage); standardized on 2026-06-24 per a16z primary source.'
 - slug: runlayer
   type: startup
   reason: "new startup profile (Series A 2026-06-24, $30M led by Felicis; Khosla Ventures participated)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Runlayer $30M Series A on 2026-06-24 led by Felicis with Khosla Ventures participating, via 5 independent primary sources including Runlayer company blog [^4], PR Newswire press release [^5], Fortune [^2], SecurityWeek [^1], TheSaaSNews [^3]. Added Andrew Berman (CEO) founder quote ("Every employee will delegate their work to swarms of agents...") and second Berman quote from launch blog ("Enterprises are ready to stop treating AI like an experiment..."). Added Jake Storm (Felicis GP) quote ("This is the right team, in the right market, at the right time"), Jon Chu (Khosla Ventures Partner) quote ("Runlayer is one of those rare companies where the consequences of success are so large..."), and Vinod Khosla quote ("Runlayer has the potential to become that foundational layer..."). Total raised confirmed at $42M. Also added Runlayer blog + PR Newswire as 4th/5th citations to khosla-ventures.md and vinod-khosla.md portfolio entries.'
 - slug: leyden-labs
   type: startup
   reason: "new startup profile (Growth 2026-06-25, €40M from EIC Fund, Invest-NL, Gates Foundation, ClavystBio)"
