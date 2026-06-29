@@ -32717,3 +32717,130 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: quantifind
+- name: Greenfield Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: patronus-ai
+  source: led Patronus AI $50M Series B 2026-06-25
+- name: Factorial Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: patronus-ai
+  source: co-invested Patronus AI Series B 2026-06-25
+- name: Anand Kannappan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Patronus AI
+  discovered_from: patronus-ai
+  source: Co-Founder & CEO, Patronus AI
+- name: Rebecca Qian
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Patronus AI
+  discovered_from: patronus-ai
+  source: Co-Founder, Patronus AI
+- name: Janus Henderson Investors
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lycia-therapeutics
+  source: co-led Lycia Therapeutics $75M Series D 2026-06-25
+- name: Balyasny Asset Management
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lycia-therapeutics
+  source: co-led Lycia Therapeutics $75M Series D 2026-06-25
+- name: OrbiMed
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lycia-therapeutics
+  source: co-invested Lycia Therapeutics Series D 2026-06-25
+- name: RTW Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lycia-therapeutics
+  source: co-invested Lycia Therapeutics Series D 2026-06-25
+- name: Adage Capital Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lycia-therapeutics
+  source: co-invested Lycia Therapeutics Series D 2026-06-25
+- name: HBM Healthcare Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lycia-therapeutics
+  source: co-invested Lycia Therapeutics Series D 2026-06-25
+- name: Aetna Wun Trombley
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lycia Therapeutics
+  discovered_from: lycia-therapeutics
+  source: CEO, Lycia Therapeutics
+- name: Carolyn Bertozzi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Stanford University
+  discovered_from: lycia-therapeutics
+  source: Scientific co-founder of Lycia Therapeutics; Nobel laureate
+- name: Vish Sridharan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Janus Henderson Investors
+  discovered_from: lycia-therapeutics
+  source: Janus Henderson investor quoted on Lycia Series D
+- name: Decasonic
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: orthogonal
+  source: co-invested Orthogonal Seed 2026-06-25
+- name: Christian Pickett
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Orthogonal
+  discovered_from: orthogonal
+  source: Co-Founder & CEO, Orthogonal
+- name: Bera Sogut
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Orthogonal
+  discovered_from: orthogonal
+  source: Co-Founder, Orthogonal
+- name: Franklin Bi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pantera Capital
+  discovered_from: orthogonal
+  source: General Partner at Pantera Capital; quoted on Orthogonal seed
