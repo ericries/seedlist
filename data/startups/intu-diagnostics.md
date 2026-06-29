@@ -30,9 +30,9 @@ Intu Diagnostics is a Leipzig-based diagnostics spin-off from the Fraunhofer Soc
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-26 | Bridge | €1.1M | BSV Ventures | Saxonian Development Bank (SAB), business angels [^1][^2] |
+| 2026-06-26 | Bridge | €1.1M | BSV Ventures | Saxonian Development Bank (SAB), business angels [^1][^2][^3] |
 
-The bridge round brings Intu Diagnostics' total funding to over €3 million, with proceeds going toward strengthening its IP position, conducting pilot manufacturing trials, and preparing for a planned Seed round [^1][^2]. The company plans a consumer launch in 2027 [^1].
+The bridge round brings Intu Diagnostics' total funding to over €3 million, with proceeds going toward strengthening its IP position, conducting pilot manufacturing trials, and preparing for a planned Seed round [^1][^2][^3]. The company plans a consumer launch in 2027 [^1].
 
 ## What Investors Say
 
@@ -40,9 +40,12 @@ No independently sourced investor quotes incorporated at this time.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+> "The clinical laboratory is expanding. It no longer requires a physical facility, a power grid, or a centralised destination. At INTU Diagnostics, we are introducing the concept of 'LAB-TO-GO' — bringing a doctor's office level of reliability straight to the patient's door with a pocket-sized, power-free platform."
+>
+> — Intu Diagnostics company statement [^2]
 
 ## Sources
 
 [^1]: TechFundingNews, "German spinout raises over €3M to tackle cervical cancer with a test that works anywhere without electricity or a lab," June 26, 2026. Accessed June 2026. https://techfundingnews.com/intu-diagnostics-1-1m-lab-free-hpv-testing/
 [^2]: BeBeez International, "Lab-free testing moves closer to home as Germany's Intu Diagnostics raises €1.1 million," June 26, 2026. Accessed June 2026. https://bebeez.eu/2026/06/26/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/
+[^3]: EU-Startups, "Lab-free testing moves closer to home as Germany's Intu Diagnostics raises €1.1 million," June 2026. Accessed June 2026. https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million

@@ -12,7 +12,7 @@ slug: thalia-therapeutics
 stage_latest: Public (LSE)
 status: published
 status_company: active
-total_raised: £2.75M (latest fundraise)
+total_raised: £2.75M
 type: startup
 website: https://thaliatherapeutics.com
 ---
@@ -25,7 +25,7 @@ Thalia Therapeutics plc is a London-based clinical-stage biotechnology company d
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-24 | Placing & Subscription | £2.75M (~€3.1M) | Premier Miton | Directors, NLC Ventures Netherlands, NLC Health Impact Fund, City of Hope [^1][^2][^3] |
+| 2026-06-24 | Placing & Subscription | £2.75M | Premier Miton | Directors, NLC Ventures Netherlands, NLC Health Impact Fund, City of Hope [^1][^2][^3] |
 
 The fundraise was conducted via the placing and subscription of 458,333,333 new ordinary shares at 0.6p per share, conditional on AGM approval set for 17 July 2026 [^1]. Directors subscribed for £1,117,500 (40% of the fundraise) [^1].
 
@@ -35,7 +35,13 @@ No independently sourced investor quotes incorporated at this time.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+> "This is an exciting and transformative opportunity to accelerate our clinical-stage oncology pipeline and diversify our RNA therapeutics pipeline."
+>
+> — Dr. David Solomon, CEO, Thalia Therapeutics [^1][^2]
+
+> "The Sanmirna acquisition is value accretive for Thalia shareholders, as it transforms Thalia into a clinical-stage company."
+>
+> — Dr. David Solomon, CEO, Thalia Therapeutics [^3]
 
 ## Sources
 

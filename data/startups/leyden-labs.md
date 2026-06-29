@@ -32,11 +32,19 @@ Invest-NL contributed €10 million of the June 2026 round [^1]. The round was s
 
 ## What Investors Say
 
-No independently sourced investor quotes incorporated at this time.
+> "This investment was made because we believe Leyden Labs' novel approach has the potential to make a meaningful impact."
+>
+> — Hermann Hauser, EIC Fund Board Member [^3]
+
+> "To turn breakthrough innovations into solutions that benefit society, companies need access to patient capital."
+>
+> — Ineke Cazander, Invest-NL [^3]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+> "This financing represents much more than capital. It signals confidence in our scientific approach, our team, and our mission."
+>
+> — Koenraad Wiedhaup, Founder and CEO, Leyden Labs [^1][^3]
 
 ## Sources
 

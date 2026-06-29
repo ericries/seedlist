@@ -465,7 +465,7 @@ priority:
     additional co-leads (Capital Group, Coatue, D1 Capital Partners, GIC, ICONIQ,
     XN) per the official announcement, plus full participant list (AMP PBC, Lightspeed,
     MGX, NTTVC, NX1, T. Rowe Price, etc.). No firm profile for Dragoneer exists yet
-    — already in queue.
+    — already in queue.'
 - slug: founderful
   type: firm
   reason: led Stellar Alpina CHF 3.5M pre-seed (2026-05-28)
@@ -495,7 +495,7 @@ priority:
     Align Ventures, AMD Ventures, ARK Invest, Brookfield, Greycroft, Intel Capital,
     Prime Movers Lab, Qualcomm Ventures, Salesforce Ventures, Tamarack Global). Hark
     profile already fully cited — no changes needed. Parkway Venture Capital already
-    in queue.yaml for firm profile creation.
+    in queue.yaml for firm profile creation.'
 - slug: 137-ventures
   type: firm
   reason: co-led Impulse Space Series D $500M at $4.26B val (2026-06-02)
@@ -2336,14 +2336,23 @@ priority:
   type: startup
   reason: "new startup profile (Growth 2026-06-25, €40M from EIC Fund, Invest-NL, Gates Foundation, ClavystBio)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Leyden Labs €40M growth round on 2026-06-25 via 3 independent primary sources already in profile: BeBeez [^1], European Biotechnology Magazine [^2], Pulse 2.0 [^3]. Lead investors confirmed as European Innovation Council Fund, Invest-NL (€10M tranche), Gates Foundation Strategic Investment Fund; ClavystBio participated. Added Koenraad Wiedhaup (Founder & CEO) founder quote and Hermann Hauser (EIC Fund Board) + Ineke Cazander (Invest-NL) investor quotes — all sourced from Pulse 2.0. Gates Foundation participation confirmed with low/middle-income access mission."
 - slug: thalia-therapeutics
   type: startup
   reason: "new startup profile (Placing 2026-06-24, £2.75M/~€3.1M from Premier Miton and directors; alongside Sanmirna acquisition)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Thalia Therapeutics £2.75M placing & subscription on 2026-06-24 via 3 independent primary sources already in profile: BioSpace press release [^1], European Biotechnology Magazine [^2], UKTN [^3]. Confirmed: Premier Miton lead, Directors subscribed £1,117,500 (40% of round), conducted at 0.6p per share, 458,333,333 new ordinary shares, AGM approval set for 17 July 2026. Sanmirna acquisition confirmed at £3.675M initial + up to £13M in milestones. Added Dr. David Solomon (CEO) founder quote about RNA pipeline transformation. Removed approximate EUR conversion (~€3.1M) per currency-preservation rule — keeping £2.75M as recorded."
 - slug: intu-diagnostics
   type: startup
   reason: "new startup profile (Bridge 2026-06-26, €1.1M from BSV Ventures and SAB)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Intu Diagnostics €1.1M bridge round on 2026-06-26 via 3 independent primary sources: TechFundingNews [^1], BeBeez International [^2], EU-Startups [^3] (newly added as 3rd citation). All three confirm BSV Ventures lead with Saxonian Development Bank (SAB) and business angels participating; total raised €3M+. Added Intu Diagnostics company statement quote on 'LAB-TO-GO' concept (sourced from BeBeez). No direct founder quotes from Dr. Skaiste Arbaciauskaite or Dr. Dirk Kuhlmeier found in any of the 3 primary sources."
 - slug: hera
   type: startup
   reason: "new startup profile (Series A 2026-06-25, $27M led by Bain Capital Ventures; Accel and IA Ventures participated)"
