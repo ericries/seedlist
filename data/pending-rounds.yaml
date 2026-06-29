@@ -108,6 +108,16 @@ pending_rounds:
   parsed_amount: $213M
   parsed_round: null
   status: pending
+- title: 'From charging EVs and drones to powering data centres: London-based Gaussion
+    raises €24.5 million'
+  url: https://www.eu-startups.com/2026/06/from-charging-evs-and-drones-to-powering-data-centres-london-based-gaussion-raises-e24-5-million/
+  source: eu-startups
+  date_found: '2026-06-29'
+  parsed_company: 'From charging EVs and drones to powering data centres: London-based
+    Gaussion'
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
     Due 2029
   url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
@@ -819,12 +829,4 @@ pending_rounds:
   parsed_company: BoolSi
   parsed_amount: $6M
   parsed_round: Seed
-  status: pending
-- title: Cargofy raised $6M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Cargofy
-  parsed_amount: $6M
-  parsed_round: Series A
   status: pending
