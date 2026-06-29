@@ -361,7 +361,9 @@ priority:
   type: firm
   reason: led H1 $40M growth round (2026-05-28)
   added: 2026-05-31
-  status: investigating
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified H1 USD 40M growth round announced 2026-05-28 led by CVS Health Ventures (Partner Justin Brock), no other participants disclosed, via 4 independent primary sources (H1 official press release [^4], TechCrunch [^2], GlobeNewswire [^1], Dealroom [^3]). Added H1 official press release and TechCrunch as new citations; added Justin Brock investor quote and Ariel Katz Claude quote from TechCrunch interview. H1 last valued at USD 750M in November 2021 (Altimeter-led USD 100M round); turned cash-flow/EBITDA profitable in 2025; forecasting >40% growth in 2026. CVS Health Ventures firm profile does not yet exist — queued.'
 - slug: silicon-road-ventures
   type: firm
   reason: led Rep AI $6.2M Series A extension (2026-05-28)
@@ -437,12 +439,16 @@ priority:
   type: firm
   reason: co-led Inherent $50M seed (2026-05-28)
   added: 2026-05-30
-  status: investigating
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Inherent USD 50M seed announced 2026-05-28 (London-based AI lab emerging from stealth) co-led by Index Ventures and Radical Ventures, with NVentures (NVIDIA), Ex/Ante, Metaplanet, Macroscopic Ventures, Mythos Ventures participating, via 5 independent primary sources (Index Ventures own page [^3], Sifted [^4], The Next Web [^1], Tech.eu [^2], The SaaS News [^5]). Added Sifted and The SaaS News as 4th and 5th citations. Added Danny Rimer (Index Ventures Partner) investor quote and Matt Clifford advisor quote from Sifted. Founders Tantum Collins, Edward Hughes, Louis Kirsch (ex-DeepMind) and Kaloyan Aleksiev (ex-Reka AI/Microsoft). Building Faraday platform. Incorporated as public benefit corporation. Radical Ventures firm profile still pending in queue.'
 - slug: kfund
   type: firm
   reason: led Mafer AI €2M pre-seed (2026-05-29)
   added: 2026-05-29
-  status: investigating
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Mafer AI €2M pre-seed announced 2026-05-29 led by Kfund with 4Founders Capital, Masia, Lavanda Ventures (Puig family) and angel investors Adrián Mato (a16z scout), Manuel Roca (Atrápalo founder), Dídac Lee, Fernando Castiñeiras (Athos Capital MP), Juanjo Mostazo participating, via 4 independent primary sources (BeBeez International [^1], EU-Startups [^2], The SaaS News [^3], FoundersToday [^4]). Added The SaaS News and FoundersToday as 3rd and 4th citations. Added Fernando Oliver Jané founder quote from FoundersToday. Co-founders Fernando Oliver Jané (CEO) and Marc Montalbo Burges (CTO); Barcelona-based AI-native operating system (MaferOS) for R&D in formulation industries; close to €300K ARR after 6 months, targeting €1M by end 2026. Kfund firm profile still pending in queue.'
 - slug: xtx-ventures
   type: firm
   reason: co-led Kopa.ai €2M seed (2026-05-28)
