@@ -1,24 +1,34 @@
 ---
-name: "Runpod"
-slug: runpod
-type: startup
-website: "https://www.runpod.io"
-location: "Newark, NJ"
-status_company: active
-sector: [ai-infrastructure, developer-tools, cloud, gpu]
-stage_latest: "Growth"
-total_raised: "$120M+"
-investors: []
 firms:
-  - slug: summit-partners
-    round: growth
-    year: 2026
-    date: 2026-06-24
+- date: 2026-06-24
+  round: growth
+  slug: summit-partners
+  year: 2026
+- round: Seed
+  slug: replit
+  year: 2024
 founders:
-  - name: "Zhen Lu"
-    role: "CEO & Co-Founder"
-status: published
+- name: Zhen Lu
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: amjad-masad
+  year: 2024
 last_researched: 2026-06-28
+location: Newark, NJ
+name: Runpod
+sector:
+- ai-infrastructure
+- developer-tools
+- cloud
+- gpu
+slug: runpod
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $120M+
+type: startup
+website: https://www.runpod.io
 ---
 
 ## About

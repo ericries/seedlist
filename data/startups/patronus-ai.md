@@ -1,26 +1,35 @@
 ---
-name: "Patronus AI"
-slug: patronus-ai
-type: startup
-website: "https://www.patronus.ai"
-location: "San Francisco, CA"
-founded: 2023
-status_company: active
-sector: [ai, ai-safety, ai-evaluation, developer-tools, infrastructure]
-stage_latest: "Series B"
-total_raised: "$70M"
 firms:
-  - slug: notable-capital
-    round: series-b
-    year: 2026
-    date: 2026-06-25
+- date: 2026-06-25
+  round: series-b
+  slug: notable-capital
+  year: 2026
+founded: 2023
 founders:
-  - name: "Anand Kannappan"
-    role: "Co-Founder & CEO"
-  - name: "Rebecca Qian"
-    role: "Co-Founder"
-status: published
+- name: Anand Kannappan
+  role: Co-Founder & CEO
+- name: Rebecca Qian
+  role: Co-Founder
+investors:
+- round: Series A (Notable led, $17M)
+  slug: glenn-solomon
+  year: 2024
 last_researched: 2026-06-29
+location: San Francisco, CA
+name: Patronus AI
+sector:
+- ai
+- ai-safety
+- ai-evaluation
+- developer-tools
+- infrastructure
+slug: patronus-ai
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $70M
+type: startup
+website: https://www.patronus.ai
 ---
 
 ## About

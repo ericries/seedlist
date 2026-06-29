@@ -1,34 +1,45 @@
 ---
-name: "Tomo"
-slug: tomo
-type: startup
-website: "https://www.tomo.ai"
-location: "San Francisco, California"
-status_company: active
-sector: [ai, consumer-ai, productivity, personal-development, messaging]
-stage_latest: "Seed"
-total_raised: "$5M"
 firms:
-  - slug: accel
-    round: seed
-    year: 2026
-    date: 2026-06-25
-  - slug: conviction
-    round: seed
-    year: 2026
-    date: 2026-06-25
-  - slug: pear-vc
-    round: seed
-    year: 2026
-    date: 2026-06-25
-investors: []
+- date: 2026-06-25
+  round: seed
+  slug: accel
+  year: 2026
+- date: 2026-06-25
+  round: seed
+  slug: conviction
+  year: 2026
+- date: 2026-06-25
+  round: seed
+  slug: pear-vc
+  year: 2026
+- round: Seed
+  slug: nfx
+  year: 2021
 founders:
-  - name: "Justin Quan"
-    role: "CEO & Co-Founder"
-  - name: "Raymond Chen"
-    role: "CTO & Co-Founder"
-status: published
+- name: Justin Quan
+  role: CEO & Co-Founder
+- name: Raymond Chen
+  role: CTO & Co-Founder
+investors:
+- round: Seed
+  slug: pete-flint
+  year: 2021
 last_researched: 2026-06-29
+location: San Francisco, California
+name: Tomo
+sector:
+- ai
+- consumer-ai
+- productivity
+- personal-development
+- messaging
+slug: tomo
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5M
+type: startup
+website: https://www.tomo.ai
 ---
 
 ## About

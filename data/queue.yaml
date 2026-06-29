@@ -20620,7 +20620,7 @@ queue:
 - name: Chris Larsen
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ripple
   discovered_from: brad-garlinghouse
@@ -22951,7 +22951,7 @@ queue:
 - name: Bhavish Aggarwal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ola / Krutrim
   discovered_from: rehan-yar-khan
@@ -33008,3 +33008,158 @@ queue:
   added: '2026-03-17'
   discovered_from: scaled-cognition
   source: strategic investor in Scaled Cognition $100M Series A
+- name: Yellow Network
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chris-larsen
+  source: Decentralized clearing network; $10M seed led by Chris Larsen 2024-09-17
+- name: Aircela
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chris-larsen
+  source: Direct-air-capture-to-gasoline climate tech; backed by Chris Larsen, Jeff
+    Ubben, Maersk Growth
+- name: Jeff Ubben
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Inclusive Capital Partners
+  discovered_from: chris-larsen
+  source: ESG activist investor; co-invested with Chris Larsen in Aircela; former
+    ValueAct founder
+- name: Krutrim
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Bhavish Aggarwal's AI venture; India's first AI unicorn at $1B valuation
+    (Jan 2024, $50M from Matrix Partners India / Z47)
+- name: Ola Electric
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: EV manufacturer founded by Bhavish Aggarwal in 2017; IPO'd Aug 9, 2024 on
+    BSE/NSE
+- name: Ola Consumer
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Indian ride-hailing/quick-commerce co founded by Bhavish Aggarwal and Ankit
+    Bhati in 2011 (formerly Ola Cabs)
+- name: Tork Motors
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Pune EV motorcycle startup; 2016 angel round with Bharat Forge, Bhavish
+    Aggarwal, Ankit Bhati; later backed by Ratan Tata
+- name: Karkinos Healthcare
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Bengaluru oncology platform; Dec 2021 round led by Reliance Digital Health
+    with angels Venu Srinivasan, Kris Gopalakrishnan, Ronnie Screwvala, Vijay Shekhar
+    Sharma, Bhavish Aggarwal
+- name: MadRat Games
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Gaming startup; June 2016 angel round with Ratan Tata, Binny Bansal, Bhavish
+    Aggarwal, Ankit Bhati, Girish Mathrubootham
+- name: HashLearn
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Bengaluru edtech (exited); March 2016 angel round with Binny Bansal, Rajan
+    Anandan, Anupam Mittal, Bhavish Aggarwal
+- name: O'Be Cocktails
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Premium cocktails brand (shut down 2024); Aug 2021 ₹3.5 Cr angel round backed
+    by First Cheque, LetsVenture, Bhavish Aggarwal, Ankit Bhati
+- name: Kris Gopalakrishnan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pratithi Investments
+  discovered_from: bhavish-aggarwal
+  source: Infosys co-founder; angel co-investor with Bhavish Aggarwal in Karkinos
+    Healthcare Dec 2021
+- name: Ronnie Screwvala
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Unilazer Ventures
+  discovered_from: bhavish-aggarwal
+  source: Angel co-investor with Bhavish Aggarwal in Karkinos Healthcare Dec 2021
+- name: Venu Srinivasan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: TVS Motor
+  discovered_from: bhavish-aggarwal
+  source: Angel co-investor with Bhavish Aggarwal in Karkinos Healthcare Dec 2021
+- name: Vijay Shekhar Sharma
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Paytm
+  discovered_from: bhavish-aggarwal
+  source: Paytm founder; angel co-investor with Bhavish Aggarwal in Karkinos Healthcare
+    Dec 2021
+- name: Abhishek Goyal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tracxn
+  discovered_from: bhavish-aggarwal
+  source: Tracxn co-founder and active angel; co-invested with Bhavish Aggarwal in
+    O'Be Cocktails Aug 2021
+- name: Matrix Partners India
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Now rebranded Z47; led Krutrim's $50M Series A at $1B valuation in Jan 2024
+- name: First Cheque
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Seed-stage Indian fund; co-led O'Be Cocktails ₹3.5 Cr angel round Aug 2021
+    alongside Bhavish Aggarwal
+- name: LetsVenture
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bhavish-aggarwal
+  source: Indian angel-syndicate platform; participated in O'Be Cocktails Aug 2021
+    round with Bhavish Aggarwal

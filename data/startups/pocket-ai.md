@@ -1,31 +1,41 @@
 ---
-name: "Pocket"
-slug: pocket-ai
-type: startup
-website: "https://heypocket.com"
-location: "San Francisco, CA"
-founded: 2024
-status_company: active
-sector: [ai, consumer-hardware, productivity, devtools]
-stage_latest: "Seed"
-total_raised: "$11M"
-investors: []
 firms:
-  - slug: accel
-    round: seed
-    year: 2026
-    date: 2026-06-29
-  - slug: y-combinator
-    round: seed
-    year: 2026
-    date: 2026-06-29
+- date: 2026-06-29
+  round: seed
+  slug: accel
+  year: 2026
+- date: 2026-06-29
+  round: seed
+  slug: y-combinator
+  year: 2026
+- round: Seed
+  slug: baseline-ventures
+  year: 2011
+founded: 2024
 founders:
-  - name: "Akshay Narisetti"
-    role: "Co-Founder"
-  - name: "Gabriel Dymowski"
-    role: "Co-Founder"
-status: published
+- name: Akshay Narisetti
+  role: Co-Founder
+- name: Gabriel Dymowski
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: steve-anderson
+  year: 2011
 last_researched: 2026-06-29
+location: San Francisco, CA
+name: Pocket
+sector:
+- ai
+- consumer-hardware
+- productivity
+- devtools
+slug: pocket-ai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $11M
+type: startup
+website: https://heypocket.com
 ---
 
 ## About

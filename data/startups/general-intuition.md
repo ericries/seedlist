@@ -16,6 +16,9 @@ firms:
   round: series-a
   slug: general-catalyst
   year: 2026
+- round: Series A ($320M, Khosla-led, $2.3B valuation)
+  slug: innovation-endeavors
+  year: 2026
 investors:
 - date: 2026-06-25
   round: series-a

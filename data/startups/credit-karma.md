@@ -43,6 +43,9 @@ firms:
 - round: Seed (led)
   slug: 500-global
   year: 2009
+- round: Board / advisor (former)
+  slug: ripple
+  year: 2008
 founded: 2007
 founders:
 - name: Kenneth Lin
@@ -79,6 +82,9 @@ investors:
 - round: Series C
   slug: laela-sturdy
   year: 2014
+- round: Board / advisor (former)
+  slug: chris-larsen
+  year: 2008
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Credit Karma
