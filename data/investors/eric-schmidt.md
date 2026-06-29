@@ -1,11 +1,11 @@
 ---
 check_size: $1M-$15M (Innovation Endeavors); variable as angel/Hillspire
 firm: innovation-endeavors
-last_researched: 2026-03-25
+last_researched: 2026-06-28
 last_verified_investment:
-  company: Goodfire
-  date: 2026-02-05
-  round: Series B
+  company: General Intuition
+  date: 2026-06-25
+  round: Series A
 location: Palo Alto, CA
 name: Eric Schmidt
 role: Founding Partner
@@ -109,6 +109,7 @@ Note: Some companies span multiple categories. The sector concentration in AI/de
 | Goodfire | 2026-02-05 | Series B ($150M, B Capital-led, $1.25B valuation) | AI Interpretability | [^27][^31][^32] |
 | Dosu | ~2023 | Early | AI / Developer Tools | [^25] |
 | Vicarious Surgical | ~2020 | Early | Robotics / Surgery | [^25] |
+| General Intuition | 2026-06-25 | Series A ($320M, Khosla-led, $2.3B valuation) | AI / Embodied AI / Gaming | [^33][^34] |
 
 *This table represents a partial sample. Innovation Endeavors' total portfolio exceeds 160 companies as of early 2026 [^28]; Hillspire's AI portfolio alone includes 22 firms [^6]. Only investments with confirmed sourcing are listed here.*
 
@@ -219,3 +220,7 @@ No additional independently sourced founder testimonials found. Innovation Endea
 [^31]: PR Newswire, "AI Lab Goodfire Raises $150M at $1.25B Valuation to Design Models with Interpretability," February 5, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/ai-lab-goodfire-raises-150m-at-1-25b-valuation-to-design-models-with-interpretability-302680120.html — Primary press release: $150M Series B led by B Capital on February 5, 2026; Eric Schmidt named among investors.
 
 [^32]: Goodfire blog, "Understanding, Learning From, and Designing AI: Our Series B," February 5, 2026. Accessed June 2026. https://www.goodfire.ai/blog/our-series-b — Company's own announcement confirming February 5, 2026 Series B; B Capital lead; Eric Schmidt among participants.
+
+[^33]: TechCrunch, "General Intuition's $2.3B bet that video games can train AI agents for the real world," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/ — Confirms Eric Schmidt participated in General Intuition's $320M Series A led by Khosla Ventures at $2.3B post-money valuation, alongside Jeff Bezos, Nico Rosberg, and General Catalyst.
+
+[^34]: GamesBeat, "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay | exclusive interview," June 25, 2026. Accessed June 2026. https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/ — Independent confirmation of Eric Schmidt's participation; co-investors include Hedosophia, cofounders of Remote and Cradle, researchers at Google DeepMind and MIT.

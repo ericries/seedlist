@@ -150,6 +150,7 @@ The following table includes DST Global investments verified through press cover
 | Quince | Series E | 2026 | E-commerce / Consumer | Private [^6][^24] |
 | Ricursive Intelligence | Series A (participated) | 2026-01-26 | AI / Semiconductor Design | Private [^31][^32][^33] |
 | Prometheus | Series B (participated) | 2026-06-11 | AI / Industrial AI | Private [^34][^35][^36] |
+| Partly | Series B (led, $50M at $500M val) | 2026-06-23 | AI / Automotive / Vertical SaaS | Private [^37][^38][^39] |
 
 *Note: This table includes 34 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
@@ -273,3 +274,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^35]: Semafor, "Jeff Bezos raises $12B for AI that builds things," June 11, 2026. Accessed June 2026. https://www.semafor.com/article/06/11/2026/jeff-bezos-raises-12b-for-ai-that-builds-things — Confirms DST Global as a Series B backer alongside JPMorgan, BlackRock, Goldman Sachs, and Arch Venture Partners.
 
 [^36]: Benzinga, "Jeff Bezos' AI Startup Prometheus Hits $41 Billion As Investors Back Industrial AI," June 11, 2026. Accessed June 2026. https://www.benzinga.com/markets/private-markets/26/06/53151499/jeff-bezos-ai-startup-prometheus-hits-41-billion-as-investors-back-industrial-ai — Confirms DST Global as Series B participant.
+
+[^37]: PR Newswire, "Partly Closes Historic Series B Raise at $500M Valuation and Announces Immediate US Market Expansion," June 23, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/partly-closes-historic-series-b-raise-at-500m-valuation-and-announces-immediate-us-market-expansion-302807008.html — Confirms DST Global Partners led the $50M Series B at $500M valuation.
+
+[^38]: Yahoo Finance, "Partly Closes Historic Series B Raise at $500M Valuation and Announces Immediate US Market Expansion," June 23, 2026. Accessed June 2026. https://uk.finance.yahoo.com/news/partly-closes-historic-series-b-130000166.html — Independent wire confirmation; calls DST Global Partners "the investor behind industry-defining brands like Anthropic, Meta, Alibaba, Airbnb, and Spotify."
+
+[^39]: The SaaS News, "Partly Raises $50M Series B," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/partly-raises-50m-series-b/ — Third confirmation of DST Global-led Series B at $500M valuation.

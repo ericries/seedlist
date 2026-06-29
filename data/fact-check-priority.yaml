@@ -2326,3 +2326,35 @@ priority:
   type: startup
   reason: "new startup profile (Bridge 2026-06-26, €1.1M from BSV Ventures and SAB)"
   added: 2026-06-28
+- slug: hera
+  type: startup
+  reason: "new startup profile (Series A 2026-06-25, $27M led by Bain Capital Ventures; Accel and IA Ventures participated)"
+  added: 2026-06-28
+- slug: general-intuition
+  type: startup
+  reason: "new startup profile (Series A 2026-06-25, $320M at $2.3B led by Khosla Ventures; General Catalyst, Jeff Bezos, Eric Schmidt, Nico Rosberg, Hedosophia participated)"
+  added: 2026-06-28
+- slug: quantifind
+  type: startup
+  reason: "new startup profile (Growth 2026-06-26, $200M led by Summit Partners; Citi Ventures, S&P Global, Deloitte, Stephens Group participated)"
+  added: 2026-06-28
+- slug: partly
+  type: startup
+  reason: "new startup profile (Series B 2026-06-23, $50M at $500M val led by DST Global Partners)"
+  added: 2026-06-28
+- slug: accel
+  type: firm
+  reason: "appeared in Hera Series A ($27M, 2026-06-25)"
+  added: 2026-06-28
+- slug: dst-global
+  type: firm
+  reason: "led Partly Series B ($50M at $500M val, 2026-06-23)"
+  added: 2026-06-28
+- slug: summit-partners
+  type: firm
+  reason: "led Quantifind Growth ($200M, 2026-06-26)"
+  added: 2026-06-28
+- slug: eric-schmidt
+  type: investor
+  reason: "appeared in General Intuition Series A ($320M at $2.3B, 2026-06-25)"
+  added: 2026-06-28
