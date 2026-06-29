@@ -143,6 +143,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Syracuse-based Archimede closes €1.5 million Seed round for remote infrastructure
+    monitoring
+  url: https://www.eu-startups.com/2026/06/syracuse-based-archimede-closes-e1-5-million-seed-round-for-remote-infrastructure-monitoring/
+  source: eu-startups
+  date_found: '2026-06-29'
+  parsed_company: Syracuse-based Archimede
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
     Due 2029
   url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
@@ -822,12 +831,4 @@ pending_rounds:
   parsed_company: Convey
   parsed_amount: $38M
   parsed_round: Series A
-  status: pending
-- title: Pramaana Labs raised $27M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Pramaana Labs
-  parsed_amount: $27M
-  parsed_round: Seed
   status: pending
