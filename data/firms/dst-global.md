@@ -150,7 +150,7 @@ The following table includes DST Global investments verified through press cover
 | Quince | Series E | 2026 | E-commerce / Consumer | Private [^6][^24] |
 | Ricursive Intelligence | Series A (participated) | 2026-01-26 | AI / Semiconductor Design | Private [^31][^32][^33] |
 | Prometheus | Series B (participated) | 2026-06-11 | AI / Industrial AI | Private [^34][^35][^36] |
-| Partly | Series B (led, $50M at $500M val) | 2026-06-23 | AI / Automotive / Vertical SaaS | Private [^37][^38][^39] |
+| Partly | Series B (led, $50M at $500M val) | 2026-06-23 | AI / Automotive / Vertical SaaS | Private [^37][^38][^39][^40][^41] |
 
 *Note: This table includes 34 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
@@ -280,3 +280,7 @@ No independently sourced negative or critical founder testimonials were found in
 [^38]: Yahoo Finance, "Partly Closes Historic Series B Raise at $500M Valuation and Announces Immediate US Market Expansion," June 23, 2026. Accessed June 2026. https://uk.finance.yahoo.com/news/partly-closes-historic-series-b-130000166.html — Independent wire confirmation; calls DST Global Partners "the investor behind industry-defining brands like Anthropic, Meta, Alibaba, Airbnb, and Spotify."
 
 [^39]: The SaaS News, "Partly Raises $50M Series B," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/partly-raises-50m-series-b/ — Third confirmation of DST Global-led Series B at $500M valuation.
+
+[^40]: NewsWire NZ, "Christchurch-founded Partly raises US$50 million and closes in on New Zealand unicorn status," June 2026. Accessed June 2026. https://newswire.co.nz/2026/06/partly-series-b-50-million-dst-global-2026/ — NZ-based contemporaneous press; confirms US$50M led by DST Global at US$500M valuation; partial close with no further raise expected until 2027; total capital to date US$92.4M.
+
+[^41]: SiliconANGLE, "Partly raises $50M at a $500M valuation to crack the US auto parts market," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/partly-raises-50m-500m-valuation-crack-us-auto-parts-market/ — Independent tier-1 tech press confirmation of $50M Series B led by DST Global Advisors Ltd. at $500M valuation.

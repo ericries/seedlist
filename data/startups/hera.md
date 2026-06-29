@@ -4,6 +4,9 @@ firms:
   round: series-a
   slug: accel
   year: 2026
+founders:
+- name: Jenny Lee
+  role: Co-Founder & CEO
 last_researched: 2026-06-28
 location: New York, NY
 name: Hera
@@ -35,11 +38,15 @@ Angel investors in the round included the CFO of Mount Sinai [^1][^2].
 
 ## What Investors Say
 
-No independently sourced investor quotes incorporated at this time.
+"Hera's AI platform doesn't just surface options—it learns what actually helps families." — Alysaa Co, Partner at Bain Capital Ventures [^2]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+"Healthcare navigation for aging families has remained painfully analog because the most valuable context outside the hospital has never been captured in systems." — Jenny Lee, Co-Founder & CEO [^2]
+
+"This problem hasn't gone unsolved because of a lack of demand, but because critical caregiving knowledge lives in scattered human experience." — Jenny Lee, Co-Founder & CEO [^3]
+
+"Creating this new profession and replacing that role the adult daughter has held—she gets to go focus on her career, her family, and important quality time with her parent." — Jenny Lee, Co-Founder & CEO [^1]
 
 ## Sources
 

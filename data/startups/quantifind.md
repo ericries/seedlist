@@ -4,6 +4,9 @@ firms:
   round: growth
   slug: summit-partners
   year: 2026
+founders:
+- name: Ari Tuchman
+  role: CEO & Co-Founder
 last_researched: 2026-06-28
 location: Menlo Park, CA
 name: Quantifind

@@ -105,7 +105,7 @@ Based on Summit's portfolio of 550+ companies and the 57 current portfolio compa
 | E-TEK Dynamics | Growth | 1997 | Telecom | Merged with JDS Uniphase (~$18B) | [^7][^7] |
 | Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7][^7] |
 | Runpod | Growth (led, $100M at $1B post-money) | 2026-06-24 | AI Infrastructure / GPU Cloud / Developer Tools | Active | [^runpod1][^runpod2][^runpod3] |
-| Quantifind | Growth (led, $200M) | 2026-06-26 | AI / Fintech / RegTech | Active | [^quantifind1][^quantifind2] |
+| Quantifind | Growth (led, $200M) | 2026-06-26 | AI / Fintech / RegTech | Active | [^quantifind1][^quantifind2][^quantifind3] |
 
 *This table represents approximately 25 of 550+ known investments. Summit's portfolio includes 175+ IPOs and 250+ strategic exits [^3].*
 
@@ -162,3 +162,5 @@ No independently sourced founder testimonials found. Summit Partners' portfolio 
 [^quantifind1]: Summit Partners, "Quantifind Announces $200 Million Growth Investment to Advance AI-native Risk Intelligence and Governed Agentic Middleware for Modern Risk Operations," June 26, 2026. Accessed June 2026. https://www.summitpartners.com/news/quantifind-announces-200-million-growth-investment-to-advance-ai-native-risk-intelligence — Primary release: Summit led the $200M growth round; Summit Managing Director Chris Dean joined the Quantifind board.
 
 [^quantifind2]: PR Newswire, "Quantifind Announces $200 Million Growth Investment Led by Summit Partners to Advance AI-native Risk Intelligence and Governed Agentic Middleware for Modern Risk Operations," June 26, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/quantifind-announces-200-million-growth-investment-led-by-summit-partners-to-advance-ai-native-risk-intelligence-and-governed-agentic-middleware-for-modern-risk-operations-302811746.html — Independent wire confirmation; lists participating investors as Citi Ventures, S&P Global, Deloitte, and Stephens Group.
+
+[^quantifind3]: PYMNTS, "Quantifind Secures $200 Million to Scale AI-Native Risk Intelligence Platform," June 26, 2026. Accessed June 2026. https://www.pymnts.com/news/investment-tracker/2026/quantifind-secures-200-million-to-scale-ai-native-risk-intelligence-platform/ — Independent contemporaneous trade-press confirmation; corroborates $200M growth round led by Summit Partners with participation from Citi Ventures, S&P Global, Deloitte, and Stephens Group, and CEO Ari Tuchman quote.

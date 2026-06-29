@@ -2339,6 +2339,9 @@ priority:
   type: startup
   reason: "new startup profile (Series A 2026-06-25, $27M led by Bain Capital Ventures; Accel and IA Ventures participated)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Hera Series A $27M on 2026-06-25 led by Bain Capital Ventures (Partner Alysaa Co), with Accel and IA Ventures (both existing) participating, via 3 independent primary sources (Fortune [^1], Pulse2 [^2], HIT Consultant [^3]). Founder Jenny Lee (CEO, Palantir alum) added to frontmatter. Added Alysaa Co investor quote and 3 verbatim Jenny Lee founder quotes. Accel firm portfolio row already had 3 citations [^105][^106][^107] from prior sweep — no edits needed. New queue leads: Bain Capital Ventures (firm), Alysaa Co (individual), IA Ventures (firm)."
 - slug: general-intuition
   type: startup
   reason: "new startup profile (Series A 2026-06-25, $320M at $2.3B led by Khosla Ventures; General Catalyst, Jeff Bezos, Eric Schmidt, Nico Rosberg, Hedosophia participated)"
@@ -2347,22 +2350,37 @@ priority:
   type: startup
   reason: "new startup profile (Growth 2026-06-26, $200M led by Summit Partners; Citi Ventures, S&P Global, Deloitte, Stephens Group participated)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Quantifind growth investment $200M on 2026-06-26 led by Summit Partners (MD Chris Dean joined board), with Citi Ventures, S&P Global, Deloitte, Stephens Group participating, via 3 independent primary sources (Summit Partners press release [^1], PR Newswire [^2], PYMNTS [^3]). Added PYMNTS as 3rd citation to summit-partners.md portfolio row (previously had 2). Added Ari Tuchman (CEO & Co-Founder) to quantifind.md frontmatter. New queue leads: Citi Ventures, S&P Global, Deloitte Ventures, Stephens Group (all firms)."
 - slug: partly
   type: startup
   reason: "new startup profile (Series B 2026-06-23, $50M at $500M val led by DST Global Partners)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Partly Series B $50M USD at $500M valuation on 2026-06-23 led by DST Global Partners (no co-investors named — partial close, no further raise expected until 2027) via 4 independent primary sources (PR Newswire [^1], NewsWire NZ [^2], SiliconANGLE [^3], TechFundingNews [^4]). Naming variants 'DST Global', 'DST Global Partners', 'DST Global Advisors Ltd.' all refer to the Yuri Milner firm. Added prior Series A row to funding history (2022-12, $37M, Octopus Ventures-led, $180M val) and updated total_raised to $92.4M. Founder Levi Fawcett (ex-Rocket Lab). HQ moved Christchurch NZ to Austin TX. dst-global.md portfolio row strengthened with 2 additional citations (now 5 total). New queue lead: Octopus Ventures (firm)."
 - slug: accel
   type: firm
   reason: "appeared in Hera Series A ($27M, 2026-06-25)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Accel participation in Hera Series A $27M on 2026-06-25 (Bain Capital Ventures led; IA Ventures co-participated) via 3 independent primary sources (Fortune, Pulse2, HIT Consultant). Hera row already present in accel.md portfolio table with 3 citations [^105][^106][^107] from prior sweep — no edits needed."
 - slug: dst-global
   type: firm
   reason: "led Partly Series B ($50M at $500M val, 2026-06-23)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified DST Global led Partly Series B $50M USD at $500M post-money on 2026-06-23 via 4 independent primary sources (PR Newswire, NewsWire NZ, SiliconANGLE, TechFundingNews). Strengthened Partly portfolio row in dst-global.md with 2 additional citations (5 total). Partial close — no co-investors named; no further raise expected until 2027. Founder Levi Fawcett (ex-Rocket Lab); HQ moved to Austin TX from Christchurch NZ."
 - slug: summit-partners
   type: firm
   reason: "led Quantifind Growth ($200M, 2026-06-26)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Summit Partners led Quantifind $200M growth investment on 2026-06-26 with Citi Ventures, S&P Global, Deloitte, Stephens Group participating, via 3 independent primary sources (Summit Partners press release, PR Newswire, PYMNTS). Added PYMNTS as 3rd citation to summit-partners.md Quantifind portfolio row. MD Chris Dean joined Quantifind board."
 - slug: eric-schmidt
   type: investor
   reason: "appeared in General Intuition Series A ($320M at $2.3B, 2026-06-25)"

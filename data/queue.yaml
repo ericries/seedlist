@@ -32692,3 +32692,28 @@ queue:
   discovered_from: twenty-technologies
   source: Co-founder & CEO of Twenty (cyber warfare); subject of Accel-led $100M Series
     B (2026-06-17)
+- name: Alysaa Co
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bain Capital Ventures
+  discovered_from: hera
+- name: Stephens Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantifind
+- name: S&P Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantifind
+- name: Deloitte Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantifind
