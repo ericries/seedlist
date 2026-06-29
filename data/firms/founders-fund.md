@@ -244,6 +244,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Binti | Seed (participated) | 2015-03 | Govtech / Child Welfare SaaS | Private [^62][^63] |
 | Westmag | Seed (participated; a16z led) | 2026-06-02 | Drone Motors / Robot Actuators / Hard Tech | Private [^64][^65][^66] |
 | Poetic | Series A (participated; Kleiner Perkins led, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^68][^69][^70] |
+| Stark Defence | Series C (co-led with Sequoia Capital, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^71][^72][^73] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -424,3 +425,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^69]: The Next Web, "OpenAI backs Poetic to automate underwriting and compliance," June 10, 2026. Accessed June 2026. https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting — Independent confirmation of Founders Fund participation in Poetic's $50M Series A.
 
 [^70]: Benzinga, "Poetic Raises $50 Million From Investors At $500 Million Valuation, Led By Kleiner Perkins," June 10, 2026. Accessed June 2026. https://www.benzinga.com/markets/private-markets/26/06/53127581/poetic-raises-50-million-from-investors-at-500-million-valuation-led-by-kleiner-perkins — Third independent confirmation: "Its backers include OpenAI, Peter Thiel's Founders Fund, and Kleiner Perkins."
+
+[^71]: Sifted, "Drones startup Stark confirms €500m raise backed by Sequoia and Founders Fund," June 23, 2026. Accessed June 2026. https://sifted.eu/articles/stark-defence-drones-funding-round-confirms — Primary press confirmation that Founders Fund co-led Stark Defence's €500M Series C with Sequoia Capital at a €3.5B+ post-money valuation.
+
+[^72]: The Next Web, "Stark Defence raises €500M led by Sequoia and Founders Fund at a valuation above €3.5 billion," June 23, 2026. Accessed June 2026. https://thenextweb.com/news/stark-defence-500-million-sequoia-founders-fund-3-5-billion-valuation — Independent confirmation of Founders Fund co-lead role.
+
+[^73]: Bloomberg, "Sequoia, Founders Fund Back German Drone Startup Stark at $3.5 Billion Valuation," June 23, 2026. Accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-23/sequoia-founders-fund-back-german-drone-startup-stark-at-3-5-billion-valuation — Tier-1 press confirming Founders Fund co-led the Stark Defence round.

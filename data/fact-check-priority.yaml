@@ -2461,3 +2461,11 @@ priority:
   type: firm
   reason: "participated in Gaussion Series B €24.5M (2026-06-29)"
   added: 2026-06-29
+- slug: sequoia-capital
+  type: firm
+  reason: "co-led Stark Defence Series C €500M at €3.5B+ post-money (2026-06-23)"
+  added: 2026-06-29
+- slug: founders-fund
+  type: firm
+  reason: "co-led Stark Defence Series C €500M at €3.5B+ post-money (2026-06-23)"
+  added: 2026-06-29

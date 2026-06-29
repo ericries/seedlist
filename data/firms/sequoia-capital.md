@@ -239,6 +239,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Sandstone | Seed (led, $10M) | 2026-01-13 | AI / Legal Tech | Private [^82][^83][^84] |
 | Peregrine Technologies | Series C (led, $190M) → Series D (participated, $250M at $6.8B val; Fifth Down Capital led) | 2024; 2026-06-23 | GovTech / Public Safety / Data | Private [^85][^86][^87] |
 | Probook | Seed (led, $6M) → Series A (participated, $34M; Andreessen Horowitz led) | 2026-06-23 | AI / Vertical SaaS / Home Services | Private [^88][^89][^90] |
+| Stark Defence | Series C (co-led with Founders Fund, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^91][^92][^93] |
 
 *Note: This table includes 42 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
@@ -484,3 +485,9 @@ The following table includes Sequoia Capital investments verified through the fi
 [^89]: Andreessen Horowitz, "Investing in Probook," portfolio announcement. Accessed June 2026. https://a16z.com/announcement/investing-in-probook/ — a16z's own announcement confirming it led the $34M Series A and Sequoia led the prior $6M Seed.
 
 [^90]: Tech Funding News, "Built by a tradesman backed by a16z and Sequoia, Probook raises $40M to reinvent dispatch for America's home service businesses," June 23, 2026. Accessed June 2026. https://techfundingnews.com/built-by-a-tradesman-backed-by-a16z-and-sequoia-probook-raises-40m-to-reinvent-dispatch-for-americas-home-service-businesses/ — Independent press confirmation of the $40M total raise (Seed led by Sequoia, Series A led by a16z) and June 23, 2026 announcement date.
+
+[^91]: Sifted, "Drones startup Stark confirms €500m raise backed by Sequoia and Founders Fund," June 23, 2026. Accessed June 2026. https://sifted.eu/articles/stark-defence-drones-funding-round-confirms — Primary press confirmation that Sequoia Capital and Founders Fund co-led Stark Defence's €500M round at a €3.5B+ post-money valuation.
+
+[^92]: The Next Web, "Stark Defence raises €500M led by Sequoia and Founders Fund at a valuation above €3.5 billion," June 23, 2026. Accessed June 2026. https://thenextweb.com/news/stark-defence-500-million-sequoia-founders-fund-3-5-billion-valuation — Independent confirmation of Sequoia/Founders Fund co-lead and €500M Series C round.
+
+[^93]: Bloomberg, "Sequoia, Founders Fund Back German Drone Startup Stark at $3.5 Billion Valuation," June 23, 2026. Accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-23/sequoia-founders-fund-back-german-drone-startup-stark-at-3-5-billion-valuation — Tier-1 press confirmation of the Sequoia + Founders Fund co-led round.
