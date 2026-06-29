@@ -152,6 +152,54 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/29/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-29-2026/
+  source: alleywatch
+  date_found: '2026-06-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Labs raised $135M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Labs
+  parsed_amount: $135M
+  parsed_round: Series A
+  status: pending
+- title: Gaussion raised $28M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Gaussion
+  parsed_amount: $28M
+  parsed_round: null
+  status: pending
+- title: Daybreak raised $75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Daybreak
+  parsed_amount: $75M
+  parsed_round: null
+  status: pending
+- title: Discipulus Ventures raised $30M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Discipulus Ventures
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Framework Ventures raised $400M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Framework Ventures
+  parsed_amount: $400M
+  parsed_round: null
+  status: pending
 - title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
     Due 2029
   url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
@@ -783,52 +831,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 6/22/26'
-  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-22-26/
-  source: alleywatch
-  date_found: '2026-06-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Dream raised $260M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Dream
-  parsed_amount: $260M
-  parsed_round: null
-  status: pending
-- title: XDOF raised $70M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: XDOF
-  parsed_amount: $70M
-  parsed_round: null
-  status: pending
-- title: Gradial raised $65M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Gradial
-  parsed_amount: $65M
-  parsed_round: Series C
-  status: pending
-- title: Verse raised $54M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Verse
-  parsed_amount: $54M
-  parsed_round: Series B
-  status: pending
-- title: Convey raised $38M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Convey
-  parsed_amount: $38M
-  parsed_round: Series A
   status: pending

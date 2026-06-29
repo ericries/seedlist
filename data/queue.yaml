@@ -33163,3 +33163,70 @@ queue:
   discovered_from: bhavish-aggarwal
   source: Indian angel-syndicate platform; participated in O'Be Cocktails Aug 2021
     round with Bhavish Aggarwal
+- name: JRE Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: h3-zoom
+  source: Led H3 Zoom $3.6M Series A (2026-06-22)
+- name: Wavemaker Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chemt-biotechnology
+  source: Led ChemT Biotechnology $4M Seed (2026-06-23)
+- name: Wavemaker 360 Health
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chemt-biotechnology
+  source: Participated in ChemT Biotechnology $4M Seed (2026-06-23)
+- name: Temasek Life Sciences Accelerator
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chemt-biotechnology
+  source: Participated in ChemT Biotechnology $4M Seed (2026-06-23)
+- name: Draper University Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chemt-biotechnology
+  source: Participated in ChemT Biotechnology $4M Seed (2026-06-23)
+- name: Junichi Eto
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: JRE Ventures
+  discovered_from: h3-zoom
+  source: Quoted on H3 Zoom $3.6M Series A (2026-06-22)
+- name: Hsien-Hui Tong
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SGInnovate
+  discovered_from: h3-zoom
+  source: Quoted on H3 Zoom $3.6M Series A (2026-06-22)
+- name: Paul Santos
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Wavemaker Partners
+  discovered_from: chemt-biotechnology
+  source: Co-Founder Wavemaker Partners, quoted on ChemT $4M Seed (2026-06-23)
+- name: Philipp Wu
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: XDOF
+  discovered_from: xdof
+  source: Co-Founder & CEO, XDOF $70M (2026-06-17)
