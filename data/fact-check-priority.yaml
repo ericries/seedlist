@@ -361,6 +361,7 @@ priority:
   type: firm
   reason: led H1 $40M growth round (2026-05-28)
   added: 2026-05-31
+  status: investigating
 - slug: silicon-road-ventures
   type: firm
   reason: led Rep AI $6.2M Series A extension (2026-05-28)
@@ -436,10 +437,12 @@ priority:
   type: firm
   reason: co-led Inherent $50M seed (2026-05-28)
   added: 2026-05-30
+  status: investigating
 - slug: kfund
   type: firm
   reason: led Mafer AI €2M pre-seed (2026-05-29)
   added: 2026-05-29
+  status: investigating
 - slug: xtx-ventures
   type: firm
   reason: co-led Kopa.ai €2M seed (2026-05-28)
@@ -2493,3 +2496,11 @@ priority:
   status: resolved
   resolved: 2026-06-29
   resolution_note: "Verified Founders Fund co-led Stark Defence EUR 500M Series C on 2026-06-23 (Sequoia Capital co-led) via 3 independent primary sources already in founders-fund.md: Sifted [^71], The Next Web [^72], and Bloomberg [^73]. No changes needed — citation count already meets 3-source threshold and round details verified accurate."
+- slug: andreessen-horowitz
+  type: firm
+  reason: "participant via a16z Bio+Health in Ollin Biosciences Series B ($330M oversubscribed, 2026-06-23)"
+  added: 2026-06-29
+- slug: pitango-venture-capital
+  type: firm
+  reason: "existing investor in AppsFlyer Series E ($1B+ at $2.7B valuation, 2026-06-22)"
+  added: 2026-06-29

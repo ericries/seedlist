@@ -104,6 +104,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Via | Series B | 2015 | Mobility & Smart City | [^15] [^49] |
 | Tomorrow.io | Growth | 2018 | Climatech | [^15] |
 | AI21 Labs | Seed | 2017 | Generative AI | [^18] |
+| AppsFlyer | Series E | 2026-06-22 | Sales & Marketing | [^56] |
 | AppsFlyer | Series A | 2014 | Sales & Marketing | [^19] |
 | Riskified | Series C | 2017 | Fintech & InsureTech | [^15] [^23] |
 | Taboola | Series D | 2013 | Media & Gaming | [^15] [^24] |
@@ -263,3 +264,4 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^53]: PR Newswire, "DriveNets Secures $410M Series D to Meet Surging Demand for Ethernet Fabric in Large-Scale AI Deployments," June 1, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/drivenets-secures-410m-series-d-to-meet-surging-demand-for-ethernet-fabric-in-large-scale-ai-deployments-302787589.html
 [^54]: Silicon Report, "DriveNets raises $410M Series D with Bessemer, Atreides, AMD," June 2026, accessed June 2026. https://www.siliconreport.com/drivenets-raises-410m-series-d-with-bessemer-atreides-amd-bfce482b3965922c
 [^55]: The SaaS News, "DriveNets Raises $410M Series D," June 2026, accessed June 2026. https://www.thesaasnews.com/news/drivenets-raises-410m-series-d/
+[^56]: Axios, "AppsFlyer secures $1 billion investment from Google, Meta, Unity and Moloco," June 22, 2026, accessed June 2026. https://www.axios.com/2026/06/22/appsflyer-billion-moloco-google-meta-unity
