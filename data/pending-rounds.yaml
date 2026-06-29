@@ -118,6 +118,31 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: RoboStrategy, Inc. Raises Approximately $33.9 Million Through Private Share
+    Issuances
+  url: https://www.globenewswire.com/news-release/2026/06/29/3318964/0/en/RoboStrategy-Inc-Raises-Approximately-33-9-Million-Through-Private-Share-Issuances.html
+  source: globenewswire
+  date_found: '2026-06-29'
+  parsed_company: RoboStrategy, Inc.
+  parsed_amount: $33.9M
+  parsed_round: null
+  status: pending
+- title: Pocket raises $11M in bet on rising demand for AI note-taking devices
+  url: https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/
+  source: techcrunch
+  date_found: '2026-06-29'
+  parsed_company: Pocket
+  parsed_amount: $11M
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 6/29/26'
+  url: https://alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-29-26/
+  source: alleywatch
+  date_found: '2026-06-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
     Due 2029
   url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
@@ -804,29 +829,5 @@ pending_rounds:
   date_found: '2026-06-19'
   parsed_company: Pramaana Labs
   parsed_amount: $27M
-  parsed_round: Seed
-  status: pending
-- title: Critical Energy raised $19M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Critical Energy
-  parsed_amount: $19M
-  parsed_round: Seed
-  status: pending
-- title: Trace Finance raised $32M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Trace Finance
-  parsed_amount: $32M
-  parsed_round: Series A
-  status: pending
-- title: BoolSi raised $6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: BoolSi
-  parsed_amount: $6M
   parsed_round: Seed
   status: pending

@@ -141,6 +141,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | ComfyUI | Series A (led) | 2026-04-24 | AI / Generative Media | Active — $30M at $500M val [^12] |
 | Supabase | Series F (participant) | 2026-06-04 | Enterprise/Developer Tools (Database) | Active — $500M at $10.5B post-money, GIC led [^14][^15][^16] |
 | Allen Control Systems | Series B (participant) | 2026-06-05 | Defense Tech / Counter-Drone | Active — $200M at $2.2B post-money, Smash Capital led; Rally Ventures, Inspired Capital also participated [^19][^20][^21] |
+| Samepage | Seed (co-led with Freestyle VC and Glasswing Ventures) | 2026-06-29 | AI / Product Management / SaaS | Active — $4.85M, with angels Justin Kan and Matt Mullenweg [^22] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -189,3 +190,5 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^19]: BusinessWire/Yahoo Finance, "Allen Control Systems Raises $200 Million Series B at $2.2 Billion Post-Money Valuation to Scale Manufacturing and Accelerate Deployment of Bullfrog," June 5, 2026. Accessed June 2026. https://sg.finance.yahoo.com/news/allen-control-systems-raises-200-141300911.html
 [^20]: Pulse 2.0, "Allen Control Systems Raises $200 Million Series B At $2.2 Billion Valuation To Scale Bullfrog Autonomous Weapon Systems," June 5, 2026. Accessed June 2026. https://pulse2.com/allen-control-systems-raises-200-million-series-b-at-2-2-billion-valuation-to-scale-bullfrog-autonomous-weapon-systems/
 [^21]: VCNewsDaily, "Allen Control Systems Scoops Up $200M Series B," June 2026. Accessed June 2026. https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz
+
+[^22]: FinSMEs, "Samepage.ai Raises $4.85M in Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/samepage-ai-raises-4-85m-in-funding.html — Confirms Craft Ventures co-led Samepage's $4.85M seed alongside Freestyle VC and Glasswing Ventures, with Justin Kan and Matt Mullenweg participating as angels.

@@ -206,6 +206,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
 | Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025; Vinod Khosla and Jon Chu personally championed) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3][^runlayer4][^runlayer5] |
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
+| Scaled Cognition | Series A (led, $100M; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2] |
 
 *Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -406,3 +407,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^genint2]: Tech Funding News, "Khosla wrote two cheques in three months, now General Intuition wants a third," June 2026. Accessed June 2026. https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/ — Independent confirmation; states the Series A closed roughly three months after a $133.7M seed round in October 2025 and brings total disclosed funding to $454M.
 
 [^genint3]: GamesBeat, "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay | exclusive interview," June 25, 2026. Accessed June 2026. https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/ — Exclusive interview with CEO Pim de Witte; confirms Khosla Ventures led $320M Series A at $2.3B valuation with General Catalyst, Hedosophia, Bezos, Schmidt, Rosberg, and cofounders of Remote and Cradle participating; round closed January 2026, announced June 2026.
+
+[^sc1]: GlobeNewswire, "Scaled Cognition Raises $100M Series A Led by Khosla Ventures to Build Reliable Enterprise AI," June 25, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/25/3317460/0/en/scaled-cognition-raises-100m-series-a-led-by-khosla-ventures-to-build-reliable-enterprise-ai.html — Primary press release confirming Khosla Ventures led Scaled Cognition's $100M Series A with Genesys participating; includes verbatim Vinod Khosla quote.
+
+[^sc2]: SiliconANGLE, "Scaled Cognition nabs $100M to automate high stakes customer interactions," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/scaled-cognition-nabs-100m-automate-high-stakes-customer-interactions/ — Independent confirmation of Khosla-led $100M Series A and Genesys participation.

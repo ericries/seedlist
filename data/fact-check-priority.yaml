@@ -2441,3 +2441,23 @@ priority:
   status: resolved
   resolved: 2026-06-29
   resolution_note: "Verified Conviction participated in Tomo USD 5M Seed on 2026-06-25 (Bain-led) via 3 independent primary sources: BusinessWire press release [^tomo1], Pulse 2.0 [^tomo2], and TheSaaSNews [^tomo3] (newly added). Added TheSaaSNews as 3rd citation to conviction.md Tomo portfolio row."
+- slug: accel
+  type: firm
+  reason: "led Pocket $11M seed (2026-06-29)"
+  added: 2026-06-29
+- slug: y-combinator
+  type: firm
+  reason: "participated in Pocket $11M seed (2026-06-29)"
+  added: 2026-06-29
+- slug: khosla-ventures
+  type: firm
+  reason: "led Scaled Cognition $100M Series A (2026-06-25)"
+  added: 2026-06-29
+- slug: craft-ventures
+  type: firm
+  reason: "co-led Samepage $4.85M seed (2026-06-29)"
+  added: 2026-06-29
+- slug: future-ventures
+  type: firm
+  reason: "participated in Gaussion Series B €24.5M (2026-06-29)"
+  added: 2026-06-29

@@ -93,6 +93,7 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | The Metals Company | Board seat | 2024 | Deep-sea mining / metals | [^26] |
 | Amplifier Therapeutics | Series A ($33.25M) | 2023 | Biotech / longevity therapeutics | [^37] |
 | Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^38][^39] |
+| Gaussion | Series B (participated, €24.5M; BGF and AlbionVC co-led) | 2026-06-29 | Batteries / Deeptech / Climate | [^40][^41] |
 
 *This table represents approximately 33% of Future Ventures' reported 66 investments. Many early-stage investments have not been publicly disclosed. Several investments listed (SpaceX, Tesla, Planet Labs, Mythic) were originally made while Jurvetson was at DFJ and carried over or continued through Future Ventures.*
 
@@ -187,3 +188,7 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^38]: Pumpkinseed press, "Pumpkinseed Raises $20M Series A to Unlock Biology's Most Valuable Hidden Data Layer," May 5, 2026, accessed May 2026. https://www.pumpkinseed.bio/ — Series A co-led by NFX and Future Ventures. Funding will scale Pumpkinseed's deSIPHR nanophotonic chip platform from peptide to full-length protein sequencing for biopharma and biosecurity applications.
 
 [^39]: GenomeWeb, "Stanford U Spinout Pumpkinseed Pursues Chip-Based Peptide Sequencing, Immune Cell Analysis," accessed May 2026. https://www.genomeweb.com/proteomics-protein-research/stanford-u-spinout-pumpkinseed-pursues-chip-based-peptide-sequencing — Pumpkinseed was co-founded in 2021 by Stanford Professor Jennifer Dionne, Dr. Jack Hu, and Dr. Nhat Vu, applying Raman spectroscopy on integrated photonic circuits to protein sequencing.
+
+[^40]: BeBeez International, "From charging EVs and drones to powering data centres: London-based Gaussion raises €24.5 million," June 29, 2026. Accessed June 2026. https://bebeez.eu/2026/06/29/from-charging-evs-and-drones-to-powering-data-centres-london-based-gaussion-raises-e24-5-million/ — Confirms Future Ventures (Steve Jurvetson) joined Gaussion's €24.5M Series B co-led by BGF and AlbionVC, with Autotech Ventures, UCL Technology Fund, and DN Capital also participating.
+
+[^41]: Tech Funding News, "Early Tesla and SpaceX investor joins $28M raise for London startup addressing battery limitations in AI," accessed June 2026. https://techfundingnews.com/gaussion-28m-tesla-investor-battery-startup/ — Independent confirmation that Future Ventures joined the round; describes Steve Jurvetson as an early Tesla and SpaceX backer.

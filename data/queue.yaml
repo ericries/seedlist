@@ -32844,3 +32844,167 @@ queue:
   firm: Pantera Capital
   discovered_from: orthogonal
   source: General Partner at Pantera Capital; quoted on Orthogonal seed
+- name: J2 Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sazabi
+  source: co-led Sazabi seed with Village Global and Y Combinator
+- name: Village Global
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sazabi
+  source: co-led Sazabi seed with J2 Ventures and Y Combinator
+- name: Azolla Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eqon
+  source: led EQON seed (Norway climate tech)
+- name: Wilstar Innovate
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eqon
+  source: co-led EQON seed with Azolla Ventures
+- name: Climentum Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eqon
+  source: participated in EQON seed (Norway climate tech)
+- name: Gain Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eqon
+  source: participated in EQON seed
+- name: Sherwood Callaway
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Sazabi
+  discovered_from: sazabi
+  source: founder/CEO of Sazabi; two-time YC founder; ex-Brex, ex-Crunchbase
+- name: Mikal Løvik
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: EQON
+  discovered_from: eqon
+  source: CEO of EQON (Norway climate tech)
+- name: Justin Quan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Tomo
+  discovered_from: tomo
+  source: CEO & Co-Founder of Tomo (Bain Capital Ventures-led $5M seed)
+- name: Ryan Kim
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bain Capital Ventures
+  discovered_from: tomo
+  source: BCV partner; led Tomo $5M seed
+- name: Align Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomo
+  source: participated in Tomo $5M seed
+- name: Cecilia Wang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Accel
+  discovered_from: pocket-ai
+  source: Accel partner; co-quoted on Pocket $11M seed
+- name: Akshay Narisetti
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Pocket
+  discovered_from: pocket-ai
+  source: co-founder of Pocket; previously founding team member at Omi
+- name: BGF
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaussion
+  source: co-led Gaussion €24.5M Series B
+- name: AlbionVC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaussion
+  source: co-led Gaussion €24.5M Series B
+- name: Autotech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaussion
+  source: participated in Gaussion €24.5M Series B
+- name: UCL Technology Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gaussion
+  source: participated in Gaussion €24.5M Series B
+- name: Tom Heenan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Gaussion
+  discovered_from: gaussion
+  source: CEO and co-founder of Gaussion; UCL spinout
+- name: Freestyle VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: samepage
+  source: co-led Samepage.ai $4.85M seed with Craft Ventures, Glasswing Ventures
+- name: Dan Roth
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Scaled Cognition
+  discovered_from: scaled-cognition
+  source: CEO and co-founder of Scaled Cognition; previously sold agentic AI company
+    to Microsoft
+- name: Dan Klein
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Scaled Cognition
+  discovered_from: scaled-cognition
+  source: CTO and co-founder of Scaled Cognition; UC Berkeley AI professor
+- name: Genesys
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: scaled-cognition
+  source: strategic investor in Scaled Cognition $100M Series A

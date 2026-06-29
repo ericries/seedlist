@@ -235,6 +235,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Twenty | Series B ($100M, led at $1B val) | 2026-06-17 | Defense / Cybersecurity / AI Cyber Warfare | [^102][^103][^104] |
 | Hera | Series A ($27M, participated; Bain Capital Ventures led) | 2026-06-25 | Healthcare / Senior Care / AI | [^105][^106][^107] |
 | Tomo | Seed ($5M, participated; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | [^108][^109][^110] |
+| Pocket | Seed ($11M, led) | 2026-06-29 | AI / Consumer Hardware | [^111] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -441,3 +442,5 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^109]: Pulse 2.0, "Tomo Raises $5 Million Seed Round Led By Bain Capital Ventures," June 2026. Accessed June 2026. https://pulse2.com/tomo-raises-5-million-seed-round-led-by-bain-capital-ventures/ — Independent confirmation of Accel's participation in Tomo's seed round.
 
 [^110]: TheSaaSNews, "Tomo Raises $5M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/tomo-raises-5m-seed/ — Third independent confirmation: "led by Bain Capital Ventures (BCV), with participation from Accel, Align Fund, Basis Set, Conviction, Pear VC, and various angel investors."
+
+[^111]: TechCrunch, "Pocket raises $11M in bet on rising demand for AI note-taking devices," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/ — Names Accel as lead investor in Pocket's $11M seed, with Y Combinator and ElevenLabs CEO Mati Staniszewski also participating.
