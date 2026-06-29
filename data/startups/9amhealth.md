@@ -11,6 +11,9 @@ investors:
 - round: Series A
   slug: lee-shapiro
   year: 2022
+- round: Series B (led)
+  slug: lynne-okeefe
+  year: 2026
 last_researched: 2026-05-13
 location: San Diego, CA
 name: 9amHealth
