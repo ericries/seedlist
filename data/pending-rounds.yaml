@@ -20,6 +20,94 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Axios General Intuition raised $320M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Axios General Intuition
+  parsed_amount: $320M
+  parsed_round: Series A
+  status: pending
+- title: Lycia Therapeutics raised $75M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Lycia Therapeutics
+  parsed_amount: $75M
+  parsed_round: Series D
+  status: pending
+- title: Patronus raised $50M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Patronus
+  parsed_amount: $50M
+  parsed_round: Series B
+  status: pending
+- title: Jarvie AI raised $8.3M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Jarvie AI
+  parsed_amount: $8.3M
+  parsed_round: Seed
+  status: pending
+- title: Sazabi raised $8M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Sazabi
+  parsed_amount: $8M
+  parsed_round: Seed
+  status: pending
+- title: Eqon raised $6M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Eqon
+  parsed_amount: $6M
+  parsed_round: Seed
+  status: pending
+- title: Tomo raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Tomo
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Samepage raised $4.9M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Samepage
+  parsed_amount: $4.9M
+  parsed_round: null
+  status: pending
+- title: Orthogonal raised $4.3M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Orthogonal
+  parsed_amount: $4.3M
+  parsed_round: Seed
+  status: pending
+- title: Ground raised $3.6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Ground
+  parsed_amount: $3.6M
+  parsed_round: null
+  status: pending
+- title: Sinda raised $213M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-06-29'
+  parsed_company: Sinda
+  parsed_amount: $213M
+  parsed_round: null
+  status: pending
 - title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
     Due 2029
   url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
@@ -739,95 +827,4 @@ pending_rounds:
   parsed_company: Cargofy
   parsed_amount: $6M
   parsed_round: Series A
-  status: pending
-- title: Klipy raised $3.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Klipy
-  parsed_amount: $3.8M
-  parsed_round: null
-  status: pending
-- title: Turbo Law raised $3.8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Turbo Law
-  parsed_amount: $3.8M
-  parsed_round: Seed
-  status: pending
-- title: Kardigan raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Kardigan
-  parsed_amount: $400M
-  parsed_round: null
-  status: pending
-- title: Kardigan had raised $550M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Kardigan had
-  parsed_amount: $550M
-  parsed_round: null
-  status: pending
-- title: Anti Fund raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Anti Fund
-  parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: Hoxton Ventures of London has raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: Hoxton Ventures of London has
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: of London has raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: of London has
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: u003e of London has raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-19'
-  parsed_company: u003e of London has
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: Vienna’s SOMAREALITY secures over €3 million to power real-time cognitive
-    monitoring through eye tracking
-  url: https://www.eu-startups.com/2026/06/viennas-somareality-secures-over-e3-million-to-power-real-time-cognitive-monitoring-through-eye-tracking/
-  source: eu-startups
-  date_found: '2026-06-19'
-  parsed_company: Vienna’s SOMAREALITY
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Ghent-based Adomate raises €1.4 million to help marketers create AI-powered
-    social media ads at scale
-  url: https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/
-  source: eu-startups
-  date_found: '2026-06-19'
-  parsed_company: Ghent-based Adomate
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Copenhagen-based Festina Finance secures over €25 million to modernise pensions
-    and life insurance platforms
-  url: https://www.eu-startups.com/2026/06/copenhagen-based-festina-finance-secures-over-e25-million-to-modernise-pensions-and-life-insurance-platforms/
-  source: eu-startups
-  date_found: '2026-06-19'
-  parsed_company: Copenhagen-based Festina Finance
-  parsed_amount: null
-  parsed_round: null
   status: pending

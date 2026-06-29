@@ -2385,3 +2385,23 @@ priority:
   type: investor
   reason: "appeared in General Intuition Series A ($320M at $2.3B, 2026-06-25)"
   added: 2026-06-28
+- slug: andreessen-horowitz
+  type: firm
+  reason: "appeared in Jarvie AI Seed (2026-06-23, $8.3M)"
+  added: 2026-06-29
+- slug: y-combinator
+  type: firm
+  reason: "co-led Sazabi Seed (2026-06-25, $8M)"
+  added: 2026-06-29
+- slug: accel
+  type: firm
+  reason: "participated in Tomo Seed (2026-06-25, $5M)"
+  added: 2026-06-29
+- slug: pear-vc
+  type: firm
+  reason: "participated in Tomo Seed (2026-06-25, $5M)"
+  added: 2026-06-29
+- slug: conviction
+  type: firm
+  reason: "participated in Tomo Seed (2026-06-25, $5M)"
+  added: 2026-06-29

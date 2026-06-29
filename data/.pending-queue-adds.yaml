@@ -1,0 +1,84 @@
+- name: "Base10 Partners"
+  type: firm
+  source: "co-investor on Jarvie AI seed with Andreessen Horowitz and Lightspeed"
+  discovered_from: jarvie-ai
+  priority: normal
+- name: "J2 Ventures"
+  type: firm
+  source: "co-led Sazabi seed with Village Global and Y Combinator"
+  discovered_from: sazabi
+  priority: high
+- name: "Village Global"
+  type: firm
+  source: "co-led Sazabi seed with J2 Ventures and Y Combinator"
+  discovered_from: sazabi
+  priority: high
+- name: "Orange Collective"
+  type: firm
+  source: "participated in Sazabi seed alongside YC, Village Global, J2 Ventures"
+  discovered_from: sazabi
+  priority: normal
+- name: "Azolla Ventures"
+  type: firm
+  source: "led EQON seed (Norway climate tech)"
+  discovered_from: eqon
+  priority: high
+- name: "Wilstar Innovate"
+  type: firm
+  source: "co-led EQON seed with Azolla Ventures"
+  discovered_from: eqon
+  priority: normal
+- name: "Climentum Capital"
+  type: firm
+  source: "participated in EQON seed (Norway climate tech)"
+  discovered_from: eqon
+  priority: normal
+- name: "Gain Venture Capital"
+  type: firm
+  source: "participated in EQON seed"
+  discovered_from: eqon
+  priority: normal
+- name: "Sherwood Callaway"
+  type: individual
+  firm: "Sazabi"
+  source: "founder/CEO of Sazabi; two-time YC founder; ex-Brex, ex-Crunchbase"
+  discovered_from: sazabi
+  priority: low
+- name: "Mikal Løvik"
+  type: individual
+  firm: "EQON"
+  source: "CEO of EQON (Norway climate tech)"
+  discovered_from: eqon
+  priority: low
+- name: "Justin Quan"
+  type: individual
+  firm: "Tomo"
+  source: "CEO & Co-Founder of Tomo (Bain Capital Ventures-led $5M seed)"
+  discovered_from: tomo
+  priority: low
+- name: "Ryan Kim"
+  type: individual
+  firm: "Bain Capital Ventures"
+  source: "BCV partner; led Tomo $5M seed"
+  discovered_from: tomo
+  priority: normal
+- name: "Lightspeed Venture Partners"
+  type: firm
+  source: "co-led Jarvie AI seed alongside a16z and Base10"
+  discovered_from: jarvie-ai
+  priority: high
+- name: "Align Fund"
+  type: firm
+  source: "participated in Tomo $5M seed"
+  discovered_from: tomo
+  priority: normal
+- name: "Basis Set Ventures"
+  type: firm
+  source: "participated in Tomo $5M seed"
+  discovered_from: tomo
+  priority: normal
+- name: "Bain Capital Ventures"
+  type: firm
+  source: "led Tomo $5M seed"
+  discovered_from: tomo
+  priority: high

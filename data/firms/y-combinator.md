@@ -301,6 +301,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Drafted | n/a | 2025-2026 | AI / Proptech / Generative Design | Private ($16M Seed 2026-05-29, Buckley Ventures-led; YC participated) [^46][^47][^48] |
 | SyntheticFi | S23 | 2023 | Fintech / RIA Tech | Private ($13M Venture round 2026-06-09; YC participated alongside Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund) [^49][^50][^51] |
 | Ploy | n/a | 2026 | AI / Marketing / Vertical SaaS | Private ($27M Seed 2026-06-17, First Round Capital-led; YC participated) [^52][^53][^54] |
+| Sazabi | S26 | 2026 | AI / Developer Tools / Observability | Private ($8M Seed 2026-06-25, co-led with J2 Ventures and Village Global) [^55][^56] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -470,3 +471,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^53]: Dealroom, "Ploy launches out of stealth with $27M seed to run your whole marketing system," June 2026. Accessed June 2026. https://app.dealroom.co/news/note/ploy-launches-out-of-stealth-with-27m-seed-to-run-your-whole-marketing-system — Independently confirms Y Combinator as participating investor in the $27M seed led by First Round Capital.
 
 [^54]: The SaaS News, "Ploy Raises $27M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/ploy-raises-27m-seed/ — Independently confirms Y Combinator participated in Ploy's $27M seed round led by First Round Capital.
+
+[^55]: Morningstar (via PR Newswire), "Sazabi Raises $8 Million Seed Round to Build the AI-Native Observability Platform for Fast-Moving Engineering Teams," June 25, 2026. Accessed June 2026. https://www.morningstar.com/news/pr-newswire/20260625ny91904/sazabi-raises-8-million-seed-round-to-build-the-ai-native-observability-platform-for-fast-moving-engineering-teams — Confirms Y Combinator co-led Sazabi's $8M seed alongside J2 Ventures and Village Global on June 25, 2026; Sazabi emerged from YC Spring 2026 batch.
+
+[^56]: Pulse 2.0, "Sazabi Raises $8 Million Seed Round To Build AI-Native Observability Platform," June 25, 2026. Accessed June 2026. https://pulse2.com/sazabi-raises-8-million-seed-round-to-build-ai-native-observability-platform/ — Independently confirms Y Combinator as a co-lead in Sazabi's $8M seed.

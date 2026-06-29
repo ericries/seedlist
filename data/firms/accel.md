@@ -234,6 +234,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Pramaana Labs | Seed (participated, $27M; Khosla Ventures led) | 2026-06-17 | AI / Formal Verification / LLM Reliability | [^99][^100][^101] |
 | Twenty | Series B ($100M, led at $1B val) | 2026-06-17 | Defense / Cybersecurity / AI Cyber Warfare | [^102][^103][^104] |
 | Hera | Series A ($27M, participated; Bain Capital Ventures led) | 2026-06-25 | Healthcare / Senior Care / AI | [^105][^106][^107] |
+| Tomo | Seed ($5M, participated; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | [^108][^109] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -434,3 +435,7 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^106]: Pulse2, "Hera Raises $27 Million Series A Led By Bain Capital Ventures," June 25, 2026. Accessed June 2026. https://pulse2.com/hera-raises-27-million-series-a-led-by-bain-capital-ventures/ — Independent confirmation of Accel's participation in Hera's Series A.
 
 [^107]: HIT Consultant, "Hera Raises $27M to Scale AI-Powered Senior Care Coordination," June 26, 2026. Accessed June 2026. https://hitconsultant.net/2026/06/26/hera-raises-27-million-series-a-senior-care-ai/ — Third confirmation; lists Bain Capital Ventures as lead with Accel and IA Ventures participating.
+
+[^108]: BusinessWire, "Tomo is the AI Champion Helping People Bet on Themselves, Emerging from Stealth with $5 Million," June 25, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260625645270/en/Tomo-is-the-AI-Champion-Helping-People-Bet-on-Themselves-Emerging-from-Stealth-with-$5-Million — Primary press release listing Accel as a participating investor in Tomo's $5M Seed led by Bain Capital Ventures (with Align Fund, Basis Set, Conviction, Pear VC also participating).
+
+[^109]: Pulse 2.0, "Tomo Raises $5 Million Seed Round Led By Bain Capital Ventures," June 2026. Accessed June 2026. https://pulse2.com/tomo-raises-5-million-seed-round-led-by-bain-capital-ventures/ — Independent confirmation of Accel's participation in Tomo's seed round.
