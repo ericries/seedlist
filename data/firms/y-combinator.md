@@ -302,7 +302,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | SyntheticFi | S23 | 2023 | Fintech / RIA Tech | Private ($13M Venture round 2026-06-09; YC participated alongside Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund) [^49][^50][^51] |
 | Ploy | n/a | 2026 | AI / Marketing / Vertical SaaS | Private ($27M Seed 2026-06-17, First Round Capital-led; YC participated) [^52][^53][^54] |
 | Sazabi | S26 | 2026 | AI / Developer Tools / Observability | Private ($8M Seed 2026-06-25, co-led with J2 Ventures and Village Global) [^55][^56][^57] |
-| Pocket | n/a | 2024 | AI / Consumer Hardware | Private ($11M Seed 2026-06-29, Accel-led; YC participated alongside ElevenLabs CEO Mati Staniszewski) [^58] |
+| Pocket | W26 | 2024 | AI / Consumer Hardware | Private ($11M Seed 2026-06-29, Accel-led; YC participated alongside Guillermo Rauch (Vercel), Mati Staniszewski (ElevenLabs), Kaz Nejatian (Opendoor)) [^58][^59][^60] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -480,3 +480,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^57]: VC News Daily, "Sazabi Raises $8M Seed Round," June 25, 2026. Accessed June 2026. https://vcnewsdaily.com/sazabi/venture-capital-funding/ksqdpwnllg — Third-source confirmation of Y Combinator co-leading Sazabi's $8M Seed on June 25, 2026 alongside J2 Ventures and Village Global, with Orange Collective and 60+ angels participating.
 
 [^58]: TechCrunch, "Pocket raises $11M in bet on rising demand for AI note-taking devices," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/ — Confirms Y Combinator as a participating investor in Pocket's $11M seed led by Accel, with ElevenLabs CEO Mati Staniszewski also participating.
+
+[^59]: Tech Funding News, "Accel backs Pocket's $11M raise, as the AI hardware startup turns a viral launch into $27M ARR," June 29, 2026. Accessed June 2026. https://techfundingnews.com/pocket-11m-accel-ai-hardware-27m-arr/ — Independent confirmation of YC participation in Pocket's $11M seed; full participant list also names Guillermo Rauch (Vercel), Mati Staniszewski (ElevenLabs), and Kaz Nejatian (Opendoor).
+
+[^60]: Y Combinator, company profile page for Pocket (Winter 2026 batch). Accessed June 2026. https://www.ycombinator.com/companies/pocket — Primary YC source confirming Pocket as a Winter 2026 batch company and referencing the $11M seed round closing June 29, 2026.

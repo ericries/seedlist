@@ -2445,14 +2445,23 @@ priority:
   type: firm
   reason: "led Pocket $11M seed (2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Accel led Pocket USD 11M Seed on 2026-06-29 via 3 independent primary sources: TechCrunch (primary breaking story) [^111], Tech Funding News (independent reporting with ARR/units detail) [^112], and Y Combinator's official Pocket company page (Winter 2026 batch) [^113]. Added TFN and YC company page as 2nd/3rd citations to accel.md portfolio row. Updated pocket-ai.md startup profile from 1 to 3 citations; expanded participant list to include Guillermo Rauch (Vercel CEO), Mati Staniszewski (ElevenLabs co-founder), and Kaz Nejatian (Opendoor CEO) per TFN. Replaced paraphrased Cecilia Wang quote with verbatim version from TechCrunch."
 - slug: y-combinator
   type: firm
   reason: "participated in Pocket $11M seed (2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified YC participated in Pocket USD 11M Seed on 2026-06-29 (Accel led) via same 3 primary sources. Added TFN [^59] and YC company page [^60] as 2nd/3rd citations to y-combinator.md Pocket portfolio row. Updated YC row to show W26 batch designation (was 'n/a') based on YC's own company page."
 - slug: khosla-ventures
   type: firm
   reason: "led Scaled Cognition $100M Series A (2026-06-25)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Khosla Ventures led Scaled Cognition USD 100M Series A on 2026-06-25 at ~USD 750M valuation, with Genesys participating, via 3 independent primary sources: GlobeNewswire press release [^sc1], SiliconANGLE [^sc2], and The Next Web [^sc3] (newly added). Added Next Web as 3rd citation to khosla-ventures.md portfolio row and scaled-cognition.md. Added valuation (~USD 750M) and additional Dan Roth quote to scaled-cognition.md."
 - slug: craft-ventures
   type: firm
   reason: "co-led Samepage $4.85M seed (2026-06-29)"
@@ -2465,7 +2474,13 @@ priority:
   type: firm
   reason: "co-led Stark Defence Series C €500M at €3.5B+ post-money (2026-06-23)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Sequoia Capital co-led Stark Defence EUR 500M Series C on 2026-06-23 at EUR 3.5B+ post-money valuation, alongside Founders Fund, with NATO Innovation Fund, Project A, Air Street Capital, 201 Ventures, and Döpfner Capital participating. All 3 independent primary sources already in sequoia-capital.md (Sifted [^91], The Next Web [^92], Bloomberg [^93]) and stark-defence.md (Sifted [^1], The Next Web [^2], Bloomberg [^3]). No changes needed — citation count already meets 3-source threshold and round details verified accurate."
 - slug: founders-fund
   type: firm
   reason: "co-led Stark Defence Series C €500M at €3.5B+ post-money (2026-06-23)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Founders Fund co-led Stark Defence EUR 500M Series C on 2026-06-23 (Sequoia Capital co-led) via 3 independent primary sources already in founders-fund.md: Sifted [^71], The Next Web [^72], and Bloomberg [^73]. No changes needed — citation count already meets 3-source threshold and round details verified accurate."

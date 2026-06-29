@@ -206,7 +206,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
 | Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025; Vinod Khosla and Jon Chu personally championed) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3][^runlayer4][^runlayer5] |
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
-| Scaled Cognition | Series A (led, $100M; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2] |
+| Scaled Cognition | Series A (led, $100M at ~$750M val; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2][^sc3] |
 
 *Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -411,3 +411,5 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^sc1]: GlobeNewswire, "Scaled Cognition Raises $100M Series A Led by Khosla Ventures to Build Reliable Enterprise AI," June 25, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/25/3317460/0/en/scaled-cognition-raises-100m-series-a-led-by-khosla-ventures-to-build-reliable-enterprise-ai.html — Primary press release confirming Khosla Ventures led Scaled Cognition's $100M Series A with Genesys participating; includes verbatim Vinod Khosla quote.
 
 [^sc2]: SiliconANGLE, "Scaled Cognition nabs $100M to automate high stakes customer interactions," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/scaled-cognition-nabs-100m-automate-high-stakes-customer-interactions/ — Independent confirmation of Khosla-led $100M Series A and Genesys participation.
+
+[^sc3]: The Next Web, "Scaled Cognition raises $100M led by Khosla," June 25, 2026. Accessed June 2026. https://thenextweb.com/news/scaled-cognition-100m-khosla-reliable-ai — Third independent confirmation; states the Series A values the startup at approximately $750 million.
