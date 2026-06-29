@@ -148,7 +148,7 @@ Based on 17 verified portfolio investments, the following patterns emerge. Note:
 | Dealops | Seed | 2025 | Enterprise SaaS | Active | [^25] |
 | Series | Pre-Seed | 2026 | AI / Social | Active | [^26] |
 | Convey | Series A (participated, $38M; a16z led; Khosla Ventures also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Active | [^convey1][^convey2][^convey3] |
-| Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2] |
+| Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
 
 Note: This table represents approximately 7% of 260+ claimed investments. All dates have been verified against Crunchbase funding round records and primary announcement sources, except Listen Labs (~2022) which remains approximate.
 
@@ -209,3 +209,5 @@ William Ross, CEO of Federato, has stated: "The extended Pear team has always be
 [^tomo1]: BusinessWire, "Tomo is the AI Champion Helping People Bet on Themselves, Emerging from Stealth with $5 Million," June 25, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260625645270/en/Tomo-is-the-AI-Champion-Helping-People-Bet-on-Themselves-Emerging-from-Stealth-with-$5-Million — Primary press release confirming Pear VC participated in Tomo's $5M Seed led by Bain Capital Ventures.
 
 [^tomo2]: Pulse 2.0, "Tomo Raises $5 Million Seed Round Led By Bain Capital Ventures," June 2026. Accessed June 2026. https://pulse2.com/tomo-raises-5-million-seed-round-led-by-bain-capital-ventures/ — Independent confirmation of Pear VC's participation in Tomo's seed.
+
+[^tomo3]: TheSaaSNews, "Tomo Raises $5M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/tomo-raises-5m-seed/ — Third independent confirmation: "led by Bain Capital Ventures (BCV), with participation from Accel, Align Fund, Basis Set, Conviction, Pear VC, and various angel investors."

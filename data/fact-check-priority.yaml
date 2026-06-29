@@ -2415,11 +2415,20 @@ priority:
   type: firm
   reason: "participated in Tomo Seed (2026-06-25, $5M)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Accel participated in Tomo USD 5M Seed on 2026-06-25 (led by Bain Capital Ventures; Align Fund, Basis Set, Conviction, Pear VC also participating) via 3 independent primary sources: Pulse 2.0 [^109], Yahoo Finance/BusinessWire press release [^108], and TheSaaSNews [^110] (newly added). Added TheSaaSNews as 3rd citation to accel.md Tomo portfolio row. tomo.md updated to 4 citations (added TheSaaSNews [^4])."
 - slug: pear-vc
   type: firm
   reason: "participated in Tomo Seed (2026-06-25, $5M)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Pear VC participated in Tomo USD 5M Seed on 2026-06-25 (Bain-led) via 3 independent primary sources: BusinessWire press release [^tomo1], Pulse 2.0 [^tomo2], and TheSaaSNews [^tomo3] (newly added). Added TheSaaSNews as 3rd citation to pear-vc.md Tomo portfolio row."
 - slug: conviction
   type: firm
   reason: "participated in Tomo Seed (2026-06-25, $5M)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Conviction participated in Tomo USD 5M Seed on 2026-06-25 (Bain-led) via 3 independent primary sources: BusinessWire press release [^tomo1], Pulse 2.0 [^tomo2], and TheSaaSNews [^tomo3] (newly added). Added TheSaaSNews as 3rd citation to conviction.md Tomo portfolio row."

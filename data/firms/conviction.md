@@ -95,7 +95,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
 | Town | Series A (participated, $55M total) | 2026-06-03 | Consumer AI / Personal Assistant | Active | [^53][^54] |
 | Adaptive Innovations | Series A (participated, $50M total) | 2026-06-02 | Healthcare AI / Home Health | Active | [^55][^56][^57] |
-| Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2] |
+| Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
 
 Note: Investment years are approximate based on company founding timelines. This table represents approximately 21 of ~32 total investments (~66%); the remainder are in stealth or undisclosed [^3][^5].
 
@@ -207,3 +207,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^tomo1]: BusinessWire, "Tomo is the AI Champion Helping People Bet on Themselves, Emerging from Stealth with $5 Million," June 25, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260625645270/en/Tomo-is-the-AI-Champion-Helping-People-Bet-on-Themselves-Emerging-from-Stealth-with-$5-Million — Primary press release listing Conviction as a participating investor in Tomo's $5M Seed led by Bain Capital Ventures.
 
 [^tomo2]: Pulse 2.0, "Tomo Raises $5 Million Seed Round Led By Bain Capital Ventures," June 2026. Accessed June 2026. https://pulse2.com/tomo-raises-5-million-seed-round-led-by-bain-capital-ventures/ — Independent confirmation of Conviction's participation in Tomo's seed.
+
+[^tomo3]: TheSaaSNews, "Tomo Raises $5M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/tomo-raises-5m-seed/ — Third independent confirmation: "led by Bain Capital Ventures (BCV), with participation from Accel, Align Fund, Basis Set, Conviction, Pear VC, and various angel investors."
