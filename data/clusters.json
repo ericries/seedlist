@@ -7926,7 +7926,7 @@
       "name": "The Original Super Angels",
       "tagline": "The 2005-2012 wave that proved individual investors could compete with big firms. They invented the angel-at-scale model.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "bill-trenchard",
@@ -8026,6 +8026,11 @@
           "slug": "alexis-ohanian",
           "name": "Alexis Ohanian",
           "firm": "seven-seven-six"
+        },
+        {
+          "slug": "chris-larsen",
+          "name": "Chris Larsen",
+          "firm": "ripple"
         }
       ]
     },
@@ -8383,7 +8388,7 @@
       "name": "Crypto Conviction",
       "tagline": "HODLing through every winter. They kept backing blockchain and crypto infrastructure when everyone else ran.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "boris-wertz",
@@ -8444,6 +8449,11 @@
           "slug": "shayon-sengupta",
           "name": "Shayon Sengupta",
           "firm": "multicoin-capital"
+        },
+        {
+          "slug": "chris-larsen",
+          "name": "Chris Larsen",
+          "firm": "ripple"
         }
       ]
     },
@@ -8452,7 +8462,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 20,
+      "size": 22,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8554,6 +8564,11 @@
           "slug": "sandeep-tandon",
           "name": "Sandeep Tandon",
           "firm": "whiteboard-capital"
+        },
+        {
+          "slug": "nithin-kamath",
+          "name": "Nithin Kamath",
+          "firm": "rainmatter"
         }
       ]
     },
@@ -8692,7 +8707,7 @@
       "name": "The Solo GPs",
       "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
       "type": "curated",
-      "size": 19,
+      "size": 20,
       "members": [
         {
           "slug": "dan-scheinman",
@@ -8784,6 +8799,11 @@
           "slug": "ethan-kurzweil",
           "name": "Ethan Kurzweil",
           "firm": "chemistry-vc"
+        },
+        {
+          "slug": "lynne-okeefe",
+          "name": "Lynne Chou O'Keefe",
+          "firm": "define-ventures"
         }
       ]
     },
@@ -9507,7 +9527,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 119,
+      "size": 123,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10040,6 +10060,26 @@
           "slug": "naveen-selvadurai",
           "name": "Naveen Selvadurai",
           "firm": "expa"
+        },
+        {
+          "slug": "chris-larsen",
+          "name": "Chris Larsen",
+          "firm": "ripple"
+        },
+        {
+          "slug": "bhavish-aggarwal",
+          "name": "Bhavish Aggarwal",
+          "firm": "ola"
+        },
+        {
+          "slug": "nithin-kamath",
+          "name": "Nithin Kamath",
+          "firm": "rainmatter"
+        },
+        {
+          "slug": "lynne-okeefe",
+          "name": "Lynne Chou O'Keefe",
+          "firm": "define-ventures"
         }
       ]
     },
@@ -10549,7 +10589,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 54,
+      "size": 55,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10813,6 +10853,11 @@
         {
           "slug": "lan-xuezhao",
           "name": "Lan Xuezhao"
+        },
+        {
+          "slug": "lynne-okeefe",
+          "name": "Lynne Chou O'Keefe",
+          "firm": "define-ventures"
         }
       ]
     },
@@ -12814,7 +12859,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 23,
+      "size": 26,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -12926,6 +12971,16 @@
           "slug": "sandeep-tandon",
           "name": "Sandeep Tandon",
           "firm": "whiteboard-capital"
+        },
+        {
+          "slug": "bhavish-aggarwal",
+          "name": "Bhavish Aggarwal",
+          "firm": "ola"
+        },
+        {
+          "slug": "nithin-kamath",
+          "name": "Nithin Kamath",
+          "firm": "rainmatter"
         }
       ],
       "id": "curated-49"
