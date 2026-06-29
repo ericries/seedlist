@@ -32,7 +32,7 @@ Rep AI is an AI operating system for e-commerce led by CEO and co-founder Yoav O
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-28 | Series A Extension (Strategic Follow-On) | $6.2M | Silicon Road Ventures | Osage Venture Partners, Flashpoint Venture Capital, Zendesk [^1][^2][^3] |
+| 2026-05-28 | Series A Extension (Strategic Follow-On) | $6.2M | Silicon Road Ventures | Osage Venture Partners, Flashpoint Venture Capital, Zendesk [^1][^2][^3][^4] |
 | 2024-08 | Series A | $8.2M | — | — [^1] |
 
 ## What Investors Say
@@ -45,8 +45,11 @@ Rep AI is an AI operating system for e-commerce led by CEO and co-founder Yoav O
 
 "This funding validates our vision of building a unified AI operating system for ecommerce." — Yoav Oz, Co-Founder and CEO, Rep AI, May 2026 [^1]
 
+"Ecommerce brands are increasingly overwhelmed by disconnected technology stacks that create operational silos and missed revenue opportunities." — Yoav Oz, Co-Founder and CEO, Rep AI [^4]
+
 ## Sources
 
 [^1]: SalesTechStar, "Rep AI Raises $6.2 Million in Strategic Follow-On Funding to Advance AI Platform for ecommerce," May 28, 2026. Accessed May 2026. https://salestechstar.com/price-optimization-revenue-management/rep-ai-raises-6-2-million-in-strategic-follow-on-funding-to-advance-ai-platform-for-ecommerce/
 [^2]: FinSMEs, "Rep AI Raises $6.2M in Funding," May 2026. Accessed May 2026. https://www.finsmes.com/2026/05/rep-ai-raises-6-2m-in-funding.html
 [^3]: Rep AI company website, accessed May 2026. https://hellorep.ai/
+[^4]: CTech (Calcalist), "Zendesk makes first Israeli startup investment in $6.2 million Rep AI round," May 28, 2026. Accessed June 2026. https://www.calcalistech.com/ctechnews/article/iaf9wyl8q

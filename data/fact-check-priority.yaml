@@ -368,10 +368,16 @@ priority:
   type: firm
   reason: led Rep AI $6.2M Series A extension (2026-05-28)
   added: 2026-05-31
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Rep AI USD 6.2M Series A extension on 2026-05-28 led by Silicon Road Ventures (Sid Mookerji), with Osage Venture Partners, Flashpoint Venture Capital, and Zendesk (first Israeli investment) participating, via 4 independent primary sources (SalesTechStar [^1], FinSMEs [^2], Rep AI website [^3], CTech/Calcalist [^4]). Added CTech as 4th citation and second Yoav Oz quote ("Ecommerce brands are increasingly overwhelmed by disconnected technology stacks..."). Total raised USD 14.4M. Silicon Road Ventures firm profile does not yet exist.'
 - slug: renown-capital-partners
   type: firm
   reason: led Utilidata Series C extension $40M (2026-05-28)
   added: 2026-05-31
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Utilidata USD 40M Series C extension on 2026-05-28 led by Renown Capital Partners (James McIntyre, Co-Founder & Managing Partner) with Keyframe Capital (John Rapaport, CIO) participating, completing the USD 100M Series C (initial USD 60.3M close was April 2025 with Quanta Services and NVIDIA also participating), via 4 independent primary sources (GlobeNewsWire [^1], SiliconANGLE [^2], Data Center Dynamics [^3], Pulse 2.0 [^4]). Added Pulse 2.0 as 4th citation. Added Josh Brumberger (CEO) founder quote and John Rapaport (Keyframe Capital) investor quote. Refined McIntyre title to Co-Founder & Managing Partner. Renown Capital Partners firm profile does not yet exist.'
 - slug: lightspeed-venture-partners
   type: firm
   reason: led Reactor $59M Series A (2026-05-28)
@@ -461,6 +467,9 @@ priority:
   type: firm
   reason: led Fonoa $110M Series C (2026-05-28)
   added: 2026-05-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Fonoa USD 110M (EUR 94.4M) Series C on 2026-05-28 led by Headline (Clarey Zhu, Partner), with new investors Eurazeo and Forestay Capital plus existing Index Ventures, OMERS, Coatue, Dawn Capital, alongside simultaneous acquisition of Indirect Tax Edge (Edge) from PwC, via 4 independent primary sources (EU-Startups [^1], Yahoo Finance/BusinessWire [^2], The Next Web [^3], Fonoa company press release [^4]). Added Fonoa company press release as 4th citation. Added Davor Tremac (Co-Founder & CEO) founder quote and Clarey Zhu (Headline Partner) investor quote both from the company press release. Headline firm profile does not yet exist.'
 - slug: dragoneer
   type: firm
   reason: co-led Anthropic Series H $65B (2026-05-28)

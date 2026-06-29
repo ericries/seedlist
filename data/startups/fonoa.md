@@ -50,18 +50,23 @@ Fonoa is a Dublin-based AI tax-operating system founded in 2019 by three Uber al
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-28 | Series C | $110M (€94.4M) | Headline | Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital [^1][^2][^3] |
+| 2026-05-28 | Series C | $110M (€94.4M) | Headline | Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital [^1][^2][^3][^4] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Fonoa is leading the shift in tax from a series of disconnected point solutions to a unified operating system."
+>
+> — Clarey Zhu, Partner, Headline [^4]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "While technology has transformed much of finance, tax systems have remained neglected, leaving accounting teams to manage the same fragmented stack for decades: one vendor for determination, another for e-invoicing, a third for returns, with spreadsheets holding it all together."
+>
+> — Davor Tremac, Co-Founder & CEO, Fonoa [^4]
 
 ## Sources
 
 [^1]: EU-Startups, "Dublin's AI TaxTech startup Fonoa raises €94.4 million Series C and buys PwC's tax platform," May 29, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/dublins-ai-taxtech-startup-fonoa-raises-e94-4-million-series-c-and-buys-pwcs-tax-platform/
 [^2]: Yahoo Finance (BusinessWire), "Fonoa Acquires PwC's Tax Platform and Raises $110M to Build Category-Defining AI Tax System," May 28, 2026. Accessed May 2026. https://sg.finance.yahoo.com/news/fonoa-acquires-pwcs-tax-platform-190000990.html
 [^3]: The Next Web, "Fonoa raises $110M and buys PwC's tax software to build a real-time compliance platform," May 28, 2026. Accessed May 2026. https://thenextweb.com/news/fonoa-110m-series-c-pwc-tax-edge
+[^4]: Fonoa company press release, "Fonoa acquires PwC's tax platform and raises $110M to build category-defining AI tax system," May 28, 2026. Accessed June 2026. https://www.fonoa.com/company/news/fonoa-raises-110m-funding-and-acquires-edge
