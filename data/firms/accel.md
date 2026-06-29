@@ -233,6 +233,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | PointFive | Series B ($60M, led) | 2026-06-08 | AI / Cloud Cost Optimization / FinOps | [^96][^97][^98] |
 | Pramaana Labs | Seed (participated, $27M; Khosla Ventures led) | 2026-06-17 | AI / Formal Verification / LLM Reliability | [^99][^100][^101] |
 | Twenty | Series B ($100M, led at $1B val) | 2026-06-17 | Defense / Cybersecurity / AI Cyber Warfare | [^102][^103][^104] |
+| Hera | Series A ($27M, participated; Bain Capital Ventures led) | 2026-06-25 | Healthcare / Senior Care / AI | [^105][^106][^107] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -427,3 +428,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^103]: GovCon Wire, "Cyber Warfare Startup Twenty Raises $100M in Series B Funding Round," June 17, 2026. Accessed June 2026. https://www.govconwire.com/articles/twenty-100m-series-b-round-ai-cyber-warfare — Independent confirmation of Accel-led $100M Series B for Arlington-based defense-tech startup Twenty.
 
 [^104]: The SaaS News, "Twenty Raises $100M Series B," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/twenty-raises-100m-series-b/ — Third independent confirmation of Accel-led $100M Series B.
+
+[^105]: Fortune, "Hera raises $27 million to solve demands on the sandwich generation," June 25, 2026. Accessed June 2026. https://fortune.com/2026/06/25/hera-caregiving-startup-elder-care-medicare-series-a/ — Confirms Accel participated alongside Bain Capital Ventures (lead) and IA Ventures in Hera's $27M Series A.
+
+[^106]: Pulse2, "Hera Raises $27 Million Series A Led By Bain Capital Ventures," June 25, 2026. Accessed June 2026. https://pulse2.com/hera-raises-27-million-series-a-led-by-bain-capital-ventures/ — Independent confirmation of Accel's participation in Hera's Series A.
+
+[^107]: HIT Consultant, "Hera Raises $27M to Scale AI-Powered Senior Care Coordination," June 26, 2026. Accessed June 2026. https://hitconsultant.net/2026/06/26/hera-raises-27-million-series-a-senior-care-ai/ — Third confirmation; lists Bain Capital Ventures as lead with Accel and IA Ventures participating.

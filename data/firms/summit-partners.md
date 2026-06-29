@@ -102,8 +102,10 @@ Based on Summit's portfolio of 550+ companies and the 57 current portfolio compa
 | CluePoints | Growth | 2021 | Clinical Research | Active | [^10] |
 | VaxCare | Growth | 2022 | Healthcare | Active | [^10] |
 | Fortis Life Sciences | Growth | 2022 | Life Sciences | Active | [^10] |
-| E-TEK Dynamics | Growth | 1997 | Telecom | Merged with JDS Uniphase (~$18B) | [^7][^30] |
-| Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7][^30] |
+| E-TEK Dynamics | Growth | 1997 | Telecom | Merged with JDS Uniphase (~$18B) | [^7][^7] |
+| Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7][^7] |
+| Runpod | Series A (led, $100M at $1B post-money) | 2026-06-24 | AI Infrastructure / GPU Cloud / Developer Tools | Active | [^runpod1][^runpod2][^runpod3] |
+| Quantifind | Growth (led, $200M) | 2026-06-26 | AI / Fintech / RegTech | Active | [^quantifind1][^quantifind2] |
 
 *This table represents approximately 25 of 550+ known investments. Summit's portfolio includes 175+ IPOs and 250+ strategic exits [^3].*
 
@@ -150,4 +152,13 @@ No independently sourced founder testimonials found. Summit Partners' portfolio 
 [^27]: Summit Partners website, "Companies — StackAdapt," accessed April 2026. https://www.summitpartners.com/companies/stackadapt
 [^28]: PR Newswire, "Keeper Security Announces Minority Growth Equity Investment from Summit Partners," May 2023. https://www.prnewswire.com/news-releases/keeper-security-announces-minority-growth-equity-investment-from-summit-partners-301819147.html
 [^29]: Summit Partners, "Manychat Raises $140M Led by Summit Partners," April 2025. https://www.summitpartners.com/news/manychat-raises-140m-to-fuel-the-future-of-ai-driven-customer-engagement-on-social-and-messaging-platforms
-[^30]: Summit Partners website, "Peter Y. Chung" team page (E-TEK Dynamics and Finisar listed as portfolio companies), accessed April 2026. https://www.summitpartners.com/team/peter-chung
+
+[^runpod1]: PR Newswire (Runpod release), "Runpod Raises $100M Led by Summit Partners to Accelerate the AI Developer Cloud," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runpod-raises-100m-led-by-summit-partners-to-accelerate-the-ai-developer-cloud-302808689.html — Primary press release confirms Summit Partners led Runpod's $100M Series A at a $1.0B post-money valuation; Summit Managing Director Michael Medici joined the board.
+
+[^runpod2]: The SaaS News, "Runpod Raises $100M Growth Capital," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runpod-raises-100m-growth-capital/ — Independent confirmation of the Summit-led $100M round.
+
+[^runpod3]: Crypto Briefing, "Runpod raises $100M at $1B valuation, rejects $500M buyout offers," June 2026. Accessed June 2026. https://cryptobriefing.com/runpod-raises-100m-billion-valuation-rejects-buyout/ — Third independent confirmation; notes Runpod turned down acquisition offers above $500M ahead of the round.
+
+[^quantifind1]: Summit Partners, "Quantifind Announces $200 Million Growth Investment to Advance AI-native Risk Intelligence and Governed Agentic Middleware for Modern Risk Operations," June 26, 2026. Accessed June 2026. https://www.summitpartners.com/news/quantifind-announces-200-million-growth-investment-to-advance-ai-native-risk-intelligence — Primary release: Summit led the $200M growth round; Summit Managing Director Chris Dean joined the Quantifind board.
+
+[^quantifind2]: PR Newswire, "Quantifind Announces $200 Million Growth Investment Led by Summit Partners to Advance AI-native Risk Intelligence and Governed Agentic Middleware for Modern Risk Operations," June 26, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/quantifind-announces-200-million-growth-investment-led-by-summit-partners-to-advance-ai-native-risk-intelligence-and-governed-agentic-middleware-for-modern-risk-operations-302811746.html — Independent wire confirmation; lists participating investors as Citi Ventures, S&P Global, Deloitte, and Stephens Group.

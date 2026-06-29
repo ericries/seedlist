@@ -205,6 +205,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Pramaana Labs | Seed (led, $27M; Accel, BoldCap, Nexus Venture Partners, Premji Invest, Unbound participated) | 2026-06-17 | AI / Formal Verification / LLM Reliability | Private [^52][^53][^54] |
 | Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
 | Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3] |
+| General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2] |
 
 *Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -395,3 +396,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^runlayer2]: SecurityWeek, "Runlayer Raises $30 Million in Series A Funding," June 25, 2026. Accessed June 2026. https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/ — Independently confirms Felicis-led $30M Series A with Khosla Ventures participating.
 
 [^runlayer3]: The SaaS News, "Runlayer Raises $30M Series A," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runlayer-raises-30m-series-a/ — Third independent confirmation of Felicis-led $30M Series A with Khosla Ventures.
+
+[^genint1]: TechCrunch, "General Intuition's $2.3B bet that video games can train AI agents for the real world," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/ — Confirms Khosla Ventures led General Intuition's $320M Series A at a $2.3B post-money valuation; General Catalyst, Jeff Bezos, Eric Schmidt, and Nico Rosberg participated.
+
+[^genint2]: Tech Funding News, "Khosla wrote two cheques in three months, now General Intuition wants a third," June 2026. Accessed June 2026. https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/ — Independent confirmation; states the Series A closed roughly three months after a $133.7M seed round in October 2025 and brings total disclosed funding to $454M.

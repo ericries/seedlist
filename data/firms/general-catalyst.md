@@ -233,6 +233,7 @@ The following table includes 72 verified investments sourced from General Cataly
 | Cognition | $1B+ growth (co-led with Lux Capital and 8VC at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^66] |
 | Geordie AI | Series A (follow-on, $30M at ~$180M post-money; Balderton led) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Private [^67] |
 | Cadence | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^77][^78][^79] |
+| General Intuition | Series A (participated, $320M; Khosla Ventures led, $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2] |
 
 *Note: This table includes 72 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -438,4 +439,8 @@ No independently sourced founder testimonials were found in this research pass. 
 [^78]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing General Catalyst as a participant.
 
 [^79]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with General Catalyst named among participating investors.
+
+[^genint1]: TechCrunch, "General Intuition's $2.3B bet that video games can train AI agents for the real world," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/ — Confirms General Catalyst participated in General Intuition's $320M Series A led by Khosla Ventures at a $2.3B post-money valuation, alongside Jeff Bezos, Eric Schmidt, and Nico Rosberg.
+
+[^genint2]: Tech Funding News, "Khosla wrote two cheques in three months, now General Intuition wants a third," June 2026. Accessed June 2026. https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/ — Independent confirmation of General Catalyst's participation in the $320M Series A; total disclosed funding now $454M.
 

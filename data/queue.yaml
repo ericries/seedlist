@@ -32665,3 +32665,30 @@ queue:
   firm: Define Ventures
   discovered_from: lynne-okeefe
   source: Venture Partner at Define Ventures
+- name: Pim de Witte
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: General Intuition
+  discovered_from: general-intuition
+  source: Co-founder & CEO of General Intuition (also Medal); subject of TechCrunch
+    coverage 2026-06-25
+- name: Zhen Lu
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Runpod
+  discovered_from: runpod
+  source: Co-founder & CEO of Runpod; quoted in $100M Summit Partners-led Series A
+    (2026-06-24)
+- name: Joe Lin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Twenty
+  discovered_from: twenty-technologies
+  source: Co-founder & CEO of Twenty (cyber warfare); subject of Accel-led $100M Series
+    B (2026-06-17)

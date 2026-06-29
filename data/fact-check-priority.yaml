@@ -1,4 +1,24 @@
 priority:
+- slug: khosla-ventures
+  type: firm
+  reason: led General Intuition Series A ($320M at $2.3B) 2026-06-25
+  added: 2026-06-28
+- slug: general-catalyst
+  type: firm
+  reason: participated in General Intuition Series A ($320M at $2.3B) 2026-06-25
+  added: 2026-06-28
+- slug: summit-partners
+  type: firm
+  reason: led Runpod Series A ($100M at $1B) 2026-06-24
+  added: 2026-06-28
+- slug: runpod
+  type: startup
+  reason: new startup profile (Series A 2026-06-24, $100M led by Summit Partners)
+  added: 2026-06-28
+- slug: twenty-technologies
+  type: startup
+  reason: new startup profile (Series B 2026-06-17, $100M led by Accel)
+  added: 2026-06-28
 - slug: taktile
   type: startup
   reason: new startup profile (Series C 2026-06-24, $110M led by Goldman Sachs Growth Equity)
