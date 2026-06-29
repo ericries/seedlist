@@ -141,7 +141,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | ComfyUI | Series A (led) | 2026-04-24 | AI / Generative Media | Active — $30M at $500M val [^12] |
 | Supabase | Series F (participant) | 2026-06-04 | Enterprise/Developer Tools (Database) | Active — $500M at $10.5B post-money, GIC led [^14][^15][^16] |
 | Allen Control Systems | Series B (participant) | 2026-06-05 | Defense Tech / Counter-Drone | Active — $200M at $2.2B post-money, Smash Capital led; Rally Ventures, Inspired Capital also participated [^19][^20][^21] |
-| Samepage | Seed (co-led with Freestyle VC and Glasswing Ventures) | 2026-06-29 | AI / Product Management / SaaS | Active — $4.85M, with angels Justin Kan and Matt Mullenweg [^22] |
+| Samepage | Seed (co-led with Freestyle VC and Glasswing Ventures) | 2026-06-25 | AI / Product Management / SaaS | Active — $4.85M, with angels Justin Kan and Matt Mullenweg [^22][^23][^24] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -192,3 +192,5 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^21]: VCNewsDaily, "Allen Control Systems Scoops Up $200M Series B," June 2026. Accessed June 2026. https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz
 
 [^22]: FinSMEs, "Samepage.ai Raises $4.85M in Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/samepage-ai-raises-4-85m-in-funding.html — Confirms Craft Ventures co-led Samepage's $4.85M seed alongside Freestyle VC and Glasswing Ventures, with Justin Kan and Matt Mullenweg participating as angels.
+[^23]: PR Newswire, "Samepage.ai Launches to Bring Continuous Intelligence to Product Teams," June 25, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/samepageai-launches-to-bring-continuous-intelligence-to-product-teams-302809943.html — Official company press release naming Craft Ventures, Freestyle VC, and Glasswing Ventures as backers, plus angels Justin Kan and Matt Mullenweg; quotes Sahil Jain (Samepage CEO) and David Samuel (Freestyle VC Partner).
+[^24]: Pulse 2.0, "Samepage Raises $4.85 Million To Launch AI-Powered Product Intelligence Platform," June 2026. Accessed June 2026. https://pulse2.com/samepage-raises-4-85-million-to-launch-ai-powered-product-intelligence-platform/ — Independent confirmation of the $4.85M round and participants (Craft Ventures, Freestyle VC, Glasswing Ventures, Justin Kan, Matt Mullenweg).

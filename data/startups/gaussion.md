@@ -32,9 +32,9 @@ Gaussion is a London-based deeptech battery company founded in 2022 as a spinout
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-29 | Series B | €24.5M | BGF, AlbionVC | Autotech Ventures, UCL Technology Fund, DN Capital, Future Ventures [^1][^2] |
+| 2026-06-29 | Series B | €24.5M | BGF, AlbionVC | Autotech Ventures, UCL Technology Fund, DN Capital, Future Ventures [^1][^2][^3] |
 
-The Series B brings total funding to over €38M ($44M) [^1][^2]. Future Ventures, led by Steve Jurvetson, joined as a new backer [^1][^2].
+The Series B brings total funding to over €38M ($44M) [^1][^2][^3]. Future Ventures, led by Steve Jurvetson, joined as a new backer [^1][^2][^3].
 
 ## What Investors Say
 
@@ -46,7 +46,10 @@ Sebastian Hunte, Investment Director at AlbionVC: "Batteries underpin the modern
 
 CEO Tom Heenan: "The race everyone's watching is about computer chips — but the real prize is the battery" [^1][^2].
 
+CEO Tom Heenan on the underlying physics: "If you apply a magnetic field to that movement, you can make it more efficient" [^3].
+
 ## Sources
 
 [^1]: BeBeez International, "From charging EVs and drones to powering data centres: London-based Gaussion raises €24.5 million," June 29, 2026. Accessed June 2026. https://bebeez.eu/2026/06/29/from-charging-evs-and-drones-to-powering-data-centres-london-based-gaussion-raises-e24-5-million/
 [^2]: Tech Funding News, "Early Tesla and SpaceX investor joins $28M raise for London startup addressing battery limitations in AI," accessed June 2026. https://techfundingnews.com/gaussion-28m-tesla-investor-battery-startup/
+[^3]: AOL (syndicated from The Daily Telegraph), "Elon Musk ally backs British electric car battery start-up," June 2026. Accessed June 2026. https://www.aol.com/articles/elon-musk-ally-backs-british-095307000.html

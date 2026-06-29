@@ -2364,6 +2364,9 @@ priority:
   type: startup
   reason: "new startup profile (Series A 2026-06-25, $320M at $2.3B led by Khosla Ventures; General Catalyst, Jeff Bezos, Eric Schmidt, Nico Rosberg, Hedosophia participated)"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Series A already verified via 3 primary sources (TechCrunch [^1], GamesBeat exclusive [^2], The AI Insider [^3]). Sweep also resolved vague prior Seed row from `2025-10 | -- | --` to `2025-10-16 | Khosla Ventures + General Catalyst co-led, $133.7M, Raine Ventures participated` via 2 new primary sources (TechCrunch original Oct 16, 2025 announcement [^4]; citybiz [^5]). Added Pim de Witte quotes from TechCrunch interview. Added Seed entries to firms[] frontmatter (khosla-ventures + general-catalyst, 2025-10-16). Added new Seed row to khosla-ventures.md (with [^genint4][^genint5] citations and `Khosla Ventures' largest seed check since OpenAI 2018` note from TechCrunch) and general-catalyst.md portfolio tables."
 - slug: quantifind
   type: startup
   reason: "new startup profile (Growth 2026-06-26, $200M led by Summit Partners; Citi Ventures, S&P Global, Deloitte, Stephens Group participated)"
@@ -2466,10 +2469,16 @@ priority:
   type: firm
   reason: "co-led Samepage $4.85M seed (2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Craft Ventures co-led Samepage $4.85M seed on 2026-06-25 alongside Freestyle VC and Glasswing Ventures, with angels Justin Kan and Matt Mullenweg, via 3 independent primary sources: PR Newswire company press release [^23] (newly added), Pulse 2.0 [^24] (newly added), and the original FinSMEs report [^22]. Corrected funding history date in samepage.md from 2026-06-29 to 2026-06-25 (actual press release date). Added founder quote from Sahil Jain (CEO) and investor quote from David Samuel (Freestyle VC Partner) from the press release to samepage.md."
 - slug: future-ventures
   type: firm
   reason: "participated in Gaussion Series B €24.5M (2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Future Ventures (Steve Jurvetson) joined Gaussion EUR 24.5M / $28M Series B on 2026-06-29 co-led by BGF and AlbionVC, with Autotech Ventures, UCL Technology Fund, and DN Capital also participating, via 3 independent primary sources: BeBeez International [^40], Tech Funding News [^41], and AOL/Daily Telegraph syndication [^42] (newly added). Added [^42] AOL citation to future-ventures.md portfolio row and gaussion.md. Added second Tom Heenan founder quote (\"If you apply a magnetic field to that movement, you can make it more efficient\") sourced from Telegraph."
 - slug: sequoia-capital
   type: firm
   reason: "co-led Stark Defence Series C €500M at €3.5B+ post-money (2026-06-23)"

@@ -205,6 +205,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Pramaana Labs | Seed (led, $27M; Accel, BoldCap, Nexus Venture Partners, Premji Invest, Unbound participated) | 2026-06-17 | AI / Formal Verification / LLM Reliability | Private [^52][^53][^54] |
 | Convey | Series A (participated, $38M; a16z led; Pear VC also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Private [^convey1][^convey2][^convey3] |
 | Runlayer | Series A (participated, $30M; Felicis led; led prior $11M seed in 2025; Vinod Khosla and Jon Chu personally championed) | 2026-06-24 | AI / Enterprise AI Governance / Security | Private [^runlayer1][^runlayer2][^runlayer3][^runlayer4][^runlayer5] |
+| General Intuition | Seed (co-led with General Catalyst, $133.7M) | 2025-10-16 | AI / World Models / Robotics / Gaming | Private — Khosla Ventures' largest seed check since OpenAI 2018 per TechCrunch; Raine Ventures also participated [^genint4][^genint5] |
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 | Scaled Cognition | Series A (led, $100M at ~$750M val; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2][^sc3] |
 
@@ -407,6 +408,10 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^genint2]: Tech Funding News, "Khosla wrote two cheques in three months, now General Intuition wants a third," June 2026. Accessed June 2026. https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/ — Independent confirmation; states the Series A closed roughly three months after a $133.7M seed round in October 2025 and brings total disclosed funding to $454M.
 
 [^genint3]: GamesBeat, "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay | exclusive interview," June 25, 2026. Accessed June 2026. https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/ — Exclusive interview with CEO Pim de Witte; confirms Khosla Ventures led $320M Series A at $2.3B valuation with General Catalyst, Hedosophia, Bezos, Schmidt, Rosberg, and cofounders of Remote and Cradle participating; round closed January 2026, announced June 2026.
+
+[^genint4]: TechCrunch, "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips," October 16, 2025. Accessed June 2026. https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/ — Confirms Khosla Ventures and General Catalyst co-led General Intuition's $133.7M seed on October 16, 2025; Raine Ventures participated. TechCrunch describes it as Khosla Ventures' largest seed check since OpenAI 2018.
+
+[^genint5]: citybiz, "General Catalyst Co-Leads $134M Round for AI Gaming Startup General Intuition," October 2025. Accessed June 2026. https://www.citybiz.co/article/760570/general-catalyst-co-leads-134m-round-for-ai-gaming-startup-general-intuition/ — Independent confirmation of Khosla Ventures and General Catalyst as co-leads of the $134M seed in October 2025.
 
 [^sc1]: GlobeNewswire, "Scaled Cognition Raises $100M Series A Led by Khosla Ventures to Build Reliable Enterprise AI," June 25, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/25/3317460/0/en/scaled-cognition-raises-100m-series-a-led-by-khosla-ventures-to-build-reliable-enterprise-ai.html — Primary press release confirming Khosla Ventures led Scaled Cognition's $100M Series A with Genesys participating; includes verbatim Vinod Khosla quote.
 

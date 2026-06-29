@@ -233,6 +233,7 @@ The following table includes 72 verified investments sourced from General Cataly
 | Cognition | $1B+ growth (co-led with Lux Capital and 8VC at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^66] |
 | Geordie AI | Series A (follow-on, $30M at ~$180M post-money; Balderton led) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Private [^67] |
 | Cadence | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^77][^78][^79] |
+| General Intuition | Seed (co-led with Khosla Ventures, $133.7M; Raine Ventures participated) | 2025-10-16 | AI / World Models / Robotics / Gaming | Private [^genint4][^genint5] |
 | General Intuition | Series A (participated, $320M; Khosla Ventures led, $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 
 *Note: This table includes 72 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
@@ -445,4 +446,8 @@ No independently sourced founder testimonials were found in this research pass. 
 [^genint2]: Tech Funding News, "Khosla wrote two cheques in three months, now General Intuition wants a third," June 2026. Accessed June 2026. https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/ — Independent confirmation of General Catalyst's participation in the $320M Series A; total disclosed funding now $454M.
 
 [^genint3]: GamesBeat, "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay | exclusive interview," June 25, 2026. Accessed June 2026. https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/ — Exclusive interview with CEO Pim de Witte naming General Catalyst among participants alongside Khosla Ventures (lead), Hedosophia, Bezos, Schmidt, and Rosberg.
+
+[^genint4]: TechCrunch, "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips," October 16, 2025. Accessed June 2026. https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/ — Confirms General Catalyst co-led General Intuition's $133.7M seed on October 16, 2025 alongside Khosla Ventures, with Raine Ventures participating.
+
+[^genint5]: citybiz, "General Catalyst Co-Leads $134M Round for AI Gaming Startup General Intuition," October 2025. Accessed June 2026. https://www.citybiz.co/article/760570/general-catalyst-co-leads-134m-round-for-ai-gaming-startup-general-intuition/ — Independent confirmation that General Catalyst co-led the $134M seed in October 2025.
 
