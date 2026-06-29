@@ -3,14 +3,23 @@ priority:
   type: firm
   reason: led General Intuition Series A ($320M at $2.3B) 2026-06-25
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Verified General Intuition Series A $320M at $2.3B post-money announced 2026-06-25 (closed January 2026 per GamesBeat exclusive interview) led by Khosla Ventures, with General Catalyst, Hedosophia, Hillspire (Eric Schmidt), Jeff Bezos, Nico Rosberg, Remote cofounders, Cradle cofounders, and Google DeepMind/MIT researchers participating, via 3 independent primary sources (TechCrunch [^genint1], Tech Funding News [^genint2], GamesBeat exclusive [^genint3]). Added GamesBeat as 3rd citation. Added Vinod Khosla quote ("If you look at LLMs, when reasoning emerged, it was a quantum leap. In world models, I think the quantum leap is the emergence of intuition in the AI.") to general-intuition.md "What Investors Say". Expanded participant list in startup funding history table.'
 - slug: general-catalyst
   type: firm
   reason: participated in General Intuition Series A ($320M at $2.3B) 2026-06-25
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'Same round verification — General Catalyst participation confirmed via 3 primary sources (TechCrunch, Tech Funding News, GamesBeat). Added GamesBeat as 3rd citation [^genint3] to portfolio row.'
 - slug: summit-partners
   type: firm
   reason: led Runpod Series A ($100M at $1B) 2026-06-24
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: 'CORRECTION: Round was NOT a Series A — primary press release (PR Newswire), Yahoo Finance, and The SaaS News all describe it as a "growth investment" / "growth capital" with no Series letter designation. Updated runpod.md stage_latest, frontmatter round, and Funding History table from "Series A" to "Growth"; updated summit-partners.md portfolio row likewise. Added Yahoo Finance as 4th citation [^4] to runpod.md. Confirmed $100M led by Summit Partners on 2026-06-24, $1.0B post-money, Michael Medici joining board, J.P. Morgan sole placement agent. Verified quotes from Zhen Lu and Michael Medici match PR Newswire source.'
 - slug: runpod
   type: startup
   reason: new startup profile (Series A 2026-06-24, $100M led by Summit Partners)

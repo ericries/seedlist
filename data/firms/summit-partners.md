@@ -104,7 +104,7 @@ Based on Summit's portfolio of 550+ companies and the 57 current portfolio compa
 | Fortis Life Sciences | Growth | 2022 | Life Sciences | Active | [^10] |
 | E-TEK Dynamics | Growth | 1997 | Telecom | Merged with JDS Uniphase (~$18B) | [^7][^7] |
 | Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7][^7] |
-| Runpod | Series A (led, $100M at $1B post-money) | 2026-06-24 | AI Infrastructure / GPU Cloud / Developer Tools | Active | [^runpod1][^runpod2][^runpod3] |
+| Runpod | Growth (led, $100M at $1B post-money) | 2026-06-24 | AI Infrastructure / GPU Cloud / Developer Tools | Active | [^runpod1][^runpod2][^runpod3] |
 | Quantifind | Growth (led, $200M) | 2026-06-26 | AI / Fintech / RegTech | Active | [^quantifind1][^quantifind2] |
 
 *This table represents approximately 25 of 550+ known investments. Summit's portfolio includes 175+ IPOs and 250+ strategic exits [^3].*
@@ -153,7 +153,7 @@ No independently sourced founder testimonials found. Summit Partners' portfolio 
 [^28]: PR Newswire, "Keeper Security Announces Minority Growth Equity Investment from Summit Partners," May 2023. https://www.prnewswire.com/news-releases/keeper-security-announces-minority-growth-equity-investment-from-summit-partners-301819147.html
 [^29]: Summit Partners, "Manychat Raises $140M Led by Summit Partners," April 2025. https://www.summitpartners.com/news/manychat-raises-140m-to-fuel-the-future-of-ai-driven-customer-engagement-on-social-and-messaging-platforms
 
-[^runpod1]: PR Newswire (Runpod release), "Runpod Raises $100M Led by Summit Partners to Accelerate the AI Developer Cloud," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runpod-raises-100m-led-by-summit-partners-to-accelerate-the-ai-developer-cloud-302808689.html — Primary press release confirms Summit Partners led Runpod's $100M Series A at a $1.0B post-money valuation; Summit Managing Director Michael Medici joined the board.
+[^runpod1]: PR Newswire (Runpod release), "Runpod Raises $100M Led by Summit Partners to Accelerate the AI Developer Cloud," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runpod-raises-100m-led-by-summit-partners-to-accelerate-the-ai-developer-cloud-302808689.html — Primary press release confirms Summit Partners led Runpod's $100M growth investment at a $1.0B post-money valuation; Summit Managing Director Michael Medici joined the board; J.P. Morgan Securities LLC sole placement agent.
 
 [^runpod2]: The SaaS News, "Runpod Raises $100M Growth Capital," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runpod-raises-100m-growth-capital/ — Independent confirmation of the Summit-led $100M round.
 

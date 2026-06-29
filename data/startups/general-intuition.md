@@ -39,14 +39,14 @@ General Intuition is building "embodied AI" foundation models — systems that c
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-25 | Series A | $320M | Khosla Ventures | General Catalyst, Hedosophia, Jeff Bezos, Eric Schmidt, Nico Rosberg [^1][^2][^3] |
+| 2026-06-25 | Series A | $320M | Khosla Ventures | General Catalyst, Hedosophia, Jeff Bezos, Eric Schmidt (via Hillspire), Nico Rosberg, Remote cofounders, Cradle cofounders, Google DeepMind/MIT researchers [^1][^2][^3] |
 | 2025-10 | Seed | $134M | -- | -- [^1] |
 
 Total disclosed funding to date: $454M. The Series A round valued the company at $2.3B [^1][^2].
 
 ## What Investors Say
 
-No independently sourced investor quotes incorporated at this time.
+> "If you look at LLMs, when reasoning emerged, it was a quantum leap. In world models, I think the quantum leap is the emergence of intuition in the AI." — Vinod Khosla, Founder, Khosla Ventures, quoted in TechCrunch, June 25, 2026 [^1]
 
 ## What Founders Say
 
