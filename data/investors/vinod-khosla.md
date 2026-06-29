@@ -3,9 +3,9 @@ check_size: $500K-$50M
 firm: khosla-ventures
 last_researched: 2026-03-24
 last_verified_investment:
-  company: HiO AI
-  date: 2025-10-08
-  round: Seed
+  company: Runlayer
+  date: 2026-06-24
+  round: Series A
 location: Menlo Park, CA
 name: Vinod Khosla
 role: Founder & Managing Director
@@ -169,6 +169,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 | Synchron | ~2016 (founded) | Early | MedTech / BCI | [^11] |
 | eGenesis | ~2014 (founded) | Early | Therapeutics / Xenotransplant | [^11] |
 | HiO AI | 2025 | Seed | AI / Productivity | [^19] |
+| Runlayer | 2026-06-24 | Series A (participated; Felicis led $30M; Vinod Khosla personally championed) | AI / Enterprise AI Governance / Security | [^27][^28][^29] |
 
 *Note: This table represents a curated selection from approximately 710 total firm investments per Crunchbase [^12]. The Khosla Ventures portfolio page lists approximately 163 highlighted companies [^11]; this table covers approximately 38 of those.*
 
@@ -302,3 +303,9 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 [^25]: "OpenAI LP." OpenAI announcement, March 11, 2019, accessed May 2026. https://openai.com/index/openai-lp/ — OpenAI's announcement of the capped-profit OpenAI LP entity, which named Khosla Ventures and Reid Hoffman as inaugural outside investors.
 
 [^26]: "OpenAI launches new company for funding safe artificial general intelligence." VentureBeat, March 11, 2019, accessed May 2026. https://venturebeat.com/ai/openai-launches-new-company-for-funding-safe-artificial-general-intelligence — Contemporaneous press confirming Khosla Ventures and Reid Hoffman's charitable organization as initial investors in OpenAI LP.
+
+[^27]: Fortune, "Exclusive: Vinod Khosla wanted 'every available dollar' of Runlayer's funding round. It just raised $30 million to govern the agent workforce," June 24, 2026. Accessed June 2026. https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/ — Primary source: Vinod Khosla personally championed Khosla Ventures' participation in Runlayer's $30M Series A on June 24, 2026 (Felicis led). Khosla Ventures had also led the prior $11M seed in November 2025.
+
+[^28]: SecurityWeek, "Runlayer Raises $30 Million in Series A Funding," June 25, 2026. Accessed June 2026. https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/ — Independently confirms Felicis-led $30M Series A on June 24, 2026 with Khosla Ventures participating.
+
+[^29]: The SaaS News, "Runlayer Raises $30M Series A," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/runlayer-raises-30m-series-a/ — Third independent confirmation of Felicis-led $30M Series A with Khosla Ventures participating; total raised to date $42M.

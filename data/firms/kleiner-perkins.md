@@ -206,7 +206,7 @@ The following table includes notable investments verified through multiple sourc
 | NewLimit | Series C (returning investor, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^46][^47][^48] |
 | Poetic | Series A (lead, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^50][^51][^52] |
 | CuspAI | Growth (co-lead with Bezos Expeditions, $400M at $2.6B valuation) | 2026-06-17 | AI / Materials Discovery | Private [^53][^54][^55] |
-| Mirendil | Seed (co-led with Andreessen Horowitz, $200M at ~$1B valuation; NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^56][^57] |
+| Mirendil | Seed (co-led with Andreessen Horowitz, $200M at ~$1B valuation; NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^56][^57][^58] |
 
 *Note: This table includes 63 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -374,3 +374,5 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^56]: TechFundingNews, "One year at Anthropic, then $200M at $1B: The researchers who just closed one of AI's largest-ever seed rounds," June 2026. Accessed June 2026. https://techfundingnews.com/ex-anthropic-researchers-raise-200m-just-weeks-after-quitting-to-build-ai-that-creates-better-ai/ — Kleiner Perkins co-led Mirendil's $200M seed at ~$1B valuation announced June 24, 2026 alongside Andreessen Horowitz, with NVIDIA participating.
 
 [^57]: The SaaS News, "Mirendil Raises $200M Seed," June 24, 2026. Accessed June 2026. https://www.thesaasnews.com/news/mirendil-raises-200m-seed/ — Independently confirms Kleiner Perkins and Andreessen Horowitz co-led Mirendil's $200M seed on June 24, 2026.
+
+[^58]: Unite.AI, "Former Anthropic Researchers Launch Mirendil at $1 Billion Valuation With $200M Seed Round," June 25, 2026. Accessed June 2026. https://www.unite.ai/former-anthropic-researchers-launch-mirendil-at-1-billion-valuation-with-200-m-seed-round/ — Third independent primary source confirms Andreessen Horowitz and Kleiner Perkins co-led Mirendil's $200M seed at $1B valuation; NVIDIA participated. Founding team of 20 includes researchers from Anthropic, xAI, Google DeepMind, and OpenAI.

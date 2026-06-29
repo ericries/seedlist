@@ -117,6 +117,7 @@ The analysis below is based on 26 verified investments personally attributed to 
 | Lava | Series A ($10M, Khosla + Founders Fund co-led) | 2024-12-09 | Fintech / Bitcoin Lending | Active | [^14][^25][^26] |
 | Factory | Series C ($150M, Khosla led; board seat) | 2026-04-16 | AI / Developer Tools | Active | [^19][^27] |
 | Sekai | Series A ($20M, co-led with Connect Ventures) | 2026-06-03 | AI / Consumer / Developer Tools | Active | [^20][^28] |
+| Runlayer | Seed (led with Felicis, $11M) | 2025-11-17 | AI / Enterprise AI Governance / Security | Active | [^29][^30] |
 
 ## In Their Own Words
 
@@ -178,3 +179,7 @@ No independently sourced founder testimonials found. Rabois is widely recognized
 [^26]: Crunchbase, "Series A — Lava," accessed June 2026. https://www.crunchbase.com/funding_round/lava-ede8-series-a--7c04eb9e — Cross-reference confirming December 9, 2024 Lava Series A.
 [^27]: The AI Insider, "Factory Raises $150M at $1.5B Valuation to Scale AI Coding Agents for Enterprises," April 17, 2026. Accessed June 2026. https://theaiinsider.tech/2026/04/17/factory-raises-150m-at-1-5b-valuation-to-scale-ai-coding-agents-for-enterprises/ — Confirms Factory $150M Series C April 16-17, 2026 led by Khosla Ventures, with Sequoia, Insight Partners, Blackstone participating; Keith Rabois joined board.
 [^28]: Yahoo Finance/GlobeNewswire, "Sekai Raises $26M in Seed and Series A as Users Create, Play, and Remix 15 Million Mini-Apps," June 3, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/sekai-raises-26m-seed-series-213200757.html — Confirms Sekai Series A $20M co-led by Keith Rabois (Khosla Ventures) and Nicole Quinn (Connect Ventures), with 359 Capital, Parable VC, 645 Ventures participating.
+
+[^29]: TechCrunch, "MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla's Keith Rabois and Felicis," November 17, 2025. Accessed June 2026. https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/ — Confirms Keith Rabois (Khosla Ventures) and Felicis co-led Runlayer's $11M seed on November 17, 2025. Third-time founder Andrew Berman (formerly Nanit, Vowel) with co-founders Tal Peretz and Vitor Balocco (ex-Zapier). Eight unicorn/public customers including Gusto, dbt Labs, Instacart, Opendoor.
+
+[^30]: SecurityWeek, "Runlayer Emerges From Stealth Mode With $11 Million in Funding," November 2025. Accessed June 2026. https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/ — Independent confirmation: "The investment round was led by Khosla Ventures general partner Keith Rabois and Felicis, with additional support from several angel investors."

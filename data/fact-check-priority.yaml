@@ -2255,22 +2255,37 @@ priority:
   type: firm
   reason: "co-led Mirendil $200M Seed (2026-06-24) — verify portfolio row"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified a16z co-led Mirendil $200M Seed at ~$1B valuation on 2026-06-24 alongside Kleiner Perkins (NVIDIA participated) via 5 independent primary sources (TechFundingNews [^87], The SaaS News [^88], Unite.AI [^89], Menlo Times, Cryptopolitan; SiliconANGLE outlier says a16z sole lead). Mirendil row already present in andreessen-horowitz.md portfolio table; added Unite.AI as third citation [^89]. Co-founders Behnam Neyshabur (CEO, co-invented SAM algorithm) and Harsh Mehta (CTO, ex-Anthropic). 20-person team includes researchers from Anthropic, xAI, Google DeepMind, OpenAI. One of largest seed rounds in AI history."
 - slug: kleiner-perkins
   type: firm
   reason: "co-led Mirendil $200M Seed (2026-06-24) — verify portfolio row"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Kleiner Perkins co-led Mirendil $200M Seed at ~$1B valuation on 2026-06-24 alongside Andreessen Horowitz (NVIDIA participated) via 5 independent primary sources (TechFundingNews [^56], The SaaS News [^57], Unite.AI [^58], Menlo Times, Cryptopolitan). Mirendil row already present in kleiner-perkins.md portfolio table; added Unite.AI as third citation [^58]. 20% ownership for incoming investors at $1B post-money."
 - slug: khosla-ventures
   type: firm
   reason: "participated in Runlayer $30M Series A (2026-06-24, Felicis-led); led prior $11M seed — verify portfolio row"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Verified Khosla Ventures participated in Runlayer $30M Series A on 2026-06-24 (Felicis led) via 3 primary sources already cited in khosla-ventures.md portfolio table (Fortune [^runlayer1], SecurityWeek [^runlayer2], The SaaS News [^runlayer3]). Khosla Ventures had led prior $11M Seed on 2025-11-17 (Felicis co-led) per TechCrunch primary source. Vinod Khosla personally championed the Series A per Fortune ('wanted every available dollar'). Total raised to date: $42M. No changes needed to Khosla Ventures row — already accurate."
 - slug: vinod-khosla
   type: investor
   reason: "championed Runlayer Series A (2026-06-24, $30M) — verify portfolio row"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Added Runlayer Series A row (participated 2026-06-24, Felicis led $30M, Vinod Khosla personally championed) to vinod-khosla.md portfolio table with 3 primary citations [^27][^28][^29] (Fortune, SecurityWeek, The SaaS News). Updated last_verified_investment from HiO AI Seed 2025-10-08 to Runlayer Series A 2026-06-24."
 - slug: keith-rabois
   type: investor
   reason: "led Runlayer $11M Seed (2025) and continued via Khosla Ventures in Series A (2026-06-24) — verify portfolio row"
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-28
+  resolution_note: "Added Runlayer Seed row (led with Felicis, $11M, 2025-11-17) to keith-rabois.md portfolio table with 2 primary citations [^29][^30] (TechCrunch and SecurityWeek explicitly identify Rabois as Khosla Ventures GP who led the seed alongside Felicis). The Series A on 2026-06-24 was a Khosla Ventures follow-on (Vinod Khosla personally championed per Fortune); Rabois was not specifically credited for the Series A, so it was attributed to Vinod Khosla's portfolio instead. last_verified_investment unchanged — Sekai 2026-06-03 remains more recent than Runlayer Seed 2025-11-17."
 - slug: mirendil
   type: startup
   reason: "new startup profile (Seed 2026-06-24, $200M co-led by a16z and Kleiner Perkins; NVIDIA participated)"
